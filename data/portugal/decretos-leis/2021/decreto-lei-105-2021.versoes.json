@@ -1,0 +1,1528 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:175043505:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-175043541",
+ "dre_path": "/dr/detalhe/decreto-lei/105-2021-175043505",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175119408",
+    "175119409",
+    "175119410",
+    "175119411",
+    "175119412",
+    "175119413",
+    "175119414",
+    "175119415",
+    "175119416",
+    "175119417",
+    "175119418",
+    "175119419",
+    "175119420",
+    "175119422",
+    "175119423",
+    "175119424",
+    "175119425",
+    "175119426",
+    "175119427",
+    "175119428",
+    "175119429",
+    "175119430",
+    "175119431",
+    "175119432",
+    "175119433",
+    "175119434",
+    "175119435",
+    "175119436",
+    "175119437",
+    "175119438",
+    "175119439",
+    "175119440",
+    "175119441",
+    "175119442",
+    "175119443",
+    "175119444",
+    "175119445",
+    "175119446",
+    "175119447",
+    "175119448",
+    "175119449",
+    "175119450",
+    "175119451",
+    "175119452",
+    "175119453",
+    "175119454",
+    "175119455",
+    "175119456",
+    "175119457",
+    "175119458",
+    "175119459",
+    "175119460",
+    "175119461",
+    "175119462",
+    "175119463",
+    "175119464",
+    "175119465",
+    "175119466",
+    "175119467",
+    "175119468",
+    "175119469",
+    "175119470",
+    "175119471",
+    "175119472",
+    "175119473",
+    "175119474",
+    "175120275",
+    "175120276",
+    "175120277",
+    "175120278",
+    "175120279",
+    "175120280",
+    "175120281",
+    "175120282",
+    "175120283",
+    "175120284",
+    "175120285",
+    "175120286",
+    "175120287",
+    "175120288",
+    "175120289",
+    "175120290",
+    "175120291",
+    "175120292",
+    "175120293",
+    "175120294",
+    "175120295",
+    "175120296",
+    "175120297",
+    "175120298",
+    "175120299",
+    "175120300",
+    "175120301",
+    "175120302",
+    "175120303",
+    "175120304",
+    "175120305",
+    "175120306",
+    "175120307",
+    "175120308",
+    "175120309",
+    "175120310",
+    "175120311",
+    "175120312",
+    "175120313",
+    "175120314",
+    "175120315",
+    "175120316",
+    "175120317",
+    "175120318",
+    "175120319",
+    "175120320",
+    "175120321",
+    "175120322",
+    "175120323",
+    "175120324",
+    "175120325",
+    "175120326",
+    "175120327"
+   ]
+  },
+  {
+   "date": "2022-09-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201509698:por",
+     "title": "Decreto-Lei n.º 64/2022",
+     "published": "2022-09-27",
+     "dre_path": "/dr/detalhe/decreto-lei/64-2022-201509698"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 53.º",
+    "Altera Artigo 75.º"
+   ],
+   "fragments": [
+    "175119408",
+    "175119409",
+    "175119410",
+    "175119411",
+    "175119412",
+    "175119413",
+    "175119414",
+    "175119415",
+    "175119416",
+    "175119417",
+    "175119418",
+    "175119419",
+    "175119420",
+    "175119421",
+    "175119422",
+    "175119423",
+    "175119424",
+    "175119425",
+    "175119426",
+    "175119427",
+    "175119428",
+    "175119429",
+    "175119430",
+    "175119431",
+    "175119432",
+    "175119433",
+    "175119434",
+    "175119435",
+    "175119436",
+    "175119437",
+    "175119438",
+    "175119439",
+    "175119440",
+    "175119441",
+    "175119442",
+    "175119443",
+    "175119444",
+    "175119445",
+    "175119446",
+    "175119447",
+    "175119448",
+    "175119449",
+    "175119450",
+    "175119451",
+    "175119452",
+    "175119453",
+    "175119454",
+    "175119455",
+    "175119456",
+    "175119457",
+    "175119458",
+    "175119459",
+    "201540282",
+    "175119461",
+    "175119462",
+    "175119463",
+    "175119464",
+    "175119465",
+    "175119466",
+    "201540283",
+    "175119468",
+    "175119469",
+    "175119470",
+    "175119471",
+    "175119472",
+    "175119473",
+    "175119474",
+    "175120275",
+    "175120276",
+    "175120277",
+    "201540284",
+    "175120279",
+    "175120280",
+    "175120281",
+    "201540285",
+    "175120283",
+    "175120284",
+    "201540286",
+    "175120286",
+    "175120287",
+    "201540287",
+    "175120289",
+    "175120290",
+    "175120291",
+    "175120292",
+    "175120293",
+    "175120294",
+    "175120295",
+    "175120296",
+    "175120297",
+    "175120298",
+    "175120299",
+    "175120300",
+    "175120301",
+    "175120302",
+    "175120303",
+    "175120304",
+    "175120305",
+    "175120306",
+    "175120307",
+    "175120308",
+    "175120309",
+    "175120310",
+    "175120311",
+    "175120312",
+    "175120313",
+    "201540288",
+    "175120315",
+    "175120316",
+    "175120317",
+    "175120318",
+    "175120319",
+    "175120320",
+    "175120321",
+    "175120322",
+    "175120323",
+    "175120324",
+    "175120325",
+    "175120326",
+    "175120327"
+   ]
+  },
+  {
+   "date": "2024-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:858167924:por",
+     "title": "Decreto-Lei n.º 25/2024",
+     "published": "2024-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/25-2024-858167924"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 53.º"
+   ],
+   "fragments": [
+    "175119408",
+    "175119409",
+    "175119410",
+    "175119411",
+    "175119412",
+    "175119413",
+    "175119414",
+    "175119415",
+    "175119416",
+    "175119417",
+    "175119418",
+    "175119419",
+    "175119420",
+    "175119421",
+    "175119422",
+    "175119423",
+    "175119424",
+    "175119425",
+    "175119426",
+    "175119427",
+    "175119428",
+    "175119429",
+    "175119430",
+    "175119431",
+    "175119432",
+    "175119433",
+    "175119434",
+    "175119435",
+    "175119436",
+    "175119437",
+    "175119438",
+    "175119439",
+    "175119440",
+    "175119441",
+    "175119442",
+    "175119443",
+    "175119444",
+    "175119445",
+    "175119446",
+    "175119447",
+    "175119448",
+    "175119449",
+    "175119450",
+    "175119451",
+    "175119452",
+    "175119453",
+    "175119454",
+    "175119455",
+    "175119456",
+    "175119457",
+    "175119458",
+    "175119459",
+    "858578260",
+    "175119461",
+    "175119462",
+    "175119463",
+    "175119464",
+    "175119465",
+    "175119466",
+    "858578266",
+    "175119468",
+    "175119469",
+    "175119470",
+    "175119471",
+    "175119472",
+    "175119473",
+    "175119474",
+    "175120275",
+    "175120276",
+    "175120277",
+    "858578261",
+    "858578262",
+    "175120280",
+    "175120281",
+    "201540285",
+    "858578263",
+    "858578264",
+    "201540286",
+    "175120286",
+    "175120287",
+    "858578265",
+    "175120289",
+    "175120290",
+    "175120291",
+    "175120292",
+    "175120293",
+    "175120294",
+    "175120295",
+    "175120296",
+    "175120297",
+    "175120298",
+    "175120299",
+    "175120300",
+    "175120301",
+    "175120302",
+    "175120303",
+    "175120304",
+    "175120305",
+    "175120306",
+    "175120307",
+    "175120308",
+    "175120309",
+    "175120310",
+    "175120311",
+    "175120312",
+    "175120313",
+    "201540288",
+    "175120315",
+    "175120316",
+    "175120317",
+    "175120318",
+    "175120319",
+    "175120320",
+    "175120321",
+    "175120322",
+    "175120323",
+    "175120324",
+    "175120325",
+    "175120326",
+    "175120327"
+   ]
+  }
+ ],
+ "fragments": {
+  "175119408": {
+   "fragment_id": "175043542",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 105/2021\n\nde 29 de novembro\n\nSumário: Aprova o Estatuto dos Profissionais da Área da Cultura.\n\nA Constituição da República Portuguesa determina que o Estado deve promover a democratização da cultura, incentivando e assegurando o acesso de todos os cidadãos à fruição e criação cultural.\n\nPara o efeito, importa criar as condições para o desenvolvimento de um setor cultural dinâmico e equilibrado, que garanta boas condições de trabalho aos seus profissionais, de forma a potenciar a respetiva criatividade e criação artística.\n\nA regulamentação das relações de trabalho que ocorram no setor da cultura, incluindo as relações de trabalho subordinadas e as autónomas, é um instrumento determinante para a produção e promoção culturais e deve, consequentemente, ser objeto da atenção do Estado.\n\nAtendendo a que o setor da cultura é um setor de atividade com especificidades próprias, particularmente caracterizado pela intermitência, pela sazonalidade, pela ausência de estabilidade e pela existência de uma multiplicidade de relações jurídicas que fogem ao padrão normal das relações de trabalho de outros setores de atividade, justifica-se a existência de um regime jurídico autónomo, que atenda às particularidades próprias deste setor.\n\nHistoricamente, aliás, esta autonomização já existia, nomeadamente na sequência da aprovação da Lei n.º 4/2008, de 7 de fevereiro, na sua redação atual, que aprovou o regime dos contratos de trabalho e estabeleceu o regime de segurança social aplicável aos trabalhadores das artes do espetáculo e do audiovisual que desenvolvam uma atividade artística, técnico-artística ou de mediação destinada a espetáculos ou a eventos públicos.\n\nO setor da cultura justifica, porém, um tratamento mais abrangente do que aquele que resulta da citada lei, designadamente tendo em conta que, como a Lei n.º 4/2008, de 7 de fevereiro, na sua redação atual, apenas regula as relações de trabalho subordinado, muitas atividades culturais ficam excluídas do respetivo âmbito de aplicação, nomeadamente as relações de trabalho autónomas e sem subordinação jurídica, com ou sem dependência económica.\n\nOra, atendendo a que parte das atividades culturais se baseia em relações de trabalho com autonomia jurídica, justifica-se, por um lado, uma abordagem mais abrangente, que inclua também os profissionais da área da cultura que prestam a sua atividade sem subordinação jurídica, de forma a garantir-lhes boas condições de trabalho e um conjunto específico de direitos que hoje não estão devidamente consagrados.\n\nPor outro lado, importa, também, criar um sistema de proteção social que seja adequado a estes profissionais e que os apoie nas diversas eventualidades que os podem afetar, nomeadamente na doença, parentalidade, desemprego, invalidez e velhice.\n\nÉ nesse contexto que se justifica um estatuto para os profissionais da área da cultura que seja abrangente, equilibrado e que contribua para a criação de boas condições de trabalho para todos os profissionais que atuam neste setor, proporcionando-lhes quer um conjunto de regras que regulamenta a respetiva atividade profissional, quer um regime de proteção social que os apoie em todas as eventualidades.\n\nCom tal objetivo em vista, o presente decreto-lei aprova o Estatuto dos Profissionais da Área da Cultura (Estatuto), que passa a aplicar-se aos profissionais das artes do espetáculo, do audiovisual, das artes visuais e da criação literária, que exerçam uma atividade autoral, artística, técnico-artística ou de mediação cultural.\n\nDe forma a abranger todas as relações de trabalho que se estabelecem no âmbito do setor da cultura, bem como o respetivo regime de proteção social, o Estatuto encontra-se dividido em três partes essenciais: (i) o registo dos profissionais da área da cultura (RPAC), (ii) o regime de contrato de trabalho e de prestação de serviço; e (iii) o regime de proteção social.\n\nEm primeiro lugar, o RPAC tem por finalidade, para além da identificação individual dos profissionais da área da cultura, a estruturação e identificação estatística do setor da cultura para posterior definição de políticas públicas de valorização profissional e técnica, apoios e outros benefícios públicos. Apesar de o registo ser de inscrição facultativa, apenas os inscritos beneficiam da aplicação do regime contributivo especial previsto no Estatuto.\n\nEm segundo lugar, e com o objetivo de ser amplo e abrangente, o Estatuto regula as diversas modalidades de prestação de atividade cultural, incluindo quer o contrato de trabalho, quer o contrato de prestação de serviços.\n\nQuanto ao contrato de trabalho, reafirmam-se os direitos e deveres individuais e coletivos dos profissionais da área da cultura e dos empregadores decorrentes do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, mas sublinham-se e acolhem-se as especificidades decorrentes deste setor de atividade e das atividades desenvolvidas por estes profissionais. Destaca-se, pela sua especificidade, o contrato de trabalho com atividade descontínua, que consta deste Estatuto a par de outras modalidades contratuais igualmente previstas no Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, como sejam o contrato de trabalho por tempo indeterminado, o contrato de trabalho a termo, o contrato de trabalho de muito curta duração e o contrato de trabalho com pluralidade de empregadores.\n\nA propósito do contrato de trabalho a termo, mantêm-se as especificidades que já decorriam da Lei n.º 4/2008, de 7 de fevereiro, na sua redação atual, designadamente quanto à necessidade de justificação, prazo máximo e renovação.\n\nO Estatuto contém, também, regras próprias quanto ao local e tempo de trabalho. A propósito do local de trabalho, este passa a abranger, nomeadamente, os locais de ensaios, ao passo que a definição de horário de trabalho e períodos de pausa é igualmente adaptada para incluir os locais de apresentações, eventos e espetáculos.\n\nAdicionalmente, o Estatuto prevê direitos e deveres específicos das partes que atendem à especificidade do setor. Em matéria laboral, destaca-se a proscrição de qualquer prática de assédio no acesso ou execução do trabalho, nomeadamente o assédio sexual, não podendo o empregador condicionar o acesso ou a participação em espetáculo ou evento cultural ou o desempenho de determinada atividade de interpretação artística à prática de comportamentos indesejados de caráter sexual. Estabelece-se, também, que o empregador deve respeitar a autonomia técnica da direção, supervisão e realização das atividades culturais e artísticas, nas suas vertentes criativas e que o trabalhador tem direito à ocupação efetiva quanto à execução de ensaios e demais atividades preparatórias e de pós-produção do espetáculo, evento cultural ou realização de filmagens, não podendo ser excluído destas atividades sem justificação.\n\nO regime da prestação de serviço passa, igualmente, a ser objeto de regulamentação específica, estabelecendo-se, nomeadamente, um dever de informação recíproco entre as partes sobre aspetos relevantes do contrato. Por outro lado, criam-se prazos supletivos para o pagamento dos serviços realizados e para o cancelamento de espetáculos, estabelecendo-se que, em caso de incumprimento, há lugar ao pagamento de juros de mora ou a indemnização, consoante o caso. Por fim, estabelece-se um regime próprio para fiscalização e regularização das situações que configurem falsas prestações de serviços, bem como uma presunção da existência de contrato de trabalho, de forma a evitar a proliferação de falsos contratos de prestação de serviço.\n\nReforça-se, ainda, que os serviços da administração direta e indireta do Estado, da administração regional e da administração autárquica, bem como as empresas do setor empresarial do Estado e do setor empresarial local e as associações e fundações maioritariamente financiadas pelo Estado, que contratem profissionais da área da cultura para exercer uma atividade profissional com caráter de regularidade e permanência, devem fazê-lo em regime de contrato de trabalho, sempre que se verifique a presunção da existência de contrato de trabalho nos termos do Estatuto.\n\nEm terceiro lugar, o Estatuto prevê um regime especial de proteção social, que abrange todos os profissionais da área da cultura inscritos no RPAC.\n\nOs trabalhadores por conta de outrem com contrato de trabalho de muito curta duração e os trabalhadores independentes, incluindo empresários em nome individual, passam a ter direito ao novo subsídio por suspensão da atividade cultural, com prazos de garantia e de concessão adequados à realidade da área da cultura. Este novo subsídio visa proteger os trabalhadores nos períodos em que estes não estão a prestar qualquer atividade profissional, sem se exigir que estes cessem a respetiva atividade junto dos serviços da segurança social e das finanças.\n\nConcomitantemente, para aqueles que tenham idade igual ou superior a 55 anos e pelo menos cinco anos de registo de remunerações, contados desde a última concessão do subsídio de suspensão da atividade cultural ou de prestações de desemprego, é criado um subsídio mais prolongado.\n\nPara conferir maior proteção aos trabalhadores da área da cultura, são atualizadas as taxas contributivas a pagar pelos trabalhadores, pelas entidades empregadoras e pelas entidades beneficiárias da prestação. Em especial, prevê-se o pagamento de uma taxa contributiva por parte de todas as entidades beneficiárias da prestação de serviços, mesmo que os trabalhadores independentes não estejam inscritos no RPAC.\n\nPor outro lado, simplifica-se o pagamento e a entrega das contribuições dos trabalhadores independentes junto da segurança social através da figura da retenção na fonte. A exemplo dos trabalhadores por conta de outrem, as entidades beneficiárias da prestação com contabilidade organizada passam a reter e a entregar as contribuições da responsabilidade do trabalhador, conjuntamente com as contribuições da sua responsabilidade.\n\nDe forma a agilizar a aplicação de todo o Estatuto, prevê-se a desmaterialização de informação, procedimentos e requerimentos necessários à inscrição dos profissionais da área da cultura.\n\nÉ, ainda, criada uma comissão de acompanhamento da implementação do Estatuto, a qual conta com a participação das associações representativas e sindicais do setor da cultura.\n\nPor último, o presente decreto-lei revoga a Lei n.º 4/2008, de 7 de fevereiro, na sua redação atual, e prevê a revisão do Estatuto no prazo de dois anos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nForam ouvidas as associações representativas do setor da cultura, bem como o Sindicato dos Trabalhadores de Espectáculos, do Audiovisual e dos Músicos.\n\nO presente decreto-lei foi publicado na separata do Boletim do Trabalho e Emprego, n.º 9, de 5 de maio de 2021.\n\nO presente decreto-lei foi objeto de consulta pública entre 5 de maio e 17 de junho de 2021.\n\nAssim:\n\nNos termos do artigo 251.º da Lei n.º 75-B/2020, de 31 de dezembro, na sua redação atual, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "175119409": {
+   "fragment_id": "175043543",
+   "type": 11,
+   "heading": "Artigo 1.º — Estatuto dos Profissionais da Área da Cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estatuto dos Profissionais da Área da Cultura\n\nÉ aprovado o Estatuto dos Profissionais da Área da Cultura, adiante designado por Estatuto, que se publica em anexo ao presente decreto-lei e do qual faz parte integrante."
+  },
+  "175119410": {
+   "fragment_id": "175043544",
+   "type": 11,
+   "heading": "Artigo 2.º — Comissão de Acompanhamento do Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comissão de Acompanhamento do Estatuto\n\n1 - É criada, pelo prazo de dois anos, a Comissão de Acompanhamento do Estatuto, adiante designada por Comissão, que funciona na dependência do membro do Governo responsável pela área da cultura.\n\n2 - A Comissão desempenha funções consultivas sobre a implementação do Estatuto.\n\n3 - A Comissão é constituída por um representante de cada uma das seguintes entidades:\n\na) Inspeção-Geral das Atividades Culturais, que preside;\n\nb) Autoridade Tributária e Aduaneira;\n\nc) Direção-Geral das Artes;\n\nd) Direção-Geral do Livro, dos Arquivos e das Bibliotecas;\n\ne) Instituto do Cinema e Audiovisual, I. P.;\n\nf) Autoridade para as Condições do Trabalho;\n\ng) Direção-Geral da Segurança Social;\n\nh) Direção-Geral do Emprego e das Relações de Trabalho;\n\ni) Instituto da Segurança Social, I. P.\n\n4 - A Comissão é ainda constituída por um representante de cada uma das entidades representativas dos profissionais da área da cultura e associações sindicais representativas do setor, a indicar por despacho do membro do Governo responsável pela área da cultura.\n\n5 - Podem participar nas reuniões da Comissão representantes dos membros do Governo responsáveis pelas áreas governativas:\n\na) Das finanças;\n\nb) Da cultura; e\n\nc) Do trabalho, solidariedade e segurança social.\n\n6 - Podem, ainda, participar, como observadores, quaisquer pessoas convidadas por iniciativa do presidente ou mediante solicitação que lhe seja dirigida por qualquer dos restantes membros da Comissão.\n\n7 - As reuniões têm uma periodicidade mínima trimestral, podendo ser realizadas reuniões extraordinárias, em qualquer momento, por iniciativa do presidente ou a pedido da maioria dos membros da Comissão.\n\n8 - Os membros da Comissão não são remunerados."
+  },
+  "175119411": {
+   "fragment_id": "175043545",
+   "type": 11,
+   "heading": "Artigo 3.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registo\n\nOs profissionais da área da cultura validamente registados no registo nacional de profissionais do setor das atividades artísticas, culturais e de espetáculo são oficiosamente inscritos no registo dos profissionais da área da cultura (RPAC), quando observem os requisitos previstos no Estatuto e assim o consintam."
+  },
+  "175119412": {
+   "fragment_id": "175043546",
+   "type": 11,
+   "heading": "Artigo 4.º — Medidas de ação positiva para a celebração de contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Medidas de ação positiva para a celebração de contrato de trabalho\n\n1 - Os serviços da administração direta e indireta do Estado, da administração regional e da administração local, bem como as empresas do setor empresarial do Estado e do setor empresarial local e as associações e fundações maioritariamente financiadas pelo Estado, que contratem profissionais da área da cultura para exercer uma atividade profissional, devem fazê-lo em regime de contrato de trabalho, sempre que se verifique a presunção da existência de contrato de trabalho nos termos do Estatuto.\n\n2 - As entidades referidas no número anterior que contratem pessoas coletivas para a realização de atividades culturais devem contratar aquelas que:\n\na) Tenham ao seu serviço profissionais da área da cultura contratados em regime de contrato de trabalho, quando este seja aplicável; e\n\nb) Afetem tais profissionais à realização das atividades contratadas.\n\n3 - O disposto no número anterior deve estar previsto nas peças dos procedimentos de formação de contratos públicos previstas no Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual."
+  },
+  "175119413": {
+   "fragment_id": "175043547",
+   "type": 11,
+   "heading": "Artigo 5.º — Regularização de dívida à segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regularização de dívida à segurança social\n\n1 - Os profissionais da área da cultura abrangidos pelo regime dos trabalhadores independentes ficam isentos do pagamento de 75 % dos juros de mora e custas do processo de execução fiscal por dívidas à segurança social, se for caso disso, se no prazo de 12 meses a contar da entrada em vigor do presente decreto-lei pagarem os valores de contribuições em dívida.\n\n2 - A dívida referida no número anterior pode ser paga até 36 prestações mensais com isenção de 50 % dos juros de mora e custas do processo de execução fiscal, se o requerimento para pagamento em prestações for apresentado no prazo de seis meses a contar da data de entrada em vigor do presente decreto-lei.\n\n3 - O requerimento para pagamento é dirigido à Secção de Processo Executivo competente.\n\n4 - O plano prestacional a que se refere o presente artigo não depende da constituição de garantias, para além das que tenham sido constituídas.\n\n5 - A falta de pagamento das prestações mensais autorizadas determina a perda, com efeitos retroativos, dos benefícios concedidos no âmbito do presente artigo.\n\n6 - Ao incumprimento do plano prestacional é aplicável o regime previsto no n.º 1 do artigo 200.º do Código de Procedimento e de Processo Tributário, aprovado em anexo ao Decreto-Lei n.º 433/99, de 26 de outubro, na sua redação atual.\n\n7 - O disposto na alínea a) do n.º 2 do artigo 208.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado em anexo à Lei n.º 110/2009, de 16 de setembro, na sua redação atual, é aplicável aos pagamentos em prestações a que se refere o presente artigo.\n\n8 - Os processos de execução fiscal extinguem-se com o pagamento da dívida nos termos previstos no presente artigo, independentemente da existência de outros executados responsáveis pela mesma dívida."
+  },
+  "175119414": {
+   "fragment_id": "175043548",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime transitório\n\n1 - Os trabalhadores que se inscrevam no RPAC durante o ano de 2022:\n\na) Podem iniciar a contagem do prazo de garantia de acesso ao subsídio de suspensão da atividade cultural, nos termos e nas condições previstos no Estatuto;\n\nb) Devem permanecer inscritos durante 36 meses, sob pena de restituição dos valores recebidos a título de subsídio de suspensão da atividade cultural.\n\n2 - O início da contagem do prazo de garantia para acesso ao subsídio de suspensão da atividade cultural tem lugar a partir de 1 de julho de 2022.\n\n3 - Os profissionais da área da cultura podem beneficiar do subsídio de suspensão da atividade cultural a partir de 1 de outubro de 2022."
+  },
+  "175119415": {
+   "fragment_id": "175043549",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\nAs portarias de regulamentação previstas no Estatuto devem ser aprovadas no prazo de 90 dias após a publicação do presente decreto-lei."
+  },
+  "175119416": {
+   "fragment_id": "175043550",
+   "type": 11,
+   "heading": "Artigo 8.º — Revisão do Estatuto dos Profissionais da Área da Cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revisão do Estatuto dos Profissionais da Área da Cultura\n\n1 - O Estatuto é revisto no prazo de dois anos a contar da data de entrada em vigor do presente decreto-lei.\n\n2 - Os serviços e organismos referidos no n.º 3 do artigo 2.º elaboram individualmente relatórios de avaliação de impacto relativos à aplicação do Estatuto."
+  },
+  "175119417": {
+   "fragment_id": "175043551",
+   "type": 11,
+   "heading": "Artigo 9.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regiões Autónomas\n\nO Estatuto aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas aos respetivos órgãos de governo próprio e das adaptações que lhe venham a ser introduzidas por ato legislativo regional."
+  },
+  "175119418": {
+   "fragment_id": "175043552",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nSão revogadas:\n\na) A Lei n.º 4/2008, de 7 de fevereiro, na sua redação atual;\n\nb) A Portaria n.º 156/2017, de 21 de junho, na sua redação atual."
+  },
+  "175119419": {
+   "fragment_id": "175043553",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicação da lei no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação da lei no tempo\n\n1 - Ficam sujeitos ao regime previsto no Estatuto aprovado pelo presente decreto-lei os contratos de trabalho dos profissionais da área da cultura celebrados ao abrigo da Lei n.º 4/2008, de 7 de fevereiro, na sua redação atual, salvo quanto a condições de validade e efeitos de factos ou situações totalmente ocorridas antes da entrada em vigor do presente decreto-lei.\n\n2 - Os trabalhadores independentes economicamente dependentes, que à data de entrada em vigor do presente decreto-lei tenham adquirido o direito a requerer o subsídio de cessação de atividade, mantêm tal direito pelo período de um ano, mantendo-se as respetivas condições de atribuição."
+  },
+  "175119420": {
+   "fragment_id": "175043554",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor no dia 1 de janeiro de 2022.\n\n2 - As disposições previstas no capítulo v do Estatuto produzem efeitos a partir do dia 1 de julho de 2022, com exceção do disposto nos artigos 45.º e 49.º do Estatuto, que produz efeitos a partir de 1 de outubro de 2022."
+  },
+  "175119422": {
+   "fragment_id": "175043556",
+   "type": 14,
+   "heading": "Anexo — Estatuto dos Profissionais da Área da Cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatuto dos Profissionais da Área da Cultura"
+  },
+  "175119423": {
+   "fragment_id": "175043557",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "175119424": {
+   "fragment_id": "175043558",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Estatuto dos Profissionais da Área da Cultura, adiante designado por Estatuto, estabelece, relativamente aos profissionais da área da cultura:\n\na) O registo dos profissionais da área da cultura (RPAC);\n\nb) O regime do contrato de trabalho;\n\nc) O regime do contrato de prestação de serviço;\n\nd) O regime de proteção social."
+  },
+  "175119425": {
+   "fragment_id": "175043559",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito subjetivo\n\n1 - O presente Estatuto é aplicável aos profissionais das artes do espetáculo, do audiovisual, das artes visuais e da criação literária, que exerçam uma atividade autoral, artística, técnico-artística ou de mediação cultural.\n\n2 - Para efeitos do disposto no número anterior, consideram-se:\n\na) Atividades autorais, as que envolvem criações intelectuais do domínio literário e artístico, por qualquer modo exteriorizadas, que, como tais, são protegidas nos termos do Código do Direito de Autor e dos Direitos Conexos, aprovado em anexo ao Decreto-Lei n.º 63/85, de 14 de março, na sua redação atual;\n\nb) Atividades de natureza artística, as que se encontram ligadas à interpretação e execução de obras no domínio das artes do espetáculo, das artes visuais e do audiovisual, bem como a outras interpretações ou execuções de natureza análoga, que se realizem perante público ou que se destinem à gravação, transmissão ou colocação à disposição para difusão pública, independentemente do meio ou do suporte utilizado;\n\nc) Atividades de natureza técnico-artística, as que estejam relacionadas com os métodos de execução, os materiais, os equipamentos e os processos produtivos de obras de natureza artística destinadas à fruição pelo público, através dos diversos meios de difusão existentes;\n\nd) Atividades de mediação cultural, as que estão relacionadas com a produção, a realização e divulgação de artes de espetáculo ou de audiovisual, incluindo a valorização e divulgação das obras e dos artistas.\n\n3 - Consideram-se profissionais que exerçam uma atividade autoral, artística, técnico-artística ou de mediação cultural aqueles que sejam:\n\na) Trabalhadores por conta de outrem, qualquer que seja a modalidade do contrato de trabalho;\n\nb) Trabalhadores independentes, incluindo os empresários em nome individual;\n\nc) Membros de órgãos estatutários de pessoas coletivas da área da cultura;\n\nd) Os titulares de estabelecimentos de responsabilidade limitada da área da cultura.\n\n4 - As profissões e atividades abrangidas pelo presente Estatuto são definidas por portaria dos membros do Governo responsáveis pelas áreas das finanças, da modernização do Estado e da Administração Pública, da cultura e da segurança social."
+  },
+  "175119426": {
+   "fragment_id": "175043560",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime aplicável\n\n1 - Ao profissional que exerça uma atividade autoral, artística, técnico-artística ou de mediação cultural em regime de contrato de trabalho aplica-se, em tudo o que não estiver previsto no presente Estatuto, o disposto no Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.\n\n2 - Ao profissional que exerça uma atividade autoral, artística, técnico-artística ou de mediação cultural em regime de prestação de serviço aplica-se, em tudo o que não estiver previsto no presente Estatuto, o disposto no Código Civil, aprovado em anexo ao Decreto-Lei n.º 47344/66, de 25 de novembro, na sua redação atual.\n\n3 - São aplicáveis aos contratos regulados no presente Estatuto as normas sobre a participação de menores em espetáculos e outras atividades, estabelecidas no Código do Trabalho, e na Lei n.º 105/2009, de 14 de setembro, na sua redação atual."
+  },
+  "175119427": {
+   "fragment_id": "175043561",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos de propriedade intelectual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direitos de propriedade intelectual\n\n1 - Os direitos de propriedade intelectual decorrentes da atividade autoral e artística dos trabalhadores e dos prestadores de serviços abrangidos pelo presente Estatuto regem-se pelo Código do Direito de Autor e dos Direitos Conexos e pelo disposto no artigo 54.º do presente Estatuto, sem prejuízo do disposto no número seguinte.\n\n2 - O presente Estatuto não se aplica a contratos de edição, fixação, autorização, licenciamento, transmissão ou qualquer outra forma de disposição de direitos de autor e direitos conexos."
+  },
+  "175119428": {
+   "fragment_id": "175043562",
+   "type": 1,
+   "heading": "Capítulo II — Registo dos profissionais da área da cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Registo dos profissionais da área da cultura"
+  },
+  "175119429": {
+   "fragment_id": "175043563",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo\n\n1 - É criado, junto da Inspeção-Geral das Atividades Culturais (IGAC), o RPAC, ao qual está associada a atribuição de um cartão eletrónico do profissional da área da cultura.\n\n2 - O registo no RPAC é facultativo e tem as seguintes finalidades:\n\na) Identificação individual, fazendo fé pública do exercício da respetiva atividade;\n\nb) Estruturação e identificação estatística do setor da cultura;\n\nc) Permitir a futura definição de políticas públicas de valorização profissional e técnica, apoios e outros benefícios públicos;\n\nd) Aplicação do regime especial de proteção social constante do presente Estatuto.\n\n3 - O profissional da área da cultura só beneficia do regime especial de proteção social previsto no capítulo v enquanto se encontrar inscrito no RPAC.\n\n4 - Ao profissional da área da cultura que não se encontre inscrito no RPAC aplica-se o regime de proteção social constante do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n5 - Da portaria referida no n.º 4 do artigo 2.º constam ainda os termos e as condições para efeitos de registo no RPAC.\n\n6 - Para efeitos de atualização e renovação do registo no RPAC, o profissional da área da cultura deve apresentar certificado de trabalho ou de atividade comprovativo da sua experiência profissional, o qual deve ser emitido a pedido do profissional da área da cultura pelo empregador ou pela entidade beneficiária da prestação.\n\n7 - O documento comprovativo referido no número anterior pode ser substituído por consulta às bases de dados da segurança social, mediante consentimento do profissional da área da cultura."
+  },
+  "175119430": {
+   "fragment_id": "175043564",
+   "type": 1,
+   "heading": "Capítulo III — Contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Contrato de trabalho"
+  },
+  "175119431": {
+   "fragment_id": "175043565",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "175119432": {
+   "fragment_id": "175043566",
+   "type": 11,
+   "heading": "Artigo 6.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Noção\n\nPara efeitos do presente Estatuto, contrato de trabalho é aquele pelo qual uma pessoa singular que desenvolva uma atividade autoral, artística, técnico-artística ou de mediação cultural se obriga, mediante retribuição, a prestar a sua atividade a outra ou outras pessoas, no âmbito de organização e sob a autoridade destas."
+  },
+  "175119433": {
+   "fragment_id": "175043567",
+   "type": 11,
+   "heading": "Artigo 7.º — Presunção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Presunção\n\n1 - Presume-se a existência de contrato de trabalho quando, na relação entre a pessoa que presta uma atividade autoral, artística, técnico-artística ou de mediação cultural nos termos do presente Estatuto, e outra ou outras que dela beneficiam, se verifiquem algumas das características previstas no artigo 12.º do Código do Trabalho, com as especificidades constantes dos números seguintes.\n\n2 - Para efeitos da alínea a) do n.º 1 do artigo 12.º do Código do Trabalho, considera-se local de trabalho todos os locais pertencentes às entidades beneficiárias da prestação, que sejam ou não por elas determinados, incluindo ateliers e todos os locais onde se realizam trabalhos de desenvolvimento, pré-produção, ensaios, execução, finalização e pós-produção de manifestações de natureza cultural e artística ou outras atividades complementares ou acessórias do trabalho prestado.\n\n3 - Para efeitos da alínea c) do n.º 1 do artigo 12.º do Código do Trabalho, incluem-se nas horas de início e de termo da prestação determinadas pela entidade beneficiária da prestação aquelas que sejam observadas para a preparação, execução e finalização de obras e manifestações de natureza cultural e artística, mesmo que em locais escolhidos pelo prestador da atividade e que não sejam determinados pela entidade beneficiária da mesma."
+  },
+  "175119434": {
+   "fragment_id": "175043568",
+   "type": 11,
+   "heading": "Artigo 8.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma\n\n1 - O contrato de trabalho não depende da observância de forma especial, salvo quando o Código do Trabalho ou o presente Estatuto a determinem.\n\n2 - Sempre que seja seguida a forma escrita, para além das menções obrigatórias previstas no Código do Trabalho, o contrato de trabalho deve conter o número do cartão do profissional da área da cultura, se aplicável."
+  },
+  "175119435": {
+   "fragment_id": "175043569",
+   "type": 11,
+   "heading": "Artigo 9.º — Trabalhador estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Trabalhador estrangeiro\n\n1 - Para efeitos da lei que define as condições e os procedimentos de entrada, permanência, saída e afastamento de cidadãos estrangeiros do território português, presume-se que os profissionais que exercem uma atividade autoral, artística, técnico-artística ou de mediação cultural realizam uma atividade altamente qualificada.\n\n2 - Os profissionais referidos no número anterior são suscetíveis de serem abrangidos, em sede do Imposto sobre o Rendimento das Pessoas Singulares (IRS), pelo regime dos residentes não habituais, nos termos e nas condições previstas no Código do IRS, aprovado em anexo ao Decreto-Lei n.º 442-A/88, de 30 de novembro, na sua redação atual, e demais legislação complementar, designadamente a Portaria n.º 230/2019, de 23 de julho."
+  },
+  "175119436": {
+   "fragment_id": "175043570",
+   "type": 8,
+   "heading": "Secção II — Modalidades de contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Modalidades de contrato de trabalho"
+  },
+  "175119437": {
+   "fragment_id": "175043571",
+   "type": 11,
+   "heading": "Artigo 10.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Modalidades\n\n1 - O contrato de trabalho reveste as seguintes modalidades:\n\na) Contrato de trabalho por tempo indeterminado;\n\nb) Contrato de trabalho a termo resolutivo, certo ou incerto;\n\nc) Contrato de trabalho de muito curta duração;\n\nd) Contrato de trabalho com atividade descontínua;\n\ne) Contrato de trabalho com pluralidade de empregadores.\n\n2 - Pode ainda ser celebrado contrato de estágio nos termos do disposto no Decreto-Lei n.º 66/2011, de 1 de junho, na sua redação atual."
+  },
+  "175119438": {
+   "fragment_id": "175043572",
+   "type": 11,
+   "heading": "Artigo 11.º — Contrato de trabalho a termo resolutivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contrato de trabalho a termo resolutivo\n\n1 - É admitida a celebração de contrato de trabalho a termo resolutivo, certo ou incerto, para a satisfação de necessidades temporárias, objetivamente definidas pela entidade empregadora e apenas pelo período estritamente necessário à satisfação dessas necessidades, tendo em vista o exercício das atividades enunciadas no presente Estatuto.\n\n2 - O contrato de trabalho a termo resolutivo, certo ou incerto, tem a duração máxima de quatro anos, incluindo renovações, não lhe sendo aplicável o regime previsto no Código do Trabalho em matéria de sucessão de contratos.\n\n3 - O contrato de trabalho a termo certo tem a duração que as partes estipularem expressamente por escrito.\n\n4 - O contrato de trabalho a termo certo pode ser renovado até três vezes, apenas podendo ser sujeito a renovação se as partes assim o estipularem expressamente por escrito.\n\n5 - Constitui contraordenação muito grave a violação do disposto no n.º 1."
+  },
+  "175119439": {
+   "fragment_id": "175043573",
+   "type": 11,
+   "heading": "Artigo 12.º — Contrato de trabalho de muito curta duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contrato de trabalho de muito curta duração\n\n1 - É admitida a celebração de contrato de trabalho de muito curta duração para o desempenho das atividades enunciadas no presente Estatuto.\n\n2 - O contrato de trabalho de duração não superior a 35 dias não está sujeito a forma escrita, sem prejuízo das comunicações legalmente devidas à segurança social.\n\n3 - Nos casos previstos no número anterior, a duração total dos contratos de trabalho de muito curta duração que sejam celebrados entre o mesmo trabalhador e empregador não pode exceder 70 dias de trabalho em cada ano civil.\n\n4 - Em caso de violação do disposto em qualquer dos números anteriores, o contrato de trabalho considera-se celebrado pelo prazo de seis meses, contando-se a duração de contratos anteriores celebrados ao abrigo dos mesmos preceitos."
+  },
+  "175119440": {
+   "fragment_id": "175043574",
+   "type": 11,
+   "heading": "Artigo 13.º — Contrato de trabalho com atividade descontínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contrato de trabalho com atividade descontínua\n\n1 - Quando as atividades autorais, artísticas, técnico-artísticas e de mediação cultural não apresentem carácter de continuidade ou tenham intensidade variável, pode ser acordado entre trabalhador e empregador o exercício da prestação de trabalho de forma descontínua, sendo a prestação intercalada por um ou mais períodos de inatividade, nos termos dos números seguintes.\n\n2 - A prestação de trabalho referida no número anterior não pode ser inferior a cinco meses a tempo completo, por ano, dos quais pelo menos três meses devem ser consecutivos.\n\n3 - Para efeitos do disposto no número anterior:\n\na) Os tempos de trabalho efetivo, para além do período de prestação efetiva da atividade autoral, artística, técnico-artística e mediação cultural, incluem também o período de preparação, promoção e finalização das atividades culturais e artísticas e os tempos de deslocação quando aquela implique deslocações ou itinerância;\n\nb) Os tempos de não trabalho correspondem aos períodos de inatividade.\n\n4 - O contrato de trabalho com atividade descontínua está sujeito a forma escrita e deve conter:\n\na) Identificação, assinaturas e domicílio ou sede das partes;\n\nb) Indicação do número anual de horas de trabalho ou do número anual de dias de trabalho a tempo completo.\n\n5 - Quando não tenha sido observada a forma escrita, ou na falta da indicação referida na alínea b) do número anterior, considera-se o contrato de trabalho celebrado sem período de inatividade.\n\n6 - Durante os períodos de inatividade, o trabalhador mantém a disponibilidade para iniciar a sua prestação de trabalho, desde que seja convocado pelo empregador com a antecedência acordada entre as partes, que não deve ser inferior a 30 dias na situação prevista na alínea a) do n.º 8, e a 20 dias nas restantes situações.\n\n7 - Nos períodos de inatividade, mantêm-se os direitos, deveres e garantias das partes que não pressuponham a prestação efetiva de trabalho.\n\n8 - Durante os períodos de inatividade, o trabalhador tem direito:\n\na) A exercer outra atividade, devendo informar o empregador desse facto, desde que salvaguardados os deveres laborais que não pressupõem a prestação da atividade;\n\nb) A uma compensação retributiva, a pagar pelo empregador e a fixar por acordo das partes, com um mínimo de 30 % da retribuição base;\n\nc) Aos subsídios de férias e de Natal, calculados com base nas médias dos valores de retribuições e compensações retributivas auferidas nos últimos 12 meses, ou no período de duração do contrato se esta for inferior.\n\n9 - Se o trabalhador exercer outra atividade durante o período de inatividade, o montante da correspondente retribuição é deduzido à compensação retributiva a que se refere a alínea b) do número anterior, nos casos em que a retribuição auferida noutro empregador seja igual ou superior à auferida pelo trabalhador em regime de contrato com atividade descontínua.\n\n10 - O montante da retribuição não é deduzido à compensação retributiva a que se refere a alínea b) do n.º 8 nos seguintes casos:\n\na) Relativamente a contratos de trabalho existentes previamente ao início do período de inatividade do trabalhador;\n\nb) Se o valor da retribuição da nova atividade for igual ou inferior ao salário mínimo nacional.\n\n11 - Durante os períodos de inatividade o empregador fica obrigado a:\n\na) Pagar pontualmente a compensação retributiva, com periodicidade igual à da retribuição;\n\nb) Não admitir novos trabalhadores ou renovar contratos para atividades autorais, artísticas, técnico-artísticas e de mediação cultural suscetíveis de poderem ser desempenhadas pelo trabalhador em situação de inatividade.\n\n12 - O contrato de trabalho com atividade descontínua não pode ser celebrado a termo resolutivo, mediante contrato de trabalho de muito curta duração ou em regime de trabalho temporário.\n\n13 - São subsidiariamente aplicáveis ao contrato de trabalho com atividade descontínua as normas relativas à modalidade contratual prevista nos artigos 157.º e seguintes do Código do Trabalho.\n\n14 - Constitui contraordenação grave a violação do disposto nos n.os 6 e 8 e nas alíneas a) e b) do n.º 11."
+  },
+  "175119441": {
+   "fragment_id": "175120175",
+   "type": 11,
+   "heading": "Artigo 14.º — Contrato de trabalho com pluralidade de empregadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contrato de trabalho com pluralidade de empregadores\n\n1 - O trabalhador pode obrigar-se a prestar trabalho a vários empregadores entre os quais exista uma relação societária de participações recíprocas, de domínio ou de grupo, que tenham estruturas organizativas comuns, ou que organizem em conjunto espetáculos ou eventos culturais.\n\n2 - O contrato de trabalho com pluralidade de empregadores está sujeito a forma escrita e deve conter:\n\na) Identificação, assinaturas e domicílio ou sede das partes;\n\nb) Indicação da atividade do trabalhador, do local e do período normal de trabalho;\n\nc) Indicação do empregador que representa os demais no cumprimento dos deveres e no exercício dos direitos emergentes do contrato de trabalho, quando aplicável.\n\n3 - Os empregadores são solidariamente responsáveis pelo cumprimento das obrigações decorrentes do contrato de trabalho, cujo credor seja o trabalhador ou terceiro.\n\n4 - Cessando a situação referida no n.º 1, considera-se que o trabalhador fica apenas vinculado ao empregador a que se refere a alínea c) do n.º 2, salvo acordo das partes em contrário.\n\n5 - A violação dos requisitos indicados nos n.os 1 ou 2 confere ao trabalhador o direito de optar pelo empregador ao qual fica vinculado.\n\n6 - Constitui contraordenação grave a violação do disposto nos n.os 1 e 2, sendo responsáveis pela mesma todos os empregadores, os quais são representados, para este efeito, por aquele a que se refere a alínea c) do n.º 2."
+  },
+  "175119442": {
+   "fragment_id": "175120176",
+   "type": 11,
+   "heading": "Artigo 15.º — Pluriemprego e regime de exclusividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pluriemprego e regime de exclusividade\n\n1 - É admitido o pluriemprego, salvo se as partes estabelecerem, por escrito, que o trabalhador realiza a sua atividade em exclusivo para um único empregador, mediante a fixação de uma compensação adequada para a prestação do trabalho em regime de exclusividade.\n\n2 - Quando não exista acordo de exclusividade, os trabalhadores podem celebrar contratos simultâneos com mais de um empregador, desde que o cumprimento do objeto dos diferentes contratos não seja incompatível por razão de horário, localização geográfica ou profissional, devendo ser respeitados os deveres que não pressupõem a prestação da atividade laboral."
+  },
+  "175119443": {
+   "fragment_id": "175120177",
+   "type": 8,
+   "heading": "Secção III — Execução da prestação laboral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Execução da prestação laboral"
+  },
+  "175119444": {
+   "fragment_id": "175120178",
+   "type": 11,
+   "heading": "Artigo 16.º — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direitos e deveres\n\n1 - O trabalhador beneficia dos direitos e está sujeito aos deveres laborais previstos no Código do Trabalho, com as especificidades constantes do presente Estatuto.\n\n2 - O empregador deve respeitar os direitos de personalidade do trabalhador, nomeadamente a respetiva liberdade de expressão, criação, pensamento e opinião, integridade física e moral, reserva da intimidade da vida privada e proteção de dados pessoais.\n\n3 - É proibida qualquer prática de discriminação no acesso ou execução do trabalho em razão, nomeadamente, de ascendência, idade, sexo, orientação sexual, identidade de género, estado civil, situação familiar, situação económica, instrução, origem ou condição social, património genético, capacidade de trabalho reduzida, deficiência, doença crónica, nacionalidade, origem étnica ou raça, território de origem, língua, religião, convicções políticas ou ideológicas e filiação sindical.\n\n4 - É proibida qualquer prática de assédio no acesso ou execução do trabalho, nomeadamente o assédio sexual, não podendo o empregador condicionar o acesso ou a participação em espetáculo ou evento cultural ou o desempenho de determinada atividade de interpretação artística à prática de comportamentos indesejados de caráter sexual.\n\n5 - O empregador deve respeitar a autonomia técnica da direção, supervisão e realização das atividades culturais e artísticas, nas suas vertentes criativas.\n\n6 - O trabalhador tem direito à ocupação efetiva quanto à execução de ensaios e demais atividades preparatórias e de pós-produção do espetáculo, evento cultural ou realização de filmagens, não podendo ser excluído destas atividades sem justificação.\n\n7 - O trabalhador pode faltar justificadamente ao trabalho, com perda de retribuição, até três dias por ano, para efeitos de participação em espetáculo público realizado fora do país, devendo para o efeito informar o empregador da sua ausência com a antecedência mínima de 30 dias, acompanhada da indicação do motivo justificativo, desde que tal ausência não cause prejuízo sério ao normal funcionamento da organização laboral.\n\n8 - O trabalhador pode faltar justificadamente ao trabalho nos casos previstos na lei, mesmo quando a ausência coincida com a realização de um espetáculo ou evento público.\n\n9 - Quando a atividade artística é desenvolvida em grupo, o trabalhador tem um especial dever de lealdade e colaboração com os restantes membros do grupo, tendo em vista a execução da atividade em comum.\n\n10 - São nulas as cláusulas de contrato de trabalho ou de instrumento de regulamentação coletiva de trabalho que, por qualquer forma, possam prejudicar o exercício da liberdade de trabalho após a cessação do contrato, salvo nos casos previstos na lei.\n\n11 - Constitui contraordenação muito grave a violação do disposto nos n.os 3 e 4."
+  },
+  "175119445": {
+   "fragment_id": "175120179",
+   "type": 11,
+   "heading": "Artigo 17.º — Tempo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Tempo de trabalho\n\n1 - Considera-se tempo de trabalho o período de prestação efetiva da atividade autoral, artística, técnico-artística e mediação cultural, bem como todo o tempo em que o trabalhador está adstrito à execução da sua prestação, em especial para efeitos de ensaios, execução, pré e pós-produção, finalização, pesquisa e estudo, bem como outras atividades promocionais e de divulgação.\n\n2 - Integram também o tempo de trabalho as interrupções e os intervalos previstos como tal no n.º 2 do artigo 197.º do Código do Trabalho, ou em instrumento de regulamentação coletiva de trabalho."
+  },
+  "175119446": {
+   "fragment_id": "175120180",
+   "type": 11,
+   "heading": "Artigo 18.º — Período normal de trabalho e descanso semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Período normal de trabalho e descanso semanal\n\n1 - O contrato de trabalho sujeita-se aos limites máximos do período normal de trabalho previstos no Código do Trabalho, podendo ser aplicados os regimes do banco de horas, adaptabilidade do tempo de trabalho, horário concentrado, horário flexível e isenção de horário de trabalho, nos termos previstos naquele código.\n\n2 - O período normal de trabalho definido nos termos do n.º 2 do artigo 204.º do Código do Trabalho não pode exceder 50 horas em média no período de seis meses.\n\n3 - O trabalhador tem direito ao descanso diário e semanal, com as especificidades constante dos números seguintes.\n\n4 - Os dias de descanso semanal obrigatório e complementar podem não coincidir, respetivamente, com o domingo ou o sábado.\n\n5 - O trabalho prestado fora do horário de trabalho considera-se trabalho suplementar e rege-se pelo disposto no Código do Trabalho, com as especificidades constantes do número seguinte.\n\n6 - Por conveniência da organização da atividade de natureza cultural ou artística, a compensação por trabalho prestado em dia de descanso semanal complementar do trabalhador deve efetuar-se no prazo máximo de três meses.\n\n7 - Constitui contraordenação muito grave a violação do disposto no número anterior."
+  },
+  "175119447": {
+   "fragment_id": "175120181",
+   "type": 11,
+   "heading": "Artigo 19.º — Horário de trabalho e intervalos de descanso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Horário de trabalho e intervalos de descanso\n\n1 - O contrato de trabalho sujeita-se ao regime previsto no Código do Trabalho, no que respeita ao horário de trabalho e aos intervalos de descanso, com a especificidade constante do número seguinte.\n\n2 - Salvo acordo em contrário, na determinação do horário de trabalho o empregador pode estabelecer um ou mais intervalos de descanso ou um regime de trabalho flexível adequado à especificidade da atividade, do espetáculo ou do evento.\n\n3 - Para efeitos do disposto no número anterior, as horas de início e termo dos períodos de trabalho podem ser móveis, dentro dos limites máximos do período normal de trabalho, e os descansos diários podem ser superiores ao previsto no Código de Trabalho.\n\n4 - A alteração de horário de trabalho deve ser precedida de consulta aos trabalhadores envolvidos e à comissão de trabalhadores ou, na sua falta, à comissão sindical ou intersindical ou aos delegados sindicais, bem como, ainda que vigore o regime de adaptabilidade, ser afixada no local habitual de trabalho com a antecedência de sete dias relativamente ao início da sua aplicação, ou três dias em caso de microempresa."
+  },
+  "175119448": {
+   "fragment_id": "175120182",
+   "type": 11,
+   "heading": "Artigo 20.º — Trabalho noturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Trabalho noturno\n\n1 - Para os efeitos do presente Estatuto, considera-se trabalho noturno o prestado num período que tenha a duração mínima de 7 horas e máxima de 11, compreendendo o intervalo entre as 0 horas e as 6 horas.\n\n2 - O período de trabalho noturno pode ser determinado por instrumento de regulamentação coletiva de trabalho, com observância do disposto no número anterior, considerando-se como tal, na falta daquela determinação, o compreendido entre as 0 horas de um dia e as 7 horas do dia seguinte."
+  },
+  "175119449": {
+   "fragment_id": "175120183",
+   "type": 11,
+   "heading": "Artigo 21.º — Trabalho em dia feriado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Trabalho em dia feriado\n\n1 - As atividades abrangidas pelo presente Estatuto podem ser prestadas em dia feriado.\n\n2 - Salvo acordo em contrário, o trabalhador que realiza a prestação em dia feriado tem direito a um descanso compensatório de igual duração, a ser gozado nos termos do previsto no n.º 6 do artigo 18.º, ou ao acréscimo de 100 % da retribuição pelo trabalho prestado nesse dia, cabendo a escolha ao empregador.\n\n3 - Constitui contraordenação grave a violação do disposto no número anterior."
+  },
+  "175119450": {
+   "fragment_id": "175120184",
+   "type": 11,
+   "heading": "Artigo 22.º — Local de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Local de trabalho\n\n1 - Considera-se local de trabalho o disposto no n.º 2 do artigo 7.º, sendo aplicável, com as necessárias adaptações, para efeitos do regime de reparação de acidentes de trabalho e de doenças profissionais, previsto na Lei n.º 98/2009, de 4 de setembro, na sua redação atual.\n\n2 - Sempre que o trabalhador tenha um acréscimo de despesas por deslocações inerentes à atividade laboral, o empregador fornece os meios para a sua deslocação ou procede ao respetivo pagamento ou reembolso, que deve ser pago até à data de vencimento da retribuição relativa ao mês subsequente."
+  },
+  "175119451": {
+   "fragment_id": "175120185",
+   "type": 11,
+   "heading": "Artigo 23.º — Reconversão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reconversão profissional\n\n1 - Se o trabalhador perder, de forma absoluta, superveniente e definitiva a aptidão para a execução da atividade artística e técnico-artística para que foi contratado, por motivo decorrente das características da própria atividade, o empregador, mediante parecer fundamentado de uma comissão, deve atribuir-lhe, sem perda de retribuição, outras funções compatíveis com as suas qualificações profissionais, mesmo que não incluídas no objeto do contrato de trabalho, devendo assegurar-lhe a formação profissional adequada.\n\n2 - A comissão referida no número anterior é constituída por um representante do empregador, um representante do trabalhador e um representante indicado por acordo das partes.\n\n3 - No caso de o trabalhador não aceitar a reconversão proposta pelo empregador ou de não existirem outras funções compatíveis com as suas qualificações profissionais, são aplicáveis as regras do despedimento por inadaptação previstas no Código do Trabalho.\n\n4 - Quando existam regimes especiais de segurança social aplicáveis, a cessação do contrato de trabalho decorrente da inadaptação do trabalhador, nos termos do número anterior, não prejudica a aplicação desses regimes, tendo os trabalhadores direito ao subsídio de desemprego ou à reforma por velhice logo que estejam preenchidos os respetivos pressupostos legais em vigor."
+  },
+  "175119452": {
+   "fragment_id": "175120186",
+   "type": 8,
+   "heading": "Secção IV — Cessação do contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Cessação do contrato de trabalho"
+  },
+  "175119453": {
+   "fragment_id": "175120187",
+   "type": 11,
+   "heading": "Artigo 24.º — Modalidades de cessação do contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Modalidades de cessação do contrato de trabalho\n\n1 - Para além de outras modalidades legalmente previstas, o contrato de trabalho pode cessar por:\n\na) Caducidade;\n\nb) Revogação;\n\nc) Despedimento por facto imputável ao trabalhador;\n\nd) Despedimento coletivo;\n\ne) Despedimento por extinção de posto de trabalho;\n\nf) Despedimento por inadaptação;\n\ng) Resolução pelo trabalhador;\n\nh) Denúncia pelo trabalhador.\n\n2 - O contrato de trabalho pode ainda cessar por denúncia de qualquer das partes durante o período experimental, nos termos previstos no Código do Trabalho.\n\n3 - A cessação do contrato rege-se pelo disposto no Código do Trabalho, com as especificidades constantes do presente Estatuto."
+  },
+  "175119454": {
+   "fragment_id": "175120188",
+   "type": 1,
+   "heading": "Capítulo IV — Prestação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Prestação de serviço"
+  },
+  "175119455": {
+   "fragment_id": "175120189",
+   "type": 11,
+   "heading": "Artigo 25.º — Contrato de prestação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contrato de prestação de serviço\n\n1 - Para efeitos do presente Estatuto, o contrato de prestação de serviço é aquele pelo qual uma das partes se obriga a proporcionar à outra, com autonomia, certo resultado de uma atividade autoral, artística, técnico-artística ou de mediação cultural.\n\n2 - Para efeitos do presente Estatuto, o contrato de prestação de serviço presume-se oneroso.\n\n3 - A qualificação pelas partes de um contrato enquanto contrato de prestação de serviço não afasta a aplicação da presunção da existência de contrato de trabalho a que se refere o artigo 7.º"
+  },
+  "175119456": {
+   "fragment_id": "175120190",
+   "type": 11,
+   "heading": "Artigo 26.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Dever de informação\n\n1 - A entidade beneficiária da prestação deve informar o prestador de serviço sobre os aspetos relevantes do contrato de prestação de serviço, designadamente:\n\na) Da respetiva identificação, nomeadamente, sendo sociedade, da existência de uma relação de coligação societária, de participações recíprocas, de domínio ou de grupo, bem como da sede ou domicílio;\n\nb) Do local de prestação da atividade ou, não havendo um fixo ou predominante, a indicação de que a atividade é prestada em vários locais;\n\nc) Das tarefas a serem desempenhadas pelo prestador de serviço;\n\nd) Da data de início e termo do contrato;\n\ne) Da duração do contrato;\n\nf) Do valor e da periodicidade da retribuição.\n\n2 - Em caso de alteração das condições previstas no número anterior, o prestador de serviço pode resolver o contrato, com direito a indemnização, nos termos gerais.\n\n3 - O prestador de serviço deve informar a entidade beneficiária da prestação dos aspetos relevantes para a execução da prestação de serviço, designadamente:\n\na) Da respetiva identificação, nomeadamente, nome, morada, número de identificação fiscal, número de identificação da segurança social e número do cartão do profissional da área da cultura;\n\nb) Do número da apólice de seguro obrigatório de acidentes de trabalho para trabalhadores independentes."
+  },
+  "175119457": {
+   "fragment_id": "175120191",
+   "type": 11,
+   "heading": "Artigo 27.º — Culpa na formação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Culpa na formação do contrato\n\n1 - Quem negoceia com outrem para a conclusão de um contrato de prestação de serviço deve, tanto nos preliminares como na sua formação, proceder segundo as regras de boa-fé, sob pena de responder pelos danos culposamente causados.\n\n2 - Para efeitos do número anterior, considera-se contrário às regras da boa-fé o cancelamento, injustificado e com uma antecedência inferior a 15 dias, de atividade cultural para a qual o prestador de serviço tenha sido convidado a participar enquanto profissional da área da cultura, sem prejuízo de regime mais favorável constante da lei aplicável ou do contrato."
+  },
+  "175119458": {
+   "fragment_id": "175120192",
+   "type": 11,
+   "heading": "Artigo 28.º — Pagamento da retribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pagamento da retribuição\n\n1 - A retribuição, estabelecida por acordo entre as partes, deve estar à disposição do prestador de serviço no prazo acordado.\n\n2 - Na ausência de estipulação sobre o prazo, considera-se que o pagamento deve ocorrer até ao final do mês subsequente ao da prestação do serviço contratado.\n\n3 - A entidade beneficiária da prestação que faltar culposamente ao pagamento da retribuição, nos termos dos números anteriores, é obrigada a pagar ao prestador de serviço os correspondentes juros de mora à taxa legal em vigor ou à taxa estabelecida por acordo entre as partes."
+  },
+  "175119459": {
+   "fragment_id": "175120193",
+   "type": 11,
+   "heading": "Artigo 29.º — Contratos de adesão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Contratos de adesão\n\nAo contrato de prestação de serviço do qual constem cláusulas contratuais gerais elaboradas sem prévia negociação individual, que destinatários indeterminados se limitem a aceitar, bem como às cláusulas constantes de contratos individualizados, mas cujo conteúdo previamente elaborado o destinatário não pode influenciar, aplica-se o regime legal das cláusulas contratuais gerais, aprovado pelo Decreto-Lei n.º 446/85, de 25 de outubro, na sua redação atual."
+  },
+  "175119460": {
+   "fragment_id": "175120194",
+   "type": 11,
+   "heading": "Artigo 30.º — Liberdade de forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Liberdade de forma\n\n1 - O contrato de prestação de serviço não depende da observância de forma especial, sem prejuízo do disposto no número seguinte e nos n.os 1 e 3 do artigo 26.º\n\n2 - A entidade beneficiária da prestação, que disponha ou deva dispor de contabilidade organizada, deve comunicar à IGAC e à Autoridade Tributária e Aduaneira (AT), mediante formulário único eletrónico definido por portaria dos membros do Governo responsáveis pelas áreas das finanças, da cultura e da segurança social, a celebração de contrato de prestação de serviço antes do início da sua produção de efeitos, ilidindo fundamentadamente a presunção da existência de contrato de trabalho prevista no artigo 7.º\n\n3 - Constitui contraordenação muito grave a violação do disposto no número anterior."
+  },
+  "175119461": {
+   "fragment_id": "175120195",
+   "type": 11,
+   "heading": "Artigo 31.º — Documentos a entregar ao prestador de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Documentos a entregar ao prestador de serviço\n\n1 - Cessando o contrato de prestação de serviço, a entidade beneficiária da prestação deve entregar ao prestador de serviços um certificado de atividade, indicando o nome do profissional, o número do cartão do profissional da área da cultura, se aplicável, e as datas de admissão e de cessação do contrato.\n\n2 - Caso o prestador de serviço o requeira, o certificado de atividade deve descrever a atividade por si desempenhada para a entidade beneficiária."
+  },
+  "175119462": {
+   "fragment_id": "175120196",
+   "type": 11,
+   "heading": "Artigo 32.º — Contrato de agência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Contrato de agência\n\nAo contrato de agência celebrado no âmbito do presente Estatuto é aplicável o disposto no Decreto-Lei n.º 178/86, de 3 de julho, na sua redação atual."
+  },
+  "175119463": {
+   "fragment_id": "175120197",
+   "type": 11,
+   "heading": "Artigo 33.º — Prestação de serviço na modalidade «chave-na-mão»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Prestação de serviço na modalidade «chave-na-mão»\n\nA prestação de serviço na modalidade «chave-na-mão» inclui a conceção, produção, transporte, montagem e desmontagem de obra artística, salvo disposição em contrário."
+  },
+  "175119464": {
+   "fragment_id": "175120198",
+   "type": 1,
+   "heading": "Capítulo V — Proteção social dos profissionais da área da cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Proteção social dos profissionais da área da cultura"
+  },
+  "175119465": {
+   "fragment_id": "175120199",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "175119466": {
+   "fragment_id": "175120200",
+   "type": 11,
+   "heading": "Artigo 34.º — Regime especial de proteção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regime especial de proteção social\n\n1 - O regime constante do presente capítulo é especial relativamente à aplicação do regime constante do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n2 - É criado o Fundo Especial de Segurança Social dos Profissionais da Área da Cultura, adiante designado por Fundo."
+  },
+  "175119467": {
+   "fragment_id": "175120201",
+   "type": 11,
+   "heading": "Artigo 35.º — Fundo Especial de Segurança Social dos Profissionais da Área da Cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Fundo Especial de Segurança Social dos Profissionais da Área da Cultura\n\n1 - A atribuição e gestão do subsídio por suspensão da atividade cultural é efetuada através do Fundo.\n\n2 - A gestão administrativa e financeira do Fundo compete ao Instituto de Gestão Financeira da Segurança Social, I. P., que, para o efeito, articula com os serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.), e das regiões autónomas dos Açores e da Madeira.\n\n3 - Constituem receitas do Fundo:\n\na) A contribuição correspondente a 7,5 % da taxa contributiva devida pelas entidades empregadoras no regime de contrato de muito curta duração a que se refere o artigo 45.º;\n\nb) A contribuição correspondente a 5,1 % da taxa contributiva devida pelas entidades beneficiárias da prestação a que se refere o artigo 49.º;\n\nc) A contribuição correspondente a 3,8 % da taxa contributiva devida pelos trabalhadores independentes a que se refere o artigo 49.º;\n\nd) A afetação do produto das coimas laborais nos termos previstos no presente Estatuto;\n\ne) Quaisquer receitas que legalmente lhe venham a ser atribuídas."
+  },
+  "175119468": {
+   "fragment_id": "175120202",
+   "type": 11,
+   "heading": "Artigo 36.º — Regulamentação específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regulamentação específica\n\nCompete aos membros do Governo responsáveis pelas áreas das finanças e da segurança social regulamentar os termos e as condições de aplicação do regime constante do presente capítulo."
+  },
+  "175119469": {
+   "fragment_id": "175120203",
+   "type": 11,
+   "heading": "Artigo 37.º — Regime contributivo aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Regime contributivo aplicável\n\n1 - Os profissionais da área da cultura vinculados por contrato de trabalho estão abrangidos pelo regime geral dos trabalhadores por conta de outrem, nos termos previstos no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, sem prejuízo das especificidades previstas no presente Estatuto.\n\n2 - Os profissionais da área da cultura que exerçam atividade profissional e se obriguem a prestar a outrem o resultado da sua atividade sem sujeição a contrato de trabalho estão abrangidos pelo regime dos trabalhadores independentes, sem prejuízo das especificidades previstas no presente Estatuto.\n\n3 - Os profissionais da área da cultura que não exerçam atividade profissional ou tenham cessado ou suspendido a atividade profissional e não estejam abrangidos pelos regimes contributivos de inscrição obrigatória podem requerer a inscrição no regime do seguro social voluntário, regulado nos termos dos artigos 169.º e seguintes do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n4 - Os trabalhadores com contrato de trabalho com atividade descontínua previstos no artigo 13.º são equiparados, para efeitos de segurança social, a trabalhadores com contrato de trabalho intermitente."
+  },
+  "175119470": {
+   "fragment_id": "175120204",
+   "type": 11,
+   "heading": "Artigo 38.º — Acumulação de atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Acumulação de atividades\n\nSempre que o trabalhador da área da cultura exerça mais do que uma atividade aplica-se a cada uma delas o respetivo regime."
+  },
+  "175119471": {
+   "fragment_id": "175120205",
+   "type": 11,
+   "heading": "Artigo 39.º — Âmbito material da proteção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Âmbito material da proteção social\n\n1 - Sem prejuízo da proteção nas eventualidades previstas nos regimes do sistema previdencial de segurança social, os profissionais da área da cultura têm direito à atribuição do subsídio por suspensão da atividade cultural, nos termos estabelecidos no presente Estatuto.\n\n2 - Os profissionais da área da cultura, nos casos referidos no artigo 74.º, têm ainda direito ao subsídio de reconversão profissional nos termos estabelecidos no presente Estatuto."
+  },
+  "175119472": {
+   "fragment_id": "175120206",
+   "type": 11,
+   "heading": "Artigo 40.º — Declaração de tempos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Declaração de tempos de trabalho\n\n1 - Os tempos de trabalho são declarados em dias, independentemente de a atividade ser prestada a tempo completo ou a tempo parcial, nos termos do artigo 16.º do Decreto Regulamentar n.º 1-A/2011, de 3 de janeiro, na sua redação atual.\n\n2 - O disposto no presente artigo não prejudica a contagem de tempos de trabalho para efeitos de acesso ao subsídio de suspensão da atividade cultural, nos termos do disposto nos artigos 44.º e 53.º"
+  },
+  "175119473": {
+   "fragment_id": "175120207",
+   "type": 8,
+   "heading": "Secção II — Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições especiais"
+  },
+  "175119474": {
+   "fragment_id": "175120208",
+   "type": 3,
+   "heading": "Subsecção I — Profissionais da área da cultura em regime de contrato de trabalho de muito curta duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Profissionais da área da cultura em regime de contrato de trabalho de muito curta duração"
+  },
+  "175120275": {
+   "fragment_id": "175120209",
+   "type": 11,
+   "heading": "Artigo 41.º — Profissionais abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Profissionais abrangidos\n\nSão abrangidos pelo regime geral dos trabalhadores por conta de outrem com as especificidades previstas na presente secção os profissionais da área da cultura em regime de contrato de trabalho de muito curta duração, nos termos definidos no capítulo iii do presente Estatuto."
+  },
+  "175120276": {
+   "fragment_id": "175120210",
+   "type": 11,
+   "heading": "Artigo 42.º — Âmbito material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Âmbito material\n\n1 - Os profissionais da área da cultura em regime de contrato de trabalho de muito curta duração têm direito à proteção nas eventualidades de doença, parentalidade, doenças profissionais, invalidez, velhice e morte, nos termos estabelecidos na respetiva legislação.\n\n2 - Os profissionais da área da cultura em regime de contrato de trabalho de muito curta duração têm também direito à atribuição do subsídio por suspensão da atividade cultural, nos termos estabelecidos no presente Estatuto."
+  },
+  "175120277": {
+   "fragment_id": "175120211",
+   "type": 11,
+   "heading": "Artigo 43.º — Base de incidência contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Base de incidência contributiva\n\nA base de incidência contributiva dos profissionais da área da cultura com contrato de trabalho de muito curta duração corresponde à remuneração efetivamente auferida e declarada pela entidade empregadora."
+  },
+  "175120278": {
+   "fragment_id": "175120212",
+   "type": 11,
+   "heading": "Artigo 44.º — Conversão do valor da remuneração mensal em dias de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Conversão do valor da remuneração mensal em dias de trabalho\n\n1 - Para efeitos de acesso ao subsídio de suspensão da atividade cultural, o prazo de garantia é calculado segundo a seguinte fórmula:\n\n(VRM) : (2,5 IAS/30)\n\n2 - Para efeitos do número anterior, VRM é a soma do valor das remunerações recebidas em cada mês pela atividade da cultura que constituam base de incidência contributiva e IAS é o Indexante de Apoios Sociais.\n\n3 - O disposto nos números anteriores é aplicável mesmo nas situações em que se verifique acumulação de atividades ou de regimes contributivos."
+  },
+  "175120279": {
+   "fragment_id": "175120213",
+   "type": 11,
+   "heading": "Artigo 45.º — Taxa contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Taxa contributiva\n\nA taxa contributiva relativa aos profissionais da área da cultura em regime de contrato de trabalho de muito curta duração é de 37,1 %, sendo 26,1 % da responsabilidade da entidade empregadora e 11 % do trabalhador, sem prejuízo da aplicação de taxas contributivas mais favoráveis previstas no regime geral dos trabalhadores por conta de outrem."
+  },
+  "175120280": {
+   "fragment_id": "175120214",
+   "type": 11,
+   "heading": "Artigo 46.º — Registo de remuneração por equivalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Registo de remuneração por equivalência\n\nAo profissional da área da cultura em regime de contrato de trabalho de muito curta duração que tenha direito ao subsídio referido no n.º 2 do artigo 42.º aplica-se, durante os meses de concessão do subsídio, com as devidas adaptações, o pagamento de contribuições pelo valor mínimo, previsto no n.º 2 do artigo 163.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, para efeitos de registo de remunerações por equivalência, sendo o respetivo valor de contribuição deduzido ao montante do subsídio pago mensalmente e retido pelo Fundo."
+  },
+  "175120281": {
+   "fragment_id": "175120215",
+   "type": 3,
+   "heading": "Subsecção II — Profissionais da área da cultura em regime de trabalho independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Profissionais da área da cultura em regime de trabalho independente"
+  },
+  "175120282": {
+   "fragment_id": "175120216",
+   "type": 11,
+   "heading": "Artigo 47.º — Âmbito material de proteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Âmbito material de proteção\n\n1 - Os profissionais da área da cultura abrangidos pelo regime dos trabalhadores independentes têm direito à proteção nas eventualidades de doença, parentalidade, doenças profissionais, invalidez, velhice e morte, nos termos dos respetivos regimes jurídicos.\n\n2 - A proteção da eventualidade de desemprego dos profissionais referidos no número anterior é assegurada através da atribuição do subsídio por suspensão da atividade cultural, nos termos estabelecidos no presente Estatuto, não lhes sendo aplicável o disposto no Decreto-Lei n.º 65/2012, de 15 de março, na sua redação atual.\n\n3 - Os profissionais referidos no n.º 1 são enquadrados, para efeitos de taxa contributiva, como empresários em nome individual."
+  },
+  "175120283": {
+   "fragment_id": "175120217",
+   "type": 11,
+   "heading": "Artigo 48.º — Entidades beneficiárias da prestação do trabalho independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entidades beneficiárias da prestação do trabalho independente\n\nSão entidades beneficiárias da prestação abrangidas pelo regime constante da presente secção as pessoas coletivas e as pessoas singulares com ou sem atividade empresarial que beneficiam da prestação de serviço por profissionais da área da cultura, independentemente da sua atividade."
+  },
+  "175120284": {
+   "fragment_id": "175120218",
+   "type": 11,
+   "heading": "Artigo 49.º — Taxas contributivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Taxas contributivas\n\n1 - A taxa contributiva relativa aos trabalhadores independentes, incluindo os empresários em nome individual, da área da cultura é fixada em 25,2 %.\n\n2 - A taxa contributiva da responsabilidade da entidade beneficiária da prestação é de 5,1 %, não sendo aplicável o disposto no n.º 7 do artigo 168.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n3 - A taxa contributiva da responsabilidade da entidade beneficiária da prestação é sempre devida, independentemente de o trabalhador estar ou não inscrito no RPAC.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924) A alteração ao n.º 1 do presente artigo, produz efeitos a 1 de junho de 2024."
+  },
+  "175120285": {
+   "fragment_id": "175120219",
+   "type": 11,
+   "heading": "Artigo 50.º — Modalidade contributiva dos trabalhadores independentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Modalidade contributiva dos trabalhadores independentes\n\n1 - A obrigação contributiva dos profissionais da área da cultura abrangidos pelo regime dos trabalhadores independentes, no que respeita ao exercício desta atividade, tem por base o valor de cada recibo ou fatura-recibo emitidos no portal da AT, com as seguintes modalidades:\n\na) Recibo eletrónico ou fatura-recibo eletrónico com retenção na fonte, sempre que a entidade beneficiária da prestação seja uma pessoa coletiva ou uma pessoa singular que disponha ou deva dispor de contabilidade organizada;\n\nb) Recibo eletrónico ou fatura-recibo eletrónico sem retenção na fonte, sempre que a entidade beneficiária da prestação seja uma pessoa singular que não disponha nem seja obrigada a dispor de contabilidade organizada.\n\n2 - São devidas mensalmente contribuições pelo trabalhador independente e pela entidade beneficiária da prestação com base nos recibos ou faturas-recibos eletrónicos emitidos em cada mês pelo exercício de atividade na área da cultura.\n\n3 - Excetuam-se do disposto nos números anteriores os recibos ou faturas-recibos referentes a propriedade intelectual, salvo nas situações previstas no n.º 3 do artigo 54.º\n\n4 - As contribuições devidas são calculadas pela aplicação da respetiva taxa contributiva sobre o valor de 70 % ou 20 %, consoante se trate de prestação de serviço ou produção e venda de bens, de cada recibo ou fatura-recibo eletrónica emitida.\n\n5 - As contribuições devidas pelo trabalhador independente abrangido pelo regime de contabilidade organizada previsto no Código do IRS são calculadas pela aplicação da taxa contributiva estabelecida no artigo anterior sobre o duodécimo do lucro coletável apurado no ano imediatamente anterior.\n\n6 - O trabalhador independente abrangido pelo n.º 1 está sujeito ao pagamento de contribuições pelo valor mínimo previsto no n.º 2 do artigo 163.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n7 - O disposto no número anterior aplica-se durante os meses de atribuição do subsídio por suspensão da atividade cultural.\n\n8 - A contribuição devida pela entidade beneficiária da prestação é calculada pela aplicação da taxa aplicável ao valor de 70 % ou 20 % de cada recibo ou fatura-recibo eletrónica emitida pelos trabalhadores em cada mês, exclusivamente no que respeita à prestação de serviço ou produção e venda de bens da área da cultura, respetivamente."
+  },
+  "175120286": {
+   "fragment_id": "175120220",
+   "type": 11,
+   "heading": "Artigo 51.º — Pagamento de contribuições na modalidade de recibo eletrónico ou fatura-recibo eletrónico com retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Pagamento de contribuições na modalidade de recibo eletrónico ou fatura-recibo eletrónico com retenção\n\n1 - As contribuições calculadas nos termos do artigo anterior são retidas pela entidade beneficiária da prestação, sempre que aquela seja uma pessoa coletiva ou uma pessoa singular que disponha ou deva dispor de contabilidade organizada.\n\n2 - As contribuições retidas são pagas à segurança social pela entidade beneficiária da prestação, juntamente com a contribuição da sua responsabilidade, entre os dias 10 e 20 do mês seguinte, identificando o prestador de serviços, o mês a que se refere o pagamento e o valor da retribuição paga.\n\n3 - Para efeitos do cumprimento da obrigação contributiva prevista nos números anteriores e do disposto nos artigos 105.º e 107.º do Regime Geral das Infrações Tributárias (RGIT), aprovado em anexo à Lei n.º 15/2001, de 5 de junho, na sua redação atual, a entidade beneficiária da prestação de serviço é equiparada a entidade empregadora.\n\n4 - A falta de pagamento à segurança social do valor das contribuições retidas constitui a respetiva entidade beneficiária da prestação em dívida, sendo devidos juros de mora até pagamento integral.\n\n5 - Sem prejuízo do disposto no RGIT, a violação do disposto nos n.os 1 e 2 constitui contraordenação leve quando seja cumprida nos 30 dias subsequentes ao termo do prazo e constitui contraordenação grave nas demais situações.\n\n6 - A falta de pagamento à segurança social, no prazo legal, das contribuições devidas pela entidade beneficiária da prestação não prejudica a qualificação da situação contributiva regularizada do profissional independente, nos termos do artigo 208.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social."
+  },
+  "175120287": {
+   "fragment_id": "175120221",
+   "type": 11,
+   "heading": "Artigo 52.º — Pagamento das contribuições na modalidade de recibo eletrónico ou fatura-recibo eletrónico sem retenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Pagamento das contribuições na modalidade de recibo eletrónico ou fatura-recibo eletrónico sem retenção\n\n1 - A contribuição devida pela entidade beneficiária da prestação que não disponha nem seja obrigada a dispor de contabilidade organizada, bem como pelas entidades não residentes sem estabelecimento estável em território nacional, deve ser acrescida ao valor dos serviços prestados e entregue ao trabalhador independente da área da cultura.\n\n2 - O trabalhador independente da área da cultura deve entregar à segurança social a contribuição referida no número anterior, juntamente com as contribuições da sua responsabilidade.\n\n3 - A falta de pagamento à segurança social do valor das contribuições devidas e referidas nos números anteriores, no prazo indicado, constitui o trabalhador independente da área da cultura em dívida pelo valor em falta, sendo devidos juros de mora até pagamento integral.\n\n4 - Sem prejuízo do disposto nos artigos 105.º e 107.º do RGIT no que respeita à violação da contribuição referida no n.º 1, a violação do disposto nos n.os 1 e 2 constitui contraordenação leve quando seja cumprida nos 30 dias subsequentes ao termo do prazo e constitui contraordenação grave nas demais situações."
+  },
+  "175120288": {
+   "fragment_id": "175120222",
+   "type": 11,
+   "heading": "Artigo 53.º — Conversão do valor do recibo eletrónico em dias de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Conversão do valor do recibo eletrónico em dias de trabalho\n\n1 - Para efeitos de acesso ao subsídio de suspensão da atividade cultural, o prazo de garantia é calculado segundo a seguinte fórmula:\n\n(VRE): (2,5 IAS/30)\n\n2 - Para efeitos do número anterior, VRE é a soma do valor dos recibos eletrónicos emitidos em cada mês pela atividade da cultura que constituam base de incidência contributiva e IAS é o Indexante de Apoios Sociais.\n\n3 - O disposto nos números anteriores é aplicável ainda que haja acumulação de atividades ou de regimes contributivos."
+  },
+  "175120289": {
+   "fragment_id": "175120223",
+   "type": 3,
+   "heading": "Subsecção III — Profissionais da área da cultura em trabalho intelectual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Profissionais da área da cultura em trabalho intelectual"
+  },
+  "175120290": {
+   "fragment_id": "175120224",
+   "type": 11,
+   "heading": "Artigo 54.º — Trabalhadores intelectuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Trabalhadores intelectuais\n\n1 - Os profissionais da área da cultura que desenvolvam atividades autorais e artísticas que estejam em processo de criação intelectual e que não estejam nem devam estar abrangidos por regimes contributivos de inscrição obrigatória podem requerer a inscrição no regime de seguro social voluntário previsto no n.º 3 do artigo 37.º\n\n2 - Os profissionais da área da cultura que desenvolvam atividades autorais e artísticas, estando ou não em processo de criação intelectual, que estejam ou devam estar abrangidos por regimes contributivos de inscrição obrigatória ficam isentos da obrigação contributiva prevista no artigo 50.º no que respeita aos rendimentos provenientes da propriedade intelectual.\n\n3 - Sem prejuízo do disposto no número anterior, os profissionais da área da cultura que desenvolvam atividades autorais e artísticas podem optar, em cada recibo eletrónico ou fatura-recibo eletrónico, pela aplicação do regime previsto nos artigos 47.º a 53.º, ficando as entidades beneficiárias da prestação também sujeitas ao respetivo regime.\n\n4 - Nos termos do disposto no n.º 4 do artigo 162.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social e na alínea e) do n.º 3 do artigo 62.º do Decreto Regulamentar n.º 1-A/2011, de 3 de janeiro, na sua redação atual, os rendimentos provenientes da propriedade intelectual não são considerados no apuramento do rendimento relevante, para efeitos contributivos, dos trabalhadores independentes que disponham ou devam dispor de contabilidade organizada, previsto no Código do IRS, podendo o respetivo titular optar pela sua consideração."
+  },
+  "175120291": {
+   "fragment_id": "175120225",
+   "type": 11,
+   "heading": "Artigo 55.º — Âmbito material de proteção dos trabalhadores intelectuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Âmbito material de proteção dos trabalhadores intelectuais\n\nOs profissionais da área da cultura que exerçam as opções previstas nos n.os 3 e 4 do artigo anterior têm direito à atribuição do subsídio por suspensão da atividade cultural, nos termos estabelecidos no presente Estatuto."
+  },
+  "175120292": {
+   "fragment_id": "175120226",
+   "type": 8,
+   "heading": "Secção III — Subsídio por suspensão da atividade cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Subsídio por suspensão da atividade cultural"
+  },
+  "175120293": {
+   "fragment_id": "175120227",
+   "type": 11,
+   "heading": "Artigo 56.º — Objetivo do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Objetivo do subsídio\n\nO subsídio por suspensão da atividade cultural, adiante designado por subsídio, tem por objetivo garantir rendimentos em consequência da verificação de uma situação involuntária de suspensão da atividade cultural por parte do profissional da área da cultura."
+  },
+  "175120294": {
+   "fragment_id": "175120228",
+   "type": 11,
+   "heading": "Artigo 57.º — Titularidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Titularidade\n\nO direito ao subsídio é reconhecido aos profissionais da área da cultura que desenvolvam a sua atividade como trabalhadores por conta de outrem com contrato de trabalho de muito curta duração ou como trabalhadores independentes, incluindo os empresários em nome individual, que à data da apresentação do requerimento reúnam as respetivas condições de atribuição e estejam inscritos no RPAC."
+  },
+  "175120295": {
+   "fragment_id": "175120229",
+   "type": 11,
+   "heading": "Artigo 58.º — Condições de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Condições de atribuição\n\n1 - O reconhecimento do direito ao subsídio depende da apresentação de requerimento em modelo próprio e da verificação cumulativa das seguintes condições:\n\na) Residência legal em território nacional;\n\nb) Cumprimento do prazo de garantia;\n\nc) Suspensão involuntária da atividade cultural;\n\nd) Disponibilidade para o exercício de atividade na área da cultura;\n\ne) Situação contributiva regularizada perante a segurança social.\n\n2 - Não é reconhecido o direito ao subsídio de suspensão da atividade cultural aos profissionais da área da cultura que à data do requerimento tenham idade normal ou pessoal de acesso à pensão de velhice, desde que se encontre cumprido o respetivo prazo de garantia, ou que sejam pensionistas."
+  },
+  "175120296": {
+   "fragment_id": "175120230",
+   "type": 11,
+   "heading": "Artigo 59.º — Residência legal em território nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Residência legal em território nacional\n\n1 - Sem prejuízo do estabelecido em instrumento internacional a que Portugal se encontre vinculado ou de legislação especial aplicável, o reconhecimento do direito ao subsídio de suspensão da atividade cultural depende de o requerente ter residência legal em território nacional.\n\n2 - Para efeitos do disposto no número anterior, considera-se residência legal em território nacional o disposto no artigo 19.º da Lei Geral Tributária, aprovada em anexo ao Decreto-Lei n.º 398/98, de 12 de dezembro, na sua redação atual."
+  },
+  "175120297": {
+   "fragment_id": "175120231",
+   "type": 11,
+   "heading": "Artigo 60.º — Prazo de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Prazo de garantia\n\n1 - O prazo de garantia para atribuição do subsídio por suspensão de atividade cultural é de 180 dias de exercício de atividade na área da cultura, com o correspondente pagamento efetivo de contribuições.\n\n2 - Os períodos de registo de remunerações correspondentes a situações de equivalência não relevam para efeitos de verificação do prazo de garantia."
+  },
+  "175120298": {
+   "fragment_id": "175120232",
+   "type": 11,
+   "heading": "Artigo 61.º — Suspensão involuntária da atividade cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Suspensão involuntária da atividade cultural\n\n1 - Verifica-se a existência de suspensão da atividade cultural do profissional da área da cultura com contrato de trabalho de muito curta duração nas situações de cessação do contrato de trabalho.\n\n2 - O profissional da área da cultura abrangido pelo regime dos trabalhadores independentes considera-se em situação de suspensão da atividade cultural sempre que, no último mês anterior ao mês da apresentação do requerimento do subsídio, tenha estado sujeito ao pagamento de contribuições pelo valor mínimo legalmente previsto.\n\n3 - O profissional da área da cultura abrangido pelo regime dos trabalhadores independentes, a contribuir com base no duodécimo do lucro tributável do ano imediatamente anterior, considera-se em situação de suspensão da atividade cultural sempre que, no último mês anterior ao mês da apresentação do requerimento do subsídio, se verifique a ausência total de faturação, sujeita a certificação pelo respetivo contabilista certificado e a verificação pelos serviços competentes da segurança social.\n\n4 - Ao profissional da área da cultura com contrato de trabalho de muito curta duração, inscrito como trabalhador independente, que tenha auferido nos últimos 12 meses mais de 50 % das remunerações nesta categoria, aplica-se, para acesso ao subsídio de suspensão da atividade cultural, o disposto no n.º 2."
+  },
+  "175120299": {
+   "fragment_id": "175120233",
+   "type": 11,
+   "heading": "Artigo 62.º — Disponibilidade para a atividade na área da cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Disponibilidade para a atividade na área da cultura\n\nA disponibilidade para o exercício de atividade na área da cultura afere-se:\n\na) Pela inscrição no RPAC; e\n\nb) Pela manutenção da atividade aberta com uma profissão ou atividade na área da cultura a definir pela portaria referida no artigo 2.º"
+  },
+  "175120300": {
+   "fragment_id": "175120234",
+   "type": 11,
+   "heading": "Artigo 63.º — Montante do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Montante do subsídio\n\n1 - O montante diário do subsídio é de 65 % da remuneração de referência e calculado na base de 30 dias por mês.\n\n2 - A remuneração de referência corresponde à remuneração média definida por R/360, em que R representa o total das remunerações registadas nos últimos 12 meses civis que precedem o mês anterior ao da data da suspensão da atividade cultural.\n\n3 - O montante mensal do subsídio tem como limite máximo a remuneração efetiva ou o rendimento relevante médio mensal declarado do profissional da área da cultura nos termos do número anterior, com o limite máximo de 2,5 IAS e com o limite mínimo de 1 IAS.\n\n4 - Para efeitos do disposto nos números anteriores apenas relevam as remunerações registadas decorrentes de atividade profissional da área da cultura, nos termos previstos no presente Estatuto.\n\n5 - O subsídio pode ser atribuído de forma parcial quando o profissional da área cultura tem rendimentos de trabalho decorrentes de outra atividade cujo valor seja inferior ao do subsídio de suspensão da atividade cultural atribuído.\n\n6 - Nos casos previstos no número anterior, o montante do subsídio parcial corresponde à diferença entre o montante do subsídio e 80 % do rendimento da atividade exercida em acumulação.\n\n7 - O rendimento da atividade exercida corresponde ao valor da remuneração mensal do trabalho por conta de outrem ou, no caso de trabalhador independente, dos valores dos recibos eletrónicos mensais ou ao rendimento relevante médio mensal do trimestre anterior, se inferior.\n\n8 - O montante do subsídio é recalculado trimestralmente sempre que se verifique a alteração dos valores dos recibos eletrónicos mensais ou do rendimento médio referido no número anterior.\n\n9 - O subsídio é atribuído a cada profissional da área da cultura apenas uma vez em cada ano civil.\n\n10 - Para acesso ao subsídio por suspensão de atividade cultural são considerados os registos de remunerações específicos do profissional da área da cultura inscrito no RPAC a que se referem os artigos 44.º e 53.º, resultantes de contratos de trabalho de muito curta duração, e de prestação de serviço ou de produção e venda de bens do trabalhador independente, ocorridos após cessação do último subsídio por suspensão de atividade atribuído."
+  },
+  "175120301": {
+   "fragment_id": "175120235",
+   "type": 11,
+   "heading": "Artigo 64.º — Início da concessão do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Início da concessão do subsídio\n\n1 - O subsídio é devido a partir da data da apresentação do requerimento devidamente instruído.\n\n2 - O requerimento considera-se devidamente instruído quando se encontre acompanhado de todos os elementos comprovativos das condições de atribuição do subsídio."
+  },
+  "175120302": {
+   "fragment_id": "175120236",
+   "type": 11,
+   "heading": "Artigo 65.º — Período de concessão do subsídio por suspensão da atividade cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Período de concessão do subsídio por suspensão da atividade cultural\n\n1 - O período de concessão do subsídio aos profissionais da área da cultura depende do número acumulado de dias por conversão dos valores das remunerações efetivas, nos termos previstos nos artigos 44.º e 53.º, e corresponde a:\n\na) 90 dias, se o prazo de garantia for inferior a 12 meses;\n\nb) 120 dias, se o prazo de garantia for igual ou superior a 12 meses e inferior a 24 meses;\n\nc) 150 dias, se o prazo de garantia for igual ou superior a 24 meses e inferior a 48 meses;\n\nd) 180 dias, se o prazo de garantia for igual ou superior a 48 meses.\n\n2 - O período de concessão do subsídio de suspensão da atividade cultural é de 360 dias desde que o profissional da área da cultura detenha, cumulativamente e à data do requerimento, os seguintes requisitos:\n\na) Idade igual ou superior a 55 anos de idade; e\n\nb) Registo de remunerações efetivas igual ou superior a 84 meses, contados desde a última data de concessão do subsídio por suspensão da atividade cultural ou de prestações de desemprego.\n\n3 - Sem prejuízo do disposto no n.º 1, o profissional da área da cultura com idade igual ou superior a 55 anos pode beneficiar do período de concessão a que se refere o número anterior até ao limite de uma vez.\n\n4 - Para efeitos do presente artigo, considera-se 1 mês por cada 30 dias de registo de remuneração por conversão."
+  },
+  "175120303": {
+   "fragment_id": "175120237",
+   "type": 11,
+   "heading": "Artigo 66.º — Suspensão do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Suspensão do subsídio\n\n1 - Determinam a suspensão do direito ao subsídio as seguintes situações:\n\na) Exercício de atividade profissional da área da cultura como trabalhador independente ou por conta de outrem com rendimento superior ao valor do subsídio por período igual ou inferior a 30 dias;\n\nb) Atribuição, por regimes de proteção social nacionais ou estrangeiros, de prestações de segurança social substitutivas do rendimento de trabalho no âmbito das eventualidades de doença, maternidade, paternidade, adoção e desemprego.\n\n2 - Cessando a causa de suspensão, a concessão do subsídio é retomada após a data da cessação da causa da suspensão e pelo período remanescente."
+  },
+  "175120304": {
+   "fragment_id": "175120238",
+   "type": 11,
+   "heading": "Artigo 67.º — Cessação do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Cessação do subsídio\n\n1 - O direito ao subsídio cessa quando se verifique uma das seguintes situações:\n\na) O seu titular deixe de ter residência legal em território nacional, nos termos do disposto no n.º 2 do artigo 59.º;\n\nb) Exercício de atividade profissional da área da cultura com rendimento superior ao valor do subsídio por período superior a 30 dias;\n\nc) Cancelamento da inscrição no RPAC;\n\nd) Cessação da atividade profissional na área da cultura na AT;\n\ne) Atribuição de pensão de invalidez;\n\nf) Verificação da idade normal ou pessoal de acesso à pensão de velhice, se o seu titular tiver cumprido o respetivo prazo de garantia;\n\ng) Termo do período de concessão do subsídio.\n\n2 - O regime de antecipação da pensão de velhice nas situações de desemprego involuntário de longa duração não se aplica aos profissionais da área da cultura no termo do período de concessão do subsídio."
+  },
+  "175120305": {
+   "fragment_id": "175120239",
+   "type": 11,
+   "heading": "Artigo 68.º — Acumulação com outras prestações sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Acumulação com outras prestações sociais\n\nO subsídio não é cumulável com prestações do sistema de segurança social que visem compensar a perda de rendimento de trabalho ou a garantir mínimos de subsistência."
+  },
+  "175120306": {
+   "fragment_id": "175120240",
+   "type": 11,
+   "heading": "Artigo 69.º — Articulação dos subsídios com prestações de desemprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Articulação dos subsídios com prestações de desemprego\n\n1 - A atribuição do subsídio não prejudica o reconhecimento do direito a prestações de desemprego, desde que se encontrem reunidas as condições de atribuição, nos termos previstos nos respetivos regimes jurídicos, sem prejuízo do disposto no número seguinte.\n\n2 - Nas situações de atribuição sucessiva do subsídio e de prestações de desemprego, os períodos de concessão do subsídio atribuídos nos 36 meses anteriores ao início de atribuição das prestações de desemprego são deduzidos aos períodos de concessão das prestações de desemprego."
+  },
+  "175120307": {
+   "fragment_id": "175120241",
+   "type": 11,
+   "heading": "Artigo 70.º — Deveres do titular do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Deveres do titular do subsídio\n\n1 - O titular do subsídio deve declarar aos serviços da segurança social, no prazo de cinco dias úteis a contar da data da respetiva ocorrência, as situações determinantes de suspensão ou cessação da prestação, que se reportem, designadamente:\n\na) À residência;\n\nb) Ao início ou fim da atividade profissional na área da cultura;\n\nc) Ao cancelamento da inscrição no RPAC;\n\nd) Cessação da atividade profissional na área da cultura na AT.\n\n2 - Sem prejuízo do disposto sobre a responsabilidade emergente do pagamento indevido de prestações de segurança social, nos termos do Decreto-Lei n.º 133/88, de 20 de abril, na sua redação atual, o incumprimento do dever referido no número anterior constitui contraordenação leve quando seja cumprido nos 30 dias subsequentes ao termo do prazo, e constitui contraordenação grave nas demais situações."
+  },
+  "175120308": {
+   "fragment_id": "175120242",
+   "type": 11,
+   "heading": "Artigo 71.º — Dever da entidade beneficiária da prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Dever da entidade beneficiária da prestação\n\n1 - A entidade beneficiária da prestação está obrigada a entregar ao profissional da área da cultura com contrato de trabalho de muito curta duração a declaração da situação de cessação da atividade cultural, no prazo de 10 dias úteis a contar data em que aquele a tenha solicitado.\n\n2 - O incumprimento do dever referido no número anterior constitui contraordenação leve quando seja cumprida nos 30 dias subsequentes ao termo do prazo, e constitui contraordenação grave nas demais situações."
+  },
+  "175120309": {
+   "fragment_id": "175120243",
+   "type": 11,
+   "heading": "Artigo 72.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Requerimento\n\n1 - A atribuição do subsídio é requerida no prazo de 30 dias consecutivos a contar da data da suspensão involuntária da atividade cultural.\n\n2 - A apresentação do requerimento e respetiva documentação decorrido o prazo referido no número anterior determina a redução do período de concessão das prestações na respetiva proporção do atraso.\n\n3 - O requerimento é apresentado na Segurança Social Direta."
+  },
+  "175120310": {
+   "fragment_id": "175120244",
+   "type": 11,
+   "heading": "Artigo 73.º — Comprovativo da suspensão da atividade cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Comprovativo da suspensão da atividade cultural\n\n1 - No caso dos trabalhadores com contrato de trabalho de muito curta duração, o requerimento do subsídio é instruído com documento da entidade empregadora comprovativo da situação de cessação da atividade cultural nos termos previstos no n.º 1 do artigo 71.º e da data a que se reporta a última remuneração.\n\n2 - A entidade empregadora pode, mediante autorização do trabalhador, apresentar na Segurança Social Direta o documento comprovativo previsto no número anterior, apresentando desde logo àquele o respetivo comprovativo da entrega.\n\n3 - O trabalhador tem o dever de conservar os originais dos meios de prova, pelo prazo de cinco anos, bem como o dever de os apresentar sempre que solicitados pelos serviços da segurança social."
+  },
+  "175120311": {
+   "fragment_id": "175120245",
+   "type": 8,
+   "heading": "Secção IV — Reconversão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Reconversão profissional"
+  },
+  "175120312": {
+   "fragment_id": "175120246",
+   "type": 11,
+   "heading": "Artigo 74.º — Subsídio de reconversão profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Subsídio de reconversão profissional\n\n1 - Sem prejuízo de regimes especiais, os profissionais da área da cultura que, em função da especificidade das suas atividades, tenham cessado o exercício da sua atividade antes de poderem beneficiar de uma pensão de velhice têm direito à atribuição de um subsídio de reconversão profissional, desde que preencham os seguintes requisitos:\n\na) Terem exercido uma atividade cultural como profissionais durante um período não inferior a 10 anos, com registo de remunerações nos últimos 5 anos;\n\nb) Terem cessado o exercício da atividade cultural há mais de seis meses e menos de dois anos;\n\nc) Terem rendimentos inferiores à remuneração mínima mensal garantida.\n\n2 - O cartão do profissional da área da cultura constitui o meio de prova preferencial da qualidade de profissional da área da cultura.\n\n3 - O montante do subsídio de reconversão profissional é de 65 % da remuneração de referência, a qual corresponde à remuneração média registada nos 60 meses civis anteriores à data do pedido de atribuição de subsídio de reconversão profissional.\n\n4 - O montante do subsídio de reconversão profissional não pode exceder o valor de 12 IAS.\n\n5 - O subsídio de reconversão profissional pode ser atribuído por uma só vez ou em prestações mensais que não podem exceder os 24 meses.\n\n6 - Os encargos correspondentes ao pagamento do subsídio de reconversão profissional são suportados conjuntamente por verbas do Ministério da Cultura e por verbas do Instituto do Emprego e Formação Profissional, I. P.\n\n7 - Ao subsídio de reconversão profissional são aplicáveis os procedimentos constantes do Despacho n.º 7131/2011, de 3 de maio, publicado no Diário da República, 2.ª série, n.º 91, de 11 de maio de 2011, e demais legislação aplicável.\n\n8 - O subsídio de reconversão profissional não é cumulável com prestações do sistema de segurança social que visem compensar a perda de remuneração ou garantir mínimos de subsistência.\n\n9 - O subsídio de reconversão profissional é atribuído a cada profissional da área da cultura apenas uma vez."
+  },
+  "175120313": {
+   "fragment_id": "175120247",
+   "type": 8,
+   "heading": "Secção V — Prestação social para a inclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Prestação social para a inclusão"
+  },
+  "175120314": {
+   "fragment_id": "175120248",
+   "type": 11,
+   "heading": "Artigo 75.º — Suspensão e retoma da prestação social para a inclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Suspensão e retoma da prestação social para a inclusão\n\n1 - Nas situações em que o profissional da área da cultura com deficiência, titular da prestação social para a inclusão (PSI), venha a auferir rendimentos de trabalho ou profissionais decorrentes do exercício de atividade da área da cultura superiores ao limiar mensal, suspende-se o pagamento da PSI durante o período de exercício daquela atividade, se da reavaliação da prestação resultar a sua perda.\n\n2 - A cessação da atividade da área da cultura superior ao limiar mensal determina o direito ao reinício do pagamento da PSI, a partir do mês seguinte àquele em que ocorra a cessação, desde que esta seja comunicada pelo interessado aos serviços da segurança social, no prazo de 10 dias após a data da cessação da atividade da área da cultura.\n\n3 - Na falta de cumprimento do prazo estabelecido no número anterior, o reinício da prestação terá efeitos a partir do mês imediato àquele em que o interessado comunique ao serviço de segurança social competente a cessação da atividade da área da cultura.\n\n4 - A situação é comprovada pelo registo de remunerações do trabalhador."
+  },
+  "175120315": {
+   "fragment_id": "175120249",
+   "type": 8,
+   "heading": "Secção VI — Regime complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Regime complementar"
+  },
+  "175120316": {
+   "fragment_id": "175120250",
+   "type": 11,
+   "heading": "Artigo 76.º — Regime complementar de contas individuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Regime complementar de contas individuais\n\nOs profissionais da área da cultura abrangidos pelo presente Estatuto que tenham aderido ao regime complementar de contas individuais de natureza pública, estabelecido no Decreto-Lei n.º 26/2008, de 22 de fevereiro, na sua redação atual, podem optar pela aplicação da taxa contributiva de 6 %, independentemente da respetiva idade."
+  },
+  "175120317": {
+   "fragment_id": "175120251",
+   "type": 1,
+   "heading": "Capítulo VI — Regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime contraordenacional"
+  },
+  "175120318": {
+   "fragment_id": "175120252",
+   "type": 11,
+   "heading": "Artigo 77.º — Competência para inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Competência para inspeção\n\nO controlo do cumprimento das normas previstas no presente Estatuto, bem como a instrução dos processos contraordenacionais e aplicação das respetivas coimas, competem, consoante o caso:\n\na) À Autoridade para as Condições do Trabalho (ACT), quando se trate de violação de normas laborais; e\n\nb) Ao ISS, I. P., em caso de violação de normas no âmbito do sistema de segurança social."
+  },
+  "175120319": {
+   "fragment_id": "175120253",
+   "type": 11,
+   "heading": "Artigo 78.º — Inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Inspeção\n\n1 - A inspeção da utilização indevida de contrato de prestação de serviço em relações de trabalho subordinado é da competência da ACT.\n\n2 - As inspeções podem ser efetuadas em articulação com a IGAC, a ACT e com o ISS, I. P., consoante o caso.\n\n3 - A IGAC e a ACT articulam o planeamento anual de inspeções do cumprimento das normas em matéria laboral no setor da cultura.\n\n4 - O plano referido no número anterior deve prever a promoção de ações de sensibilização e de prestação de informações com vista ao esclarecimento dos sujeitos das relações laborais e das respetivas entidades representativas do setor.\n\n5 - O planeamento ordinário de ações de inspeção não prejudica a eventual necessidade de intervenção das entidades referidas nos números anteriores em ações extraordinárias, sempre que necessário."
+  },
+  "175120320": {
+   "fragment_id": "175120254",
+   "type": 11,
+   "heading": "Artigo 79.º — Procedimento em caso de inadequação do vínculo que titula a prestação de uma atividade em condições correspondentes às do contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Procedimento em caso de inadequação do vínculo que titula a prestação de uma atividade em condições correspondentes às do contrato de trabalho\n\n1 - Sempre que o inspetor do trabalho verifique a existência de características de contrato de trabalho numa situação de prestação de atividade aparentemente autónoma, nos termos descritos no artigo 7.º do presente Estatuto e no artigo 12.º do Código do Trabalho, adota o procedimento previsto no artigo 15.º-A da Lei n.º 107/2009, de 14 de setembro, na sua redação atual.\n\n2 - Nos casos previstos no número anterior pode ser ainda aplicada a sanção acessória de privação do direito a apoio, subsídio ou benefício outorgados por entidade ou serviço público, designadamente de natureza fiscal ou contributiva, da área da cultura ou proveniente de fundos europeus, por período até dois anos, contados a partir da decisão condenatória definitiva.\n\n3 - A sanção acessória aplicada é comunicada pela ACT à IGAC, a qual informa as entidades ou serviços públicos da área da cultura."
+  },
+  "175120321": {
+   "fragment_id": "175120255",
+   "type": 11,
+   "heading": "Artigo 80.º — Procedimento em caso de recurso indevido de subsídio de suspensão da atividade cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Procedimento em caso de recurso indevido de subsídio de suspensão da atividade cultural\n\n1 - O recurso indevido do subsídio de suspensão de atividade cultural constitui contraordenação muito grave.\n\n2 - Nos casos previstos no número anterior pode ainda ser aplicada a sanção acessória de privação do direito a apoio, subsídio ou benefício outorgados por entidade ou serviço público, designadamente de natureza fiscal ou contributiva, da área da cultura ou proveniente de fundos europeus, por período até dois anos, contados a partir da decisão condenatória definitiva.\n\n3 - A sanção acessória aplicada é comunicada pela Segurança Social à IGAC, que, por sua vez, a comunica às entidades ou serviços públicos da área da cultura."
+  },
+  "175120322": {
+   "fragment_id": "175120256",
+   "type": 11,
+   "heading": "Artigo 81.º — Regime das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Regime das contraordenações\n\n1 - Para efeitos do presente Estatuto, aplica-se, consoante a matéria, o regime das contraordenações constante dos artigos 548.º a 566.º do Código do Trabalho, com as especificidades dos artigos seguintes, e o regime das contraordenações previsto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n2 - O processamento das contraordenações segue o regime processual aplicável às contraordenações laborais e de segurança social, aprovado pela Lei n.º 107/2009, de 14 de setembro, na sua redação atual.\n\n3 - A infração cuja factualidade seja passível de ser verificada exclusivamente por informação recolhida em base de dados pode seguir a forma de processo especial, nos termos da Lei n.º 107/2009, de 14 de setembro, na sua redação atual."
+  },
+  "175120323": {
+   "fragment_id": "175120257",
+   "type": 11,
+   "heading": "Artigo 82.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Destino das coimas\n\n1 - A afetação do produto das coimas laborais cobradas aos profissionais da cultura é efetuada da seguinte forma:\n\na) 40 % para a ACT;\n\nb) 10 % para a IGAC;\n\nc) 25 % para o serviço responsável pela gestão financeira do orçamento da segurança social;\n\nd) 25 % para o Fundo.\n\n2 - No caso de coima aplicada em matéria de segurança e saúde no trabalho, os valores constantes das alíneas b) a d) do número anterior revertem para o Fundo de Acidentes de Trabalho.\n\n3 - A ACT transfere trimestralmente para as entidades referidas no número anterior as importâncias a que as mesmas tenham direito.\n\n4 - À afetação do produto das coimas no âmbito da segurança social é aplicável o disposto no artigo 240.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n5 - A receita resultante das contraordenações previstas no presente artigo e aplicadas nas Regiões Autónomas constitui receita própria destas."
+  },
+  "175120324": {
+   "fragment_id": "175120258",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "175120325": {
+   "fragment_id": "175120259",
+   "type": 11,
+   "heading": "Artigo 83.º — Outros seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Outros seguros\n\nAs pessoas singulares e coletivas da área da cultura podem celebrar os seguintes contratos de seguros que cubram, nomeadamente, os seguintes riscos:\n\na) Acidentes pessoais;\n\nb) Responsabilidade civil profissional;\n\nc) Cancelamento de espetáculos e eventos."
+  },
+  "175120326": {
+   "fragment_id": "175120260",
+   "type": 11,
+   "heading": "Artigo 84.º — Entidade gestora do subsídio por suspensão da atividade cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Entidade gestora do subsídio por suspensão da atividade cultural\n\n1 - A gestão do subsídio por suspensão da atividade cultural compete à instituição da segurança social competente.\n\n2 - A entidade gestora estabelece com o IGAC e a AT os protocolos necessários ao cumprimento da obrigação contributiva dos profissionais da área da cultura e à gestão do subsídio por cessação da atividade cultural, nos termos previstos no presente Estatuto."
+  },
+  "175120327": {
+   "fragment_id": "175120261",
+   "type": 11,
+   "heading": "Artigo 85.º — Desmaterialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Desmaterialização\n\nTodos os pedidos, comunicações e notificações previstos no presente Estatuto, nomeadamente os relacionados com o RPAC e o acesso ao subsídio de suspensão de atividade cultural, devem ser preferencialmente efetuados de forma desmaterializada, acessível através do balcão único ePortugal.\n\n114753627"
+  },
+  "175119421": {
+   "fragment_id": "175043555",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros, de 21 de outubro de 2021. - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão - Graça Maria da Fonseca Caetano Gonçalves - Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\nPromulgado em 13 de novembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 16 de novembro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\nANEXO\n\n(a que se refere o artigo 1.º)"
+  },
+  "201540282": {
+   "fragment_id": "175120194",
+   "type": 11,
+   "heading": "Artigo 30.º — Liberdade de forma",
+   "in_force_from": "2022-09-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 30.º — Liberdade de forma\n\n1 - O contrato de prestação de serviço não depende da observância de forma especial, sem prejuízo do disposto no número seguinte e nos n.os 1 e 3 do artigo 26.º\n\n2 - A entidade beneficiária da prestação que disponha ou deva dispor de contabilidade organizada comunica à IGAC, nos termos a regular por portaria dos membros do Governo responsáveis pelas áreas das finanças, da cultura, do trabalho e da segurança social, a celebração do contrato de prestação de serviço.\n\n3 - Constitui contraordenação muito grave a violação do disposto no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  },
+  "201540283": {
+   "fragment_id": "175120201",
+   "type": 11,
+   "heading": "Artigo 35.º — Fundo Especial de Segurança Social dos Profissionais da Área da Cultura",
+   "in_force_from": "2022-09-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 35.º — Fundo Especial de Segurança Social dos Profissionais da Área da Cultura\n\n1 - A atribuição e gestão do subsídio por suspensão da atividade cultural é efetuada através do Fundo.\n\n2 - A gestão administrativa e financeira do Fundo compete ao Instituto de Gestão Financeira da Segurança Social, I. P., que, para o efeito, articula com os serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.), e das regiões autónomas dos Açores e da Madeira.\n\n3 - Constituem receitas do Fundo:\n\na) A contribuição correspondente a 7,5 pontos percentuais da taxa contributiva devida pelas entidades empregadoras no regime de contrato de muito curta duração a que se refere o artigo 45.º;\n\nb) A contribuição correspondente a 5,1 pontos percentuais da taxa contributiva devida pelas entidades beneficiárias da prestação a que se refere o artigo 49.º;\n\nc) A contribuição correspondente a 3,8 pontos percentuais da taxa contributiva devida pelos trabalhadores independentes a que se refere o artigo 49.º;\n\nd) A afetação do produto das coimas laborais nos termos previstos no presente Estatuto;\n\ne) Quaisquer receitas que legalmente lhe venham a ser atribuídas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  },
+  "201540284": {
+   "fragment_id": "175120212",
+   "type": 11,
+   "heading": "Artigo 44.º — Conversão do valor da remuneração mensal em dias de trabalho",
+   "in_force_from": "2022-09-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 44.º — Conversão do valor da remuneração mensal em dias de trabalho\n\n1 - Para efeitos de acesso ao subsídio de suspensão da atividade cultural, o prazo de garantia é calculado segundo a seguinte fórmula:\n\n(VRM)/(2,5 IAS/30)\n\n2 - Para efeitos do número anterior, VRM é a soma do valor das remunerações recebidas em cada mês pela atividade da cultura que constituam base de incidência contributiva e IAS é o Indexante de Apoios Sociais.\n\n3 - O disposto nos números anteriores é aplicável mesmo nas situações em que se verifique acumulação de atividades ou de regimes contributivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  },
+  "201540285": {
+   "fragment_id": "175120216",
+   "type": 11,
+   "heading": "Artigo 47.º — Âmbito material de proteção",
+   "in_force_from": "2022-09-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 47.º — Âmbito material de proteção\n\n1 - Os profissionais da área da cultura abrangidos pelo regime dos trabalhadores independentes têm direito à proteção nas eventualidades de doença, parentalidade, doenças profissionais, invalidez, velhice e morte, nos termos dos respetivos regimes jurídicos.\n\n2 - A proteção na eventualidade de desemprego dos profissionais referidos no número anterior é assegurada através da atribuição do subsídio por suspensão da atividade cultural nos termos estabelecidos no presente Estatuto, não lhes sendo aplicável o disposto nos Decretos-Leis n.os 65/2012, de 15 de março, e 12/2013, de 25 de janeiro, nas suas redações atuais.\n\n3 - Os profissionais referidos no n.º 1 são enquadrados, para efeitos de taxa contributiva, como empresários em nome individual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  },
+  "201540286": {
+   "fragment_id": "175120219",
+   "type": 11,
+   "heading": "Artigo 50.º — Modalidade contributiva dos trabalhadores independentes",
+   "in_force_from": "2022-09-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 50.º — Modalidade contributiva dos trabalhadores independentes\n\n1 - A obrigação contributiva dos profissionais da área da cultura abrangidos pelo regime dos trabalhadores independentes, no que respeita ao exercício desta atividade, tem por base o valor de cada recibo ou fatura-recibo emitidos no portal da AT, com as seguintes modalidades:\n\na) Recibo eletrónico ou fatura-recibo eletrónico com retenção na fonte, sempre que a entidade beneficiária da prestação seja uma pessoa coletiva ou uma pessoa singular que disponha ou deva dispor de contabilidade organizada;\n\nb) Recibo eletrónico ou fatura-recibo eletrónico sem retenção na fonte, sempre que a entidade beneficiária da prestação seja uma pessoa singular que não disponha nem seja obrigada a dispor de contabilidade organizada.\n\n2 - São devidas mensalmente contribuições pelo trabalhador independente e pela entidade beneficiária da prestação com base nos recibos ou faturas-recibos eletrónicos emitidos em cada mês pelo exercício de atividade na área da cultura.\n\n3 - Excetuam-se do disposto nos números anteriores os recibos ou faturas-recibos referentes a propriedade intelectual, salvo nas situações previstas no n.º 3 do artigo 54.º\n\n4 - As contribuições devidas são calculadas pela aplicação da respetiva taxa contributiva sobre o valor de 70 % ou 20 %, consoante se trate de prestação de serviço ou produção e venda de bens, de cada recibo ou fatura-recibo eletrónica emitida.\n\n5 - Sem prejuízo da aplicação do n.º 2 do artigo anterior, as contribuições devidas pelo trabalhador independente abrangido pelo regime de contabilidade organizada são calculadas, nos termos dos números anteriores, pela aplicação da contribuição correspondente a 3,8 pontos percentuais a que se refere a alínea c) do n.º 3 do artigo 35.º, exclusivamente para efeitos da proteção garantida pelo Fundo, mantendo-se em simultâneo, para efeitos do regime dos trabalhadores independentes, a aplicação integral do regime previsto no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n6 - O trabalhador independente abrangido pelo n.º 1 está sujeito ao pagamento de contribuições pelo valor mínimo previsto no n.º 2 do artigo 163.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n7 - O disposto no número anterior aplica-se durante os meses de atribuição do subsídio por suspensão da atividade cultural.\n\n8 - A contribuição devida pela entidade beneficiária da prestação é calculada pela aplicação da taxa aplicável ao valor de 70 % ou 20 % de cada recibo ou fatura-recibo eletrónica emitida pelos trabalhadores em cada mês, exclusivamente no que respeita à prestação de serviço ou produção e venda de bens da área da cultura, respetivamente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  },
+  "201540287": {
+   "fragment_id": "175120222",
+   "type": 11,
+   "heading": "Artigo 53.º — Conversão do valor dos recibos ou faturas-recibos eletrónicos em dias de trabalho",
+   "in_force_from": "2022-09-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 53.º — Conversão do valor dos recibos ou faturas-recibos eletrónicos em dias de trabalho\n\n1 - Para efeitos de acesso ao subsídio de suspensão da atividade cultural, o prazo de garantia é calculado segundo a seguinte fórmula:\n\n(VRE)/(2,5 IAS/30)\n\n2 - Para efeitos do número anterior, VRE é a soma do valor dos recibos ou faturas-recibos eletrónicos emitidos em cada mês pelo exercício de atividade da área da cultura que constituam base de incidência contributiva e IAS é o indexante de apoios sociais.\n\n3 - O disposto nos números anteriores é aplicável ainda que haja acumulação de atividades ou de regimes contributivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  },
+  "201540288": {
+   "fragment_id": "175120248",
+   "type": 11,
+   "heading": "Artigo 75.º — Prestação social para inclusão",
+   "in_force_from": "2022-09-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 75.º — Prestação social para inclusão\n\n1 - Nas situações em que o profissional da área da cultura com deficiência, titular da prestação social para a inclusão, venha a auferir rendimentos de trabalho decorrentes do exercício de atividade da área da cultura que, em acumulação com a componente base da prestação, sejam superiores ao limiar de acumulação da componente base, é aplicável o regime previsto no Decreto-Lei n.º 126-A/2017, de 6 de outubro, na sua redação atual.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  },
+  "858578260": {
+   "fragment_id": "175120194",
+   "type": 11,
+   "heading": "Artigo 30.º — Liberdade de forma",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 30.º — Liberdade de forma\n\n1 - O contrato de prestação de serviço não depende da observância de forma especial, sem prejuízo do disposto no número seguinte e nos n.os 1 e 3 do artigo 26.º\n\n2 - A entidade beneficiária da prestação que disponha ou deva dispor de contabilidade organizada comunica à IGAC e à ACT, nos termos a regular por portaria dos membros do Governo responsáveis pelas áreas das finanças, da cultura, do trabalho e da segurança social, a celebração do contrato de prestação de serviço.\n\n3 - Constitui contraordenação muito grave a violação do disposto no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  },
+  "858578266": {
+   "fragment_id": "175120201",
+   "type": 11,
+   "heading": "Artigo 35.º — Fundo Especial de Segurança Social dos Profissionais da Área da Cultura",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 35.º — Fundo Especial de Segurança Social dos Profissionais da Área da Cultura\n\n1 - A atribuição e gestão do subsídio por suspensão da atividade cultural é efetuada através do Fundo.\n\n2 - A gestão administrativa e financeira do Fundo compete ao Instituto de Gestão Financeira da Segurança Social, I. P., que, para o efeito, articula com os serviços competentes do Instituto da Segurança Social, I. P. (ISS, I. P.), e das regiões autónomas dos Açores e da Madeira.\n\n3 - Constituem receitas do Fundo:\n\na) A contribuição correspondente a 7,5 pontos percentuais da taxa contributiva devida pelas entidades empregadoras no regime de contrato de muito curta duração a que se refere o artigo 45.º;\n\nb) A contribuição correspondente a 5,1 pontos percentuais da taxa contributiva devida pelas entidades beneficiárias da prestação a que se refere o artigo 49.º;\n\nc) [Revogada];\n\nd) A afetação do produto das coimas laborais nos termos previstos no presente Estatuto;\n\ne) Quaisquer receitas que legalmente lhe venham a ser atribuídas.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  },
+  "858578261": {
+   "fragment_id": "175120212",
+   "type": 11,
+   "heading": "Artigo 44.º — Conversão do valor da remuneração mensal em dias de trabalho",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 44.º — Conversão do valor da remuneração mensal em dias de trabalho\n\n1 - Para efeitos de acesso ao subsídio de suspensão da atividade cultural, o prazo de garantia é calculado segundo a seguinte fórmula:\n\n(VRM)/(2 IAS/30)\n\n2 - Para efeitos do número anterior, VRM é a soma do valor das remunerações recebidas em cada mês pela atividade da cultura que constituam base de incidência contributiva e IAS é o Indexante de Apoios Sociais.\n\n3 - O disposto nos números anteriores é aplicável mesmo nas situações em que se verifique acumulação de atividades ou de regimes contributivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  },
+  "858578262": {
+   "fragment_id": "175120213",
+   "type": 11,
+   "heading": "Artigo 45.º — Taxa contributiva",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-01"
+   ],
+   "markdown": "###### Artigo 45.º — Taxa contributiva\n\nA taxa contributiva relativa aos profissionais da área da cultura em regime de contrato de trabalho de muito curta duração é de 35,4 %, sendo 26,1 % da responsabilidade da entidade empregadora e 9,3 % do trabalhador, sem prejuízo da aplicação de taxas contributivas mais favoráveis previstas no regime geral dos trabalhadores por conta de outrem.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-01"
+  },
+  "858578263": {
+   "fragment_id": "175120217",
+   "type": 11,
+   "heading": "Artigo 48.º — Entidades beneficiárias da prestação do trabalho independente",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02"
+   ],
+   "markdown": "###### Artigo 48.º — Entidades beneficiárias da prestação do trabalho independente\n\n1 - São entidades beneficiárias da prestação abrangidas pelo regime constante da presente secção as pessoas coletivas e as pessoas singulares com ou sem atividade empresarial que beneficiam da prestação de serviço por profissionais da área da cultura, independentemente da sua atividade.\n\n2 - As entidades com atividade de mera intermediação ou gestão coletiva de direitos de autor, quando atuem exclusivamente no âmbito dessa atividade, não são consideradas entidades beneficiárias para efeitos do presente Estatuto, nem entidades contratantes para efeitos dos artigos 140.º e 140.º-A do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02"
+  },
+  "858578264": {
+   "fragment_id": "175120218",
+   "type": 11,
+   "heading": "Artigo 49.º — Taxas contributivas",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02"
+   ],
+   "markdown": "###### Artigo 49.º — Taxas contributivas\n\n1 - A taxa contributiva relativa aos trabalhadores independentes, incluindo os empresários em nome individual, da área da cultura é fixada em 21,4 %.\n\n2 - A taxa contributiva da responsabilidade da entidade beneficiária da prestação é de 5,1 %.\n\n3 - A taxa contributiva da responsabilidade da entidade beneficiária da prestação é sempre devida, independentemente de o trabalhador estar ou não inscrito no RPAC.\n\n4 - Nas situações em que a entidade beneficiária é, simultaneamente para a mesma atividade e para o mesmo trabalhador, apurada como entidade contratante, nos termos dos artigos 140.º e 140.º-A do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, apenas é devido o pagamento da taxa contributiva enquanto entidade beneficiária.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924) A alteração ao n.º 1 do presente artigo, produz efeitos a 1 de junho de 2024.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02"
+  },
+  "858578265": {
+   "fragment_id": "175120222",
+   "type": 11,
+   "heading": "Artigo 53.º — Conversão do valor dos recibos ou faturas-recibos eletrónicos em dias de trabalho",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+   ],
+   "markdown": "###### Artigo 53.º — Conversão do valor dos recibos ou faturas-recibos eletrónicos em dias de trabalho\n\n1 - Para efeitos de acesso ao subsídio de suspensão da atividade cultural, o prazo de garantia é calculado segundo a seguinte fórmula:\n\n(VRE)/(2 IAS/30)\n\n2 - Para efeitos do número anterior, VRE é a soma do valor dos recibos ou faturas-recibos eletrónicos emitidos em cada mês pelo exercício de atividade da área da cultura que constituam base de incidência contributiva e IAS é o indexante de apoios sociais.\n\n3 - O disposto nos números anteriores é aplicável ainda que haja acumulação de atividades ou de regimes contributivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2024 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2024-858167924), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 64/2022 - Diário da República n.º 187/2022, Série I de 2022-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2022-201509698), em vigor a partir de 2022-09-28"
+  }
+ }
+}

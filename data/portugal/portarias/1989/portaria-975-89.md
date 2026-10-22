@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:549794:por
+title: Portaria n.º 975/89
+short_title: null
+summary: Cria a Escola Preparatória de Aguada de Cima, em Aveiro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Educação
+proposing_entity: null
+official_number: 975/89
+official_date: null
+publication_date: '1989-11-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 261/1989, Série I de 1989-11-13
+  number: '261'
+  series: I
+  supplement: null
+  pages: 4982 - 4983
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26100/49824983.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '549794'
+  dre_path: /dr/detalhe/portaria/975-1989-549794
+  internal: pt:dre:549794:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/975-1989-549794
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/975-1989-549794
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-11-13T00:00:00Z'
+integrity:
+  source_sha256: 9d03dcf3c97237d2b84af93197b468c24ce0bb39d40cd2ec1246e79e4711358e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-975-549794.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 975/89
+
+de 13 de Novembro
+
+Considerando o movimento anual da rede escolar;
+
+Considerando que não foi possível incluir o estabelecimento de ensino ora criado na portaria que recentemente alterou o conjunto das escolas;
+
+Considerando que, por aplicação do n.º 1 do artigo 13.º do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, os lugares de contratos plurianuais são transformados em lugares do quadro;
+
+Considerando a criação de lugares prevista no n.º 2 do mesmo artigo:
+
+De acordo com o disposto nos Decretos-Leis n.os 47480, de 2 de Janeiro de 1967, 48541, de 23 de Agosto de 1968, 48572, de 9 de Setembro de 1968, [260/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1975-335954), de 26 de Maio, [219/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1979-382059), de 17 de Julho, 519-E2/79, de 29 de Dezembro, [57/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1980-677442), de 26 de Março, [46/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1985-327134), de 22 de Fevereiro, e [18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro:
+
+Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
+
+1.º É criada, para entrar em funcionamento em 1 de Setembro de 1989, a seguinte escola preparatória:
+
+Distrito de Aveiro
+
+740 - Aguada de Cima.
+
+2.º Ao quadro de pessoal docente das escolas preparatórias é aditado o número de lugares constante do mapa I anexo à presente portaria.
+
+3.º Para fazer face ao funcionamento da escola agora criada são adicionados ao quadro de vinculação previsto no [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio, os lugares de pessoal não docente constantes do mapa II anexo à presente portaria.
+
+4.º Até final do presente ano económico os encargos com o funcionamento da escola preparatória criada pelo n.º 1.º da presente portaria serão suportados pelas dotações inscritas nos orçamentos das escolas preparatórias.
+
+5.º A escola preparatória criada pelo n.º 1.º da presente portaria constitui um único quadro de afectação do distrito de Aveiro, pelo que o anexo XXII ao [Decreto-Lei n.º 223/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/223-1987-421847), de 30 de Maio (com as alterações que foram introduzidas pelo [Decreto-Lei n.º 191/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1989-620320), de 7 de Junho), passa a ter a composição constante do mapa III em anexo.
+
+Ministérios das Finanças e da Educação.
+
+**Assinada em 19 de Outubro de 1989.**
+
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento. - O Ministro da Educação, Roberto Artur da Luz Carneiro.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26100/49824983.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26100/49824983.pdf)

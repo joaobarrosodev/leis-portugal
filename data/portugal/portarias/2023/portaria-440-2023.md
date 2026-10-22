@@ -1,0 +1,260 @@
+---
+schema_version: '1.0'
+id: pt:dre:378285220:por
+title: Portaria n.º 440/2023
+short_title: null
+summary: A Imprensa Nacional-Casa da Moeda, S. A. (INCM, S. A.), fica autorizada, no âmbito do Plano de Emissões de Moedas
+  Comemorativas para 2024, a cunhar e a comercializar 10 moedas de coleção
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças
+proposing_entity: null
+official_number: 440/2023
+official_date: null
+publication_date: '2023-12-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 242/2023, Série I de 2023-12-18
+  number: '242'
+  series: I
+  supplement: null
+  pages: 91 - 96
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/440/2023/12/18/p/dre/pt/html
+  oj: null
+  dre: '378285220'
+  dre_path: /dr/detalhe/portaria/440-2023-378285220
+  internal: pt:dre:378285220:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/440-2023-378285220
+  metadata_url: https://data.dre.pt/eli/port/440/2023/12/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/440-2023-378285220
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-12-18T00:00:00Z'
+integrity:
+  source_sha256: 34a27fd893576aa8619a420500e58726cc49844df96b28cdc54bffd0825181e7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-440-378285220.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Especificação Técnica
+- Imprensa Nacional-Casa da Moeda
+- Moeda Comemorativa
+- Numismática
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/246/2007/06/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/246/2007/06/26/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 440/2023
+
+de 18 de dezembro
+
+Nos termos do Plano de Emissões de Moedas Comemorativas para 2024, a Imprensa Nacional-Casa da Moeda, S. A. (INCM, S. A.), é autorizada a cunhar 10 moedas de coleção comemorativas de vários eventos ou efemérides.
+
+No contexto da segunda série «Tesouros Numismáticos Portugueses», será emitida a quinta e última moeda, alusiva à Dobra de 24 escudos, uma moeda muito relevante da numismática portuguesa por ser uma moeda de grande módulo e um objeto artístico utilizado como meio de propaganda ao serviço da política e da diplomacia, mandada emitir por D. João V.
+
+No enquadramento da série «Ibero-Americana», sob o tema Capitais Ibero-Americanas, emite-se uma moeda alusiva a Lisboa e às suas ruas estreitas e bairros tradicionais. Para esse efeito, foi escolhida a Rua da Bica de Duarte Belo, por num passado recente ter sido considerada uma das mais belas ruas do mundo, destacando-se o típico transporte público dessa zona histórica, o ascensor, que tanto contribui para o enriquecimento cultural da cidade.
+
+No ano em que se comemora o 50.º aniversário do 25 de abril de 1974, justifica-se homenagear o evento que levou à conquista da liberdade e à instauração de um sistema democrático no país, através da emissão de uma moeda comemorativa designada «Liberdade, liberdade!».
+
+Sob o tema do desporto, no âmbito da 17.ª edição do Campeonato Europeu de Futebol, UEFA Euro 2024, competição de que Portugal detém um título, emite-se uma moeda alusiva a este evento.
+
+No âmbito da comemoração dos 500 anos do nascimento de Luís de Camões, poeta português do século xvi e autor de Os Lusíadas, que tanto contribuiu para a história da literatura e da língua portuguesas, pretende-se assinalar esta efeméride mediante a emissão de uma moeda comemorativa.
+
+Apostando na continuidade da homenagem à música portuguesa e aos seus mais ilustres representantes, será emitida a segunda moeda na série «Músicos Portugueses», alusiva à banda emblemática do rock and roll português Xutos e Pontapés, formada no final da década de 1970 e considerada uma das bandas mais icónicas e duradouras do panorama musical em Portugal.
+
+No contexto da série dedicada a «Heróis e Criaturas da Mitologia», será emitida a segunda moeda comemorativa, alusiva à figura do Ulisses, rei de Ítaca e mítico fundador da cidade de Lisboa a que os antigos romanos chamavam Olisipo, que é também o herói da mitologia ocidental que, pela sua sagacidade e perseverança, se converteu num símbolo da capacidade humana para superar adversidades.
+
+Em 2024 celebra-se o 100.º Aniversário da Federação de Patinagem de Portugal, entidade detentora do estatuto de utilidade pública desportiva, com muitas conquistas de títulos nacionais e internacionais nas diferentes disciplinas sobre rodas, em torno das quais congrega praticantes de diferentes gerações, justificando-se a emissão de uma moeda comemorativa.
+
+Na prossecução da atividade de apoio à criação artística no âmbito do projeto «Desenhar a Moeda», iniciado pela INCM, S. A., em 2016, e tendo como objetivo promover a importância da moeda junto das gerações mais jovens, será emitida a moeda sob o tema «O Conhecimento», desenhada por um jovem aluno do Ensino Básico, em resultado de um concurso realizado junto das escolas do 2.º e 3.º ciclos, em parceria com a Comunidade Intermunicipal do Alto Minho.
+
+Integrada na série que evidencia elementos da cultura tradicional e popular através de jogos de infância clássicos e antigos, será emitida a segunda moeda da coleção «Jogos de Infância», dedicada ao conhecido jogo eletrónico Pac-Man, que se tornou um ex libris da cultura popular da década de 1980.
+
+A emissão, cunhagem, colocação em circulação e comercialização das referidas moedas de coleção é regulada pelo disposto no [Decreto-Lei n.º 246/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2007-635850), de 26 de junho, na sua redação atual, nos aspetos não regulamentados por normas comunitárias ou pela presente portaria.
+
+Foi ouvido o Banco de Portugal.
+
+Assim, ao abrigo do n.º 2 do artigo 5.º do [Decreto-Lei n.º 246/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2007-635850), de 26 de junho, na sua redação atual, manda o Governo, pelo Secretário de Estado do Tesouro, no uso da competência delegada, nos termos da alínea a) do n.º 3 do [Despacho n.º 2867/2023](https://diariodarepublica.pt/dr/detalhe/despacho/2867-2023-208087600), de 22 de fevereiro, do Ministro das Finanças, publicado no Diário da República, 2.ª série, n.º 44, de 2 de março de 2023, o seguinte:
+
+###### Artigo 1.º — Aprovação da emissão
+
+A Imprensa Nacional-Casa da Moeda, S. A. (INCM, S. A.), fica autorizada, no âmbito do Plano de Emissões de Moedas Comemorativas para 2024, a cunhar e a comercializar as seguintes moedas de coleção:
+
+a) Uma moeda designada «Dobra de 24 escudos», integrada na série «Tesouros Numismáticos Portugueses»;
+
+b) Uma moeda designada «Capitais Ibero-Americanas, Lisboa», integrada na série «Ibero-Americana»;
+
+c) Uma moeda designada «Liberdade, liberdade!»;
+
+d) Uma moeda designada «UEFA Euro 2024»;
+
+e) Uma moeda designada «Luís de Camões, 1524»;
+
+f) Uma moeda designada «Xutos e Pontapés, Rock 'n' Roll desde 1979», integrada na série «Músicos Portugueses»;
+
+g) Uma moeda designada «Ulisses», integrada na série «Heróis e Criaturas da Mitologia»;
+
+h) Uma moeda designada «100 Anos da Federação de Patinagem de Portugal»;
+
+i) Uma moeda designada «O Conhecimento», no âmbito do projeto «Desenhar a moeda»;
+
+j) Uma moeda designada «Pac-Man», integrada na série «Jogos de Infância».
+
+###### Artigo 2.º — Características e outros elementos da cunhagem
+
+1 - As características visuais das moedas de coleção referidas no artigo anterior são as seguintes:
+
+a) A moeda designada «Dobra de 24 escudos» apresenta no anverso o escudo de armas de Portugal encimado pela coroa do rei e uma cruz, orlado superiormente, da esquerda para a direita, pelo valor facial, a legenda «Portugal» e o ano «2024», no quadrante inferior esquerdo a indicação do autor e no quadrante inferior direito a legenda «Casa da Moeda»; no reverso apresenta a efígie do rei com o rosto voltado para a direita, cabeleira, e cabeça laureada, por baixo ao centro «1731» e na orla superior a legenda «IOANNES V. D. G. PORT. ET ALG. REX»;
+
+b) A moeda designada «Capitais Ibero-Americanas, Lisboa» apresenta no anverso ao centro o escudo nacional, circundado pelas legendas «Portugal» e «2024» e pelo valor facial, e na orla os escudos dos oito países que integram a série em 2024; no reverso, ocupando todo o campo central, a representação de uma rua estreita tradicional de Lisboa e de um ascensor, circundada à esquerda pelas legendas «X3.ª série» e «Capitais Ibero-americanas», e à direita por «Casa da Moeda», a indicação do autor e a legenda «Lisboa». A versão em prata com acabamento especial do tipo «Prova numismática» (proof) tem apontamentos de cor;
+
+c) A moeda designada «Liberdade, liberdade!» apresenta no anverso, ao centro, a representação de um cravo à esquerda do qual se inscrevem a legenda «Portugal» e as datas «25.04.1974» e «25.04.2024», na orla à esquerda a indicação do autor, o valor facial, cinco escudetes, a legenda «Casa da Moeda», e à direita o verso «Esta é a madrugada que eu esperava» e «in 'O Nome das Coisas'», Sophia de Mello Breyner Andresen. No reverso ao centro a representação do mesmo cravo circundado por cinquenta círculos excêntricos;
+
+d) A moeda designada «UEFA Euro 2024» apresenta no anverso a representação estilizada de um estádio, figurando na parte superior a cobertura com o escudo nacional e a esfera armilar ao centro, de onde emanam duas faixas, representando as bancadas, e no eixo central o campo de futebol com o logótipo oficial do evento «UEFA EURO 2024[([ver documento original](https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf))](https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf)» por baixo, no lado esquerdo o valor facial e no lado direito a legenda «Portugal»; no reverso, ocupando o campo central, apresentando-se ao centro uma bola, ladeada por dois pés de jogador com duas faixas derivando de cada um deles, na parte superior do campo central apresenta-se a legenda «UEFA EURO 2024[([ver documento original](https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf))](https://files.diariodarepublica.pt/1s/2023/12/24200/0009100096.pdf)» e na parte inferior direita a legenda «Casa da Moeda» e a indicação do autor. A versão em prata com acabamento especial do tipo «Prova numismática» (proof) apresenta apontamentos de cor;
+
+e) A moeda designada «Luís de Camões, 1524» apresenta no anverso, no campo central, o escudo nacional à esquerda do valor facial, circundado pela legenda «República Portuguesa», o ano «2024» e por baixo a legenda «Casa da Moeda» e a indicação do autor; o reverso apresenta no campo central a efígie estilizada do poeta cego, com uma coroa de louros e uma gola típica do século xvi, circundado à esquerda pela legenda «Luís de Camões» e à direita pelo ano «1524». A versão em prata com acabamento especial do tipo «Prova numismática» (proof) tem apontamentos de cor;
+
+f) A moeda designada «Xutos e Pontapés, Rock 'n' Roll desde 1979» apresenta no anverso, no campo central, o «X» que constituiu o primeiro símbolo gráfico da banda, à esquerda da legenda «Rock 'n' Roll desde 1979», circundado superiormente pela legenda «Xutos & Pontapés», o valor facial e o escudo nacional, e em baixo à direita por cinco estrelas, a orla encontra-se preenchida por pequenos pontos dispostos em circunferência; no reverso, a representação de dois antebraços cruzados, um gesto iconográfico da banda, circundados à esquerda pela legenda «Casa da Moeda» e a indicação do autor, à direita pela legenda «Portugal» e o ano «2024», e em baixo por cinco estrelas;
+
+g) A moeda designada «Ulisses» apresenta no anverso, ao centro, a figura de Ulisses amarrada ao mastro de uma embarcação sobre o mar ondulante, circundada por sete sereias com corpo de ave, asas e garras estendidas, à esquerda o escudo nacional e à direita o valor facial; o reverso apresenta no círculo exterior uma serpente que com o seu corpo descreve sete curvas, que moldam o círculo central, sugerindo sete colinas que rodeiam a figura central de Ulisses, em posição de defesa, armado com arco e flecha, na orla, alternadas com a representação estilizada de ondas do mar, as legendas «Ulisses» à esquerda, «Portugal» em cima, o ano «2024» à direita, e «Casa da Moeda» e a indicação do autor em baixo;
+
+h) A moeda designada «100 Anos da Federação de Patinagem de Portugal» apresenta no anverso, ocupando o campo central, três figuras ilustrativas das recentes disciplinas de roller freestyle, inline freestyle, e skateboarding, e em cima à esquerda o escudo nacional, na orla superior esquerda a legenda «100 Anos da Federação de Patinagem de Portugal», e na orla inferior direita a indicação da autora; no reverso, ocupando o campo central, três figuras ilustrativas das disciplinas clássicas de patinagem artística, hóquei em patins e patinagem de velocidade, e à esquerda o valor facial, na orla superior esquerda a legenda «República Portuguesa» e na orla inferior direita a legenda «Casa da Moeda» e o ano «2024». A versão em prata com acabamento especial do tipo «Prova numismática» (proof) tem apontamentos de cor;
+
+i) A moeda designada «O Conhecimento» apresenta no anverso à esquerda o valor facial e à direita o escudo nacional, encimados pela legenda «Portugal», na parte inferior a representação de moedas metálicas e notas com as legendas «500», «20» e «10»; no reverso, do lado direito, figura a representação de um balão de ensaio, ladeado à esquerda pelas legendas «Educação» e «Tecnológica» inseridas em quadros escolares, na orla inferior esquerda a indicação do autor e a legenda «Casa da Moeda», e na orla inferior direita o ano «2024». A versão em prata com acabamento especial do tipo «Prova numismática» (proof) tem apontamentos de cor;
+
+j) A moeda designada «Pac-Man» apresenta no campo central do anverso as figuras de dois fantasmas e, recortado no metal da moeda a silhueta da personagem Pac-Man, bem como alguns pixels na sua frente, aparecem igualmente recortados alguns pixels no lugar dos olhos e em frente dos fantasmas, na orla esquerda a legenda «Portugal», em que um escudete do escudo nacional ocupa a posição da letra «U», na orla do quadrante superior direito a legenda «2024» e o valor facial; o reverso apresenta a imagem invertida do anverso, os mesmo recortes, na orla do quadrante superior esquerdo a legenda «Casa da Moeda» e a identificação do autor, e na orla direita a legenda «Pac-Man». A moeda apresenta apontamentos de cor.
+
+2 - O valor facial para as moedas de coleção indicadas nas alíneas a) e b) do artigo 1.º é de (euro) 7,50.
+
+3 - O valor facial para a moeda de coleção indicada na alínea c) do artigo 1.º é de (euro) 10.
+
+4 - O valor facial para as moedas de coleção indicadas nas alíneas d), e), f), g), h), i) e j) do artigo 1.º é de (euro) 5.
+
+5 - As moedas referidas nas alíneas a) e j) do artigo 1.º, produzidas ao abrigo da presente portaria, são cunhadas apenas com acabamento especial do tipo «Prova numismática» (proof), de acordo com o disposto no artigo 4.º do [Decreto-Lei n.º 246/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2007-635850), de 26 de junho, na sua redação atual.
+
+6 - As moedas indicadas nas alíneas b), d), e), f), g), h) e i) do artigo 1.º, produzidas ao abrigo da presente portaria, são cunhadas com acabamento normal e com acabamento especial do tipo «Prova numismática» (proof), de acordo com o disposto no artigo 4.º do [Decreto-Lei n.º 246/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2007-635850), de 26 de junho, na sua redação atual.
+
+7 - A moeda indicada na alínea c) do artigo 1.º, produzida ao abrigo da presente portaria, é cunhada com acabamento especial, do tipo «flor de cunho» (FDC) e «Prova numismática» (proof), de acordo com o disposto no artigo 4.º do [Decreto-Lei n.º 246/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2007-635850), de 26 de junho.
+
+8 - As moedas com acabamento especial são devidamente protegidas e apresentadas em embalagens próprias.
+
+###### Artigo 3.º — Especificações técnicas
+
+1 - As especificações técnicas das moedas de coleção indicadas na alínea a) do artigo 1.º, com o valor facial de (euro) 7,50, em acabamento especial do tipo «Prova numismática» (proof), são cunhadas em ouro com um teor mínimo de 99,9 %, têm 23,33 g de massa com uma tolerância de mais ou menos 2 %, o diâmetro de 33 mm e o bordo liso.
+
+2 - As especificações técnicas das moedas de coleção indicadas na alínea b) do artigo 1.º, com o valor facial de (euro) 7,50, são as seguintes:
+
+a) As moedas com acabamento normal são cunhadas em liga de cuproníquel, com teor de níquel de 25 % com uma tolerância de mais ou menos 1,5 %, têm 18,5 g de massa com uma tolerância de mais ou menos 3 %, o diâmetro de 33 mm e o bordo serrilhado;
+
+b) As moedas com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em liga de prata com teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 13,5 g de massa com uma tolerância de mais ou menos 1,5 %, o diâmetro de 33 mm e o bordo serrilhado.
+
+3 - As especificações técnicas das moedas de coleção indicadas na alínea c) do artigo 1.º, com o valor facial de (euro) 10, são as seguintes:
+
+a) As moedas com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em liga de prata com teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 27 g de massa com uma tolerância de mais ou menos 1,5 %, o diâmetro de 40 mm e o bordo serrilhado;
+
+b) As moedas com acabamento especial do tipo «Flor de cunho» (FDC) são cunhadas em liga de prata com um teor mínimo de 99,9 %, têm 1000 g de massa com uma tolerância de mais 2 %, o diâmetro de 100 mm e o bordo serrilhado.
+
+4 - As especificações técnicas das moedas de coleção indicadas na alínea d) do artigo 1.º, com o valor facial de (euro) 5, são as seguintes:
+
+a) As moedas com acabamento normal são cunhadas em liga de cuproníquel, com teor de níquel de 25 % com uma tolerância de mais ou menos 1,5 %, têm 14 g de massa com uma tolerância de mais ou menos 3 %, o diâmetro de 30 mm e o bordo serrilhado;
+
+b) As moedas com acabamento especial do tipo «Provas numismáticas» (proof) são cunhadas em liga de prata com teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 14 g de massa com uma tolerância de mais ou menos 1,5 %, o diâmetro de 30 mm e o bordo serrilhado;
+
+c) As moedas de ouro com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em ouro com teor mínimo de 99,9 %, têm 7,78 g de massa com uma tolerância de mais ou menos 2 %, o diâmetro de 22 mm e o bordo serrilhado.
+
+5 - As especificações técnicas das moedas de coleção indicadas nas alíneas e), f) e g) do artigo 1.º, com o valor facial de (euro) 5, são as seguintes:
+
+a) As moedas com acabamento normal são cunhadas em liga de cuproníquel, com teor de níquel de 25 % com uma tolerância de mais ou menos 1,5 %, têm 14 g de massa com uma tolerância de mais ou menos 3 %, o diâmetro de 30 mm e o bordo serrilhado;
+
+b) As moedas de prata com acabamento especial do tipo «Provas numismáticas» (proof) são cunhadas em liga de prata com teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 14 g de massa com uma tolerância de mais ou menos 1,5 %, o diâmetro de 30 mm e o bordo serrilhado;
+
+c) As moedas de ouro com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em ouro com teor mínimo de 99,9 %, têm 15,55 g de massa com uma tolerância de mais ou menos 2 %, o diâmetro de 30 mm e o bordo serrilhado.
+
+6 - As especificações técnicas das moedas de coleção indicadas nas alíneas h) e i) do artigo 1.º, com o valor facial de (euro) 5, são as seguintes:
+
+a) As moedas com acabamento normal são cunhadas em liga de cuproníquel, com teor de níquel de 25 % com uma tolerância de mais ou menos 1,5 %, têm 14 g de massa com uma tolerância de mais ou menos 3 %, o diâmetro de 30 mm e o bordo serrilhado;
+
+b) As moedas com acabamento especial do tipo «Prova numismática» (proof) são cunhadas em liga de prata com teor de 92,5 % com uma tolerância de mais ou menos 1 %, têm 14 g de massa com uma tolerância de mais ou menos 1,5 %, o diâmetro de 30 mm e o bordo serrilhado;
+
+7 - As moedas de coleção indicadas na alínea j) do artigo 1.º, com o valor facial de (euro) 5, do tipo «Prova numismática» (proof) são cunhadas em prata com um teor de 92,5 % com uma tolerância de mais ou menos 5 %, têm 12,6 g de massa com uma tolerância de mais ou menos 5 %, o diâmetro de 30 mm e o bordo serrilhado.
+
+###### Artigo 4.º — Limites de emissão
+
+Os limites de emissão das moedas de coleção a que se refere o artigo 1.º são fixados do seguinte modo:
+
+a) Relativamente à moeda «Dobra de 24 escudos», o limite é de (euro) 18 750 e a INCM, S. A., é autorizada a cunhar até 2500 moedas em ouro com acabamento especial do tipo «Prova numismática» (proof);
+
+b) Relativamente à moeda «Capitais Ibero-Americanas, Lisboa», o limite é de (euro) 225 000 e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 5000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof);
+
+c) Relativamente à moeda «Liberdade, liberdade!», o limite é de (euro) 40 000 e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 3950 moedas em liga de prata com teor de 92,5 % em acabamento especial do tipo «Prova numismática» (proof) e 50 moedas em liga de prata com um teor mínimo de 99,9 % em acabamento do tipo «Flor de cunho» (FDC);
+
+d) Relativamente à moeda «UEFA Euro 2024», o limite é (euro) 155 000 e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 4000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof) e 2000 moedas em ouro com acabamento especial do tipo «Prova numismática» (proof);
+
+e) Relativamente à moeda «Luís de Camões, 1524», o limite é de (euro) 175 000 e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 3000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof) e 2000 moedas em ouro com acabamento especial do tipo «Prova numismática» (proof);
+
+f) Relativamente à moeda «Xutos e Pontapés, Rock 'n' Roll desde 1979», o limite é de (euro) 175 000 e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 3000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof) e 2000 moedas em ouro com acabamento especial do tipo «Prova numismática» (proof);
+
+g) Relativamente à moeda «Ulisses», o limite é (euro) 175 000 e a INCM, S. A., dentro deste limite, é autorizada a cunhar até 3000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof) e 2000 moedas em ouro com acabamento especial do tipo «Prova numismática» (proof);
+
+h) Relativamente à moeda «100 Anos da Federação de Patinagem de Portugal», o limite é de (euro) 165 000 e a INCM, S. A., é autorizada a cunhar até 3000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof);
+
+i) Relativamente à moeda «O Conhecimento», o limite é de (euro) 110 000 e a INCM, S. A., é autorizada a cunhar até 2000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof);
+
+j) Relativamente à moeda «Pac-Man», o limite é de (euro) 20 000 (vinte mil euros) e a INCM, S. A., é autorizada a cunhar até 4000 moedas em prata com acabamento especial do tipo «Prova numismática» (proof).
+
+###### Artigo 5.º — Curso legal e poder liberatório
+
+1 - Às moedas cunhadas ao abrigo da presente portaria é conferido poder liberatório apenas em Portugal.
+
+2 - Com exceção do Estado, através das Caixas do Tesouro, do Banco de Portugal e das instituições de crédito, cuja atividade consista em receber depósitos do público, ninguém pode ser obrigado a receber num único pagamento mais de 50 destas moedas.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Secretário de Estado do Tesouro, Pedro Nuno Pereira de Sousa Rodrigues, em 12 de dezembro de 2023.**

@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:565006:por
+title: Portaria n.º 785/81
+short_title: null
+summary: Eleva à categoria de esquadra o posto policial da cidade de Torres Vedras
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 785/81
+official_date: null
+publication_date: '1981-09-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 209/1981, Série I de 1981-09-11
+  number: '209'
+  series: I
+  supplement: null
+  pages: 2419 - 2420
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20900/24192420.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '565006'
+  dre_path: /dr/detalhe/portaria/785-1981-565006
+  internal: pt:dre:565006:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/785-1981-565006
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/785-1981-565006
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-09-11T00:00:00Z'
+integrity:
+  source_sha256: b68d7d6b832ec4129b351bf80760fd5e7d68e474f426156620ef08d25cffa75e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-785-565006.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 785/81
+
+de 11 de Setembro
+
+Pela [Portaria n.º 762/72](https://diariodarepublica.pt/dr/detalhe/portaria/762-1972-685576), de 21 de Dezembro, foi criado, à custa do quadro orgânico do Comando Distrital da PSP de Lisboa, o actual Posto Policial de Torres Vedras, com a seguinte constituição:
+
+1 primeiro-subchefe;
+
+3 guardas de 1.ª classe;
+
+7 guardas de 2.ª classe.
+
+Torres Vedras foi elevada à categoria de cidade há mais de dois anos, tendo assistido, antes e depois, ao desenvolvimento de todas as suas estruturas, com excepção do posto policial, que ainda mantém o mesmo efectivo.
+
+Considerando o brusco desenvolvimento populacional verificado e prestes a atingir os 20000 habitantes, cujo núcleo arrasta consigo toda uma gama de actividades próprias e diversas;
+
+Considerando de prioridade dotar a cidade de Torres Vedras com uma força policial compatível com as actuais necessidades e que as instalações comportam o contingente a alojar.
+
+Manda o Governo da República Portuguesa, pelo Ministro da Administração Interna, elevar à categoria de esquadra, desde já, o actual posto policial da cidade de Torres Vedras, à custa dos actuais efectivos do Comando Distrital da PSP de Lisboa, a qual ficará com a constituição seguinte:
+
+1 chefe de esquadra;
+
+1 subchefe-ajudante;
+
+6 primeiros-subchefes
+
+40 guardas.
+
+Ministério da Administração Interna, 31 de Agosto de 1981. - O Ministro da Administração Interna, Fernando Monteiro do Amaral.

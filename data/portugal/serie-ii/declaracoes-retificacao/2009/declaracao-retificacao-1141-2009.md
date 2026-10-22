@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:2900768:por
+title: Declaração de Rectificação n.º 1141/2009
+short_title: null
+summary: Rectificação de plano de estudos - mestrado em Psicologia do Desporto
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Universidade Técnica de Lisboa - Faculdade de Motricidade Humana
+proposing_entity: null
+official_number: 1141/2009
+official_date: null
+publication_date: '2009-04-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 82/2009, Série II de 2009-04-28
+  number: '82'
+  series: II
+  supplement: null
+  pages: 17098 - 17099
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/04/082000000/1709817099.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2900768'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1141-2009-2900768
+  internal: pt:dre:2900768:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1141-2009-2900768
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1141-2009-2900768
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-04-28T00:00:00Z'
+integrity:
+  source_sha256: 7196ccd0a7d0c51b8ab51ada2a29bbc04a015e172aa4c748330007188c680ab1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-1141-2900768.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1141/2009
+
+Por despacho da Presidente do conselho científico de 16 de Março de 2009, proferido por delegação de competências (Despacho n.º 22 544/2005 - 2.ª Série - publicado no Diário da República n.º 208, 2.ª série, de 28 de Outubro de 2005), a seguir se publica o plano de estudos rectificado do Mestrado em Psicologia do Desporto com o número R/B - AD - 202/2007 ([Despacho n.º 4570/2007](https://diariodarepublica.pt/dr/detalhe/despacho/4570-2007-995063), publicado na 2.ª série do Diário da República n.º 51, de 13 de Março) publicado através do [Despacho n.º 262/2008](https://diariodarepublica.pt/dr/detalhe/despacho/262-2008-1625190) (publicado na 2.ª série do Diário da República n.º 2, de 3 de Janeiro):
+
+Plano de Estudos
+
+1.º ano
+
+1.º semestre
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/082000000/1709817099.pdf))](https://files.diariodarepublica.pt/2s/2009/04/082000000/1709817099.pdf)
+
+2.º semestre
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/082000000/1709817099.pdf))](https://files.diariodarepublica.pt/2s/2009/04/082000000/1709817099.pdf)
+
+2.º ano
+
+1.º semestre
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/082000000/1709817099.pdf))](https://files.diariodarepublica.pt/2s/2009/04/082000000/1709817099.pdf)
+
+2.º semestre
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2009/04/082000000/1709817099.pdf))](https://files.diariodarepublica.pt/2s/2009/04/082000000/1709817099.pdf)
+
+15 de Abril de 2009. - O Secretário, João Mendes Jacinto.

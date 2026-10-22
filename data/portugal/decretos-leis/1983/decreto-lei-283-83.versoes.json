@@ -1,0 +1,1109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:452538:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1983-116104803",
+ "dre_path": "/dr/detalhe/decreto-lei/283-1983-452538",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1983-06-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116104918",
+    "116101767",
+    "116101768",
+    "116101769",
+    "116101770",
+    "116101771",
+    "116101772",
+    "116101773",
+    "116101774",
+    "116104875",
+    "116104876",
+    "116104877",
+    "116104878",
+    "116104879",
+    "116104880",
+    "116104881",
+    "116104882",
+    "116104883",
+    "116104884",
+    "116104885",
+    "116104886",
+    "116104887",
+    "116104888",
+    "116104889",
+    "116104890",
+    "116104891",
+    "116104892",
+    "116104893",
+    "116104894",
+    "116104895",
+    "116104896",
+    "116104897",
+    "116104898",
+    "116104899",
+    "116104900",
+    "116104901",
+    "116104902",
+    "116104903",
+    "116104904",
+    "116104905",
+    "116104906",
+    "116104907",
+    "116104908",
+    "116104909",
+    "116104910",
+    "116104911",
+    "116104912"
+   ]
+  },
+  {
+   "date": "2007-10-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:641418:por",
+     "title": "Decreto-Lei n.º 341/2007",
+     "published": "2007-10-12",
+     "dre_path": "/dr/detalhe/decreto-lei/341-2007-641418"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 34.º-A",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "116101766",
+    "116101767",
+    "116101768",
+    "116101769",
+    "116101770",
+    "116101771",
+    "116101772",
+    "116101773",
+    "116101774",
+    "116104875",
+    "116104876",
+    "116104877",
+    "116104878",
+    "116104879",
+    "116104880",
+    "116104881",
+    "116104882",
+    "116104883",
+    "116104884",
+    "116104885",
+    "116104886",
+    "116104887",
+    "116104888",
+    "116104889",
+    "116104890",
+    "116104891",
+    "116104892",
+    "116104893",
+    "116104894",
+    "116104895",
+    "116104896",
+    "116104897",
+    "116104898",
+    "116104899",
+    "116104917",
+    "116104901",
+    "116104902",
+    "116104903",
+    "116104904",
+    "116104905",
+    "116104906",
+    "116104907",
+    "116104914",
+    "116104915",
+    "116104916",
+    "116104910",
+    "116104911",
+    "116104912",
+    "116104913"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116068880:por",
+     "title": "Decreto-Lei n.º 66/2018",
+     "published": "2018-08-16",
+     "dre_path": "/dr/detalhe/decreto-lei/66-2018-116068880"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "116104918",
+    "116104919",
+    "116104920",
+    "116104921",
+    "116104922",
+    "116104923",
+    "116104924",
+    "116104925",
+    "116104926",
+    "116104927",
+    "116104928",
+    "116104929",
+    "116104930",
+    "116104931",
+    "116104932",
+    "116104933",
+    "116104934",
+    "116104935",
+    "116104936",
+    "116104937",
+    "116104938",
+    "116104939",
+    "116104940",
+    "116104941",
+    "116104942",
+    "116104943",
+    "116104944",
+    "116104945",
+    "116104946",
+    "116104947",
+    "116104948",
+    "116104949",
+    "116104950",
+    "116104951",
+    "116104952",
+    "116104953",
+    "116104954",
+    "116104955",
+    "116104956",
+    "116104957",
+    "116104958",
+    "116104959",
+    "116104960",
+    "116104961",
+    "116104962",
+    "116104963",
+    "116104964",
+    "116104965",
+    "116104966"
+   ]
+  }
+ ],
+ "fragments": {
+  "116104918": {
+   "fragment_id": "116104804",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 283/83\n\nde 21 de Junho\n\nAs disposições do Decreto-Lei n.º 555/77, de 31 de Dezembro, encontram-se hoje desajustadas da realidade universitária e da concepção que se defende quanto à simplificação dos processos burocráticos, pelo que importa proceder à sua revisão, aprovando-se novo diploma que regule as equivalências de habilitações estrangeiras de nível superior às correspondentes habilitações portuguesas.\n\nPelo presente diploma transfere-se para as universidades e demais estabelecimentos de ensino superior a totalidade das competências nessa matéria, dando-se, assim, mais um importante contributo para o incremento da autonomia universitária.\n\nInstitui-se, a nível central, um sistema de recolha de informação que permita a divulgação de dados estatísticos e a realização de estudos de carácter geral que permitam conhecer a aplicação que é dada às normas contidas no presente diploma e que proporcionem a base de trabalho para uma adequada representação internacional nesta área.\n\nVisou-se, ainda, o aperfeiçoamento das disposições de carácter processual em ordem a uma desburocratização do processo de concessão de equivalência, sem quebra de dignidade ou rigor, preenchendo-se diversas lacunas que vinham dificultando a tramitação de alguns pedidos.\n\nComo aspectos inovatórios realça-se, entre outras, a regulamentação das equivalências ao grau de mestre, entretanto criado pelo Decreto-Lei n.º 263/80, de 7 de Agosto, e o alargamento do âmbito da apreciação de relevância, procedendo-se à sua definição e caracterizando-se os seus efeitos.\n\nO presente diploma teve, ainda, em atenção a experiência colhida ao longo de 5 anos de vigência do Decreto-Lei n.º 555/77, de 31 de Dezembro, pelo que o texto agora aprovado consagra diversas disposições que visam corrigir as anomalias detectadas.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "116101767": {
+   "fragment_id": "116104805",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito e efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito e efeitos"
+  },
+  "116101768": {
+   "fragment_id": "116104806",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito)\n\n1 - O presente diploma regula as equivalências de habilitações estrangeiras de nível superior às correspondentes habilitações portuguesas.\n\n2 - Podem requerer equivalência nos termos do presente diploma:\n\na) Os cidadãos portugueses;\n\nb) Os cidadãos estrangeiros nacionais de países:\n\nI) Com os quais hajam sido firmados acordos específicos em matéria de equivalência que produzam os efeitos previstos no presente diploma:\n\nII) Ou, na ausência destes, cuja legislação confira aos cidadãos portugueses, no quadro do princípio de reciprocidade, os direitos previstos no presente diploma."
+  },
+  "116101769": {
+   "fragment_id": "116104807",
+   "type": 11,
+   "heading": "Artigo 2.º — (Efeitos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Efeitos)\n\n1 - As equivalências concedidas ao abrigo deste diploma têm o valor e produzem os efeitos correspondentes aos da titularidade dos graus ou diploma a que foram concedidas.\n\n2 - A concessão de equivalência não dispensa o titular da mesma de, para os efeitos profissionais, cumprir todas as outras condições que para o exercício da profissão respectiva sejam exigidas pelas autoridades governamentais ou profissionais competentes.\n\n3 - A equivalência de um curso estrangeiro de nível superior com prática ou estágio pedagógico inserido no seu currículo a um curso superior português cuja titularidade confira habilitação profissional para o exercício da docência nos ensinos básico ou secundário (Decreto-Lei n.º 302/74, de 5 de Julho, Decreto-Lei n.º 210/78, de 27 de Julho, Decreto-Lei n.º 423/78, de 22 de Dezembro) só pode ser conferida após a realização do estágio pedagógico previsto no plano de estudos do curso português nas condições que forem regulamentadas por portaria do Ministro da Educação."
+  },
+  "116101770": {
+   "fragment_id": "116104808",
+   "type": 1,
+   "heading": "Capítulo II — Equivalência ao grau de doutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Equivalência ao grau de doutor"
+  },
+  "116101771": {
+   "fragment_id": "116104809",
+   "type": 11,
+   "heading": "Artigo 3.º — (Âmbito e competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Âmbito e competência)\n\n1 - Poderão ser declarados equivalentes ao grau de doutor pelas universidades portuguesas, regulado pelo Decreto-Lei n.º 388/70, de 18 de Agosto, os graus de idêntica natureza obtidos em universidades estrangeiras.\n\n2 - A equivalência reportar-se-á a determinado ramo de conhecimento e especialidade e será conferida por universidades a que pertença a escola ou a unidade de ensino através da qual seja conferido o grau de doutor naquele ramo e especialidade, nos termos dos artigos 1.º e 2.º do Decreto-Lei n.º 388/70.\n\n2 - À concessão de equivalências ao grau de doutor aplica-se o disposto no artigo 1.º do Decreto-Lei n.º 93/77, de 12 de Março."
+  },
+  "116101772": {
+   "fragment_id": "116104810",
+   "type": 11,
+   "heading": "Artigo 4.º — (Instrução do pedido)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Instrução do pedido)\n\n1 - A equivalência será requerida ao reitor da universidade, devendo o requerimento mencionar obrigatoriamente:\n\na) O grau estrangeiro de que é requerida equivalência e o estabelecimento de ensino onde foi obtido;\n\nb) O ramo do conhecimento e especialidade em que é pretendida.\n\n2 - O requerimento será instruído com os seguintes documentos:\n\na) Diploma comprovativo da titularidade do grau de licenciado pelas universidades portuguesas, ou de equivalência legal a este grau, sem prejuízo do disposto no artigo 29.º;\n\nb) Diploma comprovativo da titularidade do grau de que é requerida a equivalência;\n\nc) Documento emitido pelas entidades competentes da universidade estrangeira onde constem as disciplinas em que obteve aprovação em curso que eventualmente constituía parte integrante das condições para obtenção do grau de que requer equivalência;\n\nd) 2 exemplares da dissertação e de outros trabalhos que tenham sido apresentados para concessão do grau de que é requerida a equivalência;\n\ne) 2 exemplares do curriculum vitae até à obtenção do grau de que é requerida a equivalência.\n\n3 - O requerimento e demais documentos serão entregues na reitoria da universidade."
+  },
+  "116101773": {
+   "fragment_id": "116104811",
+   "type": 11,
+   "heading": "Artigo 5.º — (Tramitação do processo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Tramitação do processo)\n\n1 - Aceite o pedido e completada a instrução do processo, a reitoria enviá-lo-á, nos 15 dias seguintes, ao conselho científico da escola ou unidade de ensino a que se refere o n.º 2 do artigo 3.º\n\n2 - O conselho científico formulará e remeterá à reitoria da universidade a proposta do júri.\n\n3 - O júri será constituído:\n\na) Pelo reitor da universidade, que presidirá;\n\nb) Por 3 a 5 vogais, professores de disciplinas da área científica onde se insere a especialidade em que é requerida a equivalência, um dos quais, pelo menos, deverá ser de outra universidade.\n\n4 - O reitor poderá fazer-se substituir por um dos vice-reitores ou pelo presidente do conselho científico da escola ou unidade de ensino referida no n.º 1.\n\n5 - A deliberação a que se refere o n.º 2 do presente artigo deve ser tomada e comunicada à reitoria no prazo de 30 dias contados a partir da recepção do processo.\n\n6 - O júri será nomeado por despacho do reitor, a publicar na 2.ª série do Diário da República até ao 30.º dia após a recepção da proposta formulada nos termos legais."
+  },
+  "116101774": {
+   "fragment_id": "116104812",
+   "type": 11,
+   "heading": "Artigo 6.º — (Deliberação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Deliberação)\n\n1 - A concessão ou denegação da equivalência será decidida pelo júri, o qual se pronunciará no prazo de 60 dias a contar da publicação da respectiva nomeação, exarando em acta os fundamentos da deliberação.\n\n2 - A deliberação deverá tomar em consideração exclusivamente o mérito científico do candidato, avaliado através das provas realizadas para a concessão do grau, de acordo com os critérios utilizados para a concessão do grau de doutor pelas universidades portuguesas.\n\n3 - Serão nulas e de nenhum efeito as deliberações tomadas em reuniões em que não esteja presente a maioria dos vogais nomeados.\n\n4 - A deliberação será tomada por maioria absoluta dos membros presentes, ficando exarados na acta os votos emitidos por cada um dos membros do júri, bem como as declarações que qualquer deles deseje registar.\n\n5 - O presidente apenas votará em caso de empate, salvo se ele próprio for professor de disciplinas a que se refere a alínea b) do n.º 5 do artigo anterior.\n\n6 - No caso de se verificar empate na situação prevista na parte final do n.º 5, o presidente tem voto de qualidade.\n\n7 - Em caso de concessão de equivalência, o júri poderá deliberar atribuir uma classificação nos termos do disposto no n.º 4 do artigo 13.º do Decreto-Lei n.º 388/70, se entender que do processo constam elementos idóneos e suficientes para tal.\n\n8 - Proferida a deliberação, a reitoria notificará o requerente nos 15 dias subsequentes.\n\n9 - Das deliberações do júri não caberá recurso, excepto se fundado na preterição de formalidades legais.\n\n10 - O recurso a que se refere o número anterior será interposto perante o reitor da universidade."
+  },
+  "116104875": {
+   "fragment_id": "116104813",
+   "type": 1,
+   "heading": "Capítulo III — Equivalência ao grau de mestre",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Equivalência ao grau de mestre"
+  },
+  "116104876": {
+   "fragment_id": "116104814",
+   "type": 11,
+   "heading": "Artigo 7.º — (Âmbito e competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Âmbito e competência)\n\n1 - Poderão ser declarados equivalentes ao grau de mestre pelas universidades portuguesas, criado e regulado pelo Decreto-Lei n.º 263/80, de 7 de Agosto, os graus de idêntica natureza obtidos em universidades estrangeiras.\n\n2 - A equivalência reportar-se-á a determinada especialidade e será conferida por universidade a que pertença a escola ou a unidade de ensino através da qual seja conferido o grau de mestre naquela especialidade."
+  },
+  "116104877": {
+   "fragment_id": "116104815",
+   "type": 11,
+   "heading": "Artigo 8.º — (Instrução do pedido)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Instrução do pedido)\n\n1 - A equivalência será requerida ao reitor da universidade, devendo o requerimento mencionar obrigatoriamente:\n\na) O grau estrangeiro de que é requerida a equivalência e o estabelecimento de ensino onde foi obtido;\n\nb) A especialidade em que é pretendida.\n\n2 - O requerimento será instruído com os seguintes documentos:\n\na) Diploma comprovativo da titularidade do grau de licenciado pelas universidades portuguesas, ou de equivalente legal a este grau, sem prejuízo do disposto no artigo 29.º;\n\nb) Diploma comprovativo da titularidade do grau de que é requerida a equivalência;\n\nc) Documento, emitido pelas entidades competentes da universidade estrangeira, onde constem as disciplinas em que obteve aprovação em curso que constitua parte integrante das condições para obtenção do grau de que requer equivalência;\n\nd) 2 exemplares da dissertação de outros trabalhos que tenham sido apresentados para a concessão do grau de que é requerida a equivalência;\n\ne) Regulamento fixando as condições de admissão e concessão do grau estrangeiro de que é requerida equivalência, quando da obtenção do mesmo.\n\n3 - O requerimento e demais documentos serão entregues na reitoria da universidade."
+  },
+  "116104878": {
+   "fragment_id": "116104816",
+   "type": 11,
+   "heading": "Artigo 9.º — (Tramitação do processo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Tramitação do processo)\n\n1 - Aceite o pedido e completa a instrução do processo, a reitoria enviá-lo-á, nos 15 dias seguintes, ao conselho científico da escola ou unidade de ensino a que se refere o n.º 2 do artigo 7.º\n\n2 - O conselho científico formulará e remeterá à reitoria da universidade a proposta do júri.\n\n3 - O júri será constituído por três professores da área científica onde se insere a especialidade em que é requerida a equivalência, devendo um deles ser estranho à universidade pela qual é requerida.\n\n4 - O júri será presidido pelo seu membro mais antigo da categoria mais elevada da universidade pela qual é requerida a equivalência.\n\n5 - A deliberação a que se refere o n.º 2 do presente artigo deve ser tomada e comunicada à reitoria no prazo de 30 dias a partir da data da recepção do processo.\n\n6 - O júri será nomeado por despacho do reitor, a publicar na 2.ª série do Diário da República até ao 30.º dia após a recepção da proposta formulada nos termos legais."
+  },
+  "116104879": {
+   "fragment_id": "116104817",
+   "type": 11,
+   "heading": "Artigo 10.º — (Deliberação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Deliberação)\n\n1 - A concessão ou denegação da equivalência será decidida pelo júri, o qual se pronunciará no prazo de 60 dias a contar da publicação da respectiva nomeação, exarando em acta os fundamentos da deliberação.\n\n2 - A deliberação deverá tomar em consideração exclusivamente o mérito científico do candidato avaliado através das provas realizadas para a concessão do grau, de acordo com os critérios utilizados para a concessão do grau de mestre pelas universidades portuguesas.\n\n3 - Serão nulas e de nenhum efeito as deliberações tomadas em reuniões em que não esteja presente a maioria dos membros do júri.\n\n4 - A deliberação será tomada por maioria absoluta dos membros presentes, ficando exarados em acta os votos emitidos por cada um dos membros do júri, bem como as declarações que qualquer deles deseje registar.\n\n5 - No caso de se verificar empate, o presidente tem voto de qualidade.\n\n6 - Em caso de concessão de equivalência, o júri poderá deliberar atribuir uma classificação nos termos do disposto no n.º 1 do Decreto-Lei n.º 263/80, se entender que do processo constam elementos idóneos e suficientes para tal.\n\n7 - Proferida a deliberação, a reitoria notificará o requerente nos 15 dias subsequentes.\n\n8 - Das deliberações do júri não caberá recurso, excepto se fundado na preterição de formalidades legais.\n\n9 - O recurso a que se refere o número anterior será interposto perante o reitor da universidade."
+  },
+  "116104880": {
+   "fragment_id": "116104818",
+   "type": 1,
+   "heading": "Capítulo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV\n\nEquivalência aos graus de licenciado e bacharel e a cursos de ensino superior não conferentes de grau"
+  },
+  "116104881": {
+   "fragment_id": "116104819",
+   "type": 11,
+   "heading": "Artigo 11.º — (Âmbito e competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Âmbito e competência)\n\n1 - Poderão ser declarados equivalentes às licenciaturas e bacharelatos, bem como a outros cursos de ensino superior não conferentes de grau conferidos e ministrados em estabelecimentos de ensino superior português, os graus e diplomas de idêntica natureza obtidos em estabelecimentos de ensino superior estrangeiros.\n\n2 - A equivalência reportar-se-á a determinado grau ou diploma do ensino superior português e a sua atribuição é da competência do conselho científico da escola ou unidade de ensino que ministre o ensino conducente à atribuição do referido grau ou diploma.\n\n3 - A deliberação a que se refere o número anterior será proferida sob parecer de um ou mais professores da especialidade ou especialidades em que se insira o grau ou diploma em causa, designados para tal pelo conselho científico, de entre os seus membros.\n\n4 - Cabe ao conselho científico de cada estabelecimento fixar as regras que entender mais adequadas ao desempenho da competência a que se refere este artigo."
+  },
+  "116104882": {
+   "fragment_id": "116104820",
+   "type": 11,
+   "heading": "Artigo 12.º — (Documentos para a instrução do pedido)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Documentos para a instrução do pedido)\n\n1 - A equivalência será requerida ao presidente do conselho científico da escola ou unidade de ensino a que se refere o n.º 2 do artigo 11.º, devendo o requerimento mencionar obrigatoriamente:\n\na) O grau ou diploma estrangeiro de que é requerida a equivalência e o estabelecimento de ensino onde foi obtido;\n\nb) O grau ou diploma português de que é requerida a equivalência.\n\n2 - O requerimento será instruído com os seguintes documentos:\n\na) Diploma comprovativo da titularidade do grau ou diploma estrangeiro de que é requerida a equivalência;\n\nb) Documento, emitido pelas entidades competentes da universidade estrangeira, onde constem as disciplinas em que o requerente obteve aprovação e que conduziram à obtenção do grau ou diploma a que se pede equivalência, bem como a duração dos estudos conducentes à obtenção do mesmo e a respectiva classificação final ou, se não conferida, as classificações parciais;\n\nc) 2 exemplares de cada dissertação considerada autonomamente no plano de estudos, caso existam.\n\n3 - O conselho científico poderá solicitar ao requerente os elementos adicionais que entenda necessários para a apreciação do pedido, nomeadamente condições de admissão, regulamentos e programas de estudos.\n\n4 - O requerimento será entregue no estabelecimento de ensino a que se refere o n.º 1."
+  },
+  "116104883": {
+   "fragment_id": "116104821",
+   "type": 11,
+   "heading": "Artigo 13.º — (Deliberação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Deliberação)\n\n1 - Completa a instrução do processo, a deliberação de concessão ou denegação da equivalência será proferida no prazo de 60 dias, ficando exarados em acta os seus fundamentos.\n\n2 - Ficará igualmente exarado em acta o resultado da votação, bem como as declarações que qualquer membro do conselho científico deseje registar.\n\n3 - Em caso de concessão da equivalência, o conselho científico poderá deliberar atribuir uma classificação na escala em uso nos estabelecimentos de ensino superior português, se entender que do processo constam elementos idóneos e suficientes para tal.\n\n4 - A concessão da equivalência poderá ser condicionada à aprovação em exames ad hoc ou outro tipo de provas a determinar pelo conselho científico.\n\n5 - Proferida a deliberação, o presidente do conselho científico promoverá a sua imediata remessa ao conselho directivo, que dela notificará o requerente nos 15 dias subsequentes.\n\n6 - Das deliberações do conselho científico não caberá recurso, excepto se fundado na preterição de formalidades legais.\n\n7 - O recurso a que se refere o número anterior será interposto para o reitor da universidade ou, se se tratar de conselho científico de estabelecimento de ensino superior não integrado em universidade, ou não universitário, para o Ministro da Educação."
+  },
+  "116104884": {
+   "fragment_id": "116104822",
+   "type": 1,
+   "heading": "Capítulo V — Reconhecimento de habilitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Reconhecimento de habilitações"
+  },
+  "116104885": {
+   "fragment_id": "116104823",
+   "type": 11,
+   "heading": "Artigo 14.º — (Âmbito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Âmbito)\n\n1 - É facultado o reconhecimento de habilitações estrangeiras de nível superior quando no sistema de ensino superior português, na mesma área, não seja conferido grau ou diploma de nível correspondente.\n\n2 - É igualmente facultado o reconhecimento quando a uma habilitação estrangeira de nível superior não haja sido conferida equivalência nos termos dos capítulos II, III ou IV, com fundamento na dissemelhança das estruturas curriculares, mas não com fundamento no nível do curso."
+  },
+  "116104886": {
+   "fragment_id": "116104824",
+   "type": 11,
+   "heading": "Artigo 15.º — (Efeitos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Efeitos)\n\n1 - O reconhecimento poderá ser recusado ou concedido.\n\n2 - Em caso de reconhecimento da habilitação, este traduzir-se-á, obrigatoriamente, pela indicação dos efeitos que deverá produzir através da menção:\n\na) Do nível a que corresponde na estrutura do sistema de ensino superior português (diploma de curso superior, bacharelato, licenciatura, mestrado, doutoramento, etc.);\n\nb) De eventuais restrições aos efeitos académicos e ou profissionais."
+  },
+  "116104887": {
+   "fragment_id": "116104825",
+   "type": 11,
+   "heading": "Artigo 16.º — (Instrução do pedido)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Instrução do pedido)\n\n1 - O reconhecimento será requerido ao reitor de universidade onde sejam conferidos graus ou diplomas na área ou em áreas afins daquela onde foi obtido o grau de diploma estrangeiro.\n\n2 - O requerimento deverá mencionar obrigatoriamente:\n\na) O grau ou diploma estrangeiro de que é requerido reconhecimento e o estabelecimento de ensino onde foi obtido;\n\nb) O nível a que é pedido o reconhecimento;\n\nc) Os objectivos para que é requerido o reconhecimento.\n\n3 - O requerimento será instruído com os documentos descritos para os processos regulados pelos capítulos II, III ou IV, consoante o nível a que é pedido o reconhecimento.\n\n4 - O requerimento e demais documentos serão entregues na reitoria da universidade."
+  },
+  "116104888": {
+   "fragment_id": "116104826",
+   "type": 11,
+   "heading": "Artigo 17.º — (Tramitação do processo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Tramitação do processo)\n\n1 - Aceite o pedido e completa a instrução do processo, o reitor procederá à nomeação de um júri para deliberação sobre o mesmo.\n\n2 - À composição e funcionamento do júri aplicar-se-ão, com as necessárias adaptações, as regras previstas nos capítulos II, III ou IV, consoante o nível a que é pedido o reconhecimento.\n\n3 - Das deliberações dos júris nomeados para o reconhecimento de habilitações não caberá recurso, excepto se fundado na preterição de formalidades legais.\n\n4 - O recurso a que se refere o número anterior será interposto para o reitor da universidade."
+  },
+  "116104889": {
+   "fragment_id": "116104827",
+   "type": 11,
+   "heading": "Artigo 18.º — (Regras gerais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Regras gerais)\n\nAos processos de reconhecimento de habilitações aplicam-se, com as necessárias adaptações, as regras previstas no capítulo VII do presente diploma."
+  },
+  "116104890": {
+   "fragment_id": "116104828",
+   "type": 1,
+   "heading": "Capítulo VI — Equivalência de disciplinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Equivalência de disciplinas"
+  },
+  "116104891": {
+   "fragment_id": "116104829",
+   "type": 11,
+   "heading": "Artigo 19.º — (Âmbito e competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Âmbito e competência)\n\n1 - Poderá ser declarada a equivalência de disciplinas de cursos superiores estrangeiros às correspondentes disciplinas de cursos superiores portugueses.\n\n2 - A concessão ou denegação das equivalências de disciplinas é da competência do conselho científico do estabelecimento de ensino onde sejam ministradas."
+  },
+  "116104892": {
+   "fragment_id": "116104830",
+   "type": 11,
+   "heading": "Artigo 20.º — (Documentos para a instrução do pedido)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Documentos para a instrução do pedido)\n\n1 - A equivalência será requerida ao presidente do conselho científico do estabelecimento de ensino, devendo o requerimento mencionar obrigatoriamente as disciplinas do curso superior estrangeiro de que é requerida a equivalência, o curso superior em que se integravam e o estabelecimento de ensino onde foram adquiridas.\n\n2 - O requerimento será instruído com documento do estabelecimento de ensino superior estrangeiro, emitido pelas entidades competentes, comprovativo da aprovação nas disciplinas de que requerer a equivalência e a respectiva classificação, se atribuída.\n\n3 - O conselho científico poderá solicitar ao requerente os elementos adicionais que entenda necessários para apreciação do pedido, nomeadamente documentos comprovativos das condições de admissão, regulamentos e programas de estudos e escolaridade.\n\n4 - O requerimento será entregue no estabelecimento de ensino a que se refere o n.º 2 do artigo 17.º"
+  },
+  "116104893": {
+   "fragment_id": "116104831",
+   "type": 11,
+   "heading": "Artigo 21.º — (Deliberação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Deliberação)\n\n1 - Aceite o pedido e completa a instrução do processo, o mesmo será objecto de deliberação nos 30 dias subsequentes.\n\n2 - Da deliberação denegatória cabe recurso, a interpor no prazo de 8 dias a contar da data em que o requerente dela haja sido notificado, para o reitor da universidade da qual faz parte o estabelecimento de ensino referido no n.º 1 do artigo 18.º\n\n3 - O recurso será decidido em definitivo nos 30 dias imediatos ao termo do prazo fixado no número anterior.\n\n4 - As decisões proferidas no âmbito do presente capítulo, não excluem a aplicabilidade das regras legais em vigor quanto à candidatura à matrícula e inscrição no ensino superior.\n\n5 - Das deliberações dos conselhos científicos de estabelecimentos de ensino superior não integrados em universidades ou não universitários cabe recurso para o Ministro da Educação, nos termos dos n.os 2 e 3 do presente artigo."
+  },
+  "116104894": {
+   "fragment_id": "116104832",
+   "type": 11,
+   "heading": "Artigo 22.º — (Equivalência final)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Equivalência final)\n\n1 - Se da deliberação a que se refere o n.º 1 do artigo 20.º resultar que o não requerente não carece de aprovação em disciplinas adicionais para a concessão de determinado grau ou diploma, cabe à universidade ou estabelecimento de ensino superior emitir a respectiva carta de curso ou diploma.\n\n2 - A carta de curso ou diploma a que se refere o número anterior será de modelo a fixar por portaria do Ministro da Educação, sob proposta da universidade ou estabelecimento de ensino superior, e resultará da adaptação do modelo em vigor para os graus e diplomas conferidos a alunos da universidade ou estabelecimento de ensino superior."
+  },
+  "116104895": {
+   "fragment_id": "116104833",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições gerais"
+  },
+  "116104896": {
+   "fragment_id": "116104834",
+   "type": 11,
+   "heading": "Artigo 23.º — (Requerimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Requerimento)\n\nEm cada requerimento formulado ao abrigo deste diploma apenas poderá constar um pedido de equivalência."
+  },
+  "116104897": {
+   "fragment_id": "116104835",
+   "type": 11,
+   "heading": "Artigo 24.º — (Impressos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Impressos)\n\nOs requerimentos a que se refere o presente diploma poderão ser substituídos por impressos normalizados de modelos a fixar por portaria do Ministro da Educação, nos quais serão inutilizadas estampilhas fiscais no valor do imposto do selo devido."
+  },
+  "116104898": {
+   "fragment_id": "116104836",
+   "type": 11,
+   "heading": "Artigo 25.º — (Falta de documentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Falta de documentos)\n\n1 - A falta de algum dos documentos exigidos para a instrução de um processo de equivalência obstará à sua apreciação.\n\n2 - No prazo de 30 dias, a entidade a quem é dirigido o requerimento notificará o requerente dos documentos em falta e fixará um prazo para a sua apresentação.\n\n3 - O prazo a que se refere a parte final do número anterior não pode ser inferior a 60 dias.\n\n4 - Se decorrido o prazo fixado nos termos dos números anteriores, o requerente não houver apresentado os documentos em falta, o pedido será liminarmente indeferido pela entidade a quem é dirigido o requerimento."
+  },
+  "116104899": {
+   "fragment_id": "116104837",
+   "type": 11,
+   "heading": "Artigo 26.º — (Reciprocidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Reciprocidade)\n\n1 - Cabe ao requerente provar a existência do tratamento recíproco a que se refere a alínea b) do n.º 2 do artigo 1.º\n\n2 - Quando solicitado pela universidade ou estabelecimento de ensino superior, compete ao director-geral do Ensino Superior pronunciar-se quanto à existência do tratamento recíproco a que se refere a alínea b) do n.º 2 do artigo 1.º"
+  },
+  "116104900": {
+   "fragment_id": "116104838",
+   "type": 11,
+   "heading": "Artigo 27.º — (Dupla equivalência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Dupla equivalência)\n\n1 - A uma mesma habilitação estrangeira de nível superior não poderá ser conferida mais de uma equivalência.\n\n2 - Exceptua-se do disposto no n.º 1 a revisão de equivalências concedidas ao abrigo da legislação anterior ao Decreto-Lei n.º 555/77, de 31 de Dezembro."
+  },
+  "116104901": {
+   "fragment_id": "116104839",
+   "type": 11,
+   "heading": "Artigo 28.º — (Sucessão de pedidos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Sucessão de pedidos)\n\nO indeferimento ou desistência em relação a um pedido de equivalência não prejudicam a apresentação, noutro estabelecimento ou no mesmo estabelecimento em relação a outro curso, de novo pedido referente à mesma habilitação estrangeira."
+  },
+  "116104902": {
+   "fragment_id": "116104840",
+   "type": 11,
+   "heading": "Artigo 29.º — (Dispensa de equivalência prévia à licenciatura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Dispensa de equivalência prévia à licenciatura)\n\n1 - Os não titulares de uma licenciatura pelas universidades portuguesas ou equivalente legal que tenham obtido, no estrangeiro, as habilitações académicas necessárias à admissão aos cursos e provas para a concessão do grau de que requerem equivalência ao grau de mestre ou de doutor são dispensados da obtenção da equivalência prévia ao grau de licenciado.\n\n2 - A dispensa a que se refere o presente artigo, bem como a eventual concessão da equivalência requerida não determinam, em circunstância alguma, o reconhecimento expresso ou tácito da equivalência ao grau de licenciado ou qualquer outro."
+  },
+  "116104903": {
+   "fragment_id": "116104841",
+   "type": 11,
+   "heading": "Artigo 30.º — (Dissertação e outros trabalhos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Dissertação e outros trabalhos)\n\n1 - Os trabalhos e dissertação a que se refere a alínea c) do n.º 2 do artigo 4.º, a alínea c) do n.º 2 do artigo 8.º e a alínea c) do n.º 2 do artigo 12.º deverão ter aposta, pelas autoridades competentes da universidade ou estabelecimento de ensino superior estrangeiro, menção de se tratar dos trabalhos e ou dissertações apresentadas e aceites para a concessão do grau ou diploma de que é requerida a equivalência.\n\n2 - Em caso de denegação da equivalência, um dos exemplares dos trabalhos e dissertações a que se refere o número anterior poderá ser devolvido ao requerente, a seu pedido, ficando o outro exemplar arquivado no processo.\n\n3 - Em caso de equivalência, um exemplar dos trabalhos e ou dissertações a que se referem a alínea o do n.º 2 do artigo 7.º e a alínea c) do n.º 2 do artigo 8.º será entregue pelo júri à biblioteca do estabelecimento de ensino superior pelo qual foi concedida a equivalência, ficando o outro exemplar arquivado no processo respectivo."
+  },
+  "116104904": {
+   "fragment_id": "116104842",
+   "type": 11,
+   "heading": "Artigo 31.º — (Traduções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Traduções)\n\n1 - Para a instrução dos processos a que se refere o presente diploma poderá ser exigida, em casos justificados, a tradução de documentos e trabalhos cujo original esteja escrito em língua estrangeira.\n\n2 - A apresentação da tradução de um documento ou trabalho não dispensa a apresentação do original."
+  },
+  "116104905": {
+   "fragment_id": "116104843",
+   "type": 11,
+   "heading": "Artigo 32.º — (Desistência do pedido)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Desistência do pedido)\n\n1 - Até à deliberação final da entidade competente poderão os interessados desistir do pedido de equivalência.\n\n2 - A desistência será requerida à entidade a quem foi requerida a equivalência, a qual, se ainda não tiver sido proferida decisão final, decidirá do seu deferimento ou indeferimento."
+  },
+  "116104906": {
+   "fragment_id": "116104844",
+   "type": 11,
+   "heading": "Artigo 33.º — (Nulidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Nulidade)\n\nSerão nulas e de nenhum efeito as deliberações tomadas em contravenção ao disposto no presente diploma."
+  },
+  "116104907": {
+   "fragment_id": "116104845",
+   "type": 11,
+   "heading": "Artigo 34.º — (Termos e certificados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (Termos e certificados)\n\n1 - De cada equivalência a entidade que a confere lavrará termo, em livro próprio, de modelo a fixar por portaria do Ministro da Educação.\n\n2 - Cabe à universidade ou estabelecimento de ensino superior emitir os certificados das deliberações proferidas nos termos do presente diploma, o que poderá ser feito por fotocópia nos termos referidos, no n.º 1."
+  },
+  "116104908": {
+   "fragment_id": "116104846",
+   "type": 11,
+   "heading": "Artigo 35.º — (Controlo e estatística)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Controlo e estatística)\n\nAté ao dia 15 de cada mês cada universidade ou estabelecimento de ensino superior remeterá à Direcção-Geral do Ensino Superior os seguintes documentos referentes às equivalências reguladas pelos capítulos II, III e IV, e à apreciação regulada pelo capítulo VI:\n\na) Cópia dos requerimentos apresentados no mês anterior;\n\nb) Cópia dos termos (n.º 1 do artigo 34.º) lavrados no mês anterior, tendo apensas cópias das actas das deliberações."
+  },
+  "116104909": {
+   "fragment_id": "116104847",
+   "type": 11,
+   "heading": "Artigo 36.º — (Direcção-Geral do Ensino Superior)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Direcção-Geral do Ensino Superior)\n\n1 - Cabe à Direcção-Geral do Ensino Superior:\n\na) A fixação dos procedimentos administrativos indispensáveis à uniforme execução do presente diploma;\n\nb) A realização e publicação de estudos acerca do sistema nacional de equivalência de habilitações superiores;\n\nc) A representação internacional em matéria de equivalência de habilitações superiores.\n\n2 - Tendo em vista a prossecução dos objectivos descritos no n.º 1, as universidades e demais estabelecimentos de ensino superior prestarão à Direcção-Geral do Ensino Superior toda a colaboração que se revelar necessária."
+  },
+  "116104910": {
+   "fragment_id": "116104848",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "116104911": {
+   "fragment_id": "116104849",
+   "type": 11,
+   "heading": "Artigo 37.º — (Disposição revogatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Disposição revogatória)\n\nÉ revogado o Decreto-Lei n.º 555/77, de 31 de Dezembro."
+  },
+  "116104912": {
+   "fragment_id": "116104850",
+   "type": 11,
+   "heading": "Artigo 38.º — (Disposições transitórias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Disposições transitórias)\n\n1 - Os pedidos formulados ao abrigo do Decreto-Lei n.º 555/77 e admitidos nos termos deste prosseguirão nos seus termos, salvo se os requerentes solicitarem a sua anulação.\n\n2 - Os pedidos formulados ao abrigo do Decreto-Lei n.º 555/77 que não se encontrem completamente instruídos ou que não sejam admissíveis face às suas disposições não terão prosseguimento, sendo a respectiva documentação devolvida aos requerentes."
+  },
+  "116101766": {
+   "fragment_id": "116104804",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 283/83\n\nde 21 de Junho\n\nAs disposições do Decreto-Lei n.º 555/77, de 31 de Dezembro, encontram-se hoje desajustadas da realidade universitária e da concepção que se defende quanto à simplificação dos processos burocráticos, pelo que importa proceder à sua revisão, aprovando-se novo diploma que regule as equivalências de habilitações estrangeiras de nível superior às correspondentes habilitações portuguesas.\n\nPelo presente diploma transfere-se para as universidades e demais estabelecimentos de ensino superior a totalidade das competências nessa matéria, dando-se, assim, mais um importante contributo para o incremento da autonomia universitária.\n\nInstitui-se, a nível central, um sistema de recolha de informação que permita a divulgação de dados estatísticos e a realização de estudos de carácter geral que permitam conhecer a aplicação que é dada às normas contidas no presente diploma e que proporcionem a base de trabalho para uma adequada representação internacional nesta área.\n\nVisou-se, ainda, o aperfeiçoamento das disposições de carácter processual em ordem a uma desburocratização do processo de concessão de equivalência, sem quebra de dignidade ou rigor, preenchendo-se diversas lacunas que vinham dificultando a tramitação de alguns pedidos.\n\nComo aspectos inovatórios realça-se, entre outras, a regulamentação das equivalências ao grau de mestre, entretanto criado pelo Decreto-Lei n.º 263/80, de 7 de Agosto, e o alargamento do âmbito da apreciação de relevância, procedendo-se à sua definição e caracterizando-se os seus efeitos.\n\nO presente diploma teve, ainda, em atenção a experiência colhida ao longo de 5 anos de vigência do Decreto-Lei n.º 555/77, de 31 de Dezembro, pelo que o texto agora aprovado consagra diversas disposições que visam corrigir as anomalias detectadas.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "116104917": {
+   "fragment_id": "116104838",
+   "type": 11,
+   "heading": "Artigo 27.º — (Dupla equivalência)",
+   "in_force_from": "2007-10-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 341/2007 - Diário da República n.º 197/2007, Série I de 2007-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), em vigor a partir de 2007-10-17"
+   ],
+   "markdown": "###### Artigo 27.º — (Dupla equivalência)\n\n1 - A uma mesma habilitação estrangeira de nível superior não poderá ser conferida mais de uma equivalência.\n\n2 - Exceptua-se do disposto no número anterior:\n\na) A revisão de equivalências concedidas ao abrigo da legislação anterior ao Decreto-Lei n.º 555/77, de 31 de Dezembro;\n\nb) A revisão, a pedido do interessado, de equivalências ou reconhecimentos concedidos, quando tenha ocorrido modificação superveniente dos graus conferidos na área em causa.\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 341/2007 - Diário da República n.º 197/2007, Série I de 2007-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), em vigor a partir de 2007-10-17"
+  },
+  "116104914": {
+   "fragment_id": "116104852",
+   "type": 11,
+   "heading": "Artigo 34.º-A — Emolumentos",
+   "in_force_from": "2007-10-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 341/2007 - Diário da República n.º 197/2007, Série I de 2007-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), em vigor a partir de 2007-10-17"
+   ],
+   "markdown": "###### Artigo 34.º-A — Emolumentos\n\n1 - Pela concessão de equivalências ou reconhecimentos são devidos emolumentos, os quais constituem receita própria da entidade que procede à mesma.\n\n2 - O valor dos emolumentos, incluindo os devidos pela certificação, não pode exceder o do custo do serviço nem ultrapassar um montante máximo a fixar por portaria do Ministro da Ciência, Tecnologia e Ensino Superior.\n\n> Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 341/2007 - Diário da República n.º 197/2007, Série I de 2007-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), em vigor a partir de 2007-10-17"
+  },
+  "116104915": {
+   "fragment_id": "116104846",
+   "type": 11,
+   "heading": "Artigo 35.º — (Controlo e estatística)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Controlo e estatística)\n\nAté ao dia 15 de cada mês cada universidade ou estabelecimento de ensino superior remeterá à Direcção-Geral do Ensino Superior os seguintes documentos referentes às equivalências reguladas pelos capítulos II, III e IV, e à apreciação regulada pelo capítulo VI:\n\na) Cópia dos requerimentos apresentados no mês anterior;\n\nb) Cópia dos termos (n.º 1 do artigo 34.º) lavrados no mês anterior, tendo apensas cópias das actas das deliberações."
+  },
+  "116104916": {
+   "fragment_id": "116104847",
+   "type": 11,
+   "heading": "Artigo 36.º — (Direcção-Geral do Ensino Superior)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Direcção-Geral do Ensino Superior)\n\n1 - Cabe à Direcção-Geral do Ensino Superior:\n\na) A fixação dos procedimentos administrativos indispensáveis à uniforme execução do presente diploma;\n\nb) A realização e publicação de estudos acerca do sistema nacional de equivalência de habilitações superiores;\n\nc) A representação internacional em matéria de equivalência de habilitações superiores.\n\n2 - Tendo em vista a prossecução dos objectivos descritos no n.º 1, as universidades e demais estabelecimentos de ensino superior prestarão à Direcção-Geral do Ensino Superior toda a colaboração que se revelar necessária."
+  },
+  "116104913": {
+   "fragment_id": "116104851",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva.\n\nPromulgado em 17 de Maio de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 26 de Maio de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "116104919": {
+   "fragment_id": "116104805",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito e efeitos",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "### Capítulo I — Âmbito e efeitos\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104920": {
+   "fragment_id": "116104806",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — (Âmbito)\n\n1 - O presente diploma regula as equivalências de habilitações estrangeiras de nível superior às correspondentes habilitações portuguesas.\n\n2 - Podem requerer equivalência nos termos do presente diploma:\n\na) Os cidadãos portugueses;\n\nb) Os cidadãos estrangeiros nacionais de países:\n\nI) Com os quais hajam sido firmados acordos específicos em matéria de equivalência que produzam os efeitos previstos no presente diploma:\n\nII) Ou, na ausência destes, cuja legislação confira aos cidadãos portugueses, no quadro do princípio de reciprocidade, os direitos previstos no presente diploma.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104921": {
+   "fragment_id": "116104807",
+   "type": 11,
+   "heading": "Artigo 2.º — (Efeitos)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — (Efeitos)\n\n1 - As equivalências concedidas ao abrigo deste diploma têm o valor e produzem os efeitos correspondentes aos da titularidade dos graus ou diploma a que foram concedidas.\n\n2 - A concessão de equivalência não dispensa o titular da mesma de, para os efeitos profissionais, cumprir todas as outras condições que para o exercício da profissão respectiva sejam exigidas pelas autoridades governamentais ou profissionais competentes.\n\n3 - A equivalência de um curso estrangeiro de nível superior com prática ou estágio pedagógico inserido no seu currículo a um curso superior português cuja titularidade confira habilitação profissional para o exercício da docência nos ensinos básico ou secundário (Decreto-Lei n.º 302/74, de 5 de Julho, Decreto-Lei n.º 210/78, de 27 de Julho, Decreto-Lei n.º 423/78, de 22 de Dezembro) só pode ser conferida após a realização do estágio pedagógico previsto no plano de estudos do curso português nas condições que forem regulamentadas por portaria do Ministro da Educação.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104922": {
+   "fragment_id": "116104808",
+   "type": 1,
+   "heading": "Capítulo II — Equivalência ao grau de doutor",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "### Capítulo II — Equivalência ao grau de doutor\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104923": {
+   "fragment_id": "116104809",
+   "type": 11,
+   "heading": "Artigo 3.º — (Âmbito e competência)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — (Âmbito e competência)\n\n1 - Poderão ser declarados equivalentes ao grau de doutor pelas universidades portuguesas, regulado pelo Decreto-Lei n.º 388/70, de 18 de Agosto, os graus de idêntica natureza obtidos em universidades estrangeiras.\n\n2 - A equivalência reportar-se-á a determinado ramo de conhecimento e especialidade e será conferida por universidades a que pertença a escola ou a unidade de ensino através da qual seja conferido o grau de doutor naquele ramo e especialidade, nos termos dos artigos 1.º e 2.º do Decreto-Lei n.º 388/70.\n\n2 - À concessão de equivalências ao grau de doutor aplica-se o disposto no artigo 1.º do Decreto-Lei n.º 93/77, de 12 de Março.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104924": {
+   "fragment_id": "116104810",
+   "type": 11,
+   "heading": "Artigo 4.º — (Instrução do pedido)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — (Instrução do pedido)\n\n1 - A equivalência será requerida ao reitor da universidade, devendo o requerimento mencionar obrigatoriamente:\n\na) O grau estrangeiro de que é requerida equivalência e o estabelecimento de ensino onde foi obtido;\n\nb) O ramo do conhecimento e especialidade em que é pretendida.\n\n2 - O requerimento será instruído com os seguintes documentos:\n\na) Diploma comprovativo da titularidade do grau de licenciado pelas universidades portuguesas, ou de equivalência legal a este grau, sem prejuízo do disposto no artigo 29.º;\n\nb) Diploma comprovativo da titularidade do grau de que é requerida a equivalência;\n\nc) Documento emitido pelas entidades competentes da universidade estrangeira onde constem as disciplinas em que obteve aprovação em curso que eventualmente constituía parte integrante das condições para obtenção do grau de que requer equivalência;\n\nd) 2 exemplares da dissertação e de outros trabalhos que tenham sido apresentados para concessão do grau de que é requerida a equivalência;\n\ne) 2 exemplares do curriculum vitae até à obtenção do grau de que é requerida a equivalência.\n\n3 - O requerimento e demais documentos serão entregues na reitoria da universidade.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104925": {
+   "fragment_id": "116104811",
+   "type": 11,
+   "heading": "Artigo 5.º — (Tramitação do processo)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — (Tramitação do processo)\n\n1 - Aceite o pedido e completada a instrução do processo, a reitoria enviá-lo-á, nos 15 dias seguintes, ao conselho científico da escola ou unidade de ensino a que se refere o n.º 2 do artigo 3.º\n\n2 - O conselho científico formulará e remeterá à reitoria da universidade a proposta do júri.\n\n3 - O júri será constituído:\n\na) Pelo reitor da universidade, que presidirá;\n\nb) Por 3 a 5 vogais, professores de disciplinas da área científica onde se insere a especialidade em que é requerida a equivalência, um dos quais, pelo menos, deverá ser de outra universidade.\n\n4 - O reitor poderá fazer-se substituir por um dos vice-reitores ou pelo presidente do conselho científico da escola ou unidade de ensino referida no n.º 1.\n\n5 - A deliberação a que se refere o n.º 2 do presente artigo deve ser tomada e comunicada à reitoria no prazo de 30 dias contados a partir da recepção do processo.\n\n6 - O júri será nomeado por despacho do reitor, a publicar na 2.ª série do Diário da República até ao 30.º dia após a recepção da proposta formulada nos termos legais.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104926": {
+   "fragment_id": "116104812",
+   "type": 11,
+   "heading": "Artigo 6.º — (Deliberação)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — (Deliberação)\n\n1 - A concessão ou denegação da equivalência será decidida pelo júri, o qual se pronunciará no prazo de 60 dias a contar da publicação da respectiva nomeação, exarando em acta os fundamentos da deliberação.\n\n2 - A deliberação deverá tomar em consideração exclusivamente o mérito científico do candidato, avaliado através das provas realizadas para a concessão do grau, de acordo com os critérios utilizados para a concessão do grau de doutor pelas universidades portuguesas.\n\n3 - Serão nulas e de nenhum efeito as deliberações tomadas em reuniões em que não esteja presente a maioria dos vogais nomeados.\n\n4 - A deliberação será tomada por maioria absoluta dos membros presentes, ficando exarados na acta os votos emitidos por cada um dos membros do júri, bem como as declarações que qualquer deles deseje registar.\n\n5 - O presidente apenas votará em caso de empate, salvo se ele próprio for professor de disciplinas a que se refere a alínea b) do n.º 5 do artigo anterior.\n\n6 - No caso de se verificar empate na situação prevista na parte final do n.º 5, o presidente tem voto de qualidade.\n\n7 - Em caso de concessão de equivalência, o júri poderá deliberar atribuir uma classificação nos termos do disposto no n.º 4 do artigo 13.º do Decreto-Lei n.º 388/70, se entender que do processo constam elementos idóneos e suficientes para tal.\n\n8 - Proferida a deliberação, a reitoria notificará o requerente nos 15 dias subsequentes.\n\n9 - Das deliberações do júri não caberá recurso, excepto se fundado na preterição de formalidades legais.\n\n10 - O recurso a que se refere o número anterior será interposto perante o reitor da universidade.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104927": {
+   "fragment_id": "116104813",
+   "type": 1,
+   "heading": "Capítulo III — Equivalência ao grau de mestre",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "### Capítulo III — Equivalência ao grau de mestre\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104928": {
+   "fragment_id": "116104814",
+   "type": 11,
+   "heading": "Artigo 7.º — (Âmbito e competência)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — (Âmbito e competência)\n\n1 - Poderão ser declarados equivalentes ao grau de mestre pelas universidades portuguesas, criado e regulado pelo Decreto-Lei n.º 263/80, de 7 de Agosto, os graus de idêntica natureza obtidos em universidades estrangeiras.\n\n2 - A equivalência reportar-se-á a determinada especialidade e será conferida por universidade a que pertença a escola ou a unidade de ensino através da qual seja conferido o grau de mestre naquela especialidade.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104929": {
+   "fragment_id": "116104815",
+   "type": 11,
+   "heading": "Artigo 8.º — (Instrução do pedido)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — (Instrução do pedido)\n\n1 - A equivalência será requerida ao reitor da universidade, devendo o requerimento mencionar obrigatoriamente:\n\na) O grau estrangeiro de que é requerida a equivalência e o estabelecimento de ensino onde foi obtido;\n\nb) A especialidade em que é pretendida.\n\n2 - O requerimento será instruído com os seguintes documentos:\n\na) Diploma comprovativo da titularidade do grau de licenciado pelas universidades portuguesas, ou de equivalente legal a este grau, sem prejuízo do disposto no artigo 29.º;\n\nb) Diploma comprovativo da titularidade do grau de que é requerida a equivalência;\n\nc) Documento, emitido pelas entidades competentes da universidade estrangeira, onde constem as disciplinas em que obteve aprovação em curso que constitua parte integrante das condições para obtenção do grau de que requer equivalência;\n\nd) 2 exemplares da dissertação de outros trabalhos que tenham sido apresentados para a concessão do grau de que é requerida a equivalência;\n\ne) Regulamento fixando as condições de admissão e concessão do grau estrangeiro de que é requerida equivalência, quando da obtenção do mesmo.\n\n3 - O requerimento e demais documentos serão entregues na reitoria da universidade.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104930": {
+   "fragment_id": "116104816",
+   "type": 11,
+   "heading": "Artigo 9.º — (Tramitação do processo)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — (Tramitação do processo)\n\n1 - Aceite o pedido e completa a instrução do processo, a reitoria enviá-lo-á, nos 15 dias seguintes, ao conselho científico da escola ou unidade de ensino a que se refere o n.º 2 do artigo 7.º\n\n2 - O conselho científico formulará e remeterá à reitoria da universidade a proposta do júri.\n\n3 - O júri será constituído por três professores da área científica onde se insere a especialidade em que é requerida a equivalência, devendo um deles ser estranho à universidade pela qual é requerida.\n\n4 - O júri será presidido pelo seu membro mais antigo da categoria mais elevada da universidade pela qual é requerida a equivalência.\n\n5 - A deliberação a que se refere o n.º 2 do presente artigo deve ser tomada e comunicada à reitoria no prazo de 30 dias a partir da data da recepção do processo.\n\n6 - O júri será nomeado por despacho do reitor, a publicar na 2.ª série do Diário da República até ao 30.º dia após a recepção da proposta formulada nos termos legais.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104931": {
+   "fragment_id": "116104817",
+   "type": 11,
+   "heading": "Artigo 10.º — (Deliberação)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — (Deliberação)\n\n1 - A concessão ou denegação da equivalência será decidida pelo júri, o qual se pronunciará no prazo de 60 dias a contar da publicação da respectiva nomeação, exarando em acta os fundamentos da deliberação.\n\n2 - A deliberação deverá tomar em consideração exclusivamente o mérito científico do candidato avaliado através das provas realizadas para a concessão do grau, de acordo com os critérios utilizados para a concessão do grau de mestre pelas universidades portuguesas.\n\n3 - Serão nulas e de nenhum efeito as deliberações tomadas em reuniões em que não esteja presente a maioria dos membros do júri.\n\n4 - A deliberação será tomada por maioria absoluta dos membros presentes, ficando exarados em acta os votos emitidos por cada um dos membros do júri, bem como as declarações que qualquer deles deseje registar.\n\n5 - No caso de se verificar empate, o presidente tem voto de qualidade.\n\n6 - Em caso de concessão de equivalência, o júri poderá deliberar atribuir uma classificação nos termos do disposto no n.º 1 do Decreto-Lei n.º 263/80, se entender que do processo constam elementos idóneos e suficientes para tal.\n\n7 - Proferida a deliberação, a reitoria notificará o requerente nos 15 dias subsequentes.\n\n8 - Das deliberações do júri não caberá recurso, excepto se fundado na preterição de formalidades legais.\n\n9 - O recurso a que se refere o número anterior será interposto perante o reitor da universidade.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104932": {
+   "fragment_id": "116104818",
+   "type": 1,
+   "heading": "Capítulo IV",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "### Capítulo IV\n\nEquivalência aos graus de licenciado e bacharel e a cursos de ensino superior não conferentes de grau\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104933": {
+   "fragment_id": "116104819",
+   "type": 11,
+   "heading": "Artigo 11.º — (Âmbito e competência)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — (Âmbito e competência)\n\n1 - Poderão ser declarados equivalentes às licenciaturas e bacharelatos, bem como a outros cursos de ensino superior não conferentes de grau conferidos e ministrados em estabelecimentos de ensino superior português, os graus e diplomas de idêntica natureza obtidos em estabelecimentos de ensino superior estrangeiros.\n\n2 - A equivalência reportar-se-á a determinado grau ou diploma do ensino superior português e a sua atribuição é da competência do conselho científico da escola ou unidade de ensino que ministre o ensino conducente à atribuição do referido grau ou diploma.\n\n3 - A deliberação a que se refere o número anterior será proferida sob parecer de um ou mais professores da especialidade ou especialidades em que se insira o grau ou diploma em causa, designados para tal pelo conselho científico, de entre os seus membros.\n\n4 - Cabe ao conselho científico de cada estabelecimento fixar as regras que entender mais adequadas ao desempenho da competência a que se refere este artigo.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104934": {
+   "fragment_id": "116104820",
+   "type": 11,
+   "heading": "Artigo 12.º — (Documentos para a instrução do pedido)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — (Documentos para a instrução do pedido)\n\n1 - A equivalência será requerida ao presidente do conselho científico da escola ou unidade de ensino a que se refere o n.º 2 do artigo 11.º, devendo o requerimento mencionar obrigatoriamente:\n\na) O grau ou diploma estrangeiro de que é requerida a equivalência e o estabelecimento de ensino onde foi obtido;\n\nb) O grau ou diploma português de que é requerida a equivalência.\n\n2 - O requerimento será instruído com os seguintes documentos:\n\na) Diploma comprovativo da titularidade do grau ou diploma estrangeiro de que é requerida a equivalência;\n\nb) Documento, emitido pelas entidades competentes da universidade estrangeira, onde constem as disciplinas em que o requerente obteve aprovação e que conduziram à obtenção do grau ou diploma a que se pede equivalência, bem como a duração dos estudos conducentes à obtenção do mesmo e a respectiva classificação final ou, se não conferida, as classificações parciais;\n\nc) 2 exemplares de cada dissertação considerada autonomamente no plano de estudos, caso existam.\n\n3 - O conselho científico poderá solicitar ao requerente os elementos adicionais que entenda necessários para a apreciação do pedido, nomeadamente condições de admissão, regulamentos e programas de estudos.\n\n4 - O requerimento será entregue no estabelecimento de ensino a que se refere o n.º 1.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104935": {
+   "fragment_id": "116104821",
+   "type": 11,
+   "heading": "Artigo 13.º — (Deliberação)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — (Deliberação)\n\n1 - Completa a instrução do processo, a deliberação de concessão ou denegação da equivalência será proferida no prazo de 60 dias, ficando exarados em acta os seus fundamentos.\n\n2 - Ficará igualmente exarado em acta o resultado da votação, bem como as declarações que qualquer membro do conselho científico deseje registar.\n\n3 - Em caso de concessão da equivalência, o conselho científico poderá deliberar atribuir uma classificação na escala em uso nos estabelecimentos de ensino superior português, se entender que do processo constam elementos idóneos e suficientes para tal.\n\n4 - A concessão da equivalência poderá ser condicionada à aprovação em exames ad hoc ou outro tipo de provas a determinar pelo conselho científico.\n\n5 - Proferida a deliberação, o presidente do conselho científico promoverá a sua imediata remessa ao conselho directivo, que dela notificará o requerente nos 15 dias subsequentes.\n\n6 - Das deliberações do conselho científico não caberá recurso, excepto se fundado na preterição de formalidades legais.\n\n7 - O recurso a que se refere o número anterior será interposto para o reitor da universidade ou, se se tratar de conselho científico de estabelecimento de ensino superior não integrado em universidade, ou não universitário, para o Ministro da Educação.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104936": {
+   "fragment_id": "116104822",
+   "type": 1,
+   "heading": "Capítulo V — Reconhecimento de habilitações",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "### Capítulo V — Reconhecimento de habilitações\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104937": {
+   "fragment_id": "116104823",
+   "type": 11,
+   "heading": "Artigo 14.º — (Âmbito)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — (Âmbito)\n\n1 - É facultado o reconhecimento de habilitações estrangeiras de nível superior quando no sistema de ensino superior português, na mesma área, não seja conferido grau ou diploma de nível correspondente.\n\n2 - É igualmente facultado o reconhecimento quando a uma habilitação estrangeira de nível superior não haja sido conferida equivalência nos termos dos capítulos II, III ou IV, com fundamento na dissemelhança das estruturas curriculares, mas não com fundamento no nível do curso.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104938": {
+   "fragment_id": "116104824",
+   "type": 11,
+   "heading": "Artigo 15.º — (Efeitos)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — (Efeitos)\n\n1 - O reconhecimento poderá ser recusado ou concedido.\n\n2 - Em caso de reconhecimento da habilitação, este traduzir-se-á, obrigatoriamente, pela indicação dos efeitos que deverá produzir através da menção:\n\na) Do nível a que corresponde na estrutura do sistema de ensino superior português (diploma de curso superior, bacharelato, licenciatura, mestrado, doutoramento, etc.);\n\nb) De eventuais restrições aos efeitos académicos e ou profissionais.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104939": {
+   "fragment_id": "116104825",
+   "type": 11,
+   "heading": "Artigo 16.º — (Instrução do pedido)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — (Instrução do pedido)\n\n1 - O reconhecimento será requerido ao reitor de universidade onde sejam conferidos graus ou diplomas na área ou em áreas afins daquela onde foi obtido o grau de diploma estrangeiro.\n\n2 - O requerimento deverá mencionar obrigatoriamente:\n\na) O grau ou diploma estrangeiro de que é requerido reconhecimento e o estabelecimento de ensino onde foi obtido;\n\nb) O nível a que é pedido o reconhecimento;\n\nc) Os objectivos para que é requerido o reconhecimento.\n\n3 - O requerimento será instruído com os documentos descritos para os processos regulados pelos capítulos II, III ou IV, consoante o nível a que é pedido o reconhecimento.\n\n4 - O requerimento e demais documentos serão entregues na reitoria da universidade.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104940": {
+   "fragment_id": "116104826",
+   "type": 11,
+   "heading": "Artigo 17.º — (Tramitação do processo)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — (Tramitação do processo)\n\n1 - Aceite o pedido e completa a instrução do processo, o reitor procederá à nomeação de um júri para deliberação sobre o mesmo.\n\n2 - À composição e funcionamento do júri aplicar-se-ão, com as necessárias adaptações, as regras previstas nos capítulos II, III ou IV, consoante o nível a que é pedido o reconhecimento.\n\n3 - Das deliberações dos júris nomeados para o reconhecimento de habilitações não caberá recurso, excepto se fundado na preterição de formalidades legais.\n\n4 - O recurso a que se refere o número anterior será interposto para o reitor da universidade.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104941": {
+   "fragment_id": "116104827",
+   "type": 11,
+   "heading": "Artigo 18.º — (Regras gerais)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — (Regras gerais)\n\nAos processos de reconhecimento de habilitações aplicam-se, com as necessárias adaptações, as regras previstas no capítulo VII do presente diploma.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104942": {
+   "fragment_id": "116104828",
+   "type": 1,
+   "heading": "Capítulo VI — Equivalência de disciplinas",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "### Capítulo VI — Equivalência de disciplinas\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104943": {
+   "fragment_id": "116104829",
+   "type": 11,
+   "heading": "Artigo 19.º — (Âmbito e competência)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — (Âmbito e competência)\n\n1 - Poderá ser declarada a equivalência de disciplinas de cursos superiores estrangeiros às correspondentes disciplinas de cursos superiores portugueses.\n\n2 - A concessão ou denegação das equivalências de disciplinas é da competência do conselho científico do estabelecimento de ensino onde sejam ministradas.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104944": {
+   "fragment_id": "116104830",
+   "type": 11,
+   "heading": "Artigo 20.º — (Documentos para a instrução do pedido)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — (Documentos para a instrução do pedido)\n\n1 - A equivalência será requerida ao presidente do conselho científico do estabelecimento de ensino, devendo o requerimento mencionar obrigatoriamente as disciplinas do curso superior estrangeiro de que é requerida a equivalência, o curso superior em que se integravam e o estabelecimento de ensino onde foram adquiridas.\n\n2 - O requerimento será instruído com documento do estabelecimento de ensino superior estrangeiro, emitido pelas entidades competentes, comprovativo da aprovação nas disciplinas de que requerer a equivalência e a respectiva classificação, se atribuída.\n\n3 - O conselho científico poderá solicitar ao requerente os elementos adicionais que entenda necessários para apreciação do pedido, nomeadamente documentos comprovativos das condições de admissão, regulamentos e programas de estudos e escolaridade.\n\n4 - O requerimento será entregue no estabelecimento de ensino a que se refere o n.º 2 do artigo 17.º\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104945": {
+   "fragment_id": "116104831",
+   "type": 11,
+   "heading": "Artigo 21.º — (Deliberação)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — (Deliberação)\n\n1 - Aceite o pedido e completa a instrução do processo, o mesmo será objecto de deliberação nos 30 dias subsequentes.\n\n2 - Da deliberação denegatória cabe recurso, a interpor no prazo de 8 dias a contar da data em que o requerente dela haja sido notificado, para o reitor da universidade da qual faz parte o estabelecimento de ensino referido no n.º 1 do artigo 18.º\n\n3 - O recurso será decidido em definitivo nos 30 dias imediatos ao termo do prazo fixado no número anterior.\n\n4 - As decisões proferidas no âmbito do presente capítulo, não excluem a aplicabilidade das regras legais em vigor quanto à candidatura à matrícula e inscrição no ensino superior.\n\n5 - Das deliberações dos conselhos científicos de estabelecimentos de ensino superior não integrados em universidades ou não universitários cabe recurso para o Ministro da Educação, nos termos dos n.os 2 e 3 do presente artigo.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104946": {
+   "fragment_id": "116104832",
+   "type": 11,
+   "heading": "Artigo 22.º — (Equivalência final)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — (Equivalência final)\n\n1 - Se da deliberação a que se refere o n.º 1 do artigo 20.º resultar que o não requerente não carece de aprovação em disciplinas adicionais para a concessão de determinado grau ou diploma, cabe à universidade ou estabelecimento de ensino superior emitir a respectiva carta de curso ou diploma.\n\n2 - A carta de curso ou diploma a que se refere o número anterior será de modelo a fixar por portaria do Ministro da Educação, sob proposta da universidade ou estabelecimento de ensino superior, e resultará da adaptação do modelo em vigor para os graus e diplomas conferidos a alunos da universidade ou estabelecimento de ensino superior.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104947": {
+   "fragment_id": "116104833",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições gerais",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "### Capítulo VII — Disposições gerais\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104948": {
+   "fragment_id": "116104834",
+   "type": 11,
+   "heading": "Artigo 23.º — (Requerimento)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — (Requerimento)\n\nEm cada requerimento formulado ao abrigo deste diploma apenas poderá constar um pedido de equivalência.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104949": {
+   "fragment_id": "116104835",
+   "type": 11,
+   "heading": "Artigo 24.º — (Impressos)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — (Impressos)\n\nOs requerimentos a que se refere o presente diploma poderão ser substituídos por impressos normalizados de modelos a fixar por portaria do Ministro da Educação, nos quais serão inutilizadas estampilhas fiscais no valor do imposto do selo devido.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104950": {
+   "fragment_id": "116104836",
+   "type": 11,
+   "heading": "Artigo 25.º — (Falta de documentos)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — (Falta de documentos)\n\n1 - A falta de algum dos documentos exigidos para a instrução de um processo de equivalência obstará à sua apreciação.\n\n2 - No prazo de 30 dias, a entidade a quem é dirigido o requerimento notificará o requerente dos documentos em falta e fixará um prazo para a sua apresentação.\n\n3 - O prazo a que se refere a parte final do número anterior não pode ser inferior a 60 dias.\n\n4 - Se decorrido o prazo fixado nos termos dos números anteriores, o requerente não houver apresentado os documentos em falta, o pedido será liminarmente indeferido pela entidade a quem é dirigido o requerimento.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104951": {
+   "fragment_id": "116104837",
+   "type": 11,
+   "heading": "Artigo 26.º — (Reciprocidade)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — (Reciprocidade)\n\n1 - Cabe ao requerente provar a existência do tratamento recíproco a que se refere a alínea b) do n.º 2 do artigo 1.º\n\n2 - Quando solicitado pela universidade ou estabelecimento de ensino superior, compete ao director-geral do Ensino Superior pronunciar-se quanto à existência do tratamento recíproco a que se refere a alínea b) do n.º 2 do artigo 1.º\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104952": {
+   "fragment_id": "116104838",
+   "type": 11,
+   "heading": "Artigo 27.º — (Dupla equivalência)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 341/2007 - Diário da República n.º 197/2007, Série I de 2007-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), em vigor a partir de 2007-10-17"
+   ],
+   "markdown": "###### Artigo 27.º — (Dupla equivalência)\n\n1 - A uma mesma habilitação estrangeira de nível superior não poderá ser conferida mais de uma equivalência.\n\n2 - Exceptua-se do disposto no número anterior:\n\na) A revisão de equivalências concedidas ao abrigo da legislação anterior ao Decreto-Lei n.º 555/77, de 31 de Dezembro;\n\nb) A revisão, a pedido do interessado, de equivalências ou reconhecimentos concedidos, quando tenha ocorrido modificação superveniente dos graus conferidos na área em causa.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 341/2007 - Diário da República n.º 197/2007, Série I de 2007-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), em vigor a partir de 2007-10-17"
+  },
+  "116104953": {
+   "fragment_id": "116104839",
+   "type": 11,
+   "heading": "Artigo 28.º — (Sucessão de pedidos)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 28.º — (Sucessão de pedidos)\n\nO indeferimento ou desistência em relação a um pedido de equivalência não prejudicam a apresentação, noutro estabelecimento ou no mesmo estabelecimento em relação a outro curso, de novo pedido referente à mesma habilitação estrangeira.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104954": {
+   "fragment_id": "116104840",
+   "type": 11,
+   "heading": "Artigo 29.º — (Dispensa de equivalência prévia à licenciatura)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — (Dispensa de equivalência prévia à licenciatura)\n\n1 - Os não titulares de uma licenciatura pelas universidades portuguesas ou equivalente legal que tenham obtido, no estrangeiro, as habilitações académicas necessárias à admissão aos cursos e provas para a concessão do grau de que requerem equivalência ao grau de mestre ou de doutor são dispensados da obtenção da equivalência prévia ao grau de licenciado.\n\n2 - A dispensa a que se refere o presente artigo, bem como a eventual concessão da equivalência requerida não determinam, em circunstância alguma, o reconhecimento expresso ou tácito da equivalência ao grau de licenciado ou qualquer outro.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104955": {
+   "fragment_id": "116104841",
+   "type": 11,
+   "heading": "Artigo 30.º — (Dissertação e outros trabalhos)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — (Dissertação e outros trabalhos)\n\n1 - Os trabalhos e dissertação a que se refere a alínea c) do n.º 2 do artigo 4.º, a alínea c) do n.º 2 do artigo 8.º e a alínea c) do n.º 2 do artigo 12.º deverão ter aposta, pelas autoridades competentes da universidade ou estabelecimento de ensino superior estrangeiro, menção de se tratar dos trabalhos e ou dissertações apresentadas e aceites para a concessão do grau ou diploma de que é requerida a equivalência.\n\n2 - Em caso de denegação da equivalência, um dos exemplares dos trabalhos e dissertações a que se refere o número anterior poderá ser devolvido ao requerente, a seu pedido, ficando o outro exemplar arquivado no processo.\n\n3 - Em caso de equivalência, um exemplar dos trabalhos e ou dissertações a que se referem a alínea o do n.º 2 do artigo 7.º e a alínea c) do n.º 2 do artigo 8.º será entregue pelo júri à biblioteca do estabelecimento de ensino superior pelo qual foi concedida a equivalência, ficando o outro exemplar arquivado no processo respectivo.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104956": {
+   "fragment_id": "116104842",
+   "type": 11,
+   "heading": "Artigo 31.º — (Traduções)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — (Traduções)\n\n1 - Para a instrução dos processos a que se refere o presente diploma poderá ser exigida, em casos justificados, a tradução de documentos e trabalhos cujo original esteja escrito em língua estrangeira.\n\n2 - A apresentação da tradução de um documento ou trabalho não dispensa a apresentação do original.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104957": {
+   "fragment_id": "116104843",
+   "type": 11,
+   "heading": "Artigo 32.º — (Desistência do pedido)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — (Desistência do pedido)\n\n1 - Até à deliberação final da entidade competente poderão os interessados desistir do pedido de equivalência.\n\n2 - A desistência será requerida à entidade a quem foi requerida a equivalência, a qual, se ainda não tiver sido proferida decisão final, decidirá do seu deferimento ou indeferimento.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104958": {
+   "fragment_id": "116104844",
+   "type": 11,
+   "heading": "Artigo 33.º — (Nulidade)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — (Nulidade)\n\nSerão nulas e de nenhum efeito as deliberações tomadas em contravenção ao disposto no presente diploma.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104959": {
+   "fragment_id": "116104845",
+   "type": 11,
+   "heading": "Artigo 34.º — (Termos e certificados)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 34.º — (Termos e certificados)\n\n1 - De cada equivalência a entidade que a confere lavrará termo, em livro próprio, de modelo a fixar por portaria do Ministro da Educação.\n\n2 - Cabe à universidade ou estabelecimento de ensino superior emitir os certificados das deliberações proferidas nos termos do presente diploma, o que poderá ser feito por fotocópia nos termos referidos, no n.º 1.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104960": {
+   "fragment_id": "116104852",
+   "type": 11,
+   "heading": "Artigo 34.º-A — Emolumentos",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01",
+    "Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 341/2007 - Diário da República n.º 197/2007, Série I de 2007-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), em vigor a partir de 2007-10-17"
+   ],
+   "markdown": "###### Artigo 34.º-A — Emolumentos\n\n1 - Pela concessão de equivalências ou reconhecimentos são devidos emolumentos, os quais constituem receita própria da entidade que procede à mesma.\n\n2 - O valor dos emolumentos, incluindo os devidos pela certificação, não pode exceder o do custo do serviço nem ultrapassar um montante máximo a fixar por portaria do Ministro da Ciência, Tecnologia e Ensino Superior.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01\n\n> Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 341/2007 - Diário da República n.º 197/2007, Série I de 2007-10-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/341-2007-641418), em vigor a partir de 2007-10-17"
+  },
+  "116104961": {
+   "fragment_id": "116104846",
+   "type": 11,
+   "heading": "Artigo 35.º — (Controlo e estatística)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 35.º — (Controlo e estatística)\n\nAté ao dia 15 de cada mês cada universidade ou estabelecimento de ensino superior remeterá à Direcção-Geral do Ensino Superior os seguintes documentos referentes às equivalências reguladas pelos capítulos II, III e IV, e à apreciação regulada pelo capítulo VI:\n\na) Cópia dos requerimentos apresentados no mês anterior;\n\nb) Cópia dos termos (n.º 1 do artigo 34.º) lavrados no mês anterior, tendo apensas cópias das actas das deliberações.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104962": {
+   "fragment_id": "116104847",
+   "type": 11,
+   "heading": "Artigo 36.º — (Direcção-Geral do Ensino Superior)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — (Direcção-Geral do Ensino Superior)\n\n1 - Cabe à Direcção-Geral do Ensino Superior:\n\na) A fixação dos procedimentos administrativos indispensáveis à uniforme execução do presente diploma;\n\nb) A realização e publicação de estudos acerca do sistema nacional de equivalência de habilitações superiores;\n\nc) A representação internacional em matéria de equivalência de habilitações superiores.\n\n2 - Tendo em vista a prossecução dos objectivos descritos no n.º 1, as universidades e demais estabelecimentos de ensino superior prestarão à Direcção-Geral do Ensino Superior toda a colaboração que se revelar necessária.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104963": {
+   "fragment_id": "116104848",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104964": {
+   "fragment_id": "116104849",
+   "type": 11,
+   "heading": "Artigo 37.º — (Disposição revogatória)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 37.º — (Disposição revogatória)\n\nÉ revogado o Decreto-Lei n.º 555/77, de 31 de Dezembro.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104965": {
+   "fragment_id": "116104850",
+   "type": 11,
+   "heading": "Artigo 38.º — (Disposições transitórias)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 38.º — (Disposições transitórias)\n\n1 - Os pedidos formulados ao abrigo do Decreto-Lei n.º 555/77 e admitidos nos termos deste prosseguirão nos seus termos, salvo se os requerentes solicitarem a sua anulação.\n\n2 - Os pedidos formulados ao abrigo do Decreto-Lei n.º 555/77 que não se encontrem completamente instruídos ou que não sejam admissíveis face às suas disposições não terão prosseguimento, sendo a respectiva documentação devolvida aos requerentes.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  },
+  "116104966": {
+   "fragment_id": "116104851",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Abril de 1983. - Francisco José Pereira Pinto Balsemão - João José Fraústo da Silva.\n\nPromulgado em 17 de Maio de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 26 de Maio de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.\n\n> Revogado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 66/2018 - Diário da República n.º 157/2018, Série I de 2018-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2018-116068880), em vigor a partir de 2019-01-01"
+  }
+ }
+}

@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:140346288:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regiao-autonoma-acores/2020-145013085",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/36-2020-140346288",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-08-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "173591520"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:145012187:por",
+     "title": "Declaração de Retificação n.º 1/2020/A",
+     "published": "2020-10-09",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/1-2020-145012187",
+     "date": "2020-08-19"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "173591520": {
+   "fragment_id": "145013086",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-08-19",
+   "changed_by": [],
+   "markdown": "1.º Orçamento Suplementar da Assembleia Legislativa da Região Autónoma dos Açores para o ano de 2020\n\nA Assembleia Legislativa da Região Autónoma dos Açores, nos termos do artigo 41.º e do n.º 2 do artigo 42.º do Decreto Legislativo Regional n.º 54/2006/A, de 22 de dezembro, alterado e republicado pelos Decretos Legislativos Regionais n.os 3/2009/A, de 6 de março, e 43/2012/A, de 9 de outubro, aprova o 1.º Orçamento Suplementar da Assembleia Legislativa da Região Autónoma dos Açores para o ano de 2020, constante dos mapas em anexo."
+  }
+ }
+}

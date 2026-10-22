@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:460614:por
+title: Portaria n.º 694/80
+short_title: null
+summary: Estabelece normas sobre a comercialização de frangos assados
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo - Secretaria de Estado do Comércio Interno
+proposing_entity: null
+official_number: 694/80
+official_date: null
+publication_date: '1980-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 218/1980, Série I de 1980-09-20
+  number: '218'
+  series: I
+  supplement: null
+  pages: 2838 - 2838
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/09/21800/28382838.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '460614'
+  dre_path: /dr/detalhe/portaria/694-1980-460614
+  internal: pt:dre:460614:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-1980-460614
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/694-1980-460614
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-10-09T00:00:00Z'
+integrity:
+  source_sha256: 42146252192478743e0061bf050795bc5d3d80ff3735ea377b66171e989d2078
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-694-460614.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:376597:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 694/80
+
+de 20 de Setembro
+
+Verificando-se que muitos dos estabelecimentos que vendem frango assado ao público o fazem a preço único por unidade, sistema que, facilitando a prática de preços especulativos, redunda, frequentemente, em prejuízo do consumidor, impõe-se determinar a obrigatoriedade de venda a peso do referido produto.
+
+Nestes termos, ao abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, e no [Decreto-Lei n.º 533/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/533-1975-312062), de 26 de Setembro:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno, o seguinte:
+
+1.º A venda ao público de frango assado será feita a peso.
+
+2.º Em todos os locais de venda ao público de frango assado é obrigatória a afixação, por forma bem visível, de letreiro com indicação do respectivo preço por quilograma.
+
+Secretaria de Estado do Comércio Interno, 1 de Setembro de 1980. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

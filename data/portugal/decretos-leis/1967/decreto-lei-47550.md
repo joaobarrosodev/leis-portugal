@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:504547:por
+title: Decreto-Lei n.º 47550
+short_title: null
+summary: Actualiza algumas disposições do Decreto-Lei n.º 44864, que fixa os vencimentos dos militares dos três ramos das
+  forças armadas em serviço no ultramar - Revoga os artigos 17.º, 18.º e 19.º do Decreto-Lei n.º 44864 e o artigo 1.º do Decreto-Lei
+  n.º 46290
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Gabinete do Ministro da Defesa Nacional
+proposing_entity: null
+official_number: '47550'
+official_date: null
+publication_date: '1967-02-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 45/1967, Série I de 1967-02-22
+  number: '45'
+  series: I
+  supplement: null
+  pages: 217 - 219
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/02/04500/02170219.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '504547'
+  dre_path: /dr/detalhe/decreto-lei/47550-1967-504547
+  internal: pt:dre:504547:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47550-1967-504547
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47550-1967-504547
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1968-04-18T00:00:00Z'
+integrity:
+  source_sha256: b5ad98b076262acea4f5ee77ffd1018c93bb790d72fc756accd476ff56ed4c1b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1967/DRE-1967-47550-504547.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:234535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 47550
+
+Algumas disposições do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, que fixa os vencimentos dos militares dos três ramos das forças armadas em serviço no ultramar, carecem de ser revistas no sentido da sua actualização e aperfeiçoamento.
+
+Paralelamente, casos há em que as mencionadas disposições não concedem a protecção devida aos que na defesa da soberania e da integridade territorial da Nação adquiram moléstia ou ferimento relacionados com o serviço, com particular evidência para os feridos em combate, o que provoca situações menos justas, que é necessário remediar e evitar.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º O abono do soldo ou ordenado, do vencimento de exercício e do pré e seus aumentos por períodos de readmissão aos militares dos três ramos das forças armadas em serviço no ultramar regula-se pelos preceitos que vigorarem na metrópole para o pessoal dos respectivos departamentos.
+
+§ único. A designação de vencimento-base em relação às praças do Exército e da Força Aérea abrange os aumentos de pré pela readmissão.
+
+###### Art. 2.º O abono do vencimento complementar e da subvenção de campanha é devido nas mesmas condições em que o forem o soldo, ordenado ou pré, com as excepções previstas, no presente diploma.
+
+###### Art. 3.º Os militares em tratamento ou na situação de licença da junta hospitalar ou de saúde na província a que pertencem, noutra província ou na metrópole, incluindo o tempo de viagem, por motivo de doença, desastre ou ferimento não relacionados com o serviço, têm direito aos seguintes vencimentos:
+
+a) Oficiais e sargentos do Exército, Armada e Força Aérea e praças da Armada: os da província a que pertencem, nos termos dos artigos 1.º e 2.º do presente diploma, em conjugação com o artigo 6.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963;
+
+b) Praças do Exército e da Força Aérea oriundas da metrópole: 50 por cento do pré metropolitano, mantendo os restantes vencimentos;
+
+c) Praças do Exército e da Força Aérea oriundas do ultramar: o vencimento-base da província deduzido de 50 por cento do equivalente ao pré metropolitano, mantendo os restantes vencimentos. O quantitativo do pré dos recrutas a que se referem os §§ 2.º e 3.º do artigo 3.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229) é considerado, para este efeito, igual ao do soldo oriundo da metrópole.
+
+###### Art. 4.º Os militares em tratamento ou na situação de licença da junta hospitalar ou de saúde na província a que pertencem, noutra província ou na metrópole, incluindo o tempo de viagem, por motivo de alguma das causas previstas nas alíneas a), b) e c) do artigo 1.º do [Decreto-Lei n.º 45684](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656), de 27 de Abril de 1964, mantêm o direito ao abono de todos os vencimentos correspondentes à efectividade de serviço na respectiva província, com a excepção da subvenção de campanha, que cessará, para os que dela estavam a ser abonados, após o período de dois anos contados a partir da data da baixa.
+
+###### Art. 5.º Os militares nas situações indicadas no artigo 3.º serão obrigatòriamente presentes à respectiva junta hospitalar ou de saúde, de acordo com as normas e prazos em vigor na metrópole para o Exército, Marinha e Força Aérea e para os mesmos efeitos.
+
+###### Art. 6.º Os militares nas situações indicadas no artigo 4.º serão obrigatòriamente presentes à respectiva junta hospitalar ou de saúde no fim do 1.º e 2.º período de 180 dias de tratamento, se antes as referidas juntas não tiverem tomado sobre eles qualquer decisão.
+
+§ único. Após o 2.º período de 180 dias de tratamento, a presença à respectiva junta passará a efectuar-se no fim de cada período de 90 dias se, entretanto, aquela não tiver tomado qualquer decisão definitiva.
+
+###### Art. 7.º Das decisões definitivas tomadas pelas juntas competentes resultará para os militares referidos no artigo anterior uma das seguintes situações:
+
+a) Pronto para todo o serviço ou apto para os serviviços auxiliares;
+
+b) Apto para a prestação de serviço activo, nos termos do [Decreto-Lei n.º 44995](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44995-1963-196258), de 24 de Abril de 1963;
+
+c) Incapaz de todo o serviço.
+
+###### Art. 8.º As decisões das juntas implicarão para os militares, a partir da data da respectiva homologação, o percebimento dos vencimentos, pensão de reforma extaordinária ou pensão de invalidez que dessas decisões resultarem.
+
+§ único. Quando o militar for considerado pronto para todo o serviço ou apto para os serviços auxiliares, será determinado, simultâneamente com a homologação desta decisão da junta, se deve, ou não, regressar ao ultramar. No caso de regresso, manterá os vencimentos da província a que pertence, sem prejuízo do disposto na parte final do artigo 4.º
+
+###### Art. 9.º Aos militares a que se refere o artigo 4.º que forem julgados incapazes de todo o serviço será atribuída e paga pelos respectivos departamentos, a partir da data da homologação da decisão da junta competente, a pensão de reforma extraordinária ou de invalidez a que tiverem direito, calculada de harmonia com o disposto no [Decreto-Lei n.º 45684](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45684-1964-582656), de 27 de Abril de 1964, ou no [Decreto-Lei n.º 46046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46046-1964-535420), de 27 de Novembro de 1964, independentemente da conclusão do processo pela Caixa Geral de Aposentações.
+
+###### Art. 10.º Quando, posteriormente à fixação da pensão de reforma extraordinária ou da pensão de invalidez, o grau da incapacidade atribuído se agravar por efeitos da causa que lhe deu origem, e tal for reconhecido pela respectiva junta hospitalar ou de saúde, mediante parecer devidamente homologado pelo titular do departamento a que o militar pertence, este poderá requerer a revisão da pensão, ainda que já esteja a ser paga pela Caixa Geral de Aposentações.
+
+§ único. Porém, da revisão prevista no corpo deste artigo não poderá resultar diminuição do quantitativo da pensão de reforma extraordinária ou da pensão de invalidez inicialmente atribuído.
+
+###### Art. 11.º O pagamento das pensões de reforma extraordinária e de invalidez passará a ser feito pela Caixa Geral de Aposentações, logo que tenha concluído os respectivos processos.
+
+###### Art. 12.º Os vencimentos a abonar aos militares das forças terrestres, navais e aéreas durante as viagens por conta do Estado e períodos de permanência, ou a aguardar transporte, em qualquer ponto fora da província a que pertencem são, de acordo com os motivos que se indicam, os seguintes:
+
+1.º Por motivo de chamada do Ministro da Defesa Nacional ou do titular do respectivo departamento ou ainda de missão eventual de serviço: todos os vencimentos que do antecedente vinham percebendo, sem prejuízo do direito aos abonos inerentes à deslocação;
+
+2.º Por motivos diferentes dos mencionados no número anterior e nos artigos 3.º e 4.º: o vencimento-base a que a sua situação militar lhes der direito à data de embarque e os abonos inerentes à deslocação, quando forem devidos.
+
+###### Art. 13.º Os militares que durante a viagem com destino à província ultramarina para que foram nomeados sejam mandados apresentar noutra província têm direito, após a apresentação nessa província, aos vencimentos que nela vigorarem.
+
+###### Art. 14.º Os militares apresentados na província ultramarina para que foram nomeados, quando mandados prestar serviço noutra província no desempenho de missões com carácter de permanência:
+
+a) Mantêm direito aos vencimentos e outros abonos da província onde estavam apresentados se a totalidade destes, incluindo a subvenção de campanha, for superior à da província para onde são deslocados;
+
+b) Têm direito aos vencimentos e outros abonos da província para onde são deslocados quando a totalidade destes, incluindo a subvenção de campanha, for superior.
+
+§ único. O encargo com os vencimentos e outros abonos militares a que se refere este artigo é suportado pela província para onde são deslocados.
+
+###### Art. 15.º O pessoal das guarnições dos navios da Armada atribuídos sem carácter permanente aos comandos ultramarinos, em relação ao qual se verifique qualquer das circunstâncias previstas neste diploma, nomeadamente quando careça de tratamento, quer este deva ter lugar na própria província, quer noutra província ou na metrópole, passa à situação de adido ao comando ultramarino respectivo e fica abrangido pelo regime estabelecido para as forças de desembarque pelos artigos 3.º e 4.º do [Decreto-Lei n.º 43773](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43773-1961-172893), de 1 de Julho de 1961, sendo-lhe então aplicáveis as disposições do presente diploma.
+
+###### Art. 16.º Os militares que passarem à situação de reserva ou de reforma nas províncias onde se encontrem a prestar serviço têm direito, durante o tempo em que estiverem a aguardar embarque, a um vencimento correspondente à pensão de reserva ou de reforma e ao vencimento complementar do seu posto. Porém, a soma da pensão e do vencimento complementar não poderá exceder a soma do vencimento-base e do vencimento complementar do respectivo posto ou da pensão de reserva e o vencimento complementar que percebiam do antecedente.
+
+###### Art. 17.º Aos militares que ainda se encontrem em qualquer das situações previstas no artigo 4.º por motivo de baixa ocorrida posteriormente a 31 de Dezembro de 1960 são aplicáveis, a partir da data da respectiva baixa, as disposições do presente diploma.
+
+###### Art. 18.º Ficam revogados os artigos 17.º, 18.º e 19.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963, e o artigo 1.º do [Decreto-Lei n.º 46290](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46290-1965-237444), de 24 de Abril de 1965.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 22 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar-António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Francisco António das Chagas.
+
+Para ser presente à Assembleia Nacional.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

@@ -1,0 +1,189 @@
+---
+schema_version: '1.0'
+id: pt:dre:453990:por
+title: Decreto-Lei n.º 182/2008
+short_title: null
+summary: Estabelece o regime de implementação do Programa Nacional de Barragens de Elevado Potencial Hidroeléctrico
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 182/2008
+official_date: null
+publication_date: '2008-09-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 171/2008, Série I de 2008-09-04
+  number: '171'
+  series: I
+  supplement: null
+  pages: 6222 - 6223
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/09/17100/0622206223.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/182/2008/09/04/p/dre/pt/html
+  oj: null
+  dre: '453990'
+  dre_path: /dr/detalhe/decreto-lei/182-2008-453990
+  internal: pt:dre:453990:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2008-453990
+  metadata_url: https://data.dre.pt/eli/dec-lei/182/2008/09/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2008-453990
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-12-18T00:00:00Z'
+integrity:
+  source_sha256: a4283fc3f1cf6536c8c839acb7d3faf35233caffd27cdc62c504da73509b688c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-182-453990.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adjudicação
+- Aproveitamento Hidroeléctrico
+- Programa Nacional de Barragens de Elevado Potencial Hidroeléctrico
+- Concurso Público
+- Barragem
+- Programa
+relationships:
+- type: amended_by
+  target: pt:dre:189940:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/391-a/2007/12/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/391-a/2007/12/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 182/2008
+
+de 4 de Setembro
+
+Portugal é um dos países da União Europeia com maior potencial hídrico por explorar e com grande dependência energética do exterior, pelo que foram definidos objectivos para a energia hídrica, os quais se traduzem num aumento face à actual potência hidroeléctrica instalada. Para alcançar tais objectivos é, pois, necessário realizar um conjunto de investimentos em aproveitamentos hidroeléctricos.
+
+O desenvolvimento da energia hídrica potencia uma optimização na utilização dos recursos, tendo em conta, designadamente, as suas potencialidades de utilização para fins múltiplos. Nesta medida e norteado pelos objectivos de racionalização do consumo, competitividade, sustentabilidade e garantia de abastecimento de energia, foi lançado o Programa Nacional de Barragens com Elevado Potencial Hidroeléctrico (PNBEPH), na sequência de uma avaliação ambiental de planos e programas, vulgarmente designada avaliação ambiental estratégica. A implementação deste Programa pelo Estado passa pela realização de procedimentos concursais, nomeadamente, ao abrigo do disposto na [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro, e do [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio, para a selecção das entidades privadas que com ele colaboram.
+
+Assim, o presente decreto-lei define o regime de implementação do PNBEPH e o procedimento de selecção das entidades privadas que colaboram nessa implementação, determinando os seus direitos e deveres.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime de implementação do Programa Nacional de Barragens de Elevado Potencial Hidroeléctrico (PNBEPH) a que se refere o artigo 93.º do [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de Maio, na redacção dada pelo [Decreto-Lei n.º 391-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-a-2007-243771), de 21 de Dezembro.
+
+###### Artigo 2.º — Implementação do PNBEPH
+
+A implementação do PNBEPH incumbe ao Estado, no âmbito da execução da política ambiental e energética, podendo admitir a colaboração de entidades privadas para esse efeito.
+
+###### Artigo 3.º — Selecção de entidades privadas
+
+1 - A selecção de entidades privadas para a colaboração na implementação do PNBEPH, ao abrigo do artigo anterior, é feita através de concurso público.
+
+2 - Entre o Estado e a entidade privada seleccionada nos termos do número anterior é celebrado um contrato atribuindo os direitos e deveres referidos nos artigos seguintes.
+
+3 - A assinatura do contrato referido no número anterior tem lugar após a selecção da entidade privada, nos termos do n.º 1.
+
+4 - O contrato é outorgado, em nome do Estado, pelos membros do Governo responsáveis pelas áreas das finanças, do ambiente e da energia, com faculdade de delegação.
+
+###### Artigo 4.º — Direitos exclusivos
+
+À entidade privada seleccionada nos termos do n.º 1 do artigo anterior são atribuídos os direitos exclusivos de exploração, no âmbito da implementação do PNBEPH e do respectivo procedimento, dos aproveitamentos hidroeléctricos com base nos recursos hídricos que lhe caibam, em conformidade com a concepção do projecto de construção.
+
+###### Artigo 5.º — Deveres
+
+1 - Sob a entidade privada seleccionada nos termos do n.º 1 do artigo 3.º impendem, nomeadamente, os seguintes deveres:
+
+a) Pagamento de preço;
+
+b) Conceber o projecto de construção dos aproveitamentos hidroeléctricos que lhe caibam e demais peças e documentos exigidos no programa de concurso;
+
+c) Obtenção dos actos autorizativos necessários à exploração dos aproveitamentos hidroeléctricos em matéria ambiental, nomeadamente no que diz respeito ao regime da avaliação de impacte ambiental;
+
+d) Obtenção dos actos autorizativos necessários à exploração dos aproveitamentos hidroeléctricos em matéria energética;
+
+e) Obtenção dos actos ou contratos necessários à efectiva utilização de bens de domínio público ou privado do Estado;
+
+f) Obtenção dos actos autorizativos necessários à exploração dos aproveitamentos hidroeléctricos da competência das autarquias locais;
+
+g) Outras obrigações que resultem do programa de concurso.
+
+2 - O preço, nos termos da alínea a) do número anterior, é pago a título de contrapartida da atribuição dos direitos referidos no artigo anterior, sem prejuízo do pagamento de outras contrapartidas previstas na lei, nos programas dos concursos ou nos contratos.
+
+###### Artigo 6.º — Determinação do preço
+
+1 - O preço contratual corresponde à soma do valor base e da quantia oferecida pela entidade privada seleccionada, nos termos previstos no programa do concurso.
+
+2 - Se no âmbito do regime da avaliação do impacte ambiental, por motivos não imputáveis ao contraente privado, for declarada a impossibilidade de construção de um dos aproveitamentos hidroeléctricos, o preço é reduzido à percentagem atribuída no programa do concurso aos aproveitamentos a construir e explorar, sendo devolvida a parte remanescente em singelo e sem juros compensatórios, nos termos definidos nesse programa.
+
+3 - Se as cotas dos aproveitamentos hidroeléctricos resultantes da aplicação do regime da avaliação do impacte ambiental forem diferentes das constantes do projecto, há lugar à correcção do preço, de acordo com a fórmula prevista no programa de concurso.
+
+###### Artigo 7.º — Aplicação no tempo
+
+1 - Nos casos em que já tenham sido proferidos actos de adjudicação provisória no âmbito de procedimentos pré-contratuais de concurso público abertos em implementação do PNBEPH, deve o contrato previsto no presente decreto-lei ser celebrado no prazo de 15 dias a contar da respectiva entrada em vigor, considerando-se o preço base e a quantia oferecida pagos como o pagamento de preço previsto na alínea a) do n.º 1 do artigo 5.º, sem prejuízo do cumprimento integral do disposto nos respectivos programas de concurso.
+
+2 - Nos casos em que ainda não tenham sido proferidos actos de adjudicação provisória no âmbito de procedimentos pré-contratuais de concurso público já abertos em implementação do PNBEPH, a selecção a que se refere o n.º 1 do artigo 3.º corresponde à adjudicação provisória no âmbito do respectivo concurso, sem prejuízo do cumprimento integral do disposto nos respectivos programas de concurso.
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 31 de Julho de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Nuno Garcia de Pina Neves Baleiras - Manuel António Gomes de Almeida de Pinho.
+
+**Promulgado em 25 de Agosto de 2008.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 25 de Agosto de 2008.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

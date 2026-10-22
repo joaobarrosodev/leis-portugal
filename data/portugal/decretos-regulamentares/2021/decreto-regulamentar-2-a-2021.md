@@ -1,0 +1,394 @@
+---
+schema_version: '1.0'
+id: pt:dre:164321572:por
+title: Decreto Regulamentar n.º 2-A/2021
+short_title: null
+summary: Define o âmbito e as condições específicas de funcionamento do programa «IVAucher»
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Finanças
+official_number: 2-A/2021
+official_date: null
+publication_date: '2021-05-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/2021, 1º Suplemento, Série I de 2021-05-28
+  number: '104'
+  series: I
+  supplement: 1º Suplemento
+  pages: 26-(4) a 26-(9)
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/05/10401/0000400009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-09-09'
+version_history:
+  file: decreto-regulamentar-2-a-2021.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2021-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-09-09'
+    amending: pt:dre:171022810:por
+    amending_title: Decreto Regulamentar n.º 6-A/2021
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Anexo
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/2-a/2021/p/cons/20210908/pt/html
+  oj: null
+  dre: '164321572'
+  dre_path: /dr/detalhe/decreto-regulamentar/2-a-2021-164321572
+  internal: pt:dre:164321572:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-a-2021-164321572
+  metadata_url: https://data.dre.pt/eli/decregul/2-a/2021/p/cons/20210908/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2021-171037578
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2021-171037578
+  retrieved_at: '2026-10-22T11:40:52Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 71756744c6e5ee416c2be25ef9594642109784b294d20908d990229f170e6bff
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:40:52Z'
+  notes: 2 versão(ões); histórico completo em decreto-regulamentar-2-a-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade Tributária e Aduaneira
+- BENS de Consumo
+- Espetáculos e Divertimentos Públicos
+- Cobrança de Impostos
+- Definição de Competências
+- Direção Geral do Tesouro e Finanças
+- Estabelecimento de Bebidas
+- Estabelecimento de Restauração
+- Estabelecimento Hoteleiro
+- Apoio ao Investimento
+- Contribuições e Impostos
+- IRS
+- IVA
+- Agência de Gestão da Tesouraria e da Dívida Pública
+- Pessoa Singular
+- Preço
+- Proteção do Consumidor
+- Benefícios Fiscais
+- Comércio
+- Infraestrutura Turística
+- Programa IVAucher
+relationships:
+- type: amended_by
+  target: pt:dre:171022810:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-2021-171022810
+  date: '2021-09-08'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/198/2012/08/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/198/2012/08/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+article_structure:
+  article_count: 12
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:40:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 2-A/2021
+
+Decreto Regulamentar n.º 2-A/2021
+
+de 28 de maio
+
+Sumário: Define o âmbito e as condições específicas de funcionamento do programa «IVAucher».
+
+A economia portuguesa teve, ao longo do último ano, um impacto negativo inesperado resultante da pandemia da doença COVID-19, com repercussões a nível mundial. Neste contexto, a evolução da pandemia da doença COVID-19 alterou, de forma radical, o curso de crescimento económico de Portugal que, nos cinco anos anteriores, subia acima da média da área do euro e registava um desemprego historicamente baixo.
+
+No exercício orçamental de 2021, as grandes prioridades do Governo voltaram a focar-se no combate e controlo da pandemia e recuperação da economia portuguesa, protegendo o rendimento das famílias, o emprego e a atividade empresarial.
+
+No plano económico, o Orçamento do Estado para 2021 determinou a criação do programa «IVAucher», com o objetivo de dinamizar e apoiar três setores fortemente afetados pela pandemia - alojamento, cultura e restauração - e, simultaneamente, impulsionar o consumo privado.
+
+Estando concluído o procedimento de contratação pública respeitante à seleção da entidade que será responsável pelo processamento dos pagamentos eletrónicos realizados ao abrigo do programa, e verificando-se ainda a estabilização do contexto de saúde pública, o Governo vem, pelo presente decreto regulamentar, proceder à definição do âmbito e das condições específicas de funcionamento do programa «IVAucher».
+
+O programa «IVAucher» consiste num mecanismo que permite aos consumidores finais acumular o valor correspondente à totalidade do Imposto sobre o Valor Acrescentado (IVA) suportado em consumos nos setores do alojamento, cultura e restauração, durante um trimestre, e utilizar esse valor durante um outro trimestre, em consumos nesses mesmos setores. O apuramento do valor correspondente ao IVA suportado pelos consumidores finais é efetuado a partir dos montantes constantes das faturas comunicadas à Autoridade Tributária e Aduaneira com o número de identificação fiscal do adquirente.
+
+A adesão dos consumidores ao programa é livre e independente da regularidade da sua situação tributária, sendo todos os comerciantes sujeitos passivos de IVA com uma das Classificações Portuguesas de Atividades Económicas principal identificadas no anexo ao presente decreto regulamentar abrangidos pelo programa, bastando que disponham de Terminais de Pagamento Automático /Point of Sale compatíveis, ou através de solução de pagamentos por chave digital (token).
+
+Assim:
+
+Nos termos da alínea c) do artigo 199.º da Constituição e do n.º 14 do artigo 405.º da Lei n.º 75-B/2020, de 31 de dezembro, na sua redação atual, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto regulamentar define o âmbito e as condições específicas de funcionamento do programa de apoio e estímulo ao consumo nos setores do alojamento, cultura e restauração designado por programa «IVAucher», conforme previsto no artigo 405.º da Lei n.º 75-B/2020, de 31 de dezembro, na sua redação atual.
+
+###### Artigo 2.º — Fases do programa «IVAucher»
+
+O programa «IVAucher» tem caráter temporário, sendo definido por portaria do membro do Governo responsável pela área das finanças o início e a duração de cada uma das fases de:
+
+a) Apuramento do montante do benefício, a qual tem por referência o Imposto sobre o Valor Acrescentado (IVA) incorrido pelos consumidores nessa fase, em aquisições de bens e serviços a comerciantes abrangidos pelo programa, tituladas por faturas emitidas e comunicadas à Autoridade Tributária e Aduaneira (AT);
+
+b) Utilização pelos consumidores do montante apurado na primeira fase, em aquisições de bens e serviços a comerciantes abrangidos pelo programa, nos termos referidos no artigo 7.º
+
+###### Artigo 3.º — Entidades gestoras do programa «IVAucher»
+
+1 - Participam no programa «IVAucher» as seguintes entidades:
+
+a) A AT enquanto entidade responsável pelo apuramento do montante de benefício acumulado ao abrigo do programa e disponibilização da informação sobre o montante de benefício acumulado;
+
+b) A Direção-Geral do Tesouro e Finanças (DGTF) enquanto entidade responsável por gerir o processamento dos valores pecuniários do benefício devido ao abrigo do programa;
+
+c) A Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. (IGCP, E. P. E.), enquanto responsável pelas operações bancárias necessárias ao processamento dos valores pecuniários do benefício no âmbito do programa.
+
+2 - No programa «IVAucher» participam ainda a entidade operadora do sistema, contratada pelo agrupamento de entidades previstas no número anterior, bem como entidades terceiras na área de pagamentos autorizadas pela entidade operadora, designadamente entidades participantes no sistema de compensação interbancária do Banco de Portugal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6-A/2021 - Diário da República n.º 175/2021, 1º Suplemento, Série I de 2021-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-2021-171022810), em vigor a partir de 2021-09-09
+
+###### Artigo 4.º — Competências das entidades gestoras do programa «IVAucher»
+
+1 - São entidades gestoras do programa «IVAucher» a AT, a DGTF e o IGCP, E. P. E., competindo-lhes garantir a correta utilização dos recursos públicos afetos ao programa «IVAucher».
+
+2 - Sem prejuízo do disposto no número anterior, compete em especial:
+
+a) À AT a definição, conceção e implementação de um modelo de controlo do benefício que assegure um adequado sistema de controlo interno, bem como a disponibilização de informação que permita o controlo e a auditoria do programa e a celebração dos protocolos necessários para o programa «IVAucher», sem prejuízo das limitações do disposto no n.º 5 do artigo 405.º da Lei n.º 75-B/2020, de 31 de dezembro, na sua redação atual;
+
+b) À DGTF controlar os movimentos financeiros, designadamente o respetivo valor global, e autorizar os correspondentes débitos associados à conta no IGCP, E. P. E., afeta ao programa «IVAucher», enquanto entidade gestora do capítulo 60 do Orçamento do Estado.
+
+###### Artigo 5.º — Consumidores beneficiários do programa «IVAucher»
+
+1 - São elegíveis para beneficiar do programa os consumidores pessoas singulares que adiram ao programa, mediante aceitação dos respetivos termos de adesão junto da entidade operadora do sistema, ou entidades terceiras autorizadas por esta, e permitam a comunicação do seu número de identificação fiscal português (NIF) às entidades referidas no n.º 2 do artigo 3.º para associação dos cartões de pagamento elegíveis.
+
+2 - Em relação aos consumidores que sejam sujeitos passivos de IVA ou sujeitos passivos da categoria B de Imposto sobre o Rendimento das Pessoas Singulares (IRS), a acumulação do benefício depende da classificação pelo consumidor das faturas e outros documentos fiscalmente relevantes como fora do âmbito da sua atividade profissional, através de aplicação informática da AT ou do Portal das Finanças.
+
+3 - A classificação prevista no número anterior apenas produz efeitos no âmbito do programa «IVAucher» se efetuada até ao dia 24 do mês seguinte ao último mês abrangido pela fase de acumulação do benefício.
+
+4 - A entidade operadora do sistema e a AT colaboram entre si com vista à implementação e operacionalização do presente mecanismo, designadamente para efeitos de autenticação, em federação com o sistema da chave móvel digital e do cartão do cidadão, adesão, consulta e utilização do benefício.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6-A/2021 - Diário da República n.º 175/2021, 1º Suplemento, Série I de 2021-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-2021-171022810), em vigor a partir de 2021-09-09
+
+###### Artigo 6.º — Comerciantes abrangidos pelo programa «IVAucher»
+
+1 - Participam no programa os comerciantes sujeitos passivos de IVA com uma das Classificações Portuguesas de Atividades Económicas (CAE) principal identificadas no anexo ao presente decreto regulamentar e do qual faz parte integrante.
+
+2 - Participam ainda no programa os sujeitos passivos de IVA autorizados pela entidade operadora do sistema que disponham de TPA/POS ou software de pagamento no qual intermedeiam vendas de bens ou prestações de serviços maioritariamente realizadas por comerciantes estabelecidos em território nacional com uma das CAE principal referidas no número anterior.
+
+3 - A participação no programa «IVAucher» pelos sujeitos passivos referidos nos números anteriores opera:
+
+a) De forma automática e sem necessidade de adesão, através da utilização dos Terminais de Pagamento Automático /Point of Sale (TPA/POS), quer sejam da entidade operadora do sistema, ou estejam informaticamente integrados através de Application Programming Interface;
+
+b) Mediante aceitação dos respetivos termos de adesão perante a entidade operadora do sistema ou entidades terceiras na área de pagamentos autorizadas por esta, por forma a permitir a utilização do benefício através de TPA/POS por si identificado ou software de pagamento validado pela entidade operadora do sistema.
+
+4 - Para efeitos do disposto no número anterior os comerciantes e os intermediários podem autorizar, mediante consentimento expresso, a entidade operadora do sistema a validar a designação, o Número de Identificação de Pessoa Coletiva, a morada da sede, a CAE e o International Bank Account Number (IBAN) junto da AT.
+
+5 - Os comerciantes podem afixar nos seus estabelecimentos, em local visível pelos consumidores, um selo confirmativo da adesão ao programa disponibilizado gratuitamente pela entidade operadora do sistema.
+
+6 - A AT pode controlar, em cumprimento das suas atribuições legalmente estabelecidas, a conformidade da realidade económica dos comerciantes com a sua CAE principal, nos termos do artigo 142.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 422/88, de 30 de novembro, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6-A/2021 - Diário da República n.º 175/2021, 1º Suplemento, Série I de 2021-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-2021-171022810), em vigor a partir de 2021-09-09
+
+###### Artigo 7.º — Apuramento do montante do benefício
+
+1 - A AT apura o montante de IVA suportado pelos consumidores aderentes nas suas aquisições realizadas aos sujeitos passivos referidos no n.º 1 do artigo anterior, através da soma dos montantes de IVA constantes nas faturas emitidas na fase de acumulação de benefício, que lhe são comunicadas pelos sujeitos passivos emitentes, nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, na sua redação atual, deduzido do montante de IVA respeitante a faturas anuladas e notas de crédito emitidas.
+
+2 - Para efeitos do disposto no número anterior, apenas são consideradas as faturas, anulações de faturas e notas de crédito comunicadas à AT, cujo emitente tenha como CAE principal à data da comunicação um dos CAE identificados no anexo ao presente decreto regulamentar, até ao final do prazo previsto para a comunicação de faturas, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, na sua redação atual, referente ao último mês abrangido pela fase de acumulação de benefício.
+
+3 - É ainda considerado provisoriamente no apuramento do montante de benefício o IVA constante de faturas com NIF, comunicadas através da leitura do código bidimensional (QR Code) facultativamente aposto pelo comerciante na fatura, sem prejuízo da necessidade de ser assegurada pela AT a associação entre essa fatura e os elementos comunicados pelos sujeitos passivos nos termos do artigo 3.º do Decreto-Lei n.º 198/2012, de 24 de agosto, na sua redação atual, para a sua consideração no apuramento do montante do benefício.
+
+4 - O montante de benefício provisório apurado nos termos dos números anteriores é permanentemente atualizado até ao final da fase de acumulação do benefício e divulgado aos consumidores em aplicação informática da AT ou no Portal das Finanças, relativamente às faturas comunicadas à AT.
+
+5 - O montante definitivo de benefício é apurado pela AT e divulgado aos consumidores em aplicação informática da AT ou no Portal das Finanças, até ao último dia do mês seguinte ao fim da fase de acumulação.
+
+###### Artigo 8.º — Comunicação do apuramento do benefício
+
+A AT comunica à DGTF e à entidade operadora do sistema o apuramento do benefício de todos os consumidores que tenham uma adesão válida.
+
+###### Artigo 9.º — Utilização do benefício
+
+1 - Quando o consumidor aderente proceda a um pagamento, através de um meio de pagamento elegível pela entidade operadora do sistema, em aquisições de bens e serviços realizadas aos sujeitos passivos referidos no artigo 6.º, parte do montante do pagamento é suportado, nos termos dos números seguintes, através da utilização do benefício que esteja disponível nos termos do artigo 7.º, sendo o remanescente suportado pelo consumidor.
+
+2 - A parte do montante a suportar corresponde a 50 % do valor do bem ou serviço, salvo se o montante do benefício disponível, nos termos do artigo 7.º, não for suficiente, caso em que a mesma não ultrapassa este montante.
+
+3 - (Revogado.)
+
+4 - A utilização do benefício devido pode operar por ressarcimento do montante referido no n.º 2 para a conta bancária do consumidor no prazo máximo de dois dias úteis após o pagamento.
+
+5 - A AT e a entidade operadora do sistema disponibilizam aos consumidores o montante do benefício disponível.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6-A/2021 - Diário da República n.º 175/2021, 1º Suplemento, Série I de 2021-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-2021-171022810), em vigor a partir de 2021-09-09
+
+###### Artigo 10.º — Obrigações da entidade operadora do sistema
+
+1 - A entidade operadora do sistema é responsável por verificar a elegibilidade do comerciante para a utilização do benefício, por verificar o montante de benefícios ainda disponível e por abater o montante ressarcido na transação ao montante do benefício, dentro do limite referido no artigo anterior.
+
+2 - A entidade operadora do sistema processa diariamente a compensação dos movimentos financeiros, remetendo ao IGCP, E. P. E., a indicação do montante global da comparticipação a pagar pelo Estado, procedendo esta entidade ao respetivo pagamento, em nome e por conta da DGTF.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 6-A/2021 - Diário da República n.º 175/2021, 1º Suplemento, Série I de 2021-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-2021-171022810), em vigor a partir de 2021-09-09
+
+###### Artigo 11.º — Dedução à coleta do Imposto sobre o Rendimento das Pessoas Singulares
+
+1 - Não concorre para o montante das deduções à coleta previstas nos artigos 78.º-B e 78.º-F do Código do IRS o montante de benefício que, nos termos do artigo 9.º, for utilizado ao abrigo do presente programa.
+
+2 - O montante de benefício acumulado não utilizado pelo consumidor, independentemente do setor de consumo, é considerado para efeitos da dedução à coleta prevista no artigo 78.º-F do Código do IRS.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de maio de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão.
+
+Promulgado em 28 de maio de 2021.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 28 de maio de 2021.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+## Anexo — (a que se referem o n.º 1 do artigo 6.º e o n.º 2 do artigo 7.º)
+
+Classificação Portuguesa de Atividades Económicas abrangidas pelo programa «IVAucher»
+
+a) 47610 Comércio a retalho de livros, em estabelecimentos especializados.
+
+b) 55111 Hotéis com restaurante.
+
+c) 55112 Pensões com restaurante.
+
+d) 55113 Estalagens com restaurante.
+
+e) 55114 Pousadas com restaurante.
+
+f) 55115 Motéis com restaurante.
+
+g) 55116 Hotéis-apartamentos com restaurante.
+
+h) 55117 Aldeamentos turísticos com restaurante.
+
+i) 55118 Apartamentos turísticos com restaurante.
+
+j) 55119 Outros estabelecimentos hoteleiros com restaurante.
+
+k) 55121 Hotéis sem restaurante.
+
+l) 55122 Pensões sem restaurante.
+
+m) 55123 Apartamentos turísticos sem restaurante.
+
+n) 55124 Outros estabelecimentos hoteleiros sem restaurante.
+
+o) 55201 Alojamento mobilado para turistas.
+
+p) 55202 Turismo no espaço rural.
+
+q) 55203 Colónias e campos de férias.
+
+r) 55204 Outros locais de alojamento de curta duração.
+
+s) 55300 Parques de campismo e de caravanismo.
+
+t) 55900 Outros locais de alojamento.
+
+u) 56101 Restaurantes tipo tradicional.
+
+v) 56102 Restaurantes com lugares ao balcão.
+
+w) 56103 Restaurantes sem serviço de mesa.
+
+x) 56104 Restaurantes típicos.
+
+y) 56105 Restaurantes com espaço de dança.
+
+z) 56106 Confeção de refeições prontas a levar para casa.
+
+aa) 56107 Restaurantes, n.e. (inclui atividades de restauração em meios móveis).
+
+bb) 56210 Fornecimento de refeições para eventos.
+
+cc) 56290 Outras atividades de serviço de refeições.
+
+dd) 56301 Cafés.
+
+ee) 56302 Bares.
+
+ff) 56303 Pastelarias e casas de chá.
+
+gg) 56304 Outros estabelecimentos de bebidas sem espetáculo.
+
+hh) 56305 Estabelecimentos de bebidas com espaço de dança.
+
+ii) 56306 Estabelecimentos de bebidas itinerantes.
+
+jj) 59140 Projeção de filmes e de vídeos.
+
+kk) 90010 Atividades das artes do espetáculo.
+
+ll) 90020 Atividades de apoio às artes do espetáculo.
+
+mm) 90030 Criação artística e literária.
+
+nn) 90040 Exploração de salas de espetáculos e atividades conexas.
+
+oo) 91011 Atividades das bibliotecas.
+
+pp) 91012 Atividades dos arquivos.
+
+qq) 91020 Atividades dos museus.
+
+rr) 91030 Atividades dos sítios e monumentos históricos.
+
+ss) 91041 Atividades dos jardins zoológicos, botânicos e aquários.
+
+tt) 91042 Atividade dos parques e reservas naturais.
+
+uu) 47630 Comércio a retalho de discos, CD, DVD, cassetes e similares, em estabelecimentos especializados;
+
+vv) 58110 Edição de livros;
+
+ww) 94991 Associações culturais e recreativas.
+
+114282611
+
+> Alterado pelo/a Anexo do/a [Decreto Regulamentar n.º 6-A/2021 - Diário da República n.º 175/2021, 1º Suplemento, Série I de 2021-09-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-a-2021-171022810), em vigor a partir de 2021-09-09, produz efeitos a partir de 2021-06-01

@@ -1,0 +1,240 @@
+---
+schema_version: '1.0'
+id: pt:dre:219133:por
+title: Decreto-Lei n.º 257/86
+short_title: null
+summary: Introduz alterações em relação ao estabelecido no Decreto-Lei n.º 17-D/86, de 6 de Fevereiro, sobre dispensa de contribuições
+  das empresas que admitam trabalhadores em situação de primeiro emprego por tempo indeterminado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 257/86
+official_date: null
+publication_date: '1986-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 196/1986, Série I de 1986-08-27
+  number: '196'
+  series: I
+  supplement: null
+  pages: 2223 - 2225
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/08/19600/22232225.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '219133'
+  dre_path: /dr/detalhe/decreto-lei/257-1986-219133
+  internal: pt:dre:219133:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1986-219133
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1986-219133
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-05-06T00:00:00Z'
+integrity:
+  source_sha256: 166358e2ce854a8a9c4544347080dc1b4cc317dec7a1db8a9b506a9bf07679ea
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-257-219133.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:514445:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 257/86
+
+de 27 de Agosto
+
+O [Decreto-Lei n.º 17-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-d-1986-405476), de 6 de Fevereiro, estabeleceu um regime de dispensa temporária das contribuições devidas pelas entidades patronais, contribuintes do regime geral de segurança social dos trabalhadores por conta de outrem, que celebrassem contratos de trabalho por tempo indeterminado com jovens com idades compreendidas entre os 18 e os 25 anos, em situação de primeiro emprego.
+
+Esta medida inscrevia-se nos objectivos mais vastos do Governo ligados à dinamização do mercado de emprego, pelo que pressupunha uma interligação estreita com outra medida de carácter laboral.
+
+Daí que, partindo da experiência adquirida com a vigência do referido diploma, se tenha concluído pela vantagem em dar maior âmbito à medida então tomada, de modo a permitir a sua aplicação a outras situações não abrangidas pelo [Decreto-Lei n.º 17-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-d-1986-405476) mas igualmente merecedoras de protecção.
+
+Assim, o presente diploma altera o limite superior de idade estabelecido para os trabalhadores candidatos a primeiro emprego.
+
+O anterior limite superior revelou-se inadequado à realidade social por condicionar excessivamente a aplicação da dispensa contributiva a situações de primeiro emprego.
+
+Por outro lado, e face ao objectivo prioritário do Governo de criar condições a uma maior estabilidade e segurança do emprego, urge alargar as vantagens contributivas previstas às empresas que transformem em contratos por tempo indeterminado os contratos a prazo que abrangem o seu pessoal.
+
+Paralelamente, entende-se justificado, por coerência com os mesmos princípios, o alargamento da dispensa a todos os casos de primeira admissão de um trabalhador por tempo indeterminado, mesmo que anteriormente tivesse estado abrangido por contrato de trabalho a prazo com diferente entidade patronal.
+
+Assim se tornará mais efectiva a medida de promoção da estabilidade do emprego, desejável tanto para os trabalhadores como para as próprias empresas.
+
+Nestes termos:
+
+O Governo decreta, ao abrigo do alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Princípio geral)
+
+1 - As entidades patronais contribuintes do regime geral de segurança social dos trabalhadores por conta de outrem que, a partir da data da entrada em vigor do presente diploma, celebrem contratos de trabalho por tempo indeterminado com trabalhadores que reúnam as condições referidas no artigo 3.º são temporariamente dispensadas do pagamento das contribuições, na parte relativa à entidade patronal, por si devidas à Segurança Social nos termos estabelecidos neste diploma.
+
+2 - A dispensa prevista no número anterior aplica-se quer a prestação de trabalho seja a tempo inteiro quer seja a tempo parcial.
+
+3 - O disposto nos números anteriores não é aplicável às actividades que se integrem em esquemas contributivos da Segurança Social com taxas inferiores à estabelecida para a generalidade dos trabalhadores por conta de outrem ou com bases de incidência fixadas em valores inferiores às remunerações fixadas para os respectivos sectores de actividade.
+
+###### Artigo 2.º — (Formalização do contrato de trabalho)
+
+Para os efeitos do presente diploma, o contrato de trabalho por tempo indeterminado deve ser obrigatoriamente reduzido a escrito.
+
+###### Artigo 3.º — (Âmbito pessoal)
+
+1 - Só podem beneficiar da dispensa prevista no n.º 1 do artigo 1.º os trabalhadores que à data do requerimento para aplicação de dispensa de contribuições nos termos do presente diploma estejam em situação de primeiro emprego e tenham idade compreendida entre os 16 e os 30 anos.
+
+2 - Consideram-se em situação de primeiro emprego os trabalhadores que nunca tenham sido contratados por tempo indeterminado.
+
+3 - A aplicação deste diploma não prejudica o disposto na lei geral de trabalho em matéria de período experimental.
+
+###### Artigo 4.º — (Situações de estágio profissional e de contrato de trabalho a prazo)
+
+1 - As situações de estágio profissional em empresas ou de contrato de trabalho a prazo, anteriores à celebração de contrato por tempo indeterminado, não impedem a aplicação de dispensa de contribuições prevista neste diploma.
+
+2 - Não são determinantes da exclusão de um trabalhador do âmbito do disposto no artigo anterior a situação de período experimental de contrato de trabalho anterior.
+
+###### Artigo 5.º — (Período de dispensa de pagamento de contribuições)
+
+O período de dispensa de pagamento das contribuições relativas às entidades patronais é de 24 meses.
+
+###### Artigo 6.º — (Requerimento)
+
+1 - As entidades patronais interessados na aplicação do disposto no presente diploma devem apresentar na instituição de segurança social que as abranja requerimento para o efeito, em apenso à folha de remunerações a entregar no mês seguinte àquele em que começar a vigorar o contrato de trabalho por tempo indeterminado.
+
+2 - O requerimento deve ser acompanhado dos seguintes documentos:
+
+a) Cópia do contrato de trabalho por tempo indeterminado;
+
+b) Declaração expressa do trabalhador do início de actividade, com menção de que se trata de uma situação de primeiro emprego com contrato de trabalho por tempo indeterminado;
+
+c) Boletim de identificação.
+
+3 - Nos casos em que o trabalhador já tivesse inscrição anterior como beneficiário da Segurança Social, o requerimento deve ser ainda acompanhado de elementos que comprovem que os períodos contributivos anteriores à data do requerimento correspondiam a situações enquadráveis no n.º 2 do artigo 3.º
+
+###### Artigo 7.º — (Apreciação do pedido)
+
+1 - As instituições de segurança social deverão apreciar o pedido no prazo de 30 dias a contar da apresentação do requerimento devidamente instituído.
+
+2 - O indeferimento do requerimento implica a exigência das contribuições relativas à entidade patronal desde o início do contrato de trabalho por tempo indeterminado.
+
+3 - Não são exigíveis juros de mora pelo valor das contribuições da entidade patronal não pagas até ao termo do mês em que foi dado conhecimento do indeferimento do requerimento.
+
+###### Artigo 8.º — (Folhas de remunerações)
+
+1 - Os trabalhadores abrangidos pelo presente diploma são incluídos em folha de remunerações autónoma, com referência ao presente diploma.
+
+2 - A entrega da folha de remunerações e o pagamento das contribuições devidas pelos trabalhadores são de responsabilidade das entidades patronais.
+
+3 - A exclusão dos trabalhadores da folha de remunerações correspondente ao mês em que vigore a dispensa de contribuições deve ser objecto de imediata averiguação por parte das instituições de segurança social.
+
+###### Artigo 9.º — (Guias de pagamento das contribuições)
+
+O pagamento das contribuições é efectuado através de guia autónoma, que levará aposta a menção do presente diploma.
+
+###### Artigo 10.º — (Cessação da dispensa de pagamento de contribuições)
+
+1 - A dispensa do pagamento de contribuições regulada pelo presente diploma cessa nos seguintes casos:
+
+a) Termo do prazo estabelecido no artigo 5.º;
+
+b) Falta de entrega, no prazo legal, da folha de remunerações correspondente aos trabalhadores nas condições do artigo 3.º ou falta de inclusão na referida folha de trabalhador em função do qual haja sido requerida dispensa;
+
+c) Cessação do contrato de trabalho.
+
+2 - A cessação do contrato não torna exigíveis as contribuições correspondentes à entidade patronal relativas ao período durante o qual tenha vigorado a dispensa de contribuições, quando resultar de:
+
+a) Iniciativa do trabalhador;
+
+b) justa causa de despedimento;
+
+c) Despedimento colectivo;
+
+d) Incapacidade definitiva do trabalhador;
+
+e) Morte do trabalhador;
+
+f) Cessação da actividade da empresa.
+
+3 - Não são igualmente exigíveis as contribuições se a cessação de contrato de trabalho se verificar durante o período experimental.
+
+4 - Nos casos em que haja lugar à exigência das contribuições nos termos do n.º 2, não são devidos juros de mora em função dos períodos a que as mesmas se referem.
+
+###### Artigo 11.º — (Regime subsidiário)
+
+Em tudo o que não se encontre expressamente consagrado neste diploma aplicam-se as disposições vigentes do regime geral de segurança social dos trabalhadores por conta de outrem.
+
+###### Artigo 12.º — (Contratos anteriores à vigência do diploma)
+
+1 - Nos casos em que as entidades patronais comprovem a admissão de trabalhadores em primeiro emprego por tempo indeterminado durante a vigência do [Decreto-Lei n.º 17-D/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-d-1986-405476), de 6 de Fevereiro, que, por razões de idade ou de anterior vinculação a contratos a prazo, nos termos deste último diploma, não tivessem beneficiado da dispensa de contribuições, podem requerer, no prazo de 30 dias após a entrada em vigor do presente diploma, a aplicação do presente regime.
+
+2 - Nas situações referidas no número anterior o deferimento do requerimento determina a dispensa de contribuições por período de 24 meses, contado a partir do mês seguinte ao do requerimento.
+
+3 - Os contratos a que se refere o n.º 1 devem ser, obrigatoriamente, reduzidos a escrito para efeitos de aplicação do presente diploma.
+
+###### Artigo 13.º
+
+O presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que lhe venham a ser introduzidas por diploma regional.
+
+###### Artigo 14.º — (Revogação)
+
+1 - É revogado o Decreto-Lei n.º 1-D/86, de 6 de Fevereiro.
+
+2 - A revogação prevista no número anterior não prejudica as situações de dispensa de contribuições constituídas ao abrigo do diploma revogado.
+
+###### Artigo 15.º
+
+Este diploma entra em vigor no dia 1 de Outubro de 1986.
+
+Visto e aprovado em Conselho de Ministros de 8 de Julho de 1986. - Aníbal António Cavaco Silva. - Luís Fernando Mira Amaral.
+
+**Promulgado em 9 de Agosto de 1986.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 14 de Agosto de 1986.**
+
+Pelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.

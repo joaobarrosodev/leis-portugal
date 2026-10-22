@@ -1,0 +1,265 @@
+---
+schema_version: '1.0'
+id: pt:dre:281792:por
+title: Decreto-Lei n.º 184/93
+short_title: null
+summary: Regula a Marca Nacional de Conformidade com as Normas para produtos certificados
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 184/93
+official_date: null
+publication_date: '1993-05-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/1993, Série I-A de 1993-05-19
+  number: '116'
+  series: I
+  supplement: null
+  pages: 2755 - 2758
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/05/116a00/27552758.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/184/1993/05/19/p/dre/pt/html
+  oj: null
+  dre: '281792'
+  dre_path: /dr/detalhe/decreto-lei/184-1993-281792
+  internal: pt:dre:281792:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1993-281792
+  metadata_url: https://data.dre.pt/eli/dec-lei/184/1993/05/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1993-281792
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-05-19T00:00:00Z'
+integrity:
+  source_sha256: 6a856ce55ee34c8ca7158fa19adefa665f66d24676f0b18df091348a5c4d1e4b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-184-281792.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Comissão de Gestão da Marca
+- Comissão Técnica
+- Criação de Serviços
+- Marca
+- Instituto Nacional da Propriedade Industrial
+- Certificado de Qualidade
+- Instituto Português da Qualidade
+- Organização Mundial da Propriedade Intelectual
+- Normalização
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/56/1991/10/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/56/1991/10/14/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 184/93
+
+de 19 de Maio
+
+A instituição da Marca Nacional de Conformidade com as Normas representou um passo significativo no sentido de possibilitar a demonstração da qualidade da produção nacional. Porém, a experiência da sua aplicação durante 12 anos e as transformações entretanto operadas, quer na realidade social e económica, quer no ordenamento jurídico português, impõem que se estabeleça agora uma nova regulamentação.
+
+Portugal estabeleceu atempadamente as bases institucionais do Sistema Nacional de Gestão da Qualidade, regulamentado pelo [Decreto-Lei n.º 165/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1983-311467), de 27 de Abril, que se consubstancia numa verdadeira política para a qualidade dos produtos e serviços.
+
+Com efeito, com a integração de Portugal na Comunidade Europeia, questões como a qualidade dos produtos e dos serviços existentes no mercado nacional são consideradas de acrescida importância, pelo que, antes de mais, se revela necessário adaptar a esta nova realidade a regulamentação da Marca Nacional de Conformidade com as Normas.
+
+Em 1986, foi criado o Instituto Português da Qualidade, que tem baseado toda a sua acção no apoio aos agentes económicos nos domínios da qualidade dos produtos e dos serviços.
+
+Nesta linha de orientação, o [Decreto Regulamentar n.º 56/91](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/56-1991-288804), de 14 de Outubro, veio atribuir-lhe, entre outras, a importante competência de instituir marcas nacionais de conformidade e assegurar a respectiva gestão.
+
+Face ao desenvolvimento da indústria portuguesa e ao aumento de pedidos de certificação que tem vindo a ocorrer, considera-se fundamental alargar o âmbito de concessão da Marca Nacional de Conformidade de acordo com normas não portuguesas ou outras especificações técnicas de idoneidade equivalente.
+
+De igual modo, importa alterar a filosofia da determinação dos custos do uso da Marca, de modo a permitir uma maior flexibilidade nessa fixação, o que se justifica pela necessidade de atender às especificidades de cada sector industrial envolvido, uma vez que tais sectores são de natureza muito variada.
+
+De salientar, ainda, a necessidade de proceder à actualização do símbolo que representa a Marca Nacional de Conformidade com as Normas para produtos certificados, de forma a tornar mais fácil a sua aposição, designadamente em produtos de reduzidas dimensões.
+
+Considera-se, por último, de toda a conveniência estabelecer um período transitório, a fim de permitir à indústria portuguesa proceder aos ajustamentos adequados à nova regulamentação na matéria.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente diploma regula a autorização, fiscalização e condições de uso da Marca Nacional de Conformidade com as Normas para produtos certificados.
+
+2 - Entende-se por Marca Nacional de Conformidade com as Normas para produtos certificados, adiante abreviadamente designada por Marca, aquela que tem por finalidade certificar que os produtos que a têm aposta correspondem às prescrições estabelecidas por normas portuguesas, europeias ou internacionais ou a especificações técnicas indicadas pelo Instituto Português da Qualidade (IPQ).
+
+###### Artigo 2.º — Representação da Marca
+
+1 - A Marca é representada por um símbolo com as indicações complementares necessárias, sendo materializada, de maneira indelével, por meio de sinais impressos ou gravados, placas, etiquetas, selos, vinhetas ou quaisquer outros processos.
+
+2 - O modelo do símbolo, forma e condições da sua aplicação são aprovados por despacho do Ministro da Indústria e Energia.
+
+###### Artigo 3.º — Registo da Marca
+
+A Marca será submetida a registo nacional no Instituto Nacional da Propriedade Industrial como propriedade do Estado e a registo internacional na Organização Mundial da Propriedade Intelectual nos termos do Acordo de Madrid, de 14 de Abril de 1891, devendo ainda ser submetida a registo nos outros Estados não aderentes ao Acordo de Madrid, mas onde seja presumível que a Marca venha a ser utilizada.
+
+###### Artigo 4.º — Condições de uso da Marca
+
+1 - A utilização da Marca depende da obtenção de uma autorização a conceder pelo presidente do IPQ.
+
+2 - São condições de concessão da autorização a conformidade do produto com as normas aplicáveis e a capacidade do requerente em assegurar, ao longo do processo de produção, um controlo eficiente baseado no resultado dos ensaios e demais verificações necessárias.
+
+3 - A autorização deve especificar as dimensões, os processos e as formas de aposição da Marca e é concedida por um período, renovável, de um a cinco anos.
+
+4 - O IPQ dará conhecimento ao Instituto do Consumidor e publicará na 3.ª série do Diário da República todas as autorizações concedidas, bem como as que tenham sido suspensas ou revogadas nos termos do disposto no presente diploma.
+
+###### Artigo 5.º — Pedido de autorização
+
+1 - Os pedidos de autorização para utilização da Marca são efectuados mediante a apresentação de um requerimento dirigido ao presidente do IPQ, do qual conste:
+
+a) Nome e endereço do requerente e local de produção;
+
+b) Definição de produto e indicação das normas em relação às quais se pretende a certificação de conformidade;
+
+c) Descrição completa do processo tecnológico;
+
+d) Indicação da forma como se pretende materializar nos produtos a Marca de conformidade, de harmonia com o disposto no n.º 1 do artigo 2.º
+
+2 - O pagamento das importâncias devidas pelo uso da Marca é fixado por despacho do Ministro da Indústria e Energia.
+
+###### Artigo 6.º — Instrução do pedido
+
+1 - O pedido de autorização deve ser intruído com um documento comprovativo do registo, nacional ou internacional, das marcas comerciais e da autorização do seu uso caso pertença a terceiros.
+
+2 - O IPQ pode solicitar aos requerentes todos os elementos adicionais que, em cada caso, considere necessários à informação do pedido.
+
+###### Artigo 7.º — Comissões de gestão da Marca
+
+Por despacho do Ministro da Indústria e Energia, sob proposta do presidente do IPQ, ouvidas as entidades interessadas, serão criadas comissões de gestão da Marca (CGM), às quais incumbe:
+
+a) Propor ao IPQ acções de promoção do uso da Marca;
+
+b) Dar parecer sobre os pedidos e reclamações relativos ao uso da Marca no âmbito da respectiva actividade, por forma a habilitar o IPQ na tomada de decisões;
+
+c) Pronunciar-se sobre as prescrições a estabelecer com vista ao bom uso da Marca;
+
+d) Participar ao IPQ as infracções detectadas ao disposto no presente diploma;
+
+e) Dar parecer ao IPQ relativamente à suspensão ou revogação da autorização para o uso da Marca.
+
+2 - As CGM têm a seguinte composição:
+
+a) Um representante do IPQ, que preside;
+
+b) Um representante dos laboratórios envolvidos;
+
+c) Um representante dos fabricantes;
+
+d) Representantes de entidades cuja participação seja de reconhecido interesse para os trabalhos a realizar pela comissão.
+
+3 - O regulamento interno de funcionamento das CGM é aprovado por cada comissão e homologado pelo presidente do IPQ.
+
+4 - O apoio logístico e adminisrativo das CGM é assegurado pelo IPQ ou por entidade pelo seu presidente designada.
+
+###### Artigo 8.º — Comissão Técnica de Certificação
+
+1 - Será criada, nos termos previstos no artigo anterior, a Comissão Técnica de Certificação (CTC), à qual compete colaborar com o IPQ na resolução de problemas decorrentes do esquema de certificação utilizado.
+
+2 - A CTC será constituída por representantes do IPQ e dos laboratórios envolvidos.
+
+###### Artigo 9.º — Obrigações do utente da Marca
+
+A entidade a quem for concedida autorização para o uso da Marca fica obrigada a:
+
+a) Utilizá-la nos seus precisos termos e por forma a não induzir o público em erro;
+
+b) Sujeitar-se às prescrições e planos de amostragem, de ensaio ou de inspecção que lhe sejam fixados;
+
+c) Permitir o livre acesso dos técnicos encarregados da inspecção, durante as horas de trabalho, às instalações e laboratórios ligados à produção, controlo e armazenamento dos produtos sujeitos à disciplina da Marca, bem como as colheitas de amostras que aqueles considerem necessárias;
+
+d) Comunicar em tempo oportuno as modificações de carácter técnico que pretenda introduzir na produção e, bem assim, a mudança do proprietário da empresa;
+
+e) Não ceder a terceiros, gratuita ou onerosamente, o uso da Marca, salvo autorização do IPQ;
+
+f) Efectuar o pagamento das importâncias inerentes ao uso da Marca;
+
+g) Prestar as informações que lhe sejam solicitadas pelos serviços competentes no que se refira ao uso da Marca;
+
+h) Manter um registo do controlo efectuado sobre a produção dos últimos 12 meses e facultá-lo à entidade inspectora sempre que tal seja solicitado;
+
+i) No caso de deixar de usar a Marca por mais de um ano, informar o IPQ no prazo de 30 dias a contar do termo do ano durante o qual a Marca deixou de ser usada.
+
+###### Artigo 10.º — Acompanhamento do uso da Marca
+
+1 - As actividades de auditoria da qualidade e inspecção relativas ao uso da Marca são exercidas por técnicos reconhecidos pelo IPQ, a ele pertencentes ou mandatados expressamente para o efeito, ouvidas as CGM ou a CTC.
+
+2 - As actividades previstas no número anterior incidem sobre a produção e controlo da qualidade em relação a todas as características prescritas nas normas, bem como sobre os respectivos registos de inspecção e ensaios efectuados nos produtos em relação aos quais tenha sido concedida autorização para o uso da Marca e sobre as amostras recolhidas.
+
+###### Artigo 11.º — Sigilo profissional
+
+Os membros das CGM e os técnicos a que se refere o artigo anterior ficam obrigados ao sigilo profissional.
+
+###### Artigo 12.º — Caducidade da autorização de uso da Marca
+
+A autorização de uso da Marca caduca quando o seu titular:
+
+a) Não use a Marca por mais de um ano no período da autorização;
+
+b) Não requeira a sua renovação terminado o período a que se refere o n.º 3 do artigo 4.º
+
+###### Artigo 13.º — Suspensão e revogação de autorização
+
+1 - Sempre que o uso da Marca ocorra em condições de manifesto incumprimento do disposto no presente diploma, deve sem prejuízo das sanções previstas no Código da Propriedade Industrial, a autorização ser suspensa ou revogada, consoante a gravidade do incumprimento.
+
+2 - A suspensão ou revogação da autorização é notificada por carta registada com aviso de recepção e é precedida de inquérito, com a audição do titular da autorização, o qual disporá de um período mínimo de 15 dias para a realização das verificações ou exames que solicitar.
+
+3 - A aplicação das medidas previstas no presente artigo é da competência do presidente do IPQ, mediante parecer da respectiva CGM ou da CTC, consoante o caso.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação, sem prejuízo de os actuais titulares da Marca Nacional de Conformidade com as Normas poderem continuar a utilizá-la, durante um período de seis meses, nos termos e condições em que lhes foi concedida.
+
+Visto e aprovado em Conselho de Ministros de 11 de Março de 1993. - Aníbal António Cavado Silva - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira - Carlos Alberto Diogo Soares Borrego.
+
+**Promulgado em 26 de Abril de 1993.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 27 de Abril de 1993.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

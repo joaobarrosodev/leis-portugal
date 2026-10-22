@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:187529943:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-200673502",
+ "dre_path": "/dr/detalhe/portaria/205-b-2022-187529943",
+ "source_lastmod": "2024-07-31",
+ "versions": [
+  {
+   "date": "2022-08-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "200630778",
+    "200630779",
+    "200630780",
+    "200630781",
+    "200630782",
+    "200630783",
+    "200630784",
+    "200630785",
+    "200630786",
+    "200630787",
+    "200630788",
+    "200630789",
+    "200630790",
+    "200630792"
+   ]
+  }
+ ],
+ "fragments": {
+  "200630778": {
+   "fragment_id": "200673503",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 205-B/2022\n\nde 16 de agosto\n\nSumário: Cria um apoio extraordinário a atribuir aos agricultores cujos efetivos pecuários foram afetados pelos incêndios ocorridos no território continental e regulamenta as respetivas condições de atribuição.\n\nOs incêndios de grandes dimensões que deflagraram durante os últimos meses afetaram um numeroso conjunto de concelhos em todo o país com especial incidência nas regiões Centro e Norte, provocaram a destruição de unidades de exploração económica, nomeadamente de pastos usados na alimentação dos animais das espécies bovina, ovina, caprina e equídeos.\n\nA dimensão de tal destruição implica um incremento inesperado e significativo do custo de produção dessas unidades de exploração económica, dado que a supressão das pastagens requer que a alimentação dos animais seja agora assegurada pela aquisição de alimentos no mercado.\n\nAssim torna-se prioritário criar apoios aos produtores pecuários com vista à aquisição de alimentação animal.\n\nNeste contexto, o Ministério da Agricultura e da Alimentação assegura a disponibilização de um apoio extraordinário para apoiar os agricultores cujas explorações se situem nos territórios afetados pela destruição causada pelos fogos rurais que estão a atingir o país, com uma dotação inicial de 500 000 (euro) e eventual reforço nos termos a definir.\n\nAssim:\n\nManda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo do artigo 29.º do Decreto-Lei n.º 32/2022, de 9 de maio, o seguinte:"
+  },
+  "200630779": {
+   "fragment_id": "200673504",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "200630780": {
+   "fragment_id": "200673505",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria cria um apoio extraordinário a atribuir aos agricultores cujos efetivos pecuários foram afetados pelos incêndios ocorridos no território continental e regulamenta as respetivas condições de atribuição."
+  },
+  "200630781": {
+   "fragment_id": "200673506",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente portaria os detentores de explorações agrícolas com efetivos pecuários das espécies bovina, ovina, caprina e equídea, afetados pelos incêndios ocorridos no território continental, designadamente nas freguesias previstas no anexo à presente portaria, que desta faz parte integrante.\n\n2 - O anexo à presente portaria pode ser alterado por despacho da Ministra da Agricultura e da Alimentação."
+  },
+  "200630782": {
+   "fragment_id": "200673507",
+   "type": 11,
+   "heading": "Artigo 3.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Critérios de elegibilidade\n\nOs candidatos ao apoio previsto na presente portaria devem cumprir as seguintes condições:\n\na) Deterem efetivo pecuário identificado e registado na base de dados de apoio ao Sistema Nacional de Informação e Registo Animal (SNIRA), quanto às espécies bovina, ovina e caprina;\n\nb) Deterem equídeos identificados e registados no Registo Nacional de Equídeos (RNE)."
+  },
+  "200630783": {
+   "fragment_id": "200673508",
+   "type": 11,
+   "heading": "Artigo 4.º — Dotação orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dotação orçamental\n\nA dotação global afeta ao apoio previsto na presente portaria é de 500 000 (euro)."
+  },
+  "200630784": {
+   "fragment_id": "200673509",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma e cálculo dos montantes do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma e cálculo dos montantes do apoio\n\n1 - O apoio previsto no presente capítulo assume a forma de ajuda forfetária, não reembolsável.\n\n2 - O montante do apoio é calculado de acordo com os seguintes valores:\n\na) Bovinos das raças de vocação carne:\n\ni) 33 (euro) por macho ou fêmea com idade igual ou superior a 24 meses, registados no SNIRA em nome do produtor no dia 1 de agosto de 2022;\n\nii) 22 (euro) por macho ou fêmea com idade inferior a 24 meses, registados no SNIRA em nome do produtor no dia 1 de agosto de 2022;\n\nb) Ovinos e caprinos - 11 (euro) por ovino ou caprino registado no SNIRA em nome do produtor no dia 1 de agosto de 2022;\n\nc) Equídeos - 33 (euro) por equídeo identificado e registado em nome do produtor no Registo Nacional de Equídeos (RNE) até ao dia 8 de agosto de 2022."
+  },
+  "200630785": {
+   "fragment_id": "200673510",
+   "type": 11,
+   "heading": "Artigo 6.º — Auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Auxílios de Estado\n\n1 - Os apoios previstos na presente portaria são concedidos de acordo com as condições previstas no Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro de 2013, alterado pelo Regulamento (UE) 2019/316, da Comissão, de 21 de fevereiro de 2019, referente aos auxílios de minimis no setor agrícola.\n\n2 - Os apoios a conceder no âmbito da presente portaria são cumuláveis com outros auxílios de minimis, qualquer que seja a sua forma ou o objetivo prosseguido, e independentemente de serem financiados, no todo ou em parte, por recursos da União Europeia, encontrando-se o resultado dessa cumulação sujeito aos limites previstos no Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro de 2013.\n\n3 - Caso se verifique que o montante individual do apoio excecional de crise venha a ultrapassar o limite estipulado no Regulamento (UE) n.º 1408/2013, da Comissão, de 18 de dezembro de 2013, o valor do mesmo por beneficiário é ajustado, reduzindo-se na proporção do excesso verificado e diminuindo-se, em conformidade, o montante individual do apoio."
+  },
+  "200630786": {
+   "fragment_id": "200673511",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento"
+  },
+  "200630787": {
+   "fragment_id": "200673512",
+   "type": 11,
+   "heading": "Artigo 7.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apresentação das candidaturas\n\n1 - As candidaturas aos apoios previstos na presente portaria são submetidas eletronicamente através do formulário próprio disponível no portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em www.ifap.pt.\n\n2 - O período de submissão de candidaturas é divulgado no portal do IFAP, I. P., em www.ifap.pt."
+  },
+  "200630788": {
+   "fragment_id": "200673513",
+   "type": 11,
+   "heading": "Artigo 8.º — Análise, decisão e pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Análise, decisão e pagamento\n\n1 - As candidaturas são analisadas e decididas pelo IFAP, I. P., de acordo com os critérios de elegibilidade previstos na presente portaria.\n\n2 - O pagamento do apoio é efetuado pelo IFAP, I. P., aos beneficiários."
+  },
+  "200630789": {
+   "fragment_id": "200673514",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gestão orçamental\n\nCaso o montante afeto às candidaturas aprovadas ultrapasse o valor definido no artigo 4.º o pagamento a cada um dos beneficiários é objeto de redução proporcional entre os candidatos."
+  },
+  "200630790": {
+   "fragment_id": "200673515",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "200630792": {
+   "fragment_id": "200673517",
+   "type": 14,
+   "heading": "Anexo — Freguesias cujas áreas foram atingidas pelos incêndios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Freguesias cujas áreas foram atingidas pelos incêndios\n\n(a que se refere o artigo 2.º)\n\nAbiul.\n\nAbrunhosa-a-Velha.\n\nAguieiras.\n\nAlfarela de Jales.\n\nAlmancil.\n\nAlmoster.\n\nAlvendre.\n\nAncede e Ribadouro.\n\nAngeja.\n\nAnsião.\n\nArrifana.\n\nAvelãs de Ambom e Rocamondo.\n\nBaião (Santa Leocádia) e Mesquinhata.\n\nBritelo.\n\nBustelo.\n\nBustelo, Carneiro e Carvalho de Rei.\n\nCabo.\n\nCalvão e Soutelinho da Raia.\n\nCanaveses.\n\nCandemil.\n\nCanelas e Fermelã.\n\nCantar-Galo e Vila do Carvalho Caranguejeira.\n\nCarragozela e Várzea de Meruge.\n\nCarrapichana.\n\nCarrazedo de Montenegro e Curros Carva e Vilares.\n\nCastanheiro do Norte e Ribalonga.\n\nCodesseiro.\n\nColmeias e Memória.\n\nCortiçô da Serra, Vide entre Vinhas e Salgueirais.\n\nCorujeira e Trinta.\n\nCovas e Vila Nova de Oliveirinha.\n\nEntre Ambos-os-Rios, Ermida e Germil.\n\nErvededo.\n\nEspite.\n\nFaia.\n\nFamalicão.\n\nFernão Joanes.\n\nFigueiró da Serra e Freixo da Serra.\n\nFiolhoso.\n\nFolgosinho.\n\nFreixianda, Ribeira do Farrio e Formigais.\n\nFundão, Valverde, Donas, A Joanes, A Nova Cabo.\n\nGonçalo Bocas.\n\nGove.\n\nGuarda.\n\nJarmelo São Miguel.\n\nJou.\n\nJuncais, Vila Ruiva e Vila Soeiro do Chão.\n\nLagares.\n\nLama de Arcos.\n\nLameiras.\n\nLavandeira, Beira Grande e Selores.\n\nLindoso.\n\nLinhares (região norte e região centro).\n\nMairos.\n\nManteigas (Santa Maria).\n\nManteigas (São Pedro).\n\nMarzagão.\n\nMeios.\n\nMeruge.\n\nMilagres.\n\nMontenegro.\n\nMurça.\n\nNoura e Palheiros.\n\nOuteiro Seco.\n\nPalmela.\n\nParanhos Pelmá.\n\nPêro Viseu.\n\nPinhel.\n\nPombal.\n\nPousaflores.\n\nQuarteira.\n\nQuinta do Anjo.\n\nSameice e Santa Eulália.\n\nSameiro.\n\nSanta Eufémia e Boa Vista.\n\nSanta Maria de Emeres.\n\nSantiago da Guarda.\n\nSanto Estêvão e Moita.\n\nSão Bartolomeu de Messines.\n\nSão Marcos da Serra.\n\nSão Pedro Velho.\n\nSão Pedro e Santa Maria e Vila Boa do Mondego.\n\nSeixo da Beira.\n\nSouto de Carpalhosa e Ortigosa.\n\nTeixeira e Teixeiró.\n\nTeixoso e Sarzedo.\n\nTourais e Lajes.\n\nTrancozelos.\n\nTravancinha.\n\nTresminas.\n\nUnião de Freguesias de Corujeira e Trinta.\n\nUrrós e Peredo dos Castelhanos.\n\nVale de Amoreira.\n\nVales.\n\nValongo de Milhais.\n\nValhelhas.\n\nVerdelhos.\n\nVidemonte.\n\nVila Cortês da Serra.\n\nVila Cova do Covelo e Mareco.\n\nVila Pouca de Aguiar.\n\nVilarelho da Raia.\n\nVilela Seca.\n\nVreia de Jales.\n\n115616828"
+  }
+ }
+}

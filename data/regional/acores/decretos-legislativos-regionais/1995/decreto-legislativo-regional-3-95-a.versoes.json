@@ -1,0 +1,115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:166802:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1995-989382425",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-1995-166802",
+ "source_lastmod": "2025-12-17",
+ "versions": [
+  {
+   "date": "1995-03-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "989535975",
+    "989535976",
+    "989535977",
+    "989535978",
+    "989535979",
+    "989535980"
+   ]
+  },
+  {
+   "date": "1995-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584649:por",
+     "title": "Declaração de Rectificação n.º 77/95",
+     "published": "1995-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/77-1995-584649"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º"
+   ],
+   "fragments": [
+    "989535975",
+    "989535976",
+    "989535977",
+    "989535984",
+    "989535979",
+    "989535980",
+    "989535981"
+   ]
+  }
+ ],
+ "fragments": {
+  "989535975": {
+   "fragment_id": "989382426",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 3/95/A\n\nMedidas de descongestionamento da Administração Pública\n\nO Decreto-Lei n.º 247/92, de 7 de Novembro, prevê um conjunto de medidas de descongestionamento da Administração Pública, tendo em conta a evolução das suas necessidades.\n\nO presente decreto legislativo regional visa estabelecer as adaptações necessárias, em virtude de certas especificidades da Região e da administração regional autónoma dos Açores.\n\nCom efeito, os recursos humanos existentes na administração regional autónoma dos Açores, apesar de não originarem situações de significativa subutilização e desocupação, exigem, no entanto, pontualmente, a adopção de medidas de descongestionamento em determinadas áreas de pessoal, potenciando-se a possibilidade de um maior aproveitamento nas áreas mais credenciadas, bem como a dinamização e racionalização do pleno emprego dos recursos humanos.\n\nAtendendo, no entanto, às epecificidades próprias da Região e, nomeadamente, à proliferação dos serviços da Administração por nove ilhas, que dificulta a transferência dos funcionários para o quadro de outros serviços ou organismos públicos, aliada à necessidade de preservar uma estabilidade social só possível através da garantia da manutenção do emprego na Região, adoptam-se medidas de descongestionamento previstas no Decreto-Lei n.º 247/92, de 7 de Novembro, com base na iniciativa dos funcionários e agentes da administração regional autónoma e depois de ouvidas as associações representantivas do sector, de acordo com a alínea a) do n.º 2 do artigo 56.º da Constituição.\n\nAssim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:"
+  },
+  "989535976": {
+   "fragment_id": "989382427",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nOcorrendo alguma das situações a que se refere o artigo 2.º, n.º 1, do Decreto-Lei n.º 247/92, de 7 de Novembro, a matéria relativa a medidas excepcionais de descongestionamento da função pública consagrada no mesmo diploma aplica-se aos serviços da administração regional autónoma dos Açores, bem como aos fundos públicos e aos institutos públicos na modalidade de serviços personalizados da mesma Região, de acordo com as adaptações constantes do presente diploma."
+  },
+  "989535977": {
+   "fragment_id": "989382428",
+   "type": 11,
+   "heading": "Artigo 2.º — Aposentação voluntária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aposentação voluntária\n\nPodem beneficiar da medida de descongestionamento a que se refere o artigo 7.º do Decreto-Lei n.º 247/92, de 7 de Novembro, os funcionários e agentes dos serviços referidos no artigo anterior."
+  },
+  "989535978": {
+   "fragment_id": "989382429",
+   "type": 11,
+   "heading": "Artigo 3.º — Formalidades a observar na aposentação voluntária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Formalidades a observar na aposentação voluntária\n\n1 - Os funcionários e agentes que pretendam usufruir da aposentação voluntária deverão manifestá-lo, por escrito, no respectivo serviço, no prazo de 90 dias após a entrada em vigor do presente diploma.\n\n2 - A constituição da situação a que se refere o número anterior depende da publicação no Jornal Oficial da lista nominativa do pessoal dos serviços e organismos públicos que são abrangidos por qualquer das situações referidas no artigo 2.º, n.º 1, do Decreto-Lei n.º 247/92, de 7 de Novembro.\n\n3 - Os funcionários e agentes deverão requerer a passagem à aposentação voluntária no prazo de 30 dias a contar da publicação da lista nominativa do pessoal no Jornal Oficial."
+  },
+  "989535979": {
+   "fragment_id": "989382430",
+   "type": 11,
+   "heading": "Artigo 4.º — Quadros de efectivos interdepartamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Quadros de efectivos interdepartamentais\n\nFace à evolução dos efectivos da administração regional autónoma dos Açores, deverá ser regulamentado por decreto legislativo regional o disposto no n.º 2 do artigo 11.º do Decreto-Lei n.º 247/92, de 7 de Novembro."
+  },
+  "989535980": {
+   "fragment_id": "989382431",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor na data da sua publicação."
+  },
+  "989535984": {
+   "fragment_id": "989382429",
+   "type": 11,
+   "heading": "Artigo 3.º — Formalidades a observar na aposentação voluntária",
+   "in_force_from": "1995-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 77/95 - Diário da República n.º 149/1995, 1º Suplemento, Série I-A de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/77-1995-584649), em vigor a partir de 1995-06-30"
+   ],
+   "markdown": "###### Artigo 3.º — Formalidades a observar na aposentação voluntária\n\n1 - Os funcionários e agentes que pretendam usufruir da aposentação voluntária deverão manifestá-lo, por escrito, no respectivo serviço, no prazo de 90 dias após a entrada em vigor do presente diploma.\n\n2 - A constituição da situação a que se refere o número anterior depende da publicação no Jornal Oficial da lista nominativa do pessoal dos serviços e organismos públicos que são abrangidos por qualquer das situações referidas no artigo 2.º, n.º 1, do Decreto-Lei n.º 247/92, de 7 de Novembro.\n\n3 - Os funcionários e agentes deverão requerer a passagem à aposentação voluntária  no prazo de 60 dias a contar da publicação da lista nominativa do pessoal no Jornal Oficial.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 77/95 - Diário da República n.º 149/1995, 1º Suplemento, Série I-A de 1995-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/77-1995-584649), em vigor a partir de 1995-06-30"
+  },
+  "989535981": {
+   "fragment_id": "989382432",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Janeiro de 1995.\n\nO Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.\n\nAssinado em Angra do Heroísmo em 20 de Fevereiro de 1995.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto."
+  }
+ }
+}

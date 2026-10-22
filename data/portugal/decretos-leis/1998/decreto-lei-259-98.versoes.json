@@ -1,0 +1,1585 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:437237:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-1016097518",
+ "dre_path": "/dr/detalhe/decreto-lei/259-1998-437237",
+ "source_lastmod": "2026-05-11",
+ "versions": [
+  {
+   "date": "1998-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:574712:por",
+     "title": "Declaração de Rectificação n.º 13-E/98",
+     "published": "1998-08-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/13-e-1998-574712"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 21.º"
+   ],
+   "fragments": [
+    "1016461975",
+    "1016462175",
+    "1016462375",
+    "1016462575",
+    "1016462775",
+    "1016462975",
+    "1016463175",
+    "1016463375",
+    "1016463575",
+    "1016463775",
+    "1016463975",
+    "1016464175",
+    "1016464375",
+    "1016464575",
+    "1016464775",
+    "1016464975",
+    "1016465175",
+    "1016465375",
+    "1016465575",
+    "1016465775",
+    "1016465975",
+    "1016466175",
+    "1016466375",
+    "1016466575",
+    "1016466775",
+    "1016466975",
+    "1016467175",
+    "1016467375",
+    "1116789575",
+    "1016467775",
+    "1016467975",
+    "1016468175",
+    "1016468375",
+    "1016468575",
+    "1016468775",
+    "1016468975",
+    "1016469175",
+    "1016469375",
+    "1016469575",
+    "1016469775",
+    "1016469975",
+    "1016470175",
+    "1016470375",
+    "1016470575",
+    "1016470775",
+    "1016470975",
+    "1016471175",
+    "1016471375",
+    "1016471575",
+    "1016471775",
+    "1016471975",
+    "1016472175",
+    "1016472375",
+    "1016472575",
+    "1016472775",
+    "1016472975",
+    "1016473175",
+    "1016473375",
+    "1016473575",
+    "1016473775",
+    "1016473975"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:499502:por",
+     "title": "Lei n.º 68/2013",
+     "published": "2013-08-29",
+     "dre_path": "/dr/detalhe/lei/68-2013-499502",
+     "date": "1998-09-17"
+    }
+   ]
+  },
+  {
+   "date": "2006-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:538820:por",
+     "title": "Decreto-Lei n.º 169/2006",
+     "published": "2006-08-17",
+     "dre_path": "/dr/detalhe/decreto-lei/169-2006-538820"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "1016461975",
+    "1016462175",
+    "1016462375",
+    "1016462575",
+    "1016462775",
+    "1016462975",
+    "1016463175",
+    "1016463375",
+    "1016463575",
+    "1016463775",
+    "1016463975",
+    "1016464175",
+    "1016464375",
+    "1016464575",
+    "1016464775",
+    "1016464975",
+    "1016465175",
+    "1016465375",
+    "1016465575",
+    "1016465775",
+    "1016465975",
+    "1016466175",
+    "1016466375",
+    "1016466575",
+    "1016466775",
+    "1016466975",
+    "1016467175",
+    "1016467375",
+    "1116789575",
+    "1016467775",
+    "1016467975",
+    "1016468175",
+    "1016468375",
+    "1016468575",
+    "1016468775",
+    "1016468975",
+    "1016469175",
+    "1119879775",
+    "1016469575",
+    "1016469775",
+    "1016469975",
+    "1016470175",
+    "1016470375",
+    "1016470575",
+    "1016470775",
+    "1016470975",
+    "1016471175",
+    "1016471375",
+    "1016471575",
+    "1016471775",
+    "1016471975",
+    "1016472175",
+    "1016472375",
+    "1016472575",
+    "1016472775",
+    "1016472975",
+    "1016473175",
+    "1016473375",
+    "1016473575",
+    "1016473775",
+    "1016473975"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243747:por",
+     "title": "Lei n.º 64-A/2008",
+     "published": "2008-12-31",
+     "dre_path": "/dr/detalhe/lei/64-a-2008-243747"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "1016461975",
+    "1016462175",
+    "1016462375",
+    "1016462575",
+    "1016462775",
+    "1016462975",
+    "1016463175",
+    "1016463375",
+    "1016463575",
+    "1016463775",
+    "1016463975",
+    "1016464175",
+    "1016464375",
+    "1016464575",
+    "1016464775",
+    "1122015675",
+    "1016465175",
+    "1016465375",
+    "1016465575",
+    "1016465775",
+    "1016465975",
+    "1016466175",
+    "1016466375",
+    "1016466575",
+    "1016466775",
+    "1016466975",
+    "1016467175",
+    "1016467375",
+    "1116789575",
+    "1016467775",
+    "1016467975",
+    "1016468175",
+    "1016468375",
+    "1016468575",
+    "1016468775",
+    "1016468975",
+    "1016469175",
+    "1119879775",
+    "1016469575",
+    "1016469775",
+    "1016469975",
+    "1016470175",
+    "1016470375",
+    "1016470575",
+    "1016470775",
+    "1016470975",
+    "1016471175",
+    "1016471375",
+    "1016471575",
+    "1016471775",
+    "1016471975",
+    "1016472175",
+    "1016472375",
+    "1016472575",
+    "1016472775",
+    "1016472975",
+    "1016473175",
+    "1016473375",
+    "1016473575",
+    "1016473775",
+    "1016473975"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:189513:por",
+     "title": "Lei n.º 66/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-2012-189513"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º"
+   ],
+   "fragments": [
+    "1016461975",
+    "1016462175",
+    "1016462375",
+    "1016462575",
+    "1016462775",
+    "1016462975",
+    "1016463175",
+    "1016463375",
+    "1016463575",
+    "1016463775",
+    "1016463975",
+    "1016464175",
+    "1016464375",
+    "1016464575",
+    "1016464775",
+    "1122015675",
+    "1016465175",
+    "1016465375",
+    "1016465575",
+    "1016465775",
+    "1016465975",
+    "1016466175",
+    "1016466375",
+    "1016466575",
+    "1016466775",
+    "1016466975",
+    "1016467175",
+    "1016467375",
+    "1116789575",
+    "1125660575",
+    "1016467975",
+    "1016468175",
+    "1016468375",
+    "1016468575",
+    "1016468775",
+    "1016468975",
+    "1016469175",
+    "1119879775",
+    "1125659975",
+    "1016469775",
+    "1016469975",
+    "1016470175",
+    "1016470375",
+    "1125660175",
+    "1016470775",
+    "1125660375",
+    "1016471175",
+    "1016471375",
+    "1016471575",
+    "1016471775",
+    "1016471975",
+    "1016472175",
+    "1016472375",
+    "1016472575",
+    "1016472775",
+    "1016472975",
+    "1016473175",
+    "1016473375",
+    "1016473575",
+    "1016473775",
+    "1016473975"
+   ]
+  },
+  {
+   "date": "2014-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25676932:por",
+     "title": "Lei n.º 35/2014",
+     "published": "2014-06-20",
+     "dre_path": "/dr/detalhe/lei/35-2014-25676932"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1127159675",
+    "1127159875",
+    "1127159975",
+    "1127160075",
+    "1127160175",
+    "1127160275",
+    "1127160375",
+    "1127160475",
+    "1127160575",
+    "1127160675",
+    "1127160775",
+    "1127160875",
+    "1127160975",
+    "1127161075",
+    "1127161175",
+    "1127161275",
+    "1127161375",
+    "1127161475",
+    "1127161575",
+    "1127161675",
+    "1127161775",
+    "1127161875",
+    "1127161975",
+    "1127162075",
+    "1127162175",
+    "1127162375",
+    "1127162475",
+    "1127162575",
+    "1127162675",
+    "1127162775",
+    "1127162875",
+    "1127162975",
+    "1127163075",
+    "1127163175",
+    "1127163275",
+    "1127163375",
+    "1127163475",
+    "1127163575",
+    "1127163675",
+    "1127163775",
+    "1127163875",
+    "1127163975",
+    "1127164075",
+    "1127164175",
+    "1127164275",
+    "1127164375",
+    "1127164475",
+    "1127164575",
+    "1127164675",
+    "1127164775",
+    "1127164875",
+    "1127164975",
+    "1127165075",
+    "1127165175",
+    "1127165275",
+    "1127165375",
+    "1127165475",
+    "1127165575",
+    "1127165675",
+    "1127165775",
+    "1127165875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1016461975": {
+   "fragment_id": "1016461875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Com a publicação do Decreto-Lei n.º 187/88, de 27 de Maio, consagrou-se, pela primeira vez na Administração Pública, um instrumento legal que, de modo sistemático, reuniu os princípios fundamentais enformadores do regime jurídico da duração de trabalho.\n\nDecorridos cerca de 10 anos sobre a sua aplicação, impõe-se adaptar este regime às transformações sócio-laborais que se têm vindo a verificar, bem como às alterações que a experiência vem ditando, no sentido de melhorar o funcionamento e a operacionalidade dos serviços e organismos da Administração Pública, tendo em vista a sua adequação às necessidades e à disponibilidade dos cidadãos.\n\nDe entre as alterações introduzidas merecem realce: a distinção entre o período de funcionamento e o período de atendimento, com a obrigatoriedade de afixação pública deste, a uniformização da duração do horário de trabalho, sem prejuízo da fixação de um período transitório, a consagração da audição dos trabalhadores, através das suas organizações representativas, na fixação das condições de prestação de trabalho, a faculdade da abertura dos serviços em dias de feiras e mercados relevantes, a criação do regime de prestação de trabalho sujeito apenas ao cumprimento de objectivos, situação que facilita a concretização do designado «teletrabalho», o alargamento do âmbito de aplicação do trabalho a meio tempo e a atribuição dos dirigentes máximos dos serviços da responsabilidade de gestão dos regimes de prestação de trabalho, entre outras.\n\nAs alterações, ora propostas, foram negociadas com as organizações representativas dos trabalhadores da função pública, no quadro do acordo salarial para 1996 e compromissos de médio e longo prazos.\n\nForam ouvidos os órgãos de Governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo n.º 1 do artigo único da Lei n.º 11/98, de 24 de Fevereiro, e nos termos do n.º 5 do artigo 112.º e da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1016462175": {
+   "fragment_id": "1016462075",
+   "type": 1,
+   "heading": "Capítulo I — Objecto, âmbito e princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto, âmbito e princípios gerais"
+  },
+  "1016462375": {
+   "fragment_id": "1016462275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma estabelece as regras e os princípios gerais em matéria de duração e horário de trabalho na Administração Pública.\n\n2 - O regime instituído no presente diploma aplica-se a todos os serviços da Administração Pública, incluindo os institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos."
+  },
+  "1016462575": {
+   "fragment_id": "1016462475",
+   "type": 11,
+   "heading": "Artigo 2.º — Período de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Período de funcionamento\n\n1 - Entende-se por período de funcionamento o período diário durante o qual os serviços exercem a sua actividade.\n\n2 - Sem prejuízo do disposto no artigo 10.º, o período normal de funcionamento dos serviços não pode iniciar-se antes das 8 horas, nem terminar depois das 20 horas, sendo obrigatoriamente afixado de modo visível aos funcionários e agentes."
+  },
+  "1016462775": {
+   "fragment_id": "1016462675",
+   "type": 11,
+   "heading": "Artigo 3.º — Período de atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Período de atendimento\n\n1 - Entende-se por período de atendimento o período durante o qual os serviços estão abertos para atender o público, podendo este período ser igual ou inferior ao período de funcionamento.\n\n2 - O período de atendimento deve, tendencialmente, ter a duração mínima de sete horas diárias, abranger o período da manhã e da tarde e ter obrigatoriamente afixadas, de modo visível ao público, nos locais de atendimento, as horas do seu início e do seu termo.\n\n3 - Na definição e fixação do período de atendimento deve atender-se aos interesses dos utentes dos serviços e respeitar-se os direitos dos respectivos funcionários e agentes.\n\n4 - Os serviços podem estabelecer um período excepcional de atendimento, sempre que o interesse do público fundamentadamente o justifique, designadamente nos dias de feiras e mercados localmente relevantes, ouvindo-se as organizações representativas dos trabalhadores e sem prejuízo do disposto nos artigos 26.º e 33.º\n\n5 - Fora dos períodos de atendimento, os serviços colocam ao dispor dos utentes meios adequados a permitir a comunicação, através da utilização de tecnologias próprias que permitam o seu registo para posterior resposta."
+  },
+  "1016462975": {
+   "fragment_id": "1016462875",
+   "type": 11,
+   "heading": "Artigo 4.º — Regimes de prestação de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regimes de prestação de trabalho\n\nO trabalho pode, de acordo com as atribuições do serviço ou organismo e com a natureza da actividade desenvolvida, ser prestado nos seguintes regimes:\n\na) Sujeito ao cumprimento do horário diário;\n\nb) Sujeito ao cumprimento de objectivos definidos."
+  },
+  "1016463175": {
+   "fragment_id": "1016463075",
+   "type": 11,
+   "heading": "Artigo 5.º — Fixação e compatibilização dos períodos de funcionamento e de atendimento com os regimes de prestação de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fixação e compatibilização dos períodos de funcionamento e de atendimento com os regimes de prestação de trabalho\n\nCompete ao dirigente máximo dos serviços fixar os períodos de funcionamento e atendimento dos serviços, assegurando a sua compatibilidade com a existência de diversos regimes de prestação de trabalho, por forma a garantir o regular cumprimento das missões que lhes estão cometidas."
+  },
+  "1016463375": {
+   "fragment_id": "1016463275",
+   "type": 11,
+   "heading": "Artigo 6.º — Responsabilidade da gestão dos regimes de prestação de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidade da gestão dos regimes de prestação de trabalho\n\n1 - Compete ao dirigente máximo do serviço, em função das atribuições e competências de cada serviço ou organismo:\n\na) Determinar os regimes de prestação de trabalho e horários mais adequados;\n\nb) Aprovar o número de turnos e respectiva duração;\n\nc) Aprovar as escalas nos horários por turnos;\n\nd) Autorizar os horários específicos previstos no artigo 22.º\n\n2 - As matérias constantes nas alíneas a) e b) do número anterior devem ser fixadas em regulamento interno após consulta prévia dos funcionários e agentes, através das suas organizações representativas.\n\n3 - Compete ao pessoal dirigente e de chefia autorizar os funcionários e agentes hierarquicamente dependentes a ausentar-se do serviço durante o período de presença obrigatória."
+  },
+  "1016463575": {
+   "fragment_id": "1016463475",
+   "type": 1,
+   "heading": "Capítulo II — Duração do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Duração do trabalho"
+  },
+  "1016463775": {
+   "fragment_id": "1016463675",
+   "type": 8,
+   "heading": "Secção I — Regime geral da duração de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regime geral da duração de trabalho"
+  },
+  "1016463975": {
+   "fragment_id": "1016463875",
+   "type": 11,
+   "heading": "Artigo 7.º — Duração semanal do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Duração semanal do trabalho\n\n1 - A duração semanal do trabalho nos serviços abrangidos pelo presente diploma é de trinta e cinco horas.\n\n2 - O disposto no número anterior não prejudica a existência de regimes de duração semanal inferior já estabelecidos, nem os que se venham a estabelecer mediante despacho conjunto do membro do Governo responsável pelo serviço e do membro do Governo que tiver a seu cargo a Administração Pública."
+  },
+  "1016464175": {
+   "fragment_id": "1016464075",
+   "type": 11,
+   "heading": "Artigo 8.º — Limite máximo do período normal de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Limite máximo do período normal de trabalho\n\n1 - O período normal de trabalho diário tem a duração de sete horas.\n\n2 - O limite previsto no número anterior não é aplicável no caso de horários flexíveis."
+  },
+  "1016464375": {
+   "fragment_id": "1016464275",
+   "type": 11,
+   "heading": "Artigo 9.º — Semana de trabalho e descanso semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Semana de trabalho e descanso semanal\n\n1 - A semana de trabalho é, em regra, de cinco dias.\n\n2 - Os funcionários e agentes têm direito a um dia de descanso semanal, acrescido de um dia de descanso complementar que devem coincidir com o domingo e o sábado, respectivamente.\n\n3 - Os dias de descanso referidos no número anterior podem deixar de coincidir com o domingo e o sábado nos seguintes casos:\n\na) Pessoal dos serviços que encerrem a sua actividade noutros dias da semana;\n\nb) Pessoal dos serviços cuja continuidade de actividade não possa ser interrompida;\n\nc) Pessoal dos serviços de limpeza e de outros serviços preparatórios ou complementares que devem necessariamente ser efectuados nos dias de descanso do restante pessoal;\n\nd) Pessoal dos serviços de inspecção de actividades que não encerrem ao sábado e ao domingo;\n\ne) Pessoal de outros serviços em que o interesse público o justifique, designadamente nos dias de feiras ou de mercados.\n\n4 - Quando a natureza do serviço ou razões de interesse do público o exijam, pode o dia de descanso complementar ser gozado, segundo opção do funcionário, do seguinte modo:\n\na) Dividido em dois períodos imediatamente anteriores ou posteriores ao dia de descanso semanal;\n\nb) Meio dia imediatamente anterior ou posterior ao dia de descanso semanal, sendo o tempo restante deduzido na duração normal de trabalho dos restantes dias úteis, sem prejuízo da duração semanal de trabalho."
+  },
+  "1016464575": {
+   "fragment_id": "1016464475",
+   "type": 8,
+   "heading": "Secção II — Regimes especiais da duração de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Regimes especiais da duração de trabalho"
+  },
+  "1016464775": {
+   "fragment_id": "1016464675",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime dos serviços de funcionamento especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime dos serviços de funcionamento especial\n\n1 - Nos serviços de regime de funcionamento especial, a semana de trabalho é de cinco dias e meio, sendo reconhecido ao respectivo pessoal o direito a um dia de descanso semanal, acrescido de meio dia de descanso semanal complementar.\n\n2 - Consideram-se serviços de regime de funcionamento especial:\n\na) Os serviços de laboração contínua;\n\nb) Os estabelecimentos de ensino;\n\nc) Os serviços de saúde e os serviços médico-legais;\n\nd) Os mercados e demais serviços de abastecimento;\n\ne) Os cemitérios;\n\nf) Os serviços de luta contra incêndios e de ambulâncias;\n\ng) Os serviços de recolha e tratamento de lixos;\n\nh) Os museus, palácios, monumentos nacionais, sítios e parques arqueológicos, salas de espectáculo e serviços de produção artística, dependentes do Ministério da Cultura;\n\ni) Os serviços de leitura das bibliotecas, arquivos e secções abertos ao público dependentes do Ministério da Cultura;\n\nj) Os postos de turismo.\n\n3 - Nos serviços de regime de funcionamento especial, o meio dia de descanso complementar é sempre gozado no período imediatamente anterior ou posterior ao dia de descanso semanal o qual, por determinação do dirigente máximo do serviço, pode deixar de coincidir com o domingo.\n\n4 - Relativamente a certos grupos profissionais que exerçam funções nos serviços de regime de funcionamento especial, pode, em alternativa, ser determinada a adopção do regime previsto nos n.os 2 a 4 do artigo anterior por despacho do dirigente máximo do serviço.\n\n5 - O regime da semana de cinco dias deve ser progressivamente estendido aos serviços com regime de funcionamento especial, por portaria do membro do Governo competente, do Ministro das Finanças e do membro do Governo que tutela a Administração Pública, desde que daí não resulte o encerramento dos serviços aos utentes nem agravamento dos encargos com o pessoal."
+  },
+  "1016464975": {
+   "fragment_id": "1016464875",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime do trabalho a meio tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime do trabalho a meio tempo\n\n1 - Os funcionários ou agentes com mais de três anos de serviço efectivo podem requerer redução a meio tempo da duração de trabalho, por um período mínimo de trinta dias e máximo de dois anos, podendo esta ser autorizada desde que não implique qualquer prejuízo para o serviço e as características da actividade desenvolvida pelos requerentes o permitam.\n\n2 - O trabalho a tempo parcial a que se refere o número anterior tem a duração de metade do horário normal de trabalho e pode ser prestado diariamente, de manhã ou à tarde, ou três vezes por semana, conforme houver sido requerido.\n\n3 - O requisito de tempo de serviço efectivo estabelecido no n.º 1 não é exigido aos funcionários e agentes que se encontrem nas seguintes situações:\n\na) Tenham a seu cargo descendentes, afins na linha recta descendente, adoptandos ou adoptados menores de 12 anos que desejem orientar directa e pessoalmente;\n\nb) Necessitem de cuidar de descendentes, afins na linha recta descendente, adoptandos ou adoptados cuja enfermidade ou situação específica exija cuidados e acompanhamento directo do ascendente;\n\nc) Tenham a seu cargo descendentes, afins na linha recta descendente, adoptandos ou adoptados portadores de deficiência e que se encontrem nas situações previstas no artigo 5.º do Decreto-Lei n.º 170/80, de 29 de Maio;\n\nd) Pretendam assistir o cônjuge, ou pessoa com quem vivam em condições análogas às dos cônjuges, ascendente ou afim na linha recta ascendente, na sequência de acidente ou doença grave, o seu estado exigir a presença de uma terceira pessoa;\n\ne) Quando sejam portadores de deficiência ou sofram de doença grave e sempre que a junta médica competente recomende o exercício de funções em tempo parcial;\n\nf) Frequentem com aproveitamento cursos de vários graus de ensino com vista à obtenção de habilitações académicas que lhes permitam ingressar ou progredir nas carreiras da função pública.\n\n4 - O gozo de dois anos de redução da duração de trabalho a meio tempo, seguido ou interpolado num período de três anos, impede que se requeira nova redução no prazo de três anos, excepto nas situações previstas no número anterior.\n\n5 - As reduções de duração de trabalho a meio tempo superiores a três meses conferem aos serviços a possibilidade de contratar um trabalhador a termo certo, por período idêntico ao autorizado para a redução, com vista ao desempenho de funções no restante meio tempo.\n\n6 - O funcionário ou agente a quem tenha sido autorizada a redução de trabalho a meio tempo superior a três meses não pode requerer o regresso antecipado ao regime de duração de trabalho a tempo inteiro quando se tenha verificado a sua substituição nos termos do número anterior e só enquanto esta durar.\n\n7 - O trabalho a meio tempo conta, proporcionalmente, para efeitos de carreira e dos decorrentes da antiguidade, sendo a retribuição correspondente a 50% da remuneração base a que o funcionário ou agente tem direito no exercício de funções em tempo completo.\n\n8 - É vedado aos funcionários ou agentes referidos no n.º 1 a prestação de trabalho extraordinário."
+  },
+  "1016465175": {
+   "fragment_id": "1016465075",
+   "type": 11,
+   "heading": "Artigo 12.º — Outros regimes especiais de duração de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Outros regimes especiais de duração de trabalho\n\n1 - Sempre que a política de emprego público o justifique, designadamente a renovação dos efectivos da Administração Pública, podem ser estabelecidos outros regimes de trabalho a tempo parcial.\n\n2 - Quando as características de risco, penosidade e insalubridade decorrentes da actividade exercida o exijam, devem ser fixados regimes de duração semanal inferiores aos previstos no presente diploma."
+  },
+  "1016465375": {
+   "fragment_id": "1016465275",
+   "type": 1,
+   "heading": "Capítulo III — Regimes de trabalho e condições da sua prestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regimes de trabalho e condições da sua prestação"
+  },
+  "1016465575": {
+   "fragment_id": "1016465475",
+   "type": 8,
+   "heading": "Secção I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Princípios gerais"
+  },
+  "1016465775": {
+   "fragment_id": "1016465675",
+   "type": 11,
+   "heading": "Artigo 13.º — Horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Horário de trabalho\n\n1 - Entende-se por horário de trabalho a determinação das horas do início e do termo do período normal de trabalho diário ou dos respectivos limites, bem como dos intervalos de descanso.\n\n2 - O período normal de trabalho diário é interrompido por um intervalo de descanso de duração não inferior a uma hora nem superior a duas, excepto em casos excepcionais devidamente fundamentados, de modo que os funcionários e agentes não prestem mais do que cinco horas de trabalho consecutivo, salvo no caso de jornada contínua.\n\n3 - Pode ser fixado para os funcionários e agentes portadores de deficiência, pelo respectivo dirigente máximo e a pedido do interessado, mais do que um intervalo de repouso e com duração diferente da prevista no número anterior, mas sem exceder no total o limite nele estabelecido.\n\n4 - Ao pessoal encarregado da limpeza dos serviços deve ser fixado um horário especial que recaia apenas num dos períodos do dia e evite a completa coincidência do exercício das suas funções com os períodos normais do serviço ou plataformas fixas."
+  },
+  "1016465975": {
+   "fragment_id": "1016465875",
+   "type": 11,
+   "heading": "Artigo 14.º — Modo de verificação dos deveres de assiduidade e de pontualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Modo de verificação dos deveres de assiduidade e de pontualidade\n\n1 - Os funcionários e agentes devem comparecer regularmente ao serviço às horas que lhes forem designadas e aí permanecer continuamente, não podendo ausentar-se salvo nos termos e pelo tempo autorizados pelo respectivo superior hierárquico, sob pena de marcação de falta, de acordo com a legislação aplicável.\n\n2 - O cumprimento dos deveres de assiduidade e pontualidade, bem como do período normal de trabalho, deve ser verificado por sistemas de registo automáticos, mecânicos ou de outra natureza.\n\n3 - No caso de horários flexíveis, a verificação a que se refere o número anterior deve ser feita, no local de trabalho, através de sistemas de registo automáticos ou mecânicos.\n\n4 - Nos serviços com mais de 50 trabalhadores, a verificação dos deveres de assiduidade e de pontualidade é efectuada por sistemas de registo automáticos ou mecânicos, salvo casos excepcionais, devidamente fundamentados e autorizados pelo dirigente máximo do serviço, com a anuência do respectivo Ministro da tutela e do membro do Governo que tenha a seu cargo a Administração Pública, mediante despacho conjunto."
+  },
+  "1016466175": {
+   "fragment_id": "1016466075",
+   "type": 8,
+   "heading": "Secção II — Modalidades de horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Modalidades de horário de trabalho"
+  },
+  "1016466375": {
+   "fragment_id": "1016466275",
+   "type": 11,
+   "heading": "Artigo 15.º — Modalidades de horário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Modalidades de horário\n\n1 - Em função da natureza das suas actividades, podem os serviços adoptar uma ou, simultaneamente, mais do que uma das seguintes modalidades de horário de trabalho:\n\na) Horários flexíveis;\n\nb) Horário rígido;\n\nc) Horários desfasados;\n\nd) Jornada contínua;\n\ne) Trabalho por turnos.\n\n2 - Para além dos horários referidos no número anterior, podem ser fixados horários específicos de harmonia com o previsto no artigo 22.º"
+  },
+  "1016466575": {
+   "fragment_id": "1016466475",
+   "type": 11,
+   "heading": "Artigo 16.º — Horários flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Horários flexíveis\n\n1 - Horários flexíveis são aqueles que permitem aos funcionários e agentes de um serviço gerir os seus tempos de trabalho, escolhendo as horas de entrada e de saída.\n\n2 - A adopção de qualquer horário flexível está sujeita às seguintes regras:\n\na) A flexibilidade não pode afectar o regular e eficaz funcionamento dos serviços, especialmente no que respeita às relações com o público;\n\nb) É obrigatória a previsão de plataformas fixas da parte da manhã e da parte da tarde, as quais não podem ter, no seu conjunto, duração inferior a quatro horas;\n\nc) Não podem ser prestadas, por dia, mais de nove horas de trabalho;\n\nd) O cumprimento da duração do trabalho deve ser aferido à semana, à quinzena ou ao mês.\n\n3 - O débito de horas, apurado no final de cada período de aferição, dá lugar à marcação de uma falta, que deve ser justificada nos termos da legislação aplicável, por cada período igual ou inferior à duração média diária do trabalho.\n\n4 - Relativamente aos funcionários e agentes portadores de deficiência, o excesso ou débito de horas apurado no final de cada um dos períodos de aferição pode ser transportado para o período imediatamente seguinte e nele compensado, desde que não ultrapasse o limite de cinco e dez horas, respectivamente, para a quinzena e para o mês.\n\n5 - Para efeitos do disposto no n.º 3, a duração média do trabalho é de sete horas e, nos serviços com funcionamento ao sábado de manhã, a que resultar do respectivo regulamento.\n\n6 - As faltas a que se refere o n.º 3 são reportadas ao último dia ou dias do período de aferição a que o débito respeita."
+  },
+  "1016466775": {
+   "fragment_id": "1016466675",
+   "type": 11,
+   "heading": "Artigo 17.º — Horário rígido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Horário rígido\n\n1 - Horário rígido é aquele que, exigindo o cumprimento da duração semanal do trabalho, se reparte por dois períodos diários, com horas de entrada e de saída fixas idênticas, separados por um intervalo de descanso.\n\n2 - O horário rígido é o seguinte:\n\na) Serviços de regime de funcionamento comum que encerram ao sábado:\n\nPeríodo da manhã - das 9 horas às 12 horas e 30 minutos;\n\nPeríodo da tarde - das 14 horas às 17 horas e 30 minutos;\n\nb) Serviços de regime de funcionamento especial que funcionam ao sábado de manhã:\n\nPeríodo da manhã - das 9 horas e 30 minutos às 12 horas e 30 minutos de segunda-feira a sexta-feira, e até às 12 horas aos sábados;\n\nPeríodo da tarde - das 14 horas às 17 horas e 30 minutos de segunda-feira a sexta-feira.\n\n3 - A adopção do horário rígido não prejudica o estabelecido no n.º 3 do artigo 13.º"
+  },
+  "1016466975": {
+   "fragment_id": "1016466875",
+   "type": 11,
+   "heading": "Artigo 18.º — Horários desfasados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Horários desfasados\n\nHorários desfasados são aqueles que, embora mantendo inalterado o período normal de trabalho diário, permitem estabelecer, serviço a serviço ou para determinado grupo ou grupos de pessoal, e sem possibilidade de opção, horas fixas diferentes de entrada e de saída."
+  },
+  "1016467175": {
+   "fragment_id": "1016467075",
+   "type": 11,
+   "heading": "Artigo 19.º — Jornada contínua",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Jornada contínua\n\n1 - A jornada contínua consiste na prestação ininterrupta de trabalho, salvo um período de descanso nunca superior a trinta minutos, que, para todos os efeitos, se considera tempo de trabalho.\n\n2 - A jornada contínua deve ocupar, predominantemente, um dos períodos do dia e determinar uma redução do período normal de trabalho diário nunca superior a uma hora, a fixar na regulamentação a que se refere o n.º 2 do artigo 6.º\n\n3 - A jornada contínua pode ser adoptada nos casos previstos no artigo 22.º e em casos excepcionais devidamente fundamentados."
+  },
+  "1016467375": {
+   "fragment_id": "1016467275",
+   "type": 11,
+   "heading": "Artigo 20.º — Trabalho por turnos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Trabalho por turnos\n\n1 - O trabalho por turnos é aquele em que, por necessidade do regular e normal funcionamento do serviço, há lugar à prestação de trabalho em pelo menos dois períodos diários e sucessivos, sendo cada um de duração não inferior à duração média diária do trabalho.\n\n2 - A prestação de trabalho por turnos deve obedecer às seguintes regras:\n\na) Os turnos são rotativos, estando o respectivo pessoal sujeito à sua variação regular;\n\nb) Nos serviços de funcionamento permanente não podem ser prestados mais de seis dias consecutivos de trabalho;\n\nc) As interrupções a observar em cada turno devem obedecer ao princípio de que não podem ser prestadas mais de cinco horas de trabalho consecutivo;\n\nd) As interrupções destinadas a repouso ou refeição, quando não superiores a 30 minutos, consideram-se incluídas no período de trabalho;\n\ne) O dia de descanso semanal deve coincidir com o domingo, pelo menos uma vez em cada período de quatro semanas;\n\nf) Salvo casos excepcionais, como tal reconhecidos pelo dirigente do serviço e aceites pelo interessado, a mudança de turno só pode ocorrer após o dia de descanso."
+  },
+  "1116789575": {
+   "fragment_id": "1016467475",
+   "type": 11,
+   "heading": "Artigo 21.º — Subsídio de turno",
+   "in_force_from": "1998-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 13-E/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-e-1998-574712), em vigor a partir de 1998-08-31."
+   ],
+   "markdown": "###### Artigo 21.º — Subsídio de turno\n\n1 - O pessoal em regime de trabalho por turnos, desde que um dos turnos seja total ou parcialmente coincidente com o período nocturno, tem direito a um subsídio correspondente a um acréscimo de remuneração.\n\n2 - O montante do subsídio de turno é variável em função do número de turnos adoptados, bem como do carácter permanente ou não do funcionamento do serviço.\n\n3 - As percentagens fixadas para o subsídio de turno incluem a remuneração devida por trabalho nocturno.\n\n4 - A prestação de trabalho em regime de turnos confere direito a atribuição de um subsídio correspondente a um acréscimo de remuneração calculada sobre o vencimento fixado no índice remuneratório da categoria onde o trabalhador estiver posicionado de acordo com as seguintes percentagens:\n\na) 25% a 22% quando o regime de turnos for permanente, total ou parcial;\n\nb) 22% a 20% quando o regime de turnos for semanal prolongado, total ou parcial;\n\nc) 20% a 15% quando o regime de turnos for semanal total ou parcial.\n\n5 - As percentagens de acréscimo de remuneração referidas no número anterior são estabelecidas no regulamento interno a que se refere o n.º 2 do artigo 6.º tendo em conta o regime de turnos.\n\n6 - O regime de turnos será permanente quando o trabalho for prestado em todos os sete dias da semana, semanal prolongado quando for prestado em todos os cinco dias úteis e no sábado ou domingo e semanal quando for prestado apenas de segunda-feira a sexta-feira.\n\n7 - O regime de turnos será total quando for prestado em, pelos menos, três períodos de trabalho diário e parcial quando for prestado apenas em dois períodos.\n\n8 - A percepção do subsídio de turno não afasta a remuneração por trabalho extraordinário e em dias de descanso semanal ou complementar, nos termos da lei geral, sempre que haja necessidade de prolongar o período de trabalho.\n\n9 - Só há lugar a subsídio de turno enquanto for devido o vencimento de exercício.\n\n10 - O subsídio de um turno está sujeito ao desconto da quota legal para a Caixa Geral de Aposentações e intervém no cálculo da pensão de aposentação pela forma prevista na alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 13-E/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-e-1998-574712), em vigor a partir de 1998-08-31."
+  },
+  "1016467775": {
+   "fragment_id": "1016467675",
+   "type": 11,
+   "heading": "Artigo 22.º — Horários específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Horários específicos\n\n1 - Os dirigentes dos serviços devem fixar aos trabalhadores-estudantes, nos termos da Lei n.º 116/97, de 4 de Novembro, horários de trabalho adequados à frequência das aulas e às inerentes deslocações para os respectivos estabelecimentos de ensino.\n\n2 - De igual modo, aos funcionários e agentes com descendentes ou afins na linha recta descendente, adoptandos ou adoptados a cargo, com idade inferior a 12 anos ou que sejam portadores de deficiência e se encontrem em alguma das situações previstas no artigo 5.º do Decreto-Lei n.º 170/80, de 29 de Maio, devem ser fixados, nos termos do artigo 15.º da Lei n.º 4/84, de 5 de Abril, alterada pela Lei n.º 17/95, de 9 de Junho, pelo Decreto-Lei n.º 194/96, de 16 de Outubro, e pela Lei n.º 102/97, de 13 de Setembro, horários de trabalho ajustados, na medida do possível, ao acompanhamento dos mesmos.\n\n3 - No interesse dos funcionários e agentes, podem ainda ser fixados horários específicos sempre que outras circunstâncias relevantes, devidamente fundamentadas, o justifiquem.\n\n4 - Os horários referidos nos números anteriores são fixados pelos dirigentes dos serviços, a requerimento dos interessados, e podem incluir, para além da jornada contínua, regimes de flexibilidade mais amplos, sem prejuízo da observância do disposto no artigo 13.º\n\n5 - Podem ainda ser fixados outros horários específicos sempre que circunstâncias relevantes relacionadas com a natureza das actividades desenvolvidas, devidamente fundamentadas e sujeitas a consulta prévia dos funcionários e agentes, através das suas organizações representativas, o justifiquem."
+  },
+  "1016467975": {
+   "fragment_id": "1016467875",
+   "type": 8,
+   "heading": "Secção III — Não sujeição a horário de trabalho e isenção de horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Não sujeição a horário de trabalho e isenção de horário de trabalho"
+  },
+  "1016468175": {
+   "fragment_id": "1016468075",
+   "type": 11,
+   "heading": "Artigo 23.º — Não sujeição a horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Não sujeição a horário de trabalho\n\n1 - Entende-se por não sujeição a horário de trabalho a prestação de trabalho não sujeita ao cumprimento de qualquer das modalidades de horário previstas no presente diploma, nem à observância do dever geral de assiduidade e de cumprimento da duração semanal de trabalho.\n\n2 - A adopção de qualquer regime de prestação de trabalho não sujeita a horário obedece às seguintes regras:\n\na) Concordância expressa do funcionário ou agente relativamente às tarefas e aos prazos da sua realização;\n\nb) Destinar-se à realização de tarefas constantes do plano de actividades do serviço, desde que calendarizadas, e cuja execução esteja atribuída ao funcionário não sujeito a horário;\n\nc) Fixação de um prazo certo para a realização da tarefa a executar, que não eleve exceder o limite máximo de 10 dias úteis;\n\nd) Não autorização ao mesmo funcionário mais do que uma vez por trimestre.\n\n3 - O não cumprimento da tarefa no prazo acordado, sem motivos justificados, impede o funcionário ou agente de utilizar este regime durante o prazo de um ano a contar da data do incumprimento.\n\n4 - A não sujeição a horário de trabalho não dispensa o contacto regular do funcionário com o serviço, nem a sua presença no local do trabalho, sempre que tal se mostre necessário."
+  },
+  "1016468375": {
+   "fragment_id": "1016468275",
+   "type": 11,
+   "heading": "Artigo 24.º — Isenção de horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Isenção de horário de trabalho\n\n1 - Gozam da isenção de horário de trabalho o pessoal dirigente, bem como os chefes de repartição e de secção e o pessoal de categorias legalmente equiparadas, bem como o pessoal cujas funções não conferem direito a trabalho extraordinário.\n\n2 - A isenção de horário não dispensa a observância do dever geral de assiduidade, nem o cumprimento da duração semanal de trabalho legalmente estabelecida."
+  },
+  "1016468575": {
+   "fragment_id": "1016468475",
+   "type": 1,
+   "heading": "Capítulo IV — Trabalho extraordinário, nocturno, em dias de descanso e em feriados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Trabalho extraordinário, nocturno, em dias de descanso e em feriados"
+  },
+  "1016468775": {
+   "fragment_id": "1016468675",
+   "type": 8,
+   "heading": "Secção I — Trabalho extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Trabalho extraordinário"
+  },
+  "1016468975": {
+   "fragment_id": "1016468875",
+   "type": 11,
+   "heading": "Artigo 25.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Noção\n\n1 - Considera-se extraordinário o trabalho que for prestado:\n\na) Fora do período normal de trabalho diário;\n\nb) Nos casos de horário flexível, para além do número de horas a que o trabalhador se encontra obrigado em cada um dos períodos de aferição ou fora do período de funcionamento normal do serviço.\n\n2 - Não há lugar a trabalho extraordinário no regime de isenção de horário e no regime de não sujeição a horário de trabalho."
+  },
+  "1016469175": {
+   "fragment_id": "1016469075",
+   "type": 11,
+   "heading": "Artigo 26.º — Prestação de trabalho extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Prestação de trabalho extraordinário\n\n1 - Só é admitida a prestação de trabalho extraordinário quando as necessidades do serviço imperiosamente o exigirem, em virtude da acumulação anormal ou imprevista de trabalho ou da urgência na realização de tarefas especiais não constantes do plano de actividades e, ainda, em situações que resultem de imposição legal.\n\n2 - Salvo o disposto no número seguinte, os funcionários e agentes não podem recusar-se ao cumprimento de trabalho extraordinário.\n\n3 - Não são obrigados à prestação de trabalho extraordinário os funcionários ou agentes que:\n\na) Sejam portadores de deficiência;\n\nb) Estejam em situação de gravidez;\n\nc) Tenham à sua guarda descendentes ou afins na linha recta, adoptandos ou adoptados de idade inferior a 12 anos ou que, sendo portadores de deficiência, careçam de acompanhamento dos progenitores;\n\nd) Gozem do estatuto de trabalhador-estudante;\n\ne) Invoquem motivos atendíveis."
+  },
+  "1016469375": {
+   "fragment_id": "1016469275",
+   "type": 11,
+   "heading": "Artigo 27.º — Limites ao trabalho extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Limites ao trabalho extraordinário\n\n1 - O trabalho extraordinário não pode exceder duas horas por dia, nem ultrapassar cento e vinte horas por ano.\n\n2 - A prestação de trabalho extraordinário não pode determinar um período de trabalho diário superior a nove horas.\n\n3 - Os limites fixados nos números anteriores podem, no entanto, ser ultrapassados:\n\na) Em casos especiais, regulados em diploma próprio, a negociar com as associações sindicais;\n\nb) Quando se trate de motoristas, telefonistas e outro pessoal auxiliar que seja indispensável manter ao serviço;\n\nc) Quando se trate de pessoal administrativo e auxiliar que preste serviço nos gabinetes dos membros do Governo ou equiparados e de pessoal da Presidência da República destacado para, normal ou eventualmente, prestar apoio ao Gabinete do Presidente da República;\n\nd) Em circunstâncias excepcionais e delimitadas no tempo, mediante autorização do membro do Governo competente ou, quando esta não for possível, mediante confirmação da mesma entidade, a proferir nos 15 dias posteriores à ocorrência.\n\n4 - Nos casos das alíneas b) e d) a não oposição dos trabalhadores vale como assentimento à prestação do trabalho.\n\n5 - Na administração local, os limites fixados nos n.os 1 e 2 do presente artigo podem ser ultrapassados quando se trate de pessoal administrativo ou auxiliar que preste apoio às reuniões ou sessões dos órgãos autárquicos, bem como motoristas, telefonistas e outro pessoal auxiliar ou operário, cuja manutenção em serviço seja expressamente fundamentada e reconhecida como indispensável."
+  },
+  "1016469575": {
+   "fragment_id": "1016469475",
+   "type": 11,
+   "heading": "Artigo 28.º — Compensação do trabalho extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Compensação do trabalho extraordinário\n\n1 - As horas extraordinárias são compensadas, de acordo com a opção do funcionário ou agente, por um dos seguintes sistemas:\n\na) Dedução posterior no período normal de trabalho, conforme as disponibilidades de serviço, a efectuar dentro do ano civil em que o trabalho foi prestado, acrescida de 25% ou de 50%, respectivamente, nos casos de trabalho extraordinário diurno e nocturno;\n\nb) Acréscimo na retribuição horária, com as seguintes percentagens: 25% para a primeira hora de trabalho extraordinário diurno, 50% para as horas subsequentes de trabalho extraordinário diurno, 60% para a primeira hora de trabalho extraordinário nocturno e 90% para as restantes horas de trabalho extraordinário nocturno.\n\n2 - Na remuneração por trabalho extraordinário só são de considerar, em cada dia, períodos mínimos de meia hora, sendo sempre remunerados os períodos de duração inferior como correspondentes a meia hora.\n\n3 - Quando o trabalho extraordinário diurno se prolongar para além das 20 horas, a meia hora que abranger o período de trabalho diurno e nocturno é remunerada como extraordinária diurna ou nocturna, consoante não haja ou haja efectiva prestação de trabalho para além daquele limite horário, conferindo, ainda, direito ao subsídio de refeição.\n\n4 - As percentagens referidas na alínea b) do n.º 1 para o trabalho extraordinário nocturno são mantidas quando, no prosseguimento daquele, se transitar para trabalho extraordinário diurno.\n\n5 - Nos primeiros oito dias do mês seguinte àquele em que foi realizado trabalho extraordinário, o funcionário ou agente deve comunicar aos serviços o sistema por que tenha optado."
+  },
+  "1016469775": {
+   "fragment_id": "1016469675",
+   "type": 11,
+   "heading": "Artigo 29.º — Compensação por dedução do período normal de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Compensação por dedução do período normal de trabalho\n\n1 - O sistema previsto na alínea a) do n.º 1 do artigo anterior pode revestir uma das seguintes formas:\n\na) Dispensa, até ao limite de um dia de trabalho por semana;\n\nb) Acréscimo do período de férias no mesmo ano ou no ano seguinte até ao limite máximo de cinco dias úteis seguidos.\n\n2 - Nos horários flexíveis, a compensação das horas extraordinárias faz-se, em regra, por dedução no período normal de trabalho, salvo quando se mostrar inviável por razões de exclusiva conveniência do serviço e nos casos previstos na alínea d) do n.º 3 do artigo 27.º, em que o pessoal mantém o direito de opção.\n\n3 - As horas extraordinárias que não possam ser compensadas nos termos dos números anteriores são remuneradas de acordo com o disposto na alínea b) do n.º 1 do artigo anterior."
+  },
+  "1016469975": {
+   "fragment_id": "1016469875",
+   "type": 11,
+   "heading": "Artigo 30.º — Limites remuneratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Limites remuneratórios\n\n1 - Os funcionários e agentes não podem, em cada mês, receber por trabalho extraordinário mais do que um terço do índice remuneratório respectivo, pelo que não pode ser exigida a sua realização quando implique a ultrapassagem desse limite.\n\n2 - Exceptua-se do disposto no número anterior o pessoal referido na alínea c) do n.º 3 do artigo 27.º, bem como os motoristas afectos a directores-gerais ou a pessoal de cargos equiparados, os quais podem receber pelo trabalho extraordinário realizado até 60% do vencimento do índice remuneratório respectivo.\n\n3 - O disposto nos números anteriores não prejudica os limites fixados para o pessoal operário e auxiliar afecto às residências oficiais do Presidente da República e do Primeiro-Ministro, nos termos da legislação em vigor.\n\n4 - Na administração local podem ser abonadas importâncias até 60% do respectivo índice remuneratório do pessoal administrativo ou auxiliar que preste apoio a reuniões ou sessões dos órgãos autárquicos, bem como aos motoristas, telefonistas e outro pessoal auxiliar, afectos, por deliberação expressa, ao serviço da presidência dos órgãos executivos e ainda aos motoristas afectos a pessoal de cargos equiparados a director-geral."
+  },
+  "1016470175": {
+   "fragment_id": "1016470075",
+   "type": 11,
+   "heading": "Artigo 31.º — Registo de horas extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Registo de horas extraordinárias\n\nOs serviços devem preencher e enviar mensalmente à Direcção-Geral do Orçamento em impresso próprio a indicação do número de horas extraordinárias por cada funcionário ou agente, o respectivo fundamento legal e as correspondentes remunerações."
+  },
+  "1016470375": {
+   "fragment_id": "1016470275",
+   "type": 8,
+   "heading": "Secção II — Trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Trabalho nocturno"
+  },
+  "1016470575": {
+   "fragment_id": "1016470475",
+   "type": 11,
+   "heading": "Artigo 32.º — Noção e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Noção e regime\n\n1 - Considera-se trabalho nocturno o prestado entre as 20 horas de um dia e as 7 horas do dia seguinte.\n\n2 - O trabalho nocturno pode ser normal ou extraordinário.\n\n3 - A retribuição do trabalho normal nocturno é calculada através da multiplicação do valor da hora normal de trabalho pelo coeficiente 1,25.\n\n4 - O disposto no número anterior não se aplica às categorias cujas funções, pela sua natureza, só possam ser exercidas em período predominantemente nocturno, salvo casos excepcionais devidamente autorizados pelos Ministros da tutela, das Finanças e do membro do Governo responsável pela Administração Pública, mediante despacho conjunto."
+  },
+  "1016470775": {
+   "fragment_id": "1016470675",
+   "type": 8,
+   "heading": "Secção III — Trabalho em dias de descanso semanal, de descanso complementar e em feriados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Trabalho em dias de descanso semanal, de descanso complementar e em feriados"
+  },
+  "1016470975": {
+   "fragment_id": "1016470875",
+   "type": 11,
+   "heading": "Artigo 33.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime\n\n1 - A prestação de trabalho em dia de descanso semanal, de descanso complementar e em feriado pode ter lugar nos casos e nos termos previstos no artigo 26.º, não podendo ultrapassar a duração normal de trabalho diário.\n\n2 - O trabalho prestado em dia de descanso semanal é compensado por um acréscimo de remuneração calculado através da multiplicação do valor da hora normal de trabalho pelo coeficiente 2 e confere ainda direito a um dia completo de descanso na semana de trabalho seguinte.\n\n3 - A prestação de trabalho em dia de descanso complementar ou feriado é compensada apenas pelo acréscimo de remuneração referido no número anterior.\n\n4 - Nos casos em que o feriado recaia em dia de descanso semanal aplica-se na íntegra o regime previsto no n.º 2.\n\n5 - O regime previsto nos n.os 2, 3 e 4 pode ser aplicado ao pessoal dirigente e de chefia, desde que a prestação de trabalho seja autorizada pelo membro do Governo competente.\n\n6 - O disposto no n.º 1 é aplicável aos funcionários e agentes que se deslocam ao estrangeiro em representação do Estado Português.\n\n7 - A prestação de trabalho efectuada nos termos do número anterior confere o direito a um dia completo de descanso, a gozar de acordo com a conveniência do serviço."
+  },
+  "1016471175": {
+   "fragment_id": "1016471075",
+   "type": 8,
+   "heading": "Secção IV — Autorização e responsabilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Autorização e responsabilização"
+  },
+  "1016471375": {
+   "fragment_id": "1016471275",
+   "type": 11,
+   "heading": "Artigo 34.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Autorização\n\n1 - A prestação de trabalho extraordinário e em dia de descanso semanal, descanso complementar e feriado deve ser previamente autorizada pelo dirigente do respectivo serviço ou organismo ou pelas entidades que superintendem nos gabinetes a que alude a alínea c) do n.º 3 do artigo 27.º\n\n2 - Exceptuam-se do disposto no número anterior, quanto aos feriados, os serviços que, por força da actividade exercida, laborem normalmente nesse dia.\n\n3 - Os funcionários e agentes interessados devem ser informados, salvo casos excepcionais, com a antecedência de quarenta e oito horas, da necessidade de prestarem trabalho extraordinário e em dia de descanso semanal ou complementar e em feriado."
+  },
+  "1016471575": {
+   "fragment_id": "1016471475",
+   "type": 11,
+   "heading": "Artigo 35.º — Responsabilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Responsabilização\n\n1 - Os dirigentes devem limitar ao estritamente indispensável a autorização de trabalho nas modalidades previstas no presente capítulo.\n\n2 - Os funcionários e agentes que tenham recebido indevidamente quaisquer abonos são obrigados à sua reposição, pela qual ficam solidariamente responsáveis os dirigentes dos respectivos serviços."
+  },
+  "1016471775": {
+   "fragment_id": "1016471675",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "1016471975": {
+   "fragment_id": "1016471875",
+   "type": 11,
+   "heading": "Artigo 36.º — Cálculo da remuneração horária normal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Cálculo da remuneração horária normal\n\nA remuneração horária é calculada através da fórmula (R x 12)/(52 x N), sendo R o vencimento mensal auferido e N o número de horas correspondente à normal duração semanal do trabalho."
+  },
+  "1016472175": {
+   "fragment_id": "1016472075",
+   "type": 11,
+   "heading": "Artigo 37.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Pessoal dirigente\n\n1 - As referências feitas no presente diploma aos dirigentes máximos dos serviços entendem-se reportadas aos secretários-gerais, directores-gerais e pessoal de cargos equiparados, bem como ao pessoal dirigente directamente dependente de qualquer membro do Governo.\n\n2 - As competências atribuídas no presente diploma aos dirigentes máximos dos serviços são, na administração local, cometidas:\n\na) Ao presidente da câmara municipal - nas câmaras municipais;\n\nb) Ao presidente do conselho de administração - nas associações de municípios e nos serviços municipalizados;\n\nc) À junta de freguesia - nas juntas de freguesia;\n\nd) Ao presidente da mesa da assembleia distrital - nas assembleias distritais."
+  },
+  "1016472375": {
+   "fragment_id": "1016472275",
+   "type": 11,
+   "heading": "Artigo 38.º — Pessoal docente, saúde e justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Pessoal docente, saúde e justiça\n\nMantêm-se em vigor os regimes de trabalho e condições da sua prestação fixados em legislação especial para o pessoal docente e da saúde e, bem assim, para o sector da justiça, sem prejuízo do previsto artigo 15.º"
+  },
+  "1016472575": {
+   "fragment_id": "1016472475",
+   "type": 11,
+   "heading": "Artigo 39.º — Pessoal dos grupos operário e auxiliar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Pessoal dos grupos operário e auxiliar\n\n1 - Para o pessoal dos grupos operário e auxiliar, a duração semanal do trabalho é, transitoriamente, a seguinte:\n\na) Em 1998: trinta e sete horas semanais;\n\nb) Em 1999: trinta e seis horas semanais.\n\n2 - A duração semanal de trabalho referida no número anterior produz efeitos a partir do dia 1 de Janeiro de cada ano.\n\n3 - O disposto no n.º 1 não prejudica a existência de regimes de duração semanal de trabalho inferiores já estabelecidos.\n\n4 - O limite máximo do período normal de trabalho diário é, em função da duração semanal, o constante do anexo A ao presente diploma, que dele faz parte integrante.\n\n5 - O horário rígido a que se refere o artigo 17.º do presente diploma é, nos anos de 1997 a 1999, o que consta dos anexos B e C ao presente diploma, que dele fazem parte integrante, consoante se trate de serviços de regime de funcionamento normal que encerrem ao sábado ou de serviços de regime de funcionamento especial que funcionam ao sábado de manhã, respectivamente.\n\n6 - Transitoriamente até à generalização da duração de trabalho de trinta e cinco horas semanais, no caso de horários flexíveis devem seguir-se as seguintes regras:\n\na) É obrigatória a previsão das plataformas fixas da parte da manhã e da parte da tarde, as quais não podem ter, no seu conjunto, duração inferior a quatro horas, no caso de horários até trinta e sete horas, e de cinco horas, nos restantes casos;\n\nb) Não podem ser prestados, por dia, mais de nove horas de trabalho, no caso de horários até trinta e sete horas, ou de dez horas, nos restantes casos.\n\n7 - Para efeitos do disposto no n.º 3 do artigo 16.º, a duração média de trabalho é de sete ou oito horas para o pessoal abrangido por uma duração semanal inferior a trinta e sete horas, ou superior a este limite, respectivamente, e ainda a que resultar do respectivo regulamento, nos serviços com funcionamento ao sábado de manhã.\n\n8 - Em caso de jornada contínua, até à generalização da duração de trabalho de trinta e cinco horas semanais, a redução referida no n.º 2 do artigo 19.º do presente diploma não pode ser superior a uma hora ou a uma hora e trinta minutos por dia, conforme a duração semanal de trabalho seja, respectivamente, inferior, ou não, a trinta e sete horas.\n\n9 - Ao pessoal a quem, nos termos do artigo 7.º do Decreto-Lei n.º 159/96, de 4 de Setembro, foi concedido um crédito de não trabalho de três dias é mantido o direito ao subsídio de refeição durante o uso deste crédito.\n\n10 - O crédito de não trabalho de três dias, referido no número anterior, que não foi usado até ao termo do ano civil de 1996, por razões de conveniência de serviço ou interesse relevante do próprio trabalhador, deve ser gozado durante o ano civil de 1997.\n\n11 - Os créditos de não trabalho que não foram usados até ao termo do ano civil de 1996 podem ser gozados seguida ou interpoladamente, repartidos por meios dias ou não, e ser associados ao gozo de férias ou a um período de faltas, de qualquer natureza, mantendo-se, também, o direito ao subsídio de refeição."
+  },
+  "1016472775": {
+   "fragment_id": "1016472675",
+   "type": 11,
+   "heading": "Artigo 40.º — Revisão do regime de trabalho a meio tempo e da não sujeição a horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Revisão do regime de trabalho a meio tempo e da não sujeição a horário de trabalho\n\nOs regimes de trabalho a meio tempo e da não sujeição a horário de trabalho, constantes dos artigos 8.º e 23.º, serão obrigatoriamente revistos no prazo máximo de dois anos a contar da data da entrada em vigor do presente diploma."
+  },
+  "1016472975": {
+   "fragment_id": "1016472875",
+   "type": 11,
+   "heading": "Artigo 41.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Legislação revogada\n\nÉ revogada a Lei n.º 17/89, de 5 de Julho, e o Decreto-Lei n.º 167/80, de 29 de Maio, o Decreto-Lei n.º 235/81, de 6 de Agosto, o Decreto-Lei n.º 187/88, de 27 de Maio, o Decreto-Lei n.º 263/91, de 26 de Julho, e o Decreto-Lei n.º 159/96, de 4 de Setembro."
+  },
+  "1016473175": {
+   "fragment_id": "1016473075",
+   "type": 11,
+   "heading": "Artigo 42.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "1016473375": {
+   "fragment_id": "1016473275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Maio de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 31 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Agosto de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1016473575": {
+   "fragment_id": "1016473475",
+   "type": 14,
+   "heading": "Anexo A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo A\n\n(ver tabela no documento original)"
+  },
+  "1016473775": {
+   "fragment_id": "1016473675",
+   "type": 14,
+   "heading": "Anexo B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo B\n\n(ver tabela no documento original)"
+  },
+  "1016473975": {
+   "fragment_id": "1016473875",
+   "type": 14,
+   "heading": "Anexo C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo C\n\n(ver tabela no documento original)"
+  },
+  "1119879775": {
+   "fragment_id": "1016469275",
+   "type": 11,
+   "heading": "Artigo 27.º — Limites ao trabalho extraordinário",
+   "in_force_from": "2006-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 169/2006 - Diário da República n.º 158/2006, Série I de 2006-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2006-538820), em vigor a partir de 2006-08-18."
+   ],
+   "markdown": "###### Artigo 27.º — Limites ao trabalho extraordinário\n\n1 - O trabalho extraordinário não pode exceder duas horas por dia nem ultrapassar cem horas por ano.\n\n2 - A prestação de trabalho extraordinário não pode determinar um período de trabalho diário superior a nove horas.\n\n3 - Os limites fixados nos números anteriores podem, no entanto, ser ultrapassados:\n\na) Em casos especiais, regulados em diploma próprio, a negociar com as associações sindicais;\n\nb) Quando se trate de motoristas, telefonistas e outro pessoal auxiliar que seja indispensável manter ao serviço;\n\nc) Quando se trate de pessoal administrativo e auxiliar que preste serviço nos gabinetes dos membros do Governo ou equiparados e de pessoal da Presidência da República destacado para, normal ou eventualmente, prestar apoio ao Gabinete do Presidente da República;\n\nd) Em circunstâncias excepcionais e delimitadas no tempo, mediante autorização do membro do Governo competente ou, quando esta não for possível, mediante confirmação da mesma entidade, a proferir nos 15 dias posteriores à ocorrência.\n\n4 - Nos casos das alíneas b) e d) a não oposição dos trabalhadores vale como assentimento à prestação do trabalho.\n\n5 - Na administração local, os limites fixados nos n.os 1 e 2 do presente artigo podem ser ultrapassados quando se trate de pessoal administrativo ou auxiliar que preste apoio às reuniões ou sessões dos órgãos autárquicos, bem como motoristas, telefonistas e outro pessoal auxiliar ou operário, cuja manutenção em serviço seja expressamente fundamentada e reconhecida como indispensável.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 169/2006 - Diário da República n.º 158/2006, Série I de 2006-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2006-538820), em vigor a partir de 2006-08-18."
+  },
+  "1122015675": {
+   "fragment_id": "1016464875",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime do trabalho a tempo parcial",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01."
+   ],
+   "markdown": "###### Artigo 11.º — Regime do trabalho a tempo parcial\n\n1 - Os trabalhadores nomeados podem requerer o exercício de funções a tempo parcial, o qual corresponde a um período normal de trabalho semanal inferior ao praticado a tempo completo, podendo aquele ser autorizado desde que não implique qualquer prejuízo para o serviço e as características da actividade desenvolvida pelos requerentes o permitam.\n\n2 - Deve ser dada preferência, para o exercício de funções a tempo parcial, aos trabalhadores com responsabilidades familiares, com capacidade de trabalho reduzida, com deficiência ou doença crónica ou que frequentem estabelecimentos de ensino médio ou superior.\n\n3 - Conforme haja sido requerido, o trabalho a tempo parcial pode ser prestado em todos ou em alguns dias da semana, sem prejuízo do descanso semanal, devendo a autorização fixar o número de dias de trabalho, assim como a indicação do período normal de trabalho diário e semanal com referência comparativa ao trabalho a tempo completo.\n\n4 - O trabalhador a tempo parcial pode passar a trabalhar a tempo completo, ou o inverso, por período determinado, renovável, mediante autorização do dirigente máximo do órgão ou serviço.\n\n5 - Quando a passagem de trabalho a tempo completo para trabalho a tempo parcial, nos termos do número anterior, se verificar por período determinado até ao máximo de três anos, o trabalhador tem direito a retomar a prestação de trabalho a tempo completo.\n\n6 - As reduções de duração de trabalho a tempo parcial superiores a seis meses conferem aos órgãos ou serviços a possibilidade de nomear transitoriamente um trabalhador, por período idêntico ao autorizado para a redução, com vista ao desempenho de funções no restante tempo parcial.\n\n7 - No caso previsto no n.º 5, o trabalhador nomeado não pode retomar antecipadamente a prestação de trabalho a tempo completo quando, nos termos do número anterior, se tenha verificado a sua substituição por um trabalhador nomeado transitoriamente e enquanto esta nomeação durar.\n\n8 - O limite anual de horas de trabalho extraordinário para fazer face a acréscimos eventuais de trabalho, aplicável a trabalhador a tempo parcial, é de oitenta horas por ano ou o correspondente à proporção entre o respectivo período normal de trabalho e o de trabalhador a tempo completo, quando superior.\n\n9 - O trabalhador a tempo parcial tem direito à remuneração base prevista na lei, em proporção do respectivo período normal de trabalho semanal, e ao subsídio de refeição, excepto quando a sua prestação de trabalho diário seja inferior a metade da duração diária do trabalho a tempo completo, sendo então calculado em proporção do respectivo período normal de trabalho semanal.\n\n10 - São ainda calculados, em proporção do período normal de trabalho semanal do trabalhador a tempo parcial, os suplementos remuneratórios devidos pelo exercício de funções em postos de trabalho que apresentem condições mais exigentes de forma permanente, bem como os prémios de desempenho, previstos na lei.\n\n11 - O trabalho a tempo parcial conta, proporcionalmente, para efeitos de antiguidade na carreira e categoria.\n\n> Alterado pelo/a Artigo 25.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01."
+  },
+  "1125660575": {
+   "fragment_id": "1016467675",
+   "type": 11,
+   "heading": "Artigo 22.º — Horários específicos",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+   ],
+   "markdown": "###### Artigo 22.º — Horários específicos\n\n1 - (Revogado.)\n\n2 - De igual modo, aos funcionários e agentes com descendentes ou afins na linha recta descendente, adoptandos ou adoptados a cargo, com idade inferior a 12 anos ou que sejam portadores de deficiência e se encontrem em alguma das situações previstas no artigo 5.º do Decreto-Lei n.º 170/80, de 29 de Maio, devem ser fixados, nos termos do artigo 15.º da Lei n.º 4/84, de 5 de Abril, alterada pela Lei n.º 17/95, de 9 de Junho, pelo Decreto-Lei n.º 194/96, de 16 de Outubro, e pela Lei n.º 102/97, de 13 de Setembro, horários de trabalho ajustados, na medida do possível, ao acompanhamento dos mesmos.\n\n3 - No interesse dos funcionários e agentes, podem ainda ser fixados horários específicos sempre que outras circunstâncias relevantes, devidamente fundamentadas, o justifiquem.\n\n4 - Os horários referidos nos números anteriores são fixados pelos dirigentes dos serviços, a requerimento dos interessados, e podem incluir, para além da jornada contínua, regimes de flexibilidade mais amplos, sem prejuízo da observância do disposto no artigo 13.º\n\n5 - Podem ainda ser fixados outros horários específicos sempre que circunstâncias relevantes relacionadas com a natureza das actividades desenvolvidas, devidamente fundamentadas e sujeitas a consulta prévia dos funcionários e agentes, através das suas organizações representativas, o justifiquem.\n\n> Alterado pelo/a Artigo 16.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+  },
+  "1125659975": {
+   "fragment_id": "1016469475",
+   "type": 11,
+   "heading": "Artigo 28.º — Compensação do trabalho extraordinário",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+   ],
+   "markdown": "###### Artigo 28.º — Compensação do trabalho extraordinário\n\n1 - As horas extraordinárias são compensadas, de acordo com a opção do trabalhador nomeado, por um dos seguintes sistemas:\n\na) Dedução posterior no período normal de trabalho, conforme as disponibilidades de serviço, a efetuar dentro do ano civil em que o trabalho foi prestado, acrescida de 12,5 %;\n\nb) Acréscimo na remuneração horária, com as seguintes percentagens: 25 % da remuneração na primeira hora ou fração desta e 37,5 % da remuneração nas horas ou frações subsequentes.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+  },
+  "1125660175": {
+   "fragment_id": "1016470475",
+   "type": 11,
+   "heading": "Artigo 32.º — Noção e regime",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+   ],
+   "markdown": "###### Artigo 32.º — Noção e regime\n\n1 - Considera-se trabalho noturno, o prestado entre as 22 horas de um dia e as 7 horas do dia seguinte.\n\n2 - (Revogado.)\n\n3 - O trabalho noturno deve ser remunerado com um acréscimo de 25 % relativamente à remuneração do trabalho equivalente prestado durante o dia.\n\n4 - O disposto no número anterior não se aplica às categorias cujas funções, pela sua natureza, só possam ser exercidas em período predominantemente nocturno, salvo casos excepcionais devidamente autorizados pelos Ministros da tutela, das Finanças e do membro do Governo responsável pela Administração Pública, mediante despacho conjunto.\n\n> Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+  },
+  "1125660375": {
+   "fragment_id": "1016470875",
+   "type": 11,
+   "heading": "Artigo 33.º — Regime",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+   ],
+   "markdown": "###### Artigo 33.º — Regime\n\n1 - A prestação de trabalho em dia de descanso semanal, de descanso complementar e em feriado pode ter lugar nos casos e nos termos previstos no artigo 26.º, não podendo ultrapassar a duração normal de trabalho diário.\n\n2 - O trabalho prestado em dia de descanso semanal é compensado por um acréscimo de remuneração calculado através da multiplicação do valor da hora normal de trabalho pelo coeficiente 1,5 e confere ainda direito a um dia completo de descanso nos três dias úteis seguintes.\n\n3 - A prestação de trabalho em dia de descanso complementar ou feriado é compensada apenas pelo acréscimo de remuneração referido no número anterior.\n\n4 - Nos casos em que o feriado recaia em dia de descanso semanal aplica-se na íntegra o regime previsto no n.º 2.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+  },
+  "1127159675": {
+   "fragment_id": "1016461875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "Com a publicação do Decreto-Lei n.º 187/88, de 27 de Maio, consagrou-se, pela primeira vez na Administração Pública, um instrumento legal que, de modo sistemático, reuniu os princípios fundamentais enformadores do regime jurídico da duração de trabalho.\n\nDecorridos cerca de 10 anos sobre a sua aplicação, impõe-se adaptar este regime às transformações sócio-laborais que se têm vindo a verificar, bem como às alterações que a experiência vem ditando, no sentido de melhorar o funcionamento e a operacionalidade dos serviços e organismos da Administração Pública, tendo em vista a sua adequação às necessidades e à disponibilidade dos cidadãos.\n\nDe entre as alterações introduzidas merecem realce: a distinção entre o período de funcionamento e o período de atendimento, com a obrigatoriedade de afixação pública deste, a uniformização da duração do horário de trabalho, sem prejuízo da fixação de um período transitório, a consagração da audição dos trabalhadores, através das suas organizações representativas, na fixação das condições de prestação de trabalho, a faculdade da abertura dos serviços em dias de feiras e mercados relevantes, a criação do regime de prestação de trabalho sujeito apenas ao cumprimento de objectivos, situação que facilita a concretização do designado «teletrabalho», o alargamento do âmbito de aplicação do trabalho a meio tempo e a atribuição dos dirigentes máximos dos serviços da responsabilidade de gestão dos regimes de prestação de trabalho, entre outras.\n\nAs alterações, ora propostas, foram negociadas com as organizações representativas dos trabalhadores da função pública, no quadro do acordo salarial para 1996 e compromissos de médio e longo prazos.\n\nForam ouvidos os órgãos de Governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo n.º 1 do artigo único da Lei n.º 11/98, de 24 de Fevereiro, e nos termos do n.º 5 do artigo 112.º e da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127159875": {
+   "fragment_id": "1016462075",
+   "type": 1,
+   "heading": "Capítulo I — Objecto, âmbito e princípios gerais",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "### Capítulo I — Objecto, âmbito e princípios gerais\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127159975": {
+   "fragment_id": "1016462275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma estabelece as regras e os princípios gerais em matéria de duração e horário de trabalho na Administração Pública.\n\n2 - O regime instituído no presente diploma aplica-se a todos os serviços da Administração Pública, incluindo os institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127160075": {
+   "fragment_id": "1016462475",
+   "type": 11,
+   "heading": "Artigo 2.º — Período de funcionamento",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 2.º — Período de funcionamento\n\n1 - Entende-se por período de funcionamento o período diário durante o qual os serviços exercem a sua actividade.\n\n2 - Sem prejuízo do disposto no artigo 10.º, o período normal de funcionamento dos serviços não pode iniciar-se antes das 8 horas, nem terminar depois das 20 horas, sendo obrigatoriamente afixado de modo visível aos funcionários e agentes.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127160175": {
+   "fragment_id": "1016462675",
+   "type": 11,
+   "heading": "Artigo 3.º — Período de atendimento",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a [Lei n.º 68/2013 - Diário da República n.º 166/2013, Série I de 2013-08-29](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), em vigor a partir de 1998-09-17."
+   ],
+   "markdown": "###### Artigo 3.º — Período de atendimento\n\n1 - Entende-se por período de atendimento o período durante o qual os serviços estão abertos para atender o público, podendo este período ser igual ou inferior ao período de funcionamento.\n\n2 - O período de atendimento deve, tendencialmente, ter a duração mínima de oito horas diárias, abranger o período da manhã e da tarde e ter obrigatoriamente afixadas, de modo visível ao público, nos locais de atendimento, as horas do seu início e do seu termo.\n\n3 - Na definição e fixação do período de atendimento deve atender-se aos interesses dos utentes dos serviços e respeitar-se os direitos dos respectivos funcionários e agentes.\n\n4 - Os serviços podem estabelecer um período excepcional de atendimento, sempre que o interesse do público fundamentadamente o justifique, designadamente nos dias de feiras e mercados localmente relevantes, ouvindo-se as organizações representativas dos trabalhadores e sem prejuízo do disposto nos artigos 26.º e 33.º\n\n5 - Fora dos períodos de atendimento, os serviços colocam ao dispor dos utentes meios adequados a permitir a comunicação, através da utilização de tecnologias próprias que permitam o seu registo para posterior resposta.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a [Lei n.º 68/2013 - Diário da República n.º 166/2013, Série I de 2013-08-29](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), em vigor a partir de 1998-09-17."
+  },
+  "1127160275": {
+   "fragment_id": "1016462875",
+   "type": 11,
+   "heading": "Artigo 4.º — Regimes de prestação de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 4.º — Regimes de prestação de trabalho\n\nO trabalho pode, de acordo com as atribuições do serviço ou organismo e com a natureza da actividade desenvolvida, ser prestado nos seguintes regimes:\n\na) Sujeito ao cumprimento do horário diário;\n\nb) Sujeito ao cumprimento de objectivos definidos.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127160375": {
+   "fragment_id": "1016463075",
+   "type": 11,
+   "heading": "Artigo 5.º — Fixação e compatibilização dos períodos de funcionamento e de atendimento com os regimes de prestação de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 5.º — Fixação e compatibilização dos períodos de funcionamento e de atendimento com os regimes de prestação de trabalho\n\nCompete ao dirigente máximo dos serviços fixar os períodos de funcionamento e atendimento dos serviços, assegurando a sua compatibilidade com a existência de diversos regimes de prestação de trabalho, por forma a garantir o regular cumprimento das missões que lhes estão cometidas.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127160475": {
+   "fragment_id": "1016463275",
+   "type": 11,
+   "heading": "Artigo 6.º — Responsabilidade da gestão dos regimes de prestação de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 6.º — Responsabilidade da gestão dos regimes de prestação de trabalho\n\n1 - Compete ao dirigente máximo do serviço, em função das atribuições e competências de cada serviço ou organismo:\n\na) Determinar os regimes de prestação de trabalho e horários mais adequados;\n\nb) Aprovar o número de turnos e respectiva duração;\n\nc) Aprovar as escalas nos horários por turnos;\n\nd) Autorizar os horários específicos previstos no artigo 22.º\n\n2 - As matérias constantes nas alíneas a) e b) do número anterior devem ser fixadas em regulamento interno após consulta prévia dos funcionários e agentes, através das suas organizações representativas.\n\n3 - Compete ao pessoal dirigente e de chefia autorizar os funcionários e agentes hierarquicamente dependentes a ausentar-se do serviço durante o período de presença obrigatória.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127160575": {
+   "fragment_id": "1016463475",
+   "type": 1,
+   "heading": "Capítulo II — Duração do trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "### Capítulo II — Duração do trabalho\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127160675": {
+   "fragment_id": "1016463675",
+   "type": 8,
+   "heading": "Secção I — Regime geral da duração de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "#### Secção I — Regime geral da duração de trabalho\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127160775": {
+   "fragment_id": "1016463875",
+   "type": 11,
+   "heading": "Artigo 7.º — Duração semanal do trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a [Lei n.º 68/2013 - Diário da República n.º 166/2013, Série I de 2013-08-29](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), em vigor a partir de 1998-09-17."
+   ],
+   "markdown": "###### Artigo 7.º — Duração semanal do trabalho\n\n1 - A duração semanal do trabalho nos serviços abrangidos pelo presente diploma é de quarenta horas.\n\n2 - O disposto no número anterior não prejudica a existência de regimes de duração semanal inferior já estabelecidos, nem os que se venham a estabelecer mediante despacho conjunto do membro do Governo responsável pelo serviço e do membro do Governo que tiver a seu cargo a Administração Pública.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a [Lei n.º 68/2013 - Diário da República n.º 166/2013, Série I de 2013-08-29](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), em vigor a partir de 1998-09-17."
+  },
+  "1127160875": {
+   "fragment_id": "1016464075",
+   "type": 11,
+   "heading": "Artigo 8.º — Limite máximo do período normal de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a [Lei n.º 68/2013 - Diário da República n.º 166/2013, Série I de 2013-08-29](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), em vigor a partir de 1998-09-17."
+   ],
+   "markdown": "###### Artigo 8.º — Limite máximo do período normal de trabalho\n\n1 - O período normal de trabalho diário tem a duração de oito horas.\n\n2 - O limite previsto no número anterior não é aplicável no caso de horários flexíveis.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a [Lei n.º 68/2013 - Diário da República n.º 166/2013, Série I de 2013-08-29](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), em vigor a partir de 1998-09-17."
+  },
+  "1127160975": {
+   "fragment_id": "1016464275",
+   "type": 11,
+   "heading": "Artigo 9.º — Semana de trabalho e descanso semanal",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 9.º — Semana de trabalho e descanso semanal\n\n1 - A semana de trabalho é, em regra, de cinco dias.\n\n2 - Os funcionários e agentes têm direito a um dia de descanso semanal, acrescido de um dia de descanso complementar que devem coincidir com o domingo e o sábado, respectivamente.\n\n3 - Os dias de descanso referidos no número anterior podem deixar de coincidir com o domingo e o sábado nos seguintes casos:\n\na) Pessoal dos serviços que encerrem a sua actividade noutros dias da semana;\n\nb) Pessoal dos serviços cuja continuidade de actividade não possa ser interrompida;\n\nc) Pessoal dos serviços de limpeza e de outros serviços preparatórios ou complementares que devem necessariamente ser efectuados nos dias de descanso do restante pessoal;\n\nd) Pessoal dos serviços de inspecção de actividades que não encerrem ao sábado e ao domingo;\n\ne) Pessoal de outros serviços em que o interesse público o justifique, designadamente nos dias de feiras ou de mercados.\n\n4 - Quando a natureza do serviço ou razões de interesse do público o exijam, pode o dia de descanso complementar ser gozado, segundo opção do funcionário, do seguinte modo:\n\na) Dividido em dois períodos imediatamente anteriores ou posteriores ao dia de descanso semanal;\n\nb) Meio dia imediatamente anterior ou posterior ao dia de descanso semanal, sendo o tempo restante deduzido na duração normal de trabalho dos restantes dias úteis, sem prejuízo da duração semanal de trabalho.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127161075": {
+   "fragment_id": "1016464475",
+   "type": 8,
+   "heading": "Secção II — Regimes especiais da duração de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "#### Secção II — Regimes especiais da duração de trabalho\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127161175": {
+   "fragment_id": "1016464675",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime dos serviços de funcionamento especial",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 10.º — Regime dos serviços de funcionamento especial\n\n1 - Nos serviços de regime de funcionamento especial, a semana de trabalho é de cinco dias e meio, sendo reconhecido ao respectivo pessoal o direito a um dia de descanso semanal, acrescido de meio dia de descanso semanal complementar.\n\n2 - Consideram-se serviços de regime de funcionamento especial:\n\na) Os serviços de laboração contínua;\n\nb) Os estabelecimentos de ensino;\n\nc) Os serviços de saúde e os serviços médico-legais;\n\nd) Os mercados e demais serviços de abastecimento;\n\ne) Os cemitérios;\n\nf) Os serviços de luta contra incêndios e de ambulâncias;\n\ng) Os serviços de recolha e tratamento de lixos;\n\nh) Os museus, palácios, monumentos nacionais, sítios e parques arqueológicos, salas de espectáculo e serviços de produção artística, dependentes do Ministério da Cultura;\n\ni) Os serviços de leitura das bibliotecas, arquivos e secções abertos ao público dependentes do Ministério da Cultura;\n\nj) Os postos de turismo.\n\n3 - Nos serviços de regime de funcionamento especial, o meio dia de descanso complementar é sempre gozado no período imediatamente anterior ou posterior ao dia de descanso semanal o qual, por determinação do dirigente máximo do serviço, pode deixar de coincidir com o domingo.\n\n4 - Relativamente a certos grupos profissionais que exerçam funções nos serviços de regime de funcionamento especial, pode, em alternativa, ser determinada a adopção do regime previsto nos n.os 2 a 4 do artigo anterior por despacho do dirigente máximo do serviço.\n\n5 - O regime da semana de cinco dias deve ser progressivamente estendido aos serviços com regime de funcionamento especial, por portaria do membro do Governo competente, do Ministro das Finanças e do membro do Governo que tutela a Administração Pública, desde que daí não resulte o encerramento dos serviços aos utentes nem agravamento dos encargos com o pessoal.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127161275": {
+   "fragment_id": "1016464875",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime do trabalho a tempo parcial",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a Artigo 25.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01."
+   ],
+   "markdown": "###### Artigo 11.º — Regime do trabalho a tempo parcial\n\n1 - Os trabalhadores nomeados podem requerer o exercício de funções a tempo parcial, o qual corresponde a um período normal de trabalho semanal inferior ao praticado a tempo completo, podendo aquele ser autorizado desde que não implique qualquer prejuízo para o serviço e as características da actividade desenvolvida pelos requerentes o permitam.\n\n2 - Deve ser dada preferência, para o exercício de funções a tempo parcial, aos trabalhadores com responsabilidades familiares, com capacidade de trabalho reduzida, com deficiência ou doença crónica ou que frequentem estabelecimentos de ensino médio ou superior.\n\n3 - Conforme haja sido requerido, o trabalho a tempo parcial pode ser prestado em todos ou em alguns dias da semana, sem prejuízo do descanso semanal, devendo a autorização fixar o número de dias de trabalho, assim como a indicação do período normal de trabalho diário e semanal com referência comparativa ao trabalho a tempo completo.\n\n4 - O trabalhador a tempo parcial pode passar a trabalhar a tempo completo, ou o inverso, por período determinado, renovável, mediante autorização do dirigente máximo do órgão ou serviço.\n\n5 - Quando a passagem de trabalho a tempo completo para trabalho a tempo parcial, nos termos do número anterior, se verificar por período determinado até ao máximo de três anos, o trabalhador tem direito a retomar a prestação de trabalho a tempo completo.\n\n6 - As reduções de duração de trabalho a tempo parcial superiores a seis meses conferem aos órgãos ou serviços a possibilidade de nomear transitoriamente um trabalhador, por período idêntico ao autorizado para a redução, com vista ao desempenho de funções no restante tempo parcial.\n\n7 - No caso previsto no n.º 5, o trabalhador nomeado não pode retomar antecipadamente a prestação de trabalho a tempo completo quando, nos termos do número anterior, se tenha verificado a sua substituição por um trabalhador nomeado transitoriamente e enquanto esta nomeação durar.\n\n8 - O limite anual de horas de trabalho extraordinário para fazer face a acréscimos eventuais de trabalho, aplicável a trabalhador a tempo parcial, é de oitenta horas por ano ou o correspondente à proporção entre o respectivo período normal de trabalho e o de trabalhador a tempo completo, quando superior.\n\n9 - O trabalhador a tempo parcial tem direito à remuneração base prevista na lei, em proporção do respectivo período normal de trabalho semanal, e ao subsídio de refeição, excepto quando a sua prestação de trabalho diário seja inferior a metade da duração diária do trabalho a tempo completo, sendo então calculado em proporção do respectivo período normal de trabalho semanal.\n\n10 - São ainda calculados, em proporção do período normal de trabalho semanal do trabalhador a tempo parcial, os suplementos remuneratórios devidos pelo exercício de funções em postos de trabalho que apresentem condições mais exigentes de forma permanente, bem como os prémios de desempenho, previstos na lei.\n\n11 - O trabalho a tempo parcial conta, proporcionalmente, para efeitos de antiguidade na carreira e categoria.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a Artigo 25.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01."
+  },
+  "1127161375": {
+   "fragment_id": "1016465075",
+   "type": 11,
+   "heading": "Artigo 12.º — Outros regimes especiais de duração de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 12.º — Outros regimes especiais de duração de trabalho\n\n1 - Sempre que a política de emprego público o justifique, designadamente a renovação dos efectivos da Administração Pública, podem ser estabelecidos outros regimes de trabalho a tempo parcial.\n\n2 - Quando as características de risco, penosidade e insalubridade decorrentes da actividade exercida o exijam, devem ser fixados regimes de duração semanal inferiores aos previstos no presente diploma.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127161475": {
+   "fragment_id": "1016465275",
+   "type": 1,
+   "heading": "Capítulo III — Regimes de trabalho e condições da sua prestação",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "### Capítulo III — Regimes de trabalho e condições da sua prestação\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127161575": {
+   "fragment_id": "1016465475",
+   "type": 8,
+   "heading": "Secção I — Princípios gerais",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "#### Secção I — Princípios gerais\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127161675": {
+   "fragment_id": "1016465675",
+   "type": 11,
+   "heading": "Artigo 13.º — Horário de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 13.º — Horário de trabalho\n\n1 - Entende-se por horário de trabalho a determinação das horas do início e do termo do período normal de trabalho diário ou dos respectivos limites, bem como dos intervalos de descanso.\n\n2 - O período normal de trabalho diário é interrompido por um intervalo de descanso de duração não inferior a uma hora nem superior a duas, excepto em casos excepcionais devidamente fundamentados, de modo que os funcionários e agentes não prestem mais do que cinco horas de trabalho consecutivo, salvo no caso de jornada contínua.\n\n3 - Pode ser fixado para os funcionários e agentes portadores de deficiência, pelo respectivo dirigente máximo e a pedido do interessado, mais do que um intervalo de repouso e com duração diferente da prevista no número anterior, mas sem exceder no total o limite nele estabelecido.\n\n4 - Ao pessoal encarregado da limpeza dos serviços deve ser fixado um horário especial que recaia apenas num dos períodos do dia e evite a completa coincidência do exercício das suas funções com os períodos normais do serviço ou plataformas fixas.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127161775": {
+   "fragment_id": "1016465875",
+   "type": 11,
+   "heading": "Artigo 14.º — Modo de verificação dos deveres de assiduidade e de pontualidade",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 14.º — Modo de verificação dos deveres de assiduidade e de pontualidade\n\n1 - Os funcionários e agentes devem comparecer regularmente ao serviço às horas que lhes forem designadas e aí permanecer continuamente, não podendo ausentar-se salvo nos termos e pelo tempo autorizados pelo respectivo superior hierárquico, sob pena de marcação de falta, de acordo com a legislação aplicável.\n\n2 - O cumprimento dos deveres de assiduidade e pontualidade, bem como do período normal de trabalho, deve ser verificado por sistemas de registo automáticos, mecânicos ou de outra natureza.\n\n3 - No caso de horários flexíveis, a verificação a que se refere o número anterior deve ser feita, no local de trabalho, através de sistemas de registo automáticos ou mecânicos.\n\n4 - Nos serviços com mais de 50 trabalhadores, a verificação dos deveres de assiduidade e de pontualidade é efectuada por sistemas de registo automáticos ou mecânicos, salvo casos excepcionais, devidamente fundamentados e autorizados pelo dirigente máximo do serviço, com a anuência do respectivo Ministro da tutela e do membro do Governo que tenha a seu cargo a Administração Pública, mediante despacho conjunto.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127161875": {
+   "fragment_id": "1016466075",
+   "type": 8,
+   "heading": "Secção II — Modalidades de horário de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "#### Secção II — Modalidades de horário de trabalho\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127161975": {
+   "fragment_id": "1016466275",
+   "type": 11,
+   "heading": "Artigo 15.º — Modalidades de horário",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 15.º — Modalidades de horário\n\n1 - Em função da natureza das suas actividades, podem os serviços adoptar uma ou, simultaneamente, mais do que uma das seguintes modalidades de horário de trabalho:\n\na) Horários flexíveis;\n\nb) Horário rígido;\n\nc) Horários desfasados;\n\nd) Jornada contínua;\n\ne) Trabalho por turnos.\n\n2 - Para além dos horários referidos no número anterior, podem ser fixados horários específicos de harmonia com o previsto no artigo 22.º\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127162075": {
+   "fragment_id": "1016466475",
+   "type": 11,
+   "heading": "Artigo 16.º — Horários flexíveis",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a [Lei n.º 68/2013 - Diário da República n.º 166/2013, Série I de 2013-08-29](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), em vigor a partir de 1998-09-17."
+   ],
+   "markdown": "###### Artigo 16.º — Horários flexíveis\n\n1 - Horários flexíveis são aqueles que permitem aos funcionários e agentes de um serviço gerir os seus tempos de trabalho, escolhendo as horas de entrada e de saída.\n\n2 - A adopção de qualquer horário flexível está sujeita às seguintes regras:\n\na) A flexibilidade não pode afectar o regular e eficaz funcionamento dos serviços, especialmente no que respeita às relações com o público;\n\nb) É obrigatória a previsão de plataformas fixas da parte da manhã e da parte da tarde, as quais não podem ter, no seu conjunto, duração inferior a quatro horas;\n\nc) Não podem ser prestadas, por dia, mais de nove horas de trabalho;\n\nd) O cumprimento da duração do trabalho deve ser aferido à semana, à quinzena ou ao mês.\n\n3 - O débito de horas, apurado no final de cada período de aferição, dá lugar à marcação de uma falta, que deve ser justificada nos termos da legislação aplicável, por cada período igual ou inferior à duração média diária do trabalho.\n\n4 - Relativamente aos funcionários e agentes portadores de deficiência, o excesso ou débito de horas apurado no final de cada um dos períodos de aferição pode ser transportado para o período imediatamente seguinte e nele compensado, desde que não ultrapasse o limite de cinco e dez horas, respectivamente, para a quinzena e para o mês.\n\n5 - Para efeitos do disposto no n.º 3, a duração média do trabalho é de oito horas e, nos serviços com funcionamento ao sábado de manhã, a que resultar do respetivo regulamento.\n\n6 - As faltas a que se refere o n.º 3 são reportadas ao último dia ou dias do período de aferição a que o débito respeita.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a [Lei n.º 68/2013 - Diário da República n.º 166/2013, Série I de 2013-08-29](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), em vigor a partir de 1998-09-17."
+  },
+  "1127162175": {
+   "fragment_id": "1016466675",
+   "type": 11,
+   "heading": "Artigo 17.º — Horário rígido",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a [Lei n.º 68/2013 - Diário da República n.º 166/2013, Série I de 2013-08-29](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), em vigor a partir de 1998-09-17."
+   ],
+   "markdown": "###### Artigo 17.º — Horário rígido\n\n1 - Horário rígido é aquele que, exigindo o cumprimento da duração semanal do trabalho, se reparte por dois períodos diários, com horas de entrada e de saída fixas idênticas, separados por um intervalo de descanso.\n\n2 - O horário rígido é o seguinte:\n\na) Serviços de regime de funcionamento comum que encerram ao sábado:\n\nPeríodo da manhã - das 9 às 13 horas;\n\nPeríodo da tarde - das 14 às 18 horas;\n\nb) Serviços de regime de funcionamento especial que funcionam ao sábado de manhã:\n\nPeríodo da manhã - das 9 horas e 30 minutos às 13 horas de segunda-feira a sexta-feira e até às 12 horas aos sábados;\n\nPeríodo da tarde - das 14 às 18 horas de segunda-feira a sexta-feira.\n\n3 - A adopção do horário rígido não prejudica o estabelecido no n.º 3 do artigo 13.º\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a [Lei n.º 68/2013 - Diário da República n.º 166/2013, Série I de 2013-08-29](https://diariodarepublica.pt/dr/detalhe/lei/68-2013-499502), em vigor a partir de 1998-09-17."
+  },
+  "1127162375": {
+   "fragment_id": "1016466875",
+   "type": 11,
+   "heading": "Artigo 18.º — Horários desfasados",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 18.º — Horários desfasados\n\nHorários desfasados são aqueles que, embora mantendo inalterado o período normal de trabalho diário, permitem estabelecer, serviço a serviço ou para determinado grupo ou grupos de pessoal, e sem possibilidade de opção, horas fixas diferentes de entrada e de saída.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127162475": {
+   "fragment_id": "1016467075",
+   "type": 11,
+   "heading": "Artigo 19.º — Jornada contínua",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 19.º — Jornada contínua\n\n1 - A jornada contínua consiste na prestação ininterrupta de trabalho, salvo um período de descanso nunca superior a trinta minutos, que, para todos os efeitos, se considera tempo de trabalho.\n\n2 - A jornada contínua deve ocupar, predominantemente, um dos períodos do dia e determinar uma redução do período normal de trabalho diário nunca superior a uma hora, a fixar na regulamentação a que se refere o n.º 2 do artigo 6.º\n\n3 - A jornada contínua pode ser adoptada nos casos previstos no artigo 22.º e em casos excepcionais devidamente fundamentados.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127162575": {
+   "fragment_id": "1016467275",
+   "type": 11,
+   "heading": "Artigo 20.º — Trabalho por turnos",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 20.º — Trabalho por turnos\n\n1 - O trabalho por turnos é aquele em que, por necessidade do regular e normal funcionamento do serviço, há lugar à prestação de trabalho em pelo menos dois períodos diários e sucessivos, sendo cada um de duração não inferior à duração média diária do trabalho.\n\n2 - A prestação de trabalho por turnos deve obedecer às seguintes regras:\n\na) Os turnos são rotativos, estando o respectivo pessoal sujeito à sua variação regular;\n\nb) Nos serviços de funcionamento permanente não podem ser prestados mais de seis dias consecutivos de trabalho;\n\nc) As interrupções a observar em cada turno devem obedecer ao princípio de que não podem ser prestadas mais de cinco horas de trabalho consecutivo;\n\nd) As interrupções destinadas a repouso ou refeição, quando não superiores a 30 minutos, consideram-se incluídas no período de trabalho;\n\ne) O dia de descanso semanal deve coincidir com o domingo, pelo menos uma vez em cada período de quatro semanas;\n\nf) Salvo casos excepcionais, como tal reconhecidos pelo dirigente do serviço e aceites pelo interessado, a mudança de turno só pode ocorrer após o dia de descanso.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127162675": {
+   "fragment_id": "1016467475",
+   "type": 11,
+   "heading": "Artigo 21.º — Subsídio de turno",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Retificado pelo/a [Declaração de Rectificação n.º 13-E/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-e-1998-574712), em vigor a partir de 1998-08-31."
+   ],
+   "markdown": "###### Artigo 21.º — Subsídio de turno\n\n1 - O pessoal em regime de trabalho por turnos, desde que um dos turnos seja total ou parcialmente coincidente com o período nocturno, tem direito a um subsídio correspondente a um acréscimo de remuneração.\n\n2 - O montante do subsídio de turno é variável em função do número de turnos adoptados, bem como do carácter permanente ou não do funcionamento do serviço.\n\n3 - As percentagens fixadas para o subsídio de turno incluem a remuneração devida por trabalho nocturno.\n\n4 - A prestação de trabalho em regime de turnos confere direito a atribuição de um subsídio correspondente a um acréscimo de remuneração calculada sobre o vencimento fixado no índice remuneratório da categoria onde o trabalhador estiver posicionado de acordo com as seguintes percentagens:\n\na) 25% a 22% quando o regime de turnos for permanente, total ou parcial;\n\nb) 22% a 20% quando o regime de turnos for semanal prolongado, total ou parcial;\n\nc) 20% a 15% quando o regime de turnos for semanal total ou parcial.\n\n5 - As percentagens de acréscimo de remuneração referidas no número anterior são estabelecidas no regulamento interno a que se refere o n.º 2 do artigo 6.º tendo em conta o regime de turnos.\n\n6 - O regime de turnos será permanente quando o trabalho for prestado em todos os sete dias da semana, semanal prolongado quando for prestado em todos os cinco dias úteis e no sábado ou domingo e semanal quando for prestado apenas de segunda-feira a sexta-feira.\n\n7 - O regime de turnos será total quando for prestado em, pelos menos, três períodos de trabalho diário e parcial quando for prestado apenas em dois períodos.\n\n8 - A percepção do subsídio de turno não afasta a remuneração por trabalho extraordinário e em dias de descanso semanal ou complementar, nos termos da lei geral, sempre que haja necessidade de prolongar o período de trabalho.\n\n9 - Só há lugar a subsídio de turno enquanto for devido o vencimento de exercício.\n\n10 - O subsídio de um turno está sujeito ao desconto da quota legal para a Caixa Geral de Aposentações e intervém no cálculo da pensão de aposentação pela forma prevista na alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 13-E/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-e-1998-574712), em vigor a partir de 1998-08-31."
+  },
+  "1127162775": {
+   "fragment_id": "1016467675",
+   "type": 11,
+   "heading": "Artigo 22.º — Horários específicos",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a Artigo 16.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+   ],
+   "markdown": "###### Artigo 22.º — Horários específicos\n\n1 - (Revogado.)\n\n2 - De igual modo, aos funcionários e agentes com descendentes ou afins na linha recta descendente, adoptandos ou adoptados a cargo, com idade inferior a 12 anos ou que sejam portadores de deficiência e se encontrem em alguma das situações previstas no artigo 5.º do Decreto-Lei n.º 170/80, de 29 de Maio, devem ser fixados, nos termos do artigo 15.º da Lei n.º 4/84, de 5 de Abril, alterada pela Lei n.º 17/95, de 9 de Junho, pelo Decreto-Lei n.º 194/96, de 16 de Outubro, e pela Lei n.º 102/97, de 13 de Setembro, horários de trabalho ajustados, na medida do possível, ao acompanhamento dos mesmos.\n\n3 - No interesse dos funcionários e agentes, podem ainda ser fixados horários específicos sempre que outras circunstâncias relevantes, devidamente fundamentadas, o justifiquem.\n\n4 - Os horários referidos nos números anteriores são fixados pelos dirigentes dos serviços, a requerimento dos interessados, e podem incluir, para além da jornada contínua, regimes de flexibilidade mais amplos, sem prejuízo da observância do disposto no artigo 13.º\n\n5 - Podem ainda ser fixados outros horários específicos sempre que circunstâncias relevantes relacionadas com a natureza das actividades desenvolvidas, devidamente fundamentadas e sujeitas a consulta prévia dos funcionários e agentes, através das suas organizações representativas, o justifiquem.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a Artigo 16.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+  },
+  "1127162875": {
+   "fragment_id": "1016467875",
+   "type": 8,
+   "heading": "Secção III — Não sujeição a horário de trabalho e isenção de horário de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "#### Secção III — Não sujeição a horário de trabalho e isenção de horário de trabalho\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127162975": {
+   "fragment_id": "1016468075",
+   "type": 11,
+   "heading": "Artigo 23.º — Não sujeição a horário de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 23.º — Não sujeição a horário de trabalho\n\n1 - Entende-se por não sujeição a horário de trabalho a prestação de trabalho não sujeita ao cumprimento de qualquer das modalidades de horário previstas no presente diploma, nem à observância do dever geral de assiduidade e de cumprimento da duração semanal de trabalho.\n\n2 - A adopção de qualquer regime de prestação de trabalho não sujeita a horário obedece às seguintes regras:\n\na) Concordância expressa do funcionário ou agente relativamente às tarefas e aos prazos da sua realização;\n\nb) Destinar-se à realização de tarefas constantes do plano de actividades do serviço, desde que calendarizadas, e cuja execução esteja atribuída ao funcionário não sujeito a horário;\n\nc) Fixação de um prazo certo para a realização da tarefa a executar, que não eleve exceder o limite máximo de 10 dias úteis;\n\nd) Não autorização ao mesmo funcionário mais do que uma vez por trimestre.\n\n3 - O não cumprimento da tarefa no prazo acordado, sem motivos justificados, impede o funcionário ou agente de utilizar este regime durante o prazo de um ano a contar da data do incumprimento.\n\n4 - A não sujeição a horário de trabalho não dispensa o contacto regular do funcionário com o serviço, nem a sua presença no local do trabalho, sempre que tal se mostre necessário.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127163075": {
+   "fragment_id": "1016468275",
+   "type": 11,
+   "heading": "Artigo 24.º — Isenção de horário de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 24.º — Isenção de horário de trabalho\n\n1 - Gozam da isenção de horário de trabalho o pessoal dirigente, bem como os chefes de repartição e de secção e o pessoal de categorias legalmente equiparadas, bem como o pessoal cujas funções não conferem direito a trabalho extraordinário.\n\n2 - A isenção de horário não dispensa a observância do dever geral de assiduidade, nem o cumprimento da duração semanal de trabalho legalmente estabelecida.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127163175": {
+   "fragment_id": "1016468475",
+   "type": 1,
+   "heading": "Capítulo IV — Trabalho extraordinário, nocturno, em dias de descanso e em feriados",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "### Capítulo IV — Trabalho extraordinário, nocturno, em dias de descanso e em feriados\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127163275": {
+   "fragment_id": "1016468675",
+   "type": 8,
+   "heading": "Secção I — Trabalho extraordinário",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "#### Secção I — Trabalho extraordinário\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127163375": {
+   "fragment_id": "1016468875",
+   "type": 11,
+   "heading": "Artigo 25.º — Noção",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 25.º — Noção\n\n1 - Considera-se extraordinário o trabalho que for prestado:\n\na) Fora do período normal de trabalho diário;\n\nb) Nos casos de horário flexível, para além do número de horas a que o trabalhador se encontra obrigado em cada um dos períodos de aferição ou fora do período de funcionamento normal do serviço.\n\n2 - Não há lugar a trabalho extraordinário no regime de isenção de horário e no regime de não sujeição a horário de trabalho.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127163475": {
+   "fragment_id": "1016469075",
+   "type": 11,
+   "heading": "Artigo 26.º — Prestação de trabalho extraordinário",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 26.º — Prestação de trabalho extraordinário\n\n1 - Só é admitida a prestação de trabalho extraordinário quando as necessidades do serviço imperiosamente o exigirem, em virtude da acumulação anormal ou imprevista de trabalho ou da urgência na realização de tarefas especiais não constantes do plano de actividades e, ainda, em situações que resultem de imposição legal.\n\n2 - Salvo o disposto no número seguinte, os funcionários e agentes não podem recusar-se ao cumprimento de trabalho extraordinário.\n\n3 - Não são obrigados à prestação de trabalho extraordinário os funcionários ou agentes que:\n\na) Sejam portadores de deficiência;\n\nb) Estejam em situação de gravidez;\n\nc) Tenham à sua guarda descendentes ou afins na linha recta, adoptandos ou adoptados de idade inferior a 12 anos ou que, sendo portadores de deficiência, careçam de acompanhamento dos progenitores;\n\nd) Gozem do estatuto de trabalhador-estudante;\n\ne) Invoquem motivos atendíveis.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127163575": {
+   "fragment_id": "1016469275",
+   "type": 11,
+   "heading": "Artigo 27.º — Limites ao trabalho extraordinário",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 169/2006 - Diário da República n.º 158/2006, Série I de 2006-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2006-538820), em vigor a partir de 2006-08-18."
+   ],
+   "markdown": "###### Artigo 27.º — Limites ao trabalho extraordinário\n\n1 - O trabalho extraordinário não pode exceder duas horas por dia nem ultrapassar cem horas por ano.\n\n2 - A prestação de trabalho extraordinário não pode determinar um período de trabalho diário superior a nove horas.\n\n3 - Os limites fixados nos números anteriores podem, no entanto, ser ultrapassados:\n\na) Em casos especiais, regulados em diploma próprio, a negociar com as associações sindicais;\n\nb) Quando se trate de motoristas, telefonistas e outro pessoal auxiliar que seja indispensável manter ao serviço;\n\nc) Quando se trate de pessoal administrativo e auxiliar que preste serviço nos gabinetes dos membros do Governo ou equiparados e de pessoal da Presidência da República destacado para, normal ou eventualmente, prestar apoio ao Gabinete do Presidente da República;\n\nd) Em circunstâncias excepcionais e delimitadas no tempo, mediante autorização do membro do Governo competente ou, quando esta não for possível, mediante confirmação da mesma entidade, a proferir nos 15 dias posteriores à ocorrência.\n\n4 - Nos casos das alíneas b) e d) a não oposição dos trabalhadores vale como assentimento à prestação do trabalho.\n\n5 - Na administração local, os limites fixados nos n.os 1 e 2 do presente artigo podem ser ultrapassados quando se trate de pessoal administrativo ou auxiliar que preste apoio às reuniões ou sessões dos órgãos autárquicos, bem como motoristas, telefonistas e outro pessoal auxiliar ou operário, cuja manutenção em serviço seja expressamente fundamentada e reconhecida como indispensável.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 169/2006 - Diário da República n.º 158/2006, Série I de 2006-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2006-538820), em vigor a partir de 2006-08-18."
+  },
+  "1127163675": {
+   "fragment_id": "1016469475",
+   "type": 11,
+   "heading": "Artigo 28.º — Compensação do trabalho extraordinário",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+   ],
+   "markdown": "###### Artigo 28.º — Compensação do trabalho extraordinário\n\n1 - As horas extraordinárias são compensadas, de acordo com a opção do trabalhador nomeado, por um dos seguintes sistemas:\n\na) Dedução posterior no período normal de trabalho, conforme as disponibilidades de serviço, a efetuar dentro do ano civil em que o trabalho foi prestado, acrescida de 12,5 %;\n\nb) Acréscimo na remuneração horária, com as seguintes percentagens: 25 % da remuneração na primeira hora ou fração desta e 37,5 % da remuneração nas horas ou frações subsequentes.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+  },
+  "1127163775": {
+   "fragment_id": "1016469675",
+   "type": 11,
+   "heading": "Artigo 29.º — Compensação por dedução do período normal de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 29.º — Compensação por dedução do período normal de trabalho\n\n1 - O sistema previsto na alínea a) do n.º 1 do artigo anterior pode revestir uma das seguintes formas:\n\na) Dispensa, até ao limite de um dia de trabalho por semana;\n\nb) Acréscimo do período de férias no mesmo ano ou no ano seguinte até ao limite máximo de cinco dias úteis seguidos.\n\n2 - Nos horários flexíveis, a compensação das horas extraordinárias faz-se, em regra, por dedução no período normal de trabalho, salvo quando se mostrar inviável por razões de exclusiva conveniência do serviço e nos casos previstos na alínea d) do n.º 3 do artigo 27.º, em que o pessoal mantém o direito de opção.\n\n3 - As horas extraordinárias que não possam ser compensadas nos termos dos números anteriores são remuneradas de acordo com o disposto na alínea b) do n.º 1 do artigo anterior.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127163875": {
+   "fragment_id": "1016469875",
+   "type": 11,
+   "heading": "Artigo 30.º — Limites remuneratórios",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 30.º — Limites remuneratórios\n\n1 - Os funcionários e agentes não podem, em cada mês, receber por trabalho extraordinário mais do que um terço do índice remuneratório respectivo, pelo que não pode ser exigida a sua realização quando implique a ultrapassagem desse limite.\n\n2 - Exceptua-se do disposto no número anterior o pessoal referido na alínea c) do n.º 3 do artigo 27.º, bem como os motoristas afectos a directores-gerais ou a pessoal de cargos equiparados, os quais podem receber pelo trabalho extraordinário realizado até 60% do vencimento do índice remuneratório respectivo.\n\n3 - O disposto nos números anteriores não prejudica os limites fixados para o pessoal operário e auxiliar afecto às residências oficiais do Presidente da República e do Primeiro-Ministro, nos termos da legislação em vigor.\n\n4 - Na administração local podem ser abonadas importâncias até 60% do respectivo índice remuneratório do pessoal administrativo ou auxiliar que preste apoio a reuniões ou sessões dos órgãos autárquicos, bem como aos motoristas, telefonistas e outro pessoal auxiliar, afectos, por deliberação expressa, ao serviço da presidência dos órgãos executivos e ainda aos motoristas afectos a pessoal de cargos equiparados a director-geral.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127163975": {
+   "fragment_id": "1016470075",
+   "type": 11,
+   "heading": "Artigo 31.º — Registo de horas extraordinárias",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 31.º — Registo de horas extraordinárias\n\nOs serviços devem preencher e enviar mensalmente à Direcção-Geral do Orçamento em impresso próprio a indicação do número de horas extraordinárias por cada funcionário ou agente, o respectivo fundamento legal e as correspondentes remunerações.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127164075": {
+   "fragment_id": "1016470275",
+   "type": 8,
+   "heading": "Secção II — Trabalho nocturno",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "#### Secção II — Trabalho nocturno\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127164175": {
+   "fragment_id": "1016470475",
+   "type": 11,
+   "heading": "Artigo 32.º — Noção e regime",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+   ],
+   "markdown": "###### Artigo 32.º — Noção e regime\n\n1 - Considera-se trabalho noturno, o prestado entre as 22 horas de um dia e as 7 horas do dia seguinte.\n\n2 - (Revogado.)\n\n3 - O trabalho noturno deve ser remunerado com um acréscimo de 25 % relativamente à remuneração do trabalho equivalente prestado durante o dia.\n\n4 - O disposto no número anterior não se aplica às categorias cujas funções, pela sua natureza, só possam ser exercidas em período predominantemente nocturno, salvo casos excepcionais devidamente autorizados pelos Ministros da tutela, das Finanças e do membro do Governo responsável pela Administração Pública, mediante despacho conjunto.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+  },
+  "1127164275": {
+   "fragment_id": "1016470675",
+   "type": 8,
+   "heading": "Secção III — Trabalho em dias de descanso semanal, de descanso complementar e em feriados",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "#### Secção III — Trabalho em dias de descanso semanal, de descanso complementar e em feriados\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127164375": {
+   "fragment_id": "1016470875",
+   "type": 11,
+   "heading": "Artigo 33.º — Regime",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.",
+    "Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+   ],
+   "markdown": "###### Artigo 33.º — Regime\n\n1 - A prestação de trabalho em dia de descanso semanal, de descanso complementar e em feriado pode ter lugar nos casos e nos termos previstos no artigo 26.º, não podendo ultrapassar a duração normal de trabalho diário.\n\n2 - O trabalho prestado em dia de descanso semanal é compensado por um acréscimo de remuneração calculado através da multiplicação do valor da hora normal de trabalho pelo coeficiente 1,5 e confere ainda direito a um dia completo de descanso nos três dias úteis seguintes.\n\n3 - A prestação de trabalho em dia de descanso complementar ou feriado é compensada apenas pelo acréscimo de remuneração referido no número anterior.\n\n4 - Nos casos em que o feriado recaia em dia de descanso semanal aplica-se na íntegra o regime previsto no n.º 2.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01.\n\n> Alterado pelo/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01."
+  },
+  "1127164475": {
+   "fragment_id": "1016471075",
+   "type": 8,
+   "heading": "Secção IV — Autorização e responsabilização",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "#### Secção IV — Autorização e responsabilização\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127164575": {
+   "fragment_id": "1016471275",
+   "type": 11,
+   "heading": "Artigo 34.º — Autorização",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 34.º — Autorização\n\n1 - A prestação de trabalho extraordinário e em dia de descanso semanal, descanso complementar e feriado deve ser previamente autorizada pelo dirigente do respectivo serviço ou organismo ou pelas entidades que superintendem nos gabinetes a que alude a alínea c) do n.º 3 do artigo 27.º\n\n2 - Exceptuam-se do disposto no número anterior, quanto aos feriados, os serviços que, por força da actividade exercida, laborem normalmente nesse dia.\n\n3 - Os funcionários e agentes interessados devem ser informados, salvo casos excepcionais, com a antecedência de quarenta e oito horas, da necessidade de prestarem trabalho extraordinário e em dia de descanso semanal ou complementar e em feriado.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127164675": {
+   "fragment_id": "1016471475",
+   "type": 11,
+   "heading": "Artigo 35.º — Responsabilização",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 35.º — Responsabilização\n\n1 - Os dirigentes devem limitar ao estritamente indispensável a autorização de trabalho nas modalidades previstas no presente capítulo.\n\n2 - Os funcionários e agentes que tenham recebido indevidamente quaisquer abonos são obrigados à sua reposição, pela qual ficam solidariamente responsáveis os dirigentes dos respectivos serviços.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127164775": {
+   "fragment_id": "1016471675",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127164875": {
+   "fragment_id": "1016471875",
+   "type": 11,
+   "heading": "Artigo 36.º — Cálculo da remuneração horária normal",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 36.º — Cálculo da remuneração horária normal\n\nA remuneração horária é calculada através da fórmula (R x 12)/(52 x N), sendo R o vencimento mensal auferido e N o número de horas correspondente à normal duração semanal do trabalho.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127164975": {
+   "fragment_id": "1016472075",
+   "type": 11,
+   "heading": "Artigo 37.º — Pessoal dirigente",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 37.º — Pessoal dirigente\n\n1 - As referências feitas no presente diploma aos dirigentes máximos dos serviços entendem-se reportadas aos secretários-gerais, directores-gerais e pessoal de cargos equiparados, bem como ao pessoal dirigente directamente dependente de qualquer membro do Governo.\n\n2 - As competências atribuídas no presente diploma aos dirigentes máximos dos serviços são, na administração local, cometidas:\n\na) Ao presidente da câmara municipal - nas câmaras municipais;\n\nb) Ao presidente do conselho de administração - nas associações de municípios e nos serviços municipalizados;\n\nc) À junta de freguesia - nas juntas de freguesia;\n\nd) Ao presidente da mesa da assembleia distrital - nas assembleias distritais.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127165075": {
+   "fragment_id": "1016472275",
+   "type": 11,
+   "heading": "Artigo 38.º — Pessoal docente, saúde e justiça",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 38.º — Pessoal docente, saúde e justiça\n\nMantêm-se em vigor os regimes de trabalho e condições da sua prestação fixados em legislação especial para o pessoal docente e da saúde e, bem assim, para o sector da justiça, sem prejuízo do previsto artigo 15.º\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127165175": {
+   "fragment_id": "1016472475",
+   "type": 11,
+   "heading": "Artigo 39.º — Pessoal dos grupos operário e auxiliar",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 39.º — Pessoal dos grupos operário e auxiliar\n\n1 - Para o pessoal dos grupos operário e auxiliar, a duração semanal do trabalho é, transitoriamente, a seguinte:\n\na) Em 1998: trinta e sete horas semanais;\n\nb) Em 1999: trinta e seis horas semanais.\n\n2 - A duração semanal de trabalho referida no número anterior produz efeitos a partir do dia 1 de Janeiro de cada ano.\n\n3 - O disposto no n.º 1 não prejudica a existência de regimes de duração semanal de trabalho inferiores já estabelecidos.\n\n4 - O limite máximo do período normal de trabalho diário é, em função da duração semanal, o constante do anexo A ao presente diploma, que dele faz parte integrante.\n\n5 - O horário rígido a que se refere o artigo 17.º do presente diploma é, nos anos de 1997 a 1999, o que consta dos anexos B e C ao presente diploma, que dele fazem parte integrante, consoante se trate de serviços de regime de funcionamento normal que encerrem ao sábado ou de serviços de regime de funcionamento especial que funcionam ao sábado de manhã, respectivamente.\n\n6 - Transitoriamente até à generalização da duração de trabalho de trinta e cinco horas semanais, no caso de horários flexíveis devem seguir-se as seguintes regras:\n\na) É obrigatória a previsão das plataformas fixas da parte da manhã e da parte da tarde, as quais não podem ter, no seu conjunto, duração inferior a quatro horas, no caso de horários até trinta e sete horas, e de cinco horas, nos restantes casos;\n\nb) Não podem ser prestados, por dia, mais de nove horas de trabalho, no caso de horários até trinta e sete horas, ou de dez horas, nos restantes casos.\n\n7 - Para efeitos do disposto no n.º 3 do artigo 16.º, a duração média de trabalho é de sete ou oito horas para o pessoal abrangido por uma duração semanal inferior a trinta e sete horas, ou superior a este limite, respectivamente, e ainda a que resultar do respectivo regulamento, nos serviços com funcionamento ao sábado de manhã.\n\n8 - Em caso de jornada contínua, até à generalização da duração de trabalho de trinta e cinco horas semanais, a redução referida no n.º 2 do artigo 19.º do presente diploma não pode ser superior a uma hora ou a uma hora e trinta minutos por dia, conforme a duração semanal de trabalho seja, respectivamente, inferior, ou não, a trinta e sete horas.\n\n9 - Ao pessoal a quem, nos termos do artigo 7.º do Decreto-Lei n.º 159/96, de 4 de Setembro, foi concedido um crédito de não trabalho de três dias é mantido o direito ao subsídio de refeição durante o uso deste crédito.\n\n10 - O crédito de não trabalho de três dias, referido no número anterior, que não foi usado até ao termo do ano civil de 1996, por razões de conveniência de serviço ou interesse relevante do próprio trabalhador, deve ser gozado durante o ano civil de 1997.\n\n11 - Os créditos de não trabalho que não foram usados até ao termo do ano civil de 1996 podem ser gozados seguida ou interpoladamente, repartidos por meios dias ou não, e ser associados ao gozo de férias ou a um período de faltas, de qualquer natureza, mantendo-se, também, o direito ao subsídio de refeição.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127165275": {
+   "fragment_id": "1016472675",
+   "type": 11,
+   "heading": "Artigo 40.º — Revisão do regime de trabalho a meio tempo e da não sujeição a horário de trabalho",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 40.º — Revisão do regime de trabalho a meio tempo e da não sujeição a horário de trabalho\n\nOs regimes de trabalho a meio tempo e da não sujeição a horário de trabalho, constantes dos artigos 8.º e 23.º, serão obrigatoriamente revistos no prazo máximo de dois anos a contar da data da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127165375": {
+   "fragment_id": "1016472875",
+   "type": 11,
+   "heading": "Artigo 41.º — Legislação revogada",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 41.º — Legislação revogada\n\nÉ revogada a Lei n.º 17/89, de 5 de Julho, e o Decreto-Lei n.º 167/80, de 29 de Maio, o Decreto-Lei n.º 235/81, de 6 de Agosto, o Decreto-Lei n.º 187/88, de 27 de Maio, o Decreto-Lei n.º 263/91, de 26 de Julho, e o Decreto-Lei n.º 159/96, de 4 de Setembro.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127165475": {
+   "fragment_id": "1016473075",
+   "type": 11,
+   "heading": "Artigo 42.º — Entrada em vigor",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 42.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127165575": {
+   "fragment_id": "1016473275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Maio de 1998. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Joaquim Augusto Nunes de Pina Moura - Fernando Manuel Van-Zeller Gomes da Silva - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira - Manuel Maria Ferreira Carrilho - José Mariano Rebelo Pires Gago - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 31 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 6 de Agosto de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127165675": {
+   "fragment_id": "1016473475",
+   "type": 14,
+   "heading": "Anexo A",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "## Anexo A\n\n(ver tabela no documento original)\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127165775": {
+   "fragment_id": "1016473675",
+   "type": 14,
+   "heading": "Anexo B",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "## Anexo B\n\n(ver tabela no documento original)\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1127165875": {
+   "fragment_id": "1016473875",
+   "type": 14,
+   "heading": "Anexo C",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "## Anexo C\n\n(ver tabela no documento original)\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  }
+ }
+}

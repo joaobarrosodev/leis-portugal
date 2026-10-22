@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:1140260276:por
+title: Resolução do Conselho de Ministros n.º 141/2026
+short_title: null
+summary: Designa três membros do conselho de curadores da Agência de Avaliação e Acreditação do Ensino Superior.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 141/2026
+official_date: null
+publication_date: '2026-06-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/2026, Série I de 2026-06-30
+  number: '124'
+  series: I
+  supplement: null
+  pages: 16 - 18
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/06/12400/0001600018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/141/2026/06/30/p/dre/pt/html
+  oj: null
+  dre: '1140260276'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/141-2026-1140260276
+  internal: pt:dre:1140260276:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-2026-1140260276
+  metadata_url: https://data.dre.pt/eli/resolconsmin/141/2026/06/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/141-2026-1140260276
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-06-30T00:00:00Z'
+integrity:
+  source_sha256: 6c1aa19c694ceaaa96e9cd89bd8b11e11151088d5667223c0bf49b3863a8f473
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2026/DRE-2026-141-1140260276.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência de Avaliação e Acreditação do Ensino Superior
+- Conselho de Curadores
+- Nomeação
+- Presidente
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/369/2007/11/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/369/2007/11/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/179/2025/11/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/179/2025/11/24/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 141/2026
+
+A Agência de Avaliação e Acreditação do Ensino Superior (A3ES) é uma fundação de direito privado, dotada de personalidade jurídica e reconhecida como de utilidade pública, à qual compete, nos termos previstos na lei, a avaliação e a acreditação das instituições de ensino superior e dos seus ciclos de estudos, bem como o desempenho das funções inerentes à inserção de Portugal no sistema europeu de garantia da qualidade do ensino superior.
+
+São órgãos da A3ES o conselho de curadores, o conselho de administração, o conselho fiscal, o conselho de revisão e o conselho consultivo.
+
+Nos termos do artigo 8.º dos Estatutos da A3ES, aprovados em anexo ao [Decreto-Lei n.º 369/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-2007-629433), de 5 de novembro, o conselho de curadores desta é composto por cinco membros, designados por resolução do Conselho de Ministros, sob proposta do membro do Governo responsável pela área do ensino superior, de entre personalidades de reconhecido mérito e experiência, sendo dois desses membros escolhidos de entre cinco personalidades indicadas em lista apresentada, conjuntamente, pelo Conselho de Reitores das Universidades Portuguesas, pelo Conselho Coordenador dos Institutos Superiores Politécnicos e pela Associação Portuguesa do Ensino Superior Privado, ao referido membro do Governo.
+
+O mandato dos membros do conselho de curadores da A3ES é de cinco anos, não renovável e excecionalmente prorrogável por mais um ano.
+
+Atendendo a que cessaram os mandatos de três membros do conselho de curadores da A3ES, é necessário proceder à designação de três novos membros.
+
+Foram ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado, nos termos do n.º 2 do artigo 8.º dos Estatutos da A3ES.
+
+Assim:
+
+Nos termos do artigo 8.º dos Estatutos da Agência de Avaliação e Acreditação do Ensino Superior, aprovados em anexo ao [Decreto-Lei n.º 369/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-2007-629433), de 5 de novembro, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, sob proposta do Ministro da Educação, Ciência e Inovação, como membros do conselho de curadores da Agência de Avaliação e Acreditação do Ensino Superior (A3ES), as seguintes personalidades de reconhecido mérito e experiência, cujas notas curriculares constam do anexo à presente resolução e da qual faz parte integrante:
+
+a) Luísa Canto e Castro Loura, diretora da Pordata e membro do conselho de administração e da comissão executiva da Fundação Francisco Manuel dos Santos;
+
+b) Maria José da Silva Fernandes, vice-presidente do conselho diretivo da Comissão de Coordenação e Desenvolvimento Regional do Norte, I. P.;
+
+c) Maria Leonor Beleza, presidente da Fundação Champalimaud, nos termos do n.º 2 do artigo 8.º dos Estatutos da A3ES, aprovados em anexo ao [Decreto-Lei n.º 369/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/369-2007-629433), de 5 de novembro, tendo sido selecionada de entre cinco personalidades indicadas em lista apresentada, conjuntamente, pelo Conselho de Reitores das Universidades Portuguesas, pelo Conselho Coordenador dos Institutos Superiores Politécnicos e pela Associação Portuguesa do Ensino Superior Privado.
+
+2 - Determinar que os membros do conselho de curadores da A3ES têm direito ao reembolso das despesas que realizem no exercício ou por causa das suas funções e a senhas de presença de valor correspondente ao montante diário dos avaliadores científicos internacionais, de acordo com os parâmetros seguidos pela Fundação para a Ciência e a Tecnologia, I. P., ou pela entidade que lhe suceder na generalidade das respetivas missão e atribuições, pelo dia ou pelos dias seguidos de presença em reunião do conselho, a suportar pela A3ES.
+
+3 - Estabelecer que, em consequência, o conselho de curadores da A3ES passa a ter a seguinte composição:
+
+a) Sebastião Feyo de Azevedo, que preside, designado pela [Resolução do Conselho de Ministros n.º 179/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-2025-950872041), de 24 de novembro;
+
+b) António Fontaínhas Fernandes, designado pela [Resolução do Conselho de Ministros n.º 179/2025](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/179-2025-950872041), de 24 de novembro;
+
+c) Luísa Canto e Castro Loura;
+
+d) Maria José da Silva Fernandes;
+
+e) Maria Leonor Beleza.
+
+4 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 25 de junho de 2026. - Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+## ANEXO — (a que se refere o n.º 1)
+
+Notas curriculares
+
+Luísa Canto e Castro Loura
+
+Luísa Canto e Castro Loura é licenciada em Matemática Aplicada, ramo de Estatística e Computação, pela Faculdade de Ciências da Universidade de Lisboa (1982), e doutorada em Estatística e Computação, pela Universidade de Lisboa (1992).
+
+Foi docente do Departamento de Estatística e Investigação Operacional, da Faculdade de Ciências da Universidade de Lisboa, entre outubro de 1982 e janeiro de 2023, data em que se aposentou como professora associada. Foi dirigente máxima da Direção-Geral de Estatísticas da Educação e Ciência, entre setembro de 2011 e novembro de 2019, e foi, também, vice-presidente do Conselho Científico da Faculdade de Ciências da Universidade de Lisboa, de abril a dezembro de 2003, e subdiretora da mesma instituição, entre junho de 2009 e setembro de 2011. De 1997 a 1999 e entre 2006 e 2011, foi membro da direção da Sociedade Portuguesa de Estatística.
+
+Coordenou e lecionou diversas disciplinas da área das probabilidades, estatística e processos estocásticos dos cursos de licenciatura e mestrado da Faculdade de Ciências da Universidade de Lisboa. Foi coordenadora do mestrado em Bioestatística e da licenciatura em Estatística Aplicada e foi orientadora de 14 alunos de mestrado e de sete alunos de doutoramento.
+
+Enquanto membro do Centro de Estatística e Aplicações da Universidade de Lisboa, foi autora ou coautora de cerca de 60 artigos e publicações em revistas, livros e atas de conferências científicas, designadamente nas áreas da teoria de valores extremos, dos modelos estatísticos em genética, dos modelos de séries temporais e do ensino da estatística para os níveis básico e secundário.
+
+É, atualmente, diretora da Pordata e membro do conselho de administração e da comissão executiva da Fundação Francisco Manuel dos Santos.
+
+Maria José da Silva Fernandes
+
+Maria José da Silva Fernandes é licenciada em Gestão de Empresas, pela Universidade do Minho, mestrado em Administração Pública, pela Universidade do Minho, doutorada em Ciências Empresariais (ramo Contabilidade), pela Universidade de Santiago de Compostela, Espanha, e agregada em Gestão pelo Instituto Superior de Economia e Gestão da Universidade Técnica de Lisboa.
+
+É professora coordenadora principal na Escola Superior de Gestão do Instituto Politécnico do Cávado e do Ave.
+
+Foi presidente do Instituto Politécnico do Cávado e do Ave, de julho de 2017 a dezembro de 2025.
+
+Foi presidente do Conselho Coordenador dos Institutos Superiores Politécnicos, de abril de 2022 a dezembro de 2025.
+
+É coordenadora do Anuário Financeiro dos Municípios Portugueses, desde 2019.
+
+É, atualmente, vice-presidente do conselho diretivo da Comissão de Coordenação e Desenvolvimento Regional do Norte, I. P., desde abril de 2026.
+
+Maria Leonor Beleza
+
+Maria Leonor Beleza é licenciada em Direito, pela Faculdade de Direito da Universidade de Lisboa. Exerceu funções como funcionária pública e como advogada.
+
+Foi membro da Comissão de Revisão do Código Civil (1976-1977).
+
+Exerceu funções governativas como Secretária de Estado da Presidência do Conselho de Ministros (1982-1983), Secretária de Estado da Segurança Social (1983-1985) e Ministra da Saúde (1985-1990).
+
+Foi Deputada à Assembleia da República e Vice-Presidente da Assembleia da República (1991-1994 e 2002-2005).
+
+Foi presidente do Conselho Geral da Universidade de Lisboa, entre 2013 e 2021.
+
+É membro do Conselho de Estado, desde 2008. Integra, ainda, diversos conselhos consultivos e instituições de carácter social.
+
+É, atualmente, presidente da Fundação Champalimaud, por designação testamentária do seu fundador, António Champalimaud.

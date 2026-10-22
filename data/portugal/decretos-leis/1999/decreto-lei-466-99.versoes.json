@@ -1,0 +1,622 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:693590:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34577975",
+ "dre_path": "/dr/detalhe/decreto-lei/466-1999-693590",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-11-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "48299875",
+    "47889875",
+    "47889975",
+    "47890075",
+    "47890175",
+    "47890275",
+    "47890375",
+    "47890475",
+    "47890575",
+    "47890675",
+    "47890775",
+    "47890875",
+    "47890975",
+    "47891075",
+    "47891175",
+    "47891275",
+    "47891375",
+    "47891475",
+    "47891575",
+    "47891675",
+    "47891775",
+    "47891875",
+    "47891975",
+    "47892075",
+    "47892175",
+    "47892275",
+    "47892375",
+    "47892475",
+    "47892575",
+    "47892675",
+    "47892775",
+    "47892875",
+    "47892975",
+    "47893075",
+    "47893175",
+    "47893275",
+    "47893375",
+    "47893475",
+    "47893575",
+    "47893675",
+    "47893775",
+    "47893875",
+    "47893975",
+    "47894075",
+    "47894175",
+    "47894275",
+    "47894375",
+    "47894475"
+   ]
+  },
+  {
+   "date": "2001-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:342618:por",
+     "title": "Decreto-Lei n.º 161/2001",
+     "published": "2001-05-22",
+     "dre_path": "/dr/detalhe/decreto-lei/161-2001-342618"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "48299875",
+    "47889875",
+    "47889975",
+    "47890075",
+    "47890175",
+    "47890275",
+    "47890375",
+    "48287875",
+    "47890575",
+    "47890675",
+    "47890775",
+    "47890875",
+    "47890975",
+    "47891075",
+    "47891175",
+    "47891275",
+    "47891375",
+    "47891475",
+    "47891575",
+    "47891675",
+    "47891775",
+    "47891875",
+    "47891975",
+    "47892075",
+    "47892175",
+    "47892275",
+    "47892375",
+    "47892475",
+    "47892575",
+    "47892675",
+    "47892775",
+    "47892875",
+    "47892975",
+    "47893075",
+    "47893175",
+    "47893275",
+    "47893375",
+    "47893475",
+    "47893575",
+    "47893675",
+    "47893775",
+    "47893875",
+    "47893975",
+    "47894075",
+    "47894175",
+    "47894275",
+    "47894375",
+    "47894475",
+    "47894675"
+   ]
+  },
+  {
+   "date": "2026-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1126594009:por",
+     "title": "Decreto-Lei n.º 105/2026",
+     "published": "2026-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/105-2026-1126594009"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "48299875",
+    "47889875",
+    "47889975",
+    "47890075",
+    "47890175",
+    "47890275",
+    "47890375",
+    "48287875",
+    "47890575",
+    "47890675",
+    "47890775",
+    "47890875",
+    "47890975",
+    "47891075",
+    "47891175",
+    "47891275",
+    "123993458",
+    "47891475",
+    "47891575",
+    "47891675",
+    "47891775",
+    "47891875",
+    "47891975",
+    "47892075",
+    "47892175",
+    "47892275",
+    "47892375",
+    "47892475",
+    "47892575",
+    "47892675",
+    "47892775",
+    "47892875",
+    "47892975",
+    "47893075",
+    "47893175",
+    "1127053975",
+    "47893375",
+    "47893475",
+    "47893575",
+    "47893675",
+    "47893775",
+    "47893875",
+    "47893975",
+    "47894075",
+    "47894175",
+    "47894275",
+    "47894375",
+    "47894475",
+    "47894675"
+   ]
+  }
+ ],
+ "fragments": {
+  "48299875": {
+   "fragment_id": "35197775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2001-05-23",
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 404/82, de 24 de Setembro, constitui o diploma básico do regime jurídico das pensões de preço de sangue e por serviços excepcionais e relevantes prestados ao País.\n\nPosteriormente à sua publicação, porém, foram-lhe introduzidas diversas alterações, em função das quais o regime destas pensões se encontra, actualmente, disperso por várias disposições legislativas, nem sempre coerentes entre si, com prejuízo da sua consulta e interpretação, havendo por isso todo o interesse em promover a centralização desta matéria num único diploma, aproveitando-se a oportunidade para proceder à actualização de algumas disposições.\n\nPor outro lado, a evolução sócio-económica verificada e a experiência colhida nos últimos anos aconselham a que se proceda a ajustamentos no tocante à acumulação destas pensões com outros rendimentos.\n\nDe facto, a aplicação prática do regime de acumulação destas pensões com outras pensões ou com rendimentos de outra natureza tem conduzido a que seja nulo o valor de um elevado número das pensões por serviços excepcionais e relevantes prestados ao País, frustrando-se, assim, as expectativas criadas aquando da sua atribuição.\n\nEstas situações têm dado origem a reiteradas e fundadas reclamações dos interessados, que urge atender para garantir a efectivação de direitos anteriormente estabelecidos e conferir maior clareza às relações dos cidadãos com o Estado em matéria de protecção social.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "47889875": {
+   "fragment_id": "35674375",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito"
+  },
+  "47889975": {
+   "fragment_id": "37108875",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito material\n\nO presente diploma abrange:\n\na) Pensões de preço de sangue;\n\nb) Pensões por serviços excepcionais e relevantes prestados ao País."
+  },
+  "47890075": {
+   "fragment_id": "35674475",
+   "type": 1,
+   "heading": "Capítulo II — Do direito à pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do direito à pensão"
+  },
+  "47890175": {
+   "fragment_id": "37108975",
+   "type": 8,
+   "heading": "Secção I — Dos factos originários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dos factos originários"
+  },
+  "47890275": {
+   "fragment_id": "38711175",
+   "type": 11,
+   "heading": "Artigo 2.º — Pensão de preço de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pensão de preço de sangue\n\n1 - Origina o direito à pensão de preço de sangue o falecimento:\n\na) De militar ao serviço da Nação, por acidente ocorrido em ocasião de serviço e em consequência do mesmo ou resultante de doença adquirida ou agravada igualmente em ocasião de serviço e em consequência do mesmo;\n\nb) De civil incorporado em serviço nas Forças Armadas e com elas colaborando por ordem da autoridade competente, quando se verifique qualquer das circunstâncias referidas na alínea anterior;\n\nc) De deficientes das Forças Armadas portadores de incapacidade igual ou superior a 60%;\n\nd) De magistrado, oficial de justiça, autoridade ou agente de autoridade, elementos dos serviços e forças de segurança, pessoal do quadro e extraordinário dos serviços prisionais e dos serviços de reinserção social, quando tenha resultado de ferimentos ou acidente ocorrido no desempenho das suas funções;\n\ne) De médico, veterinário, farmacêutico, pessoal de enfermagem e sanitário, quando resulte de ferimentos ou acidente ocorrido no desempenho dos seus deveres profissionais, em caso de alteração da ordem ou no combate de quaisquer epidemias de moléstia infecciosa ou contagiosa contraída em serviço público de assistência sanitária, nos serviços de laboratórios oficiais de bacteriologia, nos postos públicos de desinfecção e nas estações de saúde ou lazaretos;\n\nf) De médico, engenheiro ou qualquer técnico, quando resulte de ferimentos ou acidente ocorrido no desempenho dos seus deveres profissionais, em caso de trabalhos com radiações ionizantes, de lesões ou moléstias contraídas, em serviços oficiais, devido a trabalhos com essas radiações ou desempenho de actividade profissional em contacto com matérias tóxicas;\n\ng) De funcionário ou agente integrado no Serviço Nacional de Protecção Civil, no Serviço Nacional de Bombeiros ou qualquer elemento pertencente a corpo de bombeiros, quando resultar de ferimentos ou acidentes ocorridos no desempenho da sua missão, bem como do pessoal da Direcção-Geral das Florestas ou seus trabalhadores eventuais, quando em resultado de acidentes na defesa da floresta contra incêndios;\n\nh) De funcionários ou agentes da administração central, regional ou local ou de outros serviços ou órgãos do Estado, quando resultar de ferimentos ou de acidentes ocorridos em missões enquadradas em acções de emergência ou de protecção civil.\n\n2 - Para efeitos do presente diploma, considera-se equivalente ao falecimento o desaparecimento em campanha e em situação de perigo dos indivíduos referidos nas alíneas a) e b) do número anterior.\n\n3 - Origina ainda o direito à pensão de preço de sangue o falecimento ou a incapacidade absoluta e permanente para o trabalho de titulares de órgãos de soberania e de órgãos de governo próprio das Regiões Autónomas, de governadores civis e de presidentes de câmaras municipais ou de vereadores em regime de permanência, ocorrido no exercício e por causa das suas funções."
+  },
+  "47890375": {
+   "fragment_id": "38711275",
+   "type": 11,
+   "heading": "Artigo 3.º — Missões no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missões no estrangeiro\n\n1 - O Conselho de Ministros poderá, mediante resolução, quando razões humanitárias o justifiquem, conceder a pensão de preço de sangue pelo falecimento de cidadão português, nas condições referidas no artigo 2.º, no desempenho de missão no estrangeiro ao serviço do Estado Português ou ao serviço de organização internacional em consequência de vinculação do Estado Português.\n\n2 - Os beneficiários da pensão atribuída nos termos do número anterior serão os expressamente designados pela resolução do Conselho de Ministros no respeito pelo disposto no artigo 5.º"
+  },
+  "47890475": {
+   "fragment_id": "38711375",
+   "type": 11,
+   "heading": "Artigo 4.º — Pensão por serviços excepcionais e relevantes prestados ao País",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pensão por serviços excepcionais e relevantes prestados ao País\n\n1 - A atribuição da pensão por serviços excepcionais e relevantes prestados ao País pressupõe que o beneficiário revele exemplar conduta moral e cívica e pode ter lugar quando se verifique:\n\na) A prática, por cidadão português, militar ou civil, de feitos em teatro de guerra, de actos de abnegação e coragem cívica ou de altos e assinalados serviços à Humanidade ou à Pátria;\n\nb) A prática, por qualquer cidadão, de acto humanitário ou de dedicação à causa pública de que resulte a incapacidade absoluta e permanente para o trabalho ou o falecimento do seu autor;\n\nc) A situação de cidadão português feito prisioneiro ou capturado em combate no decurso da guerra nas ex-colónias.\n\n2 - Para efeitos do disposto no número anterior, entende-se por exemplar conduta moral e cívica a observância, de modo constante e permanente, do respeito pelos direitos e liberdades individuais e colectivos, bem como pelo prestígio e dignidade do País.\n\n3 - São relevantes, para efeitos do disposto na alínea c) do n.º 1, as situações que se tenham prolongado por um período igual ou superior a 30 dias ou que, independentemente da sua duração, tenham provocado no prisioneiro sequelas físicas ou psicológicas de que resulte desvalorização da sua capacidade para o trabalho."
+  },
+  "47890575": {
+   "fragment_id": "37109075",
+   "type": 8,
+   "heading": "Secção II — Dos titulares com direito à pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos titulares com direito à pensão"
+  },
+  "47890675": {
+   "fragment_id": "38711475",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários da pensão de preço de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários da pensão de preço de sangue\n\n1 - A pensão de preço de sangue é estabelecida em benefício de quem se encontre, relativamente ao falecido, sucessivamente e por ordem de preferência, em alguma das situações referidas nas alíneas seguintes:\n\na) Cônjuges sobrevivos, divorciados, separados judicialmente de pessoas e bens, pessoas que estiverem nas condições do artigo 2020.º do Código Civil e descendentes;\n\nb) Pessoa que o tenha criado e sustentado;\n\nc) Ascendentes de qualquer grau;\n\nd) Irmãos.\n\n2 - Nos casos referidos no n.º 3 do artigo 2.º de que resulte incapacidade absoluta e permanente para o trabalho do autor do facto que lhe dá origem, o direito à pensão é estabelecido em benefício deste, enquanto vivo, transmitindo-se, após a sua morte, às pessoas que a poderiam requerer pelo seu falecimento."
+  },
+  "47890775": {
+   "fragment_id": "38711575",
+   "type": 11,
+   "heading": "Artigo 6.º — Beneficiários da pensão por serviços excepcionais e relevantes prestados ao País",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Beneficiários da pensão por serviços excepcionais e relevantes prestados ao País\n\n1 - A pensão por serviços excepcionais e relevantes prestados ao País é estabelecida em benefício do próprio autor do facto que a origine, enquanto vivo, e, após a sua morte, das pessoas referidas no artigo anterior.\n\n2 - Se a pensão tiver sido concedida em vida ao autor do facto determinante dela, transmite-se, após a sua morte, às pessoas que a poderiam requerer pelo seu falecimento."
+  },
+  "47890875": {
+   "fragment_id": "38711675",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisitos gerais\n\n1 - O direito a receber a pensão só é reconhecido às pessoas que, incluindo-se em alguma das alíneas do n.º 1 do artigo 5.º, estivessem a cargo do falecido à data do óbito e reúnam os requisitos indicados no artigo 8.º\n\n2 - O requisito de estar a cargo do falecido à data do óbito é dispensado quanto aos órfãos menores, à pessoa que criou o falecido e aos ascendentes.\n\n3 - Às pessoas incluídas nas alíneas b) e c) do n.º 1 do artigo 5.º é reconhecido o direito de, a todo o tempo, requererem a pensão."
+  },
+  "47890975": {
+   "fragment_id": "38711775",
+   "type": 11,
+   "heading": "Artigo 8.º — Requisitos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requisitos especiais\n\n1 - O cônjuge sobrevivo, não separado judicialmente de pessoas e bens, só tem direito à pensão desde que estivesse a viver em comunhão de mesa e habitação com o falecido à data do óbito.\n\n2 - Os divorciados ou separados judicialmente de pessoas e bens só têm direito à pensão desde que:\n\na) Tivessem direito a receber do falecido, à data do óbito, pensão de alimentos fixada ou homologada judicialmente;\n\nb) Não sejam casados nem se encontrem nas condições previstas no artigo 2020.º do Código Civil.\n\n3 - Aquele que estiver nas condições previstas no artigo 2020.º do Código Civil só poderá requerer a pensão depois de sentença judicial que lhe fixe o direito a alimentos, ainda que provisório, e a pensão será devida a partir do dia 1 do mês seguinte àquele em que a requeira, enquanto se mantiver o referido direito.\n\n4 - Os descendentes só têm direito à pensão enquanto satisfizerem as seguintes condições:\n\na) Terem menos de 18 anos ou menos de 21 e estarem matriculados e a frequentar curso de nível secundário ou equiparado ou menos de 25 e estarem matriculados e a frequentar curso superior ou equiparado;\n\nb) Independentemente da idade, sofrerem de incapacidade absoluta e permanente para o trabalho.\n\n5 - A pessoa que criou o falecido e os ascendentes deste só têm direito à pensão quando tiverem mais de 65 anos ou, sendo de idade inferior, se sofrerem de incapacidade absoluta e permanente para o trabalho.\n\n6 - Os irmãos têm direito à pensão desde que satisfaçam os requisitos indicados no n.º 4 e sejam órfãos de pai e mãe à data do falecimento do autor da pensão."
+  },
+  "47891075": {
+   "fragment_id": "37109175",
+   "type": 8,
+   "heading": "Secção III — Do quantitativo da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do quantitativo da pensão"
+  },
+  "47891175": {
+   "fragment_id": "38711875",
+   "type": 11,
+   "heading": "Artigo 9.º — Cálculo do valor da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cálculo do valor da pensão\n\n1 - O quantitativo da pensão é igual a 70% da remuneração mensal do autor dos actos que a originam quando o beneficiário for o próprio autor ou se trate dos titulares a que se refere o grupo primeiro do n.º 1 do artigo 5.º\n\n2 - A referida percentagem será reduzida a 50% relativamente aos restantes titulares.\n\n3 - Para efeitos do disposto nos números anteriores, a remuneração a considerar é a auferida à data dos factos ou actos que originam o direito à pensão e determina-se de acordo com o regime estabelecido nos artigos 47.º e 48.º do Decreto-Lei n.º 498/72, de 9 de Dezembro (Estatuto da Aposentação), não podendo, porém, o seu montante ser de valor inferior ao escalão 1 do vencimento base de um soldado da Guarda Nacional Republicana em vigor à data em que a pensão seja devida.\n\n4 - Relativamente aos civis incorporados nas Forças Armadas, a percentagem será calculada com base nos vencimentos dos postos ou graduações a que estiverem equiparados.\n\n5 - Nos casos em que o autor não tenha qualquer vínculo funcional ao Estado, incluindo as autarquias locais, ter-se-á em conta, para os efeitos dos números anteriores, o dobro do salário mínimo nacional.\n\n6 - Se o beneficiário do direito à pensão receber de terceiro indemnização destinada a reparar danos patrimoniais resultantes da incapacidade ou do falecimento, o abono da pensão será suspenso até que nela se esgote aquela indemnização, sem prejuízo de a entidade que abonar a pensão poder exigir judicialmente do terceiro responsável o capital necessário, determinado por cálculo actuarial, para suportar os encargos com aquela pensão."
+  },
+  "47891275": {
+   "fragment_id": "38711975",
+   "type": 11,
+   "heading": "Artigo 10.º — Concorrência de beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Concorrência de beneficiários\n\nConcorrendo vários beneficiários, a pensão será dividida em partes iguais entre todos os interessados, salvo nos casos seguintes:\n\na) Concurso de cônjuge sobrevivo e filhos: metade da pensão pertence ao cônjuge e a outra metade aos filhos, em partes iguais;\n\nb) Concurso de cônjuge sobrevivo, separado judicialmente de pessoas e bens, divorciado ou aquele que estiver nas condições previstas no artigo 2020.º do Código Civil e filhos: metade da pensão pertence, em partes iguais, ao cônjuge sobrevivo, ao separado judicialmente, ao divorciado e àquele que estiver nas condições previstas no artigo 2020.º do Código Civil e a outra metade aos filhos, também em partes iguais;\n\nc) Se o concurso incluir outros descendentes além dos filhos, todos os descendentes da mesma estirpe intervirão como se constituíssem uma unidade somente, dividindo entre eles, em partes iguais, a quota-parte da pensão que vier a ser apurada por aquela forma."
+  },
+  "47891375": {
+   "fragment_id": "38712075",
+   "type": 11,
+   "heading": "Artigo 11.º — Acumulações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acumulações\n\n1 - O quantitativo da pensão a conceder aos beneficiários não sofrerá qualquer redução quando dos actos que lhe dão origem tenha resultado o falecimento ou a incapacidade absoluta e permanente do seu autor para o trabalho.\n\n2 - Nos demais casos, sempre que os rendimentos ou proventos de qualquer natureza do agregado familiar do ou dos beneficiários da pensão sejam superiores ao limite estabelecido no n.º 5 do artigo 9.º, a parte que exceder esse limite será deduzida à quota-parte da pensão que lhes couber, não podendo, porém, o valor desta ser inferior à correspondente quota-parte do salário mínimo nacional.\n\n3 - Sem prejuízo dos limites estabelecidos no número anterior, a pensão de preço de sangue e a pensão por serviços excepcionais e relevantes prestados ao País são cumuláveis com quaisquer outras pensões, salvo o disposto no número seguinte, não podendo, porém, ser cumuladas entre si.\n\n4 - A pensão de preço de sangue não é cumulável com a pensão a que se refere o artigo 8.º do Decreto-Lei n.º 240/98, de 7 de Agosto.\n\n> Nota: [Lei n.º 61/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16](https://diariodarepublica.pt/dr/detalhe/lei/61-2019-123962145) A presente lei entra em vigor com o Orçamento do Estado subsequente à sua publicação."
+  },
+  "47891475": {
+   "fragment_id": "38712175",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamento da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento da pensão\n\n1 - A pensão de preço de sangue é devida a partir do início do mês seguinte ao da morte do autor, desde que requerida no prazo de dois anos após o falecimento e desde o 1.º dia do mês imediato ao da entrega da petição, quando esta for apresentada para além daquele prazo.\n\n2 - Os prazos estabelecidos no número anterior quanto à entrega das petições não se aplicam aos menores, aos interditos e aos maiores incapazes, enquanto durar a incapacidade ou não tiverem quem os represente.\n\n3 - Quando atribuída ao próprio autor dos factos que a originaram, a data relevante, para efeitos do disposto no n.º 1, é a da verificação da incapacidade."
+  },
+  "47891575": {
+   "fragment_id": "38712275",
+   "type": 11,
+   "heading": "Artigo 13.º — Reversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reversão\n\nSempre que as pensões concedidas nos termos deste diploma sejam usufruídas por mais de um beneficiário e algum deles perca o direito à sua quota-parte, deverá proceder-se ao ajustamento do quantitativo global da pensão e à sua redistribuição pelos restantes pensionistas, a qual igualmente terá lugar sempre que se verifique o aumento do número de beneficiários."
+  },
+  "47891675": {
+   "fragment_id": "37109275",
+   "type": 8,
+   "heading": "Secção IV — Cessação do direito à pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Cessação do direito à pensão"
+  },
+  "47891775": {
+   "fragment_id": "38712375",
+   "type": 11,
+   "heading": "Artigo 14.º — Factos determinantes da cessação do direito à pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Factos determinantes da cessação do direito à pensão\n\nO direito a receber a pensão cessa:\n\na) Por renúncia do beneficiário;\n\nb) Pela perda de qualquer dos requisitos condicionantes da atribuição daquele direito;\n\nc) Pelo casamento ou vivência em situação análoga, relativamente aos cônjuges, divorciados, separados judicialmente de pessoas e bens e aos que se encontrem nas condições previstas no artigo 2020.º do Código Civil;\n\nd) Pela morte do beneficiário."
+  },
+  "47891875": {
+   "fragment_id": "38712475",
+   "type": 11,
+   "heading": "Artigo 15.º — Abono da pensão no mês da cessação do direito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Abono da pensão no mês da cessação do direito\n\nA pensão correspondente ao mês em curso na data em que se verificou o facto determinante da sua perda será abonada na totalidade ao beneficiário do direito extinto ou aos seus herdeiros."
+  },
+  "47891975": {
+   "fragment_id": "35674575",
+   "type": 1,
+   "heading": "Capítulo III — Do processo para a concessão da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do processo para a concessão da pensão"
+  },
+  "47892075": {
+   "fragment_id": "37109375",
+   "type": 8,
+   "heading": "Secção I — Da petição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Da petição"
+  },
+  "47892175": {
+   "fragment_id": "38712575",
+   "type": 11,
+   "heading": "Artigo 16.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Requerimento\n\nA concessão da pensão depende de requerimento do interessado ou de quem legalmente o represente, dirigido ao presidente do conselho de administração da Caixa Geral de Aposentações, no qual se indiquem a residência, nome, número, posto, cargo e unidade ou corporação a que pertencia o falecido."
+  },
+  "47892275": {
+   "fragment_id": "38712675",
+   "type": 11,
+   "heading": "Artigo 17.º — Requerimento conjunto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Requerimento conjunto\n\nOs requerimentos são individuais, um por cada interessado, salvo nos casos seguintes:\n\na) O cônjuge sobrevivo, cônjuge separado judicialmente de pessoas e bens ou divorciado e aquele que estiver nas condições previstas no artigo 2020.º do Código Civil pedirá, no mesmo requerimento, a pensão para si e para os descendentes menores de 18 anos que se encontrem a seu cargo;\n\nb) O tutor englobará no mesmo requerimento o pedido referente a todos os seus tutelados;\n\nc) Os ascendentes podem formular os seus pedidos no mesmo requerimento."
+  },
+  "47892375": {
+   "fragment_id": "38712775",
+   "type": 11,
+   "heading": "Artigo 18.º — Documentos a apresentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Documentos a apresentar\n\n1 - Os interessados instruirão os seus requerimentos com as certidões, atestados e demais documentos que provem os factos demonstrativos do direito à pensão, entregando-os à autoridade administrativa ou militar da localidade onde residirem, a qual deles passará recibo, enviando-os imediatamente para o ministério competente.\n\n2 - Os processos e documentos necessários para os instruir são gratuitos e isentos do imposto do selo.\n\n3 - As autoridades militares e administrativas fornecerão aos interessados os documentos necessários para a instrução dos processos no prazo de 20 dias úteis."
+  },
+  "47892475": {
+   "fragment_id": "38712875",
+   "type": 11,
+   "heading": "Artigo 19.º — Verificação da incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Verificação da incapacidade\n\n1 - A incapacidade absoluta e permanente para o trabalho e a simples desvalorização da capacidade para o trabalho serão verificadas pela junta médica da Caixa Geral de Aposentações.\n\n2 - Para os fins previstos no número anterior, é aplicável, com as necessárias adaptações, o regime estabelecido nos artigos 90.º, 91.º e 95.º do Decreto-Lei n.º 498/72, de 9 de Dezembro.\n\n3 - Correm por conta do Estado todos os encargos relativos à obtenção de meios auxiliares de diagnóstico ou de parecer de médico especialista que a junta médica considere necessários."
+  },
+  "47892575": {
+   "fragment_id": "38712975",
+   "type": 11,
+   "heading": "Artigo 20.º — Elementos a apresentar em caso de falecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Elementos a apresentar em caso de falecimento\n\nNo caso de a pessoa cuja morte motivou a pensão ter falecido na qualidade de licenciado, na reserva ou com baixa de serviço por incapacidade física, devem os requerentes da pensão apresentar certidão de teor de óbito daquele e atestado passado pelo médico ou médicos que trataram o falecido, do qual conste a doença de que foi tratado e aquela que o vitimou."
+  },
+  "47892675": {
+   "fragment_id": "37109475",
+   "type": 8,
+   "heading": "Secção II — Trâmites processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Trâmites processuais"
+  },
+  "47892775": {
+   "fragment_id": "38713075",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução dos processos\n\n1 - Recebida a petição e demais documentos no estado-maior respectivo, será aí organizado o processo e remetido seguidamente, com indicação das remunerações do falecido, devidamente discriminadas, e das disposições legais permissivas do seu abono, à Caixa Geral de Aposentações.\n\n2 - Sempre que se trate de pensão requerida por falecimento ou por desaparecimento de indivíduos abrangidos pelas alíneas a) e b) do n.º 1 e pelo n.º 2 do artigo 2.º, os respectivos processos deverão incluir obrigatoriamente um auto de averiguações sobre a ocorrência, cuja instrução se regulará pelas normas militares.\n\n3 - O auto referido no número anterior será submetido a despacho do Ministro da Defesa Nacional para, em primeira instância, decidir se o acidente, doença ou desaparecimento ocorreu em alguma das condições previstas nas alíneas a) ou b) do n.º 1 ou no n.º 2 do artigo 2.º, ouvidos, quando a morte seja atribuída a doença adquirida ou agravada em ocasião de serviço e em consequência do mesmo, os serviços de saúde para determinação da sua causa.\n\n4 - Nos casos de dúvida, poderá o Ministro da Defesa Nacional mandar completar a matéria dos autos ou determinar quaisquer outras diligências julgadas necessárias ao apuramento da causa da morte ou das circunstâncias em que ocorreu o desaparecimento.\n\n5 - Quando a vítima não pertencer às Forças Armadas ou o acidente não ocorrer ao serviço destas ou em colaboração com estas, as referências feitas nos números anteriores a estado-maior, Ministro da Defesa Nacional e serviços de saúde consideram-se feitas em relação ao ministério e ministro competentes, em função do seu vínculo funcional, e delegado de saúde, respectivamente.\n\n6 - Nos casos referidos no número anterior em que a vítima não possua vínculo funcional ao Estado, as referências aí feitas ao ministério e ministro competentes consideram-se feitas em relação ao Ministério e ao Ministro das Finanças."
+  },
+  "47892875": {
+   "fragment_id": "38713175",
+   "type": 11,
+   "heading": "Artigo 22.º — Resolução final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Resolução final\n\n1 - Recebido o processo e concluída a sua instrução, a Caixa Geral de Aposentações, se julgar verificadas as condições necessárias, proferirá resolução final sobre o direito à pensão e sobre o montante desta.\n\n2 - A resolução final referida no número anterior só será proferida depois de ouvida a junta médica da Caixa Geral de Aposentações sobre a causa determinante da morte ou da incapacidade e sobre a sua conexão com o facto que origina o direito à pensão.\n\n3 - Em caso de divergência entre os serviços de saúde militares, ou o delegado de saúde, e a junta médica da Caixa Geral de Aposentações sobre a causa determinante da morte ou da incapacidade e sobre a sua conexão com o facto que origina o direito à pensão, haverá lugar a uma nova junta médica de revisão, nos termos dos n.os 4 e 5 do artigo 119.º do Estatuto da Aposentação, ou a uma junta médica de revisão, nos termos do artigo 95.º do mesmo diploma, consoante se trate de militar ou civil."
+  },
+  "47892975": {
+   "fragment_id": "38713275",
+   "type": 11,
+   "heading": "Artigo 23.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Recurso\n\nDas resoluções finais da Caixa Geral de Aposentações caberá recurso contencioso nos termos gerais de direito."
+  },
+  "47893075": {
+   "fragment_id": "37109575",
+   "type": 8,
+   "heading": "Secção III — Especialidades do processo por serviços excepcionais e relevantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Especialidades do processo por serviços excepcionais e relevantes"
+  },
+  "47893175": {
+   "fragment_id": "38713375",
+   "type": 11,
+   "heading": "Artigo 24.º — Iniciativa para a concessão da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Iniciativa para a concessão da pensão\n\nO processo para a concessão da pensão por serviços excepcionais e relevantes prestados ao País é organizado, com base em requerimento do interessado ou em ordem do Governo, no ministério de que dependa ou dependia a pessoa a que respeitarem os feitos ou actos justificativos daquela."
+  },
+  "47893275": {
+   "fragment_id": "38713475",
+   "type": 11,
+   "heading": "Artigo 25.º — Competência para a concessão da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competência para a concessão da pensão\n\nA concessão da pensão prevista no número anterior é efectuada por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças, precedido de parecer favorável da Procuradoria-Geral da República."
+  },
+  "47893375": {
+   "fragment_id": "38713575",
+   "type": 11,
+   "heading": "Artigo 26.º — Pagamento da pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Pagamento da pensão\n\n1 - Nos casos em que os factos que lhe dão origem sejam anteriores à entrada em vigor do presente diploma, a pensão por serviços excepcionais e relevantes é devida desde a data do despacho conjunto previsto no artigo anterior.\n\n2 - Nos demais casos, a pensão é devida a partir do início do mês seguinte ao do requerimento ou da ordem do Governo a que se refere o artigo 24.º"
+  },
+  "47893475": {
+   "fragment_id": "37109675",
+   "type": 8,
+   "heading": "Secção IV — Da execução da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Da execução da decisão"
+  },
+  "47893575": {
+   "fragment_id": "38713675",
+   "type": 11,
+   "heading": "Artigo 27.º — Dispensa de formalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Dispensa de formalidades\n\nConcedida a pensão, a Caixa Geral de Aposentações procederá ao seu abono sem precedência de quaisquer formalidades."
+  },
+  "47893675": {
+   "fragment_id": "38713775",
+   "type": 11,
+   "heading": "Artigo 28.º — Cartão de pensionista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Cartão de pensionista\n\nAo pensionista será entregue um cartão, emitido pela Caixa Geral de Aposentações, que o identifica como titular da pensão."
+  },
+  "47893775": {
+   "fragment_id": "38713875",
+   "type": 11,
+   "heading": "Artigo 29.º — Pagamento da pensão no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Pagamento da pensão no estrangeiro\n\nO pagamento das pensões devidas aos pensionistas que residem no estrangeiro será efectuado nos mesmos termos em que o forem as demais pensões pagas pela Caixa Geral de Aposentações."
+  },
+  "47893875": {
+   "fragment_id": "38713975",
+   "type": 11,
+   "heading": "Artigo 30.º — Prova de rendimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Prova de rendimentos\n\n1 - Os beneficiários das pensões a que se refere o n.º 2 do artigo 12.º entregarão na Caixa Geral de Aposentações, até ao dia 31 de Maio de cada ano, a declaração do imposto sobre o rendimento das pessoas singulares relativa ao ano transacto ou documento que a substitua, emitido pela repartição de finanças competente, comprovativo de todos os rendimentos ou proventos de qualquer natureza.\n\n2 - O não cumprimento do que se prescreve no número anterior determina a imediata suspensão do pagamento da pensão, que só voltará a ser devida a partir do dia 1 do mês seguinte ao da entrega dos documentos nele referidos.\n\n3 - O recebimento de pensões em violação do disposto nos n.os 2 e 3 do artigo 12.º implica a obrigatoriedade de reposição das quantias indevidamente recebidas, as quais poderão ser deduzidas no quantitativo das pensões a abonar pela Caixa Geral de Aposentações."
+  },
+  "47893975": {
+   "fragment_id": "35674675",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "47894075": {
+   "fragment_id": "37109775",
+   "type": 11,
+   "heading": "Artigo 31.º — Habilitação ao pagamento de pensões vencidas em caso de falecimento do pensionista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Habilitação ao pagamento de pensões vencidas em caso de falecimento do pensionista\n\nOs herdeiros do pensionista, no caso de falecimento deste, poderão requerer o pagamento das pensões em dívida mediante processo de habilitação."
+  },
+  "47894175": {
+   "fragment_id": "37109875",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime de acumulação das pensões cujo direito foi anteriormente reconhecido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regime de acumulação das pensões cujo direito foi anteriormente reconhecido\n\nO disposto no artigo 11.º é aplicável, com efeitos a partir da data de entrada em vigor do presente diploma, às pensões cujo direito foi anteriormente reconhecido."
+  },
+  "47894275": {
+   "fragment_id": "37109975",
+   "type": 11,
+   "heading": "Artigo 33.º — Não redução das pensões anteriormente fixadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Não redução das pensões anteriormente fixadas\n\nOs quantitativos das pensões que estiverem a ser abonadas não sofrerão qualquer redução por força da entrada em vigor do presente diploma, mantendo-se inalterados até que da sua aplicação resultem quantitativos superiores."
+  },
+  "47894375": {
+   "fragment_id": "37110075",
+   "type": 11,
+   "heading": "Artigo 34.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Revogação\n\nÉ revogado o Decreto-Lei n.º 404/82, de 24 de Setembro."
+  },
+  "47894475": {
+   "fragment_id": "37110175",
+   "type": 11,
+   "heading": "Artigo 35.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 do 2.º mês seguinte ao da sua publicação."
+  },
+  "48287875": {
+   "fragment_id": "38711375",
+   "type": 11,
+   "heading": "Artigo 4.º — Pensão por serviços excepcionais e relevantes prestados ao País",
+   "in_force_from": "2001-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 161/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2001-342618), em vigor a partir de 2001-05-23"
+   ],
+   "markdown": "###### Artigo 4.º — Pensão por serviços excepcionais e relevantes prestados ao País\n\n1 - A atribuição da pensão por serviços excepcionais e relevantes prestados ao País pressupõe que o beneficiário revele exemplar conduta moral e cívica e pode ter lugar quando se verifique:\n\na) A prática, por cidadão português, militar ou civil, de feitos em teatro de guerra, de actos de abnegação e coragem cívica ou de altos e assinalados serviços à Humanidade ou à Pátria;\n\nb) A prática, por qualquer cidadão, de acto humanitário ou de dedicação à causa pública de que resulte a incapacidade absoluta e permanente para o trabalho ou o falecimento do seu autor;\n\nc) (Revogada).\n\n2 - Para efeitos do disposto no número anterior, entende-se por exemplar conduta moral e cívica a observância, de modo constante e permanente, do respeito pelos direitos e liberdades individuais e colectivos, bem como pelo prestígio e dignidade do País.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 161/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2001-342618), em vigor a partir de 2001-05-23"
+  },
+  "47894675": {
+   "fragment_id": "35674775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 15 de Outubro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "123993458": {
+   "fragment_id": "38712075",
+   "type": 11,
+   "heading": "Artigo 11.º — Acumulações",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 61/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16](https://diariodarepublica.pt/dr/detalhe/lei/61-2019-123962145)"
+   ],
+   "markdown": "###### Artigo 11.º — Acumulações\n\n1 - O quantitativo da pensão a conceder aos beneficiários não sofrerá qualquer redução quando dos actos que lhe dão origem tenha resultado o falecimento ou a incapacidade absoluta e permanente do seu autor para o trabalho.\n\n2 - O quantitativo da pensão de preço de sangue resultante do falecimento de deficiente das Forças Armadas não sofre qualquer redução, mesmo que o cônjuge ou unido de facto sobrevivo aufira outros rendimentos.\n\n3 - Nos demais casos, sempre que os rendimentos ou proventos de qualquer natureza do agregado familiar do ou dos beneficiários da pensão sejam superiores ao limite estabelecido no n.º 5 do artigo 9.º, a parte que exceder esse limite será deduzida à quota-parte da pensão que lhes couber, não podendo, porém, o valor desta ser inferior à correspondente quota-parte do salário mínimo nacional.\n\n4 - Sem prejuízo dos limites estabelecidos no número anterior, a pensão de preço de sangue e a pensão por serviços excepcionais e relevantes prestados ao País são cumuláveis com quaisquer outras pensões, salvo o disposto no número seguinte, não podendo, porém, ser cumuladas entre si.\n\n5 - A pensão de preço de sangue não é cumulável com a pensão a que se refere o artigo 8.º do Decreto-Lei n.º 240/98, de 7 de Agosto.\n\n> Nota: [Lei n.º 61/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16](https://diariodarepublica.pt/dr/detalhe/lei/61-2019-123962145) A presente lei entra em vigor com o Orçamento do Estado subsequente à sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 61/2019 - Diário da República n.º 156/2019, Série I de 2019-08-16](https://diariodarepublica.pt/dr/detalhe/lei/61-2019-123962145)"
+  },
+  "1127053975": {
+   "fragment_id": "38713475",
+   "type": 11,
+   "heading": "Artigo 25.º — Competência para a concessão da pensão",
+   "in_force_from": "2026-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27."
+   ],
+   "markdown": "###### Artigo 25.º — Competência para a concessão da pensão\n\nA concessão da pensão prevista no artigo anterior é efetuada por despacho do Primeiro-Ministro, precedido de parecer favorável da Procuradoria-Geral da República.\n\n> Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 105/2026 - Diário da República n.º 101/2026, Série I de 2026-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2026-1126594009), em vigor a partir de 2026-05-27."
+  }
+ }
+}

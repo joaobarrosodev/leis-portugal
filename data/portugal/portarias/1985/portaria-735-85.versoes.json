@@ -1,0 +1,147 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176981:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1985-890486342",
+ "dre_path": "/dr/detalhe/portaria/735-1985-176981",
+ "source_lastmod": "2024-10-10",
+ "versions": [
+  {
+   "date": "1985-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890518476"
+   ]
+  },
+  {
+   "date": "1985-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:322319:por",
+     "title": "Declaração",
+     "published": "1985-10-31",
+     "dre_path": "/dr/detalhe/declaracao/1985-322319"
+    }
+   ],
+   "changes": [
+    "Retifica Assinatura"
+   ],
+   "fragments": [
+    "890518476",
+    "890518487",
+    "890518486",
+    "890518485",
+    "890518484",
+    "890518483",
+    "890518482",
+    "890518481",
+    "890518480",
+    "890518479",
+    "890518478",
+    "890518490"
+   ]
+  }
+ ],
+ "fragments": {
+  "890518476": {
+   "fragment_id": "890486343",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 735/85\n\nde 28 de Setembro\n\nA crescente importância com que vem sendo encarada a informação nas suas diversas fases e o contínuo aumento do seu volume colocam cada vez mais problemas de utilização e de conservação dos seus suportes documentais.\n\nO recurso à microfilmagem veio introduzir, nessas matérias, maiores facilidades. Assim, a possibilidade conferida pela microfilmagem de eliminação dos grandes volumes daqueles suportes permite solucionar os graves problemas de espaço que a sua conservação determina. No entanto, e dado o valor específico dos mesmos suportes e os prazos tendenciais da existência para que aponta a lei, importa proceder a uma constante procura de equilíbrio entre a manutenção e a destruição dos documentos e de ajustamento dos seus prazos mínimos de conservação.\n\nAssim, atenta a experiência colhida pela aplicação da Portaria n.º 560/83, de 11 de Maio, que agora se considera revogada, passa a conservação arquivística do âmbito do MIE a ser regulada pela presente portaria.\n\nNestes termos, e ao abrigo do disposto nos artigos 1.º e 2.º do Decreto-Lei n.º 29/72:\n\nManda o Governo da República Portuguesa, pelo Ministro da Indústria e Energia, aprovar o seguinte:\n\nRegulamento da Conservação Arquivística do MIE"
+  },
+  "890518487": {
+   "fragment_id": "890486357",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\n(Âmbito de aplicação)\n\n1 - Este Regulamento é aplicável a todos os serviços e organismos do MIE que não disponham de regulamento próprio sobre a matéria.\n\n2 - Por despacho do Ministro da Indústria e Energia pode ser determinada a prevalência de normativo constante do presente Regulamento sobre alguns pontos de regulamentos específicos dos serviços."
+  },
+  "890518486": {
+   "fragment_id": "890486356",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\n(Prazos de conservação de documentos)\n\n1 - Os prazos mínimos de conservação de documentos são os que constam do mapa anexo, que faz parte integrante da presente portaria, ressalvado o que estiver fixado por legislação especial.\n\n2 - Os documentos de conservação permanente deverão, decorrido o prazo de 30 anos, ser apreciados pela Comissão de Apoio Consultivo aos Arquivos, a que se refere o n.º 1 do n.º 9.º da presente portaria, que avaliará os que, pela sua natureza, deverão ser conservados na forma original, para além da sua microfilmagem.\n\n3 - Os prazos de conservação dos documentos referentes a actos susceptíveis de recurso contam-se a partir do momento em que tiver decorrido o prazo para interposição do recurso ou sua transição em julgado.\n\n4 - Os prazos indicados referem-se unicamente a documentos originais. Quando se tratar de cópias, a sua destruição dependerá de autorização expressa do responsável pelo serviço.\n\n5 - Os processos ou documentos organizados na sequência de diplomas já revogados, com a entrada em vigor dos Decretos-Leis n.os 46923, de 28 de Março de 1966, e 519-I1/79, de 29 de Dezembro, não integrados em processos de licenciamento relativos a estabelecimentos em actividade podem ser destruídos de imediato."
+  },
+  "890518485": {
+   "fragment_id": "890486355",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\n(Documentos de interesse histórico)\n\n1 - Os documentos considerados de interesse histórico deverão ser conservados na forma original, mesmo quando se decida a sua microfilmagem.\n\n2 - Em caso de dúvida quanto ao interesse histórico dos documentos mencionados no número anterior, deverá ser consultado o Instituto Português do Património Cultural (IPPC), criado pelo Decreto Regulamentar n.º 34/80, de 2 de Agosto.\n\n3 - Por despacho ministerial poderão os documentos que se destinam a ser destruídos ou com eventual interesse histórico ser cedidos a entidade idónea."
+  },
+  "890518484": {
+   "fragment_id": "890486354",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\n(Destruição de documentos)\n\nA destruição de documentos, nos termos da legislação aplicável, será feita por um processo mecânico ou manual de modo a impossibilitar a sua reconstituição, lavrando-se um auto de destruição de documentos, devidamente especificado, que deverá ser autenticado pela assinatura do responsável do serviço sob solo branco."
+  },
+  "890518483": {
+   "fragment_id": "890486353",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\n(Formas de conservação de documentos)\n\n1 - Os serviços do Ministério da Indústria e Energia poderão recorrer à microfilmagem como forma de conservação de documentos.\n\n2 - A inutilização dos originais dos documentos, conservados em microfilme, antes de decorridos os prazos constantes do mapa anexo, é da competência do responsável pelo respectivo serviço."
+  },
+  "890518482": {
+   "fragment_id": "890486352",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\n(Microfilmagem)\n\n1 - A microfilmagem de documentos, bem como a garantia da inutilização destes, compete aos serviços onde funcionarem os centros de microfilmagem.\n\n2 - As microformas não poderão sofrer cortes ou emendas, salvo em casos devidamente justificados, e deverão reproduzir termos de abertura e de encerramento autenticados pela assinatura dos responsáveis dos centros de microfilmagem sob selo branco ou perfuração especial.\n\n3 - A microfilmagem de documentos será feita em duplicado, devendo a microforma original ser conservada no arquivo central e o duplicado no centro de arquivo do respectivo serviço.\n\n4 - Fica igualmente autorizada a microfilmagem efectuada directamente a partir de suporte magnético e da informação obtida pelo tratamento automático de dados."
+  },
+  "890518481": {
+   "fragment_id": "890486351",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\n(Livro de registos)\n\n1 - As microformas em arquivo deverão ser registadas em livro próprio com termos de abertura e encerramento e folhas rubricadas pelos responsáveis dos centros de microfilmagem.\n\n2 - No termo de abertura será mencionada a natureza dos documentos microfilmados e no termo de encerramento será exarada a declaração de que as imagens constantes da microforma são reproduções totais e exactas dos documentos originais.\n\n3 - Igualmente deverão constar do livro de registos das microformas as emendas e ou alterações que eventualmente as mesmas contenham, conforme o preceituado do número anterior.\n\n4 - No centro de arquivo de cada serviço será feito o registo dos duplicados, nos precisos termos dos números anteriores."
+  },
+  "890518480": {
+   "fragment_id": "890486350",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\n(Reprodução de documentos)\n\n1 - A reprodução de documentos conservados em microforma só poderá ser realizada a pedido dos serviços interessados e mediante requisição visada pelo responsável ou por quem este designar.\n\n2 - De acordo com o disposto no artigo 4.º do Decreto-Lei n.º 29/72, de 24 de Janeiro, as fotocópias obtidas a partir das microformas têm a força probatória dos originais, desde que as respectivas ampliações contenham a assinatura do responsável pelo serviço e sejam devidamente autenticadas com o selo branco."
+  },
+  "890518479": {
+   "fragment_id": "890486349",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\n(Resolução de dúvidas)\n\n1 - É criada uma Comissão de Apoio Consultivo aos Arquivos do Ministério da Indústria e Energia, cujas atribuições, composição e funcionamento serão fixados por despacho ministerial.\n\n2 - As dúvidas surgidas na aplicação da presente portaria serão presentes à Comissão referida no número anterior, sobre cujo parecer, nos casos que o justifiquem, será exarado despacho ministerial."
+  },
+  "890518478": {
+   "fragment_id": "890486348",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\n(Entrada em vigor)\n\nEsta portaria entra em vigor no dia seguinte ao da sua publicação.\n\nMinistério da Indústria e Energia."
+  },
+  "890518490": {
+   "fragment_id": "890486344",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1985-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 251/1985, 3º Suplemento, Série I de 1985-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-322319), em vigor a partir de 1985-10-31"
+   ],
+   "markdown": "Assinada em 30 de Agosto de 1985.\n\nO Ministro da Indústria e Energia, José Veiga Simão.\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração - Diário da República n.º 251/1985, 3º Suplemento, Série I de 1985-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-322319), em vigor a partir de 1985-10-31"
+  }
+ }
+}

@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:1692916:por
+title: Declaração de Rectificação n.º 736/2010
+short_title: null
+summary: Rectificação do despacho n.º 19277/2006, referente ao plano de estudos do curso de licenciatura em Engenharia Mecânica
+  da Escola Superior de Tecnologia e Gestão de Viseu
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Instituto Politécnico de Viseu
+proposing_entity: null
+official_number: 736/2010
+official_date: null
+publication_date: '2010-04-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 73/2010, Série II de 2010-04-15
+  number: '73'
+  series: II
+  supplement: null
+  pages: 19548 - 19550
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1692916'
+  dre_path: /dr/detalhe/declaracao-rectificacao/736-2010-1692916
+  internal: pt:dre:1692916:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/736-2010-1692916
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/736-2010-1692916
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-04-15T00:00:00Z'
+integrity:
+  source_sha256: ce23fc1d992610675225922d1ef4450bfb22a80a5b5915f161456472cb95bcec
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-736-1692916.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 736/2010
+
+Declaração de rectificação n.º 736/2010
+
+Por o despacho n.º 19277/2006, publicado no Diário da República, 2.ª série, n.º 182, de 20 de Setembro de 2006, referente ao plano de estudos conducente ao grau de licenciatura em Engenharia Mecânica da Escola Superior de Tecnologia e Gestão de Viseu, não estar de acordo com o superiormente aprovado, novamente se publica.
+
+1 de Março de 2010. - O Presidente, Fernando Lopes Rodrigues Sebastião.
+
+## ANEXO — Escola Superior de Tecnologia e Gestão de Viseu
+
+Curso: Engenharia Mecânica
+
+Grau: Licenciatura
+
+Área científica predominante do curso: Ciências da Engenharia
+
+1.º semestre
+
+QUADRO N.º 1
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+
+2.º semestre
+
+QUADRO N.º 2
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+
+3.º semestre
+
+QUADRO N.º 3
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+
+4.º semestre
+
+QUADRO N.º 4
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+
+5.º semestre
+
+QUADRO N.º 5
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)
+
+6.º semestre
+
+QUADRO N.º 6
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf))](https://files.diariodarepublica.pt/2s/2010/04/073000000/1954819550.pdf)

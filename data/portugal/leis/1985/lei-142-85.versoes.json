@@ -1,0 +1,313 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:172129:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1985-73244827",
+ "dre_path": "/dr/detalhe/lei/142-1985-172129",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1985-11-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73244918",
+    "73244919",
+    "73244920",
+    "73244921",
+    "73244922",
+    "73244923",
+    "73244924",
+    "73244925",
+    "73244926",
+    "73244927",
+    "73244928",
+    "73244929",
+    "73244930",
+    "73244931",
+    "73244932"
+   ]
+  },
+  {
+   "date": "1997-12-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406494:por",
+     "title": "Lei n.º 124/97",
+     "published": "1997-11-27",
+     "dre_path": "/dr/detalhe/lei/124-1997-406494"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "73244918",
+    "73244919",
+    "73244920",
+    "73244921",
+    "73244922",
+    "73244923",
+    "73244924",
+    "73244925",
+    "73244926",
+    "73244927",
+    "73244928",
+    "73244929",
+    "73244930",
+    "73244931",
+    "73244964",
+    "73244933"
+   ]
+  },
+  {
+   "date": "1998-07-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:424490:por",
+     "title": "Lei n.º 32/98",
+     "published": "1998-07-18",
+     "dre_path": "/dr/detalhe/lei/32-1998-424490"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "73244918",
+    "73244919",
+    "73244920",
+    "73244921",
+    "73244965",
+    "73244923",
+    "73244924",
+    "73244925",
+    "73244926",
+    "73244927",
+    "73244928",
+    "73244966",
+    "73244930",
+    "73244931",
+    "73244964",
+    "73244933"
+   ]
+  },
+  {
+   "date": "1999-06-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:306918:por",
+     "title": "Lei n.º 48/99",
+     "published": "1999-06-16",
+     "dre_path": "/dr/detalhe/lei/48-1999-306918"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "73244918",
+    "73244919",
+    "73244920",
+    "73244921",
+    "73244965",
+    "73244923",
+    "73244924",
+    "73244925",
+    "73244926",
+    "73244927",
+    "73244967",
+    "73244966",
+    "73244930",
+    "73244968",
+    "73244964",
+    "73244933"
+   ]
+  }
+ ],
+ "fragments": {
+  "73244918": {
+   "fragment_id": "73244828",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 142/85\n\nde 18 de Novembro\n\nLei quadro da criação de municípios\n\nA Assembleia da República decreta, nos termos da alínea d) do artigo 164.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:"
+  },
+  "73244919": {
+   "fragment_id": "73244829",
+   "type": 11,
+   "heading": "Artigo 1.º — (Objecto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Objecto)\n\nConstitui objecto da presente lei o estabelecimento do regime da criação de municípios, na sequência dos princípios constantes da Lei n.º 11/82, de 2 de Junho, sobre o regime de criação e extinção das autarquias locais e de determinação da categoria das povoações."
+  },
+  "73244920": {
+   "fragment_id": "73244830",
+   "type": 11,
+   "heading": "Artigo 2.º — (Factores de decisão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Factores de decisão)\n\nA Assembleia da República, na apreciação das iniciativas que visem a criação, extinção e modificação de municípios, deverá ter em conta:\n\na) A vontade das populações abrangidas, expressa através dos órgãos autárquicos representativos, consultados nos termos do artigo 5.º desta lei;\n\nb) Razões de ordem histórica e cultural;\n\nc) Factores geográficos, demográficos, económicos, sociais, culturais e administrativos;\n\nd) Interesses de ordem nacional e regional ou local em causa."
+  },
+  "73244921": {
+   "fragment_id": "73244831",
+   "type": 11,
+   "heading": "Artigo 3.º — (Condicionante financeira)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Condicionante financeira)\n\nNão poderá ser criado nenhum município se se verificar que as suas receitas, bem como as do município ou municípios de origem, não são suficientes para a prossecução das atribuições que lhe estiverem cometidas."
+  },
+  "73244922": {
+   "fragment_id": "73244832",
+   "type": 11,
+   "heading": "Artigo 4.º — (Requisitos geodemográficos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Requisitos geodemográficos)\n\n1 - A criação de novos municípios em áreas de densidade populacional, calculada com base na relação entre os eleitores e a área dos municípios de origem, inferior a 100 eleitores por quilómetro quadrado deverá ter em conta a verificação cumulativa dos seguintes requisitos:\n\na) Na área da futura circunscrição municipal, o número de eleitores nela residentes será superior a 10000;\n\nb) A área da futura circunscrição municipal cuja criação é pretendida será superior a 500 km2;\n\nc) Existência de um aglomerado populacional contínuo que conte com um número mínimo de 5000 eleitores;\n\nd) Posto de assistência médica com serviço de permanência;\n\ne) Farmácia;\n\nf) Casa de espectáculos;\n\ng) Transportes públicos colectivos;\n\nh) Estação dos CTT;\n\ni) Instalações de hotelaria;\n\nj) Estabelecimentos de ensino preparatório e secundário;\n\nl) Estabelecimentos de ensino pré-primário e infantário;\n\nm) Corporação de bombeiros;\n\nn) Parques e jardins públicos;\n\no) Agência bancária.\n\n2 - A criação de novos municípios em áreas com densidade populacional que, calculada com base na relação entre os eleitores e a área dos municípios de origem, for igual ou superior a 100 eleitores por quilómetro quadrado e inferior a 200 eleitores por quilómetro quadrado deverá ter em conta a verificação cumulativa dos seguintes requisitos:\n\na) Na área da futura circunscrição municipal, o número de eleitores nela residentes será superior a 12000;\n\nb) A área da futura circunscrição cuja criação é pretendida será superior a 150 km2;\n\nc) Existência de um aglomerado populacional contínuo que conte com um número mínimo de 5000 eleitores;\n\nd) Posto de assistência médica com serviço de permanência;\n\ne) Farmácia;\n\nf) Casa de espectáculos;\n\ng) Transportes públicos colectivos;\n\nh) Estação dos CTT;\n\ni) Instalações de hotelaria;\n\nj) Estabelecimentos de ensino preparatório e secundário;\n\nl) Estabelecimentos de ensino pré-primário e infantário;\n\nm) Corporação de bombeiros;\n\nn) Parques e jardins públicos;\n\no) Agência bancária.\n\n3 - A criação de municípios em áreas com densidade populacional, calculada com base na relação entre o número de eleitores e a área dos municípios de origem, igual ou superior a 200 eleitores por quilómetro quadrado e inferior a 500 eleitores por quilómetro quadrado deverá ter em conta a verificação cumulativa dos seguintes requisitos:\n\na) Na área da futura circunscrição municipal, o número de eleitores nela residentes será superior a 12000;\n\nb) A área da futura circunscrição cuja criação é pretendida será superior a 30 km2;\n\nc) Existência de um aglomerado populacional contínuo que conte com um número mínimo de 5000 eleitores residentes;\n\nd) Posto de assistência médica com serviço de permanência;\n\ne) Farmácia;\n\nf) Casa de espectáculos;\n\ng) Transportes públicos colectivos;\n\nh) Estação dos CTT;\n\ni) Instalações de hotelaria;\n\nj) Estabelecimentos de ensino preparatório e secundário;\n\nl) Estabelecimentos de ensino pré-primário e infantário;\n\nm) Corporação de bombeiros;\n\nn) Parques e jardins públicos;\n\no) Agência bancária.\n\n4 - A criação de municípios em áreas de densidade populacional, calculada com base na relação entre o número de eleitores e a área dos municípios de origem, igual ou superior a 500 eleitores por quilómetro quadrado deverá ter em conta a verificação cumulativa dos seguintes requisitos:\n\na) Na área da futura circunscrição municipal, o número de eleitores nela residentes será superior a 30000;\n\nb) A área da futura circunscrição cuja criação é pretendida será superior a 30 km2;\n\nc) Existência de um centro urbano, constituído em aglomerado contínuo, com um número mínimo de 10000 eleitores residentes e contando com os seguintes equipamentos colectivos:\n\nPosto médico com serviço permanente;\n\nFarmácia;\n\nMercado;\n\nCasa de espectáculos;\n\nTransportes públicos colectivos;\n\nEstação dos CTT;\n\nInstalações de hotelaria;\n\nEstabelecimentos de ensino preparatório e secundário;\n\nEstabelecimentos de ensino pré-primário;\n\nCreche-infantário;\n\nCorporação de bombeiros;\n\nAgência bancária;\n\nParque e jardim público;\n\nRecinto desportivo.\n\n5 - O novo município a criar deve ter fronteira com mais de um município, caso não seja criado junto à orla marítima ou à fronteira com país vizinho, e ser geograficamente contínuo."
+  },
+  "73244923": {
+   "fragment_id": "73244833",
+   "type": 11,
+   "heading": "Artigo 5.º — (Consultas prévias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Consultas prévias)\n\n1 - O projecto ou proposta de lei de criação de nove município deverá obter parecer favorável das assembleias das freguesias a integrar no novo município\n\n2 - Os municípios em que se integrem as freguesias referidas no número anterior serão ouvidos nos termos da alínea d) do artigo 3.º da Lei n.º 11/82, de 2 de Junho.\n\n3 - Para efeito de observância do disposto nos números anteriores, a Assembleia da República ou o Governo, conforme o caso, ouvirão os órgãos das autarquias interessadas, que se pronunciarão no prazo de 60 dias.\n\n4 - As deliberações a que respeitam as consultas de que trata este artigo são tomadas pela maioria absoluta do número de membros em efectividade de funções nos respectivos órgãos."
+  },
+  "73244924": {
+   "fragment_id": "73244834",
+   "type": 11,
+   "heading": "Artigo 6.º — (Proibição temporária da criação de municípios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Proibição temporária da criação de municípios)\n\n1 - É proibido criar, extinguir ou modificar territorialmente municípios nos 6 meses anteriores ao período em que legalmente devam realizar-se eleições gerais para qualquer órgão de soberania, das regiões autónomas e do poder local.\n\n2 - No caso de eleições intercalares, a proibição prevista no número anterior abrange todo o período posterior ao facto que as determinar até à realização do acto eleitoral e, tratando-se de órgãos da região autónoma ou do poder local, reporta-se apenas a municípios envolvidos no processo de criação, extinção ou modificação territorial."
+  },
+  "73244925": {
+   "fragment_id": "73244835",
+   "type": 11,
+   "heading": "Artigo 7.º — (Abertura e instrução do processo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Abertura e instrução do processo)\n\n1 - Admitidos o projecto ou proposta de lei, o Presidente da Assembleia da República, tendo em vista o que se dispõe nos artigos 2.º e 4.º da presente lei, ordenará a instauração do processo no âmbito da respectiva comissão parlamentar.\n\n2 - A abertura nos termos do número anterior será comunicada ao Governo, para que este, nos 90 dias seguintes, forneça à Assembleia da República, sob a forma de relatório, os elementos susceptíveis de instrução do processo de acordo com o que se dispõe nesta lei.\n\n3 - O relatório a que se refere o número anterior será elaborado por uma comissão apoiada tecnicamente pelos serviços competentes do Ministério da Administração Interna, presidida por representante deste Ministério e integrada por membros indicados pelas juntas das freguesias previstas para constituírem o novo município, pela câmara ou câmaras municipais do município ou municípios de origem e ainda por representantes da Inspecção-Geral de Finanças e do Instituto Geográfico e Cadastral, a nomear pelo Ministro das Finanças e do Plano.\n\n4 - O prazo referido no n.º 2 poderá ser prorrogado pela Assembleia da República, por solicitação fundamentada do Governo."
+  },
+  "73244926": {
+   "fragment_id": "73244836",
+   "type": 11,
+   "heading": "Artigo 8.º — (Elementos essenciais do processo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Elementos essenciais do processo)\n\n1 - O relatório referido no n.º 2 do artigo anterior incidirá, nomeadamente, sobre os seguintes aspectos:\n\na) Viabilidade do novo município e do município ou municípios de origem;\n\nb) Delimitação territorial do novo município, acompanhada de representação cartográfica em planta à escala de 1:25000;\n\nc) Alterações a introduzir no território do município ou municípios de origem, acompanhadas de representação cartográfica em escala adequada;\n\nd) Indicação da denominação, sede e categoria administrativa do futuro município, bem como do distrito em que ficará integrado:\n\ne) Discriminação, em natureza, dos bens, universalidades, direitos e obrigações do município ou municípios de origem a transferir para o novo município;\n\nf) Enunciação de critérios suficientemente precisos para a afectação e imputação ao novo município de direitos e obrigações, respectivamente.\n\n2 - O relatório será ainda instruído com cópias autenticadas das actas dos órgãos das autarquias locais envolvidas, ouvidos nos termos do artigo 5.º desta lei."
+  },
+  "73244927": {
+   "fragment_id": "73244837",
+   "type": 11,
+   "heading": "Artigo 9.º — (Menções legais obrigatórias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Menções legais obrigatórias)\n\nA lei criadora do novo município deverá:\n\na) Determinar as freguesias que o constituem e conter, em anexo, um mapa à escala de 1:25000, com a delimitação da área do novo município e a nova área dos municípios de origem;\n\nb) Incluir os elementos referenciados nas alíneas d), e) e f) do n.º 1 do artigo anterior;\n\nc) Consagrar a possibilidade de nos 2 anos seguintes à criação do município poderem os trabalhadores dos demais municípios, com preferência para os dos municípios de origem, requerer a transferência para lugares, não de direcção ou chefia, do quadro do novo município até ao limite de dois terços das respectivas dotações;\n\nd) Definir a composição da comissão instaladora;\n\ne) Estabelecer o processo eleitoral."
+  },
+  "73244928": {
+   "fragment_id": "73244838",
+   "type": 11,
+   "heading": "Artigo 10.º — (Período transitório)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Período transitório)\n\n1 - Após a publicação da lei de criação do novo município, caberá à comissão referida no n.º 3 do artigo 7.º viabilizar a partilha de patrimónios e a determinação de direitos e de responsabilidades, dentro dos critérios orientadores definidos no artigo seguinte, mas sem prejuízo do que sobre as mesmas matérias se disponha especialmente na lei de criação.\n\n2 - Os documentos elaborados pela comissão nos termos deste artigo deverão ficar concluídos nos 60 dias seguintes à publicação da lei de criação e serão objecto de aprovação pelas câmaras municipais e pela comissão instaladora do novo município.\n\n3 - A transmissão de bens, universalidades, direitos e obrigações para o novo município efectua-se por força da lei que o criar, sendo o registo, quando tenha lugar, lavrado mediante simples requerimento instruído com os documentos referidos no número anterior.\n\n4 - Todos os serviços já existentes na área do novo município passam de imediato após a entrada em vigor da lei de criação, a ser dirigidos pela comissão instaladora, sem prejuízo da manutenção do apoio em meios materiais e financeiros dos municípios de origem indispensáveis à continuidade do seu funcionamento e até que sejam formalmente recebidos por aquela comissão, nos termos do n.º 2 deste artigo.\n\n5 - Consideram-se em vigor na área do novo município todos os regulamentos municipais que aí vigoravam à data da criação, cabendo à comissão instaladora, no caso de regulamentação proveniente de mais de um município, deliberar sobre aquela que passa a ser aplicada."
+  },
+  "73244929": {
+   "fragment_id": "73244839",
+   "type": 11,
+   "heading": "Artigo 11.º — (Eleições intercalares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Eleições intercalares)\n\n1 - A criação de um novo município implica a realização de eleições para todos os órgãos dos diversos municípios envolvidos, salvo se a respectiva lei for publicada nos 12 meses anteriores ao termo do prazo em que legalmente se devem realizar as correspondentes eleições gerais.\n\n2 - A data das eleições intercalares, o calendário das respectivas operações de adaptação dos cadernos de recenseamento e as operações eleitorais serão fixados pelo órgão competente no prazo máximo de 30 dias após a entrada em vigor da lei."
+  },
+  "73244930": {
+   "fragment_id": "73244840",
+   "type": 11,
+   "heading": "Artigo 12.º — (Critérios orientadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Critérios orientadores)\n\n1 - Salvo o que especialmente se dispuser na lei de criação, a partilha de patrimónios e a determinação de direitos e responsabilidades a que se referem os n.os 1 e 2 do artigo 8.º atenderá aos seguintes critérios orientadores:\n\na) Transmissão para a nova autarquia, sem prejuízo do disposto na alínea f), de uma parte da dívida e respectivos encargos dos municípios de origem, proporcional ao rendimento dos impostos ou taxas que constituam, nos termos da lei, receita própria dos municípios;\n\nb) Transferência para o novo município do direito aos edifícios e outros bens dos municípios de origem situados na área das freguesias que passam a integrar a nova autarquia;\n\nc) Transferência para o novo município das instalações da rede geral dos serviços pertencentes ou explorados pelos municípios de origem situados na área das freguesias que passam a integrar a nova autarquia, salvo tratando-se de serviços indivisíveis por natureza ou estrutura e que aproveitem às populações de mais de uma autarquia, caso em que os municípios interessados se associarão por qualquer das formas previstas na lei para a sua detenção e exploração comum;\n\nd) Transferência para o novo município do produto, e correspondentes encargos, de empréstimos contraídos para a aquisição, construção ou instalação dos bens e serviços transferidos nos termos das alíneas b) e c):\n\ne) Transferência para o novo município do pessoal adstrito a serviços em actividade na sua área e ainda daqueles que passam a caber-lhe.\n\n2 - Em todas as demais situações em que hajam de determinar-se direitos ou obrigações serão estes apurados proporcionalmente ao número de eleitores inscritos à data da criação.\n\n3 - Os critérios enunciados deverão ser igualmente tidos em conta pela comissão parlamentar quando o relatório for omisso, inconclusivo ou não fundamentado no que respeita às exigências do artigo 8.º"
+  },
+  "73244931": {
+   "fragment_id": "73244841",
+   "type": 11,
+   "heading": "Artigo 13.º — (Comissão instaladora)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Comissão instaladora)\n\n1 - Com vista a proceder à implantação de estruturas e serviços, funcionará, no período que decorrer entre a publicação da lei e a constituição dos órgãos do novo município, uma comissão instaladora, que promoverá as acções necessárias à instalação daqueles órgãos e assegurará a gestão corrente da autarquia.\n\n2 - A comissão instaladora será composta por 5 membros designados pelo Ministro da Administração Interna, que tomará em consideração os resultados eleitorais globais obtidos pelas forças políticas nas últimas eleições autárquicas realizadas para as assembleias das freguesias que integram o novo município, aplicando-se, com as necessárias adaptações, o disposto no artigo 10.º da Lei n.º 11/82, de 2 de Junho.\n\n3 - Ao Ministério da Administração Interna competirá assegurar as instalações e os meios materiais e financeiros necessários à actividade da comissão instaladora."
+  },
+  "73244932": {
+   "fragment_id": "73244842",
+   "type": 11,
+   "heading": "Artigo 14.º — (Aplicação da lei)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Aplicação da lei)\n\n1 - A presente lei é aplicável a todos os projectos e propostas de lei de criação de novos municípios pendentes na Assembleia da República.\n\n2 - A aplicação da presente lei às Regiões Autónomas dos Açores e da Madeira depende da publicação de normas especiais que tomem em conta o particular condicionalismo, geográfico e populacional dos correspondentes arquipélagos.\n\n3 - Não poderão ser criados novos municípios sedeados nos distritos de Lisboa, Porto e Setúbal enquanto não for definida a delimitação das áreas urbanas referidas no artigo 238.º, n.º 3, da Constituição.\n\n4 - A criação de novos municípios só poderá efectivar-se após a criação das regiões administrativas, nos termos dos artigos 250.º, 256.º e seguintes da Constituição."
+  },
+  "73244964": {
+   "fragment_id": "73244842",
+   "type": 11,
+   "heading": "Artigo 14.º — (Aplicação da lei)",
+   "in_force_from": "1997-12-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo Único do/a [Lei n.º 124/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/lei/124-1997-406494), em vigor a partir de 1997-12-02"
+   ],
+   "markdown": "###### Artigo 14.º — (Aplicação da lei)\n\n1 - A presente lei é aplicável a todos os projectos e propostas de lei de criação de novos municípios pendentes na Assembleia da República.\n\n2 - A aplicação da presente lei às Regiões Autónomas dos Açores e da Madeira depende da publicação de normas especiais que tomem em conta o particular condicionalismo, geográfico e populacional dos correspondentes arquipélagos.\n\n3 - Não poderão ser criados novos municípios sedeados nos distritos de Lisboa, Porto e Setúbal enquanto não for definida a delimitação das áreas urbanas referidas no artigo 238.º, n.º 3, da Constituição.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo Único do/a [Lei n.º 124/97 - Diário da República n.º 275/1997, Série I-A de 1997-11-27](https://diariodarepublica.pt/dr/detalhe/lei/124-1997-406494), em vigor a partir de 1997-12-02"
+  },
+  "73244933": {
+   "fragment_id": "73244843",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de Maio de 1985.\n\nO Presidente da Assembleia da República, Fernando Monteiro do Amaral.\n\nPromulgada em 31 de Outubro de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 4 de Novembro de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "73244965": {
+   "fragment_id": "73244832",
+   "type": 11,
+   "heading": "Artigo 4.º — (Requisitos geodemográficos)",
+   "in_force_from": "1998-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 32/98 - Diário da República n.º 164/1998, Série I-A de 1998-07-18](https://diariodarepublica.pt/dr/detalhe/lei/32-1998-424490), em vigor a partir de 1998-07-23"
+   ],
+   "markdown": "###### Artigo 4.º — (Requisitos geodemográficos)\n\n1 - A criação de novos municípios em áreas de densidade populacional, calculada com base na relação entre os eleitores e a área dos municípios de origem, inferior a 100 eleitores por quilómetro quadrado deverá ter em conta a verificação cumulativa dos seguintes requisitos:\n\na) Na área da futura circunscrição municipal, o número de eleitores nela residentes será superior a 10000;\n\nb) A área da futura circunscrição municipal cuja criação é pretendida será superior a 500 km2;\n\nc) Existência de um aglomerado populacional contínuo que conte com um número mínimo de 5000 eleitores;\n\nd) Posto de assistência médica com serviço de permanência;\n\ne) Farmácia;\n\nf) Casa de espectáculos;\n\ng) Transportes públicos colectivos;\n\nh) Estação dos CTT;\n\ni) Instalações de hotelaria;\n\nj) Estabelecimentos de ensino preparatório e secundário;\n\nl) Estabelecimentos de ensino pré-primário e infantário;\n\nm) Corporação de bombeiros;\n\nn) Parques e jardins públicos;\n\no) Agência bancária.\n\n2 - A criação de novos municípios em áreas com densidade populacional que, calculada com base na relação entre os eleitores e a área dos municípios de origem, for igual ou superior a 100 eleitores por quilómetro quadrado e inferior a 200 eleitores por quilómetro quadrado deverá ter em conta a verificação cumulativa dos seguintes requisitos:\n\na) Na área da futura circunscrição municipal, o número de eleitores nela residentes será superior a 12000;\n\nb) A área da futura circunscrição cuja criação é pretendida será superior a 150 km2;\n\nc) Existência de um aglomerado populacional contínuo que conte com um número mínimo de 5000 eleitores;\n\nd) Posto de assistência médica com serviço de permanência;\n\ne) Farmácia;\n\nf) Casa de espectáculos;\n\ng) Transportes públicos colectivos;\n\nh) Estação dos CTT;\n\ni) Instalações de hotelaria;\n\nj) Estabelecimentos de ensino preparatório e secundário;\n\nl) Estabelecimentos de ensino pré-primário e infantário;\n\nm) Corporação de bombeiros;\n\nn) Parques e jardins públicos;\n\no) Agência bancária.\n\n3 - A criação de municípios em áreas com densidade populacional, calculada com base na relação entre o número de eleitores e a área dos municípios de origem, igual ou superior a 200 eleitores por quilómetro quadrado e inferior a 500 eleitores por quilómetro quadrado deverá ter em conta a verificação cumulativa dos seguintes requisitos:\n\na) Na área da futura circunscrição municipal, o número de eleitores nela residentes será superior a 12000;\n\nb) A área da futura circunscrição cuja criação é pretendida será superior a 30 km2;\n\nc) Existência de um aglomerado populacional contínuo que conte com um número mínimo de 5000 eleitores residentes;\n\nd) Posto de assistência médica com serviço de permanência;\n\ne) Farmácia;\n\nf) Casa de espectáculos;\n\ng) Transportes públicos colectivos;\n\nh) Estação dos CTT;\n\ni) Instalações de hotelaria;\n\nj) Estabelecimentos de ensino preparatório e secundário;\n\nl) Estabelecimentos de ensino pré-primário e infantário;\n\nm) Corporação de bombeiros;\n\nn) Parques e jardins públicos;\n\no) Agência bancária.\n\n4 - A criação de municípios em áreas de densidade populacional, calculada com base na relação entre o número de eleitores e a área dos municípios de origem, igual ou superior a 500 eleitores por quilómetro quadrado deverá ter em conta a verificação cumulativa dos seguintes requisitos:\n\na) Na área da futura circunscrição municipal, o número de eleitores nela residentes será superior a 30000;\n\nb) A área da futura circunscrição cuja criação é pretendida será superior a 24 km2;\n\nc) Existência de um centro urbano, constituído em aglomerado contínuo, com um número mínimo de 10000 eleitores residentes e contando com os seguintes equipamentos colectivos:\n\nPosto médico com serviço permanente;\n\nFarmácia;\n\nMercado;\n\nCasa de espectáculos;\n\nTransportes públicos colectivos;\n\nEstação dos CTT;\n\nInstalações de hotelaria;\n\nEstabelecimentos de ensino preparatório e secundário;\n\nEstabelecimentos de ensino pré-primário;\n\nCreche-infantário;\n\nCorporação de bombeiros;\n\nAgência bancária;\n\nParque e jardim público;\n\nRecinto desportivo.\n\n5 - O novo município a criar deve ter fronteira com mais de um município, caso não seja criado junto à orla marítima ou à fronteira com país vizinho, e ser geograficamente contínuo.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 32/98 - Diário da República n.º 164/1998, Série I-A de 1998-07-18](https://diariodarepublica.pt/dr/detalhe/lei/32-1998-424490), em vigor a partir de 1998-07-23"
+  },
+  "73244966": {
+   "fragment_id": "73244839",
+   "type": 11,
+   "heading": "Artigo 11.º — (Eleições intercalares)",
+   "in_force_from": "1998-07-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/98 - Diário da República n.º 164/1998, Série I-A de 1998-07-18](https://diariodarepublica.pt/dr/detalhe/lei/32-1998-424490), em vigor a partir de 1998-07-23"
+   ],
+   "markdown": "###### Artigo 11.º — (Eleições intercalares)\n\n1 - A criação de um novo município implica a realização de eleições para todos os órgãos dos diversos municípios envolvidos, salvo se a respectiva lei for publicada nos 12 meses anteriores ou posteriores ao termo do prazo em que legalmente se devem realizar as correspondentes eleições gerais.\n\n2 - A data das eleições intercalares, o calendário das respectivas operações de adaptação dos cadernos de recenseamento e as operações eleitorais serão fixados pelo órgão competente no prazo máximo de 30 dias após a entrada em vigor da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 32/98 - Diário da República n.º 164/1998, Série I-A de 1998-07-18](https://diariodarepublica.pt/dr/detalhe/lei/32-1998-424490), em vigor a partir de 1998-07-23"
+  },
+  "73244967": {
+   "fragment_id": "73244838",
+   "type": 11,
+   "heading": "Artigo 10.º — (Período transitório)",
+   "in_force_from": "1999-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 48/99 - Diário da República n.º 138/1999, Série I-A de 1999-06-16](https://diariodarepublica.pt/dr/detalhe/lei/48-1999-306918), em vigor a partir de 1999-06-17, produz efeitos a partir de 1998-09-15"
+   ],
+   "markdown": "###### Artigo 10.º — (Período transitório)\n\n1 - (Revogado).\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n4 - Todos os serviços já existentes na área do novo município passam de imediato após a entrada em vigor da lei de criação, a ser dirigidos pela comissão instaladora, sem prejuízo da manutenção do apoio em meios materiais e financeiros dos municípios de origem indispensáveis à continuidade do seu funcionamento e até que sejam formalmente recebidos por aquela comissão, nos termos do n.º 2 deste artigo.\n\n5 - Consideram-se em vigor na área do novo município todos os regulamentos municipais que aí vigoravam à data da criação, cabendo à comissão instaladora, no caso de regulamentação proveniente de mais de um município, deliberar sobre aquela que passa a ser aplicada.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 48/99 - Diário da República n.º 138/1999, Série I-A de 1999-06-16](https://diariodarepublica.pt/dr/detalhe/lei/48-1999-306918), em vigor a partir de 1999-06-17, produz efeitos a partir de 1998-09-15"
+  },
+  "73244968": {
+   "fragment_id": "73244841",
+   "type": 11,
+   "heading": "Artigo 13.º — (Comissão instaladora)",
+   "in_force_from": "1999-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 48/99 - Diário da República n.º 138/1999, Série I-A de 1999-06-16](https://diariodarepublica.pt/dr/detalhe/lei/48-1999-306918), em vigor a partir de 1999-06-17, produz efeitos a partir de 1998-09-15"
+   ],
+   "markdown": "###### Artigo 13.º — (Comissão instaladora)\n\n1 - (Revogado).\n\n2 - (Revogado).\n\n3 - Ao Ministério da Administração Interna competirá assegurar as instalações e os meios materiais e financeiros necessários à actividade da comissão instaladora.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 48/99 - Diário da República n.º 138/1999, Série I-A de 1999-06-16](https://diariodarepublica.pt/dr/detalhe/lei/48-1999-306918), em vigor a partir de 1999-06-17, produz efeitos a partir de 1998-09-15"
+  }
+ }
+}

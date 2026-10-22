@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222641:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1994-869920562",
+ "dre_path": "/dr/detalhe/portaria/716-1994-222641",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-08-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869917938",
+    "869917940",
+    "869917941",
+    "869917942",
+    "869917943",
+    "869917944",
+    "869917945"
+   ]
+  }
+ ],
+ "fragments": {
+  "869917938": {
+   "fragment_id": "869920563",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 716/94\n\nde 10 de Agosto\n\nCompete ao Estado criar a rede de estabelecimentos públicos de educação e ensino com a dimensão ajustada às características regionais em função das necessidades previstas nos termos do n.º 1 do artigo 37.º e do n.º 3 do artigo 39.º da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo).\n\nA expansão do sistema educativo ao nível do 2.º e 3.º ciclos do ensino básico exige uma permanente adequação da rede, através da criação, transformação e extinção de escolas.\n\nUrge, ainda, promover o pleno aproveitamento dos edifícios e demais estruturas escolares existentes.\n\nPor outro lado, importa fazer os necessários ajustamentos em matéria de quadros de pessoal docente e, também, dotar adequadamente os quadros de vinculação no que diz respeito ao pessoal não docente.\n\nAssim, tendo em conta o disposto nos artigos 26.º e 124.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, nos artigos 2.º e 13.º, n.º 1, do Decreto-Lei n.º 18/88, de 21 de Janeiro, no Decreto-Lei n.º 407/89, de 16 de Novembro, e, relativamente ao pessoal não docente, no Decreto-Lei n.º 223/87, de 30 de Maio, e legislação complementar;\n\nE ainda o disposto nos Decretos-Leis n.os 519-E2/79, de 29 de Dezembro, e 387/90, de 10 de Dezembro:\n\nManda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:\n\n> Nota: [4.º, Portaria n.º 495/95 - Diário da República n.º 120/1995, Série I-B de 1995-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/495-1995-529978) As dotações dos quadros de pessoal docente constantes do mapa I anexo à presente portaria, são substituídas, para todos os efeitos legais, pelas do mapa I anexo À Portaria n.º 495/95."
+  },
+  "869917940": {
+   "fragment_id": "869920565",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nSão criadas, para entrar em funcionamento a partir de 1 de Setembro de 1994, as seguintes escolas:\n\na) Do 2.º e 3.º ciclos do ensino básico:\n\nDistrito de Braga:\n\nA 45Q - Briteiros, Guimarães (24T);\n\nDistrito do Porto:\n\nA 46U - São Romão do Coronado, Santo Tirso (24T);\n\nA 48M - Leça do Bailio, Matosinhos (24T);\n\nDistrito de Viseu:\n\n49R - Souzelo, Cinfães (24T);\n\nb) Do ensino secundário:\n\nDistrito do Porto:\n\n47Y - Vila das Aves, Santo Tirso (24T)."
+  },
+  "869917941": {
+   "fragment_id": "869920566",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nÉ extinta a partir de 31 de Agosto de 1994 a seguinte escola preparatória:\n\nDistrito da Guarda:\n\n152J Manteigas."
+  },
+  "869917942": {
+   "fragment_id": "869920567",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nÉ criada uma escola 2.º e 3.º ciclos do ensino básico, em substituição da escola referida no número anterior, assim:      Distrito da Guarda:\n\n152J Manteigas."
+  },
+  "869917943": {
+   "fragment_id": "869920568",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nSão criados os quadros de pessoal docente das escolas com 2.º e 3.º ciclos constantes do mapa I anexo à presente portaria."
+  },
+  "869917944": {
+   "fragment_id": "869920569",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º\n\nSão adicionados aos quadros de vinculação a que se refere o Decreto-Lei n.º 223/87, de 30 de Maio, e legislação complementar, os lugares de pessoal não docente que constam do mapa II anexo à presente portaria."
+  },
+  "869917945": {
+   "fragment_id": "869920570",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\nMantêm-se os quadros de afectação de pessoal não docente em vigor a que se refere o artigo 3.º do Decreto-Lei n.º 223/87, de 30 de Maio, na redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 191/89, de 7 de Junho, com excepção dos quadros de afectação que figuram no mapa III anexo à presente portaria."
+  }
+ }
+}

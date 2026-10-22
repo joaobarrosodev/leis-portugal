@@ -1,0 +1,604 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:175559:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2012-116986080",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/26-2012-175559",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-10-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116983178",
+    "116983179",
+    "116983180",
+    "116983181",
+    "116983182",
+    "116983183",
+    "116983184",
+    "116983185",
+    "116983186",
+    "116983187",
+    "116983188",
+    "116983189",
+    "116983190",
+    "116983191",
+    "116983192",
+    "116983193",
+    "116983194",
+    "116983195",
+    "116983196",
+    "116983197",
+    "116983198",
+    "116983199",
+    "116983200",
+    "116983201",
+    "116983202",
+    "116983203",
+    "116983204",
+    "116983205",
+    "116983206",
+    "116983207",
+    "116983208",
+    "116983209",
+    "116983210",
+    "116983211",
+    "116983212",
+    "116983213",
+    "116983214",
+    "116983215",
+    "116983216",
+    "116983217",
+    "116983218",
+    "116983219",
+    "116983220",
+    "116983221",
+    "116983222"
+   ]
+  },
+  {
+   "date": "2018-11-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116979747:por",
+     "title": "Decreto Regulamentar Regional n.º 13/2018/M",
+     "published": "2018-11-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "116983178",
+    "116983179",
+    "116983180",
+    "116983181",
+    "116983182",
+    "116983183",
+    "116983184",
+    "116990693",
+    "116990694",
+    "116983187",
+    "116983188",
+    "116983189",
+    "116983190",
+    "116983191",
+    "116983192",
+    "116983193",
+    "116983194",
+    "116983195",
+    "116990695",
+    "116983197",
+    "116983198",
+    "116983199",
+    "116990696",
+    "116990697",
+    "116990698",
+    "116983203",
+    "116990699",
+    "116990700",
+    "116983206",
+    "116983207",
+    "116983208",
+    "116983209",
+    "116983210",
+    "116990701",
+    "116983212",
+    "116983213",
+    "116983214",
+    "116990702",
+    "116983216",
+    "116983217",
+    "116983218",
+    "116983219",
+    "116983220",
+    "116983221",
+    "116983222",
+    "116983223"
+   ]
+  }
+ ],
+ "fragments": {
+  "116983178": {
+   "fragment_id": "116986081",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 26/2012/M\n\nRegulamenta o sistema de avaliação do desempenho do pessoal docente\n\nPelo Decreto Legislativo Regional n.º 6/2008/M, de 25 de fevereiro, que aprovou o Estatuto da Carreira Docente da Região Autónoma da Madeira, enquadrou-se a avaliação do desempenho numa ótica de rigor e de melhoria das práticas do docente no contexto escolar, passando a estar definidos, na segunda alteração do Estatuto, os princípios gerais que enformam o sistema de avaliação, remetendo-se o seu desenvolvimento para regulamentação a posteriori.\n\nAssim sendo, contempla-se um modelo de avaliação do desempenho que visa a melhoria da qualidade das atividades educativas das crianças e das aprendizagens dos alunos, para além de diagnosticar as necessidades de formação dos docentes, afastando-se uma lógica burocrática e privilegiando-se um quadro legal valorizador da função docente e do Sistema Educativo Regional.\n\nPlasmam-se as dimensões da avaliação do desempenho, define-se a sua periodicidade, coincidente com o período correspondente à duração dos escalões da carreira docente, e enquadram-se os novos atores do processo de avaliação.\n\nConsagra-se, pois, um modelo de avaliação aplicável aos docentes integrados na carreira, aos contratados e aos que se encontrem em regime de mobilidade nas escolas privadas e instituições de ensino superior, em serviços da administração regional e local e no exercício de outras funções, designadamente, associações profissionais e sindicais.\n\nNum quadro de paridade do Sistema Educativo Regional aplica-se este regime aos docentes das instituições particulares de solidariedade social que se regem pelo sistema remuneratório dos docentes da rede pública.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de maio.\n\nAssim:\n\nO Governo Regional da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, conjugada com a alínea d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, na redação e numeração dadas pelas Leis n.os 130/99 e 12/2000, de 21 de agosto e de 21 de junho, respetivamente, e com o n.º 4 do artigo 43.º do Estatuto da Carreira Docente da Região Autónoma da Madeira, aprovado pelo Decreto Legislativo Regional n.º 6/2008/M, de 25 de fevereiro, alterado pelos Decretos Legislativos Regionais n.os 17/2010/M, de 18 de agosto, e 20/2012/M, de 29 de agosto, o seguinte:"
+  },
+  "116983179": {
+   "fragment_id": "116986082",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "116983180": {
+   "fragment_id": "116986083",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma regulamenta o sistema de avaliação do desempenho do pessoal docente dos estabelecimentos de educação e de ensino, das instituições de educação especial, dos serviços técnicos da Direção Regional de Educação, dos que se encontrem em regime de mobilidade na administração regional autónoma e local, delegações escolares e no exercício de outras funções."
+  },
+  "116983181": {
+   "fragment_id": "116986084",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO disposto no presente decreto regulamentar regional aplica-se aos docentes integrados na carreira, aos docentes em período probatório e aos docentes em regime de contrato a termo resolutivo, nos termos legalmente estabelecidos."
+  },
+  "116983182": {
+   "fragment_id": "116986085",
+   "type": 1,
+   "heading": "Capítulo II — Regime geral da avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime geral da avaliação do desempenho"
+  },
+  "116983183": {
+   "fragment_id": "116986086",
+   "type": 8,
+   "heading": "Secção I — Princípios orientadores, natureza e periodicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Princípios orientadores, natureza e periodicidade"
+  },
+  "116983184": {
+   "fragment_id": "116986087",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\n1 - A avaliação do desempenho do pessoal docente visa a melhoria da qualidade das atividades educativas das crianças e das aprendizagens dos alunos, das estratégias de intervenção com jovens e adultos com necessidades especiais, bem como a valorização e o desenvolvimento profissional dos docentes.\n\n2 - Para além dos objetivos estabelecidos no n.º 3 do artigo 43.º do Estatuto da Carreira Docente da Região Autónoma da Madeira, aprovado pelo Decreto Legislativo Regional n.º 6/2008/M, de 25 de fevereiro, e alterado pelos Decretos Legislativos Regionais n.os 17/2010/M, de 18 de agosto, e 20/2012/M, de 29 de agosto, adiante abreviadamente designado por Estatuto, o sistema de avaliação do desempenho deve ainda permitir diagnosticar as necessidades de formação dos docentes, a considerar no plano de formação de cada estabelecimento de educação, de ensino, de instituição de educação especial ou do serviço técnico da Direção Regional de Educação, sem prejuízo do direito à autoformação."
+  },
+  "116983185": {
+   "fragment_id": "116986088",
+   "type": 11,
+   "heading": "Artigo 4.º — Dimensões da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dimensões da avaliação\n\nA avaliação incide sobre as seguintes dimensões do desempenho do pessoal docente:\n\na) Científica e pedagógica;\n\nb) Participação nas atividades desenvolvidas no estabelecimento de educação, de ensino, de instituição de educação especial ou do serviço técnico da Direção Regional de Educação;\n\nc) Formação contínua e desenvolvimento profissional."
+  },
+  "116983186": {
+   "fragment_id": "116986089",
+   "type": 11,
+   "heading": "Artigo 5.º — Periodicidade e requisito temporal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Periodicidade e requisito temporal\n\n1 - Os ciclos de avaliação dos docentes integrados na carreira coincidem com o período correspondente à duração dos escalões da carreira docente, devendo o processo de avaliação do desempenho ser concluído no final do ano escolar anterior ao do termo do ciclo avaliativo.\n\n2 - Os docentes integrados na carreira só são sujeitos a avaliação do desempenho desde que tenham prestado serviço docente efetivo durante, pelo menos, metade do período em avaliação a que se refere o número anterior.\n\n3 - Aos docentes que não preencherem o requisito de tempo mínimo previsto no número anterior é-lhes aplicável o disposto nos n.os 2 e 3 do artigo 29.º\n\n4 - A avaliação dos docentes em regime de contrato a termo resolutivo realiza-se no final do período de vigência do respetivo contrato e antes da eventual renovação da sua colocação, desde que tenham prestado serviço docente efetivo durante, pelo menos, 180 dias.\n\n5 - Quando o limite mínimo referido no número anterior resultar da celebração de mais do que um contrato a termo resolutivo, a avaliação será realizada pelo estabelecimento de educação, de ensino, de instituição de educação especial ou do serviço técnico da Direção Regional de Educação, cujo contrato termine em último lugar, recolhidos os elementos avaliativos dos outros estabelecimentos.\n\n6 - Se os contratos referidos no número anterior terminarem na mesma data, cabe ao docente optar pelo estabelecimento de educação, de ensino, de instituição de educação especial ou do serviço técnico da Direção Regional de Educação que efetua a sua avaliação.\n\n7 - O ciclo de avaliação dos docentes em período probatório corresponde ao ano escolar coincidente com esse período."
+  },
+  "116983187": {
+   "fragment_id": "116986090",
+   "type": 11,
+   "heading": "Artigo 6.º — Elementos de referência da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Elementos de referência da avaliação\n\n1 - As dimensões da avaliação referidas nas alíneas a), b) e c) do artigo 4.º são apreciadas tendo em consideração os objetivos e as metas fixados no projeto educativo do estabelecimento de educação, de ensino ou de instituição de educação especial e no plano anual de atividades do serviço técnico da Direção Regional de Educação, bem como os parâmetros fixados para cada uma das dimensões nos termos do número seguinte.\n\n2 - Os parâmetros são aprovados pelo conselho pedagógico, conselho escolar e conselho técnico interno, consoante se trate, respetivamente, de estabelecimentos de educação e escolas dos 2.º e 3.º ciclos do ensino básico e ensino secundário, escolas do 1.º ciclo do ensino básico com ou sem unidades de educação pré-escolar e instituições de educação especial e no caso dos serviços técnicos da Direção Regional de Educação, pela própria unidade orgânica nuclear.\n\n3 - Os parâmetros estabelecidos a nível regional para a avaliação externa são fixados pelo Secretário Regional da Educação e Recursos Humanos, ouvidas as associações sindicais."
+  },
+  "116983188": {
+   "fragment_id": "116986091",
+   "type": 11,
+   "heading": "Artigo 7.º — Natureza da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Natureza da avaliação\n\n1 - A avaliação é composta por duas componentes, uma interna e outra externa.\n\n2 - A avaliação interna é efetuada pelo estabelecimento de educação, de ensino, de instituição de educação especial e serviço técnico da Direção Regional de Educação e é realizada em todos os escalões.\n\n3 - A avaliação externa centra-se na dimensão científica e pedagógica e realiza-se através da observação de atividades educativas, aulas ou estratégias de intervenção, por avaliadores externos, nas situações previstas nos n.os 2 e 3 do artigo 18.º"
+  },
+  "116983189": {
+   "fragment_id": "116986092",
+   "type": 8,
+   "heading": "Secção II — Intervenientes no processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Intervenientes no processo de avaliação"
+  },
+  "116983190": {
+   "fragment_id": "116986093",
+   "type": 11,
+   "heading": "Artigo 8.º — Intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Intervenientes\n\n1 - São intervenientes no processo de avaliação do desempenho docente:\n\n1.1 - Nos estabelecimentos de educação:\n\na) O delegado escolar;\n\nb) O diretor;\n\nc) O conselho pedagógico;\n\nd) A secção de avaliação do desempenho docente do conselho pedagógico;\n\ne) Os avaliadores externos e internos;\n\nf) Os avaliados.\n\n1.2 - Nos estabelecimentos do 1.º ciclo do ensino básico com ou sem unidades de educação pré-escolar:\n\na) O delegado escolar;\n\nb) O diretor;\n\nc) O conselho escolar;\n\nd) A secção de avaliação do desempenho docente do conselho escolar;\n\ne) Os avaliadores externos e internos;\n\nf) Os avaliados.\n\n1.3 - Nos estabelecimentos dos 2.º e 3.º ciclos do ensino básico e ensino secundário:\n\na) O presidente do conselho da comunidade educativa;\n\nb) O diretor, presidente do conselho executivo, presidente da comissão provisória, presidente da comissão executiva instaladora;\n\nc) O conselho pedagógico;\n\nd) A secção de avaliação do desempenho docente do conselho pedagógico;\n\ne) Os avaliadores externos e internos;\n\nf) Os avaliados.\n\n1.4 - Nas instituições de educação especial:\n\na) O diretor regional de educação;\n\nb) O diretor técnico caso seja docente, ou caso não seja o representante dos docentes no conselho técnico interno;\n\nc) O conselho técnico interno;\n\nd) A secção de avaliação do desempenho docente do conselho técnico interno;\n\ne) Os avaliadores externos e internos;\n\nf) Os avaliados.\n\n1.5 - Nos serviços técnicos da Direção Regional de Educação:\n\na) O diretor regional de educação;\n\nb) O diretor do serviço técnico;\n\nc) A comissão de representação do pessoal docente;\n\nd) A secção da comissão de representação do pessoal docente;\n\ne) Os avaliadores externos e internos;\n\nf) Os avaliados."
+  },
+  "116983191": {
+   "fragment_id": "116986094",
+   "type": 11,
+   "heading": "Artigo 9.º — Delegado escolar, presidente do conselho da comunidade educativa e diretor regional de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Delegado escolar, presidente do conselho da comunidade educativa e diretor regional de educação\n\nCompete ao delegado escolar, presidente do conselho da comunidade educativa e diretor regional de educação:\n\na) Homologar a proposta de decisão do recurso previsto no artigo 25.º;\n\nb) Notificar o diretor, presidente do conselho executivo, presidente da comissão provisória, presidente da comissão executiva instaladora, diretor do serviço técnico da Direção Regional de Educação para os efeitos previstos no n.º 4 do artigo 25.º"
+  },
+  "116983192": {
+   "fragment_id": "116986095",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nDiretor, presidente do conselho executivo, presidente da comissão provisória, presidente da comissão executiva instaladora, diretor técnico ou diretor do serviço técnico da Direção Regional de Educação.\n\n1 - Compete ao diretor, presidente do conselho executivo, presidente da comissão provisória, presidente da comissão executiva instaladora, diretor técnico ou diretor do serviço técnico da Direção Regional de Educação:\n\na) A responsabilidade pelo processo de avaliação do desempenho docente, cabendo-lhe assegurar as condições necessárias à sua realização;\n\nb) Proceder à avaliação dos docentes referidos no artigo 28.º;\n\nc) Apreciar e decidir as reclamações, nos processos em que foi avaliador.\n\n2 - Nas escolas básicas dos 2.º e 3.º ciclos do ensino básico e ensino secundário, a competência referida na alínea b) do número anterior pode ser delegada ou partilhada com outros titulares do órgão de gestão."
+  },
+  "116983193": {
+   "fragment_id": "116986096",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nConselho pedagógico, conselho escolar, conselho técnico interno, comissão de representação do pessoal docente\n\nCompete ao conselho pedagógico, conselho escolar, conselho técnico interno e comissão de representação do pessoal docente:\n\na) Eleger os docentes que integram a secção de avaliação do desempenho docente do conselho pedagógico, do conselho escolar, do conselho técnico interno e da comissão de representação do pessoal docente, consoante a situação;\n\nb) Aprovar o documento de registo e avaliação do desenvolvimento das atividades realizadas pelos avaliados nas dimensões previstas no artigo 4.º;\n\nc) Aprovar os parâmetros previstos nos n.os 1 e 2 do artigo 6.º"
+  },
+  "116983194": {
+   "fragment_id": "116986097",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSecção de avaliação do desempenho docente do conselho pedagógico, do conselho escolar, do conselho técnico interno e da comissão de representação do pessoal docente\n\n1 - A secção de avaliação do conselho pedagógico nos estabelecimentos de educação é constituída pelo diretor, que preside, e por dois docentes eleitos de entre os seis membros do conselho, com maior antiguidade na carreira, preferencialmente titulares de formação em avaliação do desempenho docente, supervisão pedagógica ou detentores de experiência profissional em supervisão pedagógica no âmbito da formação de docentes, com última avaliação do desempenho igual ou superior a Bom.\n\n2 - A secção de avaliação do desempenho do conselho escolar das escolas básicas de 1.º ciclo do ensino básico, com ou sem unidades de educação pré-escolar, é constituída pelo diretor, que preside, e por dois docentes eleitos de entre os seis membros do conselho, com maior antiguidade na carreira, preferencialmente titulares de formação em avaliação do desempenho docente, supervisão pedagógica ou detentores de experiência profissional em supervisão pedagógica no âmbito da formação de docentes, com última avaliação do desempenho igual ou superior a Bom.\n\n3 - A secção de avaliação do desempenho do conselho pedagógico nas escolas básicas dos 2.º e 3.º ciclos do ensino básico e ensino secundário é constituída pelo diretor, presidente do conselho executivo, presidente da comissão provisória ou presidente da comissão executiva instaladora, que preside, e por quatro docentes eleitos de entre os oito membros do conselho, com maior antiguidade na carreira, preferencialmente titulares de formação em avaliação do desempenho docente, supervisão pedagógica ou detentores de experiência profissional em supervisão pedagógica no âmbito da formação de docentes, com última avaliação do desempenho igual ou superior a Bom.\n\n4 - A secção de avaliação do desempenho do conselho técnico interno nas instituições de educação especial é constituída pelo diretor técnico, que preside, caso seja docente ou o representante dos docentes no conselho técnico interno, que preside, e por dois docentes eleitos de entre os seis membros do conselho, com maior antiguidade na carreira, preferencialmente titulares de formação em avaliação do desempenho docente, supervisão pedagógica ou detentores de experiência profissional em supervisão pedagógica no âmbito da formação de docentes, com última avaliação do desempenho igual ou superior a Bom.\n\n5 - A secção de avaliação do desempenho da comissão de representação do pessoal docente dos serviços técnicos da Direção Regional de Educação é composta pelo diretor do serviço, que preside, caso seja docente ou o representante dos docentes na comissão que preside e por dois docentes eleitos de entre os seis docentes do serviço técnico, com maior antiguidade na carreira, preferencialmente titulares de formação em avaliação do desempenho docente, supervisão pedagógica ou detentores de experiência profissional em supervisão pedagógica no âmbito da formação de docentes, com última avaliação do desempenho igual ou superior a Bom.\n\n6 - Compete à secção de avaliação do desempenho docente do conselho pedagógico, do conselho escolar, do conselho técnico interno e da comissão de representação do pessoal docente do serviço técnico da Direção Regional de Educação:\n\na) Aplicar o sistema de avaliação do desempenho tendo em consideração, designadamente, o projeto educativo do estabelecimento de educação, de ensino, de instituição de educação especial ou o plano anual de atividades do serviço técnico da Direção Regional de Educação e o serviço distribuído ao docente;\n\nb) Calendarizar os procedimentos de avaliação;\n\nc) Conceber e publicitar o instrumento de registo e avaliação do desenvolvimento das atividades realizadas pelos avaliados nas dimensões previstas no artigo 4.º;\n\nd) Acompanhar e avaliar o processo;\n\ne) Aprovar a classificação final harmonizando as propostas dos avaliadores e garantindo a aplicação dos percentis de diferenciação dos desempenhos;\n\nf) Apreciar e decidir as reclamações nos processos em que atribui a classificação final;\n\ng) Aprovar o plano de formação previsto no n.º 3, na alínea b) do n.º 4 e no n.º 7 do artigo 23.º, sob proposta do avaliador."
+  },
+  "116983195": {
+   "fragment_id": "116986098",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliador externo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliador externo\n\n1 - O avaliador externo deve reunir os seguintes requisitos cumulativos:\n\na) Estar integrado em escalão igual ou superior ao do avaliado;\n\nb) Pertencer ao mesmo grupo de recrutamento do avaliado;\n\nc) Ser titular de formação em avaliação do desempenho docente, supervisão pedagógica ou deter experiência profissional em supervisão pedagógica no âmbito da formação de docentes e com última avaliação do desempenho igual ou superior a Bom.\n\n2 - Ao avaliador externo compete proceder à avaliação externa da dimensão científica e pedagógica dos docentes por ela abrangidos.\n\n3 - O avaliador externo integra uma bolsa de avaliadores constituída por docentes de todos os grupos de recrutamento.\n\n4 - A regulamentação da bolsa de avaliadores é objeto de diploma próprio, ouvidas as organizações sindicais."
+  },
+  "116983196": {
+   "fragment_id": "116986099",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliador interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Avaliador interno\n\n1 - É avaliador interno o docente que reúna, preferencialmente, os requisitos previstos no n.º 1 do artigo 13.º, designado nos termos dos números seguintes.\n\n2 - Nos estabelecimentos de educação e nas escolas do 1.º ciclo do ensino básico com ou sem unidades de educação pré-escolar, respetivamente, pelo conselho pedagógico e pelo conselho escolar.\n\n3 - Nos estabelecimentos dos 2.º e 3.º ciclos do ensino básico e ensino secundário pelo coordenador de departamento curricular, de entre os docentes do respetivo departamento, quando este não seja avaliador.\n\n4 - Nas instituições de educação especial, pelo conselho técnico interno.\n\n5 - Nos serviços técnicos, pela comissão de representação do pessoal docente.\n\n6 - Na impossibilidade de aplicação dos critérios previstos nos números anteriores deverá ser designado um docente com maior antiguidade na carreira, preferencialmente titular de formação em avaliação do desempenho docente, supervisão pedagógica ou detentor de experiência profissional em supervisão pedagógica no âmbito da formação de docentes, com última avaliação do desempenho igual ou superior a Bom.\n\n7 - Compete ao avaliador interno a avaliação do desenvolvimento das atividades realizadas pelos avaliados nas dimensões previstas no artigo 4.º através dos seguintes elementos:\n\na) Projeto docente, sem prejuízo do disposto no n.º 4 do artigo 17.º;\n\nb) Documento de registo e avaliação aprovado pelo conselho pedagógico para esse efeito;\n\nc) Relatórios de autoavaliação.\n\n8 - Compete ainda ao avaliador interno do docente em período probatório:\n\na) Apoiar a elaboração e acompanhar a execução do projeto do docente que verse as componentes científica, pedagógica e didática;\n\nb) Apoiar o docente na preparação e planeamento das aulas, bem como na reflexão sobre a respetiva prática pedagógica, ajudando-o na sua melhoria, sem prejuízo das competências atribuídas ao avaliador externo.\n\n> Nota: [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747) O presente decreto regulamentar regional entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2018, com exceção do disposto no n.º 8 do artigo 14.º, na redação dada pelo presente diploma, que é aplicável a partir das apreciações efetuadas a partir do ano escolar 2018/2019."
+  },
+  "116983197": {
+   "fragment_id": "116986100",
+   "type": 8,
+   "heading": "Secção III — Procedimento de avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Procedimento de avaliação do desempenho"
+  },
+  "116983198": {
+   "fragment_id": "116986101",
+   "type": 11,
+   "heading": "Artigo 15.º — Calendarização da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Calendarização da avaliação\n\nA calendarização do processo de avaliação do desempenho docente é decidida em cada estabelecimento de educação e de ensino, instituição de educação especial e serviço técnico da Direção Regional de Educação, pela secção da avaliação do desempenho docente do conselho pedagógico, do conselho escolar, do conselho técnico interno e da comissão de representação do pessoal docente do serviço técnico em coordenação com os avaliadores."
+  },
+  "116983199": {
+   "fragment_id": "116986102",
+   "type": 11,
+   "heading": "Artigo 16.º — Documentos de registo do processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Documentos de registo do processo de avaliação\n\nO processo de avaliação é constituído pelos seguintes documentos:\n\na) O projeto docente, sem prejuízo do disposto no n.º 4 do artigo seguinte;\n\nb) O documento de registo de participação nas dimensões previstas no artigo 4.º;\n\nc) O relatório de autoavaliação e o respetivo parecer elaborado pelo avaliador."
+  },
+  "116983200": {
+   "fragment_id": "116986103",
+   "type": 11,
+   "heading": "Artigo 17.º — Projeto docente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Projeto docente\n\n1 - O projeto docente tem por referência as metas e objetivos do projeto educativo do estabelecimento de educação, de ensino ou de instituição de educação especial, ou os objetivos e metas das atividades educativas fixadas no plano de atividades do serviço técnico da Direção Regional de Educação e consiste no enunciado do contributo do docente para a sua concretização.\n\n2 - O projeto docente traduz-se num documento constituído por um máximo de duas páginas, anualmente elaborado em função do serviço distribuído.\n\n3 - A apreciação do projeto docente pelo avaliador é comunicada por escrito ao avaliado.\n\n4 - O projeto docente tem caráter opcional, sendo substituído, para efeitos avaliativos, se não for apresentado pelo avaliado, pelas metas e objetivos do projeto educativo do estabelecimento de educação, de ensino ou de instituição de educação especial e plano anual de atividades do serviço técnico da Direção Regional de Educação."
+  },
+  "116983201": {
+   "fragment_id": "116986104",
+   "type": 11,
+   "heading": "Artigo 18.º — Observação de atividades educativas, aulas ou estratégias de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Observação de atividades educativas, aulas ou estratégias de intervenção\n\n1 - A observação de atividades educativas ou aulas é facultativa, sem prejuízo do disposto no número seguinte.\n\n2 - A observação de atividades educativas ou aulas é obrigatória nos seguintes casos:\n\na) Docentes em período probatório;\n\nb) Docentes integrados nos 2.º e 4.º escalões da carreira;\n\nc) Para atribuição da menção de Excelente, em qualquer escalão;\n\nd) Docentes integrados na carreira que tenham obtido na última avaliação de desempenho a menção de Insuficiente.\n\n3 - No caso do docente de educação especial a observação deverá incidir sobre as estratégias de intervenção.\n\n4 - A observação de atividades educativas, aulas ou estratégias de intervenção compete aos avaliadores externos, que procedem ao registo das suas observações.\n\n5 - A observação de atividades educativas, aulas ou estratégias de intervenção corresponde a um período de 180 minutos distribuídos, pelo menos, por dois momentos distintos, num dos dois últimos anos escolares anteriores ao fim de cada ciclo de avaliação do docente integrado na carreira.\n\n6 - A observação de atividades educativas, aulas ou estratégias de intervenção dos docentes integrados no 5.º escalão da carreira é realizada no último ano escolar anterior ao do fim do ciclo avaliativo.\n\n7 - Para o efeito previsto na alínea c) do n.º 2 do presente artigo, a observação de atividades educativas, aulas ou estratégias de intervenção deve ser requerida pelo avaliado ao diretor, presidente do conselho executivo, presidente da comissão provisória, presidente da comissão executiva instaladora, diretor técnico ou diretor do serviço técnico da Direção Regional de Educação até ao final do primeiro período do ano escolar anterior ao da sua realização ou até o início do ano escolar no caso do 5.º escalão.\n\n8 - Não há lugar à observação de atividades educativas, aulas e estratégias de intervenção dos docentes em regime de contrato, salvo quando se encontrarem em regime probatório ou na situação prevista na alínea b) do n.º 4 do artigo 23.º\n\n9 - Para efeitos do disposto no n.º 2, os procedimentos a adotar sempre que, por força do exercício de cargos ou funções não possa haver lugar à observação de atividades educativas, aulas ou estratégias de intervenção são os estabelecidos por portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e educação, ouvidas as associações sindicais."
+  },
+  "116983202": {
+   "fragment_id": "116986105",
+   "type": 11,
+   "heading": "Artigo 19.º — Relatório de autoavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Relatório de autoavaliação\n\n1 - O relatório de autoavaliação tem por objetivo envolver o avaliado na identificação de oportunidades de desenvolvimento profissional e na melhoria das atividades educativas das crianças e dos processos de aprendizagem dos alunos e das estratégias de intervenção com jovens e adultos com necessidades especiais.\n\n2 - O relatório de autoavaliação consiste num documento de reflexão sobre a atividade desenvolvida, incidindo sobre:\n\na) A prática educativa, letiva e as estratégias de intervenção;\n\nb) As atividades promovidas;\n\nc) A análise dos resultados obtidos;\n\nd) O contributo para os objetivos e metas fixados no projeto educativo do estabelecimento de educação, de ensino ou de instituição de educação especial ou o contributo para os objetivos e metas das atividades educativas fixadas no plano de atividades do serviço técnico da Direção Regional de Educação;\n\ne) A formação realizada e o seu contributo para a melhoria da ação educativa.\n\n3 - O relatório de autoavaliação é anual e reporta-se ao trabalho efetuado nesse período.\n\n4 - O relatório de autoavaliação deve ter um máximo de três páginas, não lhe podendo ser anexados documentos.\n\n5 - A omissão na entrega do relatório de autoavaliação, por motivos injustificados nos termos do Estatuto, implica a não contagem do tempo de serviço do ano escolar em causa para efeitos de progressão na carreira docente."
+  },
+  "116983203": {
+   "fragment_id": "116986106",
+   "type": 11,
+   "heading": "Artigo 20.º — Resultado da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Resultado da avaliação\n\n1 - O resultado final da avaliação a atribuir em cada ciclo de avaliação é expresso numa escala graduada de 1 a 10 valores.\n\n2 - As classificações quantitativas são ordenadas de forma crescente por universo de docentes de modo a proceder à sua conversão em menções qualitativas nos seguintes termos:\n\ni) Excelente se, cumulativamente, a classificação for igual ou superior ao percentil 95, não for inferior a 9 e o docente tiver tido aulas observadas;\n\nii) Muito bom se, cumulativamente, a classificação for igual ou superior ao percentil 75, não for inferior a 8 e não tenha sido atribuída ao docente a menção Excelente;\n\niii) Bom se, cumulativamente, a classificação for igual ou superior a 6,5 e não tiver sido atribuída a menção de Muito bom ou Excelente;\n\niv) Regular se a classificação for igual ou superior a 5 e inferior a 6,5;\n\nv) Insuficiente se a classificação for inferior a 5.\n\n3 - Os percentis previstos no número anterior aplicam-se por universo de docentes a estabelecer por despacho conjunto dos membros do Governo responsáveis pelas áreas da Administração Pública e da educação, ouvidas as associações sindicais.\n\n4 - Os percentis referidos no n.º 3 do presente artigo podem ser corrigidos por despacho dos membros do Governo responsáveis pelas áreas da Administração Pública e da educação, tendo por referência os resultados obtidos pelo estabelecimento de educação, de ensino ou de instituição de educação especial e serviço técnico da Direção Regional de Educação na respetiva avaliação externa, ouvidas as associações sindicais.\n\n5 - A atribuição das menções qualitativas de Muito bom e Excelente depende do cumprimento efetivamente verificado de 95 % da componente letiva distribuída no decurso do ciclo de avaliação, relevando para o efeito as ausências legalmente equiparadas a serviço efetivo nos termos do artigo 93.º do Estatuto."
+  },
+  "116983204": {
+   "fragment_id": "116986107",
+   "type": 11,
+   "heading": "Artigo 21.º — Avaliação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Avaliação final\n\n1 - A classificação final corresponde ao resultado da média ponderada das pontuações obtidas nas três dimensões de avaliação previstas no artigo 4.º\n\n2 - Para efeitos do disposto no número anterior são consideradas as seguintes ponderações:\n\na) 60 % para a dimensão científica e pedagógica;\n\nb) 20 % para a dimensão participação nas atividades desenvolvidas no estabelecimento de educação, de ensino ou de instituição de educação especial ou no serviço técnico da Direção Regional de Educação;\n\nc) 20 % para a dimensão formação contínua e desenvolvimento profissional.\n\n3 - Havendo observação de atividades educativas, aulas ou estratégias de intervenção, a avaliação externa representa 70 % da percentagem prevista na alínea a) do número anterior.\n\n4 - A secção de avaliação do desempenho docente do conselho pedagógico, do conselho escolar, do conselho técnico interno e da comissão de representação do pessoal docente atribui a classificação final, após analisar e harmonizar as propostas dos avaliadores, garantindo a aplicação das percentagens de diferenciação dos desempenhos previstas no artigo anterior.\n\n5 - A avaliação final é comunicada por escrito ao avaliado."
+  },
+  "116983205": {
+   "fragment_id": "116986108",
+   "type": 11,
+   "heading": "Artigo 22.º — Critérios de desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Critérios de desempate\n\nQuando, para os efeitos previstos no artigo anterior, for necessário proceder ao desempate entre docentes com a mesma classificação final na avaliação do desempenho relevam, sucessivamente, os seguintes critérios:\n\na) A classificação obtida na dimensão «científica e pedagógica»;\n\nb) A classificação obtida na dimensão «participação nas atividades desenvolvidas no estabelecimento de educação, de ensino, de instituição de educação especial ou do serviço técnico da Direção Regional de Educação»;\n\nc) A classificação obtida na dimensão «formação contínua e desenvolvimento profissional»;\n\nd) A graduação profissional calculada nos termos dos artigos 12.º e 13.º do Decreto Legislativo Regional n.º 14/2009/M, de 8 de junho;\n\ne) O tempo de serviço em exercício de funções públicas."
+  },
+  "116983206": {
+   "fragment_id": "116986109",
+   "type": 8,
+   "heading": "Secção IV — Efeitos do processo avaliativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Efeitos do processo avaliativo"
+  },
+  "116983207": {
+   "fragment_id": "116986110",
+   "type": 11,
+   "heading": "Artigo 23.º — Efeitos da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Efeitos da avaliação\n\n1 - A atribuição aos docentes da carreira das menções qualitativas de Excelente e ou Muito bom resultam nos seguintes efeitos:\n\na) A menção de Excelente num ciclo avaliativo determina a bonificação de um ano na progressão na carreira docente, a usufruir no escalão seguinte;\n\nb) A menção de Muito bom num ciclo avaliativo determina a bonificação de seis meses na progressão na carreira docente, a gozar no escalão seguinte;\n\nc) A menção de Excelente ou de Muito bom nos 4.º e 6.º escalões permite a progressão ao escalão seguinte, sem observância do requisito relativo à existência de vagas.\n\n2 - A atribuição da menção qualitativa igual ou superior a Bom determina:\n\na) Que seja considerado o período de tempo do respetivo ciclo avaliativo para efeitos de progressão na carreira docente;\n\nb) O termo, com sucesso, do período probatório;\n\nc) A possibilidade de renovação do contrato a termo resolutivo.\n\n3 - A atribuição da menção de Regular determina que o período de tempo a que respeita só seja considerado para efeitos de progressão na carreira após a conclusão, com sucesso, de um plano de formação com a duração de um ano proposto pelo avaliador ou avaliadores e aprovado pelos órgãos a que se referem as alíneas d) dos n.os 1.1, 1.2, 1.3, 1.4 e 1.5 do artigo 8.º\n\n4 - A atribuição da menção qualitativa de Insuficiente implica os seguintes efeitos:\n\na) A não contagem do tempo de serviço do respetivo ciclo avaliativo para efeitos de progressão na carreira docente e o reinício do ciclo de avaliação;\n\nb) A obrigatoriedade de conclusão, com sucesso, de um plano de formação com a duração de um ano que integre a observação de atividades educativas, aulas ou estratégias de intervenção, proposto pelo avaliador ou avaliadores e aprovado pelos órgãos a que se referem as alíneas d) dos n.os 1.1, 1.2, 1.3, 1.4 e 1.5 do artigo 8.º;\n\nc) A cessação do contrato por tempo indeterminado em período probatório, no termo do referido período;\n\nd) A impossibilidade de nova candidatura, a qualquer título, à docência, no mesmo ano ou no ano escolar imediatamente subsequente àquele em que realizou o período probatório.\n\n5 - A atribuição aos docentes integrados na carreira de duas menções consecutivas de Insuficiente determina a instauração de um processo de averiguações.\n\n6 - A atribuição aos docentes em regime de contrato a termo resolutivo de duas menções consecutivas de Insuficiente determina a impossibilidade de serem admitidos a qualquer concurso de recrutamento de pessoal docente nos três anos escolares subsequentes à atribuição daquela avaliação.\n\n7 - O plano de formação referido no n.º 3 tem uma ponderação de 50 % na classificação final prevista no artigo 21.º"
+  },
+  "116983208": {
+   "fragment_id": "116986111",
+   "type": 8,
+   "heading": "Secção V — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Garantias"
+  },
+  "116983209": {
+   "fragment_id": "116986112",
+   "type": 11,
+   "heading": "Artigo 24.º — Reclamação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Reclamação\n\n1 - O avaliado é notificado da avaliação final podendo dela apresentar reclamação escrita no prazo de 10 dias úteis, a contar da data da sua notificação, devendo a respetiva decisão ser proferida no prazo de 15 dias úteis.\n\n2 - Na decisão sobre a reclamação as entidades referidas nos artigos 10.º e 12.º, consoante a situação, têm em consideração os fundamentos apresentados pelo avaliado e pelo avaliador, bem como todos os documentos que compõem o processo de avaliação.\n\n3 - Considera-se, para todos os efeitos, que a não apresentação de reclamação equivale à aceitação da avaliação obtida."
+  },
+  "116983210": {
+   "fragment_id": "116986113",
+   "type": 11,
+   "heading": "Artigo 25.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Recurso\n\n1 - Da decisão sobre a reclamação cabe recurso para o delegado escolar, presidente do conselho da comunidade educativa ou diretor regional de educação, consoante a situação, a interpor no prazo de 10 dias úteis a contar da data da sua notificação.\n\n2 - A proposta de decisão do recurso compete a uma composição de três árbitros, obrigatoriamente docentes, cabendo a sua homologação ao delegado escolar, presidente do conselho da comunidade educativa e diretor regional de educação, consoante a situação.\n\n3 - No recurso o avaliado indica o seu árbitro e respetivos contactos.\n\n4 - Recebido o recurso, as entidades referidas no n.º 1 notificam o diretor, presidente do conselho executivo, presidente da comissão provisória, presidente da comissão executiva instaladora, diretor técnico ou diretor do serviço técnico da Direção Regional de Educação ou secção de avaliação do desempenho docente do conselho pedagógico, do conselho escolar, do conselho técnico interno e da comissão de representação do pessoal docente, consoante a situação, para em 10 dias úteis contra-alegar e nomear o seu árbitro.\n\n5 - No prazo de cinco dias úteis após a apresentação das contra-alegações, as entidades referidas no n.º 1 notificam os dois árbitros que se reúnem para escolher um terceiro árbitro, que preside.\n\n6 - Na impossibilidade de acordo na escolha do terceiro árbitro, este será designado pelas entidades referidas no n.º 1, consoante a situação, no prazo de dois dias úteis, após o conhecimento da falta de acordo.\n\n7 - No prazo de 10 dias úteis, após o decurso de qualquer um dos prazos referidos nos dois números anteriores, os árbitros submetem a proposta de decisão do recurso à homologação das entidades referidas no n.º 1, consoante a situação.\n\n8 - O prazo de homologação da proposta de decisão do recurso é de cinco dias úteis."
+  },
+  "116983211": {
+   "fragment_id": "116986114",
+   "type": 11,
+   "heading": "Artigo 26.º — Garantias de imparcialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Garantias de imparcialidade\n\nAos intervenientes no processo de avaliação é aplicável o disposto nos artigos 44.º a 51.º do Código do Procedimento Administrativo, relativos aos impedimentos, escusa e suspeição."
+  },
+  "116983212": {
+   "fragment_id": "116986115",
+   "type": 11,
+   "heading": "Artigo 27.º — Garantias do processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Garantias do processo de avaliação\n\n1 - O processo de avaliação tem caráter confidencial, devendo os instrumentos de avaliação de cada docente serem arquivados no respetivo processo individual.\n\n2 - Todos os intervenientes no processo, à exceção do avaliado, ficam obrigados ao dever de sigilo sobre a matéria.\n\n3 - Anualmente e após conclusão do processo de avaliação, serão divulgados na escola os resultados globais da avaliação do desempenho de informação não nominativa, contendo o número de menções globalmente atribuídas ao pessoal docente, bem como o número de docentes não sujeitos à avaliação do desempenho."
+  },
+  "116983213": {
+   "fragment_id": "116986116",
+   "type": 1,
+   "heading": "Capítulo III — Regimes especiais de avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regimes especiais de avaliação do desempenho"
+  },
+  "116983214": {
+   "fragment_id": "116986117",
+   "type": 11,
+   "heading": "Artigo 28.º — Procedimento especial de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Procedimento especial de avaliação\n\n1 - São avaliados nos termos do presente artigo os seguintes docentes:\n\na) Posicionados nos 8.º, 9.º e 10.º escalões da carreira docente, desde que, nas avaliações efetuadas ao abrigo de legislação anterior à data de entrada em vigor do Decreto Legislativo Regional n.º 6/2008/M, de 25 de fevereiro, tenham obtido a classificação de pelo menos Satisfaz e que, nos termos do Decreto Legislativo Regional n.º 17/2010/M, de 18 de agosto, tenham obtido, pelo menos, a classificação de Bom;\n\nb) O disposto na alínea anterior é ainda aplicável aos docentes que acedam aos escalões acima referidos em data posterior à data da entrada em vigor do presente diploma, desde que preencham os requisitos supra mencionados e que nos termos deste decreto regulamentar regional obtenham a menção qualitativa de Bom;\n\nc) Avaliadores internos.\n\n2 - Os docentes referidos no número anterior entregam um relatório de autoavaliação no final do ano escolar anterior ao do fim do ciclo avaliativo.\n\n3 - A omissão de entrega do relatório de autoavaliação, por motivos injustificados nos termos do Estatuto, implica a não contagem do tempo de serviço do ciclo avaliativo em causa para efeitos de progressão na carreira docente.\n\n4 - O relatório previsto nos números anteriores consiste num documento com um máximo de seis páginas, não lhe podendo ser anexados documentos.\n\n5 - O relatório de autoavaliação é avaliado pelo diretor, presidente do conselho executivo, presidente da comissão provisória, presidente da comissão executiva instaladora, diretor técnico ou diretor do serviço técnico da Direção Regional de Educação após parecer emitido pela secção de avaliação do desempenho docente do conselho pedagógico, do conselho escolar, do conselho técnico interno e da comissão de representação do pessoal docente, consoante a situação, considerando as dimensões previstas nas alíneas b) e c) do n.º 1 do artigo 4.º\n\n6 - A classificação final do relatório de autoavaliação corresponde ao resultado da média aritmética simples das pontuações obtidas nas dimensões de avaliação previstas nas alíneas b) e c) do artigo 4.º\n\n7 - A obtenção da menção de Muito bom e Excelente pelos docentes identificados no n.º 1 implica a sujeição ao regime geral de avaliação do desempenho, sendo as funções de avaliador interno desempenhadas pelas entidades referidas no artigo 10.º\n\n8 - Os docentes integrados no 10.º escalão da carreira docente entregam o relatório de autoavaliação quadrienalmente.\n\n9 - Os docentes que reúnam os requisitos legais para a aposentação, incluindo para aposentação antecipada, durante o ciclo avaliativo e a tenham efetivamente requerido nos termos legais podem solicitar a dispensa da avaliação do desempenho."
+  },
+  "116983215": {
+   "fragment_id": "116986118",
+   "type": 11,
+   "heading": "Artigo 29.º — Avaliação dos docentes no exercício de outras funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Avaliação dos docentes no exercício de outras funções\n\n1 - Os docentes que exerçam funções na administração regional autónoma e local, os coordenadores dos centros de apoio psicopedagógico e os delegados escolares previstos no Decreto Legislativo Regional n.º 5/96/M, de 30 de maio, são avaliados nos termos do Decreto Legislativo Regional n.º 27/2009/M, de 21 de agosto, e do Decreto Regulamentar n.º 18/2009, de 4 de setembro.\n\n2 - Os docentes que exerçam cargos ou funções cujo enquadramento normativo ou estatuto salvaguarde o direito de progressão na carreira de origem e não tenham funções letivas distribuídas são avaliados, para efeitos do artigo 40.º do Estatuto, pela menção qualitativa que lhe tiver sido atribuída na última avaliação do desempenho.\n\n3 - Os docentes abrangidos pelo n.º 2 podem solicitar a avaliação do desempenho nos termos dos procedimentos a adotar pela portaria referida no n.º 9 do artigo 18.º nos seguintes casos:\n\na) Na falta da avaliação do desempenho prevista no n.º 2;\n\nb) Tendo sido atribuída a avaliação do desempenho prevista no n.º 2, pretendam a sua alteração.\n\n4 - Aos docentes que permaneçam em situação de ausência ao serviço que inviabilize a verificação do requisito de tempo mínimo para avaliação do desempenho é-lhes aplicável o disposto nos n.os 2 e 3.\n\n5 - A correspondência entre a classificação obtida nos termos do regime geral do sistema integrado de gestão e avaliação de desempenho, aplicável aos docentes em regime de mobilidade em organismos e serviços da Administração Pública, e as menções previstas no artigo 23.º é estabelecida por despacho conjunto dos membros do Governo responsáveis pela Administração Pública e educação, ouvidas as associações sindicais."
+  },
+  "116983216": {
+   "fragment_id": "116986119",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nAvaliação dos titulares dos órgãos de administração e gestão dos estabelecimentos de educação ou ensino\n\nA avaliação dos titulares dos órgãos de administração e gestão dos estabelecimentos de educação ou ensino é estabelecida em diploma próprio, ouvidas as associações sindicais."
+  },
+  "116983217": {
+   "fragment_id": "116986120",
+   "type": 11,
+   "heading": "Artigo 31.º — Avaliação dos docentes em regime de mobilidade nas escolas privadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Avaliação dos docentes em regime de mobilidade nas escolas privadas\n\nOs docentes da rede pública em regime de mobilidade nas escolas privadas são objeto de avaliação do desempenho nos termos do Estatuto e das normas constantes do presente decreto regulamentar regional e são avaliados pelos avaliadores a que se referem as alíneas e) dos n.os 1.1, 1.2 e 1.3 do n.º 1 do artigo 8.º conjugado com o artigo 14.º, sendo as funções de avaliador externo atribuídas a um docente do mesmo grupo de recrutamento do quadro da escola, que reúna os requisitos previstos no n.º 1 do artigo 13.º"
+  },
+  "116983218": {
+   "fragment_id": "116986121",
+   "type": 11,
+   "heading": "Artigo 32.º — Avaliação dos docentes em mobilidade nas instituições de ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Avaliação dos docentes em mobilidade nas instituições de ensino superior\n\n1 - Os docentes em regime de mobilidade nas instituições de ensino superior são objeto de avaliação do desempenho nos termos da legislação aplicável a esse nível de ensino, sendo as menções atribuídas aos docentes convertidas nas referidas no artigo 23.º\n\n2 - Até à saída da regulamentação a que se refere o número anterior, esses docentes são objeto de avaliação nos termos do que vier a ser fixado na portaria conjunta a que se refere o n.º 9 do artigo 18.º"
+  },
+  "116983219": {
+   "fragment_id": "116986122",
+   "type": 11,
+   "heading": "Artigo 33.º — Avaliação dos docentes das instituições particulares de solidariedade social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Avaliação dos docentes das instituições particulares de solidariedade social\n\n1 - Os docentes das instituições particulares de solidariedade social que se regem pelo sistema remuneratório dos docentes da rede pública são objeto de avaliação do desempenho nos termos do Estatuto e das normas constantes do presente decreto regulamentar regional.\n\n2 - Os docentes são avaliados pelos avaliadores a que se referem as alíneas e) dos n.os 1.1, 1.2 e 1.3 do n.º 1 do artigo 8.º conjugado com o artigo 14.º, sendo as funções de avaliador externo atribuídas a um docente do mesmo grupo de recrutamento do quadro da escola, que reúna os requisitos previstos no n.º 1 do artigo 13.º"
+  },
+  "116983220": {
+   "fragment_id": "116986123",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "116983221": {
+   "fragment_id": "116986124",
+   "type": 11,
+   "heading": "Artigo 34.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Disposições finais e transitórias\n\n1 - Para efeitos da primeira progressão na carreira, após a entrada em vigor do presente diploma, e observando o princípio de que nenhum docente pode ficar prejudicado em resultado das avaliações obtidas no modelo precedente, cada docente opta pela classificação mais favorável atribuída num dos anos avaliados, nos termos do Decreto Legislativo Regional n.º 17/2010/M, de 18 de agosto, ou pela primeira avaliação de acordo com o presente decreto regulamentar regional.\n\n2 - No decurso do ano escolar de 2011-2012, aplica-se aos docentes o regime de avaliação do desempenho constante do artigo 4.º do Decreto Legislativo Regional n.º 17/2010/M, de 18 de agosto.\n\n3 - Durante o quarto ano de vigência do presente decreto regulamentar regional, proceder-se-á à avaliação do regime de avaliação do desempenho docente por ele estabelecido, ouvidas as associações sindicais.\n\n4 - A regulamentação prevista no presente diploma será publicada no prazo máximo de 180 dias após a entrada em vigor do presente decreto regulamentar regional."
+  },
+  "116983222": {
+   "fragment_id": "116986125",
+   "type": 11,
+   "heading": "Artigo 35.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Entrada em vigor\n\nO presente decreto regulamentar regional entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "116990693": {
+   "fragment_id": "116986088",
+   "type": 11,
+   "heading": "Artigo 4.º — Dimensões da avaliação",
+   "in_force_from": "2018-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Dimensões da avaliação\n\n1 - A avaliação incide sobre as seguintes dimensões do desempenho do pessoal docente:\n\na) Científica e pedagógica;\n\nb) Participação nas atividades desenvolvidas no estabelecimento de educação, de ensino, de instituição de educação especial ou do serviço técnico da Direção Regional de Educação;\n\nc) Formação contínua e desenvolvimento profissional.\n\n2 - A avaliação dos docentes em regime de contrato a termo resolutivo tem em consideração as dimensões previstas no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+  },
+  "116990694": {
+   "fragment_id": "116986089",
+   "type": 11,
+   "heading": "Artigo 5.º — Periodicidade e requisito temporal",
+   "in_force_from": "2018-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Periodicidade e requisito temporal\n\n1 - Os ciclos de avaliação dos docentes integrados na carreira coincidem com o período correspondente à duração dos escalões da carreira docente, devendo o processo de avaliação do desempenho ser concluído no final do ano escolar anterior ao do termo do ciclo avaliativo.\n\n2 - Os docentes integrados na carreira só são sujeitos a avaliação do desempenho desde que tenham prestado serviço docente efetivo durante, pelo menos, metade do período em avaliação a que se refere o número anterior.\n\n3 - A avaliação dos docentes em regime de contrato a termo resolutivo realiza-se no final do período de vigência do respetivo contrato e antes de uma eventual nova colocação, desde que tenham prestado serviço docente efetivo durante, pelo menos, 180 dias, não relevando para estes efeitos a equiparação prevista no artigo 93.º do Estatuto.\n\n4 - Aos docentes que não preencherem o requisito de tempo mínimo previsto nos números anteriores é-lhes aplicável o disposto nos n.os 2 e 3 do artigo 29.º\n\n5 - Quando o limite mínimo referido no número anterior resultar da celebração de mais do que um contrato a termo resolutivo, a avaliação será realizada pelo estabelecimento de educação, de ensino, de instituição de educação especial ou do serviço técnico da Direção Regional de Educação, cujo contrato termine em último lugar, recolhidos os elementos avaliativos dos outros estabelecimentos.\n\n6 - Se os contratos referidos no número anterior terminarem na mesma data, cabe ao docente optar pelo estabelecimento de educação, de ensino, de instituição de educação especial ou do serviço técnico da Direção Regional de Educação que efetua a sua avaliação.\n\n7 - O ciclo de avaliação dos docentes em período probatório corresponde ao ano escolar coincidente com esse período.\n\n8 - Nas situações em que o docente complete horário em outro estabelecimento, é avaliado na escola em que possui uma maior componente letiva.\n\n9 - Os docentes em mobilidade parcial são avaliados pelo regime de avaliação previsto no presente diploma, na escola onde desempenham funções letivas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+  },
+  "116990695": {
+   "fragment_id": "116986099",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliador interno",
+   "in_force_from": "2018-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Avaliador interno\n\n1 - É designado avaliador interno, nos termos dos números seguintes, o docente que reúna preferencialmente os requisitos previstos no n.º 1 do artigo 13.º, salvo situações excecionais e devidamente fundamentadas, em que pode ser designado um docente que não detenha os requisitos previstos nas alíneas b) e ou c) do n.º 1 da referida norma.\n\n2 - Nas escolas do 1.º ciclo do ensino básico com ou sem unidades de educação pré-escolar os avaliadores internos são designados pelo diretor, ouvido o conselho escolar.\n\n3 - Nos estabelecimentos dos 2.º e 3.º ciclos do ensino básico e ensino secundário, os avaliadores internos são designados pelo presidente do conselho executivo ou pelo diretor, de entre docentes do departamento curricular do avaliado, ouvido o respetivo coordenador de departamento curricular.\n\n4 - Nas instituições de educação especial, pelo conselho técnico interno.\n\n5 - Nos serviços técnicos, pela comissão de representação do pessoal docente.\n\n6 - (Revogado).\n\n7 - Compete ao avaliador interno a avaliação do desenvolvimento das atividades realizadas pelos avaliados nas dimensões previstas no artigo 4.º através dos seguintes elementos:\n\na) Projeto docente, sem prejuízo do disposto no n.º 4 do artigo 17.º;\n\nb) Documento de registo e avaliação aprovado pelo conselho pedagógico para esse efeito;\n\nc) Relatórios de autoavaliação.\n\n8 - Sempre que se afigure necessário para assegurar uma avaliação justa e equilibrada, o avaliador interno pode solicitar outros elementos documentais relacionados com a planificação das atividades educativas, aulas ou estratégias de intervenção, designadamente:\n\na) Planificação anual;\n\nb) Registo de conteúdos lecionados;\n\nc) Registos de avaliação;\n\nd) Instrumentos de avaliação aplicados;\n\ne) Contributos dos coordenadores de equipas ou estruturas nas quais o docente exerceu funções, colaborou ou dinamizou atividades.\n\n9 - Compete ainda ao avaliador interno do docente em período probatório:\n\na) Apoiar a elaboração e acompanhar a execução do projeto do docente que verse as componentes científica, pedagógica e didática;\n\nb) Apoiar o docente na preparação e planeamento das aulas, bem como na reflexão sobre a respetiva prática pedagógica, ajudando-o na sua melhoria, sem prejuízo das competências atribuídas ao avaliador externo.\n\n> Nota: [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747) O presente decreto regulamentar regional entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2018, com exceção do disposto no n.º 8 do artigo 14.º, na redação dada pelo presente diploma, que é aplicável a partir das apreciações efetuadas a partir do ano escolar 2018/2019.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+  },
+  "116990696": {
+   "fragment_id": "116986103",
+   "type": 11,
+   "heading": "Artigo 17.º — Projeto docente",
+   "in_force_from": "2018-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Projeto docente\n\n1 - O projeto docente tem por referência as metas e objetivos do projeto educativo do estabelecimento de educação, de ensino ou de instituição de educação especial, ou os objetivos e metas das atividades educativas fixadas no plano de atividades do serviço técnico da Direção Regional de Educação e consiste no enunciado do contributo do docente para a sua concretização.\n\n2 - O projeto docente traduz-se num documento constituído por um máximo de duas páginas, anualmente elaborado em função do serviço distribuído.\n\n3 - A apreciação do projeto docente pelo avaliador é comunicada por escrito ao avaliado.\n\n4 - O projeto docente é obrigatório, sem prejuízo dos casos previstos no artigo 28.º\n\n5 - A omissão na entrega do projeto docente, por motivos injustificados nos termos do Estatuto, implica a não contagem do tempo de serviço do ano escolar em causa para efeitos de progressão na carreira docente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+  },
+  "116990697": {
+   "fragment_id": "116986104",
+   "type": 11,
+   "heading": "Artigo 18.º — Observação de atividades educativas, aulas ou estratégias de intervenção",
+   "in_force_from": "2018-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Observação de atividades educativas, aulas ou estratégias de intervenção\n\n1 - A observação de atividades educativas ou aulas é facultativa, sem prejuízo do disposto no número seguinte.\n\n2 - A observação de atividades educativas ou aulas é obrigatória nos seguintes casos:\n\na) (Revogado).\n\nb) (Revogado).\n\nc) Para atribuição da menção de Excelente, em qualquer escalão;\n\nd) Docentes integrados na carreira que tenham obtido na última avaliação de desempenho a menção de Insuficiente.\n\n3 - No caso do docente de educação especial a observação deverá incidir sobre as estratégias de intervenção.\n\n4 - A observação de atividades educativas, aulas ou estratégias de intervenção compete aos avaliadores externos, que procedem ao registo das suas observações.\n\n5 - A observação de atividades educativas, aulas ou estratégias de intervenção corresponde a um período de 180 minutos distribuídos, pelo menos, por dois momentos distintos, num dos dois últimos anos escolares anteriores ao fim de cada ciclo de avaliação do docente integrado na carreira.\n\n6 - A observação de atividades educativas, aulas ou estratégias de intervenção dos docentes integrados no 5.º escalão da carreira é realizada no último ano escolar anterior ao do fim do ciclo avaliativo.\n\n7 - Para o efeito previsto na alínea c) do n.º 2 do presente artigo, a observação de atividades educativas, aulas ou estratégias de intervenção deve ser requerida pelo avaliado ao diretor, presidente do conselho executivo, presidente da comissão provisória, presidente da comissão executiva instaladora, diretor técnico ou diretor do serviço técnico da Direção Regional de Educação até ao final do primeiro período do ano escolar anterior ao da sua realização ou até o início do ano escolar no caso do 5.º escalão.\n\n8 - Não há lugar à observação de atividades educativas, aulas e estratégias de intervenção dos docentes em regime de contrato, salvo na situação prevista na alínea b) do n.º 4 do artigo 23.º\n\n9 - Para efeitos do disposto no n.º 2, os procedimentos a adotar sempre que, por força do exercício de cargos ou funções não possa haver lugar à observação de atividades educativas, aulas ou estratégias de intervenção são os estabelecidos por portaria conjunta dos membros do Governo responsáveis pelas áreas da Administração Pública e educação, ouvidas as associações sindicais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+  },
+  "116990698": {
+   "fragment_id": "116986105",
+   "type": 11,
+   "heading": "Artigo 19.º — Relatório de autoavaliação",
+   "in_force_from": "2018-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Relatório de autoavaliação\n\n1 - O relatório de autoavaliação tem por objetivo envolver o avaliado na identificação de oportunidades de desenvolvimento profissional e na melhoria das atividades educativas das crianças e dos processos de aprendizagem dos alunos e das estratégias de intervenção com jovens e adultos com necessidades especiais.\n\n2 - O relatório de autoavaliação consiste num documento de reflexão sobre a atividade desenvolvida, incidindo sobre:\n\na) A prática educativa, letiva e as estratégias de intervenção;\n\nb) As atividades promovidas;\n\nc) A análise dos resultados obtidos;\n\nd) O contributo para os objetivos e metas fixados no projeto educativo do estabelecimento de educação, de ensino ou de instituição de educação especial ou o contributo para os objetivos e metas das atividades educativas fixadas no plano de atividades do serviço técnico da Direção Regional de Educação;\n\ne) A formação realizada e o seu contributo para a melhoria da ação educativa.\n\n3 - O relatório de autoavaliação é anual e reporta-se ao trabalho efetuado nesse período.\n\n4 - O relatório de autoavaliação deve ter um máximo de três páginas, não lhe podendo ser anexados documentos.\n\n5 - Sobre o relatório de autoavaliação é emitida anualmente uma apreciação quantitativa fundamentada relativamente a cada uma das dimensões previstas no n.º 1 do artigo 4.º, devendo a mesma ser comunicada pelo avaliador interno ao avaliado, por escrito, até ao final do respetivo ano escolar.\n\n6 - A classificação final de cada uma das dimensões corresponde ao resultado da média aritmética simples das pontuações obtidas nos relatórios de autoavaliação.\n\n7 - A omissão na entrega do relatório de autoavaliação, por motivos injustificados nos termos do Estatuto, implica a não contagem do tempo de serviço do ano escolar em causa para efeitos de progressão na carreira docente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+  },
+  "116990699": {
+   "fragment_id": "116986107",
+   "type": 11,
+   "heading": "Artigo 21.º — Avaliação final",
+   "in_force_from": "2018-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Avaliação final\n\n1 - A classificação final corresponde ao resultado da média ponderada das pontuações obtidas nas três dimensões de avaliação previstas no artigo 4.º\n\n2 - Para efeitos do disposto no número anterior são consideradas as seguintes ponderações:\n\na) 60 % para a dimensão científica e pedagógica;\n\nb) 20 % para a dimensão participação nas atividades desenvolvidas no estabelecimento de educação, de ensino ou de instituição de educação especial ou no serviço técnico da Direção Regional de Educação;\n\nc) 20 % para a dimensão formação contínua e desenvolvimento profissional, sendo que, caso se trate de docente com contrato a termo resolutivo que não tenha realizado formação, é atribuída a classificação mínima de 6,5 valores nesta dimensão;\n\n3 - Havendo observação de atividades educativas, aulas ou estratégias de intervenção, a avaliação externa representa 70 % da percentagem prevista na alínea a) do número anterior.\n\n4 - A secção de avaliação do desempenho docente do conselho pedagógico, do conselho escolar, do conselho técnico interno e da comissão de representação do pessoal docente atribui a classificação final, após analisar e harmonizar as propostas dos avaliadores, garantindo a aplicação das percentagens de diferenciação dos desempenhos previstas no artigo anterior.\n\n5 - A avaliação final é comunicada por escrito ao avaliado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+  },
+  "116990700": {
+   "fragment_id": "116986108",
+   "type": 11,
+   "heading": "Artigo 22.º — Critérios de desempate",
+   "in_force_from": "2018-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Critérios de desempate\n\n1 - Quando, para os efeitos previstos no artigo anterior, for necessário proceder ao desempate entre docentes com a mesma classificação final na avaliação do desempenho relevam, sucessivamente, os seguintes critérios:\n\na) A classificação obtida na dimensão «científica e pedagógica»;\n\nb) A classificação obtida na dimensão «participação nas atividades desenvolvidas no estabelecimento de educação, de ensino, de instituição de educação especial ou do serviço técnico da Direção Regional de Educação»;\n\nc) A classificação obtida na dimensão «formação contínua e desenvolvimento profissional»;\n\nd) A graduação profissional calculada nos termos dos artigos 11.º e 12.º do Decreto Legislativo Regional n.º 28/2016/M, de 15 de julho;\n\ne) O tempo de serviço em exercício de funções públicas.\n\n2 - Caso seja necessário proceder ao desempate de docentes com a mesma menção quantitativa, abrangidos por diferentes sistemas de classificação, são aplicáveis, sucessivamente, as alíneas d) e e) do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+  },
+  "116990701": {
+   "fragment_id": "116986114",
+   "type": 11,
+   "heading": "Artigo 26.º — Garantias de imparcialidade",
+   "in_force_from": "2018-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Garantias de imparcialidade\n\nAos intervenientes no processo de avaliação é aplicável o disposto nos artigos 69.º a 76.º do Código do Procedimento Administrativo, relativos aos impedimentos, escusa e suspeição.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+  },
+  "116990702": {
+   "fragment_id": "116986118",
+   "type": 11,
+   "heading": "Artigo 29.º — Avaliação dos docentes no exercício de outras funções",
+   "in_force_from": "2018-11-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Avaliação dos docentes no exercício de outras funções\n\n1 - Os docentes que exerçam funções na administração regional autónoma e local, os coordenadores dos centros de apoio psicopedagógico e os delegados escolares previstos no Decreto Legislativo Regional n.º 5/96/M, de 30 de maio, são avaliados nos termos do Decreto Legislativo Regional n.º 27/2009/M, de 21 de agosto, e do Decreto Regulamentar n.º 18/2009, de 4 de setembro.\n\n2 - Os docentes que exerçam cargos ou funções cujo enquadramento normativo ou estatuto salvaguarde o direito de progressão na carreira de origem e não tenham funções letivas distribuídas são avaliados, para efeitos do artigo 40.º do Estatuto, pela menção qualitativa que lhe tiver sido atribuída na última avaliação do desempenho.\n\n3 - Os docentes abrangidos pelo n.º 2 podem solicitar a avaliação do desempenho nos termos dos procedimentos a adotar pela portaria referida no n.º 9 do artigo 18.º nos seguintes casos:\n\na) Na falta da avaliação do desempenho prevista no n.º 2;\n\nb) Tendo sido atribuída a avaliação do desempenho prevista no n.º 2, pretendam a sua alteração.\n\n4 - Aos docentes que permaneçam em situação de ausência ao serviço que inviabilize a verificação do requisito de tempo mínimo para avaliação do desempenho é-lhes aplicável o disposto nos n.os 2 e 3.\n\n5 - A correspondência entre a classificação obtida nos termos do regime geral do sistema integrado de gestão e avaliação de desempenho, aplicável aos docentes em regime de mobilidade em organismos e serviços da Administração Pública, e as menções previstas no artigo 23.º é estabelecida por despacho conjunto dos membros do Governo responsáveis pela Administração Pública e educação, ouvidas as associações sindicais.\n\n6 - Os docentes referidos nos n.os 1 e 2 estão dispensados do requisito previsto na alínea c) do n.º 2 do artigo 18.º para a atribuição da menção de Excelente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 13/2018/M - Diário da República n.º 220/2018, Série I de 2018-11-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/13-2018-116979747), em vigor a partir de 2018-11-16, produz efeitos a partir de 2018-01-01"
+  },
+  "116983223": {
+   "fragment_id": "116986126",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 6 de setembro de 2012.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 14 de setembro de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  }
+ }
+}

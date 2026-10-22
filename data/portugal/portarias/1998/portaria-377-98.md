@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:489062:por
+title: Portaria n.º 377/98
+short_title: null
+summary: Altera o quadro de pessoal do extinto Serviço Nacional de Parques, Reservas e Conservação da Natureza
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Ambiente
+proposing_entity: null
+official_number: 377/98
+official_date: null
+publication_date: '1998-07-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/1998, Série I-B de 1998-07-02
+  number: '150'
+  series: I
+  supplement: null
+  pages: 2950 - 2951
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/07/150b00/29502951.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/377/1998/07/02/p/dre/pt/html
+  oj: null
+  dre: '489062'
+  dre_path: /dr/detalhe/portaria/377-1998-489062
+  internal: pt:dre:489062:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-1998-489062
+  metadata_url: https://data.dre.pt/eli/port/377/1998/07/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/377-1998-489062
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-07-02T00:00:00Z'
+integrity:
+  source_sha256: 614afe1a9d99ad4cc1a78cc3f777ee8145d067fbdd5bbe605bc61f396a695e41
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-377-489062.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Lugares
+- Quadro de Pessoal
+- Serviço Nacional de Parques Reservas e Conservação da Natureza
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/187/1993/05/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/193/1993/05/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/193/1993/05/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/1996/06/18/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 377/98
+
+de 2 de Julho
+
+Considerando o disposto no n.º 1 do artigo 20.º do [Decreto-Lei n.º 74/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1996-435397), de 18 de Junho, que aprovou a nova Lei Orgânica do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas e que determina o regresso aos quadros de origem do pessoal requisitado ou destacado noutros organismos, decorridos 90 dias após a entrada em vigor do referido diploma, caso não sejam desencadeados os mecanismos necessários à sua integração nos quadros dos serviços em que se encontrem em exercício de funções;
+
+Considerando a necessidade de assegurar a colaboração que têm vindo a manter, em regime de requisição, alguns funcionários oriundos dos quadros de pessoal do referido Ministério;
+
+Considerando ainda o disposto no n.º 2 do artigo 15.º do [Decreto-Lei n.º 187/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1993-283521), conjugado com o artigo 15.º do [Decreto-Lei n.º 193/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-1993-283518), ambos de 24 de Maio;
+
+Ao abrigo do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:
+
+Manda o Governo, pelos Ministros das Finanças, Adjunto e do Ambiente, o seguinte:
+
+1.º São criados no quadro de pessoal do extinto Serviço Nacional de Parques, Reservas e Conservação da Natureza, constante do anexo XXV ao [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, que o aprovou, os lugares constantes do mapa anexo à presente portaria.
+
+2.º Os referidos lugares serão extintos à medida que forem vagando.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Ambiente.
+
+**Assinada em 6 de Abril de 1998.**
+
+Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - A Ministra do Ambiente, Elisa Maria da Costa Guimarães Ferreira.
+
+MAPA ANEXO
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/07/150b00/29502951.pdf)

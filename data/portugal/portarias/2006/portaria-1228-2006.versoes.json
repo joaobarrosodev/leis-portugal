@@ -1,0 +1,535 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544785:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2006-34532275",
+ "dre_path": "/dr/detalhe/portaria/1228-2006-544785",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51926475",
+    "51359075",
+    "51359175",
+    "51359275",
+    "51359375",
+    "51359475",
+    "51361275",
+    "51361375",
+    "51361475",
+    "51361575",
+    "51361675",
+    "51359575",
+    "51359675",
+    "51359775",
+    "51359875",
+    "51359975",
+    "51360075",
+    "51360175",
+    "51360275",
+    "51360375",
+    "51360475",
+    "51360575",
+    "51360675",
+    "51360775",
+    "51360875",
+    "51360975"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:262283:por",
+     "title": "Declaração de Rectificação n.º 2/2007",
+     "published": "2007-01-02",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/2-2007-262283",
+     "date": "2006-11-16"
+    }
+   ]
+  },
+  {
+   "date": "2020-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151036061:por",
+     "title": "Portaria n.º 286/2020",
+     "published": "2020-12-14",
+     "dre_path": "/dr/detalhe/portaria/286-2020-151036061"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 5.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "51926475",
+    "51359075",
+    "51359175",
+    "51359275",
+    "51359375",
+    "51359475",
+    "51361075",
+    "51361175",
+    "151153246",
+    "151153247",
+    "151153248",
+    "151153249",
+    "151153250",
+    "151153214",
+    "151153230",
+    "151153251",
+    "151153232",
+    "151153233",
+    "151153234",
+    "151153235",
+    "151153252",
+    "151153253",
+    "151153254",
+    "151153239",
+    "151153240",
+    "151153241",
+    "151153242",
+    "151153243",
+    "151153244",
+    "151153245"
+   ]
+  }
+ ],
+ "fragments": {
+  "51926475": {
+   "fragment_id": "35152075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-11-16",
+   "changed_by": [],
+   "markdown": "Considerando a necessidade de garantir às associações de jovens e grupos informais de jovens a possibilidade de inscrição no Registo Nacional do Associativismo Jovem, a fim de beneficiarem dos programas de apoio ao associativismo previsto na Lei n.º 23/2006, de 23 de Junho;\n\nConsiderando a entrada em vigor do novo regime do associativismo jovem e a disciplina de novos procedimentos para efeito de registo das associações de jovens e grupos informais de jovens;\n\nConsiderando, ainda, a necessidade de regulamentação do Registo Nacional do Associativismo Jovem (RNAJ), nos termos da lei, com consequente revogação do actual Registo Nacional das Associações Juvenis;\n\nOuvido o Conselho Consultivo da Juventude:\n\nManda o Governo, pelo Secretário de Estado da Juventude e do Desporto, em cumprimento do disposto no n.º 1 do artigo 34.º, no n.º 1 do artigo 36.º e no n.º 1 do artigo 37.º da Lei n.º 23/2006, de 23 de Junho, e ao abrigo do n.º 2 do artigo 2.º do Decreto-Lei n.º 70/96, de 4 de Junho, o seguinte:"
+  },
+  "51359075": {
+   "fragment_id": "36168075",
+   "type": 11,
+   "heading": "Artigo 1.º — Registo Nacional do Associativismo Jovem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Registo Nacional do Associativismo Jovem\n\nÉ criado o Registo Nacional do Associativismo Jovem, adiante designado por RNAJ, e aprovado o respectivo Regulamento, que faz parte integrante da presente portaria."
+  },
+  "51359175": {
+   "fragment_id": "36168175",
+   "type": 11,
+   "heading": "Artigo 2.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Organização\n\nA organização do RNAJ é da competência do Instituto Português da Juventude (IPJ)."
+  },
+  "51359275": {
+   "fragment_id": "36168275",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\n1 - O IPJ procede à transição oficiosa dos registos das associações juvenis que já se encontrem registadas à data da entrada em vigor da presente portaria, uma vez preenchidos os requisitos legais e regulamentares.\n\n2 - O IPJ pode proceder à inscrição das associações de estudantes que foram apoiadas até à data de entrada em vigor da presente portaria, após confirmação e aceitação das mesmas.\n\n3 - Para efeitos do disposto nos números anteriores, o IPJ solicita os documentos e informação em falta, por forma a organizar novo registo RNAJ.\n\n4 - Para efeitos do disposto nos n.os 1 e 2, é identificado e registado como utilizador o presidente do órgão executivo da respectiva associação, o qual fica responsável pela prática de todos os actos.\n\n5 - A transição dos registos a que se refere o n.º 1 do artigo 3.º da presente portaria deve ficar concluída até um mês antes da data de apresentação da candidatura aos respectivos programas de apoio.\n\n6 - A falta de resposta ou o não envio, em tempo, dos documentos solicitados pelo IPJ tem como consequência a impossibilidade de candidatura aos correspondentes programas de apoio."
+  },
+  "51359375": {
+   "fragment_id": "36168375",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a Portaria n.º 355/96, de 16 de Agosto."
+  },
+  "51359475": {
+   "fragment_id": "36168475",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "51361275": {
+   "fragment_id": "37671375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O Registo Nacional do Associativismo Jovem (RNAJ) é um instrumento de identificação das associações de jovens, das equiparadas a associações juvenis e dos grupos informais.\n\n2 - O presente Regulamento disciplina o RNAJ, nomeadamente em relação à organização, à inscrição e à actualização do registo."
+  },
+  "51361375": {
+   "fragment_id": "37671475",
+   "type": 11,
+   "heading": "Artigo 2.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Organização\n\n1 - O RNAJ é composto pelos arquivos mencionados no artigo 35.º da Lei n.º 23/2006, de 23 de Junho, sendo que os arquivos 1 e 2 contemplam as respectivas federações.\n\n2 - Os arquivos estão organizados e são compostos pelas correspondentes fichas de identificação das associações de jovens, equiparadas a associações juvenis e grupos informais.\n\n3 - Fazem, ainda, parte dos arquivos os campos referentes à actualização, suspensão e cancelamento do registo, nos termos definidos nos artigos 37.º, 38.º e 39.º da Lei n.º 23/2006, de 23 de Junho, devendo o campo referente à actualização conter todas as alterações aos elementos fornecidos pelas entidades referidas no número anterior produzidas posteriormente quer ao reconhecimento quer ao registo RNAJ.\n\n4 - As entidades inscritas no RNAJ ficam obrigadas a actualizar o registo no período compreendido entre 20 de Outubro e 20 de Novembro de cada ano.\n\n5 - A não actualização, a suspensão e o cancelamento do registo impedem a candidatura da entidade a qualquer programa de apoio previsto na lei, até sanação do vício."
+  },
+  "51361475": {
+   "fragment_id": "37671575",
+   "type": 11,
+   "heading": "Artigo 3.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Inscrição\n\n1 - Cabe às entidades beneficiárias requerer a inscrição no RNAJ.\n\n2 - Podem requerer inscrição no RNAJ, para além dos grupos informais, as associações de jovens e as associações equiparadas às associações juvenis, reconhecidas pelo IPJ, nos termos da lei e regulamentação aplicável."
+  },
+  "51361575": {
+   "fragment_id": "37671675",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos das associações de jovens e equiparadas a associações juvenis sem personalidade jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimentos das associações de jovens e equiparadas a associações juvenis sem personalidade jurídica\n\n1 - As associações juvenis e suas equiparadas, as associações de estudantes e as federações sem personalidade jurídica só podem inscrever-se no RNAJ após a obtenção do respectivo reconhecimento nos termos da Portaria n.º 1227/2006, de 15 de Novembro.\n\n2 - Só o utilizador identificado no processo de reconhecimento tem acesso ao sítio na Internet indicado pelo IPJ para efeito de inscrição da associação no RNAJ.\n\n3 - É o utilizador que solicita o registo através da confirmação dos elementos inseridos na ficha RNAJ.\n\n4 - O IPJ pode solicitar outros elementos que julgue úteis à análise e procedimento do registo.\n\n5 - Sempre que se verifique o disposto no número anterior, deve o utilizador entregar os elementos solicitados junto dos serviços do IPJ, por depósito ou carta registada com aviso de recepção.\n\n6 - Após confirmação dos elementos inseridos na ficha RNAJ e ou confirmação de recepção dos documentos previstos no n.º 4 do presente artigo, o IPJ notificará o utilizador, via e-mail, no prazo de 15 dias, do seguinte:\n\na) Da necessidade de colmatar alguma deficiência; ou\n\nb) Da validação dos elementos fornecidos, atribuindo um código de registo RNAJ, com o qual, a partir daquele momento, a respectiva associação fica identificada."
+  },
+  "51361675": {
+   "fragment_id": "37671775",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimentos das associações de jovens e equiparadas a associações juvenis com personalidade jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimentos das associações de jovens e equiparadas a associações juvenis com personalidade jurídica\n\n1 - Com o pedido de inscrição no RNAJ das associações juvenis e suas equiparadas, das associações de estudantes e das federações com personalidade jurídica é simultaneamente identificado o utilizador que representa a respectiva associação.\n\n2 - Para efeitos do disposto no número anterior, considera-se utilizador o presidente do órgão executivo, cabendo a este o preenchimento dos elementos mencionados em ficha RNAJ, a disponibilizar pelo IPJ.\n\n3 - O IPJ pode solicitar a entrega ou envio de cópia dos documentos originais que comprovem a informação prestada nos números anteriores, por depósito, fax ou carta registada com aviso de recepção.\n\n4 - Com a confirmação da informação prestada, o IPJ fornece o nome do utilizador e a palavra passe e atribui um código de registo RNAJ à associação.\n\n5 - O nome do utilizador, a palavra passe e o código de registo RNAJ são enviados, pelo IPJ, via electrónica.\n\n6 - O código RNAJ identifica a respectiva associação nos processos de candidatura aos programas de apoio.\n\n7 - Sem prejuízo do previsto no número anterior, o IPJ pode solicitar outros elementos que julgue úteis à análise e procedimento do registo.\n\n8 - Para efeitos de registo, as entidades equiparadas nos termos do disposto no n.º 4 do artigo 3.º da Lei n.º 23/2006, de 23 de Junho, devem entregar, nos serviços do IPJ, por depósito, fax ou carta regista com aviso de recepção, cópia do despacho anual de reconhecimento do membro do Governo da área da juventude.\n\n9 - Para avaliação do reconhecimento e atribuição do despacho previsto no número anterior, devem aquelas entidades formular o seu pedido sob a forma de requerimento, acompanhado dos seguintes documentos:\n\na) Explanação do histórico da entidade e actividades prosseguidas;\n\nb) Plano de actividades para o ano em causa;\n\nc) Cópia dos estatutos;\n\nd) Declaração de utilidade pública demonstrativa do reconhecido mérito e importância social, para as entidades nacionais;\n\ne) Declaração equivalente de reconhecimento, mérito e importância social, para as entidades internacionais;\n\nf) Parecer de uma ou mais entidades com as quais tenham trabalhado que ateste o mérito e importância social das actividades prosseguidas."
+  },
+  "51359575": {
+   "fragment_id": "37669875",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimentos dos grupos informais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimentos dos grupos informais\n\nAos grupos informais é aplicável, com as necessárias adaptações, o procedimento previsto no artigo anterior."
+  },
+  "51359675": {
+   "fragment_id": "37669975",
+   "type": 11,
+   "heading": "Artigo 7.º — Actualização, suspensão e cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Actualização, suspensão e cancelamento\n\nO disposto no capítulo VI da Lei n.º 23/2006, de 23 de Junho, relativamente à actualização, suspensão e cancelamento do RNAJ, aplica-se às entidades abrangidas pelo presente Regulamento."
+  },
+  "51359775": {
+   "fragment_id": "37670075",
+   "type": 11,
+   "heading": "Artigo 8.º — Presunções derivadas do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presunções derivadas do registo\n\nO registo constitui presunção de que existe a situação jurídica, nos precisos termos em que é definida."
+  },
+  "51359875": {
+   "fragment_id": "37670175",
+   "type": 11,
+   "heading": "Artigo 9.º — Efeitos do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Efeitos do registo\n\nAs entidades mencionadas no n.º 1 do artigo 1.º que pretendam beneficiar dos apoios do Estado devem encontrar-se inscritas no RNAJ."
+  },
+  "51359975": {
+   "fragment_id": "37670275",
+   "type": 11,
+   "heading": "Artigo 10.º — Desistência do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Desistência do registo\n\nÉ permitida a desistência de um registo e dos que dele dependem."
+  },
+  "51360075": {
+   "fragment_id": "37670375",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissão de acompanhamento do Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comissão de acompanhamento do Registo\n\n1 - Com o presente Regulamento é criada uma comissão de acompanhamento do Registo.\n\n2 - A comissão prevista no número anterior obedece à seguinte composição:\n\na) Um representante do Conselho Nacional da Juventude, que preside;\n\nb) Um representante da Federação Nacional das Associações Juvenis;\n\nc) Um representante das associações juvenis;\n\nd) Um representante das associações de estudantes;\n\ne) Um representante das associações equiparadas a associações juvenis.\n\n3 - À comissão compete analisar os relatórios de execução do RNAJ, no prazo de 15 dias a contar da data da sua recepção.\n\n4 - A avaliação é feita sob a forma de parecer não vinculativo, a enviar, naquele prazo, à comissão executiva do IPJ.\n\n5 - A comissão de acompanhamento do Registo reúne ordinariamente uma vez por ano, no decorrer do 2.º semestre."
+  },
+  "51360175": {
+   "fragment_id": "37670475",
+   "type": 11,
+   "heading": "Artigo 12.º — Base de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Base de dados\n\n1 - O Registo a que alude o presente Regulamento destina-se à constituição de uma base de dados, nos termos da Lei n.º 67/98, de 26 de Outubro, e define o universo das associações de jovens, equiparadas a associações juvenis e grupos informais, para efeitos da Lei n.º 23/2006, de 23 de Junho, podendo, ainda, permitir traçar um perfil sociológico das associações e seus associados.\n\n2 - Ficam excluídos da base de dados mencionada no número anterior os dados referentes a convicções filosóficas ou políticas, filiação partidária ou sindical, fé religiosa ou vida privada.\n\n3 - Ficam igualmente excluídos os dados referentes à origem racial ou étnica, à vida sexual, incluídos dados genéticos, condenação em processo criminal, suspeitas de actividades ilícitas, estado de saúde e situação patrimonial e financeira.\n\n4 - Excepcionam-se do disposto no n.º 2 as organizações de juventude partidárias ou sindicais, equiparadas a associações juvenis, as quais, tendo em vista a candidatura ao apoio logístico previsto no n.º 3 do artigo 14.º da Lei n.º 23/2006, de 23 de Junho, necessitam autorizar expressamente o tratamento dos dados."
+  },
+  "51360275": {
+   "fragment_id": "37670575",
+   "type": 11,
+   "heading": "Artigo 13.º — Circulação electrónica de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Circulação electrónica de documentos\n\nAs entidades mencionadas neste Regulamento privilegiam a divulgação e troca de documentos através de meios electrónicos."
+  },
+  "51360375": {
+   "fragment_id": "37670675",
+   "type": 11,
+   "heading": "Artigo 14.º — Valor documental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Valor documental\n\n1 - Só podem ser registados os factos constantes de documentos que legalmente os comprovem.\n\n2 - Os documentos em língua estrangeira só podem ser aceites quando traduzidos em língua portuguesa.\n\n3 - Ao valor probatório dos documentos electrónicos aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 290-D/99, de 2 de Agosto."
+  },
+  "51360475": {
+   "fragment_id": "37670775",
+   "type": 11,
+   "heading": "Artigo 15.º — Princípio da legalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Princípio da legalidade\n\nCompete ao IPJ assegurar o registo quanto à sua organização, inscrição e actualização do Registo, em face das disposições legais aplicáveis."
+  },
+  "51360575": {
+   "fragment_id": "37670875",
+   "type": 11,
+   "heading": "Artigo 16.º — Impugnação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Impugnação das decisões\n\nDas decisões em matéria de registo cabe reclamação ou recurso, nos termos previstos no Código do Procedimento Administrativo."
+  },
+  "51360675": {
+   "fragment_id": "37670975",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aplicação de sanções\n\n1 - Compete à comissão executiva aplicar as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho, após proposta fundamentada dos serviços.\n\n2 - Enquanto o registo permanecer suspenso ou cancelado, nenhuma associação ou grupo informal se pode candidatar aos apoios previstos na Lei n.º 23/2006, de 23 de Junho."
+  },
+  "51360775": {
+   "fragment_id": "37671075",
+   "type": 11,
+   "heading": "Artigo 18.º — Associações com sede nas Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Associações com sede nas Regiões Autónomas\n\nPara efeitos do presente Regulamento, e em relação aos necessários actos procedimentais a praticar para com as associações juvenis, suas equiparadas, grupos informais e associações do ensino básico e secundário são competentes os respectivos serviços regionais, nos termos a definir em diploma regional próprio."
+  },
+  "51360875": {
+   "fragment_id": "37671175",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições finais\n\n1 - A nomeação do novo presidente do órgão executivo não implica alteração do código RNAJ atribuído, antes suspende qualquer procedimento de candidatura enquanto a respectiva associação não proceder à identificação e validação do novo utilizador.\n\n2 - O IPJ pode, a qualquer momento, solicitar às entidades beneficiárias informação complementar necessária ao esclarecimento de dúvidas ou sanação de qualquer irregularidade.\n\n3 - O envio da informação solicitada é da responsabilidade das associações e grupos informais, pelo que o seu não cumprimento inviabiliza a apresentação da respectiva candidatura."
+  },
+  "51360975": {
+   "fragment_id": "37671275",
+   "type": 11,
+   "heading": "Artigo 20.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Aplicação subsidiária\n\nA Lei n.º 23/2006, de 23 de Junho, aplica-se subsidiariamente à presente portaria."
+  },
+  "51361075": {
+   "fragment_id": "36168575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Juventude e do Desporto, Laurentino José Monteiro Castro Dias, em 30 de Outubro de 2006."
+  },
+  "51361175": {
+   "fragment_id": "36168675",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO REGISTO NACIONAL DO ASSOCIATIVISMO JOVEM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO REGISTO NACIONAL DO ASSOCIATIVISMO JOVEM"
+  },
+  "151153246": {
+   "fragment_id": "37671375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O Registo Nacional do Associativismo Jovem (RNAJ) é um instrumento de identificação das associações de jovens, das equiparadas a associações juvenis, dos grupos informais de jovens e das associações de caráter juvenil, previstas na Lei n.º 23/2006, de 23 de junho, na sua redação atual.\n\n2 - O presente Regulamento disciplina o RNAJ, nomeadamente em relação à organização, à inscrição e à actualização do registo.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153247": {
+   "fragment_id": "37671475",
+   "type": 11,
+   "heading": "Artigo 2.º — Organização",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 2.º — Organização\n\n1 - O RNAJ é composto pelos arquivos mencionados no artigo 35.º da Lei n.º 23/2006, de 23 de Junho, sendo que os arquivos 1 e 2 contemplam as respectivas federações.\n\n2 - Os arquivos estão organizados e são compostos por fichas de identificação e dados de caraterização das associações de jovens, das organizações equiparadas a associações juvenis, das associações de caráter juvenil e dos grupos informais de jovens.\n\n3 - Fazem, ainda, parte dos arquivos os campos referentes à actualização, suspensão e cancelamento do registo, nos termos definidos nos artigos 37.º, 38.º e 39.º da Lei n.º 23/2006, de 23 de Junho, devendo o campo referente à actualização conter todas as alterações aos elementos fornecidos pelas entidades referidas no número anterior produzidas posteriormente quer ao reconhecimento quer ao registo RNAJ.\n\n4 - As entidades inscritas no RNAJ ficam obrigadas a atualizar o registo no período compreendido entre 20 de setembro e 20 de outubro de cada ano.\n\n5 - As federações devem proceder à atualização do respetivo registo no RNAJ no período compreendido entre 20 de outubro e 20 de novembro de cada ano.\n\n6 - A não actualização, a suspensão e o cancelamento do registo impedem a candidatura da entidade a qualquer programa de apoio previsto na lei, até sanação do vício.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153248": {
+   "fragment_id": "37671575",
+   "type": 11,
+   "heading": "Artigo 3.º — Inscrição",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 3.º — Inscrição\n\n1 - Cabe às entidades beneficiárias requerer a inscrição no RNAJ.\n\n2 - Podem requerer inscrição no RNAJ, para além dos grupos informais de jovens, as associações de jovens, as organizações equiparadas a associações juvenis e as associações de caráter juvenil, reconhecidas nos termos da lei e regulamentação aplicável.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153249": {
+   "fragment_id": "37671675",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimentos das associações sem personalidade jurídica",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 4.º — Procedimentos das associações sem personalidade jurídica\n\n1 - As associações juvenis e suas equiparadas, as associações de estudantes e as federações sem personalidade jurídica só podem inscrever-se no RNAJ após a obtenção do respectivo reconhecimento nos termos da Portaria n.º 1227/2006, de 15 de Novembro.\n\n2 - Só o utilizador identificado no processo de reconhecimento tem acesso ao sítio na Internet indicado pelo IPJ para efeito de inscrição da associação no RNAJ.\n\n3 - É o utilizador que solicita o registo através da confirmação dos elementos inseridos na ficha RNAJ.\n\n4 - O IPDJ, I. P., pode solicitar outros elementos que julgue úteis à análise e procedimento de inscrição no RNAJ.\n\n5 - Sempre que se verifique o disposto no número anterior, deve o utilizador entregar os elementos solicitados junto dos serviços do IPJ, por depósito ou carta registada com aviso de recepção.\n\n6 - Após confirmação dos elementos inseridos na ficha RNAJ e ou confirmação de recepção dos documentos previstos no n.º 4 do presente artigo, o IPJ notificará o utilizador, via e-mail, no prazo de 15 dias, do seguinte:\n\na) Da necessidade de colmatar alguma deficiência; ou\n\nb) Da validação dos elementos fornecidos, atribuindo um código de registo RNAJ, com o qual, a partir daquele momento, a respectiva associação fica identificada.\n\n7 - Para efeitos de inscrição no RNAJ, os dados pessoais suscetíveis a operações de tratamento são objeto de proteção, nos termos previstos no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e na Lei n.º 58/2019, de 8 de agosto, bem como nas demais disposições legais e regulamentares em matéria de proteção de dados pessoais.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153250": {
+   "fragment_id": "37671775",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimentos das associações com personalidade jurídica",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 5.º — Procedimentos das associações com personalidade jurídica\n\n1 - Com o pedido de inscrição no RNAJ das associações juvenis e suas equiparadas, das associações de estudantes e das federações com personalidade jurídica é simultaneamente identificado o utilizador que representa a respectiva associação.\n\n2 - Para efeitos do disposto no número anterior, considera-se utilizador o presidente do órgão executivo, cabendo a este o preenchimento dos elementos mencionados em ficha RNAJ, a disponibilizar pelo IPJ.\n\n3 - O IPJ pode solicitar a entrega ou envio de cópia dos documentos originais que comprovem a informação prestada nos números anteriores, por depósito, fax ou carta registada com aviso de recepção.\n\n4 - Com a confirmação da informação prestada, o IPJ fornece o nome do utilizador e a palavra passe e atribui um código de registo RNAJ à associação.\n\n5 - O nome do utilizador, a palavra passe e o código de registo RNAJ são enviados, pelo IPJ, via electrónica.\n\n6 - O código RNAJ identifica a respectiva associação nos processos de candidatura aos programas de apoio.\n\n7 - Sem prejuízo do previsto no número anterior, o IPJ pode solicitar outros elementos que julgue úteis à análise e procedimento do registo.\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - Para efeitos de inscrição no RNAJ, os dados pessoais suscetíveis a operações de tratamento são objeto de proteção, nos termos previstos no Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e na Lei n.º 58/2019, de 8 de agosto, bem como das demais disposições legais e regulamentares em matéria de proteção de dados pessoais.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153214": {
+   "fragment_id": "151153157",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Procedimentos das associações de caráter juvenil",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 5.º-A — Procedimentos das associações de caráter juvenil\n\n1 - As associações de caráter juvenil só podem inscrever-se no RNAJ após o reconhecimento previsto no artigo 3.º-A da Lei n.º 23/2006, de 23 de junho.\n\n2 - Para efeitos de reconhecimento, as associações de caráter juvenil devem entregar nos serviços do IPDJ, I. P., por depósito, carta registada com aviso de receção ou por via eletrónica, os seguintes elementos:\n\na) Cópia atualizada dos estatutos, bem como ata de aprovação dos mesmos em assembleia geral e cópia do certificado de admissibilidade de denominação;\n\nb) Ata de eleição dos órgãos sociais;\n\nc) Apresentação do histórico da entidade e planos de atividades dos últimos três anos, acompanhada dos respetivos relatórios de atividades e de contas, aprovados em assembleia geral;\n\nd) Parecer de uma ou mais entidades com as quais tenham trabalhado que ateste o mérito e importância social das atividades prosseguidas com jovens;\n\ne) Outros elementos que sejam considerados relevantes pela entidade requerente.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153230": {
+   "fragment_id": "151153158",
+   "type": 11,
+   "heading": "Artigo 5.º-B — Associações juvenis com sede fora do território nacional",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 5.º-B — Associações juvenis com sede fora do território nacional\n\nPara os efeitos previstos nos artigos 4.º e 5.º, as associações juvenis com sede fora do território nacional devem fazer prova do requisito constante do n.º 2 do artigo 8.º da Lei n.º 23/2006, de 23 de junho, através da entrega de deliberação da assembleia geral, que ateste que a maioria dos associados são cidadãos de nacionalidade portuguesa ou lusodescendentes.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153251": {
+   "fragment_id": "37669875",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimentos dos grupos informais",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 6.º — Procedimentos dos grupos informais\n\nAos grupos informais é aplicável, com as necessárias adaptações, o procedimento previsto no artigo 5.º\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153232": {
+   "fragment_id": "37669975",
+   "type": 11,
+   "heading": "Artigo 7.º — Actualização, suspensão e cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Actualização, suspensão e cancelamento\n\nO disposto no capítulo VI da Lei n.º 23/2006, de 23 de Junho, relativamente à actualização, suspensão e cancelamento do RNAJ, aplica-se às entidades abrangidas pelo presente Regulamento."
+  },
+  "151153233": {
+   "fragment_id": "37670075",
+   "type": 11,
+   "heading": "Artigo 8.º — Presunções derivadas do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presunções derivadas do registo\n\nO registo constitui presunção de que existe a situação jurídica, nos precisos termos em que é definida."
+  },
+  "151153234": {
+   "fragment_id": "37670175",
+   "type": 11,
+   "heading": "Artigo 9.º — Efeitos do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Efeitos do registo\n\nAs entidades mencionadas no n.º 1 do artigo 1.º que pretendam beneficiar dos apoios do Estado devem encontrar-se inscritas no RNAJ."
+  },
+  "151153235": {
+   "fragment_id": "37670275",
+   "type": 11,
+   "heading": "Artigo 10.º — Desistência do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Desistência do registo\n\nÉ permitida a desistência de um registo e dos que dele dependem."
+  },
+  "151153252": {
+   "fragment_id": "37670375",
+   "type": 11,
+   "heading": "Artigo 11.º — Comissão de acompanhamento do Registo",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 11.º — Comissão de acompanhamento do Registo\n\n1 - Com o presente Regulamento é criada uma comissão de acompanhamento do Registo.\n\n2 - A comissão prevista no número anterior obedece à seguinte composição:\n\na) Um representante do Conselho Nacional da Juventude, que preside;\n\nb) Um representante da Federação Nacional das Associações Juvenis;\n\nc) Um representante das associações juvenis;\n\nd) Um representante das associações de estudantes;\n\ne) Um representante das associações de caráter juvenil;\n\nf) Um representante do IPDJ, I. P.\n\n3 - À comissão compete analisar os relatórios de execução do RNAJ, no prazo de 15 dias a contar da data da sua recepção.\n\n4 - A avaliação é feita sob a forma de parecer não vinculativo, a enviar, naquele prazo, à comissão executiva do IPJ.\n\n5 - A comissão de acompanhamento do Registo reúne ordinariamente uma vez por ano, no decorrer do 2.º semestre.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153253": {
+   "fragment_id": "37670475",
+   "type": 11,
+   "heading": "Artigo 12.º — Base de dados",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 12.º — Base de dados\n\n1 - O registo a que alude o presente Regulamento destina-se à constituição de uma base de dados, que permita definir o universo das associações de jovens, das equiparadas a associações juvenis, das associações de caráter juvenil e dos grupos informais de jovens, para efeitos da Lei n.º 23/2006, de 23 de junho, podendo, ainda, permitir traçar um perfil sociológico das associações e seus associados.\n\n2 - Ficam excluídos da base de dados mencionada no número anterior os dados referentes a convicções filosóficas ou políticas, filiação partidária ou sindical, fé religiosa ou vida privada.\n\n3 - Ficam igualmente excluídos os dados referentes à origem racial ou étnica, à vida sexual, incluídos dados genéticos, condenação em processo criminal, suspeitas de actividades ilícitas, estado de saúde e situação patrimonial e financeira.\n\n4 - Excepcionam-se do disposto no n.º 2 as organizações de juventude partidárias ou sindicais, equiparadas a associações juvenis, as quais, tendo em vista a candidatura ao apoio logístico previsto no n.º 3 do artigo 14.º da Lei n.º 23/2006, de 23 de Junho, necessitam autorizar expressamente o tratamento dos dados.\n\n5 - Os dados pessoais de pessoas singulares suscetíveis a operações de tratamento nos termos dos números anteriores são objeto de proteção nos termos do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, da Lei n.º 58/2019, de 8 de agosto, e das demais disposições legais e regulamentares em matéria de proteção de dados pessoais, cabendo ao IPDJ, I. P., enquanto entidade pública responsável pelo tratamento dos dados, assegurar todas as obrigações que, nesse âmbito, lhe couber nos termos da lei.\n\n6 - O tratamento dos dados pessoais é feito com base no consentimento ou noutra condição de legitimidade prevista no artigo 6.º do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, ou norma nacional.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153254": {
+   "fragment_id": "37670575",
+   "type": 11,
+   "heading": "Artigo 13.º — Circulação electrónica de documentos",
+   "in_force_from": "2020-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+   ],
+   "markdown": "###### Artigo 13.º — Circulação electrónica de documentos\n\nAs entidades mencionadas no presente regulamento privilegiam a divulgação de informação, envio de documentos e as notificações efetuadas através de meios eletrónicos.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 286/2020 - Diário da República n.º 241/2020, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-2020-151036061), em vigor a partir de 2020-12-15"
+  },
+  "151153239": {
+   "fragment_id": "37670675",
+   "type": 11,
+   "heading": "Artigo 14.º — Valor documental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Valor documental\n\n1 - Só podem ser registados os factos constantes de documentos que legalmente os comprovem.\n\n2 - Os documentos em língua estrangeira só podem ser aceites quando traduzidos em língua portuguesa.\n\n3 - Ao valor probatório dos documentos electrónicos aplica-se, com as necessárias adaptações, o disposto no Decreto-Lei n.º 290-D/99, de 2 de Agosto."
+  },
+  "151153240": {
+   "fragment_id": "37670775",
+   "type": 11,
+   "heading": "Artigo 15.º — Princípio da legalidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 2/2007 - Diário da República n.º 1/2007, Série I de 2007-01-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-2007-262283), em vigor a partir de 2006-11-16"
+   ],
+   "markdown": "###### Artigo 15.º — Princípio da legalidade\n\nCompete ao IPJ assegurar o registo quanto à sua organização, inscrição e actualização, em face das disposições legais aplicáveis.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 2/2007 - Diário da República n.º 1/2007, Série I de 2007-01-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-2007-262283), em vigor a partir de 2006-11-16"
+  },
+  "151153241": {
+   "fragment_id": "37670875",
+   "type": 11,
+   "heading": "Artigo 16.º — Impugnação das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Impugnação das decisões\n\nDas decisões em matéria de registo cabe reclamação ou recurso, nos termos previstos no Código do Procedimento Administrativo."
+  },
+  "151153242": {
+   "fragment_id": "37670975",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aplicação de sanções\n\n1 - Compete à comissão executiva aplicar as sanções previstas no artigo 47.º da Lei n.º 23/2006, de 23 de Junho, após proposta fundamentada dos serviços.\n\n2 - Enquanto o registo permanecer suspenso ou cancelado, nenhuma associação ou grupo informal se pode candidatar aos apoios previstos na Lei n.º 23/2006, de 23 de Junho."
+  },
+  "151153243": {
+   "fragment_id": "37671075",
+   "type": 11,
+   "heading": "Artigo 18.º — Associações com sede nas Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Associações com sede nas Regiões Autónomas\n\nPara efeitos do presente Regulamento, e em relação aos necessários actos procedimentais a praticar para com as associações juvenis, suas equiparadas, grupos informais e associações do ensino básico e secundário são competentes os respectivos serviços regionais, nos termos a definir em diploma regional próprio."
+  },
+  "151153244": {
+   "fragment_id": "37671175",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições finais\n\n1 - A nomeação do novo presidente do órgão executivo não implica alteração do código RNAJ atribuído, antes suspende qualquer procedimento de candidatura enquanto a respectiva associação não proceder à identificação e validação do novo utilizador.\n\n2 - O IPJ pode, a qualquer momento, solicitar às entidades beneficiárias informação complementar necessária ao esclarecimento de dúvidas ou sanação de qualquer irregularidade.\n\n3 - O envio da informação solicitada é da responsabilidade das associações e grupos informais, pelo que o seu não cumprimento inviabiliza a apresentação da respectiva candidatura."
+  },
+  "151153245": {
+   "fragment_id": "37671275",
+   "type": 11,
+   "heading": "Artigo 20.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Aplicação subsidiária\n\nA Lei n.º 23/2006, de 23 de Junho, aplica-se subsidiariamente à presente portaria."
+  }
+ }
+}

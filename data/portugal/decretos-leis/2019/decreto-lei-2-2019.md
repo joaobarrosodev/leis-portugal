@@ -1,0 +1,293 @@
+---
+schema_version: '1.0'
+id: pt:dre:117726476:por
+title: Decreto-Lei n.º 2/2019
+short_title: null
+summary: Institui o Sistema Nacional de Monitorização e Comunicação de Risco, de Alerta Especial e de Aviso à População
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Administração Interna
+official_number: 2/2019
+official_date: null
+publication_date: '2019-01-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 8/2019, Série I de 2019-01-11
+  number: '8'
+  series: I
+  supplement: null
+  pages: 105 - 108
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/01/00800/0010500108.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/2/2019/01/11/p/dre/pt/html
+  oj: null
+  dre: '117726476'
+  dre_path: /dr/detalhe/decreto-lei/2-2019-117726476
+  internal: pt:dre:117726476:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2019-117726476
+  metadata_url: https://data.dre.pt/eli/dec-lei/2/2019/01/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2019-117726476
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-01-11T00:00:00Z'
+integrity:
+  source_sha256: aa96415546cf0afc10c6be27a2dae1eecdaa784ca1ae6cd8879bc7f1bc8f04c1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2019/DRE-2019-2-117726476.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Região Autónoma
+- Telefone
+- Proteção Civil
+- Incêndio
+- Prevenção de Incêndios
+- Centro de Coordenação Operacional Distrital
+- Centro de Coordenação Operacional Nacional
+- Comandante
+- Direção Geral da Saúde
+- Comissão Nacional de Protecção Civil
+- Comunicação Social
+- Radiocomunicações
+- REDE Basica de Telecomunicações
+- Rede Privada de Telecomunicações
+- REDE Pública de Telecomunicações
+- Serviço de Telecomunicações Móveis
+- Comunicações Eletrónicas
+- SIRESP
+- Criação de Serviços
+- Definição de Competências
+- Segurança Pública
+- Catástrofe
+- Informação
+- Instituto Português do Mar e da Atmosfera
+- Direito à Informação
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Instituto da Conservação da Natureza e das Florestas
+- Radiodifusão
+- Instituto Nacional de Saúde Dr Ricardo Jorge
+- Madeira.região Autónoma
+- Presidência do Conselho de Ministros
+- REDE Integrada de Comunicações de Emergência
+- REDE Móvel Nacional de Emergência e Segurança
+- Comunicações
+- REDE Telefonica Móvel
+- Autoridade Nacional de Protecção Civil
+- Siops
+- Açores
+- Televisão
+- Agência para a Gestão Integrada de Fogos Rurais
+- Sistema Nacional de Monitorização e Comunicação de Risco de Alerta Especial e de Aviso à População
+- Agência Portuguesa do Ambiente
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/5/2004/02/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/5/2004/02/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/160/2017/10/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/160/2017/10/30/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 2/2019
+
+de 11 de janeiro
+
+A proteção, socorro e assistência das populações face a riscos coletivos são direitos que se revestem de particular importância perante a dimensão das catástrofes e o número de vítimas delas resultantes, bem como os impactos socioeconómicos nas populações atingidas. Nesse sentido, as estruturas de proteção civil, trabalhando num quadro multissetorial, têm como metas fundamentais a prevenção de riscos coletivos inerentes a situações de acidente grave ou catástrofe, a atenuação dos seus efeitos e a proteção e socorro das pessoas e bens em perigo, quando aquelas situações ocorram, tal como preconizado na Lei de Bases da Proteção Civil.
+
+Constitui um princípio fundamental da atividade de proteção civil assegurar a divulgação das informações relevantes nesse âmbito, tendo os cidadãos direito à informação sobre os riscos a que estão sujeitos e sobre as medidas adotadas e a adotar com vista a prevenir ou minimizar os efeitos decorrentes de um acidente grave ou catástrofe. Para tal, assumem um papel de relevo os sistemas de monitorização de riscos, de alerta especial e de aviso de proteção civil, destinados a garantir uma adequada vigilância dos riscos existentes e uma atempada comunicação da sua evolução às estruturas de proteção civil e socorro, bem como uma oportuna informação à população potencialmente afetada pela iminência ou ocorrência de um acidente grave ou catástrofe.
+
+Consta do Programa do XXI Governo Constitucional e da [Resolução do Conselho de Ministros n.º 157-A/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/157-a-2017-114109966), de 27 de outubro, o objetivo da melhoria da eficiência da proteção civil e das condições de prevenção e socorro. Ambos preveem já a adoção de medidas no âmbito da prevenção com sistemas de aviso e de alerta precoce, a criação de comunidades resistentes aos riscos associados à ocorrência de acidentes graves e catástrofes e a melhoria da resposta operacional.
+
+Esta necessidade também já se encontra reconhecida na Estratégia Nacional para uma Proteção Civil Preventiva, aprovada pela [Resolução do Conselho de Ministros n.º 160/2017](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/160-2017-114123460), de 30 de outubro, a qual consagra os sistemas de monitorização, alerta e aviso como uma das áreas prioritárias para investimento até 2020, por forma a responder ao objetivo estratégico de melhorar a preparação face à ocorrência de acidentes graves e catástrofes. Para tal, um dos objetivos operacionais a alcançar passa precisamente por estruturar e divulgar um sistema nacional de alerta e aviso, em linha com as Grandes Opções do Plano definidas pelo XXI Governo Constitucional para os anos de 2018 e 2019 e com a meta de reforço do patamar preventivo da proteção civil, designadamente através da implementação de um sistema de monitorização de risco, de aviso e de alerta precoce.
+
+A Autoridade Nacional de Proteção Civil tem como atribuição a responsabilidade de organizar um sistema nacional de alerta e aviso, o que pressupõe a criação do quadro legal que procede à instituição deste sistema e à definição de um conjunto de orientações destinadas à sua implementação. Desiderato que se alcança através da aprovação do presente diploma.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Liga dos Bombeiros Portugueses.
+
+Foi promovida a audição da Comissão Nacional de Proteção de Dados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei institui o Sistema Nacional de Monitorização e Comunicação de Risco, de Alerta Especial e de Aviso à População, estabelecendo orientações para o fluxo da informação entre as autoridades de proteção civil, agentes de proteção civil, entidades técnico-científicas e demais entidades envolvidas nos domínios da monitorização e comunicação de riscos, do alerta ao sistema de proteção civil e do aviso às populações, face à iminência ou ocorrência de acidente grave ou catástrofe.
+
+2 - O disposto no presente regime não prejudica as competências próprias de outras entidades para a emissão de avisos e alertas especiais, nem os respetivos regimes.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Alerta especial», a comunicação ao sistema de proteção civil da iminência ou ocorrência de um acidente grave ou catástrofe, acompanhada dos elementos de informação essenciais ao conhecimento da situação, de modo a permitir o desencadear de ações complementares no âmbito da proteção e socorro, de acordo com os princípios dispostos no Sistema Integrado de Operações de Proteção e Socorro (SIOPS);
+
+b) «Aviso de proteção civil», a comunicação dirigida à população potencialmente afetada pela iminência ou ocorrência de um acidente grave ou catástrofe, de modo a fornecer informação relacionada com o evento em causa e sobre as medidas de autoproteção a adotar, podendo ser enquadrada como aviso preventivo ou aviso de ação, consoante o fim a que se destina, correspondendo a:
+
+i) «Aviso preventivo», o aviso emitido com o objetivo de informar a população sobre o aumento de determinado risco numa determinada área geográfica;
+
+ii) «Aviso de ação», o aviso emitido com o objetivo de induzir a população a adotar medidas de autoproteção concretas em caso de ocorrência de um acidente grave ou catástrofe num período temporal específico, numa determinada área geográfica.
+
+c) «Monitorização e comunicação de risco», o conjunto organizado de ações destinadas a permitir a observação, medição e avaliação contínua do desenvolvimento de um processo ou fenómeno, com potencial de riscos para as populações, bem como a comunicação para informações à Autoridade Nacional de Proteção Civil (ANPC).
+
+###### Artigo 3.º — Dever de comunicação
+
+As entidades com competência legalmente reconhecida no âmbito da monitorização e comunicação de riscos têm o dever de comunicar à ANPC a informação proveniente dos sistemas de vigilância e deteção de riscos de que são detentoras.
+
+###### Artigo 4.º — Competência para emissão de alertas especiais
+
+A emissão de alertas especiais ao sistema de proteção civil compete à ANPC, no âmbito da sua competência territorial, e aos Serviços Municipais de Proteção Civil (SMPC), no âmbito municipal, nos termos do SIOPS.
+
+###### Artigo 5.º — Competência para emissão de avisos de proteção civil
+
+1 - A emissão de avisos de proteção civil compete aos centros de coordenação operacional de nível nacional, de nível regional e de nível distrital, bem como à comissão municipal de proteção civil, conforme os respetivos âmbitos de atuação.
+
+2 - Nas situações em que não estejam reunidos os centros de coordenação operacional referidos no número anterior, e face à necessidade inadiável de aviso à população, a emissão de avisos é assumida pelo comandante nacional de emergência e proteção civil, pelo comandante sub-regional de emergência e proteção civil ou pelo coordenador municipal de proteção civil, conforme os respetivos âmbitos de atuação.
+
+###### Artigo 6.º — Dever de colaboração
+
+1 - Têm um especial dever de colaboração, no âmbito da monitorização e comunicação de riscos à ANPC, as seguintes entidades técnico-científicas:
+
+a) Instituto Português do Mar e da Atmosfera, I. P.;
+
+b) Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos;
+
+c) Agência Portuguesa do Ambiente, I. P.;
+
+d) Instituto da Conservação da Natureza e das Florestas, I. P.;
+
+e) Direção-Geral da Saúde;
+
+f) Instituto Nacional de Emergência Médica, I. P.;
+
+g) Instituto Nacional de Saúde Dr. Ricardo Jorge, I. P.;
+
+h) Agência para a Gestão Integrada de Fogos Rurais, I. P.
+
+2 - No âmbito da emissão do aviso de proteção civil, o especial dever de colaboração referido no número anterior também impende sobre as seguintes entidades:
+
+a) Operadores generalistas de televisão de cobertura nacional, regional e local;
+
+b) Operadores generalistas de radiodifusão de cobertura nacional, regional e local;
+
+c) Operadores de comunicações fixas e móveis de cobertura nacional.
+
+###### Artigo 7.º — Difusão
+
+1 - A ANPC e os SMPC garantem, nos respetivos âmbitos de atuação, a difusão dos alertas especiais e avisos de proteção civil.
+
+2 - Para efeitos de difusão de alerta especial ao sistema de proteção civil, devem ser utilizados os meios adequados à situação em concreto, designadamente correio eletrónico, redes de comunicações fixas ou móveis e rede de radiocomunicações de emergência.
+
+3 - Para efeitos de difusão de aviso de proteção civil à população, devem ser utilizados os meios adequados à situação em concreto, designadamente sirenes ou outros dispositivos sonoros, redes de comunicações fixas ou móveis, televisão, rádio, aplicações informáticas, correio eletrónico ou redes sociais.
+
+4 - Sem prejuízo do disposto nos números anteriores, podem ainda ser utilizados outros meios de difusão, atendendo à situação em concreto.
+
+###### Artigo 8.º — Conteúdo do alerta especial e do aviso de proteção civil
+
+1 - O alerta especial deve incluir:
+
+a) Identificação do emissor e do destinatário;
+
+b) Indicação das características do evento que justifica o alerta;
+
+c) Âmbito territorial e temporal do evento que justifica o alerta;
+
+d) Orientações de atuação às entidades destinatárias, ao nível do reforço da monitorização ou da intensificação de ações para a supressão ou mitigação das consequências dos acidentes graves ou catástrofes;
+
+e) Outros elementos considerados relevantes.
+
+2 - O aviso de proteção civil deve incluir:
+
+a) Identificação do emissor;
+
+b) Indicação das características do evento que justifica o aviso;
+
+c) Âmbito territorial e temporal do evento que justifica o aviso;
+
+d) Comportamentos de autoproteção a serem adotados, face às consequências expectáveis;
+
+e) Outros elementos considerados relevantes.
+
+3 - O disposto no número anterior é ajustado ao meio de emissão do aviso de proteção civil utilizado.
+
+###### Artigo 9.º — Operacionalização dos sistemas de aviso
+
+Os critérios e normas técnicas para a operacionalização dos sistemas de alerta especial e aviso referidos no artigo anterior são aprovados pela Comissão Nacional de Proteção Civil mediante proposta da ANPC.
+
+###### Artigo 10.º — Articulação de regimes
+
+1 - Para a emissão atempada de alertas especiais, as entidades referidas no n.º 1 do artigo 6.º devem fornecer à ANPC a informação proveniente dos respetivos sistemas de monitorização, nos termos do artigo 3.º
+
+2 - A informação referida no número anterior é difundida de acordo com os procedimentos previstos no SIOPS.
+
+3 - Para a emissão fundamentada e atempada de avisos de proteção civil, as entidades referidas no n.º 2 do artigo 6.º devem garantir às autoridades competentes as condições de utilização para as comunicações com o público, nos termos da alínea e) do n.º 1 do artigo 27.º da Lei das Comunicações Eletrónicas, aprovada pela [Lei n.º 5/2004](https://diariodarepublica.pt/dr/detalhe/lei/5-2004-581061), de 10 de fevereiro, na sua redação atual.
+
+4 - Para efeitos de emissão de avisos à população, as operadoras de comunicações fixas e móveis podem, quando para tal solicitadas, transmitir avisos de proteção civil diretamente aos respetivos clientes, respeitando os princípios e disposições vigentes em matéria de proteção de dados pessoais.
+
+5 - O presente regime não prejudica o previsto em legislação especial relativamente a avisos e alertas, nomeadamente nos regimes jurídicos relativos à emissão de avisos à navegação, à defesa da floresta contra incêndios, à segurança de barragens e à prevenção de acidentes graves com substâncias perigosas e resposta a emergências radiológicas e nucleares.
+
+###### Artigo 11.º — Regiões Autónomas
+
+O presente regime aplica-se às regiões autónomas dos Açores e da Madeira, através de diploma próprio das respetivas assembleias legislativas.
+
+###### Artigo 12.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos a 1 de janeiro de 2019.
+
+Visto e aprovado em Conselho de Ministros de 6 de dezembro de 2018. - António Luís Santos da Costa - Carlos Manuel Soares Miguel - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
+
+**Promulgado em 27 de dezembro de 2018.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 7 de janeiro de 2019.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

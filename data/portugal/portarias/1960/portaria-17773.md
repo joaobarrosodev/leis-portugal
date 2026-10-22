@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:503410:por
+title: Portaria n.º 17773
+short_title: null
+summary: Reforça verbas inscritas nas tabelas de despesa ordinária dos orçamentos gerais em vigor nas províncias ultramarinas
+  de Cabo Verde e Timor
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda - 1.ª Repartição
+proposing_entity: null
+official_number: '17773'
+official_date: null
+publication_date: '1960-06-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 141/1960, Série I de 1960-06-20
+  number: '141'
+  series: I
+  supplement: null
+  pages: 1360 - 1361
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/06/14100/13601361.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '503410'
+  dre_path: /dr/detalhe/portaria/17773-1960-503410
+  internal: pt:dre:503410:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17773-1960-503410
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17773-1960-503410
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1960-06-20T00:00:00Z'
+integrity:
+  source_sha256: 89dc21715db1e68a1258ed58b01d65d185ec5eae47f8f90369cdf695dd101c4e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-17773-503410.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 4
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17773
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do artigo 7.º do [Decreto-Lei n.º 23367](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23367-1933-326747), de 18 de Dezembro de 1933, o seguinte:
+
+a) Reforçar com 30000$00 a verba do capítulo 10.º, artigo 229.º, n.º 4), alínea b) «Encargos gerais - Deslocações de pessoal - Passagens de ou para o exterior - Por quaisquer outros motivos - A pagar na metrópole», da tabela de despesa ordinária do orçamento geral em vigor na província de Cabo Verde, tomando como contrapartida as disponibilidades existentes na verba do mesmo capítulo, artigo 233.º «Saldo orçamental», da mesma tabela de despesa;
+
+b) Reforçar com as quantias que se indicam as seguintes verbas da tabela de despesa ordinária do orçamento geral de Timor para o corrente ano:
+
+### CAPÍTULO 10.º — Encargos gerais
+
+###### Artigo 247.º, n.º 2), alínea a) «Deslocações de pessoal - Ajudas de custo e subsídios inerentes às deslocações fora da província - A pagar na metrópole» ... 50000$00
+
+###### Artigo 248.º, n.º 27), alínea a) «Diversas despesas - Despesas com assistência médica, tratamento e internamento em hospitais, manicómios, casas de saúde e sanatórios de oficiais e praças na situação de reforma - A pagar na metrópole» ... 20000$00
+
+... 70000$00
+
+tomando como contrapartida as disponibilidades que se discriminam da referida tabela de despesa:
+
+### CAPÍTULO 4.º — Polícia Internacional e de Defesa do Estado
+
+###### Artigo 123.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 50000$00
+
+### CAPÍTULO 7.º — Repartição Provincial dos Serviços de Economia
+
+###### Artigo 178.º, n.º 1), alínea a) «Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos» ... 20000$00
+
+... 70000$00
+
+Ministério do Ultramar, 20 de Junho de 1960. - Pelo Ministro do Ultramar, Adriano José Alves Moreira, Subsecretário de Estado da Administração Ultramarina.
+
+Para ser publicada no Boletim Oficial de Cabo Verde e Timor. - A. Moreira.

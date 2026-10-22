@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:3402455:por
+title: Portaria n.º 352/2000 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, do Ambiente e do Ordenamento do Território e da Reforma do Estado e da Administração Pública
+proposing_entity: null
+official_number: 352/2000 (2.ª série)
+official_date: null
+publication_date: '2000-03-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 58/2000, Série II de 2000-03-09
+  number: '58'
+  series: II
+  supplement: null
+  pages: 4604 - 4604
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/03/058000000/0460404604.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3402455'
+  dre_path: /dr/detalhe/portaria/352-2000-3402455
+  internal: pt:dre:3402455:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-2000-3402455
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/352-2000-3402455
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-03-09T00:00:00Z'
+integrity:
+  source_sha256: c4b7f37879a4153392334cd25c9783b6f0d8e3d59977ba02225daa64c835532a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-352-3402455.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 352/2000 (2.ª série)
+
+Portaria n.º 352/2000 (2.ª série). - Decorridos que estão quatro anos da sua aprovação, o quadro do Instituto de Promoção Ambiental, criado pela [Portaria n.º 869/94](https://diariodarepublica.pt/dr/detalhe/portaria/869-1994-608212), de 28 de Setembro, apresenta alguns desajustamentos, face às necessidades actuais, que se torna necessário corrigir.
+
+Considerando a premência de atenuar esse desajustamento, emergente da carência de meios humanos indispensáveis à prossecução das suas atribuições:
+
+Ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:
+
+Manda o Governo, pelos Ministros das Finanças, do Ambiente e do Ordenamento do Território e da Reforma do Estado e da Administração Pública, o seguinte:
+
+É aditado ao quadro de pessoal do Instituto de Promoção Ambiental, constante do anexo à [Portaria n.º 869/94](https://diariodarepublica.pt/dr/detalhe/portaria/869-1994-608212), de 28 de Setembro, um lugar de tesoureiro.
+
+É abatido ao referido quadro de pessoal, como contrapartida, um lugar de técnico profissional de biblioteca e documentação - carreira de dotação global.
+
+8 de Fevereiro de 2000. - Pelo Ministro das Finanças, Fernando Manuel dos Santos Vigário Pacheco, Secretário de Estado do Orçamento. - Pelo Ministro do Ambiente e do Ordenamento do Território, Rui Nobre Gonçalves, Secretário de Estado do Ambiente. - Pelo Ministro da Reforma do Estado e da Administração Pública, Alexandre António Cantigas Rosa, Secretário de Estado da Administração Pública e da Modernização Administrativa.

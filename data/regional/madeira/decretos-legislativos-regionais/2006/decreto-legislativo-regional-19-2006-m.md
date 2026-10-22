@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:353963:por
+title: Decreto Legislativo Regional n.º 19/2006/M
+short_title: null
+summary: Aprova as condições de alteração e prorrogação por mais 10 anos do prazo de concessão de exploração de jogos de fortuna
+  ou azar no casino da zona do jogo do Funchal
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 19/2006/M
+official_date: null
+publication_date: '2006-06-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/2006, Série I-A de 2006-06-05
+  number: '108'
+  series: I
+  supplement: null
+  pages: 3800 - 3801
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/06/108a00/38003801.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/19/2006/06/05/m/dre/pt/html
+  oj: null
+  dre: '353963'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/19-2006-353963
+  internal: pt:dre:353963:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2006-353963
+  metadata_url: https://data.dre.pt/eli/declegreg/19/2006/06/05/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2006-353963
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-06-05T00:00:00Z'
+integrity:
+  source_sha256: ce7e3b6e66a15ab68aaf08c5604aaad201828d2fd56319b1a53be2554ce871f8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2006/DRE-2006-19-353963.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Jogos de Fortuna e Azar
+- Estabelecimento de Jogos
+- Funchal
+- Madeira.região Autónoma
+- Prorrogação de Prazo
+- ZONA de JOGO
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/19/1996/08/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/19/1996/08/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 19/2006/M
+
+Aprova as condições de alteração e prorrogação por mais 10 anos do prazo de concessão de exploração de jogos de fortuna ou azar no casino da zona de jogo do Funchal.
+
+O turismo é um sector fundamental para a economia madeirense, contribuindo significativamente para o desenvolvimento da Região Autónoma da Madeira.
+
+A ilha de Porto Santo é um destino de referência no contexto turístico nacional e internacional, salientando-se as suas excepcionais qualidades paisagísticas e ambientais que potenciam o desenvolvimento turístico sustentado. No entanto, a dupla insularidade da ilha e o distanciamento geográfico têm constituído condicionantes ao seu desenvolvimento.
+
+É fundamental estimular os investidores hoteleiros, que contribuem para a criação de projectos turísticos naquela ilha, permitindo a criação de infra-estruturas de suporte, nomeadamente a componente hoteleira de dimensão e qualidade, perspectivando-se um crescimento da procura.
+
+Considerando que a ITI - Sociedade de Investimentos Turísticos na Ilha da Madeira, S. A., é, desde 1968, concessionária do exclusivo da exploração da zona de jogo permanente do Funchal e constitui um grupo hoteleiro de dimensão internacional;
+
+Tendo em atenção que, pelo [Decreto Legislativo Regional n.º 19/96/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-1996-405310), de 12 de Agosto, o Governo Regional da Madeira foi autorizado, desde que verificados os condicionalismos ali indicados, a prorrogar por mais 10 anos o prazo de concessão de exploração supra-referenciado, contados a partir de 2003, prorrogação essa depois concretizada através da Resolução n.º 1042/2000, aprovada em Conselho do Governo Regional de 6 de Julho e mediante escritura pública de 2 de Agosto de 2000;
+
+Considerando que aquela concessionária solicitou entretanto a prorrogação da aludida concessão, invocando três razões distintas: verificação do cumprimento integral das obrigações contratuais e legais da concessão ora vigente, contribuindo significativamente para o desenvolvimento económico e social da Região Autónoma da Madeira; necessidade de decidir sobre novos e consideráveis investimentos, tendo por objectivo a estabilidade da exploração da actividade de jogo, e uniformização com os prazos atinentes às concessões de exploração de jogos de fortuna e de azar;
+
+Confirmando-se estarem cabalmente cumpridas as obrigações assumidas no contrato de concessão e estando devidamente fundamentado o interesse público regional na alteração das circunstâncias daquele instrumento contratual, conforme previsto nos artigos 13.º e 14.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro;
+
+Estando preenchidos os pressupostos legais da verificação do interesse público na prorrogação deste contrato:
+
+Assim:
+
+A Assembleia Legislativa da Madeira decreta, de acordo com a alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e o artigo 39.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, e revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, e nos termos dos artigos 13.º e 14.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+São aprovadas pelo presente diploma e publicadas em anexo, do qual fazem parte integrante, as condições de prorrogação do prazo de concessão de exploração de jogos de fortuna ou azar no casino da zona de jogo do Funchal por mais 10 anos, ou seja, até 2023.
+
+###### Artigo 2.º — Entrada em vigor
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 5 de Abril de 2006.
+
+**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+
+**Publique-se.**
+
+**Assinado em 22 de Maio de 2006.**
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+## ANEXO — Artigo 1.º
+
+Autorização da prorrogação do actual contrato de concessão de jogos de fortuna ou azar no casino da zona de jogo do Funchal
+
+1 - É autorizada a prorrogação por mais 10 anos do prazo de concessão de exploração de jogos de fortuna ou azar no casino da zona de jogo do Funchal.
+
+2 - A prorrogação do prazo da concessão referida no número anterior efectua-se com a manutenção na íntegra de todo o clausulado contratual em vigor, exceptuando o previsto nos artigos 2.º e 3.º deste diploma.
+
+3 - Fica autorizada a celebração do contrato que introduz nova redacção à cláusula 1.ª do contrato de concessão de jogos de fortuna ou azar na zona permanente do Funchal, adjudicada à ITI - Sociedade de Investimentos Turísticos na Ilha da Madeira, S. A., estabelecendo a prorrogação do prazo de concessão até 31 de Dezembro de 2023, a qual adiciona um novo número, o n.º 26, à cláusula 4.ª, nos termos referidos no presente diploma.
+
+###### Artigo 2.º — Contrapartidas
+
+1 - É adicionado o n.º 26 à cláusula 4.ª do mesmo contrato, estabelecendo como contrapartidas a obrigatoriedade de, no prazo máximo de dois anos contados da data da aprovação da resolução do Conselho do Governo que autoriza a prorrogação do contrato de concessão e assegura a respectiva exploração, construir um estabelecimento hoteleiro, com um investimento mínimo de (euro) 30000000, certificado por auditores independentes, com categoria não inferior a 4 estrelas, na ilha de Porto Santo, a explorar directamente por sociedades do mesmo grupo societário a quem seja subcontratada a exploração ou por subconcessionárias, mediante autorização do Governo Regional.
+
+2 - Como contrapartidas adicionais, a concessionária deverá ainda, 30 dias antes da celebração do contrato a que se alude no artigo 1.º deste diploma:
+
+a) Pagar à Região Autónoma da Madeira a título de contrapartida pecuniária o valor de (euro) 4250000;
+
+b) Celebrar com a Secretaria Regional do Turismo e Cultura um acordo para a utilização temporária e a título gratuito do espaço do actual Centro de Congressos da Madeira, anexo ao Casino da Madeira, a ser utilizado pela Fundação Madeira Classic;
+
+c) Realização de investimentos de valorização na ordem dos (euro) 3000000, no prazo de três anos, no Casino da Madeira, contados da data de aprovação da resolução do Conselho de Governo que autoriza a prorrogação do contrato de concessão.
+
+###### Artigo 3.º — Isenções de taxas ou impostos
+
+As isenções de impostos ou taxas aplicáveis vigoram de acordo com os seguintes condicionalismos legais e temporais:
+
+a) Zona de jogo do Funchal - manutenção do clausulado em vigor e vigência até 31 de Dezembro de 2023;
+
+b) Construção e exploração do estabelecimento hoteleiro nas condições previstas no artigo 2.º, beneficiando estas actividades até 31 de Dezembro de 2023 das seguintes isenções ou taxas, nos termos previstos no n.º 2 do artigo 84.º e nos artigos 92.º e 93.º do [Decreto-Lei n.º 422/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1989-550804), de 2 de Dezembro:
+
+i) Isenção de tributação geral ou local;
+
+ii) Isenção de imposto municipal sobre as transmissões onerosas de imóveis, para efeitos de aquisições dos prédios exclusivamente destinados à construção do estabelecimento hoteleiro previsto no artigo 2.º deste diploma;
+
+iii) Isenção de taxas por alvarás e licenças municipais aplicáveis no âmbito do cumprimento do disposto no n.º 2 do presente diploma.

@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:626804:por
+title: Despacho Normativo n.º 299/82
+short_title: null
+summary: Aprova a programação escalonada do preenchimento dos lugares vagos e nunca providos existentes no quadro de pessoal
+  do Instituto Nacional de Estatística
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Reforma Administrativa
+proposing_entity: null
+official_number: 299/82
+official_date: null
+publication_date: '1982-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 301/1982, 4º Suplemento, Série I de 1982-12-31
+  number: '301'
+  series: I
+  supplement: 4º Suplemento
+  pages: 4326-(56) a 4326-(57)
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30104/00560057.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '626804'
+  dre_path: /dr/detalhe/despacho-normativo/299-1982-626804
+  internal: pt:dre:626804:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/299-1982-626804
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/299-1982-626804
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-12-31T00:00:00Z'
+integrity:
+  source_sha256: 0374c39ac34fdc7ab5fd282521d3cf1d34426b36e18050495c1132d079709a19
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-299-626804.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 299/82
+
+Considerando que o Instituto Nacional de Estatística possui no seu quadro de pessoal lugares vagos e nunca providos;
+
+Considerando também que a última alteração ao seu quadro de pessoal se operou por força do [Decreto Regulamentar n.º 79/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/79-1980-459443), de 18 de Dezembro;
+
+A fim de dar cumprimento ao estipulado no artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio;
+
+Determina-se:
+
+É aprovada, nos termos e para os efeitos do artigo 7.º do [Decreto-Lei n.º 165/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1982-392861), de 10 de Maio, a programação escalonada do preenchimento dos lugares vagos e nunca providos existentes no quadro de pessoal do Instituto Nacional de Estatística e que constam do mapa anexo.
+
+Ministérios das Finanças e do Plano e da Reforma Administrativa, 30 de Setembro de 1982. - O Ministro de Estado e das Finanças e do Plano, João Maurício Fernandes Salgueiro. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.
+
+Mapa de planificação
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1982/12/30104/00560057.pdf))](https://files.diariodarepublica.pt/1s/1982/12/30104/00560057.pdf)

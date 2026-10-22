@@ -1,0 +1,1057 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:388227:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-73000173",
+ "dre_path": "/dr/detalhe/decreto-lei/200-2001-388227",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-07-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "72998907",
+    "72998908",
+    "72998909",
+    "72998910",
+    "72998911",
+    "72998912",
+    "72998913",
+    "72998914",
+    "72998915",
+    "72998916",
+    "72998917",
+    "72998918",
+    "72998919",
+    "72998920",
+    "72998921",
+    "72998922",
+    "72998923",
+    "72998924",
+    "72998925",
+    "72998926",
+    "72998927",
+    "72998928",
+    "72998929",
+    "72998930",
+    "72998931",
+    "72998932",
+    "72998933",
+    "72998934",
+    "72998935",
+    "72998936",
+    "72998937",
+    "72998938",
+    "72998939",
+    "72998940",
+    "72998941",
+    "72998942",
+    "72998943",
+    "72998944",
+    "72998945",
+    "72998946",
+    "72998947",
+    "72998948",
+    "72998949",
+    "72998950"
+   ]
+  },
+  {
+   "date": "2003-11-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:446475:por",
+     "title": "Lei n.º 100/2003",
+     "published": "2003-11-15",
+     "dre_path": "/dr/detalhe/lei/100-2003-446475"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "72998907",
+    "72998908",
+    "72998909",
+    "72998910",
+    "72998911",
+    "72998912",
+    "72998913",
+    "72998956",
+    "72998915",
+    "72998916",
+    "72998917",
+    "72998918",
+    "72998919",
+    "72998920",
+    "72998921",
+    "72998922",
+    "72998923",
+    "72998924",
+    "72998925",
+    "72998926",
+    "72998927",
+    "72998928",
+    "72998929",
+    "72998930",
+    "72998931",
+    "72998932",
+    "72998933",
+    "72998934",
+    "72998935",
+    "72998936",
+    "72998937",
+    "72998938",
+    "72998939",
+    "72998940",
+    "72998941",
+    "72998942",
+    "72998943",
+    "72998944",
+    "72998945",
+    "72998946",
+    "72998947",
+    "72998948",
+    "72998949",
+    "72998950",
+    "72998955",
+    "72998952"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:168628:por",
+     "title": "Declaração de Rectificação n.º 14-B/2001",
+     "published": "2001-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/14-b-2001-168628",
+     "date": "2004-09-14"
+    }
+   ]
+  },
+  {
+   "date": "2009-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:410519:por",
+     "title": "Lei n.º 97-A/2009",
+     "published": "2009-09-03",
+     "dre_path": "/dr/detalhe/lei/97-a-2009-410519"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo I"
+   ],
+   "fragments": [
+    "72998907",
+    "73011782",
+    "73011783",
+    "73011784",
+    "73011785",
+    "73011786",
+    "73011787",
+    "73011788",
+    "73011789",
+    "73011790",
+    "73011791",
+    "73011792",
+    "73011793",
+    "73011794",
+    "73011795",
+    "73011796",
+    "73011797",
+    "73011798",
+    "73011799",
+    "73011800",
+    "73011801",
+    "72998928",
+    "72998929",
+    "72998930",
+    "72998931",
+    "72998932",
+    "72998933",
+    "72998934",
+    "72998935",
+    "72998936",
+    "72998937",
+    "72998938",
+    "72998939",
+    "72998940",
+    "72998941",
+    "72998942",
+    "72998943",
+    "72998944",
+    "72998945",
+    "72998946",
+    "72998947",
+    "72998948",
+    "72998949",
+    "72998950",
+    "72998955",
+    "72998952"
+   ]
+  },
+  {
+   "date": "2009-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:482846:por",
+     "title": "Decreto-Lei n.º 300/2009",
+     "published": "2009-10-19",
+     "dre_path": "/dr/detalhe/decreto-lei/300-2009-482846"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo II",
+    "Revoga Capítulo III",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º"
+   ],
+   "fragments": [
+    "72998907",
+    "73011782",
+    "73011783",
+    "73011784",
+    "73011785",
+    "73011786",
+    "73011787",
+    "73011788",
+    "73011789",
+    "73011790",
+    "73011791",
+    "73011792",
+    "73011793",
+    "73011794",
+    "73011795",
+    "73011796",
+    "73011797",
+    "73011798",
+    "73011799",
+    "73011800",
+    "73011801",
+    "73011826",
+    "73011827",
+    "73011828",
+    "73011829",
+    "73011830",
+    "73011831",
+    "73011832",
+    "73011833",
+    "73011834",
+    "73011835",
+    "73011836",
+    "73011837",
+    "73011838",
+    "73011839",
+    "73011840",
+    "73011841",
+    "73011842",
+    "72998945",
+    "73011849",
+    "73011850",
+    "73011851",
+    "73011852",
+    "72998950",
+    "72998955",
+    "72998952"
+   ]
+  }
+ ],
+ "fragments": {
+  "72998907": {
+   "fragment_id": "73000174",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 200/2001\n\nde 13 de Julho\n\nA reforma do sistema de justiça militar, na sua lógica de horizontalização do direito penal comum, tem necessariamente incidência sobre o órgão de polícia criminal ao qual é cometida a investigação dos crimes estritamente militares - a Polícia Judiciária Militar.\n\nAcresce que os diversos diplomas que criaram, estruturaram e fixaram as competências do Serviço de Polícia Judiciária Militar -e que ora são objecto de revogação - já não se ajustam às realidades processuais e administrativas vigentes, constituindo um verdadeiro emaranhado legal de difícil consulta e interpretação. Na verdade, há muito que se vem sentindo a falta de um corpo harmónico de normas que permita adequar a Polícia Judiciária Militar às concretas finalidades legais que lhe cumpre prosseguir.\n\nO presente projecto visa dotar a Polícia Judiciária Militar do diploma orgânico próprio a que se refere o n.º 3 do artigo 23.º do Decreto-Lei n.º 47/93, de 26 de Fevereiro (Lei Orgânica do Ministério da Defesa Nacional). A transição do Serviço de Polícia Judiciária Militar para a estrutura do Ministério da Defesa Nacional (com a designação de Polícia Judiciária Militar), operada pela alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 47/93 (cf. ainda o artigo 27.º do Decreto-Lei n.º 47/93, de 26 de Fevereiro), constitui a justificação para o cumprimento das exigências legais acima mencionadas.\n\nNa elaboração do projecto houve a preocupação de não se empolarem as estruturas orgânicas da Polícia Judiciária Militar ou os seus efectivos de pessoal, atento, sobretudo, o âmbito da investigação criminal em causa. Alcançou-se, assim, uma acentuada diminuição nos quantitativos de meios humanos sem prejuízo da eficiência, que se pretende acrescida, conseguida através de uma mais racional definição de estruturas.\n\nDentro desta ordem de ideias, foi regulado o funcionamento da Polícia Judiciária Militar, adoptando-se disposições tendentes a clarificar a sua natureza, competência e princípios de actuação (capítulo I), estrutura e funcionamento (capítulo II) e pessoal (capítulo III). Constituiu especial preocupação assegurar a aproximação entre os modelos previstos para a Polícia Judiciária Militar e para a Polícia Judiciária, uma vez que são os únicos órgãos de polícia criminal que têm a investigação criminal como actividade não só principal como exclusiva. Logo, a similitude dos modelos, atentas as especificidades, mais do que desejável, é imprescindível.\n\nNo primeiro dos mencionados capítulos define-se a Polícia Judiciária Militar como um corpo superior de polícia criminal auxiliar da administração da justiça, organizado hierarquicamente na dependência do Ministro da Defesa Nacional e fiscalizado nos termos da lei.\n\nO recrutamento e o regime do pessoal da Polícia Judiciária Militar não revestem especialidades assinaláveis, acolhendo as normas próprias da Lei Orgânica do Ministério da Defesa Nacional e as leis gerais da função pública. O regime do pessoal militar que exerça funções na Polícia Judiciária Militar é o decorrente da legislação específica aplicável e o previsto na Lei Orgânica.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\nLei Orgânica da Polícia Judiciária Militar\n\n> Nota: [Artigo 13.º, Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846) Revoga os artigos 18.º e seguintes do presente Decreto-Lei, sem prejuízo do disposto no seu artigo 37.º"
+  },
+  "72998908": {
+   "fragment_id": "73011175",
+   "type": 1,
+   "heading": "Capítulo I — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza"
+  },
+  "72998909": {
+   "fragment_id": "73011176",
+   "type": 8,
+   "heading": "Secção I — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Competência"
+  },
+  "72998910": {
+   "fragment_id": "73011177",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Polícia Judiciária Militar é um corpo superior de polícia criminal auxiliar da administração da justiça, organizado hierarquicamente na dependência do Ministro da Defesa Nacional e fiscalizado nos termos da lei.\n\n2 - A Polícia Judiciária Militar é dotada de autonomia administrativa."
+  },
+  "72998911": {
+   "fragment_id": "73011178",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência\n\nCompete à Polícia Judiciária Militar:\n\na) Coadjuvar as autoridades judiciárias na investigação;\n\nb) Desenvolver e promover as acções de prevenção e investigação da sua competência ou que lhe sejam cometidas pelas autoridades judiciárias competentes."
+  },
+  "72998912": {
+   "fragment_id": "73011179",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência em matéria de coadjuvação das autoridades judiciárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência em matéria de coadjuvação das autoridades judiciárias\n\n1 - A Polícia Judiciária Militar coadjuva as autoridades judiciárias em processos relativos a crimes cuja investigação lhe incumba realizar ou quando se afigure necessária a prática de actos que antecedem o julgamento e que requerem conhecimentos ou meios técnicos especiais.\n\n2 - Para efeitos do disposto no número anterior, a Polícia Judiciária Militar actua no processo sob a direcção das autoridades judiciárias e na sua dependência funcional, sem prejuízo da respectiva organização hierárquica."
+  },
+  "72998913": {
+   "fragment_id": "73011180",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência em matéria de prevenção criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência em matéria de prevenção criminal\n\n1 - Em matéria de prevenção criminal, compete à Polícia Judiciária Militar efectuar a detecção e dissuasão de situações propícias à prática de crimes estritamente militares, em ligação com outros órgãos de polícia criminal e com as autoridades militares.\n\n2 - No exercício das acções a que se refere o número anterior, a Polícia Judiciária Militar tem acesso à informação necessária à caracterização, identificação e localização das actividades ali referidas, podendo proceder à identificação de pessoas e realizar vigilâncias, se necessário, com recurso a todos os meios e técnicas de registo de som e de imagem, bem como a revistas e buscas, ao abrigo do disposto no Código de Processo Penal."
+  },
+  "72998914": {
+   "fragment_id": "73011181",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência em matéria de investigação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência em matéria de investigação criminal\n\n1 - É da competência reservada da Polícia Judiciária Militar a investigação dos crimes estritamente militares.\n\n2 - A Polícia Judiciária Militar e os demais órgãos de polícia criminal colaboram na investigação dos crimes comuns praticados ou a investigar dentro das unidades, estabelecimentos e órgãos militares."
+  },
+  "72998915": {
+   "fragment_id": "73011182",
+   "type": 11,
+   "heading": "Artigo 6.º — Dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dever de cooperação\n\n1 - A Polícia Judiciária Militar está sujeita ao dever de cooperação nos termos da lei.\n\n2 - As entidades públicas e privadas, nas pessoas dos respectivos representantes, devem prestar à Polícia Judiciária Militar a cooperação que justificadamente lhes for solicitada."
+  },
+  "72998916": {
+   "fragment_id": "73011183",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito de acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direito de acesso à informação\n\n1 - A Polícia Judiciária Militar acede directamente à informação relativa à identificação civil e criminal constante dos ficheiros magnéticos dos serviços de identificação civil e criminal e presta obrigatoriamente colaboração na análise de aplicações de tratamento automático da informação com interesse para a prevenção e investigação criminal, quando efectuada pelo Instituto das Tecnologias de Informação na Justiça.\n\n2 - A Polícia Judiciária Militar acede à informação de interesse criminal contida nos ficheiros de outros organismos nacionais e internacionais, sem prejuízo do disposto nas normas e procedimentos aplicáveis.\n\n3 - A Polícia Judiciária Militar designa um oficial de ligação junto da Polícia Judiciária para articulação específica com o Laboratório de Polícia Científica e o Instituto Superior de Polícia Judiciária e Ciências Criminais."
+  },
+  "72998917": {
+   "fragment_id": "73011184",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de comparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dever de comparência\n\n1 - Qualquer pessoa, quando devidamente notificada ou convocada pela Polícia Judiciária Militar, tem o dever de comparecer nos dia, hora e local designados, sob pena das sanções previstas na lei processual penal.\n\n2 - Tratando-se de militares no activo, a notificação faz-se, para qualquer serviço da Polícia Judiciária Militar, sempre por intermédio do comando de que dependem.\n\n3 - Em caso de urgência, a notificação ou convocação referidas nos números anteriores podem ser feitas por qualquer meio destinado a dar conhecimento do facto, inclusivamente por via telefónica e, neste último caso, a entidade que faz a notificação ou a convocação identifica-se e dá conta do cargo que desempenha, bem como dos elementos que permitam ao chamado inteirar-se do acto para que é convocado e efectuar, caso queira, a contraprova de que se trata de um telefonema oficial e verdadeiro, devendo lavrar-se cota no auto quanto ao meio utilizado.\n\n4 - Quando o notificando ou a pessoa convocada tiver de se deslocar a um local que se situe fora da comarca da sua residência, local de trabalho ou do lugar onde se encontrar, a Polícia Judiciária Militar deve assegurar os meios de transporte necessários e a assistência devida, desde que tal lhe tenha sido solicitado."
+  },
+  "72998918": {
+   "fragment_id": "73011185",
+   "type": 8,
+   "heading": "Secção II — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direitos e deveres"
+  },
+  "72998919": {
+   "fragment_id": "73011186",
+   "type": 11,
+   "heading": "Artigo 9.º — Autoridades de polícia criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autoridades de polícia criminal\n\n1 - São autoridades de polícia criminal, nos termos e para os efeitos do Código de Processo Penal (CPP), os seguintes funcionários da Polícia Judiciária Militar:\n\na) O director;\n\nb) O subdirector;\n\nc) Os chefes de divisão das divisões de investigação;\n\nd) Os oficiais investigadores.\n\n2 - O demais pessoal de investigação criminal pode, com observância das disposições legais, proceder à identificação de qualquer pessoa."
+  },
+  "72998920": {
+   "fragment_id": "73011187",
+   "type": 11,
+   "heading": "Artigo 10.º — Diligências de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Diligências de investigação\n\n1 - As autoridades referidas no artigo anterior podem, nos termos do CPP e do CJM, ordenar comparências, realizar revistas, identificação de suspeitos, apreensões, exames e peritagens, expedir deprecadas e requisitar informações e certificados de registo criminal, bem como efectuar quaisquer outras diligências previstas na lei processual.\n\n2 - As buscas domiciliárias, a apreensão de correspondência, a intercepção de telecomunicações, as autópsias e os exames que possam ofender o pudor dos examinandos dependem sempre de prévio mandado escrito do juiz de instrução, mediante proposta fundamentada do oficial investigador.\n\n3 - As diligências referidas nos números anteriores, quando efectuadas em unidades, estabelecimentos, órgãos ou navios, devem ser previamente comunicadas ao respectivo comandante ou chefe."
+  },
+  "72998921": {
+   "fragment_id": "73011188",
+   "type": 11,
+   "heading": "Artigo 11.º — Segredo de justiça e profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Segredo de justiça e profissional\n\n1 - Os actos processuais de investigação criminal e de coadjuvação das autoridades judiciárias estão sujeitos ao segredo de justiça, nos termos da lei.\n\n2 - Os funcionários em serviço na Polícia Judiciária Militar não podem fazer revelações públicas relativas a processos ou sobre matérias de índole reservada, salvo o que se encontra previsto neste diploma sobre informação pública e acções de natureza preventiva junto da população e ainda o disposto nas leis de processo penal.\n\n3 - As declarações a que alude o número anterior, quando admissíveis, dependem de prévia autorização do director, sob pena de procedimento disciplinar, sem prejuízo da responsabilidade penal a que houver lugar.\n\n4 - As acções de prevenção, os procedimentos contra-ordenacionais, disciplinares, de inquérito, de sindicância e de averiguações, bem como de inspecção, estão sujeitos ao segredo profissional, nos termos da lei geral."
+  },
+  "72998922": {
+   "fragment_id": "73011189",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deveres especiais\n\nSão deveres especiais do pessoal da Polícia Judiciária Militar, sem prejuízo dos decorrentes da condição militar, se for o caso:\n\na) Garantir a vida e a integridade física dos detidos ou das pessoas que se achem sob a sua custódia ou protecção, no estrito respeito da honra e dignidade da pessoa humana;\n\nb) Actuar sem discriminação em razão de ascendência, sexo, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação económica ou condição social;\n\nc) Identificar-se como funcionário da Polícia Judiciária Militar no momento em que devam proceder a identificação ou detenção;\n\nd) Observar estritamente, e com a diligência devida, a tramitação e os prazos e requisitos exigidos pela lei sempre que devam proceder à detenção de alguém;\n\ne) Actuar com a decisão e a prontidão necessárias, quando da sua actuação dependa impedir a prática de um dano grave, imediato e irreparável, observando os princípios da adequação, da oportunidade e da proporcionalidade na utilização dos meios disponíveis;\n\nf) Agir com a determinação necessária, mas sem recorrer à força mais do que o estritamente razoável para cumprir uma tarefa legalmente exigida ou autorizada."
+  },
+  "72998923": {
+   "fragment_id": "73011190",
+   "type": 11,
+   "heading": "Artigo 13.º — Uso de arma de fogo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Uso de arma de fogo\n\n1 - As autoridades de polícia criminal, o pessoal de investigação criminal, o pessoal de polícia técnica a exercer funções nos serviços de lofoscopia e o pessoal de segurança têm direito ao uso e porte de arma de calibre e tipo aprovados por portaria do Ministro da Defesa Nacional, independentemente de licença, ficando obrigados ao seu manifesto quando as mesmas sejam de sua propriedade.\n\n2 - A Polícia Judiciária Militar pode utilizar armas de qualquer modelo e calibre.\n\n3 - O recurso a armas de fogo por funcionários da Polícia Judiciária Militar é regulado, com as necessárias adaptações, pelo Decreto-Lei n.º 457/99, de 5 de Novembro."
+  },
+  "72998924": {
+   "fragment_id": "73011191",
+   "type": 11,
+   "heading": "Artigo 14.º — Serviço permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Serviço permanente\n\n1 - As actividades de prevenção e investigação criminais são de carácter permanente e obrigatório, estando sujeitas a segredo de justiça.\n\n2 - A permanência nos serviços pode ser assegurada, fora do horário normal e nos dias de descanso semanal e feriados, por piquetes de atendimento e unidades de prevenção, cuja regulamentação é fixada por despacho do director.\n\n3 - Os órgãos de polícia criminal que tenham conhecimento da preparação ou consumação de algum crime, ainda que não estritamente militar, devem, quando necessário, tomar as providências possíveis e necessárias para evitar a sua prática ou para descobrir e deter os seus autores, com observância das formalidades legais, até à intervenção da autoridade competente.\n\n4 - Se algum investigador apurar factos que interessem à investigação de que outro esteja incumbido, deve comunicar-lhos imediatamente."
+  },
+  "72998925": {
+   "fragment_id": "73011192",
+   "type": 11,
+   "heading": "Artigo 15.º — Objectos que revertem a favor da Polícia Judiciária Militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Objectos que revertem a favor da Polícia Judiciária Militar\n\nOs objectos apreendidos pela Polícia Judiciária Militar que venham a ser declarados perdidos a favor do Estado são-lhe afectos quando:\n\na) Possuam interesse criminalístico, histórico, documental ou museológico;\n\nb) Se trate de armas, munições, viaturas, equipamentos de telecomunicações e de informática ou outro com interesse para a instituição."
+  },
+  "72998926": {
+   "fragment_id": "73011193",
+   "type": 11,
+   "heading": "Artigo 16.º — Impedimentos, recusas e escusas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Impedimentos, recusas e escusas\n\n1 - O regime de impedimentos, recusas e escusas previsto no Código de Processo Penal é aplicável, com as devidas adaptações, aos funcionários de investigação criminal, peritos e intérpretes da Polícia Judiciária Militar\n\n2 - A declaração de impedimento e o seu requerimento, bem como o requerimento de recusa e o pedido de escusa, são dirigidos ao subdirector."
+  },
+  "72998927": {
+   "fragment_id": "73011194",
+   "type": 11,
+   "heading": "Artigo 17.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Legislação subsidiária\n\nÀ matéria regulada no presente capítulo são subsidiariamente aplicáveis as correspondentes disposições da Lei Orgânica da Polícia Judiciária, com as necessárias adaptações."
+  },
+  "72998928": {
+   "fragment_id": "73011195",
+   "type": 1,
+   "heading": "Capítulo II — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização"
+  },
+  "72998929": {
+   "fragment_id": "73011196",
+   "type": 11,
+   "heading": "Artigo 18.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Estrutura\n\n1 - A Polícia Judiciária Militar integra:\n\na) O director;\n\nb) O subdirector;\n\nc) A Direcção de Serviços Administrativos e Financeiros (DSAF);\n\nd) A 1.ª Divisão de Investigação Criminal (PDIC), com sede em Lisboa;\n\ne) A 2.ª Divisão de Investigação Criminal (SDIC), com sede no Porto;\n\nf) A Divisão de Apoio Técnico (DAT).\n\n2 - A área de jurisdição das divisões de investigação é definida por portaria do Ministro, ouvido o director da Polícia Judiciária Militar."
+  },
+  "72998930": {
+   "fragment_id": "73011197",
+   "type": 11,
+   "heading": "Artigo 19.º — Director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Director\n\nA Polícia Judiciária Militar é dirigida por um director, equiparado a director-geral, ao qual compete, em geral, exercer as competências que lhe são conferidas por lei e em especial:\n\na) Orientar e coordenar superiormente a Polícia Judiciária Militar;\n\nb) Orientar a elaboração do orçamento da Polícia Judiciária Militar e dirigir a sua execução;\n\nc) Propor ao Ministro as medidas adequadas ao funcionamento dos serviços e prestar as informações e os pareceres que aquele lhe solicitar;\n\nd) Apresentar ao Ministro, até 31 de Março de cada ano, o relatório anual da Polícia Judiciária Militar;\n\ne) Corresponder-se directamente com quaisquer entidades, em matérias do interesse da Polícia Judiciária Militar;\n\nf) Prestar as informações de serviço do pessoal militar e homologar as do pessoal civil."
+  },
+  "72998931": {
+   "fragment_id": "73011198",
+   "type": 11,
+   "heading": "Artigo 20.º — Subdirector",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Subdirector\n\nAo subdirector, equiparado a subdirector-geral, compete coordenar e orientar as actividades de investigação criminal e os serviços de apoio técnico e coadjuvar o director no exercício das suas funções, substituindo-o nas suas ausências ou impedimentos."
+  },
+  "72998932": {
+   "fragment_id": "73011199",
+   "type": 11,
+   "heading": "Artigo 21.º — Direcção de Serviços Administrativos e Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Direcção de Serviços Administrativos e Financeiros\n\n1 - À DSAF compete, designadamente:\n\na) Elaborar o orçamento e acompanhar a sua execução;\n\nb) Verificar a conformidade legal e a regularidade de todos os documentos de receita e de despesa e submetê-los a despacho;\n\nc) Organizar a contabilidade e executar a respectiva escrituração;\n\nd) Verificar a exactidão dos registos da Tesouraria;\n\ne) Proceder à verificação e liquidação das contas correntes mensais das divisões de investigação;\n\nf) Processar os vencimentos e demais abonos e descontos do pessoal;\n\ng) Organizar os concursos públicos e a elaboração dos contratos para a realização de obras e para a aquisição de bens e serviços;\n\nh) Dar o apoio necessário em matéria financeira às delegações;\n\ni) Organizar a conta de gerência;\n\nj) Assegurar a arrumação e o arquivo de todos os documentos que, nos termos da lei, tenham de ficar depositados;\n\nl) Manter actualizado o inventário e património afecto à Polícia Judiciária Militar e assegurar que o mesmo se mantenha nos locais próprios;\n\nm) Assegurar a informação necessária à correcta gestão do pessoal da Polícia Judiciária Militar, submetendo a despacho os processos relativos a recrutamento, selecção e provimento, bem como os respeitantes a promoção, nomeação e aposentação do pessoal;\n\nn) Executar as tarefas que superiormente forem determinadas pelo director da Polícia Judiciária Militar.\n\n2 - A DSAF compreende a Secção de Pessoal (SP).\n\n3 - Adstrita à DSAF funciona a Tesouraria."
+  },
+  "72998933": {
+   "fragment_id": "73011200",
+   "type": 11,
+   "heading": "Artigo 22.º — Secção de Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Secção de Pessoal\n\nA Secção de Pessoal exerce as competências previstas nas alíneas f) e m) do n.º 1 do artigo anterior."
+  },
+  "72998934": {
+   "fragment_id": "73011201",
+   "type": 11,
+   "heading": "Artigo 23.º — Tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Tesouraria\n\n1 - À Tesouraria compete, designadamente:\n\na) Efectuar os recebimentos e pagamentos devidamente autorizados;\n\nb) Elaborar a folha de caixa e os respectivos registos;\n\nc) Assegurar a ligação com as instituições bancárias;\n\nd) Promover a segurança dos valores à exclusiva guarda e responsabilidade do tesoureiro, na sua qualidade de único claviculário do cofre.\n\n2 - A Tesouraria é coordenada por um tesoureiro."
+  },
+  "72998935": {
+   "fragment_id": "73011202",
+   "type": 11,
+   "heading": "Artigo 24.º — Divisões de investigação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Divisões de investigação criminal\n\n1 - A PDIC e a SDIC são dirigidas por um chefe de divisão com o posto de capitão-de-fragata ou tenente-coronel, ao qual compete, em geral, nomear as equipas destinadas a coadjuvar as autoridades judiciárias nas diligências que estas entendam delegar e, em especial:\n\na) Orientar, dirigir e coordenar a actividade das equipas de investigação, propondo ao subdirector as medidas que entenda necessárias à eficiente actuação daquelas;\n\nb) Dirigir os serviços de piquete e unidades de prevenção, nos termos definidos pelo director;\n\nc) Elaborar, no final das diligências efectuadas, um breve relatório conclusivo;\n\nd) Remeter à SP todos os elementos susceptíveis de registo e tratamento;\n\ne) Elaborar, no respectivo âmbito, as informações anuais do pessoal que lhe esteja directamente subordinado.\n\n2 - O chefe de divisão é substituído nas suas ausências e impedimentos pelo chefe da equipa de investigação mais graduado ou antigo ou por oficial nomeado pelo director.\n\n3 - A PDIC compreende três equipas de investigação e a SDIC duas, compreendendo esta ainda a Secção de Apoio Geral (SAG).\n\n4 - O director pode cometer à PDIC a investigação de crimes estritamente militares cometidos no estrangeiro ou cuja gravidade e circunstâncias da sua prática o justifiquem, podendo ser-lhe agregadas, sempre que necessário, outras equipas de investigação."
+  },
+  "72998936": {
+   "fragment_id": "73011203",
+   "type": 11,
+   "heading": "Artigo 25.º — Equipas de investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Equipas de investigação\n\n1 - As equipas de investigação são compostas por dois militares, sendo um oficial investigador chefe de equipa e um sargento investigador, podendo agregar outros investigadores quando as circunstâncias o aconselhem.\n\n2 - São funções do oficial investigador:\n\na) Executar os serviços de prevenção e investigação criminais que lhe sejam ordenados;\n\nb) Efectuar as diligências que lhe forem delegadas pelas autoridades judiciárias;\n\nc) Fornecer ao chefe de divisão todos os elementos susceptíveis de registo e tratamento;\n\nd) Integrar os serviços de piquete e unidades de prevenção, nos termos fixados pelo director;\n\ne) O exercício de outras funções fixadas na lei.\n\n3 - São funções do sargento investigador:\n\na) Coadjuvar o chefe da equipa e executar, sob orientação deste, diligências de investigação e prevenção criminal;\n\nb) Desempenhar, nos processos, funções de escrivão;\n\nc) Integrar os serviços de piquete e unidades de prevenção, nos termos fixados pelo director;\n\nd) O exercício de outras funções fixadas na lei."
+  },
+  "72998937": {
+   "fragment_id": "73011204",
+   "type": 11,
+   "heading": "Artigo 26.º — Divisão de Apoio Técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Divisão de Apoio Técnico\n\nÀ DAT compete, designadamente:\n\na) Promover a movimentação geral dos processos e deprecadas, escriturando os livros respectivos;\n\nb) Promover a distribuição de processos e deprecadas sob direcção da autoridade judiciária competente;\n\nc) Organizar os ficheiros de processos, notícias e dados técnicos;\n\nd) Elaborar os mapas estatísticos do movimento dos processos e deprecadas, actividades dos investigadores e criminalidade militar;\n\ne) Proceder ao arquivamento dos processos e organizar e gerir o arquivo de processos;\n\nf) Dar entrada a toda a correspondência processual e proceder à sua distribuição;\n\ng) Organizar, registar e gerir os processos de instrução criminal;\n\nh) Cumprir os despachos dos magistrados judiciais;\n\ni) Identificar e notificar os arguidos e testemunhas;\n\nj) Reduzir a escrito os interrogatórios dos arguidos e a inquirição das testemunhas;\n\nk) Elaborar a ordem de serviço;\n\nl) Assegurar ao subdirector o apoio de que careça, encaminhando-lhe todo o expediente relativo à investigação;\n\nm) Elaborar os ficheiros das armas de guerra desaparecidas;\n\nn) Assegurar o expediente destinado às DIC;\n\no) Planear e apoiar cursos e estágios de formação e aperfeiçoamento do pessoal;\n\np) Programar e orientar a instrução de tiro e de educação física;\n\nq) Assegurar a produção, reprodução e documentação técnica necessária à actividade da Polícia Judiciária Militar;\n\nr) Executar trabalhos de reprografia, brochura e encadernação;\n\ns) Assegurar o funcionamento do laboratório de fotografia e lofoscopia;\n\nt) Superintender na segurança do pessoal, instalações e matérias classificadas;\n\nu) Difundir junto dos órgãos, entidades e estabelecimentos militares os aspectos relacionados com a actividade da Polícia Judiciária Militar;\n\nv) Assegurar às autoridades judiciárias as dotações de pessoal de que careçam;\n\nw) Superintender o pessoal auxiliar e coordenar a organização do respectivo trabalho;\n\nx) Assegurar a conservação e distribuição dos artigos de consumo corrente e dos impressos armazenados, bem como a gestão do armazém;\n\ny) Guardar, conservar e distribuir o equipamento, o armamento e as munições;\n\nz) Garantir a manutenção das instalações e o funcionamento dos serviços de apoio;\n\naa) Proceder à gestão de viaturas automóveis."
+  },
+  "72998938": {
+   "fragment_id": "73011205",
+   "type": 11,
+   "heading": "Artigo 27.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Estrutura\n\nA DAT compreende:\n\na) A Secção de Processos (SP), com a competência prevista nas alíneas a) a l) do artigo anterior;\n\nb) A Secção de Apoio Geral (SAG), com a competência prevista nas alíneas m) a aa) do artigo anterior."
+  },
+  "72998939": {
+   "fragment_id": "73011206",
+   "type": 11,
+   "heading": "Artigo 28.º — Núcleo de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Núcleo de Informática\n\n1 - Junto da DAT funciona o Núcleo de Informática (NI), ao qual compete, designadamente, proceder à organização, aplicação e gestão dos sistemas informáticos.\n\n2 - O NI é coordenado por técnico com formação específica na área."
+  },
+  "72998940": {
+   "fragment_id": "73011207",
+   "type": 1,
+   "heading": "Capítulo III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pessoal"
+  },
+  "72998941": {
+   "fragment_id": "73011208",
+   "type": 11,
+   "heading": "Artigo 29.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Quadro de pessoal\n\n1 - O pessoal dirigente da Polícia Judiciária Militar é o constante do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n2 - O quadro único de pessoal da Polícia Judiciária Militar é aprovado por portaria conjunta dos Ministros da Defesa Nacional, das Finanças e da Reforma do Estado e da Administração Pública."
+  },
+  "72998942": {
+   "fragment_id": "73011209",
+   "type": 11,
+   "heading": "Artigo 30.º — Provimento de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Provimento de pessoal\n\n1 - Os cargos dirigentes e os lugares de pessoal não dirigente da Polícia Judiciária Militar são providos nos termos da lei geral e da Lei Orgânica do Ministério da Defesa Nacional, com as especificidades previstas no presente diploma.\n\n2 - Os militares providos podem prestar serviço na situação de activo, em comissão normal, ou na situação da reserva e ainda nos regimes de voluntariado e contrato.\n\n3 - Os oficiais investigadores são oficiais dos três ramos das Forças Armadas, aprovados em curso de formação regulado por despacho do Ministro.\n\n4 - Os sargentos investigadores são sargentos dos três ramos das Forças Armadas, aprovados em curso de formação regulado por despacho do Ministro."
+  },
+  "72998943": {
+   "fragment_id": "73011210",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime do pessoal militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regime do pessoal militar\n\n1 - O regime do pessoal militar que exerça funções na Polícia Judiciária Militar é, além do que decorre da legislação específica aplicável, o definido no presente diploma.\n\n2 - Os encargos decorrentes do exercício de funções por militares em lugares de pessoal não dirigente na Polícia Judiciária Militar, em qualquer situação ou regime, são suportados pelas verbas orçamentais próprias dos ramos a que pertençam."
+  },
+  "72998944": {
+   "fragment_id": "73011211",
+   "type": 11,
+   "heading": "Artigo 32.º — Utilização de meios de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Utilização de meios de transporte\n\nA Polícia Judiciária Militar pode fornecer ao respectivo pessoal, com carácter permanente ou temporário, meios de transporte ou títulos para utilização dos transportes colectivos, terrestres e fluviais."
+  },
+  "72998945": {
+   "fragment_id": "73011212",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "72998946": {
+   "fragment_id": "73011213",
+   "type": 11,
+   "heading": "Artigo 33.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Pessoal\n\n1 - Com a entrada em vigor do presente diploma cessam todas as comissões de serviço do pessoal provido em cargos dirigentes e equiparados da Polícia Judiciária Militar.\n\n2 - Os dirigentes abrangidos pelo disposto no número anterior mantêm-se em funções de gestão corrente até que se verifiquem novas nomeações.\n\n3 - Com a entrada em vigor do presente diploma mantêm-se em vigor as situações de pessoal não dirigente decorrentes dos mecanismos de mobilidade legalmente previstos, nos precisos termos dos respectivos regimes."
+  },
+  "72998947": {
+   "fragment_id": "73011214",
+   "type": 11,
+   "heading": "Artigo 34.º — Técnicos de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Técnicos de processos\n\n1 - Os oficiais de processos e os técnicos de processos abrangidos pelo Decreto-Lei n.º 434-Z/82, de 29 de Outubro, cujos lugares se extinguem quando vagarem, exercem funções idênticas às dos escrivães de direito, auferindo as remunerações correspondentes.\n\n2 - As comissões de serviço dos técnicos de processos em exercício de funções na Polícia Judiciária Militar mantêm-se até à entrada em vigor do diploma que aprovar o Código de Justiça Militar."
+  },
+  "72998948": {
+   "fragment_id": "73011215",
+   "type": 11,
+   "heading": "Artigo 35.º — Segurança das instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Segurança das instalações\n\nA segurança das instalações é assegurada por militares dos três ramos das Forças Armadas, em condições a definir por despacho do Ministro."
+  },
+  "72998949": {
+   "fragment_id": "73011216",
+   "type": 11,
+   "heading": "Artigo 36.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Entrada em vigor\n\nO presente diploma entra em vigor em simultâneo com o diploma que aprovar o novo Código de Justiça Militar."
+  },
+  "72998950": {
+   "fragment_id": "73011217",
+   "type": 11,
+   "heading": "Artigo 37.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Disposição revogatória\n\nÉ revogada toda a legislação que contrarie o disposto no presente diploma, designadamente:\n\na) O Decreto-Lei n.º 520/75, de 23 de Setembro;\n\nb) O Decreto-Lei n.º 12/76, de 14 de Janeiro;\n\nc) O Decreto-Lei n.º 104/76, de 5 de Fevereiro;\n\nd) O Decreto-Lei n.º 173/76, de 4 de Março;\n\ne) O Decreto-Lei n.º 190/76, de 16 de Março;\n\nf) O Decreto-Lei n.º 285/76, de 21 de Abril;\n\ng) O Decreto-Lei n.º 350/76, de 13 de Maio;\n\nh) O Decreto-Lei n.º 795/76, de 6 de Novembro;\n\ni) O Decreto-Lei n.º 186/77, de 9 de Maio;\n\nj) O n.º 3 do artigo 6.º do Decreto-Lei n.º 251-A/78, de 24 de Agosto."
+  },
+  "72998956": {
+   "fragment_id": "73011181",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência em matéria de investigação criminal",
+   "in_force_from": "2003-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 100/2003 - Diário da República n.º 265/2003, Série I-A de 2003-11-15](https://diariodarepublica.pt/dr/detalhe/lei/100-2003-446475), em vigor a partir de 2003-11-20"
+   ],
+   "markdown": "###### Artigo 5.º — Competência em matéria de investigação criminal\n\n1 - É da competência específica da Polícia Judiciária Militar a investigação dos crimes estritamente militares.\n\n2 - A Polícia Judiciária Militar tem ainda competência reservada para a investigação de crimes cometidos no interior de unidades, estabelecimentos e órgãos militares.\n\n3 - Os demais órgãos de polícia criminal devem comunicar de imediato à Polícia Judiciária Militar os factos de que tenham conhecimento relativos à preparação e execução de crimes referidos nos números anteriores, apenas podendo praticar, até à sua intervenção, os actos cautelares e urgentes para obstar à sua consumação e assegurar os meios de prova.\n\n4 - O disposto no n.º 2 não prejudica a competência conferida à Guarda Nacional Republicana pela Lei da Organização da Investigação Criminal ou pela respectiva Lei Orgânica para a investigação de crimes comuns cometidos no interior dos seus estabelecimentos, unidades e órgãos.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 100/2003 - Diário da República n.º 265/2003, Série I-A de 2003-11-15](https://diariodarepublica.pt/dr/detalhe/lei/100-2003-446475), em vigor a partir de 2003-11-20"
+  },
+  "72998955": {
+   "fragment_id": "73011218",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2004-09-14",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 14-B/2001 - Diário da República n.º 176/2001, 3º Suplemento, Série I-A de 2001-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-b-2001-168628), em vigor a partir de 2004-09-14"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Maio de 2001. - António Manuel de Oliveira Guterres - Júlio de Lemos de Castro Caldas - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins.\n\nPromulgado em 28 de Junho de 2001.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 5 de Julho de 2001.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 14-B/2001 - Diário da República n.º 176/2001, 3º Suplemento, Série I-A de 2001-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-b-2001-168628), em vigor a partir de 2004-09-14"
+  },
+  "72998952": {
+   "fragment_id": "73011219",
+   "type": 14,
+   "heading": "Anexo Mapa — (a que se refere o n.º 1 do artigo 29.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo Mapa — (a que se refere o n.º 1 do artigo 29.º)\n\n(ver mapa no documento original)"
+  },
+  "73011782": {
+   "fragment_id": "73011175",
+   "type": 1,
+   "heading": "Capítulo I — Natureza",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "### Capítulo I — Natureza\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011783": {
+   "fragment_id": "73011176",
+   "type": 8,
+   "heading": "Secção I — Competência",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "#### Secção I — Competência\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011784": {
+   "fragment_id": "73011177",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Polícia Judiciária Militar é um corpo superior de polícia criminal auxiliar da administração da justiça, organizado hierarquicamente na dependência do Ministro da Defesa Nacional e fiscalizado nos termos da lei.\n\n2 - A Polícia Judiciária Militar é dotada de autonomia administrativa.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011785": {
+   "fragment_id": "73011178",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Competência\n\nCompete à Polícia Judiciária Militar:\n\na) Coadjuvar as autoridades judiciárias na investigação;\n\nb) Desenvolver e promover as acções de prevenção e investigação da sua competência ou que lhe sejam cometidas pelas autoridades judiciárias competentes.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011786": {
+   "fragment_id": "73011179",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência em matéria de coadjuvação das autoridades judiciárias",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Competência em matéria de coadjuvação das autoridades judiciárias\n\n1 - A Polícia Judiciária Militar coadjuva as autoridades judiciárias em processos relativos a crimes cuja investigação lhe incumba realizar ou quando se afigure necessária a prática de actos que antecedem o julgamento e que requerem conhecimentos ou meios técnicos especiais.\n\n2 - Para efeitos do disposto no número anterior, a Polícia Judiciária Militar actua no processo sob a direcção das autoridades judiciárias e na sua dependência funcional, sem prejuízo da respectiva organização hierárquica.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011787": {
+   "fragment_id": "73011180",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência em matéria de prevenção criminal",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Competência em matéria de prevenção criminal\n\n1 - Em matéria de prevenção criminal, compete à Polícia Judiciária Militar efectuar a detecção e dissuasão de situações propícias à prática de crimes estritamente militares, em ligação com outros órgãos de polícia criminal e com as autoridades militares.\n\n2 - No exercício das acções a que se refere o número anterior, a Polícia Judiciária Militar tem acesso à informação necessária à caracterização, identificação e localização das actividades ali referidas, podendo proceder à identificação de pessoas e realizar vigilâncias, se necessário, com recurso a todos os meios e técnicas de registo de som e de imagem, bem como a revistas e buscas, ao abrigo do disposto no Código de Processo Penal.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011788": {
+   "fragment_id": "73011181",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência em matéria de investigação criminal",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 100/2003 - Diário da República n.º 265/2003, Série I-A de 2003-11-15](https://diariodarepublica.pt/dr/detalhe/lei/100-2003-446475), em vigor a partir de 2003-11-20"
+   ],
+   "markdown": "###### Artigo 5.º — Competência em matéria de investigação criminal\n\n1 - É da competência específica da Polícia Judiciária Militar a investigação dos crimes estritamente militares.\n\n2 - A Polícia Judiciária Militar tem ainda competência reservada para a investigação de crimes cometidos no interior de unidades, estabelecimentos e órgãos militares.\n\n3 - Os demais órgãos de polícia criminal devem comunicar de imediato à Polícia Judiciária Militar os factos de que tenham conhecimento relativos à preparação e execução de crimes referidos nos números anteriores, apenas podendo praticar, até à sua intervenção, os actos cautelares e urgentes para obstar à sua consumação e assegurar os meios de prova.\n\n4 - O disposto no n.º 2 não prejudica a competência conferida à Guarda Nacional Republicana pela Lei da Organização da Investigação Criminal ou pela respectiva Lei Orgânica para a investigação de crimes comuns cometidos no interior dos seus estabelecimentos, unidades e órgãos.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 100/2003 - Diário da República n.º 265/2003, Série I-A de 2003-11-15](https://diariodarepublica.pt/dr/detalhe/lei/100-2003-446475), em vigor a partir de 2003-11-20"
+  },
+  "73011789": {
+   "fragment_id": "73011182",
+   "type": 11,
+   "heading": "Artigo 6.º — Dever de cooperação",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Dever de cooperação\n\n1 - A Polícia Judiciária Militar está sujeita ao dever de cooperação nos termos da lei.\n\n2 - As entidades públicas e privadas, nas pessoas dos respectivos representantes, devem prestar à Polícia Judiciária Militar a cooperação que justificadamente lhes for solicitada.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011790": {
+   "fragment_id": "73011183",
+   "type": 11,
+   "heading": "Artigo 7.º — Direito de acesso à informação",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Direito de acesso à informação\n\n1 - A Polícia Judiciária Militar acede directamente à informação relativa à identificação civil e criminal constante dos ficheiros magnéticos dos serviços de identificação civil e criminal e presta obrigatoriamente colaboração na análise de aplicações de tratamento automático da informação com interesse para a prevenção e investigação criminal, quando efectuada pelo Instituto das Tecnologias de Informação na Justiça.\n\n2 - A Polícia Judiciária Militar acede à informação de interesse criminal contida nos ficheiros de outros organismos nacionais e internacionais, sem prejuízo do disposto nas normas e procedimentos aplicáveis.\n\n3 - A Polícia Judiciária Militar designa um oficial de ligação junto da Polícia Judiciária para articulação específica com o Laboratório de Polícia Científica e o Instituto Superior de Polícia Judiciária e Ciências Criminais.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011791": {
+   "fragment_id": "73011184",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de comparência",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Dever de comparência\n\n1 - Qualquer pessoa, quando devidamente notificada ou convocada pela Polícia Judiciária Militar, tem o dever de comparecer nos dia, hora e local designados, sob pena das sanções previstas na lei processual penal.\n\n2 - Tratando-se de militares no activo, a notificação faz-se, para qualquer serviço da Polícia Judiciária Militar, sempre por intermédio do comando de que dependem.\n\n3 - Em caso de urgência, a notificação ou convocação referidas nos números anteriores podem ser feitas por qualquer meio destinado a dar conhecimento do facto, inclusivamente por via telefónica e, neste último caso, a entidade que faz a notificação ou a convocação identifica-se e dá conta do cargo que desempenha, bem como dos elementos que permitam ao chamado inteirar-se do acto para que é convocado e efectuar, caso queira, a contraprova de que se trata de um telefonema oficial e verdadeiro, devendo lavrar-se cota no auto quanto ao meio utilizado.\n\n4 - Quando o notificando ou a pessoa convocada tiver de se deslocar a um local que se situe fora da comarca da sua residência, local de trabalho ou do lugar onde se encontrar, a Polícia Judiciária Militar deve assegurar os meios de transporte necessários e a assistência devida, desde que tal lhe tenha sido solicitado.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011792": {
+   "fragment_id": "73011185",
+   "type": 8,
+   "heading": "Secção II — Direitos e deveres",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "#### Secção II — Direitos e deveres\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011793": {
+   "fragment_id": "73011186",
+   "type": 11,
+   "heading": "Artigo 9.º — Autoridades de polícia criminal",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 9.º — Autoridades de polícia criminal\n\n1 - São autoridades de polícia criminal, nos termos e para os efeitos do Código de Processo Penal (CPP), os seguintes funcionários da Polícia Judiciária Militar:\n\na) O director;\n\nb) O subdirector;\n\nc) Os chefes de divisão das divisões de investigação;\n\nd) Os oficiais investigadores.\n\n2 - O demais pessoal de investigação criminal pode, com observância das disposições legais, proceder à identificação de qualquer pessoa.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011794": {
+   "fragment_id": "73011187",
+   "type": 11,
+   "heading": "Artigo 10.º — Diligências de investigação",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Diligências de investigação\n\n1 - As autoridades referidas no artigo anterior podem, nos termos do CPP e do CJM, ordenar comparências, realizar revistas, identificação de suspeitos, apreensões, exames e peritagens, expedir deprecadas e requisitar informações e certificados de registo criminal, bem como efectuar quaisquer outras diligências previstas na lei processual.\n\n2 - As buscas domiciliárias, a apreensão de correspondência, a intercepção de telecomunicações, as autópsias e os exames que possam ofender o pudor dos examinandos dependem sempre de prévio mandado escrito do juiz de instrução, mediante proposta fundamentada do oficial investigador.\n\n3 - As diligências referidas nos números anteriores, quando efectuadas em unidades, estabelecimentos, órgãos ou navios, devem ser previamente comunicadas ao respectivo comandante ou chefe.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011795": {
+   "fragment_id": "73011188",
+   "type": 11,
+   "heading": "Artigo 11.º — Segredo de justiça e profissional",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Segredo de justiça e profissional\n\n1 - Os actos processuais de investigação criminal e de coadjuvação das autoridades judiciárias estão sujeitos ao segredo de justiça, nos termos da lei.\n\n2 - Os funcionários em serviço na Polícia Judiciária Militar não podem fazer revelações públicas relativas a processos ou sobre matérias de índole reservada, salvo o que se encontra previsto neste diploma sobre informação pública e acções de natureza preventiva junto da população e ainda o disposto nas leis de processo penal.\n\n3 - As declarações a que alude o número anterior, quando admissíveis, dependem de prévia autorização do director, sob pena de procedimento disciplinar, sem prejuízo da responsabilidade penal a que houver lugar.\n\n4 - As acções de prevenção, os procedimentos contra-ordenacionais, disciplinares, de inquérito, de sindicância e de averiguações, bem como de inspecção, estão sujeitos ao segredo profissional, nos termos da lei geral.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011796": {
+   "fragment_id": "73011189",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres especiais",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Deveres especiais\n\nSão deveres especiais do pessoal da Polícia Judiciária Militar, sem prejuízo dos decorrentes da condição militar, se for o caso:\n\na) Garantir a vida e a integridade física dos detidos ou das pessoas que se achem sob a sua custódia ou protecção, no estrito respeito da honra e dignidade da pessoa humana;\n\nb) Actuar sem discriminação em razão de ascendência, sexo, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação económica ou condição social;\n\nc) Identificar-se como funcionário da Polícia Judiciária Militar no momento em que devam proceder a identificação ou detenção;\n\nd) Observar estritamente, e com a diligência devida, a tramitação e os prazos e requisitos exigidos pela lei sempre que devam proceder à detenção de alguém;\n\ne) Actuar com a decisão e a prontidão necessárias, quando da sua actuação dependa impedir a prática de um dano grave, imediato e irreparável, observando os princípios da adequação, da oportunidade e da proporcionalidade na utilização dos meios disponíveis;\n\nf) Agir com a determinação necessária, mas sem recorrer à força mais do que o estritamente razoável para cumprir uma tarefa legalmente exigida ou autorizada.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011797": {
+   "fragment_id": "73011190",
+   "type": 11,
+   "heading": "Artigo 13.º — Uso de arma de fogo",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 13.º — Uso de arma de fogo\n\n1 - As autoridades de polícia criminal, o pessoal de investigação criminal, o pessoal de polícia técnica a exercer funções nos serviços de lofoscopia e o pessoal de segurança têm direito ao uso e porte de arma de calibre e tipo aprovados por portaria do Ministro da Defesa Nacional, independentemente de licença, ficando obrigados ao seu manifesto quando as mesmas sejam de sua propriedade.\n\n2 - A Polícia Judiciária Militar pode utilizar armas de qualquer modelo e calibre.\n\n3 - O recurso a armas de fogo por funcionários da Polícia Judiciária Militar é regulado, com as necessárias adaptações, pelo Decreto-Lei n.º 457/99, de 5 de Novembro.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011798": {
+   "fragment_id": "73011191",
+   "type": 11,
+   "heading": "Artigo 14.º — Serviço permanente",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 14.º — Serviço permanente\n\n1 - As actividades de prevenção e investigação criminais são de carácter permanente e obrigatório, estando sujeitas a segredo de justiça.\n\n2 - A permanência nos serviços pode ser assegurada, fora do horário normal e nos dias de descanso semanal e feriados, por piquetes de atendimento e unidades de prevenção, cuja regulamentação é fixada por despacho do director.\n\n3 - Os órgãos de polícia criminal que tenham conhecimento da preparação ou consumação de algum crime, ainda que não estritamente militar, devem, quando necessário, tomar as providências possíveis e necessárias para evitar a sua prática ou para descobrir e deter os seus autores, com observância das formalidades legais, até à intervenção da autoridade competente.\n\n4 - Se algum investigador apurar factos que interessem à investigação de que outro esteja incumbido, deve comunicar-lhos imediatamente.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011799": {
+   "fragment_id": "73011192",
+   "type": 11,
+   "heading": "Artigo 15.º — Objectos que revertem a favor da Polícia Judiciária Militar",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Objectos que revertem a favor da Polícia Judiciária Militar\n\nOs objectos apreendidos pela Polícia Judiciária Militar que venham a ser declarados perdidos a favor do Estado são-lhe afectos quando:\n\na) Possuam interesse criminalístico, histórico, documental ou museológico;\n\nb) Se trate de armas, munições, viaturas, equipamentos de telecomunicações e de informática ou outro com interesse para a instituição.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011800": {
+   "fragment_id": "73011193",
+   "type": 11,
+   "heading": "Artigo 16.º — Impedimentos, recusas e escusas",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 16.º — Impedimentos, recusas e escusas\n\n1 - O regime de impedimentos, recusas e escusas previsto no Código de Processo Penal é aplicável, com as devidas adaptações, aos funcionários de investigação criminal, peritos e intérpretes da Polícia Judiciária Militar\n\n2 - A declaração de impedimento e o seu requerimento, bem como o requerimento de recusa e o pedido de escusa, são dirigidos ao subdirector.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011801": {
+   "fragment_id": "73011194",
+   "type": 11,
+   "heading": "Artigo 17.º — Legislação subsidiária",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Legislação subsidiária\n\nÀ matéria regulada no presente capítulo são subsidiariamente aplicáveis as correspondentes disposições da Lei Orgânica da Polícia Judiciária, com as necessárias adaptações.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 97-A/2009 - Diário da República n.º 171/2009, 1º Suplemento, Série I de 2009-09-03](https://diariodarepublica.pt/dr/detalhe/lei/97-a-2009-410519), em vigor a partir de 2009-10-01"
+  },
+  "73011826": {
+   "fragment_id": "73011195",
+   "type": 1,
+   "heading": "Capítulo II — Organização",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "### Capítulo II — Organização\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011827": {
+   "fragment_id": "73011196",
+   "type": 11,
+   "heading": "Artigo 18.º — Estrutura",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 18.º — Estrutura\n\n1 - A Polícia Judiciária Militar integra:\n\na) O director;\n\nb) O subdirector;\n\nc) A Direcção de Serviços Administrativos e Financeiros (DSAF);\n\nd) A 1.ª Divisão de Investigação Criminal (PDIC), com sede em Lisboa;\n\ne) A 2.ª Divisão de Investigação Criminal (SDIC), com sede no Porto;\n\nf) A Divisão de Apoio Técnico (DAT).\n\n2 - A área de jurisdição das divisões de investigação é definida por portaria do Ministro, ouvido o director da Polícia Judiciária Militar.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011828": {
+   "fragment_id": "73011197",
+   "type": 11,
+   "heading": "Artigo 19.º — Director",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 19.º — Director\n\nA Polícia Judiciária Militar é dirigida por um director, equiparado a director-geral, ao qual compete, em geral, exercer as competências que lhe são conferidas por lei e em especial:\n\na) Orientar e coordenar superiormente a Polícia Judiciária Militar;\n\nb) Orientar a elaboração do orçamento da Polícia Judiciária Militar e dirigir a sua execução;\n\nc) Propor ao Ministro as medidas adequadas ao funcionamento dos serviços e prestar as informações e os pareceres que aquele lhe solicitar;\n\nd) Apresentar ao Ministro, até 31 de Março de cada ano, o relatório anual da Polícia Judiciária Militar;\n\ne) Corresponder-se directamente com quaisquer entidades, em matérias do interesse da Polícia Judiciária Militar;\n\nf) Prestar as informações de serviço do pessoal militar e homologar as do pessoal civil.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011829": {
+   "fragment_id": "73011198",
+   "type": 11,
+   "heading": "Artigo 20.º — Subdirector",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 20.º — Subdirector\n\nAo subdirector, equiparado a subdirector-geral, compete coordenar e orientar as actividades de investigação criminal e os serviços de apoio técnico e coadjuvar o director no exercício das suas funções, substituindo-o nas suas ausências ou impedimentos.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011830": {
+   "fragment_id": "73011199",
+   "type": 11,
+   "heading": "Artigo 21.º — Direcção de Serviços Administrativos e Financeiros",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 21.º — Direcção de Serviços Administrativos e Financeiros\n\n1 - À DSAF compete, designadamente:\n\na) Elaborar o orçamento e acompanhar a sua execução;\n\nb) Verificar a conformidade legal e a regularidade de todos os documentos de receita e de despesa e submetê-los a despacho;\n\nc) Organizar a contabilidade e executar a respectiva escrituração;\n\nd) Verificar a exactidão dos registos da Tesouraria;\n\ne) Proceder à verificação e liquidação das contas correntes mensais das divisões de investigação;\n\nf) Processar os vencimentos e demais abonos e descontos do pessoal;\n\ng) Organizar os concursos públicos e a elaboração dos contratos para a realização de obras e para a aquisição de bens e serviços;\n\nh) Dar o apoio necessário em matéria financeira às delegações;\n\ni) Organizar a conta de gerência;\n\nj) Assegurar a arrumação e o arquivo de todos os documentos que, nos termos da lei, tenham de ficar depositados;\n\nl) Manter actualizado o inventário e património afecto à Polícia Judiciária Militar e assegurar que o mesmo se mantenha nos locais próprios;\n\nm) Assegurar a informação necessária à correcta gestão do pessoal da Polícia Judiciária Militar, submetendo a despacho os processos relativos a recrutamento, selecção e provimento, bem como os respeitantes a promoção, nomeação e aposentação do pessoal;\n\nn) Executar as tarefas que superiormente forem determinadas pelo director da Polícia Judiciária Militar.\n\n2 - A DSAF compreende a Secção de Pessoal (SP).\n\n3 - Adstrita à DSAF funciona a Tesouraria.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011831": {
+   "fragment_id": "73011200",
+   "type": 11,
+   "heading": "Artigo 22.º — Secção de Pessoal",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 22.º — Secção de Pessoal\n\nA Secção de Pessoal exerce as competências previstas nas alíneas f) e m) do n.º 1 do artigo anterior.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011832": {
+   "fragment_id": "73011201",
+   "type": 11,
+   "heading": "Artigo 23.º — Tesouraria",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 23.º — Tesouraria\n\n1 - À Tesouraria compete, designadamente:\n\na) Efectuar os recebimentos e pagamentos devidamente autorizados;\n\nb) Elaborar a folha de caixa e os respectivos registos;\n\nc) Assegurar a ligação com as instituições bancárias;\n\nd) Promover a segurança dos valores à exclusiva guarda e responsabilidade do tesoureiro, na sua qualidade de único claviculário do cofre.\n\n2 - A Tesouraria é coordenada por um tesoureiro.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011833": {
+   "fragment_id": "73011202",
+   "type": 11,
+   "heading": "Artigo 24.º — Divisões de investigação criminal",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 24.º — Divisões de investigação criminal\n\n1 - A PDIC e a SDIC são dirigidas por um chefe de divisão com o posto de capitão-de-fragata ou tenente-coronel, ao qual compete, em geral, nomear as equipas destinadas a coadjuvar as autoridades judiciárias nas diligências que estas entendam delegar e, em especial:\n\na) Orientar, dirigir e coordenar a actividade das equipas de investigação, propondo ao subdirector as medidas que entenda necessárias à eficiente actuação daquelas;\n\nb) Dirigir os serviços de piquete e unidades de prevenção, nos termos definidos pelo director;\n\nc) Elaborar, no final das diligências efectuadas, um breve relatório conclusivo;\n\nd) Remeter à SP todos os elementos susceptíveis de registo e tratamento;\n\ne) Elaborar, no respectivo âmbito, as informações anuais do pessoal que lhe esteja directamente subordinado.\n\n2 - O chefe de divisão é substituído nas suas ausências e impedimentos pelo chefe da equipa de investigação mais graduado ou antigo ou por oficial nomeado pelo director.\n\n3 - A PDIC compreende três equipas de investigação e a SDIC duas, compreendendo esta ainda a Secção de Apoio Geral (SAG).\n\n4 - O director pode cometer à PDIC a investigação de crimes estritamente militares cometidos no estrangeiro ou cuja gravidade e circunstâncias da sua prática o justifiquem, podendo ser-lhe agregadas, sempre que necessário, outras equipas de investigação.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011834": {
+   "fragment_id": "73011203",
+   "type": 11,
+   "heading": "Artigo 25.º — Equipas de investigação",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 25.º — Equipas de investigação\n\n1 - As equipas de investigação são compostas por dois militares, sendo um oficial investigador chefe de equipa e um sargento investigador, podendo agregar outros investigadores quando as circunstâncias o aconselhem.\n\n2 - São funções do oficial investigador:\n\na) Executar os serviços de prevenção e investigação criminais que lhe sejam ordenados;\n\nb) Efectuar as diligências que lhe forem delegadas pelas autoridades judiciárias;\n\nc) Fornecer ao chefe de divisão todos os elementos susceptíveis de registo e tratamento;\n\nd) Integrar os serviços de piquete e unidades de prevenção, nos termos fixados pelo director;\n\ne) O exercício de outras funções fixadas na lei.\n\n3 - São funções do sargento investigador:\n\na) Coadjuvar o chefe da equipa e executar, sob orientação deste, diligências de investigação e prevenção criminal;\n\nb) Desempenhar, nos processos, funções de escrivão;\n\nc) Integrar os serviços de piquete e unidades de prevenção, nos termos fixados pelo director;\n\nd) O exercício de outras funções fixadas na lei.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011835": {
+   "fragment_id": "73011204",
+   "type": 11,
+   "heading": "Artigo 26.º — Divisão de Apoio Técnico",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 26.º — Divisão de Apoio Técnico\n\nÀ DAT compete, designadamente:\n\na) Promover a movimentação geral dos processos e deprecadas, escriturando os livros respectivos;\n\nb) Promover a distribuição de processos e deprecadas sob direcção da autoridade judiciária competente;\n\nc) Organizar os ficheiros de processos, notícias e dados técnicos;\n\nd) Elaborar os mapas estatísticos do movimento dos processos e deprecadas, actividades dos investigadores e criminalidade militar;\n\ne) Proceder ao arquivamento dos processos e organizar e gerir o arquivo de processos;\n\nf) Dar entrada a toda a correspondência processual e proceder à sua distribuição;\n\ng) Organizar, registar e gerir os processos de instrução criminal;\n\nh) Cumprir os despachos dos magistrados judiciais;\n\ni) Identificar e notificar os arguidos e testemunhas;\n\nj) Reduzir a escrito os interrogatórios dos arguidos e a inquirição das testemunhas;\n\nk) Elaborar a ordem de serviço;\n\nl) Assegurar ao subdirector o apoio de que careça, encaminhando-lhe todo o expediente relativo à investigação;\n\nm) Elaborar os ficheiros das armas de guerra desaparecidas;\n\nn) Assegurar o expediente destinado às DIC;\n\no) Planear e apoiar cursos e estágios de formação e aperfeiçoamento do pessoal;\n\np) Programar e orientar a instrução de tiro e de educação física;\n\nq) Assegurar a produção, reprodução e documentação técnica necessária à actividade da Polícia Judiciária Militar;\n\nr) Executar trabalhos de reprografia, brochura e encadernação;\n\ns) Assegurar o funcionamento do laboratório de fotografia e lofoscopia;\n\nt) Superintender na segurança do pessoal, instalações e matérias classificadas;\n\nu) Difundir junto dos órgãos, entidades e estabelecimentos militares os aspectos relacionados com a actividade da Polícia Judiciária Militar;\n\nv) Assegurar às autoridades judiciárias as dotações de pessoal de que careçam;\n\nw) Superintender o pessoal auxiliar e coordenar a organização do respectivo trabalho;\n\nx) Assegurar a conservação e distribuição dos artigos de consumo corrente e dos impressos armazenados, bem como a gestão do armazém;\n\ny) Guardar, conservar e distribuir o equipamento, o armamento e as munições;\n\nz) Garantir a manutenção das instalações e o funcionamento dos serviços de apoio;\n\naa) Proceder à gestão de viaturas automóveis.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011836": {
+   "fragment_id": "73011205",
+   "type": 11,
+   "heading": "Artigo 27.º — Estrutura",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 27.º — Estrutura\n\nA DAT compreende:\n\na) A Secção de Processos (SP), com a competência prevista nas alíneas a) a l) do artigo anterior;\n\nb) A Secção de Apoio Geral (SAG), com a competência prevista nas alíneas m) a aa) do artigo anterior.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011837": {
+   "fragment_id": "73011206",
+   "type": 11,
+   "heading": "Artigo 28.º — Núcleo de Informática",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 28.º — Núcleo de Informática\n\n1 - Junto da DAT funciona o Núcleo de Informática (NI), ao qual compete, designadamente, proceder à organização, aplicação e gestão dos sistemas informáticos.\n\n2 - O NI é coordenado por técnico com formação específica na área.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011838": {
+   "fragment_id": "73011207",
+   "type": 1,
+   "heading": "Capítulo III — Pessoal",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "### Capítulo III — Pessoal\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011839": {
+   "fragment_id": "73011208",
+   "type": 11,
+   "heading": "Artigo 29.º — Quadro de pessoal",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 29.º — Quadro de pessoal\n\n1 - O pessoal dirigente da Polícia Judiciária Militar é o constante do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n2 - O quadro único de pessoal da Polícia Judiciária Militar é aprovado por portaria conjunta dos Ministros da Defesa Nacional, das Finanças e da Reforma do Estado e da Administração Pública.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011840": {
+   "fragment_id": "73011209",
+   "type": 11,
+   "heading": "Artigo 30.º — Provimento de pessoal",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 30.º — Provimento de pessoal\n\n1 - Os cargos dirigentes e os lugares de pessoal não dirigente da Polícia Judiciária Militar são providos nos termos da lei geral e da Lei Orgânica do Ministério da Defesa Nacional, com as especificidades previstas no presente diploma.\n\n2 - Os militares providos podem prestar serviço na situação de activo, em comissão normal, ou na situação da reserva e ainda nos regimes de voluntariado e contrato.\n\n3 - Os oficiais investigadores são oficiais dos três ramos das Forças Armadas, aprovados em curso de formação regulado por despacho do Ministro.\n\n4 - Os sargentos investigadores são sargentos dos três ramos das Forças Armadas, aprovados em curso de formação regulado por despacho do Ministro.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011841": {
+   "fragment_id": "73011210",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime do pessoal militar",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 31.º — Regime do pessoal militar\n\n1 - O regime do pessoal militar que exerça funções na Polícia Judiciária Militar é, além do que decorre da legislação específica aplicável, o definido no presente diploma.\n\n2 - Os encargos decorrentes do exercício de funções por militares em lugares de pessoal não dirigente na Polícia Judiciária Militar, em qualquer situação ou regime, são suportados pelas verbas orçamentais próprias dos ramos a que pertençam.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011842": {
+   "fragment_id": "73011211",
+   "type": 11,
+   "heading": "Artigo 32.º — Utilização de meios de transporte",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 32.º — Utilização de meios de transporte\n\nA Polícia Judiciária Militar pode fornecer ao respectivo pessoal, com carácter permanente ou temporário, meios de transporte ou títulos para utilização dos transportes colectivos, terrestres e fluviais.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011849": {
+   "fragment_id": "73011213",
+   "type": 11,
+   "heading": "Artigo 33.º — Pessoal",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 33.º — Pessoal\n\n1 - Com a entrada em vigor do presente diploma cessam todas as comissões de serviço do pessoal provido em cargos dirigentes e equiparados da Polícia Judiciária Militar.\n\n2 - Os dirigentes abrangidos pelo disposto no número anterior mantêm-se em funções de gestão corrente até que se verifiquem novas nomeações.\n\n3 - Com a entrada em vigor do presente diploma mantêm-se em vigor as situações de pessoal não dirigente decorrentes dos mecanismos de mobilidade legalmente previstos, nos precisos termos dos respectivos regimes.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011850": {
+   "fragment_id": "73011214",
+   "type": 11,
+   "heading": "Artigo 34.º — Técnicos de processos",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 34.º — Técnicos de processos\n\n1 - Os oficiais de processos e os técnicos de processos abrangidos pelo Decreto-Lei n.º 434-Z/82, de 29 de Outubro, cujos lugares se extinguem quando vagarem, exercem funções idênticas às dos escrivães de direito, auferindo as remunerações correspondentes.\n\n2 - As comissões de serviço dos técnicos de processos em exercício de funções na Polícia Judiciária Militar mantêm-se até à entrada em vigor do diploma que aprovar o Código de Justiça Militar.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011851": {
+   "fragment_id": "73011215",
+   "type": 11,
+   "heading": "Artigo 35.º — Segurança das instalações",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 35.º — Segurança das instalações\n\nA segurança das instalações é assegurada por militares dos três ramos das Forças Armadas, em condições a definir por despacho do Ministro.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  },
+  "73011852": {
+   "fragment_id": "73011216",
+   "type": 11,
+   "heading": "Artigo 36.º — Entrada em vigor",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 36.º — Entrada em vigor\n\nO presente diploma entra em vigor em simultâneo com o diploma que aprovar o novo Código de Justiça Militar.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 300/2009 - Diário da República n.º 202/2009, Série I de 2009-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/300-2009-482846), em vigor a partir de 2009-11-01"
+  }
+ }
+}

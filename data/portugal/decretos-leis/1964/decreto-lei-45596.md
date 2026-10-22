@@ -1,0 +1,222 @@
+---
+schema_version: '1.0'
+id: pt:dre:470037:por
+title: Decreto-Lei n.º 45596
+short_title: null
+summary: Aprova, para ratificação, o Protocolo a Convenção internacional de pescarias do Noroeste do Atlântico, assinado em
+  Washington em 15 de Julho de 1963
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos e Consulares
+proposing_entity: null
+official_number: '45596'
+official_date: null
+publication_date: '1964-03-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 55/1964, Série I de 1964-03-05
+  number: '55'
+  series: I
+  supplement: null
+  pages: 388 - 390
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/03/05500/03880390.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '470037'
+  dre_path: /dr/detalhe/decreto-lei/45596-1964-470037
+  internal: pt:dre:470037:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45596-1964-470037
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45596-1964-470037
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1964-03-05T00:00:00Z'
+integrity:
+  source_sha256: 074091450dad86bd0442d3c175b65eea9d03103a094c01695b90c3341eb542cf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1964/DRE-1964-45596-470037.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45596
+
+Usando da faculdade conferida pela 2.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo único. É aprovado, para ratificação, o Protocolo à Convenção internacional de pescarias do Noroeste do Atlântico, assinado em Washington em 15 de Julho de 1963, cujos textos, em inglês e respectiva tradução portuguesa, vão anexos ao presente decreto-lei.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 5 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.
+
+PROTOCOL TO THE INTERNATIONAL CONVENTION FOR THE NORTHWEST ATLANTIC FISHERIES
+
+The Governments parties to the International Convention for the Northwest Atlantic Fisheries signed at Washington under date of February 8, 1949, which Convention, as amended, is hereinafter referred to as the Convention, desiring to extend the provisions of the Convention to harp and hood seals, agree as follows:
+
+ARTICLE I
+
+The Provisions of the Convention shall be applicable with respect to harp and hood seals in conformity with articles II and III of this Protocol.
+
+ARTICLE II
+
+1. The Contracting Governments shall establish and maintain a Panel with jurisdiction respecting harp and hood seals in the Convention area. Initial representation on the Panel shall be determined by the International Commission for the Northwest Atlantic Fisheries on the basis of current substantial exploitation of harp and hood seals in the Convention area, except that each Contracting Government with coastline adjacent to the Convention area shall have the right representation on the Panel.
+
+2. Panel representation shall be reviewed annually by the Commission, which shall have the power, subject to consultation with the Panel, to determine representation on the Panel on the same basis as provided in paragraph 1 of this article for initial representation.
+
+ARTICLE III
+
+Proposals in accordance with article VIII of the Convention for joint action by Contracting Governments with respect to harp and hood seals shall become effective for all Contracting Governments four months after the date on which notifications of acceptance have been received by the Depositary Government from all the Contracting Governments participating in the Panel for harp and hood seals.
+
+ARTICLE IV
+
+1. This Protocol shall be open for signature and ratification or for adherence on behalf of any Government party to the Convention.
+
+2. This Protocol shall enter into force on the date on which instruments of ratification have been deposited with, or written notifications of adherence have been received by, the Government of the United States of America, on behalf of all the Governments parties to the Convention.
+
+3. Any Government becoming a party to the Convention after this Protocol enters into force shall adhere to this Protocol, such adherence to be effective on the same date that such Government becomes a party to the Convention.
+
+4. The Government of the United States of America shall inform all Governments signatory or adhering to the Convention of all ratifications deposited and adherences received and of the date this Protocol enters into force.
+
+ARTICLE V
+
+1. The original of this Protocol shall be deposited with the Government of the United States of America, which Government shall communicate certified copies thereof to all the Governments signatory or adhering to the Convention.
+
+2. This Protocol shall bear the date on which it is opened for signature and shall remain open for signature for a period of fourteen days thereafter, following which period it shall be open for adherence.
+
+In witness whereof the undersigned, having deposited the respective full powers, have signed this Protocol.
+
+Done at Washington this fifteenth day of July, 1963, in the English language.
+
+For Canada:
+
+For Denmark:
+
+For the Federal Republic of Germany:
+
+For France:
+
+For Iceland:
+
+For Italy:
+
+For Norway:
+
+For Poland:
+
+For Portugal:
+
+For Spain:
+
+For the Union of Soviet Socialist Republics:
+
+For the United Kingdom of Great Britain and Northern Ireland:
+
+For the United States of America:
+
+PROTOCOLO À CONVENÇÃO INTERNACIONAL PARA AS PESCARIAS DO NOROESTE DO ATLÂNTICO
+
+Os Governos membros da Convenção internacional das pescarias do Noroeste do Atlântico, assinada em Washington em 8 de Fevereiro de 1949, a qual, com as alterações que lhe foram introduzidas, é abaixo mencionada por Convenção, desejosos de estender as disposições da Convenção a determinados tipos de focas (harp and hood seals) acordam o seguinte:
+
+ARTIGO I
+
+As disposições da Convenção serão aplicáveis a determinados tipos de focas (harp and hood seals) em conformidade com os artigos II e III deste Protocolo.
+
+ARTIGO II
+
+1. Os Governos Contratantes instituirão e manterão um comité com jurisdição sobre determinados tipos de focas (harp and hood seals) na área da Convenção. A representação inicial no comité será determinada pela Comissão Internacional para as Pescarias no Noroeste do Atlântico de acordo com a exploração normal de determinados tipos de focas (harp and hood seals) na área da Convenção, tendo os Governos Contratantes, com linha de costa adjacente à área da Convenção, o direito de se fazer representar no referido comité.
+
+2. A representação no comité será revista anualmente pela Comissão, a qual terá a faculdade de determinar aquela representação de acordo com o previsto no parágrafo 1 deste artigo para a representação inicial, sujeito, no entanto, a consulta com o comité.
+
+ARTIGO III
+
+As propostas para acção conjunta dos Governos Contratantes relativa a determinados tipos de focas (harp and hood seals), previstas no artigo VIII da Convenção, tornar-se-ão efectivas em relação a todos os Governos Contratantes quatro meses depois de recebidos os instrumentos de aceitação de todos os Governos Contratantes membros do comité pelo Governo depositário.
+
+ARTIGO IV
+
+1. Este Protocolo estará aberto para assinatura e ratificação ou para adesão a todos os Governos partes da Convenção.
+
+2. Este Protocolo entrará em vigor em relação a todos os Governos partes da Convenção no dia em que os instrumentos de ratificação tenham sido depositados ou os instrumentos escritos de adesão tenham sido recebidos pelo Governo dos Estados Unidos da América.
+
+3. Depois da entrada em vigor deste Protocolo, qualquer Governo que adira à Convenção deverá aderir ao Protocolo, tornando-se tais adesões efectivas na mesma data.
+
+4. O Governo dos Estados Unidos da América deverá informar todos os Governos que assinaram ou aderiram à Convenção de todas as ratificações depositadas ou adesões recebidas e da data da entrada em vigor deste Protocolo.
+
+ARTIGO V
+
+1. O original deste Protocolo será depositado junto do Governo dos Estados Unidos da América, que deverá enviar cópias certificadas a todos os Governos que assinaram ou aderiram à Convenção.
+
+2. Este Protocolo estará patente para assinatura por um período de catorze dias a contar da data nele inscrita, a seguir ao qual ficará aberto para adesão.
+
+Em testemunho do que os abaixo assinados, tendo depositado os respectivos plenos poderes, assinaram este Protocolo.
+
+Feito em Washington em língua inglesa, aos 15 dias de Julho de 1963.
+
+Pelo Canadá:
+
+Pela Dinamarca:
+
+Pela Espanha:
+
+Pelos Estados Unidos da América:
+
+Pela França:
+
+Pela Islândia:
+
+Pela Itália:
+
+Pela Noruega:
+
+Pela Polónia:
+
+Por Portugal:
+
+Pelo Reino Unido da Grã-Bretanha e Irlanda do Norte:
+
+Pela República Federal da Alemanha:
+
+Pela União das Repúblicas Socialistas Soviéticas:

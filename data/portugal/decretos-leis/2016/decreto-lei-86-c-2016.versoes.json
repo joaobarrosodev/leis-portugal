@@ -1,0 +1,234 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105658706:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-115553595",
+ "dre_path": "/dr/detalhe/decreto-lei/86-c-2016-105658706",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115531051",
+    "115531052",
+    "115531053",
+    "115531054",
+    "115531055",
+    "115531056",
+    "115531057",
+    "115531058",
+    "115531059",
+    "115531060",
+    "115531061",
+    "115531062",
+    "115531063",
+    "115531064"
+   ]
+  },
+  {
+   "date": "2018-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115552672:por",
+     "title": "Decreto-Lei n.º 46/2018",
+     "published": "2018-06-20",
+     "dre_path": "/dr/detalhe/decreto-lei/46-2018-115552672"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "115531051",
+    "115531052",
+    "115531053",
+    "115531054",
+    "115531055",
+    "115531070",
+    "115531057",
+    "115531071",
+    "115531059",
+    "115531060",
+    "115531061",
+    "115531062",
+    "115531066",
+    "115531067",
+    "115531068",
+    "115531069"
+   ]
+  }
+ ],
+ "fragments": {
+  "115531051": {
+   "fragment_id": "115553596",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 86-C/2016\n\nde 29 de dezembro\n\nNo âmbito do Programa do XXI Governo Constitucional assume-se que o estímulo à criatividade e à inovação em todos os domínios é essencial para potenciar a resposta com sucesso aos desafios sociais, económicos e ambientais.\n\nNeste contexto, o apoio à transição para uma economia circular, em que se pretende prolongar a utilidade e valor dos recursos, reduzindo a necessidade de extração de matérias-primas e a geração de resíduos, permite tornar a economia mais eficiente e produtiva no uso de recursos disponíveis e, por isso, mais competitiva.\n\nA redução do consumo de matérias-primas por via da eficiência - material, energética - traduzir-se-á num aumento do valor disponível para o investimento, criação de emprego e expansão da produção, contribuindo ainda para a preservação de capital e serviços ambientais.\n\nAcelerar esta transição exige ações concertadas junto do sistema empresarial, assentes numa componente de Investigação e Desenvolvimento (I&D) e Inovação, que permita captar e disseminar as vantagens económicas e ambientais associadas.\n\nDeste modo, a retoma e o reforço do investimento em I&D e na Inovação neste domínio assume-se como prioridade crítica na estratégia de crescimento do produto potencial da economia portuguesa, justificando-se deste modo um novo impulso das políticas públicas associadas.\n\nA par dos investimentos em I&D, o reforço da articulação entre as instituições do sistema científico e tecnológico e o tecido empresarial assumem particular importância, sendo reconhecido o papel que os centros de interface tecnológica (CIT) têm nesta articulação, pelo seu posicionamento junto das empresas, apoiando a sua capacitação tecnológica e de conhecimento em diversas áreas, incluindo processos de certificação, melhoria da qualidade, melhoria de eficiência na produção, apoio a atividades de inovação e novos modelos de negócio, avaliação de ciclo de vida e conceção ecológica, acesso a tecnologias em desenvolvimento e formação de recursos humanos.\n\nExiste, pois, a necessidade de, a par de um esforço renovado de aumento da qualificação dos recursos humanos em Portugal, promover a inovação do tecido económico nacional por via do uso eficiente dos recursos, acelerando a transição para uma economia circular, através da oferta de novos produtos e serviços e de novas empresas e empreendedores, e inovando nos processos tecnológicos, organizacionais e de marketing.\n\nNeste âmbito assume particular relevância o apoio a atividades que contribuam para a redução de emissões de gases com efeito de estufa, nomeadamente nas áreas da eficiência energética e energias renováveis, objetivos que se incluem na missão do Fundo Português de Carbono (FPC) no âmbito do cumprimento dos compromissos do Estado Português no âmbito do Protocolo de Quioto e de outros compromissos internacionais e comunitários na área das alterações climáticas. Assim, com o objetivo de assegurar a realização das atividades descritas prevê-se, ainda no exercício de 2016, a transferência de uma verba do FPC para o fundo a criar pelo presente decreto-lei.\n\nNesta conformidade, e em cumprimento do determinado pela Resolução do Conselho de Ministros n.º 84/2016, de 21 de dezembro, que aprovou o CITec - Programa Capacitar a Indústria Portuguesa, o presente decreto-lei vem criar o fundo, com a designação de Fundo de Inovação, Tecnologia e Economia Circular, que complementa outros fundos nacionais existentes e que já têm hoje objetivos e fontes de financiamento que se relacionam com atividades neste domínio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115531052": {
+   "fragment_id": "115553597",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei cria, na dependência do membro do Governo responsável pela área da Economia, o Fundo de Inovação, Tecnologia e Economia Circular, abreviadamente designado por Fundo."
+  },
+  "115531053": {
+   "fragment_id": "115553598",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO Fundo tem a natureza de património autónomo, sem personalidade jurídica, com autonomia administrativa, financeira e personalidade judiciária e rege-se pelo disposto no presente decreto-lei e no respetivo regulamento de gestão."
+  },
+  "115531054": {
+   "fragment_id": "115553599",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidade e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Finalidade e objetivos\n\n1 - O Fundo tem por finalidade apoiar políticas de valorização do conhecimento científico e tecnológico e sua transformação em inovação, de estímulo à cooperação entre Instituições de Ensino Superior, centros de interface tecnológico (CIT) e o tecido empresarial e de capacitação para um uso mais eficiente dos recursos, preservando a sua utilidade e valor ao longo de toda a cadeia de produção e utilização, nomeadamente através da eficiência material e energética.\n\n2 - No âmbito da sua finalidade, o Fundo prossegue os seguintes objetivos específicos:\n\na) Valorizar o conhecimento científico e tecnológico, potenciando a sua transferência para as empresas e a sua transformação em inovação;\n\nb) Melhorar a articulação entre os diferentes intervenientes no sistema de Inovação: Instituições de Ensino Superior, CIT e empresas;\n\nc) Assegurar um financiamento de base aos CIT que desempenhem um papel relevante na transferência de tecnologia e capacitação das empresas na sua transição para uma economia circular, designadamente contribuindo para a redução das emissões de gases com efeito de estufa e, assim, para mitigação das alterações climáticas;\n\nd) Aumentar a capacidade de I&D (Investigação e Desenvolvimento) e Inovação nas pequenas e médias empresas, potenciando a sua ligação ao sistema de inovação através dos CIT;\n\ne) Promover a inovação que conduza a um uso eficiente e produtivo de recursos materiais e energéticos através dos CIT;\n\nf) Facilitar o acesso dos CIT e das empresas a recursos humanos altamente qualificados, promovendo emprego qualificado."
+  },
+  "115531055": {
+   "fragment_id": "115553600",
+   "type": 11,
+   "heading": "Artigo 4.º — Modalidades de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Modalidades de intervenção\n\n1 - Na prossecução das suas atribuições, a intervenção do Fundo pode assumir as seguintes formas:\n\na) Financiamento de atividades no âmbito de contratos programa;\n\nb) Financiamento e cofinanciamento de projetos, em complemento e articulação com outros instrumentos nacionais ou internacionais.\n\n2 - Para efeitos do disposto no número anterior podem ser utilizadas as seguintes modalidades:\n\na) Atribuição de incentivos reembolsáveis;\n\nb) Atribuição de incentivos não-reembolsáveis;\n\nc) Participações de capital.\n\n3 - O regulamento de gestão define as regras e procedimentos aplicáveis à intervenção do Fundo."
+  },
+  "115531056": {
+   "fragment_id": "115553601",
+   "type": 11,
+   "heading": "Artigo 5.º — Dotação inicial e receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dotação inicial e receitas\n\n1 - A dotação inicial do Fundo é de (euro) 15 000 000,00, a realizar em (euro) 5 000 000,00 mediante transferência do orçamento do IAPMEI - Agência para a Competitividade e Inovação, I. P., e em (euro) 10.000.000,00 mediante transferência do Fundo Português de Carbono.\n\n2 - Constituem receitas anuais do Fundo:\n\na) As comparticipações, dotações, transferências ou subsídios provenientes do Orçamento do Estado, ou de quaisquer outras entidades públicas ou privadas, bem como do orçamento da União Europeia;\n\nb) 10 % da taxa de registo dos pré-certificados e dos certificados do Sistema de Certificação Energética de Edifícios prevista no artigo 18.º do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado e republicado pelo Decreto-Lei n.º 28/2016, de 23 de junho, que aprovou o Sistema de Certificação Energética dos Edifícios;\n\nc) Parte da receita do Fundo para a Sustentabilidade Sistémica do Setor Energético, criado pelo Decreto-Lei n.º 55/2014, de 9 de abril, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia;\n\nd) As transferências de patrimónios autónomos que apoiem projetos nas áreas de intervenção do Fundo;\n\ne) Quaisquer proveitos obtidos em resultado da sua atividade;\n\nf) Rendimentos provenientes de aplicações financeiras;\n\ng) Quaisquer outras verbas que por lei ou contrato lhes sejam atribuídas, designadamente contribuições mecenáticas, doações, heranças ou legados.\n\n3 - Para efeitos do disposto no n.º 1 e na alínea a) do n.º 2, fica o Fundo Português de Carbono autorizado, no ano de 2016, a proceder à transferência de (euro) 10 000000,00 do seu orçamento de 2016, para o Fundo, nos termos da alínea c) do n.º 2 do artigo 2.º do Decreto-Lei n.º 71/2006, de 24 de março, e em cumprimento do disposto no n.º 1 do artigo 104.º da Lei n.º 7-A/2016, de 30 de março.\n\n4 - As receitas do Fundo são exclusivamente aplicadas no desenvolvimento das suas atividades no âmbito da finalidade que prossegue.\n\n5 - Os saldos que venham a ser apurados no fim de cada ano económico transitam para o ano seguinte, nos termos do decreto-lei de execução orçamental."
+  },
+  "115531057": {
+   "fragment_id": "115553602",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas do Fundo\n\nConstituem despesas do Fundo as que resultem de encargos e responsabilidades decorrentes da prossecução das suas atividades em resultado da aplicação do presente decreto-lei, incluindo as despesas de gestão, o apoio técnico e o apoio administrativo."
+  },
+  "115531058": {
+   "fragment_id": "115553603",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão do Fundo\n\n1 - A gestão do Fundo é assegurada:\n\na) Na vertente técnica, por uma comissão executiva composta por:\n\ni) Dois membros do conselho de administração da ANI - Agência Nacional para a Inovação, S. A. (ANI, S. A.);\n\nii) Um membro designado por despacho do membro do Governo responsável pela área da economia;\n\nb) Na vertente financeira, pela IFD - Instituição Financeira de Desenvolvimento, S. A. (IFD, S. A.).\n\n2 - Compete à comissão executiva efetuar, em nome e por conta do Fundo, as operações necessárias à concretização da sua finalidade e satisfação dos seus objetivos, tal como estatuídos no artigo 3.º, designadamente, avaliar e selecionar os projetos objeto de apoio financeiro, determinar a aquisição de bens e serviços necessários ao funcionamento do Fundo, bem como prosseguir as demais atribuições nos termos fixados no regulamento de gestão.\n\n3 - O exercício de funções dos membros da comissão executiva não confere aos seus membros o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, compensação, subsídio, senha de presença ou ajudas de custo.\n\n4 - No âmbito da gestão financeira, compete à IFD, S. A., designadamente:\n\na) O pagamento dos apoios financeiros aprovados e das restantes despesas do Fundo, nos termos previstos no artigo anterior;\n\nb) A gestão das disponibilidades do Fundo de acordo com planos financeiros e orçamentos anuais, bem como apresentar anualmente um relatório da gestão financeira."
+  },
+  "115531059": {
+   "fragment_id": "115553604",
+   "type": 11,
+   "heading": "Artigo 8.º — Orientações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Orientações\n\n1 - A gestão do Fundo está sujeita às orientações emitidas através de despacho dos membros do Governo responsáveis pelas áreas da economia, da ciência, tecnologia e ensino superior e do ambiente, em qualquer domínio de ação do Fundo, sendo estas orientações vinculativas da atuação da comissão executiva no quadro do respetivo regulamento de gestão do Fundo.\n\n2 - Compete, em especial, ao membro do Governo responsável pela área da economia, a aprovação:\n\na) Da política de investimentos do Fundo;\n\nb) Dos planos financeiros e orçamentos anuais, bem como as contas e relatórios de execução, sob proposta da comissão executiva."
+  },
+  "115531060": {
+   "fragment_id": "115553605",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\n1 - O regulamento de gestão do Fundo é aprovado por portaria dos membros do Governo responsáveis pelas áreas da economia, da ciência, tecnologia e ensino superior, do ambiente e do desenvolvimento e coesão, no prazo de 90 dias a contar da data da entrada em vigor do presente decreto-lei.\n\n2 - O regulamento de gestão do Fundo estabelece, designadamente:\n\na) As condições de acesso ao financiamento pelo Fundo e de realização de despesa;\n\nb) Os critérios de elegibilidade;\n\nc) As tipologias de ação;\n\nd) Os procedimentos de aceitação, avaliação e seleção de candidaturas;\n\ne) As regras relativas à gestão técnica e financeira;\n\nf) As obrigações de planeamento e reporte do Fundo."
+  },
+  "115531061": {
+   "fragment_id": "115553606",
+   "type": 11,
+   "heading": "Artigo 10.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fiscalização\n\n1 - Sem prejuízo das competências cometidas a outras entidades, nomeadamente à Inspeção-Geral das Finanças, o Fundo dispõe de um fiscal único, que deve ser um revisor oficial de contas ou uma sociedade de revisores oficiais, com inscrição na respetiva lista da Ordem dos Revisores Oficiais de Contas, que é responsável pelo controlo da legalidade e da regularidade da sua gestão financeira e patrimonial.\n\n2 - O fiscal único é designado para um mandato com a duração de três anos, renovável uma única vez, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia, o qual fixa a respetiva remuneração, que constitui despesa própria do Fundo.\n\n3 - Compete, em especial, ao fiscal único:\n\na) Emitir parecer sobre os planos financeiros e orçamentos anuais, bem como sobre as contas e relatórios de execução;\n\nb) Acompanhar com regularidade a gestão do Fundo, através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Manter informado os membros do Governo responsáveis pelas áreas das finanças, economia, da ciência, tecnologia e ensino superior e do ambiente, bem como a comissão executiva sobre o resultado de verificações ou de exames a que proceda;\n\nd) Pronunciar-se sobre qualquer outra matéria no domínio da gestão económica e financeira, sempre que lhe seja solicitado pelos membros do Governo responsáveis pelas áreas das finanças, da economia, da ciência, tecnologia e ensino superior, ou do ambiente, bem como pela comissão executiva.\n\n4 - O fiscal único exerce as suas funções com independência técnica e funcional e no estrito respeito dos deveres de imparcialidade, isenção e sigilo sobre os factos de que tenha conhecimento no exercício ou por causa dessas funções."
+  },
+  "115531062": {
+   "fragment_id": "115553607",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio técnico, administrativo e logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio técnico, administrativo e logístico\n\nA ANI, S. A., presta o apoio técnico, administrativo e logístico necessário ao respetivo funcionamento."
+  },
+  "115531063": {
+   "fragment_id": "115553608",
+   "type": 11,
+   "heading": "Artigo 12.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Extinção\n\nEm caso de extinção do Fundo, o destino dos meios financeiros a este afetos, apurados após a respetiva liquidação, reverte para o Estado."
+  },
+  "115531064": {
+   "fragment_id": "115553609",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115531070": {
+   "fragment_id": "115553601",
+   "type": 11,
+   "heading": "Artigo 5.º — Dotação inicial e receitas",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### Artigo 5.º — Dotação inicial e receitas\n\n1 - A dotação inicial do Fundo é de (euro) 15 000 000,00, a realizar em (euro) 5 000 000,00 mediante transferência do orçamento do IAPMEI - Agência para a Competitividade e Inovação, I. P., e em (euro) 10.000.000,00 mediante transferência do Fundo Português de Carbono.\n\n2 - Constituem receitas anuais do Fundo:\n\na) As comparticipações, dotações, transferências ou subsídios provenientes do Orçamento do Estado, ou de quaisquer outras entidades públicas ou privadas, bem como do orçamento da União Europeia;\n\nb) 10 % da taxa de registo dos pré-certificados e dos certificados do Sistema de Certificação Energética de Edifícios prevista no artigo 18.º do Decreto-Lei n.º 118/2013, de 20 de agosto, alterado e republicado pelo Decreto-Lei n.º 28/2016, de 23 de junho, que aprovou o Sistema de Certificação Energética dos Edifícios;\n\nc) Parte da receita do Fundo para a Sustentabilidade Sistémica do Setor Energético, criado pelo Decreto-Lei n.º 55/2014, de 9 de abril, a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da economia;\n\nd) As transferências de patrimónios autónomos que apoiem projetos nas áreas de intervenção do Fundo;\n\ne) Quaisquer proveitos obtidos em resultado da sua atividade;\n\nf) Rendimentos provenientes de aplicações financeiras;\n\ng) Quaisquer outras verbas que por lei ou contrato lhes sejam atribuídas, designadamente contribuições mecenáticas, doações, heranças ou legados.\n\n3 - Para efeitos do disposto no n.º 1 e na alínea a) do n.º 2, fica o Fundo Português de Carbono autorizado, no ano de 2016, a proceder à transferência de (euro) 10 000000,00 do seu orçamento de 2016, para o Fundo, nos termos da alínea c) do n.º 2 do artigo 2.º do Decreto-Lei n.º 71/2006, de 24 de março, e em cumprimento do disposto no n.º 1 do artigo 104.º da Lei n.º 7-A/2016, de 30 de março.\n\n4 - As receitas do Fundo são exclusivamente aplicadas no desenvolvimento das suas atividades no âmbito da finalidade que prossegue.\n\n5 - Os saldos de receitas de fundos europeus que venham a ser apurados no fim de cada ano económico transitam automaticamente para o ano seguinte.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+  },
+  "115531071": {
+   "fragment_id": "115553603",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão do Fundo",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### Artigo 7.º — Gestão do Fundo\n\n1 - A gestão do Fundo é assegurada:\n\na) Na vertente técnica, por uma comissão executiva composta por:\n\ni) Dois membros do conselho de administração da ANI - Agência Nacional para a Inovação, S. A. (ANI, S. A.);\n\nii) Um membro designado por despacho do membro do Governo responsável pela área da economia;\n\nb) Na vertente financeira, pela IFD - Instituição Financeira de Desenvolvimento, S. A. (IFD, S. A.).\n\n2 - Compete à comissão executiva efetuar, em nome e por conta do Fundo, as operações necessárias à concretização da sua finalidade e satisfação dos seus objetivos, tal como estatuídos no artigo 3.º, designadamente, avaliar e selecionar os projetos objeto de apoio financeiro, determinar a aquisição de bens e serviços necessários ao funcionamento do Fundo, bem como prosseguir as demais atribuições nos termos fixados no regulamento de gestão.\n\n3 - O exercício de funções dos membros da comissão executiva não confere aos seus membros o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, compensação, subsídio, senha de presença ou ajudas de custo.\n\n4 - No âmbito da gestão financeira, compete à IFD, S. A., designadamente:\n\na) O pagamento dos apoios financeiros aprovados e das restantes despesas do Fundo, nos termos previstos no artigo anterior;\n\nb) A gestão das disponibilidades do Fundo de acordo com planos financeiros e orçamentos anuais, bem como apresentar anualmente um relatório da gestão financeira.\n\nc) Utilizar os saldos do Fundo, os quais transitam automaticamente para o ano económico subsequente, desde que respeitantes a saldos de receitas de fundos europeus e destinados a aplicar em ativos financeiros;\n\nd) Autorizar, independentemente do valor, as despesas a assumir pelo Fundo na celebração de contratos exclusivamente financiados por fundos europeus e as despesas relativas à parte financiada por fundos europeus de contratos cofinanciados;\n\ne) Autorizar a assunção de encargos plurianuais com ativos financeiros desde que exclusivamente financiados por fundos europeus e na parte financiada por fundos europeus no caso de encargos cofinanciados.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+  },
+  "115531066": {
+   "fragment_id": "115553613",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Plano de contas",
+   "in_force_from": "2018-06-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+   ],
+   "markdown": "###### Artigo 11.º-A — Plano de contas\n\n1 - O plano de contas do Fundo é organizado de modo a permitir registar todas as operações realizadas e identificar claramente a sua estrutura patrimonial e de funcionamento, bem como permitir a segregação por origem de fundos, nomeadamente por programa financiador.\n\n2 - O Fundo não está sujeito ao disposto no Decreto-Lei n.º 192/2015, de 11 de setembro, na sua redação atual, que prevê o Sistema de Normalização Contabilística para as Administrações Públicas 'SNC-AP', exceto quanto ao cumprimento dos requisitos relativos à contabilidade orçamental e à utilização do plano de contas multidimensional, para efeitos de integração da informação no Sistema Central de Contabilidade e Contas Públicas.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 46/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2018-115552672), em vigor a partir de 2018-06-21"
+  },
+  "115531067": {
+   "fragment_id": "115553608",
+   "type": 11,
+   "heading": "Artigo 12.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Extinção\n\nEm caso de extinção do Fundo, o destino dos meios financeiros a este afetos, apurados após a respetiva liquidação, reverte para o Estado."
+  },
+  "115531068": {
+   "fragment_id": "115553609",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115531069": {
+   "fragment_id": "115553610",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2016. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno - Manuel Frederico Tojal de Valsassina Heitor - José António Fonseca Vieira da Silva - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes.\n\nPromulgado em 28 de dezembro de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 28 de dezembro de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

@@ -1,0 +1,302 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:516877:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-118748856",
+ "dre_path": "/dr/detalhe/decreto-lei/116-1998-516877",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-05-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "118536879",
+    "118536880",
+    "118536881",
+    "118536882",
+    "118536883",
+    "118536884",
+    "118536885",
+    "118536886",
+    "118536887",
+    "118536888"
+   ]
+  },
+  {
+   "date": "2019-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:118748847:por",
+     "title": "Decreto-Lei n.º 20/2019",
+     "published": "2019-01-30",
+     "dre_path": "/dr/detalhe/decreto-lei/20-2019-118748847"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "118536879",
+    "118536880",
+    "152954414",
+    "118536882",
+    "118536890",
+    "118536891",
+    "118536893",
+    "118536894",
+    "118536892",
+    "118536888",
+    "118536889"
+   ]
+  },
+  {
+   "date": "2019-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123815984:por",
+     "title": "Resolução da Assembleia da República n.º 138/2019",
+     "published": "2019-08-08",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "118536879",
+    "118536880",
+    "152954443",
+    "118536882",
+    "152954415",
+    "152954416",
+    "152954417",
+    "152954418",
+    "152954419",
+    "118536888",
+    "118536889"
+   ]
+  }
+ ],
+ "fragments": {
+  "118536879": {
+   "fragment_id": "118748857",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 116/98\n\nde 5 de Maio\n\nO Decreto-Lei n.º 143/83, de 30 de Março, e respectiva rectificação publicada no Diário da República, 1.ª série, n.º 99, de 30 de Abril de 1983, para além de estabelecer que os médicos veterinários municipais têm o dever de colaborar com o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, na área do respectivo município, em todas as acções levadas a efeito nos domínios da sanidade animal, da higiene pública veterinária, do melhoramento zootécnico e da economia e comércio pecuários programados pelos serviços competentes, veio definir que a retribuição mensal dos médicos veterinários municipais passaria a ser suportada pelos municípios e pelo Ministério da Agricultura, respectivamente em 60% e 40%, sendo metade desta percentagem comparticipada pela ex-Junta Nacional dos Produtos Pecuários e 20% a cargo dos serviços regionais.\n\nNo entanto, a extinção entretanto verificada do Instituto Regulador e Orientador dos Mercados Agrícolas, que sucedeu à Junta Nacional dos Produtos Pecuários nas suas competências, impede que seja esta entidade a comparticipar naquela retribuição mensal.\n\nPor outro lado, na sequência da reestruturação do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas (MADRP) ao abrigo dos Decretos-Leis n.os 74/96 e 75/96, de 18 de Junho, impõe-se que aquele encargo passe a ser integralmente suportado pelos serviços regionais do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, readaptando-se a carreira de médico veterinário municipal em conformidade.\n\nFoi ouvida a Associação Nacional de Municípios.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "118536880": {
+   "fragment_id": "118748858",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA estrutura da carreira de médico veterinário municipal é a constante do mapa I anexo ao Decreto-Lei n.º 265/88, de 28 de Julho, com o desenvolvimento indiciário previsto no anexo II ao Decreto-Lei n.º 353-A/89, de 16 de Outubro."
+  },
+  "118536881": {
+   "fragment_id": "118748859",
+   "type": 11,
+   "heading": "Artigo 2.º — 1 - O provimento dos lugares é feito nos termos da lei.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — 1 - O provimento dos lugares é feito nos termos da lei.\n\n2 - O médico veterinário municipal é a autoridade sanitária veterinária concelhia, a nível da respectiva área geográfica de actuação, quando no exercício das atribuições que lhe estão legalmente cometidas.\n\n3 - Os poderes de autoridade sanitária veterinária são conferidos aos médicos veterinários municipais, por inerência de cargo, pela Direcção-Geral de Veterinária (DGV), enquanto autoridade sanitária veterinária nacional, e pela Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA), a título pessoal, não delegável e abrangendo a actividade por eles exercida na respectiva área concelhia, quando esteja em causa a sanidade animal ou a saúde pública.\n\n4 - O exercício do poder de autoridade sanitária veterinária concelhia traduz-se na competência de, sem dependência hierárquica, tomar qualquer decisão, por necessidade técnica ou científica, que entenda indispensável ou relevante para a prevenção e correcção de factores ou situações susceptíveis de causarem prejuízos graves à saúde pública, bem como nas competências relativas à garantia de salubridade dos produtos de origem animal.\n\n5 - A autoridade sanitária veterinária concelhia será substituída, na sua ausência ou impedimento, pelo médico veterinário municipal de um dos concelhos limítrofes, a designar pela autoridade sanitária veterinária nacional."
+  },
+  "118536882": {
+   "fragment_id": "118748860",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Os médicos veterinários municipais têm o dever de, nos termos da legislação vigente, colaborar com o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas (MADRP), na área do respectivo município, em todas as acções levadas a efeito nos domínios da saúde e bem-estar animal, da saúde pública veterinária, da segurança da cadeia alimentar de origem animal, da inspecção hígio-sanitária, do controlo de higiene da produção, da transformação e da alimentação animal e dos controlos veterinários de animais e produtos provenientes das trocas intracomunitárias e importados de países terceiros, programadas e desencadeadas pelos serviços competentes, designadamente a DGV e a DGFCQA.\n\n2 - Compete aos médicos veterinários municipais, no exercício da colaboração referida no número anterior:\n\na) Colaborar na execução das tarefas de inspecção hígio-sanitária e controlo hígio-sanitário das instalações para alojamento de animais, dos produtos de origem animal e dos estabelecimentos comerciais ou industriais onde se abatam, preparem, produzam, transformem, fabriquem, conservem, armazenem ou comercializem animais ou produtos de origem animal e seus derivados;\n\nb) Emitir parecer, nos termos da legislação vigente, sobre as instalações e estabelecimentos referidos na alínea anterior;\n\nc) Elaborar e remeter, nos prazos fixados, a informação relativa ao movimento nosonecrológico dos animais;\n\nd) Notificar de imediato as doenças de declaração obrigatória e adoptar prontamente as medidas de profilaxia determinadas pela autoridade sanitária veterinária nacional sempre que sejam detectados casos de doenças de carácter epizoótico;\n\ne) Emitir guias sanitárias de trânsito;\n\nf) Participar nas campanhas de saneamento ou de profilaxia determinadas pela autoridade sanitária veterinária nacional do respectivo município;\n\ng) Colaborar na realização do recenseamento de animais, de inquéritos de interesse pecuário e ou económico e prestar informação técnica sobre abertura de novos estabelecimentos de comercialização, de preparação e de transformação de produtos de origem animal."
+  },
+  "118536883": {
+   "fragment_id": "118748861",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os médicos veterinários municipais dependem, hierárquica e disciplinarmente, do presidente da câmara da respectiva área da sua intervenção.\n\n2 - As relações funcionais dos médicos veterinários com o MADRP são asseguradas através das direcções regionais de agricultura e da articulação destas com a DGV e a DGFCQA, consoante a natureza das respectivas atribuições.\n\n3 - Entre os médicos veterinários municipais e os serviços mencionados no número anterior será estabelecido um programa de contactos regulares, sem prejuízo da possibilidade de convocação extraordinária por motivo urgente.\n\n4 - Em caso de concorrência de obrigações, prevalece o serviço municipal."
+  },
+  "118536884": {
+   "fragment_id": "118748862",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - A retribuição mensal correspondente aos índice e escalão do vencimento dos médicos veterinários municipais é suportada pelos respectivos municípios e pelo MADRP, respectivamente em 60% e 40%.\n\n2 - O encargo correspondente ao MADRP é suportado pelas direcções regionais de agricultura, através de verba inscrita nos respectivos orçamentos em despesas com o pessoal.\n\n3 - Constitui encargo das câmaras municipais o pagamento do subsídio de refeição e o apoio técnico-profissional e administrativo.\n\n4 - Os serviços prestados no exercício das funções enunciadas na alínea f) do n.º 2 do artigo 3.º estão sujeitos às regras fixadas para cada campanha."
+  },
+  "118536885": {
+   "fragment_id": "118748863",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Os médicos veterinários municipais, quando se desloquem no exercício das suas funções oficiais, têm direito a ajudas de custo e a despesas de transporte, nos termos legais.\n\n2 - O pagamento das despesas referidas no número anterior compete à câmara municipal ou ao MADRP, consoante a natureza do serviço prestado e de harmonia com a legislação em vigor, considerando-se para o efeito como domicílio profissional a sede do respectivo município.\n\n3 - A quota de desconto para efeitos de aposentação incide sobre a totalidade da retribuição mensal fixada nos termos do n.º 1 do artigo 5.º do presente diploma, assim como sobre a percentagem inerente ao trabalho dependente, resultante das campanhas de saneamento ou profilaxia para a área do município, de acordo com a alínea f) do n.º 2 do artigo 3.º deste diploma."
+  },
+  "118536886": {
+   "fragment_id": "118748864",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Para efeitos do disposto no presente diploma, as câmaras municipais comunicarão aos respectivos serviços regionais a data de posse dos médicos veterinários municipais que vierem a ser nomeados.\n\n2 - Relativamente aos médicos veterinários municipais referidos no número anterior, o direito ao abono da remuneração a cargo do MADRP será reconhecido por despacho do Ministro, mediante processo a organizar pelos serviços regionais, no prazo de 30 dias a contar da posse, sem prejuízo, porém, da retroacção de efeitos a esta última data."
+  },
+  "118536887": {
+   "fragment_id": "118748865",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nNo exercício da sua actividade como autoridade sanitária veterinária concelhia, o médico veterinário municipal deverá articular-se com a autoridade de saúde concelhia nos aspectos relacionados com a saúde humana, tendo poderes para solicitar a colaboração e intervenção das autoridades administrativas, policiais e de fiscalização das actividades económicas."
+  },
+  "118536888": {
+   "fragment_id": "118748866",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSão revogados os Decretos-Leis n.os 143/83, de 30 de Março, e 436/89, de 19 de Dezembro."
+  },
+  "152954414": {
+   "fragment_id": "118748859",
+   "type": 11,
+   "heading": "Artigo 2.º — 1 - O provimento dos lugares é feito nos termos da lei.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — 1 - O provimento dos lugares é feito nos termos da lei.\n\n1 - O provimento dos lugares é feito nos termos da lei.\n\n2 - O médico veterinário municipal é a autoridade sanitária veterinária concelhia, a nível da respectiva área geográfica de actuação, quando no exercício das atribuições que lhe estão legalmente cometidas.\n\n3 - Os poderes de autoridade sanitária veterinária são conferidos aos médicos veterinários municipais, por inerência de cargo, pela Direcção-Geral de Veterinária (DGV), enquanto autoridade sanitária veterinária nacional, e pela Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA), a título pessoal, não delegável e abrangendo a actividade por eles exercida na respectiva área concelhia, quando esteja em causa a sanidade animal ou a saúde pública.\n\n4 - O exercício do poder de autoridade sanitária veterinária concelhia traduz-se na competência de, sem dependência hierárquica, tomar qualquer decisão, por necessidade técnica ou científica, que entenda indispensável ou relevante para a prevenção e correcção de factores ou situações susceptíveis de causarem prejuízos graves à saúde pública, bem como nas competências relativas à garantia de salubridade dos produtos de origem animal.\n\n5 - A autoridade sanitária veterinária concelhia será substituída, na sua ausência ou impedimento, pelo médico veterinário municipal de um dos concelhos limítrofes, a designar pela autoridade sanitária veterinária nacional."
+  },
+  "118536890": {
+   "fragment_id": "118748861",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2019-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Os médicos veterinários municipais dependem, funcional, hierárquica e disciplinarmente, do presidente da câmara municipal ou do vereador, dirigente ou trabalhador com competências delegadas.\n\n2 - (Revogada).\n\n3 - (Revogada).\n\n4 - O relacionamento do Estado com os municípios nos termos do n.º 1 depende de prévia autorização do presidente da câmara municipal ou do vereador, dirigente ou trabalhador com competências delegadas, que se considera tacitamente deferida no prazo de 10 dias e está sujeito ao pagamento de taxas a fixar pelos municípios nos termos da Lei n.º 53-E/2006, de 29 de dezembro, na sua redação atual, que aprova o regime geral das taxas das autarquias locais.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+  },
+  "118536891": {
+   "fragment_id": "118748862",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2019-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - A remuneração mensal e outras prestações pecuniárias devidas aos médicos veterinários municipais constituem encargo dos municípios nos quais exerçam funções.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n4 - Os serviços prestados no exercício das funções enunciadas na alínea f) do n.º 2 do artigo 3.º estão sujeitos às regras fixadas para cada campanha.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+  },
+  "118536893": {
+   "fragment_id": "118748863",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2019-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Os médicos veterinários municipais, quando se desloquem no exercício das suas funções oficiais, têm direito a ajudas de custo e a despesas de transporte, nos termos legais.\n\n2 - (Revogado).\n\n3 - A quota de desconto para efeitos de aposentação incide sobre a totalidade da retribuição mensal fixada nos termos do n.º 1 do artigo 5.º do presente diploma, assim como sobre a percentagem inerente ao trabalho dependente, resultante das campanhas de saneamento ou profilaxia para a área do município, de acordo com a alínea f) do n.º 2 do artigo 3.º deste diploma.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+  },
+  "118536894": {
+   "fragment_id": "118748864",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2019-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - Para efeitos do disposto no presente diploma, as câmaras municipais comunicarão aos respectivos serviços regionais a data de posse dos médicos veterinários municipais que vierem a ser nomeados.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+  },
+  "118536892": {
+   "fragment_id": "118748865",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2019-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1-No exercício da sua actividade como autoridade sanitária veterinária concelhia, o médico veterinário municipal deverá articular-se com a autoridade de saúde concelhia nos aspectos relacionados com a saúde humana, tendo poderes para solicitar a colaboração e intervenção das autoridades administrativas, policiais e de fiscalização das actividades económicas.\n\n2 - Da atividade mencionada no número anterior deve obter-se prévia autorização do presidente da câmara municipal ou do vereador, dirigente ou trabalhador com competências delegadas, que se considera tacitamente deferida no prazo de 10 dias.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+  },
+  "118536889": {
+   "fragment_id": "118748867",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Março de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Fernando Manuel Van-Zeller Gomes da Silva.\n\nPromulgado em 17 de Abril de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Abril de 1998.\n\nPelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional."
+  },
+  "152954443": {
+   "fragment_id": "118748859",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O provimento dos lugares é feito nos termos da lei.\n\n2 - O médico veterinário municipal é a autoridade sanitária veterinária concelhia, a nível da respectiva área geográfica de actuação, quando no exercício das atribuições que lhe estão legalmente cometidas.\n\n3 - Os poderes de autoridade sanitária veterinária são conferidos aos médicos veterinários municipais, por inerência de cargo, pela Direcção-Geral de Veterinária (DGV), enquanto autoridade sanitária veterinária nacional, e pela Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA), a título pessoal, não delegável e abrangendo a actividade por eles exercida na respectiva área concelhia, quando esteja em causa a sanidade animal ou a saúde pública.\n\n4 - O exercício do poder de autoridade sanitária veterinária concelhia traduz-se na competência de, sem dependência hierárquica, tomar qualquer decisão, por necessidade técnica ou científica, que entenda indispensável ou relevante para a prevenção e correcção de factores ou situações susceptíveis de causarem prejuízos graves à saúde pública, bem como nas competências relativas à garantia de salubridade dos produtos de origem animal.\n\n5 - A autoridade sanitária veterinária concelhia será substituída, na sua ausência ou impedimento, pelo médico veterinário municipal de um dos concelhos limítrofes, a designar pela autoridade sanitária veterinária nacional."
+  },
+  "152954415": {
+   "fragment_id": "118748861",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2019-08-13",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Os médicos veterinários municipais dependem, hierárquica e disciplinarmente, do presidente da câmara da respectiva área da sua intervenção.\n\n2 - As relações funcionais dos médicos veterinários com o MADRP são asseguradas através das direcções regionais de agricultura e da articulação destas com a DGV e a DGFCQA, consoante a natureza das respectivas atribuições.\n\n3 - Entre os médicos veterinários municipais e os serviços mencionados no número anterior será estabelecido um programa de contactos regulares, sem prejuízo da possibilidade de convocação extraordinária por motivo urgente.\n\n4 - Em caso de concorrência de obrigações, prevalece o serviço municipal.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+  },
+  "152954416": {
+   "fragment_id": "118748862",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2019-08-13",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - A retribuição mensal correspondente aos índice e escalão do vencimento dos médicos veterinários municipais é suportada pelos respectivos municípios e pelo MADRP, respectivamente em 60% e 40%.\n\n2 - O encargo correspondente ao MADRP é suportado pelas direcções regionais de agricultura, através de verba inscrita nos respectivos orçamentos em despesas com o pessoal.\n\n3 - Constitui encargo das câmaras municipais o pagamento do subsídio de refeição e o apoio técnico-profissional e administrativo.\n\n4 - Os serviços prestados no exercício das funções enunciadas na alínea f) do n.º 2 do artigo 3.º estão sujeitos às regras fixadas para cada campanha.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+  },
+  "152954417": {
+   "fragment_id": "118748863",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2019-08-13",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13",
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Os médicos veterinários municipais, quando se desloquem no exercício das suas funções oficiais, têm direito a ajudas de custo e a despesas de transporte, nos termos legais.\n\n2 - O pagamento das despesas referidas no número anterior compete à câmara municipal ou ao MADRP, consoante a natureza do serviço prestado e de harmonia com a legislação em vigor, considerando-se para o efeito como domicílio profissional a sede do respectivo município.\n\n3 - A quota de desconto para efeitos de aposentação incide sobre a totalidade da retribuição mensal fixada nos termos do n.º 1 do artigo 5.º do presente diploma, assim como sobre a percentagem inerente ao trabalho dependente, resultante das campanhas de saneamento ou profilaxia para a área do município, de acordo com a alínea f) do n.º 2 do artigo 3.º deste diploma.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+  },
+  "152954418": {
+   "fragment_id": "118748864",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2019-08-13",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13",
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - Para efeitos do disposto no presente diploma, as câmaras municipais comunicarão aos respectivos serviços regionais a data de posse dos médicos veterinários municipais que vierem a ser nomeados.\n\n2 - Relativamente aos médicos veterinários municipais referidos no número anterior, o direito ao abono da remuneração a cargo do MADRP será reconhecido por despacho do Ministro, mediante processo a organizar pelos serviços regionais, no prazo de 30 dias a contar da posse, sem prejuízo, porém, da retroacção de efeitos a esta última data.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+  },
+  "152954419": {
+   "fragment_id": "118748865",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2019-08-13",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º\n\nNo exercício da sua actividade como autoridade sanitária veterinária concelhia, o médico veterinário municipal deverá articular-se com a autoridade de saúde concelhia nos aspectos relacionados com a saúde humana, tendo poderes para solicitar a colaboração e intervenção das autoridades administrativas, policiais e de fiscalização das actividades económicas.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31, produz efeitos a partir de 2019-01-01"
+  }
+ }
+}

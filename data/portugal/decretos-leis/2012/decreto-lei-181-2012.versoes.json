@@ -1,0 +1,948 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:178993:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-34582975",
+ "dre_path": "/dr/detalhe/decreto-lei/181-2012-178993",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "53344075",
+    "53344175",
+    "53344275",
+    "53344375",
+    "53344475",
+    "53344575",
+    "53344675",
+    "53344775",
+    "53344875",
+    "53344975",
+    "53345075",
+    "53345175",
+    "53345275",
+    "53345375",
+    "53345475",
+    "53345575",
+    "53345675",
+    "53345775",
+    "53345875",
+    "53345975",
+    "53346075",
+    "53346175",
+    "53346275",
+    "53346375",
+    "53346475",
+    "53346575",
+    "53346675",
+    "53346775",
+    "53346875",
+    "53346975",
+    "53347075",
+    "53347175",
+    "53347275"
+   ]
+  },
+  {
+   "date": "2015-09-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70716379:por",
+     "title": "Declaração de Retificação n.º 46/2015",
+     "published": "2015-10-16",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/46-2015-70716379"
+    },
+    {
+     "id": "pt:dre:70373436:por",
+     "title": "Decreto-Lei n.º 207/2015",
+     "published": "2015-09-24",
+     "dre_path": "/dr/detalhe/decreto-lei/207-2015-70373436"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 18.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "53344075",
+    "53344175",
+    "53344275",
+    "53344375",
+    "53344475",
+    "70731016",
+    "53344675",
+    "53344775",
+    "53344875",
+    "53344975",
+    "53345075",
+    "53345175",
+    "70731041",
+    "53345375",
+    "53345475",
+    "53345575",
+    "53345675",
+    "53345775",
+    "70731042",
+    "53345975",
+    "53346075",
+    "53346175",
+    "70731045",
+    "53346375",
+    "53346475",
+    "53346575",
+    "53346675",
+    "53346775",
+    "53346875",
+    "53346975",
+    "53347075",
+    "53347175",
+    "53347275",
+    "70731015"
+   ]
+  },
+  {
+   "date": "2018-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115552673:por",
+     "title": "Decreto-Lei n.º 47/2018",
+     "published": "2018-06-20",
+     "dre_path": "/dr/detalhe/decreto-lei/47-2018-115552673"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 9.º-B",
+    "Adita Artigo 9.º-C",
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Capítulo III",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "53344075",
+    "53344175",
+    "115556339",
+    "115556340",
+    "115556341",
+    "115556342",
+    "115556343",
+    "53344775",
+    "115556344",
+    "115556345",
+    "115556346",
+    "115556310",
+    "115556347",
+    "115539758",
+    "115539765",
+    "115539772",
+    "115556348",
+    "115556349",
+    "115556279",
+    "115556350",
+    "115556351",
+    "115556352",
+    "115556284",
+    "115556353",
+    "53345975",
+    "115556354",
+    "53346175",
+    "115556355",
+    "115556356",
+    "53346475",
+    "115556357",
+    "115556358",
+    "53346775",
+    "53346875",
+    "53346975",
+    "53347075",
+    "53347175",
+    "53347275",
+    "70731015"
+   ]
+  },
+  {
+   "date": "2026-06-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1125313598:por",
+     "title": "Decreto-Lei n.º 99/2026",
+     "published": "2026-05-22",
+     "dre_path": "/dr/detalhe/decreto-lei/99-2026-1125313598"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 9.º-C",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "53344075",
+    "53344175",
+    "1125589375",
+    "115556340",
+    "1125589575",
+    "1125589775",
+    "115556343",
+    "53344775",
+    "1125589975",
+    "115556345",
+    "115556346",
+    "115556310",
+    "1125590175",
+    "115539758",
+    "115539765",
+    "1125590375",
+    "1125590575",
+    "115556349",
+    "115556279",
+    "1125590775",
+    "115556351",
+    "115556352",
+    "115556284",
+    "115556353",
+    "53345975",
+    "115556354",
+    "53346175",
+    "1125590975",
+    "115556356",
+    "53346475",
+    "115556357",
+    "115556358",
+    "53346775",
+    "53346875",
+    "53346975",
+    "1126565875",
+    "53347175",
+    "53347275",
+    "70731015"
+   ]
+  }
+ ],
+ "fragments": {
+  "53344075": {
+   "fragment_id": "35202775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 181/2012\n\nde 6 de agosto\n\nA Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno, que estabeleceu os princípios e os critérios que devem ser observados pelos regimes de acesso e de exercício de atividades de serviços na União Europeia, foi transposta para a ordem jurídica interna pelo Decreto-Lei n.º 92/2010, de 26 de julho. Menos burocracia, procedimentos mais rápidos e um acesso mais fácil ao exercício de atividades tornam o mercado de serviços mais competitivo, contribuindo para o crescimento económico e para a criação de emprego. Para além da competitividade do mercado dos serviços, garante-se ainda aos consumidores uma maior transparência e informação, proporcionando uma oferta de serviços mais ampla, mais diversificada e de qualidade superior.\n\nO presente decreto-lei visa, neste contexto, simplificar o regime jurídico de acesso e de exercício da atividade de aluguer de veículos de passageiros sem condutor, designada por rent-a-car, quando exercida por prestadores estabelecidos em território nacional.\n\nEm primeiro lugar, estabelece-se que o exercício da atividade está sujeito a comunicação prévia, podendo o Instituto da Mobilidade e dos Transportes, I. P., opor-se quando, no prazo de 20 dias úteis, verifique não estarem preenchidos os requisitos estabelecidos para o acesso à atividade de aluguer de veículos de passageiros sem condutor. O requerente deve, assim, possuir idoneidade devidamente comprovada nos termos estabelecidos no presente diploma, propor-se a explorar um número mínimo de veículos e dispor de um estabelecimento fixo para atendimento ao público.\n\nEste regime de acesso à atividade enquadra-se nas regras do Decreto-Lei n.º 92/2010, de 26 de julho, designadamente quanto ao regime de permissão administrativa previsto no artigo 9.º deste decreto-lei.\n\nO regime de permissão administrativa, além de não discriminatório, sendo os respetivos requisitos de verificação universal, justifica-se por razões de segurança rodoviária, proteção dos destinatários dos serviços, defesa do consumidor e proteção do ambiente, que constituem uma «imperiosa razão de interesse público», na aceção do n.º 1 do artigo 30.º do Decreto-Lei n.º 92/2010, de 26 de julho. Previne também a entrada no mercado de prestadores que não oferecem garantias de cumprimento dos objetivos referidos, o que não pode ser assegurado pelo controlo a posteriori.\n\nEm segundo lugar, reduz-se o número mínimo de veículos necessários para o acesso à atividade de 25 para 7 veículos ligeiros, permitindo que pequenas empresas prestem igualmente estes serviços e fomentando o empreendedorismo.\n\nEm terceiro lugar, visando facilitar o acesso à atividade, procede-se à revogação do requisito da exigência de estabelecimento principal em Portugal, da necessidade de autorização para abertura de agências e da exigência de forma de pessoa coletiva para o prestador destes serviços, tudo de acordo com o Decreto-Lei n.º 92/2010, de 26 de julho.\n\nEm quarto lugar, tendo em conta a necessidade de diferenciar este regime de outras atividades, esclarece-se que se excluem do conceito de aluguer de veículos de passageiros sem condutor os contratos tendentes ao financiamento ou à aquisição dos veículos por qualquer forma, incluindo cláusulas de opção ou promessas de compra ou venda dos mesmos, ínsitas no contrato ou constantes de negócio jurídico separado. O presente regime pretende, assim, abranger apenas a atividade de locação de veículos, não incluindo outros tipos de contratos ou prestação de serviços de disponibilização de veículos por períodos muito reduzidos, vulgarmente designados por car sharing, em que o principal objetivo é a gestão de frotas das empresas, nem alugueres de longa duração, vulgarmente designados de ALD ou renting.\n\nPor último, e considerando que nesta atividade o locatário se encontra, muitas vezes, numa situação de vulnerabilidade no que respeita à celebração dos contratos e à sua execução, são também introduzidas normas que preveem garantias acrescidas do consumidor. A título de exemplo, prevê-se agora que em caso de indisponibilidade do veículo contratado, o locador deve assegurar a prestação de serviço equivalente ao contratado ou disponibilizar um veículo de gama superior, sem qualquer custo adicional para o locatário.\n\nDe notar ainda que a atividade de rent-a-car cujo prestador se encontre estabelecido noutro Estado membro da União Europeia ou do Espaço Económico Europeu continua, tal como no presente, livre de regulação, sem prejuízo do regime de realuguer constante do artigo 37.º do Código de Imposto sobre Veículos.\n\nFoi ouvida, a título facultativo, a ARAC - Associação dos Industriais de Aluguer de Automóveis sem Condutor.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "53344175": {
+   "fragment_id": "36295275",
+   "type": 1,
+   "heading": "Capítulo I — Acesso à atividade de aluguer de veículos de passageiros sem condutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Acesso à atividade de aluguer de veículos de passageiros sem condutor"
+  },
+  "53344275": {
+   "fragment_id": "37875975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei regula as condições de acesso e de exercício da atividade de aluguer de veículos de passageiros sem condutor, também designada por atividade de rent-a-car, por pessoas singulares ou coletivas estabelecidas em território nacional.\n\n2 - O presente decreto-lei não é aplicável:\n\na) Aos contratos classificados como de locação financeira, nos termos das normas legais e regulamentares aplicáveis;\n\nb) Aos contratos de prestação de serviços de organização de aluguer visando a disponibilização ou a partilha de veículos, designada por car sharing; e\n\nc) Aos contratos de prestação de serviços de aluguer de longa duração, também designados de ALD ou renting.\n\n3 - Para efeitos do disposto no número anterior, considera-se como de longa duração o aluguer de veículos por período igual ou superior a 12 meses."
+  },
+  "53344375": {
+   "fragment_id": "37876075",
+   "type": 11,
+   "heading": "Artigo 2.º — Atividade de rent-a-car",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atividade de rent-a-car\n\n1 - No âmbito da atividade de rent-a-car podem ser objeto de contrato de aluguer:\n\na) Automóveis ligeiros de passageiros;\n\nb) Motociclos;\n\nc) Triciclos;\n\nd) Quadriciclos.\n\n2 - Podem ser ainda objeto de contrato de aluguer, no âmbito da atividade de rent-a-car, veículos de características especiais, a definir por deliberação do conselho diretivo do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.)."
+  },
+  "53344475": {
+   "fragment_id": "37876175",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acesso à atividade\n\n1 - O acesso e exercício da atividade de rent-a-car está sujeito a comunicação prévia com prazo ao IMT, I. P., a efetuar por via do balcão único eletrónico dos serviços a que se referem os artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho ou da plataforma eletrónica deste Instituto, conforme modelo a aprovar nos termos do n.º 2 do artigo 23.º\n\n2 - No prazo máximo de 20 dias úteis a contar da data da comunicação prévia a que se refere o número anterior, o IMT, I. P., verifica o preenchimento dos requisitos de acesso à atividade previstos nos artigos 4.º e 5.º, só podendo indeferir o requerimento se os mesmos não estiverem reunidos.\n\n3 - Quando, após o decurso do prazo referido no número anterior, não haja decisão expressa de permissão administrativa, considera-se a pretensão do requerente tacitamente deferida.\n\n4 - O IMT, I. P., deve notificar o requerente da receção da comunicação prévia, informando-o do prazo para a decisão final, dos efeitos resultantes da falta de decisão final nesse prazo e das vias de reação administrativa ou contenciosa, a efetuar por via do balcão único eletrónico dos serviços ou da plataforma eletrónica deste Instituto.\n\n5 - O IMT, I. P., mantém no seu sítio na Internet, acessível através do balcão a que se refere o n.º 1, uma lista dos prestadores de serviços autorizados, expressa ou tacitamente, a exercer atividade de rent-a-car em território nacional."
+  },
+  "53344575": {
+   "fragment_id": "37876275",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de acesso à atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de acesso à atividade\n\n1 - Para efeitos de acesso à atividade, os interessados devem observar cumulativamente os seguintes requisitos:\n\na) Possuir idoneidade, devidamente comprovada nos termos do artigo 5.º;\n\nb) Propor-se explorar um número mínimo de veículos, independentemente do número de estabelecimentos fixos existentes em território nacional;\n\nc) Dispor de, pelo menos, um estabelecimento fixo para atendimento ao público.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o número mínimo de veículos é de:\n\na) Sete, para o aluguer de automóveis ligeiros de passageiros;\n\nb) Três, para o aluguer das restantes categorias de veículos, salvo se já se encontrar cumprido o limite referido na alínea anterior.\n\n3 - No caso de veículos de características especiais, como tal definidos pela deliberação do conselho diretivo do IMT, I. P., referida no n.º 2 do artigo 2.º, pode este órgão estabelecer por deliberação limites mínimos diversos dos referidos na alínea b) do número anterior.\n\n4 - Os requisitos de acesso à atividade são de verificação permanente, devendo as entidades autorizadas comprovar o seu cumprimento sempre que lhes seja solicitado, podendo o conselho diretivo do IMT, I. P., determinar a revogação da permissão administrativa em caso de incumprimento reiterado."
+  },
+  "53344675": {
+   "fragment_id": "37876375",
+   "type": 11,
+   "heading": "Artigo 5.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Idoneidade\n\n1 - A idoneidade é aferida relativamente ao requerente e, tratando-se de pessoa coletiva, também relativamente aos responsáveis pela administração, direção ou gerência, designadamente através da consulta do certificado de registo criminal, a promover pelo IMT, I. P.\n\n2 - São consideradas idóneas as pessoas relativamente às quais não se verifique qualquer dos seguintes factos:\n\na) Proibição legal para o exercício do comércio;\n\nb) Condenação, com trânsito em julgado, por infrações cometidas às normas relativas ao regime das prestações de natureza retributiva, ou às condições de higiene e segurança no trabalho, à proteção do ambiente e à responsabilidade profissional, nos casos em que tenha sido decretada a interdição do exercício da atividade de rent-a-car, ou inibição do exercício do comércio por ter sido declarada a falência ou insolvência, enquanto não for levantada a inibição ou a reabilitação do falido."
+  },
+  "53344775": {
+   "fragment_id": "36295375",
+   "type": 1,
+   "heading": "Capítulo II — Exercício da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício da atividade"
+  },
+  "53344875": {
+   "fragment_id": "37876475",
+   "type": 11,
+   "heading": "Artigo 6.º — Veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Veículos\n\n1 - Só podem ser utilizados na atividade de rent-a-car veículos que obedeçam aos seguintes requisitos cumulativos:\n\na) Sejam matriculados em Portugal, sem prejuízo do disposto no artigo 8.º;\n\nb) Sejam propriedade do locador, ou adquiridos em regime de locação financeira, ou tenham sido objeto de locação a outro prestador de serviços de rent-a-car;\n\nc) Não tenham mais do que cinco anos contados a partir da data da primeira matrícula, salvo nos casos dos veículos com características especiais, cujo limite de idade é definido por deliberação do conselho diretivo do IMT, I. P.;\n\nd) Pelo menos 10 % dos veículos do prestador de serviços, afetos ao exercício da atividade de rent-a-car, devem cumprir as normas ambientais designadas de «Euro V», nos termos do Decreto-Lei n.º 346/2007, de 17 de outubro, alterado pelo Decreto-Lei n.º 196/2009, de 24 de agosto.\n\n2 - O limite estabelecido na alínea c) do número anterior pode ser excecionalmente prorrogado por períodos de um ano, até ao máximo de dois anos, por despacho do presidente do conselho diretivo do IMT, I. P., após inspeção dos respetivos veículos.\n\n3 - Sem prejuízo do disposto na alínea b) do n.º 1, é proibida a sublocação dos veículos alugados nos termos do presente decreto-lei.\n\n4 - Os veículos afetos à atividade de rent-a-car, quando não alugados, não podem estacionar na via pública, salvo em lugares especialmente fixados para este efeito, designadamente os situados junto de terminais de transporte."
+  },
+  "53344975": {
+   "fragment_id": "37876575",
+   "type": 11,
+   "heading": "Artigo 7.º — Disponibilidade ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disponibilidade ao público\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo 11.º, os veículos de aluguer sem condutor devem encontrar-se à disposição do público, dentro do horário de funcionamento dos locais de atendimento.\n\n2 - Os veículos de aluguer sem condutor não podem ficar ao serviço exclusivo e permanente do locador ou, tratando-se de pessoas coletivas, dos respetivos sócios, diretores, administradores ou gerentes."
+  },
+  "53345075": {
+   "fragment_id": "37876675",
+   "type": 11,
+   "heading": "Artigo 8.º — Veículos automóveis de matrícula estrangeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Veículos automóveis de matrícula estrangeira\n\nOs veículos automóveis de matrícula estrangeira em regime de aluguer sem condutor, admitidos temporariamente no território nacional, apenas podem ser realugados nos termos previstos no artigo 37.º do Código do Imposto sobre Veículos, aprovado pela Lei n.º 22-A/2007, de 29 de junho, alterada pela Lei n.º 67-A/2007, de 31 de dezembro, pela Lei n.º 44/2008, de 27 de agosto, pela Lei n.º 64-A/2008, de 31 e de dezembro, pela Lei n.º 3-B/2010, de 28 de abril, pela Lei n.º 55-A/2010, de 31 de dezembro, e pela Lei n.º 64-B/2011, de 30 de dezembro."
+  },
+  "53345175": {
+   "fragment_id": "36295475",
+   "type": 1,
+   "heading": "Capítulo III — Contrato de aluguer de veículos de passageiros sem condutor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Contrato de aluguer de veículos de passageiros sem condutor"
+  },
+  "53345275": {
+   "fragment_id": "37876775",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma e conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Forma e conteúdo\n\n1 - O contrato de aluguer de veículos de passageiros sem condutor é reduzido a escrito e assinado pelas partes contratantes, devendo existir sempre um exemplar em português.\n\n2 - O contrato é numerado sequencialmente e feito em duplicado, sendo o original conservado pelo locador e o duplicado entregue ao locatário.\n\n3 - Do contrato constam, de forma clara, precisa e com carateres legíveis:\n\na) A identificação das partes;\n\nb) A identificação do veículo alugado;\n\nc) O preço a pagar, com descrição de todos os seus componentes fixos e variáveis ou, quando não for possível indicar o preço exato, o método de cálculo do preço e o valor total expectável, bem como menção do imposto aplicável;\n\nd) As importâncias recebidas pelo locador a título de caução;\n\ne) Os serviços complementares convencionados, respetivo preço e condições, e, tratando-se de seguros, as suas coberturas e exclusões;\n\nf) A data e local do início e fim do aluguer, bem como as condições a observar pelo locatário aquando da entrega do veículo no termo do contrato;\n\ng) O nome, endereço e número de telefone do serviço de assistência.\n\n4 - O locador pode recusar o aluguer, quando o cliente não ofereça garantias de cumprimento do contrato.\n\n5 - O locador pode retirar ao locatário o veículo alugado antes do termo do contrato, bem como rescindir o contrato, nos termos da lei, com fundamento em incumprimento das cláusulas contratuais.\n\n6 - Em caso de alteração das condições inicialmente acordadas, nomeadamente pela contratação de serviços adicionais, a mesma deve constar de documento autónomo, assinado pelo locatário.\n\n7 - Sem prejuízo do disposto no Decreto-Lei n.º 446/85, de 25 de outubro, alterado pelo Decreto-Lei n.º 220/95, de 31 de agosto, pelo Decreto-Lei n.º 249/99, de 7 de julho, e pelo Decreto-Lei n.º 323/2001, de 17 de dezembro, são proibidas e nulas as cláusulas contratuais que estabeleçam:\n\na) A aceitação pelo locatário de vícios não aparentes ou não reconhecíveis no veículo;\n\nb) A renúncia ao direito de oposição pelo locatário de valores relativos a despesas apresentadas pelo locador;\n\nc) A cobrança de taxas pelo reabastecimento do veículo pelo locador;\n\nd) Obrigações de pagamento de despesas pelo locatário que não se encontrem devidamente discriminadas e previstas no contrato, com exceção do valor das taxas de portagem, nos termos do disposto no artigo 18.º-A da Portaria n.º 314-B/2010, de 14 de junho, alterada pelas Portarias n.os 1033-C/2010, de 6 de outubro, 1296-A/2010, de 20 de dezembro, e 135-A/2011, de 4 de abril;\n\ne) Que a celebração do contrato fica dependente da autorização do locatário para a utilização, por qualquer forma, em bases de dados de clientes incumpridores e da sua comunicação às empresas do setor, dos dados pessoais fornecidos por este no âmbito do contrato;\n\nf) Que a celebração do contrato fica dependente da celebração de outros contratos, designadamente de seguros não obrigatórios."
+  },
+  "53345375": {
+   "fragment_id": "37876875",
+   "type": 11,
+   "heading": "Artigo 10.º — Cláusulas contratuais gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cláusulas contratuais gerais\n\n1 - Tratando-se de contratos de adesão com uso de cláusulas contratuais gerais, o locador está obrigado a enviar uma cópia dos respetivos projetos ao IMT, I. P.\n\n2 - O IMT, I. P., pode pronunciar-se a todo o tempo sobre a legalidade das cláusulas constantes dos projetos de contratos tipo.\n\n3 - O IMT, I. P., deve solicitar parecer à Direção-Geral do Consumidor (DGC) sempre que os contratos se destinem a ser apresentados a consumidores, na aceção da Lei n.º 24/96, de 31 de julho, alterada pela Lei n.º 85/98, de 16 de dezembro, e pelo Decreto-Lei n.º 67/2003, de 8 de abril.\n\n4 - O parecer da DGC referido no número anterior é emitido no prazo de 30 dias contados da data de receção da cópia do projeto de contrato enviado pelo IMT, I. P.\n\n5 - O IMT, I. P., na sequência da apreciação prevista no n.º 2, pode ordenar ao locador, ouvida a DGC, a eliminação das cláusulas consideradas ilegais, publicando no seu sítio da Internet informação relativa às mesmas.\n\n6 - O presente artigo aplica-se aos contratos celebrados por locadores estabelecidos em território nacional, independentemente da lei escolhida pelas partes para regular o contrato."
+  },
+  "53345475": {
+   "fragment_id": "37876975",
+   "type": 11,
+   "heading": "Artigo 11.º — Reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reserva\n\n1 - Qualquer que seja o meio pelo qual a reserva é efetuada, o locador faculta ao locatário, em papel ou noutro suporte duradouro, em tempo útil e previamente à sua efetivação, as seguintes informações:\n\na) A identificação, localização e contactos do locador;\n\nb) As características essenciais do veículo;\n\nc) O preço do serviço, incluindo taxas e impostos, bem como todas as condições de aplicação desse preço;\n\nd) As modalidades de caução, caso seja exigida, e respetivo montante;\n\ne) As modalidades de seguro, e respetivas coberturas e condições;\n\nf) As modalidades de pagamento;\n\ng) O prazo de validade da oferta;\n\nh) A forma de cancelamento da reserva e eventual montante da penalização a pagar pelo locatário; e\n\ni) As condições gerais e especiais do contrato a celebrar.\n\n2 - Existindo incumprimento da reserva por parte do locador, este fica obrigado a devolver, no prazo máximo de 30 dias, o montante pago pelo locatário no momento da reserva, salvo se o incumprimento não resultar de motivo imputável ao locador, sem prejuízo da aplicação das regras gerais sobre responsabilidade civil.\n\n3 - A informação relativa às condições gerais e particulares do contrato a celebrar prestada nos termos do n.º 1 considera-se integrada no conteúdo do contrato que venha a ser celebrado, tendo-se por não escritas as cláusulas contratuais em contrário.\n\n4 - Existindo reserva devidamente comprovada, o locador pode proceder à entrega do veículo na área de exploração de terminais de transporte ou noutro local em que o aluguer se inicie, ainda que nele não disponha de um estabelecimento fixo ou de um local de atendimento ao público para o efeito."
+  },
+  "53345575": {
+   "fragment_id": "37877075",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres do locador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deveres do locador\n\n1 - O locador assegura de forma gratuita a prestação de um serviço de assistência ao locatário, disponível 24 horas por dia, para comunicação de situações anómalas que se verifiquem durante a execução do contrato.\n\n2 - Verificando-se a indisponibilidade do veículo, previamente contratado ou objeto de reserva, o locador assegura a prestação de serviço equivalente ou disponibiliza um veículo de gama superior, sem qualquer custo adicional para o locatário.\n\n3 - No momento da entrega do veículo no termo do contrato, o locador entrega ao locatário documento assinado no qual declare que o veículo foi entregue pelo locatário e aceite pelo locador."
+  },
+  "53345675": {
+   "fragment_id": "37877175",
+   "type": 11,
+   "heading": "Artigo 13.º — Contrato adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contrato adicional\n\nPode ser celebrado um contrato adicional ao de aluguer do veículo de passageiros sem condutor tendo por objeto exclusivo a sua condução, a qual só pode ser exercida por pessoas contratadas pelo locador, considerando-se este serviço prestado pelo próprio locador."
+  },
+  "53345775": {
+   "fragment_id": "37877275",
+   "type": 11,
+   "heading": "Artigo 14.º — Registo dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Registo dos contratos\n\n1 - O locador deve conservar um registo de todos os contratos de aluguer celebrados, segundo a ordem da sua celebração, durante dois anos a contar da data do respetivo termo.\n\n2 - O IMT, I. P., pode exigir ao locador o envio de cópias de contratos celebrados nos últimos dois anos, para controlo da execução dos mesmos.\n\n3 - A falsificação dos contratos de aluguer e do registo a que se refere o n.º 1 é punida nos termos da lei penal.\n\n4 - O IMT, I. P., faculta ao Instituto de Turismo de Portugal, I. P., os elementos que este solicite relativamente ao exercício da atividade pelos prestadores de serviços de rent-a-car, para fins estatísticos."
+  },
+  "53345875": {
+   "fragment_id": "37877375",
+   "type": 11,
+   "heading": "Artigo 15.º — Documentação que deve acompanhar o veículo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Documentação que deve acompanhar o veículo\n\n1 - São obrigatoriamente entregues ao locatário, a fim de por ele serem presentes às autoridades quando assim lhe for exigido, o documento único automóvel, o comprovativo da apólice de seguro de responsabilidade civil automóvel, cópia do contrato de aluguer e a ficha de inspeção, quando aplicável.\n\n2 - Os originais da documentação referente ao veículo, nomeadamente documento único automóvel e fichas de inspeção, quando a esta haja lugar, podem para efeitos do disposto no número anterior ser substituídos por fotocópias autenticadas nos termos da legislação em vigor.\n\n3 - A não entrega pelo locador dos documentos referidos no n.º 1 implica para este a responsabilidade pelas infrações decorrentes da não exibição daqueles documentos pelo locatário.\n\n4 - Fora dos casos previstos no número anterior, a responsabilidade pelas infrações decorrentes da não exibição dos documentos relativos ao veículo é sempre do locatário."
+  },
+  "53345975": {
+   "fragment_id": "36295575",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e regime sancionatório"
+  },
+  "53346075": {
+   "fragment_id": "37877475",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - A fiscalização do cumprimento das disposições do presente decreto-lei compete às seguintes entidades:\n\na) IMT, I. P.;\n\nb) Guarda Nacional Republicana;\n\nc) Polícia de Segurança Pública;\n\nd) Autoridade Nacional de Segurança Rodoviária.\n\n2 - As entidades referidas no número anterior exercem as suas funções de fiscalização nos termos da lei, podendo proceder, designadamente às diligências necessárias junto das pessoas singulares ou coletivas que exerçam a atividade de rent-a-car."
+  },
+  "53346175": {
+   "fragment_id": "37877575",
+   "type": 11,
+   "heading": "Artigo 17.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contraordenações\n\n1 - As infrações às disposições do presente decreto-lei constituem contraordenações, nos termos do artigo seguinte, sendo-lhes aplicáveis, em tudo quanto nele não se encontra especialmente regulado, o regime geral das contraordenações.\n\n2 - A tentativa e a negligência são puníveis, sendo os limites máximos e mínimos das coimas reduzidos para metade."
+  },
+  "53346275": {
+   "fragment_id": "37877675",
+   "type": 11,
+   "heading": "Artigo 18.º — Tipificação das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Tipificação das contraordenações\n\n1 - São sancionadas com coima de (euro) 1500 a (euro) 2500, no caso de pessoas singulares, ou até (euro) 7500, no caso de pessoas coletivas:\n\na) O exercício da atividade de rent-a-car em inobservância ao disposto no artigo 3.º;\n\nb) O exercício da atividade de rent-a-car sem idoneidade comercial nos termos do artigo 5.º, sem prejuízo da substituição dos responsáveis pela administração, direção ou gerência de pessoa coletiva alvo das sanções referidas no mesmo artigo;\n\nc) A utilização de veículos sem observância do disposto nas alíneas a) e b) do n.º 1 do artigo 6.º;\n\nd) A utilização de veículos sem observância do disposto na alínea c) do n.º 1 do artigo 6.º, ou, havendo prorrogação nos termos do n.º 2 do mesmo artigo, para além do prazo concedido;\n\ne) A sublocação de veículos por quem não seja titular do título referido no artigo 3.º nos termos do presente decreto-lei, em infração ao n.º 3 do artigo 6.º;\n\nf) A utilização de veículos em infração ao disposto no n.º 2 do artigo 7.º\n\n2 - São sancionadas com coima de (euro) 500 a (euro) 2500, no caso de pessoas singulares ou coletivas:\n\na) A inexistência de, pelo menos, um estabelecimento fixo para atendimento ao público, conforme previsto na alínea c) do n.º 1 do artigo 4.º;\n\nb) A utilização de veículos sem observância do disposto na alínea d) do n.º 1 do artigo 6.º\n\n3 - São sancionadas com coima de (euro) 250 a (euro) 1250, no caso de pessoas singulares ou coletivas:\n\na) A inexistência do número mínimo de veículos previsto no artigo 4.º por período superior a 180 dias;\n\nb) O estacionamento na via pública, fora dos locais especialmente fixados para o efeito, de veículos afetos à atividade de rent-a-car, quando não alugados, em infração ao disposto no n.º 4 do artigo 6.º;\n\nc) A não disponibilização ao público dos veículos de aluguer nos locais destinados para o efeito, em infração ao disposto no n.º 1 do artigo 7.º;\n\nd) A celebração de contrato em infração ao disposto nos n.os 1 a 5 e no n.º 7 do artigo 9.º;\n\ne) A inobservância da obrigação de comunicação prévia das cláusulas contratuais gerais, prevista no n.º 1 do artigo 10.º;\n\nf) A infração às disposições sobre reserva previstas nos n.os 1 e 3 do artigo 11.º;\n\ng) O incumprimento dos deveres do locador a que se refere o artigo 12.º;\n\nh) A celebração de contrato adicional em violação do disposto no artigo 13.º;\n\ni) O incumprimento do dever de registo de contratos a que se refere o artigo 14.º"
+  },
+  "53346375": {
+   "fragment_id": "37877775",
+   "type": 11,
+   "heading": "Artigo 19.º — Responsabilidade pelas infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Responsabilidade pelas infrações\n\nSem prejuízo do disposto no n.º 4 do artigo 15.º, as infrações ao disposto no presente decreto-lei são da responsabilidade do locador, excetuada a infração constante da alínea h) do n.º 3 do artigo anterior, cuja responsabilidade é do locatário."
+  },
+  "53346475": {
+   "fragment_id": "37877875",
+   "type": 11,
+   "heading": "Artigo 20.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Sanções acessórias\n\nPela prática das contraordenações previstas nos artigos 17.º e 18.º pode ser aplicada ao locador, em função da gravidade do ilícito praticado e nos termos do regime geral das contraordenações, a sanção acessória de interdição do exercício da atividade pelo período máximo de dois anos."
+  },
+  "53346575": {
+   "fragment_id": "37877975",
+   "type": 11,
+   "heading": "Artigo 21.º — Processamento das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Processamento das contraordenações\n\n1 - O processamento das contraordenações previstas no presente decreto-lei compete ao IMT, I. P.\n\n2 - A aplicação das coimas é da competência do conselho diretivo do IMT, I. P.\n\n3 - O IMT, I. P., organiza o registo das infrações cometidas nos termos da legislação em vigor."
+  },
+  "53346675": {
+   "fragment_id": "37878075",
+   "type": 11,
+   "heading": "Artigo 22.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produto das coimas\n\nO produto das coimas reverte em:\n\na) 60 % para o Estado;\n\nb) 20 % para o IMT, I. P., constituindo receita própria;\n\nc) 20 % para a entidade fiscalizadora."
+  },
+  "53346775": {
+   "fragment_id": "36295675",
+   "type": 1,
+   "heading": "Capítulo V — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições complementares, transitórias e finais"
+  },
+  "53346875": {
+   "fragment_id": "37878175",
+   "type": 11,
+   "heading": "Artigo 23.º — Procedimentos, formalidades e publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Procedimentos, formalidades e publicitação\n\n1 - Os procedimentos e as formalidades exigidos para o acesso e exercício da atividade podem ser cumpridos através do balcão único eletrónico a que se referem os artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, da plataforma eletrónica do IMT, I. P., ou, caso aquelas plataformas não estejam disponíveis, junto dos serviços deste instituto, por qualquer outro meio legalmente admissível.\n\n2 - A regulamentação necessária para a execução do presente decreto-lei é aprovada por deliberação do conselho diretivo do IMT, I. P., e disponibilizada no respetivo sítio na Internet.\n\n3 - A todos os procedimentos administrativos previstos no presente decreto-lei, para cuja instrução ou decisão final seja legal ou regulamentarmente exigida a apresentação de certidões ou declarações de entidades administrativas, aplica-se o disposto no Decreto-Lei n.º 114/2007, de 19 de abril, e na alínea d) do artigo 5.º do Decreto-Lei n.º 92/2010, de 26 de julho."
+  },
+  "53346975": {
+   "fragment_id": "37878275",
+   "type": 11,
+   "heading": "Artigo 24.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cooperação administrativa\n\nPara efeitos da aplicação do presente decreto-lei, as autoridades competentes participam na cooperação administrativa, no âmbito dos procedimentos relativos a empresas provenientes de outros Estados membros da União Europeia ou do Espaço Económico Europeu, nos termos do disposto no capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, nomeadamente através do Sistema de Informação do Mercado Interno."
+  },
+  "53347075": {
+   "fragment_id": "37878375",
+   "type": 11,
+   "heading": "Artigo 25.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regime transitório\n\n1 - As empresas já titulares de alvará para o exercício da atividade de rent-a-car à data da entrada em vigor do presente decreto-lei dispõem do prazo de um ano para se conformarem com o disposto no presente decreto-lei, ficando isentas da obrigação de apresentação da comunicação prévia prevista no artigo 3.º\n\n2 - O IMT, I. P., publica no respetivo sítio da Internet, acessível através do balcão único eletrónico dos serviços, a lista das empresas titulares de alvará para o exercício da atividade de rent-a-car à data da entrada em vigor do presente decreto-lei, no prazo de 30 dias após esta data.\n\n3 - O disposto na alínea d) do n.º 1 do artigo 6.º é apenas aplicável aos veículos adquiridos após a entrada em vigor do presente decreto-lei."
+  },
+  "53347175": {
+   "fragment_id": "37878475",
+   "type": 11,
+   "heading": "Artigo 26.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 354/86, de 23 de outubro, alterado pelo Decreto-Lei n.º 373/90, de 27 de novembro, pelo Decreto-Lei n.º 44/92, de 31 de março, e pelo Decreto-Lei n.º 77/2009, de 1 de abril."
+  },
+  "53347275": {
+   "fragment_id": "37878575",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 180 dias após a sua publicação."
+  },
+  "70731016": {
+   "fragment_id": "37876275",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de acesso à atividade",
+   "in_force_from": "2015-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de acesso à atividade\n\n1 - Para efeitos de acesso à atividade, os interessados devem observar cumulativamente os seguintes requisitos:\n\na) Possuir idoneidade, devidamente comprovada nos termos do artigo 5.º;\n\nb) Propor-se explorar um número mínimo de veículos, independentemente do número de estabelecimentos fixos existentes em território nacional;\n\nc) Dispor de, pelo menos, um estabelecimento fixo para atendimento ao público.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o número mínimo de veículos é de:\n\na) Sete, para o aluguer de automóveis ligeiros de passageiros;\n\nb) Três, para o aluguer das restantes categorias de veículos, salvo se já se encontrar cumprido o limite referido na alínea anterior.\n\n3 - No caso de veículos de características especiais, como tal definidos pela deliberação do conselho diretivo do IMT, I. P., referida no n.º 2 do artigo 2.º, pode este órgão estabelecer por deliberação limites mínimos diversos dos referidos na alínea b) do número anterior.\n\n4 - Os requisitos de acesso à atividade são de verificação permanente, devendo as entidades autorizadas comprovar o seu cumprimento sempre que lhes seja solicitado, podendo o conselho diretivo do IMT, I. P., determinar a revogação da permissão administrativa em caso de incumprimento reiterado.\n\n5 - Caso se verifique que o requerente preenche todos os requisitos, à exceção do número mínimo de veículos, deve o IMT, I. P., conceder a permissão administrativa a título provisório, pelo período de nove meses, convertendo-se automaticamente em definitiva na data da notificação pelo requerente ao IMT, I. P., dos veículos a utilizar na atividade, em conformidade com o disposto nos n.os 2 e 3.\n\n6 - O IMT, I. P., deve notificar o requerente da concessão da permissão administrativa a título provisório, no prazo definido no n.º 2 do artigo anterior, com a menção de que a falta de notificação por parte do requerente dos veículos a utilizar no prazo de nove meses determina a revogação imediata da permissão administrativa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "70731041": {
+   "fragment_id": "37876775",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma e conteúdo",
+   "in_force_from": "2015-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 9.º — Forma e conteúdo\n\n1 - O contrato de aluguer de veículos de passageiros sem condutor é reduzido a escrito e assinado pelas partes contratantes, devendo existir sempre um exemplar em português.\n\n2 - O contrato é numerado sequencialmente e feito em duplicado, sendo o original conservado pelo locador e o duplicado entregue ao locatário.\n\n3 - Do contrato constam, de forma clara, precisa e com carateres legíveis:\n\na) A identificação das partes;\n\nb) A identificação do veículo alugado;\n\nc) O preço a pagar, com descrição de todos os seus componentes fixos e variáveis ou, quando não for possível indicar o preço exato, o método de cálculo do preço e o valor total expectável, bem como menção do imposto aplicável;\n\nd) As importâncias recebidas pelo locador a título de caução;\n\ne) Os serviços complementares convencionados, respetivo preço e condições, e, tratando-se de seguros, as suas coberturas e exclusões;\n\nf) A data e local do início e fim do aluguer, bem como as condições a observar pelo locatário aquando da entrega do veículo no termo do contrato, com menção clara de que a devolução do veículo com nível de combustível inferior ao que tinha à data do seu levantamento pode implicar a cobrança de determinado valor a fixar de acordo com o n.º 9;\n\ng) O nome, endereço e número de telefone do serviço de assistência.\n\n4 - O locador pode recusar o aluguer, quando o cliente não ofereça garantias de cumprimento do contrato.\n\n5 - O locador pode retirar ao locatário o veículo alugado antes do termo do contrato, bem como rescindir o contrato, nos termos da lei, com fundamento em incumprimento das cláusulas contratuais.\n\n6 - Em caso de alteração das condições inicialmente acordadas, nomeadamente pela contratação de serviços adicionais, a mesma deve constar de documento autónomo, assinado pelo locatário.\n\n7 - Sem prejuízo do disposto no Decreto-Lei n.º 446/85, de 25 de outubro, alterado pelo Decreto-Lei n.º 220/95, de 31 de agosto, pelo Decreto-Lei n.º 249/99, de 7 de julho, e pelo Decreto-Lei n.º 323/2001, de 17 de dezembro, são proibidas e nulas as cláusulas contratuais que estabeleçam:\n\na) A aceitação pelo locatário de vícios não aparentes ou não reconhecíveis no veículo;\n\nb) A renúncia ao direito de oposição pelo locatário de valores relativos a despesas apresentadas pelo locador;\n\nc) (Revogada).\n\nd) Obrigações de pagamento de despesas pelo locatário que não se encontrem devidamente discriminadas e previstas no contrato, com exceção do valor das taxas de portagem, nos termos do disposto no artigo 18.º-A da Portaria n.º 314-B/2010, de 14 de junho, alterada pelas Portarias n.os 1033-C/2010, de 6 de outubro, 1296-A/2010, de 20 de dezembro, e 135-A/2011, de 4 de abril;\n\ne) Que a celebração do contrato fica dependente da autorização do locatário para a utilização, por qualquer forma, em bases de dados de clientes incumpridores e da sua comunicação às empresas do setor, dos dados pessoais fornecidos por este no âmbito do contrato;\n\nf) Que a celebração do contrato fica dependente da celebração de outros contratos, designadamente de seguros não obrigatórios.\n\n8 - Nos casos em que o locatário devolva o veículo com o nível de combustível inferior àquele que tinha à data do seu levantamento, o locador pode cobrar um valor fixado de acordo com o princípio da proporcionalidade, que não ultrapasse a média dos custos incorridos pelo locador para o reabastecimento dos veículos, devendo a média ser calculada, em cada estabelecimento, tendo por base os custos relativos à afetação de recursos humanos e à deslocação do veículo para o reabastecimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "70731042": {
+   "fragment_id": "37877375",
+   "type": 11,
+   "heading": "Artigo 15.º — Documentação que deve acompanhar o veículo",
+   "in_force_from": "2015-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 15.º — Documentação que deve acompanhar o veículo\n\n1 - São obrigatoriamente entregues ao locatário, a fim de por ele serem presentes às autoridades quando assim lhe for exigido, o documento único automóvel, o comprovativo da apólice de seguro de responsabilidade civil automóvel, cópia do contrato de aluguer e a ficha de inspeção, quando aplicável.\n\n2 - Os originais da documentação referente ao veículo, nomeadamente documento único automóvel e fichas de inspeção, quando a esta haja lugar, podem para efeitos do disposto no número anterior ser substituídos por fotocópias autenticadas nos termos da legislação em vigor.\n\n3 - A não entrega pelo locador dos documentos referidos no n.º 1 implica para este a responsabilidade pelas infrações decorrentes da não exibição daqueles documentos pelo locatário.\n\n4 - Fora dos casos previstos no número anterior, a responsabilidade pelas infrações decorrentes da não exibição dos documentos relativos ao veículo é sempre do locatário.\n\n5 - Sempre que o veículo circule na via pública fora do âmbito de um contrato de aluguer, o condutor deverá ser portador de documento de identificação dos trabalhadores ou representantes legais da empresa emitido pelas associações nacionais de empregadores representativas do sector, em termos a definir por deliberação do conselho diretivo do IMT, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "70731045": {
+   "fragment_id": "37877675",
+   "type": 11,
+   "heading": "Artigo 18.º — Tipificação das contraordenações",
+   "in_force_from": "2015-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 18.º — Tipificação das contraordenações\n\n1 - São sancionadas com coima de (euro) 1500 a (euro) 2500, no caso de pessoas singulares, ou até (euro) 7500, no caso de pessoas coletivas:\n\na) O exercício da atividade de rent-a-car em inobservância ao disposto no artigo 3.º;\n\nb) O exercício da atividade de rent-a-car sem idoneidade comercial nos termos do artigo 5.º, sem prejuízo da substituição dos responsáveis pela administração, direção ou gerência de pessoa coletiva alvo das sanções referidas no mesmo artigo;\n\nc) A utilização de veículos sem observância do disposto nas alíneas a) e b) do n.º 1 do artigo 6.º;\n\nd) A utilização de veículos sem observância do disposto na alínea c) do n.º 1 do artigo 6.º, ou, havendo prorrogação nos termos do n.º 2 do mesmo artigo, para além do prazo concedido;\n\ne) A sublocação de veículos por quem não seja titular do título referido no artigo 3.º nos termos do presente decreto-lei, em infração ao n.º 3 do artigo 6.º;\n\nf) A utilização de veículos em infração ao disposto no n.º 2 do artigo 7.º\n\n2 - São sancionadas com coima de (euro) 500 a (euro) 2500, no caso de pessoas singulares ou coletivas:\n\na) A inexistência de, pelo menos, um estabelecimento fixo para atendimento ao público, conforme previsto na alínea c) do n.º 1 do artigo 4.º;\n\nb) A utilização de veículos sem observância do disposto na alínea d) do n.º 1 do artigo 6.º\n\n3 - São sancionadas com coima de (euro) 250 a (euro) 1250, no caso de pessoas singulares ou coletivas:\n\na) A inexistência do número mínimo de veículos previsto no artigo 4.º por período superior a 180 dias;\n\nb) (Revogada);\n\nc) A não disponibilização ao público dos veículos de aluguer nos locais destinados para o efeito, em infração ao disposto no n.º 1 do artigo 7.º;\n\nd) A celebração de contrato em infração ao disposto nos n.os 1 a 5 e no n.º 7 do artigo 9.º;\n\ne) A inobservância da obrigação de comunicação prévia das cláusulas contratuais gerais, prevista no n.º 1 do artigo 10.º;\n\nf) A infração às disposições sobre reserva previstas nos n.os 1 e 3 do artigo 11.º;\n\ng) O incumprimento dos deveres do locador a que se refere o artigo 12.º;\n\nh) A celebração de contrato adicional em violação do disposto no artigo 13.º;\n\ni) O incumprimento do dever de registo de contratos a que se refere o artigo 14.º;\n\nj) A cobrança do valor pelo reabastecimento do veículo sem observância dos critérios de cálculo referidos no n.º 9 do artigo 9.º\n\n4 - É sancionado com coima de (euro) 60 a (euro) 150, no caso de pessoas singulares ou coletivas, o estacionamento na via pública, fora dos locais especialmente fixados para o efeito, de veículos afetos à atividade de rent-a-car, quando não alugados, em infração ao disposto no n.º 4 do artigo 6.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "70731015": {
+   "fragment_id": "70748603",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira.\n\nPromulgado em 25 de julho de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 27 de julho de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "115556339": {
+   "fragment_id": "37875975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei regula as condições de acesso e de exercício da atividade de aluguer de veículos de passageiros sem condutor, também designada por atividade de rent-a-car, bem como o aluguer de curta duração de veículos de passageiros sem condutor, com e sem motor, também designado por atividade de sharing.\n\n2 - As atividades referidas no número anterior podem ser realizadas por pessoas singulares ou coletivas estabelecidas em território nacional.\n\n3 - O presente decreto-lei não é aplicável:\n\na) Aos contratos classificados como de locação financeira, nos termos das normas legais e regulamentares aplicáveis;\n\nb) Aos contratos de prestação de serviços que visam a disponibilização ou partilha de veículos, que não sejam de acesso público, nomeadamente dentro da gestão interna de uma empresa ou entidade pública;\n\nc) Aos contratos de prestação de serviços de aluguer de longa duração, incluindo os designados de ALD, renting ou aluguer operacional de veículos (AOV), bem como os que incluam a prestação de serviços acessórios ao aluguer do veículo;\n\nd) Aos contratos respeitantes à utilização de veículos sem condutor, celebrados no âmbito do exercício da atividade de animação turística, nos termos do disposto no Decreto-Lei n.º 108/2009, de 15 de maio, na sua redação atual.\n\n4 - Para efeitos do disposto no número anterior, considera-se como de longa duração o aluguer de veículos por período igual ou superior a 12 meses.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556340": {
+   "fragment_id": "37876075",
+   "type": 11,
+   "heading": "Artigo 2.º — Atividade de rent-a-car e sharing",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Atividade de rent-a-car e sharing\n\n1 - No âmbito da atividade de rent-a-car podem ser objeto de contrato de aluguer:\n\na) Automóveis ligeiros de passageiros;\n\nb) Motociclos;\n\nc) Ciclomotores;\n\nd) Triciclos;\n\ne) Quadriciclos.\n\n2 - No âmbito da atividade de sharing, podem ser objeto de contrato de aluguer, para além dos veículos referidos no número anterior, os velocípedes.\n\n3 - Para efeitos do presente decreto-lei, entende-se por atividades de sharing, modelos de negócio que colocam à disposição de um utilizador veículos de passageiros, com ou sem motor, para utilização pública, durante períodos de curta duração, tipicamente integrados nas soluções de transporte urbano e de curta distância.\n\n4 - Entendem-se por períodos de curta duração e de curta distância a utilização do veículo durante não mais do que 12 horas, até que o mesmo seja libertado para uso por outro cliente, período durante o qual o veículo não deve percorrer mais do que 100 km.\n\n5 - Podem ser ainda objeto de contrato de aluguer, no âmbito da atividade de rent-a-car e sharing, veículos de caraterísticas especiais, a definir por deliberação do conselho diretivo do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556341": {
+   "fragment_id": "37876175",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à atividade",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Acesso à atividade\n\n1 - O acesso e exercício da atividade de rent-a-car e sharing está sujeito a comunicação prévia com prazo ao IMT, I. P., a efetuar por via do Balcão do Empreendedor (BdE), dos serviços a que se referem os artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - No prazo máximo de 20 dias úteis a contar da data da comunicação prévia a que se refere o número anterior, o IMT, I. P., verifica o preenchimento dos requisitos de acesso à atividade previstos nos artigos 4.º e 5.º, só podendo indeferir o requerimento se os mesmos não estiverem reunidos.\n\n3 - Quando, após o decurso do prazo referido no número anterior, não haja decisão expressa de permissão administrativa, considera-se a pretensão do requerente tacitamente deferida.\n\n4 - O IMT, I. P., deve notificar o requerente da receção da comunicação prévia, informando-o do prazo para a decisão final, dos efeitos resultantes da falta de decisão final nesse prazo e das vias de reação administrativa ou contenciosa, a efetuar por via BdE.\n\n5 - As atividades de rent-a-car e sharing podem ser desenvolvidas pela mesma pessoa singular ou coletiva, desde que preenchidos os requisitos fixados no presente decreto-lei.\n\n6 - O IMT, I. P., mantém no seu sítio na Internet, acessível através do balcão a que se refere o n.º 1, uma lista dos prestadores de serviços autorizados a exercer atividade de rent-a-car e sharing em território nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556342": {
+   "fragment_id": "37876275",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de acesso à atividade",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de acesso à atividade\n\n1 - Para efeitos de acesso à atividade de rent-a-car e sharing, os interessados devem observar cumulativamente os seguintes requisitos:\n\na) Possuir idoneidade, devidamente comprovada nos termos do artigo 5.º;\n\nb) Propor-se explorar um número mínimo de veículos, independentemente do número de estabelecimentos fixos existentes em território nacional;\n\nc) Dispor de, pelo menos, um estabelecimento fixo para atendimento ao público, no caso da atividade de rent-a-car;\n\nd) Comprovar a regularização da situação contributiva perante a administração fiscal e a segurança social se a pessoa coletiva estiver registada no Registo Nacional de Pessoas Coletivas ou na Autoridade Tributária e Aduaneira há mais de 3 meses.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o número mínimo de veículos é de:\n\na) Sete, para o aluguer de automóveis ligeiros de passageiros;\n\nb) Três, para o aluguer das restantes categorias de veículos, salvo se já se encontrar cumprido o limite referido na alínea anterior.\n\n3 - Para além dos requisitos referidos no n.º 1, para o acesso à atividade de sharing os interessados devem ainda preencher os seguintes requisitos:\n\na) Deter um sistema eletrónico de reserva;\n\nb) Dispor de uma linha telefónica permanente de apoio ao cliente;\n\nc) Indicar o tipo de plataforma eletrónica a disponibilizar, nos termos do disposto no artigo 9.º-C, e o seu responsável, quando não seja o próprio;\n\nd) Disponibilizar antecipadamente aos utilizadores, na plataforma eletrónica, as cláusulas contratuais gerais que pretendam celebrar.\n\n4 - No caso de veículos de caraterísticas especiais, como tal definidos pela deliberação do conselho diretivo do IMT, I. P., referida no n.º 5 do artigo 2.º, pode este órgão estabelecer, por deliberação, limites mínimos diversos dos referidos na alínea b) do n.º 2.\n\n5 - Os requisitos de acesso à atividade são de verificação permanente, devendo as entidades autorizadas comprovar o seu cumprimento sempre que lhes seja solicitado, podendo o conselho diretivo do IMT, I. P., determinar a revogação da permissão administrativa em caso de incumprimento reiterado.\n\n6 - Caso se verifique que o interessado preenche todos os requisitos à exceção do número mínimo de veículos, deve o IMT, I. P., conceder a permissão administrativa a título provisório pelo período de nove meses, convertendo-se esta automaticamente em definitiva na data em que o requerente notifique ao IMT, I. P., os veículos a utilizar na atividade, em conformidade com o disposto nos n.os 2 e 4.\n\n7 - O IMT, I. P., deve notificar o requerente da concessão da permissão administrativa a título provisório, no prazo definido no n.º 2 do artigo anterior, com a menção de que a falta de notificação por parte do requerente dos veículos a utilizar no prazo de nove meses determina a revogação imediata da permissão administrativa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "115556343": {
+   "fragment_id": "37876375",
+   "type": 11,
+   "heading": "Artigo 5.º — Idoneidade",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Idoneidade\n\n1 - A idoneidade é aferida relativamente ao requerente e, tratando-se de pessoa coletiva, também relativamente aos responsáveis pela administração, direção ou gerência, designadamente através da consulta do certificado de registo criminal, a promover pelo IMT, I. P.\n\n2 - São consideradas idóneas as pessoas relativamente às quais não se verifique qualquer dos seguintes factos:\n\na) Proibição legal para o exercício do comércio;\n\nb) Condenação, com trânsito em julgado, por infrações, de natureza penal ou contraordenacional, a normas relativas às prestações de natureza retributiva, às condições de higiene e segurança no trabalho, à proteção do ambiente e à responsabilidade profissional, desde que tenha sido acessoriamente decretada a interdição do exercício da atividade de rent-a-car ou de sharing, e até à respetiva reabilitação, ou ainda em caso de inibição do exercício do comércio por ter sido declarada a falência ou insolvência, enquanto não for levantada a inibição.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556344": {
+   "fragment_id": "37876475",
+   "type": 11,
+   "heading": "Artigo 6.º — Veículos",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Veículos\n\n1 - Só podem ser utilizados na atividade de rent-a-car e sharing veículos que obedeçam aos seguintes requisitos cumulativos, quando aplicáveis:\n\na) Sejam matriculados em Portugal, sem prejuízo do disposto no artigo 8.º, ou, no caso dos velocípedes, tenham um número de identificação único atribuído pelo locador;\n\nb) Sejam propriedade do locador, ou adquiridos em regime de locação financeira, ou tenham sido objeto de locação a outro prestador de serviços de rent-a-car;\n\nc) Não tenham mais do que cinco anos contados a partir da data da primeira matrícula, salvo nos casos dos veículos não sujeitos a matrícula e dos veículos com caraterísticas especiais, cujo limite de idade é definido por deliberação do conselho diretivo do IMT, I. P.;\n\nd) Pelo menos 10 % dos automóveis ligeiros de passageiros afetos ao exercício da atividade de rent-a-car ou sharing devem cumprir as normas ambientais designadas de 'Euro V', nos termos do Decreto-Lei n.º 346/2007, de 17 de outubro, na sua redação atual.\n\n2 - O limite estabelecido na alínea c) do número anterior pode ser excecionalmente prorrogado por períodos de um ano, até ao máximo de dois anos, por despacho do presidente do conselho diretivo do IMT, I. P., após inspeção dos respetivos veículos.\n\n3 - Sem prejuízo do disposto na alínea b) do n.º 1, é proibida a sublocação dos veículos alugados nos termos do presente decreto-lei.\n\n4 - Os veículos afetos à atividade de rent-a-car, quando não alugados, não podem estacionar na via pública, salvo em lugares especialmente fixados para este efeito, designadamente os situados junto de terminais de transporte.\n\n5 - Os veículos afetos à atividade de sharing devem ostentar um dístico, de modelo a definir por deliberação do conselho diretivo do IMT, I. P., que permita a imediata identificação do veículo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556345": {
+   "fragment_id": "37876575",
+   "type": 11,
+   "heading": "Artigo 7.º — Disponibilidade ao público",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Disponibilidade ao público\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo 11.º, os veículos afetos à atividade de rent-a-car devem encontrar-se à disposição do público, dentro do horário de funcionamento dos locais de atendimento.\n\n2 - Os veículos afetos à atividade de sharing devem encontrar-se à disposição do público nos termos contratados com o utilizador, devendo obedecer às regras de utilização do sistema e à regulamentação municipal de estacionamento na via pública, quando aplicável.\n\n3 - Os veículos de aluguer sem condutor, independentemente da modalidade, não podem ficar ao serviço exclusivo e permanente do locador ou, tratando-se de pessoas coletivas, dos respetivos sócios, diretores, administradores ou gerentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556346": {
+   "fragment_id": "37876675",
+   "type": 11,
+   "heading": "Artigo 8.º — Veículos automóveis de matrícula estrangeira",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 8.º — Veículos automóveis de matrícula estrangeira\n\nOs veículos automóveis de matrícula estrangeira em regime de aluguer sem condutor, admitidos temporariamente no território nacional, apenas podem ser realugados nos termos previstos no artigo 37.º do Código do Imposto sobre Veículos, aprovado pela Lei n.º 22-A/2007, de 29 de junho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556310": {
+   "fragment_id": "36295475",
+   "type": 1,
+   "heading": "Capítulo III — Contrato de aluguer de rent-a-car e sharing",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "### Capítulo III — Contrato de aluguer de rent-a-car e sharing\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556347": {
+   "fragment_id": "37876775",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma e conteúdo do contrato de rent-a-car",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 9.º — Forma e conteúdo do contrato de rent-a-car\n\n1 - O contrato de aluguer de veículos de passageiros sem condutor é reduzido a escrito e assinado pelas partes contratantes, devendo existir sempre um exemplar em português.\n\n2 - O contrato é numerado sequencialmente e feito em duplicado, sendo o original conservado pelo locador e o duplicado entregue ao locatário.\n\n3 - Do contrato constam, de forma clara, precisa e com carateres legíveis:\n\na) A identificação das partes;\n\nb) A identificação do veículo alugado;\n\nc) O preço total a pagar, com descrição de todos os seus componentes fixos e variáveis, incluindo o montante devido, ou respetiva forma de cálculo, no caso de devolução do veículo com nível inferior de combustível àquele que tinha à data do seu levantamento, bem como a menção do imposto aplicável, sem prejuízo do disposto no n.º 4;\n\nd) Indicação do nível de combustível no depósito à data do levantamento do veículo;\n\ne) As importâncias recebidas pelo locador a título de caução;\n\nf) Os serviços complementares convencionados, respetivo preço e condições, e, tratando-se de seguros, as suas coberturas e exclusões;\n\ng) A data, hora e local do início e fim do aluguer, bem como as condições a observar pelo locatário aquando da entrega do veículo no termo do contrato;\n\nh) O nome, endereço e número de telefone do serviço de assistência.\n\n4 - Sempre que o locador intervenha no contrato de aluguer de veículo sem condutor enquanto prestador de um serviço contratado pelo locatário a terceiro, na modalidade de voucher pré-pago ou outra modalidade que envolva o pré-pagamento do serviço junto de terceiro, o preço total a pagar cobre apenas o preço dos serviços complementares que venham a ser convencionados diretamente entre o locador e o locatário, devendo a referência àquela modalidade de pagamento constar expressamente do contrato.\n\n5 - O locador pode recusar o aluguer quando o cliente não ofereça garantias de cumprimento do contrato.\n\n6 - O locador pode retirar ao locatário o veículo alugado antes do termo do contrato, bem como rescindir o contrato, nos termos da lei, com fundamento em incumprimento das cláusulas contratuais.\n\n7 - Sem prejuízo do disposto no Decreto-Lei n.º 446/85, de 25 de outubro, na sua redação atual, são proibidas e nulas as cláusulas contratuais que estabeleçam:\n\na) A aceitação pelo locatário de vícios não aparentes ou não reconhecíveis no veículo;\n\nb) A renúncia ao direito de oposição pelo locatário de valores relativos a despesas apresentadas pelo locador;\n\nc) (Revogada).\n\nd) Obrigações de pagamento de despesas pelo locatário que não se encontrem devidamente discriminadas e previstas no contrato, com exceção do valor das taxas de portagem, nos termos do disposto no artigo 18.º-A da Portaria n.º 314-B/2010, de 14 de junho, alterada pelas Portarias n.os 1033-C/2010, de 6 de outubro, 1296-A/2010, de 20 de dezembro, e 135-A/2011, de 4 de abril;\n\ne) Que a celebração do contrato fica dependente da autorização do locatário para a utilização, por qualquer forma, em bases de dados de clientes incumpridores e da sua comunicação às empresas do setor, dos dados pessoais fornecidos por este no âmbito do contrato;\n\nf) Que a celebração do contrato fica dependente da celebração de outros contratos, designadamente de seguros não obrigatórios.\n\ng) O acionamento da caução por danos no veículo, provocados ou não pelo locatário, sem prévia informação e prova dos danos em causa.\n\n8 - Em caso de alteração das condições inicialmente acordadas, nomeadamente pela contratação de serviços adicionais, a mesma deve constar de documento autónomo, assinado pelo locatário.\n\n9 - Nos casos em que o locatário devolva o veículo com o nível de combustível inferior àquele que tinha à data do seu levantamento, o locador pode cobrar ao locatário um valor proporcional face aos custos incorridos para o abastecimento, não devendo cobrar qualquer valor adicional quando o veículo seja devolvido com o mesmo nível de combustível registado no início do aluguer.\n\n10 - Em alternativa ao disposto no n.º 1, e desde que respeitadas as condições previstas no presente artigo, o contrato pode igualmente ser celebrado em suporte eletrónico, sem prejuízo da disponibilidade dos elementos do contrato durante a utilização do veículo na atividade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "115539758": {
+   "fragment_id": "115553035",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Forma e conteúdo do contrato de sharing",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Forma e conteúdo do contrato de sharing\n\n1 - O contrato de sharing deve incluir:\n\na) A identificação completa das partes e da forma de estabelecer, entre elas, qualquer contacto imediato;\n\nb) As regras aplicáveis ao sistema de partilha, incluindo as regras de acesso e fim de utilização do veículo;\n\nc) O seu período máximo de utilização em regime de sharing;\n\nd) A possibilidade de convolação em contrato de rent-a-car;\n\ne) O preço a pagar pelo locatário, especificando as regras de formulação de preço e quaisquer outros encargos que possam ser cobrados;\n\nf) Informação sobre o seguro existente, com todos os seus elementos e, quando aplicável, as possíveis opções do locatário;\n\ng) Informação sobre outros encargos que possam advir do combustível consumido, no caso de automóveis ligeiros de passageiros, motociclos, ciclomotores, triciclos e quadriciclos, e ainda do estado de conservação e limpeza ou de outros fatores especificados;\n\nh) Informação sobre os meios de pagamento.\n\n2 - Para além dos elementos previstos no número anterior, são aplicáveis ao contrato de sharing as disposições dos n.os 4, 5 e 7 do artigo anterior.\n\n3 - O contrato de sharing pode ser celebrado por cada utilização do veículo ou em regime de subscrição, aplicando-se neste último caso as regras de subscrição de serviços à distância.\n\n4 - O contrato de sharing deve ser celebrado, preferencialmente, em suporte eletrónico, sem prejuízo das garantias de força probatória e de disponibilidade dos elementos do contrato durante a utilização do veículo na atividade.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115539765": {
+   "fragment_id": "115553036",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Convolação em contrato de rent-a-car",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 9.º-B — Convolação em contrato de rent-a-car\n\n1 - A convolação a que se refere a alínea d) do n.º 1 do artigo anterior consiste na possibilidade de conversão automática do contrato de sharing em contrato de rent-a-car, verificados os parâmetros referidos no n.º 4 do artigo 2.º a partir de cada utilização do veículo, só sendo a mesma possível quando o locador esteja também habilitado para o exercício da atividade de rent-a-car.\n\n2 - O utilizador do veículo, previamente à celebração do contrato de sharing, deve ser informado das alterações das condições contratuais inerentes à convolação do contrato, nomeadamente o preço.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115539772": {
+   "fragment_id": "115553037",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Plataforma eletrónica",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 9.º-C — Plataforma eletrónica\n\n1 - Os locadores de sharing devem disponibilizar uma plataforma eletrónica adequada, de acesso imediato, respondendo solidariamente pela operação dessa plataforma, independentemente da sua propriedade.\n\n2 - A plataforma deve permitir os seguintes serviços mínimos:\n\na) Indicação dos termos de acesso e de permanência na plataforma;\n\nb) Contratação, à distância, dos serviços de sharing e serviços conexos, com seleção dos mesmos, quando aplicável;\n\nc) Comunicação de quaisquer particularidades próprias de veículos selecionados pelos utilizadores;\n\nd) Disponibilização do livro de reclamações eletrónico, tal como previsto no Decreto-Lei n.º 156/2005, de 15 de setembro, na sua redação atual;\n\ne) Em caso de existência de serviços de subscrição, a gestão da conta, incluindo a possibilidade de cancelamento da mesma a pedido do utilizador.\n\n3 - O locador de sharing e o operador de plataforma ficam sujeitos a sigilo profissional e devem respeitar as normas relativas à recolha e à proteção de dados pessoais, nos termos da legislação aplicável.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556348": {
+   "fragment_id": "37876875",
+   "type": 11,
+   "heading": "Artigo 10.º — Cláusulas contratuais gerais",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Cláusulas contratuais gerais\n\n1 - Tratando-se de contratos de adesão com uso de cláusulas contratuais gerais, o locador está obrigado a enviar uma cópia das respetivas minutas à Autoridade da Mobilidade e dos Transportes (AMT), a efetuar por via BdE, em data prévia ao início da atividade.\n\n2 - A AMT pode, no prazo de 10 dias, notificar o locador para corrigir cláusulas que considere desconformes com a lei, considerando-se como pronúncia favorável a ausência de notificação.\n\n3 - No caso de o locador manter no contrato cláusulas que tenham sido objeto de pronúncia desfavorável, deve a AMT proceder nos termos do regime previsto nos artigos 25.º e seguintes do Decreto-Lei n.º 446/85, de 25 de outubro, na sua redação atual.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - O presente artigo aplica-se aos contratos celebrados por locadores estabelecidos em território nacional, independentemente da lei escolhida pelas partes para regular o contrato.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556349": {
+   "fragment_id": "37876975",
+   "type": 11,
+   "heading": "Artigo 11.º — Reserva no contrato de rent-a-car",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 11.º — Reserva no contrato de rent-a-car\n\n1 - Qualquer que seja o meio pelo qual a reserva é efetuada, devem ser facultadas ao locatário, em papel ou noutro suporte duradouro, em tempo útil e previamente à sua efetivação, as seguintes informações:\n\na) A identificação, localização e contactos do locador;\n\nb) As características essenciais do veículo;\n\nc) O preço do serviço, incluindo taxas e impostos, bem como todas as condições de aplicação desse preço;\n\nd) As modalidades de caução, caso seja exigida, e respetivo montante;\n\ne) As modalidades de seguro, e respetivas coberturas e condições;\n\nf) As modalidades de pagamento;\n\ng) O prazo de validade da oferta;\n\nh) A forma de cancelamento da reserva e eventual montante da penalização a pagar pelo locatário; e\n\ni) As condições gerais e especiais do contrato a celebrar.\n\n2 - Existindo incumprimento da reserva por parte do locador, este fica obrigado a devolver, no prazo máximo de 15 dias, o montante pago pelo locatário no momento da reserva, salvo se o incumprimento não resultar de motivo imputável ao locador, sem prejuízo da aplicação das regras gerais sobre responsabilidade civil.\n\n3 - A informação relativa às condições gerais e particulares do contrato a celebrar prestada nos termos do n.º 1 considera-se integrada no conteúdo do contrato que venha a ser celebrado, tendo-se por não escritas as cláusulas contratuais em contrário.\n\n4 - Existindo reserva devidamente comprovada, o locador pode proceder à entrega do veículo na área de exploração de terminais de transporte ou noutro local em que o aluguer se inicie, ainda que nele não disponha de um estabelecimento fixo ou de um local de atendimento ao público para o efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556279": {
+   "fragment_id": "115553038",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Reserva no contrato de sharing",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 11.º-A — Reserva no contrato de sharing\n\n1 - No momento da reserva, o locador deve disponibilizar ao locatário, além dos elementos elencados no artigo 9.º-A, as seguintes informações:\n\na) Identificação e a localização do veículo, bem como as suas caraterísticas essenciais;\n\nb) O período pelo qual o veículo fica reservado e findo o qual se considera haver desistência, bem como se é devida uma taxa compensatória de imobilização;\n\nc) O preço do serviço, com as diversas parcelas, o seu método de cálculo e os encargos fiscais;\n\nd) As modalidades de seguro, os custos e as condições de cobertura;\n\ne) O modo de cancelamento e eventuais custos;\n\nf) O modo e o local da restituição.\n\n2 - No caso dos velocípedes em sistema de sharing, é obrigatória a existência de seguro de acidentes pessoais e de responsabilidade civil, a disponibilizar pelo locador.\n\n3 - Existindo incumprimento da reserva por parte do locador, este fica obrigado a devolver, no prazo de 15 dias, o montante pago pelo locatário no momento da reserva, salvo se o incumprimento não resultar de motivo imputável ao locador, sem prejuízo da aplicação das regras gerais sobre responsabilidade civil.\n\n4 - A informação relativa às condições gerais e particulares do contrato a celebrar, prestada nos termos do n.º 1, considera-se integrada no conteúdo do contrato que venha a ser celebrado, tendo-se por não escritas as cláusulas contratuais em contrário.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556350": {
+   "fragment_id": "37877075",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres do locador",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 12.º — Deveres do locador\n\n1 - O locador assegura de forma gratuita a prestação de um serviço de assistência ao locatário, disponível 24 horas por dia, para comunicação de situações anómalas que se verifiquem durante a execução do contrato.\n\n2 - No âmbito do contrato de rent-a-car, verificando-se a indisponibilidade do veículo previamente contratado ou objeto de reserva, o locador assegura a prestação de serviço equivalente ou disponibiliza um veículo de gama superior, sem qualquer custo adicional para o locatário.\n\n3 - No momento da entrega do veículo, na data fixada no contrato, no caso do rent-a-car, ou no término de utilização do serviço de sharing, o locador entrega ao locatário documento comprovativo de que o veículo foi entregue pelo locatário e aceite pelo locador, o qual pode ser também enviado em suporte eletrónico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556351": {
+   "fragment_id": "37877175",
+   "type": 11,
+   "heading": "Artigo 13.º — Contrato adicional",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Contrato adicional\n\nNa atividade de rent-a-car, pode ser celebrado um contrato adicional ao de aluguer do veículo de passageiros sem condutor tendo por objeto exclusivo a sua condução, a qual só pode ser exercida por pessoas contratadas pelo locador, considerando-se este serviço prestado pelo próprio locador.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556352": {
+   "fragment_id": "37877275",
+   "type": 11,
+   "heading": "Artigo 14.º — Registo dos contratos de rent-a-car",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 14.º — Registo dos contratos de rent-a-car\n\n1 - O locador deve conservar um registo de todos os contratos de aluguer celebrados, segundo a ordem da sua celebração, durante dois anos a contar da data do respetivo termo.\n\n2 - A AMT pode exigir ao locador o envio de cópias de contratos celebrados nos últimos dois anos, para controlo da execução dos mesmos, disponibilizando-os ao IMT, I. P., sempre que solicitado.\n\n3 - A falsificação dos contratos de aluguer e do registo a que se refere o n.º 1 é punida nos termos da lei penal.\n\n4 - A AMT faculta ao Turismo de Portugal, I. P., os elementos que este solicite relativamente ao exercício da atividade pelos prestadores de serviços de rent-a-car, para fins estatísticos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556284": {
+   "fragment_id": "115553039",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Registos dos contratos de sharing",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 14.º-A — Registos dos contratos de sharing\n\n1 - Os locadores de sharing devem conservar um registo de todos os contratos de adesão e de cada utilização do sistema nos últimos dois anos, sendo os mesmos acessíveis a qualquer momento pelo utilizador registado.\n\n2 - No âmbito das suas competências, a AMT pode solicitar aos locadores em regime de sharing, em qualquer momento, informação acerca dos registos referidos no número anterior, disponibilizando os mesmos ao IMT, I. P., sempre que solicitados.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556353": {
+   "fragment_id": "37877375",
+   "type": 11,
+   "heading": "Artigo 15.º — Documentação que deve acompanhar o veículo",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 15.º — Documentação que deve acompanhar o veículo\n\n1 - São obrigatoriamente entregues ao locatário, a fim de por ele serem presentes às autoridades quando assim lhe for exigido, o documento único automóvel, o comprovativo da apólice de seguro de responsabilidade civil automóvel, a ficha de inspeção, quando aplicável, e cópia do contrato de aluguer, que pode ser apresentada em suporte eletrónico.\n\n2 - Os originais da documentação referente ao veículo, nomeadamente documento único automóvel e fichas de inspeção, quando a esta haja lugar, podem para efeitos do disposto no número anterior ser substituídos por fotocópias autenticadas nos termos da legislação em vigor.\n\n3 - A não entrega pelo locador dos documentos referidos no n.º 1 implica para este a responsabilidade pelas infrações decorrentes da não exibição daqueles documentos pelo locatário.\n\n4 - Fora dos casos previstos no número anterior, a responsabilidade pelas infrações decorrentes da não exibição dos documentos relativos ao veículo é sempre do locatário.\n\n5 - Sempre que o veículo circule na via pública fora do âmbito de um contrato de aluguer, o condutor deve ser portador de declaração, emitida pelo locador, que inclua a identificação do trabalhador ou representante legal da empresa e o motivo da deslocação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "115556354": {
+   "fragment_id": "37877475",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - A fiscalização do cumprimento das disposições do presente decreto-lei compete, no âmbito das respetivas atribuições, às seguintes entidades:\n\na) IMT, I. P.;\n\nb) Guarda Nacional Republicana;\n\nc) Polícia de Segurança Pública e polícias municipais;\n\nd) Autoridade Nacional de Segurança Rodoviária.\n\ne) AMT.\n\n2 - As entidades referidas no número anterior exercem as suas funções de fiscalização nos termos da lei, podendo proceder, designadamente, às diligências necessárias junto das pessoas singulares ou coletivas que exerçam a atividade de rent-a-car ou de sharing.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556355": {
+   "fragment_id": "37877675",
+   "type": 11,
+   "heading": "Artigo 18.º — Tipificação das contraordenações",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 46/2015 - Diário da República n.º 203/2015, Série I de 2015-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2015-70716379), em vigor a partir de 2015-09-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 18.º — Tipificação das contraordenações\n\n1 - São sancionadas com coima de (euro) 1500 a (euro) 2500, no caso de pessoas singulares, ou até (euro) 7500, no caso de pessoas coletivas:\n\na) O exercício da atividade de rent-a-car ou sharing em inobservância ao disposto no artigo 3.º;\n\nb) O exercício da atividade de rent-a-car ou sharing sem idoneidade comercial nos termos do artigo 5.º, sem prejuízo da substituição dos responsáveis pela administração, direção ou gerência de pessoa coletiva alvo das sanções referidas no mesmo artigo;\n\nc) A utilização de veículos sem observância do disposto nas alíneas a) e b) do n.º 1 do artigo 6.º;\n\nd) A utilização de veículos sem observância do disposto na alínea c) do n.º 1 do artigo 6.º, ou, havendo prorrogação nos termos do n.º 2 do mesmo artigo, para além do prazo concedido;\n\ne) A sublocação de veículos por quem não seja titular do título referido no artigo 3.º nos termos do presente decreto-lei, em infração ao n.º 3 do artigo 6.º;\n\nf) A utilização de veículos em infração ao disposto no n.º 3 do artigo 7.º\n\n2 - São sancionadas com coima de (euro) 500 a (euro) 2500, no caso de pessoas singulares ou coletivas:\n\na) A inexistência de, pelo menos, um estabelecimento fixo para atendimento ao público, conforme previsto na alínea c) do n.º 1 do artigo 4.º;\n\nb) A utilização de veículos sem observância do disposto na alínea d) do n.º 1 do artigo 6.º\n\n3 - São sancionadas com coima de (euro) 250 a (euro) 1250, no caso de pessoas singulares ou coletivas:\n\na) A inexistência do número mínimo de veículos previsto no artigo 4.º por período superior a 180 dias;\n\nb) (Revogada);\n\nc) A falta de dístico que identifique o veículo em sharing, a que se refere o n.º 5 do artigo 6.º;\n\nd) A não disponibilização ao público dos veículos de aluguer nos locais destinados para o efeito, em infração ao disposto nos n.os 1 e 2 do artigo 7.º;\n\ne) A celebração de contrato em infração ao disposto nos n.os 1 a 5 e 7 e 8 do artigo 9.º e nos n.os 1 e 2 do artigo 9.º-A;\n\nf) A cobrança do valor pelo reabastecimento do veículo sem observância dos critérios de cálculo referidos no n.º 9 do artigo 9.º;\n\ng) A inobservância da obrigação de comunicação prévia das cláusulas contratuais gerais, prevista no n.º 1 do artigo 10.º;\n\nh) A infração às disposições sobre a reserva previstas nos n.os 1 e 3 do artigo 11.º e nos n.os 1 e 4 do artigo 11.º-A;\n\ni) O incumprimento dos deveres do locador a que se refere o artigo 12.º;\n\nj) A celebração de contrato adicional em violação do disposto no artigo 13.º;\n\nk) O incumprimento do dever de registo de contratos a que se referem os artigos 14.º e 14.º-A;\n\nl) A inobservância do disposto nos n.os 1 e 5 do artigo 15.º\n\n4 - É sancionado com coima de (euro) 60 a (euro) 150, no caso de pessoas singulares ou coletivas, o estacionamento na via pública, fora dos locais especialmente fixados para o efeito, de veículos afetos à atividade de rent-a-car, quando não alugados, em infração ao disposto no n.º 4 do artigo 6.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 46/2015 - Diário da República n.º 203/2015, Série I de 2015-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2015-70716379), em vigor a partir de 2015-09-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "115556356": {
+   "fragment_id": "37877775",
+   "type": 11,
+   "heading": "Artigo 19.º — Responsabilidade pelas infrações",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Responsabilidade pelas infrações\n\nSem prejuízo do disposto no n.º 4 do artigo 15.º, as infrações ao disposto no presente decreto-lei são da responsabilidade do locador, excetuada a infração constante da alínea j) do n.º 3 do artigo anterior, cuja responsabilidade é do locatário.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556357": {
+   "fragment_id": "37877975",
+   "type": 11,
+   "heading": "Artigo 21.º — Processamento das contraordenações",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 21.º — Processamento das contraordenações\n\n1 - O processamento das contraordenações previstas na alínea a) do n.º 2 e nas alíneas e), f), g), h) e k) do n.º 3 do artigo 18.º compete à AMT.\n\n2 - O processamento das restantes contraordenações previstas no presente decreto-lei compete ao IMT, I. P.\n\n3 - A aplicação das coimas é da competência do conselho diretivo ou de administração das respetivas entidades.\n\n4 - O IMT, I. P., e a AMT organizam o registo das infrações cometidas nos termos da legislação em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "115556358": {
+   "fragment_id": "37878075",
+   "type": 11,
+   "heading": "Artigo 22.º — Produto das coimas",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 22.º — Produto das coimas\n\nO produto das coimas reverte em:\n\na) 60 % para o Estado;\n\nb) 20 % para a entidade responsável pelo processamento da contraordenação;\n\nc) 20 % para a entidade fiscalizadora.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "1125589375": {
+   "fragment_id": "37875975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei regula as condições de acesso e de exercício da atividade de aluguer de veículos de passageiros sem condutor, também designada por atividade de rent-a-car, bem como o aluguer de curta duração de veículos de passageiros sem condutor, com e sem motor, também designado por atividade de sharing.\n\n2 - As atividades referidas no número anterior podem ser realizadas por pessoas singulares ou coletivas estabelecidas em território nacional.\n\n3 - As atividades referidas no n.º 1 podem ser realizadas através do recurso a sítios na Internet e a plataformas eletrónicas que facilitem o aluguer de veículos, desde que os respetivos operadores detenham a permissão administrativa de acesso à atividade emitida pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.)\n\n4 - O presente decreto-lei não é aplicável:\n\na) Aos contratos classificados como de locação financeira, nos termos das normas legais e regulamentares aplicáveis;\n\nb) Aos contratos de prestação de serviços que visam a disponibilização ou partilha de veículos, que não sejam de acesso público, nomeadamente dentro da gestão interna de uma empresa ou entidade pública;\n\nc) Aos contratos de prestação de serviços de aluguer de longa duração, incluindo os designados de ALD, renting ou aluguer operacional de veículos (AOV), bem como os que incluam a prestação de serviços acessórios ao aluguer do veículo;\n\nd) Aos contratos respeitantes à utilização de veículos sem condutor, celebrados no âmbito do exercício da atividade de animação turística, nos termos do disposto no Decreto-Lei n.º 108/2009, de 15 de maio, na sua redação atual.\n\n5 - Para efeitos do disposto no número anterior, considera-se como de longa duração o aluguer de veículos por período igual ou superior a 12 meses.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "1125589575": {
+   "fragment_id": "37876175",
+   "type": 11,
+   "heading": "Artigo 3.º — Acesso à atividade",
+   "in_force_from": "2026-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Acesso à atividade\n\n1 - O acesso e exercício da atividade de aluguer de veículos sem condutor (rent-a-car) e de partilha de veículos (sharing), com ou sem motor, está sujeito a comunicação prévia com prazo ao IMT, I. P., a efetuar através do Portal Único de Serviços Digitais - o gov.pt.\n\n2 - O IMT, I. P., assegura a integração plena dos serviços no Portal Único de Serviços Digitais - o gov.pt.\n\n3 - No prazo máximo de 20 dias úteis a contar da data da comunicação prévia referida no n.º 1, o IMT, I. P., verifica o preenchimento dos requisitos de acesso à atividade previstos nos artigos 4.º e 5.º\n\n4 - Caso o IMT, I. P., não se pronuncie em sentido contrário no prazo referido no número anterior, a comunicação prévia habilita o interessado a iniciar e exercer a atividade de aluguer de veículos sem condutor (rent-a-car) e de partilha de veículos (sharing), com ou sem motor, sem prejuízo do disposto no artigo 10.º\n\n5 - As notificações relacionadas com os procedimentos administrativos previstos no presente decreto-lei são efetuadas através do Serviço Público de Notificações Eletrónicas.\n\n6 - Para efeitos do número anterior, os operadores devem indicar um endereço eletrónico válido para a receção das notificações, que serão consideradas legalmente eficazes a partir do momento do envio através da referida plataforma.\n\n7 - Os procedimentos previstos no presente decreto-lei devem garantir mecanismos de autenticação segura, permitindo aos cidadãos identificarem-se eletronicamente com o cartão de cidadão e a chave móvel digital (CMD), podendo, também, ser utilizado o Sistema de Certificação de Atributos Profissionais para a certificação de atributos profissionais, empresariais e públicos.\n\n8 - Os documentos submetidos pelas entidades requerentes devem ser assinados com recurso a assinaturas eletrónicas qualificadas, podendo incluir as emitidas pelo cartão de cidadão e pela CMD, ou outras previstas na Lista de Confiança Europeia.\n\n9 - As taxas e os emolumentos associados às atividades reguladas pelo presente decreto-lei devem ser pagos exclusivamente através da Plataforma de Pagamentos da Administração Pública, sendo o comprovativo de pagamento emitido por esta plataforma suficiente para efeitos de instrução dos processos administrativos.\n\n10 - O IMT, I. P., mantém no seu sítio na Internet, acessível através do Portal Único de Serviços Digitais - o gov.pt, uma lista atualizada dos prestadores autorizados a exercer as atividades reguladas pelo presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "1125589775": {
+   "fragment_id": "37876275",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de acesso à atividade",
+   "in_force_from": "2026-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de acesso à atividade\n\n1 - Para efeitos de acesso à atividade de rent-a-car e sharing, os interessados devem observar cumulativamente os seguintes requisitos:\n\na) Possuir idoneidade, devidamente comprovada nos termos do artigo 5.º;\n\nb) Propor-se explorar um número mínimo de veículos, independentemente do número de estabelecimentos fixos existentes em território nacional;\n\nc) Dispor de, pelo menos, um estabelecimento fixo para atendimento ao público, no caso da atividade de rent-a-car;\n\nd) Comprovar a regularização da situação contributiva perante a administração fiscal e a segurança social se a pessoa coletiva estiver registada no Registo Nacional de Pessoas Coletivas ou na Autoridade Tributária e Aduaneira há mais de 3 meses.\n\n2 - Para efeitos do disposto na alínea b) do número anterior, o número mínimo de veículos, detidos em regime de propriedade ou locação financeira, é de:\n\na) Sete, para o aluguer de automóveis ligeiros de passageiros;\n\nb) Três, para o aluguer das restantes categorias de veículos, salvo se já se encontrar cumprido o limite referido na alínea anterior.\n\n3 - Para além dos requisitos referidos no n.º 1, para o acesso à atividade de sharing os interessados devem ainda preencher os seguintes requisitos:\n\na) Deter um sistema eletrónico de reserva;\n\nb) Dispor de uma linha telefónica permanente de apoio ao cliente;\n\nc) Indicar o tipo de plataforma eletrónica a disponibilizar, nos termos do disposto no artigo 9.º-C, e o seu responsável, quando não seja o próprio;\n\nd) Disponibilizar antecipadamente aos utilizadores, na plataforma eletrónica, as cláusulas contratuais gerais que pretendam celebrar.\n\n4 - No caso de veículos de caraterísticas especiais, como tal definidos pela deliberação do conselho diretivo do IMT, I. P., referida no n.º 5 do artigo 2.º, pode este órgão estabelecer, por deliberação, limites mínimos diversos dos referidos na alínea b) do n.º 2.\n\n5 - Os requisitos de acesso à atividade são de verificação permanente, devendo as entidades autorizadas comprovar o seu cumprimento para acederem à atividade, e sempre que lhes seja solicitado, podendo o conselho diretivo do IMT, I. P., determinar a cessação da atividade, em caso de incumprimento do presente artigo.\n\n6 - Caso se verifique que o interessado preenche todos os requisitos, à exceção do número mínimo de veículos, deve o IMT, I. P., conceder a permissão administrativa, a título provisório, pelo período de nove meses, sendo esta permissão emitida, a título efetivo, após a demonstração do número mínimo de veículos, em conformidade com o disposto nos n.os 2 e 4 do presente artigo e no artigo 6.º\n\n7 - O IMT, I. P., deve notificar o requerente da concessão da permissão administrativa a título provisório, no prazo definido no n.º 2 do artigo anterior, com a menção de que a falta de notificação por parte do requerente dos veículos a utilizar no prazo de nove meses determina a revogação imediata da permissão administrativa.\n\n8 - As entidades autorizadas devem comunicar ao IMT, I. P., toda e qualquer alteração relativa à manutenção dos requisitos de verificação permanente, no prazo máximo de 30 dias úteis após a verificação da alteração.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "1125589975": {
+   "fragment_id": "37876475",
+   "type": 11,
+   "heading": "Artigo 6.º — Veículos",
+   "in_force_from": "2026-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Veículos\n\n1 - Só podem ser utilizados na atividade de rent-a-car e sharing veículos que obedeçam aos seguintes requisitos cumulativos, quando aplicáveis:\n\na) Sejam matriculados em Portugal, sem prejuízo do disposto no artigo 8.º, ou, no caso dos velocípedes, tenham um número de identificação único atribuído pelo locador;\n\nb) Sejam propriedade do locador, ou adquiridos em regime de locação financeira, ou tenham sido objeto de locação a outro prestador de serviços de rent-a-car;\n\nc) Não tenham mais do que cinco anos contados a partir da data da primeira matrícula, salvo nos casos dos veículos não sujeitos a matrícula e dos veículos com caraterísticas especiais, cujo limite de idade é definido por deliberação do conselho diretivo do IMT, I. P.;\n\nd) Pelo menos 10 % dos automóveis ligeiros de passageiros afetos ao exercício da atividade de rent-a-car ou sharing devem cumprir as normas ambientais designadas de «EURO 6», ou o nível mais elevado que lhe suceda, em matéria de redução de emissões de veículos a motor, nos termos da legislação da União Europeia aplicável.\n\n2 - O limite estabelecido na alínea c) do número anterior pode ser excecionalmente prorrogado por períodos de um ano, até ao máximo de dois anos, por despacho do presidente do conselho diretivo do IMT, I. P., após inspeção dos respetivos veículos.\n\n3 - É proibida a sublocação dos veículos alugados nos termos do presente decreto-lei, exceto quando a sublocação for realizada por empresa habilitada para o exercício da atividade de rent-a-car.\n\n4 - Os veículos disponibilizados por empresas de rent-a-car que tenham sido alugados a empresa habilitada para o efeito, não são considerados para efeitos do disposto na alínea b) do n.º 1 do artigo 4.º\n\n5 - Os veículos afetos à atividade de rent-a-car, quando não alugados, não podem estacionar na via pública, salvo em lugares especialmente fixados para este efeito, designadamente os situados junto de terminais de transporte.\n\n6 - Os veículos afetos à atividade de sharing devem ostentar um dístico, de modelo a definir por deliberação do conselho diretivo do IMT, I. P., que permita a imediata identificação do veículo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "1125590175": {
+   "fragment_id": "37876775",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma e conteúdo do contrato de rent-a-car",
+   "in_force_from": "2026-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 9.º — Forma e conteúdo do contrato de rent-a-car\n\n1 - Sem prejuízo do disposto no n.º 10, o contrato de aluguer de veículos de passageiros sem condutor é reduzido a escrito e assinado pelas partes contratantes, devendo existir sempre um exemplar em língua portuguesa.\n\n2 - O contrato é numerado sequencialmente e feito em duplicado, sendo o original conservado pelo locador e o duplicado entregue ao locatário.\n\n3 - Do contrato constam, de forma clara, precisa e com carateres legíveis:\n\na) A identificação das partes, bem como o número da carta de condução;\n\nb) A identificação do veículo alugado;\n\nc) O preço total a pagar, com descrição de todos os seus componentes fixos e variáveis, incluindo o montante devido, ou respetiva forma de cálculo, no caso de devolução do veículo com nível inferior de combustível àquele que tinha à data do seu levantamento, bem como a menção do imposto aplicável, sem prejuízo do disposto no n.º 4;\n\nd) Indicação do nível de combustível no depósito à data do levantamento do veículo;\n\ne) As importâncias recebidas pelo locador a título de caução;\n\nf) Os serviços complementares convencionados, respetivo preço e condições, e, tratando-se de seguros, as suas coberturas e exclusões;\n\ng) A data, hora e local do início e fim do aluguer, bem como as condições a observar pelo locatário aquando da entrega do veículo no termo do contrato;\n\nh) O nome, endereço e número de telefone do serviço de assistência.\n\n4 - Sempre que o locador intervenha no contrato de aluguer de veículo sem condutor enquanto prestador de um serviço contratado pelo locatário a terceiro, na modalidade de voucher pré-pago ou outra modalidade que envolva o pré-pagamento do serviço junto de terceiro, o preço total a pagar cobre apenas o preço dos serviços complementares que venham a ser convencionados diretamente entre o locador e o locatário, devendo a referência àquela modalidade de pagamento constar expressamente do contrato.\n\n5 - O locador pode recusar o aluguer quando o cliente não ofereça garantias de cumprimento do contrato.\n\n6 - O locador pode retirar ao locatário o veículo alugado antes do termo do contrato, bem como rescindir o contrato, nos termos da lei, com fundamento em incumprimento das cláusulas contratuais.\n\n7 - Sem prejuízo do disposto no Decreto-Lei n.º 446/85, de 25 de outubro, na sua redação atual, são proibidas e nulas as cláusulas contratuais que estabeleçam:\n\na) A aceitação pelo locatário de vícios não aparentes ou não reconhecíveis no veículo;\n\nb) A renúncia ao direito de oposição pelo locatário de valores relativos a despesas apresentadas pelo locador;\n\nc) (Revogada).\n\nd) Obrigações de pagamento de despesas pelo locatário que não se encontrem devidamente discriminadas e previstas no contrato, com exceção do valor das taxas de portagem;\n\ne) Que a celebração do contrato fica dependente da autorização do locatário para a utilização, por qualquer forma, em bases de dados de clientes incumpridores e da sua comunicação às empresas do setor, dos dados pessoais fornecidos por este no âmbito do contrato;\n\nf) Que a celebração do contrato fica dependente da celebração de outros contratos, designadamente de seguros não obrigatórios.\n\ng) O acionamento da caução por danos no veículo, provocados ou não pelo locatário, sem prévia informação e prova dos danos em causa.\n\n8 - Em caso de alteração das condições inicialmente acordadas, nomeadamente pela contratação de serviços adicionais, a mesma deve constar de documento autónomo, assinado pelo locatário.\n\n9 - Nos casos em que o locatário devolva o veículo com o nível de combustível ou de carga da bateria inferior ao existente no momento do levantamento, o locador pode cobrar um valor proporcional, fixado de acordo com os custos incorridos para o abastecimento, nos termos dos números seguintes.\n\n10 - O valor referido no número anterior é calculado com base nos custos de afetação de recursos humanos e de deslocação do veículo para efeitos de reabastecimento ou carregamento, devendo ser indicado no contrato o respetivo valor máximo.\n\n11 - O montante referido no número anterior não pode, em caso algum, ultrapassar a média dos custos efetivamente incorridos pelo locador com o reabastecimento ou carregamento elétrico dos veículos.\n\n12 - Com exceção do disposto no n.º 1, e desde que respeitadas as condições previstas no presente artigo, o contrato pode, igualmente, ser celebrado em suporte eletrónico, sem prejuízo da disponibilidade dos elementos do contrato durante a utilização do veículo na atividade.\n\n13 - Na situação prevista no número anterior, deve ser disponibilizado ao locatário, no momento da celebração, o contrato em suporte duradouro, que possa ser guardado e consultado mais tarde, em papel ou em formato digital com assinatura digital certificada, devendo existir sempre um exemplar em língua portuguesa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "1125590375": {
+   "fragment_id": "115553037",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Plataforma eletrónica",
+   "in_force_from": "2026-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 9.º-C — Plataforma eletrónica\n\n1 - Os locadores de sharing devem disponibilizar uma plataforma eletrónica adequada, de acesso imediato, respondendo solidariamente pela operação dessa plataforma, independentemente da sua propriedade.\n\n2 - A plataforma deve permitir os seguintes serviços mínimos:\n\na) Indicação dos termos de acesso e de permanência na plataforma;\n\nb) Contratação, à distância, dos serviços de sharing e serviços conexos, com seleção dos mesmos, quando aplicável;\n\nc) Comunicação de quaisquer particularidades próprias de veículos selecionados pelos utilizadores;\n\nd) Disponibilização do livro de reclamações eletrónico, tal como previsto no Decreto-Lei n.º 156/2005, de 15 de setembro, na sua redação atual;\n\ne) Em caso de existência de serviços de subscrição, a gestão da conta, incluindo a possibilidade de cancelamento da mesma a pedido do utilizador.\n\n3 - O locador de sharing e o operador de plataforma ficam sujeitos a sigilo profissional e devem respeitar as normas relativas à recolha e à proteção de dados pessoais, nos termos da legislação aplicável.\n\n4 - O disposto no presente artigo aplica-se aos locadores de rent-a-car quando disponibilizem serviços através de plataforma eletrónica.\n\n5 - Devem estar acessíveis aos utilizadores, na plataforma eletrónica do prestador de serviços, o livro de reclamações eletrónico, o endereço de correio eletrónico da Autoridade da Mobilidade e dos Transportes (AMT) para reclamações, bem como informação sobre os meios de resolução alternativa de litígios existentes e sobre o direito do consumidor a recorrer a processo arbitral para resolução de conflitos de consumo emergentes das relações contratuais reguladas pelo presente decreto-lei.\n\n6 - Para efeitos do disposto na parte final no número anterior a plataforma eletrónica do prestador de serviços, pode incluir hiperligação para a plataforma criada e regulada pelo Decreto-Lei n.º 26/2024, de 3 de abril.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "1125590575": {
+   "fragment_id": "37876875",
+   "type": 11,
+   "heading": "Artigo 10.º — Cláusulas contratuais gerais",
+   "in_force_from": "2026-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Cláusulas contratuais gerais\n\n1 - Tratando-se de contratos de adesão com recurso a cláusulas contratuais gerais, o locador está obrigado a enviar uma cópia das respetivas minutas à AMT, a efetuar por via do Balcão do Empreendedor, em data prévia ao início da atividade, ou da adoção de novas cláusulas que consubstanciem restrições aos direitos dos consumidores.\n\n2 - A AMT pode, no prazo de 20 dias úteis, notificar o locador para corrigir as cláusulas que considere desconformes com a lei, considerando-se como pronúncia favorável a ausência de notificação.\n\n3 - No caso de o locador manter no contrato cláusulas que tenham sido objeto de pronúncia desfavorável, deve a AMT proceder nos termos do regime previsto nos artigos 25.º e seguintes do Decreto-Lei n.º 446/85, de 25 de outubro, na sua redação atual.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - O presente artigo aplica-se aos contratos celebrados por locadores estabelecidos em território nacional, independentemente da lei escolhida pelas partes para regular o contrato.\n\n7 - Na apreciação das cláusulas contratuais gerais constantes dos contratos de adesão, a AMT considera igualmente o regime legal de defesa dos consumidores, o regime aplicável às práticas comerciais desleais das empresas nas relações com os consumidores, o regime dos contratos celebrados à distância ou fora do estabelecimento comercial, o regime do comércio eletrónico no mercado interno, bem como o regime relativo ao tratamento de dados pessoais.\n\n8 - Sem prejuízo do referido no disposto no n.º 2, a AMT pode pronunciar-se a todo o tempo sobre a legalidade das cláusulas constantes dos contratos de adesão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "1125590775": {
+   "fragment_id": "37877075",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres do locador",
+   "in_force_from": "2026-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 12.º — Deveres do locador\n\n1 - O locador assegura de forma gratuita a prestação de um serviço de assistência ao locatário, disponível 24 horas por dia, para comunicação de situações anómalas que se verifiquem durante a execução do contrato.\n\n2 - A informação prestada no âmbito do serviço de assistência referido no número anterior é facultada em língua portuguesa, sem prejuízo da possibilidade de disponibilização da informação noutras línguas.\n\n3 - No âmbito do contrato de rent-a-car, verificando-se a indisponibilidade do veículo previamente contratado ou objeto de reserva, o locador assegura a prestação de serviço equivalente ou disponibiliza um veículo de gama superior, sem qualquer custo adicional para o locatário.\n\n4 - No momento da entrega do veículo, na data fixada no contrato, no caso do rent-a-car, ou no término de utilização do serviço de sharing, o locador entrega ao locatário documento comprovativo de que o veículo foi entregue pelo locatário e aceite pelo locador, o qual pode ser também enviado em suporte eletrónico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01"
+  },
+  "1125590975": {
+   "fragment_id": "37877675",
+   "type": 11,
+   "heading": "Artigo 18.º — Tipificação das contraordenações",
+   "in_force_from": "2026-06-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 46/2015 - Diário da República n.º 203/2015, Série I de 2015-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2015-70716379), em vigor a partir de 2015-09-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+   ],
+   "markdown": "###### Artigo 18.º — Tipificação das contraordenações\n\n1 - São sancionadas com coima de (euro) 1500 a (euro) 2500, no caso de pessoas singulares, ou até (euro) 7500, no caso de pessoas coletivas:\n\na) O exercício da atividade de rent-a-car ou sharing em inobservância ao disposto no artigo 3.º;\n\nb) O exercício da atividade de rent-a-car ou sharing sem idoneidade comercial nos termos do artigo 5.º, sem prejuízo da substituição dos responsáveis pela administração, direção ou gerência de pessoa coletiva alvo das sanções referidas no mesmo artigo;\n\nc) A utilização de veículos sem observância do disposto nas alíneas a) e b) do n.º 1 do artigo 6.º;\n\nd) A utilização de veículos sem observância do disposto na alínea c) do n.º 1 do artigo 6.º, ou, havendo prorrogação nos termos do n.º 2 do mesmo artigo, para além do prazo concedido;\n\ne) A sublocação de veículos por quem não seja titular do título referido no artigo 3.º nos termos do presente decreto-lei, em infração ao n.º 3 do artigo 6.º;\n\nf) A utilização de veículos em infração ao disposto no n.º 3 do artigo 7.º\n\n2 - São sancionadas com coima de (euro) 500 a (euro) 2500, no caso de pessoas singulares ou coletivas:\n\na) A inexistência de, pelo menos, um estabelecimento fixo para atendimento ao público, conforme previsto na alínea c) do n.º 1 do artigo 4.º;\n\nb) A utilização de veículos sem observância do disposto na alínea d) do n.º 1 do artigo 6.º\n\n3 - São sancionadas com coima de (euro) 250 a (euro) 1250, no caso de pessoas singulares ou coletivas:\n\na) A inexistência do número mínimo de veículos previsto no artigo 4.º por período superior a 180 dias;\n\nb) (Revogada);\n\nc) A falta de dístico que identifique o veículo em sharing, a que se refere o n.º 6 do artigo 6.º;\n\nd) A não disponibilização ao público dos veículos de aluguer nos locais destinados para o efeito, em infração ao disposto nos n.os 1 e 2 do artigo 7.º;\n\ne) A celebração de contrato em infração ao disposto nos n.os 1 a 5 e 7 e 8 do artigo 9.º e nos n.os 1 e 2 do artigo 9.º-A;\n\nf) A cobrança do valor pelo reabastecimento do veículo sem observância dos critérios de cálculo referidos no n.º 9 do artigo 9.º;\n\ng) A inobservância da obrigação de comunicação prévia das cláusulas contratuais gerais, prevista no n.º 1 do artigo 10.º;\n\nh) A infração às disposições sobre a reserva previstas nos n.os 1 e 3 do artigo 11.º e nos n.os 1 e 4 do artigo 11.º-A;\n\ni) O incumprimento dos deveres do locador a que se refere o artigo 12.º;\n\nj) A celebração de contrato adicional em violação do disposto no artigo 13.º;\n\nk) O incumprimento do dever de registo de contratos a que se referem os artigos 14.º e 14.º-A;\n\nl) A inobservância do disposto nos n.os 1 e 5 do artigo 15.º\n\n4 - É sancionado com coima de 60 € a 150 €, no caso de pessoas singulares ou coletivas, o estacionamento na via pública, fora dos locais especialmente fixados para o efeito, de veículos afetos à atividade de rent-a-car, quando não alugados, em infração ao disposto no n.º 5 do artigo 6.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598), em vigor a partir de 2026-06-23.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2018 - Diário da República n.º 117/2018, Série I de 2018-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2018-115552673), em vigor a partir de 2018-07-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 46/2015 - Diário da República n.º 203/2015, Série I de 2015-10-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2015-70716379), em vigor a partir de 2015-09-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2015 - Diário da República n.º 187/2015, Série I de 2015-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2015-70373436), em vigor a partir de 2015-09-29"
+  },
+  "1126565875": {
+   "fragment_id": "37878375",
+   "type": 11,
+   "heading": "Artigo 25.º — Regime transitório",
+   "in_force_from": "2026-06-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598)."
+   ],
+   "markdown": "###### Artigo 25.º — Regime transitório\n\n1 - As empresas já titulares de alvará para o exercício da atividade de rent-a-car à data da entrada em vigor do presente decreto-lei dispõem do prazo de um ano para se conformarem com o disposto no presente decreto-lei, ficando isentas da obrigação de apresentação da comunicação prévia prevista no artigo 3.º\n\n2 - O IMT, I. P., publica no respetivo sítio da Internet, acessível através do balcão único eletrónico dos serviços, a lista das empresas titulares de alvará para o exercício da atividade de rent-a-car à data da entrada em vigor do presente decreto-lei, no prazo de 30 dias após esta data.\n\n3 - O disposto na alínea d) do n.º 1 do artigo 6.º é apenas aplicável aos veículos adquiridos após a entrada em vigor do presente decreto-lei.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2026-1125313598)."
+  }
+ }
+}

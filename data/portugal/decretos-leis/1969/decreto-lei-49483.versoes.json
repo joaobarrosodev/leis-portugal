@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:213067:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1969-899719939",
+ "dre_path": "/dr/detalhe/decreto-lei/49483-1969-213067",
+ "source_lastmod": "2024-12-10",
+ "versions": [
+  {
+   "date": "1969-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "899755678",
+    "899755679",
+    "899755680",
+    "899755681",
+    "899755682",
+    "899755683",
+    "899755684",
+    "899755685",
+    "899755686",
+    "899755687",
+    "899755688"
+   ]
+  },
+  {
+   "date": "1970-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:227390:por",
+     "title": "Rectificação",
+     "published": "1970-01-30",
+     "dre_path": "/dr/detalhe/rectificacao/1970-227390"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 5.º",
+    "Retifica Artigo 10.º"
+   ],
+   "fragments": [
+    "899755678",
+    "899755679",
+    "899755680",
+    "899755681",
+    "899755682",
+    "899755692",
+    "899755684",
+    "899755685",
+    "899755686",
+    "899755687",
+    "899755693",
+    "899755689"
+   ]
+  }
+ ],
+ "fragments": {
+  "899755678": {
+   "fragment_id": "899719940",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 49483\n\nCom o presente decreto-lei dá-se execução à autorização concedida pelo artigo 10.º da Lei n.º 2145, de 24 de Dezembro de 1969, e introduzem-se nos Códigos do Imposto Profissional e da Contribuição Industrial pequenas alterações tendentes a simplificar, com comodidade para os contribuintes, alguns aspectos de liquidação e cobrança.\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\na) Imposto profissional"
+  },
+  "899755679": {
+   "fragment_id": "899719941",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ eliminado o artigo 22.º do Código do Imposto Profissional e passam a ter a seguinte redacção os seus artigos 1.º, 5.º, 21.º, 26.º, 27.º, 28.º, 29.º e 68.º:\n\nArtigo 1.º ...\n\n§ 1.º ...\n\n§ 2.º ...\n\na) Os direitos de autor sobre obras intelectuais;\n\n...\n\n§ 3.º ...\n\n...\n\nArt. 5.º Ficam igualmente isentos do imposto os contribuintes cujo rendimento colectável anual não seja superior a 30000$00.\n\n§ único. ...\n\n...\n\nArt. 21.º As taxas do imposto são as seguintes:\n\n(ver documento original)\n\n§ único. Em caso algum poderá ser liquidado imposto que deixe ao contribuinte rendimento líquido menor do que aquele que lhe ficaria se o seu rendimento colectável correspondesse ao limite máximo do escalão imediatamente inferior.\n\n...\n\nArt. 26.º As pessoas a quem competir o pagamento ou entrega de rendimentos ou remunerações tributados pelo artigo 1.º deverão deduzir-lhes, na altura da sua atribuição ou pagamento aos contribuintes abrangidos pelas alíneas a) e b) do artigo 2.º, a importância que resultar da aplicação das taxas referidas no artigo 21.º, acrescida do adicional para os distritos autónomos das ilhas adjacentes, quando devido, nos seguintes casos:\n\na) Quando a remuneração anual ajustada exceda o limite de 30000$00;\n\nb) Quando essa remuneração, adicionada de qualquer outro rendimento atribuído ou pago durante o ano ao contribuinte, ultrapasse aquele limite;\n\nc) Quando, não havendo remuneração anual ajustada, ao contribuinte sejam atribuídos ou pagos durante o ano rendimentos que excedam o referido limite.\n\n§ 1.º Verificando-se a hipótese da alínea b) ou c) ou a passagem a um escalão mais elevado da tabela referida no artigo 21.º, a primeira dedução a efectuar será calculada sobre todos os rendimentos ou remunerações pagos ou atribuídos até então e abatida das importâncias que porventura já tenham sido deduzidas ao respectivo contribuinte.\n\n§ 2.º Para efeitos de determinação do limite de 30000$00 e da taxa a aplicar, poderão ser tomados em consideração os rendimentos pagos ou atribuídos por outras entidades, desde que o contribuinte o solicite e forneça a cada uma delas os indispensáveis elementos.\n\nArt. 27.º As pessoas que contratarem artistas de teatro, bailado, cinema, variedades, rádio, televisão ou circo, músicos, cantores, toureiros ou desportistas, bem como conferencistas, cientistas ou técnicos, domiciliados no estrangeiro, deduzirão às remunerações que lhes atribuírem ou pagarem a importância referida no artigo 26.º, no mínimo de 5 por cento, ainda que as respectivas remunerações não excedam 30000$00.\n\nArt. 28.º As sociedades de seguros que reconheçam dificuldades em preencher, na parte respeitante às comissões de angariação, as relações modelo n.º 8, a que se refere o artigo 47.º, poderão dispensar-se de o fazer, mediante o pagamento ao Estado da importância correspondente a 5 por cento da totalidade das comissões que atribuírem em cada mês a pessoas singulares, sendo-lhes, porém, vedado deduzi-la aos angariadores.\n\nArt. 29.º As importâncias referidas nos artigos antecedentes serão entregues nos cofres do Estado, por meio de guia modelo n.º 6, durante os meses de Janeiro, Abril, Julho e Outubro, com referência ao trimestre imediatamente anterior.\n\n§ 1.º A entrega será feita na tesouraria da Fazenda Pública do concelho ou bairro da residência ou sede da entidade a que competir, quando a tenha no continente ou ilhas. Não tendo aí residência ou sede, mas apenas escritório, estabelecimento ou qualquer outra forma de representação, a entrega será feita na tesouraria da respectiva área. Nos demais casos, efectuar-se-á na Tesouraria do 3.º Bairro Fiscal de Lisboa.\n\n§ 2.º Os donos das firmas em nome individual deverão entregar, nos mesmos termos, o imposto calculado de harmonia com o preceituado no artigo 26.º relativamente às importâncias que contabilizarem a título de remuneração do seu trabalho, quando excedam 30000$00 anuais.\n\n...\n\nArt. 68.º As multas cominadas nos dois artigos anteriores serão também aplicáveis às sociedades de seguros que, tendo optado pelo regime estabelecido no artigo 28.º, não entregarem nos cofres do Estado a importância de 5 por cento da totalidade das comissões, entregarem menos, ou fizerem a entrega fora do prazo legal."
+  },
+  "899755680": {
+   "fragment_id": "899719942",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs alterações aos artigos 1.º, 5.º, 21.º, 26.º, 27.º, 28.º, 29.º e 68.º do Código do Imposto Profissional, bem como a eliminação do artigo 22.º do mesmo Código, aplicar-se-ão aos rendimentos recebidos ou postos à disposição dos seus titulares depois de 31 de Dezembro de 1969.\n\nb) Imposto de capitais"
+  },
+  "899755681": {
+   "fragment_id": "899719943",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs artigos 6.º, 21.º e 22.º do Código do Imposto de Capitais passam a ter a seguinte redacção:\n\n...\n\nArt. 6.º ...\n\n...\n\n10.º Os rendimentos resultantes da concessão ou cedência temporária de patentes de invenção, licenças de exploração, modelos de utilidade, desenhos e modelos industriais, marcas, nomes e insígnias de estabelecimentos, processo de fabrico ou de conservação de produtos e direitos análogos, bem como os recebidos pela prestação de informações respeitantes a uma experiência adquirida no sector industrial, comercial ou científico;\n\n11.º Quaisquer outros rendimentos derivados da simples aplicação de capitais, não compreendidos na secção A.\n\n...\n\nArt. 21.º ...\n\n§ 1.º Quando se trate dos lucros, importâncias e rendimentos a que se referem os n.os 1.º, 2.º e 9.º do artigo 6.º, a taxa será de 5,5 por cento.\n\n§ 2.º ...\n\n§ 3.º ...\n\n§ 4.º Tratando-se dos rendimentos a que se refere o n.º 10.º do artigo 6.º, a taxa será de 10 por cento.\n\nArt. 22.º ...\n\n...\n\ne) Quando os rendimentos referidos no n.º 10.º do artigo 6.º provenham de bens utilizados em actividades de superior interesse para o desenvolvimento económico nacional ou regional."
+  },
+  "899755682": {
+   "fragment_id": "899719944",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs alterações aos artigos 6.º e 21.º do Código do Imposto de Capitais aplicar-se-ão aos rendimentos relativamente aos quais a obrigação da entrega do imposto ao Estado ocorra posteriormente a 31 de Dezembro de 1969.\n\nc) Contribuição industrial"
+  },
+  "899755683": {
+   "fragment_id": "899719945",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs artigos 85.º, 100.º e 101.º do Código da Contribuição Industrial passam a ter a seguinte redacção:\n\n...\n\nArt. 85.º A contribuição relativa aos grupos A e B será objecto da liquidação provisória nos termos seguintes:\n\na) A liquidação da contribuição industrial, grupo A, será efectuada até 20 de Junho do ano seguinte àquele a que respeita, de acordo com os elementos constantes da respectiva declaração modelo n.º 2. Na falta da declaração, liquidar-se-á importância igual à da última contribuição que tiver sido liquidada;\n\nb) A liquidação da contribuição industrial, grupo B, será efectuada até 15 de Dezembro do próprio ano a que respeita e terá por base a importância correspondente a 50 por cento do lucro tributável do ano anterior.\n\n§ único. A liquidação provisória de que trata este artigo deverá ser corrigida até 15 de Setembro seguinte, cobrando-se ou anulando-se então as diferenças apuradas.\n\n...\n\nArt. 100.º Os conhecimentos de cobranças serão entregues anualmente nas tesourarias da Fazenda Pública, nos prazos seguintes:\n\na) Até 20 de Junho, os que respeitarem à liquidação provisória da contribuição industrial, grupo A;\n\nb) Até 15 de Dezembro, os que respeitarem à liquidação provisória da contribuição industrial, grupo B;\n\nc) Até 15 de Setembro, os referentes à correcção da liquidação provisória ou à liquidação prevista no artigo 86.º;\n\nd) Até 20 de Março, os relativos à contribuição industrial, grupo C.\n\n§ 1.º ...\n\n§ 2.º ...\n\nArt. 101.º A contribuição industrial será paga em duas prestações iguais, com vencimento em Julho e Outubro ou em Janeiro e Julho, conforme se trate de contribuição do grupo A ou do grupo B, se o montante exceder 200$00 e respeitar à liquidação provisória a que se refere o artigo 85.º; por uma só vez, no mês de Outubro, quando relativa à correcção da liquidação provisória ou à liquidação prevista no artigo 86.º; e em duas ou três prestações iguais, com vencimento em Abril e Julho, ou em Abril, Julho e Outubro, quando superior a 200$00 e 300$00, respectivamente, tratando-se de contribuintes do grupo C.\n\n§ 1.º As contribuições de montante até 200$00 deverão ser pagas por uma só vez, em Julho, Janeiro e Abril, conforme o caso.\n\n§ 2.º ...\n\n..."
+  },
+  "899755684": {
+   "fragment_id": "899719946",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs alterações aos artigos 85.º, 100.º e 101.º do Código da Contribuição Industrial aplicar-se-ão à contribuição industrial do ano de 1969 e seguintes.\n\nd) Imposto complementar"
+  },
+  "899755685": {
+   "fragment_id": "899719947",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs artigos 33.º e 124.º do Código do Imposto Complementar passam a ter a seguinte redacção:\n\nArt. 33.º As taxas do imposto complementar, secção A, são as constantes da tabela seguinte:\n\n(ver documento original)\n\n§ 1.º ...\n\n§ 2.º ...\n\n...\n\nArt. 124.º Os rendimentos, líquidos do imposto de capitais, secção B, das acções e obrigações ao portador não registadas ficarão sujeitos a imposto complementar pela taxa de 24 por cento.\n\n§ 1.º ...\n\n§ 2.º ...\n\n..."
+  },
+  "899755686": {
+   "fragment_id": "899719948",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA nova tabelado artigo 33.º do Código do Imposto Complementar aplicar-se-á aos rendimentos respeitantes ao ano de 1969 e seguintes."
+  },
+  "899755687": {
+   "fragment_id": "899719949",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA alteração ao artigo 124.º do mesmo Código aplicar-se-á aos rendimentos relativamente aos quais a obrigação da entrega do imposto ao Estado ocorra posteriormente a 31 de Dezembro de 1969.\n\ne) Imposto sobre as sucessões e doações"
+  },
+  "899755688": {
+   "fragment_id": "899719950",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nO artigo 40.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passa a ter a seguinte redacção:\n\nArt. 40.º As taxas do imposto sobre as sucessões e doações são as constantes da seguinte tabela:\n\n(ver documento original)\n\n§ único. ...\n\n> Nota: [Rectificação - Diário do Governo n.º 25/1970, Série I de 1970-01-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1970-227390) A Rectificação, de 30 de janeiro, retifica o artigo 40.º, nos seguintes termos: onde se lê: «Até 5000$01», deve ler-se «Até 5000$00»."
+  },
+  "899755692": {
+   "fragment_id": "899719945",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1970-01-30",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 25/1970, Série I de 1970-01-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1970-227390), em vigor a partir de 1970-01-30"
+   ],
+   "markdown": "###### Artigo 5.º\n\nOs artigos 85.º, 100.º e 101.º do Código da Contribuição Industrial passam a ter a seguinte redacção:\n\n...\n\nArt. 85.º A contribuição relativa aos grupos A e B será objecto de liquidação provisória nos termos seguintes:\n\na) A liquidação da contribuição industrial, grupo A, será efectuada até 20 de Junho do ano seguinte àquele a que respeita, de acordo com os elementos constantes da respectiva declaração modelo n.º 2. Na falta da declaração, liquidar-se-á importância igual à da última contribuição que tiver sido liquidada;\n\nb) A liquidação da contribuição industrial, grupo B, será efectuada até 15 de Dezembro do próprio ano a que respeita e terá por base a importância correspondente a 50 por cento do lucro tributável do ano anterior.\n\n§ único. A liquidação provisória de que trata este artigo deverá ser corrigida até 15 de Setembro seguinte, cobrando-se ou anulando-se então as diferenças apuradas.\n\n...\n\nArt. 100.º Os conhecimentos de cobranças serão entregues anualmente nas tesourarias da Fazenda Pública, nos prazos seguintes:\n\na) Até 20 de Junho, os que respeitarem à liquidação provisória da contribuição industrial, grupo A;\n\nb) Até 15 de Dezembro, os que respeitarem à liquidação provisória da contribuição industrial, grupo B;\n\nc) Até 15 de Setembro, os referentes à correcção da liquidação provisória ou à liquidação prevista no artigo 86.º;\n\nd) Até 20 de Março, os relativos à contribuição industrial, grupo C.\n\n§ 1.º ...\n\n§ 2.º ...\n\nArt. 101.º A contribuição industrial será paga em duas prestações iguais, com vencimento em Julho e Outubro ou em Janeiro e Julho, conforme se trate de contribuição do grupo A ou do grupo B, se o montante exceder 200$00 e respeitar à liquidação provisória a que se refere o artigo 85.º; por uma só vez, no mês de Outubro, quando relativa à correcção da liquidação provisória ou à liquidação prevista no artigo 86.º; e em duas ou três prestações iguais, com vencimento em Abril e Julho, ou em Abril, Julho e Outubro, quando superior a 200$00 e 300$00, respectivamente, tratando-se de contribuintes do grupo C.\n\n§ 1.º As contribuições de montante até 200$00 deverão ser pagas por uma só vez, em Julho, Janeiro e Abril, conforme o caso.\n\n§ 2.º ...\n\n...\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 25/1970, Série I de 1970-01-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1970-227390), em vigor a partir de 1970-01-30"
+  },
+  "899755693": {
+   "fragment_id": "899719950",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1970-01-30",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 25/1970, Série I de 1970-01-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1970-227390), em vigor a partir de 1970-01-30"
+   ],
+   "markdown": "###### Artigo 10.º\n\nO artigo 40.º do Código da Sisa e do Imposto sobre as Sucessões e Doações passa a ter a seguinte redacção:\n\nArt. 40.º As taxas do imposto sobre as sucessões e doações são as constantes da seguinte tabela:\n\n(ver documento original)\n\n§ único. ...\n\n> Nota: [Rectificação - Diário do Governo n.º 25/1970, Série I de 1970-01-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1970-227390) A Rectificação, de 30 de janeiro, retifica o artigo 40.º, nos seguintes termos: onde se lê: «Até 5000$01», deve ler-se «Até 5000$00».\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 25/1970, Série I de 1970-01-30](https://diariodarepublica.pt/dr/detalhe/rectificacao/1970-227390), em vigor a partir de 1970-01-30"
+  },
+  "899755689": {
+   "fragment_id": "899719951",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.\n\nPromulgado em 30 de Dezembro de 1969.\n\nPublique-se.\n\nPresidência da República, 30 de Dezembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  }
+ }
+}

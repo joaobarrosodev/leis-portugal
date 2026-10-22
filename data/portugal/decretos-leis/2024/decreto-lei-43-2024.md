@@ -1,0 +1,174 @@
+---
+schema_version: '1.0'
+id: pt:dre:870515825:por
+title: Decreto-Lei n.º 43/2024
+short_title: null
+summary: Altera o Decreto-Lei n.º 20-B/2023, de 22 de março, que cria apoios extraordinários de apoio às famílias para pagamento
+  da renda e da prestação de contratos de crédito, e revoga a extensão do regime do arrendamento forçado às habitações devolutas.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Infraestruturas e Habitação
+official_number: 43/2024
+official_date: null
+publication_date: '2024-07-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 126/2024, Série I de 2024-07-02
+  number: '126'
+  series: I
+  supplement: null
+  pages: 6 - 7
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/07/12600/0000600007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/43/2024/07/02/p/dre/pt/html
+  oj: null
+  dre: '870515825'
+  dre_path: /dr/detalhe/decreto-lei/43-2024-870515825
+  internal: pt:dre:870515825:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2024-870515825
+  metadata_url: https://data.dre.pt/eli/dec-lei/43/2024/07/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2024-870515825
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-07-02T00:00:00Z'
+integrity:
+  source_sha256: d6def43ac2e22dd56c5c6cbc8301f587c50618f571dfe6d42cd1a2da4bcc060f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-43-870515825.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Fiscal
+- Política de Família
+- Contrato de Concessão
+- Contrato de Financiamento
+- Direito à Informação
+- Instituto da Habitação e da Reabilitação Urbana
+- Património do Estado
+- Arrendamento Urbano para Habitação
+- Arrendamento Forçado
+- Apoio Extraordinário a Titulares de Rendimentos e Prestações Sociais
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/103-b/2023/11/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103-b/2023/11/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/20-b/2023/03/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/20-b/2023/03/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/91/2023/10/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/91/2023/10/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/56/2023/10/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/56/2023/10/06/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43/2024
+
+de 2 de julho
+
+A promoção de políticas públicas para a habitação deve adaptar-se, de forma equilibrada e continuada, à realidade socioeconómica, designadamente aos atuais desafios associados ao parque habitacional português.
+
+As alterações a normas legislativas promovidas no presente decreto-lei estão em sintonia com as políticas públicas para a habitação, consagradas no Programa do XXIV Governo Constitucional, denominada "Construir Portugal: Nova Estratégia para a Habitação", que prevê a aprovação e implementação, no curto prazo, de medidas para incentivar a oferta, reforçar a confiança no mercado de arrendamento, fomentar a habitação jovem e assegurar a acessibilidade no setor da habitação.
+
+Considerando que uma quantidade significativa de contratos de arrendamento celebrados até 15 de março de 2023 foram cessados por iniciativa dos respetivos senhorios, e sucedidos pela celebração de novos contratos, com o mesmo objeto e as mesmas partes, alguns arrendatários deixaram de poder beneficiar dos apoios extraordinários de apoio às famílias para pagamento da renda, aprovados pelo [Decreto-Lei n.º 20-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-2023-210543863), de 22 de março, na sua redação atual. Assim, importa agora estender este regime de apoios a todos os locatários com contratos de arrendamento em vigor na situação referida, através de comprovação pela Autoridade Tributária, em função da comunicação obrigatória desses contratos. Esta medida temporária e excecional, prevista até dezembro de 2028, visa manter o apoio extraordinário aos arrendatários e subarrendatários nela abrangidos, num valor que poderá ascender aos 200 € mensais, pago pela segurança social, procurando aumentar o rendimento disponível das famílias e observar o princípio da igualdade aqui ínsito.
+
+Por outro lado, o presente decreto-lei pretende assegurar o direito de propriedade privada, previsto no artigo 62.º da Constituição da República Portuguesa, através da revogação do artigo 108.º-C do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, que estabelece o regime jurídico da urbanização e edificação urbana, e que prevê o arrendamento forçado de habitações devolutas.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à:
+
+a) Quarta alteração ao [Decreto-Lei n.º 20-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-2023-210543863), de 22 de março, alterado pela [Lei n.º 56/2023](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), de 6 de outubro, pelos Decretos-Leis n.<sup>os</sup>[91/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2023-222645051), de 11 de outubro, e [103-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-b-2023-224081985), de 9 de novembro, que cria apoios extraordinários de apoio às famílias para pagamento da renda e da prestação de contratos de crédito;
+
+b) Revogação do artigo 108.º-C do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 20-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-2023-210543863), de 22 de março
+
+Os artigos 3.º e 11.º do [Decreto-Lei n.º 20-B/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-b-2023-210543863), de 22 de março, na sua redação atual, passam a ter a seguinte redação:
+
+"Artigo 3.º
+
+[...]
+
+1 - (Anterior corpo do artigo.)
+
+2 - O disposto no número anterior aplica-se, excecional e temporariamente, a contratos de arrendamento celebrados após 15 de março de 2023, em que comprovadamente o contrato de arrendamento anterior tenha cessado, por iniciativa do senhorio, e o contrato em vigor diga respeito ao mesmo locatário e ao mesmo imóvel, devendo corresponder à habitação permanente e domicílio fiscal do respetivo arrendatário ou subarrendatário beneficiário.
+
+###### Artigo 11.º — [...]
+
+O pagamento do apoio cessa com a comunicação da cessação do contrato de arrendamento ou subarrendamento pela AT, exceto nas situações previstas do n.º 2 do artigo 3.º, ou a requerimento de qualquer dos interessados."
+
+###### Artigo 3.º — Norma revogatória
+
+É revogado o artigo 108.º-C do [Decreto-Lei n.º 555/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1999-655682), de 16 de dezembro, na sua redação atual.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 14 de junho de 2024. - Luís Montenegro - Joaquim José Miranda Sarmento - Manuel Castro Almeida - Patrícia Gonçalves Costa de Machado Santos.
+
+**Promulgado em 17 de junho de 2024.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 19 de junho de 2024.**
+
+**O Primeiro-Ministro, Luís Montenegro.**

@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:567878:por
+title: Portaria n.º 1033/81
+short_title: null
+summary: Estabelece disposições relativas à regulamentação das provas de selecção para técnicos superiores principais na Direcção-Geral
+  das Contribuições e Impostos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Reforma Administrativa
+proposing_entity: null
+official_number: 1033/81
+official_date: null
+publication_date: '1981-12-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 278/1981, Série I de 1981-12-03
+  number: '278'
+  series: I
+  supplement: null
+  pages: 3152 - 3152
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/12/27800/31523152.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '567878'
+  dre_path: /dr/detalhe/portaria/1033-1981-567878
+  internal: pt:dre:567878:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-1981-567878
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1033-1981-567878
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-12-03T00:00:00Z'
+integrity:
+  source_sha256: 8cfaf1acf124d060189ba7697b7e1d465b46b7237aaeb149421c4ca7895ce2ec
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-1033-567878.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1033/81
+
+de 3 de Dezembro
+
+Nos termos previstos no artigo 38.º do [Decreto-Lei n.º 363/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1978-326736), de 28 de Novembro, a aprovação dos regulamentos das provas selectivas visando a admissão e a promoção de funcionários da Direcção-Geral das Contribuições e Impostos compete ao Ministro de Estado e das Finanças e do Plano e ao membro do Governo que tiver a seu cargo a Administração Pública.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros de Estado e das Finanças e do Plano e da Reforma Administrativa:
+
+1.º Às provas destinadas à selecção de técnicos superiores principais das carreiras do pessoal técnico superior previstas nos artigos 45.º, 48.º, 49.º e 50.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril, aplica-se, com as necessárias adaptações, o regulamento aprovado pela [Portaria n.º 279/80](https://diariodarepublica.pt/dr/detalhe/portaria/279-1980-474147), de 23 de Maio, em tudo o que se refere às provas destinadas à selecção de assessores.
+
+2.º O regulamento aprovado pela [Portaria n.º 30/81](https://diariodarepublica.pt/dr/detalhe/portaria/30-1981-390466), de 14 de Janeiro, é igualmente aplicável, com as necessárias adaptações, às provas de selecção de técnicos superiores de 2.ª classe das carreiras de pessoal técnico superior previstas nos artigos 48.º e 49.º do [Decreto Regulamentar n.º 12/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/12-1979-382439), de 16 de Abril.
+
+Ministérios das Finanças e do Plano e da Reforma Administrativa, 22 de Outubro de 1981. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

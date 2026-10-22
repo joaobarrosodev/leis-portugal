@@ -1,0 +1,280 @@
+---
+schema_version: '1.0'
+id: pt:dre:67051304:por
+title: Decreto Regulamentar n.º 4/2015
+short_title: null
+summary: Procede à quarta alteração ao Decreto Regulamentar n.º 25/2009, de 14 de setembro, que estabelece o regime das depreciações
+  e amortizações para efeitos do imposto sobre o rendimento das pessoas coletivas
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 4/2015
+official_date: null
+publication_date: '2015-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 78/2015, Série I de 2015-04-22
+  number: '78'
+  series: I
+  supplement: null
+  pages: 2024 - 2026
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/04/07800/0202402026.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/4/2015/04/22/p/dre/pt/html
+  oj: null
+  dre: '67051304'
+  dre_path: /dr/detalhe/decreto-regulamentar/4-2015-67051304
+  internal: pt:dre:67051304:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2015-67051304
+  metadata_url: https://data.dre.pt/eli/decregul/4/2015/04/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2015-67051304
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-04-22T00:00:00Z'
+integrity:
+  source_sha256: c13ad059bac44b1483c12672171ad9dd6e963837d8b3d9f5eecca963661da02b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2015/DRE-2015-4-67051304.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Activo Imobilizado
+- Amortização
+- Autoridade Tributária e Aduaneira
+- Contribuições e Impostos
+- IRC
+- Sociedades
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/162/2014/10/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/162/2014/10/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/25/2009/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/25/2009/09/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2014/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2014/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/82-d/2014/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/82-d/2014/12/31/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 4/2015
+
+de 22 de abril
+
+Na sequência da entrada em vigor da [Lei n.º 2/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/571007/details/normal?l=1), de 16 de janeiro, alterada pelo [Decreto-Lei n.º 162/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/58683382/details/normal?l=1), de 31 de outubro, que procedeu à reforma da tributação das sociedades, foram introduzidas alterações ao Código do Imposto sobre o Rendimento das Pessoas Coletivas, nomeadamente em matéria de depreciações e amortizações, as quais impõem a necessidade de adaptar, alterando em conformidade, algumas disposições do regime de depreciações e amortizações, atualmente constante do [Decreto Regulamentar n.º 25/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/489774/details/normal?l=1), de 14 de setembro, alterado pela [Leis n.os 64-B/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243769/details/normal?l=1), de 30 de dezembro, [2/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/571007/details/normal?l=1), de 16 de janeiro, e [82-D/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66022084/details/normal?l=1), de 31 de dezembro.
+
+Adicionalmente, é adaptado o conteúdo de algumas das normas do [Decreto Regulamentar n.º 25/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/489774/details/normal?l=1), de 14 de setembro, alterado pela [Leis n.os 64-B/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243769/details/normal?l=1), de 30 de dezembro, [2/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/571007/details/normal?l=1), de 16 de janeiro, e [82-D/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66022084/details/normal?l=1), de 31 de dezembro, às alterações entretanto ocorridas em matéria de tributação das sociedades, procedendo-se ainda à atualização das referências contidas no referido diploma à extinta Direção-Geral dos Impostos, as quais são substituídas pela referência à Autoridade Tributária e Aduaneira.
+
+Assim:
+
+Nos termos da alínea c) do artigo 199.º da Constituição, e do n.º 1 do artigo 31.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo [Decreto-Lei n.º 442-B/88](https://diariodarepublica.pt/web/guest/pesquisa/-/search/519003/details/normal?l=1), de 30 de novembro, na redação dada pela [Lei n.º 2/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/571007/details/normal?l=1), de 16 de janeiro, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma procede à quarta alteração ao [Decreto Regulamentar n.º 25/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/489774/details/normal?l=1), de 14 de setembro, alterado pela [Leis n.os 64-B/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243769/details/normal?l=1), de 30 de dezembro, [2/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/571007/details/normal?l=1), de 16 de janeiro, e [82-D/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66022084/details/normal?l=1), de 31 de dezembro, que estabelece o regime das depreciações e amortizações para efeitos do imposto sobre o rendimento das pessoas coletivas.
+
+###### Artigo 2.º — Alteração ao [Decreto Regulamentar n.º 25/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/489774/details/normal?l=1), de 14 de setembro
+
+Os artigos 1.º, 2.º a 5.º, 9.º, 10.º, 11.º, 12.º, 15.º, 16.º e 18.º do [Decreto Regulamentar n.º 25/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/489774/details/normal?l=1), de 14 de setembro, alterado pela [Leis n.os 64-B/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/243769/details/normal?l=1), de 30 de dezembro, [2/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/571007/details/normal?l=1), de 16 de janeiro, e [82-D/2014](https://diariodarepublica.pt/web/guest/pesquisa/-/search/66022084/details/normal?l=1), de 31 de dezembro, passam a ter a seguinte redação:
+
+«Artigo 1.º
+
+[...]
+
+1 - [...].
+
+2 - Salvo razões devidamente justificadas e aceites pela Autoridade Tributária e Aduaneira, as depreciações e amortizações só são consideradas:
+
+a) [...];
+
+b) [...].
+
+3 - [...].
+
+###### Artigo 2.º — [...]
+
+1 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) Valor de mercado, à data do reconhecimento inicial, para os bens objeto de avaliação para este efeito, quando não seja conhecido o custo de aquisição ou de produção, podendo esse valor ser objeto de correção, para efeitos fiscais, quando se considere excedido.
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - Para efeitos da determinação do valor depreciável ou amortizável, previsto nos números anteriores:
+
+a) Não são consideradas as despesas de desmantelamento; e
+
+b) Deduz-se o valor residual.
+
+6 - [Anterior n.º 5].
+
+7 - [Anterior n.º 6].
+
+###### Artigo 3.º — [...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - Não são aceites como gastos para efeitos fiscais as depreciações ou amortizações praticadas para além do período máximo de vida útil, ressalvando-se os casos devidamente justificados e aceites pela Autoridade Tributária e Aduaneira.
+
+###### Artigo 4.º — [...]
+
+1 - O cálculo das depreciações e amortizações faz-se, em regra, pelo método da linha reta.
+
+2 - [...].
+
+3 - A adoção pelo sujeito passivo de métodos de depreciação e amortização diferentes dos referidos nos números anteriores, de que resulte a aplicação de quotas de depreciação ou amortização superiores às previstas no presente decreto regulamentar, depende de autorização da Autoridade Tributária e Aduaneira, a qual deve ser solicitada até ao termo do período de tributação no qual o sujeito passivo pretenda iniciar a aplicação de tais métodos, através de requerimento em que se indiquem as razões que os justificam.
+
+###### Artigo 5.º — Método da linha reta
+
+1 - No método da linha reta, a quota anual de depreciação ou amortização que pode ser aceite como gasto do período de tributação é determinada aplicando-se aos valores mencionados no n.º 1 do artigo 2.º as taxas de depreciação ou amortização específicas fixadas na tabela I anexa ao presente decreto regulamentar, e que dele faz parte integrante, para os elementos do ativo dos correspondentes ramos de atividade ou, quando estas não estejam fixadas, as taxas genéricas fixadas na tabela II anexa ao presente decreto regulamentar, e que dele faz parte integrante.
+
+2 - [...].
+
+3 - Relativamente aos elementos para os quais não se encontrem fixadas, nas tabelas referidas no n.º 1, taxas de depreciação ou amortização são aceites as que pela Autoridade Tributária e Aduaneira sejam consideradas razoáveis, tendo em conta o período de vida útil esperada daqueles elementos.
+
+4 - [...].
+
+5 - [...].
+
+###### Artigo 9.º — [...]
+
+1 - [...].
+
+2 - [...].
+
+3 - A aplicação do regime mencionado no n.º 1 a ativos fixos tangíveis que estejam sujeitos a um desgaste mais rápido do que o normal em consequência de causas diferentes das previstas no referido número, desde que devidamente justificadas e respeitado o limiar máximo estabelecido na alínea b) do n.º 1 e as limitações mencionadas no número anterior, depende de autorização da Autoridade Tributária e Aduaneira, a qual deve ser solicitada até ao termo do primeiro período de tributação no qual o sujeito passivo pretenda aplicar aquele regime, através de requerimento em que se indiquem as quotas de depreciação a praticar e as razões que as justificam.
+
+4 - [...].
+
+###### Artigo 10.º — [...]
+
+1 - [...].
+
+2 - [...].
+
+3 - Em relação aos imóveis adquiridos sem indicação expressa do valor do terreno referido na alínea a) do número anterior, o valor a atribuir a este, para efeitos fiscais, é fixado em 25 % do valor global, a menos que o sujeito passivo estime outro valor com base em cálculos devidamente fundamentados e aceites pela Autoridade Tributária e Aduaneira.
+
+4 - [...].
+
+5 - [...].
+
+###### Artigo 11.º — [...]
+
+1 - Não são aceites como gastos as depreciações das viaturas ligeiras de passageiros ou mistas, incluindo os veículos elétricos, na parte correspondente ao custo de aquisição ou ao valor revalorizado excedente ao montante a definir por portaria do membro do Governo responsável pela área das finanças, bem como dos barcos de recreio e aviões de turismo.
+
+2 - O disposto no número anterior não é aplicável aos bens aí referidos que estejam afetos à exploração de serviço público de transportes ou que se destinem a ser alugados no exercício da atividade normal do sujeito passivo.
+
+###### Artigo 12.º — [...]
+
+1 - Os elementos depreciáveis ou amortizáveis adquiridos ou produzidos por entidades concessionárias que, nos termos das regras de normalização contabilística aplicáveis, sejam reconhecidos como elementos do seu ativo fixo tangível ou intangível e que, nos termos das cláusulas do contrato de concessão, sejam revertíveis no final desta, podem ser depreciados ou amortizados em função do número de anos que restem do período de concessão, quando aquele for inferior ao seu período mínimo de vida útil.
+
+2 - [...].
+
+3 - [...].
+
+###### Artigo 15.º — [...]
+
+1 - [...].
+
+2 - [...].
+
+a) [...];
+
+b) Não é aceite como gasto, para efeitos fiscais, a parte do valor depreciável ou amortizável dos elementos do ativo que tenham sofrido perdas por imparidade nos termos do artigo 31.º-B do Código do IRC que corresponda à reavaliação efetuada.
+
+3 - [...].
+
+###### Artigo 16.º — [...]
+
+1 - [...].
+
+2 - [...].
+
+3 - Exceto em caso de deperecimento efetivo, devidamente comprovado e reconhecido pela Autoridade Tributária e Aduaneira, não são amortizáveis:
+
+a) Trespasses de estabelecimentos comerciais, industriais ou agrícolas;
+
+b) [...].
+
+###### Artigo 18.º — [...]
+
+1 - [...].
+
+2 - Para efeitos do disposto no número anterior, as quotas mínimas de depreciação ou amortização são determinadas através da aplicação, aos valores mencionados no artigo 2.º, das taxas iguais a metade das fixadas nos termos do artigo 5.º, dependendo a utilização de quotas inferiores de comunicação à Autoridade Tributária e Aduaneira, efetuada até ao termo do primeiro período de tributação em que o sujeito passivo pretenda iniciar a aplicação de tais quotas, na qual se indiquem as quotas a praticar e as razões que justificam a respetiva utilização.
+
+3 - [...].»
+
+Visto e aprovado em Conselho de Ministros de 26 de março de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - António de Magalhães Pires de Lima - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+**Promulgado em 16 de abril de 2015.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 17 de abril de 2015.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**

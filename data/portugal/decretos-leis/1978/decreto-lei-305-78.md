@@ -1,0 +1,150 @@
+---
+schema_version: '1.0'
+id: pt:dre:328030:por
+title: Decreto-Lei n.º 305/78
+short_title: null
+summary: Define as relações entre órgãos administrativos da Força Aérea e os órgãos de fiscalização jurídica e administrativa
+  do Estado. Funcionamento da Comissão Liquidatária de Responsabilidades da Força Aérea
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 305/78
+official_date: null
+publication_date: '1978-10-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 241/1978, Série I de 1978-10-19
+  number: '241'
+  series: I
+  supplement: null
+  pages: 2204 - 2205
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/10/24100/22042205.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '328030'
+  dre_path: /dr/detalhe/decreto-lei/305-1978-328030
+  internal: pt:dre:328030:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1978-328030
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1978-328030
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: f830c219054dabbded019c5ce9100ccc9ea794e74291b69babf5d5f8efaa0371
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-305-328030.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 305/78
+
+de 19 de Outubro
+
+Considerando que a publicação do [Decreto-Lei n.º 679/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/679-1976-408730), de 2 de Setembro, veio alterar o sistema até então em vigor na Força Aérea quanto à prestação das contas de gerência dos seus conselhos administrativos, criando a Comissão Liquidatária de Responsabilidades como órgão que, na dependência directa do respectivo Chefe do Estado-Maior, as aprecia e aprova em igualdade de circunstâncias com o que há muito vem sendo praticado nos restantes departamentos militares;
+
+Considerando que esse facto obriga a rever a legislação com incidência nas relações dos conselhos administrativos e Direcção do Serviço de Intendência e Contabilidade da Força Aérea entre si e o Tribunal de Contas;
+
+Considerando, por último, aconselhável incluir num só diploma a matéria que envolve também as relações com a Direcção-Geral da Contabilidade Pública, a fim de permitir revogar na íntegra o diploma que aborda este assunto na especialidade e permitir assim que os contactos com os órgãos de fiscalização jurídica e administrativa do Estado, por um lado, e com os que no Departamento da Força Aérea, por outro, executam, dirigem e fiscalizam os aspectos da administração financeira fiquem regulados num único e actualizado diploma:
+
+O Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - As relações do Serviço de Intendência e Contabilidade da Força Aérea com a Direcção-Geral da Contabilidade Pública e com o Tribunal de Contas têm lugar através da direcção daquele Serviço.
+
+2 - Exceptuam-se do estabelecido no corpo deste artigo:
+
+a) As relações entre os conselhos administrativos e o Tribunal de Contas, no que respeita ao julgamento das contas de gerência, a partir de 1 de Janeiro de 1976, que se processarão exclusivamente através da Comissão Liquidatária de Responsabilidades;
+
+b) As relações para a resolução dos assuntos a seguir referidos, que os conselhos administrativos poderão estabelecer com os órgãos adequados da Direcção-Geral da Contabilidade Pública ou, ainda, com a Direcção-Geral do Tribunal de Contas, conforme os casos:
+
+Registo de documento e requisições de fundos;
+
+Visto ou anotação de documentos.
+
+###### Art. 2.º - 1 - A organização das contas de gerência compete aos conselhos administrativos, que as apresentarão à Comissão Liquidatária de Responsabilidades dentro dos prazos seguintes:
+
+Continente:
+
+Até 30 de Novembro do ano seguinte àquele a que dizem respeito;
+
+Região Autónoma dos Açores:
+
+Até 31 de Dezembro do ano seguinte àquele a que dizem respeito.
+
+2 - Não são abrangidos pelos prazos indicados no n.º 1 os casos seguintes, para os quais é fixado o prazo de sessenta dias contados desde a data da ocorrência, como limite para apresentação das respectivas contas de gerência:
+
+a) Substituição simultânea dos três membros de um conselho administrativo;
+
+b) Alcance ou presunção de alcance, em que as responsabilidades recaiam sobre algum dos membros em exercício;
+
+c) Extinção do conselho administrativo.
+
+3 - Os prazos só poderão ser prorrogados por despacho do presidente da Comissão Liquidatária de Responsabilidades, a solicitação dos conselhos administrativos, desde que façam prova da ocorrência de casos de força maior impeditivos do seu cumprimento.
+
+###### Art. 3.º Os prazos fixados no presente diploma só se aplicam às contas de gerência do ano de 1978 e seguintes, competindo ao Chefe do Estado-Maior da Força Aérea, ouvida a Comissão Liquidatária de Responsabilidades, determinar as datas limites de apresentação das contas dos anos de 1976-1977.
+
+###### Art. 4.º - 1 - A conta de gerência da Força Aérea, a que se refere a alínea d) do artigo 3.º do [Decreto-Lei n.º 679/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/679-1976-408730), de 2 de Setembro, será remetida ao Tribunal de Contas até 30 de Junho do ano seguinte ao da apresentação das contas de gerência na Comissão Liquidatária de Responsabilidades.
+
+2 - As mesmas contas reportadas aos anos de 1976-1977 serão remetidas ao Tribunal de Contas dentro dos prazos a fixar pelo Chefe do Estado-Maior da Força Aérea, ouvida a Comissão Liquidatária de Responsabilidades.
+
+###### Art. 5.º O disposto no artigo 1.º aplica-se sem prejuízo do estabelecido no artigo 25.º do [Decreto n.º 35413](https://diariodarepublica.pt/dr/detalhe/decreto/35413-1945-462604), de 29 de Dezembro de 1945, salvo para os procedimentos adoptados em face de consulta à Direcção do Serviço de Intendência e Contabilidade da Força Aérea ou em consequência de determinação desta Direcção.
+
+###### Art. 6.º O regimento processual da Comissão Liquidatária de Responsabilidades será objecto de portaria do Chefe do Estado-Maior da Força Aérea.
+
+###### Art. 7.º Ficam revogados os Decretos-Leis n.os 41809 e 47717, datados, respectivamente, de 9 de Agosto de 1958 e 20 de Maio de 1967.
+
+Visto e aprovado em Conselho da Revolução em 29 de Setembro de 1978.
+
+**Promulgado em 30 de Setembro de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

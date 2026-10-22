@@ -1,0 +1,197 @@
+---
+schema_version: '1.0'
+id: pt:dre:183069:por
+title: Decreto-Lei n.º 117-D/76
+short_title: null
+summary: Cria o Ministério das Obras Públicas em substituição do Ministério do Equipamento Social
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 117-D/76
+official_date: null
+publication_date: '1976-02-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 34/1976, 1º Suplemento, Série I de 1976-02-10
+  number: '34'
+  series: I
+  supplement: 1º Suplemento
+  pages: 304-(1) a 304-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/02/03401/00010002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '183069'
+  dre_path: /dr/detalhe/decreto-lei/117-d-1976-183069
+  internal: pt:dre:183069:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-d-1976-183069
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: 03cb619ff30991f14846392caa3109e433cdef52b4eb3dd719f84814295b45b6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-117-D-183069.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 117-D/76
+
+de 10 de Fevereiro
+
+1. A criação do Ministério da Habitação, Urbanismo e Construção obriga à reestruturação do actual Ministério do Equipamento Social, que, por esse motivo, passará a designar-se Ministério das Obras Públicas
+
+2. O Ministério das Obras Públicas passará a englobar a Secretaria de Estado das Obras Públicas e a Secretaria de Estado dos Recursos Hídricos e do Saneamento Básico.
+
+3. De acordo com o artigo 9.º do [Decreto-Lei n.º 158-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-a-1975-366840), de 26 de Março, manter-se-á o lugar de Subsecretário de Estado das Obras Públicas.
+
+4. Além dos serviços existentes e de outros a criar, o Ministério das Obras Públicas passará a dispor de um órgão consultivo designado por Conselho Nacional da Água e de um sector de gestão de pessoal, a integrar na Secretaria-Geral, de acordo com regulamentação própria a publicar oportunamente.
+
+5. Os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério do Equipamento Social para o corrente ano, com os necessários ajustamentos e reforços indispensáveis à cobertura das despesas previstas.
+
+Nestes termos:
+
+Usando dos poderes conferidos pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º É extinto o Ministério do Equipamento Social referido no artigo 7.º do [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386).
+
+###### Art. 2.º - 1. É criado o Ministério das Obras Públicas, que compreende:
+
+a) Secretaria de Estado das Obras Públicas;
+
+b) Secretaria de Estado dos Recursos Hídricos e do Saneamento Básico.
+
+2. O Secretário de Estado das Obras Públicas é coadjuvado por um Subsecretário de Estado das Obras Públicas, nos termos do artigo 9.º do [Decreto-Lei n.º 158-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-a-1975-366840), de 26 de Março.
+
+###### Art. 3.º - 1. São mantidas ou criadas no referido Ministério e ficam na directa dependência do Ministro:
+
+a) A Secretaria-Geral;
+
+b) A Auditoria Jurídica;
+
+c) O Gabinete de Planeamento e Contrôle;
+
+d) O Laboratório Nacional de Engenharia Civil;
+
+e) O Conselho Nacional da Água;
+
+f) O Conselho Superior dos Laboratórios de Engenharia Civil.
+
+2. O Conselho Superior de Obras Públicas e Transportes e a Obra Social constituirão departamentos comuns aos Ministérios das Obras Públicas, dos Transportes e Comunicações e da Habitação, Urbanismo e Construção e a respectiva constituição e funcionamento serão objecto de diplomas específicos, elaborados conjuntamente pelos três Ministérios e a publicar oportunamente.
+
+No aspecto administrativo dependerão, transitoriamente, do Ministério das Obras Públicas.
+
+###### Art. 4.º A Secretaria de Estado das Obras Públicas compreende os departamentos seguintes:
+
+a) Direcção-Geral dos Edifícios e Monumentos Nacionais;
+
+b) Direcção-Geral das Construções Escolares;
+
+c) Direcção-Geral das Construções Hospitalares;
+
+d) Junta Autónoma de Estradas;
+
+e) Comissão das Construções Prisionais;
+
+f) Comissão Administrativa das Novas Instalações para as Forças Armadas.
+
+###### Art. 5.º - 1. São criados na Secretaria de Estado dos Recursos Hídricos e do Saneamento Básico os departamentos seguintes:
+
+a) Direcção-Geral dos Recursos e Aproveitamentos Hidráulicos;
+
+b) Direcção-Geral do Saneamento Básico.
+
+2. É extinta a Direcção-Geral dos Serviços Hidráulicos, criada pelo [Decreto n.º 7039](https://diariodarepublica.pt/dr/detalhe/decreto/7039-1920-391818), de 17 de Outubro de 1920.
+
+3. Após a promulgação da nova lei orgânica, o pessoal dos quadros, contratado além dos quadros ou em outro regime de prestação de serviço do organismo referido no número anterior poderá ser distribuído com as suas actuais categorias pelos lugares dos quadros dos novos organismos do Ministério, mediante lista ou listas nominativas aprovadas por despacho do Ministro das Obras Públicas, visadas pelo Tribunal de Contas e publicadas no Diário do Governo, considerando-se investido nos respectivos lugares a partir da data da publicação dessas listas, com dispensa de quaisquer formalidades ou requisitos.
+
+###### Art. 6.º Ficam dependentes da Secretaria de Estado dos Recursos Hídricos e do Saneamento Básico, para efeitos de tutela administrativa, as seguintes empresas públicas:
+
+a) Empresa Pública das Águas de Lisboa;
+
+b) Empresa de Electricidade da Madeira;
+
+c) Outras empresas públicas que venham a ser criadas no âmbito da Secretaria de Estado dos Recursos Hídricos e do Saneamento Básico.
+
+###### Art. 7.º - 1. A organização e funcionamento dos serviços do Ministério, bem como a respectiva competência, serão objecto de diplomas especiais.
+
+2. Enquanto não forem publicados os diplomas a que alude o número anterior, fica o Ministro das Obras Públicas autorizado a definir, por simples despacho orientador, a estrutura e funcionamento dos serviços.
+
+###### Art. 8.º São criados no Ministério das Obras Públicas os lugares de:
+
+a) Director-geral dos Recursos e Aproveitamentos Hidráulicos;
+
+b) Director-geral do Saneamento Básico.
+
+###### Art. 9.º - 1. Os directores-gerais, o presidente da Junta Autónoma de Estradas, o director do Gabinete de Planeamento e Contrôle e o secretário-geral terão a categoria correspondente à letra B do n.º 1 do [Decreto-Lei n.º 506/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/506-1975-307272), de 18 de Setembro, e serão nomeados inspectores-gerais pelo Ministro das Obras Públicas de entre cidadãos com reconhecida capacidade e providos em comissão de serviço nas respectivas funções.
+
+2. A comissão de serviço referida no número anterior será por período de dois anos renováveis e poderá ser dada por finda em qualquer momento pelo Ministro das Obras Públicas.
+
+###### Art. 10.º - 1. Para o estudo de problemas específicos, o Ministro das Obras Públicas poderá autorizar a criação de grupos de trabalho, cujo mandato, composição, regime de funcionamento e condições de remuneração serão estabelecidos por despacho do mesmo Ministro.
+
+2. O Ministro das Obras Públicas poderá autorizar a celebração de contratos para a realização de estudos, inquéritos ou outros trabalhos de carácter eventual que não possam ser realizados por pessoal do Ministério.
+
+###### Art. 11.º - 1. O Ministro das Finanças fica autorizado a introduzir no Orçamento Geral do Estado as alterações necessárias à execução do presente diploma.
+
+2. Até ao final do ano corrente, porém, os encargos emergentes da publicação do presente diploma serão custeados por força das dotações inscritas no orçamento do Ministério do Equipamento Social para o corrente ano, com os necessários ajustamentos e reforços indispensáveis à cobertura das despesas previstas.
+
+###### Art. 12.º Serão resolvidas por despacho do Ministro das Obras Públicas as dúvidas que se suscitem na aplicação do diploma.
+
+###### Art. 13.º Este diploma entra imediatamente em vigor.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vasco Fernando Leote de Almeida e Costa - Francisco Salgado Zenha - Álvaro Augusto Veiga de Oliveira.
+
+**Promulgado em 10 de Fevereiro de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

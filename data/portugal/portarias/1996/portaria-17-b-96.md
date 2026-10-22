@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:549778:por
+title: Portaria n.º 17-B/96
+short_title: null
+summary: Determina que as embarcações licenciadas para a pesca com ganchorra na zona ocidental norte, delimitada a norte pelo
+  limite do mar territorial e a sul pelo paralelo de Pedrógão, possam exercer a sua actividade de segunda-feira a sexta-feira.
+  Revoga a Portaria n.º 1050/94, de 29 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 17-B/96
+official_date: null
+publication_date: '1996-01-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 21/1996, 1º Suplemento, Série I-B de 1996-01-25
+  number: '21'
+  series: I
+  supplement: 1º Suplemento
+  pages: 138-(2) a 138-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/01/021b01/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/17-b/1996/01/25/p/dre/pt/html
+  oj: null
+  dre: '549778'
+  dre_path: /dr/detalhe/portaria/17-b-1996-549778
+  internal: pt:dre:549778:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-b-1996-549778
+  metadata_url: https://data.dre.pt/eli/port/17-b/1996/01/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17-b-1996-549778
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-01-19T00:00:00Z'
+integrity:
+  source_sha256: ec6a6673833673edc6bc6172da23fe8cbe55e6bbddd560310dee4021d7a30250
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-17-B-549778.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Multa
+- Pesca
+- Licenciamento
+- Recursos do Mar
+- Molusco
+- Embarcação de Pesca
+relationships:
+- type: amended_by
+  target: pt:dre:531267:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1050/1994/11/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1050/1994/11/29/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17-B/96
+
+de 25 de Janeiro
+
+A situação de imobilização da frota vivida no ano de 1995 aconselha a reformulação das medidas estabelecidas pela [Portaria n.º 1050/94](https://diariodarepublica.pt/dr/detalhe/portaria/1050-1994-548047), de 29 de Novembro, para os bancos de amêijoa-branca (Spisula solida) situ dos a norte do paralelo de Pedrógão (3955' 6'').
+
+Tal situação deve-se a uma sobrepesca do stock de amêijoa-branca que se vinha evidenciando a partir de 1993 e que conduziu à ruptura dos pesqueiros, pelo que urge adoptar medidas mais eficazes de gestão deste recurso.
+
+Para além da redução do número de licenças, é fundamental garantir uma repartição espacial adequada do número de embarcações, o que poderá ser conseguido através da criação de subzonas e consequente limitação da presença do número de embarcações por subzona.
+
+Considera-se que a gestão participada daquele recurso, com a intervenção local da Administração e das organizações de produtores representativas dos armadores das embarcações da ganchorra que operam nesta área, visando desenvolver uma gestão racional do esforço de pesca, é a forma adequada de garantir a actividade sustentada desta frota especializada.
+
+No que respeita ao controlo da actividade, a limitação diária das quantidades a capturar, a obrigatoriedade de preenchimento do Diário da Pesca, tornada extensiva a todas as embarcações e, o que acontece pela primeira vez, a fixação de portos obrigatórios de descarga em função de cada uma das subzonas são dispositivos que podem dar maior garantia de uma fiscalização mais eficaz.
+
+Assim, ao abrigo do disposto no artigo 49.º do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de Julho:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º Na zona ocidental norte, delimitada a norte pelo limite do mar territorial e a sul pelo paralelo de Pedrógão (39º 55' 6'' N.), são estabelecidas três subzonas, cujos limites são os seguintes.
+
+Subzona A - delimitada a norte pelo paralelo 41º 17' N. e a sul pelo paralelo 40º 56' N.;
+
+Sub zona B - delimitada a norte pelo paralelo 40º 50' N. e a sul pelo paralelo 40º 27' N.;
+
+Subzona C - delimitada a norte pelo paralelo 40º 3' N. e a sul pelo paralelo 39º 56' N.
+
+2.º Para a zona ocidental norte serão licenciadas 34 embarcações por semestre, não podendo operar, em simultâneo, mais de 12 embarcações em cada uma das subzonas, sem, porém, se ultrapassar aquele número.
+
+3.º As organizações de produtores representativas dos armadores licenciados para a pesca com ganchorra na zona ocidental norte comunicarão à Direcção-Geral das Pescas um plano de actividade, donde constem as listas das embarcações que operarão em cada uma das subzonas referidas no n.º 1.º, com a antecedência mínima de uma semana relativamente ao início da actividade.
+
+4.º No plano referido no número anterior não pode ser estabelecido um período de actividade, por embarcação, em cada subzona, inferior a uma semana.
+
+5.º Sem prejuízo do disposto no número seguinte, cada embarcação só pode efectuar uma descarga diária num dos seguintes portos da subzona em que opera:
+
+Subzona A - Matosinhos ou Póvoa de Varzim;
+
+Subzona B - Aveiro ou, em situação de fecho de barra, Matosinhos;
+
+Subzona C - Figueira da Foz ou Nazaré.
+
+6.º As embarcações que findem a actuação numa subzona podem, no último dia do período de actuação, efectuar a descarga num porto da subzona em que irão operar no período seguinte.
+
+7.º As embarcações que se encontrem licenciadas para a pesca com ganchorra na zona ocidental norte podem exercer a sua actividade de segunda-feira a sexta-feira.
+
+8.º O Secretário de Estado das Pescas estabelecerá, por despacho, limitações quanto aos quantitativos máximos de amêijoa-branca (Spisula solida) a capturar por embarcação
+
+9.º As organizações de produtores, relativamente aos portos da zona em que são representativas, poderão, cumpridas as formalidades comunitárias e nacionais em vigor, fixar medidas de produção e comercialização, aplicáveis também aos não membros, relativas à classificação em função do tamanho, grau de frescura e preços de retirada, bem como máximos de captura e períodos de laboração, desde que mais restritivos que os fixados na legislação vigente.
+
+10.º As medidas referidas no número anterior vigorarão desde que divulgadas por aviso afixado nos locais habituais com a antecedência mínima de vinte e quatro horas. Estas medidas serão comunicadas, com a mesma antecedência, à Direcção-Geral das Pescas, capitanias, GNR-BF e DOCAPESCA.
+
+11.º Para as embarcações que operem na zona ocidental norte é obrigatório o preenchimento do Diário de Pesca, independentemente do seu comprimento fora a fora.
+
+12.º As infracções ao disposto na presente portaria serão puníveis com coima até 500000$00, aplicando-se, subsidiariamente, as normas do [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de Julho.
+
+13.º Não será renovado o licenciamento às embarcações que incorram no incumprimento reiterado do disposto na presente portaria, nos termos da alínea d) do artigo 78.º do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460).
+
+14.º É revogada a [Portaria n.º 1050/94](https://diariodarepublica.pt/dr/detalhe/portaria/1050-1994-548047), de 29 de Novembro.
+
+15.º A presente portaria produz efeitos a partir da data da sua publicação.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+**Assinada em 25 de Janeiro de 1996.**
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Marcelo Sousa de Vasconcelos, Secretário de Estado das Pescas.

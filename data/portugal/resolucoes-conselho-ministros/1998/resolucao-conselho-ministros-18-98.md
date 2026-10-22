@@ -1,0 +1,316 @@
+---
+schema_version: '1.0'
+id: pt:dre:223992:por
+title: Resolução do Conselho de Ministros n.º 18/98
+short_title: null
+summary: Ratifica o Plano de Pormenor da Quinta do Simão Sul, no município de Aveiro
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 18/98
+official_date: null
+publication_date: '1998-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/1998, Série I-B de 1998-02-04
+  number: '29'
+  series: I
+  supplement: null
+  pages: 458 - 463
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/18/1998/02/04/p/dre/pt/html
+  oj: null
+  dre: '223992'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/18-1998-223992
+  internal: pt:dre:223992:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-1998-223992
+  metadata_url: https://data.dre.pt/eli/resolconsmin/18/1998/02/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-1998-223992
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-02-04T00:00:00Z'
+integrity:
+  source_sha256: 2f07590e76f32478f060c0f79cf8e9d1e9eb8c445fab721ff043242fec656219
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-18-223992.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aveiro
+- Ordenamento do Território
+- Proteção do Ambiente
+- Política de Solos
+- Plano de Pormenor
+- Plano de Urbanização
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/165/1995/12/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/165/1995/12/11/p/dre
+article_structure:
+  article_count: 15
+  section_count: 13
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 18/98
+
+A Assembleia Municipal de Aveiro aprovou, em 24 de Julho de 1997, o Plano de Pormenor da Quinta do Simão Sul, no município de Aveiro.
+
+Verifica-se a conformidade formal do Plano de Pormenor com as disposições legais e regulamentares em vigor, nos termos previstos no n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
+
+O município de Aveiro dispõe de Plano Director Municipal, ratificado pela [Resolução do Conselho de Ministros n.º 165/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/165-1995-632208), de 21 de Setembro, publicada no Diário da República, 1.ª série-B, n.º 284, de 11 de Dezembro de 1995.
+
+Implicando o Plano de Pormenor da Quinta do Simão Sul uma alteração ao Plano Director Municipal de Aveiro, uma vez que os usos e os indicadores urbanísticos agora definidos não se encontram em total conformidade com os previstos naquele Plano Director Municipal, a sua ratificação compete ao Conselho de Ministros.
+
+Foi realizado o inquérito público, nos termos previstos no artigo 14.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, e emitidos os pareceres a que se refere o artigo 13.º do mesmo diploma legal.
+
+Considerando o disposto no n.º 3 do artigo 3.º e na alínea d) do n.º 1 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro;
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu:
+
+Ratificar o Plano de Pormenor da Quinta do Simão Sul, no município de Aveiro, cujo Regulamento e planta de síntese se publicam em anexo à presente resolução, dela fazendo parte integrante.
+
+Presidência do Conselho de Ministros, 8 de Janeiro de 1998. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+[(ver plano no documento original)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)
+
+REGULAMENTO DO PLANO DE PORMENOR DA QUINTA DO SIMÃO SUL
+
+Preâmbulo
+
+O presente Regulamento foi elaborado em conformidade com o [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), na sua redacção actual, e, por força da alínea d) do seu artigo 16.º, fica sujeito a ratificação, por não se conformar com o Plano Director Municipal plenamente eficaz, dadas as alterações de uso e cérceas propostas.
+
+Compreende cinco secções, que estruturam intenções de ordenamento do território, expressas na planta de síntese, e que correspondem respectivamente a:
+
+#### Secção 1, «Disposições gerais»;
+
+#### Secção 2, «Usos»;
+
+#### Secção 3, «Zonas verdes, zonas pavimentadas, espaços de circulação viária e pedonal e estacionamento»;
+
+#### Secção 4, «Emparcelamento»;
+
+#### Secção 5, «Infra-estruturas».
+
+#### SECÇÃO 1 — Disposições gerais
+
+###### Artigo 1.º — Objectivo, âmbito e vigência
+
+1 - O presente Regulamento faz parte integrante do Plano de Pormenor da Quinta do Simão Sul, no concelho de Aveiro, e tem por objectivo estabelecer o conjunto de regras e orientações a que deverá obedecer a ocupação e o uso do solo dentro dos limites da sua área de intervenção.
+
+2 - As disposições contidas no Plano de Pormenor entram em vigor logo que sejam publicados no Diário da República a planta de síntese e o Regulamento.
+
+###### Artigo 2.º — Elementos do Plano
+
+Os elementos que constituem este Plano são os seguintes:
+
+A) Elementos fundamentais:
+
+1) Regulamento;
+
+2) Plantas:
+
+a) Planta de síntese, que inclui parcelamento, alinhamentos, implantação de edifícios, cérceas e área total de pavimentos, com respectivos usos;
+
+b) Planta actualizada de condicionantes;
+
+B) Elementos complementares:
+
+1) Relatório;
+
+2) Planta de enquadramento;
+
+3) Programa de execução;
+
+4) Plano de financiamento;
+
+C) Elementos anexos:
+
+1) Estudo de caracterização física, social, económica e urbanística que fundamenta a solução proposta;
+
+2) Extracto do Regulamento e de planta de síntese do Plano;
+
+3) Planta da situação existente;
+
+4) Planta de trabalho contendo os elementos técnicos definidores da modelação do terreno, cotas mestras, volumetrias, perfis longitudionais e transversais dos arruamentos e traçado das infra-estruturas.
+
+###### Artigo 3.º — Parâmetros urbanísticos
+
+Para efeitos de aplicação deste Regulamento, são adoptados os indicadores e parâmetros urbanísticos que a seguir se definem:
+
+a) Superfície do terreno (S) - área da projecção do terreno no plano horizontal de referenciação cartográfica;
+
+b) Superfície da parcela (S(índice parcela)) - área de solo de uma unidade cadastral mínima e formatada para a utilização urbana, confinante com a via pública e destinada a construção;
+
+c) Superfície dos arruamentos (S(índice arr)) - área do solo ocupada por arruamentos, traduzida pelo somatório das áreas das faixas de rodagem, estacionamento lateral às faixas de rodagem, passeios públicos e faixas centrais;
+
+d) Superfície dos equipamentos (S(índice eq)) - área do solo ocupada por equipamentos;
+
+e) Área de implantação das construções (A(índice o)) - área resultante da projecção da construção sobre o terreno, medida pelo extradorso das paredes exteriores, incluindo anexos e excluindo varantas e platibandas;
+
+f) Área total de construção ((Sigma)A(índice j)) - somatório das áreas brutas de todos os pavimentos, medida pelo extradorso das paredes exteriores acima e abaixo do solo, incluindo as caves destinadas a estacionamento, com exclusão de sótãos sem pé-direito regulamentar, instalações técnicas e localizadas nas caves dos edifícios, varandas, galerias exteriores públicas ou outros espaços livres de uso público coberto, quando não encerrados;
+
+g) Índice de construção líquida (I) - quociente entre o somatório das áreas dos pavimentos a construir acima e abaixo da cota de soleira e a área da parcela a lotear; se a área a construir abaixo da cota de soleira se destinar exclusivamente a estacionamento, o seu valor não será utilizado para efeito do cálculo do índice de construção;
+
+h) Índice de implantação (p) - relação entre a área de implantação das construções (A(índice o)) e a superfície da parcela (S(índice parcela)) é expresso em forma de percentagem;
+
+i) Alinhamento - intercepção dos planos das fachadas dos edifícios com os espaços exteriores onde estes se situam;
+
+j) Cércea - dimensão vertical da construção, contada a partir do ponto de cota média do terreno no alinhamento da fachada até à linha superior do beirado ou platibanda ou guarda do terraço.
+
+#### SECÇÃO 2 — Usos
+
+###### Artigo 4.º — Designação
+
+O Plano de Pormenor da Quinta do Simão Sul contempla, dentro da sua área de intervenção, áreas destinadas a habitação, comércio, serviços, armazenagem e indústrias das classes C e D e cujas áreas específicas de ocupação se encontram assinaladas na planta de síntese e nos quadros de síntese.
+
+###### Artigo 5.º — Quadros de síntese
+
+[(ver quadros no documento original)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)
+
+##### SUBSECÇÃO 2.1 — Habitação e comércio
+
+###### Artigo 6.º — Designação
+
+1 - As áreas específicas de ocupação habitacional encontram-se assinaladas na planta de síntese e são designadas por sector I.
+
+2 - As parcelas a que se refere este artigo destinam-se à construção de habitação multifamiliar, sem embargo da possibilidade de instalação de actividades comerciais, desde que estas não prejudiquem ou criem condições de incompatibilidade com a função residencial.
+
+###### Artigo 7.º — Disposições gerais
+
+As edificações a erigir nas parcelas abrangidas no sector I deverão obedecer às seguintes disposições:
+
+a) Implantação das construções - a implantação deverá respeitar os alinhamentos indicados na planta de síntese;
+
+b) Profundidade das construções - a profundidade das novas construções não poderá exceder 15 m, medidos entre os alinhamentos das fachadas opostas, contando para o efeito qualquer saliência relativamente ao plano das fachadas, com excepção de varandas ou galerias autorizadas sobre terreno público;
+
+c) Localização de actividades comerciais - a localização de actividades comerciais em edifícios habitacionais será exclusivamente permitida no piso térreo;
+
+d) Demolições - as construções a demolir encontram-se convenientemente assinaladas na planta de síntese. Não serão permitidas quaisquer obras de remodelação ou de ampliação, autorizando-se apenas obras de conservação estética, estrutural e ou de segurança, desde que os empreendimentos propostos para as parcelas que lhes correspondem não se realizem num prazo previsível de cinco anos e as respectivas obras sejam objecto de licenciamento municipal;
+
+e) Garagens e seus acessos - a localização das garagens será somente permitida na cave das construções. Os acessos às garagens serão garantidos a cada uma das parcelas ou a um conjunto de parcelas, desde que faça parte do mesmo condomínio. Quando um destes acessos cruze um passeio, aquele deverá dar continuidade ao plano do passeio numa extensão de 2,5 m, no mínimo;
+
+f) Cobertura das construções - nas novas construções as coberturas serão planas, sendo permitido outro tipo desde que a linha de cumeeira ou qualquer outro dos seus pontos não ultrapasse a cércea definida pela platibanda do edifício.
+
+###### Artigo 8.º — Estacionamento
+
+As normas relativas à implementação de espaços de estacionamento são as seguintes:
+
+[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)
+
+Para o cálculo dos lugares de estacionamento considerar-se-ão obrigatoriamente como valores mínimos, para veículos ligeiros, 15 m2 por lugar à superfície e 25 m2 por lugar em estrutura edificada.
+
+##### SUBSECÇÃO 2.2 — Comércio, serviços e armazenagem
+
+###### Artigo 9.º — Designação
+
+1 - As parcelas a que se refere este artigo destinam-se à implantação de superfícies comerciais, serviços e armazéns, encontrando-se assinaladas na planta de síntese e sendo designadas por sector II (comércio e serviços) e sector III (serviços e armazenagem).
+
+2 - Não é permitida nestas áreas a instalação de quaisquer outros tipos de usos, exceptuando-se as indústrias das classes C e D existentes e as das classes C e D a instalar nas construções correspondentes às parcelas n.os 1, 2 e 3 do sector II.
+
+###### Artigo 10.º — Disposições gerais
+
+A execução dos edifícios, assim como de quaisquer obras de construção, ampliação, alteração ou demolição, deverá respeitar a legislação em vigor, bem como os parâmetros que se seguem:
+
+a) Implantação das construções - a área de implantação da construção não deverá exceder 50% da área da parcela;
+
+b) Afastamentos - a implantação dos edifícios destinados a actividades comerciais, de serviços e de armazenagem deverá respeitar o afastamento mínimo de 6 m aos limites lateral e posterior e de 10 m ao limite frontal da parcela;
+
+c) Muros - os muros meeiros, anteriores e de tardoz terão a altura máxima de 1,20 m, podendo, todavia, a vedação elevar-se acima desta altura com sebes vivas, grades ou redes;
+
+d) Cérceas - as novas construções destinadas a comércio ou serviços não deverão ultrapassar 11 m de cércea. Quando se trate de armazéns, a cércea máxima permitida será de 8 m;
+
+e) Área total de construção - a área total de construção acima da cota soleira não poderá exceder a área total da parcela.
+
+###### Artigo 11.º — Estacionamento
+
+1 - Cada parcela deverá dispor de espaços de estacionamento automóvel calculados com base nos seguintes valores:
+
+[(ver tabelas no documento original)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)
+
+2 - Para o cálculo dos lugares de estacionamento considerar-se-ão obrigatoriamente como valores mínimos, para veículos ligeiros, 15 m2 por lugar à superfície e 25 m2 por lugar em estrutura edificada, e, para veículos pesados, 75 m2 e 130 m2, respectivamente.
+
+3 - Os estacionamentos públicos serão localizados no interior de cada parcela, em área de acesso não condicionado.
+
+##### SUBSECÇÃO 2.3 — Posto de abastecimento de combustíveis
+
+###### Artigo 12.º — Designação
+
+1 - A área de reserva para a implantação de um posto de abastecimento de combustíveis encontra-se assinalada na planta de síntese.
+
+2 - Não serão permitidos nesta área quaisquer outros tipos de usos.
+
+#### SECÇÃO 3 — Zonas verdes, zonas pavimentadas, espaços de circulação viária e pedonal e estacionamento
+
+###### Artigo 13.º — Designação
+
+1 - As zonas verdes, zonas pavimentadas, espaços de circulação viária e pedonal e de estacionamento e de uso público são os indicados na planta de síntese.
+
+2 - Nas zonas verdes é interdita a construção ou uso para quaisquer tipos de fins, com excepção dos compatíveis com o regime da Reserva Ecológica Nacional.
+
+3 - As linhas de água encontram-se convenientemente identificadas na planta de síntese. É obrigatória a elaboração dos projectos de reconstituição das linhas de água a céu aberto, por forma a constituírem elementos valorizadores do enquadramento paisagístico das construções propostas, assegurando as condições adequadas de funcionamento hidráulico. Deverá ser assegurada uma salvaguarda de 10 m para cada lado da linha de água, faixa de intervenção do domínio público hídrico.
+
+#### SECÇÃO 4 — Emparcelamento
+
+###### Artigo 14.º — Operações de emparcelamento
+
+Poderá admitir-se a transformação de duas ou mais parcelas numa única parcela, desde que sejam respeitadas as seguintes condições:
+
+a) Será mantido o mesmo tipo de uso previsto para as parcelas iniciais e respeitado o constante deste Regulamento relativamente ao zonamento definido;
+
+b) A área de construção máxima para a parcela resultante do emparcelamento será o somatório das áreas de construção permitidas nas parcelas que lhe deram origem, devendo manter-se todos os parâmetros enunciados neste Regulamento, nomeadamente os que se referem a afastamentos (exceptuando-se unicamente os afastamentos nos lados confinantes laterais ou a tardoz, que são anulados por efeito do emparcelamento), alinhamentos, cérceas, área de arborização (que deve corresponder a 20% da área total da parcela final) e áreas de estacionamento, bem como as restantes disposições do mesmo.
+
+#### SECÇÃO 5 — Infra-estruturas
+
+###### Artigo 15.º — Corredores de reserva para infra-estruturas
+
+Os arruamentos propostos constituem os corredores para implantação de todas as infra-estruturas indispensáveis à execução do Plano.
+
+No caso das infra-estruturas eléctricas deverão ser asseguradas as condicionantes às linhas aéreas de 60 kV (existentes e a estabelecer), nos termos do Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/02/029b00/04580463.pdf)

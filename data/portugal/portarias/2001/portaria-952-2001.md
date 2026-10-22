@@ -1,0 +1,254 @@
+---
+schema_version: '1.0'
+id: pt:dre:521395:por
+title: Portaria n.º 952/2001
+short_title: null
+summary: Aprova o Regulamento Arquivístico do Instituto Nacional de Administração, no que se refere à avaliação, selecção
+  e eliminação da sua documentação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Cultura e da Reforma do Estado e da Administração Pública
+proposing_entity: null
+official_number: 952/2001
+official_date: null
+publication_date: '2001-08-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 182/2001, Série I-B de 2001-08-07
+  number: '182'
+  series: I
+  supplement: null
+  pages: 4866 - 4871
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/08/182b00/48664871.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/952/2001/08/07/p/dre/pt/html
+  oj: null
+  dre: '521395'
+  dre_path: /dr/detalhe/portaria/952-2001-521395
+  internal: pt:dre:521395:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/952-2001-521395
+  metadata_url: https://data.dre.pt/eli/port/952/2001/08/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/952-2001-521395
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-08-07T00:00:00Z'
+integrity:
+  source_sha256: 84e0b6fa5100c51b2ddfbb0298613cab709644e9fb15224a7392b8d40bf17fcf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-952-521395.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquivo
+- Conservação de Documentos
+- Documentação Administrativa
+- INA
+- Microfilmagem
+- Prazo de Conservação
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/121/1992/07/02/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 952/2001
+
+de 7 de Agosto
+
+O aumento crescente do volume de documentos recebidos e produzidos pelos vários serviços do Instituto Nacional de Administração (INA) no exercício das suas actividades obriga a que se tome um conjunto de medidas tendentes à adequada gestão dos espaços de arquivo sem, contudo, descurar a conservação da documentação administrativa pertinente e a salvaguarda da documentação com interesse histórico.
+
+Assim, ao abrigo do disposto na alínea a) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro:
+
+Manda o Governo, pelos Ministros da Cultura e da Reforma do Estado e da Administração Pública, que seja aprovado o Regulamento Arquivístico do Instituto Nacional de Administração, no que se refere à avaliação, selecção e eliminação da sua documentação, em anexo à presente portaria, da qual faz parte integrante.
+
+Em 10 de Julho de 2001.
+
+**O Ministro da Cultura, Augusto Ernesto Santos Silva. - O Ministro da Reforma do Estado e da Administração Pública, Alberto de Sousa Martins.**
+
+REGULAMENTO ARQUIVÍSTICO DO INSTITUTO NACIONAL DE ADMINISTRAÇÃO
+
+1.º
+
+Âmbito de aplicação
+
+O presente Regulamento é aplicável a toda a documentação produzida e recebida, no âmbito das suas atribuições e competências, pelo Instituto Nacional de Administração, adiante designado por INA.
+
+2.º
+
+Avaliação
+
+1 - O processo de avaliação dos documentos de arquivo do INA tem por objectivo a determinação do seu valor para efeitos da respectiva conservação permanente ou eliminação, findos os prazos de conservação em fase activa e semiactiva.
+
+2 - É da responsabilidade do INA a atribuição dos prazos de conservação dos documentos em fase activa e semiactiva.
+
+3 - Os prazos de conservação a que se refere o número anterior são os previstos na tabela de selecção, constante do anexo I ao presente Regulamento, do qual faz parte integrante.
+
+4 - Os prazos de conservação a que se refere o n.º 2 são contados a partir da data final dos processos, dos documentos integrados em colecção, dos registos ou da constituição dos dossiers.
+
+5 - Cabe ao Instituto dos Arquivos Nacionais/Torre do Tombo, adiante designado por IAN/TT, a determinação do destino final dos documentos, sob proposta do INA.
+
+3.º
+
+Selecção
+
+1 - A selecção dos documentos a conservar permanentemente em arquivo definitivo deve ser efectuada pelo INA, de acordo com as orientações estabelecidas na tabela de selecção.
+
+2 - Os documentos a que for reconhecido valor arquivístico devem ser conservados em arquivo, no suporte original, excepto nos casos em que a sua substituição seja previamente autorizada nos termos do n.º 5 do n.º 10.º
+
+4.º
+
+Tabela de selecção de documentos
+
+1 - A tabela de selecção consigna e sintetiza as disposições relativas à avaliação documental.
+
+2 - A tabela de selecção deve ser submetida a revisões com vista à sua adequação às alterações da produção documental.
+
+3 - Para efeitos do disposto no n.º 2, deve o INA obter o parecer favorável do IAN/TT, enquanto organismo coordenador da política arquivística nacional, mediante proposta devidamente fundamentada.
+
+5.º
+
+Remessas para arquivo intermédio
+
+1 - Findos os prazos de conservação em fase activa, a documentação com reduzidas taxas de utilização deve ser remetida do arquivo corrente para o arquivo intermédio, de acordo com o estipulado na tabela de selecção.
+
+2 - As remessas dos documentos para arquivo intermédio devem ser efectuadas de acordo com a periodicidade que o INA vier a determinar.
+
+6.º
+
+Remessas para arquivo definitivo
+
+1 - Os documentos cujo valor arquivístico justifique a sua conservação permanente, de acordo com a tabela de selecção, devem ser remetidos para arquivo definitivo, após cumprimento dos respectivos prazos de conservação.
+
+2 - As remessas não podem pôr em causa a integridade dos conjuntos documentais.
+
+7.º
+
+Formalidades das remessas
+
+1 - As remessas dos documentos mencionados nos n.os 5.º e 6.º obedecem às seguintes formalidades:
+
+a) Serem acompanhadas de um auto de entrega, a título de prova;
+
+b) O auto de entrega deve ter anexa uma guia de remessa destinada à identificação e controlo da documentação remetida, obrigatoriamente rubricada e autenticada pelas partes envolvidas no processo;
+
+c) A guia de remessa é feita em triplicado, ficando o original no serviço destinatário, sendo o duplicado devolvido ao serviço de origem;
+
+d) O triplicado é provisoriamente utilizado no arquivo intermédio ou definitivo como instrumento de descrição documental, após ter sido conferido e completado com as referências topográficas e demais informação pertinente, só podendo ser eliminado após a elaboração do respectivo inventário.
+
+2 - Os modelos referidos nas alíneas anteriores constam do anexo II ao presente Regulamento, do qual faz parte integrante.
+
+8.º
+
+Eliminação
+
+1 - A eliminação dos documentos a que não for reconhecido valor arquivístico deve ser efectuada logo após o cumprimento dos respectivos prazos de conservação fixados na tabela de selecção.
+
+2 - A eliminação dos documentos que não estejam mencionados na tabela de selecção carece de autorização expressa do IAN/TT.
+
+3 - A decisão sobre o processo de eliminação deve atender a critérios de confidencialidade e racionalidade de meios e custos.
+
+9.º
+
+Formalidades da eliminação
+
+1 - As eliminações dos documentos mencionados no n.º 8.º obedecem às seguintes formalidades:
+
+a) Serem acompanhadas de um auto de eliminação, que fará prova do abate patrimonial;
+
+b) O auto de eliminação deve ser assinado pelo dirigente do serviço ou organismo em causa, bem como pelo responsável pelo arquivo;
+
+c) O referido auto será feito em duplicado, ficando o original no serviço que procede à eliminação, sendo o duplicado remetido para o IAN/TT.
+
+2 - O modelo do auto de eliminação consta do anexo III ao presente Regulamento, do qual faz parte integrante.
+
+10.º
+
+Substituição do suporte
+
+1 - A substituição do suporte dos documentos é feita por microfilme, desde que fique clara, expressa e inequivocamente garantida a sua preservação, segurança, autenticidade, durabilidade e consulta de acordo com as normas técnicas da International Standard Organization, abreviadamente designada por ISO.
+
+2 - O suporte fílmico a que alude o número anterior não pode apresentar cortes, emendas ou quaisquer outras alterações que ponham em causa a sua integridade e reproduzirá os respectivos termos de abertura e encerramento.
+
+3 - Dos aludidos termos de abertura e encerramento constam obrigatoriamente os seguintes elementos:
+
+a) Identificação dos responsáveis pela transferência da informação;
+
+b) Local e data da execução da transferência;
+
+c) Assinaturas e carimbo.
+
+4 - Deve ser elaborado um registo e fichas de controlo de qualidade do suporte fílmico produzido.
+
+5 - A substituição do suporte dos documentos a que alude o n.º 2 do n.º 3.º só pode ser efectuada mediante parecer favorável do IAN/TT, nos termos do n.º 2 do artigo 5.º do [Decreto-Lei n.º 121/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-1992-291844), de 2 de Julho.
+
+6 - As cópias obtidas a partir de microcópia autenticada têm a força probatória do original, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 447/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/447-1988-356515), de 10 de Dezembro.
+
+11.º
+
+Acessibilidade e comunicabilidade
+
+O acesso e comunicabilidade do arquivo do INA atende a critérios de confidencialidade da informação, definidos internamente, em conformidade com a lei geral.
+
+12.º
+
+Fiscalização
+
+Compete ao IAN/TT a inspecção técnica sobre o disposto no presente Regulamento.
+
+13.º
+
+Entrada em vigor
+
+O presente Regulamento entra em vigor no dia imediato ao da sua publicação.
+
+## ANEXO I — Tabela de selecção
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2001/08/182b00/48664871.pdf)
+
+## ANEXO II — Auto de entrega
+
+[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/08/182b00/48664871.pdf)
+
+## ANEXO III — Auto de eliminação
+
+[(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2001/08/182b00/48664871.pdf)

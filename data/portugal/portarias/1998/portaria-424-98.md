@@ -1,0 +1,316 @@
+---
+schema_version: '1.0'
+id: pt:dre:424110:por
+title: Portaria n.º 424/98
+short_title: null
+summary: Altera o Regulamento de Aplicação do Regime de Ajudas à Cessação da Actividade Agrícola, aprovado pela Portaria n.º
+  854/94, de 22 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 424/98
+official_date: null
+publication_date: '1998-07-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 166/1998, Série I-B de 1998-07-21
+  number: '166'
+  series: I
+  supplement: null
+  pages: 3499 - 3501
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/07/166b00/34993501.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/424/1998/07/21/p/dre/pt/html
+  oj: null
+  dre: '424110'
+  dre_path: /dr/detalhe/portaria/424-1998-424110
+  internal: pt:dre:424110:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110
+  metadata_url: https://data.dre.pt/eli/port/424/1998/07/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/424-1998-424110
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-03-14T00:00:00Z'
+integrity:
+  source_sha256: d678e9259d297ac75bd820776cac981536e6d872a9c644d6545cfd73e1221f97
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-424-424110.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Cessação de Actividade
+- Exploração Agrícola
+- Reforma Antecipada
+- Agricultor
+- Produção Agrícola
+- Regulamento
+- Agricultura
+relationships:
+- type: amended_by
+  target: pt:dre:571914:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31992R2079
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2079/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/854/1994/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/854/1994/09/22/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 424/98
+
+de 21 de Julho
+
+O Regulamento (CEE) n.º [2079/92](http://data.europa.eu/eli/reg/1992/2079/oj?locale=pt), do Conselho, de 30 de Junho, institui um regime de ajudas à reforma antecipada na agricultura.
+
+O referido regime de ajudas tem por objectivo proporcionar um rendimento adequado aos agricultores idosos que cessem a actividade agrícola e contribuir para a reestruturação das explorações.
+
+Face aos seus objectivos e à natureza dos beneficiários, trata-se de um regime de ajudas com particular incidência no mundo rural.
+
+Assim, importa maximizar a adequação da medida aos objectivos preconizados pelo Regulamento, introduzindo as modificações que conduzam a uma maior eficácia na aplicação da medida.
+
+Assim:
+
+Ao abrigo do n.º 1 do artigo 10.º do Decreto-Lei n.º 31/94, de 5 de Fevereiro, com a redacção dada pelo Decreto-Lei n.º 351/97, de 5 de Dezembro:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º Os artigos 3.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 14.º, 17.º, 20.º e 22.º do Regulamento de Aplicação do Regime de Ajudas à Cessação da Actividade Agrícola, aprovado pela Portaria n.º 854/94, de 22 de Setembro, passam a ter a seguinte redacção:
+
+«Artigo 3.º
+
+[...]
+
+1 - ...
+
+a) Sejam agricultores a título principal, nos termos da alínea 1) do artigo 2.º do regulamento aprovado pela Portaria n.º 195/98, de 24 de Março, há pelo menos 10 anos;
+
+b) ...
+
+c) Estejam inscritos na segurança social como produtores agrícolas, não aufiram pensão de invalidez no âmbito da actividade agrícola e tenham contribuído durante um período de, pelo menos, 60 meses, que lhes permita completar, ao atingir os 70 anos, o prazo de garantia;
+
+d) ...
+
+e) Não tenham procedido à redução em mais de 15% da área da sua exploração agrícola nos 12 meses anteriores à data da candidatura, excepto nos casos de florestação;
+
+f) Não tenham procedido ao aumento em mais de 15% da área da sua exploração agrícola nos 12 meses anteriores à data da candidatura, excepto nos casos de herança;
+
+g) Assegurem a utilização futura da exploração agrícola através de venda, arrendamento ou doação a um agricultor que, não sendo seu cônjuge, reúna os requisitos previstos no artigo 7.º ou, excepto nos perímetros de emparcelamento e caso não existam agricultores interessados em retomar a totalidade ou parte da exploração, uma das seguintes condições alternativas:
+
+i) ...
+
+ii) ...
+
+iii) ...
+
+h) [Anterior alínea g).]
+
+2 - ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+4 - ...
+
+5 - Nos casos de venda, arrendamento ou doação da exploração a mais de um titular, a área transmitida a cada um não pode ser inferior a uma unidade de cultura.
+
+###### Artigo 5.º — [...]
+
+Sem prejuízo do disposto na alínea g) do n.º 1 do artigo 3.º, e fora dos perímetros de emparcelamento, os beneficiários podem reservar 10% da área agrícola da exploração para autoconsumo, até ao limite máximo de 1 ha, não podendo as áreas de regadio, vinha e pomar exceder 0,25 ha.
+
+###### Artigo 6.º — [...]
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) Estar inscrito na segurança social como cônjuge do produtor agrícola, não auferir pensão de invalidez no âmbito da actividade agrícola e ter contribuído durante um período de, pelo menos, 60 meses, que lhe permita completar, ao atingir os 70 anos, o prazo de garantia.
+
+c) ...
+
+d) ...
+
+3 - ...
+
+###### Artigo 7.º — [...]
+
+1 - ...
+
+a) Exercer ou comprometer-se a vir a exercer a actividade agrícola a título principal, nos termos da alínea 1) do artigo 2.º, ou, não exercendo a actividade agrícola a título principal, reúna os requisitos previstos nas alíneas b) ou c) do n.º 1 do artigo 4.º, todos do Regulamento aprovado pela Portaria n.º 195/98, de 24 de Março;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Comprometer-se a manter a actividade agrícola na exploração durante, pelo menos, 10 anos, respeitando as exigências de protecção do ambiente, podendo transmiti-la a uma pessoa que reúna as condições previstas neste artigo, sem prejuízo de outras limitações impostas ao abrigo de outros regimes de ajudas;
+
+f) Comprometer-se a aumentar a área agrícola da exploração nas seguintes condições:
+
+i) No caso de já ser agricultor: em, pelo menos, 15% da área agrícola da sua exploração ou da exploração transmitida;
+
+ii) ...
+
+iii) ...
+
+2 - ...
+
+3 - O novo titular poderá ser pessoa colectiva, desde que reúna as condições estabelecidas no n.º 1, com excepção da alínea c), que é exigida para o administrador ou gerente responsável pela exploração.
+
+###### Artigo 8.º — [...]
+
+O empresário agrícola, caso mantenha a titularidade da exploração, ou a pessoa individual ou colectiva que assume a titularidade da exploração para fins não agrícolas, deve comprometer-se a utilizar as terras durante, pelo menos, 10 anos, nas seguintes condições:
+
+a) ...
+
+b) ...
+
+###### Artigo 9.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - Para efeitos dos números anteriores, a idade do beneficiário à data da cessação bem como a idade em que o mesmo reúne as condições para se reformar no âmbito do regime geral de segurança social constituem factores de ponderação a considerar no cálculo da ajuda, a qual decresce respectivamente 2, 5 e 3 pontos percentuais por ano.
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - Quando o beneficiário passe a receber uma pensão de reforma no âmbito do regime geral de segurança social, a ajuda passará a constituir um complemento de reforma, de montante equivalente à diferença entre o valor da ajuda atribuída e o valor da respectiva reforma e do montante adicional da pensão.
+
+8 - ...
+
+###### Artigo 10.º — [...]
+
+...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Estejam inscritos na segurança social como trabalhadores por conta de outrem e tenham contribuído durante um período de, pelo menos, 60 meses, que lhes permita completar, ao atingir a idade normal de reforma, o prazo de garantia;
+
+f) ...
+
+###### Artigo 12.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - Para efeitos de concessão das ajudas, as agências são previamente reconhecidas em termos a definir por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+###### Artigo 14.º — [...]
+
+...
+
+a) Um representante da Direcção-Geral de Desenvolvimento Rural, que preside;
+
+b) ...
+
+c) ...
+
+###### Artigo 17.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+2 - Para efeitos das alíneas b), g) e h) do número anterior, os serviços regionais devem efectuar visitas às explorações dos beneficiários e dos novos titulares.
+
+###### Artigo 20.º — [...]
+
+Os membros das unidades de gestão são designados por despacho conjunto dos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Trabalho e da Solidariedade.
+
+###### Artigo 22.º — [...]
+
+1 - A apresentação de candidaturas ao abrigo deste diploma poderá efectuar-se a todo o tempo.
+
+2 - As candidaturas apresentadas serão objecto de análise e parecer pela unidade de gestão regional no prazo de 60 dias úteis a contar da data da sua apresentação.
+
+3 - ...»
+
+2.º O disposto no presente diploma aplica-se às candidaturas já apresentadas e ainda não contratadas.
+
+3.º O presente diploma entra imediatamente em vigor.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+**Assinada em 30 de Junho de 1998.**
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

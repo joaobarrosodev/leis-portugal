@@ -1,0 +1,244 @@
+---
+schema_version: '1.0'
+id: pt:dre:667543:por
+title: Resolução do Conselho de Ministros n.º 32/2006
+short_title: null
+summary: Aprova a delimitação dos perímetros de protecção de uma captação de águas subterrâneas na margem direita do rio Águeda,
+  em Assequins
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 32/2006
+official_date: null
+publication_date: '2006-03-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/2006, Série I-B de 2006-03-23
+  number: '59'
+  series: I
+  supplement: null
+  pages: 2196 - 2198
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/03/059b00/21962198.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/32/2006/03/23/p/dre/pt/html
+  oj: null
+  dre: '667543'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/32-2006-667543
+  internal: pt:dre:667543:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2006-667543
+  metadata_url: https://data.dre.pt/eli/resolconsmin/32/2006/03/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/32-2006-667543
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-03-23T00:00:00Z'
+integrity:
+  source_sha256: f5027e1ed0ff22103502e776ee4bb165a4b96ef224b61d939dc3af36b682c0ef
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-32-667543.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proteção do Ambiente
+- Zona de Proteção
+- Poluição
+- RIO Águeda
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 32/2006
+
+O [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de Setembro, estabelece as normas e os critérios para a delimitação de perímetros de protecção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.
+
+Considerando que os perímetros de protecção visam prevenir, reduzir e controlar a poluição das águas subterrâneas (por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens), potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a protecção dos sistemas de abastecimento de água;
+
+Tendo ainda em conta que todas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano estão sujeitas às regras estabelecidas no mencionado [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de Setembro;
+
+Considerando que a Câmara Municipal de Águeda apresentou e que a Comissão de Coordenação e Desenvolvimento Regional do Centro elaborou, ao abrigo do n.º 2 do artigo 4.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de Setembro, a proposta de delimitação e respectivos condicionamentos dos perímetros de protecção para a captação de Assequins:
+
+Compete agora ao Governo aprovar aquelas zonas de protecção.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar a delimitação dos perímetros de protecção da captação de Assequins, que consiste num poço com drenos radiais construído na planície aluvionar da margem direita do rio Águeda, em Assequins, nos termos do disposto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de Setembro.
+
+2 - Determinar, quanto à zona de protecção imediata respeitante aos perímetros de protecção mencionados no anterior n.º 1, que:
+
+a) A mesma corresponde, nos termos do disposto no anexo do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de Setembro, à área da superfície do terreno definida por um círculo de 40 m de raio, com o centro na captação, cujas coordenadas são apresentadas no anexo I da presente resolução, que dela faz parte integrante;
+
+b) É interdita qualquer instalação ou actividade, com excepção das que têm por objectivo a conservação, manutenção e melhor exploração da captação, devendo, na zona considerada, ser o terreno vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do estabelecido no n.º 1 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de Setembro.
+
+3 - Determinar, quanto à zona de protecção intermédia respeitante aos perímetros de protecção mencionados no n.º 1 da presente resolução, que:
+
+a) A mesma corresponde, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de Setembro, à área da superfície do terreno definida por um círculo de 200 m de raio, com o centro na captação, cujas coordenadas são apresentadas no anexo II da presente resolução, que dela faz parte integrante;
+
+b) As actividades e instalações interditas e ou condicionadas são as mencionadas no anexo II à presente resolução, nos termos dos n.os 2 e 3 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de Setembro.
+
+4 - Determinar, quanto à zona de protecção alargada respeitante aos perímetros de protecção mencionados no n.º 1 da presente resolução, que:
+
+a) A mesma corresponde, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de Setembro, à área da superfície do terreno contígua exterior à zona de protecção intermédia, definida a sul e a oeste pelo traçado do rio Águeda e a norte e a este pela linha que contém os vértices 1, 2, 3, 4, 5, 6, 7, 8, 9 e 10, cujas coordenadas são apresentadas no anexo III da presente resolução e representadas no anexo IV da presente resolução, ambos dela fazendo parte integrante;
+
+b) As actividades e instalações interditas e ou condicionadas são as mencionadas no anexo III da presente resolução, nos termos dos n.os 4 e 5 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de Setembro.
+
+Presidência do Conselho de Ministros, 8 de Março de 2006. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## ANEXO I — Zona de protecção imediata
+
+Círculo com raio de 40 m, com centro na captação, cujas coordenadas são:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/059b00/21962198.pdf)
+
+Nota. - As coordenadas indicadas são coordenadas rectangulares planas no sistema Gauss - Elipsóide Internacional - Datum de Lisboa.
+
+## ANEXO II — Zona de protecção intermédia
+
+Círculo com raio de 200 m, com centro na captação, cujas coordenadas são:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/059b00/21962198.pdf)
+
+Nota. - As coordenadas indicadas são coordenadas rectangulares planas no sistema Gauss - Elipsóide Internacional - Datum de Lisboa.
+
+Na zona de protecção intermédia respeitante à captação de Assequins:
+
+1) São interditas as seguintes actividades e instalações:
+
+a) Infra-estruturas aeronáuticas;
+
+b) Oficinas e estações de serviço de automóveis;
+
+c) Depósitos de materiais radioactivos, de hidrocarbonetos e de resíduos perigosos;
+
+d) Postos de abastecimento e áreas de serviço de combustíveis;
+
+e) Transporte de hidrocarbonetos, de materiais radioactivos ou de outras substâncias perigosas;
+
+f) Canalização de produtos tóxicos;
+
+g) Lixeiras e aterros sanitários;
+
+h) Unidades industriais;
+
+i) Pedreiras e explorações mineiras;
+
+j) Depósitos de sucata;
+
+l) Estações de tratamento de águas residuais;
+
+m) Cemitérios;
+
+n) Lagos e quaisquer obras ou escavações destinados à recolha e armazenamento de água ou quaisquer substâncias susceptíveis de se infiltrarem:
+
+i) Não podem ser executadas quaisquer novas sondagens para captação de água subterrânea;
+
+ii) Todas as captações de água subterrânea existentes que forem desactivadas têm de ser cimentadas;
+
+o) Aplicação de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;
+
+p) Fossas de esgoto (interdita a construção de novas fossas de esgoto e todas as que existem têm de ser desactivadas);
+
+2) São condicionadas as seguintes actividades e instalações:
+
+a) Pastorícia;
+
+b) Usos agrícolas e pecuários;
+
+c) Edificações, espaços destinados a práticas desportivas, parques de campismo, colectores de águas residuais, estradas e caminhos de ferro - a ampliação e ou construção fica sujeita a parecer prévio da CCDR.
+
+Nota. - As coordenadas indicadas são coordenadas rectangulares planas no sistema Gauss - Elipsóide Internacional - Datum de Lisboa.
+
+## ANEXO III — Zona de protecção alargada
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2006/03/059b00/21962198.pdf)
+
+Na zona de protecção alargada respeitante à captação de Assequins:
+
+1) São interditas as seguintes actividades e instalações:
+
+a) Transporte de hidrocarbonetos, de materiais radioactivos ou de outras substâncias perigosas;
+
+b) Depósitos de materiais radioactivos, de hidrocarbonetos e de resíduos perigosos;
+
+c) Canalização de produtos tóxicos;
+
+d) Refinarias e indústrias químicas;
+
+e) Lixeiras e aterros sanitários;
+
+f) Pedreiras e explorações mineiras;
+
+g) Depósitos de sucata;
+
+h) Infra-estruturas aeronáuticas;
+
+i) Cemitérios;
+
+j) Oficinas e estações de serviço de automóveis;
+
+l) Postos de abastecimento e áreas de serviço de combustíveis;
+
+m) Fossas de esgoto (as que existem devem ser reconvertidas em fossas sépticas estanques);
+
+2) São condicionadas as seguintes actividades e instalações:
+
+a) Aplicação de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;
+
+b) Colectores de águas residuais, estações de tratamento de águas residuais - a sua construção fica sujeita a parecer da CCDR;
+
+c) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias susceptíveis de se infiltrarem:
+
+i) A execução de quaisquer novas sondagens para captação de água subterrânea fica sujeita a parecer prévio da CCDR;
+
+ii) Todas as captações de água subterrânea existentes que forem desactivadas têm de ser cimentadas.
+
+Nota. - As coordenadas indicadas são coordenadas rectangulares planas no sistema Gauss - Elipsóide Internacional - Datum de Lisboa.
+
+## ANEXO IV — Zonas do perímetro de protecção à captação de Assequins
+
+(extracto de carta à escala de 1:10000)
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2006/03/059b00/21962198.pdf)

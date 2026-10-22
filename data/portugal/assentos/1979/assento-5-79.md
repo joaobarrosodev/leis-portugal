@@ -1,0 +1,226 @@
+---
+schema_version: '1.0'
+id: pt:dre:365163:por
+title: Assento n.º 5/79
+short_title: null
+summary: Processo n.º 35205. - Tribunal pleno - Relação de Évora - Recorrente o Ministério Público e recorrido Francisco José
+  Varino Calado
+jurisdiction: portugal
+territory: null
+document_type: assento
+document_type_label: Assento
+issuing_authority:
+- Supremo Tribunal de Justiça
+proposing_entity: null
+official_number: 5/79
+official_date: null
+publication_date: '1979-09-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 226/1979, Série I de 1979-09-29
+  number: '226'
+  series: I
+  supplement: null
+  pages: 2544 - 2546
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/09/22600/25442546.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '365163'
+  dre_path: /dr/detalhe/assento/5-1979-365163
+  internal: pt:dre:365163:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/assento/5-1979-365163
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/assento/5-1979-365163
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-09-29T00:00:00Z'
+integrity:
+  source_sha256: f538f7c01bb0b15c8a93d7074e48f8ecd11e450ed36c8410c3d45168f91c496c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-5-365163.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Assento n.º 5/79
+
+Processo n.º 35205. - Tribunal pleno - Relação de Évora - Recorrente o Ministério Público e recorrido Francisco José Varino Calado.
+
+Acordam neste Supremo Tribunal de Justiça, em pleno:
+
+Na comarca de Abrantes, o réu Francisco José Varino Calado foi condenado por sentença de 14 de Junho de 1977 na pena de quatro meses de prisão, substituída por quatro meses de multa à taxa diária de 40$00.
+
+Por despacho de 4 de Outubro desse ano foi proferido despacho em que se converteram em quatro meses de prisão os quatro meses de multa em que o réu fora condenado.
+
+Este interpôs recurso de tal despacho e a Relação de Évora proferiu o Acórdão, agora recorrido, datado de 9 de Março de 1978, que lhe negou provimento, mantendo tal conversão aplicada ao réu, «sem prejuízo de o mesmo, e nos termos acima referidos, poder requerer a substituição da multa pelo correspondente número de dias de trabalho».
+
+De tal acórdão interpôs o Exmo. Procurador da República junto do Tribunal da Relação de Évora o presente recurso para pleno, com vista à uniformização de jurisprudência.
+
+Além do exposto nesse acórdão, considerou-se e decidiu-se mais o seguinte:
+
+1.º Aplicando a lei, no regime anterior ao [Decreto-Lei n.º 371/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1977-286502), de 5 de Setembro (artigo 640.º, n.º 2.º, do Código de Processo Penal, redacção do [Decreto-Lei n.º 185/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1972-681984), de 31 de Maio), a Relação de Évora vinha decidindo não contrariar o disposto no n.º 2 do artigo 27.º e noutros da Constituição da República a conversão da multa em prisão.
+
+2.º A alternativa da prisão, constante do artigo 123.º do Código Penal (alteração do [Decreto-Lei n.º 371/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1977-286502)), somente se pode aplicar à pena de multa, cominada originariamente na lei, e não à multa proveniente da substituição da pena de prisão.
+
+3.º O regime da substituição da multa por prestação de trabalho, constante do artigo 641.º do Código de Processo Penal (alteração do [Decreto-Lei n.º 377/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1977-286362), de 6 de Setembro), atento o princípio constitucional do n.º 3 do artigo 51.º da Constituição da República, continua, como no regime anterior (n.º 2.º do artigo 640.º do Código de Processo Penal, redacção do [Decreto-Lei n.º 185/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1972-681984), de 31 de Maio), dependente de requerimento do condenado.
+
+O Exmo. Recorrente alegou que a matéria decidida e recorrida em segundo lugar, pura matéria de direito, está em total oposição com aquela decidida pela Acórdão de 21 de Fevereiro, também de 1978, tratando-se de decisões transitadas e proferidas no domínio das mesmas regras de direito.
+
+Neste acórdão foi decidido que, na vigência do regime anterior ao [Decreto-Lei n.º 371/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1977-286502), de 5 de Setembro, ocasião em que o réu cometeu os factos por que foi condenado em trinta dias de prisão, substituída por igual tempo de multa a 30$00 por dia, e na de dois dias de multa à mesma importância diária, não era contrário ao disposto no n.º 2 do artigo 27.º da Constituição da República e noutros preceitos desta Constituição converter em prisão tais multas por falta do seu pagamento.
+
+Decidiu-se mais que a alternativa da pena de prisão constante do artigo 123.º do Código Penal (alteração do [Decreto-Lei n.º 371/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1977-286502)) era de aplicar não só à multa originariamente imposta pela lei, como também à multa resultante da substituição da pena de prisão pela de multa.
+
+Na sequência do exposto, nos termos da 2.ª excepção constante do artigo 6.º do Código Penal, aplicando os princípios deste artigo 123.º, mais se decidiu que o réu, se não solvesse a multa, cumpriria vinte dias de prisão, em alternativa.
+
+Anota-se que este Acórdão de 21 de Fevereiro de 1978 foi também proferido pelo Tribunal da Relação de Évora.
+
+A secção criminal deste Supremo, pelo seu acórdão a fls. 41 e 42, considerou e decidiu estarem verificadas as condições para que este recurso continuasse, e decidiu bem.
+
+Com efeito, este último acórdão, como consta a fl. 32, transitou em julgado, e, por não ser condenatório, nos termos do disposto no n.º 6.º do artigo 646.º do Código de Processo Penal, não era admissível recurso ordinário, por se tratar de recurso proferido em processo correccional do Acórdão de 9 de Março de 1978.
+
+Em ambas as decisões se decidiu matéria de direito, interpretando e aplicando o artigo 123.º do Código Penal, com a redacção do [Decreto-Lei n.º 371/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1977-286502).
+
+Porém, essa interpretação e aplicação fez-se em total oposição, já que, como resulta do exposto no Acórdão de 21 de Fevereiro, se decidiu ser de aplicar a alternativa da prisão tanto à multa cominada originalmente na lei penal como à resultante da substituição da pena de prisão, e no acórdão agora recorrido decidiu-se que tal alternativa só tinha lugar quanto à multa inicialmente imposta pela lei penal.
+
+Verificam-se, pois, os pressupostos exigidos pelos artigos 669.º do Código de Processo Penal e 764.º, referido ao artigo 763.º, este do Código de Processo Civil.
+
+Prosseguiram assim os autos os seus termos, e o Exmo. Recorrente apresentou tempestivamente as suas alegações a fls. 45 e 46.
+
+Nelas produzem-se as seguintes considerações:
+
+1.º A jurisprudência deste Supremo foi a de, face ao disposto no artigo 27.º, n.º 2, da Constituição da República, não permitir a conversão em prisão das multas.
+
+2.º Pelo artigo 123.º, actual, do Código Penal, na condenação do réu em multa constará a alternativa da prisão, para a hipótese de aquela não ser paga nem substituída por dias de trabalho.
+
+3.º Este artigo refere-se apenas às infracções punidas nas leis penais com multa, e, quando esta é aplicada em substituição de prisão, está-se fora do âmbito do preceito.
+
+4.º O artigo 123.º, referido, implica a condenação em alternativa na própria sentença condenatória, excluindo assim essa aplicação em momento posterior, como sucede no caso do acórdão em recurso.
+
+5.º Permitir a alternativa em momento posterior à condenação era, afinal, conseguir o mesmo resultado praticado no domínio da lei anterior, isto é, o de conversão da multa em prisão, que, como se sabe, foi considerado inaceitável face à Constituição da República.
+
+6.º Finalmente, atenta a jurisprudência deste Supremo Tribunal acima indicada, não pode ser aplicado ao réu Francisco José Varino Calado aquele artigo 123.º, com a sua actual redacção, porque lhe é mais favorável a não convertibilidade em prisão da multa do que a alternativa, mesmo reduzida (artigo 6.º e sua excepção 2.ª do Código Penal).
+
+O réu não alegou, e o processo seguiu seus termos, com os vistos dos Exmos. Juízes Conselheiros deste Supremo Tribunal de Justiça.
+
+Nada impede que se conheça do objecto do recurso.
+
+Na verdade, face ao disposto nos artigos 27.º, n.º 2, e 13.º, n.º 2, da Constituição da República, o Supremo Tribunal de Justiça, no regime legal vigente, antes da publicação do [Decreto-Lei n.º 371/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1977-286502), de 5 de Setembro, considerou contrariarem o disposto naqueles princípios as decisões judiciais que admitiam a conversão de qualquer multa aplicável por infracção penal em prisão.
+
+Neste sentido podem ver-se os Acórdãos de 16 de Março, de 13 de Abril, de 18 de Maio, de 6 de Julho e de 9 de Novembro de 1977 e de 25 de Janeiro de 1978, respectivamente no Boletim Oficial do Ministério da Justiça, n.os 265, p. 161, 266, p. 85, 269, p. 91, 271, p. 131, e 273, p. 133.
+
+Sabe-se que uma grande maioria, se não a maior, das sentenças penais aplica penas de multa, ou inicialmente, ou por substituição da pena de prisão.
+
+É, aliás, essa a situação da doutrina, da jurisprudência e das leis, como até se diz no relatório do [Decreto-Lei n.º 371/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-1977-286502):
+
+Ora, a multa continua a constituir uma muito importante medida substitutiva da cada vez mais condenada pena de prisão.
+
+Perante tal orientação, atento que muitos condenados a penas de multa não a pagam, por não terem bens exequíveis, não só resultou uma enorme diminuição das receitas estatais arrecadadas através da aplicação desta sanção, como se poderia, em muitos casos, verificar-se o não sofrimento da respectiva pena, ficando impune a infracção.
+
+Assim surgiu tal decreto-lei, que no seu relatório expressamente justificou a sua promulgação.
+
+Nele se diz estar «a pura e simples conversão em prisão de pena de multa» em colisão «frontalmente com a prescrição do artigo 27.º da Constituição».
+
+A seguir, aprecia-se a conveniência de deixar de todo em todo sem sanção penal a falta do pagamento da multa aplicada:
+
+Muitas vezes deixaria de ser paga, não por impossibilidade de fazê-lo, mas por acto consciente de recusa.
+
+Nem sempre, por outro lado, seria fácil, ou viável, coagir o condenado a pagá-la por simples recurso à execução forçada.
+
+E a dificuldade acabaria por se volver contra os infractores, através da tendência, que fatalmente surgiria, da substituição da pena de multa pela de prisão.
+
+Refere ainda ter surgido «de vários quadrantes» «uma viva reacção contra a pura e simples inconvertibilidade em prisão da pena de multa», e, «além da sua função preventiva e intimidativa, a multa constitui também uma importante fonte de receita, nomeadamente para as autarquias locais.»
+
+«Foram estas as determinantes causais da solução encontrada [...]»
+
+Do exposto e do mais que consta desse relatório, porque se não fez distinção entre a multa aplicada inicialmente e a resultante da substituição da pena de prisão, conclui-se que o legislador quis abranger ambas.
+
+Temos assim já demonstrado existir o argumento histórico de que no artigo 123.º se diz aplicar a alternativa em prisão a todas as multas.
+
+Consta do seu corpo que «as infracções punidas nas leis penais com multa passam a ser punidas, em alternativa, com a multa cominada e com o correspondente tempo de prisão reduzido a dois terços».
+
+A disposição aplica-se a todas as leis penais que punem as infracções com multa, e os artigos 86.º e 94.º, n.os 4.º e 5.º, do Código Penal, que, atentas certas condições, concedem ao julgador a faculdade de substituir a pena de prisão por multa, também são «leis penais».
+
+A circunstância de nestes casos existir um acto de valoração da situação, a julgar por parte do juiz, e de ser ele a substituir a prisão por multa não modifica a situação.
+
+Também em muitos casos as leis incriminadoras fixam apenas a multa dentro de certos limites ou circunstâncias, tendo assim também de existir um acto judicial a fixar, em concreto, a multa cominada.
+
+No entanto, nestes casos não se tem posto em dúvida a aplicação do regime do artigo 123.º do Código Penal.
+
+O § 4.º deste artigo determina que «o disposto nos parágrafos anteriores será aplicável aos casos em que a infracção for punida com prisão e multa. Daqui se conclui que a pena complementar de multa tem de seguir tal regime do artigo 123.º A seguir-se a doutrina do acórdão agora recorrido, admitir-se-ia um sistema duplo, com a incongruência de se não aplicar à multa principal resultante da substituição da prisão o sistema desse artigo 123.º
+
+Sucede mais que a lei não faz distinção ao referir-se à pena de multa, e por isso também não é lícito, por não haver razões, para que se distinga tal pena em atenção de ela resultar ou não de uma substituição da pena de prisão.
+
+Tem sido jurisprudência unânime desde há muito deste Supremo Tribunal considerar para os mais diversos efeitos que, ao substituir-se a pena de prisão pela de multa, a sanção única a considerar como sendo a cominada é esta, e apenas esta. Cita-se apenas o Acórdão de 13 de Abril de 1977, no Boletim Oficial do Ministério da Justiça, n.º 266, a p. 85, mas muitos outros há na interpretação de certas leis que estabelecem perdões ou amnistias com relação a certas penas, como a de prisão, que por isso se não podem aplicar aos casos da aplicação de multa em substituição daquela prisão.
+
+Assim, quando se aplica uma multa em substituição de pena de prisão, para todos os efeitos penais aplicou-se somente essa pena, e por isso a situação é abrangida pelo corpo desse artigo 123.º
+
+Se a lei não quisesse tal sistema, quando no dito § 4.º referiu o caso de a infracção ser punida com prisão e multa, tendo perfeito conhecimento da substituição daquela sanção por esta, face aos diversos preceitos legais, teria excluído a multa proveniente dessa substituição, o que não sucedeu.
+
+Mas, se atendermos ao disposto no § 2.º do artigo 86.º do Código Penal, concluiremos com segura certeza da doutrina que se segue neste acórdão.
+
+Nele se manda aplicar uma só multa equivalente à soma da multa directamente aplicada e da resultante da substituição da pena de prisão por aquela pena de multa.
+
+Desta forma, como defender regimes diferentes em relação a duas multas que a lei manda somar e aplicar como uma só? Não há razão para tal.
+
+Também o disposto no artigo 87.º do Código Penal, ao regulamentar a substituição das penas de multa pela prestação de trabalho, diz, expressamente, abranger quer as directamente aplicadas como tais, quer as resultantes da substituição das penas de prisão.
+
+E o Código de Processo Penal, já com a redacção do [Decreto-Lei n.º 377/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1977-286362), de 6 de Setembro, e tendo, portanto, em conta os §§ 2.º e 3.º do artigo 123.º, actualizado, do Código Penal, que prevê a substituição da multa por dias de trabalho, usa apenas a palavra «multa», pelo que não só pelo seu significado amplo, como pela circunstância do que consta daquele artigo 86.º, § 2.º, deve entender-se que abrange todas as multas.
+
+Ainda o artigo 99.º do Código Penal, que determina a forma da equivalência entre a multa e a prisão, também em relação àquela sanção não faz essa distinção e por isso se tem de considerar como abrangendo aquela que resulta da substituição da prisão, sob pena de ficarmos sem critério para tal equivalência quando se verificar esta hipótese.
+
+Temos ainda outra razão para seguir a orientação que se vem expondo.
+
+Poderia haver prejuízo para os condenados se não se seguisse esta orientação, pois em muitos casos o julgador, perante o pensamento de que a sanção da multa seria platónica, por não lhes ser aplicável o disposto no artigo 123.º do Código Penal quando resultasse da substituição da pena de prisão, não faria esta, e assim não beneficiariam do corpo do artigo, nem até da redução ou isenção a que alude o § 3.º do artigo referido, os respectivos condenados.
+
+Fica assim demonstrado que o artigo 123.º, referido, ao mencionar a pena de multa, abrange também essa pena que resulte da substituição da pena de prisão, improcedendo assim o que o Exmo. Recorrente alegou e se resumiu em terceiro lugar neste acórdão.
+
+Desta maneira se lavra o seguinte assento:
+
+A pena de prisão em alternativa da de multa é de aplicar a todas as penas de multa, inclusive a resultante da substituição de prisão.
+
+Sem imposto de justiça.
+
+Lisboa, 28 de Junho de 1979. - Eduardo Botelho de Sousa - Ferreira da Costa - Miguel Caeiro - Avelino da Costa Ferreira Júnior - Costa Soares - Artur Moreira da Fonseca - Hernâni de Lencastre - Aníbal Aquilino Ribeiro - Alberto Alves Pinto - António Furtado Santos - Octávio Dias Garcia - João Vale - Henrique Justino da Rocha Ferreira - Ruy Corte Real - António Correia de Melo Bandeira - Augusto de Azevedo Ferreira - Oliveira Carvalho - Adriano Vera Jardim - João Moura - F. Bruno da Costa - Rodrigues Bastos - Daniel Ferreira - Abel de Campos - Santos Victor (vencido, por entender que o artigo 123.º do Código Penal, na sua actual redacção, não é aplicável à multa resultante da substituição da pena de prisão).
+
+Está conforme.
+
+Secretaria do Supremo Tribunal de Justiça, 11 de Julho de 1979. - Pelo Escrivão de Direito, (Assinatura ilegível.)

@@ -1,0 +1,2080 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:405693:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-162654663",
+ "dre_path": "/dr/detalhe/decreto-lei/310-2002-405693",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-12-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "162663180",
+    "162663181",
+    "162663182",
+    "162663183",
+    "162663184",
+    "162663185",
+    "162663186",
+    "162663187",
+    "162663188",
+    "162663189",
+    "162663190",
+    "162663191",
+    "162663192",
+    "162663193",
+    "162663194",
+    "162663195",
+    "162663196",
+    "162663197",
+    "162663198",
+    "162663199",
+    "162663200",
+    "162663201",
+    "162663202",
+    "162663203",
+    "162663204",
+    "162663205",
+    "162663206",
+    "162663207",
+    "162663208",
+    "162663209",
+    "162663210",
+    "162663211",
+    "162663212",
+    "162663213",
+    "162663214",
+    "162663215",
+    "162663216",
+    "162663217",
+    "162663218",
+    "162663219",
+    "162663220",
+    "162663221",
+    "162663222",
+    "162663223",
+    "162663224",
+    "162663225",
+    "162663226",
+    "162663227",
+    "162663228",
+    "162663229",
+    "162663230",
+    "162663231",
+    "162663232",
+    "162663233",
+    "162663234",
+    "162663235",
+    "162663236",
+    "162663237",
+    "162663238",
+    "162663239",
+    "162663240",
+    "162663241",
+    "162663242",
+    "162663243",
+    "162663244",
+    "162663245",
+    "162663246",
+    "162663247",
+    "162663248",
+    "162663249",
+    "162663250"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:517473:por",
+     "title": "Decreto-Lei n.º 156/2004",
+     "published": "2004-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/156-2004-517473",
+     "date": "2002-12-23"
+    }
+   ]
+  },
+  {
+   "date": "2007-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522807:por",
+     "title": "Decreto-Lei n.º 9/2007",
+     "published": "2007-01-17",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2007-522807"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º",
+    "Altera Artigo 32.º"
+   ],
+   "fragments": [
+    "162663180",
+    "162663181",
+    "162663182",
+    "162663183",
+    "162663184",
+    "162663185",
+    "162663186",
+    "162663187",
+    "162663188",
+    "162663189",
+    "162663190",
+    "162663191",
+    "162663192",
+    "162663193",
+    "162663194",
+    "162663195",
+    "162663196",
+    "162663197",
+    "162663198",
+    "162663199",
+    "162663200",
+    "162663201",
+    "162663202",
+    "162663203",
+    "162663204",
+    "162663205",
+    "162663206",
+    "162663207",
+    "162663208",
+    "162663209",
+    "162663210",
+    "162663211",
+    "162663212",
+    "162663213",
+    "162663214",
+    "162663215",
+    "162663216",
+    "162671099",
+    "162663218",
+    "162671100",
+    "162663220",
+    "162663221",
+    "162663222",
+    "162663223",
+    "162663224",
+    "162663225",
+    "162663226",
+    "162663227",
+    "162667498",
+    "162667499",
+    "162663230",
+    "162663231",
+    "162663232",
+    "162663233",
+    "162663234",
+    "162663235",
+    "162663236",
+    "162663237",
+    "162663238",
+    "162663239",
+    "162663240",
+    "162663241",
+    "162663242",
+    "162663243",
+    "162663244",
+    "162663245",
+    "162663246",
+    "162663247",
+    "162663248",
+    "162663249",
+    "162663250",
+    "162663251"
+   ]
+  },
+  {
+   "date": "2008-07-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456475:por",
+     "title": "Decreto-Lei n.º 114/2008",
+     "published": "2008-07-01",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2008-456475"
+    }
+   ],
+   "changes": [
+    "Adita Secção i",
+    "Adita Secção ii",
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 9.º-B",
+    "Adita Artigo 9.º-C",
+    "Adita Artigo 9.º-D",
+    "Adita Artigo 9.º-E",
+    "Adita Secção III",
+    "Adita Artigo 9.º-F",
+    "Adita Artigo 9.º-G",
+    "Adita Artigo 9.º-H",
+    "Adita Artigo 9.º-I"
+   ],
+   "fragments": [
+    "162663180",
+    "162663181",
+    "162663182",
+    "162663183",
+    "162663184",
+    "162663185",
+    "162671141",
+    "162671142",
+    "162671143",
+    "162671144",
+    "162671145",
+    "162671146",
+    "162671147",
+    "162671148",
+    "162671150",
+    "162671151",
+    "162671152",
+    "162671153",
+    "162671154",
+    "162671149",
+    "162671155",
+    "162671156",
+    "162671157",
+    "162671158",
+    "162663192",
+    "162663193",
+    "162663194",
+    "162663195",
+    "162663196",
+    "162663197",
+    "162663198",
+    "162663199",
+    "162663200",
+    "162663201",
+    "162663202",
+    "162663203",
+    "162663204",
+    "162663205",
+    "162663206",
+    "162663207",
+    "162663208",
+    "162663209",
+    "162663210",
+    "162663211",
+    "162663212",
+    "162663213",
+    "162663214",
+    "162663215",
+    "162663216",
+    "162671099",
+    "162663218",
+    "162671100",
+    "162663220",
+    "162663221",
+    "162663222",
+    "162663223",
+    "162663224",
+    "162663225",
+    "162663226",
+    "162663227",
+    "162667498",
+    "162667499",
+    "162663230",
+    "162663231",
+    "162663232",
+    "162663233",
+    "162663234",
+    "162663235",
+    "162663236",
+    "162663237",
+    "162663238",
+    "162663239",
+    "162663240",
+    "162663241",
+    "162663242",
+    "162663243",
+    "162663244",
+    "162663245",
+    "162663246",
+    "162663247",
+    "162663248",
+    "162663249",
+    "162663250",
+    "162663251"
+   ]
+  },
+  {
+   "date": "2011-05-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:277581:por",
+     "title": "Decreto-Lei n.º 48/2011",
+     "published": "2011-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/48-2011-277581"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Capítulo VIII",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 47.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 41.º"
+   ],
+   "fragments": [
+    "162663180",
+    "162663181",
+    "162671159",
+    "162663183",
+    "162663184",
+    "162663185",
+    "162671141",
+    "162671142",
+    "162671143",
+    "162671144",
+    "162671145",
+    "162671146",
+    "162671147",
+    "162671148",
+    "162671150",
+    "162671151",
+    "162671152",
+    "162671153",
+    "162671154",
+    "162671149",
+    "162671155",
+    "162671156",
+    "162671157",
+    "162671158",
+    "162663192",
+    "162663193",
+    "162663194",
+    "162663195",
+    "162663196",
+    "162663197",
+    "162663198",
+    "162663199",
+    "162663200",
+    "162663201",
+    "162663202",
+    "162663203",
+    "162663204",
+    "162663205",
+    "162663206",
+    "162663207",
+    "162663208",
+    "162663209",
+    "162663210",
+    "162663211",
+    "162663212",
+    "162663213",
+    "162663214",
+    "162663215",
+    "162663216",
+    "162671099",
+    "162663218",
+    "162671100",
+    "162663220",
+    "162663221",
+    "162671163",
+    "162671160",
+    "162671161",
+    "162671164",
+    "162663226",
+    "162663227",
+    "162667498",
+    "162667499",
+    "162663230",
+    "162671165",
+    "162663232",
+    "162663233",
+    "162663234",
+    "162663235",
+    "162663236",
+    "162663237",
+    "162663238",
+    "162671162",
+    "162663240",
+    "162663241",
+    "162663242",
+    "162663243",
+    "162663244",
+    "162663245",
+    "162663246",
+    "162663247",
+    "162663248",
+    "162663249",
+    "162663250",
+    "162663251"
+   ]
+  },
+  {
+   "date": "2012-08-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174799:por",
+     "title": "Decreto-Lei n.º 204/2012",
+     "published": "2012-08-29",
+     "dre_path": "/dr/detalhe/decreto-lei/204-2012-174799"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 53.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Capítulo VI",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Capítulo VIII",
+    "Altera Artigo 36.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 28.º"
+   ],
+   "fragments": [
+    "162663180",
+    "162663181",
+    "162671166",
+    "162671167",
+    "162663184",
+    "162663185",
+    "162671141",
+    "162671142",
+    "162671143",
+    "162671144",
+    "162671145",
+    "162671146",
+    "162671147",
+    "162671148",
+    "162671150",
+    "162671151",
+    "162671152",
+    "162671153",
+    "162671154",
+    "162671149",
+    "162671155",
+    "162671156",
+    "162671157",
+    "162671158",
+    "162663192",
+    "162663193",
+    "162663194",
+    "162663195",
+    "162663196",
+    "162663197",
+    "162663198",
+    "162663199",
+    "162663200",
+    "162663201",
+    "162663202",
+    "162663203",
+    "162671680",
+    "162663205",
+    "162671168",
+    "162671169",
+    "162671170",
+    "162671683",
+    "162671171",
+    "162671682",
+    "162663212",
+    "162663213",
+    "162671684",
+    "162663215",
+    "162663216",
+    "162671099",
+    "162663218",
+    "162671100",
+    "162663220",
+    "162663221",
+    "162671681",
+    "162671160",
+    "162671172",
+    "162671164",
+    "162671173",
+    "162663227",
+    "162667498",
+    "162667499",
+    "162663230",
+    "162671165",
+    "162663232",
+    "162663233",
+    "162663234",
+    "162663235",
+    "162663236",
+    "162663237",
+    "162663238",
+    "162671174",
+    "162671675",
+    "162663241",
+    "162663242",
+    "162663243",
+    "162663244",
+    "162663245",
+    "162663246",
+    "162663247",
+    "162671676",
+    "162671677",
+    "162671678",
+    "162671679",
+    "162663251"
+   ]
+  },
+  {
+   "date": "2015-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66970718:por",
+     "title": "Decreto-Lei n.º 51/2015",
+     "published": "2015-04-13",
+     "dre_path": "/dr/detalhe/decreto-lei/51-2015-66970718"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "162663180",
+    "162663181",
+    "162671166",
+    "162671167",
+    "162663184",
+    "162663185",
+    "162671141",
+    "162671142",
+    "162671143",
+    "162671144",
+    "162671145",
+    "162671146",
+    "162671147",
+    "162671148",
+    "162671150",
+    "162671151",
+    "162671152",
+    "162671153",
+    "162671154",
+    "162671149",
+    "162671155",
+    "162671156",
+    "162671157",
+    "162671158",
+    "162663192",
+    "162663193",
+    "162663194",
+    "162663195",
+    "162663196",
+    "162663197",
+    "162663198",
+    "162663199",
+    "162663200",
+    "162663201",
+    "162663202",
+    "162671689",
+    "162671680",
+    "162663205",
+    "162671168",
+    "162671169",
+    "162671170",
+    "162671683",
+    "162671171",
+    "162671682",
+    "162663212",
+    "162663213",
+    "162671684",
+    "162663215",
+    "162663216",
+    "162671099",
+    "162663218",
+    "162671100",
+    "162663220",
+    "162663221",
+    "162671681",
+    "162671160",
+    "162671172",
+    "162671164",
+    "162671173",
+    "162663227",
+    "162667498",
+    "162667499",
+    "162663230",
+    "162671165",
+    "162663232",
+    "162663233",
+    "162663234",
+    "162663235",
+    "162663236",
+    "162663237",
+    "162663238",
+    "162671174",
+    "162671675",
+    "162663241",
+    "162663242",
+    "162663243",
+    "162663244",
+    "162663245",
+    "162663246",
+    "162663247",
+    "162671676",
+    "162671677",
+    "162671678",
+    "162671679",
+    "162663251"
+   ]
+  },
+  {
+   "date": "2015-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70095691:por",
+     "title": "Lei n.º 105/2015",
+     "published": "2015-08-25",
+     "dre_path": "/dr/detalhe/lei/105-2015-70095691"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 9.º-A",
+    "Revoga Artigo 9.º-B",
+    "Revoga Artigo 9.º-C",
+    "Revoga Artigo 9.º-D",
+    "Revoga Artigo 9.º-E",
+    "Revoga Artigo 9.º-F",
+    "Revoga Artigo 9.º-G",
+    "Revoga Artigo 9.º-H",
+    "Revoga Artigo 9.º-I"
+   ],
+   "fragments": [
+    "162663180",
+    "162663181",
+    "162671690",
+    "162671167",
+    "162663184",
+    "162663185",
+    "162671141",
+    "162671691",
+    "162671692",
+    "162671693",
+    "162671694",
+    "162671695",
+    "162671696",
+    "162671148",
+    "162671697",
+    "162671698",
+    "162671699",
+    "162671700",
+    "162671701",
+    "162671149",
+    "162671702",
+    "162671703",
+    "162671704",
+    "162671705",
+    "162663192",
+    "162663193",
+    "162663194",
+    "162663195",
+    "162663196",
+    "162663197",
+    "162663198",
+    "162663199",
+    "162663200",
+    "162663201",
+    "162663202",
+    "162671689",
+    "162671680",
+    "162663205",
+    "162671168",
+    "162671169",
+    "162671170",
+    "162671683",
+    "162671171",
+    "162671682",
+    "162663212",
+    "162663213",
+    "162671684",
+    "162663215",
+    "162663216",
+    "162671099",
+    "162663218",
+    "162671100",
+    "162663220",
+    "162663221",
+    "162671681",
+    "162671160",
+    "162671172",
+    "162671164",
+    "162671173",
+    "162663227",
+    "162667498",
+    "162667499",
+    "162663230",
+    "162671165",
+    "162663232",
+    "162663233",
+    "162663234",
+    "162663235",
+    "162663236",
+    "162663237",
+    "162663238",
+    "162671174",
+    "162671675",
+    "162663241",
+    "162663242",
+    "162663243",
+    "162663244",
+    "162663245",
+    "162663246",
+    "162663247",
+    "162671676",
+    "162671677",
+    "162671678",
+    "162671679",
+    "162663251"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172745163:por",
+     "title": "Decreto-Lei n.º 82/2021",
+     "published": "2021-10-13",
+     "dre_path": "/dr/detalhe/decreto-lei/82-2021-172745163"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 39.º"
+   ],
+   "fragments": [
+    "162663180",
+    "162663181",
+    "162671690",
+    "162671167",
+    "162663184",
+    "162663185",
+    "162671141",
+    "162671691",
+    "162671692",
+    "162671693",
+    "162671694",
+    "162671695",
+    "162671696",
+    "162671148",
+    "162671697",
+    "162671698",
+    "162671699",
+    "162671700",
+    "162671701",
+    "162671149",
+    "162671702",
+    "162671703",
+    "162671704",
+    "162671705",
+    "162663192",
+    "162663193",
+    "162663194",
+    "162663195",
+    "162663196",
+    "162663197",
+    "162663198",
+    "162663199",
+    "162663200",
+    "162663201",
+    "162663202",
+    "162671689",
+    "162671680",
+    "162663205",
+    "162671168",
+    "162671169",
+    "162671170",
+    "162671683",
+    "162671171",
+    "162671682",
+    "162663212",
+    "162663213",
+    "162671684",
+    "162663215",
+    "162663216",
+    "162671099",
+    "162663218",
+    "162671100",
+    "162663220",
+    "162663221",
+    "162671681",
+    "162671160",
+    "162671172",
+    "162671164",
+    "162671173",
+    "162663227",
+    "172791157",
+    "162667499",
+    "162663230",
+    "162671165",
+    "162663232",
+    "162663233",
+    "162663234",
+    "162663235",
+    "162663236",
+    "162663237",
+    "162663238",
+    "162671174",
+    "162671675",
+    "162663241",
+    "162663242",
+    "162663243",
+    "162663244",
+    "162663245",
+    "162663246",
+    "162663247",
+    "162671676",
+    "162671677",
+    "162671678",
+    "162671679",
+    "162663251"
+   ]
+  }
+ ],
+ "fragments": {
+  "162663180": {
+   "fragment_id": "162654664",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 310/2002\n\nde 18 de Dezembro\n\nCom o presente diploma atribui-se às câmaras municipais competência em matéria de licenciamento de actividades diversas até agora cometidas aos governos civis.\n\nAssim, passam a ser objecto de licenciamento municipal o exercício e fiscalização das seguintes actividades: guarda-nocturno; venda ambulante de lotarias; arrumador de automóveis; realização de acampamentos ocasionais; exploração de máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão; realização de espectáculos desportivos e de divertimentos públicos nas vias, jardins e demais lugares públicos ao ar livre; venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda; realização de fogueiras e queimadas, e realização de leilões.\n\nCom a atribuição daquelas competências às câmaras municipais reforça-se a descentralização administrativa com inegável benefício para as populações, atenta a maior proximidade dos titulares dos órgãos de decisão ao cidadão à maior celeridade e eficácia administrativa.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "162663181": {
+   "fragment_id": "162654665",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito e licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito e licenciamento"
+  },
+  "162663182": {
+   "fragment_id": "162654666",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma regula o regime jurídico do licenciamento do exercício e da fiscalização das seguintes actividades:\n\na) Guarda-nocturno;\n\nb) Venda ambulante de lotarias;\n\nc) Arrumador de automóveis;\n\nd) Realização de acampamentos ocasionais;\n\ne) Exploração de máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão;\n\nf) Realização de espectáculos desportivos e de divertimentos públicos nas vias, jardins e demais lugares públicos ao ar livre;\n\ng) Venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda;\n\nh) Realização de fogueiras e queimadas;\n\ni) Realização de leilões."
+  },
+  "162663183": {
+   "fragment_id": "162654667",
+   "type": 11,
+   "heading": "Artigo 2.º — Licenciamento do exercício das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Licenciamento do exercício das actividades\n\nO exercício das actividades referidas no artigo anterior carece de licenciamento municipal.\n\n> Nota: [Artigo 3.º, Lei n.º 75/2013 - Diário da República n.º 176/2013, Série I de 2013-09-12](https://diariodarepublica.pt/dr/detalhe/lei/75-2013-500023) O n.º 1 do artigo 2.º do Decreto-Lei n.º 310/2002, de 18 de dezembro, é revogado na parte em que refere as alíneas b), c) e f) do artigo 1.º do mesmo diploma, bem como as suas subsequentes disposições relativas à titularidade da competência para o licenciamento das atividades de venda ambulante de lotarias, de arrumador de automóveis e atividades ruidosas de caráter temporário que respeitem a festas populares, romarias, feiras, arraiais e bailes;"
+  },
+  "162663184": {
+   "fragment_id": "162654668",
+   "type": 11,
+   "heading": "Artigo 3.º — Delegação e subdelegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Delegação e subdelegação de competências\n\n1 - As competências neste diploma conferidas à câmara municipal podem ser delegadas no presidente da câmara, com faculdade de subdelegação nos vereadores e nos dirigentes dos serviços municipais.\n\n2 - As competências cometidas ao presidente da câmara podem ser delegadas nos vereadores, com faculdade de subdelegação, ou nos dirigentes dos serviços municipais."
+  },
+  "162663185": {
+   "fragment_id": "162654669",
+   "type": 1,
+   "heading": "Capítulo II — Licenciamento do exercício da actividade de guarda-nocturno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Licenciamento do exercício da actividade de guarda-nocturno"
+  },
+  "162663186": {
+   "fragment_id": "162654670",
+   "type": 11,
+   "heading": "Artigo 4.º — Criação e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Criação e extinção\n\nA criação e a extinção do serviço de guardas-nocturnos em cada localidade e a fixação e modificação das áreas de actuação de cada guarda são da competência da câmara municipal, ouvidos os comandantes de brigada da GNR ou de polícia da PSP, conforme a localização da área a vigiar."
+  },
+  "162663187": {
+   "fragment_id": "162654671",
+   "type": 11,
+   "heading": "Artigo 5.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licença\n\n1 - É da competência do presidente da câmara a atribuição da licença para o exercício da actividade de guarda-nocturno.\n\n2 - A licença é intransmissível e tem validade anual."
+  },
+  "162663188": {
+   "fragment_id": "162654672",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pedido de licenciamento\n\n1 - O pedido de licenciamento é dirigido, sob a forma de requerimento, ao presidente da câmara e nele devem constar o nome e o domicílio do requerente.\n\n2 - O requerimento deve ser instruído com cópia do bilhete de identidade e do cartão de contribuinte, certificado do registo criminal, documento comprovativo das habilitações literárias e demais documentos a fixar por regulamento municipal."
+  },
+  "162663189": {
+   "fragment_id": "162654673",
+   "type": 11,
+   "heading": "Artigo 7.º — Indeferimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Indeferimento\n\nO pedido de licenciamento deve ser indeferido quando o interessado não for considerado pessoa idónea para o exercício da actividade de guarda-nocturno."
+  },
+  "162663190": {
+   "fragment_id": "162654674",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres\n\nO guarda-nocturno deve:\n\na) Apresentar-se pontualmente no posto ou esquadra no início e termo do serviço;\n\nb) Permanecer na área em que exerce a sua actividade durante o período de prestação de serviço e informar os seus clientes do modo mais expedito para ser contactado ou localizado;\n\nc) Prestar o auxílio que lhe for solicitado pelas forças e serviços de segurança e de protecção civil;\n\nd) Frequentar anualmente um curso ou instrução de adestramento e reciclagem que for organizado pelas forças de segurança com competência na respectiva área;\n\ne) Usar, em serviço, o uniforme e o distintivo próprios;\n\nf) Usar de urbanidade e aprumo no exercício das suas funções;\n\ng) Tratar com respeito e prestar auxílio a todas as pessoas que se lhe dirijam ou careçam de auxílio;\n\nh) Fazer anualmente, no mês de Fevereiro, prova de que tem regularizada a sua situação contributiva para com a segurança social;\n\ni) Não faltar ao serviço sem motivo sério, devendo, sempre que possível, solicitar a sua substituição com cinco dias úteis de antecedência."
+  },
+  "162663191": {
+   "fragment_id": "162665775",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nO regime da actividade de guarda-nocturno será objecto de regulamentação municipal."
+  },
+  "162663192": {
+   "fragment_id": "162665776",
+   "type": 1,
+   "heading": "Capítulo III — Licenciamento do exercício da actividade de vendedor ambulante de lotarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Licenciamento do exercício da actividade de vendedor ambulante de lotarias"
+  },
+  "162663193": {
+   "fragment_id": "162665777",
+   "type": 11,
+   "heading": "Artigo 10.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Licenciamento\n\nÉ da competência da câmara municipal a atribuição da licença para o exercício da actividade de venda ambulante de lotaria da Santa Casa da Misericórdia de Lisboa."
+  },
+  "162663194": {
+   "fragment_id": "162665778",
+   "type": 11,
+   "heading": "Artigo 11.º — Identificação do vendedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Identificação do vendedor\n\n1 - Cada vendedor ambulante será portador de um cartão de identificação, com a fotografia actualizada do seu titular e válido por cinco anos, de modelo a aprovar pela câmara municipal.\n\n2 - As licenças são registadas em livro especial, com termos de abertura e encerramento, por ordem cronológica e sob o número de ordem em que são transcritos os elementos de identificação constantes do requerimento, tendo anexada uma fotografia do vendedor."
+  },
+  "162663195": {
+   "fragment_id": "162665779",
+   "type": 11,
+   "heading": "Artigo 12.º — Validade das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Validade das licenças\n\nAs licenças são válidas até 31 de Dezembro de cada ano e a sua renovação será feita durante o mês de Janeiro, por simples averbamento requerido pelo interessado, a efectuar no livro de registo e no cartão de identidade."
+  },
+  "162663196": {
+   "fragment_id": "162665780",
+   "type": 11,
+   "heading": "Artigo 13.º — Regras de conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regras de conduta\n\n1 - Os vendedores ambulantes de lotaria são obrigados:\n\na) A exibir o cartão de identificação, usando-o no lado direito do peito;\n\nb) A restituir o cartão de identificação, quando a licença tiver caducado.\n\n2 - É proibido aos referidos vendedores:\n\na) Vender jogo depois da hora fixada para o início da extracção da lotaria;\n\nb) Anunciar jogo por forma contrária às restrições legais em matéria de publicidade."
+  },
+  "162663197": {
+   "fragment_id": "162665781",
+   "type": 1,
+   "heading": "Capítulo IV — Licenciamento do exercício da actividade de arrumador de automóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Licenciamento do exercício da actividade de arrumador de automóveis"
+  },
+  "162663198": {
+   "fragment_id": "162665782",
+   "type": 11,
+   "heading": "Artigo 14.º — Sujeição a licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sujeição a licenciamento\n\nÉ da competência da câmara municipal a atribuição da licença para o exercício da actividade de arrumador de automóveis."
+  },
+  "162663199": {
+   "fragment_id": "162665783",
+   "type": 11,
+   "heading": "Artigo 15.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Licenciamento\n\n1 - A concessão da licença, de validade anual, será acompanhada da emissão de um cartão identificativo, de modelo a aprovar pela câmara municipal, plastificado e com dispositivo de fixação que permita a sua exibição permanente, que será obrigatória durante o exercício da actividade.\n\n2 - As licenças apenas podem ser concedidas a maiores de 18 anos."
+  },
+  "162663200": {
+   "fragment_id": "162665784",
+   "type": 11,
+   "heading": "Artigo 16.º — Regras de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regras de actividade\n\n1 - A actividade de arrumador é licenciada para as zonas determinadas.\n\n2 - Na área atribuída a cada arrumador, que constará da licença e do cartão de identificação do respectivo titular, deverá este zelar pela integridade das viaturas estacionadas e alertar as autoridades em caso de ocorrência que a ponha em risco.\n\n3 - É expressamente proibido solicitar qualquer pagamento como contrapartida pela actividade, apenas podendo ser aceites as contribuições voluntárias com que os automobilistas, espontaneamente, desejem gratificar o arrumador.\n\n4 - É também proibido ao arrumador importunar os automobilistas, designadamente oferecendo artigos para venda ou procedendo à prestação de serviços não solicitados, como a lavagem dos automóveis estacionados."
+  },
+  "162663201": {
+   "fragment_id": "162665785",
+   "type": 11,
+   "heading": "Artigo 17.º — Normas subsidiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Normas subsidiárias\n\nÀ actividade de arrumador de automóveis são ainda aplicáveis, com as necessárias adaptações, as regras previstas para a actividade dos vendedores ambulantes de lotaria, bem como as disposições constantes de regulamento municipal."
+  },
+  "162663202": {
+   "fragment_id": "162665786",
+   "type": 1,
+   "heading": "Capítulo V — Licenciamento do exercício da actividade de acampamentos ocasionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Licenciamento do exercício da actividade de acampamentos ocasionais"
+  },
+  "162663203": {
+   "fragment_id": "162665787",
+   "type": 11,
+   "heading": "Artigo 18.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Licença\n\n1 - A realização de acampamentos ocasionais fora dos locais adequados à prática do campismo e caravanismo fica sujeita à obtenção de licença da câmara municipal, devendo ser requerida pelo responsável do acampamento e dependendo a sua concessão da autorização expressa do proprietário do prédio.\n\n2 - A realização de qualquer acampamento ocasional fica sujeita à emissão de parecer favorável das seguintes entidades:\n\na) Delegado de saúde;\n\nb) Comandante da PSP ou da GNR, consoante os casos.\n\n3 - A licença é concedida por um período de tempo determinado, nunca superior ao período de tempo autorizado expressamente pelo proprietário do prédio, podendo ser revogada a qualquer momento."
+  },
+  "162663204": {
+   "fragment_id": "162665788",
+   "type": 1,
+   "heading": "Capítulo VI — Licenciamento do exercício da actividade de exploração de máquinas de diversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Licenciamento do exercício da actividade de exploração de máquinas de diversão"
+  },
+  "162663205": {
+   "fragment_id": "162665789",
+   "type": 11,
+   "heading": "Artigo 19.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Âmbito\n\n1 - Para efeitos do presente capítulo, consideram-se máquinas de diversão:\n\na) Aquelas que, não pagando prémios em dinheiro, fichas ou coisas com valor económico, desenvolvem jogos cujos resultados dependem exclusiva ou fundamentalmente da perícia do utilizador, sendo permitido que ao utilizador seja concedido o prolongamento da utilização gratuita da máquina face à pontuação obtida;\n\nb) Aquelas que, tendo as características definidas na alínea anterior, permitem apreensão de objectos cujo valor económico não exceda três vezes a importância despendida pelo utilizador.\n\n2 - As máquinas que, não pagando directamente prémios em fichas ou moedas, desenvolvam temas próprios dos jogos de fortuna ou azar ou apresentem como resultado pontuações dependentes exclusiva ou fundamentalmente da sorte são reguladas pelo Decreto-Lei n.º 422/89, de 2 de Dezembro, e diplomas regulamentares."
+  },
+  "162663206": {
+   "fragment_id": "162665790",
+   "type": 11,
+   "heading": "Artigo 20.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Registo\n\n1 - Nenhuma máquina submetida ao regime deste capítulo pode ser posta em exploração sem que se encontre registada e licenciada.\n\n2 - O registo é requerido pelo proprietário da máquina ao presidente da câmara onde se encontra ou em que se presume irá ser colocada em exploração.\n\n3 - O requerimento do registo é formulado, em relação a cada máquina, através de impresso próprio.\n\n4 - O registo é titulado por documento próprio, assinado e autenticado, que acompanhará obrigatoriamente a máquina a que respeitar.\n\n5 - As alterações de propriedade da máquina obrigam o adquirente a efectuar o averbamento respectivo, a requerer com base no título de registo e em documentação de venda ou cedência, com assinatura do transmitente reconhecida pelos meios consentidos por lei."
+  },
+  "162663207": {
+   "fragment_id": "162665791",
+   "type": 11,
+   "heading": "Artigo 21.º — Instrução do pedido de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Instrução do pedido de registo\n\nO requerimento para o registo de cada máquina é instruído com os seguintes documentos:\n\n1) Máquinas importadas:\n\na) Documento comprovativo da apresentação da declaração de rendimentos do requerente, respeitante ao ano anterior, ou de que não está sujeito ao cumprimento dessa obrigação, em conformidade com o Código do Imposto sobre o Rendimento das Pessoas Singulares ou com o Código do Imposto sobre o Rendimento das Pessoas Colectivas, conforme o caso;\n\nb) Documento comprovativo de que o adquirente é sujeito passivo do imposto sobre o valor acrescentado;\n\nc) No caso de importação de países exteriores à União Europeia, cópia autenticada dos documentos que fazem parte integrante do despacho de importação, contendo dados identificativos da máquina que se pretende registar, com indicação das referências relativas ao mesmo despacho e BRI respectivo;\n\nd) Factura ou documento equivalente, emitida de acordo com os requisitos previstos no Código do Imposto sobre o Valor Acrescentado;\n\ne) Documento emitido pela Inspecção-Geral de Jogos comprovativo de que o jogo que a máquina possa desenvolver está abrangido pela disciplina do presente capítulo;\n\n2) Máquinas produzidas ou montadas no País:\n\na) Os documentos referidos nas alíneas a), b) e e) do número anterior;\n\nb) Factura ou documento equivalente que contenha os elementos identificativos da máquina, nomeadamente número de fábrica, modelo e fabricante."
+  },
+  "162663208": {
+   "fragment_id": "162665792",
+   "type": 11,
+   "heading": "Artigo 22.º — Temas dos jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Temas dos jogos\n\n1 - A importação, fabrico, montagem e venda de máquinas de diversão obrigam à classificação dos respectivos temas de jogo.\n\n2 - A classificação dos temas de jogo é requerida pelo interessado à Inspecção-Geral de Jogos, devendo o requerimento ser acompanhando da memória descritiva do respectivo jogo em duplicado.\n\n3 - A Inspecção-Geral de Jogos pode solicitar aos interessados a apresentação de outros elementos que considere necessários para apreciação do requerimento ou fazer depender a sua classificação de exame directo à máquina.\n\n4 - O documento que classifica os temas de jogo e a cópia autenticada da memória descritiva do jogo devem acompanhar a máquina respectiva.\n\n5 - O proprietário de qualquer máquina pode substituir o tema ou temas de jogo autorizados por qualquer outro, desde que previamente classificado pela Inspecção-Geral de Jogos.\n\n6 - O documento que classifica o novo tema de jogo autorizado e a respectiva memória descritiva devem acompanhar a máquina de diversão.\n\n7 - A substituição referida no n.º 5 deve ser precedida de comunicação do presidente da câmara."
+  },
+  "162663209": {
+   "fragment_id": "162665793",
+   "type": 11,
+   "heading": "Artigo 23.º — Licença de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Licença de exploração\n\n1 - A máquina só pode ser posta em exploração desde que disponha da correspondente licença de exploração atribuída pela câmara municipal e seja acompanhada desse documento.\n\n2 - A licença de exploração é requerida por períodos anuais ou semestrais pelo proprietário da máquina, devendo o pedido ser instruído com os seguintes documentos:\n\na) Título de registo da máquina, que será devolvido;\n\nb) Documento comprovativo do pagamento do imposto sobre o rendimento respeitante ao ano anterior;\n\nc) Documento comprovativo do pagamento dos encargos devidos a instituições de segurança social;\n\nd) Licença de recinto, emitida pela Direcção-Geral dos Espectáculos, quando devida.\n\n3 - A câmara municipal pode recusar a concessão ou a renovação da licença de exploração, sempre que tal medida se justifique.\n\n4 - A transferência de máquinas de diversão para local diferente do constante da licença de exploração deve ser precedida de comunicação ao presidente da câmara respectivo."
+  },
+  "162663210": {
+   "fragment_id": "162665794",
+   "type": 11,
+   "heading": "Artigo 24.º — Condições de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Condições de exploração\n\n1 - Salvo tratando-se de estabelecimentos licenciados para a exploração exclusiva de jogos, não podem ser colocadas em exploração simultânea mais de três máquinas, quer as mesmas sejam exploradas na sala principal do estabelecimento quer nas suas dependências ou anexos, com intercomunicação interna, vertical ou horizontal.\n\n2 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento previamente licenciado para a prática de jogos lícitos com máquinas de diversão, o qual não pode situar-se nas proximidades de estabelecimentos de ensino.\n\n3 - Nos estabelecimentos licenciados para a exploração exclusiva de máquinas de diversão é permitida a instalação de aparelhos destinados à venda de produtos ou bebidas não alcoólicas."
+  },
+  "162663211": {
+   "fragment_id": "162665795",
+   "type": 11,
+   "heading": "Artigo 25.º — Condicionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Condicionamentos\n\n1 - A prática de jogos em máquinas reguladas pelo presente capítulo é interdita a menores de 16 anos, salvo quando, tendo mais de 12 anos, sejam acompanhados por quem exerce o poder paternal.\n\n2 - É obrigatória a afixação, na própria máquina, em lugar bem visível, de inscrição ou dístico contendo os seguintes elementos:\n\na) Número de registo;\n\nb) Nome do proprietário;\n\nc) Prazo limite da validade da licença de exploração concedida;\n\nd) Idade exigida para a sua utilização;\n\ne) Nome do fabricante;\n\nf) Tema de jogo;\n\ng) Tipo de máquina;\n\nh) Número de fábrica."
+  },
+  "162663212": {
+   "fragment_id": "162665796",
+   "type": 11,
+   "heading": "Artigo 26.º — Responsabilidade contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Responsabilidade contra-ordenacional\n\n1 - Para efeitos do presente capítulo, consideram-se responsáveis, relativamente às contra-ordenações verificadas:\n\na) O proprietário da máquina, nos casos de exploração de máquinas sem registo ou quando em desconformidade com os elementos constantes do título de registo por falta de averbamento de novo proprietário;\n\nb) O proprietário ou explorador do estabelecimento, nas demais situações.\n\n2 - Quando, por qualquer circunstância, se mostre impossível a identificação do proprietário de máquinas em exploração, considera-se responsável pelas contra-ordenações o proprietário ou explorador do estabelecimento onde as mesmas se encontrem."
+  },
+  "162663213": {
+   "fragment_id": "162665797",
+   "type": 11,
+   "heading": "Artigo 27.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Fiscalização\n\nA fiscalização da observância do disposto no presente capítulo, bem como a instrução dos respectivos processos contra-ordenacionais, compete às câmaras municipais, sendo a Inspecção-Geral de Jogos o serviço técnico consultivo e pericial nesta matéria."
+  },
+  "162663214": {
+   "fragment_id": "162665798",
+   "type": 11,
+   "heading": "Artigo 28.º — Modelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Modelos\n\nOs impressos próprios referidos no presente capítulo são aprovados por portaria do Ministro das Cidades, Ordenamento do Território e Ambiente."
+  },
+  "162663215": {
+   "fragment_id": "162665799",
+   "type": 1,
+   "heading": "Capítulo VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII\n\nLicenciamento do exercício da actividade de realização de espectáculos de natureza desportiva e de divertimentos públicos."
+  },
+  "162663216": {
+   "fragment_id": "162665800",
+   "type": 11,
+   "heading": "Artigo 29.º — Festividades e outros divertimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Festividades e outros divertimentos\n\n1 - Os arraiais, romarias, bailes, provas desportivas e outros divertimentos públicos organizados nas vias, jardins e demais lugares públicos ao ar livre dependem de licenciamento da câmara municipal, salvo quando tais actividades decorram em recintos já licenciados pela Direcção-Geral dos Espectáculos.\n\n2 - As festas promovidas por entidades oficias, civis ou militares não carecem da licença prevista no número anterior, mas das mesmas deve ser feita uma participação prévia ao presidente da câmara."
+  },
+  "162663217": {
+   "fragment_id": "162665801",
+   "type": 11,
+   "heading": "Artigo 30.º — Espectáculos e actividades ruidosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Espectáculos e actividades ruidosas\n\n1 - As bandas de música, grupos filarmónicos, tunas e outros agrupamentos musicais não podem actuar nas vias e demais lugares públicos dos aglomerados urbanos desde as 0 até às 9 horas.\n\n2 - O funcionamento de emissores, amplificadores e outros aparelhos sonoros que projectem sons para as vias e demais lugares públicos, incluindo sinais horários, só poderá ocorrer entre as 9 e as 22 horas e mediante a autorização referida no artigo 32.º\n\n3 - O funcionamento a que se refere o número anterior fica sujeito às seguintes restrições:\n\na) Só pode ser consentido por ocasião de festas tradicionais, espectáculos ao ar livre ou em outros casos análogos devidamente justificados;\n\nb) São proibidas as emissões desproporcionalmente ruidosas que não cumpram os limites estabelecidos no Regulamento Geral do Ruído."
+  },
+  "162663218": {
+   "fragment_id": "162665802",
+   "type": 11,
+   "heading": "Artigo 31.º — Tramitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Tramitação\n\n1 - As licenças devem ser requeridas com a antecedência mínima de 15 dias úteis ao presidente da câmara.\n\n2 - Os pedidos são instruídos com os documentos necessários.\n\n3 - A autorização para a realização de provas desportivas na via pública deve ser requerida com antecedência nunca inferior a 30 ou 60 dias, conforme se desenrole num ou em mais municípios, e está sujeita ao parecer favorável das entidades legalmente competentes."
+  },
+  "162663219": {
+   "fragment_id": "162665803",
+   "type": 11,
+   "heading": "Artigo 32.º — Condicionamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Condicionamentos\n\n1 - A realização de festividades, de divertimentos públicos e de espectáculos ruidosos nas vias e demais lugares públicos só pode ser permitida nas proximidades de edifícios de habitação, escolares e hospitalares ou similares, bem como de estabelecimentos hoteleiros e meios complementares de alojamento, desde que respeitando os limites fixados no regime aplicável ao ruído.\n\n2 - Quando circunstâncias excepcionais o justifiquem, pode o presidente da câmara permitir o funcionamento ou o exercício contínuo dos espectáculos ou actividades ruidosas proibidas nesta secção, salvo na proximidade de edifícios hospitalares ou similares, mediante a atribuição de uma licença especial de ruído.\n\n3 - Das licenças emitidas nos termos do presente capítulo deve constar a referência ao seu objecto, a fixação dos respectivos limites horários e as demais condições julgadas necessárias para preservar a tranquilidade das populações."
+  },
+  "162663220": {
+   "fragment_id": "162665804",
+   "type": 11,
+   "heading": "Artigo 33.º — Festas tradicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Festas tradicionais\n\n1 - Por ocasião dos festejos tradicionais das localidades pode, excepcionalmente, ser permitido o funcionamento ou o exercício contínuo dos espectáculos ou actividades referidos nos artigos anteriores, salvo nas proximidades de edifícios hospitalares ou similares.\n\n2 - Os espectáculos ou actividades que não estejam licenciados ou se não contenham nos limites da respectiva licença podem ser imediatamente suspensos, oficiosamente ou a pedido de qualquer interessado."
+  },
+  "162663221": {
+   "fragment_id": "162665805",
+   "type": 11,
+   "heading": "Artigo 34.º — Diversões carnavalescas proibidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Diversões carnavalescas proibidas\n\n1 - Nas diversões carnavalescas é proibido:\n\na) O uso de quaisquer objectos de arremesso susceptíveis de pôr em perigo a integridade física de terceiros;\n\nb) A apresentação da bandeira nacional ou imitação;\n\nc) A utilização de gases, líquidos ou de outros produtos inebriantes, anestesiantes, esternutatórios ou que possam inflamar-se, seja qual for o seu acondicionamento.\n\n2 - A venda ou a exposição para venda de produtos de uso proibido pelo número anterior é punida como tentativa de comparticipação na infracção."
+  },
+  "162663222": {
+   "fragment_id": "162665806",
+   "type": 1,
+   "heading": "Capítulo VIII — Licenciamento do exercício da actividade de agências de venda de bilhetes para espectáculos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Licenciamento do exercício da actividade de agências de venda de bilhetes para espectáculos públicos"
+  },
+  "162663223": {
+   "fragment_id": "162665807",
+   "type": 11,
+   "heading": "Artigo 35.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Licenciamento\n\n1 - A venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda está sujeita a licenciamento da câmara municipal.\n\n2 - Para obtenção da licença devem os interessados apresentar requerimento dirigido ao presidente da câmara em que indiquem o nome, a idade, o estado civil, a residência, o número de identificação fiscal e a localização da agência ou posto, juntando cópia do bilhete de identidade."
+  },
+  "162663224": {
+   "fragment_id": "162665808",
+   "type": 11,
+   "heading": "Artigo 36.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Requisitos\n\n1 - As licenças só podem ser concedidas quando a instalação da agência ou posto de venda tenha lugar em estabelecimento privativo, com boas condições de apresentação e de higiene e ao qual o público tenha acesso, ou em secções de estabelecimentos de qualquer ramo de comércio que satisfaçam aqueles requisitos.\n\n2 - Não podem funcionar agências ou postos de venda a menos de 100 m das bilheteiras de qualquer casa ou recinto de espectáculos ou divertimentos públicos.\n\n3 - É obrigatória a afixação nas agências ou postos de venda, em lugar bem visível, das tabelas de preços de cada casa ou recinto cujos bilhetes comercializem, autenticadas com o carimbo das respectivas empresas."
+  },
+  "162663225": {
+   "fragment_id": "162665809",
+   "type": 11,
+   "heading": "Artigo 37.º — Requerimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Requerimentos\n\n1 - Os requerimentos das licenças são entregues acompanhados de:\n\na) Certificado do registo criminal, quando se trate do primeiro requerimento e, posteriormente, sempre que for exigido;\n\nb) Documento comprovativo da autorização concedida pelo respectivo proprietário, no caso de a instalação ter lugar em estabelecimento de outro ramo de actividade não pertencente ao requerente.\n\n2 - Tratando-se de pedido de licenciamento a favor de sociedades comerciais, os elementos de identificação mencionados no n.º 2 do artigo 35.º devem respeitar aos titulares da gerência ou administração das mesmas.\n\n3 - A licença para instalar postos de venda só pode ser concedida às agências.\n\n4 - A licença é intransmissível e tem validade anual.\n\n5 - A apresentação do requerimento e o seu deferimento obedecem ao disposto no artigo 31.º"
+  },
+  "162663226": {
+   "fragment_id": "162665810",
+   "type": 11,
+   "heading": "Artigo 38.º — Proibições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Proibições\n\nNas agências e postos de venda é proibido:\n\na) Cobrar quantia superior em 10% à do preço de venda ao público dos bilhetes;\n\nb) Cobrar importância superior em 20% à do preço de venda ao público dos bilhetes, no caso de entrega ao domicílio;\n\nc) Fazer propaganda em viva voz em qualquer lugar e, por qualquer meio, dentro de um raio de 100 m em torno das bilheteiras;\n\nd) Recusar a venda de qualquer bilhete em seu poder."
+  },
+  "162663227": {
+   "fragment_id": "162665811",
+   "type": 1,
+   "heading": "Capítulo IX — Licenciamento do exercício da actividade de fogueiras e queimadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Licenciamento do exercício da actividade de fogueiras e queimadas"
+  },
+  "162663228": {
+   "fragment_id": "162665812",
+   "type": 11,
+   "heading": "Artigo 39.º — Fogueiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Fogueiras\n\n1 - É proibido acender fogueiras nas ruas, praças e mais lugares públicos das povoações, bem como a menos de 30 m de quaisquer construções e a menos de 300 m de bosques, matas, lenhas, searas, palhas, depósitos de substâncias susceptíveis de arder e, independentemente da distância, sempre que deva prever-se risco de incêndio.\n\n2 - Pode a câmara municipal licenciar as tradicionais fogueiras de Natal e dos santos populares, estabelecendo as condições para a sua efectivação e tendo em conta as precauções necessárias à segurança das pessoas e bens.\n\n3 - São permitidos os lumes que os trabalhadores acendam para fazerem os seus cozinhados e se aquecerem, desde que sejam tomadas as convenientes precauções contra a propagação do fogo."
+  },
+  "162663229": {
+   "fragment_id": "162665813",
+   "type": 11,
+   "heading": "Artigo 40.º — Queimadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Queimadas\n\n1 - É proibido fazer queimadas que de algum modo possam originar danos em quaisquer culturas ou bens pertencentes a outrem.\n\n2 - A câmara municipal pode autorizar a realização de queimadas, mediante audição prévia dos bombeiros da área, que determinarão as datas e os condicionamentos a observar na sua realização."
+  },
+  "162663230": {
+   "fragment_id": "162665814",
+   "type": 1,
+   "heading": "Capítulo X — Licenciamento do exercício da actividade de realização de leilões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Licenciamento do exercício da actividade de realização de leilões"
+  },
+  "162663231": {
+   "fragment_id": "162665815",
+   "type": 11,
+   "heading": "Artigo 41.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Licenciamento\n\n1 - A realização de leilões em lugares públicos carece de licenciamento da câmara municipal.\n\n2 - Para os efeitos previstos no número anterior, são considerados lugares públicos os estabelecimentos comerciais e quaisquer recintos a que o público tenha acesso livre e gratuito.\n\n3 - Estão isentos de licença os leilões realizados directamente pelos serviços da Caixa Geral de Depósitos, dos tribunais e serviços da Administração Pública, em conformidade com a legislação aplicável.\n\n4 - A realização de leilões sem licença será imediatamente suspensa, sem prejuízo da instauração do processo de contra-ordenação."
+  },
+  "162663232": {
+   "fragment_id": "162665816",
+   "type": 1,
+   "heading": "Capítulo XI — Protecção de pessoas e bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Protecção de pessoas e bens"
+  },
+  "162663233": {
+   "fragment_id": "162665817",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nProtecção contra quedas em resguardos, coberturas de poços, fossas, fendas e outras irregularidades no solo\n\n1 - É obrigatório o resguardo ou a cobertura eficaz de poços, fendas e outras irregularidades existentes em quaisquer terrenos e susceptíveis de originar quedas desastrosas a pessoas e animais.\n\n2 - A obrigação prevista no número anterior mantém-se durante a realização de obras e reparações de poços, fossas, fendas e outras irregularidades, salvo no momento em que, em virtude daqueles trabalhos, seja feita prevenção contra quedas."
+  },
+  "162663234": {
+   "fragment_id": "162665818",
+   "type": 11,
+   "heading": "Artigo 43.º — Máquinas e engrenagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Máquinas e engrenagens\n\nÉ igualmente obrigatório o resguardo eficaz dos maquinismos e engrenagens quando colocados à borda de poços, fendas e outras irregularidades no solo ou de fácil acesso."
+  },
+  "162663235": {
+   "fragment_id": "162665819",
+   "type": 11,
+   "heading": "Artigo 44.º — Eficácia da cobertura ou resguardo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Eficácia da cobertura ou resguardo\n\n1 - Considera-se cobertura ou resguardo eficaz, para efeitos do presente diploma, qualquer placa que, obstruindo completamente a escavação, ofereça resistência a uma sobrecarga de 100 kg/m2.\n\n2 - O resguardo deve ser constituído pelo levantamento das paredes do poço ou cavidade até à altura mínima de 80 cm de superfície do solo ou por outra construção que, circundando a escavação, obedeça àquele requisito, contanto que, em qualquer caso, suporte uma força de 100 kg.\n\n3 - Se o sistema de escavação exigir na cobertura ou resguardo qualquer abertura, esta será tapada com tampa ou cancela que dê a devida protecção e só permanecerá aberta pelo tempo estritamente indispensável."
+  },
+  "162663236": {
+   "fragment_id": "162665820",
+   "type": 11,
+   "heading": "Artigo 45.º — Notificação para execução da cobertura ou resguardo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Notificação para execução da cobertura ou resguardo\n\n1 - Detectada qualquer infracção pela qual se considere responsável aquele que explora ou utiliza, seja a que título for, o prédio onde se encontra o poço, fosso, fenda ou irregularidade no solo, devem as autoridades, independentemente da aplicação da respectiva coima, notificar o responsável para cumprir o disposto no presente capítulo, fixando o prazo máximo de vinte e quatro horas para a conclusão dos trabalhos de cobertura e resguardo.\n\n2 - O montante da coima estabelecida nos termos da alínea a) do n.º 1 do artigo 47.º é elevado ao triplo sempre que os notificados não executarem as obras no prazo concedido, sendo o responsável notificado para o cumprimento dentro do novo prazo fixado para o efeito, não superior a doze horas."
+  },
+  "162663237": {
+   "fragment_id": "162665821",
+   "type": 11,
+   "heading": "Artigo 46.º — Propriedades muradas ou vedadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Propriedades muradas ou vedadas\n\nO disposto na presente secção não abrange as propriedades muradas ou eficazmente vedadas."
+  },
+  "162663238": {
+   "fragment_id": "162665822",
+   "type": 1,
+   "heading": "Capítulo XII — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Sanções"
+  },
+  "162663239": {
+   "fragment_id": "162665823",
+   "type": 11,
+   "heading": "Artigo 47.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Contra-ordenações\n\n1 - Constituem contra-ordenações:\n\na) A violação dos deveres a que se referem as alíneas b), c), d), e) e i) do artigo 8.º, punida com coima de (euro) 30 a (euro) 170;\n\nb) A violação dos deveres a que se referem as alíneas a), f) e g) do artigo 5.º, punida com coima de (euro) 15 a (euro) 120;\n\nc) O não cumprimento do disposto na alínea h) do artigo 5.º, punida com coima de (euro) 30 a (euro) 120;\n\nd) A venda ambulante de lotaria sem licença, punida com coima de (euro) 60 a (euro) 120;\n\ne) A falta de cumprimento dos deveres de vendedor ambulante de lotaria, punida com coima de (euro) 80 a (euro) 150;\n\nf) O exercício da actividade de arrumador de automóveis sem licença ou fora do local nela indicado, bem como a falta de cumprimento das regras da actividade, punidos com coima de (euro) 60 a (euro) 300;\n\ng) A realização de acampamentos ocasionais sem licença, punida com coima de (euro) 150 a (euro) 200;\n\nh) A realização, sem licença, das actividades referidas no artigo 29.º, punida com coima de (euro) 25 a (euro) 200;\n\ni) A realização, sem licença, das actividades previstas no artigo 30.º, punida com coima de (euro) 150 a (euro) 220;\n\nj) A venda de bilhetes para espectáculos públicos sem licença, punida com coima de (euro) 120 a (euro) 250;\n\nk) A venda de bilhetes por preço superior ao permitido ou fora dos locais autorizados, punida com coima de (euro) 60 a (euro) 250;\n\nl) A realização, sem licença, das actividades previstas nos artigos 39.º e 40.º, punida com coima de (euro) 30 a (euro) 1000, quando da actividade proibida resulte perigo de incêndio, e de (euro) 30 a (euro) 270, nos demais casos;\n\nm) A realização de leilões sem licença, punida com coima de (euro) 200 a (euro) 500;\n\nn) O não cumprimento dos deveres resultantes do capítulo XI, punida com coima de (euro) 80 a (euro) 250.\n\n2 - A coima aplicada nos termos da alínea f) do número anterior pode ser substituída, a requerimento do condenado, pela prestação de trabalho a favor da comunidade, nos termos previstos no regime geral sobre ilícito de mera ordenação social.\n\n3 - A falta de exibição das licenças às entidades fiscalizadoras constitui contra-ordenação punida com coima de (euro) 70 a (euro) 200, salvo se estiverem temporariamente indisponíveis, por motivo atendível, e vierem a ser apresentadas ou for justificada a impossibilidade de apresentação no prazo de quarenta e oito horas.\n\n4 - A negligência e a tentativa são punidas."
+  },
+  "162663240": {
+   "fragment_id": "162665824",
+   "type": 11,
+   "heading": "Artigo 48.º — Máquinas de diversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Máquinas de diversão\n\n1 - As infracções do capítulo VI do presente diploma constituem contra-ordenação punida nos termos seguintes:\n\na) Exploração de máquinas sem registo, com coima de (euro) 1500 a (euro) 2500 por cada máquina;\n\nb) Falsificação do título de registo ou do título de licenciamento, com coima de (euro) 1500 a (euro) 2500;\n\nc) Exploração de máquinas sem que sejam acompanhadas do original ou fotocópia autenticada do título de registo, do título de licenciamento ou dos documentos previstos nos n.os 4 e 6 do artigo 22.º, com coima de (euro) 120 a (euro) 200 por cada máquina;\n\nd) Desconformidade com os elementos constantes do título de registo por falta de averbamento de novo proprietário, com coima de (euro) 120 a (euro) 500 por cada máquina;\n\ne) Exploração de máquinas sem que o respectivo tema ou circuito de jogo tenha sido classificado pela Inspecção-Geral de Jogos, com coima de (euro) 500 a (euro) 750 por cada máquina;\n\nf) Exploração de máquinas sem licença ou com licença de exploração caducada, com coima de (euro) 1000 a (euro) 2500 por cada máquina;\n\ng) Exploração de máquinas de diversão em recinto ou estabelecimento diferente daquele para que foram licenciadas ou fora dos locais autorizados, com coima de (euro) 270 a (euro) 1000 por cada máquina;\n\nh) Exploração de máquinas em número superior ao permitido, com coima de (euro) 270 a (euro) 1100 por cada máquina, e, acessoriamente, atenta a gravidade e frequência da infracção, apreensão e perda das mesmas a favor do Estado;\n\ni) Falta da comunicação prevista no n.º 4 do artigo 23.º, com coima de (euro) 250 a (euro) 1100 por cada máquina;\n\nj) Utilização de máquinas de diversão por pessoas com idade inferior à estabelecida, com coima de (euro) 500 a (euro) 2500;\n\nk) Falta ou afixação indevida da inscrição ou dístico referido no n.º 2 do artigo 25.º, bem como a omissão de qualquer dos seus elementos, com coima de (euro) 270 a (euro) 1100 por cada máquina.\n\n2 - A negligência e a tentativa são punidas."
+  },
+  "162663241": {
+   "fragment_id": "162665825",
+   "type": 11,
+   "heading": "Artigo 49.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Sanções acessórias\n\nNos processos de contra-ordenação podem ser aplicadas as sanções acessórias previstas na lei geral."
+  },
+  "162663242": {
+   "fragment_id": "162665826",
+   "type": 11,
+   "heading": "Artigo 50.º — Processo contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Processo contra-ordenacional\n\n1 - A instrução dos processos de contra-ordenação previstos no presente diploma compete às câmaras municipais.\n\n2 - A decisão sobre a instauração dos processos de contra-ordenação e a aplicação das coimas e das sanções acessórias é da competência do presidente da câmara.\n\n3 - O produto das coimas, mesmo quando estas são fixadas em juízo, constitui receita dos municípios."
+  },
+  "162663243": {
+   "fragment_id": "162665827",
+   "type": 11,
+   "heading": "Artigo 51.º — Medidas de tutela de legalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Medidas de tutela de legalidade\n\nAs licenças concedidas nos termos do presente diploma podem ser revogadas pela câmara municipal, a qualquer momento, com fundamento na infracção das regras estabelecidas para a respectiva actividade e na inaptidão do seu titular para o respectivo exercício."
+  },
+  "162663244": {
+   "fragment_id": "162665828",
+   "type": 1,
+   "heading": "Capítulo XIII — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIII — Fiscalização"
+  },
+  "162663245": {
+   "fragment_id": "162665829",
+   "type": 11,
+   "heading": "Artigo 52.º — Entidades com competência de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Entidades com competência de fiscalização\n\n1 - A fiscalização do disposto no presente diploma compete à câmara municipal, bem como às autoridades administrativas e policiais.\n\n2 - As autoridades administrativas e policiais que verifiquem infracções ao disposto no presente diploma devem elaborar os respectivos autos de notícia, que remetem às câmaras municipais no mais curto prazo de tempo.\n\n3 - Todas as entidades fiscalizadoras devem prestar às câmaras municipais a colaboração que lhes seja solicitada."
+  },
+  "162663246": {
+   "fragment_id": "162665830",
+   "type": 1,
+   "heading": "Capítulo XIV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIV — Disposições finais e transitórias"
+  },
+  "162663247": {
+   "fragment_id": "162665831",
+   "type": 11,
+   "heading": "Artigo 53.º — Regulamentos municipais e taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Regulamentos municipais e taxas\n\n1 - O regime do exercício das actividades previstas no presente diploma será objecto de regulamentação municipal, nos termos da lei.\n\n2 - As taxas devidas pelos licenciamentos das actividades previstas no presente diploma serão fixadas por regulamentação municipal."
+  },
+  "162663248": {
+   "fragment_id": "162665832",
+   "type": 11,
+   "heading": "Artigo 54.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Norma revogatória\n\nSão revogadas as normas do Decreto-Lei n.º 316/95, de 28 de Novembro, que contrariem o disposto no presente diploma."
+  },
+  "162663249": {
+   "fragment_id": "162665833",
+   "type": 11,
+   "heading": "Artigo 55.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Aplicação às Regiões Autónomas\n\nA aplicação do presente diploma às Regiões Autónomas dos Açores e da Madeira faz-se sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio e das adaptações que lhe venham a ser introduzidas por diploma regional das respectivas assembleias legislativas regionais."
+  },
+  "162663250": {
+   "fragment_id": "162665834",
+   "type": 11,
+   "heading": "Artigo 56.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Entrada em vigor\n\nO presente diploma entra em vigor em 1 de Janeiro de 2003."
+  },
+  "162671099": {
+   "fragment_id": "162665801",
+   "type": 11,
+   "heading": "Artigo 30.º — Espectáculos e actividades ruidosas",
+   "in_force_from": "2007-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), em vigor a partir de 2007-02-01"
+   ],
+   "markdown": "###### Artigo 30.º — Espectáculos e actividades ruidosas\n\n1 - As bandas de música, grupos filarmónicos, tunas e outros agrupamentos musicais não podem actuar nas vias e demais lugares públicos dos aglomerados urbanos desde as 0 até às 9 horas.\n\n2 - O funcionamento de emissores, amplificadores e outros aparelhos sonoros que projectem sons para as vias e demais lugares públicos, incluindo sinais horários, só poderá ocorrer entre as 9 e as 22 horas e mediante a autorização referida no artigo 32.º\n\n3 - O funcionamento a que se refere o número anterior fica sujeito às seguintes restrições:\n\na) Só pode ser consentido por ocasião de festas tradicionais, espectáculos ao ar livre ou em outros casos análogos devidamente justificados;\n\nb) Cumprimento dos limites estabelecidos no n.º 5 do artigo 15.º do Regulamento Geral do Ruído, quando a licença é concedida por período superior a um mês.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), em vigor a partir de 2007-02-01"
+  },
+  "162671100": {
+   "fragment_id": "162665803",
+   "type": 11,
+   "heading": "Artigo 32.º — Condicionamentos",
+   "in_force_from": "2007-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), em vigor a partir de 2007-02-01"
+   ],
+   "markdown": "###### Artigo 32.º — Condicionamentos\n\n1 - Sem prejuízo do disposto no número seguinte, a realização de festividades, de divertimentos públicos e de espectáculos ruidosos nas vias públicas e demais lugares públicos nas proximidades de edifícios de habitação, escolares durante o horário de funcionamento, hospitalares ou similares, bem como estabelecimentos hoteleiros e meios complementares de alojamento só é permitida quando, cumulativamente:\n\na) Circunstâncias excepcionais o justifiquem;\n\nb) Seja emitida, pelo presidente da câmara municipal, licença especial de ruído;\n\nc) Respeite o disposto no n.º 5 do artigo 15.º do Regulamento Geral do Ruído, quando a licença é concedida por período superior a um mês.\n\n2 - Não é permitido o funcionamento ou o exercício contínuo dos espectáculos ou actividades ruidosas nas vias públicas e demais lugares públicos na proximidade de edifícios hospitalares ou similares ou na de edifícios escolares durante o respectivo horário de funcionamento.\n\n3 - Das licenças emitidas nos termos do presente capítulo deve constar a referência ao seu objecto, a fixação dos respectivos limites horários e as demais condições julgadas necessárias para preservar a tranquilidade das populações.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2007 - Diário da República n.º 12/2007, Série I de 2007-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2007-522807), em vigor a partir de 2007-02-01"
+  },
+  "162667498": {
+   "fragment_id": "162665812",
+   "type": 11,
+   "heading": "Artigo 39.º — Fogueiras",
+   "in_force_from": "2002-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 156/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2004-517473), em vigor a partir de 2002-12-23"
+   ],
+   "markdown": "###### Artigo 39.º — Fogueiras\n\n1 - É proibido acender fogueiras nas ruas, praças e mais lugares públicos das povoações, bem como a menos de 30 m de quaisquer construções e a menos de 300 m de bosques, matas, lenhas, searas, palhas, depósitos de substâncias susceptíveis de arder e, independentemente da distância, sempre que deva prever-se risco de incêndio.\n\n2 - Pode a câmara municipal licenciar as tradicionais fogueiras de Natal e dos santos populares, estabelecendo as condições para a sua efectivação e tendo em conta as precauções necessárias à segurança das pessoas e bens.\n\n3 - Revogado.\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 156/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2004-517473), em vigor a partir de 2002-12-23"
+  },
+  "162667499": {
+   "fragment_id": "162665813",
+   "type": 11,
+   "heading": "Artigo 40.º — Queimadas",
+   "in_force_from": "2002-12-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 156/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2004-517473), em vigor a partir de 2002-12-23"
+   ],
+   "markdown": "###### Artigo 40.º — Queimadas\n\n1 - É proibido fazer queimadas que de algum modo possam originar danos em quaisquer culturas ou bens pertencentes a outrem.\n\n2 - A câmara municipal pode autorizar a realização de queimadas, mediante audição prévia dos bombeiros da área, que determinarão as datas e os condicionamentos a observar na sua realização.\n\n> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 156/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2004-517473), em vigor a partir de 2002-12-23"
+  },
+  "162663251": {
+   "fragment_id": "162665835",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Setembro de 2002. - José Manuel Durão Barroso - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - José Manuel Amaral Lopes - Luís Filipe Pereira - Isaltino Afonso de Morais.\n\nPromulgado em 22 de Novembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 30 de Novembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "162671141": {
+   "fragment_id": "162671201",
+   "type": 8,
+   "heading": "Secção i — Disposições gerais",
+   "in_force_from": "2008-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "#### Secção i — Disposições gerais\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671142": {
+   "fragment_id": "162654670",
+   "type": 11,
+   "heading": "Artigo 4.º — Criação e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Criação e extinção\n\nA criação e a extinção do serviço de guardas-nocturnos em cada localidade e a fixação e modificação das áreas de actuação de cada guarda são da competência da câmara municipal, ouvidos os comandantes de brigada da GNR ou de polícia da PSP, conforme a localização da área a vigiar."
+  },
+  "162671143": {
+   "fragment_id": "162654671",
+   "type": 11,
+   "heading": "Artigo 5.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licença\n\n1 - É da competência do presidente da câmara a atribuição da licença para o exercício da actividade de guarda-nocturno.\n\n2 - A licença é intransmissível e tem validade anual."
+  },
+  "162671144": {
+   "fragment_id": "162654672",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pedido de licenciamento\n\n1 - O pedido de licenciamento é dirigido, sob a forma de requerimento, ao presidente da câmara e nele devem constar o nome e o domicílio do requerente.\n\n2 - O requerimento deve ser instruído com cópia do bilhete de identidade e do cartão de contribuinte, certificado do registo criminal, documento comprovativo das habilitações literárias e demais documentos a fixar por regulamento municipal."
+  },
+  "162671145": {
+   "fragment_id": "162654673",
+   "type": 11,
+   "heading": "Artigo 7.º — Indeferimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Indeferimento\n\nO pedido de licenciamento deve ser indeferido quando o interessado não for considerado pessoa idónea para o exercício da actividade de guarda-nocturno."
+  },
+  "162671146": {
+   "fragment_id": "162654674",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Deveres\n\nO guarda-nocturno deve:\n\na) Apresentar-se pontualmente no posto ou esquadra no início e termo do serviço;\n\nb) Permanecer na área em que exerce a sua actividade durante o período de prestação de serviço e informar os seus clientes do modo mais expedito para ser contactado ou localizado;\n\nc) Prestar o auxílio que lhe for solicitado pelas forças e serviços de segurança e de protecção civil;\n\nd) Frequentar anualmente um curso ou instrução de adestramento e reciclagem que for organizado pelas forças de segurança com competência na respectiva área;\n\ne) Usar, em serviço, o uniforme e o distintivo próprios;\n\nf) Usar de urbanidade e aprumo no exercício das suas funções;\n\ng) Tratar com respeito e prestar auxílio a todas as pessoas que se lhe dirijam ou careçam de auxílio;\n\nh) Fazer anualmente, no mês de Fevereiro, prova de que tem regularizada a sua situação contributiva para com a segurança social;\n\ni) Não faltar ao serviço sem motivo sério, devendo, sempre que possível, solicitar a sua substituição com cinco dias úteis de antecedência."
+  },
+  "162671147": {
+   "fragment_id": "162665775",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nO regime da actividade de guarda-nocturno será objecto de regulamentação municipal."
+  },
+  "162671148": {
+   "fragment_id": "162671202",
+   "type": 8,
+   "heading": "Secção ii — Actividade",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "#### Secção ii — Actividade\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671150": {
+   "fragment_id": "162671204",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Compensação financeira",
+   "in_force_from": "2008-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-A — Compensação financeira\n\nA actividade do guarda-nocturno é compensada pelas contribuições voluntárias das pessoas, singulares ou colectivas, em benefício de quem é exercida.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671151": {
+   "fragment_id": "162671205",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Férias, folgas e substituição",
+   "in_force_from": "2008-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-B — Férias, folgas e substituição\n\n1 - O guarda-nocturno descansa do exercício da sua actividade uma noite após cada cinco noites consecutivas de trabalho.\n\n2 - Uma vez por mês, o guarda-nocturno descansa do exercício da sua actividade duas noites.\n\n3 - No início de cada mês, o guarda-nocturno deve informar o comando da força de segurança responsável pela sua área de actuação de quais as noites em que irá descansar.\n\n4 - Até ao dia 15 de Abril de cada ano, o guarda-nocturno deve informar o comando da força de segurança responsável pela sua área do período ou períodos em que irá gozar as suas férias.\n\n5 - Nas noites de descanso, durante os períodos de férias, e em caso de falta do guarda-nocturno, a actividade da respectiva área é exercida, em acumulação, por um guarda-nocturno da área contígua, para o efeito convocado pelo comandante da força de segurança territorialmente competente, sob proposta do guardaa substituir.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671152": {
+   "fragment_id": "162671206",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Equipamento",
+   "in_force_from": "2008-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-C — Equipamento\n\n1 - O equipamento é composto por cinturão de cabedal preto, bastão curto e pala de suporte, arma, rádio, apito e algemas.\n\n2 - O guarda-nocturno está sujeito ao regime geral de uso e porte de arma, podendo recorrer na sua actividade profissional, designadamente, a aerossóis e armas eléctricas, meios de defesa não letais da classe E, nos termos da Lei n.º 5/2006, de 23 de Fevereiro.\n\n3 - Para efeitos de fiscalização, a identificação das armas que sejam utilizadas ao abrigo do disposto no presente artigo é sempre comunicada à força de segurança territorialmente competente, devendo ser actualizada caso sofra qualquer alteração.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671153": {
+   "fragment_id": "162671207",
+   "type": 11,
+   "heading": "Artigo 9.º-D — Veículos",
+   "in_force_from": "2008-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-D — Veículos\n\nOs veículos em que transitam os guardas-nocturnos devem encontrar-se devidamente identificados.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671154": {
+   "fragment_id": "162671208",
+   "type": 11,
+   "heading": "Artigo 9.º-E — Modelos",
+   "in_force_from": "2008-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-E — Modelos\n\n1 - O modelo de cartão identificativo de guarda-nocturno é definido por portaria conjunta dos membros do Governo responsáveis pelas áreas das autarquias locais e da administração interna.\n\n2 - Os modelos de uniforme, crachá e identificador de veículo são definidos por portaria do membro do Governo responsável pela área da administração interna.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671149": {
+   "fragment_id": "162671203",
+   "type": 8,
+   "heading": "Secção III — Registo, lista e cartão identificativo de guarda-nocturno",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "#### Secção III — Registo, lista e cartão identificativo de guarda-nocturno\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671155": {
+   "fragment_id": "162671209",
+   "type": 11,
+   "heading": "Artigo 9.º-F — Registo nacional de guardas-nocturnos",
+   "in_force_from": "2008-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-F — Registo nacional de guardas-nocturnos\n\n1 - Tendo em vista a organização do registo nacional de guardas-nocturnos, no momento da atribuição da licença para o exercício da actividade de guarda-nocturno, cada município comunica à Direcção-Geral das Autarquias Locais, abreviadamente designada por DGAL, sempre que possível por via electrónica e automática, os seguintes elementos:\n\na) O nome completo do guarda-nocturno;\n\nb) O número do cartão identificativo de guarda-nocturno;\n\nc) A área de actuação dentro do município.\n\n2 - Os elementos referidos no número anterior passam a constar do registo nacional de guardas-nocturnos, a organizar pela DGAL, que é a entidade responsável, nos termos e para os efeitos previstos na Lei n.º 67/98, de 26 de Outubro, pelo tratamento e protecção dos dados pessoais enviados pelos municípios, os quais podem ser transmitidos às autoridades fiscalizadoras, quando solicitados.\n\n3 - O guarda-nocturno tem o direito de, a todo o tempo, verificar os seus dados pessoais na posse da DGAL e solicitar a sua rectificação quando os mesmos estejam incompletos ou inexactos.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671156": {
+   "fragment_id": "162671210",
+   "type": 11,
+   "heading": "Artigo 9.º-G — Lista de guardas-nocturnos",
+   "in_force_from": "2008-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-G — Lista de guardas-nocturnos\n\nA DGAL disponibiliza no seu sítio na Internet a lista de guardas-nocturnos devidamente licenciados, cuja publicitação é autorizada nos termos do presente decreto-lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671157": {
+   "fragment_id": "162671211",
+   "type": 11,
+   "heading": "Artigo 9.º-H — Segurança na informação",
+   "in_force_from": "2008-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-H — Segurança na informação\n\nA DGAL adopta as medidas técnicas e organizativas adequadas para proteger os dados contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizado, nos termos da Lei de Protecção de Dados Pessoais, devendo sempre ser protegidos, através de medidas de segurança específicas, adequadas ao tratamento de dados em redes abertas.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671158": {
+   "fragment_id": "162671212",
+   "type": 11,
+   "heading": "Artigo 9.º-I — Cartão identificativo de guarda-nocturno",
+   "in_force_from": "2008-07-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-I — Cartão identificativo de guarda-nocturno\n\n1 - No momento da atribuição da licença para o exercício da actividade, o município emite o cartão identificativo de guarda-nocturno.\n\n2 - O cartão de guarda-nocturno tem a mesma validade da licença para o exercício da actividade de guarda-nocturno.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671159": {
+   "fragment_id": "162654666",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma regula o regime jurídico do exercício e da fiscalização das seguintes actividades:\n\na) Guarda-nocturno;\n\nb) Venda ambulante de lotarias;\n\nc) Arrumador de automóveis;\n\nd) Realização de acampamentos ocasionais;\n\ne) Exploração de máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão;\n\nf) Realização de espectáculos desportivos e de divertimentos públicos nas vias, jardins e demais lugares públicos ao ar livre;\n\ng) Venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda;\n\nh) Realização de fogueiras e queimadas;\n\ni) (Revogada.)\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671163": {
+   "fragment_id": "162665806",
+   "type": 1,
+   "heading": "Capítulo VIII — Regime do exercício da actividade de exploração de máquinas de diversão",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "### Capítulo VIII — Regime do exercício da actividade de exploração de máquinas de diversão\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671160": {
+   "fragment_id": "162665807",
+   "type": 11,
+   "heading": "Artigo 35.º — Princípio geral",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 35.º — Princípio geral\n\n1 - A venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda não está sujeita a licenciamento, a autorização, a autenticação, a validação, a certificação, a actos emitidos na sequência de comunicações prévias com prazo, a registo ou a qualquer outro acto permissivo, nem a mera comunicação prévia.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671161": {
+   "fragment_id": "162665808",
+   "type": 11,
+   "heading": "Artigo 36.º — Requisitos",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 36.º — Requisitos\n\n1 - A venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda deve ser efectuada em estabelecimento privativo, com boas condições de apresentação e de higiene e ao qual o público tenha acesso, ou em secções de estabelecimentos de qualquer ramo de comércio que satisfaçam aqueles requisitos.\n\n2 - Não podem funcionar agências ou postos de venda a menos de 100 m das bilheteiras de qualquer casa ou recinto de espectáculos ou divertimentos públicos.\n\n3 - É obrigatória a afixação nas agências ou postos de venda, em lugar bem visível, das tabelas de preços de cada casa ou recinto cujos bilhetes comercializem.\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671164": {
+   "fragment_id": "162665809",
+   "type": 11,
+   "heading": "Artigo 37.º — Requerimentos",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 37.º — Requerimentos\n\n1 - Os requerimentos das licenças são entregues acompanhados de:\n\na) Certificado do registo criminal, quando se trate do primeiro requerimento e, posteriormente, sempre que for exigido;\n\nb) Documento comprovativo da autorização concedida pelo respectivo proprietário, no caso de a instalação ter lugar em estabelecimento de outro ramo de actividade não pertencente ao requerente.\n\n2 - Tratando-se de pedido de licenciamento a favor de sociedades comerciais, os elementos de identificação mencionados no n.º 2 do artigo 35.º devem respeitar aos titulares da gerência ou administração das mesmas.\n\n3 - A licença para instalar postos de venda só pode ser concedida às agências.\n\n4 - A licença é intransmissível e tem validade anual.\n\n5 - A apresentação do requerimento e o seu deferimento obedecem ao disposto no artigo 31.º\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671165": {
+   "fragment_id": "162665815",
+   "type": 11,
+   "heading": "Artigo 41.º — Licenciamento",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 41.º — Licenciamento\n\n1 - A realização de leilões em lugares públicos carece de licenciamento da câmara municipal.\n\n2 - Para os efeitos previstos no número anterior, são considerados lugares públicos os estabelecimentos comerciais e quaisquer recintos a que o público tenha acesso livre e gratuito.\n\n3 - Estão isentos de licença os leilões realizados directamente pelos serviços da Caixa Geral de Depósitos, dos tribunais e serviços da Administração Pública, em conformidade com a legislação aplicável.\n\n4 - A realização de leilões sem licença será imediatamente suspensa, sem prejuízo da instauração do processo de contra-ordenação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671162": {
+   "fragment_id": "162665823",
+   "type": 11,
+   "heading": "Artigo 47.º — Contra-ordenações",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 47.º — Contra-ordenações\n\n1 - Constituem contra-ordenações:\n\na) A violação dos deveres a que se referem as alíneas b), c), d), e) e i) do artigo 8.º, punida com coima de (euro) 30 a (euro) 170;\n\nb) A violação dos deveres a que se referem as alíneas a), f) e g) do artigo 5.º, punida com coima de (euro) 15 a (euro) 120;\n\nc) O não cumprimento do disposto na alínea h) do artigo 5.º, punida com coima de (euro) 30 a (euro) 120;\n\nd) A venda ambulante de lotaria sem licença, punida com coima de (euro) 60 a (euro) 120;\n\ne) A falta de cumprimento dos deveres de vendedor ambulante de lotaria, punida com coima de (euro) 80 a (euro) 150;\n\nf) O exercício da actividade de arrumador de automóveis sem licença ou fora do local nela indicado, bem como a falta de cumprimento das regras da actividade, punidos com coima de (euro) 60 a (euro) 300;\n\ng) A realização de acampamentos ocasionais sem licença, punida com coima de (euro) 150 a (euro) 200;\n\nh) A realização, sem licença, das actividades referidas no artigo 29.º, punida com coima de (euro) 25 a (euro) 200;\n\ni) A realização, sem licença, das actividades previstas no artigo 30.º, punida com coima de (euro) 150 a (euro) 220;\n\nj) (Revogada.)\n\nk) A venda de bilhetes por preço superior ao permitido ou fora dos locais permitidos, bem como a violação do disposto nas alíneas c) e d) do artigo 38.º, punidas com coima de (euro) 60 a (euro) 250;\n\nl) A realização, sem licença, das actividades previstas nos artigos 39.º e 40.º, punida com coima de (euro) 30 a (euro) 1000, quando da actividade proibida resulte perigo de incêndio, e de (euro) 30 a (euro) 270, nos demais casos;\n\nm) (Revogada.)\n\nn) O não cumprimento dos deveres resultantes do capítulo XI, punida com coima de (euro) 80 a (euro) 250.\n\n2 - A coima aplicada nos termos da alínea f) do número anterior pode ser substituída, a requerimento do condenado, pela prestação de trabalho a favor da comunidade, nos termos previstos no regime geral sobre ilícito de mera ordenação social.\n\n3 - A falta de exibição das licenças às entidades fiscalizadoras constitui contra-ordenação punida com coima de (euro) 70 a (euro) 200, salvo se estiverem temporariamente indisponíveis, por motivo atendível, e vierem a ser apresentadas ou for justificada a impossibilidade de apresentação no prazo de quarenta e oito horas.\n\n4 - A negligência e a tentativa são punidas.\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671166": {
+   "fragment_id": "162654666",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma regula o regime jurídico de acesso, exercício e fiscalização das seguintes atividades:\n\na) Guarda-nocturno;\n\nb) Venda ambulante de lotarias;\n\nc) Arrumador de automóveis;\n\nd) Realização de acampamentos ocasionais;\n\ne) Exploração de máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão;\n\nf) Realização de espectáculos desportivos e de divertimentos públicos nas vias, jardins e demais lugares públicos ao ar livre;\n\ng) Venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda;\n\nh) Realização de fogueiras e queimadas;\n\ni) (Revogada.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671167": {
+   "fragment_id": "162654667",
+   "type": 11,
+   "heading": "Artigo 2.º — Acesso e exercício das atividades",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 2.º — Acesso e exercício das atividades\n\n1 - O acesso às atividades referidas nas alíneas a), b), c), d), f) e h) do artigo anterior carece de licenciamento municipal.\n\n2 - As atividades referidas nas alíneas e) e g) do artigo anterior são de livre acesso.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671680": {
+   "fragment_id": "162665788",
+   "type": 1,
+   "heading": "Capítulo VI — Regime de exercício da atividade de exploração de máquinas de diversão",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "### Capítulo VI — Regime de exercício da atividade de exploração de máquinas de diversão\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671168": {
+   "fragment_id": "162665790",
+   "type": 11,
+   "heading": "Artigo 20.º — Registo",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 20.º — Registo\n\n1 - Nenhuma máquina submetida ao regime do presente capítulo pode ser posta em exploração sem que se encontre registada e os respetivos temas de jogo classificados.\n\n2 - O registo é promovido pelo proprietário da máquina junto do presidente da câmara territorialmente competente em razão do local em que se presume que seja colocada em exploração, através do balcão único eletrónico dos serviços referido no artigo 53.º-A.\n\n3 - (Revogado.)\n\n4 - O registo é titulado pelo comprovativo eletrónico de entrega no balcão único eletrónico dos serviços, bem como do comprovativo do pagamento das quantias eventualmente devidas, devendo ambos os documentos acompanhar a máquina a que respeitam.\n\n5 - As alterações de propriedade da máquina obrigam o adquirente a efetuar o averbamento respetivo, por comunicação no balcão único eletrónico dos serviços, que identifique o adquirente e o anterior proprietário, devendo o comprovativo da comunicação acompanhar a máquina a que respeita.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671169": {
+   "fragment_id": "162665791",
+   "type": 11,
+   "heading": "Artigo 21.º — Comunicação do registo",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 21.º — Comunicação do registo\n\nA comunicação de promoção do registo da máquina referido no n.º 2 do artigo anterior identifica o seu proprietário, o local de exploração pretendido e a classificação do tema de jogo respetivo pelo Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, I. P.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671170": {
+   "fragment_id": "162665792",
+   "type": 11,
+   "heading": "Artigo 22.º — Temas dos jogos",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 22.º — Temas dos jogos\n\n1 - A importação, fabrico, montagem e venda de máquinas de diversão obrigam à classificação dos respectivos temas de jogo.\n\n2 - A classificação dos temas de jogo é requerida pelo interessado ao Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, I. P., devendo o requerimento ser instruído com informação do respetivo jogo.\n\n3 - O Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, I. P., pode solicitar aos interessados a apresentação de outros elementos que considere necessários para apreciação do requerimento ou fazer depender a sua classificação de exame direto à máquina.\n\n4 - Deve acompanhar a máquina cópia da decisão de classificação do respetivo tema de jogo.\n\n5 - O proprietário de qualquer máquina pode substituir o tema ou temas de jogo autorizados por qualquer outro, desde que previamente classificado pelo Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, I. P.\n\n6 - A cópia do documento que classifica o novo tema de jogo autorizado deve acompanhar a máquina de diversão.\n\n7 - A substituição referida no n.º 5 deve ser comunicada pelo proprietário ao presidente da câmara no balcão único eletrónico dos serviços.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671683": {
+   "fragment_id": "162665793",
+   "type": 11,
+   "heading": "Artigo 23.º — Licença de exploração",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 23.º — Licença de exploração\n\n1 - A máquina só pode ser posta em exploração desde que disponha da correspondente licença de exploração atribuída pela câmara municipal e seja acompanhada desse documento.\n\n2 - A licença de exploração é requerida por períodos anuais ou semestrais pelo proprietário da máquina, devendo o pedido ser instruído com os seguintes documentos:\n\na) Título de registo da máquina, que será devolvido;\n\nb) Documento comprovativo do pagamento do imposto sobre o rendimento respeitante ao ano anterior;\n\nc) Documento comprovativo do pagamento dos encargos devidos a instituições de segurança social;\n\nd) Licença de recinto, emitida pela Direcção-Geral dos Espectáculos, quando devida.\n\n3 - A câmara municipal pode recusar a concessão ou a renovação da licença de exploração, sempre que tal medida se justifique.\n\n4 - A transferência de máquinas de diversão para local diferente do constante da licença de exploração deve ser precedida de comunicação ao presidente da câmara respectivo.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671171": {
+   "fragment_id": "162665794",
+   "type": 11,
+   "heading": "Artigo 24.º — Condições de exploração",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 24.º — Condições de exploração\n\n1 - (Revogado.)\n\n2 - As máquinas só podem ser exploradas no interior de recinto ou estabelecimento que não se situe a menos de 300 metros de estabelecimentos pré-existentes de educação pré-escolar ou de ensino básico ou secundário, públicos ou privados.\n\n3 - A distância prevista no número anterior é aferida por referência à distância percorrida pelo caminho pedonal mais curto, obedecendo às regras de circulação pedonal constantes do Código da Estrada.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671682": {
+   "fragment_id": "162665795",
+   "type": 11,
+   "heading": "Artigo 25.º — Condicionamentos",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 25.º — Condicionamentos\n\n1 - A prática de jogos em máquinas reguladas pelo presente capítulo é interdita a menores de 16 anos, salvo quando, tendo mais de 12 anos, sejam acompanhados por quem exerce o poder paternal.\n\n2 - É obrigatória a afixação, na própria máquina, em lugar bem visível, de inscrição ou dístico contendo os seguintes elementos:\n\na) Número de registo;\n\nb) Nome do proprietário;\n\nc) Revogada;\n\nd) Idade exigida para a sua utilização;\n\ne) Nome do fabricante;\n\nf) Tema de jogo;\n\ng) Tipo de máquina;\n\nh) Número de fábrica.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671684": {
+   "fragment_id": "162665798",
+   "type": 11,
+   "heading": "Artigo 28.º — Modelos",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 28.º — Modelos\n\nOs impressos próprios referidos no presente capítulo são aprovados por portaria do Ministro das Cidades, Ordenamento do Território e Ambiente.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671681": {
+   "fragment_id": "162665806",
+   "type": 1,
+   "heading": "Capítulo VIII — Regime de exercício da atividade de agências de venda de bilhetes para espetáculos públicos",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30",
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "### Capítulo VIII — Regime de exercício da atividade de agências de venda de bilhetes para espetáculos públicos\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671172": {
+   "fragment_id": "162665808",
+   "type": 11,
+   "heading": "Artigo 36.º — Requisitos",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 36.º — Requisitos\n\n1 - A venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda deve ser efectuada em estabelecimento privativo, com boas condições de apresentação e de higiene e ao qual o público tenha acesso, ou em secções de estabelecimentos de qualquer ramo de comércio que satisfaçam aqueles requisitos.\n\n2 - (Revogado.)\n\n3 - É obrigatória a afixação nas agências ou postos de venda, em lugar bem visível, das tabelas de preços de cada casa ou recinto cujos bilhetes comercializem.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671173": {
+   "fragment_id": "162665810",
+   "type": 11,
+   "heading": "Artigo 38.º — Proibições",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 38.º — Proibições\n\nNas agências e postos de venda é proibido:\n\na) Cobrar quantia superior em 10% à do preço de venda ao público dos bilhetes;\n\nb) Cobrar importância superior em 20% à do preço de venda ao público dos bilhetes, no caso de entrega ao domicílio;\n\nc) Fazer publicidade, por qualquer meio, dentro de um raio de 100 metros em torno das bilheteiras sem fazer expressa referência à diferença de preço praticada;\n\nd) Recusar a venda de qualquer bilhete em seu poder.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671174": {
+   "fragment_id": "162665823",
+   "type": 11,
+   "heading": "Artigo 47.º — Contra-ordenações",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 47.º — Contra-ordenações\n\n1 - Constituem contra-ordenações:\n\na) A violação dos deveres a que se referem as alíneas b), c), d), e) e i) do artigo 8.º, punida com coima de (euro) 30 a (euro) 170;\n\nb) A violação dos deveres a que se referem as alíneas a), f) e g) do artigo 5.º, punida com coima de (euro) 15 a (euro) 120;\n\nc) O não cumprimento do disposto na alínea h) do artigo 5.º, punida com coima de (euro) 30 a (euro) 120;\n\nd) A venda ambulante de lotaria sem licença, punida com coima de (euro) 60 a (euro) 120;\n\ne) A falta de cumprimento dos deveres de vendedor ambulante de lotaria, punida com coima de (euro) 80 a (euro) 150;\n\nf) O exercício da actividade de arrumador de automóveis sem licença ou fora do local nela indicado, bem como a falta de cumprimento das regras da actividade, punidos com coima de (euro) 60 a (euro) 300;\n\ng) A realização de acampamentos ocasionais sem licença, punida com coima de (euro) 150 a (euro) 200;\n\nh) A realização, sem licença, das actividades referidas no artigo 29.º, punida com coima de (euro) 25 a (euro) 200;\n\ni) A realização, sem licença, das actividades previstas no artigo 30.º, punida com coima de (euro) 150 a (euro) 220;\n\nj) (Revogada.)\n\nk) A violação de qualquer dos requisitos constantes do artigo 38.º, punida com coima de (euro) 60 a (euro) 250;\n\nl) A realização, sem licença, das actividades previstas nos artigos 39.º e 40.º, punida com coima de (euro) 30 a (euro) 1000, quando da actividade proibida resulte perigo de incêndio, e de (euro) 30 a (euro) 270, nos demais casos;\n\nm) (Revogada.)\n\nn) O não cumprimento dos deveres resultantes do capítulo XI, punida com coima de (euro) 80 a (euro) 250.\n\n2 - A coima aplicada nos termos da alínea f) do número anterior pode ser substituída, a requerimento do condenado, pela prestação de trabalho a favor da comunidade, nos termos previstos no regime geral sobre ilícito de mera ordenação social.\n\n3 - A falta de exibição das licenças às entidades fiscalizadoras constitui contra-ordenação punida com coima de (euro) 70 a (euro) 200, salvo se estiverem temporariamente indisponíveis, por motivo atendível, e vierem a ser apresentadas ou for justificada a impossibilidade de apresentação no prazo de quarenta e oito horas.\n\n4 - A negligência e a tentativa são punidas.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671675": {
+   "fragment_id": "162665824",
+   "type": 11,
+   "heading": "Artigo 48.º — Máquinas de diversão",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 48.º — Máquinas de diversão\n\n1 - As infracções do capítulo VI do presente diploma constituem contra-ordenação punida nos termos seguintes:\n\na) Exploração de máquinas sem registo, com coima de (euro) 1500 a (euro) 2500 por cada máquina;\n\nb) Falsificação do título de registo, com coima de (euro) 1500 a (euro) 2500;\n\nc) Exploração de máquinas sem que sejam acompanhadas dos documentos previstos nos n.os 4 e 5 do artigo 20.º e nos n.os 4 e 6 do artigo 22.º, com coima de (euro) 120 a (euro) 200 por cada máquina;\n\nd) Desconformidade com os elementos constantes do título de registo por falta de averbamento de novo proprietário, com coima de (euro) 120 a (euro) 500 por cada máquina;\n\ne) Exploração de máquinas sem que o respectivo tema ou circuito de jogo tenha sido classificado pela Inspecção-Geral de Jogos, com coima de (euro) 500 a (euro) 750 por cada máquina;\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) (Revogada.)\n\ni) (Revogada.)\n\nj) Utilização de máquinas de diversão por pessoas com idade inferior à estabelecida, com coima de (euro) 500 a (euro) 2500;\n\nk) Falta ou afixação indevida da inscrição ou dístico referido no n.º 2 do artigo 25.º, bem como a omissão de qualquer dos seus elementos, com coima de (euro) 270 a (euro) 1100 por cada máquina.\n\n2 - A negligência e a tentativa são punidas.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671676": {
+   "fragment_id": "162671214",
+   "type": 11,
+   "heading": "Artigo 53.º-A — Tramitação desmaterializada",
+   "in_force_from": "2012-08-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+   ],
+   "markdown": "###### Artigo 53.º-A — Tramitação desmaterializada\n\n1 - Os procedimentos administrativos previstos no presente diploma são efetuados no balcão único eletrónico dos serviços, referido nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - Quando, por motivos de indisponibilidade da plataforma eletrónica, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30"
+  },
+  "162671677": {
+   "fragment_id": "162665832",
+   "type": 11,
+   "heading": "Artigo 54.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Norma revogatória\n\nSão revogadas as normas do Decreto-Lei n.º 316/95, de 28 de Novembro, que contrariem o disposto no presente diploma."
+  },
+  "162671678": {
+   "fragment_id": "162665833",
+   "type": 11,
+   "heading": "Artigo 55.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Aplicação às Regiões Autónomas\n\nA aplicação do presente diploma às Regiões Autónomas dos Açores e da Madeira faz-se sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio e das adaptações que lhe venham a ser introduzidas por diploma regional das respectivas assembleias legislativas regionais."
+  },
+  "162671679": {
+   "fragment_id": "162665834",
+   "type": 11,
+   "heading": "Artigo 56.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Entrada em vigor\n\nO presente diploma entra em vigor em 1 de Janeiro de 2003."
+  },
+  "162671689": {
+   "fragment_id": "162665787",
+   "type": 11,
+   "heading": "Artigo 18.º — Licença",
+   "in_force_from": "2015-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2015 - Diário da República n.º 71/2015, Série I de 2015-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2015-66970718), em vigor a partir de 2015-04-18"
+   ],
+   "markdown": "###### Artigo 18.º — Licença\n\n1 - A realização de acampamentos ocasionais fora dos locais adequados à prática do campismo e caravanismo fica sujeita à obtenção de licença da câmara municipal, devendo ser requerida pelo responsável do acampamento e dependendo a sua concessão da autorização expressa do proprietário do prédio.\n\n2 - A realização de qualquer acampamento ocasional fica sujeita à emissão de parecer favorável das seguintes entidades:\n\na) Delegado de saúde;\n\nb) Comandante da PSP ou da GNR, consoante os casos.\n\n3 - A licença é concedida por um período de tempo determinado, nunca superior ao período de tempo autorizado expressamente pelo proprietário do prédio, podendo ser revogada a qualquer momento.\n\n4 - A realização de qualquer acampamento ocasional por parte de membros das organizações reconhecidas pela World Association of Girl Guides and Girl Scouts e pela World Organization of the Scout Movement fica sujeita a comunicação prévia à câmara municipal, ao delegado de saúde e ao comandante da PSP ou da GNR, consoante os casos, bem como à autorização do proprietário do prédio, sem prejuízo do cumprimento das regras a que se refere o n.º 3 do artigo 23.º do Decreto-Lei n.º 124/2006, de 28 de junho, alterado pelos Decretos-Leis n.os 15/2009, de 14 de janeiro, 17/2009, de 14 de janeiro, 114/2011, de 30 de novembro, e 83/2014, de 23 de maio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2015 - Diário da República n.º 71/2015, Série I de 2015-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2015-66970718), em vigor a partir de 2015-04-18"
+  },
+  "162671690": {
+   "fragment_id": "162654666",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma regula o regime jurídico de acesso, exercício e fiscalização das seguintes atividades:\n\na) Revogada;\n\nb) Venda ambulante de lotarias;\n\nc) Arrumador de automóveis;\n\nd) Realização de acampamentos ocasionais;\n\ne) Exploração de máquinas automáticas, mecânicas, eléctricas e electrónicas de diversão;\n\nf) Realização de espectáculos desportivos e de divertimentos públicos nas vias, jardins e demais lugares públicos ao ar livre;\n\ng) Venda de bilhetes para espectáculos ou divertimentos públicos em agências ou postos de venda;\n\nh) Realização de fogueiras e queimadas;\n\ni) (Revogada.)\n\n> Alterado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 204/2012 - Diário da República n.º 167/2012, Série I de 2012-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2012-174799), em vigor a partir de 2012-08-30\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "162671691": {
+   "fragment_id": "162654670",
+   "type": 11,
+   "heading": "Artigo 4.º — Criação e extinção",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+   ],
+   "markdown": "###### Artigo 4.º — Criação e extinção\n\nA criação e a extinção do serviço de guardas-nocturnos em cada localidade e a fixação e modificação das áreas de actuação de cada guarda são da competência da câmara municipal, ouvidos os comandantes de brigada da GNR ou de polícia da PSP, conforme a localização da área a vigiar.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+  },
+  "162671692": {
+   "fragment_id": "162654671",
+   "type": 11,
+   "heading": "Artigo 5.º — Licença",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+   ],
+   "markdown": "###### Artigo 5.º — Licença\n\n1 - É da competência do presidente da câmara a atribuição da licença para o exercício da actividade de guarda-nocturno.\n\n2 - A licença é intransmissível e tem validade anual.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+  },
+  "162671693": {
+   "fragment_id": "162654672",
+   "type": 11,
+   "heading": "Artigo 6.º — Pedido de licenciamento",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+   ],
+   "markdown": "###### Artigo 6.º — Pedido de licenciamento\n\n1 - O pedido de licenciamento é dirigido, sob a forma de requerimento, ao presidente da câmara e nele devem constar o nome e o domicílio do requerente.\n\n2 - O requerimento deve ser instruído com cópia do bilhete de identidade e do cartão de contribuinte, certificado do registo criminal, documento comprovativo das habilitações literárias e demais documentos a fixar por regulamento municipal.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+  },
+  "162671694": {
+   "fragment_id": "162654673",
+   "type": 11,
+   "heading": "Artigo 7.º — Indeferimento",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+   ],
+   "markdown": "###### Artigo 7.º — Indeferimento\n\nO pedido de licenciamento deve ser indeferido quando o interessado não for considerado pessoa idónea para o exercício da actividade de guarda-nocturno.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+  },
+  "162671695": {
+   "fragment_id": "162654674",
+   "type": 11,
+   "heading": "Artigo 8.º — Deveres",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+   ],
+   "markdown": "###### Artigo 8.º — Deveres\n\nO guarda-nocturno deve:\n\na) Apresentar-se pontualmente no posto ou esquadra no início e termo do serviço;\n\nb) Permanecer na área em que exerce a sua actividade durante o período de prestação de serviço e informar os seus clientes do modo mais expedito para ser contactado ou localizado;\n\nc) Prestar o auxílio que lhe for solicitado pelas forças e serviços de segurança e de protecção civil;\n\nd) Frequentar anualmente um curso ou instrução de adestramento e reciclagem que for organizado pelas forças de segurança com competência na respectiva área;\n\ne) Usar, em serviço, o uniforme e o distintivo próprios;\n\nf) Usar de urbanidade e aprumo no exercício das suas funções;\n\ng) Tratar com respeito e prestar auxílio a todas as pessoas que se lhe dirijam ou careçam de auxílio;\n\nh) Fazer anualmente, no mês de Fevereiro, prova de que tem regularizada a sua situação contributiva para com a segurança social;\n\ni) Não faltar ao serviço sem motivo sério, devendo, sempre que possível, solicitar a sua substituição com cinco dias úteis de antecedência.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+  },
+  "162671696": {
+   "fragment_id": "162665775",
+   "type": 11,
+   "heading": "Artigo 9.º — Regulamentação",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+   ],
+   "markdown": "###### Artigo 9.º — Regulamentação\n\nO regime da actividade de guarda-nocturno será objecto de regulamentação municipal.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24"
+  },
+  "162671697": {
+   "fragment_id": "162671204",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Compensação financeira",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-A — Compensação financeira\n\nA actividade do guarda-nocturno é compensada pelas contribuições voluntárias das pessoas, singulares ou colectivas, em benefício de quem é exercida.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671698": {
+   "fragment_id": "162671205",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Férias, folgas e substituição",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-B — Férias, folgas e substituição\n\n1 - O guarda-nocturno descansa do exercício da sua actividade uma noite após cada cinco noites consecutivas de trabalho.\n\n2 - Uma vez por mês, o guarda-nocturno descansa do exercício da sua actividade duas noites.\n\n3 - No início de cada mês, o guarda-nocturno deve informar o comando da força de segurança responsável pela sua área de actuação de quais as noites em que irá descansar.\n\n4 - Até ao dia 15 de Abril de cada ano, o guarda-nocturno deve informar o comando da força de segurança responsável pela sua área do período ou períodos em que irá gozar as suas férias.\n\n5 - Nas noites de descanso, durante os períodos de férias, e em caso de falta do guarda-nocturno, a actividade da respectiva área é exercida, em acumulação, por um guarda-nocturno da área contígua, para o efeito convocado pelo comandante da força de segurança territorialmente competente, sob proposta do guardaa substituir.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671699": {
+   "fragment_id": "162671206",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Equipamento",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-C — Equipamento\n\n1 - O equipamento é composto por cinturão de cabedal preto, bastão curto e pala de suporte, arma, rádio, apito e algemas.\n\n2 - O guarda-nocturno está sujeito ao regime geral de uso e porte de arma, podendo recorrer na sua actividade profissional, designadamente, a aerossóis e armas eléctricas, meios de defesa não letais da classe E, nos termos da Lei n.º 5/2006, de 23 de Fevereiro.\n\n3 - Para efeitos de fiscalização, a identificação das armas que sejam utilizadas ao abrigo do disposto no presente artigo é sempre comunicada à força de segurança territorialmente competente, devendo ser actualizada caso sofra qualquer alteração.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671700": {
+   "fragment_id": "162671207",
+   "type": 11,
+   "heading": "Artigo 9.º-D — Veículos",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-D — Veículos\n\nOs veículos em que transitam os guardas-nocturnos devem encontrar-se devidamente identificados.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671701": {
+   "fragment_id": "162671208",
+   "type": 11,
+   "heading": "Artigo 9.º-E — Modelos",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-E — Modelos\n\n1 - O modelo de cartão identificativo de guarda-nocturno é definido por portaria conjunta dos membros do Governo responsáveis pelas áreas das autarquias locais e da administração interna.\n\n2 - Os modelos de uniforme, crachá e identificador de veículo são definidos por portaria do membro do Governo responsável pela área da administração interna.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671702": {
+   "fragment_id": "162671209",
+   "type": 11,
+   "heading": "Artigo 9.º-F — Registo nacional de guardas-nocturnos",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-F — Registo nacional de guardas-nocturnos\n\n1 - Tendo em vista a organização do registo nacional de guardas-nocturnos, no momento da atribuição da licença para o exercício da actividade de guarda-nocturno, cada município comunica à Direcção-Geral das Autarquias Locais, abreviadamente designada por DGAL, sempre que possível por via electrónica e automática, os seguintes elementos:\n\na) O nome completo do guarda-nocturno;\n\nb) O número do cartão identificativo de guarda-nocturno;\n\nc) A área de actuação dentro do município.\n\n2 - Os elementos referidos no número anterior passam a constar do registo nacional de guardas-nocturnos, a organizar pela DGAL, que é a entidade responsável, nos termos e para os efeitos previstos na Lei n.º 67/98, de 26 de Outubro, pelo tratamento e protecção dos dados pessoais enviados pelos municípios, os quais podem ser transmitidos às autoridades fiscalizadoras, quando solicitados.\n\n3 - O guarda-nocturno tem o direito de, a todo o tempo, verificar os seus dados pessoais na posse da DGAL e solicitar a sua rectificação quando os mesmos estejam incompletos ou inexactos.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671703": {
+   "fragment_id": "162671210",
+   "type": 11,
+   "heading": "Artigo 9.º-G — Lista de guardas-nocturnos",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-G — Lista de guardas-nocturnos\n\nA DGAL disponibiliza no seu sítio na Internet a lista de guardas-nocturnos devidamente licenciados, cuja publicitação é autorizada nos termos do presente decreto-lei.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671704": {
+   "fragment_id": "162671211",
+   "type": 11,
+   "heading": "Artigo 9.º-H — Segurança na informação",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-H — Segurança na informação\n\nA DGAL adopta as medidas técnicas e organizativas adequadas para proteger os dados contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizado, nos termos da Lei de Protecção de Dados Pessoais, devendo sempre ser protegidos, através de medidas de segurança específicas, adequadas ao tratamento de dados em redes abertas.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "162671705": {
+   "fragment_id": "162671212",
+   "type": 11,
+   "heading": "Artigo 9.º-I — Cartão identificativo de guarda-nocturno",
+   "in_force_from": "2015-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+   ],
+   "markdown": "###### Artigo 9.º-I — Cartão identificativo de guarda-nocturno\n\n1 - No momento da atribuição da licença para o exercício da actividade, o município emite o cartão identificativo de guarda-nocturno.\n\n2 - O cartão de guarda-nocturno tem a mesma validade da licença para o exercício da actividade de guarda-nocturno.\n\n> Revogado pelo/a Artigo 42.º do/a [Lei n.º 105/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/lei/105-2015-70095691), em vigor a partir de 2015-10-24\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 114/2008 - Diário da República n.º 125/2008, Série I de 2008-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), em vigor a partir de 2008-07-06"
+  },
+  "172791157": {
+   "fragment_id": "162665812",
+   "type": 11,
+   "heading": "Artigo 39.º — Fogueiras",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 156/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2004-517473), em vigor a partir de 2002-12-23"
+   ],
+   "markdown": "###### Artigo 39.º — Fogueiras\n\n1 - (Revogado.)\n\n2 - Pode a câmara municipal licenciar as tradicionais fogueiras de Natal e dos santos populares, estabelecendo as condições para a sua efectivação e tendo em conta as precauções necessárias à segurança das pessoas e bens.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 156/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2004-517473), em vigor a partir de 2002-12-23"
+  }
+ }
+}

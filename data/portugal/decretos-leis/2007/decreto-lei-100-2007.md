@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:520205:por
+title: Decreto-Lei n.º 100/2007
+short_title: null
+summary: Procede à primeira alteração ao Decreto-Lei n.º 195/99, de 8 de Junho, estabelecendo um prazo para os consumidores
+  reclamarem o valor das cauções junto das entidades prestadoras de serviços públicos essenciais e dando solução às situações
+  em que a caução não foi reclamada ou restituída
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 100/2007
+official_date: null
+publication_date: '2007-04-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 65/2007, Série I de 2007-04-02
+  number: '65'
+  series: I
+  supplement: null
+  pages: 2041 - 2043
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/06500/20412043.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/100/2007/04/02/p/dre/pt/html
+  oj: null
+  dre: '520205'
+  dre_path: /dr/detalhe/decreto-lei/100-2007-520205
+  internal: pt:dre:520205:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2007-520205
+  metadata_url: https://data.dre.pt/eli/dec-lei/100/2007/04/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2007-520205
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-11-22T00:00:00Z'
+integrity:
+  source_sha256: 01d78a5b5bfcaec99a1531166e5640cec2bbc1cd49e307898a398e56433fcb30
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-100-520205.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Garantia
+- Energia Elétrica
+- Consumidor
+- Gás
+- Instituto do Consumidor
+- Publicitação
+- Instituto Regulador de Águas e Resíduos
+- Serviço Público
+- Proteção do Consumidor
+- Reclamação
+- Reembolso
+- Abastecimento de Água
+relationships:
+- type: amended_by
+  target: pt:dre:224615907:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/195/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/195/1999/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1996/07/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1996/07/26/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 100/2007
+
+de 2 de Abril
+
+O [Decreto-Lei n.º 195/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1999-311254), de 8 de Junho, veio estabelecer a proibição de exigência de caução para garantir o cumprimento de obrigações decorrentes do fornecimento dos serviços públicos essenciais previstos na [Lei n.º 23/96](https://diariodarepublica.pt/dr/detalhe/lei/23-1996-408366), de 26 de Julho, excepto nas situações de restabelecimento do serviço na sequência de interrupção decorrente de incumprimento contratual imputável ao consumidor.
+
+A par desta proibição, o referido decreto-lei previu no seu artigo 6.º que as cauções prestadas pelos consumidores até à data da sua entrada em vigor deviam ser restituídas de acordo com planos a estabelecer pelas entidades reguladoras dos sectores em causa.
+
+Os referidos planos foram fixados por despachos das respectivas entidades reguladoras, tendo sido realizadas as operações de reembolso das cauções junto dos consumidores.
+
+Contudo, da análise da execução dos planos de devolução das cauções resulta que uma parte considerável do montante prestado pelos consumidores se encontra ainda hoje na posse das entidades prestadoras de serviços públicos essenciais.
+
+Este facto deve-se, fundamentalmente, à dificuldade, e por vezes impossibilidade, de identificação e localização dos titulares do direito ao reembolso ou seus herdeiros, por parte das entidades prestadoras de serviços públicos essenciais, nomeadamente por ausência de registos individualizados dos titulares do direito à restituição da caução, bem como devido à inexistência de uma data limite para a apresentação de reclamações por parte dos consumidores, uma vez que, de acordo com os planos de devolução fixados, os consumidores podem, em qualquer momento, reclamar junto das entidades prestadoras do serviço as cauções que prestaram e que não foram devolvidas no âmbito do mencionado plano.
+
+Considerando que uma parte significativa deste montante não pode ser, pelas razões expostas, objecto de devolução, importa estabelecer um prazo durante o qual os consumidores podem ainda reclamar as cauções prestadas e dar solução às situações em que a caução não foi reclamada, determinando que os montantes não devolvidos revertem para um fundo a administrar pelo Instituto do Consumidor, I. P., organismo incumbido de exercer a política de salvaguarda dos direitos e interesses dos consumidores, destinado ao financiamento de mecanismos extrajudiciais de acesso à justiça pelos consumidores e de projectos de âmbito nacional, regional ou local de promoção dos direitos dos consumidores.
+
+Foi promovida a audição do Conselho Nacional de Consumo.
+
+Foram ouvidas a União Geral dos Consumidores, a Associação Portuguesa para a Defesa do Consumidor, a Associação Portuguesa de Consumidores dos Media, a Confederação Nacional das Associações de Família, a Associação Portuguesa de Direito do Consumo, a Associação de Consumidores de Portugal e a Associação Portuguesa de Bancos.
+
+Foram ainda ouvidos a Associação Nacional de Municípios Portugueses, a Entidade Reguladora dos Serviços Energéticos, o Instituto Regulador de Águas e Resíduos e a Direcção-Geral de Geologia e Energia.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração do [Decreto-Lei n.º 195/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1999-311254), de 8 de Junho
+
+Os artigos 1.º e 6.º do [Decreto-Lei n.º 195/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1999-311254), de 8 de Junho, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - O disposto nos números anteriores aplica-se às autarquias locais.
+
+###### Artigo 6.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Se a caução não tiver sido restituída no decurso do plano mencionado no n.º 1, a entidade prestadora do serviço deve elaborar, no prazo e nas condições a fixar pelas entidades mencionadas no n.º 3 do artigo 2.º, uma lista dos consumidores a quem a caução não foi restituída com a indicação dos motivos.
+
+6 - A entidade prestadora do serviço procede à afixação de editais e à publicação de anúncios da lista referida no número anterior, indicando aos consumidores o direito de reaverem o valor da caução prestada, o prazo para o fazerem e o modo de proceder, incluindo os documentos que devem apresentar para obtenção do mesmo.
+
+7 - Os editais são afixados nas juntas de freguesia correspondentes aos locais de fornecimento do serviço e os anúncios, que reproduzem o teor dos editais, são publicados em dois dos jornais de maior tiragem nacional.
+
+8 - O consumidor deve reclamar a caução no prazo de 180 dias a contar da data da afixação do edital ou da publicação do anúncio, consoante o último facto ocorrido.
+
+9 - O edital referido nos n.os 6 e 8 deve ser objecto de uma ampla divulgação, nomeadamente através da:
+
+a) Afixação, de forma visível, nas instalações de atendimento público da entidade prestadora do serviço;
+
+b) Publicitação nas facturas enviadas aos consumidores;
+
+c) Publicitação nos respectivos sítios na Internet da entidade prestadora do serviço.
+
+10 - A reclamação da caução junto da entidade prestadora do serviço deve ser instruída com os documentos que comprovem a titularidade do respectivo direito.»
+
+###### Artigo 2.º — Aditamento ao [Decreto-Lei n.º 195/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1999-311254), de 8 de Junho
+
+Ao [Decreto-Lei n.º 195/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1999-311254), de 8 de Junho, são aditados os artigos 6.º-A, 6.º-B e 6.º-C com a seguinte redacção:
+
+«Artigo 6.º-A
+
+Deveres especiais dos prestadores de serviços
+
+1 - Os prestadores dos serviços abrangidos pelo presente decreto-lei obedecem a um dever especial de colaboração, permitindo, designadamente, o acesso e a consulta dos registos contabilísticos para efeitos de identificação dos consumidores a quem não tenha sido restituída a caução.
+
+2 - Os prestadores dos serviços devem informar as respectivas entidades reguladoras sobre o número de processos de restituição de caução concluídos, o montante total restituído, bem como os processos não concluídos e respectivos montantes, apresentando as razões que estiveram na origem deste facto.
+
+3 - Quando as cauções tenham sido recebidas por municípios que tenham posteriormente atribuído a exploração e a gestão dos seus sistemas municipais às actuais entidades prestadoras do serviço, ficam aqueles municípios obrigados a entregar a estas entidades os montantes das cauções, bem como a lista identificativa dos consumidores a que as mesmas respeitam.
+
+###### Artigo 6.º-B — Destino das cauções não restituídas
+
+1 - Os montantes relativos às cauções não reclamadas nos prazos e nos termos mencionados, que não tenham sito restituídas aos consumidores, ao abrigo do artigo 6.º, revertem para um fundo a administrar pelo Instituto do Consumidor, I. P., destinado ao financiamento de mecanismos extrajudiciais de acesso à justiça pelos consumidores e de projectos de âmbito nacional, regional ou local de promoção dos direitos dos consumidores e a constituir nos termos a definir por portaria conjunta dos ministros responsáveis pelas áreas das finanças e da defesa do consumidor.
+
+2 - Cabe à entidade reguladora dos respectivos serviços fixar o procedimento de modo que, nos dois meses posteriores ao prazo previsto no n.º 8 do artigo 6.º, a entidade que assegura o fornecimento deposite em conta à ordem do Instituto do Consumidor, I. P., os montantes relativos às cauções não reclamadas.
+
+3 - Para efeitos do disposto no número anterior, o Instituto Regulador de Água e Resíduos é considerado a entidade reguladora do serviço de fornecimento de água, independentemente do regime em que este é prestado e da entidade que o disponibiliza.
+
+4 - A gestão do fundo a que se refere o n.º 1 deste artigo é apoiada por um órgão consultivo composto por representantes dos operadores intervenientes na captação das cauções e de associações representativas de consumidores, cuja composição global, incluindo os municípios, é definida por portaria do ministro responsável pela área da defesa do consumidor.
+
+###### Artigo 6.º-C — Responsabilidade do Instituto do Consumidor, I. P.
+
+Cumprido o estabelecido no artigo anterior, se a caução não tiver sido restituída pelas entidades que asseguram o fornecimento de serviços públicos essenciais, o consumidor pode reclamar o respectivo montante junto do Instituto do Consumidor, I. P., nos cinco anos subsequentes ao termo do prazo estabelecido no n.º 8 do artigo 6.º»
+
+###### Artigo 3.º — Execução
+
+As entidades referidas no n.º 3 do artigo 2.º do [Decreto-Lei n.º 195/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1999-311254), de 8 de Junho, devem proceder à fixação dos elementos a que se refere o n.º 5 do artigo 6.º do [Decreto-Lei n.º 195/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-1999-311254), de 8 de Junho, na redacção dada pelo presente decreto-lei, até 90 dias após a data de entrada em vigor deste decreto-lei, prevendo, nomeadamente, a possibilidade de a restituição das cauções se efectuar por compensação de débitos nos contratos activos ou em execução.
+
+Visto e aprovado em Conselho de Ministros de 18 de Janeiro de 2007. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Emanuel Augusto dos Santos - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Paulo Jorge Oliveira Ribeiro de Campos.
+
+**Promulgado em 19 de Março de 2007.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 21 de Março de 2007.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

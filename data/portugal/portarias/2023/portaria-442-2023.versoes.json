@@ -1,0 +1,341 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:799214995:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-798709706",
+ "dre_path": "/dr/detalhe/portaria/442-2023-799214995",
+ "source_lastmod": "2025-03-03",
+ "versions": [
+  {
+   "date": "2023-12-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "807860515",
+    "807860516",
+    "807860517",
+    "807860518",
+    "807860519",
+    "807860520",
+    "807860521",
+    "807860522",
+    "807860525",
+    "807860526",
+    "807860527",
+    "807860528",
+    "807860529",
+    "807860530",
+    "807860531",
+    "807860532"
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:909469973:por",
+     "title": "Portaria n.º 75/2025/1",
+     "published": "2025-03-03",
+     "dre_path": "/dr/detalhe/portaria/75-2025-909469973"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "807860515",
+    "807860516",
+    "909594557",
+    "807860518",
+    "807860519",
+    "807860520",
+    "807860521",
+    "807860522",
+    "808121634",
+    "808121635",
+    "808121636",
+    "909595377",
+    "909595378",
+    "909595379",
+    "808121640",
+    "808121641",
+    "909595380",
+    "909595381",
+    "808121644",
+    "807860525",
+    "807860526",
+    "807860527",
+    "909595382",
+    "909595383",
+    "807860530",
+    "807860531",
+    "807860532"
+   ]
+  }
+ ],
+ "fragments": {
+  "807860515": {
+   "fragment_id": "798709707",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 442/2023\n\nde 19 de dezembro\n\nSumário: Aprova o Regulamento do Concurso de Admissão ao Curso de Formação Complementar de Oficiais (CFCO) para ingresso na classe de técnicos superiores navais.\n\nO Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, na sua redação atual, estabelece no n.º 3 do artigo 202.º que o ingresso na classe de técnicos superiores navais (TSN), na categoria de oficial, é efetuado de entre civis ou militares habilitados com o grau de mestre, admitidos por concurso regulado por diploma próprio e após conclusão com aproveitamento do curso de formação de oficiais respetivo.\n\nA classe de TSN dos quadros permanentes da Marinha vem sendo alimentada, desde 1 de setembro de 2001, nos termos da Portaria n.º 1129/2000, de 29 de novembro, com as alterações introduzidas pela Portaria n.º 853/2009, de 11 de agosto.\n\nDecorridos sensivelmente 22 anos desde a sua publicação, impõe-se rever as normas do concurso de admissão ao Curso de Formação Complementar de Oficiais (CFCO) que habilita ao ingresso na categoria de oficiais dos quadros permanentes, na classe de TSN, bem como proceder à harmonização de diversos aspetos relativos ao concurso com os de outros procedimentos concursais em vigor na Marinha.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 7.º da Lei do Serviço Militar, aprovada pela Lei n.º 174/99, de 21 de setembro, na sua redação atual, e do disposto no n.º 3 do artigo 202.º do EMFAR, manda o Governo, pela Ministra da Defesa Nacional, o seguinte:"
+  },
+  "807860516": {
+   "fragment_id": "798709708",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as condições de ingresso na classe de técnicos superiores navais (TSN) e regula o concurso de admissão ao Curso de Formação Complementar de Oficiais (CFCO) para ingresso na classe de TSN, na categoria de oficiais dos quadros permanentes da Marinha."
+  },
+  "807860517": {
+   "fragment_id": "798709709",
+   "type": 11,
+   "heading": "Artigo 2.º — Ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ingresso\n\n1 - O ingresso na classe de TSN é feito no posto de subtenente, após frequência com aproveitamento do CFCO, ministrado na Escola Naval, ficando os militares graduados no posto que detêm à data de ingresso, quando tenham posto superior.\n\n2 - Os militares admitidos ao CFCO são graduados no posto de subtenente à data do seu início, salvo se tiverem posto igual ou superior."
+  },
+  "807860518": {
+   "fragment_id": "798709710",
+   "type": 11,
+   "heading": "Artigo 3.º — Antiguidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Antiguidade\n\n1 - A integração na lista de antiguidade da classe de TSN é efetuada por ordem decrescente da média das classificações finais do concurso de admissão ao CFCO e das classificações finais do CFCO.\n\n2 - A antiguidade dos oficiais que ingressam na classe de TSN é reportada à data em que concluam com aproveitamento o respetivo CFCO."
+  },
+  "807860519": {
+   "fragment_id": "798709711",
+   "type": 11,
+   "heading": "Artigo 4.º — Admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Admissão\n\n1 - O concurso de admissão ao CFCO reveste as seguintes modalidades:\n\na) Concurso interno limitado;\n\nb) Concurso interno geral;\n\nc) Concurso externo.\n\n2 - A admissão ao CFCO é efetuada mediante abertura de concurso interno limitado, aberto aos militares da Marinha e aos cidadãos que tenham prestado serviço efetivo na Marinha em regime de contrato (RC), nas suas várias modalidades, e sejam abrangidos pelas condições previstas nos n.os 1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar nos Diferentes Regimes de Contrato e no Regime de Voluntariado (RIPSM), aprovado pelo Decreto-Lei n.º 76/2018, de 11 de outubro, habilitados com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, de acordo com as necessidades da Marinha.\n\n3 - A admissão ao CFCO é efetuada mediante abertura de concurso interno geral, aberto aos militares de qualquer ramo das Forças Armadas e aos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas e sejam abrangidos pelas condições previstas nos n.os 1 e 5 do artigo 25.º do RIPSM, habilitados com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, de acordo com as necessidades da Marinha.\n\n4 - A admissão ao CFCO é efetuada mediante abertura de concurso externo, aberto aos cidadãos civis, habilitados com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, de acordo com as necessidades da Marinha.\n\n5 - Os candidatos civis, a que se refere o número anterior, frequentam previamente o Curso de Formação Básica de Oficiais (CFBO), sendo alistados provisoriamente na Marinha, com a designação de cadetes TSN."
+  },
+  "807860520": {
+   "fragment_id": "798709712",
+   "type": 11,
+   "heading": "Artigo 5.º — Concurso de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Concurso de admissão\n\nAs normas do concurso de admissão ao CFCO constam do regulamento anexo à presente portaria e da qual faz parte integrante."
+  },
+  "807860521": {
+   "fragment_id": "798709713",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1129/2000, de 29 de novembro."
+  },
+  "807860522": {
+   "fragment_id": "798709714",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "807860525": {
+   "fragment_id": "798709717",
+   "type": 11,
+   "heading": "Artigo 10.º — Inspeções médicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Inspeções médicas\n\n1 - As inspeções médicas destinam-se a averiguar se os candidatos reúnem as condições físicas, psíquicas e sensoriais exigidas para o exercício das funções de oficial da classe de TSN.\n\n2 - As inspeções médicas são realizadas de acordo com o despacho do superintendente do Pessoal em vigor à data da abertura do aviso do concurso.\n\n3 - A deliberação sobre a aptidão nas inspeções médicas é proferida pela Junta de Recrutamento e Classificação, nos termos das condições previstas nas Tabelas Gerais de Aptidão e de Incapacidade para o Serviço nas Forças Armadas, em vigor à data da abertura do aviso do concurso.\n\n4 - São excluídos, por deliberação do júri de seleção, os candidatos considerados Inaptos pela Junta de Recrutamento e Classificação."
+  },
+  "807860526": {
+   "fragment_id": "798709718",
+   "type": 11,
+   "heading": "Artigo 11.º — Avaliação psicológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Avaliação psicológica\n\nA avaliação psicológica destina-se a avaliar as aptidões e características de personalidade e as competências comportamentais dos candidatos, de acordo com os critérios de avaliação psicológica fixados por despacho do CEMA."
+  },
+  "807860527": {
+   "fragment_id": "798709719",
+   "type": 11,
+   "heading": "Artigo 12.º — Provas de destreza física",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Provas de destreza física\n\n1 - As provas de destreza física destinam-se a avaliar a aptidão física dos candidatos para o exercício de funções inerentes à categoria de oficial da classe de TSN.\n\n2 - As provas de destreza física são efetuadas apenas pelos militares provenientes do Exército e da Força Aérea, e pelos cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.os 1 e 5 do artigo 25.º do RIPSM e pelos cidadãos civis, de acordo com as normas de execução técnica previstas no despacho do CEMA em vigor na data de abertura do concurso, para a realização das provas de aptidão física."
+  },
+  "807860528": {
+   "fragment_id": "798709720",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrevista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrevista\n\n1 - A entrevista visa obter informações sobre a motivação e comportamentos profissionais diretamente relacionados com as competências consideradas essenciais para o exercício das funções de oficial da classe de TSN.\n\n2 - A entrevista é realizada por um júri especialmente constituído para o efeito, composto por um presidente e três vogais, nomeados por despacho do diretor de Pessoal, de entre os membros do júri de seleção do concurso."
+  },
+  "807860529": {
+   "fragment_id": "798709721",
+   "type": 11,
+   "heading": "Artigo 14.º — Ordenamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Ordenamento\n\n1 - Os candidatos aprovados para cada uma das áreas definidas no aviso de abertura do concurso são ordenados de acordo com a classificação final (CF) que obtiverem, através da aplicação das seguintes fórmulas (arredondada às centésimas):\n\na) Para os candidatos admitidos nas modalidades de concurso interno limitado e concurso interno geral:\n\nCF = 0,25 L + 0,05 Fc + 0,25 Ai + 0,10 Ad + 0,15 Ts + 0,20 E\n\nb) Para os candidatos admitidos na modalidade de concurso externo:\n\nCF = 0,50 L + 0,10 Fc + 0,40 E\n\nem que:\n\nL = nota do mestrado integrado ou 1.º e 2.º ciclos;\n\nFc = classificação da avaliação da formação complementar, na escala de 10 a 20, obtida a partir de uma nota base de 10 valores, à qual será somada a valorização das ações de formação consideradas adequadas ao exercício das funções de oficiais da classe de técnicos superiores navais, de acordo com o fixado em despacho do CEMA;\n\nAi = Média aritmética das avaliações individuais, não harmonizadas, relativas aos últimos seis anos, ou à totalidade, se forem em número inferior, convertida na escala de 0 a 20, aproximada às centésimas;\n\nAd = classificação da avaliação disciplinar, na escala de 0 a 20, de acordo com o fixado no Regulamento da Avaliação do Mérito dos Militares das Forças Armadas (RAMMFA), aprovado pela Portaria n.º 301/2016, de 30 de novembro, na sua redação atual;\n\nTs = tempo de serviço efetivo, referido à data-limite de resposta ao concurso, numa escala de 10 a 20, arredondado às centésimas, obtido por interpolação, após o ordenamento do tempo de serviço de todos os candidatos, contado em dias, onde a classificação de 10 valores é atribuída ao candidato com menos tempo de serviço e a classificação de 20 valores é atribuída ao candidato com mais tempo de serviço;\n\nE = entrevista, avaliada segundo os níveis classificativos de Elevado, Bom, Suficiente, Reduzido e Insuficiente, aos quais correspondem, respetivamente, as classificações de 20, 16, 12, 8 e 4 valores, obtido através da média aritmética simples das classificações dos parâmetros a avaliar.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 25.º do RIPSM, em caso de igualdade no valor da classificação final, constitui condição de preferência para o desempate a idade mais elevada."
+  },
+  "807860530": {
+   "fragment_id": "798709722",
+   "type": 11,
+   "heading": "Artigo 15.º — Audiência dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Audiência dos interessados\n\nSem prejuízo do disposto no n.º 3 do artigo 6.º, após a elaboração da lista provisória relativa à ordenação final pelo júri de seleção, os candidatos são notificados para a realização da audiência dos interessados, nos termos do CPA, para se pronunciarem por escrito, no prazo de 10 dias úteis."
+  },
+  "807860531": {
+   "fragment_id": "798709723",
+   "type": 11,
+   "heading": "Artigo 16.º — Homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Homologação\n\nDecorrido o período de audiência dos interessados e a tramitação das eventuais pronúncias, a lista de classificação e ordenação final, após homologação, é publicitada em Ordem da Direção de Pessoal e afixada em local visível e público, é publicado, por extrato, um aviso na 2.ª série do Diário da República com informação sobre a sua publicitação."
+  },
+  "807860532": {
+   "fragment_id": "798709724",
+   "type": 11,
+   "heading": "Artigo 17.º — Impugnação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Impugnação administrativa\n\nSem prejuízo da impugnação junto dos tribunais administrativos, dos atos de exclusão dos candidatos ao procedimento concursal e de homologação da lista de ordenação final cabe recurso hierárquico nos termos do Estatuto dos Militares das Forças Armadas e do CPA.\n\n117147022"
+  },
+  "909594557": {
+   "fragment_id": "798709709",
+   "type": 11,
+   "heading": "Artigo 2.º — Ingresso na classe de TSN e frequência do CFCO",
+   "in_force_from": "2025-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+   ],
+   "markdown": "###### Artigo 2.º — Ingresso na classe de TSN e frequência do CFCO\n\n1 - O ingresso na classe de TSN faz-se no posto de subtenente, de entre os militares e civis habilitados com o grau de mestre, após a conclusão com aproveitamento do CFCO.\n\n2 - Os militares admitidos ao CFCO são graduados no posto de subtenente à data do seu início, salvo se tiverem posto igual ou superior.\n\n3 - Sem prejuízo do disposto no número anterior, os oficiais do Exército e da Força Aérea com o posto de Alferes ou superior mantêm o seu posto, mas com a designação do posto correspondente da Marinha.\n\n4 - Os militares do Exército e da Força Aérea, durante a frequência do CFCO, usam os uniformes previstos no Regulamento de Uniformes dos Militares da Marinha.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+  },
+  "808121634": {
+   "fragment_id": "799215057",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras, em 4 de dezembro de 2023."
+  },
+  "808121635": {
+   "fragment_id": "799215058",
+   "type": 14,
+   "heading": "Anexo REGULAMENTO DO CONCURSO DE ADMISSÃO AO CFCO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo REGULAMENTO DO CONCURSO DE ADMISSÃO AO CFCO\n\n(a que se refere o artigo 5.º)"
+  },
+  "808121636": {
+   "fragment_id": "799215059",
+   "type": 11,
+   "heading": "Artigo 1.º — Admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Admissão\n\n1 - A admissão ao Curso de Formação Complementar de Oficiais (CFCO) para ingresso na classe de técnicos superiores navais (TSN), na categoria de oficiais dos quadros permanentes (QP) da Marinha, é realizada mediante concurso.\n\n2 - As modalidades do concurso, as vagas e as respetivas áreas são definidas por despacho do Chefe do Estado-Maior da Armada (CEMA).\n\n3 - O aviso de abertura do respetivo concurso é aprovado por despacho do CEMA e publicado no Diário da República."
+  },
+  "909595377": {
+   "fragment_id": "799215060",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de admissão ao concurso interno limitado",
+   "in_force_from": "2025-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+   ],
+   "markdown": "###### Artigo 2.º — Condições de admissão ao concurso interno limitado\n\n1 - Constituem condições gerais de admissão ao concurso interno limitado:\n\na) Ser militar da Marinha ou, no caso de cidadãos que tenham prestado serviço efetivo na Marinha em RC, nas suas várias modalidades, estar abrangido pelas condições previstas nos n.ºs 1 e 5 do artigo 25.º do Regulamento de Incentivos à Prestação de Serviço Militar (RIPSM);\n\nb) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, em instituição oficialmente reconhecida;\n\nc) Ter idade não superior a 38 anos, até 31 de dezembro do ano de abertura do concurso;\n\nd) Estar devidamente autorizado a concorrer e ingressar na classe TSN, na categoria de oficiais dos QP da Marinha.\n\n2 - Constituem condições especiais de admissão ao concurso interno limitado:\n\na) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura do concurso;\n\nb) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+  },
+  "909595378": {
+   "fragment_id": "799215061",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de admissão ao concurso interno geral",
+   "in_force_from": "2025-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de admissão ao concurso interno geral\n\n1 - Constituem condições gerais de admissão ao concurso interno geral:\n\na) Ser militar de qualquer ramo das Forças Armadas ou, no caso de cidadãos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, estar abrangido pelas condições previstas nos n.ºs 1 e 5 do artigo 25.º do RIPSM;\n\nb) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, por instituição oficialmente reconhecida;\n\nc) Ter idade não superior a 38 anos, até 31 de dezembro do ano de abertura do concurso;\n\nd) Estar devidamente autorizado a concorrer e ingressar na classe de TSN, na categoria de oficiais dos QP da Marinha.\n\n2 - Constituem condições especiais de admissão ao concurso interno geral:\n\na) No aplicável, tempo mínimo de serviço efetivo fixado no aviso de abertura do concurso;\n\nb) No aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+  },
+  "909595379": {
+   "fragment_id": "799215062",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de admissão ao concurso externo",
+   "in_force_from": "2025-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de admissão ao concurso externo\n\n1 - Constituem condições gerais de admissão ao concurso externo:\n\na) Estar habilitado, à data de abertura do concurso, com o ciclo de estudos conducente ao grau de licenciado e o ciclo de estudos conducente ao grau de mestre na mesma área de formação para uma das vagas constantes no respetivo aviso de abertura, obtido em instituição de ensino superior nacional ou, se obtido no estrangeiro, por instituição oficialmente reconhecida;\n\nb) Ter idade não superior a 38 anos, até 31 de dezembro do ano de abertura do concurso;\n\nc) Ter a situação militar regularizada e não possuir antecedentes criminais incompatíveis com o respeito pela vida e a integridade física das pessoas, respeito pela vida em sociedade, pela ordem e tranquilidade públicas, respeito pelos direitos e liberdades de terceiros e pelo respetivo património, bem como respeito pelo Estado português.\n\n2 - Constitui condição especial de admissão ao concurso externo:\n\nNo aplicável, ser detentor de título profissional, emitido pela respetiva Ordem profissional e/ou entidade responsável por regular o exercício da profissão na respetiva área.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+  },
+  "808121640": {
+   "fragment_id": "799215063",
+   "type": 11,
+   "heading": "Artigo 5.º — Fases do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fases do concurso\n\n1 - O concurso compreende a fase de admissão e a fase de seleção, ambas com carácter eliminatório.\n\n2 - Os candidatos são sujeitos à avaliação por um júri de seleção constituído para apreciar as candidaturas."
+  },
+  "808121641": {
+   "fragment_id": "799215064",
+   "type": 11,
+   "heading": "Artigo 6.º — Fase de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fase de admissão\n\n1 - A fase de admissão compreende a apreciação documental e destina-se a verificar a conformidade dos documentos da candidatura e as condições gerais de admissão dos candidatos ao concurso.\n\n2 - Constitui causa de não admissão ao concurso o não preenchimento das condições gerais, nos termos fundamentados por deliberação do júri.\n\n3 - Após a elaboração da lista provisória de candidatos admitidos ao concurso, os candidatos não admitidos por deliberação do júri de seleção são notificados para a realização da audiência dos interessados, nos termos do Código do Procedimento Administrativo (CPA), para, no prazo de 10 dias úteis, se pronunciarem por escrito.\n\n4 - Findo o prazo de audiência dos interessados e a tramitação das eventuais pronúncias, a lista definitiva de candidatos admitidos ao concurso é afixada, para conhecimento público, em local próprio da Direção de Pessoal e divulgada no Portal do Recrutamento da Marinha na Internet e na Ordem da Direção de Pessoal."
+  },
+  "909595380": {
+   "fragment_id": "799215065",
+   "type": 11,
+   "heading": "Artigo 7.º — Fase de seleção",
+   "in_force_from": "2025-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+   ],
+   "markdown": "###### Artigo 7.º — Fase de seleção\n\n1 - A fase de seleção visa determinar a adequação de cada candidato ao ingresso na classe de TSN, através da realização dos seguintes métodos de seleção:\n\na) Apreciação do mérito;\n\nb) Inspeções médicas;\n\nc) Provas de destreza física;\n\nd) Avaliação psicológica;\n\ne) Entrevista profissional.\n\n2 - Aos candidatos que, no decurso dos métodos de seleção, cometam ou tentem inequivocamente cometer qualquer fraude, práticas fraudulentas ou incumpram com as normas técnicas de execução ou de conduta que lhes forem transmitidas é suspensa imediatamente a sua prestação nos métodos de seleção.\n\n3 - Verificada a situação referida no número anterior, o órgão ou unidade responsável pela aplicação do respetivo método de seleção remete o seu parecer sobre a exclusão por fraude ou práticas fraudulentas, ainda que sob a forma de tentativa, ou incumprimento das normas técnicas de execução ou de conduta ao júri de seleção, para deliberação sobre a exclusão do candidato do concurso.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+  },
+  "909595381": {
+   "fragment_id": "799215066",
+   "type": 11,
+   "heading": "Artigo 8.º — Valoração dos métodos de seleção",
+   "in_force_from": "2025-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+   ],
+   "markdown": "###### Artigo 8.º — Valoração dos métodos de seleção\n\n1 - Os métodos de seleção a que se refere o artigo anterior são valorados através das menções classificativas de Apto e Não apto, exceto:\n\na) A avaliação psicológica, que é classificada em Favorável preferencialmente, Bastante favorável, Favorável, Favorável com reservas ou Não favorável;\n\nb) A entrevista profissional, que é classificada numa escala de 0 a 20 valores.\n\n2 - A obtenção de uma classificação de Não apto ou Não favorável, a não comparência ou a desistência de um método de seleção, implica a exclusão do candidato do procedimento concursal, sendo notificado desse facto.\n\n3 - Sem prejuízo do disposto no número anterior, e por deliberação do júri de seleção, o candidato que não compareça a um método de seleção, por motivo devidamente fundamentado, pode ser convocado para realizar o método de seleção em falta.\n\n4 - A ordenação final dos candidatos que completem o procedimento com aprovação em todos os métodos de seleção aplicados é expressa numa escala de 0 a 20 valores, nos termos do disposto no artigo 14.º.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+  },
+  "808121644": {
+   "fragment_id": "799215067",
+   "type": 11,
+   "heading": "Artigo 9.º — Apreciação do mérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apreciação do mérito\n\n1 - A apreciação do mérito destina-se a apreciar o mérito do candidato para ingressar na categoria de oficiais dos QP, na classe de TSN, e é realizada de acordo com os critérios fixados por despacho do CEMA.\n\n2 - A apreciação do mérito aplica-se aos candidatos militares e aos candidatos que tenham prestado serviço efetivo em RC, nas suas várias modalidades, em qualquer ramo das Forças Armadas, abrangidos pelas condições previstas nos n.os 1 e 5 do artigo 25.º do RIPSM."
+  },
+  "909595382": {
+   "fragment_id": "798709720",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrevista profissional",
+   "in_force_from": "2025-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+   ],
+   "markdown": "###### Artigo 13.º — Entrevista profissional\n\n1 - A entrevista profissional visa obter informações sobre a motivação e comportamentos profissionais diretamente relacionados com as competências consideradas essenciais para o exercício das funções de oficial da classe de TSN.\n\n2 - A entrevista profissional é realizada por um júri especialmente constituído para o efeito, composto por um presidente e três vogais, nomeados por despacho do diretor de Pessoal, de entre os membros do júri de seleção do concurso.\n\n3 - Os parâmetros a avaliar na entrevista profissional são definidos por despacho do CEMA.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+  },
+  "909595383": {
+   "fragment_id": "798709721",
+   "type": 11,
+   "heading": "Artigo 14.º — Ordenamento",
+   "in_force_from": "2025-03-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+   ],
+   "markdown": "###### Artigo 14.º — Ordenamento\n\n1 - Os candidatos aprovados para cada uma das áreas definidas no aviso de abertura do concurso são ordenados de acordo com a classificação final (CF) que obtiverem, através da aplicação das seguintes fórmulas (arredondada às centésimas):\n\na) Para os candidatos admitidos nas modalidades de concurso interno limitado e concurso interno geral:\n\nCF = 0,25 L + 0,05 Fc + 0,25 Ai + 0,10 Ad + 0,15 Ts + 0,20 Ep\n\nb) Para os candidatos admitidos na modalidade de concurso externo:\n\nCF = 0,50 L + 0,10 Fc + 0,40 Ep\n\nem que:\n\nL = nota do mestrado integrado ou média aritmética simples das notas dos 1.º e 2.º ciclos da mesma área;\n\nFc = classificação da avaliação da formação complementar, na escala de 10 a 20, obtida a partir de uma nota base de 10 valores, à qual será somada a valorização das ações de formação consideradas adequadas ao exercício das funções de oficiais da classe de técnicos superiores navais, de acordo com o fixado em despacho do CEMA;\n\nAi = Média aritmética das avaliações individuais, não harmonizadas, relativas aos últimos seis anos, ou à totalidade, se forem em número inferior, convertida na escala de 0 a 20, aproximada às centésimas;\n\nAd = classificação da avaliação disciplinar, na escala de 0 a 20, de acordo com o fixado no Regulamento da Avaliação do Mérito dos Militares das Forças Armadas (RAMMFA), aprovado pela Portaria n.º 301/2016, de 30 de novembro, na sua redação atual;\n\nTs = tempo de serviço efetivo, referido à data de abertura do concurso, numa escala de 10 a 20 valores, arredondado às centésimas, a partir de uma nota base de 10 valores, em que:\n\nAs classificações entre 10,00 e 16,00 valores são atribuídas aos candidatos que tenham até 6 anos de serviço efetivo, obtida por interpolação do tempo de serviço, contado em dias;\n\nAs classificações entre 16,01 e 18,00 valores são atribuídas aos candidatos que tenham entre 6 e 10 anos de serviço efetivo, obtida por interpolação do tempo de serviço, contado em dias;\n\nAs classificações entre 18,01 e 20,00 valores são atribuídas aos candidatos que tenham entre 10 e 18 anos de serviço efetivo, obtida por interpolação do tempo de serviço, contado em dias.\n\nEp = entrevista profissional, valorada através da média ponderada das classificações dos parâmetros a avaliar, definidos pelo despacho referido no n.º 3 do artigo 13.º do presente Regulamento.\n\n2 - Sem prejuízo do disposto no n.º 2 do artigo 25.º do RIPSM, em caso de igualdade no valor da classificação final, constitui condição de preferência para o desempate a idade mais elevada.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 75/2025/1 - Diário da República n.º 43/2025, Série I de 2025-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/75-2025-909469973), em vigor a partir de 2025-03-04"
+  }
+ }
+}

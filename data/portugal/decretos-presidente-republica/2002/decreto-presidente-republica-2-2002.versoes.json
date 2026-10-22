@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:234516:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2002-887663026",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/2-2002-234516",
+ "source_lastmod": "2024-09-12",
+ "versions": [
+  {
+   "date": "2002-01-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887663106",
+    "887663107",
+    "887663108"
+   ]
+  }
+ ],
+ "fragments": {
+  "887663106": {
+   "fragment_id": "887663027",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 2/2002\n\nde 18 de Janeiro\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:"
+  },
+  "887663107": {
+   "fragment_id": "887663028",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ ratificado o Estatuto de Roma do Tribunal Penal Internacional, aberto à assinatura dos Estados em Roma, em 17 de Julho de 1998, aprovado, para ratificação, pela Resolução da Assembleia da República n.º ???/02, em 20 de Dezembro de 2001."
+  },
+  "887663108": {
+   "fragment_id": "887663029",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Portugal manifesta a sua intenção de exercer o poder de jurisdição sobre pessoas encontradas em território nacional indiciadas pelos crimes previstos no n.º 1 do artigo 5.º do Estatuto, com observância da sua tradição penal, de acordo com as suas regras constitucionais e demais legislação penal interna.\n\n2 - Portugal declara, nos termos e para os efeitos do n.º 2 do artigo 87.º do Estatuto, que os pedidos de cooperação e os documentos comprovativos que os instruam devem ser redigidos em língua portuguesa ou acompanhados de uma tradução nesta língua."
+  }
+ }
+}

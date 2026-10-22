@@ -1,0 +1,259 @@
+---
+schema_version: '1.0'
+id: pt:dre:195215:por
+title: Portaria n.º 698/97
+short_title: null
+summary: Aprova o regulamento de concessão de subsídios pelos serviços e organismos dependentes do Ministério da Saúde a instituições
+  particulares de solidariedade social abrangidas pelo Decreto-Lei n.º 119/83, de 25 de Fevereiro, e outras entidades privadas
+  sem fins lucrativos, que prossigam actividades no âmbito da saúde, de índole educativa, preventiva, curativa ou de reabilitação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 698/97
+official_date: null
+publication_date: '1997-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/1997, Série I-B de 1997-08-19
+  number: '190'
+  series: I
+  supplement: null
+  pages: 4280 - 4282
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/08/190b00/42804282.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/698/1997/08/19/p/dre/pt/html
+  oj: null
+  dre: '195215'
+  dre_path: /dr/detalhe/portaria/698-1997-195215
+  internal: pt:dre:195215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/698-1997-195215
+  metadata_url: https://data.dre.pt/eli/port/698/1997/08/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/698-1997-195215
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-09-12T00:00:00Z'
+integrity:
+  source_sha256: a576d433b2e4e6d19851b3ed8713fcb04293c4c05844c97d66dd23d545b89f4b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-698-195215.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direção Geral da Saúde
+- Administração Regional de Saúde
+- Entidade sem FINS Lucrativos
+- IPSS
+- Instituto Português de Sangue
+- Ministério da Saúde
+- Regulamento
+- Subsídio
+relationships:
+- type: amended_by
+  target: pt:dre:540026:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 698/97
+
+de 19 de Agosto
+
+Desde há largos anos que o Ministério da Saúde tem vindo a atribuir subsídios a diversas entidades privadas para a prossecução de acções e programas que reconhece relevantes na área da saúde sem que tal atribuição esteja regulamentada em diploma próprio, designadamente quanto a condições de concessão e formas de controlo e avaliação da sua aplicação.
+
+Importa, assim, por um lado, criar um quadro jurídico preciso que defina aquela regulamentação e, por outro, que tal quadro contribua para a necessária transparência da actuação da Administração Pública.
+
+Nestes termos, ao abrigo da alínea c) do artigo 202.º da Constituição:
+
+Manda o Governo, pela Ministra da Saúde, o seguinte:
+
+1.º É aprovado o regulamento de concessão de subsídios pelos serviços e organismos dependentes do Ministério da Saúde a instituições particulares de solidariedade social abrangidas pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, e outras entidades privadas sem fins lucrativos que prossigam actividades no âmbito da saúde, de índole educativa, preventiva, curativa ou de reabilitação, anexo a esta portaria e que dela faz parte integrante.
+
+2.º A presente portaria entra em vigor no dia 1 de Janeiro de 1998.
+
+Ministério da Saúde.
+
+**Assinada em 18 de Julho de 1997.**
+
+**A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.**
+
+REGULAMENTO DE CONCESSÃO DE SUBSÍDIOS PELOS SERVIÇOS E ORGANISMOS DEPENDENTES DO MINISTÉRIO DA SAÚDE A INSTITUIÇÕES PARTICULARES DE SOLIDARIEDADE SOCIAL E OUTRAS SEM FINS LUCRATIVOS, COM OBJECTIVOS DE SAÚDE.
+
+###### Artigo 1.º — Objecto
+
+1 - O presente regulamento regula as condições em que podem ser concedidos subsídios pelo Ministério da Saúde a instituições particulares de solidariedade social abrangidas pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, e a outras entidades privadas sem fins lucrativos que prossigam actividades no âmbito da saúde, de índole educativa, preventiva, curativa ou de reabilitação.
+
+2 - Sempre que existam regulamentos específicos sobre a concessão de subsídios às instituições referidas no n.º 1, aplicam-se as normas constantes daqueles regulamentos, sem prejuízo da aplicação subsidiária das inseridas no n.º 3 do artigo 3.º e nos artigos 6.º e 7.º do presente regulamento.
+
+###### Artigo 2.º — Âmbito material
+
+1 - Os subsídios a atribuir às instituições referidas no artigo anterior visam apoiar o desenvolvimento de acções concretas no âmbito da saúde, nomeadamente acções e programas de promoção, formação, investimentos em bens e equipamentos e realização de obras.
+
+2 - As acções referidas no n.º 1 devem integrar-se no âmbito das medidas de política definidas para o Ministério da Saúde.
+
+3 - Às instituições particulares de solidariedade social com fins principais e específicos de saúde poderão ainda ser concedidos subsídios com carácter regular.
+
+###### Artigo 3.º — Apresentação e instrução dos pedidos
+
+1 - Os pedidos de subsídios devem ser apresentados na administração regional de saúde (ARS) da área em que a actividade a subsidiar vai ser desenvolvida ou na Direcção-Geral da Saúde (DGS), quando as actividades a desenvolver digam respeito a mais de uma ARS.
+
+2 - No caso de instituições que desenvolvam actividades relacionadas com a promoção de dádiva de sangue, os pedidos de subsídios devem ser apresentados no Instituto Português do Sangue (IPS).
+
+3 - Os pedidos devem ser acompanhados dos seguintes elementos:
+
+a) Identificação da entidade requerente, com indicação do número de pessoa colectiva;
+
+b) Certidão de registo como instituição particular de solidariedade social ou outro, se se tratar de entidades privadas sem fins lucrativos;
+
+c) Justificação do pedido, com indicação dos programas ou planos de acção, objectivos que se pretende atingir, meios humanos e financeiros envolvidos e fontes de financiamento;
+
+d) Documentos comprovativos da regularidade da situação fiscal e contributiva da entidade requerente;
+
+e) Último relatório de actividades e últimas contas visadas ou aprovadas, quando se trate de instituição existente há mais de um ano;
+
+f) Informação sobre a existência de protocolos celebrados com os serviços, organismos e estabelecimentos dependentes do Ministério da Saúde.
+
+4 - Os serviços referidos nos n.os 1 e 2 poderão solicitar outros elementos que considerem necessários para o estudo e análise da situação.
+
+###### Artigo 4.º — Avaliação do pedido de atribuição
+
+1 - As ARS e o IPS, de acordo com os elementos apresentados e em relação aos pedidos cujo interesse e oportunidade reconheçam, elaborarão proposta fundamentada a submeter à Ministra da Saúde para efeitos de decisão.
+
+2 - Tratando-se de actividades que abranjam áreas de diferentes ARS ou quando o subsídio tenha carácter regular, a proposta referida no número anterior deverá ser elaborada pelo Instituto de Gestão Informática e Financeira da Saúde (IGIF), após parecer da DGS.
+
+###### Artigo 5.º — Formas de financiamento
+
+Os subsídios poderão ser atribuídos de uma só vez ou de acordo com o cronograma financeiro da acção a apoiar, apresentado em conformidade com o disposto na alínea c) do n.º 3 do artigo 3.º
+
+###### Artigo 6.º — Avaliação da aplicação dos subsídios
+
+1 - A aplicação dos subsídios será acompanhada e avaliada pelas ARS ou pelo IGIF, consoante o âmbito geográfico das actividades a desenvolver e a natureza do subsídio, e, bem assim, pelo IPS, quando se trate de subsídio concedido para acções relacionadas com a dádiva de sangue.
+
+2 - Após a execução das acções subsidiadas, as instituições devem apresentar na ARS, no IPS ou no IGIF o relatório de execução, com particular incidência nos aspectos de natureza financeira e com indicação dos objectivos atingidos e ou dos resultados alcançados.
+
+3 - As instituições que beneficiem de subsídio com carácter regular devem apresentar ao IGIF, trimestralmente, elementos económico-financeiros e, anualmente, o relatório e contas.
+
+4 - As instituições subsidiadas nos termos do presente diploma devem ainda organizar autonomamente a documentação justificativa da aplicação dos subsídios, cumulativamente com os seus registos contabilísticos normais.
+
+5 - A não apresentação do relatório referido no n.º 2 condicionará a atribuição de um novo subsídio.
+
+6 - A não apresentação dos elementos referidos no n.º 3 pode determinar a suspensão da transferência de verbas.
+
+7 - O incumprimento do programa ou do plano pode ser causa de rescisão e implicar a devolução do subsídio proporcional à parte não realizada.
+
+###### Artigo 7.º — Auditorias
+
+As acções subsidiadas nos termos do presente diploma podem estar sujeitas a auditorias técnicas e financeiras.
+
+###### Artigo 8.º — Atribuição de subsídios mediante protocolo
+
+Os subsídios poderão ser concedidos mediante a celebração de protocolo, nos termos do modelo anexo ao presente regulamento e que dele faz parte integrante, sendo sempre exigida a sua celebração nas situações de subsídios concedidos com carácter regular.
+
+###### Artigo 9.º — Entidade competente para o pagamento
+
+Os subsídios serão pagos através do orçamento dos serviços e organismos proponentes - ARS, IGIF e IPS.
+
+###### Artigo 10.º — Norma transitória
+
+1 - Mantém-se a concessão dos subsídios com carácter regular já autorizados à data de entrada em vigor do presente regulamento.
+
+2 - As instituições que à data da entrada em vigor do presente regulamento estejam a beneficiar da concessão de subsídios com carácter regular ficam obrigadas à celebração de protocolo previsto no artigo 8.º no prazo máximo de 90 dias e às obrigações decorrentes do artigo 6.º deste regulamento.
+
+3 - A avaliação da aplicação dos subsídios autorizados antes da entrada em vigor do presente regulamento é efectuada pela entidade responsável pelo seu pagamento.
+
+Protocolo de colaboração
+
+Entre:
+
+Primeiro outorgante - ... (ARS ou IGIF), representada por ...
+
+e:
+
+Segundo outorgante - ... (instituição a subsidiar), pessoa colectiva ..., representada por ..., na qualidade de ...
+
+é celebrado o presente protocolo, que se rege pelo disposto na Portaria n.º 698/97 e pelas cláusulas seguintes:
+
+Cláusula 1.ª
+
+O presente protocolo tem por objecto a cooperação financeira entre os outorgantes no âmbito do apoio destinado à ... (acção/programa/investimento), a realizar no(s) distrito(s) d..., concelho(s) d...
+
+Cláusula 2.ª
+
+A ... (acção/programa/investimento) decorrerá no período de ...
+
+Cláusula 3.ª
+
+1 - O primeiro outorgante compromete-se a prestar apoio financeiro ao segundo outorgante com subsídio no montante de ...
+
+2 - A verba referida no número anterior será disponibilizada ... (cronograma financeiro), sendo o pagamento efectuado ...
+
+3 - O primeiro outorgante compromete-se a prestar o seguinte apoio técnico: ...
+
+Cláusula 4.ª
+
+Da atribuição do subsídio referido na cláusula 3.ª decorrem as seguintes contrapartidas, a prestar pelo segundo outorgante: ...
+
+Cláusula 5.ª
+
+O segundo outorgante compromete-se a assegurar uma estreita colaboração com o primeiro outorgante (e com outros serviços ou estabelecimentos do Ministério da Saúde, se for o caso) com vista ao mais correcto acompanhamento e execução deste protocolo e, em especial, a assegurar princípios de boa gestão financeira tendo em conta o custo/benefício da ... (acção/programa/investimento).
+
+Cláusula 6.ª
+
+As alterações ao presente protocolo carecem de prévio acordo das partes outorgantes, a prestar por escrito.
+
+Cláusula 7.ª
+
+O acompanhamento e controlo deste protocolo é feito pelo primeiro outorgante, assistindo-lhe o direito de, por si ou por terceiros, fiscalizar a sua execução.
+
+Cláusula 8.ª
+
+1 - A falta de cumprimento do presente protocolo ou desvio nos objectivos definidos na cláusula 1.ª pode ser motivo de rescisão.
+
+2 - A não afectação da verba atribuída aos fins a que se destina implica a devolução dos montantes recebidos.
+
+Cláusula 9.ª
+
+As partes comprometem-se a resolver por consenso eventuais dúvidas que se suscitem no âmbito da execução do presente protocolo, para o que indicam desde já como seus representantes: ...
+
+Cláusula 10.ª
+
+O presente protocolo entra em vigor na data da homologação, sendo renovável por iguais períodos, excepto se alguma das partes o denunciar com a antecedência mínima de 90 dias.

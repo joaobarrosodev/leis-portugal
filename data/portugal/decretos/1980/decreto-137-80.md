@@ -1,0 +1,265 @@
+---
+schema_version: '1.0'
+id: pt:dre:458872:por
+title: Decreto n.º 137/80
+short_title: null
+summary: Aprova o Acordo de Turismo entre o Governo da República Portuguesa e o Governo do Reino Achemita da Jordânia
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos
+proposing_entity: null
+official_number: 137/80
+official_date: null
+publication_date: '1980-12-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 281/1980, Série I de 1980-12-05
+  number: '281'
+  series: I
+  supplement: null
+  pages: 4061 - 4063
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/12/28100/40614063.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '458872'
+  dre_path: /dr/detalhe/decreto/137-1980-458872
+  internal: pt:dre:458872:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/137-1980-458872
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/137-1980-458872
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-12-05T00:00:00Z'
+integrity:
+  source_sha256: 5071959100fd89824a34be4abd33479a32e09a41460a1276662dafcc8cd8dafe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-137-458872.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 137/80
+
+de 5 de Dezembro
+
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+
+###### Artigo único. É aprovado o Acordo de Turismo entre o Governo da República Portuguesa e o Governo do Reino Achemita da Jordânia, assinado em Amã aos 13 de Maio de 1980, cujo texto nas línguas portuguesa e inglesa acompanha o presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 13 de Novembro de 1980. - Francisco Sá Carneiro - Diogo Pinto de Freitas do Amaral.
+
+**Assinado em 25 de Novembro de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+Acordo entre a República Portuguesa e o Governo do Reino Achemita da Jordânia no Campo do Turismo
+
+A República Portuguesa e o Governo do Reino Achemita da Jordânia, convictos da necessidade de desenvolver as relações entre os dois países:
+
+Considerando a importância do turismo como um dos factores para a consolidação da amizade, entendimento mútuo e compreensão entre os seus povos;
+
+Reconhecendo o interesse de ambos os países em estabelecer uma activa, firme e duradoura cooperação no campo do turismo,
+
+resolveram concretizar esta cooperação no espírito de igualdade, interesse comum e vantagens mútuas e acordaram no que segue:
+
+###### ARTIGO 1.º
+
+As Partes Contratantes adoptarão, dentro do esquema das suas prerrogativas, medidas adequadas para promover e apoiar o desenvolvimento do turismo entre os dois países e intensificar a cooperação entre organismos oficiais de turismo, agências de viagens e outras estruturas e organizações ligadas à actividade turística.
+
+###### ARTIGO 2.º
+
+As Partes Contratantes utilizarão todos os meios ao seu alcance de modo a simplificar as formalidades de fronteira entre os dois países, de acordo com as suas respectivas legislações nacionais.
+
+###### ARTIGO 3.º
+
+As Partes Contratantes facultarão informação recíproca das possibilidades turísticas nos dois países, apoiando para este efeito o intercâmbio de jornalistas e de outros profissionais para o apoio turístico.
+
+###### ARTIGO 4.º
+
+As Partes Contratantes decidem desenvolver e estreitar a cooperação técnica, nomeadamente nos campos de formação profissional especializada e de gestão hoteleira.
+
+###### ARTIGO 5.º
+
+As Partes Contratantes farão consulta mútua sobre assuntos relacionados com problemas de colaboração internacional no campo do turismo e de adesão às organizações internacionais de turismo.
+
+###### ARTIGO 6.º
+
+Uma comissão conjunta por este meio estabelecida será criada e encarregada de estudar e adoptar medidas capazes de contribuir para a realização destes objectivos.
+
+###### ARTIGO 7.º
+
+A comissão é composta por quatro representantes designados pelo Governo da República Portuguesa e por quatro representantes designados pelo Governo do Reino Achemita da Jordânia, constituindo desta forma delegações nacionais (a seguir denominadas «Delegações Nacionais»).
+
+###### ARTIGO 8.º
+
+A comissão reunir-se-á uma vez por ano e, com a concordância dos presidentes das Delegações Nacionais, a comissão poderá realizar reuniões extraordinárias.
+
+A comissão reunir-se-á alternadamente em cada um dos dois países, na data a acordar mutuamente com o presidente das Delegações Nacionais.
+
+**O presidente da Delegação Nacional do país hospedeiro presidirá às reuniões.**
+
+A Delegação Nacional, actuando como hospedeiro, será responsável pelo trabalho e pelas despesas do secretariado.
+
+###### ARTIGO 9.º
+
+A língua oficial da comissão é a inglesa.
+
+###### ARTIGO 10.º
+
+A comissão elaborará o seu programa de trabalho, assim como a ordem de prioridade dos assuntos e problemas a serem tratados, em conformidade com o texto deste Acordo, bem como qualquer outro assunto que for julgado necessário. A agenda para cada reunião será elaborada em conjunto por ambos os presidentes, pelo menos um mês antes de cada reunião.
+
+###### ARTIGO 11.º
+
+As resoluções, propostas e recomendações adoptadas pela comissão serão submetidas à aprovação de ambos os Governos, após o que estas serão executadas.
+
+###### ARTIGO 12.º
+
+Os presidentes das Delegações Nacionais manter-se-ão informados das medidas tomadas para a entrada em vigor das resoluções adoptadas pela comissão e aprovadas por ambos os Governos.
+
+###### ARTIGO 13.º
+
+Este Acordo é válido por um período de cinco anos a partir da data em que entrar em vigor e será automaticamente renovado por períodos sucessivos de dois anos, caso o mesmo não seja denunciado por nenhuma Parte Contratante, por via diplomática, pelo menos seis meses antes de expirar.
+
+###### ARTIGO 14.º
+
+O Acordo será aprovado em conformidade com os procedimentos em vigor em cada um dos dois países e entrará em vigor a partir da data da troca de notas neste sentido por ambas as Partes.
+
+**Assinado em Amã, aos 13 de Maio de 1980, em duas cópias originais, em três línguas, nomeadamente árabe, português e inglês.**
+
+Em caso de divergência prevalecerá o texto inglês.
+
+Pelo Governo da República Portuguesa:
+
+Basílio Adolfo Mendonça Horta da Franca, Ministro do Comércio e Turismo.
+
+Pelo Governo do Reino Achemita da Jordânia:
+
+Munaffar Fawaz Zoub, Ministro do Turismo e Antiguidades.
+
+Agreement between the Republic of Portugal and the Hashemite Kingdom of Jordan in the Field of Tourism
+
+The Republic of Portugal and the Hashemite Kingdom of Jordan, convinced of the need of developing the relations between their two countries:
+
+Considering the importance of tourism as one of the factors of consolidating friendship, mutual understanding and comprehension between their two peoples;
+
+Acknowledging the interest of the two countries in establishing an active, firm and lasting co-operation in the field of tourism,
+
+determined to materialize this co-operation in the spirit of equity, common interest and mutual advantages, have agreed to the following:
+
+ARTICLE 1
+
+The Contracting Parties will, within the framework of their prerogatives, adopt adequate measures to promote and encourage the development of tourism between the two countries and to intensify the co-operation between the official organizations of tourism, the travel agencies and other structures and organizations linked with touristic activity.
+
+ARTICLE 2
+
+The Contracting Parties will utilize all the means within their powers so as to simplify the frontier formalities between the two countries in accordance with their respective national legislations.
+
+ARTICLE 3
+
+The Contracting Parties will facilitate reciprocal information of the touristic possibilities in the two countries, encouraging to this effect the interchange of journalists and other professionals for the furtherance of tourism.
+
+ARTICLE 4
+
+The Contracting Parties decide to develop and strengthen techical co-operation, namely in the fields of professional training expertise and hotel management.
+
+ARTICLE 5
+
+The Contracting Parties will consult each other about matters relating to problems of international collaboration in the field of tourism and adhesion to the international organizations of tourism.
+
+ARTICLE 6
+
+A joint commission will be set up and asigned with the task of studying and implementing measures capable of contributing to the attainment of these objectives is hereby established.
+
+ARTICLE 7
+
+The commission consists of four representatives designated by the Government of the Republic of Portugal and of four representatives designated by the Government of the Hashemite Kingdom of Jordan, thus constituting national delegations (thereinafter called National Delegations).
+
+ARTICLE 8
+
+The commission will meet once a year, and with the agreement of the Chairmen of the National Delegations the commission may hold extraordinary meetings.
+
+The commission will meet alternately in each of the two countries at a date to be mutually agreed upon by the Chairmen of the National Delegations.
+
+The Chairman of the National Delegation of the host country will preside the meetings.
+
+The National Delegation acting as host will be responsible for the work and expenses of the secretariat.
+
+ARTICLE 9
+
+The official language of the commission is English.
+
+ARTICLE 10
+
+The commission will draw up its programme of work as well as the order of priority of the topics and problems to be deal with, in accordance with the text of this Agreement, as well as any other matter which may be deemed necessary. The agenda for each meeting will be jointly established by both Chairmen at least one month before each meeting.
+
+ARTICLE 11
+
+The resolutions, proposals and recommendations adopted by the commission will be submitted to both Governments for approval; upon approval, these shall be implemented.
+
+ARTICLE 12
+
+The Chairmen of the National Delegations will keep each other informed of the measures taken for the implementation of the resolutions adopted by the commission and approved by both Governments.
+
+ARTICLE 13
+
+This Agreement will be valid for a period of five years from the date it comes into force and will be automatically renewed for further periods of two years, if neither of the Contracting Parties denounce it, thorough diplomatic channels, at least six months prior to its expiry.
+
+ARTICLE 14
+
+The Agreement will be approved according to the procedures in force in each of the two countries and shall come into force from the date of exchange of notes in this regard by the two Parties.
+
+Signed in Amman on 13th May 1980 in two original copies, in three languages, namely Arabic, Portuguese and English.
+
+In case of difference the English text shall prevail.
+
+For the Government of the Republic of Portugal:
+
+Basílio Adolfo Mendonça Horta da Franca, Minister of Trade and Tourism.
+
+For the Government of the Hashemite Kingdom of Jordan:
+
+Munaffar Fawaz Zoub, Minister of Tourism and Antiquities.

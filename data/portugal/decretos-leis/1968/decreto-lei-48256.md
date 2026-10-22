@@ -1,0 +1,199 @@
+---
+schema_version: '1.0'
+id: pt:dre:143550:por
+title: Decreto-Lei n.º 48256
+short_title: null
+summary: Altera várias disposições do Decreto-Lei n.º 41399, que reorganiza as reservas da Marinha
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Marinha - Estado-Maior da Armada
+proposing_entity: null
+official_number: '48256'
+official_date: null
+publication_date: '1968-02-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 44/1968, 1º Suplemento, Série I de 1968-02-21
+  number: '44'
+  series: I
+  supplement: 1º Suplemento
+  pages: 280 - 282
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/02/04401/02800282.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '143550'
+  dre_path: /dr/detalhe/decreto-lei/48256-1968-143550
+  internal: pt:dre:143550:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48256-1968-143550
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48256-1968-143550
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1968-02-21T00:00:00Z'
+integrity:
+  source_sha256: e3087a27cb6046b80788d3fb83372eb06ce4454d05095b56bffa48c406c2c045
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1968/DRE-1968-48256-143550.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48256
+
+Dada a conveniência de alterar o [Decreto-Lei n.º 41399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41399-1957-251581), de 26 de Novembro de 1957, respeitante às reservas da Marinha, para que elas possam satisfazer as necessidades actuais da Armada;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, para valer como lei, o seguinte:
+
+###### Artigo 1.º Os artigos 2.º, 4.º e 5.º, o § 1.º do artigo 9.º, os §§ 1.º e 2.º do artigo 10.º, o § 2.º do artigo 11.º, o artigo 13.º, a alínea c) do artigo 18.º e os artigos 22.º e 23.º do [Decreto-Lei n.º 41399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41399-1957-251581) tomam as redacções seguintes:
+
+###### Art. 2.º As reservas da Marinha em pessoal compreendem:
+
+I) Reserva da Armada ou reserva A, constituída:
+
+a) Pelos oficiais, sargentos e praças que, nos termos dos Estatutos do Oficial da Armada e dos Sargentos e Praças da Armada, deixem os quadros do activo e sejam passados à situação de reserva com direito a pensão de reserva;
+
+b) Pelos oficiais, sargentos e praças que, nos termos dos Estatutos do Oficial da Armada e dos Sargentos e Praças da Armada, deixem os quadros do activo e sejam passados à situação de reserva sem direito a pensão de reserva;
+
+c) Pelos indivíduos que, tendo recebido a sua instrução militar na Armada, deixem os quadros do activo por razões que não sejam as indicadas nos §§ 1.º e 2.º do artigo 19.º, desde que, não sendo abrangidos pelas disposições referidas nas alíneas a) ou b) deste número, estejam sujeitos a obrigações militares de qualquer natureza no âmbito da Armada.
+
+II) Reserva naval ou reserva N, constituída:
+
+a) Pelos indivíduos que, possuindo o curso completo dos liceus ou habilitações equivalentes, prestem na Armada, depois de convenientemente preparados, o serviço militar obrigatório como oficiais;
+
+b) Pelos indivíduos que, possuindo o curso geral dos liceus ou habilitações equivalentes, prestem na Armada, depois de convenientemente preparados, o serviço militar obrigatório como sargentos.
+
+III) Reserva marítima ou reserva M, constituída:
+
+a) Pelos indivíduos com os cursos da Escola Náutica, da Escola de Marinheiros e de Mecânicos da Marinha Mercante e das escolas de pesca que prestem o serviço militar na Armada;
+
+b) Pelos indivíduos que cumpram o serviço militar na Armada em consequência de:
+
+1) Prestarem serviço no Instituto de Socorros a Náufragos;
+
+2) Pertencerem aos quadros do pessoal civil do Ministério da Marinha;
+
+c) Pelos indivíduos que, embora não tenham cumprido o serviço militar na Armada:
+
+1) Sejam de profissão marítima, estando inscritos nas capitanias dos portos da metrópole e do ultramar, e que em ofícios ou especialidades de interesse para a Armada ou necessários para a mobilização da marinha mercante e da de pesca estejam aptos a exercer a sua actividade a bordo e se tornem necessários à constituição de uma reserva para os mesmos fins, excepto as praças pertencentes às tropas de engenharia e de artilharia de costa;
+
+2) Prestem serviço no Instituto de Socorros a Náufragos;
+
+3) Prestem serviço no Ministério da Marinha, pertencendo aos quadros do pessoal civil do mesmo Ministério.
+
+IV) Reserva legionária ou reserva L, constituída pelos filiados na Brigada Naval da Legião Portuguesa que façam parte dos quadros aprovados em portaria emanada do Ministério da Marinha.
+
+§ 1.º Sempre que as necessidades do serviço o justifiquem, poderá o Ministro da Marinha, por portaria, alterar as habilitações literárias referidas nas alíneas a) e b) do n.º II do corpo deste artigo.
+
+§ 2.º A Direcção do Serviço do Pessoal comunicará oportunamente ao organismo competente do Ministério do Exército a incorporação nas referidas reservas dos indivíduos abrangidos pelos números III e IV deste artigo (reservas M e L), quando se trate de indivíduos não alistados noutro ramo das forças armadas, ou solicitará a sua transferência quando os indivíduos em causa já estiverem alistados.
+
+...
+
+###### Art. 4.º Os serviços do pessoal das reservas da Marinha funcionam na Direcção do Serviço do Pessoal.
+
+###### Art. 5.º A Direcção do Serviço do Pessoal efectuará e manterá em dia o registo, ordenamento e classificação do pessoal das reservas, separadamente para cada uma delas, e comunicará ao Ministério do Exército o movimento de pessoal que ao mesmo interesse.
+
+§ único. Para os fins indicados neste artigo, as capitanias dos portos, a Escola Náutica, a Escola de Marinheiros e de Mecânicos da Marinha Mercante, as escolas de pesca, a Brigada Naval da Legião Portuguesa e todos os organismos oficiais que utilizem pessoal que faça parte das reservas da Marinha enviarão à Direcção do Serviço do Pessoal, anualmente e até ao dia 31 de Maio, os elementos necessários, em conformidade com as instruções dimanadas dessa Direcção.
+
+...
+
+###### Art. 9.º ...
+
+§ 1.º As habilitações complementares exigidas para cada classe da reserva N e que são requeridas aos indivíduos a alistar nesta reserva são fixadas por despacho do Ministro da Marinha.
+
+§ 2.º ...
+
+§ 3.º ...
+
+###### Art. 10.º ...
+
+§ 1.º Para efeitos de actualização de conhecimentos podem os reservistas ser convocados individualmente ou por grupos por portaria do Ministro da Marinha, fundamentada em proposta do chefe do Estado-Maior da Armada.
+
+§ 2.º Poderão, se deles houver necessidade e caso o requeiram, ser mantidos ao serviço em reconduções de um ano, seguidas ou alternadas, cujo limite será fixado por despacho do Ministro da Marinha.
+
+...
+
+###### Art. 11.º ...
+
+§ 1.º ...
+
+§ 2.º A instrução dos reservistas a que se referem as alíneas a) e b) do n.º III do artigo 2.º é definida pelo Estado-Maior da Armada e ministrada em dois ciclos, devendo ser essencialmente prática e orientada para a prestação do serviço a bordo.
+
+§ 3.º ...
+
+###### Art. 13.º Antes da incorporação na Armada ou da chamada à efectividade do serviço os reservistas serão sujeitos a inspecção de juntas médicas, a fim de se ajuizar da sua capacidade física para o serviço da Armada.
+
+...
+
+###### Art. 18.º ...
+
+a) ...
+
+b) ...
+
+c) Reserva marítima ou reserva M:
+
+1) Os indivíduos constantes das alíneas a) e b) do n.º III do artigo 2.º:
+
+Nas lotações das unidades e serviços da Armada enquadrados por pessoal do activo;
+
+Nos serviços de defesa própria das unidades da marinha mercante e de pesca; e para fins navais e outros de interesse nacional dentro da orgânica inerente ao seu meio profissional.
+
+2) Os indivíduos constantes da alínea c) do n.º III do artigo 2.º, enquadrados por pessoal do activo nas lotações das unidades e serviços, ou dentro da sua orgânica, com funções semelhantes às que desempenham em tempo normal.
+
+d) ...
+
+...
+
+###### Art. 22.º Quando eventualmente, em caso de requisição de material, convenha que o pessoal que nele ou com ele trabalhe continue nas suas funções, este, mesmo que não esteja incluído em quaisquer das reservas indicadas no artigo 2.º, será automàticamente convocado pela Direcção do Serviço do Pessoal, que comunicará ao Ministério do Exército o seu alistamento temporário, tratando-se de indivíduos ainda não alistados noutro ramo das forças armadas. No caso de pessoal já alistado, que esteja ou não na efectividade do serviço, será individualmente solicitada a sua apresentação para alistamento temporário, salvo nos casos urgentes que obriguem à sua utilização imediata, os quais deverão ser comunicados prontamente.
+
+###### Art. 23.º Os assuntos relativos ao pessoal das reservas da marinha, quando seja convocado ou mobilizado para serviço, são tratados pelas repartições da Direcção do Serviço do Pessoal a que competem os assuntos do pessoal do quadro do activo de idêntica categoria.
+
+###### Art. 2.º São eliminados o § 3.º do artigo 10.º e o § único do artigo 18.º do mesmo decreto-lei.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 21 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser presente à Assembleia Nacional.

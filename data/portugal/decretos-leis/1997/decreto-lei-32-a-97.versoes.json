@@ -1,0 +1,100 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667570:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-870757885",
+ "dre_path": "/dr/detalhe/decreto-lei/32-a-1997-667570",
+ "source_lastmod": "2024-07-02",
+ "versions": [
+  {
+   "date": "1997-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870590559",
+    "870590560",
+    "870590561",
+    "870590562",
+    "870590563",
+    "870590564",
+    "870590565",
+    "870590566",
+    "870590568"
+   ]
+  }
+ ],
+ "fragments": {
+  "870590559": {
+   "fragment_id": "870757886",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 32-A/97\n\nde 28 de Janeiro\n\nAs encefalopatias espongiformes constituem quadros nosológicos de extrema gravidade, quer no animal, quer no homem, não sendo conhecido, por enquanto, qualquer tratamento.\n\nApesar de limitados, os conhecimentos científicos actuais levam a considerar a possibilidade de transmissão dos agentes infectantes, entre espécies animais e do animal ao homem, assim como o aparecimento de uma nova variante da doença de Creutzfeld-Jakob; razões de saúde pública exigem assim a adopção de medidas preventivas no sentido de se garantir a qualidade e segurança dos alimentos e bens de consumo público através de restrições de utilização de matéria-prima de origem bovina.\n\nEstas medidas entroncam, aliás, nas Decisões da Comissão n.º 96/239/CE, de 27 de Março de 1996, recentemente alterada pela Decisão da Comissão n.º 96/362/CE, de 11 de Junho de 1996, e 96/449/CE, de 18  de Julho  de 1996, e na Conclusão do Conselho de Ministros da Saúde n.º 96/C/194/01, de 18 de Junho de 1996, relativa a determinadas medidas de emergência em matéria de protecção contra a encefalopatia espongiforme dos bovinos, que proíbem o Reino Unido de expedir do seu território bovinos e seus derivados orgânicos e transformados e, simultaneamente, impõem aos demais Estados membros a adopção de medidas internas que se conformem com aquela proibição, assim como com a situação epidemiológica do país no respeitante a encefalopatias espongiformes, bem como nas recomendações constantes dos pareceres da Organização Mundial de Saúde e da Agência Europeia de Avaliação dos Medicamentos.\n\nAs medidas adoptadas pelo presente diploma serão revistas em função de evolução natural da doença e dos conhecimentos científicos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 12.º, Decreto-Lei n.º 387/98 - Diário da República n.º 280/1998, Série I-A de 1998-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1998-222073) São revogadas as disposições do presente decreto-lei, que contrariem o disposto no [Decreto-Lei n.º 387/98, de 4 de dezembro](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-1998-222073)"
+  },
+  "870590560": {
+   "fragment_id": "870757887",
+   "type": 11,
+   "heading": "Artigo 1.º — Utilização de produtos provenientes de animais doentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Utilização de produtos provenientes de animais doentes\n\n1 - É interdita a utilização, para qualquer fim, de produtos de origem bovina provenientes de animais que apresentem sintomatologia de encefalopatia espongiforme.\n\n2 - O disposto no n.º 1 não é aplicável à utilização para fins científicos, mediante autorização das autoridades competentes."
+  },
+  "870590561": {
+   "fragment_id": "870757888",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada de produtos na cadeia alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada de produtos na cadeia alimentar\n\nÉ interdita a entrada, por qualquer forma, na cadeia alimentar humana, bem como a detenção e comercialização para esse efeito, de encéfalo, medula espinal, olhos, amígdalas, baço, timo e intestino de bovinos, qualquer que seja a sua proveniência."
+  },
+  "870590562": {
+   "fragment_id": "870757889",
+   "type": 11,
+   "heading": "Artigo 3.º — Restrições em função da origem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Restrições em função da origem\n\n1 - Fica proibida a utilização de produtos de origem bovina, provenientes de animais abatidos no Reino Unido, na preparação de medicamentos e quaisquer outros produtos farmacêuticos, dispositivos médicos, produtos cosméticos e de higiene corporal, produtos dietéticos e destinados a alimentação humana, com excepção dos enumerados no anexo ao presente diploma.\n\n2 - Fica igualmente proibida a utilização de produtos de origem bovina na preparação de medicamentos e quaisquer outros produtos farmacêuticos, dispositivos médicos, produtos cosméticos, de higiene corporal e produtos dietéticos, com excepção dos enumerados no anexo ao presente diploma, provenientes, directa ou indirectamente, de países afectados pela encefalopatia espongiforme ou que não tenham implementado um sistema de vigilância de encefalopatia espongiforme bovina, tal como se encontra regulado no Código Zoossanitário Internacional do Office International des Epizooties.\n\n3 - A utilização de produtos de origem bovina, provenientes de países não abrangidos pelos números anteriores, na preparação de medicamentos e quaisquer outros produtos farmacêuticos, dispositivos médicos, produtos cosméticos e de higiene corporal e produtos dietéticos deverá previamente garantir que foram observadas as normas de orientação emitidas pelo Comité das Especialidades Farmacêuticas da Agência Europeia do Medicamento."
+  },
+  "870590563": {
+   "fragment_id": "870757890",
+   "type": 11,
+   "heading": "Artigo 4.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fiscalização\n\nSem prejuízo da competência atribuída por lei a outras entidades, a fiscalização do cumprimento do disposto no presente diploma compete:\n\na) Ao Instituto Nacional da Farmácia e do Medicamento (INFARMED), relativamente aos medicamentos e quaisquer outros produtos farmacêuticos, dispositivos médicos, produtos cosméticos e de higiene corporal e produtos dietéticos com acção terapêutica;\n\nb) À Direcção-Geral da Saúde, relativamente aos géneros alimentícios destinados a uma alimentação especial;\n\nc) Às Direcções-Gerais de Veterinária e da Fiscalização e Controlo da Qualidade Alimentar, relativamente aos géneros alimentícios de uso corrente."
+  },
+  "870590564": {
+   "fragment_id": "870757891",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contra-ordenações\n\n1 - Sem prejuízo de outras sanções previstas na lei, a violação do disposto nos artigos 1.º e 2.º constitui contra-ordenação, punível com coima de 100000$00 a 750000$00 ou até 9000000$00, consoante o agente seja pessoa singular ou colectiva.\n\n2 - A negligência e a tentativa são puníveis."
+  },
+  "870590565": {
+   "fragment_id": "870757892",
+   "type": 11,
+   "heading": "Artigo 6.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sanções acessórias\n\n1 - Relativamente às contra-ordenações previstas no presente diploma, podem ser aplicadas as seguintes sanções acessórias, em função da gravidade da infracção e da culpa do agente:\n\na) Interdição do exercício da actividade cujo exercício dependa de título público ou de autorização ou de homologação de autoridade pública;\n\nb) Encerramento do estabelecimento onde a actividade se exerce, cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nc) Suspensão das autorizações, licenças ou alvarás.\n\n2 - Sempre que o agente pratique a contra-ordenação com flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos deveres que lhe são inerentes, será dada publicidade da sanção condenatória."
+  },
+  "870590566": {
+   "fragment_id": "870757893",
+   "type": 11,
+   "heading": "Artigo 7.º — Processo de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Processo de contra-ordenação\n\n1 - Às contra-ordenações previstas neste diploma aplica-se subsidiariamente o disposto no Decreto-Lei n.º 433/82, de 27 de Outubro, com a redacção dada pelos Decretos-Leis n.os 356/89, de 17 de Outubro, e 244/95, de 14 de Setembro.\n\n2 - A instrução dos processos compete ao INFARMED, à Direcção-Geral da Saúde, à Direcção-Geral de Veterinária ou à Direcção-Geral da Fiscalização e Controlo da Qualidade Alimentar, em conformidade com a respectiva competência fiscalizadora atribuída nos termos do artigo 4.º, competindo aos respectivos dirigentes máximos a aplicação das coimas e sanções acessórias.\n\n3 - O produto das coimas constitui receita das seguintes entidades:\n\na) 40% para o Serviço Nacional de Saúde;\n\nb) 60% para o INFARMED, Direcção-Geral da Saúde, Direcção-Geral de Veterinária ou Direcção-Geral da Fiscalização e Controlo da Qualidade Alimentar, consoante as respectivas áreas de fiscalização."
+  },
+  "870590568": {
+   "fragment_id": "870757895",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(a que se referem os n.os 1 e 2 do artigo 3.º)\n\n1 - Gelatina e fosfato dicálcico, obtidos por um processo que assegure que:\n\na) Toda a matéria óssea seja submetida a desengorduramento, seguido de tratamento ácido de pH < 1,5 durante, pelo menos, 4 dias, seguido de um tratamento alcalino que utilize quer cal a pH > 12,5 durante, pelo menos, 45 dias, quer 0,3 N hidróxido de sódio durante 10 a 14 dias, seguido de aquecimento a 138ºC-140ºC durante quatro segundos;\n\nb) As demais matérias-primas (peles, tendões e ligamentos) sejam submetidas a tratamento alcalino, como o referido na alínea anterior, seguido de aquecimento a 138ºC-140ºC durante quatro segundos.\n\n2 - Aminoácidos e péptidos produzidos a partir de peles mediante um processo que envolve a exposição do material a um pH de 1 a 2, seguido de um pH > 11, seguido de tratamento térmico a 140ºC durante trinta minutos a 3 bar.\n\n3 - Sebo e produtos à base de sebo produzidos a partir de material proveniente de animais destinados a consumo humano que tenha sido submetido a um dos processos descritos no artigo 2.º da Decisão da Comissão n.º 94/382/CE, de 27 de Junho de 1994 (ver nota 1), alterada pela Decisão da Comissão n.º 95/29/CE, de 13 de Fevereiro de 1995 (ver nota 2).\n\n4 - Produtos derivados do sebo que tenham sido obtidos por hidrólise a uma temperatura igual ou superior a 250ºC.\n\n5 - Os produtos referidos nos n.os 1, 2, 3 e 4, com excepção do fosfato dicálcico, devem ser filtrados após a produção.\n\n6 - Nos casos previstos nos n.os 1, 2, 3 e 4, não podem ser utilizados como matéria-prima o crânio, a coluna vertebral, o encéfalo, a medula espinal, os olhos, as amígdalas, o timo, o intestino e o baço.\n\n(nota 1) JO, n.º L 172, de 7 de Julho de 1994, p. 25.\n\n(nota 2) JO, n.º L 38, de 18 de Fevereiro de 1995, p. 17."
+  }
+ }
+}

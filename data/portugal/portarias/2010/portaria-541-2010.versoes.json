@@ -1,0 +1,111 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:334125:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-966829240",
+ "dre_path": "/dr/detalhe/portaria/541-2010-334125",
+ "source_lastmod": "2026-09-16",
+ "versions": [
+  {
+   "date": "2010-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:306582:por",
+     "title": "Portaria n.º 1312/2010",
+     "published": "2010-12-27",
+     "dre_path": "/dr/detalhe/portaria/1312-2010-306582"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2"
+   ],
+   "fragments": [
+    "967040175",
+    "967040375",
+    "1169775875",
+    "967040775",
+    "967040975",
+    "967041175",
+    "967041375",
+    "967041575",
+    "967041775"
+   ]
+  }
+ ],
+ "fragments": {
+  "967040175": {
+   "fragment_id": "967040075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Lei n.º 25/2006, de 30 de Junho, alterada e republicada pelo Decreto-Lei n.º 113/2009, de 18 de Maio, determina que as infracções que resultam do não pagamento ou do pagamento viciado de taxas de portagem em infra-estruturas rodoviárias - que anteriormente à sua entrada em vigor estavam previstas e eram punidas como contravenções e transgressões - passem a assumir a natureza de contra-ordenações.\n\nSem prejuízo das atribuições cometidas às autoridades policiais, a fiscalização do cumprimento das normas referentes à cobrança de portagens em infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, é efectuada, na respectiva área de actuação, por agentes representantes das empresas concessionárias ou subconcessionárias, com funções de fiscalização, designadamente por portageiros, que são devidamente ajuramentados e credenciados pelo governador civil do distrito da sede da empresa, devendo este manter um registo permanente e actualizado de tais agentes de fiscalização.\n\nOs agentes de fiscalização devem obrigatoriamente usar uniforme e cartão de identificação aposto visivelmente e devem deslocar-se em veículo devidamente identificado como estando ao serviço de funções de fiscalização. Os modelos de uniforme e dos veículos por eles utilizados são por eles submetidos à aprovação do ministro responsável pela área da administração interna, devendo respeitar características mínimas obrigatórias a definir por portaria do referido ministro.\n\nAssim:\n\nManda o Governo, pelo Ministro da Administração Interna, ao abrigo do disposto no n.º 5 do artigo 4.º da Lei n.º 25/2006, de 30 de Junho, alterada e republicada pelo Decreto-Lei n.º 113/2009, de 18 de Maio, o seguinte:"
+  },
+  "967040375": {
+   "fragment_id": "967040275",
+   "type": 11,
+   "heading": "Artigo 1.º — Características mínimas dos modelos de uniforme",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Características mínimas dos modelos de uniforme\n\n1 - Os modelos de uniforme previstos nos n.os 4 e 5 do artigo 4.º da Lei n.º 25/2006, de 30 de Junho, devem:\n\na) Permitir que os agentes de fiscalização sejam imediatamente identificados pelos utentes;\n\nb) Permitir que os agentes de fiscalização sejam perfeitamente visíveis pelos utentes, independentemente da hora, do dia ou das condições meteorológicas que se verifiquem;\n\nc) Ser adequados às condições meteorológicas em que os agentes de fiscalização exerçam as funções.\n\n2 - Os modelos de uniforme previstos no número anterior devem ser constituídos pelos elementos que constam do anexo i à presente portaria."
+  },
+  "1169775875": {
+   "fragment_id": "967040475",
+   "type": 11,
+   "heading": "Artigo 2 — Cartão de identificação",
+   "in_force_from": "2010-12-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1312/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/1312-2010-306582), em vigor a partir de 2010-12-28."
+   ],
+   "markdown": "###### Artigo 2 — Cartão de identificação\n\n1 - O cartão de identificação previsto no n.º 4 do artigo 4.º da Lei n.º 25/2006, de 30 de Junho, deve ter 85 mm de comprimento e 55 mm de largura, possuir fotografia a cores do titular, o seu nome, a menção de que se trata de um agente de fiscalização e a identificação da entidade concessionária ou subconcessionária no interesse da qual exerce funções.\n\n2 - No verso do cartão de identificação devem estar indicados, de forma sumária, os poderes que a lei confere aos agentes de fiscalização.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1312/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/portaria/1312-2010-306582), em vigor a partir de 2010-12-28."
+  },
+  "967040775": {
+   "fragment_id": "967040675",
+   "type": 11,
+   "heading": "Artigo 3.º — Características mínimas dos modelos de veículos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Características mínimas dos modelos de veículos\n\n1 - Os modelos de veículo previstos nos n.os 4 e 5 do artigo 4.º da Lei n.º 25/2006, de 30 de Junho, devem:\n\na) Permitir a sua imediata identificação pelos utentes;\n\nb) Permitir a sua perfeita visibilidade pelos utentes, independentemente da hora, do dia ou das condições meteorológicas que se verifiquem.\n\n2 - Os modelos de veículo previstos no número anterior devem ter as características indicadas no anexo ii da presente portaria."
+  },
+  "967040975": {
+   "fragment_id": "967040875",
+   "type": 11,
+   "heading": "Artigo 4.º — Aplicação aos uniformes e veículos já existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação aos uniformes e veículos já existentes\n\nAs concessionárias e subconcessionárias devem submeter à aprovação do Ministro da Administração Interna, no prazo de 30 dias após a entrada em vigor da presente portaria, os modelos de uniforme e os veículos que estejam a ser utilizados pelos agentes de fiscalização."
+  },
+  "967041175": {
+   "fragment_id": "967041075",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "967041375": {
+   "fragment_id": "967041275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Rui Carlos Pereira, em 14 de Julho de 2010."
+  },
+  "967041575": {
+   "fragment_id": "967041475",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nOs uniformes devem ser constituídos por:\n\nBlusão:\n\nFormato - tipo parka. Pode ter fecho nas mangas, para permitir a sua transformação em colete. O forro pode ser amovível, para reforçar a adaptabilidade nas várias estações do ano;\n\nCores - fundo de cor azul-escura, com barras reflectoras de cor branca;\n\nElementos de identificação específicos - o logótipo da concessionária ou subconcessionária deve ser bordado, em cor branca ou cinza muito clara, nas costas, ao centro, e no peito, do lado esquerdo;\n\nMaterial - tecido impermeável;\n\nColete de segurança:\n\nDe uso obrigatório sempre que não esteja a ser utilizado o blusão;\n\nEsta peça deve incluir, obrigatoriamente, elementos reflectores de alta visibilidade (mínimo, grau 2);\n\nCalças:\n\nModelo - chino;\n\nCor - azul-escura;\n\nMaterial - sarja para a Primavera e o Verão; fazenda ou lã para o Outono e o Inverno.\n\nT-shirt branca - a usar sob a camisa;\n\nCamisa:\n\nModelo - dois bolsos;\n\nCor - branca;\n\nMaterial - algodão;\n\n(São possíveis duas versões: uma de manga comprida e outra de manga curta.)\n\nPullover:\n\nCor - azul-escura;\n\nMaterial - malha de algodão ou de lã;\n\nElementos de identificação específicos - logótipo da concessionária ou subconcessionária bordado a cor branca, no peito, do lado esquerdo;\n\n(São possíveis duas versões: uma com mangas e outra sem mangas.)\n\nBoné:\n\nModelo - baseball cap;\n\nCor - azul-escura;\n\nMaterial - algodão espesso;\n\nElementos de identificação específicos - logótipo da concessionária ou subconcessionária, bordado a cor branca, na frente."
+  },
+  "967041775": {
+   "fragment_id": "967041675",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\nOs veículos devem obedecer aos seguintes requisitos:\n\nEstar pintados de cor branca (RAL 9001);\n\nTer o nome da concessionária ou subconcessionária escrito, em material reflector, na mala, no capot, na parte lateral direita e na parte lateral esquerda - em dimensões suficientes para dar cumprimento ao disposto no artigo 3.º;\n\nTer o símbolo da concessionária ou subconcessionária colocado no capot e na porta da frente, do lado direito e do lado esquerdo;\n\nTer o sítio da concessionária ou subconcessionária na Internet escrito, em material reflector, na mala e no painel da porta de trás ou nas ilhargas esquerda e direita;\n\nPossuir um avisador luminoso especial, de cor amarela, para dar cumprimento ao disposto no n.º 4 do artigo 23.º do Código da Estrada e no artigo 5.º da Portaria n.º 311-C/2005, de 24 de Março, de forma a assinalar devidamente a paragem ou a marcha lenta do veículo. Os avisadores deverão ser instalados de acordo com o disposto no artigo 6.º e ter as características indicadas no artigo 7.º, ambos da referida portaria."
+  }
+ }
+}

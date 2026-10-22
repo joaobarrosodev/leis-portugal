@@ -1,0 +1,532 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:190390:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-122074226",
+ "dre_path": "/dr/detalhe/decreto-lei/266-2012-190390",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122079276",
+    "122079277",
+    "122079278",
+    "122079279",
+    "122079280",
+    "122079281",
+    "122079282",
+    "122079283",
+    "122079284",
+    "122079285",
+    "122079286",
+    "122079287",
+    "122079288",
+    "122079289",
+    "122079290",
+    "122079291",
+    "122079292",
+    "122079293",
+    "122079294",
+    "122079295",
+    "122079296",
+    "122079297",
+    "122079298"
+   ]
+  },
+  {
+   "date": "2014-05-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25343697:por",
+     "title": "Decreto-Lei n.º 82/2014",
+     "published": "2014-05-20",
+     "dre_path": "/dr/detalhe/decreto-lei/82-2014-25343697"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 19.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "122079276",
+    "122079300",
+    "122079278",
+    "122079303",
+    "122079280",
+    "122079281",
+    "122079282",
+    "122079283",
+    "122079284",
+    "122079301",
+    "122079286",
+    "122079287",
+    "122079288",
+    "122079304",
+    "122079290",
+    "122079291",
+    "122079305",
+    "122079306",
+    "122079294",
+    "122079302",
+    "122079307",
+    "122079297",
+    "122079298",
+    "122079299"
+   ]
+  },
+  {
+   "date": "2019-04-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122074191:por",
+     "title": "Decreto-Lei n.º 47/2019",
+     "published": "2019-04-11",
+     "dre_path": "/dr/detalhe/decreto-lei/47-2019-122074191"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "122079276",
+    "122079300",
+    "122079278",
+    "122079308",
+    "122079280",
+    "122079281",
+    "122079282",
+    "122079283",
+    "122079284",
+    "122079301",
+    "122079286",
+    "122079287",
+    "122079288",
+    "122079304",
+    "122079290",
+    "122079291",
+    "122079305",
+    "122079306",
+    "122079294",
+    "122079302",
+    "122079307",
+    "122079297",
+    "122079298",
+    "122079299"
+   ]
+  },
+  {
+   "date": "2022-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184108564:por",
+     "title": "Decreto-Lei n.º 38/2022",
+     "published": "2022-05-30",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2022-184108564"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "122079276",
+    "122079300",
+    "122079278",
+    "184184875",
+    "122079280",
+    "184184876",
+    "122079282",
+    "122079283",
+    "122079284",
+    "122079301",
+    "122079286",
+    "122079287",
+    "122079288",
+    "122079304",
+    "122079290",
+    "122079291",
+    "122079305",
+    "122079306",
+    "122079294",
+    "122079302",
+    "122079307",
+    "122079297",
+    "122079298",
+    "122079299"
+   ]
+  },
+  {
+   "date": "2023-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213558633:por",
+     "title": "Decreto-Lei n.º 36/2023",
+     "published": "2023-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/36-2023-213558633"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "122079276",
+    "122079300",
+    "122079278",
+    "213622561",
+    "122079280",
+    "184184876",
+    "122079282",
+    "122079283",
+    "122079284",
+    "122079301",
+    "122079286",
+    "122079287",
+    "122079288",
+    "122079304",
+    "122079290",
+    "122079291",
+    "122079305",
+    "122079306",
+    "122079294",
+    "122079302",
+    "122079307",
+    "122079297",
+    "122079298",
+    "122079299"
+   ]
+  }
+ ],
+ "fragments": {
+  "122079276": {
+   "fragment_id": "122074227",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 266/2012\n\nde 28 de dezembro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNeste contexto, foi aprovada a Lei Orgânica do Ministério da Economia e do Emprego (MEE), pelo Decreto-Lei n.º 126-C/2011, de 29 de dezembro, que prevê a reestruturação do Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I.P., que, por força do presente diploma, passa a designar-se IAPMEI - Agência para a Competitividade e Inovação, I.P., abreviadamente designado por IAPMEI, I.P.\n\nEste organismo da administração indireta do Estado tem por missão promover a competitividade e o crescimento empresarial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial, nas empresas que exerçam a sua atividade nas áreas sob tutela do MEE, com exceção do setor do turismo, designadamente das empresas de pequena e média dimensão.\n\nEsta reestruturação tem em vista a adaptação do organismo à estratégia nacional de reforço da competitividade empresarial e a prestação de um apoio mais ágil às empresas portuguesas, promovendo o acompanhamento em todo o seu ciclo de vida, tendo como objetivo o seu desenvolvimento e o crescimento económico.\n\nPretende-se ainda reforçar o aprofundamento das relações entre o Sistema Científico e Tecnológico Nacional (SCTN) e o mundo empresarial, razão pela qual se conferem a esta agência competências no âmbito da inovação e do desenvolvimento tecnológico, anteriormente a cargo da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A. (AdI), que será objeto de dissolução nos termos da lei.\n\nDadas as valências dos recursos humanos da AdI, com relação jurídica laboral constituída ao abrigo do Código do Trabalho, prevê-se a possibilidade de os seustrabalhadores transitarem, na situação jurídico-funcional de que hoje são titulares, para o IAPMEI, I.P., na sequência da dissolução daquela empresa pública.\n\nA Resolução do Conselho de Ministros n.º 44/2011, de 25 de outubro, alterada pela Resolução do Conselho de Ministros n.º 35/2012, de 16 de março, estabeleceu o quadro de colaboração institucional necessário à definição e execução duma política de internacionalização da economia portuguesa, prevendo oprincípio de representação cruzada entre as administrações das principais entidades públicas envolvidas nos processos de internacionalização e desenvolvimento. A orgânica do IAPMEI, I.P., espelha este princípio, integrando na composição do respetivo conselho diretivo um vogal não executivo, representante da Agência para o Investimento e Comércio Externo de Portugal, E.P.E.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122079277": {
+   "fragment_id": "122074228",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O IAPMEI, I.P. - Agência para a Competitividade e Inovação, I.P.,abreviadamente designado por IAPMEI, I.P., é um instituto público de regime especial, nos termos da lei, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O IAPMEI, I.P., prossegue atribuições do Ministério da Economia e do Emprego (MEE), sob superintendência e tutela do respetivo ministro."
+  },
+  "122079278": {
+   "fragment_id": "122074229",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O IAPMEI, I.P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - O IAPMEI, I.P., tem sede no Porto, dispondo de delegações regionais."
+  },
+  "122079279": {
+   "fragment_id": "122074230",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IAPMEI, I.P., tem por missão promover a competitividade e o crescimento empresarial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial, nas empresas que exerçam a sua atividade nas áreas sob tutela do MEE, com exceção do setor do turismo, designadamente das empresas de pequena e média dimensão.\n\n2 - São atribuições doIAPMEI, I.P.:\n\na) Desenvolver e coordenar todas as atividades conducentes a melhorar a competitividade das empresas, designadamente, das micro, pequenas e médias empresas (PME) ao longo de todo o seu ciclo de existência, funcionando como interlocutor privilegiado na relação das mesmas com o Estado;\n\nb) Promover as condições propícias à captação, realização e acompanhamento de projetos de investimento de origem nacional,independentemente da natureza jurídica do investidor, cujo valor seja inferior a 25 milhões de euros, com exceção de projetos de investimento inferiores a este valor de iniciativa deuma empresa com volume de faturação anual consolidada superior a 75 milhões de euros, ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nc)No domínio do estímulo à competitividade, ao empreendedorismo, e ao desenvolvimento empresarial:\n\ni) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado;\n\nii) Estimular o empreendedorismo empresarial de base local e contribuir para uma maior cultura de empreendedorismo na sociedade portuguesa;\n\niii) Promover a articulação entre o tecido empresarial e o Sistema Científico e Tecnológico Nacional (SCTN);\n\niv) Promover o empreendedorismo de base tecnológica suportado numa estreita ligação com as universidades e outras entidades do SCTN;\n\nv) Promover o alinhamento e a adequação dos instrumentos de financiamento ao empreendedorismo;\n\nvi) Executar iniciativas e políticas de estímulo à competitividade empresarial, nomeadamente as dirigidas ao diagnóstico e à capacitação das empresas e dos seus recursos, em particular os relacionados com a produção de bens e serviços transacionáveis;\n\nvii) Desenvolver estratégias de eficiência coletiva por parte das empresas, especialmente das PME, em articulação com os centros tecnológicos e com outras infraestruturas tecnológicas, com os polos de competitividade e tecnologia e com outros clusters, promovendo atuações concertadas de melhoria de condições de envolvente empresarial e ganhos de escala, nomeadamente de simplificação administrativa e de assistência técnica e tecnológica;\n\nviii) Dinamizar uma rede nacional de produção e partilha de informação e conhecimento sobre indústrias, cadeias de valor, empresas e ambientes de negócio, com vista a uma adequada formulação de iniciativas de política e de estratégia empresarial para a promoção da capacidade concorrencial das empresas portuguesas, e para sustentar as suas estratégias de crescimento;\n\nix) Promover a inserção de quadros qualificados nas empresas e iniciativas de difusão de informação técnica, de atividades de assistência técnica e de formação especializada dirigida às empresas, especialmente às PME.\n\nd) No domínio da Investigação e Desenvolvimento e Inovação (I+D+i):\n\ni)Executar iniciativas e programas de estímulo ao desenvolvimento empresarial, nomeadamente as dirigidas ao diagnóstico de oportunidades de inovação, à inovação e ao desenvolvimento tecnológico e à inovação organizacional;\n\nii) Criar as condições favoráveis ao desenvolvimento da I+D+iempresarial;\n\niii) Apoiar o investimento na I+D+iempresarial, promover e apoiar projetos de inovação de natureza transnacional e facilitar o acesso a apoios não nacionais no domínio da I+D+i e da transferência de conhecimento e tecnologia;\n\niv) Incentivar a valorização económica dos resultados de I&D;\n\nv) Estimular e gerir plataformas de interação entre as empresas e o SCTN, potenciando a transferência de conhecimento, tecnologia, investigação e inovação para o tecido empresarial e desenvolver competências e sensibilidades do foro empresarial junto do meio científico, nomeadamente na promoção de criação de spin-offs, startups e na utilização do I&D para o aumento da inovação e competitividade de empresas existentes.\n\ne)Nos domínios do investimento e da reestruturação empresarial:\n\ni) Executar iniciativas e políticas de apoio ao investimento empresarial,orientadas para a valorização da oferta nacional de bens e serviços transacionáveis,no âmbito definido na alínea b);\n\nii) Assegurar o enquadramento, promoção e articulação dos instrumentos de dinamização e disseminação das atividades de capital de risco, de titularização de créditos e de garantia mútua, bem como a gestão dos instrumentos de capitalização empresarial, no âmbito do MEE;\n\niii) Promover estratégias concertadas com o setor financeiro de promoção da transparência, visibilidade e avaliação das empresas para acesso a financiamento;\n\niv) Facilitar o acesso por parte das empresas, especialmente das PME, ao financiamento e à capitalização, e a instrumentos de cobertura de risco inerentes ao processo de exportação, nomeadamente, a seguros de crédito;\n\nv) Gerir os instrumentos de política de reestruturação e revitalização empresarial, nomeadamente através de mecanismos de recuperação extrajudicial de empresas, de saneamento financeiro e de transmissão da propriedade e da gestão;\n\nvi) Promover e estimular processos de concentração empresarial em setores de atividade específicos, quando os mesmos permitam obter ganhos na competitividade e melhorias na eficiência das empresas, bem como perspetivar um crescimento estruturado da sua atividade, de forma a potenciar a produção e a oferta nacionais;\n\nvii) Definir a estratégia para o conjunto de empresas participadas do IAPMEI, I.P.,assegurando a sua adequação às políticas públicas no âmbito da promoção da competitividade e do crescimento empresarial, bem como gerir e otimizar estrategicamente os instrumentos de natureza financeira ou outra.\n\nf)Nos domínios do desenvolvimento de políticas públicas:\n\ni) Colaborar com os serviços, organismos e demais entidades competentes da Administração Pública na preparação de legislação relativa à regulação e regulamentação da atividade empresarial, nomeadamente a que tenha impacte nas PME;\n\nii) Emitir parecer e acompanhar as diversas iniciativas e políticas públicas no âmbito do reforço da competitividade das empresas, em especial das PME, assegurando a uniformidade dos seus critérios;\n\niii) Participar na definição e acompanhar as iniciativas de política que se enquadrem no seu âmbito de competência, incluindo as que assumem a natureza de sistemas de incentivos, visando a sua harmonização e consistência;\n\niv) Emitirparecer, coordenar e acompanhar as iniciativas e políticas públicas de promoção de sistemas de gestão da inovação;\n\nv) Participar na definição e acompanhar as políticas de apoio e desenvolvimento das estratégias empresariais de valorização da produção eoferta nacionais;\n\nvi) Desenvolver iniciativas que tenham por objetivo a valorização da oferta de bens e serviços de empresas portuguesas;\n\nvii) Coordenar a atuação das entidades do MEE, no sentido de assegurar uma intervenção articulada nas designadas infraestruturas tecnológicas onde detenham participações de capital;\n\nviii) Participar em redes transnacionais de organizações congéneres, promovendo o intercâmbio específico de iniciativas a favor das PME, no âmbito das suas competências e atribuições, em articulação com as entidades públicas com atribuições na área da coordenação geral das relações internacionais.\n\ng) Nos domínios da assistência técnica, financeira e logística:\n\ni) Prestar apoio técnico, através da figura do gestor de cliente,e apoio financeiro às empresas, bem como a outras entidades públicas ou privadas, com vista à realização do seu objeto estatutário;\n\nii) Prestar apoio técnico para a otimização das fontes de financiamento, em função das fases de desenvolvimento da empresa;\n\niii) Intervir na gestão de áreas e parques empresariais vocacionados para instalação de empresas, nomeadamente para promoção de dinâmicas de inovação, de agregação empresarial e de sinergia logística."
+  },
+  "122079280": {
+   "fragment_id": "122074231",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos doIAPMEI, I.P.:\n\na) O conselho diretivo;\n\nb) O fiscal único."
+  },
+  "122079281": {
+   "fragment_id": "122074232",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é composto por um presidente e por dois vogais.\n\n2 - O conselho diretivo pode ainda integrar um vogal não executivo e não remunerado, ao qual cabe assegurar a representação cruzada entre o conselho diretivo do IAPMEI, I.P.,e o conselho de administração da Agência para o Investimento e Comércio Externo de Portugal, E.P.E.\n\n3 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do IAPMEI, I.P.:\n\na) Deliberar sobre a participação do IAPMEI, I.P., em outras entidades, nos termos previstos no artigo 15.º;\n\nb) Deliberar sobre a celebração de contratos, protocolos ou outros instrumentos jurídicos de tipo contratual a outorgar peloIAPMEI, I.P., sem prejuízo do cumprimento dos procedimentos e formalidades legalmente exigíveis;\n\nc)Deliberar sobre a concessão de apoios financeiros e de incentivos ou estímulos ao investimento, nos termos da legislação aplicável;\n\nd) Deliberar sobre a concessão de subsídios e patrocínios, nos termos da legislação aplicável;\n\ne)Deliberar sobre a criação ou extinção de serviços territorialmente desconcentrados, dentro dos limites definidos nos estatutos do IAPMEI, I.P.;\n\nf)Deliberar sobre a aquisição, oneração ou alienação de quaisquer bens,móveis e imóveis, e direitos, sem prejuízo do cumprimento dos procedimentos e formalidades legalmente exigíveis;\n\ng) Promover atividades de investigação com reflexo nas PME;\n\nh) Pronunciar-se sobre iniciativaslegislativas, regulamentares ou de planeamento que afetem as PME, sempre que solicitado para o efeito."
+  },
+  "122079282": {
+   "fragment_id": "122074233",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei quadro dos institutos públicos."
+  },
+  "122079283": {
+   "fragment_id": "122074234",
+   "type": 11,
+   "heading": "Artigo 7.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organização interna\n\nA organização interna do IAPMEI, I.P., é a prevista nos respetivos estatutos."
+  },
+  "122079284": {
+   "fragment_id": "122074235",
+   "type": 11,
+   "heading": "Artigo 8.º — Estatuto dos membros do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estatuto dos membros do conselho diretivo\n\n1 - Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestores públicos.\n\n2 - Os membros do conselho diretivo doIAPMEI, I.P., podemexercer, por inerência, sem lugar a qualquer acréscimo remuneratório, funções não executivas de administração nas sociedades participadas pelo IAPMEI, I.P., nos termos da lei."
+  },
+  "122079285": {
+   "fragment_id": "122074236",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O IAPMEI, I.P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O IAPMEI, I.P., dispõe ainda das seguintes receitas próprias:\n\na) O produto da venda de bens e serviços;\n\nb) Os rendimentos de bens próprios e os provenientes da sua atividade;\n\nc) O produto da venda de bens próprios e da constituição de direitos sobre eles;\n\nd) O produto de aplicações financeiras no Tesouro;\n\ne) Os subsídios, donativos ou comparticipações atribuídos por quaisquer entidades;\n\nf) Os reembolsos de empréstimos concedidos, bem como os respetivos juros e comissões;\n\ng) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - Os saldos das receitas referidas no número anterior, verificados no final de cada ano, transitam para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual."
+  },
+  "122079286": {
+   "fragment_id": "122074237",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas\n\nConstituem despesas doIAPMEI, I.P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "122079287": {
+   "fragment_id": "122074238",
+   "type": 11,
+   "heading": "Artigo 11.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Património\n\nO património doIAPMEI, I.P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "122079288": {
+   "fragment_id": "122074239",
+   "type": 11,
+   "heading": "Artigo 12.º — Cargos dirigentes intermédios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cargos dirigentes intermédios\n\n1 - São cargos de direção intermédia de 1.º grau doIAPMEI, I.P., os diretores.\n\n2 - São cargos de direção intermédia de 2.º grau doIAPMEI, I.P., os chefes de departamento.\n\n3 - A remuneração base dos cargos de direção intermédia identificados nos números anteriores é determinada em percentagem da remuneração base do vogal do conselho diretivo doIAPMEI, I.P., nas seguintes proporções:\n\na) Diretor-85 %;\n\nb) Chefe de departamento-60 %.\n\n4 - As despesas de representação dos cargos de direção intermédia de 1.º e2.º graus doIAPMEI, I.P., são determinadas em percentagem das despesas de representação do vogal do conselho diretivo doIAPMEI, I.P., nos termos do número anterior."
+  },
+  "122079289": {
+   "fragment_id": "122074240",
+   "type": 11,
+   "heading": "Artigo 13.º — Área de recrutamento de cargos dirigentes intermédios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Área de recrutamento de cargos dirigentes intermédios\n\nOs titulares dos cargos de direção intermédia de 1.º e 2.º graus, nasáreas dagestão da inovação, sistemas de incentivos à inovação e apoio a projetos de I&D empresarial, podem ser, a título excecional e devidamente fundamentado, recrutados de entre indivíduos licenciados sem vínculo à Administração Pública que reúnam os requisitos previstos no Estatuto do Pessoal Dirigente, mediante autorização dos membros do Governo responsáveis pelas áreas da administração pública e da economia, sob proposta do conselho diretivo."
+  },
+  "122079290": {
+   "fragment_id": "122074241",
+   "type": 11,
+   "heading": "Artigo 14.º — Execução das dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Execução das dívidas\n\n1 - Os créditos devidos aoIAPMEI, I.P., ficam sujeitos ao regime de processo de execução fiscal.\n\n2 - Para cobrança coerciva dos créditos referidos no número anterior, constitui título executivo a certidão de dívida emitida peloIAPMEI, I.P., acompanhada de cópia dos contratos ou outros documentos a ele referentes."
+  },
+  "122079291": {
+   "fragment_id": "122074242",
+   "type": 11,
+   "heading": "Artigo 15.º — Criação e participação em outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Criação e participação em outras entidades\n\nA criação, participação na criação, aquisição ou aumento de participação em entes de direito privado por parte doIAPMEI, I.P., apenas se pode verificar em situações excecionais quando, cumulativamente, seja fundamentadamente demonstrada a imprescindibilidade para a prossecução das suas atribuições, relacionadas com a execução de iniciativas e políticas de estímulo ao desenvolvimento empresarial, com a promoção dos sistemas de gestão da inovação e com a coordenação das iniciativas e políticas públicas dirigidas ao financiamento das empresas, e seja obtida autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da economia, nos termos do artigo 13.º da Lei n.º 3/2004, de 15 de janeiro."
+  },
+  "122079292": {
+   "fragment_id": "122074243",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nDissolução e sucessão da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A.\n\n1 - A Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A., abreviadamente designada por AdI, é dissolvida nos termos do regime legal aplicável e as suas atribuições e competências são transferidaspara o IAPMEI, I.P., a partir da data dadissolução.\n\n2 - O IAPMEI, I.P., sucede na totalidade dos bens, direitos e obrigações, legais e contratuais de que seja titular aAdI no momento da dissolução, nos termos do regime legal geral aplicável, com exceção dos direitos e obrigações que se enquadrem no âmbito de atribuições e competências da Fundação para a Ciência e a Tecnologia, I.P. (FCT, I.P.), que se transmitem para esta entidade, sem prejuízo do disposto no n.º 5.\n\n3 - Os trabalhadores que, à data da dissolução da AdI,sejam titulares de contrato individual de trabalho com a AdI, podem transitar para o IAPMEI, I.P.,sem alteração do respetivo vínculo.\n\n4 - Os órgãos competentes da AdIpromovem, em articulação com o dirigente máximo responsável pela coordenação da reestruturação doIAPMEI, I.P., o processo de dissoluçãoda AdI,no prazo de dois meses a contar da entrada em vigor do presente decreto-lei, e concluir a liquidação no prazo de quatro meses a contar da data da dissolução, nos termos de deliberaçãoda assembleia geral.\n\n5 - Após a dissolução da AdI, o ativo restante é partilhado pelos acionistas, sendo deduzido ao valor a receber pelo acionista FCT, I.P., o montante correspondente aos custos de gestão dos programas do âmbito de atuação da FCT, I.P., assegurados pela AdI.\n\n6 - O montante correspondente aos custos de gestão dos programas que recaem no âmbito da atuação da FCT, I.P., e que continuam a ser acompanhados pelo IAPMEI, I.P., até à sua conclusão, após a dissolução da AdI, é transferido pela FCT, I.P., para o IAPMEI, I.P., que passa a exercer a respetiva competência nos termos do n.º 1."
+  },
+  "122079293": {
+   "fragment_id": "122074244",
+   "type": 11,
+   "heading": "Artigo 17.º — Trabalhadores da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Trabalhadores da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A.\n\nO IAPMEI, I.P.,dispõe de um mapa de pessoal com postos de trabalho, a extinguir quando vagar, destinados aos trabalhadores com contrato individual de trabalho que, por força do presente decreto-lei, transitem daAdI."
+  },
+  "122079294": {
+   "fragment_id": "122074245",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma transitória\n\nDurante a vigência do Programa de Assistência Económica e Financeira, da aplicação das regras de fixação de remuneração estabelecidas pelo presente decreto-lei não pode resultar um aumento da remuneração efetivamente paga aos cargos de direção intermédia, designados ou a designar, tendo por referência a remuneração atribuída à data de entrada em vigor do presente decreto-lei, sem prejuízo do eventual exercício da opção pelo vencimento do lugar de origem nas novas designações."
+  },
+  "122079295": {
+   "fragment_id": "122074246",
+   "type": 11,
+   "heading": "Artigo 19.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Referências\n\nTodas as referências, legais ou regulamentares, feitas ao Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I.P., e à Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A., devem ter-se por feitas ao IAPMEI - Agência para a Competitividade e Inovação, I.P."
+  },
+  "122079296": {
+   "fragment_id": "122074247",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração ao Decreto-Lei n.º 126-C/2011, de 29 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração ao Decreto-Lei n.º 126-C/2011, de 29 de dezembro\n\nOs artigos 5.º e 17.º do Decreto-Lei n.º 126-C/2011, de 29 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...]:\n\na) O IAPMEI - Agência para a Competitividade e Inovação, I.P.;\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nl) [...];\n\nm) [...].\n\n2 - [...].\n\nArtigo 17.º\n\nIAPMEI - Agência para a Competitividade e Inovação, I.P.\n\n1 - O IAPMEI - Agência para a Competitividade e Inovação, I.P., abreviadamente designado por IAPMEI, I.P., tem por missão promover a competitividade e o crescimento empresarial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial, nas empresas que exerçam a sua atividade nas áreas sob tutela do MEE, com exceção do setor do turismo, designadamente das empresas de pequena e média dimensão.\n\n2 - O IAPMEI, I.P. prossegue, designadamente, as seguintes atribuições:\n\na) Desenvolver e coordenar todas as atividades conducentes a melhorar a competitividade das empresas, designadamente, das micro, pequenas e médias empresas (PME) ao longo de todo o seu ciclo de existência, funcionando como interlocutor privilegiado na relação das mesmas com o Estado;\n\nb) Promover as condições propícias à captação, realização e acompanhamento de projetos de investimento de origem nacional, independentemente da natureza jurídica do investidor, cujo valor seja inferior a 25 milhões de euros, com exceção de projetos de investimento inferiores a este valor de iniciativa de uma empresa com volume de faturação anual consolidada superior a 75 milhões de euros, ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nc) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado;\n\nd) Executar iniciativas e políticas de estímulo à competitividade empresarial, nomeadamente as dirigidas ao diagnóstico e à capacitação das empresas e dos seus recursos, em particular os relacionados com a produção de bens e serviços transacionáveis;\n\ne) Desenvolver estratégias de eficiência coletiva por parte das empresas, especialmente das PME, em articulação com os centros tecnológicos e com outras infraestruturas tecnológicas, com os polos de competitividade e tecnologia e com outros clusters, promovendo atuações concertadas de melhoria de condições de envolvente empresarial e ganhos de escala, nomeadamente de simplificação administrativa e de assistência técnica e tecnológica;\n\nf) Executar iniciativas e programas de estímulo ao desenvolvimento empresarial, nomeadamente as dirigidas ao diagnóstico de oportunidades de inovação, à inovação e ao desenvolvimento tecnológico e à inovação organizacional;\n\ng) Criar as condições favoráveis ao desenvolvimento da Investigação e Desenvolvimento e Inovação (I+D+i) empresarial;\n\nh) Estimular e gerir plataformas de interação entre as empresas e o Sistema Científico e Tecnológico Nacional, potenciando a transferência de conhecimento, tecnologia, investigação e inovação para o tecido empresarial e desenvolver competências e sensibilidades do foro empresarial junto do meio científico, nomeadamente na promoção de criação de spin-offs, startups e na utilização do I&D para o aumento da inovação e competitividade de empresas existentes;\n\ni) Executar iniciativas e políticas de apoio ao investimento empresarial, orientadas para a valorização da oferta nacional de bens e serviços transacionáveis, no âmbito definido na alínea b);\n\nj) Assegurar o enquadramento, promoção e articulação dos instrumentos de dinamização e disseminação das atividades de capital de risco, de titularização de créditos e de garantia mútua, bem como a gestão dos instrumentos de capitalização empresarial, no âmbito do MEE;\n\nk) Colaborar com os serviços, organismos e demais entidades competentes da Administração Pública na preparação de legislação relativa à regulação e regulamentação da atividade empresarial, nomeadamente a que tenha impacte nas PME.\n\n3 - O IAPMEI, I.P. é dirigido por um conselho diretivo, constituído por um presidente, por dois vogais com funções executivas e por um vogal não executivo.»"
+  },
+  "122079297": {
+   "fragment_id": "122074248",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 140/2007, de 27 de abril."
+  },
+  "122079298": {
+   "fragment_id": "122074249",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "122079300": {
+   "fragment_id": "122074228",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O IAPMEI - Agência para a Competitividade e Inovação, I. P., abreviadamente designado por IAPMEI, I. P., é um instituto público de regime especial, nos termos da lei, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O IAPMEI, I. P., prossegue atribuições do Ministério da Economia (ME), sob superintendência e tutela do respetivo ministro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "122079303": {
+   "fragment_id": "122074230",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IAPMEI, I. P., tem por missão promover a competitividade e o crescimento empresarial, assegurar o apoio à conceção, execução e avaliação de políticas dirigidas à atividade industrial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial nas empresas que exerçam a sua atividade nas áreas sob tutela do ME, designadamente das empresas de pequena e média dimensão, com exceção do setor do turismo e das competências de acompanhamento neste âmbito atribuídas à Direção-Geral das Atividades Económicas (DGAE).\n\n2 - São atribuições doIAPMEI, I.P.:\n\na) Desenvolver e coordenar todas as atividades conducentes a melhorar o empreendedorismo, a competitividade, a inovação, a sustentabilidade e a internacionalização das empresas, designadamente das micro, pequenas e médias empresas (PME), ao longo de todo o seu ciclo de existência;\n\nb) Promover as condições propícias à captação, realização e acompanhamento de projetos de investimento de origem nacional,independentemente da natureza jurídica do investidor, cujo valor seja inferior a 25 milhões de euros, com exceção de projetos de investimento inferiores a este valor de iniciativa deuma empresa com volume de faturação anual consolidada superior a 75 milhões de euros, ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nc)No domínio do estímulo à competitividade, ao empreendedorismo, e ao desenvolvimento empresarial:\n\ni) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado, contribuindo para uma maior cultura de empreendedorismo na sociedade portuguesa;\n\nii) [Revogada];\n\niii) Promover a articulação entre o tecido empresarial e o Sistema Científico e Tecnológico Nacional (SCTN);\n\niv) Promover o empreendedorismo de base tecnológica suportado numa estreita ligação com as universidades e outras entidades do SCTN;\n\nv) Promover o alinhamento e a adequação dos instrumentos de financiamento ao empreendedorismo;\n\nvi) Executar iniciativas e políticas de estímulo à competitividade empresarial, nomeadamente as dirigidas ao diagnóstico e à capacitação das empresas e dos seus recursos, em particular os relacionados com a produção de bens e serviços transacionáveis;\n\nvii) Desenvolver estratégias de eficiência coletiva por parte das empresas, especialmente das PME, em articulação com os centros tecnológicos e com outras infraestruturas tecnológicas, com os polos de competitividade e tecnologia e com outros clusters, promovendo atuações concertadas de melhoria de condições de envolvente empresarial e ganhos de escala, nomeadamente de simplificação administrativa e de assistência técnica e tecnológica;\n\nviii) Dinamizar uma rede nacional de produção e partilha de informação e conhecimento sobre indústrias, cadeias de valor, empresas e ambientes de negócio, com vista a uma adequada formulação de iniciativas de política e de estratégia empresarial para a promoção da capacidade concorrencial das empresas portuguesas, e para sustentar as suas estratégias de crescimento;\n\nix) Promover a inserção de quadros qualificados nas empresas e iniciativas de difusão de informação técnica, de atividades de assistência técnica e de formação especializada dirigida às empresas, especialmente às PME.\n\nd) No domínio da Investigação e Desenvolvimento e Inovação (I+D+i):\n\ni)Executar iniciativas e programas de estímulo ao desenvolvimento empresarial, nomeadamente as dirigidas ao diagnóstico de oportunidades de inovação, à inovação e ao desenvolvimento tecnológico e à inovação organizacional;\n\nii) Criar as condições favoráveis ao desenvolvimento da I+D+I empresarial e apoiar o investimento empresarial nesse contexto;\n\niii) [Revogada];\n\niv) Incentivar a valorização económica do I&D empresarial;\n\nv) [Revogada];\n\ne)Nos domínios do investimento e da reestruturação empresarial:\n\ni) Executar iniciativas e políticas de apoio ao investimento empresarial,orientadas para a valorização da oferta nacional de bens e serviços transacionáveis,no âmbito definido na alínea b);\n\nii) Assegurar o enquadramento, promoção e articulação dos instrumentos de dinamização e disseminação das atividades de capital de risco, de titularização de créditos e de garantia mútua, bem como a gestão dos instrumentos de capitalização empresarial, no âmbito do ME;\n\niii) Promover estratégias concertadas com o setor financeiro de promoção da transparência, visibilidade e avaliação das empresas para acesso a financiamento;\n\niv) Facilitar o acesso por parte das empresas, especialmente das PME, ao financiamento e à capitalização, e a instrumentos de cobertura de risco inerentes ao processo de exportação, nomeadamente, a seguros de crédito;\n\nv) Gerir os instrumentos de política de reestruturação e revitalização empresarial, nomeadamente através de mecanismos de recuperação extrajudicial de empresas, de saneamento financeiro e de transmissão da propriedade e da gestão;\n\nvi) Promover e estimular processos de concentração empresarial em setores de atividade específicos, quando os mesmos permitam obter ganhos na competitividade e melhorias na eficiência das empresas, bem como perspetivar um crescimento estruturado da sua atividade, de forma a potenciar a produção e a oferta nacionais;\n\nvii) Definir a estratégia para o conjunto de empresas participadas do IAPMEI, I.P.,assegurando a sua adequação às políticas públicas no âmbito da promoção da competitividade e do crescimento empresarial, bem como gerir e otimizar estrategicamente os instrumentos de natureza financeira ou outra.\n\nf)Nos domínios do desenvolvimento de políticas públicas:\n\ni) Colaborar com os serviços, organismos e demais entidades competentes da Administração Pública na preparação de legislação relativa à regulação e regulamentação da atividade empresarial, nomeadamente a que tenha impacte nas PME;\n\nii) Emitir parecer e acompanhar as diversas iniciativas e políticas públicas no âmbito do reforço da competitividade das empresas, em especial das PME, assegurando a uniformidade dos seus critérios;\n\niii) Participar na definição e acompanhar as iniciativas de política que se enquadrem no seu âmbito de competência, incluindo as que assumem a natureza de sistemas de incentivos, visando a sua harmonização e consistência;\n\niv) Emitirparecer, coordenar e acompanhar as iniciativas e políticas públicas de promoção de sistemas de gestão da inovação;\n\nv) Participar na definição e acompanhar as políticas de apoio e desenvolvimento das estratégias empresariais de valorização da produção eoferta nacionais;\n\nvi) Desenvolver iniciativas que tenham por objetivo a valorização da oferta de bens e serviços de empresas portuguesas;\n\nvii) Coordenar a atuação das entidades do ME, no sentido de assegurar uma intervenção articulada nas designadas infraestruturas tecnológicas onde detenham participações de capital;\n\nviii) Participar em redes transnacionais de organizações congéneres, promovendo o intercâmbio específico de iniciativas a favor das PME, no âmbito das suas competências e atribuições, em articulação com as entidades públicas com atribuições na área da coordenação geral das relações internacionais.\n\ng) Nos domínios da assistência técnica, financeira e logística:\n\ni) Prestar apoio técnico, através da figura do gestor de cliente,e apoio financeiro às empresas, bem como a outras entidades públicas ou privadas, com vista à realização do seu objeto estatutário;\n\nii) Prestar apoio técnico para a otimização das fontes de financiamento, em função das fases de desenvolvimento da empresa;\n\niii) Intervir na gestão de áreas e parques empresariais vocacionados para instalação de empresas, nomeadamente para promoção de dinâmicas de inovação, de agregação empresarial e de sinergia logística.\n\nh) No domínio do comércio e serviços, assegurar a presença regional e a prestação de proximidade dos serviços aos investidores e às empresas;\n\ni) No domínio da indústria:\n\ni) Assegurar o apoio à definição, pelo Governo, e à dinamização da política setorial relativa à indústria, acompanhando a execução das medidas dela decorrentes, sem prejuízo das competências de acompanhamento neste âmbito atribuídas à DGAE;\n\nii) Assegurar a presença regional e a prestação de proximidade dos serviços aos investidores e às empresas;\n\niii) Exercer as competências que lhe sejam cometidas ao abrigo dos regimes legais aplicáveis às atividades económicas do setor industrial;\n\nj) No domínio das relações internacionais relativo à indústria e inovação, sem prejuízo das competências da DGAE de coordenação e acompanhamento das relações bilaterais europeias e internacionais, no âmbito de atuação do ME:\n\ni) Assegurar a participação do ME no quadro dos assuntos europeus no âmbito das suas competências, designadamente nos processos de transposição das diretivas e de execução de regulamentos, bem como dos processos de pré-contencioso e contencioso da União Europeia;\n\nii) Propor e desenvolver atividades no âmbito da cooperação internacional, europeia e bilateral, designadamente com os países de língua oficial portuguesa, em articulação com os órgãos e serviços do Ministério dos Negócios Estrangeiros, no âmbito das suas competências.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "122079301": {
+   "fragment_id": "122074236",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O IAPMEI, I.P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O IAPMEI, I.P., dispõe ainda das seguintes receitas próprias:\n\na) O produto das taxas, coimas ou outros valores de natureza pecuniária que lhe esteja consignado;\n\nb) O produto da venda de bens e serviços;\n\nc) Os rendimentos de bens próprios e os provenientes da sua atividade;\n\nd) O produto da venda de bens próprios e da constituição de direitos sobre eles;\n\ne) O produto de aplicações financeiras no Tesouro;\n\nf) Os subsídios, donativos ou comparticipações atribuídos por quaisquer entidades;\n\ng) Os reembolsos de empréstimos concedidos, bem como os respetivos juros e comissões;\n\nh) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - Os saldos das receitas referidas no número anterior, verificados no final de cada ano, transitam para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "122079304": {
+   "fragment_id": "122074240",
+   "type": 11,
+   "heading": "Artigo 13.º — Área de recrutamento de cargos dirigentes intermédios",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 13.º — Área de recrutamento de cargos dirigentes intermédios\n\nOs titulares dos cargos de direção intermédia de 1.º e 2.º graus, nasáreas dagestão da inovação, sistemas de incentivos à inovação e apoio a projetos de I&D empresarial, podem ser, a título excecional e devidamente fundamentado, recrutados de entre indivíduos licenciados sem vínculo à Administração Pública que reúnam os requisitos previstos no Estatuto do Pessoal Dirigente, mediante autorização dos membros do Governo responsáveis pelas áreas da administração pública e da economia, sob proposta do conselho diretivo.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "122079305": {
+   "fragment_id": "122074243",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 16.º\n\nDissolução e sucessão da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A.\n\n1 - A Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A., abreviadamente designada por AdI, é dissolvida nos termos do regime legal aplicável e as suas atribuições e competências são transferidaspara o IAPMEI, I.P., a partir da data dadissolução.\n\n2 - O IAPMEI, I.P., sucede na totalidade dos bens, direitos e obrigações, legais e contratuais de que seja titular aAdI no momento da dissolução, nos termos do regime legal geral aplicável, com exceção dos direitos e obrigações que se enquadrem no âmbito de atribuições e competências da Fundação para a Ciência e a Tecnologia, I.P. (FCT, I.P.), que se transmitem para esta entidade, sem prejuízo do disposto no n.º 5.\n\n3 - Os trabalhadores que, à data da dissolução da AdI,sejam titulares de contrato individual de trabalho com a AdI, podem transitar para o IAPMEI, I.P.,sem alteração do respetivo vínculo.\n\n4 - Os órgãos competentes da AdIpromovem, em articulação com o dirigente máximo responsável pela coordenação da reestruturação doIAPMEI, I.P., o processo de dissoluçãoda AdI,no prazo de dois meses a contar da entrada em vigor do presente decreto-lei, e concluir a liquidação no prazo de quatro meses a contar da data da dissolução, nos termos de deliberaçãoda assembleia geral.\n\n5 - Após a dissolução da AdI, o ativo restante é partilhado pelos acionistas, sendo deduzido ao valor a receber pelo acionista FCT, I.P., o montante correspondente aos custos de gestão dos programas do âmbito de atuação da FCT, I.P., assegurados pela AdI.\n\n6 - O montante correspondente aos custos de gestão dos programas que recaem no âmbito da atuação da FCT, I.P., e que continuam a ser acompanhados pelo IAPMEI, I.P., até à sua conclusão, após a dissolução da AdI, é transferido pela FCT, I.P., para o IAPMEI, I.P., que passa a exercer a respetiva competência nos termos do n.º 1.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "122079306": {
+   "fragment_id": "122074244",
+   "type": 11,
+   "heading": "Artigo 17.º — Trabalhadores da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A.",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 17.º — Trabalhadores da Agência de Inovação - Inovação Empresarial e Transferência de Tecnologia, S.A.\n\nO IAPMEI, I.P.,dispõe de um mapa de pessoal com postos de trabalho, a extinguir quando vagar, destinados aos trabalhadores com contrato individual de trabalho que, por força do presente decreto-lei, transitem daAdI.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "122079302": {
+   "fragment_id": "122074246",
+   "type": 11,
+   "heading": "Artigo 19.º — Referências",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 19.º — Referências\n\nTodas as referências legais ou regulamentares feitas ao Instituto de Apoio às Pequenas e Médias Empresas e à Inovação, I. P., devem considerar-se como feitas ao IAPMEI - Agência para a Competitividade e Inovação, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "122079307": {
+   "fragment_id": "122074247",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração ao Decreto-Lei n.º 126-C/2011, de 29 de dezembro",
+   "in_force_from": "2014-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 20.º — Alteração ao Decreto-Lei n.º 126-C/2011, de 29 de dezembro\n\nOs artigos 5.º e 17.º do Decreto-Lei n.º 126-C/2011, de 29 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...]:\n\na) O IAPMEI - Agência para a Competitividade e Inovação, I.P.;\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nl) [...];\n\nm) [...].\n\n2 - [...].\n\nArtigo 17.º\n\nIAPMEI - Agência para a Competitividade e Inovação, I.P.\n\n1 - O IAPMEI - Agência para a Competitividade e Inovação, I.P., abreviadamente designado por IAPMEI, I.P., tem por missão promover a competitividade e o crescimento empresarial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial, nas empresas que exerçam a sua atividade nas áreas sob tutela do MEE, com exceção do setor do turismo, designadamente das empresas de pequena e média dimensão.\n\n2 - O IAPMEI, I.P. prossegue, designadamente, as seguintes atribuições:\n\na) Desenvolver e coordenar todas as atividades conducentes a melhorar a competitividade das empresas, designadamente, das micro, pequenas e médias empresas (PME) ao longo de todo o seu ciclo de existência, funcionando como interlocutor privilegiado na relação das mesmas com o Estado;\n\nb) Promover as condições propícias à captação, realização e acompanhamento de projetos de investimento de origem nacional, independentemente da natureza jurídica do investidor, cujo valor seja inferior a 25 milhões de euros, com exceção de projetos de investimento inferiores a este valor de iniciativa de uma empresa com volume de faturação anual consolidada superior a 75 milhões de euros, ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nc) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado;\n\nd) Executar iniciativas e políticas de estímulo à competitividade empresarial, nomeadamente as dirigidas ao diagnóstico e à capacitação das empresas e dos seus recursos, em particular os relacionados com a produção de bens e serviços transacionáveis;\n\ne) Desenvolver estratégias de eficiência coletiva por parte das empresas, especialmente das PME, em articulação com os centros tecnológicos e com outras infraestruturas tecnológicas, com os polos de competitividade e tecnologia e com outros clusters, promovendo atuações concertadas de melhoria de condições de envolvente empresarial e ganhos de escala, nomeadamente de simplificação administrativa e de assistência técnica e tecnológica;\n\nf) Executar iniciativas e programas de estímulo ao desenvolvimento empresarial, nomeadamente as dirigidas ao diagnóstico de oportunidades de inovação, à inovação e ao desenvolvimento tecnológico e à inovação organizacional;\n\ng) Criar as condições favoráveis ao desenvolvimento da Investigação e Desenvolvimento e Inovação (I+D+i) empresarial;\n\nh) Estimular e gerir plataformas de interação entre as empresas e o Sistema Científico e Tecnológico Nacional, potenciando a transferência de conhecimento, tecnologia, investigação e inovação para o tecido empresarial e desenvolver competências e sensibilidades do foro empresarial junto do meio científico, nomeadamente na promoção de criação de spin-offs, startups e na utilização do I&D para o aumento da inovação e competitividade de empresas existentes;\n\ni) Executar iniciativas e políticas de apoio ao investimento empresarial, orientadas para a valorização da oferta nacional de bens e serviços transacionáveis, no âmbito definido na alínea b);\n\nj) Assegurar o enquadramento, promoção e articulação dos instrumentos de dinamização e disseminação das atividades de capital de risco, de titularização de créditos e de garantia mútua, bem como a gestão dos instrumentos de capitalização empresarial, no âmbito do MEE;\n\nk) Colaborar com os serviços, organismos e demais entidades competentes da Administração Pública na preparação de legislação relativa à regulação e regulamentação da atividade empresarial, nomeadamente a que tenha impacte nas PME.\n\n3 - O IAPMEI, I.P. é dirigido por um conselho diretivo, constituído por um presidente, por dois vogais com funções executivas e por um vogal não executivo.»\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "122079299": {
+   "fragment_id": "122074250",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de outubro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo Sacadura Cabral Portas - Álvaro Santos Pereira - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 18 de dezembro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de dezembro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "122079308": {
+   "fragment_id": "122074230",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2019-04-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 47/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2019-122074191), em vigor a partir de 2019-04-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IAPMEI, I. P., tem por missão promover a competitividade e o crescimento empresarial, assegurar o apoio à conceção, execução e avaliação de políticas dirigidas à atividade industrial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial nas empresas que exerçam a sua atividade nas áreas sob tutela do ME, designadamente das empresas de pequena e média dimensão, com exceção do setor do turismo e das competências de acompanhamento neste âmbito atribuídas à Direção-Geral das Atividades Económicas (DGAE).\n\n2 - São atribuições doIAPMEI, I.P.:\n\na) Desenvolver e coordenar todas as atividades conducentes a melhorar o empreendedorismo, a competitividade, a inovação, a sustentabilidade e a internacionalização das empresas, designadamente das micro, pequenas e médias empresas (PME), ao longo de todo o seu ciclo de existência;\n\nb) Promover as condições propícias à captação, realização e acompanhamento de projetos de investimento de origem nacional,independentemente da natureza jurídica do investidor, cujo valor seja inferior a 25 milhões de euros, com exceção de projetos de investimento inferiores a este valor de iniciativa deuma empresa com volume de faturação anual consolidada superior a 75 milhões de euros, ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nc)No domínio do estímulo à competitividade, ao empreendedorismo, e ao desenvolvimento empresarial:\n\ni) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado, contribuindo para uma maior cultura de empreendedorismo na sociedade portuguesa;\n\nii) [Revogada];\n\niii) Promover a articulação entre o tecido empresarial e o Sistema Científico e Tecnológico Nacional (SCTN);\n\niv) Promover o empreendedorismo de base tecnológica suportado numa estreita ligação com as universidades e outras entidades do SCTN;\n\nv) Promover o alinhamento e a adequação dos instrumentos de financiamento ao empreendedorismo;\n\nvi) Executar iniciativas e políticas de estímulo à competitividade empresarial, nomeadamente as dirigidas ao diagnóstico e à capacitação das empresas e dos seus recursos, em particular os relacionados com a produção de bens e serviços transacionáveis;\n\nvii) Desenvolver estratégias de eficiência coletiva por parte das empresas, especialmente das PME, em articulação com os centros tecnológicos e com outras infraestruturas tecnológicas, com os polos de competitividade e tecnologia e com outros clusters, promovendo atuações concertadas de melhoria de condições de envolvente empresarial e ganhos de escala, nomeadamente de simplificação administrativa e de assistência técnica e tecnológica;\n\nviii) Dinamizar uma rede nacional de produção e partilha de informação e conhecimento sobre indústrias, cadeias de valor, empresas e ambientes de negócio, com vista a uma adequada formulação de iniciativas de política e de estratégia empresarial para a promoção da capacidade concorrencial das empresas portuguesas, e para sustentar as suas estratégias de crescimento;\n\nix) Promover a inserção de quadros qualificados nas empresas e iniciativas de difusão de informação técnica, de atividades de assistência técnica e de formação especializada dirigida às empresas, especialmente às PME.\n\nd) No domínio da Investigação e Desenvolvimento e Inovação (I+D+i):\n\ni)Executar iniciativas e programas de estímulo ao desenvolvimento empresarial, nomeadamente as dirigidas ao diagnóstico de oportunidades de inovação, à inovação e ao desenvolvimento tecnológico e à inovação organizacional;\n\nii) Criar as condições favoráveis ao desenvolvimento da I+D+I empresarial e apoiar o investimento empresarial nesse contexto;\n\niii) [Revogada];\n\niv) Incentivar a valorização económica do I&D empresarial;\n\nv) [Revogada];\n\ne)Nos domínios do investimento e da reestruturação empresarial:\n\ni) Executar iniciativas e políticas de apoio ao investimento empresarial,orientadas para a valorização da oferta nacional de bens e serviços transacionáveis,no âmbito definido na alínea b);\n\nii) Assegurar o enquadramento, promoção e articulação dos instrumentos de dinamização e disseminação das atividades de capital de risco, de titularização de créditos e de garantia mútua, bem como a gestão dos instrumentos de capitalização empresarial, no âmbito do ME;\n\niii) Promover estratégias concertadas com o setor financeiro de promoção da transparência, visibilidade e avaliação das empresas para acesso a financiamento;\n\niv) Facilitar o acesso por parte das empresas, especialmente das PME, ao financiamento e à capitalização, e a instrumentos de cobertura de risco inerentes ao processo de exportação, nomeadamente, a seguros de crédito;\n\nv) Gerir os instrumentos de política de reestruturação e revitalização empresarial, nomeadamente através de mecanismos de recuperação extrajudicial de empresas, de saneamento financeiro e de transmissão da propriedade e da gestão;\n\nvi) Promover e estimular processos de concentração empresarial em setores de atividade específicos, quando os mesmos permitam obter ganhos na competitividade e melhorias na eficiência das empresas, bem como perspetivar um crescimento estruturado da sua atividade, de forma a potenciar a produção e a oferta nacionais;\n\nvii) Definir a estratégia para o conjunto de empresas participadas do IAPMEI, I.P.,assegurando a sua adequação às políticas públicas no âmbito da promoção da competitividade e do crescimento empresarial, bem como gerir e otimizar estrategicamente os instrumentos de natureza financeira ou outra.\n\nviii) Análise da situação económica e financeira das empresas no âmbito do Mecanismo de Alerta Precoce;\n\nf)Nos domínios do desenvolvimento de políticas públicas:\n\ni) Colaborar com os serviços, organismos e demais entidades competentes da Administração Pública na preparação de legislação relativa à regulação e regulamentação da atividade empresarial, nomeadamente a que tenha impacte nas PME;\n\nii) Emitir parecer e acompanhar as diversas iniciativas e políticas públicas no âmbito do reforço da competitividade das empresas, em especial das PME, assegurando a uniformidade dos seus critérios;\n\niii) Participar na definição e acompanhar as iniciativas de política que se enquadrem no seu âmbito de competência, incluindo as que assumem a natureza de sistemas de incentivos, visando a sua harmonização e consistência;\n\niv) Emitirparecer, coordenar e acompanhar as iniciativas e políticas públicas de promoção de sistemas de gestão da inovação;\n\nv) Participar na definição e acompanhar as políticas de apoio e desenvolvimento das estratégias empresariais de valorização da produção eoferta nacionais;\n\nvi) Desenvolver iniciativas que tenham por objetivo a valorização da oferta de bens e serviços de empresas portuguesas;\n\nvii) Coordenar a atuação das entidades do ME, no sentido de assegurar uma intervenção articulada nas designadas infraestruturas tecnológicas onde detenham participações de capital;\n\nviii) Participar em redes transnacionais de organizações congéneres, promovendo o intercâmbio específico de iniciativas a favor das PME, no âmbito das suas competências e atribuições, em articulação com as entidades públicas com atribuições na área da coordenação geral das relações internacionais.\n\ng) Nos domínios da assistência técnica, financeira e logística:\n\ni) Prestar apoio técnico, através da figura do gestor de cliente,e apoio financeiro às empresas, bem como a outras entidades públicas ou privadas, com vista à realização do seu objeto estatutário;\n\nii) Prestar apoio técnico para a otimização das fontes de financiamento, em função das fases de desenvolvimento da empresa;\n\niii) Intervir na gestão de áreas e parques empresariais vocacionados para instalação de empresas, nomeadamente para promoção de dinâmicas de inovação, de agregação empresarial e de sinergia logística.\n\nh) No domínio do comércio e serviços, assegurar a presença regional e a prestação de proximidade dos serviços aos investidores e às empresas;\n\ni) No domínio da indústria:\n\ni) Assegurar o apoio à definição, pelo Governo, e à dinamização da política setorial relativa à indústria, acompanhando a execução das medidas dela decorrentes, sem prejuízo das competências de acompanhamento neste âmbito atribuídas à DGAE;\n\nii) Assegurar a presença regional e a prestação de proximidade dos serviços aos investidores e às empresas;\n\niii) Exercer as competências que lhe sejam cometidas ao abrigo dos regimes legais aplicáveis às atividades económicas do setor industrial;\n\nj) No domínio das relações internacionais relativo à indústria e inovação, sem prejuízo das competências da DGAE de coordenação e acompanhamento das relações bilaterais europeias e internacionais, no âmbito de atuação do ME:\n\ni) Assegurar a participação do ME no quadro dos assuntos europeus no âmbito das suas competências, designadamente nos processos de transposição das diretivas e de execução de regulamentos, bem como dos processos de pré-contencioso e contencioso da União Europeia;\n\nii) Propor e desenvolver atividades no âmbito da cooperação internacional, europeia e bilateral, designadamente com os países de língua oficial portuguesa, em articulação com os órgãos e serviços do Ministério dos Negócios Estrangeiros, no âmbito das suas competências.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 47/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2019-122074191), em vigor a partir de 2019-04-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "184184875": {
+   "fragment_id": "122074230",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 47/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2019-122074191), em vigor a partir de 2019-04-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IAPMEI, I. P., tem por missão promover a competitividade e o crescimento empresarial, assegurar o apoio à conceção, execução e avaliação de políticas dirigidas à atividade industrial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial nas empresas que exerçam a sua atividade nas áreas sob tutela do ME, designadamente das empresas de pequena e média dimensão, com exceção do setor do turismo e das competências de acompanhamento neste âmbito atribuídas à Direção-Geral das Atividades Económicas (DGAE).\n\n2 - São atribuições doIAPMEI, I.P.:\n\na) Desenvolver e coordenar todas as atividades conducentes a melhorar o empreendedorismo, a competitividade, a inovação, a sustentabilidade e a internacionalização das empresas, designadamente das micro, pequenas e médias empresas (PME), ao longo de todo o seu ciclo de existência;\n\nb) Promover as condições propícias à captação, realização e acompanhamento de projetos de investimento de origem nacional,independentemente da natureza jurídica do investidor, cujo valor seja inferior a 25 milhões de euros, com exceção de projetos de investimento inferiores a este valor de iniciativa deuma empresa com volume de faturação anual consolidada superior a 75 milhões de euros, ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nc)No domínio do estímulo à competitividade, ao empreendedorismo, e ao desenvolvimento empresarial:\n\ni) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado, contribuindo para uma maior cultura de empreendedorismo na sociedade portuguesa;\n\nii) [Revogada];\n\niii) Promover a articulação entre o tecido empresarial e o Sistema Científico e Tecnológico Nacional (SCTN);\n\niv) Promover o empreendedorismo de base tecnológica suportado numa estreita ligação com as universidades e outras entidades do SCTN;\n\nv) Promover o alinhamento e a adequação dos instrumentos de financiamento ao empreendedorismo;\n\nvi) Executar iniciativas e políticas de estímulo à competitividade empresarial, nomeadamente as dirigidas ao diagnóstico e à capacitação das empresas e dos seus recursos, em particular os relacionados com a produção de bens e serviços transacionáveis;\n\nvii) Desenvolver estratégias de eficiência coletiva por parte das empresas, especialmente das PME, em articulação com os centros tecnológicos e com outras infraestruturas tecnológicas, com os polos de competitividade e tecnologia e com outros clusters, promovendo atuações concertadas de melhoria de condições de envolvente empresarial e ganhos de escala, nomeadamente de simplificação administrativa e de assistência técnica e tecnológica;\n\nviii) Dinamizar uma rede nacional de produção e partilha de informação e conhecimento sobre indústrias, cadeias de valor, empresas e ambientes de negócio, com vista a uma adequada formulação de iniciativas de política e de estratégia empresarial para a promoção da capacidade concorrencial das empresas portuguesas, e para sustentar as suas estratégias de crescimento;\n\nix) Promover a inserção de quadros qualificados nas empresas e iniciativas de difusão de informação técnica, de atividades de assistência técnica e de formação especializada dirigida às empresas, especialmente às PME.\n\nd) No domínio da Investigação e Desenvolvimento e Inovação (I+D+i):\n\ni)Executar iniciativas e programas de estímulo ao desenvolvimento empresarial, nomeadamente as dirigidas ao diagnóstico de oportunidades de inovação, à inovação e ao desenvolvimento tecnológico e à inovação organizacional;\n\nii) Criar as condições favoráveis ao desenvolvimento da I+D+I empresarial e apoiar o investimento empresarial nesse contexto;\n\niii) [Revogada];\n\niv) Incentivar a valorização económica do I&D empresarial;\n\nv) [Revogada];\n\nvi) Estimular a I&D colaborativa como forma de afirmação e valorização económica dos mecanismos de acumulação de conhecimentos, designadamente através da implementação de programas, estratégias ou definição de agendas enquanto instrumentos mobilizadores do desenvolvimento tecnológico;\n\ne)Nos domínios do investimento e da reestruturação empresarial:\n\ni) Executar iniciativas e políticas de apoio ao investimento empresarial,orientadas para a valorização da oferta nacional de bens e serviços transacionáveis,no âmbito definido na alínea b);\n\nii) Assegurar o enquadramento, promoção e articulação dos instrumentos de dinamização e disseminação das atividades de capital de risco, de titularização de créditos e de garantia mútua, bem como a gestão dos instrumentos de capitalização empresarial, no âmbito do ME;\n\niii) Promover estratégias concertadas com o setor financeiro de promoção da transparência, visibilidade e avaliação das empresas para acesso a financiamento;\n\niv) Facilitar o acesso por parte das empresas, especialmente das PME, ao financiamento e à capitalização, e a instrumentos de cobertura de risco inerentes ao processo de exportação, nomeadamente, a seguros de crédito;\n\nv) Gerir os instrumentos de política de reestruturação e revitalização empresarial, nomeadamente através de mecanismos de recuperação extrajudicial de empresas, de saneamento financeiro e de transmissão da propriedade e da gestão;\n\nvi) Promover e estimular processos de concentração empresarial em setores de atividade específicos, quando os mesmos permitam obter ganhos na competitividade e melhorias na eficiência das empresas, bem como perspetivar um crescimento estruturado da sua atividade, de forma a potenciar a produção e a oferta nacionais;\n\nvii) Definir a estratégia para o conjunto de empresas participadas do IAPMEI, I.P.,assegurando a sua adequação às políticas públicas no âmbito da promoção da competitividade e do crescimento empresarial, bem como gerir e otimizar estrategicamente os instrumentos de natureza financeira ou outra.\n\nviii) Análise da situação económica e financeira das empresas no âmbito do Mecanismo de Alerta Precoce;\n\nf)Nos domínios do desenvolvimento de políticas públicas:\n\ni) Colaborar com os serviços, organismos e demais entidades competentes da Administração Pública na preparação de legislação relativa à regulação e regulamentação da atividade empresarial, nomeadamente a que tenha impacte nas PME;\n\nii) Emitir parecer e acompanhar as diversas iniciativas e políticas públicas no âmbito do reforço da competitividade das empresas, em especial das PME, assegurando a uniformidade dos seus critérios;\n\niii) Participar na definição e acompanhar as iniciativas de política que se enquadrem no seu âmbito de competência, incluindo as que assumem a natureza de sistemas de incentivos, visando a sua harmonização e consistência;\n\niv) Emitirparecer, coordenar e acompanhar as iniciativas e políticas públicas de promoção de sistemas de gestão da inovação;\n\nv) Participar na definição e acompanhar as políticas de apoio e desenvolvimento das estratégias empresariais de valorização da produção eoferta nacionais;\n\nvi) Desenvolver iniciativas que tenham por objetivo a valorização da oferta de bens e serviços de empresas portuguesas;\n\nvii) Coordenar a atuação das entidades do ME, no sentido de assegurar uma intervenção articulada nas designadas infraestruturas tecnológicas onde detenham participações de capital;\n\nviii) Participar em redes transnacionais de organizações congéneres, promovendo o intercâmbio específico de iniciativas a favor das PME, no âmbito das suas competências e atribuições, em articulação com as entidades públicas com atribuições na área da coordenação geral das relações internacionais.\n\nix) Promover programas, iniciativas e serviços alinhados com as políticas públicas nacionais e comunitárias com vista a apoiar o empreendedorismo e a dinamização da inovação empresarial e da capacitação da gestão da inovação;\n\nx) Assegurar a gestão dos sistemas de incentivo ao investimento empresarial, nomeadamente nos setores da indústria, do comércio e dos serviços, à investigação e ao desenvolvimento industrial e colaborativo, bem como ao desenvolvimento de centros tecnológicos e outras estruturas de interface;\n\nxi) Desenvolver instrumentos de apoio e sistemas de incentivos, sob sua gestão, para promoção e apoio à transformação e/ou adaptação das estruturas empresariais, em linha com as metas e trajetórias definidas no âmbito do roteiro para a neutralidade carbónica 2050;\n\ng) Nos domínios da assistência técnica, financeira e logística:\n\ni) Prestar apoio técnico, através da figura do gestor de cliente,e apoio financeiro às empresas, bem como a outras entidades públicas ou privadas, com vista à realização do seu objeto estatutário;\n\nii) Prestar apoio técnico para a otimização das fontes de financiamento, em função das fases de desenvolvimento da empresa;\n\niii) Intervir na gestão de áreas e parques empresariais vocacionados para instalação de empresas, nomeadamente para promoção de dinâmicas de inovação, de agregação empresarial e de sinergia logística.\n\nh) No domínio do comércio e serviços, assegurar a presença regional e a prestação de proximidade dos serviços aos investidores e às empresas;\n\ni) No domínio da indústria:\n\ni) Assegurar o apoio à definição, pelo Governo, e à dinamização da política setorial relativa à indústria, acompanhando a execução das medidas dela decorrentes, sem prejuízo das competências de acompanhamento neste âmbito atribuídas à DGAE;\n\nii) Assegurar a presença regional e a prestação de proximidade dos serviços aos investidores e às empresas;\n\niii) Exercer as competências que lhe sejam cometidas ao abrigo dos regimes legais aplicáveis às atividades económicas do setor industrial;\n\nj) No domínio das relações internacionais relativo à indústria e inovação, sem prejuízo das competências da DGAE de coordenação e acompanhamento das relações bilaterais europeias e internacionais, no âmbito de atuação do ME:\n\ni) Assegurar a participação do ME no quadro dos assuntos europeus no âmbito das suas competências, designadamente nos processos de transposição das diretivas e de execução de regulamentos, bem como dos processos de pré-contencioso e contencioso da União Europeia;\n\nii) Propor e desenvolver atividades no âmbito da cooperação internacional, europeia e bilateral, designadamente com os países de língua oficial portuguesa, em articulação com os órgãos e serviços do Ministério dos Negócios Estrangeiros, no âmbito das suas competências.\n\nk) No domínio da transição digital, intervir na promoção, coordenação e desenvolvimento da Rede Nacional de Polos de Inovação Digital, promovendo a adoção de tecnologias digitais avançadas por parte das empresas e desenvolvendo instrumentos direcionados para a capacitação, inclusão e transformação digital do tecido empresarial, no âmbito do Plano de Ação para a Transição Digital.\n\n3 - O IAPMEI, I. P., demonstrada a prossecução do interesse público e no âmbito das suas atribuições, pode participar em associações ou colaborar com entidades nacionais e internacionais, podendo ainda, exclusivamente no âmbito da sua intervenção no Plano de Recuperação e Resiliência enquanto beneficiário, conceder apoios financeiros e celebrar protocolos de cooperação ou contratos-programa específicos com empresas públicas e entidades nacionais sem fins lucrativos, desde que desenvolvam atividades de interesse público e comum e prestem apoio ou promovam o reforço da competitividade das atividades empresariais.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 47/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2019-122074191), em vigor a partir de 2019-04-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  },
+  "184184876": {
+   "fragment_id": "122074232",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": "2022-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é composto por um presidente, um vice-presidente e dois vogais.\n\n2 - O conselho diretivo pode ainda integrar um vogal não executivo e não remunerado, ao qual cabe assegurar a representação cruzada entre o conselho diretivo do IAPMEI, I.P.,e o conselho de administração da Agência para o Investimento e Comércio Externo de Portugal, E.P.E.\n\n3 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do IAPMEI, I.P.:\n\na) Deliberar sobre a participação do IAPMEI, I.P., em outras entidades, nos termos previstos no artigo 15.º;\n\nb) Deliberar sobre a celebração de contratos, protocolos ou outros instrumentos jurídicos de tipo contratual a outorgar peloIAPMEI, I.P., sem prejuízo do cumprimento dos procedimentos e formalidades legalmente exigíveis;\n\nc)Deliberar sobre a concessão de apoios financeiros e de incentivos ou estímulos ao investimento, nos termos da legislação aplicável;\n\nd) Deliberar sobre a concessão de subsídios e patrocínios, nos termos da legislação aplicável;\n\ne)Deliberar sobre a criação ou extinção de serviços territorialmente desconcentrados, dentro dos limites definidos nos estatutos do IAPMEI, I.P.;\n\nf)Deliberar sobre a aquisição, oneração ou alienação de quaisquer bens,móveis e imóveis, e direitos, sem prejuízo do cumprimento dos procedimentos e formalidades legalmente exigíveis;\n\ng) Promover atividades de investigação com reflexo nas PME;\n\nh) Pronunciar-se sobre iniciativaslegislativas, regulamentares ou de planeamento que afetem as PME, sempre que solicitado para o efeito.\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01"
+  },
+  "213622561": {
+   "fragment_id": "122074230",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2023-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01",
+    "Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 47/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2019-122074191), em vigor a partir de 2019-04-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O IAPMEI, I. P., tem por missão promover a competitividade e o crescimento empresarial, assegurar o apoio à conceção, execução e avaliação de políticas dirigidas à atividade industrial, visando o reforço da inovação, do empreendedorismo e do investimento empresarial nas empresas que exerçam a sua atividade nas áreas sob tutela do ME, designadamente das empresas de pequena e média dimensão, com exceção do setor do turismo e das competências de acompanhamento neste âmbito atribuídas à Direção-Geral das Atividades Económicas (DGAE).\n\n2 - São atribuições doIAPMEI, I.P.:\n\na) Desenvolver e coordenar todas as atividades conducentes a melhorar o empreendedorismo, a competitividade, a inovação, a sustentabilidade e a internacionalização das empresas, designadamente das micro, pequenas e médias empresas (PME), ao longo de todo o seu ciclo de existência;\n\nb) Promover as condições propícias à captação, realização e acompanhamento de projetos de investimento de origem nacional,independentemente da natureza jurídica do investidor, cujo valor seja inferior a 25 milhões de euros, com exceção de projetos de investimento inferiores a este valor de iniciativa deuma empresa com volume de faturação anual consolidada superior a 75 milhões de euros, ou de uma entidade não empresarial com orçamento anual superior a 40 milhões de euros;\n\nc)No domínio do estímulo à competitividade, ao empreendedorismo, e ao desenvolvimento empresarial:\n\ni) Promover o empreendedorismo, nomeadamente o relacionado com a produção de bens e serviços transacionáveis, com elevado grau de inovação e de valor acrescentado, contribuindo para uma maior cultura de empreendedorismo na sociedade portuguesa;\n\nii) [Revogada];\n\niii) Promover a articulação entre o tecido empresarial e o Sistema Científico e Tecnológico Nacional (SCTN);\n\niv) Promover o empreendedorismo de base tecnológica suportado numa estreita ligação com as universidades e outras entidades do SCTN;\n\nv) Promover o alinhamento e a adequação dos instrumentos de financiamento ao empreendedorismo;\n\nvi) Executar iniciativas e políticas de estímulo à competitividade empresarial, nomeadamente as dirigidas ao diagnóstico e à capacitação das empresas e dos seus recursos, em particular os relacionados com a produção de bens e serviços transacionáveis;\n\nvii) Desenvolver estratégias de eficiência coletiva por parte das empresas, especialmente das PME, em articulação com os centros tecnológicos e com outras infraestruturas tecnológicas, com os polos de competitividade e tecnologia e com outros clusters, promovendo atuações concertadas de melhoria de condições de envolvente empresarial e ganhos de escala, nomeadamente de simplificação administrativa e de assistência técnica e tecnológica;\n\nviii) Dinamizar uma rede nacional de produção e partilha de informação e conhecimento sobre indústrias, cadeias de valor, empresas e ambientes de negócio, com vista a uma adequada formulação de iniciativas de política e de estratégia empresarial para a promoção da capacidade concorrencial das empresas portuguesas, e para sustentar as suas estratégias de crescimento;\n\nix) Promover a inserção de quadros qualificados nas empresas e iniciativas de difusão de informação técnica, de atividades de assistência técnica e de formação especializada dirigida às empresas, especialmente às PME.\n\nd) No domínio da Investigação e Desenvolvimento e Inovação (I+D+i):\n\ni)Executar iniciativas e programas de estímulo ao desenvolvimento empresarial, nomeadamente as dirigidas ao diagnóstico de oportunidades de inovação, à inovação e ao desenvolvimento tecnológico e à inovação organizacional;\n\nii) Criar as condições favoráveis ao desenvolvimento da I+D+I empresarial e apoiar o investimento empresarial nesse contexto;\n\niii) [Revogada];\n\niv) Incentivar a valorização económica do I&D empresarial;\n\nv) [Revogada];\n\nvi) Estimular a I&D colaborativa como forma de afirmação e valorização económica dos mecanismos de acumulação de conhecimentos, designadamente através da implementação de programas, estratégias ou definição de agendas enquanto instrumentos mobilizadores do desenvolvimento tecnológico;\n\ne)Nos domínios do investimento e da reestruturação empresarial:\n\ni) Executar iniciativas e políticas de apoio ao investimento empresarial,orientadas para a valorização da oferta nacional de bens e serviços transacionáveis,no âmbito definido na alínea b);\n\nii) Assegurar o enquadramento, promoção e articulação dos instrumentos de dinamização e disseminação das atividades de capital de risco, de titularização de créditos e de garantia mútua, bem como a gestão dos instrumentos de capitalização empresarial, no âmbito do ME;\n\niii) Promover estratégias concertadas com o setor financeiro de promoção da transparência, visibilidade e avaliação das empresas para acesso a financiamento;\n\niv) Facilitar o acesso por parte das empresas, especialmente das PME, ao financiamento e à capitalização, e a instrumentos de cobertura de risco inerentes ao processo de exportação, nomeadamente, a seguros de crédito;\n\nv) Gerir os instrumentos de política de reestruturação e revitalização empresarial, nomeadamente através de mecanismos de recuperação extrajudicial de empresas, de saneamento financeiro e de transmissão da propriedade e da gestão;\n\nvi) Promover e estimular processos de concentração empresarial em setores de atividade específicos, quando os mesmos permitam obter ganhos na competitividade e melhorias na eficiência das empresas, bem como perspetivar um crescimento estruturado da sua atividade, de forma a potenciar a produção e a oferta nacionais;\n\nvii) Definir a estratégia para o conjunto de empresas participadas do IAPMEI, I.P.,assegurando a sua adequação às políticas públicas no âmbito da promoção da competitividade e do crescimento empresarial, bem como gerir e otimizar estrategicamente os instrumentos de natureza financeira ou outra.\n\nviii) Análise da situação económica e financeira das empresas no âmbito do Mecanismo de Alerta Precoce;\n\nf)Nos domínios do desenvolvimento de políticas públicas:\n\ni) Colaborar com os serviços, organismos e demais entidades competentes da Administração Pública na preparação de legislação relativa à regulação e regulamentação da atividade empresarial, nomeadamente a que tenha impacte nas PME;\n\nii) Emitir parecer e acompanhar as diversas iniciativas e políticas públicas no âmbito do reforço da competitividade das empresas, em especial das PME, assegurando a uniformidade dos seus critérios;\n\niii) Participar na definição e acompanhar as iniciativas de política que se enquadrem no seu âmbito de competência, incluindo as que assumem a natureza de sistemas de incentivos, visando a sua harmonização e consistência;\n\niv) Emitirparecer, coordenar e acompanhar as iniciativas e políticas públicas de promoção de sistemas de gestão da inovação;\n\nv) Participar na definição e acompanhar as políticas de apoio e desenvolvimento das estratégias empresariais de valorização da produção eoferta nacionais;\n\nvi) Desenvolver iniciativas que tenham por objetivo a valorização da oferta de bens e serviços de empresas portuguesas;\n\nvii) Coordenar a atuação das entidades do ME, no sentido de assegurar uma intervenção articulada nas designadas infraestruturas tecnológicas onde detenham participações de capital;\n\nviii) Participar em redes transnacionais de organizações congéneres, promovendo o intercâmbio específico de iniciativas a favor das PME, no âmbito das suas competências e atribuições, em articulação com as entidades públicas com atribuições na área da coordenação geral das relações internacionais.\n\nix) Promover programas, iniciativas e serviços alinhados com as políticas públicas nacionais e comunitárias com vista a apoiar o empreendedorismo e a dinamização da inovação empresarial e da capacitação da gestão da inovação;\n\nx) Assegurar a gestão dos sistemas de incentivo ao investimento empresarial, nomeadamente nos setores da indústria, do comércio e dos serviços, à investigação e ao desenvolvimento industrial e colaborativo, bem como ao desenvolvimento de centros tecnológicos e outras estruturas de interface;\n\nxi) Desenvolver instrumentos de apoio e sistemas de incentivos, sob sua gestão, para promoção e apoio à transformação e/ou adaptação das estruturas empresariais, em linha com as metas e trajetórias definidas no âmbito do roteiro para a neutralidade carbónica 2050;\n\ng) Nos domínios da assistência técnica, financeira e logística:\n\ni) Prestar apoio técnico, através da figura do gestor de cliente,e apoio financeiro às empresas, bem como a outras entidades públicas ou privadas, com vista à realização do seu objeto estatutário;\n\nii) Prestar apoio técnico para a otimização das fontes de financiamento, em função das fases de desenvolvimento da empresa;\n\niii) Revogada;\n\nh) No domínio do comércio e serviços, assegurar a presença regional e a prestação de proximidade dos serviços aos investidores e às empresas;\n\ni) No domínio da indústria:\n\ni) Assegurar o apoio à definição, pelo Governo, e à dinamização da política setorial relativa à indústria, acompanhando a execução das medidas dela decorrentes, sem prejuízo das competências de acompanhamento neste âmbito atribuídas à DGAE;\n\nii) Assegurar a presença regional e a prestação de proximidade dos serviços aos investidores e às empresas;\n\niii) Exercer as competências que lhe sejam cometidas ao abrigo dos regimes legais aplicáveis às atividades económicas do setor industrial;\n\nj) No domínio das relações internacionais relativo à indústria e inovação, sem prejuízo das competências da DGAE de coordenação e acompanhamento das relações bilaterais europeias e internacionais, no âmbito de atuação do ME:\n\ni) Assegurar a participação do ME no quadro dos assuntos europeus no âmbito das suas competências, designadamente nos processos de transposição das diretivas e de execução de regulamentos, bem como dos processos de pré-contencioso e contencioso da União Europeia;\n\nii) Propor e desenvolver atividades no âmbito da cooperação internacional, europeia e bilateral, designadamente com os países de língua oficial portuguesa, em articulação com os órgãos e serviços do Ministério dos Negócios Estrangeiros, no âmbito das suas competências.\n\nk) No domínio da transição digital, intervir na promoção, coordenação e desenvolvimento da Rede Nacional de Polos de Inovação Digital, promovendo a adoção de tecnologias digitais avançadas por parte das empresas e desenvolvendo instrumentos direcionados para a capacitação, inclusão e transformação digital do tecido empresarial, no âmbito do Plano de Ação para a Transição Digital.\n\n3 - O IAPMEI, I. P., demonstrada a prossecução do interesse público e no âmbito das suas atribuições, pode participar em associações ou colaborar com entidades nacionais e internacionais, podendo ainda, exclusivamente no âmbito da sua intervenção no Plano de Recuperação e Resiliência enquanto beneficiário, conceder apoios financeiros e celebrar protocolos de cooperação ou contratos-programa específicos com empresas públicas e entidades nacionais sem fins lucrativos, desde que desenvolvam atividades de interesse público e comum e prestem apoio ou promovam o reforço da competitividade das atividades empresariais.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 36/2023 - Diário da República n.º 102/2023, Série I de 2023-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-2023-213558633), em vigor a partir de 2023-06-01\n\n> Alterado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 47/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2019-122074191), em vigor a partir de 2019-04-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 82/2014 - Diário da República n.º 96/2014, Série I de 2014-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2014-25343697), em vigor a partir de 2014-05-21"
+  }
+ }
+}

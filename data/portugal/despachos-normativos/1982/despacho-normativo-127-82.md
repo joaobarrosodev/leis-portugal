@@ -1,0 +1,91 @@
+---
+schema_version: '1.0'
+id: pt:dre:394726:por
+title: Despacho Normativo n.º 127/82
+short_title: null
+summary: Esclarece dúvidas resultantes da aplicação do Decreto-Lei n.º 99/82, de 7 de Abril
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios da Justiça e da Reforma Administrativa
+proposing_entity: null
+official_number: 127/82
+official_date: null
+publication_date: '1982-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/1982, Série I de 1982-07-05
+  number: '152'
+  series: I
+  supplement: null
+  pages: 1982 - 1982
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/07/15200/19821982.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '394726'
+  dre_path: /dr/detalhe/despacho-normativo/127-1982-394726
+  internal: pt:dre:394726:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/127-1982-394726
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/127-1982-394726
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-07-05T00:00:00Z'
+integrity:
+  source_sha256: 41944e801a94a19d86a11a4ba6ac1d587f3180973cb1c8953259151a9d9cf991
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-127-394726.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 127/82
+
+Considerando a interacção entre a Direcção-Geral dos Serviços Judiciários e as instituições judiciárias e as especiais responsabilidades que sobre ela recaem nos domínios da gestão e administração de pessoal;
+
+Considerando que não existem, em alguns casos, regras de provimento, quer específicas, quer genéricas, para certos cargos e lugares das instituições judiciárias:
+
+Esclarece-se, nos termos do artigo 32.º do [Decreto-Lei n.º 99/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1982-607277), de 7 de Abril, que as regras sobre pessoal constantes do capítulo III do [Decreto-Lei n.º 99/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1982-607277), de 7 de Abril, se aplicam às instituições judiciárias referidas no n.º 2 do artigo 1.º daquele diploma nos casos de inexistência de regras próprias sobre provimento dos respectivos lugares.
+
+Ministérios da Justiça e da Reforma Administrativa, 18 de Junho de 1982. - O Ministro da Justiça, José Manuel Meneres Sampaio Pimentel. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

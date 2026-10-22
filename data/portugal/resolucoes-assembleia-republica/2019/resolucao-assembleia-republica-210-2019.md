@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:124879305:por
+title: Resolução da Assembleia da República n.º 210/2019
+short_title: null
+summary: Aprova o Código de Conduta dos Deputados à Assembleia da República
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 210/2019
+official_date: null
+publication_date: '2019-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 181/2019, Série I de 2019-09-20
+  number: '181'
+  series: I
+  supplement: null
+  pages: 8 - 11
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/09/18100/0000800011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/210/2019/09/20/p/dre/pt/html
+  oj: null
+  dre: '124879305'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/210-2019-124879305
+  internal: pt:dre:124879305:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/210-2019-124879305
+  metadata_url: https://data.dre.pt/eli/resolassrep/210/2019/09/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/210-2019-124879305
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-09-20T00:00:00Z'
+integrity:
+  source_sha256: 84090804a65114bc408de4c507421b3ae79d467a93d1d8e364b4b941f6ed4816
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2019/DRE-2019-210-124879305.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código de Conduta
+- Comissão Parlamentar
+- Definição de Competências
+- Estatuto do Deputado
+- Assembleia da República
+relationships: []
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 210/2019
+
+Aprova o Código de Conduta dos Deputados à Assembleia da República
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição:
+
+1 - Aprovar o Código de Conduta dos Deputados à Assembleia da República, constante do anexo à presente resolução e da qual faz parte integrante.
+
+2 - Determinar que o Código de Conduta dos Deputados à Assembleia da República entra em vigor no primeiro dia da XIV Legislatura, sem prejuízo das adaptações procedimentais que os serviços tenham de realizar.
+
+Aprovada em 19 de julho de 2019.
+
+**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+
+## ANEXO — Código de Conduta dos Deputados à Assembleia da República
+
+###### Artigo 1.º — Objeto e âmbito
+
+O presente Código de Conduta estabelece os princípios e critérios orientadores que devem presidir ao exercício do mandato dos Deputados à Assembleia da República.
+
+###### Artigo 2.º — Princípios gerais
+
+No exercício do mandato de Deputado à Assembleia da República são observados os princípios gerais de conduta de liberdade, independência, prossecução do interesse público, transparência e responsabilidade política.
+
+###### Artigo 3.º — Primado da prossecução do interesse público
+
+Os Deputados agem em prossecução do interesse público e dos cidadãos que representam, não usufruindo de quaisquer vantagens financeiras ou patrimoniais, diretas ou indiretas, para si ou para terceiros, ou de qualquer outra gratificação indevidamente recebida em virtude do cargo que ocupam.
+
+###### Artigo 4.º — Liberdade e independência no exercício do mandato
+
+Os Deputados exercem livremente o seu mandato, nos termos da Constituição e da lei, no respeito pelos seus compromissos eleitorais, agindo de acordo com a sua consciência e atuando com independência relativamente a qualquer pessoa singular ou coletiva.
+
+###### Artigo 5.º — Urbanidade e lealdade institucional
+
+Os Deputados à Assembleia da República devem desempenhar as suas funções com respeito pelos demais Deputados e pelos titulares dos demais órgãos de soberania, pelos cidadãos que representam e pelas demais entidades públicas e privadas com as quais se relacionem no exercício do seu mandato.
+
+###### Artigo 6.º — Diligência
+
+Os Deputados à Assembleia da República devem empenhar-se, ao longo do exercício do seu mandato, em adquirir informação e conhecimento necessários às funções que desempenham, contribuindo para o bom funcionamento das instituições parlamentares e para a credibilização das instituições democráticas.
+
+###### Artigo 7.º — Responsabilidade política
+
+Os Deputados à Assembleia da República prestam contas dos seus atos, decisões e demais elementos relevantes no exercício do seu mandato, sendo-lhes garantidas condições adequadas e os recursos financeiros, físicos, materiais e humanos necessários ao eficaz exercício das suas funções, designadamente ao indispensável contacto com os cidadãos eleitores e à sua informação regular.
+
+###### Artigo 8.º — Transparência
+
+Os Deputados à Assembleia da República devem cumprir as obrigações declarativas decorrentes da lei, declarando os seus interesses particulares que possam condicionar a prossecução do interesse público, e tomar as diligências necessárias à resolução de conflitos entre ambos, de forma a proteger o interesse público.
+
+###### Artigo 9.º — Deveres dos Deputados
+
+No exercício do seu mandato, sem prejuízo dos deveres constantes da Constituição e do Estatuto dos Deputados, os Deputados à Assembleia da República devem:
+
+a) Participar nos trabalhos parlamentares, comparecendo às reuniões do Plenário e dos órgãos e das comissões parlamentares a que pertençam;
+
+b) Proceder, no prazo fixado na lei, ao cumprimento das obrigações declarativas a que estão sujeitos, nomeadamente em sede de incompatibilidades e impedimentos, património e verificação de conflitos de interesses;
+
+c) Rejeitar ofertas, hospitalidade ou quaisquer vantagens de outra natureza como contrapartida do exercício de uma ação, omissão, voto ou influência sobre a tomada de qualquer decisão;
+
+d) Utilizar os recursos disponibilizados no âmbito do respetivo mandato de forma responsável e no respeito pelas regras aplicáveis, abstendo-se de usar ou de permitir que terceiros utilizem as instalações ou os meios disponibilizados pela Assembleia da República para a promoção de interesses privados;
+
+e) Guardar sigilo sobre as informações com caráter reservado de que tenham conhecimento no exercício das suas funções;
+
+f) Intervir nos trabalhos parlamentares com urbanidade e lealdade institucional, abstendo-se de comportamentos que não prestigiem a instituição parlamentar;
+
+g) Declarar a existência de potencial interesse particular, nos termos previstos no Estatuto dos Deputados.
+
+###### Artigo 10.º — Ofertas
+
+1 - Os Deputados à Assembleia da República abstêm-se de aceitar ofertas de pessoas singulares ou coletivas, públicas e privadas, nacionais ou estrangeiras, de quaisquer tipos de bens ou serviços que possam condicionar a independência no exercício do seu mandato.
+
+2 - Para efeitos do disposto no número anterior entende-se que pode existir um condicionamento da independência do exercício do mandato quando haja aceitação de bens ou serviços de valor estimado igual ou superior a 150 (euro).
+
+3 - Podem ser aceites em nome da Assembleia da República:
+
+a) As ofertas abrangidas pelo n.º 2 em relação às quais haja dúvidas razoáveis sobre o seu enquadramento no valor estimado;
+
+b) As ofertas que constituam ou possam ser interpretadas, pela sua recusa, como uma quebra de consideração pelo ofertante ou de respeito interinstitucional, designadamente no âmbito das relações entre órgãos de Estados e Parlamentos.
+
+4 - As ofertas de valor estimado superior a 150 (euro) recebidas no âmbito do cargo ou função são apresentadas junto da Secretaria-Geral da Assembleia da República, para efeitos do seu registo e definição do seu destino, tendo em conta a sua natureza e relevância.
+
+5 - Quando o titular do cargo receba de uma mesma entidade, no decurso do mesmo ano, várias ofertas de bens materiais que perfaçam o valor estimado referido no número anterior, deve comunicar esse facto para efeitos de registo das ofertas e proceder à apresentação de todas as que forem recebidas após perfazer aquele valor.
+
+6 - Incumbe à Secretaria-Geral manter registo de todas as ofertas recebidas e do seu destino.
+
+7 - Para apreciação do destino final das ofertas referidas no número anterior, são considerados critérios orientadores, a definir por deliberação da Comissão Parlamentar de Transparência e Estatuto dos Deputados, que ponderem o seu valor de uso real, a sua natureza perecível ou a sua natureza meramente simbólica.
+
+8 - As ofertas que não podem ser aceites pelos Deputados devem ser remetidas:
+
+a) À Secretaria-Geral da Assembleia da República, para registo de acesso público e posterior inventariação pelo Museu, pelo Arquivo Histórico-Parlamentar ou pela Biblioteca da Assembleia da República, caso o seu significado patrimonial, cultural ou para a história da atividade parlamentar o justifique;
+
+b) A outra entidade pública ou a instituições que prossigam fins não lucrativos de caráter social, educativo e cultural, nos demais casos.
+
+###### Artigo 11.º — Hospitalidade
+
+1 - Os Deputados à Assembleia da República, quando individualmente convidados nessa qualidade, podem aceitar convites de hospitalidade nos termos previstos no Regime de Exercício de Funções por Titulares de Cargos Políticos e Altos Cargos Públicos.
+
+2 - Em caso de dúvida sobre o enquadramento de uma oferta de hospitalidade no disposto no regime referido no número anterior, pode o Deputado solicitar parecer à Comissão Parlamentar de Transparência e Estatuto dos Deputados.
+
+3 - As ofertas de hospitalidade aceites pelo Deputado a título individual e os benefícios a elas inerentes são objeto de inscrição no registo de interesses do Deputado, sendo igualmente inscritas as deslocações realizadas em representação da Assembleia da República ou em representação oficial do respetivo Grupo Parlamentar.
+
+4 - Sem prejuízo do disposto nas regras relativas aos deveres declaratórios sobre rendimentos e património, não está sujeita a dever de registo a aceitação de ofertas, transporte ou alojamento, quando ocorra no contexto das relações pessoais ou familiares.
+
+5 - O disposto no presente Código de Conduta não se aplica às ofertas de convites e à hospitalidade que tenham como destinatários os partidos políticos, incluindo os respetivos grupos parlamentares, através dos seus órgãos, delegações ou representações, sem prejuízo das regras decorrentes do regime jurídico do financiamento dos partidos políticos e das campanhas eleitorais.
+
+###### Artigo 12.º — Aplicação do Código
+
+Compete à Comissão Parlamentar de Transparência e Estatuto dos Deputados velar pela aplicação do presente Código de Conduta e exercer as competências nele previstas, nomeadamente:
+
+a) Proceder oficiosamente a inquéritos, a pedido do visado ou mediante determinação do Presidente da Assembleia da República;
+
+b) Emitir declarações genéricas ou recomendações, nos termos previstos no Estatuto dos Deputados;
+
+c) Elaborar um relatório anual sobre a aplicação do Código e a atividade da Comissão nesse domínio.

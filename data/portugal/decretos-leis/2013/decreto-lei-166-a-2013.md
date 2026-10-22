@@ -1,0 +1,245 @@
+---
+schema_version: '1.0'
+id: pt:dre:239840:por
+title: Decreto-Lei n.º 166-A/2013
+short_title: null
+summary: Procede à alteração do regime dos complementos de pensão dos militares das Forças Armadas, à transferência da responsabilidade
+  pelo pagamento destes complementos de pensão para a Caixa Geral de Aposentações, I.P., e à fixação das regras de extinção
+  do Fundo de Pensões dos Militares das Forças Armadas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 166-A/2013
+official_date: null
+publication_date: '2013-12-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 251/2013, 1º Suplemento, Série I de 2013-12-27
+  number: '251'
+  series: I
+  supplement: 1º Suplemento
+  pages: 6994-(2) a 6994-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/12/25101/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/166-a/2013/12/27/p/dre/pt/html
+  oj: null
+  dre: '239840'
+  dre_path: /dr/detalhe/decreto-lei/166-a-2013-239840
+  internal: pt:dre:239840:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-a-2013-239840
+  metadata_url: https://data.dre.pt/eli/dec-lei/166-a/2013/12/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-a-2013-239840
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-12-27T00:00:00Z'
+integrity:
+  source_sha256: 5db1cca0910e098957b5d82268ca93c40a22896c1b283c2e2ed916a64287a9c0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-166-A-239840.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Ministério da Defesa Nacional
+- Complemento Especial de Pensão
+- Extinção de Serviços
+- Caixa Geral de Aposentações
+- Fundo de Pensões
+- Fundo de Pensões dos Militares das Forças Armadas
+- Pagamento
+- Forças Armadas
+- Pensão de Reforma
+- Pensões
+- Reembolso
+- Militar
+- Transferência de Competências
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/160/1994/06/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/160/1994/06/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/328/1991/09/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/328/1991/09/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/73/1991/02/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/73/1991/02/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/76/2009/04/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/76/2009/04/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/15/1992/08/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/15/1992/08/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 166-A/2013
+
+de 27 de dezembro
+
+O [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de janeiro, aprovou o Estatuto dos Militares das Forças Armadas e, por razões de política de gestão de pessoal, determinou a diminuição, calendarizada, do limite de idade de passagem à reforma dos 70 para os 65 anos e a obrigatoriedade de passagem à mesma situação dos militares que, seguida ou interpoladamente, tivessem permanecido nove anos na situação de reserva, fora da efetividade de serviço.
+
+Em virtude da antecipação da idade da passagem à reforma e procurando precaver eventuais prejuízos de natureza pecuniária, veio o mesmo diploma acautelar que, sempre que a pensão de reforma dos militares abrangidos resultasse inferior à remuneração da reserva a que teriam direito caso não lhes fosse aplicado o calendário de transição, ser-lhes-ia abonado, a título de complemento de pensão, o diferencial verificado.
+
+O mencionado diploma determinou ainda que, até que os militares completassem 70 anos de idade, o valor correspondente ao diferencial apurado seria abonado através do recurso a verbas anualmente inscritas no Orçamento do Estado e, atingida a idade prevista, tal responsabilidade passaria a ser assegurada através do recurso a um fundo especial, a criar no âmbito do Ministério da Defesa Nacional (MDN), dotado de autonomia e objeto de regulamentação administrativa e financeira.
+
+O referido fundo, denominado Fundo de Pensões dos Militares das Forças Armadas (Fundo), foi criado pelo [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de fevereiro, [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de setembro, [160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), de 4 de junho, e [76/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2009-603219), de 1 de abril.
+
+O [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de agosto, não só atribuiu ao Fundo a responsabilidade pelo pagamento de eventuais complementos de pensão estatutariamente previstos devidos aos militares ali determinados, como criou ainda um plano de benefícios acessível a todos os militares, mediante adesão voluntária com contribuição própria.
+
+O regime dos complementos de pensão foi sucessivamente alterado, quer no sentido do alargamento do universo dos beneficiários não aderentes, quer no sentido do aumento dos montantes abonados, especialmente com a entrada em vigor da [Lei n.º 15/92](https://diariodarepublica.pt/dr/detalhe/lei/15-1992-274443), de 5 de agosto. Esta realidade, aliada às dificuldades inerentes à concretização do programa de alienação do património do Estado afeto ao MDN, para capitalização do Fundo, vieram tornar a situação financeiramente insustentável por, ao incremento das suas responsabilidades, não ter correspondido equivalente acréscimo de receita.
+
+Assim, não podendo o Fundo beneficiar de transferências diretas do Orçamento do Estado, nem contrair empréstimos, o sistema dependia, essencialmente, das contribuições dos participantes, manifestamente insuficientes para o cumprimento do ambicioso plano de benefícios estabelecido.
+
+Por outro lado, o cumprimento dos objetivos orçamentais inerentes ao Orçamento do Estado e ao Programa de Estabilidade e Crescimento tem metas rigorosas e exigentes, o que requer a implementação de medidas de redução da despesa com vista à consolidação orçamental.
+
+Neste contexto, justifica-se a proibição imediata de admissão de novos participantes no Fundo, bem como de novos beneficiários dos complementos de pensão da responsabilidade do mesmo.
+
+Quanto aos complementos de pensão pagos, passam a ter um valor fixo, no montante que lhes corresponder à data da entrada em vigor do presente decreto-lei, objeto de atualização futura nos mesmos termos das respetivas pensões pagas pela Caixa Geral de Aposentações, I.P., bem como pela manutenção das regras sucessórias previstas no [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de fevereiro, [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de setembro, [160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), de 4 de junho, e [76/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2009-603219), de 1 de abril.
+
+Por último, apesar do contexto económico-financeiro do país, o Governo considera dever salvaguardar em termos adequados a posição dos atuais participantes do Fundo que, em virtude das medidas agora adotadas, não venham a auferir qualquer complemento de pensão, determinando-se, consequentemente, que os mesmos sejam reembolsados da totalidade das contribuições efetuadas, devidamente atualizadas.
+
+O Governo considera ainda dever salvaguardar, em termos adequados, a posição dos atuais beneficiários participantes do Fundo que não tenham recebido qualquer valor a título de complemento de pensão, ou tenham recebido um valor total de complemento de pensão inferior ao valor total das contribuições efetuadas, garantindo-lhes o direito de optarem entre a manutenção da atribuição de um valor de complemento de pensão fixo até ao termo do respetivo direito e o reembolso do valor equivalente à diferença entre a totalidade das contribuições efetuadas e o valor efetivamente recebido a título de complemento de pensão, devidamente atualizados.
+
+Quanto ao Fundo de Pensões dos Militares das Forças Armadas, o mesmo será extinto logo que esgotado o seu objeto, momento em que se procederá à sua liquidação.
+
+Foi promovida a audição das associações de militares, nos termos do disposto na alínea b) do artigo 2.º da [Lei Orgânica n.º 3/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2001-631605), de 29 de agosto.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à alteração do regime dos complementos de pensão dos militares das Forças Armadas, à transferência da responsabilidade pelo pagamento destes complementos de pensão para a Caixa Geral de Aposentações, I.P. (CGA, I.P.), e à fixação das regras de extinção do Fundo de Pensões dos Militares das Forças Armadas (Fundo).
+
+###### Artigo 2.º — Não admissão de novos participantes no Fundo
+
+Não são admitidos novos participantes no Fundo, nos termos e para os efeitos do disposto do artigo 3.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de fevereiro, [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de setembro, [160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), de 4 de junho, e [76/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2009-603219), de 1 de abril.
+
+###### Artigo 3.º — Não admissão de novos beneficiários participantes do Fundo e reembolso das contribuições efetuadas
+
+1 - Os participantes do Fundo que, à data da entrada em vigor do presente decreto-lei, não sejam ainda beneficiários, não são admitidos como beneficiários do Fundo, considerando-se extinto o respetivo direito a qualquer complemento de pensão nesses termos.
+
+2 - Os participantes do Fundo que, em virtude do disposto no número anterior, não venham a constituir-se como beneficiários, são reembolsados, a título reintegratório, da totalidade das contribuições efetuadas, atualizadas de acordo com os critérios a definir na portaria prevista no artigo 12.º
+
+3 - O reembolso do valor equivalente às contribuições efetuadas, nos termos do número anterior, determina a cessação da relação jurídica existente entre o militar e o Fundo.
+
+###### Artigo 4.º — Valor fixo dos complementos de pensão de reforma em vigor
+
+1 - Sem prejuízo da atualização prevista no número seguinte, o valor dos complementos de pensão de reforma pagos ao abrigo e nos termos dos artigos 12.º e 13.º do [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de janeiro, do n.º 4 do artigo 1.º da [Lei n.º 15/92](https://diariodarepublica.pt/dr/detalhe/lei/15-1992-274443), de 5 de agosto, do n.º 2 do artigo 1.º e do artigo 5.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de fevereiro, [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de setembro, [160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), de 4 de junho, e [76/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2009-603219), de 1 de abril, é fixado, até ao termo do respetivo direito, no montante que lhe corresponder à data da entrada em vigor do presente decreto-lei.
+
+2 - O valor dos complementos de pensão de reforma fixado nos termos do número anterior é exclusivamente atualizado nos termos das respetivas pensões de reforma pagas pela CGA, I.P.
+
+###### Artigo 5.º — Reembolso das contribuições efetuadas pelos atuais beneficiários participantes do Fundo
+
+1 - Os atuais beneficiários participantes do Fundo que, à data de entrada em vigor do presente decreto-lei, não tenham recebido qualquer valor a título de complemento de pensão ou tenham recebido um valor total de complemento de pensão inferior ao valor total das contribuições efetuadas, enquanto participantes do Fundo, atualizadas de acordo com os critérios a definir na portaria prevista no artigo 12.º, podem requerer, respetivamente, o reembolso, a título reintegratório, da totalidade do valor ou do valor remanescente das contribuições.
+
+2 - O reembolso do valor previsto no número anterior determina a cessação do direito ao complemento de pensão, extinguindo-se a relação jurídica existente entre o militar e o Fundo.
+
+###### Artigo 6.º — Valor fixo dos complementos de pensão em vigor para os beneficiários herdeiros hábeis ou reembolso das contribuições efetuadas
+
+1 - Sem prejuízo da atualização prevista no número seguinte, o valor dos complementos de pensão pagos aos beneficiários herdeiros hábeis, é fixado, até ao termo do respetivo direito, no montante que lhe corresponder à data da entrada em vigor do presente decreto-lei.
+
+2 - O valor dos complementos de pensão fixado ao abrigo do número anterior é exclusivamente atualizado nos termos das respetivas pensões de sobrevivência pagas pela CGA, I.P.
+
+3 - Os beneficiários herdeiros hábeis de anteriores beneficiários participantes do Fundo cujo valor total das contribuições efetuadas seja superior ao valor dos complementos de pensão de reforma pagos ao beneficiário participante do Fundo e aos seus herdeiros, até à data da entrada em vigor do presente decreto-lei, atualizadas de acordo com os critérios a definir na portaria prevista no artigo 12.º, podem requerer o reembolso, a título reintegratório, do valor equivalente a metade dessa diferença.
+
+4 - O reembolso do valor previsto no número anterior determina a cessação do direito ao complemento de pensão, extinguindo-se a relação jurídica existente entre os herdeiros hábeis e o Fundo.
+
+###### Artigo 7.º — Cessação das contribuições mensais
+
+1 - Para os participantes do Fundo referidos no n.º 1 do artigo 3.º, cessa a dedução das contribuições mensais prevista no artigo 8.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de fevereiro, [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de setembro, [160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), de 4 de junho, e [76/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2009-603219), de 1 de abril, na data da entrada em vigor do presente decreto-lei.
+
+2 - Para os beneficiários participantes do Fundo referidos no n.º 1 do artigo 5.º, cessa a dedução das contribuições mensais prevista no artigo 8.º do [Decreto-Lei n.º 269/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1990-546221), de 31 de agosto, alterado pelos Decretos-Leis n.os [73/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-1991-478449), de 9 de fevereiro, [328/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1991-304772), de 5 de setembro, [160/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1994-301413), de 4 de junho, e [76/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2009-603219), de 1 de abril, na data em que se proceder ao reembolso das contribuições devidas.
+
+###### Artigo 8.º — Transferência de responsabilidades
+
+1 - No primeiro dia útil do 7.º mês seguinte ao da entrada em vigor do presente decreto-lei, é transferida para a CGA, I.P., nos termos a definir em contrato a celebrar entre os membros do Governo responsáveis pelas áreas das finanças e da defesa nacional, a responsabilidade pelo processamento e pagamento dos complementos de pensão previstos no n.º 1 do artigo 4.º e no n.º 1 do artigo 6.º
+
+2 - São transferidas, anualmente, do orçamento do Ministério da Defesa Nacional para o orçamento da CGA, I.P., as dotações orçamentais necessárias ao pagamento dos complementos de pensão previstos nos artigos 4.º e 6.º
+
+###### Artigo 9.º — Transferência do património do Fundo
+
+1 - O património do Fundo é transferido para a CGA, I.P., no prazo máximo de 10 dias, a contar do decurso do prazo previsto no artigo anterior.
+
+2 - O património a transferir para a CGA, I.P., em cumprimento do número anterior, fica exclusivamente afeto à satisfação pela CGA, I.P., das responsabilidades por esta assumidas em virtude do presente decreto-lei.
+
+###### Artigo 10.º — Financiamento
+
+Sem prejuízo da afetação exclusiva prevista no n.º 2 do artigo anterior, os montantes adicionais eventualmente necessários à execução do disposto no presente decreto-lei são assegurados através de verbas anualmente inscritas no orçamento do Ministério da Defesa Nacional.
+
+###### Artigo 11.º — Liquidação e extinção do Fundo
+
+Após integral transferência do seu património para a CGA, I.P., e com a sua liquidação total, o Fundo considera-se extinto, sem necessidade de cumprimento de quaisquer outras formalidades, de natureza legal ou regulamentar.
+
+###### Artigo 12.º — Regulamentação do reembolso das contribuições
+
+O regime do reembolso previsto nos artigos 3.º, 5.º e 6.º é regulamentado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional, a qual deve ser publicada no prazo de 30 dias, a contar da data da entrada em vigor do presente decreto-lei.
+
+###### Artigo 13.º — Norma revogatória
+
+São revogadas todas as disposições legais e regulamentares que contrariem o disposto no presente decreto-lei.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia útil seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 14 de novembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco.
+
+**Promulgado em 27 de dezembro de 2013.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 27 de dezembro de 2013.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**

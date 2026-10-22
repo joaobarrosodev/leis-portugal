@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:496108:por
+title: Decreto-Lei n.º 343/87
+short_title: null
+summary: Dá nova redacção ao n.º 10 do artigo 8.º do Decreto-Lei n.º 61/86, de 25 de Março, que foi aditado pelo artigo único
+  do Decreto-Lei n.º 340/86, de 7 de Outubro (compatibilização do regime nacional do mercado de cereais com as obrigações
+  assumidas no quadro das negociações de adesão à Comunidade Económica Europeia)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 343/87
+official_date: null
+publication_date: '1987-10-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 248/1987, Série I de 1987-10-28
+  number: '248'
+  series: I
+  supplement: null
+  pages: 3823 - 3823
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/10/24800/38233823.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '496108'
+  dre_path: /dr/detalhe/decreto-lei/343-1987-496108
+  internal: pt:dre:496108:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1987-496108
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1987-496108
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: f53f42b2a1d3e3e14299140d10b2bddd23c22d7a4b82b301afc18903c596b80a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-343-496108.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 343/87
+
+de 28 de Outubro
+
+É necessário rectificar o [Decreto-Lei n.º 340/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1986-222458), de 7 de Outubro, que estabelece o quadro legal da importação de cereais, publicado com algumas inexactidões.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo único. O n.º 10 do artigo 8.º do [Decreto-Lei n.º 61/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-1986-196209), de 25 de Março, que foi aditado pelo artigo único do [Decreto-Lei n.º 340/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/340-1986-222458), de 7 de Outubro, passa a ter a seguinte redacção:
+
+###### Art. 8.º - 1 - ...
+
+...
+
+10 - Às importações efectuadas nas condições previstas nos números anteriores aplicar-se-á o disposto nos artigos 4.º a 9.º do [Decreto-Lei n.º 62/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-1986-196216), de 25 de Março.
+
+Visto e aprovado em Conselho de Ministros de 17 de Setembro de 1987. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral.
+
+**Promulgado em 14 de Outubro de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 21 de Outubro de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

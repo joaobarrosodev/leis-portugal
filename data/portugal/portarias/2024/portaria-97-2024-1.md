@@ -1,0 +1,1283 @@
+---
+schema_version: '1.0'
+id: pt:dre:855197514:por
+title: Portaria n.º 97/2024/1
+short_title: null
+summary: Estabelece os requisitos mínimos relativos ao licenciamento, instalação, organização e funcionamento, recursos humanos
+  e instalações técnicas nas unidades de cirurgia de ambulatório detidas por pessoas coletivas públicas, instituições militares,
+  instituições particulares de solidariedade social e entidades privadas.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Defesa Nacional, Trabalho, Solidariedade e Segurança Social e Saúde
+proposing_entity: null
+official_number: 97/2024/1
+official_date: null
+publication_date: '2024-03-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 51/2024, Série I de 2024-03-12
+  number: '51'
+  series: I
+  supplement: null
+  pages: 2 - 31
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/03/05100/0000200031.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-10-07'
+version_history:
+  file: portaria-97-2024-1.versoes.json
+  count: 3
+  source_lastmod: '2025-04-11'
+  versions:
+  - date: '2024-03-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-04-10'
+    amending: pt:dre:914375910:por
+    amending_title: Portaria n.º 165/2025/1
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+    - Altera Anexo VI
+    - Altera Anexo X
+    - Altera Anexo XII
+  - date: '2025-10-07'
+    amending: pt:dre:938108825:por
+    amending_title: Portaria n.º 330/2025/1
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo V
+    - Altera Anexo X
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/97/2024/p/cons/20251006/pt/html
+  oj: null
+  dre: '855197514'
+  dre_path: /dr/detalhe/portaria/97-2024-855197514
+  internal: pt:dre:855197514:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/97-2024-855197514
+  metadata_url: https://data.dre.pt/eli/port/97/2024/p/cons/20251006/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-855299957
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-855299957
+  retrieved_at: '2026-10-22T13:25:01Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-04-11T00:00:00Z'
+integrity:
+  source_sha256: ba70917323619f442f9f295a132486cf6f322e300d145d525fb8fc9db692b52f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:25:01Z'
+  notes: 3 versão(ões); histórico completo em portaria-97-2024-1.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Livro de Reclamações
+- Regulamentação de Atos Legislativos
+- Especificação Técnica
+- Licenciamento
+- Normas de Construção
+- Normas de Segurança
+- Informação do Consumidor
+- Recursos Humanos
+- Regulamento Interno
+- Cirurgia
+- Seguro Obrigatório de Responsabilidade Civil
+relationships:
+- type: amended_by
+  target: pt:dre:914375910:por
+  label: Altera Artigo 2.º; Altera Artigo 7.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Anexo I; Altera Anexo II; Altera
+    Anexo III; Altera Anexo IV; Altera Anexo V; Altera Anexo VI; Altera Anexo X; Altera Anexo XII
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910
+  date: '2025-04-09'
+- type: amended_by
+  target: pt:dre:938108825:por
+  label: Altera Anexo I; Altera Anexo II; Altera Anexo III; Altera Anexo V; Altera Anexo X
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/330-2025-938108825
+  date: '2025-10-06'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2014/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2014/08/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/138/2013/10/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/138/2013/10/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+article_structure:
+  article_count: 21
+  section_count: 18
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:25:01Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 97/2024/1
+
+Portaria n.º 97/2024/1
+
+de 12 de março
+
+O Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, estabeleceu o regime jurídico a que ficam sujeitos a abertura, a modificação e o funcionamento dos estabelecimentos prestadores de cuidados de saúde, qualquer que seja a sua denominação, natureza jurídica ou entidade titular da exploração.
+
+O n.º 1 do artigo 2.º do referido diploma legal estabelece que a abertura e funcionamento de um estabelecimento prestador de cuidados de saúde dependem da verificação dos requisitos técnicos de funcionamento aplicáveis a cada uma das tipologias, definidos por portaria do membro do Governo responsável pela área da saúde, sendo a mesma titulada por licença, no caso dos estabelecimentos prestadores de cuidados de saúde detidos por entidades privadas e por declaração de conformidade, no caso de estabelecimentos detidos por pessoa coletiva pública ou que seja abrangida pelo artigo 13.º do Decreto-Lei n.º 138/2013, de 9 de outubro.
+
+No que respeita às unidades de saúde cuja titularidade seja de Instituições Particulares de Solidariedade Social (IPSS) ou de instituições militares, o n.º 5 do artigo 2.º do referido decreto-lei determina que as condições de abertura e funcionamento, bem como os termos da declaração de conformidade, são definidos por portaria dos membros do Governo responsáveis pelas áreas da defesa nacional, segurança social e saúde.
+
+Considerando que está em causa a fixação de requisitos técnicos que se prendem, no essencial, com a melhoria da qualidade assistencial e a garantia da segurança do utente, decorrentes de determinações legais do ordenamento jurídico nacional ou de regras da União Europeia, é fundamental a uniformização de critérios, independentemente da titularidade do estabelecimento de saúde em causa.
+
+Face ao exposto, a presente portaria promove a regulamentação do processo de abertura e funcionamento dos estabelecimentos prestadores de cuidados de saúde detidos por pessoas coletivas públicas, instituições militares, IPSS ou entidades privadas, salvaguardando-se as especificidades próprias das unidades de saúde militar, nomeadamente as que são utilizadas em contexto operacional.
+
+Registe-se que o já mencionado Decreto-Lei n.º 127/2014, de 22 de agosto, na redação em vigor, previa um prazo de 120 dias, após a sua entrada em vigor, para a regulamentação, por portaria, das condições de licenciamento das diferentes tipologias de unidades de prestação de cuidados de saúde. Encontrando-se já largamente ultrapassado esse prazo, através do Despacho n.º 14603/2022, de 21 de dezembro, do Ministro da Saúde, foi criado um grupo de trabalho agregando as instituições públicas com intervenção no processo, designadamente a Direção Executiva do Serviço Nacional de Saúde, I. P., a Entidade Reguladora da Saúde e a Administração Central dos Serviços de Saúde, I. P., bem como os prestadores mais relevantes dos setores social e privado. A presente portaria reflete o consenso que foi possível alcançar, com trabalho técnico exaustivo e exigente.
+
+Foram também ouvidos a Ordem dos Médicos, a Ordem dos Enfermeiros, a Ordem dos Engenheiros, a Ordem dos Arquitetos, a Ordem dos Médicos Dentistas, a Ordem dos Biólogos, a Ordem dos Farmacêuticos, a Ordem dos Fisioterapeutas, a Associação Nacional de Centros de Diálise, a Associação Portuguesa de Medicina Física de Reabilitação, a Associação Portuguesa dos Técnicos de Radiologia, Radioterapia e Medicina Nuclear, a Associação Nacional dos Laboratórios Clínicos, a Sociedade Portuguesa de Medicina Nuclear, o Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., a Sociedade Portuguesa de Genética Humana, a Sociedade Portuguesa de Radioterapia-Oncologia, a Associação Portuguesa de Radioterapeutas, a Sociedade Portuguesa de Anatomia Patológica e a Associação Portuguesa de Técnicos de Anatomia Patológica.
+
+O protelamento da publicação das portarias que regulamentam o Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, representará a manutenção da insegurança jurídica que condiciona a intervenção dos diferentes agentes do setor da saúde e conduzirá a um ainda maior adiamento da generalização da implementação das normas de qualidade e segurança de que devem beneficiar todos os destinatários dos cuidados prestados, pelo que se entende que, após o moroso e consensual trabalho realizado, este procedimento tem caráter urgente
+
+Assim:
+
+Manda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.<sup>os </sup>1 e 5 do artigo 2.º do Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do Decreto-Lei n.º 32/2022, de 9 de maio, na sua redação atual, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece os requisitos mínimos relativos ao licenciamento, instalação, organização e funcionamento, recursos humanos e instalações técnicas das unidades prestadoras de cuidados de saúde de cirurgia de ambulatório, detidas por pessoas coletivas públicas, instituições militares, instituições particulares de solidariedade social (IPSS) e entidades privadas.
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos da presente portaria, considera-se cirurgia de ambulatório a intervenção cirúrgica programada, realizada em bloco operatório, sob anestesia geral, loco-regional, local ou sedação realizada em instalações próprias ou integrada em bloco operatório convencional, com segurança e de acordo com as leges artis, em regime de admissão e alta do doente num período inferior a 24 horas.
+
+2 - Os requisitos técnicos da presente portaria são ainda aplicáveis às clínicas e consultórios médicos e centro e enfermagem que disponham de unidades de cirurgia de ambulatório.
+
+3 - Consideram-se clínicas e consultórios médicos e centros de enfermagem, todos os que se enquadram nas definições estabelecidas nas respetivas portarias.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+### Capítulo II — Organização e funcionamento
+
+###### Artigo 3.º — Qualidade e segurança
+
+As normas de qualidade e segurança devem ser cumpridas em todas as situações previstas na presente portaria, de acordo com as regras, os códigos científicos e técnicos internacionalmente reconhecidos nas áreas abrangidas, competindo à Direção-Geral da Saúde, ouvidas as respetivas ordens e associações profissionais, públicas ou privadas, propor ao membro do Governo responsável pela área da saúde a sua adoção e assegurando-se a devida publicidade.
+
+###### Artigo 4.º — Informação aos utentes
+
+1 - Nas unidades de cirurgia de ambulatório devem ser colocados, em local bem visíveos utentes, devendo ainda estar disponível para consulta a tabela de preços.
+
+2 - Deve ainda ser afixada, em local bem visível, ou disponibilizada para consulta no local, informação relativa aos acordos e convenções para a prestação de cuidados de saúde aplicáveis à unidade em causa, bem com os respetivos âmbitos.
+
+###### Artigo 5.º — Seguro de responsabilidade civil
+
+1 - As unidades de cirurgia de ambulatório devem contratar e manter em vigor um seguro de responsabilidade civil que cubra os riscos inerentes à sua atividade.
+
+2 - As unidades de cirurgia de ambulatório devem assegurar que os profissionais que nelas exercem a sua atividade estão abrangidos por seguro de responsabilidade civil válido.
+
+###### Artigo 6.º — Regulamento interno
+
+1 - As unidades de cirurgia de ambulatório devem dispor de um regulamento interno, validado pelo diretor clínico, do qual deve constar, pelo menos, o seguinte:
+
+a) Identificação do diretor clínico e do seu substituto, ou do critério de substituição, na ausência de indicação expressa, bem como dos restantes profissionais de saúde e colaboradores, se aplicável;
+
+b) Estrutura organizacional;
+
+c) Deveres gerais dos profissionais;
+
+d) Categorias e graduações profissionais, funções e competências de cada grupo profissional;
+
+e) Normas de funcionamento.
+
+2 - O regulamento interno deve ainda prever a existência, no próprio documento ou em documento acessório, de:
+
+a) Lista e plano anual de manutenção preventiva das instalações e equipamentos e de calibração de equipamento médico ou aferição por tipologia de equipamento;
+
+b) Plano anual de formação e avaliação dos colaboradores;
+
+c) Manual de procedimentos operativos;
+
+d) Plano periódico da participação em programas de avaliação externa da qualidade;
+
+e) Procedimentos de controlo da qualidade;
+
+f) Plano anual de auditorias internas e externas;
+
+g) Condições de higiene e segurança do ambiente, incluindo a recolha, armazenamento e transporte de resíduos sólidos e líquido, em conformidade com as disposições legais aplicáveis;
+
+h) Procedimento de emergência médica.
+
+###### Artigo 7.º — Registo, conservação e arquivo
+
+1 - As unidades cirurgia de ambulatório devem possuir e manter, em arquivo físico ou digital, durante o prazo legalmente estabelecido, os seguintes documentos:
+
+a) Processos clínicos dos utentes contendo os respetivos registos;
+
+b) Cópia dos relatórios dos exames e dos tratamentos realizados.
+
+2 - As unidades de cirurgia de ambulatório devem conservar, durante um mínimo de cinco anos, salvo se prazo mais longo resultar da lei, os seguintes documentos:
+
+a) Os relatórios de classificação de sala limpa referentes às salas de operações, unidade de cuidados pós anestésicos (UCPA), salas de recuperação (recobro - quando integrada no bloco operatório) e zonas limpas (URDMUM) devem ser realizados de acordo com o previsto nas Normas ISO 14644-1 e ISO 14644-2 ou ao abrigo de normativo que as venha a substituir;
+
+b) Dados referentes ao controlo da qualidade;
+
+c) Resultados dos programas de garantia da qualidade e segurança, designadamente:
+
+i) Fichas de equipamento e respetivas declarações de conformidade;
+
+ii) Mapas de manutenções preventivas das instalações e equipamentos;
+
+iii) Mapas de calibração do equipamento médico;
+
+iv) Folhas de obra das ações corretivas aos equipamentos;
+
+v) Ficha de segurança e bulas de medicamentos em uso;
+
+d) Contratos ou extrato de contratos celebrados com terceiros, relativos às atividades identificadas no artigo 13.º do presente diploma;
+
+e) Regulamento interno;
+
+f) Resultados das vistorias realizadas pelas entidades competentes;
+
+g) Protocolos terapêuticos, de formação e outras normas técnicas destinadas à atividade profissional.
+
+3 - Adicionalmente, se aplicável, as unidades de cirurgia do ambulatório devem dispor em arquivo, físico ou digital, da seguinte documentação:
+
+a) Certificado de exploração ou declaração de inspeção inicial das instalações elétricas, consoante o tipo (A, B ou C);
+
+b) Cópia do termo de responsabilidade pela exploração das instalações elétricas ou da declaração de inspeção periódica, consoante o tipo (A, B ou C) e a potência aparente da instalação;
+
+c) Certificação dos equipamentos elevadores;
+
+d) Cópia ou extrato do contrato de manutenção dos equipamentos elevadores;
+
+e) Certificado de inspeção das instalações de gás;
+
+f) Cópia do certificado dos dispositivos médicos, incluindo sistema de distribuição de gases medicinais, em conformidade com o previsto na legislação e vigor;
+
+g) Cópia da declaração de validação de funcionamento de recipientes sob pressão simples e/ou o certificado de aprovação de funcionamento de equipamentos sob pressão;
+
+h) Cópia do relatório de ensaios do sistema de climatização, demonstrativo do cumpcópia da declaração válida emitida pela ordem profissional a que pertence o técnico, que ateste as competências para o ato;
+
+i) Cópia dos relatórios de inspeção a sistemas técnicos, no âmbito da legislação em vigor na área da eficiência energética;
+
+j) Cópia dos relatórios das auditorias à qualidade do ar interior, de acordo com o estabelecido na legislação em vigor;
+
+k) Cópia do certificado energético, em conformidade com a legislação em vigor;
+
+l) Cópia do relatório de ensaios que comprovem o funcionamento dos equipamentos geradores de ruído, como, por exemplo, sistemas de vácuo e/ou produção de ar comprimido, em conformidade com o Regulamento Geral do Ruído;
+
+m) Resultados das análises efetuadas no âmbito do controlo sanitário da água;
+
+n) Plano de prevenção e controlo ou programa de manutenção e limpeza, bem como toda a documentação associada no âmbito da legislação em vigor, no sentido de prevenir o risco de proliferação e disseminação da bactéria Legionella;
+
+o) Autorização para aquisição direta de medicamentos, emitida pelo INFARMED, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+### Capítulo III — Instrução do pedido e condições de funcionamento
+
+###### Artigo 8.º — Instrução do pedido
+
+1 - O processo de licença de funcionamento ou de declaração de conformidade das unidades de cirurgia de ambulatório, para além dos elementos instrutórios constantes do n.º 3 do artigo 5.º do Decreto-Lei n.º 127/2014 de 22 de agosto, devem ser acompanhados da seguinte documentação:
+
+a) No caso das unidades privadas, certidão atualizada do registo comercial, ou código de acesso à certidão permanente de pessoa coletiva ou, no caso de pessoa singular, cópia do cartão do cidadão;
+
+b) No caso das IPSS, declaração de inscrição como IPSS, emitida pela Segurança Social;
+
+c) Relação nominal do pessoal que integra a unidade de cirurgia de ambulatório ou, conforme aplicável, declaração de compromisso de entrega da relação nominal do pessoal e respetivo mapa com a distribuição pelos diferentes grupos profissionais e cópias das respetivas cédulas ou carteiras profissionais, no prazo máximo de 30 dias, a contar da data da licença de funcionamento;
+
+d) Memória descritiva e justificativa e telas finais dos projetos de arquitetura, instalações e equipamentos elétricos, instalações e equipamentos mecânicos, instalações e equipamentos de águas e esgotos e instalação da rede de gases medicinais;
+
+e) Memória descritiva do programa funcional, indicando a lotação, o número de salas de operações e a designação dos serviços ou valências de que a unidade dispõe;
+
+f) Parecer favorável das medidas de autoproteção (MAP), ou comprovativo deste pedido, emitido pela Autoridade Nacional de Emergência e Proteção Civil (ANEPC);
+
+g) Relatório da última inspeção regular dentro do prazo legal ou documento comprovativo do pedido, seguindo os critérios estabelecidos no Regime Jurídico de Segurança contra Incêndios em Edifícios;
+
+h) Autorização de utilização para comércio ou serviços ou outra finalidade mais específica, emitida pela câmara municipal competente ou documento(s) equivalente(s) nos termos da legislação em vigor.
+
+###### Artigo 9.º — Condições de funcionamento
+
+1 - São condições de atribuição da licença de funcionamento ou de declaração de conformidade:
+
+a) A idoneidade do requerente, a qual, no caso de se tratar de pessoa coletiva, deve ser preenchida pelos administradores, ou diretores/gerentes que detenham a direção efetiva do estabelecimento;
+
+b) A idoneidade profissional dos elementos da direção clínica e demais pessoal clínico e de enfermagem;
+
+c) O cumprimento dos requisitos que permitam a garantia da qualidade técnica dos cuidados e tratamentos a prestar, bem como dos equipamentos de que ficarão dotados.
+
+2 - Para efeitos do disposto na alínea a) do número anterior, são consideradas idóneas as pessoas relativamente às quais não se verifique nenhum dos seguintes impedimentos:
+
+a) Proibição legal do exercício do comércio ou a não conformidade de registo na Segurança Social;
+
+b) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;
+
+c) Inibição do exercício da atividade profissional, pela respetiva ordem ou associação profissional, durante o período determinado.
+
+3 - Para efeitos do disposto na alínea b) do n.º 1, são considerados profissionais de saúde idóneos aqueles em relação aos quais não se verifique nenhum dos seguintes impedimentos:
+
+a) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;
+
+b) Inibição do exercício da atividade profissional, pela respetiva ordem ou associação profissional, durante o período determinado.
+
+4 - O disposto nos números anteriores deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
+
+### Capítulo IV — Recursos humanos
+
+###### Artigo 10.º — Direção clínica
+
+1 - As unidades de cirurgia de ambulatório são tecnicamente dirigidas por um médico de uma especialidade cirúrgica ou de anestesiologia.
+
+2 - Sempre que a unidade se encontre integrada num estabelecimento de saúde onde sejam desenvolvidas outras tipologias de atividade, o estabelecimento é dirigido por um diretor clínico, sendo a responsabilidade técnica da unidade de cirurgia de ambulatório assumida por um diretor de serviço, médico nas condições previstas no número anterior.
+
+3 - A atividade da unidade de cirurgia de ambulatório implica a presença física do diretor clínico ou, no caso previsto no número anterior, do diretor de serviço, de forma a garantir a qualidade dos tratamentos e a supervisão da atividade realizada, devendo ser substituído nos seus impedimentos e ausências por um profissional qualificado com formação equivalente.
+
+4 - Para efeitos do disposto no número anterior, entende-se por impedimentos quaisquer circunstâncias anormais e imprevisíveis que impeçam a efetiva disponibilidade do diretor clínico ou do diretor de serviço.
+
+5 - Em caso de impedimento ou cessação permanente de funções do diretor clínico/diretor de serviço, deve ser promovida a sua substituição no prazo máximo de 30 dias, com comunicação da substituição à entidade competente.
+
+6 - É da responsabilidade do diretor clínico/diretor de serviço:
+
+a) Constituir uma equipa multidisciplinar, composta por médicos, designadamente cirurgiões e anestesistas, enfermeiros, administrativos e auxiliares;
+
+b) Designar, de entre os profissionais com qualificação equivalente à sua, o seu substituto durante as suas ausências ou impedimentos, em respeito pelas regras constantes do regulamento interno;
+
+c) Zelar pela qualidade dos cuidados clínicos prestados, tendo em particular atenção os programas de garantia da qualidade, incluindo o controlo de infeção;
+
+d) Garantir a formação contínua do pessoal técnico da unidade;
+
+e) Supervisionar o cumprimento das normas estabelecidas quanto à estratégia terapêutica dos utentes e ao controlo clínico;
+
+f) Aprovar os protocolos técnicos, clínicos e terapêuticos e velar pelo seu cumprimento;
+
+g) Colaborar na definição das normas referentes à proteção da saúde e à segurança do pessoal, bem como respeitar as especificações referentes à proteção do ambiente e da saúde pública e zelar pelo seu cumprimento;
+
+h) Garantir a idoneidade e a qualificação técnica dos profissionais adequadas para o desempenho da atividade;
+
+i) Aprovar o procedimento de emergência médica e assegurar a sua divulgação.
+
+###### Artigo 11.º — Pessoal
+
+1 - As unidades de cirurgia de ambulatório devem dispor de todos os recursos humanos necessários ao desempenho das funções para que estão legalmente habilitadas por licenciamento ou declaração de conformidade.
+
+2 - As unidades de cirurgia de ambulatório devem assegurar a presença física e permanente de pessoal necessário ao regular funcionamento da unidade.
+
+3 - As unidades de cirurgia de ambulatório devem dispor da colaboração de um farmacêutico, responsável pelo serviço de farmácia, bem como pela conservação, identificação e distribuição dos medicamentos.
+
+###### Artigo 12.º — Procedimentos de emergência médica
+
+1 - As Unidades de Cirurgia de Ambulatório devem ter definidos procedimentos de emergência médica adequados à situação dos utentes admitidos.
+
+2 - As unidades têm de ter carro ou carros de emergência com desfibrilhação manual e garantir em permanência um médico e um enfermeiro com formação certificada em Suporte Avançado de Vida.
+
+###### Artigo 13.º — Recurso a serviços contratados
+
+As unidades de cirurgia de ambulatório podem recorrer a serviços de terceiros, nomeadamente no âmbito do fornecimento de refeições, tratamento de roupa, de gases medicinais e reprocessamento de dispositivos médicos de uso múltiplo e, ainda, a gestão dos resíduos, quando as entidades prestadoras de tais serviços se encontrem, nos termos da legislação em vigor, licenciadas, certificadas ou acreditadas para o efeito.
+
+### Capítulo V — Requisitos técnicos
+
+###### Artigo 14.º — Normas genéricas de construção, segurança e privacidade
+
+1 - As unidades de cirurgia de ambulatório devem situar-se em locais de fácil acessibilidade e que disponham de infraestruturas viárias, de abastecimento de água, de saneamento, de energia elétrica e de telecomunicações.
+
+2 - As unidades de cirurgia de ambulatório devem, preferencialmente, estar instaladas em edifícios destinados a esse fim.
+
+3 - Excecionalmente, se a natureza das demais atividades exercidas nos edifícios não o desaconselhar, pode ser admitida a instalação de unidades de cirurgia de ambulatório em parte de edifício, desde que haja independência operacional das instalações técnicas especiais, ainda que localizadas em zonas comuns, e se observem as disposições técnicas expressas na presente portaria.
+
+4 - A construção deve contemplar a existência de um percurso acessível até aos espaços fundamentais de funcionamento da unidade, nos termos do regime jurídico das acessibilidades em vigor.
+
+5 - A sinalética deve ser concebida de forma a ser compreendida pelos utentes, obedecendo aos requisitos de legibilidade definidos no regime jurídico das acessibilidades em vigor.
+
+6 - Os acabamentos utilizados devem permitir a manutenção de um grau de higienização compatível com a atividade desenvolvida nos locais a que se destinam.
+
+7 - Todos os compartimentos que disponham de lavatório com torneira de comando não manual devem estar munidos de dispensador de sabão líquido, porta-toalhetes e recipientes de resíduos de abertura não manual, sendo que a parede junto dos lavatórios deve ser revestida de material impermeável e de fácil higienização. Os compartimentos onde haja prestação de cuidados de saúde devem prever a existência de dispensadores de SABA (solução antisséptica de base alcoólica).
+
+8 - As unidades de cirurgia de ambulatório devem garantir a localização de instalações técnicas, de armazenagem de fluidos inflamáveis ou perigosos e de gases medicinais, caso existam, nas condições de segurança legalmente exigidas.
+
+9 - As circulações horizontais, os compartimentos de armazenamento, sujos e despejos e material de limpeza deverão ter como pé direito útil mínimo 2,40 m, entendendo-se como tal a altura livre do pavimento ao teto ou teto falso, devendo nas demais áreas ser cumprido o pé direito útil mínimo previsto na legislação em vigor.
+
+10 - Os vãos das portas utilizadas na passagem de macas e camas devem ter o mínimo de 1,40 m de largura útil.
+
+11 - Sempre que a unidade não disponha de acesso de nível ao exterior ou tenha um desenvolvimento em altura superior a um piso e se preveja a utilização de macas ou camas, deve dispor de, pelo menos, um equipamento elevador com capacidade para o transporte de macas com dimensões interiores não inferiores a 2,40 m × 1,30 m × 2,10 m, respetivamente, de comprimento, de largura e de altura.
+
+12 - Os corredores destinados a circulação de camas e macas devem ter o mínimo de 2,20 m de largura útil, com as seguintes ressalvas:
+
+a) Admite-se a existência de corredores com o mínimo de 1,80 m de largura útil, desde que haja bolsas que permitam o cruzamento de camas;
+
+b) Os corredores destinados a circulação de macas devem ter o mínimo de 1,40 m de largura útil.
+
+13 - A zona de armazenagem de medicamentos, quando exista, deve ser apenas acessível a profissionais autorizados, estar identificada e dispor de monitorização das condições de temperatura e humidade.
+
+14 - As unidades de cirurgia de ambulatório devem garantir as condições que permitam o respeito pela privacidade e dignidade dos utentes.
+
+15 - Os equipamentos de suporte vital e de emergência devem estar acessíveis e funcionais e devem ser objeto de ensaios regulares documentados.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+###### Artigo 15.º — Reprocessamento de dispositivos médicos de uso múltiplo
+
+1 - Para a obtenção de dispositivos médicos de uso múltiplo reprocessados, devem adotar-se as seguintes modalidades:
+
+a) Utilização exclusiva de dispositivos médicos de uso único, sendo proibido o reprocessamento para utilização posterior, salvo se permitido por regulamentação específica;
+
+b) Utilização de dispositivos médicos de uso múltiplo reprocessados em entidade externa com implementação ou certificação da NP EN ISO 13485 ou ao abrigo de normativo que a venha a substituir, ou em unidade de saúde licenciada ou com declaração de conformidade, que disponha de unidade central de reprocessamento;
+
+c) Utilização de dispositivos médicos de uso múltiplo reprocessados em unidade interna de reprocessamento de dispositivos médicos de uso múltiplo para uma parte ou a totalidade das necessidades de um único serviço da unidade de saúde, sendo que em caso de reprocessamento pela unidade interna de apenas uma parte do material, o restante deve ser obtido com recurso às demais opções descritas;
+
+d) Utilização de dispositivos médicos de uso múltiplo reprocessados em unidade central de reprocessamento de dispositivos médicos de uso múltiplo para as necessidades de dois ou mais serviços da unidade de saúde, concebida, organizada e equipada de acordo com os normativos e legislação em vigor, que deve dispor da capacidade adequada às necessidades e ter implementada ou estar certificada pela NP EN ISO 13485 ou ao abrigo de normativo que a venha a substituir.
+
+2 - Todos os dispositivos potencialmente contaminados são manipulados, recolhidos e transportados em caixas ou carros fechados para a área de descontaminação, de forma a evitar o risco de contaminação dos circuitos envolventes, de utentes e pessoal.
+
+3 - As unidades internas e centrais de reprocessamento de dispositivos médicos de uso múltiplo deve satisfazer as normas relativas a qualidade e segurança, nos termos do artigo 3.º, com vista a assegurar o cumprimento das seguintes fases, respeitando ainda as instruções do fabricante dos dispositivos médicos, designadamente:
+
+a) Recolha de instrumentos ou dispositivos médicos;
+
+b) Limpeza e desinfeção;
+
+c) Inspeção, montagem e embalagem;
+
+d) Esterilização;
+
+e) Armazenamento.
+
+4 - Qualquer que seja a origem dos dispositivos médicos de uso múltiplo reprocessados, deve existir evidência da validação da eficácia das diferentes fases do reprocessamento, garantindo-se, pelo menos:
+
+a) A validação do ciclo de esterilização no caso da unidade interna de reprocessamento de dispositivos médicos de uso múltiplo;
+
+b) A validação dos processos de lavagem/desinfeção, embalagem, selagem e esterilização na unidade central de reprocessamento de dispositivos médicos de uso múltiplo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+###### Artigo 16.º — Especificações técnicas
+
+1 - São aprovadas especificações técnicas no que diz respeito aos compartimentos das unidades de cirurgia de ambulatório e aos requisitos mínimos de equipamento técnico e médico nos anexos i a xiii à presente portaria, da qual fazem parte integrante.
+
+2 - A área útil prevista nos anexos (nomeadamente a definida por posto, box, cama, maca ou cadeirão) inclui circulações, considerando-se que a área útil total do compartimento resulta do somatório das áreas úteis parciais, sem prejuízo da necessidade de ser assegurada a funcionalidade do espaço, a circulação entre postos e o acesso ao utente, de acordo com o Regime Geral de Segurança contra Incêndios.
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 17.º — Outros serviços de ação médica
+
+Sempre que a unidade dispuser de outros serviços de ação médica, estes devem cumprir as exigências e requisitos constantes nos respetivos diplomas legais.
+
+###### Artigo 18.º — Livro de reclamações
+
+As unidades de cirurgia de ambulatório estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor.
+
+###### Artigo 19.º — Prazo de adaptação
+
+1 - As unidades licenciadas dispõem do prazo de 5 anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos, devendo, no mesmo prazo e sem prejuízo do disposto no artigo 12.º do Decreto-Lei n.º 127/2014, de 22 de agosto, requerer, através do Portal de Licenciamento da ERS, a licença de funcionamento que ateste a conformidade com a regulamentação vigente.
+
+2 - Tratando-se de unidades que disponham de licença de funcionamento emitida pela ERS ao abrigo do Decreto-Lei n.º 127/2014, de 22 de agosto, e da regulamentação prevista no n.º 2 do artigo 25.º do mesmo diploma e cuja obtenção deva seguir o procedimento ordinário, no prazo definido no número anterior, deverão solicitar, através do Portal de Licenciamento, a emissão de nova licença com dispensa de vistoria prévia, através de requerimento fundamentado que ateste o cumprimento dos novos requisitos técnicos de funcionamento aqui previstos.
+
+3 - As IPSS, as instituições militares e as pessoas coletivas públicas em funcionamento dispõem do prazo de 5 anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos.
+
+4 - Os titulares de processos de licenciamento em curso, à data de entrada em vigor da presente portaria, podem optar pela adequação aos novos requisitos técnicos de funcionamento aqui previstos, mediante requerimento dirigido à ERS.
+
+5 - Nas situações referidas no número anterior, a ERS dará continuidade à tramitação dos processos, aproveitando os atos já praticados e decidindo sobre o pedido de emissão da licença de funcionamento, à luz dos requisitos técnicos definidos na presente portaria.
+
+###### Artigo 20.º — Norma revogatória
+
+São revogadas as Portarias n.<sup>os</sup> 291/2012, de 24 de setembro, e 111/2014, de 23 de maio.
+
+###### Artigo 21.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 1 de março de 2024.
+
+A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro.
+
+## Anexo I — Consulta externa (se existir)
+
+(a que se refere o artigo 16.º)
+
+Compartimentos a considerar:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área de acolhimento |  |  |  |  |
+| Receção/secretaria | Secretaria com zona de atendimento de público | - | - | Pode ser partilhada com serviços adjacentes. |
+| Zona de espera | Para utentes e acompanhantes:Para adultosPara crianças (se houver pediatria). | - | - | Junto à receção/secretaria.Pode ser partilhada com serviços adjacentes. |
+| Instalação sanitária de público | - | - | - | Acessível a pessoas de mobilidade condicionada, com zona de fraldário se existir pediatria.Pode ser partilhada com serviços adjacentes. |
+| Área clínica/técnica |  |  |  |  |
+| Gabinete de consulta | Elaboração da história clínica dos utentes e observação | 10 (*)12 | 2,6 | - |
+| Sala de observação/tratamento | Observação e tratamentos | 12 (**)16 | 2,6 | Facultativa, exceto no caso de existir ginecologia sem gabinete com marquesa ginecológica. |
+| Sala de pequena cirurgia | Para procedimentos com anestesia local, sem necessidade de cuidados especiais de recobro | 16 | 2,6 | Facultativa. |
+| Zona de desinfeção de pessoal | - | - | - | De preferência em área aberta, contígua à sala de pequena cirurgia. |
+| Sala de exames endoscópicos | Para realização de exames invasivos | 16 | 3,0 | Quando haja lugar à sua realização. |
+| Sala de preparação/recuperação | Para preparação do utente (pré-exame) e para recuperação após exames em que se utilize analgesia/sedação e/ou anestesia | 4/cadeirão ou 10/maca | - | Exigível no caso de exames com analgesia, sedação ou anestesia. Mínimo dois cadeirões/macas por sala e exames. |
+| IS apoio | Para utentes | - | - | Anexa ou próxima da sala de exames ou de recuperação. |
+| Sala de prova de esforço | Exames de prova de esforço e estimulação cardíaca | 12 (**)15 | - | Quando haja lugar à sua realização. |
+| Área de pessoal |  |  |  |  |
+| Instalação sanitária de pessoal | - |  | - | Pode ser partilhada com serviços adjacentes. |
+| Sala de pessoal | - | - | - | Facultativo. |
+| Vestiário de pessoal | - | - | - | Com zona de cacifos. Facultativo caso seja centralizado para toda a unidade. |
+| Área logística c) |  |  |  |  |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos e despejos | - | - | Não necessita de despejos, caso não exista sala de tratamento, pequena cirurgia ou de exames endoscópicos.A área prevista deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência.Deve ser garantida a separação física entre o material de limpeza e os sujos. |
+| Área de reprocessamentoSala de descontaminaçãoa) d) | Para limpeza e desinfeção, de dispositivos médicos de uso múltiplo | - | - | A área prevista deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |
+| Área de reprocessamentoSala limpaa) b) | Com esterilizador de tipo adequado e ligação à zona de descontaminação por «guichet» ou por máquina de lavar com duas portas. | - | - |  |
+| Material de limpeza | Armazenagem de material de limpeza | - | - | Possibilidade de partilha com a sala de sujos, se as unidades tiverem até cinco gabinetes de consulta e desde que se garanta a separação física com armário fechado. |
+| Zona de roupa limpa | Armazenagem | - | - | Arrumação em armário/estante/carro. |
+| Zona de material de consumo | Armazenagem | - | - | Arrumação em armário/estante/carro. |
+| Zona de material de uso clínico | Armazenagem | - | - | Arrumação em armário/estante/carro. |
+| Sala de equipamento | Armazenagem | - | - | Facultativa. |
+
+(*) Aceitável em: (i) gabinetes de consulta das especialidades que dispensam o uso de catre e (ii) em unidades existentes, em funcionamento e, se aplicável, licenciadas, à data da publicação do presente diploma.
+
+(**) Aceitável em unidades existentes, em funcionamento e, se aplicável, licenciadas, à data da publicação do presente diploma.
+
+a) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+b) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior. Deve estar separada da sala de descontaminação, sendo admissível a existência de uma porta de comunicação.
+
+c) Pode partilhar com serviço adjacente.
+
+d) A sala de descontaminação é exigível quando a unidade não utilizar exclusivamente material descartável.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/330-2025-938108825), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+## Anexo II — Serviço de atendimento permanente (se existir)
+
+(a que se refere o artigo 16.º)
+
+Compartimentos a considerar:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área de acolhimento |  |  |  |  |
+| Receção/secretaria | Secretaria com zona de atendimento de público | - | - | Pode ser partilhada com serviços adjacentes. |
+| Zona de espera | Para utentes e acompanhantes junto à receção/secretaria: | - | - | Junto à receção/secretaria.Pode ser partilhada com serviços adjacentes. |
+|  | Para adultos |  | - |  |
+|  | Para crianças (caso exista pediatria) | - | - |  |
+| Instalação sanitária de público | - | - |  | Acessível a pessoas de mobilidade condicionada. Com fraldário, se houver pediatria.Pode ser partilhada com serviços adjacentes. |
+| Área clínica/técnica |  |  |  |  |
+| Gabinete de consulta | Elaboração da história clínica do doente e observação | 12 | 2,6 | Pode ser substituído por boxes ou sala aberta com 10 m2 por posto. |
+| Sala de trabalho de enfermagem | Realização de atividades de enfermagem | 12 | - | - |
+| Zona de inaloterapia | Para tratamentos com aerossóis | 2/posto | - | Pode ser constituída em boxes ou integrada na sala de recuperação. |
+| Sala de tratamentos | Para tratamentos | 16 | 3 | Facultativa. |
+| Sala de gessos | Para gessos e outros tratamentos | 16 | 3 | Exigível nos casos em que não é utilizado gesso sintético. |
+| Sala de observação/recuperação | Restabelecimento de utentes após tratamentos, em cadeirão separados por cortinas | 4/cadeirão10/maca | - | - |
+| Área de pessoal |  |  |  |  |
+| Instalação sanitária de pessoal | - |  | - | Pode ser partilhada com serviços adjacentes. |
+| Sala de pessoal | Pausa de pessoal | - | - | Facultativo |
+| Vestiário de pessoal | - | - | - | Com zona de cacifos e chuveirosFacultativo (caso seja centralizado para toda a unidade). |
+| Área logística d) |  |  |  |  |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de despejos e máquina de eliminação de arrastadeiras descartáveis quando existir | - | - | A área mínima deve garantir a funcionalidade da sala, considerando o volume de sujos e tempo de permanência. |
+| Área de reprocessamentoSala de descontaminação a) e) | Para limpeza e desinfeção de dispositivos médicos de uso múltiplo | - | - | A área mínima deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |
+| Área de reprocessamentoSala limpa a) | Com esterilizador de tipo adequado e ligação à zona de descontaminação por «guichet» ou por máquina de lavar com duas portas | - | - | b) c) |
+| Zona de roupa limpa | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Zona de material de consumo | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Zona de material de uso clínico | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Sala de equipamento | Armazenagem | - | - | - |
+| Material de limpeza | Armazenagem | - | - | - |
+
+a) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+b) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior.
+
+c) Deve estar separada da sala de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.
+
+d) Pode ser partilhada com um serviço adjacente.
+
+e) A sala de descontaminação é exigível quando a unidade não utilizar exclusivamente material descartável.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/330-2025-938108825), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+## Anexo III — Bloco operatório
+
+(a que se refere o artigo 16.º)
+
+Compartimentos a considerar:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área de acolhimento |  |  |  |  |
+| Receção/secretaria | Secretaria com zona de atendimento de público | - | - | Pode ser comum a um serviço adjacente. |
+| Vestiário de utentes | Com instalação sanitária e cacifos | 10+4 | - | Mínimo duas cabines, sendo que, pelo menos uma deve ser acessível a pessoas de mobilidade condicionada. Pode ser organizado em boxes, em zona comum à recuperação final, desde que exista separação de circuitos e IS dedicada, sendo que neste caso a recuperação final se localizará fora do bloco operatório, com transfer direto para o bloco ou, se noutro local ou piso, o doente realizará o circuito em cama ou cadeira de rodas, sem atravessar serviços de internamento. |
+| Zona de espera | Para utentes e acompanhantes:Para adultosPara crianças (se houver pediatria) | - | - | Junto à receção/secretaria.Pode ser comum a um serviço adjacente. |
+| Instalação sanitária de público | - | - | - | Acessível a pessoas de mobilidade condicionada.Pode ser comum a serviços adjacentes. |
+| Gabinete de consulta | Para avaliação pré-operatória de utentes | 12 | 2,6 | 1 por cada quatro salas de operações.Pode estar localizado na consulta externa. |
+| Sala de observação e tratamentos | Para observação e preparação de utentes e tratamentos no pós-operatório | 16 | 3,0 | Pode estar localizada na consulta externa. |
+| Área clínica/técnica de cirurgia |  |  |  |  |
+| Transfer | Transferência do doente da zona externa do bloco para a zona interna com sinalização visual no pavimento. | - | - | - |
+| Zona de desinfeção de pessoal | Lavagem e desinfeção pré-operatória | - | - | De preferência em área aberta, contígua à sala de operações. |
+| Sala de anestesia | Indução anestésica | 14 | - | Facultativa. |
+| Sala de operações a) b) | Classe A - Cirurgia minor com anestesia local ou loco-regional | 16 | 3,5 | - |
+|  | Classe B - Cirurgia major com anestesia loco-regional | 24 | 4,5 | - |
+|  | Classe C - Cirurgia major com anestesia geral com suporte ventilatório | 36 | 5,5 | - |
+| Área clínica/técnica de recuperação |  |  |  |  |
+| Unidade de cuidados pós- anestésicos (UCPA) | Recuperação pós-operatória Classe A/B/C - 2 camas/sala de operações | 12/cama | 3/cama (*) | Classe A - não exigida, exceto nos casos em que se realizem cirurgias com anestesia loco-regional. |
+| Sala de recuperação | Para recuperação final: | 10/cama4/cadeirão | - | Em cama ou cadeirão com cortinas separativas ou biombos.A UCPA pode partilhar a mesma sala com a recuperação, desde que garantida a sua separação e a privacidade dos utentes, bem como as áreas mínimas previstas para os postos. |
+|  | Classe A - 3 postos/sala de operações |  |  |  |
+|  | Classe B/C - 3 camas/sala de operações |  |  |  |
+| Posto de controlo | Controlo dos utentes da UCPA e da sala de recuperação, com bancada de trabalho de enfermagem, no interior da sala. | 10 | - | Pode ser partilhada pela UCPA e sala de recuperação quando o compartimento seja comum, tenha visibilidade para ambas e assegure a visibilidade para todos os postos. |
+| Instalação sanitária de utentes | Para utentes em recuperação | - | - | Acessível a pessoas de mobilidade condicionada. |
+| Área de pessoal |  |  |  |  |
+| Vestiário de pessoal | Para higiene do pessoal do bloco e mudança para roupa própria à função. Organizado de forma a minimizar os cruzamentos entre a zona externa e a zona interna. | - | - | Com zona de cacifos, instalação sanitária e chuveiros para cada sexo, com acesso direto à zona operatória. |
+| Instalação sanitária de pessoal | - | - | - | De apoio à sala de recuperação. |
+| Sala de pessoal | Pausa de pessoal | - | - | Facultativo. |
+| Gabinete de trabalho | Trabalho de médico, enfermeiro e reuniões | - | - | Facultativo. |
+| Área logística |  |  |  |  |
+| Depósito de cadáveres (c) | Depósito temporário de cadáveres | 10 | - | Classe A - não exigida.Classe B/C - facultativo em unidades que só disponham de uma sala de operações. |
+| Copa | Receção e conferência de dietas. Preparação de refeições ligeiras. | - | - | A área mínima deve garantir a funcionalidade da sala e dos equipamentos. |
+| Transfer de material | Entrada de material vindo do exterior do bloco | - | - | Entrada de material vindo do exterior do bloco, por guichet ou armário de passagem. |
+| Sala de lavagem e desinfeção de arrastadeiras | - | - | - | Dispensável quando a unidade utilizar arrastadeiras descartáveis. |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de despejos e máquina de eliminação de arrastadeiras descartáveis quando existirem | - | - | A área mínima deve garantir a funcionalidade da sala considerando o volume de sujos e tempo de permanência. |
+| Área de reprocessamentoSala de descontaminação d) g) | Para limpeza, e desinfeção de dispositivos médicos de uso múltiplo | - | - | A área mínima deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |
+| Área de reprocessamentoSala limpa d) | Com esterilizador de tipo adequado e ligação à sala de descontaminação por «guichet» ou por máquina de lavar com duas portas | - | - | e) f) |
+| Zona de roupa limpa | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Zona de material de consumo | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Zona de material de uso clínico | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Zona de medicamentos | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Zona de produtos esterilizados | Armazenagem | - | - | Arrumação em armário/estante/carro |
+| Sala de equipamento | Armazenagem | - | - |  |
+| Material de limpeza | Armazenagem | - | - | - |
+
+(*) Aceitável largura inferior em unidades em funcionamento, desde que comprovada a funcionalidade do espaço.
+
+a) As salas da classe B estão aptas a realizar cirurgias da classe A. As salas da classe C estão aptas a realizar cirurgias das classes A e B.
+
+b) O pavimento, paredes e tetos devem ser laváveis e desinfetáveis e sem juntas. O pavimento deve ser antiestático.
+
+c) Deve estar localizado em lugar recatado e que permita a saída de cadáveres do edifício, através de circuito separado do acesso de utentes e ou visitas. Pode estar localizado noutra área da unidade, que não o bloco operatório.
+
+d) Aplicam-se os comentários do anexo sobre reprocessamento de equipamentos médicos.
+
+e) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior.
+
+f) Deve estar separada da sala de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.
+
+g) A sala de descontaminação é exigível quando a unidade não utilizar exclusivamente material descartável.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/330-2025-938108825), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+## Anexo IV — Unidade de Reprocessamento de Dispositivos Médicos de Uso Múltiplo (se existir)
+
+(a que se refere o artigo 16.º)
+
+Compartimentos a considerar:
+
+| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |
+| --- | --- | --- | --- | --- |
+| Área técnica - Receção |  |  |  |  |
+| Área de descontaminação | Triagem, lavagem, desinfeção e secagem dos materiais. Ligação à sala de trabalho através de máquinas de lavagem e desinfeção de dupla porta ou guichet. | – | – | - |
+| Adufa | De acesso às zonas limpas (inspeção e embalagem) para mudança de roupa, com lavatório. | – | – | Caso exista ligação entra a área de descontaminação e a zona de inspeção e embalagem. |
+| Área técnica - Inspeção e Embalagem |  |  |  |  |
+| Sala de trabalho | Inspeção, teste, preparação e embalagem de materiais | – | – | - |
+| Sala de preparação de têxteis (*) | Preparação de têxteis para esterilizar | – | – | - |
+| Área técnica - Esterilização |  |  |  |  |
+| Barreira sanitária | Barreira física, entre a zona de embalagem e o armazém de esterilizados, integrando autoclaves | – | – | - |
+| Adufa | De ligação entre a zona de preparação e embalagem e o armazém de esterilizados | – | – | - |
+| Área técnica - Expedição |  |  |  |  |
+| Armazém de esterilizados | Armazenamento de material esterilizado para expedição | – | – | - |
+| Área de pessoal |  |  |  |  |
+| Gabinete | Trabalho de responsável, com visualização para a área de inspeção/embalagem | – | – | Facultativo. |
+| Instalação sanitária de pessoal | - |  | – | - |
+| Vestiário de pessoal | - | – | – | Com zona de cacifos, instalação sanitária e chuveiros. |
+| Área logística |  |  |  |  |
+| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de despejos; | – | – | A área prevista deve garantir a funcionalidade da sala, considerando o volume de sujos e tempo de permanência. |
+| Zona de roupa limpa | Armazenagem; | – | – | Arrumação em armário/estante/carro. |
+| Zona de material de consumo | Armazenagem; | – | – | Arrumação em armário/estante/carro. |
+| Material de limpeza | Armazenagem; | – | – | A área da descontaminação deve dispor de material de limpeza dedicado/exclusivo. |
+
+(*) Se existir.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+## Anexo V — Aquecimento, ventilação e ar condicionado (AVAC)
+
+(a que se refere o artigo 16.º)
+
+Requisitos mínimos a considerar:
+
+1 - Todos os compartimentos devem satisfazer as condições ambiente de temperatura e de humidade previstas na legislação em vigor.
+
+2 - Em termos de exigências associadas aos equipamentos de renovação e de extração de ar (caudal de ar novo, caudal de extração ou níveis de filtragem, a título exemplificativo), deve ser verificado o maior dos requisitos que resultem da interseção do exigido na presente portaria e na legislação em vigor na área dos edifícios no âmbito da eficiência energética
+
+3 - Os equipamentos de climatização dos espaços interiores devem recorrer a permuta térmica ar-água.
+
+Consulta externa/Serviço de atendimento permanente (SAP)
+
+|  | Sala de observação/tratamentos | Zona de inaloterapia | Sala de observação/ recuperação (SAP) |
+| --- | --- | --- | --- |
+| Tratamento | VC/UI (*) | VC/UI (*) | VC/UI (*) |
+| Caudal de ar novo | (**) (1) | (**) (1) | (**) (1) |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 22 °C | Verão: máximo 25 °CInverno: mínimo 22 °C | Verão: máximo 25 °CInverno: mínimo 20 °C |
+| Extração | Sim, forçada (2) | Sim, forçada (2) | Sim, forçada (2) |
+| Sobrepressão/subpressão | Subpressão | - | - |
+|  | Gabinete de consulta | Sala de prova de esforço | - |
+| Tratamento | VC/UI (*) | VC/UI (*) | - |
+| Ar novo | (**) (1) | 4 ren/h | - |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 22 °C | 21 ºC a 24 °C | - |
+| Extração | Sim, forçada (2) | Específica da zona | - |
+| Sobrepressão/ subpressão | Equilíbrio | Subpressão | - |
+|  | Sala de pequena cirurgia (4) | Sala de exames endoscópicos | Sala de preparação/recuperação (de apoio aos exames endoscópicos) |
+| Tratamento | UTA e ventilador privativos - (3) (9) (10) | UTA e ventilador privativos (10) | VC/UI (*) |
+| Filtragem suplementar | Sim, terminal; H13 | Sim, terminal, H13 | Não |
+| Humidificação | Sim, por vapor | Não | Não |
+| Caudal de ar novo mínimo | 100 m3/h.pessoa ou5 Ren/h no mínimo | 100 m3/h.pessoa (1) | 35 m3/ h.m2 (1) (2) |
+| Insuflação | Difusores com filtragem terminal | Difusores com filtro terminal | - |
+| Sobrepressão/subpressão | Sobrepressão (15 ± 5 Pa) | Sobrepressão | Sobrepressão |
+| Recirculação | 20 rec/h | 6 rec/h | sim |
+| Diferencial de temperatura | Máximo: 8 °C em frio | Máximo: 8 °C em frio | - |
+| Condições ambiente | 20-26 °C; 30 a 60 % + 5 HR | 20 a 25 °C: 30 a 60 % HR | 20 a 25 °C |
+|  | Área de reprocessamentoSala de descontaminação (se realizar alguma fase do processo de esterilização ou desinfeção de alto nível) | Área de reprocessamentoSala limpa (se realizar alguma fase do processo de esterilização ou desinfeção de alto nível) |  |
+| Tratamento | VC/UI (*) | VC/UI (*) |  |
+| Condições ambiente | - | - |  |
+| Caudal de ar novo | 10 ren/h (1) | 10 ren/h (1) |  |
+| Extração | Sim, forçada (2) | Sim, forçada (2) |  |
+| Sobrepressão/subpressão | Subpressão | Sobrepressão |  |
+
+(*) VC - Ventiloconvetor; UI - unidade de indução.
+
+(**) Para os caudais mínimos de ar novo, aplica-se a legislação em vigor.
+
+Bloco operatório
+
+|  | Sala de operações classe A | Sala de operações classe B/C | UCPA e sala de recuperação (b) |
+| --- | --- | --- | --- |
+| Tratamento | UTA e ventilador privativos - (3) (9) (10) | UTA e ventilador de extração privativos (3) (9) (10) | UTA e ventilador de extração privativos (3) (9) (10) |
+| Filtragem do ar | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 80 % | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 80 % | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 80 % |
+| Filtragem suplementar | Sim, terminal; H14 | Sim, terminal, H14 (4) | Sim, terminal, H13 (4) |
+| Humidificação | Sim, por vapor | Sim, por vapor | Sim, por vapor |
+| Sobrepressão/subpressão | Sobrepressão (15Pa) (5) | Sobrepressão (15Pa) (5) | Sobrepressão |
+| Insuflação | Difusores c/ filtroTerminal ou teto filtrante | Difusores c/ filtroTerminal ou teto filtrante | Difusores |
+| Caudal de ar recirculado | 20 rec/h | 20 rec/h | 10 rec/h |
+| Recirculação | Sim | Sim | Sim |
+| Caudal de ar novo | Mínimo de 600 m3/h | Mínimo de 800 m3/h | 50 m3/h.p |
+| Diferencial de temperatura | Máximo: 8 °C em frio | Máximo: 8 °C em frio | Máximo: 8 °C em frio |
+| Condições ambiente | 20-26 °C; 30 a 60 % + 5 % HR | 20-26 °C; 30 a 60 % + 5 % HR | 23 a 25 °C: 40 a 60 % HR |
+
+a) As salas de tratamento e de observação do bloco operatório devem cumprir os mesmos requisitos de AVAC da consulta externa/SAP.
+
+b) A sala de recuperação deve observar estas características se integrada na UCPA (Unidade de Cuidados Pós-Anestésicos). Se a unidade de recuperação se encontrar em compartimento autónomo deve assegurar o cumprimento dos requisitos mínimos previstos para a sala de observação/recuperação prevista na consulta externa/SAP.
+
+Unidade de Reprocessamento de Dispositivos Médicos de Uso Múltiplo
+
+|  | Área de descontaminação | Áreas limpas | Autoclave a óxido de etileno |
+| --- | --- | --- | --- |
+| Tratamento | UTA e ventilador de extração privativos (10) | UTA e ventilador de extração específico (a abranger as duas áreas limpas) (3) (9) (10) | Extração forçada por ventilador privativo.(10 a 15 ren/h), em montagem antideflagrante, abrangendo a zona de carga técnica e descarga do autoclave e com rejeição para o exterior através de filtro. |
+| Filtragem do ar | Pré-filtro ISO ePM10 ≥ 50 % e filtro ISO ePM1 ≥ 50 % | Pré-filtro (ISO ePM10 ≥ 50 %) e filtro (ISO ePM1 ≥ 80 %) |  |
+| Filtragem suplementar | Não | Sim, terminal, H13 (4) |  |
+| Sobrepressão/subpressão | Subpressão (5) | Sobrepressão |  |
+| Insuflação | – | Difusores |  |
+| Caudal de ar recirculado | Não | 8 rec/h |  |
+| Recirculação | não | sim |  |
+| Caudal de ar novo | 8 ren/h | 10 m3/h.m2 |  |
+| Diferencial de temperatura | Máximo 8 °C em frio | Máximo: 8 °C em frio |  |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 18 °C30 % a 60 % HR | Verão: máximo 25 °CInverno: mínimo 20 °C30 % a 60 % HR |  |
+| Extração | sim, forçada (2) | sim, forçada (2) |  |
+
+Farmácia (caso exista)
+
+|  | Armazém geral (caso exista) |
+| --- | --- |
+| Tratamento | VC/UI (*) |
+| Caudal de ar novo | 2 ren/h (1) |
+| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 18 °C |
+| Extração | Sim, forçada (2) |
+|  | Compartimento de inflamáveis (7) (caso exista) |
+| Extração | Extração forçada (10 a 15 ren/h), com grelhas localizadas em ponto baixo e em ponto alto. |
+| Ventilador | Privativo, motor em condições de montagem antideflagrante. |
+| Admissão de ar | Do interior, garantindo o varrimento total pela extração com 2 grelhas em material intumescente, desniveladas e interligadas por caixa de ar. |
+| Rejeição | Para o exterior. |
+| Caso não exista serviço de farmácia, os armários para medicamentos devem ficar em compartimento com as condições ambientais internas idênticas às das salas de tratamentos. |  |
+| Ventilação - Compartimentos diversos |  |
+| Nas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar. |  |
+| Sala de sujos e despejos | 10 ren/h |
+| Instalações sanitárias | Em conformidade com a legislação em vigor no SCE. |
+| Observações: SCE - Sistema de Certificação Energética dos Edifícios. |  |
+
+(*) VC - Ventiloconvetor; UI - unidade de indução
+
+Notas:
+
+(
+
+1
+
+) A UTAN a utilizar deve ter filtragem final mínima ISO ePM1 ≥ 50 % nas Consultas/SAP, farmácia e esterilização (zona suja). ePM1 ≥ 80 % no BO e esterilização (zona limpa).
+
+(
+
+2
+
+) O sistema de extração de «sujos» deve ser independente do de «limpos».
+
+(
+
+3
+
+) Recomenda-se que a UTA seja dotada de variador de velocidade, garantindo o caudal nominal.
+
+(
+
+4
+
+) Os filtros podem estar montados fora da sala e com fácil acessibilidade.
+
+(
+
+5
+
+) As salas de operações devem estar em sobrepressão em relação aos espaços adjacentes, e estes em sobrepressão em relação aos restantes locais do BO. No geral, o BO deve estar em sobrepressão em relação aos serviços adjacentes.
+
+(
+
+6
+
+) A zona de inspeção teste e montagem, que deve estar em sobrepressão, será tratada pelo sistema descrito para a zona estéril.
+
+(
+
+7
+
+) Com ligação direta ao exterior, com parede ou elemento fusível. Porta interior a abrir para fora, metálica.
+
+(
+
+8
+
+) Deve ser escolhido o maior dos valores que resulte da interseção deste requisito com os requisitos impostos pela legislação em vigor.
+
+(
+
+9
+
+) Quanto à seleção das unidades de tratamento de ar/novo, recomenda-se que as mesmas devem apresentar certificado de construção higiénica adequada à classe de risco do espaço a climatizar.
+
+(
+
+10
+
+) Privativo (equipamento dedicado exclusivamente a um único compartimento/espaço), específico (equipamento dedicado a um conjunto específico de compartimentos ou serviço).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/330-2025-938108825), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+## Anexo VI — Gases medicinais e aspiração
+
+(a que se refere o artigo 16.º)
+
+Requisitos mínimos a considerar:
+
+Número mínimo de tomadas a considerar:
+
+| Local | O2 | CO2 | N2O (1) | Aspiração (vácuo) | Ar comprimido respirável - 400kPa |
+| --- | --- | --- | --- | --- | --- |
+| Consultas |  |  |  |  |  |
+| Sala de observação/tratamentos | l/sala | - | - | l/sala | - |
+| Zona de inaloterapia | 1/posto | - | - | 1/posto | 1/posto |
+| Sala de pequena cirurgia | l/posto | - | - | l/posto | l/posto |
+| Sala de exames endoscópicos | l/sala | l/sala | l/sala | 2/sala | l/sala |
+
+Número mínimo de tomadas a considerar:
+
+| Local | O2 | CO2 | N2O (1) | Aspiração (vácuo) | Ar comprimido respirável |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| 400kPa | 800KPa |  |  |  |  |  |
+| Área cirúrgica |  |  |  |  |  |  |
+| Sala de gessos | - | - | - | - | - | l/sala |
+| Sala de observação/tratamentos | l/sala | - | - | l/sala | - | - |
+| Sala de anestesia | 1/cama | - | l/sala | l/sala | 1/cama | - |
+| Salas de operações: |  |  |  |  |  |  |
+| Classe A (braço extensível ou suporte de teto). | l/sala | - | - | l/sala | - | - |
+| Classe B (braço extensível ou suporte de teto) | l/sala | - | - | l/sala | l/sala | - |
+| Classe C: |  |  |  |  |  |  |
+| Em suporte de teto para a cirurgia | - | l/sala | - | l/sala | - | l/sala |
+| Em suporte de teto para a anestesia | 2/sala | - | l/sala | 2/sala | 2/sala | - |
+| Área de recuperação |  |  |  |  |  |  |
+| Unidade de cuidados pós-anestésicos (UCPA) | 2/cama | - | - | 2/cama | 1/cama | - |
+| Sala de recuperação: |  |  |  |  |  |  |
+| Classe A/B | l/posto | - | - | l/posto | l/posto | - |
+| Classe C | 1/cama | - | - | 1/cama | 1/cama | - |
+
+Observações
+
+Outros requisitos:
+
+A central de vácuo deve ser fisicamente separada das restantes e a extração do sistema deve cumprir as distâncias mínimas definidas no diploma do Sistema de Certificação Energética dos Edifícios (SCE). Caso a extração de vácuo esteja abaixo (mesmo alinhamento) de um local onde seja realizada a admissão de ar, deve-se garantir que a extração seja realizada a uma cota de pelo menos 3 m acima das admissões de ar.
+
+Se o ar comprimido respirável for produzido por compressores, a respetiva central deve ser fisicamente separada das restantes.
+
+Todas as centrais devem ter uma fonte primária, uma fonte secundária e uma fonte de reserva de comutação automática.
+
+Tomadas de duplo fecho, não intermutáveis de fluido para fluido.
+
+A utilização do tubo de poliamida apenas deve ser permitida nas calhas técnicas, suportes de teto e colunas de teto, quando integrado pelo fabricante e desde que acompanhados dos respetivos certificados CE medicinal.
+
+Em todos os compartimentos onde se preveja a utilização de gases anestésicos devem existir tomadas para extração de gases anestésicos, associadas a central de extração com duas bombas, sendo uma de serviço e outra de reserva.
+
+Caso existam ferramentas pneumáticas, o acionamento será obrigatoriamente assegurado por ar comprimido medicinal.
+
+Os cilindros de gases medicinais devem ser armazenados num compartimento próprio e exclusivo. Este compartimento deve prover adequada fixação, cobertura e ventilação aos cilindros, bem como a necessária proteção para um uso não autorizado.
+
+A entidade deve estar na posse da documentação que ateste a conformidade da instalação do sistema de distribuição de gases medicinais nos termos da legislação em vigor.
+
+(1) Exigível, se a unidade não utilizar outro tipo de anestésico.
+
+(2) Exigível, se a unidade utilizar técnica que recorra à utilização deste gás.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+## Anexo VII — Instalações e equipamentos para confeção e distribuição de alimentação
+
+(a que se refere o artigo 16.º)
+
+Requisitos mínimos a considerar:
+
+|  | Sem confeção própria (1) | Com confeção própria |
+| --- | --- | --- |
+| Copa | Sim | - |
+| Bloco de confeção | - | Sim |
+| Equipamento para lavagem de loiça | - | Sim |
+| Equipamento adequado à preparação de alimentos | - | Sim |
+| Apanha-fumos, com sistema privativo de extração de ar | - | Sim |
+
+(1) Serviço integrado em unidade de saúde com outras valências, incluindo cozinha ou com contrato com entidade externa.
+Outros requisitos:
+As unidades de cirurgia de ambulatório com atendimento de utentes portadores de doenças infetocontagiosas devem possuir máquina de lavar louça com programa de desinfeção.
+O equipamento descrito, bem como as respetivas bancadas de apoio, tem de ser construído em material que permita garantir as necessárias condições higiénicas de acordo com a legislação em vigor.
+O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina.
+
+## Anexo VIII — Equipamentos para tratamento de roupa
+
+(a que se refere o artigo 16.º)
+
+Requisitos mínimos a considerar:
+
+|  | Sem tratamento de roupa (1) | Com tratamento de roupa |
+| --- | --- | --- |
+| Máquina lavadora-extratora | - | Sim |
+| Máquina secadora | - | Sim |
+| Máquina de lavar roupa com capacidade de desinfeção | Facultativa (2) | Sim (2) |
+
+(
+
+1
+
+) Serviço integrado em unidade de saúde com outras valências, incluindo lavandaria ou prestação de serviços por terceiros.
+(
+
+2
+
+) Para unidades de cirurgia de ambulatório com atendimento de utentes portadores de doenças infetocontagiosas, sendo a roupa acondicionada em sacos hidrossolúveis.
+Observação - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina.
+
+## Anexo IX — Equipamentos frigoríficos
+
+(a que se refere o artigo 16.º)
+
+Requisitos mínimos a considerar:
+
+|  | Setor de alimentação | Setor médico |  |
+| --- | --- | --- | --- |
+| Sem confeção própria (1) | Com confeção própria |  |  |
+| Frigorífico tipo doméstico com congelador independente | Sim | - |  |
+| Equipamento frigorífico com características em conformidade com os produtos | - | Sim | - |
+| a que se destinam |  |  |  |
+| Frigorífico de modelo laboratorial próprio para conservação de sangue, | - |  | Sim (2) |
+| certificado para o efeito, equipado com registador de temperatura e alarme |  |  |  |
+| Equipamento frigorífico para resíduos da cozinha |  | Sim | Sim |
+| Equipamento frigorífico para resíduos hospitalares (3) |  | - |  |
+| Equipamento frigorífico para medicamentos (4) |  |  | Sim |
+
+(
+
+1
+
+) Serviço integrado em unidade de saúde com outras valências, incluindo cozinha, ou com contrato com entidade externa.
+(
+
+2
+
+) Pode ser substituído por contrato com o Instituto Português do Sangue e Transplantação, IP. No caso de salas de operações da classe A (incluindo microcirurgia) este equipamento é dispensável.
+(
+
+3
+
+) Apenas nas condições prescritas na legislação em vigor.
+(
+
+4
+
+) Com monitorização de temperatura com recurso a equipamento calibrado.
+Observação - O equipamento descrito deve ter capacidade adequada às necessidades da unidade de saúde a que se destina e ser alimentado em energia elétrica pela rede de socorro.
+
+## Anexo X — Instalações e equipamentos elétricos
+
+(a que se refere o artigo 16.º)
+
+As instalações e equipamentos elétricos devem satisfazer as regras e regulamentos aplicáveis e os seguintes requisitos mínimos:
+
+| Serviço/compartimento | Sistema de sinalização de chamada e alarme | Alimentação de energia de socorro (iluminação) (*) | Alimentação de energia de socorro (*) (tomadas de corrente e alimentações especiais) | Alimentação de energia de segurança médica (**) | Ligações equipotenciais, pavimentos antiestáticos e neutro isolado |
+| --- | --- | --- | --- | --- | --- |
+| Consultas e atendimento permanente |  |  |  |  |  |
+| Receção/secretaria | – | (b) | – | – | – |
+| Zona de espera | – | (b) | – | – | – |
+| IS público | (b) |  | – | – | – |
+| IS pessoas com mobilidade condicionada | (b) | (b) | – | – | – |
+| Gabinete de consulta |  | (b) | (b) | – | – |
+| Sala de observação/tratamentos | (b) | (b) | (b) | – | – |
+| Sala de gessos | (b) | (b) | (b) | – | – |
+| Sala de pequena cirurgia | (b) | (b) | 12 tom. + alim. marquesa | (c) + (h) | (e) + (g) |
+| Sala de prova de esforço | (b) | (b) | (b) |  |  |
+| Sala de exames endoscópicos | (b) | (b) | (b) | (c) + (h) | (e) + (g) |
+| Bloco operatório(Regime de ambulatório) |  |  |  |  |  |
+| Área de acolhimento |  |  |  |  |  |
+| Receção/secretaria | (f) | (b) | (b) | – | – |
+| Zona de espera | – | (b) | – | – | – |
+| IS público | (b) | (b) | – | – | – |
+| Vestiário de utentes | (b) | (b) | – | – | – |
+| Gabinete de consulta | – | (b) | (b) | – | – |
+| Sala de observação/tratamentos | (b) | (b) | (b) | – | – |
+| Área cirúrgica |  |  |  |  |  |
+| Transfer | – | (b) | – | – | – |
+| Zona de desinfeção de pessoal | – | (b) | – | – | – |
+| Sala de anestesia | – | (b) | (b) | (c) | (e) + (g) |
+| Sala de operações | (b) | (b) | 12 tom. + alim. marquesa | (c) + (h) | (e) + (g) |
+| Área de recuperação |  |  |  |  |  |
+| Unidade de cuidados pós- anestésicos (UCPA) | (b) | (b) | 6 tom | (c) | (e) + (g) |
+| Posto de controlo | (b) | (b) | (b) | (c) | (e) + (g) |
+| Sala de recuperação | (b) | (b) | (b) | – |  |
+| IS utentes | (b) | (b) | – | – | – |
+| Área de pessoal |  |  |  |  |  |
+| Vestiário de pessoal | – | (b) | – | – | – |
+| Gabinete | – | (b) | (b) | – | – |
+| Sala de pessoal | – | (b) | – | – | – |
+| Área logística |  |  |  |  |  |
+| Copa | – | (b) | (d) | – | – |
+| Sala de lavagem e desinfeção de arrastadeiras | – | (b) | – | – | – |
+| Sala de sujos e despejos | – | (b) | – | – | – |
+| Sala de equipamento | – | (b) | – | – | – |
+| Zona de roupa limpa | – | (b) | – | – | – |
+| Zona de material de uso clínico | – | (b) | – | – | – |
+| Zona de material de consumo | – | (b) | – | – | – |
+| Material de limpeza | – | (b) | – | – | – |
+| Unidade de reprocessamento de dispositivos médicos de uso múltiplo |  |  |  |  |  |
+| Armazém | – | (b) | – | – | – |
+
+Observações
+
+(*) Alimentação de socorro ou de substituição: alimentação elétrica destinada a manter em funcionamento uma instalação ou partes desta em caso de falta da alimentação normal, por razões que não sejam a segurança de pessoas. A fonte de energia elétrica de socorro será constituída, em regra, por um grupo gerador acionado por motor de combustão.
+
+De acordo com as regras técnicas das instalações elétricas de baixa tensão, os equipamentos essenciais à segurança das pessoas deverão ser alimentados por uma fonte de segurança, que não deve ser usada para outros fins, caso seja única.
+
+(**) Alimentação de energia de segurança médica: alimentação elétrica destinada a manter em funcionamento equipamentos essenciais à realização de exames, prestação de cuidados ou operações aos utentes. Em regra, esta alimentação é assegurada por unidades de alimentação ininterrupta (UPS) ligadas a grupo(s) de socorro. A autonomia das UPS não deve ser inferior a 15 minutos. A iluminação operatória (luz sem sombra) deve ser alimentada por uma fonte com autonomia mínima de 1 hora, que no caso de não haver grupo gerador deve ser de 3 horas.
+
+Notas
+
+(a) Facultativo.
+
+(b) Obrigatório.
+
+(c) Iluminação, tomadas de corrente e alimentação especiais, exceto tomada para RX portátil.
+
+(d) Uma tomada de corrente para frigorífico.
+
+(e) Ligadores de terra para massas metálicas não elétricas e pavimentos antiestáticos.
+
+(f) Sistema que permita a comunicação entre a entrada do serviço e o interior (facultativo).
+
+(g) Sistema de distribuição de energia a neutro isolado (IT médico) com sinalização e alarme de defeito.
+
+(h) Iluminação de luz sem sombra com autonomia própria mínima de 1 hora.
+
+(i) O setor socorrido alimentará o sistema de ventilação (nas salas de operações, UCPA/recobro), garantindo a alimentação elétrica para as indispensáveis condições de renovação de ar, e manutenção dos gradientes de pressão (sub ou sobrepressão), entre esses compartimentos e os compartimentos contíguos.
+
+Requisitos especiais:
+
+1 - As unidades de cirurgia de ambulatório devem dispor de um sistema acústico-luminoso que assegure a chamada de enfermeira pelos utentes. Este sistema deve satisfazer as seguintes condições:
+
+i) Incorporar um dispositivo de chamada e um sinalizador luminoso de confirmação de chamada localizado junto à cabeceira da cama ou em local visível pelo doente. O cancelamento da chamada só poderá ser efetuado no próprio compartimento onde se realizou a chamada. A chamada é assinalada por sinalização luminosa junto à porta de entrada da enfermaria ou quarto e no posto de enfermeira com sinal acústico e luminoso;
+
+ii) Possibilitar a transferência de chamadas para o local onde se encontre a enfermeira e a realização de chamadas de emergência;
+
+iii) Os demais compartimentos a que o doente tenha acesso, designadamente casas de banho, sanitários, refeitórios e salas de estar, devem ser abrangidos pelo sistema de chamada de enfermeiras;
+
+iv) O sistema deve ser considerado uma instalação de segurança.
+
+Nos locais de prestação de cuidados ou de realização de exames em ambulatório, o sistema de sinalização incorpora, apenas, o equipamento indicado na alínea i) adaptado à respetiva utilização.
+
+2 - Todos os compartimentos deverão dispor do número de tomadas necessárias à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista (um equipamento por tomada), mais uma tomada adicional para equipamento de limpeza.
+
+3 - Quando estiverem previstos aparelhos de RX portátil que careçam de tomada de alimentação de energia elétrica com caraterísticas especiais, deverão ser instaladas tomadas apropriadas em todos os locais onde estes aparelhos devam ser utilizados, ou na sua vizinhança.
+
+4 - Todos os elevadores deverão dispor das condições para se movimentarem até ao piso de entrada em caso de falha de energia elétrica. Pelo menos um elevador com capacidade para transporte de camas deve manter-se em funcionamento com alimentação de socorro.
+
+5 - Na iluminação interior, devem ser observadas as orientações constantes da norma ISO 8995 CIE S 008/E de 15 de maio de 2003, contendo as especificações da Commission Internationale de L’Éclairage, ou da EN 12464-01/2021, sobre os níveis de iluminação e respetiva uniformidade em estabelecimentos de saúde, bem como sobre a capacidade de restituição de cores das fontes luminosas a utilizar e sobre a prevenção do desconforto visual. As unidades novas ou sujeitas a remodelações em data posterior à publicação do presente diploma, devem dar cumprimento aos requisitos dos sistemas fixos de iluminação previstos no n.º 4 do anexo ii da Portaria n.º 138-I/2021 de 1 de julho.
+
+6 - Além das instalações de iluminação de segurança e de vigília prescritas nas regras técnicas em vigor, nos locais onde o paciente permaneça acamado deve prever-se iluminação geral e iluminação de leitura ou observação à cabeceira da cama.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 330/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/330-2025-938108825), em vigor a partir de 2025-10-07
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10
+
+## Anexo XI — Equipamento sanitário
+
+(a que se refere o artigo 16.º)
+
+Requisitos mínimos a considerar:
+
+| Serviço/compartimento | Equipamento sanitário |
+| --- | --- |
+| Instalação sanitária de público adaptada a pessoas com mobilidade condicionada: |  |
+| Antecâmara (se existir) | Lavatório (recomendável) |
+| Cabine de retrete | Lavatório e bacia de retrete (1) |
+| Gabinete de consulta | Lavatório (2) |
+| Sala de observação e de tratamentos (se existir) | Tina de bancara (2) |
+| Zona de inaloterapia | Tina de bancada (2) |
+| Sala de gessos | Tina de bancada (2)(3) |
+| Vestiário de utentes: | Lavatório |
+| Antecâmara (se existir) | Lavatório (recomendável) |
+| Cabine de retrete | Lavatório e bacia de retrete |
+| Zona de desinfeção de pessoal | Tina de desinfeção (2) |
+| Vestiário de pessoal: | Lavatório |
+| Antecâmara (se existir) | Lavatório (recomendável) |
+| Cabine de retrete | Lavatório e bacia de retrete |
+| Cabine de duche | Tina de duche |
+| Sala de pessoal (se existir) | Tina de bancada |
+| Copa | Tina de bancada |
+| Instalação sanitária de pessoal: |  |
+| Antecâmara (se existir) | Lavatório (recomendável) |
+| Cabine de retrete | Lavatório e bacia de retrete |
+| Sala de lavagem e desinfeção de arrastadeiras | Lavatório, pia hospitalar, máquina de lavagem e desinfeção de arrastadeiras (4) |
+| Sala de sujos e despejos | Lavatório, pia hospitalar, máquina de eliminação de arrastadeiras descartáveis (5) |
+| Sala de reprocessamento | (6). Se existirem exames endoscópicos, máquina de reprocessamento de endoscópios |
+| Adufa | Lavatório (2) |
+| Depósito de cadáveres | Lavatório |
+| Área de descontaminação | (6) |
+
+1 - Com acessórios para pessoas com mobilidade condicionada.
+2 - Com torneira de comando não manual
+3 - Com cesto retentor de gesso.
+4 - Dispensável quando a unidade utilizar arrastadeiras descartáveis.
+5 - Caso sejam utilizadas arrastadeiras descartáveis
+6 - Com pontos de água e de esgoto
+
+## Anexo XII — Equipamento médico e equipamento geral
+
+Equipamentos médico e geral a considerar:
+
+Consulta Externa
+
+| Designação | Equipamento médico e geral | Quantidade |
+| --- | --- | --- |
+| Sala de observação/tratamento | Monitor de parâmetros vitais com monitorização contínua de ECG e SPO2 | 1 |
+| Sala de exames endoscópicos | Monitor de parâmetros vitais com monitorização contínua de ECG e SPO2 | 1 |
+| Aspirador de secreções | 1 |  |
+| Carro de anestesia com material para sedação, entubação traqueal |  |  |
+| Equipamento de desfibrilhação a menos de 15 | 1 |  |
+| Sala de desinfeção (se realizados exames endoscópicos) | Reprocessador automático de endoscópicos (lavagem e desinfeção) | 1 |
+| Sala de pequena cirurgia/tratamentos | Monitor de parâmetros vitais com monitorização contínua de ECG e SPO2 | 1 |
+| Sala de prova de esforço | Carro de emergência, com monitor/desfibrilhador, aspiração, material de intubação traqueal, equipamento de ventilação manual, bala de oxigénio, tábua e fármacos de reanimação | 1 |
+
+Serviço de Atendimento Permanente
+
+| Designação | Equipamento médico e geral | Quantidade |
+| --- | --- | --- |
+| Sala de recuperação/observação | Monitor ECG, PNI e SpO2 | 1/cada 2 postos ou fração |
+| Disponível na unidade (1) | Eletrocardiógrafo | 1 |
+
+(
+
+1
+
+) Pode ser partilhado com outras valências da instituição.
+
+Bloco Operatório
+
+| Designação | Equipamento médico e geral | Quantidade/sala |
+| --- | --- | --- |
+| Sala de anestesia | Aparelho de indução anestésica | 1 |
+| Monitor fisiológico com capacidade de monitorização de ECG, FC, PNI, pressão arterial invasiva e SpO | 1 |  |
+| Sala de operações (1) | Laringoscópio com 3 lâminas curvas e retas | 1 |
+|  | Videolaringoscópio | 1/cada 4 salas |
+|  | Expirómetro de Wrigth | 1 |
+|  | Mesa operatória | 1 |
+|  | Armadura de teto de luz sem sombra | 1 |
+|  | Equipamento de anestesia, com circuito anestésico com ligação obrigatória ao sistema de extração de gases anestésicos | 1 |
+|  | Equipamento de monitorização de: ECG, FC, FR, pressão arterial invasiva, PNI, SpO2, profundidade anestésica CO e agentes anestésicos | 1 |
+|  | Eletrobisturi | 1 |
+|  | Desfibrilhador, com possibilidade de pacemaker externo | 1/cada 2 salas ou fração |
+|  | Bombas perfusoras de seringa | 1 |
+|  | Bomba perfusora volumétrica | 1 |
+|  | Estimulador de nervos periféricos | 1 |
+|  | Aspirador de campo operatório | 1 |
+|  | Cobertor de aquecimento | 1 |
+|  | Aparelho de aquecimento de sangue e soros | 1 |
+| Área de recuperação | Carro de emergência, com monitor/desfibrilhador, aspiração, material de intubação traqueal, equipamento de ventilação manual, bala de oxigénio, tábua e fármacos de reanimação (2) | 1 |
+| Monitor fisiológico com capacidade de monitorização de ECG, FC, FR, PI, PNI, temperatura, SpO2 | 1/cama |  |
+| Ventilador mecânico invasivo para transporte | 1 |  |
+| Bombas perfusoras de seringa | 1/cama |  |
+| Bomba perfusora volumétrica | 1/cama |  |
+| Cobertor de aquecimento | 1/cama |  |
+| Ventilador mecânico invasivo | 1/cada 4 camas |  |
+| Cama ajustável, com mecanismo de imobilização, grades laterais e cabeceira amovível | 1/posto |  |
+| Sala de Recuperação | Monitor de ECG, PNI e SpO2 | 1/cada 2 postos ou fração |
+| Cama hospitalar ou cadeirão reclinável | 1/posto |  |
+| Sala de equipamento | Equipamento de anestesia, com circuito anestésico com ligação obrigatória ao sistema de extração de gases anestésicos | 1 |
+| Equipamento de monitorização de: ECG, FC, FR, pressão arterial invasiva, PNI, SpO, profundidade anestésica CO e agentes anestésicos | 1 |  |
+| RX portátil com intensificador de imagem | 1 |  |
+
+(
+
+1
+
+) Esta base será complementada de acordo com as valências.
+
+(
+
+2
+
+) Pode ser partilhado com as salas de bloco operatório se contíguas (menos de 15 m).
+
+117429316
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 165/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/165-2025-914375910), em vigor a partir de 2025-04-10

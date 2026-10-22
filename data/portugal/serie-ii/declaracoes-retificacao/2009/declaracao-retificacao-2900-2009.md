@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:909477:por
+title: Declaração de Rectificação n.º 2900/2009
+short_title: null
+summary: Republicação do aviso n.º 20418/2009, publicado com inexactidão no Diário da República, 2.ª série, n.º 219, de 11
+  de Novembro de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Escola Superior de Enfermagem de Lisboa
+proposing_entity: null
+official_number: 2900/2009
+official_date: null
+publication_date: '2009-11-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 227/2009, Série II de 2009-11-23
+  number: '227'
+  series: II
+  supplement: null
+  pages: 47669 - 47669
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/11/227000000/4766947669.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '909477'
+  dre_path: /dr/detalhe/declaracao-rectificacao/2900-2009-909477
+  internal: pt:dre:909477:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2900-2009-909477
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2900-2009-909477
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-11-23T00:00:00Z'
+integrity:
+  source_sha256: 525ca692d8a0c7a5e02e0cb4687467ac0d981e91c8c96c5e9a8ec179cc0252d8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-2900-909477.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 2900/2009
+
+Por ter saído com inexactidão, republica-se o aviso n.º 20418/2009, publicado no Diário da República, 2.ª série, n.º 219, de 11 de Novembro de 2009:
+
+1 - Nos termos do n.º 1 do artigo 19.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, torna-se público que, por despacho de 23 de Outubro de 2009 da presidente do conselho directivo da Escola Superior de Enfermagem de Lisboa, se encontra aberto, pelo prazo de 10 dias úteis a contar da data da publicação do presente aviso no Diário da República, procedimento concursal comum, em regime de contrato de trabalho em funções públicas a termo resolutivo certo, pelo período de 12 meses, de sete postos de trabalho, na carreira/categoria de assistente operacional, para exercer funções de natureza executiva, de carácter manual ou mecânico, enquadradas em directivas gerais bem definidas e com graus de complexidade variáveis, execução de tarefas de apoio elementares indispensáveis ao funcionamento dos órgãos e serviços, podendo comportar esforço físico, responsabilidade pelos equipamentos sob sua guarda e pela sua correcta utilização, procedendo, quando necessário, à manutenção e reparação dos mesmos - grau de complexidade funcional 1.
+
+2 - O local de trabalho situa-se na Escola Superior de Enfermagem de Lisboa, sendo a respectiva remuneração objecto de negociação nos termos do artigo 55.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.
+
+3 - Requisitos de admissão: poderá candidatar-se ao presente procedimento concursal quem reúna, até ao termo do prazo fixado para a apresentação de candidaturas, os requisitos de admissão previstos no artigo 8.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, a saber:
+
+a) Ter nacionalidade portuguesa, salvo nos casos exceptuados pela Constituição, lei especial ou convenção internacional;
+
+b) Ter 18 anos de idade completos;
+
+c) Não estar inibido do exercício de funções públicas ou interdito para o exercício das funções que se propõe desempenhar;
+
+d) Possuir robustez física e perfil psíquico indispensáveis ao exercício de funções;
+
+e) Ter cumprido as leis da vacinação obrigatória.
+
+4 - Outros requisitos: experiência profissional em funções de apoio geral ao funcionamento dos serviços, nomeadamente vigilância, reprografia, central telefónica, salas de aula/outras e lavandaria.
+
+5 - Em cumprimento do estabelecido no n.º 5 do artigo 6.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, o recrutamento inicia-se sempre de entre trabalhadores que não pretendam conservar a qualidade de sujeitos de relações jurídicas de emprego público constituídas por tempo indeterminado ou se encontrem colocados em situação de mobilidade especial.
+
+6 - Por despacho de 23 de Outubro de 2009 da presidente do conselho directivo da Escola Superior de Enfermagem de Lisboa, o recrutamento pode efectuar-se também entre trabalhadores com relação jurídica de emprego público por tempo determinado ou determinável ou sem relação jurídica de emprego público previamente estabelecida.
+
+7 - Habilitações literárias: escolaridade obrigatória.
+
+8 - Métodos de selecção: avaliação curricular, por motivo de urgência na contratação, ao abrigo do n.º 2 do artigo 6.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.
+
+8.1 - A avaliação curricular traduzir-se-á na seguinte fórmula:
+
+AC = HAB x 15 % + FP x 10 % + EP x 75 %
+
+em que:
+
+HAB - habilitação literária;
+
+FP - formação profissional;
+
+EP - experiência profissional.
+
+8.2 - A classificação final será igual à classificação obtida na avaliação curricular, feita numa escala de 0-20 valores.
+
+8.3 - Serão excluídos os candidatos que obtenham uma valoração inferior a 9,5 valores.
+
+9 - Júri do concurso:
+
+Presidente - Helena Maria Leite de Matos Silva Gil Moreira, vice-presidente do conselho directivo da ESEL.
+
+1.º vogal efectivo - Maria Isabel Velasco, secretário da ESEL.
+
+2.º vogal efectivo - José Manuel Rito Coruchinho, encarregado operacional da ESEL.
+
+1.º vogal suplente - Isaura dos Anjos Pinheiro Fernandes, coordenadora técnica da ESEL.
+
+2.º vogal suplente - Márcia Maria Martins Ramos, assistente técnica da ESEL.
+
+10 - As actas do júri estão disponíveis na Secção de Pessoal da ESEL, sita na Avenida do Brasil, 53-B, 1700-063 Lisboa.
+
+11 - Forma de apresentação das candidaturas: a formalização das candidaturas é obrigatoriamente realizada mediante o formulário de candidatura ao procedimento concursal, aprovado pelo despacho n.º 11321/2009, da directora-geral da DGAEP, publicado no Diário da República, 2.ª série, n.º 89, de 8 de Maio de 2009, disponível no site da ESEL (www.esel.pt). A apresentação da candidatura pode ser efectuada por correio, sob registo e com aviso de recepção, para a morada da Escola Superior de Enfermagem de Lisboa, Avenida do Brasil, 53-B, 1700-063 Lisboa, ou via correio electrónico, através do endereço recursoshumanos@esel.pt, até ao termo do prazo fixado. Em caso de opção pelo correio electrónico, os documentos deverão ser, igualmente, datados e assinados, podendo ser remetidos em formato digital (pdf). Pode ainda entregar-se a candidatura pessoalmente naquela morada - das 9 horas e 30 minutos às 12 horas e 30 minutos e das 14 às 17 horas.
+
+12 - A apresentação de candidatura em suporte de papel ou via correio electrónico, nos moldes referidos no número anterior, deverá ser acompanhada, sob pena de exclusão, do curriculum vitae datado e assinado e de fotocópia legível do certificado de habilitações ou outro documento idóneo, legalmente reconhecido para o efeito. A candidatura deverá, ainda, ser acompanhada dos certificados das acções de formação frequentadas e demais documentos comprovativos dos restantes elementos constantes no curriculum vitae, nomeadamente da experiência profissional, que possam relevar para a apreciação do mérito dos candidatos, sob pena de não serem considerados.
+
+13 - Apenas serão consideradas as candidaturas remetidas de acordo com o número anterior.
+
+14 - O prazo limite para entrega das candidaturas é de 10 dias úteis a contar da data da publicação do presente aviso no Diário da República.
+
+15 - Os resultados finais do procedimento concursal serão divulgados através do envio por e-mail para os candidatos, da afixação electrónica em www.esel.pt e da afixação em papel na vitrina da Secção de Pessoal, no Pólo MFR, sito na Avenida do Brasil, 53-B, 1700-063 Lisboa.
+
+16 - Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove activamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação.
+
+17 - Quotas de emprego: o candidato com deficiência tem preferência em igualdade de classificação, a qual prevalece sobre qualquer outra preferência legal, nos termos do n.º 3 do artigo 3.º do [Decreto-Lei n.º 29/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2001-315563), de 3 de Fevereiro.
+
+18 - É dispensada a consulta à entidade centralizada para constituição de reservas de recrutamento (ECCRC) por não se encontrar constituída e em funcionamento, de acordo com informação constante no site www.dgap.gov.pt, FAQ's - Procedimento Concursal ([Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro).
+
+16 de Novembro de 2009. - A Vice-Presidente, Helena Matos Silva.

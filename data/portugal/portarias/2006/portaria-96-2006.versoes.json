@@ -1,0 +1,85 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:545189:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2006-212003418",
+ "dre_path": "/dr/detalhe/portaria/96-2006-545189",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-02-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "897440384"
+   ]
+  },
+  {
+   "date": "2023-04-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211996391:por",
+     "title": "Portaria n.º 108/2023",
+     "published": "2023-04-19",
+     "dre_path": "/dr/detalhe/portaria/108-2023-211996391"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "212044578"
+   ]
+  },
+  {
+   "date": "2024-11-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:897261174:por",
+     "title": "Portaria n.º 299/2024/1",
+     "published": "2024-11-21",
+     "dre_path": "/dr/detalhe/portaria/299-2024-897261174"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "897440384",
+    "897440385"
+   ]
+  }
+ ],
+ "fragments": {
+  "897440384": {
+   "fragment_id": "212003419",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-11-22",
+   "changed_by": [],
+   "markdown": "Portaria n.º 96/2006\n\nde 1 de Fevereiro\n\nNos termos do n.º 1 do artigo 110.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 236/99, de 25 de Junho, com as alterações que lhe foram introduzidas pela Lei n.º 25/2000, de 23 de Agosto, e pelos Decretos-Leis n.os 197-A/2003, de 30 de Agosto, 70/2005, de 17 de Março, e 166/2005, de 23 de Setembro, no acto de ingresso nos quadros permanentes é emitido e entregue ao militar um documento de encarte de onde conste o posto que sucessivamente ocupe na respectiva categoria.\n\nDispõe ainda a alínea c) do n.º 2 do referido preceito do EMFAR que este documento, para a categoria de praça, se designa por certificado de encarte.\n\nNão tendo ainda sido aprovado um modelo relativo a este documento de encarte, importa proceder à sua regulamentação, devendo a mesma fazer-se apenas relativamente à Armada, por ser o único ramo que possui praças do quadro permanente.\n\nAssim:\n\nAo abrigo do disposto na alínea e) do n.º 2 do artigo 44.º da Lei n.º 29/82, de 11 de Dezembro, Lei da Defesa Nacional e das Forças Armadas, com as alterações que lhe foram introduzidas pela Lei n.º 41/83, de 21 de Dezembro, Lei Orgânica n.º 111/91, de 29 de Agosto, Leis n.os 113/91, de 29 de Agosto, e 18/95, de 13 de Julho, Lei Orgânica n.º 3/99, de 18 de Setembro, e Lei Orgânica n.º 4/2001, de 30 de Agosto:\n\nManda o Governo, pelo Ministro da Defesa Nacional, o seguinte:\n\n1.º O certificado de encarte é o documento de encarte das praças dos quadros permanentes das Forças Armadas.\n\n2.º O certificado de encarte é conferido no acto de ingresso no primeiro posto de praça dos quadros permanentes das Forças Armadas.\n\n3.º Averbamentos:\n\na) As promoções são averbadas no certificado de encarte;\n\nb) Nos certificados de encarte é ainda averbada a passagem das praças para as situações de reserva e de reforma;\n\nc) A requerimento dos interessados, podem ainda ser efectuados averbamentos de quaisquer factos respeitantes à função ou carreira das praças.\n\n4.º É suportado por conta do interessado o pagamento do custo do impresso do certificado de encarte e da capa do modelo oficial em que as folhas devem ser conservadas.\n\n5.º Modelo:\n\na) O modelo de certificado de encarte é publicado em anexo à presente portaria e dela faz parte integrante e consta de um desdobrável em três folhas de cor a definir por despacho do Chefe do Estado-Maior da Armada, tendo as seguintes dimensões: 22,5 cm x 13,5 cm;\n\nb) O desdobrável referido na alínea anterior é acompanhado de uma capa de protecção, de cor a definir por despacho do Chefe do Estado-Maior da Armada, da qual consta o escudo nacional, precedido dos dizeres «Forças Armadas Portuguesas» e seguido das indicações «Certificado de encarte».\n\n6.º O verso da primeira folha contém o juramento de fidelidade, nos seguintes termos:\n\n«Juro, por minha honra, como português(a) e como praça da Armada, guardar e fazer guardar a Constituição da República, cumprir as ordens e deveres militares, de acordo com as leis e regulamentos, contribuir com todas as minhas capacidades para o prestígio das Forças Armadas e servir a minha Pátria em todas as circunstâncias e sem limitações, mesmo com o sacrifício da própria vida.»\n\n7.º O termo de passagem do certificado de encarte é assinado pelo Chefe do Estado-Maior da Armada.\n\n(ver modelo no documento original)"
+  },
+  "212044578": {
+   "fragment_id": "212003419",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-04-24",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 108/2023 - Diário da República n.º 77/2023, Série I de 2023-04-19](https://diariodarepublica.pt/dr/detalhe/portaria/108-2023-211996391), em vigor a partir de 2023-04-24, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "Portaria n.º 96/2006\n\nde 1 de Fevereiro\n\nNos termos do n.º 1 do artigo 110.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo Decreto-Lei n.º 236/99, de 25 de Junho, com as alterações que lhe foram introduzidas pela Lei n.º 25/2000, de 23 de Agosto, e pelos Decretos-Leis n.os 197-A/2003, de 30 de Agosto, 70/2005, de 17 de Março, e 166/2005, de 23 de Setembro, no acto de ingresso nos quadros permanentes é emitido e entregue ao militar um documento de encarte de onde conste o posto que sucessivamente ocupe na respectiva categoria.\n\nDispõe ainda a alínea c) do n.º 2 do referido preceito do EMFAR que este documento, para a categoria de praça, se designa por certificado de encarte.\n\nNão tendo ainda sido aprovado um modelo relativo a este documento de encarte, importa proceder à sua regulamentação, devendo a mesma fazer-se apenas relativamente à Armada, por ser o único ramo que possui praças do quadro permanente.\n\nAssim:\n\nAo abrigo do disposto na alínea e) do n.º 2 do artigo 44.º da Lei n.º 29/82, de 11 de Dezembro, Lei da Defesa Nacional e das Forças Armadas, com as alterações que lhe foram introduzidas pela Lei n.º 41/83, de 21 de Dezembro, Lei Orgânica n.º 111/91, de 29 de Agosto, Leis n.os 113/91, de 29 de Agosto, e 18/95, de 13 de Julho, Lei Orgânica n.º 3/99, de 18 de Setembro, e Lei Orgânica n.º 4/2001, de 30 de Agosto:\n\nManda o Governo, pelo Ministro da Defesa Nacional, o seguinte:\n\n1.º O certificado de encarte é o documento de encarte das praças dos quadros permanentes das Forças Armadas.\n\n2.º O certificado de encarte é conferido no acto de ingresso no primeiro posto de praça dos quadros permanentes das Forças Armadas.\n\n3.º Averbamentos:\n\na) As promoções são averbadas no certificado de encarte;\n\nb) Nos certificados de encarte é ainda averbada a passagem das praças para as situações de reserva e de reforma;\n\nc) A requerimento dos interessados, podem ainda ser efectuados averbamentos de quaisquer factos respeitantes à função ou carreira das praças.\n\n4.º É suportado por conta do interessado o pagamento do custo do impresso do certificado de encarte e da capa do modelo oficial em que as folhas devem ser conservadas.\n\n5.º Modelo:\n\na) O modelo de certificado de encarte é publicado em anexo à presente portaria e dela faz parte integrante e consta de um desdobrável em três folhas de cor a definir por despacho do Chefe do Estado-Maior da Armada, tendo as seguintes dimensões: 22,5 cm x 13,5 cm;\n\nb) O desdobrável referido na alínea anterior é acompanhado de uma capa de protecção, de cor a definir por despacho do Chefe do Estado-Maior da Armada, da qual consta o escudo nacional, precedido dos dizeres «Forças Armadas Portuguesas» e seguido das indicações «Certificado de encarte».\n\n6.º O verso da primeira folha contém o juramento de fidelidade, nos seguintes termos:\n\n«Juro, por minha honra, como português(a) e como praça da Armada, guardar e fazer guardar a Constituição da República, cumprir as ordens e deveres militares, de acordo com as leis e regulamentos, contribuir com todas as minhas capacidades para o prestígio das Forças Armadas e servir a minha Pátria em todas as circunstâncias e sem limitações, mesmo com o sacrifício da própria vida.»\n\n7.º O termo de passagem do certificado de encarte é assinado pelo Chefe do Estado-Maior da Armada.\n\n(ver modelo no documento original)\n\n> Alterado pelo/a [Portaria n.º 108/2023 - Diário da República n.º 77/2023, Série I de 2023-04-19](https://diariodarepublica.pt/dr/detalhe/portaria/108-2023-211996391), em vigor a partir de 2023-04-24, produz efeitos a partir de 2023-01-01"
+  },
+  "897440385": {
+   "fragment_id": "897405596",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-11-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 299/2024/1 - Diário da República n.º 226/2024, Série I de 2024-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/299-2024-897261174), em vigor a partir de 2024-11-22"
+   ],
+   "markdown": "O Ministro da Defesa Nacional, Luís Filipe Marques Amado, em 13 de Janeiro de 2006.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 299/2024/1 - Diário da República n.º 226/2024, Série I de 2024-11-21](https://diariodarepublica.pt/dr/detalhe/portaria/299-2024-897261174), em vigor a partir de 2024-11-22"
+  }
+ }
+}

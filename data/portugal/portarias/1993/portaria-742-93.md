@@ -1,0 +1,258 @@
+---
+schema_version: '1.0'
+id: pt:dre:330251:por
+title: Portaria n.º 742/93
+short_title: null
+summary: Aprova o Regulamento sobre Tempo de Serviço de Voo e Repouso dos Pilotos de Aeronaves a Operar em Trabalho Aéreo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 742/93
+official_date: null
+publication_date: '1993-08-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/1993, Série I-B de 1993-08-16
+  number: '191'
+  series: I
+  supplement: null
+  pages: 4358 - 4359
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/08/191b00/43584359.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-09-23'
+version_history:
+  file: portaria-742-93.versoes.json
+  count: 2
+  source_lastmod: '2026-09-24'
+  versions:
+  - date: '1993-08-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-09-23'
+    amending: pt:dre:1172319754:por
+    amending_title: Portaria n.º 434/2026/1
+    changes:
+    - Adita 7.º-A
+    - Altera 2.º
+    - Altera 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/742/1993/p/cons/20220315/pt/html
+  oj: null
+  dre: '330251'
+  dre_path: /dr/detalhe/portaria/742-1993-330251
+  internal: pt:dre:330251:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/742-1993-330251
+  metadata_url: https://data.dre.pt/eli/port/742/1993/p/cons/20220315/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1993-888844976
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1993-888844976
+  retrieved_at: '2026-10-22T13:57:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-24T00:00:00Z'
+integrity:
+  source_sha256: 803f838fe71d1b56105d377724e8bc9ed840cdca11e07074b3b74f0bd8129a69
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:57:27Z'
+  notes: 2 versão(ões); histórico completo em portaria-742-93.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Tempo de Serviço
+- Avião
+- Piloto Aviador
+- Duração do Trabalho
+- Regulamento
+- Trabalho a Bordo
+relationships:
+- type: amended_by
+  target: pt:dre:1172319754:por
+  label: Adita 7.º-A; Altera 2.º; Altera 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/434-2026-1172319754
+  date: '2026-09-22'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/172/1993/05/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172/1993/05/11/p/dre
+- type: transposes
+  target: celex:32006L0123
+  label: null
+  source: null
+article_structure:
+  article_count: 10
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:57:27Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 742/93
+
+Portaria n.º 742/93
+
+de 16 de Agosto
+
+O Decreto-Lei n.º 172/93, de 11 de Maio, veio instituir o regime de licenciamento do exercício da actividade de trabalho aéreo, prevendo no seu artigo 9.º a publicação de um regulamento sobre tempo de serviço de voo e repouso específico para os pilotos das aeronaves certificadas para aquela actividade.
+
+Com efeito, a utilização de aeronaves em tarefas tão diversas como, designadamente, os tratamentos fitossanitários nos domínios agrícola e silvícola e o combate a incêndios, e as dificuldades decorrentes dos condicionamentos físicos e ambientais em que tais operações se desenvolvem recomendam que se defina para esta actividade um quadro regulamentar distinto do aplicável ao transporte aéreo.
+
+O regulamento ora publicado resulta de consultas às entidades públicas interessadas e às organizações sócio-profissionais e empresas do sector, nele se acolhendo as principais preocupações manifestadas.
+
+Assim:
+
+Ao abrigo do artigo 9.º do Decreto-Lei n.º 172/93, de 11 de Maio:
+
+Manda o Governo, pelos Ministros das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social, o seguinte:
+
+1.º É aprovado o Regulamento sobre Tempo de Serviço de Voo e Repouso dos Pilotos de Aeronaves a Operar em Trabalho Aéreo, anexo à presente portaria e que dela faz parte integrante.
+
+2.º Esta portaria entra em vigor 90 dias após a sua publicação.
+
+Ministérios das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.
+
+> Nota: [Artigo 30.º, Decreto-Lei n.º 25/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2022-180474163) Até à aprovação do diploma legal mencionado no n.º 3 do artigo 20.º do Decreto-Lei n.º 44/2013, de 2 de abril, que estabelece o regime jurídico aplicável à atividade de trabalho aéreo, a fim de o conformar com o disposto no Decreto-Lei n.º 92/2010, de 26 de julho, na sua redação atual, que transpôs para o ordenamento jurídico interno a Diretiva 2006/123/CE, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno, mantém-se em vigor o regulamento sobre tempo de serviço de voo e repouso dos pilotos de aeronaves a operar em trabalho aéreo ou em operações especializadas, aprovado pelo presente diploma.
+
+> Nota: [Artigo 42.º, Decreto-Lei n.º 44/2013 - Diário da República n.º 64/2013, Série I de 2013-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2013-259949) Até à aprovação do Decreto-lei n.º 44/2013, de 2 de abril, mantém-se em vigor o regulamento sobre tempo de serviço de voo e repouso dos pilotos de aeronaves a operar em trabalho aéreo, aprovado pelo presente diploma.
+
+###### 1.º
+
+É aprovado o Regulamento sobre Tempo de Serviço de Voo e Repouso dos Pilotos de Aeronaves a Operar em Trabalho Aéreo, anexo à presente portaria e que dela faz parte integrante.
+
+###### 2.º
+
+Esta portaria entra em vigor 90 dias após a sua publicação.
+
+Ministérios das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.
+
+Assinada em 16 de Julho de 1993.
+
+O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral. - O Ministro do Emprego e da Segurança Social, José Albino da Silva Peneda.
+
+## Anexo — Regulamento sobre Tempo de Serviço de Voo e Repouso dos Pilotos de Aeronaves a Operar em Trabalho Aéreo
+
+## 1.º
+
+As disposições do presente Regulamento são aplicáveis aos pilotos de aeronaves na execução de todas as operações de trabalho aéreo em território nacional, em aeronaves de matrícula nacional ou estrangeira que estejam ao serviço de empresas licenciadas para o trabalho aéreo nos termos do artigo 3.º, de empresas que tenham sido autorizadas para o exercício desta actividade ao abrigo do artigo 5.º e das que se encontrem na situação prevista no artigo 14.º, todos do Decreto-Lei n.º 172/93, de 11 de Maio.
+
+###### 2.º
+
+1 - Cada operador de trabalho aéreo deverá indicar no seu «Manual de operações de voo» os limites de tempo de voo que utiliza e que, em situação alguma, poderão exceder os previstos no n.º 4.º deste Regulamento.
+
+2 - No caso de os pilotos desempenharem funções em mais de um operador de trabalho aéreo, estão, em qualquer circunstância, sujeitos ao cumprimento dos limites constantes do presente regulamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 434/2026/1 - Diário da República n.º 184/2026, Série I de 2026-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/434-2026-1172319754), em vigor a partir de 2026-09-23.
+
+###### 3.º
+
+Na aplicação do presente Regulamento ter-se-ão em conta as seguintes definições:
+
+Ano - período de 365 dias consecutivos;
+
+Comandante - piloto que, reunindo os requisitos legalmente exigíveis e designado pelo operador de trabalho aéreo, exerce o comando da aeronave, incumbindo-lhe a direcção e a responsabilidade da condução segura e regulamentar da mesma;
+
+Dia - período de vinte e quatro horas consecutivas;
+
+Folga - período livre de serviço de quarenta e oito horas consecutivas;
+
+Emergência - situação que, na avaliação do comandante, põe em perigo vidas humanas;
+
+Período de descanso - período no solo, em local apropriado para descanso, liberto da execução de todo e qualquer serviço, de duração não inferior a trinta minutos, incluído num período de serviço de voo;
+
+Período de repouso - intervalo de tempo que medeia entre o fim de um período de serviço de voo e o início de outro período de serviço de voo;
+
+Período de serviço de voo - intervalo de tempo compreendido entre o momento em que um piloto se apresenta para iniciar um serviço de voo e até trinta minutos depois de a aeronave se imobilizar ao fim de um voo ou série de voos (considera-se série de voos quando entre eles não se tenha verificado um período de repouso);
+
+Semana - período de sete dias consecutivos;
+
+Tempo de voo (tempo de calço a calço) - período decorrido entre o momento em que a aeronave, preparada para o voo, começa a mover-se com vista a uma descolagem e aquele em que, terminado o voo, se imobiliza, com paragem de motor ou motores.
+
+###### 4.º
+
+Os limites de tempo de voo e do período de serviço de voo, expressos em horas, são os seguintes:
+
+(ver documento original)
+
+> Retificado pelo/a [Declaração de Rectificação n.º 192/93 - Diário da República n.º 230/1993, 3º Suplemento, Série I-B de 1993-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/192-1993-451187), com efeitos a partir de 1993-11-15.
+
+###### 5.º
+
+a) Em caso de emergência não se aplicam os limites de tempo de voo e do período de serviço de voo diários, podendo o comandante decidir nesta matéria atenta a segurança das operações.
+
+b) O comandante exercerá a faculdade referida na alínea anterior por escrito, descrevendo as razões que motivaram a sua decisão, devendo este documento ser entregue ao operador, ou seu representante, antes de iniciar o voo ou imediatamente após o voo ou série de voos.
+
+c) O operador deverá remeter cópia do documento referido na alínea b) à Inspecção-Geral do Trabalho no prazo de cinco dias.
+
+###### 6.º
+
+Cada piloto deverá observar um período de repouso de duração não inferior a dez horas.
+
+###### 7.º
+
+Sem prejuízo do disposto no artigo seguinte, os pilotos terão direito a uma folga por semana.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 434/2026/1 - Diário da República n.º 184/2026, Série I de 2026-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/434-2026-1172319754), em vigor a partir de 2026-09-23.
+
+###### 7.º-A
+
+1 - Os pilotos de aeronaves envolvidos em atividades de combate a incêndios podem realizar, no máximo, 20 dias de trabalho consecutivos, desde que, cumulativamente:
+
+a) Manifestem expressamente ao operador de trabalho aéreo a sua concordância;
+
+b) Cumpram os tempos de voo e os períodos de serviço de voo previstos no quadro constante do artigo 4.º do presente Regulamento;
+
+c) Os mesmos sejam seguidos por um mínimo de cinco folgas consecutivas, tendo em consideração a definição de folga constante do artigo 3.º do presente Regulamento.
+
+2 - No caso de se realizarem dias de trabalho consecutivos inferiores a 20 dias, mas superiores a sete dias consecutivos, para além do cumprimento do disposto nas alíneas a) e b) do número anterior, deve ser garantida a existência de quatro folgas por cada período de 30 dias.
+
+3 - Caso desempenhem funções para mais de um operador de trabalho aéreo, os pilotos devem:
+
+a) Conservar os respetivos registos individuais relativos aos períodos de serviço de voo, aos tempos de voo e aos períodos de repouso e folgas referidos no presente regulamento;
+
+b) Fornecer a cada operador de trabalho aéreo os dados necessários para o planeamento das atividades em conformidade com os requisitos e limites constantes do presente regulamento.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 434/2026/1 - Diário da República n.º 184/2026, Série I de 2026-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/434-2026-1172319754), em vigor a partir de 2026-09-23.
+
+###### 8.º
+
+A fim de permitir às autoridades competentes a verificação do cumprimento do disposto no presente Regulamento, as empresas de trabalho aéreo deverão manter actualizado um registo contendo os seguintes dados:
+
+a) Nome do piloto;
+
+b) Duração do período de serviço de voo diário;
+
+c) Tempo de voo diário;
+
+d) Duração do período de repouso diário;
+
+e) Total de tempos de voo nos períodos previstos no n.º 4.º

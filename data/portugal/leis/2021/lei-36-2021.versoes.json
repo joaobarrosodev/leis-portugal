@@ -1,0 +1,703 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:165036155:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-165042283",
+ "dre_path": "/dr/detalhe/lei/36-2021-165036155",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165010167",
+    "165010168",
+    "165010169",
+    "165010170",
+    "165010171",
+    "165010172",
+    "165010173",
+    "165010174",
+    "165089775",
+    "165089776",
+    "165089777",
+    "165089778",
+    "165089779",
+    "165089780",
+    "165089781",
+    "165089782",
+    "165089783",
+    "165089784",
+    "165089785",
+    "165089786",
+    "165089787",
+    "165089789",
+    "165089790",
+    "165089791",
+    "165089792",
+    "165089793",
+    "165089794",
+    "165089795",
+    "165089796",
+    "165089797",
+    "165089798",
+    "165089799",
+    "165089800",
+    "165089801",
+    "165089802",
+    "165089803",
+    "165089804",
+    "165089805",
+    "165089806",
+    "165089807",
+    "165089808",
+    "165089809",
+    "165089810",
+    "165089811",
+    "165089812",
+    "165089813",
+    "165089814",
+    "165089815",
+    "165089816",
+    "165089817",
+    "165089818",
+    "165089819",
+    "165089820",
+    "165089821",
+    "165089822",
+    "165089823",
+    "165089824",
+    "165089825",
+    "165089826",
+    "165089827",
+    "165089828",
+    "165089829",
+    "165089830",
+    "165089831",
+    "165089832",
+    "165089833",
+    "165089834",
+    "165089835",
+    "165089836",
+    "165089837",
+    "165089838",
+    "165089839",
+    "165089840",
+    "165089841",
+    "165089842"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:166658247:por",
+     "title": "Declaração de Retificação n.º 22/2021",
+     "published": "2021-07-09",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/22-2021-166658247",
+     "date": "2021-07-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "165010167": {
+   "fragment_id": "165042284",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 36/2021\n\nde 14 de junho\n\nSumário: Aprova a lei-quadro do estatuto de utilidade pública.\n\nAprova a lei-quadro do estatuto de utilidade pública\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "165010168": {
+   "fragment_id": "165042285",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei aprova a lei-quadro do estatuto de utilidade pública.\n\n2 - A presente lei procede, ainda:\n\na) À segunda alteração à Lei n.º 35/98, de 18 de julho, alterada pela Lei n.º 82-D/2014, de 31 de dezembro, que define o estatuto das organizações não governamentais de ambiente;\n\nb) À alteração ao Código do Imposto do Selo, aprovado em anexo à Lei n.º 150/99, de 11 de setembro;\n\nc) À segunda alteração à Lei n.º 32/2007, de 13 de agosto, alterada pela Lei n.º 94/2015, de 13 de agosto, que define o regime jurídico das associações humanitárias de bombeiros;\n\nd) À terceira alteração à Lei n.º 26/2015, de 14 de abril, alterada pelos Decretos-Leis n.os 100/2017, de 23 de agosto, e 89/2019, de 4 de julho, que regula as entidades de gestão coletiva do direito de autor e dos direitos conexos;\n\ne) À terceira alteração ao Decreto-Lei n.º 4/82, de 11 de janeiro, alterado pelos Decretos-Leis n.os 81/85, de 28 de março, e 246/90, de 27 de julho, que define o Regime Jurídico das Casas do Povo;\n\nf) À segunda alteração ao Decreto-Lei n.º 249/86, de 25 de agosto, alterado pelo Decreto-Lei n.º 312/95, de 24 de novembro, que cria os centros tecnológicos e aprova a sua estrutura orgânica;\n\ng) À alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas (Código do IRC), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro;\n\nh) À terceira alteração ao Decreto-Lei n.º 244/92, de 29 de outubro, alterado pelos Decretos-Leis n.os 81/2000, de 10 de maio, e 154/2017, de 28 de dezembro, que estabelece as normas para o reconhecimento de associações empresariais como câmaras de comércio e indústria;\n\ni) À alteração ao Código do Imposto Municipal sobre a Transmissão Onerosa de Imóveis (Código do IMT), aprovado em anexo ao Decreto-Lei n.º 287/2003, de 12 de novembro;\n\nj) À primeira alteração ao Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado em anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro;\n\nk) À segunda alteração ao Decreto-Lei n.º 92/2014, de 20 de junho, alterado pela Lei n.º 69/2015, de 16 de julho, que estabelece o regime jurídico das escolas profissionais privadas e públicas, no âmbito do ensino não superior, regulando a sua criação, organização e funcionamento, bem como a tutela e fiscalização do Estado sobre as mesmas."
+  },
+  "165010169": {
+   "fragment_id": "165042286",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação da lei-quadro do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação da lei-quadro do estatuto de utilidade pública\n\nÉ aprovada em anexo à presente lei, da qual faz parte integrante, a lei-quadro do estatuto de utilidade pública."
+  },
+  "165010170": {
+   "fragment_id": "165042287",
+   "type": 11,
+   "heading": "Artigo 3.º — Confirmação do interesse na manutenção do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Confirmação do interesse na manutenção do estatuto de utilidade pública\n\n1 - As pessoas coletivas a quem tenha sido atribuído o estatuto de utilidade pública ou o estatuto de utilidade pública administrativa por meio de ato administrativo devem comunicar à Secretaria-Geral da Presidência do Conselho de Ministros (SGPCM) o interesse em mantê-lo, de acordo com o seguinte calendário:\n\na) Até 31 de dezembro de 2023, para as pessoas coletivas privadas a quem o estatuto tenha sido atribuído até 31 de dezembro de 1980;\n\nb) Até 31 de dezembro de 2024, para as pessoas coletivas privadas a quem o estatuto tenha sido atribuído entre 1 de janeiro de 1981 e 31 de dezembro de 1990;\n\nc) Até 31 de dezembro de 2025, para as pessoas coletivas privadas a quem o estatuto tenha sido atribuído entre 1 de janeiro de 1991 e 31 de dezembro de 2000;\n\nd) Até 31 de dezembro de 2026, para as pessoas coletivas privadas a quem o estatuto tenha sido atribuído entre 1 de janeiro de 2001 e 31 de dezembro de 2010;\n\ne) Até 31 de dezembro de 2027, para as pessoas coletivas privadas a quem o estatuto tenha sido atribuído entre 1 de janeiro de 2011 e a data de entrada em vigor da presente lei.\n\n2 - O disposto no número anterior não é aplicável às fundações constituídas segundo o direito privado às quais tenha sido atribuído o estatuto de utilidade pública por meio de ato administrativo, cujo estatuto apenas cessa nos termos gerais.\n\n3 - A comunicação prevista no n.º 1 efetua-se através do portal ePortugal.gov.pt.\n\n4 - O estatuto de utilidade pública das pessoas coletivas que procedam à comunicação prevista no n.º 1 tem a duração de dez anos a contar a partir da mesma.\n\n5 - Na ausência, nos prazos fixados, da comunicação prevista no n.º 1, o estatuto de utilidade pública caduca."
+  },
+  "165010171": {
+   "fragment_id": "165042288",
+   "type": 11,
+   "heading": "Artigo 4.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Registo\n\n1 - Caso se encontre registada, no registo de fundações, a concessão ou renovação do estatuto de utilidade pública, essa inscrição deve ser cancelada, oficiosa e gratuitamente, com a entrada em vigor da presente lei, com fundamento na não sujeição do facto a registo.\n\n2 - No caso de caducidade do estatuto de utilidade pública, nos termos do n.º 5 do artigo anterior, a inscrição de cancelamento do registo comercial da associação em causa é promovida oficiosa e gratuitamente, com fundamento na perda do estatuto, sem prejuízo da manutenção da sua inscrição no ficheiro central de pessoas coletivas.\n\n3 - Para efeitos do disposto no número anterior, a comunicação do respetivo facto ou ato aos serviços de registo é efetuada através da Plataforma de Interoperabilidade da Administração Pública, nos termos a definir por protocolo a celebrar entre a Agência para a Modernização Administrativa, I. P., e o Instituto dos Registos e do Notariado, I. P."
+  },
+  "165010172": {
+   "fragment_id": "165042289",
+   "type": 11,
+   "heading": "Artigo 5.º — Divulgação de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Divulgação de informação\n\nA SGPCM, em colaboração com as comissões de coordenação e desenvolvimento regional, com a Associação Nacional dos Municípios Portugueses e com a Associação Nacional de Freguesias, promove junto das autarquias locais uma campanha de informação diretamente dirigida às pessoas coletivas com estatuto de utilidade pública, para divulgação dos procedimentos e formalidades relativos à confirmação do interesse na manutenção daquele estatuto."
+  },
+  "165010173": {
+   "fragment_id": "165042290",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração à Lei n.º 35/98, de 18 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração à Lei n.º 35/98, de 18 de julho\n\nO artigo 14.º da Lei n.º 35/98, de 18 de julho, passa a ter a seguinte redação:\n\n«Artigo 14.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Uma quota equivalente a 0,5 % do imposto sobre o rendimento das pessoas singulares, liquidado com base nas declarações anuais, pode ser destinada pelo contribuinte, para fins ambientais, a uma entidade referida no artigo 1.º à qual tenha sido atribuído o estatuto de utilidade pública, através da indicação dessa entidade na declaração de rendimentos, e desde que essa entidade tenha requerido o respetivo benefício fiscal.\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - [...].\n\n13 - [...].\n\n14 - [...].»"
+  },
+  "165010174": {
+   "fragment_id": "165042291",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração ao Código do Imposto do Selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração ao Código do Imposto do Selo\n\nO artigo 6.º do Código do Imposto do Selo passa a ter a seguinte redação:\n\n«Artigo 6.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) As pessoas coletivas com estatuto de utilidade pública;\n\nd) [...];\n\ne) [...].»"
+  },
+  "165089775": {
+   "fragment_id": "165042292",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração à Lei n.º 32/2007, de 13 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração à Lei n.º 32/2007, de 13 de agosto\n\nO artigo 34.º da Lei n.º 32/2007, de 13 de agosto, passa a ter a seguinte redação:\n\n«Artigo 34.º\n\n[...]\n\n1 - As associações, as federações e a Liga dos Bombeiros Portugueses beneficiam de isenções e benefícios fiscais nos termos da lei.\n\n2 - [...].»"
+  },
+  "165089776": {
+   "fragment_id": "165042293",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração à Lei n.º 26/2015, de 14 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração à Lei n.º 26/2015, de 14 de abril\n\nO artigo 38.º da Lei n.º 26/2015, de 14 de abril, passa a ter a seguinte redação:\n\n«Artigo 38.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - As entidades de gestão coletiva devem ainda estabelecer tarifas e tarifários especiais com montantes especialmente reduzidos, aplicáveis a pessoas coletivas que prossigam fins não lucrativos e não comerciais, quando as respetivas atividades ou eventos se realizem em local de acesso livre e gratuito, ou, ainda que o acesso à atividade ou evento em causa seja condicionado à aquisição onerosa de títulos de ingresso, quando a receita obtida com a venda dos títulos de ingresso se destine a financiar diretamente atividades concretas e especificadas de caráter social, humanitário ou de socorro, e a atividade ou evento seja como tal divulgado ou publicitado.»"
+  },
+  "165089777": {
+   "fragment_id": "165042294",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 4/82, de 11 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 4/82, de 11 de janeiro\n\nO artigo 1.º do Decreto-Lei n.º 4/82, de 11 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - As Casas do Povo são associações constituídas por tempo indeterminado com o objetivo de promover o desenvolvimento e o bem-estar das comunidades, especialmente as do meio rural.\n\n2 - [...].»"
+  },
+  "165089778": {
+   "fragment_id": "165042295",
+   "type": 11,
+   "heading": "Artigo 11.º — Alteração ao Decreto-Lei n.º 249/86, de 25 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração ao Decreto-Lei n.º 249/86, de 25 de agosto\n\nO artigo 1.º do Decreto-Lei n.º 249/86, de 25 de agosto, passa a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Nos termos do presente diploma, os centros são pessoas coletivas privadas sem fins lucrativos, com autonomia técnica e financeira e património próprio.»"
+  },
+  "165089779": {
+   "fragment_id": "165042296",
+   "type": 11,
+   "heading": "Artigo 12.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração ao Código do Imposto sobre o Rendimento das Pessoas Coletivas\n\nO artigo 10.º do Código do IRC passa a ter a seguinte redação:\n\n«Artigo 10.º\n\nPessoas coletivas com estatuto de utilidade pública e de solidariedade social\n\n1 - [...]:\n\na) (Revogada.)\n\nb) [...];\n\nc) As pessoas coletivas com estatuto de utilidade pública que prossigam, exclusiva ou predominantemente, fins científicos ou culturais, de caridade, assistência, beneficência, solidariedade social, defesa do meio ambiente e interprofissionalismo agroalimentar.\n\n2 - [...].\n\n3 - [...]:\n\na) Exercício efetivo, a título exclusivo ou predominante, de atividades dirigidas à prossecução dos fins que justificaram a isenção;\n\nb) [...];\n\nc) [...].\n\n4 - [...].\n\n5 - [...].»"
+  },
+  "165089780": {
+   "fragment_id": "165042297",
+   "type": 11,
+   "heading": "Artigo 13.º — Alteração ao Decreto-Lei n.º 244/92, de 29 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração ao Decreto-Lei n.º 244/92, de 29 de outubro\n\nOs artigos 1.º, 7.º e 8.º do Decreto-Lei n.º 244/92, de 29 de outubro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\nAs câmaras de comércio e indústria são associações empresariais de direito privado que, pelo grau de representatividade, implantação territorial, estruturas materiais e humanas e prévia atribuição do estatuto de utilidade pública, como tal sejam reconhecidas, nos termos do presente diploma.\n\nArtigo 7.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) Estatuto de utilidade pública da associação.\n\n2 - [...].\n\nArtigo 8.º\n\n[...]\n\n1 - O pedido de reconhecimento deve ser dirigido aos membros do Governo responsáveis pelas áreas do comércio e da indústria e remetido a um dos gabinetes, acompanhado dos seguintes elementos:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) Documento comprovativo da atribuição do estatuto de utilidade pública.\n\n2 - [...].»"
+  },
+  "165089781": {
+   "fragment_id": "165042298",
+   "type": 11,
+   "heading": "Artigo 14.º — Alteração ao Código do Imposto Municipal sobre a Transmissão Onerosa de Imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração ao Código do Imposto Municipal sobre a Transmissão Onerosa de Imóveis\n\nO artigo 6.º do Código do IMT passa a ter a seguinte redação:\n\n«Artigo 6.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) As pessoas coletivas com estatuto de utilidade pública, quanto aos bens destinados, direta e imediatamente, à realização dos seus fins estatutários;\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nl) [...];\n\nm) [...].»"
+  },
+  "165089782": {
+   "fragment_id": "165042299",
+   "type": 11,
+   "heading": "Artigo 15.º — Alteração ao Estatuto do Ensino Particular e Cooperativo de nível não superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alteração ao Estatuto do Ensino Particular e Cooperativo de nível não superior\n\nO artigo 32.º do Estatuto do Ensino Particular e Cooperativo de nível não superior passa a ter a seguinte redação:\n\n«Artigo 32.º\n\n[...]\n\n1 - A autorização de funcionamento de uma escola particular especifica a denominação da escola, as modalidades e níveis de educação e formação, os edifícios e localidades onde é ministrado o ensino, o nome da entidade requerente e o diretor pedagógico ou presidente da direção pedagógica, bem como a lotação global.\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].»"
+  },
+  "165089783": {
+   "fragment_id": "165042300",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração ao Decreto-Lei n.º 92/2014, de 20 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração ao Decreto-Lei n.º 92/2014, de 20 de junho\n\nO artigo 63.º do Decreto-Lei n.º 92/2014, de 20 de junho, passa a ter a seguinte redação:\n\n«Artigo 63.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Comprovando-se as irregularidades referidas no número anterior, cessam de imediato os benefícios previstos no artigo 56.º»"
+  },
+  "165089784": {
+   "fragment_id": "165042301",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma transitória\n\n1 - Sem prejuízo do disposto nos n.os 2 e 3, ficam sujeitas ao disposto na lei-quadro do estatuto de utilidade pública, aprovada em anexo à presente lei, as pessoas coletivas às quais, à data de entrada em vigor da presente lei, tenha sido reconhecida, através de procedimento administrativo, utilidade pública ou utilidade pública administrativa, que passam a ser consideradas pessoas coletivas com estatuto de utilidade pública.\n\n2 - As normas da lei-quadro do estatuto de utilidade pública, aprovada em anexo à presente lei, não se aplicam aos procedimentos de atribuição, de renovação e de revogação do estatuto de utilidade pública que se encontrem pendentes à data da sua entrada em vigor, à exceção do disposto no seu artigo 15.º\n\n3 - As pessoas coletivas classificadas como de utilidade pública administrativa à data da entrada em vigor da presente lei mantêm a isenção automática de IRC sem necessidade de reconhecimento pelo membro do Governo responsável pela área das finanças.\n\n4 - Mantém-se a possibilidade de requerer registos sobre associações, nos termos do Decreto-Lei n.º 57/78, de 1 de abril, que, à data de entrada em vigor da presente lei, se mostrem inscritas no registo comercial, enquanto mantiverem o estatuto de utilidade pública."
+  },
+  "165089785": {
+   "fragment_id": "165042302",
+   "type": 11,
+   "heading": "Artigo 18.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Referências legais\n\nTodas as referências legais ao Decreto-Lei n.º 460/77, de 7 de novembro, na sua redação atual, devem considerar-se feitas à lei-quadro aprovada em anexo à presente lei, com as necessárias adaptações."
+  },
+  "165089786": {
+   "fragment_id": "165042303",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\nSão revogados:\n\na) O n.º 2 do artigo 3.º da Lei n.º 9/79, de 19 de março;\n\nb) O artigo 2.º da Lei n.º 123/97, de 13 de novembro;\n\nc) Os artigos 4.º e 12.º da Lei n.º 35/98, de 18 de julho;\n\nd) O artigo 12.º da Lei n.º 66/98, de 14 de outubro;\n\ne) A alínea e) do n.º 1 do artigo 4.º da Lei n.º 115/99, de 3 de agosto;\n\nf) A alínea a) do artigo 10.º da Lei n.º 127/99, de 20 de agosto;\n\ng) A Lei n.º 151/99, de 14 de setembro;\n\nh) O n.º 2 do artigo 1.º e os n.os 1 e 2 do artigo 9.º da Lei n.º 158/99, de 14 de setembro;\n\ni) O n.º 7 do artigo 10.º da Lei n.º 107/2001, de 8 de setembro;\n\nj) A alínea a) do n.º 1 do artigo 14.º da Lei n.º 23/2006, de 23 de junho;\n\nk) O artigo 3.º e o n.º 2 do artigo 50.º da Lei n.º 32/2007, de 13 de agosto;\n\nl) O n.º 3 do artigo 33.º da Lei n.º 62/2007, de 10 de setembro;\n\nm) O n.º 3 do artigo 10.º e os artigos 24.º e 25.º da Lei n.º 24/2012, de 9 de julho;\n\nn) O artigo 15.º da Lei n.º 26/2015, de 14 de abril;\n\no) Os títulos viii e ix da parte i do Código Administrativo, aprovado pelo Decreto-Lei n.º 31095, de 31 de dezembro de 1940;\n\np) O Decreto-Lei n.º 460/77, de 7 de novembro;\n\nq) O Decreto-Lei n.º 57/78, de 1 de abril, exceto para efeitos do disposto no n.º 4 do artigo 17.º;\n\nr) O Decreto-Lei n.º 425/79, de 25 de outubro;\n\ns) O Decreto-Lei n.º 52/80, de 26 de março;\n\nt) O artigo 8.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro;\n\nu) O n.º 2 do artigo 5.º do Decreto-Lei n.º 106/88, de 31 de março;\n\nv) A alínea a) do n.º 1 do artigo 10.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro;\n\nw) O artigo 12.º do Decreto-Lei n.º 88/99, de 19 de março;\n\nx) A alínea e) do n.º 1 do artigo 2.º do Decreto-Lei n.º 75/2000, de 9 de maio;\n\ny) O artigo 5.º do Decreto-Lei n.º 348/2007, de 19 de outubro;\n\nz) O Decreto-Lei n.º 213/2008, de 10 de novembro;\n\naa) O artigo 15.º do Decreto-Lei n.º 106/2013, de 30 de julho;\n\nbb) O artigo 33.º do Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado em anexo ao Decreto-Lei n.º 152/2013, de 4 de novembro;\n\ncc) O artigo 19.º do Decreto-Lei n.º 92/2014, de 20 de junho;\n\ndd) O artigo 26.º do Código das Associações Mutualistas, aprovado pelo Decreto-Lei n.º 59/2018, de 2 de agosto;\n\nee) A alínea b) do artigo 2.º, o artigo 10.º, o n.º 5 do artigo 16.º e a alínea a) do n.º 1 do artigo 19.º do Regime do Registo de Fundações, aprovado em anexo ao Decreto-Lei n.º 157/2019, de 22 de outubro."
+  },
+  "165089787": {
+   "fragment_id": "165042304",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor e produção de efeitos\n\n1 - A presente lei entra em vigor em 1 de julho de 2021.\n\n2 - O disposto na alínea d) do n.º 1 do artigo 11.º da lei-quadro do estatuto de utilidade pública, aprovada em anexo à presente lei, produz efeitos a 1 de janeiro de 2022."
+  },
+  "165089789": {
+   "fragment_id": "165042306",
+   "type": 14,
+   "heading": "Anexo — Lei-quadro do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Lei-quadro do estatuto de utilidade pública\n\n(a que se refere o artigo 2.º)"
+  },
+  "165089790": {
+   "fragment_id": "165042307",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "165089791": {
+   "fragment_id": "165042308",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei-quadro estabelece o regime jurídico aplicável ao estatuto de utilidade pública."
+  },
+  "165089792": {
+   "fragment_id": "165042309",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito pessoal de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito pessoal de aplicação\n\nSem prejuízo do disposto no artigo seguinte, a presente lei-quadro é aplicável:\n\na) Às pessoas coletivas que preencham os requisitos previstos na presente lei-quadro e a quem seja atribuído o estatuto de utilidade pública nos termos do procedimento administrativo respetivo;\n\nb) Às representações permanentes em Portugal de pessoas coletivas estrangeiras;\n\nc) Às representações permanentes em Portugal de organizações internacionais que desenvolvam os seus fins em território nacional, sem prejuízo do disposto pelo direito internacional aplicável."
+  },
+  "165089793": {
+   "fragment_id": "165042310",
+   "type": 11,
+   "heading": "Artigo 3.º — Extensão do âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Extensão do âmbito de aplicação\n\nA presente lei-quadro aplica-se ainda, nos termos previstos no capítulo vi, às pessoas coletivas que gozam do estatuto de utilidade pública por força da lei, sem necessidade de atribuição administrativa, bem como às pessoas coletivas às quais seja aplicável, total ou parcialmente, o respetivo regime jurídico."
+  },
+  "165089794": {
+   "fragment_id": "165042311",
+   "type": 11,
+   "heading": "Artigo 4.º — Fins de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fins de utilidade pública\n\n1 - O estatuto de utilidade pública pode ser atribuído às pessoas coletivas que prossigam fins de interesse geral, regional ou local e que cooperem, nesse âmbito, com a administração central, regional ou local.\n\n2 - Para efeitos do disposto no número anterior, consideram-se fins relevantes para atribuição do estatuto de utilidade pública:\n\na) Aqueles que se traduzam no benefício da sociedade em geral, ou de uma ou mais categorias de pessoas distintas dos seus associados, fundadores ou cooperadores, ou de pessoas com eles relacionadas, e que se compreendam em algum dos setores referidos no número seguinte; ou\n\nb) No caso das associações e das cooperativas:\n\ni) Aqueles que se traduzam primariamente, mas não exclusivamente, no benefício dos seus associados ou cooperadores, desde que estejam compreendidos em algum dos setores referidos no número seguinte e se o número mínimo de associados ou de cooperadores determinado no artigo 7.º se encontrar verificado;\n\nii) Aqueles que se traduzam no benefício dos seus associados ou cooperadores, quando estes sejam pessoas coletivas, e desde que a atividade dos seus associados ou cooperadores esteja compreendida em algum dos setores referidos no número seguinte.\n\n3 - As pessoas coletivas com estatuto de utilidade pública, na prossecução dos seus fins, devem atuar em algum dos seguintes setores:\n\na) Histórico, artístico ou cultural;\n\nb) Desporto;\n\nc) Desenvolvimento local;\n\nd) Solidariedade social;\n\ne) Ensino ou educação;\n\nf) Cidadania, igualdade e não discriminação, defesa dos direitos humanos ou apoio humanitário;\n\ng) Juventude;\n\nh) Cooperação para o desenvolvimento e educação para o desenvolvimento;\n\ni) Saúde;\n\nj) Proteção de pessoas e bens, designadamente o socorro de feridos, doentes ou náufragos, e extinção de incêndios;\n\nk) Investigação científica, divulgação científica ou desenvolvimento tecnológico;\n\nl) Empreendedorismo, inovação ou desenvolvimento económico e social;\n\nm) Emprego ou proteção da profissão;\n\nn) Ambiente, património natural e qualidade de vida;\n\no) Bem-estar animal;\n\np) Habitação e urbanismo;\n\nq) Proteção do consumidor;\n\nr) Proteção de crianças, jovens, idosos ou outras pessoas em situação de vulnerabilidade, física, psicológica, social ou económica;\n\ns) Políticas de família.\n\n4 - O estatuto de utilidade pública não pode ser atribuído a pessoas coletivas que, na prossecução dos seus fins, atuem predominantemente, ainda que não de forma exclusiva, em algum dos seguintes setores:\n\na) Político-partidário, incluindo associações e movimentos políticos;\n\nb) Sindical;\n\nc) Religioso, de culto ou de crença, incluindo a divulgação de doutrinas e filosofias de vida."
+  },
+  "165089795": {
+   "fragment_id": "165042312",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios\n\nAs pessoas coletivas a quem seja atribuído o estatuto de utilidade pública atuam no âmbito das suas atividades de acordo com os princípios orientadores que integram a Lei de Bases da Economia Social, aprovada pela Lei n.º 30/2013, de 8 de maio, sem prejuízo dos princípios específicos que lhes sejam aplicáveis em razão da sua natureza."
+  },
+  "165089796": {
+   "fragment_id": "165042313",
+   "type": 1,
+   "heading": "Capítulo II — Requisitos de atribuição do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Requisitos de atribuição do estatuto de utilidade pública"
+  },
+  "165089797": {
+   "fragment_id": "165042314",
+   "type": 8,
+   "heading": "Secção I — Pessoas coletivas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Pessoas coletivas nacionais"
+  },
+  "165089798": {
+   "fragment_id": "165042315",
+   "type": 11,
+   "heading": "Artigo 6.º — Formas jurídicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formas jurídicas\n\n1 - O estatuto de utilidade pública pode ser atribuído a pessoas coletivas que revistam uma das seguintes formas jurídicas:\n\na) Associações constituídas segundo o direito privado;\n\nb) Fundações constituídas segundo o direito privado;\n\nc) Cooperativas.\n\n2 - Não obsta à atribuição do estatuto de utilidade pública o facto de a pessoa coletiva ter sido instituída ou de nela participarem, isolada ou conjuntamente, pessoas coletivas públicas, ou de estas exercerem sobre aquela, isolada ou conjuntamente, influência dominante."
+  },
+  "165089799": {
+   "fragment_id": "165042316",
+   "type": 11,
+   "heading": "Artigo 7.º — Número mínimo de membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Número mínimo de membros\n\nNos casos em que se aplique o disposto na subalínea i) da alínea b) do n.º 2 do artigo 4.º, as associações e as cooperativas devem reunir, respetivamente, um número de associados ou de cooperadores que exceda o dobro do número de membros que exerçam cargos nos órgãos sociais, para que lhes possa ser atribuído o estatuto de utilidade pública."
+  },
+  "165089800": {
+   "fragment_id": "165042317",
+   "type": 11,
+   "heading": "Artigo 8.º — Requisitos para a atribuição do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requisitos para a atribuição do estatuto de utilidade pública\n\n1 - Pode ser atribuído o estatuto de utilidade pública às pessoas coletivas que preencham cumulativamente os seguintes requisitos:\n\na) Revistam uma das formas jurídicas previstas no artigo 6.º;\n\nb) Prossigam fins de interesse geral, regional ou local, nos termos do artigo 4.º, e no âmbito de algum dos setores aí referidos, devendo os respetivos estatutos especificar esses fins;\n\nc) Comprovem cooperar com a administração central, regional ou local de forma regular e duradoura, nos termos do n.º 1 do artigo 4.º;\n\nd) Apresentem parecer fundamentado da câmara municipal da área da sua sede;\n\ne) Reúnam, quando aplicável, o número mínimo de associados ou de cooperadores, nos termos do artigo 7.º;\n\nf) Tratando-se de associações ou de cooperativas, não consagrem qualquer critério discriminatório para a admissão dos seus membros, salvo no que respeite a condições de acesso ou de admissão com expressa previsão legal ou quando, constando de norma estatutária válida, tal se justifique em função dos fins prosseguidos pela associação ou cooperativa;\n\ng) Observem os princípios referidos na presente lei-quadro, estejam regularmente constituídas, regendo-se por estatutos elaborados em conformidade com a lei, e reúnam os requisitos contidos em regime jurídico que lhes seja especificamente aplicável;\n\nh) Exerçam atividade efetiva, nos termos do artigo 4.º, há pelo menos três anos;\n\ni) Disponham de pessoal, infraestruturas, instalações e equipamentos, próprios, contratados ou voluntários, necessários para assegurar a prossecução dos seus fins e para as atividades que se propõem realizar;\n\nj) Detenham um registo nominal atualizado dos respetivos associados ou cooperadores;\n\nk) Tenham uma página pública na Internet, acessível de forma irrestrita, onde sejam disponibilizados os relatórios de atividades e de contas dos últimos cinco anos, a lista atualizada dos titulares dos órgãos sociais e os textos atualizados dos estatutos e dos regulamentos internos;\n\nl) Tenham contabilidade organizada ou de caixa nos termos do regime contabilístico do setor não lucrativo, do Sistema de Normalização Contabilística ou do Sistema de Normalização Contabilística para as Administrações Públicas, conforme o regime que lhes seja concretamente aplicável.\n\n2 - O prazo referido na alínea h) do número anterior pode ser dispensado por despacho fundamentado do membro do Governo competente para a atribuição do estatuto de utilidade pública desde que se verifique alguma das seguintes condições relativamente à pessoa coletiva requerente:\n\na) Desenvolver atividade de âmbito nacional ou internacional;\n\nb) Evidenciar, face às razões da sua existência ou aos fins que visa prosseguir, manifesta relevância social.\n\n3 - Em caso de dúvida fundada no que respeita ao requisito previsto na alínea g) do n.º 1, a Secretaria-Geral da Presidência do Conselho de Ministros (SGPCM) pode solicitar informações ao magistrado do Ministério Público da comarca territorialmente competente.\n\n4 - Ainda que se encontrem cumulativamente preenchidos os requisitos elencados nos números anteriores, o estatuto de utilidade pública só pode ser atribuído se a pessoa coletiva requerente não exercer, a título exclusivo ou principal, atividade de produção e venda de bens ou serviços para um mercado ativo e concorrente com a de qualquer ramo de atividade económica, em termos que a atribuição daquele estatuto impeça, falseie ou restrinja, de forma sensível, a concorrência, no todo ou em parte, no mercado relevante correspondente.\n\n5 - Caso a câmara municipal não aprove o parecer referido na alínea d) do n.º 1 no prazo de 60 dias após o pedido, o requerente fica dispensado da sua apresentação à SGPCM."
+  },
+  "165089801": {
+   "fragment_id": "165042318",
+   "type": 8,
+   "heading": "Secção II — Pessoas coletivas estrangeiras e internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Pessoas coletivas estrangeiras e internacionais"
+  },
+  "165089802": {
+   "fragment_id": "165042319",
+   "type": 11,
+   "heading": "Artigo 9.º — Representações permanentes de pessoas coletivas estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Representações permanentes de pessoas coletivas estrangeiras\n\n1 - As pessoas coletivas estrangeiras sem fins lucrativos, criadas ao abrigo de uma lei diferente da portuguesa, que pretendam prosseguir de forma estável em Portugal os seus fins, devem ter uma representação permanente em território português, conforme previsto na alínea b) do n.º 1 do artigo 4.º do Regime Jurídico do Registo Nacional de Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 129/98, de 13 de maio, na sua redação atual.\n\n2 - A atribuição do estatuto de utilidade pública à representação permanente de uma pessoa coletiva estrangeira depende da verificação dos requisitos fixados na presente lei-quadro para as pessoas coletivas portuguesas.\n\n3 - Os benefícios decorrentes do estatuto de utilidade pública das representações permanentes de pessoas coletivas estrangeiras aplicam-se exclusivamente às atividades desenvolvidas em Portugal.\n\n4 - As representações permanentes de pessoas coletivas estrangeiras com estatuto de utilidade pública têm os mesmos direitos e estão sujeitas aos mesmos deveres que as pessoas coletivas de utilidade pública portuguesas."
+  },
+  "165089803": {
+   "fragment_id": "165042320",
+   "type": 11,
+   "heading": "Artigo 10.º — Representações permanentes de organizações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Representações permanentes de organizações internacionais\n\nSem prejuízo do disposto em convenções internacionais em vigor, o disposto no artigo anterior é aplicável com as necessárias adaptações às representações permanentes de organizações internacionais que pretendam prosseguir de forma estável em Portugal os seus fins."
+  },
+  "165089804": {
+   "fragment_id": "165042321",
+   "type": 1,
+   "heading": "Capítulo III — Estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estatuto de utilidade pública"
+  },
+  "165089805": {
+   "fragment_id": "165042322",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos e benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos e benefícios\n\n1 - As pessoas coletivas com estatuto de utilidade pública gozam dos seguintes direitos e benefícios:\n\na) Direito ao uso da menção «pessoa coletiva com estatuto de utilidade pública» ou, abreviadamente, «EUP», após a respetiva denominação social, sem que a mesma faça parte integrante desta;\n\nb) Isenções tributárias, reconhecidas e atribuídas nos termos e condições da legislação respetiva, designadamente relativas a:\n\ni) Imposto do selo;\n\nii) Imposto municipal sobre as transmissões onerosas de imóveis e imposto municipal sobre imóveis, no que respeita a bens imóveis destinados direta e imediatamente à realização dos fins estatutários da pessoa coletiva com estatuto de utilidade pública;\n\niii) Imposto sobre o rendimento das pessoas coletivas;\n\niv) Custas processuais;\n\nv) Taxa de exploração da Direção-Geral de Energia e Geologia e contribuição para o audiovisual, no que respeita a bens imóveis destinados à realização dos fins estatutários da pessoa coletiva;\n\nvi) Taxas associadas a espetáculos e eventos públicos promovidos pela pessoa coletiva com estatuto de utilidade pública, desde que tal não impeça, falseie ou restrinja, de forma sensível, a concorrência, no todo ou em parte, no mercado relevante correspondente;\n\nvii) Taxa pela publicação das alterações aos respetivos estatutos no sítio na Internet de acesso público onde são feitas as publicações obrigatórias previstas na lei;\n\nc) Tarifas e tarifários especiais, nos termos e condições da legislação respetiva, designadamente:\n\ni) Tarifas transitórias aplicáveis aos fornecimentos de eletricidade praticadas pelo comercializador de último recurso, no que respeita a bens imóveis destinados à realização dos fins estatutários da pessoa coletiva;\n\nii) Tarifa especial nos transportes públicos de passageiros operados por entidades que integrem o setor público empresarial ou a quem tenha sido concessionada a exploração do serviço de transporte, nos termos que vierem a ser definidos por portaria do membro do Governo responsável pela área das infraestruturas e da habitação, para os titulares dos órgãos sociais da pessoa coletiva com estatuto de utilidade pública;\n\niii) Tarifas ou tarifários especialmente reduzidos, a aplicar pelas entidades de gestão coletiva do direito de autor e dos direitos conexos, nos termos do n.º 5 do artigo 38.º da Lei n.º 26/2015, de 14 de abril;\n\nd) Isenção de taxas de publicação de quaisquer avisos no Portal da Justiça;\n\ne) Outros direitos e benefícios previstos na lei ou em regulamento.\n\n2 - Nos termos e condições previstos no Código das Expropriações, aprovado em anexo à Lei n.º 168/99, de 18 de setembro, pode ser declarada a utilidade pública, com caráter de urgência, das expropriações necessárias para que as pessoas coletivas com estatuto de utilidade pública prossigam os seus fins estatutários."
+  },
+  "165089806": {
+   "fragment_id": "165042323",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deveres\n\n1 - As pessoas coletivas com estatuto de utilidade pública têm o dever de:\n\na) Manter o preenchimento dos requisitos necessários para a atribuição do estatuto de utilidade pública, nos termos previstos no artigo 8.º;\n\nb) Comunicar anualmente à SGPCM as contas do exercício, bem como os demais documentos de prestação de contas previstos na lei relativos a cada exercício anual, no prazo de seis meses a contar da data do encerramento desse exercício;\n\nc) Apresentar à SGPCM um relatório das atividades realizadas no exercício anual referido na alínea anterior, estabelecendo uma articulação com os fins de interesse geral, regional ou local que prosseguem, no prazo referido na alínea anterior;\n\nd) Tratando-se de associações ou cooperativas às quais seja aplicável o disposto no artigo 7.º, comunicar anualmente à SGPCM o seu número de associados ou cooperadores, no prazo referido na alínea b);\n\ne) Disponibilizar permanentemente na sua página pública a lista dos titulares dos órgãos sociais em funções, com indicação do início e do termo dos respetivos mandatos;\n\nf) Dar conhecimento à SGPCM das alterações aos estatutos ou regulamentos internos, no prazo de três meses após a correspondente alteração;\n\ng) Manter registos, incluindo documentos contabilísticos, e conservar os originais dos contratos e demais atos jurídicos e documentos, durante, no mínimo, cinco anos, que comprovem que a pessoa coletiva com estatuto de utilidade pública reúne os requisitos referidos nas alíneas b) e c) do n.º 1 do artigo 8.º;\n\nh) Prestar todas as informações e disponibilizar todos os documentos solicitados por quaisquer entidades públicas com competências para o efeito e colaborar com as entidades competentes para o acompanhamento da atividade e fiscalização do cumprimento dos deveres pela pessoa coletiva com estatuto de utilidade pública;\n\ni) Colaborar com a administração central, regional e local na prestação de serviços ao seu alcance e, mediante acordo, na cedência das suas instalações para a realização de atividades afins;\n\nj) Assegurar a transparência da gestão através da possibilidade de acesso aos documentos relativos à sua gestão financeira e patrimonial a quem demonstrar ser titular de um interesse direto, pessoal, legítimo e constitucionalmente protegido, aplicando-se subsidiariamente, com as adaptações necessárias, o regime de acesso aos documentos administrativos, aprovado pela Lei n.º 26/2016, de 22 de agosto.\n\n2 - O disposto no número anterior não prejudica a aplicação, às fundações com estatuto de utilidade pública, do disposto nos artigos 9.º a 11.º da Lei-Quadro das Fundações, aprovada em anexo à Lei n.º 24/2012, de 9 de julho."
+  },
+  "165089807": {
+   "fragment_id": "165042324",
+   "type": 11,
+   "heading": "Artigo 13.º — Independência e autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Independência e autonomia\n\nAs pessoas coletivas a quem seja atribuído o estatuto de utilidade pública têm o direito de livremente elaborar, aprovar e modificar os seus estatutos, eleger os seus órgãos sociais, aprovar os seus planos de atividades e administrar o seu património, sem prejuízo das competências de acompanhamento e fiscalização previstos na presente lei-quadro ou em disposições que lhes sejam especificamente aplicáveis."
+  },
+  "165089808": {
+   "fragment_id": "165042325",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime de funções nos órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime de funções nos órgãos sociais\n\nA possibilidade de exercício de funções remuneradas nos órgãos sociais das pessoas coletivas de utilidade pública, bem como os respetivos valores, deve constar expressamente dos respetivos estatutos ou ser objeto de deliberação da assembleia geral, no caso das associações e cooperativas, e do órgão de administração, no caso das fundações."
+  },
+  "165089809": {
+   "fragment_id": "165042326",
+   "type": 11,
+   "heading": "Artigo 15.º — Transparência da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transparência da informação\n\nA divulgação de informação pública e a produção de informação estatística sobre todas as entidades a quem seja atribuído estatuto de utilidade pública são disponibilizadas através do portal ePortugal.gov.pt."
+  },
+  "165089810": {
+   "fragment_id": "165042327",
+   "type": 1,
+   "heading": "Capítulo IV — Procedimentos administrativos de atribuição, renovação e cessação do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Procedimentos administrativos de atribuição, renovação e cessação do estatuto de utilidade pública"
+  },
+  "165089811": {
+   "fragment_id": "165042328",
+   "type": 8,
+   "heading": "Secção I — Procedimento de atribuição e renovação do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Procedimento de atribuição e renovação do estatuto"
+  },
+  "165089812": {
+   "fragment_id": "165042329",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência\n\n1 - Compete ao Primeiro-Ministro, com faculdade de delegação:\n\na) A atribuição, a renovação e a revogação do estatuto de utilidade pública;\n\nb) A atribuição, a renovação e a revogação do estatuto de utilidade pública das representações permanentes de pessoas coletivas estrangeiras;\n\nc) A atribuição, a renovação e a revogação do estatuto de utilidade pública das representações permanentes em Portugal de organizações internacionais que desenvolvam os seus fins em território nacional.\n\n2 - Compete à SGPCM a instrução dos pedidos de atribuição e renovação do estatuto de utilidade pública ao abrigo do número anterior.\n\n3 - Compete aos governos regionais a atribuição, a renovação e a revogação do estatuto de utilidade pública de pessoas coletivas que exerçam a sua atividade em exclusivo na respetiva região autónoma."
+  },
+  "165089813": {
+   "fragment_id": "165042330",
+   "type": 11,
+   "heading": "Artigo 17.º — Procedimento de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Procedimento de atribuição\n\n1 - O procedimento administrativo de atribuição do estatuto de utilidade pública é regulado por portaria do membro do Governo responsável pela área da Presidência do Conselho de Ministros, nos termos dos números seguintes.\n\n2 - A atribuição do estatuto de utilidade pública depende de iniciativa particular.\n\n3 - As entidades que requeiram o estatuto de utilidade pública podem juntar um parecer circunstanciado e fundamentado de uma entidade pública com atribuições no setor de atividade em que se enquadrem os fins principais da requerente que ateste a sua cooperação com a administração, bem como juntar outros pareceres de outras entidades públicas ou privadas relevantes do setor de atividade que atestem os benefícios para a sociedade dos fins por si prosseguidos.\n\n4 - O disposto no número anterior não prejudica a possibilidade de o órgão instrutor solicitar os pareceres que considerar necessários a entidades públicas ou privadas durante a fase de instrução.\n\n5 - A fase da instrução deve prever um despacho de convite ao aperfeiçoamento e um despacho de indeferimento liminar, ambos da competência do órgão instrutor.\n\n6 - Caso o procedimento cesse por indeferimento liminar, o requerente só pode voltar a requerer a atribuição do estatuto de utilidade pública passado um ano da decisão de indeferimento.\n\n7 - O prazo para a decisão é de 120 dias, contados após a apresentação do requerimento de atribuição do estatuto ou do requerimento aperfeiçoado, se a este houver lugar nos termos do n.º 5."
+  },
+  "165089814": {
+   "fragment_id": "165042331",
+   "type": 11,
+   "heading": "Artigo 18.º — Duração do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Duração do estatuto\n\n1 - O estatuto de utilidade pública é atribuído por dez anos.\n\n2 - Em casos excecionais, mediante pedido devidamente fundamentado do requerente, a duração do estatuto pode ser atribuída:\n\na) Por até 15 anos, quando assim o determinem o excecional impacto e relevo sociais das atividades de interesse geral prosseguidas pelo requerente; ou\n\nb) Por até 20 anos, em função da duração de determinado projeto específico a cargo do requerente, procedendo-se, ao fim de 15 anos, a uma reavaliação dos pressupostos para a respetiva manutenção."
+  },
+  "165089815": {
+   "fragment_id": "165042332",
+   "type": 11,
+   "heading": "Artigo 19.º — Procedimento de renovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Procedimento de renovação\n\n1 - O estatuto de utilidade pública é suscetível de renovações sucessivas, por iguais períodos.\n\n2 - O procedimento administrativo de renovação do estatuto de utilidade pública é regulado pela portaria a que se refere o n.º 1 do artigo 17.º, nos termos dos números seguintes.\n\n3 - O pedido de renovação do estatuto de utilidade pública deve ser apresentado entre um ano e seis meses antes do respetivo termo.\n\n4 - Caso o pedido não seja apresentado com a antecedência prevista no número anterior, o estatuto caduca, uma vez decorrido o seu prazo de duração, e o requerente fica sujeito ao regime do procedimento de atribuição do estatuto de utilidade pública.\n\n5 - A fase da instrução deve prever um despacho de convite ao aperfeiçoamento e um despacho de indeferimento liminar, ambos da competência do órgão instrutor.\n\n6 - Quando o pedido referido no n.º 2 não tiver decisão final no prazo previsto no artigo 128.º do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, ocorre deferimento tácito do mesmo, tendo o estatuto de utilidade pública duração idêntica ao do imediatamente anterior.\n\n7 - Para efeitos de renovação do estatuto a SGPCM notifica o titular do estatuto um ano antes do prazo estipulado no n.º 3."
+  },
+  "165089816": {
+   "fragment_id": "165042333",
+   "type": 8,
+   "heading": "Secção II — Procedimento de cessação do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento de cessação do estatuto"
+  },
+  "165089817": {
+   "fragment_id": "165042334",
+   "type": 11,
+   "heading": "Artigo 20.º — Cessação do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Cessação do estatuto\n\n1 - Sem prejuízo do disposto no capítulo vi, o estatuto de utilidade pública cessa:\n\na) Com a extinção da pessoa coletiva a quem tenha sido atribuído;\n\nb) Por caducidade, decorridos os prazos referidos no artigo 18.º;\n\nc) Por revogação, na sequência de procedimento dirigido à averiguação de uma das situações referidas no artigo seguinte.\n\n2 - A declaração de cessação do estatuto de utilidade pública é antecedida de procedimento instrutório no qual se demonstre a ocorrência dos fundamentos nele previstos, dela cabendo recurso nos termos gerais."
+  },
+  "165089818": {
+   "fragment_id": "165042335",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação do estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação do estatuto\n\n1 - Constituem fundamentos suscetíveis de determinar a revogação do estatuto de utilidade pública:\n\na) O não preenchimento superveniente, por parte da pessoa coletiva, de algum dos requisitos para a atribuição do estatuto de utilidade pública referidos no artigo 8.º;\n\nb) A violação grave ou reiterada dos deveres referidos no artigo 12.º;\n\nc) A prestação de falsas declarações.\n\n2 - Para efeitos da alínea b) do número anterior, constitui violação grave o desvio de fins da pessoa coletiva, e violação reiterada o incumprimento, em dois anos seguidos ou três interpolados, dentro do período total de validade do estatuto de utilidade pública, dos deveres previstos nas alíneas b) a e) do n.º 1 do artigo 12.º\n\n3 - O incumprimento dos deveres previstos nas alíneas b) a e) do n.º 1 do artigo 12.º pode ser sanado mediante apresentação ou disponibilização dos elementos em falta, não contando, nesse caso, para efeitos do disposto no número anterior.\n\n4 - As pessoas coletivas cujo estatuto de utilidade pública tenha sido revogado com fundamento na alínea a) do n.º 1 apenas podem voltar a requerer a atribuição do mesmo passado um ano da decisão de revogação.\n\n5 - As pessoas coletivas cujo estatuto de utilidade pública tenha sido revogado com fundamento nas alíneas b) ou c) do n.º 1 apenas podem voltar a requerer a atribuição do mesmo passados cinco anos da decisão de revogação.\n\n6 - No caso de cessação do estatuto de utilidade pública de uma associação inscrita no registo comercial, é promovida, oficiosa e gratuitamente, a inscrição de cancelamento do registo comercial da associação em causa, com fundamento na perda do estatuto, sem prejuízo da manutenção da sua inscrição no ficheiro central de pessoas coletivas.\n\n7 - Para efeitos do disposto no número anterior, a comunicação da cessação do estatuto aos serviços de registo é efetuada através da Plataforma de Interoperabilidade da Administração Pública, nos termos a definir por protocolo a celebrar entre a Agência para a Modernização Administrativa, I. P., e o Instituto dos Registos e do Notariado, I. P."
+  },
+  "165089819": {
+   "fragment_id": "165042336",
+   "type": 8,
+   "heading": "Secção III — Diligências comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Diligências comuns"
+  },
+  "165089820": {
+   "fragment_id": "165042337",
+   "type": 11,
+   "heading": "Artigo 22.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Publicidade\n\n1 - Sem prejuízo do disposto no número seguinte, as decisões de atribuição, renovação e cessação do estatuto de utilidade pública são objeto de publicação na 2.ª série do Diário da República.\n\n2 - As decisões de atribuição, renovação e cessação do estatuto de utilidade pública de pessoas coletivas que exerçam a sua atividade em exclusivo numa região autónoma são também objeto de publicação no jornal oficial da respetiva região autónoma."
+  },
+  "165089821": {
+   "fragment_id": "165042338",
+   "type": 11,
+   "heading": "Artigo 23.º — Portal do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Portal do estatuto de utilidade pública\n\nOs procedimentos de atribuição, gestão, renovação e cessação do estatuto de utilidade pública são disponibilizados através do portal ePortugal.gov.pt ou dos correspondentes portais da respetiva região autónoma, quando existirem."
+  },
+  "165089822": {
+   "fragment_id": "165042339",
+   "type": 11,
+   "heading": "Artigo 24.º — Comunicação de informações à Autoridade Tributária e Aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comunicação de informações à Autoridade Tributária e Aduaneira\n\nAs informações relativas à atribuição, renovação e revogação do estatuto de utilidade pública, incluindo nome, número de identificação fiscal, setor de atuação, data de produção de efeitos e duração do estatuto, são transmitidas à Autoridade Tributária e Aduaneira (AT), nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da Presidência do Conselho de Ministros, das finanças e da modernização do Estado e da Administração Pública."
+  },
+  "165089823": {
+   "fragment_id": "165042340",
+   "type": 1,
+   "heading": "Capítulo V — Regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regimes especiais"
+  },
+  "165089824": {
+   "fragment_id": "165042341",
+   "type": 11,
+   "heading": "Artigo 25.º — Regime aplicável às organizações não governamentais de ambiente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regime aplicável às organizações não governamentais de ambiente\n\n1 - As organizações não governamentais de ambiente (ONGA) carecem de três anos de efetiva e relevante atividade e registo ininterrupto junto da Agência Portuguesa do Ambiente, I. P. (APA, I. P.), para requererem a atribuição do estatuto de utilidade pública.\n\n2 - Nos termos do n.º 4 do artigo 17.º, deve ser requerido parecer à APA, I. P.\n\n3 - A suspensão ou anulação do registo junto da APA, I. P., determina a cessação do estatuto de utilidade pública.\n\n4 - Não se aplica às ONGA o disposto nas alíneas b), c), d) e i) do n.º 1 do artigo 12.º"
+  },
+  "165089825": {
+   "fragment_id": "165042342",
+   "type": 11,
+   "heading": "Artigo 26.º — Regime aplicável às associações de utilizadores do domínio público hídrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regime aplicável às associações de utilizadores do domínio público hídrico\n\n1 - A atribuição do estatuto de utilidade pública a associações de utilizadores do domínio público hídrico devidamente reconhecidas e registadas nos termos do Decreto-Lei n.º 348/2007, de 19 de outubro, que aprova o regime das associações de utilizadores do domínio público hídrico, carece de parecer favorável da APA, I. P.\n\n2 - A revogação do reconhecimento de uma associação como associação de utilizadores do domínio público hídrico pela APA, I. P., nos termos do Decreto-Lei n.º 348/2007, de 19 de outubro, determina a caducidade da declaração da sua utilidade pública."
+  },
+  "165089826": {
+   "fragment_id": "165042343",
+   "type": 1,
+   "heading": "Capítulo VI — Atribuição do estatuto de utilidade pública por ato legislativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Atribuição do estatuto de utilidade pública por ato legislativo"
+  },
+  "165089827": {
+   "fragment_id": "165042344",
+   "type": 11,
+   "heading": "Artigo 27.º — Procedimento de atribuição legal do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Procedimento de atribuição legal do estatuto de utilidade pública\n\n1 - A criação de novas categorias de pessoas coletivas às quais seja atribuído o estatuto de utilidade pública por ato legislativo é excecional, podendo apenas ter lugar quando esteja em causa prossecução fundamentada e permanente de fins de interesse geral, regional ou local que se traduza na cooperação obrigatória com a Administração Pública.\n\n2 - A atribuição do estatuto de utilidade pública por ato legislativo nos termos referidos no número anterior é sempre precedida dos seguintes procedimentos:\n\na) Apresentação de estudo sobre o cumprimento dos requisitos previstos no número anterior, bem como sobre o seu impacte financeiro e no setor em causa;\n\nb) Audição das associações representativas do setor, quando existam;\n\nc) Submissão a consulta pública, por um período não inferior a 60 dias, do projeto de diploma, acompanhado do estudo referido na alínea a);\n\nd) Identificação do regime constante dos artigos seguintes que lhe deva ser aplicável;\n\ne) Atualização obrigatória das listas constantes dos anexos à presente lei-quadro."
+  },
+  "165089828": {
+   "fragment_id": "165042345",
+   "type": 11,
+   "heading": "Artigo 28.º — Atribuição legal plena do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Atribuição legal plena do estatuto de utilidade pública\n\n1 - É aplicável às categorias de pessoas coletivas constantes do anexo i à presente lei-quadro, e da qual faz parte integrante, às quais é atribuído o estatuto de utilidade pública sem necessidade de procedimento administrativo:\n\na) O disposto no capítulo iii, exceto o disposto na alínea a) do n.º 1 do artigo 12.º;\n\nb) O disposto no capítulo vii, exceto no que respeita à revogação do estatuto.\n\n2 - A aplicação do disposto nos capítulos iii e vii nos termos do número anterior não dá lugar, em caso algum, a perda de direitos ou a duplicação de obrigações, prevalecendo, em caso de sobreposição, o regime especial aplicável a cada uma das entidades abrangidas pelo anexo i à presente lei-quadro.\n\n3 - As pessoas coletivas referidas no número anterior não podem requerer a atribuição do estatuto de utilidade pública nos termos gerais."
+  },
+  "165089829": {
+   "fragment_id": "165042346",
+   "type": 11,
+   "heading": "Artigo 29.º — Atribuição legal do estatuto de utilidade pública sujeito a aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Atribuição legal do estatuto de utilidade pública sujeito a aceitação\n\n1 - Às categorias de pessoas coletivas constantes do anexo ii à presente lei-quadro, e da qual faz parte integrante, que não recusem os respetivos direitos, apenas é aplicável o disposto no artigo 11.º\n\n2 - As pessoas coletivas referidas no número anterior não podem requerer a atribuição do estatuto de utilidade pública nos termos gerais."
+  },
+  "165089830": {
+   "fragment_id": "165042347",
+   "type": 11,
+   "heading": "Artigo 30.º — Atribuição parcial do estatuto de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Atribuição parcial do estatuto de utilidade pública\n\n1 - Às categorias de pessoas coletivas constantes do anexo iii à presente lei-quadro, e da qual faz parte integrante, apenas é aplicável o disposto no artigo 11.º, exceto no que respeita ao direito previsto na alínea a) do n.º 1 do artigo 11.º\n\n2 - As pessoas coletivas abrangidas pelo número anterior podem requerer a atribuição do estatuto de utilidade pública nos termos gerais."
+  },
+  "165089831": {
+   "fragment_id": "165042348",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime aplicável a pessoas coletivas concretas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regime aplicável a pessoas coletivas concretas\n\n1 - Às pessoas coletivas constantes do anexo iv à presente lei-quadro, e da qual faz parte integrante, bem como a quaisquer outras pessoas coletivas que por lei sejam qualificadas como pessoas coletivas de utilidade pública administrativa, apenas é aplicável o disposto no artigo 11.º, sem prejuízo do disposto nos respetivos regimes, no que for mais favorável.\n\n2 - As pessoas coletivas referidas no número anterior não podem requerer a atribuição do estatuto de utilidade pública nos termos gerais."
+  },
+  "165089832": {
+   "fragment_id": "165042349",
+   "type": 1,
+   "heading": "Capítulo VII — Fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Fiscalização e sanções"
+  },
+  "165089833": {
+   "fragment_id": "165042350",
+   "type": 11,
+   "heading": "Artigo 32.º — Acompanhamento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Acompanhamento e fiscalização\n\n1 - O acompanhamento da atividade e a fiscalização do cumprimento dos deveres referidos no artigo 12.º que impendem sobre as pessoas coletivas a quem tenha sido atribuído estatuto de utilidade pública constitui atribuição da SGPCM, sem prejuízo das competências da Inspeção-Geral de Finanças e em colaboração com aquela entidade.\n\n2 - O acompanhamento da atividade e a fiscalização do cumprimento dos deveres que impendem sobre as pessoas coletivas a quem tenha sido atribuído estatuto de utilidade pública ao abrigo do Decreto-Lei n.º 460/77, de 7 de novembro, ou por meio de ato legislativo, constitui também atribuição da SGPCM.\n\n3 - As atribuições de acompanhamento e de fiscalização referidas no presente artigo incluem as competências para determinar a realização de inquéritos, sindicâncias, inspeções e auditorias.\n\n4 - Para efeitos de acompanhamento da atividade e fiscalização das pessoas coletivas abrangidas pela presente lei-quadro, os mecanismos adequados à articulação, informação e cooperação institucional entre a SGPCM e outros serviços, organismos, entidades e estruturas são, quando aplicável, definidos por portaria dos respetivos membros do Governo a quem caiba o poder de direção, tutela ou superintendência, sem prejuízo das respetivas atribuições."
+  },
+  "165089834": {
+   "fragment_id": "165042351",
+   "type": 11,
+   "heading": "Artigo 33.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Regime sancionatório\n\n1 - As irregularidades apuradas pela SGPCM na sequência de um procedimento de acompanhamento ou de fiscalização da atividade das pessoas coletivas com estatuto de utilidade pública são notificadas ao órgão competente para a revogação do estatuto de utilidade pública, para efeitos do n.º 2 do artigo 20.º\n\n2 - A SGPCM notifica a AT, nos termos a definir pela portaria a que se refere o artigo 24.º, e as demais entidades competentes, para que, nos casos de violação grave ou reiterada dos deveres referidos no artigo 12.º ou de prestação de falsas declarações, iniciem procedimento com vista à restituição, por parte da pessoa coletiva, das importâncias correspondentes às isenções e benefícios fiscais que lhe foram atribuídos.\n\n3 - O disposto nos números anteriores não prejudica qualquer outro tipo de responsabilidade em que a pessoa coletiva ou os titulares dos seus órgãos sociais possam incorrer."
+  },
+  "165089835": {
+   "fragment_id": "165042352",
+   "type": 11,
+   "heading": "Artigo 34.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Contraordenações\n\n1 - Constitui contraordenação punível com coima de 50 (euro) a 1000 (euro), no caso de pessoas singulares, e de 500 (euro) a 10 000 (euro), no caso de pessoas coletivas, a utilização de designação de utilidade pública falsa, bem como a utilização indevida da mesma com o fim de enganar autoridade pública, de obter para si ou para outra pessoa benefício ilegítimo ou de prejudicar interesses de outra pessoa.\n\n2 - A tentativa é punível.\n\n3 - O produto das coimas aplicadas no âmbito da contraordenação prevista no presente artigo reverte em:\n\na) 50 % para o Estado;\n\nb) 50 % para a SGPCM.\n\n4 - O produto das coimas aplicadas nas regiões autónomas constitui receita própria das mesmas.\n\n5 - O disposto nos números anteriores não prejudica qualquer outro tipo de responsabilidade em que a pessoa coletiva ou os titulares dos seus órgãos sociais possam incorrer."
+  },
+  "165089836": {
+   "fragment_id": "165042353",
+   "type": 11,
+   "heading": "Artigo 35.º — Instrução dos processos e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Instrução dos processos e aplicação das coimas\n\nCompete à SGPCM a instauração e instrução dos processos de contraordenação previstos na presente lei-quadro, bem como a aplicação das correspondentes coimas."
+  },
+  "165089837": {
+   "fragment_id": "165042354",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposição complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposição complementar"
+  },
+  "165089838": {
+   "fragment_id": "165042355",
+   "type": 11,
+   "heading": "Artigo 36.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Referências legais\n\nTodas as referências legais efetuadas nos anexos i, ii, iii e iv a atos legislativos específicos consideram-se feitas a qualquer ato legislativo que lhes suceda relativamente à mesma categoria de entidades."
+  },
+  "165089839": {
+   "fragment_id": "165042356",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\na) Casas do povo, a partir da sua constituição, nos termos do Decreto-Lei n.º 4/82, de 11 de janeiro.\n\nb) Instituições particulares de solidariedade social registadas nos termos regulamentados pelas respetivas portarias, nos termos do Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, na sua redação atual.\n\nc) Centros tecnológicos, a partir da sua constituição, nos termos do Decreto-Lei n.º 249/86, de 25 de agosto, na sua redação atual.\n\nd) Associações de imprensa regional legalmente constituídas à data da entrada em vigor do Decreto-Lei n.º 106/88, de 31 de março.\n\ne) Cooperativas de solidariedade social, nos termos da Lei n.º 101/97, de 13 de setembro.\n\nf) Organizações interprofissionais do setor agroalimentar de âmbito nacional reconhecidas nos termos da Lei n.º 123/97, de 13 de novembro.\n\ng) Organizações não governamentais de cooperação para o desenvolvimento registadas nos termos da Lei n.º 66/98, de 14 de outubro.\n\nh) Organizações interprofissionais da fileira florestal reconhecidas nos termos da Lei n.º 158/99, de 14 de setembro.\n\ni) Associações humanitárias de bombeiros, a partir da sua constituição, nos termos da Lei n.º 32/2007, de 13 de agosto, bem como as que, tendo sido constituídas anteriormente à entrada em vigor da referida lei, estão sujeitas ao regime dela constante.\n\nj) Organizações não governamentais das pessoas com deficiência registadas nos termos do Decreto-Lei n.º 106/2013, de 30 de julho.\n\nk) Associações mutualistas registadas nos termos do Código das Associações Mutualistas, aprovado pelo Decreto-Lei n.º 59/2018, de 2 de agosto, na sua redação atual."
+  },
+  "165089840": {
+   "fragment_id": "165042357",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\na) Confederações sindicais com assento na Comissão Permanente de Concertação Social do Conselho Económico e Social que não recusem a aplicação dos referidos direitos e benefícios.\n\nb) Confederações de empregadores com assento na Comissão Permanente de Concertação Social do Conselho Económico e Social que não recusem a aplicação dos referidos direitos e benefícios."
+  },
+  "165089841": {
+   "fragment_id": "165042358",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\na) Organizações não governamentais do ambiente previstas na Lei n.º 35/98, de 18 de julho, na sua redação atual.\n\nb) Associações representativas dos imigrantes e seus descendentes, previstas na Lei n.º 115/99, de 3 de agosto, e regulamentadas pelo Decreto-Lei n.º 75/2000, de 9 de maio, ambos na sua redação atual.\n\nc) Associações de pessoas com deficiência previstas na Lei n.º 127/99, de 20 de agosto, na sua redação atual.\n\nd) Estruturas associativas de defesa do património cultural previstas no artigo 10.º da Lei n.º 107/2001, de 8 de setembro.\n\ne) Associações de jovens previstas na Lei n.º 23/2006, de 23 de junho, na sua redação atual.\n\nf) A Liga dos Bombeiros Portugueses e as federações de associações humanitárias de bombeiros previstas na Lei n.º 32/2007, de 13 de agosto.\n\ng) Entidades instituidoras de estabelecimentos de ensino superior privados, sem fins lucrativos, previstas no artigo 33.º da Lei n.º 62/2007, de 10 de setembro, relativamente às atividades conexas com a criação e o funcionamento desses estabelecimentos, desde que o interesse público desses estabelecimentos tenha sido reconhecido e não seja revogado nos termos do mesmo artigo.\n\nh) Escolas particulares e cooperativas que se enquadrem nos objetivos do sistema educativo e formativo português e se encontrem em situação de regular funcionamento, bem como as sociedades, associações ou fundações que tenham como finalidade dominante a criação ou manutenção de estabelecimentos de ensino particular e cooperativo, nos termos do Decreto-Lei n.º 152/2013, de 4 de novembro, que aprova o Estatuto do Ensino Particular e Cooperativo de nível não superior.\n\ni) Escolas profissionais privadas que se enquadrem nos objetivos do sistema educativo e formativo português e se encontrem em situação de regular funcionamento, bem como as sociedades, associações ou fundações que tenham como finalidade dominante a criação ou manutenção de escolas profissionais, nos termos do Decreto-Lei n.º 92/2014, de 20 de junho, na sua redação atual, exceto se comprovadas as irregularidades a que se refere o n.º 3 do artigo 63.º do referido decreto-lei.\n\nj) Entidades de gestão coletiva do direito de autor e dos direitos conexos constituídas em Portugal e registadas nos termos da Lei n.º 26/2015, de 14 de abril, na sua redação atual.\n\nk) Associações de mulheres previstas na Lei n.º 107/2015, de 25 de agosto."
+  },
+  "165089842": {
+   "fragment_id": "165042359",
+   "type": 14,
+   "heading": "Anexo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV\n\na) Instituto Marquês da Vale Flor, cujo estatuto de utilidade pública foi atribuído pelo Decreto n.º 38351, de 1 de agosto de 1951.\n\nb) Fundação Ricardo do Espírito Santo Silva, instituída pelo Decreto-Lei n.º 39190, de 27 de abril de 1953.\n\nc) Fundação Calouste Gulbenkian, constituída pelo Decreto-Lei n.º 40690, de 18 de julho de 1956.\n\nd) Fundação Amélia da Silva de Melo, cujos estatutos foram aprovados pelo Decreto-Lei n.º 45954, de 7 de outubro de 1964.\n\ne) Cofre de Previdência dos Funcionários e Agentes do Estado, cujos estatutos foram aprovados pelo Decreto-Lei n.º 465/76, de 11 de junho.\n\nf) Academia das Ciências de Lisboa, cujos estatutos foram aprovados pelo Decreto-Lei n.º 5/78, de 12 de janeiro.\n\ng) Fundação Edgar Cardoso, instituída pelo Decreto n.º 163/79, de 31 de dezembro.\n\nh) Fundação Luso-Americana para o Desenvolvimento, criada pelo Decreto-Lei n.º 168/85, de 20 de maio.\n\ni) Fundação de Serralves, instituída pelo Decreto-Lei n.º 240-A/89, de 27 de julho.\n\nj) Fundação Escola Portuguesa de Macau, criada pelo Decreto-Lei n.º 89-B/98, de 9 de abril.\n\nk) Universidade Católica Portuguesa, cujo enquadramento foi estabelecido pelo Decreto-Lei n.º 128/90, de 17 de abril.\n\nl) Fundação Arpad Szénes-Vieira da Silva, instituída pelo Decreto-Lei n.º 149/90, de 10 de maio.\n\nm) Fundação Centro Cultural de Belém, criada pelo Decreto-Lei n.º 361/91, de 3 de outubro, e renomeada pelo Decreto-Lei n.º 391/99, de 30 de setembro.\n\nn) Fundação Aga Khan, criada pelo Decreto-Lei n.º 27/96, de 30 de março.\n\no) Fundação para a Proteção e Gestão Ambiental das Salinas do Samouco, instituída pelo Decreto-Lei n.º 306/2000, de 28 de novembro.\n\np) Fundação Museu Nacional Ferroviário Armando Ginestal Machado, instituída pelo Decreto-Lei n.º 38/2005, de 17 de fevereiro.\n\nq) Fundação Casa da Música, criada pelo Decreto-Lei n.º 18/2006, de 26 de janeiro.\n\nr) Fundação de Arte Moderna e Contemporânea - coleção Berardo, criada pelo Decreto-Lei n.º 164/2006, de 9 de agosto.\n\ns) Fundação Museu do Douro, criada pelo Decreto-Lei n.º 70/2006, de 23 de março.\n\nt) Cruz Vermelha Portuguesa, cujo regime jurídico foi aprovado pelo Decreto-Lei n.º 281/2007, de 7 de agosto.\n\nu) Agência de Avaliação e Acreditação do Ensino Superior, criada pelo Decreto-Lei n.º 369/2007, de 5 de novembro.\n\nv) Fundação Martins Sarmento, criada pelo Decreto-Lei n.º 24/2008, de 8 de fevereiro.\n\nw) Fundação Inatel, instituída pelo Decreto-Lei n.º 106/2008, de 25 de junho.\n\nx) Santa Casa da Misericórdia de Lisboa, cujos estatutos foram aprovados pelo Decreto-Lei n.º 235/2008, de 3 de dezembro.\n\ny) Fundação Mata do Buçaco, criada pelo Decreto-Lei n.º 120/2009, de 19 de maio.\n\nz) SUCH - Serviço de Utilização Comum dos Hospitais, cujo regime foi aprovado em anexo ao Decreto-Lei n.º 209/2015, de 25 de setembro.\n\naa) Cooperativa António Sérgio para a Economia Social - Cooperativa de Interesse Público de Responsabilidade Limitada, cujo estatuto de utilidade pública é atribuído pelo Decreto-Lei n.º 39/2017, de 4 de abril.\n\nbb) Startup Portugal - Associação Portuguesa para a Promoção do Empreendedorismo, cujo regime jurídico foi aprovado pelo Decreto-Lei n.º 33/2019, de 4 de março.\n\n114311893"
+  }
+ }
+}

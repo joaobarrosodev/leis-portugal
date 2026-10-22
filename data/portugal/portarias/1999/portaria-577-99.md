@@ -1,0 +1,321 @@
+---
+schema_version: '1.0'
+id: pt:dre:345522:por
+title: Portaria n.º 577/99
+short_title: null
+summary: Aprova o Regulamento do Concurso Local para Ingresso no Curso de Ciências da Educação ministrado na Faculdade de
+  Psicologia e de Ciências da Educação da Universidade de Coimbra
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 577/99
+official_date: null
+publication_date: '1999-07-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 174/1999, Série I-B de 1999-07-28
+  number: '174'
+  series: I
+  supplement: null
+  pages: 4786 - 4788
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/07/174b00/47864788.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/577/1999/07/28/p/dre/pt/html
+  oj: null
+  dre: '345522'
+  dre_path: /dr/detalhe/portaria/577-1999-345522
+  internal: pt:dre:345522:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-1999-345522
+  metadata_url: https://data.dre.pt/eli/port/577/1999/07/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-1999-345522
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-07-11T00:00:00Z'
+integrity:
+  source_sha256: f40ab2ffb89d14184b9fe315c99892e56f310c85bf613adca77f6b20f5a87c5b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-577-345522.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Curso de Ciências da Educação
+- Concurso Local de Acesso
+- Faculdade de Psicologia e de Ciências da Educação
+- Coimbra
+- Regulamento
+- Ensino Superior
+- Universidade de Coimbra
+relationships:
+- type: amended_by
+  target: pt:dre:300825:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/147-a/1999/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/147-a/1999/02/27/p/dre
+article_structure:
+  article_count: 22
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 577/99
+
+de 28 de Julho
+
+Considerando o disposto no n.º 3 do artigo 27.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março;
+
+Considerando o disposto na [Portaria n.º 147-A/99](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-1999-676660), de 27 de Fevereiro;
+
+Ouvida a Comissão Nacional de Acesso ao Ensino Superior (CNAES):
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º É aprovado o Regulamento do Concurso Local para Ingresso no Curso de Ciências da Educação ministrado na Faculdade de Psicologia e de Ciências da Educação da Universidade de Coimbra, a que se refere o n.º 3 do artigo 27.º do citado decreto-lei, cujo texto se publica em anexo a esta portaria.
+
+2.º O texto referido no número anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.
+
+3.º Todas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.
+
+4.º Esta portaria entra em vigor no dia imediato ao da sua publicação.
+
+Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 14 de Julho de 1999.
+
+REGULAMENTO DO CONCURSO LOCAL PARA INGRESSO NO CURSO DE CIÊNCIAS DA EDUCAÇÃO DA FACULDADE DE PSICOLOGIA E DE CIÊNCIAS DA EDUCAÇÃO DA UNIVERSIDADE DE COIMBRA.
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente Regulamento disciplina o concurso local para ingresso no curso de Ciências da Educação ministrado na Faculdade de Psicologia e de Ciências da Educação da Universidade de Coimbra, a que se refere o n.º 3 do artigo 27.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, para a matrícula e inscrição no ano lectivo de 1999-2000.
+
+###### Artigo 2.º — Fases
+
+Dadas as características especiais que justificam a realização deste concurso local, o acesso ao curso tem uma fase de pré-selecção e uma fase de selecção.
+
+1 - Fase de pré-selecção:
+
+a) Esta fase consta da análise do currículo apresentado pelos candidatos, tomando em conta os seguintes elementos:
+
+a.1) Habilitações académicas e profissionais com as respectivas classificações;
+
+a.2) Experiência e actividades profissionais no domínio da educação, nomeadamente experiência docente, experiência em administração, gestão ou animação de escolas, experiência de formação inicial de profissionais e ou de formação contínua de profissionais;
+
+a.3) Formação contínua no domínio da educação;
+
+a.4) Comunicações apresentadas no âmbito de actividades científicas ou de formação;
+
+a.5) Trabalhos de investigação e obras publicadas;
+
+b) Os candidatos serão pré-seleccionados com base na análise do currículo.
+
+2 - Fase de selecção:
+
+a) Esta fase é constituída por uma prova escrita e, se necessário, por uma entrevista;
+
+b) A secretaria da Faculdade de Psicologia e de Ciências da Educação disponibiliza um documento com esclarecimentos sobre conteúdos programáticos, bibliografia e forma de apresentação da prova.
+
+###### Artigo 3.º — Validade dos concursos
+
+O concurso é válido apenas para o ano em que se realiza.
+
+###### Artigo 4.º — Condições para candidatura
+
+Para a candidatura ao concurso local o estudante deve ser titular de uma das seguintes habilitações:
+
+a) Curso de Educadores de Infância com o grau de bacharel ou equivalente ([Lei n.º 50/90](https://diariodarepublica.pt/dr/detalhe/lei/50-1990-574132), de 25 de Agosto);
+
+b) Professores do 1.º ciclo do ensino básico com o grau de bacharel ou equivalente ([Lei n.º 50/90](https://diariodarepublica.pt/dr/detalhe/lei/50-1990-574132), de 25 de Agosto);
+
+c) Professores dos 2.º e 3.º ciclos do ensino básico com o grau de bacharel ou equivalente;
+
+d) Curso de Serviço Social ministrado pelos institutos superiores de serviço social;
+
+e) Curso de bacharelato em Enfermagem;
+
+f) Outros cursos de bacharelato e de licenciatura relevantes na área da Educação/Formação.
+
+###### Artigo 5.º — Vagas
+
+As vagas para o concurso local são fixadas anualmente por portaria do Ministro da Educação, sob proposta da Faculdade de Psicologia e de Ciências da Educação da Universidade de Coimbra, e distribuem-se em número de vagas fixadas pelo estabelecimento de ensino, para cada grupo de candidatos titulares de iguais habilitações e divulgadas, antes do início da candidatura, naquela Faculdade.
+
+###### Artigo 6.º — Local e prazo de apresentação da candidatura
+
+1 - A candidatura é apresentada na Faculdade de Psicologia e de Ciências da Educação da Universidade de Coimbra, Rua do Colégio Novo, 3000 Coimbra.
+
+2 - O prazo para a realização da candidatura é fixado nos termos do artigo 22.º
+
+###### Artigo 7.º — Apresentação da candidatura
+
+Têm legitimidade para efectuar a apresentação da candidatura:
+
+a) O estudante;
+
+b) Um seu procurador bastante;
+
+c) A pessoa que demonstre exercer o poder paternal ou tutelar.
+
+###### Artigo 8.º — Instrução do processo de candidatura
+
+O processo de candidatura deve ser instruído com:
+
+a) Requerimento, em conformidade com a norma fornecida pela secretaria da Faculdade de Psicologia e de Ciências da Educação;
+
+b) Fotocópia simples do bilhete de identidade;
+
+c) Documento comprovativo da titularidade das habilitações de acesso com que se candidata;
+
+d) Curriculum vitae pormenorizado;
+
+e) Cópia de trabalhos de investigação e de obras publicadas referidos no currículo;
+
+f) Certificado comprovativo de cursos e ou de acções de formação indicados no currículo.
+
+###### Artigo 9.º — Indeferimento liminar
+
+1 - Serão liminarmente indeferidos os requerimentos que, embora reunindo as condições necessárias à candidatura ao curso, se encontrem numa das seguintes condições:
+
+a) Não estejam correctamente preenchidos nos termos do artigo 8.º;
+
+b) Sejam apresentados fora de prazo;
+
+c) Não sejam acompanhados da documentação necessária à sua completa instrução;
+
+d) Expressamente infrinjam alguma das regras fixadas pela presente portaria.
+
+2 - O indeferimento liminar compete ao conselho directivo da Faculdade.
+
+###### Artigo 10.º — Júri das provas do concurso
+
+1 - A organização das provas do concurso local é da competência de um júri, designado pelo reitor da Universidade de Coimbra, a quem compete, nomeadamente:
+
+a) Fixar os conteúdos das provas;
+
+b) Fixar os critérios de avaliação a adoptar;
+
+c) Fixar os critérios de selecção e de seriação dos candidatos;
+
+d) Dar execução às provas e proceder à sua apreciação.
+
+2 - Até 30 dias antes da realização das provas, o júri promoverá a afixação de edital, descrevendo o conteúdo das provas e os critérios de avaliação a adoptar.
+
+###### Artigo 11.º — Nota de candidatura
+
+Nos termos do artigo 26.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), a seriação dos candidatos é realizada com base numa nota de candidatura.
+
+###### Artigo 12.º — Seriação
+
+1 - A seriação dos candidatos é feita com base na nota de candidatura, calculada de acordo com a fórmula fixada e divulgada, antes do início da candidatura na Faculdade de Psicologia e de Ciências da Educação da Universidade de Coimbra.
+
+2 - A prova escrita será eliminatória no caso de ser classificada com nota inferior a 10 valores.
+
+###### Artigo 13.º — Colocação
+
+A colocação dos candidatos nas vagas fixadas é feita pela ordem decrescente da lista seriada, calculada nos termos do artigo 12.º
+
+###### Artigo 14.º — Desempate
+
+Sempre que dois ou mais candidatos em situação de empate, resultante da aplicação das regras de seriação a que se refere o artigo 12.º, disputem a última vaga ou o último conjunto de vagas do curso, são abertas tantas vagas adicionais quanto as necessárias para os admitir.
+
+###### Artigo 15.º — Competência
+
+As decisões sobre a candidatura a que se refere o presente Regulamento são da competência do órgão legal e estatutariamente competente da Faculdade de Psicologia e de Ciências da Educação da Universidade de Coimbra.
+
+###### Artigo 16.º — Resultado final
+
+O resultado final exprime-se através de uma das seguintes situações:
+
+a) Colocado;
+
+b) Não colocado;
+
+c) Excluído.
+
+###### Artigo 17.º — Comunicação da decisão
+
+1 - O resultado final é tornado público através de aviso afixado na Faculdade de Psicologia e de Ciências da Educação, no prazo previamente fixado nos termos do artigo 22.º
+
+2 - Das listas afixadas constam, relativamente a cada estudante que se tenha apresentado a concurso:
+
+a) Nome;
+
+b) Número e local de emissão do bilhete de identidade;
+
+c) Resultado final, com inclusão da nota de candidatura a que se refere o artigo 11.º
+
+3 - A menção da situação de excluído carece de ser acompanhada da respectiva fundamentação legal.
+
+###### Artigo 18.º — Reclamações
+
+1 - Do resultado final podem os candidatos apresentar reclamação fundamentada, no prazo fixado nos termos do artigo 22.º, mediante exposição dirigida ao órgão legal e estatutariamente competente da Faculdade.
+
+2 - A reclamação é entregue em mão no local onde o reclamante apresentou a candidatura ou enviada pelo correio em carta registada.
+
+3 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.
+
+4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas nos termos do número anterior são notificadas aos reclamantes através de carta registada, com aviso de recepção.
+
+###### Artigo 19.º — Matrícula e inscrição
+
+1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição, no prazo fixado nos termos do artigo 22.º
+
+2 - A colocação apenas tem efeito para o ano lectivo a que se refere, pelo que o direito à matrícula e inscrição caduca com o seu não exercício dentro do prazo fixado nos termos do artigo 22.º
+
+###### Artigo 20.º — Exclusão de candidatos
+
+1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que prestem falsas declarações.
+
+2 - A decisão a que se refere o número anterior é proferida pelo órgão legal e estatutariamente competente da Faculdade de Psicologia.
+
+###### Artigo 21.º — Comunicação à Direcção-Geral do Ensino Superior
+
+Findo o prazo de matrícula e inscrição, a Faculdade enviará à Direcção-Geral do Ensino Superior uma lista onde constem todos os admitidos, com indicação de nome e número de bilhete de identidade.
+
+###### Artigo 22.º — Prazos
+
+1 - Os prazos em que devem ser praticados os actos previstos no presente Regulamento são fixados pela Faculdade de Psicologia e de Ciências da Educação da Universidade de Coimbra, devendo ser tornados públicos quer através de aviso afixado naquela Faculdade, quer por meio da sua inclusão no guia do candidato.
+
+2 - É fixado o prazo de 12 de Julho a partir do qual se poderá dar início ao respectivo processo de candidatura ao concurso local.

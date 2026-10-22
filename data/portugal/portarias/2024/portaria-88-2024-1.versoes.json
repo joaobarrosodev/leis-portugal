@@ -1,0 +1,581 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:854635718:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-914316319",
+ "dre_path": "/dr/detalhe/portaria/88-2024-854635718",
+ "source_lastmod": "2025-04-11",
+ "versions": [
+  {
+   "date": "2024-03-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "914316148",
+    "914316149",
+    "914316150",
+    "914316151",
+    "914316152",
+    "914316153",
+    "914316154",
+    "914316155",
+    "914316156",
+    "914316157",
+    "914316158",
+    "914316159",
+    "914316160",
+    "914316161",
+    "914316162",
+    "914316163",
+    "914316164",
+    "914316165",
+    "914316166",
+    "914316167",
+    "914316168",
+    "914316169",
+    "914316170",
+    "914316171",
+    "914316172",
+    "914316173",
+    "914316174",
+    "914438375",
+    "914438376",
+    "914438377",
+    "914438378",
+    "914438379",
+    "914438380",
+    "914438382",
+    "914438383",
+    "914438384",
+    "914438385",
+    "914438386",
+    "914438387"
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:914375909:por",
+     "title": "Portaria n.º 164/2025/1",
+     "published": "2025-04-09",
+     "dre_path": "/dr/detalhe/portaria/164-2025-914375909"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo VI"
+   ],
+   "fragments": [
+    "914316148",
+    "914316149",
+    "914316150",
+    "914316151",
+    "914316152",
+    "914316153",
+    "914316154",
+    "914316155",
+    "914316156",
+    "914316157",
+    "914316158",
+    "914316159",
+    "914316160",
+    "914316161",
+    "914316162",
+    "914316163",
+    "914316164",
+    "914316165",
+    "914316166",
+    "914316167",
+    "914316168",
+    "914316169",
+    "914316170",
+    "914316171",
+    "914316172",
+    "914316173",
+    "914316174",
+    "914438375",
+    "914438376",
+    "914438377",
+    "914438438",
+    "914438379",
+    "914438380",
+    "914438381",
+    "914438467",
+    "914438468",
+    "914438384",
+    "914438385",
+    "914438386",
+    "914438469"
+   ]
+  },
+  {
+   "date": "2025-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:938108821:por",
+     "title": "Portaria n.º 326/2025/1",
+     "published": "2025-10-06",
+     "dre_path": "/dr/detalhe/portaria/326-2025-938108821"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "914316148",
+    "914316149",
+    "914316150",
+    "914316151",
+    "914316152",
+    "914316153",
+    "914316154",
+    "914316155",
+    "914316156",
+    "914316157",
+    "914316158",
+    "914316159",
+    "914316160",
+    "914316161",
+    "914316162",
+    "914316163",
+    "914316164",
+    "914316165",
+    "914316166",
+    "914316167",
+    "914316168",
+    "914316169",
+    "914316170",
+    "914316171",
+    "914316172",
+    "914316173",
+    "914316174",
+    "914438375",
+    "914438376",
+    "914438377",
+    "937938273",
+    "914438379",
+    "914438380",
+    "914438381",
+    "938213786",
+    "938213787",
+    "914438384",
+    "938213788",
+    "914438386",
+    "914438469"
+   ]
+  }
+ ],
+ "fragments": {
+  "914316148": {
+   "fragment_id": "914316320",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 88/2024/1\n\nde 11 de março\n\nO Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, estabeleceu o regime jurídico a que ficam sujeitos a abertura, a modificação e o funcionamento dos estabelecimentos prestadores de cuidados de saúde, qualquer que seja a sua denominação, natureza jurídica ou entidade titular da exploração.\n\nO n.º 1 do artigo 2.º do referido diploma legal estabelece que a abertura e funcionamento de um estabelecimento prestador de cuidados de saúde dependem da verificação dos requisitos técnicos de funcionamento aplicáveis a cada uma das tipologias, definidos por portaria do membro do Governo responsável pela área da saúde, sendo a mesma titulada por licença, no caso dos estabelecimentos prestadores de cuidados de saúde detidos por entidades privadas, e por declaração de conformidade, no caso de estabelecimentos detidos por pessoa coletiva pública ou que seja abrangida pelo artigo 13.º do Decreto-Lei n.º 138/2013, de 9 de outubro.\n\nNo que respeita às unidades de saúde cuja titularidade seja de instituições particulares de solidariedade social (IPSS) ou de instituições militares, o n.º 5 do artigo 2.º do referido decreto-lei determina que as condições de abertura e funcionamento bem como os termos da declaração de conformidade são definidos por portaria dos membros do Governo responsáveis pelas áreas da Defesa Nacional, da Segurança Social e da Saúde.\n\nConsiderando que está em causa a fixação de requisitos técnicos que se prendem, no essencial, com a melhoria da qualidade assistencial e a garantia da segurança do utente, decorrentes de determinações legais do ordenamento jurídico nacional ou de regras da União Europeia, é fundamental a uniformização de critérios, independentemente da titularidade do estabelecimento de saúde em causa.\n\nFace ao exposto, a presente portaria promove a regulamentação do processo de abertura e funcionamento dos estabelecimentos prestadores de cuidados de saúde detidos por pessoas coletivas públicas, instituições militares, IPSS ou entidades privadas, salvaguardando-se as especificidades próprias das unidades de saúde militar, nomeadamente as que são utilizadas em contexto operacional.\n\nRegiste-se que o já mencionado Decreto-Lei n.º 127/2014, de 22 de agosto, na redação em vigor, previa um prazo de 120 dias, após a sua entrada em vigor, para a regulamentação, por portaria, das condições de licenciamento das diferentes tipologias de unidades de prestação de cuidados de saúde. Encontrando-se já largamente ultrapassado esse prazo, através do Despacho n.º 14603/2022, de 21 de dezembro, do Ministro da Saúde, foi criado um grupo de trabalho agregando as instituições públicas com intervenção no processo, designadamente a Direção Executiva do Serviço Nacional de Saúde, I. P., a Entidade Reguladora da Saúde e a Administração Central do Sistema de Saúde, I. P., bem como os prestadores mais relevantes dos setores social e privado. A presente portaria reflete o consenso que foi possível alcançar, com trabalho técnico exaustivo e exigente.\n\nForam também ouvidos a Ordem dos Médicos, a Ordem dos Enfermeiros, a Ordem dos Engenheiros, a Ordem dos Arquitetos, a Ordem dos Médicos Dentistas, a Ordem dos Biólogos, a Ordem dos Farmacêuticos, a Ordem dos Fisioterapeutas, a Associação Nacional de Centros de Diálise, a Associação Portuguesa de Medicina Física e de Reabilitação, a Associação Portuguesa dos Técnicos de Radiologia, Radioterapia e Medicina Nuclear, a Associação Nacional dos Laboratórios Clínicos, a Sociedade Portuguesa de Medicina Nuclear, o Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P., a Sociedade Portuguesa de Genética Humana, a Sociedade Portuguesa de Radioterapia-Oncologia, a Associação Portuguesa de Radioterapeutas, a Sociedade Portuguesa de Anatomia Patológica e a Associação Portuguesa de Técnicos de Anatomia Patológica.\n\nO protelamento da publicação das portarias que regulamentam o Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, representará a manutenção da insegurança jurídica que condiciona a intervenção dos diferentes agentes do setor da saúde e conduzirá a um ainda maior adiamento da generalização da implementação das normas de qualidade e segurança de que devem beneficiar todos os destinatários dos cuidados prestados, pelo que se entende que, após o moroso e consensual trabalho realizado, este procedimento tem caráter urgente.\n\nAssim:\n\nManda o Governo, pela Ministra da Defesa Nacional, pela Ministra do Trabalho, Solidariedade e Segurança Social e pelo Ministro da Saúde, ao abrigo do disposto nos n.os 1 e 5 do artigo 2.º do Decreto-Lei n.º 127/2014, de 22 de agosto, na sua redação atual, e dos artigos 15.º, 24.º e 25.º, todos do Decreto-Lei n.º 32/2022, de 9 de maio, na sua redação atual, o seguinte:"
+  },
+  "914316149": {
+   "fragment_id": "914316321",
+   "type": 1,
+   "heading": "Capítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I"
+  },
+  "914316150": {
+   "fragment_id": "914316322",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece os requisitos mínimos relativos ao licenciamento, instalação, organização e funcionamento, recursos humanos e instalações técnicas das unidades de medicina física e de reabilitação, unidades de fisioterapia, de terapia da fala e de terapia ocupacional, que prossigam atividades de diagnóstico, terapêutica e de reinserção familiar e socioprofissional detidas por pessoas coletivas públicas, instituições militares, instituições particulares de solidariedade social (IPSS) e entidades privadas, salvaguardando-se as especificidades próprias das unidades de saúde militares, designadamente as que são utilizadas em contexto operacional.\n\n2 - O procedimento de atribuição de licença de funcionamento das unidades de fisioterapia, de terapia da fala e de terapia ocupacional observa o procedimento simplificado, nos termos do n.º 3 do artigo 2.º e da alínea f) do n.º 4 do artigo 4.º do Decreto-Lei n.º 127/2014, de 22 de agosto."
+  },
+  "914316151": {
+   "fragment_id": "914316323",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos da presente portaria, consideram-se unidades de medicina física e de reabilitação as unidades de saúde onde se efetue consulta médica desta especialidade, com ou sem atos complementares de diagnóstico, e, pelo menos, numa ou mais valências constantes do artigo 10.º, realizadas por diferentes profissionais, abrangidas por um dos seguintes atos e técnicas:\n\na) Atos terapêuticos;\n\nb) Treinos terapêuticos;\n\nc) Outras técnicas terapêuticas;\n\nd) Ensino e treino de doentes e familiares e cuidadores.\n\n2 - Para efeitos do presente diploma, consideram-se unidades de fisioterapia os estabelecimentos onde são prestados cuidados de saúde de fisioterapia, por profissional devidamente habilitado para o efeito.\n\n3 - Para efeitos do presente diploma, consideram-se unidades de terapia da fala os estabelecimentos onde são prestados cuidados de saúde de terapia da fala, por profissional devidamente habilitado para o efeito.\n\n4 - Para efeitos do presente diploma, consideram-se unidades de terapia ocupacional os estabelecimentos onde são prestados cuidados de saúde de terapia ocupacional, por profissional devidamente habilitado para o efeito."
+  },
+  "914316152": {
+   "fragment_id": "914316324",
+   "type": 1,
+   "heading": "Capítulo II — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização e funcionamento"
+  },
+  "914316153": {
+   "fragment_id": "914316325",
+   "type": 11,
+   "heading": "Artigo 3.º — Qualidade e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Qualidade e segurança\n\nAs normas de qualidade e segurança devem ser cumpridas em todas as situações previstas na presente portaria, de acordo com as regras, os códigos científicos e técnicos nacional e internacionalmente reconhecidos nas áreas abrangidas, competindo à Direção-Geral da Saúde (DGS), ouvidas as respetivas ordens e associações profissionais, públicas e privadas, propor ao membro do Governo responsável pela área da saúde a sua adoção, assegurando-se a devida publicidade."
+  },
+  "914316154": {
+   "fragment_id": "914316326",
+   "type": 11,
+   "heading": "Artigo 4.º — Manual de boas práticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Manual de boas práticas\n\n1 - Para efeito da promoção e garantia de qualidade das unidades de medicina física e de reabilitação são considerados os requisitos e exigências constantes do manual de boas práticas.\n\n2 - Para efeito da promoção e garantia de qualidade das unidades de fisioterapia, de terapia da fala e de terapia ocupacional são considerados os requisitos e exigências constantes no manual de boas práticas e outras normas aplicáveis.\n\n3 - O manual de boas práticas referido nos números anteriores é aprovado por despacho do membro do Governo responsável pela área da saúde."
+  },
+  "914316155": {
+   "fragment_id": "914316327",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação aos utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informação aos utentes\n\n1 - Nas unidades de medicina física e de reabilitação, fisioterapia, terapia da fala e terapia ocupacional devem ser colocados, em local bem visível do público, a certidão de registo do estabelecimento na Entidade Reguladora da Saúde (ERS), a licença de funcionamento ou a declaração de conformidade, o horário de funcionamento, o nome do diretor clínico/diretor técnico e, quando a unidade esteja integrada num estabelecimento com várias tipologias e ou serviços, do diretor de serviço, a referência à existência de regulamento interno, os procedimentos a adotar em situações de emergência e os direitos e deveres dos utentes, devendo ainda estar disponível para consulta a tabela de preços.\n\n2 - Deve também ser afixada em local bem visível, ou disponibilizada para consulta no local, informação relativa aos acordos e convenções para a prestação de cuidados de saúde aplicáveis à unidade em causa, bem como os respetivos âmbitos.\n\n3 - As unidades de fisioterapia, de terapia da fala e de terapia ocupacional devem adotar uma designação que não seja suscetível de induzir o utente em erro quanto à natureza do estabelecimento e à tipologia de cuidados de saúde aí prestados, sendo-lhes, designadamente, vedada a utilização de expressões como \"medicina física e de reabilitação\" ou \"clínica\"."
+  },
+  "914316156": {
+   "fragment_id": "914316328",
+   "type": 11,
+   "heading": "Artigo 6.º — Seguro de responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Seguro de responsabilidade civil\n\n1 - As unidades de medicina física e de reabilitação e as unidades de fisioterapia, de terapia da fala e de terapia ocupacional devem contratar e manter em vigor um seguro de responsabilidade civil que cubra os riscos inerentes à sua atividade.\n\n2 - As unidades de medicina física e de reabilitação e as unidades de fisioterapia, de terapia da fala e de terapia ocupacional devem assegurar que os profissionais que nelas exercem a sua atividade estão abrangidos por seguro de responsabilidade civil válido."
+  },
+  "914316157": {
+   "fragment_id": "914316329",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamento interno\n\n1 - As unidades de medicina física e de reabilitação, as unidades de fisioterapia, de terapia da fala e de terapia ocupacional que funcionem com mais de um profissional de saúde devem dispor de um regulamento interno, validado pelo diretor clínico/técnico, do qual deve constar, pelo menos, o seguinte:\n\na) Identificação do diretor clínico/técnico ou do diretor de serviço e do seu substituto, ou do critério de substituição, na ausência de indicação expressa, bem como dos restantes profissionais de saúde e colaboradores, se aplicável;\n\nb) Estrutura organizacional;\n\nc) Deveres gerais dos profissionais;\n\nd) Categorias e graduações profissionais, funções e competências de cada grupo profissional;\n\ne) Normas de funcionamento.\n\n2 - O regulamento interno deve ainda prever a existência, no próprio documento ou em documento acessório, de:\n\na) Lista e plano anual de manutenção preventiva das instalações e equipamentos e de calibração de equipamento médico ou aferição por tipologia de equipamento;\n\nb) Plano anual de formação e avaliação dos colaboradores;\n\nc) Procedimentos de controlo da qualidade;\n\nd) Procedimento de emergência médica."
+  },
+  "914316158": {
+   "fragment_id": "914316330",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo, conservação e arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo, conservação e arquivo\n\n1 - As unidades de medicina física e de reabilitação, as unidades de fisioterapia, de terapia da fala e de terapia ocupacional devem possuir e manter, em arquivo físico ou digital, durante o prazo legalmente estabelecido, os seguintes documentos:\n\na) Processos clínicos dos doentes contendo os respetivos registos;\n\nb) Cópia dos relatórios dos exames e dos tratamentos realizados.\n\n2 - As unidades de medicina física e de reabilitação, as unidades de fisioterapia, de terapia da fala e de terapia ocupacional devem conservar, durante um mínimo de cinco anos, salvo se prazo mais longo resultar da lei, os seguintes documentos:\n\na) Dados referentes ao controlo da qualidade;\n\nb) Resultados dos programas de garantia da qualidade e segurança, designadamente:\n\ni) Fichas de equipamento e respetivas declarações de conformidade;\n\nii) Mapas de manutenções preventivas das instalações e equipamentos;\n\niii) Mapas de calibração do equipamento médico;\n\niv) Mapas de monitorização dos parâmetros físico-químicos da água de piscina, em caso de existência;\n\nv) Folhas de obra das ações corretivas aos equipamentos e ficha de segurança e bulas de medicamentos em uso;\n\nc) Registo de produção de resíduos hospitalares, nos termos da legislação em vigor;\n\nd) Contratos, ou extratos de contratos, celebrados com terceiros relativos às atividades identificadas no artigo 17.º do presente diploma;\n\ne) Regulamento interno;\n\nf) Resultados das vistorias realizadas pelas entidades competentes;\n\ng) Protocolos técnicos terapêuticos, formação e outras normas técnicas destinadas à atividade profissional."
+  },
+  "914316159": {
+   "fragment_id": "914316331",
+   "type": 11,
+   "heading": "Artigo 9.º — Departamentos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Departamentos funcionais\n\n1 - Segundo as valências que as integram, as unidades de medicina física e de reabilitação podem organizar-se nos seguintes departamentos funcionais, nomeadamente:\n\na) Cuidados a doentes agudos, subagudos e crónicos;\n\nb) Cuidados continuados a doentes idosos e/ou dependentes, em tratamento ambulatório;\n\nc) Cuidados no âmbito da reabilitação pediátrica, em ambulatório.\n\n2 - O funcionamento dos departamentos funcionais previstos no número anterior requer a existência de consultas médicas da especialidade, de equipamento técnico adequado e de atividades de ensino e treino de doentes e cuidadores.\n\n3 - Os departamentos funcionais previstos no n.º 1 do presente artigo podem funcionar em instalações separadas, diretamente dependentes da unidade central, na sequência de autorização para instalação promovida, ao abrigo da licença de funcionamento ou declaração de conformidade, emitida à unidade central, para a qual deve ser requerida e instruída com os seguintes elementos:\n\na) Requerimento, devidamente fundamentado, dirigido à entidade competente, com identificação da entidade requerente, do qual conste morada da unidade central e do departamento funcional;\n\nb) Relação nominal dos profissionais de saúde afetos à unidade, com indicação das respetivas habilitações profissionais.\n\n4 - Os departamentos funcionais situados em instalações separadas da unidade central devem cumprir o disposto nos artigos 5.º e 19.º do presente diploma, acrescido da indicação da unidade central de que dependem."
+  },
+  "914316160": {
+   "fragment_id": "914316332",
+   "type": 11,
+   "heading": "Artigo 10.º — Atividades e valências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Atividades e valências\n\n1 - As unidades de medicina física e de reabilitação podem desenvolver atos complementares de diagnóstico e terapêutica, nas vertentes de promoção e prevenção da saúde, reabilitação, recapacitação e paliação, os quais são sempre precedidos de consulta médica da especialidade, em relação, designadamente, às seguintes valências:\n\na) Eletroterapia;\n\nb) Fototerapia;\n\nc) Termoterapia;\n\nd) Hidroterapia;\n\ne) Massoterapia;\n\nf) Cinesiterapia;\n\ng) Ventiloterapia;\n\nh) Mecanoterapia;\n\ni) Treinos terapêuticos;\n\nj) Ensino e treino de doentes e familiares/acompanhantes;\n\nk) Vibroterapia ultrassónica;\n\nl) Pressoterapia;\n\nm) Magnetoterapia;\n\nn) Terapia ocupacional, incluindo reabilitação da linguagem, reeducação cognitiva, reeducação da sensibilidade, recapacitação, treino de funcionalidade, treino de atividades instrumentais, treino de atividades lúdicas;\n\no) Terapia da fala, incluindo reabilitação da linguagem, reeducação cognitiva, reabilitação da articulação verbal e da fonação, reabilitação das alterações de deglutição, incluindo disfagia;\n\np) Mesoterapia;\n\nq) Outras técnicas de diagnóstico;\n\nr) Outras técnicas terapêuticas, executadas por médico, técnico ou enfermeiro ou outro profissional devidamente habilitado e de acordo com objetivos, programa de ação e organigrama, delineado pelo diretor clínico ou pelo diretor técnico;\n\ns) Programas específicos de reabilitação em equipa presencial multiprofissional e multidisciplinar, incluindo reabilitação cardíaca e reabilitação pediátrica.\n\n2 - Quando não haja lugar ao desempenho, no mínimo, de quatro das valências de a) a k) do n.º 1, a unidade de medicina física e de reabilitação identifica-se pela valência ou valências que prossegue.\n\n3 - Exceto nos casos de prestação de serviços ao domicílio ou de hospitalização domiciliária, não é autorizado o desenvolvimento das valências referidas no n.º 1 do presente artigo fora das instalações licenciadas."
+  },
+  "914316161": {
+   "fragment_id": "914316333",
+   "type": 11,
+   "heading": "Artigo 11.º — Atividades e valências das unidades de fisioterapia, terapia da fala e terapia ocupacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Atividades e valências das unidades de fisioterapia, terapia da fala e terapia ocupacional\n\nAs unidades de fisioterapia, terapia da fala e terapia ocupacional podem desenvolver atos complementares de terapêutica, nas vertentes da promoção e prevenção da saúde, reabilitação e recapacitação."
+  },
+  "914316162": {
+   "fragment_id": "914316334",
+   "type": 1,
+   "heading": "Capítulo III — Documentação e condições de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Documentação e condições de funcionamento"
+  },
+  "914316163": {
+   "fragment_id": "914316335",
+   "type": 11,
+   "heading": "Artigo 12.º — Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Documentação\n\n1 - As unidades abrangidas pela presente portaria devem dispor, em arquivo físico ou digital, acessível a todo o momento, da seguinte documentação:\n\na) No caso das unidades privadas, certidão atualizada do registo comercial, ou código de acesso à certidão permanente de pessoa coletiva ou, no caso de pessoa singular, de cópia do cartão do cidadão;\n\nb) No caso das IPSS, declaração de inscrição como IPSS, emitida pela Segurança Social;\n\nc) Relação nominal do pessoal que integra a unidade com internamento ou, conforme aplicável, declaração de compromisso de entrega da relação nominal do pessoal e respetivo mapa com a distribuição pelos diferentes grupos profissionais e cópias das respetivas cédulas ou carteiras profissionais, no prazo máximo de 30 dias a contar da data da licença de funcionamento ou declaração de conformidade;\n\nd) Memória descritiva e justificativa e telas finais dos projetos de arquitetura, instalações e equipamentos elétricos, instalações e equipamentos mecânicos, instalações e equipamentos de águas e esgotos e instalação da rede de gases medicinais;\n\ne) Parecer favorável das medidas de autoproteção, ou comprovativo deste pedido, emitido pela Autoridade Nacional de Emergência e Proteção Civil (ANEPC);\n\nf) Relatório da última inspeção regular dentro do prazo legal, ou documento comprovativo do pedido, seguindo os critérios estabelecidos no Regime Jurídico de Segurança contra Incêndios em Edifícios;\n\ng) Autorização de utilização para comércio ou serviços ou outra finalidade mais específica emitida pela câmara municipal competente, ou documento(s) equivalente(s) nos termos da legislação em vigor.\n\n2 - Adicionalmente, se aplicável, as unidades abrangidas pela presente portaria devem dispor, em arquivo físico ou digital, da seguinte documentação:\n\na) Certificado de exploração ou declaração de inspeção inicial das instalações elétricas, consoante o tipo (A, B ou C);\n\nb) Cópia do termo de responsabilidade pela exploração das instalações elétricas, ou da declaração de inspeção periódica, consoante o tipo (A, B ou C) e a potência aparente da instalação;\n\nc) Certificação dos equipamentos elevadores;\n\nd) Cópia ou extrato do contrato de manutenção dos equipamentos elevadores;\n\ne) Certificado de inspeção das instalações de gás;\n\nf) Cópia do certificado dos dispositivos médicos, incluindo sistema de distribuição de gases medicinais, em conformidade com o previsto na legislação em vigor;\n\ng) Cópia da declaração de validação de funcionamento de recipientes sob pressão simples e/ou o certificado de aprovação de funcionamento de equipamentos sob pressão;\n\nh) Cópia do certificado energético, em conformidade com a legislação em vigor;\n\ni) Cópia do relatório de ensaios que comprovem o funcionamento dos equipamentos geradores de ruído, como por exemplo sistemas de vácuo e/ou produção de ar comprimido, em conformidade com o Regulamento Geral do Ruído;\n\nj) Plano de prevenção e controlo ou programa de manutenção e limpeza, bem como toda a documentação associada no âmbito da legislação em vigor, no sentido de prevenir o risco de proliferação e disseminação da bactéria Legionella;\n\nk) Autorização para aquisição direta de medicamentos, emitida pelo INFARMED - I. P., relativamente às unidades de medicina física e de reabilitação."
+  },
+  "914316164": {
+   "fragment_id": "914316336",
+   "type": 11,
+   "heading": "Artigo 13.º — Condições de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Condições de funcionamento\n\n1 - São condições de atribuição de licença de funcionamento ou de declaração de conformidade:\n\na) A idoneidade do requerente, a qual, no caso de se tratar de pessoa coletiva, deve ser preenchida pelos administradores ou diretores/gerentes que detenham a direção efetiva do estabelecimento;\n\nb) A idoneidade profissional dos elementos da direção clínica ou de serviço, se aplicável, e da direção técnica, bem como do demais pessoal clínico e técnico;\n\nc) O cumprimento dos requisitos que permitam a garantia da qualidade técnica dos cuidados e tratamentos a prestar, bem como garantir que os equipamentos de que ficarão dotados se encontram em perfeito estado de funcionamento.\n\n2 - Para efeitos do disposto no presente diploma, são consideradas idóneas as pessoas relativamente às quais não se verifique nenhum dos seguintes impedimentos:\n\na) Proibição legal do exercício do comércio ou a não conformidade do registo na segurança social;\n\nb) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;\n\nc) Inibição do exercício da atividade profissional, pela respetiva ordem ou associação profissional, durante o período determinado.\n\n3 - Para efeitos do disposto na alínea b) do n.º 1, são considerados profissionais de saúde idóneos aqueles em relação aos quais não se verifique nenhum dos seguintes impedimentos:\n\na) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão;\n\nb) Inibição do exercício da atividade profissional, pela respetiva ordem ou associação profissional, durante o período determinado.\n\n4 - O disposto no número anterior deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória."
+  },
+  "914316165": {
+   "fragment_id": "914316337",
+   "type": 1,
+   "heading": "Capítulo IV — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Recursos humanos"
+  },
+  "914316166": {
+   "fragment_id": "914316338",
+   "type": 11,
+   "heading": "Artigo 14.º — Direção clínica das unidades de medicina física e de reabilitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direção clínica das unidades de medicina física e de reabilitação\n\n1 - As unidades de medicina física e de reabilitação são tecnicamente dirigidas por um diretor clínico, médico especialista em medicina física e de reabilitação.\n\n2 - Sempre que a unidade se encontre integrada num estabelecimento de saúde onde sejam desenvolvidas outras tipologias de atividade, o estabelecimento é dirigido por um diretor clínico, com responsabilidade clínica transversal a todas elas, sendo a responsabilidade técnica da unidade de medicina física e de reabilitação assumida por um diretor de serviço, médico da respetiva especialidade.\n\n3 - As unidades de medicina física e de reabilitação devem assegurar a presença física do diretor clínico, ou, no caso previsto no número anterior, do diretor de serviço, por um período quatro horas diárias, de forma a garantir a qualidade dos tratamentos e a supervisão da atividade realizada, devendo ser substituído nos seus impedimentos e ausências por um profissional médico qualificado com formação equivalente.\n\n4 - Em caso de impedimento ou cessação permanente de funções do diretor clínico ou, no caso previsto no n.º 2, do diretor de serviço, deve ser promovida a sua substituição no prazo máximo de 30 dias, com comunicação da substituição à entidade competente.\n\n5 - É da responsabilidade do diretor clínico/de serviço:\n\na) Dirigir, coordenar e superintender a unidade de saúde;\n\nb) Designar, de entre os profissionais com qualificação equivalente à sua, o seu substituto durante as suas ausências ou impedimentos, em respeito pelas regras constantes do regulamento interno;\n\nc) Elaborar o organigrama funcional da unidade de saúde e assegurar a sua colocação em local bem visível;\n\nd) Selecionar e admitir pessoal médico, tendo em vista a prossecução dos objetivos delineados para a unidade de saúde, garantindo a idoneidade e a qualificação técnico-profissional adequada para o desempenho;\n\ne) Verificar que cada valência de diagnóstico e ou terapêutica é realizada por pessoa com qualificação adequada;\n\nf) Estabelecer os objetivos e programa de ação delineados para cada colaborador;\n\ng) Fazer cumprir normas deontológicas aplicáveis aos restantes profissionais;\n\nh) Realizar e velar pela aplicação do regulamento interno e regras de qualidade aplicáveis;\n\ni) Velar pela aplicação do manual de boas práticas;\n\nj) Zelar pela manutenção, bom estado de conservação e fiabilidade do equipamento técnico;\n\nk) Promover as melhores condições de humanização;\n\nl) Promover a prática de um adequado sistema de informação e de relacionamento com os utentes e seus familiares;\n\nm) Promover a produtividade e eficiência dos cuidados de saúde prestados e proceder à sua avaliação sistemática;\n\nn) Participar nas decisões de admissão e alta, promovendo a organização e constante atualização dos processos clínicos;\n\no) Zelar e garantir pela atualização das técnicas utilizadas, promovendo as iniciativas aconselháveis para a valorização, aperfeiçoamento e formação profissional contínua do pessoal em serviço;\n\np) Desenvolver o espírito de equipa de serviço, fomentando e exigindo as responsabilidades que a cada um cabem;\n\nq) Zelar pela qualidade dos cuidados clínicos prestados, tendo em particular atenção os programas de garantia da qualidade, incluindo o controlo de infeção;\n\nr) Colaborar na definição das normas referentes à proteção da saúde e à segurança do pessoal, bem como respeitar as especificações referentes à proteção do ambiente e da saúde pública e zelar pelo seu cumprimento;\n\ns) Aprovar os protocolos clínicos, técnicos e terapêuticos e velar pelo seu cumprimento;\n\nt) Aprovar o procedimento de emergência médica e assegurar a sua divulgação."
+  },
+  "914316167": {
+   "fragment_id": "914316339",
+   "type": 11,
+   "heading": "Artigo 15.º — Direção das unidades de fisioterapia, terapia da fala e terapia ocupacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direção das unidades de fisioterapia, terapia da fala e terapia ocupacional\n\n1 - As unidades de fisioterapia, de terapia da fala e de terapia ocupacional são tecnicamente dirigidas por profissional de saúde devidamente habilitado, respetivamente fisioterapeuta, terapeuta da fala e terapeuta ocupacional.\n\n2 - As atividades das unidades de fisioterapia, terapia da fala e saúde ocupacional implicam a presença física do responsável técnico, por um período não inferior a quatro horas diárias, de forma a garantir a qualidade dos tratamentos e a supervisão da atividade realizada, devendo ser substituído nos seus impedimentos e ausências por um profissional qualificado com formação equivalente.\n\n3 - Em caso de impedimento ou cessação permanente de funções do responsável técnico, deve ser promovida a sua substituição no prazo máximo de 30 dias, com comunicação da substituição à entidade competente.\n\n4 - É da responsabilidade do responsável técnico:\n\na) Designar, de entre os profissionais com qualificação equivalente à sua, o seu substituto durante as suas ausências ou impedimentos, em respeito pelas regras constantes do regulamento interno;\n\nb) Zelar pela qualidade dos cuidados prestados, tendo em particular atenção os programas de garantia da qualidade, incluindo o controlo de infeção;\n\nc) Garantir a formação contínua do pessoal técnico da unidade;\n\nd) Supervisionar o cumprimento das normas estabelecidas quanto à estratégia terapêutica dos doentes e ao controlo clínico;\n\ne) Aprovar os protocolos técnicos e terapêuticos e zelar pelo seu cumprimento;\n\nf) Colaborar na definição das normas referentes à proteção da saúde e à segurança do pessoal, bem como respeitar as especificações referentes à proteção do ambiente e da saúde pública e zelar pelo seu cumprimento;\n\ng) Garantir a idoneidade e a qualificação técnica dos profissionais adequada ao desempenho da atividade;\n\nh) Aprovar o procedimento de emergência médica e assegurar a sua divulgação."
+  },
+  "914316168": {
+   "fragment_id": "914316340",
+   "type": 11,
+   "heading": "Artigo 16.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pessoal\n\nAs unidades de medicina física e de reabilitação, as unidades de fisioterapia, de terapia da fala e de terapia ocupacional têm de dispor de pessoal de assistência aos utentes com formação técnica e específica adequada às funções a desempenhar e de pessoal administrativo, sempre que tal se revele necessário ao seu bom funcionamento."
+  },
+  "914316169": {
+   "fragment_id": "914316341",
+   "type": 11,
+   "heading": "Artigo 17.º — Recurso a serviços contratados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Recurso a serviços contratados\n\nAs unidades de medicina física e de reabilitação, fisioterapia, terapia da fala e terapia ocupacional podem recorrer a serviços de terceiros, nomeadamente no âmbito do transporte de doentes, tratamento de roupa, do fornecimento de refeições, de gases medicinais e produtos esterilizados e ainda a gestão dos resíduos hospitalares, quando as entidades prestadoras de tais serviços se encontrem, nos termos da legislação em vigor, licenciadas, certificadas ou acreditadas para o efeito."
+  },
+  "914316170": {
+   "fragment_id": "914316342",
+   "type": 1,
+   "heading": "Capítulo V — Requisitos técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Requisitos técnicos"
+  },
+  "914316171": {
+   "fragment_id": "914316343",
+   "type": 11,
+   "heading": "Artigo 18.º — Normas genéricas de construção, segurança e privacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Normas genéricas de construção, segurança e privacidade\n\n1 - As unidades de medicina física e de reabilitação, de fisioterapia, de terapia da fala e de terapia ocupacional devem situar-se em locais de fácil acessibilidade e que disponham de infraestruturas viárias, de abastecimento de água, de saneamento, de energia elétrica e de telecomunicações.\n\n2 - As unidades de medicina física e de reabilitação, de fisioterapia, de terapia da fala e de terapia ocupacional podem funcionar em edifício autónomo ou em parte de edifício destinado a outros fins.\n\n3 - A construção deve contemplar a existência de um percurso acessível até aos espaços fundamentais de funcionamento da unidade, nos termos do regime jurídico das acessibilidades em vigor.\n\n4 - A sinalética deve ser concebida de forma a ser compreendida pelos utentes, obedecendo aos requisitos de legibilidade definidos no regime jurídico das acessibilidades em vigor.\n\n5 - Os acabamentos utilizados nas unidades de medicina física e de reabilitação, de fisioterapia, de terapia da fala e de terapia ocupacional devem permitir a manutenção de um grau de higienização compatível com a atividade desenvolvida nos locais a que se destinam.\n\n6 - O pavimento na área técnica de hidroterapia utilizada por público deve ser antiderrapante.\n\n7 - As unidades de medicina física e de reabilitação, de fisioterapia, de terapia da fala e de terapia ocupacional devem garantir a localização de instalações técnicas, de armazenagem de fluidos inflamáveis ou perigosos e de gases medicinais, caso existam, nas condições de segurança legalmente exigidas.\n\n8 - As circulações horizontais, os compartimentos de armazenamento, sujos e despejos e material de limpeza deverão ter como pé-direito útil mínimo 2,40 m, entendendo-se como tal a altura livre do pavimento ao teto ou teto falso, devendo nas demais áreas ser cumprido o pé-direito útil mínimo previsto na legislação em vigor.\n\n9 - Caso a unidade de medicina física e de reabilitação, fisioterapia, terapia da fala e terapia ocupacional não disponha de acesso de nível ao exterior ou tenha um desenvolvimento em altura superior a um piso e se preveja a utilização de macas ou camas, deve dispor de pelo menos um elevador com dimensões interiores não inferiores a 2,40 m × 1,30 m × 2,10 m, respetivamente de comprimento, de largura e de altura.\n\n10 - A zona de armazenagem de medicamentos, quando exista, deve ser apenas acessível a profissionais autorizados, estar identificada e dispor de monitorização das condições de temperatura e humidade.\n\n11 - As unidades de medicina física e de reabilitação, fisioterapia, terapia da fala e terapia ocupacional devem garantir as condições que permitam o respeito pela privacidade e dignidade dos utentes."
+  },
+  "914316172": {
+   "fragment_id": "914316344",
+   "type": 11,
+   "heading": "Artigo 19.º — Reprocessamento de dispositivos médicos de uso múltiplo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Reprocessamento de dispositivos médicos de uso múltiplo\n\n1 - Para a obtenção de dispositivos médicos devem adotar-se as seguintes modalidades:\n\na) Utilização exclusiva de dispositivos médicos de uso único, sendo proibido o reprocessamento para utilização posterior, salvo se permitido por regulamentação específica;\n\nb) Utilização de dispositivos médicos de uso múltiplo reprocessados em entidade externa com implementque disponha de unidade central de reprocessamento;\n\nc) Utilização de dispositivos médicos de uso múltiplo reprocessados em unidade interna de reprocessamento de dispositivos médicos de uso múltiplo, para uma parte ou a totalidade das necessidades de um único serviço da unidade de saúde, sendo que em caso de reprocessamento pela unidade interna de apenas uma parte do material, o restante deve ser obtido com recurso às demais opções descritas;\n\nd) Utilização de dispositivos médicos de uso múltiplo reprocessados em unidade central de reprocessamento de dispositivos médicos de uso múltiplo para as necessidades de dois ou mais serviços da unidade de saúde, concebida, organizada e equipada de acordo com os normativos e legislação em vigor, que deve dispor da capacidade adequada às necessidades e ter implementada ou estar certificada pela NP EN ISO 13485 ou ao abrigo de normativo que a venha substituir.\n\n2 - Todos os dispositivos potencialmente contaminados são manipulados, recolhidos e transportados em caixas ou carros fechados para a área de descontaminação de forma a evitar o risco de contaminação dos circuitos envolventes e de utentes e pessoal.\n\n3 - As unidades internas e centrais de reprocessamento de dispositivos médicos de uso múltiplo devem satisfazer as normas relativas a qualidade e segurança, nos termos do artigo 3.º, com vista a assegurar o cumprimento das seguintes fases, respeitando ainda as instruções do fabricante dos dispositivos médicos, designadamente:\n\na) Recolha de instrumentos ou dispositivos médicos;\n\nb) Limpeza e desinfeção;\n\nc) Inspeção, montagem e embalagem;\n\nd) Esterilização;\n\ne) Armazenamento.\n\n4 - Qualquer que seja a origem dos dispositivos médicos de uso múltiplo reprocessados, deve existir evidência da validação da eficácia das diferentes fases do reprocessamento, garantindo-se, pelo menos:\n\na) A validação do ciclo de esterilização no caso da unidade interna de reprocessamento de dispositivos médicos de uso múltiplo;\n\nb) A validação dos processos de lavagem/desinfeção, embalagem, selagem e esterilização na unidade central de reprocessamento de dispositivos médicos de uso múltiplo."
+  },
+  "914316173": {
+   "fragment_id": "914316345",
+   "type": 11,
+   "heading": "Artigo 20.º — Equipamentos frigoríficos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Equipamentos frigoríficos\n\nDeve existir frigorífico para conservação de medicamentos dotado de dispositivo automático de registo de temperatura e alarme, se aplicável."
+  },
+  "914316174": {
+   "fragment_id": "914316346",
+   "type": 11,
+   "heading": "Artigo 21.º — Especificações técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Especificações técnicas\n\n1 - São aprovadas especificações técnicas no que diz respeito aos compartimentos das unidades de medicina física e de reabilitação, de fisioterapia, de terapia da fala e de terapia ocupacional, aos requisitos mínimos de equipamentos técnicos e médicos nos anexos i a vi da presente portaria, da qual fazem parte integrante.\n\n2 - A área útil prevista nos anexos (nomeadamente a definida por posto, box, cama, maca ou cadeirão) inclui circulações, considerando-se que a área útil total do compartimento resulta do somatório das áreas úteis parciais, sem prejuízo da necessidade de ser assegurada a funcionalidade do espaço, a circulação entre postos e o acesso ao utente, de acordo com o Regime Geral de Segurança contra Incêndios."
+  },
+  "914438375": {
+   "fragment_id": "914316347",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "914438376": {
+   "fragment_id": "914316348",
+   "type": 11,
+   "heading": "Artigo 22.º — Outros serviços de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Outros serviços de saúde\n\nSempre que a unidade dispuser de outros serviços de saúde, estes devem cumprir as exigências e requisitos constantes nos respetivos diplomas."
+  },
+  "914438377": {
+   "fragment_id": "914316349",
+   "type": 11,
+   "heading": "Artigo 23.º — Livro de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Livro de reclamações\n\nAs unidades de medicina física e de reabilitação, de fisioterapia, de terapia da fala e de terapia ocupacional estão sujeitas à obrigatoriedade de existência e disponibilização de livro de reclamações, nos termos da legislação em vigor."
+  },
+  "914438378": {
+   "fragment_id": "914316350",
+   "type": 11,
+   "heading": "Artigo 24.º — Prazo de adaptação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Prazo de adaptação\n\n1 - As unidades de medicina física e de reabilitação licenciadas e as unidades de fisioterapia, unidades de terapia da fala e unidades de terapia ocupacional dispõem do prazo de cinco anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos, devendo, no mesmo prazo e sem prejuízo do disposto no artigo 12.º do Decreto-Lei n.º 127/2014, de 22 de agosto, requerer, através do Portal de Licenciamento, da ERS, a licença de funcionamento que ateste a conformidade com a regulamentação vigente.\n\n2 - Tratando-se de unidades que disponham de licença de funcionamento emitida pela ERS ao abrigo do Decreto-Lei n.º 127/2014, de 22 de agosto, e da regulamentação prevista no n.º 2 do artigo 25.º do mesmo diploma e cuja obtenção deva seguir o procedimento ordinário, no prazo definido no número anterior, deverão solicitar, através do Portal de Licenciamento, a emissão de nova licença com dispensa de vistoria prévia, através de requerimento fundamentado que ateste o cumprimento dos novos requisitos técnicos de funcionamento aqui previstos.\n\n3 - As IPSS, as instituições militares e as pessoas coletivas públicas em funcionamento dispõem do prazo de cinco anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos.\n\n4 - Os titulares de processos de licenciamento em curso, à data de entrada em vigor da presente portaria, podem optar pela adequação aos novos requisitos técnicos de funcionamento aqui previstos, mediante requerimento dirigido à ERS.\n\n5 - Nas situações referidas no número anterior, a ERS dará continuidade à tramitação dos processos, aproveitando os atos já praticados e decidindo sobre o pedido de emissão da licença de funcionamento, à luz dos requisitos técnicos definidos na presente portaria."
+  },
+  "914438379": {
+   "fragment_id": "914316351",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nÉ revogada a Portaria n.º 1212/2010, de 30 de novembro."
+  },
+  "914438380": {
+   "fragment_id": "914316352",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "914438382": {
+   "fragment_id": "914316354",
+   "type": 14,
+   "heading": "Anexo I — Unidades de medicina física e de reabilitação, fisioterapia, terapia da fala e terapia ocupacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Unidades de medicina física e de reabilitação, fisioterapia, terapia da fala e terapia ocupacional\n\n(a que se refere o artigo 21.º)\n\nCompartimentos a considerar:\n\n| Designação | Função do compartimento | Área útil mínima<br>(m2) | Largura mínima<br>(m) | Observações |\n| --- | --- | --- | --- | --- |\n| Área de acolhimento(aplicável a todas as unidades) |  |  |  |  |\n| Receção/secretaria | Secretaria com zona de atendimento de público | – | – | - |\n| Zona de espera | Espera pelo atendimento | – | – | Junto à receção/secretaria. |\n| Macas/cadeiras de rodas | Arrumação de macas e cadeiras de rodas | – | – | Preferencialmente situado junto à entrada. Dispensável nas unidades exclusivamente de terapia da fala. |\n| Instalação sanitária de público | - | – | – | Adaptada a pessoas com mobilidade condicionada. |\n| Área clínica/técnica |  |  |  |  |\n| Gabinete de consulta | Elaboração da história clínica dos doentes e observação | 12 | 2,6 | Aplicável às unidades de medicina física e de reabilitação e fisioterapia. |\n| Sala de provas de próteses | Ensino de próteses e ajudas | 15 | – | Aplicável às unidades de medicina física e de reabilitação. Dispensável se existir ginásio na unidade. |\n| Sala de exercício clínico e/ou intervenção em grupo | Observação e tratamentos | 20 | – | Aplicável no caso de se tratar de uma unidade de fisioterapia. |\n| Laboratório de análise de movimento | Realização de exames e análise de movimento | 12 | – | Aplicável no caso de se tratar de uma unidade de fisioterapia. |\n| Área clínica/técnica - Terapia da fala(se existir) |  |  |  |  |\n| Sala de terapia da fala | Para avaliação e tratamento dos doentes | 9 | – | - |\n| Área clínica/técnica - Terapia ocupacional(se existir) |  |  |  |  |\n| Sala de atividades | Realização de atividades da vida diária, estimulação percetiva/cognitiva e atividades ocupacionais | 20 | – | Dispensável se existir ginásio equipado para o efeito na unidade. |\n| Equipamento | Depósito de material diverso | – | – | - |\n| Área clínica/técnica - Eletroterapia(se existir) |  |  |  |  |\n| Sala de tratamentos | Zona de preparação | 4 | – | - |\n|  | Box de tratamento | 2,5/box |  |  |\n| Sala de tratamentos (parafina e parafango) | Realização de tratamentos | 6 | – | Se existir. |\n| Área clínica/técnica - Cinesiterapia respiratória(se existir) |  |  |  |  |\n| Sala de tratamentos com aerossóis | Realização de inalações | 2/posto | – | - |\n| Sala de cinesiterapia | Realização de cinesiterapia respiratória e educação postural | 12 |  | Dispensável se existir ginásio na unidade. |\n| Área clínica/técnica - Cinesiterapia(se existir) |  |  |  |  |\n| Ginásio terapêutico | Realização de treinos motores | 30 | – | - |\n| Sala de repouso | Repouso dos doentes após tratamentos | 12 | – | Facultativa. Pode ser comum à hidroterapia. |\n| Área técnica - Hidroterapia(se existir) |  |  |  |  |\n| Vestiário de utentes | - | – | – | Com instalação sanitária, cacifos e duche. |\n| Piscina/tanque de marcha | Realização de treino de marcha | (a) | – | Se existir. |\n| Zona de banhos de contraste | Realização de banhos de contraste e turbilhão | 5/posto | – | Se existir. |\n| Zona para hidromassagem | Realização de tratamentos de hidromassagem | 15 | – | Se existir. |\n| Sala de repouso | Repouso dos doentes após tratamentos | 12 | – | Facultativa. Pode ser comum à cinesiterapia. |\n| Área de pessoal(aplicável a todas as unidades) |  |  |  |  |\n| Vestiário de pessoal | - | – | – | Com zona de cacifos (b) |\n| Instalação sanitária de pessoal | - | – | – | Em unidades com mais de dois gabinetes de consulta ou salas de tratamentos. |\n| Sala de pausa | Para repouso e pequenas refeições | – | – | Facultativo. |\n| Área logística(aplicável a todas as unidades) |  |  |  |  |\n| Sala de equipamento | Armazenagem | – | – | Dispensável nas unidades exclusivamente de terapia da fala. |\n| Sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de material de limpeza e despejos | – | – | Área mínima deve garantir a funcionalidade da sala, considerando o volume de sujos e tempo de permanência.Deve ser garantida a separação física entre o material de limpeza e os sujos. |\n| Zona de roupa limpa | Armazenagem | – | – | Arrumação em armário/estante/carro. |\n| Zona de material de consumo | Armazenagem | – | – | Arrumação em armário/estante/carro. |\n| Sala de reprocessamento - sala de descontaminação (c) | Para limpeza, desinfeção, triagem, montagem e embalamento de dispositivos médicos de uso múltiplo |  |  | Área mínima deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |\n| Sala de reprocessamento - zona limpa | Com esterilizador de tipo adequado e ligação à zona de descontaminação por guichet ou por máquina de lavar com duas portas |  |  | (d) |\n\n(a) Considerar como área mínima a área do tanque acrescida de um espaço de circulação a todo o seu perímetro de, pelo menos, 1,40 m.\n(b) Facultativo, caso seja centralizado para toda a unidade.\n(c) A sala de descontaminação é exigível quando a unidade não utilizar exclusivamente material descartável.\n(d) A sala de reprocessamento (zona limpa) é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior. Deve estar separada da zona de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação."
+  },
+  "914438383": {
+   "fragment_id": "914316355",
+   "type": 14,
+   "heading": "Anexo II — Aquecimento, ventilação e ar condicionado (AVAC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Aquecimento, ventilação e ar condicionado (AVAC)\n\n(a que se refere o artigo 21.º)\n\nRequisitos mínimos a considerar:\n1 - Os compartimentos devem satisfazer as condições ambiente de temperatura e humidade previstas na legislação em vigor.\n2 - Em termos de exigências associadas aos equipamentos de renovação e de extração de ar (caudal de ar novo, caudal de extração ou níveis de filtragem, a título exemplificativo), deve ser verificado o maior dos requisitos que resultem da interseção do exigido na presente portaria e na legislação em vigor na área dos edifícios no âmbito da eficiência energética.\n3 - A entidade deve realizar avaliação simplificada à qualidade do ar interior, nas condições expressas na legislação em vigor.\n4 - Caso a unidade tenha uma área inferior a 100 m2 e se observem constrangimentos técnicos no cumprimento das exigências dos requisitos mínimos de caudal de ar novo, o autor do projeto deve adotar soluções alternativas que garantam a qualidade do ar.\n\nCondições internas e caracterização das unidades de tratamento de ar\nÁrea clínica/técnica\n\n|  |  |  |  |\n| --- | --- | --- | --- |\n|  | Sala de provas de próteses | – | – |\n| Tratamento | VC/UI* | – | – |\n| Extração | Sim, forçada (2) | – | – |\n| Sobrepressão/subpressão | – | – | – |\n| Ar novo | 30 m3/h.p (1) | – | – |\n| Condições ambiente | Verão: máximo 25 °C<br>Inverno: mínimo 20 °C | – | – |\n\nÁrea clínica/técnica\nTerapia da fala/terapia ocupacional/eletroterapia/cinesiterapia\n\n|  | Sala de tratamentos | Sala de tratamentos com aerossóis | Box de tratamento/gabinete de consulta |\n| --- | --- | --- | --- |\n| Tratamento | VC/UI* | VC/UI* | VC/UI* |\n| Extração | Sim, forçada (2) | Sim, forçada (2) | Específica da zona |\n| Sobrepressão/subpressão | Subpressão | – | Subpressão |\n| Ar novo | 30 m3/h.p (1) | 30 m3/h.p (1) | 30 m3 /h.pessoa |\n| Condições ambiente | Verão: máximo 25 °C<br>Inverno: mínimo 22 °C | Verão: máximo 25 °C<br>Inverno: mínimo 22 °C | Verão: máximo 25 °C<br>Inverno: mínimo 22 °C |\n\n|  | Ginásio terapêutico/sala de exercício clínico e intervenção de grupo | Cinesiterapia/terapia da fala (4) | Parafina, parafango e calor húmido (inaloterapia) |\n| --- | --- | --- | --- |\n| Tratamento | UTA e ventilador específicos/VC/UI | VC/UI* | VC/UI* |\n| Extração | Sim, forçada (2) | Sim, forçada (2) | Específica da zona |\n| Sobrepressão/subpressão | Subpressão | – | Subpressão |\n| Ar novo | 15 m3/h.m2 | 30 m3/h.p (1) | 15 m3/h.m2 |\n| Condições ambiente | Verão: máximo 25 °C<br>Inverno: mínimo 20 °C | Verão: máximo 25 °C<br>Inverno: mínimo 20 °C | Verão: máximo 25 °C<br>Inverno: mínimo 20 °C |\n\nHidroterapia\n\n|  | Piscina/tanque de marcha | Banhos de contraste/hidromassagem | Sala de repouso |\n| --- | --- | --- | --- |\n| Tratamento | Desumidificador com bateria de reaquecimento | VC/UI* |  |\n| Recirculação | Sim | – |  |\n| Extração | Sim, forçada (2) | Sim, forçada (2) |  |\n| Sobrepressão/subpressão | – | – |  |\n| Ar novo | 30 m3/h.p (1) | 30 m3/h.pessoa |  |\n| Condições ambiente | Inverno: 30-32 °C; 60 % HR todo o ano | Verão: máximo 25 °C<br>Inverno: mínimo 20 °C |  |\n\nCondições de extração de ar noutras salas de apoio aos diversos serviços\nVentilação\nNas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar:\n\n|  |  |\n| --- | --- |\n| Sala de sujos e despejos | 10 ren/h (2) |\n| Instalações sanitárias | Em conformidade com a legislação em vigor no SCE. |\n\nObservações: SCE - Sistema de Certificação Energética dos Edifícios.\n(1) Todas as unidades de tratamento de ar (UTA) e unidades de tratamento de ar novo (UTAN) deverão ser dotadas de módulo de pré-filtragem ISO ePM10 ≥ 50 % e de módulo de filtragem ISO ePM1 ≥ 50 % ou ISO ePM1 ≥ 80 %.\n(2) O sistema de \"extração de ar de sujos\" deve ser independente do de \"limpos\".\n(3) Quanto à seleção das unidades de tratamento de ar/novo, recomenda-se que as mesmas devem apresentar certificado de construção higiénica adequada à classe de risco do espaço a climatizar.\n(4) Caso a entidade seja composta por apenas um gabinete de terapia da fala e quatro compartimentos de apoio - receção, sala de espera, IS e uma sala de sujos - e se observem constrangimentos técnicos no cumprimento das exigências dos requisitos mínimos de caudal de ar novo, o autor do projeto deve adotar soluções alternativas que garantam a qualidade do ar.\n(*) Se a unidade integrar uma fração ou um edifício que disponha de um sistema de climatização com recurso a permuta térmica ar-água o recurso a equipamentos terminais do tipo ventiloconvetor (VC) ou unidade de indução (UI) é obrigatório. Noutros casos, poderão ser utilizados outros tipos de unidades terminais, desde que promovam a recirculação do ar com filtragem e cumpram as exigências da norma EN 378-1, assim como a legislação em vigor.\n\nOutros requisitos - Para os compartimentos não indicados, relativamente às condições ambiente (temperatura e humidade), aplica-se a legislação em vigor."
+  },
+  "914438384": {
+   "fragment_id": "914316356",
+   "type": 14,
+   "heading": "Anexo III — Gases medicinais e aspiração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Gases medicinais e aspiração\n\n(a que se refere o artigo 21.º)\n\nRequisitos mínimos a considerar\nNúmero mínimo de tomadas a considerar:\n\n| Local | O2 | Aspiração<br>(vácuo) | Ar comprimido respirável<br>400 KPa |\n| --- | --- | --- | --- |\n| Zona de tratamentosCinesiterapia respiratória |  |  |  |\n| Sala de tratamentos com aerossóis (1). | 1/posto | 1/sala | 1/posto |\n\n(1) As tomadas são exigidas apenas no caso de a unidade estar integrada em unidade de saúde com outras valências que careçam de gases medicinais e de vácuo. Em caso contrário, apenas é necessária a existência de garrafas de oxigénio e ar comprimido respirável e de aparelho de aspiração portáteis em cada sala.\nOutros requisitos:\nSe a medicina física e de reabilitação estiver integrada numa unidade de saúde com outros serviços que requeiram gases e aspiração medicinais, estes devem ser disponibilizados a partir da(s) central(ais) de gases medicinais.\nA central de vácuo deve ser fisicamente separada das restantes, e a extração do sistema deve cumprir as distâncias mínimas definidas no diploma do Sistema de Certificação Energética dos Edifícios (SCE). Caso a extração de vácuo esteja abaixo (mesmo alinhamento) de um local onde seja realizada a admissão de ar, deve-se garantir que a extração seja realizada a uma cota de pelo menos 3 m acima das admissões de ar.\nA utilização do tubo de poliamida apenas deve ser permitida nas calhas técnicas, suportes de teto e colunas de teto, quando integrado pelo fabricante e desde que acompanhados dos respetivos certificados CE medicinal.\nOs cilindros de gases medicinais devem ser armazenados num compartimento próprio e exclusivo. Este compartimento deve prover adequada fixação, cobertura e ventilação aos cilindros, bem como a necessária proteção para um uso não autorizado."
+  },
+  "914438385": {
+   "fragment_id": "914316357",
+   "type": 14,
+   "heading": "Anexo IV — Instalações e equipamentos elétricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Instalações e equipamentos elétricos\n\n(a que se refere o artigo 21.º)\n\nAs instalações e equipamentos elétricos devem satisfazer as regras e regulamentos aplicáveis, as condições constantes no manual de boas práticas de medicina física e de reabilitação.\nRequisitos mínimos a considerar:\n\n| Serviço/compartimento | Sistema de sinalização de chamada e alarme | Alimentação de energia de socorro (iluminação) (*) | Alimentação de energia de socorro (*)<br>(tomadas de corrente e alimentações especiais) |\n| --- | --- | --- | --- |\n| Zona de entrada |  |  |  |\n| Receção/secretaria | – | (b) | – |\n| Zona de espera | (a) | (b) | – |\n| I. S. de público | (b) | (b) | – |\n| Zona de consultas |  |  |  |\n| Sala de provas de próteses | – | (b) | – |\n| Gabinete de consulta e tratamentos | – | (b) | – |\n| Zona de tratamentos |  |  |  |\n| Terapia da fala: |  |  |  |\n| Sala da terapia da fala | – | (b) | – |\n| Terapia ocupacional: |  |  |  |\n| Sala de tratamentos | – | (b) | – |\n| Eletroterapia: |  |  |  |\n| Sala de tratamentos de eletroterapia | – | (b) | – |\n| Sala de tratamentos (parafina e parafango) | – | (b) | – |\n| Cinesiterapia respiratória: |  |  |  |\n| Sala de tratamento com aerossóis | – | (b) | – |\n| Cinesiterapia: |  |  |  |\n| Ginásio terapêutico/sala de exercício clínico e intervenção de grupo | – | (b) | – |\n| Sala de repouso | (b) | (b) |  |\n| Hidroterapia: |  |  |  |\n| Vestiário de doentes | (b) | (b) | – |\n| Piscina/tanque de marcha | – | (b) | (b) |\n| Banhos de contraste | – | (b) | – |\n| Hidromassagem | – | (b) | – |\n| Sala de repouso | (b) | (b) | – |\n\n(a) Facultativo.\n(b) Obrigatório. Na instalação de iluminação, a obrigatoriedade aplica-se à manutenção de, pelo menos, 50 % do nível de iluminação normal do compartimento, para além da que está prevista nas regras técnicas das instalações elétricas de B. T.\nRequisitos especiais\n1 - Os compartimentos assinalados no quadro anterior deverão dispor de um sistema de sinalização acústico-luminoso que assegure a chamada de pessoal em serviço pelos utentes. Este sistema deve satisfazer as seguintes condições:\ni) Incorporar um dispositivo de chamada e um sinalizador luminoso de confirmação de chamada instalados nos compartimentos indicados no quadro anterior, facilmente acessível pelo utente. O cancelamento da chamada só poderá ser efetuado no próprio compartimento onde se realizou a chamada. A chamada é assinalada por sinalização acústica e luminosa no local de permanência do pessoal de serviço;\nii) O sistema deve ser considerado uma instalação de segurança.\n2 - Todos os compartimentos deverão dispor do número de tomadas necessárias à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista (um equipamento por tomada) mais uma tomada adicional para equipamento de limpeza.\n3 - Todos os elevadores deverão dispor das condições para se movimentarem até ao piso de entrada em caso de falha de energia elétrica.\nNota. - Alimentação de socorro ou de substituição: alimentação elétrica destinada a manter em funcionamento uma instalação ou partes desta em caso de falta da alimentação normal por razões que não sejam a segurança de pessoas.\nDe acordo com as regras técnicas das instalações elétricas de baixa tensão, os equipamentos essenciais à segurança das pessoas deverão ser alimentados por uma fonte de segurança ou de emergência, que não deve ser usada para outros fins, caso seja única."
+  },
+  "914438386": {
+   "fragment_id": "914316358",
+   "type": 14,
+   "heading": "Anexo V — Equipamento sanitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Equipamento sanitário\n\n(a que se refere o artigo 21.º)\n\nRequisitos mínimos a considerar:\n\n| Serviço/compartimento | Equipamento sanitário |\n| --- | --- |\n| Instalação sanitária de público, adaptada a pessoas com mobilidade condicionada: |  |\n| Antecâmara (se existir) | Lavatório (recomendável) |\n| Cabine de retrete | Lavatório e bacia de retrete (a) |\n| Gabinete de consulta | Lavatório (b) |\n| Sala de tratamentos de parafina | Tina de bancada (b) |\n| Vestiário de doentes (c): | Lavatório |\n| Cabine de retrete | Lavatório e bacia de retrete (a) |\n| Cabine de duche | Tina de duche (a) |\n| Piscina/tanque de marcha | (d) |\n| Banhos de contraste | (d) |\n| Hidromassagem | (d) |\n| Vestiário de pessoal: | Lavatório (c) |\n| Cabine de retrete (c) | Lavatório e bacia de retrete |\n| Cabine de duche (c) | Tina de duche |\n| Instalações sanitárias de pessoal: |  |\n| Antecâmara (se existir) | Lavatório (recomendável) |\n| Cabine de retrete | Lavatório e bacia de retrete |\n| Sala de pessoal (se existir) | Tina de bancada |\n| Sala de sujos e despejos | Lavatório, pia hospitalar |\n\n(a) Com acessórios para pessoas com mobilidade condicionada.\n(b) Com torneiras de comando não manual.\n(c) Se existir piscina ou tanque de marcha.\n(d) Com pontos de água e de esgoto."
+  },
+  "914438387": {
+   "fragment_id": "914316359",
+   "type": 14,
+   "heading": "Anexo VI — Equipamento médico e equipamento geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Equipamento médico e equipamento geral\n\n(a que se refere o artigo 21.º)\n\nEquipamento médico e geral a considerar:\n\n1 - O estabelecimento deve dispor do equipamento médico e geral para a prossecução da atividade desenvolvida, sem prescindir do equipamento de suporte básico de vida, nomeadamente equipamento de ventilação manual, tipo insuflador manual.\n\n2 - Todos os compartimentos dedicados à prestação de cuidados devem ser dotados de dispensador de sabão líquido, SABA (solução antisséptica de base alcoólica), porta-toalhetes e balde de lixo acionado por pedal.\n\n3 - Nas salas de tratamento, devem existir recipientes para a triagem e recolha de resíduos hospitalares, de acordo com a legislação em vigor;\n\n4 - Deve ser considerado o equipamento médico e geral mínimo, previsto no manual de boas práticas de medicina física e de reabilitação vigente.\n\n117429673"
+  },
+  "914438438": {
+   "fragment_id": "914316350",
+   "type": 11,
+   "heading": "Artigo 24.º — Prazos de adaptação",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 24.º — Prazos de adaptação\n\n1 - As unidades de medicina física e de reabilitação licenciadas e as unidades de fisioterapia, unidades de terapia da fala e unidades de terapia ocupacional, em funcionamento, dispõem do prazo de cinco anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos, devendo, no mesmo prazo e sem prejuízo do disposto no artigo 12.º do Decreto-Lei n.º 127/2014, de 22 de agosto, requerer, através do Portal de Licenciamento, da Entidade Reguladora da Saúde, a licença de funcionamento que ateste a conformidade com a regulamentação vigente.\n\n2 - Tratando-se de unidades que disponham de licença de funcionamento emitida pela ERS ao abrigo do Decreto-Lei n.º 127/2014, de 22 de agosto, e da regulamentação prevista no n.º 2 do artigo 25.º do mesmo diploma e cuja obtenção deva seguir o procedimento ordinário, no prazo definido no número anterior, deverão solicitar, através do Portal de Licenciamento, a emissão de nova licença com dispensa de vistoria prévia, através de requerimento fundamentado que ateste o cumprimento dos novos requisitos técnicos de funcionamento aqui previstos.\n\n3 - As IPSS, as instituições militares e as pessoas coletivas públicas em funcionamento dispõem do prazo de cinco anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos.\n\n4 - Os titulares de processos de licenciamento em curso, à data de entrada em vigor da presente portaria, podem optar pela adequação aos novos requisitos técnicos de funcionamento aqui previstos, mediante requerimento dirigido à ERS.\n\n5 - Nas situações referidas no número anterior, a ERS dará continuidade à tramitação dos processos, aproveitando os atos já praticados e decidindo sobre o pedido de emissão da licença de funcionamento, à luz dos requisitos técnicos definidos na presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+  },
+  "914438381": {
+   "fragment_id": "914316353",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 1 de março de 2024.\n\nA Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho. - O Ministro da Saúde, Manuel Francisco Pizarro de Sampaio e Castro."
+  },
+  "914438467": {
+   "fragment_id": "914316354",
+   "type": 14,
+   "heading": "Anexo I — Unidades de medicina física e de reabilitação, fisioterapia, terapia da fala e terapia ocupacional",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "## Anexo I — Unidades de medicina física e de reabilitação, fisioterapia, terapia da fala e terapia ocupacional\n\n(a que se refere o artigo 21.º)\n\nCompartimentos a considerar:\n\n| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |\n| --- | --- | --- | --- | --- |\n| Área de acolhimento (*)(aplicável a todas as unidades) |  |  |  |  |\n| Receção/secretaria | Secretaria com zona de atendimento de público | – | – | - |\n| Zona de espera | Espera pelo atendimento | – | – | Junto à receção/secretaria. |\n| Macas/cadeiras de rodas | Arrumação de macas e cadeiras de rodas | – | – | Preferencialmente situado junto à entrada. Dispensável nas unidades exclusivamente de terapia da fala. |\n| Instalação sanitária de público | - | – | – | Adaptada a pessoas com mobilidade condicionada. |\n| Área clínica/técnica |  |  |  |  |\n| Gabinete de consulta | Elaboração da história clínica dos doentes e observação | 12 | 2,6 | Aplicável às unidades de medicina física e reabilitação e fisioterapia. |\n| Sala de provas de próteses | Ensino de próteses e ajudas | 15 | – | Aplicável às unidades de medicina física e reabilitação. Dispensável se existir ginásio na unidade. |\n| Sala de exercício clínico e/ou intervenção em grupo | Observação e tratamentos | 20 | – | Aplicável no caso de se tratar de uma unidade de fisioterapia. |\n| Laboratório de análise de movimento | Realização de exames e análise de movimento | 12 | – | Aplicável no caso de se tratar de uma unidade de fisioterapia. |\n| Área clínica/técnica - Terapia da fala(se existir) |  |  |  |  |\n| Sala de terapia da fala | Para avaliação e tratamento dos doentes | 9 | – | - |\n| Área clínica/técnica - Terapia ocupacional(se existir) |  |  |  |  |\n| Sala de atividades | Realização de atividades da vida diária, estimulação percetiva/cognitiva e atividades ocupacionais | 20 | – | Dispensável se existir ginásio equipado para o efeito na unidade. |\n| Equipamento | Depósito de material diverso | – | – | - |\n| Área clínica/técnica - Eletroterapia(se existir) |  |  |  |  |\n| Sala de tratamentos | Zona de preparaçãoBox de tratamento | 42,5/box | - | - |\n|  |  |  |  |  |\n| Sala de tratamentos (parafina e parafango) | Realização de tratamentos | 6 | - | Se existir. |\n| Área clínica/técnica - Cinesiterapia respiratória(se existir) |  |  |  |  |\n| Sala de tratamentos com aerossóis | Realização de inalações | 2/posto | - | - |\n| Sala de cinesiterapia | Realização de cinesiterapia respiratória e educação postural | 12 |  | Dispensável se existir ginásio na unidade. |\n| Área clínica/técnica - Cinesiterapia(se existir) |  |  |  |  |\n| Ginásio terapêutico | Realização de treinos motores | 30 | – | - |\n| Sala de repouso | Repouso dos doentes após tratamentos | 12 | – | Facultativa. Pode ser comum à hidroterapia. |\n| Área técnica - Hidroterapia(se existir) |  |  |  |  |\n| Vestiário de utentes | - | – | – | Com instalação sanitária, cacifos e duche. |\n| Piscina/tanque de marcha | Realização de treino de marcha | (a) | – | Se existir. |\n| Zona de banhos de contraste | Realização de banhos de contraste e turbilhão | 5/posto | – | Se existir. |\n| Zona para hidromassagem | Realização de tratamentos de hidromassagem | 15 | – | Se existir. |\n| Sala de repouso | Repouso dos doentes após tratamentos | 12 | – | Facultativa. Pode ser comum à cinesiterapia. |\n| Área de pessoal (*)(aplicável a todas as unidades) |  |  |  |  |\n| Vestiário de pessoal | - |  | – | Com zona de cacifos (b). |\n| Instalação sanitária de pessoal | - | – | – | Em unidades com mais de dois gabinetes de consulta ou salas de tratamentos. |\n| Sala de pausa | Para repouso e pequenas refeições | – | – | Facultativo. |\n| Área logística (*)(aplicável a todas as unidades) |  |  |  |  |\n| Sala de equipamento | Armazenagem | – | – | Dispensável nas unidades exclusivamente de terapia da fala. |\n| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de material de limpeza e despejos | – | – | Área mínima deve garantir a funcionalidade da sala, considerando o volume de sujos e tempo de permanência.Deve ser garantida a separação física entre o material de limpeza e os sujos. |\n| Zona de roupa limpa | Armazenagem | – | – | Arrumação em armário/estante/carro. |\n| Zona de material de consumo | Armazenagem | – | – | Arrumação em armário/estante/carro. |\n| Área de reprocessamento. Sala de descontaminação (c) | Para limpeza e desinfeção de dispositivos médicos de uso múltiplo |  |  | Área mínima deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |\n| Área de reprocessamento. Sala limpa | Com esterilizador de tipo adequado e ligação à zona de descontaminação por guichet ou por máquina de lavar com duas portas. |  |  | (d) |\n\n(*) Possibilidade de partilha com serviço adjacente, no caso de estar integrado numa unidade de saúde.\n\n(a) Considerar como área mínima a área do tanque acrescida de um espaço de circulação a todo o seu perímetro de, pelo menos, 1,40 m.\n\n(b) Facultativo, caso seja centralizado para toda a unidade.\n\n(c) A sala de descontaminação é exigível quando a unidade não utilizar exclusivamente material descartável.\n\n(d) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior. Deve estar separada da sala de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+  },
+  "914438468": {
+   "fragment_id": "914316355",
+   "type": 14,
+   "heading": "Anexo II — Aquecimento, ventilação e ar condicionado (AVAC)",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "## Anexo II — Aquecimento, ventilação e ar condicionado (AVAC)\n\n(a que se refere o artigo 21.º)\n\nRequisitos mínimos a considerar:\n\n1 - Os compartimentos devem satisfazer as condições ambiente de temperatura e humidade previstas na legislação em vigor.\n2 - Em termos de exigências associadas aos equipamentos de renovação e de extração de ar (caudal de ar novo, caudal de extração ou níveis de filtragem, a título exemplificativo), deve ser verificado o maior dos requisitos que resultem da interseção do exigido na presente portaria e na legislação em vigor na área dos edifícios no âmbito da eficiência energética.\n3 - A entidade deve realizar avaliação simplificada à qualidade do ar interior, nas condições expressas na legislação em vigor.\n\nCondições internas e caracterização das unidades de tratamento de ar\n\nÁrea clínica/técnica\n\n|  | **Sala de provas de****próteses** | **-** | **-** |  |\n| --- | --- | --- | --- | --- |\n| Tratamento | VC/UI* | - | - |  |\n|  |  |  |  |  |\n| Extração | Sim, forçada (2) | - | - |  |\n| Sobrepressão/subpressão | - | - | - |  |\n| Ar novo | 30 m3/h.p (1) | - | - |  |\n| Condições ambiente | Verão: máximo 25º CInverno: mínimo 20º C | - | - |  |\n\nÁrea clínica/técnica\n\nTerapia da fala/terapia ocupacional/electroterapia/cinesiterapia   [if !supportMisalignedRows]\n\n|  | **Sala de tratamentos** | **Sala de tratamentos com aerossóis** | **Box de tratamento/****Gabinete de consulta** |  |\n| --- | --- | --- | --- | --- |\n| Tratamento | VC/UI* | VC/UI* | VC/UI* |  |\n|  |  |  |  |  |\n| Extração | Sim, forçada (2) | Sim, forçada (2) | Específica da zona |  |\n| Sobrepressão/subpressão | Subpressão | - | Subpressão |  |\n| Ar novo | 30 m3/h.p (1) | 30 m3/h.p (1) | 30m3 /h.pessoa |  |\n| Condições ambiente | Verão: máximo 25º CInverno: mínimo 22º C | Verão: máximo 25º CInverno: mínimo 22º C | Verão: máximo 25º CInverno: mínimo 22º C |  |\n\n[if !supportMisalignedRows]\n\n|  | **Ginásio terapêutico / Sala de exercício clínico e intervenção de grupo** | **Cinesiterapia/terapia da****fala (4)**[if !supportLineBreakNewLine] [endif] | **Parafina, Parafango e Calor Húmido (Inaloterapia)** |  |\n| --- | --- | --- | --- | --- |\n| Tratamento | UTA e ventilador específicos / VC/UI | VC/UI* | VC/UI* |  |\n|  |  |  |  |  |\n| Extração | Sim, forçada (2) | Sim, forçada (2) | Específica da zona |  |\n| Sobrepressão/subpressão | Subpressão | - | Subpressão |  |\n| Ar novo | 15m3/h.m2 | 30 m3/h.p (1) | 15m3/h.m2 |  |\n| Condições ambiente | Verão: máximo 25º CInverno: mínimo 20º C | Verão: máximo 25º CInverno: mínimo 20º C | Verão: máximo 25º CInverno: mínimo 20º C |  |\n\nHidroterapia      [if !supportMisalignedRows]\n\n|  | **Piscina / Tanque de marcha** | **Banhos de****contraste/hidromassagem** | **Sala de repouso** |  |\n| --- | --- | --- | --- | --- |\n| Tratamento | Desumidificador com bateria de reaquecimento | VC/UI* |  |  |\n|  |  |  |  |  |\n| Recirculação | Sim | - |  |  |\n| Extração | Sim, forçada (2) | Sim, forçada (2) |  |  |\n| Sobrepressão/subpressão | - | - |  |  |\n| Ar novo | 30 m3/h.p (1) | 30m3 /h.pessoa |  |  |\n| Condições ambiente | Inverno: 30 - 32º C; 60% HR todo o ano | Verão: máximo 25º CInverno: mínimo 20º C |  |  |\n\nCondições de extração de ar noutras salas de apoio aos diversos serviços\n\n[if !supportMisalignedRows]\n\nVentilação\n\nNas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar:\n\n| **Sala de sujos e despejos** | 10 ren/h (2) |\n| --- | --- |\n| **Instalações sanitárias** | Em conformidade com a legislação em vigor no SCE. |\n\nObservações. - SCE - Sistema de Certificação Energética dos Edifícios. (1) Todas as unidades de tratamento de ar (UTA) e unidades de tratamento de ar novo (UTAN) deverão ser dotadas de módulo de pré-filtragem ISO ePM10 ≥ 50 % e de módulo de filtragem ISO ePM1 ≥ 50 % ou ISO ePM1 ≥ 80 %  (2) O sistema de «extração de ar de sujos» deve ser independente do de «limpos».  (3) Quanto à seleção das unidades de tratamento de ar/novo, recomenda-se que as mesmas devem apresentar certificado de construção higiénica adequada à classe de risco do espaço a climatizar.  (*) Se a unidade integrar uma fração ou um edifício que disponha de um sistema de climatização com recurso a permuta térmica ar-água, o recurso a equipamentos terminais do tipo ventiloconvetor (VC) ou unidade de indução (UI) é obrigatório. Noutros casos, poderão ser utilizados outros tipos de unidades terminais, desde que promovam a recirculação do ar com filtragem, e cumpram as exigências da norma EN 378-1, assim como a legislação em vigor. Outros requisitos - Para os compartimentos não indicados, relativamente às condições ambiente (temperatura e humidade), aplica-se a legislação em vigor.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+  },
+  "914438469": {
+   "fragment_id": "914316359",
+   "type": 14,
+   "heading": "Anexo VI — Equipamento médico e equipamento geral",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "## Anexo VI — Equipamento médico e equipamento geral\n\n(a que se refere o artigo 21.º)\n\nEquipamento médico e geral a considerar:\n\n1 - O estabelecimento deve dispor do equipamento médico e geral para a prossecução da atividade desenvolvida, sem prescindir do equipamento de suporte básico de vida, nomeadamente equipamento de ventilação manual, tipo insuflador manual.\n\n2 - Todos os compartimentos dedicados à prestação de cuidados devem ser dotados de dispensador de sabão líquido, SABA (solução antisséptica de base alcoólica), porta-toalhetes e contentores de resíduos de abertura não manual.\n\n3 - Nos compartimentos onde esteja prevista a produção de resíduos hospitalares, devem existir recipientes, com abertura não manual, para a triagem e recolha de resíduos hospitalares, de acordo com a legislação em vigor.\n\n4 - Deve ser considerado o equipamento médico e geral mínimo previsto no manual de boas práticas de medicina física e de reabilitação vigente.\n\n117429673\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+  },
+  "937938273": {
+   "fragment_id": "914316350",
+   "type": 11,
+   "heading": "Artigo 24.º — Prazos de adaptação",
+   "in_force_from": "2025-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 326/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/326-2025-938108821), em vigor a partir de 2025-10-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 24.º — Prazos de adaptação\n\n1 - As unidades de medicina física e de reabilitação licenciadas e as unidades de fisioterapia, unidades de terapia da fala e unidades de terapia ocupacional, em funcionamento, dispõem do prazo de cinco anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos, devendo, no mesmo prazo e sem prejuízo do disposto no artigo 12.º do Decreto-Lei n.º 127/2014, de 22 de agosto, requerer, através do Portal de Licenciamento, da Entidade Reguladora da Saúde, a licença de funcionamento que ateste a conformidade com a regulamentação vigente.\n\n2 - (Revogado).\n\n3 - As IPSS, as instituições militares e as pessoas coletivas públicas em funcionamento dispõem do prazo de cinco anos, a contar da entrada em vigor da presente portaria, para adaptação aos requisitos técnicos de funcionamento aqui previstos.\n\n4 - Os titulares de processos de licenciamento em curso, à data de entrada em vigor da presente portaria, podem optar pela adequação aos novos requisitos técnicos de funcionamento aqui previstos, mediante requerimento dirigido à ERS.\n\n5 - Nas situações referidas no número anterior, a ERS dará continuidade à tramitação dos processos, aproveitando os atos já praticados e decidindo sobre o pedido de emissão da licença de funcionamento, à luz dos requisitos técnicos definidos na presente portaria.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 326/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/326-2025-938108821), em vigor a partir de 2025-10-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+  },
+  "938213786": {
+   "fragment_id": "914316354",
+   "type": 14,
+   "heading": "Anexo I — Unidades de medicina física e de reabilitação, fisioterapia, terapia da fala e terapia ocupacional",
+   "in_force_from": "2025-10-07",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 326/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/326-2025-938108821), em vigor a partir de 2025-10-07",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "## Anexo I — Unidades de medicina física e de reabilitação, fisioterapia, terapia da fala e terapia ocupacional\n\n(a que se refere o artigo 21.º)\n\n| Designação | Função do compartimento | Área útil mínima (m2) | Largura mínima (m) | Observações |\n| --- | --- | --- | --- | --- |\n| Área de acolhimento (*)(aplicável a todas as unidades) |  |  |  |  |\n| Receção/secretaria | Secretaria com zona de atendimento de público | – | – | - |\n| Zona de espera | Espera pelo atendimento | – | – | Junto à receção/secretaria. |\n| Zona de Macas/cadeiras de rodas | Arrumação de macas e cadeiras de rodas | – | – | Preferencialmente situado junto à entrada.Dispensável nas unidades exclusivamente de terapia da fala. |\n| Instalação sanitária de público | – | – | – | Adaptada a pessoas com mobilidade condicionada. |\n| Área clínica/técnica |  |  |  |  |\n| Gabinete de consulta | Elaboração da história clínica dos doentes e observação | 12 | 2,6 | Exigível às unidades de medicina física e reabilitação |\n| Sala de provas de próteses | Ensino de próteses e ajudas | 15 | – | Exigível às unidades de medicina física e reabilitação. Dispensável se existir ginásio na unidade. |\n| Sala de exercício clínico e/ou intervenção em grupo | Observação e tratamentos | 20 | – | Exigível às unidades de fisioterapia, caso exista lugar à sua realização. |\n| Laboratório de análise de movimento | Realização de exames e análise de movimento | 12 | – | Facultativo |\n| Sala de tratamentos de fisioterapia | Observação e tratamentos individuais de fisioterapia | 12 |  | Exigível às unidades de fisioterapia |\n| Área clínica/técnica - Terapia da fala(se existir) |  |  |  |  |\n| Sala de terapia da fala | Para avaliação e tratamento dos doentes | 9 | – |  |\n| Área clínica/técnica - Terapia ocupacional(se existir) |  |  |  |  |\n| Sala de atividades | Realização de atividades da vida diária, estimulação percetiva/cognitiva e atividades ocupacionais. | 20 | – | Dispensável se existir ginásio equipado para o efeito na unidade. |\n| Equipamento | Depósito de material diverso | – | – | - |\n| Área clínica/técnica - Eletroterapia(se existir) |  |  |  |  |\n| Sala de tratamentos | Zona de preparaçãoBox de tratamento | 42,5/box | – | - |\n| Sala de tratamentos (parafina e parafango) | Realização de tratamentos | 6 | – | Se existir |\n| Área clínica/técnica - Cinesiterapia respiratória(se existir) |  |  |  |  |\n| Sala de tratamentos com aerossóis | Realização de inalações | 2/posto | – | - |\n| Sala de cinesiterapia | Realização de cinesiterapia respiratória e educação postural. | 12 |  | Dispensável se existir ginásio na unidade. |\n| Área clínica/técnica - Cinesiterapia(se existir) |  |  |  |  |\n| Ginásio terapêutico | Realização de treinos motores | 30 | – | – |\n| Sala de repouso | Repouso dos doentes após tratamentos | 12 | – | Facultativa. Pode ser comum à hidroterapia. |\n| Área técnica - Hidroterapia(se existir) |  |  |  |  |\n| Vestiário de utentes | - | – | – | Com instalação sanitária, cacifos e duche |\n| Piscina/tanque de marcha | Realização de treino de marcha | (a) | – | Se existir |\n| Zona de banhos de contraste | Realização de banhos de contraste e turbilhão | 5/posto | – | Se existir |\n| Zona para hidromassagem | Realização de tratamentos de hidromassagem | 15 | – | Se existir |\n| Sala de repouso | Repouso dos doentes após tratamentos | 12 | – | Facultativa. Pode ser comum à cinesiterapia |\n| Área de pessoal (*)(aplicável a todas as unidades) |  |  |  |  |\n| Vestiário de pessoal | - |  | – | Com zona de cacifos b) |\n| Instalação sanitária de pessoal | - | – | – | Facultativa, exceto se mais de dois trabalhadores em simultâneo; |\n| Sala de pausa | Para repouso e pequenas refeições | – | – | Facultativo |\n| Área logística (*)(aplicável a todas as unidades) |  |  |  |  |\n| Sala de equipamento | Armazenagem | – | – | Dispensável nas unidades exclusivamente de terapia da fala. |\n| Sala de sujos e despejos | Para arrumação temporária de sacos de roupa suja e de resíduos, de material de limpeza e despejos | - | – | Área mínima deve garantir a funcionalidade da sala, considerando o volume de sujos e tempo de permanência.Deve ser garantida a separação física entre o material de limpeza e os sujos. |\n| Zona de roupa limpa | Armazenagem | – | – | Arrumação em armário/estante/carro |\n| Zona de material de consumo | Armazenagem | – | – | Arrumação em armário/estante/carro |\n| Área de reprocessamentoSala de descontaminação c) | Para limpeza e desinfeção de dispositivos médicos de uso múltiplo |  |  | Área mínima deve garantir a funcionalidade e segurança em todas as fases do reprocessamento dos dispositivos médicos. |\n| Área de reprocessamentoSala limpa | Com esterilizador de tipo adequado e ligação à zona de descontaminação por “guichet” ou por máquina de lavar com duas portas. |  |  | d) |\n\n(*) Possibilidade de partilha com serviço adjacente, no caso de estar integrado numa unidade de saúde.\n\na) Considerar como área mínima a área do tanque acrescida de um espaço de circulação a todo o seu perímetro de, pelo menos, 1,40 m.\n\nb) Facultativo, caso seja centralizado para toda a unidade.\n\nc) A sala de descontaminação é exigível quando a unidade não utilizar exclusivamente material descartável.\n\nd) A sala limpa é exigível quando a unidade não utilize exclusivamente material descartável, não dispuser de serviços centralizados de esterilização ou recurso ao exterior. Deve estar separada da sala de descontaminação por divisória integral até ao teto (ou teto falso), sendo admissível a existência de uma porta de comunicação.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 326/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/326-2025-938108821), em vigor a partir de 2025-10-07\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+  },
+  "938213787": {
+   "fragment_id": "914316355",
+   "type": 14,
+   "heading": "Anexo II — Aquecimento, ventilação e ar condicionado (AVAC)",
+   "in_force_from": "2025-10-07",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 326/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/326-2025-938108821), em vigor a partir de 2025-10-07",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "## Anexo II — Aquecimento, ventilação e ar condicionado (AVAC)\n\n(a que se refere o artigo 21.º)\n\n|  | Ginásio terapêutico/Sala de exercício clínico e intervenção de grupo | Cinesiterapia/terapia da fala | Parafina, parafango e calor húmido (inaloterapia) |\n| --- | --- | --- | --- |\n| Tratamento | UTA e ventilador específicos/VC/UI * | VC/UI* | VC/UI* |\n| Extração | Sim, forçada (2) | Sim, forçada (2) | Sim, forçada (2) |\n| Sobrepressão/subpressão | Subpressão | - | Subpressão |\n| Ar novo | 15 m3/h.m2 (1) | 30 m3/h.p (1) | 15 m3/h.m2 (1) |\n| Condições ambiente | Verão: máximo 25 °CInverno: mínimo 20 °C | Verão: máximo 25 °CInverno: mínimo 20 °C | Verão: máximo 25 °CInverno: mínimo 20 °C |\n\nHidroterapia\n\n|  | Piscina/tanque de marcha | Banhos de contraste/hidromassagem | Sala de repouso |\n| --- | --- | --- | --- |\n| Tratamento | Desumidificador com bateria de reaquecimento (*) | VC/UI* |  |\n| Recirculação | Sim | - |  |\n| Extração | Sim, forçada (2) | Sim, forçada (2) |  |\n| Sobrepressão/subpressão | - | - |  |\n| Ar novo | 30 m3/h.p (1) | 30 m3 /h.pessoa (1) |  |\n| Condições ambiente | Inverno: 30-32 °C; 60 % HR todo o ano | Verão: máximo 25 °CInverno: mínimo 20 °C |  |\n\nCondições de extração de ar noutras salas de apoio aos diversos serviços\n\nVentilação\n\nNas salas de apoio com eventual produção de ambientes poluídos, serão aplicados sistemas de extração forçada de ar, devendo ser consideradas nesses casos as seguintes taxas de extração de ar:\n\n| Sala de sujos e despejos | 10 ren/h (2) |\n| --- | --- |\n| Instalações sanitárias | Em conformidade com a legislação em vigor no SCE. |\n\nObservações. - SCE - Sistema de Certificação Energética dos Edifícios.\n\n(1) Todas as unidades de tratamento de ar (UTA) e unidades de tratamento de ar novo (UTAN) deverão ser dotadas de módulo de pré-filtragem ISO ePM10 ≥ 50 % e de módulo de filtragem ISO ePM1 ≥ 50 % ou ISO ePM1 ≥ 80 %.\n\n(2) O sistema de “extração de ar de sujos” deve ser independente do de “limpos”.\n\n(3) Quanto à seleção das unidades de tratamento de ar/novo, recomenda-se que as mesmas devem apresentar certificado de construção higiénica adequada à classe de risco do espaço a climatizar.\n\n(*) Se a unidade integrar uma fração ou um edifício que disponha de um sistema de climatização com recurso a permuta térmica ar-água o recurso a equipamentos terminais do tipo ventiloconvetor (VC) ou unidade de indução (UI) é obrigatório. Noutros casos, poderão ser utilizados outros tipos de unidades terminais, desde que promovam a recirculação do ar com filtragem, e cumpram as exigências da norma EN 378-1, assim como a legislação em vigor.\n\nOutros requisitos - Para os compartimentos não indicados, relativamente às condições ambiente (temperatura e humidade), aplica-se a legislação em vigor.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 326/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/326-2025-938108821), em vigor a partir de 2025-10-07\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 164/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/164-2025-914375909), em vigor a partir de 2025-04-10"
+  },
+  "938213788": {
+   "fragment_id": "914316357",
+   "type": 14,
+   "heading": "Anexo IV — Instalações e equipamentos elétricos",
+   "in_force_from": "2025-10-07",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 326/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/326-2025-938108821), em vigor a partir de 2025-10-07"
+   ],
+   "markdown": "## Anexo IV — Instalações e equipamentos elétricos\n\n(a que se refere o artigo 21.º)\n\nAs instalações e equipamentos elétricos devem satisfazer as regras e regulamentos aplicáveis, as condições constantes no manual de boas práticas de medicina física e de reabilitação.\nRequisitos mínimos a considerar:\n\n| Serviço/compartimento | Sistema de sinalização de chamada e alarme | Alimentação de energia de socorro (iluminação) (*) | Alimentação de energia de socorro (*)<br>(tomadas de corrente e alimentações especiais) |\n| --- | --- | --- | --- |\n| Zona de entrada |  |  |  |\n| Receção/secretaria | – | (b) | – |\n| Zona de espera | (a) | (b) | – |\n| I. S. de público | (b) | (b) | – |\n| Zona de consultas |  |  |  |\n| Sala de provas de próteses | – | (b) | – |\n| Gabinete de consulta e tratamentos | – | (b) | – |\n| Zona de tratamentos |  |  |  |\n| Terapia da fala: |  |  |  |\n| Sala da terapia da fala | – | (b) | – |\n| Terapia ocupacional: |  |  |  |\n| Sala de tratamentos | – | (b) | – |\n| Eletroterapia: |  |  |  |\n| Sala de tratamentos de eletroterapia | – | (b) | – |\n| Sala de tratamentos (parafina e parafango) | – | (b) | – |\n| Cinesiterapia respiratória: |  |  |  |\n| Sala de tratamento com aerossóis | – | (b) | – |\n| Cinesiterapia: |  |  |  |\n| Ginásio terapêutico/sala de exercício clínico e intervenção de grupo | – | (b) | – |\n| Sala de repouso | (b) | (b) |  |\n| Hidroterapia: |  |  |  |\n| Vestiário de doentes | (b) | (b) | – |\n| Piscina/tanque de marcha | – | (b) | (b) |\n| Banhos de contraste | – | (b) | – |\n| Hidromassagem | – | (b) | – |\n| Sala de repouso | (b) | (b) | – |\n\n(a) Facultativo.\n(b) Obrigatório. Na instalação de iluminação, a obrigatoriedade aplica-se à manutenção de, pelo menos, 50 % do nível de iluminação normal do compartimento, para além da que está prevista nas regras técnicas das instalações elétricas de B. T.\nRequisitos especiais\n1 - Os compartimentos assinalados no quadro anterior deverão dispor de um sistema de sinalização acústico-luminoso que assegure a chamada de pessoal em serviço pelos utentes. Este sistema deve satisfazer as seguintes condições:\ni) Incorporar um dispositivo de chamada e um sinalizador luminoso de confirmação de chamada instalados nos compartimentos indicados no quadro anterior, facilmente acessível pelo utente. O cancelamento da chamada só poderá ser efetuado no próprio compartimento onde se realizou a chamada. A chamada é assinalada por sinalização acústica e luminosa no local de permanência do pessoal de serviço;\nii) O sistema deve ser considerado uma instalação de segurança.\n2 - Todos os compartimentos deverão dispor do número de tomadas necessárias à ligação individual de todos os equipamentos cuja utilização simultânea esteja prevista (um equipamento por tomada) mais uma tomada adicional para equipamento de limpeza.\n3 - Todos os elevadores deverão dispor das condições para se movimentarem até ao piso de entrada em caso de falha de energia elétrica.\nNota. - Alimentação de socorro ou de substituição: alimentação elétrica destinada a manter em funcionamento uma instalação ou partes desta em caso de falta da alimentação normal por razões que não sejam a segurança de pessoas.\nDe acordo com as regras técnicas das instalações elétricas de baixa tensão, os equipamentos essenciais à segurança das pessoas deverão ser alimentados por uma fonte de segurança ou de emergência, que não deve ser usada para outros fins, caso seja única.\n\n4 - Na iluminação interior, devem ser observadas as orientações constantes da Norma ISS 8995 CIE S 008/E de 15 de maio de 2003, contendo as especificações da Commission Internationale de L’Éclairage, ou da EN 12464-01/2021, sobre os níveis de iluminação e respetiva uniformidade em estabelecimentos de saúde, bem como sobre a capacidade de restituição de cores das fontes luminosas a utilizar e sobre a prevenção do desconforto visual. As unidades novas ou sujeitas a remodelações em data posterior à publicação do presente diploma, devem dar cumprimento aos requisitos dos sistemas fixos de iluminação previstos no n.º 4 do anexo II da Portaria n.º 138-I/2021, de 1 de julho.\n\n5 - A instalação elétrica geral, tal como os vários locais de uso médico devem ser concebidos em conformidade com as Regras Técnicas das Instalações Elétricas de Baixa Tensão (RTIEBT), previstas na Portaria n.º 949-A/2006, de 11 de setembro.\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 326/2025/1 - Diário da República n.º 192/2025, Série I de 2025-10-06](https://diariodarepublica.pt/dr/detalhe/portaria/326-2025-938108821), em vigor a partir de 2025-10-07"
+  }
+ }
+}

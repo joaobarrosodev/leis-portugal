@@ -1,0 +1,1541 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:401895:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-114509727",
+ "dre_path": "/dr/detalhe/decreto-lei/492-1988-401895",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1988-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510184",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510191",
+    "114510192",
+    "114510193",
+    "114510194",
+    "114510195",
+    "114510196",
+    "114510197",
+    "114510198",
+    "114510199",
+    "114510200",
+    "114510201",
+    "114510202",
+    "114510203",
+    "114510204",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510210",
+    "114510211",
+    "114510212",
+    "114510213",
+    "114510214",
+    "114510215",
+    "114510216",
+    "114510217",
+    "114510218",
+    "114510219",
+    "114510220",
+    "114510221",
+    "114510222",
+    "114510223",
+    "114510224",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230"
+   ]
+  },
+  {
+   "date": "1990-06-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:293715:por",
+     "title": "Decreto-Lei n.º 172-A/90",
+     "published": "1990-05-31",
+     "dre_path": "/dr/detalhe/decreto-lei/172-a-1990-293715"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510235",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510236",
+    "114510192",
+    "114510193",
+    "114510237",
+    "114510238",
+    "114510239",
+    "114510197",
+    "114510198",
+    "114510240",
+    "114510241",
+    "114510242",
+    "114510243",
+    "114510203",
+    "114510244",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510210",
+    "114510211",
+    "114510245",
+    "114510246",
+    "114510214",
+    "114510215",
+    "114510216",
+    "114510217",
+    "114510218",
+    "114510219",
+    "114510220",
+    "114510221",
+    "114510222",
+    "114510223",
+    "114510224",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230",
+    "114510231"
+   ]
+  },
+  {
+   "date": "2003-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670764:por",
+     "title": "Decreto-Lei n.º 160/2003",
+     "published": "2003-07-19",
+     "dre_path": "/dr/detalhe/decreto-lei/160-2003-670764"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510235",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510236",
+    "114510192",
+    "114510193",
+    "114510237",
+    "114510238",
+    "114510239",
+    "114510197",
+    "114510198",
+    "114510247",
+    "114510241",
+    "114510242",
+    "114510243",
+    "114510203",
+    "114510244",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510210",
+    "114510211",
+    "114510245",
+    "114510246",
+    "114510214",
+    "114510215",
+    "114510216",
+    "114510217",
+    "114510218",
+    "114510219",
+    "114510220",
+    "114510221",
+    "114510222",
+    "114510223",
+    "114510224",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230",
+    "114510231"
+   ]
+  },
+  {
+   "date": "2005-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:240382:por",
+     "title": "Decreto-Lei n.º 124/2005",
+     "published": "2005-08-03",
+     "dre_path": "/dr/detalhe/decreto-lei/124-2005-240382"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7"
+   ],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510235",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510252",
+    "114510192",
+    "114510193",
+    "114510237",
+    "114510238",
+    "114510239",
+    "114510197",
+    "114510198",
+    "114510247",
+    "114510241",
+    "114510242",
+    "114510243",
+    "114510203",
+    "114510244",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510210",
+    "114510211",
+    "114510245",
+    "114510246",
+    "114510214",
+    "114510215",
+    "114510216",
+    "114510217",
+    "114510218",
+    "114510219",
+    "114510220",
+    "114510221",
+    "114510222",
+    "114510223",
+    "114510224",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230",
+    "114510231"
+   ]
+  },
+  {
+   "date": "2006-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:539422:por",
+     "title": "Decreto-Lei n.º 150/2006",
+     "published": "2006-08-02",
+     "dre_path": "/dr/detalhe/decreto-lei/150-2006-539422"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 34.º-A"
+   ],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510235",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510252",
+    "114510192",
+    "114510193",
+    "114510237",
+    "114510238",
+    "114510239",
+    "114510197",
+    "114510198",
+    "114510247",
+    "114510241",
+    "114510242",
+    "114510243",
+    "114510203",
+    "114510244",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510210",
+    "114510211",
+    "114510245",
+    "114510246",
+    "114510214",
+    "114510215",
+    "114510216",
+    "114510217",
+    "114510218",
+    "114510219",
+    "114510220",
+    "114510221",
+    "114510257",
+    "114510258",
+    "114510259",
+    "114510260",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230",
+    "114510231"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164404:por",
+     "title": "Lei n.º 83-C/2013",
+     "published": "2013-12-31",
+     "dre_path": "/dr/detalhe/lei/83-c-2013-164404"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510235",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510252",
+    "114510192",
+    "114510193",
+    "114510237",
+    "114510238",
+    "114510261",
+    "114510197",
+    "114510198",
+    "114510247",
+    "114510241",
+    "114510242",
+    "114510243",
+    "114510203",
+    "114510244",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510210",
+    "114510211",
+    "114510245",
+    "114510246",
+    "114510214",
+    "114510215",
+    "114510216",
+    "114510217",
+    "114510218",
+    "114510219",
+    "114510220",
+    "114510221",
+    "114510257",
+    "114510258",
+    "114510259",
+    "114510260",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230",
+    "114510231"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 24.º-A"
+   ],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510235",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510252",
+    "114510192",
+    "114510193",
+    "114510237",
+    "114510238",
+    "114510261",
+    "114510197",
+    "114510198",
+    "114510247",
+    "114510241",
+    "114510242",
+    "114510243",
+    "114510203",
+    "114510244",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510262",
+    "114510210",
+    "114510211",
+    "114510245",
+    "114510246",
+    "114510214",
+    "114510215",
+    "114510216",
+    "114510217",
+    "114510218",
+    "114510219",
+    "114510220",
+    "114510221",
+    "114510257",
+    "114510258",
+    "114510259",
+    "114510260",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230",
+    "114510231"
+   ]
+  },
+  {
+   "date": "2016-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73958532:por",
+     "title": "Lei n.º 7-A/2016",
+     "published": "2016-03-30",
+     "dre_path": "/dr/detalhe/lei/7-a-2016-73958532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 34.º-A"
+   ],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510235",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510252",
+    "114510192",
+    "114510193",
+    "114510237",
+    "114510238",
+    "114510261",
+    "114510197",
+    "114510198",
+    "114510247",
+    "114510241",
+    "114510242",
+    "114510243",
+    "114510203",
+    "114510244",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510262",
+    "114510210",
+    "114510211",
+    "114510245",
+    "114510246",
+    "114510214",
+    "114510215",
+    "114510216",
+    "114510217",
+    "114510218",
+    "114510219",
+    "114510220",
+    "114510221",
+    "114510263",
+    "114510258",
+    "114510259",
+    "114510260",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230",
+    "114510231"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510235",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510252",
+    "114510192",
+    "114510193",
+    "114510237",
+    "114510238",
+    "114510261",
+    "114510197",
+    "114510198",
+    "114510247",
+    "114510241",
+    "114510242",
+    "114510243",
+    "114510203",
+    "114510244",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510262",
+    "114510210",
+    "114510211",
+    "114510245",
+    "114510246",
+    "114510214",
+    "114510215",
+    "114510264",
+    "114510217",
+    "114510218",
+    "114510219",
+    "114510220",
+    "114510221",
+    "114510263",
+    "114510258",
+    "114510259",
+    "114510260",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230",
+    "114510231"
+   ]
+  },
+  {
+   "date": "2019-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124793094:por",
+     "title": "Lei n.º 119/2019",
+     "published": "2019-09-18",
+     "dre_path": "/dr/detalhe/lei/119-2019-124793094"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 29.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 34.º-A",
+    "Altera Artigo 37.º"
+   ],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510235",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510252",
+    "114510192",
+    "114510193",
+    "114510237",
+    "114510238",
+    "114510261",
+    "114510197",
+    "114510198",
+    "114510247",
+    "114510241",
+    "114510242",
+    "114510243",
+    "114510203",
+    "114510244",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510262",
+    "114510210",
+    "114510211",
+    "114510245",
+    "114510246",
+    "114510214",
+    "114510215",
+    "134907818",
+    "114510217",
+    "134907819",
+    "114510219",
+    "114510220",
+    "114510221",
+    "134907820",
+    "114510258",
+    "114510259",
+    "134907821",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230",
+    "114510231"
+   ]
+  },
+  {
+   "date": "2022-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176800374:por",
+     "title": "Decreto-Lei n.º 125/2021",
+     "published": "2021-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/125-2021-176800374"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 34.º-A",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º"
+   ],
+   "fragments": [
+    "114510182",
+    "114510183",
+    "114510235",
+    "114510185",
+    "114510186",
+    "114510187",
+    "114510188",
+    "114510189",
+    "114510190",
+    "114510252",
+    "114510192",
+    "114510193",
+    "114510237",
+    "114510238",
+    "114510261",
+    "114510197",
+    "114510198",
+    "114510247",
+    "114510241",
+    "114510242",
+    "114510243",
+    "114510203",
+    "114510244",
+    "114510205",
+    "114510206",
+    "114510207",
+    "114510208",
+    "114510209",
+    "114510262",
+    "114510210",
+    "114510211",
+    "114510245",
+    "114510246",
+    "114510214",
+    "114510215",
+    "176885089",
+    "176885090",
+    "176885091",
+    "176885092",
+    "176885093",
+    "176885094",
+    "176885095",
+    "176885096",
+    "176885097",
+    "176885098",
+    "114510225",
+    "114510226",
+    "114510227",
+    "114510228",
+    "114510229",
+    "114510230",
+    "114510231"
+   ]
+  }
+ ],
+ "fragments": {
+  "114510182": {
+   "fragment_id": "114509728",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O presente diploma visa, em conformidade com o disposto nos artigos 15.º e 23.º, respectivamente dos Decretos-Leis n.os 442-A/88 e 442-B/88, ambos de 30 de Novembro, regulamentar a cobrança e as formas de reembolso dos impostos sobre o rendimento das pessoas singulares e das pessoas colectivas.\n\nPara o efeito, é criada a possibilidade de uma gestão integrada da cobrança por parte da administração fiscal com o recurso a meios técnicos apropriados, realidade que possibilita também o controlo dos pagamentos com o rápido tratamento de todas as informações a eles relativas, concorrendo para desencadear de imediato os meios legais ao seu dispor quanto aos contribuintes faltosos com maior eficiência e diminuição dos custos administrativos.\n\nPor outro lado, é criado, com o recurso ao sistema bancário e correios, um esquema de reembolsos mais rápido em todos os casos de liquidações, retenções ou pagamentos por conta indevidos.\n\nEm conformidade com a política do Governo no que respeita à regularização de dívidas fiscais e à redução do número de processos de execução fiscal, é ainda criado um sistema de pagamentos em prestações das dívidas de imposto sobre o rendimento quando o respectivo devedor não esteja em condições económicas para efectuar o seu pagamento dentro do período de cobrança voluntária e antes da instauração do processo de execução fiscal, desde que preste as adequadas garantias perante a administração fiscal. Na verdade, é na fase de pré-contencioso que se compreende a autorização de um regime de pagamento mais favorável ao devedor, e não na fase judicial, em que o processo se encontra estruturado essencialmente para, com celeridade, desenvolver os meios coercivos previstos no Código de Processo das Contribuições e Impostos.\n\nObtida a maior rapidez e eficiência no controlo da cobrança, a transferência de fundos para as regiões autónomas e autarquias locais relativa às verbas que legalmente lhes cabem processar-se-á igualmente de forma mais expedita.\n\nPor último, na sequência do novo regime de cobrança, cria-se um sistema de controlo contabilístico que reflectirá o montante total das receitas arrecadadas e dos reembolsos efectuados e ainda o volume das transferências para a conta do Tesouro.\n\nTendo sido ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira;\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114510183": {
+   "fragment_id": "114509729",
+   "type": 1,
+   "heading": "Capítulo I — Da cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da cobrança"
+  },
+  "114510184": {
+   "fragment_id": "114509730",
+   "type": 11,
+   "heading": "Artigo 1.º — Função de cobrança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Função de cobrança\n\n1 - O controlo dos pagamentos dos impostos sobre o rendimento das pessoas singulares e das pessoas colectivas cabe à Direcção-Geral das Contribuições e Impostos (DGCI), nos termos do presente diploma.\n\n2 - A cobrança é efectuada através das tesourarias da Fazenda Pública, dos Correios e Telecomunicações de Portugal e das instituições de crédito autorizadas.\n\n3 - Por despacho do Ministro das Finanças, que estabelecerá os condicionalismos para a respectiva participação, poderão ser autorizadas outras entidades a colaborarem na função da cobrança."
+  },
+  "114510185": {
+   "fragment_id": "114509731",
+   "type": 11,
+   "heading": "Artigo 2.º — Eleito liberatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Eleito liberatório\n\nOs pagamentos efectuados junto das entidades referidas no artigo anterior liberam o devedor da respectiva obrigação nos termos do disposto no presente diploma."
+  },
+  "114510186": {
+   "fragment_id": "114509732",
+   "type": 1,
+   "heading": "Capítulo II — Do pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do pagamento"
+  },
+  "114510187": {
+   "fragment_id": "114509733",
+   "type": 11,
+   "heading": "Artigo 3.º — Meios de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Meios de pagamento\n\nOs impostos sobre o rendimento das pessoas singulares e das pessoas colectivas deverão ser pagos nas condições e termos que se encontram previstos no presente diploma, com utilização de algum dos seguintes meios de pagamento:\n\na) Moeda corrente;\n\nb) Cheque, débito em conta e transferência conta a conta;\n\nc) Vale postal."
+  },
+  "114510188": {
+   "fragment_id": "114509734",
+   "type": 11,
+   "heading": "Artigo 4.º — Outros meios de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Outros meios de pagamento\n\n1 - Independentemente do disposto no artigo anterior, poderão os CTT e as instituições de crédito autorizar, por sua iniciativa, os pagamentos com meios diferentes dos que se encontram previstos.\n\n2 - Sempre que se verifiquem pagamentos nos termos do número anterior, as entidades nele referidas são responsáveis, perante a DGCI, pelas importâncias pagas nessas condições."
+  },
+  "114510189": {
+   "fragment_id": "114509735",
+   "type": 11,
+   "heading": "Artigo 5.º — Locais de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Locais de pagamento\n\n1 - O pagamento dos impostos sobre o rendimento das pessoas singulares e das pessoas colectivas pode ser efectuado em qualquer das entidades autorizada nos termos deste diploma, independentemente da área fiscal do domicílio, sede ou estabelecimento do contribuinte.\n\n2 - As dívidas dos impostos referidos no número anterior que estejam a ser exigidas em processo de execução fiscal apenas podem ser pagas na tesouraria da Fazenda Pública que funcionar junto do tribunal tributário ou repartição de finanças onde correr o processo."
+  },
+  "114510190": {
+   "fragment_id": "114509736",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentos, conferência e validação dos pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Documentos, conferência e validação dos pagamentos\n\n1 - Os devedores de imposto apresentarão no acto do pagamento, relativamente às liquidações efectuadas pelos serviços centrais da DGCI, a respectiva nota de cobrança ou, nos restantes casos, a guia de pagamento de modelo oficial.\n\n2 - Os pagamentos de dívidas que se encontram na fase de cobrança coerciva serão efectuados através de guia previamente solicitada na secretaria do tribunal tributário ou na repartição de finanças onde correr o processo respectivo.\n\n3 - As entidades intervenientes na cobrança deverão exigir sempre a inscrição do número fiscal de pessoa singular ou do número do Registo Nacional de Pessoas Colectivas, conforme se trate de pessoas singulares ou colectivas, nas guias referidas no n.º 1 e comprovar a exactidão da inscrição por conferência com o respectivo cartão, que para o efeito será apresentado."
+  },
+  "114510191": {
+   "fragment_id": "114509737",
+   "type": 11,
+   "heading": "Artigo 7.º — Pagamento nas tesourarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pagamento nas tesourarias\n\n1 - Os pagamentos nas tesourarias da Fazenda Pública só podem ser efectuados com moeda corrente, cheque a sacar sobre instituição de crédito localizada em território nacional ou vale postal.\n\n2 - Se no continente se pretender utilizar cheque a sacar sobre conta aberta em estabelecimento de crédito situado numa região autónoma ou se numa dessas regiões se pretender utilizar cheque a sacar sobre conta domiciliada em estabelecimento de crédito sito no continente ou noutra região autónoma, o pagamento só pode ser aceite se o cheque estiver visado.\n\n3 - A cada documento de cobrança previsto na lei corresponderá um meio de pagamento, nas condições referidas no n.º 1, salvo quando sejam usados cheque visado, moeda corrente ou vale postal e o total destes últimos seja igual ao do montante a pagar.\n\n4 - Os pagamentos referidos no n.º 2 do artigo 5.º só podem ser efectuados com moeda corrente, cheque visado ou vale postal."
+  },
+  "114510192": {
+   "fragment_id": "114509738",
+   "type": 11,
+   "heading": "Artigo 8.º — Requisitos dos cheques para pagamento nas tesourarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requisitos dos cheques para pagamento nas tesourarias\n\n1 - Os cheques para pagamentos a efectuar nas tesourarias da Fazenda Pública serão sempre cruzados, emitidos à ordem do respectivo tesoureiro com os dizeres «pagamento de impostos», não podendo ser aceites sem terem inscrito no verso o número fiscal de pessoa singular ou o número do Registo Nacional de Pessoas Colectivas, conforme se trate de pessoas singulares ou colectivas, e o número do documento de pagamento ou da liquidação constante da certidão, consoante se trate de guias de pagamento e notas de cobrança ou de dívida em fase de cobrança coerciva, respectivamente.\n\n2 - A data de emissão do cheque deverá coincidir com a data da sua entrega ou de um dos dois dias anteriores, sem o que não será aceite.\n\n3 - Sempre que for omitida a data de emissão, considerar-se-á esta como sendo a do dia da apresentação na tesouraria, competindo ao tesoureiro a sua aposição."
+  },
+  "114510193": {
+   "fragment_id": "114509739",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamentos com vales postais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamentos com vales postais\n\nOs vales postais para pagamentos nas tesourarias da Fazenda Pública serão emitidos ou endossados à ordem do respectivo tesoureiro, com observância do regime previsto no n.º 1 do artigo anterior na parte aplicável."
+  },
+  "114510194": {
+   "fragment_id": "114509740",
+   "type": 11,
+   "heading": "Artigo 10.º — Cheques sem provisão - Tesourarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cheques sem provisão - Tesourarias\n\n1 - Havendo lugar à devolução de cheques por falta ou insuficiência de provisão em pagamentos efectuados nas tesourarias da Fazenda Pública, o tesoureiro, no dia seguinte, remeterá o cheque, sob registo, ao director distrital de finanças da área da respectiva tesouraria, devidamente endossado.\n\n2 - Após a recepção do cheque os serviços centrais da DGCI expedirão de imediato, sob registo, ofício ao sacador, bem como ao devedor, no caso de não ser este o sacador, para, no prazo de cinco dias úteis, ser regularizada a situação mediante pagamento da importância respectiva com moeda corrente, cheque visado ou vale postal, fazendo-se ciente de que o pagamento apenas pode ser efectuado numa tesouraria da Fazenda Pública.\n\n3 - O pagamento a que se refere o n.º 2 será acrescido da importância resultante da aplicação de uma taxa de regularização de 10% sobre o valor do cheque, sem qualquer adicional, e que constitui receita do Estado, não podendo o produto dessa percentagem ser inferior a 5000$00 nem superior a 1000000$00.\n\n4 - Após o cumprimento do disposto no n.º 2 e decorrido o respectivo prazo sem se ter verificado o pagamento, deverão os serviços centrais da DGCI processar nova nota de cobrança da taxa de regularização, notificando o devedor para, no prazo de quinze dias, efectuar o pagamento sob pena de cobrança coerciva.\n\n5 - Se a devolução do cheque por insuficiência ou falta de provisão for imputável a erro da instituição de crédito, será a mesma responsável para com o Estado pela importância da taxa de regularização, sendo o seu pagamento efectuado pela forma prescrita no número anterior.\n\n6 - O director distrital de finanças a quem haja sido endossado cheque com falta de provisão deve participar a infracção ao tribunal territorialmente competente quando o pagamento não seja regularizado nos termos do presente artigo.\n\n7 - Para efeitos do presente diploma, consideram-se como cheques devolvidos por falta ou insuficiência de provisão os que contenham qualquer declaração aposta pela entidade sacada ou pelo serviço de compensação que permita extrair a conclusão de que, no momento da sua apresentação à cobrança, o saldo da conta do sacador é insuficiente para se concretizar a referida cobrança."
+  },
+  "114510195": {
+   "fragment_id": "114509741",
+   "type": 11,
+   "heading": "Artigo 11.º — Cheques devolvidos por falta de requisitos - Tesourarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cheques devolvidos por falta de requisitos - Tesourarias\n\n1 - Recebido em qualquer tesouraria da Fazenda Pública cheque com preterição de requisitos essenciais, inobservância de condições legais ou outras que impeçam a cobrança e que originem a sua devolução por parte da instituição de crédito sem pagamento, aplicar-se-á o disposto no artigo anterior com vista à regularização do mesmo.\n\n2 - O pagamento a que se refere o número anterior será acrescido de uma importância resultante da aplicação de uma taxa de regularização de 10% sobre o valor do cheque, que constitui receita do Estado, sem qualquer adicional, não podendo o produto dessa percentagem ser inferior a 5000$00 nem superior a 500000$00.\n\n3 - Se a regularização referida nos números anteriores vier a ser efectuada ainda dentro do prazo legal de pagamento do imposto, não será devida a taxa de regularização.\n\n4 - Se a devolução prevista no presente artigo se verificar por erro imputável à instituição de crédito, será a mesma responsável para com o Estado pela importância da taxa de regularização, observando-se, com as necessárias adaptações, o disposto no n.º 4 do artigo anterior.\n\n5 - Não sendo efectuada a regularização, é aplicável, com as necessárias adaptações, o disposto no n.º 4 do artigo anterior."
+  },
+  "114510196": {
+   "fragment_id": "114509742",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamentos nos correios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamentos nos correios\n\n1 - Os pagamentos nos correios podem ser efectuados com cheque, vale postal ou moeda corrente, nos termos e condicionalismos estabelecidos para os pagamentos nas tesourarias da Fazenda Pública.\n\n2 - Os cheques serão emitidos à ordem dos CTT, cruzados, com os dizeres «pagamento de impostos», podendo ser rejeitados se a data de emissão não coincidir com o dia do pagamento ou um dos dois dias anteriores.\n\n3 - Na falta de aposição da data de emissão do cheque aplicar-se-á o disposto na parte final do n.º 3 do artigo 8.º, com as devidas adaptações.\n\n4 - É aplicável aos pagamentos efectuados nos CTT com cheques em que se verifique falta ou insuficiência de provisão, falta de requisitos essenciais e inobservância de condições legais ou outras que originem o seu não pagamento o disposto nos artigos 10.º e 11.º, com as devidas adaptações.\n\n5 - Os cheques a que se refere o número anterior, depois de endossados, serão remetidos, por ofício registado, ao director distrital de finanças da área da estação onde ocorreu o pagamento, na data da remessa dos registos com os pagamentos, para efeitos de regularização."
+  },
+  "114510197": {
+   "fragment_id": "114509743",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamento nas instituições de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pagamento nas instituições de crédito\n\n1 - Os pagamentos nas instituições de crédito podem ser realizados com moeda corrente em qualquer instituição de crédito ou com cheque, transferência e ordem de débito em conta na instituição de crédito onde o devedor tiver domiciliada conta bancária pelo montante total da importância a pagar.\n\n2 - Nos casos de cheques, débito em conta ou transferência conta a conta, a instituição de crédito pode recusar a operação se o saldo respectivo for insuficiente para efectuar o pagamento."
+  },
+  "114510198": {
+   "fragment_id": "114509744",
+   "type": 11,
+   "heading": "Artigo 14.º — Data em que se consideram efectuados os pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Data em que se consideram efectuados os pagamentos\n\n1 - A cobrança das dívidas de impostos considera-se efectuada na data da entrega do respectivo meio de pagamento, sem prejuízo do disposto no número seguinte.\n\n2 - Os pagamentos efectuados nas tesourarias da Fazenda Pública ou CTT por meio de cheques não visados só se consideram realizados depois do crédito em conta da respectiva importância, não sendo devidos, todavia, quaisquer juros ou encargos pelo tempo que mediar entre a entrega do cheque e o crédito em conta referido."
+  },
+  "114510199": {
+   "fragment_id": "114509745",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamentos com meios não regularizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Pagamentos com meios não regularizados\n\n1 - Serão considerados nulos os pagamentos que não sejam regularizados nos termos dos artigos 10.º, 11.º e 12.º, n.º 4, sem prejuízo das sanções previstas para a falta de pagamento dentro dos prazos legais.\n\n2 - Sempre que os meios de pagamento não regularizados respeitem à entrega de retenções na fonte, os serviços centrais da DGCI, sem prejuízo da penalidade aplicável, efectuarão de imediato liquidação pelo montante não pago, acrescido dos juros compensatórios a contar da data do pagamento até à data da liquidação, emitindo ordem de pagamento, que será notificada ao devedor, para ser satisfeita no prazo de quinze dias, sob pena de execução."
+  },
+  "114510200": {
+   "fragment_id": "114509746",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamentos nas instituições de crédito, CTT e tesourarias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamentos nas instituições de crédito, CTT e tesourarias\n\n1 - Os pagamentos realizados nas instituições de crédito serão creditados com data do dia seguinte na conta da DGCI, para o efeito criada, pelo montante discriminado das cobranças efectuadas no dia anterior.\n\n2 - O montante das importâncias cobradas pelos CTT será depositado na conta que vier a ser indicada pela DGCI dez dias úteis após o pagamento, deduzido do valor dos cheques devolvidos sem pagamento durante o mesmo período.\n\n3 - O produto diário da cobrança dos impostos sobre o rendimento apurado nas tesourarias da Fazenda Pública será depositado separadamente em relação às restantes cobranças aí efectuadas no dia útil seguinte.\n\n4 - Não haverá registo prévio dos documentos de cobrança junto da repartição de finanças para os pagamentos previstos neste diploma."
+  },
+  "114510201": {
+   "fragment_id": "114509747",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações e comunicações das instituições de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações e comunicações das instituições de crédito\n\n1 - Os cheques com os dizeres «pagamento de impostos» referidos no presente diploma devem ser apresentados à compensação num dos três dias úteis seguintes ao do depósito, salvo motivos de força maior, não podendo ser ultrapassados, em qualquer caso, os prazos previstos no Regulamento do Serviço de Compensação para a sua devolução ao apresentante.\n\n2 - No caso de devolução de cheques, deverão as instituições de crédito sacadas comunicar às tesourarias ou CTT, conforme os casos, o nome do sacador e o respectivo domicílio ou sede no dia imediato ao do conhecimento da respectiva devolução sem pagamento.\n\n3 - As instituições de crédito são directamente responsáveis perante a DGCI pelos eventuais encargos que venham a ser liquidados aos contribuintes em caso de incumprimento do disposto nos números anteriores, aplicando-se para a sua cobrança o disposto nos n.os 4 e 5 do artigo 10.º\n\n4 - Todos os cheques que não devam ser remetidos ao tribunal territorialmente competente ficarão arquivados na direcção distrital de finanças respectiva durante cinco anos, após o que serão inutilizados.\n\n5 - Os directores distritais de finanças, sempre que verifiquem a emissão de cheques sem provisão que não venham a ser regularizados, deverão participar o facto ao Banco de Portugal para os efeitos previstos na legislação que estabelece a inibição do uso de cheques."
+  },
+  "114510202": {
+   "fragment_id": "114509748",
+   "type": 11,
+   "heading": "Artigo 18.º — Prova do pagamento e remessa de recibos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Prova do pagamento e remessa de recibos\n\n1 - No acto dos pagamentos previstos no presente diploma a entidade colaboradora na cobrança entregará ao interessado, depois de certificado, documento comprovativo do pagamento.\n\n2 - Os serviços centrais da DGCI remeterão ao contribuinte, no prazo de 30 dias a contar do dia em que os pagamentos se considerem efectuados nos termos do presente diploma, recibo da importância entregue."
+  },
+  "114510203": {
+   "fragment_id": "114509749",
+   "type": 1,
+   "heading": "Capítulo III — Dos reembolsos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos reembolsos"
+  },
+  "114510204": {
+   "fragment_id": "114509750",
+   "type": 11,
+   "heading": "Artigo 19.º — Direito ao reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direito ao reembolso\n\n1 - O sujeito passivo deverá indicar na declaração de rendimentos se pretende o reembolso ou o reporte para anos posteriores sempre que, nos termos dos Códigos do Imposto sobre Rendimentos das Pessoas Singulares e das Pessoas Colectivas, seja apurado imposto a restituir.\n\n2 - Nos casos em que não haja obrigatoriedade de entrega de declaração ou a liquidação onde é apurado imposto a restituir seja efectuada em cumprimento de decisão proferida em processo de reclamação ou de impugnação judicial, o reembolso será efectuado directamente pelos serviços.\n\n3 - Quando, com utilização de meio de pagamento válido, tenha sido entregue montante superior ao da importância a pagar, a diferença será reembolsada de imediato ao contribuinte sem observância dos requisitos previstos no presente diploma para os reembolsos.\n\n4 - São competentes para processar os reembolsos previstos na lei os serviços centrais da DGCI."
+  },
+  "114510205": {
+   "fragment_id": "114509751",
+   "type": 11,
+   "heading": "Artigo 20.º — Existência de dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Existência de dívidas\n\n1 - Quando, após qualquer liquidação que confira direito a reembolso, seja constatada pelos serviços a existência de dívidas de imposto sobre o rendimento de pessoas singulares ou de pessoas colectivas respeitantes a anos anteriores ou dívidas de importâncias retidas e não entregues e as mesmas se encontrem em fase de cobrança coerciva ou a ser pagas em prestações, será o contribuinte notificado do montante do reembolso a que tem direito e daquelas dívidas.\n\n2 - O reembolso não poderá ser efectuado sem que a importância a reembolsar seja aplicada primeiramente no pagamento total ou parcial das dívidas referidas no número anterior e acrescidos legais.\n\n3 - Para efeitos do disposto no número anterior, o serviço competente para ordenar o reembolso notificará o tribunal tributário de 1.ª instância ou a repartição de finanças onde correr o processo de execução ou onde se encontre a decorrer o pagamento das prestações autorizadas para, no prazo de 30 dias, proceder à sua contagem e remeter cópia da conta, que deverá incluir os juros de mora devidos até ao mês seguinte ao da sua elaboração.\n\n4 - Cumprido o disposto no número anterior, os serviços competentes emitirão cheque à ordem do juiz ou chefe da repartição de finanças, por conta ou pelo valor do reembolso, conforme os casos, para ser aplicado no pagamento total ou parcial da dívida contada naqueles termos.\n\n5 - Se o montante a reembolsar for superior ao da dívida contada nos termos do n.º 3, será o remanescente devolvido ao contribuinte, nos termos do artigo 21.º, simultaneamente com a remessa do cheque para os pagamentos referidos nos números anteriores.\n\n6 - Se depois de cumpridos os mecanismos referidos no n.º 3 do presente artigo o tribunal tributário ou a repartição de finanças informarem que as dívidas constatadas nos termos do n.º 1 foram entretanto pagas, será de imediato emitido o reembolso.\n\n7 - Nos casos referidos no número anterior ou quando se constate a existência de remanescente depois dos pagamentos referidos no presente artigo, não haverá lugar à contagem de juros a favor do contribuinte, ainda que o reembolso venha a ter lugar para além dos prazos legalmente previstos."
+  },
+  "114510206": {
+   "fragment_id": "114509752",
+   "type": 11,
+   "heading": "Artigo 21.º — Forma dos reembolsos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Forma dos reembolsos\n\n1 - Os reembolsos de imposto sobre o rendimento das pessoas singulares ou das pessoas colectivas efectuar-se-ão por:\n\na) Transferência conta a conta, sempre que o sujeito passivo tenha indicado os necessários dados na declaração de rendimentos, de início de actividade ou de alterações;\n\nb) Cheque ou vale postal sacados sobre a conta à ordem para reembolsos de que a DGCI é titular, nos restantes casos.\n\n2 - Antes de efectuar a transferência bancária o serviço competente para efectuar reembolsos validará junto da instituição de crédito respectiva o número da conta indicada pelo contribuinte, nos termos do número anterior.\n\n3 - Os cheques referidos no n.º 1 serão nominativos, cruzados, e terão aposto o respectivo prazo de validade."
+  },
+  "114510207": {
+   "fragment_id": "114509753",
+   "type": 11,
+   "heading": "Artigo 22.º — Reembolsos - Prazo de validade de vales postais e cheques",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reembolsos - Prazo de validade de vales postais e cheques\n\n1 - Os cheques relativos a reembolsos terão a validade de 60 dias, findos os quais não poderão ser pagos pela instituição de crédito sacada.\n\n2 - Os vales postais terão igualmente a validade de 60 dias, findos os quais não poderão ser pagos, nos termos e com os efeitos da legislação em vigor para os vales."
+  },
+  "114510208": {
+   "fragment_id": "114509754",
+   "type": 11,
+   "heading": "Artigo 23.º — Devolução de transferência bancária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Devolução de transferência bancária\n\n1 - Não podendo ser cumprida a transferência bancária relativa a reembolsos, após a informação da instituição de crédito, será emitido cheque ou vale postal pela mesma importância e remetido para o domicílio fiscal que constar da última declaração de rendimentos ou de alterações apresentada pelo contribuinte.\n\n2 - Os reembolsos que não puderem ser pagos depois de ter sido remetido cheque ou vale postal, nos termos do número anterior, só podem ser pagos, mediante requerimento, com observância do disposto no artigo 24.º"
+  },
+  "114510209": {
+   "fragment_id": "114509755",
+   "type": 11,
+   "heading": "Artigo 24.º — Reembolsos fora de prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Reembolsos fora de prazo\n\n1 - Decorrido o prazo de validade dos cheques ou vales postais referidos na alínea b) do n.º 1 do artigo 21.º sem que os mesmos tenham sido levantados ou venham devolvidos pelo correio, caberá ao interessado, no prazo de cinco anos contados da data da liquidação, requerer ao director-geral das Contribuições e Impostos o reembolso a que tenha direito e indicar qual a forma por que o pretende ver realizado.\n\n2 - Os reembolsos referidos no número anterior serão processados até 90 dias a contar da entrada do pedido nos serviços, não havendo lugar ao pagamento de juros pelo atraso na sua efectivação."
+  },
+  "114510210": {
+   "fragment_id": "114509756",
+   "type": 1,
+   "heading": "Capítulo IV — Da gestão das contas bancárias e transferências de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da gestão das contas bancárias e transferências de fundos"
+  },
+  "114510211": {
+   "fragment_id": "114509757",
+   "type": 11,
+   "heading": "Artigo 25.º — Gestão de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Gestão de fundos\n\nOs serviços centrais da DGCI devem, através de uma gestão criteriosa, providenciar para que as contas de depósitos à ordem nas instituições de crédito estejam devidamente aprovisionadas, ficando para o efeito autorizados a transferir as importâncias necessárias entre contas de que é titular para fazer face:\n\na) Ao pagamento de reembolsos e respectivos juros;\n\nb) Ao pagamento de juros devedores derivados de saldos negativos nas contas de depósito à ordem;\n\nc) Ao débito de cheques devolvidos pelas instituições de crédito."
+  },
+  "114510212": {
+   "fragment_id": "114509758",
+   "type": 11,
+   "heading": "Artigo 26.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regiões autónomas\n\nOs pagamentos e reembolsos de importâncias relativas a sujeitos passivos residentes nas Regiões Autónomas dos Açores e da Madeira serão movimentados em nome do respectivo Governo Regional."
+  },
+  "114510213": {
+   "fragment_id": "114509759",
+   "type": 11,
+   "heading": "Artigo 27.º — Transferência de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transferência de fundos\n\n1 - A passagem de fundos para a Caixa Geral do Tesouro, junto do Banco de Portugal, é efectuada nos dias 2 e 16 de cada mês ou, se aqueles não forem dias úteis, em cada um dos dias úteis seguintes, devendo as instituições de crédito transferir o saldo existente na conta da DGCI no dia útil imediatamente anterior à passagem de fundos, salvo se outro montante lhes for indicado.\n\n2 - Na determinação do valor a transferir, a DGCI terá em atenção o produto da cobrança, líquido das importâncias necessárias à satisfação dos reembolsos e demais encargos referidos no artigo 25.º\n\n3 - Os montantes respeitantes a pagamentos efectuados nas tesourarias da Fazenda Pública são por elas transferidos para a conta do Tesouro no dia útil seguinte."
+  },
+  "114510214": {
+   "fragment_id": "114509760",
+   "type": 11,
+   "heading": "Artigo 28.º — Insuficiência de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Insuficiência de fundos\n\nSempre que se mostre necessário efectuar reembolsos e as contas à ordem da DGCI existentes nas instituições de crédito não se encontrem suficientemente aprovisionadas, por insuficiência de cobranças, o director-geral das Contribuições e Impostos fica autorizado a levantar, por conta da correspondente rubrica orçamental, a importância considerada necessária para o pagamento daqueles reembolsos."
+  },
+  "114510215": {
+   "fragment_id": "114509761",
+   "type": 1,
+   "heading": "Capítulo V — Dos pagamentos em prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Dos pagamentos em prestações"
+  },
+  "114510216": {
+   "fragment_id": "114509762",
+   "type": 11,
+   "heading": "Artigo 29.º — Pagamentos em prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Pagamentos em prestações\n\n1 - As dívidas de impostos sobre o rendimento das pessoas singulares e das pessoas colectivas poderão ser pagas em prestações, após o decurso do período do pagamento voluntário e antes da instauração do respectivo processo de execução fiscal.\n\n2 - O disposto no número anterior não é aplicável às dívidas liquidadas pelos serviços por falta de entrega dentro dos respectivos prazos legais de quaisquer retenções de imposto.\n\n3 - O número de prestações não pode exceder 36, sendo de periodicidade mensal."
+  },
+  "114510217": {
+   "fragment_id": "114509763",
+   "type": 11,
+   "heading": "Artigo 30.º — Competência para autorizar as prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Competência para autorizar as prestações\n\nA competência para autorizar o pagamento em prestações das dívidas referidas no artigo anterior cabe ao Ministro das Finanças."
+  },
+  "114510218": {
+   "fragment_id": "114509764",
+   "type": 11,
+   "heading": "Artigo 31.º — Requisitos dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Requisitos dos pedidos\n\n1 - Poderão solicitar o pagamento em prestações os devedores cuja situação económica, devidamente comprovada, não lhes permita solver as dívidas dentro dos prazos legalmente previstos ou nos casos em que ocorram circunstâncias excepcionais e razões de interesse público o justifiquem.\n\n2 - Os pedidos de pagamento em prestações conterão a identificação do requerente, a natureza da dívida e o número de prestações pretendido, devendo ser apresentados nas direcções distritais de finanças da área fiscal onde o devedor tenha o seu domicílio, sede ou estabelecimento estável no prazo de quinze dias a contar do termo do prazo para o pagamento voluntário.\n\n3 - O director distrital de finanças, juntas todas as informações de que disponha sobre o pedido e sobre a situação económica do requerente, pronunciar-se-á sobre a concessão, alteração ou denegação do pedido, submetendo-o a apreciação, através dos serviços centrais da DGCI, no prazo de quinze dias após a recepção."
+  },
+  "114510219": {
+   "fragment_id": "114509765",
+   "type": 11,
+   "heading": "Artigo 32.º — Das garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Das garantias\n\n1 - Conjuntamente com o pedido referido no artigo anterior deverá o devedor oferecer garantia idónea, nomeadamente:\n\na) Aval bancário ou de instituição legalmente autorizada a prestá-lo;\n\nb) Seguro-caução ou caução efectuados por instituições de seguros legalmente autorizadas;\n\nc) Hipoteca.\n\n2 - A garantia será prestada pelo valor da dívida e juros de mora, a contar até à data do pedido, acrescido de 25% da soma daqueles valores.\n\n3 - As garantias referidas no n.º 1 deverão ser constituídas para cobrir todo o período de tempo que foi concedido para efectuar o pagamento, acrescido de três meses, e ser apresentadas no prazo de 10 dias a contar da notificação que autorizou as prestações, salvo no caso da hipoteca, cujo prazo poderá ser ampliado até 30 dias.\n\n4 - Após o decurso dos prazos referidos no número precedente sem que tenha sido prestada a garantia, fica sem efeito a autorização para efectuar o pagamento da dívida em prestações, aplicando-se o disposto nos n.os 2 e 3 do artigo 34.º"
+  },
+  "114510220": {
+   "fragment_id": "114509766",
+   "type": 11,
+   "heading": "Artigo 33.º — Apreciação das garantias e situação do devedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Apreciação das garantias e situação do devedor\n\n1 - É competente para avaliar as garantias a prestar nos termos deste diploma o director da direcção distrital de finanças onde for apresentado o pedido.\n\n2 - As direcções distritais de finanças poderão exigir informação prévia dos serviços de fiscalização tributária sobre as circunstâncias da dívida e situação económica do devedor, a prestar no prazo de dez dias."
+  },
+  "114510221": {
+   "fragment_id": "114509767",
+   "type": 11,
+   "heading": "Artigo 34.º — Apreciação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Apreciação dos pedidos\n\n1 - Os pedidos remetidos para os serviços centrais da DGCI serão de imediato submetidos a despacho do Ministro das Finanças.\n\n2 - Os pedidos, depois de apreciados, são remetidos à direcção distrital de finanças referida no n.º 2 do artigo 31.º para efeitos de notificação ao requerente.\n\n3 - Em caso de indeferimento, as certidões de dívida serão remetidas pelo director distrital de finanças ao tribunal tributário ou à repartição de finanças competentes, com requerimento para instauração de processo de execução fiscal.\n\n4 - As notificações serão efectuadas por carta registada, presumindo-se a notificação efectuada no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte a esse, quando o não seja."
+  },
+  "114510222": {
+   "fragment_id": "114509768",
+   "type": 11,
+   "heading": "Artigo 35.º — Local dos pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Local dos pagamentos\n\n1 - Os processos relativos a pedidos autorizados, depois de prestada a respectiva garantia, serão remetidos, conjuntamente com esta, à repartição de finanças da área fiscal do domicílio, sede ou estabelecimento estável do requerente.\n\n2 - Os pagamentos serão efectuados com moeda corrente ou cheque visado apenas nas tesourarias da Fazenda Pública, com prévia solicitação de guias na repartição referida no número anterior, contendo estas todos os elementos comuns aos documentos de pagamento referidos no presente diploma."
+  },
+  "114510223": {
+   "fragment_id": "114509769",
+   "type": 11,
+   "heading": "Artigo 36.º — Liquidação das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Liquidação das prestações\n\nDeferido o pedido de pagamento em prestações no âmbito do presente diploma, será o total da dívida dividido pelo número de prestações autorizado, acrescendo ao valor de cada prestação os juros de mora contados sobre o respectivo montante desde o termo do prazo para pagamento voluntário até ao mês do respectivo pagamento."
+  },
+  "114510224": {
+   "fragment_id": "114509770",
+   "type": 11,
+   "heading": "Artigo 37.º — Falta de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Falta de pagamento\n\n1 - A falta de pagamento de qualquer das prestações importa o vencimento imediato das seguintes, instaurando-se processo de execução fiscal pelo valor em dívida.\n\n2 - Verificada a falta de pagamento e instaurada a execução fiscal, será citada a entidade que prestou a garantia para no prazo de dez dias efectuar o pagamento da dívida ainda existente até ao montante da garantia prestada, sob pena de ser executada no próprio processo.\n\n3 - Nos processos de execução fiscal instaurados com base na falta de pagamento de dívidas para as quais tenha sido autorizado o pagamento em prestações, nos termos do presente diploma, far-se-ão constar os bens que foram dados de garantia."
+  },
+  "114510225": {
+   "fragment_id": "114509771",
+   "type": 1,
+   "heading": "Capítulo VI — Dos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Dos registos"
+  },
+  "114510226": {
+   "fragment_id": "114509772",
+   "type": 11,
+   "heading": "Artigo 38.º — Controlo contabilístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Controlo contabilístico\n\n1 - Para efeitos de gestão, informação e controlo, a DGCI procederá à criação dos elementos de suporte necessários e adequados à correcta aplicação das disposições contidas no presente diploma, donde constem, designadamente:\n\na) Registo das operações ocorridas com sujeitos passivos de imposto derivados do normal cumprimento das suas obrigações;\n\nb) Registo dos montantes dos reembolsos e anulações efectuados e dos meios utilizados para pagamento dos mesmos;\n\nc) Registo dos movimentos efectuados nas tesourarias da Fazenda Pública;\n\nd) Registo dos movimentos efectuados com cada uma das instituições de crédito onde tenha sido aberta conta de depósitos à ordem;\n\ne) Registo dos movimentos efectuados nos CTT;\n\nf) Registo de operações de passagens de fundos para o Banco de Portugal a favor da Caixa Geral do Tesouro;\n\ng) Registo das operações de passagens de fundos para os municípios provenientes de cobrança de receitas próprias;\n\nh) Registo das operações de passagens de fundos para as Regiões Autónomas dos Açores e da Madeira provenientes da cobrança que constitua receita própria.\n\n2 - Semanalmente serão elaborados mapas resumo de contas que evidenciem os movimentos a crédito e a débito ocorridos na semana precedente, o saldo transportado e o que transita para o período seguinte.\n\n3 - Mensalmente serão elaborados mapas resumo das passagens de fundos para o Banco de Portugal, a favor da Caixa Geral do Tesouro, que, conjuntamente com os referidos no número anterior, serão enviados às Direcções-Gerais do Tesouro e da Contabilidade Pública.\n\n4 - Mensalmente serão elaborados mapas resumo das passagens de fundos a efectuar para cada uma das regiões autónomas, que serão enviados aos respectivos governos regionais, através dos ministros da República."
+  },
+  "114510227": {
+   "fragment_id": "114509773",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "114510228": {
+   "fragment_id": "114509774",
+   "type": 11,
+   "heading": "Artigo 39.º — Execução do presente diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Execução do presente diploma\n\n1 - Para execução das normas contidas no presente diploma, fica o director-geral das Contribuições e Impostos autorizado a celebrar protocolos de acordo com as instituições de crédito e com os Correios e Telecomunicações de Portugal.\n\n2 - As minutas de protocolo a que se refere o número anterior serão submetidas a aprovação prévia do Ministro das Finanças."
+  },
+  "114510229": {
+   "fragment_id": "114510375",
+   "type": 11,
+   "heading": "Artigo 40.º — Impressos e livros de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Impressos e livros de registo\n\nFica o Ministro das Finanças autorizado a criar ou alterar os modelos de livros e impressos que se tornem necessários à execução do presente diploma, bem como adaptar os actuais livros e demais elementos de escrituração de contas do Estado."
+  },
+  "114510230": {
+   "fragment_id": "114510376",
+   "type": 11,
+   "heading": "Artigo 41.º — Transição - Locais de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Transição - Locais de pagamento\n\nAté à aprovação dos protocolos com as instituições de crédito, conforme se encontra regulado no artigo 39.º, os pagamentos previstos no presente diploma poderão ser efectuados nas tesourarias da Fazenda Pública e em qualquer estação dos CTT."
+  },
+  "114510235": {
+   "fragment_id": "114509730",
+   "type": 11,
+   "heading": "Artigo 1.º — Função de cobrança",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 1.º — Função de cobrança\n\n1 - O controlo dos pagamentos dos impostos sobre o rendimento das pessoas singulares, das pessoas colectivas e da contribuição autárquica cabe à Direcção-Geral das Contribuições e Impostos (DGCI), nos termos do presente diploma.\n\n2 - A cobrança é efectuada através das tesourarias da Fazenda Pública, dos Correios e Telecomunicações de Portugal e das instituições de crédito autorizadas.\n\n3 - Por despacho do Ministro das Finanças, que estabelecerá os condicionalismos para a respectiva participação, poderão ser autorizadas outras entidades a colaborarem na função da cobrança.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510236": {
+   "fragment_id": "114509737",
+   "type": 11,
+   "heading": "Artigo 7.º — Pagamento nas tesourarias",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 7.º — Pagamento nas tesourarias\n\n1 - Os pagamentos nas tesourarias da Fazenda Pública só podem ser efectuados com moeda corrente, cheque a sacar sobre instituição de crédito localizada em território nacional ou vale postal.\n\n2 - Se no continente se pretender utilizar cheque a sacar sobre conta aberta em estabelecimento de crédito situado numa região autónoma ou se numa dessas regiões se pretender utilizar cheque a sacar sobre conta domiciliada em estabelecimento de crédito sito no continente ou noutra região autónoma, o pagamento só pode ser aceite se o cheque estiver visado.\n\n3 - Os pagamentos de um ou vários documentos de cobrança apenas podem ser efectuados com um único tipo de meio de pagamento de valor igual ao somatório das importâncias a entregar, salvo se forem utilizados conjuntamente moeda corrente, cheque visado ou vale postal.\n\n4 - Não é permitido o pagamento conjunto de importâncias relativas a impostos sobre o rendimento e contribuição autárquica utilizando um único cheque ou vale postal.\n\n5 - Os pagamentos referidos no n.º 2 do artigo 5.º só podem ser efectuados com moeda corrente, cheque visado ou vale postal.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510237": {
+   "fragment_id": "114509740",
+   "type": 11,
+   "heading": "Artigo 10.º — Cheques sem provisão",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 10.º — Cheques sem provisão\n\n1 - Havendo lugar à devolução de cheques por falta ou insuficiência de provisão em pagamentos efectuados nas tesourarias da Fazenda Pública, o tesoureiro, no dia seguinte, remetê-los-á, sob registo, ao director distrital de finanças da área da respectiva tesouraria, devidamente endossados.\n\n2 - Relativamente aos cheques utilizados para pagamentos nos termos do presente diploma que venham a ser devolvidos por falta ou insuficiência de provisão, os serviços centrais da DGCI expedirão de imediato, sob registo, ofício ao sacador, bem como ao devedor, para, no prazo de cinco dias úteis, ser regularizada a situação, mediante pagamento da importância respectiva com moeda corrente, cheque visado ou vale postal, fazendo-se ciente de que o pagamento apenas pode ser efectuado numa tesouraria da Fazenda Pública.\n\n3 - O pagamento a que se refere o n.º 2 será acrescido da importância resultante da aplicação de uma taxa de regularização de 10% sobre o valor do cheque, sem qualquer adicional, e que constitui receita do Estado, não podendo o produto dessa percentagem ser inferior a 5000$00 nem superior a 1000000$00.\n\n4 - Se a devolução dos cheques referidos nos números anteriores for imputável a erro da instituição de crédito sacada, será a mesma responsável para com o Estado pela importância da regularização, devendo o seu pagamento ser efectuado no prazo de 15 dias após notificação, sob pena de cobrança coerciva.\n\n5 - Os serviços centrais da DGCI e as direcções distritais de finanças, conforme os casos, a quem haja sido endossado cheque com falta ou insuficiência de provisão deverão participar a infracção ao tribunal territorialmente competente quando o pagamento não seja regularizado nos termos do presente artigo.\n\n6 - Para efeitos do presente diploma, consideram-se como cheques devolvidos por falta ou insuficiência de provisão os que contenham qualquer declaração aposta pela entidade sacada ou pelo serviço de compensação que permita extrair a conclusão de que, no momento da sua apresentação à cobrança, o saldo da conta do sacador é insuficiente para se concretizar a referida cobrança.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510238": {
+   "fragment_id": "114509741",
+   "type": 11,
+   "heading": "Artigo 11.º — Cheques devolvidos por falta de requisitos",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 11.º — Cheques devolvidos por falta de requisitos\n\n1 - Recebido em qualquer tesouraria da Fazenda Pública cheque com preterição de requisitos essenciais, inobservância de condições legais ou outras que impeçam a cobrança e que originem a sua devolução por parte da instituição de crédito sem pagamento, aplicar-se-á o disposto no artigo anterior com vista à regularização do mesmo.\n\n2 - O pagamento a que se refere o número anterior será acrescido de uma importância resultante da aplicação de uma taxa de regularização de 10% sobre o valor do cheque, que constitui receita do Estado, sem qualquer adicional, não podendo o produto dessa percentagem ser inferior a 5000$00 nem superior a 500000$00.\n\n3 - Se a devolução prevista no presente artigo se verificar por erro imputável à instituição de crédito sacada, será a mesma responsável para com o Estado pela importância da taxa de regularização, observando-se o disposto no n.º 4 do artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510239": {
+   "fragment_id": "114509742",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamentos nos correios",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 12.º — Pagamentos nos correios\n\n1 - Os pagamentos nos correios podem ser efectuados com cheque, vale postal ou moeda corrente, nos termos e condicionalismos estabelecidos para os pagamentos nas tesourarias da Fazenda Pública.\n\n2 - Os cheques serão emitidos à ordem dos CTT, cruzados, com os dizeres «pagamento de impostos», podendo ser rejeitados se a data de emissão não coincidir com o dia do pagamento ou um dos dois dias anteriores.\n\n3 - Na falta de aposição da data de emissão do cheque aplicar-se-á o disposto na parte final do n.º 3 do artigo 8.º, com as devidas adaptações.\n\n4 - É aplicável aos pagamentos efectuados nos CTT com cheques em que se verifique falta ou insuficiência de provisão, falta de requisitos essenciais e inobservância de condições legais ou outras que originem o seu não pagamento o disposto nos artigos 10.º e 11.º, com as devidas adaptações.\n\n5 - Os cheques a que se refere o número anterior, depois de endossados, serão remetidos, por ofício registado, ao director distrital de finanças da área da estação onde ocorreu o pagamento, para efeitos de regularização e cumprimento do disposto no n.º 5 do artigo 10.º, se for o caso.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510240": {
+   "fragment_id": "114509745",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamentos com meios não regularizados",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 15.º — Pagamentos com meios não regularizados\n\n1 - Serão considerados nulos os pagamentos que não sejam regularizados nos termos dos artigos 10.º, 11.º e 12.º, n.º 4, sem prejuízo das sanções previstas para a falta de pagamento dentro dos prazos legais.\n\n2 - Sempre que os meios de pagamento não regularizados respeitem à entrega de retenções na fonte, os serviços centrais da DGCI, sem prejuízo da penalidade aplicável, efectuarão de imediato liquidação pelo montante não pago, a que acrescerão os juros previstos e contados nos termos dos Códigos do IRS e do IRC, emitindo ordem de pagamento, que será notificada ao devedor, para ser satisfeita no prazo de 15 dias, sob pena de cobrança coerciva.\n\n3 - Se para o pagamento da liquidação referida no número anterior for utilizado cheque não visado, e este vier a ser devolvido por falta ou insuficiência de provisão ou falta de requisitos, cumprir-se-á de imediato o disposto no n.º 5 do artigo 10.º, sem que haja lugar a novo processo de regularização.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510241": {
+   "fragment_id": "114509746",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamentos nas instituições de crédito, CTT e tesourarias",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 16.º — Pagamentos nas instituições de crédito, CTT e tesourarias\n\n1 - Os pagamentos realizados nas instituições de crédito serão creditados com data do dia seguinte na conta da DGCI, para o efeito criada, pelo montante discriminado das cobranças efectuadas no dia anterior.\n\n2 - O montante das importâncias cobradas pelos CTT em cada semana será depositado na conta que vier a ser indicada pela DGCI até ao 4.º dia da 2.ª semana posterior à do pagamento, deduzido do valor dos cheques devolvidos sem pagamento durante o mesmo período.\n\n3 - O produto diário da cobrança dos impostos sobre o rendimento apurado nas tesourarias da Fazenda Pública será depositado separadamente em relação às restantes cobranças aí efectuadas no dia útil seguinte.\n\n4 - Os meios de pagamento entrados nas tesourarias da Fazenda Pública, relativos à contribuição autárquica, serão depositados no dia útil seguinte, na conta que vier a ser indicada pela DGCI.\n\n5 - Não haverá registo prévio dos documentos de cobrança junto da repartição de finanças para os pagamentos previstos neste diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510242": {
+   "fragment_id": "114509747",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações e comunicações das instituições de crédito",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 17.º — Obrigações e comunicações das instituições de crédito\n\n1 - Os cheques com os dizeres «pagamento de impostos» referidos no presente diploma devem ser apresentados à compensação num dos três dias úteis seguintes ao do depósito, salvo motivos de força maior, não podendo ser ultrapassados, em qualquer caso, os prazos previstos no Regulamento do Serviço de Compensação para a sua devolução ao apresentante.\n\n2 - As instituições de crédito serão responsáveis perante a DGCI pelas importâncias correspondentes aos cheques que tenham visado, para o que deverão cativar imediatamente, nas contas de depósito sacadas, os montantes respectivos.\n\n3 - No caso de devolução de cheques, deverão as instituições de crédito sacadas comunicar o nome do sacador e o respectivo domicílio ou sede no dia imediato ao do conhecimento da respectiva devolução sem pagamento.\n\n4 - As instituições de crédito são directamente responsáveis perante a DGCI pelos eventuais encargos que venham a ser liquidados aos contribuintes em caso de incumprimento do disposto nos números anteriores, aplicando-se para a sua cobrança o disposto no artigo 10.º\n\n5 - Todos os cheques que não devam ser remetidos ao tribunal territorialmente competente ficarão arquivados nos serviços centrais da DGCI ou direcção distrital de finanças respectiva, conforme os casos, durante cinco anos, após o que serão inutilizados.\n\n6 - Sempre que se verifique a emissão de cheques com falta ou insuficiência de provisão que não venham a ser regularizados, deverá tal facto ser participado ao Banco de Portugal para os efeitos previstos na legislação que estabelece a inibição do uso de cheques, sem prejuízo de, após despacho do director-geral das Contribuições e Impostos, se comunicar às tesourarias da Fazenda Pública e CTT listagem dos contribuintes a quem deve ser recusada a aceitação de cheques não visados.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510243": {
+   "fragment_id": "114509748",
+   "type": 11,
+   "heading": "Artigo 18.º — Prova do pagamento",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 18.º — Prova do pagamento\n\nNo acto dos pagamentos previstos no presente diploma a entidade colaboradora na cobrança entregará ao interessado, depois de devidamente certificado, documento comprovativo do pagamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510244": {
+   "fragment_id": "114509750",
+   "type": 11,
+   "heading": "Artigo 19.º — Direito ao reembolso",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 19.º — Direito ao reembolso\n\n1 - O sujeito passivo deverá indicar, na declaração de rendimentos, se pretende o reembolso ou o reporte para anos posteriores, conforme os casos, sempre que, nos termos dos Códigos do Imposto sobre o Rendimento das Pessoas Singulares e das Pessoas Colectivas, seja apurado imposto a restituir.\n\n2 - Nos casos em que não haja obrigatoriedade de entrega de declaração ou a liquidação onde é apurado imposto a restituir seja efectuada em cumprimento de decisão proferida em processo de reclamação ou de impugnação judicial, o reembolso será efectuado directamente pelos serviços.\n\n3 - Quando, com utilização de meio de pagamento válido, tenha sido entregue montante superior ao da importância a pagar, a diferença será reembolsada de imediato ao contribuinte sem observância dos requisitos previstos no presente diploma para os reembolsos.\n\n4 - São competentes para processar os reembolsos previstos na lei os serviços centrais da DGCI.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510245": {
+   "fragment_id": "114509758",
+   "type": 11,
+   "heading": "Artigo 26.º — Transferências de fundos para as regiões autónomas",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 26.º — Transferências de fundos para as regiões autónomas\n\n1 - As transferências de fundos para as regiões autónomas, movimentadas em nome do respectivo governo regional, serão efectuadas, mensalmente, com base no produto das cobranças, líquido dos reembolsos relativos a sujeitos passivos residentes nas Regiões Autónomas dos Açores e da Madeira.\n\n2 - Sempre que no apuramento periódico das verbas respeitantes às regiões autónomas se verificar a necessidade de ajustamentos às transferências já efectuadas, a DGCI procederá às necessárias compensações em transferências futuras.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510246": {
+   "fragment_id": "114509759",
+   "type": 11,
+   "heading": "Artigo 27.º — Transferência de fundos",
+   "in_force_from": "1990-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 27.º — Transferência de fundos\n\n1 - A passagem de fundos relativa às importâncias cobradas pelas instituições de crédito para a Caixa Geral do Tesouro junto do Banco de Portugal é efectuada nos dias 2 e 16 de cada mês ou, se aqueles não forem dias úteis, em cada um dos dias úteis seguintes, devendo cada uma das instituições transferir o saldo existente nessa conta da DGCI no dia útil imediatamente anterior à passagem de fundos, salvo se outro montante lhes for indicado.\n\n2 - A DGCI deverá providenciar a transferência para a Caixa Geral do Tesouro das importâncias depositadas provenientes de cobrança nas estações dos CTT, tendo em conta o disposto no artigo 25.º\n\n3 - Os montantes respeitantes a pagamentos relativos a impostos sobre o rendimento efectuados nas tesourarias da Fazenda Pública são por elas transferidos para a conta do Tesouro no dia útil seguinte ao do pagamento.\n\n4 - A DGCI transferirá para cada município o produto das derramas cobradas, 15 dias após o respectivo apuramento.\n\n5 - O depósito dos meios de pagamento, nos termos do n.º 4 do artigo 16.º, considera-se transferência de fundos para todos os efeitos legais.\n\n6 - As transferências de verbas para as autarquias provenientes da cobrança da contribuição autárquica serão efectuadas pela DGCI nos termos da legislação em vigor.\n\n7 - As importâncias correspondentes aos encargos de liquidação e cobrança da contribuição autárquica serão transferidas pela DGCI para a Caixa Geral do Tesouro nos dois dias úteis imediatos à data em que se operar a transferência referida no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510231": {
+   "fragment_id": "114510377",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Dezembro de 1988. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 30 de Dezembro de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Dezembro de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "114510247": {
+   "fragment_id": "114509745",
+   "type": 11,
+   "heading": "Artigo 15.º — Pagamentos irregulares",
+   "in_force_from": "2003-07-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 160/2003 - Diário da República n.º 165/2003, Série I-A de 2003-07-19](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2003-07-24",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 15.º — Pagamentos irregulares\n\n1 - Serão considerados nulos os pagamentos efectuados com cheques irregulares, sem prejuízo das sanções legalmente previstas para a falta de pagamento nos prazos fixados na lei.\n\n2 - Tratando-se de declaração de retenções na fonte não acompanhada de meio de pagamento suficiente, ou sendo este irregular, os serviços centrais da DGCI, sem prejuízo das penalidades aplicáveis, procederão à emissão da correspondente certidão de dívida, nos termos e para os efeitos do disposto no artigo 88.º do Código de Procedimento e de Processo Tributário.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 160/2003 - Diário da República n.º 165/2003, Série I-A de 2003-07-19](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2003-07-24\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510252": {
+   "fragment_id": "114509737",
+   "type": 11,
+   "heading": "Artigo 7 — Pagamento nas tesourarias",
+   "in_force_from": "2005-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 124/2005 - Diário da República n.º 148/2005, Série I-A de 2005-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2005-240382), em vigor a partir de 2005-08-08.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 7 — Pagamento nas tesourarias\n\n1 - Os pagamentos nos serviços de finanças só podem ser efectuados:\n\na) Com moeda corrente;\n\nb) Por meio de cheque sacado sobre instituição de crédito localizada em qualquer Estado membro da União Europeia ou no espaço económico europeu;\n\nc) Por transferência conta a conta feita em instituição de crédito localizada em qualquer Estado membro da União Europeia ou no espaço económico europeu contendo obrigatoriamente a referência de pagamento;\n\nd) Através de outras entidades cobradoras, que para esse efeito celebrem com a Direcção-Geral do Tesouro os indispensáveis acordos.\n\n2 - Os pagamentos de um ou vários documentos de cobrança apenas podem ser efectuados com um único tipo de meio de pagamento de valor igual ao somatório das importâncias a entregar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 124/2005 - Diário da República n.º 148/2005, Série I-A de 2005-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2005-240382), em vigor a partir de 2005-08-08.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510257": {
+   "fragment_id": "114510392",
+   "type": 11,
+   "heading": "Artigo 34.º-A — Isenção de garantia",
+   "in_force_from": "2006-08-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 150/2006 - Diário da República n.º 148/2006, Série I de 2006-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2006-539422), em vigor a partir de 2006-08-07"
+   ],
+   "markdown": "###### Artigo 34.º-A — Isenção de garantia\n\n1 - As dívidas de imposto sobre o rendimento das pessoas singulares (IRS) e de imposto sobre o rendimento das pessoas colectivas (IRC) de valor inferior, respectivamente, a (euro) 2500 e (euro) 5000 podem ser pagas em prestações antes da instauração do processo executivo, com isenção de garantia, desde que o requerente não seja devedor de quaisquer tributos administrados pela DGCI, nos termos do presente artigo.\n\n2 - Os pedidos de pagamento em prestações a que se refere o número anterior são apresentados preferencialmente por via electrónica, ou nos serviços de finanças da área onde o contribuinte tenha o seu domicílio fiscal, até 15 dias após o termo do prazo para o pagamento voluntário e devem conter a identificação do requerente e a natureza da dívida.\n\n3 - No prazo de 15 dias após a sua recepção, os pedidos são deferidos pelo chefe do serviço de finanças uma vez verificado que o requerente não é devedor de quaisquer outros tributos administrados pela DGCI.\n\n4 - Deferido o pedido de pagamento em prestações no âmbito do presente artigo, o total do imposto é dividido pelo número de prestações mensais e iguais, constantes da seguinte tabela, acrescendo à primeira as fracções resultantes do arredondamento de todas elas:\n\n(ver documento original)\n\n5 - Ao valor de cada prestação acrescem os juros de mora contados sobre o respectivo montante desde o termo do prazo para pagamento voluntário até ao mês do respectivo pagamento.\n\n6 - O pagamento das prestações deve ser efectuado até ao final de cada mês, em qualquer dos locais e meios previstos neste diploma, sendo para o efeito emitidos documentos de cobrança a enviar ao contribuinte.\n\n7 - A falta de pagamento de qualquer das prestações nos termos dos números anteriores importa o vencimento imediato das seguintes e a instauração do processo de execução fiscal pelo valor em dívida.\n\n8 - O disposto do presente artigo não é aplicável às dívidas por falta de entrega dentro dos respectivos prazos legais de quaisquer retenções de imposto.\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 150/2006 - Diário da República n.º 148/2006, Série I de 2006-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2006-539422), em vigor a partir de 2006-08-07"
+  },
+  "114510258": {
+   "fragment_id": "114509768",
+   "type": 11,
+   "heading": "Artigo 35.º — Local dos pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Local dos pagamentos\n\n1 - Os processos relativos a pedidos autorizados, depois de prestada a respectiva garantia, serão remetidos, conjuntamente com esta, à repartição de finanças da área fiscal do domicílio, sede ou estabelecimento estável do requerente.\n\n2 - Os pagamentos serão efectuados com moeda corrente ou cheque visado apenas nas tesourarias da Fazenda Pública, com prévia solicitação de guias na repartição referida no número anterior, contendo estas todos os elementos comuns aos documentos de pagamento referidos no presente diploma."
+  },
+  "114510259": {
+   "fragment_id": "114509769",
+   "type": 11,
+   "heading": "Artigo 36.º — Liquidação das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Liquidação das prestações\n\nDeferido o pedido de pagamento em prestações no âmbito do presente diploma, será o total da dívida dividido pelo número de prestações autorizado, acrescendo ao valor de cada prestação os juros de mora contados sobre o respectivo montante desde o termo do prazo para pagamento voluntário até ao mês do respectivo pagamento."
+  },
+  "114510260": {
+   "fragment_id": "114509770",
+   "type": 11,
+   "heading": "Artigo 37.º — Falta de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Falta de pagamento\n\n1 - A falta de pagamento de qualquer das prestações importa o vencimento imediato das seguintes, instaurando-se processo de execução fiscal pelo valor em dívida.\n\n2 - Verificada a falta de pagamento e instaurada a execução fiscal, será citada a entidade que prestou a garantia para no prazo de dez dias efectuar o pagamento da dívida ainda existente até ao montante da garantia prestada, sob pena de ser executada no próprio processo.\n\n3 - Nos processos de execução fiscal instaurados com base na falta de pagamento de dívidas para as quais tenha sido autorizado o pagamento em prestações, nos termos do presente diploma, far-se-ão constar os bens que foram dados de garantia."
+  },
+  "114510261": {
+   "fragment_id": "114509742",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamentos nos correios",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 170.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+   ],
+   "markdown": "###### Artigo 12.º — Pagamentos nos correios\n\n1 - Os pagamentos nos correios podem ser efectuados com cheque, vale postal ou moeda corrente, nos termos e condicionalismos estabelecidos para os pagamentos nas tesourarias da Fazenda Pública.\n\n2 - Os cheques são emitidos à ordem dos CTT, podendo, todavia, ser-lhes aposta a cláusula «não à ordem», cruzados, com os dizeres «pagamento de impostos», podendo ser rejeitados se a data de emissão não coincidir com o dia do pagamento ou um dos dois dias anteriores.\n\n3 - Na falta de aposição da data de emissão do cheque aplicar-se-á o disposto na parte final do n.º 3 do artigo 8.º, com as devidas adaptações.\n\n4 - É aplicável aos pagamentos efectuados nos CTT com cheques em que se verifique falta ou insuficiência de provisão, falta de requisitos essenciais e inobservância de condições legais ou outras que originem o seu não pagamento o disposto nos artigos 10.º e 11.º, com as devidas adaptações.\n\n5 - Os cheques a que se refere o número anterior, depois de endossados, serão remetidos, por ofício registado, ao director distrital de finanças da área da estação onde ocorreu o pagamento, para efeitos de regularização e cumprimento do disposto no n.º 5 do artigo 10.º, se for o caso.\n\n6 - Os n.os 4 e 5 aplicam-se aos pagamentos efetuados nos CTT com cheques dos quais conste a cláusula «não à ordem», sendo que, em tais casos, a transmissão aos competentes serviços da Autoridade Tributária Aduaneira é efetuada nos termos e com os efeitos de uma cessão ordinária de créditos.\n\n7 - Às situações compreendidas nos n.os 4 a 6 não é aplicável a alínea c) do n.º 1 do artigo 11.º do Decreto-Lei n.º 454/91, de 28 de fevereiro.\n\n> Alterado pelo/a Artigo 170.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 172-A/90 - Diário da República n.º 125/1990, 1º Suplemento, Série I de 1990-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-a-1990-293715), em vigor a partir de 1990-06-05"
+  },
+  "114510262": {
+   "fragment_id": "114510393",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Reembolsos a pessoas coletivas",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 193.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 24.º-A — Reembolsos a pessoas coletivas\n\n1 - O membro do Governo responsável pela área das finanças pode, através de despacho, autorizar a Autoridade Tributária e Aduaneira a efetuar reembolsos em condições diferentes das estabelecidas nos artigos anteriores, relativamente aos sujeitos passivos de imposto sobre o rendimento das pessoas coletivas.\n\n2 - O despacho referido no número anterior pode determinar a obrigatoriedade de os sujeitos passivos, em determinadas situações, apresentarem documentos ou informações relativos à sua atividade, sob pena de o reembolso não se considerar devido.\n\n> Aditado pelo/a Artigo 193.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "114510263": {
+   "fragment_id": "114510392",
+   "type": 11,
+   "heading": "Artigo 34.º-A — Isenção de garantia",
+   "in_force_from": "2016-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 184.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 150/2006 - Diário da República n.º 148/2006, Série I de 2006-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2006-539422), em vigor a partir de 2006-08-07"
+   ],
+   "markdown": "###### Artigo 34.º-A — Isenção de garantia\n\n1 - As dívidas de imposto sobre o rendimento das pessoas singulares (IRS) e de imposto sobre o rendimento das pessoas coletivas (IRC) de valor inferior, respetivamente, a (euro) 5 000 e (euro) 10 000 podem ser pagas em prestações antes da instauração do processo executivo, com isenção de garantia, desde que o requerente não seja devedor de quaisquer tributos administrados pela Autoridade Tributária e Aduaneira, nos termos do presente artigo.\n\n2 - Os pedidos de pagamento em prestações a que se refere o número anterior são apresentados preferencialmente por via electrónica, ou nos serviços de finanças da área onde o contribuinte tenha o seu domicílio fiscal, até 15 dias após o termo do prazo para o pagamento voluntário e devem conter a identificação do requerente e a natureza da dívida.\n\n3 - No prazo de 15 dias após a sua recepção, os pedidos são deferidos pelo chefe do serviço de finanças uma vez verificado que o requerente não é devedor de quaisquer outros tributos administrados pela DGCI.\n\n4 - Deferido o pedido de pagamento em prestações no âmbito do presente artigo, o total do imposto é dividido pelo número de prestações mensais e iguais, constantes da seguinte tabela, acrescendo à primeira as fracções resultantes do arredondamento de todas elas:\n\n(ver documento original)\n\n5 - Ao valor de cada prestação acrescem os juros de mora contados sobre o respectivo montante desde o termo do prazo para pagamento voluntário até ao mês do respectivo pagamento.\n\n6 - O pagamento das prestações deve ser efectuado até ao final de cada mês, em qualquer dos locais e meios previstos neste diploma, sendo para o efeito emitidos documentos de cobrança a enviar ao contribuinte.\n\n7 - A falta de pagamento de qualquer das prestações nos termos dos números anteriores importa o vencimento imediato das seguintes e a instauração do processo de execução fiscal pelo valor em dívida.\n\n8 - O disposto do presente artigo não é aplicável às dívidas por falta de entrega dentro dos respectivos prazos legais de quaisquer retenções de imposto.\n\n> Alterado pelo/a Artigo 184.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 150/2006 - Diário da República n.º 148/2006, Série I de 2006-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2006-539422), em vigor a partir de 2006-08-07"
+  },
+  "114510264": {
+   "fragment_id": "114509762",
+   "type": 11,
+   "heading": "Artigo 29.º — Pagamentos em prestações",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 274.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Pagamentos em prestações\n\n1 - As dívidas de impostos sobre o rendimento das pessoas singulares e das pessoas coletivas poderão ser pagas em prestações, devendo o pedido ser apresentado até à data limite de pagamento da respetiva nota de cobrança.\n\n2 - O disposto no número anterior não é aplicável às dívidas liquidadas pelos serviços por falta de entrega dentro dos respectivos prazos legais de quaisquer retenções de imposto.\n\n3 - O número de prestações não pode exceder 36, sendo de periodicidade mensal.\n\n> Alterado pelo/a Artigo 274.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "134907818": {
+   "fragment_id": "114509762",
+   "type": 11,
+   "heading": "Artigo 29.º — Pagamentos em prestações",
+   "in_force_from": "2019-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 274.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Pagamentos em prestações\n\n1 - As dívidas de impostos sobre o rendimento das pessoas singulares e das pessoas coletivas podem ser pagas em prestações, devendo o pedido ser apresentado antes da instauração do respetivo processo de execução fiscal.\n\n2 - O disposto no número anterior não é aplicável às dívidas liquidadas pelos serviços por falta de entrega dentro dos respectivos prazos legais de quaisquer retenções de imposto.\n\n3 - O número de prestações não pode exceder 36, sendo de periodicidade mensal.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 274.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "134907819": {
+   "fragment_id": "114509764",
+   "type": 11,
+   "heading": "Artigo 31.º — Requisitos dos pedidos",
+   "in_force_from": "2019-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 31.º — Requisitos dos pedidos\n\n1 - Poderão solicitar o pagamento em prestações os devedores cuja situação económica, devidamente comprovada, não lhes permita solver as dívidas dentro dos prazos legalmente previstos ou nos casos em que ocorram circunstâncias excepcionais e razões de interesse público o justifiquem.\n\n2 - Os pedidos de pagamento em prestações contêm a identificação do requerente, a natureza da dívida e o número de prestações pretendido, devendo ser apresentados por via eletrónica, no prazo de 15 dias a contar do termo do prazo para o pagamento voluntário.\n\n3 - O director distrital de finanças, juntas todas as informações de que disponha sobre o pedido e sobre a situação económica do requerente, pronunciar-se-á sobre a concessão, alteração ou denegação do pedido, submetendo-o a apreciação, através dos serviços centrais da DGCI, no prazo de quinze dias após a recepção.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01"
+  },
+  "134907820": {
+   "fragment_id": "114510392",
+   "type": 11,
+   "heading": "Artigo 34.º-A — Isenção de garantia",
+   "in_force_from": "2019-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 184.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 150/2006 - Diário da República n.º 148/2006, Série I de 2006-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2006-539422), em vigor a partir de 2006-08-07"
+   ],
+   "markdown": "###### Artigo 34.º-A — Isenção de garantia\n\n1 - As dívidas de imposto sobre o rendimento das pessoas singulares (IRS) e de imposto sobre o rendimento das pessoas coletivas (IRC) de valor igual ou inferior, respetivamente, a (euro) 5 000 e (euro) 10 000 podem ser pagas em prestações, com isenção de garantia, desde que o requerente não seja devedor de quaisquer tributos administrados pela Autoridade Tributária e Aduaneira, nos termos do presente artigo.\n\n2 - Os pedidos de pagamento em prestações a que se refere o número anterior são apresentados por via eletrónica até 15 dias após o termo do prazo para o pagamento voluntário e devem conter a identificação do requerente e a natureza da dívida.\n\n3 - No prazo de 15 dias após a sua recepção, os pedidos são deferidos pelo chefe do serviço de finanças uma vez verificado que o requerente não é devedor de quaisquer outros tributos administrados pela DGCI.\n\n4 - Deferido o pedido de pagamento em prestações no âmbito do presente artigo, o total do imposto é dividido pelo número de prestações mensais e iguais, constantes da seguinte tabela, acrescendo à primeira as fracções resultantes do arredondamento de todas elas:\n\n(ver documento original)\n\n5 - Ao valor de cada prestação acrescem os juros de mora contados sobre o respectivo montante desde o termo do prazo para pagamento voluntário até ao mês do respectivo pagamento.\n\n6 - O pagamento das prestações deve ser efectuado até ao final de cada mês, em qualquer dos locais e meios previstos neste diploma, sendo para o efeito emitidos documentos de cobrança a enviar ao contribuinte.\n\n7 - A falta de pagamento de qualquer das prestações nos termos dos números anteriores importa o vencimento imediato das seguintes e a instauração do processo de execução fiscal pelo valor em dívida.\n\n8 - O disposto do presente artigo não é aplicável às dívidas por falta de entrega dentro dos respectivos prazos legais de quaisquer retenções de imposto.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 184.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 150/2006 - Diário da República n.º 148/2006, Série I de 2006-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2006-539422), em vigor a partir de 2006-08-07"
+  },
+  "134907821": {
+   "fragment_id": "114509770",
+   "type": 11,
+   "heading": "Artigo 37.º — Falta de pagamento",
+   "in_force_from": "2019-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 37.º — Falta de pagamento\n\n1 - A falta de pagamento de qualquer das prestações importa o vencimento imediato das seguintes.\n\n2 - Verificada a falta de pagamento, é notificada a entidade que prestou a garantia para, no prazo de 30 dias, efetuar o pagamento da dívida ainda existente até ao montante da garantia prestada.\n\n3 - Findo o prazo referido no número anterior sem que tenha sido efetuado o pagamento, é de imediato instaurado processo de execução fiscal, pelo valor em dívida, contra o devedor e entidade garante.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01"
+  },
+  "176885089": {
+   "fragment_id": "114509762",
+   "type": 11,
+   "heading": "Artigo 29.º — Pagamentos em prestações",
+   "in_force_from": "2022-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01",
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 274.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Pagamentos em prestações\n\n1 - As dívidas de impostos sobre o rendimento das pessoas singulares e das pessoas coletivas podem ser pagas em prestações, devendo o pedido ser apresentado antes da instauração do respetivo processo de execução fiscal.\n\n2 - O disposto no número anterior não é aplicável às dívidas liquidadas pelos serviços por falta de entrega dentro dos respectivos prazos legais de quaisquer retenções de imposto.\n\n3 - O número de prestações não pode exceder 36, sendo de periodicidade mensal.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 274.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "176885090": {
+   "fragment_id": "114509763",
+   "type": 11,
+   "heading": "Artigo 30.º — Competência para autorizar as prestações",
+   "in_force_from": "2022-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+   ],
+   "markdown": "###### Artigo 30.º — Competência para autorizar as prestações\n\nA competência para autorizar o pagamento em prestações das dívidas referidas no artigo anterior cabe ao Ministro das Finanças.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+  },
+  "176885091": {
+   "fragment_id": "114509764",
+   "type": 11,
+   "heading": "Artigo 31.º — Requisitos dos pedidos",
+   "in_force_from": "2022-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01",
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 31.º — Requisitos dos pedidos\n\n1 - Poderão solicitar o pagamento em prestações os devedores cuja situação económica, devidamente comprovada, não lhes permita solver as dívidas dentro dos prazos legalmente previstos ou nos casos em que ocorram circunstâncias excepcionais e razões de interesse público o justifiquem.\n\n2 - Os pedidos de pagamento em prestações contêm a identificação do requerente, a natureza da dívida e o número de prestações pretendido, devendo ser apresentados por via eletrónica, no prazo de 15 dias a contar do termo do prazo para o pagamento voluntário.\n\n3 - O director distrital de finanças, juntas todas as informações de que disponha sobre o pedido e sobre a situação económica do requerente, pronunciar-se-á sobre a concessão, alteração ou denegação do pedido, submetendo-o a apreciação, através dos serviços centrais da DGCI, no prazo de quinze dias após a recepção.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01"
+  },
+  "176885092": {
+   "fragment_id": "114509765",
+   "type": 11,
+   "heading": "Artigo 32.º — Das garantias",
+   "in_force_from": "2022-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+   ],
+   "markdown": "###### Artigo 32.º — Das garantias\n\n1 - Conjuntamente com o pedido referido no artigo anterior deverá o devedor oferecer garantia idónea, nomeadamente:\n\na) Aval bancário ou de instituição legalmente autorizada a prestá-lo;\n\nb) Seguro-caução ou caução efectuados por instituições de seguros legalmente autorizadas;\n\nc) Hipoteca.\n\n2 - A garantia será prestada pelo valor da dívida e juros de mora, a contar até à data do pedido, acrescido de 25% da soma daqueles valores.\n\n3 - As garantias referidas no n.º 1 deverão ser constituídas para cobrir todo o período de tempo que foi concedido para efectuar o pagamento, acrescido de três meses, e ser apresentadas no prazo de 10 dias a contar da notificação que autorizou as prestações, salvo no caso da hipoteca, cujo prazo poderá ser ampliado até 30 dias.\n\n4 - Após o decurso dos prazos referidos no número precedente sem que tenha sido prestada a garantia, fica sem efeito a autorização para efectuar o pagamento da dívida em prestações, aplicando-se o disposto nos n.os 2 e 3 do artigo 34.º\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+  },
+  "176885093": {
+   "fragment_id": "114509766",
+   "type": 11,
+   "heading": "Artigo 33.º — Apreciação das garantias e situação do devedor",
+   "in_force_from": "2022-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+   ],
+   "markdown": "###### Artigo 33.º — Apreciação das garantias e situação do devedor\n\n1 - É competente para avaliar as garantias a prestar nos termos deste diploma o director da direcção distrital de finanças onde for apresentado o pedido.\n\n2 - As direcções distritais de finanças poderão exigir informação prévia dos serviços de fiscalização tributária sobre as circunstâncias da dívida e situação económica do devedor, a prestar no prazo de dez dias.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+  },
+  "176885094": {
+   "fragment_id": "114509767",
+   "type": 11,
+   "heading": "Artigo 34.º — Apreciação dos pedidos",
+   "in_force_from": "2022-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+   ],
+   "markdown": "###### Artigo 34.º — Apreciação dos pedidos\n\n1 - Os pedidos remetidos para os serviços centrais da DGCI serão de imediato submetidos a despacho do Ministro das Finanças.\n\n2 - Os pedidos, depois de apreciados, são remetidos à direcção distrital de finanças referida no n.º 2 do artigo 31.º para efeitos de notificação ao requerente.\n\n3 - Em caso de indeferimento, as certidões de dívida serão remetidas pelo director distrital de finanças ao tribunal tributário ou à repartição de finanças competentes, com requerimento para instauração de processo de execução fiscal.\n\n4 - As notificações serão efectuadas por carta registada, presumindo-se a notificação efectuada no terceiro dia posterior ao do registo ou no primeiro dia útil seguinte a esse, quando o não seja.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+  },
+  "176885095": {
+   "fragment_id": "114510392",
+   "type": 11,
+   "heading": "Artigo 34.º-A — Isenção de garantia",
+   "in_force_from": "2022-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01",
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01",
+    "Alterado pelo/a Artigo 184.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31",
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 150/2006 - Diário da República n.º 148/2006, Série I de 2006-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2006-539422), em vigor a partir de 2006-08-07"
+   ],
+   "markdown": "###### Artigo 34.º-A — Isenção de garantia\n\n1 - As dívidas de imposto sobre o rendimento das pessoas singulares (IRS) e de imposto sobre o rendimento das pessoas coletivas (IRC) de valor igual ou inferior, respetivamente, a (euro) 5 000 e (euro) 10 000 podem ser pagas em prestações, com isenção de garantia, desde que o requerente não seja devedor de quaisquer tributos administrados pela Autoridade Tributária e Aduaneira, nos termos do presente artigo.\n\n2 - Os pedidos de pagamento em prestações a que se refere o número anterior são apresentados por via eletrónica até 15 dias após o termo do prazo para o pagamento voluntário e devem conter a identificação do requerente e a natureza da dívida.\n\n3 - No prazo de 15 dias após a sua recepção, os pedidos são deferidos pelo chefe do serviço de finanças uma vez verificado que o requerente não é devedor de quaisquer outros tributos administrados pela DGCI.\n\n4 - Deferido o pedido de pagamento em prestações no âmbito do presente artigo, o total do imposto é dividido pelo número de prestações mensais e iguais, constantes da seguinte tabela, acrescendo à primeira as fracções resultantes do arredondamento de todas elas:\n\n(ver documento original)\n\n5 - Ao valor de cada prestação acrescem os juros de mora contados sobre o respectivo montante desde o termo do prazo para pagamento voluntário até ao mês do respectivo pagamento.\n\n6 - O pagamento das prestações deve ser efectuado até ao final de cada mês, em qualquer dos locais e meios previstos neste diploma, sendo para o efeito emitidos documentos de cobrança a enviar ao contribuinte.\n\n7 - A falta de pagamento de qualquer das prestações nos termos dos números anteriores importa o vencimento imediato das seguintes e a instauração do processo de execução fiscal pelo valor em dívida.\n\n8 - O disposto do presente artigo não é aplicável às dívidas por falta de entrega dentro dos respectivos prazos legais de quaisquer retenções de imposto.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01\n\n> Alterado pelo/a Artigo 184.º do/a [Lei n.º 7-A/2016 - Diário da República n.º 62/2016, 1º Suplemento, Série I de 2016-03-30](https://diariodarepublica.pt/dr/detalhe/lei/7-a-2016-73958532), em vigor a partir de 2016-03-31\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 150/2006 - Diário da República n.º 148/2006, Série I de 2006-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2006-539422), em vigor a partir de 2006-08-07"
+  },
+  "176885096": {
+   "fragment_id": "114509768",
+   "type": 11,
+   "heading": "Artigo 35.º — Local dos pagamentos",
+   "in_force_from": "2022-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+   ],
+   "markdown": "###### Artigo 35.º — Local dos pagamentos\n\n1 - Os processos relativos a pedidos autorizados, depois de prestada a respectiva garantia, serão remetidos, conjuntamente com esta, à repartição de finanças da área fiscal do domicílio, sede ou estabelecimento estável do requerente.\n\n2 - Os pagamentos serão efectuados com moeda corrente ou cheque visado apenas nas tesourarias da Fazenda Pública, com prévia solicitação de guias na repartição referida no número anterior, contendo estas todos os elementos comuns aos documentos de pagamento referidos no presente diploma.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+  },
+  "176885097": {
+   "fragment_id": "114509769",
+   "type": 11,
+   "heading": "Artigo 36.º — Liquidação das prestações",
+   "in_force_from": "2022-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+   ],
+   "markdown": "###### Artigo 36.º — Liquidação das prestações\n\nDeferido o pedido de pagamento em prestações no âmbito do presente diploma, será o total da dívida dividido pelo número de prestações autorizado, acrescendo ao valor de cada prestação os juros de mora contados sobre o respectivo montante desde o termo do prazo para pagamento voluntário até ao mês do respectivo pagamento.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01"
+  },
+  "176885098": {
+   "fragment_id": "114509770",
+   "type": 11,
+   "heading": "Artigo 37.º — Falta de pagamento",
+   "in_force_from": "2022-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01",
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01"
+   ],
+   "markdown": "###### Artigo 37.º — Falta de pagamento\n\n1 - A falta de pagamento de qualquer das prestações importa o vencimento imediato das seguintes.\n\n2 - Verificada a falta de pagamento, é notificada a entidade que prestou a garantia para, no prazo de 30 dias, efetuar o pagamento da dívida ainda existente até ao montante da garantia prestada.\n\n3 - Findo o prazo referido no número anterior sem que tenha sido efetuado o pagamento, é de imediato instaurado processo de execução fiscal, pelo valor em dívida, contra o devedor e entidade garante.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 125/2021 - Diário da República n.º 252/2021, Série I de 2021-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2021-176800374), em vigor a partir de 2022-07-01\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 119/2019 - Diário da República n.º 179/2019, Série I de 2019-09-18](https://diariodarepublica.pt/dr/detalhe/lei/119-2019-124793094), em vigor a partir de 2019-10-01"
+  }
+ }
+}

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:220745:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-932424814",
+ "dre_path": "/dr/detalhe/portaria/378-2004-220745",
+ "source_lastmod": "2025-08-18",
+ "versions": [
+  {
+   "date": "2004-04-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "929044436"
+   ]
+  }
+ ],
+ "fragments": {
+  "929044436": {
+   "fragment_id": "932424815",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 378/2004\n\nde 14 de Abril\n\nA informação disponibilizada pelas obrigações acessórias vem assumindo cada vez maior relevância, sobretudo ao nível do controlo cruzado de informação e consequente apuramento da verdade declarativa.\n\nNo que respeita concretamente à informação a prestar pelas entidades emitentes de valores mobiliários, a mesma, a ser prestada através de suporte de papel, é mais susceptível a erros e tem um peso excessivo em termos de recolha de dados, pelo que se limita a forma do seu cumprimento ao envio por transmissão electrónica de dados.\n\nAssim:\n\nEm execução do disposto no artigo 120.º do Código do IRS e nos termos do artigo 8.º do Decreto-Lei n.º 442-A/88, de 30 de Novembro, e do artigo 144.º do Código do IRS:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, o seguinte:"
+  }
+ }
+}

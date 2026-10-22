@@ -1,0 +1,989 @@
+---
+schema_version: '1.0'
+id: pt:dre:633289:por
+title: Decreto-Lei n.º 88/2006
+short_title: null
+summary: Regula os cursos de especialização tecnológica, formações pós-secundárias não superiores que visam conferir qualificação
+  profissional do nível 4
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Ciência, Tecnologia e Ensino Superior
+proposing_entity: null
+official_number: 88/2006
+official_date: null
+publication_date: '2006-05-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 99/2006, Série I-A de 2006-05-23
+  number: '99'
+  series: I
+  supplement: null
+  pages: 3474 - 3483
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/05/099a00/34743483.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-06-01'
+version_history:
+  file: decreto-lei-88-2006.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-05-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-06-01'
+    amending: pt:dre:184181415:por
+    amending_title: Decreto-Lei n.º 39/2022
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Capítulo IV
+    - Altera Artigo 19.º
+    - Altera Capítulo VIII
+    - Altera Artigo 34.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 39.º
+    - Revoga Artigo 40.º
+    - Revoga Artigo 41.º
+    - Revoga Artigo 42.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/88/2006/p/cons/20220531/pt/html
+  oj: null
+  dre: '633289'
+  dre_path: /dr/detalhe/decreto-lei/88-2006-633289
+  internal: pt:dre:633289:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2006-633289
+  metadata_url: https://data.dre.pt/eli/dec-lei/88/2006/p/cons/20220531/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-65824902
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-65824902
+  retrieved_at: '2026-10-22T11:57:17Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d5592f98bb38c08fc1571f433551008c2e21629950c8d714a26541a12b994010
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:57:17Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-88-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Comissão Técnica
+- Curso de Especialização Tecnológica
+- Comissão Técnica para a Formação Tecnológica Pos-secundaria
+- Definição de Competências
+- Ensino Cooperativo
+- Ensino Oficial
+- Estabelecimento de Ensino
+- Qualificação Profissional
+- Propinas
+- Avaliação de Conhecimentos
+- Ensino Superior
+relationships:
+- type: amended_by
+  target: pt:dre:184181415:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Capítulo IV; Altera Artigo 19.º; Altera Capítulo
+    VIII; Altera Artigo 34.º; Revoga Artigo 2.º; Revoga Artigo 4.º; Revoga Artigo 6.º; Revoga Artigo 8.º; Revoga Artigo 9.º;
+    Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 13.º; Revoga Artigo 14.º; Revoga Artigo 15.º;
+    Revoga Artigo 16.º; Revoga Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415
+  date: '2022-05-31'
+- type: cites
+  target: celex:31985D0368
+  label: null
+  source: http://data.europa.eu/eli/dec/1985/368/oj
+article_structure:
+  article_count: 53
+  section_count: 18
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:57:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 88/2006
+
+Decreto-Lei n.º 88/2006
+
+de 23 de Maio
+
+O Programa do Governo elegeu como um dos seus objectivos fundamentais o de fomentar a competitividade do País com coesão social, o que exige a qualificação do capital humano, uma vez que este é, de facto, o factor determinante do progresso, sobretudo no quadro das sociedades da informação e do conhecimento ao longo da vida.
+
+Para Portugal, esta aposta assume especial relevância, dados os baixos níveis de escolarização e qualificação profissional que ainda continuam a caracterizar a grande maioria da nossa população em idade activa, apesar dos progressos também registados neste domínio nas últimas décadas.
+
+Aumentar as aptidões e qualificações dos Portugueses dignifica o ensino, potencia a criação de novas oportunidades e promove quer o crescimento das pessoas quer, por via disso, o crescimento sócio-cultural e económico do País, ao possibilitar uma oferta de recursos humanos qualificados geradora de maior competitividade com coesão social. Para vencer este enorme desafio, Portugal tem de ser capaz de qualificar melhor os seus jovens, combatendo em particular as elevadas taxas de abandono escolar precoce (que levam a que hoje apenas cerca de metade dos nossos jovens com idades entre os 20 e os 24 anos tenha concluído com sucesso o ensino secundário) e dando novas oportunidades aos adultos, promovendo a sua recuperação escolar e requalificação profissional.
+
+No desenvolvimento deste propósito, há que conciliar a vertente do conhecimento, através do ensino e da formação, com a componente da inserção profissional qualificada.
+
+Neste âmbito, visando o acesso ao ensino superior e a igualdade de oportunidades e tendo em vista trazer mais jovens e adultos para o sistema de educação e formação profissional, o Governo assumiu, entre os seus compromissos programáticos, alargar a oferta de formação ao longo da vida e para novos públicos e envolver as instituições de ensino superior na expansão da formação pós-secundária, na dupla perspectiva de articulação entre os níveis secundário e superior de ensino e de creditação, para efeitos de prosseguimento de estudos superiores, da formação obtida nos cursos de especialização pós-secundária.
+
+O Governo assumiu como metas, no quadro da iniciativa «Novas oportunidades», inserida no Plano Nacional de Emprego, fazer do 12.º ano de escolaridade o referencial mínimo de formação para todos os jovens, aumentando nesse quadro a frequência em cursos tecnológicos e profissionais para, pelo menos, metade dos jovens do ensino secundário. Aposta-se, assim, não só na elevação dos níveis de escolaridade das novas gerações mas também em que estas não entrem para o mercado de trabalho sem uma prévia qualificação profissional orientada para os perfis profissionais em défice.
+
+Dando concretização a estes compromissos, promove-se, através do presente decreto-lei, uma profunda reorganização dos cursos de especialização tecnológica ao nível do acesso, da estrutura de formação e das condições de ingresso no ensino superior para os seus diplomados.
+
+Aliam-se, assim, as componentes de formação e de aprendizagem - nas áreas técnica, científica e cultural - à oferta do mercado de trabalho, cada vez mais mutável e exigente.
+
+A concretização destas medidas passa pela promoção de parcerias quer entre estabelecimentos de ensino e de formação, designadamente entre escolas secundárias, profissionais, centros de formação profissional, escolas tecnológicas e instituições do ensino superior, quer com a envolvente empresarial e os operadores no mercado de trabalho, visando direccionar a aprendizagem para uma efectiva inserção profissional e assegurar também o reconhecimento dessas aprendizagens para efeitos de prosseguimento de estudos no ensino superior.
+
+Os cursos de especialização tecnológica são cursos pós-secundários não superiores que visam a aquisição do nível 4 de formação profissional, tal como definido pela Decisão n.º <a href="eurlex.asp?ano=1985&id=385D0368" title="Link para Decisão da Comunidade Europeia">85/368/CEE</a>, do Conselho, de 16 de Julho, publicada no Jornal Oficial das Comunidades Europeias, n.º L 199, de 31 de Julho de 1985.
+
+O nível 4 de formação profissional obtém-se através da conjugação de uma formação secundária, geral ou profissional, com uma formação técnica pós-secundária e caracteriza-se por:
+
+a) Ser uma formação técnica de alto nível;
+
+b) A qualificação dela resultante incluir conhecimentos e capacidades que pertencem ao nível superior;
+
+c) Não exigir, em geral, o domínio dos fundamentos científicos das diferentes áreas em causa;
+
+d) As capacidades e conhecimentos adquiridos através dela permitirem assumir, de forma geralmente autónoma ou de forma independente, responsabilidades de concepção e ou de direcção e ou de gestão.
+
+Dados os seus objectivos e características, a formação a ministrar no âmbito destes cursos pode ser assegurada por instituições de índole diversa, tendo bem recentemente sido reafirmado, através da alteração introduzida na Lei de Bases do Sistema Educativo pela Lei n.º 49/2005, de 30 de Agosto, o papel que os estabelecimentos de ensino superior devem desempenhar no quadro da rede de oferta de formação profissional deste nível.
+
+Entre as alterações mais significativas ao modelo de formação profissional do nível 4, aprovado pela Portaria n.º 989/99, de 3 de Novembro, alterada pelas Portarias n.os 698/2001, de 11 de Julho, e 392/2002, de 12 de Abril, devem destacar-se as seguintes:
+
+a) Reorganização da estrutura dos cursos, valorizando de forma mais significativa a componente de formação tecnológica;
+
+b) Alteração das condições de acesso:
+
+i) Considerando como habilitação de referência o ensino secundário e assegurando, dentro dos cursos, a formação técnica;
+
+ii) Atribuindo aos estabelecimentos de ensino superior a competência para admitir os maiores de 23 anos a quem reconheçam, com base na experiência anterior, capacidades e competências adequadas;
+
+iii) Admitindo os que tenham concluído uma formação do nível 3 e não tenham concluído um curso de ensino secundário ou habilitação legalmente equivalente;
+
+iv) Admitindo igualmente os que, tendo frequentado o 12.º ano de escolaridade do ensino secundário, não o concluíram e decidam optar pela obtenção de uma qualificação profissional do nível 4;
+
+c) Clarificando que podem ter acesso a estes cursos os titulares de um diploma de especialização tecnológica ou de um grau ou diploma de ensino superior provenientes, designadamente, de áreas de formação com dificuldades de empregabilidade e que pretendam adaptar as suas competências para outras saídas profissionais;
+
+d) Atribuição da possibilidade de concessão do diploma de especialização tecnológica com base na avaliação de competências profissionais aos estabelecimentos de ensino superior e a instituições de formação especialmente credenciadas;
+
+e) Simplificação do processo administrativo relacionado com a criação e entrada em funcionamento dos cursos;
+
+f) Criação de uma comissão técnica composta por elementos dos ministérios mais directamente envolvidos neste processo e a quem competirá assegurar o acompanhamento do funcionamento dos cursos e a sua avaliação e que substituirá o conselho de acompanhamento dos cursos de especialização tecnológica criado pelo despacho conjunto n.º 350/2004, de 11 de Junho;
+
+g) Modificação do regime de acesso ao ensino superior para os titulares destes cursos, contribuindo, desta forma, para assegurar a sua generalização;
+
+h) Promoção da informação acerca dos cursos, perfis profissionais para que visam preparar, entidades que os ministram e seus conteúdos.
+
+Foram ouvidas, a título facultativo, no âmbito da consulta pública, a Associação Portuguesa do Ensino Superior Privado, as associações de empregadores e as associações representativas dos trabalhadores.
+
+Foram ouvidos o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e, no âmbito de consulta pública, as associações de estudantes.
+
+Assim:
+
+No desenvolvimento da Lei n.º 46/86, de 14 de Outubro, alterada pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+Cursos de especialização tecnológica
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente decreto-lei tem por objecto regular os cursos de especialização tecnológica, doravante designados por CET, e aplica-se a todas as instituições de formação que os ministrem.
+
+###### Artigo 2.º — Conceitos
+
+Entende-se por:
+
+a) «Crédito» a unidade de medida do trabalho do formando sob todas as suas formas, designadamente sessões de ensino de natureza colectiva, sessões de orientação pessoal de tipo tutorial, estágios, projectos, trabalhos no terreno, estudo e avaliação;
+
+b) «Créditos ECTS» os créditos segundo o european credit transfer and accumulation system (sistema europeu de transferência e acumulação de créditos), cuja aplicação é regulada pelo Decreto-Lei n.º 42/2005, de 22 de Fevereiro;
+
+c) «Formação em alternância» o processo de formação em que se alternam sequências de formação ministradas por instituições de formação com sequências de formação prática realizadas em contexto de trabalho;
+
+d) «Horas de contacto» o tempo em horas utilizado em sessões de ensino de natureza colectiva, designadamente em salas de aula, laboratórios ou trabalhos de campo, e em sessões de orientação pessoal de tipo tutorial;
+
+e) «Instituição de formação» a entidade autorizada, nos termos do presente diploma, a ministrar cursos de especialização tecnológica;
+
+f) «Níveis de qualificação profissional» os níveis de formação a que se refere o anexo à Decisão n.º <a href="eurlex.asp?ano=1985&id=385D0368" title="Link para Decisão da Comunidade Europeia">85/368/CEE</a>, do Conselho, de 16 de Julho, relativa à correspondência de qualificações de formação profissional entre Estados membros das Comunidades Europeias, publicada no Jornal Oficial das Comunidades Europeias, n.º L 199, de 31 de Julho de 1985;
+
+g) «Unidade de formação» a unidade de ensino, do plano de formação de um curso de especialização tecnológica, com objectivos próprios e que é objecto de avaliação traduzida numa classificação final.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 3.º — Cursos de especialização tecnológica
+
+1 - Os CET são uma modalidade de formação de dupla certificação de nível pós-secundário não superior que visam conferir uma qualificação com base em formação técnica especializada.
+
+2 - Os CET têm como objetivo:
+
+a) Promover a requalificação e reconversão profissional com vista à reinserção e progressão no mercado de trabalho;
+
+b) Aprofundar as competências profissionais tendo em vista o exercício de um melhor desempenho profissional e uma melhor adaptação às mudanças tecnológicas e organizacionais;
+
+c) Consolidar os percursos de formação inicial, reforçando a qualificação profissional e as competências técnicas especializadas;
+
+d) Estimular o prosseguimento de estudos para o ensino superior.
+
+3 - Os CET obedecem aos referenciais de competências e de formação associados ao nível 5 de qualificação do Quadro Nacional de Qualificações (QNQ) que integram o Catálogo Nacional de Qualificações (CNQ).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 4.º — Qualificação profissional do nível 4
+
+A qualificação profissional do nível 4 obtém-se através da conjugação de uma formação secundária, geral ou profissional, com uma formação técnica pós-secundária e caracteriza-se por:
+
+a) Ser uma formação técnica de alto nível;
+
+b) A qualificação dela resultante incluir conhecimentos e capacidades que pertencem ao nível superior;
+
+c) Não exigir, em geral, o domínio dos fundamentos científicos das diferentes áreas em causa;
+
+d) As capacidades e conhecimentos adquiridos através dela permitirem assumir, de forma geralmente autónoma ou de forma independente, responsabilidades de concepção e ou de direcção e ou de gestão.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 5.º — Certificação
+
+1 - A conclusão de um CET dá lugar à emissão de um diploma de qualificação e de um certificado de qualificações, bem como ao registo das competências adquiridas pelo formando no Passaporte Qualifica, nos termos da legislação aplicável.
+
+2 - Sem prejuízo do disposto no número anterior, a conclusão com aproveitamento de uma ou mais unidades de competência e/ou formação, que não permita a conclusão de um CET, dá lugar à emissão de um certificado de qualificações parcial e ao registo das competências adquiridas pelo formando no Passaporte Qualifica, nos termos da legislação aplicável.
+
+3 - A conclusão de um CET confere o nível 5 de qualificação do QNQ.
+
+4 - Nas situações referidas na alínea b) do n.º 1 do artigo 7.º, a obtenção do nível 5 de qualificação do QNQ fica condicionada à conclusão do nível secundário por parte do formando, através de conclusão com aproveitamento de uma modalidade de educação ou formação ou de processo de reconhecimento, validação e certificação de competências (RVCC).
+
+5 - O modelo e as condições de emissão dos certificados e do diploma referidos nos n.os 1 e 2 são regulamentados por portaria dos membros do Governo responsáveis pelas áreas da educação e da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 6.º — Certificado de aptidão profissional
+
+O diploma de especialização tecnológica dá acesso a um certificado de aptidão profissional emitido no âmbito do Sistema Nacional de Certificação Profissional, nas condições fixadas pelo Decreto Regulamentar n.º 68/94, de 26 de Novembro.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+### Capítulo II — Acesso e ingresso
+
+###### Artigo 7.º — Destinatários
+
+1 - São destinatários dos CET os adultos com idade igual ou superior a 18 anos à data do início da formação e que cumpram um dos seguintes requisitos:
+
+a) Sejam titulares de um curso de ensino secundário ou de habilitação legalmente equivalente e que pretendam a sua qualificação ou reconversão profissional;
+
+b) Tendo concluído o nível básico de educação, estejam a frequentar uma das modalidades de educação ou formação ou um processo de RVCC, de nível secundário;
+
+c) (Revogada.)
+
+d) Sejam titulares de um diploma ou certificado de nível 5 de qualificação do QNQ, de um diploma de especialização tecnológica ou de um grau ou diploma de ensino superior e que pretendam a sua requalificação profissional.
+
+2 - (Revogado.)
+
+3 - Para efeitos do n.º 1, podem ser admitidos, a título excecional e mediante autorização da Direção-Geral dos Estabelecimentos Escolares, candidatos abrangidos pela escolaridade obrigatória que, à data do início da formação, ainda não tenham completado 18 anos de idade, desde que nessa data cumpram um dos requisitos previstos nas alíneas a), b) e d) do n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 8.º — Condições de ingresso
+
+Para os titulares das habilitações a que se referem as alíneas a), b) e c) do n.º 1 do artigo anterior, o ingresso em cada CET pode ser condicionado, se tal se revelar necessário, à aprovação em unidades curriculares das habilitações em causa que integrem as áreas disciplinares consideradas indispensáveis à frequência do CET fixadas como referencial de competências de ingresso.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 9.º — Vagas, selecção e seriação
+
+1 - O número de vagas aberto para cada admissão de novos formandos é fixado pela instituição de formação, dentro dos limites a que se refere a alínea h) do n.º 1 do artigo 39.º
+
+2 - A selecção e a seriação dos candidatos à inscrição num CET são realizadas pela instituição de formação de acordo com critérios por ela fixados.
+
+3 - A instituição de formação pode fixar como condição para o funcionamento do CET a inscrição no mesmo de um número mínimo de formandos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+### Capítulo III — Caracterização dos cursos
+
+#### Secção I — Estrutura
+
+###### Artigo 10.º — Componentes de formação
+
+O plano de formação de um CET integra as componentes de formação geral e científica, de formação tecnológica e de formação em contexto de trabalho.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 11.º — Componente de formação geral e científica
+
+A componente de formação geral e científica visa desenvolver atitudes e comportamentos adequados a profissionais com elevado nível de qualificação profissional e adaptabilidade ao mundo do trabalho e da empresa e aperfeiçoar, onde tal se revele indispensável, o conhecimento dos domínios de natureza científica que fundamentam as tecnologias próprias da área de formação.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 12.º — Componente de formação tecnológica
+
+A componente de formação tecnológica integra domínios de natureza tecnológica orientados para a compreensão das actividades práticas e para a resolução de problemas do âmbito do exercício profissional.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 13.º — Componente de formação em contexto de trabalho
+
+1 - A componente de formação em contexto de trabalho visa a aplicação dos conhecimentos e saberes adquiridos às actividades práticas do respectivo perfil profissional e contempla a execução de actividades sob orientação, utilizando as técnicas, os equipamentos e os materiais que se integram nos processos de produção de bens ou prestação de serviços.
+
+2 - A formação em contexto de trabalho pode adoptar diferentes modalidades de formação prática em situação real de trabalho, designadamente estágios.
+
+3 - A formação em contexto de trabalho desenvolve-se em parceria nos termos do artigo 20.º
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+#### Secção II — Organização
+
+###### Artigo 14.º — Créditos
+
+O diploma de especialização tecnológica é conferido após o cumprimento de um plano de formação com um número de créditos ECTS compreendido entre 60 e 90.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 15.º — Carga horária
+
+1 - As componentes de formação geral e científica e de formação tecnológica têm entre oitocentas e quarenta e mil e vinte horas de contacto, correspondendo à primeira 15% e à segunda 85% do número de horas fixado.
+
+2 - Na componente de formação tecnológica, o conjunto das vertentes de aplicação prática, laboratorial, oficinal e ou de projecto deve corresponder a pelo menos 75% das suas horas de contacto.
+
+3 - A componente de formação em contexto de trabalho não pode ser inferior a trezentas e sessenta horas nem superior a setecentas e vinte.
+
+4 - A soma das horas de contacto e de formação em contexto de trabalho atribuídas ao conjunto das três componentes de formação nos termos dos números anteriores não pode ser inferior a mil e duzentas nem superior a mil quinhentas e sessenta.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 16.º — Créditos e carga horária para os formandos não titulares do ensino secundário
+
+1 - Para os formandos a que se refere a alínea b) do artigo 7.º, bem como para aqueles a que se refere a alínea c) do mesmo artigo, que não sejam titulares de um curso de ensino secundário ou de habilitação legalmente equivalente:
+
+a) O número de créditos ECTS a que se refere o artigo 14.º é acrescido de 15 a 30;
+
+b) As horas fixadas pelo artigo 15.º são acrescidas do número de horas necessário à obtenção dos referidos créditos.
+
+2 - Compete ao órgão competente da instituição de formação, mediante apreciação do currículo do formando, decidir quanto ao número de créditos complementares que este deve obter e quanto ao número de horas necessário à obtenção desses créditos.
+
+3 - A formação adicional a que se refere o presente artigo é parte integrante do plano de formação do CET.
+
+4 - Aos formandos abrangidos pelo disposto no presente artigo que concluam o CET é reconhecido o nível secundário de educação.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 17.º — Formação em alternância
+
+Os CET podem organizar-se na modalidade de formação em alternância.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 18.º — Dispensa de unidades de formação
+
+Por decisão da instituição de formação, podem ser dispensados da frequência de unidades de formação do CET os formandos:
+
+a) Que tenham uma qualificação profissional do nível 3 na mesma área;
+
+b) Que tenham obtido aprovação em unidades de formação de um CET;
+
+c) Que tenham obtido aprovação em unidades curriculares de um curso superior;
+
+d) A quem as instituições de formação a que se referem os n.os 3 e 4 do artigo 24.º creditem competências profissionais.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+### Capítulo IV — Entidades formadoras
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 19.º — Entidades formadoras
+
+Os CET podem ser desenvolvidos pelas seguintes entidades:
+
+a) Estabelecimentos de ensino públicos e particulares ou cooperativos com autonomia ou paralelismo pedagógico que ministrem cursos de nível secundário de educação;
+
+b) (Revogada.)
+
+c) A rede de centros de formação profissional do Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), constituída pelos centros de gestão direta ou participada;
+
+d) Escolas tecnológicas criadas ao abrigo do despacho conjunto dos Ministros da Indústria e Energia e da Educação, publicado no Diário da República, 2.ª série, de 18 de Novembro de 1991, e do despacho conjunto dos Ministros da Indústria e Energia, da Educação e do Emprego e da Segurança Social, publicado no Diário da República, 2.ª série, de 7 de Outubro de 1995;
+
+e) Entidades formadoras certificadas pela Direção-Geral do Emprego e das Relações de Trabalho;
+
+f) A rede de Escolas de Hotelaria e Turismo do Instituto do Turismo de Portugal, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 20.º — Parcerias com o mercado de emprego
+
+Para assegurar a integração no mercado de emprego e a formação em contexto de trabalho, a instituição de formação celebra acordos, ou outras formas de parceria, com as empresas, outras entidades empregadoras, associações empresariais ou sócio-profissionais, ou outras organizações, que melhor se adeqúem à especificidade da área de formação, bem como às características do mercado de emprego.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 21.º — Articulação com estabelecimentos de ensino superior
+
+1 - As instituições de formação que não sejam estabelecimentos de ensino superior devem firmar protocolos com estabelecimentos de ensino superior nos quais se preveja, nomeadamente:
+
+a) As formas de colaboração do estabelecimento de ensino superior no processo de formação;
+
+b) Os cursos desse estabelecimento a que o formando, após a conclusão do CET, se pode candidatar para prosseguimento de estudos e as unidades curriculares dos respectivos planos de estudos, cuja frequência é, desde logo, dispensada no âmbito da creditação a conceder nos termos do artigo 28.º
+
+2 - O disposto na alínea b) do número anterior não prejudica que outros estabelecimentos de ensino superior considerem igualmente esse CET como habilitação de acesso aos seus cursos nos termos do artigo 27.º
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+### Capítulo V — Avaliação e atribuição do diploma
+
+###### Artigo 22.º — Avaliação e classificação
+
+1 - O sistema de avaliação tem por objecto as competências profissionais que o diploma de especialização tecnológica certifica, compreendendo modalidades de avaliação formativa e de avaliação sumativa.
+
+2 - A avaliação formativa incide em todas as unidades de formação, possui um carácter sistemático e contínuo e é objecto de notação descritiva e qualitativa.
+
+3 - A avaliação sumativa, que adopta, predominantemente, provas de natureza prática, expressa-se na escala de 0 a 20 valores.
+
+4 - Nas unidades de formação de índole teórica, a avaliação tem como referência o objectivo da formação que as mesmas visam proporcionar no quadro da aquisição das competências profissionais visadas pelo CET.
+
+5 - Considera-se aprovado numa unidade de formação o formando que nela tenha obtido uma classificação igual ou superior a 10 valores.
+
+6 - Considera-se aprovado numa componente de formação o formando que tenha obtido aprovação em todas as unidades de formação que a integram.
+
+7 - A classificação de uma componente de formação é a média aritmética simples, calculada até às décimas, do resultado da avaliação sumativa de todas as unidades de formação que integram cada uma delas.
+
+8 - Considera-se aprovado no CET o formando que tenha obtido aprovação em todas as suas componentes de formação.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 23.º — Classificação final
+
+A classificação final do diploma de especialização tecnológica é a média aritmética ponderada, arredondada às unidades (considerando como unidade a parte decimal igual ou superior a 5), obtida através da aplicação da seguinte fórmula:
+
+0,10 x CFGC + (0,55 x CFT) + (0,35 x CFCTb)
+
+em que:
+
+CFGC - classificação da componente de formação geral e científica;
+
+CFT - classificação da componente de formação tecnológica;
+
+CFCTb - classificação da componente de formação em contexto de trabalho.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 24.º — Atribuição do diploma de especialização tecnológica através de avaliação de competências
+
+1 - Os indivíduos com idade superior a 25 anos e, pelo menos, cinco anos de actividade profissional comprovada na área de um CET podem requerer a uma instituição de formação a atribuição do diploma de especialização tecnológica com base na avaliação das suas competências profissionais.
+
+2 - Compete à instituição de formação, com base no referencial de competências a adquirir, proceder, através das modalidades que considere mais adequadas, à avaliação a que se refere o número anterior, tendo em vista verificar se os candidatos dispõem das competências que o diploma de especialização tecnológica em causa certifica.
+
+3 - São competentes para conferir o diploma de especialização tecnológica nos termos do presente artigo os estabelecimentos de ensino superior que tenham um registo válido para o CET conducente à atribuição do diploma de especialização tecnológica em causa.
+
+4 - São igualmente competentes para conferir o diploma de especialização tecnológica nos termos do presente artigo as instituições de formação que tenham uma autorização válida para ministrar o CET conducente à atribuição do diploma de especialização tecnológica em causa e que se encontrem credenciadas, no âmbito do Sistema Nacional de Certificação Profissional e ou no âmbito do Sistema Nacional de Reconhecimento, Validação e Certificação de Competências, para desenvolver processos de reconhecimento, validação e certificação de competências do nível 4.
+
+5 - A classificação final do diploma de especialização tecnológica atribuído nos termos do presente artigo é fixada pela instituição de formação com base na apreciação realizada, tendo em consideração os princípios gerais decorrentes do artigo anterior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 25.º — Modelo de diploma
+
+1 - O modelo de diploma é o constante do anexo I do presente decreto-lei, do qual faz parte integrante.
+
+2 - Para os que tenham obtido o diploma ao abrigo do disposto no artigo 24.º, o modelo de diploma é o constante do anexo II do presente decreto-lei, do qual faz parte integrante.
+
+3 - Juntamente com o diploma é emitido um suplemento ao diploma nos termos dos artigos 38.º a 42.º do Decreto-Lei n.º 42/2005, de 22 de Fevereiro.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+### Capítulo VI — Acesso e ingresso no ensino superior
+
+###### Artigo 26.º — Candidatura ao ensino superior
+
+Os titulares de um diploma de especialização tecnológica podem concorrer à matrícula e inscrição no ensino superior através do concurso especial a que se refere a alínea b) do n.º 2 do artigo 3.º do Decreto-Lei n.º 393-B/99, de 2 de Outubro.
+
+###### Artigo 27.º — Condições de ingresso
+
+Compete ao órgão legal e estatutariamente competente de cada estabelecimento de ensino superior fixar, para cada um dos seus cursos superiores, quais os CET que lhes facultam o ingresso.
+
+###### Artigo 28.º — Creditação de habilitações
+
+1 - A formação realizada nos CET é creditada no âmbito do curso superior em que o titular do diploma de especialização tecnológica seja admitido, independentemente da via de acesso que tenha utilizado.
+
+2 - A formação a que se refere o artigo 16.º não é abrangida pelo disposto no número anterior.
+
+### Capítulo VII — Comissão Técnica para a Formação Tecnológica Pós-Secundária
+
+###### Artigo 29.º — Criação
+
+É criada a Comissão Técnica para a Formação Tecnológica Pós-Secundária.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 30.º — Composição
+
+A Comissão é constituída por:
+
+a) Dois elementos nomeados pelo Ministro da Ciência, Tecnologia e Ensino Superior, um dos quais é designado coordenador;
+
+b) Um elemento nomeado pelo Ministro da Economia e da Inovação;
+
+c) Um elemento nomeado pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;
+
+d) Um elemento nomeado pelo Ministro do Trabalho e da Solidariedade Social;
+
+e) Um elemento nomeado pelo Ministro da Educação.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 31.º — Competência
+
+Compete à Comissão assegurar o acompanhamento do funcionamento dos CET e da sua avaliação, devendo, designadamente:
+
+a) Identificar e divulgar junto das instituições de formação as áreas de formação prioritárias ao nível dos CET;
+
+b) Elaborar e propor regras de racionalização da oferta de CET;
+
+c) Elaborar e aprovar um instrumento normalizado de apresentação dos pedidos de registo e de criação e autorização de funcionamento;
+
+d) Elaborar e aprovar critérios comuns de apreciação dos pedidos de registo e de criação e autorização de funcionamento;
+
+e) Dar parecer sobre os pedidos de registo e de criação e autorização de funcionamento;
+
+f) Pronunciar-se sobre o cancelamento do registo e da autorização de funcionamento;
+
+g) Propor os procedimentos a adoptar para assegurar a avaliação externa dos CET;
+
+h) Propor e dar parecer sobre alterações às normas legais reguladoras dos CET;
+
+i) Elaborar o seu regulamento interno;
+
+j) Elaborar e submeter a aprovação o seu plano e relatório anual de actividades.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 32.º — Apoio técnico
+
+O apoio técnico ao funcionamento da Comissão é assegurado pelo Instituto do Emprego e Formação Profissional, pela Direcção-Geral de Formação Vocacional e pela Direcção-Geral do Ensino Superior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+### Capítulo VIII — Funcionamento dos cursos de especialização tecnológica
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+#### Secção I — Princípios gerais
+
+###### Artigo 33.º — Criação e registo de CET por estabelecimentos de ensino superior
+
+1 - As instituições de ensino superior gozam do direito a criar CET.
+
+2 - A entrada em funcionamento de um CET numa instituição de ensino superior carece de registo prévio.
+
+3 - O registo de um CET é intransmissível.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 34.º — Funcionamento dos cursos de especialização tecnológica
+
+As condições de funcionamento dos CET são regulamentadas por portaria dos membros do Governo responsáveis pelas áreas da economia, do ensino superior, da educação e da formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 35.º — Cancelamento
+
+1 - O incumprimento dos requisitos legais ou a não observância dos critérios científicos e pedagógicos que justificaram o registo ou a criação e autorização de funcionamento de um CET determina o seu cancelamento.
+
+2 - A decisão sobre o cancelamento é precedida de parecer da Comissão Técnica para a Formação Tecnológica Pós-Secundária e de audiência prévia da instituição em causa.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+#### Secção II — Registo
+
+###### Artigo 36.º — Entidade a que é apresentado o pedido de registo
+
+O pedido de registo dos CET é dirigido ao director-geral do Ensino Superior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 37.º — Instrução do processo de registo
+
+1 - O pedido de registo dos CET é instruído com os seguintes elementos:
+
+a) Denominação do curso, área de formação em que se insere e perfil profissional que visa preparar;
+
+b) Referencial de competências a adquirir;
+
+c) Plano de formação, indicando, para cada componente de formação, as áreas de competência e, para cada uma destas, as respectivas unidades de formação, sua carga horária, número de créditos atribuídos, conteúdo programático sumário e metodologia de avaliação das aprendizagens;
+
+d) Referencial de competências para ingresso a que se refere o artigo 8.º, se for caso disso;
+
+e) Fundamentação da necessidade e da adequação da oferta formativa ao tecido sócio-económico;
+
+f) Recursos humanos, pedagógicos e materiais, designadamente instalações e equipamentos, a afectar ao desenvolvimento da formação e sua avaliação;
+
+g) Número máximo para cada admissão de novos formandos e número máximo de formandos que podem estar inscritos em simultâneo no curso;
+
+h) Acordos ou outras formas de parceria a que se refere o artigo 20.º;
+
+i) Quando a instituição de formação não seja um estabelecimento de ensino superior, o protocolo com um estabelecimento de ensino superior a que se refere o n.º 1 do artigo 21.º
+
+2 - A apreciação dos pedidos de registo compete à Direcção-Geral do Ensino Superior e incide sobre:
+
+a) A adequação do referencial de competências ao perfil profissional visado;
+
+b) A adequação do plano de formação ao referencial de competências;
+
+c) A satisfação dos requisitos a que se refere o capítulo III;
+
+d) A existência dos recursos humanos, pedagógicos e materiais, designadamente instalações e equipamentos, indispensáveis para garantir o seu nível e a qualidade da formação e sua avaliação;
+
+e) A coordenação da oferta pública de CET, quando se trate de instituições de formação públicas, ouvida a Comissão Técnica para a Formação Tecnológica Pós-Secundária.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 38.º — Decisão
+
+1 - A decisão sobre o pedido de registo da criação de um CET é da competência do director-geral do Ensino Superior.
+
+2 - A decisão deve ser proferida no prazo de 60 dias sobre a recepção do mesmo.
+
+3 - A tramitação do processo do registo está sujeita às regras do Código do Procedimento Administrativo.
+
+4 - Ultrapassado o prazo referido no n.º 2, o pedido de registo considera-se deferido tacitamente.
+
+5 - Quando o pedido de registo tenha sido indeferido, os interessados podem interpor, nos termos gerais de direito, os respectivos meios de impugnação graciosa ou contenciosa.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 39.º — Publicação
+
+1 - O despacho de deferimento do registo da criação de um CET é notificado por escrito à instituição de formação e mandado publicar na 2.ª série do Diário da República, dele devendo constar os seguintes elementos:
+
+a) A denominação da instituição de formação;
+
+b) A denominação do curso;
+
+c) A área de formação;
+
+d) O perfil profissional que visa preparar;
+
+e) O referencial de competências a adquirir;
+
+f) O plano de formação, com indicação, para cada componente de formação, das áreas de competência e, para cada uma destas, das respectivas unidades de formação, sua carga horária e número de créditos atribuídos;
+
+g) O referencial de competências para ingresso a que se refere o artigo 8.º, se for caso disso;
+
+h) O número máximo para cada admissão de novos formandos e o número máximo de formandos que podem estar inscritos em simultâneo no curso.
+
+2 - Quando o pedido de registo tenha sido deferido tacitamente, o director-geral do Ensino Superior promove a publicação do despacho a que se refere o número anterior nos cinco dias subsequentes ao termo do prazo a que se refere o n.º 2 do artigo anterior.
+
+3 - No caso previsto no número anterior, o registo é conferido para uma única admissão de formandos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 40.º — Funcionamento na ausência de registo
+
+1 - O funcionamento de um CET sem o prévio registo determina o indeferimento do pedido.
+
+2 - A formação ministrada nos termos do número anterior não é passível de reconhecimento ou equivalência.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+#### Secção III — Criação e autorização de funcionamento
+
+###### Artigo 41.º — Entidade a que é apresentado o pedido
+
+1 - O pedido de criação e autorização de funcionamento dos CET é dirigido:
+
+a) Ao Ministério da Educação, caso a instituição de formação seja um estabelecimento de ensino público, particular ou cooperativo com autonomia ou paralelismo pedagógico que ministre cursos de nível secundário de educação;
+
+b) Ao Ministério do Trabalho e da Solidariedade Social, caso a instituição de formação seja:
+
+i) Um centro de formação profissional da rede sob coordenação do Instituto do Emprego e Formação Profissional de gestão directa ou participada;
+
+ii) Uma entidade acreditada nos termos da alínea e) do artigo 19.º;
+
+c) Ao Ministério da Economia e da Inovação, caso a instituição de formação seja uma escola tecnológica.
+
+2 - Em cada um dos Ministérios a que se refere o número anterior é designado, por despacho do Ministro respectivo, o serviço competente para a instrução dos pedidos de registo de CET, adiante designado por serviço instrutor.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 42.º — Instrução do processo
+
+O pedido de criação e autorização de funcionamento dos CET é instruído e apreciado nos termos do artigo 37.º pelo serviço instrutor respectivo.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 43.º — Decisão
+
+A decisão sobre os pedidos de criação e autorização de funcionamento dos CET é da competência do ministro da tutela, a qual pode ser delegada.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 44.º — Publicação
+
+O despacho de criação e autorização de funcionamento de um CET é notificado por escrito à instituição de formação e mandado publicar na 2.ª série do Diário da República, dele devendo constar os elementos a que se refere o n.º 1 do artigo 39.º
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+#### Secção IV — Avaliação externa
+
+###### Artigo 45.º — Periodicidade da avaliação externa
+
+Os CET são objecto de um processo de avaliação externa quinquenal, em termos a regular sob proposta da Comissão Técnica para a Formação Tecnológica Pós-Secundária.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+### Capítulo IX — Disposições especiais para os estabelecimentos de ensino superior público
+
+###### Artigo 46.º — Pessoal docente
+
+1 - A ministração do ensino dos CET é assegurada pelo pessoal docente do estabelecimento de ensino.
+
+2 - O disposto no número anterior entende-se sem prejuízo do recurso, quando necessário, à contratação de pessoal por períodos limitados de tempo, nos regimes legais aplicáveis, para assegurar a ministração do ensino de módulos específicos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 47.º — Financiamento
+
+1 - Os CET são considerados no orçamento de funcionamento de base das actividades de ensino e formação a que se refere o artigo 4.º da Lei n.º 37/2003, de 22 de Agosto, alterada pela Lei n.º 49/2005, de 30 de Agosto.
+
+2 - O financiamento dos CET é considerado na fórmula a que se refere o artigo 4.º da Lei n.º 37/2003, de 22 de Agosto, sendo calculado em função do número de formandos efectivamente inscritos e, com as devidas adaptações ao nível e natureza dos cursos, através da aplicação dos critérios, valores padrão e indicadores de desempenho aí previstos.
+
+3 - O financiamento público de um CET depende da inscrição de um número mínimo de 15 formandos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 48.º — Acção social escolar
+
+Os formandos inscritos nos CET são abrangidos pela acção social escolar do ensino superior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 49.º — Propinas
+
+1 - Pela frequência dos CET são devidas propinas.
+
+2 - O valor das propinas é fixado pelo órgão a que se refere o artigo 17.º da Lei n.º 37/2003, de 22 de Agosto, e não pode ser superior ao valor mínimo a que se refere o n.º 2 do artigo 16.º do mesmo diploma legal.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+### Capítulo X — Disposições finais e transitórias
+
+###### Artigo 50.º — Divulgação da informação
+
+1 - Os serviços instrutores criam uma base de dados comum integrando:
+
+a) Os pedidos de registo e de criação e autorização de funcionamento de CET, publicitando a informação a que se refere o artigo 37.º, a data de recepção do pedido, o sentido da decisão e a data desta;
+
+b) Para cada par instituição de formação/curso registado ou cuja criação e funcionamento foi autorizado, a informação a que se refere o n.º 1 do artigo 39.º;
+
+c) Para cada par estabelecimento/curso de ensino superior, os CET que, nos termos do artigo 27.º, lhe facultam o ingresso.
+
+2 - A base de dados é actualizada pelos serviços instrutores em prazo não superior a 10 dias em relação à recepção das informações ou à tomada de decisão.
+
+3 - Os serviços instrutores criam igualmente um sítio comum na Internet destinado a divulgar, de forma facilmente acessível e permanentemente actualizada, toda a informação útil relacionada com os CET, designadamente:
+
+a) As regras, normas, critérios e procedimentos fixados pela Comissão Técnica para a Formação Tecnológica Pós-Secundária;
+
+b) As informações a que se refere o n.º 1.
+
+4 - A gestão técnica da base de dados e do sítio a que se referem os números anteriores compete à Direcção-Geral do Ensino Superior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+###### Artigo 51.º — Alterações
+
+1 - Os artigos 10.º, 11.º e 20.º do Decreto-Lei n.º 393-B/99, de 2 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 10.º
+
+Âmbito
+
+São abrangidos pelo concurso especial previsto na alínea b) do n.º 2 do artigo 3.º:
+
+a) ...
+
+b) ...
+
+c) Os titulares de um diploma de especialização tecnológica.
+
+Artigo 11.º
+
+Cursos a que se podem candidatar
+
+1 - ...
+
+2 - Os estudantes abrangidos pela alínea c) do artigo anterior podem concorrer aos pares estabelecimento/curso que sejam fixados nos termos do disposto no artigo 27.º do Decreto-Lei n.º 88/2006, de 23 de Maio.
+
+3 - ...
+
+Artigo 20.º
+
+Regulamento
+
+1 - Compete ao Ministro da Ciência, Tecnologia e Ensino Superior aprovar, por portaria, o regulamento dos concursos especiais, o qual contempla as regras a que obedece o requerimento de matrícula e inscrição.
+
+2 - ...»
+
+2 - O disposto no número anterior não prejudica a titularidade de habilitação de acesso conferida pelos n.os 1 e 2 do artigo 3.º-A do Regulamento dos Concursos Especiais de Acesso ao Ensino Superior, aprovado pela Portaria n.º 854-A/99, de 4 de Outubro, alterada pelas Portarias n.os 1081/2001, de 5 de Setembro, e 393/2002, de 12 de Abril.
+
+###### Artigo 52.º — CET com funcionamento autorizado
+
+1 - Os CET que se encontrem em funcionamento à data da entrada em vigor do presente diploma prosseguem, até à sua conclusão, nos termos autorizados.
+
+2 - As autorizações de funcionamento concedidas ao abrigo das normas legais revogadas pelo artigo anterior mantêm-se válidas nos termos em que foram concedidas até à sua caducidade.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415) Os CET autorizados ao abrigo do disposto no presente diploma, , que se encontrem em funcionamento à data da entrada em vigor do presente decreto-lei, prosseguem, até à sua conclusão, nos termos anteriormente autorizados.
+
+###### Artigo 53.º — Norma revogatória
+
+São revogados:
+
+a) A Portaria n.º 989/99, de 3 de Novembro, alterada pelas Portarias n.os 698/2001, de 11 de Julho, e 392/2002, de 12 de Abril, sem prejuízo do disposto no artigo anterior;
+
+b) O despacho conjunto n.º 350/2004, de 11 de Junho.
+
+Visto e aprovado em Conselho de Ministros de 2 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Diogo Pinto de Freitas do Amaral - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Pedro Manuel Dias de Jesus Marques - Maria de Lurdes Reis Rodrigues - José Mariano Rebelo Pires Gago.
+
+Promulgado em 2 de Maio de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 11 de Maio de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — Modelo a que se refere o n.º 1 do artigo 25.º
+
+Diploma de especialização tecnológica
+
+... (ver nota a)
+
+... (ver nota b), ... (ver nota c), faz saber que ... (ver nota d), portador do bilhete de identidade n.º ..., emitido em ... (ver nota e), em ... (ver nota f), concluiu o curso de especialização tecnológica em ... (ver nota g), em ... (ver nota h), sendo-lhe, em conformidade, atribuído o presente diploma de especialização tecnológica, com a classificação final de ... (ver nota i) valores, o qual vai por mim assinado e autenticado pela instituição.
+
+A criação do curso foi objecto do despacho n.º ... (ver nota j), de ... (ver nota l).
+
+O diploma certifica qualificação profissional do nível 4 da tabela de níveis de formação aprovada pela Decisão n.º <a href="eurlex.asp?ano=1985&id=385D0368" title="Link para Decisão da Comunidade Europeia">85/368/CEE</a>, do Conselho, de 16 de Julho, relativa à correspondência de qualificações de formação profissional entre Estados membros das Comunidades Europeias, publicada no Jornal Oficial das Comunidades Europeias, n.º L 199, de 31 de Julho de 1985.
+
+Em ... (ver nota m).
+
+... (ver nota n).
+
+(nota a) Nome da instituição de formação.
+
+(nota b) Nome da pessoa que assina o documento.
+
+(nota c) Cargo que exerce na instituição de formação.
+
+(nota d) Nome do diplomado.
+
+(nota e) Data de emissão do bilhete de identidade (dia, mês e ano).
+
+(nota f) Local de emissão do bilhete de identidade.
+
+(nota g) Denominação do curso de especialização tecnológica, tal como consta do despacho de registo da criação ou de criação e autorização de funcionamento.
+
+(nota h) Data de conclusão do curso de especialização tecnológica (dia, mês e ano).
+
+(nota i) Classificação final a que se refere o artigo 23.º
+
+(nota j) Número do despacho de registo ou de criação e autorização de funcionamento do curso de especialização tecnológica.
+
+(nota l) Data de publicação no Diário da República do despacho de registo ou de criação e autorização de funcionamento do curso de especialização tecnológica.
+
+(nota m) Data de emissão do diploma de especialização tecnológica (dia, mês e ano).
+
+(nota n) Assinatura do órgão competente da instituição de formação, autenticada pelos meios em uso na instituição.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01
+
+## Anexo II — Modelo a que se refere o n.º 2 do artigo 25.º
+
+Diploma de especialização tecnológica
+
+... (ver nota a)
+
+... (ver nota b), ... (ver nota c), faz saber que a ... (ver nota d), portador do bilhete de identidade n.º ..., emitido em ... (ver nota e), em ... (ver nota f), foi atribuído o presente diploma de especialização tecnológica em ... (ver nota g), em ... (ver nota h), com a classificação final de ... (ver nota i) valores, o qual vai por mim assinado e autenticado pela instituição.
+
+A criação do curso de especialização tecnológica correspondente foi objecto do despacho n.º ... (ver nota j), de ... (ver nota l).
+
+O diploma certifica qualificação profissional do nível 4 da tabela de níveis de formação aprovada pela Decisão n.º <a href="eurlex.asp?ano=1985&id=385D0368" title="Link para Decisão da Comunidade Europeia">85/368/CEE</a>, do Conselho, de 16 de Julho, relativa à correspondência de qualificações de formação profissional entre Estados membros das Comunidades Europeias, publicada no Jornal Oficial das Comunidades Europeias, n.º L 199, de 31 de Julho de 1985.
+
+Em ... (ver nota m).
+
+... (ver nota n).
+
+(nota a) Nome da instituição de formação.
+
+(nota b) Nome da pessoa que assina o documento.
+
+(nota c) Cargo que exerce na instituição de formação.
+
+(nota d) Nome do diplomado.
+
+(nota e) Data de emissão do bilhete de identidade (dia, mês e ano).
+
+(nota f) Local de emissão do bilhete de identidade.
+
+(nota g) Denominação do curso de especialização tecnológica, tal como consta do despacho de registo da criação ou de criação e autorização de funcionamento.
+
+(nota h) Data de atribuição do diploma de especialização tecnológica (dia, mês e ano).
+
+(nota i) Classificação final a que se refere o n.º 5 do artigo 24.º
+
+(nota j) Número do despacho de registo ou de criação e autorização de funcionamento do curso de especialização tecnológica.
+
+(nota l) Data de publicação no Diário da República do despacho de registo ou de criação e autorização de funcionamento do curso de especialização tecnológica.
+
+(nota m) Data de emissão do diploma de especialização tecnológica (dia, mês e ano).
+
+(nota n) Assinatura do órgão competente da instituição de formação, autenticada pelos meios em uso na instituição.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 39/2022 - Diário da República n.º 105/2022, Série I de 2022-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2022-184181415), em vigor a partir de 2022-06-01

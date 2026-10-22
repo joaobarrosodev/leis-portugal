@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:566177:por
+title: Portaria n.º 1092/90
+short_title: null
+summary: Cria a reserva de caça parcial e por tempo indeterminado da Mata Nacional do Cabeção, no concelho de Mora
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 1092/90
+official_date: null
+publication_date: '1990-10-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 252/1990, Série I de 1990-10-31
+  number: '252'
+  series: I
+  supplement: null
+  pages: 4489 - 4489
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/10/25200/44894489.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '566177'
+  dre_path: /dr/detalhe/portaria/1092-1990-566177
+  internal: pt:dre:566177:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1092-1990-566177
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1092-1990-566177
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-10-31T00:00:00Z'
+integrity:
+  source_sha256: 99b59093627974a4be0e71c45144aaea37330c98fc9b44452a05b674f11253ad
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-1092-566177.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1092/90
+
+de 31 de Outubro
+
+Com fundamento no disposto no artigo 15.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e no artigo 31.º do [Decreto-Lei n.º 274-A/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-a-1988-455890), de 3 de Agosto;
+
+Ouvido o Conselho Nacional da Caça e da Conservação da Fauna e na impossibilidade da audição do Conselho Cinegético Regional por ainda não se ter constituído:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º É criada a reserva de caça parcial e por tempo indeterminado da Mata Nacional do Cabeção, no concelho de Mora, com uma área de 289,88 ha e cujos limites estão definidos na planta anexa.
+
+2.º Na área da reserva é proibido o exercício da caça a quaisquer espécies cinegéticas, excluindo o coelho-bravo, cuja exploração fica sujeita a regulamentação específica.
+
+3.º A linha perimetral desta reserva de caça parcial é obrigatoriamente sinalizada com tabuletas do modelo n.º 7 definido na [Portaria n.º 697/88](https://diariodarepublica.pt/dr/detalhe/portaria/697-1988-354162), de 17 de Outubro, sendo aplicável em conjunto o disposto na citada portaria e na [Portaria n.º 569/88](https://diariodarepublica.pt/dr/detalhe/portaria/569-1988-380134), de 22 de Julho.
+
+4.º Esta portaria entra em vigor em 1 de Março de 1991.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+**Assinada em 16 de Outubro de 1990.**
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1990/10/25200/44894489.pdf))](https://files.diariodarepublica.pt/1s/1990/10/25200/44894489.pdf)

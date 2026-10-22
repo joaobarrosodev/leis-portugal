@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:284740:por
+title: Portaria n.º 217/88
+short_title: null
+summary: Alarga a área de recrutamento para o cargo de chefe dos núcleos de fiscalização de empresas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 217/88
+official_date: null
+publication_date: '1988-04-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/1988, Série I de 1988-04-12
+  number: '85'
+  series: I
+  supplement: null
+  pages: 1414 - 1414
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/04/08500/14141414.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '284740'
+  dre_path: /dr/detalhe/portaria/217-1988-284740
+  internal: pt:dre:284740:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/217-1988-284740
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/217-1988-284740
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-04-12T00:00:00Z'
+integrity:
+  source_sha256: b3b550f5924376fb14e47c0bd9b27b734afd3524c6ad762ab8f31de42577f461
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-217-284740.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 217/88
+
+de 12 de Abril
+
+Considerando o disposto no n.º 4 do artigo 2.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho;
+
+Considerando que as funções de chefe de divisão da Direcção de Serviços de Estudos e Planeamento da Fiscalização, dos Serviços Centrais da Direcção-Geral das Contribuições e Impostos, bem como as de chefe dos núcleos de fiscalização de empresas dos serviços distritais daquele departamento podem também ser exercidas por funcionários pertencentes a categorias e carreiras diferentes das previstas no n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 4/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1987-599484), de 12 de Janeiro, e no n.º 4 do artigo 14.º do [Decreto Regulamentar n.º 54/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1980-461617), de 30 de Setembro, desde que possuam licenciatura adequada e competência reconhecida na área da fiscalização tributária:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, o seguinte:
+
+1.º Excepcionalmente, no caso de não haver funcionários com qualificações adequadas ou com as categorias previstas no n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 4/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1987-599484), de 12 de Janeiro, e no n.º 4 do artigo 14.º do [Decreto Regulamentar n.º 54/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1980-461617), de 30 de Setembro, é alargada a área de recrutamento para o provimento dos seguintes lugares e cargos da Direcção-Geral das Contribuições e Impostos:
+
+a) Chefes das divisões da Direcção de Serviços de Estudos e Planeamento da Fiscalização, que podem ser providos de entre funcionários da Direcção-Geral com a categoria de técnico economista de 1.ª classe;
+
+b) Chefes dos núcleos de fiscalização de empresas das direcções distritais de finanças, que podem ser providos de entre técnicos superiores principais do quadro de pessoal da Direcção-Geral, licenciados em Economia, Finanças ou Organização e Gestão de Empresas e afectos a funções de fiscalização, e ainda de entre técnicos economistas de 1.ª classe e peritos de fiscalização tributária de 1.ª classe, neste caso desde que possuam as habilitações académicas acima referidas.
+
+2.º O despacho de nomeação será acompanhado, para publicação, do currículo do nomeado.
+
+Ministério das Finanças.
+
+**Assinada em 22 de Março de 1988.**
+
+**O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado dos Assuntos Fiscais, José de Oliveira Costa.**

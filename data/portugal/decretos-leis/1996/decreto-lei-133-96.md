@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:405374:por
+title: Decreto-Lei n.º 133/96
+short_title: null
+summary: Altera o Decreto-Lei n.º 391/88, de 26 de Outubro (regulamentação do sistema de apoio judiciário e do seu regime
+  financeiro)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 133/96
+official_date: null
+publication_date: '1996-08-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 187/1996, Série I-A de 1996-08-13
+  number: '187'
+  series: I
+  supplement: null
+  pages: 2502 - 2503
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/08/187a00/25022503.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/133/1996/08/13/p/dre/pt/html
+  oj: null
+  dre: '405374'
+  dre_path: /dr/detalhe/decreto-lei/133-1996-405374
+  internal: pt:dre:405374:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1996-405374
+  metadata_url: https://data.dre.pt/eli/dec-lei/133/1996/08/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-1996-405374
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-06-24T00:00:00Z'
+integrity:
+  source_sha256: e8017944490f890c90b16ef8e41c224d28533cec4a07d6e15b54f072b868a8c2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-133-405374.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso ao Direito
+- Advogado
+- Ajuda Judicial
+- Cofre Geral dos Tribunais
+- Prestação de Serviços
+- Solicitador
+- Custas Judiciais
+- TAXA de Prestação de Serviços
+- Tribunal
+relationships:
+- type: amended_by
+  target: pt:dre:390246:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 133/96
+
+de 13 de Agosto
+
+Já resulta da lei, sistematicamente interpretada, que o Cofre Geral dos Tribunais só suporta os encargos com os honorários atribuídos aos advogados, advogados estagiários e solicitadores pelos serviços que prestem no âmbito do apoio judiciário e despesas concernentes, nos tribunais que com aquele Cofre tenham conexão financeira, como é o caso dos tribunais da ordem judicial e da ordem administrativa.
+
+Mas justifica-se que isso fique claro no seu texto, para evitar dúvidas quanto à aplicação do normativo em causa no Tribunal Constitucional, nos tribunais militares e nos tribunais tributários.
+
+O mesmo princípio deve observar-se no que concerne ao pagamento aos causídicos pelos serviços que prestem, na fase administrativa, nos processos de contra-ordenação. As entidades administrativas com competência para aplicação das coimas e para arrecadar o respectivo produto é que, naturalmente, devem suportar os referidos encargos.
+
+Nesta óptica, são revogados o n.º 2 do artigo 11.º e o n.º 3 do artigo 17.º do [Decreto-Lei n.º 391/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1988-354485), é adaptada a redacção do n.º 1 deste último artigo e acrescentado o segmento normativo que ultima o corpo do primeiro.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pelo [Decreto-Lei n.º 387-B/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/387-b-1987-670072), de 29 de Dezembro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 11.º e 17.º do [Decreto-Lei n.º 391/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1988-354485), de 26 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 11.º
+
+Os honorários atribuídos aos advogados, advogados estagiários e solicitadores pelos serviços que prestem no âmbito do apoio judiciário, bem como as despesas que se revelem justificadas por eles realizadas, devidamente discriminadas e comprovadas, são pagos, independentemente de cobrança de custas, pelo Cofre Geral dos Tribunais, através das suas delegações junto dos tribunais em que os serviços hajam sido prestados.
+
+###### Artigo 17.º
+
+1 - Para pagamento das quantias fixadas ao advogado, advogado estagiário ou solicitador, o juízo ou secção do processo deverá elaborar, independentemente de recurso, uma nota, em duplicado, onde mencione a natureza e número do processo, juízo ou secção, nome das partes e do patrono nomeado e o montante que lhe foi atribuído, sendo o original entregue na secção central e o duplicado junto ao respectivo processo.
+
+2 - ...»
+
+###### Artigo 2.º
+
+São revogados o n.º 2 do artigo 11.º e o n.º 3 do artigo 17.º do [Decreto-Lei n.º 391/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/391-1988-354485), de 26 de Outubro.
+
+###### Artigo 3.º
+
+O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros, 27 de Junho de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - José Eduardo Vera Cruz Jardim.
+
+**Promulgado em 25 de Julho de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 27 de Julho de 1996.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

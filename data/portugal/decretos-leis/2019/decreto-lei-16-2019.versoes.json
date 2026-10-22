@@ -1,0 +1,884 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:118275382:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-840258296",
+ "dre_path": "/dr/detalhe/decreto-lei/16-2019-118275382",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-01-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "840062556",
+    "840062557",
+    "840062558",
+    "840062559",
+    "840062560",
+    "840062561",
+    "840062562",
+    "840062563",
+    "840062564",
+    "840062565",
+    "840062566",
+    "840062567",
+    "840062568",
+    "840062569",
+    "840062570",
+    "840062571",
+    "840062572",
+    "840062573",
+    "840062574",
+    "840257775",
+    "840257776",
+    "840257777",
+    "840257778",
+    "840257779",
+    "840257780",
+    "840257781",
+    "840257782",
+    "840257783",
+    "840257784",
+    "840257785",
+    "840257786",
+    "840257787",
+    "840257788",
+    "840257789",
+    "840257790",
+    "840257791",
+    "840257792",
+    "840257793",
+    "840257794",
+    "840257795",
+    "840257796",
+    "840257797"
+   ]
+  },
+  {
+   "date": "2024-02-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:840060196:por",
+     "title": "Decreto-Lei n.º 20/2024",
+     "published": "2024-02-02",
+     "dre_path": "/dr/detalhe/decreto-lei/20-2024-840060196"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-E"
+   ],
+   "fragments": [
+    "840062556",
+    "840257850",
+    "840257819",
+    "840257820",
+    "840257821",
+    "840257851",
+    "840062562",
+    "840257822",
+    "840257823",
+    "840062565",
+    "840257866",
+    "840257867",
+    "840257868",
+    "840257869",
+    "840257870",
+    "840257814",
+    "840257815",
+    "840257816",
+    "840257817",
+    "840257818",
+    "840257828",
+    "840257829",
+    "840257830",
+    "840257811",
+    "840257831",
+    "840257832",
+    "840257776",
+    "840257833",
+    "840257834",
+    "840257852",
+    "840257780",
+    "840257835",
+    "840257836",
+    "840257853",
+    "840257784",
+    "840257785",
+    "840257837",
+    "840257864",
+    "840257865",
+    "840257788",
+    "840257838",
+    "840257839",
+    "840257840",
+    "840257854",
+    "840257874",
+    "840257841",
+    "840277575",
+    "840257860",
+    "840257861",
+    "840257862",
+    "840257855"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:840060196:por",
+     "title": "Decreto-Lei n.º 20/2024",
+     "published": "2024-02-02",
+     "dre_path": "/dr/detalhe/decreto-lei/20-2024-840060196",
+     "date": "2024-02-03"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "840062556": {
+   "fragment_id": "840258297",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 16/2019\n\nde 22 de janeiro\n\nAs atividades espaciais têm vindo a assumir uma importância crescente nas sociedades contemporâneas em virtude dos inúmeros benefícios provenientes dos produtos, serviços e tecnologias que recorrem ao espaço ultraterrestre, impactando de forma positiva o desenvolvimento socioeconómico dos países.\n\nDesde logo, as comunicações passaram a ser mais resilientes, mais móveis, mais ubíquas e registam um nível de utilização massificada nunca antes atingido. Através de satélites de observação da Terra, são recolhidos dados úteis em setores tão diversos como a agricultura, a silvicultura, o planeamento territorial (incluindo em matéria de cartografia, meteorologia, hidrologia e oceanografia), ou a prevenção e combate a desastres, para além de gestão de tráfego terrestre, aéreo e marítimo. Os produtos e tecnologias espaciais são também um elemento central nas atividades de defesa e segurança dos Estados.\n\nPara além de as atividades espaciais contribuírem para o desenvolvimento da ciência e investigação, o setor espacial tornou-se, ele próprio, um setor económico de relevância, especialmente na área das aplicações. O setor das novas indústrias do espaço (conhecido como New Space) integra uma nova vaga internacional de participantes e de modelos de negócio capacitados para atrair financiamento privado, nomeadamente nas áreas do lançamento e operação de megaconstelações de micro e nanossatélites, com desenvolvimentos significativos no acesso a órbitas de baixa altitude (low earth orbits) e sincronizadas com o Sol (sun synchronized orbits). Esta tendência abre novas oportunidades para Portugal, designadamente ao nível da produção e utilização de dados resultantes das atividades espaciais para atividades sociais e económicas.\n\nNa verdade, o ecossistema espacial empresarial conseguiu um retorno económico superior a 120 % na última década, envolvendo uma força total de trabalho de mais de 1400 pessoas, onde se incluem 300 engenheiros altamente qualificados, e gerando um volume de negócios diretamente relacionados com tecnologias espaciais de cerca de 890 milhões de euros entre 2006 e 2015.\n\nPortugal está a reforçar a sua aposta no setor espacial, designadamente através do aumento da participação nacional na Agência Espacial Europeia (ESA), bem como através da aprovação da Estratégia Portugal Espaço 2030 pela Resolução do Conselho de Ministros n.º 30/2018, de 12 de março, a qual assenta em três eixos estruturantes: i) o estímulo à exploração de dados e sinais espaciais através de serviços e aplicações de base espacial e habilitadas por tecnologias espaciais; ii) o desenvolvimento, construção e operação de equipamentos, sistemas e infraestruturas espaciais e de serviços de produção de dados espaciais, e iii) o contínuo desenvolvimento da capacidade e competências nacionais através da investigação científica, inovação, educação e cultura científica. Neste contexto, estão lançadas as bases para a criação da Agência Espacial Portuguesa, a qual deve integrar todos os programas nacionais ligados ao espaço, dinamizando-os.\n\nO presente decreto-lei vem abrir novos horizontes, consagrando um regime legal inovador orientado para facilitar o desenvolvimento de atividades, produtos e serviços espaciais no e a partir do País, atraindo empresas e operações de maior valor acrescentado e baseadas em conhecimento, assim como estimulando a investigação e desenvolvimento nesta área.\n\nCom efeito, e sem prejuízo do que venha a ser o regime jurídico próprio de um eventual porto espacial, uma lei reguladora das atividades espaciais desempenha um papel central na promoção de novas atividades económicas e no desenvolvimento empresarial de base tecnológica, assim como no estímulo à investigação e desenvolvimento nos setores público e privado, respondendo à necessidade urgente de oferecer aos atores espaciais uma lei que regule estas atividades de uma forma simples, eficaz, rigorosa e tecnologicamente neutra - e, por isso, capaz de se continuar a aplicar a um setor em permanente evolução.\n\nAssim, o presente decreto-lei regula o exercício de atividades espaciais, ao mesmo tempo que flexibiliza o seu exercício. Exemplo disso é a possibilidade de poder ser requerida uma licença unitária, aplicável ao licenciamento de uma única operação espacial, ou uma licença global, aplicável a uma série de operações espaciais do mesmo tipo - sendo que podem ainda ser licenciadas conjuntamente, a um único operador por sua conta e por conta de outros operadores, operações espaciais do mesmo tipo ou de tipo diferente que englobem uma ou mais operações de lançamento e/ou retorno, e correspondentes operações de comando e controlo dos objetos espaciais lançados, ainda que conduzidas por mais do que um operador.\n\nAdicionalmente, a possibilidade de se consagrar um processo mais célere para atribuição de licenças para operadores espaciais em determinados casos, e a previsão de um mecanismo de qualificação prévia, procura atrair para Portugal novos operadores pela simplificação do processo de licenciamento através da dispensa de submissão da informação constante do certificado de qualificação prévia para cada pedido de licenciamento. Também o regime de responsabilidade e de seguros ora consagrado visa promover e atrair a atividade empresarial na área do espaço para Portugal. O presente decreto-lei contribuirá assim para a democratização contínua do acesso ao espaço através do envolvimento inclusivo de empresas e instituições científicas e tecnológicas, públicas e privadas, assim como da Administração Pública, estimulando a ambição coletiva de utilização e exploração do espaço em benefício da humanidade.\n\nÉ, deste modo, criada uma peça fundamental para o desenvolvimento seguro e sustentável da atividade privada e da investigação e desenvolvimento no setor espacial, contribuindo para o contínuo desenvolvimento socioeconómico do País.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Autoridade de Supervisão de Seguros e Fundos de Pensões e a Associação Portuguesa de Seguradores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "840062557": {
+   "fragment_id": "840258298",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "840062558": {
+   "fragment_id": "840258299",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime de acesso e exercício de atividades espaciais com vista a:\n\na) Regular o exercício de atividades espaciais sujeitas à responsabilidade, autorização e supervisão da República Portuguesa, nos termos das obrigações internacionais a que está sujeita;\n\nb) Facilitar e promover o acesso e exercício de atividades espaciais a quaisquer operadores estabelecidos em Portugal e a partir do território português;\n\nc) Assegurar que as atividades espaciais respeitam os princípios internacionais de utilização do espaço ultraterrestre, designadamente o seu uso pacífico;\n\nd) Proteger os interesses políticos e estratégicos da República Portuguesa, assegurando que as atividades espaciais privadas não contendem com os mesmos."
+  },
+  "840062559": {
+   "fragment_id": "840258300",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se às atividades espaciais, consideradas enquanto operações espaciais ou operações de centros de lançamento:\n\na) Prosseguidas em território nacional, incluindo o espaço marítimo e aéreo sob jurisdição ou soberania portuguesa, a bordo de navios e aeronaves portuguesas ou a partir de instalações sob jurisdição ou soberania portuguesa, independentemente da nacionalidade do operador; ou\n\nb) Prosseguidas fora do território nacional por operadores portugueses ou estabelecidos em território nacional.\n\n2 - A aplicação do presente decreto-lei não prejudica o disposto na Lei n.º 17/2014, de 10 de abril, e no Decreto-Lei n.º 38/2015, de 12 de março, na sua redação atual.\n\n3 - Consideram-se estabelecidos em território nacional os operadores com residência em território nacional nos termos previstos no Código do Imposto sobre o Rendimento das Pessoas Singulares ou no Código do Imposto sobre o Rendimento das Pessoas Coletivas, consoante se trate de pessoas singulares ou coletivas.\n\n4 - Excluem-se do âmbito de aplicação do presente decreto-lei as atividades espaciais prosseguidas no âmbito de atividades de defesa nacional, com vista à proteção dos interesses estratégicos, de segurança ou de defesa da República Portuguesa."
+  },
+  "840062560": {
+   "fragment_id": "840258301",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Centro de lançamento» qualquer instalação, fixa ou móvel, destinada ao lançamento ou retorno de objetos espaciais, incluindo todos os equipamentos dessa instalação que sejam necessários para a realização de lançamentos ou retornos;\n\nb) «Objeto espacial»:\n\ni) Um objeto lançado ou que se pretenda lançar para o espaço, designadamente em órbita terrestre ou para além da mesma;\n\nii) Qualquer veículo que se destine a lançar um objeto previsto na subalínea anterior ou a proceder ao retorno do mesmo, ainda que seja operado sem esse objeto, nomeadamente para fins de desenvolvimento ou validação, doravante designado lançador;\n\niii) Qualquer parte componente dos objetos espaciais previstos nas subalíneas anteriores;\n\nc) «Operação de centro de lançamento» a gestão, administração ou direção de um centro de lançamento;\n\nd) «Operação espacial» qualquer operação deste tipo:\n\ni) «Operação de lançamento e/ou retorno» a atividade pela qual se pretende enviar ou lançar objetos espaciais para o espaço, designadamente com vista à sua colocação em órbita ou para além da mesma, e o retorno de objetos espaciais à superfície da Terra, sendo que, se aplicável, a operação de lançamento tem início quando se torna irreversível, terminando com a separação do lançador e do objeto destinado a ser colocado no espaço;\n\nii) «Operação de comando e controlo» a atividade que consiste no exercício de controlo efetivo sobre o objeto espacial, a qual, se aplicável, tem início com a separação do lançador e do objeto destinado ao espaço, terminando quando se verifica a primeira das seguintes ocorrências:\n\na) A realização das últimas manobras de desorbitação e das atividades de passivação;\n\nb) A perda de controlo do objeto espacial;\n\nc) O momento do início do retorno à Terra ou desintegração completa do objeto espacial na atmosfera;\n\ne) «Operador de centro de lançamento» a pessoa singular ou coletiva que gere, administra ou dirige um centro de lançamento;\n\nf) «Operador de comando e controlo» a pessoa singular ou coletiva que realiza operações de comando e controlo de objetos espaciais que estejam no espaço, ainda que de forma temporária ou em trânsito, ou, sempre que o objeto não possa ser controlado ou guiado, a pessoa singular ou coletiva que contratou o seu lançamento ou que procede à sua exploração, conforme notificado à Autoridade Espacial no processo de qualificação prévia e licenciamento;\n\ng) «Operador de lançamento e/ou retorno» a pessoa singular ou coletiva que realiza operações de lançamento e/ou de retorno de objetos espaciais."
+  },
+  "840062561": {
+   "fragment_id": "840258302",
+   "type": 1,
+   "heading": "Capítulo II — Exercício de atividades espaciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício de atividades espaciais"
+  },
+  "840062562": {
+   "fragment_id": "840258303",
+   "type": 8,
+   "heading": "Secção I — Acesso e qualificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Acesso e qualificação prévia"
+  },
+  "840062563": {
+   "fragment_id": "840258304",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de acesso\n\n1 - As atividades espaciais estão sujeitas a:\n\na) Licença obrigatória para as operações de lançamento e/ou retorno e para as operações de comando e controlo; e\n\nb) Registo de objetos espaciais.\n\n2 - As atividades espaciais podem ainda ser objeto de qualificação prévia facultativa de operadores, bem como de sistemas, processos, características e especificações, nos termos do artigo seguinte, com vista a simplificar o procedimento de licenciamento.\n\n3 - Não estão sujeitas a licença obrigatória as atividades espaciais referidas na alínea b) do n.º 1 do artigo 2.º quando o operador comprovar, de forma satisfatória para a Autoridade Espacial, que obteve as devidas autorizações e cumpre o disposto na lei de um Estado com o qual a República Portuguesa concluiu um acordo que assegure o cumprimento das obrigações internacionais a que esta está sujeita."
+  },
+  "840062564": {
+   "fragment_id": "840258305",
+   "type": 11,
+   "heading": "Artigo 5.º — Qualificação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Qualificação prévia\n\n1 - Os operadores podem solicitar a qualificação prévia de qualquer dos elementos indicados no número seguinte junto da Autoridade Espacial, a qual aprova, por regulamento, o procedimento da respetiva atribuição.\n\n2 - A qualificação prévia dispensa a submissão de informação constante do certificado de qualificação prévia no procedimento de licenciamento previsto nos artigos seguintes, destinando-se a atestar:\n\na) Que o operador de centro de lançamento, o operador de lançamento e/ou retorno e o operador de comando e controlo têm a capacidade técnica, económica e financeira para as operações espaciais que pretendem realizar;\n\nb) Para o operador de centro de lançamento, que os sistemas e processos implementados respeitam a lei aplicável e cumprem os requisitos constantes de regulamento técnico aprovado pela Autoridade Espacial;\n\nc) Para o operador de lançamento e/ou retorno e para o operador de comando e controlo, as características e especificações do respetivo objeto espacial;\n\nd) Para o operador de comando e controlo, os sistemas e processos implementados no centro de comando e controlo.\n\n3 - Os operadores que tenham obtido um certificado de qualificação prévia devem proceder à atualização regular da informação submetida, nos termos a definir pelo regulamento a que se refere o n.º 1.\n\n4 - Quando a atualização da informação submetida, nos termos do número anterior, implicar alterações às condições nas quais se baseou a qualificação prévia, a Autoridade Espacial notifica o operador para este se pronunciar, sob pena de perda do certificado, sobre se pretende a abertura de um novo processo de qualificação prévia.\n\n5 - A qualificação prévia extingue-se nos seguintes casos:\n\na) Cessação de atividade do operador;\n\nb) Renúncia ao certificado de qualificação prévia, mediante declaração escrita dirigida à Autoridade Espacial, com uma antecedência não inferior a 90 dias relativamente à data pretendida para a cessação produzir efeitos, salvo se aquela entidade consentir expressamente em prazo menor;\n\nc) Alteração das condições determinantes para a concessão da qualificação prévia, nos termos do número anterior, designadamente quando as mesmas afetem a capacidade técnica, económica ou financeira do operador ou o funcionamento regular e adequado dos elementos verificados;\n\nd) Incumprimento das determinações impostas pela Autoridade Espacial, designadamente na sequência de ações de fiscalização;\n\ne) Imperativos relacionados com a segurança de pessoas ou bens, determinados pelas autoridades competentes.\n\n6 - A qualificação prévia pode também extinguir-se por decisão da Autoridade Espacial nos casos em que tenha sido atribuída a um operador licenciado e a respetiva licença se extinguir, desde que a titularidade dessa licença tenha tido um impacto relevante nas condições de atribuição da qualificação prévia.\n\n7 - A extinção da qualificação prévia ao abrigo das alíneas c), d) e e) do n.º 5 e do número anterior está sujeita a prévia notificação ao operador, podendo este pronunciar-se, por escrito, no prazo fixado pela Autoridade Espacial, o qual não pode ser inferior a 10 dias."
+  },
+  "840062565": {
+   "fragment_id": "840258306",
+   "type": 8,
+   "heading": "Secção II — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Licenciamento"
+  },
+  "840062566": {
+   "fragment_id": "840258307",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipos de licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipos de licenças\n\n1 - A licença para o exercício de cada tipo de operação espacial é obtida junto da Autoridade Espacial, podendo ser de dois tipos:\n\na) Licença unitária, aplicável a cada tipo de operação espacial e atribuída ao respetivo operador;\n\nb) Licença global, aplicável a uma série de operações espaciais do mesmo tipo e atribuída ao respetivo operador.\n\n2 - Podem também ser licenciadas conjuntamente operações espaciais do mesmo tipo ou de tipo diferente que englobem uma ou mais operações de lançamento e/ou retorno e as correspondentes operações de comando e controlo dos objetos espaciais lançados, ainda que conduzidas por mais do que um operador.\n\n3 - A licença prevista no número anterior pode ser unitária ou global consoante o caso e é atribuída a um dos operadores envolvidos por conta dos restantes.\n\n4 - O operador titular de uma licença global deve proceder à notificação prévia das operações espaciais licenciadas, junto da Autoridade Espacial, com a antecedência mínima de três dias da data prevista para realização das mesmas.\n\n5 - No caso de operações espaciais que se desenvolvam no espaço marítimo nacional, a Autoridade Espacial deve comunicar de imediato a notificação prévia recebida nos termos do número anterior à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM)."
+  },
+  "840062567": {
+   "fragment_id": "840258308",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições para atribuição de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições para atribuição de licença\n\n1 - A licença é atribuída mediante verificação, pela Autoridade Espacial, de que:\n\na) O requerente tem a capacidade técnica, económica e financeira para as operações espaciais que pretende realizar;\n\nb) A operação espacial acautela devidamente danos na superfície da Terra, no espaço aéreo e no espaço ultraterrestre, de acordo com as obrigações nacionais e internacionais aplicáveis;\n\nc) A operação espacial garante a minimização, na máxima extensão possível, de detritos espaciais, de acordo com os princípios e obrigações internacionais;\n\nd) A operação espacial é compatível com as normas de segurança pública aplicáveis, incluindo as relativas à saúde pública e segurança física dos cidadãos;\n\ne) A operação espacial não coloca em risco a segurança interna e os interesses estratégicos da República Portuguesa nem viola as suas obrigações internacionais;\n\nf) Todas as outras autorizações e títulos necessários para efeitos da operação espacial foram emitidas pelas respetivas entidades competentes;\n\ng) O requerente contratou o seguro obrigatório de responsabilidade civil previsto no artigo 19.º\n\n2 - Os critérios utilizados para a avaliação das condições previstas no número anterior podem ser densificados em regulamento a emitir pela Autoridade Espacial.\n\n3 - A licença pode prever o cumprimento de condições adicionais às previstas no n.º 1, incluindo em matéria ambiental, as quais carecem de aceitação expressa do operador, sem a qual a licença não é concedida."
+  },
+  "840062568": {
+   "fragment_id": "840258309",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento de atribuição de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimento de atribuição de licença\n\n1 - A tramitação do procedimento de atribuição de licenças é definida em regulamento a aprovar pela Autoridade Espacial, devendo a decisão sobre a concessão ou recusa de licença ser emitida pela Autoridade Espacial no prazo de 90 dias após a receção do pedido completo.\n\n2 - Para efeitos de obtenção de outras autorizações eventualmente necessárias, nos termos previstos na alínea f) do n.º 1 do artigo anterior, deve ser seguido o seguinte procedimento:\n\na) No caso da licença unitária, a informação e documentação necessária para as outras autorizações deve ser submetida junto da Autoridade Espacial conjuntamente com a informação e documentação para obtenção da licença de operações espaciais;\n\nb) No caso da licença global, e se assim indicado pela Autoridade Espacial, a informação e documentação necessária para as outras autorizações deve ser submetida previamente a cada operação, não podendo o operador proceder à operação espacial sem as referidas autorizações.\n\n3 - A atribuição de licenças para atividades espaciais que se desenvolvam no espaço marítimo nacional requer parecer obrigatório da DGRM, no âmbito das suas competências, sem prejuízo dos demais pareceres que sejam legalmente necessários.\n\n4 - O regulamento a aprovar pela Autoridade Espacial pode consagrar um regime especial de licenciamento, que se pode traduzir na redução de prazos ou na simplificação de procedimentos, nas situações em que:\n\na) O requerente da licença seja uma entidade pública ou uma organização internacional que atue ao abrigo de acordos internacionais celebrados com a República Portuguesa;\n\nb) A operação espacial pretendida prossiga exclusivamente finalidades científicas, de investigação e desenvolvimento, educação ou formação ou se traduza em atividades com finalidades experimentais que tenham, comprovadamente, reduzido risco para a superfície da Terra, o espaço aéreo e o espaço ultraterrestre, incluindo para a saúde pública e a segurança física dos cidadãos;\n\nc) O requerente da licença tenha obtido autorização para o exercício da atividade espacial junto de outro Estado cujo regime jurídico assegure o cumprimento das obrigações internacionais aplicáveis.\n\n5 - A Autoridade Espacial pode exigir do titular de uma licença global a submissão da informação constante do certificado de qualificação prévia extinto nos termos dos n.os 5 e 6 do artigo 5.º para a realização de operações espaciais ao abrigo da licença global, não podendo as referidas operações espaciais ser realizadas sem confirmação escrita, pela Autoridade Espacial, da conformidade da referida informação com o disposto no presente decreto-lei, a ser emitida no prazo de 30 dias a contar da submissão da informação completa pelo operador."
+  },
+  "840062569": {
+   "fragment_id": "840258310",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos e deveres do titular da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direitos e deveres do titular da licença\n\n1 - A atribuição de uma licença confere ao seu titular o direito à realização das operações espaciais correspondentes, nos termos do presente decreto-lei e do conteúdo da respetiva licença.\n\n2 - São deveres do titular da licença os seguintes:\n\na) Cumprir e respeitar os princípios internacionais de utilização do espaço, nomeadamente nos termos dos tratados espaciais aos quais a República Portuguesa está vinculada, incluindo em matéria de utilização pacífica, segurança e minimização de detritos espaciais;\n\nb) Proceder ao registo dos objetos espaciais por si lançados ou controlados, identificando o titular dos mesmos, nos termos do artigo 16.º;\n\nc) Constituir e manter válido o seguro obrigatório de responsabilidade civil exigido nos termos do artigo 19.º;\n\nd) Prever e acautelar devidamente quaisquer danos na Terra e no espaço, direta ou indiretamente, de acordo com as obrigações nacionais e internacionais aplicáveis;\n\ne) Cumprir todas as disposições legais e regulamentares em vigor, bem como as condições previstas na licença atribuída, nos termos do n.º 3 do artigo 7.º"
+  },
+  "840062570": {
+   "fragment_id": "840258311",
+   "type": 11,
+   "heading": "Artigo 10.º — Duração da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Duração da licença\n\n1 - As licenças unitárias são atribuídas pelo período de tempo correspondente à operação licenciada.\n\n2 - As licenças globais podem ser atribuídas para um número determinado de operações ou por um determinado período de tempo após a sua emissão."
+  },
+  "840062571": {
+   "fragment_id": "840258312",
+   "type": 11,
+   "heading": "Artigo 11.º — Transmissão da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Transmissão da licença\n\n1 - A transmissão de licença está sujeita a autorização prévia da Autoridade Espacial na sequência de pedido do titular, a qual só pode ser concedida desde que sejam observadas as condições da sua atribuição.\n\n2 - O pedido de transmissão deve fornecer todos os elementos relativos à identificação e ao perfil do transmissário, bem como ser acompanhado de declaração deste de que aceita a transmissão e todas as condições da licença.\n\n3 - A Autoridade Espacial autoriza a transmissão da licença no prazo de 60 dias, e averba, em caso de deferimento, a identificação do transmissário na licença de operador.\n\n4 - O transmissário fica sujeito aos mesmos deveres, obrigações e encargos do transmitente, bem como a todos os demais que eventualmente lhe sejam impostos na autorização da transmissão.\n\n5 - A autorização a que se refere o presente artigo caduca se o negócio jurídico que titula a transmissão não for celebrado no prazo nela fixado."
+  },
+  "840062572": {
+   "fragment_id": "840258313",
+   "type": 11,
+   "heading": "Artigo 12.º — Extinção da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Extinção da licença\n\n1 - A licença extingue-se por caducidade, renúncia ou revogação, nos termos dos artigos seguintes.\n\n2 - Em caso de extinção da licença por qualquer dos motivos referidos no número anterior, a Autoridade Espacial pode:\n\na) Ordenar ao operador que adote, a suas expensas, as medidas necessárias com vista a assegurar a continuação temporária ou a cessação segura da operação espacial, bem como a limitar o risco de danos, continuando o operador vinculado a todas as obrigações decorrentes do presente decreto-lei e da sua licença para o efeito;\n\nb) Transferir o exercício da operação espacial para outro operador interessado com vista a assegurar a continuidade da operação ou tomar, a expensas do operador cuja licença se extinguiu, as ações necessárias para desorbitar ou destruir o objeto espacial.\n\n3 - Sem prejuízo do cumprimento do dever de notificação nos termos gerais, a extinção da licença é divulgada no sítio da Autoridade Espacial na Internet."
+  },
+  "840062573": {
+   "fragment_id": "840258314",
+   "type": 11,
+   "heading": "Artigo 13.º — Caducidade da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Caducidade da licença\n\nA licença caduca nas seguintes situações:\n\na) Em caso de cessação de atividade do operador;\n\nb) Quando atingir o termo do prazo pelo qual foi concedida."
+  },
+  "840062574": {
+   "fragment_id": "840258315",
+   "type": 11,
+   "heading": "Artigo 14.º — Renúncia à licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Renúncia à licença\n\n1 - O titular pode, antes do termo do respetivo prazo, renunciar à licença que lhe tenha sido atribuída.\n\n2 - O aviso de renúncia à licença é apresentado por escrito junto da Autoridade Espacial, com uma antecedência não inferior a 120 dias relativamente à data pretendida para a renúncia produzir efeitos, salvo se aquela entidade consentir expressamente num prazo menor."
+  },
+  "840257775": {
+   "fragment_id": "840258316",
+   "type": 11,
+   "heading": "Artigo 15.º — Revogação da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogação da licença\n\n1 - A licença pode ser revogada pela Autoridade Espacial nas seguintes situações:\n\na) Quando o seu titular faltar ao cumprimento dos deveres relativos ao exercício da atividade, nos termos da lei e da respetiva licença, incluindo quando, por qualquer motivo, o seguro obrigatório de responsabilidade civil deixar de estar em vigor ou não permitir assegurar as condições aplicáveis;\n\nb) Quando o seu titular não cumprir as determinações impostas pela Autoridade Espacial, designadamente na sequência de ações de fiscalização;\n\nc) Quando o seu titular não cumprir reiteradamente o dever de envio à Autoridade Espacial das informações referidas no artigo 23.º;\n\nd) Por imperativos relacionados com a segurança de pessoas ou bens, determinados pelas autoridades competentes.\n\n2 - A decisão de revogação não pode ser proferida sem prévia notificação ao titular da licença, podendo este pronunciar-se, por escrito, no prazo fixado pela Autoridade Espacial, o qual não pode ser inferior a 10 dias."
+  },
+  "840257776": {
+   "fragment_id": "840258317",
+   "type": 8,
+   "heading": "Secção III — Registo e transferência de objetos espaciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Registo e transferência de objetos espaciais"
+  },
+  "840257777": {
+   "fragment_id": "840258318",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo de objetos espaciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo de objetos espaciais\n\n1 - São objeto de registo pela e junto da Autoridade Espacial os objetos espaciais relativamente aos quais a República Portuguesa seja o Estado de lançamento, de acordo com as suas obrigações internacionais.\n\n2 - O registo contém a seguinte informação:\n\na) Indicação do operador de lançamento responsável;\n\nb) Indicação do proprietário e do operador de comando e controlo responsável;\n\nc) Designação do objeto espacial, número de registo e número de alocação de frequências atribuído pelas entidades competentes;\n\nd) Data e local do lançamento;\n\ne) Parâmetros orbitais básicos, incluindo período nodal, inclinação, apogeu e perigeu;\n\nf) Função geral do objeto espacial.\n\n3 - São também objeto de registo junto da Autoridade Espacial:\n\na) Os objetos espaciais cujo lançamento, retorno ou comando e controlo sejam efetuados por operadores licenciados em Portugal, incluindo as suas características técnicas e especificações, sendo o respetivo operador licenciado o responsável pela promoção do registo;\n\nb) A transferência da titularidade de quaisquer objetos espaciais cujo lançamento, retorno ou comando e controlo seja efetuado por operadores licenciados no âmbito do presente decreto-lei, sendo o respetivo transmitente responsável pela promoção do registo;\n\nc) O fim da vida útil de um objeto espacial operado e controlado por um operador de comando e controlo licenciado em Portugal, sendo o respetivo operador de comando e controlo responsável pela promoção do registo;\n\nd) Qualquer incidente ou acidente grave sofrido pelo objeto espacial, sendo o respetivo operador responsável pela promoção do registo.\n\n4 - A Autoridade Espacial densifica, em regulamento, os elementos a registar nos termos do número anterior e pode ainda determinar a obrigação de disponibilização de elementos adicionais aos previstos nos números anteriores, incluindo os necessários para o cumprimento de regras ou resoluções internacionais supervenientes.\n\n5 - O operador deve submeter a informação para o registo à Autoridade Espacial no prazo de dois dias após o lançamento do objeto espacial.\n\n6 - Qualquer atualização ou alteração da informação constante do registo deve ser também notificada pelo operador à Autoridade Espacial no prazo de dois dias.\n\n7 - O registo de objetos espaciais é público, devendo a Autoridade Espacial desenvolver mecanismos de proteção da informação comercialmente sensível que possa constar do mesmo.\n\n8 - A Autoridade Espacial, através do Ministério dos Negócios Estrangeiros, comunica ao Secretário-Geral da Organização das Nações Unidas todas as informações necessárias para o registo de objetos espaciais junto da Organização das Nações Unidas, nos termos das obrigações internacionais aplicáveis."
+  },
+  "840257778": {
+   "fragment_id": "840258319",
+   "type": 11,
+   "heading": "Artigo 17.º — Transferência de objetos espaciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transferência de objetos espaciais\n\n1 - A transferência da titularidade de objetos espaciais cujo lançamento, retorno ou comando e controlo seja efetuado por operadores licenciados deve ser comunicada à Autoridade Espacial, nos termos e com a informação a definir em regulamento desta.\n\n2 - A comunicação referida no número anterior é acompanhada, pelo menos, de informação sobre a identificação do transmissário, com indicação do nome ou denominação social, morada ou sede, capital social e contactos."
+  },
+  "840257779": {
+   "fragment_id": "840258320",
+   "type": 1,
+   "heading": "Capítulo III — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Responsabilidade"
+  },
+  "840257780": {
+   "fragment_id": "840258321",
+   "type": 11,
+   "heading": "Artigo 18.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Responsabilidade\n\n1 - Sem prejuízo de outros regimes de responsabilidade legalmente aplicáveis, os operadores são responsáveis pelos danos causados no exercício da atividade espacial, nos seguintes termos:\n\na) Responsabilidade objetiva por danos causados pelo objeto espacial na superfície da Terra ou a aeronaves em voo; e\n\nb) Responsabilidade em caso de culpa por danos fora do âmbito da alínea anterior.\n\n2 - Quando a República Portuguesa, nos termos das obrigações internacionais a que está vinculada, seja responsabilizada por quaisquer danos causados por um objeto espacial, o Estado tem direito de regresso sobre o operador que, nos termos do presente decreto-lei, é responsável por esse objeto espacial, até aos limites previstos em portaria a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da ciência e tecnologia.\n\n3 - O limite do direito de regresso do Estado não se aplica se o operador for responsável nos termos da alínea b) do n.º 1 a título de dolo ou culpa grave ou incumprir o disposto no n.º 1 do artigo 4.º e no n.º 2 do artigo 9.º"
+  },
+  "840257781": {
+   "fragment_id": "840258322",
+   "type": 11,
+   "heading": "Artigo 19.º — Seguro obrigatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Seguro obrigatório\n\n1 - Os operadores licenciados ao abrigo do presente decreto-lei devem ter a sua responsabilidade coberta por um contrato de seguro de responsabilidade civil de capital mínimo a definir em portaria a aprovar pelos membros do Governo responsáveis pelas áreas das finanças, da ciência e tecnologia e do mar, a qual pode também regular as demais condições mínimas do contrato de seguro.\n\n2 - O titular da licença deve fazer prova da existência da apólice aquando do pedido de emissão da licença e, subsequentemente, até 31 de janeiro de cada ano, iniciando-se a cobertura efetiva do risco com a atribuição da licença.\n\n3 - Através de portaria dos membros do Governo responsáveis pelas áreas das finanças, da ciência e tecnologia e do mar, o seguro pode ser dispensado ou o montante segurado pode ser reduzido nos seguintes casos:\n\na) Operações consistentes no lançamento, retorno, comando e controlo de objetos espaciais de pequenas dimensões, tal como definidos pela Autoridade Espacial;\n\nb) Operações espaciais prosseguidas para finalidades exclusivamente científicas, de investigação e desenvolvimento ou de educação e formação;\n\nc) Se o operador apresentar uma outra garantia financeira conforme o permitido pela referida portaria e que seja aceite pela Autoridade Espacial.\n\nd) Operações que comprovadamente acarretem riscos reduzidos, tal como definidos pela Autoridade Espacial."
+  },
+  "840257782": {
+   "fragment_id": "840258323",
+   "type": 11,
+   "heading": "Artigo 20.º — Participação de incidentes e acidentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Participação de incidentes e acidentes\n\n1 - Os operadores devem participar à Autoridade Espacial, no prazo de 24 horas a contar do momento em que tenham conhecimento da ocorrência, os incidentes ocorridos nas suas instalações ou no âmbito da sua atividade espacial, bem como qualquer manobra, mau funcionamento ou anomalia do objeto espacial ou outras circunstâncias decorrentes ou relacionadas com a sua atividade espacial, dos quais possa resultar um incidente ou um acidente grave.\n\n2 - Os operadores devem participar de imediato à Autoridade Espacial e à Autoridade Nacional de Proteção Civil (ANPC), bem como ao Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica em relação a atividades que se desenvolvam no espaço marítimo nacional, todos os acidentes graves ocorridos nas suas instalações ou no âmbito da sua atividade espacial, que sejam passíveis de gerar consequências para o exterior.\n\n3 - A Autoridade Espacial é responsável por dirigir a comunicação recebida nos termos dos números anteriores às demais entidades competentes, devendo atuar em estreita articulação com as mesmas.\n\n4 - A ANPC atua no âmbito do Sistema Integrado de Operações de Proteção e Socorro, em articulação com as entidades nele intervenientes.\n\n5 - Sem prejuízo das competências de outras entidades, sempre que dos incidentes ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais relevantes, cumpre à Autoridade Espacial promover o exame do estado das instalações e de outros elementos relevantes do operador e de outros operadores associados à atividade em causa, bem como proceder à análise das circunstâncias da ocorrência, elaborando um relatório técnico.\n\n6 - Para efeito do disposto nos números anteriores, a Autoridade Espacial comunica à ANPC a lista dos operadores licenciados e a sua localização."
+  },
+  "840257783": {
+   "fragment_id": "840258324",
+   "type": 1,
+   "heading": "Capítulo IV — Regulação, supervisão e fiscalização de atividades espaciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regulação, supervisão e fiscalização de atividades espaciais"
+  },
+  "840257784": {
+   "fragment_id": "840258325",
+   "type": 8,
+   "heading": "Secção I — Âmbito, objetivos e atividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Âmbito, objetivos e atividades"
+  },
+  "840257785": {
+   "fragment_id": "840258326",
+   "type": 11,
+   "heading": "Artigo 21.º — Autoridade Espacial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Autoridade Espacial\n\n1 - A Autoridade Espacial tem por missão regular, supervisionar e fiscalizar as atividades espaciais, sem prejuízo das atividades de fiscalização por parte de outras entidades no âmbito das respetivas atribuições e competências.\n\n2 - No exercício das suas atribuições, a Autoridade Espacial atua de forma imparcial, transparente e tempestiva."
+  },
+  "840257786": {
+   "fragment_id": "840258327",
+   "type": 11,
+   "heading": "Artigo 22.º — Atribuições da Autoridade Espacial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Atribuições da Autoridade Espacial\n\n1 - São atribuições da Autoridade Espacial:\n\na) Manter a segurança das atividades espaciais;\n\nb) Emitir certificados de qualificação prévia, atribuir licenças e proceder ao registo de objetos espaciais;\n\nc) Cooperar com as outras entidades nacionais e internacionais com competências relevantes para o setor espacial;\n\nd) Assegurar que não há discriminação no tratamento das entidades que desenvolvem atividades espaciais em circunstâncias análogas;\n\ne) Elaborar regulamentos e dar instruções sobre práticas a ser seguidas para cumprimento do disposto no presente decreto-lei;\n\nf) Fiscalizar o cumprimento das obrigações constantes do presente decreto-lei;\n\ng) Instaurar e instruir processos contraordenacionais e, bem assim, aplicar as sanções previstas;\n\nh) Quaisquer outras que sejam previstas nos respetivos estatutos, aquando da sua criação.\n\n2 - É também atribuição da Autoridade Espacial apreciar e decidir sobre quaisquer pedidos ou reclamações dos operadores, procurando resolver quaisquer litígios relacionados com as obrigações decorrentes do presente decreto-lei, entre entidades a elas sujeitas, sem prejuízo da possibilidade de recurso aos tribunais.\n\n3 - A resposta da Autoridade Espacial aos pedidos ou reclamações previstos no número anterior deve ser notificada às partes interessadas no prazo máximo de seis meses a contar da data da apresentação dos pedidos ou reclamações, com a respetiva fundamentação, devendo ser publicada no sítio da Autoridade Espacial na Internet, sem prejuízo do dever de salvaguardar o sigilo comercial.\n\n4 - A Autoridade Espacial e as demais autoridades e serviços competentes devem cooperar entre si, sempre que necessário, em matérias de interesse comum e conforme seja necessário para a adequada prossecução dos objetivos do presente decreto-lei."
+  },
+  "840257787": {
+   "fragment_id": "840258328",
+   "type": 11,
+   "heading": "Artigo 23.º — Obrigações dos operadores em matéria de supervisão e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Obrigações dos operadores em matéria de supervisão e fiscalização\n\nOs operadores ficam obrigados, relativamente à Autoridade Espacial, a:\n\na) Permitir e facilitar o livre acesso do pessoal técnico às instalações e suas dependências, bem como aos seus aparelhos e instrumentos;\n\nb) Prestar todas as informações e o auxílio necessário para o desempenho das suas funções de supervisão e fiscalização;\n\nc) Manter, nas suas instalações em Portugal, um arquivo devidamente organizado e atualizado, contendo todos os documentos e registos relevantes respeitantes às atividades espaciais por si prosseguidas e ao processo de licenciamento e qualificação prévia, nomeadamente todas as licenças, atestados e pareceres emitidos nesse âmbito, os relatórios de fiscalização e os demais elementos pertinentes, em condições de poderem ser disponibilizados para acesso e consulta da informação por parte da Autoridade Espacial."
+  },
+  "840257788": {
+   "fragment_id": "840258329",
+   "type": 8,
+   "heading": "Secção II — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Regime sancionatório"
+  },
+  "840257789": {
+   "fragment_id": "840258330",
+   "type": 11,
+   "heading": "Artigo 24.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contraordenações\n\n1 - Constituem contraordenações os seguintes factos:\n\na) A prossecução de operações espaciais por operadores não licenciados;\n\nb) O incumprimento, pelo operador licenciado, de qualquer das suas obrigações constantes do artigo 7.º, do n.º 2 do artigo 9.º, e dos respetivos regulamentos de desenvolvimento, bem como o incumprimento das condições específicas previstas na licença;\n\nc) O não registo de objetos espaciais, em violação do artigo 16.º;\n\nd) A não contratação ou manutenção de seguro, em violação do disposto no artigo 19.º;\n\ne) A não participação de incidentes e acidentes, a participação com informação falsa ou incorreta, ou a comunicação não atempada, em violação do artigo 20.º;\n\nf) O incumprimento das obrigações em matéria de supervisão e fiscalização, em violação do artigo 23.º;\n\ng) A submissão de informação falsa ou incorreta no âmbito do processo de licenciamento ou de qualificação prévia, em violação dos artigos 5.º e 7.º;\n\nh) A submissão de informação falsa ou incorreta para o registo de objetos espaciais, em violação do artigo 16.º;\n\ni) A submissão de informação falsa ou incorreta para a transmissão da licença, em violação do artigo 11.º;\n\nj) A não submissão de informação, ou a submissão de informação falsa ou incorreta, para a obtenção de outras autorizações, nos termos do n.º 2 do artigo 8.º;\n\nk) A não atualização da informação no âmbito da qualificação prévia, em violação do disposto no n.º 3 do artigo 5.º;\n\nl) A não comunicação da transferência do objeto espacial ou a submissão de informação falsa ou incorreta, em violação do artigo 17.º;\n\nm) A não notificação prévia das operações espaciais, em violação do n.º 4 do artigo 6.º\n\n2 - As contraordenações previstas nas alíneas a) a f) do número anterior são puníveis com coima de (euro) 1000 a (euro) 3740,98 e de (euro) 10 000 a (euro) 44 891,81, consoante tenham sido praticadas por pessoa singular ou coletiva.\n\n3 - A contraordenação prevista na alínea h) do n.º 1 é punível com coima de (euro) 500 a (euro) 1500 e de (euro) 5000 a (euro) 25 000, consoante tenha sido praticada por pessoa singular ou coletiva.\n\n4 - As contraordenações previstas nas alíneas j), l) e m) do n.º 1 são puníveis com coima de (euro) 250 a (euro) 750 e de (euro) 2500 a (euro) 15 000, consoante tenham sido praticadas por pessoa singular ou coletiva.\n\n5 - As contraordenações previstas nas alíneas g), i) e k) do n.º 1 são puníveis com:\n\na) Coima de (euro) 500 a (euro) 1500 e de (euro) 5000 a (euro) 25 000, consoante tenham sido praticadas por pessoa singular ou coletiva, se:\n\ni) Para as contraordenações previstas nas alíneas g) e i), a informação falsa ou incorreta tenha sido determinante na decisão de concessão ou manutenção da licença, de qualificação prévia ou de autorização para a transmissão da licença;\n\nii) Para as contraordenações previstas na alínea k), a não atualização da informação tenha sido determinante para a manutenção da qualificação prévia;\n\nb) Coima de (euro) 250 a (euro) 750 e de (euro) 2500 a (euro) 15 000, consoante tenham sido praticadas por pessoa singular ou coletiva, se:\n\ni) Para as contraordenações previstas nas alíneas g) e i), a informação falsa ou incorreta não tenha sido determinante na decisão de concessão ou manutenção da licença, de qualificação prévia ou de autorização para a transmissão da licença;\n\nii) Para as contraordenações previstas na alínea k), a não atualização da informação não tenha sido determinante para a manutenção da qualificação prévia.\n\n6 - A tentativa é punível.\n\n7 - Em caso de tentativa ou negligência, os limites mínimo e máximo da coima aplicável são reduzidos para metade.\n\n8 - As contraordenações previstas nos números anteriores são puníveis a título de negligência, nos termos do regime geral do ilícito de mera ordenação social, que é aplicável a tudo quanto não se encontre regulado no presente decreto-lei."
+  },
+  "840257790": {
+   "fragment_id": "840258331",
+   "type": 11,
+   "heading": "Artigo 25.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Sanções acessórias\n\n1 - À contraordenação prevista na alínea a) do n.º 1 do artigo anterior pode ser aplicada a sanção acessória de proibição do desenvolvimento de atividades espaciais por um período de seis meses a dois anos.\n\n2 - Às contraordenações previstas nas alíneas b), d), e), f) e g) do n.º 1 do artigo anterior pode ser aplicada a sanção acessória de suspensão da licença ou de proibição do desenvolvimento de atividades espaciais por um período de seis meses a dois anos, desde que:\n\na) Para as contraordenações previstas na alínea e), os incidentes ou acidentes venham a ser provados como sendo imputáveis, no todo ou em parte, ao operador;\n\nb) Para as contraordenações previstas na alínea g), quando a informação falsa ou incorreta submetida tenha sido determinante na decisão de concessão da licença ou de qualificação prévia."
+  },
+  "840257791": {
+   "fragment_id": "840258332",
+   "type": 11,
+   "heading": "Artigo 26.º — Processamento das contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Processamento das contraordenações\n\n1 - A instauração dos processos de contraordenação é da competência da Autoridade Espacial, cabendo a instrução dos mesmos aos respetivos serviços.\n\n2 - A aplicação das coimas e das sanções acessórias previstas no presente decreto-lei é da competência da Autoridade Espacial.\n\n3 - O montante das coimas reverte para o Estado em 60 % e para a Autoridade Espacial em 40 %.\n\n4 - No caso de contraordenações praticadas em espaço marítimo nacional ou a bordo de embarcações, o montante das coimas reverte para o Estado em 60 %, para a Autoridade Espacial em 30 % e para o Fundo Azul em 10 %.\n\n5 - A Autoridade Espacial pode dar adequada publicidade às contraordenações e sanções acessórias aplicadas ao abrigo do presente decreto-lei, nos termos do regime geral do ilícito de mera ordenação social."
+  },
+  "840257792": {
+   "fragment_id": "840258333",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "840257793": {
+   "fragment_id": "840258334",
+   "type": 11,
+   "heading": "Artigo 27.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira com as necessárias adaptações, sem prejuízo do disposto nos números seguintes.\n\n2 - Os procedimentos de licenciamento das atividades espaciais, de qualificação prévia e de registo e transferência de objetos espaciais relativos a atividades a desenvolver nas Regiões Autónomas dos Açores e da Madeira, bem como o respetivo regime económico e financeiro, são definidos por decreto legislativo regional, sem prejuízo da emissão de parecer vinculativo fundamentado pelos membros do Governo responsáveis pelas áreas da defesa nacional e da administração interna quando estejam em causa questões de defesa e segurança nacional.\n\n3 - O produto das taxas pela emissão dos atos referidos no número anterior, bem como o resultante da aplicação de coimas por contraordenações relativas a atividades a desenvolver nas Regiões Autónomas dos Açores e da Madeira constitui receita própria destas.\n\n4 - Até à entrada em vigor do decreto legislativo regional a que se refere o n.º 2, os procedimentos aí previstos relativos a atividades a desenvolver nas Regiões Autónomas requerem parecer vinculativo do respetivo Governo Regional.\n\n5 - Consideram-se atividades a desenvolver nas Regiões Autónomas aquelas que tenham por base centros de lançamentos no respetivo território terrestre ou marítimo, incluindo, neste caso, as zonas marítimas adjacentes ao respetivo arquipélago."
+  },
+  "840257794": {
+   "fragment_id": "840258335",
+   "type": 11,
+   "heading": "Artigo 28.º — Regime económico e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regime económico e financeiro\n\nSem prejuízo do disposto no n.º 2 do artigo anterior, o regime económico e financeiro das atividades espaciais desenvolvidas ao abrigo do presente decreto-lei pode ser definido por decreto-lei, o qual promove a sustentabilidade económico financeira da atividade da Autoridade Espacial, nomeadamente através da cobrança de taxas e contribuições às empresas e outras entidades sujeitas ao respetivo poder de supervisão."
+  },
+  "840257795": {
+   "fragment_id": "840258336",
+   "type": 11,
+   "heading": "Artigo 29.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regulamentação\n\nOs regulamentos a que se referem os artigos 5.º, 8.º, 16.º e 17.º, bem como as portarias previstas nos artigos 18.º e 19.º, são aprovados no prazo de 180 dias a contar da entrada em vigor do presente decreto-lei."
+  },
+  "840257796": {
+   "fragment_id": "840258337",
+   "type": 11,
+   "heading": "Artigo 30.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Norma transitória\n\nAté à criação, por decreto-lei, da Autoridade Espacial a que se refere o presente decreto-lei, as respetivas atribuições e competências são exercidas pela Autoridade Nacional de Comunicações."
+  },
+  "840257797": {
+   "fragment_id": "840258338",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "840257850": {
+   "fragment_id": "840258298",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "840257819": {
+   "fragment_id": "840258299",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime de acesso e exercício de atividades espaciais com vista a:\n\na) Regular o exercício de atividades espaciais sujeitas à responsabilidade, autorização e supervisão da República Portuguesa, nos termos das obrigações internacionais a que está sujeita;\n\nb) Facilitar e promover o acesso e exercício de atividades espaciais a quaisquer operadores estabelecidos em Portugal e a partir do território português;\n\nd) Assegurar que as atividades espaciais são sustentáveis, assegurando os benefícios do espaço para as futuras gerações, de acordo com os princípios internacionais aplicáveis;\n\ne) Proteger os interesses políticos e estratégicos da República Portuguesa, assegurando que as atividades espaciais não contendem com os mesmos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257820": {
+   "fragment_id": "840258300",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se:\n\na) Às operações espaciais e às operações de centros de lançamento prosseguidas em território nacional, incluindo o espaço marítimo e aéreo sob jurisdição ou soberania portuguesa, a bordo de navios e aeronaves portuguesas ou a partir de instalações sob jurisdição ou soberania portuguesa, independentemente da nacionalidade do operador; e\n\nb) Às operações espaciais, prosseguidas fora do território nacional por operadores portugueses ou estabelecidos em território nacional.\n\n2 - A aplicação do presente decreto-lei não prejudica o disposto na Lei n.º 17/2014, de 10 de abril, e no Decreto-Lei n.º 38/2015, de 12 de março, na sua redação atual.\n\n3 - Consideram-se estabelecidos em território nacional os operadores com residência em território nacional nos termos previstos no Código do Imposto sobre o Rendimento das Pessoas Singulares ou no Código do Imposto sobre o Rendimento das Pessoas Coletivas, consoante se trate de pessoas singulares ou coletivas.\n\n4 - Excluem-se do âmbito de aplicação do presente decreto-lei as atividades espaciais prosseguidas no âmbito de atividades de defesa nacional, com vista à proteção dos interesses estratégicos, de segurança ou de defesa da República Portuguesa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257821": {
+   "fragment_id": "840258301",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) 'Atividades espaciais', as operações espaciais e as operações de centros de lançamento;\n\nb) 'Atividades experimentais', qualquer atividade espacial que se destine primariamente à investigação, criação, desenvolvimento, teste ou validação de novos conceitos, produtos, serviços, tecnologias ou processos, ainda que possa ter, simultaneamente, fins comerciais;\n\nc) 'Centro de lançamento', qualquer instalação, fixa ou móvel, destinada a operações de lançamento e/ou retorno de objetos espaciais, incluindo todos os equipamentos dessa instalação que sejam necessários para a realização de lançamentos ou retornos;\n\nd) 'Exploração de centro de lançamento', a prestação de serviços associados às operações espaciais a partir de um centro de lançamento, tais como os serviços de transporte, receção, teste, inspeção, armazenamento, processamento, manutenção, recolha e tratamento de dados, em benefício próprio ou de terceiro;\n\ne) «Objeto espacial»:\n\ni) Um objeto lançado ou que se pretenda lançar para o espaço, seja abaixo da órbita terrestre, para órbita terrestre ou para além da mesma;\n\nii) Qualquer veículo que se destine a lançar um objeto previsto na subalínea anterior ou a proceder ao retorno do mesmo, ainda que seja operado sem esse objeto, incluindo no âmbito de atividades experimentais, doravante designado lançador;\n\niii) Qualquer parte componente dos objetos espaciais previstos nas subalíneas anteriores;\n\nf) 'Operação de centro de lançamento', a gestão, administração ou direção e exploração de um centro de lançamento;\n\ng) «Operação espacial» qualquer operação deste tipo:\n\ni) 'Operação de lançamento e/ou retorno', a atividade pela qual se pretende enviar ou lançar objetos espaciais para o espaço, seja abaixo da órbita terrestre, para órbita terrestre ou para além da mesma, e o retorno de objetos espaciais em órbita à superfície da Terra, sendo que, se aplicável, a operação de lançamento tem início quando se torna irreversível, terminando com a separação do lançador e do objeto destinado a ser colocado no espaço;\n\nii) 'Operação de comando e controlo', a atividade que consiste no exercício de controlo sobre o objeto espacial que esteja no espaço, ainda que de forma temporária ou em trânsito, ou, caso o objeto não possa ser controlado ou guiado, a atividade que consiste na contratação do seu lançamento ou na sua exploração, as quais, se aplicável, têm início com a separação do lançador e do objeto espacial por si lançado, terminando quando se verifica a primeira das seguintes ocorrências:\n\na) A realização das últimas manobras de desorbitação e das atividades de passivação;\n\nb) A perda de controlo do objeto espacial;\n\nc) O momento do início do retorno à Terra ou desintegração completa do objeto espacial na atmosfera;\n\nh) 'Operador de centro de lançamento', a pessoa singular ou coletiva que gere, administra, dirige e explora um centro de lançamento;\n\ni) «Operador de comando e controlo» a pessoa singular ou coletiva que realiza operações de comando e controlo de objetos espaciais que estejam no espaço, ainda que de forma temporária ou em trânsito, ou, sempre que o objeto não possa ser controlado ou guiado, a pessoa singular ou coletiva que contratou o seu lançamento ou que procede à sua exploração, conforme notificado à Autoridade Espacial no processo de qualificação prévia e licenciamento;\n\nj) «Operador de lançamento e/ou retorno» a pessoa singular ou coletiva que realiza operações de lançamento e/ou de retorno de objetos espaciais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257851": {
+   "fragment_id": "840258302",
+   "type": 1,
+   "heading": "Capítulo II — Exercício de atividades espaciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Exercício de atividades espaciais"
+  },
+  "840257822": {
+   "fragment_id": "840258304",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de acesso",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de acesso\n\n1 - As atividades espaciais estão sujeitas a:\n\na) Licença obrigatória para as operações de lançamento e/ou retorno e para as operações de comando e controlo; e\n\nb) Licença obrigatória para as operações de centros de lançamento; e\n\nc) Registo de objetos espaciais.\n\n2 - As atividades espaciais podem ainda ser objeto de qualificação prévia facultativa de operadores, bem como de sistemas, processos, características e especificações, nos termos do artigo seguinte, com vista a simplificar o procedimento de licenciamento.\n\n3 - Não estão sujeitas a licença obrigatória as atividades espaciais referidas na alínea b) do n.º 1 do artigo 2.º quando o operador comprovar, de forma satisfatória para a Autoridade Espacial, que obteve as devidas autorizações e cumpre o disposto na lei de um Estado com o qual a República Portuguesa concluiu um acordo que assegure o cumprimento das obrigações internacionais a que esta está sujeita.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257823": {
+   "fragment_id": "840258305",
+   "type": 11,
+   "heading": "Artigo 5.º — Qualificação prévia",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 5.º — Qualificação prévia\n\n1 - Os operadores podem solicitar a qualificação prévia de qualquer dos elementos indicados no número seguinte junto da Autoridade Espacial, a qual aprova, por regulamento, o procedimento da respetiva atribuição.\n\n2 - A qualificação prévia dispensa a submissão de informação constante do certificado de qualificação prévia no procedimento de licenciamento das operações espaciais previsto nos artigos seguintes, destinando-se a atestar:\n\na) Que o operador de centro de lançamento, o operador de lançamento e/ou retorno e o operador de comando e controlo têm a capacidade técnica, económica e financeira para as atividades espaciais que pretendem realizar;\n\nb) (Revogada.)\n\nc) Para o operador de lançamento e/ou retorno e para o operador de comando e controlo, as características e especificações do respetivo objeto espacial;\n\nd) Para o operador de comando e controlo, os sistemas e processos implementados nas operações de comando e controlo.\n\n3 - Os operadores que tenham obtido um certificado de qualificação prévia devem proceder à atualização regular da informação submetida, nos termos a definir pelo regulamento a que se refere o n.º 1.\n\n4 - Quando a atualização da informação submetida, nos termos do número anterior, implicar alterações às condições nas quais se baseou a qualificação prévia, a Autoridade Espacial notifica o operador para este se pronunciar, sob pena de perda do certificado, sobre se pretende a abertura de um novo processo de qualificação prévia.\n\n5 - A qualificação prévia extingue-se nos seguintes casos:\n\na) Cessação de atividade do operador;\n\nb) Renúncia ao certificado de qualificação prévia, mediante declaração escrita dirigida à Autoridade Espacial, com uma antecedência não inferior a 90 dias relativamente à data pretendida para a cessação produzir efeitos, salvo se aquela entidade consentir expressamente em prazo menor;\n\nc) Alteração das condições determinantes para a atribuição da qualificação prévia, nos termos do número anterior, designadamente quando as mesmas afetem a capacidade técnica, económica ou financeira do operador ou o funcionamento regular e adequado dos elementos verificados;\n\nd) Incumprimento das determinações impostas pela Autoridade Espacial, designadamente na sequência de ações de fiscalização;\n\ne) Imperativos relacionados com a segurança de pessoas ou bens, determinados pelas autoridades competentes.\n\n6 - A qualificação prévia pode também extinguir-se por decisão da Autoridade Espacial nos casos em que tenha sido atribuída a um operador titular de licença e a respetiva licença se extinguir, desde que a titularidade dessa licença tenha tido um impacto relevante nas condições de atribuição da qualificação prévia.\n\n7 - A extinção da qualificação prévia ao abrigo das alíneas c), d) e e) do n.º 5 e do número anterior está sujeita a prévia notificação ao operador, podendo este pronunciar-se, por escrito, no prazo fixado pela Autoridade Espacial, o qual não pode ser inferior a 10 dias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257866": {
+   "fragment_id": "840258307",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipos de licenças",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 6.º — Tipos de licenças\n\n1 - A licença para o exercício de cada tipo de operação espacial é obtida junto da Autoridade Espacial, podendo ser de três tipos:\n\na) Licença unitária, aplicável a uma única operação espacial;\n\nb) Licença global, aplicável a uma série de operações espaciais do mesmo tipo ou a uma série de operações espaciais de tipo diferente, conduzidas pelo mesmo operador;\n\nc) Licença conjunta, aplicável a operações espaciais do mesmo tipo ou de tipo diferente, que sejam conduzidas por mais do que um operador, caso em que a licença é atribuída apenas a um dos operadores envolvidos nas operações em causa.\n\n2 - A licença conjunta pode ser:\n\na) Integrada, quando a licença engloba uma operação de lançamento e/ou retorno do lançador e uma ou mais operações de lançamento de objetos espaciais lançados por esse lançador, podendo igualmente englobar as operações de comando e controlo destes objetos;\n\nb) Múltipla, quando a licença engloba uma série de operações de lançamento e/ou retorno do(s) lançador(es) e uma ou mais operações de lançamento de objetos espaciais lançados por esse(s) lançador(es), podendo igualmente englobar as operações de comando e controlo destes objetos.\n\n3 - O operador titular de uma licença global ou de uma licença conjunta múltipla deve proceder à notificação prévia das operações espaciais licenciadas, junto da Autoridade Espacial, com a antecedência mínima de sete dias da data prevista para realização das mesmas.\n\n4 - A Autoridade Espacial deve comunicar de imediato a notificação prévia recebida nos termos do número anterior:\n\na) À Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), no caso de operações espaciais que envolvam operações de lançamento e/ou retorno que se desenvolvam no espaço marítimo nacional;\n\nb) Às Regiões Autónomas dos Açores e da Madeira, no caso de operações espaciais que envolvam operações de lançamento e/ou retorno que se desenvolvam a partir do seu território terrestre ou marítimo, incluindo, neste caso, as zonas marítimas adjacentes aos respetivos arquipélagos;\n\nc) À Agência Espacial Portuguesa.\n\n5 - No caso de operações espaciais que se desenvolvam no espaço marítimo nacional, a Autoridade Espacial deve comunicar de imediato a notificação prévia recebida nos termos do número anterior à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257867": {
+   "fragment_id": "840258308",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições para atribuição de licença",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 7.º — Condições para atribuição de licença\n\n1 - A licença é atribuída mediante verificação, pela Autoridade Espacial, de que:\n\na) O requerente tem a capacidade técnica, económica e financeira para as operações espaciais que pretende realizar;\n\nb) A operação espacial acautela devidamente danos na superfície da Terra, no espaço aéreo e no espaço ultraterrestre, de acordo com as obrigações nacionais e internacionais aplicáveis;\n\nc) A operação espacial garante a minimização, na máxima extensão possível, de detritos espaciais, de acordo com os princípios e obrigações internacionais;\n\nd) A operação espacial é compatível com as normas de segurança pública, incluindo as relativas à saúde pública e segurança de pessoas e bens;\n\ne) A operação espacial não coloca em risco a segurança interna e os interesses estratégicos da República Portuguesa nem viola as suas obrigações internacionais;\n\nf) Todas as outras autorizações e títulos necessários para efeitos da operação espacial foram emitidas pelas respetivas entidades competentes;\n\ng) O requerente contratou o seguro obrigatório de responsabilidade civil previsto no artigo 19.º\n\n2 - Os critérios utilizados para a avaliação do cumprimento das condições previstas no número anterior são densificados em regulamento a emitir pela Autoridade Espacial.\n\n3 - A licença pode prever o cumprimento de condições adicionais às previstas no n.º 1, incluindo em matéria ambiental, as quais carecem de aceitação expressa do operador, sem a qual a licença não é concedida.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257868": {
+   "fragment_id": "840258309",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento de atribuição de licença",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 8.º — Procedimento de atribuição de licença\n\n1 - A tramitação do procedimento de atribuição de licenças é definida em regulamento a aprovar pela Autoridade Espacial, devendo a decisão sobre a atribuição de licença ser emitida pela Autoridade Espacial no prazo de 90 dias após a receção do pedido.\n\n2 - O regulamento a aprovar pela Autoridade Espacial pode prever um procedimento único para o licenciamento de operações espaciais do mesmo tipo ou de tipo diferente, que sejam conduzidas por mais do que um operador, com atribuição de licença a cada um dos operadores envolvidos.\n\n3 - Para efeitos de obtenção de outras autorizações eventualmente necessárias, nos termos previstos na alínea f) do n.º 1 do artigo anterior, deve ser seguido o seguinte procedimento:\n\na) No caso da licença unitária e da licença conjunta integrada, a informação e documentação necessária para as outras autorizações deve ser submetida junto da Autoridade Espacial conjuntamente com a informação e documentação para obtenção da licença de operações espaciais;\n\nb) No caso da licença global e da licença conjunta múltipla, e se assim indicado pela Autoridade Espacial, a informação e documentação necessária para as outras autorizações deve ser submetida previamente a cada operação, não podendo o operador proceder à operação espacial sem as referidas autorizações.\n\n4 - No caso de o operador ter requerido, diretamente junto das entidades competentes, as outras autorizações eventualmente necessárias, nos termos previstos na alínea f) do n.º 1 do artigo anterior, o mesmo deve indicar à Autoridade Espacial as autorizações obtidas.\n\n5 - A atribuição de licenças para operações espaciais requer os seguintes pareceres, sem prejuízo dos demais que sejam legalmente necessários:\n\na) Parecer da DGRM, no âmbito das suas competências, para operações de lançamento e/ou retorno que se desenvolvam no espaço marítimo nacional, para cumprimento do disposto na alínea d) do n.º 1 do artigo 7.º; e\n\nb) Parecer da Agência Espacial Portuguesa, no âmbito das suas competências, para cumprimento do disposto na alínea a) do n.º 1 do artigo 7.º\n\n6 - A Autoridade Espacial notifica as Regiões Autónomas dos Açores e da Madeira da atribuição de licenças para operações de lançamento e/ou retorno que se desenvolvam a partir do seu território terrestre ou marítimo incluindo, neste caso, as zonas marítimas adjacentes aos respetivos arquipélagos.\n\n7 - O regulamento a aprovar pela Autoridade Espacial pode consagrar um regime especial de licenciamento, que se pode traduzir na redução de prazos ou na simplificação de procedimentos, nas situações em que:\n\na) O requerente da licença seja uma entidade pública ou uma organização internacional que atue ao abrigo de acordos internacionais celebrados com a República Portuguesa;\n\nb) A operação espacial pretendida prossiga exclusivamente finalidades científicas, de investigação e desenvolvimento, educação ou formação ou se traduza em atividades experimentais que tenham, comprovadamente, reduzido risco para a superfície da Terra, o espaço aéreo e o espaço ultraterrestre, incluindo para a saúde pública e a segurança de pessoas e bens;\n\nc) A operação espacial seja prosseguida fora do território nacional por operadores portugueses ou estabelecidos em território nacional;\n\nd) O requerente da licença tenha obtido autorização para o exercício da atividade espacial junto de outro Estado cujo regime jurídico assegure o cumprimento das obrigações internacionais aplicáveis.\n\n8 - A Autoridade Espacial pode exigir do titular de uma licença global ou de uma licença conjunta múltipla a submissão da informação constante do certificado de qualificação prévia extinto nos termos dos n.os 5 e 6 do artigo 5.º para a realização de operações espaciais ao abrigo da licença global ou da licença conjunta múltipla, não podendo as referidas operações espaciais ser realizadas sem confirmação escrita, pela Autoridade Espacial, da conformidade da referida informação com o disposto no presente decreto-lei, a ser emitida no prazo de 30 dias a contar da submissão da informação completa pelo operador.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257869": {
+   "fragment_id": "840258310",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos e deveres do titular da licença",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 9.º — Direitos e deveres do titular da licença\n\n1 - A atribuição de uma licença confere ao seu titular o direito à realização das operações espaciais correspondentes, nos termos do presente decreto-lei e do conteúdo da respetiva licença.\n\n2 - São deveres do titular da licença os seguintes:\n\na) Cumprir e respeitar os princípios internacionais de utilização do espaço, nomeadamente nos termos dos tratados espaciais aos quais a República Portuguesa está vinculada, incluindo em matéria de utilização pacífica, segurança e minimização de detritos espaciais;\n\nb) Proceder ao registo dos objetos espaciais, nos termos do artigo 16.º;\n\nc) Constituir e manter válido o seguro obrigatório de responsabilidade civil exigido nos termos do artigo 19.º;\n\nd) Prever e acautelar devidamente quaisquer danos na Terra e no espaço, direta ou indiretamente, de acordo com as obrigações nacionais e internacionais aplicáveis;\n\ne) Cumprir todas as disposições legais e regulamentares em vigor, bem como as condições previstas na licença atribuída, nos termos do n.º 3 do artigo 7.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257870": {
+   "fragment_id": "840258343",
+   "type": 3,
+   "heading": "Subsecção — Licenciamento da operação de centro de lançamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-02"
+   ],
+   "markdown": "##### Subsecção — Licenciamento da operação de centro de lançamento\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-02"
+  },
+  "840257814": {
+   "fragment_id": "840258344",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Licença de centro de lançamento",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 9.º-A — Licença de centro de lançamento\n\nA licença para a operação de um centro de lançamento é obtida junto da Autoridade Espacial.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257815": {
+   "fragment_id": "840258345",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Condições para atribuição de licença",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 9.º-B — Condições para atribuição de licença\n\n1 - A licença para a operação de um centro de lançamento é atribuída mediante verificação, pela Autoridade Espacial, de que:\n\na) O requerente tem a capacidade técnica, económica e financeira para a instalação e a operação do centro de lançamento, bem como reconhecida idoneidade e credibilidade;\n\nb) A localização pretendida para o centro de lançamento, a sua instalação, bem como as suas infraestruturas e a sua operação:\n\ni) Acautelam devidamente a segurança das operações de lançamento e/ou retorno;\n\nii) São compatíveis com as normas de segurança pública aplicáveis, incluindo as relativas à saúde pública e à segurança de pessoas e bens;\n\niii) Garantem a proteção do ambiente, a gestão de resíduos, e a minimização, na máxima extensão possível, de detritos espaciais, de acordo com os princípios e obrigações internacionais aplicáveis;\n\niv) Respeitam os interesses estratégicos da República Portuguesa e as suas obrigações internacionais, não colocando em causa a sua segurança interna;\n\nv) Cumprem todas as outras normas que sejam aplicáveis;\n\nc) Todas as outras autorizações e títulos necessários para efeitos da localização, instalação e operação do centro de lançamento foram emitidas pelas respetivas entidades competentes, incluindo das entidades regionais relevantes no âmbito das suas competências quando a localização pretendida do centro de lançamento se encontra no seu território terrestre ou marítimo, incluindo, neste caso, as zonas marítimas adjacentes aos respetivos arquipélagos.\n\n2 - Sem prejuízo do disposto no artigo 9.º-D, os critérios utilizados para a avaliação do cumprimento das condições previstas nas alíneas a) e b) do número anterior são densificados em regulamento a emitir pela Autoridade Espacial.\n\n3 - A licença pode prever o cumprimento de condições adicionais às previstas no n.º 1, as quais carecem de aceitação expressa do operador, sem a qual a licença não é concedida.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257816": {
+   "fragment_id": "840258346",
+   "type": 11,
+   "heading": "Artigo 9.º-C — Procedimento de atribuição de licença",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 9.º-C — Procedimento de atribuição de licença\n\n1 - A tramitação do procedimento de atribuição de licença é definida em regulamento a aprovar pela Autoridade Espacial, devendo a decisão sobre a atribuição da licença ser emitida pela Autoridade Espacial no prazo de 240 dias após a receção do pedido.\n\n2 - A Autoridade Espacial pode obter o posicionamento e requerer os pareceres que considere relevantes para a sua decisão sobre a atribuição da licença.\n\n3 - A atribuição de licença para operação de centros de lançamento requer ainda aprovação prévia do Governo nos termos do artigo seguinte, para cumprimento do disposto nas alíneas a) e b) do n.º 1 do artigo 9.º-B.\n\n4 - Para efeitos de obtenção de outras autorizações eventualmente necessárias, nos termos previstos na alínea c) do n.º 1 do artigo anterior, a informação e documentação necessária para as referidas autorizações deve ser submetida junto da Autoridade Espacial conjuntamente com a informação e documentação para obtenção da licença.\n\n5 - No caso de o operador ter requerido, diretamente junto das entidades competentes, as outras autorizações eventualmente necessárias, nos termos previstos na alínea c) do n.º 1 do artigo anterior, o mesmo deve indicar à Autoridade Espacial as autorizações obtidas.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257817": {
+   "fragment_id": "840258347",
+   "type": 11,
+   "heading": "Artigo 9.º-D — Aprovação prévia do centro de lançamento",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 9.º-D — Aprovação prévia do centro de lançamento\n\n1 - Compete aos membros do Governo responsáveis pelas áreas da defesa, do mar, quando seja implantado no espaço marítimo nacional, e da ciência e tecnologia emitir a aprovação prévia para o centro de lançamento, no prazo de 210 dias após a receção do pedido na Autoridade Espacial.\n\n2 - A aprovação prévia a que se refere o número anterior é instruída pela Agência Espacial Portuguesa, nos termos do n.º 4, a qual, nesta qualidade, procede à audição das Regiões Autónomas nos termos e para os efeitos do disposto na alínea b) do n.º 4.\n\n3 - A Autoridade Espacial remete à Agência Espacial Portuguesa:\n\na) O pedido de licenciamento, no prazo de 5 dias após a receção do pedido;\n\nb) O seu projeto de decisão para a atribuição ou não do licenciamento, no prazo de 80 dias após receção do pedido.\n\n4 - No âmbito da instrução do processo para emissão da aprovação prévia, compete à Agência Espacial Portuguesa designadamente o seguinte:\n\na) Obter o posicionamento das entidades públicas relevantes;\n\nb) Proceder à audição das Regiões Autónomas dos Açores e da Madeira quando a localização pretendida do centro de lançamento se encontrar no seu território terrestre ou marítimo, incluindo, neste caso, as zonas marítimas adjacentes aos respetivos arquipélagos, devendo as Regiões Autónomas emitir parecer vinculativo no prazo máximo de 90 dias;\n\nc) Emitir parecer para os efeitos do disposto na alínea a) do n.º 1 do artigo 9.º-B, no âmbito das suas competências;\n\nd) Requerer quaisquer informações e informações adicionais que considere relevantes, incluindo junto da Autoridade Espacial;\n\ne) Apresentar, no prazo de 160 dias após receção do pedido na Autoridade Espacial, proposta de decisão preliminar ao Governo, juntamente com todos os pareceres e informações recolhidos, incluindo o seu próprio parecer e o projeto de decisão da Autoridade Espacial.\n\n5 - Os prazos previstos no presente artigo podem ser reduzidos pela Agência Espacial Portuguesa em um terço nas situações previstas no n.º 6 do artigo 9.º-C.\n\n6 - A aprovação prévia do Governo pode, como condição da emissão da mesma, impor o cumprimento de condições associadas à instalação, construção e operação do centro de lançamento, e que podem, entre outras, incluir condições de natureza económica, financeira, tecnológica, ambiental, de segurança de pessoas e bens, e de segurança interna.\n\n7 - As condições impostas pelo Governo nos termos do número anterior ficam refletidas na licença emitida pela Autoridade Espacial, conforme o n.º 3 do artigo 9.º-B.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257818": {
+   "fragment_id": "840258348",
+   "type": 11,
+   "heading": "Artigo 9.º-E — Direitos e deveres do titular da licença",
+   "in_force_from": "2024-02-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-02"
+   ],
+   "markdown": "###### Artigo 9.º-E — Direitos e deveres do titular da licença\n\n1 - A atribuição de uma licença de operação de centro de lançamento confere ao seu titular o direito à instalação e operação do centro de lançamento, nos termos do presente decreto-lei e do conteúdo da respetiva licença, sem prejuízo do disposto na alínea c) do n.º 1 do artigo 9.º-B.\n\n2 - São deveres do titular da licença cumprir todas as disposições legais e regulamentares em vigor, bem como as condições previstas na licença atribuída.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-02"
+  },
+  "840257828": {
+   "fragment_id": "840258311",
+   "type": 11,
+   "heading": "Artigo 10.º — Duração da licença",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 10.º — Duração da licença\n\n1 - As licenças unitárias e as licenças conjuntas integradas são atribuídas pelo período de tempo correspondente às operações licenciadas.\n\n2 - As licenças globais e as licenças conjuntas múltiplas podem ser atribuídas para um número determinado de operações ou por um determinado período de tempo após a sua emissão.\n\n3 - As licenças de operação de centro de lançamento são atribuídas por um período máximo inicial de 15 anos, sem prejuízo da sua renovação, nos termos constantes do regulamento da Autoridade Espacial, conforme o disposto no n.º 1 do artigo 9.º-C, a qual só pode ser concedida nos casos em que não tenha havido modificação legal, regulamentar, estratégica ou outra que afete as condições ali mencionadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257829": {
+   "fragment_id": "840258312",
+   "type": 11,
+   "heading": "Artigo 11.º — Transmissão da licença",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 11.º — Transmissão da licença\n\n1 - A transmissão de licença está sujeita a autorização prévia da Autoridade Espacial na sequência de pedido do titular, a qual só pode ser concedida desde que sejam observadas as condições da sua atribuição.\n\n2 - O pedido de transmissão deve fornecer todos os elementos relativos à identificação e ao perfil do transmissário, bem como ser acompanhado de declaração deste de que aceita a transmissão e todas as condições da licença.\n\n3 - A Autoridade Espacial decide sobre a transmissão da licença no prazo de 60 dias, no caso das licenças de operações espaciais, e no prazo de 120 dias, no caso das licenças de operação de centro de lançamento, e averba, em caso de deferimento, a identificação do transmissário na licença de operador.\n\n4 - A transmissão das licenças de operação de centro de lançamento está sujeita a aprovação prévia do Governo, com faculdade de delegação na Agência Espacial Portuguesa.\n\n5 - A Autoridade Espacial notifica as Regiões Autónomas dos Açores e da Madeira da transmissão das licenças de:\n\na) Operações de lançamento e/ou retorno, que se desenvolvam a partir do seu território terrestre ou marítimo incluindo, neste caso, as zonas marítimas adjacentes aos respetivos arquipélagos; e\n\nb) Operações de centros de lançamento cuja localização se encontre no seu território terrestre ou marítimo, incluindo, neste caso, as zonas marítimas adjacentes aos respetivos arquipélagos.\n\n6 - O transmissário fica sujeito aos mesmos deveres, obrigações e encargos do transmitente, bem como a todos os demais que eventualmente lhe sejam impostos na autorização da transmissão.\n\n7 - A autorização a que se refere o presente artigo caduca se o negócio jurídico que titula a transmissão não for celebrado no prazo nela fixado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257830": {
+   "fragment_id": "840258313",
+   "type": 11,
+   "heading": "Artigo 12.º — Extinção da licença",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 12.º — Extinção da licença\n\n1 - A licença extingue-se por caducidade, renúncia ou revogação, nos termos dos artigos seguintes.\n\n2 - Em caso de extinção da licença por qualquer dos motivos referidos no número anterior, a Autoridade Espacial pode:\n\na) Ordenar ao operador que adote, a suas expensas, as medidas necessárias com vista a assegurar a continuação temporária ou a cessação segura da operação espacial e da operação do centro de lançamento, conforme aplicável, bem como a limitar o risco de danos, incluindo, quando aplicável, no caso de centros de lançamento, a sua desinstalação, continuando o operador vinculado a todas as obrigações decorrentes do presente decreto-lei e da sua licença para o efeito;\n\nb) Transmitir o exercício da operação espacial ou da operação do centro de lançamento, conforme aplicável, para outro operador interessado com vista a assegurar a continuidade da operação ou tomar, no caso da licença de operações espaciais, e a expensas do operador cuja licença se extinguiu, as ações necessárias para desorbitar ou destruir o objeto espacial.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257811": {
+   "fragment_id": "840258314",
+   "type": 11,
+   "heading": "Artigo 13.º — Caducidade da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Caducidade da licença\n\nA licença caduca nas seguintes situações:\n\na) Em caso de cessação de atividade do operador;\n\nb) Quando atingir o termo do prazo pelo qual foi concedida."
+  },
+  "840257831": {
+   "fragment_id": "840258315",
+   "type": 11,
+   "heading": "Artigo 14.º — Renúncia à licença",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 14.º — Renúncia à licença\n\n1 - O titular pode, antes do termo do respetivo prazo, renunciar à licença que lhe tenha sido atribuída.\n\n2 - O aviso de renúncia à licença é apresentado por escrito junto da Autoridade Espacial, com uma antecedência não inferior a 120 dias, no caso de licença de operações espaciais, e de 180 dias no caso de licença de operação de centro de lançamento, relativamente à data pretendida para a renúncia produzir efeitos, salvo se aquela entidade autorizar expressamente num prazo menor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257832": {
+   "fragment_id": "840258316",
+   "type": 11,
+   "heading": "Artigo 15.º — Revogação da licença",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 15.º — Revogação da licença\n\n1 - A licença é revogada pela Autoridade Espacial nas seguintes situações:\n\na) Quando o seu titular faltar ao cumprimento dos deveres relativos ao exercício da atividade, nos termos da lei e da respetiva licença, incluindo quando, por qualquer motivo, as autorizações necessárias e emitidas por outras entidades competentes cessem ou o seguro obrigatório de responsabilidade civil, caso exigido, deixar de estar em vigor ou não permitir assegurar as condições aplicáveis;\n\nb) Quando o seu titular não cumprir as determinações impostas pela Autoridade Espacial, designadamente na sequência de ações de fiscalização;\n\nc) Quando o seu titular não cumprir reiteradamente o dever de envio à Autoridade Espacial das informações referidas no artigo 23.º;\n\nd) Por imperativos relacionados com a segurança de pessoas ou bens, determinados pelas autoridades competentes.\n\ne) Por imperativos relacionados com a proteção dos interesses estratégicos da República Portuguesa.\n\n2 - A decisão de revogação não pode ser proferida sem prévia notificação ao titular da licença, podendo este pronunciar-se, por escrito, no prazo fixado pela Autoridade Espacial, o qual não pode ser inferior a 10 dias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257833": {
+   "fragment_id": "840258318",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo de objetos espaciais",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 16.º — Registo de objetos espaciais\n\n1 - São objeto de registo pela e junto da Autoridade Espacial os objetos espaciais relativamente aos quais a República Portuguesa seja o Estado de lançamento, de acordo com as suas obrigações internacionais.\n\n2 - O registo contém a seguinte informação:\n\na) Indicação do operador de lançamento responsável;\n\nb) Indicação do proprietário e do operador de comando e controlo responsável;\n\nc) Designação do objeto espacial, número de registo e número de alocação de frequências atribuído pelas entidades competentes;\n\nd) Data e local do lançamento;\n\ne) Parâmetros orbitais básicos, incluindo período nodal, inclinação, apogeu e perigeu;\n\nf) Função geral do objeto espacial.\n\ng) Outras informações que venham a ser consideradas necessárias ou úteis no âmbito do registo internacional de objetos espaciais.\n\n3 - São também objeto de inscrição no registo junto da Autoridade Espacial, sempre que o mesmo não tenha sido efetuado ao abrigo dos números anteriores:\n\na) Os objetos espaciais cujo lançamento, retorno ou comando e controlo sejam licenciados em Portugal, incluindo as suas características técnicas e especificações, sendo o respetivo operador o responsável pela promoção do registo;\n\nb) A transferência da titularidade de quaisquer objetos espaciais cujo lançamento, retorno ou comando e controlo esteja licenciado no âmbito do presente decreto-lei, sendo o respetivo transmitente responsável pela promoção do registo;\n\nc) O fim da vida útil de um objeto espacial cuja operação e controlo estivesse licenciada em Portugal, sendo o respetivo operador de comando e controlo responsável pela promoção do registo;\n\n4 - A Autoridade Espacial densifica, em regulamento, os elementos a registar nos termos do número anterior e pode ainda determinar a obrigação de disponibilização de elementos adicionais aos previstos nos números anteriores, incluindo os necessários para o cumprimento de regras ou resoluções internacionais supervenientes.\n\n5 - O operador deve submeter a informação para o registo à Autoridade Espacial no prazo de dois dias após o lançamento do objeto espacial ou do facto relevante para efeitos de inscrição, atualização ou alteração da informação constante do registo.\n\n6 - Qualquer atualização ou alteração da informação constante do registo deve ser também notificada pelo operador à Autoridade Espacial no prazo de dois dias.\n\n7 - O registo de objetos espaciais é público, devendo a Autoridade Espacial desenvolver mecanismos de proteção da informação comercialmente sensível ou classificada que possa constar do mesmo.\n\n8 - A Autoridade Espacial, através do Ministério dos Negócios Estrangeiros, comunica ao Secretário-Geral da Organização das Nações Unidas todas as informações necessárias para o registo de objetos espaciais junto da Organização das Nações Unidas, nos termos das obrigações internacionais aplicáveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257834": {
+   "fragment_id": "840258319",
+   "type": 11,
+   "heading": "Artigo 17.º — Transferência de objetos espaciais",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 17.º — Transferência de objetos espaciais\n\n1 - A transferência da titularidade de objetos espaciais cujo lançamento, retorno ou comando e controlo esteja licenciado ao abrigo do presente decreto-lei deve ser comunicada à Autoridade Espacial, nos termos e com a informação a definir em regulamento desta.\n\n2 - A comunicação referida no número anterior é acompanhada, pelo menos, de informação sobre a identificação do transmissário, com indicação do nome ou denominação social, morada ou sede, capital social e contactos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257852": {
+   "fragment_id": "840258320",
+   "type": 1,
+   "heading": "Capítulo III — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Responsabilidade"
+  },
+  "840257835": {
+   "fragment_id": "840258322",
+   "type": 11,
+   "heading": "Artigo 19.º — Seguro obrigatório",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 19.º — Seguro obrigatório\n\n1 - Os operadores licenciados ao abrigo do presente decreto-lei devem ter a sua responsabilidade coberta por um contrato de seguro de responsabilidade civil de capital mínimo a definir em portaria a aprovar pelos membros do Governo responsáveis pelas áreas das finanças, da ciência e tecnologia e do mar, a qual pode também regular as demais condições mínimas do contrato de seguro.\n\n2 - O titular da licença de operações espaciais deve fazer prova da existência da apólice aquando do pedido de emissão da licença e, subsequentemente, até 31 de janeiro de cada ano, iniciando-se a cobertura efetiva do risco com a atribuição da licença.\n\n3 - Através de portaria dos membros do Governo responsáveis pelas áreas das finanças, da ciência e tecnologia e do mar, o seguro pode ser dispensado ou o montante segurado pode ser reduzido nos seguintes casos:\n\na) Operações consistentes no lançamento, retorno, comando e controlo de objetos espaciais de pequenas dimensões, tal como definidos pela Autoridade Espacial;\n\nb) Operações espaciais prosseguidas para finalidades exclusivamente científicas, de investigação e desenvolvimento ou de educação e formação;\n\nc) Se o operador apresentar uma outra garantia financeira conforme o permitido pela referida portaria e que seja aceite pela Autoridade Espacial.\n\nd) Operações que comprovadamente acarretem riscos reduzidos, tal como definidos pela Autoridade Espacial.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257836": {
+   "fragment_id": "840258323",
+   "type": 11,
+   "heading": "Artigo 20.º — Participação de incidentes e acidentes",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 20.º — Participação de incidentes e acidentes\n\n1 - Os operadores devem participar à Autoridade Espacial, no prazo de 24 horas a contar do momento em que tenham conhecimento da ocorrência, os incidentes ocorridos nas suas instalações ou no âmbito da sua atividade espacial, bem como qualquer manobra, mau funcionamento ou anomalia do objeto espacial ou outras circunstâncias decorrentes ou relacionadas com a sua atividade espacial, dos quais possa resultar um incidente ou um acidente grave.\n\n2 - Os operadores devem participar de imediato à Autoridade Espacial e à Autoridade Nacional de Emergência e Proteção Civil (ANEPC), ao Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários, bem como ao Gabinete de Investigação de Acidentes Marítimos e da Autoridade para a Meteorologia Aeronáutica em relação a atividades que se desenvolvam no espaço marítimo nacional, todos os acidentes graves ocorridos nas suas instalações ou no âmbito da sua atividade espacial, que sejam passíveis de gerar consequências para o exterior.\n\n3 - A Autoridade Espacial é responsável por dirigir a comunicação recebida nos termos dos números anteriores às demais entidades competentes, devendo atuar em estreita articulação com as mesmas.\n\n4 - A ANEPC atua no âmbito do Sistema Integrado de Operações de Proteção e Socorro, em articulação com as entidades nele intervenientes.\n\n5 - Sem prejuízo das competências de outras entidades, sempre que dos incidentes ou acidentes resultem mortes, ferimentos graves ou prejuízos materiais relevantes, cumpre à Autoridade Espacial promover o exame do estado das instalações e de outros elementos relevantes do operador e de outros operadores associados à atividade em causa, bem como proceder à análise das circunstâncias da ocorrência, elaborando um relatório técnico.\n\n6 - Para efeito do disposto nos números anteriores, a Autoridade Espacial comunica à ANEPC a lista dos operadores titulares de licença e a sua localização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257853": {
+   "fragment_id": "840258324",
+   "type": 1,
+   "heading": "Capítulo IV — Regulação, supervisão e fiscalização de atividades espaciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regulação, supervisão e fiscalização de atividades espaciais"
+  },
+  "840257837": {
+   "fragment_id": "840258327",
+   "type": 11,
+   "heading": "Artigo 22.º — Atribuições da Autoridade Espacial",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 22.º — Atribuições da Autoridade Espacial\n\n1 - São atribuições da Autoridade Espacial:\n\na) Manter a segurança das atividades espaciais;\n\nb) Emitir certificados de qualificação prévia, atribuir licenças e proceder ao registo de objetos espaciais;\n\nc) Cooperar com as outras entidades nacionais e internacionais com competências relevantes para o setor espacial;\n\nd) Assegurar que não há discriminação no tratamento das entidades que desenvolvem atividades espaciais em circunstâncias análogas;\n\ne) Elaborar regulamentos e dar instruções sobre práticas a ser seguidas para cumprimento do disposto no presente decreto-lei;\n\nf) Fiscalizar o cumprimento das obrigações constantes do presente decreto-lei;\n\ng) Instaurar e instruir processos contraordenacionais e, bem assim, aplicar as sanções previstas;\n\nh) Quaisquer outras que sejam previstas nos respetivos estatutos, aquando da sua criação.\n\n2 - É também atribuição da Autoridade Espacial apreciar e decidir sobre quaisquer pedidos ou reclamações dos operadores, procurando resolver quaisquer litígios relacionados com as obrigações decorrentes do presente decreto-lei, entre entidades a elas sujeitas, sem prejuízo da possibilidade de recurso aos tribunais.\n\n3 - A resposta da Autoridade Espacial aos pedidos ou reclamações previstos no número anterior deve ser notificada às partes interessadas no prazo máximo de seis meses a contar da data da apresentação dos pedidos ou reclamações, com a respetiva fundamentação, devendo ser publicada no sítio da Autoridade Espacial na Internet, sem prejuízo do dever de salvaguardar o sigilo comercial.\n\n4 - A Autoridade Espacial deve, designadamente, publicitar no seu sítio na Internet toda a informação relevante relacionada com certificados de qualificação prévia e licenças emitidas, com os operadores de atividades espaciais e com os objetos espaciais registados.\n\n5 - A Autoridade Espacial e as demais autoridades e serviços competentes devem cooperar entre si, sempre que necessário, em matérias de interesse comum e conforme seja necessário para a adequada prossecução dos objetivos do presente decreto-lei.\n\n6 - A Autoridade Espacial e a Agência Espacial Portuguesa devem cooperar entre si com vista a assegurar a agilização dos processos de licenciamento no âmbito das respetivas competências, designadamente a coordenação na obtenção dos pareceres conforme o n.º 2 do artigo 9.º-C e a alínea a) do n.º 4 do artigo 9.º-D.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257864": {
+   "fragment_id": "840258352",
+   "type": 11,
+   "heading": "Artigo 22.º-A — Agência Espacial Portuguesa",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 22.º-A — Agência Espacial Portuguesa\n\n1 - A Agência Espacial Portuguesa, no âmbito das suas atribuições e competências, participa dos processos de licenciamento das atividades previstas no presente decreto-lei, com o objetivo de, consoante os casos:\n\na) Apoiar o desenvolvimento das atividades espaciais e do tecido empresarial espacial no país;\n\nb) Facilitar o diálogo e a articulação entre os diversos intervenientes nos processos de licenciamento;\n\nc) Pronunciar-se sobre os requerentes da licença e respetivas atividades espaciais no âmbito do seu conhecimento do setor e do mercado.\n\n2 - São atribuições da Agência Espacial Portuguesa, para efeitos do número anterior:\n\na) Emitir os pareceres que lhe sejam solicitados nos termos do presente decreto-lei;\n\nb) Instruir o processo de aprovação prévia nos termos do disposto no artigo 9.º-D;\n\nc) Cooperar com a Autoridade Espacial, incluindo para efeitos do disposto no n.º 6 do artigo 22.º;\n\nd) Cooperar com todas as demais autoridades e serviços competentes em matérias de interesse comum e conforme seja necessário para a adequada prossecução dos objetivos do presente decreto-lei, no âmbito das respetivas atribuições;\n\ne) Quaisquer outras que sejam previstas nos respetivos estatutos e no presente decreto-lei.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257865": {
+   "fragment_id": "840258328",
+   "type": 11,
+   "heading": "Artigo 23.º — Obrigações dos operadores em matéria de supervisão e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Obrigações dos operadores em matéria de supervisão e fiscalização\n\nOs operadores ficam obrigados, relativamente à Autoridade Espacial, a:\n\na) Permitir e facilitar o livre acesso do pessoal técnico às instalações e suas dependências, bem como aos seus aparelhos e instrumentos;\n\nb) Prestar todas as informações e o auxílio necessário para o desempenho das suas funções de supervisão e fiscalização;\n\nc) Manter, nas suas instalações em Portugal, um arquivo devidamente organizado e atualizado, contendo todos os documentos e registos relevantes respeitantes às atividades espaciais por si prosseguidas e ao processo de licenciamento e qualificação prévia, nomeadamente todas as licenças, atestados e pareceres emitidos nesse âmbito, os relatórios de fiscalização e os demais elementos pertinentes, em condições de poderem ser disponibilizados para acesso e consulta da informação por parte da Autoridade Espacial."
+  },
+  "840257838": {
+   "fragment_id": "840258330",
+   "type": 11,
+   "heading": "Artigo 24.º — Contraordenações",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 24.º — Contraordenações\n\n1 - Constituem contraordenações os seguintes factos:\n\na) A prossecução de atividades espaciais por operadores sem a respetiva licença;\n\nb) O incumprimento, pelo operador titular da licença, das condições que lhe garantiram a atribuição da licença, previstas no artigo 7.º e no artigo 9.º-B, bem como das obrigações constantes do n.º 2 do artigo 9.º, do n.º 2 do artigo 9.º-E e dos respetivos regulamentos de desenvolvimento;\n\nc) O não registo de objetos espaciais, em violação do artigo 16.º;\n\nd) A não contratação ou manutenção de seguro, em violação do disposto no artigo 19.º;\n\ne) A não participação de incidentes e acidentes, a participação com informação falsa ou incorreta, ou a comunicação não atempada, em violação do artigo 20.º;\n\nf) O incumprimento das obrigações em matéria de supervisão e fiscalização, em violação do artigo 23.º;\n\ng) A submissão de informação falsa ou incorreta no âmbito do processo de licenciamento ou de qualificação prévia, em violação dos artigos 5.º, 7.º e 9.º-B;\n\nh) A submissão de informação falsa ou incorreta para o registo de objetos espaciais, em violação do artigo 16.º;\n\ni) A transmissão de licença em violação das condições previstas no artigo 11.º;\n\nj) A não submissão de informação, ou a submissão de informação falsa ou incorreta, para a obtenção de outras autorizações, nos termos do n.º 3 do artigo 8.º e do n.º 4 do artigo 9.º-C;\n\nk) A não atualização da informação no âmbito da qualificação prévia, em violação do disposto no n.º 3 do artigo 5.º;\n\nl) A não comunicação da transferência do objeto espacial ou a submissão de informação falsa ou incorreta, em violação do artigo 17.º;\n\nm) A não notificação prévia das operações espaciais, em violação do n.º 3 do artigo 6.º;\n\nn) A realização de operações espaciais ao abrigo da licença global ou da licença conjunta múltipla, sem validação, pela Autoridade Espacial, da conformidade da informação constante do certificado de qualificação prévia extinto com o disposto no presente decreto-lei, em violação do disposto no n.º 8 do artigo 8.º;\n\no) O não cumprimento de determinações da Autoridade Espacial adotadas ao abrigo do disposto no n.º 2 do artigo 12.º\n\n2 - As contraordenações previstas nas alíneas a) a f) e nas alíneas n) e o) do número anterior são puníveis com coima de (euro) 1000,00 a (euro) 3740,98 e de (euro) 10 000,00 a (euro) 44 891,81, consoante tenham sido praticadas por pessoa singular ou coletiva.\n\n3 - A contraordenação prevista na alínea h) do n.º 1 é punível com coima de (euro) 500 a (euro) 1500 e de (euro) 5000 a (euro) 25 000, consoante tenha sido praticada por pessoa singular ou coletiva.\n\n4 - As contraordenações previstas nas alíneas j), l) e m) do n.º 1 são puníveis com coima de (euro) 250 a (euro) 750 e de (euro) 2500 a (euro) 15 000, consoante tenham sido praticadas por pessoa singular ou coletiva.\n\n5 - As contraordenações previstas nas alíneas g), i) e k) do n.º 1 são puníveis com:\n\na) Coima de (euro) 500 a (euro) 1500 e de (euro) 5000 a (euro) 25 000, consoante tenham sido praticadas por pessoa singular ou coletiva, se:\n\ni) Para as contraordenações previstas nas alíneas g) e i), a informação falsa ou incorreta tenha sido determinante na decisão de concessão ou manutenção da licença, de qualificação prévia ou de autorização para a transmissão da licença;\n\nii) Para as contraordenações previstas na alínea k), a não atualização da informação tenha sido determinante para a manutenção da qualificação prévia;\n\nb) Coima de (euro) 250 a (euro) 750 e de (euro) 2500 a (euro) 15 000, consoante tenham sido praticadas por pessoa singular ou coletiva, se:\n\ni) Para as contraordenações previstas nas alíneas g) e i), a informação falsa ou incorreta não tenha sido determinante na decisão de concessão ou manutenção da licença, de qualificação prévia ou de autorização para a transmissão da licença;\n\nii) Para as contraordenações previstas na alínea k), a não atualização da informação não tenha sido determinante para a manutenção da qualificação prévia.\n\n6 - A tentativa e a negligência são puníveis.\n\n7 - Em caso de tentativa ou negligência, os limites mínimo e máximo da coima aplicável são reduzidos para metade.\n\n8 - As contraordenações previstas nos números anteriores são puníveis nos termos do regime geral do ilícito de mera ordenação social, que é aplicável a tudo quanto não se encontre regulado no presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257839": {
+   "fragment_id": "840258331",
+   "type": 11,
+   "heading": "Artigo 25.º — Sanções acessórias",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 25.º — Sanções acessórias\n\n1 - À contraordenação prevista na alínea a) do n.º 1 do artigo anterior pode ser aplicada a sanção acessória de proibição do desenvolvimento de atividades espaciais por um período de seis meses a dois anos, no caso de falta de licença de operações espaciais, e por um período de dois a quatro anos no caso de falta de licença de operação de centro de lançamento.\n\n2 - Às contraordenações previstas nas alíneas b), d), e), f) e g) do n.º 1 do artigo anterior pode ser aplicada a sanção acessória de suspensão da licença ou de proibição do desenvolvimento de atividades espaciais por um período de seis meses a dois anos, no caso de falta de licença de operações espaciais, e por um período de dois a quatro anos no caso de falta de licença de operação de centro de lançamento, desde que:\n\na) Para as contraordenações previstas na alínea e), os incidentes ou acidentes venham a ser provados como sendo imputáveis, no todo ou em parte, ao operador;\n\nb) Para as contraordenações previstas na alínea g), quando a informação falsa ou incorreta submetida tenha sido determinante na decisão de concessão da licença ou de qualificação prévia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257840": {
+   "fragment_id": "840258332",
+   "type": 11,
+   "heading": "Artigo 26.º — Processamento das contraordenações",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 26.º — Processamento das contraordenações\n\n1 - A instauração dos processos de contraordenação é da competência da Autoridade Espacial, cabendo a instrução dos mesmos aos respetivos serviços.\n\n2 - A aplicação das coimas e das sanções acessórias previstas no presente decreto-lei é da competência da Autoridade Espacial.\n\n3 - O montante das coimas reverte para o Estado em 60 % e para a Autoridade Espacial em 40 %.\n\n4 - No caso de contraordenações praticadas no território terrestre ou marítimo das Regiões Autónomas, incluindo as zonas marítimas adjacentes, o montante das coimas reverte para o Estado em 60 %, para a respetiva Região Autónoma em 30 % e para a Autoridade Espacial em 10 %.\n\n5 - No caso de contraordenações praticadas em espaço marítimo nacional ou a bordo de embarcações, o montante das coimas reverte para o Estado em 60 %, para a Autoridade Espacial em 30 % e para o Fundo Azul em 10 %.\n\n6 - A Autoridade Espacial pode dar adequada publicidade às coimas e às sanções acessórias aplicadas ao abrigo do presente decreto-lei, nos termos do regime geral do ilícito de mera ordenação social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257854": {
+   "fragment_id": "840258333",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "840257874": {
+   "fragment_id": "840258334",
+   "type": 11,
+   "heading": "Artigo 27.º — Regiões Autónomas",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 27.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira com as necessárias adaptações, sem prejuízo do disposto nos números seguintes.\n\n2 - Os procedimentos de licenciamento das atividades espaciais, de qualificação prévia e de registo e transferência de objetos espaciais relativos a atividades a desenvolver nas Regiões Autónomas dos Açores e da Madeira, bem como o respetivo regime económico e financeiro, são definidos por decreto legislativo regional, sem prejuízo da emissão de parecer vinculativo fundamentado pelos membros do Governo responsáveis pelas áreas da defesa nacional e da administração interna quando estejam em causa questões de defesa e segurança nacional.\n\n3 - O produto das taxas pela emissão dos atos referidos no número anterior, bem como o resultante da aplicação de coimas por contraordenações relativas a atividades a desenvolver nas Regiões Autónomas dos Açores e da Madeira constitui receita própria destas.\n\n4 - Até à entrada em vigor do decreto legislativo regional a que se refere o n.º 2, os procedimentos aí previstos relativos a atividades a desenvolver nas Regiões Autónomas requerem parecer vinculativo do respetivo Governo Regional.\n\n5 - Consideram-se atividades a desenvolver nas Regiões Autónomas aquelas que tenham por base centros de lançamentos no respetivo território terrestre ou marítimo, incluindo, neste caso, as zonas marítimas adjacentes ao respetivo arquipélago.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257841": {
+   "fragment_id": "840258335",
+   "type": 11,
+   "heading": "Artigo 28.º — Taxas e emolumentos",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 28.º — Taxas e emolumentos\n\nAs taxas e emolumentos devidos ao abrigo do presente decreto-lei podem ser definidos por decreto-lei, o qual promove a sustentabilidade económico-financeira da atividade da Autoridade Espacial, nomeadamente através da cobrança de taxas e contribuições às empresas e outras entidades sujeitas ao respetivo poder de supervisão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840277575": {
+   "fragment_id": "840258336",
+   "type": 11,
+   "heading": "Artigo 29.º — Regulamentação",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 29.º — Regulamentação\n\nOs regulamentos a que se referem os artigos 5.º, 8.º, 16.º e 17.º, bem como as portarias previstas nos artigos 18.º e 19.º, são aprovados no prazo de 180 dias a contar da entrada em vigor do presente decreto-lei.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257860": {
+   "fragment_id": "840258353",
+   "type": 11,
+   "heading": "Artigo 29.º-A — Digitalização e simplificação administrativa",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 29.º-A — Digitalização e simplificação administrativa\n\n1 - O sítio na Internet e formulários eletrónicos disponibilizados pela Autoridade Espacial para os efeitos previstos no presente decreto-lei estão também disponíveis através do portal único de serviços.\n\n2 - As notificações e comunicações no âmbito dos procedimentos estabelecidos no presente decreto-lei são efetuadas preferencialmente através de meios eletrónicos, nomeadamente através da utilização do serviço público de notificações eletrónicas associado à morada única digital sempre que o destinatário a ela tenha aderido, nos termos do Decreto-Lei n.º 93/2017, de 1 de agosto, ou através de outras plataformas eletrónicas disponibilizadas para o efeito.\n\n3 - Os documentos em formato eletrónico submetidos pelas entidades requerentes, ao abrigo do presente decreto-lei, devem ser assinados preferencialmente com recurso a assinatura eletrónica qualificada ou equivalente.\n\n4 - As entidades requerentes são dispensadas da apresentação de documentos que já se encontrem na posse de serviços e entidades da Administração Pública, quando derem o seu consentimento para que se proceda à sua obtenção, utilizando a Plataforma de Interoperabilidade da Administração Pública, ou recorrendo ao mecanismo previsto no n.º 2 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n5 - A troca de informação entre as várias entidades no âmbito do presente decreto-lei deve ser efetuada com recurso à Plataforma de Interoperabilidade da Administração Pública (iAP).\n\n6 - A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente decreto-lei, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2024-840060196), em vigor a partir de 2024-02-03"
+  },
+  "840257861": {
+   "fragment_id": "840258337",
+   "type": 11,
+   "heading": "Artigo 30.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Norma transitória\n\nAté à criação, por decreto-lei, da Autoridade Espacial a que se refere o presente decreto-lei, as respetivas atribuições e competências são exercidas pela Autoridade Nacional de Comunicações."
+  },
+  "840257862": {
+   "fragment_id": "840258338",
+   "type": 11,
+   "heading": "Artigo 31.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "840257855": {
+   "fragment_id": "840258339",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de novembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Manuel Frederico Tojal de Valsassina Heitor - Pedro Manuel Dias de Jesus Marques - Ana Paula Mendes Vitorino.\n\nPromulgado em 10 de janeiro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 15 de janeiro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111988896"
+  }
+ }
+}

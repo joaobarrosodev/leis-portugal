@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:321565:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-169358469",
+ "dre_path": "/dr/detalhe/portaria/380-1999-321565",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-05-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169360938"
+   ]
+  },
+  {
+   "date": "2000-12-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:584008:por",
+     "title": "Portaria n.º 1153/2000",
+     "published": "2000-12-05",
+     "dre_path": "/dr/detalhe/portaria/1153-2000-584008"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "169360938",
+    "169360935"
+   ]
+  }
+ ],
+ "fragments": {
+  "169360938": {
+   "fragment_id": "169358470",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2000-12-10",
+   "changed_by": [],
+   "markdown": "Portaria n.º 380/99\n\nde 21 de Maio\n\nSob proposta do Instituto Politécnico da Guarda e da sua Escola Superior de Educação;\n\nConsiderando o disposto nos artigos 13.º e 31.º da Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro, alterada pela Lei n.º 115/97, de 19 de Setembro);\n\nConsiderando o disposto na Portaria n.º 413-E/98, de 17 de Julho, alterada pela Portaria n.º 680-C/98, de 31 de Agosto;\n\nAo abrigo do disposto na lei do estatuto e autonomia dos estabelecimentos de ensino superior politécnico (Lei n.º 54/90, de 5 de Setembro), no artigo 4.º do Decreto-Lei n.º 303/80, de 16 de Agosto, e no capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:\n\nManda o Governo, pelo Ministro da Educação, o seguinte:\n\n1.º\n\nPlano de estudos\n\nO plano de estudos do curso de licenciatura em Ensino Básico - 1.º Ciclo ministrado pela Escola Superior de Educação da Guarda, criado pela Portaria n.º 413-E/98, de 17 de Julho, alterada pela Portaria n.º 680-C/98, de 31 de Agosto, é o fixado em anexo à presente portaria.\n\n2.º\n\nAno e semestre lectivo\n\n1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.\n\n2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.\n\n3.º\n\nRegimes escolares\n\nOs regimes de frequência, avaliação de conhecimentos, transição de ano, precedência e prescrição do direito à inscrição são fixados pelo órgão legal e estatutariamente competente.\n\n4.º\n\nCondições para a obtenção do grau\n\nÉ condição para a obtenção do grau de licenciado em Ensino Básico - 1.º Ciclo a aprovação na totalidade das unidades curriculares que integram o plano de estudos do curso.\n\n5.º\n\nClassificação final\n\n1 - A classificação final do curso é a média aritmética ponderada arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas) das classificações das unidades curriculares que integram o plano de estudos do curso.\n\n2 - Os coeficientes de ponderação são fixados pelo órgão legal e estatutariamente competente.\n\n6.º\n\nAplicação\n\nO disposto no presente diploma aplica-se a partir do ano lectivo de 1998-1999, inclusive.\n\n7.º\n\nTransição\n\nAs regras de transição entre o curso de bacharelato de Professores de 1.º Ciclo do Ensino Básico da Escola Superior de Educação da Guarda e o curso de licenciatura em Ensino Básico - 1.º Ciclo são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n8.º\n\nDisposição revogatória\n\nSem prejuízo do processo de transição a que se refere o número anterior, é revogada, na parte que se refere ao bacharelato em 1.º Ciclo de Ensino Básico da Escola Superior de Educação da Guarda, a Portaria n.º 598/86, de 13 de Outubro."
+  },
+  "169360935": {
+   "fragment_id": "169358471",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 21 de Abril de 1999.\n\nANEXO\n\nInstituto Politécnico da Guarda\n\nEscola Superior de Educação\n\nCurso: Ensino Básico - 1.º Ciclo\n\nGrau: licenciado\n\n(ver quadros n.os 1 a 4 no documento ori"
+  }
+ }
+}

@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:422060:por
+title: Decreto-Lei n.º 239/73
+short_title: null
+summary: Cria o Centro de Estudos de Engenharia de Minas e de Geologia anexo à Universidade de Lourenço Marques
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios do Ultramar e da Educação Nacional - Direcção-Geral do Ensino Superior
+proposing_entity: null
+official_number: 239/73
+official_date: null
+publication_date: '1973-05-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 114/1973, Série I de 1973-05-15
+  number: '114'
+  series: I
+  supplement: null
+  pages: 818 - 819
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/05/11400/08180819.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '422060'
+  dre_path: /dr/detalhe/decreto-lei/239-1973-422060
+  internal: pt:dre:422060:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1973-422060
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1973-422060
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1973-05-15T00:00:00Z'
+integrity:
+  source_sha256: c025fb8a143aaa60dc975d7de1713590dabd200f3e686d0b950c623c7f422d8c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-239-422060.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 239/73
+
+de 15 de Maio
+
+É criado pelo presente diploma o Centro de Estudos de Engenharia de Minas e de Geologia anexo à Universidade de Lourenço Marques, o qual vem institucionalizar actividades já existentes nesta Universidade para corresponder a exigências da promoção do ensino e da investigação no campo da engenharia de minas e da geologia, à semelhança do centro anexo à Universidade de Luanda, instituído pelo [Decreto-Lei n.º 367/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/367-1972-691188), de 29 de Setembro.
+
+As potencialidades oferecidas pelo Centro poderão ser utilizadas por outros serviços, o que é de relevante interesse para o Estado de Moçambique.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º É criado o Centro de Estudos de Engenharia de Minas e de Geologia anexo à Universidade de Lourenço Marques.
+
+###### Art. 2.º São atribuições do Centro de Estudos de Engenharia de Minas e de Geologia:
+
+a) Colaborar no trabalho de levantamento geológico do Estado de Moçambique, assim como em estudos tendentes a um melhor conhecimento das riquezas do Estado de Moçambique;
+
+b) Fomentar a investigação, pura e aplicada, nos domínios da engenharia de minas e da geologia, de relevante interesse para o Estado de Moçambique;
+
+c) Promover, no âmbito da Universidade de Lourenço Marques, a realização de cursos pós-graduados, cursos de aperfeiçoamento, palestras, seminários e reuniões científicas;
+
+d) Promover reuniões e encontros com outras instituições de Moçambique e do estrangeiro ligadas à investigação geológica, com o objectivo de poder assegurar um nível técnico-científico actualizado, organizar trabalhos de campo a esclarecer, in loco, problemas geológicos do Estado de Moçambique;
+
+e) Fornecer meios de aperfeiçoamento e, se necessário, de formação de pessoal docente das especialidades de engenharia de minas e de geologia, em particular para servir na Universidade de Lourenço Marques;
+
+f) Promover a aquisição de material de museu, particularmente em ordem à defesa do património do Estado.
+
+###### Art. 3.º Constituem receitas do Centro de Estudos de Engenharia de Minas e de Geologia da Universidade de Lourenço Marques:
+
+a) As dotações e os subsídios que lhe forem consignados no orçamento do Estado de Moçambique;
+
+b) Os demais subsídios que lhe forem concedidos por entidades públicas ou privadas;
+
+c) Outras receitas atribuídas por lei, por contrato ou por diverso título, incluindo as resultantes de comparticipação em projectos de investigação comuns a instituições metropolitanas.
+
+###### Art. 4.º O Centro de Estudos de Engenharia de Minas e de Geologia utilizará o equipamento e instalações da Universidade de Lourenço Marques que for adequado ao desempenho das suas atribuições, na medida em que tal utilização não prejudicar as actividades pedagógicas e de investigação associada que constituem os objectivos primordiais de tais laboratórios e oficinas.
+
+###### Art. 5.º - 1. O pessoal afecto ao Centro será retribuído de acordo com as tarefas a realizar, podendo caber-lhe também participação nas receitas a que se refere a alínea c) do artigo 3.º, nos termos que vierem a ser fixados por despacho conjunto dos Ministros do Ultramar e da Educação Nacional.
+
+2. O subsídio a que se refere o § 2.º do artigo 12.º do [Decreto-Lei n.º 45180](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413), de 5 de Agosto de 1963, não é acumulável com a remuneração a que o pessoal docente da Universidade de Lourenço Marques tiver direito por serviços prestados no Centro.
+
+###### Art. 6.º O director do Centro de Estudos de Engenharia de Minas e de Geologia será nomeado por despacho conjunto dos Ministros do Ultramar e da Educação Nacional, sob proposta do reitor.
+
+###### Art. 7.º A aprovação das contas anuais do Centro de Estudos de Engenharia de Minas e de Geologia é da competência do conselho administrativo da Universidade de Lourenço Marques.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - José Veiga Simão.
+
+**Promulgado em 3 de Maio de 1973.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser publicado no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.

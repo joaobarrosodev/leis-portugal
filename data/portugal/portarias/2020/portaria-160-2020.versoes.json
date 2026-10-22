@@ -1,0 +1,283 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:136675189:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-136675236",
+ "dre_path": "/dr/detalhe/portaria/160-2020-136675189",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156696399",
+    "136692998",
+    "136692999",
+    "136693000",
+    "136693001",
+    "136693002",
+    "136693003",
+    "136693004",
+    "136693005"
+   ]
+  },
+  {
+   "date": "2020-12-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:150509335:por",
+     "title": "Portaria n.º 281/2020",
+     "published": "2020-12-09",
+     "dre_path": "/dr/detalhe/portaria/281-2020-150509335"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "136692997",
+    "136692998",
+    "150735792",
+    "136693000",
+    "150735793",
+    "136693002",
+    "136693003",
+    "136693004",
+    "136693005",
+    "136693006"
+   ]
+  },
+  {
+   "date": "2021-02-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:156720778:por",
+     "title": "Portaria n.º 28/2021",
+     "published": "2021-02-08",
+     "dre_path": "/dr/detalhe/portaria/28-2021-156720778"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "156696399",
+    "156696400",
+    "156696401",
+    "156696402",
+    "156696403",
+    "156696404",
+    "156696405",
+    "156696406",
+    "156696407",
+    "156696408"
+   ]
+  }
+ ],
+ "fragments": {
+  "156696399": {
+   "fragment_id": "136675237",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-02-09",
+   "changed_by": [],
+   "markdown": "Portaria n.º 160/2020\n\nde 26 de junho\n\nSumário: Alarga o prazo de vigência da medida excecional relativa às comparticipações financeiras da segurança social, aprovado através da Portaria n.º 85-A/2020, de 3 de abril.\n\nAtendendo à emergência de saúde pública de âmbito internacional, declarada pela Organização Mundial de Saúde, no dia 30 de janeiro de 2020, bem como à classificação no dia 11 de março de 2020, da doença COVID-19 como uma pandemia, o Governo tem vindo a aprovar um conjunto de medidas extraordinárias e de caráter urgente, em diversas matérias.\n\nNeste contexto, foi aprovado através da Portaria n.º 85-A/2020, de 3 de abril, um conjunto de medidas de apoio extraordinário ao setor social, permitindo um reforço das respostas sociais.\n\nFace à situação atual, e no âmbito do Programa de Estabilização Económica e Social, importa alargar o prazo de vigência da medida excecional relativa às comparticipações financeiras da segurança social previsto naquela portaria e, simultaneamente, criar condições para redução das comparticipações familiares devidas pela utilização das respostas sociais, com vista a compensar as famílias que viram diminuídos os seus rendimentos por impacto da pandemia e que se encontram, atualmente, em situação de vulnerabilidade socioeconómica.\n\nForam ouvidas a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a Confederação Portuguesa Cooperativa - CONFECOOP.\n\nAssim:\n\nNo âmbito da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, manda o Governo, pelo Secretário de Estado da Segurança Social, pela Secretária de Estado da Inclusão das Pessoas com Deficiência e pela Secretária de Estado da Ação Social, e ao abrigo de competência delegada pelo Despacho n.º 892/2020, de 22 de janeiro, o seguinte:"
+  },
+  "136692998": {
+   "fragment_id": "136675238",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria alarga o prazo de vigência da medida excecional relativa às comparticipações financeiras da segurança social, tendo em vista apoiar as instituições particulares de solidariedade social, cooperativas de solidariedade social, organizações não-governamentais das pessoas com deficiência no funcionamento das respostas sociais, bem como define regras para a revisão das comparticipações familiares."
+  },
+  "136692999": {
+   "fragment_id": "136675239",
+   "type": 11,
+   "heading": "Artigo 2.º — Comparticipação financeira da segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comparticipação financeira da segurança social\n\n1 - O montante da comparticipação financeira da segurança social devido às instituições, nas respostas que estiveram suspensas, mantém-se inalterado, até 30 de setembro de 2020, face ao valor referente ao mês de fevereiro de 2020, caso a frequência registada seja inferior à verificada no referido mês.\n\n2 - As instituições abrangidas pelo disposto no presente artigo devem manter todos os trabalhadores ao serviço das respostas sociais, bem como o pagamento da totalidade da respetiva retribuição, sob pena de restituição das comparticipações recebidas ao abrigo da presente portaria.\n\n3 - As instituições devem, igualmente, assegurar a totalidade da retribuição devida às amas, sob pena da restituição das comparticipações recebidas ao abrigo da presente portaria."
+  },
+  "136693000": {
+   "fragment_id": "136675240",
+   "type": 11,
+   "heading": "Artigo 3.º — Comparticipações familiares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comparticipações familiares\n\n1 - Para o cálculo do valor da comparticipação familiar, no âmbito do presente período excecional, as instituições devem proceder à revisão do cálculo de base à determinação da comparticipação familiar, nos termos da Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual.\n\n2 - A revisão deste valor deve atender às alterações das circunstâncias que determinaram o montante da respetiva comparticipação, nomeadamente os rendimentos dos agregados familiares, por referência ao mês anterior."
+  },
+  "136693001": {
+   "fragment_id": "136675241",
+   "type": 11,
+   "heading": "Artigo 4.º — Domiciliação de apoio social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Domiciliação de apoio social\n\nDurante o período em que se mantiver suspensa a resposta social de Centro de Dia e nas situações em que seja necessário domiciliar o apoio prestado, é prorrogada a majoração da comparticipação financeira da segurança social, de acordo com o previsto nos n.os 1 a 5 do artigo 5.º da Portaria n.º 85-A/2020, de 3 de abril."
+  },
+  "136693002": {
+   "fragment_id": "136675242",
+   "type": 11,
+   "heading": "Artigo 5.º — Diferimento de pagamentos ao Fundo de Reestruturação do Setor Solidário (FRSS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Diferimento de pagamentos ao Fundo de Reestruturação do Setor Solidário (FRSS)\n\n1 - No âmbito da Portaria n.º 31/2014, de 5 de fevereiro, mediante requerimento, fundamentado e dirigido ao conselho de gestão do Fundo de Reestruturação do Setor Solidário, a entidade beneficiária pode solicitar o diferimento do reembolso devido nos terceiro e quarto trimestres de 2020, no âmbito do acordo de reembolso do apoio financeiro em vigor.\n\n2 - Nas situações previstas no número anterior o prazo excecional máximo previsto no n.º 3 do artigo 7.º da Portaria n.º 31/2014, de 5 de fevereiro, é alargado por um ano, ficando sujeito à mesma taxa de juro dos dois últimos anos antes do alargamento excecional."
+  },
+  "136693003": {
+   "fragment_id": "136675243",
+   "type": 11,
+   "heading": "Artigo 6.º — Prestação de contas anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prestação de contas anuais\n\nPara efeitos do previsto no n.º 2 do artigo 18.º do Decreto-Lei n.º 24-A/2020, de 29 de maio, é prorrogado, até 31 de outubro, o prazo para apresentação das contas relativas ao ano de 2019 aos serviços do Instituto da Segurança Social, I. P."
+  },
+  "136693004": {
+   "fragment_id": "136675244",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nSão revogados os artigos 11.º e 16.º da Portaria n.º 85-A/2020, de 3 de abril."
+  },
+  "136693005": {
+   "fragment_id": "136675245",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação."
+  },
+  "136692997": {
+   "fragment_id": "136675237",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 160/2020\n\nde 26 de junho\n\nSumário: Alarga o prazo de vigência da medida excecional relativa às comparticipações financeiras da segurança social, aprovado através da Portaria n.º 85-A/2020, de 3 de abril.\n\nAtendendo à emergência de saúde pública de âmbito internacional, declarada pela Organização Mundial de Saúde, no dia 30 de janeiro de 2020, bem como à classificação no dia 11 de março de 2020, da doença COVID-19 como uma pandemia, o Governo tem vindo a aprovar um conjunto de medidas extraordinárias e de caráter urgente, em diversas matérias.\n\nNeste contexto, foi aprovado através da Portaria n.º 85-A/2020, de 3 de abril, um conjunto de medidas de apoio extraordinário ao setor social, permitindo um reforço das respostas sociais.\n\nFace à situação atual, e no âmbito do Programa de Estabilização Económica e Social, importa alargar o prazo de vigência da medida excecional relativa às comparticipações financeiras da segurança social previsto naquela portaria e, simultaneamente, criar condições para redução das comparticipações familiares devidas pela utilização das respostas sociais, com vista a compensar as famílias que viram diminuídos os seus rendimentos por impacto da pandemia e que se encontram, atualmente, em situação de vulnerabilidade socioeconómica.\n\nForam ouvidas a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a Confederação Portuguesa Cooperativa - CONFECOOP.\n\nAssim:\n\nNo âmbito da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, manda o Governo, pelo Secretário de Estado da Segurança Social, pela Secretária de Estado da Inclusão das Pessoas com Deficiência e pela Secretária de Estado da Ação Social, e ao abrigo de competência delegada pelo Despacho n.º 892/2020, de 22 de janeiro, o seguinte:"
+  },
+  "150735792": {
+   "fragment_id": "136675239",
+   "type": 11,
+   "heading": "Artigo 2.º — Comparticipação financeira da segurança social",
+   "in_force_from": "2020-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281/2020 - Diário da República n.º 238/2020, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/281-2020-150509335), em vigor a partir de 2020-12-10, produz efeitos a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Comparticipação financeira da segurança social\n\n1 - O montante da comparticipação financeira da segurança social devido às instituições, nas respostas que estiveram suspensas, mantém-se inalterado, até 31 de dezembro de 2020, face ao valor referente ao mês de fevereiro de 2020, caso a frequência registada seja inferior à verificada no referido mês.\n\n2 - O número anterior aplica-se às respostas sociais residenciais de apoio a idosos e pessoas com deficiência.\n\n3 - As instituições abrangidas pelo disposto no presente artigo devem manter todos os trabalhadores ao serviço das respostas sociais, bem como o pagamento da totalidade da respetiva retribuição, sob pena de restituição das comparticipações recebidas ao abrigo da presente portaria.\n\n4 - As instituições devem, igualmente, assegurar a totalidade da retribuição devida às amas, sob pena da restituição das comparticipações recebidas ao abrigo da presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281/2020 - Diário da República n.º 238/2020, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/281-2020-150509335), em vigor a partir de 2020-12-10, produz efeitos a partir de 2020-10-01"
+  },
+  "150735793": {
+   "fragment_id": "136675241",
+   "type": 11,
+   "heading": "Artigo 4.º — Domiciliação de apoio social",
+   "in_force_from": "2020-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281/2020 - Diário da República n.º 238/2020, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/281-2020-150509335), em vigor a partir de 2020-12-10, produz efeitos a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Domiciliação de apoio social\n\n1 - Nos centros de dia com atividade suspensa em que se revele necessário domiciliar o apoio prestado, a comparticipação financeira da segurança social é majorada, até 31 de dezembro de 2020, de acordo com o previsto nos n.os 1 a 5 do artigo 5.º da Portaria n.º 85-A/2020, de 3 de abril.\n\n2 - O número anterior aplica-se, igualmente, aos centros de dia com atividade reiniciada cuja adaptação ao contexto da pandemia justifica a necessidade de domiciliar o apoio prestado.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281/2020 - Diário da República n.º 238/2020, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/281-2020-150509335), em vigor a partir de 2020-12-10, produz efeitos a partir de 2020-10-01"
+  },
+  "136693006": {
+   "fragment_id": "136675246",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos, em 22 de junho de 2020. - A Secretária de Estado da Inclusão das Pessoas com Deficiência, Ana Sofia Pedroso Lopes Antunes, em 23 de junho de 2020. - A Secretária de Estado da Ação Social, Rita da Cunha Mendes, em 23 de junho de 2020.\n\n113341683"
+  },
+  "156696400": {
+   "fragment_id": "136675238",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria alarga o prazo de vigência da medida excecional relativa às comparticipações financeiras da segurança social, tendo em vista apoiar as instituições particulares de solidariedade social, cooperativas de solidariedade social, organizações não-governamentais das pessoas com deficiência no funcionamento das respostas sociais, bem como define regras para a revisão das comparticipações familiares.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+  },
+  "156696401": {
+   "fragment_id": "136675239",
+   "type": 11,
+   "heading": "Artigo 2.º — Comparticipação financeira da segurança social",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281/2020 - Diário da República n.º 238/2020, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/281-2020-150509335), em vigor a partir de 2020-12-10, produz efeitos a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Comparticipação financeira da segurança social\n\n1 - O montante da comparticipação financeira da segurança social devido às instituições, nas respostas que estiveram suspensas, mantém-se inalterado, até 31 de dezembro de 2020, face ao valor referente ao mês de fevereiro de 2020, caso a frequência registada seja inferior à verificada no referido mês.\n\n2 - O número anterior aplica-se às respostas sociais residenciais de apoio a idosos e pessoas com deficiência.\n\n3 - As instituições abrangidas pelo disposto no presente artigo devem manter todos os trabalhadores ao serviço das respostas sociais, bem como o pagamento da totalidade da respetiva retribuição, sob pena de restituição das comparticipações recebidas ao abrigo da presente portaria.\n\n4 - As instituições devem, igualmente, assegurar a totalidade da retribuição devida às amas, sob pena da restituição das comparticipações recebidas ao abrigo da presente portaria.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281/2020 - Diário da República n.º 238/2020, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/281-2020-150509335), em vigor a partir de 2020-12-10, produz efeitos a partir de 2020-10-01"
+  },
+  "156696402": {
+   "fragment_id": "136675240",
+   "type": 11,
+   "heading": "Artigo 3.º — Comparticipações familiares",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Comparticipações familiares\n\n1 - Para o cálculo do valor da comparticipação familiar, no âmbito do presente período excecional, as instituições devem proceder à revisão do cálculo de base à determinação da comparticipação familiar, nos termos da Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual.\n\n2 - A revisão deste valor deve atender às alterações das circunstâncias que determinaram o montante da respetiva comparticipação, nomeadamente os rendimentos dos agregados familiares, por referência ao mês anterior.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+  },
+  "156696403": {
+   "fragment_id": "136675241",
+   "type": 11,
+   "heading": "Artigo 4.º — Domiciliação de apoio social",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281/2020 - Diário da República n.º 238/2020, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/281-2020-150509335), em vigor a partir de 2020-12-10, produz efeitos a partir de 2020-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Domiciliação de apoio social\n\n1 - Nos centros de dia com atividade suspensa em que se revele necessário domiciliar o apoio prestado, a comparticipação financeira da segurança social é majorada, até 31 de dezembro de 2020, de acordo com o previsto nos n.os 1 a 5 do artigo 5.º da Portaria n.º 85-A/2020, de 3 de abril.\n\n2 - O número anterior aplica-se, igualmente, aos centros de dia com atividade reiniciada cuja adaptação ao contexto da pandemia justifica a necessidade de domiciliar o apoio prestado.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 281/2020 - Diário da República n.º 238/2020, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/281-2020-150509335), em vigor a partir de 2020-12-10, produz efeitos a partir de 2020-10-01"
+  },
+  "156696404": {
+   "fragment_id": "136675242",
+   "type": 11,
+   "heading": "Artigo 5.º — Diferimento de pagamentos ao Fundo de Reestruturação do Setor Solidário (FRSS)",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Diferimento de pagamentos ao Fundo de Reestruturação do Setor Solidário (FRSS)\n\n1 - No âmbito da Portaria n.º 31/2014, de 5 de fevereiro, mediante requerimento, fundamentado e dirigido ao conselho de gestão do Fundo de Reestruturação do Setor Solidário, a entidade beneficiária pode solicitar o diferimento do reembolso devido nos terceiro e quarto trimestres de 2020, no âmbito do acordo de reembolso do apoio financeiro em vigor.\n\n2 - Nas situações previstas no número anterior o prazo excecional máximo previsto no n.º 3 do artigo 7.º da Portaria n.º 31/2014, de 5 de fevereiro, é alargado por um ano, ficando sujeito à mesma taxa de juro dos dois últimos anos antes do alargamento excecional.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+  },
+  "156696405": {
+   "fragment_id": "136675243",
+   "type": 11,
+   "heading": "Artigo 6.º — Prestação de contas anuais",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Prestação de contas anuais\n\nPara efeitos do previsto no n.º 2 do artigo 18.º do Decreto-Lei n.º 24-A/2020, de 29 de maio, é prorrogado, até 31 de outubro, o prazo para apresentação das contas relativas ao ano de 2019 aos serviços do Instituto da Segurança Social, I. P.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+  },
+  "156696406": {
+   "fragment_id": "136675244",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nSão revogados os artigos 11.º e 16.º da Portaria n.º 85-A/2020, de 3 de abril.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+  },
+  "156696407": {
+   "fragment_id": "136675245",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação.\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+  },
+  "156696408": {
+   "fragment_id": "136675246",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-02-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+   ],
+   "markdown": "O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos, em 22 de junho de 2020. - A Secretária de Estado da Inclusão das Pessoas com Deficiência, Ana Sofia Pedroso Lopes Antunes, em 23 de junho de 2020. - A Secretária de Estado da Ação Social, Rita da Cunha Mendes, em 23 de junho de 2020.\n\n113341683\n\n> Revogado pelo/a Artigo 10.º do/a [Portaria n.º 28/2021 - Diário da República n.º 26/2021, Série I de 2021-02-08](https://diariodarepublica.pt/dr/detalhe/portaria/28-2021-156720778), em vigor a partir de 2021-02-09, produz efeitos a partir de 2021-01-01"
+  }
+ }
+}

@@ -1,0 +1,1457 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:572097:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2000-902264196",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/29-2000-572097",
+ "source_lastmod": "2025-01-07",
+ "versions": [
+  {
+   "date": "2000-09-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "902264528",
+    "902264286",
+    "902264287",
+    "902264288",
+    "902264289",
+    "902264290",
+    "902264291",
+    "902264292",
+    "902264293",
+    "902264294",
+    "902264295",
+    "902264296",
+    "902264297",
+    "902264298",
+    "902264299",
+    "902264300",
+    "902264301",
+    "902264302",
+    "902264303",
+    "902264304",
+    "902264305",
+    "902264306",
+    "902264307",
+    "902264308",
+    "902264309",
+    "902264310",
+    "902264311",
+    "902264312",
+    "902264313",
+    "902264314",
+    "902264315",
+    "902264316",
+    "902264317",
+    "902264318",
+    "902264319",
+    "902264320",
+    "902264321",
+    "902264322",
+    "902264323",
+    "902264324",
+    "902264325",
+    "902264326",
+    "902264327",
+    "902264328",
+    "902264329",
+    "902264330",
+    "902264331",
+    "902264332",
+    "902264333",
+    "902264334",
+    "902264335",
+    "902264336",
+    "902264337",
+    "902264338",
+    "902264339",
+    "902264340",
+    "902264341",
+    "902264342",
+    "902264343"
+   ]
+  },
+  {
+   "date": "2006-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:540036:por",
+     "title": "Decreto Regulamentar Regional n.º 28/2006/A",
+     "published": "2006-09-13",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/28-2006-540036"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º"
+   ],
+   "fragments": [
+    "902264285",
+    "902264286",
+    "902264287",
+    "902264288",
+    "902264289",
+    "902264290",
+    "902264291",
+    "902264292",
+    "902264293",
+    "902264294",
+    "902264295",
+    "902264296",
+    "902264297",
+    "902264298",
+    "902264299",
+    "902264300",
+    "902264301",
+    "902264302",
+    "902264303",
+    "902264304",
+    "902264305",
+    "902264306",
+    "902264307",
+    "902264308",
+    "902264309",
+    "902264310",
+    "902264311",
+    "902264312",
+    "902264313",
+    "902264314",
+    "902264315",
+    "902264316",
+    "902264317",
+    "902264318",
+    "902264319",
+    "902264320",
+    "902264321",
+    "902264322",
+    "902264323",
+    "902264324",
+    "902264325",
+    "902264326",
+    "902264327",
+    "902264328",
+    "902264329",
+    "902264330",
+    "902264331",
+    "902264332",
+    "902264333",
+    "902264334",
+    "902264335",
+    "902264522",
+    "902264523",
+    "902264524",
+    "902264525",
+    "902264526",
+    "902264341",
+    "902264342",
+    "902264343",
+    "902264344"
+   ]
+  },
+  {
+   "date": "2013-05-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:261124:por",
+     "title": "Decreto Regulamentar Regional n.º 3/2013/A",
+     "published": "2013-05-21",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/3-2013-261124"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "902264285",
+    "902264286",
+    "902264287",
+    "902264288",
+    "902264289",
+    "902264290",
+    "902264291",
+    "902264292",
+    "902264293",
+    "902264294",
+    "902264295",
+    "902264296",
+    "902264297",
+    "902264298",
+    "902264299",
+    "902264300",
+    "902264301",
+    "902264302",
+    "902264303",
+    "902264304",
+    "902264305",
+    "902264306",
+    "902264527",
+    "902264308",
+    "902264309",
+    "902264310",
+    "902264311",
+    "902264312",
+    "902264313",
+    "902264314",
+    "902264315",
+    "902264316",
+    "902264317",
+    "902264318",
+    "902264319",
+    "902264320",
+    "902264321",
+    "902264322",
+    "902264323",
+    "902264324",
+    "902264325",
+    "902264326",
+    "902264327",
+    "902264328",
+    "902264329",
+    "902264330",
+    "902264331",
+    "902264332",
+    "902264333",
+    "902264334",
+    "902264335",
+    "902264522",
+    "902264523",
+    "902264524",
+    "902264525",
+    "902264526",
+    "902264341",
+    "902264342",
+    "902264343",
+    "902264344"
+   ]
+  },
+  {
+   "date": "2025-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:902208903:por",
+     "title": "Decreto Regulamentar Regional n.º 2/2025/A",
+     "published": "2025-01-07",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "902264528",
+    "902264529",
+    "902264530",
+    "902264531",
+    "902264532",
+    "902264533",
+    "902264534",
+    "902264535",
+    "902264536",
+    "902264537",
+    "902264538",
+    "902264539",
+    "902264540",
+    "902264541",
+    "902264542",
+    "902264543",
+    "902264544",
+    "902264545",
+    "902264546",
+    "902264547",
+    "902264548",
+    "902264549",
+    "902264550",
+    "902264551",
+    "902264552",
+    "902264553",
+    "902264554",
+    "902264555",
+    "902264556",
+    "902264557",
+    "902264558",
+    "902264559",
+    "902264560",
+    "902264561",
+    "902264562",
+    "902264563",
+    "902264564",
+    "902264565",
+    "902264566",
+    "902264567",
+    "902264568",
+    "902264569",
+    "902264570",
+    "902264571",
+    "902264572",
+    "902264573",
+    "902264574",
+    "902717375",
+    "902717376",
+    "902717377",
+    "902717378",
+    "902717379",
+    "902717380",
+    "902717381",
+    "902717382",
+    "902717383",
+    "902717384",
+    "902717385",
+    "902717386",
+    "902717387"
+   ]
+  }
+ ],
+ "fragments": {
+  "902264528": {
+   "fragment_id": "902264197",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-01-08",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 29/2000/A\n\nAtravés da criação de projectos de luta contra a pobreza e de microempresas voltadas para a integração no mundo do trabalho de beneficiários do rendimento mínimo garantido, de portadores de deficiência e de outros desempregados de muito baixa empregabilidade, estabeleceu-se na Região Autónoma dos Açores uma rede de entidades que se dedicam à promoção de estratégias activas de emprego. Essa rede constituiu, paulatinamente, um verdadeiro mercado social de emprego que urge reconhecer e valorizar. Tal mercado social de emprego foi criado e tem vindo a ser apoiado, essencialmente, no âmbito das políticas de solidariedade social, sendo agora necessário, uma vez decorridos três anos de aplicação do rendimento mínimo garantido nos Açores, estabelecer as regras de articulação com o mercado de emprego e com a economia em geral.\n\nTambém as políticas de apoio à integração no mercado de trabalho de desempregados portadores de deficiência e de outros desempregados de baixa empregabilidade necessitam de ser alargadas e integradas com as restantes medidas activas de promoção do emprego. Só assim se poderá dar coerência ao mercado social de emprego, mercado que se pretende assente no emprego protegido e na discriminação positiva dos desempregados em exclusão social.\n\nA evolução da situação social nos Açores, em particular no que respeita ao desemprego, associada às recentes alterações introduzidas nos mecanismos de apoio à actividade económica, também aconselha a revisão do regime de incentivo às iniciativas locais de emprego (ILE), regulamentado pelo Decreto Regulamentar Regional n.º 31/91/A, de 1 de Outubro, integrando-o com os mecanismos do mercado social de emprego, fazendo assim uma clara destrinça entre o apoio à actividade económica em geral e as medidas activas de emprego.\n\nPor outro lado, a política de emprego da Região Autónoma dos Açores, estabelecida no Plano Regional de Emprego, aprovado pela Resolução n.º 218/98, de 29 de Outubro, assim como os objectivos do Programa Operacional de Desenvolvimento Económico e Social dos Açores, nomeadamente os respeitantes ao emprego e formação profissional, estabelecem a necessidade de um acompanhamento eficaz a todos os desempregados, preconizando soluções de emprego ou de formação profissional para todos os que se encontrem inscritos nas agências para a qualificação e emprego. Tal objectivo só será atingido se forem criados mecanismos específicos dirigidos aos desempregados de muito baixa empregabilidade, o que apenas pode ser conseguido através do fomento do mercado social de emprego, já que uma franja significativa de desempregados apresenta, apesar da baixa taxa de desemprego na Região, dificuldades em adquirir a empregabilidade mínima necessária ao enquadramento no normal funcionamento de um mercado de emprego livre e espontâneo.\n\nAssim, importa criar condições que permitam aos desempregados desfavorecidos no mercado de emprego aumentar a sua empregabilidade. Para tal, é necessário articular as medidas activas de promoção do emprego com programas ocupacionais e de formação sócio-profissional que permitam uma gradual adaptação às condições laborais e a aquisição das competências necessárias ao ingresso no mundo do trabalho.\n\nPor outro lado, deve ser considerado que o apoio público ao trabalho socialmente útil, de preferência exercido num contexto empresarial protegido e de viabilização progressiva ou num ambiente transitório, pode constituir uma estratégia de inserção social importante e uma via para quebrar ciclos de pobreza e de marginalidade social.\n\nPretende-se também que a promoção do mercado social de emprego exija um esforço particular de articulação e de implicação entre os diferentes departamentos sectoriais e os níveis regional e local da administração, bem como com os parceiros sociais, com particular destaque para as entidades que já asseguram o funcionamento dos projectos de luta contra a pobreza, de apoio aos portadores de deficiência e de gestão local da aplicação do rendimento mínimo garantido.\n\nAssim, considerando o disposto na alínea c) do artigo 8.º e no artigo 18.º do Decreto Regional n.º 23/82/A, de 1 de Setembro, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:"
+  },
+  "902264286": {
+   "fragment_id": "902264198",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "902264287": {
+   "fragment_id": "902264199",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regulamenta os apoios a conceder pela administração regional autónoma ao funcionamento do mercado social de emprego na Região Autónoma dos Açores.\n\n2 - Para efeitos do presente diploma entende-se por «mercado social de emprego» o conjunto de iniciativas destinadas à integração ou reintegração sócio-profissional de pessoas desempregadas de difícil empregabilidade, ainda que a auto-sustentação económica dessas iniciativas não seja completa e imediata, requerendo apoio público transitório.\n\n3 - Com o fomento do mercado social de emprego pretende-se contribuir para a solução de problemas de empregabilidade e de formação sócio-profissional de pessoas com dificuldade de inserção no mercado de trabalho, com especial incidência no combate à pobreza e à exclusão social."
+  },
+  "902264288": {
+   "fragment_id": "902264200",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de funcionamento\n\nA especificidade do mercado social de emprego não dispensa a observância dos seguintes princípios:\n\na) Gestão económica e financeira rigorosa e adequada à natureza empresarial dos projectos;\n\nb) Procura constante de fontes não públicas de financiamento e de auto-sustentação financeira;\n\nc) Esforço permanente de redução de custos e de aumento de eficiência e eficácia;\n\nd) Não competição com o mercado de trabalho não apoiado."
+  },
+  "902264289": {
+   "fragment_id": "902264201",
+   "type": 11,
+   "heading": "Artigo 3.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Modalidades\n\n1 - Consideram-se integráveis no mercado social de emprego as seguintes medidas:\n\na) O apoio à criação e funcionamento de empresas de inserção;\n\nb) O fomento da integração no mercado de emprego de trabalhadores portadores de deficiência;\n\nc) O desenvolvimento de programas ocupacionais dirigidos a desempregados de baixa empregabilidade ou sem protecção social no desemprego;\n\nd) O apoio a acções de formação sócio-profissional destinadas à qualificação profissional e à integração social de pessoas que se encontrem em situação de exclusão social;\n\ne) As iniciativas locais de criação de emprego (ILE).\n\n2 - As medidas a adoptar devem obedecer, nomeadamente, aos seguintes princípios:\n\na) Relevância social das actividades desenvolvidas;\n\nb) Inclusão de uma componente de formação formal ou em situação de trabalho que reforce a empregabilidade dos beneficiários;\n\nc) Qualidade dos serviços prestados;\n\nd) Garantias básicas nas condições de trabalho oferecidas;\n\ne) Estímulo à capacidade de auto-sustentação económica;\n\nf) Interdição de práticas de falseamento da concorrência;\n\ng) Subsidiariedade da actuação da administração regional autónoma;\n\nh) Prioridade à intervenção social e técnica, em prejuízo da intervenção financeira;\n\ni) Participação e parceria;\n\nj) Fomento de modalidades de financiamento de base local;\n\nl) Maior concentração do apoio financeiro público nas situações de maior carência.\n\n3 - Consideram-se iniciativas mais relevantes do mercado social de emprego as que se localizem em áreas atingidas por problemas sociais graves e com maior concentração de pessoas em exclusão social.\n\n4 - Às iniciativas consideradas mais relevantes deverá ser conferida prioridade, tanto na adopção de medidas destinadas ao seu incremento como no acesso aos apoios instituídos."
+  },
+  "902264290": {
+   "fragment_id": "902264202",
+   "type": 11,
+   "heading": "Artigo 4.º — Comissão Regional do Mercado Social de Emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comissão Regional do Mercado Social de Emprego\n\n1 - Para o desenvolvimento e acompanhamento das iniciativas constantes do presente diploma é criada a Comissão Regional do Mercado Social de Emprego.\n\n2 - Compete à Comissão Regional do Mercado Social de Emprego, nomeadamente:\n\na) Acompanhar e avaliar as medidas integradas no mercado social de emprego;\n\nb) Definir anualmente a prioridade do público alvo a contemplar nos apoios;\n\nc) Propor o reconhecimento da condição de empresa ou entidade integrada no mercado social de emprego e a concessão de apoios;\n\nd) Definir critérios de análise que possibilitem a transparência e a pertinência na concessão de apoios;\n\ne) Assegurar o conhecimento da realidade sócio-económica que integra ou pode integrar o mercado social de emprego;\n\nf) Promover a recolha e difusão de informação sobre novas possibilidades de actividades e de financiamento;\n\ng) Intervir junto dos centros de decisão, públicos ou privados, para que surjam iniciativas tendentes à solução de problemas sociais existentes;\n\nh) Apresentar propostas de medidas de política de emprego e formação, articuladas com a solução dos problemas sociais que afectam o público alvo;\n\ni) Elaborar e difundir relatórios periódicos de avaliação, em que se destaquem, nomeadamente, e de maneira tão quantificada quanto possível, os problemas existentes, as medidas e resultados das mesmas e a evolução verificada ao longo do período considerado;\n\nj) Propor a revogação dos apoios atribuídos.\n\n3 - A Comissão Regional do Mercado Social de Emprego tem a seguinte composição:\n\na) Um representante da Direcção Regional da Juventude, Emprego e Formação Profissional, que preside;\n\nb) Dois representantes da Secretaria Regional da Economia;\n\nc) Um representante do Instituto de Acção Social;\n\nd) Um representante da Direcção Regional de Organização e Administração Pública;\n\ne) Um representante da União Regional das Misericórdias dos Açores;\n\nf) Um representante do Secretariado Regional da União das Instituições Particulares de Solidariedade Social;\n\ng) Um representante de cada uma das confederações sindicais;\n\nh) Um representante da Câmara de Comércio e Indústria dos Açores.\n\n4 - A Comissão Regional do Mercado Social de Emprego reunirá pelo menos uma vez por trimestre.\n\n5 - A Comissão poderá ainda reunir extraordinariamente sempre que o presidente, por iniciativa própria ou a solicitação fundamentada de qualquer dos seus membros, a convoque, tendo carácter obrigatório a proposta de um quinto dos seus membros.\n\n6 - A Comissão elabora o projecto de seu regulamento interno, a homologar pelo Secretário Regional competente em matéria de emprego.\n\n7 - O apoio técnico, administrativo e financeiro à Comissão é assegurado pela Direcção Regional da Juventude, Emprego e Formação Profissional."
+  },
+  "902264291": {
+   "fragment_id": "902264203",
+   "type": 11,
+   "heading": "Artigo 5.º — Destinatários do mercado social de emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Destinatários do mercado social de emprego\n\n1 - São destinatários das medidas integradas no mercado social de emprego os desempregados em situação de desfavorecimento como tal inscritos nas agências para a qualificação e emprego.\n\n2 - Para efeitos do número anterior, consideram-se em situação de desfavorecimento os seguintes grupos de desempregados:\n\na) Repatriados e deportados;\n\nb) Alcoólicos e toxicodependentes em processo de recuperação;\n\nc) Beneficiários do rendimento mínimo garantido;\n\nd) Deficientes passíveis de ingresso no mercado de trabalho;\n\ne) Ex-reclusos em condições de reinserção na vida activa;\n\nf) Pessoas com perturbações psiquiátricas em processo de recuperação;\n\ng) Pessoas sem abrigo;\n\nh) Outros grupos sociais desfavorecidos, a definir por despacho do Secretário Regional competente em matéria de emprego, ouvida a Comissão Regional do Mercado Social de Emprego."
+  },
+  "902264292": {
+   "fragment_id": "902264204",
+   "type": 11,
+   "heading": "Artigo 6.º — Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Gestão financeira\n\n1 - A gestão financeira dos projectos desenvolvidos no âmbito das medidas integradas no mercado social de emprego é da competência do Gabinete de Gestão Financeira do Emprego.\n\n2 - O orçamento do Gabinete de Gestão Financeira do Emprego deve inscrever dotação própria para apoio ao mercado social de emprego.\n\n3 - Os apoios previstos no presente diploma não são cumuláveis com outros apoios financeiros públicos de qualquer natureza destinados aos mesmos fins."
+  },
+  "902264293": {
+   "fragment_id": "902264205",
+   "type": 11,
+   "heading": "Artigo 7.º — Comparticipações financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comparticipações financeiras\n\n1 - A atribuição das comparticipações financeiras e empréstimos previstos no presente diploma é feita por resolução do Conselho do Governo.\n\n2 - Excepto quando disso sejam dispensados pela resolução a que se refere o número anterior, os beneficiários ficam obrigados a apresentar seguro-caução ou qualquer outra forma de garantia real que cubra o eventual reembolso das quantias atribuídas durante o período a que ficam obrigados a manter os postos de trabalho."
+  },
+  "902264294": {
+   "fragment_id": "902264206",
+   "type": 11,
+   "heading": "Artigo 8.º — Contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contrato\n\n1 - A concessão de qualquer dos apoios estabelecidos no âmbito do presente diploma é precedida pela assinatura de um contrato entre a entidade beneficiária e o Gabinete de Gestão Financeira do Emprego onde sejam claramente estabelecidas as responsabilidades mútuas.\n\n2 - Dos contratos a que se refere o número anterior é publicado extracto no Jornal Oficial."
+  },
+  "902264295": {
+   "fragment_id": "902264207",
+   "type": 11,
+   "heading": "Artigo 9.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Incumprimento\n\n1 - O não cumprimento injustificado das obrigações assumidas no âmbito das medidas previstas no presente diploma determina o reembolso imediato das quantias que tiverem sido disponibilizadas, acrescidas dos juros legais, sem prejuízo do procedimento disciplinar, civil ou criminal a que haja lugar.\n\n2 - O não pagamento dos empréstimos e das comparticipações reembolsáveis previstos no presente diploma, bem como das quantias resultantes da aplicação do disposto no número anterior, decorridos 60 dias após a notificação pelo Gabinete de Gestão Financeira do Emprego, determina a execução fiscal nos termos da lei."
+  },
+  "902264296": {
+   "fragment_id": "902264208",
+   "type": 1,
+   "heading": "Capítulo II — Empresas de inserção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Empresas de inserção"
+  },
+  "902264297": {
+   "fragment_id": "902264209",
+   "type": 11,
+   "heading": "Artigo 10.º — Conceito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conceito\n\n1 - São «empresas de inserção» as pessoas colectivas de qualquer natureza, sem fins lucrativos, que desenvolvam políticas activas de emprego tendo por fim a inserção ou reinserção sócio-profissional de desempregados cuja baixa empregabilidade os coloque em situação de desfavorecimento face ao mercado de trabalho.\n\n2 - O estatuto de empresa de inserção é atribuído, a requerimento das entidades que preencham os requisitos definidos no número anterior, por despacho conjunto dos secretários regionais competentes em matéria de emprego e de economia, ouvida a Comissão Regional do Mercado Social de Emprego."
+  },
+  "902264298": {
+   "fragment_id": "902264210",
+   "type": 11,
+   "heading": "Artigo 11.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Organização\n\n1 - As empresas de inserção organizam-se e funcionam segundo modelos de gestão empresarial, com as adaptações exigidas pelos fins que prosseguem, nomeadamente as relativas à adaptação dos postos de trabalho e dos ritmos e da organização do trabalho às características dos trabalhadores em processo de inserção.\n\n2 - As empresas de inserção devem dispor de técnicos de apoio para as áreas administrativa e de gestão e equipas de enquadramento para o processo de inserção."
+  },
+  "902264299": {
+   "fragment_id": "902264211",
+   "type": 11,
+   "heading": "Artigo 12.º — Modificação e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Modificação e extinção\n\n1 - O estatuto de empresa de inserção pode ser retirado, por despacho conjunto dos secretários regionais competentes em matéria de emprego e de economia, ouvida a Comissão Regional do Mercado Social de Emprego, quando se verifique qualquer das seguintes condições:\n\na) A empresa não realize os fins que presidiram à sua criação ou quando, por qualquer motivo, tal se mostre gravemente prejudicado;\n\nb) A empresa apresente grave desequilíbrio financeiro, pondo em causa a sua viabilidade;\n\nc) Se comprove má gestão ou a existência de comportamentos fraudulentos ou atentatórios da dignidade dos trabalhadores em reinserção;\n\nd) A empresa pratique concorrência desleal ou se comprovem práticas que distorçam o mercado de trabalho;\n\ne) Se comprove a ineficácia das estratégias de inserção seguidas;\n\nf) A empresa não obtenha ou perca a qualidade de entidade acreditada para formação profissional;\n\ng) Seja negado o acesso dos serviços de emprego ou segurança social à documentação contabilística ou outra relevante para avaliação do funcionamento da empresa;\n\nh) Não forneça à Comissão Regional do Mercado Social de Emprego os elementos que esta solicite;\n\ni) A empresa tenha esgotado o fim para o qual foi constituída, nomeadamente quando cessem as necessidades de reinserção dos seus beneficiários.\n\n2 - Deve ser comunicada à Direcção Regional da Juventude, Emprego e Formação Profissional, no prazo de 10 dias úteis, qualquer modificação do acto constitutivo ou institutivo das pessoas colectivas sem fins lucrativos que gozem do estatuto de empresa de inserção."
+  },
+  "902264300": {
+   "fragment_id": "902264212",
+   "type": 11,
+   "heading": "Artigo 13.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Recrutamento\n\nO recrutamento dos destinatários é efectuado pelas empresas de inserção em cooperação com as agências para a qualificação e emprego e com os serviços locais do Instituto de Acção Social e outras entidades ou instituições, públicas ou privadas, que exerçam a sua actividade nos domínios do emprego e da inserção social."
+  },
+  "902264301": {
+   "fragment_id": "902264213",
+   "type": 11,
+   "heading": "Artigo 14.º — Processo de inserção ou reinserção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Processo de inserção ou reinserção\n\n1 - Para cada trabalhador admitido em processo de inserção ou reinserção é elaborado um plano individual de inserção, que, atendendo ao perfil e às motivações do trabalhador e às suas necessidades de formação para adaptação ao posto de trabalho, deve compreender as seguintes fases:\n\na) Formação profissional, visando o desenvolvimento de competências pessoais, sociais e profissionais, com a duração máxima de seis meses;\n\nb) Profissionalização, através do exercício de uma actividade na empresa de inserção, visando o desenvolvimento e a consolidação das competências adquiridas.\n\n2 - O processo de inserção pode implicar a aplicação de outras medidas activas de política de emprego, bem como de medidas tendo em vista a respectiva inserção social, em estreita colaboração entre as entidades responsáveis pela sua promoção e as empresas de inserção.\n\n3 - O controlo do processo de inserção no mercado de trabalho é da competência do Instituto de Acção Social, das agências para a qualificação e emprego e da Inspecção Regional do Trabalho.\n\n4 - Por acordo entre o trabalhador em processo de inserção e a empresa de inserção, pode, sempre que tal se revele adequado, ser dispensada a fase de formação profissional."
+  },
+  "902264302": {
+   "fragment_id": "902264214",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contrato de formação\n\n1 - Durante a fase de formação a que se refere a alínea a) do n.º 1 do artigo anterior, as relações entre as pessoas em processo de inserção e a empresa de inserção são reguladas num contrato de formação, que será visado pelo director regional da Juventude, Emprego e Formação Profissional.\n\n2 - Os formandos beneficiam de um seguro contra acidentes de trabalho e de uma bolsa de formação no valor mensal do salário mínimo regional, salvo nos casos em que legislação específica estabeleça tratamento mais favorável, sendo abrangidos pelos direitos e deveres do regime de segurança social dos trabalhadores por conta de outrem."
+  },
+  "902264303": {
+   "fragment_id": "902264215",
+   "type": 11,
+   "heading": "Artigo 16.º — Contrato de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contrato de trabalho\n\nConcluída a fase de formação, ou quando o trabalhador dela seja dispensado nos termos do n.º 4 do artigo 14.º do presente diploma, as relações entre as pessoas em processo de inserção e a empresa de inserção são reguladas num contrato de trabalho a termo certo não inferior a 6 nem superior a 24 meses."
+  },
+  "902264304": {
+   "fragment_id": "902264216",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apoios\n\n1 - As empresas de inserção beneficiam, no âmbito do mercado social de emprego, dos seguintes apoios:\n\na) Apoio técnico e financeiro ao investimento;\n\nb) Apoio financeiro ao funcionamento;\n\nc) Prémio de integração.\n\n2 - São condições de atribuição dos apoios previstos no número anterior a aprovação da candidatura pela Comissão Regional do Mercado Social de Emprego e a existência de cabimento orçamental no Gabinete de Gestão Financeira do Emprego.\n\n3 - O montante dos apoios financeiros a conceder para o desenvolvimento da medida será definido anualmente no orçamento do Gabinete de Gestão Financeira do Emprego."
+  },
+  "902264305": {
+   "fragment_id": "902264217",
+   "type": 11,
+   "heading": "Artigo 18.º — Apoios técnicos e financeiros ao investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Apoios técnicos e financeiros ao investimento\n\n1 - A administração regional autónoma, através das suas unidades orgânicas e em colaboração com as instituições públicas e privadas que se disponibilizem para o efeito, concede apoio técnico, nomeadamente na identificação das necessidades locais, formação em gestão e na preparação e acompanhamento do processo de inserção desde a admissão até à efectiva integração no mercado de trabalho.\n\n2 - O apoio financeiro ao investimento é proposto por despacho do secretário regional competente em matéria de emprego, ouvida a Comissão Regional do Mercado Social de Emprego, e pode assumir cumulativamente a forma de comparticipação não reembolsável e de empréstimo sem juros.\n\n3 - A comparticipação não reembolsável é no valor máximo de 50% do montante das despesas de investimento elegíveis, não podendo, porém, exceder o valor de 18 vezes o salário mínimo regional por cada posto de trabalho ocupado por trabalhadores em processo de inserção.\n\n4 - O montante máximo do empréstimo sem juros, reembolsável num prazo máximo de sete anos, incluindo nestes dois anos de carência, pode atingir 25% das despesas de investimento elegíveis, não podendo, porém, exceder o valor de 18 vezes o salário mínimo regional por cada posto de trabalho ocupado por trabalhadores em processo de inserção.\n\n5 - As entidades beneficiárias constituem-se no dever de manter preenchidos os postos de trabalho criados para trabalhadores em processo de inserção à data da candidatura até integral satisfação da obrigação de reembolso."
+  },
+  "902264306": {
+   "fragment_id": "902264218",
+   "type": 11,
+   "heading": "Artigo 19.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Elegibilidade das despesas\n\n1 - Para efeitos do cálculo do apoio financeiro ao investimento previsto no artigo anterior, é apoiado todo o investimento em capital fixo, corpóreo e incorpóreo, indispensável ao exercício da actividade, excluindo a aquisição de terrenos, a construção e aquisição de imóveis e a aquisição de veículos automóveis, salvo se se provar inequivocamente que estes consistem meios de produção inerentes ao desempenho da actividade prevista no projecto de investimento.\n\n2 - Não podem ser apoiadas despesas com a aquisição de equipamentos em estado de uso, salvo em circunstâncias específicas, a requerimento da entidade beneficiária, mediante autorização do director regional da Juventude, Emprego e Formação Profissional, ouvida a Comissão Regional do Mercado Social de Emprego."
+  },
+  "902264307": {
+   "fragment_id": "902264219",
+   "type": 11,
+   "heading": "Artigo 20.º — Apoios financeiros ao funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Apoios financeiros ao funcionamento\n\nSão comparticipáveis as seguintes despesas de funcionamento:\n\na) A bolsa de formação a que se refere o artigo 15.º do presente diploma;\n\nb) Comparticipação na remuneração decorrente do contrato de trabalho a que se refere o artigo 16.º do presente diploma, no montante máximo de 80% do salário mínimo regional, e, na mesma proporção, nas contribuições para a segurança social devidas pela entidade empregadora."
+  },
+  "902264308": {
+   "fragment_id": "902264220",
+   "type": 11,
+   "heading": "Artigo 21.º — Prémio de integração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Prémio de integração\n\n1 - As entidades empregadoras que admitam pessoas em processo de inserção, mediante contrato de trabalho sem termo, no prazo máximo de três meses a contar da conclusão do processo de inserção, beneficiam de um prémio à integração no valor de 12 vezes a remuneração mínima regional.\n\n2 - O prémio referido no número anterior é também atribuído nos casos em que a empresa de inserção converta o contrato de trabalho a termo de uma pessoa em processo de inserção em contrato de trabalho sem termo.\n\n3 - As entidades beneficiárias do prémio de integração constituem-se na obrigação de manterem preenchidos os postos de trabalho criados por via do apoio financeiro concedido, durante um período mínimo de quatro anos, salvo circunstâncias excepcionais devidamente fundamentadas, a apreciar pelo director regional da Juventude, Emprego e Formação Profissional, ouvida a Comissão Regional do Mercado Social do Emprego."
+  },
+  "902264309": {
+   "fragment_id": "902264221",
+   "type": 11,
+   "heading": "Artigo 22.º — Majoração para portadores de deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Majoração para portadores de deficiência\n\nQuando o trabalhador a integrar tenha idade igual ou inferior a 30 anos e tenha obtido o certificado de cumprimento dos requisitos de frequência da escolaridade obrigatória numa escola de educação especial ou em curso integrado no sistema de educação especial, a comparticipação financeira prevista no artigo anterior será elevada para 36 vezes o salário mínimo aplicável."
+  },
+  "902264310": {
+   "fragment_id": "902264222",
+   "type": 11,
+   "heading": "Artigo 23.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Candidaturas\n\n1 - A medida é de candidatura fechada, devendo existir anualmente pelo menos dois períodos de candidatura.\n\n2 - Podem candidatar-se pessoas singulares ou colectivas sem fins lucrativos que assumam a obrigação de constituir e, se legalmente exigido, registar, no prazo máximo de seis meses a contar da data de decisão de aprovação de candidatura, a empresa de inserção.\n\n3 - Os períodos de candidatura, os instrumentos de candidatura e a documentação que os devem acompanhar, bem como a tramitação de aprovação, são fixados por portaria do secretário regional competente em matéria de emprego."
+  },
+  "902264311": {
+   "fragment_id": "902264223",
+   "type": 1,
+   "heading": "Capítulo III — Integração no mercado de emprego de trabalhadores portadores de deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Integração no mercado de emprego de trabalhadores portadores de deficiência"
+  },
+  "902264312": {
+   "fragment_id": "902264224",
+   "type": 11,
+   "heading": "Artigo 24.º — Trabalhadores portadores de deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Trabalhadores portadores de deficiência\n\nPara efeitos do presente diploma, consideram-se «trabalhadores portadores de deficiência» aqueles que apresentem desvalorização superior a 60%, avaliada e certificada de acordo com o estabelecido na lei, e que disponham de capacidade de trabalho compatível com a actividade a desenvolver."
+  },
+  "902264313": {
+   "fragment_id": "902264225",
+   "type": 11,
+   "heading": "Artigo 25.º — Incentivos à empregabilidade de deficientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Incentivos à empregabilidade de deficientes\n\n1 - Os incentivos a conceder para o fomento da empregabilidade revestem a forma de apoio técnico e de comparticipação financeira para a realização das seguintes actividades:\n\na) Instalação para o exercício de uma actividade económica como trabalhador independente ou empresário em nome individual;\n\nb) Incentivo aos empregadores para a contratação de trabalhadores portadores de deficiência;\n\nc) Apoio à adaptação técnico-funcional de postos de trabalho para inserção de trabalhadores portadores de deficiência e apoio à eliminação de barreiras arquitectónicas no local de trabalho.\n\n2 - São cumuláveis entre si as comparticipações financeiras previstas nas alíneas b) e c) do número anterior, e estas apenas quando o trabalhador seja contratado a título permanente."
+  },
+  "902264314": {
+   "fragment_id": "902264226",
+   "type": 11,
+   "heading": "Artigo 26.º — Instalação por conta própria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Instalação por conta própria\n\n1 - O apoio à instalação por conta própria consiste na concessão de um incentivo financeiro visando a realização do investimento necessário à instalação como trabalhador independente ou empresário em nome individual de portadores de deficiência.\n\n2 - Podem beneficiar do apoio à instalação previsto no número anterior os portadores de deficiência que cumpram cumulativamente os seguintes requisitos:\n\na) Tenham pelo menos 18 anos e gozem de idoneidade civil;\n\nb) Estejam inscritos nas agências para a qualificação e emprego na qualidade de desempregados;\n\nc) Possuam os requisitos habilitacionais e profissionais que sejam obrigatórios para o exercício da actividade pretendida;\n\nd) Visem o exercício de uma actividade viável, demonstrada através de projecto de investimento adequado;\n\ne) Comprometam-se a manter a actividade durante pelo menos cinco anos, contados da data de recebimento do incentivo.\n\n3 - O apoio à instalação consiste na concessão de uma comparticipação financeira a fundo perdido igual ao valor do investimento a realizar, até um montante máximo de 36 vezes o salário mínimo aplicável.\n\n4 - Quando o montante previsto no número anterior não for suficiente para cobrir o investimento, poderá ser concedido um empréstimo sem juros, no valor do investimento remanescente, até ao montante máximo de 50 vezes o salário mínimo aplicável.\n\n5 - Cada beneficiário apenas poderá beneficiar por uma vez dos apoios previstos nos números anteriores."
+  },
+  "902264315": {
+   "fragment_id": "902264227",
+   "type": 11,
+   "heading": "Artigo 27.º — Incumprimento e reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Incumprimento e reembolso\n\n1 - Sem prejuízo do disposto no artigo 9.º do presente diploma, a cessação da actividade antes de decorrido o período a que se refere a alínea e) do n.º 2 do artigo anterior, implica a devolução imediata de todos os montantes recebidos, acrescidos dos juros legais.\n\n2 - As quantias cedidas a título de empréstimo nos termos do n.º 4 do artigo anterior são concedidas por um período máximo de sete anos, sendo reembolsadas, após um período de carência de dois anos, em 10 prestações semestrais de igual montante.\n\n3 - A obrigação de reembolso extingue-se com o falecimento do beneficiário."
+  },
+  "902264316": {
+   "fragment_id": "902264228",
+   "type": 11,
+   "heading": "Artigo 28.º — Incentivos à contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Incentivos à contratação\n\n1 - Os incentivos à contratação destinam-se a apoiar as entidades empregadoras que admitam ao seu serviço trabalhadores portadores de deficiência.\n\n2 - A contratação dos trabalhadores referidos no número anterior é feita através das agências para a qualificação e emprego, de entre os desempregados inscritos que sejam portadores de deficiência, devendo o apoio ser requerido nos 20 dias úteis subsequentes à contratação do trabalhador."
+  },
+  "902264317": {
+   "fragment_id": "902264229",
+   "type": 11,
+   "heading": "Artigo 29.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entidades beneficiárias\n\nPodem beneficiar de incentivos à contratação de trabalhadores portadores de deficiência as entidades que cumpram cumulativamente as seguintes condições:\n\na) Contratem os trabalhadores portadores de deficiência nas mesmas condições de benefícios sociais, deveres e garantias aplicados aos restantes trabalhadores ao seu serviço;\n\nb) Cumpram em relação ao trabalhador portador de deficiência os requisitos salariais e outros estabelecidos na lei e nos instrumentos de regulamentação colectiva de trabalho aplicáveis;\n\nc) Comprometam-se a manter o trabalhador ao seu serviço durante pelo menos cinco anos, em caso de admissão definitiva, ou pelo período que contratualmente for estabelecido, nas restantes situações;\n\nd) Não sejam empresas de inserção criadas no âmbito do presente diploma."
+  },
+  "902264318": {
+   "fragment_id": "902264230",
+   "type": 11,
+   "heading": "Artigo 30.º — Comparticipação financeira por contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Comparticipação financeira por contratação\n\n1 - A comparticipação é calculada de acordo com o valor da remuneração mensal fixado no instrumento de regulamentação colectiva de trabalho aplicável ou, na ausência deste, de acordo com o nível médio de remuneração praticado para igual ramo de actividade e categoria profissional na localidade.\n\n2 - Os pedidos de comparticipação são obrigatoriamente acompanhados por um exemplar do contrato de trabalho ou cópia autenticada."
+  },
+  "902264319": {
+   "fragment_id": "902264231",
+   "type": 11,
+   "heading": "Artigo 31.º — Comparticipação por contrato a termo em emprego protegido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Comparticipação por contrato a termo em emprego protegido\n\n1 - Em caso de admissão por contrato a termo, certo ou incerto, sempre com duração mínima de seis meses, a comparticipação a atribuir é equivalente a 65% do salário referido no artigo anterior, sendo atribuída pelo tempo da duração do contrato, até ao máximo de 12 meses.\n\n2 - A comparticipação é paga mensalmente mediante a apresentação do recibo de salário pago e das folhas de remunerações devidamente visadas pelos serviços de segurança social.\n\n3 - O mesmo empregador não pode beneficiar, em relação ao mesmo trabalhador ou outro contratado para o mesmo posto de trabalho, de nova comparticipação, por contratação a termo, antes de decorridos 12 meses após o termo da anterior."
+  },
+  "902264320": {
+   "fragment_id": "902264232",
+   "type": 11,
+   "heading": "Artigo 32.º — Comparticipação por conversão em contrato sem termo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Comparticipação por conversão em contrato sem termo\n\n1 - A transformação do contrato a termo em contrato sem termo é compensada com a atribuição de uma comparticipação adicional equivalente a 12 vezes a remuneração mensal referida no artigo 30.º, a conceder em duas prestações iguais, uma à data da assinatura do contrato e outra decorridos 12 meses sobre aquela data, após confirmação de que o trabalhador se mantém em funções.\n\n2 - Na situação prevista no presente artigo, a entidade empregadora fica obrigada a manter o trabalhador pelo período de cinco anos, deduzidos do período do contrato a termo."
+  },
+  "902264321": {
+   "fragment_id": "902264233",
+   "type": 11,
+   "heading": "Artigo 33.º — Comparticipação por contrato sem termo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Comparticipação por contrato sem termo\n\n1 - A admissão definitiva quando não seja precedida de contratação a termo confere ao empregador o direito a uma comparticipação igual ao valor de 24 vezes a remuneração mensal referida no n.º 1 do artigo 30.º, a conceder em duas prestações iguais, uma após o período experimental e outra decorridos 12 meses sobre a data da contratação e após confirmação de que o trabalhador se mantém ao serviço.\n\n2 - Quando o trabalhador admitido tenha idade igual ou inferior a 30 anos e tenha obtido o certificado de cumprimento dos requisitos de frequência da escolaridade obrigatória numa escola de educação especial ou em curso integrado no sistema de educação especial, a comparticipação financeira prevista no número anterior será elevada para 36 vezes a remuneração mensal referida no número anterior.\n\n3 - Em caso de admissão a título definitivo, a cessação do contrato de trabalho antes de decorridos cinco anos após a sua celebração obriga ao reembolso das quantias recebidas pela entidade patronal, deduzidas de 1/60 do seu valor total por cada mês de trabalho prestado pelo trabalhador."
+  },
+  "902264322": {
+   "fragment_id": "902264234",
+   "type": 11,
+   "heading": "Artigo 34.º — Adaptação técnico-funcional de postos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Adaptação técnico-funcional de postos de trabalho\n\n1 - O apoio à adaptação técnico-funcional de postos de trabalho e à eliminação de barreiras arquitectónicas no local de trabalho destina-se a apoiar as entidades empregadoras que, em resultado da existência nos seus quadros de trabalhadores portadores de deficiência, necessitem de alterar as suas instalações ou equipamentos por forma a melhorar a inserção no ambiente de trabalho e aumentar a produtividade desses trabalhadores.\n\n2 - Os apoios à adaptação do posto de trabalho e remoção de barreiras arquitectónicas no local de trabalho revestem a forma de comparticipação a fundo perdido e têm valor igual ao do investimento feito até um montante máximo de 36 vezes o salário mínimo regional.\n\n3 - Podem beneficiar dos apoios previstos no número anterior as entidades empregadoras que cumpram cumulativamente as seguintes condições:\n\na) Integrem a título definitivo, nos seus quadros, nas mesmas condições dos restantes trabalhadores, trabalhadores portadores de deficiência;\n\nb) As adaptações técnico-funcionais e a remoção de barreiras arquitectónicas sejam adequadas à situação específica desses trabalhadores;\n\nc) Obriguem-se a manter ao seu serviço trabalhadores portadores de deficiência durante pelo menos cinco anos após a conclusão do investimento.\n\n4 - A concessão da comparticipação está dependente da apresentação dos documentos comprovativos de despesa.\n\n5 - A concessão da comparticipação está condicionada à aprovação pela Direcção Regional da Juventude, Emprego e Formação Profissional, ouvida a Comissão Regional do Mercado Social de Emprego, antes de iniciada a obra, do projecto ou memória descritiva do investimento a fazer, devidamente quantificado.\n\n6 - A entidade que beneficie do apoio previsto no presente artigo quando deixe de integrar trabalhadores portadores de deficiência nos seus quadros antes de decorridos cinco anos sobre a data de realização do investimento obriga-se ao reembolso integral das quantias concedidas, deduzidas de 1/60 do seu valor total por cada mês durante o qual tenha mantido ao seu serviço pelo menos um trabalhador portador de deficiência, comprovado através das folhas de remunerações e guias de pagamento da taxa social única devidamente visadas pelos serviço da segurança social."
+  },
+  "902264323": {
+   "fragment_id": "902264235",
+   "type": 11,
+   "heading": "Artigo 35.º — Candidatura e processo de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Candidatura e processo de concessão\n\n1 - As medidas de fomento da empregabilidade de portadores de deficiência são de candidatura aberta, sendo os instrumentos de candidatura e a documentação que os devem acompanhar fixados por despacho do director regional da Juventude, Emprego e Formação Profissional.\n\n2 - Os requerimentos para a concessão da comparticipação são entregues nas agências para a qualificação e emprego ou nos serviços locais da segurança social.\n\n3 - As candidaturas são apreciadas pelos serviços competentes da Direcção Regional da Juventude, Emprego e Formação Profissional e submetidas a parecer da Comissão Regional do Mercado Social de Emprego."
+  },
+  "902264324": {
+   "fragment_id": "902264236",
+   "type": 1,
+   "heading": "Capítulo IV — Programas ocupacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Programas ocupacionais"
+  },
+  "902264325": {
+   "fragment_id": "902264237",
+   "type": 11,
+   "heading": "Artigo 36.º — Actividade ocupacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Actividade ocupacional\n\n1 - Para os efeitos do presente diploma, entende-se por «actividade ocupacional» a ocupação temporária de desempregados em tarefas que satisfaçam comprovadas necessidades colectivas.\n\n2 - A actividade ocupacional não pode consistir no preenchimento de um posto de trabalho existente.\n\n3 - As actividades ocupacionais são realizadas no âmbito de projectos enquadrados em programas específicos a aprovar por resolução do Conselho do Governo Regional e geridos por entidades promotoras."
+  },
+  "902264326": {
+   "fragment_id": "902264238",
+   "type": 11,
+   "heading": "Artigo 37.º — Desempregados elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Desempregados elegíveis\n\n1 - Para além dos grupos sociais a que se refere o artigo 5.º do presente diploma, podem ainda ser abrangidos pelos programas ocupacionais os trabalhadores sazonais e os desempregados cujo último emprego público não esteja abrangido por qualquer regime de protecção social no desemprego.\n\n2 - Podem ainda ser criados programas específicos de ocupação social voltados para a integração no mundo do trabalho de beneficiários do rendimento mínimo garantido disponíveis para trabalhar.\n\n3 - Para os efeitos do número anterior, consideram-se beneficiários do rendimento mínimo garantido disponíveis para trabalhar os indivíduos titulares da prestação do rendimento mínimo e os membros do seu agregado familiar que não se encontrem dispensados da disponibilidade activa para a inserção profissional, nos termos do Decreto-Lei n.º 196/97, de 31 de Julho, e que reúnam cumulativamente as seguintes condições:\n\na) Tenham celebrado acordo de inserção, nos termos do artigo 40.º do Decreto-Lei n.º 196/97, de 31 de Julho, prevendo o respectivo encaminhamento para o desenvolvimento de actividades nos domínios do emprego e da formação;\n\nb) Não estejam abrangidos por outros programas de inserção nos domínios do emprego ou formação."
+  },
+  "902264327": {
+   "fragment_id": "902264239",
+   "type": 11,
+   "heading": "Artigo 38.º — Entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entidades promotoras\n\nPodem ser entidades promotoras de projectos de ocupação social de desempregados as seguintes entidades:\n\na) Instituições particulares de solidariedade social e santas casas da misericórdia;\n\nb) Serviços dependentes da administração central;\n\nc) Serviços públicos dependentes da administração pública regional, desde que autorizados por despacho conjunto do secretário regional competente em matéria de função pública e daquele que tutele o serviço;\n\nd) Autarquias locais."
+  },
+  "902264328": {
+   "fragment_id": "902264240",
+   "type": 11,
+   "heading": "Artigo 39.º — Acordos ocupacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Acordos ocupacionais\n\n1 - A relação entre o trabalhador em ocupação temporária e a entidade promotora do projecto rege-se por um acordo ocupacional.\n\n2 - O acordo ocupacional não gera nem titula relações de trabalho subordinado, caducando com o termo do projecto no âmbito do qual foi celebrado.\n\n3 - As entidades promotoras não podem exigir dos ocupados o desempenho de tarefas que não se integrem nos projectos aprovados.\n\n4 - Os ocupados estão abrangidos pelo regime de segurança social aplicável aos trabalhadores por conta de outrem e gozam de um mês de descanso subsidiado por cada 12 meses efectivos de ocupação."
+  },
+  "902264329": {
+   "fragment_id": "902264241",
+   "type": 11,
+   "heading": "Artigo 40.º — Programas e projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Programas e projectos\n\nOs domínios e projectos de actividade, bem como os apoios técnicos e financeiros a conceder no âmbito da presente medida, são fixados na resolução que crie o programa."
+  },
+  "902264330": {
+   "fragment_id": "902264242",
+   "type": 1,
+   "heading": "Capítulo V — Programas de formação sócio-profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Programas de formação sócio-profissional"
+  },
+  "902264331": {
+   "fragment_id": "902264243",
+   "type": 11,
+   "heading": "Artigo 41.º — Cursos de formação sócio-profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Cursos de formação sócio-profissional\n\n1 - Com o objectivo de aumentar a empregabilidade dos desempregados abrangidos pelas medidas activas de promoção do emprego, podem ser criados cursos de formação sócio-profissional específicos integrados no sistema de educação extra-escolar.\n\n2 - O conteúdo curricular e a duração de cada curso de formação sócio-profissional regem-se por portaria própria do secretário regional competente em matéria de educação.\n\n3 - Sempre que apropriado, poderá a portaria referida no número anterior estabelecer a equivalência escolar entre os cursos de formação sócio-profissional e um ou mais módulos do sistema de ensino recorrente.\n\n4 - Podem candidatar-se à realização de cursos as entidades integradas no sistema de educação extra-escolar e aquelas que estejam acreditadas como entidades formadoras.\n\n5 - A certificação dos cursos é feita nos termos estabelecidos para o sistema de formação extra-escolar e compete ao estabelecimento oficial de ensino que, para o nível de escolaridade em causa, sirva a área onde se realize o curso."
+  },
+  "902264332": {
+   "fragment_id": "902264244",
+   "type": 11,
+   "heading": "Artigo 42.º — Candidatura e processo de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Candidatura e processo de concessão\n\n1 - A candidatura à realização de cursos sócio-profissionais é feita em regime de candidatura aberta.\n\n2 - As candidaturas são apreciadas pelos serviços competentes da Direcção Regional da Juventude, Emprego e Formação Profissional e submetidas a parecer da Comissão Regional do Mercado Social de Emprego."
+  },
+  "902264333": {
+   "fragment_id": "902264245",
+   "type": 11,
+   "heading": "Artigo 43.º — Realização e frequência dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Realização e frequência dos cursos\n\n1 - Ouvida a Comissão Regional do Mercado Social de Emprego, a realização de um ou mais cursos de formação sócio-profissional para os trabalhadores abrangidos poderá constituir uma das condições para a atribuição dos apoios constantes do presente diploma.\n\n2 - Sem prejuízo do disposto no número seguinte, a frequência de um curso de formação sócio-profissional, ouvida a Comissão Regional do Mercado Social de Emprego, poderá ser considerada como condição para a aceitação de um trabalhador em projectos apoiados no âmbito do presente diploma.\n\n3 - A frequência do curso de formação a que se refere o número anterior é obrigatória para os trabalhadores em inserção que não sejam titulares de certificado de cumprimento dos requisitos de escolaridade obrigatória a que o grupo etário em que se integrem esteja sujeito."
+  },
+  "902264334": {
+   "fragment_id": "902264246",
+   "type": 11,
+   "heading": "Artigo 44.º — Apoios para realização e frequência dos cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Apoios para realização e frequência dos cursos\n\n1 - As entidades que realizem cursos de formação sócio-profissional no âmbito do presente regulamento beneficiam dos seguintes apoios:\n\na) Apoio técnico-pedagógico na organização e funcionamento dos cursos;\n\nb) Uma comparticipação por cada hora efectiva de formação para as despesas com o formador e com o funcionamento do curso no valor de 5% do salário mínimo regional.\n\n2 - Os formandos, quando a frequência do curso não esteja incluída no respectivo horário de trabalho e constitua obrigação nos termos do estabelecido no artigo anterior, beneficiam de uma bolsa de formação no valor de 50% do salário mínimo regional por cada cento e vinte e cinco horas efectivas de formação frequentada."
+  },
+  "902264335": {
+   "fragment_id": "902264247",
+   "type": 1,
+   "heading": "Capítulo VI — Iniciativas locais de emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Iniciativas locais de emprego"
+  },
+  "902264336": {
+   "fragment_id": "902264248",
+   "type": 11,
+   "heading": "Artigo 45.º — Iniciativas locais de emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Iniciativas locais de emprego\n\n1 - Para efeitos do presente diploma, consideram-se «iniciativas locais de emprego» (ILE) os investimentos que resultem na criação líquida de postos de trabalho, promovidas por entidades de qualquer natureza jurídica, com ou sem fins lucrativos, que obedeçam cumulativamente às seguintes condições:\n\na) Não possam ser enquadradas nos sistemas de apoio à dinamização económica em vigor;\n\nb) Sejam promovidas por entidades que demonstrem capacidade empresarial e viabilidade económica e social;\n\nc) Estejam claramente inseridas na dinâmica da comunidade e demonstrem ter sustentabilidade;\n\nd) A entidade promotora disponha de capitais próprios equivalentes a um montante mínimo de 25% do investimento total a efectuar;\n\ne) Prossigam um objectivo claro de criação líquida de postos de trabalho e de aumento da empregabilidade dos seus trabalhadores.\n\n2 - A viabilidade económica e social a que se refere a alínea b) do número anterior deverá medir-se por:\n\na) Realismo dos elementos previsionais apresentados, tipo de actividade a desenvolver e capacidade do mercado potencial;\n\nb) Percentagem de capital próprio e origem dos fundos a investir;\n\nc) Capacidade de gerar receitas que, complementadas com os apoios previstos no presente diploma, assegurem a autonomia financeira do projecto e a manutenção dos postos de trabalho criados;\n\nd) Capacidade para assegurar os encargos sociais com os trabalhadores e cumprir as normas constantes dos instrumentos de regulamentação colectiva de trabalho aplicáveis.\n\n3 - Compete à Direcção Regional da Juventude, Emprego e Formação Profissional, a requerimento da entidade promotora e ouvida a Comissão do Mercado Social de Emprego, reconhecer a uma iniciativa de criação de emprego o estatuto de ILE."
+  },
+  "902264337": {
+   "fragment_id": "902264249",
+   "type": 11,
+   "heading": "Artigo 46.º — Desempregados elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Desempregados elegíveis\n\n1 - Para além dos grupos sociais a que se refere o artigo 5.º do presente diploma, são ainda elegíveis para ocupação dos postos de trabalho criados por iniciativas locais de emprego (ILE) desempregados que se encontrem em qualquer das seguintes condições:\n\na) Sejam proponentes da iniciativa, qualquer que seja a sua situação social ou qualificação profissional;\n\nb) Estejam abrangidos por programas ocupacionais de qualquer natureza;\n\nc) Sejam desempregados de longa duração inscritos nas agências para a qualificação e emprego há mais de 12 meses;\n\nd) Sejam jovens com idade inferior a 25 anos.\n\n2 - Quando o posto de trabalho a ocupar exija qualificação profissional específica ou não seja possível o recrutamento de entre os grupos a que se refere o número anterior, ouvida a Comissão Regional do Mercado Social de Emprego, pode a área de recrutamento de trabalhadores ser alargada a todos os desempregados."
+  },
+  "902264338": {
+   "fragment_id": "902264250",
+   "type": 11,
+   "heading": "Artigo 47.º — Apoios técnicos e financeiros ao investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Apoios técnicos e financeiros ao investimento\n\n1 - A administração regional autónoma, através das suas unidades orgânicas e em colaboração com as instituições públicas e privadas que se disponibilizem para o efeito, concede apoio técnico, nomeadamente na identificação das necessidades locais, na formação em gestão, na preparação do processo de candidatura e no acompanhamento do investimento.\n\n2 - O apoio financeiro ao investimento é composto por uma comparticipação a fundo perdido e por um empréstimo sem juros, sendo proposta por despacho do secretário regional competente em matéria de emprego, ouvida a Comissão Regional do Mercado Social de Emprego, devendo respeitar as seguintes condições:\n\na) A comparticipação total não pode ultrapassar, por cada posto de trabalho criado, 36 vezes o valor do salário mínimo mensal aplicável;\n\nb) O valor da comparticipação a fundo perdido não pode ultrapassar, por cada posto de trabalho criado, 12 vezes o valor do salário mínimo mensal aplicável;\n\nc) Em cada projecto não poderão ser considerados, para efeitos de apoio, menos de 2 ou mais de 20 postos de trabalho.\n\n3 - O empréstimo sem juros é reembolsável num prazo máximo de sete anos, incluindo nestes dois anos de carência.\n\n4 - As entidades beneficiárias constituem-se no dever de manter preenchidos os postos de trabalho criados para trabalhadores em processo de inserção até à integral satisfação da obrigação de reembolso."
+  },
+  "902264339": {
+   "fragment_id": "902264251",
+   "type": 11,
+   "heading": "Artigo 48.º — Candidatura e processo de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Candidatura e processo de concessão\n\n1 - O regime de apoio às ILE é de candidatura aberta, sendo os instrumentos de candidatura e a documentação que os deve acompanhar fixados por despacho do director regional da Juventude, Emprego e Formação Profissional.\n\n2 - Os requerimentos para a concessão das comparticipação são entregues nas agências para a qualificação e emprego ou nos serviços locais da segurança social.\n\n3 - As candidaturas são apreciadas pelos serviços competentes da Direcção Regional da Juventude, Emprego e Formação Profissional e submetidos a parecer da Comissão Regional do Mercado Social de Emprego."
+  },
+  "902264340": {
+   "fragment_id": "902264252",
+   "type": 11,
+   "heading": "Artigo 49.º — Prioridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Prioridade\n\nSem prejuízo do estabelecido no n.º 4 do artigo 3.º do presente diploma, quando não seja possível atender a todos os projectos apresentados, os projectos de iniciativa local de emprego são ordenados de acordo com as seguintes prioridades:\n\na) Maior percentagem de desempregados enquadráveis nos grupos sociais constantes do artigo 5.º do presente diploma;\n\nb) Maior percentagem de desempregadas;\n\nc) Maior percentagem de desempregados de longa duração;\n\nd) Maior percentagem de capitais próprios."
+  },
+  "902264341": {
+   "fragment_id": "902264253",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições transitórias e finais"
+  },
+  "902264342": {
+   "fragment_id": "902264254",
+   "type": 11,
+   "heading": "Artigo 50.º — Projectos em tramitação e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Projectos em tramitação e execução\n\nOs processos iniciados até à data de entrada em vigor do presente diploma continuam a regular-se pelo regime em vigor à data da sua apresentação."
+  },
+  "902264343": {
+   "fragment_id": "902264255",
+   "type": 11,
+   "heading": "Artigo 51.º — Revogação e entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Revogação e entrada em vigor\n\n1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n2 - São revogados o Decreto Regulamentar Regional n.º 31/91/A, de 1 de Outubro, e a Portaria n.º 67/99, de 19 de Agosto."
+  },
+  "902264285": {
+   "fragment_id": "902264197",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 29/2000/A\n\nAtravés da criação de projectos de luta contra a pobreza e de microempresas voltadas para a integração no mundo do trabalho de beneficiários do rendimento mínimo garantido, de portadores de deficiência e de outros desempregados de muito baixa empregabilidade, estabeleceu-se na Região Autónoma dos Açores uma rede de entidades que se dedicam à promoção de estratégias activas de emprego. Essa rede constituiu, paulatinamente, um verdadeiro mercado social de emprego que urge reconhecer e valorizar. Tal mercado social de emprego foi criado e tem vindo a ser apoiado, essencialmente, no âmbito das políticas de solidariedade social, sendo agora necessário, uma vez decorridos três anos de aplicação do rendimento mínimo garantido nos Açores, estabelecer as regras de articulação com o mercado de emprego e com a economia em geral.\n\nTambém as políticas de apoio à integração no mercado de trabalho de desempregados portadores de deficiência e de outros desempregados de baixa empregabilidade necessitam de ser alargadas e integradas com as restantes medidas activas de promoção do emprego. Só assim se poderá dar coerência ao mercado social de emprego, mercado que se pretende assente no emprego protegido e na discriminação positiva dos desempregados em exclusão social.\n\nA evolução da situação social nos Açores, em particular no que respeita ao desemprego, associada às recentes alterações introduzidas nos mecanismos de apoio à actividade económica, também aconselha a revisão do regime de incentivo às iniciativas locais de emprego (ILE), regulamentado pelo Decreto Regulamentar Regional n.º 31/91/A, de 1 de Outubro, integrando-o com os mecanismos do mercado social de emprego, fazendo assim uma clara destrinça entre o apoio à actividade económica em geral e as medidas activas de emprego.\n\nPor outro lado, a política de emprego da Região Autónoma dos Açores, estabelecida no Plano Regional de Emprego, aprovado pela Resolução n.º 218/98, de 29 de Outubro, assim como os objectivos do Programa Operacional de Desenvolvimento Económico e Social dos Açores, nomeadamente os respeitantes ao emprego e formação profissional, estabelecem a necessidade de um acompanhamento eficaz a todos os desempregados, preconizando soluções de emprego ou de formação profissional para todos os que se encontrem inscritos nas agências para a qualificação e emprego. Tal objectivo só será atingido se forem criados mecanismos específicos dirigidos aos desempregados de muito baixa empregabilidade, o que apenas pode ser conseguido através do fomento do mercado social de emprego, já que uma franja significativa de desempregados apresenta, apesar da baixa taxa de desemprego na Região, dificuldades em adquirir a empregabilidade mínima necessária ao enquadramento no normal funcionamento de um mercado de emprego livre e espontâneo.\n\nAssim, importa criar condições que permitam aos desempregados desfavorecidos no mercado de emprego aumentar a sua empregabilidade. Para tal, é necessário articular as medidas activas de promoção do emprego com programas ocupacionais e de formação sócio-profissional que permitam uma gradual adaptação às condições laborais e a aquisição das competências necessárias ao ingresso no mundo do trabalho.\n\nPor outro lado, deve ser considerado que o apoio público ao trabalho socialmente útil, de preferência exercido num contexto empresarial protegido e de viabilização progressiva ou num ambiente transitório, pode constituir uma estratégia de inserção social importante e uma via para quebrar ciclos de pobreza e de marginalidade social.\n\nPretende-se também que a promoção do mercado social de emprego exija um esforço particular de articulação e de implicação entre os diferentes departamentos sectoriais e os níveis regional e local da administração, bem como com os parceiros sociais, com particular destaque para as entidades que já asseguram o funcionamento dos projectos de luta contra a pobreza, de apoio aos portadores de deficiência e de gestão local da aplicação do rendimento mínimo garantido.\n\nAssim, considerando o disposto na alínea c) do artigo 8.º e no artigo 18.º do Decreto Regional n.º 23/82/A, de 1 de Setembro, e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e da alínea d) do n.º 1 do artigo 227.º da Constituição, o Governo Regional decreta o seguinte:"
+  },
+  "902264522": {
+   "fragment_id": "902264248",
+   "type": 11,
+   "heading": "Artigo 45.º — Iniciativas locais de emprego",
+   "in_force_from": "2006-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+   ],
+   "markdown": "###### Artigo 45.º — Iniciativas locais de emprego\n\n1 - Para efeitos do presente diploma, consideram-se «iniciativas locais de emprego» (ILE) os investimentos que resultem na criação líquida de postos de trabalho, promovidas por entidades de qualquer natureza jurídica, com ou sem fins lucrativos, que obedeçam cumulativamente às seguintes condições:\n\na) Não possam ser enquadradas nos sistemas de apoio à dinamização económica em vigor;\n\nb) Sejam promovidas por entidades que demonstrem capacidade empresarial e viabilidade económica e social;\n\nc) Estejam claramente inseridas na dinâmica da comunidade e demonstrem ter sustentabilidade;\n\nd) A entidade promotora disponha de capitais próprios equivalentes a um montante mínimo de 25% do investimento total a efectuar;\n\ne) Prossigam um objectivo claro de criação líquida de postos de trabalho e de aumento da empregabilidade dos seus trabalhadores.\n\n2 - A viabilidade económica e social a que se refere a alínea b) do número anterior deverá medir-se por:\n\na) Realismo dos elementos previsionais apresentados, tipo de actividade a desenvolver e capacidade do mercado potencial;\n\nb) Percentagem de capital próprio e origem dos fundos a investir;\n\nc) Capacidade de gerar receitas que, complementadas com os apoios previstos no presente diploma, assegurem a autonomia financeira do projecto e a manutenção dos postos de trabalho criados;\n\nd) Capacidade para assegurar os encargos sociais com os trabalhadores e cumprir as normas constantes dos instrumentos de regulamentação colectiva de trabalho aplicáveis.\n\n3 - Compete à Direcção Regional da Juventude, Emprego e Formação Profissional, a requerimento da entidade promotora e ouvida a Comissão do Mercado Social de Emprego, reconhecer a uma iniciativa de criação de emprego o estatuto de ILE.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+  },
+  "902264523": {
+   "fragment_id": "902264249",
+   "type": 11,
+   "heading": "Artigo 46.º — Desempregados elegíveis",
+   "in_force_from": "2006-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+   ],
+   "markdown": "###### Artigo 46.º — Desempregados elegíveis\n\n1 - Para além dos grupos sociais a que se refere o artigo 5.º do presente diploma, são ainda elegíveis para ocupação dos postos de trabalho criados por iniciativas locais de emprego (ILE) desempregados que se encontrem em qualquer das seguintes condições:\n\na) Sejam proponentes da iniciativa, qualquer que seja a sua situação social ou qualificação profissional;\n\nb) Estejam abrangidos por programas ocupacionais de qualquer natureza;\n\nc) Sejam desempregados de longa duração inscritos nas agências para a qualificação e emprego há mais de 12 meses;\n\nd) Sejam jovens com idade inferior a 25 anos.\n\n2 - Quando o posto de trabalho a ocupar exija qualificação profissional específica ou não seja possível o recrutamento de entre os grupos a que se refere o número anterior, ouvida a Comissão Regional do Mercado Social de Emprego, pode a área de recrutamento de trabalhadores ser alargada a todos os desempregados.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+  },
+  "902264524": {
+   "fragment_id": "902264250",
+   "type": 11,
+   "heading": "Artigo 47.º — Apoios técnicos e financeiros ao investimento",
+   "in_force_from": "2006-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+   ],
+   "markdown": "###### Artigo 47.º — Apoios técnicos e financeiros ao investimento\n\n1 - A administração regional autónoma, através das suas unidades orgânicas e em colaboração com as instituições públicas e privadas que se disponibilizem para o efeito, concede apoio técnico, nomeadamente na identificação das necessidades locais, na formação em gestão, na preparação do processo de candidatura e no acompanhamento do investimento.\n\n2 - O apoio financeiro ao investimento é composto por uma comparticipação a fundo perdido e por um empréstimo sem juros, sendo proposta por despacho do secretário regional competente em matéria de emprego, ouvida a Comissão Regional do Mercado Social de Emprego, devendo respeitar as seguintes condições:\n\na) A comparticipação total não pode ultrapassar, por cada posto de trabalho criado, 36 vezes o valor do salário mínimo mensal aplicável;\n\nb) O valor da comparticipação a fundo perdido não pode ultrapassar, por cada posto de trabalho criado, 12 vezes o valor do salário mínimo mensal aplicável;\n\nc) Em cada projecto não poderão ser considerados, para efeitos de apoio, menos de 2 ou mais de 20 postos de trabalho.\n\n3 - O empréstimo sem juros é reembolsável num prazo máximo de sete anos, incluindo nestes dois anos de carência.\n\n4 - As entidades beneficiárias constituem-se no dever de manter preenchidos os postos de trabalho criados para trabalhadores em processo de inserção até à integral satisfação da obrigação de reembolso.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+  },
+  "902264525": {
+   "fragment_id": "902264251",
+   "type": 11,
+   "heading": "Artigo 48.º — Candidatura e processo de concessão",
+   "in_force_from": "2006-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+   ],
+   "markdown": "###### Artigo 48.º — Candidatura e processo de concessão\n\n1 - O regime de apoio às ILE é de candidatura aberta, sendo os instrumentos de candidatura e a documentação que os deve acompanhar fixados por despacho do director regional da Juventude, Emprego e Formação Profissional.\n\n2 - Os requerimentos para a concessão das comparticipação são entregues nas agências para a qualificação e emprego ou nos serviços locais da segurança social.\n\n3 - As candidaturas são apreciadas pelos serviços competentes da Direcção Regional da Juventude, Emprego e Formação Profissional e submetidos a parecer da Comissão Regional do Mercado Social de Emprego.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+  },
+  "902264526": {
+   "fragment_id": "902264252",
+   "type": 11,
+   "heading": "Artigo 49.º — Prioridade",
+   "in_force_from": "2006-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+   ],
+   "markdown": "###### Artigo 49.º — Prioridade\n\nSem prejuízo do estabelecido no n.º 4 do artigo 3.º do presente diploma, quando não seja possível atender a todos os projectos apresentados, os projectos de iniciativa local de emprego são ordenados de acordo com as seguintes prioridades:\n\na) Maior percentagem de desempregados enquadráveis nos grupos sociais constantes do artigo 5.º do presente diploma;\n\nb) Maior percentagem de desempregadas;\n\nc) Maior percentagem de desempregados de longa duração;\n\nd) Maior percentagem de capitais próprios.\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+  },
+  "902264344": {
+   "fragment_id": "902264256",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Julho de 2000.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 22 de Agosto de 2000.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "902264527": {
+   "fragment_id": "902264219",
+   "type": 11,
+   "heading": "Artigo 20.º — Apoios financeiros ao funcionamento",
+   "in_force_from": "2013-05-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2013/A - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2013-261124), em vigor a partir de 2013-05-22"
+   ],
+   "markdown": "###### Artigo 20.º — Apoios financeiros ao funcionamento\n\nSão comparticipáveis as seguintes despesas de funcionamento:\n\na) A bolsa de formação a que se refere o artigo 15.º do presente diploma;\n\nb) Comparticipação na remuneração decorrente do contrato de trabalho a que se refere o artigo 16.º do presente diploma, no montante máximo de 90% da remuneração mensal mínima garantida na Região e, na mesma proporção, nas contribuições para a segurança social devidas pela entidade empregadora.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2013/A - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2013-261124), em vigor a partir de 2013-05-22"
+  },
+  "902264529": {
+   "fragment_id": "902264198",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264530": {
+   "fragment_id": "902264199",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regulamenta os apoios a conceder pela administração regional autónoma ao funcionamento do mercado social de emprego na Região Autónoma dos Açores.\n\n2 - Para efeitos do presente diploma entende-se por «mercado social de emprego» o conjunto de iniciativas destinadas à integração ou reintegração sócio-profissional de pessoas desempregadas de difícil empregabilidade, ainda que a auto-sustentação económica dessas iniciativas não seja completa e imediata, requerendo apoio público transitório.\n\n3 - Com o fomento do mercado social de emprego pretende-se contribuir para a solução de problemas de empregabilidade e de formação sócio-profissional de pessoas com dificuldade de inserção no mercado de trabalho, com especial incidência no combate à pobreza e à exclusão social.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264531": {
+   "fragment_id": "902264200",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de funcionamento",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 2.º — Condições de funcionamento\n\nA especificidade do mercado social de emprego não dispensa a observância dos seguintes princípios:\n\na) Gestão económica e financeira rigorosa e adequada à natureza empresarial dos projectos;\n\nb) Procura constante de fontes não públicas de financiamento e de auto-sustentação financeira;\n\nc) Esforço permanente de redução de custos e de aumento de eficiência e eficácia;\n\nd) Não competição com o mercado de trabalho não apoiado.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264532": {
+   "fragment_id": "902264201",
+   "type": 11,
+   "heading": "Artigo 3.º — Modalidades",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 3.º — Modalidades\n\n1 - Consideram-se integráveis no mercado social de emprego as seguintes medidas:\n\na) O apoio à criação e funcionamento de empresas de inserção;\n\nb) O fomento da integração no mercado de emprego de trabalhadores portadores de deficiência;\n\nc) O desenvolvimento de programas ocupacionais dirigidos a desempregados de baixa empregabilidade ou sem protecção social no desemprego;\n\nd) O apoio a acções de formação sócio-profissional destinadas à qualificação profissional e à integração social de pessoas que se encontrem em situação de exclusão social;\n\ne) As iniciativas locais de criação de emprego (ILE).\n\n2 - As medidas a adoptar devem obedecer, nomeadamente, aos seguintes princípios:\n\na) Relevância social das actividades desenvolvidas;\n\nb) Inclusão de uma componente de formação formal ou em situação de trabalho que reforce a empregabilidade dos beneficiários;\n\nc) Qualidade dos serviços prestados;\n\nd) Garantias básicas nas condições de trabalho oferecidas;\n\ne) Estímulo à capacidade de auto-sustentação económica;\n\nf) Interdição de práticas de falseamento da concorrência;\n\ng) Subsidiariedade da actuação da administração regional autónoma;\n\nh) Prioridade à intervenção social e técnica, em prejuízo da intervenção financeira;\n\ni) Participação e parceria;\n\nj) Fomento de modalidades de financiamento de base local;\n\nl) Maior concentração do apoio financeiro público nas situações de maior carência.\n\n3 - Consideram-se iniciativas mais relevantes do mercado social de emprego as que se localizem em áreas atingidas por problemas sociais graves e com maior concentração de pessoas em exclusão social.\n\n4 - Às iniciativas consideradas mais relevantes deverá ser conferida prioridade, tanto na adopção de medidas destinadas ao seu incremento como no acesso aos apoios instituídos.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264533": {
+   "fragment_id": "902264202",
+   "type": 11,
+   "heading": "Artigo 4.º — Comissão Regional do Mercado Social de Emprego",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 4.º — Comissão Regional do Mercado Social de Emprego\n\n1 - Para o desenvolvimento e acompanhamento das iniciativas constantes do presente diploma é criada a Comissão Regional do Mercado Social de Emprego.\n\n2 - Compete à Comissão Regional do Mercado Social de Emprego, nomeadamente:\n\na) Acompanhar e avaliar as medidas integradas no mercado social de emprego;\n\nb) Definir anualmente a prioridade do público alvo a contemplar nos apoios;\n\nc) Propor o reconhecimento da condição de empresa ou entidade integrada no mercado social de emprego e a concessão de apoios;\n\nd) Definir critérios de análise que possibilitem a transparência e a pertinência na concessão de apoios;\n\ne) Assegurar o conhecimento da realidade sócio-económica que integra ou pode integrar o mercado social de emprego;\n\nf) Promover a recolha e difusão de informação sobre novas possibilidades de actividades e de financiamento;\n\ng) Intervir junto dos centros de decisão, públicos ou privados, para que surjam iniciativas tendentes à solução de problemas sociais existentes;\n\nh) Apresentar propostas de medidas de política de emprego e formação, articuladas com a solução dos problemas sociais que afectam o público alvo;\n\ni) Elaborar e difundir relatórios periódicos de avaliação, em que se destaquem, nomeadamente, e de maneira tão quantificada quanto possível, os problemas existentes, as medidas e resultados das mesmas e a evolução verificada ao longo do período considerado;\n\nj) Propor a revogação dos apoios atribuídos.\n\n3 - A Comissão Regional do Mercado Social de Emprego tem a seguinte composição:\n\na) Um representante da Direcção Regional da Juventude, Emprego e Formação Profissional, que preside;\n\nb) Dois representantes da Secretaria Regional da Economia;\n\nc) Um representante do Instituto de Acção Social;\n\nd) Um representante da Direcção Regional de Organização e Administração Pública;\n\ne) Um representante da União Regional das Misericórdias dos Açores;\n\nf) Um representante do Secretariado Regional da União das Instituições Particulares de Solidariedade Social;\n\ng) Um representante de cada uma das confederações sindicais;\n\nh) Um representante da Câmara de Comércio e Indústria dos Açores.\n\n4 - A Comissão Regional do Mercado Social de Emprego reunirá pelo menos uma vez por trimestre.\n\n5 - A Comissão poderá ainda reunir extraordinariamente sempre que o presidente, por iniciativa própria ou a solicitação fundamentada de qualquer dos seus membros, a convoque, tendo carácter obrigatório a proposta de um quinto dos seus membros.\n\n6 - A Comissão elabora o projecto de seu regulamento interno, a homologar pelo Secretário Regional competente em matéria de emprego.\n\n7 - O apoio técnico, administrativo e financeiro à Comissão é assegurado pela Direcção Regional da Juventude, Emprego e Formação Profissional.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264534": {
+   "fragment_id": "902264203",
+   "type": 11,
+   "heading": "Artigo 5.º — Destinatários do mercado social de emprego",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 5.º — Destinatários do mercado social de emprego\n\n1 - São destinatários das medidas integradas no mercado social de emprego os desempregados em situação de desfavorecimento como tal inscritos nas agências para a qualificação e emprego.\n\n2 - Para efeitos do número anterior, consideram-se em situação de desfavorecimento os seguintes grupos de desempregados:\n\na) Repatriados e deportados;\n\nb) Alcoólicos e toxicodependentes em processo de recuperação;\n\nc) Beneficiários do rendimento mínimo garantido;\n\nd) Deficientes passíveis de ingresso no mercado de trabalho;\n\ne) Ex-reclusos em condições de reinserção na vida activa;\n\nf) Pessoas com perturbações psiquiátricas em processo de recuperação;\n\ng) Pessoas sem abrigo;\n\nh) Outros grupos sociais desfavorecidos, a definir por despacho do Secretário Regional competente em matéria de emprego, ouvida a Comissão Regional do Mercado Social de Emprego.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264535": {
+   "fragment_id": "902264204",
+   "type": 11,
+   "heading": "Artigo 6.º — Gestão financeira",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 6.º — Gestão financeira\n\n1 - A gestão financeira dos projectos desenvolvidos no âmbito das medidas integradas no mercado social de emprego é da competência do Gabinete de Gestão Financeira do Emprego.\n\n2 - O orçamento do Gabinete de Gestão Financeira do Emprego deve inscrever dotação própria para apoio ao mercado social de emprego.\n\n3 - Os apoios previstos no presente diploma não são cumuláveis com outros apoios financeiros públicos de qualquer natureza destinados aos mesmos fins.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264536": {
+   "fragment_id": "902264205",
+   "type": 11,
+   "heading": "Artigo 7.º — Comparticipações financeiras",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 7.º — Comparticipações financeiras\n\n1 - A atribuição das comparticipações financeiras e empréstimos previstos no presente diploma é feita por resolução do Conselho do Governo.\n\n2 - Excepto quando disso sejam dispensados pela resolução a que se refere o número anterior, os beneficiários ficam obrigados a apresentar seguro-caução ou qualquer outra forma de garantia real que cubra o eventual reembolso das quantias atribuídas durante o período a que ficam obrigados a manter os postos de trabalho.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264537": {
+   "fragment_id": "902264206",
+   "type": 11,
+   "heading": "Artigo 8.º — Contrato",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 8.º — Contrato\n\n1 - A concessão de qualquer dos apoios estabelecidos no âmbito do presente diploma é precedida pela assinatura de um contrato entre a entidade beneficiária e o Gabinete de Gestão Financeira do Emprego onde sejam claramente estabelecidas as responsabilidades mútuas.\n\n2 - Dos contratos a que se refere o número anterior é publicado extracto no Jornal Oficial.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264538": {
+   "fragment_id": "902264207",
+   "type": 11,
+   "heading": "Artigo 9.º — Incumprimento",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 9.º — Incumprimento\n\n1 - O não cumprimento injustificado das obrigações assumidas no âmbito das medidas previstas no presente diploma determina o reembolso imediato das quantias que tiverem sido disponibilizadas, acrescidas dos juros legais, sem prejuízo do procedimento disciplinar, civil ou criminal a que haja lugar.\n\n2 - O não pagamento dos empréstimos e das comparticipações reembolsáveis previstos no presente diploma, bem como das quantias resultantes da aplicação do disposto no número anterior, decorridos 60 dias após a notificação pelo Gabinete de Gestão Financeira do Emprego, determina a execução fiscal nos termos da lei.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264539": {
+   "fragment_id": "902264208",
+   "type": 1,
+   "heading": "Capítulo II — Empresas de inserção",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "### Capítulo II — Empresas de inserção\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264540": {
+   "fragment_id": "902264209",
+   "type": 11,
+   "heading": "Artigo 10.º — Conceito",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 10.º — Conceito\n\n1 - São «empresas de inserção» as pessoas colectivas de qualquer natureza, sem fins lucrativos, que desenvolvam políticas activas de emprego tendo por fim a inserção ou reinserção sócio-profissional de desempregados cuja baixa empregabilidade os coloque em situação de desfavorecimento face ao mercado de trabalho.\n\n2 - O estatuto de empresa de inserção é atribuído, a requerimento das entidades que preencham os requisitos definidos no número anterior, por despacho conjunto dos secretários regionais competentes em matéria de emprego e de economia, ouvida a Comissão Regional do Mercado Social de Emprego.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264541": {
+   "fragment_id": "902264210",
+   "type": 11,
+   "heading": "Artigo 11.º — Organização",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 11.º — Organização\n\n1 - As empresas de inserção organizam-se e funcionam segundo modelos de gestão empresarial, com as adaptações exigidas pelos fins que prosseguem, nomeadamente as relativas à adaptação dos postos de trabalho e dos ritmos e da organização do trabalho às características dos trabalhadores em processo de inserção.\n\n2 - As empresas de inserção devem dispor de técnicos de apoio para as áreas administrativa e de gestão e equipas de enquadramento para o processo de inserção.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264542": {
+   "fragment_id": "902264211",
+   "type": 11,
+   "heading": "Artigo 12.º — Modificação e extinção",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 12.º — Modificação e extinção\n\n1 - O estatuto de empresa de inserção pode ser retirado, por despacho conjunto dos secretários regionais competentes em matéria de emprego e de economia, ouvida a Comissão Regional do Mercado Social de Emprego, quando se verifique qualquer das seguintes condições:\n\na) A empresa não realize os fins que presidiram à sua criação ou quando, por qualquer motivo, tal se mostre gravemente prejudicado;\n\nb) A empresa apresente grave desequilíbrio financeiro, pondo em causa a sua viabilidade;\n\nc) Se comprove má gestão ou a existência de comportamentos fraudulentos ou atentatórios da dignidade dos trabalhadores em reinserção;\n\nd) A empresa pratique concorrência desleal ou se comprovem práticas que distorçam o mercado de trabalho;\n\ne) Se comprove a ineficácia das estratégias de inserção seguidas;\n\nf) A empresa não obtenha ou perca a qualidade de entidade acreditada para formação profissional;\n\ng) Seja negado o acesso dos serviços de emprego ou segurança social à documentação contabilística ou outra relevante para avaliação do funcionamento da empresa;\n\nh) Não forneça à Comissão Regional do Mercado Social de Emprego os elementos que esta solicite;\n\ni) A empresa tenha esgotado o fim para o qual foi constituída, nomeadamente quando cessem as necessidades de reinserção dos seus beneficiários.\n\n2 - Deve ser comunicada à Direcção Regional da Juventude, Emprego e Formação Profissional, no prazo de 10 dias úteis, qualquer modificação do acto constitutivo ou institutivo das pessoas colectivas sem fins lucrativos que gozem do estatuto de empresa de inserção.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264543": {
+   "fragment_id": "902264212",
+   "type": 11,
+   "heading": "Artigo 13.º — Recrutamento",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 13.º — Recrutamento\n\nO recrutamento dos destinatários é efectuado pelas empresas de inserção em cooperação com as agências para a qualificação e emprego e com os serviços locais do Instituto de Acção Social e outras entidades ou instituições, públicas ou privadas, que exerçam a sua actividade nos domínios do emprego e da inserção social.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264544": {
+   "fragment_id": "902264213",
+   "type": 11,
+   "heading": "Artigo 14.º — Processo de inserção ou reinserção",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 14.º — Processo de inserção ou reinserção\n\n1 - Para cada trabalhador admitido em processo de inserção ou reinserção é elaborado um plano individual de inserção, que, atendendo ao perfil e às motivações do trabalhador e às suas necessidades de formação para adaptação ao posto de trabalho, deve compreender as seguintes fases:\n\na) Formação profissional, visando o desenvolvimento de competências pessoais, sociais e profissionais, com a duração máxima de seis meses;\n\nb) Profissionalização, através do exercício de uma actividade na empresa de inserção, visando o desenvolvimento e a consolidação das competências adquiridas.\n\n2 - O processo de inserção pode implicar a aplicação de outras medidas activas de política de emprego, bem como de medidas tendo em vista a respectiva inserção social, em estreita colaboração entre as entidades responsáveis pela sua promoção e as empresas de inserção.\n\n3 - O controlo do processo de inserção no mercado de trabalho é da competência do Instituto de Acção Social, das agências para a qualificação e emprego e da Inspecção Regional do Trabalho.\n\n4 - Por acordo entre o trabalhador em processo de inserção e a empresa de inserção, pode, sempre que tal se revele adequado, ser dispensada a fase de formação profissional.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264545": {
+   "fragment_id": "902264214",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de formação",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 15.º — Contrato de formação\n\n1 - Durante a fase de formação a que se refere a alínea a) do n.º 1 do artigo anterior, as relações entre as pessoas em processo de inserção e a empresa de inserção são reguladas num contrato de formação, que será visado pelo director regional da Juventude, Emprego e Formação Profissional.\n\n2 - Os formandos beneficiam de um seguro contra acidentes de trabalho e de uma bolsa de formação no valor mensal do salário mínimo regional, salvo nos casos em que legislação específica estabeleça tratamento mais favorável, sendo abrangidos pelos direitos e deveres do regime de segurança social dos trabalhadores por conta de outrem.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264546": {
+   "fragment_id": "902264215",
+   "type": 11,
+   "heading": "Artigo 16.º — Contrato de trabalho",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 16.º — Contrato de trabalho\n\nConcluída a fase de formação, ou quando o trabalhador dela seja dispensado nos termos do n.º 4 do artigo 14.º do presente diploma, as relações entre as pessoas em processo de inserção e a empresa de inserção são reguladas num contrato de trabalho a termo certo não inferior a 6 nem superior a 24 meses.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264547": {
+   "fragment_id": "902264216",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoios",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 17.º — Apoios\n\n1 - As empresas de inserção beneficiam, no âmbito do mercado social de emprego, dos seguintes apoios:\n\na) Apoio técnico e financeiro ao investimento;\n\nb) Apoio financeiro ao funcionamento;\n\nc) Prémio de integração.\n\n2 - São condições de atribuição dos apoios previstos no número anterior a aprovação da candidatura pela Comissão Regional do Mercado Social de Emprego e a existência de cabimento orçamental no Gabinete de Gestão Financeira do Emprego.\n\n3 - O montante dos apoios financeiros a conceder para o desenvolvimento da medida será definido anualmente no orçamento do Gabinete de Gestão Financeira do Emprego.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264548": {
+   "fragment_id": "902264217",
+   "type": 11,
+   "heading": "Artigo 18.º — Apoios técnicos e financeiros ao investimento",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 18.º — Apoios técnicos e financeiros ao investimento\n\n1 - A administração regional autónoma, através das suas unidades orgânicas e em colaboração com as instituições públicas e privadas que se disponibilizem para o efeito, concede apoio técnico, nomeadamente na identificação das necessidades locais, formação em gestão e na preparação e acompanhamento do processo de inserção desde a admissão até à efectiva integração no mercado de trabalho.\n\n2 - O apoio financeiro ao investimento é proposto por despacho do secretário regional competente em matéria de emprego, ouvida a Comissão Regional do Mercado Social de Emprego, e pode assumir cumulativamente a forma de comparticipação não reembolsável e de empréstimo sem juros.\n\n3 - A comparticipação não reembolsável é no valor máximo de 50% do montante das despesas de investimento elegíveis, não podendo, porém, exceder o valor de 18 vezes o salário mínimo regional por cada posto de trabalho ocupado por trabalhadores em processo de inserção.\n\n4 - O montante máximo do empréstimo sem juros, reembolsável num prazo máximo de sete anos, incluindo nestes dois anos de carência, pode atingir 25% das despesas de investimento elegíveis, não podendo, porém, exceder o valor de 18 vezes o salário mínimo regional por cada posto de trabalho ocupado por trabalhadores em processo de inserção.\n\n5 - As entidades beneficiárias constituem-se no dever de manter preenchidos os postos de trabalho criados para trabalhadores em processo de inserção à data da candidatura até integral satisfação da obrigação de reembolso.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264549": {
+   "fragment_id": "902264218",
+   "type": 11,
+   "heading": "Artigo 19.º — Elegibilidade das despesas",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 19.º — Elegibilidade das despesas\n\n1 - Para efeitos do cálculo do apoio financeiro ao investimento previsto no artigo anterior, é apoiado todo o investimento em capital fixo, corpóreo e incorpóreo, indispensável ao exercício da actividade, excluindo a aquisição de terrenos, a construção e aquisição de imóveis e a aquisição de veículos automóveis, salvo se se provar inequivocamente que estes consistem meios de produção inerentes ao desempenho da actividade prevista no projecto de investimento.\n\n2 - Não podem ser apoiadas despesas com a aquisição de equipamentos em estado de uso, salvo em circunstâncias específicas, a requerimento da entidade beneficiária, mediante autorização do director regional da Juventude, Emprego e Formação Profissional, ouvida a Comissão Regional do Mercado Social de Emprego.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264550": {
+   "fragment_id": "902264219",
+   "type": 11,
+   "heading": "Artigo 20.º — Apoios financeiros ao funcionamento",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2013/A - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2013-261124), em vigor a partir de 2013-05-22"
+   ],
+   "markdown": "###### Artigo 20.º — Apoios financeiros ao funcionamento\n\nSão comparticipáveis as seguintes despesas de funcionamento:\n\na) A bolsa de formação a que se refere o artigo 15.º do presente diploma;\n\nb) Comparticipação na remuneração decorrente do contrato de trabalho a que se refere o artigo 16.º do presente diploma, no montante máximo de 90% da remuneração mensal mínima garantida na Região e, na mesma proporção, nas contribuições para a segurança social devidas pela entidade empregadora.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 3/2013/A - Diário da República n.º 97/2013, Série I de 2013-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2013-261124), em vigor a partir de 2013-05-22"
+  },
+  "902264551": {
+   "fragment_id": "902264220",
+   "type": 11,
+   "heading": "Artigo 21.º — Prémio de integração",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 21.º — Prémio de integração\n\n1 - As entidades empregadoras que admitam pessoas em processo de inserção, mediante contrato de trabalho sem termo, no prazo máximo de três meses a contar da conclusão do processo de inserção, beneficiam de um prémio à integração no valor de 12 vezes a remuneração mínima regional.\n\n2 - O prémio referido no número anterior é também atribuído nos casos em que a empresa de inserção converta o contrato de trabalho a termo de uma pessoa em processo de inserção em contrato de trabalho sem termo.\n\n3 - As entidades beneficiárias do prémio de integração constituem-se na obrigação de manterem preenchidos os postos de trabalho criados por via do apoio financeiro concedido, durante um período mínimo de quatro anos, salvo circunstâncias excepcionais devidamente fundamentadas, a apreciar pelo director regional da Juventude, Emprego e Formação Profissional, ouvida a Comissão Regional do Mercado Social do Emprego.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264552": {
+   "fragment_id": "902264221",
+   "type": 11,
+   "heading": "Artigo 22.º — Majoração para portadores de deficiência",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 22.º — Majoração para portadores de deficiência\n\nQuando o trabalhador a integrar tenha idade igual ou inferior a 30 anos e tenha obtido o certificado de cumprimento dos requisitos de frequência da escolaridade obrigatória numa escola de educação especial ou em curso integrado no sistema de educação especial, a comparticipação financeira prevista no artigo anterior será elevada para 36 vezes o salário mínimo aplicável.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264553": {
+   "fragment_id": "902264222",
+   "type": 11,
+   "heading": "Artigo 23.º — Candidaturas",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 23.º — Candidaturas\n\n1 - A medida é de candidatura fechada, devendo existir anualmente pelo menos dois períodos de candidatura.\n\n2 - Podem candidatar-se pessoas singulares ou colectivas sem fins lucrativos que assumam a obrigação de constituir e, se legalmente exigido, registar, no prazo máximo de seis meses a contar da data de decisão de aprovação de candidatura, a empresa de inserção.\n\n3 - Os períodos de candidatura, os instrumentos de candidatura e a documentação que os devem acompanhar, bem como a tramitação de aprovação, são fixados por portaria do secretário regional competente em matéria de emprego.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264554": {
+   "fragment_id": "902264223",
+   "type": 1,
+   "heading": "Capítulo III — Integração no mercado de emprego de trabalhadores portadores de deficiência",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "### Capítulo III — Integração no mercado de emprego de trabalhadores portadores de deficiência\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264555": {
+   "fragment_id": "902264224",
+   "type": 11,
+   "heading": "Artigo 24.º — Trabalhadores portadores de deficiência",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 24.º — Trabalhadores portadores de deficiência\n\nPara efeitos do presente diploma, consideram-se «trabalhadores portadores de deficiência» aqueles que apresentem desvalorização superior a 60%, avaliada e certificada de acordo com o estabelecido na lei, e que disponham de capacidade de trabalho compatível com a actividade a desenvolver.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264556": {
+   "fragment_id": "902264225",
+   "type": 11,
+   "heading": "Artigo 25.º — Incentivos à empregabilidade de deficientes",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 25.º — Incentivos à empregabilidade de deficientes\n\n1 - Os incentivos a conceder para o fomento da empregabilidade revestem a forma de apoio técnico e de comparticipação financeira para a realização das seguintes actividades:\n\na) Instalação para o exercício de uma actividade económica como trabalhador independente ou empresário em nome individual;\n\nb) Incentivo aos empregadores para a contratação de trabalhadores portadores de deficiência;\n\nc) Apoio à adaptação técnico-funcional de postos de trabalho para inserção de trabalhadores portadores de deficiência e apoio à eliminação de barreiras arquitectónicas no local de trabalho.\n\n2 - São cumuláveis entre si as comparticipações financeiras previstas nas alíneas b) e c) do número anterior, e estas apenas quando o trabalhador seja contratado a título permanente.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264557": {
+   "fragment_id": "902264226",
+   "type": 11,
+   "heading": "Artigo 26.º — Instalação por conta própria",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 26.º — Instalação por conta própria\n\n1 - O apoio à instalação por conta própria consiste na concessão de um incentivo financeiro visando a realização do investimento necessário à instalação como trabalhador independente ou empresário em nome individual de portadores de deficiência.\n\n2 - Podem beneficiar do apoio à instalação previsto no número anterior os portadores de deficiência que cumpram cumulativamente os seguintes requisitos:\n\na) Tenham pelo menos 18 anos e gozem de idoneidade civil;\n\nb) Estejam inscritos nas agências para a qualificação e emprego na qualidade de desempregados;\n\nc) Possuam os requisitos habilitacionais e profissionais que sejam obrigatórios para o exercício da actividade pretendida;\n\nd) Visem o exercício de uma actividade viável, demonstrada através de projecto de investimento adequado;\n\ne) Comprometam-se a manter a actividade durante pelo menos cinco anos, contados da data de recebimento do incentivo.\n\n3 - O apoio à instalação consiste na concessão de uma comparticipação financeira a fundo perdido igual ao valor do investimento a realizar, até um montante máximo de 36 vezes o salário mínimo aplicável.\n\n4 - Quando o montante previsto no número anterior não for suficiente para cobrir o investimento, poderá ser concedido um empréstimo sem juros, no valor do investimento remanescente, até ao montante máximo de 50 vezes o salário mínimo aplicável.\n\n5 - Cada beneficiário apenas poderá beneficiar por uma vez dos apoios previstos nos números anteriores.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264558": {
+   "fragment_id": "902264227",
+   "type": 11,
+   "heading": "Artigo 27.º — Incumprimento e reembolso",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 27.º — Incumprimento e reembolso\n\n1 - Sem prejuízo do disposto no artigo 9.º do presente diploma, a cessação da actividade antes de decorrido o período a que se refere a alínea e) do n.º 2 do artigo anterior, implica a devolução imediata de todos os montantes recebidos, acrescidos dos juros legais.\n\n2 - As quantias cedidas a título de empréstimo nos termos do n.º 4 do artigo anterior são concedidas por um período máximo de sete anos, sendo reembolsadas, após um período de carência de dois anos, em 10 prestações semestrais de igual montante.\n\n3 - A obrigação de reembolso extingue-se com o falecimento do beneficiário.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264559": {
+   "fragment_id": "902264228",
+   "type": 11,
+   "heading": "Artigo 28.º — Incentivos à contratação",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 28.º — Incentivos à contratação\n\n1 - Os incentivos à contratação destinam-se a apoiar as entidades empregadoras que admitam ao seu serviço trabalhadores portadores de deficiência.\n\n2 - A contratação dos trabalhadores referidos no número anterior é feita através das agências para a qualificação e emprego, de entre os desempregados inscritos que sejam portadores de deficiência, devendo o apoio ser requerido nos 20 dias úteis subsequentes à contratação do trabalhador.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264560": {
+   "fragment_id": "902264229",
+   "type": 11,
+   "heading": "Artigo 29.º — Entidades beneficiárias",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 29.º — Entidades beneficiárias\n\nPodem beneficiar de incentivos à contratação de trabalhadores portadores de deficiência as entidades que cumpram cumulativamente as seguintes condições:\n\na) Contratem os trabalhadores portadores de deficiência nas mesmas condições de benefícios sociais, deveres e garantias aplicados aos restantes trabalhadores ao seu serviço;\n\nb) Cumpram em relação ao trabalhador portador de deficiência os requisitos salariais e outros estabelecidos na lei e nos instrumentos de regulamentação colectiva de trabalho aplicáveis;\n\nc) Comprometam-se a manter o trabalhador ao seu serviço durante pelo menos cinco anos, em caso de admissão definitiva, ou pelo período que contratualmente for estabelecido, nas restantes situações;\n\nd) Não sejam empresas de inserção criadas no âmbito do presente diploma.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264561": {
+   "fragment_id": "902264230",
+   "type": 11,
+   "heading": "Artigo 30.º — Comparticipação financeira por contratação",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 30.º — Comparticipação financeira por contratação\n\n1 - A comparticipação é calculada de acordo com o valor da remuneração mensal fixado no instrumento de regulamentação colectiva de trabalho aplicável ou, na ausência deste, de acordo com o nível médio de remuneração praticado para igual ramo de actividade e categoria profissional na localidade.\n\n2 - Os pedidos de comparticipação são obrigatoriamente acompanhados por um exemplar do contrato de trabalho ou cópia autenticada.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264562": {
+   "fragment_id": "902264231",
+   "type": 11,
+   "heading": "Artigo 31.º — Comparticipação por contrato a termo em emprego protegido",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 31.º — Comparticipação por contrato a termo em emprego protegido\n\n1 - Em caso de admissão por contrato a termo, certo ou incerto, sempre com duração mínima de seis meses, a comparticipação a atribuir é equivalente a 65% do salário referido no artigo anterior, sendo atribuída pelo tempo da duração do contrato, até ao máximo de 12 meses.\n\n2 - A comparticipação é paga mensalmente mediante a apresentação do recibo de salário pago e das folhas de remunerações devidamente visadas pelos serviços de segurança social.\n\n3 - O mesmo empregador não pode beneficiar, em relação ao mesmo trabalhador ou outro contratado para o mesmo posto de trabalho, de nova comparticipação, por contratação a termo, antes de decorridos 12 meses após o termo da anterior.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264563": {
+   "fragment_id": "902264232",
+   "type": 11,
+   "heading": "Artigo 32.º — Comparticipação por conversão em contrato sem termo",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 32.º — Comparticipação por conversão em contrato sem termo\n\n1 - A transformação do contrato a termo em contrato sem termo é compensada com a atribuição de uma comparticipação adicional equivalente a 12 vezes a remuneração mensal referida no artigo 30.º, a conceder em duas prestações iguais, uma à data da assinatura do contrato e outra decorridos 12 meses sobre aquela data, após confirmação de que o trabalhador se mantém em funções.\n\n2 - Na situação prevista no presente artigo, a entidade empregadora fica obrigada a manter o trabalhador pelo período de cinco anos, deduzidos do período do contrato a termo.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264564": {
+   "fragment_id": "902264233",
+   "type": 11,
+   "heading": "Artigo 33.º — Comparticipação por contrato sem termo",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 33.º — Comparticipação por contrato sem termo\n\n1 - A admissão definitiva quando não seja precedida de contratação a termo confere ao empregador o direito a uma comparticipação igual ao valor de 24 vezes a remuneração mensal referida no n.º 1 do artigo 30.º, a conceder em duas prestações iguais, uma após o período experimental e outra decorridos 12 meses sobre a data da contratação e após confirmação de que o trabalhador se mantém ao serviço.\n\n2 - Quando o trabalhador admitido tenha idade igual ou inferior a 30 anos e tenha obtido o certificado de cumprimento dos requisitos de frequência da escolaridade obrigatória numa escola de educação especial ou em curso integrado no sistema de educação especial, a comparticipação financeira prevista no número anterior será elevada para 36 vezes a remuneração mensal referida no número anterior.\n\n3 - Em caso de admissão a título definitivo, a cessação do contrato de trabalho antes de decorridos cinco anos após a sua celebração obriga ao reembolso das quantias recebidas pela entidade patronal, deduzidas de 1/60 do seu valor total por cada mês de trabalho prestado pelo trabalhador.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264565": {
+   "fragment_id": "902264234",
+   "type": 11,
+   "heading": "Artigo 34.º — Adaptação técnico-funcional de postos de trabalho",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 34.º — Adaptação técnico-funcional de postos de trabalho\n\n1 - O apoio à adaptação técnico-funcional de postos de trabalho e à eliminação de barreiras arquitectónicas no local de trabalho destina-se a apoiar as entidades empregadoras que, em resultado da existência nos seus quadros de trabalhadores portadores de deficiência, necessitem de alterar as suas instalações ou equipamentos por forma a melhorar a inserção no ambiente de trabalho e aumentar a produtividade desses trabalhadores.\n\n2 - Os apoios à adaptação do posto de trabalho e remoção de barreiras arquitectónicas no local de trabalho revestem a forma de comparticipação a fundo perdido e têm valor igual ao do investimento feito até um montante máximo de 36 vezes o salário mínimo regional.\n\n3 - Podem beneficiar dos apoios previstos no número anterior as entidades empregadoras que cumpram cumulativamente as seguintes condições:\n\na) Integrem a título definitivo, nos seus quadros, nas mesmas condições dos restantes trabalhadores, trabalhadores portadores de deficiência;\n\nb) As adaptações técnico-funcionais e a remoção de barreiras arquitectónicas sejam adequadas à situação específica desses trabalhadores;\n\nc) Obriguem-se a manter ao seu serviço trabalhadores portadores de deficiência durante pelo menos cinco anos após a conclusão do investimento.\n\n4 - A concessão da comparticipação está dependente da apresentação dos documentos comprovativos de despesa.\n\n5 - A concessão da comparticipação está condicionada à aprovação pela Direcção Regional da Juventude, Emprego e Formação Profissional, ouvida a Comissão Regional do Mercado Social de Emprego, antes de iniciada a obra, do projecto ou memória descritiva do investimento a fazer, devidamente quantificado.\n\n6 - A entidade que beneficie do apoio previsto no presente artigo quando deixe de integrar trabalhadores portadores de deficiência nos seus quadros antes de decorridos cinco anos sobre a data de realização do investimento obriga-se ao reembolso integral das quantias concedidas, deduzidas de 1/60 do seu valor total por cada mês durante o qual tenha mantido ao seu serviço pelo menos um trabalhador portador de deficiência, comprovado através das folhas de remunerações e guias de pagamento da taxa social única devidamente visadas pelos serviço da segurança social.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264566": {
+   "fragment_id": "902264235",
+   "type": 11,
+   "heading": "Artigo 35.º — Candidatura e processo de concessão",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 35.º — Candidatura e processo de concessão\n\n1 - As medidas de fomento da empregabilidade de portadores de deficiência são de candidatura aberta, sendo os instrumentos de candidatura e a documentação que os devem acompanhar fixados por despacho do director regional da Juventude, Emprego e Formação Profissional.\n\n2 - Os requerimentos para a concessão da comparticipação são entregues nas agências para a qualificação e emprego ou nos serviços locais da segurança social.\n\n3 - As candidaturas são apreciadas pelos serviços competentes da Direcção Regional da Juventude, Emprego e Formação Profissional e submetidas a parecer da Comissão Regional do Mercado Social de Emprego.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264567": {
+   "fragment_id": "902264236",
+   "type": 1,
+   "heading": "Capítulo IV — Programas ocupacionais",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "### Capítulo IV — Programas ocupacionais\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264568": {
+   "fragment_id": "902264237",
+   "type": 11,
+   "heading": "Artigo 36.º — Actividade ocupacional",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 36.º — Actividade ocupacional\n\n1 - Para os efeitos do presente diploma, entende-se por «actividade ocupacional» a ocupação temporária de desempregados em tarefas que satisfaçam comprovadas necessidades colectivas.\n\n2 - A actividade ocupacional não pode consistir no preenchimento de um posto de trabalho existente.\n\n3 - As actividades ocupacionais são realizadas no âmbito de projectos enquadrados em programas específicos a aprovar por resolução do Conselho do Governo Regional e geridos por entidades promotoras.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264569": {
+   "fragment_id": "902264238",
+   "type": 11,
+   "heading": "Artigo 37.º — Desempregados elegíveis",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 37.º — Desempregados elegíveis\n\n1 - Para além dos grupos sociais a que se refere o artigo 5.º do presente diploma, podem ainda ser abrangidos pelos programas ocupacionais os trabalhadores sazonais e os desempregados cujo último emprego público não esteja abrangido por qualquer regime de protecção social no desemprego.\n\n2 - Podem ainda ser criados programas específicos de ocupação social voltados para a integração no mundo do trabalho de beneficiários do rendimento mínimo garantido disponíveis para trabalhar.\n\n3 - Para os efeitos do número anterior, consideram-se beneficiários do rendimento mínimo garantido disponíveis para trabalhar os indivíduos titulares da prestação do rendimento mínimo e os membros do seu agregado familiar que não se encontrem dispensados da disponibilidade activa para a inserção profissional, nos termos do Decreto-Lei n.º 196/97, de 31 de Julho, e que reúnam cumulativamente as seguintes condições:\n\na) Tenham celebrado acordo de inserção, nos termos do artigo 40.º do Decreto-Lei n.º 196/97, de 31 de Julho, prevendo o respectivo encaminhamento para o desenvolvimento de actividades nos domínios do emprego e da formação;\n\nb) Não estejam abrangidos por outros programas de inserção nos domínios do emprego ou formação.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264570": {
+   "fragment_id": "902264239",
+   "type": 11,
+   "heading": "Artigo 38.º — Entidades promotoras",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 38.º — Entidades promotoras\n\nPodem ser entidades promotoras de projectos de ocupação social de desempregados as seguintes entidades:\n\na) Instituições particulares de solidariedade social e santas casas da misericórdia;\n\nb) Serviços dependentes da administração central;\n\nc) Serviços públicos dependentes da administração pública regional, desde que autorizados por despacho conjunto do secretário regional competente em matéria de função pública e daquele que tutele o serviço;\n\nd) Autarquias locais.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264571": {
+   "fragment_id": "902264240",
+   "type": 11,
+   "heading": "Artigo 39.º — Acordos ocupacionais",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 39.º — Acordos ocupacionais\n\n1 - A relação entre o trabalhador em ocupação temporária e a entidade promotora do projecto rege-se por um acordo ocupacional.\n\n2 - O acordo ocupacional não gera nem titula relações de trabalho subordinado, caducando com o termo do projecto no âmbito do qual foi celebrado.\n\n3 - As entidades promotoras não podem exigir dos ocupados o desempenho de tarefas que não se integrem nos projectos aprovados.\n\n4 - Os ocupados estão abrangidos pelo regime de segurança social aplicável aos trabalhadores por conta de outrem e gozam de um mês de descanso subsidiado por cada 12 meses efectivos de ocupação.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264572": {
+   "fragment_id": "902264241",
+   "type": 11,
+   "heading": "Artigo 40.º — Programas e projectos",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 40.º — Programas e projectos\n\nOs domínios e projectos de actividade, bem como os apoios técnicos e financeiros a conceder no âmbito da presente medida, são fixados na resolução que crie o programa.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264573": {
+   "fragment_id": "902264242",
+   "type": 1,
+   "heading": "Capítulo V — Programas de formação sócio-profissional",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "### Capítulo V — Programas de formação sócio-profissional\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902264574": {
+   "fragment_id": "902264243",
+   "type": 11,
+   "heading": "Artigo 41.º — Cursos de formação sócio-profissional",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 41.º — Cursos de formação sócio-profissional\n\n1 - Com o objectivo de aumentar a empregabilidade dos desempregados abrangidos pelas medidas activas de promoção do emprego, podem ser criados cursos de formação sócio-profissional específicos integrados no sistema de educação extra-escolar.\n\n2 - O conteúdo curricular e a duração de cada curso de formação sócio-profissional regem-se por portaria própria do secretário regional competente em matéria de educação.\n\n3 - Sempre que apropriado, poderá a portaria referida no número anterior estabelecer a equivalência escolar entre os cursos de formação sócio-profissional e um ou mais módulos do sistema de ensino recorrente.\n\n4 - Podem candidatar-se à realização de cursos as entidades integradas no sistema de educação extra-escolar e aquelas que estejam acreditadas como entidades formadoras.\n\n5 - A certificação dos cursos é feita nos termos estabelecidos para o sistema de formação extra-escolar e compete ao estabelecimento oficial de ensino que, para o nível de escolaridade em causa, sirva a área onde se realize o curso.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902717375": {
+   "fragment_id": "902264244",
+   "type": 11,
+   "heading": "Artigo 42.º — Candidatura e processo de concessão",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 42.º — Candidatura e processo de concessão\n\n1 - A candidatura à realização de cursos sócio-profissionais é feita em regime de candidatura aberta.\n\n2 - As candidaturas são apreciadas pelos serviços competentes da Direcção Regional da Juventude, Emprego e Formação Profissional e submetidas a parecer da Comissão Regional do Mercado Social de Emprego.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902717376": {
+   "fragment_id": "902264245",
+   "type": 11,
+   "heading": "Artigo 43.º — Realização e frequência dos cursos",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 43.º — Realização e frequência dos cursos\n\n1 - Ouvida a Comissão Regional do Mercado Social de Emprego, a realização de um ou mais cursos de formação sócio-profissional para os trabalhadores abrangidos poderá constituir uma das condições para a atribuição dos apoios constantes do presente diploma.\n\n2 - Sem prejuízo do disposto no número seguinte, a frequência de um curso de formação sócio-profissional, ouvida a Comissão Regional do Mercado Social de Emprego, poderá ser considerada como condição para a aceitação de um trabalhador em projectos apoiados no âmbito do presente diploma.\n\n3 - A frequência do curso de formação a que se refere o número anterior é obrigatória para os trabalhadores em inserção que não sejam titulares de certificado de cumprimento dos requisitos de escolaridade obrigatória a que o grupo etário em que se integrem esteja sujeito.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902717377": {
+   "fragment_id": "902264246",
+   "type": 11,
+   "heading": "Artigo 44.º — Apoios para realização e frequência dos cursos",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 44.º — Apoios para realização e frequência dos cursos\n\n1 - As entidades que realizem cursos de formação sócio-profissional no âmbito do presente regulamento beneficiam dos seguintes apoios:\n\na) Apoio técnico-pedagógico na organização e funcionamento dos cursos;\n\nb) Uma comparticipação por cada hora efectiva de formação para as despesas com o formador e com o funcionamento do curso no valor de 5% do salário mínimo regional.\n\n2 - Os formandos, quando a frequência do curso não esteja incluída no respectivo horário de trabalho e constitua obrigação nos termos do estabelecido no artigo anterior, beneficiam de uma bolsa de formação no valor de 50% do salário mínimo regional por cada cento e vinte e cinco horas efectivas de formação frequentada.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902717378": {
+   "fragment_id": "902264247",
+   "type": 1,
+   "heading": "Capítulo VI — Iniciativas locais de emprego",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "### Capítulo VI — Iniciativas locais de emprego\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902717379": {
+   "fragment_id": "902264248",
+   "type": 11,
+   "heading": "Artigo 45.º — Iniciativas locais de emprego",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08",
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+   ],
+   "markdown": "###### Artigo 45.º — Iniciativas locais de emprego\n\n1 - Para efeitos do presente diploma, consideram-se «iniciativas locais de emprego» (ILE) os investimentos que resultem na criação líquida de postos de trabalho, promovidas por entidades de qualquer natureza jurídica, com ou sem fins lucrativos, que obedeçam cumulativamente às seguintes condições:\n\na) Não possam ser enquadradas nos sistemas de apoio à dinamização económica em vigor;\n\nb) Sejam promovidas por entidades que demonstrem capacidade empresarial e viabilidade económica e social;\n\nc) Estejam claramente inseridas na dinâmica da comunidade e demonstrem ter sustentabilidade;\n\nd) A entidade promotora disponha de capitais próprios equivalentes a um montante mínimo de 25% do investimento total a efectuar;\n\ne) Prossigam um objectivo claro de criação líquida de postos de trabalho e de aumento da empregabilidade dos seus trabalhadores.\n\n2 - A viabilidade económica e social a que se refere a alínea b) do número anterior deverá medir-se por:\n\na) Realismo dos elementos previsionais apresentados, tipo de actividade a desenvolver e capacidade do mercado potencial;\n\nb) Percentagem de capital próprio e origem dos fundos a investir;\n\nc) Capacidade de gerar receitas que, complementadas com os apoios previstos no presente diploma, assegurem a autonomia financeira do projecto e a manutenção dos postos de trabalho criados;\n\nd) Capacidade para assegurar os encargos sociais com os trabalhadores e cumprir as normas constantes dos instrumentos de regulamentação colectiva de trabalho aplicáveis.\n\n3 - Compete à Direcção Regional da Juventude, Emprego e Formação Profissional, a requerimento da entidade promotora e ouvida a Comissão do Mercado Social de Emprego, reconhecer a uma iniciativa de criação de emprego o estatuto de ILE.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+  },
+  "902717380": {
+   "fragment_id": "902264249",
+   "type": 11,
+   "heading": "Artigo 46.º — Desempregados elegíveis",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08",
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+   ],
+   "markdown": "###### Artigo 46.º — Desempregados elegíveis\n\n1 - Para além dos grupos sociais a que se refere o artigo 5.º do presente diploma, são ainda elegíveis para ocupação dos postos de trabalho criados por iniciativas locais de emprego (ILE) desempregados que se encontrem em qualquer das seguintes condições:\n\na) Sejam proponentes da iniciativa, qualquer que seja a sua situação social ou qualificação profissional;\n\nb) Estejam abrangidos por programas ocupacionais de qualquer natureza;\n\nc) Sejam desempregados de longa duração inscritos nas agências para a qualificação e emprego há mais de 12 meses;\n\nd) Sejam jovens com idade inferior a 25 anos.\n\n2 - Quando o posto de trabalho a ocupar exija qualificação profissional específica ou não seja possível o recrutamento de entre os grupos a que se refere o número anterior, ouvida a Comissão Regional do Mercado Social de Emprego, pode a área de recrutamento de trabalhadores ser alargada a todos os desempregados.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+  },
+  "902717381": {
+   "fragment_id": "902264250",
+   "type": 11,
+   "heading": "Artigo 47.º — Apoios técnicos e financeiros ao investimento",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08",
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+   ],
+   "markdown": "###### Artigo 47.º — Apoios técnicos e financeiros ao investimento\n\n1 - A administração regional autónoma, através das suas unidades orgânicas e em colaboração com as instituições públicas e privadas que se disponibilizem para o efeito, concede apoio técnico, nomeadamente na identificação das necessidades locais, na formação em gestão, na preparação do processo de candidatura e no acompanhamento do investimento.\n\n2 - O apoio financeiro ao investimento é composto por uma comparticipação a fundo perdido e por um empréstimo sem juros, sendo proposta por despacho do secretário regional competente em matéria de emprego, ouvida a Comissão Regional do Mercado Social de Emprego, devendo respeitar as seguintes condições:\n\na) A comparticipação total não pode ultrapassar, por cada posto de trabalho criado, 36 vezes o valor do salário mínimo mensal aplicável;\n\nb) O valor da comparticipação a fundo perdido não pode ultrapassar, por cada posto de trabalho criado, 12 vezes o valor do salário mínimo mensal aplicável;\n\nc) Em cada projecto não poderão ser considerados, para efeitos de apoio, menos de 2 ou mais de 20 postos de trabalho.\n\n3 - O empréstimo sem juros é reembolsável num prazo máximo de sete anos, incluindo nestes dois anos de carência.\n\n4 - As entidades beneficiárias constituem-se no dever de manter preenchidos os postos de trabalho criados para trabalhadores em processo de inserção até à integral satisfação da obrigação de reembolso.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+  },
+  "902717382": {
+   "fragment_id": "902264251",
+   "type": 11,
+   "heading": "Artigo 48.º — Candidatura e processo de concessão",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08",
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+   ],
+   "markdown": "###### Artigo 48.º — Candidatura e processo de concessão\n\n1 - O regime de apoio às ILE é de candidatura aberta, sendo os instrumentos de candidatura e a documentação que os deve acompanhar fixados por despacho do director regional da Juventude, Emprego e Formação Profissional.\n\n2 - Os requerimentos para a concessão das comparticipação são entregues nas agências para a qualificação e emprego ou nos serviços locais da segurança social.\n\n3 - As candidaturas são apreciadas pelos serviços competentes da Direcção Regional da Juventude, Emprego e Formação Profissional e submetidos a parecer da Comissão Regional do Mercado Social de Emprego.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+  },
+  "902717383": {
+   "fragment_id": "902264252",
+   "type": 11,
+   "heading": "Artigo 49.º — Prioridade",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08",
+    "Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+   ],
+   "markdown": "###### Artigo 49.º — Prioridade\n\nSem prejuízo do estabelecido no n.º 4 do artigo 3.º do presente diploma, quando não seja possível atender a todos os projectos apresentados, os projectos de iniciativa local de emprego são ordenados de acordo com as seguintes prioridades:\n\na) Maior percentagem de desempregados enquadráveis nos grupos sociais constantes do artigo 5.º do presente diploma;\n\nb) Maior percentagem de desempregadas;\n\nc) Maior percentagem de desempregados de longa duração;\n\nd) Maior percentagem de capitais próprios.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08\n\n> Revogado pelo/a Artigo 23.º do/a [Decreto Regulamentar Regional n.º 28/2006/A - Diário da República n.º 177/2006, Série I de 2006-09-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2006-540036), em vigor a partir de 2006-09-14"
+  },
+  "902717384": {
+   "fragment_id": "902264253",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições transitórias e finais",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "### Capítulo VII — Disposições transitórias e finais\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902717385": {
+   "fragment_id": "902264254",
+   "type": 11,
+   "heading": "Artigo 50.º — Projectos em tramitação e execução",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 50.º — Projectos em tramitação e execução\n\nOs processos iniciados até à data de entrada em vigor do presente diploma continuam a regular-se pelo regime em vigor à data da sua apresentação.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902717386": {
+   "fragment_id": "902264255",
+   "type": 11,
+   "heading": "Artigo 51.º — Revogação e entrada em vigor",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "###### Artigo 51.º — Revogação e entrada em vigor\n\n1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n2 - São revogados o Decreto Regulamentar Regional n.º 31/91/A, de 1 de Outubro, e a Portaria n.º 67/99, de 19 de Agosto.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  },
+  "902717387": {
+   "fragment_id": "902264256",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 25 de Julho de 2000.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 22 de Agosto de 2000.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.\n\n> Revogado pelo/a Artigo 126.º do/a [Decreto Regulamentar Regional n.º 2/2025/A - Diário da República n.º 4/2025, Série I de 2025-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2025-902208903), em vigor a partir de 2025-01-08"
+  }
+ }
+}

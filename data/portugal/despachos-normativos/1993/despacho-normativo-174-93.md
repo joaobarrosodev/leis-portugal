@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:345526:por
+title: Despacho Normativo n.º 174/93
+short_title: null
+summary: Estabelece as normas relativas à ajuda comunitária aos produtores portugueses de cereais e arroz paddy colhidos em
+  Portugal
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 174/93
+official_date: null
+publication_date: '1993-07-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/1993, Série I-B de 1993-07-26
+  number: '173'
+  series: I
+  supplement: null
+  pages: 4023 - 4024
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/07/173b00/40234024.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/174/1993/07/26/p/dre/pt/html
+  oj: null
+  dre: '345526'
+  dre_path: /dr/detalhe/despacho-normativo/174-1993-345526
+  internal: pt:dre:345526:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/174-1993-345526
+  metadata_url: https://data.dre.pt/eli/despnorm/174/1993/07/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/174-1993-345526
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-01-03T00:00:00Z'
+integrity:
+  source_sha256: ff87771543a04646778e177ccac0581a1c42ec2d8d244ebb8108ed6f1d14d640
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-174-345526.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- CEE
+- Cereal
+- Definição de Competências
+- Arroz
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Produção Agrícola
+- Regulamento CE
+relationships:
+- type: amended_by
+  target: pt:dre:621332:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31978R1418
+  label: null
+  source: http://data.europa.eu/eli/reg/1978/1418/oj
+- type: cites
+  target: celex:31990R3653
+  label: null
+  source: http://data.europa.eu/eli/reg/1990/3653/oj
+- type: cites
+  target: celex:31991R1184
+  label: null
+  source: http://data.europa.eu/eli/reg/1991/1184/oj
+- type: cites
+  target: celex:31993R1165
+  label: null
+  source: http://data.europa.eu/eli/reg/1993/1165/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 174/93
+
+Com a recente publicação do Regulamento (CEE) n.º [1165/93](http://data.europa.eu/eli/reg/1993/1165/oj?locale=pt), da Comissão, de 13 de Maio, que estabelece as modalidades de aplicação da ajuda aos produtores portugueses de arroz paddy (em casca), é necessário introduzir normas internas que regulamentem a respectiva execução.
+
+Por outro lado, atendendo à similitude das modalidades de aplicação desta ajuda com as que vigoram para a atribuição da ajuda aos produtores portugueses de cereais, instituída pelo Regulamento (CEE) n.º [3653/90](http://data.europa.eu/eli/reg/1990/3653/oj?locale=pt), de 11 de Dezembro, importa, por razões de simplificação, proceder à sua junção num único diploma.
+
+Assim, ao abrigo do Regulamento (CEE) n.º [1184/91](http://data.europa.eu/eli/reg/1991/1184/oj?locale=pt), da Comissão, de 6 de Maio, e do Regulamento (CEE) n.º [1165/93](http://data.europa.eu/eli/reg/1993/1165/oj?locale=pt), da Comissão, de 13 de Maio, bem como do Decreto-Lei n.º 282/88, de 12 de Agosto, determina-se o seguinte:
+
+1 - Compete ao Instituto Nacional de Intervenção e Garantia Agrícola (INGA) a execução processual e pagamento da ajuda comunitária aos produtores portugueses de cereais e de arroz paddy colhidos em Portugal.
+
+2 - Os produtores de trigo mole, centeio, triticale, cevada, milho, sorgo e arroz em casca devem apresentar ao INGA, ou a outras entidades por este designadas para o efeito, uma declaração de cultura, nos prazos que vierem a ser fixados, em modelo(s) próprio(s) a fornecer por aquele Instituto.
+
+3 - A declaração ou declarações de cultura serão preenchidas de harmonia com as instruções divulgadas pelo INGA.
+
+4 - Os produtores de cereais e de arroz em casca, ou os seus respectivos mandatários, que se encontrem nas condições definidas pela legislação aplicável devem remeter ao INGA, ou a outras entidades por este designadas para o efeito, os seus pedidos de pagamento da ajuda comunitária mencionada no n.º 1, segundo modelo próprio a fornecer por aquele Instituto.
+
+5 - Com vista à aplicação do disposto no número anterior, apenas poderão ser objecto de pedido de pagamento as quantidades de cereal e de arroz paddy efectivamente comercializadas e entregues pelos produtores às entidades compradoras dos cereais e arroz abrangidos pela referida ajuda.
+
+6 - O documento comprovativo da venda dos cereais mencionados no n.º 2 e do arroz paddy é a factura ou o documento equivalente a emitir pelos produtores, no qual devem constar os seguintes elementos:
+
+a) Número de inscrição do produtor, a fornecer pelo INGA;
+
+b) Quantidades vendidas por tipo de cereal ou pelo tipo comercial de arroz paddy [conforme consta no anexo A do Regulamento (CEE) n.º [1418/78](http://data.europa.eu/eli/reg/1978/1418/oj?locale=pt), do Conselho, de 21 de Junho], tendo em conta que:
+
+As quantidades de milho indicadas deverão estar convertidas em peso equivalente à taxa de humidade de 14%;
+
+As quantidades de arroz em casca indicadas deverão estar convertidas em peso equivalente à taxa de humidade 14,5%;
+
+c) Data das entregas dos cereais e do arroz.
+
+7 - A pedido do INGA, os requerentes devem apresentar outros documentos complementares necessários à avaliação do processo de candidatura.
+
+8 - Os produtores, respectivos mandatários e compradores deverão facultar todos os meios necessários à execução das acções de controlo a efectuar pelo INGA ou outras entidades por este designadas para o efeito, sendo rejeitados os pedidos de ajuda se não for possível proceder ao controlo no local imputável ao requerente, salvo caso de força maior.
+
+9 - Se o controlo de campo indicar um excedente superior a 10% ou a 5 ha entre as superfícies declaradas e controladas, serão indeferidos os pedidos de pagamento de ajuda efectuados no decurso da campanha de comercialização em causa.
+
+10 - Para a campanha de comercialização em curso (1992-1993), a ajuda aos produtores de arroz paddy é concedida ao produtor que tenha comercializado o arroz, por si produzido e colhido em território nacional em 1992, a partir de 1 de Abril de 1993.
+
+11 - O documento comprovativo da venda de arroz em casca mencionado no número anterior e a factura emitida pelo produtor de arroz em casca nos moldes indicados no n.º 7, acompanhado de um pedido de pagamento, onde deverá constar a identificação do(s) prédio(s) onde foi produzido o arroz paddy.
+
+12 - São revogados os Despachos Normativos n.os 191/91, de 4 de Setembro, 246/91, de 25 de Outubro, e 16/92, de 30 de Janeiro.
+
+Ministério da Agricultura, 5 de Julho de 1993. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.

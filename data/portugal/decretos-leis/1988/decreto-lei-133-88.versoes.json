@@ -1,0 +1,777 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:285139:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-122584778",
+ "dre_path": "/dr/detalhe/decreto-lei/133-1988-285139",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1988-04-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122584877",
+    "122584878",
+    "122584879",
+    "122584880",
+    "122584881",
+    "122584882",
+    "122584883",
+    "122584884",
+    "122584885",
+    "122584886",
+    "122584887",
+    "122584888",
+    "122584889",
+    "122584890",
+    "122584891",
+    "122584892",
+    "122584893",
+    "122584894",
+    "122584895",
+    "122584896",
+    "122584897",
+    "122584898",
+    "122584899",
+    "122584900",
+    "122584901",
+    "122584902"
+   ]
+  },
+  {
+   "date": "2012-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178491:por",
+     "title": "Decreto-Lei n.º 133/2012",
+     "published": "2012-06-27",
+     "dre_path": "/dr/detalhe/decreto-lei/133-2012-178491"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "122584877",
+    "122584878",
+    "122584879",
+    "122584880",
+    "122584881",
+    "122584882",
+    "122584883",
+    "122584884",
+    "122586605",
+    "122584886",
+    "122584887",
+    "122584888",
+    "122584889",
+    "122584890",
+    "122584891",
+    "122584892",
+    "122584893",
+    "122584894",
+    "122584895",
+    "122584896",
+    "122584897",
+    "122584898",
+    "122584899",
+    "122584900",
+    "122584901",
+    "122584902",
+    "122584903"
+   ]
+  },
+  {
+   "date": "2018-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115312061:por",
+     "title": "Decreto-Lei n.º 33/2018",
+     "published": "2018-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2018-115312061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "122584877",
+    "122584878",
+    "122584879",
+    "122584880",
+    "122584881",
+    "122584882",
+    "122584883",
+    "122584884",
+    "122586605",
+    "122584886",
+    "122584887",
+    "122584888",
+    "122584889",
+    "122584890",
+    "122586606",
+    "122584892",
+    "122584893",
+    "122584894",
+    "122584895",
+    "122584896",
+    "122584897",
+    "122584898",
+    "122584899",
+    "122584900",
+    "122584901",
+    "122584902",
+    "122584903"
+   ]
+  },
+  {
+   "date": "2019-06-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122572388:por",
+     "title": "Decreto-Lei n.º 79/2019",
+     "published": "2019-06-14",
+     "dre_path": "/dr/detalhe/decreto-lei/79-2019-122572388"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 4.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "122584877",
+    "122584878",
+    "122586629",
+    "122586630",
+    "122584881",
+    "122586631",
+    "122586607",
+    "122586618",
+    "122586632",
+    "122586620",
+    "122586633",
+    "122586634",
+    "122586623",
+    "122586624",
+    "122586635",
+    "122586626",
+    "122586636",
+    "122586628",
+    "122584893",
+    "122584894",
+    "122584895",
+    "122584896",
+    "122584897",
+    "122584898",
+    "122584899",
+    "122584900",
+    "122584901",
+    "122584902",
+    "122584903"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º-B",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "122584877",
+    "122584878",
+    "122586629",
+    "122586630",
+    "122584881",
+    "122586631",
+    "122586607",
+    "173130648",
+    "122586632",
+    "122586620",
+    "173130649",
+    "122586634",
+    "122586623",
+    "122586624",
+    "122586635",
+    "122586626",
+    "122586636",
+    "122586628",
+    "122584893",
+    "122584894",
+    "122584895",
+    "122584896",
+    "122584897",
+    "122584898",
+    "122584899",
+    "122584900",
+    "122584901",
+    "122584902",
+    "122584903"
+   ]
+  },
+  {
+   "date": "2024-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:836117865:por",
+     "title": "Decreto-Lei n.º 3/2024",
+     "published": "2024-01-05",
+     "dre_path": "/dr/detalhe/decreto-lei/3-2024-836117865"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "122584877",
+    "122584878",
+    "122586629",
+    "122586630",
+    "122584881",
+    "122586631",
+    "122586607",
+    "173130648",
+    "836205318",
+    "122586620",
+    "836205319",
+    "836205320",
+    "122586623",
+    "122586624",
+    "836205321",
+    "122586626",
+    "836205322",
+    "122586628",
+    "122584893",
+    "836205323",
+    "836205324",
+    "836205325",
+    "122584897",
+    "122584898",
+    "122584899",
+    "122584900",
+    "122584901",
+    "122584902",
+    "122584903"
+   ]
+  }
+ ],
+ "fragments": {
+  "122584877": {
+   "fragment_id": "122584779",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 133/88\n\nde 20 de Abril\n\nA Lei n.º 28/84, de 14 de Agosto, estabeleceu as bases em que assenta o sistema de segurança social e definiu os regimes que o mesmo compreende como indispensáveis à efectivação do direito à segurança social.\n\nA regulamentação da referida lei é realizada, entre outras medidas legislativas, no âmbito do Código dos Regimes de Segurança Social, cujo projecto técnico se encontra concluído.\n\nNo entanto, a sua imediata aprovação e entrada em vigor é naturalmente impossível, dado o tempo e atenta a metodologia de apreciação de um diploma desta natureza e com tal envergadura jurídica e social. De facto, ele abarca toda a protecção garantida pela Segurança Social aos trabalhadores por conta de outrem e aos trabalhadores independentes e, bem assim, a que é instituída a favor da população não trabalhadora, nomeadamente através do seguro social voluntário e do regime não contributivo.\n\nAssim, sendo a actual legislação omissa em relação a certas questões importantes, designadamente algumas a que respeita o presente diploma, foi entendido não se dever aguardar o início da vigência do referido Código.\n\nNesta conformidade, concretizando princípios estabelecidos na Lei n.º 28/84, procede-se desde já à definição das normas jurídicas referentes a situações de concessão indevida de prestações, tanto no que respeita à responsabilidade emergente do pagamento de prestações indevidas como no que se refere à revogação dos actos de atribuição das prestações.\n\nAssim:\n\nO Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "122584878": {
+   "fragment_id": "122584780",
+   "type": 1,
+   "heading": "Capítulo I — Da responsabilidade emergente do recebimento de prestações indevidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da responsabilidade emergente do recebimento de prestações indevidas"
+  },
+  "122584879": {
+   "fragment_id": "122584781",
+   "type": 11,
+   "heading": "Artigo 1.º — Obrigação de restituir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Obrigação de restituir\n\nO recebimento indevido de prestações no âmbito dos regimes de segurança social dá lugar à obrigação de restituir o respectivo valor, sem prejuízo da observância do regime de revogabilidade dos actos administrativos."
+  },
+  "122584880": {
+   "fragment_id": "122584782",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito de prestações indevidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceito de prestações indevidas\n\n1 - Consideram-se prestações indevidas as que sejam concedidas sem observância das disposições legais em vigor.\n\n2 - São prestações indevidas, designadamente, as que forem concedidas:\n\na) Sem a observância das condições determinantes da sua atribuição, ainda que a comprovação da respectiva inobservância resulte de posterior decisão judicial;\n\nb) Em valor superior ao que resulta das regras de cálculo legalmente estabelecidas e na medida do excesso;\n\nc) Após terem cessado as respectivas condições de atribuição.\n\n3 - Para os efeitos deste diploma são equiparadas a prestações indevidas as que, embora correctamente concedidas, são recebidas por terceiro que para tal não tenha legitimidade."
+  },
+  "122584881": {
+   "fragment_id": "122584783",
+   "type": 11,
+   "heading": "Artigo 3.º — Pagamento de prestações indevidas imputável aos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pagamento de prestações indevidas imputável aos interessados\n\nNo caso de o pagamento indevido das prestações resultar de alterações do condicionalismo da sua atribuição, cujo conhecimento por parte das instituições de segurança social dependa de informação dos interessados, a obrigatoriedade da respectiva restituição respeita à totalidade dos montantes indevidos, independentemente do período de tempo da respectiva concessão."
+  },
+  "122584882": {
+   "fragment_id": "122584784",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsáveis pela restituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsáveis pela restituição\n\n1 - São responsáveis pela restituição dos valores recebidos as pessoas ou entidades a quem as prestações forem indevidamente pagas e aquelas que para tal tenham contribuído.\n\n2 - Se forem vários os responsáveis pelo recebimento indevido, é solidária a obrigação de restituição."
+  },
+  "122584883": {
+   "fragment_id": "122584785",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimento administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento administrativo\n\n1 - Verificada a concessão indevida de prestações, devem as instituições cessar de imediato os pagamentos, averiguar a identidade de quem as recebeu e proceder à sua interpelação para efectuar a restituição e informar sobre os respectivos valores e termos que a mesma pode revestir.\n\n2 - No caso de ter havido recebimento indevido por terceiro, devem ainda ser promovidas as rectificações que se mostrem necessárias à regularização da situação."
+  },
+  "122584884": {
+   "fragment_id": "122584786",
+   "type": 11,
+   "heading": "Artigo 6.º — Formas de restituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formas de restituição\n\nA restituição do valor das prestações indevidamente pagas pode ser efectuada através de pagamento directo ou por compensação com prestações devidas pelas instituições."
+  },
+  "122584885": {
+   "fragment_id": "122584787",
+   "type": 11,
+   "heading": "Artigo 7.º — Restituição directa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Restituição directa\n\n1 - A restituição directa deve ser efectuada no prazo de 30 dias a contar da interpelação do devedor.\n\n2 - Dentro do prazo estabelecido no número anterior, o devedor pode solicitar, em requerimento fundamentado, o pagamento em prestações mensais dos benefícios indevidamente recebidos.\n\n3 - Sendo inequivocamente atendíveis os motivos invocados pelo devedor, pode a instituição autorizar a restituição parcelada, desde que a mesma se efectue no prazo máximo de 36 meses.\n\n4 - A falta de pagamento de uma das prestações mensais determina o vencimento imediato das restantes e a aplicação dos artigos seguintes."
+  },
+  "122584886": {
+   "fragment_id": "122584788",
+   "type": 11,
+   "heading": "Artigo 8.º — Compensação com prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Compensação com prestações\n\n1 - Na falta de restituição directa, prevista no artigo anterior, a restituição pode ter lugar através de compensação com benefícios a que o devedor tiver direito.\n\n2 - Quando o pagamento das prestações indevidas resultar da falta de oportuno conhecimento do falecimento do beneficiário e aquelas tiverem sido recebidas por familiares com direito a subsídio por morte ou a pensão de sobrevivência, considera-se o respectivo valor como pagamento antecipado destas prestações.\n\n3 - Não pode ser feita compensação de prestações indevidamente recebidas pelo beneficiário com prestações de familiares cujo direito resulte da morte do próprio beneficiário."
+  },
+  "122584887": {
+   "fragment_id": "122584789",
+   "type": 11,
+   "heading": "Artigo 9.º — Oposição do devedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Oposição do devedor\n\nNo caso de o devedor não reconhecer o dever de restituir e reclamar de forma fundamentada, fica suspenso o recurso à compensação até que seja decidida a reclamação."
+  },
+  "122584888": {
+   "fragment_id": "122584790",
+   "type": 11,
+   "heading": "Artigo 10.º — Restituição em caso de morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Restituição em caso de morte\n\n1 - O falecimento do beneficiário antes de se ter efectuado a restituição das prestações indevidamente pagas não impede que as instituições procedam à sua dedução em benefícios que lhe fossem devidos.\n\n2 - Não havendo familiares com direito a subsídio por morte ou a pensão de sobrevivência, o eventual ressarcimento a terceiros de encargos com despesas de funeral só se operará após a dedução do valor em dívida e em função do quantitativo remanescente."
+  },
+  "122584889": {
+   "fragment_id": "122584791",
+   "type": 11,
+   "heading": "Artigo 11.º — Cobrança coerciva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cobrança coerciva\n\n1 - As instituições devem promover a cobrança coerciva do valor das prestações indevidamente pagas sempre que o recurso à compensação possa pôr em causa o seu efectivo reembolso.\n\n2 - A cobrança coerciva tem por base certidão autenticada da qual constem a identificação completa do devedor, os valores e os períodos a que respeite a restituição e os fundamentos da mesma.\n\n3 - As instituições podem não proceder judicialmente sempre que estejam em causa valores de prestações que, no seu conjunto, não ultrapassem o valor da pensão mínima do regime geral da Segurança Social."
+  },
+  "122584890": {
+   "fragment_id": "122584792",
+   "type": 11,
+   "heading": "Artigo 12.º — Regularização por encontro de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regularização por encontro de contas\n\nNos casos em que o pagamento de prestações indevidas tenha sido feito a instituições particulares de solidariedade social ou a famílias de acolhimento, deve o respectivo montante ser deduzido no quantitativo global das prestações que lhes são pagas, em virtude de terem a seu cargo titulares de prestações de segurança social, justificando-se o procedimento para adequado acerto de contas."
+  },
+  "122584891": {
+   "fragment_id": "122584793",
+   "type": 11,
+   "heading": "Artigo 13.º — Prescrição do direito à restituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prescrição do direito à restituição\n\nO direito à restituição do valor das prestações indevidamente pagas prescreve no prazo de dez anos a contar da data da interpelação para restituir."
+  },
+  "122584892": {
+   "fragment_id": "122584794",
+   "type": 11,
+   "heading": "Artigo 14.º — Actuação das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Actuação das instituições\n\nAs instituições devem desenvolver as medidas necessárias, no plano da organização interna dos serviços, da informação e da fiscalização, para impedir a concessão de prestações indevidas e para a sua recuperação."
+  },
+  "122584893": {
+   "fragment_id": "122584795",
+   "type": 1,
+   "heading": "Capítulo II — Da revogação dos actos de atribuição das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da revogação dos actos de atribuição das prestações"
+  },
+  "122584894": {
+   "fragment_id": "122584796",
+   "type": 11,
+   "heading": "Artigo 15.º — Revogabilidade dos actos de atribuição das prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revogabilidade dos actos de atribuição das prestações\n\n1 - Os actos administrativos de atribuição de prestações feridos de ilegalidade são revogáveis nos termos e nos prazos previstos para os actos administrativos constitutivos de direitos, salvo o disposto no número seguinte.\n\n2 - Tratando-se de actos administrativos de atribuição de prestações continuadas, a verificação da respectiva ilegalidade após a expiração do prazo de revogação determina a imediata cessação da respectiva concessão."
+  },
+  "122584895": {
+   "fragment_id": "122584797",
+   "type": 11,
+   "heading": "Artigo 16.º — Contagem dos prazos de revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contagem dos prazos de revogação\n\n1 - O prazo de revogação dos actos administrativos de atribuição das prestações começa a contar a partir da data em que o acto foi praticado, ainda que os seus efeitos se reportem a momentos anteriores, ou da data de decisão judicial de que resulte ilegalidade na atribuição da prestação.\n\n2 - No caso em que os actos de atribuição das prestações não possam conter expressamente, em atenção às regras do processo de formação dos mesmos actos, a data da atribuição, considera-se que a mesma se reporta à do primeiro pagamento."
+  },
+  "122584896": {
+   "fragment_id": "122584798",
+   "type": 11,
+   "heading": "Artigo 17.º — Efeitos da revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Efeitos da revogação\n\nA revogação dos actos administrativos de atribuição de prestações tem como efeito a obrigação de repor, por parte dos beneficiários, os valores das prestações indevidamente recebidas."
+  },
+  "122584897": {
+   "fragment_id": "122584799",
+   "type": 11,
+   "heading": "Artigo 18.º — Erro de cálculo ou de escrita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Erro de cálculo ou de escrita\n\n1 - Quando haja erro de cálculo ou de escrita na atribuição das prestações, há lugar, a todo o tempo, à sua rectificação.\n\n2 - Apenas são considerados erros de cálculo ou de escrita, para efeito do número anterior, aqueles em que seja evidente ou ostensivo o respectivo vício.\n\n3 - O disposto no artigo anterior é aplicável à rectificação resultante de erro de cálculo ou de escrita."
+  },
+  "122584898": {
+   "fragment_id": "122584800",
+   "type": 11,
+   "heading": "Artigo 19.º — Legislação supletiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Legislação supletiva\n\nEm tudo o que não estiver expressamente previsto neste capítulo aplicam-se as normas gerais de direito administrativo."
+  },
+  "122584899": {
+   "fragment_id": "122584801",
+   "type": 1,
+   "heading": "Capítulo III — Das disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Das disposições finais"
+  },
+  "122584900": {
+   "fragment_id": "122584802",
+   "type": 11,
+   "heading": "Artigo 20.º — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regiões autónomas\n\nO presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, de harmonia com o disposto no artigo 84.º da Lei n.º 28/84, de 14 de Agosto."
+  },
+  "122584901": {
+   "fragment_id": "122584803",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\nFica revogada a legislação anterior que contrarie o disposto no presente diploma."
+  },
+  "122584902": {
+   "fragment_id": "122584804",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nEste diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "122586605": {
+   "fragment_id": "122584787",
+   "type": 11,
+   "heading": "Artigo 7.º — Restituição directa",
+   "in_force_from": "2012-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Restituição directa\n\n1 - A restituição directa deve ser efectuada no prazo de 30 dias a contar da interpelação do devedor.\n\n2 - Dentro do prazo estabelecido no número anterior, o devedor pode solicitar, em requerimento fundamentado, o pagamento em prestações mensais dos benefícios indevidamente recebidos.\n\n3 - Sendo inequivocamente atendíveis os motivos invocados pelo devedor, pode a instituição autorizar a restituição parcelada desde que a mesma se efetue no prazo máximo de 120 meses.\n\n4 - A falta de pagamento de uma das prestações mensais determina o vencimento imediato das restantes e a aplicação dos artigos seguintes.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01"
+  },
+  "122584903": {
+   "fragment_id": "122584805",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Março de 1988. - Aníbal António Cavaco Silva - José Albino da Silva Peneda.\n\nPromulgado em 6 de Abril de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Abril de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "122586606": {
+   "fragment_id": "122584793",
+   "type": 11,
+   "heading": "Artigo 13.º — Prescrição do direito à restituição",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 149.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 13.º — Prescrição do direito à restituição\n\nO direito à restituição do valor das prestações indevidamente pagas prescreve no prazo de cinco anos a contar da data da interpelação para restituir.\n\n> Alterado pelo/a Artigo 149.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "122586629": {
+   "fragment_id": "122584781",
+   "type": 11,
+   "heading": "Artigo 1.º — Obrigação de restituir",
+   "in_force_from": "2019-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 1.º — Obrigação de restituir\n\n1 - O recebimento indevido de prestações no âmbito do sistema de segurança social dá lugar à obrigação de restituir o respetivo valor, sem prejuízo da observância do regime de anulação e revogação dos atos administrativos.\n\n2 - Salvo disposição legal em contrário, sempre que haja prestações pagas a título provisório ou de adiantamento, de acordo com as normas legais em vigor, o ressarcimento dos valores indevidamente pagos faz-se de acordo com o regime previsto no presente decreto-lei.\n\n3 - O regime relativo à restituição de prestações indevidamente pagas previsto no presente decreto-lei é aplicável, com as necessárias adaptações:\n\na) À recuperação de montantes relativos a prestações ou comparticipações cuja gestão e pagamento se encontra entregue à responsabilidade das instituições de segurança social;\n\nb) Ao ressarcimento do valor de prestações da responsabilidade das entidades empregadoras, nomeadamente no âmbito do artigo 63.º do Decreto-Lei n.º 220/2006, de 3 de novembro, na sua redação atual;\n\nc) Às compensações retributivas a que se refere o artigo 305.º do Código do Trabalho.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "122586630": {
+   "fragment_id": "122584782",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceito de prestações indevidas",
+   "in_force_from": "2019-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 2.º — Conceito de prestações indevidas\n\n1 - Consideram-se prestações indevidas as que sejam concedidas sem observância das disposições legais em vigor, designadamente:\n\na) As que sejam concedidas sem observância das condições legais de atribuição, ainda que a comprovação da respetiva inobservância resulte de decisão judicial posterior;\n\nb) As que sejam concedidas e pagas em valor superior ao que resulta das regras legais de apuramento do seu valor, e apenas quanto ao excesso;\n\nc) As prestações continuadas atribuídas após deixarem de se verificar as condições de atribuição ou ter cessado o período de concessão.\n\n2 - (Revogado.)\n\n3 - Para os efeitos do presente decreto-lei, são equiparadas a prestações indevidas as que tenham sido recebidas por terceiro que para tal não tenha legitimidade, designadamente, após a morte do beneficiário, os cotitulares da conta bancária onde as prestações foram creditadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "122586631": {
+   "fragment_id": "122584784",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsáveis pela restituição",
+   "in_force_from": "2019-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 4.º — Responsáveis pela restituição\n\n1 - São responsáveis pela restituição dos valores recebidos as pessoas ou entidades a quem as prestações forem indevidamente atribuídas ou aquelas que as tenham indevidamente recebido, bem como as que tenham contribuído para a atribuição ou recebimento indevido.\n\n2 - Para efeitos de aplicação do disposto no presente decreto-lei, são igualmente consideradas titulares do débito, no âmbito das prestações do subsistema de proteção familiar, as pessoas a quem foi ou esteja a ser paga a prestação.\n\n3 - Se forem vários os responsáveis pelo recebimento indevido, é solidária a obrigação de restituição.\n\n4 - São igualmente responsáveis pela restituição das prestações pagas após a morte do titular do direito, a herança do falecido, bem como, quando o pagamento tiver sido efetuado por transferência bancária, o cotitular ou cotitulares da conta bancária.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "122586607": {
+   "fragment_id": "122572441",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Comunicações e prazos",
+   "in_force_from": "2019-06-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 4.º-A — Comunicações e prazos\n\nO prazo para comunicação, pelo beneficiário da prestação ou terceiro responsável pelo seu requerimento ou recebimento, de quaisquer factos ou circunstâncias suscetíveis de alterar, suspender ou cessar a atribuição das prestações é fixado em 10 dias úteis, sem prejuízo dos prazos fixados nos regimes jurídicos próprios.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "122586618": {
+   "fragment_id": "122572442",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Estorno de valores pagos após o óbito do beneficiário",
+   "in_force_from": "2019-06-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 4.º-B — Estorno de valores pagos após o óbito do beneficiário\n\n1 - No caso de ter sido efetuado o pagamento de valores de pensão de invalidez, velhice ou sobrevivência por transferência bancária em data posterior ao mês da morte do seu beneficiário, a instituição de segurança social que efetuou o pagamento procede à sua recuperação através de débito daqueles valores na conta onde efetuou o crédito.\n\n2 - A operação de estorno referida no número anterior apenas pode ocorrer nos 3 meses seguintes ao mês da morte do beneficiário.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "122586632": {
+   "fragment_id": "122584785",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimento administrativo",
+   "in_force_from": "2019-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 5.º — Procedimento administrativo\n\n1 - Verificada a concessão indevida de prestações, os serviços de segurança social devem:\n\na) Suspender de imediato o pagamento das prestações enquanto decorrer o procedimento de verificação de concessão indevida e/ou pagamento indevido;\n\nb) Proceder à notificação do beneficiário da suspensão do pagamento das prestações para se pronunciar em sede de audiência de interessados sobre a concessão indevida da prestação e respetivas causas, bem como sobre a obrigação de restituição dos valores indevidamente pagos;\n\nc) Proceder à interpelação dos responsáveis para efetuarem a restituição dos valores indevidamente pagos, indicando os valores a restituir e as formas de restituição.\n\n2 - Quando o pagamento indevido das prestações for imputável a terceiros, por ação ou omissão, nomeadamente na sequência da morte do beneficiário, devem os serviços da segurança social averiguar quem são os responsáveis pela restituição para efeitos de aplicação do disposto no número anterior.\n\n3 - No caso de ter havido recebimento indevido por terceiro, devem ainda ser promovidas as rectificações que se mostrem necessárias à regularização da situação.\n\n4 - Nas situações em que tenha ocorrido o óbito do responsável pela restituição e verificada a inexistência de herança, a dívida extingue-se decorridos cinco anos após a sua morte.\n\n5 - O reconhecimento da extinção prevista no número anterior é feito por decisão do dirigente máximo do organismo que atribui a prestação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "122586620": {
+   "fragment_id": "122584786",
+   "type": 11,
+   "heading": "Artigo 6.º — Formas de restituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formas de restituição\n\nA restituição do valor das prestações indevidamente pagas pode ser efectuada através de pagamento directo ou por compensação com prestações devidas pelas instituições."
+  },
+  "122586633": {
+   "fragment_id": "122584787",
+   "type": 11,
+   "heading": "Artigo 7.º — Restituição directa",
+   "in_force_from": "2019-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Restituição directa\n\n1 - A restituição directa deve ser efectuada no prazo de 30 dias a contar da interpelação do devedor.\n\n2 - Dentro do prazo estabelecido no número anterior, o devedor pode solicitar, em requerimento fundamentado, o pagamento em prestações mensais dos benefícios indevidamente recebidos.\n\n3 - Sendo inequivocamente atendíveis os motivos invocados pelo devedor, pode ser autorizada a restituição parcelada, desde que a mesma se efetue no prazo máximo de 150 meses, a aplicar em função do valor da dívida, a fixar por despacho do membro do Governo responsável pela área da segurança social.\n\n4 - A autorização para pagamento parcelado deverá englobar a totalidade da dívida de prestações que não tenha sido objeto de participação para cobrança coerciva.\n\n5 -  A falta de pagamento de uma das prestações mensais determina o vencimento imediato das restantes e a aplicação dos artigos seguintes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01"
+  },
+  "122586634": {
+   "fragment_id": "122584788",
+   "type": 11,
+   "heading": "Artigo 8.º — Compensação com prestações",
+   "in_force_from": "2019-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 8.º — Compensação com prestações\n\n1 - A compensação do valor das prestações indevidamente pagas com outras prestações devidas no âmbito do sistema de segurança social tem lugar quando for o mesmo o titular do débito pelas prestações indevidas e do crédito de outras prestações.\n\n2 - A compensação efetua-se até 1/3 das prestações mensais devidas, salvo expressa autorização do devedor para dedução por valor superior, sem prejuízo do disposto nos números seguintes.\n\n3 - A compensação com prestações em curso deve garantir ao devedor:\n\na) Um montante mensal igual ao do valor do Indexante dos Apoios Sociais (IAS), ou o valor da respetiva prestação se inferior àquele, quando a compensação for efetuada com prestações compensatórias da perda ou redução de rendimentos de trabalho por ocorrência das eventualidades;\n\nb) Um montante mensal igual ao valor da pensão social, ou o valor da respetiva prestação se inferior àquele, para as restantes prestações do sistema.\n\n4 - Não podem ser objeto de compensação as prestações destinadas a assegurar mínimos de subsistência a pessoas em situação de carência económica, exceto se a compensação tiver origem em pagamento indevido da própria prestação, à qual se aplica o disposto no número anterior.\n\n5 - Quando o pagamento das prestações indevidas resultar da falta de oportuno conhecimento do falecimento do beneficiário e aquelas tiverem sido recebidas por familiares com direito a subsídio por morte ou a pensão de sobrevivência, considera-se o respectivo valor como pagamento antecipado destas prestações.\n\n6 - Não pode ser feita compensação de prestações indevidamente recebidas pelo beneficiário com prestações de familiares cujo direito resulte da morte do próprio beneficiário.\n\n7 - Os limites referidos nos números anteriores são afastados no caso de o pagamento indevido de prestações resultar de falsas declarações do responsável, salvaguardado o limite mínimo do valor da pensão social.\n\n8 - Nos casos em que, durante o período de concessão de prestações, ocorram pagamentos que se venham a revelar indevidos, da mesma ou de outras prestações, haverá lugar a compensação dos mesmos nos valores das prestações que o beneficiário esteja a receber, comunicando-se-lhe esse facto.\n\n9 - A compensação efetua-se nas prestações devidas no mês ou meses seguintes, pela totalidade do montante indevidamente pago, salvo se o remanescente da prestação a pagar for inferior ao valor da pensão social, garantindo-se, nestes casos, este valor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "122586623": {
+   "fragment_id": "122584789",
+   "type": 11,
+   "heading": "Artigo 9.º — Oposição do devedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Oposição do devedor\n\nNo caso de o devedor não reconhecer o dever de restituir e reclamar de forma fundamentada, fica suspenso o recurso à compensação até que seja decidida a reclamação."
+  },
+  "122586624": {
+   "fragment_id": "122584790",
+   "type": 11,
+   "heading": "Artigo 10.º — Restituição em caso de morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Restituição em caso de morte\n\n1 - O falecimento do beneficiário antes de se ter efectuado a restituição das prestações indevidamente pagas não impede que as instituições procedam à sua dedução em benefícios que lhe fossem devidos.\n\n2 - Não havendo familiares com direito a subsídio por morte ou a pensão de sobrevivência, o eventual ressarcimento a terceiros de encargos com despesas de funeral só se operará após a dedução do valor em dívida e em função do quantitativo remanescente."
+  },
+  "122586635": {
+   "fragment_id": "122584791",
+   "type": 11,
+   "heading": "Artigo 11.º — Cobrança coerciva",
+   "in_force_from": "2019-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 11.º — Cobrança coerciva\n\n1 - Os serviços de segurança social devem promover a cobrança coerciva do valor das prestações indevidamente pagas sempre que o recurso à compensação possa pôr em causa o seu efetivo reembolso e estejam em causa montantes de prestações que, no seu conjunto, sejam superiores a 50 euros.\n\n2 - A cobrança coerciva tem por base certidão autenticada da qual constem a identificação completa do devedor, os valores e os períodos a que respeite a restituição e os fundamentos da mesma.\n\n3 - As dívidas referentes a prestações que garantam mínimos de subsistência não são passíveis de cobrança coerciva durante o período de concessão, salvo se a sua atribuição resultar de falsas declarações do interessado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "122586626": {
+   "fragment_id": "122584792",
+   "type": 11,
+   "heading": "Artigo 12.º — Regularização por encontro de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regularização por encontro de contas\n\nNos casos em que o pagamento de prestações indevidas tenha sido feito a instituições particulares de solidariedade social ou a famílias de acolhimento, deve o respectivo montante ser deduzido no quantitativo global das prestações que lhes são pagas, em virtude de terem a seu cargo titulares de prestações de segurança social, justificando-se o procedimento para adequado acerto de contas."
+  },
+  "122586636": {
+   "fragment_id": "122584793",
+   "type": 11,
+   "heading": "Artigo 13.º — Prescrição do direito à restituição",
+   "in_force_from": "2019-06-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15",
+    "Alterado pelo/a Artigo 149.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 13.º — Prescrição do direito à restituição\n\n1- O direito à restituição do valor das prestações indevidamente pagas prescreve no prazo de cinco anos a contar da data da interpelação para restituir.\n\n2 - Para além das causas gerais de interrupção ou suspensão da prescrição, o prazo previsto no número anterior suspende-se ainda quando tenha sido autorizado o pagamento parcelado dos montantes a restituir, e enquanto se mantiver o seu cumprimento.\n\n3 - As dívidas a que se refere o n.º 3 do artigo 11.º são declaradas prescritas, por via administrativa, na parte que não tenha sido objeto de compensação, decorrido o prazo previsto no n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15\n\n> Alterado pelo/a Artigo 149.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "122586628": {
+   "fragment_id": "122584794",
+   "type": 11,
+   "heading": "Artigo 14.º — Actuação das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Actuação das instituições\n\nAs instituições devem desenvolver as medidas necessárias, no plano da organização interna dos serviços, da informação e da fiscalização, para impedir a concessão de prestações indevidas e para a sua recuperação."
+  },
+  "173130648": {
+   "fragment_id": "122572442",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Estorno de valores indevidamente pagos",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 413.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 4.º-B — Estorno de valores indevidamente pagos\n\n1 - No caso de ter sido efetuado o pagamento de valores de pensões ou outras prestações por transferência bancária em data posterior ao mês da morte do seu beneficiário, a instituição de segurança social que efetuou o pagamento procede à sua recuperação através de débito daqueles valores na conta onde efetuou o crédito.\n\n2 - A operação de estorno referida no número anterior apenas pode ocorrer nos três meses seguintes ao mês do conhecimento oficial da morte do beneficiário.\n\n> Alterado pelo/a Artigo 413.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "173130649": {
+   "fragment_id": "122584787",
+   "type": 11,
+   "heading": "Artigo 7.º — Restituição directa",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 413.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Restituição directa\n\n1 - A restituição directa deve ser efectuada no prazo de 30 dias a contar da interpelação do devedor.\n\n2 - Dentro do prazo estabelecido no número anterior, o devedor pode solicitar, em requerimento fundamentado, o pagamento em prestações mensais dos benefícios indevidamente recebidos.\n\n3 - Sendo inequivocamente atendíveis os motivos invocados pelo devedor, pode ser autorizada a restituição parcelada, desde que a mesma se efetue no prazo máximo de 150 meses, a aplicar em função do valor da dívida, a fixar por despacho do membro do Governo responsável pela área da segurança social.\n\n4 - A autorização para pagamento parcelado deverá englobar a totalidade da dívida de prestações que não tenha sido objeto de participação para cobrança coerciva.\n\n5 -  A falta de pagamento de uma das prestações mensais determina o vencimento imediato das restantes e a aplicação dos artigos seguintes.\n\n6 - Está isenta a aplicação de juros de mora na restituição de prestações indevidamente pagas no âmbito do sistema de segurança social, com exceção das dívidas em fase de cobrança coerciva.\n\n> Alterado pelo/a Artigo 413.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01"
+  },
+  "836205318": {
+   "fragment_id": "122584785",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimento administrativo",
+   "in_force_from": "2024-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 5.º — Procedimento administrativo\n\n1 - Verificada a concessão indevida de prestações, os serviços de segurança social devem:\n\na) Suspender de imediato o pagamento das prestações enquanto decorrer o procedimento de verificação de concessão indevida e/ou pagamento indevido;\n\nb) Proceder à notificação do beneficiário da suspensão do pagamento das prestações para se pronunciar em sede de audiência de interessados sobre a concessão indevida da prestação e respetivas causas, bem como sobre a obrigação de restituição dos valores indevidamente pagos;\n\nc) Proceder à interpelação dos responsáveis para efetuarem a restituição dos valores indevidamente pagos, indicando os valores a restituir e as formas de restituição.\n\n2 - Quando o pagamento indevido das prestações for imputável a terceiros, por ação ou omissão, nomeadamente na sequência da morte do beneficiário, devem os serviços da segurança social averiguar quem são os responsáveis pela restituição para efeitos de aplicação do disposto no número anterior.\n\n3 - No caso de ter havido recebimento indevido por terceiro, devem ainda ser promovidas as rectificações que se mostrem necessárias à regularização da situação.\n\n4 - Nas situações em que tenha ocorrido o óbito do responsável pela restituição e verificada a inexistência de herança, a dívida extingue-se decorridos cinco anos após a sua morte.\n\n5 - O reconhecimento da extinção prevista no número anterior é feito por decisão do dirigente máximo do organismo que atribui a prestação.\n\n6 - Sem prejuízo dos números anteriores, a interpelação aos responsáveis pela restituição prevista na alínea c) do n.º 1 é suspensa enquanto se verifique que o devedor tem rendimentos mensais inferiores ao valor da retribuição mínima mensal garantida (RMMG).\n\n7 - A suspensão não é aplicada caso o devedor pretenda proceder aos pagamentos ou caso o devedor tenha património superior ao que a segurança social tenha conhecimento, com exclusão da casa de morada de família.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "836205319": {
+   "fragment_id": "122584787",
+   "type": 11,
+   "heading": "Artigo 7.º — Restituição directa",
+   "in_force_from": "2024-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01",
+    "Alterado pelo/a Artigo 413.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Restituição directa\n\n1 - A restituição directa deve ser efectuada no prazo de 30 dias a contar da interpelação do devedor.\n\n2 - Dentro do prazo estabelecido no número anterior, o devedor pode solicitar, em requerimento fundamentado, o pagamento em prestações mensais dos benefícios indevidamente recebidos.\n\n3 - Sendo inequivocamente atendíveis os motivos invocados pelo devedor, pode ser autorizada a restituição em prestações, desde que a mesma se efetue no prazo máximo de 150 meses, a aplicar em função do valor da dívida, a fixar por despacho do membro do Governo responsável pela área da segurança social\n\n4 - A autorização para pagamento em prestações deverá englobar a totalidade da dívida de prestações que não tenha sido objeto de participação para cobrança coerciva.\n\n5 -  A falta de pagamento de uma das prestações mensais determina o vencimento imediato das restantes e a aplicação dos artigos seguintes.\n\n6 - Está isenta a aplicação de juros de mora na restituição de prestações indevidamente pagas no âmbito do sistema de segurança social, com exceção das dívidas em fase de cobrança coerciva.\n\n7 - Sem prejuízo dos números anteriores, o plano prestacional é suspenso enquanto se verificar que o devedor tem rendimentos mensais inferiores ao valor da RMMG.\n\n8 - A suspensão não é aplicada caso o devedor pretenda proceder aos pagamentos ou caso o devedor tenha património superior ao que a segurança social tenha conhecimento, com exclusão da casa de morada de família.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01\n\n> Alterado pelo/a Artigo 413.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01"
+  },
+  "836205320": {
+   "fragment_id": "122584788",
+   "type": 11,
+   "heading": "Artigo 8.º — Compensação com prestações",
+   "in_force_from": "2024-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 8.º — Compensação com prestações\n\n1 - A compensação do valor das prestações indevidamente pagas com outras prestações devidas no âmbito do sistema de segurança social tem lugar quando for o mesmo o titular do débito pelas prestações indevidas e do crédito de outras prestações.\n\n2 - A compensação efetua-se até 1/3 das prestações mensais devidas, salvo expressa autorização do devedor para dedução por valor superior, sem prejuízo do disposto nos números seguintes.\n\n3 - A compensação com prestações em curso deve garantir ao devedor:\n\na) Um montante mensal igual ao do valor da RMMG, ou o valor da respetiva prestação se inferior àquela, quando a compensação for efetuada com prestações compensatórias da perda ou redução de rendimentos de trabalho por ocorrência das eventualidades;\n\nb) Um montante mensal igual ao valor do Indexante dos Apoios Sociais (IAS), ou o valor da respetiva prestação se inferior àquele, para as restantes prestações do sistema.\n\n4 - Não podem ser objeto de compensação as prestações destinadas a assegurar mínimos de subsistência a pessoas em situação de carência económica, exceto se a compensação tiver origem em pagamento indevido da própria prestação, à qual se aplica o disposto no número anterior.\n\n5 - Quando o pagamento das prestações indevidas resultar da falta de oportuno conhecimento do falecimento do beneficiário e aquelas tiverem sido recebidas por familiares com direito a subsídio por morte ou a pensão de sobrevivência, considera-se o respectivo valor como pagamento antecipado destas prestações.\n\n6 - Não pode ser feita compensação de prestações indevidamente recebidas pelo beneficiário com prestações de familiares cujo direito resulte da morte do próprio beneficiário.\n\n7 - Os limites referidos nos números anteriores são afastados no caso de o pagamento indevido de prestações resultar de falsas declarações do responsável, salvaguardado o limite mínimo do valor do IAS.\n\n8 - Nos casos em que, durante o período de concessão de prestações, ocorram pagamentos que se venham a revelar indevidos, da mesma ou de outras prestações, haverá lugar a compensação dos mesmos nos valores das prestações que o beneficiário esteja a receber, comunicando-se-lhe esse facto.\n\n9 - A compensação efetua-se nas prestações devidas no mês ou meses seguintes, pela totalidade do montante indevidamente pago, salvo se o remanescente da prestação a pagar for inferior aos montantes previstos nas alíneas a) e b) do n.º 3, consoante os casos, garantindo-se, nessa situação, aqueles montantes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "836205321": {
+   "fragment_id": "122584791",
+   "type": 11,
+   "heading": "Artigo 11.º — Cobrança coerciva",
+   "in_force_from": "2024-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+   ],
+   "markdown": "###### Artigo 11.º — Cobrança coerciva\n\n1 - Os serviços de segurança social devem promover a cobrança coerciva do valor das prestações indevidamente pagas sempre que o recurso à compensação possa pôr em causa o seu efetivo reembolso e estejam em causa montantes de prestações que, no seu conjunto, sejam superiores a 50 euros.\n\n2 - A cobrança coerciva tem por base certidão autenticada da qual constem a identificação completa do devedor, os valores e os períodos a que respeite a restituição e os fundamentos da mesma.\n\n3 - As dívidas referentes a prestações por encargos familiares e as prestações que garantam mínimos de subsistência não são passíveis de cobrança coerciva durante o período de concessão, salvo se a sua atribuição resultar de falsas declarações do interessado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15"
+  },
+  "836205322": {
+   "fragment_id": "122584793",
+   "type": 11,
+   "heading": "Artigo 13.º — Prescrição do direito à restituição",
+   "in_force_from": "2024-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15",
+    "Alterado pelo/a Artigo 149.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 13.º — Prescrição do direito à restituição\n\n1- O direito à restituição do valor das prestações indevidamente pagas prescreve no prazo de cinco anos a contar da data da interpelação para restituir.\n\n2 - Para além das causas gerais de interrupção ou suspensão da prescrição, o prazo previsto no número anterior suspende-se ainda quando:\n\na) Tenha sido autorizado o pagamento em prestações dos montantes a restituir, e enquanto se mantiver o seu cumprimento;\n\nb) Se verifique que o devedor tem rendimentos mensais inferiores aos montantes previstos nas alíneas a) e b) do n.º 3 do artigo 8.º, consoante os casos, enquanto se mantiver esta situação.\n\n3 - As dívidas a que se refere o n.º 3 do artigo 11.º são declaradas prescritas, por via administrativa, na parte que não tenha sido objeto de compensação, decorrido o prazo previsto no n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 79/2019 - Diário da República n.º 113/2019, Série I de 2019-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2019-122572388), em vigor a partir de 2019-06-15\n\n> Alterado pelo/a Artigo 149.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "836205323": {
+   "fragment_id": "122584796",
+   "type": 11,
+   "heading": "Artigo 15.º — Anulabilidade dos atos de atribuição das prestações",
+   "in_force_from": "2024-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01"
+   ],
+   "markdown": "###### Artigo 15.º — Anulabilidade dos atos de atribuição das prestações\n\n1 - Os atos administrativos de atribuição de prestações feridos de ilegalidade são anuláveis nos termos previstos para os atos administrativos constitutivos de direitos, sem prejuízo do disposto no artigo seguinte.\n\n2 - Sem prejuízo da realização de audiência de interessados, tratando-se de atos administrativos de atribuição de prestações continuadas, a verificação da respetiva ilegalidade após a expiração do prazo de anulação determina a imediata cessação da respetiva concessão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01"
+  },
+  "836205324": {
+   "fragment_id": "122584797",
+   "type": 11,
+   "heading": "Artigo 16.º — Contagem dos prazos de revogação",
+   "in_force_from": "2024-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01"
+   ],
+   "markdown": "###### Artigo 16.º — Contagem dos prazos de revogação\n\n1 - Os atos administrativos de atribuição de prestações feridos de ilegalidade são anuláveis dentro do prazo de um ano a contar da data da respetiva emissão, ainda que os seus efeitos se reportem a momentos anteriores, ou da data de decisão judicial de que resulte ilegalidade na atribuição da prestação, sem prejuízo do disposto no número seguinte.\n\n2 - O prazo referido no número anterior é contado:\n\na) Nos casos em que o beneficiário tenha utilizado artifício fraudulento com vista à obtenção da prestação, a partir da data do conhecimento desse facto pelo órgão competente;\n\nb) Em caso de alteração dos elementos declarativos, no âmbito da relação jurídica contributiva, da qual tenham resultado as condições de atribuição da prestação, a partir da data da alteração.\n\n3 - No caso em que os actos de atribuição das prestações não possam conter expressamente, em atenção às regras do processo de formação dos mesmos actos, a data da atribuição, considera-se que a mesma se reporta à do primeiro pagamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01"
+  },
+  "836205325": {
+   "fragment_id": "122584798",
+   "type": 11,
+   "heading": "Artigo 17.º — Efeitos da anulação",
+   "in_force_from": "2024-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01"
+   ],
+   "markdown": "###### Artigo 17.º — Efeitos da anulação\n\nA anulação dos atos administrativos de atribuição de prestações tem como efeito a obrigação de repor, por parte dos beneficiários, os valores das prestações indevidamente recebidas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 3/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-2024-836117865), em vigor a partir de 2024-02-01"
+  }
+ }
+}

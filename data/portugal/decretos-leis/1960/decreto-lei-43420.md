@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:513435:por
+title: Decreto-Lei n.º 43420
+short_title: null
+summary: Altera e completa algumas disposições no Decreto-Lei n.º 42793, que cria os Serviços Sociais da Guarda Nacional Republicana
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Interior - Comando-Geral da Guarda Nacional Republicana
+proposing_entity: null
+official_number: '43420'
+official_date: null
+publication_date: '1960-12-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 295/1960, Série I de 1960-12-22
+  number: '295'
+  series: I
+  supplement: null
+  pages: 2800 - 2801
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/12/29500/28002801.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '513435'
+  dre_path: /dr/detalhe/decreto-lei/43420-1960-513435
+  internal: pt:dre:513435:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43420-1960-513435
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43420-1960-513435
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-01-14T00:00:00Z'
+integrity:
+  source_sha256: c5c69cc6191ec6b37a1a96bcdf352d98472b505498b1253245b0b75a4b070455
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-43420-513435.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:660275:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43420
+
+Tendo-se reconhecido a conveniência de alterar e de completar algumas das normas estabelecidas no [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959, que criou os Serviços Sociais da Guarda Nacional Republicana;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Nos Serviços Sociais da Guarda Nacional Republicana são competentes para autorizar despesas com obras ou com aquisição de material:
+
+a) Até 5000$00, o conselho administrativo dos Serviços Sociais ou de qualquer dos órgãos deles dependentes;
+
+b) Até 50000$00, o secretário-geral dos Serviços Sociais;
+
+c) Até 200000$00, o director dos Serviços Sociais.
+
+###### Art. 2.º O director dos Serviços Sociais da Guarda Nacional Republicana é competente para autorizar despesas com dispensa de realização de concurso, público ou limitado, e de celebração de contrato escrito, até 100000$00.
+
+###### Art. 3.º A alínea f) do artigo 16.º do [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959, passa a ter a seguinte redacção:
+
+Elaborar ou promover a elaboração, pelo conselho administrativo dos Serviços Sociais e pelos conselhos administrativos dos órgãos dependentes, dos orçamentos e contas de gerência, sendo estas apresentadas por cada conselho administrativo directamente ao Tribunal de Contas.
+
+###### Art. 4.º O § único do artigo 20.º do citado [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048) passa a § 1.º
+
+Ao mesmo artigo é acrescentado um § 2.º, com a seguinte redacção:
+
+§ 2.º Os saldos das contas de gerência verificados num ano económico transitarão, qualquer que seja a sua proveniência, para nova conta, podendo ser aplicados no pagamento de despesas orçamentadas para os anos económicos seguintes.
+
+###### Art. 5.º São acrescentadas ao artigo 21.º do mencionado [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048) as seguintes alíneas:
+
+j) Emolumentos ao Tribunal de Contas pelo julgamento das contas;
+
+k) Imposto sobre a aplicação de capitais.
+
+###### Art. 6.º A construção de casas económicas a que se refere o artigo 6.º do [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959, destinadas a arrendamento simples, assim como a construção de edifícios para qualquer dos outros fins indicados no artigo 3.º do mesmo decreto-lei, serão, para efeito da comparticipação do Fundo do Desemprego a que se refere o artigo 110.º do [Decreto n.º 21699](https://diariodarepublica.pt/dr/detalhe/decreto/21699-1932-598347), de 30 de Setembro de 1932, consideradas como incluídas na alínea b) do artigo 109.º do citado decreto.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 22 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.

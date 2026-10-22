@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:295666:por
+title: Decreto n.º 46406
+short_title: null
+summary: Autoriza as repartições da Direcção-Geral da Contabilidade Pública junto de vários Ministérios, a Cadeia Penitenciária
+  de Coimbra, o Fundo de Fomento Florestal e Aquícola e o Instituto de Assistência Psiquiátrica a mandarem satisfazer diversas
+  quantias em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico - Autoriza
+  igualmente a 8.ª Repartição da mesma Direcção-Geral a mandar satisfazer uma importância para pagamento de despesas com telefones
+  realizadas em 1964 pela Direcção-Geral dos Serviços de Urbanização, em conta da dotação descrita no capítulo 7.º, artigo
+  93.º, n.º 2), do actual orçamento do Ministério das Obras Públicas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '46406'
+official_date: null
+publication_date: '1965-06-28'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 141/1965, Série I de 1965-06-28
+  number: '141'
+  series: I
+  supplement: null
+  pages: 876 - 877
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/06/14100/08760877.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '295666'
+  dre_path: /dr/detalhe/decreto/46406-1965-295666
+  internal: pt:dre:295666:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/46406-1965-295666
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46406-1965-295666
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1965-06-28T00:00:00Z'
+integrity:
+  source_sha256: b9f74e718fdf1042d3197cc761ca3df0a1d79b4d4addacebf7bfd755292af328
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1965/DRE-1965-46406-295666.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 46406
+
+Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, e mediante propostas aprovadas pelo Ministro das Finanças nos termos do mesmo artigo;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
+
+Encargos Gerais da Nação
+
+Ajudas de custo do ano de 1964 a liquidar pelos concelhos administrativos das bases aéreas n.os 2, 5, 6 e 7 e regimento de caçadores pára-quedistas ... 7249$00
+
+Despesas de transporte de material da Força Aérea do ano de 1963 ... 46024$70
+
+... 53273$70
+
+Ministério do Interior
+
+Despesas de telefones, energia eléctrica e portes de correio do ano de 1964 a liquidar pela Imprensa Nacional de Lisboa ... 24985$50
+
+Ministério da Justiça
+
+Alimentação e outras despesas concernentes aos presos referentes aos anos de 1949 e 1963 a liquidar pela Direcção-Geral dos Serviços Prisionais ... 4866$00
+
+Encargos dos anos de 1963 e 1964 respeitantes a serviços clínicos e de hospitalização a liquidar pela Cadeia Central de Mulheres, Instituto de S. Domingos de Benfica e Centro de Observação anexo ao Tribunal Central de Menores de Coimbra ... 7805$70
+
+Pagamento de serviços e encargos não especificados respeitantes aos anos de 1963 e 1964 a liquidar pelo Centro de Observação anexo ao Tribunal Central de Menores de Coimbra e Instituto de Reeducação da Guarda ... 6600$00
+
+Despesas do ano de 1964 provenientes da aquisição de artigos de expediente e diverso material não especificado da Colónia Penal de Pinheiro da Cruz ... 3842$90
+
+Despesas de transportes do ano de 1964 a liquidar pela Direcção-Geral da Justiça ... 42$00
+
+Despesas com a alimentação de internados e semi-internados do Instituto de Navarro de Paiva referentes ao ano de 1964 ... 16626$90
+
+Encargos respeitantes à conservação de semoventes do ano de 1964 a liquidar pela Direcção-Geral dos Serviços Prisionais ... 140$20
+
+... 39923$70
+
+Ministério do Exército
+
+Encargos dos anos de 1960, 1962, 1963 e 1964 referentes a vencimentos, subvenções de família, ajudas de custo e alimentação a liquidar por diversos conselhos administrativos ... 279823$50
+
+Ministério das Obras Públicas
+
+Encargo do ano de 1964 referente a ajudas de custo, despesas de deslocação, subsídios de viagem e de marcha e telefones a liquidar pela Direcção-Geral dos Edifícios e Monumentos Nacionais ... 245616$70
+
+Despesas do ano de 1964 da Direcção-Geral dos Serviços Hidráulicos, provenientes da assistência clínica prestada a um jornaleiro, vítima de acidente ocorrido em serviço ... 592$50
+
+... 246209$20
+
+Ministério do Ultramar
+
+Despesas do ano de 1964 referentes a conservação e aproveitamento de semoventes, artigos de expediente e correios e telégrafos a processar pela Secretaria-Geral do Ministério ... 99650$30
+
+Ministério da Educação Nacional
+
+Vencimentos, gratificações e ajudas de custo a liquidar pela Secretaria-Geral do Ministério, Escola do Magistério Primário da Horta e Instituto Nacional de Educação Física, respeitantes aos anos de 1963 e 1964 ... 11041$90
+
+Despesas do ano de 1964 respeitantes da luz, aquecimento, água, lavagem e limpeza a liquidar pelos Liceus de Leiria e da Rainha D. Leonor, Escolas Industriais e Comerciais de Espinho e de Emídio Navarro, Escola Industrial de D. Luísa de Gusmão e Escola Comercial de Ferreira Borges ... 44537$40
+
+Despesas dos anos de 1960 e 1964 com a aquisição e conservação de imóveis e imóveis a liquidar pelo Estádio Nacional, Direcção do Distrito Escolar de Braga e Escola Comercial de Ferreira Borges ... 29732$20
+
+Despesas com a aquisição de impressos e artigos de expediente referentes aos anos de 1963 e 1964 a liquidar pela Escola Comercial de Ferreira Borges e Liceu da Rainha D. Leonor ... 9118$40
+
+Encargos do ano de 1964 respeitantes a telefones da Escola Industrial e Comercial de Pombal, Liceu da Rainha D. Leonor e Faculdades de Letras e de Ciências da Universidade de Lisboa ... 8791$50
+
+... 103221$40
+
+Ministério da Economia
+
+Encargo do ano de 1964 respeitante a telefones a liquidar pelas Direcções-Gerais do Comércio e dos Serviços Industriais ... 19668$40
+
+Ministério da Saúde e Assistência
+
+Encargo dos anos de 1963 e 1964 referente a telefones a liquidar pela Direcção-Geral da Assistência ... 12006$50
+
+###### Art. 2.º É autorizada a 8.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da dotação descrita no capítulo 7.º, artigo 93.º, n.º 2), do actual orçamento do Ministério das Obras Públicas, a quantia de 8954$60, de despesas com telefones, realizadas em 1964, pela Direcção-Geral dos Serviços de Urbanização.
+
+###### Art. 3.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas, em conta da verba de despesas de anos económicos findos, inscrita nos seus actuais orçamentos privativos, os serviços seguintes:
+
+Cadeia Penitenciária de Coimbra
+
+Encargo do ano de 1964 com a assistência clínica prestada a um recluso vítima de acidente ocorrido no trabalho ... 1900$00
+
+Fundo de Fomento Florestal e Aquícola
+
+Despesas efectuadas em 1964 pela comissão que vistoriou, para efeitos de arrendamento, o prédio onde se encontra instalado o serviço ... 1283$90
+
+Instituto de Assistência Psiquiátrica
+
+Despesas do ano de 1964 com o internamento de doentes no Hospital do Conde de Ferreira ... 1280556$40
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 28 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

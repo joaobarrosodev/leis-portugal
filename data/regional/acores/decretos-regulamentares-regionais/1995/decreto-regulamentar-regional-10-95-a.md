@@ -1,0 +1,279 @@
+---
+schema_version: '1.0'
+id: pt:dre:513986:por
+title: Decreto Regulamentar Regional n.º 10/95/A
+short_title: null
+summary: Altera o Decreto Regulamentar Regional n.º 11/93/A, de 8 de Maio, que aprova a orgânica da Secretaria Regional das
+  Finanças, Planeamento e Administração Pública
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional das Finanças, Planeamento e Administração Pública
+proposing_entity: null
+official_number: 10/95/A
+official_date: null
+publication_date: '1995-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 107/1995, Série I-B de 1995-05-09
+  number: '107'
+  series: I
+  supplement: null
+  pages: 2635 - 2639
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/10/1995/05/09/a/dre/pt/html
+  oj: null
+  dre: '513986'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/10-1995-513986
+  internal: pt:dre:513986:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1995-513986
+  metadata_url: https://data.dre.pt/eli/decregulreg/10/1995/05/09/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1995-513986
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-04-13T00:00:00Z'
+integrity:
+  source_sha256: e4d2ffb0050e71fdb7e1f7959026352f50ae0294dbcc897acfb017e83fee798a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1995/DRE-1995-10-513986.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo Regional
+- Definição de Competências
+- Secretaria Regional das Finanças Planeamento e Administração Pública
+- Orgânica
+- Quadro de Pessoal
+- Açores
+- Subcoordenador
+relationships:
+- type: amended_by
+  target: pt:dre:522376:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/11/1993/05/08/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/11/1993/05/08/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/17/1992/04/22/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/17/1992/04/22/a/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 10/95/A
+
+Considerando que importa clarificar e redistribuir competências, por forma a um mais adequado e funcional desempenho das mesmas;
+
+Considerando a necessidade de esclarecer e corrigir determinadas normas relativas a carreiras e índices remuneratórios:
+
+Assim, em execução do artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os artigos 20.º, 21.º, 22.º, 23.º, 36.º, n.os 2 e 4, 55.º, 58.º, n.º 1, e 64.º, n.º 3, do [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio, passam a dispor da seguinte redacção:
+
+###### Artigo 20.º — Direcção de Serviços do Património (DSP)
+
+1 - São competências da DSP:
+
+a) Informar sobre a aplicação da lei, nos casos que sejam submetidos a apreciação ou decisão dos serviços;
+
+b) Propor instruções para correcta aplicação das disposições legais;
+
+c) Colaborar na realização de estudos e na preparação das normas inerentes ao exercício da gestão patrimonial, propondo as medidas de actualização que se mostrem necessárias;
+
+d) Propor a afectação dos bens aos diversos serviços da administração regional;
+
+e) Propor a aquisição e atribuição de veículos aos serviços, em conformidade com as disponibilidades financeiras, e as linhas orientadoras do uso, fiscalização, manutenção e reparação de veículos;
+
+f) Estabelecer ligação com o CI, fornecendo os elementos para a produção das informações referentes à gestão patrimonial;
+
+g) Executar quaisquer outras actividades relacionadas com a gestão patrimonial, que lhe sejam cometidas por lei ou por determinação superior.
+
+2 - A DSP compreende os seguintes serviços:
+
+a) Divisão de Inspecção e Gestão Patrimonial (DIGP);
+
+b) Sector de Aquisição e Alienação de Imóveis e de Arrendamentos para a Região (SAAIAR);
+
+c) Sector de Inventário e Gestão Patrimonial de Imóveis (SIGPI);
+
+d) Sector de Móveis e Semoventes (SMS).
+
+###### Artigo 21.º — Divisão de Inspecção e Gestão Patrimonial (DIGP)
+
+São competências da DIGP:
+
+a) Orientar as operações relativamente à elaboração do inventário dos bens da Região;
+
+b) Promover, junto dos serviços regionais para tal habilitados, as avaliações da propriedade rústica e urbana que se mostrem necessárias;
+
+c) Vistoriar os prédios da Região e pronunciar-se sobre as obras que carecem de ser efectuadas, fiscalizando, em cooperação com os serviços regionais para tal habilitados, a sua execução;
+
+d) Emitir parecer sobre os processos que lhe sejam submetidos;
+
+e) Realizar trabalhos de investigação, nos domínios respeitantes à gestão patrimonial e matérias afins, bem como executar quaisquer outras actividades que lhe sejam superiormente determinadas neste domínio;
+
+f) Proceder à realização de inquéritos, sindicâncias e inspecções, nas áreas de intervenção da DSP;
+
+g) Assegurar, em geral, e nos termos da lei, os demais actos de gestão patrimonial.
+
+###### Artigo 22.º — Sector de Aquisição e Alienação de Imóveis e de Arrendamentos para a Região (SAAIAR)
+
+Ao SAAIAR compete, designadamente:
+
+a) Promover a compra, para a Região, de bens imóveis ou a aquisição de direitos a eles respeitantes;
+
+b) Assegurar o processamento dos actos relativos a heranças, legados e doações a favor da Região;
+
+c) Assegurar a instrução dos processos de arrendamento para a Região;
+
+d) Assegurar o processamento dos actos relacionados com a venda e a cessão definitiva dos bens imóveis da Região;
+
+e) Assegurar o processamento dos actos de registo subsequentes à aquisição dos bens imóveis ou de direitos a eles respeitantes.
+
+###### Artigo 23.º — Sector de Inventário e Gestão Patrimonial de Imóveis (SIGPI)
+
+Ao SIGPI compete, designadamente:
+
+a) Assegurar a elaboração do inventário dos bens imóveis da Região, bem como proceder à respectiva actualização;
+
+b) Preparar e praticar os actos necessários à gestão patrimonial dos bens imóveis da Região e dos direitos a eles respeitantes;
+
+c) Proceder aos estudos necessários à adequada gestão dos bens imóveis da Região, elaborando informações e propostas e procedendo aos trabalhos de investigação que se revelem necessários;
+
+d) Assegurar o processamento dos actos relativos à cessão precária e arrendamento de bens da Região;
+
+e) Zelar e acompanhar a conservação e valorização dos bens da Região.
+
+###### Artigo 36.º — Sector da ADSE, Passaportes e Licenças (SAPL)
+
+1 - ...
+
+2 - O SAPL é dirigido por um coordenador, ao qual compete a direcção, coordenação e superintendência da acção desenvolvida pelos subcoordenadores e chefes de secção, bem como a execução do que as leis e regulamentos expressamente lhe cometerem ou for decorrência do normal desempenho das suas funções, encontrando-se na dependência directa do director regional de Organização e Administração Pública.
+
+3 - ...
+
+4 - As delegações do SAPL são coordenadas por um subcoordenador.
+
+###### Artigo 55.º — Pessoal técnico de património
+
+1 - Ao pessoal da carreira técnica de património é aplicável o disposto nos artigos 1.º, 3.º, 4.º e 6.º do [Decreto Regulamentar Regional n.º 26/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/26-1990-573481), de 8 de Agosto, bem como, com as necessárias adaptações, o [Decreto Regulamentar Regional n.º 17/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-1992-217712), de 22 de Abril.
+
+2 - O recrutamento do pessoal técnico de património é feito nos seguintes termos:
+
+a) Auxiliares de gestão patrimonial - de entre os auxiliares de gestão patrimonial estagiários que tenham concluído com aproveitamento o respectivo estágio, sendo factor obrigatório de ponderação a nota obtida em curso de formação adequado;
+
+b) Técnicos de gestão patrimonial de 2.ª classe - de entre os auxiliares de gestão patrimonial com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a Bom no último triénio e aprovação em curso de formação adequado;
+
+c) Técnicos de gestão patrimonial de 1.ª classe - de entre técnicos de gestão patrimonial de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a Bom no último triénio;
+
+d) Peritos de gestão patrimonial de 2.ª classe - de entre técnicos de gestão patrimonial de 1.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a Bom no último triénio e aprovação em curso de formação adequado;
+
+e) Peritos de gestão patrimonial de 1.ª classe - de entre peritos de gestão patrimonial de 2.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a Bom no último triénio;
+
+f) Subdirector de gestão patrimonial-de entre peritos de gestão patrimonial de 1.ª classe com, pelo menos, três anos de serviço na categoria e média de classificação de serviço não inferior a Bom no último triénio e aprovação em curso de formação adequado.
+
+###### Artigo 58.º — Operador de audiovisuais
+
+1 - Os requisitos para ingresso na carreira de operador de meios audiovisuais são os constantes da alínea c) do n.º 1 do artigo 20.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho.
+
+2 - ...
+
+###### Artigo 64.º — Transição e integração
+
+1 - ...
+
+2 - ...
+
+3 - Os actuais chefes de secção das delegações do SAPL da Horta e Ponta Delgada, que vêm assegurando a respectiva gestão, transitam para a categoria de subcoordenador, escalão 1, índice 350.
+
+###### Art. 2.º São aditados ao [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio, os artigos 23.º-A, 50.º-A e 52.º-A, os quais dispõem da seguinte redacção:
+
+###### Artigo 23.º-A — Sector de Móveis e Semoventes (SMS)
+
+Ao SMS compete, designadamente:
+
+a) Assegurar o processamento dos actos relativos à aquisição e alienação de semoventes, incluindo os actos de regularização e registo dos veículos;
+
+b) Assegurar as operações relativas à elaboração e actualização do inventário dos bens móveis e semoventes da Região, e o processamento dos actos relativos à conservação, valorização e verificação que cada serviço faz dos bens da Região que lhes estão afectos;
+
+c) Assegurar a prática dos actos relacionados com a constituição, modificação e extinção de direitos e obrigações relativos aos bens móveis e aos bens semoventes da Região, bem como propor e executar medidas de gestão, racionalização e controlo da utilização daqueles bens.
+
+###### Artigo 50.º-A — Chefe de delegação
+
+1 - As delegações de contabilidade pública regionl serão dirigidas por um chefe de delegação, nomeado pelo Secretário Regional das Finanças, Planeamento e Administração Pública, de entre técnicos superiores licenciados nas áreas de direito, economia, finanças, organização e gestão, subdirectores de contabilidade e peritos de contabilidade.
+
+2 - A nomeação será feita em comissão de serviço, pelo período de três anos, renovável.
+
+3 - Os chefes de delegação de contabilidade pública regional poderão ser coadjuvados, no exercício das suas funções, pelos subdirectores de contabilidade.
+
+###### Artigo 52.º-A — Subcoordenador do Sector da ADSE, Passaportes e Licenças (SAPL)
+
+1 - O recrutamento do subcoordenador do SAPL faz-se de entre chefes de secção ou oficiais administrativos principais, com três anos de Bom e efectivo serviço na categoria.
+
+2 - O acesso na carreira faz-se por progressão, segundo módulos de três anos de serviço.
+
+###### Art. 3.º É revogado o artigo 6.º do [Decreto Regulamentar Regional n.º 16/90/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-1990-571215), de 2 de Maio.
+
+###### Art. 4.º Nos mapas I e IV, a que se refere o artigo 48.º do [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio, são integradas as alterações constantes dos mapas I e IV do presente diploma, de que fazem parte integrante.
+
+Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 8 de Fevereiro de 1995.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 2 de Março de 1995.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+
+ANEXOS
+
+Mapa I a que se refere o artigo 48.º do [Decreto Regulamentar Regional n.º 11/93/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1993-274463), de 8 de Maio
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf))](https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf)
+
+Mapa IV
+
+Carreira técnica de património
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf))](https://files.diariodarepublica.pt/1s/1995/05/107b00/26352639.pdf)

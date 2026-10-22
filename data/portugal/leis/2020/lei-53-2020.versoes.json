@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:141214377:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-141214381",
+ "dre_path": "/dr/detalhe/lei/53-2020-141214377",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "141076948",
+    "141076949",
+    "141076950",
+    "141076951",
+    "141076952"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144730226:por",
+     "title": "Declaração de Retificação n.º 37/2020",
+     "published": "2020-10-07",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/37-2020-144730226"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 4.º"
+   ],
+   "fragments": [
+    "141076948",
+    "141076949",
+    "141076950",
+    "141076951",
+    "144873077",
+    "141076953"
+   ]
+  }
+ ],
+ "fragments": {
+  "141076948": {
+   "fragment_id": "141214382",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 53/2020\n\nde 26 de agosto\n\nSumário: Estabelece normas de proteção do consumidor de serviços financeiros, procedendo à primeira alteração ao Decreto-Lei n.º 3/2010, de 5 de janeiro.\n\nEstabelece normas de proteção do consumidor de serviços financeiros, procedendo à primeira alteração ao Decreto-Lei n.º 3/2010, de 5 de janeiro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "141076949": {
+   "fragment_id": "141214383",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece normas de proteção do consumidor de serviços financeiros no comissionamento bancário e na utilização de aplicações de pagamento operadas por terceiros.\n\n2 - A presente lei procede à primeira alteração ao Decreto-Lei n.º 3/2010, de 5 de janeiro, que consagra a proibição de cobrança de encargos pela prestação de serviços de pagamento e pela realização de operações em caixas Multibanco."
+  },
+  "141076950": {
+   "fragment_id": "141214384",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 3/2010, de 5 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 3/2010, de 5 de janeiro\n\nOs artigos 1.º e 4.º do Decreto-Lei n.º 3/2010, de 5 de janeiro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) Limitar a cobrança de comissões pelos prestadores de serviços de pagamento nas operações de levantamento de fundos, realização de pagamentos de serviços ou de transferências, em ou através de aplicações de pagamento operadas por terceiros.\n\nArtigo 4.º\n\n[...]\n\n1 - A violação do disposto nos artigos 2.º, 3.º e 3.º-A é punida com coima nos montantes e nos limites referidos nos n.os 1 e 2 do artigo 17.º do Decreto-Lei n.º 433/82, de 27 de outubro.\n\n2 - ...»"
+  },
+  "141076951": {
+   "fragment_id": "141214385",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 3/2010, de 5 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 3/2010, de 5 de janeiro\n\nÉ aditado o artigo 3.º-A ao Decreto-Lei n.º 3/2010, de 5 de janeiro, com a seguinte redação:\n\n«Artigo 3.º-A\n\nCobrança de comissões nas aplicações de pagamento operadas por terceiros\n\n1 - Aos prestadores de serviços de pagamento é proibido cobrar quaisquer comissões aos consumidores ordenantes ou beneficiários de operações em ou através de aplicações de pagamento operadas por terceiros, designadamente de levantamento de fundos, realização de pagamentos de serviços ou de transferências que não excedam um limite de:\n\na) 30 euros por operação; ou\n\nb) 150 euros transferidos através da aplicação durante o período de um mês; ou\n\nc) 25 transferências realizadas no período de um mês.\n\n2 - Caso as operações excedam os limites fixados no número anterior, os prestadores de serviços de pagamento não podem cobrar ao consumidor um valor de comissão superior a:\n\na) 0,2 % sobre o valor da operação, para as operações com cartão de débito; e\n\nb) 0,3 % sobre o valor da operação, para as operações com cartões de crédito.\n\n3 - Sem prejuízo da respetiva política comercial, designadamente no que se refere à definição de isenções, os prestadores de serviços de pagamento asseguram que as comissões cobradas por operações idênticas em aplicações de pagamento próprias ou operadas por terceiros são proporcionais, não discriminatórias e não dificultam o acesso, além do que for necessário, para prevenir riscos específicos e para salvaguardar a estabilidade financeira e operacional dos serviços de pagamento.\n\n4 - Para efeitos do disposto no presente artigo, entende-se por 'aplicação de pagamento operada por terceiro' o disposto, com as necessárias adaptações, no n.º 21 do artigo 2.º do Regulamento (UE) 2015/751 do Parlamento Europeu e do Conselho, de 29 de abril de 2015, que permita a um utilizador, titular de uma conta ou de um cartão de pagamento, executar e autenticar operações de pagamento, incluindo:\n\na) A transferência imediata, para um aderente à mesma solução, de fundos depositados na conta ou cartão de pagamento;\n\nb) A receção imediata de fundos transferidos, por um ordenante aderente à mesma solução, para conta ou cartão de pagamento;\n\nc) A realização de pagamentos em sítio da Internet ou em loja de comerciantes aderentes à mesma solução;\n\nd) A emissão de cartões virtuais para compras seguras em sítios da Internet e a emissão de códigos para levantamento de numerário, pelo próprio ou por pessoa autorizada, em caixas automáticas da rede Multibanco.»"
+  },
+  "141076952": {
+   "fragment_id": "141214386",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no 1.º dia do mês após o 120.º dia posterior à data da sua publicação."
+  },
+  "144873077": {
+   "fragment_id": "141214386",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 37/2020 - Diário da República n.º 195/2020, Série I de 2020-10-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2020-144730226), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia 1 de janeiro de 2021.\n\n> Retificado pelo/a [Declaração de Retificação n.º 37/2020 - Diário da República n.º 195/2020, Série I de 2020-10-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/37-2020-144730226), em vigor a partir de 2021-01-01"
+  },
+  "141076953": {
+   "fragment_id": "141214387",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de julho de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 10 de agosto de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 12 de agosto de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113492262"
+  }
+ }
+}

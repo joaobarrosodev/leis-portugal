@@ -1,0 +1,686 @@
+---
+schema_version: '1.0'
+id: pt:dre:628001:por
+title: Decreto-Lei n.º 394/2007
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 44/2007, de 24 de Agosto, transpõe parcialmente para a ordem
+  jurídica interna a Directiva n.º 2004/49/CE, do Parlamento Europeu e do Conselho, de 29 de Abril, relativa à segurança dos
+  caminhos de ferro da Comunidade, regulando as competências e metodologias a aplicar pelo Gabinete de Investigação de Segurança
+  e de Acidentes Ferroviários (GISAF), organismo nacional responsável pela investigação de acidentes e incidentes ferroviários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 394/2007
+official_date: null
+publication_date: '2007-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 251/2007, Série I de 2007-12-31
+  number: '251'
+  series: I
+  supplement: null
+  pages: 9159 - 9164
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/12/25100/0915909164.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-01-06'
+version_history:
+  file: decreto-lei-394-2007.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-05-19'
+    amending: pt:dre:608682:por
+    amending_title: Decreto-Lei n.º 114/2009
+    changes:
+    - Altera Artigo 3.º
+  - date: '2014-11-12'
+    amending: pt:dre:58273537:por
+    amending_title: Decreto-Lei n.º 151/2014
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+  - date: '2021-01-06'
+    amending: pt:dre:150570703:por
+    amending_title: Decreto-Lei n.º 101-C/2020
+    changes:
+    - Adita Artigo 8.º-A
+    - Adita Artigo 8.º-B
+    - Adita Artigo 11.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/394/2007/p/cons/20201207/pt/html
+  oj: null
+  dre: '628001'
+  dre_path: /dr/detalhe/decreto-lei/394-2007-628001
+  internal: pt:dre:628001:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-2007-628001
+  metadata_url: https://data.dre.pt/eli/dec-lei/394/2007/p/cons/20201207/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-58908572
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-58908572
+  retrieved_at: '2026-10-22T11:56:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 588b5b1ee28d089a563a548e6c14b61a01e68498e70c46a88b3ee4c08da6a06a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:56:27Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-394-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Transporte
+- Investigador
+- Aproximação das Legislações
+- Multa
+- Transporte Ferroviário
+- Definição de Competências
+- Gabinete de Investigação de Segurança e de Acidentes Ferroviários
+- Investigação
+- Receita Própria
+- Receita Pública
+- Relatório
+relationships:
+- type: amended_by
+  target: pt:dre:608682:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2009-608682
+  date: '2009-05-18'
+- type: amended_by
+  target: pt:dre:58273537:por
+  label: Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537
+  date: '2014-10-13'
+- type: amended_by
+  target: pt:dre:150570703:por
+  label: Adita Artigo 8.º-A; Adita Artigo 8.º-B; Adita Artigo 11.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo
+    4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º;
+    Altera Artigo 15.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703
+  date: '2020-12-07'
+- type: cites
+  target: celex:31995L0018
+  label: null
+  source: http://data.europa.eu/eli/dir/1995/18/oj
+- type: cites
+  target: celex:32004L0049
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/49/oj
+- type: cites
+  target: celex:32016R0796
+  label: null
+  source: null
+article_structure:
+  article_count: 21
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:56:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 394/2007
+
+Decreto-Lei n.º 394/2007
+
+de 31 de Dezembro
+
+Os acidentes ferroviários podem ter consequências desastrosas e suscitar preocupações, junto do público, relativamente ao desempenho e à segurança do sistema ferroviário.
+
+Consequentemente, todos esses acidentes deverão, numa perspectiva de segurança, ser objecto de inquérito para averiguação das suas causas e assim prevenir a sua repetição, devendo os seus resultados ser tornados públicos. Outros acidentes e incidentes podem ser importantes percursores de acidentes graves, devendo ser igualmente objecto de inquérito sobre a segurança, sempre que necessário.
+
+O inquérito sobre segurança deve manter-se separado do inquérito judiciário sobre o mesmo acidente ou incidente e ter acesso a provas e testemunhas. Deve ser efectuado por um organismo permanente, independente de intervenientes no sector ferroviário e que funcione de modo a evitar quaisquer conflitos de interesses e qualquer possível envolvimento nas causas das ocorrências investigadas. Em especial, a sua independência funcional não deve ser afectada, ainda que esteja associado a uma autoridade nacional de segurança ou a uma entidade nacional reguladora dos caminhos de ferro para efeitos organizativos e de estrutura jurídica. As suas investigações deverão ser efectuadas com a maior transparência possível.
+
+Por cada ocorrência, o organismo de inquérito deve desenvolver os procedimentos necessários para encontrar as causas imediatas e subjacentes ao acidente/incidente. Os relatórios de inquérito, as conclusões e as recomendações que proporcionem informações cruciais para a melhoria futura da segurança ferroviária devem ser colocados à disposição do público ao nível comunitário e as recomendações em matéria de segurança deverão ser cumpridas pelos destinatários.
+
+O comummente designado «Pacote Ferroviário II» integra um conjunto de directivas comunitárias, transpostas para a ordem jurídica interna pelos Decretos-Leis n.os 177/2007, de 8 de Maio, 178/2007, de 8 de Maio, e 231/2007, de 14 de Junho.
+
+O referido Decreto-Lei n.º 231/2007, de 14 de Junho, procedeu à transposição parcial da Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0049" title="Link para Directiva da Comunidade Europeia">2004/49/CE</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, relativa à segurança dos caminhos de ferro da comunidade, deixando para momento ulterior a especificação das competências e metodologias em sede de promoção de inquéritos e investigação sobre acidentes e incidentes ferroviários.
+
+Assim, o Governo entende que as acções a desenvolver neste âmbito são fundamentais e necessárias para a instituição de um quadro de prevenção e segurança da circulação na rede ferroviária, pelo que importa proceder à transposição da parte remanescente da citada Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0049" title="Link para Directiva da Comunidade Europeia">2004/49/CE</a>, nomeadamente no que respeita às competências e metodologias a aplicar pelo organismo responsável pela investigação de acidentes e incidentes ferroviários, consagrando o princípio da sua independência em relação aos outros intervenientes do sector ferroviário, nomeadamente entidades reguladoras ferroviárias, entidades responsáveis pela segurança, operadores e gestores da infra-estrutura ferroviária.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 44/2007, de 24 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei transpõe parcialmente para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0049" title="Link para Directiva da Comunidade Europeia">2004/49/CE</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, relativa à segurança dos caminhos de ferro da Comunidade, e que altera a Directiva n.º <a href="eurlex.asp?ano=1995&id=395L0018" title="Link para Directiva da Comunidade Europeia">95/18/CE</a>, do Conselho, de 29 de Julho, relativa à repartição de capacidade da infra-estrutura ferroviária, à aplicação de taxas de utilização da infra-estrutura ferroviária e à certificação de segurança.
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Acidente» um acontecimento súbito, indesejado ou involuntário, ou uma cadeia de acontecimentos dessa natureza com consequências danosas;
+
+b) 'Acidente grave', qualquer colisão ou descarrilamento de veículo ferroviário que tenha por consequência, no mínimo, um morto ou cinco ou mais feridos graves, ou danos graves no material circulante, na infraestrutura ou no ambiente e qualquer outro acidente semelhante com as mesmas consequências que tenha um impacto manifesto na regulamentação de segurança ferroviária ou na gestão da segurança;
+
+c) 'Agência Ferroviária da União Europeia', a agência criada pelo Regulamento (UE) 2016/796 do Parlamento Europeu e do Conselho, de 11 de maio de 2016;
+
+d) «Causas» as acções, omissões, eventos ou condições, ou a sua combinação, que conduziram ao acidente ou incidente;
+
+e) 'Danos graves', danos cujo custo possa ser imediatamente avaliado pelo organismo responsável pela investigação de segurança num total de pelo menos dois milhões de euros;
+
+f) 'Incidente', qualquer ocorrência, distinta de acidente ou acidente grave, que afete a segurança das operações ferroviárias;
+
+g) 'Investigação de segurança', o processo levado a cabo exclusivamente com vista à prevenção de acidentes e incidentes, que inclui a recolha e análise de informações, a extração de conclusões, incluindo a determinação das causas e, se for caso disso, a formulação de recomendações em matéria de segurança;
+
+h) 'Investigador de segurança', a pessoa que, sob orientação do investigador responsável, investiga um acidente ou incidente;
+
+i) 'Investigador responsável', a pessoa responsável pela organização, condução e controlo de uma investigação de segurança.
+
+2 - Para efeitos das alíneas a) e b) do número anterior, os acidentes dividem-se nas seguintes categorias:
+
+a) Colisões;
+
+b) Descarrilamentos;
+
+c) Acidentes em passagens de nível;
+
+d) Acidentes com pessoas provocados por material circulante em movimento;
+
+e) Incêndios; e
+
+f) Outros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+###### Artigo 3.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se à investigação de segurança de acidentes e incidentes no transporte ferroviário que ocorram em território nacional, cuja competência seja, nos termos do Decreto-Lei n.º 36/2017, de 28 de março, do Gabinete de Prevenção e Investigação de Acidentes com Aeronaves e de Acidentes Ferroviários (GPIAAF), sem prejuízo das competências próprias das autoridades judiciárias e dos órgãos de polícia criminal.
+
+2 - Para efeitos do disposto no número anterior constituem transporte ferroviário, para além do caminho de ferro pesado, outros sistemas guiados sobre carris, designadamente os metropolitanos, os metropolitanos ligeiros de superfície, os sistemas de caminho de ferro ligeiro, os elétricos e os funiculares.
+
+3 - Quando não seja possível determinar em que Estado-Membro ocorreu o acidente ou incidente, ou o mesmo ocorra numa instalação situada na fronteira ou junto à fronteira, cabe ao GPIAAF, em articulação com os organismos de investigação de segurança envolvidos, determinar qual deles dirige a investigação, ou se a mesma é realizada em cooperação.
+
+4 - Nos casos previstos no número anterior, quando a direção da investigação não seja cometida ao GPIAAF este tem o dever de decidir se participa, ou não, na investigação.
+
+5 - Nos casos previstos no n.º 3, se a direção da investigação ficar a cargo do GPIAAF, o outro organismo de investigação de segurança tem o direito de nela participar e de partilhar os seus resultados.
+
+6 - Quando ocorram em território nacional acidentes ou incidentes envolvendo empresas ferroviárias estabelecidas ou licenciadas noutros Estados-Membros ou um veículo registado ou mantido noutros Estados-Membros, deve o GPIAAF, se aplicável, convidar os organismos competentes desses Estados-Membros a participar na investigação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 114/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2009-608682), em vigor a partir de 2009-05-19
+
+###### Artigo 4.º — Obrigatoriedade de realizar a investigação
+
+1 - Qualquer acidente grave ocorrido no sistema ferroviário abrangido pelo artigo anterior deve ser objecto de uma investigação técnica com o objectivo de aumentar a segurança ferroviária e prevenir acidentes.
+
+2 - A obrigatoriedade referida no número anterior não se aplica aos acidentes graves que envolvam a colhida de pessoas ou as colisões com veículos não ferroviários ocorridas em partes da infraestrutura de metropolitanos ligeiros de superfície e de sistemas de caminho de ferro ligeiro e elétricos que não sejam sítio próprio do transporte ferroviário, ou que sejam partilhadas por outros modos de transporte e não correspondam à definição de passagem de nível, competindo ao GPIAAF a decisão sobre a investigação, tendo em consideração os ensinamentos de segurança para o sistema ferroviário a recolher da investigação.
+
+3 - Para além dos acidentes graves, o GPIAAF pode investigar acidentes e incidentes que, em circunstâncias diferentes, poderiam ter conduzido a acidentes graves, incluindo deficiências técnicas dos subsistemas de caráter estrutural ou dos componentes de interoperabilidade do Sistema Ferroviário da União Europeia e dos restantes sistemas de transporte ferroviário abrangidos pelo n.º 2 do artigo anterior.
+
+4 - Cabe ao GPIAAF decidir sobre a realização de uma investigação de segurança a acidente ou incidente do tipo referido no número anterior, devendo ter em conta na sua decisão os ensinamentos expectáveis para a segurança e:
+
+a) A gravidade do acidente ou incidente;
+
+b) Se a ocorrência faz parte de uma série de acidentes ou incidentes relevantes para o sistema no seu todo;
+
+c) O impacte do acidente ou incidente na segurança ferroviária;
+
+d) Os pedidos dos gestores das infraestruturas, das empresas ferroviárias, da Autoridade Nacional de Segurança ou de outros Estados-Membros da União Europeia.
+
+5 - A decisão de realização de inquérito deve determinar o âmbito e os procedimentos a adotar na sua realização, tendo em conta os princípios de eficiência e celeridade, os objetivos, assim como os ensinamentos que se espera retirar do acidente ou incidente para o reforço da segurança.
+
+6 - O GPIAAF deve informar a Agência Ferroviária da União Europeia da decisão de dar início a uma investigação de segurança relativa ao caminho de ferro pesado, no prazo de sete dias a contar da decisão, indicando a data, a hora e o local da ocorrência, bem como o seu tipo e consequências em termos de vítimas mortais e de danos corporais e materiais.
+
+7 - A investigação de segurança prevista nos n.os 1 e 3 não tem por objetivo o apuramento de culpas ou a determinação de responsabilidades, é independente e ocorre sem prejuízo de eventuais processos judiciais ou administrativos que visem apurar culpas ou imputar responsabilidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 5.º — Comissão de investigação
+
+1 - Imediatamente após a notificação de um acidente ou incidente, o chefe de equipa multidisciplinar da área de transporte ferroviário do GPIAAF designa um investigador responsável pela investigação.
+
+2 - O chefe de equipa referido no número anterior pode, se tal se tornar necessário, e por proposta do investigador responsável, designar investigadores de segurança, constituindo uma comissão de investigação, sob a orientação do investigador responsável.
+
+3 - O investigador responsável, no exercício das suas funções, pode estabelecer os contactos que se tornem necessários com qualquer autoridade e seus agentes, assim como trocar informações e receber a colaboração de organismos e entidades públicas ou privadas, seja qual for a sua nacionalidade.
+
+4 - Em caso de impedimento do investigador responsável nomeado, ou quando a gestão operacional do GPIAAF o justifique, pode o chefe de equipa referido no n.º 1 nomear outro investigador responsável em sua substituição.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+###### Artigo 6.º — Competências do investigador responsável
+
+1 - Ao investigador responsável compete:
+
+a) Determinar as ações necessárias à investigação de segurança, em articulação com o chefe de equipa referido no n.º 1 do artigo anterior;
+
+b) (Revogada.)
+
+c) Assegurar que a investigação de segurança é conduzida de acordo com os procedimentos estabelecidos no GPIAAF, os quais devem refletir as normas e práticas recomendadas pela Comissão Europeia e as que resultem dos métodos e princípios comuns elaborados em conjunto pelos organismos de investigação de segurança de acidentes e incidentes ferroviários da União Europeia;
+
+d) Efetuar o levantamento imediato dos indícios e a recolha controlada de destroços ou componentes para fins de exame ou análise, salvo decisão de autoridade judiciária ou do órgão de polícia criminal em contrário;
+
+e) Investigar todas as circunstâncias em que ocorreu o acidente ou incidente, incluindo aquelas que podem não estar diretamente a ele ligadas, mas que se entenda serem de particular importância para a segurança;
+
+f) Propor ao chefe de equipa, referido no n.º 1 do artigo anterior, a colaboração de organizações estrangeiras de investigação de acidentes ou outras organizações especializadas;
+
+g) [Revogada];
+
+h) Solicitar às autoridades judiciárias ou aos órgãos de polícia criminal a realização de testes de alcoolemia e despistagem de estupefacientes e substâncias psicotrópicas nas pessoas envolvidas no acidente;
+
+i) Solicitar às autoridades judiciárias ou aos órgãos de polícia criminal a identificação das testemunhas já ouvidas por aqueles;
+
+j) Solicitar às autoridades e agentes da protecção civil o acompanhamento das operações como garantia da segurança de pessoas e bens;
+
+l) Partilhar com as autoridades judiciárias ou com os órgãos de polícia criminal as provas recolhidas;
+
+m) Solicitar ao organismo responsável pela meteorologia a preparação de relatório da situação meteorológica e da informação meteorológica disponível na altura do acidente ou incidente;
+
+n) Solicitar à autoridade responsável pela segurança ferroviária toda a informação de que esta disponha sobre infraestruturas, pessoal, material, operadores e procedimentos ferroviários com interesse para a investigação, incluindo os relativos a certificados e licenças, bem como qualquer informação ferroviária relevante;
+
+o) Solicitar às autoridades judiciárias ou aos órgãos de polícia criminal, sem prejuízo da investigação criminal, a conservação, custódia e vigilância do local e destroços, e a autorização para efetuar o mais rapidamente possível os exames e estudos necessários relativamente às pessoas e vestígios materiais de qualquer espécie, relacionados com o acidente;
+
+p) Ouvir depoimentos de pessoas envolvidas e de testemunhas de acidentes ou incidentes, podendo notificá-las por escrito para comparecerem, com a faculdade de, em caso de falta injustificada de comparecimento, requerer à autoridade judiciária a adoção das medidas previstas nos n.os 1 e 2 do artigo 116.º do Código de Processo Penal, aprovado pelo Decreto-Lei n.º 78/87, de 17 de fevereiro, que se aplicam com as necessárias adaptações, devendo a notificação escrita conter informação sobre a referida faculdade;
+
+q) Solicitar ao gestor da infra-estrutura e aos operadores ferroviários relatórios sobre o estado da infra-estrutura e do material circulante, respectivamente, cuja informação é considerada relevante para efeitos da investigação.
+
+2 - O investigador responsável coopera com a autoridade judiciária ou com o órgão de polícia criminal no sentido da preservação das provas, tendo acesso aos relatórios das autópsias dos membros da tripulação que tenham falecido no acidente ou venham a falecer posteriormente como consequência deste, bem como aos exames e aos resultados das colheitas de amostras, efetuadas em trabalhadores ferroviários e nos corpos das vítimas, e a qualquer outra informação relevante de posse destas autoridades.
+
+3 - As entidades mencionadas nos números anteriores devem fornecer ao investigador responsável as informações referidas, salvaguardadas que estejam as necessidades impostas pelo segredo de justiça e as próprias da investigação criminal.
+
+4 - Se o investigador responsável encontrar, no decurso da investigação técnica, indícios passíveis de infracção criminal, deve proceder à sua denúncia imediata.
+
+5 - As competências atribuídas ao investigador responsável podem ser delegadas nos membros da comissão de investigação constituída nos termos do disposto no n.º 2 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 7.º — Direito de acesso
+
+1 - No exercício das suas competências, aos investigadores do GPIAAF deve ser facultado, com a maior brevidade possível:
+
+a) Acesso imediato ao local do acidente ou incidente, bem como ao material circulante envolvido, à infraestrutura em causa e às instalações de controlo do tráfego e da sinalização, e a qualquer outro local com interesse para a investigação que seja acessível ao público, ou, não o sendo, cujo acesso seja autorizado pela autoridade judiciária.
+
+b) Acesso imediato a uma listagem de provas e à possibilidade de proceder à remoção controlada de destroços do material circulante e de instalações ou componentes da infraestrutura para efeitos de exame ou análise;
+
+c) Acesso ilimitado ao conteúdo dos aparelhos de registo e dos equipamentos de bordo para registo das mensagens verbais e do funcionamento do sistema de sinalização e de controlo de tráfego, prevendo-se a possibilidade de utilização desses conteúdos;
+
+d) Acesso aos resultados do exame dos corpos das vítimas;
+
+e) Acesso aos resultados dos exames efectuados ao pessoal de bordo e outro pessoal ferroviário envolvido no acidente ou incidente;
+
+f) Acesso a qualquer informação ou registo relevante na posse do gestor da infraestrutura, das empresas ferroviárias envolvidas, das entidades de manutenção, dos prestadores de serviços, do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), e de qualquer outra entidade relevante para a investigação;
+
+g) Acesso a imagens de videovigilância que sejam relevantes para a investigação, que estejam na posse do gestor da infraestrutura, das empresas ferroviárias envolvidas, das entidades de manutenção, dos prestadores de serviços ou do IMT, I. P., e, mediante autorização da autoridade judiciária competente, as que estejam na posse de qualquer outra entidade ou pessoa;
+
+h) O direito de inquirir o pessoal ferroviário envolvido no acidente ou incidente e outras testemunhas.
+
+2 - Os investigadores do GPIAAF, no acesso aos locais e instalações relevantes para o exercício das suas competências, devem encontrar-se devidamente identificados, através de cartão com fotografia ou de outra credencial adequada.
+
+3 - Nas situações em que investigadores de segurança de organismos congéneres de outros Estados-Membros convidados participem numa investigação de segurança em território nacional, nos termos dos n.os 3 a 6 do artigo 3.º, cabe ao GPIAAF assegurar a sua credenciação, através de cartão com fotografia ou documento adequado, bem como assegurar os mesmos direitos de acesso previstos para os investigadores do GPIAAF, sob a orientação do investigador responsável.
+
+4 - Os investigadores concluem as suas investigações no local do acidente no mais curto prazo possível, por forma a dar ao gestor da infraestrutura a possibilidade de a repor em condições e a abrir aos serviços de transporte ferroviário com a maior brevidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-07
+
+###### Artigo 8.º — Notificação do acidente ou incidente
+
+1 - São de notificação obrigatória ao GPIAAF todos os acidentes e incidentes verificados no território português, exceto quanto aos verificados em elétricos e funiculares em exploração em contexto rodoviário urbano, aos quais esta notificação só se aplica no caso de acidentes graves.
+
+2 - A obrigação de notificação compete aos operadores ferroviários, ao gestor da infraestrutura ferroviária e ao IMT, I. P.
+
+3 - A notificação deve ser feita imediatamente após a ocorrência, não podendo exceder:
+
+a) Uma hora, no caso de acidentes graves, de acidentes que consistam em colisões ou descarrilamentos, de acidentes em passagens de nível, e de ocorrências que envolvam comboios que transportem matérias perigosas;
+
+b) 48 horas, nas restantes ocorrências.
+
+4 - A notificação deve fornecer todas as informações disponíveis e ser atualizada à medida que fiquem disponíveis quaisquer informações em falta.
+
+5 - As autoridades policiais e militares presentes em acidentes e incidentes ocorridos sob a sua jurisdição devem remeter ao GPIAAF, no prazo máximo de 20 dias úteis, cópia das participações elaboradas ou, na impossibilidade desse envio, relatório detalhado das mesmas.
+
+6 - O pessoal de bordo ou, na sua indisponibilidade, o operador ferroviário envolvido no acidente ou incidente, deve elaborar, no prazo de 24 horas, um relatório da ocorrência, contendo os factos, condições e circunstâncias relacionadas com o acidente ou incidente.
+
+7 - No caso de incapacitação física ou mental, os elementos do pessoal de bordo devem fazer o seu depoimento logo que a respectiva condição física ou mental o permita.
+
+8 - O GPIAAF deve decidir no prazo máximo de dois meses, após a receção da notificação do acidente ou incidente em questão, se abre ou não a investigação de segurança, sem prejuízo de dever desenvolver, no menor prazo possível após a notificação, a recolha de evidências relativas à infraestrutura e ao material circulante que considere necessária para instruir essa decisão, com vista a minimizar eventual impacto no serviço ferroviário.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 8.º-A — Cooperação entre a investigação de segurança e o procedimento criminal
+
+1 - As autoridades judiciárias, os órgãos de polícia criminal e os investigadores de segurança devem atuar em colaboração mútua na recolha de vestígios e na identificação de provas, no sentido de assegurarem a eficácia das investigações, para que todos tenham acesso às informações e às provas relevantes no mais breve prazo possível.
+
+2 - As entidades referidas no número anterior, quando presentes no local do acidente ou incidente, devem providenciar para que sejam tomadas medidas de imediato, sem prejuízo das operações de salvamento, nomeadamente:
+
+a) Isolamento e guarda do local do acidente;
+
+b) Afastamento de pessoas estranhas às investigações;
+
+c) Identificação das testemunhas e recolha das primeiras declarações prestadas voluntariamente, tendo em vista os objetivos da investigação de segurança;
+
+d) Verificação, exame, recolha de vestígios e identificação de provas nos eventuais destroços e corpos das vítimas, antes da sua remoção.
+
+3 - Compete ao investigador responsável a implementação das medidas cautelares necessárias para assegurar os meios de prova que exijam especiais conhecimentos técnicos, incluindo a obtenção do conteúdo dos aparelhos de registo do material circulante e dos equipamentos para registo das mensagens verbais e do funcionamento do sistema de sinalização e de controlo de tráfego, sem prejuízo das medidas cautelares determinadas por órgão de polícia criminal nos termos da lei processual penal.
+
+4 - O investigador responsável deve comunicar às autoridades judiciárias e aos órgãos de polícia criminal as partes ou componentes do material circulante, da infraestrutura ou das instalações técnicas que, para efeitos da investigação, se torne necessário não deslocar ou desmontar, até ser efetuada peritagem mais detalhada por técnicos especializados.
+
+5 - A desmontagem e colheita de peças ou documentos e restantes diligências necessárias à determinação das causas do acidente, realizadas nos termos do n.º 3, devem ser comunicadas à autoridade judiciária e ao órgão de polícia criminal.
+
+6 - A cooperação entre a investigação de segurança e o procedimento criminal não prejudica os respetivos objetivos e independência.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+###### Artigo 8.º-B — Proteção do local do acidente e do material circulante
+
+1 - Coexistindo inquérito de segurança e procedimento criminal, o investigador responsável articula-se com as autoridades judiciárias e com os órgãos de polícia criminal a operar na dependência destas, garantindo a harmonização e a melhor sequenciação de procedimentos, a fim de evitar que uma investigação inviabilize ou dificulte a outra, nomeadamente pela não preservação dos locais ou pela contaminação da prova.
+
+2 - É vedada a terceiros a retirada de quaisquer elementos ou a modificação do estado do local onde tenha ocorrido um acidente cuja notificação não possa exceder uma hora, nos termos da alínea a) do n.º 3 do artigo 8.º, bem como a manipulação ou deslocação de material circulante ou seus elementos, sem autorização do investigador responsável, mediante prévio acordo da autoridade judiciária, salvo por imposição de ações de salvamento ou segurança das populações.
+
+3 - Compete aos órgãos de polícia criminal, ao gestor da infraestrutura e aos operadores ferroviários assegurar o cumprimento do disposto no número anterior.
+
+4 - Ao investigador responsável compete decidir formas adicionais de proteção do local do acidente, sem prejuízo da competência dos órgãos de polícia criminal prevista na lei processual penal.
+
+5 - O investigador responsável determina o local para onde o material circulante e os componentes da infraestrutura devem ser deslocados para prosseguimento da investigação, salvo decisão em contrário da autoridade judiciária ou do órgão de polícia criminal.
+
+6 - O material circulante e os componentes da infraestrutura envolvidos em acidente referido no n.º 2 não podem ser objeto de reparação ou de qualquer tipo de manutenção sem que tenham sido libertados pelo investigador responsável nos termos do número seguinte.
+
+7 - Ao investigador responsável compete decidir, no menor tempo possível, e parcelarmente, se necessário para minimizar constrangimentos no serviço ferroviário, a libertação do material circulante e dos componentes da infraestrutura quando já não sejam necessários à investigação, após prévia autorização da autoridade judiciária.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+###### Artigo 9.º — Dever de sigilo
+
+1 - O GPIAAF não deve divulgar os documentos constantes do processo de investigação de segurança, salvo a autoridade judiciária ou a órgão de polícia criminal, a pedido destes.
+
+2 - Os referidos documentos constam do relatório final apenas quando forem necessários à análise do acidente ou incidente.
+
+3 - As partes dos documentos que não forem relevantes para a análise não são divulgadas.
+
+4 - O depoimento de testemunhas de qualquer acidente ou incidente, no âmbito da investigação de segurança, é confidencial quanto à identidade das testemunhas e visa unicamente os objetivos da referida investigação, podendo ser utilizados depoimentos gravados.
+
+5 - O investigador responsável e os investigadores de segurança, em especial, e, de um modo geral, todo o pessoal do GPIAAF ou sob sua orientação estão, em caso de existência de processo penal paralelo, sujeitos ao segredo de justiça relativamente a todos os factos que tenham vindo ao seu conhecimento em virtude de colaboração com as autoridades judiciárias e os órgãos de polícia criminal.
+
+6 - Os factos referidos no número anterior que ainda estejam sujeitos ao segredo de justiça e que devam constar dos relatórios elaborados pelo investigador responsável e pelos investigadores de segurança só podem ser divulgados após autorização da autoridade judiciária competente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+###### Artigo 10.º — Estatuto da investigação de segurança e sua condução
+
+1 - A investigação de segurança tem natureza de urgência sobre outras atividades, devendo ser realizada no mais curto prazo possível.
+
+2 - O investigador responsável e os investigadores designados para a realização das investigações de segurança detêm os necessários poderes de autoridade no exercício das suas funções, designadamente nas previstas nas alíneas c) a e) do n.º 1 do artigo 6.º e no n.º 1 do artigo 7.º
+
+3 - O inquérito deve ser efetuado da forma mais aberta possível, permitindo que todas as partes e intervenientes nele participem dando pareceres e opiniões, devendo o GISAF manter informadas todas as partes interessadas durante a investigação, na medida em que tal não perturbe o normal desenvolvimento da mesma.
+
+4 - Antes da elaboração do relatório a que se refere o artigo seguinte é realizada a audiência prévia das partes interessadas, a qual deve constar do relatório final.
+
+5 - Para efeitos do dever de informação a que se refere n.º 3, devem ser considerados como partes interessadas o gestor da infraestrutura, as empresas ferroviárias em questão, a autoridade nacional de segurança ferroviária, a Agência Ferroviária da União Europeia, as entidades exploradoras dos sistemas guiados, quando não se trate de caminho de ferro pesado, as vítimas e os seus familiares, os proprietários de bens danificados, os fabricantes, os serviços de urgência médica competentes, bem como os representantes dos trabalhadores e dos utilizadores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 11.º — Relatórios e comunicações
+
+1 - O investigador responsável deve preparar relatórios cuja forma depende do tipo ou gravidade do acidente ou incidente, onde constem os objectivos do inquérito e, se for caso disso, recomendações em matéria de segurança, devendo seguir a estrutura enunciada no anexo ao presente decreto-lei e que dele faz parte integrante.
+
+2 - Compete ao investigador responsável elaborar o relatório final, em conformidade com as práticas e normas contidas no anexo referido no número anterior.
+
+3 - O relatório deve proteger o anonimato das pessoas envolvidas no acidente ou incidente.
+
+4 - Compete ao diretor do GISAF homologar o relatório, dá-lo a conhecer ao membro do Governo de que depende e enviá-lo para as entidades referidas no n.º 5 do artigo anterior e para a Agência Ferroviária Europeia, bem como a todos os interessados que possam beneficiar das suas conclusões em matéria de segurança, sem prejuízo do disposto no artigo 9.º
+
+5 - O GISAF deve publicar o relatório final, logo após o termo de todas as diligências necessárias à investigação, no prazo máximo de 12 meses a contar da data do acidente.
+
+6 - O GISAF publica, anualmente, até 30 de setembro, um relatório sobre os inquéritos efetuados no ano anterior, as recomendações formuladas em matéria de segurança e as medidas tomadas em conformidade com as recomendações formuladas anteriormente, do qual dá conhecimento à Agência Ferroviária Europeia.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 11.º-A — Relatório
+
+1 - As investigações de segurança são objeto de relatórios, cuja forma depende do tipo ou gravidade do acidente ou incidente e da importância das conclusões, em que constem os objetivos da investigação e, se for caso disso, recomendações de segurança.
+
+2 - O relatório final deve ser elaborado seguindo a estrutura determinada pelo ato de execução da Comissão Europeia, aplicável à matéria, e em conformidade com os métodos e princípios comuns elaborados em conjunto pelos organismos de investigação de segurança de acidentes e incidentes ferroviários da União Europeia.
+
+3 - O relatório deve proteger o anonimato das pessoas envolvidas no acidente ou incidente e não deve ser utilizado para outros fins que não a melhoria da segurança, nomeadamente o apuramento de culpas ou responsabilidades.
+
+4 - Compete ao diretor do GPIAAF homologar o relatório, dá-lo a conhecer ao membro do Governo responsável pela área das infraestruturas e enviá-lo para as entidades referidas no n.º 5 do artigo anterior e para a Agência Ferroviária da União Europeia, bem como a todos os interessados que possam beneficiar das suas conclusões em matéria de segurança, sem prejuízo do disposto no artigo 9.º
+
+5 - O GPIAAF deve publicar o relatório final no menor prazo possível, não devendo ultrapassar 12 meses após a data da ocorrência.
+
+6 - Se o relatório final não puder ser publicado no prazo de 12 meses, o GPIAAF apresenta um balanço intermédio, pelo menos em cada data de aniversário do acidente, descrevendo de forma detalhada o andamento da investigação e os problemas de segurança eventualmente detetados.
+
+7 - O GPIAAF publica, até 30 de setembro, um relatório anual sobre as investigações de segurança efetuadas no ano anterior, as recomendações de segurança formuladas e as medidas tomadas em conformidade com essas recomendações, do qual dá conhecimento à Agência Ferroviária da União Europeia.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+###### Artigo 12.º — Recomendações de segurança
+
+1 - As recomendações de segurança devem ser dirigidas à autoridade nacional de segurança ferroviária, à Agência Ferroviária Europeia e, se o caráter da recomendação assim o exigir, a outros organismos ou autoridades nacionais de outros Estados membros.
+
+2 - Uma recomendação de segurança não constitui, em caso algum, presunção de culpa ou de responsabilidade, relativamente a um acidente ou incidente.
+
+3 - As entidades destinatárias das recomendações de segurança devem tomar as medidas necessárias para garantir que essas recomendações são devidamente tidas em conta e, se for caso disso, aplicadas, devendo o GPIAAF ser informado, pelo menos semestralmente, das medidas tomadas ou previstas na sequência da comunicação da recomendação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 151/2014 - Diário da República n.º 197/2014, Série I de 2014-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-2014-58273537), em vigor a partir de 2014-11-12
+
+###### Artigo 13.º — Reabertura da investigação
+
+No caso de surgirem factos novos ou indícios relevantes durante o período de 10 anos, decorridos após a homologação do relatório final, o GISAF deve reabrir a investigação.
+
+###### Artigo 14.º — Preservação da documentação
+
+O GISAF conserva a documentação respeitante à investigação técnica pelo prazo de 10 anos, contados a partir da data de homologação do relatório final ou, se houver reabertura da investigação, a partir da data de homologação do relatório decorrente da reabertura.
+
+###### Artigo 15.º — Responsabilidade pelos custos com as peritagens técnicas
+
+1 - Os custos decorrentes das peritagens técnicas e da reconstituição de acidentes e incidentes, no âmbito da investigação de segurança, são da responsabilidade do gestor da infraestrutura ou dos operadores, consoante a natureza da peritagem técnica ou reconstituição solicitada.
+
+2 - Quando o GPIAAF, por razões de andamento da investigação de segurança, tiver de assumir o pagamento dos custos referidos no número anterior é reembolsado das quantias pagas pelo gestor da infraestrutura ou pelo operador, consoante o caso.
+
+3 - O gestor da infra-estrutura ou o operador, consoante o caso, é notificado pelo GISAF para efectuar o reembolso previsto no número anterior no prazo de 90 dias a contar da data da notificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+###### Artigo 16.º — Contra-ordenações
+
+1 - A violação das disposições dos n.os 1 a 4 do artigo 8.º constitui contraordenação punível com coima de (euro) 1000 a (euro) 3740, quando se trate de pessoa singular, e de (euro) 2500 a (euro) 15 000, quando se trate de pessoa coletiva.
+
+2 - Quando se tratar de incidente previsto no n.º 3 do artigo 4.º os limites referidos no número anterior são reduzidos para metade.
+
+3 - A tentativa e a negligência são puníveis, sendo os limites das coimas referidos nos números anteriores reduzidos para metade.
+
+4 - O incumprimento dentro do prazo legal do reembolso previsto no n.º 3 do artigo anterior, ainda que por negligência, constitui contraordenação punível com coima, graduável entre a décima parte e metade da quantia do reembolso em falta, mas nunca inferior a (euro) 500 nem superior a (euro) 5000.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101-C/2020 - Diário da República n.º 237/2020, 1º Suplemento, Série I de 2020-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-c-2020-150570703), em vigor a partir de 2021-01-06
+
+###### Artigo 17.º — Competência
+
+1 - O processamento das contra-ordenações compete ao GISAF e a aplicação das coimas ao seu director.
+
+2 - As receitas provenientes das coimas revertem em 40 % para o GISAF e no restante para o Estado.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 17 de Outubro de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Rui Carlos Pereira - José Manuel Vieira Conde Rodrigues - Mário Lino Soares Correia.
+
+Promulgado em 4 de Dezembro de 2007.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 5 de Dezembro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo — Conteúdo principal do relatório de inquérito sobre acidentes e incidentes
+
+(a que se refere o n.º 1 do artigo 11.º)
+
+1 - Resumo - o resumo deve incluir:
+
+a) Uma breve descrição da ocorrência, com indicação da data, local e consequências;
+
+b) As causas directas e os factores que contribuíram para a ocorrência, bem como as causas subjacentes determinadas pelo inquérito;
+
+c) As principais recomendações e os respectivos destinatários.
+
+2 - Factos imediatos relacionados com a ocorrência:
+
+2.1 - Ocorrência:
+
+Data, hora exacta e local da ocorrência;
+
+Descrição dos acontecimentos e do local do acidente, incluindo os esforços dos serviços de salvamento e emergência;
+
+Decisão de abrir um inquérito, composição da equipa de inquérito e realização do inquérito.
+
+2.2 - Circunstâncias da ocorrência:
+
+Pessoal e empreiteiros envolvidos, bem como outras partes e testemunhas;
+
+Comboios e respectiva composição, incluindo o número de registo do material circulante implicado, descrição da infra-estrutura e do sistema de sinalização - tipos de vias, aparelhos de mudança de via, encravamento, sinais, protecção dos comboios;
+
+Meios de comunicação;
+
+Obras efectuadas no local ou nas imediações;
+
+Activação do plano de emergência ferroviário e respectiva cadeia de acontecimentos;
+
+Activação do plano de emergência dos serviços públicos de salvamento, da polícia e dos serviços médicos e respectiva cadeia de acontecimentos.
+
+2.3 - Mortes e danos corporais e materiais:
+
+Passageiros e terceiros, pessoal, incluindo empreiteiros;
+
+Mercadorias, bagagem e outros bens;
+
+Material circulante, infra-estrutura e ambiente.
+
+2.4 - Circunstâncias externas:
+
+Condições atmosféricas e referências geográficas.
+
+3 - Registo dos inquéritos:
+
+3.1 - Resumo dos depoimentos (sujeito à protecção da identidade das pessoas):
+
+Pessoal ferroviário, incluindo empreiteiros;
+
+Outras testemunhas.
+
+3.2 - Sistema de gestão da segurança:
+
+Quadro organizativo e forma como as ordens são dadas e executadas;
+
+Requisitos aplicáveis ao pessoal e modo de os aplicar;
+
+Rotinas aplicáveis às auditorias e aos controlos internos e seus resultados;
+
+Interface entre os diversos intervenientes presentes na infra-estrutura.
+
+3.3 - Normas e regulamentações:
+
+Normas e regulamentações comunitária e nacional aplicáveis;
+
+Outras normas, nomeadamente normas de exploração, instruções locais, requisitos aplicáveis ao pessoal, prescrições de manutenção e padrões aplicáveis.
+
+3.4 - Funcionamento do material circulante e das instalações técnicas:
+
+Sistema de sinalização e de comando e controlo, incluindo registo a partir de aparelhos de registo automático de dados;
+
+Infra-estrutura;
+
+Equipamento de comunicações;
+
+Material circulante, incluindo registo a partir de aparelhos de registo automático de dados.
+
+3.5 - Documentação relativa ao sistema de funcionamento:
+
+Medidas adoptadas pelo pessoal para controlo e sinalização do tráfego;
+
+Intercâmbio de mensagens verbais relacionadas com a ocorrência, incluindo documentação proveniente dos registos;
+
+Medidas tomadas para protecção e salvaguarda do local da ocorrência.
+
+3.6 - Interface homem/máquina/organização:
+
+Horário de trabalho do pessoal envolvido;
+
+Circunstâncias de ordem médica e pessoal com influência na ocorrência, incluindo existência de tensão física ou psicológica;
+
+Concepção do equipamento com impacte na interface homem/máquina.
+
+3.7 - Ocorrências anteriores de carácter semelhante.
+
+4 - Análise e conclusões:
+
+4.1 - Relatório final da cadeia de acontecimentos - conclusões sobre a ocorrência, com base nos factos apurados no n.º 3.
+
+4.2 - Debate - análise dos factos apurados no n.º 3 com o objectivo de tirar conclusões sobre as causas da ocorrência e o desempenho dos serviços de salvamento.
+
+4.3 - Conclusões:
+
+Causas directas e imediatas da ocorrência, incluindo os factores que para ela contribuíram relacionados com acções das pessoas envolvidas ou com as condições do material circulante ou das instalações técnicas;
+
+Causas subjacentes relacionadas com as competências, os procedimentos e manutenção;
+
+Causas profundas relacionadas com as condições do quadro regulamentar e aplicação do sistema de gestão da segurança.
+
+4.4 - Observações suplementares - deficiências e lacunas apuradas durante o inquérito, mas sem importância para as conclusões sobre as causas.
+
+5 - Medidas adoptadas - registo das medidas já tomadas ou adoptadas em consequência da ocorrência.
+
+6 - Recomendações.

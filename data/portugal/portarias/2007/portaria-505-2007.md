@@ -1,0 +1,209 @@
+---
+schema_version: '1.0'
+id: pt:dre:521184:por
+title: Portaria n.º 505/2007
+short_title: null
+summary: Estabelece a estrutura nuclear da Direcção-Geral de Política Externa e as competências das respectivas unidades orgânicas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios dos Negócios Estrangeiros e das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 505/2007
+official_date: null
+publication_date: '2007-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2007, Série I de 2007-04-30
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2805 - 2806
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/28052806.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/505/2007/04/30/p/dre/pt/html
+  oj: null
+  dre: '521184'
+  dre_path: /dr/detalhe/portaria/505-2007-521184
+  internal: pt:dre:521184:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/505-2007-521184
+  metadata_url: https://data.dre.pt/eli/port/505/2007/04/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/505-2007-521184
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-04-30T00:00:00Z'
+integrity:
+  source_sha256: a5edea91ca874136e2741f729b5874539ab917d21ea6f5e2fc6312fb9dd679ed
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-505-521184.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Orgânica
+- Ministério dos Negócios Estrangeiros
+- Direcção Geral de Política Externa
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/45/2007/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/45/2007/04/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 505/2007
+
+de 30 de Abril
+
+A Direcção-Geral de Política Externa (DGPE) é o serviço central do Ministério dos Negócios Estrangeiros (MNE) que tem por missão assegurar a coordenação, o acompanhamento e a execução da acção externa do Estado nos assuntos de natureza político-diplomática, bem como a execução da política externa ao nível das relações internacionais políticas.
+
+O [Decreto Regulamentar n.º 45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/45-2007-520982), de 27 de Abril, definiu a missão, atribuições e tipo de organização interna da DGPE. Importa agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear dos serviços e competências das respectivas unidades orgânicas.
+
+Assim:
+
+Ao abrigo do n.º 4 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro:
+
+Manda o Governo, pelos Ministros de Estado e dos Negócios Estrangeiros e de Estado e das Finanças, o seguinte:
+
+###### Artigo 1.º — Estrutura nuclear
+
+A Direcção-Geral de Política Externa, abreviadamente designada por DGPE, estrutura-se nas seguintes unidades orgânicas nucleares:
+
+a) Direcção de Serviços para a Política Externa e Segurança Comum;
+
+b) Direcção de Serviços para os Assuntos de Segurança e de Defesa;
+
+c) Direcção de Serviços das Organizações Internacionais;
+
+d) Direcção de Serviços dos Estados Europeus não Membros da União Europeia;
+
+e) Direcção de Serviços da África Subsariana;
+
+f) Direcção de Serviços do Médio Oriente e do Magrebe;
+
+g) Direcção de Serviços das Américas;
+
+h) Direcção de Serviços da Ásia e da Oceânia.
+
+###### Artigo 2.º — Direcção de Serviços para a Política Externa e Segurança Comum
+
+Compete à Direcção de Serviços para a Política Externa e Segurança Comum, abreviadamente designada por PESC:
+
+a) Coordenar a participação nacional nas estruturas e acções da política externa e de segurança comum da União Europeia, com excepção daquelas que respeitam à política europeia de segurança e defesa (PESD);
+
+b) Assegurar a ligação com os serviços homólogos dos restantes membros da União Europeia e a participação nas suas reuniões;
+
+c) Coordenar com os serviços competentes do Ministério dos Negócios Estrangeiros a preparação da participação portuguesa nas reuniões dos grupos de trabalho PESC, no Comité Político e de Segurança da UE, nas reuniões ministeriais e nas do Conselho Europeu;
+
+d) Efectuar reuniões de coordenação com os diferentes serviços sectoriais, antes da deslocação de elementos nacionais desses serviços para participação em reuniões de grupos de trabalho PESC, de forma a garantir uma visão unitária e integrada na definição da posição e participação portuguesa nos diferentes fora de consulta e decisão ao nível da PESC;
+
+e) Coordenar a transmissão de contributos nacionais para o desenvolvimento da acção externa da União Europeia, em matéria da PESC, designadamente visionando e concedendo um visto previamente à sua difusão através da Rede COREU;
+
+f) Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite aos assuntos da sua competência.
+
+###### Artigo 3.º — Direcção de Serviços para os Assuntos de Segurança e de Defesa
+
+Compete à Direcção de Serviços para os Assuntos de Segurança e de Defesa, abreviadamente designada por DSD:
+
+a) Coordenar a participação nacional na Organização do Tratado do Atlântico Norte e noutras organizações internacionais com atribuições no domínio da segurança colectiva de que Portugal é parte, colaborando, para esse efeito, com os restantes serviços do Ministério dos Negócios Estrangeiros, outros ministérios e entidades públicas e privadas interessadas;
+
+b) Reunir e analisar toda a informação e elementos necessários com vista a assegurar a definição de uma posição nacional em todas as matérias relativas à PESD, bem como a adequada participação nacional nas reuniões neste âmbito;
+
+c) Reunir todas as informações e elementos necessários com vista a assegurar a definição de uma posição nacional em todas as matérias relativas à cooperação e segurança internacionais, em particular nas questões referentes ao desarmamento, controlo de armamento e não-proliferação de armas convencionais de destruição maciça;
+
+d) Assegurar o apoio necessário à Autoridade Nacional para a Convenção sobre a Proibição do Desenvolvimento, Produção, Armazenamento e Utilização das Armas Químicas (ANCPAQ) e à Autoridade Nacional para Efeitos do Tratado de Proibição Total de Ensaios Nucleares (ANTPEN);
+
+e) Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite aos assuntos da sua competência.
+
+###### Artigo 4.º — Direcção de Serviços das Organizações Internacionais
+
+Compete à Direcção de Serviços das Organizações Internacionais, abreviadamente designada por DSOI:
+
+a) Recolher informação, analisar, decidir ou apresentar propostas de actuação sobre assuntos tratados no âmbito ou relativos à actividade horizontal das Nações Unidas e outras organizações internacionais de carácter universal, bem como sobre matérias da área multilateral, de carácter político e âmbito regional, com excepção dos assuntos sobre direitos humanos e os que recaiam especificamente nas competências da Direcção-Geral de Assuntos Técnicos e Económicos;
+
+b) Assegurar a representação portuguesa junto das Nações Unidas no âmbito das suas competências;
+
+c) Assegurar o acompanhamento e a definição das posições nacionais no âmbito das actividades da CPLP;
+
+d) Assegurar, em colaboração com os restantes serviços competentes do MNE e outros ministérios, a coordenação e definição de uma posição nacional e a participação em reuniões de órgãos e organismos das Nações Unidas, no âmbito das suas competências;
+
+e) Proceder à negociação e participar no processo de conclusão ou denúncia de tratados e convenções que respeitem à criação de organismos internacionais, sua transformação e extinção e, em particular, dos que respeitem à participação de Portugal nesses organismos, sem prejuízo das competências que caibam a outros serviços;
+
+f) Assegurar a condução e a promoção das candidaturas nacionais às organizações internacionais;
+
+g) Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite aos assuntos da sua competência;
+
+h) Recolher informação, analisar, decidir ou apresentar propostas de actuação sobre assuntos tratados no âmbito dos direitos humanos;
+
+i) Assegurar, em colaboração com os restantes serviços competentes do MNE e outras entidades, públicas ou privadas, a coordenação e definição de uma posição nacional e a participação portuguesa em organismos e reuniões internacionais referentes aos direitos humanos, designadamente, no âmbito do sistema das Nações Unidas, da Organização para a Segurança e Cooperação na Europa e do Conselho da Europa;
+
+j) Preparar e ou coordenar os elementos e instruções que devam ser veiculados às delegações portuguesas nos congressos e conferências internacionais na área dos direitos humanos, sem prejuízo das competências que caibam a outros serviços.
+
+###### Artigo 5.º — Competências das restantes direcções de serviços
+
+Compete às direcções de serviços identificadas nas alíneas e) a i) do artigo 1.º, no âmbito da respectiva área geográfica:
+
+a) Reunir as informações de carácter político bilateral e assegurar a actualização de elementos completos sobre a realidade política dos diferentes países das áreas geográficas consideradas;
+
+b) Estudar, dar parecer e apresentar propostas de actuação sobre todos os assuntos relativos a essas regiões e países, na esfera da sua competência;
+
+c) Assegurar, em colaboração com os restantes serviços do MNE e outros ministérios, a coordenação, definição e transmissão de instruções ou outros elementos a enviar às missões diplomáticas, representações permanentes e postos consulares de Portugal, no âmbito das suas competências;
+
+d) Proceder à negociação e participar no processo de conclusão ou denúncia de tratados e convenções internacionais de carácter político bilateral, assegurando, para o efeito, a coordenação dos elementos necessários em colaboração com os ministérios e serviços competentes;
+
+e) Assegurar a presidência das comissões e delegações de carácter político que caiba ao Ministério, no seu domínio de actividade;
+
+f) Colaborar na preparação da participação portuguesa nos vários níveis da política externa e de segurança comum, em permanente articulação com a respectiva direcção de serviços;
+
+g) Assegurar a participação nacional em reuniões no âmbito da política externa e de segurança comum, na sua área de competência;
+
+h) Registar, dar expediente e arquivar a correspondência recebida ou expedida que respeite aos assuntos da sua competência.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Em 27 de Abril de 2007.
+
+Pelo Ministro de Estado e dos Negócios Estrangeiros, António Fernandes da Silva Braga, Secretário de Estado das Comunidades Portuguesas. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos.

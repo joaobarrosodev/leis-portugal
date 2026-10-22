@@ -1,0 +1,425 @@
+---
+schema_version: '1.0'
+id: pt:dre:690177:por
+title: Decreto-Lei n.º 311/95
+short_title: null
+summary: Transpõe para a ordem jurídica interna a Directiva n.º 92/59/CEE, do Conselho, de 29 de Junho, relativa à segurança
+  geral dos produtos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 311/95
+official_date: null
+publication_date: '1995-11-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 268/1995, Série I-A de 1995-11-20
+  number: '268'
+  series: I
+  supplement: null
+  pages: 7124 - 7127
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/11/268a00/71247127.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes:
+- É extinta a Comissão a que se referem os artigos 6.º e seguintes do presente diploma, transitando as suas competências para
+  a Comissão a que se referem os artigos 9.º e seguintes do Decreto-Lei n.º 69/2005, de 17 de março.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2005-04-16'
+version_history:
+  file: decreto-lei-311-95.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1995-11-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-03-01'
+    amending: pt:dre:421023:por
+    amending_title: Decreto-Lei n.º 16/2000
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+  - date: '2005-04-16'
+    amending: pt:dre:574566:por
+    amending_title: Decreto-Lei n.º 69/2005
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/311/1995/p/cons/20000229/pt/html
+  oj: null
+  dre: '690177'
+  dre_path: /dr/detalhe/decreto-lei/311-1995-690177
+  internal: pt:dre:690177:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1995-690177
+  metadata_url: https://data.dre.pt/eli/dec-lei/311/1995/p/cons/20000229/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-858579555
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-858579555
+  retrieved_at: '2026-10-22T13:04:30Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6dd2c82cac5f0d854624d5473ebd3d8a5434e704fbefa0e3303555725e871a41
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:04:30Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-311-95.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Multa
+- Comissão de Segurança
+- Comissão para a Segurança de Serviços e BENS de Consumo
+- Controlo de Qualidade
+- Criação de Serviços
+- Definição de Competências
+- Saúde Pública
+- Segurança Pública
+- Extinção de Serviços
+- Fiscalização
+- Inspecção Geral das Actividades Económicas
+- Instituto do Consumidor
+- Certificado de Qualidade
+- Proteção do Consumidor
+- Qualidade do Produto
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:421023:por
+  label: Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 12.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2000-421023
+  date: '2000-02-29'
+- type: amended_by
+  target: pt:dre:574566:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566
+  date: '2005-03-17'
+- type: cites
+  target: celex:31992L0059
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/59/oj
+- type: transposes
+  target: celex:31992L0059
+  label: null
+  source: null
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:04:30Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 311/95
+
+Decreto-Lei n.º 311/95
+
+de 20 de Novembro
+
+O direito dos consumidores à protecção da saúde e da segurança, consagrado no artigo 60.º da Constituição, tem tido também diversas manifestações noutras disposições legais.
+
+A aprovação da Directiva n.º 92/59/CEE, do Conselho, de 29 de Junho de 1992, relativa à segurança geral dos produtos, e a necessidade da respectiva transposição, conjugada com a necessidade sentida, ao longo do tempo, de reestruturar o sistema instituído pelo Decreto-Lei n.º 213/87, de 28 de Maio, justificam agora a criação de nova disciplina legal nesta área de tão grande importância.
+
+Ao criar a nova regulamentação, houve a preocupação de conjugar as disposições resultantes do cumprimento de obrigações comunitárias exclusivamente relativas à segurança dos produtos, com a obrigação de manter o padrão de protecção que a legislação anterior já garantia aos consumidores ao nível dos serviços. Dada a natureza distinta das realidades envolvidas, optou-se por um sistema diferenciado de soluções, para um e outro caso, apesar de se ter procurado dar-lhes um carácter complementar e, sempre que possível, integrado.
+
+A entidade competente, designada por Comissão de Segurança, assegura agora a participação activa dos representantes dos interessados nas suas deliberações, traduzindo, deste modo, o princípio constitucional da participação dos cidadãos.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 29/81, de 22 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma transpõe para o direito interno a Directiva n.º 92/59/CEE, do Conselho, de 29 de Junho de 1992, relativa à segurança geral dos produtos.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente diploma, entende-se por:
+
+a) «Produto» - qualquer bem, novo, usado ou recuperado, destinado aos consumidores ou susceptível de por eles ser utilizado, fornecido a título oneroso ou gratuito, no âmbito de uma actividade profissional, com excepção dos imóveis;
+
+b) «Produto seguro» - qualquer produto que, em condições de uso normal ou razoavelmente previsível, incluindo de duração, não apresente quaisquer riscos ou apresente apenas riscos reduzidos, compatíveis com a sua utilização e considerados aceitáveis de acordo com um nível elevado de protecção da saúde e segurança das pessoas, tendo em conta, nomeadamente:
+
+i) As características do produto, designadamente a sua composição;
+
+ii) Os efeitos sobre outros produtos, quando seja razoavelmente previsível a sua utilização conjunta;
+
+iii) A apresentação, embalagem, rotulagem, eventuais instruções de utilização, montagem, conservação e eliminação, bem como qualquer outra indicação ou informação do produtor;
+
+iv) As categorias de consumidores que se encontrem em condições de maior risco ao utilizar o produto, especialmente as crianças;
+
+c) «Produtor»:
+
+i) O fabricante de um produto que se encontre estabelecido na União Europeia ou qualquer pessoa que se apresente como tal ao apor o seu nome, marca ou outro sinal distintivo do produto ou que proceda à sua recuperação;
+
+ii) O representante do fabricante, quando este não se encontre estabelecido na União, ou, na sua falta, o importador do produto na União;
+
+iii) Outros profissionais da cadeia de comercialização, na medida em que as respectivas actividades possam afectar as características de segurança do produto colocado no mercado;
+
+d) «Distribuidor» - o operador profissional da cadeia de comercialização, cuja actividade não afecte as características de segurança do produto;
+
+e) «Uso normal ou razoavelmente previsível» - utilização que se mostra adequada à natureza ou características do produto ou que respeita as indicações ou modos de uso aconselhados, de forma clara e evidente, pelo produtor.
+
+2 - Estão excluídos da aplicação do presente diploma os produtos usados, fornecidos como antiguidades ou como produtos que necessitam de reparação ou recuperação antes de poderem ser utilizados, desde que o fornecedor informe claramente a pessoa a quem fornece o produto acerca daquelas características.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 3.º — Obrigações do produtor
+
+1 - O produtor apenas pode colocar no mercado produtos seguros.
+
+2 - O produtor é ainda obrigado a:
+
+a) Fornecer aos consumidores as informações relevantes que lhes permitam avaliar os riscos inerentes a um produto, sempre que aqueles não sejam imediatamente perceptíveis sem a devida advertência, e precaver-se contra esses mesmos riscos;
+
+b) Adoptar medidas apropriadas, em função das caraterísticas do produto fornecido, que lhe permitam manter-se informado sobre os riscos que o produto possa apresentar e desencadear as acções que se revelarem adequadas, incluindo, se necessário e para evitar tais riscos, a retirada do produto do mercado.
+
+3 - As medidas referidas na alínea b) do número anterior devem incluir, nos casos em que tal seja adequado, uma marcação do produto ou do lote de produtos que permita a sua identificação, a realização de ensaios por amostragem, a análise das queixas apresentadas e a informação aos distribuidores sobre esse controlo.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 4.º — Obrigações do distribuidor
+
+O distribuidor deve:
+
+a) Agir com diligência, por forma a contribuir para o cumprimento da obrigação geral de segurança;
+
+b) Abster-se de fornecer produtos quanto aos quais sabe ou deveria ter previsto, com base em elementos de informação na sua posse e como profissional, que não cumprem a obrigação geral de segurança;
+
+c) Participar no controlo de segurança dos produtos colocados no mercado, nos limites das respectivas actividades, especialmente mediante a transmissão de informações sobre os riscos apresentados pelos produtos e a colaboração em quaisquer acções desenvolvidas para os evitar;
+
+d) Desencadear as acções que se revelem adequadas para a eliminação de tais riscos, nomeadamente a retirada do produto do mercado.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 16/2000 - Diário da República n.º 50/2000, Série I-A de 2000-02-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2000-421023), em vigor a partir de 2000-03-01
+
+###### Artigo 5.º — Presunção de Segurança
+
+1 - É considerado seguro o produto cujas características correspondam às fixadas na lei ou em regulamentos que fixem os requisitos em matéria de protecção da saúde e da segurança a que o mesmo deve obedecer para poder ser comercializado.
+
+2 - A conformidade de um produto com as regras mencionadas no número anterior não constitui impedimento à adopção, por parte das autoridades competentes, das medidas que se mostrem necessárias para restringir a sua comercialização ou ordenar a sua retirada do mercado se, não obstante essa conformidade, o produto se revelar perigoso para a saúde e a segurança dos consumidores.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 6.º — Comissão de Segurança
+
+1 - É criada a Comissão de Segurança, abreviadamente designada por Comissão, na dependência do membro do Governo responsável pela tutela da protecção dos consumidores, com a seguinte composição:
+
+a) O presidente do Instituto do Consumidor, em representação do membro do Governo responsável pela tutela da protecção dos consumidores, que preside;
+
+b) Um representante de cada um dos membros do Governo responsáveis pelas áreas da alimentação, indústria, desportos, saúde, comércio e turismo;
+
+c) Dois peritos em matéria de segurança de produtos que prestem funções no quadro do Sistema Português de Qualidade ou em laboratórios acreditados, designados pelo Instituto Português da Qualidade;
+
+d) Um perito médico, designado pela Direcção-Geral da Saúde;
+
+e) Um representante da indústria;
+
+f) Um representante do comércio;
+
+g) Dois representantes dos consumidores.
+
+2 - Os membros referidos nas alíneas e) e f) do número anterior são designados pelas respectivas associações de nível superior e os membros referidos na alínea g) são designados pelas respectivas associações mais representativas, como tal reconhecidas por despacho fundamentado do Ministro do Ambiente e Recursos Naturais.
+
+3 - Os membros da Comissão que não exerçam funções na Administração Pública recebem senhas de presença, cujo valor será fixado por despacho conjunto dos Ministros das Finanças e do Ambiente e Recursos Naturais.
+
+4 - A Comissão aprova o seu regimento interno.
+
+5 - As deliberações da Comissão têm carácter vinculativo.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 55/98 - Diário da República n.º 63/1998, Série I-A de 1998-03-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-1998-186543) A Comissão de Segurança transita para a Presidência do Conselho de Ministros, de acordo com o Decreto-Lei n.º 55/98, de 16 de março.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 7.º — Competências
+
+São competências da Comissão:
+
+a) Deliberar sobre a perigosidade dos produtos colocados no mercado;
+
+b) Controlar o cumprimento da obrigação geral de segurança;
+
+c) Propor ao membro do Governo responsável pela área da protecção dos consumidores as medidas necessárias à melhoria da prevenção e protecção contra riscos que os produtos colocados no mercado possam apresentar;
+
+d) Comunicar à entidade competente para a instrução dos respectivos processos os casos de colocação no mercado ou de fornecimento de produtos perigosos de que tenha conhecimento;
+
+e) Pronunciar-se sobre as questões relativas à segurança de produtos que o membro do Governo responsável pela protecção dos consumidores entenda submeter-lhe.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 8.º — Prorrogativas da Comissão
+
+1 - Sem prejuízo das suas competências, a Comissão pode propor ao Governo, em deliberação fundamentada, a proibição, com carácter obrigatório geral, do fabrico, importação, exportação, troca intracomunitária, comercialização ou colocação no mercado de bens ou serviços, ou categorias de bens ou serviços susceptíveis de pôr em risco a saúde e a segurança dos consumidores, em virtude da sua composição.
+
+2 - A proibição a que se refere o número anterior constará de portaria conjunta a aprovar pelos membros do Governo responsáveis pelas tutelas das áreas da defesa do consumidor, da saúde e da economia.
+
+3 - A Comissão pode solicitar a qualquer entidade pública a realização de diligências para o cumprimento das suas atribuições.
+
+4 - Para efeitos do disposto no presente diploma, a Comissão pode exigir de qualquer empresa, ou agrupamento complementar de empresas, o envio dos elementos julgados necessários, dentro dos prazos que se mostrem convenientes.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 16/2000 - Diário da República n.º 50/2000, Série I-A de 2000-02-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2000-421023), em vigor a partir de 2000-03-01
+
+###### Artigo 9.º — Participação em reuniões
+
+O presidente da Comissão pode convidar para participar em reuniões, a título consultivo e sem direito a voto, pessoas com especial competência técnica nas matérias a tratar.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 10.º — Recomendação e aviso público
+
+1 - Em qualquer momento do processo de controlo da segurança dos produtos, deve a Comissão, caso o entenda necessário e sempre que as circunstâncias o aconselhem, formular recomendações ao produtor, com o fim de este suprimir o risco em causa.
+
+2 - Sem prejuízo do disposto no número anterior, pode a Comissão, sempre que a gravidade das circunstâncias o exija, emitir e divulgar aviso público contendo uma descrição tão precisa quanto possível do produto em causa, a identificação do risco que pode resultar da sua utilização e quaisquer outros elementos que considere necessários.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 11.º — Sistemas de alerta
+
+1 - As medidas tomadas pela Comissão no sentido de verificar a natureza segura de determinado produto devem ser comunicadas ao Instituto do Consumidor ou ao Instituto para a Protecção da Produção Agro-Alimentar, consoante os casos, para imediata notificação à Comissão Europeia, sempre que o produto em causa se destine a circular no mercado comunitário.
+
+2 - Quaisquer medidas tomadas relativamente a produtos que apresentem um risco grave e imediato para a saúde ou para a segurança dos consumidores, quando devam ser notificadas à Comissão Europeia, nos termos do artigo 8.º da Directiva n.º 92/59/CEE, têm tratamento urgente.
+
+3 - As regras gerais de funcionamento dos sistemas de alerta referidos nos números anteriores são estabelecidas por portaria conjunta dos Ministros das Finanças, da Agricultura, da Indústria e Energia, da Saúde, do Comércio e Turismo, do Ambiente e Recursos Naturais e do Mar.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 12.º — Contra-ordenações
+
+1 - A violação do disposto nos artigos 3.º e 4.º e nas portarias a que se refere o n.º 2 do artigo 8.º do presente diploma constitui contra-ordenação punível com coima entre 10000$00 e 750000$00 ou 50000$00 e 9000000$00, consoante se trate, respectivamente, de pessoas singulares ou colectivas.
+
+2 - A tentativa e a negligência são puníveis.
+
+3 - Para além das coimas referidas no n.º 1, podem ainda ser aplicáveis, nos estritos limites fixados na lei geral, as seguintes sanções acessórias:
+
+a) Perda de objectos pertencentes ao agente;
+
+b) Interdição do exercício de profissões ou actividades cujo exercício depende de título público ou de autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras ou mercados;
+
+e) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens ou serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;
+
+f) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+g) Suspensão de autorizações, licenças e alvarás.
+
+4 - São passíveis de apreensão e retirada do mercado, nos termos dos artigos 74.º e seguintes do Decreto-Lei n.º 28/84, de 20 de Janeiro, os produtos que, nos termos do presente diploma, possam ser considerados perigosos.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 16/2000 - Diário da República n.º 50/2000, Série I-A de 2000-02-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2000-421023), em vigor a partir de 2000-03-01
+
+###### Artigo 13.º — Fiscalização, instrução dos processos e aplicação das coimas
+
+1 - A fiscalização do cumprimento do disposto no presente diploma, bem como a instrução dos respectivos processos de contra-ordenação, compete à Inspecção-Geral das Actividades Económicas.
+
+2 - A aplicação das coimas e sanções acessórias previstas no artigo anterior é da competência da Comissão de Aplicação de Coimas em Matéria Económica, criada pelo Decreto-Lei n.º 28/84, de 20 de Janeiro.
+
+3 - O produto das coimas previstas no presente diploma reverte:
+
+a) Em 60% para o Estado;
+
+b) Em 30% para o Instituto do Consumidor;
+
+c) Em 10% para a Inspecção-Geral das Actividades Económicas.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 14.º — Encargos com a retirada ou destruição de produtos
+
+Os produtores cujos produtos devam ser retirados ou destruídos suportarão todos os encargos relativos a essas operações.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 15.º — Informação reservada
+
+1 - As informações relativas à aplicação do presente diploma que, pela sua natureza, estejam abrangidas pelo segredo profissional são consideradas reservadas.
+
+2 - Exceptuam-se da reserva estabelecida no número anterior as características de determinado produto ou serviço cuja divulgação se imponha para garantia da protecção da saúde e segurança das pessoas.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 16.º — Apoios, secretariado executivo e encargos
+
+1 - O apoio técnico, administrativo e logístico ao funcionamento da Comissão a que se refere o artigo 6.º é assegurado pelo Instituto do Consumidor, sendo coordenado por um secretário, equiparado, para todos os efeitos legais, a director de serviço.
+
+2 - Para o efeito referido no número anterior, o quadro de pessoal dirigente do Instituto do Consumidor, anexo ao Decreto-Lei n.º 195/93, de 24 de Maio, é acrescido de um lugar de director de serviço.
+
+3 - Os encargos orçamentais decorrentes do funcionamento da Comissão são suportados por verbas do Instituto do Consumidor, mediante inscrição de uma divisão própria, sendo o seu montante fixado por despacho conjunto do Ministro das Finanças e do ministro responsável pela área da defesa dos consumidores.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 16/2000 - Diário da República n.º 50/2000, Série I-A de 2000-02-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2000-421023), em vigor a partir de 2000-03-01
+
+###### Artigo 17.º — Remissão
+
+Todas as referências à Comissão para a Segurança de Serviços e Bens de Consumo, criada pelo Decreto-Lei n.º 213/87, de 28 de Maio, entendem-se feitas à Comissão criada pelo artigo 6.º do presente diploma.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 18.º — Norma revogatória
+
+1 - É revogado o Decreto-Lei n.º 213/87, de 28 de Maio, salvo no que diz respeito às prestações de serviço.
+
+2 - É extinta a Comissão a que se referem os artigos 3.º e seguintes do Decreto-Lei n.º 213/87, de 28 de Maio, transitando as suas competências para a Comissão a que se referem os artigos 6.º e seguintes do presente diploma.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+###### Artigo 19.º — Disposição transitória
+
+A Comissão criada pelo Decreto-Lei n.º 213/87, de 28 de Maio, mantém-se em funcionamento, com as competências previstas nesse diploma, até à constituição e entrada em funcionamento da Comissão a que se refere o artigo 6.º
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16
+
+Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - António Duarte Silva - Luís Filipe da Conceição Pereira - Maria Manuela Dias Ferreira Leite - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - António Baptista Duarte Silva.
+
+Promulgado em 3 de Outubro de 1995.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 12 de Outubro de 1995.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 69/2005 - Diário da República n.º 54/2005, Série I-A de 2005-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2005-574566), em vigor a partir de 2005-04-16

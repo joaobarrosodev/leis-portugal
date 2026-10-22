@@ -1,0 +1,142 @@
+---
+schema_version: '1.0'
+id: pt:dre:228655:por
+title: Portaria n.º 309/86
+short_title: null
+summary: Aprova, para o Instituto Superior de Contabilidade e Administração de Aveiro, o modelo de carta de curso a que se
+  refere o n.º 2 do artigo 22.º do Decreto-Lei n.º 283/83, de 21 de Junho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Cultura
+proposing_entity: null
+official_number: 309/86
+official_date: null
+publication_date: '1986-06-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 141/1986, Série I de 1986-06-23
+  number: '141'
+  series: I
+  supplement: null
+  pages: 1468 - 1468
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14100/14681468.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '228655'
+  dre_path: /dr/detalhe/portaria/309-1986-228655
+  internal: pt:dre:228655:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/309-1986-228655
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/309-1986-228655
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-06-23T00:00:00Z'
+integrity:
+  source_sha256: 7ec503c808c2da1f414dacb921671a42529125ac68d9a47802c09ef7982cf1ed
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-309-228655.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 309/86
+
+de 23 de Junho
+
+Sob proposta do Instituto Superior de Contabilidade e Administração de Aveiro;
+
+Ao abrigo do n.º 2 do artigo 22.º do [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538), de 21 de Junho, e tendo em vista o disposto no [Decreto n.º 119/81](https://diariodarepublica.pt/dr/detalhe/decreto/119-1981-563655), de 26 de Setembro:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Cultura, aprovar, para o Instituto Superior de Contabilidade e Administração de Aveiro, o modelo de carta de curso a que se refere o n.º 2 do artigo 22.º do [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538), de 21 de Junho, o qual figura em anexo à presente portaria.
+
+Ministério da Educação e Cultura.
+
+**Assinada em 6 de Junho de 1986.**
+
+**O Ministro da Educação e Cultura, João de Deus Rogado Salvador Pinheiro.**
+
+## ANEXO — REPÚBLICA (ver nota a) PORTUGUESA
+
+Instituto Superior de Contabilidade e Administração de Aveiro
+
+Carta de curso
+
+Grau de bacharel
+
+F. (ver nota b) ..., presidente do conselho directivo do Instituto Superior de Contabilidade e Administração de Aveiro, faço saber que (ver nota c) ..., filho de (ver nota d) ..., natural de (ver nota e) ..., requereu, ao abrigo do capítulo VI do [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538), de 21 de Junho, equivalência das disciplinas em que obteve aprovação no curso de (ver nota f) ..., ministrado (ver nota g) ..., e que, por deliberação de (ver nota h) ..., do conselho científico, lhe foi concedida equivalência a todas as disciplinas que integram o plano de estudos do curso de (ver nota i) ...
+
+Pelo que, nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 283/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1983-452538), de 21 de Junho, o declaro habilitado com o grau de bacharel em (ver nota i) ... com a classificação final de (ver nota j) ...
+
+Instituto Superior de Contabilidade e Administração de Aveiro, (ver nota l) ...
+
+**O Presidente do Conselho Directivo,**
+
+...
+
+**O Secretário,**
+
+...
+
+(nota a) Emblema do Instituto Superior de Contabilidade e Administração de Aveiro.
+
+(nota b) Nome do presidente do conselho directivo do Instituto Superior de Contabilidade e Administração de Aveiro.
+
+(nota c) Nome do titular da carta de curso.
+
+(nota d) Nomes do pai e da mãe do titular da carta de curso.
+
+(nota e) Freguesia, concelho e distrito donde é titular da carta de curso.
+
+(nota f) Designação do curso estrangeiro.
+
+(nota g) Nome do estabelecimento de ensino superior onde o titular da carta de curso frequentou o curso estrangeiro.
+
+(nota h) Data da reunião do conselho científico em que este deliberou conceder a equivalência.
+
+(nota i) Designação do curso do Instituto Superior de Contabilidade e Administração de Aveiro a que é concedida equivalência.
+
+(nota j) Classificação final atribuída pelo conselho científico, quando a ela houver lugar.
+
+(nota l) data da emissão da carta de curso.

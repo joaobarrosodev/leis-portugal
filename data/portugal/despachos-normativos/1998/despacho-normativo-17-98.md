@@ -1,0 +1,297 @@
+---
+schema_version: '1.0'
+id: pt:dre:197484:por
+title: Despacho Normativo n.º 17/98
+short_title: null
+summary: Altera o Despacho Normativo n.º 11-B/95 (regulamenta o domínio de intervenção referente ao aproveitamento endógeno
+  por utilização de energias renováveis)
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 17/98
+official_date: null
+publication_date: '1998-03-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 65/1998, Série I-B de 1998-03-18
+  number: '65'
+  series: I
+  supplement: null
+  pages: 1167 - 1169
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/03/065b00/11671169.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/17/1998/03/18/p/dre/pt/html
+  oj: null
+  dre: '197484'
+  dre_path: /dr/detalhe/despacho-normativo/17-1998-197484
+  internal: pt:dre:197484:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-1998-197484
+  metadata_url: https://data.dre.pt/eli/despnorm/17/1998/03/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/17-1998-197484
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-03-18T00:00:00Z'
+integrity:
+  source_sha256: e960dc14c41eb5fdacec363d75bac180e7c86c3f47cdd87e297d376805b60b6c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-17-197484.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Energia não Poluente
+- Ministro da Economia
+- Conversão de Energia
+- Desenvolvimento Regional
+- Energia Solar
+- Política Energética
+- Apoio ao Investimento
+- Projeto de Investimento
+- Indústria
+- QCA
+- Energia
+- Programa Energia
+- Projeto
+- Recursos Energéticos
+- Regime de Apoio
+- Regulamento
+- Sistema de Incentivos a Utilização Racional de Energia
+- Subsídio não Reembolsável
+- Autarquia Local
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/35/1995/02/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/35/1995/02/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/11-b/1995/03/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/11-b/1995/03/06/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 17/98
+
+Alterações ao [Despacho Normativo n.º 11-B/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-b-1995-263696) - Utilização racional de energia - Energias renováveis
+
+O domínio de intervenção relativo ao aproveitamento do potencial endógeno por utilização de energias renováveis do Sistema de Incentivos à Utilização Racional de Energia, estabelecido pelo [Decreto-Lei n.º 188/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-1988-374240), de 27 de Maio, com a nova redacção conferida pelo [Decreto-Lei n.º 35/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1995-198139), de 11 de Fevereiro, foi regulamentado pelo [Despacho Normativo n.º 11-B/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-b-1995-263696), de 6 de Março. A experiência já adquirida na respectiva aplicação recomenda a introdução de algumas alterações no sentido de melhor a adaptar às principais orientações da política energética, bem como às características dos potenciais promotores de candidaturas, permitindo não só um maior interesse e eficiência do Sistema, mas também a melhor gestão do mesmo.
+
+Nestas condições, determina-se:
+
+###### Artigo 1.º
+
+Os artigos 2.º, 4.º, 5.º, 6.º, 7.º e 9.º do [Despacho Normativo n.º 11-B/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-b-1995-263696) passam a ter a seguinte redacção:
+
+«Artigo 2.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) Estudos de âmbito regional ou local que visem averiguar a viabilidade económica de projectos de aproveitamento energético, individual ou integrado, de energias renováveis.
+
+2 - ...
+
+###### Artigo 4.º — [...]
+
+1 - ...
+
+2 - Se a operação for realizada segundo o sistema de financiamento por terceiros ou ao abrigo de um contrato de garantia de resultados, considera-se promotor da candidatura a entidade que assuma responsabilidade da realização e financiamento da operação, devendo, no entanto, o beneficiário final da mesma ter a natureza indicada no número anterior.
+
+3 - ...
+
+a) Possuir capacidade técnica e de gestão adequada para a realização da operação em causa e, no caso de projectos de investimento, para a posterior exploração da instalação;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+4 - No caso de as operações candidatas se integrarem no âmbito da alínea j) do n.º 1 do artigo 2.º, os promotores devem ainda ser autarquias, associações de autarquias ou outras entidades associativas cujo objecto social inclua a promoção do desenvolvimento regional.
+
+###### Artigo 5.º — [...]
+
+1 - No presente domínio apenas serão consideradas operações às quais correspondam montantes de investimentos superiores a 2000000$00.
+
+2 - As operações candidatas no âmbito das alíneas a) a i) do n.º 1 do artigo 2.º devem apresentar índices de rentabilidade económica e financeira justificativos da sua realização, nomeadamente uma taxa interna de rentabilidade, calculada no período de análise, superior à que estiver fixada no anúncio referido naquele artigo para o tipo de operação em questão.
+
+3 - ...
+
+4 - ...
+
+5 - No caso de as operações candidatas se integrarem no âmbito da alínea j) do n.º 1 do artigo 2.º, o promotor deverá apresentar, no acto da candidatura, elementos que demonstrem a pré-viabilidade dos projectos de investimento a lançar na sequência dos estudos.
+
+6 - As operações candidatas deverão ter lugar durante o período de vigência do Quadro Comunitário de Apoio para 1994-1999.
+
+###### Artigo 6.º — [...]
+
+1 - No caso de as operações candidatas se integrarem no âmbito das alíneas a) a i) do n.º 1 do artigo 2.º, consideram-se relevantes, para efeitos de cálculo do incentivo a atribuir, as aplicações em:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) Trabalhos para a própria empresa requeridos para a concretização da operação até ao montante de 10% das aplicações relevantes, cálculados de acordo com base na seguinte fórmula:
+
+C/h = ((S x 14 meses)/(11 meses x 154 horas)) x 1,8
+
+sendo:
+
+C/h - taxa horária a afectar;
+
+S - salário base, sem encargos sociais.
+
+2 - ...
+
+3 - ...
+
+4 - No caso de as operações candidatas se integrarem no âmbito da alínea j) do n.º 1 do artigo 2.º, consideram-se aplicações relevantes as despesas correspondentes a:
+
+a) Aquisição de dados físicos respeitantes ao recurso em causa;
+
+b) Aquisição ou locação de equipamento para medição de grandezas físicas respeitantes ao recurso em causa;
+
+c) Custo de trabalhos realizados por pessoal do promotor na concretização do estudo, calculados com base na seguinte fórmula:
+
+C/h = ((S x 14 meses)/(11 meses x 154 horas)) x 1,5
+
+sendo:
+
+C/h - taxa horária a afectar;
+
+S - salário base, sem encargos sociais;
+
+d) Custos de subcontratação de tarefas inerentes à realização do estudo.
+
+5 - ...
+
+a) ...
+
+b) ...
+
+c) As despesas financeiras e fiscais;
+
+d) Os trabalhos para a própria empresa que ultrapassem o valor de 10% do montante do investimento elegível;
+
+e) As despesas de funcionamento que não estejam incluídas nas aplicações relevantes descritas no n.º 1;
+
+f) As despesas relativas a sinalização de compra de qualquer equipamento em montante superior a 50% do respectivo custo que tenham sido incorridas em data anterior à da apresentação da candidatura;
+
+g) As despesas relativas a sinalização de compra de equipamentos em montante superior a 25% do total das aplicações relevantes que tenham sido incorridas em data anterior à da apresentação da candidatura;
+
+h) As despesas relativas a sinalização de compra de equipamentos que tenham sido incorridas mais de 90 dias antes da apresentação da candidatura.
+
+###### Artigo 7.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O montante total do incentivo a conceder não será superior a 150000000$00 por operação, excepto para as operações de co-geração utilizando recursos renováveis, em que esse montante não será superior a 300000000$00.
+
+5 - ...
+
+###### Artigo 9.º — [...]
+
+1 - No caso de as operações candidatas se integrarem no âmbito das alíneas a) a i) do n.º 1 do artigo 2.º, o pagamento do incentivo será feito nos seguintes termos:
+
+a) Pagamento de um adiantamento de montante não superior a 40% do total concedido após a assinatura do contrato referido no artigo 12.º;
+
+b) ...
+
+c) ...
+
+2 - No caso de as operações candidatas se integrarem no âmbito da alínea j) do n.º 1 do artigo 2.º, o pagamento do incentivo será feito nos seguintes termos:
+
+a) Pagamento de um adiantamento de montante não superior a 40% do total concedido após a assinatura do contrato referido no artigo 12.º;
+
+b) Pagamento do restante após a conclusão da operação.
+
+3 - O pagamento da parte do incentivo correspondente a bens sujeitos a registo de propriedade só pode ser efectuado após apresentação do mesmo ou de documento considerado equivalente.»
+
+###### Artigo 2.º — Disposições finais
+
+1 - As referências feitas no [Despacho Normativo n.º 11-B/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-b-1995-263696) ao Ministro da Indústria e Energia consideram-se feitas ao Ministro da Economia.
+
+2 - No prazo de 15 dias contados a partir da publicação do presente despacho o organismo gestor referido no artigo 3.º do despacho mencionado no número anterior procederá à publicação de um anúncio nos termos do artigo 2.º do mesmo despacho.
+
+3 - As candidaturas apresentadas ao abrigo do [Despacho Normativo n.º 11-B/95](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/11-b-1995-263696), de 6 de Março, que estejam em processo de apreciação no organismo gestor poderão ser analisadas à luz do presente despacho, caso o promotor o solicite no prazo de 20 dias contados desde a data da publicação do anúncio referido no número anterior.
+
+4 - O presente diploma entra em vigor no dia seguinte ao da publicação no Diário da República do anúncio referido no n.º 2.
+
+Ministério da Economia, 22 de Fevereiro de 1998. - O Ministro da Economia, Joaquim Augusto Nunes de Pina Moura.

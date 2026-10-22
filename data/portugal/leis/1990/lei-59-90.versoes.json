@@ -1,0 +1,85 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:564586:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1990-66876828",
+ "dre_path": "/dr/detalhe/lei/59-1990-564586",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-11-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66858124",
+    "66858125",
+    "66858126"
+   ]
+  },
+  {
+   "date": "2015-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66863790:por",
+     "title": "Lei n.º 24/2015",
+     "published": "2015-03-27",
+     "dre_path": "/dr/detalhe/lei/24-2015-66863790"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "66858124",
+    "66858125",
+    "66858134",
+    "66858129"
+   ]
+  }
+ ],
+ "fragments": {
+  "66858124": {
+   "fragment_id": "66876829",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 59/90\n\nde 21 de Novembro\n\nAutonomia administrativa dos órgãos independentes que funcionam junto da Assembleia da República\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "66858125": {
+   "fragment_id": "66876830",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs órgãos independentes que funcionam junto da Assembleia da República, quando, por lei própria, lhes não seja atribuída também autonomia financeira, gozam de autonomia administrativa, nos termos em que ela é definida pelo artigo 2.º da Lei n.º 8/90, de 20 de Fevereiro."
+  },
+  "66858126": {
+   "fragment_id": "66876831",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - A cobertura das despesas com o funcionamento dos órgãos independentes é feita pela verba inscrita em capítulo autónomo do orçamento da Assembleia da República, expressamente referido ao órgão a que respeita, e ainda pelas receitas que a esse órgão caiba cobrar.\n\n2 - São incluídos nas despesas com o seu funcionamento e suportados pelos respectivos órgãos os encargos com o pessoal ao seu serviço, ainda que pertencente aos quadros da Assembleia da República.\n\n3 - Os presidentes ou os titulares dos referidos órgãos podem autorizar despesas dentro dos limites estabelecidos para os ministros."
+  },
+  "66858134": {
+   "fragment_id": "66876831",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2015-03-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 24/2015 - Diário da República n.º 61/2015, Série I de 2015-03-27](https://diariodarepublica.pt/dr/detalhe/lei/24-2015-66863790), em vigor a partir de 2015-03-28"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - A cobertura das despesas com o funcionamento dos órgãos independentes é feita pela verba inscrita em capítulo autónomo do orçamento da Assembleia da República, expressamente referido ao órgão a que respeita, e ainda pelas receitas que a esse órgão caiba cobrar.\n\n2 - São incluídos nas despesas com o seu funcionamento e suportados pelos respectivos órgãos os encargos com o pessoal ao seu serviço, ainda que pertencente aos quadros da Assembleia da República.\n\n3 - (Revogado.)\n\n4 - O controlo das operações de execução orçamental dos órgãos independentes que funcionam junto da Assembleia da República com mera autonomia administrativa é assegurado pela Assembleia da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 24/2015 - Diário da República n.º 61/2015, Série I de 2015-03-27](https://diariodarepublica.pt/dr/detalhe/lei/24-2015-66863790), em vigor a partir de 2015-03-28"
+  },
+  "66858129": {
+   "fragment_id": "66876833",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 25 de Outubro de 1990.\n\nO Presidente da Assembleia da República, Vítor Pereira Crespo.\n\nPromulgada em 8 de Novembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 13 de Novembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

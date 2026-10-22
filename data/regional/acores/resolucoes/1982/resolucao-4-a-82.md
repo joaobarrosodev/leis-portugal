@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:397283:por
+title: Resolução n.º 4/A/82
+short_title: null
+summary: Reafirma o dever da Assembleia Regional dos Açores de se pronunciar e o direito a ser ouvida pela Assembleia da República,
+  nos termos do artigo 231.º, n.º 2, da Constituição, sobre a revisão constitucional
+jurisdiction: regional
+territory: acores
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 4/A/82
+official_date: null
+publication_date: '1982-08-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/1982, Série I de 1982-08-05
+  number: '179'
+  series: I
+  supplement: null
+  pages: 2318 - 2318
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/08/17900/23182318.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '397283'
+  dre_path: /dr/detalhe/resolucao/4-1982-397283
+  internal: pt:dre:397283:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-1982-397283
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/4-1982-397283
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-08-05T00:00:00Z'
+integrity:
+  source_sha256: df23aaaba7b736ffbf9a1659ce8bd9deab86510a248be565da21c2abd78129cf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1982/DRE-1982-4-397283.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 4/A/82
+
+A Assembleia Regional dos Açores reafirma o seu dever de se pronunciar e o seu direito a ser ouvida pela Assembleia da República, nos termos do artigo 231.º, n.º 2, da Constituição, sobre a revisão constitucional.
+
+Baseia o seu entendimento nos próprios termos deste preceito, que de maneira nenhuma se restringe a actos legislativos ditos ordinários.
+
+A enunciação do preceito dirige-se a todos os órgãos de soberania e a todos os actos deles (legislativos ou não) que disserem respeito às regiões autónomas.
+
+Uma lei constitucional que define ou altera a organização política do Estado respeita às regiões autónomas, que, aliás, refere expressamente, em título próprio e em disposições avulsas.
+
+A Assembleia Regional dos Açores não pode aceitar que a revisão constitucional, a qual segue normas específicas, que todavia não esgotam o respectivo processo, exclua o n.º 2 do artigo 231.º, que se julga sempre aplicável.
+
+Para lá das considerações jurídicas, a Assembleia Regional dos Açores considera ser politicamente errado, negativo, afrontoso e contrário à construção do estado democrático português o tentar reduzir-se a participação regional através do seu órgão legislativo próprio a um mero acto de boa vontade, aceite com reservas jurídicas, seja de que natureza forem.
+
+Aprovado em Assembleia Regional dos Açores, na Horta, em 15 de Setembro de 1981.
+
+**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**

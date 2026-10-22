@@ -1,0 +1,470 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553441:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-115335040",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/29-2012-553441",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115335107",
+    "115335108",
+    "115335109",
+    "115335110",
+    "115335111",
+    "115335112",
+    "115335113",
+    "115335114",
+    "115335115",
+    "115335116",
+    "115335117",
+    "115335118",
+    "115335119",
+    "115335120",
+    "115335122"
+   ]
+  },
+  {
+   "date": "2013-12-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:263689:por",
+     "title": "Decreto-Lei n.º 161-A/2013",
+     "published": "2013-12-02",
+     "dre_path": "/dr/detalhe/decreto-lei/161-a-2013-263689"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "115335107",
+    "115335108",
+    "115335879",
+    "115335110",
+    "115335880",
+    "115335881",
+    "115335113",
+    "115335882",
+    "115335115",
+    "115335116",
+    "115335144",
+    "115335145",
+    "115335146",
+    "115335147",
+    "115335148",
+    "115335149",
+    "115338144"
+   ]
+  },
+  {
+   "date": "2014-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345903:por",
+     "title": "Decreto-Lei n.º 112/2014",
+     "published": "2014-07-11",
+     "dre_path": "/dr/detalhe/decreto-lei/112-2014-25345903"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-B",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "115335107",
+    "115335108",
+    "115338174",
+    "115335110",
+    "115338975",
+    "115335881",
+    "115338976",
+    "115335882",
+    "115335115",
+    "115335116",
+    "115335144",
+    "115338167",
+    "115338168",
+    "115338169",
+    "115338170",
+    "115338171",
+    "115338172",
+    "115338173"
+   ]
+  },
+  {
+   "date": "2018-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115312061:por",
+     "title": "Decreto-Lei n.º 33/2018",
+     "published": "2018-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2018-115312061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "115335107",
+    "115335108",
+    "115348595",
+    "115335110",
+    "115338975",
+    "115335881",
+    "115338976",
+    "115335882",
+    "115335115",
+    "115335116",
+    "115335144",
+    "115338167",
+    "115338168",
+    "115338169",
+    "115338170",
+    "115338171",
+    "115338172",
+    "115338173"
+   ]
+  }
+ ],
+ "fragments": {
+  "115335107": {
+   "fragment_id": "115335041",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 29/2012\n\nde 13 de março\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nO presente diploma estabelece assim a orgânica da Secretaria-Geral do Ministério da Administração Interna (SG), instituindo-a como serviço de apoio técnico e administrativo aos gabinetes dos membros do Governo e aos órgãos e serviços sem estrutura de apoio administrativo do Ministério da Administração Interna (MAI), assegurando ainda o apoio técnico e a disponibilização de serviços de partilha de funções e atividades comuns a diversos Serviços do MAI.\n\nNuma ótica de eficiência e eficácia dos recursos, a SG assume as atribuições de acompanhamento e controlo da execução orçamental e a coordenação na elaboração do orçamento do MAI, nas vertentes de funcionamento e investimento, apresentando, para o efeito, os competentes instrumentos de gestão.\n\nDo mesmo modo, são atribuídas à SG novas funções no âmbito da gestão anual e plurianual das candidaturas a financiamento, através de fundos comunitários e de outros financiamentos internacionais.\n\nNuma ótica, também, de rentabilização e de racionalização dos meios e recursos, cometem-se à SG as competências relacionadas com a unidade ministerial de compras do MAI.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115335108": {
+   "fragment_id": "115335042",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Secretaria-Geral do Ministério da Administração Interna, abreviadamente designada por SG, é um serviço central da administração direta do Estado dotado de autonomia administrativa."
+  },
+  "115335109": {
+   "fragment_id": "115335043",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão assegurar a elaboração do orçamento do Ministério da Administração Interna (MAI), acompanhar e apresentar os respetivos relatórios de execução orçamental, efetuar o controlo da gestão, bem como garantir o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no Ministério e aos órgãos e serviços sem estrutura de apoio administrativo, e ainda o apoio técnico e a prestação de serviços comuns, desde que não cometidos por lei a outros serviços, assegurando, ainda, a conceção, instrução, acompanhamento, preparação, programação e execução nacional, anual e plurianual, das candidaturas a financiamento relativamente a fundos comunitários e outros financiamentos internacionais.\n\n2 - A SG prossegue as seguintes atribuições no âmbito do acompanhamento, avaliação e controlo das atividades financeira e orçamental das entidades, serviços e organismos do MAI:\n\na) Apoiar a definição das principais opções estratégicas em matéria orçamental, assegurando a elaboração do orçamento consolidado do MAI, acompanhar a execução orçamental, efetuar o controlo da gestão e apresentar os respetivos relatórios de execução, bem como monitorizar a execução orçamental dos investimentos previstos;\n\nb) Proceder à elaboração dos instrumentos de planeamento integrado e de investimentos, de acordo com os diplomas programáticos e de opção estratégica do Governo, assegurando a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas, que sejam da sua competência, e acompanhar e controlar a execução dos que forem da responsabilidade de outros serviços e organismos do MAI;\n\nc) Acompanhar a execução orçamental dos investimentos previstos, em articulação com a Direção-Geral de Infraestruturas e Equipamentos (DGIE).\n\n3 - A SG prossegue as seguintes atribuições, no âmbito da prestação de serviços comuns e no quadro do exercício de funções transversais:\n\na) Assegurar a gestão dos contratos de prestação de serviços de suporte não integrados em entidades públicas prestadoras de serviços partilhados, sem prejuízo das competências cometidas à DGIE;\n\nb) Centralizar o expediente relativo às aquisições de bens e serviços para o MAI, através da progressiva centralização e desmaterialização de procedimentos de aprovisionamento, designadamente para as forças de segurança e outros serviços do MAI, no âmbito da respetiva unidade ministerial de compras, no quadro do funcionamento do sistema nacional de compras públicas, sem prejuízo das competências cometidas à DGIE.\n\n4 - A SG prossegue ainda as atribuições definidas nas áreas seguintes, designadamente no âmbito de uma gestão eficiente dos recursos com os demais serviços do MAI, e sem prejuízo das competências legais dos dirigentes máximos dos serviços destinatários:\n\na) Estudar, programar, executar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a comunicação, a inovação, a modernização e a política de qualidade e de qualificação, assegurando a articulação com os organismos com competências interministeriais nestas áreas;\n\nb) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MAI na respetiva implementação;\n\nc) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal dos serviços do MAI;\n\nd) Assegurar os serviços de apoio em matéria de consultoria jurídica e de contencioso do MAI;\n\ne) Praticar os atos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afeto, e assegurar a articulação com a entidade gestora da mobilidade nos termos legais;\n\nf) Assegurar um centro de documentação nas áreas de interesse do MAI;\n\ng) Organizar, descrever e difundir de acordo com as normas arquivísticas nacionais e internacionais a documentação de carácter histórico do MAI, assegurar uma política de gestão integrada dos arquivos, bem como o arquivo geral da SG;\n\nh) Assegurar os serviços de informação, apoio à imprensa, relações públicas e protocolo;\n\ni) Instruir os processos de concessão de passaporte especial;\n\nj) Instruir os processos referentes à concessão de mercês honoríficas;\n\nk) Assegurar o normal funcionamento do MAI nas áreas que não sejam da competência específica de outros serviços;\n\nl) Assegurar a prossecução de quaisquer outras atribuições, ações e atividades que lhe sejam cometidas por lei ou por determinação superior.\n\n5 - A SG prossegue as seguintes atribuições no âmbito da conceção, instrução, acompanhamento, preparação, programação e execução nacional anual e plurianual das candidaturas a financiamento relativamente a fundos comunitários e outros financiamentos internacionais:\n\na) Conceber, instruir e acompanhar a preparação, a programação e execução nacional anual e plurianual das candidaturas a financiamento relativamente a fundos comunitários e outros financiamentos internacionais;\n\nb) Garantir a elaboração, e a submissão para aprovação pelo membro do governo responsável pela área da administração interna, de um plano global dos programas, ações e projetos que, em todas as áreas de intervenção do MAI, possam candidatar-se ou de alguma forma recorrer a formas de financiamento comunitário, no âmbito do Quadro de Referência Estratégica Nacional (QREN), do programa quadro «Solidariedade e gestão de fluxos migratórios» ou de quaisquer outros programas comunitários, e a sua permanente atualização;\n\nc) Coordenar as candidaturas e a gestão da aplicação dos mesmos fundos pelas forças de segurança e os serviços do MAI;\n\nd) Garantir a coerência e a complementaridade entre os cofinanciamentos dos fundos e destes com os previstos no âmbito de outros instrumentos financeiros nacionais e comunitários pertinentes.\n\n6 - A SG assegura, nos termos da lei, o apoio administrativo e logístico integral, bem como a gestão administrativa do património afeto aos gabinetes dos membros do Governo do MAI, às comissões, grupos de trabalho e outros organismos sem estrutura administrativa própria e aos seguintes serviços:\n\na) Autoridade Nacional de Segurança Rodoviária (ANSR);\n\nb) Inspeção-Geral da Administração Interna (IGAI);\n\nc) Direção-Geral de Administração Interna (DGAI);\n\nd) Direção-Geral de Infraestruturas e Equipamentos (DGIE)."
+  },
+  "115335110": {
+   "fragment_id": "115335044",
+   "type": 11,
+   "heading": "Artigo 3.º — Colaboração de outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Colaboração de outras entidades\n\nA SG pode solicitar às entidades, serviços e organismos do MAI os elementos de informação que se mostrem necessários ao exercício das suas atribuições, designadamente no quadro das suas atribuições de unidade ministerial de compras do MAI e de unidade de gestão patrimonial, ou ainda, no âmbito do desenvolvimento de projetos específicos."
+  },
+  "115335111": {
+   "fragment_id": "115335045",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nA SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "115335112": {
+   "fragment_id": "115335046",
+   "type": 11,
+   "heading": "Artigo 5.º — Secretário-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Secretário-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao secretário-geral:\n\na) Representar o MAI sempre que essa representação lhe seja delegada pelos membros do Governo e não pertença expressamente a outra entidade;\n\nb) Coordenar a atividade dos serviços do MAI nas matérias de gestão comum que estão confiadas à SG, promovendo a elaboração de instruções e acompanhando os procedimentos adequados ao bom funcionamento dos serviços;\n\nc) Presidir ao Conselho da Medalha;\n\nd) Exercer as funções de oficial público nos atos e contratos em que participem como outorgantes os membros do Governo;\n\ne) Propor medidas e orientações em áreas de interesse comum dos serviços do MAI.\n\n2 - O secretário-geral-adjunto exerce as competências que lhe sejam delegadas ou subdelegadas pelo secretário-geral, competindo-lhe substituí-lo nas suas faltas e impedimentos."
+  },
+  "115335113": {
+   "fragment_id": "115335047",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipo de organização interna\n\nA organização interna da SG obedece ao modelo de estrutura hierarquizada."
+  },
+  "115335114": {
+   "fragment_id": "115335048",
+   "type": 11,
+   "heading": "Artigo 7.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Receitas\n\n1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A SG dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto de venda de publicações e de trabalhos editados pela SG;\n\nc) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;\n\nd) Quaisquer receitas que, por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da SG durante a execução do orçamento do ano a que respeitam.\n\n4 - As quantias cobradas pela SG são fixadas e atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da administração interna, tendo em atenção os meios humanos e materiais mobilizados em cada caso, devendo ainda ser tidos em conta os custos indiretos de funcionamento."
+  },
+  "115335115": {
+   "fragment_id": "115335049",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas\n\nConstituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "115335116": {
+   "fragment_id": "115335050",
+   "type": 11,
+   "heading": "Artigo 9.º — Mapa de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mapa de cargos de direção\n\nOs lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante."
+  },
+  "115335117": {
+   "fragment_id": "115335051",
+   "type": 11,
+   "heading": "Artigo 10.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sucessão\n\nA SG sucede nas atribuições:\n\na) Da Inspeção-Geral da Administração Interna, no domínio das atividades de natureza administrativa integradas no quadro da prestação de serviços comuns a serviços do MAI;\n\nb) Da Direção-Geral de Infraestruturas e Equipamentos, no domínio das atribuições em matéria de acompanhamento do orçamento de investimento;\n\nc) Da Direção-Geral de Administração Interna, no domínio das atribuições de apoio à definição das principais opções estratégicas em matéria orçamental;\n\nd) Da Estrutura de Missão para a Gestão dos Fundos Comunitários, no âmbito das atividades de conceção, instrução, acompanhamento, preparação, programação e execução nacional anual e plurianual das candidaturas a financiamento relativamente a fundos comunitários e outros financiamentos internacionais."
+  },
+  "115335118": {
+   "fragment_id": "115335052",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de seleção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de seleção de pessoal\n\nSão fixados os seguintes critérios gerais e abstratos de seleção de pessoal:\n\na) O desempenho de funções de natureza administrativa na Inspeção-Geral da Administração Interna;\n\nb) O desempenho de funções no domínio do acompanhamento do orçamento de investimento na Direção-Geral de Infraestruturas e Equipamentos;\n\nc) O desempenho de funções no domínio do apoio à definição das principais opções estratégicas em matéria orçamental na Direção-Geral de Administração Interna;\n\nd) O desempenho de funções de conceção, instrução, acompanhamento, preparação, programação e execução nacional anual e plurianual das candidaturas a financiamento relativamente a fundos comunitários e outros financiamentos internacionais na Estrutura de Missão para a Gestão dos Fundos Comunitários."
+  },
+  "115335119": {
+   "fragment_id": "115335053",
+   "type": 11,
+   "heading": "Artigo 12.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos revogatórios\n\nNos termos dos n.os 1 e 2 do artigo 20.º do Decreto-Lei n.º 126-B/2011, de 29 de dezembro, que aprovou a Lei Orgânica do Ministério da Administração Interna, considera-se revogado, na data de entrada em vigor do presente decreto regulamentar, o Decreto-Lei n.º 76/2007, de 29 de março."
+  },
+  "115335120": {
+   "fragment_id": "115335054",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "115335122": {
+   "fragment_id": "115335056",
+   "type": 14,
+   "heading": "Anexo — (mapa a que se refere o artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (mapa a que se refere o artigo 9.º)\n\nMapa de cargos de direção\n\n(ver documento original)"
+  },
+  "115335879": {
+   "fragment_id": "115335043",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2013-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão prestar apoio técnico à formulação de políticas, ao planeamento estratégico e à política legislativa no âmbito do Ministério da Administração Interna (MAI), garantir o apoio técnico e administrativo aos gabinetes dos membros do Governo e aos órgãos e serviços sem estrutura de apoio administrativo, bem como assegurar a prestação de serviços comuns aos serviços do Ministério, a condução do processo orçamental no âmbito do MAI e a gestão dos programas com financiamento comunitário e outros programas com financiamento internacional, em articulação com as entidades nacionais e internacionais com competências neste domínio, assim como prestar apoio técnico ao desenvolvimento das relações internacionais no âmbito do MAI e assegurar e coordenar tecnicamente o recenseamento automático e a administração eleitoral.\n\n2 - A SG prossegue as seguintes atribuições no âmbito do acompanhamento, avaliação e controlo das atividades financeira e orçamental das entidades, serviços e organismos do MAI:\n\na) Apoiar a definição das principais opções estratégicas em matéria orçamental, assegurando a elaboração do orçamento consolidado do MAI, acompanhar a execução orçamental, efetuar o controlo da gestão e apresentar os respetivos relatórios de execução, bem como monitorizar a execução orçamental dos investimentos previstos;\n\nb) Proceder à elaboração dos instrumentos de planeamento integrado e de investimentos, de acordo com os diplomas programáticos e de opção estratégica do Governo, assegurando a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas, que sejam da sua competência, e acompanhar, controlar e avaliar a execução dos que forem da responsabilidade de outros serviços e organismos do MAI;\n\nc) Acompanhar a execução orçamental dos investimentos previstos, em articulação com a Direção-Geral de Infraestruturas e Equipamentos (DGIE).\n\n3 - A SG prossegue as seguintes atribuições, no âmbito da prestação de serviços comuns:\n\na) No quadro do exercício de funções transversais, e sem prejuízo das competências cometidas à DGIE:\n\ni) Assegurar a gestão dos contratos de prestação de serviços de suporte não integrados em entidades públicas prestadoras de serviços partilhados;\n\nii) Assegurar a centralização e desmaterialização dos procedimentos de contratação pública, exercendo as funções de unidade ministerial de compras;\n\nb) Assegurar os demais procedimentos de aquisições de bens e serviços para as forças de segurança e restantes serviços do MAI em aquisições superiores a sessenta mil euros.\n\n4 - A SG prossegue ainda as atribuições definidas nas áreas seguintes, designadamente no âmbito de uma gestão eficiente dos recursos com os demais serviços do MAI, e sem prejuízo das competências legais dos dirigentes máximos dos serviços destinatários:\n\na) Estudar, programar, executar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a comunicação, a inovação, a modernização e a política de qualidade e de qualificação, assegurando a articulação com os organismos com competências interministeriais nestas áreas;\n\nb) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MAI na respetiva implementação;\n\nc) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal dos serviços do MAI;\n\nd) Assegurar os serviços de apoio em matéria de consultoria jurídica e de contencioso do MAI;\n\ne) Praticar os atos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afeto, e assegurar a articulação com a entidade gestora da mobilidade nos termos legais;\n\nf) Assegurar um centro de documentação nas áreas de interesse do MAI;\n\ng) Organizar, descrever e difundir de acordo com as normas arquivísticas nacionais e internacionais a documentação de carácter histórico do MAI, assegurar uma política de gestão integrada dos arquivos, bem como o arquivo geral da SG;\n\nh) Assegurar os serviços de informação, apoio à imprensa, relações públicas e protocolo;\n\ni) Instruir os processos de concessão de passaporte especial;\n\nj) Instruir os processos referentes à concessão de mercês honoríficas;\n\nk) Assegurar o normal funcionamento do MAI nas áreas que não sejam da competência específica de outros serviços;\n\nl) Assegurar a prossecução de quaisquer outras atribuições, ações e atividades que lhe sejam cometidas por lei ou por determinação superior.\n\n5 - A SG prossegue as seguintes atribuições no âmbito do planeamento estratégico e do apoio na formulação de políticas e da política legislativa:\n\na) Conceber, preparar, analisar e apoiar tecnicamente a execução de iniciativas, medidas legislativas e programas no âmbito do MAI e proceder à sua avaliação;\n\nb) Preparar projetos e colaborar na redação de diplomas legislativos, em especial os relativos à transposição do direito da União Europeia e de adequação do direito nacional a obrigações decorrentes de instrumentos comunitários ou internacionais;\n\nc) Colaborar na adoção e promoção das melhores práticas de produção normativa, visando a melhoria da qualidade da legislação;\n\nd) Propor e elaborar estudos gerais de política legislativa, incluindo estudos de avaliação legislativa prévia e sucessiva;\n\ne) Assegurar o desenvolvimento dos sistemas de avaliação dos serviços no âmbito do MAI, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas na lei sobre esta matéria;\n\nf) Avaliar projetos de investigação e desenvolvimento, elaborar estudos no âmbito da segurança interna, desenvolver iniciativas e ferramentas que contribuam para melhorar a segurança, objetiva e subjetiva, dos cidadãos, identificando e acompanhando as tendências de longo prazo nas áreas de intervenção do MAI;\n\ng) Proceder à avaliação da execução do planeado, identificando desvios, definindo os fatores críticos de sucesso e os momentos de avaliação da execução das políticas, e desenvolvendo estratégias de gestão de desvios;\n\nh) Garantir a recolha, produção, a análise e o tratamento, designadamente estatístico e geoestatístico, e acesso da informação adequada, nas áreas de atribuições do MAI, formatando-a e disponibilizando-a em função das necessidades dos utilizadores institucionais e do público;\n\ni) Prever e acompanhar o impacte das alterações sociais, económicas e normativas na caracterização do ambiente social em que operam os diversos serviços do sistema de segurança interna;\n\nj) Acompanhar, apoiar e sugerir trabalhos a entidades ou organismos que desempenhem funções de observatório de segurança;\n\nk) Estabelecer relações com serviços de missão idêntica de sectores conexos com a segurança interna, promovendo o intercâmbio de informação relevante para a prossecução das respetivas atribuições.\n\n6 - A SG prossegue as seguintes atribuições no âmbito das relações internacionais e comunitárias, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros e de acordo com os objetivos definidos para a política externa portuguesa:\n\na) Apoiar a definição e a execução da política de relações internacionais e cooperação no âmbito do MAI, nomeadamente articulando as ações de cooperação em matéria de segurança interna e técnico-policial, política de imigração, fronteiras e asilo, proteção civil, segurança rodoviária e administração eleitoral, em particular com os países ou territórios de língua oficial portuguesa e no contexto da União Europeia;\n\nb) Assegurar a coordenação das relações externas e da política de cooperação entre todos os serviços e organismos do MAI;\n\nc) Estabelecer relações com entidades congéneres de outros países, designadamente aqueles com que Portugal tenha acordos de cooperação nas áreas de atribuições do MAI;\n\nd) Acompanhar e apoiar a política internacional do Estado Português nas áreas de atribuições do MAI, coordenando a representação do Ministério na negociação de convenções, acordos e tratados internacionais, protocolos e memorandos de entendimento de natureza bilateral ou multilateral e a participação e representação dos organismos do Ministério junto de organizações e organismos internacionais, bem como dos demais fóruns que, no plano internacional, se realizem na área da administração interna;\n\ne) Assegurar a coordenação e a ligação funcional e técnica com os oficiais de ligação do MAI junto das missões diplomáticas de Portugal, sem prejuízo das competências próprias dos respetivos chefes de missão;\n\nf) Coordenar a participação das forças e serviços de segurança do MAI em missões internacionais;\n\ng) Manter atualizado um sistema de informação sobre as disposições normativas vigentes constantes de diplomas internacionais e da União Europeia, com aplicação nas áreas de atribuições do MAI, bem como o arquivo e conservação dos instrumentos internacionais assinados no âmbito do MAI;\n\nh) Dar apoio às delegações internacionais presentes em Portugal para participar em iniciativas do Governo relativas à área da administração interna;\n\ni) Acompanhar a atividade das jurisdições internacionais e do Tribunal de Justiça da União Europeia nas questões relativas ao contencioso do Estado Português nas áreas de atribuições do MAI;\n\nj) Recolher e estudar as normas de direito internacional, de direito comparado e de direito da União Europeia nas áreas de atribuições do MAI;\n\nk) Assegurar a representação do Ministério na Comissão Interministerial para os Assuntos Europeus, na Comissão Nacional de Direitos Humanos, na Comissão Interministerial para a Cooperação e no secretariado permanente da Conferência dos Ministros da Administração Interna e da Segurança da Comunidade dos Países de Língua Portuguesa.\n\n7 - A SG prossegue as seguintes atribuições no âmbito da administração eleitoral:\n\na) Organizar e apoiar tecnicamente a execução dos referendos e dos atos eleitorais de âmbito nacional, regional, local e da União Europeia;\n\nb) Dirigir os escrutínios provisórios dos referendos e dos atos eleitorais;\n\nc) Assegurar o recenseamento eleitoral e receber e decidir as reclamações nesse âmbito apresentadas pelos cidadãos eleitores;\n\nd) Organizar, manter e gerir a base de dados central do recenseamento eleitoral;\n\ne) Assegurar a estatística do recenseamento e dos atos eleitorais e dos referendos, publicitando os respetivos resultados;\n\nf) Manter atualizado e disponibilizar ao público um sistema de informação dos resultados eleitorais e dos referendos;\n\ng) Organizar o registo dos cidadãos eleitos para os órgãos de soberania, das regiões autónomas e do poder local e para o Parlamento Europeu;\n\nh) Difundir informação pública sobre o sistema e os atos eleitorais e referendos;\n\ni) Emitir parecer técnico, na sequência de solicitação dos órgãos da administração eleitoral, demais intervenientes e interessados nos processos de recenseamento, eleitorais e referendários;\n\nj) Propor as medidas adequadas à participação dos cidadãos nos processos de recenseamento, eleitorais e referendários;\n\nk) Proceder a estudos em matéria eleitoral;\n\nl) Propor e organizar ações de formação para agentes e técnicos das entidades locais da administração eleitoral;\n\nm) Informar e dar parecer sobre matéria eleitoral;\n\nn) Cooperar com as administrações eleitorais de outros países, assegurar a realização de ações de assistência técnica e integrar missões de observação eleitoral, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros e de acordo com os objetivos definidos para a política externa portuguesa.\n\n8 - A SG prossegue as seguintes atribuições no âmbito da programação, gestão técnica, administrativa e financeira, execução e acompanhamento de programas e projetos com financiamentos comunitários e internacionais:\n\na) Assegurar, no âmbito do MAI, a programação e a gestão técnica, administrativa e financeira dos programas e fundos comunitários, bem como de outros financiamentos internacionais, no cumprimento de todas as normas e obrigações para o efeito estabelecidas pelos instrumentos relevantes;\n\nb) Organizar, publicitar e proceder à seleção, no âmbito do MAI, do acesso ao financiamento pelos fundos, bem como acompanhar a execução dos projetos cofinanciados e assegurar a apresentação dos relatórios necessários à avaliação anual e plurianual dos fundos;\n\nc) Coordenar as candidaturas e a gestão da aplicação dos mesmos fundos pelas forças de segurança e os serviços do MAI;\n\nd) Garantir a coerência e a complementaridade entre os cofinanciamentos dos fundos e destes com os previstos no âmbito de outros instrumentos financeiros nacionais e comunitários pertinentes.\n\n9 - A SG assegura, nos termos da lei, o apoio administrativo e logístico integral, bem como a gestão administrativa do património afeto aos gabinetes dos membros do Governo do MAI, às comissões, grupos de trabalho e outros organismos sem estrutura administrativa própria e aos seguintes serviços:\n\na) Autoridade Nacional de Segurança Rodoviária (ANSR);\n\nb) Inspeção-Geral da Administração Interna (IGAI);\n\nc) Direção-Geral de Administração Interna (DGAI);\n\nd) Direção-Geral de Infraestruturas e Equipamentos (DGIE).\n\n10 - Para assegurar a prossecução das suas atribuições, a SG pode promover formas alargadas de parceria e de cooperação com outras entidades, nacionais ou estrangeiras, designadamente com universidades, centros de investigação e empresas de consultoria e de serviços de tradução.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+  },
+  "115335880": {
+   "fragment_id": "115335045",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2013-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nA SG é dirigida por um secretário-geral, coadjuvado por três secretários-gerais-adjuntos, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+  },
+  "115335881": {
+   "fragment_id": "115335046",
+   "type": 11,
+   "heading": "Artigo 5.º — Secretário-geral",
+   "in_force_from": "2013-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+   ],
+   "markdown": "###### Artigo 5.º — Secretário-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao secretário-geral:\n\na) Representar o MAI junto de quaisquer organizações ou entidades, nacionais e internacionais, salvo quando o contrário resulte da lei ou de decisão do Governo;\n\nb) Coordenar a atividade dos serviços do MAI nas matérias de gestão comum que estão confiadas à SG, promovendo a elaboração de instruções e acompanhando os procedimentos adequados ao bom funcionamento dos serviços;\n\nc) Presidir ao Conselho da Medalha;\n\nd) Exercer as funções de oficial público nos atos e contratos em que participem como outorgantes os membros do Governo;\n\ne) Propor medidas e orientações em áreas de interesse comum dos serviços do MAI.\n\n2 - Os secretários-gerais-adjuntos exercem as competências que lhes sejam delegadas ou subdelegadas pelo secretário-geral, devendo este identificar quem o substitui nas suas faltas e impedimentos.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+  },
+  "115335882": {
+   "fragment_id": "115335048",
+   "type": 11,
+   "heading": "Artigo 7.º — Receitas",
+   "in_force_from": "2013-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+   ],
+   "markdown": "###### Artigo 7.º — Receitas\n\n1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A SG dispõe ainda das seguintes receitas próprias:\n\na) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;\n\nb) O produto de venda de publicações e de trabalhos editados pela SG;\n\nc) Os subsídios, subvenções, comparticipações, doações e legados que lhe forem atribuídos por quaisquer entidades de direito público ou privado, nacionais ou estrangeiras;\n\nd) As verbas provenientes de taxas e coimas que lhe caibam nos termos da lei;\n\ne) Os rendimentos de bens que possua a qualquer título;\n\nf) Quaisquer receitas que, por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As receitas referidas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da SG durante a execução do orçamento do ano a que respeitam.\n\n4 - As quantias cobradas pela SG são fixadas e atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da administração interna, tendo em atenção os meios humanos e materiais mobilizados em cada caso, devendo ainda ser tidos em conta os custos indiretos de funcionamento.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+  },
+  "115335144": {
+   "fragment_id": "115335376",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Comissão mista",
+   "in_force_from": "2013-12-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+   ],
+   "markdown": "###### Artigo 9.º-A — Comissão mista\n\n1 - No âmbito do programa-quadro solidariedade e gestão de fluxos migratórios, ou outro que lhe venha a suceder em termos idênticos, funciona junto da SG uma comissão mista, de carácter consultivo, presidida pelo secretário-geral e composta por representantes designados pelos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da administração interna, da justiça, da integração, do desenvolvimento regional, da economia e do emprego e segurança social.\n\n2 - Compete à comissão mista, designadamente:\n\na) Emitir parecer, a solicitação da SG, sobre a evolução das prioridades dos investimentos nacionais nas áreas abrangidas pelos fundos;\n\nb) Pronunciar-se sobre os programas com financiamento comunitário;\n\nc) Prestar a informação necessária para que seja assegurada a coerência e a complementaridade entre os financiamentos dos diversos fundos e entre estes e outros instrumentos financeiros nacionais e comunitários relevantes;\n\nd) Aprovar o seu regulamento interno.\n\n3 - Os membros da comissão mista não são remunerados pelo exercício das respetivas funções.\n\n> Aditado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+  },
+  "115335145": {
+   "fragment_id": "115335051",
+   "type": 11,
+   "heading": "Artigo 10.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sucessão\n\nA SG sucede nas atribuições:\n\na) Da Inspeção-Geral da Administração Interna, no domínio das atividades de natureza administrativa integradas no quadro da prestação de serviços comuns a serviços do MAI;\n\nb) Da Direção-Geral de Infraestruturas e Equipamentos, no domínio das atribuições em matéria de acompanhamento do orçamento de investimento;\n\nc) Da Direção-Geral de Administração Interna, no domínio das atribuições de apoio à definição das principais opções estratégicas em matéria orçamental;\n\nd) Da Estrutura de Missão para a Gestão dos Fundos Comunitários, no âmbito das atividades de conceção, instrução, acompanhamento, preparação, programação e execução nacional anual e plurianual das candidaturas a financiamento relativamente a fundos comunitários e outros financiamentos internacionais."
+  },
+  "115335146": {
+   "fragment_id": "115335052",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de seleção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de seleção de pessoal\n\nSão fixados os seguintes critérios gerais e abstratos de seleção de pessoal:\n\na) O desempenho de funções de natureza administrativa na Inspeção-Geral da Administração Interna;\n\nb) O desempenho de funções no domínio do acompanhamento do orçamento de investimento na Direção-Geral de Infraestruturas e Equipamentos;\n\nc) O desempenho de funções no domínio do apoio à definição das principais opções estratégicas em matéria orçamental na Direção-Geral de Administração Interna;\n\nd) O desempenho de funções de conceção, instrução, acompanhamento, preparação, programação e execução nacional anual e plurianual das candidaturas a financiamento relativamente a fundos comunitários e outros financiamentos internacionais na Estrutura de Missão para a Gestão dos Fundos Comunitários."
+  },
+  "115335147": {
+   "fragment_id": "115335053",
+   "type": 11,
+   "heading": "Artigo 12.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos revogatórios\n\nNos termos dos n.os 1 e 2 do artigo 20.º do Decreto-Lei n.º 126-B/2011, de 29 de dezembro, que aprovou a Lei Orgânica do Ministério da Administração Interna, considera-se revogado, na data de entrada em vigor do presente decreto regulamentar, o Decreto-Lei n.º 76/2007, de 29 de março."
+  },
+  "115335148": {
+   "fragment_id": "115335054",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "115335149": {
+   "fragment_id": "115335055",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de janeiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva.\n\nPromulgado em 5 de março de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de março de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "115338144": {
+   "fragment_id": "115335056",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 9.º)",
+   "in_force_from": "2013-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 9.º)\n\nMapa de cargos de direção\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+  },
+  "115338174": {
+   "fragment_id": "115335043",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2014-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), em vigor a partir de 2014-07-12",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão prestar apoio técnico à formulação de políticas, ao planeamento estratégico e à política legislativa no âmbito do Ministério da Administração Interna (MAI), garantir o apoio técnico e administrativo aos gabinetes dos membros do Governo e aos órgãos e serviços sem estrutura de apoio administrativo, bem como assegurar a prestação de serviços comuns aos serviços do Ministério, a condução do processo orçamental no âmbito do MAI e a gestão dos programas com financiamento comunitário e outros programas com financiamento internacional, em articulação com as entidades nacionais e internacionais com competências neste domínio, assim como prestar apoio técnico ao desenvolvimento das relações internacionais no âmbito do MAI e assegurar e coordenar tecnicamente o recenseamento automático e a administração eleitoral.\n\n2 - A SG prossegue as seguintes atribuições no âmbito do acompanhamento, avaliação e controlo das atividades financeira e orçamental das entidades, serviços e organismos do MAI:\n\na) Apoiar a definição das principais opções estratégicas em matéria orçamental, assegurando a elaboração do orçamento consolidado do MAI, acompanhar a execução orçamental, efetuar o controlo da gestão e apresentar os respetivos relatórios de execução, bem como monitorizar a execução orçamental dos investimentos previstos;\n\nb) Proceder à elaboração dos instrumentos de planeamento integrado e de investimentos, de acordo com os diplomas programáticos e de opção estratégica do Governo, assegurando a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas, que sejam da sua competência, e acompanhar, controlar e avaliar a execução dos que forem da responsabilidade de outros serviços e organismos do MAI;\n\nc) Acompanhar a execução orçamental dos investimentos previstos.\n\n3 - No quadro do exercício de funções transversais:\n\na) No quadro do exercício de funções transversais, e sem prejuízo das competências cometidas à DGIE:\n\ni) Assegurar a gestão dos contratos de prestação de serviços de suporte não integrados em entidades públicas prestadoras de serviços partilhados;\n\nii) Assegurar a centralização e desmaterialização dos procedimentos de contratação pública, exercendo as funções de unidade ministerial de compras;\n\nb) Assegurar os demais procedimentos de contratação pública para as forças e serviços de segurança e demais serviços do MAI, em aquisições superiores a (euro) 150 000.\n\n4 - A SG prossegue ainda as atribuições definidas nas áreas seguintes, designadamente no âmbito de uma gestão eficiente dos recursos com os demais serviços do MAI, e sem prejuízo das competências legais dos dirigentes máximos dos serviços destinatários:\n\na) Estudar, programar, executar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a comunicação, a inovação, a modernização e a política de qualidade e de qualificação, assegurando a articulação com os organismos com competências interministeriais nestas áreas;\n\nb) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MAI na respetiva implementação;\n\nc) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal dos serviços do MAI;\n\nd) Assegurar os serviços de apoio em matéria de consultoria jurídica e de contencioso do MAI;\n\ne) Praticar os atos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afeto, e assegurar a articulação com a entidade gestora da mobilidade nos termos legais;\n\nf) Assegurar um centro de documentação nas áreas de interesse do MAI;\n\ng) Organizar, descrever e difundir de acordo com as normas arquivísticas nacionais e internacionais a documentação de carácter histórico do MAI, assegurar uma política de gestão integrada dos arquivos, bem como o arquivo geral da SG;\n\nh) Assegurar os serviços de informação, apoio à imprensa, relações públicas e protocolo;\n\ni) Instruir os processos de concessão de passaporte especial;\n\nj) Instruir os processos referentes à concessão de mercês honoríficas;\n\nk) Assegurar o normal funcionamento do MAI nas áreas que não sejam da competência específica de outros serviços;\n\nl) Estudar, acompanhar e apoiar a política de instalações das forças e serviços de segurança e demais serviços do MAI, manter atualizado o respetivo recenseamento e centralizar a informação relativa ao património daquele ministério;\n\nm) Acompanhar a execução dos contratos relativos às instalações das forças e serviços de segurança e demais serviços do MAI;\n\nn) Elaborar, de acordo com as necessidades e prioridades estabelecidas pelos competentes serviços do MAI, os programas anuais e plurianuais de investimentos em infraestruturas relativos às forças e serviços de segurança e demais serviços daquele ministério, promovendo a sua aprovação superior;\n\no) Assegurar a prossecução de quaisquer outras atribuições, ações e atividades que lhe sejam cometidas por lei ou por determinação superior.\n\n5 - A SG prossegue as seguintes atribuições no âmbito do planeamento estratégico e do apoio na formulação de políticas e da política legislativa:\n\na) Conceber, preparar, analisar e apoiar tecnicamente a execução de iniciativas, medidas legislativas e programas no âmbito do MAI e proceder à sua avaliação;\n\nb) Preparar projetos e colaborar na redação de diplomas legislativos, em especial os relativos à transposição do direito da União Europeia e de adequação do direito nacional a obrigações decorrentes de instrumentos comunitários ou internacionais;\n\nc) Colaborar na adoção e promoção das melhores práticas de produção normativa, visando a melhoria da qualidade da legislação;\n\nd) Propor e elaborar estudos gerais de política legislativa, incluindo estudos de avaliação legislativa prévia e sucessiva;\n\ne) Assegurar o desenvolvimento dos sistemas de avaliação dos serviços no âmbito do MAI, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas na lei sobre esta matéria;\n\nf) Avaliar projetos de investigação e desenvolvimento, elaborar estudos no âmbito da segurança interna, desenvolver iniciativas e ferramentas que contribuam para melhorar a segurança, objetiva e subjetiva, dos cidadãos, identificando e acompanhando as tendências de longo prazo nas áreas de intervenção do MAI;\n\ng) Proceder à avaliação da execução do planeado, identificando desvios, definindo os fatores críticos de sucesso e os momentos de avaliação da execução das políticas, e desenvolvendo estratégias de gestão de desvios;\n\nh) Garantir a recolha, produção, a análise e o tratamento, designadamente estatístico e geoestatístico, e acesso da informação adequada, nas áreas de atribuições do MAI, formatando-a e disponibilizando-a em função das necessidades dos utilizadores institucionais e do público;\n\ni) Prever e acompanhar o impacte das alterações sociais, económicas e normativas na caracterização do ambiente social em que operam os diversos serviços do sistema de segurança interna;\n\nj) Acompanhar, apoiar e sugerir trabalhos a entidades ou organismos que desempenhem funções de observatório de segurança;\n\nk) Estabelecer relações com serviços de missão idêntica de sectores conexos com a segurança interna, promovendo o intercâmbio de informação relevante para a prossecução das respetivas atribuições.\n\n6 - A SG prossegue as seguintes atribuições no âmbito das relações internacionais e comunitárias, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros e de acordo com os objetivos definidos para a política externa portuguesa:\n\na) Apoiar a definição e a execução da política de relações internacionais e cooperação no âmbito do MAI, nomeadamente articulando as ações de cooperação em matéria de segurança interna e técnico-policial, política de imigração, fronteiras e asilo, proteção civil, segurança rodoviária e administração eleitoral, em particular com os países ou territórios de língua oficial portuguesa e no contexto da União Europeia;\n\nb) Assegurar a coordenação das relações externas e da política de cooperação entre todos os serviços e organismos do MAI;\n\nc) Estabelecer relações com entidades congéneres de outros países, designadamente aqueles com que Portugal tenha acordos de cooperação nas áreas de atribuições do MAI;\n\nd) Acompanhar e apoiar a política internacional do Estado Português nas áreas de atribuições do MAI, coordenando a representação do Ministério na negociação de convenções, acordos e tratados internacionais, protocolos e memorandos de entendimento de natureza bilateral ou multilateral e a participação e representação dos organismos do Ministério junto de organizações e organismos internacionais, bem como dos demais fóruns que, no plano internacional, se realizem na área da administração interna;\n\ne) Assegurar a coordenação e a ligação funcional e técnica com os oficiais de ligação do MAI junto das missões diplomáticas de Portugal, sem prejuízo das competências próprias dos respetivos chefes de missão;\n\nf) Coordenar a participação das forças e serviços de segurança do MAI em missões internacionais;\n\ng) Manter atualizado um sistema de informação sobre as disposições normativas vigentes constantes de diplomas internacionais e da União Europeia, com aplicação nas áreas de atribuições do MAI, bem como o arquivo e conservação dos instrumentos internacionais assinados no âmbito do MAI;\n\nh) Dar apoio às delegações internacionais presentes em Portugal para participar em iniciativas do Governo relativas à área da administração interna;\n\ni) Acompanhar a atividade das jurisdições internacionais e do Tribunal de Justiça da União Europeia nas questões relativas ao contencioso do Estado Português nas áreas de atribuições do MAI;\n\nj) Recolher e estudar as normas de direito internacional, de direito comparado e de direito da União Europeia nas áreas de atribuições do MAI;\n\nk) Assegurar a representação do Ministério na Comissão Interministerial para os Assuntos Europeus, na Comissão Nacional de Direitos Humanos, na Comissão Interministerial para a Cooperação e no secretariado permanente da Conferência dos Ministros da Administração Interna e da Segurança da Comunidade dos Países de Língua Portuguesa.\n\n7 - A SG prossegue as seguintes atribuições no âmbito da administração eleitoral:\n\na) Organizar e apoiar tecnicamente a execução dos referendos e dos atos eleitorais de âmbito nacional, regional, local e da União Europeia;\n\nb) Dirigir os escrutínios provisórios dos referendos e dos atos eleitorais;\n\nc) Assegurar o recenseamento eleitoral e receber e decidir as reclamações nesse âmbito apresentadas pelos cidadãos eleitores;\n\nd) Organizar, manter e gerir a base de dados central do recenseamento eleitoral;\n\ne) Assegurar a estatística do recenseamento e dos atos eleitorais e dos referendos, publicitando os respetivos resultados;\n\nf) Manter atualizado e disponibilizar ao público um sistema de informação dos resultados eleitorais e dos referendos;\n\ng) Organizar o registo dos cidadãos eleitos para os órgãos de soberania, das regiões autónomas e do poder local e para o Parlamento Europeu;\n\nh) Difundir informação pública sobre o sistema e os atos eleitorais e referendos;\n\ni) Emitir parecer técnico, na sequência de solicitação dos órgãos da administração eleitoral, demais intervenientes e interessados nos processos de recenseamento, eleitorais e referendários;\n\nj) Propor as medidas adequadas à participação dos cidadãos nos processos de recenseamento, eleitorais e referendários;\n\nk) Proceder a estudos em matéria eleitoral;\n\nl) Propor e organizar ações de formação para agentes e técnicos das entidades locais da administração eleitoral;\n\nm) Informar e dar parecer sobre matéria eleitoral;\n\nn) Cooperar com as administrações eleitorais de outros países, assegurar a realização de ações de assistência técnica e integrar missões de observação eleitoral, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros e de acordo com os objetivos definidos para a política externa portuguesa.\n\n8 - A SG prossegue as seguintes atribuições no âmbito da programação, gestão técnica, administrativa e financeira, execução e acompanhamento de programas e projetos com financiamentos comunitários e internacionais:\n\na) Assegurar, no âmbito do MAI, a programação e a gestão técnica, administrativa e financeira dos programas e fundos comunitários, bem como de outros financiamentos internacionais, no cumprimento de todas as normas e obrigações para o efeito estabelecidas pelos instrumentos relevantes;\n\nb) Organizar, publicitar e proceder à seleção, no âmbito do MAI, do acesso ao financiamento pelos fundos, bem como acompanhar a execução dos projetos cofinanciados e assegurar a apresentação dos relatórios necessários à avaliação anual e plurianual dos fundos;\n\nc) Coordenar as candidaturas e a gestão da aplicação dos mesmos fundos pelas forças de segurança e os serviços do MAI;\n\nd) Garantir a coerência e a complementaridade entre os cofinanciamentos dos fundos e destes com os previstos no âmbito de outros instrumentos financeiros nacionais e comunitários pertinentes.\n\n9 - A SG prossegue, designadamente, as seguintes atribuições no âmbito da gestão dos sistemas de informação e de comunicação do MAI:\n\na) Assegurar a gestão dos sistemas, no âmbito das tecnologias de informação e de comunicação, de utilização comum entre forças e serviços de segurança e demais serviços do MAI, garantindo os níveis de segurança adequados no acesso, comunicação e armazenamento da informação;\n\nb) Assegurar o planeamento, administração, produção e desenvolvimento, numa ótica de rentabilização, potenciação de eficácia e interoperabilidade, dos sistemas informáticos e de comunicações de todos os serviços do MAI, em articulação com os utilizadores dos diversos sistemas a quem presta apoio;\n\nc) Elaborar planos sectoriais de informática de acordo com os objetivos globais do MAI, colaborar na definição dos correspondentes sistemas de informação e em estudos e análise de custos informáticos;\n\nd) Promover a instalação e gerir, para uso partilhado, as comunicações com entidades externas ao MAI, velando pela sua eficácia e segurança;\n\ne) Executar todas as atividades relativas ao planeamento, administração e produção necessárias à gestão dos centros de dados que suportam os sistemas de informação centrais do MAI, garantindo a continuidade de serviço em situações de acidente ou catástrofe;\n\nf) Assegurar o bom funcionamento das infraestruturas de comunicação do MAI, com os melhores níveis de qualidade de serviço, garantindo o bom funcionamento dos serviços de rede, a todos os serviços do MAI, tanto de natureza operacional como de suporte;\n\ng) Assegurar o apoio técnico ao utilizador na área das tecnologias de informação e comunicações, bem como aos centros de dados do MAI e ao nível do Sistema Integrado das Redes de Emergência e Segurança de Portugal (SIRESP) e da Rede Nacional de Segurança Interna (RNSI), nomeadamente assegurando um centro de contacto que garanta um atendimento permanente e contínuo;\n\nh) Gerir e assegurar o bom funcionamento dos instrumentos de operacionalização do número europeu de emergência 112, em articulação com as forças de segurança, a Autoridade Nacional de Proteção Civil (ANPC) e o Instituto Nacional de Emergência Médica (INEM);\n\ni) Contribuir, em articulação com serviços tutelados por outros ministérios, para o reforço da segurança informática da Administração Pública;\n\nj) Gerir, controlar e acompanhar os projetos SIRESP e RNSI e os centros de dados, garantindo ainda a monitorização, os níveis de serviço, o apoio técnico e logístico aos utilizadores e o apoio logístico e administrativo necessário ao respetivo conselho de utilizadores, bem como de outros projetos que sejam considerados estruturantes para o bom funcionamento do MAI;\n\nk) Prestar consultoria técnica, planear, efetuar auditorias técnicas e certificação nas áreas de informática, telecomunicações e segurança dos sistemas de informação;\n\nl) Encarregar-se dos projetos de desenvolvimento e ou de investigação, próprios das áreas referidas na alínea anterior ou que lhe sejam expressamente cometidos;\n\nm) Apoiar, em matéria informática, os serviços congéneres da Comunidade dos Países de Língua Portuguesa, numa perspetiva de racionalização de meios, de integração dos serviços e de cooperação.\n\n10 - A SG assegura, nos termos da lei, o apoio administrativo e logístico integral, bem como a gestão administrativa do património afeto aos gabinetes dos membros do Governo do MAI, à Autoridade Nacional de Segurança Rodoviária (ANSR), às comissões, grupos de trabalho e outros organismos sem estrutura administrativa própria.\n\n11 - Para assegurar a prossecução das suas atribuições, a SG pode promover formas alargadas de parceria e de cooperação com outras entidades, nacionais ou estrangeiras, designadamente com universidades, centros de investigação e empresas de consultoria e de serviços de tradução.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), em vigor a partir de 2014-07-12\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+  },
+  "115338975": {
+   "fragment_id": "115335045",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2014-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), em vigor a partir de 2014-07-12",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nA SG é dirigida por um secretário-geral, coadjuvado por quatro secretários-gerais-adjuntos, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), em vigor a partir de 2014-07-12\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+  },
+  "115338976": {
+   "fragment_id": "115335047",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipo de organização interna",
+   "in_force_from": "2014-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), em vigor a partir de 2014-07-12"
+   ],
+   "markdown": "###### Artigo 6.º — Tipo de organização interna\n\n1 - A organização interna da SG obedece ao seguinte modelo estrutural misto:\n\na) Na prossecução das atribuições das alíneas h) a j) do n.º 9 do artigo 2.º, o modelo de estrutura matricial;\n\nb) Na prossecução das restantes atribuições, o modelo de estrutura hierarquizada.\n\n2 - A estrutura nuclear da SG é aprovada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da administração interna.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), em vigor a partir de 2014-07-12"
+  },
+  "115338167": {
+   "fragment_id": "115338285",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": "2014-07-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), em vigor a partir de 2014-07-12"
+   ],
+   "markdown": "###### Artigo 9.º-B — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a diretor de serviços ou chefe de divisão, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a diretor de serviços ser atribuído a mais de duas chefias de equipa em simultâneo.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), em vigor a partir de 2014-07-12"
+  },
+  "115338168": {
+   "fragment_id": "115335051",
+   "type": 11,
+   "heading": "Artigo 10.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sucessão\n\nA SG sucede nas atribuições:\n\na) Da Inspeção-Geral da Administração Interna, no domínio das atividades de natureza administrativa integradas no quadro da prestação de serviços comuns a serviços do MAI;\n\nb) Da Direção-Geral de Infraestruturas e Equipamentos, no domínio das atribuições em matéria de acompanhamento do orçamento de investimento;\n\nc) Da Direção-Geral de Administração Interna, no domínio das atribuições de apoio à definição das principais opções estratégicas em matéria orçamental;\n\nd) Da Estrutura de Missão para a Gestão dos Fundos Comunitários, no âmbito das atividades de conceção, instrução, acompanhamento, preparação, programação e execução nacional anual e plurianual das candidaturas a financiamento relativamente a fundos comunitários e outros financiamentos internacionais."
+  },
+  "115338169": {
+   "fragment_id": "115335052",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de seleção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de seleção de pessoal\n\nSão fixados os seguintes critérios gerais e abstratos de seleção de pessoal:\n\na) O desempenho de funções de natureza administrativa na Inspeção-Geral da Administração Interna;\n\nb) O desempenho de funções no domínio do acompanhamento do orçamento de investimento na Direção-Geral de Infraestruturas e Equipamentos;\n\nc) O desempenho de funções no domínio do apoio à definição das principais opções estratégicas em matéria orçamental na Direção-Geral de Administração Interna;\n\nd) O desempenho de funções de conceção, instrução, acompanhamento, preparação, programação e execução nacional anual e plurianual das candidaturas a financiamento relativamente a fundos comunitários e outros financiamentos internacionais na Estrutura de Missão para a Gestão dos Fundos Comunitários."
+  },
+  "115338170": {
+   "fragment_id": "115335053",
+   "type": 11,
+   "heading": "Artigo 12.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos revogatórios\n\nNos termos dos n.os 1 e 2 do artigo 20.º do Decreto-Lei n.º 126-B/2011, de 29 de dezembro, que aprovou a Lei Orgânica do Ministério da Administração Interna, considera-se revogado, na data de entrada em vigor do presente decreto regulamentar, o Decreto-Lei n.º 76/2007, de 29 de março."
+  },
+  "115338171": {
+   "fragment_id": "115335054",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "115338172": {
+   "fragment_id": "115335055",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de janeiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva.\n\nPromulgado em 5 de março de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de março de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "115338173": {
+   "fragment_id": "115335056",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 9.º)\n\nMapa de cargos de direção\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+  },
+  "115348595": {
+   "fragment_id": "115335043",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 168.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), em vigor a partir de 2014-07-12",
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A SG tem por missão prestar apoio técnico à formulação de políticas, ao planeamento estratégico e à política legislativa no âmbito do Ministério da Administração Interna (MAI), garantir o apoio técnico e administrativo aos gabinetes dos membros do Governo e aos órgãos e serviços sem estrutura de apoio administrativo, bem como assegurar a prestação de serviços comuns aos serviços do Ministério, a condução do processo orçamental no âmbito do MAI e a gestão dos programas com financiamento comunitário e outros programas com financiamento internacional, em articulação com as entidades nacionais e internacionais com competências neste domínio, assim como prestar apoio técnico ao desenvolvimento das relações internacionais no âmbito do MAI e assegurar e coordenar tecnicamente o recenseamento automático e a administração eleitoral.\n\n2 - A SG prossegue as seguintes atribuições no âmbito do acompanhamento, avaliação e controlo das atividades financeira e orçamental das entidades, serviços e organismos do MAI:\n\na) Apoiar a definição das principais opções estratégicas em matéria orçamental, assegurando a elaboração do orçamento consolidado do MAI, acompanhar a execução orçamental, efetuar o controlo da gestão e apresentar os respetivos relatórios de execução, bem como monitorizar a execução orçamental dos investimentos previstos;\n\nb) Proceder à elaboração dos instrumentos de planeamento integrado e de investimentos, de acordo com os diplomas programáticos e de opção estratégica do Governo, assegurando a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas, que sejam da sua competência, e acompanhar, controlar e avaliar a execução dos que forem da responsabilidade de outros serviços e organismos do MAI;\n\nc) Acompanhar a execução orçamental dos investimentos previstos.\n\n3 - No quadro do exercício de funções transversais:\n\na) No quadro do exercício de funções transversais, e sem prejuízo das competências cometidas à DGIE:\n\ni) Assegurar a gestão dos contratos de prestação de serviços de suporte não integrados em entidades públicas prestadoras de serviços partilhados;\n\nii) Assegurar a centralização e desmaterialização dos procedimentos de contratação pública, exercendo as funções de unidade ministerial de compras;\n\nb) (Revogada).\n\n4 - A SG prossegue ainda as atribuições definidas nas áreas seguintes, designadamente no âmbito de uma gestão eficiente dos recursos com os demais serviços do MAI, e sem prejuízo das competências legais dos dirigentes máximos dos serviços destinatários:\n\na) Estudar, programar, executar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a comunicação, a inovação, a modernização e a política de qualidade e de qualificação, assegurando a articulação com os organismos com competências interministeriais nestas áreas;\n\nb) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MAI na respetiva implementação;\n\nc) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal dos serviços do MAI;\n\nd) Assegurar os serviços de apoio em matéria de consultoria jurídica e de contencioso do MAI;\n\ne) Praticar os atos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afeto, e assegurar a articulação com a entidade gestora da mobilidade nos termos legais;\n\nf) Assegurar um centro de documentação nas áreas de interesse do MAI;\n\ng) Organizar, descrever e difundir de acordo com as normas arquivísticas nacionais e internacionais a documentação de carácter histórico do MAI, assegurar uma política de gestão integrada dos arquivos, bem como o arquivo geral da SG;\n\nh) Assegurar os serviços de informação, apoio à imprensa, relações públicas e protocolo;\n\ni) Instruir os processos de concessão de passaporte especial;\n\nj) Instruir os processos referentes à concessão de mercês honoríficas;\n\nk) Assegurar o normal funcionamento do MAI nas áreas que não sejam da competência específica de outros serviços;\n\nl) Estudar, acompanhar e apoiar a política de instalações das forças e serviços de segurança e demais serviços do MAI, manter atualizado o respetivo recenseamento e centralizar a informação relativa ao património daquele ministério;\n\nm) Acompanhar a execução dos contratos relativos às instalações das forças e serviços de segurança e demais serviços do MAI;\n\nn) Elaborar, de acordo com as necessidades e prioridades estabelecidas pelos competentes serviços do MAI, os programas anuais e plurianuais de investimentos em infraestruturas relativos às forças e serviços de segurança e demais serviços daquele ministério, promovendo a sua aprovação superior;\n\no) Assegurar a prossecução de quaisquer outras atribuições, ações e atividades que lhe sejam cometidas por lei ou por determinação superior.\n\n5 - A SG prossegue as seguintes atribuições no âmbito do planeamento estratégico e do apoio na formulação de políticas e da política legislativa:\n\na) Conceber, preparar, analisar e apoiar tecnicamente a execução de iniciativas, medidas legislativas e programas no âmbito do MAI e proceder à sua avaliação;\n\nb) Preparar projetos e colaborar na redação de diplomas legislativos, em especial os relativos à transposição do direito da União Europeia e de adequação do direito nacional a obrigações decorrentes de instrumentos comunitários ou internacionais;\n\nc) Colaborar na adoção e promoção das melhores práticas de produção normativa, visando a melhoria da qualidade da legislação;\n\nd) Propor e elaborar estudos gerais de política legislativa, incluindo estudos de avaliação legislativa prévia e sucessiva;\n\ne) Assegurar o desenvolvimento dos sistemas de avaliação dos serviços no âmbito do MAI, coordenar e controlar a sua aplicação e exercer as demais competências que lhe sejam atribuídas na lei sobre esta matéria;\n\nf) Avaliar projetos de investigação e desenvolvimento, elaborar estudos no âmbito da segurança interna, desenvolver iniciativas e ferramentas que contribuam para melhorar a segurança, objetiva e subjetiva, dos cidadãos, identificando e acompanhando as tendências de longo prazo nas áreas de intervenção do MAI;\n\ng) Proceder à avaliação da execução do planeado, identificando desvios, definindo os fatores críticos de sucesso e os momentos de avaliação da execução das políticas, e desenvolvendo estratégias de gestão de desvios;\n\nh) Garantir a recolha, produção, a análise e o tratamento, designadamente estatístico e geoestatístico, e acesso da informação adequada, nas áreas de atribuições do MAI, formatando-a e disponibilizando-a em função das necessidades dos utilizadores institucionais e do público;\n\ni) Prever e acompanhar o impacte das alterações sociais, económicas e normativas na caracterização do ambiente social em que operam os diversos serviços do sistema de segurança interna;\n\nj) Acompanhar, apoiar e sugerir trabalhos a entidades ou organismos que desempenhem funções de observatório de segurança;\n\nk) Estabelecer relações com serviços de missão idêntica de sectores conexos com a segurança interna, promovendo o intercâmbio de informação relevante para a prossecução das respetivas atribuições.\n\n6 - A SG prossegue as seguintes atribuições no âmbito das relações internacionais e comunitárias, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros e de acordo com os objetivos definidos para a política externa portuguesa:\n\na) Apoiar a definição e a execução da política de relações internacionais e cooperação no âmbito do MAI, nomeadamente articulando as ações de cooperação em matéria de segurança interna e técnico-policial, política de imigração, fronteiras e asilo, proteção civil, segurança rodoviária e administração eleitoral, em particular com os países ou territórios de língua oficial portuguesa e no contexto da União Europeia;\n\nb) Assegurar a coordenação das relações externas e da política de cooperação entre todos os serviços e organismos do MAI;\n\nc) Estabelecer relações com entidades congéneres de outros países, designadamente aqueles com que Portugal tenha acordos de cooperação nas áreas de atribuições do MAI;\n\nd) Acompanhar e apoiar a política internacional do Estado Português nas áreas de atribuições do MAI, coordenando a representação do Ministério na negociação de convenções, acordos e tratados internacionais, protocolos e memorandos de entendimento de natureza bilateral ou multilateral e a participação e representação dos organismos do Ministério junto de organizações e organismos internacionais, bem como dos demais fóruns que, no plano internacional, se realizem na área da administração interna;\n\ne) Assegurar a coordenação e a ligação funcional e técnica com os oficiais de ligação do MAI junto das missões diplomáticas de Portugal, sem prejuízo das competências próprias dos respetivos chefes de missão;\n\nf) Coordenar a participação das forças e serviços de segurança do MAI em missões internacionais;\n\ng) Manter atualizado um sistema de informação sobre as disposições normativas vigentes constantes de diplomas internacionais e da União Europeia, com aplicação nas áreas de atribuições do MAI, bem como o arquivo e conservação dos instrumentos internacionais assinados no âmbito do MAI;\n\nh) Dar apoio às delegações internacionais presentes em Portugal para participar em iniciativas do Governo relativas à área da administração interna;\n\ni) Acompanhar a atividade das jurisdições internacionais e do Tribunal de Justiça da União Europeia nas questões relativas ao contencioso do Estado Português nas áreas de atribuições do MAI;\n\nj) Recolher e estudar as normas de direito internacional, de direito comparado e de direito da União Europeia nas áreas de atribuições do MAI;\n\nk) Assegurar a representação do Ministério na Comissão Interministerial para os Assuntos Europeus, na Comissão Nacional de Direitos Humanos, na Comissão Interministerial para a Cooperação e no secretariado permanente da Conferência dos Ministros da Administração Interna e da Segurança da Comunidade dos Países de Língua Portuguesa.\n\n7 - A SG prossegue as seguintes atribuições no âmbito da administração eleitoral:\n\na) Organizar e apoiar tecnicamente a execução dos referendos e dos atos eleitorais de âmbito nacional, regional, local e da União Europeia;\n\nb) Dirigir os escrutínios provisórios dos referendos e dos atos eleitorais;\n\nc) Assegurar o recenseamento eleitoral e receber e decidir as reclamações nesse âmbito apresentadas pelos cidadãos eleitores;\n\nd) Organizar, manter e gerir a base de dados central do recenseamento eleitoral;\n\ne) Assegurar a estatística do recenseamento e dos atos eleitorais e dos referendos, publicitando os respetivos resultados;\n\nf) Manter atualizado e disponibilizar ao público um sistema de informação dos resultados eleitorais e dos referendos;\n\ng) Organizar o registo dos cidadãos eleitos para os órgãos de soberania, das regiões autónomas e do poder local e para o Parlamento Europeu;\n\nh) Difundir informação pública sobre o sistema e os atos eleitorais e referendos;\n\ni) Emitir parecer técnico, na sequência de solicitação dos órgãos da administração eleitoral, demais intervenientes e interessados nos processos de recenseamento, eleitorais e referendários;\n\nj) Propor as medidas adequadas à participação dos cidadãos nos processos de recenseamento, eleitorais e referendários;\n\nk) Proceder a estudos em matéria eleitoral;\n\nl) Propor e organizar ações de formação para agentes e técnicos das entidades locais da administração eleitoral;\n\nm) Informar e dar parecer sobre matéria eleitoral;\n\nn) Cooperar com as administrações eleitorais de outros países, assegurar a realização de ações de assistência técnica e integrar missões de observação eleitoral, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros e de acordo com os objetivos definidos para a política externa portuguesa.\n\n8 - A SG prossegue as seguintes atribuições no âmbito da programação, gestão técnica, administrativa e financeira, execução e acompanhamento de programas e projetos com financiamentos comunitários e internacionais:\n\na) Assegurar, no âmbito do MAI, a programação e a gestão técnica, administrativa e financeira dos programas e fundos comunitários, bem como de outros financiamentos internacionais, no cumprimento de todas as normas e obrigações para o efeito estabelecidas pelos instrumentos relevantes;\n\nb) Organizar, publicitar e proceder à seleção, no âmbito do MAI, do acesso ao financiamento pelos fundos, bem como acompanhar a execução dos projetos cofinanciados e assegurar a apresentação dos relatórios necessários à avaliação anual e plurianual dos fundos;\n\nc) Coordenar as candidaturas e a gestão da aplicação dos mesmos fundos pelas forças de segurança e os serviços do MAI;\n\nd) Garantir a coerência e a complementaridade entre os cofinanciamentos dos fundos e destes com os previstos no âmbito de outros instrumentos financeiros nacionais e comunitários pertinentes.\n\n9 - A SG prossegue, designadamente, as seguintes atribuições no âmbito da gestão dos sistemas de informação e de comunicação do MAI:\n\na) Assegurar a gestão dos sistemas, no âmbito das tecnologias de informação e de comunicação, de utilização comum entre forças e serviços de segurança e demais serviços do MAI, garantindo os níveis de segurança adequados no acesso, comunicação e armazenamento da informação;\n\nb) Assegurar o planeamento, administração, produção e desenvolvimento, numa ótica de rentabilização, potenciação de eficácia e interoperabilidade, dos sistemas informáticos e de comunicações de todos os serviços do MAI, em articulação com os utilizadores dos diversos sistemas a quem presta apoio;\n\nc) Elaborar planos sectoriais de informática de acordo com os objetivos globais do MAI, colaborar na definição dos correspondentes sistemas de informação e em estudos e análise de custos informáticos;\n\nd) Promover a instalação e gerir, para uso partilhado, as comunicações com entidades externas ao MAI, velando pela sua eficácia e segurança;\n\ne) Executar todas as atividades relativas ao planeamento, administração e produção necessárias à gestão dos centros de dados que suportam os sistemas de informação centrais do MAI, garantindo a continuidade de serviço em situações de acidente ou catástrofe;\n\nf) Assegurar o bom funcionamento das infraestruturas de comunicação do MAI, com os melhores níveis de qualidade de serviço, garantindo o bom funcionamento dos serviços de rede, a todos os serviços do MAI, tanto de natureza operacional como de suporte;\n\ng) Assegurar o apoio técnico ao utilizador na área das tecnologias de informação e comunicações, bem como aos centros de dados do MAI e ao nível do Sistema Integrado das Redes de Emergência e Segurança de Portugal (SIRESP) e da Rede Nacional de Segurança Interna (RNSI), nomeadamente assegurando um centro de contacto que garanta um atendimento permanente e contínuo;\n\nh) Gerir e assegurar o bom funcionamento dos instrumentos de operacionalização do número europeu de emergência 112, em articulação com as forças de segurança, a Autoridade Nacional de Proteção Civil (ANPC) e o Instituto Nacional de Emergência Médica (INEM);\n\ni) Contribuir, em articulação com serviços tutelados por outros ministérios, para o reforço da segurança informática da Administração Pública;\n\nj) Gerir, controlar e acompanhar os projetos SIRESP e RNSI e os centros de dados, garantindo ainda a monitorização, os níveis de serviço, o apoio técnico e logístico aos utilizadores e o apoio logístico e administrativo necessário ao respetivo conselho de utilizadores, bem como de outros projetos que sejam considerados estruturantes para o bom funcionamento do MAI;\n\nk) Prestar consultoria técnica, planear, efetuar auditorias técnicas e certificação nas áreas de informática, telecomunicações e segurança dos sistemas de informação;\n\nl) Encarregar-se dos projetos de desenvolvimento e ou de investigação, próprios das áreas referidas na alínea anterior ou que lhe sejam expressamente cometidos;\n\nm) Apoiar, em matéria informática, os serviços congéneres da Comunidade dos Países de Língua Portuguesa, numa perspetiva de racionalização de meios, de integração dos serviços e de cooperação.\n\n10 - A SG assegura, nos termos da lei, o apoio administrativo e logístico integral, bem como a gestão administrativa do património afeto aos gabinetes dos membros do Governo do MAI, à Autoridade Nacional de Segurança Rodoviária (ANSR), às comissões, grupos de trabalho e outros organismos sem estrutura administrativa própria.\n\n11 - Para assegurar a prossecução das suas atribuições, a SG pode promover formas alargadas de parceria e de cooperação com outras entidades, nacionais ou estrangeiras, designadamente com universidades, centros de investigação e empresas de consultoria e de serviços de tradução.\n\n> Alterado pelo/a Artigo 168.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2014 - Diário da República n.º 132/2014, Série I de 2014-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2014-25345903), em vigor a partir de 2014-07-12\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 161-A/2013 - Diário da República n.º 233/2013, 1º Suplemento, Série I de 2013-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-a-2013-263689), em vigor a partir de 2013-12-03"
+  }
+ }
+}

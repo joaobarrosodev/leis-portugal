@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67507928:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-183962265",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-2015-67507928",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-06-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "183912696",
+    "183912697",
+    "183912698",
+    "183912699",
+    "183912700",
+    "183912701",
+    "183912702",
+    "183912703"
+   ]
+  },
+  {
+   "date": "2022-05-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:183941512:por",
+     "title": "Decreto Legislativo Regional n.º 11/2022/A",
+     "published": "2022-05-25",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/11-2022-183941512"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "183912696",
+    "183912697",
+    "183912705",
+    "183912699",
+    "183912700",
+    "183912701",
+    "183912702",
+    "183912703",
+    "183912704"
+   ]
+  }
+ ],
+ "fragments": {
+  "183912696": {
+   "fragment_id": "183962266",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 16/2015/A\n\nCria o Complemento Especial para o Doente Oncológico - CEDO\n\nA saúde constitui um dos pilares fundamentais de uma sociedade moderna. Os serviços e unidades de saúde, a que a generalidade dos cidadãos têm acesso, constituem um indicador essencial de civilização e desenvolvimento. Porém, a saúde é um setor difícil, sensível e de gestão complexa, ademais, numa região insular e arquipelágica como os Açores.\n\nNão obstante o esforço de modernização dos serviços de saúde, quer ao nível de instalações e equipamentos, bem como ao nível dos profissionais de saúde, continuam a ser necessárias deslocações de doentes a outras ilhas da Região, ao Continente e ao estrangeiro, sejam para consultas da especialidade, tratamentos, cirurgias ou exames complementares de diagnóstico.\n\nPara fazer face à necessidade e, muitas vezes, urgência destas deslocações, vigora na Região, desde meados da década de 90 do século passado, um regime de apoio aos doentes deslocados e seus acompanhantes que tem vindo a ser alterado ao longo dos anos.\n\nRecentemente, o Parlamento dos Açores aprovou, no âmbito do Plano e Orçamento da Região Autónoma dos Açores para o ano 2015, uma proposta que visou a criação do CEDO - Complemento Especial para o Doente Oncológico - que, pela sua importância social e pelo seu espírito de ajuda a quem mais precisa, é agora melhor regulamentado no quadro jurídico regional.\n\nNa prática, propõe-se a aprovação de um complemento que será dado aos doentes açorianos deslocados da sua ilha de residência, para efeitos de tratamentos oncológicos. Entende-se que as diárias dos doentes deslocados sejam majoradas especificamente para os doentes oncológicos.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "183912697": {
+   "fragment_id": "183962267",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma cria o Complemento Especial para o Doente Oncológico, adiante designado por CEDO."
+  },
+  "183912698": {
+   "fragment_id": "183962268",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\nBeneficiam do CEDO os utentes do Serviço Regional de Saúde com doença oncológica ativa até à sua remissão, encaminhados ao abrigo do programa de deslocação de doentes, para unidades de saúde fora da sua ilha de residência, para a realização de exames complementares de diagnóstico, tratamentos e consultas."
+  },
+  "183912699": {
+   "fragment_id": "183962269",
+   "type": 11,
+   "heading": "Artigo 3.º — Montantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montantes\n\n1 - Os beneficiários têm sempre direito a receber, por dia de deslocação, um CEDO no valor de vinte euros.\n\n2 - Os beneficiários têm sempre direito a deslocarem-se com acompanhante, tendo este direito a uma diária a atribuir nos termos do Regulamento de Deslocação de Doentes do Serviço Regional de Saúde.\n\n3 - Os montantes do CEDO referidos no n.º 1 são abonados ao beneficiário.\n\n4 - À partida da sua ilha de residência o beneficiário receberá um montante do CEDO correspondente a um terço do tempo estimado para a sua deslocação."
+  },
+  "183912700": {
+   "fragment_id": "183962270",
+   "type": 11,
+   "heading": "Artigo 4.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Encargos\n\nOs encargos decorrentes da aplicação deste diploma enquadram-se no disposto no artigo 37.º do Decreto Legislativo Regional n.º 1/2015/A, de 7 de janeiro, alterado pelo Decreto Legislativo Regional n.º 7/2015/A, de 26 de março, que aprova o Orçamento da Região Autónoma dos Açores para o ano 2015."
+  },
+  "183912701": {
+   "fragment_id": "183962271",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência\n\nA atribuição do CEDO compete ao departamento do Governo Regional com competência em matéria de Segurança Social, em termos a regulamentar."
+  },
+  "183912702": {
+   "fragment_id": "183962272",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\nO presente decreto legislativo regional deve ser regulamentado no prazo de trinta dias a contar da data da sua publicação."
+  },
+  "183912703": {
+   "fragment_id": "183962273",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto legislativo regional entra em vigor com o Orçamento da Região Autónoma dos Açores para o ano 2015."
+  },
+  "183912705": {
+   "fragment_id": "183962268",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": "2022-05-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 11/2022/A - Diário da República n.º 101/2022, Série I de 2022-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-183941512), em vigor a partir de 2022-05-26, produz efeitos a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\nBeneficiam do CEDO os utentes do Serviço Regional de Saúde com doença oncológica ativa até à sua remissão, os doentes candidatos a transplante e submetidos a transplante de órgãos até obtenção de alta clínica pela unidade de saúde que realizou o procedimento e todos os doentes cuja patologia implique deslocação frequente, de pelo menos três ou mais viagens no período de 12 meses até obtenção de alta clínica, encaminhados ao abrigo do programa de deslocação de doentes para unidades de saúde fora da sua ilha de residência, para a realização de exames complementares de diagnóstico, tratamentos e consultas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 11/2022/A - Diário da República n.º 101/2022, Série I de 2022-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2022-183941512), em vigor a partir de 2022-05-26, produz efeitos a partir de 2022-01-01"
+  },
+  "183912704": {
+   "fragment_id": "183962274",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de abril de 2015.\n\nA Presidente da Assembleia Legislativa, Ana Luísa Luís.\n\nAssinado em Angra do Heroísmo em 26 de maio de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  }
+ }
+}

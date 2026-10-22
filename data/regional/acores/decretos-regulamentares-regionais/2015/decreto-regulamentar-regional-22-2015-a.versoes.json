@@ -1,0 +1,389 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70832994:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2015-107114332",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/22-2015-70832994",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-10-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206166283",
+    "107118115",
+    "107118116",
+    "107118117",
+    "107118118",
+    "107118119",
+    "107118120",
+    "107118121",
+    "107118122",
+    "107118123",
+    "107118124",
+    "107118125",
+    "107118126",
+    "107118127",
+    "107118128",
+    "107118129",
+    "107118130",
+    "107118131",
+    "107118132",
+    "107118133",
+    "107118134",
+    "107118136"
+   ]
+  },
+  {
+   "date": "2017-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107114311:por",
+     "title": "Decreto Regulamentar Regional n.º 3/2017/A",
+     "published": "2017-06-01",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "107118114",
+    "107118115",
+    "107118116",
+    "107118170",
+    "107118171",
+    "107118119",
+    "107118172",
+    "107118173",
+    "107118174",
+    "107458775",
+    "107118124",
+    "107118125",
+    "107458776",
+    "107118127",
+    "107118128",
+    "107118129",
+    "107118130",
+    "107458777",
+    "107118132",
+    "107118133",
+    "107118168",
+    "107118169",
+    "107118135",
+    "107118136"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:206158536:por",
+     "title": "Decreto Regulamentar Regional n.º 1/2023/A",
+     "published": "2023-01-16",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/1-2023-206158536",
+     "date": "2022-12-31"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "206166283": {
+   "fragment_id": "107114333",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-12-31",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 22/2015/A\n\nCentral de Serviços partilhados da Ilha Graciosa\n\nO Programa do XI Governo Regional dos Açores estabelece como um dos seus desígnios a racionalização e eficiência da administração regional, através da operacionalização de medidas que visem a melhoria contínua do seu funcionamento e a otimização dos recursos disponíveis.\n\nUma das medidas identificadas é a «implementação de centrais de serviços partilhados tendo em conta as especificidades de cada ilha».\n\nA Resolução do Conselho do Governo n.º 81/2014, de 30 de abril, concretizou esta intenção, importando agora densificar este modelo.\n\nEm consonância com este enquadramento programático, o presente diploma constitui-se como um veículo na operacionalização de um novo modelo de organização e gestão dos serviços, já que, atendendo a uma realidade geográfica específica, concentra competências transversais aos vários serviços aí existentes numa só estrutura funcional, abrindo espaço para que estes se concentrem verdadeiramente no seu core business.\n\nA criação desta nova entidade possibilita o apetrechamento da administração pública regional, aí sediada, de recursos humanos com competências técnicas até agora difíceis de justificar e colmatar dada a reduzida dimensão dos vários serviços existentes e permite aproximar os processos de decisão, em matéria de gestão de recursos humanos e materiais, à realidade de ilha, isto sem prejuízo da necessária articulação que deve existir entre a central e os responsáveis dos diversos serviços existentes, no respeito pelas competências que legalmente lhes estão atribuídas.\n\nNeste sentido, procede-se à criação de uma central de serviços partilhados na Ilha Graciosa, com vista à gestão centralizada e integrada de toda a informação relativa:\n\n. Aos recursos humanos do Quadro Regional da Ilha Graciosa, englobando todos os trabalhadores, independentemente da modalidade de relação jurídica de emprego pública estabelecida, bem como os trabalhadores em outras modalidades de emprego;\n\n. À organização e uniformização das compras públicas e à aquisição e manutenção de bens e serviços comuns a todos serviços dotados de autonomia administrativa, localizados na Ilha Graciosa.\n\nAssim, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa e da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "107118115": {
+   "fragment_id": "107114334",
+   "type": 1,
+   "heading": "Capítulo I — Objeto, âmbito e natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto, âmbito e natureza"
+  },
+  "107118116": {
+   "fragment_id": "107114335",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma cria a Central de Serviços partilhados da Ilha Graciosa."
+  },
+  "107118117": {
+   "fragment_id": "107114336",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA Central de Serviços partilhados da Ilha Graciosa gere de forma centralizada e integrada:\n\na) Os recursos humanos do Quadro Regional da Ilha Graciosa, englobando todos os trabalhadores, independentemente da modalidade de relação jurídica de emprego pública estabelecida, bem como os trabalhadores em outras modalidades de emprego;\n\nb) A aquisição e manutenção de bens e serviços comuns a todos serviços públicos regionais dotados de autonomia administrativa, localizados na Ilha Graciosa, integrando, igualmente, a gestão operacional e administrativa de todo o parque automóvel e maquinaria pesada."
+  },
+  "107118118": {
+   "fragment_id": "107114337",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza\n\n1 - A Central de Serviços partilhados da Ilha Graciosa possui autonomia administrativa, nos termos da lei.\n\n2 - A Central de Serviços partilhados da Ilha Graciosa depende do membro do Governo Regional com competências em matéria de administração pública.\n\n3 - A coordenação, orientação e avaliação do funcionamento da Central de Serviços partilhados da Ilha Graciosa, nos diferentes domínios de gestão, compete à direção regional com competências em matéria de organização e administração pública.\n\n4 - Para efeitos de avaliação do desempenho, os trabalhadores da Central de Serviços partilhados da Ilha Graciosa a desempenhar funções nesse serviço são considerados no âmbito da Unidade de Medida a Contabilizar com competências em matéria de organização e administração pública."
+  },
+  "107118119": {
+   "fragment_id": "107114338",
+   "type": 1,
+   "heading": "Capítulo II — Coordenação e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Coordenação e competências"
+  },
+  "107118120": {
+   "fragment_id": "107114339",
+   "type": 11,
+   "heading": "Artigo 4.º — Coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Coordenação\n\n1 - A Central de Serviços partilhados da Ilha Graciosa é dirigida por um coordenador, equiparado para efeitos remuneratórios a diretor de serviços, cargo de direção intermédia de 1.º grau, recrutado por livre escolha do membro do Governo Regional com competências em matéria de administração pública, de entre indivíduos de reconhecido mérito e competência na área, detentores de licenciatura.\n\n2 - O coordenador é provido em regime de comissão de serviço, pelo período de três anos, renovável, aplicando-se-lhe, com as necessárias adaptações, o disposto nos artigos 3.º a 5.º, 13.º a 17.º, 23.º, n.º 1, e 24.º a 34.º do Estatuto do Pessoal Dirigente, previsto na Lei n.º 2/2004, de 15 de janeiro, na sua redação atual, adaptada à Região pelo Decreto Legislativo Regional n.º 2/2005/A, de 9 de maio."
+  },
+  "107118121": {
+   "fragment_id": "107114340",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências do Coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências do Coordenador\n\n1 - Compete ao Coordenador:\n\na) Definir as diretrizes orientadoras da gestão e funcionamento da Central de Serviços partilhados da Ilha Graciosa e assegurar o seu cumprimento;\n\nb) Elaborar o plano anual de atividades e o orçamento;\n\nc) Elaborar o plano plurianual e respetivo orçamento previsional;\n\nd) Aprovar o Regulamento interno da Central de Serviços partilhados da Ilha Graciosa;\n\ne) Avaliar sistematicamente o desempenho global da Central de Serviços partilhados da Ilha Graciosa;\n\nf) Submeter à aprovação do membro do Governo Regional com competências em matéria de administração pública os projetos de regulamentação necessários à atividade da Central de Serviços partilhados da Ilha Graciosa que não possam por si ser aprovados;\n\ng) Elaborar as propostas de tipologias de serviços a prestar pela Central de Serviços partilhados da Ilha Graciosa e submetê-las à aprovação do membro do Governo Regional com competências em matéria de administração pública;\n\nh) Celebrar protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades, que visem atingir os seus objetivos, mediante aprovação prévia do membro do Governo Regional com competências em matéria de administração pública.\n\n2 - Compete, em especial, ao coordenador assegurar a articulação entre a Central de Serviços partilhados da Ilha Graciosa e os serviços da administração pública regional da Ilha Graciosa."
+  },
+  "107118122": {
+   "fragment_id": "107114341",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências na Gestão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências na Gestão de Recursos Humanos\n\nNa área de gestão dos recursos humanos, são exercidas as seguintes competências:\n\na) Dirigir e coordenar os recursos humanos da Central de Serviços partilhados da Ilha Graciosa, assim como afetar trabalhadores integrados em carreiras comuns, aos diversos serviços da administração regional aí sediados, em articulação com os respetivos dirigentes;\n\nb) Assegurar a gestão integrada do pessoal afeto ao Quadro Regional de Ilha da Graciosa;\n\nc) Organizar o projeto de orçamento de pessoal, de acordo com as propostas dos respetivos serviços e controlar a sua execução;\n\nd) Elaborar o plano de gestão previsional dos recursos humanos;\n\ne) Elaborar as propostas de alteração orçamental e de transferências de verbas dentro do orçamento da central de serviços;\n\nf) Assegurar o processamento das despesas resultantes da execução orçamental;\n\ng) Transmitir aos serviços sediados na Ilha Graciosa abrangidos pelo presente diploma a política definida para a administração regional em matéria de pessoal;\n\nh) Avaliar as necessidades globais, em matéria de pessoal, dos serviços da administração na Ilha Graciosa, propondo as medidas adequadas à sua satisfação;\n\ni) Promover e assegurar os processos de concurso e de mobilidade do pessoal e avaliar os seus resultados;\n\nj) Pronunciar-se sobre os pedidos de recrutamento de pessoal solicitados pelos respetivos serviços e executar as ações referentes ao recrutamento, gestão corrente e mobilidade do pessoal;\n\nk) Organizar e manter atualizado o cadastro de todo o pessoal do Quadro Regional de Ilha;\n\nl) Efetuar as operações de controlo da assiduidade e pontualidade do pessoal de todos os serviços da Ilha Graciosa;\n\nm) Introduzir e manter devidamente atualizado o registo de faltas e licenças, alterações de posicionamento remuneratório, processos disciplinares, louvores e outras situações de pessoal, promovendo a verificação de situações de doença e de acidentes em serviço, a organização dos respetivos processos, a prestação de assistência aos sinistrados e quaisquer outras diligências necessárias em articulação com os respetivos serviços;\n\nn) Aceder via browser e proceder mensalmente ao carregamento na plataforma informática SIGRHARA das remunerações, abonos, horas extraordinárias, subsídios, ajudas de custos e quaisquer outros encargos relativos a pessoal, dos serviços da Ilha Graciosa;\n\no) Efetuar a validação e autorizar os respetivos documentos de despesa, enviando-os para as entidades competentes, designadamente para os serviços de contabilidade pública, Caixa Geral de Aposentações, Segurança Social, ADSE e sindicatos;\n\np) Assegurar os procedimentos administrativos relacionados com as deslocações em serviço;\n\nq) Executar as demais ações relativas à administração e gestão de pessoal;\n\nr) Propor as medidas consideradas necessárias em matéria de formação ao pessoal do Quadro Regional de Ilha, em articulação com os serviços da Ilha Graciosa;\n\ns) Coordenar e apoiar a formação do pessoal, nos termos da lei, e estabelecer prioridades de formação decorrentes das necessidades existentes, em articulação com os respetivos serviços;\n\nt) Estudar medidas que visem o aperfeiçoamento da gestão de recursos humanos na Ilha Graciosa;\n\nu) Elaborar os pareceres e informações que lhe forem solicitados sobre os assuntos referentes a pessoal;\n\nv) Coordenar, acompanhar e propor os procedimentos necessários à correta aplicação e ao desenvolvimento do sistema de avaliação do desempenho do pessoal em articulação com os serviços da Ilha Graciosa, em particular na ponderação curricular e comissão paritária e questões conexas;\n\nw) Assegurar a receção e expedição da correspondência e documentação, referente ao funcionamento do serviço."
+  },
+  "107118123": {
+   "fragment_id": "107114342",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências na aquisição e manutenção de bens e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências na aquisição e manutenção de bens e serviços\n\nNa área de aquisição e manutenção de bens e serviços, são exercidas as seguintes competências:\n\na) Dirigir e coordenar a aquisição e manutenção de bens e serviços da Ilha Graciosa;\n\nb) Organizar o projeto de orçamento, de acordo com as propostas dos serviços, e controlar a sua execução;\n\nc) Elaborar as propostas de alteração orçamental e de transferências de verbas dentro do orçamento da Central de Serviços partilhados da Ilha Graciosa;\n\nd) Assegurar o processamento das despesas resultantes da execução orçamental;\n\ne) Processar e validar as despesas com aquisição de bens e serviços;\n\nf) Controlar as contas correntes relativas a fornecedores e quaisquer outras entidades;\n\ng) Coordenar, gerir e efetuar de forma centralizada os procedimentos necessários à contratação pública da aquisição de bens e serviços em articulação com os serviços da administração regional da Ilha Graciosa;\n\nh) Executar as operações administrativas relacionadas com a aquisição de bens e serviços e com a alienação de quaisquer bens;\n\ni) Assegurar as operações contabilísticas, relativas à aquisição e manutenção de bens e serviços dos serviços da Ilha Graciosa;\n\nj) Assegurar a gestão de stocks de bens comuns;\n\nk) Administrar e assegurar a gestão do parque automóvel e maquinaria pesada e a coordenação dos meios afetos;\n\nl) Assegurar e orientar a reparação e manutenção dos veículos, quer o assegurado internamente quer os adjudicados a empresas;\n\nm) Estudar e propor as alterações ao parque automóvel de acordo com as necessidades dos respetivos serviços;\n\nn) Propor a aquisição e atribuição de veículos aos serviços da Ilha Graciosa, em conformidade com as disponibilidades financeiras, e as linhas orientadores de uso, fiscalização, manutenção e reparação de veículos;\n\no) Proceder à análise regular dos equipamentos, dos serviços, e propor medidas que se julguem adequadas tendo em vista a otimização dos recursos existentes;\n\np) Organizar e manter atualizado o cadastro dos bens móveis e imóveis;\n\nq) Promover, acompanhar e verificar as atividades de segurança, limpeza, manutenção e reparação das instalações e equipamentos;\n\nr) Assegurar a instrução dos processos de arrendamento;\n\ns) Verificar a legalidade das despesas e autorizar o seu pagamento;\n\nt) Assegurar a receção e expedição da correspondência e documentação, referente ao funcionamento do serviço;\n\nu) Executar as demais tarefas que lhe sejam superiormente determinadas."
+  },
+  "107118124": {
+   "fragment_id": "107114343",
+   "type": 1,
+   "heading": "Capítulo III — Despesas e gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Despesas e gestão orçamental"
+  },
+  "107118125": {
+   "fragment_id": "107114344",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas\n\nConstituem despesas, e desde que orçamentalmente dotadas, da Central de Serviços partilhados da Ilha Graciosa, os encargos com o seu funcionamento e com a prossecução das suas atribuições e competências."
+  },
+  "107118126": {
+   "fragment_id": "107114345",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gestão orçamental\n\nA gestão orçamental da Central de Serviços partilhados da Ilha Graciosa está sujeita a regras definidas nos termos da legislação em vigor e aos princípios orientadores do membro do Governo Regional com competências em matéria de administração pública."
+  },
+  "107118127": {
+   "fragment_id": "107114346",
+   "type": 1,
+   "heading": "Capítulo IV — Competências dos serviços da administração pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Competências dos serviços da administração pública regional"
+  },
+  "107118128": {
+   "fragment_id": "107114347",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências dos serviços\n\n1 - Compete aos serviços da administração pública regional da Ilha Graciosa:\n\na) Colaborar com a Central de Serviços partilhados da Ilha Graciosa;\n\nb) Autorizar e efetuar a validação das faltas, dos recursos humanos que lhe estão afetos, acedendo, via browser, ao SIGRHARA;\n\nc) Comunicar à Central de Serviços partilhados da Ilha Graciosa, com a devida antecedência, a necessidade de utilização de viatura;\n\nd) Zelar por todo o equipamento que lhe for afeto, e proporcionar boas condições de utilização;\n\ne) Articular com a Central de Serviços partilhados da Ilha Graciosa a planificação das necessidades de recursos humanos, nos moldes e periodicidade que vierem a ser definidos por esta;\n\nf) Enviar informação de compras à Central de Serviços partilhados da Ilha Graciosa, nos moldes e na periodicidade que vierem a ser definidos por aquele serviço.\n\n2 - É da inteira responsabilidade dos serviços a autorização e validação, prevista na alínea b) do número anterior."
+  },
+  "107118129": {
+   "fragment_id": "107114348",
+   "type": 11,
+   "heading": "Artigo 11.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Quadro de pessoal\n\n1 - O pessoal afeto à Central de Serviços partilhados da Ilha Graciosa consta do Quadro Regional da Ilha Graciosa.\n\n2 - O lugar de coordenador é o constante do anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "107118130": {
+   "fragment_id": "107114349",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "107118131": {
+   "fragment_id": "107114350",
+   "type": 11,
+   "heading": "Artigo 12.º — Transferência de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Transferência de competências\n\n1 - As competências em matéria de recursos humanos e aquisição de bens e serviços, a que se refere o presente diploma e que estão a ser exercidas pelos serviços públicos regionais dotados de autonomia administrativa, localizados na Ilha Graciosa, transitam para a Central de Serviços partilhados da Ilha Graciosa.\n\n2 - As competências a que alude o número anterior, que estão a ser exercidas centralmente pelos organismos tutelares ou outros, são mantidas transitoriamente até à sua afetação à Central de Serviços partilhados da Ilha Graciosa, mediante despacho do membro do Governo Regional que tutela a área das finanças e administração pública."
+  },
+  "107118132": {
+   "fragment_id": "107114351",
+   "type": 11,
+   "heading": "Artigo 13.º — Reestruturação, reorganização e integração de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reestruturação, reorganização e integração de serviços\n\nA criação da Central de Serviços partilhados da Ilha Graciosa não prejudica a eventual reestruturação, reorganização e integração de serviços da administração pública regional, sediados na Ilha Graciosa, a efetivar mediante diploma próprio."
+  },
+  "107118133": {
+   "fragment_id": "107114352",
+   "type": 11,
+   "heading": "Artigo 14.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transição de pessoal\n\n1 - O pessoal integrado em carreiras comuns transita para a Central de Serviços partilhados da Ilha Graciosa, através de lista nominativa, considerando-se aqueles trabalhadores afetos aos serviços da administração regional da Ilha Graciosa nos quais vêm desempenhando funções.\n\n2 - Para o desenvolvimento da sua atividade, a Central de Serviços partilhados da Ilha Graciosa afetará os recursos humanos julgados como necessários, de entre os constantes da lista a que se refere o n.º 1."
+  },
+  "107118134": {
+   "fragment_id": "107114353",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107118136": {
+   "fragment_id": "107114355",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal a que se refere o n.º 2 do artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de pessoal a que se refere o n.º 2 do artigo 11.º\n\n(ver documento original)"
+  },
+  "107118114": {
+   "fragment_id": "107114333",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 22/2015/A\n\nCentral de Serviços partilhados da Ilha Graciosa\n\nO Programa do XI Governo Regional dos Açores estabelece como um dos seus desígnios a racionalização e eficiência da administração regional, através da operacionalização de medidas que visem a melhoria contínua do seu funcionamento e a otimização dos recursos disponíveis.\n\nUma das medidas identificadas é a «implementação de centrais de serviços partilhados tendo em conta as especificidades de cada ilha».\n\nA Resolução do Conselho do Governo n.º 81/2014, de 30 de abril, concretizou esta intenção, importando agora densificar este modelo.\n\nEm consonância com este enquadramento programático, o presente diploma constitui-se como um veículo na operacionalização de um novo modelo de organização e gestão dos serviços, já que, atendendo a uma realidade geográfica específica, concentra competências transversais aos vários serviços aí existentes numa só estrutura funcional, abrindo espaço para que estes se concentrem verdadeiramente no seu core business.\n\nA criação desta nova entidade possibilita o apetrechamento da administração pública regional, aí sediada, de recursos humanos com competências técnicas até agora difíceis de justificar e colmatar dada a reduzida dimensão dos vários serviços existentes e permite aproximar os processos de decisão, em matéria de gestão de recursos humanos e materiais, à realidade de ilha, isto sem prejuízo da necessária articulação que deve existir entre a central e os responsáveis dos diversos serviços existentes, no respeito pelas competências que legalmente lhes estão atribuídas.\n\nNeste sentido, procede-se à criação de uma central de serviços partilhados na Ilha Graciosa, com vista à gestão centralizada e integrada de toda a informação relativa:\n\n. Aos recursos humanos do Quadro Regional da Ilha Graciosa, englobando todos os trabalhadores, independentemente da modalidade de relação jurídica de emprego pública estabelecida, bem como os trabalhadores em outras modalidades de emprego;\n\n. À organização e uniformização das compras públicas e à aquisição e manutenção de bens e serviços comuns a todos serviços dotados de autonomia administrativa, localizados na Ilha Graciosa.\n\nAssim, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa e da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "107118170": {
+   "fragment_id": "107114336",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2017-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA Central de Serviços partilhados da Ilha Graciosa gere de forma centralizada e integrada:\n\na) Os recursos humanos do Quadro Regional da Ilha Graciosa e ainda todos os trabalhadores, independentemente da modalidade de relação jurídica de emprego público estabelecida, bem como os trabalhadores em outras modalidades de emprego;\n\nb) A aquisição e manutenção de bens e serviços comuns a todos serviços públicos regionais dotados de autonomia administrativa, localizados na Ilha Graciosa, integrando, igualmente, a gestão operacional e administrativa de todo o parque automóvel e maquinaria pesada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+  },
+  "107118171": {
+   "fragment_id": "107114337",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza",
+   "in_force_from": "2017-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+   ],
+   "markdown": "###### Artigo 3.º — Natureza\n\n1 - A Central de Serviços partilhados da Ilha Graciosa possui autonomia administrativa, nos termos da lei.\n\n2 - A Central de Serviços partilhados da Ilha Graciosa depende do membro do Governo Regional com competências em matéria de administração pública.\n\n3 - O apoio técnico e a avaliação do funcionamento da Central de Serviços Partilhados da Ilha Graciosa, nos diferentes domínios de gestão, compete à direção regional com competências em matéria de organização e administração pública.\n\n4 - Para efeitos de avaliação do desempenho, os trabalhadores a desempenhar funções inerentes à Central de Serviços Partilhados da Ilha Graciosa são considerados na Unidade de Medida a Contabilizar - Serviços diretamente dependentes do membro do Governo Regional com competências em matéria de administração pública.\n\n5 - Os restantes trabalhadores a desempenhar funções nos diversos serviços abrangidos pelo presente diploma são considerados na Unidade de Medida a Contabilizar dos respetivos serviços ou tutelas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+  },
+  "107118172": {
+   "fragment_id": "107114339",
+   "type": 11,
+   "heading": "Artigo 4.º — Coordenação",
+   "in_force_from": "2017-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+   ],
+   "markdown": "###### Artigo 4.º — Coordenação\n\n1 - A Central de Serviços Partilhados da Ilha Graciosa é dirigida por um coordenador equiparado, para todos os efeitos legais, a diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n2 - [Revogado].\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+  },
+  "107118173": {
+   "fragment_id": "107114340",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências do Coordenador",
+   "in_force_from": "2017-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+   ],
+   "markdown": "###### Artigo 5.º — Competências do Coordenador\n\n1 - Compete ao Coordenador:\n\na) Definir as diretrizes orientadoras da gestão e funcionamento da Central de Serviços partilhados da Ilha Graciosa e assegurar o seu cumprimento;\n\nb) Elaborar o plano anual de atividades e o orçamento;\n\nc) Elaborar o plano plurianual e respetivo orçamento previsional;\n\nd) Aprovar o Regulamento interno da Central de Serviços partilhados da Ilha Graciosa;\n\ne) Avaliar sistematicamente o desempenho global da Central de Serviços partilhados da Ilha Graciosa;\n\nf) Submeter à aprovação do membro do Governo Regional com competências em matéria de administração pública os projetos de regulamentação necessários à atividade da Central de Serviços partilhados da Ilha Graciosa que não possam por si ser aprovados;\n\ng) Elaborar as propostas de tipologias de serviços a prestar pela Central de Serviços partilhados da Ilha Graciosa e submetê-las à aprovação do membro do Governo Regional com competências em matéria de administração pública;\n\nh) Celebrar protocolos de colaboração ou de apoio e contratos de prestação de serviços com outras instituições, públicas e privadas, no âmbito das suas atividades, que visem atingir os seus objetivos, mediante aprovação prévia do membro do Governo Regional com competências em matéria de administração pública.\n\n2 - Compete, em especial, ao Coordenador:\n\na) Assegurar a articulação entre a Central de Serviços Partilhados da Ilha Graciosa e os serviços da administração pública regional, abrangidos pelo presente diploma;\n\nb) Promover a articulação com a direção regional com competências em matéria de organização e administração pública, para que seja garantido o exercício das competências a que se refere o artigo 3.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+  },
+  "107118174": {
+   "fragment_id": "107114341",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências na Gestão de Recursos Humanos",
+   "in_force_from": "2017-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+   ],
+   "markdown": "###### Artigo 6.º — Competências na Gestão de Recursos Humanos\n\nNa área de gestão dos recursos humanos, são exercidas as seguintes competências:\n\na) Dirigir e coordenar os recursos humanos da Central de Serviços partilhados da Ilha Graciosa, assim como afetar trabalhadores integrados em carreiras comuns, aos diversos serviços da administração regional aí sediados, em articulação com os respetivos dirigentes;\n\nb) Assegurar a gestão integrada do pessoal a que se refere a alínea a) do artigo 2.º;\n\nc) Organizar o projeto de orçamento de pessoal, de acordo com as propostas dos respetivos serviços e controlar a sua execução;\n\nd) Elaborar o plano de gestão previsional dos recursos humanos;\n\ne) Elaborar as propostas de alteração orçamental e de transferências de verbas dentro do orçamento da Central de Serviços Partilhados da Ilha Graciosa;\n\nf) Assegurar o processamento das despesas resultantes da execução orçamental;\n\ng) Transmitir aos serviços sediados na Ilha Graciosa a política definida para a administração regional em matéria de pessoal;\n\nh) [Revogada];\n\ni) [Revogada];\n\nj) [Revogada];\n\nk) Organizar e manter atualizado o cadastro do pessoal a que se refere a alínea a) do artigo 2.º;\n\nl) [Revogada];\n\nm) [Revogada];\n\nn) Aceder via browser e proceder mensalmente ao carregamento na plataforma informática SIGRHARA das remunerações, abonos, horas extraordinárias, subsídios, ajudas de custos e quaisquer outros encargos relativos a pessoal, dos serviços da Ilha Graciosa;\n\no) Efetuar a validação e autorizar os respetivos documentos de despesa, enviando-os para as entidades competentes;\n\np) Assegurar os procedimentos administrativos relacionados com as deslocações em serviço;\n\nq) Executar as demais ações relativas à administração e gestão de pessoal;\n\nr) Propor, coordenar e apoiar medidas consideradas necessárias em matéria de formação ao pessoal do Quadro Regional de Ilha em articulação com os serviços da ilha Graciosa;\n\ns) [Revogada];\n\nt) Estudar medidas que visem o aperfeiçoamento da gestão de recursos humanos na Ilha Graciosa;\n\nu) Elaborar os pareceres e informações que lhe forem solicitados sobre os assuntos referentes a pessoal;\n\nv) [Revogada];\n\nw) Assegurar a receção e expedição da correspondência e documentação, referente ao funcionamento do serviço.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+  },
+  "107458775": {
+   "fragment_id": "107114342",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências na aquisição e manutenção de bens e serviços",
+   "in_force_from": "2017-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+   ],
+   "markdown": "###### Artigo 7.º — Competências na aquisição e manutenção de bens e serviços\n\nNa área de aquisição e manutenção de bens e serviços, são exercidas as seguintes competências:\n\na) Dirigir e coordenar a aquisição e manutenção de bens e serviços da Ilha Graciosa;\n\nb) Organizar o projeto de orçamento, atendendo às necessidades dos serviços a que se refere a alínea b) do artigo 2.º, e controlar a sua execução;\n\nc) Elaborar as propostas de alteração orçamental e de transferências de verbas dentro do orçamento da Central de Serviços partilhados da Ilha Graciosa;\n\nd) Assegurar o processamento das despesas resultantes da execução orçamental;\n\ne) Processar e validar as despesas com aquisição de bens e serviços;\n\nf) Controlar as contas correntes relativas a fornecedores e quaisquer outras entidades;\n\ng) Coordenar, gerir e efetuar de forma centralizada os procedimentos necessários à contratação pública da aquisição de bens e serviços em articulação com os serviços a que se refere a alínea b) do artigo 2.º;\n\nh) Executar as operações administrativas relacionadas com a aquisição de bens e serviços e com a alienação de quaisquer bens;\n\ni) Assegurar as operações contabilísticas, relativas à aquisição e manutenção de bens e serviços dos serviços a que se refere a alínea b) do artigo 2.º;\n\nj) Assegurar a gestão de stocks de bens comuns;\n\nk) Administrar e assegurar a gestão do parque automóvel e maquinaria pesada e a coordenação dos meios afetos;\n\nl) Assegurar e orientar a reparação e manutenção dos veículos, quer o assegurado internamente quer os adjudicados a empresas;\n\nm) [Revogada];\n\nn) [Revogada];\n\no) Proceder à análise regular dos equipamentos, dos serviços da administração pública regional, e propor medidas que se julguem adequadas tendo em vista a otimização dos recursos existentes;\n\np) Organizar e manter atualizado o cadastro dos bens móveis e imóveis;\n\nq) Promover, acompanhar e verificar as atividades de segurança, limpeza, manutenção e reparação das instalações e equipamentos;\n\nr) Assegurar a instrução dos processos de arrendamento;\n\ns) Verificar a legalidade das despesas e autorizar o seu pagamento;\n\nt) Assegurar a receção e expedição da correspondência e documentação, referente ao funcionamento do serviço;\n\nu) Executar as demais tarefas que lhe sejam superiormente determinadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+  },
+  "107458776": {
+   "fragment_id": "107114345",
+   "type": 11,
+   "heading": "Artigo 9.º — Gestão orçamental",
+   "in_force_from": "2017-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+   ],
+   "markdown": "###### Artigo 9.º — Gestão orçamental\n\nA gestão orçamental da Central de Serviços Partilhados da Ilha Graciosa está sujeita a regras definidas nos termos da legislação em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+  },
+  "107458777": {
+   "fragment_id": "107114350",
+   "type": 11,
+   "heading": "Artigo 12.º — Transferência de competências",
+   "in_force_from": "2017-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+   ],
+   "markdown": "###### Artigo 12.º — Transferência de competências\n\nTransitam para a Central de Serviços Partilhados da Ilha Graciosa, mediante despacho do membro do Governo Regional com competências em matéria de finanças e administração pública:\n\na) As competências a que se refere o artigo 6.º, que estão a ser exercidas pelos serviços localizados na ilha Graciosa;\n\nb) As competências a que se refere o artigo 7.º, que estão a ser exercidas pelos serviços a que se refere a alínea b) do artigo 2.º;\n\nc) De entre as competências previstas nas alíneas anteriores, as exercidas centralmente pelos organismos tutelares ou outros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+  },
+  "107118168": {
+   "fragment_id": "107458688",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Ciclo de despesa",
+   "in_force_from": "2017-06-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+   ],
+   "markdown": "###### Artigo 14.º-A — Ciclo de despesa\n\nCabe à direção regional com competência em matéria de organização e administração pública assegurar todos os processos de despesa e respetivos pagamentos efetuados e a efetuar pela Central de Serviços Partilhados da Ilha Graciosa desde a data da sua criação e enquanto esta não tiver dirigente provido e não for dotada de orçamento.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 3/2017/A - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2017-107114311), em vigor a partir de 2017-06-02"
+  },
+  "107118169": {
+   "fragment_id": "107114353",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107118135": {
+   "fragment_id": "107114354",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 7 de setembro de 2015.\n\nO Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.\n\nAssinado em Angra do Heroísmo em 1 de outubro de 2015.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  }
+ }
+}

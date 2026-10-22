@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:445753:por
+title: Portaria n.º 156/71
+short_title: null
+summary: Insere disposições relativas à verificação de óbito, para efeito de colheita, no corpo de pessoa falecida, de tecidos
+  ou órgãos considerados necessários para fins terapêuticos ou científicos, de acordo com o preceituado no Decreto-Lei n.º
+  45683
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Justiça e da Saúde e Assistência
+proposing_entity: null
+official_number: 156/71
+official_date: null
+publication_date: '1971-03-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 70/1971, Série I de 1971-03-24
+  number: '70'
+  series: I
+  supplement: null
+  pages: 377 - 378
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/03/07000/03770378.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '445753'
+  dre_path: /dr/detalhe/portaria/156-1971-445753
+  internal: pt:dre:445753:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-1971-445753
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/156-1971-445753
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-07-13T00:00:00Z'
+integrity:
+  source_sha256: a4ffc22c97bcb4be156b08314b41bd598d393242adeecb80353681c05116b216
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-156-445753.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:430427:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 156/71
+
+de 24 de Março
+
+No artigo 10.º do [Decreto-Lei n.º 45683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45683-1964-472294), de 25 de Abril de 1964, estabeleceu-se que a verificação do óbito, quando haja de efectuar-se colheita de tecidos ou órgãos no corpo de pessoas falecidas, para fins científicos ou terapêuticos, deverá ser feita de harmonia com as regras de semiologia médico-legal que forem definidas pelos Ministros da Justiça e da Saúde e Assistência.
+
+Se bem que as hipóteses abrangidas naquele diploma já não contemplem todos os casos que é necessário prever e regular - o que determinou a necessidade da sua revisão, actualmente em curso - ,torna-se, porém, urgente a alteração da [Portaria n.º 20688](https://diariodarepublica.pt/dr/detalhe/portaria/20688-1964-578708), de 17 de Julho de 1964, publicada em obediência ao disposto no referido artigo.
+
+Na verdade, as regras ali definidas baseiam-se no reconhecimento, como critério de morte, da interrupção permanente das funções cárdio-circulatórias.
+
+Contudo, se, na maioria dos casos, a paragem circulatória caracteriza fielmente a terminação da vida, os progressos verificados nos últimos anos, nas técnicas de reanimação respiratória e cárdio-circulatória, demonstraram que é possível manter-se a irrigação sanguínea de alguns órgãos e tecidos, mesmo quando o sistema nervoso central sofreu lesões irreversíveis, incompatíveis com a vida humana.
+
+Torna-se, pois, necessário determinar com rigor a fase de irreversibilidade das lesões destrutivas sofridas pelo sistema nervoso central dos doentes submetidos a técnicas de reanimação, uma vez que para estes deixou de ser satisfatória a utilização das regras enunciadas naquela portaria para certificação do estado de morte.
+
+Porque essas regras mantêm a sua actualidade em todos os demais casos, bem poderia usar-se do processo de manter em vigor a [Portaria n.º 20688](https://diariodarepublica.pt/dr/detalhe/portaria/20688-1964-578708), tratando em novo diploma as hipóteses que, agora, necessitam de ser contempladas.
+
+Entende-se, no entanto, preferível refundir num único texto as regras aplicadas à verificação do óbito para efeitos de colheita de órgãos ou tecidos no corpo de pessoas falecidas.
+
+A presente portaria visa tão-sòmente indicar as regras que, em face dos conhecimentos científicos actuais, devem ser obrigatòriamente tidas como indispensáveis na verificação precoce de um óbito ou na verificação de um óbito em circunstâncias especiais, e não pretende definir legalmente o momento da morte.
+
+Nestes termos, ouvida a Ordem dos Médicos:
+
+Em execução do artigo 10.º do [Decreto-Lei n.º 45683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45683-1964-472294), de 25 de Abril de 1964:
+
+Manda o Governo da República Portuguesa, pelos Ministros da Justiça e da Saúde e Assistência:
+
+1.º A verificação de óbito, para efeito de colheita, no corpo de pessoa falecida, de tecidos ou órgãos considerados necessários para fins terapêuticos ou científicos, de acordo com o preceituado no [Decreto-Lei n.º 45683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45683-1964-472294), de 25 de Abril de 1964, obedecerá ao disposto nos números seguintes.
+
+2.º Tratando-se de pessoa não submetida a técnicas de reanimação, colhidos que foram, prèviamente, os sinais de presunção de morte, proceder-se-á, obrigatóriamente, e para obtenção de sinais seguros de morte, à pesquisa da ausência de oscilações à electrocardiografia e à arteriotomia radial esquerda, podendo esta última ser substituída pela verificação da invisibilidade dos capilares retinianos ou pela tanatognose angiográfica.
+
+3.º A colheita de sinais seguros de morte, nos termos do número anterior, deverá obedecer aos seguintes requisitos:
+
+a) Quanto à electrocardiografia, ausência sem interrupção, de oscilações durante o período mínimo de dez minutos;
+
+b) Quanto à arteriotomia e à tanatognose angiográfica, devem as provas ser executadas como se se tratasse de seres vivos e com os necessários cuidados de assepsia.
+
+4.º Na verificação do óbito de doentes submetidos a técnicas de reanimação observar-se-ão as seguintes regras clínicas e instrumentais:
+
+a) Análise sistemática e rigorosa dos dados anamnésicos e circunstanciais;
+
+b) Verificação de manutenção inteiramente artificial da respiração;
+
+c) Verificação de abolição total dos reflexos psico-sensoriais, hipotonia completa e midríase;
+
+d) Desaparecimento de todos os sinais de actividade electroencefalográfica (pesquisada com amplificação máxima), traçado isoeléctrico, sem reactividade aos estímulos sensoriais e sem resposta a outras estimulações de recurso (nomeadamente administração intravenosa de pentametilenotetrazol ou de B-metil-B-etilglutarimida), durante um tempo julgado suficiente (não necessitando ultrapassar seis horas em regime descontínuo) e não tendo sido o doente submetido a hipotermia, nem recebido medicamentos depressores do sistema nervoso central.
+
+5.º Nos casos referidos no número anterior, o certificado de óbito só poderá ser passado se todos os sinais clínicos e electroencefalográficos apontados nas alíneas do mesmo número tiverem sido verificados e os dados anamnésicos e circunstanciais não puserem qualquer reserva à interpretação daqueles sinais.
+
+6.º No documento de verificação de óbito especificar-se-ão sempre os sinais de presunção e os sinais seguros de morte que serviram de base à conclusão.
+
+7.º Dos dois médicos verificadores do óbito, a que se refere o artigo 10.º do [Decreto-Lei n.º 45683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45683-1964-472294), um será o médico do serviço do estabelecimento em que o falecido se encontrava internado e o outro será obrigatóriamente um electroencefalografista, se a pessoa tiver estado sujeita a técnicas de reanimação.
+
+8.º Em qualquer caso, os médicos verificadores do óbito não podem pertencer à equipa cirúrgica que irá utilizar os órgãos ou tecidos a colher.
+
+9.º Após a verificação do óbito, segundo as regras mencionadas, podem ser mantidas ou aplicadas ao cadáver técnicas de reanimação, com o fim de se proceder à colheita de órgãos ou tecidos em boas condições.
+
+**O Ministro da Justiça, Mário Júlio Brito de Almeida Costa. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.**

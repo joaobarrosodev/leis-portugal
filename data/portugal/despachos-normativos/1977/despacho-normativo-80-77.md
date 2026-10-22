@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:139931:por
+title: Despacho Normativo n.º 80/77
+short_title: null
+summary: Esclarece dúvidas sobre o regime do pessoal a requisitar ao abrigo do n.º 2 do artigo 23.º do Decreto-Lei n.º 683-B/76,
+  de 10 de Setembro, pelo Comissariado para os Desalojados
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Ministro sem Pasta
+proposing_entity: null
+official_number: 80/77
+official_date: null
+publication_date: '1977-04-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 82/1977, Série I de 1977-04-07
+  number: '82'
+  series: I
+  supplement: null
+  pages: 700 - 700
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/04/08200/07000700.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '139931'
+  dre_path: /dr/detalhe/despacho-normativo/80-1977-139931
+  internal: pt:dre:139931:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/80-1977-139931
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/80-1977-139931
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-04-07T00:00:00Z'
+integrity:
+  source_sha256: d8183e511e131bee416818d2b836e26908634c915ca70fc5852feb2d3dbe33ff
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-80-139931.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 80/77
+
+Tendo-se levantado dúvidas sobre o regime do pessoal a requisitar ao abrigo do n.º 2 do artigo 23.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609), de 10 de Setembro, considerando o disposto no artigo 26.º do mesmo diploma e ao abrigo do [Despacho Normativo n.º 22/77](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/22-1977-138499), de 20 de Janeiro, determino o seguinte:
+
+1. Os funcionários a requisitar para o Comissariado para os Desalojados ao abrigo do n.º 2 do artigo 23.º do [Decreto-Lei n.º 683-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/683-b-1976-384609) continuam a pertencer ao quadro de origem, podendo o respectivo lugar desse quadro ser provido interinamente passados seis meses, a contar da data da requisição.
+
+2. A requisição referida dependerá sempre da anuência do Ministro do departamento a que pertencer o funcionário a requisitar e do acordo deste.
+
+3. O pessoal requisitado, enquanto durar a requisição, mantém todos os direitos e regalias dos funcionários da respectiva categoria na efectividade de serviço do quadro de origem.
+
+4. O mesmo pessoal poderá optar pelos vencimentos e demais abonos inerentes ao cargo de origem.
+
+5. Os vencimentos e outros abonos a que o pessoal requisitado tenha direito nos serviços de origem, quer haja ou não opção, serão pagos directamente ou através de reembolso, no período em que os lugares não estejam providos interinamente, pelo Comissariado para os Desalojados, que satisfará igualmente as contribuições devidas por lei em relação àqueles que sejam beneficiários da Previdência.
+
+Gabinete do Ministro sem Pasta, 25 de Março de 1977. - O Ministro sem Pasta, Joaquim Jorge de Pinho Campinos.

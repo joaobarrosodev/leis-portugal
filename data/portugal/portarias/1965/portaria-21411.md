@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:291958:por
+title: Portaria n.º 21411
+short_title: null
+summary: Determina que sejam aplicadas, com nova redacção, nas províncias ultramarinas da Guiné, de S. Tomé e Príncipe e de
+  Timor as bases XVII a XXI da Lei n.º 2025 (reforma do ensino técnico profissional)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral do Ensino
+proposing_entity: null
+official_number: '21411'
+official_date: null
+publication_date: '1965-07-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 161/1965, Série I de 1965-07-21
+  number: '161'
+  series: I
+  supplement: null
+  pages: 1025 - 1026
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/07/16100/10251026.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '291958'
+  dre_path: /dr/detalhe/portaria/21411-1965-291958
+  internal: pt:dre:291958:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21411-1965-291958
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21411-1965-291958
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1965-07-21T00:00:00Z'
+integrity:
+  source_sha256: a369faa75f60963f89cdfa85a74aa6ae94e0f33380726d745377aaecef00cb6e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1965/DRE-1965-21411-291958.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21411
+
+As bases da [Lei n.º 2025](https://diariodarepublica.pt/dr/detalhe/lei/2025-1947-184274) que estabelecem os princípios orientadores do ensino agrícola e se encontram já em vigor em Angola, Moçambique e Cabo Verde permitiram criar nestas províncias escolas cuja experiência importa aproveitar para a instituição deste tipo de ensino em outras províncias, e assim:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXIII da Lei Orgânica do Ultramar Português, que sejam aplicadas nas províncias da Guiné, de S. Tomé e Príncipe e de Timor as bases XVII a XXI da [Lei n.º 2025](https://diariodarepublica.pt/dr/detalhe/lei/2025-1947-184274), de 19 de Junho de 1947, com a seguinte redacção:
+
+BASE XVII
+
+O ensino elementar agrícola destina-se a ministrar aos trabalhadores do campo conhecimentos gerais e noções técnicas referentes à agricultura, silvicultura e à pecuária ou a qualquer dos seus ramos de exploração. Este ensino far-se-á em regime periódico, utilizando as épocas mais convenientes, e terá, sempre que isso se mostre aconselhável, carácter móvel.
+
+Promover-se-á a instituição de núcleos deste ensino junto dos serviços oficiais especializados de fomento e assistência técnica que para tal efeito reúnam as condições necessárias.
+
+O serviço docente relativo ao ensino elementar agrícola poderá, na parte relativa a conhecimentos gerais, ser confiado a professores de instrução primária em exercício nas localidades ou regiões onde o mesmo vier a ser instituído, quando daí não resulte inconveniente para qualquer dos ensinos, devendo ser remunerado como serviço extraordinário.
+
+Serão organizados, sempre que necessário, cursos de férias especialmente destinados a professores primários dos meios rurais.
+
+BASE XVIII
+
+As escolas práticas de agricultura destinam-se a ministrar, de preferência a filhos de trabalhadores agrícolas, a habilitação geral e técnica necessária ao exercício da actividade agrícola. O plano de estudos será estabelecido por forma a nele se organizar o ciclo preparatório do ensino comercial e industrial, seguido de um ou mais cursos profissionais, podendo a admissão nestes ser condicionada por estágios de adaptação, feitos dentro ou fora da escola, mas sempre sob a sua fiscalização. Aos diplomados com estes cursos corresponderá a designação de prático agrícola.
+
+Os trabalhos de campo e de oficina, integrados no ensino, terão a duração e distribuição adequadas a uma conveniente aprendizagem e serão organizados de acordo com o ciclo anual da actividade agrícola.
+
+Nestas escolas poderá ser ministrado, sempre que a frequência o justifique, o ensino elementar agrícola a que se refere a base anterior.
+
+BASE XIX
+
+Nas escolas práticas de agricultura instaladas em propriedades para o efeito adequadas deverão ser organizados, sempre que as necessidades o justifiquem, cursos de feitores, com duração não superior a três anos, para candidatos com a idade mínima de 20 anos habilitados com a 4.ª classe de instrução primária, de preferência que sejam filhos de agricultores ou tenham suficiente prática dos trabalhos rurais.
+
+A exploração agrícola das escolas onde for ministrado o curso de feitor deverá quanto possível, pelas suas receitas, assegurar a manutenção dos cursos.
+
+Os trabalhos ficarão a cargo dos alunos, que por eles serão remunerados de acordo com os salários correntes, só podendo recorrer-se a pessoal assalariado na falta ou impedimento daqueles.
+
+BASE XX
+
+O ensino médio agrícola destina-se a preparar regentes agrícolas e será ministrado, normalmente, em regime de internato.
+
+O plano de estudos deste ensino compreenderá um curso profissional com duração não superior a cinco anos, em que poderão matricular-se os candidatos com idade mínima de 13 e máxima de 17 anos, aprovados em exame de admissão de nível equivalente ao actual 1.º ciclo liceal.
+
+Na distribuição dos períodos lectivos e das práticas de campo e de oficina ter-se-á em conta o ciclo anual dos trabalhos agrícolas, com o fim de assegurar a participação efectiva dos alunos naqueles que interessem à sua preparação profissional.
+
+O plano de estudos do curso profissional deverá incluir os necessários complementos de cultura geral.
+
+Poderá estabelecer-se o regime de semi-internato para candidatos de 17 a 20 anos de idade.
+
+Também conjuntamente com este ensino poderá funcionar, sempre que o número de candidatos o justifique, o ensino elementar agrícola a que se refere a base XVII.
+
+Em ligação com o curso de regente agrícola poderá ser ministrada a habilitação necessária para a admissão ao Instituto Superior de Agronomia ou à Escola Superior de Medicina Veterinária, habilitação para o efeito equiparada ao curso completo dos liceus.
+
+BASE XXI
+
+O pessoal dos quadros docentes do ensino agrícola médio será constituído por professores ordinários, regentes de internato e regentes de trabalhos; o das escolas práticas de agricultura por professores ordinários e extraordinários e auxiliares de trabalhos.
+
+Segundo a natureza das disciplinas cujo ensino lhes competir e a índole da escola a que se destinarem, os professores regentes de internato serão normalmente recrutados de entre os diplomados com os cursos superiores de Agronomia, Silvicultura e Medicina Veterinária ou com o de regente agrícola e outros que forem, para esse efeito, de considerar.
+
+A nomeação far-se-á normalmente precedendo concurso público, que incluirá obrigatòriamente uma prova de aptidão docente para os candidatos que, não tendo qualquer curso de preparação para o magistério, tenham, pelo menos, dois anos de prática de campo em serviços agrícolas oficiais ou de administração de casas agrícolas.
+
+Os professores do quadro serão substituídos nos seus impedimentos por professores interinos.
+
+Os regentes de trabalhos serão recrutados por concurso de entre os regentes agrícolas com a especialização que, para cada caso, for indicada.
+
+Os auxiliares de trabalhos nas escolas práticas de agricultura serão recrutados de entre indivíduos com a habilitação do curso de feitores e práticos agrícolas.
+
+Ministério do Ultramar, 21 de Julho de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial da Guiné, de S. Tomé e Príncipe e de Timor. - J. da Silva Cunha.

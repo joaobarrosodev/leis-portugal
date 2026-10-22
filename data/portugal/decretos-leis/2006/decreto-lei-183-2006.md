@@ -1,0 +1,989 @@
+---
+schema_version: '1.0'
+id: pt:dre:539981:por
+title: Decreto-Lei n.º 183/2006
+short_title: null
+summary: Cria a Escola Portuguesa de Luanda - Centro de Ensino e Língua Portuguesa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 183/2006
+official_date: null
+publication_date: '2006-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/2006, Série I de 2006-09-06
+  number: '172'
+  series: I
+  supplement: null
+  pages: 6594 - 6601
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/09/17200/65946601.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-05-13'
+version_history:
+  file: decreto-lei-183-2006.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-09-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-10-24'
+    amending: pt:dre:223154119:por
+    amending_title: Decreto-Lei n.º 99/2023
+    changes:
+    - Adita Artigo 14.º-A
+    - Adita Artigo 14.º-B
+    - Adita Artigo 14.º-C
+    - Adita Artigo 16.º-A
+    - Adita Artigo 16.º-B
+    - Adita Artigo 16.º-C
+    - Adita Artigo 40.º-A
+    - Adita Artigo 42.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Secção II
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Capítulo III
+    - Altera Capítulo IV
+    - Altera Artigo 15.º
+    - Altera Artigo 40.º
+    - Elimina Secção VI
+    - Elimina Secção III
+    - Elimina Secção VII
+    - Elimina Secção IV
+    - Elimina Secção V
+    - Elimina Secção II
+    - Elimina Secção I
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+  - date: '2024-07-13'
+    amending: pt:dre:871917718:por
+    amending_title: Decreto-Lei n.º 45-B/2024
+    changes:
+    - Adita Artigo 43.º-A
+  - date: '2025-05-13'
+    amending: pt:dre:917593145:por
+    amending_title: Decreto-Lei n.º 78/2025
+    changes:
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/183/2006/p/cons/20250512/pt/html
+  oj: null
+  dre: '539981'
+  dre_path: /dr/detalhe/decreto-lei/183-2006-539981
+  internal: pt:dre:539981:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2006-539981
+  metadata_url: https://data.dre.pt/eli/dec-lei/183/2006/p/cons/20250512/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-223254348
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-223254348
+  retrieved_at: '2026-10-22T13:00:08Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3914f381d09a94cfc18e084448de014ca11b0aa92d71dc27f742fd73c5cf1765
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:00:08Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-183-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Ensino e Língua Portuguesa
+- Gestão Financeira
+- Criação de Serviços
+- Ensino Português no Estrangeiro
+- Gestão Administrativa
+- Escola Portuguesa de Luanda
+- Angola
+- Orgânica
+- Estabelecimento de Ensino
+- Ensino Básico
+- Gestão de Recursos Humanos
+- Educação Pré-escolar
+relationships:
+- type: amended_by
+  target: pt:dre:223154119:por
+  label: Adita Artigo 14.º-A; Adita Artigo 14.º-B; Adita Artigo 14.º-C; Adita Artigo 16.º-A; Adita Artigo 16.º-B; Adita Artigo
+    16.º-C; Adita Artigo 40.º-A; Adita Artigo 42.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo
+    5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Secção II; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119
+  date: '2023-10-23'
+- type: amended_by
+  target: pt:dre:871917718:por
+  label: Adita Artigo 43.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-b-2024-871917718
+  date: '2024-07-12'
+- type: amended_by
+  target: pt:dre:917593145:por
+  label: Altera Artigo 15.º; Altera Artigo 16.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145
+  date: '2025-05-12'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+article_structure:
+  article_count: 53
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:00:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 183/2006
+
+Decreto-Lei n.º 183/2006
+
+de 6 de Setembro
+
+O Governo da República Portuguesa e o Governo da República de Angola, pelo Protocolo Relativo ao Centro de Ensino e Língua Portuguesa de Luanda, assinado em Luanda em 1 de Março de 1995, acordaram, nos termos expressos do contributo de cada uma das Partes constantes nesse Protocolo, na criação do Centro de Ensino e Língua Portuguesa de Luanda.
+
+À semelhança do que acontece com outras escolas portuguesas no estrangeiro, são objectivos centrais da Escola Portuguesa de Luanda promover o ensino e difusão da língua e da cultura portuguesas bem como alargar, ao nível dos ensinos básico e secundário, aos jovens portugueses e angolanos, em idade escolar, o acesso àqueles níveis de ensino, possibilitando uma formação de base cultural portuguesa.
+
+A escola agora criada é, seja pela adopção dos planos curriculares e programas dos ensinos básico e secundário em vigor no sistema educativo português, como pela titularidade do Estado Português, uma verdadeira escola pública portuguesa.
+
+Na perspectiva, porém, de encontrar as melhores soluções que permitam uma gestão eficaz e eficiente dos recursos disponíveis com vista à realização dos objectivos educativos e culturais da Escola, prevê-se, de forma inovadora, a possibilidade de a gestão e financiamento da escola ser efectuada por entidades privadas, a celebrar mediante contrato de gestão.
+
+Embora o serviço público de educação não seja uma das actividades que tradicionalmente se entendem como sendo passíveis de ser objecto de uma gestão deste tipo, é, no entanto, e especificamente no caso concreto, uma actividade em que a satisfação das necessidades colectivas pode ser mais bem prestada tirando proveito da capacidade de gestão e conhecimento local do sector privado, pelo menos com o mesmo nível de qualidade do serviço prestado e gerando poupanças significativas na utilização dos recursos públicos.
+
+Finalmente, a opção pelo ajuste directo como solução na escolha do co-contratante, em detrimento das soluções clássicas de concurso público, explica-se pela necessidade do conhecimento do meio em que a eventual entidade gestora vai operar, além da experiência de gestão de estabelecimentos de ensino, não esquecendo nunca que a escola é mais do que um estabelecimento de ensino, posicionando-se, antes, como um instrumento privilegiado da política externa portuguesa.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Criação, natureza e objectivos
+
+###### Artigo 1.º — Criação
+
+1 - É criada, ao abrigo do Protocolo Relativo ao Centro de Ensino e Língua Portuguesa de Luanda, celebrado entre o Governo da República Portuguesa e o Governo da República de Angola, a Escola Portuguesa de Luanda - Centro de Ensino e Língua Portuguesa, adiante abreviadamente designada por Escola, da titularidade do Estado Português e com sede em território da República de Angola.
+
+2 - Podem ainda ser criados, por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública, dos negócios estrangeiros, das finanças e da educação, polos da Escola destinados à ampliação e descentralização da sua oferta de formação e educação, que dela fazem parte integrante.
+
+3 - A Escola sediada na cidade de Luanda constitui-se como Escola sede.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 2.º — Natureza
+
+1 - A Escola é um estabelecimento público de educação e ensino com a mesma natureza dos estabelecimentos públicos de educação e de ensino do sistema educativo português e ministra a educação pré-escolar e os ensinos básico e secundário.
+
+2 - Sem prejuízo do disposto no número anterior, a Escola é dotada de autonomia financeira, devendo, nesta matéria, reger-se pelo regime financeiro previsto nos artigos 43.º e seguintes do Decreto-Lei n.º 155/92, de 28 de Julho.
+
+3 - No âmbito da sua autonomia pedagógica, a Escola prossegue, designadamente, as seguintes atribuições:
+
+a) Alargar a oferta educativa e formativa, desde que autorizada pelo membro do Governo responsável pela área da educação, mediante a celebração de protocolos ou acordos de colaboração com outras entidades públicas ou privadas;
+
+b) Promover o desenvolvimento e aprofundamento da sua autonomia, através da celebração de contratos de autonomia, nos termos do Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual.
+
+4 - A Escola, no âmbito das suas atribuições, considerando o interesse da comunidade local, pode proporcionar toda a oferta educativa e formativa prevista no Decreto-Lei n.º 55/2018, de 6 de julho, na sua redação atual, incluindo o ensino profissional e ou profissionalizante.
+
+5 - Para efeitos de prossecução das suas atribuições, a Escola é dotada de um centro de formação especialmente vocacionado para:
+
+a) O desenvolvimento da formação contínua do pessoal docente e não docente da Escola e dos seus polos;
+
+b) A celebração de protocolos de colaboração com entidades públicas ou privadas que pretendam ter acesso aos planos de formação.
+
+6 - A autonomia, a administração e a gestão da Escola funcionam sob o princípio da responsabilidade e da prestação de contas do Estado.
+
+7 - Para a prossecução dos seus objetivos, os membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação podem autorizar a Escola a obter, nos termos do direito local, personalidade jurídica, de direito público ou de direito privado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 3.º — Objectivos
+
+Além do constante na Constituição da República Portuguesa e na Lei de Bases do Sistema Educativo, constituem ainda objectivos da Escola:
+
+a) A promoção e difusão da língua e da cultura portuguesas;
+
+b) A promoção dos laços linguísticos e culturais entre Portugal e Angola;
+
+c) A aplicação das orientações curriculares para a educação pré-escolar e dos planos curriculares e programas dos ensinos básico e secundário em vigor no sistema educativo português;
+
+d) A contribuição para a promoção sócio-educativa de recursos humanos;
+
+e) A promoção de uma formação de base cultural portuguesa;
+
+f) A promoção da escolarização de filhos de portugueses;
+
+g) A constituição como centro de formação de professores e centro de recursos.
+
+###### Artigo 4.º — Princípios de actuação
+
+Constituem princípios de actuação da Escola:
+
+a) A integração de alunos portugueses e a sua frequência por jovens angolanos, bem como de outras nacionalidades;
+
+b) O funcionamento de todos os níveis de educação e ensino, desde a educação pré-escolar até ao final do ensino secundário;
+
+c) A adoção das orientações científica e pedagógica da responsabilidade do Estado Português;
+
+d) A possibilidade de adaptações curriculares em algumas disciplinas de forma a contemplar a realidade local e promover o conhecimento sobre Angola;
+
+e) A prestação de apoio à formação de pessoal docente e não docente e à comunidade;
+
+f) O funcionamento como centro de apoio à cooperação portuguesa nas áreas da educação e formação e da cultura;
+
+g) (Revogada.)
+
+h) A racionalização de custos de molde a viabilizar a continuidade da actividade no futuro, conjugada com uma gestão que assegure o auto-financiamento da Escola.
+
+i) A autonomia, a administração e a gestão da Escola funcionam sob o princípio da responsabilidade e da prestação de contas do Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 5.º — Gestão da Escola
+
+1 - A gestão da Escola e a prestação do serviço público de educação é efetuada diretamente pelo Estado português.
+
+2 - (Revogado.)
+
+3 - Sem prejuízo das especificidades previstas no presente decreto-lei, a gestão da Escola é efetuada de acordo com o regime jurídico de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+### Capítulo II — Estrutura orgânica
+
+###### Artigo 6.º — Órgãos
+
+1 - A Escola dispõe dos seguintes órgãos:
+
+a) Um conselho de patronos;
+
+b) Uma direção;
+
+c) Um conselho pedagógico.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+#### Secção I — Conselho de patronos
+
+###### Artigo 7.º — Composição
+
+1 - O conselho de patronos tem a seguinte composição:
+
+a) O embaixador de Portugal em Angola, que, por inerência, preside;
+
+b) (Revogada.)
+
+c) Um representante do Ministério da Educação.
+
+d) Um representante da associação de pais e encarregados de educação dos alunos da Escola ou quem os represente;
+
+e) O diretor da Escola ou o subdiretor em quem aquele delegue, sem direito de voto nas deliberações a tomar.
+
+2 - Podem ainda fazer parte do conselho de patronos individualidades ou representantes de entidades que se tenham distinguido no apoio ao funcionamento da Escola, na promoção e divulgação da língua e da cultura portuguesas em Angola ou dos laços linguísticos e culturais entre os povos português e angolano, a nomear por despacho do ministro que tenha a responsabilidade pelas escolas portuguesas no estrangeiro.
+
+3 - A participação nos trabalhos do conselho de patronos não confere aos respetivos titulares o direito a qualquer remuneração ou abono.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 8.º — Competências
+
+O conselho de patronos é o órgão responsável pela definição das linhas orientadoras da actividade da Escola, competindo-lhe, em especial:
+
+a) Aprovar o projecto educativo da Escola;
+
+b) Aprovar o plano anual de actividades;
+
+c) Definir as linhas orientadoras para a elaboração do orçamento;
+
+d) Aprovar o orçamento;
+
+e) Apreciar e aprovar o relatório de contas de gerência;
+
+f) Emitir parecer sobre a proposta das quantias a cobrar pelos serviços prestados, nomeadamente o montante das propinas;
+
+g) Aprovar as propostas de contratos de autonomia, nos termos do artigo 42.º-A;
+
+h) Exercer, relativamente à avaliação do diretor e à apreciação dos recursos hierárquicos da avaliação dos docentes, as competências previstas para o conselho geral, conforme o disposto no Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual;
+
+i) Aprovar o regulamento interno, sob proposta da direção da Escola;
+
+j) Proceder ao acompanhamento geral das actividades da Escola.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 9.º — Funcionamento e mandato
+
+1 - Os membros do conselho de patronos elegem, de entre si, trienalmente, um vice-presidente.
+
+2 - O conselho de patronos reúne:
+
+a) Ordinariamente, duas vezes por ano, mediante convocatória do seu presidente;
+
+b) Extraordinariamente, por iniciativa do seu presidente ou da maioria dos seus membros.
+
+3 - Sempre que o presidente considere que as deliberações do conselho de patronos podem pôr em causa o interesse público e a prossecução dos objectivos da Escola, deve submetê-las a homologação do membro do Governo responsável pelas escolas portuguesas no estrangeiro, suspendendo-se a sua execução.
+
+4 - (Revogado.)
+
+5 - As deliberações do conselho de patronos são adotadas por maioria dos votos expressos dos membros presentes.
+
+6 - A duração do mandato de cada membro do conselho de patronos, com exceção do presidente, é de três anos, podendo ser renovado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+#### Secção II — Direção
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 10.º — Composição e nomeação
+
+1 - A direção da Escola é composta por um diretor, um subdiretor e um subdiretor para cada polo, quando exista.
+
+2 - Os membros da direção da Escola são recrutados de entre indivíduos que possuam competência técnica, aptidão e experiência profissional adequadas ao exercício das respetivas funções, aplicando-se ao procedimento de recrutamento e seleção o previsto na Portaria n.º 229-A/2021, de 28 de outubro.
+
+3 - Os membros da direção da Escola e dos respetivos polos são designados em comissão de serviço pelo período de quatro anos, por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da educação.
+
+4 - O diretor e os subdiretores são equiparados, para efeitos remuneratórios, respetivamente, a cargos de direção superior de 1.º e 2.º graus.
+
+5 - A gestão dos polos é assegurada por:
+
+a) Um subdiretor quando o polo disponha apenas de educação pré-escolar e do 1.º ciclo;
+
+b) Um subdiretor e um adjunto, por aquele designado, respeitando o disposto no n.º 2, quando o polo, para além da oferta educativa prevista na alínea anterior, ministre os 2.º e 3.º ciclos do ensino básico e o ensino secundário.
+
+6 - O adjunto é equiparado, para efeitos remuneratórios, a cargo de direção intermédia de 2.º grau.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 11.º — Competências
+
+1 - O diretor tem os poderes de administração e gestão da Escola, nas áreas pedagógica, cultural, administrativa, financeira e patrimonial.
+
+2 - Compete ao diretor:
+
+a) Representar a Escola;
+
+b) Superintender na constituição de turmas e na elaboração de horários;
+
+c) Proceder à distribuição do serviço docente e não docente;
+
+d) Designar os coordenadores dos departamentos, os diretores de turma e outros cargos das diferentes estruturas intermédias;
+
+e) Exercer o poder hierárquico em relação ao pessoal docente e não docente;
+
+f) Exercer o poder disciplinar em relação aos alunos;
+
+g) Intervir, nos termos da lei, no processo de avaliação de desempenho do pessoal docente;
+
+h) Proceder à avaliação de desempenho do pessoal não docente;
+
+i) Gerir as instalações, espaços e equipamentos, bem como outros recursos educativos;
+
+j) Proceder à seleção e recrutamento de pessoal docente e não docente;
+
+k) Celebrar, renovar e rescindir contratos de trabalho do pessoal docente e não docente contratado localmente;
+
+l) Autorizar a realização de despesas e o respetivo pagamento, nos termos da lei, fiscalizar a cobrança de receitas e garantir a legalidade da gestão financeira da Escola;
+
+m) Estabelecer protocolos e celebrar acordos de cooperação com outras escolas ou instituições;
+
+n) Promover e incentivar o relacionamento com a comunidade educativa;
+
+o) Elaborar o orçamento;
+
+p) Praticar todos os atos necessários ao normal funcionamento dos serviços e órgãos no âmbito da gestão dos recursos financeiros, materiais e patrimoniais, designadamente:
+
+i) Autorizar, dentro dos limites estabelecidos pelo respetivo orçamento anual, transferências de verbas subordinadas à mesma classificação orgânica e a antecipação até dois duodécimos por rubrica, com limites fixados pelo membro do Governo responsável pela área das finanças;
+
+ii) Autorizar a constituição de fundos permanentes das dotações do respetivo orçamento, com exceção das rubricas referentes a pessoal, até ao limite de um duodécimo;
+
+iii) Celebrar contratos de seguro e de arrendamento e autorizar a respetiva atualização, nos termos da lei.
+
+3 - Compete, ainda, ao diretor, ouvido o conselho pedagógico:
+
+a) Elaborar e submeter à aprovação do conselho de patronos:
+
+i) As alterações ao regulamento interno;
+
+ii) Os planos anual e plurianual de atividades;
+
+iii) O relatório de atividades;
+
+iv) As propostas de celebração de contratos de autonomia;
+
+b) Aprovar o plano de formação e atualização do pessoal docente e não docente;
+
+c) Definir o regime de funcionamento da Escola.
+
+4 - O diretor submete à aprovação do conselho de patronos o projeto educativo elaborado pelo conselho pedagógico.
+
+5 - O diretor pode delegar nos subdiretores que se encontram a exercer funções nos polos as competências referidas nos números anteriores.
+
+6 - Os subdiretores que exercem funções nos polos podem subdelegar funções nos adjuntos, com exceção da prevista na alínea h) do n.º 2.
+
+7 - O diretor é substituído, nas suas ausências e impedimentos, pelo subdiretor que aquele designar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+#### Secção III — Conselho pedagógico
+
+###### Artigo 12.º — Composição e funcionamento
+
+1 - O conselho pedagógico é o órgão de coordenação e supervisão pedagógica, de orientação educativa da Escola, de orientação e acompanhamento dos alunos e da formação inicial e contínua do pessoal docente.
+
+2 - A composição do conselho pedagógico é da responsabilidade da Escola, a definir no regulamento interno, não devendo ultrapassar o limite máximo de 17 membros, observando os seguintes princípios:
+
+a) Participação dos coordenadores dos departamentos curriculares;
+
+b) Participação das demais estruturas de coordenação e supervisão pedagógica e de orientação educativa, assegurando uma representação pluridisciplinar e das diferentes ofertas formativas.
+
+3 - (Revogado.)
+
+4 - O diretor é, por inerência, o presidente do conselho pedagógico.
+
+5 - Nos polos da Escola é constituído um conselho pedagógico, nos termos dos números anteriores, quando a sua oferta educativa contemple os níveis de escolaridade a partir do 2.º ciclo do ensino básico, cabendo ao subdiretor presidir.
+
+6 - Caso o polo ofereça somente educação pré-escolar e o 1.º ciclo do ensino básico, o subdiretor deve participar nas reuniões do conselho pedagógico pelo menos uma vez de dois em dois meses, não sendo considerado para efeitos do limite máximo de membros previsto no n.º 2.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 13.º — Competências
+
+Sem prejuízo das competências atribuídas por lei ou pelo regulamento interno, cabe ao conselho pedagógico exercer as competências definidas no regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, aprovado pelo Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 14.º — Estruturas de orientação educativa
+
+O regulamento interno fixa, nos termos do regime jurídico referido no n.º 3 do artigo 5.º, as estruturas que colaboram com a direção e com o conselho pedagógico no sentido de assegurar o acompanhamento eficaz do percurso escolar dos alunos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+### Capítulo III — Gestão financeira e patrimonial
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 14.º-A — Instrumentos de gestão
+
+1 - Na prossecução dos seus objetivos, a Escola administra os recursos que lhe estão afetos, tendo em consideração os princípios de gestão por objetivos, utilizando os seguintes instrumentos de gestão:
+
+a) Planos de atividades e financeiros, anuais e plurianuais;
+
+b) Orçamento anual;
+
+c) Relatório de atividades e financeiro.
+
+2 - A contabilidade da Escola deve ser organizada de forma analítica, de modo a permitir a avaliação dos resultados de gestão.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 14.º-B — Património
+
+O património da Escola é constituído pela universalidade de bens, direitos e obrigações de que é titular.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 14.º-C — Receitas
+
+1 - Constituem receitas da Escola:
+
+a) As propinas, emolumentos e multas;
+
+b) O produto resultante dos serviços prestados;
+
+c) Os montantes obtidos com a exploração contratual de direitos, designadamente o produto da venda de bens, arrendamento de instalações e venda de publicações pertencentes à Escola;
+
+d) O rendimento de bens próprios;
+
+e) Os juros das contas de depósitos e outras aplicações financeiras em quaisquer instituições bancárias;
+
+f) Outras receitas que lhe sejam atribuídas por lei, subsídios, subvenções, comparticipações, doações, heranças ou legados.
+
+2 - Os saldos apurados no fim de cada exercício, relativamente às receitas próprias, transitam para o exercício seguinte.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+### Capítulo IV — Pessoal
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 15.º — Pessoal docente
+
+1 - Aos docentes da Escola é aplicável o Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário (ECD), aprovado em anexo ao Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual.
+
+2 - O recrutamento para o exercício de funções docentes na Escola é efetuado de acordo com o estabelecido na legislação especial que regula os concursos destinados à seleção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário das escolas portuguesas no estrangeiro da rede pública do Ministério da Educação e dos respetivos polos.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - O docente que, em resultado de concurso, aceite a colocação fica obrigado ao cumprimento de um período mínimo de dois anos de permanência na Escola, a contar da data do início de funções.
+
+8 - O incumprimento do disposto no número anterior constitui o docente na obrigação de indemnizar a Escola do valor correspondente aos custos suportados com o pagamento do apoio à instalação no local de trabalho e determina a perda do direito ao pagamento dos apoios ao regresso a Portugal e relativo à viagem de regresso a Portugal, para si e para os membros do seu agregado familiar, previstos nas alíneas a) e c) do n.º 4 do artigo 16.º-A, exceto se for devido a motivo de força maior ou a facto não imputável ao docente.
+
+9 - Para o efeito do disposto na parte final do número anterior, constitui motivo de força maior ou facto não imputável ao docente, designadamente:
+
+a) Acidente de trabalho;
+
+b) Doença profissional;
+
+c) Internamento hospitalar e tratamento ambulatório na sequência daquele;
+
+d) Doença incapacitante do próprio que exija tratamento prolongado; ou
+
+e) Instabilidade política ou social devidamente reconhecida pelo Estado Português.
+
+> Nota: [Artigo 10.º, Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145) O regime previsto nos n.ºs 7 a 9 do presente artigo, apenas é aplicável às colocações de docentes que tenham lugar a partir do dia 1 de setembro de 2025.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119) Até à entrada em vigor da legislação especial a que se refere o n.º 2 do presente artigo, na redação conferida pelo Decreto-Lei n.º 183/2006, de 6 de setembro, ao recrutamento para o exercício de funções docentes na Escola aplica-se o regime previsto na redação origional do artigo 15.º.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2025-09-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 16.º — Pessoal não docente
+
+O recrutamento de pessoal para o exercício de funções não docentes na Escola é feito através da contratação local de indivíduos que reúnam as condições necessárias ao desempenho das respectivas funções.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119)
+
+###### Artigo 16.º-A — Garantias
+
+1 - O tempo de serviço prestado no exercício de funções docentes na Escola é contado como tempo de serviço prestado em funções docentes no ensino público português.
+
+2 - A concessão de licença que tenha como fundamento a celebração de contrato para o desempenho de funções na Escola, ou nos seus polos, considera-se fundamentada em circunstâncias de interesse público.
+
+3 - O exercício de funções docentes no quadro da Escola confere ao docente de carreira vinculado a quadro de agrupamento de escolas, de escola não agrupada ou de quadro de zona pedagógica, consoante o caso, o direito à manutenção do seu lugar de origem, pelo período de até quatro anos.
+
+4 - Os membros da direção da Escola, os adjuntos e os docentes que se desloquem de Portugal para o exercício de funções na Escola têm direito aos seguintes apoios, nos termos e nos montantes a definir por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, das finanças e da educação:
+
+a) Apoio à instalação no local de trabalho e ao regresso a Portugal;
+
+b) Apoio ao custo da residência no local de trabalho, o qual é pago mensalmente, 12 vezes por ano, e é determinado tendo em conta os índices de custo de vida da Organização das Nações Unidas, constantes da publicação mais recente do ‘UN Bulletin of Statistics’, bem como critérios inerentes ao nível de risco e à insalubridade no país do exercício das funções;
+
+c) Apoio relativo à viagem de ida para o país do exercício das funções e de regresso a Portugal, no início e na cessação de funções, para si e para os membros do seu agregado familiar, podendo a sua realização por cada uma dessas pessoas ter lugar em datas distintas;
+
+d) Apoio relativo a uma viagem de ida para Portugal e de regresso ao país do exercício das funções, por cada ano civil de exercício na Escola que não coincida com o do início nem com o da cessação de funções, para si e para os membros do seu agregado familiar, podendo a sua realização por cada uma dessas pessoas ter lugar em datas distintas;
+
+e) Apoio relativo a prémios de seguros de saúde, para si e para os membros do seu agregado familiar;
+
+f) Isenção do pagamento de matrículas, propinas e outras despesas devidas pela frequência dos seus descendentes na Escola.
+
+5 - No caso dos docentes que se desloquem de Portugal para o exercício de funções na Escola, o apoio relativo à viagem de ida e de regresso, para si e para os membros do seu agregado familiar, previsto na alínea d) do número anterior, é devido, no máximo, três vezes.
+
+6 - O docente que cumpra um período de quatro anos de exercício de funções contínuas na Escola tem direito a um prémio de permanência, equivalente ao valor da sua remuneração base mensal, pago uma única vez, no mês seguinte a ter completado os quatro anos.
+
+7 - Nos termos do acordo existente entre o Estado Português e o Estado Angolano, os docentes podem optar pela aplicação da tributação sobre os rendimentos do trabalho que lhes seja mais favorável.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119) Até à entrada em vigor do despacho a que se refere o n.º 3 do presente artigo, aplica-se o disposto nos n.os 2 a 11 do artigo 6.º da Portaria n.º 197-A/2021, de 17 de setembro.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 78/2025 - Diário da República n.º 90/2025, Série I de 2025-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2025-917593145), em vigor a partir de 2025-05-13, produz efeitos a partir de 2025-09-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 16.º-B — Proteção social
+
+1 - Ao pessoal docente e não docente contratado localmente para o exercício de funções na Escola aplica-se a legislação relativa à segurança social angolana, sem prejuízo do disposto em instrumento bilateral de segurança social celebrado entre as Repúblicas Portuguesa e Angolana.
+
+2 - Complementarmente, em condições a fixar por despacho do membro do Governo responsável pela área da educação e sob proposta da direção, pode ser celebrado contrato de seguro para cobertura das eventualidades não abrangidas pelo regime de proteção social angolano, sendo esses encargos suportados, nas percentagens de 35 % e 65 %, pelo docente e pela Escola, respetivamente, não podendo a comparticipação do trabalhador, para a formação do prémio de seguro, exceder o montante que o mesmo teria de suportar com a inscrição no regime geral de segurança social português para proteção nas mesmas eventualidades.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119) Até à entrada em vigor do despacho a que se refere o n.º 2 do presente artigo, aplica-se o disposto nos n.os 2 a 11 do artigo 6.º da Portaria n.º 197-A/2021, de 17 de setembro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 16.º-C — Mapa de pessoal
+
+1 - A Escola é dotada de um mapa de pessoal que integra todos os trabalhadores docentes e não docentes, independentemente do tipo de vínculo laboral, nos termos da legislação portuguesa.
+
+2 - O pessoal docente e não docente da Escola a que se referem os artigos anteriores não pode ultrapassar a dotação fixada em mapa a elaborar pelo diretor e a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 17.º — Objecto
+
+1 - O contrato de gestão tem por objecto a prestação do serviço público de educação através da Escola, bem como a conservação e exploração do conjunto de edifícios em que no momento da assinatura do contrato a Escola funciona.
+
+2 - O contrato de gestão pode ainda ter por objecto o financiamento e a construção de futuras fases do complexo escolar.
+
+3 - Os imóveis que venham a ser construídos no âmbito do contrato de gestão são da exclusiva propriedade do Estado Português.
+
+4 - As partes no contrato de gestão são a entidade pública contratante e a entidade gestora contratada.
+
+5 - A entidade pública contratante é o Estado, através do ministério que tenha a responsabilidade pelas escolas portuguesas no estrangeiro.
+
+6 - Sem prejuízo do disposto no n.º 2 do artigo 5.º, o contrato de gestão rege-se pelo direito português.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 18.º — Prazo
+
+O contrato de gestão não pode exceder o prazo de 15 anos, podendo ser prorrogado por uma vez, nos termos fixados no mesmo.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 19.º — Competências dos membros do Governo
+
+1 - Para além da competência relativa a todos os procedimentos prévios à contratação, compete ao ministro responsável pela área das finanças e ao ministro que tenha a responsabilidade pelas escolas portuguesas no estrangeiro, através de despacho conjunto:
+
+a) Aprovar e autorizar a celebração do contrato de gestão;
+
+b) Autorizar a prorrogação do prazo do contrato;
+
+c) Aprovar e autorizar quaisquer modificações ao contrato de gestão ou acordos de reposição do equilíbrio financeiro;
+
+d) Decidir sobre a aplicação de multas, o sequestro, o resgate e a extinção do contrato de gestão.
+
+2 - O acompanhamento e a fiscalização da execução do contrato de gestão nas matérias económicas e financeiras são exercidos por entidade ou serviço a indicar pelo ministro responsável pela área das finanças.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 20.º — Escolha do co-contratante
+
+1 - A escolha do co-contratante, atendendo às especiais qualificações que este deve possuir e ao interesse público e à missão que a gestão de um estabelecimento público de educação e ensino situado no estrangeiro reveste, pode ser feita por ajuste directo, aprovada por despacho conjunto do ministro responsável pela área das finanças e do ministro que tenha a responsabilidade pelas escolas portuguesas no estrangeiro, colhidos os pareceres dos ministérios envolvidos.
+
+2 - Só podem ser objecto de escolha as entidades referidas no n.º 1 do artigo 5.º que, cumulativamente:
+
+a) Tenham a sua sede legal em Portugal ou em Angola;
+
+b) Tenham no seu objecto a gestão de estabelecimentos de ensino;
+
+c) Demonstrem a inexistência de dívidas ao Estado Português;
+
+d) Demonstrem que as pessoas indigitadas por si para a gestão da Escola possuem idoneidade civil bem como a competência e experiência necessárias ao exercício do cargo.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 21.º — Poderes da entidade pública contratante
+
+1 - A entidade pública contratante deve regulamentar e fiscalizar a execução do contrato de gestão, com vista a assegurar a regularidade, continuidade e qualidade do serviço público de educação prestado, bem como do restante objecto do contrato de gestão.
+
+2 - Os poderes decorrentes do número anterior são exercidos nos termos estabelecidos no contrato de gestão, o qual deve prever:
+
+a) Os poderes de inspecção e fiscalização da entidade pública contratante;
+
+b) Os actos de gestão da entidade gestora sujeitos a autorização, aprovação ou homologação da entidade pública contratante.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 22.º — Deveres da entidade gestora
+
+1 - A entidade gestora é obrigada a:
+
+a) Afectar à gestão da Escola os meios humanos, técnicos e financeiros necessários à boa execução do contrato;
+
+b) Efectuar os trabalhos necessários à boa conservação das instalações e equipamentos da Escola;
+
+c) Manter os parâmetros de qualidade definidos no contrato de gestão;
+
+d) Prestar às entidades fiscalizadoras as informações e esclarecimentos necessários ao desempenho das suas funções e facultar-lhes os meios necessários ao exercício efectivo das suas competências;
+
+e) Prestar as informações necessárias ao acompanhamento da execução do contrato de gestão sempre que for solicitado pelas entidades competentes;
+
+f) Cumprir os demais deveres impostos pelo contrato de gestão.
+
+2 - Para além do disposto no contrato de gestão, a entidade gestora, sob pena de nulidade, deve obter prévia autorização da entidade pública contratante para a prática dos seguintes actos:
+
+a) Alteração do objecto social de modo que deixe de contemplar a gestão da Escola ou a criação e gestão de escolas particulares;
+
+b) Alteração da sua sede para outro país que não Portugal ou Angola;
+
+c) Alteração das pessoas designadas para a gestão da Escola;
+
+d) Redução do capital social;
+
+e) Transformação, fusão, cisão ou dissolução da pessoa colectiva;
+
+f) Cessão da posição contratual.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 23.º — Responsabilidade da entidade gestora
+
+Não são oponíveis à entidade pública contratante quaisquer excepções ou meios de defesa que resultem das relações contratuais estabelecidas pela entidade gestora.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 24.º — Remuneração da entidade gestora
+
+1 - A entidade gestora é remunerada pela cobrança de propinas aos utentes da Escola, sem prejuízo da obtenção de receitas resultantes de prestações a terceiros no âmbito de actividades acessórias ou de serviços previstos no contrato, desde que não conflituem ou prejudiquem a actividade normal da Escola, objecto do contrato de gestão.
+
+2 - Pode a entidade pública contratante atribuir à entidade gestora, nos termos fixados no contrato de gestão, um subsídio anual, suportado pelas dotações orçamentais do ministério que tenha a responsabilidade pelas escolas portuguesas no estrangeiro.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 25.º — Remuneração da entidade pública contratante
+
+1 - A entidade pública contratante pode receber uma renda da entidade gestora, a título de contraprestação pela utilização da Escola, nos termos fixados no contrato de gestão.
+
+2 - A renda prevista no número anterior não pode, em caso algum, ser simultânea com a atribuição do subsídio anual previsto no n.º 2 do artigo anterior.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 26.º — Acompanhamento e fiscalização
+
+Sem prejuízo do disposto no n.º 2 do artigo 19.º, o contrato de gestão deve estabelecer as condições em que a entidade pública contratante acompanha e fiscaliza a actividade da entidade gestora.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 27.º — Obtenção do financiamento
+
+1 - A entidade gestora é responsável pela obtenção do financiamento necessário ao desenvolvimento de todas as actividades que integram o objecto do contrato, de forma a cumprir cabal e pontualmente todas as obrigações por si assumidas.
+
+2 - Com vista à obtenção dos fundos necessários ao desenvolvimento das actividades objecto do contrato de gestão, a entidade gestora pode contrair empréstimos, prestar as garantias e celebrar com entidades bancárias os demais actos e contratos que constituem o financiamento.
+
+3 - Os imóveis que corporizam a Escola não podem ser objecto de garantia relativamente aos empréstimos contraídos pela entidade gestora.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 28.º — Modificações objectivas
+
+1 - A modificação do contrato de gestão pode resultar de acto unilateral da entidade pública contratante ou por acordo entre as partes contratantes.
+
+2 - Quando a modificação do contrato resulte de acto unilateral da entidade pública contratante, deve ser tida em conta a necessidade de assegurar o reequilíbrio económico-financeiro do contrato.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 29.º — Modificações subjectivas e subcontratação
+
+1 - A entidade gestora não pode ceder, alienar ou por qualquer forma onerar, no todo ou em parte, a sua posição jurídica no contrato de gestão ou realizar qualquer negócio que vise atingir idêntico resultado sem prévio consentimento da entidade pública contratante.
+
+2 - A subcontratação, desde que não tenha por objecto a prestação do serviço público de educação, é admitida em termos a regulamentar no contrato de gestão, sem prejuízo da responsabilidade da entidade gestora perante a entidade pública contratante.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 30.º — Caução
+
+1 - Para garantia do exacto e pontual cumprimento das obrigações contratuais, pode o contrato de gestão fixar uma caução a prestar pela entidade gestora a favor da entidade pública contratante, o respectivo valor e as formas de prestação.
+
+2 - Nos casos em que a entidade gestora não tenha pago ou conteste as sanções contratuais aplicadas por incumprimento dos deveres contratuais, pode haver recurso à caução, sem dependência de decisão judicial, mediante despacho do ministro que tenha a responsabilidade pelas escolas portuguesas no estrangeiro.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 31.º — Multa
+
+O contrato de gestão deve estabelecer o montante da multa a pagar pela entidade gestora em caso de incumprimento do contrato de gestão, o qual deve ser proporcional ao valor do contrato e ao grau de lesão do interesse público.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 32.º — Sequestro
+
+1 - A entidade pública contratante tem a faculdade de sequestro da Escola nos seguintes casos:
+
+a) Quando ocorra ou esteja iminente a interrupção injustificada da realização do serviço público de educação;
+
+b) Quando se verifiquem perturbações ou deficiências na organização e funcionamento da entidade gestora ou no estado geral das instalações e do material afectos à execução do contrato.
+
+2 - Durante o sequestro, a gestão da Escola é assegurada por representantes da entidade pública contratante, correndo por conta da entidade gestora as despesas necessárias para a manutenção e normalização da gestão.
+
+3 - O sequestro é mantido enquanto for julgado necessário, podendo a entidade pública contratante notificar no seu termo a entidade gestora para retomar a gestão.
+
+4 - No caso de a entidade não retomar a gestão da Escola, o contrato de gestão é rescindido.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 33.º — Extinção
+
+O contrato de gestão extingue-se nos seguintes casos:
+
+a) Decurso do prazo pelo qual foi celebrado;
+
+b) Acordo entre a entidade pública contratante e a entidade gestora;
+
+c) Resgate;
+
+d) Rescisão por razões de interesse público;
+
+e) Rescisão por incumprimento contratual.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 34.º — Resgate
+
+1 - Verifica-se o resgate sempre que a entidade pública contratante retome a gestão antes do termo do prazo contratual ou pretenda adjudicá-la novamente em termos substancialmente diversos.
+
+2 - O resgate da gestão confere à entidade gestora o direito ao recebimento de uma indemnização.
+
+3 - O contrato de gestão deve estabelecer o prazo a partir do qual pode ser exercido o resgate e os critérios a observar para o cálculo do valor da indemnização prevista no número anterior.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 35.º — Rescisão por razões de interesse público
+
+1 - O contrato de gestão pode ser rescindido unilateralmente pela entidade pública contratante em qualquer momento, quando razões de interesse público o imponham, independentemente do incumprimento pela entidade gestora de quaisquer obrigações a que esteja vinculada.
+
+2 - A rescisão declarada ao abrigo do número anterior confere à entidade gestora o direito a uma indemnização a fixar no contrato de gestão.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 36.º — Rescisão por incumprimento contratual
+
+1 - A entidade pública contratante pode, em caso de incumprimento de obrigações fundamentais a que a entidade gestora esteja obrigada, rescindir o contrato nos termos estabelecidos no contrato de gestão.
+
+2 - Constituem, em especial, motivo para a rescisão do contrato de gestão:
+
+a) O abandono da gestão da Escola ou a sua suspensão injustificada;
+
+b) A transmissão total ou parcial da gestão, temporária ou definitiva, não autorizada;
+
+c) A falta de pagamento de retribuições devidas à entidade pública contratante estabelecidas no contrato;
+
+d) O incumprimento das obrigações de serviço público nos termos contratualmente fixados.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 37.º — Reversão dos bens
+
+1 - Com a extinção do contrato de gestão, por qualquer das formas legalmente previstas, reverte para a entidade pública contratante a universalidade dos bens e direitos que integram o estabelecimento.
+
+2 - A reversão efectua-se nos termos estabelecidos no respectivo contrato, o qual pode prever o pagamento de uma compensação à entidade gestora pelos investimentos por si efectuados e não amortizados, com excepção dos investimentos expressamente previstos no contrato de gestão.
+
+3 - Os bens afectos à gestão devem ser entregues à entidade pública contratante livres de quaisquer ónus ou encargos, sendo nulos os actos jurídicos que estabeleçam ou imponham qualquer oneração ou encargo para além do período da gestão.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 38.º — Director pedagógico
+
+1 - A entidade gestora procede à designação de um director pedagógico, escolhido de entre indivíduos com qualificação para o exercício do cargo, nos termos da Lei n.º 9/79, de 19 de Março, ao qual compete a coordenação e orientação educativa da Escola, em especial:
+
+a) Representar a Escola e a entidade gestora junto do Ministério da Educação em todos os assuntos de natureza pedagógica;
+
+b) Planificar e superintender nas actividades curriculares;
+
+c) Promover o cumprimento dos planos e programas de estudo;
+
+d) Velar pela qualidade do ensino;
+
+e) Zelar pela educação e disciplina dos alunos.
+
+2 - O director pedagógico exerce as respectivas funções com independência em relação à entidade gestora.
+
+3 - Ao Ministério da Educação compete, conjuntamente com o Ministério dos Negócios Estrangeiros, a aprovação do director pedagógico designado.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 39.º — Gestão do pessoal
+
+1 - A entidade gestora deve dispor de uma adequada estrutura de recursos humanos para a realização do objecto do contrato de gestão, aplicando-se o disposto no capítulo III.
+
+2 - Cabe à entidade gestora a direcção do pessoal ao seu serviço, ficando responsável pelo cumprimento de todas as obrigações inerentes à qualidade de entidade empregadora, nomeadamente o recrutamento e o pagamento da respectiva retribuição.
+
+3 - Ao longo da execução do contrato, a entidade gestora fica obrigada a disponibilizar à entidade pública contratante informação sobre o pessoal ao seu serviço.
+
+4 - A entidade gestora deve realizar planos de formação para o pessoal.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 40.º — Propinas
+
+O valor das propinas é fixado pela direção, após parecer do conselho de patronos, e aprovado por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 40.º-A — Avaliação
+
+1 - É aplicável à Escola o sistema de avaliação da educação e do ensino não superior previsto no Decreto-Lei n.º 55/2018, de 6 de julho, na sua redação atual, com as necessárias adaptações.
+
+2 - O diretor é avaliado nos termos da Portaria n.º 266/2012, de 30 de agosto, e do presente decreto-lei.
+
+3 - É aplicável ao pessoal docente em exercício de funções na Escola o regime de avaliação de desempenho constante do ECD e demais legislação portuguesa, com as necessárias adaptações.
+
+4 - A avaliação do pessoal não docente é feita nos termos da legislação angolana.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 41.º — Nome da Escola
+
+Por despacho do ministro que tenha a responsabilidade pelas escolas portuguesas no estrangeiro, pode ser conferida à Escola uma denominação que constará do nome de uma personalidade que se tenha distinguido em Angola, nomeadamente no âmbito da cultura, ciência ou educação.
+
+###### Artigo 42.º — Início de actividades
+
+A Escola inicia as suas actividades escolares no ano lectivo de 2006-2007.
+
+###### Artigo 42.º-A — Contrato de autonomia
+
+1 - Ao contrato de autonomia é aplicável o disposto no Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual, com as necessárias adaptações.
+
+2 - O conselho de patronos exerce, relativamente ao processo de celebração do contrato de autonomia, as competências atribuídas ao conselho geral pelo Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 99/2023 - Diário da República n.º 205/2023, Série I de 2023-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2023-223154119), em vigor a partir de 2023-10-24
+
+###### Artigo 43.º — Regime transitório para o pessoal docente
+
+Até ao final do ano escolar de 2009-2010 podem ser contratados para o exercício de funções docentes, em número que não ultrapasse um terço do total do pessoal docente da Escola, indivíduos que não disponham das adequadas habilitações académicas e profissionais mas comprovem a efectiva experiência no exercício de funções docentes por tempo não inferior a três anos.
+
+###### Artigo 43.º-A — Mapa de pessoal residual
+
+Sem prejuízo do disposto nos artigos 15.º e 16.º-C, os docentes que mantenham o contrato de trabalho celebrado com a Cooperativa Portuguesa de Ensino em Angola, CRL, ficam integrados num mapa de pessoal próprio, cujos lugares se extinguirão quando vagarem.
+
+> Aditado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 45-B/2024 - Diário da República n.º 134/2024, Suplemento, Série I de 2024-07-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-b-2024-871917718), em vigor a partir de 2024-07-13
+
+###### Artigo 44.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 20 de Julho de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.
+
+Promulgado em 22 de Agosto de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 25 de Agosto de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

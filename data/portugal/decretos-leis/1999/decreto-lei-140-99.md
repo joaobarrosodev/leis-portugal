@@ -1,0 +1,5082 @@
+---
+schema_version: '1.0'
+id: pt:dre:531828:por
+title: Decreto-Lei n.º 140/99
+short_title: null
+summary: Revê a transposição para a ordem jurídica interna da Directiva n.º 79/409/CEE, do Conselho, de 2 de Abril (relativa
+  à conservação das aves selvagens), e da Directiva n.º 92/43/CEE, do Conselho, de 21 de Maio (relativa à preservação dos
+  habitats naturais e da fauna e da flora selvagens). Revoga os Decretos-Leis n.os 75/91, de 14 de Fevereiro, 224/93, de 18
+  de Junho, e 226/97, de 27 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente
+proposing_entity: null
+official_number: 140/99
+official_date: null
+publication_date: '1999-04-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 96/1999, Série I-A de 1999-04-24
+  number: '96'
+  series: I
+  supplement: null
+  pages: 2183 - 2212
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/04/096a00/21832212.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-05-06'
+version_history:
+  file: decreto-lei-140-99.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-04-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-02-25'
+    amending: pt:dre:608175:por
+    amending_title: Decreto-Lei n.º 49/2005
+    changes:
+    - Adita Capítulo I
+    - Adita Capítulo II
+    - Adita Secção I
+    - Adita Secção II
+    - Adita Artigo 7.º-A
+    - Adita Artigo 7.º-B
+    - Adita Artigo 7.º-C
+    - Adita Secção III
+    - Adita Artigo 15.º-A
+    - Adita Secção IV
+    - Adita Artigo 20.º-A
+    - Adita Capítulo III
+    - Adita Artigo 25.º-A
+    - Adita Capítulo IV
+    - Adita Anexo D
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+  - date: '2013-11-13'
+    amending: pt:dre:536213:por
+    amending_title: Decreto-Lei n.º 156-A/2013
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 15.º-A
+    - Altera Anexo B-I
+    - Altera Anexo B-II
+    - Altera Anexo B-IV
+  - date: '2026-05-06'
+    amending: pt:dre:1103945165:por
+    amending_title: Lei n.º 18/2026
+    changes:
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/140/1999/p/cons/20260505/pt/html
+  oj: null
+  dre: '531828'
+  dre_path: /dr/detalhe/decreto-lei/140-1999-531828
+  internal: pt:dre:531828:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1999-531828
+  metadata_url: https://data.dre.pt/eli/dec-lei/140/1999/p/cons/20260505/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34527675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34527675
+  retrieved_at: '2026-10-22T11:49:21Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9b21e25ef46a5629825345d86e6754fd193e5aabe5d34d718025d3d74a920668
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:49:21Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-140-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Vida Selvagem
+- Multa
+- Proteção dos Animais
+- Contra-ordenação
+- Proteção do Ambiente
+- Diversidade Biológica
+- Espécie Protegida
+- Zona de Proteção
+- Recursos Naturais
+- Comércio
+- Vegetais
+- Rede Natura 2000
+- Zona Especial de Conservação
+relationships:
+- type: amended_by
+  target: pt:dre:692259:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-ah-1999-692259
+  date: '1999-05-31'
+- type: amended_by
+  target: pt:dre:608175:por
+  label: Adita Capítulo I; Adita Capítulo II; Adita Secção I; Adita Secção II; Adita Artigo 7.º-A; Adita Artigo 7.º-B; Adita
+    Artigo 7.º-C; Adita Secção III; Adita Artigo 15.º-A; Adita Secção IV; Adita Artigo 20.º-A; Adita Capítulo III; Adita Artigo
+    25.º-A; Adita Capítulo IV; Adita Anexo D; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º;
+    Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175
+  date: '2005-02-24'
+- type: amended_by
+  target: pt:dre:536213:por
+  label: Altera Artigo 11.º; Altera Artigo 15.º; Altera Artigo 15.º-A; Altera Anexo B-I; Altera Anexo B-II; Altera Anexo B-IV
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213
+  date: '2013-11-08'
+- type: amended_by
+  target: pt:dre:1103945165:por
+  label: Altera Artigo 22.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165
+  date: '2026-05-05'
+- type: cites
+  target: celex:31979L0409
+  label: null
+  source: http://data.europa.eu/eli/dir/1979/409/oj
+- type: cites
+  target: celex:31991L0244
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/244/oj
+- type: cites
+  target: celex:31992L0043
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/43/oj
+- type: cites
+  target: celex:31994L0024
+  label: null
+  source: http://data.europa.eu/eli/dir/1994/24/oj
+- type: cites
+  target: celex:31997L0049
+  label: null
+  source: http://data.europa.eu/eli/dir/1997/49/oj
+- type: cites
+  target: celex:31997L0062
+  label: null
+  source: http://data.europa.eu/eli/dir/1997/62/oj
+article_structure:
+  article_count: 33
+  section_count: 18
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:49:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 140/99
+
+A conservação da Natureza, entendida como a preservação dos diferentes níveis e componentes naturais da biodiversidade, numa perspectiva de desenvolvimento sustentável, tem vindo a afirmar-se como imperativo de acção política e de desenvolvimento cultural e sócio-económico à escala planetária.
+
+A interiorização dos princípios e da acção que lhe estão subjacentes afirmou-se sobretudo a partir da Declaração do Ambiente, adoptada pela primeira Conferência das Nações Unidas sobre o Ambiente, realizada em Estocolmo em 1972, culminando na recente Conferência das Nações Unidas sobre o Ambiente e Desenvolvimento, realizada no Rio de Janeiro em 1992, donde resultou a adopção de um conjunto de documentos e compromissos, donde ressalta a Convenção da Diversidade Biológica.
+
+No espaço comunitário, a primeira grande acção conjunta dos Estados membros para conservação do património natural ocorreu em 1979, com a publicação da Directiva n.º <a href="eurlex.asp?ano=1979&id=379L0409" title="Link para Directiva da Comunidade Europeia!�79/409/CEE</a>, do Conselho, de 2 de Abril, relativa à conservação das aves selvagens (directiva aves). Este diploma tem por objectivo a protecção, gestão e controlo das espécies de aves que vivem no estado selvagem no território da União Europeia, regulamentando a sua exploração. Atendendo à regressão de muitas populações de espécies de aves no território europeu (em especial das migradoras), à degradação crescente dos seus habitats e ao tipo de exploração de que eram alvo, aquela directiva prevê que o estabelecimento de medidas de protecção passa nomeadamente pela designação de zonas de protecção especial (ZPE), correspondentes aos habitats cuja salvaguarda é prioritária para a conservação das populações de aves. Portugal transpôs esta directiva para a ordem jurídica interna através do Decreto-Lei n.º 75/91, de 14 de Fevereiro.
+
+Em 1993 os Estados membros da União Europeia publicam aquele que é considerado o principal acto de direito comunitário no domínio da conservação da Natureza: a Directiva n.º <a href="eurlex.asp?ano=1992&id=392L0043" title="Link para Directiva da Comunidade Europeia">92/43/CEE</`�, do Conselho, de 21 de Maio, relativa à conservação dos habitats naturais e da fauna e da flora selvagens (directiva habitats). Este diploma visa a conservação da biodiversidade, através da conservação dos habitats naturais e da fauna e da flora selvagens do território da União Europeia, nomeadamente mediante a criação de um conjunto de sítios de interesse comunitário, designados como zonas especiais de conservação (ZEC). Portugal transpôs esta directiva para a ordem jurídica interna através do Decreto-Lei n.º 226/97, de 27 de Agosto.
+
+Esta directiva prevê o estabelecimento de uma rede ecológica europeia de zonas especiais de conservação, a Rede Natura 2000, que englobará as ZEC e as ZPE.
+
+Assim, em termos de direito comunitário, a regulamentação relativa à conservação da Natureza alicerça-se em torno das directivas aves e habitats, de âmbito complementar e objectivos substantivamente idênticos, que no início do próximo século consubstanciarão em conjunto o instrumento de conservação comunitário por excelência: a Rede Natura 2000.
+
+Tendo em conta o âmbito complementar das directivas aves e habitats, a evolução do quadro jurídico comunitário nesta matéria e, face a isto, a necessidade de actualizar o normativo interno referente à directiva aves, torna-se imperioso rever, harmonizar e compatibilizar a regulamentação nacional relativa a esta matéria (Decretos-Leis n.os 75/91, de 14 de Fevereiro, e 226/97, de 27 de Agosto). Deste modo, dotar-se-á de maior eficácia e transparência a matéria processual de natureza jurídico-administrativa resultante da aplicação desta regulamentação e, a nível comunitário, optimizar-se-á o cumprimento das obrigações do Estado Português relativamente à criação da Rede Natura 2000.
+
+A regulamentação num único diploma das disposições emergentes das directivas aves e habitats permitirá alcançar os objectivos enunciados, de um modo simples, eficaz e administrativamente racional.
+
+«Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses..
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 1.º — Objectivos
+
+1 - O presente diploma procede à revisão da transposição para o direito interno das seguintes directivas comunitárias:
+
+a) Directiva n.º <a href="eurlex.asp?ano=1979&id=379L0409" title="Link para Directiva da Comunidade Europeia!�79/409/CEE</a>, do Conselho, de 2 de Abril (directiva aves), alterada pelas Directivas n.os <a href="eurlex.asp?ano=1991&id=391L0244" title="Link para Directiva da Comunidade Europeia!�91/244/CEE</a>, da Comissão, de 6 de Março, <a href="eurlex.asp?ano=1994&id=394L0024" title="Link para Directiva da Comunidade Europeia">94/24/CE</a>, do Conselho, de 8 de Junho, e <a href="eurlex.asp?ano=1997&id=397L0049" title="Link para Directiva da Comunidade Europeia">97/49/CE</a>, da Comissão, de 29 de Junho;
+
+b) Directiva n.º <a href="eurlex.asp?ano=1992&id=392L0043" title="Link para Directiva da Comunidade Europeia">92/43/CEE</`�, do Conselho, de 21 de Maio (directiva habitats), com as alterações que lhe foram introduzidas pela Directiva n.º <a href="eurlex.asp?ano=1997&id=397L0062" title="Link para Directiva da Comunidade Europeia">97/62/CE</a>, do Conselho, de 27 de Outubro.
+
+2 - O presente diploma visa contribuir para assegurar a biodiversidade, através da conservação ou do restabelecimento dos habitats naturais e da flora e da fauna selvagens num estado de conservação favorável, da protecção, gestão e controlo das espécies, bem como da regulamentação da sua exploração.
+
+3 - Os objectivos previstos no número anterior são aplicados tendo em conta as exigências ecológicas, económicas, sociais, culturais e científicas, bem como as particularidades regionais e locais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente diploma é aplicável:
+
+a) A todas as espécies de aves, incluindo as migratórias, que ocorrem naturalmente no estado selvagem no território europeu dos Estados membros da União Europeia, a todas as espécies de aves constantes dos anexos A-I, A-II, A-III e D do presente diploma e que dele fazem parte integrante, bem como aos ovos, ninhos e habitats de todas aquelas espécies;
+
+b) A todos os tipos de habitats naturais constantes do anexo B-I ao presente diploma e que dele faz parte integrante;
+
+c) Às espécies constantes dos anexos B-II, B-IV e B-V ao presente diploma e que dele fazem parte integrante.
+
+2 - O presente diploma não se aplica às espécies aquícolas, com excepção das constantes nos anexos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 3.º — Definições
+
+1 - Para efeitos do presente diploma, entende-se por:
+
+a) «Conservação» o conjunto das medidas e acções necessárias para manter ou restabelecer os habitats naturais e as populações de espécies da flora e da fauna selvagens num estado favorável, conforme as alíneas f) e i);
+
+b) «Habitat de uma espécie»: o meio definido pelos factores abióticos e bióticos próprios onde essa espécie ocorre em qualquer das fases do seu ciclo biológico;
+
+c) «Habitats naturais» as áreas terrestres ou aquáticas naturais ou seminaturais que se distinguem por características geográficas abióticas e bióticas;
+
+d) «Habitats naturais de interesse comunitário»: os habitats constantes do anexo B-I ao presente diploma e que dele faz parte integrante;
+
+e) «Tipos de habitat natural prioritários»: os tipos de habitat natural ameaçados de extinção e existentes no território nacional, que se encontram assinalados com asterisco (*) no anexo B-I;
+
+f) «Estado de conservação de um habitat natural»: a situação do habitat em causa em função do conjunto das influências que actuam sobre o mesmo, bem como sobre as espécies típicas que nele vivem, susceptível de afectar a longo prazo a sua distribuição natural, a sua estrutura e as suas funções, bem como a sobrevivência a longo prazo das suas espécies típicas;
+
+g) «Espécies de interesse comunitário» as espécies constantes dos anexos A-I, B-II, B-IV e B-V, bem como as espécies de aves migratórias não referidas no anexo A-I;
+
+h) «Espécies prioritárias»: as espécies indicadas a nível comunitário como tal e que se encontram assinaladas com asterisco (*) nos anexos A-I e B-II;
+
+i) «Estado de conservação de uma espécie»: a situação da espécie em causa em função do conjunto das influências que, actuando sobre a mesma, pode afectar, a longo prazo, a distribuição e a importância das suas populações no território nacional;
+
+j) «Espécime»: qualquer animal ou planta vivo ou morto, bem como qualquer parte ou produto derivado desse animal ou planta ou quaisquer outros produtos susceptíveis de serem identificados como partes ou produtos derivados de animais ou plantas das referidas espécies, segundo as indicações fornecidas pelo documento de acompanhamento, pela embalagem, por uma marca ou etiqueta ou por qualquer outro elemento;
+
+l) «Sítio»: uma zona definida geograficamente, cuja superfície se encontra claramente delimitada;
+
+m) «Sítio de importância comunitária»: um sítio que, na ou nas regiões biogeográficas atlântica, mediterrânica ou macaronésica, contribua de forma significativa para manter ou restabelecer um tipo de habitat natural do anexo B-I ou de uma espécie do anexo B-II num estado de conservação favorável, e possa também contribuir de forma significativa para a coerência da Rede Natura 2000 ou para, de forma significativa, manter a diversidade biológica na ou nas referidas regiões biogeográficas;
+
+n) «Zona especial de conservação» (ZEC): um sítio de importância comunitária no território nacional em que são aplicadas as medidas necessárias para a manutenção ou o restabelecimento do estado de conservação favorável dos habitats naturais ou das populações das espécies para as quais o sítio é designado;
+
+o) «Zona de protecção especial» (ZPE) uma área de importância comunitária no território nacional em que são aplicadas as medidas necessárias para a manutenção ou restabelecimento do estado de conservação das populações de aves selvagens inscritas no anexo A-I e dos seus habitats, bem como das espécies de aves migratórias não referidas neste anexo e cuja ocorrência no território nacional seja regular;
+
+p) «Análise de incidências ambientais» a avaliação prévia das incidências ambientais das acções, planos ou projectos, que incumbe à entidade competente para a decisão final ou à entidade competente para emitir parecer ao abrigo do presente diploma;
+
+q) «Animais irrecuperáveis»: animais que em virtude do seu estado de debilidade física ou de habituação ao homem não possuem condições para sobreviver pelos próprios meios no seu ambiente natural;
+
+r) «Anilhagem» a técnica de estudo biológico das espécies e populações de aves selvagens, que consiste na sua captura, marcação com uma anilha e posterior libertação;
+
+s) «Espécime comprovadamente de cativeiro» espécime animal selvagem cujos progenitores se encontrem legalmente em cativeiro, com identificação própria e insubstituível, designadamente com microchip ou anilha fechada, no caso das aves;
+
+t) «Tipos de uso agrícola e florestal» as culturas anuais de sequeiro, as culturas anuais de regadio, as culturas arbóreas/arbustivas permanentes, as florestas e os prados/pastagens.
+
+2 - Para efeitos da alínea f) do n.º 1, o estado de conservação de um habitat natural será considerado favorável sempre que a sua área de distribuição natural e as superfícies que abranja sejam estáveis ou estejam em expansão, a estrutura e as funções específicas necessárias à manutenção a longo prazo existirem e forem susceptíveis de continuar a existir num futuro previsível e o estado de conservação das espécies típicas for favorável na acepção do n.º 3.
+
+3 - Para efeitos da alínea i) do n.º 1, o estado de conservação de uma espécie será considerado favorável quando, cumulativamente, se verifique que:
+
+a) Essa espécie constitua e seja susceptível de constituir a longo prazo um elemento vital dos habitats naturais a que pertence, de acordo com os dados relativos à dinâmica das suas populações;
+
+b) A área de distribuição natural dessa espécie não diminuiu nem corre o perigo de diminuir num futuro previsível;
+
+c) Existe e continuará provavelmente a existir um habitat suficientemente amplo para que as suas populações se mantenham a longo prazo.
+
+4 - Para as espécies animais que ocupem zonas extensas, os sítios de importância comunitária, as zonas especiais de conservação e as zonas de protecção especial definidos nas alíneas m), n) e o) do n.º 1 correspondem a locais, dentro da área de distribuição natural dessas espécies, que apresentem características físicas ou biológicas essenciais para a sua vida e reprodução.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+### Capítulo II — Protecção de habitats e de espécies
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+#### Secção I — Rede Natura 2000
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 4.º — Âmbito da Rede Natura 2000
+
+A Rede Natura 2000 é uma rede ecológica de âmbito europeu que compreende as áreas classificadas como ZEC e as áreas classificadas como ZPE.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 5.º — Classificação de ZEC
+
+1 - A classificação de ZEC depende de prévia aprovação da lista de sítios de importância comunitária, pelos órgãos competentes da União Europeia, com base na lista nacional de sítios e segundo o procedimento previsto na Directiva n.º 92/43/CEE, do Conselho, de 21 de Maio.
+
+2 - A lista nacional de sítios inclui os sítios já aprovados pelas Resoluções do Conselho de Ministros n.os 142/97, de 28 de Agosto, e 76/2000, de 5 de Julho, ou, no caso das Regiões Autónomas, por resolução do respectivo Conselho do Governo Regional.
+
+3 - A inclusão de novos sítios na lista nacional de sítios é aprovada por resolução do Conselho de Ministros, mediante proposta do (ICN) ou dos serviços competentes das Regiões Autónomas, indicando os tipos de habitats naturais do anexo B-I e as espécies do anexo B-II que tais sítios incluem, de acordo com os critérios previstos no anexo B-III.
+
+4 - A alteração de limites ou a exclusão de qualquer sítio da lista nacional de sítios é aprovada por resolução do Conselho de Ministros, mediante proposta fundamentada do ICN ou dos serviços competentes das Regiões Autónomas.
+
+5 - Os sítios da lista nacional de sítios reconhecidos como sítios de importância comunitária, pelos órgãos competentes da União Europeia, são publicitados através de portaria do Ministro do Ambiente e do Ordenamento do Território.
+
+6 - Os sítios de importância comunitária previstos no número anterior são classificados, no prazo de seis anos a contar da data do seu reconhecimento, como ZEC, mediante decreto regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 6.º — Classificação de ZPE
+
+1 - A classificação de ZPE reveste a forma de decreto regulamentar e abrange as áreas que contêm os territórios mais apropriados, em número e em extensão, para a protecção das espécies de aves constantes no anexo A-I, bem como das espécies de aves migratórias não incluídas no referido anexo e cuja ocorrência no território nacional seja regular.
+
+2 - A classificação de ZPE deve ter em conta as tendências e as variações dos níveis populacionais de:
+
+a) Espécies ameaçadas de extinção;
+
+b) Espécies vulneráveis a certas modificações dos seus habitats;
+
+c) Espécies consideradas raras porque as suas populações são reduzidas ou porque a sua repartição local é restrita;
+
+d) Espécies que necessitem de particular atenção devido à especificidade do seu habitat.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+#### Secção II — Regime jurídico de conservação de habitats
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 7.º — Regime das ZEC
+
+1 - As ZEC são sujeitas a medidas de conservação que satisfaçam as exigências ecológicas dos tipos de habitats naturais constantes do anexo B-I e das espécies constantes do anexo B-II presentes nos sítios.
+
+2 - Para evitar a deterioração dos habitats naturais e dos habitats de espécies, bem como as perturbações que atinjam espécies para as quais as ZEC foram designadas, na medida em que possam vir a ter um efeito significativo, atendendo aos objectivos do presente diploma, devem ser aprovadas as medidas adequadas, nomeadamente em matéria de:
+
+a) Ordenamento do território, nos termos do artigo 8.º;
+
+b) Gestão, nos termos do artigo 9.º;
+
+c) Avaliação de impacte ambiental e análise de incidências ambientais, nos termos do artigo 10.º;
+
+d) Vigilância, nos termos do artigo 20.º-A;
+
+e) Fiscalização, nos termos do artigo 21.º e demais legislação aplicável.
+
+3 - Sem prejuízo do disposto no número anterior, podem ser definidas medidas complementares de conservação através da aprovação de:
+
+a) Planos de gestão que contemplem medidas e acções de conservação adequadas, por portaria conjunta do Ministro do Ambiente e do Ordenamento do Território e dos ministros com tutela sobre os sectores com interesses relevantes na ZEC visada, precedidos de consulta pública que segue os trâmites previstos no regime jurídico dos instrumentos de gestão territorial para os planos especiais de ordenamento do território;
+
+b) Outras medidas regulamentares, administrativas ou contratuais que cumpram os objectivos de conservação visados pelo presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 7.º-A — Regime transitório dos sítios da lista nacional de sítios
+
+Aos sítios da lista nacional de sítios aprovados nos termos dos n.os 2 e 3 do artigo 5.º e enquanto não se proceder à sua classificação como ZEC é aplicável o regime previsto no presente diploma para as ZEC.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-24
+
+###### Artigo 7.º-B — Regime das ZPE
+
+1 - As ZPE são sujeitas às medidas de conservação necessárias, nos termos dos diplomas que procedem à sua classificação, bem como às medidas adequadas para evitar a poluição ou a deterioração dos habitats e as perturbações que afectam as espécies de aves do anexo I e das aves migratórias, desde que tenham um efeito significativo a propósito dos objectivos da classificação.
+
+2 - Para efeitos do disposto no número anterior, às ZPE, designadas ou a designar, é aplicável o regime previsto no presente diploma para as ZEC.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-24
+
+###### Artigo 7.º-C — Outros habitats
+
+1 - Os instrumentos das políticas de ordenamento do território e de desenvolvimento devem manter e, se possível, desenvolver os elementos paisagísticos de importância fundamental para a fauna e a flora selvagens, tendo em vista a melhoria da coerência ecológica da Rede Natura 2000, incluindo através de incentivos à sua gestão adequada.
+
+2 - Para efeitos do disposto no número anterior, consideram-se elementos paisagísticos de importância fundamental para a fauna e a flora selvagens os elementos que, pela sua estrutura linear e contínua, como os rios, ribeiras e respectivas margens ou os sistemas tradicionais de delimitação dos campos, ou pelo seu papel de espaço de ligação, como os lagos, lagoas ou matas, são essenciais à migração, à distribuição geográfica e ao intercâmbio genético de espécies selvagens.
+
+3 - Os habitats das espécies dos anexos A-I e B-IV, bem como das espécies de aves migratórias não incluídas no anexo A-I e que não sejam abrangidos pela classificação de ZPE, são sujeitos, sempre que possível, a medidas adequadas para evitar a poluição ou a sua deterioração, tendo em vista os objectivos de conservação das espécies visados pela respectiva classificação.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-24
+
+###### Artigo 8.º — Ordenamento do território
+
+1 - Os instrumentos de gestão territorial aplicáveis nas ZEC e nas ZPE devem garantir a conservação dos habitats e das populações das espécies em função dos quais as referidas zonas foram classificadas.
+
+2 - Quando a totalidade ou parte das ZEC e ZPE se localizem dentro dos limites de áreas protegidas, classificadas nos termos da lei, o objectivo previsto no número anterior é assegurado através de planos especiais de ordenamento das áreas protegidas.
+
+3 - Na primeira revisão ou alteração dos instrumentos de gestão territorial aplicáveis deve:
+
+a) Avaliar-se a execução dos objectivos previstos no n.º 1, especificando-se no respectivo relatório o fundamento das previsões, restrições e determinações aprovadas, por referência a tais objectivos;
+
+b) Adaptar-se o instrumento de gestão territorial às medidas de conservação definidas através dos mecanismos previstos no n.º 1 do artigo 7.º e no artigo 7.º-B ou previstas no plano sectorial.
+
+4 - A execução da Rede Natura 2000 é objecto de um plano sectorial, elaborado nos termos do Decreto-Lei n.º 380/99, de 22 de Setembro, e da Resolução do Conselho de Ministros n.º 66/2001, de 6 de Junho, tendo em conta o desenvolvimento económico e social das áreas abrangidas e estabelecendo orientações para:
+
+a) A gestão territorial nos sítios da lista nacional de sítios, nos sítios de importância comunitária, nas ZEC e nas ZPE;
+
+b) As medidas referentes à conservação das espécies da fauna, flora e habitats.
+
+5 - O plano sectorial deve ser revisto sempre que se verifique alteração dos limites das áreas de sua incidência, tendo em vista a execução de medidas de gestão para as novas áreas.
+
+6 - As formas de adaptação dos planos especiais e dos planos municipais de ordenamento do território existentes são definidas no plano sectorial previsto no n.º 4, nos termos do n.º 1 do artigo 25.º do Decreto-Lei n.º 380/99, de 22 de Setembro.
+
+7 - A adaptação dos planos especiais e dos planos municipais de ordenamento do território existentes, em conformidade com o disposto no número anterior, deve ocorrer no prazo de seis anos após a aprovação do plano sectorial.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 9.º — Actos e actividades condicionados
+
+1 - Sem prejuízo do disposto no n.º 1 do artigo 7.º, as entidades da Administração Pública com intervenção nas zonas especiais de conservação devem, no exercício das suas competências, evitar a deterioração dos habitats naturais e dos habitats de espécies, bem como as perturbações que atinjam espécies para as quais as zonas foram designadas, na medida em que possam vir a ter um efeito significativo, atendendo aos objectivos do presente diploma.
+
+2 - Até à revisão ou alteração dos planos especiais de ordenamento do território aplicáveis e, nas áreas não abrangidas por aqueles planos, sempre que os relatórios dos planos municipais de ordenamento do território aplicáveis não contenham a fundamentação referida na alínea a) do n.º 3 do artigo anterior, dependem de parecer favorável do ICN ou da comissão de coordenação e desenvolvimento regional competente:
+
+a) A realização de obras de construção civil fora dos perímetros urbanos, com excepção das obras de reconstrução, demolição, conservação de edifícios e ampliação desde que esta não envolva aumento de área de implantação superior a 50% da área inicial e a área total de ampliação seja inferior a 100 m2;
+
+b) A alteração do uso actual do solo que abranja áreas contínuas superiores a 5 ha;
+
+c) As modificações de coberto vegetal resultantes da alteração entre tipos de uso agrícola e florestal, em áreas contínuas superiores a 5 ha, considerando-se continuidade as ocupações similares que distem entre si menos de 500 m;
+
+d) As alterações à morfologia do solo, com excepção das decorrentes das normais actividades agrícolas e florestais;
+
+e) A alteração do uso actual dos terrenos das zonas húmidas ou marinhas, bem como as alterações à sua configuração e topografia;
+
+f) A deposição de sucatas e de resíduos sólidos e líquidos;
+
+g) A abertura de novas vias de comunicação, bem como o alargamento das existentes;
+
+h) A instalação de infra-estruturas de electricidade e telefónicas, aéreas ou subterrâneas, de telecomunicações, de transporte de gás natural ou de outros combustíveis, de saneamento básico e de aproveitamento de energias renováveis ou similares fora dos perímetros urbanos;
+
+i) A prática de actividades motorizadas organizadas e competições desportivas fora dos perímetros urbanos;
+
+j) A prática de alpinismo, de escalada e de montanhismo;
+
+l) A reintrodução de espécies indígenas da fauna e da flora selvagens.
+
+3 - O parecer previsto no número anterior deve ser emitido no prazo de 45 dias úteis a contar da data da sua solicitação.
+
+4 - O prazo referido no número anterior suspende-se, nas situações previstas no n.º 2 do artigo 10.º, desde a data da proposta do procedimento de avaliação de impacte ambiental até à decisão sobre a realização desse procedimento.
+
+5 - A ausência de parecer no prazo previsto no n.º 3 equivale à emissão de parecer favorável.
+
+6 - Cabe recurso dos pareceres desfavoráveis para o Ministro do Ambiente e do Ordenamento do Território, no prazo de 30 dias a contar da sua notificação.
+
+7 - O Ministro do Ambiente e do Ordenamento do Território, por despacho, pode determinar que a competência para a emissão do parecer previsto no n.º 2 é exercida pelas comissões de coordenação e desenvolvimento regional e do ordenamento do território, em função da área geográfica ou da tipologia do projecto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 10.º — Avaliação de impacte ambiental e análise de incidências ambientais
+
+1 - As acções, planos ou projectos não directamente relacionados com a gestão de um sítio da lista nacional de sítios, de um sítio de interesse comunitário, de uma zona especial de conservação ou de uma zona de protecção especial e não necessários para essa gestão, mas susceptíveis de afectar essa zona de forma significativa, individualmente ou em conjugação com outras acções, planos ou projectos, devem ser objecto de avaliação de incidências ambientais no que se refere aos objectivos de conservação da referida zona.
+
+2 - A avaliação de incidências ambientais segue a forma do procedimento de avaliação de impacte ambiental quando:
+
+a) O referido procedimento seja aplicável nos termos da legislação em vigor;
+
+b) Para assegurar a efectiva execução dos objectivos visados pelo número anterior, o referido procedimento seja aplicável nos termos do n.º 3 do artigo 1.º do Decreto-Lei n.º 69/2000, de 3 de Maio.
+
+3 - Sem prejuízo do disposto nos n.os 4 e 5, nos casos não abrangidos pelo número anterior, a entidade competente para decidir das acções, planos ou projectos deve promover, previamente à respectiva aprovação ou licenciamento, a realização de uma análise de incidências ambientais.
+
+4 - Após a publicação do plano sectorial previsto no n.º 4 do artigo 8.º, as decisões de sujeição a avaliação de impacte ambiental devem cumprir os critérios aí definidos.
+
+5 - Quando haja lugar a parecer do ICN ou da comissão de coordenação e desenvolvimento regional competente, a análise de incidências ambientais prevista no n.º 3 é efectuada no referido parecer.
+
+6 - A análise de incidências ambientais abrange:
+
+a) A descrição da acção, plano ou projecto em apreciação, individualmente ou em conjunto com outras acções, planos ou projectos;
+
+b) A caracterização da situação de referência;
+
+c) A identificação e avaliação conclusiva dos previsíveis impactes ambientais, designadamente os susceptíveis de afectar a conservação de habitats e de espécies da flora e da fauna;
+
+d) O exame de soluções alternativas;
+
+e) Quando adequado, a proposta de medidas que evitem, minimizem ou compensem os efeitos negativos identificados.
+
+7 - A análise de incidências ambientais deve constar da fundamentação da decisão sobre as acções, planos ou projectos previstos no n.º 1, sendo precedida, sempre que necessário, de consulta pública.
+
+8 - Para efeitos da análise de incidências ambientais prevista nos números anteriores, as entidades administrativas competentes podem solicitar os elementos ou informações adequados.
+
+9 - As acções, planos ou projectos previstos no n.º 1 apenas são autorizados quando tiver sido assegurado que não afectam a integridade do sítio da lista nacional de sítios, do sítio de interesse comunitário, da ZEC ou da ZPE em causa.
+
+10 - A realização de acção, plano ou projecto objecto de conclusões negativas na avaliação de impacte ambiental ou na análise das suas incidências ambientais depende do reconhecimento, por despacho conjunto do Ministro do Ambiente e do Ordenamento do Território e do ministro competente em razão da matéria, da ausência de soluções alternativas e da sua necessidade por razões imperativas de reconhecido interesse público, incluindo de natureza social ou económica.
+
+11 - Sem prejuízo do disposto no número anterior, quando a acção, plano ou projecto, objecto de conclusões negativas na avaliação de impacte ambiental ou na análise das suas incidências ambientais, afecte um tipo de habitat natural ou espécie prioritários de um sítio da lista nacional de sítios, de um sítio de interesse comunitário, de uma ZEC e de uma ZPE, apenas podem ser invocadas as seguintes razões:
+
+a) A saúde ou a segurança públicas;
+
+b) As consequências benéficas primordiais para o ambiente;
+
+c) Outras razões imperativas de reconhecido interesse público, mediante parecer prévio da Comissão Europeia.
+
+12 - Nos casos previstos nos n.os 10 e 11, são aprovadas medidas compensatórias necessárias à protecção da coerência global da Rede Natura 2000.
+
+13 - As medidas compensatórias aprovadas são comunicadas à Comissão Europeia.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+#### Secção III — Regime jurídico de protecção de espécies
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 11.º — Espécies animais
+
+1 - Para assegurar a protecção das espécies de aves previstas na alínea a) do n.º 1 do artigo 2.º e das espécies animais constantes dos anexos B-II e B-IV, é proibido:
+
+a) Capturar, abater ou deter os espécimes respectivos, qualquer que seja o método utilizado;
+
+b) Perturbar esses espécimes, nomeadamente durante o período de reprodução, de dependência, de hibernação e de migração, desde que essa perturbação tenha um efeito significativo relativamente aos objectivos do presente diploma;
+
+c) Destruir, danificar, recolher ou deter os seus ninhos e ovos, mesmo vazios;
+
+d) Deteriorar ou destruir os locais ou áreas de reprodução e repouso dessas espécies.
+
+2 - Relativamente às espécies referidas no n.º 1, são ainda proibidas a exposição com fins comerciais, a venda, a oferta, a troca, a detenção, o transporte para fins de venda ou de troca e ainda a compra de espécimes retirados do meio natural, vivos ou mortos, incluindo qualquer parte ou produto obtido a partir dos mesmos, com excepção dos espécimes obtidos legalmente antes da entrada em vigor do Decreto-Lei n.º 75/91, de 14 de Fevereiro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 224/93, de 18 de Junho, e do Decreto-Lei n.º 226/97, de 27 de Agosto.
+
+3 - As proibições referidas nas alíneas a) e b) do n.º 1 e no n.º 2 aplicam-se a todas as fases da vida dos animais abrangidos pelo presente artigo.
+
+4 - A proibição prevista na alínea a) do n.º 1 não se aplica às espécies constantes do anexo D quando esses actos sejam permitidos pela legislação que regula o exercício da caça.
+
+5 - A legislação especial prevista no número anterior deve garantir que a caça às espécies constantes do anexo D:
+
+a) Não compromete os esforços de conservação das espécies empreendidos na sua área de distribuição;
+
+b) Respeita os princípios de uma utilização razoável e de uma regulamentação equilibrada do ponto de vista ecológico;
+
+c) É compatível, no que respeita à população das espécies, incluindo as espécies migradoras, com os objectivos do presente diploma;
+
+d) Não decorre durante o período nidícola, nem durante os diferentes estádios de reprodução e de dependência ou, quando se trate de espécies migradoras, durante o seu período de reprodução e durante o período de retorno ao seu local de nidificação.
+
+6 - As proibições previstas nos n.os 1 e 2 não se aplicam aos espécimes de espécies comprovadamente de cativeiro.
+
+7 - As proibições previstas no n.º 2 não se aplicam, ainda, a:
+
+a) Espécies constantes do anexo A-II, quando as aves tenham sido legalmente capturadas ou mortas ou legalmente adquiridas de outro modo;
+
+b) Espécies constantes do anexo A-III, quando as aves tenham sido legalmente capturadas ou mortas ou legalmente adquiridas de outro modo, mediante parecer prévio favorável do ICN e após consulta à Comissão Europeia, nos termos do n.º 3 do artigo 6.º da Directiva n.º 79/409/CEE, do Conselho, de 2 de Abril;
+
+c) Espécies constantes do anexo D, quando aqueles actos sejam permitidos pela legislação que regula o exercício da caça.
+
+d) Espécies aquícolas, quando aqueles atos sejam permitidos pela legislação que regula o exercício da pesca.
+
+8 - O parecer previsto na alínea b) do número anterior deve ser emitido no prazo de 45 dias úteis a contar da data da sua solicitação.
+
+9 - A ausência de parecer no prazo previsto no número anterior equivale à emissão de parecer favorável.
+
+10 - O ICN, a Direcção-Geral dos Recursos Florestais e o Instituto Nacional de Investigação Agrária e das Pescas devem, no âmbito das suas competências:
+
+a) Instituir um sistema de vigilância permanente das capturas ou abates acidentais das espécies da fauna previstas no n.º 1;
+
+b) Promover as investigações ou medidas de conservação subsequentes que se revelem adequadas para garantir que as capturas ou abates acidentais não têm um impacte negativo importante nas espécies em questão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 156-A/2013 - Diário da República n.º 217/2013, 2º Suplemento, Série I de 2013-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), em vigor a partir de 2013-11-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 12.º — Espécies vegetais
+
+1 - Para assegurar a protecção das espécies vegetais constantes dos anexos B-II e B-IV, são proibidos:
+
+a) A colheita, o corte, o desenraizamento ou a destruição das plantas ou partes de plantas no seu meio natural e dentro da sua área de distribuição natural;
+
+b) A detenção, o transporte, a venda ou troca e a oferta para fins de venda ou de troca de espécimes das referidas espécies, colhidos no meio natural, com excepção dos espécimes legalmente colhidos antes da entrada em vigor do Decreto-Lei n.º 226/97, de 27 de Agosto.
+
+2 - As proibições referidas no número anterior aplicam-se a todas as fases do ciclo biológico das plantas abrangidas pelo presente artigo.
+
+3 - As proibições previstas no n.º 1 não se aplicam aos espécimes artificialmente propagados.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 13.º — Meios e formas de captura ou abate proibidos
+
+Para a recolha, captura ou abate de espécimes das espécies da fauna selvagem enumerados na alínea a) do anexo B-V e no anexo D são proibidos todos os meios não selectivos, instalações ou métodos de captura ou de abate, susceptíveis de provocar localmente a extinção ou de perturbar gravemente a tranquilidade das populações das referidas espécies e, em particular:
+
+a) A utilização dos meios de captura ou de abate não selectivos enumerados na alínea a) do anexo C;
+
+b) Qualquer forma de captura ou abate a partir dos meios de transporte referidos na alínea b) do anexo C.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 14.º — Medidas para a colheita, captura e abate
+
+1 - Sempre que necessário, são fixadas as medidas adequadas para que a colheita, captura e abate no meio natural, bem como a exploração, de espécimes das espécies da flora e da fauna selvagens constantes nos anexos B-V e D sejam compatíveis com a sua manutenção num estado de conservação favorável.
+
+2 - As medidas referidas no n.º 1 podem compreender, nomeadamente:
+
+a) As restrições relativas ao acesso a determinadas áreas;
+
+b) A proibição temporária de captura e abate ou a interdição de locais de captura, abate e colheita de espécimes no meio natural e de exploração de certas populações;
+
+c) A regulamentação dos períodos ou dos modos de colheita, captura e abate;
+
+d) A aplicação na colheita ou captura e abate de regras haliêuticas ou cinegéticas que respeitem a sua conservação;
+
+e) A criação de um sistema de autorizações da colheita, captura e abate ou de quotas;
+
+f) A regulamentação da compra, venda, colocação no mercado, detenção ou transporte com vista à venda de espécimes;
+
+g) A criação de espécimes de espécies animais em cativeiro, bem como a propagação artificial de espécies vegetais, em condições estritamente controladas, com vista à redução da sua colheita no meio natural;
+
+h) A avaliação do efeito das medidas adoptadas.
+
+3 - O Governo, por decreto-lei ou, quando aplicável, por portaria conjunta dos Ministros da Agricultura, Pescas e Florestas e do Ambiente e do Ordenamento do Território, fixa as medidas previstas nos n.os 1 e 2.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 15.º — Colecções
+
+1 - É proibido coleccionar espécimes, vivos ou mortos, das espécies previstas nos artigos 11.º e 12.º, incluindo partes ou produtos delas derivados, bem como ninhos e ovos, com excepção das espécies constantes no anexo D quando esses actos sejam permitidos pela legislação que regula o exercício da caça.
+
+2 - A proibição prevista no número anterior não se aplica a colecções para fins de investigação ou de ensino, bem como a espécimes comprovadamente de cativeiro.
+
+3 - Para efeitos do disposto no número anterior, os interessados devem comprovar junto do Instituto da Conservação da Natureza e das Florestas, I.P., a finalidade das respetivas coleções de acordo com os procedimentos previstos no artigo seguinte.
+
+4 - Para efeitos de aplicação dos n.os 2 e 3, as entidades singulares ou colectivas já possuidoras de colecções ficam obrigadas a dar conhecimento ao ICN das características essenciais identificadoras dessas colecções, no prazo de 180 dias contados da data da entrada em vigor do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 156-A/2013 - Diário da República n.º 217/2013, 2º Suplemento, Série I de 2013-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), em vigor a partir de 2013-11-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 15.º-A — Espécimes de cativeiro
+
+Os detentores de espécimes de espécies de aves autóctones ou de outras espécies incluídas no âmbito de aplicação do presente diploma devem proceder conforme estipulado em portaria dos membros do Governo responsáveis pelas áreas das finanças, da conservação da natureza e das pescas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 156-A/2013 - Diário da República n.º 217/2013, 2º Suplemento, Série I de 2013-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), em vigor a partir de 2013-11-13
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-24
+
+###### Artigo 16.º — Introdução de espécies não indígenas
+
+A introdução na natureza de espécies da flora e da fauna que não ocorram naturalmente no estado selvagem em território nacional bem como a definição das medidas adequadas a esse fim são reguladas em diploma próprio.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 17.º — Recolha e tratamento de animais selvagens e detenção de animais irrecuperáveis
+
+Sem prejuízo do disposto no n.º 1 do artigo 11.º, a actividade de recolha e tratamento de animais selvagens para promover a sua reprodução, criação em cativeiro ou devolução ao meio natural é regulamentada por portaria do Ministro do Ambiente e do Ordenamento do Território.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 18.º — Anilhagem
+
+1 - A actividade de anilhagem é regulamentada por portaria conjunta dos Ministros da Agricultura, Pescas e Florestas e do Ambiente e do Ordenamento do Território.
+
+2 - Até à entrada em vigor do diploma previsto no número anterior, a actividade de anilhagem só pode ser exercida por pessoas singulares e carece de autorização prévia do ICN.
+
+3 - O pedido de autorização previsto no número anterior deve ser instruído com os seguintes elementos:
+
+a) Identificação pessoal do requerente;
+
+b) Identificação das espécies objecto de anilhagem;
+
+c) Identificação do local de anilhagem;
+
+d) Fundamentação técnica;
+
+e) Descrição de experiência anterior no exercício da actividade de anilhagem.
+
+4 - Para efeitos do disposto no n.º 2, o ICN emite uma credencial que contém, para além dos elementos previstos no número anterior, a indicação do respectivo prazo de validade, o qual não pode ser superior a um ano.
+
+5 - A autorização prevista no n.º 2 deve ser concedida no prazo de 45 dias úteis a contar da data da sua solicitação.
+
+6 - Considera-se indeferido o pedido quando não for concedida autorização no prazo referido no número anterior.
+
+7 - Os titulares de credenciais devem apresentá-las sempre que os funcionários do ICN ou demais agentes da fiscalização o solicitem.
+
+8 - No prazo de 30 dias a contar do termo do período de validade das credenciais, os respectivos titulares devem enviar ao ICN um relatório especificando o número de espécimes de cada espécie capturados e anilhados ao abrigo da credencial emitida, os locais de captura e de anilhagem, bem como os métodos utilizados.
+
+9 - A emissão de novas credenciais depende da apresentação do relatório previsto no número anterior.
+
+10 - Compete exclusivamente ao ICN o fornecimento das anilhas metálicas utilizadas na actividade de anilhagem, com excepção das utilizadas em espécimes de espécies de aves constantes no anexo D, quando resultantes de criação em cativeiro.
+
+11 - A anilha metálica deve conter uma numeração individual e uma menção ao serviço competente do ICN.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 19.º — Taxidermia
+
+1 - É proibida a taxidermia em espécimes das espécies de aves previstas na alínea a) do n.º 1 do artigo 2.º e das espécies de animais inscritas nos anexos B-II, B-IV e B-V, até à entrada em vigor da respectiva regulamentação, por portaria do Ministro do Ambiente e do Ordenamento do Território.
+
+2 - É proibida a taxidermia em espécimes das espécies constantes do anexo D, até à entrada em vigor da respectiva regulamentação, por portaria do Ministro da Agricultura, Pescas e Florestas.
+
+3 - O disposto nos números anteriores não prejudica a taxidermia para fins de investigação e educação licenciada pelo ICN, nos termos do artigo 20.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 20.º — Regime excepcional
+
+1 - Os actos e as actividades proibidos nos artigos 11.º, 12.º e 19.º ou a utilização dos meios proibidos nas alíneas a) e b) do artigo 13.º podem ser excepcionalmente permitidos, mediante licença do ICN, desde que não exista alternativa satisfatória, não seja prejudicada a manutenção das populações da espécie em causa num estado de conservação favorável, na sua área de distribuição natural, e quando o acto ou actividade vise atingir uma das seguintes finalidades:
+
+a) Proteger a flora e a fauna selvagens e conservar os habitats naturais;
+
+b) Evitar graves prejuízos, nomeadamente às culturas, à criação de gado, à apicultura, às florestas, à pesca, à caça, à aquicultura, à criação de caça em cativeiro, aos recursos hídricos e à propriedade pública e privada;
+
+c) Garantir a saúde e a segurança públicas, a segurança aeronáutica ou outros interesses públicos prioritários, designadamente de carácter social ou económico;
+
+d) Obter consequências benéficas de importância primordial para o ambiente;
+
+e) Permitir a investigação e a educação;
+
+f) Permitir o repovoamento e a reintrodução de espécies;
+
+g) Permitir a criação de espécimes das espécies associada às acções referidas nas alíneas e) e f), incluindo a reprodução artificial de plantas, sem prejuízo do disposto na legislação em vigor;
+
+h) Permitir a taxidermia de espécimes das espécies associada às acções referidas na alínea e);
+
+i) Permitir, em condições estritamente controladas pelo ICN e de um modo selectivo, a captura em locais autorizados pelo ICN, a detenção ou qualquer outra exploração judiciosa de espécimes de espécies de aves, incluídas no âmbito do presente diploma.
+
+2 - Do alvará da licença a emitir nos termos do número anterior devem constar:
+
+a) A sua finalidade e propósitos;
+
+b) A referência à espécie ou espécies em causa;
+
+c) A indicação do período de duração da licença, o qual não pode ser superior a um ano;
+
+d) As freguesias e concelhos abrangidos pela autorização;
+
+e) O número de espécimes de cada espécie em causa, sempre que tal indicação seja possível;
+
+f) Os métodos e meios de equipamento que se podem utilizar;
+
+g) Outras indicações ou limites que se julguem necessários.
+
+3 - Os requerimentos para a obtenção da licença prevista no n.º 1 são instruídos com os elementos tendentes à demonstração das condições aí referidas.
+
+4 - A autorização para a prática dos actos e actividades a que se refere o n.º 1 deverá ser concedida no prazo de 45 dias úteis a contar da data da sua solicitação.
+
+5 - Considera-se indeferido o pedido quando não for concedida autorização no prazo referido no número anterior.
+
+6 - Os titulares das licenças devem exibir o respectivo alvará sempre que os funcionários do ICN ou demais agentes da fiscalização assim o solicitem.
+
+7 - Findo o período de duração das licenças, e no prazo de 30 dias a contar do seu termo, os respectivos titulares devem enviar ao ICN um relatório onde conste os contingentes de espécimes de cada espécie efectivamente capturados ou abatidos, bem como o número de ninhos ou ovos removidos ao abrigo da licença emitida, os locais de captura ou abate e os métodos utilizados.
+
+8 - A concessão de novas licenças fica dependente da apresentação do relatório referido no número anterior.
+
+9 - Sempre que estejam em causa espécies constantes do anexo D, as competências previstas nos números anteriores, desde que previstas na legislação que regula o exercício da caça, são exercidas pelos serviços do Ministério da Agricultura, Pescas e Florestas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+#### Secção IV — Vigilância
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 20.º-A — Vigilância
+
+1 - Compete ao ICN, tendo especialmente em conta os tipos de habitat natural e as espécies prioritárias, assegurar a monitorização e a vigilância sistemática do estado de conservação das espécies e dos habitats previstos no n.º 1 do artigo 2.º
+
+2 - Sem prejuízo do disposto no número anterior, compete aos serviços do Ministério da Agricultura, Pescas e Florestas com intervenção em matéria de actividade cinegética assegurar a monitorização e a vigilância sistemática do estado de conservação das espécies constantes no anexo D.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-24
+
+### Capítulo III — Fiscalização e sanções
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 21.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente diploma e respectiva legislação complementar compete ao ICN, às autarquias locais, às comissões de coordenação e desenvolvimento regional, ao Instituto da Água, à Direcção-Geral dos Recursos Florestais, às direcções regionais de agricultura e às autoridades policiais.
+
+2 - O disposto no número anterior não prejudica o exercício dos poderes de fiscalização e polícia que, em razão da matéria, competem às demais autoridades públicas, nomeadamente marítimas e portuárias.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 22.º — Contra-ordenações
+
+1 - Constitui contraordenação ambiental grave, punível nos termos da Lei-Quadro das Contraordenações Ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto:
+
+a) A violação do disposto no n.º 2 do artigo 9.º;
+
+b) A violação do disposto no n.º 1 do artigo 10.º
+
+2 - Constitui contraordenação ambiental grave, punível nos termos da Lei-Quadro das Contraordenações Ambientais:
+
+a) A violação do disposto nos n.os 1, 2 e 3 do artigo 11.º;
+
+b) A violação do disposto no n.º 1 do artigo 12.º;
+
+c) A violação do disposto no artigo 13.º;
+
+d) A violação do disposto nos n.os 1, 3 e 4 do artigo 15.º;
+
+e) A violação do disposto no n.º 2 do artigo 18.º;
+
+f) A violação do disposto nos n.os 1 e 2 do artigo 19.º
+
+3 - A tentativa e a negligência são puníveis nos termos da Lei-Quadro das Contraordenações Ambientais.
+
+4 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 23.º — Sanções acessórias
+
+As contraordenações previstas no n.º 1 do artigo 22.º podem ainda determinar, quando a gravidade da infração assim o justifique, a aplicação das sanções acessórias previstas na Lei-Quadro das Contraordenações Ambientais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01.
+
+###### Artigo 24.º — Processo de contra-ordenação e aplicação de coimas e sanções acessórias
+
+1 - Compete ao ICN o processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias nos seguintes casos:
+
+a) Na totalidade ou parte dos sítios da lista nacional de sítios, dos sítios de interesse comunitário ou das ZEC que se localizem dentro dos limites das áreas protegidas, classificadas ao abrigo do Decreto-Lei n.º 19/93, de 23 de Janeiro, ou de legislação anterior;
+
+b) Na totalidade ou na parte das ZPE criadas ao abrigo do presente diploma ou de legislação anterior que se localizem dentro dos limites das áreas protegidas classificadas ao abrigo do Decreto-Lei n.º 19/93, de 23 de Janeiro, ou de legislação anterior.
+
+2 - Compete às comissões de coordenação e desenvolvimento regional o processamento das contra-ordenações e a aplicação das coimas e das sanções acessórias nos seguintes casos:
+
+a) Nos sítios da lista nacional de sítios, nos sítios de interesse comunitário e nas ZEC, bem como nas ZPE não abrangidos pelas alíneas a) e b) do número anterior;
+
+b) No remanescente do território nacional.
+
+3 - A receita das coimas previstas no artigo 22.º será assim distribuída:
+
+a) 60% para o Estado;
+
+b) 20% para a entidade autuante;
+
+c) 20% para a entidade que processa a contra-ordenação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 25.º — Reposição da situação anterior
+
+1 - Sem prejuízo da aplicação da coima e das sanções acessórias, o ICN ou a comissão de coordenação e desenvolvimento regional territorialmente competente podem, nos termos dos n.os 1 e 2 do artigo anterior, intimar o infractor a proceder à reposição da situação anterior à infracção, fixando as acções necessárias para o efeito e o respectivo prazo de execução.
+
+2 - Após a notificação para as acções referidas no número anterior e se a obrigação não for cumprida no prazo fixado, o ICN ou a comissão de coordenação e desenvolvimento regional territorialmente competente procede ou manda proceder às acções necessárias por conta do infractor.
+
+3 - As despesas realizadas por força do número anterior, quando não forem pagas voluntariamente pelo infractor no prazo de 20 dias a contar da sua notificação, são cobradas nos termos do processo de execuções fiscais, constituindo a nota de despesas título executivo bastante, devendo dela constar o nome e o domicílio do devedor, a proveniência da dívida e a indicação, por extenso, do seu montante, bem como a data a partir da qual são devidos juros de mora.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 25.º-A — Embargo e demolição
+
+Sem prejuízo da coima aplicável e das sanções acessórias, o ICN ou a comissão de coordenação e desenvolvimento regional territorialmente competente podem:
+
+a) Determinar o embargo ou a demolição das obras que não tenham sido precedidas do parecer previsto no artigo 9.º ou que não estejam em conformidade com aquele parecer;
+
+b) Fazer cessar outras acções realizadas em violação ao disposto no presente diploma.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-24
+
+### Capítulo IV — Disposições finais
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 26.º — Regiões Autónomas
+
+1 - O regime do presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da administração regional autónoma, a introduzir em diploma regional adequado.
+
+2 - Compete às Regiões Autónomas dos Açores e da Madeira a aprovação das ZPE e dos sítios respectivos que integram a lista nacional de sítios.
+
+3 - Os serviços e organismos das administrações regionais autónomas devem remeter ao Instituto da Conservação da Natureza a informação necessária à elaboração dos relatórios exigidos pelas Directivas n.os 92/43/CE, do Conselho, de 21 de Maio, e 79/409/CE, do Conselho, de 2 de Abril.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25
+
+###### Artigo 27.º — Revogações
+
+São revogados o Decreto-Lei n.º 75/91, de 14 de Fevereiro, o Decreto-Lei n.º 224/93, de 18 de Junho, e o Decreto-Lei n.º 226/97, de 27 de Agosto.
+
+Visto e aprovado em Conselho de Ministros de 28 de Janeiro de 1999. - António Manuel de Oliveira Guterres - José Veiga Simão - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
+
+Promulgado em 30 de Março de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 9 de Abril de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo A-I — Espécies de aves de interesse comunitário cuja conservação requer a designação de zonas de protecção especial
+
+Um asterisco (*) colocado antes do nome de uma espécie indica que se trata de uma espécie prioritária.
+
+Gavia stellata - mobelha-pequena.
+
+Gavia arctica - mobelha-árctica.
+
+Gavia immer - mobelha-grande.
+
+Podiceps auritus - mergulhão-de-pescoço-castanho.
+
+* Pterodroma feae - freira-do-bugio.
+
+* Pterodroma madeira - freira-da-madeira.
+
+Bulweria bulwerii - pardela-de-bulwer.
+
+Calonectris diomedea - pardela-de-bico-amarelo.
+
+* Puffinus puffinus mauretanicus - pardela-sombria-das-baleares.
+
+Puffinus assimilis - pardela-pequena.
+
+Pelagodroma marina - painho-de-ventre-branco.
+
+Hydrobates pelagicus - painho-de-cauda-quadrada.
+
+Oceanodroma leucorhoa - painho-de-cauda-forcada.
+
+Oceanodroma castro - painho-da-madeira.
+
+* Phalacrocorax aristotelis desmarestii - corvo-marinho-de-crista (mediterrânico).
+
+* Phalacrocorax pygmeus - corvo-marinho-pigmeu.
+
+Pelecanus onocrotalus - pelicano-vulgar.
+
+* Pelecanus crispus - pelicano-crespo.
+
+* Botaurus stellaris - abetouro-comum.
+
+Ixobrychus minutus - garça-pequena.
+
+Nycticorax nycticorax - goraz.
+
+Ardeola ralloides - papa-ratos.
+
+Egretta garzetta - garça-branca.
+
+Egretta alba - garça-branca-grande.
+
+Ardea purpurea - garça-vermelha.
+
+Ciconia nigra - cegonha-preta.
+
+Ciconia ciconia - cegonha-branca.
+
+Plegadis falcinellus - maçarico-preto.
+
+Platalea leucorodia - colhereiro.
+
+Phoenicopterus ruber - flamingo.
+
+Cygnus bewickii (Cygnus columbanus bewckii) - cisne-pequeno.
+
+Cygnus cygnus - cisne-bravo.
+
+* Anser albifrons flavirostris - ganso-da-gronelândia.
+
+Anser erythropus - ganso-pequeno-de-testa-branca.
+
+Branta leucopsis - ganso-de-faces-brancas.
+
+* Branta ruficollis - ganso-de-pescoço-ruivo.
+
+Tadorna ferruginea - pato-ferrugíneo.
+
+* Marmaronetta angustirostris - pardilheira.
+
+* Aythya nyroca - zarro-castanho.
+
+Mergus albellus - merganso-pequeno.
+
+* Oxyura leucocephala - pato-de-rabo-alçado.
+
+Pernis apivorus - falcão-abelheiro.
+
+Elanus caeruleus - peneireiro-cinzento.
+
+Milvus migrans - milhafre-preto.
+
+Milvus milvus - milhano.
+
+Haliaeetus albicilla - águia-rabalva.
+
+* Gypaetus barbatus - quebra-osso.
+
+Neophron percnopterus - abutre-do-egipto.
+
+Gyps fulvus - grifo.
+
+* Aegypius monachus - abutre-preto.
+
+Circaetus gallicus - águia-cobreira.
+
+Circus aeruginosus - tartaranhão-ruivo-dos-pauis.
+
+Circus cyaneus - tartaranhão-azulado.
+
+Circus macrourus - tartaranhão-de-peito-branco.
+
+Circus pygargus - tartaranhão-caçador.
+
+* Accipiter gentilis arrigonii - açor (subespécie da Córsega e Sardenha).
+
+* Accipiter nisus granti - fura-bardos.
+
+Accipiter brevipes - gavião-grego.
+
+Buteo rufinus - búteo-mouro.
+
+* Aquila pomarina - águia-pomarina.
+
+* Aquila clanga - águia-gritadeira.
+
+* Aquila heliaca - águia-imperial.
+
+* Aquila adalberti - águia-imperial-ibérica.
+
+Aquila chrysaetos - águia-real.
+
+Hieraaetus pennatus - águia-calçada.
+
+* Hieraaetus fasciatus - águia-de-bonelli.
+
+Pandion haliaetus - águia-pesqueira.
+
+* Falco naumanni - peneireiro-das-torres.
+
+Falco columbarius - esmerilhão.
+
+* Falco eleonorae - falcão-da-rainha.
+
+* Falco biarmicus - borni.
+
+* Falco rusticolus - falcão-gerifalte.
+
+Falco peregrinus - falcão-peregrino.
+
+Bonasa bonasia - galinha-do-mato.
+
+Lagopus mutus pyrenaicus - lagópode-branco (subespécie pirenaica).
+
+Lagopus mutus helveticus - lagópode-branco (subespécie alpina).
+
+Tetrao tetrix tetrix - galo-lira (subespécie continental).
+
+Tetrao urogallus - tetraz.
+
+Alectoris graeca saxatilis - perdiz-grega (subespécie alpina).
+
+* Alectoris graeca whitakeri - perdiz-grega (subespécie italiana).
+
+Alectoris barbara - perdiz-moura.
+
+* Perdix perdix italica - perdiz-cinzenta (subespécie italiana).
+
+Perdix perdix hispaniensis - perdiz-cinzenta (subespécie ibérica).
+
+Turnix sylvatica - toirão.
+
+Porzana porzana - franga-d'água-grande.
+
+Porzana parva - franga-d'água-bastarda.
+
+Porzana pusilla - franga-d'água-pequena.
+
+* Crex crex - codornizão.
+
+* Porphyrio porphyrio - caimão.
+
+* Fulica cristata - galeirão-de-crista.
+
+Grus grus - grou.
+
+* Tetrax tetrax - sisão.
+
+* Chlamydotis undulata - abetarda-moura.
+
+* Otis tarda - abetarda.
+
+Himantopus himantopus - perna-longa.
+
+Recurvirostra avosetta - alfaiate.
+
+Burhinus oedicnemus - alcaravão.
+
+* Cursorius cursor - corredor.
+
+Glareola pratincola - perdiz-do-mar.
+
+Eudromias morinellus - tarambola-carambola.
+
+Pluvialis apricaria - tarambola-dourada.
+
+Hoplopterus spinosus - abibe-esporado.
+
+Philomachus pugnax - combatente.
+
+Gallinago media - narceja-real.
+
+Limosa lapponica - fuselo.
+
+* Numennius tenuirostris - maçarico-de-bico-fino.
+
+Tringa glareola - maçarico-bastardo.
+
+Xenus cinereus - maçarico-sovela.
+
+Phalaropus lobatus - falaropo-de-bico-fino.
+
+Larus melanocephalus - gaivota-do-mediterrâneo.
+
+Larus genei - gaivota-de-bico-fino.
+
+* Larus audouinii - gaivota de-audouin.
+
+Gelochelidon nilotica - gaivina-de-bico-preto.
+
+Sterna caspia - gaivina-de-bico-vermelho.
+
+Sterna sandvicensis - garajau-comum.
+
+* Sterna dougallii - andorinha-do-mar-rosada.
+
+Sterna hirundo - andorinha-do-mar-comum.
+
+Sterna paradisaea - andorinha-do-mar-árctica.
+
+Sterna albifrons - andorinha-do-mar-anã.
+
+Chlidonias hybridus - gaivina-dos-pauis.
+
+Chlidonias niger - gaivina-preta.
+
+Uria aalge ibericus - airo (subespécie ibérica).
+
+Pterocles orientalis - cortiçol-de-barriga-preta.
+
+Pterocles alchata - cortiçol-de-barriga-branca.
+
+* Columba palumbus azorica - pombo-torcaz-dos-açores.
+
+* Columba torcaz - pombo-torcaz-da-madeira.
+
+* Columba bollii - pombo-torcaz-de-bolle.
+
+* Columba junoiniae - pombo-de-rabo-branco.
+
+Bubo bubo - bufo-real.
+
+Nyctea scandiaca - bufo-branco.
+
+Surnia ulula - coruja-gavião.
+
+Glaucidium passerinum - mocho-pigmeu.
+
+Strix uralensis - coruja-uralense.
+
+Strix nebulosa - coruja-lapónica.
+
+Asio flammeus - coruja-do-nabal.
+
+Aegolius funereus - mocho-de-tengmalm.
+
+Caprimulgus europaeus - noitibó.
+
+Apus caffer - andorinhão-cafre.
+
+Alcedo atthis - guarda-rios.
+
+Coracias garrulus - rolieiro.
+
+Picus canus - peto-de-cabeça-cinzenta.
+
+Dryocopus martius - peto-preto.
+
+* Dendrocopos major canariensis - pica-pau-de-tenerife.
+
+* Dendrocopos major thanneri - pica-pau-de-gran canaria.
+
+Dendrocopus syriacus - pica-pau-sírio.
+
+Dendrocopos medius - pica-pau-mediano.
+
+Dendrocopos leucotos - pica-pau-de-dorso-branco.
+
+Picoides tridactylus - pica-pau-tridactilo.
+
+Chersophilus duponti - calhandra-de-dupont.
+
+Melanocorypha calandra - calhandra.
+
+Calandrella brachydactyla - calhandrinha.
+
+Galerida theklae - cotovia-do-monte.
+
+Lullula arborea - cotovia-pequena.
+
+Anthus campestris - petinha-dos-campos.
+
+Troglodytes troglodytes fridanensis - carriça (subespécie Fair Isle).
+
+Luscinia svecica - pisco-de-peito-azul.
+
+Saxicola dacotiae - cartaxo-das-canárias.
+
+Oenanthe leucura - chasco-preto.
+
+Acrocephalus melanopogon - felosa-real.
+
+* Acrocephalus paludicola - felosa-aquática.
+
+Hippolais olivetorum - felosa-das-oliveiras.
+
+Sylvia sarda - toutinegra-sarda.
+
+Sylvia undata - felosa-do-mato.
+
+Sylvia rueppelli - toutinegra de ruppell.
+
+Sylvia nisoria - toutinegra-gavião.
+
+Ficedula parva - papa-moscas-pequeno.
+
+Ficedula semitorquata - papa-moscas-de-meio-colar.
+
+Ficedula albicollis - papa-moscas-de-colar.
+
+Sitta krueperi - trepadeira-de-kruper.
+
+Sitta whiteheadi - trepadeira-corsa.
+
+Lanius collurio - picanço-de-dorso-vermelho.
+
+Lanius minor - picanço-pequeno.
+
+Pyrrhocorax pyrrhocorax - gralha-de-bico-vermelho.
+
+Fringilla coelebs ombriosa - tentilhão-de-hierro.
+
+* Fringilla teydea - tentilhão-azul.
+
+* Loxia scotica - cruza-bico-escocês.
+
+Bucanetes githagineus - pintarroxo-trombeteiro.
+
+* Pyrrhula murina - priolo.
+
+Emberiza cineracea - escrevedeira-de-cabeça-amarela.
+
+Emberiza hortulana - sombria.
+
+Emberiza caesia - escrevedeira-cinzenta.
+
+## Anexo A-II — Espécies de aves cujo comércio é permitido nas condições previstas na alínea a) do n.º 4 do artigo 11.º
+
+Lagopus lagopus scoticus (e hibernicus) - lagópode-escocês.
+
+Alectoris barbara - perdiz-moura.
+
+Perdix perdix - perdiz-cinzenta.
+
+## Anexo A-III — Espécies de aves cujo comércio pode ser objecto de limitações conforme definido na alínea b) do n.º 4 do artigo 11.º
+
+Anser albifrons albifrons - ganso-grande-de-testa-branco (variedade continental).
+
+Anser anser - ganso-comum-ocidental.
+
+Aythya marila - zarro-bastardo.
+
+Somateria mollissima - eider-edredão.
+
+Melanitta nigra - pato-negro.
+
+Lagopus mutus - lagópode-branco.
+
+Tetrao terix britannicus - galo-lira (variedade britânica).
+
+Tetrao urogallus - tetraz.
+
+## Anexo B-I — Tipos de habitats naturais de interesse da comunidade cuja conservação exige a designação de zonas especiais de conservação Interpretação
+
+Interpretação
+
+As orientações para a interpretação dos tipos de habitat constam do Manual de Interpretação dos Habitats da União Europeia, tal como foi aprovado pelo comité estabelecido nos termos do artigo 20.º (Comité Habitats) e publicado pela Comissão Europeia.
+
+O código apresentado corresponde ao código Natura 2000.
+
+O símbolo * indica os tipos de habitat prioritários.
+
+1 Habitats costeiros e vegetação halófila
+
+11 Águas marinhas e meios sob influência das marés
+
+1110 Bancos de areia permanentemente cobertos por água do mar pouco profunda.
+
+1120 * Bancos de posidónias (Posidonion oceanicae).
+
+1130 Estuários.
+
+1140 Lodaçais e areais a descoberto na maré baixa.
+
+1150 * Lagunas costeiras.
+
+1160 Enseadas e baías pouco profundas.
+
+1170 Recifes.
+
+1180 Estruturas submarinas originadas por emissões gasosas.
+
+12 Falésias marítimas e praias de calhaus rolados
+
+1210 Vegetação anual das zonas de acumulação de detritos pela maré.
+
+1220 Vegetação perene das praias de calhaus rolados.
+
+1230 Falésias com vegetação das costas atlânticas e bálticas.
+
+1240 Falésias com vegetação das costas mediterrânicas com Limonium spp. endémicas.
+
+1150 Falésias com flora endémica das costas macaronésias.
+
+13 Sapais e prados salgados atlânticos e continentais
+
+1310 Vegetação pioneira de Salicornia e outras espécies anuais das zonas lodosas e arenosas.
+
+1320 Prados de Spartina (Spartinion maritimae).
+
+1330 Prados salgados atlânticos (Glauco-Puccinellietalia maritimae).
+
+1340 * Prados salgados interiores.
+
+14 Sapais e prados salgados mediterrânicos e termoatlânticos
+
+1410 Prados salgados mediterrânicos (Juncetalia maritimi).
+
+1420 Matos halófilos mediterrânicos e termoatlânticos (Sarcocornetea fruticosi).
+
+1430 Matos halonitrófilos (Pegano-Salsoletea).
+
+15 Estepes interiores halófilas e gipsófilas
+
+1510 * Estepes salgadas mediterrânicas (Limonietalia).
+
+1520 * Vegetação gipsófila ibérica (Gypsophiletalia).
+
+1530 * Estepes salgadas e sapais panónicos.
+
+16 Arquipélagos, costas e superfícies emergentes do mar Báltico boreal
+
+1610 Ilhas «esker» do Báltico com vegetação das praias de areia, de rocha ou de calhaus rolados e vegetação sublitoral.
+
+1620 Ilhéus e pequenas ilhas do Báltico boreal.
+
+1630 * Prados costeiros do Báltico boreal.
+
+1640 Praias de areia com vegetação vivaz do Báltico boreal.
+
+1650 Enseadas estreitas do Báltico boreal.
+
+2 Dunas marítimas e interiores
+
+21 Dunas marítimas das costas atlânticas, do mar do Norte e do Báltico
+
+2110 Dunas móveis embrionárias.
+
+2120 Dunas móveis do cordão litoral com Ammophila arenaria («dunas brancas»).
+
+2130 * Dunas fixas com vegetação herbácea («dunas cinzentas»).
+
+2140 * Dunas fixas descalcificadas com Empetrum nigrum.
+
+2150 * Dunas fixas descalcificadas atlânticas (Calluno-Ulicetea).
+
+2160 Dunas com Hippophaë rhamnoides.
+
+2170 Dunas com Salix repens ssp. argentea (Salicion arenariae).
+
+2180 Dunas arborizadas das regiões atlântica, continental e boreal.
+
+2190 Depressões húmidas intradunares.
+
+21A0 Machairs (* na Irlanda).
+
+22 Dunas marítimas das costas mediterrânicas
+
+2210 Dunas fixas do litoral da Crucianellion maritimae.
+
+2220 Dunas com Euphorbia terracina.
+
+2230 Dunas com prados da Malcolmietalia.
+
+2240 Dunas com prados da Brachypodietalia e espécies anuais.
+
+2250 * Dunas litorais com Juniperus spp.
+
+2260 Dunas com vegetação esclerófila da Cisto-Lavenduletalia.
+
+2270 * Dunas com florestas de Pinus pinea e ou Pinus pinaster.
+
+23 Dunas interiores, antigas e descalcificadas
+
+2310 Charnecas psamófilas secas de Calluna e Genista.
+
+2320 Charnecas psamófilas secas de Calluna e Empetrum nigrum.
+
+2330 Dunas interiores com prados abertos de Corynephourus e Agrostis.
+
+2340 * Dunas interiores panónicas.
+
+3 Habitats de água doce
+
+31 Águas paradas
+
+3110 Águas oligotróficas muito pouco mineralizadas das planícies arenosas (Littorelletalia uniflorae).
+
+3120 Águas oligotróficas muito pouco mineralizadas em solos geralmente arenosos do oeste mediterrânico com Isoëtes spp.
+
+3130 Águas estagnadas, oligotróficas a mesotróficas, com vegetação da Littorelletea uniflorae e ou da Isoëto-Nanojuncetea.
+
+3140 Águas oligomesotróficas calcárias com vegetação bêntica de Chara spp.
+
+3150 Lagos eutróficos naturais com vegetação da Magnopotamion ou da Hydrocharition.
+
+3160 Lagos e charcos distróficos naturais.
+
+3170 * Charcos temporários mediterrânicos.
+
+3180 * Turloughs.
+
+32 Águas correntes - troços de cursos de água com dinâmica natural e seminatural (leitos pequenos, médios e grandes), em que a qualidade da água não sofre mudanças significativas.
+
+3210 Cursos de água naturais da Fenoscândia.
+
+3220 Cursos de água alpinos com vegetação ripícola herbácea.
+
+3230 Cursos de água alpinos com vegetação ripícola lenhosa de Myricaria germanica.
+
+3240 Cursos de água alpinos com vegetação ripícola lenhosa de Salix elaeagnos.
+
+3250 Cursos de água mediterrânicos permanentes com Glaucium flavum.
+
+3260 Cursos de água dos pisos basal a montano com vegetação da Ranunculion fluitantis e da Callitricho-Batrachion.
+
+3270 Cursos de água de margens vasosas com vegetação da Chenopodion rubri p. p. e da Bidention p. p.
+
+3280 Cursos de água mediterrânicos permanentes da Paspalo-Agrostidion com cortinas arbóreas ribeirinhas de Salix e Populus alba.
+
+3290 Cursos de água mediterrânicos intermitentes da Paspalo-Agrostidion.
+
+4 Charnecas e matos das zonas temperadas
+
+4010 Charnecas húmidas atlânticas setentrionais de Erica tetralix.
+
+4020 * Charnecas húmidas atlânticas temperadas de Erica ciliaris e Erica tetralix.
+
+4030 Charnecas secas europeias.
+
+4040 * Charnecas secas atlânticas litorais de Erica vagans.
+
+4050 * Charnecas macaronésias endémicas.
+
+4060 Charnecas alpinas e boreais.
+
+4070 * Matos de Pinus mugo e Rhododendron hirsutum (Mugo-Rhododendretum hirsuti).
+
+4080 Matos de Salix spp. subárcticos.
+
+4090 Charnecas oromediterrânicas endémicas com giestas espinhosas.
+
+5 Matos esclerófilos
+
+51 Matos submediterrânicos e temperados
+
+5110 Formações estáveis xerotermófilas de Buxus sempervirens das vertentes rochosas (Berberidion p. p.).
+
+5120 Formações montanas de Cytisus purgans.
+
+5130 Formações de Juniperus communis em charnecas ou prados calcários.
+
+5140 * Formações de Cistus palhinhae em charnecas marítimas.
+
+52 Matagais arborescentes mediterrânicos
+
+5210 Matagais arborescentes de Juniperus spp.
+
+5220 * Matagais arborescentes de Zyziphus.
+
+5230 * Matagais arborescentes de Laurus nobilis.
+
+53 Matos termomediterrânicos pré-estépicos
+
+5310 Matas de Laurus nobilis.
+
+5320 Formações baixas de euforbiáceas junto a falésias.
+
+5330 Matos termomediterrânicos pré-desérticos.
+
+54 Friganas
+
+5410 Friganas mediterrânicas ocidentais dos cimos de falésia (Astragalo-Plantaginetum subulatae).
+
+5420 Friganas da Sarcopoterium spinosum.
+
+5430 Friganas endémicas da Euphorbio-Verbascion.
+
+6 Formações herbáceas naturais e seminaturais
+
+61 Prados naturais
+
+6110 * Prados rupícolas calcários ou basófilos da Alysso-Sedion albi.
+
+6120 * Prados calcários de areias xéricas.
+
+6130 Prados calaminares da Violetalia calaminariae.
+
+6140 Prados pirenaicos siliciosos de Festuca eskia.
+
+6150 Prados alpino-boreais siliciosos.
+
+6160 Prados oro-ibéricos de Festuca indigesta.
+
+6170 Prados calcários alpinos e subalpinos.
+
+6180 Prados mesófilos macaronésios.
+
+62 Formações herbáceas secas seminaturais e fácies arbustivas
+
+6210 Prados secos seminaturais e fácies arbustivas em substrato calcário (Festuco-Brometalia) (* importantes habitats de orquídeas).
+
+6220 * Subestepes de gramíneas e anuais da Thero-Brachypodietea.
+
+6230 * Formações herbáceas de Nardus, ricas em espécies, em substratos silicosos das zonas montanas (e das zonas submontanas da Europa continental).
+
+6240 * Prados estépicos subpanónicos.
+
+6250 * Prados estépicos panónicos em substrato de loess.
+
+6260 * Estepes panónicas em substrato arenoso.
+
+6270 * Prados fenoscandianos de baixa altitude, secos a mesófilos, ricos em espécies.
+
+6280 * Alvar nórdico e rochas planas calcárias pré-câmbricas.
+
+63 Florestas esclerófilas sujeitas a pastoreio (montados)
+
+6310 Montados de Quercus spp. de folha perene.
+
+64 Pradarias húmidas seminaturais de ervas altas
+
+6410 Pradarias com Molinia em solos calcários, turfosos e argilo-limosos (Molinion caeruleae).
+
+6420 Pradarias húmidas mediterrânicas de ervas altas da Molinio-Holoschoenion.
+
+6430 Comunidades de ervas altas higrófilas das orlas basais e dos pisos montano a alpino.
+
+6440 Pradarias aluviais inundáveis da Cnidion dubii.
+
+6450 Pradarias aluviais setêntrio-boreais.
+
+65 Prados mesófilos
+
+6510 Prados de feno pobres de baixa altitude (Alopecurus pratensis, Sanguisorba officinalis).
+
+6520 Prados de feno de montanha.
+
+6530 * Prados arborizados fenoscandianos.
+
+7 Turfeiras altas, turfeiras baixas e pântanos
+
+71 Turfeiras ácidas de Sphagnum
+
+7110 * Turfeiras altas activas.
+
+7120 Turfeiras altas degradadas ainda susceptíveis de regeneração natural.
+
+7130 Turfeiras de coberta (* turfeiras activas).
+
+7140 Turfeiras de transição e turfeiras ondulantes.
+
+7150 Depressões em substratos turfosos da Rhynchosporion.
+
+7160 Nascentes ricas em minerais e nascentes de pântano fenoscandianas.
+
+72 Pântanos calcários
+
+7210 * Pântanos calcários com Cladium mariscus e espécies da Caricion davallianae.
+
+7220 * Nascentes petrificantes com formação de travertinos (Cratoneurion).
+
+7230 Turfeiras baixas alcalinas.
+
+7240 * Formações pioneiras alpinas da Caricion bicoloris-atrofuscae.
+
+73 Turfeiras boreais
+
+7310 * Turfeiras de Aapa.
+
+7320 * Turfeiras de Palsa.
+
+8 Habitats rochosos e grutas
+
+81 Depósitos de vertente rochosos
+
+8110 Depósitos siliciosos dos pisos montano a nival (Androsacetalia alpinae e Galeopsietalia ladani).
+
+8120 Depósitos calcários e de xistos calcários dos pisos montano a alpino (Thlaspietea rotundifolii).
+
+8130 Depósitos mediterrânicos ocidentais e termófilos.
+
+8140 Depósitos mediterrânicos orientais.
+
+8150 Depósitos médio-europeus siliciosos das regiões altas.
+
+8160 * Depósitos médio-europeus calcários dos pisos colino a montano.
+
+82 Vertentes rochosas com vegetação casmofítica
+
+8210 Vertentes rochosas calcárias com vegetação casmofítica.
+
+8220 Vertentes rochosas siliciosas com vegetação casmofítica.
+
+8230 Rochas siliciosas com vegetação pioneira da Sedo-Scleranthion ou da Sedo albi-Veronicion dillenii.
+
+8240 * Lajes calcárias.
+
+83 Outros habitats rochosos
+
+8310 Grutas não exploradas pelo turismo.
+
+8320 Campos de lava e escavações naturais.
+
+8330 Grutas marinhas submersas ou semi-submersas.
+
+8340 Glaciares permanentes.
+
+9 Florestas
+
+Florestas (sub)naturais de essências indígenas no estado de matas em alto fuste com vegetação subarbustiva típica, que correspondem a um dos seguintes critérios: raras ou residuais e ou com espécies de interesse comunitário:
+
+90 Florestas da Europa boreal
+
+9010 * Taiga ocidental.
+
+9020 Florestas antigas caducifólias naturais hemiboreais da Fenoscândia ricas em epífitas (Quercus, Tilia, Acer, Fraxinus ou Ulmus).
+
+9030 * Florestas naturais dos primeiros estádios de sucessão das superfícies emergentes costeiras.
+
+9040 Florestas nórdicas subalpinas/subárcticas de Betula pubescens spp. czerepanovii.
+
+9050 Florestas fenoscandianas de Picea abies ricas em herbáceas.
+
+9060 Florestas de coníferas nos eskers fluvioglaciares ou a eles associadas.
+
+9070 Pastagens arborizadas fenoscandianas.
+
+9080 * Bosques pantanosos caducifólios da Fenoscândia.
+
+91 Florestas da Europa temperada
+
+9110 Faiais de Luzulo-Fagetum.
+
+9120 Faiais acidófilos atlânticos com vegetação arbustiva de Ilex e por vezes Taxus (Quercion robori-petrae ou Ilici-Fagenion.
+
+9130 Faiais da Asperulo-Fagetum.
+
+9140 Faiais subalpinos médio-europeus com Acer e Rumex arifolius.
+
+9150 Faiais calcícolas médio-europeus da Cephalanthero-Fagion.
+
+9160 Carvalhais pedunculados ou florestas mistas de carvalhos e carpas subatlânticas e médio-europeias da Carpinion betuli.
+
+9170 Florestas mistas de carvalhos e carpas da Galio-Carpinetum.
+
+9180 * Florestas de vertentes, depósitos rochosos ou ravinas da Tilio-Acerion.
+
+9190 Carvalhais antigos acidófilos de Quercus robur das planícies arenosas.
+
+91A0 Carvalhais antigos das ilhas Britânicas com Ilex e Blechnum.
+
+91B0 Freixiais termófilos de Fraxinus angustifolia.
+
+91C0 * Florestas caledónicas.
+
+91D0 * Turfeiras arborizadas.
+
+91E0 * Florestas aluviais de Alnus glutinosa e Fraxinus excelsior (Alno-Padion, Alnion incanae, Salicion albae).
+
+91F0 Florestas mistas de Quercus robur, Ulmus laevis, Ulmus minor, Fraxinus excelsior ou Fraxinus angustifolia das margens de grandes rios (Ulmenion minoris).
+
+91G0 * Florestas panónicas de Quercus petraea e Carpinus betulus.
+
+91H0 * Florestas panónicas de Quercus pubescens.
+
+91I0 * Florestas euro-siberianas estépicas de Quercus spp.
+
+91J0 * Florestas de Taxus baccata das ilhas Britânicas.
+
+92 Florestas mediterrânicas caducifólias
+
+9210 * Faiais dos Apeninos com Taxus e Ilex.
+
+9220 * Faiais dos Apeninos com Abies alba e faiais com Abies nebrodensis.
+
+9230 Carvalhais galaico-portugueses de Quercus robur e Quercus pyrenaica.
+
+9240 Carvalhais ibéricos de Quercus faginea e Quercus canariensis.
+
+9250 Carvalhais de Quercus trojana.
+
+9260 Florestas de Castanea sativa.
+
+9270 Faiais helénicos com Abies borisii-regis.
+
+9280 Florestas de Quercus frainetto.
+
+9290 Florestas de ciprestes (Acero-Cupression).
+
+92A0 Florestas-galerias de Salix alba e Populus alba.
+
+92B0 Florestas-galerias junto aos cursos de água intermitentes mediterrânicos com Rhododendron ponticum, Salix e outras espécies.
+
+92C0 Florestas de Platanus orientalis e Liquidambar orientalis (Platanion orientalis).
+
+92D0 Galerias e matos ribeirinhos meridionais (Nerio-Tamaricetea e Securinegion tinctoriae).
+
+93 Florestas esclerófilas mediterrânicas
+
+9310 Carvalhais do Egeu de Quercus brachyphylla.
+
+9320 Florestas de Olea e Ceratonia.
+
+9330 Florestas de Quercus suber.
+
+9340 Florestas de Quercus ilex e Quercus rotundifolia.
+
+9350 Florestas de Quercus macrolepis.
+
+9360 * Laurissilvas macaronésias (Laurus, Ocotea).
+
+9370 * Palmeirais de Phoenix.
+
+9380 Florestas de Ilex aquifolium.
+
+94 Florestas de coníferas das montanhas temperadas
+
+9410 Florestas acidófilas dos pisos montano a alpino (Vaccinio-Piceetea).
+
+9420 Florestas alpinas de Larix decidua e ou Pinus cembra.
+
+9430 Florestas montanas e subalpinas de Pinus uncinata (* em substrato gipsífero ou calcário).
+
+95 Florestas de coníferas das montanhas mediterrânicas e macaronésias
+
+9510 * Florestas apeninas meridionais de Abies alba.
+
+9520 Florestas de Abies pinsapo.
+
+9530 * Pinhais (sub)mediterrânicos de pinheiros negros endémicos.
+
+9540 Pinhais mediterrânicos de pinheiros mesógeos endémicos.
+
+9550 Pinhais endémicos canários.
+
+9560 * Florestas endémicas de Juniperus spp.
+
+9570 * Florestas de Tetraclinis articulata.
+
+9580 * Florestas mediterrânicas de Taxus baccata.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 156-A/2013 - Diário da República n.º 217/2013, 2º Suplemento, Série I de 2013-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), em vigor a partir de 2013-11-13
+
+## Anexo B-II — Espécies animais e vegetais de interesse comunitário cuja conservação exige a designação de zonas especiais de conservação Interpretação
+
+Interpretação
+
+a) O anexo B-II complementa o anexo B-I para o estabelecimento de uma rede coerente de zonas especiais de conservação.
+
+b) As espécies que constam do presente anexo são indicadas:
+
+Pelo nome da espécie ou da subespécie; ou
+
+Pelo conjunto das espécies pertencentes a um taxon superior ou a uma referida parte desse taxon.
+
+A abreviatura «spp.» após o nome de uma família ou de um género indica todas as espécies que pertencem a essa família ou a esse género.
+
+c) Símbolos:
+
+Um asterisco (*) colocado antes do nome de uma espécie indica que se trata de uma espécie prioritária;
+
+A maioria das espécies que constam do presente anexo estão incluídas no anexo B-IV;
+
+Quando uma espécie referida no presente anexo não consta do anexo B-IV nem do anexo B-V, o seu nome é acompanhado do sinal (o); quando uma espécie referida no presente anexo não consta do anexo B-IV mas consta do anexo B-V, o seu nome é acompanhado do sinal (V).
+
+a) Animais
+
+Vertebrados
+
+Mamíferos
+
+Insectivora
+
+Talpidae
+
+Galemys pyrenaicus.
+
+Chiroptera
+
+Rhinolophidae
+
+Rhinolophus blasii.
+
+Rhinolophus euryale.
+
+Rhinolophus ferrumequinum.
+
+Rhinolophus hipposideros.
+
+Rhinolophus mehelyi.
+
+Vespertilionidae
+
+Barbastella barbastellus.
+
+Miniopterus schreibersi.
+
+Myotis bechsteini.
+
+Myotis blythii.
+
+Myotis capaccinii.
+
+Myotis dasycneme.
+
+Myotis emarginatus.
+
+Myotis myotis.
+
+Rodentia
+
+Sciuridae
+
+* Pteromys volans (Sciuropterus russicus).
+
+Spermophilus citellus (Citellus citellus).
+
+Castoridae
+
+Castor fiber (excepto as populações finlandesas e suecas).
+
+Microtidae
+
+Microtus cabrerae.
+
+* Microtus oeconomus arenicola.
+
+Carnivora
+
+Canidae
+
+* Alopex lagopus.
+
+* Canis lupus (populações espanholas: apenas a sul do Douro; populações gregas: apenas a sul do paralelo 39; excepto as populações finlandesas).
+
+Ursidae
+
+* Ursus arctos (excepto as populações finlandesas e suecas).
+
+Mustelidae
+
+* Gulo gulo.
+
+Lutra lutra.
+
+Mustela lutreola.
+
+Felidae
+
+Lynx lynx (excepto as populações finlandesas).
+
+* Lynx pardimus.
+
+Phocidae
+
+Halichoerus grypus (V).
+
+* Monachus monachus.
+
+Phoca hispida bottnica (o).
+
+* Phoca hispida saimensis.
+
+Phoca vitulina (V).
+
+Artiodactyla
+
+Cervidae
+
+* Cervus elaphus corsicanus.
+
+Rangifer tarandus fennicus (o).
+
+Bovidae
+
+Capra aegagrus (populações naturais).
+
+* Capra pyrenaica pyrenaica.
+
+Ovis gmelini musinon (Ovis ammon musimon) (populações naturais - Córsega e Sardenha).
+
+* Rupicapra pyrenaica ornata (Rupicapra rupicapra ornata).
+
+Rupicapra rupicapra balcanica.
+
+Cetacea
+
+Phocoena phocoena.
+
+Tursiops truncatus.
+
+Répteis
+
+Chelonia (testudines)
+
+Testudinidae
+
+Testudo graeca.
+
+Testudo hermanni.
+
+Testudo marginata.
+
+Cheloniidae
+
+* Caretta caretta.
+
+Emydidae
+
+Emys orbicularis.
+
+Mauremys caspica.
+
+Mauremys leprosa.
+
+Sauria
+
+Lacertidae
+
+Gallotia galloti insulanagae.
+
+* Gallotia simonyi.
+
+Lacerta bonnali (Lacerta monticola).
+
+Lacerta monticola.
+
+Lacerta schreiberi.
+
+Podarcis lilfordi.
+
+Podarcis pityusensis.
+
+Scincidae
+
+Chalcides simonyi (Chalcides occidentalis).
+
+Gekkonidae
+
+Phyllodactylus europaeus.
+
+Ophidia (serpentes)
+
+Colubridae
+
+Elaphe quatuorlineata.
+
+Elaphe situla.
+
+Viperidae
+
+* Macrovipera schweizeri (Vipera lebetina schweizeri).
+
+Vipera ursinii.
+
+Anfíbios
+
+Caudata
+
+Salamandridae
+
+Chioglossa lusitanica.
+
+Mertensiella luschani (Salamandra luschiani).
+
+* Salamandra atra aurorae.
+
+Salamandrina terdigitata.
+
+Triturus carnitex (Triturus cristatus carnifex).
+
+Trifurus cristatus (Triturus cristatus cristatus).
+
+Triturus dobrogicus (Triturus cristatus dobrogicus).
+
+Triturus karelinii (Triturus cristatus karelinii).
+
+Proteidae
+
+Proteus anguinus.
+
+Plethodontidae
+
+Hydromantes (Speleomantes) ambrosii.
+
+Hydromantes (Speleomantes) flavus.
+
+Hydromantes (Speleomantes) genei.
+
+Hydromantes (Speleomantes) imperialis.
+
+Hydromantes (Speleomantes) strinatii.
+
+Hydromantes (Speleomantes) supramontes.
+
+Anura
+
+Discoglossidae
+
+* Alytes muletensis.
+
+Bombina bombina.
+
+Bombina variegata.
+
+Discoglossus galganoi (inclui Discoglossus «jeanneae»).
+
+Discoglossus montalentii.
+
+Discoglossus sardus.
+
+Ranidae
+
+Rana latastei.
+
+Pelobatidae
+
+* Pelobates fuscus insubricus.
+
+Peixes
+
+Petromyzoniformes
+
+Petromyzonidae
+
+Eudontomyzon spp. (o).
+
+Lampetra fluviatilis (V) (excepto as populações finlandesas e suecas).
+
+Lampetra planeri (o) (excepto as populações finlandesas e suecas).
+
+Lethenteron zanandreai (V).
+
+Petromyzon marinus (o) (excepto as populações suecas).
+
+Acipenseriformes
+
+Acipenseridae
+
+* Acipenser naccarii.
+
+* Acipenser sturio.
+
+Clupeiformes
+
+Clupeidae
+
+Alosa spp. (V).
+
+Salmoniformes
+
+Salmonidae
+
+Hucho hucho (populações naturais) (V).
+
+Salmo macrostigma (o).
+
+Salmo marmoratus (o).
+
+Salmo salar (apenas em água doce) (V) (excepto as populações finlandesas).
+
+Coregonidae
+
+* Coregonus oxyrhynchus (populações anádromas em determinados sectores do mar do Norte).
+
+Cypriniformes
+
+Cyprinidae
+
+Alburnus albidus (o) (Alburnus vulturius).
+
+Anaecypris hispanica.
+
+Aspius aspius (o) (excepto as populações finlandesas).
+
+Barbus comiza (V).
+
+Barbus meridionalis (V).
+
+Barbus plebejus (V).
+
+Chondrostoma genei (o).
+
+Chondrostoma lusitanicum (o).
+
+Chondrostoma polylepis (o) (inclui C. willkommi.)
+
+Chalcalburnus chalcoides (o).
+
+Chondrostoma soetta (o).
+
+Chondrostoma toxostonna (o).
+
+Gobio albipinnatus (o).
+
+Gobio uranoscopus (o).
+
+Iberocypris palaciosi (o).
+
+* Ladigesocypris ghigii (o).
+
+Leuciscus lucumonis (o).
+
+Leuciscus souffia (o).
+
+Phoxinellus spp. (o).
+
+Rhodeus sericeus amarus (o).
+
+Rutilus alburnoides (o).
+
+Rutilus arcasii (o).
+
+Rutilus frisii meidingeri (o).
+
+Rutilus lemmingii (o).
+
+Rutilus macrolepidotus (o).
+
+Rutilus pigus (o).
+
+Rutilus rubilio (o).
+
+Scardinius graecus (o).
+
+Cobitidae
+
+Cobitis taenia (o) (excepto as populações finlandesas).
+
+Cobitis trichonica (o).
+
+Misgurnus fossilis (o).
+
+Sabanejewia aurata (o).
+
+Sabanejewia larvata (o) (Cobitis larvata e Cobitis conspersa).
+
+Siluriformes
+
+Siluridae
+
+Silurus aristotelis (V).
+
+Atheriniformes
+
+Cyprinodontidae
+
+Aphanius iberus (o).
+
+Aphanius fasciatus (o).
+
+* Valencia hispanica.
+
+* Valencia letourneuxi (Valencia hispanica).
+
+Perciformes
+
+Percidae
+
+Gymnocephalus schraetzer (V).
+
+Zingel spp. [(o) excepto Zingel asper e Zingel zingel (V)].
+
+Gobiidae
+
+Knipowitschia (Padogobius) panizzae (o).
+
+Padogobius nigricans (o).
+
+Pomatoschistus canestrini (o).
+
+Scorpaeniformes
+
+Cottidae
+
+Cottus gobio (o) (excepto as populações finlandesas).
+
+Cottus petiti (o).
+
+Invertebrados
+
+Artrópodes
+
+Crustacea
+
+Decapoda
+
+Austropotamobius pallipes (V).
+
+Insecta
+
+Coleoptera
+
+Agathidium pulchellum (o).
+
+Boros schneideri (o).
+
+Buprestis splendens.
+
+* Carabus menetriesi pacholei.
+
+* Carabus olympiae.
+
+Cerambyx cerdo.
+
+Corticaria planula (o).
+
+Cucujus cinnaberinus.
+
+Dytiscus latissimus.
+
+Graphoderus bilineatus.
+
+Limoniscus violaceus (o).
+
+Lucanus cervus (o).
+
+Macroplea pubipennis (o).
+
+Mesosa myops (o).
+
+Morimus funereus (o).
+
+* Osmoderma eremita.
+
+Oxyporus mannerheimii (o).
+
+Pytho kolwensis (o).
+
+* Rosalia alpina.
+
+Stephanopachys linearis (o).
+
+Stephanopachys substriatus (o).
+
+Xyletinus tremulicola (o).
+
+Hemiptera
+
+Aradus angularis (o).
+
+Lepidoptera
+
+Agriades glandon aquilo (o).
+
+* Callimorpha (Euplagia, Panaxia) quadripunctaria (o).
+
+Clossiana improba (o).
+
+Coenonympha oedippus.
+
+Erebia calcaria.
+
+Erebia christi.
+
+Erebia medusa polaris (o).
+
+Eriogaster catax.
+
+Euphydryas (Eurodryas, Hypodryas) aurinia (o).
+
+Graellsia isabellae (V).
+
+Hesperia comma catena (o).
+
+Hypodryas maturna.
+
+Lycaena dispar.
+
+Maculinea nausithous.
+
+Maculinea teleius.
+
+Melanargia arge.
+
+Papilio hospiton.
+
+Plebicula golgus.
+
+Xestia borealis (o).
+
+Xestia brunneopicta (o).
+
+Mantodea
+
+Apteromantis aptera.
+
+Odonata
+
+Coenagrion hylas (o).
+
+Coenagrion mercuriale (o).
+
+Cordulegaster trinacriae.
+
+Gomphus graslinii.
+
+Leucorrhina pectoralis.
+
+Lindenia teraphylla.
+
+Macromia splendens.
+
+Ophiogomphus cecilia.
+
+Oxygastra curtisii.
+
+Orthoptera
+
+Baetica ustulata.
+
+Arachnida
+
+Pseudoscorpiones
+
+Anthrenochernes stellae (o).
+
+Moluscos
+
+Gastropoda
+
+Caseolus calculus.
+
+Caseolus commixta.
+
+Caseolus sphaerula.
+
+Discula leacockiana.
+
+Discula tabellata.
+
+Discus guerinianus.
+
+Elona quimperiana.
+
+Geomalacus maculosus.
+
+Geomitra moniziana.
+
+* Helicopsis striata austriaca (o).
+
+Idiomela (Helix) subplicata.
+
+Leiostyla abbreviata.
+
+Leiostyla cassida.
+
+Leiostyla corneocostata.
+
+Leiostyla gibba.
+
+Leiostyla lamellosa.
+
+Vertigo angustior (o).
+
+Vertigo genesii (o).
+
+Vertigo geyeri (o).
+
+Vertigo moulinsiana (o).
+
+Bivalvia
+
+Unionoida
+
+Margaritifera durrovensis (Margaritifera margaritifera) (V).
+
+Margaritifera margaritifera (V).
+
+Unio crassus.
+
+b) Plantas
+
+Pteridophyta
+
+Aspleniaceae
+
+Asplenium jahandiezii (Litard.) Rouy.
+
+Blechnaceae
+
+Woodwardia radicans (L.) Sm.
+
+Dicksoniaceae
+
+Culcita macrocarpa C. Presl.
+
+Dryopteridaceae
+
+Diplazium sibiricum (Turcz. ex Kunze) Kurata.
+
+* Dryopteris corleyi Fraser-Jenk.
+
+Dryopteris fragans (L.) Schott.
+
+Hymenophyllaceae
+
+Trichomanes speciosum Willd.
+
+Isoetaceae
+
+Isoetes boryana Durieu.
+
+Isoetes malinverniana Ces. & De Not.
+
+Marsileaceae
+
+Marsilea batardae Launert.
+
+Marsilea quadrifolia L.
+
+Marsilea strigosa Willd.
+
+Ophioglossaceae
+
+Botrychium simplex Hitchc.
+
+Ophioglossum polyphyllum A. Braun.
+
+Gymnospermae
+
+Pinaceae
+
+* Abies nebrodensis (Lojac.) Mattei.
+
+Angiospermae
+
+Alismataceae
+
+* Alisma wahlenbergii (Holmberg) Juz.
+
+Caldesia parnassifolia (L.) Parl.
+
+Luronium natans (L.) Raf.
+
+Amaryllidaceae
+
+Leucojum nicaeense Ard.
+
+Narcissus asturiensis (Jordan) Pugsley.
+
+Narcissus calcicola Mendonça.
+
+Narcissus cyclamineus DC.
+
+Narcissus fernandesii G. Pedro.
+
+Narcissus humilis (Cav.) Traub.
+
+* Narcissus nevadensis Pugsley.
+
+Narcissus pseudonarcissus L. subsp. nobilis (Haw.) A. Fernandes.
+
+Narcissus scaberulus Henriq.
+
+Narcissus triandrus L. subsp. capax (Salisb.) D. A. Webb.
+
+Narcissus viridiflorus Schousboe.
+
+Boraginaceae
+
+* Anchusa crispa Viv.
+
+* Lithodora nitida (H. Ern) R. Fernandes.
+
+Myosotis lusitanica Schuster.
+
+Myosotis rehsteineri Wartm.
+
+Myosotis retusifolia R. Afonso.
+
+Omphalodes kuzinskyanae Willk.
+
+* Omphalodes littoralis Lehm.
+
+Solenanthus albanicus (Degen & al.) Degen & Baldacci.
+
+* Symphytum cycladense Pawl.
+
+Campanulaceae
+
+Asyneuma giganteum (Boiss.) Bornm.
+
+* Campanula sabatia De Not.
+
+Jasione crispa (Pourret) Samp. subsp. serpentinica Pinto da Silva.
+
+Jasione lusitanica A. DC.
+
+Caryophyllaceae
+
+Arenaria ciliata L. ssp. pseudofrigida Ostenf. & O. C. Dahl.
+
+Arenaria humifusa Wahlenberg.
+
+* Arenaria nevadensis Boiss. & Reuter.
+
+Arenaria provincialis Chater & Halliday.
+
+Dianthus arenarius L. subsp. arenarius.
+
+Dianthus cintranus Boiss. & Reuter subsp. cintranus Boiss. & Reuter.
+
+Dianthus marizii (Samp.) Samp.
+
+Dianthus rupicola Biv.
+
+* Gypsophila papillosa P. Porta.
+
+Herniaria algarvica Chaudhri.
+
+* Herniaria latifolia Lapeyr. subsp. litardierei Gamis.
+
+Herniaria lusitanica (Chaudhri) subsp. berlengiana Chaudhri.
+
+Herniaria maritima Link.
+
+Moehringia lateriflora (L.) Fenzl.
+
+Moehringia tommasinii Marches.
+
+Petrocoptis grandiflora Rothm.
+
+Petrocoptis montsicciana O. Bolos & Rivas Mart.
+
+Petrocoptis pseudoviscosa Fernandez Casas.
+
+Silene furcata Rafin. ssp. angustiflora (Rupr.) Walters.
+
+* Silene hicesiae Brullo & Signorello.
+
+Silene hifacensis Rouy ex Willk.
+
+* Silene holzmanii Heldr. ex Boiss.
+
+Silene longicilia (Brot.) Otth.
+
+Silene mariana Pau.
+
+* Silene orphanidis Boiss.
+
+* Silene rothmaleri Pinto da Silva.
+
+* Silene velutina Pourret ex Loisel.
+
+Chenopodiaceae
+
+* Bassia (Kochia) saxicola (Guss.) A. J. Scott.
+
+* Salicornia veneta Pignatti & Lausi.
+
+Cistaceae
+
+Cistus palhinhae Ingram.
+
+Halimium verticillatum (Brot.) Sennen.
+
+Helianthemum alypoides Losa & Rivas Goday.
+
+Helianthemum caput-felis Boiss.
+
+* Tuberaria major (Willk.) Pinto da Silva & Rozeira.
+
+Compositae
+
+* Anthemis glaberrima (Rech. f.) Greuter.
+
+Artemisia campestris L. subsp. bottnica A. N. Lundström ex Kindb.
+
+* Artemisia granatensis Boiss.
+
+* Artemisia laciniata Willd.
+
+Artemisia oelandica (Besser) Komaror.
+
+* Artemisia pancicii (Janka) Ronn.
+
+* Aster pyrenaeus Desf. ex DC.
+
+* Aster sorrentinii (Tod) Lojac.
+
+* Carduus myriacanthus Salzm. ex DC.
+
+* Centaurea alba L. subsp. heldreichii (Halacsy) Dostal.
+
+* Centaurea alba L. subsp. princeps (Boiss. & Heldr.) Gugler.
+
+* Centaurea attica Nyman subsp. megarensis (Halacsy & Hayek) Dostál.
+
+* Centaurea balearica J. D. Rodriguez.
+
+* Centaurea borjae Valdes-Berm. & Rivas Goday.
+
+* Centaurea citricolor Font Quer.
+
+Centaurea corymbosa Pourret.
+
+Centaurea gadorensis G. Blanca.
+
+* Centaurea horrida Badaro.
+
+* Centaurea kalambakensis Freyn & Sint.
+
+Centaurea kartschiana Scop.
+
+* Centaurea lactiflora Halacsy.
+
+Centaurea micrantha Hoffmanns. & Link subsp. herminii (Rouy) Dostál.
+
+* Centaurea niederi Heldr.
+
+* Centaurea peucedanifalia Boiss. & Orph.
+
+* Centaurea pinnata Pau.
+
+Centaurea pulvinata (G. Blanca) G. Blanca.
+
+Centaurea rothmalerana (Arénes) Dostál.
+
+Centaurea vicentina Mariz.
+
+* Crepis crocifolia Boiss. & Helder.
+
+Crepis granatensis (Willk.) B. Blanca & M. Cueto.
+
+Crepis tectorum L. subsp. nigrescens.
+
+Erigeron frigidus Boiss. ex DC.
+
+Hymenostemma pseudanthemis (Kunze) Willd.
+
+* Jurinea cyanoides (L.) Reichenb.
+
+* Jurinea fontqueri Cuatrec.
+
+* Lamyropsis microcephala (Moris) Dittrich & Greuter.
+
+Leontodon microcephalus (Boiss. ex DC.) Boiss.
+
+Leontodon boryi Boiss.
+
+* Leontodon siculus (Guss.) Finch & Sell.
+
+Leuzea longifolia Hoffmanns. & Link.
+
+Ligularia sibirica (L.) Cass.
+
+Santolina impressa Hoffmanns. & Link.
+
+Santolina semidentata Hoffmanns. & Link.
+
+* Senecio elodes Boiss. ex DC.
+
+Senecio jacobea L. subsp. gotlandicus (Neuman) Sterner.
+
+Senecio nevadensis Boiss. & Reuter.
+
+Convolvulaceae
+
+* Convolvulus argyrothamnus Greuter.
+
+* Convolvulus fernandesii Pinto da Silva & Teles.
+
+Cruciferae
+
+Alyssum pyrenaicum Lapeyr.
+
+Arabis sadina (Samp.) P. Cout.
+
+* Biscutella neustriaca Bonnet.
+
+Biscutella vincentina (Samp.) Rothim.
+
+Boleum asperum (Pers.) Desvaux.
+
+Brassica glabrescens Poldini.
+
+Brassica insularis Moris.
+
+* Brassica macrocarpa Guss.
+
+Braya linearis Rouy.
+
+* Coincya rupestris Rouy.
+
+* Coronopus navasii Pau.
+
+Diplotaxis ibicensis (Pau) Gomez-Campo.
+
+* Diplotaxis siettiana Maire.
+
+Diplotaxis vicentina (P. Cout.) Rothim.
+
+Draba cacuminum Elis Ekman.
+
+Draba cinerea Adamis.
+
+Erucastrum palustre (Pirona) Vis.
+
+* Iberis arbuscula Runemark.
+
+Iberis procumbens Lange subsp. microcarpa Franco & Pinto da Silva.
+
+Jonopsidium acaule (Desf.) Reichenb.
+
+Jonopsidium savianum (Caruel) Ball ex Arcang.
+
+Rhynchosinapis erucastrum (L.) Dandy ex Clapham subsp. cintrana (Coutinho) Franco & P. Silva [Coincya cintrana (P. Cout.) Pinto da Silva].
+
+Sisymbrium cavanillesianum Valdes & Castroviejo.
+
+Sisymbrium supinum L.
+
+Cyperaceae
+
+Carex holostoma Drejer.
+
+* Carex panormitana Guss.
+
+Eleocharis carniolica Koch.
+
+Dioscoreaceae
+
+* Borderea chouardii (Gaussen) Heslot.
+
+Droseraceae
+
+Aldrovanda vesiculosa L.
+
+Euphorbiaceae
+
+* Euphorbia margalidiana Kuhbier & Lewejohann.
+
+Euphorbia transtagana Boiss.
+
+Gentianaceae
+
+* Centaurium rigualii Esteve.
+
+* Centaurium somedanum Lainz.
+
+Gentiana ligustica R. de Vilm. & Chopinet.
+
+Gentianella anglica (Pugsley) E. F. Warburg.
+
+Geraniaceae
+
+* Erodium astragaloides Boiss. & Reuter.
+
+Erodium paularense Fernandez-Gonzalez & Izco.
+
+* Erodium rupicola Boiss.
+
+Globulariaceae
+
+* Globularia stygia Orph. ex Boiss.
+
+Gramineae
+
+Arctagrostis latifolia (R. Br.) Griseb.
+
+Arctophila fulva (Trin.) N. J. Anderson.
+
+Avenula hackelii (Henriq.) Holub.
+
+Bromus grossus Desf. ex DC.
+
+Calamagrostis chalybaea (Laest.) Fries.
+
+Cinna latifolia (Trev.) Griseb.
+
+Coleanthus subtilis (Tratt.) Seidl.
+
+Festuca brigantina (Markgr.-Dannenb.) Markgr.-Dannenb.
+
+Festuca duriotagana Franco & R. Afonso.
+
+Festuca elegans Boiss.
+
+Festuca henriquesii Hack.
+
+Festuca summilusitana Franco & R. Afonso.
+
+Gaudinia hispanica Stace & Tutin.
+
+Holcus setiglumis Boiss. & Reuter subsp. duriensis Pinto da Silva.
+
+Micropyropsis tuberosa Romero-Zarco & Cabezudo.
+
+Pseudarrhenatherum pallens (Link) J. Holub.
+
+Puccinellia phryganodes (Trin.) Scribner + Merr.
+
+Puccinellia pungens (Pau) Paunero.
+
+* Stipa austroitalica Martinovsky.
+
+* Stipa bavarica Martinovsky & H. Scholz.
+
+* Stipa styriaca Martinovsky.
+
+* Stipa veneta Moraldo.
+
+Trisetum subalpestre (Hartman) Neuman.
+
+Grossulariaceae
+
+* Ribes sardoum Martelli.
+
+Hippuridaceae
+
+Hippuris tetraphylla L. Fil.
+
+Hypericaceae
+
+* Hypericum aciferum (Greuter) N. K. B. Robson.
+
+Juncaceae
+
+Juncus valvatus Link.
+
+Luzula arctica Blytt.
+
+Labiatae
+
+Dracocephalum austriacum L.
+
+* Micromeria taygetea P. Davis.
+
+Nepeta dirphya (Boiss.) Heldr. ex Halacsy.
+
+* Nepeta sphaciotica P. H. Davis.
+
+Origanum dictamnus L.
+
+Sideritis incana subsp. glauca (Cav.) Malagarriga.
+
+Sideritis javalam brensis Pau.
+
+Sideritis serrata Cav. ex Lag.
+
+Teucrium lepicephalum Pau.
+
+Teucrium turredanum Losa & Rivas Goday.
+
+* Thymus camphoratus Hoffmanns. & Link.
+
+Thymus carnosus Boiss.
+
+* Thymus lotocephalus G. López & R. Morales (Thymus cephalotos L.).
+
+Leguminosae
+
+Anthyllis hystrix Cardona, Contandr. & E. Sierra.
+
+* Astragalus algarbiensis Coss. ex Bunge.
+
+* Astragalus aquilanus Anzalone.
+
+Astragalus centralpinus Braun-Blanquet.
+
+* Astragalus maritimus Moris.
+
+Astragalus tremolsianus Pau.
+
+* Astragalus verrucosus Moris.
+
+* Cytisus aeolicus Guss. ex Lindl.
+
+Genista dorycnifolia Font Quer.
+
+Genista holopetala (Fleischm. ex Koch) Baldacci.
+
+Melilotus segetalis (Brot.) Ser. subsp. fallax Franco.
+
+* Ononis hackelii Lange.
+
+Trifolium saxatile All.
+
+* Vicia bifoliolata J. D. Rodriguez.
+
+Lentibulariaceae
+
+Pinguicula nevadensis (Lindb.) Casper.
+
+Liliaceae
+
+Allium grosii Font Quer.
+
+* Androcymbium rechingeri Greuter.
+
+* Asphodelus bento-rainhae P. Silva.
+
+Hyacinthoides vicentina (Hoffmans. & Link) Rothm.
+
+* Muscari gussonei (Parl.) Tod.
+
+Linaceae
+
+* Linum muelleri Moris (Linum maritimum muelleri)
+
+Lythraceae
+
+* Lythrum flexuosum Lag.
+
+Malvaceae
+
+Kosteletzkya pentacarpos (L.) Ledeb.
+
+Najadaceae
+
+Najas flexilis (Willd.) Rostk. & W. L. Schmidt.
+
+Najas tenuissima (A. Braun) Magnus.
+
+Orchidaceae
+
+Calypso bulbosa L.
+
+* Cephalanthera cucullata Boiss. & Heldr.
+
+Cypripedium calceolus L.
+
+Gymnigritella runei Teppner & Klein.
+
+Liparis loeselii (L.) Rich.
+
+* Ophrys lunulata Parl.
+
+Platanthera obtusata (Pursh) subsp. oligantha (Turez.) Hulten.
+
+Paeoniaceae
+
+Paeonia cambessedesii (Willk.) Willk.
+
+Paeonia parnassica Tzanoudakis.
+
+Paeonia clusii F. C. Stern subsp. rhodia (Stearn) Tzanoudakis.
+
+Palmae
+
+Phoenix theophrasti Greuter.
+
+Papaveraceae
+
+Corydalis gotlandica Lidén.
+
+Papaver laestadianum (Nordh.) Nordh.
+
+Papaver radicatum Rottb. subsp. hyperboreum Nordh.
+
+Plantaginaceae
+
+Plantago algarbiensis Sampaio [Plantago bracteosa (Willk.) G. Sampaio].
+
+Plantago almogravensis Franco.
+
+Plumbaginaceae
+
+Armeria berlengensis Daveau.
+
+* Armeria helodes Martini & Pold.
+
+Armeria neglecta Girard.
+
+Armeria pseudarmeria (Murray) Mansfeld.
+
+* Armeria rouyana Daveau.
+
+Armeria soleirolii (Duby) Godron.
+
+Armeria velutina Welw. ex Boiss. & Reuter.
+
+Limonium dodartii (Girard) O. Kuntze subsp. lusitanicum (Daveau) Franco.
+
+* Limonium insulare (Beg. & Landi) Arrig. & Diana.
+
+Limonium lanceolatum (Hoffmans. & Link) Franco.
+
+Limonium multiflorum Erben.
+
+* Limonium pseudolaetum Arrig. & Diana.
+
+* Limonium strictissimum (Salzmann) Arrig.
+
+Polygonaceae
+
+Persicaria foliosa (H. Lindb.) Kitag.
+
+Polygonum praelongum Coode & Cullen.
+
+Rumex rupestris Le Gall.
+
+Primulaceae
+
+Androsace mathildae Levier.
+
+Androsace pyrenaica Lam.
+
+* Primula apennina Widmer.
+
+Primula nutans Georgi.
+
+Primula palinuri Petagna.
+
+Primula scandinavica Bruun.
+
+Soldanella villosa Darracq.
+
+Ranunculaceae
+
+* Aconitum corsicum Gayer (Aconitum napellus subsp. corsicum).
+
+Adonis distorta Ten.
+
+Aquilegia bertolonii Schott.
+
+Aquilegia kitaibelii Schott.
+
+* Aquilegia pyrenaica D. C. subsp. cazorlensis (Heywood) Galiano.
+
+* Consolida samia P. H. Davis.
+
+Pulsatilla patens (L.) Miller.
+
+Pulsatilla vulgaris Hill. subsp. gotlandica (Johanss.) Zaemelis & Paegle.
+
+Ranunculus lapponicus L.
+
+* Ranunculus weyleri Mares.
+
+Resedaceae
+
+* Reseda decursiva Forssk.
+
+Rosaceae
+
+Agrimonia pilosa Ledebour.
+
+Potentilla delphinensis Gren. & Godron.
+
+Sorbus teodori Liljefors.
+
+Rubiaceae
+
+* Galium litorale Guss.
+
+* Galium viridiflorum Boiss. & Reuter.
+
+Salicaceae
+
+Salix salvifolia Brot. subsp. australis Franco.
+
+Santalaceae
+
+Thesium ebracteatum Hayne.
+
+Saxifragaceae
+
+Saxifraga berica (Beguinot) D. A. Webb.
+
+Saxifraga florulenta Moretti.
+
+Saxifraga hirculus L.
+
+Saxifraga osloënsis Knaben.
+
+Saxifraga tombeanensis Boiss. ex Engl.
+
+Scrophulariaceae
+
+Antirrhinum charidemi Lange.
+
+Chaenorrhinum serpyllifolium (Lange) Lange subsp. lusitanicum R. Fernandes.
+
+* Euphrasia genargentea (Feoli) Diana.
+
+Euphrasia marchesettii Wettst. ex Marches.
+
+Linaria algarviana Chav.
+
+Linaria coutinhoi Valdés.
+
+* Linaria ficalhoana Rouy.
+
+Linaria flava (Poiret) Desf.
+
+* Linaria hellenica Turrill.
+
+* Linaria ricardoi Cout.
+
+* Linaria tursica B. Valdes & Cabezudo.
+
+Linaria tonzigii Lona.
+
+Odontites granatensis Boiss.
+
+Verbascum litigiosum Samp.
+
+Veronica micrantha Hoffmanns & Link.
+
+* Veronica oetaea L. A. Gustavsson.
+
+Solanaceae
+
+* Atropa baetica Willk.
+
+Thymelaeaceae
+
+Daphne petraea Leybold.
+
+* Daphne rodriguezii Texidor.
+
+Ulmaceae
+
+Zelkova abelicea (Lam.) Boiss.
+
+Umbelliferae
+
+* Angelica heterocarpa Lloyd.
+
+Angelica palustris (Besser) Hoffm.
+
+* Apium bermejoi Llorens.
+
+Apium repens (Jacq.) Lag.
+
+Athamanta cortiana Ferrarini.
+
+* Bupleurum capillare Boiss. & Heldr.
+
+* Bupleurum kakiskalae Greuter.
+
+Eryngium alpinum L.
+
+* Eryngium viviparun Gay.
+
+* Laserpitium longiradium Boiss.
+
+* Naufraga balearica Constans & Cannon.
+
+* Oenanthe conioides Lange.
+
+Petagnia saniculifolia Guss.
+
+Rouya polygania (Desf.) Coincy.
+
+* Seseli intricatum Boiss.
+
+Thorella verticillatinundata (Thore) Briq.
+
+Valerianaceae
+
+Centranthus trinervis (Viv.) Beguinot.
+
+Violaceae
+
+* Viola hispida Lam.
+
+Viola jaubertian Mares & Vigineix.
+
+Viola rupestris F. W. Schmidt subsp. relicta Jalas.
+
+Plantas inferiores
+
+Bryophyta
+
+Bruchia vogesiaca Schwaegr. (o).
+
+Bryhnia novae-angliae (Sull & Lesq.) Grout (o).
+
+* Bryoerythrophyllum campylocarpum (C. Müll.) Crum. [Bryoerythrophyllum machadoanum (Sergio) M. O. Hill] (o).
+
+Buxbaumia viridis (Moug.) Moug. & Nesti. (o).
+
+Cephalozia macounii (Aust.) Aust. (o).
+
+Çynodontium suecicum (H. Arm. & C. Jens.) I. Hag. (o).
+
+Dichelyma capillaceum (Dicks) Myr. (o).
+
+Dicranum viride (Sull. & Lesq.) Lindb. (o).
+
+Distichophyllum carinatum Dix. & Nich. (o).
+
+Drepanocladus (Hamatocaulis) vernicosus (Mitt.) Warnst. (o).
+
+Encalypta mutica (I. Hagen) (o).
+
+Hamatocaulis lapponicus (Norrl.) Hedenäs (o).
+
+Herzogiella turfacea (Lindb.) I. Wats. (o).
+
+Hygrohypnum montanum (Lindb.) Broth. (o).
+
+Jungermannia handelii (Schiffn.) Amak. (o).
+
+Mannia triandra (Scop.) Grolle (o).
+
+* Marsupella profunda Lindb. (o).
+
+Meesia longiseta Hedw. (o).
+
+Nothothylas orbicularis (Schwein.) Sull. (o).
+
+Orthothecium lapponicum (Schimp.) C. Hartm. (o).
+
+Orthotrichum rogeri Brid. (o).
+
+Petalophyllum ralfsii (Wils.) Nees & Gott. (o).
+
+Plagiomnium drummondii (Bruch & Schimp.) T. Kop. (o).
+
+Riccia breidleri Jur. (o).
+
+Riella helicophylla (Bory & Mont.) Mont. (o).
+
+Scapania massolongi (K. Müll.) K. Müll. (o).
+
+Sphagnum pylaisii Brid. (o).
+
+Tayloria rudolphiana (Garov) B. & S. (o).
+
+Tortella rigens (N. Alberts) (o).
+
+Espécies para a Macaronésia
+
+Pteridophyta
+
+Hymenophyllaceae
+
+Hymenophyllum maderensis Gibby & Lovis.
+
+Dryopteridaceae
+
+* Polystichum drepanum (Sw.) C. Presl.
+
+Isoetaceae
+
+Isoetes azorica Durieu & Paiva ex Milde.
+
+Marsileaceae
+
+* Marsilea azorica Launert & Paiva.
+
+Angiospermae
+
+Asclepiadaceae
+
+Caralluma burchardii N. E. Brown.
+
+* Ceropegia chrysantha Svent.
+
+Boraginaceae
+
+Echium candicans L. fil.
+
+* Echium gentianoides Webb & Coincy.
+
+Myosotis azorica H. C. Watson.
+
+Myosotis maritima Hochst. in Seub.
+
+Campanulaceae
+
+* Azorina vidalii (H. C. Watson) Feer.
+
+Musschia aurea (L. f.) DC.
+
+* Musschia wollastonii Lowe.
+
+Caprifoliaceae
+
+* Sambucus palmensis Link.
+
+Caryophyllaceae
+
+Spergularia azorica (Kindb.) Lebel.
+
+Celastraceae
+
+Maytenus umbellata (R. Br.) Mabb.
+
+Chenopodiaceae
+
+Beta patula Ait.
+
+Cistaceae
+
+Cistus chinamadensis Banares & Romero.
+
+* Helianthemum bystropogophyllum Svent.
+
+Compositae
+
+Andryala crithmifolia Ait.
+
+* Argyranthemum lidii Humphries.
+
+Argyranthemum thalassophylum (Svent.) Hump.
+
+Argyranthemum winterii (Svent.) Humphries.
+
+* Atractylis arbuscula Svent. & Michaelis.
+
+Atractylis preauxiana Schultz.
+
+Calendula maderensis DC.
+
+Cheirolophus duranii (Burchard) Holub.
+
+Cheirolophus ghomerytus (Svent.) Holub.
+
+Cheirolophus junonianus (Svent.) Holub.
+
+Cheirolophus massonianus (Lowe) Hansen & Sund.
+
+Cirsium latifolium Lowe.
+
+Helichrysum gossypinum Webb.
+
+Helichrysum monogynum Burtt & Sund.
+
+Hypochoeris oligocephala (Svent. & Bramw.) Lack.
+
+* Lactuca watsoniana Trel.
+
+* Onopordum nogalesii Svent.
+
+* Onorpordum carduelinum Bolle.
+
+* Pericallis hadrosoma (Svent.) B. Nord.
+
+Phagnalon benettii Lowe.
+
+Stemmacantha cynaroides (Chr. Son. in Buch) Ditt
+
+Sventenia bupleuroides Font Quer.
+
+* Tanacetum ptarmiciflorum Webb & Berth.
+
+Convolvulaceae
+
+* Convolvulus caput-medusae Lowe.
+
+* Convolvulus lopez-socasii Svent.
+
+* Convolvulus massonii A. Dietr.
+
+Crassulaceae
+
+Aeonium gomeraense Praeger.
+
+Aeonium saundersii Bolle.
+
+Aichryson dumosum (Lowe) Praeg.
+
+Monanthes wildpretii Banares & Scholz.
+
+Sedum brissemoretii Raymond-Hamet.
+
+Cruciferae
+
+* Crambe arborea Webb ex Christ.
+
+Crambe laevigata DC ex Christ.
+
+* Crambe sventenii R. Petters ex Bramwell & Sund.
+
+* Parolinia schizogynoides Svent.
+
+Sinapidendron rupestre (Ait.) Lowe.
+
+Cyperaceae
+
+Carex malato-belizii Raymond.
+
+Dipsacaceae
+
+Scabiosa nitens Roemer & J. A. Schultes.
+
+Ericaceae
+
+Erica scoparia L. subsp. azorica (Hochst.) D. A. Webb.
+
+Euphorbiaceae
+
+* Euphorbia handiensis Burchard.
+
+Euphorbia lambii Svent.
+
+Euphorbia stygiana H. C. Watson.
+
+Geraniaceae
+
+* Geranium maderense P. F. Yeo.
+
+Gramineae
+
+Deschampsia maderensis (Haeck. & Born.) Buschm.
+
+Phalaris maderensis (Menezes) Menezes.
+
+Globulariaceae
+
+* Globularia ascanii D. Bramwell & Kunkel.
+
+* Globularia sarcophylla Svent.
+
+Labiatae
+
+* Sideritis cystosiphon Svent.
+
+* Sideritis discolor (Webb ex de Noe) Bolle.
+
+Sideritis infernalis Bolle.
+
+Sideritis marmorea Bolle.
+
+Teucrium abutiloides L'Hér.
+
+Teucrium betonicum L'Hér.
+
+Leguminosae
+
+* Anagyris latifolia Brouss. ex Willd.
+
+Anthyllis lemanniana Lowe.
+
+* Dorycnium spectabile Webb & Berthel.
+
+* Lotus azoricus P. W. Ball.
+
+Lotus callis-viridis D. Bramwell & D. H. Davis.
+
+* Lotus kunkelii (E. Chueca) D. Bramwell & al.
+
+* Teline rosmarinifolia Webb & Berthel.
+
+* Teline salsoloides Arco & Acebes.
+
+Vicia dennesiana H. C. Watson.
+
+Liliaceae
+
+* Androcymbium psammophilum Svent.
+
+Scilla maderensis Menezes.
+
+Semele maderensis Costa.
+
+Loranthaceae
+
+Arceuthobium azoricum Wiens & Hawksw.
+
+Myricaceae
+
+* Myrica rivas-martinezii Santos.
+
+Oleaceae
+
+Jasminum azoricum L.
+
+Picconia azorica (Tutin) Knobl.
+
+Orchidaceae
+
+Goodyera macrophylla Lowe.
+
+Pittosporaceae
+
+* Pittosporum coriaceum Dryand. ex Ait.
+
+Plantaginaceae
+
+Plantago malato-belizii Lawalree.
+
+Plumbaginaceae
+
+* Limonium arborescens (Brouss.) Kuntze.
+
+Limonium dendroides Svent.
+
+* Limonium spectabile (Svent.) Kunkel & Sunding.
+
+* Limonium sventenii Santos & Fernandez Galvan.
+
+Polygonaceae
+
+Rumex azoricus Rech. fil.
+
+Rhamnaceae
+
+Frangula azorica Tutin.
+
+Rosaceae
+
+* Bencomia brachystachya Svent.
+
+Bencomia sphaerocarpa Svent.
+
+* Chamaemeles coriacea Lindl.
+
+Dendriopoterium pulidoi Svent.
+
+Marcetella maderensis (Born.) Svent.
+
+Prunus lusitanica L. subsp. azorica (Mouillef.) Franco.
+
+Sorbus maderensis (Lowe) Dode.
+
+Santalaceae
+
+Kunkeliella subsucculenta Kammer.
+
+Scrophulariaceae
+
+* Euphrasia azorica H. C. Watson.
+
+Euphrasia grandiflora Hochst. in Seub.
+
+* Isoplexis chalcantha Svent. & O'shanahan.
+
+Isoplexis isabelliana (Webb & Berthel.) Masferrer.
+
+Odontites holliana (Lowe) Benth.
+
+Sibthorpia peregrina L.
+
+Solanaceae
+
+* Solanum lidii Sunding.
+
+Umbelliferae
+
+Ammi trifoliatum (H. C. Watson) Trelease.
+
+Bupleurum handiense (Bolle) Kunkel.
+
+Chaerophyllum azoricum Trelease.
+
+Ferula latipinna Santos.
+
+Melanoselinum decipiens (Schrader & Wendl.) Hoffm.
+
+Monizia edulis Lowe.
+
+Oenanthe divaricata (R. Br.) Mabb.
+
+Sanicula azorica Guthnick ex Slub.
+
+Violaceae
+
+Viola paradoxa Lowe.
+
+Plantas inferiores
+
+Bryophyta
+
+* Echinodium spinosum (Mitt.) Jur. (o).
+
+* Thamnobryum fernandesii Sergio (o).
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 156-A/2013 - Diário da República n.º 217/2013, 2º Suplemento, Série I de 2013-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), em vigor a partir de 2013-11-13
+
+## Anexo B-III — Critérios de selecção dos sítios susceptíveis de serem identificados como sítios de importância comunitária e designados como zonas especiais de conservação
+
+Fase 1: avaliação a nível nacional da importância relativa dos sítios para cada tipo de habitat natural do anexo B-I e para cada espécie do anexo B-II (incluindo os tipos de habitats naturais prioritários e as espécies prioritárias).
+
+A) Critérios de avaliação do sítio para um determinado tipo de habitat natural do anexo B-I:
+
+a) Grau de representatividade do tipo de habitat natural para o sítio;
+
+b) Superfície do local coberta pelo tipo de habitat natural relativamente à superfície total coberta por esse tipo de habitat natural no território nacional;
+
+c) Grau de conservação da estrutura e das funções do tipo de habitat natural em questão e possibilidade de restauro;
+
+d) Avaliação global do valor do sítio para a conservação do tipo de habitat natural em questão.
+
+B) Critérios de avaliação do local para uma espécie determinada do anexo B-II:
+
+a) Extensão e densidade da população da espécie presente no sítio relativamente às populações presentes no território nacional;
+
+b) Grau de conservação dos elementos do habitat importantes para a espécie considerada e possibilidade de restauro;
+
+c) Grau de isolamento da população presente no local relativamente à área de repartição natural da espécie;
+
+d) Avaliação global do valor do local para a conservação da espécie considerada.
+
+C) Em conformidade com estes critérios, os Estados membros procederão à classificação dos sítios que propõem na lista nacional como sítios susceptíveis de serem identificados como sítios de importância comunitária, consoante o seu valor relativo para a conservação de cada tipo de habitat natural ou espécie constantes, respectivamente, dos anexos B-I ou B-II que lhes digam respeito.
+
+D) Essa lista indicará os sítios em que se encontram os tipos de habitats naturais prioritários e as espécies prioritárias seleccionados pelos Estados membros segundo os critérios enunciados em A) e B) supra.
+
+Fase 2: avaliação da importância comunitária dos sítios incluídos nas listas nacionais
+
+1 - Todos os sítios identificados pelos Estados membros na fase 1 que abriguem tipos de habitat natural e ou espécies prioritários serão considerados sítios de importância comunitária.
+
+2 - A avaliação da importância comunitária dos outros sítios incluídos nas listas dos Estados membros, ou seja, da sua contribuição para a manutenção ou para o restabelecimento, num estado de conservação favorável, de um habitat natural constante do anexo B-I ou de uma espécie incluída no anexo B-II, e ou para a coerência da Rede Natura 2000, terá em conta os seguintes critérios:
+
+a) O valor relativo do sítio a nível nacional;
+
+b) A localização geográfica do sítio relativamente às vias migratórias de espécies do anexo B-II, bem como a sua eventual pertença a um -ecossistema coerente situado de ambos os lados de uma ou várias fronteiras internas da Comunidade;
+
+c) A superfície total do sítio;
+
+d) O número de tipos de habitats naturais do anexo B-I e de espécies do anexo B-II presentes no sítio;
+
+e) O valor ecológico global do local para a região ou regiões biogeográfica(s) considerada(s) e ou para o conjunto do território referido no artigo 2.º, tanto pelo aspecto característico ou único dos elementos que o compõem como pela sua combinação.
+
+## Anexo B-IV — Espécies animais e vegetais de interesse da comunidade que exigem uma proteção rigorosa
+
+As espécies que constam do presente anexo são indicadas:
+
+- pelo nome da espécie ou da subespécie ou
+
+- pelo conjunto das espécies pertencentes a um taxon superior ou a uma parte designada desse taxon.
+
+A abreviatura «spp.» após o nome de uma família ou de um género serve para indicar todas as espécies que pertencem a essa família ou a esse género.
+
+a) Animais
+
+Vertebrados
+
+Mamíferos
+
+Insectívora
+
+Erinaceidae
+
+Erinaceus algirus.
+
+Soricidae
+
+Crocidura canariensis.
+
+Crocidura sícula.
+
+Talpidae
+
+Galemys pyrenaicus.
+
+Microchiroptera
+
+Todas as espécies.
+
+Megachiroptera
+
+Pteropodidae.
+
+Rousettus aegyptiacus.
+
+Rodentia
+
+Gliridae
+
+Todas as espécies exceto Glis glis e Eliomys quercinus.
+
+Sciuridae
+
+Marmota marmota latirostris.
+
+Pteromys volans (Sciuropterus russicus).
+
+Spermophilus citellus (Citellus citellus).
+
+Spermophilus suslicus (Citellus suslicus).
+
+Sciurus anomalus.
+
+Castoridae
+
+Castor fiber (exceto as populações estónias, letãs, lituanas, polacas, finlandesas e suecas).
+
+Cricetidae
+
+Cricetus cricetus (exceto as populações húngaras).
+
+Mesocricetus newtoni.
+
+Microtidae
+
+Dinaromys bogdanovi.
+
+Microtus cabrerae.
+
+Microtus oeconomus arenícola.
+
+Microtus oeconomus mehelyi.
+
+Microtus tatricus.
+
+Zapodidae
+
+Sicista betulina.
+
+Sicista subtilis.
+
+Hystricidae
+
+Hystrix cristata.
+
+Carnivora
+
+Canidae
+
+Alopex lagopus
+
+Canis lupus (exceto as populações gregas a norte do paralelo 39; as populações estónias; as populações espanholas a norte do Douro; as populações búlgaras, letãs, lituanas, polacas, eslovacas e as populações finlandesas no interior da área de exploração da rena, tal como definido no n.º 2 da Lei finlandesa n.º 848/90, de 14 de setembro de 1990, relativa à exploração da rena).
+
+Ursidae
+
+Ursus arctos.
+
+Mustelidae
+
+Lutra lutra.
+
+Mustela eversmanii.
+
+Mustela lutreola.
+
+Vormela peregusna.
+
+Felidae
+
+Felis silvestris.
+
+Lynx lynx (exceto a população da Estónia).
+
+Lynx pardinus.
+
+Phocidae
+
+Monachus monachus.
+
+Phoca hispida saimensis.
+
+Artiodactyla
+
+Cervidae
+
+Cervus elaphus corsicanus.
+
+Bovidae
+
+Bison bonasus.
+
+Capra aegagrus (populações naturais).
+
+Capra pyrenaica pyrenaica.
+
+Ovis gmelini musimon (Ovis ammon musimon) (populações naturais - Córsega e Sardenha).
+
+Ovis orientalis ophion (Ovis gmelini ophion).
+
+Rupicapra pyrenaica ornata (Rupicapra rupicapra ornata).
+
+Rupicapra rupicapra balcânica.
+
+Rupicapra rupicapra tatrica.
+
+Cetacea
+
+Todas as espécies.
+
+Répteis
+
+Testudinata
+
+Testudinidae
+
+Testudo graeca.
+
+Testudo hermanni.
+
+Testudo marginata.
+
+Cheloniidae
+
+Caretta caretta.
+
+Chelonia mydas.
+
+Lepidochelys kempii.
+
+Eretmochelys imbricata.
+
+Dermochelyidae
+
+Dermochelys coriácea.
+
+Emydidae
+
+Emys orbicularis.
+
+Mauremys caspica.
+
+Mauremys leprosa.
+
+Sauria
+
+Lacertidae
+
+Algyroides fitzingeri.
+
+Algyroides marchi.
+
+Algyroides moreoticus.
+
+Algyroides nigropunctatus.
+
+Dalmatolacerta oxycephala.
+
+Dinarolacerta mosorensis.
+
+Gallotia atlantica.
+
+Gallotia galloti.
+
+Gallotia galloti insulanagae.
+
+Gallotia simonyi.
+
+Gallotia stehlini.
+
+Lacerta agilis.
+
+Lacerta bedriagae.
+
+Lacerta bonnali (Lacerta monticola).
+
+Lacerta monticola.
+
+Lacerta danfordi.
+
+Lacerta dugesi.
+
+Lacerta graeca.
+
+Lacerta horvathi.
+
+Lacerta schreiberi.
+
+Lacerta trilineata.
+
+Lacerta viridis.
+
+Lacerta vivipara pannonica.
+
+Ophisops elegans.
+
+Podarcis erhardii.
+
+Podarcis filfolensis.
+
+Podarcis hispanica atrata.
+
+Podarcis lilfordi.
+
+Podarcis melisellensis.
+
+Podarcis milensis.
+
+Podarcis muralis.
+
+Podarcis peloponnesiaca.
+
+Podarcis pityusensis.
+
+Podarcis sícula.
+
+Podarcis taurica.
+
+Podarcis tiliguerta.
+
+Podarcis wagleriana.
+
+Scincidae
+
+Ablepharus kitaibelii.
+
+Chalcides bedriagai.
+
+Chalcides ocellatus.
+
+Chalcides sexlineatus.
+
+Chalcides simonyi (Chalcides occidentalis).
+
+Chalcides viridianus.
+
+Ophiomorus punctatissimus.
+
+Gekkonidae
+
+Cyrtopodion kotschyi.
+
+Phyllodactylus europaeus.
+
+Tarentola angustimentalis.
+
+Tarentola boettgeri.
+
+Tarentola delalandii.
+
+Tarentola gomerensis.
+
+Agamidae
+
+Stellio stellio.
+
+Chamaeleontidae
+
+Chamaeleo chamaeleon.
+
+Anguidae
+
+Ophisaurus apodus.
+
+Ophidia
+
+Colubridae
+
+Coluber caspius.
+
+Coluber cypriensis.
+
+Coluber hippocrepis.
+
+Coluber jugularis.
+
+Coluber laurenti.
+
+Coluber najadum.
+
+Coluber nummifer.
+
+Coluber viridiflavus.
+
+Coronella austríaca.
+
+Eirenis modesta.
+
+Elaphe longíssima.
+
+Elaphe quatuorlineata.
+
+Elaphe situla.
+
+Natrix natrix cetti.
+
+Natrix natrix corsa.
+
+Natrix natrix cypriaca.
+
+Natrix tessellata.
+
+Telescopus falax.
+
+Viperidae
+
+Vipera ammodytes.
+
+Macrovipera schweizeri (Vipera lebetina schweizeri).
+
+Vipera seoanni (exceto as populações espanholas).
+
+Vipera ursinii.
+
+Vipera xanthina.
+
+Boidae
+
+Eryx jaculus.
+
+Anfíbios
+
+Caudata
+
+Salamandridae
+
+Chioglossa lusitânica.
+
+Euproctus asper.
+
+Euproctus montanus.
+
+Euproctus platycephalus.
+
+Mertensiella luschani (Salamandra luschani).
+
+Salamandra atra.
+
+Salamandra aurorae.
+
+Salamandra lanzai.
+
+Salamandrina terdigitata.
+
+Triturus carnifex (Triturus cristatus carnifex).
+
+Triturus cristatus (Triturus cristatus cristatus).
+
+Triturus italicus.
+
+Triturus karelinii (Triturus cristatus karelinii).
+
+Triturus marmoratus.
+
+Triturus montandoni.
+
+Triturus vulgaris ampelensis.
+
+Proteidae
+
+Proteus anguinus.
+
+Plethodontidae
+
+Hydromantes (Speleomantes) ambrosii.
+
+Hydromantes (Speleomantes) flavus.
+
+Hydromantes (Speleomantes) genei.
+
+Hydromantes (Speleomantes) imperialis.
+
+Hydromantes (Speleomantes) strinatii [Hydromantes (Speleomantes) italicus].
+
+Hydromantes (Speleomantes) supramontis.
+
+Anura
+
+Discoglossidae
+
+Alytes cisternasii.
+
+Alytes muletensis.
+
+Alytes obstetricans.
+
+Bombina bombina.
+
+Bombina variegata.
+
+Discoglossus galganoi (inclui Discoglossus "jeanneae").
+
+Discoglossus montalentii.
+
+Discoglossus pictus.
+
+Discoglossus sardus.
+
+Ranidae
+
+Rana arvalis.
+
+Rana dalmatina.
+
+Rana graeca.
+
+Rana ibérica.
+
+Rana itálica.
+
+Rana latastei.
+
+Rana lessonae.
+
+Pelobatidae
+
+Pelobates cultripes.
+
+Pelobates fuscus.
+
+Pelobates syriacus.
+
+Bufonidae
+
+Bufo calamita.
+
+Bufo viridis.
+
+Hylidae
+
+Hyla arbórea.
+
+Hyla meridionalis.
+
+Hyla sarda.
+
+Peixes
+
+Acipenseriformes
+
+Acipenseridae.
+
+Acipenser naccarii.
+
+Acipenser sturio.
+
+Salmoniformes
+
+Coregonidae.
+
+Coregonus oxyrhynchus (populações anádromas em determinados setores do mar do Norte, exceto as populações finlandesas)
+
+Cypriniformes
+
+Cyprinidae.
+
+Anaecypris hispanica.
+
+Phoxinus percnurus.
+
+Atheriniformes
+
+Cyprinodontidae.
+
+Valencia hispanica.
+
+Perciformes
+
+Percidae.
+
+Gymnocephalus baloni.
+
+Romanichthys valsanicola.
+
+Zingel asper.
+
+Invertebrados
+
+Artrópodes
+
+Crustacea
+
+Isopoda.
+
+Armadillidium ghardalamensis.
+
+Insecta
+
+Coleoptera.
+
+Bolbelasmus unicornis.
+
+Buprestis splendens.
+
+Carabus hampei.
+
+Carabus hungaricus.
+
+Carabus olympiae.
+
+Carabus variolosus.
+
+Carabus zawadszkii.
+
+Cerambyx cerdo.
+
+Cucujus cinnaberinus.
+
+Dorcadion fulvum cervae.
+
+Duvalius gebhardti.
+
+Duvalius hungaricus.
+
+Dytiscus latissimus.
+
+Graphoderus bilineatus.
+
+Leptodirus hochenwarti.
+
+Pilemia tigrina.
+
+Osmoderma eremita.
+
+Phryganophilus ruficollis.
+
+Probaticus subrugosus.
+
+Propomacrus cypriacus.
+
+Pseudogaurotina excellens.
+
+Pseudoseriscius cameroni.
+
+Pytho kolwensis.
+
+Rosalia alpina.
+
+Lepidoptera.
+
+Apatura metis.
+
+Arytrura musculus.
+
+Catopta thrips.
+
+Chondrosoma fiduciarium.
+
+Coenonympha hero.
+
+Coenonympha oedippus.
+
+Colias myrmidone.
+
+Cucullia mixta.
+
+Dioszeghyana schmidtii.
+
+Erannis ankeraria.
+
+Erebia calcaria.
+
+Erebia christi.
+
+Erebia sudetica.
+
+Eriogaster catax.
+
+Fabriciana elisa.
+
+Glyphipterix loricatella.
+
+Gortyna borelii luneta.
+
+Hypodryas maturna.
+
+Hyles hippophaes.
+
+Leptidea morsei.
+
+Lignyoptera fumidaria.
+
+Lopinga achine.
+
+Lycaena dispar.
+
+Lycaena helle.
+
+Maculinea arion.
+
+Maculinea nausithous.
+
+Maculinea teleius.
+
+Melanargia arge.
+
+Nymphalis vaualbum.
+
+Papilio alexanor.
+
+Papilio hospiton.
+
+Parnassius apollo.
+
+Parnassius mnemosyne.
+
+Phyllometra culminaria.
+
+Plebicula golgus.
+
+Polymixis rufocincta isolata.
+
+Polyommatus eroides.
+
+Proserpinus proserpina.
+
+Proterebia afra dálmata.
+
+Pseudophilotes bavius.
+
+Xylomoia strix.
+
+Zerynthia polyxena
+
+Mantodea
+
+Apteromantis aptera
+
+Odonata
+
+Aeshna viridis
+
+Cordulegaster heros
+
+Cordulegaster trinacriae
+
+Gomphus graslinii
+
+Leucorrhinia albifrons
+
+Leucorrhinia caudalis
+
+Leucorrhinia pectoralis
+
+Lindenia tetraphylla
+
+Macromia splendens
+
+Ophiogomphus cecilia
+
+Oxygastra curtisii
+
+Stylurus flavipes
+
+Sympecma braueri
+
+Orthoptera
+
+Baetica ustulata
+
+Brachytrupes megacephalus
+
+Isophya costata
+
+Isophya harzi
+
+Isophya stysi
+
+Myrmecophilus baronii
+
+Odontopodisma rubripes
+
+Paracaloptenus caloptenoides
+
+Pholidoptera transsylvanica
+
+Saga pedo
+
+Stenobothrus (Stenobothrodes) eurasius
+
+Arachnida
+
+Araneae
+
+Macrothele calpeiana
+
+Moluscos
+
+Gastropoda
+
+Anisus vorticulus
+
+Caseolus calculus
+
+Caseolus commixta
+
+Caseolus sphaerula
+
+Chilostoma banaticum
+
+Discula leacockiana
+
+Discula tabellata
+
+Discula testudinalis
+
+Discula turricula
+
+Discus defloratus
+
+Discus guerinianus
+
+Elona quimperiana
+
+Geomalacus maculosus
+
+Geomitra moniziana
+
+Gibbula nivosa
+
+Hygromia kovacsi
+
+Idiomela (Helix) subplicata
+
+Lampedusa imitatrix
+
+Lampedusa melitensis
+
+Leiostyla abbreviata
+
+Leiostyla cassida
+
+Leiostyla corneocostata
+
+Leiostyla gibba
+
+Leiostyla lamellosa
+
+Paladilhia hungarica
+
+Patella ferruginea
+
+Sadleriana pannonica
+
+Theodoxus prevostianus
+
+Theodoxus transversalis
+
+Bivalvia
+
+Anisomyaria
+
+Lithophaga lithophaga
+
+Pinna nobilis
+
+Unionoida
+
+Margaritifera auricularia
+
+Unio crassus
+
+Dreissenidae
+
+Congeria kusceri
+
+Echinodermata
+
+Echinoidea
+
+Centrostephanus longispinus
+
+b) Plantas
+
+O anexo IV, alínea b), inclui todas as espécies vegetais enumeradas no anexo II, alínea b) [*] e ainda as espécies a seguir indicadas:
+
+Pteridophyta
+
+Aspleniaceae
+
+Asplenium hemionitis L.
+
+Angiospermae
+
+Agavaceae
+
+Dracaena draco (L.) L.
+
+Amaryllidaceae
+
+Narcissus longispathus Pugsley
+
+Narcissus triandrus L.
+
+Berberidaceae
+
+Berberis maderensis Lowe
+
+Campanulaceae
+
+Campanula morettiana Reichenb.
+
+Physoplexis comosa (L.) Schur.
+
+Caryophyllaceae
+
+Moehringia fontqueri Pau
+
+Compositae
+
+Argyranthemum pinnatifidum (L.f.) Lowe subsp. succulentum (Lowe) C. J. Humphries
+
+Helichrysum sibthorpii Rouy
+
+Picris willkommii (Schultz Bip.) Nyman
+
+Santolina elegans Boiss. ex DC.
+
+Senecio caespitosus Brot.
+
+Senecio lagascanus DC. subsp. lusitanicus (P. Cout.) Pinto da Silva
+
+Wagenitzia lancifolia (Sieber ex Sprengel) Dostal
+
+Cruciferae
+
+Murbeckiella sousae Rothm.
+
+Euphorbiaceae
+
+Euphorbia nevadensis Boiss. & Reuter
+
+Gesneriaceae
+
+Jankaea heldreichii (Boiss.) Boiss.
+
+Ramonda serbica Pancic
+
+Iridaceae
+
+Crocus etruscus Parl.
+
+Iris boissieri Henriq.
+
+Iris marisca Ricci & Colasante
+
+Labiatae
+
+Rosmarinus tomentosus Huber-Morath & Maire
+
+Teucrium charidemi Sandwith
+
+Thymus capitellatus Hoffmanns. & Link
+
+Thymus villosus L. subsp. villosus L.
+
+Liliaceae
+
+Androcymbium europaeum (Lange) K. Richter
+
+Bellevalia hackelli Freyn
+
+Colchicum corsicum Baker
+
+Colchicum cousturieri Greuter
+
+Fritillaria conica Rix
+
+Fritillaria drenovskii Degen & Stoy.
+
+Fritillaria gussichiae (Degen & Doerfler) Rix
+
+Fritillaria obliqua Ker-Gawl.
+
+Fritillaria rhodocanakis Orph. ex Baker
+
+Ornithogalum reverchonii Degen & Herv.-Bass.
+
+Scilla beirana Samp.
+
+Scilla odorata Link
+
+Orchidaceae
+
+Ophrys argolica Fleischm.
+
+Orchis scopulorum Simsmerh.
+
+Spiranthes aestivalis (Poiret) L. C. M. Richard
+
+Primulaceae
+
+Androsace cylindrica DC.
+
+Primula glaucescens Moretti
+
+Primula spectabilis Tratt.
+
+Ranunculaceae
+
+Aquilegia alpina L.
+
+Sapotaceae
+
+Sideroxylon marmulano Banks ex Lowe
+
+Saxifragaceae
+
+Saxifraga cintrana Kuzinsky ex Willk.
+
+Saxifraga portosanctana Boiss.
+
+Saxifraga presolanensis Engl.
+
+Saxifraga valdensis DC.
+
+Saxifraga vayredana Luizet
+
+Scrophulariaceae
+
+Antirrhinum lopesianum Rothm.
+
+Lindernia procumbens (Krocker) Philcox
+
+Solanaceae
+
+Mandragora officinarum L.
+
+Thymelaeaceae
+
+Thymelaea broterana P. Cout.
+
+Umbelliferae
+
+Bunium brevifolium Lowe
+
+Violaceae
+
+Viola athois W. Becker
+
+Viola cazorlensis Gandoger
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 156-A/2013 - Diário da República n.º 217/2013, 2º Suplemento, Série I de 2013-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-a-2013-536213), em vigor a partir de 2013-11-13
+
+## Anexo B-V — Espécies animais e vegetais de interesse comunitário cuja captura ou colheita na Natureza e exploração podem ser objecto de medidas de gestão
+
+As espécies contidas no presente anexo são indicadas:
+
+Pelo nome da espécie ou da subespécie; ou
+
+Pelo conjunto das espécies que pertencem a um taxon superior ou a uma parte determinada do referido taxon.
+
+A abreviatura «spp.» após o nome de uma família ou de um género serve para indicar todas as espécies que pertencem a esse género ou família.
+
+a) Animais
+
+Vertebrados
+
+Mamíferos
+
+Rodentia
+
+Castoridae
+
+Castor fiber (populações finlandesas).
+
+Carnivora
+
+Canidae
+
+Canis aureus.
+
+Canis lupus (populações espanholas a norte do Douro e populações gregas a norte do paralelo 39; populações finlandesas na área de ordenamento das renas, tal como definida pela Lei finlandesa n.º 848/90, de 14 de Setembro, sobre o ordenamento das renas).
+
+Mustelidae
+
+Martes martes.
+
+Mustela putorius.
+
+Phocidae
+
+Todas as espécies não mencionadas no anexo B-IV.
+
+Viverridae
+
+Genetta genetta.
+
+Herpestes ichneumon.
+
+Duplicidentata
+
+Leporidae
+
+Lepus timidus.
+
+Artiodactyla
+
+Bovidae
+
+Capra ibex.
+
+Capra pyrenaica (excepto a Capra pyrenaica pyrenaica).
+
+Rupicapra rupicapra (excepto a Rupicapra rupicapra balcanica).
+
+Anfíbios
+
+Anura
+
+Ranidae
+
+Rana esculenta.
+
+Rana perezi.
+
+Rana ridibunda.
+
+Rana temporana.
+
+Peixes
+
+Petromyzoniformes
+
+Petromyzonidae
+
+Lampetra fluviatilis.
+
+Lethenteron zanandrai.
+
+Acipenseriformes
+
+Acipenseridae
+
+Todas as espécies não mencionadas no anexo B-IV.
+
+Salmoniformes
+
+Salmonidae
+
+Thymallus thymallus.
+
+Coregonus spp. (excepto o Coregnus oxyrhynchus - populações anádromas).
+
+Hucho hucho.
+
+Samo salar (unicamente em águas doces).
+
+Cyprinidae
+
+Aspius aspius.
+
+Barbus spp.
+
+Rutilus friesii meidingeri.
+
+Rutilus pigus virgo.
+
+Perciformes
+
+Percidae
+
+Gymnocephalus schraetzer.
+
+Zingel zingel.
+
+Clupeiformes
+
+Clupeidae
+
+Alosa spp.
+
+Siluriformes
+
+Siluridae
+
+Silurus aristotelis.
+
+Invertebrados
+
+Coelenterata
+
+Cnidaria
+
+Corallium rubrum.
+
+Mollusca
+
+Gastropoda-stylommatophora
+
+Helicidae
+
+Helix pomatia.
+
+Bivalvia-unionoida
+
+Margaritiferidae
+
+Margaritifera margaritifera.
+
+Unionidae
+
+Microcondylaea compressa.
+
+Unio dongatulus.
+
+Annelida
+
+Hirudinoidea-arhynchobdellae
+
+Hirudinidae
+
+Hirudo medicinalis.
+
+Arthropoda
+
+Crustacea-decapoda
+
+Astacidae
+
+Astacus astacus.
+
+Austropotamobius pallipes.
+
+Austropotamobius torrentium.
+
+Scyllaridae
+
+Scyllarides latus.
+
+Insecta-lepidoptera
+
+Saturniidae
+
+Graellsia isabellae.
+
+b) Plantas
+
+Algae
+
+Rhodophyta
+
+Corallinaceae
+
+Lithothamnium coralloides Crouan frat.
+
+Phymatholithon calcareum (Poll.) Adey & McKibbin.
+
+Lichenes
+
+Cladoniaceae
+
+Cladonia L. subgenus Cladina (Nyl.) Vain.
+
+Bryophyta
+
+Musci
+
+Leucobryaceae
+
+Leucobryum glaucum (Hedw.) Angstr.
+
+Sphagnaceae
+
+Sphagnum L. spp. (excepto Sphagnum pylasii Brid.).
+
+Pteridophyta
+
+Lycopodium spp.
+
+Angiospermae
+
+Amaryllidaceae
+
+Galanthus nivalis L.
+
+Narcissus bulbocodium L.
+
+Narcissus juncifolius Lagasca.
+
+Compositae
+
+Arnica montana L.
+
+Artemisia criantha Ten.
+
+Artemisia genipi Weber.
+
+Doronicum plantagineum L. subsp. tournefortii (Rouy) P. Cout.
+
+Cruciferae
+
+Alyssum pintadasilvae Dudley.
+
+Malcolmia lacera (L.) DC. subsp. graccilima (Samp.) Franco.
+
+Murbeckiella pinnatifida (Lam.) Rothm. subsp. herminii (Rivas-Martinez) Greuter & Burdet.
+
+Gentianaceae
+
+Gentiana lutea L.
+
+Iridaceae
+
+Iris lusitanica Ker-Gawler.
+
+Labiatae
+
+Teucrium salviastrum Schreber subsp. salviastrum Schreber.
+
+Leguminosae
+
+Anthyllis lusitanica Cullen & Pinto da Silva.
+
+Dorycnium pentaphyllum Scop. subsp. transmontana Franco.
+
+Ulex densus Welw. ex Webb.
+
+Liliaceae
+
+Lilium rubrum Lmk.
+
+Ruscus aculeatus L.
+
+Plumbaginaceae
+
+Armeria sampaio (Bernis) Nieto Feliner.
+
+Rosaceae
+
+Rubus genevieri Boreau subsp. herminii (Samp.) P. Cout.
+
+Scrophulariaceae
+
+Anarrhinum longipedicelatum R. Fernandes.
+
+Euphrasia mendonçae Samp.
+
+Scrophularia grandiflora DC subsp. grandiflora DC.
+
+Scrophularia berminü Hoffmanns & Link.
+
+Scrophularia sublyrata Brot.
+
+Compositae
+
+Leuzea rhaponticoides Graells.
+
+## Anexo C — Métodos e meios de captura e abate e meios de transporte proibidos
+
+a) Meios não selectivos:
+
+Mamíferos e aves:
+
+Animais vivos, cegos ou mutilados, utilizados como chamarizes;
+
+Gravadores de som;
+
+Dispositivos eléctricos e electrónicos capazes de matar ou atordoar;
+
+Laços, substâncias viscosas, anzóis;
+
+Fontes de luz artificial;
+
+Espelhos e outros meios de encandeamento;
+
+Meios de iluminação dos alvos;
+
+Dispositivos de mira para tiro nocturno, incluindo um amplificador de imagem ou um conversor de imagem electrónicos;
+
+Explosivos;
+
+Redes não selectivas nos seus princípios ou condições de utilização;
+
+Armadilhas não selectivas nos seus princípios ou condições de utilização;
+
+Balestras;
+
+Venenos e engodos envenenados ou anestésicos;
+
+Libertação de gases ou fumos;
+
+Armas automáticas ou semiautomáticas com carregador de capacidade superior a dois cartuchos;
+
+Peixes:
+
+Venenos;
+
+Explosivos.
+
+b) Modos de transporte:
+
+Aeronaves;
+
+Veículos a motor em movimento.
+
+## Anexo D — Espécies cinegéticas
+
+a) Espécies de aves cinegéticas
+
+Anas penelope.
+
+Anas strepera.
+
+Anas crecca.
+
+Anas platyrhynchos.
+
+Anas acuta.
+
+Anas querquedula.
+
+Anas clypeata.
+
+Aythya ferina.
+
+Aythya fuligula.
+
+Alectoris rufa.
+
+Phasianus colchicus.
+
+Coturnix coturnix.
+
+Fulica atra.
+
+Gallinula chloropus.
+
+Lymnocryptes minimus.
+
+Pluvialis apricaria.
+
+Gallinago gallinago.
+
+Scolopax rusticola.
+
+Columba livia.
+
+Columba palumbus.
+
+Columba oenas.
+
+Streptopelia turtur.
+
+Turdus merula.
+
+Turdus pilaris.
+
+Turdus philomelos.
+
+Turdus iliacus.
+
+Turdus viscivorus.
+
+Sturnus vulgaris.
+
+Garrulus glandarius.
+
+Pica pica.
+
+Corvus corone.
+
+b) Espécie cinegética incluída no anexo B-V
+
+Herpestes ichneumon.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 49/2005 - Diário da República n.º 39/2005, Série I-A de 2005-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2005-608175), em vigor a partir de 2005-02-25

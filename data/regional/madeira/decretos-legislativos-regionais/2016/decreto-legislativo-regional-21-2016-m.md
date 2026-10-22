@@ -1,0 +1,565 @@
+---
+schema_version: '1.0'
+id: pt:dre:74443081:por
+title: Decreto Legislativo Regional n.º 21/2016/M
+short_title: null
+summary: Cria o Instituto das Florestas e Conservação da Natureza, IP-RAM e extingue a Direção Regional de Florestas e Conservação
+  da Natureza e o Serviço do Parque Natural da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 21/2016/M
+official_date: null
+publication_date: '2016-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/2016, Série I de 2016-05-13
+  number: '93'
+  series: I
+  supplement: null
+  pages: 1570 - 1575
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/05/09300/0157001575.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-12-31'
+version_history:
+  file: decreto-legislativo-regional-21-2016-m.versoes.json
+  count: 5
+  source_lastmod: '2025-10-16'
+  versions:
+  - date: '2016-05-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-12-30'
+    amending: pt:dre:105643550:por
+    amending_title: Decreto Legislativo Regional n.º 42/2016/M
+    changes:
+    - Altera Artigo 23.º
+  - date: '2018-01-13'
+    amending: pt:dre:114513613:por
+    amending_title: Decreto Legislativo Regional n.º 3/2018/M
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+  - date: '2025-07-03'
+    amending: pt:dre:923290710:por
+    amending_title: Decreto Legislativo Regional n.º 2/2025/M
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Revoga Artigo 14.º
+  - date: '2025-12-31'
+    amending: pt:dre:993031451:por
+    amending_title: Decreto Legislativo Regional n.º 8/2025/M
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/21/2016/m/cons/20251230/pt/html
+  oj: null
+  dre: '74443081'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/21-2016-74443081
+  internal: pt:dre:74443081:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2016-74443081
+  metadata_url: https://data.dre.pt/eli/declegreg/21/2016/m/cons/20251230/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-114513621
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-114513621
+  retrieved_at: '2026-10-22T13:35:12Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-10-16T00:00:00Z'
+integrity:
+  source_sha256: c5643e1cee1d804c3a377b7d15a7049953dd14d223508414b2d7df8ad619e89e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:35:12Z'
+  notes: 5 versão(ões); histórico completo em decreto-legislativo-regional-21-2016-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reestruturação de Serviços
+- Pessoal Dirigente
+- Definição de Competências
+- Direcção Regional de Florestas e Conservação da Natureza
+- Extinção de Serviços
+- Orgânica
+- Madeira.região Autónoma
+- Secretaria Regional do Ambiente e Recursos Naturais
+- Serviço do Parque Natural da Madeira
+- Gestão de Recursos Humanos
+- Transferência de Pessoal
+- Instituto das Florestas e Conservação da Natureza
+relationships:
+- type: amended_by
+  target: pt:dre:105643550:por
+  label: Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2016-105643550
+  date: '2016-12-29'
+- type: amended_by
+  target: pt:dre:114513613:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2018-114513613
+  date: '2018-01-12'
+- type: amended_by
+  target: pt:dre:923290710:por
+  label: Altera Artigo 2.º; Altera Artigo 8.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 15.º; Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710
+  date: '2025-07-02'
+- type: amended_by
+  target: pt:dre:993031451:por
+  label: Altera Artigo 5.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451
+  date: '2025-12-30'
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/declretif/37-a/2014/08/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/8/2015/08/05/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/8/2015/08/05/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/0
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/0
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/84/2015/08/07/p/dre
+article_structure:
+  article_count: 28
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:35:12Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 21/2016/M
+
+Decreto Legislativo Regional n.º 21/2016/M
+
+Cria o Instituto das Florestas e Conservação da Natureza, IP-RAM e extingue a Direção Regional de Florestas e Conservação da Natureza e o Serviço do Parque Natural da Madeira
+
+O Programa do XII Governo Regional da Madeira determina a criação de um novo modelo de gestão que permita a articulação e a implementação das medidas definidas para o ambiente e conservação da natureza, assente na criação do Instituto das Florestas e Conservação da Natureza, IP-RAM, estrutura aglutinadora da gestão integrada da paisagem, da floresta e dos espaços naturais da Madeira, Porto Santo, Desertas e Selvagens.
+
+Numa lógica de aperfeiçoamento e simplificação do modelo de gestão do setor, torna-se imperioso a aposta na racionalização de meios e sem perder de vista a consolidação de um crescimento sustentado, urge reduzir a dispersão e duplicação de estruturas e custos e concomitantemente, alavancar projetos cofinanciáveis de investimento na gestão da floresta, paisagem, habitats e espécies.
+
+Por outro lado, num mercado global, onde a competitividade exige uma permanente aposta na qualidade e promoção, importa, em prol da eficiência do serviço público e da economia de meios, munir a Região Autónoma da Madeira de uma estrutura eficaz e eficiente na gestão de espaços com elevado impacto - Parque Natural da Madeira e outras áreas protegidas, Jardim Botânico, Quintas e Parques Florestais, Veredas e Levadas - assente numa lógica de afetação de receitas à sua requalificação.
+
+Nesse sentido e em cumprimento, a orgânica da Secretaria Regional do Ambiente e Recursos Naturais (SRA), aprovada pelo Decreto Regulamentar Regional n.º 8/2015/M, de 5 de agosto, prevê a fusão do Serviço do Parque Natural da Madeira com a Direção Regional de Florestas e Conservação da Natureza, cujas atribuições são incorporadas no Instituto das Florestas e Conservação da Natureza, IP-RAM.
+
+Através desta fusão, criam-se sinergias que permitem atingir um novo patamar potenciador do desenvolvimento económico e social, ambientalmente sustentável, competindo ao novo instituto, que passa a integrar a administração indireta da Região Autónoma da Madeira, no âmbito da SRA, promover a conservação da natureza, o ordenamento e a gestão sustentável da bio e geodiversidade, da paisagem e da floresta bem como dos recursos a ela associados e ainda a gestão das áreas protegidas.
+
+Na elaboração do presente diploma foram considerados os princípios decorrentes da Lei-quadro dos Institutos Públicos (Lei n.º 3/2004, de 15 de janeiro, na sua atual redação), aplicável à Região Autónoma da Madeira pelo artigo 29.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, e 2/2013/M, de 2 de janeiro, tendo sido observados os procedimentos constitucionais e legais que presidem à criação dos Institutos.
+
+Foram cumpridos os procedimentos de auscultação previstos na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, retificada pela Declaração de Retificação n.º 37-A/2014, de 19 de agosto e alterada pela Lei n.º 84/2015, de 7 de agosto.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e n.º 1 do artigo 232.º da Constituição da República Portuguesa, das alíneas c) e i) do n.º 1 do artigo 37.º e das alíneas jj), oo), pp) e qq) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e nos termos do artigo 9.º da Lei n.º 3/2004, de 15 de janeiro, com última redação constante no Decreto-Lei n.º 96/2015, de 29 de maio, aplicável à Região Autónoma da Madeira pelo artigo 29.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, e 2/2013/M, de 2 de janeiro, o seguinte:
+
+### Capítulo I — Criação, natureza e sede
+
+###### Artigo 1.º — Objeto
+
+O presente diploma cria o Instituto das Florestas e Conservação da Natureza, IP-RAM, adiante designado abreviadamente por IFCN, IP-RAM, que resulta da fusão da Direção Regional de Florestas e Conservação da Natureza e do Serviço do Parque Natural da Madeira.
+
+###### Artigo 2.º — Natureza e tutela
+
+1 - O IFCN, IP-RAM é uma pessoa coletiva de direito público, dotada de personalidade jurídica, com autonomia administrativa, financeira e patrimonial, integrado na administração indireta da Região Autónoma da Madeira, adiante designada abreviadamente por RAM.
+
+2 - O IFCN, IP-RAM, prossegue as suas atribuições sob a tutela e superintendência do membro do Governo Regional responsável pelas áreas da floresta e conservação da natureza e biodiversidade.
+
+3 - O IFCN, IP-RAM, é a entidade florestal regional e para a conservação da natureza e biodiversidade.
+
+> Alterado pelo/a Artigo 94.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01
+
+###### Artigo 3.º — Jurisdição territorial e sede
+
+O IFCN, IP-RAM tem sede na cidade do Funchal e exerce a sua atividade em todo o território da Região Autónoma da Madeira, podendo, em representação desta e no âmbito das suas atribuições e competências, colaborar com serviços e organizações nacionais e estrangeiras.
+
+### Capítulo II — Missão e atribuições
+
+###### Artigo 4.º — Missão
+
+O IFCN, IP-RAM tem por missão promover a conservação da natureza, o ordenamento e a gestão sustentável da bio e geodiversidade, da paisagem e da floresta, bem como dos recursos a ela associados e ainda a gestão das áreas protegidas.
+
+###### Artigo 5.º — Atribuições
+
+Para a realização da sua missão são atribuições do IFCN, IP-RAM:
+
+a) Promover ao nível da RAM a execução e coordenação da política definida pelo Governo Regional para a conservação da natureza, o ordenamento e a gestão sustentável da bio e geodiversidade terrestre e marinha, da paisagem e da floresta bem como dos recursos a ela associados e ainda a gestão das áreas classificadas e áreas protegidas;
+
+b) Coordenar as medidas e ações necessárias à proteção, conservação e recuperação dos ecossistemas florestais e associados, bem como a gestão do património e espaço florestal;
+
+c) Assegurar o acesso à utilização social da floresta, promovendo a harmonização das múltiplas funções que ela desempenha e salvaguardando os seus aspetos paisagísticos, recreativos, científicos e culturais;
+
+d) Assegurar a gestão das áreas protegidas e da Rede Natura 2000 nas suas vertentes terrestre, marinha costeira e offshore, assim como propor a criação de novas áreas a classificar e promover a sua implementação;
+
+e) Propor a proteção, em espaço terrestre ou marinho, de indivíduos ou formações vegetais ou unidades geomorfológicas de reconhecido interesse científico ou paisagístico;
+
+f) Promover a reintrodução de espécies indígenas ameaçadas em território regional;
+
+g) Assegurar a elaboração, aprovação, execução e monitorização dos planos de gestão, proteção e conservação da natureza e de outros instrumentos de planeamento, sem prejuízo da articulação com outras entidades envolvidas na matéria;
+
+h) Assegurar a gestão sustentável e a certificação das áreas sujeitas ao regime florestal;
+
+i) Promover as medidas e as ações necessárias à prevenção e deteção de incêndios florestais;
+
+j) Promover planos e programas sistemáticos de sensibilização das populações com vista à conservação da natureza;
+
+k) Promover o ordenamento, a exploração sustentada e a conservação dos recursos cinegéticos, aquícolas de águas interiores, pastoris e de outros recursos e espaços associados à floresta e a atividades não extrativas associadas à biodiversidade marinha;
+
+l) Elaborar os estudos e emitir os pareceres que lhe forem solicitados, no quadro das suas atribuições;
+
+m) Implementar, a nível regional, as diretivas e instrumentos operacionais e legais, nacionais e comunitários, nos domínios das áreas florestais e da conservação da natureza;
+
+n) Acompanhar os desenvolvimentos de iniciativas nacionais e internacionais nas áreas das florestas e da conservação da natureza e proceder à respetiva adaptação e aplicação a nível regional;
+
+o) Fiscalizar o cumprimento das normas legais e regulamentares em matérias de proteção e conservação da natureza;
+
+p) Prestar serviços, no âmbito das atribuições enunciadas nas alíneas anteriores, a entidades públicas ou privadas, de acordo com a tabela de preços a aprovar pelo membro do Governo Regional responsável pela área das florestas e conservação da natureza;
+
+q) Requerer ao Governo Regional a declaração de utilidade pública para expropriação de imóveis e dos direitos a eles inerentes e, bem assim, a autorização para a posse administrativa dos bens a expropriar e para a constituição de servidões administrativas, nos termos definidos no Código das Expropriações, sendo-lhe conferido para o efeito o caráter de entidade expropriante;
+
+r) Exercer as demais competências que lhe forem legalmente cometidas.
+
+> Alterado pelo/a Artigo 103.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01
+
+### Capítulo III — Órgãos, competências e funcionamento
+
+###### Artigo 6.º — Órgãos
+
+São órgãos do IFCN, IP-RAM:
+
+a) O Conselho Diretivo;
+
+b) O fiscal único;
+
+c) O Conselho Consultivo.
+
+#### Secção I — Conselho Diretivo
+
+###### Artigo 7.º — Composição e designação
+
+1 - O Conselho Diretivo do IFCN, IP-RAM é composto por um presidente e dois vogais, designados nos termos da lei.
+
+2 - O presidente e os vogais são equiparados, respetivamente, a cargo de direção superior de 1.º grau e de direção superior de 2.º grau, aplicando-se o regime constante na Lei n.º 3/2004, de 15 de janeiro, com as alterações introduzidas pelo Decreto-Lei n.º 96/2015, de 29 de maio, aplicável à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 17/2007/M, 12 de novembro, retificado pela Declaração de Retificação n.º 1/2008, de 4 de janeiro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro e 42-A/2016/M, de 30 de dezembro, e subsidiariamente o Estatuto do Pessoal Dirigente da Administração Pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2018/M - Diário da República n.º 9/2018, Série I de 2018-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2018-114513613), em vigor a partir de 2018-01-13
+
+###### Artigo 8.º — Competências do Conselho Diretivo
+
+1 - Compete ao Conselho Diretivo, no âmbito da orientação e gestão do instituto do IFCN-RAM, o seguinte:
+
+a) Elaborar e submeter à aprovação da tutela o orçamento anual e os planos anuais e plurianuais de atividades, assegurando a respetiva execução;
+
+b) Acompanhar e avaliar sistematicamente a atividade desenvolvida, designadamente responsabilizando os diferentes serviços pela utilização dos meios postos à sua disposição e pelos resultados atingidos;
+
+c) Elaborar o relatório de atividades;
+
+d) Elaborar o balanço social, nos termos da lei aplicável;
+
+e) Exercer os poderes de direção, gestão e disciplina do pessoal do IFCN, IP-RAM, praticando, neste âmbito, todos os atos previstos na lei e nos estatutos;
+
+f) Aprovar os projetos dos regulamentos previstos nos estatutos e os que sejam necessários ao desempenho das atribuições do IFCN, IP-RAM;
+
+g) Remeter ao Secretário Regional das Finanças e da Administração Pública ou membro do governo com a tutela da área das finanças os documentos necessários ao controlo sistemático sucessivo de gestão orçamental, conforme previsto na lei de bases da contabilidade pública;
+
+h) Nomear os representantes do instituto em organismos exteriores;
+
+i) Elaborar pareceres, estudos e informações que lhe sejam solicitados pelo membro do Governo Regional da tutela;
+
+j) Constituir mandatários do instituto, em juízo e fora dele, incluindo com o poder de substabelecer;
+
+k) Designar um secretário a quem cabe certificar os atos e deliberações.
+
+2 - Compete ao Conselho Diretivo no âmbito da gestão financeira e patrimonial o seguinte:
+
+a) Arrecadar e gerir as receitas e autorizar as despesas inerentes ao exercício do IFCN, IP-RAM;
+
+b) Elaborar a conta de gerência do IFCN, IP-RAM e submetê-la à apreciação e aprovação das entidades competentes;
+
+c) Gerir o património do IFCN, IP-RAM, podendo adquirir, alienar ou onerar bens móveis, aceitar doações, heranças ou legados, nos termos da lei;
+
+d) Adquirir, alienar ou onerar bens imóveis, nos termos da lei e após autorização conjunta dos membros do Governo Regional responsáveis pela área das finanças, da Administração Pública e da tutela;
+
+e) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;
+
+f) Exercer os demais poderes previstos na lei, nos estatutos ou que lhe tenham sido delegados;
+
+3 - O IFCN, IP-RAM é representado, designadamente, em juízo ou na prática de atos jurídicos, pelo presidente do conselho diretivo, por dois dos seus membros, ou por mandatários especialmente designados.
+
+> Alterado pelo/a Artigo 94.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2018/M - Diário da República n.º 9/2018, Série I de 2018-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2018-114513613), em vigor a partir de 2018-01-13
+
+###### Artigo 9.º — Competências do presidente
+
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas, compete ao presidente do Conselho Diretivo do IFCN, IP-RAM ou a quem o substituir:
+
+a) Executar e fazer executar as disposições legais e regulamentares aplicáveis à organização e ao bom funcionamento dos serviços e à efetivação das suas atribuições;
+
+b) Praticar os demais atos de gestão decorrentes da aplicação dos estatutos e necessários ao bom funcionamento dos serviços;
+
+c) Representar o IFCN, IP-RAM, em juízo e fora dele, incluindo o poder de substabelecer;
+
+d) Superintender e avaliar a atividade de fiscalização e de vigilância da competência do IFCN, IP-RAM, bem como assegurar a interligação com as restantes entidades com competência fiscalizadora no domínio da conservação da natureza e das florestas e recursos florestais;
+
+e) Assegurar a representação técnica no plano nacional, europeu e internacional no que toca à conservação da natureza, biodiversidade, florestas, caça, e pesca nas águas interiores, e no combate à desertificação;
+
+f) Ordenar nos termos legais o embargo e a demolição de obras, bem como fazer cessar outras ações realizadas em violação das normas legais e regulamentares em vigor;
+
+g) Suspender ou cancelar as licenças, autorizações e certificações concedidas, nos termos estabelecidos na respetiva regulamentação;
+
+h) Ordenar a cessação de atividades, a imobilização de equipamentos ou o encerramento de instalações até que deixe de se verificar a situação de incumprimento ou infração;
+
+i) Solicitar a colaboração das autoridades policiais para impor o cumprimento das normas e determinações que por razões de segurança devam ter execução imediata, no âmbito de atos de gestão pública;
+
+j) Aplicar as demais sanções previstas na lei.
+
+2 - O presidente pode delegar competências, com ou sem poderes de subdelegação, nos vogais ou no pessoal com funções de direção no IFCN, IP-RAM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2018/M - Diário da República n.º 9/2018, Série I de 2018-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2018-114513613), em vigor a partir de 2018-01-13
+
+###### Artigo 10.º — Competências dos vogais
+
+Compete aos vogais a responsabilidade pela gestão das áreas funcionais da atividade do IFCN, IP-RAM que lhe forem cometidas pelo Conselho Diretivo, competindo-lhes fazer executar os respetivos programas de atividades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2018/M - Diário da República n.º 9/2018, Série I de 2018-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2018-114513613), em vigor a partir de 2018-01-13
+
+#### Secção II — Fiscal único
+
+###### Artigo 11.º — Função, designação, mandato e remuneração
+
+À função, designação, mandato, remuneração, competências e demais aspetos conformadores da atividade do fiscal único é aplicável a Lei-quadro dos Institutos Públicos, atualmente a aprovada pela Lei n.º 3/2004, de 15 de janeiro, na sua atual redação, aplicada à Região Autónoma da Madeira pelo Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, na sua atual redação.
+
+> Alterado pelo/a Artigo 94.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01
+
+#### Secção III — Conselho Consultivo
+
+###### Artigo 12.º — Função e Composição
+
+1 - O Conselho Consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do IFCN, IP-RAM e nas tomadas de decisão do Conselho Diretivo.
+
+2 - O Conselho Consultivo do IFCN, IP-RAM é composto por:
+
+a) O presidente do Conselho Diretivo do IFCN, IP-RAM, que preside;
+
+b) Os vogais do Conselho Diretivo do IFCN, IP-RAM;
+
+c) Um representante da Associação Municípios da Madeira, a indicar por esta entidade;
+
+d) Um representante dos proprietários florestais a indicar pelos proprietários que possuem Planos de Gestão Florestal ou instrumentos equivalentes aprovados;
+
+e) Um representante das organizações do setor da caça, a indicar por estas entidades;
+
+f) Dois representantes de organizações não-governamentais de ambiente de âmbito regional;
+
+g) Um representante da Secretaria Regional que tutela o setor do turismo;
+
+h) Um representante da Universidade da Madeira.
+
+3 - Podem, também, fazer parte do Conselho Consultivo até seis personalidades de reconhecido mérito, na área das atribuições do IFCN, IP-RAM.
+
+4 - Os membros do Conselho Consultivo são designados por despacho do membro do Governo Regional da tutela.
+
+5 - O presidente é substituído, nas suas faltas e impedimentos, pelo membro do Conselho Consultivo que indicar ou, na falta de indicação, pelo vogal mais antigo do Conselho Diretivo do IFCN, IP-RAM.
+
+6 - Sem prejuízo das competências conferidas por lei, compete ao Conselho Consultivo emitir parecer sobre documentos estruturantes de natureza estratégica e instrumentos de planeamento e gestão de âmbito nacional, da responsabilidade do IFCN, IP-RAM.
+
+7 - O exercício dos cargos do Conselho Consultivo não é remunerado, sem prejuízo do pagamento de ajudas de custas, quando a tal houver lugar.
+
+> Alterado pelo/a Artigo 94.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2018/M - Diário da República n.º 9/2018, Série I de 2018-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2018-114513613), em vigor a partir de 2018-01-13
+
+### Capítulo IV — Pessoal
+
+###### Artigo 13.º — Regime jurídico do pessoal do IFCN, IP-RAM
+
+O pessoal do IFCN, IP-RAM rege-se pelas normas aplicáveis aos trabalhadores que exercem funções públicas.
+
+###### Artigo 14.º — Sistema centralizado de gestão de recursos humanos
+
+Os trabalhadores do IFCN, IP-RAM estão integrados no sistema centralizado de gestão de recursos humanos da secretaria regional da tutela, nos termos definidos no Decreto Regulamentar Regional n.º 8/2015/M, de 5 de agosto.
+
+> Revogado pelo/a Artigo 94.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01
+
+###### Artigo 15.º — Cartão de Identificação
+
+1 - No exercício das suas funções, designadamente de controlo e inspeção, os trabalhadores do IFCN, IP-RAM, devidamente credenciados, são considerados agentes de autoridade, devendo os agentes económicos colaborar a fornecer todos os elementos que lhe forem solicitados.
+
+2 - Os trabalhadores do IFCN, IP-RAM, têm direito a um cartão de identificação que confere livre-trânsito quando no exercício das suas funções, segundo modelo a aprovar por portaria do membro do Governo Regional da tutela.
+
+> Alterado pelo/a Artigo 94.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01
+
+### Capítulo V — Gestão económico-financeira e patrimonial
+
+###### Artigo 16.º — Receitas
+
+1 - O IFCN, IP-RAM dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento da Região Autónoma da Madeira.
+
+2 - O IFCN, IP-RAM dispõe ainda das seguintes receitas próprias:
+
+a) Os rendimentos de bens próprios;
+
+b) Quaisquer outros rendimentos ou valores provenientes da sua atividade ou que, por lei ou contrato, devam pertencer-lhe, nomeadamente o produto das taxas cobradas e das multas ou coimas aplicadas;
+
+c) As comparticipações, dotações, subsídios e compensações financeiras que lhe forem atribuídas pela Região Autónoma da Madeira ou por quaisquer outras entidades públicas;
+
+d) O produto da alienação de bens próprios e da constituição de direitos sobre eles;
+
+e) As heranças, legados, doações e prémios de que venha a ser beneficiário, após despacho concordante do secretário regional da tutela;
+
+f) Os dividendos ou lucros que resultem da sua participação no capital social de empresas;
+
+g) O produto da prestação de serviços a outras entidades públicas ou privadas.
+
+3 - Os saldos apurados no final de cada ano económico podem transitar para o ano seguinte, nos termos previstos na lei aplicável, a fim de serem utilizados pelo IFCN, IP-RAM.
+
+> Alterado pelo/a Artigo 103.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01
+
+###### Artigo 17.º — Despesas
+
+Constituem despesas do IFCN, IP-RAM:
+
+a) Os encargos com o respetivo funcionamento;
+
+b) Os custos de aquisição, manutenção e conservação do seu património e, em geral, dos equipamentos e serviços que tenha de utilizar;
+
+c) Os encargos decorrentes do cumprimento das atribuições e competências que lhe estão confiadas.
+
+###### Artigo 18.º — Cobrança coerciva das dívidas
+
+1 - A cobrança coerciva das dívidas ao IFCN, IP-RAM é feita pelo processo das execuções fiscais, nos termos consagrados no Código de Procedimento e de Processo Tributário.
+
+2 - O processo referido no número anterior terá por base certidão emitida pelo presidente do IFCN, IP-RAM da qual devem constar os elementos referidos no artigo 163.º do Código de Procedimento e de Processo Tributário.
+
+###### Artigo 19.º — Património
+
+Constitui património do IFCN, IP-RAM a universalidade dos bens, direitos e obrigações que lhe forem consignados e os que venham a ser-lhe atribuídos ou que adquira ou contraia no exercício das suas atribuições.
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 20.º — Sucessão
+
+O IFCN, IP-RAM sucede nas atribuições, direitos e obrigações aos, ora extintos, Serviço do Parque Natural da Madeira e Direção Regional de Florestas e Conservação da Natureza.
+
+###### Artigo 21.º — Critérios de seleção de pessoal
+
+É fixado como critério geral e abstrato de identificação do universo de trabalhadores necessários à prossecução das atribuições e ao exercício das competências transferidas por força do presente diploma, o desempenho de funções no Serviço do Parque Natural da Madeira ou na Direção Regional de Florestas e Conservação da Natureza.
+
+###### Artigo 22.º — Estatutos
+
+1 - As disposições relativas à estrutura e organização do IFCN, IP-RAM e dos serviços indispensáveis à efetivação das suas atribuições constam dos respetivos estatutos, a aprovar por portaria conjunta dos Secretários Regionais das Finanças e da Administração Pública e do Ambiente e Recursos Naturais.
+
+2 - Os Estatutos do IFCN, IP-RAM são aprovados por portaria conjunta nos termos do disposto no artigo 7.º do presente diploma, no prazo máximo de 60 dias a contar da data da sua entrada em vigor.
+
+###### Artigo 23.º — Norma transitória
+
+1 - Até à entrada em vigor dos estatutos do IFCN, IP-RAM mantêm-se em vigor as estruturas internas atuais dos extintos Serviço do Parque Natural da Madeira e Direção Regional de Florestas e Conservação da Natureza, com as respetivas comissões de serviço e cargos dirigentes.
+
+2 - Os titulares dos cargos dirigentes dos extintos Serviço do Parque Natural da Madeira e Direção Regional de Florestas e Conservação da Natureza cessam a comissão de serviço com a entrada em vigor dos Estatutos do IFCN, IP-RAM, salvo se for expressamente mantida a comissão de serviço no cargo dirigente do mesmo nível que lhe suceda.
+
+3 - Até à conclusão do processo de fusão, os encargos com o IFCN, IP-RAM, designadamente os dos serviços a extinguir, continuarão a ser suportados por conta das dotações inscritas na Direção Regional de Florestas e Conservação da Natureza e no Serviço do Parque Natural da Madeira, sendo responsáveis pela respetiva execução orçamental os dirigentes dos serviços a extinguir.
+
+4 - Para além do prazo referido no número anterior, podem ser efetuados pagamentos de despesas cujo compromisso, no decorrer do processo de fusão, tenha sido assumido pela Direção Regional de Florestas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 42/2016/M - Diário da República n.º 249/2016, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2016-105643550), em vigor a partir de 2016-12-30, produz efeitos a partir de 2016-05-14
+
+###### Artigo 24.º — Concursos pendentes
+
+Os procedimentos concursais pendentes à data da entrada em vigor do presente diploma mantêm a sua validade, sendo os lugares a preencher os constantes dos mapas de pessoal do respetivo serviço, sem prejuízo da integração dos trabalhadores no regime centralizado, se for o caso, e da sua inclusão na lista nominativa referida na orgânica da secretaria regional da tutela.
+
+###### Artigo 25.º — Carreiras subsistentes e não revistas
+
+1 - O desenvolvimento indiciário da carreira de vigilante da natureza e das carreiras subsistentes de coordenador, chefe de departamento e marinheiro é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de agosto, objeto da Declaração de Retificação n.º 15-I/99, de 30 de setembro, alterado pelos Decretos Legislativos Regionais n.os 16/2000/M, de 15 de julho, e 4/2005/M, de 15 de abril, sendo-lhes aplicável o disposto no artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66/2012 de 31 de dezembro, e 66-B/2012, de 31 de dezembro, pelo Decreto-Lei n.º 47/2013, de 5 de abril, e pela Lei n.º 35/2014, de 20 de junho.
+
+2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro.
+
+3 - Os postos de trabalho das carreiras subsistentes de coordenador, chefe de departamento e marinheiro são extintos à medida que vagarem.
+
+###### Artigo 26.º — Referências legais, regulamentares e contratuais
+
+Todas as referências legais, regulamentares ou contratuais ao Serviço do Parque Natural da Madeira e à Direção Regional de Florestas e Conservação da Natureza consideram-se feitas ao IFCN, IP-RAM.
+
+###### Artigo 27.º — Norma revogatória
+
+1 - Sem prejuízo do disposto no número seguinte, são revogados os Decretos Regulamentares Regionais n.os 33/2012/M, de 8 de novembro, e 13/93/M, de 25 de maio, alterado pelos Decretos Regulamentares Regionais n.os 19/99/M, de 30 de novembro, e 13/2003/M, de 2 de maio, com exceção do anexo I, a que se refere o artigo 1.º, o artigo 24.º e o anexo III do referido Decreto Regulamentar Regional n.º 13/93/M, de 25 de maio.
+
+2 - A revogação dos artigos 18.º e 19.º do Decreto Regulamentar Regional n.os 13/93/M, de 25 de maio, alterado pelos Decretos Regulamentares Regionais n.os 19/99/M, de 30 de novembro, e 13/2003/M, de 2 de maio, produz efeitos à data da entrada em vigor dos Estatutos do IFCN, IP-RAM.
+
+###### Artigo 28.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 7 de abril de 2016.
+
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
+
+Assinado em 27 de abril de 2016.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

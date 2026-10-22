@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:547233:por
+title: Portaria n.º 790/89
+short_title: null
+summary: Reconhece o Instituto Superior de Línguas e Administração (ISLA) a funcionar em Bragança e autoriza o início do funcionamento
+  do curso superior de Secretariado e do curso superior de Informática de Gestão
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 790/89
+official_date: null
+publication_date: '1989-09-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 207/1989, Série I de 1989-09-08
+  number: '207'
+  series: I
+  supplement: null
+  pages: 3933 - 3934
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/09/20700/39333934.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '547233'
+  dre_path: /dr/detalhe/portaria/790-1989-547233
+  internal: pt:dre:547233:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/790-1989-547233
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/790-1989-547233
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-09-24T00:00:00Z'
+integrity:
+  source_sha256: 97d2ceb8b049e44bf763e5428348a5826fe0a94c8239a5a04d347732b09c2814
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-790-547233.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:611092:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 790/89
+
+de 8 de Setembro
+
+A requerimento do Instituto Superior de Línguas e Administração, S. A., com sede em Lisboa;
+
+Ao abrigo e nos termos dos artigos 17.º, n.º 3, 18.º, n.º 1, 19.º, 21.º, n.º 1, 25.º e 53.º do [Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º É reconhecido o Instituto Superior de Línguas e Administração (ISLA), de que é titular o Instituto Superior de Línguas e Administração, S. A., a funcionar nas instalações que possui em Bragança.
+
+2.º É autorizado o início do funcionamento no Instituto Superior de Línguas e Administração, em Bragança, dos seguintes cursos, de acordo com os planos de estudos publicados em anexo à presente portaria:
+
+Curso superior de Secretariado;
+
+Curso superior de Informática de Gestão.
+
+3.º Aos cursos referidos no número anterior são reconhecidos os efeitos correspondentes aos de titularidade do grau de bacharelato do ensino superior público.
+
+4.º As habilitações mínimas que permitem o ingresso em cada um dos cursos atrás referidos são as exigidas para os mesmos ou similares cursos do ensino público, sem prejuízo de outros requisitos que sejam estabelecidos no regulamento interno do Instituto Superior de Línguas e Administração, ora reconhecido.
+
+5.º Será fixado por cada ano lectivo, por portaria do Ministro da Educação, o número máximo de alunos a admitir à matrícula e frequência, por cada curso, de acordo com os critérios normalmente estabelecidos.
+
+6.º O reconhecimento e autorização estabelecidos na presente portaria não prejudicam, sob pena de revogação, a obrigação dos órgãos responsáveis do ISLA do cumprimento de eventuais adaptações ou correcções que sejam determinadas pela Direcção-Geral do Ensino Superior, quer em aplicação do parecer das comissões de especialistas que se pronunciaram sobre o processo de criação e funcionamento do Instituto e dos cursos, quer de futuras informações dos serviços de inspecção daquele departamento, de acordo com a legislação vigente.
+
+Ministério da Educação.
+
+**Assinada em 9 de Agosto de 1989.**
+
+**O Ministro da Educação, Roberto Artur da Luz Carneiro.**
+
+## Anexo — Instituto Superior de Línguas e Administração
+
+(Estabelecimento de Ensino de Bragança)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/09/20700/39333934.pdf))](https://files.diariodarepublica.pt/1s/1989/09/20700/39333934.pdf)

@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:331412:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1991-34476275",
+ "dre_path": "/dr/detalhe/portaria/1156-1991-331412",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52057875"
+   ]
+  },
+  {
+   "date": "1996-07-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:424143:por",
+     "title": "Portaria n.º 238/96",
+     "published": "1996-07-04",
+     "dre_path": "/dr/detalhe/portaria/238-1996-424143"
+    }
+   ],
+   "changes": [
+    "Altera Diploma",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "52057875",
+    "52057175"
+   ]
+  }
+ ],
+ "fragments": {
+  "52057875": {
+   "fragment_id": "35096075",
+   "type": 15,
+   "heading": "Diploma — Portaria n.º 1156/91 de 11 de Novembro",
+   "in_force_from": "1996-07-09",
+   "changed_by": [],
+   "markdown": "Considerando que a Lei do Serviço Militar e o respectivo Regulamento contemplam, em subordinação ao preceito constitucional, a possibilidade de os cidadãos do sexo feminino prestarem serviço militar voluntário em regime normal ou em outras modalidades de recrutamento especial;\n\nConsiderando que o carácter inovador de tal medida e a consequente necessidade de adaptações organizativas e de infra-estruturas no âmbito geral do Exército impõem que a sua aplicação se processe gradualmente, em ordem a assegurar uma integração progressiva e adequada dos cidadãos acima referidos:\n\nManda o Governo, pelo Ministro da Defesa Nacional, nos termos do disposto nos n.os 2 e 3 do artigo 42.º da Lei n.º 30/87, de 7 de Julho, na redacção que lhe foi dada pela Lei n.º 22/91, de 19 de Junho, e no artigo 70.º do Regulamento da Lei do Serviço Militar, aprovado pelo Decreto-Lei n.º 463/88, de 15 de Dezembro, o seguinte:\n\n1.º Em condições de igualdade com os cidadãos do sexo masculino, os cidadãos do sexo feminino podem voluntariamente candidatar-se à prestação de serviço efectivo, em qualquer das suas modalidades, na totalidade das armas e serviços do Exército.\n\n2.º O recrutamento e selecção dos candidatos do sexo feminino que voluntariamente se proponham prestar serviço efectivo no Exército processa-se nas condições previstas no Regulamento da Lei do Serviço Militar e nas normas de Admissão à Academia Militar e Escola de Sargentos do Exército, conforme os casos.\n\n3.º O regime de prestações de serviço e o desenvolvimento das carreiras do pessoal militar feminino regulam-se pelas normas estatutárias vigentes para o pessoal do Exército, com salvaguarda dos princípios constitucionais aplicáveis à protecção da igualdade dos cidadãos e da função social da maternidade e a especificidade do desempenho das funções militares.\n\n4.º De acordo com o interesse e necessidades específicas do Exército, serão fixadas, por despacho do Chefe do Estado-Maior do Exército, as especialidades das armas e serviços referidos no n.º 1 em que o ingresso é estendido a cidadãos do sexo feminino."
+  },
+  "52057175": {
+   "fragment_id": "36203575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Defesa Nacional.\n\nAssinada em 18 de Outubro de 1991.\n\nO Ministro da Defesa Nacional, Joaquim Fernando Nogueira."
+  }
+ }
+}

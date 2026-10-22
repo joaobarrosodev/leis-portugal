@@ -1,0 +1,201 @@
+---
+schema_version: '1.0'
+id: pt:dre:2083307:por
+title: Resolução n.º 114/2000 (2.ª série)
+short_title: null
+summary: Estabelece o enquadramento institucional da actividade do Governo em matéria de sociedade da informação
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 114/2000 (2.ª série)
+official_date: null
+publication_date: '2000-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/2000, Série II de 2000-08-18
+  number: '190'
+  series: II
+  supplement: null
+  pages: 13601 - 13602
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/08/190000000/1360113602.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2083307'
+  dre_path: /dr/detalhe/resolucao/114-2000-2083307
+  internal: pt:dre:2083307:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/114-2000-2083307
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/114-2000-2083307
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-08-18T00:00:00Z'
+integrity:
+  source_sha256: 927cc340cab6a00540d71cd3cf94824edf1d42d4ab838b763d69a56e1ad5f553
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-114-2083307.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 114/2000 (2.ª série)
+
+Resolução n.º 114/2000 (2.ª série). - Pela resolução do Conselho de Ministros n.º 16/96 (2.ª série), de 21 de Março, foi criada a Equipa de Missão para a Sociedade de Informação, estrutura incumbida de apoiar o Ministro da Ciência e da Tecnologia na sua actuação em matéria de sociedade da informação, nomeadamente na preparação do Livro Verde para a Sociedade da Informação, na preparação de medidas tendentes à concretização do programa do Governo nesta área e no acompanhamento e avaliação destas.
+
+Inicialmente previsto para ter a duração máxima de três anos, o mandato da Equipa de Missão veio a ser prorrogado pela resolução do Conselho de Ministros n.º 41/99 (2.ª série), de 6 de Abril, o que se justificou pela necessidade de assegurar um adequado acompanhamento, sem quebras ou hiatos, de alguns dos dossiers que tinha entre mãos, nomeadamente o relativo ao problema informático do ano 2000.
+
+Ultrapassado esse período, torna-se necessário definir o novo enquadramento institucional da acção governativa em matéria de sociedade da informação.
+
+Este terá necessariamente em conta a experiência do passado e os ensinamentos dela recolhidos, bem como a necessidade de fazer evoluir a estrutura anterior de acordo com as exigências que derivam da crescente relevância das questões relacionadas com a sociedade da informação e do consequente reforço da actuação do Governo nesta matéria, claramente expresso no Programa do Governo.
+
+Neste contexto, importa igualmente referir que o Quadro Comunitário de Apoio III inclui uma intervenção operacional incidente sobre a sociedade de informação, o que sucede pela primeira vez, sendo esse mais um factor que contribuirá para o desenvolvimento da sociedade de informação no nosso país e para o cumprimento dos objectivos que, nestas matérias, cumpre realizar.
+
+Estes decorrem não apenas dos compromissos a que o Governo se vincula mas igualmente das metas impostas pela iniciativa da União Europeia em matéria da sociedade da informação, que se encontram contidas no Plano de Acção eEurope 2002: Uma Sociedade da Informação para Todos. Iniciativa que, recorde-se, foi durante a presidência portuguesa decisivamente dinamizada.
+
+A eficaz concretização dos ambiciosos objectivos que, em matéria de sociedade da informação, cumpre prosseguir pressupõe o exercício de uma adequada articulação política entre os membros do Governo, sendo que com este diploma se pretende criar condições para que essa articulação se reforce e produza os resultados necessários.
+
+É, assim, criada a Comissão Interministerial para a Sociedade da Informação, à qual compete, designadamente, desenvolver um conjunto de actividades que preparem e facilitem essa articulação. Ao Ministro da Ciência e da Tecnologia, a quem competia já a dinamização, a coordenação e o acompanhamento da actuação governativa em matéria de sociedade da informação, é atribuída a coordenação dessa Comissão Interministerial.
+
+Determina-se, ainda, que os resultados da sua actuação no desempenho das competências que lhe são cometidas por força do presente diploma sejam periodicamente reportadas ao Conselho de Ministros.
+
+Atendendo ao carácter transversal e intersectorial das matérias da sociedade da informação e à necessidade de garantir um efectivo acompanhamento da actuação nesta área dos diferentes ministérios, entende-se que a referida Comissão Interministerial deve integrar task forces, designadas por núcleos para a sociedade da informação, a criar em todos eles.
+
+Trata-se de uma solução já ensaiada no quadro das iniciativas tomadas no sentido da resolução do problema informático do ano 2000. De facto, foram, na altura, criadas estruturas deste tipo, às quais, para além de competências específicas no quadro do combate ao problema informático do ano 2000, foram igualmente cometidas funções de âmbito mais genérico, relacionadas com a concretização do estabelecido no Livro Verde para a Sociedade da Informação. Os bons resultados obtidos recomendam que se institucionalize esta solução.
+
+Prevê-se ainda que, no âmbito da Comissão Interministerial para a Sociedade da Informação, se constituam unidades operacionais às quais é atribuída competência em aspectos concretos de actividade na área da sociedade da informação, correspondentes aos eixos prioritários de actuação do Governo, tal como definidos no Programa do Governo, em planos de investimento ou em legislação própria. É o caso da Iniciativa Nacional para o Comércio Electrónico, da Iniciativa Nacional para os Cidadãos com Necessidades Especiais na Sociedade da Informação, da iniciativa relativa à disponibilização na Internet de informação detida pela Administração Pública, das iniciativas tendentes à massificação da acessibilidade aos instrumentos da sociedade da informação e à formação de competências nesta área ou das iniciativas que visam a modernização da Administração Pública no contexto da sociedade da informação. Trata-se, com a constituição destas unidades, de operar uma especialização que gere aumento de eficácia, mais resultados e maior responsabilização.
+
+Assim, nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1.º
+
+Mandatar o Ministro da Ciência e da Tecnologia para promover a dinamização, a coordenação e o acompanhamento da actuação governativa em matéria de sociedade da informação, em estreita articulação com os restantes membros do Governo, devendo, designadamente, neste âmbito:
+
+a) Preparar, em articulação com todos os ministros, as medidas globais e sectoriais adequadas à concretização do Programa do Governo no domínio da sociedade da informação, bem como das medidas de iniciativa comunitária, designadamente as contidas no Plano de Acção da União Europeia eEurope 2002: Uma Sociedade da Informação para Todos;
+
+b) Promover a articulação das diferentes medidas e iniciativas do Governo na área da sociedade da informação;
+
+c) Acompanhar e mandar avaliar o efeito das medidas tomadas pelo Governo no mesmo domínio;
+
+d) Identificar prospectivamente cenários internacionais nos planos tecnológico e social, com impacte previsível nas condições de desenvolvimento da sociedade da informação em Portugal.
+
+2.º
+
+No exercício das funções que lhe são cometidas em matéria de sociedade da informação, deverá o Ministro da Ciência e da Tecnologia promover uma adequada consulta dos diferentes agentes com relevante actuação ou interesse na área, designadamente organismos públicos, empresas privadas e estruturas representativas de consumidores.
+
+3.º
+
+**O Ministro da Ciência e da Tecnologia apresentará trimestralmente ao Conselho de Ministros relatórios circunstanciados da actividade desenvolvida em cumprimento do mandato que lhe é conferido pelo n.º 1**
+
+4.º
+
+1 - Para apoiar o Ministro da Ciência e da Tecnologia na execução do mandato que lhe é conferido, funciona, junto desse Ministro e por ele presidida, a Comissão Interministerial para a Sociedade da Informação.
+
+2 - Integram a Comissão Interministerial para a Sociedade da Informação núcleos para a sociedade da informação, a constituir, nos termos do número seguinte, em todos os ministérios.
+
+3 - A Comissão Interministerial para a Sociedade da Informação integra, ainda, unidades operacionais com o objectivo de dinamizar a concretização das iniciativas programáticas do Governo ou da União Europeia, designadamente as contidas no Plano de Acção eEurope 2002: Uma Sociedade da Informação para Todos, no domínio da sociedade da informação.
+
+5.º
+
+No âmbito da Comissão Ministerial para a Sociedade da Informação serão promovidas reuniões entre membros do Governo ou seus representantes tendo em vista a articulação de políticas e a preparação de medidas e iniciativas a apresentar ao Conselho de Ministros.
+
+6.º
+
+1 - São criados em todos os ministérios núcleos para a sociedade da informação.
+
+2 - Os núcleos para a sociedade da informação são constituídos por despacho ministerial, do qual deverá constar a respectiva composição, bem como a duração do mandato dos seus membros.
+
+3 - Para além do exercício das funções que lhes sejam cometidas pelas respectivas tutelas, compete genericamente aos núcleos para a sociedade da informação a promoção da concretização, no âmbito dos respectivos ministérios, das medidas adoptadas em matéria de sociedade da informação que neles tenham incidência, devendo, designadamente, para o efeito:
+
+a) Assegurar, pelos meios e formas adequados, a respectiva aplicação, para o efeito sensibilizando os responsáveis pelos serviços e organismos e prestando-lhes a colaboração que, neste âmbito, se revele útil;
+
+b) Recolher informação relevante sobre a situação verificada nos diferentes serviços e organismos do respectivo ministério no que respeita ao cumprimento das medidas referidas;
+
+c) Acompanhar o programa de investimentos e outras acções do respectivo ministério que contribuam para a prossecução do Programa do Governo ou de iniciativas da União Europeia, designadamente do Plano de Acção eEurope em matéria de sociedade da informação, zelando pela sua articulação e harmonização com iniciativas similares de outros ministérios.
+
+7.º
+
+1 - Os núcleos referidos no número anterior reportarão periodicamente os resultados da sua actividade à respectiva tutela, bem como ao Ministro da Ciência e da Tecnologia.
+
+2 - No âmbito da Comissão Interministerial para a Sociedade da Informação, serão realizadas, com carácter periódico, reuniões com todos os núcleos para a sociedade da informação, nas quais poderão participar, quando as questões a apreciar o justifiquem, os responsáveis pelas unidades operacionais referidas no artigo 4.º, n.º 3, bem como os gestores de intervenções operacionais do Quadro Comunitário de Apoio III que tenham incidência em matéria de sociedade da informação.
+
+3 - As reuniões a que se refere o número anterior têm como fim genérico a preparação da articulação política em matéria de sociedade da informação, tendo, designadamente, como objectivos específicos:
+
+a) Assegurar uma adequada articulação entre os diferentes departamentos governamentais, promovendo a dinamização e coordenação na concretização da política do Governo em matéria de sociedade da informação, bem como das iniciativas que resultam da acção da União Europeia nesta matéria, designadamente as constantes do Plano de Acção eEurope 2002;
+
+b) Informar sobre a concretização, nos diferentes ministérios, da política do Governo e das iniciativas europeias em matéria de sociedade da informação;
+
+c) Reflectir sobre a execução da política do Governo e das iniciativas com origem na União Europeia em matéria de sociedade da informação, o levantamento das dificuldades sentidas na sua aplicação e a formulação de propostas de actuação futura.
+
+4 - O grupo de trabalho temático "Sociedade da Informação", criado no âmbito da Comissão de Acompanhamento do Quadro Comunitário de Apoio III, transmitirá à Comissão Interministerial os relatórios que produza, podendo igualmente ser solicitado a prestar outras informações que sejam julgadas úteis ao funcionamento da Comissão Interministerial para a Sociedade da Informação.
+
+8.º
+
+1 - As unidades que integram a Comissão Interministerial para a Sociedade da Informação são criadas por despacho.
+
+2 - Será designado um responsável pelo acompanhamento das políticas, programas e medidas de outros países, especialmente da União Europeia, na área da sociedade da informação, bem como pela divulgação externa da realidade portuguesa nesta área, designadamente junto desses países e de organizações internacionais.
+
+3 - Sempre que a complexidade das tarefas a desempenhar o exija, poderá ser atribuída aos responsáveis máximos das unidades referidas no n.º 8.1 e ao responsável pela execução da tarefa no n.º 8.2 a categoria de encarregado de missão, nos termos do artigo 37.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho.
+
+4 - O Ministério da Ciência e da Tecnologia providenciará apoio logístico e administrativo às unidades referidas no presente número.
+
+9.º
+
+**O Ministro da Ciência e da Tecnologia promoverá, na sequência do estabelecido no programa operacional da Sociedade da Informação do Quadro Comunitário de Apoio III, a criação de uma agência de desenvolvimento para a concretização de objectivos de missão definidos pelo Governo para a área da sociedade da informação.**
+
+10.º
+
+1 - Compete ao Observatório das Ciências e das Tecnologias o acompanhamento dos desenvolvimentos em matéria de sociedade da informação em Portugal, tendo em vista o seu conhecimento, divulgação e estudo, designadamente através da produção de indicadores, da recolha e tratamento de informação e documentação, da análise de políticas, de medidas e acções, e da edição anual de uma publicação que dê conta da situação que se verifique em Portugal em matéria de sociedade da informação, também disponível na Internet de forma actualizada.
+
+2 - As funções referidas no número anterior serão exercidas no respeito pelas competências e em articulação com outras entidades com actuação na matéria, designadamente o Instituto Nacional de Estatística e o Instituto de Comunicações de Portugal.
+
+3 - Compete ainda ao organismo referido no n.º 1 assegurar o secretariado executivo da Comissão Interministerial para a Sociedade da Informação, competindo-lhe, designadamente:
+
+a) Preparar as reuniões da Comissão, convocá-las e redigir as respectivas actas;
+
+b) Reunir informação relevante para o funcionamento da Comissão, designadamente junto dos diferentes ministérios;
+
+c) Preparar relatórios e outros documentos a apreciar pela Comissão bem como os relatórios a submeter pelo Ministro da Ciência e da Tecnologia ao Conselho de Ministros.
+
+27 de Julho de 2000. - O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.

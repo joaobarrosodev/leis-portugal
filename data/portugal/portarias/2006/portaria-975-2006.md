@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:539835:por
+title: Portaria n.º 975/2006
+short_title: null
+summary: Lança em circulação, cumulativamente com as que estão em vigor, uma emissão de selos alusiva aos «Peixes da Costa
+  Portuguesa»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 975/2006
+official_date: null
+publication_date: '2006-09-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/2006, Série I de 2006-09-14
+  number: '178'
+  series: I
+  supplement: null
+  pages: 6727 - 6728
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/09/17800/67276728.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/975/2006/09/14/p/dre/pt/html
+  oj: null
+  dre: '539835'
+  dre_path: /dr/detalhe/portaria/975-2006-539835
+  internal: pt:dre:539835:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/975-2006-539835
+  metadata_url: https://data.dre.pt/eli/port/975/2006/09/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/975-2006-539835
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-09-14T00:00:00Z'
+integrity:
+  source_sha256: 91bf770f7f134e6e5af00c6ef07a9415b31237460169a543bb3f42f47d9192ef
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-975-539835.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Serviço Postal
+- CTT
+- SELO Comemorativo
+- SELO Postal
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 975/2006
+
+de 14 de Setembro
+
+Manda o Governo, pelo Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, ao abrigo das disposições do artigo 4.º do [Decreto-Lei n.º 360/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1985-179355), de 3 de Setembro, que seja lançada em circulação, cumulativamente com as que estão em vigor, uma emissão de selos alusiva aos «Peixes da Costa Portuguesa», com as seguintes características:
+
+Desenho: Pedro Salgado;
+
+Designer: Vasco Marques;
+
+Dimensão: 40 mm x 30,6 mm;
+
+Impressor: INCM;
+
+1.º dia de circulação: 7 de Outubro de 2006;
+
+Taxas, motivos e quantidades:
+
+(euro) 0,30 - Pimpim, Capros aper - 300000;
+
+(euro) 0,45 - Andorinha, Anthias anthias - 250000;
+
+(euro) 0,60 - Sugador, Lepadogaster lepadogaster - 250000;
+
+(euro) 0,75 - Caboz, Gobiusculus flavescens - 250000;
+
+(euro) 1 - Judia, Coris julis - 250000;
+
+(euro) 2 - Peixe-Pau-Lira, Callionymus lyra - 250000;
+
+Blocos com dois selos cada - (euro) 1,60 - 2 x 70000.
+
+**O Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos, em 1 de Setembro de 2006.**

@@ -1,0 +1,243 @@
+---
+schema_version: '1.0'
+id: pt:dre:502395:por
+title: Decreto-Lei n.º 183/2004
+short_title: null
+summary: Transpõe para a ordem jurídica nacional as Directivas n.os 2004/31/CE e 2004/70/CE, ambas da Comissão, respectivamente
+  de 17 de Março e de 28 de Abril, relativas às medidas de protecção fitossanitária destinadas a evitar a introdução e dispersão
+  de organismos prejudiciais aos vegetais e produtos vegetais na Comunidade, e a Directiva n.º 2004/32/CE, da Comissão, de
+  17 de Março, que reconhece zonas protegidas na comunidade expostas a riscos fitossanitários específicos, e altera os anexos
+  I a VI do Decreto-Lei n.º 14/99, de 12 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 183/2004
+official_date: null
+publication_date: '2004-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 177/2004, Série I-A de 2004-07-29
+  number: '177'
+  series: I
+  supplement: null
+  pages: 4892 - 4898
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/183/2004/07/29/p/dre/pt/html
+  oj: null
+  dre: '502395'
+  dre_path: /dr/detalhe/decreto-lei/183-2004-502395
+  internal: pt:dre:502395:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2004-502395
+  metadata_url: https://data.dre.pt/eli/dec-lei/183/2004/07/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2004-502395
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-09-06T00:00:00Z'
+integrity:
+  source_sha256: 2d7f11a9f54f901be57a2c13c185ca1a435323ed1197742bc3bb802174ca56ed
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-183-502395.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- CE Países
+- Doença Vegetal
+- Controlo Sanitário
+- Zona de Proteção
+- Proteção Fitossanitária
+- Produção Vegetal
+- Agricultura
+- Produto Agrícola
+- Vegetais
+relationships:
+- type: amended_by
+  target: pt:dre:141854:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32000L0029
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/29/oj
+- type: cites
+  target: celex:32001L0032
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/32/oj
+- type: cites
+  target: celex:32004L0031
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/31/oj
+- type: cites
+  target: celex:32004L0032
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/32/oj
+- type: cites
+  target: celex:32004L0070
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/70/oj
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 183/2004
+
+de 29 de Julho
+
+A Directiva n.º [2000/29/CE](https://data.europa.eu/eli/dir/2000/29/oj?locale=pt), do Conselho, de 8 de Maio, relativa às medidas de protecção fitossanitária destinadas a evitar a introdução e dispersão de organismos prejudiciais aos vegetais e produtos vegetais na Comunidade, não necessitou de ser transposta para a ordem jurídica interna por se tratar de uma directiva de consolidação, sendo que o direito que esta directiva codificou já se encontrava transposto para o direito nacional pelo Decreto-Lei n.º 14/99, de 12 de Janeiro, republicado pelo Decreto-Lei n.º 517/99, de 4 de Dezembro, na redacção que lhe foi dada pelo Decreto-Lei n.º 63/2000, de 19 de Abril.
+
+Por força da aprovação de outras directivas comunitárias, o citado decreto-lei foi alterado pelos Decretos-Leis n.os 160/2000, 269/2001, 172/2002, 142/2003, 231/2003 e 83/2004, respectivamente de 27 de Julho, de 6 de Outubro, de 25 de Julho, de 2 de Julho, de 27 de Setembro e de 14 de Abril.
+
+As Directivas n.os [2004/31/CE](https://data.europa.eu/eli/dir/2004/31/oj?locale=pt) e [2004/70/CE](https://data.europa.eu/eli/dir/2004/70/oj?locale=pt), da Comissão, respectivamente de 17 de Março e de 28 de Abril, que alteram a Directiva n.º [2000/29/CE](https://data.europa.eu/eli/dir/2000/29/oj?locale=pt), do Conselho, de 8 de Maio, relativa às medidas de protecção fitossanitária destinadas a evitar a introdução e dispersão de organismos prejudiciais aos vegetais e produtos vegetais na Comunidade, bem como a Directiva n.º [2004/32/CE](https://data.europa.eu/eli/dir/2004/32/oj?locale=pt), da Comissão, de 17 de Março, que altera a Directiva n.º [2001/32/CE](https://data.europa.eu/eli/dir/2001/32/oj?locale=pt), da Comissão, de 8 de Maio, que reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos, vêm introduzir alterações ao regime fitossanitário comunitário.
+
+Importa, assim, transpor para a ordem jurídica interna as citadas directivas, introduzindo alterações aos anexos I a VI do referido Decreto-Lei n.º 14/99, de 12 de Janeiro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma transpõe para a ordem jurídica interna as Directivas n.os [2004/31/CE](https://data.europa.eu/eli/dir/2004/31/oj?locale=pt) e [2004/70/CE](https://data.europa.eu/eli/dir/2004/70/oj?locale=pt), da Comissão, respectivamente de 17 de Março e de 28 de Abril, relativas às medidas de protecção fitossanitária destinadas a evitar a introdução e dispersão de organismos prejudiciais aos vegetais e produtos vegetais na Comunidade, e a Directiva n.º [2004/32/CE](https://data.europa.eu/eli/dir/2004/32/oj?locale=pt), da Comissão, de 17 de Março, que reconhece zonas protegidas na Comunidade expostas a riscos fitossanitários específicos.
+
+###### Artigo 2.º — Alterações ao Decreto-Lei n.º 14/99, de 12 de Janeiro
+
+Os anexos I, II, III, IV, V e VI do Decreto-Lei n.º 14/99, de 12 de Janeiro, republicado pelo Decreto-Lei n.º 517/99, de 4 de Dezembro, na redacção que lhe foi dada pelos Decretos-Leis n.os 63/2000, 160/2000, 269/2001, 172/2002, 142/2003, 231/2003 e 83/2004, respectivamente de 19 de Abril, de 27 de Julho, de 6 de Outubro, de 25 de Julho, de 2 de Julho, de 27 de Setembro e de 14 de Abril, são alterados nos termos do anexo ao presente diploma, do qual faz parte integrante.
+
+Visto e aprovado em Conselho de Ministros de 24 de Junho de 2004. - José Manuel Durão Barroso - Maria Teresa Pinto Basto Gouveia - Armando José Cordeiro Sevinate Pinto.
+
+**Promulgado em 15 de Julho de 2004.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 16 de Julho de 2004.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**
+
+## ANEXO — (a que se refere o artigo 2.º)
+
+1 - No anexo I, parte B, a alínea a) passa a ter a seguinte redacção:
+
+a) Insectos, ácaros e nemátodos em qualquer fase do seu desenvolvimento
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf)
+
+2 - No anexo I, parte B, alínea b), n.º 1, e no anexo IV, parte B, n.os 20.1, 20.2, 22, 23, 25, 26, 27.1, 27.2 e 30, o texto da coluna da direita passa a ter, respectivamente, a seguinte redacção:
+
+«DK, F (Bretanha), FI, IRL, LT, P (Açores), UK (Irlanda do Norte).»
+
+3 - No anexo II, parte A, secção I, alínea a), é suprimido o n.º 14.
+
+4 - No anexo II, parte A, secção II, alínea a), é aditado o n.º 6.1, com seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf)
+
+5 - No anexo II, parte B, alínea a), n.º 6, a alínea d) passa a ter a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf)
+
+6 - No anexo II, parte B, alínea b), n.º 2, o texto da coluna da direita passa a ter a seguinte redacção:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf))](https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf)
+
+7 - No anexo II, parte B, alínea d), n.º 1, o texto da coluna da direita passa a ter a seguinte redacção:
+
+«EL, F (Córsega), I, M, P.»
+
+8 - No anexo III, parte A, n.º 12, no texto da coluna da direita, são suprimidos os termos «Chipre» e «Malta».
+
+9 - No anexo III, parte A, n.º 14, no texto da coluna da direita, são suprimidos os termos «Chipre», «Estónia», «Letónia», «Lituânia» e «Malta».
+
+10 - No anexo III, parte A, n.º 15, o texto da coluna da direita passa a ter a seguinte redacção:
+
+«Países terceiros, excepto Suíça.»
+
+11 - No anexo III, parte B, o n.º 1 é substituído pelos n.os 1 e 2, respectivamente, com a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf)
+
+12 - No anexo IV, parte A, secção I, n.º 34, no texto da coluna da esquerda, são suprimidos os termos «Estónia», «Letónia» e «Lituânia».
+
+13 - No anexo IV, parte A, secção I, n.º 53, no texto da coluna da esquerda, a seguir ao termo «Índia» é inserido o termo «Irão».
+
+14 - No anexo IV, parte A, secção I, n.º 54, no texto da coluna da esquerda, a seguir ao termo «Índia» é inserido o termo «Irão».
+
+15 - No anexo IV, parte B, n.os 6, 12 e 14.5, o texto da coluna da direita passa a ter, respectivamente, a seguinte redacção:
+
+«CY, IRL, UK (Irlanda do Norte, Ilha de Man).»
+
+16 - No anexo IV, parte B, n.º 20.3, o texto da coluna da direita passa a ter a seguinte redacção:
+
+«FI, LV, SI, SK.»
+
+17 - No anexo IV, parte B, os n.os 21 e 21.1 passam a ter, respectivamente, a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf)
+
+18 - No anexo IV, parte B, são aditados os n.os 21.2 e 21.3, respectivamente, com a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf)
+
+19 - No anexo IV, parte B, o n.º 31 passa a ter a seguinte redacção:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf)
+
+20 - No anexo V, parte A, secção II, o n.º 1.9 passa a ter a seguinte redacção:
+
+«1.9 - Frutos (cápsulas) de Gossypium spp., algodão não descaroçado e frutos de Vitis L.»
+
+21 - No anexo V, parte B, secção I, nos n.os 1 e 8, a seguir ao termo «Índia» é inserido o termo «Irão».
+
+22 - No anexo V, parte B, secção II, n.º 7, alínea b), são suprimidos os termos «Estónia», «Letónia» e «Lituânia».
+
+23 - No anexo V, parte B, secção II, é aditado o n.º 6.1, com a seguinte redacção:
+
+«6.1 - Frutos de Vitis L.»
+
+24 - O anexo VI passa a ter a seguinte redacção:
+
+«ANEXO VI
+
+Zonas da Comunidade reconhecidas como 'zonas protegidas', em relação ao ou aos organismos indicados para cada zona
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/177a00/48924898.pdf)

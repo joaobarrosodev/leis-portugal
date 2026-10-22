@@ -1,0 +1,94 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:659883:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1984-896262773",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/7-1984-659883",
+ "source_lastmod": "2024-11-11",
+ "versions": [
+  {
+   "date": "1984-01-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:347281:por",
+     "title": "Declaração",
+     "published": "1984-02-29",
+     "dre_path": "/dr/detalhe/declaracao/1984-347281"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º"
+   ],
+   "fragments": [
+    "896266085",
+    "896262867",
+    "896262868"
+   ]
+  },
+  {
+   "date": "1984-02-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:347281:por",
+     "title": "Declaração",
+     "published": "1984-02-29",
+     "dre_path": "/dr/detalhe/declaracao/1984-347281"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "896266085",
+    "896271619",
+    "896262868",
+    "896262869"
+   ]
+  }
+ ],
+ "fragments": {
+  "896266085": {
+   "fragment_id": "896262774",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1984-02-29",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 7/84/A\n\nAlteração ao Decreto Regional n.º 22/82/A\n\n(fomento industrial)\n\nPara se atingir a eficácia pretendida com o estabelecido no Decreto Regional n.º 22/82/A, de 24 de Agosto, torna-se necessário fazer conciliar os objectivos então definidos com os critérios de pontuação, nomeadamente no que se refere ao saneamento financeiro.\n\nAssim, a Assembleia Regional dos Açores, nos termos da alínea a) do artigo 229.º da Constituição, decreta o seguinte:"
+  },
+  "896262867": {
+   "fragment_id": "896265475",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO n.º 2 do artigo 1.º do Decreto Legislativo Regional n.º 24/82/A, de 24 de Agosto, passa a ter a seguinte redacção:\n\n2 - Os incentivos referidos no número anterior abrangerão os investimentos em capital fixo corpóreo, exceptuando o valor dos terrenos, desde que o montante global do projecto não exceda os 80000 contos e se destine à instalação de novas unidades industriais, à ampliação ou à reestruturação das já existentes."
+  },
+  "896262868": {
+   "fragment_id": "896265476",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nEste diploma entra em vigor na data da sua publicação."
+  },
+  "896271619": {
+   "fragment_id": "896265475",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1984-01-23",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 51/1984, 2º Suplemento, Série I de 1984-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-347281), em vigor a partir de 1984-01-23"
+   ],
+   "markdown": "###### Artigo 1.º\n\nO n.º 2 do artigo 1.º do Decreto Regional n.º 22/82/A, passa a ter a seguinte redacção:\n\n2 - Os incentivos referidos no número anterior abrangerão os investimentos em capital fixo corpóreo, exceptuando o valor dos terrenos, desde que o montante global do projecto não exceda os 80000 contos e se destine à instalação de novas unidades industriais, à ampliação ou à reestruturação das já existentes.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 51/1984, 2º Suplemento, Série I de 1984-02-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-347281), em vigor a partir de 1984-01-23"
+  },
+  "896262869": {
+   "fragment_id": "896265477",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Regional dos Açores em 7 de Dezembro de 1983.\n\nO Presidente da Assembleia Regional dos Açores, Álvaro Pereira da Silva Leal Monjardino.\n\nAssinado em Angra do Heroísmo em 10 de Janeiro de 1984.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva."
+  }
+ }
+}

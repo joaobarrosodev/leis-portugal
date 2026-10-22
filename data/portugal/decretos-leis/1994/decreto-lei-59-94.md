@@ -1,0 +1,267 @@
+---
+schema_version: '1.0'
+id: pt:dre:515472:por
+title: Decreto-Lei n.º 59/94
+short_title: null
+summary: Aprova a Lei Orgânica do Fundo para as Relações Internacionais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 59/94
+official_date: null
+publication_date: '1994-02-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 46/1994, Série I-A de 1994-02-24
+  number: '46'
+  series: I
+  supplement: null
+  pages: 862 - 863
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/02/046a00/08620863.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/59/1994/02/24/p/dre/pt/html
+  oj: null
+  dre: '515472'
+  dre_path: /dr/detalhe/decreto-lei/59-1994-515472
+  internal: pt:dre:515472:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1994-515472
+  metadata_url: https://data.dre.pt/eli/dec-lei/59/1994/02/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1994-515472
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-04-27T00:00:00Z'
+integrity:
+  source_sha256: 32e58b6e8fc8c608e4e1a5a0ce5afd330b665936abdbd35fc44fc2e562735464
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-59-515472.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Fundo para as Relações Internacionais
+- Orgânica
+- Ministério dos Negócios Estrangeiros
+relationships:
+- type: amended_by
+  target: pt:dre:520997:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/155/1992/07/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
+article_structure:
+  article_count: 12
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 59/94
+
+de 24 de Fevereiro
+
+O presente diploma visa regular o quadro da actividade do Fundo para as Relações Internacionais (FRI) criado pelo n.º 3 do artigo 4.º do [Decreto-Lei n.º 48/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1994-515471), de 24 de Fevereiro
+
+O FRI é uma entidade dotada de personalidade jurídica e autonomia administrativa, financeira e patrimonial que assegura a arrecadação e gestão das receitas de natureza emolumentar cobradas nos serviços externos do Ministério dos Negócios Estrangeiros.
+
+A actividade do FRI desenvolver-se-á, preferencialmente, no financiamento das acções de formação dos funcionários diplomáticos, na modernização dos serviços externos, bem como no apoio a estudos e trabalhos de investigação relevantes no quadro das relações internacionais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+###### Artigo 1.º — Natureza
+
+O Fundo para as Relações Internacionais (FRI) é uma entidade com a natureza de fundo público, que funciona sob a tutela do Ministro dos Negócios Estrangeiros, dotado de personalidade jurídica e de autonomia administrativa, financeira e patrimonial.
+
+###### Artigo 2.º — Atribuições
+
+São atribuições do FRI:
+
+a) Apoiar as acções de modernização dos serviços externos;
+
+b) Satisfazer os encargos ocasionados por acções extraordinárias de política externa;
+
+c) Comparticipar em acções de natureza social promovidas por entidades de natureza associativa, visando o apoio aos agentes das relações internacionais;
+
+d) Apoiar acções de formação e conceder subsídios e bolsas a entidades, públicas e privadas, nacionais ou estrangeiras, no âmbito da política definida em matéria de relações internacionais.
+
+### CAPÍTULO II — Órgãos e serviços
+
+###### Artigo 3.º — Órgãos
+
+O FRI dispõe dos seguintes órgãos:
+
+a) O conselho de direcção;
+
+b) A comissão de fiscalização.
+
+###### Artigo 4.º — Competência do conselho de direcção
+
+1 - O conselho de direcção é o órgão de gestão do FRI.
+
+2 - Compete, em especial, ao conselho de direcção:
+
+a) Promover a elaboração dos instrumentos de gestão previsional e submetê-los à aprovação do Ministro dos Negócios Estrangeiros;
+
+b) Aprovar os documentos de prestação de contas;
+
+c) Autorizar a realização de despesas que não sejam de competência ministerial e o respectivo pagamento;
+
+d) Abrir e movimentar contas, mediante a assinatura do presidente e de um dos vogais, em moeda nacional ou estrangeira, em Portugal ou em qualquer outro país, que se revelem necessárias à prossecução da sua actividade;
+
+e) Manter informado o Ministro dos Negócios Estrangeiros sobre os assuntos relativos ao Fundo;
+
+f) Tomar as providências adequadas à boa gestão e racional utilização dos recursos do Fundo;
+
+g) Aprovar a aquisição e alienação de bens;
+
+h) Exercer as demais competências que lhe sejam legalmente cometidas.
+
+3 - O presidente do conselho de direcção representa o FRI, em juízo e fora dele, quando outros representantes ou mandatários não hajam sido designados.
+
+###### Artigo 5.º — Composição e funcionamento do conselho de direcção
+
+1 - O conselho de direcção tem a seguinte composição:
+
+a) O secretário-geral do Ministério dos Negócios Estrangeiros, que preside;
+
+b) O director-geral dos Assuntos Consulares e Comunidades Portuguesas;
+
+c) O director do Departamento Geral de Administração.
+
+2 - O conselho de direcção reúne sempre que convocado pelo seu presidente.
+
+###### Artigo 6.º — Competência da comissão de fiscalização
+
+1 - A comissão de fiscalização é o órgão de controlo do FRI, em matéria de gestão financeira.
+
+2 - Compete, em especial, à comissão de fiscalização:
+
+a) Dar parecer sobre os documentos previsionais de gestão, bem como sobre os documentos de prestação de contas;
+
+b) Verificar e controlar a realização de despesas;
+
+c) Proceder à verificação dos fundos em cofre e em depósito e fiscalizar a contabilidade;
+
+d) Apreciar a situação financeira do FRI.
+
+###### Artigo 7.º — Composição e funcionamento da comissão de fiscalização
+
+1 - A comissão de fiscalização é composta por um presidente e dois vogais, nomeados por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros, sendo um dos vogais representante do Ministério das Finanças.
+
+2 - Os membros da comissão têm direito a senhas de presença de montante a fixar por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.
+
+3 - A comissão de fiscalização reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada pelo seu presidente ou a solicitação de qualquer dos seus membros.
+
+###### Artigo 8.º — Repartição Administrativa
+
+1 - Para o exercício das suas competências o FRI dispõe de uma Repartição Administrativa.
+
+2 - A Repartição Administrativa é o serviço de gestão e apoio administrativo do FRI, nas áreas de expediente geral, administração de pessoal, patrimonial e financeira, à qual compete:
+
+a) Receber o produto das receitas próprias cobradas pelos serviços externos;
+
+b) Arrecadar as receitas previstas nas alíneas c) e d) do artigo seguinte;
+
+c) Elaborar indicadores de gestão que permitam acompanhar a evolução da situação administrativa e financeira;
+
+d) Elaborar os instrumentos de gestão previsional previstos no artigo 49.º do [Decreto-Lei n.º 155/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/155-1992-275619), de 28 de Julho;
+
+e) Elaborar os documentos de prestação de contas e relatório anuais;
+
+f) Organizar e manter actualizada a contabilidade, conferindo, processando e liquidando as despesas relativas à actividade do FRI;
+
+g) Controlar o movimento de tesouraria, efectuando mensalmente o seu balanço;
+
+h) Organizar e manter actualizado o cadastro de pessoal afecto ao FRI, bem como o registo e controlo de assiduidade, remetendo mensalmente ao Departamento Geral de Administração os mapas respectivos.
+
+### CAPÍTULO III — Regime administrativo e financeiro
+
+###### Artigo 9.º — Receitas
+
+Constituem receitas próprias do FRI:
+
+a) Os emolumentos consulares cobrados nos serviços externos do Ministério dos Negócios Estrangeiros;
+
+b) Os saldos de gerência de anos anteriores;
+
+c) O produto de doações, heranças e legados;
+
+d) Outras receitas não discriminadas.
+
+###### Artigo 10.º — Despesas
+
+1 - As despesas do FRI dividem-se em normais e classificadas.
+
+2 - As despesas decorrentes do exercício das competências previstas na alínea b) do artigo 2.º podem ficar sujeitas ao regime de despesas classificadas, por despacho do Ministro dos Negócios Estrangeiros.
+
+3 - As despesas classificadas são justificadas por documento do conselho de direcção, assinado por dois dos seus membros, um dos quais será o presidente.
+
+4 - As demais regras de gestão orçamental destas despesas são fixadas por despacho conjunto dos Ministros das Finanças e dos Negócios Estrangeiros.
+
+### CAPÍTULO IV — Pessoal
+
+###### Artigo 11.º — Pessoal
+
+O pessoal da Repartição Administrativa é destacado da Secretaria-Geral.
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+###### Artigo 12.º — Afectação de saldos
+
+O saldo, apurado à data de entrada em vigor do presente diploma, das verbas referidas no artigo 3.º do [Decreto-Lei n.º 46641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46641-1965-511670), de 13 de Novembro de 1965, com a redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 633/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1970-146059), de 22 de Dezembro, transita para o FRI.
+
+Visto e aprovado em Conselho de Ministros de 4 de Novembro de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - José Manuel Durão Barroso.
+
+**Promulgado em 21 de Janeiro de 1994.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 24 de Janeiro de 1994.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

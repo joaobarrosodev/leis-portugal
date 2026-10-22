@@ -1,0 +1,276 @@
+---
+schema_version: '1.0'
+id: pt:dre:584819:por
+title: Decreto-Lei n.º 314-A/2002
+short_title: null
+summary: Aprova as modificações ao contrato de concessão da construção, conservação e exploração de auto-estradas outorgado
+  à BRISA - Auto-Estradas de Portugal, S. A.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Habitação
+proposing_entity: null
+official_number: 314-A/2002
+official_date: null
+publication_date: '2002-12-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 298/2002, 1º Suplemento, Série I-A de 2002-12-26
+  number: '298'
+  series: I
+  supplement: 1º Suplemento
+  pages: 8106-(2) a 8106-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/12/298a01/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/314-a/2002/12/26/p/dre/pt/html
+  oj: null
+  dre: '584819'
+  dre_path: /dr/detalhe/decreto-lei/314-a-2002-584819
+  internal: pt:dre:584819:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-a-2002-584819
+  metadata_url: https://data.dre.pt/eli/dec-lei/314-a/2002/12/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-a-2002-584819
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-12-30T00:00:00Z'
+integrity:
+  source_sha256: 82d25b1c805138c0896eb08b1904cb5033eb3c81a123d9e63988b4b865b6c42a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-314-A-584819.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Auto-estrada Famalicão-guimarães
+- Auto-estrada Porto-amarante
+- Auto-estrada Porto-valença
+- Brisa
+- Contrato de Concessão
+- CREL
+- Rede de Estradas
+- Portagem
+relationships:
+- type: amended_by
+  target: pt:dre:487370:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/287/1999/07/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/287/1999/07/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/294/1997/10/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/294/1997/10/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/315/1991/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/315/1991/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/330-a/1995/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/330-a/1995/12/16/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 314-A/2002
+
+de 26 de Dezembro
+
+A definição da concessão outorgada à BRISA - Auto-Estradas de Portugal, S. A., para a construção, conservação e exploração de auto-estradas consta, originalmente, das bases do contrato de concessão aprovadas pelo [Decreto n.º 467/72](https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606), de 22 de Novembro.
+
+Mercê da dinâmica própria de um contrato de concessão, susceptível de sofrer alterações, mormente pela ampliação do seu objecto em resultado da necessidade da adequação das suas condições à evolução das realidades sociais, económicas e financeiras verificada no decurso do período da concessão, o objecto da concessão à BRISA em 1972 foi ampliado pelas alterações introduzidas pelos Decretos-Leis n.os [458/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1985-535656), de 30 de Outubro, e [315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880), de 20 de Agosto.
+
+Importa, porém, sublinhar que as ampliações operadas pelos referidos decretos-leis não alteraram a filosofia subjacente à definição original do objecto da concessão, em rigorosa obediência ao princípio base de que as auto-estradas a construir para a exploração em regime de concessão ficariam sujeitas ao regime de portagem.
+
+Assim se compreende que a base I anexa ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880) tenha integrado, por ampliação do objecto da concessão definido no [Decreto n.º 467/72](https://diariodarepublica.pt/dr/detalhe/decreto/467-1972-686606) e no [Decreto-Lei n.º 458/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/458-1985-535656), a construção, exploração e conservação da Auto-Estrada CREL - Circular Regional Exterior de Lisboa, desde o Estádio Nacional (A 5) até Alverca (A 1), também em regime de portagem, com o que se manteve inalterado o fundamento original do contrato.
+
+Posteriormente, o [Decreto-Lei n.º 330-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-a-1995-226646), de 16 de Dezembro, introduziu alterações ao objecto da concessão definido na base I anexa ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880), suprimindo as taxas de portagem, designadamente na Auto-Estrada CREL.
+
+Volvidos cerca de sete anos desde a eliminação do regime de portagem determinada pelo [Decreto-Lei n.º 330-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-a-1995-226646), é propósito do Governo repor, ainda que apenas parcialmente, a definição original do objecto da concessão relativamente a auto-estradas construídas pela concessionária para exploração em regime de portagem, procedendo à repristinação do regime jurídico aplicável à CREL, conforme previsto no n.º 1 da base I anexa ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880).
+
+A opção do XV Governo Constitucional pela reposição do regime inicialmente aplicável à CREL justifica-se, por um lado, por permitir fechar a malha da rede viária com portagem entre a A 1 e a A 5, auto-estradas ligadas entre si pela CREL, e, por outro, por ser mais consentânea com o regime de portagem previsto pelo Governo para a congénere Circular Regional Exterior do Porto (IC 24), à luz de uma política integrada de gestão da procura e oferta da rede viária em áreas metropolitanas.
+
+Esta medida impõe a revisão do contrato de concessão entre o Estado e a BRISA - Auto-Estradas de Portugal, S. A., considerando os efeitos de cobrança de portagens na CREL nas receitas da concessionária até ao termo da concessão, previsto para 31 de Dezembro de 2032, em resultado das posteriores alterações às bases do contrato introduzidas pelos Decretos-Leis n.os [294/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), de 24 de Outubro, e [287/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1999-345533), de 28 de Julho.
+
+As modificações ora aprovadas consubstanciam o acordo obtido entre o Estado e a concessionária, com inteiro respeito da natureza contratual da concessão.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+São aprovadas as modificações ao contrato de concessão da construção, conservação e exploração de auto-estradas outorgado à BRISA - Auto-Estradas de Portugal, S. A., publicado em anexo ao [Decreto-Lei n.º 294/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), de 24 de Outubro, com as alterações introduzidas pelo [Decreto-Lei n.º 287/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1999-345533), de 28 de Julho, constantes dos anexos I e II ao presente diploma e que dele fazem parte integrante.
+
+###### Artigo 2.º — Reposição do equilíbrio financeiro
+
+Para a reposição do equilíbrio financeiro da concessão outorgada à BRISA - Auto-Estradas de Portugal, S. A., em resultado do disposto no artigo anterior, é fixado o montante de (euro) 288420000, a pagar pela concessionária na data da entrada em vigor do presente diploma.
+
+###### Artigo 3.º — Alterações ao contrato de concessão
+
+Os Ministros de Estado e das Finanças e das Obras Públicas, Transportes e Habitação outorgam, em representação do Estado e com poderes de delegação, os documentos necessários à formalização das alterações ao contrato de concessão previstas no presente diploma.
+
+###### Artigo 4.º — Normas revogatórias
+
+1 - É revogado o artigo 4.º do [Decreto-Lei n.º 330-A/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-a-1995-226646), de 16 de Dezembro, sendo repristinado o regime de portagem previsto na alínea h) do n.º 1 da base I das bases do contrato de concessão anexas ao [Decreto-Lei n.º 315/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-1991-402880), de 20 de Agosto, nos termos previstos na alínea o) do n.º 1 da base I, publicada no anexo I ao presente diploma, com as taxas de portagem constantes do anexo II ao presente diploma.
+
+2 - É revogada a alínea c) do n.º 2 da base I das bases do contrato de concessão anexas ao [Decreto-Lei n.º 294/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1997-671934), de 24 de Outubro, na redacção introduzida pelo [Decreto-Lei n.º 287/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1999-345533), de 28 de Julho, na parte referente à A 9 - CREL - Circular Regional Exterior de Lisboa, desde o Estádio Nacional (A 5) até Alverca, com a extensão de 34,4 km.
+
+###### Artigo 5.º — Norma transitória
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação, com excepção do regime de portagem previsto na alínea o) do n.º 1 da base I constante do anexo I ao presente diploma, que entra em vigor no dia 1 de Janeiro de 2003, nos termos previstos no contrato de concessão para lanços com portagem, e com a cobrança das taxas de portagem constantes do anexo II ao presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 11 de Dezembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Francisco Valente de Oliveira - Isaltino Afonso de Morais.
+
+**Promulgado em 20 de Dezembro de 2002.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 20 de Dezembro de 2002.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**
+
+## ANEXO I — «Base I
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) A 9/IC 18 - CREL - Circular Exterior de Lisboa, desde o Estádio Nacional (A 5) até Alverca, com a extensão de 34,4 km.
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) Construídas pela concessionária e sem ficarem sujeitas ao pagamento de taxas de portagem:
+
+Auto-Estrada Porto-Valença: sublanço Porto-Maia, com a extensão de 8,3 km;
+
+Auto-Estrada Porto (Águas Santas)-Amarante: entre Águas Santas e o nó de Ermesinde, com a extensão de 3 km.
+
+(Parágrafo eliminado.)
+
+d) ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - O valor das taxas de portagem aplicado na A 7 - Auto-Estrada Famalicão-Guimarães, que respeitem a percursos que incluam a utilização do sublanço Porto-Maia, será deduzido do valor correspondente a este.
+
+9 - (Eliminado.)
+
+###### Base XXVII
+
+1 - ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Na A 9 (CREL), Estádio Nacional (A 5) até Alverca (A 1), até à entrada em serviço da totalidade do IC 17-CRIL.
+
+3 - ...
+
+4 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) A 4 - Figueira da Foz-Santa Eulália;
+
+g) (Alínea eliminada.)
+
+5 - ...
+
+6 - ...
+
+7 - ...»
+
+## ANEXO II — Taxas de portagem da A 9/IC 18 - CREL
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2002/12/298a01/00020003.pdf)

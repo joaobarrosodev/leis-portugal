@@ -1,0 +1,218 @@
+---
+schema_version: '1.0'
+id: pt:dre:662475:por
+title: Decreto-Lei n.º 99/87
+short_title: null
+summary: Cria, no âmbito do Ministério das Finanças, o Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas
+  (GAFEEP)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 99/87
+official_date: null
+publication_date: '1987-03-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/1987, Série I de 1987-03-05
+  number: '53'
+  series: I
+  supplement: null
+  pages: 924 - 926
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/03/05300/09240926.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '662475'
+  dre_path: /dr/detalhe/decreto-lei/99-1987-662475
+  internal: pt:dre:662475:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1987-662475
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1987-662475
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-09-03T00:00:00Z'
+integrity:
+  source_sha256: 035ab86350dd508373005ab029412ab649d1e3811ab7c14b759d1680d606a44d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-99-662475.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:241227:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 99/87
+
+de 5 de Março
+
+1. As necessidades de financiamento do Estado têm, nas economias avançadas, um peso determinante, por vezes excessivo, no cômputo do financiamento global disponível de cada país.
+
+Os efeitos sobre o sector produtivo não são simples nem se exercem apenas num sentido.
+
+A teoria macroeconómica vem, aliás, debruçando-se com profundidade acrescida sobre os efeitos perversos da pressão do financiamento do sector público no investimento privado - quer pela quantidade de meios financeiros absorvidos quer pelas flutuações induzidas na taxa de juro -, eventualmente compensados por movimentos de sinal contrário decorrentes dos aumentos de rendimento provocados ou da prática de subsidiação e de transferências para o sector privado.
+
+2. Assim tem sido, também, em Portugal. Relativamente ao produto interno bruto, as NFSPA - necessidades de financiamento do sector público administrativo (SPA) (líquidas de amortizações da dívida) - passaram de -0,9% em 1973 para +13,4% em 1984 (máximo) e encontram-se em 1986 em cerca de 9%.
+
+O Governo projectou uma trajectória a médio prazo correctora do peso do défice do Orçamento do Estado - que constitui, de longe, o maior responsável pelas referidas NFSPA. Os Orçamentos de 1986 e de 1987 inserem-se já no quadro desta estratégia de redução gradual das NFSPA.
+
+Sendo o Estado o ente público que mais contribui para o volume destas necessidades de financiamento, não se pode esquecer a importância de estender o rigor de orçamentação e execução a todas as entidades do SPA.
+
+A disciplina orçamental que já caracteriza o Orçamento do Estado deverá assim abranger os fundos e serviços autónomos. Além disso, haverá que encarar as necessidades de financiamento da Segurança Social numa óptica de médio prazo em articulação estreita com o programa orçamental do Estado. Finalmente, as autarquias locais, pelo volume de recursos financeiro que já movimentam, não poderão deixar de vir a aderir à lógica de contenção das necessidades financeiras do sector público, pelo que serão indispensáveis progressos ao nível da orçamentação e da contabilização das respectivas receitas e despesas, de molde a permitir o conhecimento antecipado da inerente absorção global de meios financeiros.
+
+3. Natureza diferente e diferentes consequências têm as necessidades de financiamento do sector empresarial do Estado.
+
+Primeiro, porque se trata de entidades do sector produtivo e não do sector administrativo. Os efeitos da concorrência na procura de financiamentos não são, pois, os mesmos. A concorrência faz-se, dentro do sector produtivo, entre empresas públicas e privadas.
+
+Segundo, porque elas devem mover-se exclusivamente pela racionalidade empresarial - se se tratar de entidades tipicamente empresariais - ou por um misto devidamente calibrado e compensado entre essa racionalidade e o interesse social - se se tratar de entidades que pretendam reunir as naturezas, parcialmente inconciliáveis, de serviço público e de empresa.
+
+Terceiro, porque as relações de financiamento das EPs regem-se - ou têm de passar a reger-se - pela avaliação do risco do negócio e da segurança e recuperação das operações de crédito, enquanto o recurso à dívida pelo Estado assume outras configurações de segurança e, por vezes, de quase imposição, como aconteceu no passado.
+
+As orientações que o Governo vem traçando apontam para que as EPNFs (empresas públicas não financeiras) se financiem no mercado de capitais e junto das instituições de crédito como uma qualquer grande empresa, independentemente da natureza pública ou privada dos seus titulares. Os financiadores, sobretudo os institucionais, têm de avaliar se o risco é aceitável, se as garantias são bastantes, se os projectos têm mérito, se a estrutura financeira e patrimonial é equilibrada, se a administração justifica devidamente o volume e o modo de financiamento pretendidos. Ambas - as instituições financiadoras e as EPs financiadas - terão presentes as macrorreferências estabelecidas pelo Governo para o crescimento do investimento produtivo; as primeiras cuidarão, em particular, do cumprimento das directrizes de política monetária; as segundas enquadrar-se-ão nas orientações estratégicas dos ministros da tutela. Mas nem umas nem outras deverão negociar sob a imagem do Estado soberano, protector e pagador.
+
+4. O financiamento das empresas públicas não financeiras (EPNFs) tem constituído, ao longo dos últimos dez anos, uma das principais fontes de dificuldades do controle monetário em Portugal. A título de exemplo, refira-se que no período de 1978-1983 as necessidades de financiamento daquelas empresas públicas ascenderam, em média anual, a 8,7% do PIB, aproximando-se da média do SPA no mesmo período (10,1%), o que diz bem da dificuldade em conciliar um financiamento não asfixiante do sector privado com uma expansão aceitável dos meios de pagamento.
+
+Por conseguinte, o sucesso da programação monetária requer o acompanhamento das necessidades financeiras das EPNFs e este requer o acompanhamento dos seus investimentos.
+
+Na orgânica do Governo tem cabido ao Ministério das Finanças a tutela das EPs na perspectiva financeira (n.º 1 do artigo 13.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, na redacção que lhe foi dada pelo [Decreto-Lei n.º 29/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1984-659899), de 20 de Janeiro).
+
+5. Justifica-se, por conseguinte, a criação, no Ministério das Finanças, de um gabinete que cuide de o apoiar no enquadramento do volume e da composição dos meios financeiros necessários para cobrir os défices do sector público, informe atempadamente sobre a melhor ou pior execução dos valores de financiamento projectados, proceda, enfim, aos balanceamentos agregados e desagregados que se revelarem indispensáveis para dar parecer sobre a compatibilidade entre as necessidades e a forma de financiamento do sector público, administrativo e empresarial, e os objectivos da política económica do Governo, designadamente os respeitantes ao crescimento do investimento produtivo e à redução da inflação. Tarefa que exigirá, também, uma estreita articulação com o banco central, de modo a dotar da máxima eficiência a condução e a execução da política monetária.
+
+Ao criar um tal gabinete, extingue-se, ao mesmo tempo, o SPEP - Secretariado Permanente das Empresas Públicas -, inserido na cadeia de decisão dos actos fundamentais de gestão das EPs não financeiras, encravado entre o Conselho de Ministros para os Assuntos Económicos e o Ministério das Finanças, tornando ainda mais burocrático e desresponsabilizante um processo de decisão que já antes se reconhecia como muito pesado e que não está vocacionado para preencher as funções enunciadas.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - É criado, no âmbito do Ministério das Finanças, o Gabinete para a Análise do Financiamento do Estado e das Empresas Públicas, adiante designado por GAFEEP.
+
+2 - O GAFEEP é um órgão de assessoria e apoio directo ao Ministro das Finanças.
+
+###### Art. 2.º É atribuição do GAFEEP preparar matérias a submeter ao Ministro das Finanças para efeito de deliberações que respeitem ao exercício da tutela financeira do sector público, administrativo e empresarial, designadamente:
+
+a) Analisar agregadamente as necessidades de financiamento, quer para funcionamento, quer para investimento, do sector público administrativo (SPA) e do sector empresarial do Estado (SEE) e apreciar a sua compatibilidade com a programação monetária e com os objectivos macroeconómicos de cada ano;
+
+b) Elaborar propostas sobre a fixação anual ou supra-anual das macrorreferências relativas ao financiamento dos SPA e SEE, designadamente as respeitantes às incidências financeiras do PIDDAC e do PISEE;
+
+c) Dar parecer sobre as incidências financeiras dos orçamentos anuais das entidades do SEE e acompanhar a sua execução com base em documentos especialmente elaborados para o efeito pelos órgãos executivos responsáveis;
+
+d) Dar parecer sobre as negociações da massa salarial no SEE, tendo em conta a política de rendimentos definida pelo Governo, a situação financeira de cada empresa e a produtividade;
+
+e) Dar parecer sobre as incidências financeiras das revisões de preços administrados;
+
+f) Dar parecer sobre os montantes de indemnizações compensatórias, dotações de capital e subsídios a conceder anualmente ao SEE;
+
+g) Dar parecer sobre a estrutura das fontes de financiamento e a evolução dos custos financeiros das entidades dos SPA e SEE;
+
+h) Apreciar as incidências financeiras dos contratos-programas e de outros instrumentos de programação plurianuais do SEE, tais como programas de reestruturação ou de reequilíbrio financeiro;
+
+i) Elaborar anualmente relatório sobre os financiamentos dos SPA e SEE.
+
+###### Art. 3.º No exercício das suas atribuições compete, designadamente, ao GAFEEP:
+
+a) Articular a sua actividade especialmente com o Gabinete de Estudos Económicos, a Inspecção-Geral de Finanças, a Direcção-Geral da Contabilidade Pública e a Direcção-Geral do Tesouro;
+
+b) Em colaboração com a Direcção-Geral da Contabilidade Pública, com os gabinetes de planeamento dos ministérios sectoriais e com outros organismos com funções de recolha de dados, obter os elementos de informação de que careça para o exercício das suas atribuições;
+
+c) Obter do Banco de Portugal, do Instituto Nacional de Seguros e das instituições bancárias e parabancárias todos os elementos de informação sobre o financiamento de qualquer entidade ou grupo de entidades dos SPA e SEE.
+
+###### Art. 4.º - 1 - O GAFEEP será dirigido por um director, o qual é equiparado, para todos os efeitos legais, a director-geral.
+
+2 - O director é coadjuvado por um subdirector, o qual é equiparado, para todos os efeitos legais, a subdirector-geral.
+
+3 - O GAFEEP compreende o pessoal constante do quadro anexo ao presente diploma, que dele faz parte integrante.
+
+###### Art. 5.º - 1 - O GAFEEP terá um quadro de consultores, habilitados com licenciatura em Economia, Gestão de Empresas ou outras que se mostrem adequadas à prossecução das atribuições, abrangendo as seguintes categorias:
+
+a) Consultor;
+
+b) Primeiro-consultor;
+
+c) Consultor principal.
+
+2 - O provimento dos consultores é feito por nomeação pelo período de um ano e nas seguintes modalidades:
+
+a) Em comissão de serviço, para os não vinculados à função pública, desde que não tenham uma relação jurídico-laboral com empresas públicas;
+
+b) Em comissão de serviço ou em requisição, para os vinculados à função pública;
+
+c) Em requisição, para trabalhadores de empresas públicas, no âmbito do regime geral aplicável.
+
+3 - A nomeação referida no número anterior pode ser feita cessar, por conveniência de serviço, a qualquer momento.
+
+4 - O exercício de funções no GAFEEP é contado, para todos os efeitos legais, designadamente para a progressão nas respectivas carreiras, como prestado nos lugares de origem.
+
+5 - O desempenho de funções no GAFEEP está isento do cumprimento de horário de trabalho, não lhe sendo, por isso, devida qualquer remuneração por trabalho extraordinário.
+
+###### Art. 6.º - 1 - O apoio administrativo ao GAFEEP será assegurado por pessoal da Secretaria-Geral do Ministério das Finanças a destacar para o efeito, ou por pessoal a requisitar ou a destacar de outros serviços do Estado, nos termos da legislação em vigor.
+
+2 - O apoio informático ao GAFEEP será prestado pelo Instituto de Informática do Ministério das Finanças, em moldes a fixar por despacho do Ministro das Finanças.
+
+###### Art. 7.º O pessoal a prestar serviço no GAFEEP não pode ser prejudicado no seu emprego, na estabilidade e progressão da sua carreira, no regime de segurança social e nas demais regalias de que beneficie.
+
+###### Art. 8.º É extinto o Secretariado Permanente para as Empresas Públicas (SPEP), criado pelo [Decreto-Lei n.º 99/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1985-325553), de 8 de Abril.
+
+###### Art. 9.º - 1 - Por despacho do Ministro das Finanças e com recurso às verbas inscritas no orçamento do Ministério das Finanças e às disponibilidades existentes nas dotações postas à disposição do ex-SPEP, serão satisfeitos os encargos de funcionamento do GAFEEP.
+
+2 - Todos os valores activos e passivos, a titularidade de todos os bens móveis e imóveis e todos os direitos e obrigações, contratuais ou não, do SPEP são transferidos para o GAFEEP.
+
+###### Art. 10.º O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 20 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+**Promulgado em Bragança em 25 de Fevereiro de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 25 de Fevereiro de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+Quadro de pessoal
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/03/05300/09240926.pdf))](https://files.diariodarepublica.pt/1s/1987/03/05300/09240926.pdf)

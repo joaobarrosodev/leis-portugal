@@ -1,0 +1,593 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:551631:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-915280921",
+ "dre_path": "/dr/detalhe/portaria/424-f-2008-551631",
+ "source_lastmod": "2025-04-16",
+ "versions": [
+  {
+   "date": "2008-06-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "915239791",
+    "915239792",
+    "915239793",
+    "915239794",
+    "915239795",
+    "915239796",
+    "915239797",
+    "915239798",
+    "915239799",
+    "915239800",
+    "915239801",
+    "915239802",
+    "915239803",
+    "915239804",
+    "915239805",
+    "915239806",
+    "915239807",
+    "915239808",
+    "915239809",
+    "915239810",
+    "915239811",
+    "915239812",
+    "915239813",
+    "915239814",
+    "915239815"
+   ]
+  },
+  {
+   "date": "2010-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609337:por",
+     "title": "Portaria n.º 106/2010",
+     "published": "2010-02-19",
+     "dre_path": "/dr/detalhe/portaria/106-2010-609337"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "915239791",
+    "915239792",
+    "915239793",
+    "915239794",
+    "915239795",
+    "915239796",
+    "915239797",
+    "915239798",
+    "915239799",
+    "915239800",
+    "915239801",
+    "915239802",
+    "915239803",
+    "915239804",
+    "915239805",
+    "915239806",
+    "915239807",
+    "915239852",
+    "915239809",
+    "915239834",
+    "915239811",
+    "915239812",
+    "915239813",
+    "915239814",
+    "915239815"
+   ]
+  },
+  {
+   "date": "2010-04-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:613231:por",
+     "title": "Portaria n.º 225/2010",
+     "published": "2010-04-21",
+     "dre_path": "/dr/detalhe/portaria/225-2010-613231"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "915239791",
+    "915239792",
+    "915239793",
+    "915239794",
+    "915239795",
+    "915239796",
+    "915239797",
+    "915239798",
+    "915239799",
+    "915239800",
+    "915239801",
+    "915239802",
+    "915239803",
+    "915239804",
+    "915416175",
+    "915416176",
+    "915239807",
+    "915239852",
+    "915239809",
+    "915416177",
+    "915239811",
+    "915239812",
+    "915239813",
+    "915239814",
+    "915239815"
+   ]
+  },
+  {
+   "date": "2013-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:503051:por",
+     "title": "Portaria n.º 312/2013",
+     "published": "2013-10-21",
+     "dre_path": "/dr/detalhe/portaria/312-2013-503051"
+    }
+   ],
+   "changes": [
+    "Adita Anexo IV",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "915239791",
+    "915239792",
+    "915239793",
+    "915239794",
+    "915239795",
+    "915239796",
+    "915239797",
+    "915239798",
+    "915239799",
+    "915239800",
+    "915239801",
+    "915416204",
+    "915239803",
+    "915239804",
+    "915416205",
+    "915416206",
+    "915416207",
+    "915416208",
+    "915416209",
+    "915416210",
+    "915416211",
+    "915239812",
+    "915416212",
+    "915239814",
+    "915239815",
+    "915416213"
+   ]
+  },
+  {
+   "date": "2014-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345880:por",
+     "title": "Portaria n.º 109/2014",
+     "published": "2014-05-22",
+     "dre_path": "/dr/detalhe/portaria/109-2014-25345880"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "915239791",
+    "915239792",
+    "915239793",
+    "915239794",
+    "915239795",
+    "915239796",
+    "915239797",
+    "915239798",
+    "915239799",
+    "915239800",
+    "915239801",
+    "915416204",
+    "915239803",
+    "915239804",
+    "915500377",
+    "915416206",
+    "915416207",
+    "915416208",
+    "915416209",
+    "915416210",
+    "915416211",
+    "915239812",
+    "915416212",
+    "915239814",
+    "915239815",
+    "915416213"
+   ]
+  }
+ ],
+ "fragments": {
+  "915239791": {
+   "fragment_id": "915280922",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 424-F/2008\n\nde 13 de Junho\n\nO Decreto-Lei n.º 81/2008, de 16 de Maio, que estabelece o enquadramento nacional dos apoios a conceder ao sector da pesca no âmbito do Programa Operacional Pesca 2007-2013 (PROMAR), no quadro do Fundo Europeu das Pescas (FEP), estabelece na alínea a) do n.º 2 do artigo 3.º que, para o continente, as diversas medidas nele previstas são objecto de regulamentação através de portaria do membro do Governo responsável pelo sector das pescas.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo da alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 81 /2008, de 16 de Maio, o seguinte:\n\n1.º É aprovado o Regulamento do Regime de Apoio aos Investimentos a Bordo e Selectividade previsto na Medida Investimentos a Bordo e Selectividade do eixo prioritário n.º 1 do Programa Operacional Pesca 2007-2013 (PROMAR), de acordo com o previsto na subalínea iii) da alínea a) do n.º 1 do artigo 3.º do Decreto-Lei n.º 81/2008, de 16 de Maio, que faz parte integrante da presente portaria.\n\n2.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nO Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 9 de Junho de 2008.\n\nREGULAMENTO DO REGIME DE APOIO AOS INVESTIMENTOS A BORDO E SELECTIVIDADE"
+  },
+  "915239792": {
+   "fragment_id": "915280923",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objecto\n\n1 - O presente Regulamento estabelece o regime de apoio aos investimentos a bordo e selectividade, tendo por objecto o apoio aos seguintes projectos:\n\na) Investimentos nas embarcações de pesca destinados a melhorar as condições de segurança, de trabalho e de higiene, a qualidade dos produtos da pesca e a eficiência energética;\n\nb) Investimentos em matéria de selectividade, nomeadamente das artes de pesca e protecção dos ecossistemas e fundos marinhos.\n\n2 - Os investimentos a apoiar não podem aumentar as capacidades de captura das embarcações."
+  },
+  "915239793": {
+   "fragment_id": "915280924",
+   "type": 11,
+   "heading": "Artigo 2.º — Promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Promotores\n\nPodem apresentar candidaturas ao presente regime os detentores de um título que lhes confira o direito de exploração de embarcações legalmente registadas na frota de pesca do continente."
+  },
+  "915239794": {
+   "fragment_id": "915280925",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de acesso relativas aos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de acesso relativas aos promotores\n\nSem prejuízo das condições gerais de acesso previstas no artigo 4.º do Decreto-Lei n.º 81/2008, de 16 de Maio, os promotores dos projectos devem, à data da candidatura:\n\na) Possuir, nos casos aplicáveis, autorização válida para modificação da embarcação objecto do projecto nos termos do artigo 70.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, republicado pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio;\n\nb) Demonstrar uma situação financeira equilibrada que garanta a concretização do projecto, de acordo com o anexo i ao presente Regulamento, excepto nos casos em que essa apreciação não é exigida, nos termos do artigo 12.º"
+  },
+  "915239795": {
+   "fragment_id": "915280926",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de acesso relativas aos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de acesso relativas aos projectos\n\nSem prejuízo da condição geral de admissibilidade do projecto prevista no artigo 5.º do Decreto-Lei n.º 81/2008, de 16 de Maio, constitui condição específica de acesso a este regime estar a embarcação licenciada à data de apresentação da candidatura."
+  },
+  "915239796": {
+   "fragment_id": "915280927",
+   "type": 11,
+   "heading": "Artigo 5.º — Projectos não enquadráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Projectos não enquadráveis\n\nNão são enquadráveis no presente regime de apoio os projectos:\n\na) Cujo valor global do investimento elegível seja inferior a (euro) 1000 para embarcações de comprimento fora a fora inferior a 12 m ou (euro) 5000 para as restantes;\n\nb) Que respeitem a embarcações construídas há menos de cinco anos;\n\nc) Que visem o aumento dos porões de peixe."
+  },
+  "915239797": {
+   "fragment_id": "915280928",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologia dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipologia dos projectos\n\n1 - Para efeitos do presente regime, consideram-se enquadráveis os projectos relativos a:\n\na) Investimentos a bordo de embarcações em equipamentos e trabalhos de modernização, que:\n\ni) Visem melhorar a segurança a bordo, as condições de habitabilidade, de trabalho e de higiene, a qualidade dos produtos da pesca e a eficiência energética;\n\nii) Permitam a conservação a bordo das capturas cuja rejeição deixou de ser autorizada; ou\n\niii) Digam respeito à substituição do motor propulsor, nos termos dos artigos 7.º e 8.º;\n\nb) Investimentos em selectividade que:\n\ni) Visem a preparação ou experimentação de novas medidas técnicas, durante um período limitado, a fixar pelo Conselho da União Europeia ou pela Comissão Europeia;\n\nii) Reduzam o impacte da pesca nas espécies sem valor comercial ou nos ecossistemas e fundos marinhos;\n\niii) Protejam as capturas e as artes de pesca de predadores selvagens protegidos, no âmbito das Directivas n.os 79/409/CEE, do Conselho, de 2 de Abril, e 92/43/CEE, do Conselho, de 21 de Maio, inclusive através da mudança do material de partes das artes de pesca, desde que tal não aumente o esforço de pesca, nem reduza a selectividade das artes e sejam introduzidas todas as medidas adequadas para evitar danos físicos aos predadores; ou\n\niv) Se destinem a substituir artes de pesca, nos termos do artigo 9.º\n\n2 - Os projectos de investimento enquadráveis nas tipologias das alíneas a) e b) do número anterior devem ser objecto de candidaturas distintas."
+  },
+  "915239798": {
+   "fragment_id": "915280929",
+   "type": 11,
+   "heading": "Artigo 7.º — Investimentos na substituição de motores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Investimentos na substituição de motores\n\n1 - Os apoios à substituição de motores propulsores ficam limitados às seguintes embarcações:\n\na) De comprimento fora a fora igual ou inferior a 24 m;\n\nb) Arrastões de comprimento fora a fora superior a 24 m que estejam sujeitos a um plano de emergência e reestruturação, nos termos das orientações comunitárias relativas aos auxílios estatais de emergência e à reestruturação de empresas em dificuldade, desde que o navio passe a utilizar um método de pesca que implique uma redução do consumo de combustível.\n\n2 - No caso das embarcações de comprimento fora a fora inferior a 12 m, que não estejam autorizadas a utilizar artes rebocadas, a potência do novo motor deve ser igual ou inferior à potência do motor substituído.\n\n3 - Para as restantes embarcações, a potência do novo motor deve ser inferior em, pelo menos, 20  % relativamente à potência do motor substituído."
+  },
+  "915239799": {
+   "fragment_id": "915280930",
+   "type": 11,
+   "heading": "Artigo 8.º — Redução da potência por um grupo de embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Redução da potência por um grupo de embarcações\n\n1 - A redução da potência do motor a que se refere o n.º 3 do artigo anterior pode ser obtida por um grupo de embarcações, agrupadas de acordo com as alíneas do n.º 1 daquele artigo, desde que em número não superior a 10, desde que exerçam a actividade na mesma zona de pesca e utilizem as mesmas artes de pesca principais, nos termos do número seguinte.\n\n2 - Consideram-se como artes de pesca principais as artes rebocadas, as artes móveis e as artes passivas, sendo que as embarcações que estejam licenciadas para operar, em simultâneo, com artes rebocadas e passivas são classificadas como embarcações de artes rebocadas.\n\n3 - As capacidades saídas da frota de pesca com apoio público não são tidas em consideração no cálculo da redução da potência do grupo de embarcações.\n\n4 - Os possuidores das embarcações que integram o grupo são representados por um dos candidatos à substituição do motor propulsor no âmbito do presente regime, que se assume como sendo o interlocutor único junto da Administração.\n\n5 - Os projectos devem ser instruídos com declarações dos possuidores das embarcações, mencionando a potência a reduzir em cada embarcação, e o compromisso de proceder à respectiva redução no prazo máximo de 12 meses a contar da data de decisão da concessão do apoio financeiro.\n\n6 - As embarcações que vejam a sua potência reduzida ao abrigo do presente artigo não podem ser objecto de trabalhos de modernização que aumentem a potência dos motores."
+  },
+  "915239800": {
+   "fragment_id": "915280931",
+   "type": 11,
+   "heading": "Artigo 9.º — Investimentos em artes de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Investimentos em artes de pesca\n\n1 - O investimento em artes de pesca, incluindo a sua substituição, previsto na subalínea iv) da alínea b) do n.º 1 do artigo 6.º, pode ser objecto de apoio nos casos seguintes:\n\na) Quando se trate de garantir a observância de novos requisitos técnicos da legislação comunitária em matéria de selectividade, desde que a substituição seja efectuada até à data em que esses requisitos se tornem obrigatórios ou, após essa data, desde que o respectivo prazo se encontre fixado no acto comunitário;\n\nb) Quando esteja em causa a redução do impacte da pesca nas espécies sem valor comercial;\n\nc) A embarcação seja afectada por um plano de ajustamento do esforço de pesca no âmbito de um plano de recuperação, mude de método de pesca e troque a pescaria por outra em que o estado dos recursos permita exercer a pesca; ou\n\nd) A nova arte seja mais selectiva e respeite critérios e práticas ambientais reconhecidos mais estritos que as obrigações legais vigentes.\n\n2 - Nos casos previstos nas alíneas a) e b) do número anterior, pode apenas haver lugar a uma substituição de artes de pesca durante o período de vigência do PROMAR.\n\n3 - Nos casos previstos nas alíneas c) e d) do número anterior, podem ser aceites até duas substituições de artes de pesca durante o período de vigência do PROMAR."
+  },
+  "915239801": {
+   "fragment_id": "915280932",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas elegíveis\n\n1 - Para efeitos de concessão dos apoios previstos neste regime, consideram-se elegíveis as despesas relativas a:\n\na) Equipamentos e trabalhos de modernização que contribuam para os objectivos estabelecidos na alínea a) do n.º 1 do artigo 6.º, designadamente:\n\ni) Casco, superstruturas e arranjos internos, desde que não aumentem a capacidade de captura da embarcação;\n\nii) Sistema propulsor, com excepção do motor propulsor;\n\niii) Sistemas hidráulicos;\n\niv) Equipamentos de processamento e conservação do pescado;\n\nv) Sistema eléctrico;\n\nvi) Equipamentos electrónicos;\n\nvii) Sistemas auxiliares;\n\nviii) Meios de salvação e de combate a incêndios;\n\nb) Motor propulsor, nos termos dos artigos 7.º e 8.º;\n\nc) Artes de pesca e outros trabalhos ou equipamentos no âmbito dos projectos referidos na alínea b) do n.º 1 do artigo 6.º\n\n2 - São ainda elegíveis as despesas com estudos técnico-económicos até ao limite de 3 % das restantes despesas elegíveis e, bem assim, dentro do limite referido, o custo associado às garantias exigidas pela Autoridade de Gestão no âmbito da execução do projecto.\n\n3 - O montante máximo de despesas elegíveis de todos os projectos relativos à mesma embarcação objecto de apoio público no âmbito desta medida, durante todo o período de programação, não pode exceder os montantes fixados no quadro n.º 1 do anexo ii.\n\n4 - Em derrogação do número anterior, não são consideradas para efeito do cálculo do montante máximo elegível as despesas elegíveis com equipamentos e trabalhos previstos nos projectos a que se refere a subalínea iii) da alínea b) do n.º 1 do artigo 6.º"
+  },
+  "915239802": {
+   "fragment_id": "915280933",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas não elegíveis\n\nSem prejuízo do disposto no artigo 6.º do Decreto-Lei n.º 81/2008, de 16 de Maio, para efeitos de concessão dos apoios previstos neste regime, não são elegíveis as seguintes despesas:\n\na) Trabalhos exclusivamente de manutenção corrente;\n\nb) Trabalhos relativos ao aumento dos porões de peixe;\n\nc) Aquisição de equipamentos e realização de trabalhos que aumentem a capacidade de captura da embarcação ou considerados dispensáveis para a actividade da embarcação;\n\nd) Bens cuja amortização, permitida pela legislação fiscal, é igual ou inferior a um ano;\n\ne) Trabalhos ou equipamentos com a mesma natureza de outros que tenham sido objecto de apoio público há menos de cinco anos;\n\nf) Despesas de pré-financiamento, de constituição de processos de empréstimo, de assessoria jurídica e de constituição de fundos de maneio."
+  },
+  "915239803": {
+   "fragment_id": "915280934",
+   "type": 11,
+   "heading": "Artigo 12.º — Selecção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Selecção das candidaturas\n\n1 - Para efeitos de concessão de apoio financeiro, as candidaturas são seleccionadas e ordenadas em função do valor da pontuação final (PF), resultante da aplicação da seguinte fórmula:\n\nPF = 0,3 AT + 0,3 VE + 0,4 AE\n\n2 - A forma de cálculo das pontuações de AT (apreciação técnica), de VE (apreciação económica e financeira) e de AE (apreciação estratégica) é definida no anexo iii ao presente Regulamento.\n\n3 - A apreciação económica e financeira não é exigível para as candidaturas com um investimento elegível inferior a (euro) 150 000 ou que visem exclusivamente a melhoria da segurança a bordo, caso em que a PF será a resultante da seguinte fórmula:\n\nPF = 0,5 AT + 0,5 AE\n\n4 - A apreciação estratégica não é exigível para as candidaturas com um investimento elegível inferior a (euro) 25 000 ou que visem exclusivamente a melhoria da segurança a bordo, caso em que a PF será a resultante da seguinte fórmula:\n\nPF = AT\n\n5 - São excluídas as candidaturas que não obtenham, no mínimo, 50 pontos em qualquer uma das valências previstas nos números anteriores.\n\n6 - As candidaturas seleccionadas nos termos dos números anteriores serão ordenadas em dois grupos consoante os projectos se localizem na região de Lisboa ou nas restantes regiões do continente, para efeitos de decisão, tendo em vista as dotações financeiras a fixar por despacho do membro do Governo responsável pelo sector das pescas."
+  },
+  "915239804": {
+   "fragment_id": "915280935",
+   "type": 11,
+   "heading": "Artigo 13.º — Natureza e montante dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Natureza e montante dos apoios\n\n1 - O apoio público ao investimento à modernização de embarcações de pesca reveste a forma de subsídio a fundo perdido.\n\n2 - Com excepção dos motores propulsores, a taxa de comparticipação pública é igual a:\n\na) 60 % do montante das despesas elegíveis que respeitem a trabalhos ou equipamentos destinados exclusivamente à segurança de pessoas e bens, quando as embarcações tenham um comprimento fora a fora inferior a 12 m e não utilizem artes rebocadas;\n\nb) 50 % do montante de outras despesas elegíveis quando as embarcações tenham um comprimento fora a fora inferior a 12 m e não utilizem artes rebocadas;\n\nc) 40 % do montante das despesas elegíveis para as restantes embarcações.\n\n3 - Para a aquisição do motor propulsor, a taxa de comparticipação pública é igual a:\n\na) 40 % do montante das despesas elegíveis quando as embarcações tenham um comprimento fora a fora inferior a 12 m e não utilizem artes rebocadas;\n\nb) 20 % do montante das despesas elegíveis para as restantes embarcações, nos termos do n.º 1 do artigo 7.º"
+  },
+  "915239805": {
+   "fragment_id": "915280936",
+   "type": 11,
+   "heading": "Artigo 14.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Candidaturas\n\n1 - As candidaturas são apresentadas nas direcções regionais de agricultura e pescas, nos meses de Janeiro, Abril, Julho e Outubro de cada ano, excepto:\n\na) Quanto ao primeiro período de apresentação, que decorre entre a data de entrada em vigor da presente portaria e 31 de Outubro;\n\nb) Quanto às candidaturas previstas no artigo 17.º do Decreto-Lei n.º 81/2008, de 16 de Maio, as quais são apresentadas nos prazos indicados naquele diploma.\n\n2 - Após a recepção das candidaturas podem ser solicitados esclarecimentos ou documentos necessários à sua análise, devendo o promotor responder no prazo máximo de 10 dias, se outro não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.\n\n3 - O encerramento das candidaturas ocorre em 31 de Outubro de 2013, se data anterior não for fixada pelo gestor."
+  },
+  "915239806": {
+   "fragment_id": "915280937",
+   "type": 11,
+   "heading": "Artigo 15.º — Decisão e contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Decisão e contratação\n\n1 - A decisão final compete:\n\na) Ao gestor para as candidaturas relativas a projectos de investimento com uma despesa elegível inferior a (euro) 2 500 000;\n\nb) Ao membro do Governo responsável pelo sector das pescas para as candidaturas relativas aos restantes projectos.\n\n2 - As candidaturas são decididas no prazo máximo de 50 dias a contar do último dia de cada mês para a sua apresentação, desde que o processo esteja completo, considerando-se aquele prazo suspenso sempre que sejam solicitados esclarecimentos, informações ou documentos.\n\n3 - O Instituto de Financiamento da Agricultura e Pescas, adiante designado por IFAP, notifica o promotor, no prazo de 10 dias após o seu conhecimento, da decisão final de concessão do apoio, remetendo o contrato para assinatura, ou informando o local onde o mesmo pode ser assinado."
+  },
+  "915239807": {
+   "fragment_id": "915280938",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamento dos apoios\n\n1 - O pagamento do apoio é feito pelo IFAP, após apresentação pelo promotor, nas direcções regionais de agricultura e pescas, adiante designadas por DRAP, dos documentos comprovativos do pagamento das despesas, em conformidade com formulários próprios.\n\n2 - A primeira prestação dos apoios só será paga após realização de 20 % do investimento elegível.\n\n3 - O apoio será pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % desse apoio.\n\n4 - No caso dos projectos visando a substituição de motores com redução da potência por um grupo de embarcações, nos termos do artigo 8.º, o pagamento das despesas relativas à substituição do motor tem lugar posteriormente à confirmação da redução prevista da potência de todas as embarcações do grupo, não se aplicando o disposto nos n.os 2 e 3."
+  },
+  "915239808": {
+   "fragment_id": "915280939",
+   "type": 11,
+   "heading": "Artigo 17.º — Adiantamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Adiantamento dos apoios\n\n1 - Com a apresentação de despesa paga correspondente a 5 % do investimento elegível, o promotor poderá solicitar nas DRAP, até quatro meses após a data da celebração do contrato, a concessão de um adiantamento até 30 % do valor dos apoios.\n\n2 - Após a justificação da despesa paga correspondente a 35 % do investimento elegível, o promotor poderá solicitar um adiantamento, até 30 % do valor dos apoios, desde que o solicite até 12 meses após a data da celebração do contrato.\n\n3 - O promotor disporá de um período de seis meses, após a concessão do adiantamento, para demonstrar a sua aplicação e apresentar os comprovativos da despesa correspondente a esse valor.\n\n4 - Em caso de atraso na justificação dos adiantamentos será aplicada uma penalização correspondente ao valor dos juros de mora à taxa legal, contados sobre o valor do adiantamento.\n\n5 - Os adiantamentos são concedidos após a apresentação de garantias a favor do IFAP.\n\n6 - A concessão e o montante dos adiantamentos ficam limitados às disponibilidades financeiras do PROMAR."
+  },
+  "915239809": {
+   "fragment_id": "915280940",
+   "type": 11,
+   "heading": "Artigo 18.º — Correcções financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Correcções financeiras\n\n1 - Sempre que tenham sido concedidos apoios públicos à modernização da embarcação objecto do projecto há menos de cinco anos, o montante máximo da despesa elegível será diminuído pro rata temporis, estipulando-se, como referência inicial e final, a data da última factura paga imputável ao projecto apoiado e a da apresentação da candidatura ao PROMAR.\n\n2 - Uma ajuda ao investimento a bordo de uma embarcação, concedida ao abrigo do presente regime, será reembolsada pro rata temporis quando a embarcação em causa for cancelada no registo da frota de pesca da Comunidade, antes de decorridos cinco anos a contar da data final dos trabalhos objecto do investimento, salvo se o cancelamento resultar de motivo de força maior."
+  },
+  "915239810": {
+   "fragment_id": "915280941",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Obrigações dos beneficiários\n\nSem prejuízo das obrigações previstas no artigo 11.º do Decreto-Lei n.º 81/2008, de 16 de Maio, quando aplicável, constituem obrigações dos beneficiários:\n\na) Iniciar a execução dos projectos até 90 dias a contar da data da outorga do competente contrato com o IFAP e completar essa execução até 18 meses a contar da mesma data;\n\nb) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação dos projectos;\n\nc) Aplicar integralmente os apoios na realização do projecto de investimento, com vista à execução dos objectivos que justificaram a sua atribuição;\n\nd) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as obrigações para o efeito contraídas perante terceiros, sempre de forma a não perturbar a cabal realização dos objectivos dos apoios;\n\ne) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando, nem modificando o mesmo, sem prévia autorização do gestor;\n\nf) Constituir, até à data da conclusão material do projecto, contado da data da última factura, e manter válido pelo prazo de cinco anos, um seguro marítimo de casco com cobertura extensível a doca seca no montante mínimo do valor do apoio público."
+  },
+  "915239811": {
+   "fragment_id": "915280942",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração dos projectos aprovados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração dos projectos aprovados\n\nPodem ser admitidas até duas alterações técnicas ao projecto, desde que se mantenha a concepção económica e estrutural do projecto aprovado, seguindo-se o disposto nos n.os 2 e seguintes do artigo 14.º do Decreto-Lei n.º 81/2008, de 16 de Maio, delas não podendo resultar o aumento do apoio público."
+  },
+  "915239812": {
+   "fragment_id": "915280943",
+   "type": 11,
+   "heading": "Artigo 21.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cobertura orçamental\n\nOs encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelas medidas de adaptação da frota de pesca do PIDDAC - Programa de Investimentos e Desenvolvimento da Administração Central, inscrito no IFAP."
+  },
+  "915239813": {
+   "fragment_id": "915280944",
+   "type": 14,
+   "heading": "Anexo I — Critério para avaliação de situação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Critério para avaliação de situação financeira\n\n(a que se refere o artigo 3.º)\n\n1 - Para efeitos do disposto na alínea b) do artigo 3.º e sem prejuízo do disposto no n.º 3 deste anexo i, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré e pós-projecto seja igual ou superior a 20 %. A autonomia financeira pré-projecto tem por base o último exercício encerrado à data da apresentação das candidaturas.\n\n2 - A autonomia financeira referida no número anterior è calculada a partir da seguinte fórmula:\n\nAutonomia Financeira = (CP/AL) x 100\n\nem que:\n\nCP - capitais próprios da empresa incluindo os suprimentos e ou empréstimos de sócios ou accionistas que contribuam para garantir o indicador referido, desde que venham a ser incorporados em capital próprio antes da assinatura do contrato;\n\nAL - activo líquido da empresa.\n\n3 - Relativamente aos promotores que, à data de apresentação das candidaturas, não tenham desenvolvido qualquer actividade, ou não tenha ainda decorrido o prazo legal de apresentação do balanço e contas, bem como aos empresários em nome individual sem contabilidade organizada, considera-se que possuem uma situação financeira equilibrada se suportarem com capitais próprios pelo menos 20 % do custo total do investimento.\n\n4 - Os promotores poderão comprovar o indicador referido no n.º 1 com informação mais recente, mas sempre referida a uma data anterior à da apresentação da candidatura, devendo para o efeito apresentar os respectivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas."
+  },
+  "915239814": {
+   "fragment_id": "915280945",
+   "type": 14,
+   "heading": "Anexo II — Montante máximo de despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Montante máximo de despesas elegíveis\n\n(a que se refere o n.º 3 do artigo 10.º)\n\n(ver documento original)"
+  },
+  "915239815": {
+   "fragment_id": "915280946",
+   "type": 14,
+   "heading": "Anexo III — Metodologia para o cálculo da pontuação final (PF)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Metodologia para o cálculo da pontuação final (PF)\n\n(a que se refere o artigo 12.º)\n\n1 - Cálculo da apreciação relativa à viabilidade económica e financeira (VE):\n\nVE = Taxa Interna de Rendibilidade (TIR) do projecto de investimento\n\nA TIR será pontuada de acordo com a seguinte tabela:\n\n(ver documento original)\n\nREFI - taxa de refinanciamento do Banco Central Europeu em vigor no 1.º dia útil do mês civil correspondente ao da apresentação ou reformulação da candidatura.\n\n2 - Cálculo da apreciação relativa à apreciação técnica (AT):\n\nAT = CT + IE + NA\n\nem que:\n\nCT = condições técnicas;\n\nIE = idade da embarcação;\n\nNA = nível médio de actividade da embarcação nos últimos dois anos.\n\nCondições técnicas (CT):\n\n55 pontos - para os projectos com condições técnicas adequadas;\n\n0 pontos - para os projectos com condições técnicas inadequadas.\n\nIdade da embarcação (IE):\n\n5 (igual ou menor que) idade (menor que) 15 - 10 pontos;\n\n15 (igual ou menor que) idade (menor que) 25 - 25 pontos;\n\nIdade (igual ou maior que) 25 - 15 pontos.\n\nNível médio de actividade nos dois últimos anos (NA):\n\nMenos de 75 dias - 10 pontos;\n\nDe 75 a 150 dias - 15 pontos;\n\nMais de 150 dias - 20 pontos.\n\n3 - Cálculo da apreciação estratégica (AE):\n\nProjectos previstos no âmbito da alínea a) do n.º 1 do artigo 6.º:\n\nAE = ME (Modernização das embarcações)\n\n(ver documento original)\n\nNota. - A pontuação de ME é obtida através da média ponderada da pontuação de cada uma das categorias de investimentos, pelo peso no total, das respectivas despesas elegíveis.\n\nProjectos previstos no âmbito da alínea b) do n.º 1 do artigo 6.º:\n\nAE = SE (Selectividade)\n\n(ver documento original)\n\nNota. - A pontuação de SE é obtida através da média ponderada das pontuações obtidas, em cada uma destas duas tabelas, pelo peso no total, das respectivas despesas elegíveis."
+  },
+  "915239852": {
+   "fragment_id": "915280939",
+   "type": 11,
+   "heading": "Artigo 17.º — Adiantamento dos apoios",
+   "in_force_from": "2010-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 106/2010 - Diário da República n.º 35/2010, Série I de 2010-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/106-2010-609337), em vigor a partir de 2010-02-20"
+   ],
+   "markdown": "###### Artigo 17.º — Adiantamento dos apoios\n\n1 - Com a apresentação de despesa paga correspondente a 5 % do investimento elegível, o promotor poderá solicitar nas DRAP, até quatro meses após a data da celebração do contrato, a concessão do adiantamento até 50 % do valor dos apoios.\n\n2 - (Revogado.)\n\n3 - O promotor disporá de um período de seis meses, após a concessão do adiantamento, para demonstrar a sua aplicação e apresentar os comprovativos da despesa correspondente a esse valor.\n\n4 - Em caso de atraso na justificação dos adiantamentos será aplicada uma penalização correspondente ao valor dos juros de mora à taxa legal, contados sobre o valor do adiantamento.\n\n5 - Os adiantamentos são concedidos após a apresentação de garantias a favor do IFAP.\n\n6 - A concessão e o montante dos adiantamentos ficam limitados às disponibilidades financeiras do PROMAR.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 106/2010 - Diário da República n.º 35/2010, Série I de 2010-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/106-2010-609337), em vigor a partir de 2010-02-20"
+  },
+  "915239834": {
+   "fragment_id": "915280941",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 4/2010 - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/4-2010-459942), produz efeitos a partir de 2008-06-14"
+   ],
+   "markdown": "###### Artigo 19.º — Obrigações dos beneficiários\n\nSem prejuízo das obrigações previstas no artigo 11.º do Decreto-Lei n.º 81/2008, de 16 de Maio, quando aplicável, constituem obrigações dos beneficiários:\n\na) Iniciar a execução dos projectos até 90 dias a contar da data da outorga do competente contrato com o IFAP e completar essa execução até 18 meses a contar da mesma data;\n\nb) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação dos projectos;\n\nc) Aplicar integralmente os apoios na realização do projecto de investimento, com vista à execução dos objectivos que justificaram a sua atribuição;\n\nd) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as obrigações para o efeito contraídas perante terceiros, sempre de forma a não perturbar a cabal realização dos objectivos dos apoios;\n\ne) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando, nem modificando o mesmo, sem prévia autorização do gestor;\n\nf) Comprovar até à data de apresentação do último pedido de pagamento a existência de seguro marítimo de casco com cobertura extensível a doca seca no montante mínimo do valor do apoio público, à excepção das embarcações de pesca local.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 4/2010 - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/4-2010-459942), produz efeitos a partir de 2008-06-14"
+  },
+  "915416175": {
+   "fragment_id": "915280936",
+   "type": 11,
+   "heading": "Artigo 14.º — Candidaturas",
+   "in_force_from": "2010-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22"
+   ],
+   "markdown": "###### Artigo 14.º — Candidaturas\n\n1 - As candidaturas são apresentadas, em qualquer altura, nas direcções regionais de agricultura e pescas (DRAP).\n\n2 - Após a recepção das candidaturas podem ser solicitados esclarecimentos ou documentos necessários à sua análise, devendo o promotor responder no prazo máximo de 10 dias, se outro não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.\n\n3 - O encerramento das candidaturas ocorre em 31 de Outubro de 2013, se data anterior não for fixada pelo gestor.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22"
+  },
+  "915416176": {
+   "fragment_id": "915280937",
+   "type": 11,
+   "heading": "Artigo 15.º — Decisão e contratação",
+   "in_force_from": "2010-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22"
+   ],
+   "markdown": "###### Artigo 15.º — Decisão e contratação\n\n1 - A decisão final compete:\n\na) Ao gestor para as candidaturas relativas a projectos de investimento com uma despesa elegível inferior a (euro) 2 500 000;\n\nb) Ao membro do Governo responsável pelo sector das pescas para as candidaturas relativas aos restantes projectos.\n\n2 - As candidaturas são decididas no prazo máximo de 50 dias a contar da data da respectiva entrada, desde que o processo esteja completo, considerando-se aquele prazo suspenso sempre que sejam solicitados esclarecimentos, informações ou documentos.\n\n3 - O Instituto de Financiamento da Agricultura e Pescas, adiante designado por IFAP, notifica o promotor, no prazo de 10 dias após o seu conhecimento, da decisão final de concessão do apoio, remetendo o contrato para assinatura, ou informando o local onde o mesmo pode ser assinado.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22"
+  },
+  "915416177": {
+   "fragment_id": "915280941",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações dos beneficiários",
+   "in_force_from": "2010-04-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 4/2010 - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/4-2010-459942), produz efeitos a partir de 2008-06-14"
+   ],
+   "markdown": "###### Artigo 19.º — Obrigações dos beneficiários\n\nSem prejuízo das obrigações previstas no artigo 11.º do Decreto-Lei n.º 81/2008, de 16 de Maio, quando aplicável, constituem obrigações dos beneficiários:\n\na) Iniciar a execução dos projectos até 150 dias a contar da data da outorga do competente contrato com o IFAP e completar essa execução no prazo de 18 meses a contar da mesma data;\n\nb) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação dos projectos;\n\nc) Aplicar integralmente os apoios na realização do projecto de investimento, com vista à execução dos objectivos que justificaram a sua atribuição;\n\nd) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as obrigações para o efeito contraídas perante terceiros, sempre de forma a não perturbar a cabal realização dos objectivos dos apoios;\n\ne) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando, nem modificando o mesmo, sem prévia autorização do gestor;\n\nf) Comprovar até à data de apresentação do último pedido de pagamento a existência de seguro marítimo de casco com cobertura extensível a doca seca no montante mínimo do valor do apoio público, à excepção das embarcações de pesca local.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 4/2010 - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/4-2010-459942), produz efeitos a partir de 2008-06-14"
+  },
+  "915416204": {
+   "fragment_id": "915280933",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas não elegíveis",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+   ],
+   "markdown": "###### Artigo 11.º — Despesas não elegíveis\n\nSem prejuízo do disposto no artigo 6.º do Decreto-Lei n.º 81/2008, de 16 de maio, para efeitos de concessão dos apoios previstos neste regime, não são elegíveis as seguintes despesas:\n\na) Trabalhos exclusivamente de manutenção corrente;\n\nb) Trabalhos relativos ao aumento dos porões de peixe;\n\nc) Aquisição de equipamentos e realização de trabalhos que aumentem a capacidade de captura da embarcação ou considerados dispensáveis para a actividade da embarcação;\n\nd) (Revogado.)\n\ne) Trabalhos ou equipamentos com a mesma natureza de outros que tenham sido objecto de apoio público há menos de cinco anos;\n\nf) Despesas de pré-financiamento, de constituição de processos de empréstimo, de assessoria jurídica e de constituição de fundos de maneio.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+  },
+  "915416205": {
+   "fragment_id": "915280936",
+   "type": 11,
+   "heading": "Artigo 14.º — Candidaturas",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22"
+   ],
+   "markdown": "###### Artigo 14.º — Candidaturas\n\n1 - As candidaturas são apresentadas, em qualquer altura, nas direcções regionais de agricultura e pescas (DRAP).\n\n2 - Após a recepção das candidaturas podem ser solicitados esclarecimentos ou documentos necessários à sua análise, devendo o promotor responder no prazo máximo de 10 dias, se outro não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.\n\n3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22"
+  },
+  "915416206": {
+   "fragment_id": "915280937",
+   "type": 11,
+   "heading": "Artigo 15.º — Decisão e contratação",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22"
+   ],
+   "markdown": "###### Artigo 15.º — Decisão e contratação\n\n1 - A decisão final compete:\n\na) Ao gestor para as candidaturas relativas a projectos de investimento com uma despesa elegível inferior a (euro) 2 500 000;\n\nb) Ao membro do Governo responsável pelo sector das pescas para as candidaturas relativas aos restantes projectos.\n\n2 - As candidaturas são decididas no prazo máximo de 50 dias a contar da data da respectiva entrada, desde que o processo esteja completo, considerando-se aquele prazo suspenso sempre que sejam solicitados esclarecimentos, informações ou documentos.\n\n3 - O Instituto de Financiamento da Agricultura e Pescas, adiante designado por IFAP, notifica o promotor, no prazo de 10 dias após o seu conhecimento, da decisão final de concessão do apoio, remetendo o contrato para assinatura, ou informando o local onde o mesmo pode ser assinado.\n\n4 - O IFAP, após a receção do contrato devidamente assinado pelo promotor, dispõe de 10 dias para o outorgar e devolver um exemplar ao promotor.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22"
+  },
+  "915416207": {
+   "fragment_id": "915280938",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento dos apoios",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+   ],
+   "markdown": "###### Artigo 16.º — Pagamento dos apoios\n\n1 - O pagamento do apoio é feito pelo IFAP, após apresentação pelo promotor, nas direcções regionais de agricultura e pescas, adiante designadas por DRAP, dos documentos comprovativos do pagamento das despesas, em conformidade com formulários próprios.\n\n2 - A primeira prestação do apoio só é paga após a realização de 5% do investimento elegível.\n\n3 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 10 % desse apoio.\n\n4 - No caso dos projectos visando a substituição de motores com redução da potência por um grupo de embarcações, nos termos do artigo 8.º, o pagamento das despesas relativas à substituição do motor tem lugar posteriormente à confirmação da redução prevista da potência de todas as embarcações do grupo, não se aplicando o disposto nos n.os 2 e 3.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+  },
+  "915416208": {
+   "fragment_id": "915280939",
+   "type": 11,
+   "heading": "Artigo 17.º — Adiantamento dos apoios",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 106/2010 - Diário da República n.º 35/2010, Série I de 2010-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/106-2010-609337), em vigor a partir de 2010-02-20"
+   ],
+   "markdown": "###### Artigo 17.º — Adiantamento dos apoios\n\n1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50% do valor do apoio, após a receção de um exemplar do respetivo contrato de atribuição outorgado pelo IFAP.\n\n2 - (Revogado.)\n\n3 - O promotor disporá de um período de seis meses, após a concessão do adiantamento, para demonstrar a realização de 50% do investimento elegível, mediante a apresentação dos correspondentes comprovativos de despesa.\n\n4 - Em caso de incumprimento da obrigação prevista no número 3:\n\na) É aplicada ao promotor uma penalização correspondente ao valor dos juros de mora à taxa legal, calculados sobre o valor do adiantamento;\n\nb) Decorridos 30 dias após o termo do prazo a que alude o número 3 sem que o promotor tenha ainda cumprido a obrigação aí prevista, poderá ser-lhe exigida a devolução do adiantamento, acrescido de juros de mora à taxa legal.\n\n5 - Os adiantamentos são concedidos após a apresentação de garantias a favor do IFAP.\n\n6 - A concessão e o montante dos adiantamentos ficam limitados às disponibilidades financeiras do PROMAR.\n\n7 - O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 16º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 106/2010 - Diário da República n.º 35/2010, Série I de 2010-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/106-2010-609337), em vigor a partir de 2010-02-20"
+  },
+  "915416209": {
+   "fragment_id": "915280940",
+   "type": 11,
+   "heading": "Artigo 18.º — Correcções financeiras",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+   ],
+   "markdown": "###### Artigo 18.º — Correcções financeiras\n\n1 - Sempre que tenham sido concedidos apoios públicos à modernização da embarcação objecto do projecto há menos de cinco anos, o montante máximo da despesa elegível será diminuído pro rata temporis, estipulando-se, como referência inicial e final, a data da última factura paga imputável ao projecto apoiado e a da apresentação da candidatura ao PROMAR.\n\n2 - Uma ajuda ao investimento a bordo de uma embarcação, concedida ao abrigo do presente regime, será reembolsada pro rata temporis quando a embarcação em causa for cancelada no registo da frota de pesca da União Europeia, antes de decorridos cinco anos a contar da data da última fatura paga imputável ao projeto apoiado, salvo se o cancelamento resultar de motivo de força maior e o promotor não estivesse obrigado a constituir seguro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+  },
+  "915416210": {
+   "fragment_id": "915280941",
+   "type": 11,
+   "heading": "Artigo 19.º — Obrigações dos beneficiários",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 4/2010 - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/4-2010-459942), produz efeitos a partir de 2008-06-14"
+   ],
+   "markdown": "###### Artigo 19.º — Obrigações dos beneficiários\n\n1 - Sem prejuízo das obrigações previstas no artigo 11º do Decreto-Lei nº 81/2008, de 16 de maio, quando aplicável, constituem obrigações dos beneficiários:\n\na) Iniciar a execução dos projetos até 180 dias a contar da data da receção de um exemplar do contrato de atribuição do apoio, devidamente outorgado pelo IFAP, e concluir essa execução até 18 meses a contar da mesma data.\n\nb) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação dos projectos;\n\nc) Aplicar integralmente os apoios na realização do projecto de investimento, com vista à execução dos objectivos que justificaram a sua atribuição;\n\nd) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as obrigações para o efeito contraídas perante terceiros, sempre de forma a não perturbar a cabal realização dos objectivos dos apoios;\n\ne) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando, nem modificando o mesmo, sem prévia autorização do gestor;\n\nf) Comprovar até à data de apresentação do último pedido de pagamento a existência de seguro marítimo de casco com cobertura extensível a doca seca no montante mínimo do valor do apoio público, à excepção das embarcações de pesca local.\n\ng) Comprovar, até à data de apresentação do último pedido de pagamento, que detém uma situação financeira equilibrada, de acordo com o anexo IV ao presente Regulamento, exceto nos casos em que essa apreciação não é exigida, nos termos do artigo 12.º.\n\n2 - Excecionalmente, pode ser aceite a prorrogação dos prazos de início e de conclusão do projeto, previstos na alínea a) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao promotor.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 4/2010 - Diário da República n.º 1/2010, Série I de 2010-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/4-2010-459942), produz efeitos a partir de 2008-06-14"
+  },
+  "915416211": {
+   "fragment_id": "915280942",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração dos projectos aprovados",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+   ],
+   "markdown": "###### Artigo 20.º — Alteração dos projectos aprovados\n\nPodem ser admitidas alterações técnicas, desde que se mantenha a conceção económica e estrutural do projeto aprovado, seguindo-se o disposto nos n.os 2 e seguintes do artigo 14.º do Decreto-Lei n.º 81/2008, de 16 de maio, delas não podendo resultar o aumento do apoio público.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+  },
+  "915416212": {
+   "fragment_id": "915280944",
+   "type": 14,
+   "heading": "Anexo I — Critério para avaliação de situação financeira pré-projeto",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+   ],
+   "markdown": "## Anexo I — Critério para avaliação de situação financeira pré-projeto\n\n[a que se refere o artigo 3º, alínea b)]\n\n1 - Para efeitos do disposto na alínea b) do artigo 3º e sem prejuízo do disposto no nº 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré-projeto seja igual ou superior a 15%. A autonomia financeira pré-projeto tem por base o último exercício encerrado à data de apresentação das candidaturas.\n\n2 - A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:\n\nAutonomia financeira = (CP / AL) x 100\n\nem que:\n\nCP - capitais próprios da empresa, incluindo os suprimentos e ou empréstimos de sócios ou acionistas que contribuam para garantir o indicador referido, desde que venham a ser incorporados em capital próprio antes da assinatura do contrato.\n\nAL - ativo líquido da empresa.\n\n3 - Relativamente aos promotores que, à data de apresentação das candidaturas, não tenham desenvolvido qualquer actividade, ou não tenha ainda decorrido o prazo legal de apresentação do balanço e contas, bem como aos empresários em nome individual sem contabilidade organizada, considera-se que possuem uma situação financeira equilibrada se suportarem com capitais próprios pelo menos 20 % do custo total do investimento.\n\n4 - Os promotores poderão comprovar o indicador referido no nº 1 com informação mais recente, mas sempre referida a uma data anterior à da apresentação da candidatura, devendo para o efeito apresentar os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas, nos termos do nº 3 do artigo 4º do Decreto-Lei nº 81/2008, de 16 de maio, na redação dada pelo Decreto-Lei nº 37/2010 de 20 de abril.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+  },
+  "915416213": {
+   "fragment_id": "915418788",
+   "type": 14,
+   "heading": "Anexo IV — Critério para avaliação de situação financeira pós-projeto",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+   ],
+   "markdown": "## Anexo IV — Critério para avaliação de situação financeira pós-projeto\n\n[a que se refere o artigo 19º, nº 1, alínea g)]\n\n1 - Para efeitos do disposto na alínea g) do nº 1 do artigo 19º, e sem prejuízo do disposto no nº 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pós-projeto seja igual ou superior a 20%. A autonomia financeira pós-projeto tem por base o último exercício encerrado à data de apresentação do último pedido de pagamento.\n\n2 - A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:\n\nAutonomia financeira = (CP / AL) x 100\n\nem que:\n\nCP - capitais próprios da empresa;\n\nAL - ativo líquido da empresa.\n\n3 - Os promotores poderão comprovar o indicador referido no nº 1 com informação mais recente, devendo para o efeito apresentar os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.\n\n> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22"
+  },
+  "915500377": {
+   "fragment_id": "915280936",
+   "type": 11,
+   "heading": "Artigo 14.º — Candidaturas",
+   "in_force_from": "2014-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 109/2014 - Diário da República n.º 98/2014, Série I de 2014-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), em vigor a partir de 2014-05-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22"
+   ],
+   "markdown": "###### Artigo 14.º — Candidaturas\n\n1 - As candidaturas são apresentadas, em qualquer altura, nas direcções regionais de agricultura e pescas (DRAP).\n\n2 - Após a recepção das candidaturas podem ser solicitados esclarecimentos ou documentos necessários à sua análise, devendo o promotor responder no prazo máximo de 10 dias, se outro não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.\n\n3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.\n\n4 - Ao estabelecer novo período de apresentação de candidaturas ao abrigo do disposto no número anterior, o Gestor pode igualmente determinar:\n\na) A tipologia de projetos suscetíveis de apoio, no contexto dessa reabertura do período de apresentação de candidaturas;\n\nb) A dotação disponível para novas aprovações, da qual dependerá a análise das candidaturas em carteira, face à dimensão dos investimentos nelas previstos;\n\nc) As regras de seleção das candidaturas, sem prejuízo dos critérios de seleção estabelecidos segundo o disposto no artigo 8.º do Decreto-Lei n.º 81/2008, de 16 de maio;\n\nd) Os prazos de execução dos projetos, tendo em conta o período de elegibilidade temporal das despesas previsto no artigo 55.º, n.º 1, do Regulamento n.º 1198/2006, do Conselho, de 27 de julho de 2006.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 109/2014 - Diário da República n.º 98/2014, Série I de 2014-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), em vigor a partir de 2014-05-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 312/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/312-2013-503051), em vigor a partir de 2013-10-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 225/2010 - Diário da República n.º 77/2010, Série I de 2010-04-21](https://diariodarepublica.pt/dr/detalhe/portaria/225-2010-613231), em vigor a partir de 2010-04-22"
+  }
+ }
+}

@@ -1,0 +1,572 @@
+---
+schema_version: '1.0'
+id: pt:dre:67098360:por
+title: Decreto-Lei n.º 67/2015
+short_title: null
+summary: No uso da autorização legislativa pela Lei n.º 73/2014, de 2 de setembro, aprova o regime jurídico da exploração
+  e prática das apostas desportivas à cota de base territorial, e altera a Tabela Geral do Imposto do Selo, e os Estatutos
+  da Santa Casa da Misericórdia de Lisboa, aprovados pelo Decreto-Lei n.º 235/2008, de 3 de dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 67/2015
+official_date: null
+publication_date: '2015-04-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2015, Série I de 2015-04-29
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2171 - 2175
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/04/08300/0217102175.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-02-03'
+version_history:
+  file: decreto-lei-67-2015.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-05-03'
+    amending: pt:dre:106955050:por
+    amending_title: Lei n.º 13/2017
+    changes:
+    - Altera Artigo 4.º
+  - date: '2017-09-02'
+    amending: pt:dre:108063582:por
+    amending_title: Lei n.º 101/2017
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 12.º
+  - date: '2019-02-10'
+    amending: pt:dre:116043536:por
+    amending_title: Lei n.º 49/2018
+    changes:
+    - Altera Artigo 4.º
+  - date: '2024-02-03'
+    amending: pt:dre:837135334:por
+    amending_title: Lei n.º 14/2024
+    changes:
+    - Revoga Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/67/2015/p/cons/20240119/pt/html
+  oj: null
+  dre: '67098360'
+  dre_path: /dr/detalhe/decreto-lei/67-2015-67098360
+  internal: pt:dre:67098360:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2015-67098360
+  metadata_url: https://data.dre.pt/eli/dec-lei/67/2015/p/cons/20240119/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-67118034
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-67118034
+  retrieved_at: '2026-10-22T11:59:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2658e8546e2184ff890e4a000b23db3978059834870dfb53ebfe5b47ac238730
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:59:09Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-67-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Crime
+- Jogos de Fortuna e Azar
+- Multa
+- Definição de Competências
+- Estatuto
+- Fiscalização
+- Lisboa
+- Pagamento
+- Imposto do SELO
+- Mediador dos Jogos Sociais do Estado
+- Apostas Mútuas Desportivas
+- Santa Casa da Misericórdia
+- Máquinas de Jogo
+- Prémio
+- Regime Jurídico
+- Sanção
+- Departamento de Jogos
+- Dados Pessoais
+- Tabela Geral do Imposto do SELO
+- Apostas Desportivas à Cota de Base Territorial
+relationships:
+- type: amended_by
+  target: pt:dre:106955050:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050
+  date: '2017-05-02'
+- type: amended_by
+  target: pt:dre:108063582:por
+  label: Altera Artigo 4.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582
+  date: '2017-08-28'
+- type: amended_by
+  target: pt:dre:116043536:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536
+  date: '2018-08-14'
+- type: amended_by
+  target: pt:dre:837135334:por
+  label: Revoga Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334
+  date: '2024-01-19'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/235/2008/12/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/235/2008/12/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/282/2003/11/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/282/2003/11/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/56/2006/03/15
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/56/2006/03/15
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/150/1999/09/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/150/1999/09/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/73/2014/09/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/73/2014/09/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/112/2013/03/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/112/2013/03/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/216/2012/07/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/216/2012/07/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/313/2004/03/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/313/2004/03/23/p/dre
+article_structure:
+  article_count: 29
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:59:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 67/2015
+
+Decreto-Lei n.º 67/2015
+
+de 29 de abril
+
+O Governo pretende, de uma forma abrangente e compreensiva, proceder à definição do regime jurídico da exploração e prática de diversos tipos de jogos a dinheiro.
+
+Subjazem, também, a este propósito razões que se prendem com a necessidade de evitar a prática de atividades criminosas e combater a fraude e o branqueamento de capitais, assegurar a integridade, fiabilidade e transparência das operações de jogo, proteger os menores e assegurar a proteção dos jogadores, bem como delimitar e enquadrar a oferta e o consumo e controlar a sua exploração, garantindo a segurança e a ordem pública.
+
+Neste contexto, também se enquadram as apostas desportivas à cota de base territorial, cuja exploração e prática não é atualmente permitida.
+
+Pretende-se, agora, à semelhança do que aconteceu no passado, que a exploração e prática das apostas desportivas à cota de base territorial deixem de ser atividades proibidas para passar a dispor de um quadro normativo que as enquadre e garanta o seu desenvolvimento com condições para a prática de um jogo estritamente controlado, reduzindo ou anulando o interesse pelo jogo clandestino e ilícito. Desta forma, estimula-se a cidadania e o jogo responsável, reforçando-se, em simultâneo, a proteção da ordem pública.
+
+Na exploração e prática das apostas desportivas à cota de base territorial, verifica-se com especial acuidade a necessidade de assegurar e garantir os princípios e valores anteriormente enunciados.
+
+O Estado, detendo o exclusivo da exploração do jogo em Portugal, vai assim atribuir, também em exclusivo, para todo o território nacional, o direito de exploração das apostas desportivas à cota de base territorial a uma entidade que tutela diretamente e à qual reconhece a capacidade, a integridade e idoneidade para desenvolver esta atividade em nome e por sua conta, no integral respeito pelos princípios e valores enunciados, condições também essenciais para defender a integridade do desporto através do reforço da luta contra a corrupção e o falseamento dos resultados.
+
+Esta opção assenta na necessidade de garantir, no momento em que se disponibilizam pela primeira vez as apostas desportivas à cota de base territorial, que elas se destinam a canalizar a procura para esta oferta legal do Estado e que a sua exploração pela Santa Casa da Misericórdia de Lisboa contribua decisivamente para a proteção, transparência e idoneidade deste tipo de apostas, bem como para a prevenção dos riscos associados às mesmas.
+
+Adicionalmente, a oferta legal deste novo jogo social do Estado posiciona-se numa lógica de grande proximidade com os apostadores, pelo que são exigidas especiais cautelas na forma como essa disponibilização é feita e controlada, cautelas que a Santa Casa da Misericórdia de Lisboa, atenta nomeadamente a sua natureza, conforme resulta dos seus estatutos, aprovados pelo Decreto-Lei n.º 235/2008, de 3 de dezembro, alterado pelo Decreto-Lei n.º 114/2011, de 30 de novembro, permite assegurar.
+
+Com efeito, a Santa Casa da Misericórdia de Lisboa já tem, desde longa data, uma rede de mediadores em estabelecimentos físicos por todo o país, que disponibilizam ao público os jogos sociais do Estado sem que se concretizem ameaças à ordem pública.
+
+Entende, por isso, o Governo que beneficiar dessa rede e da experiência existente para disponibilizar apostas desportivas à cota de base territorial, de forma segura e controlada, é a solução que melhor acautela e defende o interesse público e protege os apostadores. A existência de mediadores idóneos, sujeitos à fiscalização da Santa Casa da Misericórdia de Lisboa, permite, ainda, prevenir e controlar os fenómenos de fraude e de branqueamento de capitais.
+
+Acresce, finalmente, que não só o financiamento das políticas sociais do Estado é também beneficiado pelos resultados da exploração deste novo jogo social, como igualmente os fins sociais e de assistência que a Santa Casa da Misericórdia de Lisboa prossegue são beneficiados por via da afetação de parte desses resultados.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Comissão Nacional de Proteção de Dados e a Santa Casa da Misericórdia de Lisboa
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 73/2014, de 2 de setembro, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei aprova o regime jurídico da exploração e prática das apostas desportivas à cota de base territorial, e altera a Tabela Geral do Imposto do Selo, anexa ao Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de setembro, e os Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo Decreto-Lei n.º 235/2008, de 3 de dezembro, alterado pelo Decreto-Lei n.º 114/2011, de 30 de novembro.
+
+###### Artigo 2.º — Aprovação do regime jurídico da exploração e prática das apostas desportivas à cota de base territorial
+
+É aprovado, em anexo ao presente decreto-lei e do qual faz parte integrante, o regime jurídico da exploração e prática das apostas desportivas à cota de base territorial.
+
+###### Artigo 3.º — Alteração à Tabela Geral do Imposto do Selo
+
+A verba 11. da Tabela Geral do Imposto do Selo, anexa ao Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de setembro, passa a ter a seguinte redação:
+
+«11 - [...]:
+
+11.1 - [...]:
+
+11.1.1 - [...].
+
+11.1.2 - [...].
+
+11.2 - [...]:
+
+11.2.1 - [...];
+
+11.2.2 - [...];
+
+11.3 - Jogos sociais do Estado: Euromilhões, Lotaria Nacional, Lotaria Instantânea, Totobola, Totogolo, Totoloto, Joker e apostas desportivas à cota de base territorial - incluídos no preço de venda da aposta - 4,5 %;
+
+11.4 - Jogos sociais do Estado: Euromilhões, Lotaria Nacional, Lotaria Instantânea, Totobola, Totogolo, Totoloto, Joker e apostas desportivas à cota de base territorial - sobre a parcela do prémio que exceder (euro) 5.000 - 20 %.»
+
+###### Artigo 4.º — Alteração aos Estatutos da Santa Casa da Misericórdia de Lisboa
+
+Os artigos 27.º e 31.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo Decreto-Lei n.º 235/2008, de 3 de dezembro, alterado pelo Decreto-Lei n.º 114/2011, de 30 de novembro, passam a ter a seguinte redação:
+
+«Artigo 27.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...]:
+
+a) [...];
+
+b) [...];
+
+c) [...];
+
+d) [...];
+
+e) [...];
+
+f) [...];
+
+g) [...];
+
+h) [...];
+
+i) [...];
+
+j) [...],
+
+l) [...];
+
+m) [...];
+
+n) [...];
+
+o) [...];
+
+p) Proceder à consulta de bases de dados públicas com vista a obter informação sobre a identificação, idade e número de identificação fiscal das pessoas individuais que se registem no seu sítio na Internet ou que realizem apostas de base territorial, nos termos de protocolo a celebrar com as entidades públicas detentoras das bases de dados, no respeito pela legislação relativa à proteção de dados pessoais.
+
+Artigo 31.º
+
+[...]
+
+[...]:
+
+a) Receber e guardar, em segurança, as cópias dos registos das apostas mútuas efetuadas através do sistema de registo e validação informático e lavrar ata desta operação;
+
+b) Proceder ao reconhecimento dos direitos a prémio, através de confrontação entre o número de registo e validação informáticos e número de acertos verificados nas apostas constantes dos suportes informáticos guardados em segurança e a informação relativa a apostas apuradas no escrutínio de prémios, disponibilizada pelo DJ;
+
+c) [...];
+
+d) Fiscalizar a segurança e a integridade dos registos das apostas desportivas à cota de base territorial efetuadas através do sistema de registo e validação informático e lavrar ata destas operações.»
+
+###### Artigo 5.º — Regulamentação
+
+1 - O regulamento das apostas desportivas à cota de base territorial previsto no artigo 6.º do regime jurídico constante do anexo ao presente decreto-lei é aprovado por portaria do membro do Governo responsável pela área da segurança social.
+
+2 - As condições de atribuição do montante previsto na alínea c) do n.º 2 do artigo 12.º do regime jurídico constante do anexo ao presente decreto-lei são fixadas por portaria dos membros do Governo responsáveis pelas áreas da segurança social e do desporto.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 60 dias a contar da data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 26 de fevereiro de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - António de Magalhães Pires de Lima - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 23 de abril de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 24 de abril de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo — (a que se refere o artigo 2.º)
+
+Regime Jurídico da Exploração e Prática das Apostas Desportivas à Cota de Base Territorial
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O regime jurídico da exploração e prática das apostas desportivas à cota de base territorial, abreviadamente designado regime jurídico, regula a exploração e prática das apostas desportivas à cota de base territorial.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O presente regime jurídico aplica-se às «apostas desportivas à cota de base territorial», definidas como o jogo social do Estado no qual os participantes prognosticam um ou mais factos ocorridos no decurso de um ou vários acontecimentos ou eventos desportivos, de desfecho incerto e não dependente da vontade dos participantes, quando o valor do prémio seja determinado em função de uma cota previamente definida pelo organizador do jogo e do montante apostado pelo jogador na realização do seu prognóstico.
+
+###### Artigo 3.º — Direito de exploração
+
+1 - O direito de explorar as apostas desportivas à cota é reservado ao Estado.
+
+2 - O Estado atribui à Santa Casa da Misericórdia de Lisboa, através do seu departamento de jogos, o direito de organizar e explorar, em regime de exclusividade para todo o território nacional, as apostas desportivas à cota de base territorial, sem prejuízo do disposto no número seguinte.
+
+3 - O direito de organizar e explorar apostas desportivas à cota de base territorial referido no número anterior não abrange a exploração em suporte eletrónico a que se refere o Decreto-Lei n.º 282/2003, de 8 de novembro.
+
+###### Artigo 4.º — Proibições
+
+1 - É proibida a prática de apostas desportivas à cota, diretamente ou por interposta pessoa:
+
+a) Aos titulares dos órgãos de soberania e aos Representantes da República para as Regiões Autónomas;
+
+b) Aos titulares dos órgãos de Governo das Regiões Autónomas;
+
+c) Aos magistrados do Ministério Público, às autoridades policiais, às forças de segurança e seus agentes;
+
+d) Aos maiores acompanhados dependentes de representação ou de autorização prévia para a prática de atos patrimoniais;
+
+e) Àqueles que, voluntária ou judicialmente, estejam impedidos de jogar;
+
+f) Aos titulares dos órgãos de administração da Santa Casa da Misericórdia de Lisboa e dos órgãos do seu departamento de jogos;
+
+g) Aos trabalhadores do departamento de jogos da Santa Casa da Misericórdia de Lisboa;
+
+h) A quaisquer pessoas que tenham ou possam ter acesso aos sistemas de apostas desportivas à cota de base territorial;
+
+i) A quaisquer pessoas, tais como os dirigentes desportivos, os técnicos desportivos, os treinadores, os praticantes desportivos, profissionais e amadores, os juízes, os árbitros, os empresários desportivos e os responsáveis das entidades organizadoras dos eventos objeto de apostas desportivas, quando direta ou indiretamente, tenham ou possam ter qualquer intervenção no resultado dos referidos eventos;
+
+j) A quaisquer pessoas relativamente às quais a lei estabeleça uma proibição de jogar.
+
+2 - Sem prejuízo das demais disposições legais e regulamentares que impendam sobre os trabalhadores do departamento de jogos da Santa Casa da Misericórdia de Lisboa e sobre os mediadores dos jogos sociais do Estado, está-lhes vedado, em especial:
+
+a) Fazer empréstimos em dinheiro ou por qualquer outro meio aos apostadores;
+
+b) Ter participação, direta ou indireta, nos resultados das apostas.
+
+3 - Sem prejuízo das demais disposições legais e regulamentares aplicáveis, o departamento de jogos da Santa Casa da Misericórdia de Lisboa e os mediadores dos jogos sociais do Estado devem recusar o pagamento de prémios quando seja do seu conhecimento que o premiado se encontra proibido de apostar, caducando os respetivos prémios.
+
+4 - São proibidas as apostas desportivas em quaisquer eventos, provas ou competições desportivas de escalões de formação, nestes se compreendendo todos os anteriores ao da categoria sénior, como tal definido pela respetiva federação desportiva dotada do estatuto de utilidade pública desportiva.
+
+5 - São proibidas as apostas desportivas em eventos em que participem sociedades desportivas que não cumpram as obrigações legalmente definidas de transparência da respetiva titularidade, enquanto durar tal incumprimento
+
+> Alterado pelo/a Artigo 18.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2019-02-10
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 13/2017 - Diário da República n.º 84/2017, Série I de 2017-05-02](https://diariodarepublica.pt/dr/detalhe/lei/13-2017-106955050), em vigor a partir de 2017-05-03
+
+###### Artigo 5.º — Política de jogo responsável
+
+1 - O desenvolvimento de uma política de jogo responsável exige que na exploração das apostas desportivas à cota seja salvaguardada a sua integridade, fiabilidade e segurança e assegurada a consciencialização da complexidade desta atividade e a necessidade de serem promovidas, em simultâneo, ações preventivas de sensibilização, de informação e difusão de boas práticas.
+
+2 - O departamento de jogos da Santa Casa da Misericórdia de Lisboa, em articulação com as entidades competentes na matéria, deve promover a realização de estudos tendentes a identificar comportamentos aditivos e adotar medidas preventivas e dissuasoras.
+
+### Capítulo II — Exploração e prática das apostas desportivas à cota de base territorial
+
+###### Artigo 6.º — Regras de exploração
+
+1 - As regras de exploração das apostas desportivas à cota de base territorial constam do regulamento das apostas desportivas à cota de base territorial, o qual contém normas relativas, nomeadamente, a:
+
+a) Sistema de jogo;
+
+b) Modo de realização das apostas;
+
+c) Momento da aposta;
+
+d) Tipos de aposta;
+
+e) Modalidades de aposta;
+
+f) Oferta de apostas;
+
+g) Preço da aposta;
+
+h) Limites e restrições das apostas;
+
+i) Normas a que obedece a atribuição de prémios e seus montantes;
+
+j) Normas a que obedece o pagamento de prémios;
+
+k) Prazos de caducidade;
+
+l) Fiscalização do jogo;
+
+m) Reclamações.
+
+2 - A participação nas apostas desportivas à cota de base territorial implica a adesão às normas constantes do regulamento das apostas desportivas à cota de base territorial.
+
+3 - No verso dos bilhetes de participação nas apostas desportivas à cota de base territorial consta obrigatoriamente um extrato das normas essenciais do regulamento das apostas desportivas à cota de base territorial.
+
+###### Artigo 7.º — Mediadores
+
+1 - Os mediadores dos jogos sociais do Estado são representantes dos apostadores junto do departamento de jogos da Santa Casa da Misericórdia de Lisboa e agem exclusivamente nessa qualidade, não representando em caso algum o departamento de jogos junto dos apostadores.
+
+2 - Os erros ou omissões cometidos pelos mediadores no exercício das suas funções não são imputáveis ao departamento de jogos da Santa Casa da Misericórdia de Lisboa.
+
+3 - Os mediadores são responsáveis pelo cumprimento dos deveres e obrigações estabelecidos no presente regime jurídico, no regulamento das apostas desportivas à cota de base territorial e no regulamento dos mediadores dos jogos sociais do Estado, aprovado pela Portaria n.º 313/2004, de 23 de março, alterada pelas Portarias n.os 216/2012, de 18 de julho, e 112/2013, de 21 de março.
+
+###### Artigo 8.º — Condições de participação
+
+1 - A participação nas apostas desportivas à cota de base territorial processa-se pela inscrição das apostas em bilhetes de modelo adotado pelo departamento de jogos da Santa Casa da Misericórdia de Lisboa ou por digitação no terminal de jogo pelo mediador dos jogos sociais do Estado, e pelo pagamento do preço correspondente e registo e validação das apostas no sistema informático do departamento de jogos.
+
+2 - As apostas e o respetivo preço são entregues diretamente ao departamento de jogos da Santa Casa da Misericórdia de Lisboa ou a mediadores autorizados por este departamento, nos termos do regulamento dos mediadores dos jogos sociais do Estado, aprovado pela Portaria n.º 313/2004, de 23 de março, alterada pelas Portarias n.os 216/2012, de 18 de julho, e 112/2013, de 21 de março.
+
+3 - O departamento de jogos da Santa Casa da Misericórdia de Lisboa deve, diretamente ou através dos mediadores por este autorizados, exigir aos apostadores, aquando da realização das apostas e do pagamento dos prémios, informação sobre a respetiva identificação, idade e ou número de identificação fiscal, para efeitos de verificação da respetiva identidade, nomeadamente mediante consulta às bases de dados de entidades públicas.
+
+4 - A consulta às bases de dados públicas referida no número anterior é regulada por protocolo a celebrar entre o departamento de jogos da Santa Casa da Misericórdia de Lisboa e as entidades responsáveis pelas bases de dados, no respeito pela legislação relativa à proteção de dados pessoais.
+
+###### Artigo 9.º — Meios de pagamento
+
+1 - Os valores apostados são pagos em numerário ou mediante cartão bancário de débito pela totalidade do montante apostado.
+
+2 - Os prémios constantes dos títulos apresentados a pagamento são pagos em numerário ou por transferência bancária para a conta indicada pelo portador do título, nos termos definidos no regulamento das apostas desportivas à cota de base territorial.
+
+###### Artigo 10.º — Órgãos de fiscalização
+
+1 - Compete ao júri dos concursos, com a composição prevista no artigo 30.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo Decreto-Lei n.º 235/2008, de 3 de dezembro, alterado pelo Decreto-Lei n.º 114/2011, de 30 de novembro, e do regulamento das apostas desportivas à cota de base territorial, a fiscalização da segurança e integridade das apostas efetuadas, bem como o reconhecimento dos direitos a prémio.
+
+2 - Todo o possuidor de um recibo emitido pelo sistema central de registo e validação informático do departamento de jogos que, tendo apresentado o mesmo para pagamento num mediador dos jogos sociais do Estado, seja informado de que não tem direito a prémio, de que o prémio já foi pago ou de que existe algum outro motivo que impeça o seu pagamento, tem o direito de reclamar para o júri de reclamações, com a composição prevista no artigo 35.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo Decreto-Lei n.º 235/2008, de 3 de dezembro, alterado pelo Decreto-Lei n.º 114/2011, de 30 de novembro.
+
+###### Artigo 11.º — Prémios
+
+O montante destinado a prémios é definido anualmente pelo departamento de jogos da Santa Casa da Misericórdia de Lisboa, devendo corresponder a uma percentagem final entre 55 % e 85 % do montante total anual das apostas admitidas e não anuladas.
+
+###### Artigo 12.º — Receita
+
+1 - A receita é constituída pelo montante total das apostas admitidas e não anuladas.
+
+2 - Da receita apurada nos termos do número anterior são deduzidos:
+
+a) O montante correspondente ao Imposto do Selo;
+
+b) O montante correspondente a 2 % destinado à Santa Casa da Misericórdia de Lisboa;
+
+c) O montante correspondente a 3,5 % a atribuir às entidades a repartir pelos clubes ou pelos praticantes, consoante o caso, e pela federação que organiza o evento, objeto de aposta, incluindo as ligas se as houver, para promoção da modalidade e execução de programas de prevenção, formação e educação sobre o combate à manipulação de competições e corrupção desportiva, em defesa da integridade das competições desportivas;
+
+d) O montante correspondente a 1 %, até perfazer um montante máximo de (euro) 5 000 000,00, para constituição de um fundo destinado ao pagamento de prémios que excedam a receita apurada por evento ou que resultem de reclamações procedentes, em conformidade com as normas regulamentares aplicáveis;
+
+e) O montante correspondente a 0,2 %, até perfazer um montante permanente de (euro) 2 000 000,00 para constituição de um fundo para renovação e manutenção de equipamento, material e programas.
+
+3 - Os encargos com o início da exploração das apostas desportivas à cota de base territorial são suportados pelo fundo de renovação de material e equipamento previsto no Decreto-Lei n.º 84/85, de 28 de março.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02
+
+###### Artigo 13.º — Distribuição dos resultados líquidos de exploração
+
+À distribuição dos resultados líquidos de exploração das apostas desportivas à cota de base territorial aplica-se o disposto no Decreto-Lei n.º 56/2006, de 15 de março, alterado pelos Decretos-Leis n.os 44/2011, de 24 de março, e 106/2011, de 21 de outubro.
+
+###### Artigo 14.º — Prémios caducados
+
+O montante dos prémios caducados nos termos do regulamento das apostas desportivas à cota de base territorial reverte para a Santa Casa da Misericórdia de Lisboa.
+
+### Capítulo III — Regime sancionatório
+
+###### Artigo 15.º — Exploração ilícita de apostas desportivas à cota de base territorial
+
+Quem, por qualquer meio e sem estar para o efeito devidamente autorizado, explorar, promover, organizar ou consentir a exploração de apostas desportivas à cota de base territorial é punido com pena de prisão até cinco anos ou com pena de multa até 500 dias.
+
+###### Artigo 16.º — Apostas desportivas à cota de base territorial fraudulentas
+
+Quem, por qualquer forma, explorar ou praticar apostas desportivas à cota de base territorial, ou assegurar a sorte, através de erro, engano, adulteração ou utilização de qualquer equipamento é punido com pena de prisão de três a oito anos ou com pena de multa até 600 dias.
+
+> Revogado pelo/a Artigo 37.º do/a [Lei n.º 14/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/14-2024-837135334), em vigor a partir de 2024-02-03
+
+###### Artigo 17.º — Desobediência
+
+1 - Quem incumprir ou criar obstrução ao cumprimento das sanções acessórias aplicadas ou das medidas cautelares legalmente previstas é punido com a pena prevista para o crime de desobediência qualificada.
+
+2 - A prática do crime depende de prévia comunicação expressa ao agente de que pode incorrer na pena de desobediência qualificada.
+
+###### Artigo 18.º — Punibilidade da negligência e da tentativa
+
+A negligência e a tentativa são puníveis.
+
+###### Artigo 19.º — Penas acessórias
+
+Em simultâneo com a pena de prisão ou de multa, podem ser aplicadas as seguintes penas acessórias:
+
+a) Interdição, por prazo não superior a cinco anos, do exercício da atividade que com o crime se relacione, incluindo a inibição do exercício de funções de administração, chefia ou fiscalização em entidades cujo objeto social seja a exploração de jogos e apostas, quando a infração tenha sido cometida com flagrante abuso desse cargo ou com manifesta e grave violação dos deveres que lhe são inerentes;
+
+b) Publicação da sentença condenatória a expensas do arguido em locais idóneos ao cumprimento das finalidades de prevenção geral do sistema jurídico, nomeadamente em sítios na Internet e publicações específicas da área de atividade em causa.
+
+###### Artigo 20.º — Responsabilidade penal das pessoas coletivas
+
+1 - As pessoas coletivas, sociedades, ainda que irregularmente constituídas, e outras entidades equiparadas são responsáveis pelos crimes previstos nos artigos 15.º e 16.º quando cometidos:
+
+a) Em seu nome e no interesse coletivo por pessoas que nelas ocupem uma posição de liderança; ou
+
+b) Por quem aja sob autoridade das pessoas referidas na alínea anterior em virtude da violação dos deveres de vigilância ou controlo que lhes incumbem.
+
+2 - Entende-se que ocupam uma posição de liderança os titulares dos órgãos, os representantes da pessoa coletiva e quem nela tiver autoridade para exercer o controlo da sua atividade.
+
+3 - A responsabilidade das pessoas coletivas, sociedades, ainda que irregularmente constituídas, e outras entidades equiparadas é excluída quando o agente tiver atuado contra ordens ou instruções expressas emanadas de quem de direito.
+
+4 - A responsabilidade criminal das entidades referidas no n.º 1 não exclui a responsabilidade individual dos respetivos agentes, nem depende da responsabilização destes.
+
+5 - Se a multa for aplicada a uma entidade sem personalidade jurídica, responde por ela o património comum e, na sua falta ou insuficiência, solidariamente, o património de cada um dos associados.
+
+###### Artigo 21.º — Regime subsidiário
+
+Aos crimes, ao regime processual e à cooperação internacional em matéria penal são subsidiariamente aplicáveis, respetivamente, as disposições do Código Penal, do Código de Processo Penal, da Lei n.º 109/2009, de 15 de setembro, e da Lei n.º 144/99, de 31 de agosto, alterada pelas Leis n.os 104/2001, de 25 de agosto, 48/2003, de 22 de agosto, 48/2007, de 29 de agosto, e 115/2009, de 12 de outubro.
+
+### Capítulo IV — Disposições complementares e finais
+
+###### Artigo 22.º — Tratamento de dados pessoais
+
+1 - O disposto no presente regime jurídico não prejudica a aplicação a todas as atividades por ele abrangidas da legislação em matéria de proteção de dados pessoais, nomeadamente as Leis n.os 67/98, de 26 de outubro, e 41/2004, de 18 de agosto, alterada pela Lei n.º 46/2012, de 29 de agosto, incluindo no que respeita ao exercício dos direitos pelos titulares dos dados e ao regime de acesso de terceiros, em tudo o que não seja legitimado pelo presente regime.
+
+2 - As entidades envolvidas nas apostas desportivas à cota de base territorial, estão sujeitas ao cumprimento dos princípios e regras decorrentes da legislação em matéria de proteção de dados pessoais, bem como ao controlo e fiscalização da Comissão Nacional de Proteção de Dados, no exercício das suas competências legais.
+
+3 - As pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais no âmbito do presente regime jurídico, ficam obrigadas a sigilo profissional, mesmo após o termo das suas funções, de acordo com o disposto no artigo 17.º da Lei n.º 67/98, de 26 de outubro.
+
+###### Artigo 23.º — Imposto do Selo
+
+Cada aposta validamente registada e não anulada está sujeita ao pagamento de Imposto do Selo, nos termos do disposto na verba 11.3 da Tabela Geral do Imposto do Selo, anexa ao Código do Imposto do Selo, aprovado pela Lei n.º 150/99, de 11 de setembro.

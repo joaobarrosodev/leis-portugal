@@ -1,0 +1,170 @@
+---
+schema_version: '1.0'
+id: pt:dre:443560:por
+title: Decreto-Lei n.º 399/83
+short_title: null
+summary: Estabelece disposições tendentes a eliminar eventuais situações de irregularidade nas instalações domésticas de fornecimento
+  de combustíveis gasosos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Indústria e Energia e do Comércio e Turismo
+proposing_entity: null
+official_number: 399/83
+official_date: null
+publication_date: '1983-11-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 257/1983, Série I de 1983-11-08
+  number: '257'
+  series: I
+  supplement: null
+  pages: 3775 - 3776
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/11/25700/37753776.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '443560'
+  dre_path: /dr/detalhe/decreto-lei/399-1983-443560
+  internal: pt:dre:443560:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1983-443560
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1983-443560
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-10-25T00:00:00Z'
+integrity:
+  source_sha256: 2d7f8d5738e8d7d18c4b7d1286fdd209994e21fdbbffe644b00a09e23bd7ede1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-399-443560.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:177873:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 399/83
+
+de 8 de Novembro
+
+Desde sempre têm os problemas da segurança e da utilização dos combustíveis gasosos merecido a atenção do Governo, através da publicação de legislação adequada, que contempla desde a armazenagem, distribuição e qualidade dos aparelhos e dos materiais utilizados nas redes até às condições de instalação dos equipamentos, evacuação dos produtos da combustão e condições de ventilação.
+
+No entanto, a experiência mostra que aqueles mecanismos legais não têm respondido cabalmente aos fins pretendidos, pelo que, com o presente decreto-lei, se visa criar, em complemento dos já existentes, mais um meio para eliminar eventuais situações de irregularidade nas instalações domésticas de fornecimento de combustíveis gasosos.
+
+Deste modo, responsabilizam-se solidariamente, nos termos do n.º 1 do artigo 509.º do Código Civil, os proprietários e os que tiverem a direcção efectiva de todas e quaisquer instalações destinadas a alojamento turístico ou locadas por períodos não superiores a 2 meses.
+
+Entendeu-se, finalmente, que este dispositivo não será de aplicar aos arrendamentos comuns - entendidos estes como os não turísticos e superiores a 2 meses -; portanto, nestes casos, competirá naturalmente ao arrendatário zelar pelo bom funcionamento dos equipamentos domésticos, respondendo, bem como o senhorio, nos termos gerais de direito.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - Os proprietários e os que tiverem a direcção efectiva das instalações referidas no artigo 2.º são solidariamente responsáveis, nos termos fixados no n.º 1 do artigo 509.º do Código Civil, pelos danos ou prejuízos resultantes da própria rede interna destinada à distribuição dos gases, a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 512/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1980-462272), de 28 de Outubro, bem como dos aparelhos ou utensílios destinados ao uso dos gases, designadamente os derivados da sua deficiente instalação, dos sistemas de evacuação dos produtos da combustão, da ventilação dos locais e da ausência de certificação dos aparelhos nos termos da lei.
+
+2 - A responsabilidade fixada pelo número anterior é excluída, se se provar que ao tempo do acidente a rede interna de distribuição e os aparelhos ou utensílios se encontravam de acordo com os requisitos técnicos de certificação de instalação e de segurança de utilização em vigor e em perfeito estado de conservação ou que o acidente é imputável ao próprio lesado ou a terceiro.
+
+3 - Para efeitos do disposto no número anterior constitui prova bastante do cumprimento dos requisitos técnicos e do estado de conservação o certificado de inspecção válido, emitido pela entidade competente, devidamente reconhecida pelo Ministério da Indústria e Energia.
+
+4 - A entidade referida no número anterior deverá comunicar à Secretaria de Estado do Turismo e à câmara municipal respectiva todos os casos de não validação ou não revalidação dos certificados de inspecção dentro dos 15 dias seguintes a tais factos.
+
+5 - O certificado de inspecção caducará se houver substituição dos aparelhos por outros não certificados.
+
+6 - Em relação às instalações referidas no artigo 2.º, em serviço antes da entrada em vigor deste decreto-lei, o certificado de inspecção só será emitido se, para além do cumprimento das outras condições de higiene e segurança, os aparelhos:
+
+a) Estiverem certificados e corresponderem efectivamente às condições impostas pelas normas portuguesas em vigor;
+
+b) Embora não certificados, por a sua instalação ser anterior ao [Decreto-Lei n.º 74/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1977-141628), satisfizerem as regras de higiene e segurança de utilização constantes do Código de Boa Prática aplicável.
+
+7 - À responsabilidade de que trata o n.º 1 deste artigo é aplicável o disposto no n.º 2 do artigo 509.º e no artigo 510.º do Código Civil, com as necessárias adaptações.
+
+###### Art. 2.º Consideram-se abrangidos pelo disposto no artigo anterior:
+
+a) Todos os estabelecimentos classificados pelas entidades competentes como hoteleiros, aldeamentos turísticos, apartamentos turísticos e parques de campismo;
+
+b) Todos os meios complementares de alojamento turístico, desde que classificados como tal pelas entidades competentes, devidamente reconhecidas pela Secretaria de Estado do Turismo;
+
+c) Todas e quaisquer instalações locadas por períodos que não excedam 2 meses, independentemente de terem sido objecto de qualquer classificação.
+
+###### Art. 3.º - 1 - A responsabilidade de que trata o artigo 1.º deste diploma não pode ser excluída ou limitada contratualmente entre locador e locatário antes do acidente.
+
+2 - A responsabilidade de que trata o presente diploma abrange igualmente os danos referidos no n.º 1 do artigo 1.º ocorridos até 30 dias após o termo do período de validade do certificado de inspecção mencionado no n.º 3 do mesmo artigo, salvo quando o requerimento para a sua revalidação tenha dado entrada nos serviços da entidade competente até 30 dias antes de tal termo.
+
+###### Art. 4.º - 1 - Sem prejuízo da responsabilidade de que trata o artigo 1.º, a Secretaria de Estado do Turismo ou a câmara municipal respectiva podem, mediante prévia vistoria, determinar o encerramento imediato de qualquer das instalações referidas no artigo 2.º nos seguintes casos:
+
+a) Sempre que se verifique que as redes internas de distribuição, bem como os aparelhos ou utensílios nelas existentes, não satisfazem os requisitos técnicos de segurança de utilização, nomeadamente quanto aos aspectos referidos na parte final do n.º 1 do artigo 1.º;
+
+b) Sempre que se verifique nelas qualquer acidente motivado pela utilização de gás.
+
+2 - Determinado o encerramento, a reabertura dos estabelecimentos ou a utilização dos locais só poderá ter lugar depois de realizadas as obras ou a alteração dos aparelhos que forem consideradas necessárias por qualquer das entidades referidas no número anterior.
+
+3 - Para efeitos de execução da ordem de encerramento dada nos termos do n.º 1 deste artigo, as autoridades policiais prestarão aos funcionários dos respectivos serviços a colaboração que se mostrar necessária para assegurar o cumprimento daquela determinação.
+
+4 - No caso do encerramento das instalações previsto no n.º 1, os sujeitos referidos no n.º 1 do artigo 1.º deverão indemnizar os locatários desalojados em montante correspondente aos dias de alojamento vincendos já reservados, num mínimo de 5 diárias, sem prejuízo do dispositivo legal sobre o enriquecimento sem causa, uma vez realojados os locatários.
+
+###### Art. 5.º - 1 - Independentemente das providências previstas no artigo anterior, as entidades distribuidoras de gás e os respectivos agentes ou revendedores são obrigados a suspender os fornecimentos destinados às instalações referidas no artigo 2.º que não apresentem o certificado de inspecção válido.
+
+2 - As entidades, bem como os seus agentes ou revendedores, que suspenderem os fornecimentos nos termos do número anterior, são obrigados a comunicar o facto à Secretaria de Estado do Turismo, ao Ministério da Indústria e Energia e à respectiva câmara municipal dentro dos 15 dias seguintes à data da suspensão.
+
+3 - A infracção ao disposto no n.º 1 deste artigo será punida com multa de 100000$00.
+
+4 - A infracção ao disposto no n.º 2 deste artigo será punida com multa de 10000$00.
+
+5 - A instrução dos processos destinados à aplicação das multas a que se referem os n.os 3 e 4 deste artigo é da competência da Direcção-Geral de Energia, cabendo a sua aplicação ao director-geral, de cujas decisões cabe recurso nos termos gerais de direito.
+
+###### Art. 6.º A aplicação do presente decreto-lei às Regiões Autónomas dos Açores e da Madeira fica dependente das adaptações a introduzir no mesmo por diploma regional.
+
+###### Art. 7.º Este diploma entra em vigor no dia 1 de Novembro de 1983.
+
+Visto e aprovado em Conselho de Ministros de 13 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - José Veiga Simão - Álvaro Roque de Pinho Bissaia Barreto.
+
+**Promulgado em 25 de Outubro de 1983.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 25 de Outubro de 1983.**
+
+**O Primeiro-Ministro, Mário Soares.**

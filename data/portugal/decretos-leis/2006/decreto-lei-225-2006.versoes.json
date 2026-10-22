@@ -1,0 +1,1411 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:546070:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34532875",
+ "dre_path": "/dr/detalhe/decreto-lei/225-2006-546070",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-11-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108037719",
+    "51203775",
+    "51203875",
+    "51203975",
+    "51204075",
+    "51204175",
+    "51204275",
+    "51204375",
+    "51204475",
+    "51204575",
+    "51204675",
+    "51204775",
+    "51204875",
+    "51204975",
+    "51205075",
+    "51205175",
+    "51205275",
+    "51205375",
+    "51205475",
+    "51205575",
+    "51205675",
+    "51205775",
+    "51205875",
+    "51205975",
+    "51206075",
+    "51206175",
+    "51206275",
+    "51206375",
+    "51206475",
+    "51206575",
+    "51206675",
+    "51206775",
+    "51206875",
+    "51206975",
+    "51207075",
+    "51207175",
+    "51207275",
+    "51207375",
+    "51207475",
+    "51207575",
+    "51207675",
+    "51207775",
+    "51207875",
+    "51207975"
+   ]
+  },
+  {
+   "date": "2008-10-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:452939:por",
+     "title": "Decreto-Lei n.º 196/2008",
+     "published": "2008-10-06",
+     "dre_path": "/dr/detalhe/decreto-lei/196-2008-452939"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 23.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Entrada Vigor Diploma",
+    "Revoga Secção I",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "52896775",
+    "51203775",
+    "52897975",
+    "52899075",
+    "52899175",
+    "52901275",
+    "52901375",
+    "52901475",
+    "51204475",
+    "52909975",
+    "52910075",
+    "52910175",
+    "51204875",
+    "52901575",
+    "52901675",
+    "52895875",
+    "52901775",
+    "52901875",
+    "52896275",
+    "52896375",
+    "51205475",
+    "52901975",
+    "51205675",
+    "52902075",
+    "52904175",
+    "52910275",
+    "52910375",
+    "52904275",
+    "52905375",
+    "51206375",
+    "51206475",
+    "52905475",
+    "52905575",
+    "52905675",
+    "52896475",
+    "52905775",
+    "52906875",
+    "51207075",
+    "51207175",
+    "51207275",
+    "52907875",
+    "52907975",
+    "52908975",
+    "51207675",
+    "51207775",
+    "51207875",
+    "51207975",
+    "51208075"
+   ]
+  },
+  {
+   "date": "2017-08-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108051992:por",
+     "title": "Decreto-Lei n.º 103/2017",
+     "published": "2017-08-24",
+     "dre_path": "/dr/detalhe/decreto-lei/103-2017-108051992"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "108037719",
+    "108037720",
+    "108037721",
+    "108037722",
+    "108037723",
+    "108037724",
+    "108037725",
+    "108037726",
+    "108037727",
+    "108037728",
+    "108037729",
+    "108037730",
+    "108037731",
+    "108037732",
+    "108037733",
+    "108037734",
+    "108037735",
+    "108037736",
+    "108037737",
+    "108037738",
+    "108037739",
+    "108037740",
+    "108037741",
+    "108037742",
+    "108037743",
+    "108037744",
+    "108037745",
+    "108037746",
+    "108037747",
+    "108037748",
+    "108037749",
+    "108037750",
+    "108037751",
+    "108037752",
+    "108037753",
+    "108037754",
+    "108037755",
+    "108037756",
+    "108037757",
+    "108037758",
+    "108037759",
+    "108037760",
+    "108037761",
+    "108037762",
+    "108037763",
+    "108037764",
+    "108037765",
+    "108037766"
+   ]
+  }
+ ],
+ "fragments": {
+  "108037719": {
+   "fragment_id": "35152675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-08-25",
+   "changed_by": [],
+   "markdown": "Apoiar a criação, a produção e a difusão das artes bem como consolidar, qualificar e dinamizar as redes de equipamentos culturais são objectivos inscritos no programa do XVII Governo Constitucional. Um dos principais instrumentos de realização dessas duas dimensões correlacionadas da política cultural é o financiamento público de actividades e de projectos que contribuam, quer para projectar nacional e internacionalmente a criatividade e a capacidade de inovação artísticas quer para desenvolver a sensibilidade e o pensamento crítico das populações, promovendo a sua qualificação e a coesão social.\n\nAssim, consciente do papel da cultura e, em especial, da área das artes, no desenvolvimento social e económico, bem como da necessidade da convergência de políticas sectoriais aproveitando sinergias e os seus efeitos reprodutivos, o Governo cria com este decreto-lei um novo quadro normativo, regulador dos apoios no âmbito do Instituto das Artes, que responde à necessidade de consolidação, dinamização e desenvolvimento sustentado das actividades artísticas.\n\nNo presente decreto-lei, em articulação com a portaria que o regulamenta aprovada pelo ministro da tutela, os tipos de apoio, os processos e os critérios de apreciação são diferenciados em função do perfil das entidades e da natureza dos projectos. Para além da distinção por área artística, estabelece-se uma distinção de base entre actividades de criação e actividades de programação, distinguindo-se igualmente actividades continuadas de criação ou de programação de projectos de natureza pontual, sendo a apreciação destes últimos também diferenciada segundo as suas características e objectivos. Importa ainda distinguir, dentro de cada área, entre projectos estruturalmente diferentes, cuja avaliação não é comparável. Por isso, é expressamente prevista no regulamento a possibilidade de o Instituto das Artes definir actividades específicas, dentro de cada área artística, para apresentação de propostas, em ordem a uma melhor apreciação e valorização das actividades. Deste modo, pretende-se tornar mais transparente a avaliação das diferentes situações e conferir-lhe maior objectividade, comparando o que é comparável.\n\nSão também introduzidos apoios complementares às actividades de criação que visam colmatar algumas das fragilidades apontadas pelos agentes culturais, nomeadamente ao nível da edição, formação artística, internacionalização e reequipamento.\n\nTendo-se avançado substancialmente na recuperação, no alargamento e na renovação da rede nacional de cine-teatros, para o que decisivamente contribuiu o Programa lançado em 1998 pelo XIII Governo Constitucional, impõe-se criar condições para o seu funcionamento efectivo ao serviço da descentralização cultural, apoiando uma programação regular de qualidade, que inclua iniciativas educativas e favoreça também a fixação ou as residências de artistas ou entidades artísticas no interior. Para esse fim são criados dois novos instrumentos: acordos tripartidos entre Ministério da Cultura, autarquia e entidade de criação e protocolos entre Ministério da Cultura e autarquias para apoio à programação. No mesmo sentido, é ainda desenvolvido, como oficina virtual gerida pelo Instituto das Artes, o Programa Território-Artes, que disponibiliza em tempo real toda a informação relevante, tanto do lado da criação, como do lado das infra-estruturas de programação, permitindo o ajuste contratualizado por essa via do tipo de actividade, dos locais, do calendário e das condições técnicas e financeiras da sua realização. Estes instrumentos são extensivos a itinerâncias ou a residências artísticas a realizar em locais, infra-estruturas ou equipamentos não abrangidos na categoria de cine-teatro.\n\nAbre-se ainda a possibilidade de lançamento de programas específicos de apoio às artes, em articulação com outras políticas sectoriais, reforçando a transversalidade da cultura. Os apoios a conceder neste âmbito são objecto de regulamentação específica, a aprovar pelo Ministro da Cultura e o ministro da tutela, e visam, designadamente: promover os jovens criadores e o emprego jovem na área da produção e da programação artísticas; incentivar a vertente educativa das actividades artísticas e estimular a ligação ao meio escolar, fomentando o interesse das crianças e dos jovens pela cultura; estimular a ligação entre cultura artística e cultura científica, através do encorajamento de projectos interdisciplinares e outras iniciativas conjuntas de organismos artísticos e organismos científicos; promover a cooperação entre organismos de criação artística e estabelecimentos de formação superior na área das artes; incentivar iniciativas que valorizem a ligação entre as actividades artísticas e o turismo, o ambiente e o ordenamento do território; incentivar a vertente da solidariedade social nas actividades artísticas, através de iniciativas pró-activas de combate à discriminação em função da idade, do género ou da deficiência, e promover a actividade artística como instrumento de desenvolvimento económico e de inclusão e coesão sociais.\n\nOs apoios previstos no presente decreto-lei podem ser cumulativos, desde que respeitem a projectos ou actividades diferentes, contemplados em orçamentos independentes, geridos e executados autonomamente. Favorece-se, deste modo, a concentração de recursos, valorizando sinergias que contribuem para a qualificação e o desenvolvimento sustentado da actividade artística. Pretende-se promover uma distribuição equilibrada das actividades artísticas por todo o território nacional, mas ao mesmo tempo evitar o subfinanciamento e o desperdício de recursos que decorrem da multiplicação excessiva do número de entidades apoiadas. Neste sentido, distinguir-se-á entre projecto e entidade de acolhimento, sendo valorizados os projectos inovadores acolhidos por entidades consolidadas no plano técnico-profissional e logístico ou que contribuam para a sua consolidação ou qualificação.\n\nVisando assegurar uma avaliação e um acompanhamento continuados, mais eficientes e rigorosos, das entidades apoiadas, será reforçada a articulação com as direcções regionais de cultura, passando as comissões de acompanhamento e avaliação a integrar, para além de reputados especialistas nas diferentes áreas artísticas, representantes das autarquias locais das áreas onde decorre a actividade, bem como um representante da Inspecção-Geral das Actividades Culturais, quando aplicável. A atribuição dos apoios, sempre que se justifique, deverá ter em conta o parecer fundamentado das comissões de acompanhamento e avaliação.\n\nEm regra, partindo dos indicadores disponíveis, haverá uma contratação por objectivos com as entidades beneficiárias que as estimule a mudanças ou progressos qualitativos e quantitativos e permita corrigir aspectos em que estas revelem fragilidades quando comparadas a nível nacional e ou regional com entidades congéneres. Para tanto, pressupõe-se a necessidade de aperfeiçoar os instrumentos de avaliação das direcções regionais e do Instituto das Artes, visando a disponibilidade pública permanente de dados comparativos fiáveis sobre a evolução recente dos apoios às artes. Uma definição mais rigorosa e fundamentada da contratação por objectivos pressupõe igualmente a diferenciação de critérios e de tipos de entidades e de projectos introduzida por este decreto-lei. Trata-se de induzir a médio e longo prazos uma transformação efectiva do mapa cultural do País, corrigindo as assimetrias regionais.\n\nEm harmonia com o Programa SIMPLEX 2006, de reforma da Administração Pública, são introduzidas medidas de desburocratização e desmaterialização. De uma maneira geral, são adoptados procedimentos mais simplificados e céleres. Em certos casos, e sem prejuízo da transparência e da equidade, os trâmites concursais são substituídos por processos simplificados. Todos os processos e diligências, incluindo as candidaturas, passam a ser realizados por via electrónica. Em nome da transparência, essa e outra documentação gerada, incluindo actas de avaliação e montantes atribuídos, serão colocados no sítio da Internet do Instituto das Artes.\n\nEm síntese, o presente decreto-lei visa, em cumprimento do Programa do Governo, os seguintes desígnios estratégicos:\n\na) Promover o acesso público às artes, contribuindo para a elevação da qualidade de vida, da cidadania e da qualificação das populações;\n\nb) Promover a criatividade e a inovação artísticas;\n\nc) Consolidar as entidades de criação profissionais com comprovada experiência e competência, valorizando a sua missão enquanto organismos dotados de adequada massa crítica para o exercício da sua actividade e o acolhimento de novos projectos;\n\nd) Consolidar as entidades de programação de actividades artísticas que asseguram regularmente, ao longo dos anos, festivais, exposições, mostras e outros eventos de reconhecido mérito e projecção nacional e internacional;\n\ne) Valorizar a rede de cine-teatros e outros equipamentos culturais, apoiando uma programação regular de qualidade, que compreenda uma dimensão educativa e a residência permanente ou periódica de entidades de criação artística;\n\nf) Promover a fixação de entidades de criação e produção artísticas no interior;\n\ng) Promover a internacionalização das artes e dos artistas portugueses;\n\nh) Contribuir para o aprofundamento da cooperação artística internacional, com especial incidência no âmbito europeu e nos espaços lusófono e ibero-americano;\n\ni) Favorecer a articulação entre o apoio às artes e outras políticas sectoriais.\n\nForam ouvidos os agentes culturais do sector e foi promovida a audição da Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "51203775": {
+   "fragment_id": "36146175",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "51203875": {
+   "fragment_id": "37648675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime de atribuição de apoios financeiros do Estado, através do Ministério da Cultura, a entidades ou pessoas singulares que exercem actividades de carácter profissional de criação ou de programação nas áreas da arquitectura e do design, das artes digitais, das artes plásticas, da dança, da fotografia, da música, do teatro e das áreas transdisciplinares.\n\n2 - São excluídas as actividades que, pela sua natureza comercial, não se inserem nos objectivos de serviço público que norteiam o presente decreto-lei, nomeadamente a comercialização de obras de arte."
+  },
+  "51203975": {
+   "fragment_id": "37648775",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente decreto-lei entende-se por:\n\na) «Arte digital» a prática artística que utiliza essencialmente meios computacionais ou digitais no desenvolvimento de projectos, designadamente em suporte virtual ou em linha, cuja realização, mediação ou fruição requerem uma relação interactiva e funcionalizada por intermédio de dispositivos sensitivos;\n\nb) «Entidade de criação» qualquer organização privada profissional legalmente constituída, sediada no território de Portugal continental, que exerça uma actividade regular predominantemente no domínio da criação, com valor artístico comprovado;\n\nc) «Entidade de programação» qualquer organização profissional privada legalmente constituída, sediada no território de Portugal continental, que exerça uma actividade regular predominantemente no domínio da programação, com experiência demonstrada na gestão e programação de salas, espaços de exposição e recintos, bem como na gestão e programação de actividades culturais;\n\nd) «Entidades beneficiárias» as entidades de criação, as entidades de programação e as pessoas singulares apoiadas ao abrigo do apoio directo;\n\ne) «Formação artística» os estágios, as residências, a animação cultural e outras actividades técnicas de aperfeiçoamento em contextos não escolares, abrangendo tanto a teoria como a prática artísticas;\n\nf) «Núcleo profissional permanente» o núcleo constituído por, pelo menos, cinco pessoas a tempo integral ou equivalente, designadamente director artístico, artistas, técnicos, pessoal de gestão, de secretariado ou administrativo;\n\ng) «Tempo integral ou equivalente» o tempo, integral ou parcial, de exercício efectivo de actividade pelo pessoal afecto às actividades da entidade;\n\nh) «Festival» a série de espectáculos e outros eventos, realizados em Portugal continental, de carácter nacional ou internacional, nas áreas das artes digitais, da dança, da música, do teatro ou transdisciplinares, apresentada de uma forma concentrada num período de tempo delimitado;\n\ni) «Mostra» a exposição ou o conjunto de exposições e eventos correlacionados, realizados em Portugal continental, nas áreas da arquitectura e do design, das artes plásticas, ou da fotografia, apresentados de uma forma concentrada num período de tempo delimitado;\n\nj) «Zona do território de menor índice de oferta cultural» o concelho ou conjunto de concelhos cujo número de entidades apoiadas pelo Ministério da Cultura é inferior à média nacional, resultante da divisão do número de entidades apoiadas no País pelas cinco direcções regionais, e à média da zona de competências da direcção regional de cultura respectiva, resultante da divisão do número de entidades apoiadas nessa direcção pelo número de concelhos nela existente.\n\n2 - Os efectivos em tempo integral ou equivalente, a que se refere a alínea g) do número anterior, calculam-se somando o número de indivíduos a tempo integral com as fracções do dia normal de trabalho dos indivíduos em tempo parcial."
+  },
+  "51204075": {
+   "fragment_id": "37648875",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nAs medidas e os apoios previstos no presente decreto-lei têm como objectivos:\n\na) Assegurar o acesso público aos diversos domínios da actividade artística, concorrendo para a promoção da qualidade de vida, da cidadania e da qualificação das populações;\n\nb) Descentralizar e dinamizar a oferta cultural, corrigindo as assimetrias regionais, e promover a actividade artística como instrumento de desenvolvimento económico e de qualificação, inclusão e coesão sociais;\n\nc) Promover a pesquisa, a experimentação, a criação e a inovação artísticas, actualizando e consolidando o tecido profissional;\n\nd) Promover a partilha de responsabilidades do Estado com os agentes culturais, as autarquias locais e outras entidades, públicas e privadas, com vista a incentivar a criação, a produção e a difusão das artes;\n\ne) Promover a internacionalização das artes e dos artistas portugueses, bem como o aprofundamento da cooperação com outros países;\n\nf) Promover publicações e outros materiais de difusão ou divulgação das artes, em suporte digital, em linha ou impressos;\n\ng) Articular as artes com outras áreas sectoriais, designadamente educação, ciência e tecnologia, ambiente e ordenamento do território, turismo e solidariedade social."
+  },
+  "51204175": {
+   "fragment_id": "37648975",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipos de apoio\n\n1 - Para a prossecução dos objectivos definidos no artigo anterior são criados três tipos de apoio:\n\na) Apoio directo, que contempla as seguintes modalidades:\n\ni) Apoio quadrienal a entidades de criação;\n\nii) Apoio quadrienal a festivais e mostras;\n\niii) Apoios bienais;\n\niv) Apoios a projectos pontuais;\n\nv) Apoios à internacionalização;\n\nvi) Apoios complementares nas áreas da edição, formação artística e reequipamento;\n\nb) Apoio indirecto, que contempla as seguintes modalidades:\n\ni) Acordo tripartido entre Ministério da Cultura, autarquia e entidade de criação ou entidade de programação;\n\nii) Protocolo entre Ministério da Cultura e autarquias para apoio à programação;\n\niii) Programa Território-Artes;\n\nc) Apoio em articulação com outras políticas sectoriais.\n\n2 - Extraordinariamente, em situações excepcionais, de manifesto interesse público, podem ser atribuídos apoios directos a projectos ou actividades de relevante interesse cultural, por despacho do Ministro da Cultura, sob proposta fundamentada do Instituto das Artes, doravante designado por IA.\n\n3 - As modalidades de apoio directo e indirecto são objecto de regulamentação a aprovar por portaria do Ministro da Cultura.\n\n4 - Os apoios têm a natureza de apoio financeiro não reembolsável, e a sua atribuição depende de a entidade beneficiária ter a sua situação regularizada perante o fisco e a segurança social."
+  },
+  "51204275": {
+   "fragment_id": "37649075",
+   "type": 11,
+   "heading": "Artigo 5.º — Montantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Montantes\n\nO montante financeiro disponível e o número de entidades a apoiar em cada um dos tipos e modalidades referidos no artigo anterior são fixados pelo Ministro da Cultura antes do início do respectivo procedimento."
+  },
+  "51204375": {
+   "fragment_id": "37649175",
+   "type": 11,
+   "heading": "Artigo 6.º — Correcção de assimetrias regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Correcção de assimetrias regionais\n\n1 - Visando corrigir as assimetrias regionais, é fixado, antes do início do respectivo procedimento, pelo Ministro da Cultura, sob proposta fundamentada do IA, o universo de entidades por área artística a apoiar dentro da zona de competências de cada direcção regional de cultura.\n\n2 - O universo de entidades varia em função dos seguintes critérios:\n\na) Índice populacional;\n\nb) Avaliação qualitativa e quantitativa do tecido cultural local."
+  },
+  "51204475": {
+   "fragment_id": "36146275",
+   "type": 1,
+   "heading": "Capítulo II — Apoios directos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Apoios directos"
+  },
+  "51204575": {
+   "fragment_id": "37649275",
+   "type": 8,
+   "heading": "Secção I — Processo simplificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Processo simplificado"
+  },
+  "51204675": {
+   "fragment_id": "39275675",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio quadrienal a entidades de criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio quadrienal a entidades de criação\n\nTendo em vista a atribuição de apoio quadrienal a entidades de criação nas áreas da dança, da música, do teatro e transdisciplinares, o Ministério da Cultura, através do IA, apura, de quatro em quatro anos, as entidades que, preenchendo os requisitos previstos neste decreto-lei e de acordo com os critérios de seriação a fixar na regulamentação indicada no n.º 3 do artigo 4.º, se revelem as que mais bem asseguram a prossecução dos objectivos previstos no artigo 3.º"
+  },
+  "51204775": {
+   "fragment_id": "39275775",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades de criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidades de criação\n\n1 - As entidades de criação passíveis de serem apoiadas nesta modalidade têm de preencher cumulativamente os seguintes requisitos:\n\na) Ter, nas áreas do teatro e da música, pelo menos, 15 anos de actividade profissional continuada, e ter tido apoio financeiro do Ministério da Cultura durante um período de 8 anos no cômputo dos 10 anos imediatamente anteriores à data do processo de selecção;\n\nb) Ter, nas áreas da dança e transdisciplinar, pelo menos, 10 anos de actividade profissional continuada e ter tido apoio financeiro do Ministério da Cultura durante um período mínimo de 4 anos no cômputo dos 8 anos imediatamente anteriores à data do processo de selecção;\n\nc) Ter núcleo profissional permanente;\n\nd) Ter instalações próprias licenciadas, ou possibilidade de utilização regular dessas instalações através de cedência gratuita, arrendamento ou concessão, para apresentação dos espectáculos e criações;\n\ne) Obter parecer favorável da comissão de acompanhamento e avaliação.\n\n2 - Para efeitos do disposto no artigo 7.º e na alínea b) do n.º 1 do artigo 8.º, às entidades de criação na área transdisciplinar, com, pelo menos, quatro anos de apoio nesta área, é considerado o exercício da actividade nas áreas da dança, da música e do teatro."
+  },
+  "51204875": {
+   "fragment_id": "37649375",
+   "type": 8,
+   "heading": "Secção II — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Apresentação de candidaturas"
+  },
+  "51204975": {
+   "fragment_id": "39275875",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio quadrienal a festivais e mostras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio quadrienal a festivais e mostras\n\n1 - O apoio quadrienal a festivais e mostras é atribuído, de quatro em quatro anos, na sequência de apresentação de candidaturas e destina-se aos festivais e mostras com periodicidade anual ou bienal.\n\n2 - Nos termos a definir em regulamento aprovado por portaria do Ministro da Cultura, podem candidatar-se as entidades de criação e as entidades de programação que tenham organizado tais eventos, de forma continuada, nos últimos 10 anos, e que, cumulativamente, tenham tido apoio financeiro pelo Ministério da Cultura durante, pelo menos, três edições no cômputo dos 10 anos imediatamente anteriores à data da abertura do procedimento."
+  },
+  "51205075": {
+   "fragment_id": "39275975",
+   "type": 11,
+   "heading": "Artigo 10.º — Apoios bienais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apoios bienais\n\n1 - A apresentação de candidaturas, a realizar de dois em dois anos, para apoios bienais a entidades de criação e a entidades de programação destina-se às áreas da arquitectura e do design, das artes digitais, das artes plásticas, da dança, da fotografia, da música, do teatro e às áreas transdisciplinares.\n\n2 - Nos termos a definir em regulamento aprovado por portaria do Ministro da Cultura, podem candidatar-se as entidades de criação e as entidades de programação que tenham, pelo menos, cinco anos de actividade profissional continuada à data da abertura do procedimento.\n\n3 - Podem ainda ser admitidas as entidades que tenham, pelo menos, cinco anos de actividade profissional continuada à data da abertura do procedimento e cuja actividade principal seja a formação em contexto não escolar ou o apoio à criação através de residências artísticas, desde que a sua candidatura especifique quais as entidades de criação ou as pessoas singulares envolvidas."
+  },
+  "51205175": {
+   "fragment_id": "39276075",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio a projectos pontuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio a projectos pontuais\n\n1 - A apresentação de candidaturas para apoios a projectos pontuais, a realizar anualmente, destina-se às áreas da arquitectura e do design, das artes digitais, das artes plásticas, da dança, da fotografia, da música, do teatro e áreas transdisciplinares.\n\n2 - Nos termos a definir no regulamento aprovado por portaria do Ministro da Cultura, podem candidatar-se as entidades de criação e as entidades de programação, bem como as pessoas singulares.\n\n3 - Podem ainda ser admitidas as entidades cuja actividade principal seja a formação em contexto não escolar ou o apoio à criação através de residências artísticas, desde que a sua candidatura especifique quais as entidades de criação ou as pessoas singulares envolvidas."
+  },
+  "51205275": {
+   "fragment_id": "39276175",
+   "type": 11,
+   "heading": "Artigo 12.º — Apreciação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apreciação das candidaturas\n\n1 - A apreciação das candidaturas é efectuada por comissões, nomeadas pelo Ministro da Cultura sob proposta do IA, compostas por três individualidades de reconhecido mérito e competência nas áreas artísticas dos projectos apresentados, e por um técnico do IA, que preside.\n\n2 - Os critérios para apreciação das candidaturas e as regras aplicáveis aos procedimentos das comissões de apreciação constam da regulamentação indicada no n.º 3 do artigo 4.º\n\n3 - Sem prejuízo do previsto na regulamentação indicada no n.º 3 do artigo 4.º, a avaliação anterior das entidades candidatas, quando existente, é disponibilizada às comissões de apreciação.\n\n4 - As propostas de decisão da comissão de apreciação são homologadas pelo director-geral do IA, sendo o processo tornado público no sítio da Internet desta entidade."
+  },
+  "51205375": {
+   "fragment_id": "39276275",
+   "type": 11,
+   "heading": "Artigo 13.º — Remuneração dos membros das comissões de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Remuneração dos membros das comissões de apreciação\n\nOs membros das comissões de apreciação que não sejam trabalhadores da Administração Pública, directa ou indirecta, e local, têm direito a uma remuneração indexada ao número de propostas a analisar, cujo montante é fixado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da cultura."
+  },
+  "51205475": {
+   "fragment_id": "37649475",
+   "type": 8,
+   "heading": "Secção III — Formalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Formalização"
+  },
+  "51205575": {
+   "fragment_id": "39276375",
+   "type": 11,
+   "heading": "Artigo 14.º — Contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contratos\n\n1 - O apoio financeiro às entidades beneficiárias é formalizado mediante contrato celebrado entre cada uma delas e o IA.\n\n2 - Do contrato constam os direitos e obrigações das partes, o período de vigência do contrato, a quantificação do financiamento e respectivo faseamento e penalizações face às situações de incumprimento.\n\n3 - O contrato pode ser rescindido a todo o tempo por despacho do Ministro da Cultura, com fundamento na falta de cumprimento, pela entidade beneficiária do apoio, das respectivas obrigações ou na verificação superveniente da não prossecução dos objectivos que presidiram à atribuição do financiamento.\n\n4 - Sem prejuízo da responsabilidade civil e criminal, a rescisão do contrato por incumprimento da entidade beneficiária implica a reposição das quantias recebidas correspondentes ao plano de actividade não cumprido e a impossibilidade de apresentar propostas aos programas de apoio abertos no decurso do ano em causa, bem como no ano civil subsequente.\n\n5 - A cobrança coerciva das importâncias referidas no número anterior é efectuada através de processo de execução fiscal."
+  },
+  "51205675": {
+   "fragment_id": "37649575",
+   "type": 8,
+   "heading": "Secção IV — Acompanhamento, avaliação e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Acompanhamento, avaliação e fiscalização"
+  },
+  "51205775": {
+   "fragment_id": "39276475",
+   "type": 11,
+   "heading": "Artigo 15.º — Comissões de acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Comissões de acompanhamento e avaliação\n\n1 - Sem prejuízo do previsto na regulamentação indicada no n.º 3 do artigo 4.º, o acompanhamento e a avaliação da execução dos contratos competem ao IA, através das comissões de acompanhamento e avaliação.\n\n2 - As comissões de acompanhamento e avaliação, sob coordenação do IA, funcionam junto das direcções regionais de cultura e integram, para além de reputados especialistas nas diferentes áreas artísticas, o director regional de cultura, ou quem o represente, que preside.\n\n3 - Os representantes das autarquias locais onde decorre a actividade são convidados pelo director regional de cultura a integrar as comissões de acompanhamento e avaliação.\n\n4 - As regras de funcionamento das comissões de acompanhamento e avaliação constam da regulamentação indicada no n.º 3 do artigo 4.º"
+  },
+  "51205875": {
+   "fragment_id": "39276575",
+   "type": 11,
+   "heading": "Artigo 16.º — Apoios quadrienais e bienais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Apoios quadrienais e bienais\n\nAs entidades beneficiárias do apoio quadrienal a entidades de criação, do apoio quadrienal a festivais e mostras e dos apoios bienais são objecto de uma avaliação permanente por parte das comissões de acompanhamento e avaliação que elaboram um relatório anual, cabendo igualmente à entidade beneficiária fazer uma auto-avaliação da actividade desenvolvida."
+  },
+  "51205975": {
+   "fragment_id": "39276675",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoio à internacionalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apoio à internacionalização\n\nO Ministro da Cultura fixa anualmente, sob proposta do IA, uma verba para apoio à internacionalização nas áreas artísticas contempladas neste decreto-lei."
+  },
+  "51206075": {
+   "fragment_id": "39276775",
+   "type": 11,
+   "heading": "Artigo 18.º — Apoios complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Apoios complementares\n\n1 - O Ministro da Cultura fixa anualmente, sob proposta do IA, uma verba para apoios complementares à actividade artística principal nas áreas definidas no n.º 1 do artigo 1.º, aos criadores singulares para a edição e formação artística, e às entidades de criação para a edição, formação artística e reequipamento.\n\n2 - A avaliação técnica dos pedidos cabe ao IA."
+  },
+  "51206175": {
+   "fragment_id": "39276875",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Suspensão\n\n1 - O incumprimento das obrigações previstas na regulamentação indicada no n.º 3 do artigo 4.º e nos contratos celebrados com as entidades beneficiárias determina a suspensão imediata dos contratos.\n\n2 - A decisão de suspensão e respectiva fundamentação é uma competência do IA e é por ele comunicada à entidade beneficiária, sendo-lhe fixado um prazo máximo de 10 dias úteis para o cumprimento das obrigações em falta ou justificação do seu incumprimento."
+  },
+  "51206275": {
+   "fragment_id": "39276975",
+   "type": 11,
+   "heading": "Artigo 20.º — Rescisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Rescisão\n\nFindo o prazo referido no n.º 2 do artigo anterior sem que tenham sido cumpridas as obrigações em falta ou aceite a justificação do incumprimento, o contrato é rescindido, devendo a entidade beneficiária do apoio repor as quantias recebidas correspondentes ao plano de actividade não cumprido, ficando igualmente impossibilitada de apresentar propostas nos termos fixados na regulamentação indicada no n.º 3 do artigo 4.º"
+  },
+  "51206375": {
+   "fragment_id": "36146375",
+   "type": 1,
+   "heading": "Capítulo III — Apoio indirecto e apoio em articulação com outras políticas sectoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Apoio indirecto e apoio em articulação com outras políticas sectoriais"
+  },
+  "51206475": {
+   "fragment_id": "37649675",
+   "type": 8,
+   "heading": "Secção I — Apoio indirecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Apoio indirecto"
+  },
+  "51206575": {
+   "fragment_id": "39277075",
+   "type": 11,
+   "heading": "Artigo 21.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Modalidades\n\n1 - Visando estimular a fixação de entidades nas zonas do território de menor índice de oferta cultural e a dinamização dos equipamentos culturais em todo o território nacional, o Ministério da Cultura pode celebrar:\n\na) Acordos tripartidos com as autarquias e as entidades de criação ou de programação;\n\nb) Protocolos com as autarquias, para apoio à programação.\n\n2 - É ainda desenvolvido o Programa Território-Artes, oficina virtual de apoio à itinerância, à co-produção e às redes de programação, cujo regulamento é aprovado por portaria do Ministro da Cultura."
+  },
+  "51206675": {
+   "fragment_id": "39277175",
+   "type": 11,
+   "heading": "Artigo 22.º — Acordo tripartido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Acordo tripartido\n\n1 - No âmbito da alínea a) do n.º 1 do artigo anterior, a autarquia ou as autarquias e as entidades de criação ou de programação apresentam no IA uma proposta conjunta, que deve conter obrigatoriamente:\n\na) A nota justificativa da proposta, caracterizando o tecido cultural local, designadamente ao nível dos agentes e equipamentos culturais existentes, e os objectivos a atingir;\n\nb) O plano de actividades pormenorizado, de onde constem o calendário e os locais das actividades e iniciativas a desenvolver, bem como o plano de divulgação previsto;\n\nc) A previsão orçamental com discriminação das despesas fixas e variáveis e das receitas estimadas, incluindo mecenato, bem como da comparticipação financeira da autarquia ou autarquias envolvidas;\n\nd) A indicação de terem concorrido ou sido contempladas com financiamento ao abrigo de outro programa de apoio estatal, quer a título individual quer conjuntamente.\n\n2 - A entidade de criação ou a entidade de programação co-responsável tem de reunir, pelo menos, o requisito previsto no n.º 2 do artigo 10.º\n\n3 - A avaliação técnica das propostas cabe ao IA, ouvida a direcção regional de cultura respectiva.\n\n4 - Na apreciação, valorizam-se as propostas que envolvam entidades de criação já fixadas, ou que optem por fixar-se, em regiões do País com menor número de entidades de criação."
+  },
+  "51206775": {
+   "fragment_id": "39277275",
+   "type": 11,
+   "heading": "Artigo 23.º — Protocolo para apoio à programação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Protocolo para apoio à programação\n\n1 - No âmbito da alínea b) do n.º 1 do artigo 21.º, a autarquia ou as autarquias apresentam no IA, em moldes idênticos aos previstos nas alíneas a) a d) do n.º 1 do artigo anterior, uma proposta para apoio à programação de cine-teatros, centros culturais e outros equipamentos culturais municipais, devendo obrigatoriamente contemplar no seu plano de actividades:\n\na) Os projectos que fomentem a captação e formação de novos públicos;\n\nb) As acções dirigidas ao público infanto-juvenil;\n\nc) O acolhimento de uma entidade de criação ou de uma pessoa singular, consoante o equipamento em causa, por um período não inferior a três meses por ano, seguidos ou interpolados.\n\n2 - A avaliação técnica dos pedidos cabe ao IA, ouvida a direcção regional de cultura."
+  },
+  "51206875": {
+   "fragment_id": "39277375",
+   "type": 11,
+   "heading": "Artigo 24.º — Formalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Formalização\n\n1 - As propostas que mereçam o acolhimento do IA são submetidas à consideração do Ministro da Cultura que, em caso de concordância, as homologa, dando lugar ao início da celebração dos respectivos contratos.\n\n2 - No caso dos protocolos para apoio à programação podem os mesmos ser celebrados com empresas municipais responsáveis pela gestão da programação dos espaços objecto da proposta."
+  },
+  "51206975": {
+   "fragment_id": "39277475",
+   "type": 11,
+   "heading": "Artigo 25.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Acompanhamento e avaliação\n\n1 - As comissões de acompanhamento e avaliação, sob coordenação do IA, funcionam junto das direcções regionais de cultura e integram, para além de reputados especialistas nas diferentes áreas artísticas, o director regional de cultura, ou quem o represente, que preside, e representantes das autarquias locais envolvidas.\n\n2 - Os representantes das autarquias locais onde decorre a actividade são convidados pelo director regional de cultura a integrar as comissões de acompanhamento e avaliação.\n\n3 - As regras de funcionamento das comissões de acompanhamento e avaliação constam da regulamentação indicada no n.º 3 do artigo 4.º"
+  },
+  "51207075": {
+   "fragment_id": "37649775",
+   "type": 8,
+   "heading": "Secção II — Apoios em articulação com outras políticas sectoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Apoios em articulação com outras políticas sectoriais"
+  },
+  "51207175": {
+   "fragment_id": "39277575",
+   "type": 11,
+   "heading": "Artigo 26.º — Co-financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Co-financiamento\n\n1 - O Ministério da Cultura pode co-financiar, em parceria com outros ministérios, projectos que articulem as artes com outras áreas sectoriais.\n\n2 - A definição deste tipo de apoios será objecto de regulamentação aprovada por portaria conjunta dos ministros responsáveis pela área da cultura e pela área sectorial."
+  },
+  "51207275": {
+   "fragment_id": "36146475",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "51207375": {
+   "fragment_id": "37649875",
+   "type": 11,
+   "heading": "Artigo 27.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cumulação de apoios\n\n1 - As mesmas actividades e projectos não podem beneficiar de apoios cumulativos.\n\n2 - No âmbito dos apoios a projectos pontuais, as entidades beneficiárias das modalidades de apoio quadrienal a entidades de criação ou a festivais e mostras, bem como do apoio bienal, podem apresentar uma única proposta anual, desde que se trate de projecto não contemplado no programa de actividades contratualizado."
+  },
+  "51207475": {
+   "fragment_id": "37649975",
+   "type": 11,
+   "heading": "Artigo 28.º — Obrigações especiais das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Obrigações especiais das entidades beneficiárias\n\nSem prejuízo das obrigações constantes dos contratos, bem como das que sejam estabelecidas nos regulamentos previstos no presente decreto-lei, as entidades beneficiárias ficam obrigadas a:\n\na) Fornecer às comissões previstas neste decreto-lei, bem como aos serviços públicos competentes, todas as informações que lhes sejam solicitadas relativas à utilização dos apoios atribuídos;\n\nb) Indicar se receberam outros apoios estatais;\n\nc) Respeitar os requisitos e condições que determinaram a atribuição do apoio financeiro;\n\nd) Justificar o cumprimento das obrigações contratuais, designadamente através da apresentação de relatórios de actividades."
+  },
+  "51207575": {
+   "fragment_id": "37650075",
+   "type": 11,
+   "heading": "Artigo 29.º — Encargos plurianuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Encargos plurianuais\n\nOs encargos decorrentes da aplicação deste decreto-lei que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento do orçamento do IA."
+  },
+  "51207675": {
+   "fragment_id": "37650175",
+   "type": 11,
+   "heading": "Artigo 30.º — Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Arbitragem\n\nOs litígios decorrentes da aplicação do presente decreto-lei podem ser resolvidos por via de arbitragem."
+  },
+  "51207775": {
+   "fragment_id": "37650275",
+   "type": 11,
+   "heading": "Artigo 31.º — Aplicação da lei no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Aplicação da lei no tempo\n\n1 - Aos apoios concedidos por contrato até à entrada em vigor deste decreto-lei aplicam-se as regras vigentes à data da celebração daqueles.\n\n2 - Os beneficiários dos apoios referidos no número anterior podem, até 31 de Dezembro de 2006, propor ao IA a cessação dos mesmos e a transição para as modalidades de apoio indirecto previstas no n.º 1 do artigo 21.º\n\n3 - As entidades de criação abrangidas pelo n.º 1 que também organizem festivais podem, até 31 de Dezembro de 2006, propor ao IA uma renegociação dos respectivos contratos para o período remanescente da sua vigência, com base na distinção entre a actividade principal e o festival, discriminados em orçamentos e centros de custos autónomos."
+  },
+  "51207875": {
+   "fragment_id": "37650375",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 272/2003, de 29 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 224/2005, de 27 de Dezembro."
+  },
+  "51207975": {
+   "fragment_id": "37650475",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "52896775": {
+   "fragment_id": "35152675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "Apoiar a criação, a produção e a difusão das artes bem como consolidar, qualificar e dinamizar as redes de equipamentos culturais são objectivos inscritos no programa do XVII Governo Constitucional. Um dos principais instrumentos de realização dessas duas dimensões correlacionadas da política cultural é o financiamento público de actividades e de projectos que contribuam, quer para projectar nacional e internacionalmente a criatividade e a capacidade de inovação artísticas quer para desenvolver a sensibilidade e o pensamento crítico das populações, promovendo a sua qualificação e a coesão social.\n\nAssim, consciente do papel da cultura e, em especial, da área das artes, no desenvolvimento social e económico, bem como da necessidade da convergência de políticas sectoriais aproveitando sinergias e os seus efeitos reprodutivos, o Governo cria com este decreto-lei um novo quadro normativo, regulador dos apoios no âmbito do Instituto das Artes, que responde à necessidade de consolidação, dinamização e desenvolvimento sustentado das actividades artísticas.\n\nNo presente decreto-lei, em articulação com a portaria que o regulamenta aprovada pelo ministro da tutela, os tipos de apoio, os processos e os critérios de apreciação são diferenciados em função do perfil das entidades e da natureza dos projectos. Para além da distinção por área artística, estabelece-se uma distinção de base entre actividades de criação e actividades de programação, distinguindo-se igualmente actividades continuadas de criação ou de programação de projectos de natureza pontual, sendo a apreciação destes últimos também diferenciada segundo as suas características e objectivos. Importa ainda distinguir, dentro de cada área, entre projectos estruturalmente diferentes, cuja avaliação não é comparável. Por isso, é expressamente prevista no regulamento a possibilidade de o Instituto das Artes definir actividades específicas, dentro de cada área artística, para apresentação de propostas, em ordem a uma melhor apreciação e valorização das actividades. Deste modo, pretende-se tornar mais transparente a avaliação das diferentes situações e conferir-lhe maior objectividade, comparando o que é comparável.\n\nSão também introduzidos apoios complementares às actividades de criação que visam colmatar algumas das fragilidades apontadas pelos agentes culturais, nomeadamente ao nível da edição, formação artística, internacionalização e reequipamento.\n\nTendo-se avançado substancialmente na recuperação, no alargamento e na renovação da rede nacional de cine-teatros, para o que decisivamente contribuiu o Programa lançado em 1998 pelo XIII Governo Constitucional, impõe-se criar condições para o seu funcionamento efectivo ao serviço da descentralização cultural, apoiando uma programação regular de qualidade, que inclua iniciativas educativas e favoreça também a fixação ou as residências de artistas ou entidades artísticas no interior. Para esse fim são criados dois novos instrumentos: acordos tripartidos entre Ministério da Cultura, autarquia e entidade de criação e protocolos entre Ministério da Cultura e autarquias para apoio à programação. No mesmo sentido, é ainda desenvolvido, como oficina virtual gerida pelo Instituto das Artes, o Programa Território-Artes, que disponibiliza em tempo real toda a informação relevante, tanto do lado da criação, como do lado das infra-estruturas de programação, permitindo o ajuste contratualizado por essa via do tipo de actividade, dos locais, do calendário e das condições técnicas e financeiras da sua realização. Estes instrumentos são extensivos a itinerâncias ou a residências artísticas a realizar em locais, infra-estruturas ou equipamentos não abrangidos na categoria de cine-teatro.\n\nAbre-se ainda a possibilidade de lançamento de programas específicos de apoio às artes, em articulação com outras políticas sectoriais, reforçando a transversalidade da cultura. Os apoios a conceder neste âmbito são objecto de regulamentação específica, a aprovar pelo Ministro da Cultura e o ministro da tutela, e visam, designadamente: promover os jovens criadores e o emprego jovem na área da produção e da programação artísticas; incentivar a vertente educativa das actividades artísticas e estimular a ligação ao meio escolar, fomentando o interesse das crianças e dos jovens pela cultura; estimular a ligação entre cultura artística e cultura científica, através do encorajamento de projectos interdisciplinares e outras iniciativas conjuntas de organismos artísticos e organismos científicos; promover a cooperação entre organismos de criação artística e estabelecimentos de formação superior na área das artes; incentivar iniciativas que valorizem a ligação entre as actividades artísticas e o turismo, o ambiente e o ordenamento do território; incentivar a vertente da solidariedade social nas actividades artísticas, através de iniciativas pró-activas de combate à discriminação em função da idade, do género ou da deficiência, e promover a actividade artística como instrumento de desenvolvimento económico e de inclusão e coesão sociais.\n\nOs apoios previstos no presente decreto-lei podem ser cumulativos, desde que respeitem a projectos ou actividades diferentes, contemplados em orçamentos independentes, geridos e executados autonomamente. Favorece-se, deste modo, a concentração de recursos, valorizando sinergias que contribuem para a qualificação e o desenvolvimento sustentado da actividade artística. Pretende-se promover uma distribuição equilibrada das actividades artísticas por todo o território nacional, mas ao mesmo tempo evitar o subfinanciamento e o desperdício de recursos que decorrem da multiplicação excessiva do número de entidades apoiadas. Neste sentido, distinguir-se-á entre projecto e entidade de acolhimento, sendo valorizados os projectos inovadores acolhidos por entidades consolidadas no plano técnico-profissional e logístico ou que contribuam para a sua consolidação ou qualificação.\n\nVisando assegurar uma avaliação e um acompanhamento continuados, mais eficientes e rigorosos, das entidades apoiadas, será reforçada a articulação com as direcções regionais de cultura, passando as comissões de acompanhamento e avaliação a integrar, para além de reputados especialistas nas diferentes áreas artísticas, representantes das autarquias locais das áreas onde decorre a actividade, bem como um representante da Inspecção-Geral das Actividades Culturais, quando aplicável. A atribuição dos apoios, sempre que se justifique, deverá ter em conta o parecer fundamentado das comissões de acompanhamento e avaliação.\n\nEm regra, partindo dos indicadores disponíveis, haverá uma contratação por objectivos com as entidades beneficiárias que as estimule a mudanças ou progressos qualitativos e quantitativos e permita corrigir aspectos em que estas revelem fragilidades quando comparadas a nível nacional e ou regional com entidades congéneres. Para tanto, pressupõe-se a necessidade de aperfeiçoar os instrumentos de avaliação das direcções regionais e do Instituto das Artes, visando a disponibilidade pública permanente de dados comparativos fiáveis sobre a evolução recente dos apoios às artes. Uma definição mais rigorosa e fundamentada da contratação por objectivos pressupõe igualmente a diferenciação de critérios e de tipos de entidades e de projectos introduzida por este decreto-lei. Trata-se de induzir a médio e longo prazos uma transformação efectiva do mapa cultural do País, corrigindo as assimetrias regionais.\n\nEm harmonia com o Programa SIMPLEX 2006, de reforma da Administração Pública, são introduzidas medidas de desburocratização e desmaterialização. De uma maneira geral, são adoptados procedimentos mais simplificados e céleres. Em certos casos, e sem prejuízo da transparência e da equidade, os trâmites concursais são substituídos por processos simplificados. Todos os processos e diligências, incluindo as candidaturas, passam a ser realizados por via electrónica. Em nome da transparência, essa e outra documentação gerada, incluindo actas de avaliação e montantes atribuídos, serão colocados no sítio da Internet do Instituto das Artes.\n\nEm síntese, o presente decreto-lei visa, em cumprimento do Programa do Governo, os seguintes desígnios estratégicos:\n\na) Promover o acesso público às artes, contribuindo para a elevação da qualidade de vida, da cidadania e da qualificação das populações;\n\nb) Promover a criatividade e a inovação artísticas;\n\nc) Consolidar as entidades de criação profissionais com comprovada experiência e competência, valorizando a sua missão enquanto organismos dotados de adequada massa crítica para o exercício da sua actividade e o acolhimento de novos projectos;\n\nd) Consolidar as entidades de programação de actividades artísticas que asseguram regularmente, ao longo dos anos, festivais, exposições, mostras e outros eventos de reconhecido mérito e projecção nacional e internacional;\n\ne) Valorizar a rede de cine-teatros e outros equipamentos culturais, apoiando uma programação regular de qualidade, que compreenda uma dimensão educativa e a residência permanente ou periódica de entidades de criação artística;\n\nf) Promover a fixação de entidades de criação e produção artísticas no interior;\n\ng) Promover a internacionalização das artes e dos artistas portugueses;\n\nh) Contribuir para o aprofundamento da cooperação artística internacional, com especial incidência no âmbito europeu e nos espaços lusófono e ibero-americano;\n\ni) Favorecer a articulação entre o apoio às artes e outras políticas sectoriais.\n\nForam ouvidos os agentes culturais do sector e foi promovida a audição da Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52897975": {
+   "fragment_id": "37648675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente decreto-lei estabelece o regime de atribuição de apoios financeiros do Estado, através do Ministério da Cultura, a entidades que exerçam actividades de carácter profissional de criação, de programação ou mistas, nas áreas da arquitectura, do design, das artes digitais, das artes plásticas, da dança, da fotografia, da música, do teatro e das áreas de cruzamento artístico.\n\n2 - São excluídas as actividades que, pela sua natureza ou pelo seu carácter exclusivamente lucrativo, não se inserem nos objectivos de interesse público e de cumprimento do serviço público referidos no artigo 3.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52899075": {
+   "fragment_id": "37648775",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente decreto-lei entende-se por:\n\na) «Arte digital» a prática artística que utiliza essencialmente meios computacionais ou digitais no desenvolvimento de projectos, designadamente em suporte virtual ou em linha, cuja realização, mediação ou fruição requerem uma relação interactiva e funcionalizada por intermédio de dispositivos sensitivos;\n\nb) 'Entidade de criação' qualquer organização profissional de direito privado, sediada no território de Portugal continental, que exerça uma actividade regular predominantemente no domínio da criação;\n\nc) 'Entidade de programação' qualquer organização profissional de direito privado, sediada no território de Portugal continental, que exerça uma actividade regular predominantemente no domínio da programação, nas áreas da gestão e da programação de salas, espaços de exposição e recintos, bem como na gestão e programação de actividades culturais, residências artísticas e actividades não curriculares de formação artística;\n\nd) 'Entidade mista' qualquer organização profissional de direito privado, sediada no território de Portugal continental, que exerça uma actividade regular predominantemente no cruzamento das actividades de criação e de programação;\n\ne) 'Grupos informais' grupos de pessoas singulares ou colectivas, sem personalidade jurídica, organizados para apresentação de candidaturas ao abrigo do presente decreto-lei, desde que nomeiem como seu representante uma pessoa singular, e exerçam predominantemente actividades de criação e ou de programação;\n\nf) 'Entidades beneficiárias' as entidades de criação, as entidades de programação, as entidades mistas, os grupos informais e as pessoas singulares, elegíveis nos termos do presente decreto-lei;\n\ng) «Formação artística» os estágios, as residências, a animação cultural e outras actividades técnicas de aperfeiçoamento em contextos não escolares, abrangendo tanto a teoria como a prática artísticas;\n\nh) (Revogada).\n\ni) (Revogada).\n\nj) (Revogada).\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52899175": {
+   "fragment_id": "37648875",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nAs medidas e os apoios previstos no presente decreto-lei têm como objectivos:\n\na) Assegurar o acesso público aos diversos domínios da actividade artística, concorrendo para a promoção da qualidade de vida, da cidadania e da qualificação das populações;\n\nb) Descentralizar e dinamizar a oferta cultural, corrigindo as assimetrias regionais, e promover a actividade artística como instrumento de desenvolvimento económico e de qualificação, inclusão e coesão sociais;\n\nc) Promover a pesquisa, a experimentação, a criação e a inovação artísticas, actualizando e consolidando o tecido profissional;\n\nd) Promover a partilha de responsabilidades do Estado com os agentes culturais, as autarquias locais e outras entidades, públicas e privadas, com vista a incentivar a criação, a produção e a difusão das artes;\n\ne) Consolidar as entidades e actividades profissionais de criação, de programação e mistas valorizando a sua missão;\n\nf) Promover a qualificação dos artistas portugueses e estrangeiros com residência fiscal em Portugal;\n\ng) Promover a residência artística de entidades de criação;\n\nh) Promover a produção artística em rede;\n\ni) Valorizar a rede de cineteatros e outros equipamentos culturais, apoiando uma programação regular de qualidade, que compreenda uma dimensão educativa;\n\nj) Promover a internacionalização das artes portuguesas, bem como o aprofundamento da cooperação com outros países;\n\nl) Promover publicações e outros materiais de difusão ou divulgação das artes, em suporte digital, em linha ou impressos;\n\nm) Articular as artes com outras áreas sectoriais, designadamente educação, ciência e tecnologia, ambiente e ordenamento do território, turismo e solidariedade social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52901275": {
+   "fragment_id": "37648975",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipos de apoio",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 4.º — Tipos de apoio\n\n1 - Para a prossecução dos objectivos definidos no artigo anterior são criados os seguintes tipos de apoio:\n\na) Apoio directo, que contempla as seguintes modalidades:\n\ni) Apoio quadrienal;\n\nii) Apoio bienal;\n\niii) Apoio anual;\n\niv) Apoio pontual;\n\nv) (Revogada.)\n\nvi) (Revogada.)\n\nb) Apoio indirecto, que contempla as seguintes modalidades:\n\ni) Acordo tripartido celebrado entre Ministério da Cultura, através da Direcção-Geral das Artes (DGArtes), autarquia local e entidade de criação ou entidade de programação ou entidade mista;\n\nii) Protocolo celebrado entre Ministério da Cultura, através da DGArtes, autarquias locais e ou outras entidades públicas ou privadas que não as previstas na alínea anterior;\n\niii) Programa Território-Artes;\n\nc) Apoios à internacionalização, edição, documentação e registo, experimentação, formação artística e equipamento;\n\nd) Apoio em articulação com outras políticas sectoriais.\n\n2 - Extraordinariamente, em situações excepcionais, de manifesto interesse público, podem ser atribuídos apoios directos a projectos ou actividades de relevante interesse cultural, por despacho do membro do Governo responsável pela área da cultura, publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes.\n\n3 - Cada modalidade de apoio é objecto de regulamentação a aprovar por portaria do membro do Governo responsável pela área da cultura, no prazo de 60 dias após a publicação do presente decreto-lei.\n\n4 - Os apoios têm a natureza de apoio financeiro não reembolsável, e a sua atribuição depende de a entidade beneficiária ter a sua situação regularizada perante o fisco e a segurança social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52901375": {
+   "fragment_id": "37649075",
+   "type": 11,
+   "heading": "Artigo 5.º — Montantes",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 5.º — Montantes\n\nO montante financeiro disponível e o número de entidades a apoiar em cada um dos tipos de apoio é fixado por despacho do membro do Governo responsável pela área da cultura, publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes, antes do início do respectivo procedimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52901475": {
+   "fragment_id": "37649175",
+   "type": 11,
+   "heading": "Artigo 6.º — Correcção de assimetrias regionais",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 6.º — Correcção de assimetrias regionais\n\n1 - Com vista à correcção das assimetrias regionais, e desde que salvaguardado o carácter nacional das actividades apoiadas, é fixado, antes do início de cada procedimento, por despacho do membro do Governo responsável pela área da cultura, publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes, o número máximo de candidaturas a apoiar dentro da zona de competência de cada direcção regional de cultura, bem como o montante global afecto por cada zona.\n\n2 - Para a determinação do número máximo de candidaturas a apoiar e do respectivo montante afecto nos termos do número anterior, é tida em consideração a avaliação do tecido cultural local, a respectiva diversidade e a necessidade de desenvolvimento, nomeadamente em articulação com o Programa Território Artes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52909975": {
+   "fragment_id": "37649275",
+   "type": 8,
+   "heading": "Secção I — Processo simplificado",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "#### Secção I — Processo simplificado\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52910075": {
+   "fragment_id": "39275675",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio quadrienal a entidades de criação",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 7.º — Apoio quadrienal a entidades de criação\n\nTendo em vista a atribuição de apoio quadrienal a entidades de criação nas áreas da dança, da música, do teatro e transdisciplinares, o Ministério da Cultura, através do IA, apura, de quatro em quatro anos, as entidades que, preenchendo os requisitos previstos neste decreto-lei e de acordo com os critérios de seriação a fixar na regulamentação indicada no n.º 3 do artigo 4.º, se revelem as que mais bem asseguram a prossecução dos objectivos previstos no artigo 3.º\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52910175": {
+   "fragment_id": "39275775",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades de criação",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 8.º — Entidades de criação\n\n1 - As entidades de criação passíveis de serem apoiadas nesta modalidade têm de preencher cumulativamente os seguintes requisitos:\n\na) Ter, nas áreas do teatro e da música, pelo menos, 15 anos de actividade profissional continuada, e ter tido apoio financeiro do Ministério da Cultura durante um período de 8 anos no cômputo dos 10 anos imediatamente anteriores à data do processo de selecção;\n\nb) Ter, nas áreas da dança e transdisciplinar, pelo menos, 10 anos de actividade profissional continuada e ter tido apoio financeiro do Ministério da Cultura durante um período mínimo de 4 anos no cômputo dos 8 anos imediatamente anteriores à data do processo de selecção;\n\nc) Ter núcleo profissional permanente;\n\nd) Ter instalações próprias licenciadas, ou possibilidade de utilização regular dessas instalações através de cedência gratuita, arrendamento ou concessão, para apresentação dos espectáculos e criações;\n\ne) Obter parecer favorável da comissão de acompanhamento e avaliação.\n\n2 - Para efeitos do disposto no artigo 7.º e na alínea b) do n.º 1 do artigo 8.º, às entidades de criação na área transdisciplinar, com, pelo menos, quatro anos de apoio nesta área, é considerado o exercício da actividade nas áreas da dança, da música e do teatro.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52901575": {
+   "fragment_id": "39275875",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio quadrienal",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 9.º — Apoio quadrienal\n\n1 - As candidaturas, a apresentar de quatro em quatro anos, para apoios quadrienais a entidades de criação, a entidades de programação e a entidades mistas, compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º\n\n2 - Podem candidatar-se ao apoio quadrienal, as entidades de criação, as entidades de programação e as entidades mistas que preencham os seguintes requisitos:\n\na) Ter à data de apresentação da candidatura, pelo menos, seis anos de actividade profissional continuada e ter beneficiado de apoio financeiro do Ministério da Cultura durante um período mínimo de três anos;\n\nb) Ter instalações próprias para os fins a que se destina, ou possibilidade de utilização regular de instalações através de cedência gratuita, arrendamento ou concessão, para apresentação das suas actividades.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52901675": {
+   "fragment_id": "39275975",
+   "type": 11,
+   "heading": "Artigo 10.º — Apoio bienal",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 10.º — Apoio bienal\n\n1 - As candidaturas, a apresentar de dois em dois anos, para apoios bienais a entidades de criação, a entidades de programação e a entidades mistas, compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º\n\n2 - Podem candidatar-se ao apoio bienal, as entidades de criação, as entidades de programação e as entidades mistas que tenham, pelo menos, três anos de actividade profissional continuada na data de apresentação da candidatura.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52895875": {
+   "fragment_id": "39378375",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Apoio anual",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 10.º-A — Apoio anual\n\n1 - As candidaturas, a apresentar anualmente, para apoios anuais a entidades de criação, a entidades de programação e a entidades mistas, compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º\n\n2 - Podem candidatar-se ao apoio anual, as entidades de criação, as entidades de programação ou as entidades mistas que tenham, pelo menos, dois anos de actividade profissional continuada na data de apresentação da candidatura.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52901775": {
+   "fragment_id": "39276075",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio pontual",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 11.º — Apoio pontual\n\n1 - As candidaturas a apresentar, semestralmente, para apoio a projectos de natureza pontual por parte de entidades de criação, entidades de programação, entidades mistas, grupos informais e pessoas singulares compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º\n\n2 - Podem candidatar-se ao apoio pontual, as entidades de criação, as entidades de programação e as entidades mistas, os grupos informais e as pessoas singulares.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52901875": {
+   "fragment_id": "39276175",
+   "type": 11,
+   "heading": "Artigo 12.º — Apreciação das candidaturas",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 12.º — Apreciação das candidaturas\n\n1 - A apreciação das candidaturas é efectuada por comissões, nomeadas pelo membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGArtes, compostas por três individualidades de reconhecido mérito e competência nas áreas artísticas dos projectos apresentados, e por um técnico da DGArtes, que preside.\n\n2 - Os critérios para apreciação das candidaturas e as regras aplicáveis aos procedimentos das comissões de apreciação constam da regulamentação indicada no n.º 3 do artigo 4.º\n\n3 - Sem prejuízo do previsto na regulamentação indicada no n.º 3 do artigo 4.º, a avaliação anterior das entidades candidatas, quando existente, é disponibilizada às comissões de apreciação.\n\n4 - As propostas de decisão da comissão de apreciação são homologadas pelo director-geral da DGArtes, sendo o processo tornado público no sítio da Internet da DGArtes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52896275": {
+   "fragment_id": "39378475",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Apreciação de candidaturas para apoio pontual",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 12.º-A — Apreciação de candidaturas para apoio pontual\n\nAs candidaturas previstas no n.º 1 do artigo 11.º são apreciadas e avaliadas do ponto de vista técnico pela DGArtes e submetidas a decisão do respectivo director-geral, sem faculdade de delegação, sendo os resultados tornados públicos no sítio da Internet da DGArtes.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52896375": {
+   "fragment_id": "39276275",
+   "type": 11,
+   "heading": "Artigo 13.º — Remuneração dos membros das comissões de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Remuneração dos membros das comissões de apreciação\n\nOs membros das comissões de apreciação que não sejam trabalhadores da Administração Pública, directa ou indirecta, e local, têm direito a uma remuneração indexada ao número de propostas a analisar, cujo montante é fixado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da cultura."
+  },
+  "52901975": {
+   "fragment_id": "39276375",
+   "type": 11,
+   "heading": "Artigo 14.º — Formalização do apoio financeiro",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 14.º — Formalização do apoio financeiro\n\n1 - O apoio financeiro concedido a cada entidade beneficiária é formalizado mediante contrato celebrado entre cada uma das entidades e a DGArtes.\n\n2 - O contrato referido no número anterior contém, obrigatoriamente, os seguintes elementos, sem prejuízo de outros que se entenda necessário:\n\na) Objecto do contrato;\n\nb) Direitos e obrigações de cada uma das partes;\n\nc) Período de vigência do contrato;\n\nd) Quantificação do financiamento e respectivo faseamento; e\n\ne) Consequências face a situações de incumprimento contratual, nomeadamente com observância do disposto nos artigos 19.º e 20.º\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52902075": {
+   "fragment_id": "39276475",
+   "type": 11,
+   "heading": "Artigo 15.º — Comissões de acompanhamento e avaliação",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 15.º — Comissões de acompanhamento e avaliação\n\n1 - Sem prejuízo do previsto por portaria referida no n.º 3 do artigo 4.º, o acompanhamento e a avaliação da execução dos contratos competem à DGArtes, através das comissões de acompanhamento e avaliação.\n\n2 - As comissões de acompanhamento e avaliação, sob coordenação da DGArtes, funcionam junto das direcções regionais de cultura e integram, para além de reputados especialistas nas diferentes áreas artísticas, o director regional de cultura, ou quem o represente, que preside.\n\n3 - Os representantes das autarquias locais onde decorre a actividade são convidados pelo director regional de cultura a integrar as comissões de acompanhamento e avaliação.\n\n4 - As regras de funcionamento das comissões de acompanhamento e avaliação constam da regulamentação indicada no n.º 3 do artigo 4.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52904175": {
+   "fragment_id": "39276575",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação permanente",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 16.º — Avaliação permanente\n\nAs entidades beneficiárias dos apoios quadrienais, bienais e anuais são objecto de uma avaliação permanente por parte das comissões de acompanhamento e avaliação que elaboram um relatório anual.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52910275": {
+   "fragment_id": "39276675",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoio à internacionalização",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 17.º — Apoio à internacionalização\n\nO Ministro da Cultura fixa anualmente, sob proposta do IA, uma verba para apoio à internacionalização nas áreas artísticas contempladas neste decreto-lei.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52910375": {
+   "fragment_id": "39276775",
+   "type": 11,
+   "heading": "Artigo 18.º — Apoios complementares",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 18.º — Apoios complementares\n\n1 - O Ministro da Cultura fixa anualmente, sob proposta do IA, uma verba para apoios complementares à actividade artística principal nas áreas definidas no n.º 1 do artigo 1.º, aos criadores singulares para a edição e formação artística, e às entidades de criação para a edição, formação artística e reequipamento.\n\n2 - A avaliação técnica dos pedidos cabe ao IA.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52904275": {
+   "fragment_id": "39276875",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 19.º — Suspensão\n\n1 - A falta de cumprimento pela entidade beneficiária das respectivas obrigações, ou a verificação superveniente da não prossecução dos objectivos que presidiram à atribuição do financiamento, conferem à DGArtes direito à suspensão, com efeitos imediatos, do contrato relativamente ao qual se verifique o incumprimento.\n\n2 - A decisão de suspensão e a respectiva fundamentação competem à DGArtes e são por esta comunicadas à entidade beneficiária.\n\n3 - A DGArtes fixa, na comunicação de suspensão, um prazo máximo de 20 dias úteis para a sanação do incumprimento das obrigações, tendo-se por revogada a decisão de suspensão a partir do reconhecimento pela DGArtes da sanação do incumprimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52905375": {
+   "fragment_id": "39276975",
+   "type": 11,
+   "heading": "Artigo 20.º — Resolução",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 20.º — Resolução\n\n1 - Findo o prazo referido no n.º 3 do artigo anterior, sem que tenha sido sanado o incumprimento das obrigações, o contrato é resolvido pela DGArtes.\n\n2 - Em caso de resolução, a entidade beneficiária do apoio repõe as quantias recebidas correspondentes ao plano de actividade não cumprido, ficando igualmente impossibilitada de apresentar candidaturas nos termos fixados por portaria referida no n.º 3 do artigo 4.º enquanto não tiver procedido à devolução dessas quantias.\n\n3 - A cobrança coerciva das importâncias referidas no número anterior é efectuada através de processo de execução fiscal.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52905475": {
+   "fragment_id": "39277075",
+   "type": 11,
+   "heading": "Artigo 21.º — Modalidades",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 21.º — Modalidades\n\n1 - Visando estimular a correcção das assimetrias na oferta cultural e a dinamização dos equipamentos culturais em todo o território nacional, o Ministério da Cultura pode celebrar, através da DGArtes:\n\na) Acordos tripartidos com as autarquias locais e as entidades de criação, entidades de programação ou entidades mistas;\n\nb) Protocolos com autarquias locais e ou outras entidades públicas ou privadas que não as previstas na alínea anterior.\n\n2 - É ainda desenvolvido o Programa Território-Artes, oficina virtual de apoio à itinerância, à co-produção e às redes de programação, cujo regulamento é aprovado por portaria do Ministro da Cultura.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52905575": {
+   "fragment_id": "39277175",
+   "type": 11,
+   "heading": "Artigo 22.º — Acordos tripartidos",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 22.º — Acordos tripartidos\n\n1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo anterior, a autarquia local ou as autarquias locais e as entidades de criação, entidades de programação ou entidades mistas, nomeadamente, cineteatros, centros culturais e espaços de arte contemporânea, apresentam à DGArtes uma proposta conjunta, nos termos fixados por portaria referida no n.º 3 do artigo 4.º\n\n2 - Podem candidatar-se para efeitos do número anterior, as entidades de criação, as entidades de programação ou as entidades mistas co-responsáveis que tenham, pelo menos, cinco anos de actividade profissional continuada na data de apresentação da candidatura.\n\n3 - A avaliação técnica das propostas cabe à DGArtes, ouvida a direcção regional de cultura territorialmente competente.\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52905675": {
+   "fragment_id": "39277275",
+   "type": 11,
+   "heading": "Artigo 23.º — Protocolos",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 23.º — Protocolos\n\n1 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 21.º, as partes acordam os termos e os objectivos protocolares, nos termos fixados por portaria referida no n.º 3 do artigo 4.º, sem prejuízo do disposto no n.º 2 do artigo 24.º\n\n2 - A apreciação e avaliação técnica dos pedidos cabem à DGArtes, ouvida a direcção regional de cultura territorialmente competente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52896475": {
+   "fragment_id": "39378575",
+   "type": 11,
+   "heading": "Artigo 23.º-A — Apoios específicos",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 23.º-A — Apoios específicos\n\nO membro do Governo responsável pela área da cultura fixa anualmente, por despacho publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes, uma verba para os programas específicos de internacionalização, edição, documentação e registo, experimentação, formação artística e equipamento.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52905775": {
+   "fragment_id": "39277375",
+   "type": 11,
+   "heading": "Artigo 24.º — Formalização",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 24.º — Formalização\n\n1 - As propostas que sejam objecto de apreciação favorável pela DGArtes são submetidas à consideração do membro do Governo responsável pela área da cultura que, em caso de concordância, as homologa, dando lugar ao início da celebração dos respectivos contratos.\n\n2 - No caso dos protocolos para apoio à programação podem os mesmos ser celebrados com empresas municipais responsáveis pela gestão da programação dos espaços objecto da proposta.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52906875": {
+   "fragment_id": "39277475",
+   "type": 11,
+   "heading": "Artigo 25.º — Acompanhamento e avaliação",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 25.º — Acompanhamento e avaliação\n\n1 - Para efeitos do disposto no artigo 22.º, as comissões de acompanhamento e avaliação, sob coordenação da DGArtes, funcionam junto das direcções regionais de cultura e integram, para além de reputados especialistas nas diferentes áreas artísticas, o director regional de cultura, ou quem o represente, que preside, e representantes das autarquias locais envolvidas.\n\n2 - Os representantes das autarquias locais onde decorre a actividade são convidados pelo director regional de cultura a integrar as comissões de acompanhamento e avaliação.\n\n3 - As regras de funcionamento das comissões de acompanhamento e avaliação são fixadas por portaria referida no n.º 3 do artigo 4.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52907875": {
+   "fragment_id": "37649875",
+   "type": 11,
+   "heading": "Artigo 27.º — Cumulação de apoios",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 27.º — Cumulação de apoios\n\n1 - A mesma actividade e o mesmo projecto não podem beneficiar de apoios cumulativos previstos no presente decreto-lei.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52907975": {
+   "fragment_id": "37649975",
+   "type": 11,
+   "heading": "Artigo 28.º — Obrigações especiais das entidades beneficiárias",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 28.º — Obrigações especiais das entidades beneficiárias\n\nSem prejuízo das obrigações constantes dos contratos, bem como das que sejam estabelecidas nos regulamentos previstos no presente decreto-lei, as entidades beneficiárias ficam obrigadas a:\n\na) Fornecer às comissões previstas neste decreto-lei, bem como aos serviços públicos competentes, todas as informações que lhes sejam solicitadas relativas à utilização dos apoios atribuídos;\n\nb) Indicar se receberam outros apoios públicos ou privados, mencionando, expressamente, os montantes atribuídos, o período respectivo e a entidade apoiante;\n\nc) Respeitar os requisitos e condições que determinaram a atribuição do apoio financeiro;\n\nd) Justificar o cumprimento das obrigações contratuais, designadamente através da apresentação de relatórios de actividades.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "52908975": {
+   "fragment_id": "37650075",
+   "type": 11,
+   "heading": "Artigo 29.º — Encargos plurianuais",
+   "in_force_from": "2008-10-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 29.º — Encargos plurianuais\n\nOs encargos decorrentes da aplicação do presente decreto-lei que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento do orçamento da DGArtes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "51208075": {
+   "fragment_id": "36146575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.\n\nPromulgado em 30 de Outubro de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 31 de Outubro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "108037720": {
+   "fragment_id": "36146175",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037721": {
+   "fragment_id": "37648675",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente decreto-lei estabelece o regime de atribuição de apoios financeiros do Estado, através do Ministério da Cultura, a entidades que exerçam actividades de carácter profissional de criação, de programação ou mistas, nas áreas da arquitectura, do design, das artes digitais, das artes plásticas, da dança, da fotografia, da música, do teatro e das áreas de cruzamento artístico.\n\n2 - São excluídas as actividades que, pela sua natureza ou pelo seu carácter exclusivamente lucrativo, não se inserem nos objectivos de interesse público e de cumprimento do serviço público referidos no artigo 3.º\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037722": {
+   "fragment_id": "37648775",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente decreto-lei entende-se por:\n\na) «Arte digital» a prática artística que utiliza essencialmente meios computacionais ou digitais no desenvolvimento de projectos, designadamente em suporte virtual ou em linha, cuja realização, mediação ou fruição requerem uma relação interactiva e funcionalizada por intermédio de dispositivos sensitivos;\n\nb) 'Entidade de criação' qualquer organização profissional de direito privado, sediada no território de Portugal continental, que exerça uma actividade regular predominantemente no domínio da criação;\n\nc) 'Entidade de programação' qualquer organização profissional de direito privado, sediada no território de Portugal continental, que exerça uma actividade regular predominantemente no domínio da programação, nas áreas da gestão e da programação de salas, espaços de exposição e recintos, bem como na gestão e programação de actividades culturais, residências artísticas e actividades não curriculares de formação artística;\n\nd) 'Entidade mista' qualquer organização profissional de direito privado, sediada no território de Portugal continental, que exerça uma actividade regular predominantemente no cruzamento das actividades de criação e de programação;\n\ne) 'Grupos informais' grupos de pessoas singulares ou colectivas, sem personalidade jurídica, organizados para apresentação de candidaturas ao abrigo do presente decreto-lei, desde que nomeiem como seu representante uma pessoa singular, e exerçam predominantemente actividades de criação e ou de programação;\n\nf) 'Entidades beneficiárias' as entidades de criação, as entidades de programação, as entidades mistas, os grupos informais e as pessoas singulares, elegíveis nos termos do presente decreto-lei;\n\ng) «Formação artística» os estágios, as residências, a animação cultural e outras actividades técnicas de aperfeiçoamento em contextos não escolares, abrangendo tanto a teoria como a prática artísticas;\n\nh) (Revogada).\n\ni) (Revogada).\n\nj) (Revogada).\n\n2 - (Revogado).\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037723": {
+   "fragment_id": "37648875",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nAs medidas e os apoios previstos no presente decreto-lei têm como objectivos:\n\na) Assegurar o acesso público aos diversos domínios da actividade artística, concorrendo para a promoção da qualidade de vida, da cidadania e da qualificação das populações;\n\nb) Descentralizar e dinamizar a oferta cultural, corrigindo as assimetrias regionais, e promover a actividade artística como instrumento de desenvolvimento económico e de qualificação, inclusão e coesão sociais;\n\nc) Promover a pesquisa, a experimentação, a criação e a inovação artísticas, actualizando e consolidando o tecido profissional;\n\nd) Promover a partilha de responsabilidades do Estado com os agentes culturais, as autarquias locais e outras entidades, públicas e privadas, com vista a incentivar a criação, a produção e a difusão das artes;\n\ne) Consolidar as entidades e actividades profissionais de criação, de programação e mistas valorizando a sua missão;\n\nf) Promover a qualificação dos artistas portugueses e estrangeiros com residência fiscal em Portugal;\n\ng) Promover a residência artística de entidades de criação;\n\nh) Promover a produção artística em rede;\n\ni) Valorizar a rede de cineteatros e outros equipamentos culturais, apoiando uma programação regular de qualidade, que compreenda uma dimensão educativa;\n\nj) Promover a internacionalização das artes portuguesas, bem como o aprofundamento da cooperação com outros países;\n\nl) Promover publicações e outros materiais de difusão ou divulgação das artes, em suporte digital, em linha ou impressos;\n\nm) Articular as artes com outras áreas sectoriais, designadamente educação, ciência e tecnologia, ambiente e ordenamento do território, turismo e solidariedade social.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037724": {
+   "fragment_id": "37648975",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipos de apoio",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 4.º — Tipos de apoio\n\n1 - Para a prossecução dos objectivos definidos no artigo anterior são criados os seguintes tipos de apoio:\n\na) Apoio directo, que contempla as seguintes modalidades:\n\ni) Apoio quadrienal;\n\nii) Apoio bienal;\n\niii) Apoio anual;\n\niv) Apoio pontual;\n\nv) (Revogada.)\n\nvi) (Revogada.)\n\nb) Apoio indirecto, que contempla as seguintes modalidades:\n\ni) Acordo tripartido celebrado entre Ministério da Cultura, através da Direcção-Geral das Artes (DGArtes), autarquia local e entidade de criação ou entidade de programação ou entidade mista;\n\nii) Protocolo celebrado entre Ministério da Cultura, através da DGArtes, autarquias locais e ou outras entidades públicas ou privadas que não as previstas na alínea anterior;\n\niii) Programa Território-Artes;\n\nc) Apoios à internacionalização, edição, documentação e registo, experimentação, formação artística e equipamento;\n\nd) Apoio em articulação com outras políticas sectoriais.\n\n2 - Extraordinariamente, em situações excepcionais, de manifesto interesse público, podem ser atribuídos apoios directos a projectos ou actividades de relevante interesse cultural, por despacho do membro do Governo responsável pela área da cultura, publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes.\n\n3 - Cada modalidade de apoio é objecto de regulamentação a aprovar por portaria do membro do Governo responsável pela área da cultura, no prazo de 60 dias após a publicação do presente decreto-lei.\n\n4 - Os apoios têm a natureza de apoio financeiro não reembolsável, e a sua atribuição depende de a entidade beneficiária ter a sua situação regularizada perante o fisco e a segurança social.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037725": {
+   "fragment_id": "37649075",
+   "type": 11,
+   "heading": "Artigo 5.º — Montantes",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 5.º — Montantes\n\nO montante financeiro disponível e o número de entidades a apoiar em cada um dos tipos de apoio é fixado por despacho do membro do Governo responsável pela área da cultura, publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes, antes do início do respectivo procedimento.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037726": {
+   "fragment_id": "37649175",
+   "type": 11,
+   "heading": "Artigo 6.º — Correcção de assimetrias regionais",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 6.º — Correcção de assimetrias regionais\n\n1 - Com vista à correcção das assimetrias regionais, e desde que salvaguardado o carácter nacional das actividades apoiadas, é fixado, antes do início de cada procedimento, por despacho do membro do Governo responsável pela área da cultura, publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes, o número máximo de candidaturas a apoiar dentro da zona de competência de cada direcção regional de cultura, bem como o montante global afecto por cada zona.\n\n2 - Para a determinação do número máximo de candidaturas a apoiar e do respectivo montante afecto nos termos do número anterior, é tida em consideração a avaliação do tecido cultural local, a respectiva diversidade e a necessidade de desenvolvimento, nomeadamente em articulação com o Programa Território Artes.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037727": {
+   "fragment_id": "36146275",
+   "type": 1,
+   "heading": "Capítulo II — Apoios directos",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "### Capítulo II — Apoios directos\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037728": {
+   "fragment_id": "37649275",
+   "type": 8,
+   "heading": "Secção I — Processo simplificado",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "#### Secção I — Processo simplificado\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037729": {
+   "fragment_id": "39275675",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio quadrienal a entidades de criação",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 7.º — Apoio quadrienal a entidades de criação\n\nTendo em vista a atribuição de apoio quadrienal a entidades de criação nas áreas da dança, da música, do teatro e transdisciplinares, o Ministério da Cultura, através do IA, apura, de quatro em quatro anos, as entidades que, preenchendo os requisitos previstos neste decreto-lei e de acordo com os critérios de seriação a fixar na regulamentação indicada no n.º 3 do artigo 4.º, se revelem as que mais bem asseguram a prossecução dos objectivos previstos no artigo 3.º\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037730": {
+   "fragment_id": "39275775",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades de criação",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 8.º — Entidades de criação\n\n1 - As entidades de criação passíveis de serem apoiadas nesta modalidade têm de preencher cumulativamente os seguintes requisitos:\n\na) Ter, nas áreas do teatro e da música, pelo menos, 15 anos de actividade profissional continuada, e ter tido apoio financeiro do Ministério da Cultura durante um período de 8 anos no cômputo dos 10 anos imediatamente anteriores à data do processo de selecção;\n\nb) Ter, nas áreas da dança e transdisciplinar, pelo menos, 10 anos de actividade profissional continuada e ter tido apoio financeiro do Ministério da Cultura durante um período mínimo de 4 anos no cômputo dos 8 anos imediatamente anteriores à data do processo de selecção;\n\nc) Ter núcleo profissional permanente;\n\nd) Ter instalações próprias licenciadas, ou possibilidade de utilização regular dessas instalações através de cedência gratuita, arrendamento ou concessão, para apresentação dos espectáculos e criações;\n\ne) Obter parecer favorável da comissão de acompanhamento e avaliação.\n\n2 - Para efeitos do disposto no artigo 7.º e na alínea b) do n.º 1 do artigo 8.º, às entidades de criação na área transdisciplinar, com, pelo menos, quatro anos de apoio nesta área, é considerado o exercício da actividade nas áreas da dança, da música e do teatro.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037731": {
+   "fragment_id": "37649375",
+   "type": 8,
+   "heading": "Secção II — Apresentação de candidaturas",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "#### Secção II — Apresentação de candidaturas\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037732": {
+   "fragment_id": "39275875",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio quadrienal",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 9.º — Apoio quadrienal\n\n1 - As candidaturas, a apresentar de quatro em quatro anos, para apoios quadrienais a entidades de criação, a entidades de programação e a entidades mistas, compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º\n\n2 - Podem candidatar-se ao apoio quadrienal, as entidades de criação, as entidades de programação e as entidades mistas que preencham os seguintes requisitos:\n\na) Ter à data de apresentação da candidatura, pelo menos, seis anos de actividade profissional continuada e ter beneficiado de apoio financeiro do Ministério da Cultura durante um período mínimo de três anos;\n\nb) Ter instalações próprias para os fins a que se destina, ou possibilidade de utilização regular de instalações através de cedência gratuita, arrendamento ou concessão, para apresentação das suas actividades.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037733": {
+   "fragment_id": "39275975",
+   "type": 11,
+   "heading": "Artigo 10.º — Apoio bienal",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 10.º — Apoio bienal\n\n1 - As candidaturas, a apresentar de dois em dois anos, para apoios bienais a entidades de criação, a entidades de programação e a entidades mistas, compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º\n\n2 - Podem candidatar-se ao apoio bienal, as entidades de criação, as entidades de programação e as entidades mistas que tenham, pelo menos, três anos de actividade profissional continuada na data de apresentação da candidatura.\n\n3 - (Revogado).\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037734": {
+   "fragment_id": "39378375",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Apoio anual",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 10.º-A — Apoio anual\n\n1 - As candidaturas, a apresentar anualmente, para apoios anuais a entidades de criação, a entidades de programação e a entidades mistas, compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º\n\n2 - Podem candidatar-se ao apoio anual, as entidades de criação, as entidades de programação ou as entidades mistas que tenham, pelo menos, dois anos de actividade profissional continuada na data de apresentação da candidatura.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037735": {
+   "fragment_id": "39276075",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio pontual",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 11.º — Apoio pontual\n\n1 - As candidaturas a apresentar, semestralmente, para apoio a projectos de natureza pontual por parte de entidades de criação, entidades de programação, entidades mistas, grupos informais e pessoas singulares compreendem as áreas artísticas referidas no n.º 1 do artigo 1.º\n\n2 - Podem candidatar-se ao apoio pontual, as entidades de criação, as entidades de programação e as entidades mistas, os grupos informais e as pessoas singulares.\n\n3 - (Revogado).\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037736": {
+   "fragment_id": "39276175",
+   "type": 11,
+   "heading": "Artigo 12.º — Apreciação das candidaturas",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 12.º — Apreciação das candidaturas\n\n1 - A apreciação das candidaturas é efectuada por comissões, nomeadas pelo membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGArtes, compostas por três individualidades de reconhecido mérito e competência nas áreas artísticas dos projectos apresentados, e por um técnico da DGArtes, que preside.\n\n2 - Os critérios para apreciação das candidaturas e as regras aplicáveis aos procedimentos das comissões de apreciação constam da regulamentação indicada no n.º 3 do artigo 4.º\n\n3 - Sem prejuízo do previsto na regulamentação indicada no n.º 3 do artigo 4.º, a avaliação anterior das entidades candidatas, quando existente, é disponibilizada às comissões de apreciação.\n\n4 - As propostas de decisão da comissão de apreciação são homologadas pelo director-geral da DGArtes, sendo o processo tornado público no sítio da Internet da DGArtes.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037737": {
+   "fragment_id": "39378475",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Apreciação de candidaturas para apoio pontual",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 12.º-A — Apreciação de candidaturas para apoio pontual\n\nAs candidaturas previstas no n.º 1 do artigo 11.º são apreciadas e avaliadas do ponto de vista técnico pela DGArtes e submetidas a decisão do respectivo director-geral, sem faculdade de delegação, sendo os resultados tornados públicos no sítio da Internet da DGArtes.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037738": {
+   "fragment_id": "39276275",
+   "type": 11,
+   "heading": "Artigo 13.º — Remuneração dos membros das comissões de apreciação",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "###### Artigo 13.º — Remuneração dos membros das comissões de apreciação\n\nOs membros das comissões de apreciação que não sejam trabalhadores da Administração Pública, directa ou indirecta, e local, têm direito a uma remuneração indexada ao número de propostas a analisar, cujo montante é fixado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da cultura.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037739": {
+   "fragment_id": "37649475",
+   "type": 8,
+   "heading": "Secção III — Formalização",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "#### Secção III — Formalização\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037740": {
+   "fragment_id": "39276375",
+   "type": 11,
+   "heading": "Artigo 14.º — Formalização do apoio financeiro",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 14.º — Formalização do apoio financeiro\n\n1 - O apoio financeiro concedido a cada entidade beneficiária é formalizado mediante contrato celebrado entre cada uma das entidades e a DGArtes.\n\n2 - O contrato referido no número anterior contém, obrigatoriamente, os seguintes elementos, sem prejuízo de outros que se entenda necessário:\n\na) Objecto do contrato;\n\nb) Direitos e obrigações de cada uma das partes;\n\nc) Período de vigência do contrato;\n\nd) Quantificação do financiamento e respectivo faseamento; e\n\ne) Consequências face a situações de incumprimento contratual, nomeadamente com observância do disposto nos artigos 19.º e 20.º\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n5 - (Revogado).\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037741": {
+   "fragment_id": "37649575",
+   "type": 8,
+   "heading": "Secção IV — Acompanhamento, avaliação e fiscalização",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "#### Secção IV — Acompanhamento, avaliação e fiscalização\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037742": {
+   "fragment_id": "39276475",
+   "type": 11,
+   "heading": "Artigo 15.º — Comissões de acompanhamento e avaliação",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 15.º — Comissões de acompanhamento e avaliação\n\n1 - Sem prejuízo do previsto por portaria referida no n.º 3 do artigo 4.º, o acompanhamento e a avaliação da execução dos contratos competem à DGArtes, através das comissões de acompanhamento e avaliação.\n\n2 - As comissões de acompanhamento e avaliação, sob coordenação da DGArtes, funcionam junto das direcções regionais de cultura e integram, para além de reputados especialistas nas diferentes áreas artísticas, o director regional de cultura, ou quem o represente, que preside.\n\n3 - Os representantes das autarquias locais onde decorre a actividade são convidados pelo director regional de cultura a integrar as comissões de acompanhamento e avaliação.\n\n4 - As regras de funcionamento das comissões de acompanhamento e avaliação constam da regulamentação indicada no n.º 3 do artigo 4.º\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037743": {
+   "fragment_id": "39276575",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação permanente",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 16.º — Avaliação permanente\n\nAs entidades beneficiárias dos apoios quadrienais, bienais e anuais são objecto de uma avaliação permanente por parte das comissões de acompanhamento e avaliação que elaboram um relatório anual.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037744": {
+   "fragment_id": "39276675",
+   "type": 11,
+   "heading": "Artigo 17.º — Apoio à internacionalização",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 17.º — Apoio à internacionalização\n\nO Ministro da Cultura fixa anualmente, sob proposta do IA, uma verba para apoio à internacionalização nas áreas artísticas contempladas neste decreto-lei.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037745": {
+   "fragment_id": "39276775",
+   "type": 11,
+   "heading": "Artigo 18.º — Apoios complementares",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 18.º — Apoios complementares\n\n1 - O Ministro da Cultura fixa anualmente, sob proposta do IA, uma verba para apoios complementares à actividade artística principal nas áreas definidas no n.º 1 do artigo 1.º, aos criadores singulares para a edição e formação artística, e às entidades de criação para a edição, formação artística e reequipamento.\n\n2 - A avaliação técnica dos pedidos cabe ao IA.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037746": {
+   "fragment_id": "39276875",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 19.º — Suspensão\n\n1 - A falta de cumprimento pela entidade beneficiária das respectivas obrigações, ou a verificação superveniente da não prossecução dos objectivos que presidiram à atribuição do financiamento, conferem à DGArtes direito à suspensão, com efeitos imediatos, do contrato relativamente ao qual se verifique o incumprimento.\n\n2 - A decisão de suspensão e a respectiva fundamentação competem à DGArtes e são por esta comunicadas à entidade beneficiária.\n\n3 - A DGArtes fixa, na comunicação de suspensão, um prazo máximo de 20 dias úteis para a sanação do incumprimento das obrigações, tendo-se por revogada a decisão de suspensão a partir do reconhecimento pela DGArtes da sanação do incumprimento.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037747": {
+   "fragment_id": "39276975",
+   "type": 11,
+   "heading": "Artigo 20.º — Resolução",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 20.º — Resolução\n\n1 - Findo o prazo referido no n.º 3 do artigo anterior, sem que tenha sido sanado o incumprimento das obrigações, o contrato é resolvido pela DGArtes.\n\n2 - Em caso de resolução, a entidade beneficiária do apoio repõe as quantias recebidas correspondentes ao plano de actividade não cumprido, ficando igualmente impossibilitada de apresentar candidaturas nos termos fixados por portaria referida no n.º 3 do artigo 4.º enquanto não tiver procedido à devolução dessas quantias.\n\n3 - A cobrança coerciva das importâncias referidas no número anterior é efectuada através de processo de execução fiscal.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037748": {
+   "fragment_id": "36146375",
+   "type": 1,
+   "heading": "Capítulo III — Apoio indirecto e apoio em articulação com outras políticas sectoriais",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "### Capítulo III — Apoio indirecto e apoio em articulação com outras políticas sectoriais\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037749": {
+   "fragment_id": "37649675",
+   "type": 8,
+   "heading": "Secção I — Apoio indirecto",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "#### Secção I — Apoio indirecto\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037750": {
+   "fragment_id": "39277075",
+   "type": 11,
+   "heading": "Artigo 21.º — Modalidades",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 21.º — Modalidades\n\n1 - Visando estimular a correcção das assimetrias na oferta cultural e a dinamização dos equipamentos culturais em todo o território nacional, o Ministério da Cultura pode celebrar, através da DGArtes:\n\na) Acordos tripartidos com as autarquias locais e as entidades de criação, entidades de programação ou entidades mistas;\n\nb) Protocolos com autarquias locais e ou outras entidades públicas ou privadas que não as previstas na alínea anterior.\n\n2 - É ainda desenvolvido o Programa Território-Artes, oficina virtual de apoio à itinerância, à co-produção e às redes de programação, cujo regulamento é aprovado por portaria do Ministro da Cultura.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037751": {
+   "fragment_id": "39277175",
+   "type": 11,
+   "heading": "Artigo 22.º — Acordos tripartidos",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 22.º — Acordos tripartidos\n\n1 - Para efeitos do disposto na alínea a) do n.º 1 do artigo anterior, a autarquia local ou as autarquias locais e as entidades de criação, entidades de programação ou entidades mistas, nomeadamente, cineteatros, centros culturais e espaços de arte contemporânea, apresentam à DGArtes uma proposta conjunta, nos termos fixados por portaria referida no n.º 3 do artigo 4.º\n\n2 - Podem candidatar-se para efeitos do número anterior, as entidades de criação, as entidades de programação ou as entidades mistas co-responsáveis que tenham, pelo menos, cinco anos de actividade profissional continuada na data de apresentação da candidatura.\n\n3 - A avaliação técnica das propostas cabe à DGArtes, ouvida a direcção regional de cultura territorialmente competente.\n\n4 - (Revogado).\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037752": {
+   "fragment_id": "39277275",
+   "type": 11,
+   "heading": "Artigo 23.º — Protocolos",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 23.º — Protocolos\n\n1 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 21.º, as partes acordam os termos e os objectivos protocolares, nos termos fixados por portaria referida no n.º 3 do artigo 4.º, sem prejuízo do disposto no n.º 2 do artigo 24.º\n\n2 - A apreciação e avaliação técnica dos pedidos cabem à DGArtes, ouvida a direcção regional de cultura territorialmente competente.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037753": {
+   "fragment_id": "39378575",
+   "type": 11,
+   "heading": "Artigo 23.º-A — Apoios específicos",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 23.º-A — Apoios específicos\n\nO membro do Governo responsável pela área da cultura fixa anualmente, por despacho publicado na 2.ª série do Diário da República, sob proposta fundamentada da DGArtes, uma verba para os programas específicos de internacionalização, edição, documentação e registo, experimentação, formação artística e equipamento.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037754": {
+   "fragment_id": "39277375",
+   "type": 11,
+   "heading": "Artigo 24.º — Formalização",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 24.º — Formalização\n\n1 - As propostas que sejam objecto de apreciação favorável pela DGArtes são submetidas à consideração do membro do Governo responsável pela área da cultura que, em caso de concordância, as homologa, dando lugar ao início da celebração dos respectivos contratos.\n\n2 - No caso dos protocolos para apoio à programação podem os mesmos ser celebrados com empresas municipais responsáveis pela gestão da programação dos espaços objecto da proposta.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037755": {
+   "fragment_id": "39277475",
+   "type": 11,
+   "heading": "Artigo 25.º — Acompanhamento e avaliação",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 25.º — Acompanhamento e avaliação\n\n1 - Para efeitos do disposto no artigo 22.º, as comissões de acompanhamento e avaliação, sob coordenação da DGArtes, funcionam junto das direcções regionais de cultura e integram, para além de reputados especialistas nas diferentes áreas artísticas, o director regional de cultura, ou quem o represente, que preside, e representantes das autarquias locais envolvidas.\n\n2 - Os representantes das autarquias locais onde decorre a actividade são convidados pelo director regional de cultura a integrar as comissões de acompanhamento e avaliação.\n\n3 - As regras de funcionamento das comissões de acompanhamento e avaliação são fixadas por portaria referida no n.º 3 do artigo 4.º\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037756": {
+   "fragment_id": "37649775",
+   "type": 8,
+   "heading": "Secção II — Apoios em articulação com outras políticas sectoriais",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "#### Secção II — Apoios em articulação com outras políticas sectoriais\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037757": {
+   "fragment_id": "39277575",
+   "type": 11,
+   "heading": "Artigo 26.º — Co-financiamento",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "###### Artigo 26.º — Co-financiamento\n\n1 - O Ministério da Cultura pode co-financiar, em parceria com outros ministérios, projectos que articulem as artes com outras áreas sectoriais.\n\n2 - A definição deste tipo de apoios será objecto de regulamentação aprovada por portaria conjunta dos ministros responsáveis pela área da cultura e pela área sectorial.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037758": {
+   "fragment_id": "36146475",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037759": {
+   "fragment_id": "37649875",
+   "type": 11,
+   "heading": "Artigo 27.º — Cumulação de apoios",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 27.º — Cumulação de apoios\n\n1 - A mesma actividade e o mesmo projecto não podem beneficiar de apoios cumulativos previstos no presente decreto-lei.\n\n2 - (Revogado).\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037760": {
+   "fragment_id": "37649975",
+   "type": 11,
+   "heading": "Artigo 28.º — Obrigações especiais das entidades beneficiárias",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 28.º — Obrigações especiais das entidades beneficiárias\n\nSem prejuízo das obrigações constantes dos contratos, bem como das que sejam estabelecidas nos regulamentos previstos no presente decreto-lei, as entidades beneficiárias ficam obrigadas a:\n\na) Fornecer às comissões previstas neste decreto-lei, bem como aos serviços públicos competentes, todas as informações que lhes sejam solicitadas relativas à utilização dos apoios atribuídos;\n\nb) Indicar se receberam outros apoios públicos ou privados, mencionando, expressamente, os montantes atribuídos, o período respectivo e a entidade apoiante;\n\nc) Respeitar os requisitos e condições que determinaram a atribuição do apoio financeiro;\n\nd) Justificar o cumprimento das obrigações contratuais, designadamente através da apresentação de relatórios de actividades.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037761": {
+   "fragment_id": "37650075",
+   "type": 11,
+   "heading": "Artigo 29.º — Encargos plurianuais",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+   ],
+   "markdown": "###### Artigo 29.º — Encargos plurianuais\n\nOs encargos decorrentes da aplicação do presente decreto-lei que tenham reflexo em mais de um ano económico são inscritos nos programas de investimento e desenvolvimento do orçamento da DGArtes.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 196/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2008-452939), em vigor a partir de 2008-10-07"
+  },
+  "108037762": {
+   "fragment_id": "37650175",
+   "type": 11,
+   "heading": "Artigo 30.º — Arbitragem",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "###### Artigo 30.º — Arbitragem\n\nOs litígios decorrentes da aplicação do presente decreto-lei podem ser resolvidos por via de arbitragem.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037763": {
+   "fragment_id": "37650275",
+   "type": 11,
+   "heading": "Artigo 31.º — Aplicação da lei no tempo",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "###### Artigo 31.º — Aplicação da lei no tempo\n\n1 - Aos apoios concedidos por contrato até à entrada em vigor deste decreto-lei aplicam-se as regras vigentes à data da celebração daqueles.\n\n2 - Os beneficiários dos apoios referidos no número anterior podem, até 31 de Dezembro de 2006, propor ao IA a cessação dos mesmos e a transição para as modalidades de apoio indirecto previstas no n.º 1 do artigo 21.º\n\n3 - As entidades de criação abrangidas pelo n.º 1 que também organizem festivais podem, até 31 de Dezembro de 2006, propor ao IA uma renegociação dos respectivos contratos para o período remanescente da sua vigência, com base na distinção entre a actividade principal e o festival, discriminados em orçamentos e centros de custos autónomos.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037764": {
+   "fragment_id": "37650375",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 272/2003, de 29 de Outubro, na redacção que lhe foi dada pelo Decreto-Lei n.º 224/2005, de 27 de Dezembro.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037765": {
+   "fragment_id": "37650475",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  },
+  "108037766": {
+   "fragment_id": "36146575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-08-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Isabel da Silva Pires de Lima - Augusto Ernesto Santos Silva.\n\nPromulgado em 30 de Outubro de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 31 de Outubro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 31.º do/a [Decreto-Lei n.º 103/2017 - Diário da República n.º 163/2017, Série I de 2017-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), em vigor a partir de 2017-08-25"
+  }
+ }
+}

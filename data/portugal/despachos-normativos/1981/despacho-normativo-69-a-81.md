@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:273073:por
+title: Despacho Normativo n.º 69-A/81
+short_title: null
+summary: Determina que, no âmbito do XII Recenseamento Geral da População referido às 0 horas do dia 16 de Março de 1981,
+  compete às forças armadas proceder ao recenseamento individual dos militares e pessoal civil das forças armadas que se encontrem
+  em determinadas situações
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Estado-Maior-General das Forças Armadas
+proposing_entity: null
+official_number: 69-A/81
+official_date: null
+publication_date: '1981-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/1981, 1º Suplemento, Série I de 1981-02-28
+  number: '50'
+  series: I
+  supplement: 1º Suplemento
+  pages: 568-(1) a 568-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/02/05001/00010003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '273073'
+  dre_path: /dr/detalhe/despacho-normativo/69-a-1981-273073
+  internal: pt:dre:273073:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-a-1981-273073
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-a-1981-273073
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-02-28T00:00:00Z'
+integrity:
+  source_sha256: b7e9ed881bfe5af26244687cfa646073b8e39f5becb525cc791e5030e391d751
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-69-A-273073.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 69-A/81
+
+1 - No âmbito do XII Recenseamento Geral da População referido às 0 horas do dia 16 de Março de 1981, compete às forças armadas, nos termos da legislação em vigor, proceder, em todo o território nacional, ao recenseamento individual dos militares e pessoal civil das forças armadas que, por razões de vida em convivência ou mesmo de serviço, se encontrem, por um período que englobe o momento censitário e se prolongue para além das 12 horas do dia 16 de Março de 1981, a bordo de navios da Armada ou presentes em quaisquer unidades ou estabelecimentos militares e, ainda, os que habitem em permanência, com ou sem família, em residências existentes no interior de quaisquer edificações militares sem entrada pelo exterior (portanto, sem número de polícia).
+
+Para efeitos das presentes instruções, os navios, unidades e estabelecimentos militares serão designados por órgãos executantes.
+
+2 - São excluídos do recenseamento a cargo das forças armadas:
+
+a) Os militares e civis das forças armadas que normalmente residem, em permanência, com o respectivo agregado familiar ou em convivência, fora de quaisquer instalações ou edificações militares;
+
+b) Os militares e civis das forças armadas que normalmente deveriam ser incluídos nos questionários colectivos, mas que, no momento censitário, se encontrem no domicílio habitual por motivo de doença ou convalescença;
+
+c) Os militares e civis das forças armadas prestando serviço ou frequentando cursos no estrangeiro;
+
+d) Os militares prestando serviço na GNR, GF, PSP e forças de segurança de Macau.
+
+3 - O EMGFA e os Estados-Maiores do Exército, da Força Aérea e da Marinha providenciam no sentido de os respectivos departamentos de administração de pessoal solicitarem do INE, em tempo oportuno, os questionários e demais documentação necessária ao recenseamento que compete às forças armadas.
+
+A sua distribuição pelos órgãos executantes referidos no n.º 1 deve estar concluída até 12 de Março de 1981. Para tanto, e no que se refere ao transporte desta documentação para a Região Autónoma dos Açores, e entre as ilhas, e vice-versa, o EMFA presta a sua colaboração ao EME, EMA e comando militar local. Quanto ao transporte desta documentação entre o continente e a Região Autónoma da Madeira e vice-versa, deverá recorrer-se à TAP.
+
+4 - Os órgãos executantes das forças armadas têm a seu cargo o preenchimento dos seguintes questionários do Instituto Nacional de Estatística (INE) referentes aos «Censos 81»:
+
+a) Questionário colectivo (vinte indivíduos em cada folha intercalar) - destinado ao pessoal presente não residente (os estabelecimentos tais como escolas, hospitais, messes ou estabelecimentos prisionais devem preencher separadamente dois questionários referidos ao conjunto do pessoal docente ou discente, hospitalar e doentes do serviço das messes e hóspedes ou do corpo prisional e presos);
+
+b) Questionários de família e individual - destinados ao pessoal que habita, em permanência, com o seu agregado, em residência existente no interior de qualquer edificação militar (os questionários individuais de cada elemento da família devem ser anexados - agrafados - ao respectivo questionário de família);
+
+c) Questionário individual - destinado ao pessoal que habita, em permanência, isoladamente em residência ou dependência existente no interior de qualquer edificação militar.
+
+5 - Após o preenchimento dos questionários referidos ao momento censitário, a sua devolução à procedência deverá percorrer, no sentido inverso, as etapas inicialmente percorridas por forma a darem entrada no INE até 30 de Abril de 1981.
+
+6 - Chama-se a atenção de todos os órgãos intervenientes neste processo para o sigilo e confidencialidade dos elementos recolhidos nos questionários.
+
+Cada órgão executante deve incluir, se possível, num único envelope ou volume, devidamente lacrado, todos os questionários preenchidos, anotando na capa, por forma bem visível, a designação da entidade remetente, bem como o número de questionários de cada tipo que o envelope ou volume contém.
+
+7 - No referente propriamente ao preenchimento dos questionários, os órgãos executantes devem observar as seguintes regras:
+
+a) Os militares, designadamente os do Serviço Militar Obrigatório (SMO), pertencentes a uma unidade ou estabelecimento onde normalmente coabitam e que, no momento censitário, se encontrem em diligência ou de serviço noutra, ou que se encontrem com baixa nos hospitais ou presos em estabelecimentos prisionais, devem ser inseridos nos questionários colectivos dos últimos e não nos referentes aos seus aquartelamentos;
+
+b) Os militares que só acidentalmente se encontrem, no momento censitário. no domicílio do seu agregado familiar, por motivo de dispensa de fim-de-semana, devem ser inscritos no questionário colectivo da unidade ou estabelecimento a que pertencem, e no seu questionário individual anexo ao questionário de família do seu agregado devem figurar como residentes ausentes;
+
+c) Todos os militares recenseados em questionários colectivos (presentes não residentes) deverão providenciar junto do seu agregado familiar pelo preenchimento do seu questionário individual (como residente mas ausente), devendo este ser anexado ao respectivo questionário de família, a preencher por um membro do seu agregado;
+
+d) O pessoal referido no n.º 2, alínea b), não deve, portanto, ser incluído nos questionários colectivos da unidade ou estabelecimento a que pertence;
+
+e) Deve ser preocupação de todos os comandos directores ou chefes dos órgãos executantes sensibilizar todo o pessoal a recensear pelas forças armadas, e designadamente o pertencente ao SMO, para que cada um esclareça os seus familiares sobre o procedimento referido na alínea c) deste número quanto à sua inclusão no questionário de família, a preencher na sua residência habitual, e ao qual deve ser anexado o seu questionário individual, onde figurará como residente mas ausente.
+
+8 - Para eventuais esclarecimentos de ordem técnica, o EMGFA e os Estados-Maiores dos ramos, através dos respectivos departamentos de administração de pessoal, podem desde já solicitar ao INE, que, para o efeito, se pôs à disposição das forças armadas, a presença, em data a acordar, de um delegado do Instituto no departamento julgado conveniente, em Lisboa, pertencente a cada ramo e EMGFA e ainda nos quartéis-generais das regiões militares. A estas reuniões devem comparecer, em princípio, delegados de todos os órgãos militares executantes.
+
+Nas Regiões Autónomas dos Açores e Madeira, estes esclarecimentos devem ser solicitados, se necessário, aos respectivos serviços regionais de estatística, sediados em Angra do Heroísmo e no Funchal (Ponta Delgada e Horta dispõem apenas de um núcleo cada uma, dependente de Angra do Heroísmo).
+
+9 - As dúvidas suscitadas na aplicação do presente despacho serão resolvidas por despacho do Chefe do Estado-Maior-General das Forças Armadas.
+
+Estado-Maior-General das Forças Armadas, 26 de Fevereiro de 1981. - O Chefe do Estado-Maior-General das Forças Armadas, interino, José Lemos Ferreira, general. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante. - O Chefe do Estado-Maior do Exército, Amadeu Garcia dos Santos, general. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.

@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:615241:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-122453262",
+ "dre_path": "/dr/detalhe/decreto-lei/116-1989-615241",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1989-04-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122453295",
+    "122453296",
+    "122453297",
+    "122453298",
+    "122453299",
+    "122453300",
+    "122453301",
+    "122453302",
+    "122453303",
+    "122453304",
+    "122453305"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:441487:por",
+     "title": "Declaração",
+     "published": "1989-04-29",
+     "dre_path": "/dr/detalhe/declaracao/1989-441487",
+     "date": "1989-04-19"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "122453295": {
+   "fragment_id": "122453263",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 116/89\n\nde 14 de Abril\n\nNa sequência da determinação do Governo de proceder à extinção do Gabinete da Área de Sines (GAS) através da reafectação dos seus valores patrimoniais, pessoal e funções aos serviços e organismos da administração central e local mais vocacionados para o efeito, o GAS transferiu já para outras entidades a quase totalidade das suas atribuições e activos patrimoniais.\n\nEncontram-se ainda sob administração do GAS os terrenos não afectos a infra-estruturas urbanísticas ou industriais, que vêm tendo um aproveitamento agrícola ou florestal.\n\nAlguns dos terrenos a afectar encontram-se já arrendados ou concessionados, prevendo-se que parte da área restante venha a ser concessionada a empresas privadas, visando a rentabilização do património existente.\n\nTratando-se, contudo, de área envolvente a um grande complexo industrial, é de todo o interesse que a exploração económica da floresta, que se pretende ver acrescida, não contenda com a protecção do ambiente e a preservação do equilíbrio ecológico da zona.\n\nCom efeito, as áreas florestais, sobretudo as que se situam na faixa litoral, além da sua função produtiva, desempenham um importante papel como recurso natural interactuante com o solo e o ciclo hidrológico, razões que justificam a sua gestão numa óptica de protecção.\n\nNesta perspectiva global e integrada, as entidades mais vocacionadas para administrar as áreas a transferir são o Ministério do Planeamento e da Administração do Território, no tocante à faixa de protecção litoral, e o Ministério da Agricultura, Pescas e Alimentação, relativamente às restantes áreas agrícolas e florestais.\n\nPelo presente diploma transmite-se para o Estado a propriedade dos terrenos agrícolas e florestais do GAS, bem como edifícios e outro património, ficando afectos ao Ministério do Planeamento e da Administração do Território e ao Ministério da Agricultura, Pescas e Alimentação o pessoal e funções correspondentes.\n\nEm cumprimento do disposto no n.º 2 do artigo 7.º do Decreto-Lei n.º 242/87, de 15 de Junho, prevê-se a afectação à Direcção-Geral do Tesouro de uma percentagem das receitas do Ministério da Agricultura, Pescas e Alimentação geradas pelo património que lhe é afectado, como contrapartida da assunção da dívida do GAS pelo Estado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122453296": {
+   "fragment_id": "122453264",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É transmitida para o Estado a propriedade dos prédios rústicos e urbanos sitos na zona de actuação directa do Gabinete da Área de Sines (GAS) e a este pertencentes, com a área aproximada de 11500 ha, ficando afecta ao Serviço Nacional de Parques, Reservas e Conservação da Natureza (SNPRCN) uma área de protecção litoral e à Direcção-Geral das Florestas (DGF) a restante área dos mesmos prédios.\n\n2 - Excluem-se do disposto no número anterior os prédios onde estão instaladas as unidades industriais, as infra-estruturas e os núcleos urbanos.\n\n3 - Os prédios a que se refere o n.º 1, bem como a área de protecção litoral aí mencionada, vão assinalados na carta anexa ao presente diploma, cujas duas vias de original, à escala 1:25000, ficarão arquivadas, respectivamente, na DGF e no SNPRCN.\n\n4 - O presente diploma constitui título bastante das transmissões dominiais que estatui, procedendo-se às inscrições registrais e matriciais mediante declarações assinadas pelos órgãos competentes do GAS e da Direcção-Geral do Património do Estado, as quais ficarão arquivadas nas conservatórias do registo predial e nas repartições de finanças onde forem inscritos os prédios a que respeitam."
+  },
+  "122453297": {
+   "fragment_id": "122453265",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAos prédios a que se refere o artigo anterior é atribuído o valor global de 2300000 contos, devendo das declarações mencionadas no seu n.º 4 constar o valor de cada um dos prédios a que respeitam."
+  },
+  "122453298": {
+   "fragment_id": "122453266",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - O SNPRCN e a DGF poderão atribuir a exploração das áreas florestais e terrenos agrícolas respectivos, através de concessão, arrendamento ou por qualquer outra forma prevista na lei, a entidades públicas ou privadas.\n\n2 - O SNPRCN e a DGF assumem, relativamente aos contratos de concessão e arrendamento celebrados pelo GAS, a posição jurídica deste, com todos os direitos e obrigações a ela inerentes.\n\n3 - O SNPRCN e a DGF entregarão anualmente à Direcção-Geral do Tesouro, a partir de 1989, uma percentagem das receitas das concessões e arrendamentos de terrenos para fins agrícolas, florestais ou afins, como contrapartida da assunção da dívida do GAS pelo Estado, nos termos do n.º 2 do artigo 7.º do Decreto-Lei n.º 242/87, de 15 de Junho.\n\n4 - A percentagem a que se refere o número anterior será de 20% em 1989 e de 30% nos anos seguintes."
+  },
+  "122453299": {
+   "fragment_id": "122453267",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - A DGF poderá atribuir a outras entidades públicas ou privadas a exploração de pedreiras, saibreiras e areeiros ou de outras fontes de matérias-primas existentes na área que lhe fica afectada, mediante protocolo de concessão, podendo recorrer ao apoio técnico do Centro de Estudos de Geologia e Geotecnia de Santo André, desde que observada a legislação respeitante à exploração de massas minerais.\n\n2 - A atribuição das explorações referidas no número anterior carece de parecer prévio do SNPRCN.\n\n3 - Das receitas provenientes das explorações referidas nos números anteriores será atribuída à Direcção-Geral do Tesouro uma percentagem de 25%."
+  },
+  "122453300": {
+   "fragment_id": "122453268",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Das áreas prediais transmitidas para o Estado nos termos do artigo 1.º será atribuída a exploração de uma área à PORTUCEL - Empresa de Celulose e Papel de Portugal, E. P., em cumprimento do disposto no n.º 2 do artigo 10.º do Decreto-Lei n.º 294/81, de 16 de Outubro, que criou a Reserva Parcial da Serra da Malcata.\n\n2 - A delimitação da área prevista no número anterior será objecto de publicação mediante despacho conjunto dos Ministros das Finanças, do Planeamento e da Administração do Território, da Agricultura, Pescas e Alimentação e da Indústria e Energia."
+  },
+  "122453301": {
+   "fragment_id": "122453269",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs terrenos a que se refere o presente diploma, assinalados na carta anexa, serão desafectados do património do Estado e afectados às entidades competentes para o efeito, caducando automaticamente os contratos de concessão, arrendamento ou outros, celebrados nos termos do artigo anterior, sempre que:\n\na) Sejam necessários para construção urbana ou ampliação de zonas de indústria ligeira, de acordo com os planos directores municipais aprovados;\n\nb) Se destinem à instalação de novas unidades de indústria pesada aprovadas pelas entidades competentes;\n\nc) Se destinem à execução de infra-estruturas e equipamentos colectivos de utilidade pública, como tal reconhecidos pelos serviços ou organismos da administração central ou local competentes para o efeito."
+  },
+  "122453302": {
+   "fragment_id": "122453270",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs estações arqueológicas, conhecidas ou que venham a ser descobertas na área afecta à DGF ou ao SNPRCN, serão preservadas e exploradas sob a direcção do SNPRCN, que procederá à inventariação dos espólios e definirá o seu destino."
+  },
+  "122453303": {
+   "fragment_id": "122453271",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs funcionários e agentes que no GAS desempenhem, há pelo menos três anos, funções relativas às áreas florestais e agrícolas agora afectas à DGF podem solicitar, no prazo de 30 dias a partir da entrada em vigor do presente diploma, a sua integração no quadro de pessoal desta Direcção-Geral."
+  },
+  "122453304": {
+   "fragment_id": "122453272",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO SNPRCN e a DGF assumem, a partir de 1 de Janeiro de 1989, a posição jurídica do GAS, com todos os direitos e obrigações legais ou contratuais relativos aos bens que pelo presente diploma lhes ficam afectos."
+  },
+  "122453305": {
+   "fragment_id": "122453273",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA atribuição de exploração a que se refere o n.º 1 do artigo 3.º do presente diploma será precedida de concurso público, cabendo ao SNPRCN, à DGF e à Direcção-Geral do Planeamento e Agricultura a verificação do cumprimento das condições contratuais estabelecidas relativamente à área litoral de protecção e aos domínios florestais e agrícolas, respectivamente."
+  }
+ }
+}

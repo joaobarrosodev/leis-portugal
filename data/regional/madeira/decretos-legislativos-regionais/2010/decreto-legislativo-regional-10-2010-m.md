@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:335702:por
+title: Decreto Legislativo Regional n.º 10/2010/M
+short_title: null
+summary: Adapta à Região Autónoma da Madeira o Decreto-Lei n.º 255/99, de 7 de Julho, que estabelece o regime jurídico da
+  actividade transitária
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 10/2010/M
+official_date: null
+publication_date: '2010-06-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/2010, Série I de 2010-06-17
+  number: '116'
+  series: I
+  supplement: null
+  pages: 2097 - 2097
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11600/0209702097.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/10/2010/06/17/m/dre/pt/html
+  oj: null
+  dre: '335702'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/10-2010-335702
+  internal: pt:dre:335702:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2010-335702
+  metadata_url: https://data.dre.pt/eli/declegreg/10/2010/06/17/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2010-335702
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-06-17T00:00:00Z'
+integrity:
+  source_sha256: 8c7152a1a4e50027779477e0eaa70f79c31364fd2914a4f5311cd58c515a310f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2010/DRE-2010-10-335702.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso ao Emprego
+- Atividade Transitária
+- Alvará
+- Certificação Profissional
+- Multa
+- Contra-ordenação
+- Definição de Competências
+- Direcção Regional dos Transportes Terrestres
+- Fiscalização
+- Seguro
+- Licenciamento
+- Prestação de Serviços
+- Madeira.região Autónoma
+- Regime Jurídico
+- Responsabilidade Civil
+- Taxa
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/255/1999/07/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/255/1999/07/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 10/2010/M
+
+Adapta à Região Autónoma da Madeira o [Decreto-Lei n.º 255/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1999-374619), de 7 de Julho, que estabelece o regime jurídico da actividade transitária
+
+O [Decreto-Lei n.º 255/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1999-374619), de 7 de Julho, veio estabelecer o regime jurídico da actividade transitária, caracterizada pela prestação de serviços de natureza logística e operacional que inclui o planeamento, o controlo, a coordenação e a direcção das operações relacionadas com a expedição, recepção, armazenamento e circulação de bens ou mercadorias.
+
+Considerando, no entanto, a específica configuração orgânica da administração autónoma da Madeira, assim como outras especificidades regionais, importa proceder à adaptação à Região do regime constituído.
+
+Constituindo o sector dos transportes, no âmbito do Estatuto Político-Administrativo da Região Autónoma da Madeira, matéria de interesse específico regional, ao que acresce o anteriormente exposto, resulta que a Assembleia Legislativa da Madeira, nos termos constitucionais e estatutários, detém o poder de legislar sobre esta matéria.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e das alíneas d) e ll) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+O [Decreto-Lei n.º 255/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1999-374619), de 7 de Julho, e seus diplomas regulamentares, que estabelecem o regime jurídico da actividade transitária, aplicam-se na Região Autónoma da Madeira com as adaptações constantes do presente diploma.
+
+###### Artigo 2.º — Adaptação de competências
+
+1 - As competências e direitos actualmente exercidas pelo Instituto da Mobilidade e Transportes Terrestres, I. P., que no [Decreto-Lei n.º 255/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-1999-374619), de 7 de Julho, e seus diplomas regulamentares estavam cometidas à Direcção-Geral de Transportes Terrestres (DGTT), ao director-geral de Transportes Terrestres e aos funcionários dessa Direcção-Geral com competência na área da fiscalização são exercidas, na Região Autónoma da Madeira, respectivamente, pela Direcção Regional de Transportes Terrestres (DRTT), pelo director regional de Transportes Terrestres e pelos funcionários dessa Direcção Regional com competência na área da fiscalização.
+
+2 - Os montantes das taxas a cobrar serão fixados e actualizados por portaria conjunta dos membros do Governo Regional com a tutela dos transportes terrestres e das finanças.
+
+###### Artigo 3.º — Receitas
+
+1 - O produto resultante da aplicação das coimas e da cobrança das demais receitas previstas no diploma nacional adaptado, constituem receita própria da Região Autónoma da Madeira.
+
+2 - Até à entrada em vigor da portaria referida no n.º 2 do artigo 2.º, serão aplicadas as taxas fixadas pela Portaria n.º 174/2009, de 29 de Dezembro.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 12 de Maio de 2010.
+
+**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+
+**Assinado em 7 de Junho de 2010.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

@@ -1,0 +1,373 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:543919:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-115559248",
+ "dre_path": "/dr/detalhe/decreto-lei/21-2012-543919",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-01-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115557400",
+    "115557401",
+    "115557402",
+    "115557403",
+    "115557404",
+    "115557405",
+    "115557406",
+    "115557407",
+    "115557408",
+    "115557409",
+    "115557410",
+    "115557411",
+    "115557412",
+    "115557413",
+    "115557414",
+    "115557415",
+    "115557416",
+    "115557417",
+    "115557418"
+   ]
+  },
+  {
+   "date": "2018-06-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115553661:por",
+     "title": "Decreto-Lei n.º 48/2018",
+     "published": "2018-06-21",
+     "dre_path": "/dr/detalhe/decreto-lei/48-2018-115553661"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "115557400",
+    "115557426",
+    "115557427",
+    "115557428",
+    "115557404",
+    "115557429",
+    "115557406",
+    "115557407",
+    "115557408",
+    "115557431",
+    "115557432",
+    "115557433",
+    "115557434",
+    "115557435",
+    "115557436",
+    "115557437",
+    "115557438",
+    "115557439",
+    "115557440",
+    "115557441",
+    "115557442"
+   ]
+  }
+ ],
+ "fragments": {
+  "115557400": {
+   "fragment_id": "115559249",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 21/2012\n\nde 30 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o País está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nCom o objectivo de obter um aumento de eficácia na prestação dos serviços públicos que prosseguem, procedeu-se à fusão do Instituto Camões, I. P. (IC, I. P.), com o Instituto Português de Apoio ao Desenvolvimento, I. P. (IPAD, I. P.), com a subsequente reorganização e racionalização dos serviços destes dois institutos.\n\nAssim, é criado o Camões - Instituto da Cooperação e da Língua, I. P., tendo em vista potenciar a capacidade de intervenção no desenvolvimento da política de cooperação internacional e de promoção externa da língua e da cultura portuguesas.\n\nO Camões - Instituto da Cooperação e da Língua, I. P., é o organismo da Administração Pública portuguesa responsável pela supervisão, direcção e coordenação da cooperação para o desenvolvimento, cabendo-lhe a condução dessa política pública e pela política de promoção externa da língua e da cultura portuguesas.\n\nA condução da política de cooperação para o desenvolvimento continuará a dar prioridade ao cumprimento dos objectivos do milénio, especialmente nos países de língua oficial portuguesa, bem como à melhoria das condições de vida das suas populações. Por outro lado, densificam-se as competências que permitem uma melhor definição estratégica da política de cooperação através, nomeadamente, de maior coordenação, acompanhamento e avaliação dos diversos instrumentos sectoriais e ministeriais disponíveis.\n\nEm cumprimento do artigo 9.º da Constituição da República Portuguesa, caberá ao Camões, I. P., prosseguir a valorização permanente e a difusão internacional da língua e da cultura portuguesas.\n\nO presente decreto-lei procede, assim, à fusão do IPAD, I. P., com o IC, I. P., e à criação do Camões - Instituto da Cooperação e da Língua, I. P.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115557401": {
+   "fragment_id": "115559250",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Camões - Instituto da Cooperação e da Língua, I. P., abreviadamente designado por Camões, I. P., é um instituto público, integrado na administração indirecta do Estado, dotado de autonomia administrativa, financeira e património próprio.\n\n2 - O Camões, I. P., prossegue atribuições do Ministério dos Negócios Estrangeiros (MNE) sob superintendência e tutela do respectivo ministro."
+  },
+  "115557402": {
+   "fragment_id": "115559251",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O Camões, I. P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - O Camões, I. P., tem sede em Lisboa.\n\n3 - O Camões, I. P., desenvolve ainda a sua acção no exterior, integrado nas missões diplomáticas e postos consulares, nas seguintes modalidades:\n\na) Nos países beneficiários da ajuda, mediante a prestação de apoio técnico especializado, com vista a promover a eficácia e eficiência dos programas, projectos e acções da cooperação portuguesa;\n\nb) Através da rede de ensino de português no estrangeiro;\n\nc) Através dos centros culturais portugueses no estrangeiro.\n\n4 - A rede de ensino de português no estrangeiro integra as estruturas de coordenação, nos casos em que tal se justifique, o corpo de docentes de educação pré-escolar e dos ensinos básico, secundário e superior.\n\n5 - A prestação do apoio técnico especializado a que se refere a alínea a) do n.º 3, bem como as estruturas da rede externa referidas nas alíneas b) e c) do mesmo número e no n.º 4 actuam de acordo com a orientação estratégica do Camões, I. P.\n\n6 - A prestação do apoio técnico especializado a que se refere a alínea a) do n.º 3, bem como as estruturas da rede externa referidas nas alíneas b) e c) do mesmo número e no n.º 4 actuam de forma unificada com os demais serviços periféricos externos do MNE da respectiva zona geográfica, na dependência funcional do chefe de missão diplomática, ou a ele equiparado."
+  },
+  "115557403": {
+   "fragment_id": "115559252",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O Camões, I. P., tem por missão propor e executar a política de cooperação portuguesa e coordenar as actividades de cooperação desenvolvidas por outras entidades públicas que participem na execução daquela política e ainda propor e executar a política de ensino e divulgação da língua e cultura portuguesas no estrangeiro, assegurar a presença de leitores de português nas universidades estrangeiras e gerir a rede de ensino de português no estrangeiro a nível básico e secundário.\n\n2 - São atribuições do Camões, I. P., no domínio da cooperação:\n\na) Propor à tutela a definição da política de cooperação e de ajuda pública ao desenvolvimento;\n\nb) Promover a execução de programas, projectos e acções de cooperação para o desenvolvimento em articulação com os demais ministérios e organismos sectoriais;\n\nc) Preparar os programas plurianuais de cooperação para o desenvolvimento, bem como a sua programação financeira;\n\nd) Coordenar o Programa Orçamental da Cooperação Portuguesa para o Desenvolvimento, bem como todos os demais instrumentos orçamentais transversais, de carácter anual ou plurianual, que tenham por objectivo e finalidade a cooperação para o desenvolvimento;\n\ne) Assegurar o acompanhamento do planeamento, da programação, da execução e da avaliação dos programas e projectos de cooperação desenvolvidos por outros ministérios, departamentos, serviços e organismos da Administração Pública;\n\nf) Emitir parecer prévio vinculativo sobre os programas, projectos e acções de cooperação para o desenvolvimento, financiados ou realizados pelo Estado, seus organismos e demais entidades públicas;\n\ng) Assegurar a articulação com as autoridades dos países beneficiários de cooperação para o desenvolvimento;\n\nh) Assegurar o financiamento dos projectos directamente elaborados pelo Camões, I. P., de acordo com a programação efectuada;\n\ni) Proceder à identificação, análise, acompanhamento e avaliação dos resultados da execução dos programas, projectos e acções de cooperação para o desenvolvimento, com vista a melhorar a racionalidade, eficácia e eficiência da ajuda;\n\nj) Assegurar a coordenação e a articulação com instituições de âmbito internacional, nacional, regional e local, incluindo as de natureza não governamental, com vista a optimizar a utilização dos recursos;\n\nl) Assegurar e coordenar as intervenções portuguesas no domínio da ajuda humanitária e de urgência;\n\nm) Apoiar as iniciativas da sociedade civil no âmbito da cooperação para o desenvolvimento;\n\nn) Conceder subsídios, bolsas e outras formas de apoio financeiro, no âmbito de programas, projectos ou acções de cooperação para o desenvolvimento;\n\no) Assegurar, no âmbito das suas atribuições, a participação portuguesa nas actividades da Comunidade dos Países de Língua Portuguesa (CPLP) relacionadas com a cooperação;\n\np) Assegurar o apoio técnico e logístico à realização das reuniões do Fórum de Cooperação para o Desenvolvimento;\n\nq) Promover e ou apoiar a realização de estudos na área da cooperação;\n\nr) Centralizar a informação relacionada com o esforço financeiro global da cooperação portuguesa;\n\ns) Implementar uma estratégia de comunicação para fortalecer a compreensão e o apoio público à cooperação para o desenvolvimento;\n\nt) Promover acções de formação em matérias de desenvolvimento;\n\nu) Assegurar a representação e a participação do Estado Português nas actividades das organizações internacionais relacionadas com a cooperação e a ajuda pública ao desenvolvimento, sem prejuízo das competências do Ministério das Finanças no referente às instituições financeiras internacionais, bem como das representações sectoriais especializadas havidas por convenientes;\n\nv) Centralizar a informação sobre os projectos de cooperação promovidos por entidades privadas, com ou sem patrocínio público, e assegurar a representação do Estado Português nos debates internacionais sobre cooperação e ajuda pública ao desenvolvimento, em apoio ao princípio da convergência internacional e em torno de objectivos comuns.\n\n3 - São atribuições do Camões, I. P., no domínio da promoção externa da língua e cultura portuguesas:\n\na) Assegurar a representação do País na negociação de acordos culturais e respectivos programas de cooperação, coordenando a participação dos departamentos do Estado com atribuições nos domínios da cultura, educação, ensino superior, juventude, desporto e comunicação social;\n\nb) Estabelecer programas de apoio à criação de cátedras e de departamentos de português ou estruturas equivalentes em universidades estrangeiras e escolas e à contratação local de docentes;\n\nc) Promover, coordenar e desenvolver a realização de cursos de língua portuguesa e outros conteúdos culturais, quer em sistema presencial, quer por recurso a tecnologias de informação e comunicação;\n\nd) Desenvolver, em cooperação com universidades portuguesas ou estrangeiras, sistemas de avaliação e certificação de competências pedagógico-didácticas para o ensino e ou aprendizagem do português e de competências comunicativas em português;\n\ne) Estabelecer parcerias e apoiar a realização de estudos e trabalhos de investigação sobre a presença e estatuto da língua e cultura portuguesas, designadamente na perspectiva da sua difusão internacional;\n\nf) Conceber, promover, propor, apoiar e executar a produção de obras e projectos de divulgação da língua e da cultura portuguesas no estrangeiro;\n\ng) Estimular, apoiar e promover acções que favoreçam a divulgação e o intercâmbio internacional das formas de expressão artística, designadamente nas grandes mostras e eventos internacionais;\n\nh) Estabelecer as linhas de orientação e as áreas prioritárias de intervenção dos centros culturais portugueses no estrangeiro, bem como propor a sua criação;\n\ni) Conceder bolsas, subsídios ou outros apoios decorrentes de acordos culturais ou programas de difusão da língua e da cultura portuguesas, em conformidade com o regulamento interno;\n\nj) Coordenar a actividade dos leitorados de língua e cultura portuguesas;\n\nl) Desenvolver e coordenar a actividade de formação de professores nas áreas da língua e cultura portuguesas;\n\nm) Desenvolver os mecanismos necessários para a consolidação da rede de docência junto de instituições de ensino estrangeiras, nomeadamente através da criação de centros de língua portuguesa;\n\nn) Promover a celebração e acompanhar a execução de acordos de cooperação cultural;\n\no) Editar materiais de divulgação da língua e cultura portuguesas em distintos suportes;\n\np) Coordenar a actividade dos docentes de língua e cultura portuguesas no estrangeiro e promover a interacção entre os vários níveis e modalidades de ensino;\n\nq) Assegurar a qualidade do ensino da língua e cultura portuguesas no estrangeiro, mediante o necessário apoio científico e pedagógico;\n\nr) Fomentar o ensino do português como língua não materna e estrangeira nos curricula e sistemas de ensino, designadamente em países com comunidades de língua portuguesa.\n\n4 - Compete ao Camões, I. P., no âmbito da educação pré-escolar e dos ensinos básico e secundário do ensino português no estrangeiro, em articulação com o Ministério da Educação e Ciência:\n\na) A qualificação do ensino da língua portuguesa no estrangeiro, nomeadamente no desenvolvimento de formas e modelos complementares de certificação e avaliação das respectivas aprendizagens e de acreditação e transferência dos respectivos créditos;\n\nb) O desenvolvimento de mecanismos apropriados para a formação de professores, especialmente para o ensino da língua portuguesa como língua segunda, para o ensino junto das comunidades e para a divulgação da cultura portuguesa;\n\nc) A promoção da produção e divulgação de materiais pedagógicos e culturais especificamente para o ensino da língua portuguesa no estrangeiro;\n\nd) A coordenação da actividade da rede de docência de língua e cultura portuguesas no estrangeiro, ao nível dos ensinos básico e secundário;\n\ne) O desenvolvimento e promoção da utilização de plataformas para o ensino e a aprendizagem do português à distância e a divulgação da cultura portuguesa;\n\nf) A difusão do ensino da língua portuguesa no estrangeiro, através das Escolas Portuguesas tuteladas pelo Ministério da Educação e Ciência.\n\n5 - A prossecução das atribuições previstas na alínea n) do n.º 2 e nas alíneas f), i) e o) do n.º 3 é objecto de regulamentos específicos, a aprovar por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças."
+  },
+  "115557404": {
+   "fragment_id": "115559253",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1 - São órgãos do Camões, I. P.:\n\na) O conselho directivo;\n\nb) O fiscal único;\n\nc) O Conselho Consultivo para a Língua e Cultura Portuguesas.\n\n2 - Junto do Camões, I. P., funciona a Comissão Interministerial para a Cooperação, cuja composição, competências e respectivo regulamento constam de portaria, a aprovar pelos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros."
+  },
+  "115557405": {
+   "fragment_id": "115559254",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho directivo\n\n1 - O conselho directivo é composto por um presidente, um vice-presidente e dois vogais, cabendo ao presidente voto de qualidade.\n\n2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho directivo, na área da cooperação:\n\na) Submeter à aprovação do Ministro dos Negócios Estrangeiros os programas plurianuais de cooperação;\n\nb) Avaliar todos os programas, projectos e acções de cooperação para o desenvolvimento e assegurar o seu enquadramento nas orientações definidas para a política de cooperação e para a ajuda pública ao desenvolvimento;\n\nc) Autorizar a abertura de concurso para atribuição de apoios financeiros às organizações não-governamentais de cooperação para o desenvolvimento e designar a constituição do júri de avaliação das candidaturas, nos termos de despacho do membro do Governo da tutela;\n\nd) Autorizar o financiamento dos programas, projectos e acções, dentro dos limites definidos por despacho do membro do Governo da tutela;\n\ne) Preparar as orientações e normas para concessão de bolsas de estudo e de formação profissional, propondo à tutela a distribuição do contingente anual de bolseiros a atribuir aos países beneficiários;\n\nf) Autorizar a concessão de subsídios, bolsas e outras formas de apoio financeiro a conceder pelo Camões, I. P., dentro dos limites definidos por despacho do membro do Governo da tutela;\n\ng) Submeter ao membro do Governo da tutela o financiamento dos programas, projectos e acções, bem como a concessão de subsídios, bolsas e outras formas de apoio financeiro a conceder pelo Camões, I. P., e a abertura dos respectivos concursos, que ultrapassem os limites definidos por despacho daquele membro do Governo;\n\nh) Superintender na preparação dos programas e dos projectos de cooperação;\n\ni) Autorizar e outorgar os contratos com os agentes de cooperação.\n\n3 - Compete ainda ao conselho directivo na área da promoção da língua e cultura portuguesas:\n\na) Submeter à aprovação do Ministro dos Negócios Estrangeiros o plano de actividade de promoção da língua e cultura portuguesas no estrangeiro;\n\nb) Elaborar o planeamento da rede de ensino de português no estrangeiro para aprovação nos termos previsto no respectivo regime;\n\nc) Aprovar o plano de formação do ensino de português no estrangeiro;\n\nd) Assegurar o enquadramento dos programas e dos projectos nas orientações definidas para a política de ensino e divulgação da língua e cultura portuguesas no estrangeiro;\n\ne) Autorizar a concessão de subsídios, bolsas e outras formas de apoio financeiro a conceder pelo Camões, I. P., nos termos dos regulamentos previstos no presente diploma;\n\nf) Autorizar e outorgar os contratos locais a termo resolutivo com docentes do ensino português no estrangeiro no âmbito da rede de ensino de português no estrangeiro aprovada por despacho dos membros do governo responsáveis pelas áreas dos negócios estrangeiros e educação ao abrigo do diploma que rege o ensino português no estrangeiro."
+  },
+  "115557406": {
+   "fragment_id": "115559255",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei-quadro dos institutos públicos."
+  },
+  "115557407": {
+   "fragment_id": "115559256",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho Consultivo para a Língua e Cultura Portuguesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho Consultivo para a Língua e Cultura Portuguesas\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação do Camões, I. P., e reúne pelo menos uma vez por ano, nos termos do respectivo regulamento interno.\n\n2 - O conselho consultivo é constituído:\n\na) Pelo presidente do Camões, I. P., que preside, e pelo vice-presidente e vogais;\n\nb) Por um representante de cada um dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da economia, da educação, do ensino superior, da ciência e tecnologia, da cultura, da juventude e da comunicação social;\n\nc) Pelo director-geral de política externa, pelo director-geral dos assuntos europeus, pelo director-geral dos assuntos consulares e comunidades portuguesas do MNE;\n\nd) Por cinco personalidades de reconhecido mérito nos domínios do ensino, da investigação, das artes e das ciências;\n\ne) Por um representante de cada uma das associações de sindicatos do pessoal docente, que integram as confederações sindicais com assento na comissão permanente da concertação social.\n\n3 - Ao conselho consultivo compete:\n\na) Pronunciar-se sobre o plano e o relatório de actividades do Camões, I. P., na área da língua e da cultura portuguesas;\n\nb) Dar parecer sobre os planos de formação relativos ao ensino português no estrangeiro;\n\nc) Dar parecer sobre o planeamento da rede de ensino de português no estrangeiro;\n\nd) Dar parecer sobre a criação de centros culturais portugueses e as estruturas de coordenação do ensino de português no estrangeiro;\n\ne) Pronunciar-se, por iniciativa própria ou mediante solicitação do presidente, sobre iniciativas relevantes para a prossecução das atribuições do Camões, I. P., na área da língua e da cultura portuguesas;\n\nf) Contribuir para a articulação do Camões, I. P., com os órgãos do Estado e dos serviços públicos com os quais se relacione na prossecução das suas atribuições, na área da língua e da cultura portuguesas."
+  },
+  "115557408": {
+   "fragment_id": "115559257",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna do Camões, I. P., é a prevista nos respectivos estatutos."
+  },
+  "115557409": {
+   "fragment_id": "115559258",
+   "type": 11,
+   "heading": "Artigo 9.º — Centros culturais portugueses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Centros culturais portugueses\n\n1 - Os centros culturais portugueses no estrangeiro são unidades dotadas de autonomia administrativa, que actuam sob a dependência funcional do chefe de missão diplomática ou a ele equiparado e de forma unificada com os demais serviços periféricos externos do MNE existentes na respectiva área geográfica e regem-se por diploma próprio.\n\n2 - A organização interna dos centros culturais portugueses no estrangeiro rege-se pelo disposto nos estatutos do Camões, I. P."
+  },
+  "115557410": {
+   "fragment_id": "115559259",
+   "type": 11,
+   "heading": "Artigo 10.º — Estruturas de coordenação do ensino de português no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estruturas de coordenação do ensino de português no estrangeiro\n\n1 - As estruturas de coordenação do ensino de português no estrangeiro são unidades dotadas de autonomia administrativa, que actuam sob a dependência funcional do chefe de missão diplomática ou a ele equiparado e de forma unificada com os demais serviços periféricos externos do MNE existentes na respectiva área geográfica e regem-se por diploma próprio.\n\n2 - A organização interna da rede de ensino de português, incluindo as estruturas de coordenação, rege-se pelo disposto nos estatutos do Camões, I. P."
+  },
+  "115557411": {
+   "fragment_id": "115559260",
+   "type": 11,
+   "heading": "Artigo 11.º — Designação dos titulares dos cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Designação dos titulares dos cargos de direcção\n\nPelo menos um dos titulares dos cargos de direcção superior de 2.º grau é designado de entre funcionários da carreira diplomática, com categoria não inferior a conselheiro de embaixada, com um mínimo de seis anos na categoria."
+  },
+  "115557412": {
+   "fragment_id": "115559261",
+   "type": 11,
+   "heading": "Artigo 12.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Receitas\n\n1 - O Camões, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O Camões, I. P., dispõe ainda das seguintes receitas próprias, na área da cooperação:\n\na) As verbas que lhe forem atribuídas por instituições especializadas da União Europeia, de outras organizações ou agências internacionais ou por outros Estados, tendo como objectivo o financiamento de programas, projectos ou acções de cooperação para o desenvolvimento;\n\nb) O produto de venda de bens próprios ou da constituição de direitos sobre eles;\n\nc) As quantias cobradas por actividades ou serviços prestados;\n\nd) Os subsídios, subvenções, comparticipações, quotizações, doações, heranças, legados e quaisquer liberalidades feitas a seu favor por entidades públicas ou privadas, aceites nos termos legais;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.\n\n3 - O Camões, I. P., dispõe ainda das seguintes receitas próprias, na área da língua e da cultura:\n\na) As quantias cobradas a título de inscrição em cursos de aprendizagem e formação, nomeadamente nos centros de língua portuguesa;\n\nb) O produto da venda de publicações e outros materiais próprios;\n\nc) As quantias cobradas por actividades ou serviços prestados;\n\nd) O valor das rendas e outros proventos patrimoniais;\n\ne) Quaisquer outras receitas atribuídas por lei, por contrato ou a outro título;\n\nf) As quantias atribuídas por terceiros a título de subsídio, patrocínio ou restituição.\n\n4 - Os centros culturais portugueses e as estruturas de coordenação do ensino de português no estrangeiro dispõem das seguintes receitas próprias:\n\na) As quantias provenientes de inscrições em cursos de aprendizagem e formação;\n\nb) As quantias resultantes da disponibilização de serviços de interesse para os utentes;\n\nc) As quantias provenientes da devolução de taxas e impostos indirectos pagos na aquisição de bens e serviços nos mercados locais, no estrangeiro.\n\n5 - As dotações a que se refere o n.º 1 são entregues ao Camões, I. P., por antecipação, de harmonia com o plano de actividades e o orçamento, aprovados em duodécimos trimestrais.\n\n6 - Os saldos das dotações orçamentais afectas a despesas de cooperação transitam para o ano económico seguinte por meio da abertura de créditos especiais, a autorizar nos termos da lei."
+  },
+  "115557413": {
+   "fragment_id": "115559262",
+   "type": 11,
+   "heading": "Artigo 13.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Despesas\n\n1 - Constituem despesas do Camões, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições.\n\n2 - Para fazer face a despesas exclusivamente de cooperação, é constituído um fundo de maneio permanente, de montante nunca inferior a 15 % daquelas despesas, por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros."
+  },
+  "115557414": {
+   "fragment_id": "115559263",
+   "type": 11,
+   "heading": "Artigo 14.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Património\n\nO património do Camões, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "115557415": {
+   "fragment_id": "115559264",
+   "type": 11,
+   "heading": "Artigo 15.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sucessão\n\nO Camões, I. P., sucede nas atribuições do Instituto Português de Apoio ao Desenvolvimento, I. P. (IPAD, I. P.), e do Instituto Camões, I. P. (IC, I. P.)."
+  },
+  "115557416": {
+   "fragment_id": "115559265",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de selecção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Critérios de selecção de pessoal\n\nSão fixados como critérios gerais e abstractos de selecção de pessoal necessário à prossecução das atribuições do Camões, I. P., o desempenho de funções no IPAD, I. P., e no IC, I. P."
+  },
+  "115557417": {
+   "fragment_id": "115559266",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 119/2007, alterado pelo Decreto-Lei n.º 165-A/2009, de 28 de Julho;\n\nb) O Decreto-Lei n.º 120/2007, de 27 de Abril."
+  },
+  "115557418": {
+   "fragment_id": "115559267",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "115557426": {
+   "fragment_id": "115559250",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2018-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Camões - Instituto da Cooperação e da Língua, I. P., abreviadamente designado por Camões, I. P., é um instituto público de regime especial, nos termos da lei, integrado na administração indireta do Estado, dotado de autonomia administrativa, financeira e património próprio.\n\n2 - A especialidade do Camões, I. P., decorre das atribuições relacionadas com a gestão e operacionalização da política de cooperação, em particular de projetos de cooperação suportados por fundos europeus e internacionais, previstas, respetivamente, no n.º 2 do artigo 3.º\n\n3 - O Camões, I. P., prossegue atribuições do Ministério dos Negócios Estrangeiros (MNE) sob superintendência e tutela do respectivo ministro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+  },
+  "115557427": {
+   "fragment_id": "115559251",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": "2018-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+   ],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O Camões, I. P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - O Camões, I. P., tem sede em Lisboa.\n\n3 - O Camões, I. P., desenvolve ainda a sua acção no exterior, integrado nas missões diplomáticas e postos consulares, nas seguintes modalidades:\n\na) Através dos centros portugueses da cooperação no estrangeiro;\n\nb) Através da rede de ensino de português no estrangeiro;\n\nc) Através dos centros culturais portugueses no estrangeiro.\n\n4 - A rede de ensino de português no estrangeiro integra as estruturas de coordenação, nos casos em que tal se justifique, o corpo de docentes de educação pré-escolar e dos ensinos básico, secundário e superior.\n\n5 - Os centros portugueses da cooperação acompanham a execução de programas, projetos e ações em curso nos países parceiros, cabendo a sua direção local ao titular do cargo de pessoal especializado do MNE com a área da cooperação.\n\n6 - A rede externa identificada no n.º 3 atua de acordo com a orientação estratégica do Camões, I. P., e de forma unificada com os demais serviços periféricos externos do MNE da respetiva zona geográfica, na dependência funcional do chefe de missão diplomática, ou a ele equiparado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+  },
+  "115557428": {
+   "fragment_id": "115559252",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2018-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - O Camões, I. P., tem por missão propor e executar a política de cooperação portuguesa e coordenar as actividades de cooperação desenvolvidas por outras entidades públicas que participem na execução daquela política e ainda propor e executar a política de ensino e divulgação da língua e cultura portuguesas no estrangeiro, assegurar a presença de leitores de português nas universidades estrangeiras e gerir a rede de ensino de português no estrangeiro a nível básico e secundário.\n\n2 - São atribuições do Camões, I. P., no domínio da cooperação:\n\na) Propor à tutela a definição da política de cooperação e de ajuda pública ao desenvolvimento;\n\nb) Promover a execução de programas, projectos e acções de cooperação para o desenvolvimento em articulação com os demais ministérios e organismos sectoriais;\n\nc) Preparar os programas plurianuais de cooperação para o desenvolvimento, bem como a sua programação financeira;\n\nd) Coordenar o Programa Orçamental da Cooperação Portuguesa para o Desenvolvimento, bem como todos os demais instrumentos orçamentais transversais, de carácter anual ou plurianual, que tenham por objectivo e finalidade a cooperação para o desenvolvimento;\n\ne) Assegurar o acompanhamento do planeamento, da programação, da execução e da avaliação dos programas e projectos de cooperação desenvolvidos por outros ministérios, departamentos, serviços e organismos da Administração Pública;\n\nf) Emitir parecer prévio vinculativo sobre os programas, projectos e acções de cooperação para o desenvolvimento, financiados ou realizados pelo Estado, seus organismos e demais entidades públicas;\n\ng) Assegurar a articulação com as autoridades dos países beneficiários de cooperação para o desenvolvimento;\n\nh) Assegurar o financiamento dos projectos directamente elaborados pelo Camões, I. P., de acordo com a programação efectuada;\n\ni) Proceder à identificação, análise, acompanhamento e avaliação dos resultados da execução dos programas, projectos e acções de cooperação para o desenvolvimento, com vista a melhorar a racionalidade, eficácia e eficiência da ajuda;\n\nj) Assegurar a coordenação e a articulação com instituições de âmbito internacional, nacional, regional e local, incluindo as de natureza não governamental, com vista a optimizar a utilização dos recursos;\n\nl) Assegurar e coordenar as intervenções portuguesas no domínio da ajuda humanitária e de urgência;\n\nm) Apoiar as iniciativas da sociedade civil no âmbito da cooperação para o desenvolvimento;\n\nn) Conceder subsídios, bolsas e outras formas de apoio financeiro, no âmbito de programas, projectos ou acções de cooperação para o desenvolvimento;\n\no) Assegurar, no âmbito das suas atribuições, a participação portuguesa nas actividades da Comunidade dos Países de Língua Portuguesa (CPLP) relacionadas com a cooperação;\n\np) Assegurar o apoio técnico e logístico à realização das reuniões do Fórum de Cooperação para o Desenvolvimento;\n\nq) Promover e ou apoiar a realização de estudos na área da cooperação;\n\nr) Centralizar a informação relacionada com o esforço financeiro global da cooperação portuguesa;\n\ns) Implementar uma estratégia de comunicação para fortalecer a compreensão e o apoio público à cooperação para o desenvolvimento;\n\nt) Promover acções de formação em matérias de desenvolvimento;\n\nu) Assegurar a representação e a participação do Estado Português nas actividades das organizações internacionais relacionadas com a cooperação e a ajuda pública ao desenvolvimento, sem prejuízo das competências do Ministério das Finanças no referente às instituições financeiras internacionais, bem como das representações sectoriais especializadas havidas por convenientes;\n\nv) Centralizar a informação sobre os projectos de cooperação promovidos por entidades privadas, com ou sem patrocínio público, e assegurar a representação do Estado Português nos debates internacionais sobre cooperação e ajuda pública ao desenvolvimento, em apoio ao princípio da convergência internacional e em torno de objectivos comuns.\n\n3 - São atribuições do Camões, I. P., no domínio da promoção externa da língua e cultura portuguesas:\n\na) Assegurar a representação do País na negociação de acordos culturais e respectivos programas de cooperação, coordenando a participação dos departamentos do Estado com atribuições nos domínios da cultura, educação, ensino superior, juventude, desporto e comunicação social;\n\nb) Estabelecer programas de apoio à criação de cátedras e de departamentos de português ou estruturas equivalentes em universidades estrangeiras e escolas e à contratação local de docentes;\n\nc) Promover, coordenar e desenvolver a realização de cursos de língua portuguesa e outros conteúdos culturais, quer em sistema presencial, quer por recurso a tecnologias de informação e comunicação;\n\nd) Desenvolver, em cooperação com universidades portuguesas ou estrangeiras, sistemas de avaliação e certificação de competências pedagógico-didácticas para o ensino e ou aprendizagem do português e de competências comunicativas em português;\n\ne) Estabelecer parcerias e apoiar a realização de estudos e trabalhos de investigação sobre a presença e estatuto da língua e cultura portuguesas, designadamente na perspectiva da sua difusão internacional;\n\nf) Conceber, promover, propor, apoiar e executar a produção de obras e projectos de divulgação da língua e da cultura portuguesas no estrangeiro;\n\ng) Estimular, apoiar e promover acções que favoreçam a divulgação e o intercâmbio internacional das formas de expressão artística, designadamente nas grandes mostras e eventos internacionais;\n\nh) Estabelecer as linhas de orientação e as áreas prioritárias de intervenção dos centros culturais portugueses no estrangeiro, bem como propor a sua criação;\n\ni) Conceder bolsas, subsídios ou outros apoios decorrentes de acordos culturais ou programas de difusão da língua e da cultura portuguesas, em conformidade com o regulamento interno;\n\nj) Coordenar a actividade dos leitorados de língua e cultura portuguesas;\n\nl) Desenvolver e coordenar a actividade de formação de professores nas áreas da língua e cultura portuguesas;\n\nm) Desenvolver os mecanismos necessários para a consolidação da rede de docência junto de instituições de ensino estrangeiras, nomeadamente através da criação de centros de língua portuguesa;\n\nn) Promover a celebração e acompanhar a execução de acordos de cooperação cultural;\n\no) Editar materiais de divulgação da língua e cultura portuguesas em distintos suportes;\n\np) Coordenar a actividade dos docentes de língua e cultura portuguesas no estrangeiro e promover a interacção entre os vários níveis e modalidades de ensino;\n\nq) Assegurar a qualidade do ensino da língua e cultura portuguesas no estrangeiro, mediante o necessário apoio científico e pedagógico;\n\nr) Fomentar o ensino do português como língua não materna e estrangeira nos curricula e sistemas de ensino, designadamente em países com comunidades de língua portuguesa.\n\ns) Articular com os serviços e organismos na área da cultura, sem prejuízo das respetivas atribuições;\n\nt) Apoiar em articulação com os serviços e organismos na área da cultura, educação, ciência, tecnologia e ensino superior, a promoção e divulgação da atividade científica e do património científico português, material ou imaterial, no quadro da representação nacional, da promoção dos interesses do país e da comunicação e cooperação com as autoridades e as sociedades civis dos Estados parceiros, bem como na ligação dos portugueses neles residentes.\n\n4 - Compete ao Camões, I. P., no âmbito da educação pré-escolar e dos ensinos básico e secundário do ensino português no estrangeiro, em articulação com o Ministério da Educação e Ciência:\n\na) A qualificação do ensino da língua portuguesa no estrangeiro, nomeadamente no desenvolvimento de formas e modelos complementares de certificação e avaliação das respectivas aprendizagens e de acreditação e transferência dos respectivos créditos;\n\nb) O desenvolvimento de mecanismos apropriados para a formação de professores, especialmente para o ensino da língua portuguesa como língua segunda, para o ensino junto das comunidades e para a divulgação da cultura portuguesa;\n\nc) A promoção da produção e divulgação de materiais pedagógicos e culturais especificamente para o ensino da língua portuguesa no estrangeiro;\n\nd) A coordenação da actividade da rede de docência de língua e cultura portuguesas no estrangeiro, ao nível dos ensinos básico e secundário;\n\ne) O desenvolvimento e promoção da utilização de plataformas para o ensino e a aprendizagem do português à distância e a divulgação da cultura portuguesa;\n\nf) A difusão do ensino da língua portuguesa no estrangeiro, através das Escolas Portuguesas tuteladas pelo Ministério da Educação e Ciência.\n\n5 - A prossecução das atribuições previstas na alínea n) do n.º 2 e nas alíneas f), i) e o) do n.º 3 é objecto de regulamentos específicos, a aprovar por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+  },
+  "115557429": {
+   "fragment_id": "115559254",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho directivo",
+   "in_force_from": "2018-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho directivo\n\n1 - O conselho directivo é composto por um presidente, um vice-presidente e dois vogais, cabendo ao presidente voto de qualidade.\n\n2 - Aos membros do conselho diretivo é aplicável o regime definido na lei-quadro dos institutos públicos e, subsidiariamente, o fixado no Estatuto do Pessoal Dirigente da Administração Pública.\n\n3 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho directivo, na área da cooperação:\n\na) Submeter à aprovação do Ministro dos Negócios Estrangeiros os programas plurianuais de cooperação;\n\nb) Avaliar todos os programas, projectos e acções de cooperação para o desenvolvimento e assegurar o seu enquadramento nas orientações definidas para a política de cooperação e para a ajuda pública ao desenvolvimento;\n\nc) Autorizar a abertura de concurso para atribuição de apoios financeiros às organizações não-governamentais de cooperação para o desenvolvimento e designar a constituição do júri de avaliação das candidaturas, nos termos de despacho do membro do Governo da tutela;\n\nd) Autorizar o financiamento dos programas, projectos e acções, dentro dos limites definidos por despacho do membro do Governo da tutela;\n\ne) Determinar a identificação e formulação, e autorizar a execução e avaliação pelo Camões, I. P., de programas, projetos e ações de cooperação, com fontes de financiamento internas ou externas;\n\nf) Autorizar a subdelegação, a concessão de subvenções, a celebração de protocolos de colaboração com outras entidades públicas ou a celebração de contratos de aquisição de serviços, nos termos da lei, tendo em vista a gestão de programas, projetos e ações de cooperação;\n\ng) Preparar as orientações e normas para concessão de bolsas de estudo e de formação profissional, propondo à tutela a distribuição do contingente anual de bolseiros a atribuir aos países beneficiários;\n\nh) Autorizar a concessão de subsídios, bolsas e outras formas de apoio financeiro a conceder pelo Camões, I. P., dentro dos limites definidos por despacho do membro do Governo da tutela;\n\ni) Submeter ao membro do Governo da tutela o financiamento dos programas, projectos e acções, bem como a concessão de subsídios, bolsas e outras formas de apoio financeiro a conceder pelo Camões, I. P., e a abertura dos respectivos concursos, que ultrapassem os limites definidos por despacho daquele membro do Governo;\n\nj) Superintender na preparação dos programas e dos projectos de cooperação;\n\nl) Deliberar a criação de equipas de projeto, tendo em vista a gestão de programas, projetos e ações de cooperação, cuja duração e financiamento são limitados pelo projeto ou projetos por elas abrangidos;\n\nm) Autorizar e outorgar os contratos com os agentes de cooperação.\n\n4 - Compete ainda ao conselho directivo na área da promoção da língua e cultura portuguesas:\n\na) Submeter à aprovação do Ministro dos Negócios Estrangeiros o plano de actividade de promoção da língua e cultura portuguesas no estrangeiro;\n\nb) Elaborar o planeamento da rede de ensino de português no estrangeiro para aprovação nos termos previsto no respectivo regime;\n\nc) Aprovar o plano de formação do ensino de português no estrangeiro;\n\nd) Assegurar o enquadramento dos programas e dos projectos nas orientações definidas para a política de ensino e divulgação da língua e cultura portuguesas no estrangeiro;\n\ne) Autorizar a concessão de subsídios, bolsas e outras formas de apoio financeiro a conceder pelo Camões, I. P., nos termos dos regulamentos previstos no presente diploma;\n\nf) Autorizar e outorgar os contratos locais a termo resolutivo com docentes do ensino português no estrangeiro no âmbito da rede de ensino de português no estrangeiro aprovada por despacho dos membros do governo responsáveis pelas áreas dos negócios estrangeiros e educação ao abrigo do diploma que rege o ensino português no estrangeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+  },
+  "115557431": {
+   "fragment_id": "115562776",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Centros portugueses da cooperação",
+   "in_force_from": "2018-06-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+   ],
+   "markdown": "###### Artigo 8.º-A — Centros portugueses da cooperação\n\n1 - Os centros portugueses da cooperação no estrangeiro são unidades dotadas de autonomia administrativa, que atuam sob a dependência funcional do chefe de missão diplomática ou a ele equiparado e de forma unificada com os demais serviços periféricos externos do MNE existentes na respetiva área geográfica.\n\n2 - A organização interna dos centros portugueses da cooperação rege-se pelo disposto nos estatutos do Camões, I. P.\n\n3 - O regime de exercício de funções nos centros portugueses da cooperação é objeto de diploma próprio.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+  },
+  "115557432": {
+   "fragment_id": "115559258",
+   "type": 11,
+   "heading": "Artigo 9.º — Centros culturais portugueses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Centros culturais portugueses\n\n1 - Os centros culturais portugueses no estrangeiro são unidades dotadas de autonomia administrativa, que actuam sob a dependência funcional do chefe de missão diplomática ou a ele equiparado e de forma unificada com os demais serviços periféricos externos do MNE existentes na respectiva área geográfica e regem-se por diploma próprio.\n\n2 - A organização interna dos centros culturais portugueses no estrangeiro rege-se pelo disposto nos estatutos do Camões, I. P."
+  },
+  "115557433": {
+   "fragment_id": "115559259",
+   "type": 11,
+   "heading": "Artigo 10.º — Estruturas de coordenação do ensino de português no estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estruturas de coordenação do ensino de português no estrangeiro\n\n1 - As estruturas de coordenação do ensino de português no estrangeiro são unidades dotadas de autonomia administrativa, que actuam sob a dependência funcional do chefe de missão diplomática ou a ele equiparado e de forma unificada com os demais serviços periféricos externos do MNE existentes na respectiva área geográfica e regem-se por diploma próprio.\n\n2 - A organização interna da rede de ensino de português, incluindo as estruturas de coordenação, rege-se pelo disposto nos estatutos do Camões, I. P."
+  },
+  "115557434": {
+   "fragment_id": "115559260",
+   "type": 11,
+   "heading": "Artigo 11.º — Designação dos titulares dos cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Designação dos titulares dos cargos de direcção\n\nPelo menos um dos titulares dos cargos de direcção superior de 2.º grau é designado de entre funcionários da carreira diplomática, com categoria não inferior a conselheiro de embaixada, com um mínimo de seis anos na categoria."
+  },
+  "115557435": {
+   "fragment_id": "115559261",
+   "type": 11,
+   "heading": "Artigo 12.º — Receitas",
+   "in_force_from": "2018-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+   ],
+   "markdown": "###### Artigo 12.º — Receitas\n\n1 - O Camões, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - O Camões, I. P., dispõe ainda das seguintes receitas próprias, na área da cooperação:\n\na) As verbas que lhe forem atribuídas por instituições especializadas da União Europeia, de outras organizações ou agências internacionais ou por outros Estados, tendo como objectivo o financiamento de programas, projectos ou acções de cooperação para o desenvolvimento;\n\nb) O produto de venda de bens próprios ou da constituição de direitos sobre eles;\n\nc) As quantias cobradas por actividades ou serviços prestados;\n\nd) Os subsídios, subvenções, comparticipações, quotizações, doações, heranças, legados e quaisquer liberalidades feitas a seu favor por entidades públicas ou privadas, aceites nos termos legais;\n\ne) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou a outro título.\n\n3 - O Camões, I. P., dispõe ainda das seguintes receitas próprias, na área da língua e da cultura:\n\na) As quantias cobradas a título de inscrição em cursos de aprendizagem e formação, nomeadamente nos centros de língua portuguesa;\n\nb) O produto da venda de publicações e outros materiais próprios;\n\nc) As quantias cobradas por actividades ou serviços prestados;\n\nd) O valor das rendas e outros proventos patrimoniais;\n\ne) Quaisquer outras receitas atribuídas por lei, por contrato ou a outro título;\n\nf) As quantias atribuídas por terceiros a título de subsídio, patrocínio ou restituição.\n\n4 - Os centros portugueses da cooperação dispõem das seguintes receitas próprias:\n\na) As quantias cobradas por atividades ou serviços prestados a entidades públicas ou privadas;\n\nb) O produto da venda de publicações e outros materiais próprios;\n\nc) O rendimento de bens próprios ou de que tenha a fruição;\n\nd) As quantias provenientes da devolução de taxas e impostos indiretos pagos na aquisição de bens e serviços nos mercados locais no estrangeiro.\n\n5 - Os centros culturais portugueses e as estruturas de coordenação do ensino de português no estrangeiro dispõem das seguintes receitas próprias:\n\na) As quantias provenientes de inscrições em cursos de aprendizagem e formação;\n\nb) As quantias resultantes da disponibilização de serviços de interesse para os utentes;\n\nc) As quantias provenientes da devolução de taxas e impostos indirectos pagos na aquisição de bens e serviços nos mercados locais, no estrangeiro.\n\n6 - As dotações a que se refere o n.º 1 são entregues ao Camões, I. P., por antecipação, de harmonia com o plano de actividades e o orçamento, aprovados em duodécimos trimestrais.\n\n7 - Os saldos das dotações orçamentais afectas a despesas de cooperação transitam para o ano económico seguinte por meio da abertura de créditos especiais, a autorizar nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2018 - Diário da República n.º 118/2018, Série I de 2018-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2018-115553661), em vigor a partir de 2018-06-22"
+  },
+  "115557436": {
+   "fragment_id": "115559262",
+   "type": 11,
+   "heading": "Artigo 13.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Despesas\n\n1 - Constituem despesas do Camões, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições.\n\n2 - Para fazer face a despesas exclusivamente de cooperação, é constituído um fundo de maneio permanente, de montante nunca inferior a 15 % daquelas despesas, por despacho dos membros do Governo responsáveis pelas áreas das finanças e dos negócios estrangeiros."
+  },
+  "115557437": {
+   "fragment_id": "115559263",
+   "type": 11,
+   "heading": "Artigo 14.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Património\n\nO património do Camões, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "115557438": {
+   "fragment_id": "115559264",
+   "type": 11,
+   "heading": "Artigo 15.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sucessão\n\nO Camões, I. P., sucede nas atribuições do Instituto Português de Apoio ao Desenvolvimento, I. P. (IPAD, I. P.), e do Instituto Camões, I. P. (IC, I. P.)."
+  },
+  "115557439": {
+   "fragment_id": "115559265",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de selecção de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Critérios de selecção de pessoal\n\nSão fixados como critérios gerais e abstractos de selecção de pessoal necessário à prossecução das atribuições do Camões, I. P., o desempenho de funções no IPAD, I. P., e no IC, I. P."
+  },
+  "115557440": {
+   "fragment_id": "115559266",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 119/2007, alterado pelo Decreto-Lei n.º 165-A/2009, de 28 de Julho;\n\nb) O Decreto-Lei n.º 120/2007, de 27 de Abril."
+  },
+  "115557441": {
+   "fragment_id": "115559267",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "115557442": {
+   "fragment_id": "115559268",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 23 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:574541:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1995-169352523",
+ "dre_path": "/dr/detalhe/portaria/1179-1995-574541",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169352661"
+   ]
+  },
+  {
+   "date": "1996-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:611314:por",
+     "title": "Portaria n.º 53/96",
+     "published": "1996-02-20",
+     "dre_path": "/dr/detalhe/portaria/53-1996-611314"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "169352660",
+    "169352658"
+   ]
+  },
+  {
+   "date": "2009-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490009:por",
+     "title": "Lei n.º 102/2009",
+     "published": "2009-09-10",
+     "dre_path": "/dr/detalhe/lei/102-2009-490009"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "169352661",
+    "169352662"
+   ]
+  }
+ ],
+ "fragments": {
+  "169352661": {
+   "fragment_id": "169352524",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2009-10-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1179/95\n\nde 26 de Setembro\n\nO Decreto-Lei n.º 26/94, de 1 de Fevereiro, com a redacção dada pela Lei n.º 7/95, de 29 de Março, relativo ao regime de organização e funcionamento dos serviços de segurança, higiene e saúde no trabalho, prevê que o modelo da ficha de notificação da modalidade adoptada para a organização dos referidos serviços será aprovado por portaria conjunta dos Ministros da Saúde e do Emprego e da Segurança Social.\n\nA empresa pode adoptar serviços internos, serviços interempresas ou serviços externos para o desenvolvimento das actividades de segurança, higiene e saúde no trabalho, na sede e nos seus estabelecimentos. A modalidade adoptada e a sua alteração devem ser notificadas ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho.\n\nAssim:\n\nManda o Governo, pelos Ministros da Saúde e do Emprego e da Segurança Social, o seguinte:\n\n1.º É aprovado o modelo da ficha de notificação da modalidade adoptada pela empresa para a organização dos serviços de segurança, higiene e saúde no trabalho, anexo à presente portaria, da qual faz parte integrante.\n\n2.º A impressão e a distribuição dos impressos da ficha de notificação serão assegurados pela Imprensa Nacional - Casa da Moeda, E. P., nas condições e formas acordadas com o Instituto de Desenvolvimento e Inspecção das Condições de Trabalho.\n\n3.º A notificação da modalidade adoptada para a organização dos serviços de segurança, higiene e saúde no trabalho ou da respectiva alteração deve ser feita dentro dos seguintes prazos:\n\na) Até 30 dias após a entrada em vigor da presente portaria, no caso de empresa já em funcionamento no termo desse prazo;\n\nb) Até 30 dias a contar do início do funcionamento, nos casos em que este se inicie a partir do termo do prazo referido na alínea anterior.\n\nc) Nos 30 dias posteriores à mudança da modalidade adoptada para a organização dos serviços.\n\n4.º A presente portaria produz efeitos a partir do dia 1 de Julho de 1995.\n\nMinistérios da Saúde e do Emprego e da Segurança Social."
+  },
+  "169352660": {
+   "fragment_id": "169352524",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1996-02-20",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 53/96 - Diário da República n.º 43/1996, Série I-B de 1996-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/53-1996-611314), em vigor a partir de 1996-02-20"
+   ],
+   "markdown": "Portaria n.º 1179/95\n\nde 26 de Setembro\n\nO Decreto-Lei n.º 26/94, de 1 de Fevereiro, com a redacção dada pela Lei n.º 7/95, de 29 de Março, relativo ao regime de organização e funcionamento dos serviços de segurança, higiene e saúde no trabalho, prevê que o modelo da ficha de notificação da modalidade adoptada para a organização dos referidos serviços será aprovado por portaria conjunta dos Ministros da Saúde e do Emprego e da Segurança Social.\n\nA empresa pode adoptar serviços internos, serviços interempresas ou serviços externos para o desenvolvimento das actividades de segurança, higiene e saúde no trabalho, na sede e nos seus estabelecimentos. A modalidade adoptada e a sua alteração devem ser notificadas ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho.\n\nAssim:\n\nManda o Governo, pelos Ministros da Saúde e do Emprego e da Segurança Social, o seguinte:\n\n1.º É aprovado o modelo da ficha de notificação da modalidade adoptada pela empresa para a organização dos serviços de segurança, higiene e saúde no trabalho, anexo à presente portaria, da qual faz parte integrante.\n\n2.º A impressão e a distribuição dos impressos da ficha de notificação serão assegurados pela Imprensa Nacional - Casa da Moeda, E. P., nas condições e formas acordadas com o Instituto de Desenvolvimento e Inspecção das Condições de Trabalho.\n\n3.º A notificação da modalidade adoptada para a organização dos serviços de segurança, higiene e saúde no trabalho ou da respectiva alteração deve ser feita dentro dos seguintes prazos:\n\na) Até 30 dias após a entrada em vigor da presente portaria, no caso de empresa já em funcionamento no termo desse prazo;\n\nb) Até 30 dias a contar do início do funcionamento, nos casos em que este se inicie a partir do termo do prazo referido na alínea anterior.\n\nc) Nos 30 dias posteriores à mudança da modalidade adoptada para a organização dos serviços.\n\n4.º A presente portaria produz efeitos a partir do dia 1 de Julho de 1995.\n\nMinistérios da Saúde e do Emprego e da Segurança Social.\n\n> Alterado pelo/a [Portaria n.º 53/96 - Diário da República n.º 43/1996, Série I-B de 1996-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/53-1996-611314), em vigor a partir de 1996-02-20"
+  },
+  "169352658": {
+   "fragment_id": "169352525",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 22 de Agosto de 1995.\n\nO Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.\n\n(ver documento original)"
+  },
+  "169352662": {
+   "fragment_id": "169352525",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2009-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 120.º do/a [Lei n.º 102/2009 - Diário da República n.º 176/2009, Série I de 2009-09-10](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), em vigor a partir de 2009-10-01"
+   ],
+   "markdown": "Assinada em 22 de Agosto de 1995.\n\nO Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 120.º do/a [Lei n.º 102/2009 - Diário da República n.º 176/2009, Série I de 2009-09-10](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), em vigor a partir de 2009-10-01"
+  }
+ }
+}

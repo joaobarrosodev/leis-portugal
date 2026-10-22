@@ -1,0 +1,415 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:898378512:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-907171920",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/13-2024-898378512",
+ "source_lastmod": "2025-02-12",
+ "versions": [
+  {
+   "date": "2024-11-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907100658",
+    "907100659",
+    "907100660",
+    "907100661",
+    "907100662",
+    "907100663",
+    "907100664",
+    "907100665",
+    "907100666",
+    "907100667",
+    "907100668",
+    "907100669",
+    "907100670",
+    "907100671",
+    "907100672",
+    "907100673",
+    "907100674",
+    "907171975",
+    "907171976",
+    "907171977",
+    "907171978",
+    "907171979",
+    "907171980",
+    "907171981",
+    "907171982",
+    "907171983",
+    "907171984",
+    "907171985",
+    "907171986",
+    "907171987",
+    "907171988"
+   ]
+  },
+  {
+   "date": "2025-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:907097152:por",
+     "title": "Decreto Legislativo Regional n.º 10/2025/A",
+     "published": "2025-02-12",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/10-2025-907097152"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 28.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "907100658",
+    "907100659",
+    "907100660",
+    "907100661",
+    "907100662",
+    "907214618",
+    "907100664",
+    "907100665",
+    "907100666",
+    "907100667",
+    "907100668",
+    "907100669",
+    "907100670",
+    "907100671",
+    "907100672",
+    "907214619",
+    "907100674",
+    "907171975",
+    "907171976",
+    "907171977",
+    "907171978",
+    "907171979",
+    "907214620",
+    "907171981",
+    "907171982",
+    "907171983",
+    "907171984",
+    "907171985",
+    "907171986",
+    "907214597",
+    "907214598",
+    "907214599",
+    "907214600"
+   ]
+  }
+ ],
+ "fragments": {
+  "907100658": {
+   "fragment_id": "907171921",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 13/2024/A\n\nAdapta à Região Autónoma dos Açores o regime jurídico aplicável aos bombeiros portugueses no território continental\n\nO Decreto-Lei n.º 241/2007, de 21 de junho, alterado pela Lei n.º 48/2009, de 4 de agosto, alterado e republicado pelo Decreto-Lei n.º 249/2012, de 21 de novembro, retificado pelas Declarações de Retificação n.<sup>os </sup>3/2013, de 18 de janeiro, e 4/2013, de 18 de janeiro, alterado pela Lei n.º 38/2017, de 2 de junho, pelo Decreto-Lei n.º 45/2019, de 1 de abril, e alterado e republicado pelo Decreto-Lei n.º 64/2019, de 16 de maio, veio criar o regime jurídico aplicável aos bombeiros portugueses no território continental, determinando o conjunto de deveres, direitos e regalias a que têm acesso e as condições em que os mesmos se concretizam, bem como as regras do exercício da função por parte dos bombeiros voluntários dos quadros de comando e ativo.\n\nCom a alteração introduzida pela Lei n.º 48/2009, de 4 de agosto, foi alargado às Regiões Autónomas o âmbito de aplicação do Decreto-Lei n.º 241/2007, de 21 de junho, tendo sido salvaguardada também, através do seu artigo 1.º-A, a integração dos bombeiros das Regiões Autónomas no recenseamento nacional dos bombeiros portugueses, regulado pelo Decreto-Lei n.º 49/2008, de 14 de março.\n\nO regime jurídico aplicável aos bombeiros portugueses no território continental foi objeto de adaptação à Região Autónoma dos Açores pelo Decreto Legislativo Regional n.º 10/2015/A, de 9 de abril.\n\nO presente decreto legislativo regional introduz quanto às condições e atratividade para o ingresso e manutenção de bombeiros voluntários na Região Autónoma dos Açores, bem como novas regras com impacto na regulamentação existente, destinadas a agilizar o funcionamento dos corpos de bombeiros, visando proceder a uma melhoria na sua eficácia, e revoga o Decreto Legislativo Regional n.º 10/2015/A, de 9 de abril.\n\nForam observados os procedimentos relativos ao exercício do direito de participação dos representantes dos trabalhadores, decorrentes do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, e do artigo 37.º, dos n.<sup>os </sup>1 e 4 do artigo 38.º e da alínea b) do n.º 2 do artigo 66.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "907100659": {
+   "fragment_id": "907171922",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto legislativo regional procede à adaptação, à Região Autónoma dos Açores, do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, o qual define o regime jurídico aplicável aos bombeiros portugueses no território continental."
+  },
+  "907100660": {
+   "fragment_id": "907171923",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Bombeiro» o indivíduo que, integrado de forma profissional ou voluntária num corpo de bombeiros, tem por atividade cumprir as missões deste, nomeadamente a proteção de vidas humanas e bens em perigo, mediante a prevenção e extinção de incêndios, o socorro de feridos, doentes ou náufragos, e a prestação de outros serviços previstos nos regulamentos internos e demais legislação aplicável;\n\nb) «Corpo de bombeiros» a unidade operacional, oficialmente homologada e tecnicamente organizada, preparada e equipada para o cabal exercício das missões previstas na lei;\n\nc) «Entidade detentora de corpo de bombeiros» a entidade pública ou privada, designadamente o município ou a associação humanitária de bombeiros que cria, detém ou mantém um corpo de bombeiros."
+  },
+  "907100661": {
+   "fragment_id": "907171924",
+   "type": 11,
+   "heading": "Artigo 3.º — Adaptação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Adaptação de competências\n\nO Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, é aplicável à Região Autónoma dos Açores com as seguintes adaptações orgânicas:\n\na) Reportam-se ao membro do Governo Regional com competência em matéria de proteção civil e bombeiros as referências feitas aos membros do Governo da República;\n\nb) Reportam-se ao Serviço Regional de Proteção Civil e Bombeiros dos Açores (SRPCBA) as referências feitas à Autoridade Nacional de Emergência e Proteção Civil (ANEPC), ao Comando Distrital de Operações de Socorro e à Direção Nacional de Bombeiros, bem como as referências feitas ao comandante operacional distrital e à Escola Nacional de Bombeiros;\n\nc) Reportam-se à Associação de Municípios da Região Autónoma dos Açores (AMRAA) as referências feitas à Associação Nacional de Municípios Portugueses;\n\nd) Reportam-se ao Conselho Regional de Bombeiros as referências feitas ao Conselho Nacional de Bombeiros;\n\ne) Reportam-se à Federação dos Bombeiros da Região Autónoma dos Açores (FBRAA) as referências feitas à Liga dos Bombeiros Portugueses (LBP), no que se refere às definições das carreiras de oficial bombeiro, bombeiro e bombeiro especialista."
+  },
+  "907100662": {
+   "fragment_id": "907171925",
+   "type": 11,
+   "heading": "Artigo 4.º — Recenseamento dos bombeiros da Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recenseamento dos bombeiros da Região Autónoma dos Açores\n\nO SRPCBA é, na Região Autónoma dos Açores, o serviço responsável pelo recenseamento dos bombeiros a que se refere o n.º 1 do artigo 1.º-A do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual."
+  },
+  "907100663": {
+   "fragment_id": "907171926",
+   "type": 11,
+   "heading": "Artigo 5.º — Benefícios e majoração de regalias no âmbito da educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Benefícios e majoração de regalias no âmbito da educação\n\n1 - Os bombeiros que tenham beneficiado de regalias, nos termos do disposto no n.º 11 do artigo 6.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, têm direito às seguintes majorações:\n\na) O valor correspondente, no limite, a 50 % da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, no início do ano letivo a que as propinas e taxas de inscrição se reportam, sempre que estejam em causa as regalias a que se referem os n.<sup>os </sup>3 e 5 e a alínea c) do n.º 6 do artigo 6.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual;\n\nb) O valor correspondente, no limite, a 25 % da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, no início do ano letivo a que as propinas, taxas de inscrição e despesas se reportam, sempre que estejam em causa as regalias a que se referem os n.<sup>os </sup>7 e 8 do artigo 6.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual.\n\n2 - As majorações a que se referem as alíneas do número anterior reportam-se ao montante efetivamente pago, e que não seja objeto de reembolso, por aplicação dos n.<sup>os </sup>9 e 10 do artigo 6.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual.\n\n3 - Os pedidos de atribuição das majorações a que se refere o n.º 1 são entregues pelo interessado na associação humanitária de bombeiros voluntários a que o mesmo pertence, acompanhados do respetivo documento comprovativo da atribuição da regalia e da transferência previamente efetuada pela LBP ou pela entidade legalmente competente para o pagamento.\n\n4 - Os pedidos a que se refere o número anterior são encaminhados, pelas respetivas associações humanitárias de bombeiros voluntários, para o SRPCBA, para efeitos de verificação e proposta.\n\n5 - As majorações referidas no n.º 1 são atribuídas por despacho do membro do Governo Regional com competência em matéria de proteção civil e bombeiros, sob proposta do presidente do SRPCBA.\n\n6 - Na sequência do despacho a que se refere o número anterior, o departamento do Governo Regional com competência em matéria de proteção civil e bombeiros transfere, para a associação humanitária de bombeiros voluntários a que o beneficiário pertence, o montante relativo às majorações atribuídas.\n\n7 - O pagamento ao beneficiário das majorações a que se refere o presente artigo é realizado pela associação humanitária de bombeiros voluntários a que o mesmo pertence.\n\n8 - O acesso aos benefícios elencados no presente artigo é permitido a mais do que um descendente do bombeiro e pode ser usufruído em simultâneo com este.\n\n9 - Os bombeiros voluntários dos quadros de comando e ativo têm direito ao reembolso de 50 % das despesas suportadas com centros de atividades de tempos livres."
+  },
+  "907100664": {
+   "fragment_id": "907171927",
+   "type": 11,
+   "heading": "Artigo 6.º — Seguro de acidentes pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Seguro de acidentes pessoais\n\nOs municípios da Região Autónoma dos Açores suportam os encargos com o seguro de acidentes pessoais dos bombeiros dos diversos quadros dos corpos de bombeiros, dos infantes e cadetes, e dos elementos que integram os órgãos executivos das associações humanitárias de bombeiros voluntários, nos termos do disposto no n.º 1 do artigo 23.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, e demais legislação complementar."
+  },
+  "907100665": {
+   "fragment_id": "907171928",
+   "type": 11,
+   "heading": "Artigo 7.º — Isenção de taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Isenção de taxas moderadoras\n\n1 - Os bombeiros beneficiam da isenção do pagamento de taxas moderadoras nas prestações em cuidados de saúde primários e hospitalares, ainda que fora do exercício da sua atividade, nos termos conjugados do artigo 2.º do Decreto Regulamentar Regional n.º 16/2011/A, de 28 de junho, alterado e republicado pelo Decreto Regulamentar Regional n.º 8/2020/A, de 2 de abril, e da alínea g) do artigo 4.º do Decreto-Lei n.º 113/2011, de 29 de novembro, na sua redação atual.\n\n2 - Para os efeitos do disposto no número anterior, os bombeiros devem identificar-se mediante a apresentação de cartão de identificação de bombeiro ou de outro que o substitua nos termos legais.\n\n3 - O disposto no n.º 1 é ainda aplicável aos elementos que integram os órgãos executivos das associações humanitárias de bombeiros voluntários sediadas na Região Autónoma dos Açores e aos elementos que integram os órgãos executivos da FBRAA, devendo os mesmos, para o efeito, identificar-se mediante a apresentação de documento que comprove, nos termos legais, a qualidade em causa."
+  },
+  "907100666": {
+   "fragment_id": "907171929",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso a lares de terceira idade e cuidados continuados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso a lares de terceira idade e cuidados continuados\n\n1 - Compete ao SRPCBA promover o acesso prioritário dos bombeiros voluntários da Região a lares de terceira idade, bem como o acesso a camas de cuidados continuados, nas condições que vierem a ser estabelecidas por protocolo com os departamentos do Governo Regional com competência nas respetivas áreas.\n\n2 - Podem beneficiar do disposto no número anterior todos os bombeiros e titulares dos corpos de bombeiros gerentes das associações de bombeiros e dos órgãos sociais da FBRAA que tenham, no mínimo, 15 anos de bom comportamento e efetivo serviço e comprovem a sua situação social de carência material e familiar."
+  },
+  "907100667": {
+   "fragment_id": "907171930",
+   "type": 11,
+   "heading": "Artigo 9.º — Majoração no âmbito dos programas de apoio à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Majoração no âmbito dos programas de apoio à habitação\n\n1 - Os bombeiros pertencentes às associações humanitárias de bombeiros voluntários sediadas na Região Autónoma dos Açores, candidatos aos programas de apoio à habitação, da responsabilidade do Governo Regional dos Açores, beneficiam de uma majoração de 10 % do montante do benefício atribuído.\n\n2 - A majoração prevista no número anterior não é cumulável com outras majorações estabelecidas noutros programas de apoio à habitação previstos em legislação especial."
+  },
+  "907100668": {
+   "fragment_id": "907171931",
+   "type": 11,
+   "heading": "Artigo 10.º — Bonificação de tempo de serviço para efeitos de pensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Bonificação de tempo de serviço para efeitos de pensão\n\n1 - É atribuído aos bombeiros voluntários que, nos termos do disposto no artigo 10.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, beneficiem de uma bonificação de tempo de serviço para efeitos de pensão um apoio, correspondente a 50 % do montante das contribuições que tenham de suportar, com o limite de 15 000 € (quinze mil euros).\n\n2 - O pedido de apoio a que se refere o número anterior é entregue pelo interessado na associação humanitária de bombeiros voluntários a que o mesmo pertence, acompanhado do respetivo documento comprovativo da atribuição de bonificação de tempo de serviço para efeitos de pensão.\n\n3 - O pedido a que se refere o número anterior é encaminhado pela respetiva associação humanitária de bombeiros voluntários para o SRPCBA, para efeitos de verificação e proposta.\n\n4 - O apoio a que se refere o n.º 1 é atribuído por despacho do membro do Governo Regional com competência em matéria de proteção civil e bombeiros, sob proposta do presidente do SRPCBA.\n\n5 - Na sequência do despacho a que se refere o número anterior, o departamento do Governo Regional com competência em matéria de proteção civil e bombeiros transfere, para a associação humanitária de bombeiros voluntários a que o beneficiário pertence, o montante relativo às majorações atribuídas.\n\n6 - O pagamento ao beneficiário do apoio a que se refere o presente artigo é realizado pela associação humanitária de bombeiros voluntários a que o mesmo pertence."
+  },
+  "907100669": {
+   "fragment_id": "907171932",
+   "type": 11,
+   "heading": "Artigo 11.º — Benefícios no âmbito dos municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Benefícios no âmbito dos municípios\n\nNa Região Autónoma dos Açores, através de protocolo a celebrar entre o SRPCBA e a AMRAA, os bombeiros voluntários do quadro de comando e ativo usufruem dos benefícios, descontos ou isenções protocoladas com o respetivo município."
+  },
+  "907100670": {
+   "fragment_id": "907171933",
+   "type": 11,
+   "heading": "Artigo 12.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Patrocínio judiciário\n\nReportam-se ao SRPCBA as referências feitas à ANEPC, no Decreto-Lei n.º 286/2009, de 8 de outubro, alterado e republicado pela Lei n.º 48/2012, de 29 de agosto, diploma que regula o direito de assistência e o patrocínio judiciário aos bombeiros, nos processos judiciais em que sejam demandados ou demandantes, por factos ocorridos no âmbito do exercício de funções."
+  },
+  "907100671": {
+   "fragment_id": "907171934",
+   "type": 11,
+   "heading": "Artigo 13.º — Vigilância médica de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vigilância médica de saúde\n\n1 - Os bombeiros voluntários efetuam exames anualmente, no decorrer do primeiro semestre de cada ano, sem prejuízo do apetrechamento das estruturas de bombeiros no que respeita à realização de inspeções médico-sanitárias, nos termos legais aplicáveis, indispensáveis ao exercício da função de bombeiro.\n\n2 - Os bombeiros voluntários beneficiam ainda da vacinação adequada, nos mesmos termos do estabelecido para os profissionais de risco.\n\n3 - Nas situações de admissão como estagiário das diferentes carreiras, readmissão, mobilidade, ou elementos no quadro de reserva há mais de 12 meses, devem ser previamente realizadas inspeções médico-sanitárias extraordinárias.\n\n4 - As inspeções médico-sanitárias referidas nos números anteriores, bem como a vacinação adequada, são suportadas pelo Serviço Regional de Saúde e asseguradas pela respetiva unidade de saúde do concelho, em articulação com o comando do corpo de bombeiros.\n\n5 - São estabelecidas, por protocolo a celebrar entre a direção regional com competência em matéria de saúde e o SRPCBA, condições específicas destinadas aos bombeiros, tendo em vista o diagnóstico e acompanhamento clínico de doença.\n\n6 - Os bombeiros voluntários que no âmbito das inspeções médico-sanitárias a que se refere o presente artigo, e por razões de saúde, revelem incapacidade para o exercício das suas funções transitam para o quadro de reserva."
+  },
+  "907100672": {
+   "fragment_id": "907171935",
+   "type": 11,
+   "heading": "Artigo 14.º — Apoio psicológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apoio psicológico\n\n1 - É criado um programa de saúde em matéria de apoio psicológico aos bombeiros, com o objetivo, designadamente, de dar resposta em situações de trauma, ou traumáticas, na sequência de acontecimentos em serviço.\n\n2 - O programa a que se refere o número anterior é regulamentado através de decreto regulamentar regional e implementado pelos departamentos do Governo Regional com competência em matéria da saúde e da segurança social."
+  },
+  "907100673": {
+   "fragment_id": "907171936",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apoio extraordinário\n\n1 - Atendendo à natureza da atividade de bombeiro, é atribuído um apoio extraordinário anual aos bombeiros voluntários ao serviço das associações humanitárias da Região Autónoma dos Açores.\n\n2 - O apoio a conceder nos termos do número anterior traduz-se na atribuição de um montante pecuniário, de natureza não salarial, correspondente a 50 % da remuneração mínima mensal garantida na Região Autónoma dos Açores, pago no mês de dezembro."
+  },
+  "907100674": {
+   "fragment_id": "907171937",
+   "type": 11,
+   "heading": "Artigo 16.º — Outros benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Outros benefícios\n\n1 - Os bombeiros beneficiam de uma redução de 50 % em todas as taxas e emolumentos aplicados por organismos tutelados pelo Governo Regional dos Açores.\n\n2 - Os bombeiros beneficiam de entrada gratuita para visita a espaços de cultura e de ciência administrados pela Região Autónoma dos Açores, nomeadamente museus, centros ambientais e monumentos, exceto quando estiverem em causa eventos privados ou que não se enquadrem nas habituais atividades do respetivo espaço.\n\n3 - Para os efeitos do disposto nos números anteriores, os bombeiros devem identificar-se mediante a apresentação de cartão de identificação de bombeiro ou de outro que o substitua nos termos legais."
+  },
+  "907171975": {
+   "fragment_id": "907171938",
+   "type": 11,
+   "heading": "Artigo 17.º — Licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Licenças\n\nO bombeiro que ultrapasse um ano de licença transita automaticamente para o quadro de reserva."
+  },
+  "907171976": {
+   "fragment_id": "907171939",
+   "type": 11,
+   "heading": "Artigo 18.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Mobilidade\n\n1 - Aos bombeiros voluntários do quadro ativo é permitida a transferência entre corpos de bombeiros, a requerimento do interessado, desde que satisfeitas as seguintes condições:\n\na) Existência de vaga no quadro do corpo de destino;\n\nb) O pedido não ser feito por motivos disciplinares.\n\n2 - O bombeiro transferido mantém a carreira, a categoria, a antiguidade e os demais direitos adquiridos.\n\n3 - Aos bombeiros do quadro de reserva é também permitida a transferência desde que:\n\na) Seja para ocupar vaga no quadro ativo do corpo de bombeiros de destino;\n\nb) O pedido não seja efetuado por motivos disciplinares.\n\n4 - Os pedidos de transferência referidos nos números anteriores são efetuados a requerimento dos interessados, dirigidos ao SRPCBA, acompanhados de pareceres favoráveis fundamentados, dos comandantes e das entidades detentoras dos corpos de bombeiros respetivos, de origem e de destino."
+  },
+  "907171977": {
+   "fragment_id": "907171940",
+   "type": 11,
+   "heading": "Artigo 19.º — Faltas para o exercício de atividade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Faltas para o exercício de atividade profissional\n\n1 - São consideradas faltas justificadas, para além das previstas no artigo 26.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, as faltas dadas por bombeiros voluntários pertencentes a corpos de bombeiros da Região Autónoma dos Açores, para efeitos de:\n\na) Frequência de cursos de formação promovidos ou reconhecidos pelo SRPCBA;\n\nb) Participação em reuniões e ações promovidas ou convocadas pelo SRPCBA.\n\n2 - Compete ao SRPCBA autorizar a frequência dos cursos e a participação em reuniões a que se refere o número anterior.\n\n3 - É aplicável, com as necessárias adaptações, aos bombeiros voluntários pertencentes a corpos de bombeiros da Região e aos membros titulares dos órgãos executivos das associações de bombeiros da Região e da FBRAA o regime jurídico regional de dispensas do exercício efetivo de funções profissionais, requisições e relevação de faltas, por períodos limitados, para organização ou participação em atividades sociais, culturais, associativas e desportivas, estabelecido no Decreto Legislativo Regional n.º 9/2000/A, de 10 de maio."
+  },
+  "907171978": {
+   "fragment_id": "907171941",
+   "type": 11,
+   "heading": "Artigo 20.º — Conteúdos programáticos dos cursos de ingresso e promoção na carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Conteúdos programáticos dos cursos de ingresso e promoção na carreira\n\nOs conteúdos programáticos previstos no n.º 12 do artigo 34.º, no n.º 11 do artigo 35.º e no n.º 13 do artigo 35.º-A, todos do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, são definidos por despacho do presidente do SRPCBA, ouvido o Conselho Regional de Bombeiros."
+  },
+  "907171979": {
+   "fragment_id": "907171942",
+   "type": 11,
+   "heading": "Artigo 21.º — Carreira de oficial bombeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Carreira de oficial bombeiro\n\n1 - O regulamento a que se refere o n.º 3 do artigo 34.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, é definido por portaria do membro do Governo Regional com competência em matéria de proteção civil e bombeiros, sob proposta do SRPCBA, ouvido o Conselho Regional de Bombeiros.\n\n2 - A dotação da carreira de oficial bombeiro não pode exceder os 25 % do quadro de pessoal homologado, nos termos definidos no regime aplicável."
+  },
+  "907171980": {
+   "fragment_id": "907171943",
+   "type": 11,
+   "heading": "Artigo 22.º — Carreira de bombeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Carreira de bombeiro\n\n1 - O regulamento a que se refere o n.º 5 do artigo 35.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, é definido por portaria do membro do Governo Regional com competência em matéria de proteção civil e bombeiros, sob proposta do SRPCBA, ouvido o Conselho Regional de Bombeiros.\n\n2 - O ingresso na carreira de bombeiro voluntário a que se reporta o n.º 6 do artigo 35.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, é feito na categoria de bombeiro de 3.ª, de indivíduos detentores da escolaridade mínima obrigatória e de entre os estagiários aprovados no respetivo estágio, sendo as vagas preenchidas pela ordem de classificação obtida pelos candidatos na nota final do estágio."
+  },
+  "907171981": {
+   "fragment_id": "907171944",
+   "type": 11,
+   "heading": "Artigo 23.º — Carreira de bombeiro especialista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Carreira de bombeiro especialista\n\n1 - O regulamento a que se refere o n.º 2 do artigo 35.º-A do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, é definido por portaria do membro do Governo Regional com competência em matéria de proteção civil e bombeiros, sob proposta do SRPCBA, ouvido o Conselho Regional de Bombeiros.\n\n2 - A dotação da carreira de bombeiro especialista não pode exceder os 30 % do quadro de pessoal homologado, nos termos definidos no regime aplicável."
+  },
+  "907171982": {
+   "fragment_id": "907171945",
+   "type": 11,
+   "heading": "Artigo 24.º — Ingresso no quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Ingresso no quadro\n\nPodem ingressar na carreira de bombeiro do quadro ativo, para além das vagas disponíveis em bombeiro de 3.ª, todos os estagiários, ficando como supranumerários até à regularização da dotação prevista."
+  },
+  "907171983": {
+   "fragment_id": "907171946",
+   "type": 11,
+   "heading": "Artigo 25.º — Readmissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Readmissões\n\n1 - Findo o período de estágio a que se referem as alíneas a) e b) do n.º 4 do artigo 35.º-B do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, o comandante do corpo de bombeiros envia ao SRPCBA um relatório relativo ao período de estágio do elemento, em que constem os resultados das provas efetuadas, e no qual autoriza a readmissão.\n\n2 - Para efeitos de contagem de tempo de serviço, é considerada na readmissão a data de início do estágio."
+  },
+  "907171984": {
+   "fragment_id": "907171947",
+   "type": 11,
+   "heading": "Artigo 26.º — Competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competência disciplinar\n\n1 - A aplicação de qualquer pena disciplinar ao comandante do corpo de bombeiros é da competência do presidente do SRPCBA.\n\n2 - Das decisões do presidente do SRPCBA sobre penas aplicadas ao comandante cabe recurso hierárquico facultativo para o membro do Governo Regional com competência em matéria de proteção civil e bombeiros.\n\n3 - O recurso a que se refere o número anterior é interposto, no prazo de 15 dias, junto do membro do Governo Regional com competência em matéria de proteção civil e bombeiros, sendo o prazo de decisão de 10 dias."
+  },
+  "907171985": {
+   "fragment_id": "907171948",
+   "type": 11,
+   "heading": "Artigo 27.º — Cartões de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cartões de identificação\n\nCompete ao SRPCBA assegurar a emissão do cartão de identificação de bombeiro."
+  },
+  "907171986": {
+   "fragment_id": "907171949",
+   "type": 11,
+   "heading": "Artigo 28.º — Plano de uniformes, insígnias e identificações dos bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Plano de uniformes, insígnias e identificações dos bombeiros\n\nÉ aprovado, por portaria do membro do Governo Regional com competência em matéria de proteção civil e bombeiros, no prazo de 180 dias a contar da data da entrada em vigor do presente diploma, o plano de uniformes, insígnias e identificações dos bombeiros."
+  },
+  "907171987": {
+   "fragment_id": "907171950",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 10/2015/A, de 9 de abril."
+  },
+  "907171988": {
+   "fragment_id": "907171951",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "907214618": {
+   "fragment_id": "907171926",
+   "type": 11,
+   "heading": "Artigo 5.º — Benefícios e majoração de regalias no âmbito da educação",
+   "in_force_from": "2025-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2025/A - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2025-907097152), em vigor a partir de 2025-02-13"
+   ],
+   "markdown": "###### Artigo 5.º — Benefícios e majoração de regalias no âmbito da educação\n\n1 - Os bombeiros que tenham beneficiado de regalias, nos termos do disposto no n.º 11 do artigo 6.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, têm direito às seguintes majorações:\n\na) O valor correspondente, no limite, a 50 % da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, no início do ano letivo a que as propinas e taxas de inscrição se reportam, sempre que estejam em causa as regalias a que se referem os n.<sup>os </sup>3 e 5 e a alínea c) do n.º 6 do artigo 6.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual;\n\nb) O valor correspondente, no limite, a 25 % da retribuição mínima mensal garantida em vigor na Região Autónoma dos Açores, no início do ano letivo a que as propinas, taxas de inscrição e despesas se reportam, sempre que estejam em causa as regalias a que se referem os n.<sup>os </sup>7 e 8 do artigo 6.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual.\n\n2 - As majorações a que se referem as alíneas do número anterior reportam-se ao montante efetivamente pago, e que não seja objeto de reembolso, por aplicação dos n.<sup>os </sup>9 e 10 do artigo 6.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual.\n\n3 - Os pedidos de atribuição das majorações a que se refere o n.º 1 são entregues pelo interessado na associação humanitária de bombeiros voluntários a que o mesmo pertence, acompanhados do respetivo documento comprovativo da atribuição da regalia e da transferência previamente efetuada pela LBP ou pela entidade legalmente competente para o pagamento.\n\n4 - Os pedidos a que se refere o número anterior são encaminhados, pelas respetivas associações humanitárias de bombeiros voluntários, para o SRPCBA, para efeitos de verificação e proposta.\n\n5 - As majorações referidas no n.º 1 são atribuídas por despacho do membro do Governo Regional com competência em matéria de proteção civil e bombeiros, sob proposta do presidente do SRPCBA.\n\n6 - Na sequência do despacho a que se refere o número anterior, o departamento do Governo Regional com competência em matéria de proteção civil e bombeiros transfere, para a associação humanitária de bombeiros voluntários a que o beneficiário pertence, o montante relativo às majorações atribuídas.\n\n7 - O pagamento ao beneficiário das majorações a que se refere o presente artigo é realizado pela associação humanitária de bombeiros voluntários a que o mesmo pertence.\n\n8 - O acesso aos benefícios elencados no presente artigo é permitido a mais do que um descendente do bombeiro e pode ser usufruído em simultâneo com este.\n\n9 - Os bombeiros voluntários dos quadros de comando e ativo têm direito ao reembolso de 50 % das despesas suportadas com centros de atividades de tempos livres, nos termos e condições a definir por decreto regulamentar regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2025/A - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2025-907097152), em vigor a partir de 2025-02-13"
+  },
+  "907214619": {
+   "fragment_id": "907171936",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio extraordinário",
+   "in_force_from": "2025-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2025/A - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2025-907097152), em vigor a partir de 2025-02-13"
+   ],
+   "markdown": "###### Artigo 15.º — Apoio extraordinário\n\n1 - Atendendo à natureza da atividade de bombeiro, é atribuído um apoio extraordinário anual aos bombeiros voluntários ao serviço das associações humanitárias da Região Autónoma dos Açores.\n\n2 - O apoio a conceder nos termos do número anterior traduz-se na atribuição de um montante pecuniário, de natureza não salarial, correspondente a 50 % da remuneração mínima mensal garantida na Região Autónoma dos Açores, nos termos e condições a definir por decreto regulamentar regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2025/A - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2025-907097152), em vigor a partir de 2025-02-13"
+  },
+  "907214620": {
+   "fragment_id": "907171943",
+   "type": 11,
+   "heading": "Artigo 22.º — Carreira de bombeiro",
+   "in_force_from": "2025-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2025/A - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2025-907097152), em vigor a partir de 2025-02-13"
+   ],
+   "markdown": "###### Artigo 22.º — Carreira de bombeiro\n\n1 - O regulamento a que se refere o n.º 5 do artigo 35.º do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, é definido por portaria do membro do Governo Regional com competência em matéria de proteção civil e bombeiros, sob proposta do SRPCBA, ouvido o Conselho Regional de Bombeiros.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2025/A - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2025-907097152), em vigor a partir de 2025-02-13"
+  },
+  "907214597": {
+   "fragment_id": "907173862",
+   "type": 11,
+   "heading": "Artigo 28.º-A — Regulamentação",
+   "in_force_from": "2025-02-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 10/2025/A - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2025-907097152), em vigor a partir de 2025-02-13"
+   ],
+   "markdown": "###### Artigo 28.º-A — Regulamentação\n\nO presente diploma é regulamentado pelo Governo Regional no prazo de 60 dias após a sua entrada em vigor.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 10/2025/A - Diário da República n.º 30/2025, Série I de 2025-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2025-907097152), em vigor a partir de 2025-02-13"
+  },
+  "907214598": {
+   "fragment_id": "907171950",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 10/2015/A, de 9 de abril."
+  },
+  "907214599": {
+   "fragment_id": "907171951",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "907214600": {
+   "fragment_id": "907171952",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 15 de outubro de 2024.\n\nO Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.\n\nAssinado em Angra do Heroísmo em 27 de novembro de 2024.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n118402936"
+  }
+ }
+}

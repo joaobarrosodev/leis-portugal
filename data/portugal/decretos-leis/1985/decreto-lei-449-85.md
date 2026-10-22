@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:177873:por
+title: Decreto-Lei n.º 449/85
+short_title: null
+summary: Estabelece o princípio da obrigatoriedade do seguro de forma a garantir a responsabilidade civil decorrente dos danos
+  ou prejuízos resultantes das redes internas ou ramais de distribuição de combustíveis gasosos. Revoga o Decreto-Lei n.º
+  399/83, de 8 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 449/85
+official_date: null
+publication_date: '1985-10-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 246/1985, Série I de 1985-10-25
+  number: '246'
+  series: I
+  supplement: null
+  pages: 3542 - 3544
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24600/35423544.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '177873'
+  dre_path: /dr/detalhe/decreto-lei/449-1985-177873
+  internal: pt:dre:177873:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1985-177873
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/449-1985-177873
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-10-25T00:00:00Z'
+integrity:
+  source_sha256: bbf8fabfe7ae4e02404cce78a6570dbd05299c7c51fff039de19fdcf21490527
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-449-177873.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 449/85
+
+de 25 de Outubro
+
+A experiência adquirida pelo regime legal instituído pelo [Decreto-Lei n.º 399/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1983-443560), de 8 de Novembro, aconselha a introdução de algumas alterações ao sistema então adoptado a fim de prevenir as condições de segurança das instalações turísticas em que se utiliza o gás como fonte de energia.
+
+Assim, optou-se por alargar o âmbito de aplicação do referido diploma legal, tornando o regime agora introduzido extensivo a todas as unidades de alojamento e a quaisquer outras instalações não afectas à exploração dos estabelecimentos.
+
+Por outro lado, pretende-se clarificar a responsabilidade de certificação das condições de segurança por profissionais devidamente qualificados e instituir o regime de obrigatoriedade do seguro com o objectivo de garantir a responsabilidade civil decorrente de danos ou prejuízos provocados pelas redes internas ou ramais de distribuição de gases.
+
+Por fim, todas as referências a redes internas de distribuição de gases passam a ser feitas simultaneamente a ramais de distribuição.
+
+Dado que o presente diploma legal opera uma modificação substancial no mencionado [Decreto-Lei n.º 399/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1983-443560), optou-se por revogá-lo totalmente, a fim de que toda a disciplina relativa à matéria ficasse a constar de um único instrumento normativo.
+
+Visando a mesma finalidade, foi acolhido neste decreto-lei o disposto na [Portaria n.º 979/83](https://diariodarepublica.pt/dr/detalhe/portaria/979-1983-443715), de 22 de Novembro, o que provoca, igualmente, a cessação da vigência daquele normativo.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - Os proprietários e os que tiverem a direcção efectiva das instalações referidas no artigo 2.º são solidariamente responsáveis, nos termos fixados no n.º 1 do artigo 509.º do Código Civil, pelos danos ou prejuízos resultantes das próprias redes internas ou ramais de distribuição dos gases a que se refere o n.º 1 do artigo 1.º do [Decreto-Lei n.º 512/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1980-462272), de 28 de Outubro, bem como dos aparelhos ou utensílios destinados ao uso dos gases, designadamente os derivados da sua deficiente instalação, dos sistemas de evacuação dos produtos da combustão, da ventilação dos locais e da ausência de certificados dos aparelhos nos termos da lei.
+
+2 - A responsabilidade fixada pelo número anterior é excluída se provar que ao tempo do acidente a rede interna ou o ramal de distribuição e os aparelhos ou utensílios se encontravam de acordo com os requisitos técnicos de certificação de instalação e de segurança de utilização em vigor e em perfeito estado de conservação ou que o acidente é imputável ao próprio lesado ou a terceiro.
+
+3 - Para efeitos do disposto no número anterior, constitui prova bastante do cumprimento dos requisitos técnicos e do estado de conservação a exibição de alguns dos documentos a seguir indicados, quando válidos:
+
+a) Termo de responsabilidade emitido pela entidade montadora titular da credencial prevista na alínea e) do n.º 3 do artigo 4.º do [Decreto-Lei n.º 512/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/512-1980-462272), de 28 de Outubro;
+
+b) Termo de responsabilidade emitido por um técnico de gás titular da licença a que se refere a alínea a) do n.º 3 do artigo 4.º do diploma referido na alínea anterior;
+
+c) Certificado de inspecção emitido pela entidade competente, devidamente reconhecida pelo Ministério da Indústria e Energia.
+
+4 - Qualquer das entidades referidas no número anterior deverá comunicar à câmara municipal do concelho onde se situa a instalação e ao respectivo órgão local ou regional de turismo todos os casos em que não sejam emitidos termos de responsabilidade nas unidades inspeccionadas, ou não sejam validados ou revalidados os certificados de inspecção no prazo de 15 dias após a verificação de tais factos.
+
+5 - Os termos de responsabilidade e os certificados de inspecção caducarão se houver substituição de aparelhos por outros não certificados.
+
+6 - Em relação às instalações referidas no artigo 2.º em serviço antes da entrada em vigor deste decreto-lei, os termos de responsabilidade ou os certificados de inspecção só serão emitidos se, para além do cumprimento das outras condições de higiene e segurança, os aparelhos:
+
+a) Estiverem certificados e corresponderem efectivamente às condições impostas pelas normas portuguesas em vigor;
+
+b) Embora não certificados por a sua instalação ser anterior ao [Decreto-Lei n.º 74/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1977-141628), satisfizerem as regras de higiene e segurança de utilização constantes do código de boa prática aplicável.
+
+7 - A responsabilidade de que trata o n.º 1 deste artigo é aplicável o disposto no n.º 2 do artigo 509.º e no n.º 1 do artigo 510.º do Código Civil, com as necessárias adaptações.
+
+###### Art. 2.º Consideram-se abrangidos pelo disposto no artigo anterior:
+
+a) Todos os estabelecimentos classificados pelas entidades competentes como hoteleiros, aldeamentos turísticos, apartamentos turísticos e parques de campismo;
+
+b) Todos os meios complementares de alojamento turístico, desde que classificados como tal pelas entidades competentes, devidamente reconhecidas pela Secretaria de Estado do Turismo;
+
+c) Todas as unidades de alojamento ou quaisquer outras instalações que constituam partes integrantes dos estabelecimentos previstos nas alíneas a) e b) deste artigo, ainda que não afectas à exploração turística nem locadas;
+
+d) Todas e quaisquer instalações locadas por períodos que não excedam 2 meses, independentemente de terem sido objecto de qualquer classificação.
+
+###### Art. 3.º - 1 - A responsabilidade de que trata o artigo 1.º deste diploma não pode ser excluída ou limitada contratualmente entre o locador e o locatário antes do acidente.
+
+2 - A responsabilidade de que trata o presente diploma abrange igualmente os danos referidos no n.º 1 do artigo 1.º ocorridos até 30 dias após o termo do período de validade do certificado de inspecção mencionado no n.º 3 do mesmo artigo, salvo quando o requerimento para a sua revalidação tenha dado entrada nos serviços da entidade competente até 30 dias antes de tal termo.
+
+3 - As entidades referidas no n.º 1 do artigo 1.º são obrigadas a manter actualizado um seguro destinado a garantir a responsabilidade civil referida naquele número, cobrindo qualquer espécie de danos causados aos clientes ou a terceiros, incluindo os gastos suplementares de hospitalização e repatriamento.
+
+4 - A apólice de seguro prevista no número anterior será aprovada por portaria do Ministro das Finanças e do Plano.
+
+###### Art. 4.º - 1 - Sem prejuízo da responsabilidade de que trata o artigo 1.º a Direcção-Geral do Turismo bem como a câmara municipal respectiva podem, mediante prévia vistoria, determinar o encerramento imediato de qualquer das instalações referidas no artigo 2.º nos seguintes casos:
+
+a) Sempre que se verifique que as redes internas ou os ramais de distribuição, bem como os aparelhos ou utensílios nelas existentes, não satisfazem os requisitos técnicos de segurança de utilização, nomeadamente quanto aos aparelhos referidos na parte final do n.º 1 do artigo 1.º;
+
+b) Sempre que se verifique nelas qualquer acidente motivado pela utilização de gás.
+
+2 - Determinado o encerramento, a reabertura dos estabelecimentos ou a utilização dos locais só poderá ter lugar depois de realizadas as obras ou a alteração dos aparelhos que forem consideradas necessárias por qualquer das entidades referidas no número anterior.
+
+3 - Para efeitos de execução da ordem de encerramento dada nos termos do n.º 1 deste artigo, as autoridades policiais prestarão aos funcionários dos respectivos serviços a colaboração que se mostrar necessária para assegurar o cumprimento daquela determinação.
+
+4 - No caso do encerramento das instalações previsto no n.º 1, os sujeitos referidos no n.º 1 do artigo 1.º deverão indemnizar os locatários desalojados em montante correspondente aos dias de alojamento vincendos já reservados, no mínimo de 5 diárias, sem prejuízo do dispositivo legal sobre o enriquecimento sem causa, uma vez realojados os locatários.
+
+###### Art. 5.º - 1 - Independentemente das providências previstas no artigo anterior, as entidades distribuidoras de gás e os respectivos agentes ou revendedores são obrigados a suspender os fornecimentos destinados às instalações referidas no artigo 2.º que não apresentem, além do seguro a que se refere o n.º 3 do artigo 3.º, termo de responsabilidade ou certificado de inspecção válidos.
+
+2 - As entidades, bem como os seus agentes ou revendedores, que suspenderem os fornecimentos nos termos do número anterior são obrigadas a comunicar o facto à Direcção-Geral do Turismo, à Direcção-Geral de Energia, à câmara municipal e ao respectivo órgão local ou regional de turismo nos 15 dias seguintes à data da suspensão.
+
+3 - A infracção ao disposto no n.º 1 deste artigo será punida com coima no valor de 100000$00.
+
+4 - A infracção ao disposto no n.º 2 deste artigo será punida com coima no valor de 100000$00.
+
+5 - A instrução dos processos destinados à aplicação das multas a que se referem os n.os 3 e 4 deste artigo é da competência da Direcção-Geral de Energia, cabendo a sua aplicação ao director-geral, de cujas decisões cabe recurso nos termos do [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+
+###### Art. 6.º - 1 - Para efeitos do disposto no n.º 1 do artigo anterior, a Direcção-Geral do Turismo habilitará as entidades distribuidoras de gás e respectivos agentes ou revendedores com lista nominativa dos estabelecimentos compreendidos nas alíneas a), b) e c) do artigo 2.º
+
+2 - Verificando-se dúvidas quanto à inserção de instalações não classificadas na alínea d) do artigo 2.º poderão as entidades referidas no número anterior exigir dos respectivos proprietários documento em que se declare expressamente que a instalação não se encontra abrangida por aquele disposição.
+
+###### Art. 7.º - 1 - A entidade competente para a emissão de certificado de inspecção, se não puder fazê-la no prazo de 15 dias contados da data em que foi requerido, é obrigada a passar ao interessado documento comprovativo da entrada do pedido, com indicação da data previsível da sua emissão.
+
+2 - O documento previsto no número anterior, que terá a validade de 1 mês, substituirá o certificado de inspecção para todos os efeitos, sem prejuízo da responsabilidade do interessado a que se refere o artigo 1.º
+
+###### Art. 8.º O regime do presente decreto-lei aplica-se nas regiões autónomas, com as devidas adaptações.
+
+###### Art. 9.º É revogado o [Decreto-Lei n.º 399/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1983-443560), de 8 de Novembro.
+
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo - Alípio Barrosa Pereira Dias - José Veiga Simão - Joaquim Martins Ferreira do Amaral.
+
+**Promulgado em 8 de Outubro de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 14 de Outubro de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**

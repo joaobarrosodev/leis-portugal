@@ -1,0 +1,529 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:244881:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-108080871",
+ "dre_path": "/dr/detalhe/portaria/982-b-2009-244881",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "836268024",
+    "108078357",
+    "108078358",
+    "108078359",
+    "108078360",
+    "108078361",
+    "108078362",
+    "108078363",
+    "108078364",
+    "108078365",
+    "108078367"
+   ]
+  },
+  {
+   "date": "2012-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176040:por",
+     "title": "Declaração de Retificação n.º 52/2012",
+     "published": "2012-09-24",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/52-2012-176040"
+    },
+    {
+     "id": "pt:dre:139030:por",
+     "title": "Portaria n.º 268-A/2012",
+     "published": "2012-08-31",
+     "dre_path": "/dr/detalhe/portaria/268-a-2012-139030"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º",
+    "Retifica Artigo 5.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "108078356",
+    "108090616",
+    "108090619",
+    "108078359",
+    "108078360",
+    "108090620",
+    "108078362",
+    "108078363",
+    "108078364",
+    "108078365",
+    "108078366",
+    "108090621"
+   ]
+  },
+  {
+   "date": "2017-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108086610:por",
+     "title": "Portaria n.º 261/2017",
+     "published": "2017-09-01",
+     "dre_path": "/dr/detalhe/portaria/261-2017-108086610"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "108078356",
+    "108090616",
+    "108090624",
+    "108078359",
+    "108078360",
+    "108090625",
+    "108090626",
+    "108078363",
+    "108078364",
+    "108078365",
+    "108078366",
+    "108090621"
+   ]
+  },
+  {
+   "date": "2018-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116345870:por",
+     "title": "Portaria n.º 249-A/2018",
+     "published": "2018-09-06",
+     "dre_path": "/dr/detalhe/portaria/249-a-2018-116345870"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "108078356",
+    "108090616",
+    "116345967",
+    "108078359",
+    "108078360",
+    "108090625",
+    "116345968",
+    "108078363",
+    "108078364",
+    "108078365",
+    "108078366",
+    "108090621"
+   ]
+  },
+  {
+   "date": "2019-10-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125074535:por",
+     "title": "Portaria n.º 353/2019",
+     "published": "2019-10-07",
+     "dre_path": "/dr/detalhe/portaria/353-2019-125074535"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "108078356",
+    "108090616",
+    "116345967",
+    "108078359",
+    "125072002",
+    "108090625",
+    "116345968",
+    "108078363",
+    "108078364",
+    "108078365",
+    "108078366",
+    "108090621"
+   ]
+  },
+  {
+   "date": "2024-01-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:836205473:por",
+     "title": "Portaria n.º 7-A/2024",
+     "published": "2024-01-05",
+     "dre_path": "/dr/detalhe/portaria/7-a-2024-836205473"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "836268024",
+    "836268025",
+    "836268026",
+    "836268027",
+    "836268028",
+    "836268029",
+    "836268030",
+    "836268031",
+    "836268032",
+    "836268033",
+    "836268034",
+    "836268035"
+   ]
+  }
+ ],
+ "fragments": {
+  "836268024": {
+   "fragment_id": "108080872",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-01-06",
+   "changed_by": [],
+   "markdown": "Portaria n.º 982-B/2009\n\nde 2 de Setembro\n\nO Decreto-Lei n.º 203/2009, de 31 de Agosto, veio criar um título de transporte designado «passe sub23@superior.tp».\n\nNos termos deste decreto-lei são estabelecidas as condições genéricas de atribuição do «passe sub23@superior.tp», remetendo-se para portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, dos transportes, do ensino superior e da administração local, a definição das condições de atribuição do desconto estabelecido para aquele título de transporte, bem como de operacionalização do sistema que lhe está associado.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de Agosto:\n\nManda o Governo, pelos Ministros de Estado e das Finanças, das Obras Públicas, Transportes e Comunicações e da Ciência, Tecnologia e Ensino Superior e pelo Secretário de Estado Adjunto e da Administração Local, o seguinte:"
+  },
+  "108078357": {
+   "fragment_id": "108080873",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define as condições de atribuição do «passe sub23@superior.tp» e os procedimentos relativos à operacionalização do sistema que lhe está associado, nos termos do Decreto-Lei n.º 203/2009, de 31 de Agosto."
+  },
+  "108078358": {
+   "fragment_id": "108080874",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do «passe sub23@superior.tp»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito do «passe sub23@superior.tp»\n\n1 - O «passe sub23@superior.tp» destina-se aos estudantes do ensino superior até aos 23 anos, inclusive, e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha correspondentes ao percurso casa/estabelecimento de ensino superior.\n\n2 - O «passe sub23@superior.tp» é aplicável aos serviços de transporte público colectivo de passageiros, designadamente carreiras rodoviárias urbanas e interurbanas, serviços ferroviários urbanos e suburbanos, regionais e inter-regionais, transportes em metropolitano, em metropolitano ligeiro de superfície, noutros sistemas guiados e transportes fluviais.\n\n3 - O «passe sub23@superior.tp» é mensal, podendo ser utilizado durante 12 meses, com início no primeiro mês do ano lectivo a que respeita."
+  },
+  "108078359": {
+   "fragment_id": "108090375",
+   "type": 11,
+   "heading": "Artigo 3.º — Comprovação do direito ao «passe sub23@superior.tp»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comprovação do direito ao «passe sub23@superior.tp»\n\nO direito ao «passe sub23@superior.tp» é comprovado mediante declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, a emitir anualmente pelo estabelecimento de ensino superior onde o aluno esteja inscrito, nos termos previstos no n.º 2 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de Agosto."
+  },
+  "108078360": {
+   "fragment_id": "108090376",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de suporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cartão de suporte\n\n1 - O cartão que serve de suporte ao «passe sub23@superior.tp» terá imagem comum para todo o País numa das faces, podendo esta imagem ser impressa no cartão ou em autocolante aposto em cartão de passe já existente.\n\n2 - O cartão é requisitado pelo aluno junto do operador de transporte público de passageiros, o qual só poderá aceitar essa requisição mediante a entrega da declaração prevista no artigo anterior.\n\n3 - O custo do cartão, a suportar pelo requisitante, corresponde a 50 % do preço normal dos cartões de passe correspondentes.\n\n4 - No caso do aluno ser titular de cartão de transporte, válido para o operador onde requisita o cartão «sub23@superior.tp», o cartão é trocado gratuitamente visando a alteração do perfil do utilizador.\n\n5 - Os cartões referidos nos números anteriores são emitidos por períodos máximos de quatro anos, não podendo a sua validade ultrapassar o último dia do mês em que o titular perfaça 24 anos de idade.\n\n6 - Nos anos lectivos subsequentes ao da emissão do cartão, o aluno deve fazer prova do direito ao mesmo, mediante entrega da declaração prevista no artigo 3.º, em posto de venda assistida, ou em local próprio para este efeito, devendo o operador de transporte público de passageiros assegurar o correspondente registo no cartão «sub23@superior.tp».\n\n7 - No acto de requisição do cartão ou de renovação do direito ao mesmo, o aluno deve declarar qual o título de transporte «sub23@superior.tp» que pretende que lhe seja atribuído.\n\n8 - Nos actos de emissão ou de renovação do cartão, ou da primeira venda do título de transporte para o ano lectivo a que respeita, conforme os sistemas de bilhética utilizados pelo operador de transporte, este deve assegurar a inserção no cartão «sub23@superior.tp» de informação sobre o título de transporte atribuído, mediante registo electrónico, vinheta autocolante ou inscrição impressa no cartão.\n\n9 - Os documentos de suporte à emissão ou renovação do cartão devem ser guardados pelo operador de transporte durante um período de cinco anos, para efeitos de monitorização pelo Instituto de Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), devendo ser inscrito nesses documentos o número do cartão que lhes corresponde.\n\n10 - Os documentos de suporte referidos no número anterior são obrigatoriamente destruídos findo o prazo de cinco anos após a sua recolha.\n\n11 - É reconhecido ao titular dos dados constantes dos documentos de suporte referidos no n.º 9 o direito de acesso aos mesmos, nos termos da legislação aplicável à protecção de dados pessoais, bem como o direito de exigir a rectificação de quaisquer informações inexactas ou a inclusão de informações total ou parcialmente omissas."
+  },
+  "108078361": {
+   "fragment_id": "108090377",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A primeira aquisição do título de transporte «passe sub23@superior.tp», em cada ano lectivo, processa-se em posto de venda assistida mediante apresentação do cartão «sub23@superior.tp».\n\n2 - A venda de títulos de transporte «passe sub23@superior.tp» subsequente à prevista no número anterior, pode ser efectuada mediante apresentação do cartão:\n\na) Em qualquer posto de venda dos operadores em que os respectivos passes se encontrem disponíveis, no caso de se manter o tipo de passe;\n\nb) Exclusivamente nos postos de venda assistida, se o utilizador pretender alterar o tipo de passe, casos em que o operador de transporte deve proceder à respectiva reinscrição no cartão.\n\n3 - O título de transporte «passe sub23@superior.tp» terá o desconto de 50 % em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos."
+  },
+  "108078362": {
+   "fragment_id": "108090378",
+   "type": 11,
+   "heading": "Artigo 6.º — Monitorização, fiscalização e compensação financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Monitorização, fiscalização e compensação financeira\n\n1 - Os operadores de transportes serão compensados em função dos descontos concedidos, tendo em conta o preço pago pelo cliente e o que seria pago pelo passe correspondente de tarifa inteira, ou de estudante com desconto, em termos a acordar entre o Governo e as empresas de transporte, as quais podem ser representadas pelas respectivas associações.\n\n2 - Para efeitos do disposto no número anterior, os operadores devem efectuar e manter um registo informático que associe a cada um dos cartões emitidos os títulos de transporte «passe sub23@superior.tp» adquiridos mensalmente com esse cartão.\n\n3 - Para efeitos de monitorização e fiscalização do sistema os operadores de transporte devem facultar ao IMTT, I. P., todas as informações e registos relativos à atribuição do «passe sub23@superior.tp», bem como o acesso aos originais dos documentos previstos no artigo 3.º, devendo apor em cada um desses documentos o número do cartão atribuído.\n\n4 - Os pagamentos são efectuados mensalmente pela Direcção-Geral do Tesouro e Finanças (DGTF) a cada um dos operadores de transporte nos termos constantes do Acordo a que se refere o n.º 4 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de Agosto.\n\n5 - O cálculo das compensações financeiras, bem como a certificação da informação exigida para efeito de pagamento, ficam cometidos ao IMTT, I. P., sem prejuízo das competências da Inspecção-Geral de Finanças (IGF)."
+  },
+  "108078363": {
+   "fragment_id": "108090379",
+   "type": 11,
+   "heading": "Artigo 7.º — Aplicação aos transportes de competência municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aplicação aos transportes de competência municipal\n\nA presente portaria aplica-se com as necessárias adaptações aos serviços de transporte da iniciativa dos municípios que, nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 203/2009, de 31 de Agosto, comuniquem ao IMTT, I. P., a adesão ao sistema «passe sub23@superior.tp»."
+  },
+  "108078364": {
+   "fragment_id": "108090380",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "108078365": {
+   "fragment_id": "108090381",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nA presente portaria produz os seus efeitos a partir de 1 de Setembro de 2009."
+  },
+  "108078367": {
+   "fragment_id": "108090383",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\nPasse sub23@superior.tp\n\nDeclaração de inscrição\n\nPara efeitos de acesso ao passe sub23@superior.tp declara-se que o aluno\n\n(ver documento original)\n\nEstá inscrito neste estabelecimento de ensino superior, no ano lectivo de 20.../...\n\n(ver documento original)"
+  },
+  "108078356": {
+   "fragment_id": "108080872",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 982-B/2009\n\nde 2 de Setembro\n\nO Decreto-Lei n.º 203/2009, de 31 de Agosto, veio criar um título de transporte designado «passe sub23@superior.tp».\n\nNos termos deste decreto-lei são estabelecidas as condições genéricas de atribuição do «passe sub23@superior.tp», remetendo-se para portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, dos transportes, do ensino superior e da administração local, a definição das condições de atribuição do desconto estabelecido para aquele título de transporte, bem como de operacionalização do sistema que lhe está associado.\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de Agosto:\n\nManda o Governo, pelos Ministros de Estado e das Finanças, das Obras Públicas, Transportes e Comunicações e da Ciência, Tecnologia e Ensino Superior e pelo Secretário de Estado Adjunto e da Administração Local, o seguinte:"
+  },
+  "108090616": {
+   "fragment_id": "108080873",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define as condições de atribuição do «passe sub23@superior.tp» e os procedimentos relativos à operacionalização do sistema que lhe está associado, nos termos dos Decretos-Leis n.os 203/2009, de 31 de agosto, e 29-A/2011, de 1 de março.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "108090619": {
+   "fragment_id": "108080874",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do «passe sub23@superior.tp»",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito do «passe sub23@superior.tp»\n\n1 - O passe «sub23@superior.tp» destina-se a estudantes do ensino superior até aos 23 anos, inclusive, que beneficiem da Ação Social no Ensino Superior ou estejam inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro, e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\n2 - O «passe sub23@superior.tp» é aplicável aos serviços de transporte público colectivo de passageiros, designadamente carreiras rodoviárias urbanas e interurbanas, serviços ferroviários urbanos e suburbanos, regionais e inter-regionais, transportes em metropolitano, em metropolitano ligeiro de superfície, noutros sistemas guiados e transportes fluviais.\n\n3 - O «passe sub23@superior.tp» é mensal, podendo ser utilizado durante 12 meses, com início no primeiro mês do ano lectivo a que respeita.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "108090620": {
+   "fragment_id": "108090377",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A primeira aquisição do título de transporte «passe sub23@superior.tp», em cada ano lectivo, processa-se em posto de venda assistida mediante apresentação do cartão «sub23@superior.tp».\n\n2 - A venda de títulos de transporte «passe sub23@superior.tp» subsequente à prevista no número anterior, pode ser efectuada mediante apresentação do cartão:\n\na) Em qualquer posto de venda dos operadores em que os respectivos passes se encontrem disponíveis, no caso de se manter o tipo de passe;\n\nb) Exclusivamente nos postos de venda assistida, se o utilizador pretender alterar o tipo de passe, casos em que o operador de transporte deve proceder à respectiva reinscrição no cartão.\n\n3 - O título de transporte passe «sub23@superior.tp» terá os seguintes descontos:\n\na) 60 % para os estudantes beneficiários da Ação Social no Ensino Superior;\n\nb) 25 % para estudantes inseridos em famílias que cumpram o critério estabelecido na alínea c) do n.º 2 do artigo 3.º-A da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n4 - Os descontos referidos no número anterior são calculados em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n5 - Para beneficiarem dos descontos previstos na alínea a) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino, que ateste que estão abrangidos pelo regime de Ação Social no Ensino Superior.\n\n6 - Para beneficiarem dos descontos previstos na alínea b) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino e cumprir com os critérios estabelecidos nos artigos 3.º-B, 3.º-C, 4.º, 6.º-A e 6.º-B da Portaria n.º 272/2011, de 23 de setembro, alterada pela Portaria n.º 36/2012, de 8 de fevereiro.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "108078366": {
+   "fragment_id": "108090382",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 31 de Agosto de 2009.\n\nO Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - Pelo Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor, Secretário de Estado da Ciência, Tecnologia e Ensino Superior. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita."
+  },
+  "108090621": {
+   "fragment_id": "108090383",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01"
+  },
+  "108090624": {
+   "fragment_id": "108080874",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do «passe sub23@superior.tp»",
+   "in_force_from": "2017-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02",
+    "Retificado pelo/a [Declaração de Retificação n.º 52/2012 - Diário da República n.º 185/2012, Série I de 2012-09-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2012-176040), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito do «passe sub23@superior.tp»\n\n1 - O «passe sub23@superior.tp» destina-se aos estudantes, matriculados e inscritos no ensino superior, até aos 23 anos, inclusive, e confere o direito ao transporte nas mesmas condições dos restantes títulos de transporte mensais em vigor.\n\n2 - O «passe sub23@superior.tp» é aplicável aos serviços de transporte público colectivo de passageiros, designadamente carreiras rodoviárias urbanas e interurbanas, serviços ferroviários urbanos e suburbanos, regionais e inter-regionais, transportes em metropolitano, em metropolitano ligeiro de superfície, noutros sistemas guiados e transportes fluviais.\n\n3 - O «passe sub23@superior.tp» é mensal, podendo ser utilizado durante 12 meses, com início no primeiro mês do ano lectivo a que respeita.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02\n\n> Retificado pelo/a [Declaração de Retificação n.º 52/2012 - Diário da República n.º 185/2012, Série I de 2012-09-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2012-176040), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "108090625": {
+   "fragment_id": "108090377",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": "2017-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02",
+    "Retificado pelo/a [Declaração de Retificação n.º 52/2012 - Diário da República n.º 185/2012, Série I de 2012-09-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2012-176040), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A primeira aquisição do título de transporte «passe sub23@superior.tp», em cada ano lectivo, processa-se em posto de venda assistida mediante apresentação do cartão «sub23@superior.tp».\n\n2 - A venda de títulos de transporte «passe sub23@superior.tp» subsequente à prevista no número anterior, pode ser efectuada mediante apresentação do cartão:\n\na) Em qualquer posto de venda dos operadores em que os respectivos passes se encontrem disponíveis, no caso de se manter o tipo de passe;\n\nb) Exclusivamente nos postos de venda assistida, se o utilizador pretender alterar o tipo de passe, casos em que o operador de transporte deve proceder à respectiva reinscrição no cartão.\n\n3 - O «passe sub23@superior.tp» tem os seguintes descontos:\n\na) 60 % para os estudantes beneficiários da Ação Social Direta no Ensino Superior;\n\nb) 25 % para os restantes estudantes do ensino superior não abrangidos pelo disposto na alínea anterior.\n\n4 - Os descontos referidos no número anterior são calculados em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n5 - Para beneficiarem dos descontos previstos na alínea a) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino, que ateste que estão abrangidos pelo regime de Ação Social Direta no Ensino Superior.\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02\n\n> Retificado pelo/a [Declaração de Retificação n.º 52/2012 - Diário da República n.º 185/2012, Série I de 2012-09-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2012-176040), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "108090626": {
+   "fragment_id": "108090378",
+   "type": 11,
+   "heading": "Artigo 6.º — Monitorização, fiscalização e compensação financeira",
+   "in_force_from": "2017-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02"
+   ],
+   "markdown": "###### Artigo 6.º — Monitorização, fiscalização e compensação financeira\n\n1 - Os operadores de transportes serão compensados em função dos descontos concedidos, tendo em conta o preço pago pelo cliente e o que seria pago pelo passe correspondente de tarifa inteira, ou de estudante com desconto, em termos a acordar entre o Governo e as empresas de transporte, as quais podem ser representadas pelas respectivas associações.\n\n2 - Para efeitos do disposto no número anterior, os operadores devem efectuar e manter um registo informático que associe a cada um dos cartões emitidos os títulos de transporte «passe sub23@superior.tp» adquiridos mensalmente com esse cartão.\n\n3 - Para efeitos de monitorização e fiscalização do sistema os operadores de transporte devem facultar ao IMTT, I. P., todas as informações e registos relativos à atribuição do «passe sub23@superior.tp», bem como o acesso aos originais dos documentos previstos no artigo 3.º, devendo apor em cada um desses documentos o número do cartão atribuído.\n\n4 - Os pagamentos são efectuados mensalmente pela Direcção-Geral do Tesouro e Finanças (DGTF) a cada um dos operadores de transporte nos termos constantes do Acordo a que se refere o n.º 4 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de Agosto.\n\n5 - O cálculo das compensações financeiras, bem como a certificação da informação exigida para efeito de pagamento, ficam cometidos ao IMTT, I. P., sem prejuízo das competências da Inspecção-Geral de Finanças (IGF).\n\n6 - O direito à compensação financeira prevista no n.º 1 está condicionado à manutenção da oferta de passes de estudante (com esta ou outra designação) existentes à data de 1 de janeiro de 2017.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02"
+  },
+  "116345967": {
+   "fragment_id": "108080874",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do «passe sub23@superior.tp»",
+   "in_force_from": "2018-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02",
+    "Retificado pelo/a [Declaração de Retificação n.º 52/2012 - Diário da República n.º 185/2012, Série I de 2012-09-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2012-176040), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito do «passe sub23@superior.tp»\n\n1 - O «passe sub23@superior.tp» destina-se aos estudantes do ensino superior até aos 23 anos, inclusive, e aos estudantes de ensino superior inscritos nos cursos de Medicina e Arquitetura, até aos 24 anos de idade, e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha correspondentes ao percurso casa/estabelecimento de ensino superior.\n\n2 - O «passe sub23@superior.tp» é aplicável aos serviços de transporte público colectivo de passageiros, designadamente carreiras rodoviárias urbanas e interurbanas, serviços ferroviários urbanos e suburbanos, regionais e inter-regionais, transportes em metropolitano, em metropolitano ligeiro de superfície, noutros sistemas guiados e transportes fluviais.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02\n\n> Retificado pelo/a [Declaração de Retificação n.º 52/2012 - Diário da República n.º 185/2012, Série I de 2012-09-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2012-176040), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "116345968": {
+   "fragment_id": "108090378",
+   "type": 11,
+   "heading": "Artigo 6.º — Monitorização, fiscalização e compensação financeira",
+   "in_force_from": "2018-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02"
+   ],
+   "markdown": "###### Artigo 6.º — Monitorização, fiscalização e compensação financeira\n\n1 - Os operadores de transportes serão compensados em função dos descontos concedidos, tendo em conta o preço pago pelo cliente e o que seria pago pelo passe correspondente de tarifa inteira, ou de estudante com desconto, em termos a acordar entre o Governo e as empresas de transporte, as quais podem ser representadas pelas respectivas associações.\n\n2 - Para efeitos do disposto no número anterior, os operadores devem efectuar e manter um registo informático que associe a cada um dos cartões emitidos os títulos de transporte «passe sub23@superior.tp» adquiridos mensalmente com esse cartão.\n\n3 - Para efeitos de monitorização e fiscalização do sistema os operadores de transporte devem facultar ao IMTT, I. P., todas as informações e registos relativos à atribuição do «passe sub23@superior.tp», bem como o acesso aos originais dos documentos previstos no artigo 3.º, devendo apor em cada um desses documentos o número do cartão atribuído.\n\n4 - Os pagamentos são efectuados mensalmente pela Direcção-Geral do Tesouro e Finanças (DGTF) a cada um dos operadores de transporte nos termos constantes do Acordo a que se refere o n.º 4 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de Agosto.\n\n5 - O cálculo das compensações financeiras, bem como a certificação da informação exigida para efeito de pagamento, ficam cometidos ao IMTT, I. P., sem prejuízo das competências da Inspecção-Geral de Finanças (IGF).\n\n6 - O direito à compensação financeira prevista no n.º 1 está condicionado à manutenção da oferta de passes de estudante (com esta ou outra designação) existentes à data de 1 de janeiro de 2017.\n\n7 - Nos casos em que é aplicado o «passe sub23@superior.tp» aos serviços de transporte coletivo de passageiros autorizados ou concessionados pelos organismos da administração regional, as responsabilidades de monitorização, fiscalização e compensação financeira descritas nos números anteriores são asseguradas pelas entidades regionais no âmbito das respetivas competências.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02"
+  },
+  "125072002": {
+   "fragment_id": "108090376",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de suporte",
+   "in_force_from": "2019-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 353/2019 - Diário da República n.º 192/2019, Série I de 2019-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/353-2019-125074535), em vigor a partir de 2019-10-08"
+   ],
+   "markdown": "###### Artigo 4.º — Cartão de suporte\n\n1 - (Revogado).\n\n2 - O cartão é requisitado pelo aluno junto do operador de transporte público de passageiros, o qual só poderá aceitar essa requisição mediante a entrega da declaração prevista no artigo anterior.\n\n3 - O custo do cartão, a suportar pelo requisitante, corresponde a 50 % do preço normal dos cartões de passe correspondentes.\n\n4 - No caso do aluno ser titular de cartão de transporte, válido para o operador onde requisita o cartão «sub23@superior.tp», o cartão é trocado gratuitamente visando a alteração do perfil do utilizador.\n\n5 - Os cartões referidos nos números anteriores são emitidos por períodos máximos de quatro anos, não podendo a sua validade ultrapassar o último dia do mês em que o titular perfaça 24 anos de idade.\n\n6 - Nos anos lectivos subsequentes ao da emissão do cartão, o aluno deve fazer prova do direito ao mesmo, mediante entrega da declaração prevista no artigo 3.º, em posto de venda assistida, ou em local próprio para este efeito, devendo o operador de transporte público de passageiros assegurar o correspondente registo no cartão «sub23@superior.tp».\n\n7 - No acto de requisição do cartão ou de renovação do direito ao mesmo, o aluno deve declarar qual o título de transporte «sub23@superior.tp» que pretende que lhe seja atribuído.\n\n8 - Nos actos de emissão ou de renovação do cartão, ou da primeira venda do título de transporte para o ano lectivo a que respeita, conforme os sistemas de bilhética utilizados pelo operador de transporte, este deve assegurar a inserção no cartão «sub23@superior.tp» de informação sobre o título de transporte atribuído, mediante registo electrónico, vinheta autocolante ou inscrição impressa no cartão.\n\n9 - Os documentos de suporte à emissão ou renovação do cartão devem ser guardados pelo operador de transporte durante um período de cinco anos, para efeitos de monitorização pelo Instituto de Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), devendo ser inscrito nesses documentos o número do cartão que lhes corresponde.\n\n10 - Os documentos de suporte referidos no número anterior são obrigatoriamente destruídos findo o prazo de cinco anos após a sua recolha.\n\n11 - É reconhecido ao titular dos dados constantes dos documentos de suporte referidos no n.º 9 o direito de acesso aos mesmos, nos termos da legislação aplicável à protecção de dados pessoais, bem como o direito de exigir a rectificação de quaisquer informações inexactas ou a inclusão de informações total ou parcialmente omissas.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 353/2019 - Diário da República n.º 192/2019, Série I de 2019-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/353-2019-125074535), em vigor a partir de 2019-10-08"
+  },
+  "836268025": {
+   "fragment_id": "108080873",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria define as condições de atribuição do «passe sub23@superior.tp» e os procedimentos relativos à operacionalização do sistema que lhe está associado, nos termos dos Decretos-Leis n.os 203/2009, de 31 de agosto, e 29-A/2011, de 1 de março.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "836268026": {
+   "fragment_id": "108080874",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito do «passe sub23@superior.tp»",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02",
+    "Retificado pelo/a [Declaração de Retificação n.º 52/2012 - Diário da República n.º 185/2012, Série I de 2012-09-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2012-176040), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito do «passe sub23@superior.tp»\n\n1 - O «passe sub23@superior.tp» destina-se aos estudantes do ensino superior até aos 23 anos, inclusive, e aos estudantes de ensino superior inscritos nos cursos de Medicina e Arquitetura, até aos 24 anos de idade, e confere o direito ao transporte nas mesmas condições dos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha correspondentes ao percurso casa/estabelecimento de ensino superior.\n\n2 - O «passe sub23@superior.tp» é aplicável aos serviços de transporte público colectivo de passageiros, designadamente carreiras rodoviárias urbanas e interurbanas, serviços ferroviários urbanos e suburbanos, regionais e inter-regionais, transportes em metropolitano, em metropolitano ligeiro de superfície, noutros sistemas guiados e transportes fluviais.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02\n\n> Retificado pelo/a [Declaração de Retificação n.º 52/2012 - Diário da República n.º 185/2012, Série I de 2012-09-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2012-176040), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "836268027": {
+   "fragment_id": "108090375",
+   "type": 11,
+   "heading": "Artigo 3.º — Comprovação do direito ao «passe sub23@superior.tp»",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Comprovação do direito ao «passe sub23@superior.tp»\n\nO direito ao «passe sub23@superior.tp» é comprovado mediante declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, a emitir anualmente pelo estabelecimento de ensino superior onde o aluno esteja inscrito, nos termos previstos no n.º 2 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de Agosto.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "836268028": {
+   "fragment_id": "108090376",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de suporte",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 353/2019 - Diário da República n.º 192/2019, Série I de 2019-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/353-2019-125074535), em vigor a partir de 2019-10-08"
+   ],
+   "markdown": "###### Artigo 4.º — Cartão de suporte\n\n1 - (Revogado).\n\n2 - O cartão é requisitado pelo aluno junto do operador de transporte público de passageiros, o qual só poderá aceitar essa requisição mediante a entrega da declaração prevista no artigo anterior.\n\n3 - O custo do cartão, a suportar pelo requisitante, corresponde a 50 % do preço normal dos cartões de passe correspondentes.\n\n4 - No caso do aluno ser titular de cartão de transporte, válido para o operador onde requisita o cartão «sub23@superior.tp», o cartão é trocado gratuitamente visando a alteração do perfil do utilizador.\n\n5 - Os cartões referidos nos números anteriores são emitidos por períodos máximos de quatro anos, não podendo a sua validade ultrapassar o último dia do mês em que o titular perfaça 24 anos de idade.\n\n6 - Nos anos lectivos subsequentes ao da emissão do cartão, o aluno deve fazer prova do direito ao mesmo, mediante entrega da declaração prevista no artigo 3.º, em posto de venda assistida, ou em local próprio para este efeito, devendo o operador de transporte público de passageiros assegurar o correspondente registo no cartão «sub23@superior.tp».\n\n7 - No acto de requisição do cartão ou de renovação do direito ao mesmo, o aluno deve declarar qual o título de transporte «sub23@superior.tp» que pretende que lhe seja atribuído.\n\n8 - Nos actos de emissão ou de renovação do cartão, ou da primeira venda do título de transporte para o ano lectivo a que respeita, conforme os sistemas de bilhética utilizados pelo operador de transporte, este deve assegurar a inserção no cartão «sub23@superior.tp» de informação sobre o título de transporte atribuído, mediante registo electrónico, vinheta autocolante ou inscrição impressa no cartão.\n\n9 - Os documentos de suporte à emissão ou renovação do cartão devem ser guardados pelo operador de transporte durante um período de cinco anos, para efeitos de monitorização pelo Instituto de Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), devendo ser inscrito nesses documentos o número do cartão que lhes corresponde.\n\n10 - Os documentos de suporte referidos no número anterior são obrigatoriamente destruídos findo o prazo de cinco anos após a sua recolha.\n\n11 - É reconhecido ao titular dos dados constantes dos documentos de suporte referidos no n.º 9 o direito de acesso aos mesmos, nos termos da legislação aplicável à protecção de dados pessoais, bem como o direito de exigir a rectificação de quaisquer informações inexactas ou a inclusão de informações total ou parcialmente omissas.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 353/2019 - Diário da República n.º 192/2019, Série I de 2019-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/353-2019-125074535), em vigor a partir de 2019-10-08"
+  },
+  "836268029": {
+   "fragment_id": "108090377",
+   "type": 11,
+   "heading": "Artigo 5.º — Título de transporte",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02",
+    "Retificado pelo/a [Declaração de Retificação n.º 52/2012 - Diário da República n.º 185/2012, Série I de 2012-09-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2012-176040), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 5.º — Título de transporte\n\n1 - A primeira aquisição do título de transporte «passe sub23@superior.tp», em cada ano lectivo, processa-se em posto de venda assistida mediante apresentação do cartão «sub23@superior.tp».\n\n2 - A venda de títulos de transporte «passe sub23@superior.tp» subsequente à prevista no número anterior, pode ser efectuada mediante apresentação do cartão:\n\na) Em qualquer posto de venda dos operadores em que os respectivos passes se encontrem disponíveis, no caso de se manter o tipo de passe;\n\nb) Exclusivamente nos postos de venda assistida, se o utilizador pretender alterar o tipo de passe, casos em que o operador de transporte deve proceder à respectiva reinscrição no cartão.\n\n3 - O «passe sub23@superior.tp» tem os seguintes descontos:\n\na) 60 % para os estudantes beneficiários da Ação Social Direta no Ensino Superior;\n\nb) 25 % para os restantes estudantes do ensino superior não abrangidos pelo disposto na alínea anterior.\n\n4 - Os descontos referidos no número anterior são calculados em relação ao valor da tarifa inteira dos passes mensais em vigor, designadamente intermodal, combinado e de rede ou de linha, sendo o preço final arredondado aos 5 cêntimos mais próximos.\n\n5 - Para beneficiarem dos descontos previstos na alínea a) do n.º 3, os estudantes devem apresentar declaração, segundo o modelo constante do anexo à presente portaria da qual faz parte integrante, emitida pelo estabelecimento de ensino, que ateste que estão abrangidos pelo regime de Ação Social Direta no Ensino Superior.\n\n6 - (Revogado.)\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02\n\n> Retificado pelo/a [Declaração de Retificação n.º 52/2012 - Diário da República n.º 185/2012, Série I de 2012-09-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/52-2012-176040), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 34-A/2012 - Diário da República n.º 23/2012, 1º Suplemento, Série I de 2012-02-01](https://diariodarepublica.pt/dr/detalhe/portaria/34-a-2012-692615), produz efeitos a partir de 2012-02-01"
+  },
+  "836268030": {
+   "fragment_id": "108090378",
+   "type": 11,
+   "heading": "Artigo 6.º — Monitorização, fiscalização e compensação financeira",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02"
+   ],
+   "markdown": "###### Artigo 6.º — Monitorização, fiscalização e compensação financeira\n\n1 - Os operadores de transportes serão compensados em função dos descontos concedidos, tendo em conta o preço pago pelo cliente e o que seria pago pelo passe correspondente de tarifa inteira, ou de estudante com desconto, em termos a acordar entre o Governo e as empresas de transporte, as quais podem ser representadas pelas respectivas associações.\n\n2 - Para efeitos do disposto no número anterior, os operadores devem efectuar e manter um registo informático que associe a cada um dos cartões emitidos os títulos de transporte «passe sub23@superior.tp» adquiridos mensalmente com esse cartão.\n\n3 - Para efeitos de monitorização e fiscalização do sistema os operadores de transporte devem facultar ao IMTT, I. P., todas as informações e registos relativos à atribuição do «passe sub23@superior.tp», bem como o acesso aos originais dos documentos previstos no artigo 3.º, devendo apor em cada um desses documentos o número do cartão atribuído.\n\n4 - Os pagamentos são efectuados mensalmente pela Direcção-Geral do Tesouro e Finanças (DGTF) a cada um dos operadores de transporte nos termos constantes do Acordo a que se refere o n.º 4 do artigo 3.º do Decreto-Lei n.º 203/2009, de 31 de Agosto.\n\n5 - O cálculo das compensações financeiras, bem como a certificação da informação exigida para efeito de pagamento, ficam cometidos ao IMTT, I. P., sem prejuízo das competências da Inspecção-Geral de Finanças (IGF).\n\n6 - O direito à compensação financeira prevista no n.º 1 está condicionado à manutenção da oferta de passes de estudante (com esta ou outra designação) existentes à data de 1 de janeiro de 2017.\n\n7 - Nos casos em que é aplicado o «passe sub23@superior.tp» aos serviços de transporte coletivo de passageiros autorizados ou concessionados pelos organismos da administração regional, as responsabilidades de monitorização, fiscalização e compensação financeira descritas nos números anteriores são asseguradas pelas entidades regionais no âmbito das respetivas competências.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 249-A/2018 - Diário da República n.º 172/2018, 1º Suplemento, Série I de 2018-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/249-a-2018-116345870), em vigor a partir de 2018-09-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 261/2017 - Diário da República n.º 169/2017, Série I de 2017-09-01](https://diariodarepublica.pt/dr/detalhe/portaria/261-2017-108086610), em vigor a partir de 2017-09-02"
+  },
+  "836268031": {
+   "fragment_id": "108090379",
+   "type": 11,
+   "heading": "Artigo 7.º — Aplicação aos transportes de competência municipal",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Aplicação aos transportes de competência municipal\n\nA presente portaria aplica-se com as necessárias adaptações aos serviços de transporte da iniciativa dos municípios que, nos termos do n.º 2 do artigo 2.º do Decreto-Lei n.º 203/2009, de 31 de Agosto, comuniquem ao IMTT, I. P., a adesão ao sistema «passe sub23@superior.tp».\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "836268032": {
+   "fragment_id": "108090380",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "836268033": {
+   "fragment_id": "108090381",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nA presente portaria produz os seus efeitos a partir de 1 de Setembro de 2009.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "836268034": {
+   "fragment_id": "108090382",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "Em 31 de Agosto de 2009.\n\nO Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro das Obras Públicas, Transportes e Comunicações, Mário Lino Soares Correia. - Pelo Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor, Secretário de Estado da Ciência, Tecnologia e Ensino Superior. - O Secretário de Estado Adjunto e da Administração Local, Eduardo Arménio do Nascimento Cabrita.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01"
+  },
+  "836268035": {
+   "fragment_id": "108090383",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 7-A/2024 - Diário da República n.º 4/2024, 1º Suplemento, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/7-a-2024-836205473), em vigor a partir de 2024-01-06, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 268-A/2012 - Diário da República n.º 169/2012, 2º Suplemento, Série I de 2012-08-31](https://diariodarepublica.pt/dr/detalhe/portaria/268-a-2012-139030), em vigor a partir de 2012-09-01"
+  }
+ }
+}

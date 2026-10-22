@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:625789:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regional/2005-863399957",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regional/1-2005-625789",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-01-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "863396302",
+    "863396294",
+    "863396295",
+    "863396296",
+    "863396297",
+    "863396298"
+   ]
+  }
+ ],
+ "fragments": {
+  "863396302": {
+   "fragment_id": "863399958",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Legislativa Regional n.º 1/2005/A\n\nCria a Comissão Eventual para a Revisão do Estatuto Político-Administrativo da Região Autónoma dos Açores\n\nA VI Revisão Constitucional debruçou-se com particular atenção sobre a matéria referente às Regiões Autónomas, tendo a sua aprovação como resultado claro, para além de redefinição do equilíbrio do nosso «sistema de Governo», a ampliação da competência legislativa desta Assembleia.\n\nElemento essencial na aferiação da competência legislativa regional passou a ser, com a nova redacção da lei fundamental, as matérias constantes do respectivo Estatuto Político-Administrativo.\n\nAssim sendo, é de toda a conveniência proceder a uma revisão daquele diploma, cuja iniciativa legislativa é da competência reservada desta Câmara.\n\nPara além disso, importa reapreciar e clarificar, designadamente, as matérias atinentes ao estatuto dos titulares de cargos políticos dos órgãos de governo próprio e os princípios de direito dominial no que concerne à Região.\n\nEsforço a prosseguir ao nível procedimental será ainda o do fomento da participação da sociedade civil ao nível do impulso legislativo desta revisão estatutária.\n\nA Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos constitucionais, estatutários e regimentais aplicáveis, aprovar o seguinte:"
+  },
+  "863396294": {
+   "fragment_id": "863399959",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ constituída a Comissão Eventual para a Revisão do Estatuto Político-Administrativo da Região Autónoma dos Açores."
+  },
+  "863396295": {
+   "fragment_id": "863399960",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Comissão tem por objecto:\n\na) A análise das implicações da última revisão constitucional em matéria atinente às Regiões Autónomas, tendo em vista a identificação das suas implicações em sede estatutária, com vista à sua eventual revisão, necessária ou útil;\n\nb) A determinação das soluções possíveis, atento o disposto na alínea anterior;\n\nc) A eventual apresentação de uma proposta a esta Assembleia sobre a oportunidade de abertura do processo de alteração do Estatuto, acompanhada de uma proposta que identifique as principais matérias e normas que devem ser objecto de alteração."
+  },
+  "863396296": {
+   "fragment_id": "863399961",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNa prossecução dos seus objectivos a Comissão deverá, entre outros:\n\na) Fomentar o debate público e a auscultação das entidades públicas e privadas que possam contribuir para a realização dos seus objectivos;\n\nb) Deliberar sobre o pedido de contributos técnicos a entidades públicas ou privadas de reconhecida idoneidade;\n\nc) Aceitar e discutir os contributos técnicos provenientes de entidades públicas ou privadas que possam colaborar na realização dos seus objectivos."
+  },
+  "863396297": {
+   "fragment_id": "863399962",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Comissão é composta por 11 deputados, sendo 6 do PS, 4 do PSD e 1 do PP."
+  },
+  "863396298": {
+   "fragment_id": "863399963",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNo prazo de um ano a contar da data da sua constituição, a Comissão apresentará ao plenário o respectivo relatório."
+  }
+ }
+}

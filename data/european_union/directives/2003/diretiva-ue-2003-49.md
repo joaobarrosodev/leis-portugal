@@ -1,0 +1,482 @@
+---
+schema_version: '1.0'
+id: eu:celex:32003L0049:por
+title: Directiva 2003/49/CE do Conselho, de 3 de Junho de 2003
+short_title: null
+summary: Directiva 2003/49/CE do Conselho, de 3 de Junho de 2003, relativa a um regime fiscal comum aplicável aos pagamentos
+  de juros e royalties efectuados entre sociedades associadas de Estados-Membros diferentes
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 2003/49
+official_date: null
+publication_date: '2003-06-26'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 157 de 26.6.2003
+  number: '157'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/08e483c8-4af3-431c-8963-9e6ebe5dab89.0010.02/DOC_1
+entry_into_force_dates:
+- '2003-06-26'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2013-07-01'
+identifiers:
+  celex: 32003L0049
+  eli: http://data.europa.eu/eli/dir/2003/49/oj
+  oj: oj:JOL_2003_157_R_0049_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32003L0049:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32003L0049
+  metadata_url: http://publications.europa.eu/resource/cellar/08e483c8-4af3-431c-8963-9e6ebe5dab89.0010
+  content_url: http://publications.europa.eu/resource/cellar/108ba38b-c91c-4625-87f8-2a7fb03fbb38.0018.03/DOC_2
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02003L0049-20130701
+  retrieved_at: '2026-10-22T02:42:33Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2016-10-26T09:40:45.075+02:00'
+integrity:
+  source_sha256: bf7b990ad71d7edb832420d8b82149de5d2f30474c6618b9c8dc4414ca8090bc
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:42:33Z'
+  notes: Texto consolidado 02003L0049-20130701.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Estado-Membro UE
+- dupla tributação
+- empresa transnacional
+- grupo de empresas
+- imposto sobre as sociedades
+- juro
+- retenção na fonte
+- sociedade comercial
+relationships:
+- type: amended_by
+  target: celex:32004L0066
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5ddb1e76-d8cb-4cd8-bab7-ee35afd2c75d
+  date: '2004-06-21'
+- type: amended_by
+  target: celex:32004L0076
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e744966a-ca81-44b5-beab-f361c5cf4271
+  date: '2004-07-08'
+- type: amended_by
+  target: celex:32006L0098
+  label: null
+  source: http://publications.europa.eu/resource/cellar/92a7c9dd-e93e-4570-bbee-916fa494f8dd
+  date: '2006-12-27'
+- type: amended_by
+  target: celex:32013L0013
+  label: null
+  source: http://publications.europa.eu/resource/cellar/35721da6-c76d-11e2-ac91-01aa75ed71a1
+  date: '2013-05-13'
+- type: based_on
+  target: celex:12002E094
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ee8adac0-d123-4364-afb9-61329aeb94f4
+  date: '2003-02-11'
+- type: cited_by
+  target: pt:dre:483660:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:499180:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:571007:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:605329:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:669556:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:673004:por
+  label: null
+  source: null
+- type: cites
+  target: celex:12002E005
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ca9bcdb1-ac51-4c58-9348-cd28f98cc9d5
+- type: cites
+  target: celex:32003L0048
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3429c157-8cf1-48e6-bb84-6d624dc7afa5
+- type: corrected_by
+  target: celex:32003L0049R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d2bf4f49-f3a0-11e8-9982-01aa75ed71a1
+  date: '2018-11-29'
+- type: corrected_by
+  target: celex:32003L0049R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/de7b5ff1-9065-11f1-9262-01aa75ed71a1
+  date: '2026-08-05'
+- type: interpreted_by
+  target: celex:62009CJ0397
+  label: null
+  source: http://publications.europa.eu/resource/cellar/38c8aab2-b67f-4a18-a569-e33af886abb7
+  date: '2011-07-27'
+- type: interpreted_by
+  target: celex:62016CJ0115
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fe6b95af-39b8-11e9-8d04-01aa75ed71a1
+  date: '2019-02-26'
+- type: interpreted_by
+  target: celex:62016CJ0116
+  label: null
+  source: http://publications.europa.eu/resource/cellar/06570d6d-39b6-11e9-8d04-01aa75ed71a1
+  date: '2019-02-26'
+- type: interpreted_by
+  target: celex:62020CJ0257
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a0653a4a-9555-11ec-b4e4-01aa75ed71a1
+  date: '2022-02-24'
+- type: interpreted_by
+  target: celex:62024CJ0828
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f8d77371-1877-11f1-8870-01aa75ed71a1
+  date: '2026-03-05'
+article_structure:
+  article_count: 11
+  section_count: 2
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:42:33Z'
+  warnings: []
+  errors: []
+---
+
+# Directiva 2003/49/CE do Conselho, de 3 de Junho de 2003
+
+> 02003L0049 — PT — 01.07.2013 — 003.004
+
+> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
+
+**Alterada por:**
+
+- [►M1](http://publications.europa.eu/resource/celex/32004L0076) — [DIRECTIVA 2004/76/CE DO CONSELHO de 29 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0076) — L 157 — 106 — 30.4.2004
+- [►M2](http://publications.europa.eu/resource/celex/32004L0066) — [DIRECTIVA 2004/66/CE DO CONSELHO de 26 de Abril de 2004](http://publications.europa.eu/resource/celex/32004L0066) — L 168 — 35 — 1.5.2004
+- [►M3](http://publications.europa.eu/resource/celex/32006L0098) — [DIRECTIVA 2006/98/CE DO CONSELHO de 20 de Novembro de 2006](http://publications.europa.eu/resource/celex/32006L0098) — L 363 — 129 — 20.12.2006
+- [►M4](http://publications.europa.eu/resource/celex/32013L0013) — [DIRETIVA 2013/13/UE DO CONSELHO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0013) — L 141 — 30 — 28.5.2013
+
+**Retificada por:**
+
+- [►C1](http://publications.europa.eu/resource/celex/32004L0076R%2801%29) — [Rectificação, JO L 195, 2.6.2004, p. 33 (Directiva 2004/76/CE)](http://publications.europa.eu/resource/celex/32004L0076R%2801%29)
+
+## DIRECTIVA 2003/49/CE DO CONSELHO
+
+de 3 de Junho de 2003
+
+relativa a um regime fiscal comum aplicável aos pagamentos de juros e *royalties* efectuados entre sociedades associadas de Estados-Membros diferentes
+
+###### Artigo 1.º — Âmbito e procedimentos
+
+1. Os pagamentos de juros ou *royalties* gerados num Estado-Membro estão isentos de todos os impostos incidentes sobre esses pagamentos no Estado em questão, quer mediante retenção na fonte quer mediante liquidação, desde que o beneficiário efectivo dos juros ou *royalties* seja uma sociedade de outro Estado-Membro ou um estabelecimento permanente situado noutro Estado-Membro de uma sociedade de um Estado-Membro.
+
+2. Um pagamento efectuado por uma sociedade de um Estado-Membro ou por um estabelecimento permanente situado noutro Estado-Membro será considerado como tendo sido gerado nesse Estado-Membro, a seguir designado «Estado fonte».
+
+3. Um estabelecimento permanente só será considerado como pagador de juros ou *royalties* na medida em que esses pagamentos representem para esse estabelecimento uma despesa dedutível para efeitos fiscais no Estado-Membro em que estiver situado.
+
+4. Uma sociedade de um Estado-Membro só será considerada como beneficiário efectivo de juros ou *royalties* se receber esses pagamentos por conta própria e não como intermediário, tal como representante, administrador fiduciário ou signatário autorizado de terceiros.
+
+5. Um estabelecimento permanente será considerado como beneficiário efectivo de juros ou *royalties*:
+
+a) Se o crédito, o direito ou a utilização de informações, relativamente aos quais se efectuam os pagamentos de juros ou *royalties*, estiverem efectivamente relacionados com esse estabelecimento permanente; e
+
+b) Se os pagamentos de juros ou *royalties* representarem rendimento colectável no Estado-Membro em que está situado para efeitos de um dos impostos mencionados na subalínea iii) da alínea a) do artigo 3.º ou, no caso da Bélgica, do *impôt des non-résidents/belasting der niet-verblijfhouders* ou, no caso da Espanha, do *Impuesto sobre la Renta de no Residentes* ou de qualquer imposto de natureza idêntica ou equivalente nos seus aspectos essenciais e que, após a data de entrada em vigor da presente directiva, seja aplicado em complemento ou em substituição dos impostos já existentes.
+
+6. Nos casos em que um estabelecimento permanente de uma sociedade de um Estado-Membro for considerado como pagador ou como beneficiário efectivo de juros ou *royalties*, nenhuma outra parte da sociedade será considerada como pagador ou como beneficiário de juros ou *royalties* para efeitos do presente artigo.
+
+7. O presente artigo aplica-se apenas se a sociedade que é o pagador ou a sociedade cujo estabelecimento permanente é considerado como sendo o pagador dos juros ou *royalties* for uma sociedade associada à sociedade que é o beneficiário efectivo ou cujo estabelecimento permanente é considerado como sendo o beneficiário efectivo desses juros ou *royalties*.
+
+8. O presente artigo não se aplica nos casos em que os juros ou *royalties* sejam pagos por um estabelecimento permanente de uma sociedade de um Estado-Membro, situados num país terceiro, ou a esse estabelecimento permanente e em que a actividade da sociedade seja total ou parcialmente exercida através desse estabelecimento permanente.
+
+9. Nada no presente artigo obsta a que um Estado-Membro, ao aplicar o seu direito fiscal, tome em consideração os juros ou *royalties* recebidos pelas suas sociedades, pelos estabelecimentos permanentes das suas sociedades ou por estabelecimentos permanentes situados nesse Estado.
+
+10. Um Estado-Membro pode optar por não aplicar a presente directiva a uma sociedade de outro Estado-Membro ou a um estabelecimento permanente de uma sociedade de outro Estado-Membro, caso as condições enunciadas na alínea b) do artigo 3.º se não tenham verificado por um período ininterrupto de pelo menos dois anos.
+
+11. O Estado da fonte pode exigir que o preenchimento dos requisitos estabelecidos no presente artigo e no artigo 3.º seja comprovado, à data do pagamento dos juros ou *royalties*, através de um certificado. Se à data do pagamento não tiver sido comprovado o preenchimento dos requisitos estabelecidos no presente artigo, o Estado-Membro terá a faculdade de exigir a cobrança do imposto na fonte.
+
+12. O Estado da fonte pode colocar como condição para a concessão da isenção nos termos da presente directiva ter proferido uma decisão aplicável em que conceda essa isenção, após apresentação de um certificado que comprove o cumprimento dos requisitos estabelecidos no presente artigo e no artigo 3.º A decisão relativa à isenção deve ser tomada no prazo máximo de três meses a contar da apresentação do certificado e de todas as informações comprovativas que o Estado fonte possa razoavelmente pedir e será válida durante o prazo mínimo de um ano a contar da data em que for proferida.
+
+13. Para efeitos dos n.^os^ 11 e 12, o certificado a fornecer será válido, no que se refere a cada contrato relativo a pagamentos, no mínimo, por um ano e, no máximo, por três anos a contar da data da decisão e conterá as seguintes informações:
+
+a) A prova do domicílio fiscal da sociedade destinatária e, se necessário, da existência de um estabelecimento permanente, certificada pela autoridade fiscal do Estado-Membro em que a sociedade destinatária tem o seu domicílio fiscal ou em que se situa o estabelecimento permanente;
+
+b) A prova da qualidade de beneficiário efectivo, a fornecer pela sociedade destinatária nos termos do n.º 4, ou da existência das condições previstas no n.º 5, se o destinatário do pagamento for um estabelecimento permanente;
+
+c) O cumprimento dos requisitos previstos na subalínea iii) da alínea a) do artigo 3.º, no caso da sociedade destinatária;
+
+d) Uma participação mínima ou o critério de detenção de um número mínimo de direitos de voto, nos termos da alínea b) do artigo 3.º;
+
+e) O período de existência da participação ou detenção a que se refere a alínea d).
+
+Além disso, os Estados-Membros podem exigir a justificação legal dos pagamentos nos termos do contrato (por exemplo, o acordo de empréstimo ou o contrato de licença).
+
+14. Se os requisitos para a isenção deixarem de ser preenchidos, a sociedade ou o estabelecimento permanente destinatário deverão informar imediatamente a sociedade ou o estabelecimento permanente pagador e, se o Estado fonte o exigir, a autoridade competente desse Estado.
+
+15. Se a sociedade ou o estabelecimento permanente pagador tiver retido na fonte o imposto abrangido pela isenção nos termos do presente artigo, pode ser introduzido um pedido de reembolso desse imposto. O Estado-Membro pode exigir as informações enumeradas no n.º 13. O pedido de reembolso deve ser apresentado dentro do prazo estabelecido, o qual deve durar pelo menos dois anos a contar da data de pagamento dos juros ou *royalties*.
+
+16. O Estado da fonte deve reembolsar o imposto em excesso retido na fonte no prazo de um ano após a devida recepção do pedido e das informações comprovativas que possa ter razoavelmente solicitado. Se o imposto retido na fonte não tiver sido reembolsado dentro desse prazo, a sociedade ou o estabelecimento permanente beneficiários estarão habilitados, no final desse ano, a reclamar juros de mora sobre o imposto a reembolsar, a uma taxa correspondente à taxa de juro nacional aplicável em casos idênticos nos termos da legislação interna do Estado da fonte.
+
+###### Artigo 2.º — Definição de juros e royalties
+
+Para efeitos da presente directiva, entende-se por:
+
+a) «Juros»: os rendimentos de créditos de qualquer natureza, garantidos ou não por hipoteca, e que confiram ou não o direito à participação nos lucros do devedor, e em particular os rendimentos de títulos e de obrigações que gozem ou não de garantia especial, incluindo os prémios e os lotes associados a esses títulos e obrigações; as penalizações por mora não serão consideradas juros;
+
+b) «Royalties»: as remunerações de qualquer natureza recebidas em contrapartida da utilização, ou concessão do direito de utilização, de direitos de autor sobre obras literárias, artísticas ou científicas, incluindo filmes cinematográficos e suportes lógicos, patentes, marcas registadas, desenhos ou modelos, planos, fórmulas ou processos secretos, ou em contrapartida de informações relativas à experiência adquirida no domínio industrial, comercial ou científico; serão considerados *royalties* os pagamentos efectuados em contrapartida da utilização ou da concessão do direito de utilização de equipamento industrial, comercial ou científico.
+
+###### Artigo 3.º — Definição de sociedade, sociedade associada e estabelecimento permanente
+
+Para efeitos da presente directiva, entende-se por:
+
+a) «Sociedade de um Estado-Membro», qualquer sociedade:
+
+i) que assuma uma das formas enunciadas no anexo, e
+
+ii) que, de acordo com o direito fiscal desse Estado-Membro, seja considerada como nele domiciliada e que, na acepção de uma convenção sobre dupla tributação sobre os rendimentos celebrada com um país terceiro, não seja considerada, para efeitos fiscais, como domiciliada fora da Comunidade, e
+
+iii) que esteja sujeita a um dos impostos a seguir enumerados, sem beneficiar de qualquer isenção, ou a qualquer imposto de natureza idêntica ou equivalente nos seus aspectos essenciais e que, após a data de entrada em vigor da presente directiva, seja aplicado em complemento ou em substituição dos impostos já existentes:
+
+— impôt des sociétés/vennootschapsbelasting na Bélgica,
+
+— selskabsskat na Dinamarca,
+
+— Körperschaftsteuer na Alemanha,
+
+— Φόρος εισοδήματος νομικών προσώπων na Grécia,
+
+— impuesto sobre sociedades na Espanha,
+
+— impôt sur les sociétés na França,
+
+— porez na dobit na Croácia,
+
+— corporation tax na Irlanda,
+
+— imposta sul reddito delle persone giuridiche na Itália,
+
+— impôt sur le revenu des collectivités no Luxemburgo,
+
+— vennootschapsbelasting nos Países Baixos,
+
+— Körperschaftsteuer na Áustria,
+
+— imposto sobre o rendimento das pessoas colectivas em Portugal,
+
+— yhteisöjen tulovero/inkomstskatten för samfund na Finlândia,
+
+— statlig inkomstskatt na Suécia,
+
+— corporation tax no Reino Unido,
+
+— Daň z příjmů právnických osob na República Checa,
+
+— Tulumaks na Estónia,
+
+— φόρος εισοδήματος em Chipre,
+
+— Uzņēmumu ienākuma nodoklis na Letónia,
+
+— Pelno mokestis na Lituânia,
+
+— Társasági adó na Hungria,
+
+— Taxxa fuq l-income em Malta,
+
+— Podatek dochodowy od osób prawnych na Polónia,
+
+— Davek od dobička pravnih oseb na Eslovénia,
+
+— Daň z príjmov právnických osôb na Eslováquia,
+
+— корпоративен данък na Bulgária,
+
+— impozit pe profit, impozitul pe veniturile obținute din România de nerezidenți na Roménia;
+
+b) Uma sociedade constitui uma «sociedade associada» de outra sociedade caso se verifique, no mínimo, uma das seguintes condições:
+
+i) tenha uma participação directa de, no mínimo, 25 % no capital da outra sociedade, ou
+
+ii) a outra sociedade tenha uma participação directa de, no mínimo, 25 % no seu capital, ou
+
+iii) uma terceira sociedade tenha uma participação directa de, no mínimo, 25 % tanto no seu capital como no capital da outra sociedade.
+
+c) «Estabelecimento permanente», as instalações fixas, situadas num Estado-Membro, através das quais uma sociedade de outro Estado-Membro exerce, no todo ou em parte, a sua actividade.
+
+###### Artigo 4.º — Exclusão de pagamentos como juros ou royalties
+
+1. O Estado da fonte não tem de assegurar o benefício da aplicação da presente directiva nos seguintes casos:
+
+a) Pagamentos equiparados a distribuições de lucros ou reembolsos de capital nos termos da legislação do Estado da fonte;
+
+b) Pagamentos de créditos que confiram o direito a participar nos lucros do devedor;
+
+c) Pagamentos de créditos que habilitem o credor a trocar o seu direito aos juros pelo direito a participar nos lucros do devedor;
+
+d) Pagamentos de créditos que não impliquem o reembolso do capital ou em que o reembolso seja devido mais de 50 anos após a data de emissão.
+
+2. Quando, em virtude de uma relação especial entre o pagador e o beneficiário efectivo dos juros ou *royalties*, ou entre ambos e um terceiro, o montante em juros e royalties for superior ao montante que, na ausência de tal relação, teria sido acordado entre o pagador e o beneficiário efectivo, o disposto na presente directiva apenas se aplica a este último montante, se existir.
+
+###### Artigo 5.º — Fraudes e abusos
+
+1. A presente directiva não impede a aplicação das disposições internas ou baseadas em acordos necessárias para evitar fraudes e abusos.
+
+2. Os Estados-Membros podem retirar o benefício da aplicação da presente directiva, ou recusar-se a aplicá-la, no caso de operações que tenham por principal motivo, ou que se contem entre os seus motivos principais, a fraude fiscal, a evasão fiscal ou práticas abusivas.
+
+###### Artigo 6.º
+
+##### Regras transitórias para a República Checa, a Grécia, Espanha, a Letónia, a Lituânia, a Polónia, Portugal e a Eslováquia
+
+1. A Grécia e Portugal estão autorizados a não aplicar o disposto no artigo 1.º até à data de aplicação a que se referem os n.^os^ 2 e 3 do artigo 17.º da Directiva 2003/48/CE do Conselho, de 3 de Junho de2003, relativa à tributação da poupança sob a forma de juros ([^1^](http://publications.europa.eu/resource/cellar/108ba38b-c91c-4625-87f8-2a7fb03fbb38.0018.03/DOC_2#E0001)). Durante um período transitório de oito anos a contar da referida data, a taxa de imposto aplicável ao pagamento de juros e *royalties* a uma sociedade associada de outro Estado-Membro ou a um estabelecimento permanente situado noutro Estado-Membro de uma sociedade associada de um Estado-Membro, não pode ser superior a 10 % durante os primeiros quatro anos e a 5 % durante os últimos quatro anos.
+
+A Lituânia está autorizada a não aplicar o disposto no artigo 1.º até à data de aplicação a que se referem os n.^os^ 2 e 3 do artigo 17.º da Directiva 2003/48/CE. Durante um período transitório de seis anos a contar da referida data, a taxa de imposto aplicável ao pagamento de *royalties* a uma sociedade associada de outro Estado-Membro ou a um estabelecimento permanente situado noutro Estado-Membro de uma sociedade associada de um Estado-Membro, não pode ser superior a 10 %. Nos primeiros quatro anos de um período transitório de seis anos, a taxa de imposto aplicável ao pagamento de juros a uma sociedade associada de outro Estado-Membro ou a um estabelecimento permanente situado noutro Estado-Membro não pode ser superior a 10 %, e, nos últimos dois anos, não pode ser superior a 5 %.
+
+A Espanha e a República Checa estão autorizadas, unicamente para os pagamentos de *royalties*, a não aplicar o disposto no artigo 1.º até à data de aplicação a que se referem os n.^os^ 2 e 3 do artigo 17.º da Directiva 2003/48/CE. Durante um período transitório de seis anos a contar da referida data, a taxa de imposto aplicável ao pagamento de royalties a uma sociedade associada de outro Estado-Membro ou a um estabelecimento permanente situado noutro Estado-Membro de uma sociedade associada de um Estado-Membro, não pode ser superior a 10 %. A Eslováquia está autorizada, unicamente para os pagamentos de *royalties*, a não aplicar o disposto no artigo 1.º durante um período transitório de dois anos a partir de 1 de Maio de 2004.
+
+No entanto, as presentes regras transitórias vigoram sob reserva de se continuar a aplicar uma taxa de imposto mais baixa do que as referidas nos primeiro, segundo, terceiro e quarto parágrafos nos termos de acordos bilaterais celebrados entre a República Checa, a Grécia, Espanha, a Letónia, a Lituânia, a Polónia, Portugal ou a Eslováquia e outros Estados-Membros. Até ao final de qualquer um dos períodos transitórios mencionados no presente número, o Conselho pode decidir por unanimidade, sob proposta da Comissão, da eventual prorrogação dos ditos períodos transitórios.
+
+2. Se uma sociedade de um Estado-Membro ou um estabelecimento permanente situado nesse Estado-Membro de uma sociedade de um Estado-Membro:
+
+— receber juros ou *royalties* de uma sociedade associada da Grécia, da Letónia, da Lituânia, da Polónia ou de Portugal,
+
+— receber *royalties* de uma sociedade associada da República Checa, de Espanha ou da Eslováquia,
+
+— receber juros ou *royalties* de um estabelecimento permanente situado na Grécia, na Letónia, na Lituânia, na Polónia ou em Portugal de uma sociedade associada de um Estado-Membro, ou
+
+— receber *royalties* de um estabelecimento permanente situado na República Checa, em Espanha ou na Eslováquia, de uma sociedade associada de um Estado-Membro,
+
+o primeiro Estado-Membro autorizará que seja deduzido do imposto sobre o rendimento da sociedade ou estabelecimento permanente que tiver recebido esses rendimentos um montante igual ao do imposto sobre esses rendimentos que tiver sido pago na República Checa, na Grécia, em Espanha, na Letónia, na Lituânia, na Polónia, em Portugal ou na Eslováquia nos termos do n.º 1.
+
+3. A dedução prevista no n.º 2 não deve exceder o mais baixo dos dois valores seguintes:
+
+a) O imposto devido na República Checa, na Grécia, em Espanha, na Letónia, na Lituânia, na Polónia, em Portugal ou na Eslováquia sobre esses rendimentos com base no n.º 1;
+
+b) A parte do imposto sobre o rendimento da sociedade ou estabelecimento permanente que recebeu os juros ou royalties, calculado antes de aplicada a dedução, que for imputável a esses pagamentos, nos termos da legislação nacional do Estado-Membro a que pertence a sociedade ou no qual se situa o estabelecimento permanente.
+
+###### Artigo 7.º — Aplicação
+
+1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Janeiro de 2004 e informar imediatamente a Comissão desse facto.
+
+Quando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão aprovadas pelos Estados-Membros.
+
+2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva, bem como um quadro de correspondência entre as disposições da presente directiva e as disposições nacionais aprovadas.
+
+###### Artigo 8.º — Reexame
+
+Até 31 de Dezembro de 2006, a Comissão apresentará ao Conselho um relatório sobre a aplicação da presente directiva, tendo em vista nomeadamente alargar o seu âmbito de aplicação a outras sociedades ou empresas não abrangidas pelo artigo 3.º e pelo anexo.
+
+###### Artigo 9.º — Cláusula de delimitação
+
+A presente directiva não afecta a aplicação de disposições internas ou baseadas em acordos que vão além do disposto na presente directiva e se destinem a eliminar ou a mitigar a dupla tributação de juros e *royalties*.
+
+###### Artigo 10.º — Entrada em vigor
+
+A presente directiva entra em vigor na data da sua publicação no *Jornal Oficial da União Europeia*.
+
+###### Artigo 11.º — Destinatários
+
+Os Estados-Membros são os destinatários da presente directiva.
+
+## ANEXO
+
+### Lista das sociedades abrangidas pela alínea a) do artigo 3.º da directiva
+
+a) Sociedades de direito belga conhecidas por «naamloze vennootschap»/«société anonyme», «commanditaire vennootschap op aandelen»/«société en commandite par actions», «besloten vennootschap met beperkte aansprakelijkheid»/«société privée à responsabilité limitée», bem como os organismos de direito público que operam em regime de direito privado;
+
+aa) As sociedades de direito búlgaro conhecidas por «събирателното дружество», «командитното дружество», «дружеството с ограничена отговорност», «акционерното дружество», «командитното дружество с акции», «кооперации», «кооперативни съюзи», «държавни предприятия» constituídas no âmbito do direito búlgaro e que exerçam actividades comerciais;
+
+ab) As sociedades de direito romeno conhecidas por «societăți pe acțiuni», «societăți în comandită pe acțiuni», «societăți cu răspundere limitată»;
+
+b) Sociedades de direito dinamarquês conhecidas por «aktieselskab» e «anpartsselskab»;
+
+c) Sociedades de direito alemão conhecidas por «Aktiengesellschaft», «Kommanditgesellschaft auf Aktien», «Gesellschaft mit beschränkter Haftung» e «bergrechtliche Gewerkschaft»;
+
+d) Sociedades de direito helénico conhecidas por «aνώνυμη εταιρiα»;
+
+e) Sociedades de direito espanhol conhecidas por «sociedad anónima», «sociedad comanditaria por acciones», «sociedad de responsabilidad limitada» bem como os organismos de direito público que operam em regime de direito privado;
+
+f) Sociedades de direito francês conhecidas por «société anonyme», «société en commandite par actions», «société à responsabilité limitée», bem como as empresas e estabelecimentos públicos de carácter industrial e comercial;
+
+g) Sociedades de direito irlandês conhecidas por «public companies limited by shares or by guarantee», «private companies limited by shares or by guarantee», os organismos registados sob o regime dos «Industrial and Provident Societies Acts», bem como as «building societies» registadas sob o regime dos «Building Societies Acts»;
+
+h) Sociedades de direito italiano conhecidas por «società per azioni», «società in accomandita per azioni», «società a responsabilità limitata», bem como as entidades públicas e privadas que exercem actividades industriais e comerciais;
+
+i) Sociedades de direito luxemburguês conhecidas por «société anonyme», «société en commandite par actions» e «société à responsabilité limitée»;
+
+j) Sociedades de direito neerlandês conhecidas por «naamloze vennootschap» e «besloten vennootschap met beperkte aansprakelijkheid»;
+
+k) Sociedades de direito austríaco conhecidas por «Aktiengesellschaft» e «Gesellschaft mit beschränkter Haftung»;
+
+l) Sociedades comerciais ou civis sob forma comercial, cooperativas e empresas públicas constituídas de acordo com o direito português;
+
+m) Sociedades de direito finlandês conhecidas por «osakeyhtiö/aktiebolag», «osuuskunta/andelslag», «säästöpankki/sparbank» e «vakuutusyhtiö/försäkringsbolag»;
+
+n) Sociedades de direito sueco conhecidas por «aktiebolag» e «försäkringsaktiebolag»;
+
+o) Sociedades constituídas de acordo com o direito do Reino Unido;
+
+p) As sociedades de direito checo conhecidas por: «akciová společnost», «společnost s ručením omezeným», «veřejná obchodní společnost», «komanditní společnost», «družstvo»;
+
+q) As sociedades de direito estónio conhecidas por: «täisühing», «usaldusühing», «osaühing», «aktsiaselts», «tulundusühistu»;
+
+r) As sociedades de direito cipriota denominadas sociedades constituídas em conformidade com o direito das sociedades, os organismos públicos e outros organismos assimilados a sociedades pela legislação relativa ao imposto sobre os rendimentos;
+
+s) As sociedades de direito letão conhecidas por: «akciju sabiedrība», «sabiedrība ar ierobežotu atbildību»;
+
+t) As sociedades constituídas segundo o direito lituano;
+
+u) As sociedades de direito húngaro conhecidas por: «közkereseti társaság», «betéti társaság», «közös vállalat», «korlátolt felelősségű társaság», «részvénytársaság», «egyesülés», «közhasznú társaság», «szövetkezet»;
+
+v) As sociedades de direito maltês conhecidas por: «Kumpaniji ta’ Responsabilita’ Limitata», «Soċjetajiet in akkomandita li l-kapital tagħhom maqsum f’azzjonijiet»;
+
+w) As sociedades de direito polaco conhecidas por: «spółka akcyjna», «spółka z ograniczoną odpowiedzialnością»;
+
+x) As sociedades de direito esloveno conhecidas por: «delniška družba», «komanditna delniška družba», «komanditna družba», «družba z omejeno odgovornostjo», «družba z neomejeno odgovornostjo»;
+
+y) As sociedades de direito eslovaco conhecidas por: «akciová spoločnos», «spoločnosť s ručením obmedzeným», «komanditná spoločnos», «verejná obchodná spoločnos», «družstvo»;
+
+z) Sociedades de direito croata conhecidas por «dioničko društvo», «društvo s ograničenom odgovornošću», bem como outras sociedades de direito croata sujeitas ao imposto sobre lucros na Croácia.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/108ba38b-c91c-4625-87f8-2a7fb03fbb38.0018.03/DOC_2#src.E0001)) JO L 157 de 26.6.2003, p. 38.

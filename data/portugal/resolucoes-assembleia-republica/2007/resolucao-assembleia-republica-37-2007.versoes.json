@@ -1,0 +1,493 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:637188:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2007-857540819",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/37-2007-637188",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "857574934",
+    "857541389",
+    "857541390",
+    "857541391",
+    "857541392",
+    "857541393",
+    "857541394",
+    "857541395",
+    "857541396",
+    "857541397",
+    "857541398",
+    "857541399",
+    "857541400",
+    "857541401",
+    "857541402",
+    "857541403",
+    "857541404",
+    "857541405",
+    "857541407"
+   ]
+  },
+  {
+   "date": "2012-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174563:por",
+     "title": "Resolução da Assembleia da República n.º 122/2012",
+     "published": "2012-08-27",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-republica/122-2012-174563"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "857541388",
+    "857541389",
+    "857541390",
+    "857541391",
+    "857574932",
+    "857574933",
+    "857541394",
+    "857541395",
+    "857541396",
+    "857541397",
+    "857541398",
+    "857541399",
+    "857541400",
+    "857541401",
+    "857541402",
+    "857541403",
+    "857541404",
+    "857541405",
+    "857541406",
+    "857541407"
+   ]
+  },
+  {
+   "date": "2017-07-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107684444:por",
+     "title": "Resolução da Assembleia da República n.º 148/2017",
+     "published": "2017-07-13",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "857574934",
+    "857574935",
+    "857574936",
+    "857574937",
+    "857574938",
+    "857574939",
+    "857574940",
+    "857574941",
+    "857574942",
+    "857574943",
+    "857574944",
+    "857574945",
+    "857574946",
+    "857574947",
+    "857574948",
+    "857574949",
+    "857574950",
+    "857574951",
+    "857574952",
+    "857574953"
+   ]
+  }
+ ],
+ "fragments": {
+  "857574934": {
+   "fragment_id": "857540820",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-07-18",
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 37/2007\n\nRegime do Canal Parlamento e do portal da Assembleia da República\n\nA Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição da República Portuguesa, o seguinte:"
+  },
+  "857541389": {
+   "fragment_id": "857540821",
+   "type": 9,
+   "heading": "Divisão I — Canal Parlamento e portal da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão I — Canal Parlamento e portal da Assembleia da República"
+  },
+  "857541390": {
+   "fragment_id": "857540822",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente resolução regula o Canal Parlamento e o portal da Assembleia da República na Internet."
+  },
+  "857541391": {
+   "fragment_id": "857540823",
+   "type": 9,
+   "heading": "Divisão II — Canal Parlamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão II — Canal Parlamento"
+  },
+  "857541392": {
+   "fragment_id": "857540824",
+   "type": 11,
+   "heading": "Artigo 2.º — Canal Parlamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Canal Parlamento\n\nO Canal Parlamento disponibiliza o sinal da rede interna de vídeo da Assembleia da República, para efeitos da sua distribuição através das redes públicas e privadas de televisão por cabo."
+  },
+  "857541393": {
+   "fragment_id": "857540825",
+   "type": 11,
+   "heading": "Artigo 3.º — Operadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Operadores\n\nNos termos da lei, têm acesso ao sinal de vídeo do Canal Parlamento todos os operadores de distribuição por cabo para uso público devidamente licenciados."
+  },
+  "857541394": {
+   "fragment_id": "857540826",
+   "type": 11,
+   "heading": "Artigo 4.º — Conteúdos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conteúdos\n\nPara efeitos do artigo 2.º, o Canal Parlamento transmite:\n\na) As reuniões plenárias;\n\nb) As reuniões das comissões parlamentares;\n\nc) Outros eventos relevantes realizados no hemiciclo, na sala do Senado ou em comissões parlamentares;\n\nd) Informação sobre a programação do canal e sobre a agenda parlamentar."
+  },
+  "857541395": {
+   "fragment_id": "857540827",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos dos grupos parlamentares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direitos dos grupos parlamentares\n\nA cada grupo parlamentar podem ser atribuídos tempos de intervenção autónomos, fixados de acordo com a sua representatividade, a transmitir de acordo com um figurino a definir pelo conselho de direcção."
+  },
+  "857541396": {
+   "fragment_id": "857540828",
+   "type": 9,
+   "heading": "Divisão III — Portal da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão III — Portal da Assembleia da República"
+  },
+  "857541397": {
+   "fragment_id": "857540829",
+   "type": 11,
+   "heading": "Artigo 6.º — Portal da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Portal da Assembleia da República\n\nA Assembleia da República disponibiliza e assegura a manutenção de um portal na Internet relativo à Assembleia da República."
+  },
+  "857541398": {
+   "fragment_id": "857540830",
+   "type": 11,
+   "heading": "Artigo 7.º — Conteúdo obrigatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conteúdo obrigatório\n\n1 - O portal da Assembleia da República disponibiliza, obrigatoriamente, informação sobre:\n\na) A instituição parlamentar;\n\nb) A actividade parlamentar e o processo legislativo;\n\nc) A agenda;\n\nd) Os Deputados;\n\ne) As comissões;\n\nf) A Constituição e legislação relevante;\n\ng) As petições;\n\nh) Os requerimentos.\n\n2 - O portal da Assembleia deve conter ainda:\n\na) O Diário da Assembleia da República electrónico;\n\nb) Espaços de discussão interactiva sob a forma de fóruns;\n\nc) Uma área destinada ao público mais jovem;\n\nd) O Canal Parlamento.\n\n3 - A página inicial do portal da Assembleia da República deve conter informação e os instrumentos que permitam a interacção com o cidadão, nomeadamente:\n\na) Subscrição de newsletters;\n\nb) Subscrição de um sistema de alertas;\n\nc) Subscrição de conteúdos para terminais móveis;\n\nd) Linha verde telefónica;\n\ne) Caixa de correio electrónico;\n\nf) Endereço postal."
+  },
+  "857541399": {
+   "fragment_id": "857540831",
+   "type": 9,
+   "heading": "Divisão IV — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Divisão IV — Disposições comuns"
+  },
+  "857541400": {
+   "fragment_id": "857540832",
+   "type": 11,
+   "heading": "Artigo 8.º — Superintendência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Superintendência\n\nO Presidente da Assembleia da República superintende, nos termos do Regimento, ao Canal Parlamento e ao portal da Assembleia da República na Internet."
+  },
+  "857541401": {
+   "fragment_id": "857540833",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho de direcção do Canal Parlamento e do portal da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho de direcção do Canal Parlamento e do portal da Assembleia da República\n\n1 - O conselho de direcção dirige o Canal Parlamento e o portal da Assembleia da República, tomando as decisões relativas à programação do Canal Parlamento e definindo os conteúdos disponibilizados no portal da Assembleia da República na Internet.\n\n2 - O conselho de direcção é composto por um representante de cada grupo parlamentar.\n\n3 - O conselho de direcção delibera por consenso, com direito de recurso para a Conferência de Líderes, a interpor por qualquer dos seus membros.\n\n4 - O conselho de direcção deve enviar, regularmente, à Conferência de Líderes informação sobre as soluções adoptadas decorrentes da execução das linhas de orientação em anexo."
+  },
+  "857541402": {
+   "fragment_id": "857540834",
+   "type": 11,
+   "heading": "Artigo 10.º — Coordenação da comunicação institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coordenação da comunicação institucional\n\nOs conteúdos do Canal Parlamento e do portal da Assembleia da República na Internet devem integrar, com coerência, a estratégia global de comunicação institucional da Assembleia da República."
+  },
+  "857541403": {
+   "fragment_id": "857540835",
+   "type": 11,
+   "heading": "Artigo 11.º — Linhas orientadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Linhas orientadoras\n\nAs transmissões do Canal Parlamento e o conteúdo do portal da Assembleia da República devem obedecer às linhas orientadoras da reestruturação do Canal Parlamento e do portal da Assembleia da República na Internet publicadas em anexo."
+  },
+  "857541404": {
+   "fragment_id": "857540836",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência da Conferência de Líderes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência da Conferência de Líderes\n\nÀ Conferência de Líderes compete, nomeadamente:\n\na) Deliberar sobre recursos apresentados nos termos do n.º 3 do artigo 9.º;\n\nb) Reavaliar periodicamente as linhas orientadoras em anexo, de forma a assegurar a actualização de objectivos e soluções."
+  },
+  "857541405": {
+   "fragment_id": "857540837",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições finais\n\n1 - O Presidente da Assembleia da República deve determinar a adopção pelos serviços competentes das providências necessárias ao eficaz cumprimento da lei, do Regimento da Assembleia da República e da presente resolução.\n\n2 - A presente resolução revoga a Resolução da Assembleia da República n.º 23/2000, de 22 de Março, com as alterações introduzidas pela Resolução da Assembleia da República n.º 25/2004, de 26 de Fevereiro."
+  },
+  "857541407": {
+   "fragment_id": "857540839",
+   "type": 14,
+   "heading": "Anexo — Linhas orientadoras de reestruturação do Canal Parlamento e do portal da Assembleia da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Linhas orientadoras de reestruturação do Canal Parlamento e do portal da Assembleia da República\n\nA - Canal Parlamento\n\n1 - Aspectos gerais:\n\n1.1 - O Canal Parlamento assegurará, em média, um mínimo de 16 horas de emissão diária.\n\n1.2 - As emissões do Canal Parlamento serão apresentadas por um(a) apresentador(a)/locutor(a) pivot, escolhido pelo conselho de direcção, que abrirá as transmissões em horário fixo (quartas-feiras e quintas-feiras às 15 horas e sextas-feiras às 10 horas).\n\nAo pivot competirá informar, designadamente, sobre o conteúdo da ordem de trabalhos das sessões, o que será debatido e quem está a intervir.\n\nA intervenção do apresentador será totalmente isenta, rigorosa e objectiva, orientada para a finalidade única de informar e não de comentar ou emitir opinião sobre as matérias em debate ou que serão objecto de transmissões.\n\n1.3 - No caso das sessões especiais, como, por exemplo, a transmissão de debates sobre o Orçamento do Estado, programas do Governo, moções de censura ou confiança, as emissões serão organizadas de acordo com o figurino estabelecido para as mesmas.\n\n2 - Actividades parlamentares:\n\n2.1 - Transmissões directas:\n\na) Reuniões plenárias;\n\nb) Reuniões das comissões parlamentares, quer permanentes, quer eventuais, mediante deliberação do conselho de direcção;\n\nc) Nas emissões regulares deverá ainda ser facultada informação sobre as reuniões plenárias e das comissões, e respectivas ordens de trabalhos, informando também sobre os assuntos em discussão;\n\nd) Eventos relevantes realizados no hemiciclo, na sala do Senado ou nas comissões parlamentares, como, por exemplo, a tomada de posse do Presidente da República ou a sessão comemorativa do 25 de Abril.\n\n2.2 - Outros conteúdos:\n\na) Informações sobre as decisões tomadas na Conferência de Líderes;\n\nb) Agendas diárias e semanais:\n\ni) Informação diária sobre as agendas relativas a cada sessão plenária, matérias a discutir e a votar, entre outras;\n\nii) Informação sobre a agenda semanal (nomeadamente, reuniões plenárias, reuniões de comissões, visitas ao Parlamento);\n\nc) Informação sobre a actividade legislativa do Parlamento, nomeadamente através da referência ao conteúdo e objectivos das propostas de lei, projectos de lei, propostas e projectos de resolução e requerimentos;\n\nd) Informação sobre a participação das delegações da Assembleia da República nos organismos internacionais, nomeadamente o Conselho da Europa, a União da Europa Ocidental, a Assembleia Parlamentar da NATO, a União Interparlamentar;\n\ne) Informação sobre a agenda do Presidente da Assembleia da República, designadamente iniciativas do Presidente, audiências concedidas e representação da Assembleia da República em Portugal e no estrangeiro;\n\nf) Informação (ou transmissão em directo ou em diferido) de acontecimentos importantes da actividade parlamentar, tais como visitas de personalidades políticas, reuniões internacionais, colóquios e seminários.\n\n3 - Informação estrutural sobre a Assembleia da República:\n\n3.1 - Serão adoptadas medidas tendentes a assegurar a produção e difusão de conteúdos sobre diversos aspectos ligados à actividade e à vida parlamentar, designadamente sobre:\n\na) A Assembleia da República no sistema político português;\n\nb) Visita guiada à Assembleia da República;\n\nc) Como funciona e para que serve a Assembleia da República: explicação da organização e funcionamento do Parlamento;\n\nd) O património histórico e cultural da Assembleia da República;\n\ne) A Constituição da República e as sucessivas revisões;\n\nf) A articulação da Assembleia da República com o Governo;\n\ng) A história do parlamentarismo em Portugal;\n\nh) Os grandes momentos da Assembleia Constituinte e da Assembleia da República desde 1975;\n\ni) A Assembleia da República na construção europeia.\n\n3.2 - Os programas em causa e as regras sobre a sua produção serão objecto de aprovação pelo conselho de direcção do Canal Parlamento e podem destinar-se não só à sua inserção na programação do Canal Parlamento mas também à sua comercialização.\n\n4 - Estudo de outros conteúdos:\n\n4.1 - O Canal Parlamento deve analisar a possibilidade de desenvolver outros conteúdos, nomeadamente:\n\na) Entrevistas a Deputados;\n\nb) Fórum aberto à participação pública, com a presença de Deputados;\n\nc) Bloco com notícias da semana/dia;\n\nd) Divulgação dos dados estatísticos das actividades parlamentares;\n\ne) Reportagens sobre os bastidores da Assembleia da República;\n\nf) Debates entre os Deputados;\n\ng) «O dia de ...»: reportagens da vida e do trabalho parlamentar de cada Deputado, por legislatura, tais como os contactos com o eleitorado;\n\nh) Reportagens nos círculos eleitorais de cada Deputado, fazendo o acompanhamento da sua actividade.\n\n5 - Difusão de informação sobre outros parlamentos:\n\n5.1 - O Canal Parlamento deverá aproveitar os conteúdos gratuitamente cedidos por outros parlamentos, nomeadamente o Parlamento Europeu e os Parlamentos da CPLP.\n\n5.2 - O serviço Europe by Satellite (União Europeia) faculta acesso gratuito a material vídeo digital com tradução portuguesa incluída que pode e deve ser usado em conjugação com a actividade parlamentar portuguesa.\n\n5.3 - A inclusão de elementos de programação referentes à actividade de outros parlamentos é deliberada pelo conselho de direcção do Canal Parlamento, nos termos da presente resolução.\n\nB - Portal da Assembleia da República\n\n1 - Aspectos gerais:\n\n1.1 - O portal da Assembleia da República deverá inserir-se na plataforma tecnológica da world wide web 2.0.\n\n1.2 - Serão adoptadas medidas tendentes à actualização em tempo real de todos os conteúdos.\n\n1.3 - Serão criadas comunidades virtuais compostas, entre outros, pelos documentos em análise e em discussão pública, biblioteca, centros de recursos e gravações das audições. Neste âmbito, os cidadãos poderão colocar os seus próprios contributos (nomeadamente estudos, artigos científicos, opiniões), interagir entre si, consultar documentos, assistir ou escutar intervenções ou debates, entre outras possibilidades.\n\n2 - Outros conteúdos:\n\n2.1 - Existirá no portal da Assembleia da República uma zona reservada à página pessoal ou weblog de cada Deputado para difusão electrónica de informação relativa ao exercício do seu mandato na Assembleia da República e no seu respectivo círculo, facilitando a sua interacção com os cidadãos, cuja actualização e gestão é da sua exclusiva responsabilidade. A Assembleia da República é responsável pela criação de cada uma das páginas, devendo esta permitir a colocação, entre outros, de texto, áudio, vídeo, interactividade, documentos, bem como o acesso às intervenções, entrevistas ou quaisquer outros materiais relativos ao Deputado, através das imagens e conteúdos disponibilizados pelo Canal Parlamento.\n\n2.2 - A página web de cada iniciativa legislativa deverá permitir aos cidadãos o envio das suas opiniões e propostas concretas sobre o assunto, de forma que permaneçam, a todo o momento, consultáveis por todos.\n\n2.3 - O portal deverá também permitir a criação de fóruns de debate nas páginas web de cada iniciativa legislativa, das petições e das apreciações parlamentares, nos quais possam participar os cidadãos e, também, os Deputados.\n\n2.4 - A Assembleia da República disponibilizará uma newsletter, a qual deverá ser periódica, em suporte digital, e com informação sobre as principais deliberações e actividades parlamentares, sem prejuízo da possibilidade das comissões parlamentares editarem as suas próprias newsletters e de as disponibilizarem igualmente mediante subscrição no portal.\n\n3 - Portal para jovens:\n\n3.1 - O portal para jovens destina-se a potenciar e enriquecer o relacionamento com o público mais jovem através do desenvolvimento de conceitos pedagógicos explicativos, designadamente, do papel que o Parlamento desempenha no sistema de Governo Português, a forma como as leis são feitas, as eleições, ou a história do Parlamento.\n\n3.2 - A concepção do portal deverá atender à sua necessária função didáctica, prevendo formas de interacção, exploração e debate destinadas tanto a estudantes, como a professores, de forma a aproveitar as possibilidades oferecidas pela tecnologia web 2.0, utilizando para tal objectivo conteúdos, formatos e linguagens adequados e apelativos.\n\n3.3 - O acesso ao portal para jovens deverá estar localizado na página inicial do portal da Assembleia da República.\n\nC - Articulação entre o Canal Parlamento e o portal da Assembleia da República\n\n1 - Com vista a articular a acção das estruturas responsáveis pela informação aos cidadãos sobre a actividade parlamentar, será colocada no webserver da Assembleia da República informação sobre a programação do Canal Parlamento e assegurada a transmissão da sua programação, em «realvídeo», através da Internet.\n\n2 - O portal deverá permitir a colocação do sistema de transmissão multicanais. Deste modo, o Canal Parlamento poderá transmitir em directo, através das redes de cabo ou do portal, um leque variado de actividades parlamentares (por exemplo, as reuniões das comissões parlamentares), podendo cada cidadão escolher a que lhe interessar. Esta possibilidade exige a colocação de sistemas de captação de imagem, para difusão pela Internet e pela rede do cabo, desejável e progressivamente, em todas as salas de reunião das comissões parlamentares.\n\n3 - A adopção do sistema web 2.0 deverá permitir a introdução das tecnologias designadas de 3G (exemplo, wi-fi, CDMA, DVB-H, bluetooth e GSM), assim como a sua aplicação em terminais móveis, como, por exemplo, os computadores de bolso, os telemóveis e os smartphones. Desta forma, os cidadãos devem poder aceder aos conteúdos do Canal Parlamento nos seus terminais móveis."
+  },
+  "857541388": {
+   "fragment_id": "857540820",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 37/2007\n\nRegime do Canal Parlamento e do portal da Assembleia da República\n\nA Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição da República Portuguesa, o seguinte:"
+  },
+  "857574932": {
+   "fragment_id": "857540824",
+   "type": 11,
+   "heading": "Artigo 2.º — Canal Parlamento",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 122/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/122-2012-174563), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Canal Parlamento\n\nO Canal Parlamento disponibiliza o sinal da rede interna de vídeo da Assembleia da República, para efeitos da sua distribuição através das redes públicas e privadas de televisão por cabo e das redes dos operadores licenciados para o serviço de radiodifusão televisiva digital terrestre.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 122/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/122-2012-174563), em vigor a partir de 2012-09-01"
+  },
+  "857574933": {
+   "fragment_id": "857540825",
+   "type": 11,
+   "heading": "Artigo 3.º — Operadores",
+   "in_force_from": "2012-09-01",
+   "changed_by": [
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 122/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/122-2012-174563), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Operadores\n\nNos termos da lei, têm acesso ao sinal de vídeo do Canal Parlamento todos os operadores de distribuição por cabo para uso público e do serviço de radiodifusão televisiva digital terrestre devidamente licenciados.\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 122/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/122-2012-174563), em vigor a partir de 2012-09-01"
+  },
+  "857541406": {
+   "fragment_id": "857540838",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 19 de Julho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama."
+  },
+  "857574935": {
+   "fragment_id": "857540821",
+   "type": 9,
+   "heading": "Divisão I — Canal Parlamento e portal da Assembleia da República",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "##### Divisão I — Canal Parlamento e portal da Assembleia da República\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574936": {
+   "fragment_id": "857540822",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente resolução regula o Canal Parlamento e o portal da Assembleia da República na Internet.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574937": {
+   "fragment_id": "857540823",
+   "type": 9,
+   "heading": "Divisão II — Canal Parlamento",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "##### Divisão II — Canal Parlamento\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574938": {
+   "fragment_id": "857540824",
+   "type": 11,
+   "heading": "Artigo 2.º — Canal Parlamento",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18",
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 122/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/122-2012-174563), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Canal Parlamento\n\nO Canal Parlamento disponibiliza o sinal da rede interna de vídeo da Assembleia da República, para efeitos da sua distribuição através das redes públicas e privadas de televisão por cabo e das redes dos operadores licenciados para o serviço de radiodifusão televisiva digital terrestre.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 122/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/122-2012-174563), em vigor a partir de 2012-09-01"
+  },
+  "857574939": {
+   "fragment_id": "857540825",
+   "type": 11,
+   "heading": "Artigo 3.º — Operadores",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18",
+    "Alterado pelo/a [Resolução da Assembleia da República n.º 122/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/122-2012-174563), em vigor a partir de 2012-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Operadores\n\nNos termos da lei, têm acesso ao sinal de vídeo do Canal Parlamento todos os operadores de distribuição por cabo para uso público e do serviço de radiodifusão televisiva digital terrestre devidamente licenciados.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18\n\n> Alterado pelo/a [Resolução da Assembleia da República n.º 122/2012 - Diário da República n.º 165/2012, Série I de 2012-08-27](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/122-2012-174563), em vigor a partir de 2012-09-01"
+  },
+  "857574940": {
+   "fragment_id": "857540826",
+   "type": 11,
+   "heading": "Artigo 4.º — Conteúdos",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 4.º — Conteúdos\n\nPara efeitos do artigo 2.º, o Canal Parlamento transmite:\n\na) As reuniões plenárias;\n\nb) As reuniões das comissões parlamentares;\n\nc) Outros eventos relevantes realizados no hemiciclo, na sala do Senado ou em comissões parlamentares;\n\nd) Informação sobre a programação do canal e sobre a agenda parlamentar.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574941": {
+   "fragment_id": "857540827",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos dos grupos parlamentares",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 5.º — Direitos dos grupos parlamentares\n\nA cada grupo parlamentar podem ser atribuídos tempos de intervenção autónomos, fixados de acordo com a sua representatividade, a transmitir de acordo com um figurino a definir pelo conselho de direcção.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574942": {
+   "fragment_id": "857540828",
+   "type": 9,
+   "heading": "Divisão III — Portal da Assembleia da República",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "##### Divisão III — Portal da Assembleia da República\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574943": {
+   "fragment_id": "857540829",
+   "type": 11,
+   "heading": "Artigo 6.º — Portal da Assembleia da República",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 6.º — Portal da Assembleia da República\n\nA Assembleia da República disponibiliza e assegura a manutenção de um portal na Internet relativo à Assembleia da República.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574944": {
+   "fragment_id": "857540830",
+   "type": 11,
+   "heading": "Artigo 7.º — Conteúdo obrigatório",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 7.º — Conteúdo obrigatório\n\n1 - O portal da Assembleia da República disponibiliza, obrigatoriamente, informação sobre:\n\na) A instituição parlamentar;\n\nb) A actividade parlamentar e o processo legislativo;\n\nc) A agenda;\n\nd) Os Deputados;\n\ne) As comissões;\n\nf) A Constituição e legislação relevante;\n\ng) As petições;\n\nh) Os requerimentos.\n\n2 - O portal da Assembleia deve conter ainda:\n\na) O Diário da Assembleia da República electrónico;\n\nb) Espaços de discussão interactiva sob a forma de fóruns;\n\nc) Uma área destinada ao público mais jovem;\n\nd) O Canal Parlamento.\n\n3 - A página inicial do portal da Assembleia da República deve conter informação e os instrumentos que permitam a interacção com o cidadão, nomeadamente:\n\na) Subscrição de newsletters;\n\nb) Subscrição de um sistema de alertas;\n\nc) Subscrição de conteúdos para terminais móveis;\n\nd) Linha verde telefónica;\n\ne) Caixa de correio electrónico;\n\nf) Endereço postal.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574945": {
+   "fragment_id": "857540831",
+   "type": 9,
+   "heading": "Divisão IV — Disposições comuns",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "##### Divisão IV — Disposições comuns\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574946": {
+   "fragment_id": "857540832",
+   "type": 11,
+   "heading": "Artigo 8.º — Superintendência",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 8.º — Superintendência\n\nO Presidente da Assembleia da República superintende, nos termos do Regimento, ao Canal Parlamento e ao portal da Assembleia da República na Internet.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574947": {
+   "fragment_id": "857540833",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho de direcção do Canal Parlamento e do portal da Assembleia da República",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 9.º — Conselho de direcção do Canal Parlamento e do portal da Assembleia da República\n\n1 - O conselho de direcção dirige o Canal Parlamento e o portal da Assembleia da República, tomando as decisões relativas à programação do Canal Parlamento e definindo os conteúdos disponibilizados no portal da Assembleia da República na Internet.\n\n2 - O conselho de direcção é composto por um representante de cada grupo parlamentar.\n\n3 - O conselho de direcção delibera por consenso, com direito de recurso para a Conferência de Líderes, a interpor por qualquer dos seus membros.\n\n4 - O conselho de direcção deve enviar, regularmente, à Conferência de Líderes informação sobre as soluções adoptadas decorrentes da execução das linhas de orientação em anexo.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574948": {
+   "fragment_id": "857540834",
+   "type": 11,
+   "heading": "Artigo 10.º — Coordenação da comunicação institucional",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 10.º — Coordenação da comunicação institucional\n\nOs conteúdos do Canal Parlamento e do portal da Assembleia da República na Internet devem integrar, com coerência, a estratégia global de comunicação institucional da Assembleia da República.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574949": {
+   "fragment_id": "857540835",
+   "type": 11,
+   "heading": "Artigo 11.º — Linhas orientadoras",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 11.º — Linhas orientadoras\n\nAs transmissões do Canal Parlamento e o conteúdo do portal da Assembleia da República devem obedecer às linhas orientadoras da reestruturação do Canal Parlamento e do portal da Assembleia da República na Internet publicadas em anexo.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574950": {
+   "fragment_id": "857540836",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência da Conferência de Líderes",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 12.º — Competência da Conferência de Líderes\n\nÀ Conferência de Líderes compete, nomeadamente:\n\na) Deliberar sobre recursos apresentados nos termos do n.º 3 do artigo 9.º;\n\nb) Reavaliar periodicamente as linhas orientadoras em anexo, de forma a assegurar a actualização de objectivos e soluções.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574951": {
+   "fragment_id": "857540837",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições finais",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "###### Artigo 13.º — Disposições finais\n\n1 - O Presidente da Assembleia da República deve determinar a adopção pelos serviços competentes das providências necessárias ao eficaz cumprimento da lei, do Regimento da Assembleia da República e da presente resolução.\n\n2 - A presente resolução revoga a Resolução da Assembleia da República n.º 23/2000, de 22 de Março, com as alterações introduzidas pela Resolução da Assembleia da República n.º 25/2004, de 26 de Fevereiro.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574952": {
+   "fragment_id": "857540838",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "Aprovada em 19 de Julho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  },
+  "857574953": {
+   "fragment_id": "857540839",
+   "type": 14,
+   "heading": "Anexo — Linhas orientadoras de reestruturação do Canal Parlamento e do portal da Assembleia da República",
+   "in_force_from": "2017-07-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+   ],
+   "markdown": "## Anexo — Linhas orientadoras de reestruturação do Canal Parlamento e do portal da Assembleia da República\n\nA - Canal Parlamento\n\n1 - Aspectos gerais:\n\n1.1 - O Canal Parlamento assegurará, em média, um mínimo de 16 horas de emissão diária.\n\n1.2 - As emissões do Canal Parlamento serão apresentadas por um(a) apresentador(a)/locutor(a) pivot, escolhido pelo conselho de direcção, que abrirá as transmissões em horário fixo (quartas-feiras e quintas-feiras às 15 horas e sextas-feiras às 10 horas).\n\nAo pivot competirá informar, designadamente, sobre o conteúdo da ordem de trabalhos das sessões, o que será debatido e quem está a intervir.\n\nA intervenção do apresentador será totalmente isenta, rigorosa e objectiva, orientada para a finalidade única de informar e não de comentar ou emitir opinião sobre as matérias em debate ou que serão objecto de transmissões.\n\n1.3 - No caso das sessões especiais, como, por exemplo, a transmissão de debates sobre o Orçamento do Estado, programas do Governo, moções de censura ou confiança, as emissões serão organizadas de acordo com o figurino estabelecido para as mesmas.\n\n2 - Actividades parlamentares:\n\n2.1 - Transmissões directas:\n\na) Reuniões plenárias;\n\nb) Reuniões das comissões parlamentares, quer permanentes, quer eventuais, mediante deliberação do conselho de direcção;\n\nc) Nas emissões regulares deverá ainda ser facultada informação sobre as reuniões plenárias e das comissões, e respectivas ordens de trabalhos, informando também sobre os assuntos em discussão;\n\nd) Eventos relevantes realizados no hemiciclo, na sala do Senado ou nas comissões parlamentares, como, por exemplo, a tomada de posse do Presidente da República ou a sessão comemorativa do 25 de Abril.\n\n2.2 - Outros conteúdos:\n\na) Informações sobre as decisões tomadas na Conferência de Líderes;\n\nb) Agendas diárias e semanais:\n\ni) Informação diária sobre as agendas relativas a cada sessão plenária, matérias a discutir e a votar, entre outras;\n\nii) Informação sobre a agenda semanal (nomeadamente, reuniões plenárias, reuniões de comissões, visitas ao Parlamento);\n\nc) Informação sobre a actividade legislativa do Parlamento, nomeadamente através da referência ao conteúdo e objectivos das propostas de lei, projectos de lei, propostas e projectos de resolução e requerimentos;\n\nd) Informação sobre a participação das delegações da Assembleia da República nos organismos internacionais, nomeadamente o Conselho da Europa, a União da Europa Ocidental, a Assembleia Parlamentar da NATO, a União Interparlamentar;\n\ne) Informação sobre a agenda do Presidente da Assembleia da República, designadamente iniciativas do Presidente, audiências concedidas e representação da Assembleia da República em Portugal e no estrangeiro;\n\nf) Informação (ou transmissão em directo ou em diferido) de acontecimentos importantes da actividade parlamentar, tais como visitas de personalidades políticas, reuniões internacionais, colóquios e seminários.\n\n3 - Informação estrutural sobre a Assembleia da República:\n\n3.1 - Serão adoptadas medidas tendentes a assegurar a produção e difusão de conteúdos sobre diversos aspectos ligados à actividade e à vida parlamentar, designadamente sobre:\n\na) A Assembleia da República no sistema político português;\n\nb) Visita guiada à Assembleia da República;\n\nc) Como funciona e para que serve a Assembleia da República: explicação da organização e funcionamento do Parlamento;\n\nd) O património histórico e cultural da Assembleia da República;\n\ne) A Constituição da República e as sucessivas revisões;\n\nf) A articulação da Assembleia da República com o Governo;\n\ng) A história do parlamentarismo em Portugal;\n\nh) Os grandes momentos da Assembleia Constituinte e da Assembleia da República desde 1975;\n\ni) A Assembleia da República na construção europeia.\n\n3.2 - Os programas em causa e as regras sobre a sua produção serão objecto de aprovação pelo conselho de direcção do Canal Parlamento e podem destinar-se não só à sua inserção na programação do Canal Parlamento mas também à sua comercialização.\n\n4 - Estudo de outros conteúdos:\n\n4.1 - O Canal Parlamento deve analisar a possibilidade de desenvolver outros conteúdos, nomeadamente:\n\na) Entrevistas a Deputados;\n\nb) Fórum aberto à participação pública, com a presença de Deputados;\n\nc) Bloco com notícias da semana/dia;\n\nd) Divulgação dos dados estatísticos das actividades parlamentares;\n\ne) Reportagens sobre os bastidores da Assembleia da República;\n\nf) Debates entre os Deputados;\n\ng) «O dia de ...»: reportagens da vida e do trabalho parlamentar de cada Deputado, por legislatura, tais como os contactos com o eleitorado;\n\nh) Reportagens nos círculos eleitorais de cada Deputado, fazendo o acompanhamento da sua actividade.\n\n5 - Difusão de informação sobre outros parlamentos:\n\n5.1 - O Canal Parlamento deverá aproveitar os conteúdos gratuitamente cedidos por outros parlamentos, nomeadamente o Parlamento Europeu e os Parlamentos da CPLP.\n\n5.2 - O serviço Europe by Satellite (União Europeia) faculta acesso gratuito a material vídeo digital com tradução portuguesa incluída que pode e deve ser usado em conjugação com a actividade parlamentar portuguesa.\n\n5.3 - A inclusão de elementos de programação referentes à actividade de outros parlamentos é deliberada pelo conselho de direcção do Canal Parlamento, nos termos da presente resolução.\n\nB - Portal da Assembleia da República\n\n1 - Aspectos gerais:\n\n1.1 - O portal da Assembleia da República deverá inserir-se na plataforma tecnológica da world wide web 2.0.\n\n1.2 - Serão adoptadas medidas tendentes à actualização em tempo real de todos os conteúdos.\n\n1.3 - Serão criadas comunidades virtuais compostas, entre outros, pelos documentos em análise e em discussão pública, biblioteca, centros de recursos e gravações das audições. Neste âmbito, os cidadãos poderão colocar os seus próprios contributos (nomeadamente estudos, artigos científicos, opiniões), interagir entre si, consultar documentos, assistir ou escutar intervenções ou debates, entre outras possibilidades.\n\n2 - Outros conteúdos:\n\n2.1 - Existirá no portal da Assembleia da República uma zona reservada à página pessoal ou weblog de cada Deputado para difusão electrónica de informação relativa ao exercício do seu mandato na Assembleia da República e no seu respectivo círculo, facilitando a sua interacção com os cidadãos, cuja actualização e gestão é da sua exclusiva responsabilidade. A Assembleia da República é responsável pela criação de cada uma das páginas, devendo esta permitir a colocação, entre outros, de texto, áudio, vídeo, interactividade, documentos, bem como o acesso às intervenções, entrevistas ou quaisquer outros materiais relativos ao Deputado, através das imagens e conteúdos disponibilizados pelo Canal Parlamento.\n\n2.2 - A página web de cada iniciativa legislativa deverá permitir aos cidadãos o envio das suas opiniões e propostas concretas sobre o assunto, de forma que permaneçam, a todo o momento, consultáveis por todos.\n\n2.3 - O portal deverá também permitir a criação de fóruns de debate nas páginas web de cada iniciativa legislativa, das petições e das apreciações parlamentares, nos quais possam participar os cidadãos e, também, os Deputados.\n\n2.4 - A Assembleia da República disponibilizará uma newsletter, a qual deverá ser periódica, em suporte digital, e com informação sobre as principais deliberações e actividades parlamentares, sem prejuízo da possibilidade das comissões parlamentares editarem as suas próprias newsletters e de as disponibilizarem igualmente mediante subscrição no portal.\n\n3 - Portal para jovens:\n\n3.1 - O portal para jovens destina-se a potenciar e enriquecer o relacionamento com o público mais jovem através do desenvolvimento de conceitos pedagógicos explicativos, designadamente, do papel que o Parlamento desempenha no sistema de Governo Português, a forma como as leis são feitas, as eleições, ou a história do Parlamento.\n\n3.2 - A concepção do portal deverá atender à sua necessária função didáctica, prevendo formas de interacção, exploração e debate destinadas tanto a estudantes, como a professores, de forma a aproveitar as possibilidades oferecidas pela tecnologia web 2.0, utilizando para tal objectivo conteúdos, formatos e linguagens adequados e apelativos.\n\n3.3 - O acesso ao portal para jovens deverá estar localizado na página inicial do portal da Assembleia da República.\n\nC - Articulação entre o Canal Parlamento e o portal da Assembleia da República\n\n1 - Com vista a articular a acção das estruturas responsáveis pela informação aos cidadãos sobre a actividade parlamentar, será colocada no webserver da Assembleia da República informação sobre a programação do Canal Parlamento e assegurada a transmissão da sua programação, em «realvídeo», através da Internet.\n\n2 - O portal deverá permitir a colocação do sistema de transmissão multicanais. Deste modo, o Canal Parlamento poderá transmitir em directo, através das redes de cabo ou do portal, um leque variado de actividades parlamentares (por exemplo, as reuniões das comissões parlamentares), podendo cada cidadão escolher a que lhe interessar. Esta possibilidade exige a colocação de sistemas de captação de imagem, para difusão pela Internet e pela rede do cabo, desejável e progressivamente, em todas as salas de reunião das comissões parlamentares.\n\n3 - A adopção do sistema web 2.0 deverá permitir a introdução das tecnologias designadas de 3G (exemplo, wi-fi, CDMA, DVB-H, bluetooth e GSM), assim como a sua aplicação em terminais móveis, como, por exemplo, os computadores de bolso, os telemóveis e os smartphones. Desta forma, os cidadãos devem poder aceder aos conteúdos do Canal Parlamento nos seus terminais móveis.\n\n> Revogado pelo/a Artigo 14.º do/a [Resolução da Assembleia da República n.º 148/2017 - Diário da República n.º 134/2017, Série I de 2017-07-13](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/148-2017-107684444), em vigor a partir de 2017-07-18"
+  }
+ }
+}

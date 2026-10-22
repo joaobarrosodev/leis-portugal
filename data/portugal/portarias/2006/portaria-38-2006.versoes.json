@@ -1,0 +1,451 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:168221:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2006-207577599",
+ "dre_path": "/dr/detalhe/portaria/38-2006-168221",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "207577548",
+    "207577525",
+    "207577526",
+    "207577527",
+    "207577528",
+    "207577529",
+    "207577530",
+    "207577531",
+    "207577532",
+    "207577533",
+    "207577534",
+    "207577535",
+    "207577536",
+    "207577537",
+    "207577538",
+    "207577539",
+    "207577540"
+   ]
+  },
+  {
+   "date": "2006-06-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:359512:por",
+     "title": "Portaria n.º 639/2006",
+     "published": "2006-06-23",
+     "dre_path": "/dr/detalhe/portaria/639-2006-359512"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "207577524",
+    "207577525",
+    "207577526",
+    "207577527",
+    "207577528",
+    "207577529",
+    "207577530",
+    "207577531",
+    "207577532",
+    "207577533",
+    "207577534",
+    "207577546",
+    "207577547",
+    "207577537",
+    "207577538",
+    "207577539",
+    "207577540",
+    "207577541"
+   ]
+  },
+  {
+   "date": "2011-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:280956:por",
+     "title": "Portaria n.º 52/2011",
+     "published": "2011-01-27",
+     "dre_path": "/dr/detalhe/portaria/52-2011-280956"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "207577548",
+    "207577549",
+    "207577550",
+    "207577551",
+    "207577552",
+    "207577553",
+    "207577554",
+    "207577555",
+    "207577556",
+    "207577557",
+    "207577558",
+    "207577559",
+    "207577560",
+    "207577561",
+    "207577562",
+    "207577563",
+    "207577564",
+    "207577565"
+   ]
+  }
+ ],
+ "fragments": {
+  "207577548": {
+   "fragment_id": "207577600",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2011-02-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 38/2006\n\nde 6 de Janeiro\n\nO Decreto-Lei n.º 309/2003, de 10 de Dezembro, que criou a Entidade Reguladora da Saúde (ERS), prevê o pagamento de contribuições e taxas por parte das entidades nele referidas, tendo a Portaria n.º 310/2005, de 23 de Março, regulado a obrigatoriedade de registo e a efectivação do dever de pagamento, bem como os critérios e o cálculo atinentes àquelas.\n\nEsta portaria implica, para as entidades abrangidas, um custo excessivo, quer em termos de processo administrativo, demasiadamente burocrático, quer em termos de taxas devidas, cujo valor é manifestamente elevado. Adicionalmente, não respeita os princípios de justiça e equidade, já que trata de forma diferente os operadores do sistema de saúde quanto ao valor das taxas a pagar, e prevê o pagamento de uma «taxa pelos serviços prestados» cuja contrapartida não é clara.\n\nPor outro lado, de acordo com o Programa do XVII Governo Constitucional, será necessário adaptar a ERS às funções de regulação da concorrência na saúde e dotá-la de meios necessários, o que só poderá acontecer com a alteração do Decreto-Lei n.º 309/2003, de 10 de Dezembro. Até lá, e tendo em atenção o prazo previsto na Portaria n.º 310/2005, de 23 de Março, importa reconhecer as falhas desta e abolir o diploma do nosso sistema jurídico, eliminando assim encargos desajustados para os prestadores de cuidados de saúde sem, contudo, olvidar a necessidade de regulamentação dos critérios e cálculos das contribuições e taxas, conforme consta do supracitado Decreto-Lei n.º 309/2003, de 10 de Dezembro.\n\nOra, sendo o conhecimento do universo dos regulados uma condição imprescindível para que a ERS possa exercer devidamente as funções de regulação, supervisão e acompanhamento da actividade dos estabelecimentos, instituições e serviços prestadores de cuidados de saúde, atribuídas pelo seu diploma criador, e independentemente de se prever a revisão da configuração exacta destas funções a curto prazo, urge regulamentar imediatamente o processo de registo, deixando-se para um momento ulterior a regulamentação das restantes taxas previstas no Decreto-Lei n.º 309/2003, de 10 de Dezembro, após a revisão prevista deste diploma.\n\nO processo de registo é, em qualquer caso, indispensável para que a ERS conheça todos os seus regulados, que estão sujeitos a direitos e deveres idênticos, independentemente da sua natureza jurídica.\n\nO registo é efectuado não só no interesse público mas também no interesse do próprio operador, uma vez que parte da informação sujeita a registo é divulgada publicamente online, constituindo o registo uma forma de reconhecimento público do operador e um factor de segurança acrescida para os próprios utentes da saúde. Os procedimentos para a efectivação e alteração do registo são simplificados, reduzindo-se ao mínimo a circulação de papel, mas efectuados de forma segura e reservada. As taxas aplicáveis às entidades sujeitas a registo são cobradas como contrapartida de um serviço prestado pela ERS, nomeadamente a criação do registo e a sua manutenção, e visam suportar os custos da criação e actualização do registo, da emissão das respectivas certidões, da manutenção da infra-estrutura informática de registo e publicitação e da fiscalização dos elementos declarados pelos regulados aquando do registo e da(s) sua(s) actualização(ões), sem pôr em causa a capacidade de a ERS se financiar através de receitas próprias e sem retirar dignidade ao próprio acto de registo.\n\nAssim:\n\nDe harmonia com o disposto no n.º 3 do artigo 54.º do Decreto-Lei n.º 309/2003, de 10 de Dezembro, manda o Governo, pelo Ministro da Saúde, o seguinte:"
+  },
+  "207577525": {
+   "fragment_id": "207577601",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "207577526": {
+   "fragment_id": "207577602",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma estabelece as regras do registo obrigatório e do pagamento das correspondentes taxas a que estão sujeitos os operadores previstos no artigo 8.º do Decreto-Lei n.º 309/2003, de 10 de Dezembro, e define os critérios e cálculos das taxas de registo."
+  },
+  "207577527": {
+   "fragment_id": "207577603",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do disposto no presente diploma, entende-se por:\n\na) «Inscrição» a criação de um número de registo, atribuído pela Entidade Reguladora da Saúde (ERS);\n\nb) «Registo» a identificação actualizada das entidades no sistema de informação da ERS, incluindo os averbamentos a que haja lugar;\n\nc) «Entidade» pessoa singular ou colectiva que tutela, gere ou detém estabelecimento onde são prestados cuidados de saúde;\n\nd) «Estabelecimento» toda a instalação, de carácter fixo e permanente, onde seja exercida, de modo habitual e profissional, a actividade de prestação de cuidados de saúde;\n\ne) «Serviço» a unidade funcional que presta cuidados de saúde específicos no estabelecimento."
+  },
+  "207577528": {
+   "fragment_id": "207577604",
+   "type": 1,
+   "heading": "Capítulo II — Supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Supervisão"
+  },
+  "207577529": {
+   "fragment_id": "207577605",
+   "type": 11,
+   "heading": "Artigo 3.º — Obrigatoriedade do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Obrigatoriedade do registo\n\n1 - Estão obrigadas a requerer o registo todas as entidades abrangidas pelo artigo 1.º do presente diploma.\n\n2 - As entidades que já exerçam a sua actividade no momento da entrada em vigor da presente portaria devem requerer o respectivo registo até 30 de Junho de 2006, sob pena de aplicação das medidas e sanções legalmente previstas.\n\n3 - As entidades que iniciem a sua actividade após a entrada em vigor desta portaria devem proceder ao registo no prazo de 90 dias corridos contados a partir da data da sua constituição."
+  },
+  "207577530": {
+   "fragment_id": "207577606",
+   "type": 11,
+   "heading": "Artigo 4.º — Elementos sujeitos a registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Elementos sujeitos a registo\n\n1 - Estão sujeitos a registo obrigatório todos os elementos considerados, pela ERS, como relevantes para uma correcta identificação dos operadores, nomeadamente:\n\na) Identificação completa da entidade;\n\nb) Acto constitutivo da entidade;\n\nc) Identificação dos titulares das participações sociais da entidade;\n\nd) Corpos sociais da entidade;\n\ne) Identificação dos diversos estabelecimentos detidos ou coordenados pela entidade;\n\nf) Identificação dos responsáveis técnicos dos estabelecimentos e seus serviços;\n\ng) Contratos de gestão, acordos e convenções, em que cada entidade e ou os seus estabelecimentos estejam envolvidos.\n\n2 - As pessoas singulares estão dispensadas dos elementos constantes das alíneas b), c), d) e f) do número anterior."
+  },
+  "207577531": {
+   "fragment_id": "207577607",
+   "type": 11,
+   "heading": "Artigo 5.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Inscrição\n\n1 - O registo é suportado e processar-se-á no website da ERS, e os procedimentos para a sua efectivação, após a atribuição à entidade de um acesso personalizado, seguro e confidencial, iniciam-se com o preenchimento do formulário de inscrição nele disponível.\n\n2 - Todos os documentos comprovativos dos elementos constantes do formulário devem estar disponíveis, a todo o momento, para consulta da ERS.\n\n3 - A ERS pode solicitar informação adicional, sempre que tal for julgado oportuno.\n\n4 - Após a recepção do formulário de inscrição e o pagamento da respectiva taxa, deve a ERS, no prazo de 30 dias corridos, proferir despacho de rejeição do pedido sempre que o mesmo não preencha as condições exigidas.\n\n5 - Findo o prazo referido no número anterior, sem despacho de rejeição por parte da ERS, o registo transforma-se automaticamente em efectivo.\n\n6 - Sempre que seja necessário recolher informação de entidades externas à ERS, incluindo da própria entidade a registar, ou qualquer outro tipo de diligência, tal facto será comunicado a esta entidade, reiniciando-se a contagem do prazo do n.º 4 supra."
+  },
+  "207577532": {
+   "fragment_id": "207577608",
+   "type": 11,
+   "heading": "Artigo 6.º — Gestão e manutenção do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Gestão e manutenção do registo\n\n1 - Os elementos constantes do registo serão disponibilizados pela ERS para consulta pública no seu website, com excepção daqueles que por esta não sejam considerados de interesse público.\n\n2 - Sempre que ocorrerem alterações em qualquer dos elementos das entidades registadas que tenham reflexo no registo na ERS, estão aquelas obrigadas a proceder à alteração do registo, nos 30 dias corridos seguintes, nos termos previstos no artigo 5.º do presente diploma.\n\n3 - Cabe à ERS, no interesse dos utentes e dos operadores referidos no artigo 1.º da presente portaria, garantir a actualização do registo obrigatório, tomando todas as medidas necessárias à prossecução deste objectivo.\n\n4 - No cumprimento do disposto no número anterior, a ERS pode proceder ao cancelamento do registo que não reúna as condições exigidas, após a notificação da entidade e subsistindo a falta desta, uma vez decorrido o prazo de 15 dias corridos."
+  },
+  "207577533": {
+   "fragment_id": "207577609",
+   "type": 11,
+   "heading": "Artigo 7.º — Certidão comprovativa do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Certidão comprovativa do registo\n\n1 - Todas as entidades registadas deverão afixar, em cada um dos seus estabelecimentos, em local público e bem visível, certidão comprovativa do registo com os elementos referidos no n.º 1 do artigo anterior.\n\n2 - As entidades registadas podem obter as certidões referidas no número anterior a partir da aplicação informática que suporta os registos na ERS, sem qualquer custo adicional."
+  },
+  "207577534": {
+   "fragment_id": "207577610",
+   "type": 1,
+   "heading": "Capítulo III — Taxas de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Taxas de registo"
+  },
+  "207577535": {
+   "fragment_id": "207577611",
+   "type": 11,
+   "heading": "Artigo 8.º — Taxas de inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Taxas de inscrição\n\n1 - No acto de inscrição as entidades estão sujeitas ao pagamento de uma taxa calculada segundo a fórmula TI = (euro) 900 + (euro) 25 x NTS, com um limite mínimo de (euro) 1000 e um limite máximo de (euro) 50000, sendo TI a taxa de inscrição e NTS o número de técnicos de saúde da entidade proponente no momento da inscrição.\n\n2 - Para os efeitos do disposto no número anterior, consideram-se técnicos de saúde os médicos, médicos dentistas, enfermeiros e técnicos de diagnóstico e terapêutica que exerçam actividades remuneradas nos estabelecimentos da entidade proponente, independentemente da natureza jurídica do vínculo de cada um daqueles profissionais com a entidade.\n\n3 - O pagamento da taxa é efectuado no momento da inscrição, segundo as instruções constantes do formulário, emitindo a ERS o competente recibo de quitação.\n\n4 - Não sendo processado o pagamento no acto da inscrição, o registo é considerado como inexistente, sendo os dados eliminados do sistema."
+  },
+  "207577536": {
+   "fragment_id": "207577612",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxas de manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Taxas de manutenção\n\n1 - Pelos serviços de gestão, manutenção e publicidade do registo, consagrados no artigo 6.º deste diploma, e de emissão das certidões previstas no artigo 7.º, as entidades registadas deverão pagar uma taxa anual calculada segundo a fórmula TM = (euro) 450 + (euro) 12,50 x NMTS, com um limite mínimo de (euro) 500 e um limite máximo de (euro) 25000, sendo TM a taxa de manutenção do registo e NMTS o número médio anual de técnicos de saúde, definidos no n.º 2 do artigo 8.º, correspondente à média aritmética simples do número de técnicos de saúde dos estabelecimentos da entidade registada no final de cada mês do ano civil anterior ao do pagamento.\n\n2 - O primeiro pagamento desta taxa vence-se 12 meses após o registo.\n\n3 - No dia seguinte ao da data de vencimento do pagamento referido no número anterior, a entidade é notificada para proceder ao mesmo; caso a falta subsista decorridos que sejam 60 dias corridos, o registo é automaticamente cancelado.\n\n4 - Para os anos consecutivos, aplicam-se as regras previstas nos números anteriores."
+  },
+  "207577537": {
+   "fragment_id": "207577613",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções\n\n1 - O não cumprimento da obrigação de registo, prevista no artigo 3.º do presente diploma, constitui contra-ordenação nos termos do disposto na alínea c) do n.º 1 do artigo 43.º do Decreto-Lei n.º 309/2003, de 10 de Dezembro, sancionável com a coima máxima constante do n.º 2 do artigo 44.º do mesmo normativo, sem prejuízo de outras sanções previstas na lei.\n\n2 - Sem prejuízo do previsto no número seguinte, as falsas declarações proferidas no âmbito do registo constituem infracção de natureza criminal, punível nos termos da lei geral, e implicam a nulidade do registo.\n\n3 - O não cumprimento do disposto no n.º 2 dos artigos 5.º e 6.º do presente diploma constitui contra-ordenação nos termos do disposto na alínea d) do n.º 1 do artigo 43.º do Decreto-Lei n.º 309/2003, de 10 de Dezembro, punível nos termos do n.º 2 do artigo 44.º do mesmo diploma."
+  },
+  "207577538": {
+   "fragment_id": "207577614",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "207577539": {
+   "fragment_id": "207577615",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogada a Portaria n.º 310/2005, de 23 de Março."
+  },
+  "207577540": {
+   "fragment_id": "207577616",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "207577524": {
+   "fragment_id": "207577600",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 38/2006\n\nde 6 de Janeiro\n\nO Decreto-Lei n.º 309/2003, de 10 de Dezembro, que criou a Entidade Reguladora da Saúde (ERS), prevê o pagamento de contribuições e taxas por parte das entidades nele referidas, tendo a Portaria n.º 310/2005, de 23 de Março, regulado a obrigatoriedade de registo e a efectivação do dever de pagamento, bem como os critérios e o cálculo atinentes àquelas.\n\nEsta portaria implica, para as entidades abrangidas, um custo excessivo, quer em termos de processo administrativo, demasiadamente burocrático, quer em termos de taxas devidas, cujo valor é manifestamente elevado. Adicionalmente, não respeita os princípios de justiça e equidade, já que trata de forma diferente os operadores do sistema de saúde quanto ao valor das taxas a pagar, e prevê o pagamento de uma «taxa pelos serviços prestados» cuja contrapartida não é clara.\n\nPor outro lado, de acordo com o Programa do XVII Governo Constitucional, será necessário adaptar a ERS às funções de regulação da concorrência na saúde e dotá-la de meios necessários, o que só poderá acontecer com a alteração do Decreto-Lei n.º 309/2003, de 10 de Dezembro. Até lá, e tendo em atenção o prazo previsto na Portaria n.º 310/2005, de 23 de Março, importa reconhecer as falhas desta e abolir o diploma do nosso sistema jurídico, eliminando assim encargos desajustados para os prestadores de cuidados de saúde sem, contudo, olvidar a necessidade de regulamentação dos critérios e cálculos das contribuições e taxas, conforme consta do supracitado Decreto-Lei n.º 309/2003, de 10 de Dezembro.\n\nOra, sendo o conhecimento do universo dos regulados uma condição imprescindível para que a ERS possa exercer devidamente as funções de regulação, supervisão e acompanhamento da actividade dos estabelecimentos, instituições e serviços prestadores de cuidados de saúde, atribuídas pelo seu diploma criador, e independentemente de se prever a revisão da configuração exacta destas funções a curto prazo, urge regulamentar imediatamente o processo de registo, deixando-se para um momento ulterior a regulamentação das restantes taxas previstas no Decreto-Lei n.º 309/2003, de 10 de Dezembro, após a revisão prevista deste diploma.\n\nO processo de registo é, em qualquer caso, indispensável para que a ERS conheça todos os seus regulados, que estão sujeitos a direitos e deveres idênticos, independentemente da sua natureza jurídica.\n\nO registo é efectuado não só no interesse público mas também no interesse do próprio operador, uma vez que parte da informação sujeita a registo é divulgada publicamente online, constituindo o registo uma forma de reconhecimento público do operador e um factor de segurança acrescida para os próprios utentes da saúde. Os procedimentos para a efectivação e alteração do registo são simplificados, reduzindo-se ao mínimo a circulação de papel, mas efectuados de forma segura e reservada. As taxas aplicáveis às entidades sujeitas a registo são cobradas como contrapartida de um serviço prestado pela ERS, nomeadamente a criação do registo e a sua manutenção, e visam suportar os custos da criação e actualização do registo, da emissão das respectivas certidões, da manutenção da infra-estrutura informática de registo e publicitação e da fiscalização dos elementos declarados pelos regulados aquando do registo e da(s) sua(s) actualização(ões), sem pôr em causa a capacidade de a ERS se financiar através de receitas próprias e sem retirar dignidade ao próprio acto de registo.\n\nAssim:\n\nDe harmonia com o disposto no n.º 3 do artigo 54.º do Decreto-Lei n.º 309/2003, de 10 de Dezembro, manda o Governo, pelo Ministro da Saúde, o seguinte:"
+  },
+  "207577546": {
+   "fragment_id": "207577611",
+   "type": 11,
+   "heading": "Artigo 8.º — Taxas de inscrição",
+   "in_force_from": "2006-06-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 639/2006 - Diário da República n.º 120/2006, Série I-B de 2006-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/639-2006-359512), em vigor a partir de 2006-06-24"
+   ],
+   "markdown": "###### Artigo 8.º — Taxas de inscrição\n\n1 - Sem prejuízo do disposto no n.º 4, no acto de inscrição, as entidades estão sujeitas ao pagamento de uma taxa calculada segundo a fórmula TI = (euro) 900 + (euro) 25 x NTS, com um limite mínimo de (euro) 1000, e um limite máximo de (euro) 50000, sendo TI a taxa de inscrição e NTS o número de técnicos de saúde da entidade proponente no momento da inscrição.\n\n2 - Para os efeitos do disposto no número anterior, consideram-se técnicos de saúde os médicos, médicos dentistas, enfermeiros, farmacêuticos e técnicos de diagnóstico e terapêutica que exerçam actividade remunerada na entidade proponente, independentemente da natureza do vínculo jurídico de cada um daqueles profissionais com a entidade.\n\n3 - Os técnicos de saúde que exerçam a sua actividade nas farmácias hospitalares não são considerados para os efeitos previstos nos números anteriores.\n\n4 - A taxa de inscrição é reduzida para o valor de (euro) 200 no caso de profissionais liberais e associações de doentes legalmente reconhecidas que, comprovadamente, prestem cuidados de saúde em estabelecimento próprio e em regime de tempo parcial.\n\n5 - O pagamento da taxa é efectuado no momento da inscrição, segundo as instruções constantes do formulário, emitindo a ERS o competente recibo de quitação.\n\n6 - Não sendo processado o pagamento no acto da inscrição, o registo é considerado como inexistente, sendo os dados eliminados do sistema.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 639/2006 - Diário da República n.º 120/2006, Série I-B de 2006-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/639-2006-359512), em vigor a partir de 2006-06-24"
+  },
+  "207577547": {
+   "fragment_id": "207577612",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxas de manutenção",
+   "in_force_from": "2006-06-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 639/2006 - Diário da República n.º 120/2006, Série I-B de 2006-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/639-2006-359512), em vigor a partir de 2006-06-24"
+   ],
+   "markdown": "###### Artigo 9.º — Taxas de manutenção\n\n1 - Pelos serviços de gestão, manutenção e publicidade do registo, consagrados no artigo 6.º deste diploma, e de emissão das certidões previstas no artigo 7.º, as entidades registadas deverão pagar uma taxa anual calculada segundo a fórmula TM = (euro) 450 + (euro) 12,50 x NMTS, com um limite mínimo de (euro) 500 e um limite máximo de (euro) 25000, sendo TM a taxa de manutenção do registo e NMTS o número médio anual de técnicos de saúde, definidos no n.º 2 do artigo 8.º, correspondente à média aritmética simples do número de técnicos de saúde dos estabelecimentos da entidade registada no final de cada mês do ano civil anterior ao do pagamento.\n\n2 - A taxa referida no número anterior é reduzida para (euro) 100 no caso de profissionais liberais e associações de doentes legalmente reconhecidas que, comprovadamente, prestem cuidados de saúde em estabelecimento próprio e em regime de tempo parcial.\n\n3 - O primeiro pagamento desta taxa vence-se 12 meses após o registo.\n\n4 - No dia seguinte ao da data de vencimento do pagamento referido no número anterior, a entidade é notificada para proceder ao mesmo; caso a falta subsista decorridos que sejam 60 dias corridos, o registo é automaticamente cancelado.\n\n5 - Para os anos consecutivos, aplicam-se as regras previstas nos números anteriores.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 639/2006 - Diário da República n.º 120/2006, Série I-B de 2006-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/639-2006-359512), em vigor a partir de 2006-06-24"
+  },
+  "207577541": {
+   "fragment_id": "207577617",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Saúde, António Fernando Correia de Campos, em 14 de Dezembro de 2005."
+  },
+  "207577549": {
+   "fragment_id": "207577601",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577550": {
+   "fragment_id": "207577602",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma estabelece as regras do registo obrigatório e do pagamento das correspondentes taxas a que estão sujeitos os operadores previstos no artigo 8.º do Decreto-Lei n.º 309/2003, de 10 de Dezembro, e define os critérios e cálculos das taxas de registo.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577551": {
+   "fragment_id": "207577603",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos do disposto no presente diploma, entende-se por:\n\na) «Inscrição» a criação de um número de registo, atribuído pela Entidade Reguladora da Saúde (ERS);\n\nb) «Registo» a identificação actualizada das entidades no sistema de informação da ERS, incluindo os averbamentos a que haja lugar;\n\nc) «Entidade» pessoa singular ou colectiva que tutela, gere ou detém estabelecimento onde são prestados cuidados de saúde;\n\nd) «Estabelecimento» toda a instalação, de carácter fixo e permanente, onde seja exercida, de modo habitual e profissional, a actividade de prestação de cuidados de saúde;\n\ne) «Serviço» a unidade funcional que presta cuidados de saúde específicos no estabelecimento.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577552": {
+   "fragment_id": "207577604",
+   "type": 1,
+   "heading": "Capítulo II — Supervisão",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "### Capítulo II — Supervisão\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577553": {
+   "fragment_id": "207577605",
+   "type": 11,
+   "heading": "Artigo 3.º — Obrigatoriedade do registo",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "###### Artigo 3.º — Obrigatoriedade do registo\n\n1 - Estão obrigadas a requerer o registo todas as entidades abrangidas pelo artigo 1.º do presente diploma.\n\n2 - As entidades que já exerçam a sua actividade no momento da entrada em vigor da presente portaria devem requerer o respectivo registo até 30 de Junho de 2006, sob pena de aplicação das medidas e sanções legalmente previstas.\n\n3 - As entidades que iniciem a sua actividade após a entrada em vigor desta portaria devem proceder ao registo no prazo de 90 dias corridos contados a partir da data da sua constituição.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577554": {
+   "fragment_id": "207577606",
+   "type": 11,
+   "heading": "Artigo 4.º — Elementos sujeitos a registo",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "###### Artigo 4.º — Elementos sujeitos a registo\n\n1 - Estão sujeitos a registo obrigatório todos os elementos considerados, pela ERS, como relevantes para uma correcta identificação dos operadores, nomeadamente:\n\na) Identificação completa da entidade;\n\nb) Acto constitutivo da entidade;\n\nc) Identificação dos titulares das participações sociais da entidade;\n\nd) Corpos sociais da entidade;\n\ne) Identificação dos diversos estabelecimentos detidos ou coordenados pela entidade;\n\nf) Identificação dos responsáveis técnicos dos estabelecimentos e seus serviços;\n\ng) Contratos de gestão, acordos e convenções, em que cada entidade e ou os seus estabelecimentos estejam envolvidos.\n\n2 - As pessoas singulares estão dispensadas dos elementos constantes das alíneas b), c), d) e f) do número anterior.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577555": {
+   "fragment_id": "207577607",
+   "type": 11,
+   "heading": "Artigo 5.º — Inscrição",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "###### Artigo 5.º — Inscrição\n\n1 - O registo é suportado e processar-se-á no website da ERS, e os procedimentos para a sua efectivação, após a atribuição à entidade de um acesso personalizado, seguro e confidencial, iniciam-se com o preenchimento do formulário de inscrição nele disponível.\n\n2 - Todos os documentos comprovativos dos elementos constantes do formulário devem estar disponíveis, a todo o momento, para consulta da ERS.\n\n3 - A ERS pode solicitar informação adicional, sempre que tal for julgado oportuno.\n\n4 - Após a recepção do formulário de inscrição e o pagamento da respectiva taxa, deve a ERS, no prazo de 30 dias corridos, proferir despacho de rejeição do pedido sempre que o mesmo não preencha as condições exigidas.\n\n5 - Findo o prazo referido no número anterior, sem despacho de rejeição por parte da ERS, o registo transforma-se automaticamente em efectivo.\n\n6 - Sempre que seja necessário recolher informação de entidades externas à ERS, incluindo da própria entidade a registar, ou qualquer outro tipo de diligência, tal facto será comunicado a esta entidade, reiniciando-se a contagem do prazo do n.º 4 supra.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577556": {
+   "fragment_id": "207577608",
+   "type": 11,
+   "heading": "Artigo 6.º — Gestão e manutenção do registo",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "###### Artigo 6.º — Gestão e manutenção do registo\n\n1 - Os elementos constantes do registo serão disponibilizados pela ERS para consulta pública no seu website, com excepção daqueles que por esta não sejam considerados de interesse público.\n\n2 - Sempre que ocorrerem alterações em qualquer dos elementos das entidades registadas que tenham reflexo no registo na ERS, estão aquelas obrigadas a proceder à alteração do registo, nos 30 dias corridos seguintes, nos termos previstos no artigo 5.º do presente diploma.\n\n3 - Cabe à ERS, no interesse dos utentes e dos operadores referidos no artigo 1.º da presente portaria, garantir a actualização do registo obrigatório, tomando todas as medidas necessárias à prossecução deste objectivo.\n\n4 - No cumprimento do disposto no número anterior, a ERS pode proceder ao cancelamento do registo que não reúna as condições exigidas, após a notificação da entidade e subsistindo a falta desta, uma vez decorrido o prazo de 15 dias corridos.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577557": {
+   "fragment_id": "207577609",
+   "type": 11,
+   "heading": "Artigo 7.º — Certidão comprovativa do registo",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "###### Artigo 7.º — Certidão comprovativa do registo\n\n1 - Todas as entidades registadas deverão afixar, em cada um dos seus estabelecimentos, em local público e bem visível, certidão comprovativa do registo com os elementos referidos no n.º 1 do artigo anterior.\n\n2 - As entidades registadas podem obter as certidões referidas no número anterior a partir da aplicação informática que suporta os registos na ERS, sem qualquer custo adicional.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577558": {
+   "fragment_id": "207577610",
+   "type": 1,
+   "heading": "Capítulo III — Taxas de registo",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "### Capítulo III — Taxas de registo\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577559": {
+   "fragment_id": "207577611",
+   "type": 11,
+   "heading": "Artigo 8.º — Taxas de inscrição",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 639/2006 - Diário da República n.º 120/2006, Série I-B de 2006-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/639-2006-359512), em vigor a partir de 2006-06-24"
+   ],
+   "markdown": "###### Artigo 8.º — Taxas de inscrição\n\n1 - Sem prejuízo do disposto no n.º 4, no acto de inscrição, as entidades estão sujeitas ao pagamento de uma taxa calculada segundo a fórmula TI = (euro) 900 + (euro) 25 x NTS, com um limite mínimo de (euro) 1000, e um limite máximo de (euro) 50000, sendo TI a taxa de inscrição e NTS o número de técnicos de saúde da entidade proponente no momento da inscrição.\n\n2 - Para os efeitos do disposto no número anterior, consideram-se técnicos de saúde os médicos, médicos dentistas, enfermeiros, farmacêuticos e técnicos de diagnóstico e terapêutica que exerçam actividade remunerada na entidade proponente, independentemente da natureza do vínculo jurídico de cada um daqueles profissionais com a entidade.\n\n3 - Os técnicos de saúde que exerçam a sua actividade nas farmácias hospitalares não são considerados para os efeitos previstos nos números anteriores.\n\n4 - A taxa de inscrição é reduzida para o valor de (euro) 200 no caso de profissionais liberais e associações de doentes legalmente reconhecidas que, comprovadamente, prestem cuidados de saúde em estabelecimento próprio e em regime de tempo parcial.\n\n5 - O pagamento da taxa é efectuado no momento da inscrição, segundo as instruções constantes do formulário, emitindo a ERS o competente recibo de quitação.\n\n6 - Não sendo processado o pagamento no acto da inscrição, o registo é considerado como inexistente, sendo os dados eliminados do sistema.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 639/2006 - Diário da República n.º 120/2006, Série I-B de 2006-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/639-2006-359512), em vigor a partir de 2006-06-24"
+  },
+  "207577560": {
+   "fragment_id": "207577612",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxas de manutenção",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 639/2006 - Diário da República n.º 120/2006, Série I-B de 2006-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/639-2006-359512), em vigor a partir de 2006-06-24"
+   ],
+   "markdown": "###### Artigo 9.º — Taxas de manutenção\n\n1 - Pelos serviços de gestão, manutenção e publicidade do registo, consagrados no artigo 6.º deste diploma, e de emissão das certidões previstas no artigo 7.º, as entidades registadas deverão pagar uma taxa anual calculada segundo a fórmula TM = (euro) 450 + (euro) 12,50 x NMTS, com um limite mínimo de (euro) 500 e um limite máximo de (euro) 25000, sendo TM a taxa de manutenção do registo e NMTS o número médio anual de técnicos de saúde, definidos no n.º 2 do artigo 8.º, correspondente à média aritmética simples do número de técnicos de saúde dos estabelecimentos da entidade registada no final de cada mês do ano civil anterior ao do pagamento.\n\n2 - A taxa referida no número anterior é reduzida para (euro) 100 no caso de profissionais liberais e associações de doentes legalmente reconhecidas que, comprovadamente, prestem cuidados de saúde em estabelecimento próprio e em regime de tempo parcial.\n\n3 - O primeiro pagamento desta taxa vence-se 12 meses após o registo.\n\n4 - No dia seguinte ao da data de vencimento do pagamento referido no número anterior, a entidade é notificada para proceder ao mesmo; caso a falta subsista decorridos que sejam 60 dias corridos, o registo é automaticamente cancelado.\n\n5 - Para os anos consecutivos, aplicam-se as regras previstas nos números anteriores.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 639/2006 - Diário da República n.º 120/2006, Série I-B de 2006-06-23](https://diariodarepublica.pt/dr/detalhe/portaria/639-2006-359512), em vigor a partir de 2006-06-24"
+  },
+  "207577561": {
+   "fragment_id": "207577613",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "###### Artigo 10.º — Sanções\n\n1 - O não cumprimento da obrigação de registo, prevista no artigo 3.º do presente diploma, constitui contra-ordenação nos termos do disposto na alínea c) do n.º 1 do artigo 43.º do Decreto-Lei n.º 309/2003, de 10 de Dezembro, sancionável com a coima máxima constante do n.º 2 do artigo 44.º do mesmo normativo, sem prejuízo de outras sanções previstas na lei.\n\n2 - Sem prejuízo do previsto no número seguinte, as falsas declarações proferidas no âmbito do registo constituem infracção de natureza criminal, punível nos termos da lei geral, e implicam a nulidade do registo.\n\n3 - O não cumprimento do disposto no n.º 2 dos artigos 5.º e 6.º do presente diploma constitui contra-ordenação nos termos do disposto na alínea d) do n.º 1 do artigo 43.º do Decreto-Lei n.º 309/2003, de 10 de Dezembro, punível nos termos do n.º 2 do artigo 44.º do mesmo diploma.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577562": {
+   "fragment_id": "207577614",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577563": {
+   "fragment_id": "207577615",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogada a Portaria n.º 310/2005, de 23 de Março.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577564": {
+   "fragment_id": "207577616",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  },
+  "207577565": {
+   "fragment_id": "207577617",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2011-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+   ],
+   "markdown": "O Ministro da Saúde, António Fernando Correia de Campos, em 14 de Dezembro de 2005.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 52/2011 - Diário da República n.º 19/2011, Série I de 2011-01-27](https://diariodarepublica.pt/dr/detalhe/portaria/52-2011-280956), em vigor a partir de 2011-02-01"
+  }
+ }
+}

@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:388396:por
+title: Despacho Normativo n.º 86/81
+short_title: null
+summary: Aprova o modelo do livro de requisição de transportes para uso dos deputados no exercício das suas funções
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Gabinete do Ministro
+proposing_entity: null
+official_number: 86/81
+official_date: null
+publication_date: '1981-03-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/1981, Série I de 1981-03-12
+  number: '59'
+  series: I
+  supplement: null
+  pages: 680 - 680
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/03/05900/06800680.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '388396'
+  dre_path: /dr/detalhe/despacho-normativo/86-1981-388396
+  internal: pt:dre:388396:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/86-1981-388396
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/86-1981-388396
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-03-12T00:00:00Z'
+integrity:
+  source_sha256: 905286e2bab9b8b08bf63afed0ec5aafe872262c2339cb5eab1d1aa28c330654
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-86-388396.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 86/81
+
+Considerando a necessidade de simplificar o sistema de requisição de transportes pelos deputados quando no exercício das suas funções;
+
+Considerando a conveniência em tornar fácil e expedita a apresentação das contas de transportes pelas empresas e a respectiva confirmação e pagamento pelos serviços competentes da Assembleia da República;
+
+Considerando o artigo 12.º da [Lei n.º 5/76](https://diariodarepublica.pt/dr/detalhe/lei/5-1976-408572), de 10 de Setembro, na redacção que lhe foi dada pela [Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/lei/23-1979-382183), de 14 de Julho:
+
+Determino, ouvido o Presidente da Assembleia da República:
+
+1 - É aceite para uso dos deputados no exercício das suas funções, com vista à requisição de transportes, com excepção dos previstos nos n.os 3 e 6 do artigo 12.º da [Lei n.º 23/79](https://diariodarepublica.pt/dr/detalhe/lei/23-1979-382183), de 14 de Julho, o livro com folhas destacáveis do modelo anexo.
+
+2 - As requisições serão feitas pela entrega, devidamente preenchida, da parte destacável aos serviços emissores de bilhetes das empresas transportadoras, mediante a exibição do cartão especial de identificação de deputados.
+
+3 - Até ao último dia do mês seguinte àquele em que o transporte é requisitado, podem as empresas entregar nos serviços financeiros da Direcção-Geral dos Serviços Parlamentares da Assembleia da República as facturas, acompanhadas das requisições recebidas, para efeitos de controle e reembolso.
+
+Ministério dos Transportes e Comunicações, 3 de Fevereiro de 1981. - O Ministro dos Transportes e Comunicações, José Carlos Pinto Soromenho Viana Baptista.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/03/05900/06800680.pdf))](https://files.diariodarepublica.pt/1s/1981/03/05900/06800680.pdf)

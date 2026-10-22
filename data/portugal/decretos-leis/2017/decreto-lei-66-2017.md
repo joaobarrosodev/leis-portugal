@@ -1,0 +1,342 @@
+---
+schema_version: '1.0'
+id: pt:dre:107507171:por
+title: Decreto-Lei n.º 66/2017
+short_title: null
+summary: Estabelece o regime jurídico de reconhecimento das entidades de gestão florestal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Agricultura, Florestas e Desenvolvimento Rural
+proposing_entity: null
+official_number: 66/2017
+official_date: null
+publication_date: '2017-06-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/2017, Série I de 2017-06-12
+  number: '113'
+  series: I
+  supplement: null
+  pages: 2977 - 2979
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11300/0297702979.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-12-24'
+version_history:
+  file: decreto-lei-66-2017.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2017-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-12-24'
+    amending: pt:dre:114380262:por
+    amending_title: Lei n.º 111/2017
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 13.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Revoga Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/66/2017/p/cons/20171219/pt/html
+  oj: null
+  dre: '107507171'
+  dre_path: /dr/detalhe/decreto-lei/66-2017-107507171
+  internal: pt:dre:107507171:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2017-107507171
+  metadata_url: https://data.dre.pt/eli/dec-lei/66/2017/p/cons/20171219/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-107516482
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-107516482
+  retrieved_at: '2026-10-22T12:11:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6a39a025d7d84522e658aa12413d266d911a73e30ae73d458788e64203857e66
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:11:41Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-66-2017.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Regime Florestal
+- Definição de Competências
+- Arborização
+- Proteção da Floresta
+- Gestão Agrícola
+- Incentivos Fiscais
+- Instituto da Conservação da Natureza e das Florestas
+- Ordenamento Florestal
+- Plano de Gestão Florestal
+- Exploração Florestal
+- Plano Regional de Ordenamento Florestal
+- Madeira.região Autónoma
+- Política Florestal
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:114380262:por
+  label: Adita Artigo 6.º-A; Adita Artigo 13.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Revoga
+    Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262
+  date: '2017-12-19'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+article_structure:
+  article_count: 17
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:11:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 66/2017
+
+Decreto-Lei n.º 66/2017
+
+de 12 de junho
+
+A floresta nacional possui uma indiscutível importância sob diversos prismas, quer em termos económicos, quer em termos sociais e ambientais, encontrando-se contudo recorrentemente ameaçada, na vertente da sustentabilidade da gestão florestal, por agentes bióticos e abióticos nocivos, designadamente pelas pragas e pela extensão e recorrência dos incêndios.
+
+Com vista a combater estes problemas, o XXI Governo Constitucional pretende fomentar a gestão florestal profissional e sustentável, potenciando o aumento da produtividade e da rentabilidade dos ativos florestais e a melhoria do ordenamento dos espaços florestais.
+
+Ciente de que um dos principais entraves ao cumprimento destes objetivos se deve à excessiva fragmentação da propriedade privada, importa criar incentivos à gestão conjunta dos espaços florestais no minifúndio, em condições que não obriguem, necessariamente, à transmissão da propriedade, através de um modelo capaz de proporcionar uma valorização dos ativos florestais e uma rendibilidade adequada quer para os proprietários quer para os produtores florestais.
+
+Em paralelo com a dinamização das zonas de intervenção florestal, importa criar estímulos para que estas organizações associativas evoluam para modelos que promovam a gestão profissional da floresta.
+
+Neste contexto, pretende-se incentivar a adesão dos proprietários florestais a modelos cooperativos ou societários, com gestão profissionalizada, que conciliem a utilização económica dos ativos florestais e os equilíbrios ambientais e sociais.
+
+Para o efeito, o presente decreto-lei vem estabelecer o regime jurídico de reconhecimento de entidades de gestão florestal, criando o enquadramento normativo de suporte destas, cujas características diferenciadoras permitem dar cumprimento aos objetivos definidos pelo XXI Governo Constitucional.
+
+Para efeitos desse reconhecimento é exigida, como forma de garantir a gestão conjunta dos espaços florestais no minifúndio, que uma parte da área gerida seja constituída por prédios rústicos de pequena dimensão. Por outro lado, a profissionalização e valorização da gestão é determinada pela exigência de uma área mínima dos ativos sob gestão, e da certificação florestal desses ativos.
+
+Através do reconhecimento, estas entidades ficam habilitadas a aceder a apoios públicos direcionados, bem como a obter incentivos a nível fiscal e emolumentar.
+
+O presente decreto-lei foi precedido, no período compreendido entre 7 de novembro de 2016 e 31 de janeiro de 2017, de ampla discussão pública.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 33/96, de 17 de agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece o regime jurídico de reconhecimento das entidades de gestão florestal (EGF) e das unidades de gestão florestal (UGF).
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Ativos sob gestão» espaços florestais geridos por EGF, localizados em prédios rústicos, propriedade da EGF, dos seus associados ou de terceiros, cujo direito de uso tenha sido transferido para a EGF, através de contrato escrito;
+
+b) «Espaços florestais» terrenos ocupados com floresta, matos e pastagens ou outras formações vegetais espontâneas, segundo os critérios definidos no Inventário Florestal Nacional, disponível em www.icnf.pt;
+
+c) 'Entidade de gestão florestal' a pessoa coletiva de direito privado, constituída nos termos do Código Cooperativo, do Código Civil, sob a forma de associação com personalidade jurídica, ou do Código das Sociedades Comerciais, sob a forma de sociedade por quotas ou de sociedade anónima, cujo objeto social seja a silvicultura, a gestão e exploração florestais e, no caso das associações, a prestação de serviços aos seus associados nessas áreas;
+
+d) 'Unidade de gestão florestal' a pessoa coletiva de direito privado, constituída nos termos do Código Cooperativo ou do Código Civil, sob a forma de associação com personalidade jurídica, gestora de prédios rústicos contínuos, de área não superior a 50 hectares cada, com uma área territorial mínima de 100 hectares e máxima de 5000 hectares.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 3.º — Objetivos das EGF e das UGF
+
+1 - As EGF visam promover e facilitar a gestão conjunta dos espaços florestais, preferencialmente no minifúndio, segundo os princípios da gestão florestal sustentável, através da constituição de áreas de exploração que permitam proporcionar a valorização e rendibilidade adequada dos ativos.
+
+2 - As UGF visam promover e facilitar a gestão conjunta dos espaços florestais contínuos, preferencialmente no minifúndio e pelos próprios proprietários agregados em cooperativas ou associações, segundo os princípios da gestão florestal sustentável, em áreas que permitam proporcionar a valorização e rendibilidade adequada dos ativos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 4.º — Formas de participação no capital social
+
+1 - A participação no capital social das EGF pode fazer-se através de entradas em espécie ou em dinheiro.
+
+2 - A avaliação dos bens em espécie, designadamente os ativos sob gestão no caso de permuta, segue o disposto no artigo 28.º do Código das Sociedades Comerciais.
+
+###### Artigo 5.º — Área dos ativos sob gestão
+
+1 - Os ativos sob gestão de uma EGF devem ter uma área mínima de 100 hectares.
+
+2 - Os prédios sem dono conhecido identificados como tal na respetiva legislação e disponibilizados no Banco Nacional de Terras, ou os prédios rústicos cujo conjunto tenha uma área média inferior a 5 hectares, devem ocupar, no mínimo, 50 % da área dos ativos sob gestão.
+
+3 - Caso haja lugar a aumento da área de ativos sob gestão que implique a redução da percentagem mencionada no número anterior, a EGF dispõe do prazo de dois anos, após a integração dos novos prédios, para garantir o cumprimento do disposto nesse número.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 6.º — Requisitos de reconhecimento das EGF
+
+1 - Podem ser reconhecidas como EGF as entidades que cumpram os seguintes requisitos:
+
+a) Prossigam os objetivos previstos no n.º 1 do artigo 3.º;
+
+b) Tenham como objeto social a silvicultura, a gestão e exploração florestais e, no caso das associações, a prestação de serviços aos seus associados nessas áreas;
+
+c) Revistam a forma jurídica de cooperativa agrícola, de associação com personalidade jurídica, de sociedade por quotas ou de sociedade anónima;
+
+d)  (Revogada.)
+
+e) Disponham de certificação florestal ou comprometam-se a dispor nos termos referidos no número seguinte e no artigo 8.º;
+
+f) Demonstrem capacidade de gestão adequada aos objetivos a alcançar.
+
+2 - As entidades devem ainda assumir o compromisso, aquando da entrega do pedido de reconhecimento, de promover a certificação florestal dos ativos sob sua gestão.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 6.º-A — Requisitos de reconhecimento das UGF
+
+Podem ser reconhecidas como UGF as entidades que cumpram os seguintes requisitos:
+
+a) Prossigam os objetivos previstos no n.º 2 do artigo 3.º;
+
+b) Tenham como objeto social a silvicultura, gestão e exploração florestais, podendo complementarmente ter como objeto social a agricultura, a pecuária em pastoreio extensivo no sobcoberto do arvoredo florestal e a exploração de outras atividades económicas que não prejudiquem o seu objeto social principal;
+
+c) Revistam a forma jurídica de cooperativa agrícola, criada ao abrigo do Código Cooperativo e do Decreto-Lei n.º 335/99, de 20 de agosto, alterado pelo Decreto-Lei n.º 23/2001, de 30 de janeiro, ou de associação com personalidade jurídica, criada ao abrigo dos artigos 167.º e seguintes do Código Civil;
+
+d) Apresentem ativos sob sua gestão com uma área mínima de 100 hectares e máxima de 5000 hectares de prédios rústicos contínuos, devendo cada um deles ter dimensão igual ou inferior a 50 hectares;
+
+e) Demonstrem capacidade de gestão adequada aos objetivos a alcançar.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 7.º — Procedimento
+
+1 - O pedido de reconhecimento é submetido na plataforma digital referida no artigo 13.º, competindo ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), a análise, decisão e emissão do respetivo certificado.
+
+2 - O procedimento relativo ao reconhecimento como EGF assim como os critérios de avaliação do requisito previsto na alínea f) do n.º 1 do artigo anterior são definidos por portaria do membro do Governo responsável pela área das florestas.
+
+3 - O procedimento relativo ao reconhecimento como UGF assim como os critérios de avaliação do requisito previsto da alínea e) do n.º 1 do artigo 6.º-A são definidos por portaria do membro do Governo responsável pela área das florestas.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 8.º — Certificação florestal
+
+As EGF reconhecidas dispõem de um prazo máximo de cinco anos, a contar da data do seu reconhecimento, para dar início ao processo de certificação florestal, no âmbito dos sistemas de certificação internacionalmente aceites, designadamente do Programme for the Endorsement of Forest Certification (PEFC) ou do Forest Stewardship Council (FSC), devendo obter o respetivo certificado até ao final do sexto ano de reconhecimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 9.º — Incentivos e apoios a atribuir às EGF e às UGF reconhecidas
+
+1 - As EGF e as UGF reconhecidas podem beneficiar de apoios específicos com vista à sua dinamização.
+
+2 - Os instrumentos públicos de apoio financeiro, nacionais ou comunitários, designadamente dos programas de desenvolvimento rural, no âmbito da defesa da floresta contra incêndios e da promoção do investimento, da gestão e do ordenamento florestais, devem incluir cláusulas de discriminação positiva ou majorações para candidaturas apresentadas por EGF ou UGF.
+
+3 - As EGF e as UGF beneficiam também de um regime específico de benefícios fiscais e reduções emolumentares, definido no Estatuto dos Benefícios Fiscais e no Regulamento Emolumentar dos Registos e Notariado.
+
+4 - As UGF beneficiam, cumulativamente, de discriminação positiva, em sede de apoios específicos à sua constituição e em sede de concursos para investimento e gestão florestal, bem como de incentivos fiscais e emolumentares.
+
+5 - Salvo disposição legal em contrário, os benefícios atribuídos às EGF, designadamente os previstos na legislação fiscal, são aplicáveis às UGF, se necessário com as devidas adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 10.º — Deveres de informação
+
+As EGF e as UGF reconhecidas ficam obrigadas a:
+
+a) Comunicar ao ICNF, I. P., no prazo de 15 dias a contar da sua ocorrência, quaisquer alterações aos estatutos, bem como as alterações aos ativos sob gestão;
+
+b) Remeter anualmente ao ICNF, I. P., o comprovativo emitido pela entidade certificadora, respeitante à certificação da sua gestão;
+
+c) Manter e facultar todos os elementos considerados necessários para a verificação do cumprimento dos requisitos de reconhecimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 11.º — Manutenção do reconhecimento
+
+A verificação do cumprimento dos requisitos de reconhecimento previstos no presente decreto-lei é da competência do ICNF, I. P., devendo ser efetuada de dois em dois anos.
+
+###### Artigo 12.º — Revogação do reconhecimento
+
+O reconhecimento como EGF ou como UGF é revogado nos seguintes casos:
+
+a) Incumprimento dos requisitos previstos nos artigos 6.º ou 6.º-A, consoante se trate, respetivamente, de EGF ou de UGF;
+
+b) (Revogada.)
+
+c) Incumprimento dos prazos estabelecidos no artigo 8.º;
+
+d) Incumprimento dos deveres de informação mencionados no artigo 10.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 13.º — Plataforma digital
+
+1 - É criada, no prazo máximo de 60 dias a contar da data de entrada em vigor do presente decreto-lei, a plataforma digital EGF/UGF, cabendo ao ICNF, I. P., a sua gestão e manutenção.
+
+2 - A plataforma, disponível em www.icnf.pt, contempla uma listagem atualizada das EGF e das UGF reconhecidas.
+
+3 - O cumprimento dos deveres de informação previstos no artigo 10.º pode ser efetuado na plataforma digital EGF/UGF.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 13.º-A — Direito de preferência das UGF
+
+As UGF gozam de direito de preferência nas transmissões a título oneroso de prédios rústicos sujeitos à sua gestão, sendo aplicável, com as necessárias adaptações, o disposto nos artigos 416.º a 418.º e 1410.º do Código Civil, sem prejuízo do direito de preferência previsto no artigo 1380.º do mesmo Código.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 111/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/lei/111-2017-114380262), em vigor a partir de 2017-12-24
+
+###### Artigo 14.º — Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências exercidas pelos serviços e organismos das respetivas administrações regionais.
+
+2 - O disposto no número anterior não prejudica a legislação regional especial relativamente ao objeto do presente decreto-lei.
+
+###### Artigo 15.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de março de 2017. - António Luís Santos da Costa - Fernando António Portela Rocha de Andrade - Francisca Eugénia da Silva Dias Van Dunem - Paulo Alexandre dos Santos Ferreira - Luís Manuel Capoulas Santos.
+
+Promulgado em 25 de abril de 2017.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 3 de maio de 2017.
+
+O Primeiro-Ministro, António Luís Santos da Costa.

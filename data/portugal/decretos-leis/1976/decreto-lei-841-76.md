@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:408130:por
+title: Decreto-Lei n.º 841/76
+short_title: null
+summary: Altera o Decreto-Lei n.º 243/76, de 7 de Abril (Inspecção da Polícia Judiciária de Ponta Delgada)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 841/76
+official_date: null
+publication_date: '1976-12-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 284/1976, Série I de 1976-12-06
+  number: '284'
+  series: I
+  supplement: null
+  pages: 2679 - 2680
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/12/28400/26792680.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '408130'
+  dre_path: /dr/detalhe/decreto-lei/841-1976-408130
+  internal: pt:dre:408130:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/841-1976-408130
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/841-1976-408130
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: d25f530f36eaab385d4e1e3d469757d66671def8054afebe4acb88a4b5552508
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-841-408130.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 841/76
+
+de 6 de Dezembro
+
+1. O [Decreto-Lei n.º 243/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1976-502804), de 7 de Abril, no artigo 2.º, n.º 2, excluiu das restrições previstas no artigo 5.º, n.º 1, do [Decreto-Lei n.º 656/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/656-1974-466194), de 23 de Novembro, a admissão do pessoal administrativo e auxiliar destinado às Inspecções da Polícia Judiciária das Regiões Autónomas da Madeira e dos Açores, com vista a facilitar o respectivo recrutamento local.
+
+A redacção daquela disposição terá, porém, de ser actualizada, em virtude de o [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, ter revogado o n.º 1 do citado artigo 5.º e mantido as restrições ao recrutamento de servidores da Administração Pública previstas na legislação anterior.
+
+2. O aumento do movimento processual da Inspecção da Polícia Judiciária de Ponta Delgada, em plena fase de expansão, justifica que o seu quadro administrativo seja dotado de mais um terceiro-oficial.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição o seguinte:
+
+###### Artigo 1.º O n.º 2 do artigo 2.º do [Decreto-Lei n.º 243/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1976-502804), de 7 de Abril, passa a ter a seguinte redacção:
+
+2. O n.º 1 do artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, não é aplicável à admissão de pessoal administrativo e auxiliar destinado às Inspecções da Polícia Judiciária das Regiões Autónomas da Madeira e dos Açores.
+
+###### Art. 2.º O quadro único do pessoal da Polícia Judiciária, constante do mapa anexo ao [Decreto-Lei n.º 481/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/481-1975-307605), de 4 de Setembro, é aumentado de um terceiro-oficial.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares.
+
+**Promulgado em 24 de Novembro de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

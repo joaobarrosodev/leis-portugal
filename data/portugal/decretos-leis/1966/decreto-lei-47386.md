@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:477985:por
+title: Decreto-Lei n.º 47386
+short_title: null
+summary: Autoriza o Governo, pelo Ministério das Finanças, a dar o aval do Estado aos compromissos da Companhia Mineira do
+  Lobito, S. A. R. L., e Sociedade Mineira do Lombige, S. A. R. L., emergentes dos contratos ou convenções de empreitada,
+  de fornecimento ou de serviços e dos contratos de crédito com aqueles correlacionados que as mesmas venham a celebrar para
+  a execução do empreendimento mineiro de Cassinga
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Ultramar
+proposing_entity: null
+official_number: '47386'
+official_date: null
+publication_date: '1966-12-16'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 290/1966, Série I de 1966-12-16
+  number: '290'
+  series: I
+  supplement: null
+  pages: 2218 - 2219
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/12/29000/22182219.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '477985'
+  dre_path: /dr/detalhe/decreto-lei/47386-1966-477985
+  internal: pt:dre:477985:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47386-1966-477985
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47386-1966-477985
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-12-16T00:00:00Z'
+integrity:
+  source_sha256: 7bd8534ee0e799b2fff868c1a538fa758aff658a0b5007447991fd4f40e36f52
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-47386-477985.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 47386
+
+1. Reconhecido o alto interesse, em particular para a província de Angola, do empreendimento mineiro de Cassinga, tem o Governo dispensado o apoio indispensável à sua materialização, mediante uma série de providências tomadas através dos Ministérios das Finanças e do Ultramar.
+
+Nelas se inseriu o [Decreto-Lei n.º 46372](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46372-1965-294898), de 9 de Junho de 1965, que habilitou o Governo a dar o aval do Estado aos compromissos emergentes dos contratos de empreitadas ou de fornecimentos a celebrar com o consórcio promovido pela casa Fried. Krupp para a execução da 1.ª fase do empreendimento, bem como aos contratos de crédito com aqueles relacionados e ainda aos que, em substituição de uns ou outros, se mostrassem de maior interesse para a economia nacional. Como se consignou no preâmbulo daquele diploma, não deixou de se ter presente que, na sua quase totalidade, o apetrechamento em causa ficaria desde logo integrado no património público de Angola.
+
+Está, entretanto, averiguado que as reservas de minério de Cassinga permitem sem dificuldade elevar a exportação à ordem dos 5 milhões de toneladas por ano, limite de capacidade da via actual do caminho de ferro de Moçâmedes. Cuidadosos estudos puseram em evidência as consideráveis vantagens que de múltiplos pontos de vista adviriam da imediata realização do empreendimento com tal dimensão, quer se considerem os problemas da sua rentabilidade económica e solidez financeira, quer o seu valor como fonte de divisas e criador de riqueza ou o seu interesse como factor de povoamento e promoção social.
+
+Estes motivos e as possibilidades de fácil e remuneradora colocação de toda a produção no mercado mundial determinaram o Conselho de Ministros a decidir a imediata execução da 2.ª fase do empreendimento.
+
+2. Na sua nova dimensão o empreendimento já não estará bàsicamente ligado ao contrato geral firmado em 1961 para a execução, a pagamento diferido, da 1.ª fase, como, ainda que com excepções, se admitira no [Decreto-Lei n.º 46372](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46372-1965-294898), de 9 de Junho de 1965. Os termos e condições de financiamento haverão de ser em cada caso objecto de aprovação pelo Governo.
+
+Torna-se, portanto, necessário estabelecer os meios legais requeridos pelo cumprimento da decisão do Conselho de Ministros, mediante a concessão do aval do Estado aos contratos de empreitadas, fornecimentos e serviços e aos correlativos contratos de crédito que pelo Governo vão sendo aprovados para a execução cumulativa da 1.ª e 2.ª fases do projecto mineiro de Cassinga.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º É o Governo autorizado, pelo Ministro das Finanças, a dar o aval do Estado aos compromissos da Companhia Mineira do Lobito, S. A. R. L., e Sociedade Mineira do Lombige, S. A. R. L., emergentes dos contratos ou convenções de empreitada, de fornecimento ou de serviços e dos contratos de crédito com aqueles correlacionados que as mesmas venham a celebrar com prévia aprovação pelo Governo dos respectivos termos e condições para a execução do empreendimento mineiro de Cassinga.
+
+§ 1.º A responsabilidade decorrente para o Estado dos avales prestados não excederá a quantia que corresponder em moeda portuguesa a 2700000 contos, valor em que se inclui o limite autorizado pelo § 1.º do artigo 1.º do [Decreto-Lei n.º 46372](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46372-1965-294898), de 9 de Junho de 1965, acrescida dos juros segundo os esquemas financeiros constantes dos contratos ou convenções de empreitada, de fornecimento ou de serviços ou dos contratos de crédito devidamente aprovados pelo Governo.
+
+§ 2.º Os prazos de utilização dos créditos não excederão dois anos e os financiamentos deverão ficar totalmente reembolsados no prazo máximo de quinze anos, a partir da data de entrada em vigor do correspondente contrato ou convenção.
+
+###### Art. 2.º A garantia será prestada em cada caso por meio de declaração emitida pelo director-geral da Fazenda Pública, precedendo despacho de autorização do Ministro das Finanças.
+
+###### Art. 3.º Observar-se-á o regime seguinte na execução do aval referido nos artigos anteriores:
+
+1.º As empresas beneficiárias do aval, se não puderem efectuar na data do respectivo vencimento e no todo ou em parte qualquer dos pagamentos contratuais garantidos pelo Estado, comunicá-lo-ão ao Ministério das Finanças com a antecedência mínima de 60 dias;
+
+2.º O Ministério das Finanças, no caso de o pagamento não poder ser feito pelas empresas beneficiárias do aval, abrirá os créditos destinados a pagamento total ou parcial pelo Estado;
+
+3.º Serão consideradas empresas beneficiárias a Companhia Mineira do Lobito, S. A. R. L., a Sociedade Mineira do Lombige, S. A. R. L., ou ambas solidàriamente, consoante o Ministro das Finanças o entenda conveniente.
+
+§ 1.º Se, nos termos deste artigo, o Estado houver de fazer qualquer pagamento por força de contratos destinados à execução de obras ou aquisição de equipamentos que fiquem integrados no património da província de Angola desde o início da sua utilização ou ainda à prestação de serviços aos mesmos respeitantes, as importâncias dos créditos daí resultantes podem ser transferidas pelo Ministro das Finanças para a província de Angola, e, neste caso, considerar-se-ão como adiantamentos por conta dos financiamentos que no futuro houvesse de fazer-lhe na execução de planos de fomento aprovados em Conselho de Ministros para os Assuntos Económicos.
+
+§ 2.º Se, nos termos deste artigo, o Estado houver de fazer qualquer pagamento por força de contratos destinados à execução de obras ou aquisição de equipamentos que não fiquem integrados no património da província de Angola desde o início da sua utilização ou ainda à prestação de serviços aos mesmos respeitantes, o Estado poderá, até ao termo do ano seguinte ao pagamento por ele efectuado, transformar o crédito daí resultante em acções da empresa ou empresas beneficiárias determinadas segundo o n.º 3.º deste artigo, devendo as mesmas promover obrigatòriamente e em obediência ao presente diploma as formalidades que forem necessárias.
+
+§ 3.º A faculdade concedida no § 1.º deste artigo ao Ministro das Finanças pode ser exercida com referência aos créditos provenientes dos avales já prestados ao abrigo do [Decreto-Lei n.º 46372](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46372-1965-294898), de 9 de Junho de 1965.
+
+###### Art. 4.º A todos os créditos do Estado, incluindo os transferidos para a província de Angola, resultantes dos avales por aquele prestados ou a prestar, nos termos do [Decreto-Lei n.º 46372](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46372-1965-294898), de 9 de Junho de 1965, e do presente diploma, aplica-se o disposto no artigo 5.º do [Decreto-Lei n.º 43710](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43710-1961-170533), de 24 de Maio de 1961.
+
+###### Art. 5.º Este diploma entra imediatamente em vigor.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 16 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
+
+Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
+
+Para ser presente à Assembleia Nacional.

@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:608203:por
+title: Portaria n.º 325/82
+short_title: null
+summary: Autoriza a Comissão Regional de Turismo do Algarve a declarar de interesse ou sem interesse para o turismo os estabelecimentos
+  hoteleiros e similares a instalar na área do distrito de Faro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria de Estado do Turismo
+proposing_entity: null
+official_number: 325/82
+official_date: null
+publication_date: '1982-03-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 71/1982, Série I de 1982-03-26
+  number: '71'
+  series: I
+  supplement: null
+  pages: 667 - 668
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/03/07100/06670668.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '608203'
+  dre_path: /dr/detalhe/portaria/325-1982-608203
+  internal: pt:dre:608203:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/325-1982-608203
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/325-1982-608203
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-03-26T00:00:00Z'
+integrity:
+  source_sha256: 0e9fb9222e35762061a4b67ceefc977ec0814a5c4815f45280a9243b19ea4027
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-325-608203.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 325/82
+
+de 26 de Março
+
+No quadro da política de regionalização do Governo tem-se vindo a promover, no sector do turismo, a criação de instituições regionais de base intermunicipal dotadas de importante capacidade de decisão autónoma.
+
+Na perspectiva de uma descentralização gradual e realista, decidiu agora a Secretaria de Estado do Turismo delegar na Comissão Regional de Turismo do Algarve algumas das atribuições dos serviços centrais de turismo, como experiência piloto e de ensaio de outras transferências mais alargadas a atribuir no futuro a esta e a outras comissões regionais.
+
+Assim, ao abrigo do disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, e no n.º 2 do artigo 1.º, com a redacção dada pela [Lei n.º 13/81](https://diariodarepublica.pt/dr/detalhe/lei/13-1981-579352), de 17 de Outubro, e na alínea e) do artigo 4.º do [Decreto-Lei n.º 488/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/488-1980-462588), de 17 de Outubro:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Turismo, o seguinte:
+
+1.º A Comissão Regional de Turismo do Algarve poderá declarar de interesse ou sem interesse para o turismo, nos termos do artigo 6.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, os estabelecimentos hoteleiros e similares a instalar na área do distrito de Faro, sem prejuízo do disposto no artigo 3.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro.
+
+2.º Declarados de interesse para o turismo os estabelecimentos a que se refere o artigo 33.º do [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), a Comissão Regional de Turismo do Algarve remeterá os processos às respectivas câmaras municipais, quando nelas tiver sido delegada a competência da Secretaria de Estado do Turismo, para efeitos de aprovação da localização, anteprojecto ou projecto.
+
+3.º Nos restantes casos, será dado cumprimento ao disposto no artigo 3.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro.
+
+4.º A Comissão Regional de Turismo do Algarve poderá igualmente licenciar, acompanhar, vistoriar e fiscalizar os estabelecimentos hoteleiros de 1 e 2 estrelas e, bem assim, os estabelecimentos similares de 2.ª e 3.ª categorias, sem prejuízo do disposto nos artigos 2.º, 3.º, 16.º e seguintes do [Decreto-Lei n.º 74/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1971-445505), de 17 de Março.
+
+5.º O disposto nos n.os 1.º e 4.º não dispensará a subsequente comunicação à Direcção-Geral do Turismo.
+
+6.º Para efeitos do disposto nos números anteriores, o pessoal do quadro da Comissão Regional de Turismo do Algarve deverá ser submetido à realização de estágios prévios, em termos a definir por despacho do Secretário de Estado do Turismo.
+
+7.º A presente portaria entra em vigor com o diploma que proceder à aprovação do quadro do pessoal da Comissão Regional de Turismo do Algarve.
+
+Secretaria de Estado do Turismo, 9 de Março de 1982. - O Secretário de Estado do Turismo, Luís Fernando Cardoso Nandim de Carvalho.

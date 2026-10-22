@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:365749:por
+title: Decreto-Lei n.º 519/79
+short_title: null
+summary: Autoriza o Gabinete da Área de Sines a cobrar taxas pelo fornecimento de água às empresas e aos particulares instalados
+  na zona
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios da Coordenação Económica e do Plano e da Habitação e Obras Públicas
+proposing_entity: null
+official_number: 519/79
+official_date: null
+publication_date: '1979-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 298/1979, Série I de 1979-12-28
+  number: '298'
+  series: I
+  supplement: null
+  pages: 3409 - 3409
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/29800/34093409.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '365749'
+  dre_path: /dr/detalhe/decreto-lei/519-1979-365749
+  internal: pt:dre:365749:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1979-365749
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-1979-365749
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-08-20T00:00:00Z'
+integrity:
+  source_sha256: fc78004abe244055069f3b1e85d6bb5faf4a674337d18c43c40d0039b5f2831e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-519-365749.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:397542:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 519/79
+
+de 28 de Dezembro
+
+No desempenho das suas atribuições, visando o desenvolvimento urbano-industrial da zona, tem o Gabinete da Área de Sines vindo a desenvolver, entre outras, a implantação das infra-estruturas de saneamento básico adequadas ao empreendimento.
+
+Com tal objectivo foram já efectuados investimentos muito significativos, tendo em vista permitir a normal laboração das empresas instaladas e a instalar futuramente, bem como a qualidade de vida das populações.
+
+Em virtude da complexidade dos problemas que este sistema apresenta e que, pela melhor forma, cumpre resolver, tem vindo a ser estudada a criação de uma entidade pública onde, entre outras entidades, estejam representadas as Câmaras Municipais de Sines e de Santiago do Cacém e que, a título exclusivo, detenha os poderes de gestão específicos para o sector.
+
+Sucede, porém, que a criação e entrada em funcionamento de tal entidade apresenta dificuldades que não podem ser resolvidas com a necessária urgência e, por outro lado, os vultosos investimentos já efectuados pelo Gabinete da Área de Sines terão de ter a inevitável contrapartida, pois que até à data nenhuma receita tem sido cobrada pelo fornecimento de água, quer às empresas quer aos moradores.
+
+Tendo ainda em consideração que o [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho, ao criar o GAS, estabeleceu que constituição receitas do Gabinete, entre outras, as que por lei lhe venham a ser atribuídas ou o produto de quaisquer taxas que por lei lhe venham a ser consignadas:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - Enquanto não for criada a entidade pública que terá a seu cargo a gestão do saneamento básico na área de Sines, onde estarão representados, entre outras instituições, os Municípios de Sines e de Santiago do Cacém, fica o Gabinete da Área de Sines autorizado a cobrar taxas pelo fornecimento de água às empresas e aos particulares instalados na zona.
+
+2 - As tarifas a aplicar serão as que vigoram para a Empresa Pública das Aguas de Lisboa (EPAL), quer para o custo de água quer para o aluguer mensal dos respectivos contadores, sendo automática a sua variação em função das actualizações que nestas se verificarem.
+
+###### Art. 2.º O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros em 10 de Outubro de 1979. - Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Carlos Jorge Mendes Correia Gago - Mário Adriano de Moura e Castro Brandão Fernandes de Azevedo.
+
+**Promulgado em 11 de Dezembro de 1979.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

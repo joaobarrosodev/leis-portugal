@@ -1,0 +1,398 @@
+---
+schema_version: '1.0'
+id: pt:dre:934454752:por
+title: Decreto-Lei n.º 101/2025
+short_title: null
+summary: Cria a Direção-Geral de Estudos, Planeamento e Avaliação e aprova a respetiva orgânica.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Educação, Ciência e Inovação
+official_number: 101/2025
+official_date: null
+publication_date: '2025-09-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/2025, Série I de 2025-09-08
+  number: '172'
+  series: I
+  supplement: null
+  pages: 3 - 10
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/09/17200/0000300010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/101/2025/09/08/p/dre/pt/html
+  oj: null
+  dre: '934454752'
+  dre_path: /dr/detalhe/decreto-lei/101-2025-934454752
+  internal: pt:dre:934454752:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2025-934454752
+  metadata_url: https://data.dre.pt/eli/dec-lei/101/2025/09/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2025-934454752
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-09-08T00:00:00Z'
+integrity:
+  source_sha256: 1d4cdc8b0c324aba86b082d4e2e013963db357c03d00f2de565a917d98f3d53a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-101-934454752.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reestruturação de Serviços
+- Criação de Serviços
+- Ministério da Educação e Ciência
+- Integração de Trabalhadores
+- Lista Nominativa
+- Direção Geral de Estatísticas da Educação e Ciência
+- Orgânica
+- Transferência de Competências
+- Transferência de Pessoal
+- Direção-geral ou gabinete de estudos planeamento e avaliação
+- DGEPA/GEPA
+relationships:
+- type: cites
+  target: celex:32004L0018
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/18/oj
+- type: cites
+  target: celex:32014L0024
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/24/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/38/2022/05/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/38/2022/05/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/13/2012/01/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/13/2012/01/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/25/2017/05/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/25/2017/05/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+article_structure:
+  article_count: 21
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 101/2025
+
+de 8 de setembro
+
+A reforma orgânica e funcional da administração central do Estado, aprovada pelo [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, na sua redação atual, prevê a especialização de serviços, definindo, nesse âmbito, um modelo organizativo a adotar pelas entidades existentes ou que venham a ser criadas, com responsabilidade em matéria de estudos e planeamento das áreas governativas, que visa potenciar a geração de conhecimento técnico, suportado por evidências, na prestação de apoio especializado aos decisores políticos e áreas governativas na formulação, monitorização e avaliação das políticas públicas, setoriais e transversais, conforme estabelecido no anexo ii daquele diploma.
+
+Com o presente decreto-lei procede-se, nesse sentido, à criação da Direção-Geral de Estudos, Planeamento e Avaliação (DGEPA), serviço da administração direta do Estado, dotado de autonomia administrativa, e mune-se o Ministério da Educação, Ciência e Inovação (MECI) de um serviço especializado e transversal às suas áreas de atuação para, no âmbito das respetivas atribuições, apoiar tecnicamente a definição das prioridades estratégicas e das políticas da educação, ciência e inovação, bem como para promover, em coordenação com os demais serviços e organismos do MECI, o acompanhamento e avaliação da sua implementação e dos resultados obtidos, nos domínios do planeamento e avaliação das políticas públicas e da cooperação e relações internacionais.
+
+Adicionalmente, e no quadro da reforma orgânica e funcional da administração central do Estado, atribui-se igualmente à DGEPA a função de coordenação em matéria orçamental, assegurando o acompanhamento da elaboração, execução e monitorização dos programas orçamentais do MECI e promovendo o alinhamento entre os instrumentos de gestão financeira e não financeira, em articulação com os serviços e organismos responsáveis pela execução orçamental.
+
+Tendo em conta o amplo espetro de atribuições do MECI e a multiplicidade de destinatários da sua ação, que vão desde os agentes da comunidade educativa até aos serviços da administração direta, indireta e autónoma do Estado, importa que a definição do modelo organizacional e estrutura da DGEPA seja orientada pela especialização na formulação, monitorização e avaliação das políticas públicas da educação, ciência e inovação, garantindo uma visão de conjunto.
+
+Assim:
+
+Nos termos do n.º 5 do artigo 2.º, do n.º 1 do artigo 14.º e do anexo ii ao [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, na sua redação atual, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objeto
+
+No âmbito da reforma orgânica e funcional da administração central do Estado, prevista no [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, na sua redação atual, o presente decreto-lei procede:
+
+a) À criação da Direção-Geral de Estudos, Planeamento e Avaliação, adiante designada por DGEPA, bem como à aprovação da respetiva orgânica;
+
+b) À segunda alteração ao [Decreto Regulamentar n.º 13/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2012-544377), de 20 de janeiro, alterado pelo [Decreto-Lei n.º 38/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), de 30 de maio, que aprova a orgânica da Direção-Geral de Estatísticas da Educação e Ciência (DGEEC).
+
+###### Artigo 2.º — Natureza
+
+A DGEPA é um serviço central da administração direta do Estado, dotado de autonomia administrativa.
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - A DGEPA tem por missão, no âmbito das atribuições do Ministério Educação, Ciência e Inovação (MECI), apoiar tecnicamente a definição das prioridades estratégicas e das políticas que as suportam, bem como promover, em coordenação com os demais órgãos, serviços e organismos, o acompanhamento e avaliação da sua implementação e dos resultados obtidos.
+
+2 - A DGEPA prossegue as seguintes atribuições:
+
+a) Elaborar e promover a realização de estudos, incluindo de natureza prospetiva, para a formulação das prioridades estratégicas do MECI, de âmbito nacional, setorial e regional, e de políticas públicas na área da educação, ciência e inovação;
+
+b) Prestar apoio técnico, ao longo de todo o ciclo da política pública, à formulação de programas ou de medidas de política, por via da realização de estudos prévios, da recolha e sistematização de informação e evidências adequadas, da análise preliminar de opções e de outras formas de apoio à sua estruturação estratégica e operacional, incluindo a definição de objetivos, indicadores e metas que permitam a monitorização e avaliação dos seus resultados;
+
+c) Contribuir para a elaboração dos instrumentos nacionais de planeamento estratégico, nomeadamente estratégias de médio e longo prazo, as Grandes Opções e o Programa Nacional de Reformas, no quadro da Rede de Planeamento e Prospetiva da Administração Pública (REPLAN);
+
+d) Conceber e difundir guias metodológicos e instrumentos de planeamento, monitorização e avaliação das políticas desenvolvidas no âmbito do MECI;
+
+e) Contribuir para a conceção de iniciativas legislativas do MECI, no âmbito do planeamento estratégico e da formulação das políticas da educação, ciência e inovação;
+
+f) Promover, em estreita articulação com os demais órgãos, serviços e organismos da Administração Pública competentes, ações de capacitação e desenvolvimento de competências nas áreas da prospetiva, planeamento e desenho, bem como de acompanhamento e avaliação das políticas dirigidas aos órgãos, serviços e organismos do MECI;
+
+g) Exercer as funções de coordenação em matéria orçamental e de avaliação de desempenho dos serviços no âmbito da educação, ciência e inovação, de modo a promover o alinhamento e articulação dos instrumentos de planeamento e gestão financeira, nestes incluindo fundos autónomos e europeus;
+
+h) Acompanhar a elaboração, execução e monitorização dos orçamentos de atividade e de projeto do MECI, em colaboração com os respetivos órgãos, serviços e organismos;
+
+i) Prestar apoio técnico e financeiro à definição de políticas, prioridades e objetivos do MECI, bem como acompanhar e avaliar a execução dos respetivos programas e projetos, na vertente económico-financeira;
+
+j) Garantir a observação dos instrumentos dos sistemas educativo, científico e tecnológico definidos no quadro da União Europeia e pela Organização para a Cooperação e o Desenvolvimento Económico (OCDE), com o envolvimento técnico necessário da DGEEC, no que respeita a indicadores estatísticos e aspetos técnicos relacionados;
+
+k) Coordenar o desempenho das atividades da Unidade Portuguesa da Rede Eurydice, com o envolvimento técnico necessário da DGEEC, no que respeita a indicadores estatísticos e aspetos técnicos relacionados;
+
+l) Assegurar a análise e tratamento de dados relevantes, com recurso à informação produzida pela DGEEC, para apoio à política pública e ao cumprimento de compromissos nacionais e internacionais, podendo, quando necessário, articular com este a produção de informação adicional necessária para esse efeito;
+
+m) Assegurar, no âmbito do MECI, a coordenação técnica das atividades de relações internacionais, bem como promover a cooperação internacional, nomeadamente no contexto da Comunidade dos Países de Língua Portuguesa e da União Europeia, em coordenação com o Ministério dos Negócios Estrangeiros (MNE);
+
+n) Assegurar a representação do MECI nas instâncias europeias e nos organismos intergovernamentais de natureza técnica, em coordenação com o MNE, bem como nas estratégias, conselhos, comissões e grupos de trabalho de âmbito nacional, sempre que aquela representação não recaia, por força das respetivas atribuições e competências, noutro órgão, serviço ou organismo do MECI;
+
+o) Acompanhar o procedimento legislativo europeu, contribuindo para a elaboração da posição nacional e apoiando a negociação e redação de atos normativos de direito internacional e de direito da União Europeia, em matérias de relevo para o MECI, em coordenação com o MNE;
+
+p) Assegurar o apoio técnico e especializado ao membro do Governo da tutela na execução das políticas das áreas da educação, ciência e inovação, garantindo uma visão de conjunto da atividade setorial;
+
+q) Apoiar a coordenação dos órgãos, serviços e organismos do MECI na concretização da respetiva orientação política;
+
+r) Conceder subvenções ou subsídios equiparados, no quadro das suas atribuições e competências, de acordo com as regras e condições estabelecidas por despacho do membro do Governo responsável pela área da educação, ciência e inovação.
+
+3 - Sem prejuízo do poder de direção do membro do Governo da tutela, a DGEPA exerce as competências previstas nas alíneas a) a f) do número anterior em articulação com o Centro de Planeamento e Avaliação de Políticas Públicas (PLANAPP), no âmbito da sua missão e atribuições.
+
+4 - Para efeitos da articulação prevista no número anterior, a DGEPA partilha informação, recursos, atividades e projetos no quadro da REPLAN, sob coordenação do PLANAPP.
+
+5 - Sem prejuízo do poder de direção do membro do Governo da tutela, a DGEPA exerce as competências previstas nas alíneas k) a m) do n.º 2 em articulação com a DGEEC.
+
+###### Artigo 4.º — Órgãos e cargos
+
+A DGEPA é dirigida por um diretor, coadjuvado por dois subdiretores, que são cargos de direção superior de 1.º e 2.º graus, respetivamente.
+
+###### Artigo 5.º — Competências
+
+1 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor dirigir, orientar e coordenar a ação dos serviços da DGEPA.
+
+2 - Os subdiretores exercem as competências que lhe sejam delegadas ou subdelegadas pelo diretor.
+
+###### Artigo 6.º — Modelo de organização
+
+A organização interna da DGEPA obedece ao modelo de estrutura hierarquizada.
+
+###### Artigo 7.º — Mapa de cargos dirigentes
+
+Os cargos de direção superior e de direção intermédia de 1.º grau constam do anexo ao presente decreto-lei e do qual faz parte integrante.
+
+###### Artigo 8.º — Regime aplicável aos dirigentes
+
+É aplicável aos dirigentes da DGEPA o regime previsto no estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado, aprovado pela [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de janeiro, na sua redação atual, sem prejuízo de outros diplomas legais ou regulamentares aplicáveis.
+
+###### Artigo 9.º — Receitas
+
+1 - A DGEPA dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A DGEPA dispõe, ainda, das seguintes receitas próprias:
+
+a) Subsídios, subvenções, comparticipações, doações e legados concedidos por entidades públicas e privadas;
+
+b) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - A DGEPA pode convencionar a edição de publicações e trabalhos, podendo proceder à sua venda e assegurar os direitos editoriais correspondentes.
+
+4 - As quantias cobradas pela DGEPA são fixadas e atualizadas por despacho do membro do Governo da tutela, tendo em atenção os meios humanos e materiais necessários e podendo ser tidos em conta os custos indiretos de funcionamento.
+
+###### Artigo 10.º — Despesas
+
+Constituem despesas da DGEPA as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
+
+###### Artigo 11.º — Parcerias
+
+A DGEPA pode celebrar protocolos de colaboração e parcerias ou estabelecer mecanismos de associação com outras entidades, designadamente instituições de ensino superior e do sistema científico e tecnológico, quando tal se mostre necessário ou conveniente para a boa prossecução das suas atribuições e desde que tenha dotação orçamental disponível, quando destas resultem encargos financeiros.
+
+### CAPÍTULO II — ALTERAÇÃO LEGISLATIVA
+
+###### Artigo 12.º — Alteração ao [Decreto Regulamentar n.º 13/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2012-544377), de 20 de janeiro
+
+O artigo 2.º do [Decreto Regulamentar n.º 13/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2012-544377), de 20 de janeiro, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 2.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) (Revogada.)
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+l) [...]
+
+m) [...]
+
+n) [...]
+
+o) (Revogada.)
+
+p) [...]
+
+q) (Revogada.)
+
+r) Desenvolver análises descritivas de indicadores estatísticos no âmbito dos sistemas educativo, científico e tecnológico.»
+
+### CAPÍTULO III — DISPOSIÇÕES TRANSITÓRIAS E FINAIS
+
+###### Artigo 13.º — Sucessão nas atribuições e competências
+
+1 - A DGEPA sucede nas atribuições e competências, bem como nos direitos, obrigações e posições contratuais da Secretaria-Geral da Educação e Ciência (SGEC), da Direção-Geral do Ensino Superior (DGES), da Direção-Geral da Educação (DGE) e da Fundação para a Ciência e a Tenologia, I. P. (FCT, I. P.), em matéria de relações internacionais.
+
+2 - A DGEPA sucede nas atribuições e competências, bem como nos direitos, obrigações e posições contratuais do Instituto de Gestão Financeira da Educação, I. P. (IGeFE, I. P.), em matéria de desenvolver as funções de entidade coordenadora dos programas orçamentais do MECI.
+
+3 - A DGEPA sucede nas atribuições e competências, bem como nos direitos, obrigações e posições contratuais, da Direção-Geral de Estatísticas da Educação e Ciência (DGEEC), em matéria de:
+
+a) Garantia da observação dos instrumentos dos sistemas educativo, científico e tecnológico definidos no quadro da União Europeia e pela OCDE, sem prejuízo do envolvimento técnico da DGEEC no que respeita a indicadores estatísticos e aspetos técnicos relacionados;
+
+b) Garantia do desempenho das atividades da Unidade Portuguesa da Rede Eurydice, sem prejuízo do envolvimento técnico da DGEEC no que respeita a indicadores estatísticos e aspetos técnicos relacionados;
+
+c) Apoio técnico em matéria de definição e estruturação das políticas, prioridades e objetivos das áreas da educação, ciência e inovação;
+
+d) Elaboração, difusão e apoio à criação de instrumentos de planeamento e avaliação das políticas e programas das áreas da educação, ciência e inovação, procedendo ao respetivo acompanhamento e avaliação.
+
+###### Artigo 14.º — Procedimento de reafetação
+
+1 - Ao procedimento de reafetação de trabalhadores é aplicável o disposto no [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro, e no regime da valorização profissional dos trabalhadores com vínculo de emprego público, aprovado em anexo à [Lei n.º 25/2017](https://diariodarepublica.pt/dr/detalhe/lei/25-2017-107094720), de 30 de maio.
+
+2 - Os trabalhadores são reafetos à DGEPA com efeitos à data do despacho conjunto do seu dirigente máximo e do dirigente máximo do respetivo serviço de origem.
+
+###### Artigo 15.º — Critério de seleção do pessoal
+
+É fixado como critério geral e abstrato de seleção do pessoal necessário à prossecução das atribuições transferidas para a DGEPA, o exercício de funções:
+
+a) Na SGEC, predominantemente em matéria de relações internacionais, nos termos do decreto-lei que procede à sua extinção;
+
+b) No IGeFE, I. P., predominantemente em matéria de exercício das atividades de entidade coordenadora dos programas orçamentais do MECI, nos termos do decreto-lei que procede à sua extinção;
+
+c) Na DGES, predominantemente em matéria de relações internacionais;
+
+d) Na DGE, predominantemente em matéria de relações internacionais, nos termos do decreto-lei que procede à sua extinção;
+
+e) Na FCT, I. P., predominantemente em matéria de relações internacionais;
+
+f) Na DGEEC, predominantemente em matéria de:
+
+i) Garantia da observação dos instrumentos dos sistemas educativo, científico e tecnológico, definidos no quadro da União Europeia e pela OCDE, sem prejuízo do envolvimento técnico da DGEEC no que respeita a indicadores estatísticos e aspetos técnicos relacionados;
+
+ii) Coordenação do desempenho das atividades da Unidade Portuguesa da Rede Eurydice, sem prejuízo do envolvimento técnico da DGEEC no que respeita a indicadores estatísticos e aspetos técnicos relacionados;
+
+iii) Apoio técnico em matéria de definição e estruturação das políticas, prioridades e objetivos das áreas da educação, ciência e inovação;
+
+iv) Elaboração, difusão e apoio à criação de instrumentos de planeamento e avaliação das políticas e programas das áreas da educação, ciência e inovação, procedendo ao respetivo acompanhamento e avaliação.
+
+###### Artigo 16.º — Elaboração de lista nominativa
+
+1 - Na sequência da aplicação do critério de seleção de pessoal estabelecido no artigo anterior, é elaborada lista nominativa submetida pelo dirigente máximo da DGEPA, em articulação com os dirigentes máximos dos órgãos, serviços e organismos de origem dos trabalhadores, para aprovação por despacho do membro do Governo da tutela.
+
+2 - Sem prejuízo do disposto no artigo 4.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, a lista nominativa referida no número anterior é notificada a cada um dos trabalhadores e tornada pública, no prazo máximo de 40 dias, contados da data de entrada em vigor do presente decreto-lei, aplicando-se o disposto no artigo 109.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual, com as devidas adaptações.
+
+###### Artigo 17.º — Processos individuais
+
+Os processos individuais dos trabalhadores transitam para os serviços para os quais aqueles forem reafetos.
+
+###### Artigo 18.º — Norma transitória
+
+A aquisição de bens e serviços nos domínios dos sistemas de informação e infraestrutura tecnológica destinados à DGEPA deve ser articulada com a AGSE, I. P., enquanto entidade responsável pela coordenação e gestão central desses sistemas na área da educação, ciência e inovação, e pode realizar-se, durante o período de 24 meses a contar da data de entrada em vigor do presente decreto-lei, com recurso a procedimentos por negociação, sem prejuízo dos limiares previstos na [Diretiva 2014/24/UE](https://data.europa.eu/eli/dir/2014/24/oj?locale=pt) do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, na sua redação atual, relativa aos contratos públicos e que revoga a [Diretiva 2004/18/CE](https://data.europa.eu/eli/dir/2004/18/oj?locale=pt).
+
+###### Artigo 19.º — Norma subsidiária
+
+Aos procedimentos relativos a pessoal aplica-se, em tudo o que não se encontrar expressamente previsto no presente decreto-lei, o disposto na [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, e nos artigos 88.º a 115.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de fevereiro, na sua redação atual.
+
+###### Artigo 20.º — Norma revogatória
+
+São revogadas as alíneas f), o) e q) do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 13/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/13-2012-544377), de 20 de janeiro, na sua redação atual.
+
+###### Artigo 21.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 7 de agosto de 2025. - Luís Montenegro - Joaquim Miranda Sarmento - António Leitão Amaro - Fernando Alexandre.
+
+**Promulgado em 1 de setembro de 2025.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 3 de setembro de 2025.**
+
+**O Primeiro-Ministro, Luís Montenegro.**
+
+## ANEXO — (a que se refere o artigo 7.º)
+
+Mapa de pessoal dirigente
+
+| Qualificação dos cargos | Grau | Número de lugares |
+| --- | --- | --- |
+| Direção superior | 1.º | 1 |
+| Direção superior | 2.º | 2 |
+| Direção intermédia | 1.º | 5 |

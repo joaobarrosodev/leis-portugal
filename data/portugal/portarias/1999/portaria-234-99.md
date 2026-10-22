@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:138814:por
+title: Portaria n.º 234/99
+short_title: null
+summary: Altera o anexo III à Portaria n.º 363/98, de 26 de Junho (equipara ao grau de bacharel os cursos das Escolas Superiores
+  de Tecnologia da Saúde de Coimbra, Lisboa e Porto e da Escola Superior de Saúde de Alcoitão)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Educação e da Saúde
+proposing_entity: null
+official_number: 234/99
+official_date: null
+publication_date: '1999-04-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 79/1999, Série I-B de 1999-04-05
+  number: '79'
+  series: I
+  supplement: null
+  pages: 1840 - 1841
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/04/079b00/18401841.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/234/1999/04/05/p/dre/pt/html
+  oj: null
+  dre: '138814'
+  dre_path: /dr/detalhe/portaria/234-1999-138814
+  internal: pt:dre:138814:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-1999-138814
+  metadata_url: https://data.dre.pt/eli/port/234/1999/04/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/234-1999-138814
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-04-19T00:00:00Z'
+integrity:
+  source_sha256: 9ce2225a9a48a38ff7fef798ab18ed458fb95eea83a7f822f7996a2213390d28
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-234-138814.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bacharelato
+- Formação Profissional
+- Plano de Estudos
+- Ensino Superior Politécnico
+- Escola Superior de Saúde do Alcoitão
+- Escola Superior de Tecnologia da Saúde
+- Escola Técnica dos Serviços de Saúde
+- Lisboa
+- Coimbra
+- Porto
+relationships:
+- type: amended_by
+  target: pt:dre:408904:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/280/1997/10/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/280/1997/10/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/363/1998/06/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/363/1998/06/26/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 234/99
+
+de 5 de Abril
+
+Sob proposta do conselho científico da Escola Superior de Tecnologia da Saúde do Porto;
+
+Ao abrigo do disposto no artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), de 15 de Outubro, conjugado com o n.º 2.º da [Portaria n.º 363/98](https://diariodarepublica.pt/dr/detalhe/portaria/363-1998-479396), de 26 de Junho:
+
+Manda o Governo, pelos Ministros da Educação e da Saúde, o seguinte:
+
+1.º
+
+Aditamento
+
+São aditados ao anexo III à [Portaria n.º 363/98](https://diariodarepublica.pt/dr/detalhe/portaria/363-1998-479396), de 26 de Junho, os cursos constantes do anexo à presente portaria, da qual faz parte integrante.
+
+2.º
+
+Entrada em vigor
+
+A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior, em 2 de Março de 1999. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina, em 18 de Fevereiro de 1999.
+
+## ANEXO
+
+Iniciados no ano lectivo de 1980-1981:
+
+Cursos de:
+
+Fisioterapia;
+
+Ortóptica.
+
+Iniciados no ano lectivo de 1981-1982:
+
+Cursos de:
+
+Análises Clínicas e Saúde Pública;
+
+Medicina Nuclear;
+
+Neurofisiografia.
+
+Iniciados no ano lectivo de 1982-1983:
+
+Cursos de:
+
+Anatomia Patológica;
+
+Fisioterapia.
+
+Iniciados no ano lectivo de 1983-1984:
+
+Cursos de:
+
+Audiometria;
+
+Cardiopneumografia;
+
+Medicina Nuclear;
+
+Radioterapia;
+
+Terapêutica da Fala;
+
+Terapêutica Ocupacional.
+
+Iniciados no ano lectivo de 1985-1986:
+
+Cursos de:
+
+Análises Clínicas e Saúde Pública;
+
+Cardiopneumografia;
+
+Terapêutica Ocupacional.
+
+Iniciados no ano lectivo de 1987-1988:
+
+Cursos de:
+
+Medicina Nuclear;
+
+Terapêutica da Fala;
+
+Terapêutica Ocupacional.
+
+Iniciado no ano lectivo de 1989-1990:
+
+Curso de:
+
+Cardiopneumografia.

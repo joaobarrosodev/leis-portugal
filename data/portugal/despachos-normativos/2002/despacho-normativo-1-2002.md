@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:584833:por
+title: Despacho Normativo n.º 1/2002
+short_title: null
+summary: Define as regras e procedimentos necessários à apreciação da declaração prévia de intenção de plantar oliveiras nos
+  termos do Regulamento CE n.º 648/2001, da Comissão, de 30 de Março
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 1/2002
+official_date: null
+publication_date: '2002-01-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/2002, Série I-B de 2002-01-04
+  number: '3'
+  series: I
+  supplement: null
+  pages: 59 - 59
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/01/003b00/00590059.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/1/2002/01/04/p/dre/pt/html
+  oj: null
+  dre: '584833'
+  dre_path: /dr/detalhe/despacho-normativo/1-2002-584833
+  internal: pt:dre:584833:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2002-584833
+  metadata_url: https://data.dre.pt/eli/despnorm/1/2002/01/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/1-2002-584833
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-12-20T00:00:00Z'
+integrity:
+  source_sha256: 19f5d75537036d58e38d8493f90336d6d444746b36c9131193340046576cc186
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-1-584833.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Azeite
+- Olivicultura
+- Produção Agrícola
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:625004:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31966R0136
+  label: null
+  source: http://data.europa.eu/eli/reg/1966/136/oj
+- type: cites
+  target: celex:31998R1638
+  label: null
+  source: http://data.europa.eu/eli/reg/1998/1638/oj
+- type: cites
+  target: celex:31998R2366
+  label: null
+  source: http://data.europa.eu/eli/reg/1998/2366/oj
+- type: cites
+  target: celex:32000D0406
+  label: null
+  source: http://data.europa.eu/eli/dec/2000/406/oj
+- type: cites
+  target: celex:32001R0648
+  label: null
+  source: http://data.europa.eu/eli/reg/2001/648/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 1/2002
+
+O Regulamento (CE) n.º [1638/98](https://data.europa.eu/eli/reg/1998/1638/oj?locale=pt), do Conselho, de 20 de Julho, que alterou o Regulamento n.º [136/66/CEE](https://data.europa.eu/eli/reg/1966/136/oj?locale=pt), do Conselho, de 22 de Setembro, relativo à organização comum de mercado no sector das matérias gordas, prevê no artigo 4.º que Portugal pode beneficiar de 30000 ha de novas plantações de olival com direito a ajuda à produção de azeite.
+
+Posteriormente, a Decisão da Comissão n.º [2000/406/CE](https://data.europa.eu/eli/dec/2000/406/oj?locale=pt), de 9 de Junho, aprovou o programa de novas plantações de olivais em Portugal que prevê a plantação de 30000 ha de novos olivais.
+
+Por outro lado, o Regulamento (CE) n.º [2366/98](https://data.europa.eu/eli/reg/1998/2366/oj?locale=pt), da Comissão, de 30 de Outubro, que estabelece as normas de execução do regime de ajuda à produção de azeite para as campanhas de comercialização de 1998-1999 a 2000-2001, na nova redacção que lhe foi dada pelo artigo 1.º do Regulamento (CE) n.º [648/2001](https://data.europa.eu/eli/reg/2001/648/oj?locale=pt), da Comissão, de 30 de Março, veio instituir, no seu artigo 5.º, a obrigatoriedade de apresentação da declaração prévia de intenção de plantar oliveiras, pelo que se torna necessário definir as regras e procedimentos necessários à sua aplicação.
+
+Assim, determina-se o seguinte:
+
+1.º Para efeitos da concessão da ajuda à produção de azeite, prevista no Regulamento n.º [136/66/CEE](https://data.europa.eu/eli/reg/1966/136/oj?locale=pt), do Conselho, de 22 de Setembro, com as alterações que lhe foram introduzidas pelo Regulamento (CE) n.º [1638/98](https://data.europa.eu/eli/reg/1998/1638/oj?locale=pt), do Conselho, de 20 de Julho, a plantação de novas oliveiras ou o adensamento dos olivais existentes em Portugal só poderão ser efectuados após declaração prévia da intenção de plantar.
+
+2.º Os olivicultores que pretendam proceder à plantação de novas oliveiras ou ao adensamento dos olivais existentes devem apresentar na direcção regional de agricultura da respectiva área uma declaração prévia da intenção de plantar (DPIP), mediante o preenchimento de um impresso próprio que lhes será gratuitamente facultado sempre que solicitado.
+
+3.º A DPIP deverá indicar o número e a localização das oliveiras a plantar, e, se for caso disso, o número e a localização das oliveiras a arrancar ou arrancadas e não substituídas depois de 1 de Maio de 1998.
+
+4.º A DPIP deverá ser apresentada nos serviços da direcção regional de agricultura da respectiva área, e objecto de decisão, sob a forma de despacho, do director regional de Agricultura no prazo de 30 dias a contar da data da sua recepção, nos termos e para os efeitos previstos no n.º 2 do artigo 5.º do Regulamento (CE) n.º [2366/98](https://data.europa.eu/eli/reg/1998/2366/oj?locale=pt), da Comissão, de 31 de Outubro, e tendo em conta o programa aprovado pela Comissão que estipula que as novas plantações e os adensamentos não deverão exceder 300 oliveiras/ha.
+
+5.º Em casos devidamente fundamentados, poderão ser autorizadas outras densidades, para os olivais que utilizem técnicas modernas de condução, desde que seja respeitado o número total de oliveiras aprovadas pela Decisão da Comissão n.º [2000/406/CE](https://data.europa.eu/eli/dec/2000/406/oj?locale=pt), de 9 de Junho, e a sua área não exceda 3,5% da área atribuída a cada uma das regiões.
+
+6.º Para poder beneficiar da ajuda à produção de azeite o olivicultor deverá juntar à declaração de cultura a que se refere o capítulo I do Regulamento (CE) n.º [2366/98](https://data.europa.eu/eli/reg/1998/2366/oj?locale=pt), da Comissão, de 30 de Outubro, a DPIP acompanhada do respectivo despacho.
+
+7.º Para efeitos de ajuda à produção de azeite, apenas serão tidas em consideração as DPIP que tiverem sido objecto do despacho previsto no n.º 4.º do presente despacho.
+
+8.º As áreas e o número de oliveiras efectivamente plantadas devem estar de acordo com as áreas e o número de oliveiras que constam das DPIP apresentadas pelos olivicultores.
+
+9.º Sempre que o olivicultor pretenda alterar a situação prevista na DPIP, deverá apresentar uma nova DPIP, que substituirá a anterior.
+
+10.º A DPIP relativa a novas plantações é válida pelo prazo de dois anos desde que os trabalhos de plantação tenham o seu início no primeiro ano a contar da data do despacho e a sua conclusão no ano seguinte.
+
+11.º Para os efeitos do disposto no presente despacho, as direcções regionais de agricultura deverão manter actualizado o registo das áreas e do número de oliveiras correspondentes às DPIP que lhes tenham sido submetidas, devendo transmitir mensalmente ao Gabinete de Planeamento e Política Agro-Alimentar (GPPAA) o registo das DPIP despachadas no mês anterior, com referência expressa à situação a que se reportam, bem como ao teor do despacho de que foram objecto.
+
+12.º As direcções regionais de agricultura deverão ainda, nos termos das competências que lhes estão legalmente cometidas, verificar a efectiva correspondência entre as DPIP e as áreas e o número de oliveiras efectivamente plantadas em cada região, nomeadamente através do cotejo das listagens elaboradas pelo Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), que lhes serão remetidas trimestralmente pelo GPPAA.
+
+13.º As direcções regionais de agricultura deverão proceder à verificação no local dos casos em que se verifique não ter havido intervenção do IFADAP.
+
+14.º Para cumprimento do disposto no n.º 12.º, o IFADAP remeterá trimestralmente ao GPPAA um registo dos projectos aprovados, bem como das áreas de novos olivais ou dos adensamentos executados.
+
+15.º O GPPAA procederá à gestão e ao acompanhamento do programa de plantação dos 30000 ha de novos olivais, aprovado pela Decisão da Comissão n.º [2000/406/CE](https://data.europa.eu/eli/dec/2000/406/oj?locale=pt), de 9 de Junho.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 29 de Novembro de 2001. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos.

@@ -1,0 +1,232 @@
+---
+schema_version: '1.0'
+id: pt:dre:2119899:por
+title: Declaração de Rectificação n.º 909/2010
+short_title: null
+summary: Rectifica o aviso n.º 6381/2010, publicado no Diário da República, 2.ª série, n.º 60, de 26 de Março de 2010 - procedimento
+  concursal para contratação de um técnico superior (engenharia agrária) por tempo indeterminado
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Vila do Bispo
+proposing_entity: null
+official_number: 909/2010
+official_date: null
+publication_date: '2010-05-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/2010, Série II de 2010-05-05
+  number: '87'
+  series: II
+  supplement: null
+  pages: 24311 - 24312
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/05/087000000/2431124312.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2119899'
+  dre_path: /dr/detalhe/declaracao-rectificacao/909-2010-2119899
+  internal: pt:dre:2119899:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/909-2010-2119899
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/909-2010-2119899
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-05-05T00:00:00Z'
+integrity:
+  source_sha256: 6385b71348077514d7374496f1ba404d08d8961e546a057878656592c75e3732
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-909-2119899.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 909/2010
+
+Procedimento concursal comum para contratação de um técnico superior (engenharia agrária) na modalidade de relação jurídica de emprego público por tempo indeterminado
+
+Para os devidos efeitos se torna público que, de harmonia com o meu despacho de 31 de Março de 2010, se proceda à rectificação dos n.os 8, 9,10 e 13 do aviso n.º 6381/2010, publicado no Diário da República, 2.ª série, n.º 60, de 26 de Março de 2010, referente ao procedimento em epígrafe.
+
+Assim, onde se lê:
+
+«8 - Métodos de selecção - tendo em atenção o n.º 4 do artigo 53.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, conjugado com o n.º 2 do artigo 6.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, e a urgente necessidade de recursos humanos e para uma maior celeridade do processo, o método de selecção a utilizar será: prova oral de conhecimentos.
+
+1 - A prova oral de conhecimentos visa avaliar os conhecimentos académicos e, ou profissionais e as competências técnicas dos candidatos necessárias ao exercício de determinada função terá a duração máxima de sessenta minutos, e abordará a seguinte legislação e ou bibliografia:
+
+[Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, na redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro - regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias e respectivas competências;
+
+[Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro - Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas;
+
+[Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro - regime de contrato de trabalho em funções públicas;
+
+[Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, na redacção dada pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro - Código do Procedimento Administrativo;
+
+[Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro - Código dos Contratos Públicos;
+
+[Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro - Lei da Água;
+
+[Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho, e alterações ([Decreto-Lei n.º 17/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), de 14 de Janeiro e [Declaração de Rectificação n.º 20/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2009-605319), de 13 de Março) - estabelece as medidas e acções a desenvolver no âmbito do Sistema de Defesa da Floresta contra Incêndios;
+
+[Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de Dezembro, e alteração ([Decreto-Lei n.º 114/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), de 1 de Julho) - regula o regime jurídico do licenciamento e fiscalização pelas câmaras municipais de actividades diversas anteriormente cometidas aos governos civis;
+
+Portaria n.º 133/2007, de 26 de Janeiro - define as normas técnicas e funcionais relativas à classificação, cadastro e construção dos pontos de água, integrantes das redes regionais de defesa da floresta contra incêndios (RDFCI);
+
+Portaria n.º 1140/2006, de 25 de Outubro - define as especificações técnicas em matéria de defesa da floresta contra incêndios a observarem na instalação e funcionamento de equipamentos florestais de recreio inseridos no espaço rural.
+
+9 - Classificação final:
+
+De harmonia com o disposto no n.º 1 do artigo 34.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), a ordenação final dos candidatos que completem o procedimento é efectuada de acordo com a escala classificativa de 0 a 20 valores, em resultado das classificações quantitativas obtidas no único método de selecção aplicado.
+
+OF = PC x 100 %;
+
+OF = ordenação final;
+
+PC = prova de conhecimentos oral.
+
+10 - Os candidatos que obtenham uma valoração inferior a 9,5 valores, consideram-se excluídos da ordenação final.
+
+[...]
+
+13 - Os parâmetros de avaliação, a ponderação de cada um dos métodos de selecção a utilizar, a grelha de classificação e o sistema de valoração final constam da acta de reunião do júri do concurso de 1 de Março de 2010 e será facultada aos candidatos que a solicitem.»
+
+deve ler-se:
+
+«8 - Métodos de selecção obrigatórios:
+
+Os métodos de selecção a aplicar são, nos termos do artigo 53.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, e artigo 6.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, os seguintes:
+
+a) Prova de conhecimentos (PC) - destinada a avaliar os conhecimentos académicos e, ou profissionais que os candidatos dispõem, bem como as competências necessárias ao exercício da função;
+
+b) Avaliação psicológica (AP) - destinada a avaliar as aptidões, características de personalidade e competências comportamentais dos candidatos e estabelecer um prognóstico de adaptação às exigências do posto de trabalho a ocupar.
+
+8.1 - Relativamente aos candidatos que, cumulativamente, sejam titulares da categoria e se encontrem ou, tratando-se de candidatos colocados em situação de mobilidade especial, se tenham por último encontrado, a cumprir ou a executar a actividade caracterizadora dos postos de trabalho para cuja ocupação o procedimento foi publicitado, os métodos a utilizar no seu recrutamento são os seguintes:
+
+a) Avaliação curricular (AC) - visa analisar a qualificação dos candidatos, designadamente a habilitação académica ou profissional, percurso profissional, relevância da experiência adquirida e da formação realizada, tipo de funções exercidas e avaliação de desempenho obtida;
+
+b) Entrevista de avaliação de competências (EAC) - visa obter, através de uma relação interpessoal, informações sobre comportamentos profissionais directamente relacionados com as competências consideradas para o exercício da função.
+
+Os candidatos referidos no n.º 8.1 podem afastar, mediante declaração escrita no formulário de candidatura, a utilização destes métodos de selecção, optando pelos métodos obrigatórios constantes do n.º 8.
+
+8.2 - Valoração dos métodos selecção:
+
+Provas de conhecimento (PC) - a mesma será de natureza teórica e revestirá a forma escrita, terá a duração de sessenta minutos,com dez minutos de tolerância, é valorada de acordo com a escala de 0 a 20 valores, considerando-se a valoração até às centésimas, sendo a sua ponderação para a valoração final de 70 % e versará sobre a seguinte legislação:
+
+[Lei n.º 169/99](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), de 18 de Setembro, na redacção dada pela [Lei n.º 5-A/2002](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2002-570504), de 11 de Janeiro - regime jurídico de funcionamento, dos órgãos dos municípios e das freguesias e respectivas competências;
+
+[Lei n.º 58/2008](https://diariodarepublica.pt/dr/detalhe/lei/58-2008-454014), de 9 de Setembro - Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas;
+
+[Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro - regime de contrato de trabalho em funções públicas;
+
+[Decreto-Lei n.º 442/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/442-1991-316935), de 15 de Novembro, na redacção dada pelo [Decreto-Lei n.º 6/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-1996-604850), de 31 de Janeiro - Código do Procedimento Administrativo;
+
+[Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de Janeiro - Código dos Contratos Públicos;
+
+[Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de Dezembro - Lei da Água;
+
+[Decreto-Lei n.º 124/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491), de 28 de Junho, e alterações ([Decreto-Lei n.º 17/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), de 14 de Janeiro, e [Declaração de Rectificação n.º 20/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2009-605319), de 13 de Março) - estabelece as medidas e acções a desenvolver no âmbito do Sistema de Defesa da Floresta contra Incêndios;
+
+[Decreto-Lei n.º 310/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-2002-405693), de 18 de Dezembro e alteração ([Decreto-Lei n.º 114/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2008-456475), de 1 de Julho) - regula o regime jurídico do licenciamento e fiscalização pelas câmaras municipais de actividades diversas anteriormente cometidas aos governos civis;
+
+Portaria n.º 133/2007, de 26 de Janeiro - define as normas técnicas e funcionais relativas à classificação, cadastro e construção dos pontos de água, integrantes das redes regionais de defesa da floresta contra incêndios (RDFCI);
+
+Portaria n.º 1140/2006, de 25 de Outubro - define as especificações técnicas em matéria de defesa da floresta contra incêndios a observarem na instalação e funcionamento de equipamentos florestais de recreio inseridos no espaço rural.
+
+Avaliação psicológica (AP) - é valorada em cada fase intermédia, através das menções classificativas de Apto e Não Apto e, na última fase do método, para os candidates que o tenham completado, através dos níveis classificativos de Elevado, Bom, Suficiente, Reduzido ou Insuficiente aos quais correspondem, respectivamente, as classificações de 20, 16, 12, 8 e 4 valores, sendo a sua ponderação para a valoração final de 30 %.
+
+Avaliação curricular (AC) - é expressa numa escala de 0 a 20 valores, com a valoração até às centésimas, sendo a classificação obtida através da média aritmética simples das classificações dos elementos a avaliar, tendo a ponderação de 70 % para a valoração final.
+
+Para tal serão considerados e ponderados os elementos de maior relevância para o posto de trabalho a ocupar, entre os quais obrigatoriamente:
+
+Habilitação académica, formação profissional, experiência profissional e avaliação de desempenho.
+
+AC = HA x 10 % + FP x 40 % + EP x 40 % + AD x 10 %
+
+em que:
+
+AC = Avaliação Curricular
+
+HA = Habilitações Académicas
+
+FP =Formação Profissional
+
+EP = Experiência Profissional
+
+AD = Avaliação de Desempenho
+
+Entrevista de avaliação de competências (EAC) - é avaliada através dos níveis classificativos de Elevado, Bom, Suficiente, Reduzido e Insuficiente aos quais correspondem respectivamente as classificações de 20, 16, 12, 8 e 4 valores, sendo a sua ponderação para a valoração final de 30 %.
+
+8.3 - Cada um dos métodos de selecção é eliminatório.
+
+9 - A valoração final dos métodos de selecção será obtida através da seguinte fórmula:
+
+VF = (PC x 70 %) + (AP x 30 %)
+
+em que:
+
+VF = valoração final;
+
+PC = prova de conhecimentos;
+
+AP = avaliação psicológica;
+
+ou:
+
+VF = (AC x 70 %) + (EAC x 30 %)
+
+em que:
+
+VF = valoração final;
+
+AC = avaliação curricular;
+
+EAC = entrevista de avaliação de competências.
+
+10 - São excluídos do procedimento os candidatos que tenham obtido uma valoração inferior a 9,5 valores num dos métodos de selecção, não lhe sendo aplicado o método seguinte.
+
+10.1 - A ordenação final dos candidatos que completem o procedimento concursal é efectuada de acordo com a escala classificativa de 0 a 20 valores, em resultado da média ponderada das classificações quantitativas obtidas em cada método de selecção.
+
+[...]
+
+13 - As actas do júri onde constam os parâmetros da avaliação e respectiva ponderação por cada método de selecção a utilizar, a grelha classificativa e o sistema de valoração final do método são facultadas aos candidatos sempre que solicitadas.»
+
+20 de Abril de 2010. - O Presidente da Câmara, Adelino Augusto da Rocha Soares.

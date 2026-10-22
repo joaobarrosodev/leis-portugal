@@ -1,0 +1,2119 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:540820:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2006-70149602",
+ "dre_path": "/dr/detalhe/lei/50-2006-540820",
+ "source_lastmod": "2025-09-11",
+ "versions": [
+  {
+   "date": "2006-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70149504",
+    "70149505",
+    "70149506",
+    "70149507",
+    "70149508",
+    "70149509"
+   ]
+  },
+  {
+   "date": "2009-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:488489:por",
+     "title": "Lei n.º 89/2009",
+     "published": "2009-08-31",
+     "dre_path": "/dr/detalhe/lei/89-2009-488489"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 49.º-A",
+    "Adita Artigo 52.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 54.º",
+    "Altera Artigo 63.º",
+    "Altera Artigo 67.º",
+    "Altera Artigo 72.º",
+    "Altera Artigo 74.º",
+    "Altera Artigo 75.º",
+    "Altera Artigo 76.º",
+    "Altera Artigo 77.º"
+   ],
+   "fragments": [
+    "70149504",
+    "70149505",
+    "70161776",
+    "70161775",
+    "935098845",
+    "70161788",
+    "70161789",
+    "70161798",
+    "70161801",
+    "70161802",
+    "935098846",
+    "70161806",
+    "70161807",
+    "935098847",
+    "70161809",
+    "70161810",
+    "70161811",
+    "70161812",
+    "70161813",
+    "70161814",
+    "70161815",
+    "70161816",
+    "70161817",
+    "70161818",
+    "70161819",
+    "70161820",
+    "70161821",
+    "70161822",
+    "935098848",
+    "70161824",
+    "70161825",
+    "935098849",
+    "70161827",
+    "70161828",
+    "70161829",
+    "70161830",
+    "70161831",
+    "935098850",
+    "935098851",
+    "70161834",
+    "70161835",
+    "70161838",
+    "70161839",
+    "70161840",
+    "70161841",
+    "70161842",
+    "70161843",
+    "70161844",
+    "70176008",
+    "70149506",
+    "70176009",
+    "70176010",
+    "70176011",
+    "70176012",
+    "70176013",
+    "70176014",
+    "935098852",
+    "70176016",
+    "935107928",
+    "935107929",
+    "935107930",
+    "935107931",
+    "935107932",
+    "935107933",
+    "935098865",
+    "935098866",
+    "935098867",
+    "935098871",
+    "935098872",
+    "935098873",
+    "935098874",
+    "70176029",
+    "70176030",
+    "925087691",
+    "70176032",
+    "70176033",
+    "70176034",
+    "70176035",
+    "70176036",
+    "70149507",
+    "70176037",
+    "935098855",
+    "70176039",
+    "70176040",
+    "70176041",
+    "935098856",
+    "70176043",
+    "70149508",
+    "70176044",
+    "70176045",
+    "70149509",
+    "70176046",
+    "935098857",
+    "935107875",
+    "935107876",
+    "935107877",
+    "935107878",
+    "70149511"
+   ]
+  },
+  {
+   "date": "2015-10-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70133806:por",
+     "title": "Lei n.º 114/2015",
+     "published": "2015-08-28",
+     "dre_path": "/dr/detalhe/lei/114-2015-70133806"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 20.º-A",
+    "Adita Artigo 23.º-A",
+    "Adita Artigo 23.º-B",
+    "Adita Título V",
+    "Adita Artigo 40.º-A",
+    "Adita Artigo 40.º-B",
+    "Adita Artigo 40.º-C",
+    "Adita Artigo 40.º-D",
+    "Adita Artigo 47.º-A",
+    "Adita Artigo 49.º-B",
+    "Adita Artigo 54.º-A",
+    "Adita Artigo 71.º-A",
+    "Adita Artigo 75.º-A",
+    "Altera Título I",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 49.º-A",
+    "Altera Artigo 50.º",
+    "Altera Artigo 55.º",
+    "Altera Artigo 57.º",
+    "Altera Artigo 63.º",
+    "Altera Artigo 73.º",
+    "Altera Artigo 74.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 56.º",
+    "Revoga Artigo 77.º"
+   ],
+   "fragments": [
+    "70149504",
+    "70149505",
+    "935097760",
+    "935107896",
+    "935107897",
+    "935107898",
+    "935107899",
+    "70161798",
+    "70161801",
+    "70161802",
+    "935107900",
+    "935107901",
+    "70161807",
+    "935098847",
+    "70161809",
+    "70161810",
+    "70161811",
+    "70161812",
+    "70161813",
+    "935107902",
+    "70161815",
+    "70161816",
+    "70161817",
+    "70161818",
+    "70161819",
+    "70161820",
+    "935097709",
+    "70161821",
+    "70161822",
+    "935107910",
+    "70161824",
+    "935097710",
+    "935097716",
+    "935097717",
+    "935097718",
+    "935097719",
+    "935097720",
+    "935097721",
+    "70161830",
+    "70161831",
+    "935124591",
+    "935098851",
+    "70161834",
+    "935107920",
+    "70161838",
+    "70161839",
+    "70161840",
+    "70161841",
+    "70161842",
+    "935097772",
+    "70161844",
+    "70176008",
+    "935097759",
+    "935097762",
+    "935097764",
+    "935097766",
+    "935097768",
+    "70149506",
+    "70176009",
+    "935107921",
+    "70176011",
+    "70176012",
+    "70176013",
+    "70176014",
+    "935098852",
+    "70176016",
+    "935107928",
+    "935107929",
+    "935107930",
+    "935097726",
+    "935097727",
+    "935097728",
+    "935097729",
+    "935097737",
+    "935097738",
+    "935097739",
+    "935097740",
+    "935097741",
+    "935097769",
+    "935097770",
+    "935097771",
+    "935097748",
+    "70176029",
+    "935097773",
+    "925087691",
+    "935107924",
+    "70176033",
+    "70176034",
+    "70176035",
+    "70176036",
+    "70149507",
+    "70176037",
+    "935107925",
+    "935124579",
+    "70176040",
+    "935124580",
+    "935124581",
+    "70176043",
+    "70149508",
+    "70176044",
+    "70176045",
+    "70149509",
+    "935124575",
+    "935097749",
+    "935097750",
+    "935097751",
+    "935097752",
+    "935097753",
+    "935097756",
+    "935097757",
+    "935097774",
+    "70149511"
+   ]
+  },
+  {
+   "date": "2017-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75150234:por",
+     "title": "Decreto-Lei n.º 42-A/2016",
+     "published": "2016-08-12",
+     "dre_path": "/dr/detalhe/decreto-lei/42-a-2016-75150234"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 70.º",
+    "Revoga Artigo 69.º"
+   ],
+   "fragments": [
+    "70149504",
+    "70149505",
+    "935097760",
+    "935107896",
+    "935107897",
+    "935107898",
+    "935107899",
+    "70161798",
+    "70161801",
+    "70161802",
+    "935107900",
+    "935107901",
+    "70161807",
+    "935098847",
+    "70161809",
+    "70161810",
+    "70161811",
+    "70161812",
+    "70161813",
+    "935107902",
+    "70161815",
+    "70161816",
+    "70161817",
+    "70161818",
+    "70161819",
+    "70161820",
+    "935097709",
+    "70161821",
+    "70161822",
+    "935107910",
+    "70161824",
+    "935097710",
+    "935097716",
+    "935097717",
+    "935097718",
+    "935097719",
+    "935097720",
+    "935097721",
+    "70161830",
+    "70161831",
+    "935124591",
+    "935098851",
+    "70161834",
+    "935107920",
+    "70161838",
+    "70161839",
+    "70161840",
+    "70161841",
+    "70161842",
+    "935097772",
+    "70161844",
+    "70176008",
+    "935097759",
+    "935097762",
+    "935097764",
+    "935097766",
+    "935097768",
+    "70149506",
+    "70176009",
+    "935107921",
+    "70176011",
+    "70176012",
+    "70176013",
+    "70176014",
+    "935098852",
+    "70176016",
+    "935107928",
+    "935107929",
+    "935107930",
+    "935097726",
+    "935097727",
+    "935097728",
+    "935097729",
+    "935097737",
+    "935097738",
+    "935097739",
+    "935097740",
+    "935097741",
+    "935097769",
+    "935097770",
+    "935097771",
+    "935097748",
+    "70176029",
+    "935097773",
+    "925087691",
+    "935107924",
+    "70176033",
+    "70176034",
+    "70176035",
+    "70176036",
+    "70149507",
+    "70176037",
+    "935107925",
+    "935124579",
+    "70176040",
+    "935124580",
+    "935124581",
+    "70176043",
+    "70149508",
+    "935124593",
+    "935124592",
+    "70149509",
+    "935124575",
+    "935097749",
+    "935097750",
+    "935097751",
+    "935097752",
+    "935097753",
+    "935097756",
+    "935097757",
+    "935097774",
+    "70149511"
+   ]
+  },
+  {
+   "date": "2019-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:121579602:por",
+     "title": "Lei n.º 25/2019",
+     "published": "2019-03-26",
+     "dre_path": "/dr/detalhe/lei/25-2019-121579602"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "70149504",
+    "70149505",
+    "935097760",
+    "935107896",
+    "935107897",
+    "935107898",
+    "935107899",
+    "70161798",
+    "70161801",
+    "70161802",
+    "935107900",
+    "935107901",
+    "70161807",
+    "935098847",
+    "70161809",
+    "70161810",
+    "70161811",
+    "70161812",
+    "70161813",
+    "935107902",
+    "70161815",
+    "935124594",
+    "70161817",
+    "70161818",
+    "70161819",
+    "70161820",
+    "935097709",
+    "70161821",
+    "70161822",
+    "935107910",
+    "70161824",
+    "935097710",
+    "935097716",
+    "935097717",
+    "935097718",
+    "935097719",
+    "935097720",
+    "935097721",
+    "70161830",
+    "70161831",
+    "935124591",
+    "935098851",
+    "70161834",
+    "935107920",
+    "70161838",
+    "70161839",
+    "70161840",
+    "70161841",
+    "70161842",
+    "935097772",
+    "70161844",
+    "70176008",
+    "935097759",
+    "935097762",
+    "935097764",
+    "935097766",
+    "935097768",
+    "70149506",
+    "70176009",
+    "935107921",
+    "70176011",
+    "70176012",
+    "70176013",
+    "70176014",
+    "935098852",
+    "70176016",
+    "935107928",
+    "935107929",
+    "935107930",
+    "935097726",
+    "935097727",
+    "935097728",
+    "935097729",
+    "935097737",
+    "935097738",
+    "935097739",
+    "935097740",
+    "935097741",
+    "935097769",
+    "935097770",
+    "935097771",
+    "935097748",
+    "70176029",
+    "935097773",
+    "925087691",
+    "935107924",
+    "70176033",
+    "70176034",
+    "70176035",
+    "70176036",
+    "70149507",
+    "70176037",
+    "935107925",
+    "935124579",
+    "70176040",
+    "935124580",
+    "935124581",
+    "70176043",
+    "70149508",
+    "935124593",
+    "935124592",
+    "70149509",
+    "935124575",
+    "935097749",
+    "935097750",
+    "935097751",
+    "935097752",
+    "935097753",
+    "935097756",
+    "935097757",
+    "935097774",
+    "70149511"
+   ]
+  },
+  {
+   "date": "2024-11-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:895836368:por",
+     "title": "Decreto-Lei n.º 87/2024",
+     "published": "2024-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/87-2024-895836368"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 58.º"
+   ],
+   "fragments": [
+    "70149504",
+    "70149505",
+    "935097760",
+    "935107896",
+    "935107897",
+    "935107898",
+    "935107899",
+    "70161798",
+    "70161801",
+    "70161802",
+    "935107900",
+    "935107901",
+    "70161807",
+    "935098847",
+    "70161809",
+    "70161810",
+    "70161811",
+    "70161812",
+    "70161813",
+    "935107902",
+    "70161815",
+    "935124594",
+    "70161817",
+    "70161818",
+    "70161819",
+    "70161820",
+    "935097709",
+    "70161821",
+    "70161822",
+    "935107910",
+    "70161824",
+    "935097710",
+    "935097716",
+    "935097717",
+    "935097718",
+    "935097719",
+    "935097720",
+    "935097721",
+    "70161830",
+    "70161831",
+    "935124591",
+    "935098851",
+    "70161834",
+    "935107920",
+    "70161838",
+    "70161839",
+    "70161840",
+    "70161841",
+    "70161842",
+    "935097772",
+    "70161844",
+    "70176008",
+    "935097759",
+    "935097762",
+    "935097764",
+    "935097766",
+    "935097768",
+    "70149506",
+    "70176009",
+    "935107921",
+    "70176011",
+    "70176012",
+    "70176013",
+    "70176014",
+    "935098852",
+    "70176016",
+    "935107928",
+    "935107929",
+    "935107930",
+    "935097726",
+    "935097727",
+    "935097728",
+    "935097729",
+    "935097737",
+    "935097738",
+    "935097739",
+    "935097740",
+    "935097741",
+    "935097769",
+    "935097770",
+    "935097771",
+    "935097748",
+    "70176029",
+    "935097773",
+    "925087691",
+    "935107924",
+    "935124595",
+    "70176034",
+    "70176035",
+    "70176036",
+    "70149507",
+    "70176037",
+    "935107925",
+    "935124579",
+    "70176040",
+    "935124580",
+    "935124581",
+    "70176043",
+    "70149508",
+    "935124593",
+    "935124592",
+    "70149509",
+    "935124575",
+    "935097749",
+    "935097750",
+    "935097751",
+    "935097752",
+    "935097753",
+    "935097756",
+    "935097757",
+    "935097774",
+    "70149511"
+   ]
+  }
+ ],
+ "fragments": {
+  "70149504": {
+   "fragment_id": "70149603",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 50/2006\n\nde 29 de Agosto\n\nAprova a lei quadro das contra-ordenações ambientais\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70149505": {
+   "fragment_id": "70149604",
+   "type": 4,
+   "heading": "Parte I — Da contra-ordenação e da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte I — Da contra-ordenação e da coima"
+  },
+  "70149506": {
+   "fragment_id": "70149605",
+   "type": 4,
+   "heading": "Parte II — Do processo de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte II — Do processo de contra-ordenação"
+  },
+  "70149507": {
+   "fragment_id": "70149606",
+   "type": 4,
+   "heading": "Parte III — Cadastro nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte III — Cadastro nacional"
+  },
+  "70149508": {
+   "fragment_id": "70149607",
+   "type": 4,
+   "heading": "Parte IV — Fundo de Intervenção Ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte IV — Fundo de Intervenção Ambiental"
+  },
+  "70149509": {
+   "fragment_id": "70149608",
+   "type": 4,
+   "heading": "Parte V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte V — Disposições finais"
+  },
+  "70161776": {
+   "fragment_id": "70158538",
+   "type": 13,
+   "heading": "Título I — Da contra-ordenação ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Da contra-ordenação ambiental"
+  },
+  "70161775": {
+   "fragment_id": "70158537",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente lei estabelece o regime aplicável às contra-ordenações ambientais.\n\n2 - Constitui contra-ordenação ambiental todo o facto ilícito e censurável que preencha um tipo legal correspondente à violação de disposições legais e regulamentares relativas ao ambiente que consagrem direitos ou imponham deveres, para o qual se comine uma coima.\n\n3 - Para efeitos do número anterior, considera-se como legislação e regulamentação ambiental toda a que diga respeito às componentes ambientais naturais e humanas tal como enumeradas na Lei de Bases do Ambiente."
+  },
+  "935098845": {
+   "fragment_id": "70158539",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 2.º — Regime\n\n1 - As contra-ordenações ambientais são reguladas pelo disposto na presente lei e, subsidiariamente, pelo regime geral das contra-ordenações.\n\n2 - O regime fixado na presente lei é igualmente aplicável à tramitação dos processos relativos a contra-ordenações que, integrando componentes de natureza ambiental, não sejam expressamente classificadas nos termos previstos no artigo 77.º, excepto quando constem de regimes especiais.\n\n3 - Para efeitos do número anterior, consideram-se regimes especiais os relativos à reserva agrícola nacional e aos recursos florestais, fitogenéticos, agrícolas, cinegéticos, pesqueiros e aquícolas das águas interiores.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "70161788": {
+   "fragment_id": "70158551",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípio da legalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípio da legalidade\n\nSó é punido como contra-ordenação ambiental o factodescrito e declarado passível de coima por lei anterior ao momento da sua prática."
+  },
+  "70161789": {
+   "fragment_id": "70158552",
+   "type": 11,
+   "heading": "Artigo 4.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação no tempo\n\n1 - A punição da contra-ordenação ambiental é determinada pela lei vigente no momento da prática do facto ou do preenchimento dos pressupostos de que depende.\n\n2 - Se a lei vigente ao tempo da prática do facto for posteriormente modificada, aplica-se a lei mais favorável ao arguido, salvo se este já tiver sido condenado por decisão definitiva ou transitada em julgado.\n\n3 - Quando a lei valer para um determinado período de tempo, continua a ser punível como contra-ordenação ambiental o facto praticado durante esse período."
+  },
+  "70161798": {
+   "fragment_id": "70158561",
+   "type": 11,
+   "heading": "Artigo 5.º — Aplicação no espaço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aplicação no espaço\n\nSalvo tratado ou convenção internacional em contrário, a presente lei é aplicável aos factos praticados:\n\na) Em território português, independentemente da\n\nnacionalidade ou sede do agente;\n\nb) A bordo de aeronaves, comboios e navios portugueses."
+  },
+  "70161801": {
+   "fragment_id": "70158564",
+   "type": 11,
+   "heading": "Artigo 6.º — Momento da prática do facto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Momento da prática do facto\n\nO facto considera-se praticado no momento em que o agente actuou ou, no caso de omissão, deveria ter actuado, independentemente do momento em que o resultado típico se tenha produzido."
+  },
+  "70161802": {
+   "fragment_id": "70158565",
+   "type": 11,
+   "heading": "Artigo 7.º — Lugar da prática do facto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Lugar da prática do facto\n\nO facto considera-se praticado no lugar em que, total ou parcialmente e sob qualquer forma de comparticipação, o agente actuou ou, no caso de omissão, devia ter actuado, bem como naquele em que o resultado típico se tenha produzido."
+  },
+  "935098846": {
+   "fragment_id": "70158566",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidade pelas contra-ordenações",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 8.º — Responsabilidade pelas contra-ordenações\n\n1 - As coimas podem ser aplicadas às pessoas colectivas, públicas ou privadas, independentemente da regularidade da sua constituição, bem como às sociedades e associações sem personalidade jurídica.\n\n2 - As pessoas colectivas ou equiparadas, nos termos do número anterior, são responsáveis pelas contra-ordenações praticadas, em seu nome ou por sua conta, pelos titulares dos seus órgãos sociais, mandatários, representantes ou trabalhadores no exercício das suas funções.\n\n3 - Os titulares do órgão de administração das pessoas colectivas e entidades equiparadas, bem como os responsáveis pela direcção ou fiscalização de áreas de actividade em que seja praticada alguma contra-ordenação, incorrem na sanção prevista para o autor, especialmente atenuada, quando, conhecendo ou devendo conhecer a prática da infracção, não adoptem as medidas adequadas para lhe pôr termo imediatamente, a não ser que sanção mais grave lhes caiba por força de outra disposição legal.\n\n4 - A responsabilidade prevista no n.º 2 é excluída se a pessoa colectiva provar que cumpriu todos os deveres a que estava obrigada, não logrando, apesar disso, impedir a prática da infracção por parte dos seus trabalhadores ou de mandatários sem poderes de representação.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "70161806": {
+   "fragment_id": "70158574",
+   "type": 11,
+   "heading": "Artigo 9.º — Punibilidade por dolo e negligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Punibilidade por dolo e negligência\n\n1 — As contra-ordenações são puníveis a título de dolo ou de negligência.\n\n2 — Salvo disposição expressa em contrário, as contra-ordenações ambientais são sempre puníveis a título de negligência.\n\n3 — O erro sobre elementos do tipo, sobre a proibição ou sobre um estado de coisas que, a existir, afastaria a ilicitude do facto ou a culpa do agente exclui o dolo."
+  },
+  "70161807": {
+   "fragment_id": "70167875",
+   "type": 11,
+   "heading": "Artigo 10.º — Punibilidade da tentativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Punibilidade da tentativa\n\nA tentativa é punível nas contra-ordenações classificadas de graves e muito graves, sendo os limites mínimos e máximos da respectiva coima reduzidos a metade."
+  },
+  "935098847": {
+   "fragment_id": "70167876",
+   "type": 11,
+   "heading": "Artigo 11.º — Responsabilidade solidária",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 11.º — Responsabilidade solidária\n\nSe o agente for pessoa colectiva ou equiparada, respondem pelo pagamento da coima, solidariamente com esta, os respectivos titulares do órgão máximo das pessoas colectivas públicas, sócios, administradores ou gerentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "70161809": {
+   "fragment_id": "70167877",
+   "type": 11,
+   "heading": "Artigo 12.º — Erro sobre a ilicitude",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Erro sobre a ilicitude\n\n1 - Age sem culpa quem actua sem consciência da ilicitude do facto, se o erro lhe não for censurável.\n\n2 - Se o erro lhe for censurável, a coima pode ser especialmente atenuada."
+  },
+  "70161810": {
+   "fragment_id": "70167878",
+   "type": 11,
+   "heading": "Artigo 13.º — Inimputabilidade em razão da idade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Inimputabilidade em razão da idade\n\nPara os efeitos da presente lei, consideram-se inimputáveis os menores de 16 anos."
+  },
+  "70161811": {
+   "fragment_id": "70167879",
+   "type": 11,
+   "heading": "Artigo 14.º — Inimputabilidade em razão de anomalia psíquica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Inimputabilidade em razão de anomalia psíquica\n\n1 - É inimputável quem, por força de uma anomalia psíquica, é incapaz, no momento da prática do facto, de avaliar a ilicitude deste ou de se determinar de acordo com essa avaliação.\n\n2 - Pode ser declarado inimputável quem, por força de uma anomalia psíquica grave, não acidental e cujos efeitos não domina, sem que por isso possa ser censurado, tem, no momento da prática do facto, a capacidade para avaliar a ilicitude deste ou para se determinar de acordo com essa avaliação sensivelmente diminuída.\n\n3 - A imputabilidade não é excluída quando a anomalia psíquica tiver sido provocada pelo agente com intenção de praticar o facto."
+  },
+  "70161812": {
+   "fragment_id": "70167880",
+   "type": 11,
+   "heading": "Artigo 15.º — Autoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Autoria\n\nÉ punível como autor quem executar o facto, por si mesmo ou por intermédio de outrem, ou tomar parte directa na sua execução, por acordo ou juntamente com outro ou outros, e ainda quem, dolosamente, determinar outra pessoa à prática do facto, desde que haja execução ou começo de execução."
+  },
+  "70161813": {
+   "fragment_id": "70167881",
+   "type": 11,
+   "heading": "Artigo 16.º — Cumplicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cumplicidade\n\n1 - É punível como cúmplice quem, dolosamente e por qualquer forma, prestar auxílio material ou moral à prática por outrem de um facto doloso.\n\n2 - É aplicável ao cúmplice a sanção fixada para o autor, especialmente atenuada."
+  },
+  "70161814": {
+   "fragment_id": "70167882",
+   "type": 11,
+   "heading": "Artigo 17.º — Comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comparticipação\n\n1 - Se vários agentes comparticiparem no facto, qualquer deles incorre em responsabilidade por contra-ordenação ambiental mesmo que a ilicitude ou o grau de ilicitude do facto dependam de certas qualidades ou relações especiais do agente e estas só existam num dos comparticipantes.\n\n2 - Cada comparticipante é punido segundo a sua culpa, independentemente da punição ou do grau de culpa dos outros comparticipantes."
+  },
+  "70161815": {
+   "fragment_id": "70167883",
+   "type": 13,
+   "heading": "Título II — Do direito de acesso e dos embargos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Do direito de acesso e dos embargos administrativos"
+  },
+  "70161816": {
+   "fragment_id": "70167884",
+   "type": 11,
+   "heading": "Artigo 18.º — Direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direito de acesso\n\n1 - Às autoridades administrativas no exercício das funções inspectivas, de fiscalização ou vigilância é facultada a entrada livre nos estabelecimentos e locais onde se exerçam as actividades a inspeccionar.\n\n2 - Os responsáveis pelos espaços referidos no número anterior são obrigados a facultar a entrada e a permanência às autoridades referidas no número anterior e a apresentar-lhes a documentação, livros, registos e quaisquer outros elementos que lhes forem exigidos, bem como a prestar-lhes as informações que forem solicitadas.\n\n3 - Em caso de recusa de acesso ou obstrução à acção inspectiva, de fiscalização ou vigilância, pode ser solicitada a colaboração das forças policiais para remover tal obstrução e garantir a realização e segurança dos actos inspectivos.\n\n4 - O disposto neste artigo é aplicável a outros espaços afectos ao exercício das actividades inspeccionadas, nomeadamente aos veículos automóveis, aeronaves, comboios e navios."
+  },
+  "70161817": {
+   "fragment_id": "70167885",
+   "type": 11,
+   "heading": "Artigo 19.º — Embargos administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Embargos administrativos\n\n1 - As autoridades administrativas no exercício dos seus poderes de vigilância, fiscalização ou inspecção podem determinar, dentro da sua área de actuação geográfica, o embargo de quaisquer construções em áreas de ocupação proibida ou condicionada em zonas de protecção estabelecidas por lei ou em contravenção à lei, aos regulamentos ou às condições de licenciamento ou autorização.\n\n2 - As autoridades administrativas podem, para efeitos do artigo anterior, consultar integralmente e sem reservas, junto das câmaras municipais, os processos respeitantes às construções em causa, bem como deles solicitar cópias, que devem, com carácter de urgência, ser disponibilizados por aquelas."
+  },
+  "70161818": {
+   "fragment_id": "70167886",
+   "type": 13,
+   "heading": "Título III — Das coimas e das sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Das coimas e das sanções acessórias"
+  },
+  "70161819": {
+   "fragment_id": "70167887",
+   "type": 1,
+   "heading": "Capítulo I — Da sanção aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da sanção aplicável"
+  },
+  "70161820": {
+   "fragment_id": "70167888",
+   "type": 11,
+   "heading": "Artigo 20.º — Da sanção aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Da sanção aplicável\n\n1 - A determinação da medida da coima faz-se em função da gravidade da contra-ordenação, da culpa do agente, da sua situação económica e dos benefícios obtidos com a prática do facto.\n\n2 - Na determinação da sanção aplicável são ainda tomadas em conta a conduta anterior e posterior do agente e as exigências de prevenção.\n\n3 - São ainda atendíveis a coacção, a falsificação, as falsas declarações, simulação ou outro meio fraudulento utilizado pelo agente, bem como a existência de actos de ocultação ou dissimulação tendentes a dificultar a descoberta da infracção."
+  },
+  "70161821": {
+   "fragment_id": "70167889",
+   "type": 1,
+   "heading": "Capítulo II — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Coimas"
+  },
+  "70161822": {
+   "fragment_id": "70167890",
+   "type": 11,
+   "heading": "Artigo 21.º — Classificação das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Classificação das contra-ordenações\n\nPara determinação da coima aplicável e tendo em conta a relevância dos direitos e interesses violados, as contra-ordenações classificam-se em leves, graves e muito graves."
+  },
+  "935098848": {
+   "fragment_id": "70167891",
+   "type": 11,
+   "heading": "Artigo 22.º — Montantes das coimas",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 22.º — Montantes das coimas\n\n1 - A cada escalão classificativo de gravidade das contra-ordenações ambientais corresponde uma coima variável consoante seja aplicada a uma pessoa singular ou colectiva e em função do grau de culpa, salvo o disposto no artigo seguinte.\n\n2 - Às contra-ordenações leves correspondem as seguintes coimas:\n\na) Se praticadas por pessoas singulares, de (euro) 200 a (euro) 1000 em caso de negligência e de (euro) 400 a (euro) 2000 em caso de dolo;\n\nb) Se praticadas por pessoas colectivas, de (euro) 3000 a (euro) 13 000 em caso de negligência e de (euro) 6000 a (euro) 22 500 em caso de dolo.\n\n3 - Às contra-ordenações graves correspondem as seguintes coimas:\n\na) Se praticadas por pessoas singulares, de (euro) 2000 a (euro) 10 000 em caso de negligência e de (euro) 6000 a (euro) 20 000 em caso de dolo;\n\nb) Se praticadas por pessoas colectivas, de (euro) 15 000 a (euro) 30 000 em caso de negligência e de (euro) 30 000 a (euro) 48 000 em caso de dolo.\n\n4 - Às contra-ordenações muito graves correspondem as seguintes coimas:\n\na) Se praticadas por pessoas singulares, de (euro) 20 000 a (euro) 30 000 em caso de negligência e de (euro) 30 000 a (euro) 37 500 em caso de dolo;\n\nb) Se praticadas por pessoas colectivas, de (euro) 38 500 a (euro) 70 000 em caso de negligência e de (euro) 200 000 a (euro) 2 500 000 em caso de dolo.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "70161824": {
+   "fragment_id": "70167892",
+   "type": 11,
+   "heading": "Artigo 23.º — Critérios especiais de medida da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Critérios especiais de medida da coima\n\nA moldura da coima nas contra-ordenações muito graves, previstas nas alíneas a) e b) do n.º 4 do artigo 22.º, é elevada para o dobro nos seus limites mínimo e máximo quando a presença ou emissão de uma ou mais substâncias perigosas afecte gravemente a saúde, a segurança das pessoas e bens e o ambiente."
+  },
+  "70161825": {
+   "fragment_id": "70167893",
+   "type": 11,
+   "heading": "Artigo 24.º — Cumprimento do dever omitido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cumprimento do dever omitido\n\nSempre que a contra-ordenação ambiental consista na omissão de um dever, o pagamento da coima não dispensa o infractor do seu cumprimento, se este ainda for possível."
+  },
+  "935098849": {
+   "fragment_id": "70167894",
+   "type": 11,
+   "heading": "Artigo 25.º — Ordens da autoridade administrativa",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 25.º — Ordens da autoridade administrativa\n\n1 - Constitui contra-ordenação leve o incumprimento de ordens ou mandados legítimos da autoridade administrativa transmitidos por escrito aos seus destinatários.\n\n2 - Verificado o incumprimento a que se refere o número anterior, a autoridade administrativa notifica o destinatário para cumprir a ordem ou o mandado e se aquele continuar a não os cumprir é aplicável a coima correspondente às contra-ordenações graves, desde que a notificação da autoridade administrativa contenha a indicação expressa de que ao incumprimento se aplica esta sanção.\n\n3 - Os documentos, nomeadamente mapas, guias de transporte, relatórios e boletins que o agente ou o arguido esteja obrigado a enviar por força da lei ou a solicitação da autoridade administrativa, são tidos, para todos os efeitos legais, como não enviados quando omitam dados ou sejam remetidos incorrectamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "70161827": {
+   "fragment_id": "70167896",
+   "type": 11,
+   "heading": "Artigo 26.º — Reincidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reincidência\n\n1 - É punido como reincidente quem cometer uma infracção muito grave ou uma infracção grave praticada com dolo, depois de ter sido condenado por qualquer outra infracção.\n\n2 - É igualmente punido como reincidente quem cometer qualquer infracção depois de ter sido condenado por uma infracção muito grave ou por uma infracção grave praticada com dolo.\n\n3 - A infracção pela qual o agente tenha sido condenado não releva para efeitos de reincidência se entre as duas infracções tiver decorrido o prazo de prescrição da primeira.\n\n4 - Em caso de reincidência, os limites mínimo e máximo da coima são elevados em um terço do respectivo valor."
+  },
+  "70161828": {
+   "fragment_id": "70167897",
+   "type": 11,
+   "heading": "Artigo 27.º — Concurso de contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Concurso de contra-ordenações\n\n1 - Quem tiver praticado várias contra-ordenações ambientais é punido com uma coima cujo limite máximo resulta da soma das coimas concretamente aplicadas às infracções em concurso.\n\n2 - A coima a aplicar não pode exceder o dobro do limite máximo mais elevado das contra-ordenações ambientais em concurso.\n\n3 - A coima a aplicar não pode ser inferior à mais elevada das coimas concretamente aplicadas às várias contra-ordenações ambientais."
+  },
+  "70161829": {
+   "fragment_id": "70167898",
+   "type": 11,
+   "heading": "Artigo 28.º — Concurso de infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Concurso de infracções\n\n1 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação ambiental, o arguido é responsabilizado por ambas as infracções, instaurando-se, para o efeito, processos distintos a decidir pelas autoridades competentes, sem prejuízo do disposto nos números seguintes.\n\n2 - A decisão administrativa que aplique uma coima caduca quando o arguido venha a ser condenado em processo criminal pelo mesmo facto.\n\n3 - Sendo o arguido punido a título de crime, poderão ainda assim aplicar-se as sanções acessórias previstas para a respectiva contra-ordenação."
+  },
+  "70161830": {
+   "fragment_id": "70167899",
+   "type": 1,
+   "heading": "Capítulo III — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Sanções acessórias"
+  },
+  "70161831": {
+   "fragment_id": "70167900",
+   "type": 11,
+   "heading": "Artigo 29.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Procedimento\n\nA lei pode, simultaneamente com a coima, determinar, relativamente às infracções graves e muito graves, a aplicação de sanções acessórias, nos termos previstos nos artigos seguintes e no regime geral das contra-ordenações."
+  },
+  "935098850": {
+   "fragment_id": "70167901",
+   "type": 11,
+   "heading": "Artigo 30.º — Sanções acessórias",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 30.º — Sanções acessórias\n\n1 - Pela prática de contra-ordenações ambientais graves e muito graves podem ser aplicadas ao infractor as seguintes sanções acessórias:\n\na) Apreensão e perda a favor do Estado dos objectos pertencentes ao arguido, utilizados ou produzidos aquando da infracção;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a benefícios ou subsídios outorgados por entidades ou serviços públicos, nacionais ou comunitários;\n\nd) Privação do direito de participar em conferências, feiras ou mercados nacionais ou internacionais com intuito de transaccionar ou dar publicidade aos seus produtos ou às suas actividades;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou concessão de obras públicas, a aquisição de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Cessação ou suspensão de licenças, alvarás ou autorizações relacionados com o exercício da respectiva actividade;\n\nh) Perda de benefícios fiscais, de benefícios de crédito e de linhas de financiamento de crédito de que haja usufruído;\n\ni) Selagem de equipamentos destinados à laboração;\n\nj) Imposição das medidas que se mostrem adequadas à prevenção de danos ambientais, à reposição da situação anterior à infracção e à minimização dos efeitos decorrentes da mesma;\n\nl) Publicidade da condenação.\n\nm) Apreensão de animais.\n\n2 - No caso de ser aplicada a sanção prevista nas alíneas c) e h) do número anterior, deve a autoridade administrativa comunicar de imediato à entidade que atribui o benefício ou subsídio com vista à suspensão das restantes parcelas dos mesmos.\n\n3 - No caso do recebimento pelo infractor da totalidade ou parte do benefício ou subsídio, pode o mesmo ser condenado a devolvê-lo.\n\n4 - As sanções referidas nas alíneas b) a j) do n.º 1 têm a duração máxima de três anos contados a partir da data da decisão condenatória definitiva.\n\n5 - Quando se verifique obstrução à execução das medidas previstas nas alíneas f), i) e j) do n.º 1 do presente artigo, pode igualmente ser solicitada às entidades competentes a notificação dos distribuidores de energia eléctrica para interromperem o fornecimento desta.\n\n6 - No caso de ser aplicada a sanção prevista na alínea m) do n.º 1 deve a autoridade administrativa comunicar de imediato à entidade licenciadora da respectiva actividade para que esta a execute.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935098851": {
+   "fragment_id": "70167909",
+   "type": 11,
+   "heading": "Artigo 31.º — Pressupostos da aplicação das sanções acessórias",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 31.º — Pressupostos da aplicação das sanções acessórias\n\n1 - A sanção referida na alínea a) do n.º 1 do artigo anterior só pode ser decretada quando os objectos serviram ou estavam destinados a servir para a prática de uma contra-ordenação ou por esta foram produzidos.\n\n2 - A sanção prevista na alínea b) do n.º 1 do artigo anterior só pode ser decretada se o arguido praticou a contra-ordenação em flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos deveres que lhe são inerentes.\n\n3 - A sanção prevista na alínea c) do n.º 1 do artigo anterior só pode ser decretada quando a contra-ordenação tiver sido praticada no exercício ou por causa da actividade a favor da qual é atribuído o subsídio.\n\n4 - A sanção prevista na alínea d) do n.º 1 do artigo anterior só pode ser decretada quando a contra-ordenação tiver sido praticada durante ou por causa da participação em conferência, feira ou mercado.\n\n5 - A sanção prevista na alínea e) do n.º 1 do artigo anterior só pode ser decretada quando a contra-ordenação tiver sido praticada durante ou por causa dos actos públicos ou no exercício ou por causa das actividades mencionadas nessa alínea.\n\n6 - A sanção prevista nas alíneas f) e g) do n.º 1 do artigo anterior só pode ser decretada quando a contra-ordenação tenha sido praticada no exercício ou por causa da actividade a que se referem as autorizações, licenças ou alvarás ou por causa do funcionamento do estabelecimento.\n\n7 - A sanção prevista na alínea h) do n.º 1 do artigo anterior só pode ser decretada quando a contra-ordenação tiver sido praticada no exercício ou por causa da actividade a favor da qual é atribuído o benefício ou financiamento e estes tenham sido atribuídos directa ou indirectamente pelo Estado ou provenham da União Europeia.\n\n8 - A sanção prevista na alínea i) do n.º 1 do artigo anterior só pode ser decretada quando a contra-ordenação tiver sido praticada através do equipamento em causa ou com o concurso daquele.\n\n9 - A sanção prevista na alínea m) do n.º 1 do artigo anterior só pode ser decretada quando os animais objecto de apreensão serviram ou estavam destinados a servir para a prática de uma contra-ordenação.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "70161834": {
+   "fragment_id": "70167910",
+   "type": 11,
+   "heading": "Artigo 32.º — Interdição e inibição do exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Interdição e inibição do exercício da actividade\n\n1 - Pode ser aplicada aos responsáveis por qualquer contra-ordenação a interdição temporária, até ao limite de três anos, do exercício da profissão ou da actividade a que a contra-ordenação respeita.\n\n2 - A sanção prevista neste artigo só pode ser decretada se o arguido praticou a contra-ordenação em flagrante e grave abuso da função que exerce ou com manifesta e grave violação dos deveres que lhe são inerentes."
+  },
+  "70161835": {
+   "fragment_id": "70167911",
+   "type": 11,
+   "heading": "Artigo 33.º — Perda de objectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Perda de objectos\n\n1 - Podem ser declarados perdidos os objectos que serviram ou estavam destinados a servir para a prática de uma contra-ordenação ambiental ou que em consequência desta foram produzidos, quando tais objectos representem, pela sua natureza ou pelas circunstâncias do caso, grave perigo para a saúde, a segurança de pessoas e bens e o ambiente ou exista sério risco da sua utilização para a prática de um crime ou de outra contra-ordenação em matéria ambiental.\n\n2 - Salvo se o contrário resultar da presente lei ou do regime geral das contra-ordenações, são aplicáveis à perda de objectos as regras relativas à sanção acessória de perda de objectos."
+  },
+  "70161838": {
+   "fragment_id": "70167914",
+   "type": 11,
+   "heading": "Artigo 34.º — Perda do valor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Perda do valor\n\nQuando, devido a actuação dolosa do agente, se tiver tornado total ou parcialmente inexequível a perda de objectos que, no momento da prática do facto, lhe pertenciam, pode ser declarada perdida uma quantia em dinheiro correspondente ao valor daqueles."
+  },
+  "70161839": {
+   "fragment_id": "70167915",
+   "type": 11,
+   "heading": "Artigo 35.º — Efeitos da perda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Efeitos da perda\n\nO carácter definitivo ou o trânsito em julgado da decisão de perda determina a transferência da propriedade para o Estado."
+  },
+  "70161840": {
+   "fragment_id": "70167916",
+   "type": 11,
+   "heading": "Artigo 36.º — Perda independente de coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Perda independente de coima\n\nA perda de objectos ou do respectivo valor pode ter lugar ainda que não possa haver procedimento contra o agente ou a este não seja aplicada uma coima."
+  },
+  "70161841": {
+   "fragment_id": "70167917",
+   "type": 11,
+   "heading": "Artigo 37.º — Objectos pertencentes a terceiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Objectos pertencentes a terceiro\n\nA perda de objectos pertencentes a terceiro só pode ter lugar:\n\na) Quando os seus titulares tiverem concorrido, com culpa, para a sua utilização ou produção ou do facto tiverem tirado vantagens; ou\n\nb) Quando os objectos forem, por qualquer título, adquiridos após a prática do facto, conhecendo os adquirentes a proveniência."
+  },
+  "70161842": {
+   "fragment_id": "70167918",
+   "type": 11,
+   "heading": "Artigo 38.º — Publicidade da condenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Publicidade da condenação\n\n1 - A lei determina os casos em que a prática de infracções graves e muito graves é objecto de publicidade.\n\n2 - A publicidade da condenação referida no número anterior pode consistir na publicação de um extracto com a caracterização da infracção e a norma violada, a identificação do infractor e a sanção aplicada:\n\na) Num jornal diário de âmbito nacional e numa publicação periódica local ou regional, da área da sede do infractor, a expensas deste;\n\nb) Na 2.ª série do Diário da República, no último dia útil de cada trimestre, em relação aos infractores condenados no trimestre anterior, a expensas destes.\n\n3 - As publicações referidas no número anterior são promovidas pelo tribunal competente, em relação às infracções objecto de decisão judicial, e pela autoridade administrativa, nos restantes casos."
+  },
+  "70161843": {
+   "fragment_id": "70167919",
+   "type": 11,
+   "heading": "Artigo 39.º — Suspensão da sanção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Suspensão da sanção\n\n1 - A autoridade administrativa que procedeu à aplicação da sanção pode suspender, total ou parcialmente, a sua execução.\n\n2 - A suspensão pode ficar condicionada ao cumprimento de certas obrigações, designadamente as consideradas necessárias para a regularização de situações ilegais, à reparação de danos ou à prevenção de perigos para a saúde, segurança das pessoas e bens e ambiente.\n\n3 - O tempo de suspensão da sanção é fixado entre um e três anos, contando-se o seu início a partir da data em que se esgotar o prazo da impugnação judicial da decisão condenatória.\n\n4 - Decorrido o tempo de suspensão sem que o arguido tenha praticado qualquer contra-ordenação ambiental, e sem que tenha violado as obrigações que lhe hajam sido impostas, fica a condenação sem efeito, procedendo-se, no caso contrário, à execução da sanção aplicada."
+  },
+  "70161844": {
+   "fragment_id": "70167920",
+   "type": 13,
+   "heading": "Título IV — Da prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Da prescrição"
+  },
+  "70176008": {
+   "fragment_id": "70176092",
+   "type": 11,
+   "heading": "Artigo 40.º — Prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Prescrição\n\n1 - O procedimento pelas contra-ordenações graves e muito graves prescreve logo que sobre a prática da contra-ordenação haja decorrido o prazo de cinco anos, sem prejuízo das causas de interrupção e suspensão previstas no regime geral.\n\n2 - O procedimento pelas contra-ordenações leves prescreve logo que sobre a prática da contra-ordenação haja decorrido o prazo de três anos, sem prejuízo das causas de interrupção e suspensão previstas no regime geral.\n\n3 - O prazo de prescrição da coima e sanções acessórias é de:\n\na) Três anos, no caso das contra-ordenações graves e muito graves;\n\nb) Dois anos, no caso de contra-ordenações leves.\n\n4 - O prazo referido no número anterior conta-se a partir do dia em que se torna definitiva ou transita em julgado a decisão que determinou a sua aplicação, sem prejuízo das causas de interrupção e suspensão previstas no regime geral."
+  },
+  "70176009": {
+   "fragment_id": "70176094",
+   "type": 13,
+   "heading": "Título I — Das medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Das medidas cautelares"
+  },
+  "70176010": {
+   "fragment_id": "70176095",
+   "type": 11,
+   "heading": "Artigo 41.º — Determinação das medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Determinação das medidas cautelares\n\n1 - Quando se revele necessário para a instrução do processo ou quando estejam em causa a saúde, a segurança das pessoas e bens e o ambiente, a autoridade administrativa pode determinar uma ou mais das seguintes medidas:\n\na) Suspensão da laboração ou o encerramento preventivo no todo ou em parte da unidade poluidora;\n\nb) Notificação do arguido para cessar as actividades desenvolvidas em violação dos componentes ambientais;\n\nc) Suspensão de alguma ou algumas actividades ou funções exercidas pelo arguido;\n\nd) Sujeição da laboração a determinadas condições necessárias ao cumprimento da legislação ambiental;\n\ne) Selagem de equipamento por determinado tempo;\n\nf) Recomendações técnicas a implementar obrigatoriamente quando esteja em causa a melhoria das condições ambientais de laboração;\n\ng) Imposição das medidas que se mostrem adequadas à prevenção de danos ambientais, à reposição da situação anterior à infracção e à minimização dos efeitos decorrentes da mesma.\n\n2 - A determinação referida no número anterior vigora, consoante os casos:\n\na) Até à sua revogação pela autoridade administrativa ou por decisão judicial;\n\nb) Até ao início do cumprimento de sanção acessória de efeito equivalente à medida prevista no artigo 30.º da presente lei;\n\nc) Até à superveniência de decisão administrativa ou judicial que não condene o arguido à sanção acessória prevista no artigo 30.º, quando tenha sido decretada medida cautelar de efeito equivalente;\n\nd) Até à ultrapassagem do prazo de instrução estabelecido pelo artigo 48.º\n\n3 - Quando se verifique obstrução à execução das medidas previstas no n.º 1 deste artigo, pode ser solicitada pela autoridade administrativa às entidades distribuidoras de energia eléctrica a interrupção do fornecimento desta aos arguidos por aquela indicados.\n\n4 - A determinação da suspensão e do encerramento preventivo previstos no n.º 1 podem ser objecto de publicação pela autoridade administrativa, sendo as custas da publicação suportadas pelo infractor.\n\n5 - Quando, nos termos da alínea c) do n.º 1, seja determinada a suspensão total das actividades ou das funções exercidas pelo arguido e este venha a ser condenado, no mesmo processo, em sanção acessória que consista em interdição ou inibição do exercício das mesmas actividades ou funções, é descontado por inteiro, no cumprimento da sanção acessória, o tempo de duração da suspensão preventiva."
+  },
+  "70176011": {
+   "fragment_id": "70176097",
+   "type": 11,
+   "heading": "Artigo 42.º — Apreensão cautelar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Apreensão cautelar\n\n1 - A lei pode determinar a apreensão provisória pela autoridade administrativa, nos termos desta lei e do regime geral das contra-ordenações, nomeadamente dos seguintes bens e documentos:\n\na) Equipamentos destinados à laboração;\n\nb) Licenças, certificados, autorizações, aprovações, guias de substituição e ou outros documentos equiparados;\n\nc) Animais ou plantas de espécies protegidas ilegalmente na posse de pessoas singulares ou colectivas.\n\n2 - No caso de apreensão nos termos da alínea a) do número anterior, pode o seu proprietário, ou quem o represente, ser designado fiel depositário, com a obrigação de não utilizar os bens cautelarmente apreendidos, sob pena de crime de desobediência qualificada."
+  },
+  "70176012": {
+   "fragment_id": "70176098",
+   "type": 13,
+   "heading": "Título II — Do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Do processo"
+  },
+  "70176013": {
+   "fragment_id": "70176099",
+   "type": 1,
+   "heading": "Capítulo I — Das notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Das notificações"
+  },
+  "70176014": {
+   "fragment_id": "70176100",
+   "type": 11,
+   "heading": "Artigo 43.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Notificações\n\n1 - As notificações em processo de contra-ordenação são efectuadas por carta registada, com aviso de recepção, sempre que se impute ao arguido a prática de contra-ordenação da decisão que lhe aplique coima ou admoestação, sanção acessória ou alguma medida cautelar, bem como a convocação para este assistir ou participar em actos ou diligências.\n\n2 - As notificações são dirigidas para a sede ou para o domicílio dos destinatários.\n\n3 - Se, por qualquer motivo, a carta registada, com aviso de recepção, for devolvida à entidade competente, a notificação será reenviada ao notificando, para o seu domicílio ou sede, através de carta simples.\n\n4 - Na notificação por carta simples deverá expressamente constar no processo a data de expedição da carta e do domicílio para o qual foi enviada, considerando-se a notificação efectuada no 5.º dia posterior à data ali indicada, cominação esta que deve constar do acto de notificação.\n\n5 - Sempre que o notificando se recusar a receber ou assinar a notificação, o agente certifica a recusa, considerando-se efectuada a notificação.\n\n6 - As notificações referidas nos números anteriores poderão ser efectuadas por telefax ou via correio electrónico, sempre que haja conhecimento do telefax ou do endereço de correio electrónico do notificando.\n\n7 - Quando a notificação for efectuada por telefax ou via correio electrónico, presume-se que foi feita na data da emissão, servindo de prova, respectivamente, a cópia do aviso onde conste a menção de que a mensagem foi enviada com sucesso, bem como a data, hora e número de telefax do receptor ou o extracto da mensagem efectuada, o qual será junto aos autos.\n\n8 - O despacho que ordene a notificação pode ser impresso e assinado por chancela.\n\n9 - Constitui notificação o recebimento pelo interessado de cópia de acta ou assento do acto a que assista.\n\n10 - As notificações efectuadas por simples carta registada presumem-se feitas no 3.º dia posterior ao do registo ou no 1.º dia útil seguinte a esse, quando esse dia não seja útil.\n\n11 - Havendo aviso de recepção, a notificação considera-se efectuada na data em que ele for assinado e tem-se por efectuada na própria pessoa do notificando, mesmo quando o aviso de recepção haja sido assinado por terceiro presente na sede ou domicílio do destinatário, presumindo-se, neste caso, que a carta foi oportunamente entregue àquele.\n\n12 - Os interessados que intervenham em quaisquer procedimentos contra-ordenacionais nas autoridades administrativas de fiscalização ou inspecção ambiental comunicarão, no prazo de 10 dias úteis, qualquer alteração da sua sede ou domicílio.\n\n13 - A falta de recebimento de qualquer aviso ou comunicação, devido ao não cumprimento do disposto no número anterior, não é oponível às autoridades administrativas, produzindo todos os efeitos legais, sem prejuízo do que se dispõe quanto à obrigatoriedade da notificação e dos termos por que deve ser efectuada."
+  },
+  "935098852": {
+   "fragment_id": "70176101",
+   "type": 11,
+   "heading": "Artigo 44.º — Notificações aos mandatários",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 44.º — Notificações aos mandatários\n\n1 - As notificações aos arguidos que tenham constituído mandatário serão, sempre que possível, feitas na pessoa deste e no seu domicílio profissional.\n\n2 - Quando a notificação tenha em vista a convocação de testemunhas ou peritos, além da notificação destes, será ainda notificado o mandatário, indicando-se a data, o local e o motivo da comparência.\n\n3 - Para os efeitos do número anterior, o arguido, sempre que arrolar testemunhas, deve fornecer todos os elementos necessários à sua notificação, designadamente indicar correctamente a morada e o respectivo código postal relativo a cada uma delas.\n\n4 - As notificações referidas nos números anteriores são feitas por carta registada, com aviso de recepção, aplicando-se às mesmas o disposto nos n.os 3, 4 e 5 do artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "70176016": {
+   "fragment_id": "70176102",
+   "type": 1,
+   "heading": "Capítulo II — Processamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Processamento"
+  },
+  "935107928": {
+   "fragment_id": "70176103",
+   "type": 11,
+   "heading": "Artigo 45.º — Auto de notícia ou participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Auto de notícia ou participação\n\n1 - A autoridade administrativa levantará o respectivo auto de notícia quando, no exercício das suas funções, verificar ou comprovar pessoalmente, ainda que por forma não imediata, qualquer infracção às normas referidas no artigo 1.º, o qual servirá de meio de prova das ocorrências verificadas.\n\n2 - Relativamente às infracções de natureza contra-ordenacional cuja verificação a autoridade administrativa não tenha comprovado pessoalmente, a mesma deve elaborar uma participação instruída com os elementos de prova de que disponha."
+  },
+  "935107929": {
+   "fragment_id": "70176105",
+   "type": 11,
+   "heading": "Artigo 46.º — Elementos do auto de notícia e da participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Elementos do auto de notícia e da participação\n\n1 - O auto de notícia ou a participação referida no artigo anterior deve, sempre que possível, mencionar:\n\na) Os factos que constituem a infracção;\n\nb) O dia, a hora, o local e as circunstâncias em que a infracção foi cometida ou detectada;\n\nc) No caso de a infracção ser praticada por pessoa singular, os elementos de identificação do infractor e da sua residência;\n\nd) No caso de a infracção ser praticada por pessoa colectiva ou equiparada, os seus elementos de identificação, nomeadamente a sua sede, identificação e residência dos respectivos gerentes, administradores e directores;\n\ne) A identificação e residência das testemunhas;\n\nf) Nome, categoria e assinatura do autuante ou participante.\n\n2 - As entidades que não tenham competência para proceder à instrução do processo de contra-ordenação devem remeter o auto de notícia ou participação no prazo de 10 dias úteis à autoridade administrativa competente."
+  },
+  "935107930": {
+   "fragment_id": "70176110",
+   "type": 11,
+   "heading": "Artigo 47.º — Identificação pelas autoridades administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Identificação pelas autoridades administrativas\n\nAs autoridades administrativas competentes podem exigir ao agente de uma contra-ordenação a respectiva identificação, sob pena de crime de desobediência."
+  },
+  "935107931": {
+   "fragment_id": "70176111",
+   "type": 11,
+   "heading": "Artigo 48.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Instrução\n\n1 - O autuante ou participante não pode exercer funções instrutórias no mesmo processo.\n\n2 - O prazo para a instrução é de 180 dias contados a partir da data de distribuição ao respectivo instrutor.\n\n3 - Se a instrução não puder ser concluída no prazo indicado no número anterior, a autoridade administrativa pode, sob proposta fundamentada do instrutor, prorrogar o prazo por um período até 120 dias."
+  },
+  "935107932": {
+   "fragment_id": "70176112",
+   "type": 11,
+   "heading": "Artigo 49.º — Direito de audiência e defesa do arguido",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 49.º — Direito de audiência e defesa do arguido\n\n1 - O auto de notícia, depois de confirmado pela autoridade administrativa e antes de ser tomada a decisão final, é notificado ao infractor conjuntamente com todos os elementos necessários para que este fique a conhecer a totalidade dos aspectos relevantes para a decisão, nas matérias de facto e de direito, para, no prazo de 15 dias úteis, se pronunciar por escrito sobre o que se lhe oferecer por conveniente.\n\n2 - No mesmo prazo deve, querendo, apresentar resposta escrita, juntar os documentos probatórios de que disponha e arrolar testemunhas, até ao máximo de duas por cada facto, num total de sete.\n\n3 - Consideram-se não escritos os nomes das testemunhas que no rol ultrapassem o número legal, bem como daquelas relativamente às quais não sejam indicados os elementos necessários à sua notificação.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935107933": {
+   "fragment_id": "935096688",
+   "type": 11,
+   "heading": "Artigo 49.º-A — Redução da coima",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 49.º-A — Redução da coima\n\n1 - No prazo máximo de 15 dias úteis após a notificação efectuada nos termos do n.º 1 do artigo anterior, o arguido pode requerer o pagamento da coima relativa a contra-ordenações leves e graves, sendo a mesma reduzida em 25 % do montante mínimo legal.\n\n2 - A redução da coima prevista no número anterior só pode ter lugar se o arguido:\n\na) Cumulativamente com o pedido, demonstrar ter cessado a conduta ilícita, por acção ou omissão, objecto da contra-ordenação ou contra-ordenações cuja prática lhe foi imputada;\n\nb) Não for reincidente.\n\n3 - Para efeitos do n.º 1, é considerado como montante mínimo da coima o estabelecido para os casos de negligência.\n\n4 - O pagamento da coima nos termos do presente artigo equivale a condenação para efeitos de reincidência, não excluindo a possibilidade de aplicação de sanções acessórias.\n\n5 - A coima deve ser paga nos 10 dias úteis posteriores à notificação para pagamento, sob pena do respectivo procedimento contra-ordenacional prosseguir os seus trâmites legais.\n\n6 - A apresentação do requerimento nos termos do n.º 1 não suspende o prazo previsto no n.º 1 do artigo anterior.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935098865": {
+   "fragment_id": "70176113",
+   "type": 11,
+   "heading": "Artigo 50.º — Comparência de testemunhas e peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Comparência de testemunhas e peritos\n\n1 - As testemunhas e os peritos devem ser ouvidos na sede da autoridade administrativa onde se realize a instrução do processo ou numa delegação daquela, caso esta a possua.\n\n2 - As testemunhas podem ser ouvidas pela autoridade policial, a seu requerimento ou a pedido da autoridade administrativa.\n\n3 - Se por qualquer motivo a autoridade de polícia não puder ouvir as testemunhas, estas serão obrigatoriamente ouvidas nas instalações da autoridade administrativa competente para a instrução do processo.\n\n4 - Às testemunhas e aos peritos que não comparecerem no dia, na hora e no local designados para a diligência do processo, nem justificarem a falta no próprio dia ou nos cinco dias úteis imediatos, é aplicada pela autoridade administrativa uma sanção pecuniária até 5 UC.\n\n5 - Considera-se justificada a falta motivada por facto não imputável ao faltoso que o impeça de comparecer no acto processual.\n\n6 - A diligência de inquirição de testemunhas ou peritos apenas pode ser adiada uma única vez, ainda que a falta à primeira marcação tenha sido considerada justificada.\n\n7 - No caso em que as testemunhas e os peritos não compareçam a uma segunda convocação, após terem faltado à primeira, a sanção pecuniária a aplicar pela autoridade administrativa pode variar entre 5 UC e 10 UC.\n\n8 - O pagamento é efectuado no prazo de 10 dias úteis a contar da notificação, sob pena de se proceder à execução, servindo de título executivo a notificação efectuada pela autoridade administrativa."
+  },
+  "935098866": {
+   "fragment_id": "70176114",
+   "type": 11,
+   "heading": "Artigo 51.º — Ausência do arguido, das testemunhas e peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Ausência do arguido, das testemunhas e peritos\n\nA falta de comparência do arguido, das testemunhas e peritos, devidamente notificados, não obsta a que o processo de contra-ordenação siga os seus termos."
+  },
+  "935098867": {
+   "fragment_id": "70176115",
+   "type": 11,
+   "heading": "Artigo 52.º — Envio dos autos ao Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Envio dos autos ao Ministério Público\n\n1 - Recebida a impugnação judicial, deve a autoridade administrativa enviar os autos ao Ministério Público no prazo de 20 dias úteis, que os torna presentes ao juiz, valendo este acto como acusação.\n\n2 - Aquando do envio dos autos, pode a autoridade administrativa juntar alegações.\n\n3 - Até ao envio dos autos, pode a autoridade administrativa revogar, total ou parcialmente, a decisão de aplicação da coima ou sanção acessória.\n\n4 - Sem prejuízo do disposto no artigo 70.º do Decreto-Lei n.º 433/82, de 27 de Outubro, a autoridade administrativa pode juntar outros elementos ou informações que considere relevantes para a decisão da causa, bem como oferecer meios de prova.\n\n5 - A desistência da acusação pelo Ministério Público depende da concordância da autoridade administrativa."
+  },
+  "935098871": {
+   "fragment_id": "935096689",
+   "type": 11,
+   "heading": "Artigo 52.º-A — Preclusão da impugnação",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 52.º-A — Preclusão da impugnação\n\nO pagamento da coima após a notificação da decisão administrativa que a aplicou preclude o direito de impugnação judicial relativamente à mesma.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935098872": {
+   "fragment_id": "70176116",
+   "type": 11,
+   "heading": "Artigo 53.º — Juros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Juros\n\nNo final do processo judicial que conheça da impugnação ou da execução da decisão proferida em processo de contra-ordenação, e se esta tiver sido total ou parcialmente confirmada pelo tribunal, acresce ao valor da coima em dívida o pagamento de juros contados desde a data da notificação da decisão pela autoridade administrativa ao arguido, à taxa máxima estabelecida na lei fiscal."
+  },
+  "935098873": {
+   "fragment_id": "70176117",
+   "type": 11,
+   "heading": "Artigo 54.º — Pagamento voluntário da coima",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 54.º — Pagamento voluntário da coima\n\n1 - Relativamente a contra-ordenações leves e graves, bem como a contra-ordenações muito graves praticadas com negligência, o arguido pode proceder ao pagamento voluntário da coima, excepto nos casos em que não haja cessação da actividade ilícita.\n\n2 - Se a infracção consistir na falta de entrega de documentos ou na omissão de comunicações obrigatórias, o pagamento voluntário da coima só é possível se o arguido sanar a falta no mesmo prazo.\n\n3 - Fora dos casos de reincidência, no pagamento voluntário, a coima é liquidada pelo valor mínimo que corresponda ao tipo de infracção praticada.\n\n4 - O pagamento voluntário da coima equivale a condenação para efeitos de reincidência, não excluindo a possibilidade de aplicação de sanções acessórias.\n\n5 - O pagamento voluntário da coima é admissível em qualquer altura do processo, mas sempre antes da decisão.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935098874": {
+   "fragment_id": "70176118",
+   "type": 11,
+   "heading": "Artigo 55.º — Participação das autoridades administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Participação das autoridades administrativas\n\n1 - O tribunal comunica à autoridade administrativa a data da audiência para, querendo, esta poder participar na audiência.\n\n2 - O tribunal notifica as autoridades administrativas para estas trazerem à audiência os elementos que reputem convenientes para uma correcta decisão do caso.\n\n3 - O tribunal deve comunicar à autoridade administrativa que decidiu o processo os despachos, a sentença, bem como outras decisões finais."
+  },
+  "70176029": {
+   "fragment_id": "70176119",
+   "type": 13,
+   "heading": "Título III — Processo sumaríssimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Processo sumaríssimo"
+  },
+  "70176030": {
+   "fragment_id": "70176120",
+   "type": 11,
+   "heading": "Artigo 56.º — Processo sumaríssimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Processo sumaríssimo\n\n1 - Quando a reduzida gravidade da infracção e da culpa do agente o justifiquem, pode a autoridade administrativa nos casos de infracções classificadas de leves, e antes de acusar formalmente o arguido, comunicar-lhe a decisão de aplicar uma sanção.\n\n2 - Pode ainda ser determinado ao arguido que adopte o comportamento legalmente exigido dentro do prazo que a autoridade administrativa lhe fixe para o efeito.\n\n3 - A decisão prevista no n.º 1 é escrita e contém a identificação do arguido, a descrição sumária dos factos imputados e a menção das disposições legais violadas e termina com a admoestação ou a indicação da coima concretamente aplicada.\n\n4 - O arguido é notificado da decisão e informado de que lhe assiste o direito de a recusar, no prazo de cinco dias úteis, e da consequência prevista no número seguinte.\n\n5 - A recusa ou o silêncio do arguido neste prazo, o requerimento de qualquer diligência complementar, o incumprimento do disposto no n.º 2 ou o não pagamento da coima no prazo de 10 dias úteis após a notificação referida no número anterior determinam o imediato prosseguimento do processo de contra-ordenação, ficando sem efeito a decisão referida nos n.os 1 a 3.\n\n6 - Tendo o arguido procedido ao cumprimento do disposto no n.º 2 e ao pagamento da coima que lhe tenha sido aplicada, a decisão torna-se definitiva, como decisão condenatória, não podendo o facto voltar a ser apreciado como contra-ordenação.\n\n7 - A decisão proferida em processo sumaríssimo, de acordo com o estabelecido nos números anteriores, implica a perda de legitimidade do arguido para recorrer daquela."
+  },
+  "925087691": {
+   "fragment_id": "925086603",
+   "type": 13,
+   "heading": "Título IV — Custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Custas"
+  },
+  "70176032": {
+   "fragment_id": "70176122",
+   "type": 11,
+   "heading": "Artigo 57.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Princípios gerais\n\n1 - As custas do processo revertem para a autoridade administrativa que aplicou a sanção.\n\n2 - Se o contrário não resultar desta lei, as custas em processo de contra-ordenação regulam-se pelos preceitos reguladores das custas em processo criminal.\n\n3 - As decisões das autoridades administrativas que decidam sobre a matéria do processo devem fixar o montante das custas e determinar quem as deve suportar.\n\n4 - O processo de contra-ordenação que corra perante as autoridades administrativas não dá lugar ao pagamento da taxa de justiça nem a procuradoria.\n\n5 - A suspensão da sanção prevista no artigo 39.º desta lei não abrange as custas."
+  },
+  "70176033": {
+   "fragment_id": "70176123",
+   "type": 11,
+   "heading": "Artigo 58.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Encargos\n\n1 - As custas compreendem, nomeadamente, os seguintes encargos:\n\na) As despesas de transporte e as ajudas de custo;\n\nb) O reembolso por franquias postais, comunicações telefónicas, telegráficas, por telecópia e telemáticas;\n\nc) Os emolumentos devidos aos peritos;\n\nd) O transporte e o armazenamento de bens apreendidos;\n\ne) O pagamento devido a qualquer entidade pelo custo de certidões ou outros elementos de informação e de prova;\n\nf) O reembolso com a aquisição de suportes fotográficos, magnéticos e áudio necessários à obtenção da prova;\n\ng) Os exames, análises, peritagens ou outras acções que a autoridade administrativa tenha realizado ou mandado efectuar na decorrência da inspecção que conduziu ao processo de contra-ordenação.\n\n2 - As custas são suportadas pelo arguido em caso de aplicação de uma coima, admoestação, sanção acessória ou medida cautelar e de desistência ou rejeição da impugnação.\n\n3 - Nos demais casos, as custas são suportadas pelo erário público."
+  },
+  "70176034": {
+   "fragment_id": "70176124",
+   "type": 11,
+   "heading": "Artigo 59.º — Impugnação das custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Impugnação das custas\n\n1 - O arguido pode, nos termos gerais, impugnar judicialmente a decisão da autoridade administrativa relativa às custas, devendo a impugnação ser apresentada no prazo de 10 dias úteis a partir do conhecimento da decisão a impugnar.\n\n2 - Da decisão do tribunal de 1.ª instância só há recurso para o Tribunal da Relação quando o montante exceda a alçada daquele tribunal."
+  },
+  "70176035": {
+   "fragment_id": "70176125",
+   "type": 11,
+   "heading": "Artigo 60.º — Execução de custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Execução de custas\n\n1 - Decorrido o prazo de pagamento das custas sem a sua realização, a autoridade administrativa envia, nos 20 dias úteis seguintes, o processo ao Ministério Público para a instauração da competente acção executiva.\n\n2 - Consideram-se títulos executivos as guias de custas passadas pela autoridade administrativa.\n\n3 - Ao valor das custas em dívida acrescem juros de mora à taxa máxima estabelecida na lei fiscal a contar da data da notificação pela autoridade administrativa."
+  },
+  "70176036": {
+   "fragment_id": "70176126",
+   "type": 11,
+   "heading": "Artigo 61.º — Prescrição do crédito de custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Prescrição do crédito de custas\n\nO crédito de custas prescreve no prazo de cinco anos."
+  },
+  "70176037": {
+   "fragment_id": "70176127",
+   "type": 11,
+   "heading": "Artigo 62.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Princípios\n\n1 - O cadastro deve processar-se no estrito respeito pelos princípios da legalidade, veracidade e segurança das informações recolhidas.\n\n2 - A Comissão Nacional de Protecção de Dados (CNPD) acompanha e fiscaliza, nos termos da lei sobre protecção de dados pessoais, as operações referidas nos artigos seguintes."
+  },
+  "935098855": {
+   "fragment_id": "70176130",
+   "type": 11,
+   "heading": "Artigo 63.º — Objecto",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 63.º — Objecto\n\n1 - O cadastro nacional tem por objecto o registo e o tratamento das sanções principais e acessórias, bem como das medidas cautelares aplicadas em processo de contra-ordenação e das decisões judiciais, relacionadas com aqueles processos, após decisão definitiva ou trânsito em julgado.\n\n2 - Estão ainda sujeitas a registo a suspensão, a prorrogação da suspensão e a revogação das decisões tomadas no processo de contra-ordenação.\n\n3 - O cadastro nacional é organizado em ficheiro central informatizado, dele devendo constar:\n\na) A identificação da entidade que proferiu a decisão;\n\nb) A identificação do arguido;\n\nc) A data e a forma da decisão;\n\nd) O conteúdo da decisão e dos preceitos aplicados;\n\ne) O pagamento da coima e das custas do processo;\n\nf) A eventual execução da coima e das custas do processo.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "70176039": {
+   "fragment_id": "70176131",
+   "type": 11,
+   "heading": "Artigo 64.º — Entidade responsável pelo cadastro nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Entidade responsável pelo cadastro nacional\n\n1 - A Inspecção-Geral do Ambiente e do Ordenamento do Território é o organismo responsável pelo cadastro nacional.\n\n2 - Cabe à Inspecção-Geral do Ambiente e do Ordenamento do Território assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de dados, bem como velar pela legalidade da consulta ou da comunicação da informação.\n\n3 - Podem ainda aceder aos dados constantes do cadastro:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal e de instrução de processos criminais;\n\nb) As entidades que, nos termos da lei processual penal, recebam delegação para a prática de actos de inquérito ou instrução;\n\nc) As entidades oficiais para a prossecução de fins públicos a seu cargo."
+  },
+  "70176040": {
+   "fragment_id": "70176132",
+   "type": 11,
+   "heading": "Artigo 65.º — Registo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Registo individual\n\n1 - A autoridade administrativa deve organizar um registo individual dos sujeitos responsáveis pelas infracções ambientais, do qual devem constar as medidas cautelares e as sanções principais e acessórias aplicadas em processos de contra-ordenação.\n\n2 - Os registos efectuados pela autoridade administrativa podem ser integrados e tratados em aplicações informáticas, nos termos e com os limites da lei sobre protecção de dados pessoais.\n\n3 - Os dados constantes dos registos previstos no número anterior, bem como os dados constantes de suporte documental, podem ser publicamente divulgados nos casos de contra-ordenações muito graves e de reincidência envolvendo contra-ordenações graves."
+  },
+  "70176041": {
+   "fragment_id": "70176133",
+   "type": 11,
+   "heading": "Artigo 66.º — Envio de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Envio de dados\n\nTodas as autoridades administrativas têm a obrigação de enviar à Inspecção-Geral do Ambiente e do Ordenamento do Território em relação aos processos de contra-ordenação por si decididos, no prazo de 30 dias úteis, informação onde constem os dados referidos no n.º 3 do artigo 63.º"
+  },
+  "935098856": {
+   "fragment_id": "70176134",
+   "type": 11,
+   "heading": "Artigo 67.º — Certificado de cadastro ambiental",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 67.º — Certificado de cadastro ambiental\n\n1 - Todas as entidades que possam aceder aos dados constantes do cadastro devem efectuar o seu pedido junto da Inspecção-Geral do Ambiente e do Ordenamento do Território, que, para o efeito, emite o certificado de cadastro ambiental onde constem todas as informações de acordo com o artigo 63.º\n\n2 - Pela emissão do certificado de cadastro ambiental é devida uma taxa nos termos a definir por decreto-lei e cujo montante é fixado por portaria do ministro responsável pela área do ambiente.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "70176043": {
+   "fragment_id": "70176135",
+   "type": 11,
+   "heading": "Artigo 68.º — Cancelamento definitivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Cancelamento definitivo\n\nSão cancelados automaticamente, e de forma irrevogável, no cadastro ambiental todos os dados:\n\na) Com existência superior a cinco anos relativos a infracções graves e muito graves;\n\nb) Com existência superior a três anos relativos a infracções leves."
+  },
+  "70176044": {
+   "fragment_id": "70176137",
+   "type": 11,
+   "heading": "Artigo 69.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Criação\n\n1 - É criado o Fundo de Intervenção Ambiental, adiante designado por Fundo.\n\n2 - O regulamento do Fundo deve ser instituído por decreto-lei, a aprovar no prazo de 120 dias."
+  },
+  "70176045": {
+   "fragment_id": "70176138",
+   "type": 11,
+   "heading": "Artigo 70.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Objectivos\n\nO Fundo arrecada parte das receitas provenientes das coimas aplicadas, nos termos definidos no artigo 73.º, que se destina a prevenir e reparar danos resultantes de actividades lesivas para o ambiente, nomeadamente nos casos em que os responsáveis não os possam ressarcir em tempo útil."
+  },
+  "70176046": {
+   "fragment_id": "70176139",
+   "type": 11,
+   "heading": "Artigo 71.º — Competência genérica do inspector-geral do Ambiente e do Ordenamento do Território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Competência genérica do inspector-geral do Ambiente e do Ordenamento do Território\n\n1 - Sem prejuízo da competência atribuída por lei a qualquer autoridade administrativa para a instauração e decisão dos processos de contra-ordenação, o inspector-geral do Ambiente e do Ordenamento do Território é sempre competente para os mesmos efeitos relativamente àqueles processos.\n\n2 - O inspector-geral do Ambiente e do Ordenamento do Território é ainda competente para a instauração e decisão de processos de contra-ordenação cujo ilícito, ainda que de âmbito mais amplo, enquadre componentes ambientais.\n\n3 - O ministro responsável pela área do ambiente pode determinar, sempre que o interesse público o justifique, que a Inspecção-Geral do Ambiente e do Ordenamento do Território avoque os processos de contra-ordenação ambiental que se encontrem em curso em quaisquer serviços do ministério em causa.\n\n4 - A avocação prevista no número anterior implica a transferência do processo para a Inspecção-Geral do Ambiente e do Ordenamento do Território para efeitos de instrução e decisão, sem prejuízo do dever de cooperação que continua a incidir sobre o serviço inicialmente competente."
+  },
+  "935098857": {
+   "fragment_id": "70176140",
+   "type": 11,
+   "heading": "Artigo 72.º — Actualização das coimas",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 72.º — Actualização das coimas\n\n1 - Independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, o produto das coimas aplicadas na sequência de processos de contra-ordenação tramitados ao abrigo do presente regime, bem como nos casos previstos nos artigos 49.º-A e 54.º, é repartido da seguinte forma:\n\na) 50 % para o Fundo de Intervenção Ambiental;\n\nb) 25 % para a autoridade que a aplique;\n\nc) 15 % para a entidade autuante;\n\nd) 10 % para o Estado.\n\n2 - Enquanto não entrar em vigor o decreto-lei referido no n.º 2 do artigo 69.º, a parte das coimas atribuível ao Fundo continua a ser receita do Estado.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935107875": {
+   "fragment_id": "70176144",
+   "type": 11,
+   "heading": "Artigo 73.º — Autoridade administrativa",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 73.º — Autoridade administrativa\n\nPara os efeitos da presente lei, considera-se autoridade administrativa todo o organismo a quem compita legalmente a instauração, a instrução e ou a aplicação das sanções dos processos de contra-ordenação em matéria ambiental.\n\n> Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935107876": {
+   "fragment_id": "70176148",
+   "type": 11,
+   "heading": "Artigo 74.º — Reformatio in pejus",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 74.º — Reformatio in pejus\n\nNão é aplicável aos processos de contra-ordenação instaurados e decididos nos termos desta lei a proibição de reformatio in pejus, devendo essa informação constar de todas as decisões finais que admitam impugnação ou recurso.\n\n> Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935107877": {
+   "fragment_id": "70176149",
+   "type": 11,
+   "heading": "Artigo 75.º — Salvaguarda do regime das contra-ordenações no âmbito do meio marinho",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 75.º — Salvaguarda do regime das contra-ordenações no âmbito do meio marinho\n\nA presente lei não prejudica o disposto no regime das contra-ordenações no âmbito da poluição do meio marinho nos espaços marítimos sob jurisdição nacional, aprovado pelo Decreto-Lei n.º 235/2000, de 26 de Setembro.\n\n> Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935107878": {
+   "fragment_id": "70176150",
+   "type": 11,
+   "heading": "Artigo 76.º — Disposição transitória",
+   "in_force_from": "2009-09-05",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 76.º — Disposição transitória\n\nAs disposições da presente lei referentes às coimas e respectivos valores só são aplicáveis a partir da publicação de diploma que, alterando a legislação vigente sobre matéria ambiental, proceda à classificação das contra-ordenações aí tipificadas.\n\n> Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "70149511": {
+   "fragment_id": "70149610",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de Julho de 2006.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 14 de Agosto de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 17 de Agosto de 2006.\n\nPelo Primeiro-Ministro, António Luís Santos Costa, Ministro de Estado e da Administração Interna."
+  },
+  "935097760": {
+   "fragment_id": "70158538",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "## Título I — Disposições gerais\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935107896": {
+   "fragment_id": "70158537",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente lei estabelece o regime aplicável às contraordenações ambientais e do ordenamento do território.\n\n2 - Constitui contra-ordenação ambiental todo o facto ilícito e censurável que preencha um tipo legal correspondente à violação de disposições legais e regulamentares relativas ao ambiente que consagrem direitos ou imponham deveres, para o qual se comine uma coima.\n\n3 - Para efeitos do número anterior, considera-se como legislação e regulamentação ambiental toda a que diga respeito às componentes ambientais naturais e humanas tal como enumeradas na Lei de Bases do Ambiente.\n\n4 - Constitui contraordenação do ordenamento do território a violação dos planos municipais e intermunicipais e das medidas preventivas, como tal previstas no título V da parte I.\n\n5 - Sem prejuízo do disposto no número anterior, a violação dos regulamentos de gestão dos programas especiais constitui a prática de uma contraordenação ambiental, como tal previstas nos respetivos regimes legais especiais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935107897": {
+   "fragment_id": "70158539",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 2.º — Regime\n\n1 - As contraordenações ambientais e do ordenamento do território são reguladas pelo disposto na presente lei e, subsidiariamente, pelo regime geral das contraordenações.\n\n2 - (Revogado).\n\n3 - Para efeitos do número anterior, consideram-se regimes especiais os relativos à reserva agrícola nacional e aos recursos florestais, fitogenéticos, agrícolas, cinegéticos, pesqueiros e aquícolas das águas interiores.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935107898": {
+   "fragment_id": "70158551",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípio da legalidade",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 3.º — Princípio da legalidade\n\nSó é punido como contraordenação o facto descrito e declarado passível de coima por lei anterior ao momento da sua prática.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935107899": {
+   "fragment_id": "70158552",
+   "type": 11,
+   "heading": "Artigo 4.º — Aplicação no tempo",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 4.º — Aplicação no tempo\n\n1 - A punição da contraordenação é determinada pela lei vigente no momento da prática do facto ou do preenchimento dos pressupostos de que depende.\n\n2 - Se a lei vigente ao tempo da prática do facto for posteriormente modificada, aplica-se a lei mais favorável ao arguido, salvo se este já tiver sido condenado por decisão definitiva ou transitada em julgado.\n\n3 - Quando a lei valer para um determinado período de tempo, continua a ser punível como contraordenação o facto praticado durante esse período.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935107900": {
+   "fragment_id": "70158566",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidade pelas contra-ordenações",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 8.º — Responsabilidade pelas contra-ordenações\n\n1 - Os administradores, gerentes e outras pessoas que exerçam, ainda que somente de facto, funções de administração em pessoas coletivas, ainda que irregularmente constituídas, e outras quaisquer entidades equiparadas são subsidiariamente responsáveis:\n\na) Pelas coimas aplicadas a infrações por factos praticados no período do exercício do seu cargo ou por factos anteriores quando tiver sido por culpa sua que o património da sociedade ou pessoa coletiva se tornou insuficiente para o seu pagamento;\n\nb) Pelas coimas devidas por factos anteriores quando a decisão definitiva que as aplicar for notificada durante o período do exercício do seu cargo e lhes seja imputável a falta de pagamento;\n\nc) Pelas custas processuais decorrentes dos processos instaurados no âmbito da presente lei.\n\n2 - A responsabilidade subsidiária prevista no número anterior é solidária se forem várias as pessoas a praticar os atos ou omissões culposos de que resulte a insuficiência do património das entidades em causa.\n\n3 - Presume-se a insuficiência de património, nomeadamente, em caso de declaração de insolvência e de dissolução e encerramento da liquidação.\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935107901": {
+   "fragment_id": "70158574",
+   "type": 11,
+   "heading": "Artigo 9.º — Punibilidade por dolo e negligência",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 9.º — Punibilidade por dolo e negligência\n\n1 — As contra-ordenações são puníveis a título de dolo ou de negligência.\n\n2 - A negligência nas contraordenações é sempre punível.\n\n3 — O erro sobre elementos do tipo, sobre a proibição ou sobre um estado de coisas que, a existir, afastaria a ilicitude do facto ou a culpa do agente exclui o dolo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935107902": {
+   "fragment_id": "70167882",
+   "type": 11,
+   "heading": "Artigo 17.º — Comparticipação",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 17.º — Comparticipação\n\n1 - Se vários agentes comparticiparam no facto, qualquer deles incorre em responsabilidade por contraordenação mesmo que a ilicitude ou o grau de ilicitude do facto dependam de certas qualidades ou relações especiais do agente e estas só existam num dos comparticipantes.\n\n2 - Cada comparticipante é punido segundo a sua culpa, independentemente da punição ou do grau de culpa dos outros comparticipantes.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097709": {
+   "fragment_id": "935096704",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Suspensão da sanção",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 20.º-A — Suspensão da sanção\n\n1 - Na decisão do processo de contraordenação, a autoridade administrativa pode suspender, total ou parcialmente, a aplicação da coima, quando se verifiquem as seguintes condições cumulativas:\n\na) Seja aplicada uma sanção acessória que imponha medidas adequadas à prevenção de danos ambientais, à reposição da situação anterior à infração e à minimização dos efeitos decorrentes da mesma;\n\nb) O cumprimento da sanção acessória seja indispensável à eliminação de riscos para a saúde, segurança das pessoas e bens ou ambiente.\n\n2 - Nas situações em que a autoridade administrativa não suspenda a coima, nos termos do número anterior, pode suspender, total ou parcialmente, a execução da sanção acessória.\n\n3 - A suspensão pode ficar condicionada ao cumprimento de certas obrigações, designadamente as consideradas necessárias para a regularização de situações ilegais, à reparação de danos ou à prevenção de perigos para a saúde, segurança das pessoas e bens e ambiente.\n\n4 - O tempo de suspensão da sanção é fixado entre um e três anos, contando-se o seu início a partir da data em que se esgotar o prazo da impugnação judicial da decisão condenatória.\n\n5 - A suspensão da execução da sanção é sempre revogada se, durante o respetivo período, ocorrer uma das seguintes situações:\n\na) O arguido cometer uma nova contraordenação ambiental ou do ordenamento do território, quando tenha sido condenado pela prática, respetivamente, de uma contraordenação ambiental ou do ordenamento do território;\n\nb) O arguido violar as obrigações que lhe tenham sido impostas.\n\n6 - A revogação determina o cumprimento da sanção cuja execução estava suspensa.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935107910": {
+   "fragment_id": "70167891",
+   "type": 11,
+   "heading": "Artigo 22.º — Montantes das coimas",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 22.º — Montantes das coimas\n\n1 - A cada escalão classificativo de gravidade das contraordenações corresponde uma coima variável consoante seja aplicada a uma pessoa singular ou coletiva e em função do grau de culpa, salvo o disposto no artigo seguinte.\n\n2 - Às contra-ordenações leves correspondem as seguintes coimas:\n\na) Se praticadas por pessoas singulares, de (euro) 200 a (euro) 2 000 em caso de negligência e de (euro) 400 a (euro) 4 000 em caso de dolo;\n\nb) Se praticadas por pessoas coletivas, de (euro) 2 000 a (euro) 18 000 em caso de negligência e de (euro) 6 000 a (euro) 3 6000 em caso de dolo.\n\n3 - Às contra-ordenações graves correspondem as seguintes coimas:\n\na) Se praticadas por pessoas singulares, de (euro) 2 000 a (euro) 20 000 em caso de negligência e de (euro) 4 000 a (euro) 40 000 em caso de dolo;\n\nb) Se praticadas por pessoas coletivas, de (euro) 12 000 a (euro) 72 000 em caso de negligência e de (euro) 36 000 a (euro) 216 000 em caso de dolo.\n\n4 - Às contra-ordenações muito graves correspondem as seguintes coimas:\n\na) Se praticadas por pessoas singulares, de (euro) 10 000 a (euro) 100 000 em caso de negligência e de (euro) 20 000 a (euro) 200 000 em caso de dolo;\n\nb) Se praticadas por pessoas coletivas, de (euro) 24 000 a (euro) 144 000 em caso de negligência e de (euro) 240 000 a (euro) 5 000 000 em caso de dolo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097710": {
+   "fragment_id": "935096705",
+   "type": 11,
+   "heading": "Artigo 23.º-A — Atenuação especial da coima",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 23.º-A — Atenuação especial da coima\n\n1 - Para além dos casos expressamente previstos na lei, a autoridade administrativa atenua especialmente a coima, quando existirem circunstâncias anteriores ou posteriores à prática da contraordenação, ou contemporâneas dela, que diminuam por forma acentuada a ilicitude do facto, a culpa do agente ou a necessidade da coima.\n\n2 - Para efeito do disposto no número anterior, são consideradas, entre outras, as circunstâncias seguintes:\n\na) Ter havido atos demonstrativos de arrependimento do agente, nomeadamente a reparação, até onde lhe era possível, dos danos causados e o cumprimento da norma, ordem ou mandado infringido;\n\nb) Terem decorrido dois anos sobre a prática da contraordenação, mantendo o agente boa conduta.\n\n3 - Só pode ser atendida uma única vez a circunstância que, por si mesma ou conjuntamente com outras circunstâncias, der lugar simultaneamente a uma atenuação especialmente prevista na lei e à prevista neste artigo.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097716": {
+   "fragment_id": "935096706",
+   "type": 11,
+   "heading": "Artigo 23.º-B — Termos da atenuação especial",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 23.º-B — Termos da atenuação especial\n\nSempre que houver lugar à atenuação especial da coima, os limites mínimos e máximos da coima são reduzidos a metade.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097717": {
+   "fragment_id": "70167893",
+   "type": 11,
+   "heading": "Artigo 24.º — Cumprimento do dever omitido",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 24.º — Cumprimento do dever omitido\n\nSempre que a contraordenação consista na omissão de um dever, o pagamento da coima não dispensa o infrator do seu cumprimento, se este ainda for possível.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097718": {
+   "fragment_id": "70167894",
+   "type": 11,
+   "heading": "Artigo 25.º — Ordens da autoridade administrativa",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 25.º — Ordens da autoridade administrativa\n\n1 - Constitui contraordenação leve o incumprimento de ordens ou mandados legítimos da autoridade administrativa, transmitidos por escrito aos seus destinatários, quando à mesma conduta não seja aplicável sanção mais grave.\n\n2 - O incumprimento de ordens ou mandados legítimos, a que se refere o número anterior, após a respetiva notificação, constitui contraordenação grave.\n\n3 - A notificação das ordens ou mandados legítimos, nos termos do n.º 1, inclui expressamente o prazo fixado para o cumprimento da ordem ou mandado e a informação do agravamento da medida da contraordenação em caso de incumprimento, nos termos do número anterior.\n\n4 - Os documentos, nomeadamente mapas, guias de transporte, relatórios e boletins que o agente ou o arguido esteja obrigado a enviar por força da lei ou a solicitação da autoridade administrativa, são tidos, para todos os efeitos legais, como não enviados quando omitam dados ou sejam remetidos incorrectamente.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097719": {
+   "fragment_id": "70167896",
+   "type": 11,
+   "heading": "Artigo 26.º — Reincidência",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 26.º — Reincidência\n\n1 - É punido como reincidente quem cometer uma infração muito grave ou grave, depois de ter sido condenado por uma infração muito grave ou grave.\n\n2 - (Revogado).\n\n3 - A infracção pela qual o agente tenha sido condenado não releva para efeitos de reincidência se entre as duas infracções tiver decorrido o prazo de prescrição da primeira.\n\n4 - Em caso de reincidência, os limites mínimo e máximo da coima são elevados em um terço do respectivo valor.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097720": {
+   "fragment_id": "70167897",
+   "type": 11,
+   "heading": "Artigo 27.º — Concurso de contra-ordenações",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 27.º — Concurso de contra-ordenações\n\n1 - Quem tiver praticado várias contraordenações é punido com uma coima cujo limite máximo resulta da soma das coimas concretamente aplicadas às infrações em concurso.\n\n2 - A coima a aplicar não pode exceder o dobro do limite máximo mais elevado das contraordenações em concurso.\n\n3 - A coima a aplicar não pode ser inferior à mais elevada das coimas concretamente aplicadas às várias contraordenações.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097721": {
+   "fragment_id": "70167898",
+   "type": 11,
+   "heading": "Artigo 28.º — Concurso de infracções",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 28.º — Concurso de infracções\n\n1 - Se o mesmo facto constituir simultaneamente crime e contraordenação, o agente é sempre punido a título de crime, sem prejuízo da aplicação das sanções acessórias previstas para a contraordenação.\n\n2 - Quando se verifique concurso de crime e contraordenação, ou quando, pelo mesmo facto, uma pessoa deva responder a título de crime e outra a título de contraordenação, o processamento da contraordenação cabe às autoridades competentes para o processo criminal, nos termos do regime geral das contraordenações.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935124591": {
+   "fragment_id": "70167901",
+   "type": 11,
+   "heading": "Artigo 30.º — Sanções acessórias",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 30.º — Sanções acessórias\n\n1 - Pela prática de contraordenações graves e muito graves podem ser aplicadas ao infrator as seguintes sanções acessórias:\n\na) Apreensão e perda a favor do Estado dos objectos pertencentes ao arguido, utilizados ou produzidos aquando da infracção;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a benefícios ou subsídios outorgados por entidades ou serviços públicos, nacionais ou comunitários;\n\nd) Privação do direito de participar em conferências, feiras ou mercados nacionais ou internacionais com intuito de transaccionar ou dar publicidade aos seus produtos ou às suas actividades;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou concessão de obras públicas, a aquisição de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Cessação ou suspensão de licenças, alvarás ou autorizações relacionados com o exercício da respectiva actividade;\n\nh) Perda de benefícios fiscais, de benefícios de crédito e de linhas de financiamento de crédito de que haja usufruído;\n\ni) Selagem de equipamentos destinados à laboração;\n\nj) Imposição das medidas que se mostrem adequadas à prevenção de danos ambientais, à reposição da situação anterior à infracção e à minimização dos efeitos decorrentes da mesma;\n\nl) Publicidade da condenação.\n\nm) Apreensão de animais.\n\n2 - No caso de ser aplicada a sanção prevista nas alíneas c) e h) do número anterior, deve a autoridade administrativa comunicar de imediato à entidade que atribui o benefício ou subsídio com vista à suspensão das restantes parcelas dos mesmos.\n\n3 - No caso do recebimento pelo infractor da totalidade ou parte do benefício ou subsídio, pode o mesmo ser condenado a devolvê-lo.\n\n4 - As sanções referidas nas alíneas b) a j) do n.º 1 têm a duração máxima de três anos contados a partir da data da decisão condenatória definitiva.\n\n5 - Quando se verifique obstrução à execução das medidas previstas nas alíneas f), i) e j) do n.º 1 do presente artigo, pode igualmente ser solicitada às entidades competentes a notificação dos distribuidores de energia eléctrica para interromperem o fornecimento desta.\n\n6 - No caso de ser aplicada a sanção prevista na alínea m) do n.º 1 deve a autoridade administrativa comunicar de imediato à entidade licenciadora da respectiva actividade para que esta a execute.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935107920": {
+   "fragment_id": "70167911",
+   "type": 11,
+   "heading": "Artigo 33.º — Perda de objectos",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 33.º — Perda de objectos\n\n1 - Podem ser declarados perdidos os objetos que serviram ou estavam destinados a servir para a prática de uma contraordenação ou que em consequência desta foram produzidos, quando tais objetos representem, pela sua natureza ou pelas circunstâncias do caso, grave perigo para a saúde, segurança de pessoas e bens ou ambiente, ou exista sério risco da sua utilização para a prática de um crime ou de outra contraordenação em matéria ambiental ou de ordenamento do território.\n\n2 - Salvo se o contrário resultar da presente lei ou do regime geral das contra-ordenações, são aplicáveis à perda de objectos as regras relativas à sanção acessória de perda de objectos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097772": {
+   "fragment_id": "70167919",
+   "type": 11,
+   "heading": "Artigo 39.º — Suspensão da sanção",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 39.º — Suspensão da sanção\n\n1 - A autoridade administrativa que procedeu à aplicação da sanção pode suspender, total ou parcialmente, a sua execução.\n\n2 - A suspensão pode ficar condicionada ao cumprimento de certas obrigações, designadamente as consideradas necessárias para a regularização de situações ilegais, à reparação de danos ou à prevenção de perigos para a saúde, segurança das pessoas e bens e ambiente.\n\n3 - O tempo de suspensão da sanção é fixado entre um e três anos, contando-se o seu início a partir da data em que se esgotar o prazo da impugnação judicial da decisão condenatória.\n\n4 - Decorrido o tempo de suspensão sem que o arguido tenha praticado qualquer contra-ordenação ambiental, e sem que tenha violado as obrigações que lhe hajam sido impostas, fica a condenação sem efeito, procedendo-se, no caso contrário, à execução da sanção aplicada.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097759": {
+   "fragment_id": "935096717",
+   "type": 13,
+   "heading": "Título V — Contraordenações do ordenamento do território",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "## Título V — Contraordenações do ordenamento do território\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097762": {
+   "fragment_id": "935096707",
+   "type": 11,
+   "heading": "Artigo 40.º-A — Contraordenações por violação de planos territoriais",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 40.º-A — Contraordenações por violação de planos territoriais\n\n1 - Constitui contraordenação muito grave, punível nos termos do disposto na presente lei, a prática dos seguintes atos em violação de disposições de plano intermunicipal ou de plano municipal de ordenamento do território:\n\na) As obras de construção, ampliação e demolição;\n\nb) A execução de operações de loteamento;\n\nc) A instalação de depósitos de sucata, de ferro-velho, de entulho ou de resíduos ou de qualquer natureza;\n\nd) A ocupação e transformação do uso do solo para a construção, alteração, ampliação ou utilização de pedreiras.\n\n2 - Constitui contraordenação grave, punível nos termos do disposto na presente lei, a prática dos seguintes atos em violação de disposições de plano intermunicipal ou de plano municipal de ordenamento do território:\n\na) As obras de alteração ou de reconstrução;\n\nb) A utilização de edificações ou a ocupação e transformação do uso do solo para o exercício de atividades não admitidas pelo plano;\n\nc) A instalação ou ampliação de infraestruturas, nomeadamente de produção, distribuição e transporte de energia elétrica, de telecomunicações, de armazenamento e transporte de gases, águas e combustíveis ou de saneamento básico;\n\nd) A abertura de estradas, caminhos ou de novas vias de comunicação ou de acesso;\n\ne) A realização de aterros ou escavações;\n\nf) As demais operações urbanísticas que correspondam a trabalhos de remodelação dos terrenos.\n\n3 - Constitui contraordenação grave a violação das limitações decorrentes do estabelecimento de medidas preventivas ou das disposições estabelecidas por normas provisórias.\n\n4 - As contraordenações previstas nos números anteriores são comunicadas ao Instituto da Construção e do Imobiliário, I. P..\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097764": {
+   "fragment_id": "935096708",
+   "type": 11,
+   "heading": "Artigo 40.º-B — Contraordenações por violação de programas especiais",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 40.º-B — Contraordenações por violação de programas especiais\n\nAs contraordenações por violação do disposto nos regulamentos de gestão dos programas especiais são contraordenações ambientais e encontram-se definidas e tipificadas nos respetivos regimes legais aplicáveis.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097766": {
+   "fragment_id": "935096709",
+   "type": 11,
+   "heading": "Artigo 40.º-C — Competências para a fiscalização",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 40.º-C — Competências para a fiscalização\n\n1 - A fiscalização do cumprimento das normas previstas nos planos territoriais intermunicipais e municipais compete às câmaras municipais e, sempre que esteja em causa a salvaguarda de valores nacionais ou regionais, à comissão de coordenação e desenvolvimento regional territorialmente competente.\n\n2 - O disposto no número anterior não prejudica os poderes de fiscalização que, em razão da matéria, competem às demais autoridades públicas, designadamente no que se refere à proteção e salvaguarda dos recursos naturais.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097768": {
+   "fragment_id": "935096710",
+   "type": 11,
+   "heading": "Artigo 40.º-D — Competências para a instauração e decisão",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 40.º-D — Competências para a instauração e decisão\n\n1 - É competente para a instauração e decisão do processo de contraordenação por violação de plano intermunicipal ou municipal, o presidente da câmara municipal, em cuja circunscrição se tiver consumado a infração ou, caso a infração não tenha chegado a consumar-se, onde tiver sido praticado o último ato de execução.\n\n2 - No caso previsto no número anterior, quando a contraordenação resulte de violação de plano intermunicipal e não for possível determinar a circunscrição em que foi consumada a infração, ou onde foi praticado o último ato de execução, aplica-se o disposto no artigo 37.º do regime geral das contraordenações.\n\n3 - É, ainda, competente para a instauração e decisão do processo de contraordenação, por violação de plano intermunicipal ou municipal, o presidente da comissão de coordenação e desenvolvimento regional territorialmente competente, quando esteja em causa a prossecução de objetivos de interesse nacional ou regional.\n\n4 - São competentes para a instauração e decisão do processo de contraordenação por violação dos regulamentos de gestão dos programas especiais referidas no n.º 5 do artigo 1.º as entidades que são competentes em matéria de proteção e salvaguarda de recursos e valores naturais e o inspetor-geral da Agricultura, Mar, Ambiente e Ordenamento do Território.\n\n5 - Quando a entidade autuante não tenha competências para instruir o processo, o mesmo deve ser remetido às entidades competentes referidas nos números anteriores.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935107921": {
+   "fragment_id": "70176095",
+   "type": 11,
+   "heading": "Artigo 41.º — Determinação das medidas cautelares",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 41.º — Determinação das medidas cautelares\n\n1 - Quando se revele necessário para a instrução do processo de contraordenação ambiental ou quando estejam em causa a saúde, a segurança das pessoas e bens e o ambiente, a autoridade administrativa pode determinar uma ou mais das seguintes medidas:\n\na) Suspensão da laboração ou o encerramento preventivo no todo ou em parte da unidade poluidora;\n\nb) Notificação do arguido para cessar as actividades desenvolvidas em violação dos componentes ambientais;\n\nc) Suspensão de alguma ou algumas actividades ou funções exercidas pelo arguido;\n\nd) Sujeição da laboração a determinadas condições necessárias ao cumprimento da legislação ambiental;\n\ne) Selagem de equipamento por determinado tempo;\n\nf) Recomendações técnicas a implementar obrigatoriamente quando esteja em causa a melhoria das condições ambientais de laboração;\n\ng) Imposição das medidas que se mostrem adequadas à prevenção de danos ambientais, à reposição da situação anterior à infracção e à minimização dos efeitos decorrentes da mesma.\n\n2 - A determinação referida no número anterior vigora, consoante os casos:\n\na) Até à sua revogação pela autoridade administrativa ou por decisão judicial;\n\nb) Até ao início do cumprimento de sanção acessória de efeito equivalente à medida prevista no artigo 30.º da presente lei;\n\nc) Até à superveniência de decisão administrativa ou judicial que não condene o arguido à sanção acessória prevista no artigo 30.º, quando tenha sido decretada medida cautelar de efeito equivalente;\n\nd) Até à ultrapassagem do prazo de instrução estabelecido pelo artigo 48.º\n\n3 - Quando se verifique obstrução à execução das medidas previstas no n.º 1 deste artigo, pode ser solicitada pela autoridade administrativa às entidades distribuidoras de energia eléctrica a interrupção do fornecimento desta aos arguidos por aquela indicados.\n\n4 - A determinação da suspensão e do encerramento preventivo previstos no n.º 1 podem ser objecto de publicação pela autoridade administrativa, sendo as custas da publicação suportadas pelo infractor.\n\n5 - Quando, nos termos da alínea c) do n.º 1, seja determinada a suspensão total das actividades ou das funções exercidas pelo arguido e este venha a ser condenado, no mesmo processo, em sanção acessória que consista em interdição ou inibição do exercício das mesmas actividades ou funções, é descontado por inteiro, no cumprimento da sanção acessória, o tempo de duração da suspensão preventiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097726": {
+   "fragment_id": "935096712",
+   "type": 11,
+   "heading": "Artigo 47.º-A — Advertência",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 47.º-A — Advertência\n\n1 - Após confirmar a receção do auto de notícia, a autoridade administrativa pode optar por não proceder à instrução e decisão do processo de contraordenação, advertindo o autuado, quando se verifiquem, cumulativamente, as seguintes situações:\n\na) Esteja em causa apenas a prática de contraordenações ambientais classificadas como leves;\n\nb) Não exista, nos últimos cinco anos, qualquer condenação do autuado por contraordenação ambiental grave ou muito grave;\n\nc) Tenha decorrido um período superior a três anos sobre advertência anterior relativa à mesma contraordenação ambiental.\n\n2 - Na situação prevista no número anterior, a autoridade administrativa adverte o autuado para, em prazo determinado, demonstrar que se encontra a cumprir a norma ordem ou mandado a que se refere o auto de notícia e que promoveu a reparação da situação anterior ao mesmo auto.\n\n3 - Sempre que necessário, a autoridade administrativa notifica o autuado para a adoção das medidas necessárias para reparar a situação.\n\n4 - Se o autuado cumprir o disposto nos n.os 2 e 3, a autoridade administrativa determina o arquivamento dos autos.\n\n5 - Se o autuado não cumprir o disposto nos n.os 2 e 3, o procedimento contraordenacional prossegue os seus termos legais, sendo aplicável ao incumprimento o disposto no n.º 1 do artigo 25.º\n\n6 - A decisão de aplicação da advertência prevista no presente artigo não constitui uma decisão condenatória.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097727": {
+   "fragment_id": "70176111",
+   "type": 11,
+   "heading": "Artigo 48.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Instrução\n\n1 - O autuante ou participante não pode exercer funções instrutórias no mesmo processo.\n\n2 - O prazo para a instrução é de 180 dias contados a partir da data de distribuição ao respectivo instrutor.\n\n3 - Se a instrução não puder ser concluída no prazo indicado no número anterior, a autoridade administrativa pode, sob proposta fundamentada do instrutor, prorrogar o prazo por um período até 120 dias."
+  },
+  "935097728": {
+   "fragment_id": "70176112",
+   "type": 11,
+   "heading": "Artigo 49.º — Direito de audiência e defesa do arguido",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 49.º — Direito de audiência e defesa do arguido\n\n1 - O auto de notícia, depois de confirmado pela autoridade administrativa e antes de ser tomada a decisão final, é notificado ao infractor conjuntamente com todos os elementos necessários para que este fique a conhecer a totalidade dos aspectos relevantes para a decisão, nas matérias de facto e de direito, para, no prazo de 15 dias úteis, se pronunciar por escrito sobre o que se lhe oferecer por conveniente.\n\n2 - No mesmo prazo deve, querendo, apresentar resposta escrita, juntar os documentos probatórios de que disponha e arrolar testemunhas, até ao máximo de duas por cada facto, num total de sete.\n\n3 - Consideram-se não escritos os nomes das testemunhas que no rol ultrapassem o número legal, bem como daquelas relativamente às quais não sejam indicados os elementos necessários à sua notificação.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097729": {
+   "fragment_id": "935096688",
+   "type": 11,
+   "heading": "Artigo 49.º-A — Redução da coima",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 49.º-A — Redução da coima\n\n1 - No prazo máximo de 15 dias úteis após a notificação efetuada nos termos do n.º 1 do artigo anterior, o arguido pode requerer a redução da coima relativa a contraordenações leves e graves até 25 % do montante mínimo legal.\n\n2 - No prazo previsto no número anterior, o arguido pode requerer, também, o pagamento faseado da coima até quatro prestações mensais, desde que comprove que a sua situação económica não permite o pagamento da coima numa prestação única.\n\n3 - A redução da coima e o pagamento faseado da coima só podem ter lugar se o arguido comprovar, cumulativamente, as seguintes condições:\n\na) Que cessou a conduta ilícita, por ação ou omissão, objeto da contraordenação ou contraordenações cuja prática lhe foi imputada;\n\nb) Que não é reincidente.\n\n4 - Para efeitos do n.º 1, é considerado como montante mínimo da coima o estabelecido para os casos de negligência.\n\n5 - Quando sejam apresentados pedidos nos termos dos n.os 1 e 2, compete à autoridade administrativa determinar o montante da redução da coima e o pagamento em prestações, em função da situação económica do arguido.\n\n6 - A coima deve ser paga nos 10 dias úteis posteriores à notificação para pagamento, sob pena do respectivo procedimento contra-ordenacional prosseguir os seus trâmites legais.\n\n7 - O pagamento da coima nos termos do presente artigo equivale a condenação para efeitos de reincidência, não excluindo a possibilidade de aplicação de sanções acessórias.\n\n8 - O não pagamento de qualquer das prestações, que tenham sido definidas em conformidade com o disposto no presente artigo, dá lugar à prossecução do respetivo procedimento contraordenacional.\n\n9 - A apresentação do requerimento nos termos do n.º 1 não suspende o prazo previsto no n.º 1 do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097737": {
+   "fragment_id": "935096713",
+   "type": 11,
+   "heading": "Artigo 49.º-B — Certidão de dívida",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 49.º-B — Certidão de dívida\n\n1 - Quando se verifique que a coima ou as custas não foram pagas, decorrido o prazo legal de pagamento, contado a partir da data em que a decisão se tornou definitiva, é extraída certidão de dívida com base nos elementos constantes do processo de contraordenação.\n\n2 - A certidão de dívida contém os seguintes elementos:\n\na) Identificação do agente da infração, incluindo o nome completo ou denominação social, a residência e o número do documento legal de identificação ou, quando se trate de pessoa coletiva, o número de identificação fiscal e o domicílio fiscal;\n\nb) Descrição da infração, incluindo dia, hora e local em que foi cometida;\n\nc) Número do processo de contraordenação;\n\nd) Proveniência da dívida e seu montante, especificando o montante da coima e o das custas;\n\ne) A data da decisão condenatória da coima ou custas, a data da sua notificação ao devedor e a data em que a decisão condenatória se tornou definitiva;\n\nf) Quaisquer outras indicações úteis para o eficaz seguimento da execução.\n\n3 - A assinatura da certidão de dívida pode ser efetuada por assinatura autógrafa autenticada com selo branco ou por assinatura digital qualificada com certificado digital.\n\n4 - A certidão de dívida serve de base à instrução do processo de execução a promover pelos tribunais competentes, nos termos do regime geral das contraordenações.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097738": {
+   "fragment_id": "70176113",
+   "type": 11,
+   "heading": "Artigo 50.º — Comparência de testemunhas e peritos",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 50.º — Comparência de testemunhas e peritos\n\n1 - As testemunhas e os peritos devem ser ouvidos na sede da autoridade administrativa onde se realize a instrução do processo ou numa delegação daquela, caso esta a possua.\n\n2 - As testemunhas podem ser ouvidas pela autoridade policial, a seu requerimento ou a pedido da autoridade administrativa.\n\n3 - Se por qualquer motivo a autoridade de polícia não puder ouvir as testemunhas, estas serão obrigatoriamente ouvidas nas instalações da autoridade administrativa competente para a instrução do processo.\n\n4 - As testemunhas são obrigatoriamente apresentadas, por quem as arrola, na data e hora agendadas para a diligência.\n\n5 - Considera-se justificada a falta motivada por facto não imputável ao faltoso que o impeça de comparecer no acto processual.\n\n6 - A diligência de inquirição de testemunhas ou peritos apenas pode ser adiada uma única vez, ainda que a falta à primeira marcação tenha sido considerada justificada.\n\n7 - (Revogado).\n\n8 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097739": {
+   "fragment_id": "70176114",
+   "type": 11,
+   "heading": "Artigo 51.º — Ausência do arguido, das testemunhas e peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Ausência do arguido, das testemunhas e peritos\n\nA falta de comparência do arguido, das testemunhas e peritos, devidamente notificados, não obsta a que o processo de contra-ordenação siga os seus termos."
+  },
+  "935097740": {
+   "fragment_id": "70176115",
+   "type": 11,
+   "heading": "Artigo 52.º — Envio dos autos ao Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Envio dos autos ao Ministério Público\n\n1 - Recebida a impugnação judicial, deve a autoridade administrativa enviar os autos ao Ministério Público no prazo de 20 dias úteis, que os torna presentes ao juiz, valendo este acto como acusação.\n\n2 - Aquando do envio dos autos, pode a autoridade administrativa juntar alegações.\n\n3 - Até ao envio dos autos, pode a autoridade administrativa revogar, total ou parcialmente, a decisão de aplicação da coima ou sanção acessória.\n\n4 - Sem prejuízo do disposto no artigo 70.º do Decreto-Lei n.º 433/82, de 27 de Outubro, a autoridade administrativa pode juntar outros elementos ou informações que considere relevantes para a decisão da causa, bem como oferecer meios de prova.\n\n5 - A desistência da acusação pelo Ministério Público depende da concordância da autoridade administrativa."
+  },
+  "935097741": {
+   "fragment_id": "935096689",
+   "type": 11,
+   "heading": "Artigo 52.º-A — Preclusão da impugnação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 52.º-A — Preclusão da impugnação\n\nO pagamento da coima após a notificação da decisão administrativa que a aplicou preclude o direito de impugnação judicial relativamente à mesma.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097769": {
+   "fragment_id": "70176116",
+   "type": 11,
+   "heading": "Artigo 53.º — Juros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Juros\n\nNo final do processo judicial que conheça da impugnação ou da execução da decisão proferida em processo de contra-ordenação, e se esta tiver sido total ou parcialmente confirmada pelo tribunal, acresce ao valor da coima em dívida o pagamento de juros contados desde a data da notificação da decisão pela autoridade administrativa ao arguido, à taxa máxima estabelecida na lei fiscal."
+  },
+  "935097770": {
+   "fragment_id": "70176117",
+   "type": 11,
+   "heading": "Artigo 54.º — Pagamento voluntário da coima",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 54.º — Pagamento voluntário da coima\n\n1 - Relativamente a contra-ordenações leves e graves, bem como a contra-ordenações muito graves praticadas com negligência, o arguido pode proceder ao pagamento voluntário da coima, excepto nos casos em que não haja cessação da actividade ilícita.\n\n2 - Se a infracção consistir na falta de entrega de documentos ou na omissão de comunicações obrigatórias, o pagamento voluntário da coima só é possível se o arguido sanar a falta no mesmo prazo.\n\n3 - Fora dos casos de reincidência, no pagamento voluntário, a coima é liquidada pelo valor mínimo que corresponda ao tipo de infracção praticada.\n\n4 - O pagamento voluntário da coima equivale a condenação para efeitos de reincidência, não excluindo a possibilidade de aplicação de sanções acessórias.\n\n5 - O pagamento voluntário da coima é admissível em qualquer altura do processo, mas sempre antes da decisão.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097771": {
+   "fragment_id": "935096714",
+   "type": 11,
+   "heading": "Artigo 54.º-A — Pagamento da coima a prestações",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 54.º-A — Pagamento da coima a prestações\n\n1 - Sem prejuízo do disposto no regime geral das contraordenações, a autoridade administrativa ou o tribunal podem autorizar o pagamento da coima em prestações, não podendo a última delas ir além dos quarenta e oito meses subsequentes ao carácter definitivo ou ao trânsito em julgado da decisão, nos seguintes casos:\n\na) Quando o valor da coima concretamente aplicada for superior a (euro) 2 000, no caso de pessoas singulares;\n\nb) Quando o valor da coima concretamente aplicada for superior a (euro) 20 000, no caso de pessoas coletivas.\n\n2 - A falta de pagamento de uma prestação implica o vencimento de todas as prestações.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097748": {
+   "fragment_id": "70176118",
+   "type": 11,
+   "heading": "Artigo 55.º — Participação das autoridades administrativas",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 55.º — Participação das autoridades administrativas\n\n1 - O tribunal comunica à autoridade administrativa a data da audiência para, querendo, esta poder participar na audiência.\n\n2 - O tribunal notifica as autoridades administrativas para estas trazerem à audiência os elementos que reputem convenientes para uma correcta decisão do caso.\n\n3 - O tribunal deve comunicar à autoridade administrativa que decidiu o processo os despachos, a sentença, bem como outras decisões finais.\n\n4 - Dos despachos e sentenças que ponham termo ao processo em sede judicial cabe recurso, a interpor no prazo de 20 dias contados nos termos do disposto no regime geral das contraordenações.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097773": {
+   "fragment_id": "70176120",
+   "type": 11,
+   "heading": "Artigo 56.º — Processo sumaríssimo",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 56.º — Processo sumaríssimo\n\n1 - Quando a reduzida gravidade da infracção e da culpa do agente o justifiquem, pode a autoridade administrativa nos casos de infracções classificadas de leves, e antes de acusar formalmente o arguido, comunicar-lhe a decisão de aplicar uma sanção.\n\n2 - Pode ainda ser determinado ao arguido que adopte o comportamento legalmente exigido dentro do prazo que a autoridade administrativa lhe fixe para o efeito.\n\n3 - A decisão prevista no n.º 1 é escrita e contém a identificação do arguido, a descrição sumária dos factos imputados e a menção das disposições legais violadas e termina com a admoestação ou a indicação da coima concretamente aplicada.\n\n4 - O arguido é notificado da decisão e informado de que lhe assiste o direito de a recusar, no prazo de cinco dias úteis, e da consequência prevista no número seguinte.\n\n5 - A recusa ou o silêncio do arguido neste prazo, o requerimento de qualquer diligência complementar, o incumprimento do disposto no n.º 2 ou o não pagamento da coima no prazo de 10 dias úteis após a notificação referida no número anterior determinam o imediato prosseguimento do processo de contra-ordenação, ficando sem efeito a decisão referida nos n.os 1 a 3.\n\n6 - Tendo o arguido procedido ao cumprimento do disposto no n.º 2 e ao pagamento da coima que lhe tenha sido aplicada, a decisão torna-se definitiva, como decisão condenatória, não podendo o facto voltar a ser apreciado como contra-ordenação.\n\n7 - A decisão proferida em processo sumaríssimo, de acordo com o estabelecido nos números anteriores, implica a perda de legitimidade do arguido para recorrer daquela.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935107924": {
+   "fragment_id": "70176122",
+   "type": 11,
+   "heading": "Artigo 57.º — Princípios gerais",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 57.º — Princípios gerais\n\n1 - As custas do processo revertem para a autoridade administrativa que aplicou a sanção.\n\n2 - Se o contrário não resultar desta lei, as custas em processo de contra-ordenação regulam-se pelos preceitos reguladores das custas em processo criminal.\n\n3 - As decisões das autoridades administrativas que decidam sobre as matérias do processo devem fixar o montante das custas e determinar quem as deve suportar, incluindo no caso de advertência ou de termo do processo com o pagamento voluntário da coima.\n\n4 - O processo de contra-ordenação que corra perante as autoridades administrativas não dá lugar ao pagamento da taxa de justiça nem a procuradoria.\n\n5 - A suspensão da sanção prevista no artigo 20.º-A não abrange as custas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935107925": {
+   "fragment_id": "70176130",
+   "type": 11,
+   "heading": "Artigo 63.º — Objecto",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 63.º — Objecto\n\n1 - O cadastro nacional tem por objecto o registo e o tratamento das sanções principais e acessórias, bem como das medidas cautelares aplicadas em processo de contra-ordenação e das decisões judiciais, relacionadas com aqueles processos, após decisão definitiva ou trânsito em julgado.\n\n2 - Estão ainda sujeitas a registo:\n\na) A suspensão das sanções;\n\nb) A prorrogação da suspensão das sanções;\n\nc) A revogação da decisão tomada no processo de contraordenação;\n\nd) A advertência.\n\n3 - O cadastro nacional é organizado em ficheiro central informatizado, dele devendo constar:\n\na) A identificação da entidade que proferiu a decisão;\n\nb) A identificação do arguido;\n\nc) A data e a forma da decisão;\n\nd) O conteúdo da decisão e dos preceitos aplicados;\n\ne) O pagamento da coima e das custas do processo;\n\nf) A eventual execução da coima e das custas do processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935124579": {
+   "fragment_id": "70176131",
+   "type": 11,
+   "heading": "Artigo 64.º — Entidade responsável pelo cadastro nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Entidade responsável pelo cadastro nacional\n\n1 - A Inspeção-Geral da Agricultura, Mar, Ambiente e Ordenamento do Território é o organismo responsável pelo cadastro nacional.\n\n2 - Cabe à Inspeção-Geral da Agricultura, Mar, Ambiente e Ordenamento do Território assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de dados, bem como velar pela legalidade da consulta ou da comunicação da informação.\n\n3 - Podem ainda aceder aos dados constantes do cadastro:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal e de instrução de processos criminais;\n\nb) As entidades que, nos termos da lei processual penal, recebam delegação para a prática de actos de inquérito ou instrução;\n\nc) As entidades oficiais para a prossecução de fins públicos a seu cargo."
+  },
+  "935124580": {
+   "fragment_id": "70176133",
+   "type": 11,
+   "heading": "Artigo 66.º — Envio de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Envio de dados\n\nTodas as autoridades administrativas têm a obrigação de enviar à Inspeção-Geral da Agricultura, Mar, Ambiente e Ordenamento do Território em relação aos processos de contra-ordenação por si decididos, no prazo de 30 dias úteis, informação onde constem os dados referidos no n.º 3 do artigo 63.º"
+  },
+  "935124581": {
+   "fragment_id": "70176134",
+   "type": 11,
+   "heading": "Artigo 67.º — Certificado de cadastro ambiental",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 67.º — Certificado de cadastro ambiental\n\n1 - Todas as entidades que possam aceder aos dados constantes do cadastro devem efectuar o seu pedido junto da Inspeção-Geral da Agricultura, Mar, Ambiente e Ordenamento do Território, que, para o efeito, emite o certificado de cadastro ambiental onde constem todas as informações de acordo com o artigo 63.º\n\n2 - Pela emissão do certificado de cadastro ambiental é devida uma taxa nos termos a definir por decreto-lei e cujo montante é fixado por portaria do ministro responsável pela área do ambiente.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935124575": {
+   "fragment_id": "70176139",
+   "type": 11,
+   "heading": "Artigo 71.º — Competência genérica do inspector-geral do Ambiente e do Ordenamento do Território",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806)"
+   ],
+   "markdown": "###### Artigo 71.º — Competência genérica do inspector-geral do Ambiente e do Ordenamento do Território\n\n1 - Sem prejuízo da competência atribuída por lei a qualquer autoridade administrativa para a instauração e decisão dos processos de contra-ordenação, o inspetor-geral da Agricultura, Mar, Ambiente e Ordenamento do Território é sempre competente para os mesmos efeitos relativamente àqueles processos.\n\n2 - O inspetor-geral da Agricultura, Mar, Ambiente e Ordenamento do Território é ainda competente para a instauração e decisão de processos de contra-ordenação cujo ilícito, ainda que de âmbito mais amplo, enquadre componentes ambientais.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806)"
+  },
+  "935097749": {
+   "fragment_id": "935096715",
+   "type": 11,
+   "heading": "Artigo 71.º-A — Instrução genérica de processos e aplicação de sanções",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 71.º-A — Instrução genérica de processos e aplicação de sanções\n\nQuando a entidade autuante não tenha competência para instruir o processo o mesmo é instruído e decidido pela Inspeção-Geral da Agricultura, Mar, Ambiente e Ordenamento do Território.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097750": {
+   "fragment_id": "70176140",
+   "type": 11,
+   "heading": "Artigo 72.º — Actualização das coimas",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 72.º — Actualização das coimas\n\n1 - Independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, o produto das coimas aplicadas na sequência de processos de contra-ordenação tramitados ao abrigo do presente regime, bem como nos casos previstos nos artigos 49.º-A e 54.º, é repartido da seguinte forma:\n\na) 50 % para o Fundo de Intervenção Ambiental;\n\nb) 25 % para a autoridade que a aplique;\n\nc) 15 % para a entidade autuante;\n\nd) 10 % para o Estado.\n\n2 - Enquanto não entrar em vigor o decreto-lei referido no n.º 2 do artigo 69.º, a parte das coimas atribuível ao Fundo continua a ser receita do Estado.\n\n> Revogado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097751": {
+   "fragment_id": "70176144",
+   "type": 11,
+   "heading": "Artigo 73.º — Destino das coimas",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27",
+    "Retificado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05",
+    "Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 73.º — Destino das coimas\n\n1 - Independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, o produto das coimas aplicadas na sequência de processos de contra-ordenação tramitados ao abrigo do presente regime, bem como nos casos previstos nos artigos 49.º-A e 54.º, é repartido da seguinte forma:\n\na) 45 % para o Fundo de Intervenção Ambiental;\n\nb) 30 % para a autoridade que a aplique;\n\nc) 15 % para a entidade autuante;\n\nd) 10 % para o Estado.\n\n2 - Enquanto não entrar em vigor o decreto-lei referido no n.º 2 do artigo 69.º, a parte das coimas atribuível ao Fundo continua a ser receita do Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27\n\n> Retificado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05\n\n> Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097752": {
+   "fragment_id": "70176148",
+   "type": 11,
+   "heading": "Artigo 74.º — Autoridade administrativa",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27",
+    "Retificado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05",
+    "Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 74.º — Autoridade administrativa\n\nPara os efeitos da presente lei, consideram-se autoridade administrativa os organismos a quem compita legalmente a instauração, a instrução e ou a aplicação das sanções dos processos de contraordenação ambiental e do ordenamento do território.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27\n\n> Retificado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05\n\n> Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097753": {
+   "fragment_id": "70176149",
+   "type": 11,
+   "heading": "Artigo 75.º — Reformatio in pejus",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05",
+    "Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 75.º — Reformatio in pejus\n\nNão é aplicável aos processos de contra-ordenação instaurados e decididos nos termos desta lei a proibição de reformatio in pejus, devendo essa informação constar de todas as decisões finais que admitam impugnação ou recurso.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05\n\n> Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097756": {
+   "fragment_id": "935096716",
+   "type": 11,
+   "heading": "Artigo 75.º-A — Impugnação judicial de contraordenações",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+   ],
+   "markdown": "###### Artigo 75.º-A — Impugnação judicial de contraordenações\n\nCaso o mesmo facto dê origem à aplicação, pela mesma entidade, de decisão por contraordenação do ordenamento do território, prevista na presente lei, e por contraordenação por violação de normas constantes do Regime Jurídico da Urbanização e Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, a apreciação da impugnação judicial da decisão adotada pela autoridade administrativa compete aos tribunais administrativos.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27"
+  },
+  "935097757": {
+   "fragment_id": "70176150",
+   "type": 11,
+   "heading": "Artigo 76.º — Salvaguarda do regime das contra-ordenações no âmbito do meio marinho",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05",
+    "Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 76.º — Salvaguarda do regime das contra-ordenações no âmbito do meio marinho\n\nA presente lei não prejudica o disposto no regime das contra-ordenações no âmbito da poluição do meio marinho nos espaços marítimos sob jurisdição nacional, aprovado pelo Decreto-Lei n.º 235/2000, de 26 de Setembro.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05\n\n> Alterado pelo/a [Lei n.º 89/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/89-2009-488489), em vigor a partir de 2009-09-05"
+  },
+  "935097774": {
+   "fragment_id": "935096692",
+   "type": 11,
+   "heading": "Artigo 77.º — Disposição transitória",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27",
+    "Aditado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05"
+   ],
+   "markdown": "###### Artigo 77.º — Disposição transitória\n\nAs disposições da presente lei referentes às coimas e respectivos valores só são aplicáveis a partir da publicação de diploma que, alterando a legislação vigente sobre matéria ambiental, proceda à classificação das contra-ordenações aí tipificadas.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 114/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei/114-2015-70133806), em vigor a partir de 2015-10-27\n\n> Aditado pelo/a [Declaração de Rectificação n.º 70/2009 - Diário da República n.º 191/2009, Série I de 2009-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/70-2009-490965), produz efeitos a partir de 2009-09-05"
+  },
+  "935124593": {
+   "fragment_id": "70176137",
+   "type": 11,
+   "heading": "Artigo 69.º — Criação",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 69.º — Criação\n\n1 - É criado o Fundo de Intervenção Ambiental, adiante designado por Fundo.\n\n2 - O regulamento do Fundo deve ser instituído por decreto-lei, a aprovar no prazo de 120 dias.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01"
+  },
+  "935124592": {
+   "fragment_id": "70176138",
+   "type": 11,
+   "heading": "Artigo 70.º — Fundo Ambiental",
+   "in_force_from": "2017-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 70.º — Fundo Ambiental\n\nO Fundo Ambiental arrecada parte das receitas provenientes das coimas aplicadas, nos termos definidos no artigo 73.º, que se destinam à prossecução dos objetivos estabelecidos no artigo 3.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 42-A/2016 - Diário da República n.º 155/2016, 1º Suplemento, Série I de 2016-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2016-75150234), em vigor a partir de 2017-01-01"
+  },
+  "935124594": {
+   "fragment_id": "70167884",
+   "type": 11,
+   "heading": "Artigo 18.º — Direito de acesso",
+   "in_force_from": "2019-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/lei/25-2019-121579602), em vigor a partir de 2019-03-27"
+   ],
+   "markdown": "###### Artigo 18.º — Direito de acesso\n\n1 - Os procedimentos de inspeção e de fiscalização ambientais não devem ser antecedidos de comunicação ou notificação às entidades visadas ou aos responsáveis pelas instalações e locais a inspecionar.\n\n2 - Excetuam-se do número anterior os casos em que, justificadamente, a comunicação prévia constitua um requisito fundamental para que a atividade de inspeção ou de fiscalização não fique condicionada ou prejudicada, nomeadamente:\n\na) Quando se tratem de procedimentos de inspeção ou fiscalização que impliquem a consulta de elementos documentais, ou outros, que devam ser previamente preparados pelos responsáveis dos espaços referidos no número anterior;\n\nb) Quando seja necessário à entidade realizar diligências, com vista à preparação da inspeção ou fiscalização.\n\n3 - Sempre que existir comunicação prévia, nos termos do número anterior, esta deve ser fundamentada por escrito.\n\n4 - Às autoridades administrativas no exercício das funções inspectivas, de fiscalização ou vigilância é facultada a entrada livre nos estabelecimentos e locais onde se exerçam as actividades a inspeccionar.\n\n5 - Os responsáveis pelos espaços referidos no número anterior são obrigados a facultar a entrada e a permanência às autoridades referidas no número anterior e a apresentar-lhes a documentação, livros, registos e quaisquer outros elementos que lhes forem exigidos, bem como a prestar-lhes as informações que forem solicitadas.\n\n6 - Em caso de recusa de acesso ou obstrução à acção inspectiva, de fiscalização ou vigilância, pode ser solicitada a colaboração das forças policiais para remover tal obstrução e garantir a realização e segurança dos actos inspectivos.\n\n7 - O disposto neste artigo é aplicável a outros espaços afectos ao exercício das actividades inspeccionadas, nomeadamente aos veículos automóveis, aeronaves, comboios e navios.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2019 - Diário da República n.º 60/2019, Série I de 2019-03-26](https://diariodarepublica.pt/dr/detalhe/lei/25-2019-121579602), em vigor a partir de 2019-03-27"
+  },
+  "935124595": {
+   "fragment_id": "70176123",
+   "type": 11,
+   "heading": "Artigo 58.º — Encargos",
+   "in_force_from": "2024-11-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 87/2024 - Diário da República n.º 216/2024, Série I de 2024-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2024-895836368), em vigor a partir de 2024-11-10"
+   ],
+   "markdown": "###### Artigo 58.º — Encargos\n\n1 - As custas compreendem, nomeadamente, os seguintes encargos:\n\na) As despesas de transporte e as ajudas de custo;\n\nb) O reembolso por franquias postais e por comunicações telefónicas e telemáticas;\n\nc) Os emolumentos devidos aos peritos;\n\nd) O transporte e o armazenamento de bens apreendidos;\n\ne) O pagamento devido a qualquer entidade pelo custo de certidões ou outros elementos de informação e de prova;\n\nf) O reembolso com a aquisição de suportes fotográficos, magnéticos e áudio necessários à obtenção da prova;\n\ng) Os exames, análises, peritagens ou outras acções que a autoridade administrativa tenha realizado ou mandado efectuar na decorrência da inspecção que conduziu ao processo de contra-ordenação.\n\n2 - As custas são suportadas pelo arguido em caso de aplicação de uma coima, admoestação, sanção acessória ou medida cautelar e de desistência ou rejeição da impugnação.\n\n3 - Nos demais casos, as custas são suportadas pelo erário público.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 87/2024 - Diário da República n.º 216/2024, Série I de 2024-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2024-895836368), em vigor a partir de 2024-11-10"
+  }
+ }
+}

@@ -1,0 +1,270 @@
+---
+schema_version: '1.0'
+id: pt:dre:656147:por
+title: Decreto-Lei n.º 323/2000
+short_title: null
+summary: Regulamenta a Lei n.º 107/99, de 3 de Agosto, que estabelece o quadro geral da rede pública de casas de apoio às
+  mulheres vítimas de violência
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 323/2000
+official_date: null
+publication_date: '2000-12-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 291/2000, Série I-A de 2000-12-19
+  number: '291'
+  series: I
+  supplement: null
+  pages: 7375 - 7377
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/12/291a00/73757377.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/323/2000/12/19/p/dre/pt/html
+  oj: null
+  dre: '656147'
+  dre_path: /dr/detalhe/decreto-lei/323-2000-656147
+  internal: pt:dre:656147:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2000-656147
+  metadata_url: https://data.dre.pt/eli/dec-lei/323/2000/12/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2000-656147
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-09-16T00:00:00Z'
+integrity:
+  source_sha256: 05e88db41312e184736d1fbf1df5b9b09214292ea1d6144d794c066afdf13790
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-323-656147.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- CASA de Apoio
+- Mulher
+- Violência
+- Definição de Competências
+- Vítima
+relationships:
+- type: amended_by
+  target: pt:dre:490247:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/107/1999/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/107/1999/08/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/55/1999/06/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/55/1999/06/15/p/dre
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 323/2000
+
+de 19 de Dezembro
+
+A violência contra as mulheres tem sido tema abordado por inúmeros instrumentos internacionais, através dos quais os Estados se comprometeram a prosseguir por todos os meios apropriados uma política no sentido da sua eliminação, reconhecendo-se igualmente a necessidade de prestar assistência às vítimas, através de serviços de natureza vária.
+
+De acordo com o estudo sobre violência contra as mulheres, publicado pela Comissão para a Igualdade e para os Direitos das Mulheres em 1997, identificou-se a casa-família como o espaço onde a violência foi mais denunciada e o marido ou companheiro da vítima como o principal agressor.
+
+A especial situação de insegurança vivida pelas mulheres vítimas de violência doméstica na sua coabitação diária com o agressor, detendo ele próprio, na grande maioria dos casos, idêntico direito de uso da casa de morada de família, torna necessário dispor de alternativas, designadamente através da criação progressiva de uma rede pública de casas de abrigo, que permitam às vítimas, em condições de tranquilidade e de paz, desencadear os mecanismos apropriados à reorganização das suas vidas e à sua reintegração social.
+
+Por outro lado, o Plano Nacional contra a Violência Doméstica, aprovado pela [Resolução do Conselho de Ministros n.º 55/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/55-1999-308998), de 15 de Junho, reconhecendo que a violência doméstica é um flagelo que põe em causa o próprio cerne da vida em sociedade e a dignidade da pessoa humana, previu, em sede de Objectivo II, «Intervir para proteger a vítima de violência doméstica», a criação de uma rede de refúgios para vítimas de violência, desiderato a que a [Lei n.º 107/99](https://diariodarepublica.pt/dr/detalhe/lei/107-1999-345129), de 3 de Agosto, veio dar cumprimento.
+
+O quadro jurídico ora definido insere-se num conjunto de diplomas especialmente vocacionados para a protecção das vítimas de violência doméstica e visa a regulamentação da [Lei n.º 107/99](https://diariodarepublica.pt/dr/detalhe/lei/107-1999-345129), de 3 de Agosto, tendo-se optado por rentabilizar os equipamentos sociais existentes e disponíveis, a nível dos diferentes distritos, com vista à implementação gradual da cobertura prevista.
+
+A par desta situação será igualmente dada particular atenção à linha verde, a funcionar vinte e quatro horas por dia, incluindo sábados, domingos e feriados, para apoio telefónico às mulheres vítimas de violência.
+
+Na concretização deste objectivo, congregam-se actuações quer de organismos da Administração Pública quer de instituições particulares de solidariedade social (IPSS) e organizações não governamentais (ONG) especialmente vocacionadas para o apoio a mulheres vítimas de violência, afigurando-se necessários todos os esforços, face à gravidade do problema, cuja verdadeira dimensão se desconhece.
+
+Foi ouvida a Associação Nacional dos Municípios Portugueses.
+
+Assim, no desenvolvimento do regime jurídico estabelecido pela [Lei n.º 107/99](https://diariodarepublica.pt/dr/detalhe/lei/107-1999-345129), de 3 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma regulamenta a [Lei n.º 107/99](https://diariodarepublica.pt/dr/detalhe/lei/107-1999-345129), de 3 de Agosto, que estabelece o quadro geral da rede pública de casas de apoio às mulheres vítimas de violência.
+
+###### Artigo 2.º — Conceitos
+
+Para efeitos do disposto no presente diploma, entende-se por:
+
+a) «Rede pública de casas de apoio a mulheres vítimas de violência» - conjunto de casas de abrigo e de centros de atendimento;
+
+b) «Casas de abrigo» - unidades residenciais destinadas a proporcionar acolhimento temporário a mulheres vítimas de violência acompanhadas ou não de filhos menores;
+
+c) «Centros de atendimento» - unidades constituídas por uma ou mais equipas técnicas, pluridisciplinares, de entidades públicas dependentes da administração central ou local, bem como outras entidades que com aquelas tenham celebrado protocolos de cooperação, que assegurarão o atendimento, apoio e reencaminhamento das mulheres vítimas de violência, tendo em vista a protecção destas;
+
+d) «Núcleos de atendimento» - outros serviços de atendimento de mulheres vítimas de violência, assegurados por organizações não governamentais e instituições particulares de solidariedade social, ou outras entidades de natureza similar, actuando em coordenação com a rede pública de casas de apoio a mulheres vítimas de violência;
+
+e) «Mulheres vítimas de violência» - as que sejam vítimas do crime previsto no n.º 2 do artigo 152.º do Código Penal, praticado em território português ou praticado no estrangeiro, desde que, neste caso, a vítima tenha nacionalidade portuguesa e se verifique alguma das seguintes condições:
+
+1) Não estejam disponíveis, no Estado em cujo território foram praticados os factos, casas de abrigo similares às previstas no presente diploma;
+
+2) Não possam as vítimas, por questões de segurança, permanecer nas suas residências habituais;
+
+3) A permanência das vítimas no Estado em cujo território foram praticados os factos seja transitória.
+
+###### Artigo 3.º — Organização e gestão das casas de abrigo
+
+1 - As casas de abrigo podem funcionar em equipamentos pertencentes a entidades públicas ou particulares sem fins lucrativos.
+
+2 - As casas de abrigo e centros de atendimento a instituir progressivamente nos distritos do continente e das Regiões Autónomas coordenarão entre si as respectivas actividades.
+
+3 - Tratando-se de entidades particulares sem fins lucrativos, o Estado apoiará a sua acção mediante a celebração de acordos de cooperação.
+
+###### Artigo 4.º — Objectivos
+
+São objectivos das casas de abrigo:
+
+a) Acolher temporariamente mulheres vítimas de violência doméstica, acompanhadas ou não de filhos menores;
+
+b) Nos casos em que tal se justifique, promover, durante a permanência na casa de abrigo, aptidões pessoais, profissionais e sociais da utente, susceptíveis de evitarem eventuais situações de exclusão social e tendo em vista a sua efectiva (re)inserção social.
+
+###### Artigo 5.º — Funcionamento das casa de abrigo
+
+1 - As casas de abrigo são organizadas em unidades que favoreçam uma relação afectiva do tipo familiar, uma vida diária personalizada e a integração na comunidade.
+
+2 - Para efeitos do número anterior, as casas de abrigo regem-se pelo presente diploma, pelo seu regulamento interno e pelas normas aplicáveis às entidades que revistam a mesma natureza jurídica com acordos de cooperação celebrados, desde que não contrariem as normas constantes do presente diploma.
+
+3 - O regulamento interno de funcionamento, a aprovar conjuntamente pelos Ministros do Trabalho e da Solidariedade e do membro do Governo responsável pela área da igualdade, ou por quem estes designarem, será obrigatoriamente dado a conhecer às utentes aquando da sua admissão, devendo ser subscrito por estas o correspondente termo de aceitação.
+
+4 - As casas de abrigo disporão, para efeitos de orientação técnica, de, pelo menos, um licenciado nas áreas comportamentais, preferencialmente psicólogo e ou técnico de serviço social, que actuam em articulação com a equipa técnica.
+
+5 - Atendendo à natureza e fins prosseguidos pelas casas de abrigo objecto do presente diploma, as autoridades policiais territorialmente competentes prestarão todo o apoio necessário com vista à protecção dos funcionários e utentes das instituições, assegurando uma vigilância adequada junto das mesmas.
+
+###### Artigo 6.º — Acolhimento
+
+1 - A admissão das vítimas de violência nas casas de abrigo processa-se quer por indicação da equipa técnica dos centros de atendimento, quer através dos técnicos que asseguram o serviço de atendimento telefónico da linha verde, mediante articulação a estabelecer com aquela equipa, na sequência de pedido da vítima.
+
+2 - Preferencialmente o acolhimento será assegurado por instituição localizada na área geográfica mais próxima da residência da utente, sem prejuízo de outra solução vir a ser adoptada em função da análise da equipa técnica.
+
+3 - O acolhimento nas casas de abrigo é de curta duração, o qual pressupõe o retorno da utente à vida na comunidade de origem, ou outro porque tenha optado, em prazo não superior a seis meses.
+
+4 - A permanência por mais de seis meses poderá ser autorizada, a título excepcional, mediante parecer fundamentado da equipa técnica acompanhado do relatório de avaliação da situação da utente.
+
+###### Artigo 7.º — Causas imediatas de cessação do acolhimento
+
+Constituem causas imediatas de cessação de acolhimento, entre outras:
+
+a) O termo do prazo previsto nos n.os 3 e 4 do artigo anterior;
+
+b) A manifestação de vontade da utente;
+
+c) O incumprimento das regras de funcionamento da casa de abrigo.
+
+###### Artigo 8.º — Equipa técnica
+
+1 - As casas de abrigo dispõem da assistência de uma equipa técnica a quem cabe o diagnóstico da situação da vítima utente acolhida na instituição e o apoio na definição e execução do seu projecto de promoção e protecção.
+
+2 - A equipa deve ter uma constituição pluridisciplinar, integrando as valências de direito, psicologia e serviço social.
+
+3 - Compete à equipa técnica do centro de atendimento da área de localização da casa de abrigo assegurar o apoio técnico referido no presente diploma.
+
+###### Artigo 9.º — Formação da equipa técnica
+
+O organismo competente em matéria de igualdade de oportunidades assegurará, sem prejuízo da participação de outras entidades, a formação específica ao pessoal técnico dos centros de atendimento e das casas de abrigo.
+
+###### Artigo 10.º — Direitos e deveres da utente e menores em acolhimento
+
+1 - A utente e os menores acolhidos em casas de abrigo têm, em especial, os seguintes direitos:
+
+a) Alojamento e alimentação em condições de dignidade;
+
+b) Usufruir de um espaço de privacidade e de um grau de autonomia na condução da sua vida pessoal adequados à sua idade e situação.
+
+2 - Constitui dever especial da utente e dos menores acolhidos em casas de abrigo cumprir as respectivas regras de funcionamento.
+
+###### Artigo 11.º — Domicílio da utente acolhida em casa de abrigo
+
+A utente acolhida em casa de abrigo, instituída nos termos do presente diploma, considera-se domiciliada no centro de atendimento que processou a respectiva admissão.
+
+###### Artigo 12.º — Assistência médica e medicamentosa
+
+Mediante declaração emitida pelo centro de atendimento que providenciou a admissão, os serviços de saúde situados na área da casa de abrigo designada providenciarão toda a assistência necessária à utente aí acolhida e seus filhos.
+
+###### Artigo 13.º — Acesso aos estabelecimentos de ensino
+
+1 - Aos filhos menores das vítimas de violência doméstica acolhidas nas casas de abrigo é garantida a transferência escolar, sem observância do numerus clausus, para estabelecimento escolar mais próximo da respectiva casa de abrigo.
+
+2 - A referida transferência opera-se com base em declaração emitida pelo centro de atendimento que providenciou a admissão da utente.
+
+###### Artigo 14.º — Participação das autarquias locais
+
+1 - No âmbito das suas competências e atribuições, as autarquias locais devem integrar em parceria a rede pública de casas de apoio a mulheres vítimas de violência, colaborando, nomeadamente, na divulgação da existência dos centros de atendimento em funcionamento nas respectivas áreas territoriais.
+
+2 - Nos casos em que a propriedade das casas de abrigo seja das autarquias locais, a manutenção das instalações será assegurada por esta, podendo nos restantes casos, e sempre que possível, contribuir para o bom estado de conservação das mesmas.
+
+###### Artigo 15.º — Financiamento
+
+1 - O apoio financeiro, quer para as despesas de investimento no âmbito do PIDDAC, quer para as despesas de funcionamento, será assegurado por verbas do Orçamento do Estado, mediante o estabelecimento de acordos de cooperação a celebrar com os organismos da segurança social competentes.
+
+2 - O apoio financeiro referido no número anterior poderá ser assegurado por verbas oriundas do Quadro Comunitário de Apoio.
+
+###### Artigo 16.º — Núcleos de atendimento
+
+Mediante a forma que ao caso couber e sempre que a incidência geográfica o justifique, o Governo, em articulação com organizações não governamentais e instituições particulares de solidariedade social, ou outras entidades de natureza similar, promove e apoia a criação de núcleos de atendimento para mulheres vítimas de violência.
+
+###### Artigo 17.º — Colaboração com entidades estrangeiras
+
+A rede pública de casas de apoio a vítimas de violência poderá estabelecer acordos de cooperação com entidades similares estrangeiras para segurança das respectivas utentes, observado o princípio da reciprocidade.
+
+###### Artigo 18.º — Participação ao Ministério Público
+
+Os centros de atendimento deverão participar aos serviços do Ministério Público competentes as situações de vítimas de violência de que tenham conhecimento, para efeitos de instauração do respectivo procedimento criminal.
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de Setembro de 2000. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - António Luís Santos Costa - Augusto Ernesto Santos Silva - Maria Manuela de Brito Arcanjo Marques da Costa.
+
+**Promulgado em 29 de Novembro de 2000.**
+
+**Publique-se.**
+
+**O Presidente da República, Jorge Sampaio.**
+
+**Referendado em 6 de Dezembro de 2000.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

@@ -1,0 +1,350 @@
+---
+schema_version: '1.0'
+id: pt:dre:667323:por
+title: Decreto-Lei n.º 56/2006
+short_title: null
+summary: Altera a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia
+  de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 56/2006
+official_date: null
+publication_date: '2006-03-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/2006, Série I-A de 2006-03-15
+  number: '53'
+  series: I
+  supplement: null
+  pages: 1913 - 1915
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/03/053a00/19131915.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-20'
+version_history:
+  file: decreto-lei-56-2006.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-03-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-03-29'
+    amending: pt:dre:278879:por
+    amending_title: Decreto-Lei n.º 44/2011
+    changes:
+    - Altera Artigo 3.º
+  - date: '2011-10-22'
+    amending: pt:dre:146936:por
+    amending_title: Decreto-Lei n.º 106/2011
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+  - date: '2018-04-15'
+    amending: pt:dre:115017488:por
+    amending_title: Decreto-Lei n.º 23/2018
+    changes:
+    - Altera Artigo 3.º
+  - date: '2025-03-20'
+    amending: pt:dre:911488702:por
+    amending_title: Decreto-Lei n.º 25/2025
+    changes:
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/56/2006/p/cons/20250319/pt/html
+  oj: null
+  dre: '667323'
+  dre_path: /dr/detalhe/decreto-lei/56-2006-667323
+  internal: pt:dre:667323:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323
+  metadata_url: https://data.dre.pt/eli/dec-lei/56/2006/p/cons/20250319/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34571875
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34571875
+  retrieved_at: '2026-10-22T11:53:38Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4b6731c9475e54e559cf40d98d9c4b7ce6032a6aa738d24db556fa71e34f68cf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:53:38Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-56-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Lotaria Instantânea
+- Totobola
+- Totoloto
+- Atribuição de Verba
+- Jogos de Fortuna e Azar
+- Ministério da Educação
+- Euromilhões
+- Lisboa
+- Fundo Regional do Desporto
+- Instituto Português da Juventude
+- Ministério da Cultura
+- Ministério do Trabalho e da Solidariedade Social
+- Instituto do Desporto de Portugal
+- Instituto do Desporto da Região Autónoma da Madeira
+- Santa Casa da Misericórdia
+- LOTO
+- Receita Pública
+- Ministério da Saúde
+- Lotaria Nacional
+- Joker
+- Açores
+- Totogolo
+relationships:
+- type: amended_by
+  target: pt:dre:661931:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931
+  date: '2006-04-28'
+- type: amended_by
+  target: pt:dre:278879:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879
+  date: '2011-03-24'
+- type: amended_by
+  target: pt:dre:655676:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-2011-655676
+  date: '2011-05-23'
+- type: amended_by
+  target: pt:dre:146936:por
+  label: Altera Artigo 3.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936
+  date: '2011-10-21'
+- type: amended_by
+  target: pt:dre:115017488:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488
+  date: '2018-04-10'
+- type: amended_by
+  target: pt:dre:911488702:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2025-911488702
+  date: '2025-03-19'
+- type: cites
+  target: eli:http://data.dre.pt/eli/de
+  label: null
+  source: http://data.dre.pt/eli/de
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/153/2000/07/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/153/2000/07/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/174/1992/08/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/174/1992/08/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/225/1998/07/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/225/1998/07/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/238/1992/10/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/238/1992/10/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/258/1997/09/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/258/1997/09/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/317/2002/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/317/2002/12/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/37/2003/03/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/37/2003/03/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/412/1993/12/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/412/1993/12/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/64/1995/04/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/64/1995/04/07/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:53:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 56/2006
+
+A afectação das receitas dos jogos sociais está, nos termos da lei, consignada a uma multiplicidade de entidades beneficiárias, com base na lógica de distribuição reportada ao momento do lançamento de cada um dos jogos.
+
+Considerando que a introdução de novos jogos teve reflexos negativos, porque voláteis e variáveis nos resultados líquidos dos jogos sociais existentes, repercutindo-se consequentemente nos benefícios que lhe estão associados, importa reequacionar o modelo da distribuição das receitas, procedendo a ajustamentos no regime legal aplicável de forma a promover uma redistribuição dos resultados e respectiva afectação a fins de natureza cultural desportiva e social.
+
+Com efeito, o presente decreto-lei, no cumprimento do Programa do Governo, vai no sentido de permitir, através da aplicação de critérios de selectividade e rentabilidade dos apoios financeiros, uma afectação mais eficiente dos recursos disponíveis a uma rede equilibrada de apoios eminentemente sociais.
+
+Assim, altera-se o esquema de repartição da receita dos jogos sociais, que reflecte uma maior preocupação actualista, de forma a maximizar as verbas daí resultantes, através de uma repartição dos resultados dos jogos, mais equilibrada e estável, tendo em conta o conjunto do produto líquido da exploração de todos os jogos pelos actuais beneficiários.
+
+Pretende-se assim o aperfeiçoamento da distribuição das verbas relativas ao apoio social aos idosos, aos mais carenciados, às pessoas portadoras de deficiência, às famílias e à comunidade em geral, às crianças e jovens, bem como uma maior promoção e valorização da cultura, uma melhoria na qualidade educativa e um incremento dos apoios às actividades desportivas, o que permite o desenvolvimento de uma rede equilibrada e equitativa de apoios educativos, culturais e eminentemente sociais.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, bem como o Conselho de Jogos da Santa Casa da Misericórdia de Lisboa.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei altera a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se à distribuição dos resultados líquidos de exploração dos seguintes jogos sociais:
+
+a) Lotaria Nacional;
+
+b) Lotaria Instantânea;
+
+c) Totobola;
+
+d) Totoloto;
+
+e) Totogolo;
+
+f) Loto 2;
+
+g) Joker;
+
+h) Euromilhões.
+
+2 - O disposto no presente decreto-lei aplica-se ainda à distribuição dos resultados líquidos de exploração dos jogos sociais que forem criados após a sua entrada em vigor.
+
+###### Artigo 3.º — Resultados de exploração
+
+1 - Os resultados líquidos da exploração dos jogos sociais previstos no artigo anterior são repartidos pelas entidades beneficiárias nos termos do presente artigo.
+
+2 - São atribuídos ao Ministério da Administração Interna 3,60 % do valor dos resultados líquidos de exploração de jogos sociais, sendo fixadas anualmente, nos termos da portaria emitida ao abrigo do disposto no artigo 6.º, as normas regulamentares necessárias à repartição anual das verbas, as percentagens afetas a cada área e a respetiva distribuição para áreas mais deficitárias ou estratégicas, desde que com observância das seguintes percentagens mínimas:
+
+a) 2,50 % para finalidades de proteção civil, emergência e socorro, nomeadamente apoio a associações de bombeiros voluntários;
+
+b) 0,20 % para ações no domínio da sinistralidade rodoviária e da prevenção da criminalidade, designadamente em espaços turísticos, no interior do País e em zonas de risco, bem como para financiamento de iniciativas no domínio da prevenção dos riscos sociais, da vitimação e do sentimento de insegurança decorrentes da criminalidade;
+
+c) 0,60 % para o policiamento de espetáculos desportivos.
+
+3 - Constituem receitas do Estado 2,18 % dos resultados líquidos de exploração dos jogos sociais.
+
+4 - São atribuídos à Presidência do Conselho de Ministros 3,88 % do valor dos resultados líquidos de exploração de jogos sociais, destinados à promoção, desenvolvimento e fomento de atividades, programas, ações ou infraestruturas, no âmbito da cultura e da igualdade de género.
+
+5 - As verbas atribuídas ao Ministério do Trabalho, Solidariedade e Segurança Social são repartidas da seguinte forma:
+
+a) 31,84 % destinam-se a melhorar as condições de vida e o acompanhamento das pessoas idosas e das pessoas com deficiência, a promover o apoio a crianças e jovens, à família e à comunidade em geral, a combater a violência doméstica e a violência numa perspetiva de género, bem como a apoiar situações graves de carência e risco, incluindo as referentes à recuperação e educação especial de crianças com deficiência, nomeadamente através do desenvolvimento de iniciativas que visem o alargamento ou a melhoria da qualidade da rede de equipamentos e serviços, combate à pobreza e à exclusão social, a situações de risco social emergente e, ainda, através do apoio a estabelecimentos e instituições de solidariedade social que prossigam fins de ação social, bem como o desenvolvimento de medidas de apoio às comunidades portuguesas;
+
+b) 1,14 % para a prestação de serviços sociais nas áreas do turismo e do termalismo social e sénior, da organização dos tempos livres, da cultura e do desporto populares, a afetar à Fundação INATEL.
+
+6 - São atribuídos ao Ministério da Saúde 15,70 % do valor dos resultados líquidos de exploração dos jogos sociais, para ações destinadas à concretização dos objetivos estratégicos do Plano Nacional de Saúde, em áreas que envolvam a promoção da saúde e a prevenção da doença como a literacia em saúde, promoção da alimentação saudável e da atividade física, prevenção do tabagismo, vacinação, saúde mental, bem como em áreas prioritárias como a patologia cérebro-cardiovascular, oncologia, diabetes, doenças respiratórias, infeções e resistência aos antimicrobianos, dependências e comportamentos aditivos, doenças raras, prevenção de doenças infecciosas relevantes em saúde pública como o VIH/SIDA, tuberculose, hepatites virais e infeções sexualmente transmissíveis, bem como nos cuidados continuados integrados e cuidados paliativos.
+
+7 - As verbas atribuídas ao Ministério da Educação são repartidas do seguinte modo:
+
+a) 0,95 % para o apoio ao desporto escolar e investimentos em infraestruturas desportivas escolares;
+
+b) 0,47 % para financiamento de projetos especiais destinados a estudantes do ensino secundário que revelem mérito excecional e que careçam de apoio financeiro para prosseguimento dos seus estudos;
+
+c) 8,87 % são transferidos para o Instituto Português do Desporto e Juventude, I. P., para o fomento e desenvolvimento de atividades e infraestruturas desportivas e juvenis.
+
+8 - (Revogado.)
+
+9 - São atribuídos ao Governo Regional da Madeira 2,47 % do valor dos resultados líquidos de exploração dos jogos sociais, nos termos a definir por Decreto Legislativo Regional.
+
+10 - São atribuídos ao Governo Regional dos Açores 2,38 % do valor dos resultados líquidos de exploração dos jogos sociais, nos termos a definir por Decreto Legislativo Regional.
+
+11 - São atribuídos à Santa Casa da Misericórdia de Lisboa, para desenvolvimento de projetos integrados nos seus fins estatutários, 26,52 % do valor dos resultados líquidos de exploração dos jogos sociais.
+
+12 - À excepção do previsto na alínea b) do n.º 5, as verbas afectas ao Ministério da Solidariedade e Segurança Social são transferidas para o Instituto de Gestão Financeira da Segurança Social, I. P.
+
+13 - As verbas afectas ao Ministério da Saúde são transferidas para a Administração Central do Sistema de Saúde, I. P.
+
+14 - A Santa Casa da Misericórdia de Lisboa envia às entidades beneficiárias um relatório trimestral referente aos resultados líquidos da exploração dos jogos sociais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2025-911488702), em vigor a partir de 2025-03-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2018 - Diário da República n.º 70/2018, Série I de 2018-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488), em vigor a partir de 2018-04-15, produz efeitos a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2011 - Diário da República n.º 203/2011, Série I de 2011-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), em vigor a partir de 2011-10-22
+
+> Retificado pelo/a [Declaração de Rectificação n.º 15-A/2011 - Diário da República n.º 99/2011, 1º Suplemento, Série I de 2011-05-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-a-2011-655676), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 44/2011 - Diário da República n.º 59/2011, Série I de 2011-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), em vigor a partir de 2011-03-29, produz efeitos a partir de 2011-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 26/2006 - Diário da República n.º 83/2006, Série I-A de 2006-04-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/26-2006-661931), em vigor a partir de 2006-03-20, produz efeitos a partir de 2006-01-01
+
+###### Artigo 4.º — Norma remissiva
+
+1 - Passam a considerar-se feitas pelo montante resultante da distribuição dos resultados da exploração afecto às respectivas entidades, operada pelo presente decreto-lei, as referências às normas relativas à distribuição dos resultados líquidos de exploração pelas respectivas entidades beneficiárias, constantes dos diplomas que criam ou regulam os jogos sociais, nomeadamente as referências às seguintes normas:
+
+a) Alínea a) do artigo 11.º do Decreto-Lei n.º 40397, de 24 de Novembro de 1955, na redacção dada pelo Decreto-Lei n.º 43399, de 15 de Dezembro de 1960;
+
+b) N.os 3 e 4 do artigo 16.º e n.os 1 e 3 do artigo 17.º do Decreto-Lei n.º 84/85, de 28 de Março, alterado pelos Decretos-Leis n.os 389/85, de 9 de Outubro, 387/86, de 17 de Novembro, 285/88, de 12 de Agosto, 371/90, de 27 de Novembro, 174/92, de 13 de Agosto, 238/92, de 29 de Outubro, 64/95, de 7 de Abril, 258/97, de 30 de Setembro, 153/2000, de 21 de Julho, 317/2002, de 27 de Dezembro, e 37/2003, de 6 de Março;
+
+c) N.º 1 do artigo 5.º do Decreto-Lei n.º 412/93, de 21 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 225/98, de 17 de Julho;
+
+d) Artigo 2.º do Decreto-Lei n.º 314/94, de 23 de Dezembro;
+
+e) Artigo 9.º do Decreto-Lei n.º 210/2004, de 20 de Agosto.
+
+2 - O disposto no número anterior não se aplica ao previsto na alínea a) do artigo 6.º do Decreto-Lei n.º 274/91, de 7 de Agosto.
+
+###### Artigo 5.º — Norma revogatória
+
+É revogada toda a legislação que contrarie o disposto no presente decreto-lei.
+
+###### Artigo 6.º — Regulamentação
+
+As normas regulamentares necessárias à repartição anual das verbas referidas no presente diploma são aprovadas até 10 de Outubro, através de portaria do ministro responsável pela respectiva área sectorial, para vigorar no ano seguinte.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2011 - Diário da República n.º 203/2011, Série I de 2011-10-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), em vigor a partir de 2011-10-22
+
+###### Artigo 7.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos a partir de 1 de Janeiro de 2006.
+
+Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José António Fonseca Vieira da Silva - António Fernando Correia de Campos - Jorge Miguel de Melo Viana Pedreira - Maria Isabel da Silva Pires de Lima.
+
+Promulgado em 5 de Março de 2006.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 6 de Março de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

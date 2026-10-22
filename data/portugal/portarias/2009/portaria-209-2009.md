@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:602043:por
+title: Portaria n.º 209/2009
+short_title: null
+summary: Aprova o regulamento de extensão do CCT entre a ARESP - Associação da Restauração e Similares de Portugal e a FETESE
+  - Federação dos Sindicatos dos Trabalhadores de Serviços e das alterações do CCT entre a mesma associação de empregadores
+  e a FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 209/2009
+official_date: null
+publication_date: '2009-02-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/2009, Série I de 2009-02-23
+  number: '37'
+  series: I
+  supplement: null
+  pages: 1245 - 1246
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/02/03700/0124501246.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/209/2009/02/23/p/dre/pt/html
+  oj: null
+  dre: '602043'
+  dre_path: /dr/detalhe/portaria/209-2009-602043
+  internal: pt:dre:602043:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-2009-602043
+  metadata_url: https://data.dre.pt/eli/port/209/2009/02/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/209-2009-602043
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-02-23T00:00:00Z'
+integrity:
+  source_sha256: bd2941ddebec921b69c04e868990f8472b648f0feaf4b5ac1b67d1d1e44bccb0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-209-602043.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Turismo
+- Contrato Coletivo de Trabalho
+- Regime Laboral
+- Indústria Hoteleira
+- Agricultura
+- Regulamento de Extensão
+- Relações de Trabalho
+- Tabela Salarial
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2004/07/29/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 209/2009
+
+de 23 de Fevereiro
+
+O contrato colectivo de trabalho entre a ARESP - Associação da Restauração e Similares de Portugal e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e as alterações do CCT entre a mesma associação de empregadores e a FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal, publicadas, respectivamente, no Boletim do Trabalho e Emprego, n.os 21 e 24, de 8 e 29 de Junho de 2008, abrangem as relações de trabalho entre empregadores e trabalhadores representados pelas associações que os outorgaram.
+
+As associações subscritoras requereram a extensão das duas convenções aos empregadores não filiados na associação de empregadores outorgante que prossigam as actividades abrangidas no território nacional e aos respectivos trabalhadores não representados pelas associações sindicais outorgantes.
+
+As convenções actualizam as tabelas salariais; não foi, contudo, possível avaliar o impacte da extensão das mesmas. No entanto, com base no apuramento dos quadros de pessoal de 2005, sabe-se que existem no sector abrangido pelas convenções 47 193 trabalhadores a tempo completo.
+
+As convenções actualizam ainda outras prestações de conteúdo pecuniário, como o abono para falhas, o prémio de conhecimento de línguas, o valor da alimentação e a retribuição mínima dos extras. Não é possível avaliar o impacte da extensão destas prestações mas, considerando a finalidade da mesma e que estas prestações foram objecto de extensões anteriores, justifica-se incluí-las na extensão.
+
+Em ambas as convenções, as retribuições previstas no anexo i, para o período de 1 de Janeiro a 31 de Dezembro de 2008, relativas aos níveis i e ii, e as previstas no nível iii para os estabelecimentos classificados no grupo C são inferiores à retribuição mínima mensal garantida em 2008 e as retribuições dos níveis i a v de todos os grupos são inferiores à retribuição mínima mensal garantida para 2009. No entanto, a retribuição mínima mensal garantida pode ser objecto de reduções relacionadas com o trabalhador, de acordo com o artigo 209.º da [Lei n.º 35/2004](https://diariodarepublica.pt/dr/detalhe/lei/35-2004-502399), de 29 de Julho. Deste modo, as referidas retribuições das tabelas salariais apenas são objecto de extensão para abranger situações em que a retribuição mínima mensal garantida resultante da redução seja inferior àquelas.
+
+Atendendo a que a convenção celebrada com a FETESE regula diversas condições de trabalho, procede-se à ressalva genérica de cláusulas que sejam contrárias a normas legais imperativas.
+
+Na área das convenções, as actividades abrangidas são também reguladas por outras convenções colectivas celebradas pela APHORT - Associação Portuguesa da Hotelaria, Restauração e Turismo, pela HRCENTRO - Associação dos Industriais de Hotelaria e Restauração do Centro e pela AIHSA - Associação dos Industriais Hoteleiros e Similares do Algarve pelo que é conveniente assegurar, na medida do possível, a uniformização do estatuto laboral em cada empresa.
+
+À semelhança das extensões anteriores, as convenções são estendidas nos distritos de Beja, Évora, Lisboa, Portalegre, Setúbal e Santarém, com excepção dos concelhos de Mação e Ourém, às relações de trabalho entre empregadores não filiados nas referidas associações de empregadores e, no território do continente, às relações de trabalho entre empregadores filiados na associação de empregadores outorgante e trabalhadores ao seu serviço não filiados nos sindicatos inscritos nas federações sindicais outorgantes. Por outro lado, a actividade de cantinas, refeitórios e fábricas de refeições é abrangida por outra convenção colectiva de trabalho, igualmente outorgada pela ARESP, pelo que a mesma, a exemplo das extensões anteriores, é excluída da presente extensão.
+
+Com vista a aproximar os estatutos laborais dos trabalhadores e as condições de concorrência entre as empresas do sector de actividade abrangido, a extensão assegura para as tabelas salariais de ambas as convenções e para as cláusulas de conteúdo pecuniário previstas no CCT celebrado com a FETESE retroactividade idêntica à das convenções.
+
+A extensão das convenções tem, no plano social, o efeito de uniformizar as condições mínimas de trabalho dos trabalhadores e, no plano económico, o de aproximar as condições de concorrência entre empresas do mesmo sector.
+
+Embora as convenções tenham área nacional, a extensão de convenções colectivas nas Regiões Autónomas compete aos respectivos Governos Regionais, pelo que a extensão apenas é aplicável no território do continente.
+
+Foi publicado o aviso relativo à presente extensão no Boletim do Trabalho e Emprego, n.º 47, de 22 de Dezembro de 2008, ao qual não foi deduzida oposição por parte dos interessados.
+
+Assim:
+
+Manda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, ao abrigo dos n.os 1 e 3 do artigo 575.º do Código do Trabalho, o seguinte:
+
+###### Artigo 1.º
+
+1 - O contrato colectivo de trabalho entre a ARESP - Associação da Restauração e Similares de Portugal e a FETESE - Federação dos Sindicatos dos Trabalhadores de Serviços e as alterações do contrato colectivo entre a mesma associação de empregadores e a FESAHT - Federação dos Sindicatos da Agricultura, Alimentação, Bebidas, Hotelaria e Turismo de Portugal, publicados, respectivamente, no Boletim do Trabalho e Emprego, n.os 21 e 24, de 8 e 29 de Junho de 2008, são estendidos nos seguintes termos:
+
+a) Nos distritos de Beja, Évora, Lisboa, Portalegre, Setúbal e Santarém, com excepção dos concelhos de Mação e Ourém, às relações de trabalho entre empregadores não filiados na associação de empregadores outorgante que exerçam a actividade económica abrangida pelas convenções e trabalhadores ao seu serviço, das profissões e categorias profissionais nelas previstas;
+
+b) No território do continente, às relações de trabalho entre empregadores filiados na associação de empregadores outorgante que prossigam a actividade referida na alínea anterior e trabalhadores ao seu serviço, das profissões e categorias profissionais previstas nas convenções não representados pelas associações sindicais outorgantes.
+
+2 - As retribuições das tabelas salariais previstas nas convenções para o período de 1 de Janeiro a 31 de Dezembro de 2008 inferiores à retribuição mínima mensal garantida para os anos de 2008 e de 2009 apenas são objecto de extensão em situações em que sejam superiores à retribuição mínima mensal garantida resultante da redução relacionada com o trabalhador, de acordo com o artigo 209.º da [Lei n.º 35/2004](https://diariodarepublica.pt/dr/detalhe/lei/35-2004-502399), de 29 de Julho.
+
+3 - A presente portaria não se aplica a cantinas, refeitórios e fábricas de refeições.
+
+4 - A extensão determinada na alínea a) do n.º 1 não se aplica aos empregadores filiados na APHORT - Associação Portuguesa da Hotelaria, Restauração e Turismo e na HRCENTRO - Associação dos Industriais de Hotelaria e Restauração do Centro.
+
+5 - Não são objecto de extensão as disposições contrárias a normas legais imperativas.
+
+###### Artigo 2.º
+
+1 - A presente portaria entra em vigor no 5.º dia a contar da sua publicação no Diário da República.
+
+2 - As tabelas salariais de ambas as convenções e as cláusulas de conteúdo pecuniário previstas no CCT celebrado com a FETESE produzem efeitos a partir de 1 de Janeiro de 2008.
+
+3 - Os encargos resultantes da retroactividade podem ser satisfeitos em prestações mensais de igual valor, com início no mês seguinte ao da entrada em vigor da presente portaria, correspondendo cada prestação a dois meses de retroactividade ou fracção, até ao limite de seis.
+
+Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 16 de Fevereiro de 2009.

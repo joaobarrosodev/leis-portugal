@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:211059790:por
+title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 14/2023/A
+short_title: null
+summary: Reforçar a prevenção e combate às dependências
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 14/2023/A
+official_date: null
+publication_date: '2023-03-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2023, Série I de 2023-03-28
+  number: '62'
+  series: I
+  supplement: null
+  pages: 27 - 28
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/03/06200/0002700028.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalraa/14/2023/03/28/a/dre/pt/html
+  oj: null
+  dre: '211059790'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/14-2023-211059790
+  internal: pt:dre:211059790:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/14-2023-211059790
+  metadata_url: https://data.dre.pt/eli/resolalraa/14/2023/03/28/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/14-2023-211059790
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-03-28T00:00:00Z'
+integrity:
+  source_sha256: 87ef41f3bb85464016bb6b796e4181192056de1bf78b75f0caeaa4134c45e977
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2023/DRE-2023-14-211059790.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alcoolismo
+- Governo Regional
+- Álcool
+- Combate à Droga
+- Droga
+- Toxicodependente
+- Recomendação
+- Açores
+- Substância Estupefaciente ou Psicotrópica
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 14/2023/A
+
+Prevenção e combate às dependências estão a ficar para trás
+
+A problemática da toxicodependência nos Açores precisa urgentemente de fazer parte das prioridades políticas públicas do Governo Regional dos Açores.
+
+É urgente enfrentar este problema psicossocial e de saúde pública, que afeta todo o mundo e, de forma especial e preocupante, a Região Autónoma dos Açores, onde também se vem registando um aumento nos consumos de novas substâncias psicoativas.
+
+Há todo um trabalho à espera de ser desenvolvido junto dos jovens consumidores, excluídos pela sociedade, encaminhando-os para o tratamento à desabituação, com vista à sua reintegração na sociedade e ao recomeço de um projeto para as suas vidas.
+
+É preciso promover um trabalho concertado, desenvolvido por equipas especializadas, com vista à redução dos comportamentos de risco e à promoção da literacia em saúde, bem como a reinserção social.
+
+É preciso prevenir, dissuadir, reduzir riscos e minimizar danos. É fundamental passar da reação para a ação.
+
+O PS/Açores sempre defendeu, como agora defende, que todos os cidadãos toxicodependentes devem ter acesso a tratamento. Enquanto o PS/Açores foi Governo foi isso mesmo que aconteceu. Na última legislatura, entre 2016 e 2020, foram atendidos todos os pedidos de reencaminhamento para tratamento em Comunidades Terapêuticas, num processo célere e sem compassos de espera.
+
+Atualmente, chegam-nos informações de que existe nos Açores uma lista de espera para tratamentos de cidadãos toxicodependentes em Comunidades Terapêuticas. Ou seja, os doentes que, por iniciativa própria, se queiram tratar e tenham critérios para ser referenciados para Comunidades Terapêuticas, devem ser, rapidamente, encaminhados e não ficar a aguardar por eventuais faltas de financiamento.
+
+Acresce que o aumento da mendicidade e de pessoas sem abrigo, a evolução da criminalidade para registos mais elevados, por agravamento do uso de novas substâncias psicoativas (onde a Região já apresenta um terço dos consumos no todo nacional), ilustram bem o flagelo social que a Região enfrenta, hoje, neste domínio, e que ameaça o bem-estar e coesão social.
+
+Ora o Governo Regional de direita deve assegurar a continuidade do que se construiu com muito apoio e concertação técnica, nomeadamente um sistema de vigilância de comportamentos de risco que envolve as várias áreas (comportamentos aditivos, alimentação, bullying, acidentes, higiene e saúde afetivossexual), através de um inquérito bianual que permita à Região ter informação até ao nível das unidades orgânicas do sistema de ensino. Este inquérito não tem sido realizado.
+
+Deve também o Governo Regional reforçar as Redes Locais de Intervenção em todos os concelhos da Região com assinatura de carta de compromisso entre diversas entidades, sendo que cada concelho deverá ter o seu plano integrado no Plano de Ação Regional de Prevenção e Intervenção em Comportamentos Aditivos e Dependências, e ainda o Plano de Ação Regional de Intervenção em Comportamentos Aditivos ou o Plano Regional de Redução dos Problemas Ligados ao Álcool, com todos os cinco eixos mencionados e com oito contextos de intervenção: família, escola, espaços recreativos noturnos, espaços extremos, comunidade, laboral, desportivo e cultural.
+
+Todos esses meios de diagnóstico e intervenção devem continuar disponíveis em favor das comunidades e das famílias.
+
+O PS/Açores tem consciência de que as problemáticas sociais merecedoras de maior preocupação na Região têm sido fortemente potenciadas pelos efeitos perniciosos da crise pandémica destes últimos dois anos e que, por via disso, o aumento dos consumos de álcool e de substâncias psicoativas carreiam o agravamento de problemas sociais, por demais evidentes e sentidos por toda a comunidade, quer em ambiente rural quer em ambiente urbano.
+
+É, portanto, imperativo agir de forma estratégica e concertada e reforçar o desenvolvimento de respostas mais imediatas e atuantes na prevenção e combate às dependências.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos regimentais aplicáveis e ao abrigo do disposto no n.º 3 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, recomendar ao Governo Regional dos Açores que:
+
+1 - Até à abertura de Comunidades Terapêuticas nos Açores, desenvolva as diligências essenciais à imediata reposição de todos os encaminhamentos necessários para tratamento de cidadãos toxicodependentes, residentes nos Açores, em Comunidades Terapêuticas fora da Região, terminando com as listas de espera existentes para esse efeito.
+
+2 - Promova o aumento das respostas para encaminhamento de doentes com duplo diagnóstico, que necessitam de uma resposta de longa duração.
+
+3 - Implemente, até ao final do ano, programas de tratamento de duplo diagnóstico, para jovens dos 14 aos 30 anos de idade, na Região.
+
+4 - No início do próximo ano letivo, retome a realização do inquérito às escolas e do plano e relatório de atividades da saúde escolar.
+
+5 - Realize, até ao final do ano, um diagnóstico à saúde mental dos consumidores de rua não motivados para tratamento (vulgo sem abrigo).
+
+Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de março de 2023.
+
+**O Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.**

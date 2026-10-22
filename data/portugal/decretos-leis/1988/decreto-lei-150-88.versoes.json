@@ -1,0 +1,185 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:285373:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1988-116979689",
+ "dre_path": "/dr/detalhe/decreto-lei/150-1988-285373",
+ "source_lastmod": "2024-08-30",
+ "versions": [
+  {
+   "date": "1988-04-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116979481",
+    "116979482",
+    "116979483",
+    "116979484",
+    "116979485",
+    "116979486",
+    "116979487",
+    "116979488",
+    "116979489",
+    "116979490",
+    "116979491",
+    "116979492",
+    "116979493"
+   ]
+  },
+  {
+   "date": "1995-07-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:527645:por",
+     "title": "Decreto-Lei n.º 119/95",
+     "published": "1995-05-30",
+     "dre_path": "/dr/detalhe/decreto-lei/119-1995-527645"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "116979481",
+    "116979482",
+    "116979483",
+    "116979484",
+    "116979485",
+    "116979486",
+    "116979487",
+    "886381987",
+    "116979489",
+    "116979490",
+    "116979491",
+    "116979492",
+    "116979493",
+    "116979494"
+   ]
+  }
+ ],
+ "fragments": {
+  "116979481": {
+   "fragment_id": "116979690",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 150/88\n\nde 28 de Abril\n\nA construção, a aquisição e a alienação de embarcações de comércio encontram-se fortemente condicionadas pela necessidade, na generalidade dos casos, de prévia autorização ministerial, nos termos do disposto no capítulo III do Decreto-Lei n.º 543/71, de 6 de Dezembro, e no Decreto n.º 21360, de 14 de Junho de 1932.\n\nEssa autorização é uma manifestação da filosofia do condicionamento industrial e tem sido cada vez mais insistentemente posta em causa pelos armadores, que reclamam a instituição de um regime de liberalização, sem prejuízo do cumprimento e certificação das regras técnicas de segurança dos mesmos.\n\nDe facto, a indústria de transportes marítimos é uma actividade iminentemente internacional, que se deve, por isso, pautar pelos padrões vigentes além-fronteiras, sob pena de se fazer perigar a sua viabilidade. Ora, em termos internacionais, a aquisição e a alienação de embarcações de comércio é, desde há longos anos, um instrumento fundamental para assegurar a viabilidade e a rentabilidade das empresas de navegação, pelo que não devem existir entraves à sua realização.\n\nEste diploma visa dar resposta a esses anseios, estabelecendo, como princípio, que são livres a aquisição de embarcações de comércio já construídas ou a construir e a sua alienação, sem prejuízo de se preverem limitações pontuais ditadas pela necessidade de acautelar interesses dignos de tutela jurídica, incluindo os de natureza estratégica.\n\nPor maioria de razão não se justificará manter a modificação desses mesmos navios e embarcações sujeita a autorização.\n\nA construção, a modificação, a aquisição e a alienação de rebocadores e de embarcações auxiliares passam igualmente a nau carecer de autorização, por não se justificar diferença de tratamento, nos aspectos essenciais, em relação às embarcações de comércio.\n\nTendo presente a necessidade de reforçar as possibilidades de investimento em frota de bandeira portuguesa, considerou-se necessário incluir uma norma da qual decorresse, inequivocamente, que as embarcações a que se refere o presente diploma podem ser, nos limites da lei civil, objecto de direito de propriedade de quaisquer pessoas, singulares ou colectivas, mesmo que não sejam armadores, desvanecendo-se assim dúvidas que se suscitavam em face das normas em vigor.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "116979482": {
+   "fragment_id": "116979691",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - Qualquer pessoa, singular ou colectiva, pode, observados os limites previstos na lei civil, ser titular do direito de propriedade de embarcações de comércio, de rebocadores e de embarcações auxiliares.\n\n2 - Sem prejuízo do disposto no artigo 5.º, não dependem de autorização a aquisição, alienação ou modificação das embarcações, já construídas ou a construir, referidas no número anterior."
+  },
+  "116979483": {
+   "fragment_id": "116979692",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAs embarcações referidas no n.º 1 do artigo 1.º que arvorem a Bandeira Portuguesa devem obedecer aos requisitos técnicos de segurança, de prevenção da poluição do mar e de habitabilidade estabelecidos pelas normas em vigor no ordenamento jurídico português."
+  },
+  "116979484": {
+   "fragment_id": "116979693",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO contrato de compra e venda de embarcações de comércio, rebocadores ou navios auxiliares, nomeadamente a declaração de venda (bill of sale), está sujeito a forma escrita e ao reconhecimento presencial da assinatura do vendedor."
+  },
+  "116979485": {
+   "fragment_id": "116979694",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo caso de aquisição de embarcação de comércio, de rebocador e de embarcação auxiliar já existente que se destine a ser embandeirado com a Bandeira Portuguesa, deve o adquirente comunicar à Inspecção-Geral de Navios a celebração do respectivo contrato no prazo de cinco dias úteis."
+  },
+  "116979486": {
+   "fragment_id": "116979695",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs projectos de construção ou modificação de embarcações abrangidos pelo presente diploma devem ser submetidos à Inspecção-Geral de Navios para aprovação."
+  },
+  "116979487": {
+   "fragment_id": "116979696",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA aquisição ou a alienação e a construção ou a modificação de navios ou embarcações referidos neste diploma devem, em qualquer caso, ser comunicadas à Direcção-Geral da Marinha de Comércio no prazo de cinco dias a contar, conforme os casos, da aprovação do projecto de construção ou modificação ou da celebração do contrato pelo qual se transfira a sua propriedade."
+  },
+  "116979488": {
+   "fragment_id": "116979697",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - As embarcações a que se refere o presente diploma não podem ser objecto de registo nas capitanias dos portos sem a apresentação de documento emitido pela Inspecção-Geral de Navios em que seja certificado que estão satisfeitos os requisitos técnicos referidos no artigo 2.º\n\n2 - Se a embarcação for adquirida no estrangeiro, pode ser objecto de registo provisório no consulado, mediante a apresentação do documento comprovativo da transferência de propriedade para o comprador, devendo o registo definitivo ser efectuado, observado o disposto no número anterior, no prazo de seis meses contado a partir do registo provisório ou logo que a embarcação escale um porto nacional.\n\n3 - O prazo referido no número anterior pode ser prorrogado, por despacho do ministro responsável pela marinha de comércio, quando razões devidamente comprovadas o justifiquem."
+  },
+  "116979489": {
+   "fragment_id": "116979698",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nAs entidades com competência para o registo de embarcações devem comunicar à Direcção-Geral da Marinha de Comércio, à Direcção-Geral do Pessoal do Mar e Estudos Náuticos e à Inspecção-Geral de Navios todos os registos de embarcações abrangidas por este diploma, suas alterações e averbamentos, no prazo de cinco dias a contar da sua efectivação."
+  },
+  "116979490": {
+   "fragment_id": "116979699",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA transmissão de propriedade de embarcações abrangidas pelo presente diploma que tenham sido adquiridas com o auxílio do Estado e que implique mudança de pavilhão pode ser objecto de condicionamento."
+  },
+  "116979491": {
+   "fragment_id": "116979700",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCompete ao membro do Governo responsável pela marinha de comércio regulamentar o disposto no presente diploma."
+  },
+  "116979492": {
+   "fragment_id": "116979701",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSão revogados o Decreto-Lei n.º 21360, de 14 de Junho de 1932, os artigos 11.º a 18.º do Decreto-Lei n.º 543/71, de 6 de Dezembro, os artigos 46.º, n.os 3 e 4, 49.º, 50.º, n.º 1, e 53.º do Regulamento Geral das Capitanias, aprovado pelo Decreto-Lei n.º 265/72, de 31 de Julho, e quaiquer outras normas que contrariem o disposto neste diploma."
+  },
+  "116979493": {
+   "fragment_id": "116979702",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação."
+  },
+  "886381987": {
+   "fragment_id": "116979697",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1995-07-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 119/95 - Diário da República n.º 125/1995, Série I-A de 1995-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1995-527645), em vigor a partir de 1995-07-29"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - As embarcações a que se refere o presente diploma só podem ser registadas nas capitanias dos portos mediante a apresentação de certidão emitida pela Direcção-Geral de Portos, Navegação e Transportes Marítimos da qual conste estarem cumpridos os requisitos técnicos referidos no artigo 2.º\n\n2 - Na certidão referida no número anterior deve ainda declarar-se:\n\na) Que as inscrições da embarcação estão de acordo com o disposto no capítulo VI do Decreto-Lei n.º 265/72, de 31 de Julho;\n\nb) Que a embarcação corresponde às indicações, dadas pelo proprietário, que fundamentaram a autorização;\n\nc) O estado do casco, mastreação e seu aparelho, aparelho propulsor, máquinas auxiliares e alojamentos do pessoal.\n\n3 - As embarcações a que se refere o presente diploma não estão sujeitas à vistoria de registo prevista no artigo 159.º do Decreto-Lei n.º 265/72, de 31 de Julho.\n\n4 - As embarcações adquiridas no estrangeiro podem ser registadas provisoriamente nos consulados portugueses, nos termos da legislação aplicável, devendo efectuar-se o registo definitivo no prazo de seis meses, contado a partir da data do registo provisório, com excepção do disposto no número seguinte.\n\n5 - A prorrogação do prazo referido no número anterior pode ser autorizada por despacho do Ministro do Mar quando, por razões imperiosas, devidamente justificadas, não seja possível, nesse prazo, proceder ao registo definitivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 119/95 - Diário da República n.º 125/1995, Série I-A de 1995-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1995-527645), em vigor a partir de 1995-07-29"
+  },
+  "116979494": {
+   "fragment_id": "116979703",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Março de 1988. - Aníbal António Cavaco Silva - Eurico Silva Teixeira de Melo - Joaquim Fernando Nogueira - José Manuel Durão Barroso - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 12 de Abril de 1988.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Abril de 1988.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

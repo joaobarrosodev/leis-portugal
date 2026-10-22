@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:525232:por
+title: Decreto-Lei n.º 48890
+short_title: null
+summary: Atribui às câmaras municipais a regulamentação do trânsito nas vias de comunicação sob a sua jurisdição ou a cargo
+  das juntas de freguesia, bem como nos trechos de estradas nacionais situados dentro dos limites das povoações - Dá nova
+  redacção ao n.º 1 do artigo 2.º do Código da Estrada e a várias disposições dos artigos 55.º e 100.º do Código Administrativo,
+  aprovados, respectivamente, pelos Decretos-Leis n.os 36972 e 31095
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios do Interior, das Obras Públicas e das Comunicações
+proposing_entity: null
+official_number: '48890'
+official_date: null
+publication_date: '1969-03-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 53/1969, Série I de 1969-03-04
+  number: '53'
+  series: I
+  supplement: null
+  pages: 254 - 255
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/03/05300/02540255.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '525232'
+  dre_path: /dr/detalhe/decreto-lei/48890-1969-525232
+  internal: pt:dre:525232:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48890-1969-525232
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48890-1969-525232
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1969-03-04T00:00:00Z'
+integrity:
+  source_sha256: fa97cc1f081900fb8cf879fa726e0bf715d8eabe72e2b753bb76ae76f98a20b3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1969/DRE-1969-48890-525232.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48890
+
+De acordo com o n.º 1 do artigo 2.º do Código da Estrada, conjugado com o § 1.º do artigo 55.º do Código Administrativo, a regulamentação do trânsito no interior das localidades compete às câmaras municipais, mas os respectivos regulamentos e posturas carecem de aprovação do Governo, por intermédio do Ministro das Comunicações.
+
+Esta intervenção sistemática do Ministério das Comunicações tem sido causa de frequentes demoras na entrada em vigor da regulamentação local e deixou de se justificar, por estarem já suficientemente divulgadas as orientações gerais sobre a matéria e pela crescente capacidade das estruturas camarárias em problemas desse tipo, cujas características locais estão mais ao seu alcance que da Administração Central.
+
+Por isso se põe termo neste diploma à exigência da aprovação ministerial, ao mesmo tempo que se inclui na competência das câmaras a regulamentação do trânsito em todas as outras vias a cargo destes corpos administrativos ou das juntas de freguesia.
+
+No entanto, e sem prejuízo do que antecede, considera-se indispensável que ao Ministério das Comunicações fique assegurada a possibilidade de fiscalizar o exercício daquela competência local, por forma a garantir-se a necessária uniformidade na interpretação das leis e normas gerais do trânsito.
+
+Nestes termos:
+
+Ouvida a Câmara Corporativa;
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Compete às câmaras municipais a regulamentação do trânsito nas vias de comunicação sob a sua jurisdição ou a cargo das juntas de freguesia, bem como nos trechos de estradas nacionais situados dentro dos limites das povoações.
+
+###### Art. 2.º - 1. Não pode ser objecto de regulamentos e posturas locais de trânsito o que já estiver regulado por lei, decreto ou regulamento do Governo.
+
+2. Os regulamentos e posturas locais de trânsito só podem conter determinações susceptíveis de sinalização de acordo com o Código da Estrada e seu regulamento, e essas disposições só são obrigatórias quando estiverem colocados os correspondentes sinais regulamentares.
+
+###### Art. 3.º - 1. As deliberações das câmaras municipais sobre regulamentação de trânsito em trechos de estradas nacionais abrangidos nas povoações só podem ser tomadas depois de ouvida a Junta Autónoma de Estradas.
+
+2. Entende-se que a Junta Autónoma de Estradas emitiu parecer favorável se não for obtida resposta dentro do prazo de trinta dias, a contar daquele em que o projecto de regulamentação deu entrada na Direcção de Estradas do respectivo distrito.
+
+3. Independentemente da audiência referida no n.º 1, a Junta Autónoma de Estradas pode, a todo o tempo, propor às câmaras municipais as medidas de aplicação local que julgue convenientes para a segurança e normalidade do trânsito nas estradas nacionais que atravessam povoações.
+
+4. Em caso de discordância entre a Junta Autónoma de Estradas e qualquer câmara municipal sobre regulamentos de trânsito, na parte aplicável à travessia de povoações por estradas nacionais, o assunto será apresentado pela Direcção-Geral de Transportes Terrestres, a pedido de qualquer das entidades interessadas, ao Ministro das Comunicações, a quem competirá decidir.
+
+###### Art. 4.º - 1. Compete à Direcção-Geral de Transportes Terrestres verificar se a regulamentação ou a sinalização do trânsito estão de acordo com as normas gerais aplicáveis ou apresentam inconvenientes para a segurança da circulação, economia dos transportes ou comodidade do público, e, bem assim, suprir, quando repute conveniente, a falta de iniciativa local, notificando a respectiva câmara municipal no sentido de serem eliminadas ou corrigidas as deficiências verificadas.
+
+2. Quando, nos casos previstos no número anterior, a Direcção-Geral de Transportes Terrestres e a câmara municipal não cheguem a acordo sobre as providências a adoptar, a decisão compete ao Ministro das Comunicações.
+
+###### Art. 5.º - 1. Serão objecto de portaria as decisões tomadas pelo Ministro das Comunicações ao abrigo do disposto no n.º 4 do artigo 3.º e no n.º 2 do artigo 4.º, quando implicarem nova regulamentação e alteração ou revogação de regulamentos ou posturas municipais.
+
+2. Não podem as câmaras municipais, sem prévia autorização do Ministro das Comunicações, tomar deliberação que altere ou revogue normas estabelecidas nos termos do número anterior.
+
+###### Art. 6.º O n.º 1 do artigo 2.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 36972](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36972-1948-385375), de 20 de Maio de 1954, passa a ter a seguinte redacção:
+
+1. Compete ao Ministro das Comunicações publicar os regulamentos de aplicação geral necessários à boa execução deste Código.
+
+Compete às câmaras municipais a regulamentação do trânsito nas vias de comunicação sob a sua jurisdição ou a cargo das juntas de freguesia, bem como nos trechos de estradas nacionais situados dentro dos limites das povoações.
+
+###### Art. 7.º O n.º 1.º e o § 1.º do artigo 55.º e o n.º 1.º e o § 1.º do artigo 100.º do Código Administrativo, aprovado pelo [Decreto-Lei n.º 31095](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31095-1940-158453), de 31 de Dezembro de 1940, passam a ter a seguinte redacção:
+
+###### Art. 55.º ...
+
+1.º Que revistam a forma de postura ou regulamento policial, exceptuadas as respeitantes a polícia sanitária;
+
+...
+
+§ 1.º As posturas e regulamentos relativos a polícia sanitária carecem de aprovação do Governo, pelo Ministério da Saúde e Assistência.
+
+...
+
+###### Art. 100.º ...
+
+1.º Que revistam a forma de postura ou regulamento relativo à polícia sanitária;
+
+...
+
+§ 1.º A aprovação será pedida pelo presidente da câmara ao Ministro da Saúde e Assistência no caso do n.º 1.º, ao Ministro das Obras Públicas nos casos dos n.os 2.º e 3.º, ao Ministro do Interior nos casos dos n.os 4.º, 5.º e 8.º, ao Ministro da Economia no caso do n.º 6.º e ao Ministro das Finanças no caso do n.º 7.º
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - Rui Alves da Silva Sanches - José Estêvão Abranches Couceiro do Canto Moniz.
+
+**Promulgado em 20 de Fevereiro de 1969.**
+
+**Publique-se.**
+
+Presidência da República, 4 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.

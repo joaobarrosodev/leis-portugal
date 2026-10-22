@@ -1,0 +1,309 @@
+---
+schema_version: '1.0'
+id: pt:dre:287154:por
+title: Portaria n.º 174/2011
+short_title: null
+summary: Aprova os Estatutos da Entidade Reguladora dos Serviços de Águas e Resíduos, I. P.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 174/2011
+official_date: null
+publication_date: '2011-04-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 82/2011, Série I de 2011-04-28
+  number: '82'
+  series: I
+  supplement: null
+  pages: 2466 - 2468
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/04/08200/0246602468.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/174/2011/04/28/p/dre/pt/html
+  oj: null
+  dre: '287154'
+  dre_path: /dr/detalhe/portaria/174-2011-287154
+  internal: pt:dre:287154:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/174-2011-287154
+  metadata_url: https://data.dre.pt/eli/port/174/2011/04/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/174-2011-287154
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-04-28T00:00:00Z'
+integrity:
+  source_sha256: acf5055613d22787794ded0a5e0f0fe35bfd692dda5917e36445cf189d948d51
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-174-287154.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estatuto
+- Entidade Reguladora dos Serviços das Águas e dos Resíduos
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/207/2006/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/207/2006/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/277/2009/10/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/277/2009/10/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/306/2007/08/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/306/2007/08/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/321/2009/12/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/321/2009/12/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 174/2011
+
+de 28 de Abril
+
+No âmbito do Programa de Reestruturação da Administração Central do Estado (PRACE) e da Lei Orgânica do Ministério do Ambiente e do Ordenamento do Território, aprovado pelo [Decreto-Lei n.º 207/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2006-545642), de 27 de Outubro, mantido em vigor pelo artigo 20.º do [Decreto-Lei n.º 321/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2009-482658), de 11 de Dezembro, que aprovou a orgânica do XVIII Governo Constitucional, foi reestruturado o Instituto Regulador das Águas e Resíduos que passou a designar-se Entidade Reguladora dos Serviços de Águas e Resíduos, I. P., integrada na administração indirecta do Estado, com as atribuições constantes do artigo 21.º do referido [Decreto-Lei n.º 207/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2006-545642).
+
+O [Decreto-Lei n.º 277/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/277-2009-491175), de 2 de Outubro, definiu a missão e as atribuições da Entidade Reguladora dos Serviços de Águas e Resíduos, I. P., organismo com jurisdição sobre todo o território de Portugal continental, que tem por missão a regulação dos sectores dos serviços de abastecimento público de água, de saneamento de águas residuais urbanas e de gestão de resíduos urbanos e o exercício de funções de autoridade competente para a coordenação e fiscalização do regime de qualidade da água para consumo humano.
+
+Importa agora, no desenvolvimento deste decreto-lei, determinar a organização interna da ERSAR, I. P., bem como dar cumprimento à revisão operada pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro, ao Estatuto do Pessoal Dirigente da Administração Pública e à Lei Quadro dos Institutos Públicos, e definir a qualificação e grau dos cargos dirigentes, tendo em conta a especificidade da estrutura orgânica da ERSAR, I. P., e a exigência subjacente ao exercício desses cargos, operando-se uma redução remuneratória que cumula com as que estão excepcionalmente previstas para o ano de 2011 no artigo 19.º da [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro.
+
+Assim:
+
+Ao abrigo do artigo 12.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro:
+
+Manda o Governo, pela Ministra do Ambiente e do Ordenamento do Território e pelo Secretário de Estado da Administração Pública, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+São aprovados os Estatutos da Entidade Reguladora dos Serviços de Águas e Resíduos, I. P., adiante designada por ERSAR, I. P., publicados em anexo à presente portaria e que dela fazem parte integrante.
+
+###### Artigo 2.º — Comissões de serviço em curso
+
+As comissões de serviço em curso à data da publicação da presente portaria mantêm-se nos seus precisos termos até ao fim do respectivo prazo.
+
+###### Artigo 3.º — Produção de efeitos
+
+A presente portaria produz efeitos a partir de 1 de Novembro de 2009.
+
+Em 13 de Abril de 2011.
+
+**A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro. - O Secretário de Estado da Administração Pública, Gonçalo André Castilho dos Santos.**
+
+## ANEXO — ESTATUTOS DA ENTIDADE REGULADORA DOS SERVIÇOS DE ÁGUAS E RESÍDUOS, I. P.
+
+###### Artigo 1.º — Estrutura
+
+1 - Para a prossecução das suas atribuições, a ERSAR, I. P., adopta o modelo de estrutura hierarquizada dispondo de:
+
+a) Unidades orgânicas operacionais;
+
+b) Unidades orgânicas de suporte.
+
+2 - A ERSAR, I. P., dispõe das seguintes unidades operacionais:
+
+a) Departamento de Análise Económica e Financeira;
+
+b) Departamento de Engenharia-Águas;
+
+c) Departamento de Engenharia-Resíduos;
+
+d) Departamento de Análise Jurídica;
+
+e) Departamento da Qualidade da Água.
+
+3 - A ERSAR, I. P., dispõe das seguintes unidades de suporte:
+
+a) Departamento de Estudos e Projectos;
+
+b) Departamento de Tecnologias de Informação;
+
+c) Departamento Administrativo e Financeiro.
+
+4 - O conselho directivo da ERSAR, I. P., pode constituir até ao máximo de seis unidades flexíveis, designadas por Núcleos, de tipo 1 ou 2, inseridas nos departamentos ou directamente dependentes do conselho directivo, definindo os respectivos objectivos e competências.
+
+5 - O conselho directivo pode igualmente criar até ao máximo de duas equipas de projecto, de carácter assumidamente temporário, inseridas ou não nos departamentos, definindo os respectivos objectivos e competências.
+
+###### Artigo 2.º — Cargos dirigentes
+
+1 - São dirigidos por directores de tipo 1, cargo de direcção intermédia de 1.º grau, sendo equiparados para efeitos remuneratórios a cargos de direcção superior de 2.º grau, os seguintes departamentos:
+
+a) Departamento de Análise Económica e Financeira;
+
+b) Departamento de Engenharia-Águas;
+
+c) Departamento de Engenharia-Resíduos;
+
+d) Departamento de Análise Jurídica;
+
+e) Departamento da Qualidade da Água;
+
+f) Departamento Administrativo e Financeiro.
+
+2 - São dirigidos por directores de tipo 2, cargo de direcção intermédia de 2.º grau, sendo equiparados para efeitos remuneratórios a cargos de direcção superior de 2.º grau, os seguintes departamentos:
+
+a) Departamento de Estudos e Projectos;
+
+b) Departamento de Tecnologias de Informação.
+
+3 - Sem prejuízo do disposto no número anterior, o Departamento de Estudos e Projectos e o Departamento de Tecnologias de Informação podem, nos termos de deliberação fundamentada do conselho directivo, ser dirigidos por coordenadores, cargo de direcção intermédia de 3.º grau, sendo equiparados para efeitos remuneratórios a coordenador de tipo 1.
+
+4 - À remuneração base dos directores de tipo 1 e 2 são acrescidas despesas de representação, respectivamente, no valor de 19 % e 10 % da respectiva remuneração base.
+
+5 - Os núcleos de tipo 1 ou 2 são dirigidos por coordenadores, respectivamente cargos de direcção intermédia de 3.º ou de 4.º graus.
+
+6 - Os coordenadores de tipo 1, cargos de direcção intermédia de 3.º grau, percebem uma remuneração base no valor de 80 % da remuneração base de cargo de direcção superior de 1.º grau, a que acrescem despesas de representação no valor de 10 % da respectiva remuneração base.
+
+7 - Os coordenadores de tipo 2, cargos de direcção intermédia de 4.º grau, percebem uma remuneração base no valor de 65 % da remuneração base de cargo de direcção superior de 1.º grau, a que acrescem despesas de representação no valor de 10 % da respectiva remuneração base.
+
+8 - Os coordenadores de tipo 1 exercem as competências previstas nas alíneas a) a g) do n.º 2 do artigo 8.º da [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro.
+
+9 - Os coordenadores de tipo 2, para além das competências que lhes forem delegadas ou subdelegadas, asseguram o cumprimento das competências da unidade orgânica em que se inserem, com o grau de autonomia que lhes for conferido, aquando da sua designação, e garantem a qualidade técnica do trabalho produzido na unidade funcional.
+
+10 - Sem prejuízo do disposto na [Lei n.º 2/2004](https://diariodarepublica.pt/dr/detalhe/lei/2-2004-603476), de 15 de Janeiro, o recrutamento para os cargos de coordenadores, tipo 1 e 2, é feito de entre trabalhadores com relação jurídica de emprego público que reúnam competência técnica, aptidão e experiência profissional e formação adequada ao exercício das respectivas competências e que possuam conhecimento e experiência nas áreas para que são recrutados.
+
+11 - As equipas de projecto são dirigidas por chefes de projecto, equiparados para efeitos remuneratórios a coordenadores de tipo 2.
+
+###### Artigo 3.º — Departamento de Análise Económica e Financeira
+
+Ao Departamento de Análise Económica e Financeira compete:
+
+a) Assegurar a valência económica e financeira na regulação estrutural do sector, na regulação comportamental das entidades gestoras e na realização de actividades regulatórias complementares;
+
+b) Colaborar na monitorização das estratégias nacionais e na elaboração de propostas de nova legislação e regulamentação, no âmbito da regulação estrutural do sector;
+
+c) Promover a regulação económica e colaborar na monitorização legal e contratual dessas entidades ao longo do seu ciclo de vida, na regulação da qualidade de serviço e na análise de reclamações de consumidores, no âmbito da regulação comportamental das entidades gestoras;
+
+d) Apoiar tecnicamente as entidades gestoras e a elaboração e divulgação de informação ao público, no âmbito de actividades regulatórias complementares.
+
+###### Artigo 4.º — Departamento de Engenharia-Águas
+
+Ao Departamento de Engenharia-Águas compete:
+
+a) Assegurar a valência de engenharia associada aos serviços de águas na regulação estrutural do sector, na regulação comportamental das entidades gestoras e na realização de actividades regulatórias complementares;
+
+b) Colaborar na monitorização das estratégias nacionais e na elaboração de propostas de nova legislação e regulamentação, no âmbito da regulação estrutural do sector;
+
+c) Promover a regulação da qualidade de serviço e colaborar na monitorização legal e contratual dessas entidades ao longo do seu ciclo de vida, na regulação económica e na análise de reclamações de consumidores, no âmbito da regulação comportamental das entidades gestoras;
+
+d) Apoiar tecnicamente as entidades gestoras e a elaboração e divulgação de informação ao público, no âmbito de actividades regulatórias complementares.
+
+###### Artigo 5.º — Departamento de Engenharia-Resíduos
+
+Ao Departamento de Engenharia-Resíduos compete:
+
+a) Assegurar a valência de engenharia associada aos serviços de resíduos na regulação estrutural do sector, na regulação comportamental das entidades gestoras e na realização de actividades regulatórias complementares;
+
+b) Colaborar na monitorização das estratégias nacionais e na elaboração de propostas de nova legislação e regulamentação, no âmbito da regulação estrutural do sector;
+
+c) Promover a regulação da qualidade de serviço e colaborar na monitorização legal e contratual dessas entidades ao longo do seu ciclo de vida, na regulação económica e na análise de reclamações de consumidores, no âmbito da regulação comportamental das entidades gestoras;
+
+d) Apoiar tecnicamente as entidades gestoras e a elaboração e divulgação de informação ao público, no âmbito de actividades regulatórias complementares.
+
+###### Artigo 6.º — Departamento de Análise Jurídica
+
+Ao Departamento de Análise Jurídica compete:
+
+a) Assegurar a valência jurídica na regulação estrutural do sector, na regulação comportamental das entidades gestoras e na realização de actividades regulatórias complementares;
+
+b) Colaborar na monitorização das estratégias nacionais e promover a elaboração de propostas de nova legislação e regulamentação, no âmbito da regulação estrutural do sector;
+
+c) Promover a monitorização legal e contratual dessas entidades ao longo do seu ciclo de vida e a análise de reclamações de consumidores e colaborar na regulação económica, na regulação da qualidade de serviço e na regulação da qualidade da água para consumo humano, no âmbito da regulação comportamental das entidades gestoras;
+
+d) Apoiar tecnicamente as entidades gestoras e a elaboração e divulgação de informação ao público, no âmbito de actividades regulatórias complementares.
+
+###### Artigo 7.º — Departamento da Qualidade da Água
+
+Ao Departamento da Qualidade da Água compete:
+
+a) Assegurar a valência da qualidade da água para consumo humano na regulação estrutural do sector, na regulação comportamental das entidades gestoras e na realização de actividades regulatórias complementares;
+
+b) Colaborar na monitorização das estratégias nacionais e na elaboração de propostas de nova legislação e regulamentação, no âmbito da regulação estrutural do sector;
+
+c) Promover a regulação da qualidade da água para consumo humano, no quadro dos poderes de autoridade competente constantes do [Decreto-Lei n.º 306/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/306-2007-640931), de 27 de Agosto, e colaborar na monitorização legal e contratual dessas entidades ao longo do seu ciclo de vida, na regulação económica, na regulação da qualidade de serviço e na análise de reclamações de consumidores, no âmbito da regulação comportamental das entidades gestoras;
+
+d) Apoiar tecnicamente as entidades gestoras e a elaboração e divulgação de informação ao público, no âmbito de actividades regulatórias complementares.
+
+###### Artigo 8.º — Departamento de Estudos e Projectos
+
+Ao Departamento de Estudos e Projectos compete:
+
+a) Assegurar as actividades de inovação e desenvolvimento na regulação estrutural do sector, na regulação comportamental das entidades gestoras e na realização de actividades regulatórias complementares;
+
+b) Promover a monitorização das estratégias nacionais e colaborar na elaboração de propostas de nova legislação e regulamentação, no âmbito da regulação estrutural do sector;
+
+c) Colaborar na monitorização legal e contratual dessas entidades ao longo do seu ciclo de vida, na regulação económica, na regulação da qualidade de serviço, na regulação da qualidade da água para consumo humano e na análise de reclamações de consumidores, no âmbito da regulação comportamental das entidades gestoras;
+
+d) Apoiar tecnicamente as entidades gestoras e a elaboração e divulgação de informação ao público, no âmbito de actividades regulatórias complementares
+
+###### Artigo 9.º — Departamento de Tecnologias de Informação
+
+Ao Departamento de Tecnologias de Informação compete:
+
+a) Gerir os recursos informáticos necessários à regulação estrutural do sector, à regulação comportamental das entidades gestoras e à realização de actividades regulatórias complementares;
+
+b) Gerir os recursos informáticos tanto ao nível do hardware como do software e pela prestação de apoio e formação aos utilizadores.
+
+###### Artigo 10.º — Departamento Administrativo e Financeiro
+
+Ao Departamento Administrativo e Financeiro compete:
+
+a) Prestar apoio administrativo e financeiro ao conselho directivo e aos restantes departamentos, nomeadamente no que respeita à gestão de recursos humanos, à execução orçamental e à contabilidade;
+
+b) Assegurar o suporte de secretariado-geral ao conselho directivo e aos restantes departamentos e por funções na área de correspondência, arquivo e documentação.

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:494795:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-907746491",
+ "dre_path": "/dr/detalhe/portaria/678-2009-494795",
+ "source_lastmod": "2025-02-17",
+ "versions": [
+  {
+   "date": "2009-06-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907522774"
+   ]
+  }
+ ],
+ "fragments": {
+  "907522774": {
+   "fragment_id": "907746492",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 678/2009\n\nde 23 de Junho\n\nNos termos do Sistema de Defesa da Floresta contra Incêndios, estabelecido pelo Decreto-Lei n.º 124/2006, de 28 de Junho, com as alterações produzidas pelo Decreto-Lei n.º 17/2009, de 14 de Janeiro, a adopção de medidas e acções especiais de prevenção contra incêndios florestais decorre sobretudo durante o período crítico anualmente estabelecido por portaria.\n\nPara a definição desse período crítico relevam não só o regime termopluviométrico nacional, função do seu clima, mas também o histórico das ocorrências de incêndios nas diferentes regiões de Portugal continental e as condicionantes associadas à organização dos dispositivos de prevenção e combate a incêndios florestais.\n\nAtendendo à evolução dos factores de perigosidade meteorológica de incêndio florestal no corrente ano e ao previsível aumento do número de ocorrências com causalidade antrópica, importa definir atempadamente o período crítico, assegurando a eficaz utilização dos recursos afectos à vigilância, detecção, alerta, primeira intervenção, combate e rescaldo de incêndios florestais.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo da alínea s) do artigo 3.º do Decreto-Lei n.º 124/2006, de 28 de Junho, na redacção que lhe foi dada pelo Decreto-Lei n.º 17/2009, de 14 de Janeiro, o seguinte:\n\n1.º Definir que o período crítico no âmbito do Sistema de Defesa da Floresta contra Incêndios, no ano de 2009, vigora de 1 de Julho a 15 de Outubro.\n\n2.º Durante o período crítico referido no número anterior são asseguradas medidas especiais de prevenção contra incêndios florestais."
+  }
+ }
+}

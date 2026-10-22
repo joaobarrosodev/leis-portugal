@@ -1,0 +1,886 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:539394:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34529975",
+ "dre_path": "/dr/detalhe/decreto-lei/147-2006-539394",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "43702475",
+    "43702575",
+    "43702675",
+    "43702775",
+    "43702875",
+    "43702975",
+    "43703075",
+    "43703175",
+    "43703275",
+    "43703375",
+    "43703475",
+    "43703575",
+    "43703675",
+    "43703775",
+    "43703875",
+    "43703975",
+    "43704075",
+    "43704175",
+    "43704275",
+    "43704375",
+    "43704475",
+    "43704575",
+    "43704675",
+    "43704775",
+    "43704875",
+    "43704975",
+    "43705075",
+    "43705175",
+    "43705275",
+    "43705375",
+    "43705475",
+    "43705575",
+    "43705675",
+    "43705775",
+    "43705875",
+    "43705975",
+    "43706075",
+    "43706175",
+    "43706275",
+    "43706375",
+    "43706475",
+    "43706575",
+    "43706675",
+    "43706775",
+    "43706875",
+    "43706975",
+    "43707075",
+    "43707175",
+    "43707275",
+    "43707375",
+    "43707475",
+    "43707575",
+    "43707675",
+    "43707775",
+    "43707875",
+    "43707975",
+    "43708075",
+    "43708175"
+   ]
+  },
+  {
+   "date": "2008-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:438704:por",
+     "title": "Decreto-Lei n.º 207/2008",
+     "published": "2008-10-23",
+     "dre_path": "/dr/detalhe/decreto-lei/207-2008-438704"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "43702475",
+    "43702575",
+    "1153133875",
+    "43702775",
+    "43702875",
+    "1153134075",
+    "1153134275",
+    "1153134475",
+    "43703275",
+    "43703375",
+    "43708275",
+    "43703475",
+    "43703575",
+    "158208957",
+    "43703775",
+    "43703875",
+    "158208958",
+    "43704075",
+    "43704175",
+    "43704275",
+    "158208959",
+    "43704475",
+    "43704575",
+    "43704675",
+    "43704775",
+    "43704875",
+    "43704975",
+    "43705075",
+    "158208966",
+    "43705275",
+    "43705375",
+    "43705475",
+    "43705575",
+    "43705675",
+    "43705775",
+    "43705875",
+    "43705975",
+    "43706075",
+    "158208960",
+    "158208961",
+    "43706375",
+    "158208962",
+    "43706575",
+    "43706675",
+    "158208963",
+    "43706875",
+    "43706975",
+    "43707075",
+    "43707175",
+    "43707275",
+    "43707375",
+    "158208964",
+    "158208965",
+    "43707675",
+    "43707775",
+    "43707875",
+    "43707975",
+    "43708075",
+    "43708175"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "43702475",
+    "43702575",
+    "1153133875",
+    "1174781475",
+    "43702875",
+    "1174781675",
+    "1174781875",
+    "1153134475",
+    "43703275",
+    "43703375",
+    "43708275",
+    "43703475",
+    "43703575",
+    "158208957",
+    "43703775",
+    "43703875",
+    "158208958",
+    "43704075",
+    "43704175",
+    "43704275",
+    "158208959",
+    "43704475",
+    "43704575",
+    "43704675",
+    "43704775",
+    "43704875",
+    "43704975",
+    "43705075",
+    "158208966",
+    "43705275",
+    "43705375",
+    "43705475",
+    "43705575",
+    "43705675",
+    "43705775",
+    "43705875",
+    "43705975",
+    "43706075",
+    "158208960",
+    "158208961",
+    "43706375",
+    "158208962",
+    "43706575",
+    "43706675",
+    "158208963",
+    "43706875",
+    "43706975",
+    "43707075",
+    "43707175",
+    "43707275",
+    "43707375",
+    "158208964",
+    "158208965",
+    "43707675",
+    "43707775",
+    "43707875",
+    "43707975",
+    "43708075",
+    "43708175"
+   ]
+  }
+ ],
+ "fragments": {
+  "43702475": {
+   "fragment_id": "35149775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 158/97, de 24 de Junho, aprovou as condições higiénicas e técnicas a observar na distribuição e venda de carnes e seus produtos.\n\nTendo em consideração o tempo que decorreu desde a sua publicação e as alterações ocorridas no âmbito da regulamentação do sector, suscita-se a necessidade de actualizar o regime aí previsto.\n\nCom efeito, foram publicados inúmeros regulamentos comunitários sobre esta matéria, designadamente os Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=2002&id=302R0178\" title=\"Link para Regulamento da Comunidade Europeia\">178/2002</a>, do Parlamento Europeu e do Conselho, de 28 de Janeiro, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios, <a href=\"eurlex.asp?ano=2002&id=302R1774\" title=\"Link para Regulamento da Comunidade Europeia\">1774/2002</a>, do Parlamento Europeu e do Conselho, de 3 de Outubro, que estabelece regras sanitárias relativas aos subprodutos animais não destinados a consumo humano, <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, relativo à higiene dos géneros alimentícios, <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, que estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal, <a href=\"eurlex.asp?ano=2004&id=304R0882\" title=\"Link para Regulamento da Comunidade Europeia\">882/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem-estar dos animais, e <a href=\"eurlex.asp?ano=2005&id=305R2073\" title=\"Link para Regulamento da Comunidade Europeia\">2073/2005</a>, da Comissão, de 15 de Novembro, relativo aos critérios microbiológicos aplicáveis aos géneros alimentícios.\n\nNestes termos, entende-se necessário alargar o âmbito de aplicação do Decreto-Lei n.º 158/97, de 24 de Junho, no que se refere aos géneros alimentícios e aos alimentos para animais, pré-embalados, susceptíveis de serem vendidos nos locais de venda de carnes e seus produtos.\n\nAdicionalmente, considerando que, para além de prever regras gerais de higiene aplicáveis aos géneros alimentícios, o Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, estabelece a obrigatoriedade de formação em matéria de higiene adequada à actividade profissional por parte de todos aqueles que manuseiam alimentos, é necessário reforçar a exigência da formação em matéria de higiene e segurança alimentar para todos os que intervêm na distribuição e venda de carnes e seus produtos.\n\nEncontram-se igualmente fixadas, no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, as regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal, as quais podem aplicar-se aos locais de venda.\n\nPara além disso, os operadores das empresas do sector alimentar devem assegurar que os géneros alimentícios cumprem os critérios microbiológicos pertinentes estabelecidos no anexo I do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2005&id=305R2073\" title=\"Link para Regulamento da Comunidade Europeia\">2073/2005</a>, para que o fornecimento, o manuseamento e a transformação de matérias-primas e géneros alimentícios, sob seu controlo, sejam realizados de forma a respeitar os critérios de segurança dos géneros alimentícios aplicáveis durante todo o período de vida útil dos produtos.\n\nPor sua vez, é alterado o regime sancionatório, tendo sido introduzida, designadamente, a distinção entre a punição estabelecida para as pessoas singulares e para as pessoas colectivas.\n\nO presente decreto-lei visa, assim, revogar os Decretos-Leis n.os 402/84, de 31 de Dezembro, e 158/97, de 24 de Junho, alterado pelos Decretos-Leis n.os 155/98, de 6 de Junho, e 417/98, de 31 de Dezembro, e estabelecer as condições higiénicas e técnicas a observar na distribuição e venda de carnes e seus produtos.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "43702575": {
+   "fragment_id": "35241975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado o Regulamento das Condições Higiénicas e Técnicas a Observar na Distribuição e Venda de Carnes e Seus Produtos, publicado em anexo ao presente decreto-lei e que dele faz parte integrante."
+  },
+  "43702675": {
+   "fragment_id": "35242075",
+   "type": 11,
+   "heading": "Artigo 2.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fiscalização\n\nCompete à Autoridade de Segurança Alimentar e Económica (ASAE) assegurar a fiscalização do cumprimento das normas constantes do presente decreto-lei, no âmbito das suas competências legais, sem prejuízo das competências atribuídas por lei a outras entidades, designadamente às câmaras municipais."
+  },
+  "43702775": {
+   "fragment_id": "35242175",
+   "type": 11,
+   "heading": "Artigo 3.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima, cujo montante mínimo é de (euro) 100 e máximo de (euro) 3740 ou (euro) 44891, consoante o agente da infracção seja pessoa singular ou colectiva:\n\na) A distribuição, preparação e venda de carnes e seus produtos com desrespeito das normas higiénicas e técnicas constantes dos artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 19.º, 20.º e 21.º do Regulamento anexo ao presente decreto-lei;\n\nb) A venda de géneros alimentícios e de alimentos para animais pré-embalados com incumprimento do disposto no artigo 22.º do Regulamento anexo ao presente decreto-lei;\n\nc) A distribuição, preparação e venda de carnes e seus produtos por pessoal que não cumpra o disposto nos artigos 23.º, 24.º, 25.º e 26.º do Regulamento anexo ao presente decreto-lei;\n\nd) O desrespeito pelas operações de separação, identificação, pesagem, registo e encaminhamento para eliminação ou aproveitamento dos subprodutos de origem animal não destinados a consumo humano, conforme previsto no artigo 11.º do Regulamento anexo ao presente decreto-lei.\n\n2 - A negligência e a tentativa são puníveis, reduzindo-se a metade os montantes das coimas estabelecidos no número anterior."
+  },
+  "43702875": {
+   "fragment_id": "35242275",
+   "type": 11,
+   "heading": "Artigo 4.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) a g) do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória.\n\n3 - Quando seja aplicada a sanção de encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa, a reabertura do mesmo e a emissão ou renovação da licença ou alvará só têm lugar quando se encontrem reunidas as condições legais ou regulamentares para o seu normal funcionamento."
+  },
+  "43702975": {
+   "fragment_id": "35242375",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrução e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instrução e aplicação de sanções\n\n1 - Compete à ASAE e aos serviços regionais de agricultura da área da prática da infracção a instrução dos processos de contra-ordenação relativos às matérias do âmbito das respectivas competências.\n\n2 - Compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) e ao director-geral de Veterinária a aplicação das coimas e sanções acessórias relativas às matérias do âmbito das respectivas competências."
+  },
+  "43703075": {
+   "fragment_id": "35242475",
+   "type": 11,
+   "heading": "Artigo 6.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Afectação do produto das coimas\n\n1 - O produto das coimas aplicadas nos processos de contra-ordenação cuja competência para a instrução e decisão seja, nos termos do artigo anterior, da ASAE e da CACMEP, respectivamente, é distribuído da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 30% para a entidade que procedeu à instrução do processo;\n\nc) 60% para o Estado.\n\n2 - Nos restantes processos de contra-ordenação, o produto das coimas é distribuído da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que procedeu à instrução do processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para o Estado."
+  },
+  "43703175": {
+   "fragment_id": "35242575",
+   "type": 11,
+   "heading": "Artigo 7.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que sejam introduzidas através de diploma regional adequado, cabendo a sua execução administrativa aos serviços competentes das respectivas administrações regionais, sem prejuízo das competências atribuídas à Direcção-Geral de Veterinária, na qualidade de autoridade sanitária veterinária nacional.\n\n2 - O produto das coimas aplicadas pelas Regiões Autónomas dos Açores e da Madeira constitui receita própria destas."
+  },
+  "43703275": {
+   "fragment_id": "35242675",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os 402/84, de 31 de Dezembro, e 158/97, de 24 de Junho, alterado pelos Decretos-Leis n.os 155/98, de 6 de Junho, e 417/98, de 31 de Dezembro."
+  },
+  "43703375": {
+   "fragment_id": "35242775",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - Exceptua-se do disposto no número anterior o regime relativo ao cartão de manipulador de carnes e seus produtos, em matéria de higiene e segurança alimentar, cujo uso apenas se torna obrigatório dois anos após a data da publicação do presente decreto-lei."
+  },
+  "43703475": {
+   "fragment_id": "35242875",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DAS CONDIÇÕES HIGIÉNICAS E TÉCNICAS A OBSERVAR NA DISTRIBUIÇÃO E VENDA DE CARNES E SEUS PRODUTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DAS CONDIÇÕES HIGIÉNICAS E TÉCNICAS A OBSERVAR NA DISTRIBUIÇÃO E VENDA DE CARNES E SEUS PRODUTOS"
+  },
+  "43703575": {
+   "fragment_id": "36373875",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "43703675": {
+   "fragment_id": "37963375",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do presente Regulamento, entende-se por:\n\na) «Acondicionamento» a colocação de um produto num invólucro inicial ou recipiente inicial em contacto directo com o produto em questão, bem como o próprio invólucro ou recipiente inicial;\n\nb) «Carcaça» o corpo de qualquer animal abatido, depois de sangrado e preparado, devendo as carcaças e outras partes do corpo ser completamente esfoladas, excepto no caso dos suínos, das cabeças dos ovinos, caprinos e vitelos e dos pés dos bovinos, ovinos e caprinos, e as cabeças e os pés ser manuseados de forma a evitar a contaminação;\n\nc) «Carnes» todas as partes comestíveis de animais das espécies bovina, incluindo búfalos e bisontes, suína, ovina e caprina, bem como os solípedes domésticos, de aves de criação, de coelhos e lebres e de caça de criação e de caça selvagem, próprias para consumo humano, na acepção do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>, do Parlamento Europeu e do Conselho, de 29 de Abril, que estabelece as regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal;\n\nd) «Carnes e seus produtos» as carnes frescas, os preparados de carne e os produtos à base de carne;\n\ne) «Carnes frescas» as carnes não submetidas a qualquer processo de preservação que não a refrigeração, a congelação ou a ultracongelação, incluindo carne embalada em vácuo ou em atmosfera controlada;\n\nf) «Carne picada» a carne desossada que foi picada e que contém menos de 1% de sal;\n\ng) «Embalagem» a operação que consiste na colocação de um ou mais géneros alimentícios acondicionados num segundo recipiente, bem como o próprio recipiente;\n\nh) «Estabelecimento» qualquer unidade de uma empresa do sector alimentar;\n\ni) «Higiene dos géneros alimentícios ou higiene» as medidas e condições necessárias para controlar os riscos e assegurar que os géneros alimentícios sejam próprios para consumo humano, tendo em conta a sua utilização;\n\nj) «Local de venda» o estabelecimento devidamente autorizado a preparar e vender directamente carnes e outros produtos para consumo público;\n\nl) «Médico veterinário municipal» a autoridade sanitária veterinária concelhia;\n\nm) «Miudezas» as carnes frescas não incluídas na carcaça, incluindo as vísceras e o sangue;\n\nn) «Preparados de carne» a carne fresca, incluindo carne que tenha sido reduzida a fragmentos, a que foram adicionados outros géneros alimentícios, condimentos ou aditivos ou que foi submetida a um processamento insuficiente para alterar a estrutura das suas fibras musculares e eliminar assim as características de carne fresca;\n\no) «Produtos à base de carne» os produtos transformados resultantes da transformação da carne ou da ulterior transformação desses produtos transformados, de tal modo que a superfície de corte à vista permita constatar o desaparecimento das características da carne fresca;\n\np) «Produtos de origem animal» os géneros alimentícios de origem animal, incluindo o mel e o sangue, destinados a consumo humano;\n\nq) «Produtos de origem animal transformados» os produtos derivados de animais, bem como produtos provenientes destes, destinados ao consumo humano, associados ou não a outros géneros alimentícios, e que foram sujeitos a um tratamento por aquecimento, fumagem, cura, maturação, secagem, marinagem, extracção, extrusão ou uma combinação destes processos;\n\nr) «Produtos pré-embalados» os produtos cuja embalagem foi efectuada antes da sua exposição à venda ao consumidor em material que solidariamente com eles é comercializado, de tal modo que o conteúdo não possa ser modificado sem que aquele seja aberto ou alterado;\n\ns) «Produtos transformados» os géneros alimentícios resultantes da transformação de produtos não transformados, podendo estes produtos conter ingredientes que sejam necessários ao seu fabrico, por forma a dar-lhes características específicas;\n\nt) «Tratamento ou transformação» a acção que assegura uma modificação substancial do produto inicial por aquecimento, fumagem, cura, maturação, secagem, marinagem, extracção, extrusão ou uma combinação destes processos;\n\nu) «Vísceras» os órgãos das cavidades torácica, abdominal e pélvica, bem como a traqueia e o esófago, e, no caso das aves, o papo."
+  },
+  "43703775": {
+   "fragment_id": "36373975",
+   "type": 1,
+   "heading": "Capítulo II — Condições higiénicas e técnicas da distribuição de carnes e seus produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Condições higiénicas e técnicas da distribuição de carnes e seus produtos"
+  },
+  "43703875": {
+   "fragment_id": "37963475",
+   "type": 8,
+   "heading": "Secção I — Distribuição de carnes e seus produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Distribuição de carnes e seus produtos"
+  },
+  "43703975": {
+   "fragment_id": "39545675",
+   "type": 11,
+   "heading": "Artigo 2.º — Distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Distribuição\n\n1 - As carnes e seus produtos devem, durante a distribuição, ser mantidos às temperaturas internas exigidas para a sua conservação, no estado refrigerado, congelado ou ultracongelado, fixadas no anexo do presente Regulamento, que dele faz parte integrante.\n\n2 - A distribuição de carnes e seus produtos deve efectuar-se o mais rapidamente possível desde a origem ao seu destino.\n\n3 - A distribuição de carnes e seus produtos com destino aos locais de venda só é permitida a partir de estabelecimentos de abate, de preparação, de fabrico de produtos à base de carne, de reacondicionamento e de armazéns devidamente licenciados.\n\n4 - É proibida a distribuição de carnes e seus produtos a partir dos locais de venda para outros estabelecimentos de comércio a retalho.\n\n5 - A distribuição nos termos do número anterior pode ser autorizada quando seja uma actividade marginal, de pequenas quantidades, constitua uma pequena parte da actividade do estabelecimento e sejam cumpridas as disposições do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a> ou, no caso do armazenamento ou transporte, os requisitos específicos de temperatura estabelecidos no anexo do presente Regulamento.\n\n6 - É permitida a distribuição de carnes e seus produtos dos locais de venda a retalho para o domicílio do consumidor desde que os mesmos sejam convenientemente protegidos de conspurcações e contaminações, não devendo a temperatura interna durante o trajecto ultrapassar os valores fixados no anexo do presente Regulamento.\n\n7 - A distribuição referida no número anterior não pode ultrapassar um raio de 50 km."
+  },
+  "43704075": {
+   "fragment_id": "39545775",
+   "type": 11,
+   "heading": "Artigo 3.º — Meios de distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Meios de distribuição\n\n1 - As caixas dos veículos utilizados para a distribuição de carnes devem:\n\na) Ser constituídas por paredes, tecto e pavimento com isolamento adequado, incluindo as portas, de modo a limitar as trocas térmicas entre o exterior e o interior;\n\nb) Ser concebidas por forma a evitar a saída directa de escorrências para o exterior;\n\nc) Ter paredes interiores, tecto e pavimento, incluindo as portas, fabricados de material inócuo, inalterável, impermeável e de fácil limpeza e desinfecção;\n\nd) Ser dotadas de portas com dispositivo de segurança que garanta a integridade dos produtos e os mantenha ao abrigo de conspurcações e de contaminações;\n\ne) Ter, quando necessário, dispositivos de suspensão da carne de material resistente à corrosão e fixados a uma altura tal que as carnes não possam tocar o pavimento.\n\n2 - A caixa pode ainda ser dotada de:\n\na) Prateleiras de material inócuo, inalterável, impermeável e fácil de lavar, convenientemente localizadas para o arrumo de recipientes ou tabuleiros;\n\nb) Dispositivos para a carga ou descarga mecânicas;\n\nc) Dispositivos de frigorificação.\n\n3 - A caixa dos veículos e os recipientes utilizados na distribuição de carnes e seus produtos devem ser mantidos em perfeito estado de conservação e de limpeza.\n\n4 - Nos meios de distribuição de carnes e seus produtos não é permitido o transporte de outras mercadorias e subprodutos não destinados a consumo humano ou objectos nem de pessoas estranhas aos serviços de condução e de carga e descarga.\n\n5 - Os meios de distribuição de carnes e seus produtos ultracongelados devem possuir instrumentos de registo adequados, que nos meios de transporte que procedam apenas à distribuição no mercado local pode ser substituído por um termómetro para medição da temperatura do ar."
+  },
+  "43704175": {
+   "fragment_id": "39545875",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de distribuição\n\n1 - A distribuição de carnes e seus produtos deve obedecer às seguintes regras:\n\na) As carcaças, suas metades ou quartos refrigerados devem ser suspensos por forma a não contactarem com o pavimento e, se possível, com as paredes;\n\nb) As peças de carne refrigeradas e suas partes devem ser suspensas ou colocadas em recipientes ou tabuleiros de material próprio para contactar com alimentos, inalterável e impermeável, fácil de lavar e desinfectar;\n\nc) A distribuição de carcaças de leitão, borrego ou cabrito, aves, coelhos e caça selvagem menor deve efectuar-se em recipientes resistentes, em perfeito estado de limpeza e de fácil lavagem e desinfecção;\n\nd) As carcaças, suas metades e quartos congelados, quando devidamente acondicionados e embalados, podem ser colocados sobre o estrado ou pavimento;\n\ne) As peças inteiras de caça selvagem menor com pele ou com penas não podem ser distribuídas conjuntamente com carnes frescas;\n\nf) As miudezas e vísceras não podem contactar com as carcaças ou suas partes e as miudezas vermelhas não podem ser misturadas com outras miudezas;\n\ng) As tripas e o sangue podem ser distribuídos em conjunto com as carnes frescas e outras miudezas, quando acondicionados em recipientes estanques, hermeticamente fechados, sempre lavados e desinfectados se reutilizados.\n\n2 - Só é permitida a distribuição de carnes picadas e preparados de carne e de produtos à base de carne desde que devidamente acondicionados.\n\n3 - Os produtos à base de carne pasteurizados ou esterilizados contidos em recipientes hermeticamente fechados podem ser distribuídos em qualquer veículo de caixa isotérmica que os proteja convenientemente das alterações da temperatura e humidade, bem como de outros agentes susceptíveis de os alterar ou contaminar."
+  },
+  "43704275": {
+   "fragment_id": "37963575",
+   "type": 8,
+   "heading": "Secção II — Lavagem e desinfecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Lavagem e desinfecção"
+  },
+  "43704375": {
+   "fragment_id": "39545975",
+   "type": 11,
+   "heading": "Artigo 5.º — Lavagem e desinfecção dos meios de distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Lavagem e desinfecção dos meios de distribuição\n\n1 - Os veículos e suas caixas, bem como os recipientes e equipamento utilizados na distribuição das carnes e seus produtos, devem ser lavados e desinfectados após cada utilização.\n\n2 - Os detergentes e desinfectantes utilizados como agentes de limpeza devem ser adequados para instalações de géneros alimentícios, devem estar devidamente autorizados pela Direcção-Geral de Veterinária (DGV), devendo constar na embalagem a autorização de venda, e a sua aplicação deve ser feita de acordo com as indicações do fabricante constantes do rótulo.\n\n3 - Como medida de controlo das operações de lavagem e de desinfecção, podem ser mandados efectuar exames laboratoriais considerados convenientes, sendo os mesmos obrigatórios sempre que solicitados pelas autoridades competentes."
+  },
+  "43704475": {
+   "fragment_id": "36374075",
+   "type": 1,
+   "heading": "Capítulo III — Condições higiénicas e técnicas da venda de carnes e seus produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Condições higiénicas e técnicas da venda de carnes e seus produtos"
+  },
+  "43704575": {
+   "fragment_id": "37963675",
+   "type": 8,
+   "heading": "Secção I — Requisitos gerais dos locais de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Requisitos gerais dos locais de venda"
+  },
+  "43704675": {
+   "fragment_id": "39546075",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos gerais\n\n1 - As carnes e seus produtos devem apresentar-se sempre em bom estado de salubridade, higiene e conservação e só podem ser comercializados em locais de venda que satisfaçam as disposições do presente Regulamento.\n\n2 - Os responsáveis pelos locais de venda de carnes devem assegurar que todas as carnes ou produtos de origem animal por si recebidos ostentem uma marca de salubridade ou uma marca de identificação.\n\n3 - É proibida a permanência na zona de laboração dos locais de venda de carnes e seus produtos de pessoas, produtos ou materiais estranhos às respectivas instalações ou ao seu funcionamento.\n\n4 - Não é permitido preparar refeições ou comer em qualquer das dependências dos locais de venda.\n\n5 - É proibido utilizar os locais de venda de carnes e seus produtos para uso diverso daquele a que se destinam, bem como a entrada ou permanência de animais."
+  },
+  "43704775": {
+   "fragment_id": "39546175",
+   "type": 11,
+   "heading": "Artigo 7.º — Higiene da manipulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Higiene da manipulação\n\n1 - As carnes e seus produtos devem ser manipulados com todos os cuidados higiénicos, por forma a evitar a sua conspurcação ou contaminação e preparados, conservados, expostos, acondicionados e vendidos por forma a não afectar a sua qualidade.\n\n2 - Devem ser observados cuidados especiais para evitar que o sangue ou outras escorrências conspurquem os produtos postos à venda."
+  },
+  "43704875": {
+   "fragment_id": "39546275",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições de exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições de exposição\n\n1 - As carnes e seus produtos devem estar permanentemente protegidos da acção dos raios solares, poeiras ou quaisquer outras conspurcações externas e do contacto com o público.\n\n2 - É proibida a exposição de carnes e seus produtos não acondicionados na parte do estabelecimento reservado ao público, bem como à entrada dos locais de venda.\n\n3 - As peças inteiras de caça selvagem menor, quando comercializadas com pele ou penas, só podem ser expostas e conservadas nos locais de venda em expositor próprio, separadas de outras carnes ou produtos."
+  },
+  "43704975": {
+   "fragment_id": "37963775",
+   "type": 8,
+   "heading": "Secção II — Requisitos higiénicos e técnicos das instalações e do funcionamento dos locais de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Requisitos higiénicos e técnicos das instalações e do funcionamento dos locais de venda"
+  },
+  "43705075": {
+   "fragment_id": "39546375",
+   "type": 11,
+   "heading": "Artigo 9.º — Requisitos higiénicos e técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisitos higiénicos e técnicos\n\n1 - Os locais de venda de carnes e seus produtos devem satisfazer os seguintes requisitos higiénicos e técnicos quanto à sua localização e instalação:\n\na) Na zona envolvente ao local de instalação não devem existir focos de insalubridade ou poluição promotores do desenvolvimento de agentes vectores e reservatórios ou que libertem cheiros, poeiras, fumos ou gases susceptíveis de conspurcarem ou alterarem as carnes e seus produtos;\n\nb) Possuir meios de protecção contra a entrada e permanência de insectos e roedores, as janelas com rede mosquiteira facilmente removível para limpeza e as portas com sistema de comprovada eficácia;\n\nc) Possuir sistema de esgotos, ligado ao colector público ou a sistema individual de tratamento, de acordo com a legislação em vigor;\n\nd) Dispor de um sistema de abastecimento de água potável ligado à rede de abastecimento público ou a um sistema privado com origem devidamente controlada;\n\ne) Possuir rede de água fria e quente e torneiras em número suficiente, algumas delas com dispositivo que permita a adaptação de mangueira;\n\nf) Ter, em bom estado de limpeza e conservação, lavatórios em número suficiente, com torneiras de comando não manual e água sob pressão, quente e fria, toalhas descartáveis, sabão líquido, soluto desinfectante e, quando necessário, escovas de unhas individuais, desde que disponham de sistemas de lavagem, desinfecção e secagem das mesmas;\n\ng) Dispor de instalações sanitárias isoladas dos locais em que se manipulem e vendam as carnes e seus produtos, com ventilação própria, mantidas convenientemente limpas;\n\nh) Possuir uma área adequada à realização fácil e higiénica das operações de conservação, preparação, acondicionamento, exposição, pesagem e venda, não devendo o pé-direito ser inferior a 3 m;\n\ni) Ter as paredes revestidas, pelo menos até 2 m de altura, de material liso, impermeável, resistente ao choque, imputrescível e lavável a restante extensão e o tecto, lisos e laváveis, pintados com tinta de cor clara, devendo ter as arestas e ângulos de superfície arredondados;\n\nj) Ter o pavimento liso, impermeável e constituído por material resistente ao choque, imputrescível e de fácil lavagem e desinfecção, dotado de ralos, com declive adequado para facilitar esse escoamento;\n\nl) Possuir sistema de ventilação adequado e suficiente, por forma a permitir a correcta renovação de ar no estabelecimento, devendo o sistema de ventilação ser construído de modo a proporcionar um acesso fácil aos filtros e outras peças que necessitem de limpeza ou substituição;\n\nm) Possuir sistema de iluminação adequado por forma a permitir boas condições de visibilidade no estabelecimento, não devendo a luz emitida pelas lâmpadas instaladas com armadura de protecção (contra queda em caso de rebentamento) alterar o aspecto e coloração apresentados pelo produto;\n\nn) Ter o balcão de material liso, impermeável, resistente ao choque e de fácil lavagem e desinfecção;\n\no) Ter mesas de corte de material inócuo que permita a raspagem e que seja de fácil lavagem e desinfecção;\n\np) Ter dispositivos de suspensão da carne de material resistente à corrosão e colocados de modo a evitar que as carnes suspensas contactem entre elas, com a parede ou com o pavimento.\n\n2 - Quanto ao seu funcionamento, os locais de venda de carnes e seus produtos devem obedecer ao seguinte:\n\na) Deve ser observado um rigoroso estado de asseio em todas as dependências, equipamentos e utensílios;\n\nb) Os pavimentos devem ser lavados sempre que necessário, sendo proibida a varredura a seco;\n\nc) Os dispositivos de suspensão de carnes e miudezas devem ser mantidos limpos;\n\nd) Dispor de dependência ou armário de material liso, lavável e resistente à corrosão, para armazenagem independente de:\n\ni) Condimentos, aditivos e matérias-primas subsidiárias;\n\nii) Material de acondicionamento e de rotulagem;\n\niii) Detergentes, desinfectantes e outros materiais de limpeza;\n\ne) O material utilizado no acondicionamento, designadamente películas ou sacos de plástico, deve ser próprio para contactar com alimentos e não alterar as características organolépticas das carnes e seus produtos, devendo ser armazenado e mantido em condições que o preserve de conspurcações e contaminações;\n\nf) As mesas, balcões, armários, balanças, prateleiras, vitrinas e outro equipamento e utensílios devem ser frequentemente lavados e desinfectados;\n\ng) A conservação e a exposição de carnes e seus produtos devem ser efectuadas por forma a permitir a livre circulação do ar;\n\nh) A mesa de corte não deve ser usada como balcão de venda ao público;\n\ni) A exposição de carne fresca de espécies diferentes, de carne picada e de preparados de carne no mesmo balcão ou vitrina frigorífica só é permitida se existir separação física entre eles;\n\nj) A exposição de produtos à base de carne deve ser feita em expositor próprio, a temperaturas fixadas no anexo do presente Regulamento.\n\n3 - Caso o abastecimento de água potável ao estabelecimento se efectue através de um sistema privado, deve ser apresentado, para efeitos de licenciamento, um projecto com as condições de construção e protecção sanitária da captação e com o processo de tratamento requerido para a potabilização da água ou para a manutenção dessa potabilização, de acordo com a legislação em vigor, o qual deve ser submetido, com a periodicidade determinada pelas entidades competentes, a análises físico-químicas e ou microbiológicas.\n\n4 - Caso as instalações estejam dotadas de reservatório para armazenagem de água, este deve ser periodicamente submetido a operações de manutenção e limpeza."
+  },
+  "43705175": {
+   "fragment_id": "39546475",
+   "type": 11,
+   "heading": "Artigo 10.º — Meios frigoríficos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Meios frigoríficos\n\n1 - Os locais de venda de carnes e seus produtos devem possuir meios frigoríficos, munidos de indicadores de temperatura, para conservação de carnes e seus produtos às temperaturas fixadas no anexo ao presente Regulamento.\n\n2 - A utilização e o funcionamento das câmaras, armários ou expositores frigoríficos devem obedecer ao seguinte:\n\na) Ser mantidos em perfeito estado de conservação e limpeza;\n\nb) No interior das câmaras, armários ou expositores frigoríficos, as carnes e seus produtos devem ser mantidos de forma a permitir a adequada circulação de ar frio;\n\nc) As carnes e seus produtos que exijam temperaturas internas máximas diferentes para a sua conservação, quando colocadas no mesmo meio frigorífico, devem estar sujeitos à temperatura para o qual está prevista a temperatura mais baixa;\n\nd) Os grupos frigoríficos devem ser instalados de modo a permitir a saída fácil para o exterior do ar quente que atravessa o condensador;\n\ne) As câmaras devem dispor de indicadores de temperatura e de um sistema de accionamento interior para a abertura das portas, em caso de emergência, devendo aquelas manter-se fechadas sempre que não haja movimentação de produtos;\n\nf) As superfícies internas dos meios frigoríficos devem ser descongeladas, lavadas e desinfectadas, quando necessário.\n\n3 - É proibida a utilização das câmaras frigoríficas para armazenagem de carnes e seus produtos destinados à distribuição e venda para outros estabelecimentos de comércio a retalho, salvo quando devidamente autorizado nos termos do n.º 5 do artigo 2.º do presente Regulamento.\n\n4 - As câmaras destinadas a armazenar carnes ou alimentos ultracongelados são dotadas de instrumentos de registo adequados para controlarem, com intervalos regulares, a temperatura do ar a que estão sujeitos, salvo se possuírem menos de 10 m3, caso em que a medição de temperatura do ar pode ser efectuada utilizando um termómetro colocado em local visível."
+  },
+  "43705275": {
+   "fragment_id": "39546575",
+   "type": 11,
+   "heading": "Artigo 11.º — Subprodutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Subprodutos\n\n1 - Os subprodutos de origem animal, nomeadamente as aparas de carnes, as gorduras e os ossos, devem ser recolhidos em sacos não reutilizáveis apropriados para o efeito, colocados em suporte adequado com tampa de comando não manual, devendo este ser despejado, lavado e desinfectado pelo menos uma vez por dia.\n\n2 - Os estabelecimentos de venda de carnes e seus produtos que gerem subprodutos de origem animal não destinados a consumo humano devem efectuar as operações de separação, identificação, pesagem, registo e encaminhamento para eliminação ou aproveitamento daqueles, nos termos previstos no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R1774\" title=\"Link para Regulamento da Comunidade Europeia\">1774/2002</a>, do Parlamento Europeu e do Conselho, de 3 de Outubro."
+  },
+  "43705375": {
+   "fragment_id": "39546675",
+   "type": 11,
+   "heading": "Artigo 12.º — Máquinas de corte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Máquinas de corte\n\n1 - As máquinas utilizadas no corte de carnes e seus produtos destinados à venda a retalho devem ser colocadas em local reservado para o efeito, protegidas eficazmente do contacto com o público, de raios solares, de insectos, de poeiras e de outros agentes de conspurcação ou de contaminação.\n\n2 - Os produtos que necessitam de ser conservados sob a acção de frio só podem ser colocados nas máquinas de corte durante o período de tempo estritamente necessário à realização desta operação."
+  },
+  "43705475": {
+   "fragment_id": "37963875",
+   "type": 8,
+   "heading": "Secção III — Preparação e venda de carnes e seus produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Preparação e venda de carnes e seus produtos"
+  },
+  "43705575": {
+   "fragment_id": "39546775",
+   "type": 11,
+   "heading": "Artigo 13.º — Carne picada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Carne picada\n\n1 - É autorizada nos locais de venda de carnes e seus produtos a preparação, exposição e venda de carnes picadas, sendo as mesmas obrigatoriamente conservadas à temperatura referida no anexo do presente Regulamento e vendidas no próprio dia da sua preparação.\n\n2 - A preparação de carnes picadas deve ser efectuada de modo que as mesmas não contenham quaisquer fragmentos de ossos.\n\n3 - A preparação de carne picada de aves apenas pode ser realizada quando exista equipamento de uso exclusivo para o efeito.\n\n4 - É proibida a preparação de carnes picadas a partir de:\n\na) Aparas decorrentes do corte ou da raspagem dos ossos;\n\nb) Carnes provenientes das seguintes partes: cabeça, com excepção dos masseteres, parte não muscular da linea alba e zona do carpo e do tarso.\n\n5 - A máquina picadora, o tabuleiro, os moldes e demais utensílios utilizados na preparação de carne picada devem ser:\n\na) Constituídos por material apropriado, reservados exclusivamente a esse fim e fáceis de desmontar e de limpar;\n\nb) Lavados e desinfectados após cada período de trabalho e sempre que necessário;\n\nc) Resguardados contra conspurcações e contaminações exteriores.\n\n6 - No caso das picadoras não refrigeradas, a cabeça da máquina deve ser colocada sob protecção frigorífica no intervalo entre a picagem das carnes."
+  },
+  "43705675": {
+   "fragment_id": "39546875",
+   "type": 11,
+   "heading": "Artigo 14.º — Preparados de carne",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Preparados de carne\n\nOs locais de venda de carnes e de outros produtos podem ainda elaborar preparados de carne desde que a sua preparação seja efectuada em sala reservada para o efeito e sejam cumpridas as normas de higiene e conservação definidas neste Regulamento."
+  },
+  "43705775": {
+   "fragment_id": "39546975",
+   "type": 11,
+   "heading": "Artigo 15.º — Acondicionamento e rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acondicionamento e rotulagem\n\n1 - Nos locais de venda de carnes e de outros produtos são autorizados o corte e o acondicionamento, em embalagens do dia, de carnes frescas, carnes picadas e preparados de carne desde que exista, em anexo ao local de venda, uma sala destinada àquelas operações.\n\n2 - As carnes frescas, carnes picadas e preparados de carne, após a sua preparação, devem ser imediatamente acondicionados.\n\n3 - A exposição e venda das carnes referidas no número anterior, quando não exista secção exclusivamente destinada àquele fim, dotada de meios frigoríficos que garantam aos produtos expostos as temperaturas internas fixadas no anexo do presente Regulamento, são admitidas no mesmo balcão ou vitrina frigorífica das carnes e seus produtos desde que exista separação física entre eles.\n\n4 - Nos rótulos destas carnes são obrigatórias as seguintes menções:\n\na) Nome e morada do acondicionador;\n\nb) Denominação de venda (espécie e peça e ou finalidade);\n\nc) Data de acondicionamento;\n\nd) Data limite de consumo;\n\ne) Condições de conservação;\n\nf) Quantidade líquida."
+  },
+  "43705875": {
+   "fragment_id": "39547075",
+   "type": 11,
+   "heading": "Artigo 16.º — Produtos à base de carne",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Produtos à base de carne\n\n1 - É autorizado, nos locais de venda de carnes e de outros produtos, o fabrico de enchidos fumados e ou termizados que se destinem à venda ao consumidor final desde que sejam cumpridas as normas de higiene e conservação definidas no presente Regulamento e disponham de:\n\na) Dependência destinada exclusivamente às operações de fabrico, que permita uma temperatura ambiente apropriada ao fim a que se destina;\n\nb) Em função do processo utilizado:\n\ni) Dependência própria com sistema de extracção de vapores quando procedam ao fabrico de enchidos termizados;\n\nii) Sala de secagem/fumeiros de dimensões adequadas para permitir as movimentações e arrefecimento do produto final, com entrada independente de lenha e provida de meios de extracção de cheiros, poeiras, fumos ou gases susceptíveis de conspurcar ou alterar as carnes frescas e seus produtos;\n\nc) Equipamento com produção de frio de uso exclusivo para maturação das massas;\n\nd) Dependência adequada para lavagem e desinfecção dos utensílios e equipamentos usados no fabrico, designadamente meios de esterilização do material de corte com água a +82ºC;\n\ne) Equipamento, material e utensílios destinados a entrar em contacto directo com as matérias-primas e produtos, fáceis de limpar e de desinfectar;\n\nf) Meio frigorífico para conservação de matérias-primas utilizadas como ingredientes.\n\n2 - Para efeitos do disposto no número anterior, estes estabelecimentos só podem laborar até 3000 kg de matéria-prima por ano."
+  },
+  "43705975": {
+   "fragment_id": "39547175",
+   "type": 11,
+   "heading": "Artigo 17.º — Pré-embalados provenientes de estabelecimentos industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pré-embalados provenientes de estabelecimentos industriais\n\nA venda de carnes frescas e de produtos à base de carne pré-embalados provenientes de estabelecimentos industriais devidamente licenciados é autorizada nos locais de venda a que se refere o presente decreto-lei desde que estes disponham de meios frigoríficos adequados destinados exclusivamente à conservação e exposição para venda dos referidos produtos."
+  },
+  "43706075": {
+   "fragment_id": "37963975",
+   "type": 8,
+   "heading": "Secção IV — Inspecção e alterações dos locais de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Inspecção e alterações dos locais de venda"
+  },
+  "43706175": {
+   "fragment_id": "39547275",
+   "type": 11,
+   "heading": "Artigo 18.º — Médicos veterinários municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Médicos veterinários municipais\n\n1 - Para além das competências que lhe estão legalmente cometidas em matéria de licenciamento, os médicos veterinários municipais devem proceder periodicamente, pelo menos uma vez por ano, a visitas de inspecção a esses locais nas respectivas áreas da sua influência, a fim de:\n\na) Verificar o estado de limpeza das dependências, do equipamento e utensílios, bem como se o processo seguido na lavagem e desinfecção é o mais conveniente, designadamente através da realização de exames laboratoriais;\n\nb) Inspeccionar as carnes e seus produtos, dando especial atenção à sua origem e estado de conservação;\n\nc) Verificar as condições em que se processa a separação, identificação e encaminhamento dos subprodutos de origem animal não destinados ao consumo humano e outros desperdícios ou detritos;\n\nd) Verificar o estado higiénico do pessoal, dos vestiários e das instalações sanitárias, devendo em qualquer caso de suspeição de doença ou afecção ser imediatamente informada a autoridade sanitária competente;\n\ne) Verificar a fiabilidade do autocontrolo e a avaliação dos procedimentos baseados nos princípios do Hazard Analysis and Critical Control Points (HACCP) e em matéria de códigos de boas práticas de fabrico e de higiene.\n\n2 - As deficiências encontradas devem ser comunicadas por escrito ao proprietário do estabelecimento para que sejam supridas num prazo a indicar, que nunca deverá exceder 60 dias.\n\n3 - Quando esteja em causa a saúde pública, os médicos veterinários municipais podem determinar a suspensão imediata da laboração do estabelecimento.\n\n4 - Os médicos veterinários municipais devem remeter às direcções regionais de agricultura (DRA), pelo menos uma vez por ano, um relatório onde conste o número de locais licenciados e inspeccionados e as principais deficiências ou desconformidades detectadas."
+  },
+  "43706275": {
+   "fragment_id": "39547375",
+   "type": 11,
+   "heading": "Artigo 19.º — Alterações às condições dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alterações às condições dos estabelecimentos\n\n1 - Os locais de venda de carnes e seus produtos ficam sujeitos a alterações e eventuais melhorias de índole higiénica e técnica que sejam determinadas pelos serviços competentes das câmaras municipais, ouvido o médico veterinário municipal.\n\n2 - Os médicos veterinários municipais podem determinar a realização de alterações ou de eventuais melhorias de índole higiénica e técnica, nomeadamente a limitação da produção diária, quando verifiquem que o local de venda de carnes e seus produtos não dispõe de condições adequadas à realização higiénica das diferentes operações.\n\n3 - As câmaras municipais podem, sempre que necessário, solicitar o parecer vinculativo da autoridade sanitária veterinária nacional ou da autoridade de saúde nacional.\n\n4 - As câmaras municipais procedem à elaboração de listagens dos locais de venda de carnes licenciados, de modo a permitir que as autoridades competentes possam programar a realização dos controlos oficiais."
+  },
+  "43706375": {
+   "fragment_id": "37964075",
+   "type": 8,
+   "heading": "Secção V — Agentes de lavagem, desinfecção e desinfestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Agentes de lavagem, desinfecção e desinfestação"
+  },
+  "43706475": {
+   "fragment_id": "39547475",
+   "type": 11,
+   "heading": "Artigo 20.º — Lavagem e desinfecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Lavagem e desinfecção\n\n1 - Os detergentes utilizados nos locais de venda de carnes e seus produtos devem ser os adequados e a sua aplicação deve fazer-se de acordo com as indicações do fabricante constantes do rótulo.\n\n2 - Os desinfectantes só devem ser usados nos utensílios, equipamento, pavimentos, paredes e tectos dos estabelecimentos de carnes e seus produtos nas seguintes condições:\n\na) Depois de removida a carne e seus produtos dos locais a desinfectar;\n\nb) Depois de ter sido efectuada a lavagem.\n\n3 - Após a utilização do soluto desinfectante, os utensílios, equipamento e todas as superfícies são cuidadosamente lavados com água potável."
+  },
+  "43706575": {
+   "fragment_id": "39547575",
+   "type": 11,
+   "heading": "Artigo 21.º — Desinfestação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Desinfestação\n\nOs locais de venda de carnes e seus produtos devem ser mantidos livres de insectos e de roedores, devendo ser implementados programas de controlo de pragas."
+  },
+  "43706675": {
+   "fragment_id": "36374175",
+   "type": 1,
+   "heading": "Capítulo IV — Venda de pré-embalados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Venda de pré-embalados"
+  },
+  "43706775": {
+   "fragment_id": "37964175",
+   "type": 11,
+   "heading": "Artigo 22.º — Géneros alimentícios e alimentos para animais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Géneros alimentícios e alimentos para animais\n\n1 - Nos locais de venda de carnes e seus produtos pode ser autorizada a exposição e venda de géneros alimentícios e de alimentos para animais desde que se apresentem devidamente pré-embalados.\n\n2 - Consideram-se devidamente pré-embalados os produtos cuja embalagem impeça que o seu conteúdo possa ser modificado sem que aquela seja aberta ou alterada e que não permita a libertação de partículas, fragmentos, poeiras ou escorrências, entre outros, que possam conspurcar ou contaminar os expositores, bem como os produtos circundantes.\n\n3 - A exposição e a venda a que se refere o n.º 1 só podem ser autorizadas se os locais de venda de carnes e seus produtos dispuserem de dimensão suficiente que permita a instalação de expositores em zona separada daquela em que se efectua a exposição e venda de carnes.\n\n4 - Os produtos cuja legislação específica obrigue à sua exposição para venda sob protecção frigorífica só podem ser expostos em móveis que lhes proporcionem as temperaturas exigidas para a sua conservação.\n\n5 - Os locais de venda de carnes e seus produtos só podem manter nas suas instalações os produtos pré-embalados em quantidade superior à capacidade dos expositores desde que disponham de zonas de armazenagem com acesso independente do local de venda.\n\n6 - Compete às câmaras municipais autorizar a exposição e venda dos produtos a que se refere o n.º 1, ouvido o médico veterinário municipal.\n\n7 - A autorização referida no número anterior pode ser requerida no momento do licenciamento do estabelecimento ou em momento posterior, devendo, neste último caso, ser apenas averbada aos alvarás de licenciamento ou às licenças de utilização."
+  },
+  "43706875": {
+   "fragment_id": "36374275",
+   "type": 1,
+   "heading": "Capítulo V — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Do pessoal"
+  },
+  "43706975": {
+   "fragment_id": "37964275",
+   "type": 8,
+   "heading": "Secção I — Condições de higiene",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Condições de higiene"
+  },
+  "43707075": {
+   "fragment_id": "39547675",
+   "type": 11,
+   "heading": "Artigo 23.º — Vestuário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Vestuário\n\nTodo o pessoal que nas operações de carga e descarga, bem como nos locais de preparação e venda, contacte com carnes e seus produtos deve observar, além das regras de asseio e higiene constantes da Portaria n.º 149/88, de 9 de Março, o seguinte:\n\na) Usar vestuário adequado à tarefa que desempenha, em perfeito estado de limpeza, de cor clara, de fácil lavagem e desinfecção, designadamente resguardo ou bata, avental de material impermeável, gorro, boné ou touca e calçado impermeável, de fácil lavagem e desinfecção;\n\nb) Utilizar para a carga e descarga da carne ao ombro resguardo para a cabeça e pescoço, de material de cor clara, de fácil lavagem e desinfecção;\n\nc) Qualquer deste vestuário não pode ser utilizado para fins distintos das actividades próprias destes locais ou fora dos locais de venda."
+  },
+  "43707175": {
+   "fragment_id": "39547775",
+   "type": 11,
+   "heading": "Artigo 24.º — Higiene pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Higiene pessoal\n\n1 - Para cumprir com rigor as regras elementares de higiene e asseio individual, o pessoal deve ter sempre à sua disposição os meios de limpeza a que se refere a alínea f) do n.º 1 do artigo 9.º\n\n2 - O pessoal deve dispor de armários individuais e de vestiários e instalações sanitárias adequadas, em número suficiente, sempre que possível separadas por sexos e com chuveiro dotado de água quente e fria."
+  },
+  "43707275": {
+   "fragment_id": "39547875",
+   "type": 11,
+   "heading": "Artigo 25.º — Execução de outras tarefas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Execução de outras tarefas\n\nNos locais de venda de carnes e seus produtos não é permitido ao pessoal que os manipula efectuar tarefas alheias a esta actividade, exceptuando-se o que eventualmente proceda a recebimentos e pagamentos, desde que lave convenientemente as mãos imediatamente após a execução dessas tarefas."
+  },
+  "43707375": {
+   "fragment_id": "37964375",
+   "type": 8,
+   "heading": "Secção II — Formação em higiene e segurança alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Formação em higiene e segurança alimentar"
+  },
+  "43707475": {
+   "fragment_id": "39547975",
+   "type": 11,
+   "heading": "Artigo 26.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Formação\n\nA distribuição e venda de carnes e seus produtos só podem ser efectuadas por pessoal com formação adequada para o exercício da profissão e em matéria de higiene e segurança alimentar, ministrada por entidade devidamente reconhecida nos termos da legislação em vigor em matéria de formação profissional."
+  },
+  "43707575": {
+   "fragment_id": "39548075",
+   "type": 11,
+   "heading": "Artigo 27.º — Certificado comprovativo da formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Certificado comprovativo da formação\n\n1 - A Federação Nacional das Associações de Comerciantes de Carnes (FNACC) pode, quando solicitado, emitir um certificado que ateste que o proprietário e todo o pessoal do estabelecimento possuem formação adequada em matéria de higiene e segurança alimentar, devidamente comprovada, o qual pode ser afixado no estabelecimento em local visível.\n\n2 - O modelo do certificado a que se refere o número anterior deve ser aprovado pela autoridade sanitária veterinária nacional mediante proposta da FNACC.\n\n3 - O certificado tem a validade de um ano, ficando a sua renovação dependente da apresentação dos comprovativos da realização das acções de formação previstas."
+  },
+  "43707675": {
+   "fragment_id": "39548175",
+   "type": 11,
+   "heading": "Artigo 28.º — Cartão de manipulador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Cartão de manipulador\n\n1 - O pessoal referido no artigo 26.º deve ser detentor de um cartão de manipulador de carnes e seus produtos em matéria de higiene e segurança alimentar, adiante designado apenas por cartão de manipulador, que comprova o aproveitamento na formação.\n\n2 - O modelo do cartão de manipulador é aprovado pela autoridade sanitária veterinária nacional, mediante proposta da FNACC.\n\n3 - O cartão de manipulador é emitido pela FNACC, organização representativa do sector do comércio retalhista de carnes e seus produtos, a todos os que o solicitem, independentemente da sua qualidade de associados.\n\n4 - O cartão de manipulador pode ser atribuído ao pessoal que, na data de entrada em vigor do presente Regulamento, possua formação adequada devidamente comprovada e que o programa daquela seja reconhecido pela autoridade sanitária veterinária nacional.\n\n5 - O cartão de manipulador tem a validade de três anos, ficando a sua renovação dependente da apresentação dos comprovativos da realização de acções de formação de actualização de conhecimentos."
+  },
+  "43707775": {
+   "fragment_id": "36374375",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "43707875": {
+   "fragment_id": "37964475",
+   "type": 11,
+   "heading": "Artigo 29.º — Mercados municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Mercados municipais\n\nOs locais de venda de carnes e de outros produtos a que se refere o presente decreto-lei localizados nos mercados municipais ficam obrigados ao integral cumprimento do disposto no presente Regulamento."
+  },
+  "43707975": {
+   "fragment_id": "37964575",
+   "type": 11,
+   "heading": "Artigo 30.º — Dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Dever de cooperação\n\nAs autoridades administrativas e policiais prestam todo o auxílio solicitado pela DGV, Autoridade de Segurança Alimentar e Económica, DRA, câmaras municipais e autoridade de saúde local para a aplicação das medidas constantes do presente Regulamento, cooperando na sua execução em tudo o que for necessário para a sua integral observância."
+  },
+  "43708075": {
+   "fragment_id": "37964675",
+   "type": 11,
+   "heading": "Artigo 31.º — Pessoal doente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Pessoal doente\n\nQualquer pessoa que tenha contraído ou suspeite ter contraído uma doença potencialmente transmissível ou que apresente, por exemplo, feridas infectadas, infecções cutâneas, inflamações ou diarreia não pode trabalhar em locais de venda de carnes e seus produtos, devendo dar conhecimento do facto aos responsáveis da empresa para que sejam tomadas as medidas adequadas e imediatas no sentido de evitar que o pessoal se mantenha ao serviço."
+  },
+  "43708175": {
+   "fragment_id": "36374475",
+   "type": 14,
+   "heading": "Anexo — Temperaturas de distribuição, conservação e exposição das carnes e seus produtos (n.º 1 do artigo 2.º do Regulamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Temperaturas de distribuição, conservação e exposição das carnes e seus produtos (n.º 1 do artigo 2.º do Regulamento)\n\nCarnes e seus produtos\n\n(ver documento original)\n\nNota. - No que se refere às temperaturas de distribuição, conservação e venda de géneros alimentícios pré-embalados nos locais de venda de carnes, devem ter-se em conta as disposições dos Regulamentos (CE) n.os <a href=\"eurlex.asp?ano=2004&id=304R0852\" title=\"Link para Regulamento da Comunidade Europeia\">852/2004</a> e <a href=\"eurlex.asp?ano=2004&id=304R0853\" title=\"Link para Regulamento da Comunidade Europeia\">853/2004</a>."
+  },
+  "1153133875": {
+   "fragment_id": "35242075",
+   "type": 11,
+   "heading": "Artigo 2.º — Controlo e fiscalização",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 2.º — Controlo e fiscalização\n\n1 - A coordenação da aplicação das normas constantes do presente decreto-lei compete à Direcção-Geral de Veterinária, adiante designada por DGV.\n\n2 - Compete à DGV e à Autoridade de Segurança Alimentar e Económica, adiante designada por ASAE, no âmbito das respectivas competências, assegurar a fiscalização do cumprimento das normas do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.\n\n> Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "1153134075": {
+   "fragment_id": "35242375",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrução e decisão",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 5.º — Instrução e decisão\n\n1 - Compete à ASAE e à DGV a instrução dos processos de contra-ordenação relativos às matérias do âmbito das respectivas competências.\n\n2 - Compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) e ao director-geral de Veterinária a aplicação das coimas e sanções acessórias relativas às matérias do âmbito das respectivas competências.\n\n> Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "1153134275": {
+   "fragment_id": "35242475",
+   "type": 11,
+   "heading": "Artigo 6.º — Afectação do produto das coimas",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 6.º — Afectação do produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 10 % para a entidade que levantou o auto;\n\nb) 20 % para a entidade que procedeu à instrução do processo;\n\nc) 10 % para a entidade que aplicou a coima;\n\nd) 60 % para os cofres do Estado.\n\n> Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "1153134475": {
+   "fragment_id": "35242575",
+   "type": 11,
+   "heading": "Artigo 7.º — Regiões Autónomas",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 7.º — Regiões Autónomas\n\n1 - O disposto no presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo de as competências cometidas a serviços ou organismos da administração do Estado serem exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências.\n\n2 - O disposto no número anterior não prejudica as competências atribuídas à DGV na qualidade de autoridade sanitária veterinária nacional.\n\n> Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "43708275": {
+   "fragment_id": "35242975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Junho de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Diogo Pinto de Freitas do Amaral - Emanuel Augusto dos Santos - Alberto Bernardes Costa - António José de Castro Guerra - Jaime de Jesus Lopes Silva - Francisco Ventura Ramos.\n\nPromulgado em 13 de Julho de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 16 de Julho de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "158208957": {
+   "fragment_id": "37963375",
+   "type": 11,
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos do presente Regulamento, entende-se por:\n\na) «Acondicionamento» a colocação de um produto num invólucro inicial ou recipiente inicial em contacto directo com o produto em questão, bem como o próprio invólucro ou recipiente inicial;\n\nb) «Carcaça» o corpo de qualquer animal abatido, depois de sangrado e preparado, devendo as carcaças e outras partes do corpo ser completamente esfoladas, excepto no caso dos suínos, das cabeças dos ovinos, caprinos e vitelos e dos pés dos bovinos, ovinos e caprinos, e as cabeças e os pés ser manuseados de forma a evitar a contaminação;\n\nc) «Carnes» todas as partes comestíveis de animais das espécies bovina, incluindo búfalos e bisontes, suína, ovina e caprina, bem como os solípedes domésticos, de aves de criação, de coelhos e lebres e de caça de criação e de caça selvagem, próprias para consumo humano, na acepção do Regulamento (CE) n.º\n\n853/2004\n\n, do Parlamento Europeu e do Conselho, de 29 de Abril, que estabelece as regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal;\n\nd) «Carnes e seus produtos» as carnes frescas, os preparados de carne e os produtos à base de carne;\n\ne) «Carnes frescas» as carnes não submetidas a qualquer processo de preservação que não a refrigeração, a congelação ou a ultracongelação, incluindo carne embalada em vácuo ou em atmosfera controlada;\n\nf) «Carne picada» a carne desossada que foi picada e que contém menos de 1% de sal;\n\ng) «Embalagem» a operação que consiste na colocação de um ou mais géneros alimentícios acondicionados num segundo recipiente, bem como o próprio recipiente;\n\nh) «Estabelecimento» qualquer unidade de uma empresa do sector alimentar;\n\ni) «Higiene dos géneros alimentícios ou higiene» as medidas e condições necessárias para controlar os riscos e assegurar que os géneros alimentícios sejam próprios para consumo humano, tendo em conta a sua utilização;\n\nj) «Local de venda» o estabelecimento que prepara e vende carnes e outros produtos para consumo público;\n\nl) «Médico veterinário municipal» a autoridade sanitária veterinária concelhia;\n\nm) «Miudezas» as carnes frescas não incluídas na carcaça, incluindo as vísceras e o sangue;\n\nn) «Preparados de carne» a carne fresca, incluindo carne que tenha sido reduzida a fragmentos, a que foram adicionados outros géneros alimentícios, condimentos ou aditivos ou que foi submetida a um processamento insuficiente para alterar a estrutura das suas fibras musculares e eliminar assim as características de carne fresca;\n\no) «Produtos à base de carne» os produtos transformados resultantes da transformação da carne ou da ulterior transformação desses produtos transformados, de tal modo que a superfície de corte à vista permita constatar o desaparecimento das características da carne fresca;\n\np) «Produtos de origem animal» os géneros alimentícios de origem animal, incluindo o mel e o sangue, destinados a consumo humano;\n\nq) «Produtos de origem animal transformados» os produtos derivados de animais, bem como produtos provenientes destes, destinados ao consumo humano, associados ou não a outros géneros alimentícios, e que foram sujeitos a um tratamento por aquecimento, fumagem, cura, maturação, secagem, marinagem, extracção, extrusão ou uma combinação destes processos;\n\nr) «Produtos pré-embalados» os produtos cuja embalagem foi efectuada antes da sua exposição à venda ao consumidor em material que solidariamente com eles é comercializado, de tal modo que o conteúdo não possa ser modificado sem que aquele seja aberto ou alterado;\n\ns) «Produtos transformados» os géneros alimentícios resultantes da transformação de produtos não transformados, podendo estes produtos conter ingredientes que sejam necessários ao seu fabrico, por forma a dar-lhes características específicas;\n\nt) «Tratamento ou transformação» a acção que assegura uma modificação substancial do produto inicial por aquecimento, fumagem, cura, maturação, secagem, marinagem, extracção, extrusão ou uma combinação destes processos;\n\nu) «Vísceras» os órgãos das cavidades torácica, abdominal e pélvica, bem como a traqueia e o esófago, e, no caso das aves, o papo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "158208958": {
+   "fragment_id": "39545675",
+   "type": 11,
+   "heading": "Artigo 2.º — Distribuição",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 2.º — Distribuição\n\n1 - As carnes e seus produtos devem, durante a distribuição, ser mantidos às temperaturas internas exigidas para a sua conservação, no estado refrigerado, congelado ou ultracongelado, fixadas no anexo do presente Regulamento, que dele faz parte integrante.\n\n2 - A distribuição de carnes e seus produtos deve efectuar-se o mais rapidamente possível desde a origem ao seu destino.\n\n3 - A distribuição de carnes e seus produtos com destino aos locais de venda só é permitida a partir de estabelecimentos de abate, de preparação, de fabrico de produtos à base de carne, de reacondicionamento e de armazéns devidamente licenciados.\n\n4 - A distribuição de carnes e seus produtos a partir dos locais de venda para outros estabelecimentos de comércio a retalho pode ser efectuada desde que sejam cumpridas as condições fixadas por portaria do membro do Governo responsável pela área da agricultura.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "158208959": {
+   "fragment_id": "39545975",
+   "type": 11,
+   "heading": "Artigo 5.º — Lavagem e desinfecção dos meios de distribuição",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 5.º — Lavagem e desinfecção dos meios de distribuição\n\n1 - Os veículos e suas caixas, bem como os recipientes e equipamento utilizados na distribuição das carnes e seus produtos, devem ser lavados e desinfectados após cada utilização.\n\n2 - Como medida de controlo das operações de lavagem e de desinfecção, podem ser mandados efectuar exames laboratoriais considerados convenientes, sendo os mesmos obrigatórios sempre que solicitados pelas autoridades competentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "158208966": {
+   "fragment_id": "39546475",
+   "type": 11,
+   "heading": "Artigo 10.º — Meios frigoríficos",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 10.º — Meios frigoríficos\n\n1 - Os locais de venda de carnes e seus produtos devem possuir meios frigoríficos, munidos de indicadores de temperatura, para conservação de carnes e seus produtos às temperaturas fixadas no anexo ao presente Regulamento.\n\n2 - A utilização e o funcionamento das câmaras, armários ou expositores frigoríficos devem obedecer ao seguinte:\n\na) Ser mantidos em perfeito estado de conservação e limpeza;\n\nb) No interior das câmaras, armários ou expositores frigoríficos, as carnes e seus produtos devem ser mantidos de forma a permitir a adequada circulação de ar frio;\n\nc) As carnes e seus produtos que exijam temperaturas internas máximas diferentes para a sua conservação, quando colocadas no mesmo meio frigorífico, devem estar sujeitos à temperatura para o qual está prevista a temperatura mais baixa;\n\nd) Os grupos frigoríficos devem ser instalados de modo a permitir a saída fácil para o exterior do ar quente que atravessa o condensador;\n\ne) As câmaras devem dispor de indicadores de temperatura e de um sistema de accionamento interior para a abertura das portas, em caso de emergência, devendo aquelas manter-se fechadas sempre que não haja movimentação de produtos;\n\nf) As superfícies internas dos meios frigoríficos devem ser descongeladas, lavadas e desinfectadas, quando necessário.\n\n3 - Sem prejuízo do disposto no Regulamento (CE) n.º 37/2005, da Comissão, de 12 de Janeiro, os entrepostos frigoríficos com menos de 10 m3 destinados a armazenar existências nos locais de venda estão autorizados a efectuar a medição da temperatura do ar por meio de um termómetro facilmente visível.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "158208960": {
+   "fragment_id": "39547275",
+   "type": 11,
+   "heading": "Artigo 18.º — Médicos veterinários municipais",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 18.º — Médicos veterinários municipais\n\n1 - Para além das competências que lhe estão legalmente cometidas em matéria de licenciamento, os médicos veterinários municipais devem proceder periodicamente, pelo menos uma vez por ano, a visitas de inspecção a esses locais nas respectivas áreas da sua influência, a fim de:\n\na) Verificar o estado de limpeza das dependências, do equipamento e utensílios, bem como se o processo seguido na lavagem e desinfecção é o mais conveniente, designadamente através da realização de exames laboratoriais;\n\nb) Inspeccionar as carnes e seus produtos, dando especial atenção à sua origem e estado de conservação;\n\nc) Verificar as condições em que se processa a separação, identificação e encaminhamento dos subprodutos de origem animal não destinados ao consumo humano e outros desperdícios ou detritos;\n\nd) Verificar o estado higiénico do pessoal, dos vestiários e das instalações sanitárias, devendo em qualquer caso de suspeição de doença ou afecção ser imediatamente informada a autoridade sanitária competente;\n\ne) Verificar a fiabilidade do autocontrolo e a avaliação dos procedimentos baseados nos princípios do Hazard Analysis and Critical Control Points (HACCP) e em matéria de códigos de boas práticas de fabrico e de higiene.\n\n2 - As deficiências encontradas devem ser comunicadas por escrito ao proprietário do estabelecimento para que sejam supridas num prazo a indicar, que nunca deverá exceder 60 dias.\n\n3 - Quando esteja em causa a saúde pública, os médicos veterinários municipais podem determinar a suspensão imediata da laboração do estabelecimento.\n\n4 - Os médicos veterinários municipais devem remeter à DGV, através da direcção de serviços veterinários da respectiva região, pelo menos uma vez por ano, um relatório sobre a actividade de controlo dos locais de venda de carnes e seus produtos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "158208961": {
+   "fragment_id": "39547375",
+   "type": 11,
+   "heading": "Artigo 19.º — Alterações às condições dos estabelecimentos",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 19.º — Alterações às condições dos estabelecimentos\n\n1 - Os locais de venda de carnes e seus produtos ficam sujeitos a alterações e eventuais melhorias de índole higiénica e técnica que sejam determinadas pelos serviços competentes das câmaras municipais, ouvido o médico veterinário municipal.\n\n2 - Os médicos veterinários municipais podem determinar a realização de alterações ou de eventuais melhorias de índole higiénica e técnica, nomeadamente a limitação da produção diária, quando verifiquem que o local de venda de carnes e seus produtos não dispõe de condições adequadas à realização higiénica das diferentes operações.\n\n3 - Sempre que seja considerado necessário, pelo médico veterinário municipal, as câmaras municipais solicitam o parecer da DGV, o qual, quando emitido, tem carácter vinculativo.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "158208962": {
+   "fragment_id": "39547475",
+   "type": 11,
+   "heading": "Artigo 20.º — Lavagem e desinfecção",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 20.º — Lavagem e desinfecção\n\n1 - Os detergentes utilizados nos locais de venda de carnes e seus produtos devem ser os adequados e a sua aplicação deve fazer-se de acordo com as indicações do fabricante constantes do rótulo.\n\n2 - Os desinfectantes só devem ser usados nos utensílios, equipamento, pavimentos, paredes e tectos dos locais de venda de carnes e seus produtos depois de removida a carne e seus produtos, devendo ser sempre assegurada de forma conveniente a lavagem dos locais.\n\n3 - Após a utilização do soluto desinfectante, os utensílios, equipamento e todas as superfícies são cuidadosamente lavados com água potável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "158208963": {
+   "fragment_id": "37964175",
+   "type": 11,
+   "heading": "Artigo 22.º — Géneros alimentícios e alimentos para animais",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 22.º — Géneros alimentícios e alimentos para animais\n\n1 - Nos locais de venda de carnes e seus produtos é permitida a exposição e venda de géneros alimentícios e de alimentos para animais, desde que se apresentem devidamente pré-embalados.\n\n2 - Consideram-se devidamente pré-embalados os produtos cuja embalagem impeça que o seu conteúdo possa ser modificado sem que aquela seja aberta ou alterada e que não permita a libertação de partículas, fragmentos, poeiras ou escorrências, entre outros, que possam conspurcar ou contaminar os expositores, bem como os produtos circundantes.\n\n3 - A exposição e a venda a que se refere o n.º 1 só podem ser autorizadas se os locais de venda de carnes e seus produtos dispuserem de dimensão suficiente que permita a instalação de expositores em zona separada daquela em que se efectua a exposição e venda de carnes.\n\n4 - Os produtos cuja legislação específica obrigue à sua exposição para venda sob protecção frigorífica só podem ser expostos em móveis que lhes proporcionem as temperaturas exigidas para a sua conservação.\n\n5 - Os locais de venda de carnes e seus produtos só podem manter nas suas instalações os produtos pré-embalados em quantidade superior à capacidade dos expositores desde que disponham de zonas de armazenagem com acesso independente do local de venda.\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "158208964": {
+   "fragment_id": "39547975",
+   "type": 11,
+   "heading": "Artigo 26.º — Formação",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 26.º — Formação\n\n1 - Os manipuladores de carne e seus produtos só podem exercer a sua actividade nos sectores de distribuição e venda de carnes desde que tenham frequentado com aproveitamento um curso de formação em higiene e segurança alimentar, nos termos do capítulo xii do anexo ii do Regulamento (CE) n.º 852/2004, do Parlamento Europeu e do Conselho, de 29 de Abril.\n\n2 - O curso de formação a que se refere o número anterior é organizado e ministrado por entidades, sem fins lucrativos, que sejam representativas dos operadores do sector da comercialização de carnes e seus produtos e que sejam reconhecidas para o efeito por despacho do director-geral de Veterinária, publicado na 2.ª série do Diário da República.\n\n3 - A alteração do curso de formação mencionado no n.º 1 pelas entidades referidas no número anterior é objecto de aprovação por despacho do director-geral de Veterinária, publicado na 2.ª série do Diário da República.\n\n4 - O reconhecimento das entidades mencionadas no n.º 2 é revogado, por despacho do director-geral de Veterinária, sempre que os cursos de formação ministrados não obedeçam às especificações técnicas fixadas nos termos do n.º 5.\n\n5 - Sem prejuízo do disposto na legislação vigente em matéria de formação profissional, o curso de formação mencionado no n.º 1 obedece às especificações técnicas fixadas por despacho do director-geral de Veterinária, publicado na 2.ª série do Diário da República.\n\n6 - Os cursos de formação em higiene e segurança alimentar organizados pelas entidades reconhecidas nos termos do n.º 2 destinam-se a ser ministrados quer aos seus representados, quer a terceiros.\n\n7 - Em complemento do curso de formação em higiene e segurança alimentar, os manipuladores de carnes e seus produtos devem, de três em três anos, frequentar um curso de actualização daquele.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "158208965": {
+   "fragment_id": "39548075",
+   "type": 11,
+   "heading": "Artigo 27.º — Documentos comprovativos da formação",
+   "in_force_from": "2008-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 27.º — Documentos comprovativos da formação\n\n1 - A frequência com aproveitamento do curso de formação previsto no artigo anterior é atestada pela entidade que organizar e ministrar aquele, que emitirá os seguintes documentos:\n\na) Certificado comprovativo da formação realizada;\n\nb) Documento que certifique a formação realizada e que se destina à respectiva entidade patronal.\n\n2 - O documento referido na alínea b) do número anterior é aprovado pelo director-geral de Veterinária.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "1174781475": {
+   "fragment_id": "35242175",
+   "type": 11,
+   "heading": "Artigo 3.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 67.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28."
+   ],
+   "markdown": "###### Artigo 3.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) A distribuição, preparação e venda de carnes e seus produtos com desrespeito das normas higiénicas e técnicas constantes dos artigos 2.º, 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 16.º, 17.º, 19.º, 20.º e 21.º do Regulamento anexo ao presente decreto-lei;\n\nb) A venda de géneros alimentícios e de alimentos para animais pré-embalados com incumprimento do disposto no artigo 22.º do Regulamento anexo ao presente decreto-lei;\n\nc) A distribuição, preparação e venda de carnes e seus produtos por pessoal que não cumpra o disposto nos artigos 23.º, 24.º, 25.º e 26.º do Regulamento anexo ao presente decreto-lei;\n\nd) O desrespeito pelas operações de separação, identificação, pesagem, registo e encaminhamento para eliminação ou aproveitamento dos subprodutos de origem animal não destinados a consumo humano, conforme previsto no artigo 11.º do Regulamento anexo ao presente decreto-lei.\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 67.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28."
+  },
+  "1174781675": {
+   "fragment_id": "35242375",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrução e decisão",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 67.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28.",
+    "Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 5.º — Instrução e decisão\n\n1 - Compete à ASAE e à DGV a instrução dos processos de contra-ordenação relativos às matérias do âmbito das respectivas competências.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE e ao diretor-geral de Alimentação e Veterinária, relativamente às matérias do âmbito das respetivas competências.\n\n> Alterado pelo/a Artigo 67.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28.\n\n> Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  },
+  "1174781875": {
+   "fragment_id": "35242475",
+   "type": 11,
+   "heading": "Artigo 6.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 67.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28.",
+    "Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+   ],
+   "markdown": "###### Artigo 6.º — Afectação do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 67.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28.\n\n> Alterado pelo/a [Decreto-Lei n.º 207/2008 - Diário da República n.º 206/2008, Série I de 2008-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-2008-438704), em vigor a partir de 2008-10-24."
+  }
+ }
+}

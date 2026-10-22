@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:419988:por
+title: Decreto-Lei n.º 274/87
+short_title: null
+summary: Introduz alterações ao Decreto-Lei n.º 288/84, de 24 de Agosto (características das farinhas)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 274/87
+official_date: null
+publication_date: '1987-07-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 151/1987, Série I de 1987-07-04
+  number: '151'
+  series: I
+  supplement: null
+  pages: 2616 - 2616
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15100/26162616.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '419988'
+  dre_path: /dr/detalhe/decreto-lei/274-1987-419988
+  internal: pt:dre:419988:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1987-419988
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1987-419988
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-04-23T00:00:00Z'
+integrity:
+  source_sha256: 00cc2c2c847c6d54b6f06d44cbbf3fe836374d45e1e34071ea83008e3c3501e4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-274-419988.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:216746:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 274/87
+
+de 4 de Julho
+
+O [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929), de 24 de Agosto, veio estabelecer as características a que devem obedecer as farinhas destinadas à panificação e a outros fins, as sêmolas utilizadas no fabrico de massas alimentícias e para usos culinários, bem como aspectos relacionados com a comercialização e conservação de tais produtos, sem prejuízo do disposto em legislação especial.
+
+Posteriormente foi publicado o [Decreto-Lei n.º 440/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/440-1985-178084), de 24 de Outubro, contendo disposições normativas sobre a rotulagem de géneros alimentícios e outros aspectos, que previu soluções que não são compatíveis com o conteúdo de alguns normativos do acima mencionado diploma legal.
+
+Importa, por isso, harmonizar a disciplina normativa em causa através da nova redacção proposta para a alínea b) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929), de 24 de Agosto.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo único. A alínea b) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 288/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1984-380929), de 24 de Agosto, passa a ter a seguinte redacção:
+
+###### Art. 17.º - 1 - ...
+
+a) ...
+
+b) Data de durabilidade mínima, indicada pela expressão:
+
+«Consumir de preferência antes do fim de ...», com indicação do mês e do ano.
+
+Visto e aprovado em Conselho de Ministros de 14 de Abril de 1987. - Aníbal António Cavaco Silva - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins.
+
+**Promulgado em 12 de Junho de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 23 de Junho de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

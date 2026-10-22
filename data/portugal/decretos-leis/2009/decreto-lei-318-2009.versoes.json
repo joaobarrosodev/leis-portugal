@@ -1,0 +1,843 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:483378:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-216406787",
+ "dre_path": "/dr/detalhe/decreto-lei/318-2009-483378",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "216401503",
+    "216401504",
+    "216401505",
+    "216401506",
+    "216401507",
+    "216401508",
+    "216401509",
+    "216401510",
+    "216401511",
+    "216401512",
+    "216401513",
+    "216401514",
+    "216401515",
+    "216401516",
+    "216401517",
+    "216401518",
+    "216401519",
+    "216401520",
+    "216401521",
+    "216401522",
+    "216401523",
+    "216401524",
+    "216401525",
+    "216401526",
+    "216401527",
+    "216401528",
+    "216401529",
+    "216401530",
+    "216401531",
+    "216401532",
+    "216401533",
+    "216401534",
+    "216401535",
+    "216401536",
+    "216401537",
+    "216401538",
+    "216401539",
+    "216401540",
+    "216401541",
+    "216401542",
+    "216401543",
+    "216401544",
+    "216401545",
+    "216401546",
+    "216401547",
+    "216401548",
+    "216401549",
+    "216401550",
+    "216401551",
+    "216401552",
+    "216401553",
+    "216401554",
+    "216401555",
+    "216401556",
+    "216401557",
+    "216401558"
+   ]
+  },
+  {
+   "date": "2015-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66325236:por",
+     "title": "Decreto-Lei n.º 12/2015",
+     "published": "2015-01-26",
+     "dre_path": "/dr/detalhe/decreto-lei/12-2015-66325236"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "216401503",
+    "216401504",
+    "216401573",
+    "216401506",
+    "216401507",
+    "216401508",
+    "216401560",
+    "216401561",
+    "216401562",
+    "216401563",
+    "216401513",
+    "216401564",
+    "216401565",
+    "216401566",
+    "216401567",
+    "216401518",
+    "216401568",
+    "216401520",
+    "216401569",
+    "216401522",
+    "216401523",
+    "216401570",
+    "216401571",
+    "216401572",
+    "216401559",
+    "216401527",
+    "216401528",
+    "216401529",
+    "216401530",
+    "216401531",
+    "216401532",
+    "216401533",
+    "216401534",
+    "216401535",
+    "216401536",
+    "216401537",
+    "216401538",
+    "216401539",
+    "216401540",
+    "216401541",
+    "216401542",
+    "216401543",
+    "216401544",
+    "216401545",
+    "216401546",
+    "216401547",
+    "216401548",
+    "216401549",
+    "216401550",
+    "216401551",
+    "216401552",
+    "216401553",
+    "216401554",
+    "216401555",
+    "216401556",
+    "216401557",
+    "216401558"
+   ]
+  },
+  {
+   "date": "2023-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223906278:por",
+     "title": "Decreto-Lei n.º 102/2023",
+     "published": "2023-11-07",
+     "dre_path": "/dr/detalhe/decreto-lei/102-2023-223906278"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "216401503",
+    "216401504",
+    "223940420",
+    "216401506",
+    "216401507",
+    "216401508",
+    "216401560",
+    "216401561",
+    "216401562",
+    "216401563",
+    "216401513",
+    "216401564",
+    "216401565",
+    "216401566",
+    "216401567",
+    "216401518",
+    "216401568",
+    "216401520",
+    "216401569",
+    "216401522",
+    "216401523",
+    "216401570",
+    "216401571",
+    "216401572",
+    "216401559",
+    "216401527",
+    "216401528",
+    "216401529",
+    "216401530",
+    "216401531",
+    "216401532",
+    "216401533",
+    "216401534",
+    "216401535",
+    "216401536",
+    "216401537",
+    "216401538",
+    "216401539",
+    "216401540",
+    "216401541",
+    "216401542",
+    "216401543",
+    "216401544",
+    "216401545",
+    "216401546",
+    "216401547",
+    "216401548",
+    "216401549",
+    "216401550",
+    "216401551",
+    "216401552",
+    "216401553",
+    "216401554",
+    "216401555",
+    "216401556",
+    "216401557",
+    "216401558"
+   ]
+  }
+ ],
+ "fragments": {
+  "216401503": {
+   "fragment_id": "216406788",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 318/2009\n\nde 2 de Novembro\n\nDesde a criação do Serviço Nacional de Saúde, a eficaz articulação entre os cuidados de saúde primários e os cuidados diferenciados tem sido uma preocupação constante, pela mais-valia que tal coordenação pode trazer à efectiva prestação de cuidados de saúde aos cidadãos. Para esta questão não é despiciendo o modelo de organização e funcionamento que tem vindo a ser adoptado para os diferentes serviços públicos de saúde.\n\nO Decreto-Lei n.º 207/99, de 9 de Junho, instituiu no município de Matosinhos uma experiência inovadora, integrando numa única entidade pública, dotada de gestão empresarial, os vários serviços e instituições do Serviço Nacional de Saúde existentes naquele município. Por integrarem hospitais e centros de saúde, estas entidades passaram a ser unidades locais de saúde, permitindo a integração, numa única entidade, dos vários serviços e instituições do Serviço Nacional de Saúde que, naquele município, prestam cuidados de saúde à população e são por ela responsáveis.\n\nO tempo entretanto decorrido veio a demonstrar que, nos casos em que é possível adoptá-lo, aquele é um dos modelos organizacionais mais adequados de prestação de cuidados de saúde à população, cujos interesses e necessidades importa, em primeiro lugar, salvaguardar.\n\nEsta linha de raciocínio levou à criação da Unidade Local de Saúde do Norte Alentejano, E. P. E., da Unidade Local de Saúde da Guarda, E. P. E., da Unidade Local de Saúde do Baixo Alentejo, E. P. E., e da Unidade Local de Saúde do Alto Minho, E. P. E., aliando o modelo de unidade local de saúde à forma de gestão característica das entidades públicas empresariais.\n\nSurge, agora, a oportunidade de criar mais uma unidade local de saúde, igualmente com gestão empresarial, a qual melhorará o funcionamento da prestação de cuidados de saúde em Castelo Branco.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "216401504": {
+   "fragment_id": "216406789",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "216401505": {
+   "fragment_id": "216406790",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada, com a natureza de entidade pública empresarial, a Unidade Local de Saúde (ULS) de Castelo Branco, E. P. E., por integração do Hospital Amato Lusitano - Castelo Branco, com os agrupamentos de centros de saúde da Beira Interior Sul e do Pinhal Interior Sul, que incluem os seguintes centros de saúde:\n\na) Castelo Branco;\n\nb) Idanha-a-Nova;\n\nc) Penamacor;\n\nd) Vila Velha de Ródão;\n\ne) Oleiros;\n\nf) Proença-a-Nova;\n\ng) Sertã;\n\nh) Mação;\n\ni) Vila de Rei.\n\n2 - Os estatutos da ULS de Castelo Branco, E. P. E., referida no número anterior, constam do anexo ao presente decreto-lei, do qual fazem parte integrante.\n\n3 - Com dispensa de quaisquer formalidades legais, considera-se extinto, na data de entrada em vigor do presente decreto-lei, o Hospital Amato Lusitano - Castelo Branco."
+  },
+  "216401506": {
+   "fragment_id": "216406791",
+   "type": 11,
+   "heading": "Artigo 2.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sucessão\n\nA ULS de Castelo Branco, E. P. E., sucede em todos os direitos e obrigações do Hospital e dos agrupamentos de centros de saúde que nela são integrados."
+  },
+  "216401507": {
+   "fragment_id": "216406792",
+   "type": 11,
+   "heading": "Artigo 3.º — Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Registos\n\nO presente decreto-lei e o seu anexo constituem título bastante para todos os efeitos legais, designadamente os de registo."
+  },
+  "216401508": {
+   "fragment_id": "216406793",
+   "type": 1,
+   "heading": "Capítulo II — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime jurídico"
+  },
+  "216401509": {
+   "fragment_id": "216406794",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Natureza e regime\n\n1 - A ULS de Castelo Branco, E. P. E., é uma pessoa colectiva de direito público de natureza empresarial, dotada de autonomia administrativa, financeira e patrimonial, nos termos do Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n2 - A ULS de Castelo Branco, E. P. E., rege-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas no presente decreto-lei e nos seus estatutos, bem como no respectivo regulamento interno e nas normas em vigor para o Serviço Nacional de Saúde que não contrariem as normas aqui previstas."
+  },
+  "216401510": {
+   "fragment_id": "216406795",
+   "type": 11,
+   "heading": "Artigo 5.º — Superintendência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Superintendência\n\n1 - Compete ao membro do Governo responsável pela área da saúde:\n\na) Aprovar os objectivos e estratégias da ULS de Castelo Branco, E. P. E.;\n\nb) Dar orientações, recomendações e directivas para prossecução das atribuições da ULS de Castelo Branco, E. P. E., designadamente em matérias transversais e comuns ao Serviço Nacional de Saúde;\n\nc) Definir as normas de organização e de actuação hospitalar;\n\nd) Homologar o regulamento interno da ULS de Castelo Branco, E. P. E.;\n\ne) Exigir todas as informações consideradas necessárias ao acompanhamento da actividade da ULS de Castelo Branco, E. P. E., bem como determinar auditorias e inspecções ao seu funcionamento.\n\n2 - O membro do Governo responsável pela área da saúde pode delegar os poderes referidos no número anterior no conselho de administração da administração regional de saúde territorialmente competente."
+  },
+  "216401511": {
+   "fragment_id": "216406796",
+   "type": 11,
+   "heading": "Artigo 6.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Capacidade\n\nA capacidade jurídica da ULS de Castelo Branco, E. P. E., abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objecto e das suas atribuições, sendo da sua exclusiva competência a cobrança das receitas e taxas provenientes da respectiva actividade."
+  },
+  "216401512": {
+   "fragment_id": "216406797",
+   "type": 11,
+   "heading": "Artigo 7.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organização\n\n1 - A ULS de Castelo Branco, E. P. E., organiza-se de acordo com as normas e critérios genéricos definidos pelo membro do Governo responsável pela área da saúde, em função das suas atribuições e áreas de actuação específicas, devendo o respectivo regulamento interno prever a estrutura orgânica com base em serviços agregados em departamentos e englobando unidades funcionais.\n\n2 - O regulamento interno referido no número anterior deve estabelecer as normas que permitam a efectiva articulação entre os cuidados de saúde primários, diferenciados e continuados, no âmbito de uma prestação integrada de serviços, com respeito pelo disposto no Decreto-Lei n.º 28/2008, de 22 de Fevereiro.\n\n3 - As estruturas orgânicas da ULS de Castelo Branco, E. P. E., devem desenvolver a sua acção por centros de responsabilidade que permitam a realização, internamente contratualizada, dos respectivos programas de actividade com autonomia e responsabilidade, de modo a possibilitar formas de trabalho centradas, prioritariamente, no doente, de acordo com as boas práticas de gestão clínica."
+  },
+  "216401513": {
+   "fragment_id": "216406798",
+   "type": 1,
+   "heading": "Capítulo III — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime financeiro"
+  },
+  "216401514": {
+   "fragment_id": "216406799",
+   "type": 11,
+   "heading": "Artigo 8.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tutela\n\nCompete aos membros do Governo responsáveis pelas áreas das finanças e da saúde:\n\na) Aprovar os planos de actividades, os orçamentos e os documentos de prestação de contas da ULS de Castelo Branco, E. P. E.;\n\nb) Autorizar as aquisições e venda de imóveis, bem como a sua oneração, mediante parecer prévio do respectivo fiscal único;\n\nc) Autorizar a realização de investimentos, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados e sejam de valor superior a 2 % do capital estatutário da ULS de Castelo Branco, E. P. E., mediante parecer favorável do fiscal único;\n\nd) Determinar os aumentos e reduções do capital estatutário da ULS de Castelo Branco, E. P. E.;\n\ne) Autorizar a contracção de empréstimos de valor, individual ou acumulado, igual ou superior a 10 % do capital estatutário da ULS de Castelo Branco, E. P. E.;\n\nf) Autorizar cedências de exploração de serviços, bem como a constituição de associações com outras entidades públicas, com vista a uma melhor prossecução das atribuições da ULS de Castelo Branco, E. P. E.;\n\ng) Autorizar a participação da ULS de Castelo Branco, E. P. E., em sociedades anónimas cujo capital social seja por ela maioritariamente detido e que tenham por objecto a prestação de cuidados de saúde;\n\nh) Autorizar, sem prejuízo do disposto na alínea anterior, para a prossecução dos pertinentes objectivos estratégicos, a participação da ULS de Castelo Branco, E. P. E., no capital social de outras sociedades, nos termos do artigo 37.º do Decreto-Lei n.º 558/99, de 17 de Dezembro;\n\ni) Autorizar os demais actos que, nos termos da legislação aplicável, careçam de aprovação tutelar."
+  },
+  "216401515": {
+   "fragment_id": "216406800",
+   "type": 11,
+   "heading": "Artigo 9.º — Controlo financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Controlo financeiro\n\nSem prejuízo do disposto nos artigos 12.º e 13.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, deve a ULS de Castelo Branco, E. P. E., submeter aos membros do Governo responsáveis pelas áreas das finanças e da saúde:\n\na) O plano de actividades e o orçamento, até ao final do mês de Outubro de cada ano;\n\nb) Os documentos de prestação de contas, até ao final do mês de Março de cada ano;\n\nc) Os indicadores de actividade, económico-financeiros, de recursos humanos e outros definidos pelos membros do Governo responsáveis pelas áreas das finanças e da saúde, com a periodicidade que seja estabelecida."
+  },
+  "216401516": {
+   "fragment_id": "216406801",
+   "type": 11,
+   "heading": "Artigo 10.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Financiamento\n\n1 - A ULS de Castelo Branco, E. P. E., celebra um contrato-programa com o serviço do Ministério da Saúde com competência para outorgá-lo, no qual se estabelecem as formas de pagamento, os objectivos e metas qualitativas e quantitativas, a sua calendarização, os meios e instrumentos para os prosseguir, designadamente os de investimento, os indicadores para avaliação do desempenho dos serviços e do nível de satisfação dos utentes e as demais obrigações assumidas pelas partes, tendo como referencial os preços praticados no mercado para os diversos actos clínicos.\n\n2 - O endividamento da ULS de Castelo Branco, E. P. E., não pode exceder, em qualquer momento, o limite de 30 % do respectivo capital estatutário."
+  },
+  "216401517": {
+   "fragment_id": "216406802",
+   "type": 11,
+   "heading": "Artigo 11.º — Aquisição de bens e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aquisição de bens e serviços\n\n1 - À aquisição de bens e serviços é correspondentemente aplicável o regime previsto para as entidades públicas empresariais designadas por hospitais, E. P. E.\n\n2 - O regulamento interno da ULS de Castelo Branco, E. P. E., deve garantir o cumprimento dos princípios gerais da livre concorrência, transparência e boa gestão, designadamente a fundamentação das decisões tomadas."
+  },
+  "216401518": {
+   "fragment_id": "216406803",
+   "type": 1,
+   "heading": "Capítulo IV — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Recursos humanos"
+  },
+  "216401519": {
+   "fragment_id": "216406804",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime de pessoal\n\n1 - Os trabalhadores da ULS de Castelo Branco, E. P. E., estão sujeitos ao regime do contrato de trabalho previsto no Código do Trabalho, bem como ao regime disposto em diplomas que definam o regime legal de carreira de profissões da saúde, em demais legislação laboral, em normas imperativas sobre títulos profissionais, em instrumentos de regulamentação colectiva de trabalho e em regulamentos internos.\n\n2 - A ULS de Castelo Branco, E. P. E., deve prever, anualmente, uma dotação global de pessoal, através do respectivo orçamento, considerando os planos de actividade.\n\n3 - A ULS de Castelo Branco, E. P. E., não pode celebrar contratos de trabalho para além da dotação referida no número anterior.\n\n4 - Os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver, bem como assegurar os princípios da igualdade de oportunidades, da imparcialidade, da boa-fé e da não-discriminação e da publicidade, podendo este ser excepcionado nos casos de manifesta urgência, devidamente fundamentada."
+  },
+  "216401520": {
+   "fragment_id": "216406805",
+   "type": 11,
+   "heading": "Artigo 13.º — Pessoal com relação jurídica de emprego público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pessoal com relação jurídica de emprego público\n\n1 - Ao pessoal com relação jurídica de emprego público que, à data da entrada em vigor do presente decreto-lei, pertença aos mapas de pessoal do Hospital Amato Lusitano - Castelo Branco, e aos agrupamentos de centros de saúde da Beira Interior Sul e do Pinhal Interior Sul, é garantida a manutenção integral do seu estatuto jurídico.\n\n2 - O disposto no número anterior não prejudica a aplicação das regras gerais de mobilidade e racionalização de efectivos em vigor para os trabalhadores que exercem funções públicas, designadamente as constantes da Lei n.º 53/2006, de 3 de Dezembro, e do Decreto-Lei n.º 200/2006, de 25 de Outubro, com as necessárias adaptações.\n\n3 - Mantêm-se válidos os concursos de pessoal pendentes e os estágios e cursos de especialização a decorrer à data da entrada em vigor do presente decreto-lei.\n\n4 - O pessoal a que se refere o presente artigo pode optar, a todo o tempo, pelo regime do contrato de trabalho nos termos do Código do Trabalho, estabelecido nos termos dos artigos seguintes."
+  },
+  "216401521": {
+   "fragment_id": "216406806",
+   "type": 11,
+   "heading": "Artigo 14.º — Opção pelo contrato de trabalho nos termos do Código do Trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Opção pelo contrato de trabalho nos termos do Código do Trabalho\n\nA opção definitiva pelo regime do contrato de trabalho nos termos do Código do Trabalho é feita, individual e definitivamente, mediante acordo escrito com o conselho de administração, tornando-se efectiva a cessação do vínculo à função pública com a sua publicação no Diário da República, data em que o contrato de trabalho celebrado com a ULS de Castelo Branco, E. P. E., passa a produzir efeitos."
+  },
+  "216401522": {
+   "fragment_id": "216406807",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime de protecção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime de protecção social\n\n1 - Relativamente aos trabalhadores com relação jurídica de emprego público que não optem pelo regime do contrato de trabalho nos termos do Código do Trabalho, ou que mantenham o regime de protecção social da função pública, a ULS de Castelo Branco, E. P. E., contribui para o financiamento da Caixa Geral de Aposentações, I. P., com a importância que se encontre legalmente estabelecida para a contribuição das entidades empregadoras com autonomia administrativa e financeira.\n\n2 - A ULS de Castelo Branco, E. P. E., observa, relativamente ao pessoal referido no número anterior, o regime previsto no Decreto-Lei n.º 118/83, de 25 de Fevereiro, e no Decreto-Lei n.º 503/99, de 20 de Novembro, para os organismos dotados de autonomia administrativa e financeira."
+  },
+  "216401523": {
+   "fragment_id": "216406808",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "216401524": {
+   "fragment_id": "216406809",
+   "type": 11,
+   "heading": "Artigo 16.º — Cessação dos mandatos e das comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cessação dos mandatos e das comissões de serviço\n\n1 - Com a entrada em vigor do presente decreto-lei cessam automaticamente os mandatos dos membros dos conselhos de administração e dos órgãos de direcção das unidades integradas na ULS de Castelo Branco, E. P. E., mantendo-se os mesmos em gestão corrente até à nomeação dos novos titulares.\n\n2 - Cessam igualmente as comissões de serviço dos titulares dos cargos de direcção e chefia dos mesmos estabelecimentos e serviços de saúde, mantendo-se os respectivos titulares em exercício de funções até à designação dos novos titulares.\n\n3 - A designação dos novos titulares de cargos de direcção e chefia faz-se nos termos previstos no Código do Trabalho."
+  },
+  "216401525": {
+   "fragment_id": "216406810",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regulamentos internos\n\n1 - Os regulamentos internos da ULS de Castelo Branco, E. P. E., devem ser elaborados e submetidos a homologação do membro do Governo responsável pela área da saúde no prazo de 120 dias a contar da data de entrada em vigor do presente decreto-lei.\n\n2 - Deve ser previsto em regulamento interno o regime de organização e funcionamento dos centros de saúde integrados na ULS de Castelo Branco, E. P. E., com respeito pelo disposto no artigo 42.º-A do Decreto-Lei n.º 28/2008, de 22 de Fevereiro."
+  },
+  "216401526": {
+   "fragment_id": "216406811",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor em 1 de Janeiro de 2010.\n\nVisto e aprovado em Conselho de Ministros de 3 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Ana Maria Teodoro Jorge.\n\nPromulgado em 19 de Outubro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 21 de Outubro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "216401527": {
+   "fragment_id": "216406812",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "216401528": {
+   "fragment_id": "216406813",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza, sede e duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza, sede e duração\n\n1 - A Unidade Local de Saúde de Castelo Branco, E. P. E. (ULS), é uma pessoa colectiva de direito público de natureza empresarial, dotada de autonomia administrativa, financeira e patrimonial, nos termos do Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n2 - A sede da ULS é na Avenida de Pedro Álvares Cabral, em Castelo Branco.\n\n3 - A ULS é constituída por tempo indeterminado."
+  },
+  "216401529": {
+   "fragment_id": "216406814",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - A ULS tem por objecto principal a prestação de cuidados de saúde primários, secundários e continuados à população, designadamente aos beneficiários do Serviço Nacional de Saúde e aos beneficiários dos subsistemas de saúde, ou de entidades externas que com ele contratualizem a prestação de cuidados de saúde e a todos os cidadãos em geral, bem como assegurar as actividades de saúde pública e os meios necessários ao exercício das competências da autoridade de saúde na área geográfica por ela abrangida.\n\n2 - A ULS tem ainda por objecto desenvolver actividades de investigação, formação e ensino, sendo a sua participação na formação de profissionais de saúde para hospitais que sejam entidades públicas empresariais dependente da respectiva capacidade formativa, podendo ser objecto de contratos-programa em que se definam as respectivas formas de financiamento."
+  },
+  "216401530": {
+   "fragment_id": "216406815",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nAs atribuições da ULS constam do respectivo regulamento interno, são fixadas de acordo com a política de saúde a nível nacional e regional e com os planos estratégicos superiormente aprovados e são desenvolvidas através de contratos-programa, em articulação com as atribuições das demais instituições do sistema de saúde."
+  },
+  "216401531": {
+   "fragment_id": "216406816",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital estatutário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital estatutário\n\n1 - O capital estatutário da ULS é de (euro) 8 516 000, subscrito e a realizar pelo Estado.\n\n2 - O capital estatutário é detido pelo Estado e é aumentado ou reduzido por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde, que constitui título bastante para todos os efeitos legais, incluindo os de registo."
+  },
+  "216401532": {
+   "fragment_id": "216406817",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos sociais\n\nArtigo 5.º\n\nÓrgãos\n\nSão órgãos da ULS:\n\na) O conselho de administração;\n\nb) O fiscal único;\n\nc) O conselho consultivo."
+  },
+  "216401533": {
+   "fragment_id": "216406818",
+   "type": 8,
+   "heading": "Secção I — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conselho de administração"
+  },
+  "216401534": {
+   "fragment_id": "216406819",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição e mandato\n\n1 - O conselho de administração é composto pelo presidente e por até seis vogais.\n\n2 - Os membros do conselho de administração são nomeados por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde de entre individualidades de reconhecido mérito e perfil adequado, sendo, pelo menos, dois deles médicos, um da especialidade de medicina geral e familiar e outro de uma especialidade hospitalar, e um enfermeiro.\n\n3 - Aos médicos referidos no número anterior compete a direcção clínica da ULS, e ao enfermeiro, a respectiva direcção de enfermagem.\n\n4 - No caso de o presidente do conselho de administração ser médico, só é obrigatório que um dos vogais seja também médico, mas necessariamente oriundo de especialidade diferente da do presidente, face ao disposto no n.º 2.\n\n5 - Pode ainda integrar o conselho de administração da ULS um vogal não executivo, a nomear por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde, sob proposta das associações de municípios que integrem a correspondente unidade territorial definida com base nas NUTS III.\n\n6 - O mandato dos membros do conselho de administração tem a duração de três anos, sendo renovável por iguais períodos, até um máximo de três renovações, permanecendo aqueles no exercício das suas funções até efectiva substituição."
+  },
+  "216401535": {
+   "fragment_id": "216406820",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências do conselho de administração\n\n1 - Compete ao conselho de administração garantir o cumprimento dos objectivos básicos, bem como o exercício de todos os poderes de gestão que não estejam reservados a outros órgãos, e, em especial:\n\na) Propor os planos de acção anuais e plurianuais e respectivos orçamentos, bem como os demais instrumentos de gestão previsional legalmente previstos, e assegurar a respectiva execução;\n\nb) Celebrar contratos-programa externos e internos de harmonia com o disposto no artigo 34.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro;\n\nc) Definir as linhas de orientação a que devem obedecer a organização e o funcionamento da ULS, nas áreas clínicas e não clínicas, propondo a criação de novos serviços, sua extinção ou modificação;\n\nd) Definir as políticas referentes a recursos humanos, incluindo as remunerações dos trabalhadores e dos titulares dos cargos de direcção e chefia;\n\ne) Designar o pessoal para cargos de direcção e chefia;\n\nf) Aprovar o regulamento disciplinar do pessoal e as condições de prestação e disciplina do trabalho;\n\ng) Apresentar os documentos de prestação de contas, nos termos definidos na lei;\n\nh) Aprovar e submeter a homologação do membro do Governo responsável pela área da saúde o regulamento interno e fazer cumprir as disposições legais e regulamentares aplicáveis;\n\ni) Decidir sobre a realização de ensaios clínicos e terapêuticos, ouvida a comissão de ética, sem prejuízo do cumprimento das disposições aplicáveis;\n\nj) Contratar com entidades privadas a prestação de cuidados de saúde aos beneficiários do Serviço Nacional de Saúde, sem prejuízo de acordos de âmbito nacional;\n\nl) Promover no seu âmbito de actuação, critérios de articulação com entidades privadas de saúde e grupos de médicos em regime de convenção;\n\nm) Promover, no âmbito geodemográfico do distrito, acções de apoio domiciliário aos utentes, designadamente através da celebração de acordos com instituições particulares de solidariedade social;\n\nn) Prestar colaboração à Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., no âmbito do licenciamento de farmácias e armazenistas de medicamentos;\n\no) Autorizar a realização de trabalho extraordinário e de prevenção dos trabalhadores da ULS, E. P. E., independentemente do seu estatuto, bem como autorizar o respectivo pagamento;\n\np) Acompanhar e avaliar sistematicamente a actividade desenvolvida pela ULS, designadamente responsabilizando os diferentes sectores pela utilização dos meios postos à sua disposição e pelos resultados atingidos, nomeadamente em termos da qualidade dos serviços prestados;\n\nq) Tomar conhecimento e determinar as medidas adequadas, se for caso disso, sobre as queixas e reclamações apresentadas pelos utentes;\n\nr) Decidir sobre a admissão e gestão do pessoal e autorizar a aplicação de todas as modalidades de regimes de trabalho legalmente admissíveis;\n\ns) Exercer a competência em matéria disciplinar prevista na lei, independentemente da relação jurídica de emprego;\n\nt) Acompanhar a execução do orçamento, aplicando as medidas destinadas a corrigir os desvios em relação às previsões realizadas;\n\nu) Assegurar a regularidade da cobrança das dívidas e autorizar a realização e o pagamento da despesa da ULS;\n\nv) Tomar as providências necessárias à conservação do património afecto ao desenvolvimento da sua actividade e autorizar as despesas inerentes, previstas no plano de investimentos.\n\n2 - Sem prejuízo do disposto no número anterior e em normas especiais, o conselho de administração detém, ainda, as competências legalmente atribuídas aos titulares dos cargos de direcção superior de 1.º grau da administração central do Estado relativamente ao pessoal com relação jurídica de emprego público.\n\n3 - O conselho de administração pode delegar as suas competências nos seus membros ou demais pessoal de direcção e chefia, com excepção das previstas nas alíneas a) a o) do n.º 1, definindo, em acta, os limites e condições do seu exercício."
+  },
+  "216401536": {
+   "fragment_id": "216406821",
+   "type": 11,
+   "heading": "Artigo 8.º — Presidente do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presidente do conselho de administração\n\n1 - Compete ao presidente do conselho de administração:\n\na) Coordenar a actividade do conselho de administração e dirigir as respectivas reuniões;\n\nb) Garantir a correcta execução das deliberações do conselho de administração;\n\nc) Submeter a aprovação ou a autorização dos membros do Governo competentes todos os actos que delas careçam;\n\nd) Representar a ULS, em juízo e fora dele e em convenção arbitral, podendo designar mandatários para o efeito constituídos;\n\ne) Exercer as competências que lhe sejam delegadas.\n\n2 - O presidente do conselho de administração é substituído nas suas ausências e impedimentos pelo vogal por si designado."
+  },
+  "216401537": {
+   "fragment_id": "216406822",
+   "type": 11,
+   "heading": "Artigo 9.º — Direcção clínica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direcção clínica\n\nA direcção clínica da ULS incumbe a dois médicos do conselho de administração, um da área de medicina geral e familiar e outro da área hospitalar, aos quais compete a coordenação da assistência prestada aos doentes e a qualidade, correcção e prontidão dos cuidados de saúde, designadamente:\n\na) Coordenar a elaboração dos planos de acção apresentados pelos vários serviços de acção médica hospitalar e dos centros de saúde, a integrar no plano de acção global da ULS;\n\nb) Assegurar uma integração adequada da actividade médica, designadamente através de uma utilização não compartimentada da capacidade instalada;\n\nc) Propor medidas necessárias à melhoria das estruturas organizativas, funcionais e físicas dos serviços de acção médica, dentro de parâmetros de eficiência e eficácia reconhecidos, que produzam os melhores resultados face às tecnologias disponíveis;\n\nd) Aprovar as orientações clínicas relativas à prescrição de medicamentos e meios complementares de diagnóstico e terapêutica, bem como os protocolos clínicos adequados às patologias mais frequentes, respondendo perante o conselho de administração pela sua adequação em termos de qualidade e de custo-benefício;\n\ne) Propor ao conselho de administração a realização, sempre que necessário, da avaliação externa do cumprimento das orientações clínicas e protocolos mencionados, em colaboração com a Ordem dos Médicos e instituições de ensino médico e sociedades científicas;\n\nf) Desenvolver a implementação de instrumentos de garantia de qualidade técnica dos cuidados de saúde;\n\ng) Decidir sobre conflitos de natureza técnica decorrentes da acção médica;\n\nh) Decidir as dúvidas que lhe sejam presentes sobre deontologia médica, desde que não seja possível o recurso, em tempo útil, à comissão de ética;\n\ni) Participar na gestão do pessoal médico, designadamente nos processos de admissão e mobilidade interna, ouvidos os respectivos dirigentes;\n\nj) Velar pela constante actualização do pessoal médico;\n\nl) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da medicina, investigação e com a formação dos médicos;\n\nm) Desenvolver e analisar estatísticas de saúde."
+  },
+  "216401538": {
+   "fragment_id": "216406823",
+   "type": 11,
+   "heading": "Artigo 10.º — Direcção de enfermagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de enfermagem\n\nCompete ao enfermeiro que integra o conselho de administração a coordenação técnica da actividade de enfermagem da ULS, velando pela sua qualidade, e, sem prejuízo do disposto em sede do regulamento interno, designadamente:\n\na) Coordenar a elaboração dos planos de acção de enfermagem apresentados pelos vários serviços a integrar no plano de acção global da ULS;\n\nb) Colaborar com a direcção clínica na compatibilização dos planos de acção dos diferentes serviços;\n\nc) Contribuir para a definição das políticas ou directivas de formação e investigação em enfermagem;\n\nd) Definir padrões de cuidados de enfermagem e indicadores de avaliação dos cuidados de enfermagem prestados;\n\ne) Elaborar propostas referentes à gestão do pessoal de enfermagem, designadamente participar no processo de admissão e de mobilidade dos enfermeiros;\n\nf) Promover e acompanhar o processo de avaliação do pessoal de enfermagem;\n\ng) Propor a criação de um sistema efectivo de classificação de utentes que permita determinar necessidades em cuidados de enfermagem e zelar pela sua manutenção;\n\nh) Elaborar estudos para determinação de custos e benefícios no âmbito dos cuidados de enfermagem;\n\ni) Acompanhar e avaliar sistematicamente outros aspectos relacionados com o exercício da actividade de enfermagem e com a formação dos enfermeiros."
+  },
+  "216401539": {
+   "fragment_id": "216406824",
+   "type": 11,
+   "heading": "Artigo 11.º — Funcionamento do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Funcionamento do conselho de administração\n\n1 - O conselho de administração reúne, pelo menos, semanalmente, e ainda sempre que convocado pelo presidente, ou por solicitação de dois dos seus membros ou do fiscal único.\n\n2 - As regras de funcionamento do conselho de administração são fixadas pelo próprio conselho na sua primeira reunião e constam do regulamento interno da ULS.\n\n3 - O presidente do conselho de administração tem voto de qualidade.\n\n4 - Das reuniões do conselho de administração devem ser lavradas actas, a aprovar na reunião seguinte."
+  },
+  "216401540": {
+   "fragment_id": "216406825",
+   "type": 11,
+   "heading": "Artigo 12.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Vinculação\n\nA ULS obriga-se pela assinatura, com indicação da qualidade, de dois membros do conselho de administração ou de quem esteja legitimado para o efeito, nos termos do n.º 3 do artigo 7.º"
+  },
+  "216401541": {
+   "fragment_id": "216406826",
+   "type": 11,
+   "heading": "Artigo 13.º — Estatuto dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Estatuto dos membros\n\n1 - Aos membros do conselho de administração aplica-se o estatuto de gestor público, sem prejuízo do disposto para os profissionais de saúde em matéria de carreiras especiais.\n\n2 - A remuneração dos membros do conselho de administração da ULS é fixada por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde."
+  },
+  "216401542": {
+   "fragment_id": "216406827",
+   "type": 11,
+   "heading": "Artigo 14.º — Dissolução do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Dissolução do conselho de administração\n\n1 - Os membros do Governo responsáveis pelas áreas das finanças e da saúde podem dissolver o conselho de administração nos seguintes casos:\n\na) Discrepância substancial entre os orçamentos e a respectiva execução;\n\nb) Deterioração dos resultados da actividade, incluindo a qualidade dos serviços prestados.\n\n2 - Não há lugar a dissolução nos casos em que o conselho de administração tenha tomado todas as medidas adequadas para evitar a verificação dos factos referidos no número anterior."
+  },
+  "216401543": {
+   "fragment_id": "216406828",
+   "type": 8,
+   "heading": "Secção II — Disposições relativas ao fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições relativas ao fiscal único"
+  },
+  "216401544": {
+   "fragment_id": "216406829",
+   "type": 11,
+   "heading": "Artigo 15.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscal único\n\n1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial da ULS.\n\n2 - O fiscal único é nomeado por despacho do membro do Governo responsável pela área das finanças, obrigatoriamente de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas, por um período de três anos, apenas renovável uma vez.\n\n3 - O fiscal único tem sempre um suplente, que é igualmente revisor oficial de contas ou sociedade de revisores oficiais de contas.\n\n4 - Cessando o mandato, o fiscal único mantém-se em exercício de funções até à posse do respectivo substituto.\n\n5 - A remuneração do fiscal único é fixada por despacho do membro do Governo responsável pela área das finanças."
+  },
+  "216401545": {
+   "fragment_id": "216406830",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências\n\n1 - O fiscal único tem as competências, os poderes e os deveres estabelecidos na lei e nos presentes estatutos.\n\n2 - Ao fiscal único compete, especialmente:\n\na) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte;\n\nb) Dar parecer sobre o relatório de gestão do exercício e certificar as contas;\n\nc) Acompanhar com regularidade a gestão, através de balancetes e mapas demonstrativos da execução orçamental;\n\nd) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;\n\ne) Propor a realização de auditorias externas, quando tal se mostre necessário ou conveniente;\n\nf) Pronunciar-se sobre qualquer outro assunto em matéria de gestão económica e financeira que seja submetido à sua consideração pelo conselho de administração;\n\ng) Dar parecer sobre a aquisição, arrendamento, alienação e oneração de bens imóveis;\n\nh) Dar parecer sobre a realização de investimentos e a contracção de empréstimos;\n\ni) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global;\n\nj) Pronunciar-se sobre assuntos que lhe sejam submetidos pelo conselho de administração, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira do Estado;\n\nl) Verificar se os critérios valorimétricos adoptados pela ULS conduzem a uma correcta avaliação do património e dos resultados."
+  },
+  "216401546": {
+   "fragment_id": "216406831",
+   "type": 8,
+   "heading": "Secção III — Disposições relativas ao auditor interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições relativas ao auditor interno"
+  },
+  "216401547": {
+   "fragment_id": "216406832",
+   "type": 11,
+   "heading": "Artigo 17.º — Auditor interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Auditor interno\n\n1 - Na ULS deve existir um auditor com a devida qualificação, designado pelo conselho de administração, a quem compete proceder ao controlo interno nos domínios clínico, contabilístico, financeiro, operacional, informático e de recursos humanos.\n\n2 - No âmbito das suas funções, o auditor deve fornecer ao conselho de administração análises e recomendações sobre as actividades previstas para a melhoria do funcionamento dos serviços e propor a realização de auditorias por entidades terceiras.\n\n3 - O auditor é designado por um período de três anos, apenas renovável uma vez.\n\n4 - No sentido de obter informação adequada para o desenvolvimento das auditorias, o auditor tem acesso livre a registos, computadores, instalações e pessoal da ULS, com excepção do acesso aos registos clínicos individuais dos utentes.\n\n5 - O auditor elabora um plano anual de auditoria.\n\n6 - O auditor elabora, semestralmente, um relatório sobre a actividade desenvolvida em que se refiram os controlos efectuados, as anomalias detectadas e as medidas correctivas a adoptar, que deve ser submetido pelo conselho de administração aos membros do Governo responsáveis pela área das finanças e da saúde.\n\n7 - A actividade do auditor deve ser articulada com a da Inspecção-Geral de Finanças e da Inspecção-Geral das Actividades em Saúde."
+  },
+  "216401548": {
+   "fragment_id": "216406833",
+   "type": 8,
+   "heading": "Secção IV — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho consultivo"
+  },
+  "216401549": {
+   "fragment_id": "216406834",
+   "type": 11,
+   "heading": "Artigo 18.º — Composição do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Composição do conselho consultivo\n\n1 - O conselho consultivo da ULS tem a seguinte composição:\n\na) Uma personalidade de reconhecido mérito nomeada pelo membro do Governo responsável pela área da saúde, que preside;\n\nb) Um representante das associações de municípios que integrem a correspondente unidade territorial definida com base nas NUTS III;\n\nc) Um representante da administração regional de saúde respectiva;\n\nd) Um representante dos utentes, designado pela respectiva associação ou por equivalente estrutura de representação;\n\ne) Um representante eleito pelos trabalhadores da ULS;\n\nf) Um representante dos prestadores de trabalho voluntário na ULS, entre estes eleito, quando existam;\n\ng) Dois profissionais de saúde, sem vínculo à ULS, designados pelo conselho de administração.\n\n2 - Compete ao presidente do conselho consultivo promover a designação dos respectivos membros.\n\n3 - Os membros do conselho de administração e o fiscal único podem ter assento no conselho consultivo, sem direito a voto.\n\n4 - O mandato dos membros do conselho consultivo tem a duração de três anos, sem prejuízo da possibilidade da sua substituição, a todo o tempo, pelas entidades que os designaram ou elegeram.\n\n5 - O exercício do cargo de membro do conselho consultivo não é remunerado, sendo as ajudas de custo a que haja lugar suportadas pelos organismos públicos que designaram os seus representantes e, nos restantes casos, suportadas pela ULS."
+  },
+  "216401550": {
+   "fragment_id": "216406835",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competência do conselho consultivo\n\nCompete ao conselho consultivo:\n\na) Apreciar os planos de actividade de natureza anual e plurianual;\n\nb) Apreciar o relatório e contas da ULS;\n\nc) Apreciar todas as informações que tenha por necessárias para o acompanhamento da actividade da ULS;\n\nd) Emitir recomendações tendo em vista o melhor funcionamento dos serviços a prestar às populações, tendo em conta os recursos disponíveis."
+  },
+  "216401551": {
+   "fragment_id": "216406836",
+   "type": 11,
+   "heading": "Artigo 20.º — Funcionamento do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Funcionamento do conselho consultivo\n\n1 - O conselho consultivo reúne, pelo menos, uma vez por ano e as suas deliberações são tomadas por maioria simples e constam de acta, tendo o presidente voto de qualidade.\n\n2 - As reuniões são convocadas pelo presidente com a antecedência mínima de cinco dias úteis, devendo ser indicados na convocatória a data, a hora e o local em que se realizam, bem como a respectiva ordem de trabalhos.\n\n3 - Se à hora indicada não existir quórum, a reunião efectua-se uma hora depois, podendo o conselho deliberar por maioria dos votos dos membros presentes.\n\n4 - As demais regras de funcionamento do conselho consultivo são definidas em regulamento próprio, o qual deve incluir a previsão da substituição dos seus membros em situações de falta ou impedimento."
+  },
+  "216401552": {
+   "fragment_id": "216406837",
+   "type": 8,
+   "heading": "Secção V — Comissões de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Comissões de apoio técnico"
+  },
+  "216401553": {
+   "fragment_id": "216406838",
+   "type": 11,
+   "heading": "Artigo 21.º — Constituição de comissões de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Constituição de comissões de apoio técnico\n\n1 - As comissões de apoio técnico são órgãos de carácter consultivo que têm por função colaborar com o conselho de administração, por sua iniciativa ou a pedido daquele, nas matérias da sua competência.\n\n2 - Na ULS são imperativamente constituídas as seguintes comissões:\n\na) Ética;\n\nb) Qualidade e segurança do doente;\n\nc) Controlo da infecção nosocomial;\n\nd) Farmácia e terapêutica.\n\n3 - Sem prejuízo do disposto no número anterior, podem ser criadas pelo conselho de administração outras comissões de apoio técnico que, nos termos da lei, da actividade da ULS e da legis artis, se justifiquem, devendo a sua estrutura, composição e funcionamento constar do regulamento interno.\n\n4 - Compete ao conselho de administração, sob proposta do director clínico, a designação do presidente e dos membros das comissões de apoio técnico."
+  },
+  "216401554": {
+   "fragment_id": "216406839",
+   "type": 1,
+   "heading": "Capítulo III — Avaliação, controlo e prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Avaliação, controlo e prestação de contas"
+  },
+  "216401555": {
+   "fragment_id": "216406840",
+   "type": 11,
+   "heading": "Artigo 22.º — Instrumentos de gestão previsional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Instrumentos de gestão previsional\n\nA gestão financeira e patrimonial da ULS rege-se, designadamente, pelos seguintes instrumentos de gestão previsional:\n\na) Planos plurianuais e anuais de actividades, de investimento e financeiros, com um horizonte de três anos;\n\nb) Orçamento anual de investimento;\n\nc) Orçamento anual de exploração, desdobrado em orçamento de proveitos e orçamento de custos;\n\nd) Orçamento anual de tesouraria;\n\ne) Balanço previsional;\n\nf) Contratos-programa externos e internos."
+  },
+  "216401556": {
+   "fragment_id": "216406841",
+   "type": 11,
+   "heading": "Artigo 23.º — Reservas e fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reservas e fundos\n\n1 - A ULS deve fazer as reservas julgadas necessárias, sem prejuízo da obrigação relativa à existência de:\n\na) Reserva legal;\n\nb) Reserva para investimentos.\n\n2 - Uma percentagem não inferior a 20 % dos resultados de cada exercício, apurados de acordo com as normas contabilísticas vigentes, é destinada à constituição da reserva legal.\n\n3 - A reserva legal pode ser utilizada para cobrir eventuais prejuízos de exercício.\n\n4 - Integram a reserva para investimentos, entre outras receitas:\n\na) A parte dos resultados apurados em cada exercício que lhe seja anualmente destinada;\n\nb) As receitas provenientes de comparticipações, dotações, subsídios, subvenções ou quaisquer compensações financeiras de que a ULS seja beneficiária e destinadas a esse fim, nos termos permitidos pelas normas contabilísticas em vigor.\n\n5 - Sem prejuízo da constituição das reservas referidas no n.º 1, os resultados de cada exercício têm o destino que venha a ser determinado por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde."
+  },
+  "216401557": {
+   "fragment_id": "216406842",
+   "type": 11,
+   "heading": "Artigo 24.º — Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contabilidade\n\nA ULS segue o Plano Oficial de Contabilidade do Ministério da Saúde, com as adaptações necessárias a estabelecer por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da saúde."
+  },
+  "216401558": {
+   "fragment_id": "216406843",
+   "type": 11,
+   "heading": "Artigo 25.º — Documentos de prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Documentos de prestação de contas\n\nOs instrumentos de prestação de contas da ULS a elaborar anualmente com referência a 31 de Dezembro de cada ano são, designadamente, os seguintes:\n\na) Relatório do conselho de administração dando conta da forma como foram atingidos os objectivos da ULS e analisando a eficiência desta nos vários domínios de actuação;\n\nb) Relatório sobre a execução anual do plano plurianual de investimentos;\n\nc) Balanço e demonstração de resultados;\n\nd) Anexo ao balanço e demonstração de resultados;\n\ne) Demonstração de fluxos de caixa;\n\nf) Relação dos empréstimos contraídos a médio e longo prazos;\n\ng) Certificação legal de contas;\n\nh) Proposta de aplicação dos resultados;\n\ni) Relatório e parecer do fiscal único."
+  },
+  "216401573": {
+   "fragment_id": "216406790",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada, com a natureza de entidade pública empresarial, a Unidade Local de Saúde (ULS) de Castelo Branco, E. P. E., por integração do Hospital Amato Lusitano - Castelo Branco, com os agrupamentos de centros de saúde da Beira Interior Sul e do Pinhal Interior Sul, que incluem os seguintes centros de saúde:\n\na) Castelo Branco;\n\nb) Idanha-a-Nova;\n\nc) Penamacor;\n\nd) Vila Velha de Ródão;\n\ne) Oleiros;\n\nf) Proença-a-Nova;\n\ng) Sertã;\n\nh) Mação;\n\ni) Vila de Rei.\n\n2 - (Revogado;)\n\n3 - Com dispensa de quaisquer formalidades legais, considera-se extinto, na data de entrada em vigor do presente decreto-lei, o Hospital Amato Lusitano - Castelo Branco.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401560": {
+   "fragment_id": "216406794",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza e regime",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 4.º — Natureza e regime\n\n1 - A ULS de Castelo Branco, E. P. E., é uma pessoa colectiva de direito público de natureza empresarial, dotada de autonomia administrativa, financeira e patrimonial, nos termos do Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n2 - A ULS de Castelo Branco, E. P. E., rege-se pelo regime jurídico aplicável às entidades públicas empresariais, com as especificidades previstas no presente decreto-lei e nos seus estatutos, bem como no respectivo regulamento interno e nas normas em vigor para o Serviço Nacional de Saúde que não contrariem as normas aqui previstas.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401561": {
+   "fragment_id": "216406795",
+   "type": 11,
+   "heading": "Artigo 5.º — Superintendência",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 5.º — Superintendência\n\n1 - Compete ao membro do Governo responsável pela área da saúde:\n\na) Aprovar os objectivos e estratégias da ULS de Castelo Branco, E. P. E.;\n\nb) Dar orientações, recomendações e directivas para prossecução das atribuições da ULS de Castelo Branco, E. P. E., designadamente em matérias transversais e comuns ao Serviço Nacional de Saúde;\n\nc) Definir as normas de organização e de actuação hospitalar;\n\nd) Homologar o regulamento interno da ULS de Castelo Branco, E. P. E.;\n\ne) Exigir todas as informações consideradas necessárias ao acompanhamento da actividade da ULS de Castelo Branco, E. P. E., bem como determinar auditorias e inspecções ao seu funcionamento.\n\n2 - O membro do Governo responsável pela área da saúde pode delegar os poderes referidos no número anterior no conselho de administração da administração regional de saúde territorialmente competente.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401562": {
+   "fragment_id": "216406796",
+   "type": 11,
+   "heading": "Artigo 6.º — Capacidade",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 6.º — Capacidade\n\nA capacidade jurídica da ULS de Castelo Branco, E. P. E., abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objecto e das suas atribuições, sendo da sua exclusiva competência a cobrança das receitas e taxas provenientes da respectiva actividade.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401563": {
+   "fragment_id": "216406797",
+   "type": 11,
+   "heading": "Artigo 7.º — Organização",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 7.º — Organização\n\n1 - A ULS de Castelo Branco, E. P. E., organiza-se de acordo com as normas e critérios genéricos definidos pelo membro do Governo responsável pela área da saúde, em função das suas atribuições e áreas de actuação específicas, devendo o respectivo regulamento interno prever a estrutura orgânica com base em serviços agregados em departamentos e englobando unidades funcionais.\n\n2 - O regulamento interno referido no número anterior deve estabelecer as normas que permitam a efectiva articulação entre os cuidados de saúde primários, diferenciados e continuados, no âmbito de uma prestação integrada de serviços, com respeito pelo disposto no Decreto-Lei n.º 28/2008, de 22 de Fevereiro.\n\n3 - As estruturas orgânicas da ULS de Castelo Branco, E. P. E., devem desenvolver a sua acção por centros de responsabilidade que permitam a realização, internamente contratualizada, dos respectivos programas de actividade com autonomia e responsabilidade, de modo a possibilitar formas de trabalho centradas, prioritariamente, no doente, de acordo com as boas práticas de gestão clínica.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401564": {
+   "fragment_id": "216406799",
+   "type": 11,
+   "heading": "Artigo 8.º — Tutela",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 8.º — Tutela\n\nCompete aos membros do Governo responsáveis pelas áreas das finanças e da saúde:\n\na) Aprovar os planos de actividades, os orçamentos e os documentos de prestação de contas da ULS de Castelo Branco, E. P. E.;\n\nb) Autorizar as aquisições e venda de imóveis, bem como a sua oneração, mediante parecer prévio do respectivo fiscal único;\n\nc) Autorizar a realização de investimentos, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados e sejam de valor superior a 2 % do capital estatutário da ULS de Castelo Branco, E. P. E., mediante parecer favorável do fiscal único;\n\nd) Determinar os aumentos e reduções do capital estatutário da ULS de Castelo Branco, E. P. E.;\n\ne) Autorizar a contracção de empréstimos de valor, individual ou acumulado, igual ou superior a 10 % do capital estatutário da ULS de Castelo Branco, E. P. E.;\n\nf) Autorizar cedências de exploração de serviços, bem como a constituição de associações com outras entidades públicas, com vista a uma melhor prossecução das atribuições da ULS de Castelo Branco, E. P. E.;\n\ng) Autorizar a participação da ULS de Castelo Branco, E. P. E., em sociedades anónimas cujo capital social seja por ela maioritariamente detido e que tenham por objecto a prestação de cuidados de saúde;\n\nh) Autorizar, sem prejuízo do disposto na alínea anterior, para a prossecução dos pertinentes objectivos estratégicos, a participação da ULS de Castelo Branco, E. P. E., no capital social de outras sociedades, nos termos do artigo 37.º do Decreto-Lei n.º 558/99, de 17 de Dezembro;\n\ni) Autorizar os demais actos que, nos termos da legislação aplicável, careçam de aprovação tutelar.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401565": {
+   "fragment_id": "216406800",
+   "type": 11,
+   "heading": "Artigo 9.º — Controlo financeiro",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 9.º — Controlo financeiro\n\nSem prejuízo do disposto nos artigos 12.º e 13.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, deve a ULS de Castelo Branco, E. P. E., submeter aos membros do Governo responsáveis pelas áreas das finanças e da saúde:\n\na) O plano de actividades e o orçamento, até ao final do mês de Outubro de cada ano;\n\nb) Os documentos de prestação de contas, até ao final do mês de Março de cada ano;\n\nc) Os indicadores de actividade, económico-financeiros, de recursos humanos e outros definidos pelos membros do Governo responsáveis pelas áreas das finanças e da saúde, com a periodicidade que seja estabelecida.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401566": {
+   "fragment_id": "216406801",
+   "type": 11,
+   "heading": "Artigo 10.º — Financiamento",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 10.º — Financiamento\n\n1 - A ULS de Castelo Branco, E. P. E., celebra um contrato-programa com o serviço do Ministério da Saúde com competência para outorgá-lo, no qual se estabelecem as formas de pagamento, os objectivos e metas qualitativas e quantitativas, a sua calendarização, os meios e instrumentos para os prosseguir, designadamente os de investimento, os indicadores para avaliação do desempenho dos serviços e do nível de satisfação dos utentes e as demais obrigações assumidas pelas partes, tendo como referencial os preços praticados no mercado para os diversos actos clínicos.\n\n2 - O endividamento da ULS de Castelo Branco, E. P. E., não pode exceder, em qualquer momento, o limite de 30 % do respectivo capital estatutário.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401567": {
+   "fragment_id": "216406802",
+   "type": 11,
+   "heading": "Artigo 11.º — Aquisição de bens e serviços",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 11.º — Aquisição de bens e serviços\n\n1 - À aquisição de bens e serviços é correspondentemente aplicável o regime previsto para as entidades públicas empresariais designadas por hospitais, E. P. E.\n\n2 - O regulamento interno da ULS de Castelo Branco, E. P. E., deve garantir o cumprimento dos princípios gerais da livre concorrência, transparência e boa gestão, designadamente a fundamentação das decisões tomadas.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401568": {
+   "fragment_id": "216406804",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime de pessoal",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 12.º — Regime de pessoal\n\n1 - Os trabalhadores da ULS de Castelo Branco, E. P. E., estão sujeitos ao regime do contrato de trabalho previsto no Código do Trabalho, bem como ao regime disposto em diplomas que definam o regime legal de carreira de profissões da saúde, em demais legislação laboral, em normas imperativas sobre títulos profissionais, em instrumentos de regulamentação colectiva de trabalho e em regulamentos internos.\n\n2 - A ULS de Castelo Branco, E. P. E., deve prever, anualmente, uma dotação global de pessoal, através do respectivo orçamento, considerando os planos de actividade.\n\n3 - A ULS de Castelo Branco, E. P. E., não pode celebrar contratos de trabalho para além da dotação referida no número anterior.\n\n4 - Os processos de recrutamento devem assentar na adequação dos profissionais às funções a desenvolver, bem como assegurar os princípios da igualdade de oportunidades, da imparcialidade, da boa-fé e da não-discriminação e da publicidade, podendo este ser excepcionado nos casos de manifesta urgência, devidamente fundamentada.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401569": {
+   "fragment_id": "216406806",
+   "type": 11,
+   "heading": "Artigo 14.º — Opção pelo contrato de trabalho nos termos do Código do Trabalho",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 14.º — Opção pelo contrato de trabalho nos termos do Código do Trabalho\n\nA opção definitiva pelo regime do contrato de trabalho nos termos do Código do Trabalho é feita, individual e definitivamente, mediante acordo escrito com o conselho de administração, tornando-se efectiva a cessação do vínculo à função pública com a sua publicação no Diário da República, data em que o contrato de trabalho celebrado com a ULS de Castelo Branco, E. P. E., passa a produzir efeitos.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401570": {
+   "fragment_id": "216406809",
+   "type": 11,
+   "heading": "Artigo 16.º — Cessação dos mandatos e das comissões de serviço",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 16.º — Cessação dos mandatos e das comissões de serviço\n\n1 - Com a entrada em vigor do presente decreto-lei cessam automaticamente os mandatos dos membros dos conselhos de administração e dos órgãos de direcção das unidades integradas na ULS de Castelo Branco, E. P. E., mantendo-se os mesmos em gestão corrente até à nomeação dos novos titulares.\n\n2 - Cessam igualmente as comissões de serviço dos titulares dos cargos de direcção e chefia dos mesmos estabelecimentos e serviços de saúde, mantendo-se os respectivos titulares em exercício de funções até à designação dos novos titulares.\n\n3 - A designação dos novos titulares de cargos de direcção e chefia faz-se nos termos previstos no Código do Trabalho.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401571": {
+   "fragment_id": "216406810",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentos internos",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 17.º — Regulamentos internos\n\n1 - Os regulamentos internos da ULS de Castelo Branco, E. P. E., devem ser elaborados e submetidos a homologação do membro do Governo responsável pela área da saúde no prazo de 120 dias a contar da data de entrada em vigor do presente decreto-lei.\n\n2 - Deve ser previsto em regulamento interno o regime de organização e funcionamento dos centros de saúde integrados na ULS de Castelo Branco, E. P. E., com respeito pelo disposto no artigo 42.º-A do Decreto-Lei n.º 28/2008, de 22 de Fevereiro.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401572": {
+   "fragment_id": "216406811",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": "2015-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor em 1 de Janeiro de 2010.\n\nVisto e aprovado em Conselho de Ministros de 3 de Setembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Ana Maria Teodoro Jorge.\n\nPromulgado em 19 de Outubro de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 21 de Outubro de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  },
+  "216401559": {
+   "fragment_id": "216406844",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DA UNIDADE LOCAL DE SAÚDE DE CASTELO BRANCO, E. P. E.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTOS DA UNIDADE LOCAL DE SAÚDE DE CASTELO BRANCO, E. P. E."
+  },
+  "223940420": {
+   "fragment_id": "216406790",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2023-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), em vigor a partir de 2023-11-08",
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada, com a natureza de entidade pública empresarial, a Unidade Local de Saúde (ULS) de Castelo Branco, E. P. E., por integração do Hospital Amato Lusitano - Castelo Branco, com os agrupamentos de centros de saúde da Beira Interior Sul e do Pinhal Interior Sul, que incluem os seguintes centros de saúde:\n\na) Castelo Branco\n\nb) Idanha-a-Nova;\n\nc) Penamacor;\n\nd) Vila Velha de Ródão;\n\ne) Oleiros;\n\nf) Proença-a-Nova;\n\ng) Sertã;\n\nh) Mação;\n\ni) (Revogada.)\n\n2 - (Revogado;)\n\n3 - Com dispensa de quaisquer formalidades legais, considera-se extinto, na data de entrada em vigor do presente decreto-lei, o Hospital Amato Lusitano - Castelo Branco.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 102/2023 - Diário da República n.º 215/2023, Série I de 2023-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2023-223906278), em vigor a partir de 2023-11-08\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 12/2015 - Diário da República n.º 17/2015, Série I de 2015-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), em vigor a partir de 2015-01-31"
+  }
+ }
+}

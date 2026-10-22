@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:259725:por
+title: Portaria n.º 592/93
+short_title: null
+summary: Actualiza os montantes das tabelas de remunerações base do pessoal do Instituto Nacional de Pilotagem dos Portos
+  (INPP) para 1993
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Mar
+proposing_entity: null
+official_number: 592/93
+official_date: null
+publication_date: '1993-06-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/1993, Série I-B de 1993-06-15
+  number: '138'
+  series: I
+  supplement: null
+  pages: 3184 - 3184
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/06/138b00/31843184.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/592/1993/06/15/p/dre/pt/html
+  oj: null
+  dre: '259725'
+  dre_path: /dr/detalhe/portaria/592-1993-259725
+  internal: pt:dre:259725:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/592-1993-259725
+  metadata_url: https://data.dre.pt/eli/port/592/1993/06/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/592-1993-259725
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-06-15T00:00:00Z'
+integrity:
+  source_sha256: 3ace2aa7c829388baa17ce87811521cab064820cab8072d6c51b2d9e98b86bb1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-592-259725.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Equivalência de Categorias
+- Remuneração Acessória
+- Instituto Nacional de Pilotagem dos Portos
+- Remuneração
+- Senha de Presença
+- Trabalhador Portuário
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/878/1992/09/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/878/1992/09/09/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 592/93
+
+de 15 de Junho
+
+Manda o Governo, pelo Ministro do Mar, nos termos do n.º 1 do artigo 53.º do [Decreto-Lei n.º 361/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1978-429270), de 27 de Novembro, e do n.º 1 do artigo 40.º do Estatuto do Pessoal do Instituto Nacional de Pilotagem dos Portos (INPP) (anexo I daquele decreto-lei), o seguinte:
+
+1.º Os montantes das tabelas de remunerações base resultantes da [Portaria n.º 878/92](https://diariodarepublica.pt/dr/detalhe/portaria/878-1992-234730), de 9 de Setembro, são actualizados em 5%, com arredondamento para a centena de escudos imediatamente superior.
+
+2.º As remunerações acessórias percentuais actualmente em vigor no INPP mantêm os seus regimes de abono.
+
+3.º O valor das senhas a perceber pela presença nos órgãos colegiais do INPP, nos termos dos n.os 2 e 3 do artigo 42.º do Estatuto do Pessoal, é fixado em 1600$00.
+
+4.º A categoria de tesoureiro passa a ter, no topo, o nível 16, equivalente ao enquadramento de igual categoria na grelha salarial das administrações e juntas portuárias.
+
+5.º A presente portaria produz efeitos a partir de 1 de Janeiro de 1993.
+
+Ministério do Mar.
+
+**Assinada em 25 de Maio de 1993.**
+
+**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**

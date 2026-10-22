@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:607327:por
+title: Portaria n.º 369/82
+short_title: null
+summary: Cria 1 lugar de assessor, letra B, no quadro do pessoal da Secretaria de Estado dos Negócios Estrangeiros
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, dos Negócios Estrangeiros e da Reforma Administrativa
+proposing_entity: null
+official_number: 369/82
+official_date: null
+publication_date: '1982-04-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 86/1982, Série I de 1982-04-14
+  number: '86'
+  series: I
+  supplement: null
+  pages: 886 - 886
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08600/08860886.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '607327'
+  dre_path: /dr/detalhe/portaria/369-1982-607327
+  internal: pt:dre:607327:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/369-1982-607327
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/369-1982-607327
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-05-31T00:00:00Z'
+integrity:
+  source_sha256: 08399efe8a35e276464ce4ba0577d360988a8329cf12b85d77c112f6a3d5147d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-369-607327.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:226992:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 369/82
+
+de 14 de Abril
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelos Ministros dos Negócios Estrangeiros e da Reforma Administrativa, ao abrigo do disposto no artigo 14.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, criar 1 lugar de assessor, letra B, o qual será extinto quando vagar, no quadro do pessoal da Secretaria de Estado dos Negócios Estrangeiros, aprovado pela [Portaria n.º 1096/80](https://diariodarepublica.pt/dr/detalhe/portaria/1096-1980-457074), de 27 de Dezembro, com as alterações constantes do artigo 10.º do [Decreto-Lei n.º 486/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/486-1979-365927), de 18 de Dezembro, da [Portaria n.º 984/80](https://diariodarepublica.pt/dr/detalhe/portaria/984-1980-458259), de 20 de Novembro, do [Decreto-Lei n.º 573/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/573-1980-457071), do [Decreto n.º 144/80](https://diariodarepublica.pt/dr/detalhe/decreto/144-1980-457179), rectificado no Diário da República, 1.ª série, n.º 49, de 27 de Fevereiro de 1981, e do [Decreto n.º 145/80](https://diariodarepublica.pt/dr/detalhe/decreto/145-1980-457175), estes 3 últimos de 27 de Dezembro.
+
+Ministérios das Finanças e do Plano, dos Negócios Estrangeiros e da Reforma Administrativa, 27 de Março de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - O Ministro dos Negócios Estrangeiros, André Roberto Delaunay Gonçalves Pereira. - Pelo Ministro da Reforma Administrativa, António Jorge de Figueiredo Lopes, Secretário de Estado da Reforma Administrativa.

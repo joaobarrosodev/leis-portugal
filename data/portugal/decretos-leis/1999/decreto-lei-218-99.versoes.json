@@ -1,0 +1,321 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:309009:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-221516433",
+ "dre_path": "/dr/detalhe/decreto-lei/218-1999-309009",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-06-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221562075",
+    "221562076",
+    "221562077",
+    "221562078",
+    "221562079",
+    "221562080",
+    "221562081",
+    "221562082",
+    "221562083",
+    "221562084",
+    "221562085",
+    "221562086",
+    "221562087",
+    "221562088",
+    "221562089",
+    "221562090",
+    "221562091",
+    "221562092",
+    "221562093"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243769:por",
+     "title": "Lei n.º 64-B/2011",
+     "published": "2011-12-30",
+     "dre_path": "/dr/detalhe/lei/64-b-2011-243769"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "221562075",
+    "221562076",
+    "221562100",
+    "221562098",
+    "221562079",
+    "221562080",
+    "221562081",
+    "221562082",
+    "221562099",
+    "221562101",
+    "221562085",
+    "221562086",
+    "221562102",
+    "221562103",
+    "221562104",
+    "221562105",
+    "221562091",
+    "221562092",
+    "221562093",
+    "221562094"
+   ]
+  }
+ ],
+ "fragments": {
+  "221562075": {
+   "fragment_id": "221516434",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 218/99\n\nde 15 de Junho\n\nA necessidade de estabelecer um regime processual específico para a cobrança dos créditos referentes aos cuidados de saúde tem sido reconhecida desde há muito.\n\nFoi assim que o Decreto-Lei n.º 46301 estabeleceu uma tramitação específica de cobrança destes créditos, na tradição do qual foi publicado o Decreto-Lei n.º 147/83, de 17 de Abril.\n\nAs alterações que entretanto foram introduzidas no sistema de saúde, designadamente no Serviço Nacional de Saúde, atribuíram às receitas próprias dos serviços e estabelecimentos de saúde maior importância. De acordo com a base XXXIII da Lei n.º 48/90, de 24 de Agosto (Lei de Bases da Saúde), os serviços e estabelecimentos do Serviço Nacional de Saúde podem cobrar receitas próprias, onde se incluem as referentes aos cuidados de saúde prestados e cujos encargos sejam suportados por outras entidades. Esta circunstância induziu a que se procurassem meios rápidos e eficazes de cobrar as dívidas hospitalares.\n\nNeste enquadramento foi publicado o Decreto-Lei n.º 194/92, de 8 de Setembro, o qual veio atribuir a natureza de título executivo às certidões de dívidas emitidas pelos hospitais, na esteira do que já acontecia desde a Lei n.º 1981, de 3 de Abril de 1940, para os Hospitais Civis de Lisboa. No entanto, esta solução revelou-se inadequada aos objectivos enunciados. De facto, a existência de título executivo não veio conferir maior celeridade aos procedimentos judiciais de execução das dívidas hospitalares, porquanto, na generalidade dos casos, a existência do crédito reclamado judicialmente e a verdadeira identidade do devedor eram discutidas em sede de embargos à execução, ou seja, seguindo a tramitação de uma acção declarativa.\n\nPor outro lado, a existência de uma acção executiva sem que existisse a necessária certeza quanto à identidade do devedor gerou a necessidade de estabelecer um conjunto de regras complexas para determinar a legitimidade passiva na referida acção executiva e que na prática judiciária se revelaram de difícil aplicação, com indesejáveis dúvidas na jurisprudência.\n\nAcresce a tudo isto que foram suscitados problemas de constitucionalidade de algumas normas na interpretação que delas foi feita.\n\nNeste contexto, o Governo, na perspectiva de simplificar os procedimentos, mas sem afastar os princípios gerais de direito relativamente ao reconhecimento e execução dos direitos, entendeu proceder à alteração das regras processuais do regime de cobrança das dívidas hospitalares.\n\nAssim, neste diploma é, de novo, e como regra geral, consagrada a acção declarativa, com algumas especialidades.\n\nAfigurou-se ainda conveniente estabelecer uma regra sobre formulação do pedido em processo penal, com o dever de notificação oficiosa, para que as instituições e serviços integrados no Serviço Nacional de Saúde possam reclamar os seus créditos, concretizando assim o princípio da economia processual.\n\nConsagram-se também formas consensuais de resolução dos litígios inerentes à cobrança das dívidas das entidades seguradoras, com o duplo objectivo de a tornar mais eficiente e simultaneamente diminuir o número de processos pendentes nas instâncias judiciais. Neste sentido, estabelece-se uma possibilidade genérica de recurso à arbitragem e admite-se a institucionalização desta forma de resolução de conflitos.\n\nCom o objectivo de tornar mais célere o pagamento das dívidas às instituições e serviços integrados no Serviço Nacional de Saúde, estabelecem-se regras especiais no âmbito dos acidentes de viação abrangidos pelo seguro de responsabilidade civil automóvel, independentemente do apuramento de responsabilidade.\n\nForam ouvidos a Associação Portuguesa de Seguros e o Instituto de Seguros de Portugal.\n\nAssim, ao abrigo do disposto no artigo 198.º, n.º 1, alínea a), da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "221562076": {
+   "fragment_id": "221516435",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "221562077": {
+   "fragment_id": "221516436",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime de cobrança de dívidas pelas instituições e serviços integrados no Serviço Nacional de Saúde em virtude dos cuidados de saúde prestados."
+  },
+  "221562078": {
+   "fragment_id": "221516437",
+   "type": 11,
+   "heading": "Artigo 2.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pagamento\n\nO pagamento dos cuidados de saúde prestados pelas entidades a que se refere o artigo anterior deve efectuar-se no prazo de 30 dias a contar da interpelação, a realizar por quaisquer das formas previstas no artigo 70.º do Código do Procedimento Administrativo.\n\n> Nota: [Artigo 1.º, Lei Orgânica n.º 2/2004 - Diário da República n.º 111/2004, Série I-A de 2004-05-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2004-264283) A suspensão do presente artigo vigora de 1 de Junho a 11 de Julho de 2004, no contexto extraordinário da fase final do Campeonato Europeu de Futebol - Euro 2004"
+  },
+  "221562079": {
+   "fragment_id": "221516438",
+   "type": 11,
+   "heading": "Artigo 3.º — Prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prescrição\n\nOs créditos a que se refere o presente diploma prescrevem no prazo de três anos, contados da data da cessação da prestação dos serviços que lhes deu origem."
+  },
+  "221562080": {
+   "fragment_id": "221516439",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidade\n\n1 - As entidades a que se referem as alíneas b), c) e d) do n.º 1 do artigo 23.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, podem ser directamente demandadas pelas instituições e serviços integrados no Serviço Nacional de Saúde pelos encargos resultantes da prestação de cuidados de saúde.\n\n2 - Os assistidos devem indicar a existência de apólice de seguro válida e eficaz que cubra os cuidados de saúde prestados."
+  },
+  "221562081": {
+   "fragment_id": "221516440",
+   "type": 8,
+   "heading": "Secção II — Disposições processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições processuais"
+  },
+  "221562082": {
+   "fragment_id": "221516441",
+   "type": 11,
+   "heading": "Artigo 5.º — Alegação e prova",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alegação e prova\n\nNas acções para cobrança das dívidas de que trata o presente diploma incumbe ao credor a alegação do facto gerador da responsabilidade pelos encargos e a prova da prestação de cuidados de saúde, devendo ainda, se for caso disso, indicar o número da apólice de seguro."
+  },
+  "221562083": {
+   "fragment_id": "221516442",
+   "type": 11,
+   "heading": "Artigo 6.º — Formulação de pedido em processo penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formulação de pedido em processo penal\n\n1 - As instituições e serviços integrados no Serviço Nacional de Saúde podem constituir-se partes civis em processo penal relativo a facto que tenha dado origem à prestação de cuidados de saúde, para dedução de pedido de pagamento das respectivas despesas.\n\n2 - Para os efeitos previstos no número anterior, o despacho de acusação ou, não o havendo, o despacho de pronúncia é oficiosamente notificado às instituições e serviços integrados no Serviço Nacional de Saúde, para, querendo, deduzirem o pedido, em requerimento articulado, no prazo de 20 dias.\n\n> Nota: [Artigo 1.º, Lei Orgânica n.º 2/2004 - Diário da República n.º 111/2004, Série I-A de 2004-05-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2004-264283) A suspensão do presente artigo vigora de 1 de Junho a 11 de Julho de 2004, no contexto extraordinário da fase final do Campeonato Europeu de Futebol - Euro 2004"
+  },
+  "221562084": {
+   "fragment_id": "221516443",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência territorial\n\nAs acções previstas no presente diploma devem ser propostas no tribunal da sede da entidade credora.\n\n> Nota: [Acórdão n.º 123/2004 - Diário da República n.º 76/2004, Série I-A de 2004-03-30](https://diariodarepublica.pt/dr/detalhe/acordao/123-2004-217165) Limita os efeitos da inconstitucionalidade de modo que essa inconstitucionalidade só produza efeitos após a publicação do presente acórdão no Diário da República, exceptuando-se, porém, os processos pendentes em que tenha sido ou seja ainda possível arguir a incompetência relativa do Tribunal, nos termos da legislação processual aplicável."
+  },
+  "221562085": {
+   "fragment_id": "221516444",
+   "type": 11,
+   "heading": "Artigo 8.º — Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Arbitragem\n\n1 - As instituições e serviços integrados no Serviço Nacional de Saúde e as entidades responsáveis pelos encargos decorrentes das prestações de saúde podem acordar no recurso à arbitragem, nos termos da lei, para a resolução de conflitos sobre a matéria a que respeita o artigo 1.º\n\n2 - O Instituto de Gestão Informática e Financeira da Saúde, em representação das instituições e serviços integrados no Serviço Nacional de Saúde, fica autorizado a realizar arbitragens voluntárias institucionalizadas, através da criação, por protocolo, de um centro de arbitragem de carácter especializado e permanente, que actuará no âmbito dos conflitos referidos no número anterior."
+  },
+  "221562086": {
+   "fragment_id": "221516445",
+   "type": 8,
+   "heading": "Secção III — Dívidas resultantes de acidentes de viação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Dívidas resultantes de acidentes de viação"
+  },
+  "221562087": {
+   "fragment_id": "221516446",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamento sem apuramento de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamento sem apuramento de responsabilidade\n\n1 - Independentemente do apuramento do responsável, as instituições e serviços integrados no Serviço Nacional de Saúde poderão exigir das seguradoras o pagamento dos encargos decorrentes dos cuidados de saúde prestados a vítimas de acidentes de viação, desde que abrangidos pelo seguro obrigatório de responsabilidade civil, válido e eficaz, e até ao limite de 1000 contos por acidente e lesado, nos termos dos números seguintes.\n\n2 - No caso de a assistência ser prestada aos ocupantes dos veículos envolvidos no acidente, cada seguradora suporta os encargos correspondentes às pessoas transportadas no veículo que segurar, com excepção do condutor.\n\n3 - No caso de atropelamento, a seguradora do veículo atropelante suporta os encargos correspondentes à prestação de cuidados à vítima.\n\n4 - O pagamento efectuado pela seguradora, nos termos previstos neste artigo, não faz presumir o reconhecimento de responsabilidade civil ou criminal pela produção do acidente, nem determina, por si só, a obrigação de reparar quaisquer outros danos dele emergentes.\n\n5 - Às dívidas resultantes de acidentes de viação não incluídas na previsão do n.º 1 é aplicável o regime geral de cobrança de dívidas previsto neste diploma."
+  },
+  "221562088": {
+   "fragment_id": "221516447",
+   "type": 11,
+   "heading": "Artigo 10.º — Prazo de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Prazo de pagamento\n\n1 - Os pagamentos a que se refere o artigo anterior devem ser feitos no prazo de 90 dias após a apresentação da factura.\n\n2 - Sem prejuízo do disposto no n.º 1 do artigo 9.º, se a seguradora interpelada não se considerar responsável pelo pagamento dos cuidados de saúde, deve indicar, dentro do prazo referido no número anterior, os respectivos fundamentos.\n\n3 - No caso de a factura suscitar dúvidas fundadas sobre a existência ou o montante da dívida, deverá a instituição credora, para que o crédito seja exigível, fazer prova dos factos em que baseia a reclamação, em conferência de médicos nomeados pelas partes."
+  },
+  "221562089": {
+   "fragment_id": "221516448",
+   "type": 11,
+   "heading": "Artigo 11.º — Sub-rogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Sub-rogação\n\nAs seguradoras ficam sub-rogadas nos direitos das instituições e serviços integrados no Serviço Nacional de Saúde relativamente aos montantes pagos nos termos do artigo 9.º"
+  },
+  "221562090": {
+   "fragment_id": "221516449",
+   "type": 11,
+   "heading": "Artigo 12.º — Reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reembolso\n\n1 - As seguradoras têm direito ao reembolso por parte das instituições e serviços integrados no Serviço Nacional de Saúde, no caso de cuidados de saúde prestados à vítima a que se refere o n.º 3 do artigo 9.º, em virtude de acidente de viação da responsabilidade desta.\n\n2 - O reembolso referido no número anterior deve ser feito no prazo de 90 dias após a data da interpelação."
+  },
+  "221562091": {
+   "fragment_id": "221516450",
+   "type": 8,
+   "heading": "Secção IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Disposições transitórias e finais"
+  },
+  "221562092": {
+   "fragment_id": "221516451",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposição transitória\n\nO disposto no artigo 9.º apenas se aplica aos créditos emergentes de cuidados de saúde prestados a vítimas de acidentes de viação ocorridos a partir das 0 horas do dia da entrada em vigor do presente diploma."
+  },
+  "221562093": {
+   "fragment_id": "221516452",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 194/92, de 8 de Setembro, sem prejuízo da sua aplicação aos processos pendentes."
+  },
+  "221562100": {
+   "fragment_id": "221516436",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece o regime de cobrança de dívidas pelas instituições e serviços integrados no Serviço Nacional de Saúde em virtude dos cuidados de saúde prestados.\n\n2 - Para efeitos do presente diploma, a realização das prestações de saúde consideram-se feitas ao abrigo de um contrato de prestação de serviços, sendo aplicável o regime jurídico das injunções.\n\n3 - Para efeitos do número anterior, o requerimento de injunção deve conter na exposição sucinta dos factos os seguintes elementos:\n\na) O nome do assistido;\n\nb) Causa da assistência;\n\nc) No caso de acidente que envolva veículos automóveis, matrícula ou número de apólice de seguro;\n\nd) No caso de acidente de trabalho, nome do empregador e número da apólice seguro, quando haja;\n\ne) No caso de agressão, o nome do agredido e data da agressão;\n\nf) Nos restantes casos em que sejam responsáveis seguradoras, deve ser indicada a apólice de seguro.\n\n> Alterado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "221562098": {
+   "fragment_id": "221516437",
+   "type": 11,
+   "heading": "Artigo 2.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Suspenso pelo/a [Lei Orgânica n.º 2/2004 - Diário da República n.º 111/2004, Série I-A de 2004-05-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2004-264283), suspenso a partir de 2004-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Pagamento\n\nO pagamento dos cuidados de saúde prestados pelas entidades a que se refere o artigo anterior deve efectuar-se no prazo de 30 dias a contar da interpelação, a realizar por quaisquer das formas previstas no artigo 70.º do Código do Procedimento Administrativo.\n\n> Nota: [Artigo 1.º, Lei Orgânica n.º 2/2004 - Diário da República n.º 111/2004, Série I-A de 2004-05-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2004-264283) A suspensão do presente artigo vigora de 1 de Junho a 11 de Julho de 2004, no contexto extraordinário da fase final do Campeonato Europeu de Futebol - Euro 2004\n\n> Suspenso pelo/a [Lei Orgânica n.º 2/2004 - Diário da República n.º 111/2004, Série I-A de 2004-05-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2004-264283), suspenso a partir de 2004-06-01"
+  },
+  "221562099": {
+   "fragment_id": "221516442",
+   "type": 11,
+   "heading": "Artigo 6.º — Formulação de pedido em processo penal",
+   "in_force_from": null,
+   "changed_by": [
+    "Suspenso pelo/a [Lei Orgânica n.º 2/2004 - Diário da República n.º 111/2004, Série I-A de 2004-05-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2004-264283), suspenso a partir de 2004-06-01"
+   ],
+   "markdown": "###### Artigo 6.º — Formulação de pedido em processo penal\n\n1 - As instituições e serviços integrados no Serviço Nacional de Saúde podem constituir-se partes civis em processo penal relativo a facto que tenha dado origem à prestação de cuidados de saúde, para dedução de pedido de pagamento das respectivas despesas.\n\n2 - Para os efeitos previstos no número anterior, o despacho de acusação ou, não o havendo, o despacho de pronúncia é oficiosamente notificado às instituições e serviços integrados no Serviço Nacional de Saúde, para, querendo, deduzirem o pedido, em requerimento articulado, no prazo de 20 dias.\n\n> Nota: [Artigo 1.º, Lei Orgânica n.º 2/2004 - Diário da República n.º 111/2004, Série I-A de 2004-05-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2004-264283) A suspensão do presente artigo vigora de 1 de Junho a 11 de Julho de 2004, no contexto extraordinário da fase final do Campeonato Europeu de Futebol - Euro 2004\n\n> Suspenso pelo/a [Lei Orgânica n.º 2/2004 - Diário da República n.º 111/2004, Série I-A de 2004-05-12](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2004-264283), suspenso a partir de 2004-06-01"
+  },
+  "221562101": {
+   "fragment_id": "221516443",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência territorial",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Declarada Inconstitucionalidade pelo/a [Acórdão n.º 123/2004 - Diário da República n.º 76/2004, Série I-A de 2004-03-30](https://diariodarepublica.pt/dr/detalhe/acordao/123-2004-217165)"
+   ],
+   "markdown": "###### Artigo 7.º — Competência territorial\n\nAs acções previstas no presente diploma devem ser propostas no tribunal da sede da entidade credora.\n\n> Nota: [Acórdão n.º 123/2004 - Diário da República n.º 76/2004, Série I-A de 2004-03-30](https://diariodarepublica.pt/dr/detalhe/acordao/123-2004-217165) Limita os efeitos da inconstitucionalidade de modo que essa inconstitucionalidade só produza efeitos após a publicação do presente acórdão no Diário da República, exceptuando-se, porém, os processos pendentes em que tenha sido ou seja ainda possível arguir a incompetência relativa do Tribunal, nos termos da legislação processual aplicável.\n\n> Revogado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Declarada Inconstitucionalidade pelo/a [Acórdão n.º 123/2004 - Diário da República n.º 76/2004, Série I-A de 2004-03-30](https://diariodarepublica.pt/dr/detalhe/acordao/123-2004-217165)"
+  },
+  "221562102": {
+   "fragment_id": "221516446",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamento sem apuramento de responsabilidade",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Pagamento sem apuramento de responsabilidade\n\n1 - Independentemente do apuramento do responsável, as instituições e serviços integrados no Serviço Nacional de Saúde poderão exigir das seguradoras o pagamento dos encargos decorrentes dos cuidados de saúde prestados a vítimas de acidentes de viação, desde que abrangidos pelo seguro obrigatório de responsabilidade civil, válido e eficaz, e até ao limite de 1000 contos por acidente e lesado, nos termos dos números seguintes.\n\n2 - No caso de a assistência ser prestada aos ocupantes dos veículos envolvidos no acidente, cada seguradora suporta os encargos correspondentes às pessoas transportadas no veículo que segurar, com excepção do condutor.\n\n3 - No caso de atropelamento, a seguradora do veículo atropelante suporta os encargos correspondentes à prestação de cuidados à vítima.\n\n4 - O pagamento efectuado pela seguradora, nos termos previstos neste artigo, não faz presumir o reconhecimento de responsabilidade civil ou criminal pela produção do acidente, nem determina, por si só, a obrigação de reparar quaisquer outros danos dele emergentes.\n\n5 - Às dívidas resultantes de acidentes de viação não incluídas na previsão do n.º 1 é aplicável o regime geral de cobrança de dívidas previsto neste diploma.\n\n> Revogado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "221562103": {
+   "fragment_id": "221516447",
+   "type": 11,
+   "heading": "Artigo 10.º — Prazo de pagamento",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Prazo de pagamento\n\n1 - Os pagamentos a que se refere o artigo anterior devem ser feitos no prazo de 90 dias após a apresentação da factura.\n\n2 - Sem prejuízo do disposto no n.º 1 do artigo 9.º, se a seguradora interpelada não se considerar responsável pelo pagamento dos cuidados de saúde, deve indicar, dentro do prazo referido no número anterior, os respectivos fundamentos.\n\n3 - No caso de a factura suscitar dúvidas fundadas sobre a existência ou o montante da dívida, deverá a instituição credora, para que o crédito seja exigível, fazer prova dos factos em que baseia a reclamação, em conferência de médicos nomeados pelas partes.\n\n> Revogado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "221562104": {
+   "fragment_id": "221516448",
+   "type": 11,
+   "heading": "Artigo 11.º — Sub-rogação",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Sub-rogação\n\nAs seguradoras ficam sub-rogadas nos direitos das instituições e serviços integrados no Serviço Nacional de Saúde relativamente aos montantes pagos nos termos do artigo 9.º\n\n> Revogado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "221562105": {
+   "fragment_id": "221516449",
+   "type": 11,
+   "heading": "Artigo 12.º — Reembolso",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Reembolso\n\n1 - As seguradoras têm direito ao reembolso por parte das instituições e serviços integrados no Serviço Nacional de Saúde, no caso de cuidados de saúde prestados à vítima a que se refere o n.º 3 do artigo 9.º, em virtude de acidente de viação da responsabilidade desta.\n\n2 - O reembolso referido no número anterior deve ser feito no prazo de 90 dias após a data da interpelação.\n\n> Revogado pelo/a Artigo 192.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "221562094": {
+   "fragment_id": "221516453",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Abril de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - José Eduardo Vera Cruz Jardim - Maria de Belém Roseira Martins Coelho Henriques de Pina.\n\nPromulgado em 27 de Maio de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 1 de Junho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -1,0 +1,267 @@
+---
+schema_version: '1.0'
+id: pt:dre:683039:por
+title: Decreto-Lei n.º 485/99
+short_title: null
+summary: Estabelece medidas de compensação para a recuperação dos atrasos processuais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 485/99
+official_date: null
+publication_date: '1999-11-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 262/1999, Série I-A de 1999-11-10
+  number: '262'
+  series: I
+  supplement: null
+  pages: 7895 - 7897
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/11/262a00/78957897.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-04-19'
+version_history:
+  file: decreto-lei-485-99.versoes.json
+  count: 3
+  source_lastmod: '2024-08-02'
+  versions:
+  - date: '1999-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-08-01'
+    amending: pt:dre:874170159:por
+    amending_title: Decreto-Lei n.º 48-C/2024
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2025-04-19'
+    amending: pt:dre:911648873:por
+    amending_title: Decreto-Lei n.º 27/2025
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/485/1999/p/cons/20250320/pt/html
+  oj: null
+  dre: '683039'
+  dre_path: /dr/detalhe/decreto-lei/485-1999-683039
+  internal: pt:dre:683039:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1999-683039
+  metadata_url: https://data.dre.pt/eli/dec-lei/485/1999/p/cons/20250320/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-874306803
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-874306803
+  retrieved_at: '2026-10-22T13:11:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-02T00:00:00Z'
+integrity:
+  source_sha256: 33e6a2cfd0e57afc64f6ca3057081a901a3408cf833f5c558fd90f3dc2c48976
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:11:42Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-485-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atraso Processual
+- Comissão
+- Pessoal de Justiça
+- Oficial de Justiça
+- Remuneração Acessória
+- Prescrição da Acção
+- Processo Judicial
+- Produtividade
+relationships:
+- type: amended_by
+  target: pt:dre:874170159:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-c-2024-874170159
+  date: '2024-07-31'
+- type: amended_by
+  target: pt:dre:911648873:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873
+  date: '2025-03-20'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/1999/01/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/1999/01/13/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:11:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 485/99
+
+Decreto-Lei n.º 485/99
+
+de 10 de Novembro
+
+A administração da justiça é seriamente afectada pela morosidade processual, que constitui, no sentir unívoco dos cidadãos e das empresas, o aspecto mais criticável do seu funcionamento.
+
+O fenómeno acentuou-se na última década, destacando-se, entre o conjunto de factores que o explicam, o aumento exponencial da litigiosidade, num ritmo sem paralelo com o dos demais países da União Europeia. É crescente o recurso aos tribunais, em resultado das transformações sociais e económicas e da maior consciência dos seus direitos por parte das pessoas.
+
+As medidas adoptadas e a adoptar para a inflexão na excessiva duração dos processos e para, atingida situação de aceitável normalidade, prevenir o seu novo agravamento passam, designadamente, pelo esforço acrescido do pessoal oficial de justiça.
+
+Com efeito, é incomportável o cumprimento dos prazos para a prática dos actos de secretaria, que incluem numerosas diligências externas, dentro do horário legalmente estabelecido pelo artigo 122.º da Lei n.º 3/99, de 13 de Janeiro (Lei de Organização e Funcionamento dos Tribunais Judiciais). A permanência dos oficiais de justiça, nos locais de trabalho, para além desse horário é frequentemente necessária, pelo respeito pelos princípios da continuidade da audiência e da imediação, pela salvaguarda dos prazos directamente relacionados com a defesa de direitos fundamentais, que envolvem a rápida conclusão de processos com arguidos presos, bem como a legítima satisfação tempestiva dos direitos das vítimas, sem esquecer o carácter urgente que a lei assinala a uma multiplicidade de processos. No período de abertura ao público das secretarias, as diligências com a participação daquele, forçosamente prioritárias, não deixam, em muitos casos, tempo disponível para a prática de actos nos processos, sobretudo os de maior complexidade técnica. Por outro lado, o sucesso das diligências externas, em especial nos meios urbanos, depende da sua efectivação para além das horas normais de serviço, que coincidem com o período em que os seus destinatários se encontram também deslocados das suas residências.
+
+Justifica-se, pois, que se atribua ao pessoal oficial de justiça um suplemento para compensação do trabalho de recuperação dos atrasos processuais, que contemple os funcionários colocados em lugares dos quadros das secretarias de tribunais e de serviços do Ministério Público, podendo ainda contemplar oficiais de justiça colocados fora de tais secretarias ou serviços, mas a exercerem funções relacionadas com a finalidade do referido suplemento.
+
+Para que o suplemento em causa produza os resultados pretendidos, instituem-se mecanismos de avaliação da produtividade do trabalho, com a consequente suspensão do pagamento do suplemento. A avaliação fica a cargo de uma comissão que garante um juízo imparcial e objectivo, presidida pelo presidente do Conselho dos Oficiais de Justiça, que é o director-geral dos Serviços Judiciários (artigo 99.º, n.º 1, do Decreto-Lei n.º 343/99, de 26 de Agosto).
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º — Suplemento remuneratório
+
+É atribuído, aos oficiais de justiça colocados nos mapas de pessoal das secretarias dos tribunais e dos serviços do Ministério Público, um suplemento para compensação do trabalho de recuperação dos atrasos processuais, a designar abreviadamente por suplemento.
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48-C/2024 - Diário da República n.º 147/2024, Suplemento, Série I de 2024-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-c-2024-874170159), em vigor a partir de 2024-08-01, produz efeitos a partir de 2024-06-01
+
+###### Artigo 2.º — Montante do suplemento
+
+1 - O suplemento é de 13,5 % sobre a respetiva remuneração base.
+
+2 - O suplemento é pago 12 meses por ano e considerado para o efeito do disposto no n.º 1 do artigo 6.º e no artigo 48.º do Decreto-Lei n.º 498/72, de 9 de dezembro, na sua redação atual, e no artigo 44.º do anexo à Lei n.º 110/2009, de 16 de setembro, na sua redação atual.
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48-C/2024 - Diário da República n.º 147/2024, Suplemento, Série I de 2024-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-c-2024-874170159), em vigor a partir de 2024-08-01, produz efeitos a partir de 2024-06-01
+
+###### Artigo 3.º — Suspensão de pagamento
+
+1 - Para além dos casos referidos nos artigos 7.º e 8.º, o pagamento do suplemento é suspenso relativamente ao pessoal das secretarias ou serviços quando se verificar que, por razões que lhe são imputáveis, não houve sensível recuperação dos atrasos processuais.
+
+2 - A suspensão a que respeita o número anterior mantém-se até decisão em contrário, nos termos do n.º 4 do artigo 5.º
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19
+
+###### Artigo 4.º — Comissão de avaliação
+
+1 - A avaliação da produtividade dos oficiais de justiça compete a uma comissão presidida pelo presidente do Conselho dos Oficiais de Justiça, que tem voto de qualidade, e constituída pelos seguintes membros:
+
+a) Um magistrado a indicar pelo Conselho Superior da Magistratura ou pelo Conselho Superior dos Tribunais Administrativos e Fiscais, conforme os casos;
+
+b) Um magistrado a indicar pelo Conselho Superior do Ministério Público;
+
+c) Um oficial de justiça a indicar pelo Conselho dos Oficiais de Justiça.
+
+2 - A indicação a que se referem as alíneas a) e b) do número anterior é efectuada a solicitação do presidente do Conselho dos Oficiais de Justiça.
+
+3 - O presidente da comissão pode delegar a sua competência, sem poder de subdelegação, no vice-presidente do Conselho dos Oficiais de Justiça.
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19
+
+###### Artigo 5.º — Procedimentos de avaliação
+
+1 - A avaliação a que se refere o n.º 1 do artigo anterior deve realizar-se, em regra, com periodicidade não superior a dois anos.
+
+2 - A avaliação a que se refere o número anterior deve ainda realizar-se em qualquer altura, por iniciativa do Ministro da Justiça ou sob proposta a este dirigida pelo Conselho Superior da Magistratura, pelo Conselho Superior dos Tribunais Administrativos e Fiscais, pelo Conselho Superior do Ministério Público ou pelo Conselho dos Oficiais de Justiça.
+
+3 - O resultado da avaliação consta de relatório, devidamente fundamentado, a apresentar ao Ministro da Justiça pelo presidente da comissão.
+
+4 - Compete ao Ministro da Justiça, com base no relatório a que se refere o número anterior, decidir sobre a suspensão ou sobre o levantamento da suspensão do pagamento do suplemento.
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19
+
+###### Artigo 6.º — Extensão do suplemento
+
+1 - O suplemento pode ainda ser atribuído a oficiais de justiça colocados fora das secretarias dos tribunais ou serviços do Ministério Público, quando as suas funções estiverem relacionadas com a finalidade constante do artigo 1.º
+
+2 - O elenco das funções referidas no número anterior é estabelecido e alterado por portaria conjunta dos Ministros das Finanças e da Justiça e do membro do Governo responsável pela Administração Pública.
+
+3 - A avaliação do pessoal a que se referem os números precedentes compete ao dirigente máximo dos respectivos serviços, com poder de delegação, devendo o relatório ser enviado ao Ministro da Justiça, para o efeito do disposto no n.º 4 do artigo anterior.
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19
+
+###### Artigo 7.º — Outros casos de suspensão do pagamento
+
+Não há lugar ao pagamento do suplemento:
+
+a) Durante o período de suspensão preventiva em processo disciplinar, sem prejuízo do disposto no n.º 4 do artigo 96.º do Decreto-Lei n.º 343/99, de 26 de Agosto;
+
+b) [Revogada.]
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 48-C/2024 - Diário da República n.º 147/2024, Suplemento, Série I de 2024-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-c-2024-874170159), em vigor a partir de 2024-08-01, produz efeitos a partir de 2024-07-01
+
+###### Artigo 8.º — Perda do direito ao suplemento
+
+Perdem o direito ao suplemento os oficiais de justiça que obtiverem classificação de serviço inferior a Suficiente, enquanto esta classificação mínima lhes não for atribuída.
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48-C/2024 - Diário da República n.º 147/2024, Suplemento, Série I de 2024-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-c-2024-874170159), em vigor a partir de 2024-08-01, produz efeitos a partir de 2024-06-01
+
+###### Artigo 9.º — Regulamento da comissão de avaliação
+
+No prazo de 30 dias a contar do início da vigência do presente diploma, o presidente do Conselho dos Oficiais de Justiça deve submeter a homologação do Ministro da Justiça o regulamento interno da comissão a que se refere o artigo 4.º
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19
+
+###### Artigo 10.º — Início de vigência
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19
+
+Visto e aprovado em Conselho de Ministros de 1 de Outubro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 22 de Outubro de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 26 de Outubro de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 27/2025 - Diário da República n.º 56/2025, Série I de 2025-03-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2025-911648873), em vigor a partir de 2025-04-19

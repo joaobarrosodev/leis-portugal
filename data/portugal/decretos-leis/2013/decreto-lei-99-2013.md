@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:498770:por
+title: Decreto-Lei n.º 99/2013
+short_title: null
+summary: Procede à alteração do reconhecimento do interesse público e da denominação do Instituto Superior de Estudos Interculturais
+  e Transdisciplinares - Santo André para Escola Superior de Tecnologia e Gestão Jean Piaget do Litoral Alentejano
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 99/2013
+official_date: null
+publication_date: '2013-07-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 141/2013, Série I de 2013-07-24
+  number: '141'
+  series: I
+  supplement: null
+  pages: 4361 - 4362
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/07/14100/0436104362.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/99/2013/07/24/p/dre/pt/html
+  oj: null
+  dre: '498770'
+  dre_path: /dr/detalhe/decreto-lei/99-2013-498770
+  internal: pt:dre:498770:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2013-498770
+  metadata_url: https://data.dre.pt/eli/dec-lei/99/2013/07/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2013-498770
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-07-24T00:00:00Z'
+integrity:
+  source_sha256: b409a230de3c2dde5b4cdb1c82a7c9245aa710938fb788bb99f81c6c906f3018
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-99-498770.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Denominação de Instituição
+- Ensino Particular
+- Ensino Superior Politécnico
+- Escola Superior de Tecnologia e Gestão JEAN Piaget do Litoral Alentejano
+- Instituto Superior de Estudos Interculturais e Transdisciplinares
+- Santiago do Cacém
+- Interesse Público
+- Estabelecimento de Ensino
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/251/2012/11/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/251/2012/11/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec/32/2001/09/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec/32/2001/09/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 99/2013
+
+de 24 de julho
+
+O Instituto Superior de Estudos Interculturais e Transdisciplinares - Santo André (ISEIT - Santo André) é um estabelecimento de ensino superior universitário privado, reconhecido pelo [Decreto n.º 32/2001](https://diariodarepublica.pt/dr/detalhe/decreto/32-2001-644145), de 11 de setembro, com a natureza de escola universitária não integrada, cujos estatutos foram registados por despacho do Ministro da Ciência, Tecnologia e Ensino Superior, de 27 de julho de 2009, e publicados através do [Despacho n.º 18937/2009](https://diariodarepublica.pt/dr/detalhe/despacho/18937-2009-2935210), publicado na 2.ª série do Diário da República, de 14 de agosto.
+
+O Instituto Piaget - Cooperativa para o Desenvolvimento Humano Integral e Ecológico, C. R. L., na qualidade de entidade instituidora do ISEIT - Santo André, requereu a alteração da sua natureza para estabelecimento de ensino superior politécnico e a alteração da sua denominação para Escola Superior de Tecnologia e Gestão Jean Piaget do Litoral Alentejano.
+
+De acordo com o parecer da Direção-Geral do Ensino Superior, encontram-se reunidas, quer pela entidade instituidora, quer pelo estabelecimento de ensino, as condições previstas na [Lei n.º 62/2007](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), de 10 de setembro, e no [Decreto-Lei n.º 251/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-2012-191166), de 23 de novembro, para a alteração do reconhecimento do interesse público e para o registo da denominação.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à alteração do reconhecimento de interesse público e da denominação do Instituto Superior de Estudos Interculturais e Transdisciplinares - Santo André (ISEIT - Santo André).
+
+###### Artigo 2.º — Natureza e denominação do estabelecimento de ensino
+
+O ISEIT - Santo André passa a ter a natureza de escola politécnica não integrada e a denominar-se Escola Superior de Tecnologia e Gestão Jean Piaget do Litoral Alentejano.
+
+###### Artigo 3.º — Objetivos do estabelecimento de ensino
+
+A Escola Superior de Tecnologia e Gestão Jean Piaget do Litoral Alentejano é um estabelecimento de ensino politécnico vocacionado para o ensino, a investigação orientada e a prestação de serviços nos domínios das tecnologias e da gestão.
+
+###### Artigo 4.º — Entidade instituidora
+
+A entidade instituidora da Escola Superior de Tecnologia e Gestão Jean Piaget do Litoral Alentejano é o Instituto Piaget - Cooperativa para o Desenvolvimento Humano Integral e Ecológico, C. R. L., com sede em Lisboa.
+
+###### Artigo 5.º — Localização e instalações do estabelecimento de ensino
+
+1 - A Escola Superior de Tecnologia e Gestão Jean Piaget do Litoral Alentejano é autorizada a funcionar no concelho de Santiago do Cacém.
+
+2 - A Escola Superior de Tecnologia e Gestão Jean Piaget do Litoral Alentejano pode ministrar o ensino dos seus ciclos de estudos em instalações situadas no concelho de Santiago do Cacém que, por despacho do diretor-geral do ensino superior, a publicar na 2.ª série do Diário da República, sejam consideradas adequadas nos termos da lei.
+
+###### Artigo 6.º — Ciclos de estudos
+
+Os ciclos de estudos cujo funcionamento se encontra presentemente autorizado na Escola Superior de Tecnologia e Gestão Jean Piaget do Litoral Alentejano são os que foram autorizados antes da entrada em funcionamento da Agência de Avaliação e Acreditação do Ensino Superior e subsequentemente acreditados por esta Agência para funcionarem no Instituto Superior de Estudos Interculturais e Transdisciplinares - Santo André.
+
+###### Artigo 7.º — Norma revogatória
+
+É revogado o [Decreto n.º 32/2001](https://diariodarepublica.pt/dr/detalhe/decreto/32-2001-644145), de 11 de setembro.
+
+###### Artigo 8.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos a partir da data de início do ano letivo de 2013-2014.
+
+Visto e aprovado em Conselho de Ministros de 13 de junho de 2013. - Pedro Passos Coelho - Nuno Paulo de Sousa Arrobas Crato.
+
+**Promulgado em 16 de julho de 2013.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 18 de julho de 2013.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**

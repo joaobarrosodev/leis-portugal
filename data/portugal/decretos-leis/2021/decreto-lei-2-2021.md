@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:153138206:por
+title: Decreto-Lei n.º 2/2021
+short_title: null
+summary: Altera as regras de rotulagem do mel
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Agricultura
+official_number: 2/2021
+official_date: null
+publication_date: '2021-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/2021, Série I de 2021-01-07
+  number: '4'
+  series: I
+  supplement: null
+  pages: 3 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00400/0000300004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/2/2021/01/07/p/dre/pt/html
+  oj: null
+  dre: '153138206'
+  dre_path: /dr/detalhe/decreto-lei/2-2021-153138206
+  internal: pt:dre:153138206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2021-153138206
+  metadata_url: https://data.dre.pt/eli/dec-lei/2/2021/01/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2021-153138206
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-12-24T00:00:00Z'
+integrity:
+  source_sha256: 27391b24c6a99594dbdffc62658e55b35f9b9f141629ac47d3400b07d3d35bcd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2021/DRE-2021-2-153138206.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produto Alimentar
+- Aproximação das Legislações
+- Direcção Geral de Fiscalização e Controlo da Qualidade Alimentar
+- Multa
+- Contra-ordenação
+- Controlo Sanitário
+- Etiquetagem
+- Fiscalização
+- Embalagem
+- MEL
+- Indústria Alimentar
+relationships:
+- type: amended_by
+  target: pt:dre:992627248:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32001L0110
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/110/oj
+- type: cites
+  target: celex:32014L0063
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/63/oj
+- type: cites
+  target: celex:32015L1535
+  label: null
+  source: http://data.europa.eu/eli/dir/2015/1535/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/126/2015/07/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126/2015/07/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/214/2003/09/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/214/2003/09/18/p/dre
+- type: transposes
+  target: celex:32001L0110
+  label: null
+  source: null
+- type: transposes
+  target: celex:32014L0063
+  label: null
+  source: null
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 2/2021
+
+de 7 de janeiro
+
+O [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/497270/details/normal?l=1), de 18 de setembro, que transpôs para a ordem jurídica interna a [Diretiva n.º 2001/110/CE](https://diariodarepublica.pt/application/external/eurolex?01L0110), do Conselho, de 20 de dezembro de 2001, relativa ao mel, definiu as características do mel e as regras a que deve obedecer a sua produção e comercialização.
+
+Posteriormente, o [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/497270/details/normal?l=1), de 18 de setembro, foi alterado pelo [Decreto-Lei n.º 126/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/69736207/details/normal?l=1), de 7 de julho, que transpôs para a ordem jurídica interna a [Diretiva n.º 2014/63/CE](https://diariodarepublica.pt/application/external/eurolex?14L0063), do Parlamento Europeu e do Conselho, de 15 de maio de 2014, que altera a [Diretiva n.º 2001/110/CE](https://diariodarepublica.pt/application/external/eurolex?01L0110) relativa ao mel.
+
+O artigo 4.º do [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/497270/details/normal?l=1), de 18 de setembro, por um lado, determina que, na rotulagem dos produtos abrangidos pelo decreto-lei, deve figurar a indicação do país ou países de origem em que o mel foi colhido e, por outro, já não obriga à indicação da origem do mel se este for originário de vários Estados-Membros ou de países terceiros.
+
+Por este motivo, e considerando a preocupação de garantir a estreita relação entre a qualidade do mel e a sua origem, através da completa e adequada informação a prestar aos consumidores, afastando potenciais casos de indução em erro destes relativamente à qualidade do produto, opta-se por exigir uma informação uniforme, transparente, detalhada e fidedigna sobre a origem do mel, de forma a possibilitar ao consumidor uma escolha informada, determinando-se assim a obrigatoriedade de, no mel embalado em território nacional, e que seja obtido por misturas de méis de vários países de origem, ser explicitado nos respectivos rótulos os países de origem de cada fração da mistura.
+
+O presente decreto-lei foi submetido ao procedimento de informação no domínio das regulamentações técnicas e das regras relativas aos serviços da sociedade de informação, previsto na [Diretiva (UE) 2015/1535](https://diariodarepublica.pt/application/external/eurolex?15L1535), do Parlamento Europeu e do Conselho, de 9 de setembro de 2015.
+
+Foram ouvidos os órgãos de governo próprio das regiões autónomas.
+
+Foi promovida a audição do Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à segunda alteração ao [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/497270/details/normal?l=1), de 18 de setembro, alterado pelo [Decreto-Lei n.º 126/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/69736207/details/normal?l=1), de 7 de julho, que transpõe para a ordem jurídica nacional a [Diretiva n.º 2001/110/CE](https://diariodarepublica.pt/application/external/eurolex?01L0110), do Conselho, de 20 de dezembro, relativa ao mel.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/497270/details/normal?l=1), de 18 de setembro
+
+O artigo 4.º do [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/497270/details/normal?l=1), de 18 de setembro, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 4.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - [...].
+
+9 - O disposto no número anterior não se aplica nos casos em que o mel seja embalado em território nacional sendo originário de um ou vários Estados-Membros ou países terceiros, aplicando-se, nesses casos, o disposto no n.º 7.
+
+10 - As indicações a que se referem os n.os 7, 8 e 9 são consideradas menções obrigatórias de rotulagem.
+
+11 - (Anterior n.º 10.)»
+
+###### Artigo 3.º — Aditamento ao [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/497270/details/normal?l=1), de 18 de setembro
+
+É aditado ao [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/497270/details/normal?l=1), de 18 de setembro, na sua redação atual, o artigo 10.º-A, com a seguinte redação:
+
+«Artigo 10.º-A
+
+Reconhecimento mútuo
+
+O disposto no presente decreto-lei não prejudica a livre circulação dos produtos que sejam legalmente produzidos ou comercializados nos outros Estados-Membros da União Europeia ou que sejam legalmente produzidos nos países da Associação Europeia de Comércio Livre, que são Partes Contratantes do Acordo sobre o Espaço Económico Europeu (Acordo EEE), incluindo os produtos legalmente fabricados ou comercializados na Turquia, na medida em que tais produtos não acarretem um risco para a saúde ou a vida das pessoas conforme o artigo 36.º do Tratado sobre o Funcionamento da União Europeia e do artigo 13.º do Acordo EEE.»
+
+###### Artigo 4.º — Norma transitória
+
+O mel rotulado em conformidade com o disposto no [Decreto-Lei n.º 214/2003](https://diariodarepublica.pt/web/guest/pesquisa/-/search/497270/details/normal?l=1), de 18 de setembro, na redação anterior à do presente decreto-lei, pode ser comercializado até ao esgotamento das respetivas existências.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia 1 de julho de 2021.
+
+Visto e aprovado em Conselho de Ministros de 17 de dezembro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Ana Paula Baptista Grade Zacarias - João Rodrigo Reis Carvalho Leão - Maria do Céu de Oliveira Antunes Albuquerque.
+
+**Promulgado em 28 de dezembro de 2020.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 29 de dezembro de 2020.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

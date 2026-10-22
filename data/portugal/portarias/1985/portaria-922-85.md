@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:170504:por
+title: Portaria n.º 922/85
+short_title: null
+summary: Alarga a área de recrutamento para provimento dos lugares de chefe da Divisão de Planeamento do Gabinete de Estudos
+  e Planeamento e da Direcção de Transportes do Norte e de chefe da Divisão de Exploração da Direcção de Transportes do Centro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério do Equipamento Social - Secretarias de Estado da Administração Pública
+  e dos Transportes
+proposing_entity: null
+official_number: 922/85
+official_date: null
+publication_date: '1985-12-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 278/1985, Série I de 1985-12-03
+  number: '278'
+  series: I
+  supplement: null
+  pages: 4019 - 4019
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/12/27800/40194019.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '170504'
+  dre_path: /dr/detalhe/portaria/922-1985-170504
+  internal: pt:dre:170504:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/922-1985-170504
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/922-1985-170504
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-12-03T00:00:00Z'
+integrity:
+  source_sha256: 2e8b0c901d75feb82540e3c461b85de0cab8c29083f5c58ebf97057460a919c6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-922-170504.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 922/85
+
+de 3 de Dezembro
+
+Considerando a orgânica e as atribuições cometidas à Direcção-Geral dos Transportes Terrestres pelo [Decreto Regulamentar n.º 9/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1980-682059), de 8 de Abril;
+
+Considerando que para uma actuação imediata deste organismo em áreas essenciais das suas atribuições se torna impreterível e indispensável preencher os cargos de chefe de divisão das áreas de planeamento e da área de exploração da Região Centro, onde subsistem graves lacunas;
+
+Considerando que aos titulares daqueles cargos se exigirá, antes de mais e necessariamente, uma formação e experiência adequadas à especificidade das respectivas funções, designadamente e respectivamente no domínio do planeamento dos sistemas de transportes terrestres, em especial com aplicação da informática, no domínio da gestão dos sistemas regionais de transportes;
+
+Considerando que, a curto prazo, a observância do disposto no artigo 2.º, n.º 2, do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, não permite o provimento dos referidos cargos com adequada satisfação dos requisitos de formação e experiência nos domínios específicos acima mencionados:
+
+Usando da faculdade prevista no artigo 2.º, n.º 4, do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Administração Pública e dos Transportes, o seguinte:
+
+1.º A área de recrutamento para provimento dos lugares de chefe da Divisão de Planeamento do Gabinete de Estudos e Planeamento e da Direcção de Transportes do Norte e de chefe da Divisão de Exploração da Direcção de Transportes do Centro, previstos no quadro de pessoal da Direcção-Geral de Transportes Terrestres constantes do mapa I do anexo ao [Decreto Regulamentar n.º 9/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1980-682059), de 8 de Abril, é alargada aos técnicos superiores de 1.ª classe com licenciatura do quadro permanente da mesma Direcção-Geral das respectivas áreas funcionais de actuação.
+
+2.º Os despachos de nomeação efectuados nos termos do número anterior serão acompanhados, para publicação, dos currículos dos nomeados.
+
+Secretarias de Estado da Administração Pública e dos Transportes.
+
+**Assinada em 30 de Outubro de 1985.**
+
+**O Secretário de Estado da Administração Pública, José Manuel San-Bento de Menezes. - O Secretário de Estado dos Transportes, Francisco Luís Murteira Nabo.**

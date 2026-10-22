@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:692044:por
+title: Portaria n.º 981/99
+short_title: null
+summary: Regula as condições de celebração dos protocolos previstos no n.º 6 do artigo 25.º do Estatuto do Serviço Nacional
+  de Saúde e fixa os montantes da referida comparticipação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 981/99
+official_date: null
+publication_date: '1999-10-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 254/1999, Série I-B de 1999-10-30
+  number: '254'
+  series: I
+  supplement: null
+  pages: 7410 - 7410
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/10/254b00/74107410.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/981/1999/10/30/p/dre/pt/html
+  oj: null
+  dre: '692044'
+  dre_path: /dr/detalhe/portaria/981-1999-692044
+  internal: pt:dre:692044:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/981-1999-692044
+  metadata_url: https://data.dre.pt/eli/port/981/1999/10/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/981-1999-692044
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-02-19T00:00:00Z'
+integrity:
+  source_sha256: 85969fcf9ebda712fbd6755472c34da2a513521c440e5c41cafba398da17687b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-981-692044.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Cartão de Identificação
+- Comparticipação do Estado
+- Definição de Competências
+- Estatuto
+- Política de Saúde
+- Serviço Nacional de Saúde
+- Instituto de Gestão Informática e Financeira da Saúde
+- Cuidados Médicos
+relationships:
+- type: amended_by
+  target: pt:dre:2616941:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/401/1998/12/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/401/1998/12/17/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 981/99
+
+de 30 de Outubro
+
+O [Decreto-Lei n.º 401/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1998-191553), de 17 de Dezembro, veio completar o sistema de preços previstos para as instituições e serviços integrados no Serviço Nacional de Saúde, nomeadamente possibilitando que a responsabilidade pelos encargos relativos a prestações de saúde seja transferida para outras entidades, públicas ou privadas, mediante uma comparticipação financeira a estabelecer através de protocolos a celebrar com o Instituto de Gestão Informática e Financeira da Saúde.
+
+Torna-se agora necessário regular as condições de celebração daqueles protocolos, bem como fixar os montantes da referida comparticipação.
+
+Assim, ao abrigo do disposto no n.º 6 do artigo 25.º do Estatuto do Serviço Nacional de Saúde, na redacção que lhe foi dada pelo [Decreto-Lei n.º 401/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/401-1998-191553), de 17 de Dezembro:
+
+Manda o Governo, pela Ministra da Saúde, o seguinte:
+
+1.º Os protocolos a que se refere o n.º 6 do artigo 25.º do Estatuto do Serviço Nacional de Saúde são negociados pelo Instituto de Gestão Informática e Financeira da Saúde e homologados pelo membro do Governo competente.
+
+2.º Os protocolos devem regular:
+
+a) O objecto;
+
+b) O âmbito pessoal;
+
+c) A identificação dos beneficiários;
+
+d) As condições de atribuição e de pagamento da comparticipação;
+
+e) O período de vigência.
+
+3.º A atribuição da comparticipação pela transferência dos encargos com as prestações de saúde fica dependente da prévia emissão do cartão de utente do Serviço Nacional de Saúde.
+
+4.º A emissão do cartão de utente do Serviço Nacional de Saúde deverá ser assegurada pelos serviços competentes, no prazo máximo de 90 dias após o pedido de inscrição dos beneficiários.
+
+5.º O montante da comparticipação nos anos de 1999 e de 2000 é de 29000$00 por beneficiário inscrito, em pleno gozo dos seus direitos.
+
+Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 30 de Agosto de 1999.

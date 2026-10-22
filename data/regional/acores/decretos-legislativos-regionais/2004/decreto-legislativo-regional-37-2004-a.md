@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:577136:por
+title: Decreto Legislativo Regional n.º 37/2004/A
+short_title: null
+summary: Estabelece o regime das carreiras de técnico de emprego e de monitor de formação profissional na administração regional
+  autónoma
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 37/2004/A
+official_date: null
+publication_date: '2004-10-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 247/2004, Série I-A de 2004-10-20
+  number: '247'
+  series: I
+  supplement: null
+  pages: 6362 - 6364
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/10/247a00/63626364.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/37/2004/10/20/a/dre/pt/html
+  oj: null
+  dre: '577136'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/37-2004-577136
+  internal: pt:dre:577136:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2004-577136
+  metadata_url: https://data.dre.pt/eli/declegreg/37/2004/10/20/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2004-577136
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-10-20T00:00:00Z'
+integrity:
+  source_sha256: 07c2a906eb6c7f34f531e2840f4474f80cc5c117e4229348502dbaf353439f1e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2004/DRE-2004-37-577136.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Sistema Retributivo
+- Carreira Profissional
+- Progressão na Carreira
+- Administração Regional
+- Açores
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/29/2000/08/11/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/29/2000/08/11/a/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 37/2004/A
+
+Estabelece o regime das carreiras de técnico de emprego e de monitor de formação profissional na administração regional autónoma.
+
+O [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, ao proceder à revisão do regime de carreiras da Administração Pública, estipulou que os princípios e soluções nele contidos deviam ser tornados extensivos às carreiras de regime especial ou com designações específicas cujo desenvolvimento indiciário se aproximasse das carreiras do regime geral.
+
+Considerando que, e na sequência do estipulado no diploma supramencionado, o [Decreto Legislativo Regional n.º 29/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2000-340610), de 11 de Agosto, procedeu às alterações indiciárias nas carreiras e categorias específicas da Região Autónoma dos Açores, nomeadamente das carreiras de técnico de emprego e de monitor de formação profissional;
+
+Considerando que importa proceder a uma reestruturação dos índices remuneratórios com vista a estabelecer um maior equilíbrio entre a estrutura remuneratória e a complexidade do conteúdo funcional das carreiras de técnico de emprego e de monitor de formação profissional;
+
+Considerando as acrescidas responsabilidades em matéria de formação profissional que cabem aos monitores que prestam serviço na Escola Profissional de Capelas;
+
+Considerando, ainda, a necessidade de consagrar nesta matéria uma justa remuneração face à intensidade e à complexidade que é previsível os técnicos de emprego encontrarem nos próximos tempos, dada a exigência de qualidade e de rigor nas respostas aos utentes dos serviços públicos de emprego, bem como o conhecimento acrescido que estes técnicos devem possuir a fim de responderem pertinentemente e nos mais curtos prazos ao que lhes é exigido:
+
+A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente diploma estabelece o regime das carreiras de técnico de emprego e de monitor de formação profissional e procede à revalorização indiciária das mesmas na Região Autónoma dos Açores.
+
+###### Artigo 2.º — Carreira de técnico de emprego
+
+O acesso nas categorias da carreira de técnico de emprego, integrada no grupo de pessoal técnico-profissional, obedece às seguintes regras:
+
+a) Técnico de emprego especialista, de entre técnicos de emprego principais com, pelo menos, três anos na categoria classificados de Muito bom ou cinco anos classificados, no mínimo, de Bom;
+
+b) Técnico de emprego principal, técnico de emprego especial e técnico de emprego de 1.ª classe, de entre, respectivamente, técnicos de emprego especial e técnicos de emprego de 1.ª e de 2.ª classes com o mínimo de três anos nas respectivas categorias classificados de Bom.
+
+###### Artigo 3.º — Carreira de monitor de formação profissional
+
+O acesso nas categorias da carreira de monitor de formação profissional obedece às seguintes regras:
+
+a) Monitor de formação profissional especialista, de entre monitores de formação profissional principais com, pelo menos, três anos na respectiva categoria classificados de Muito bom ou cinco anos classificados, no mínimo, de Bom;
+
+b) Monitor de formação profissional principal e monitor de formação profissional de 1.ª classe, de entre, respectivamente, monitores de formação profissional de 1.ª e de 2.ª classes com o mínimo de três anos nas respectivas categorias classificados de Bom.
+
+###### Artigo 4.º — Desenvolvimento indiciário e conteúdo funcional
+
+O desenvolvimento indiciário das carreiras de técnico de emprego e de monitor de formação profissional e o respectivo conteúdo funcional constam, respectivamente, dos anexos I e II do presente diploma, do qual fazem parte integrante.
+
+###### Artigo 5.º — Regras de transição
+
+1 - O pessoal provido em qualquer das categorias das carreiras de técnico de emprego e de monitor de formação profissional transita, independentemente de qualquer formalidade, para a mesma categoria e para o mesmo escalão da nova estrutura indiciária constante do anexo I do presente diploma, do qual faz parte integrante.
+
+2 - O tempo de permanência nos escalões releva para efeitos de progressão nas categorias, nos termos dos artigos 19.º e 20.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+
+3 - Sem prejuízo do estabelecido no número anterior, o tempo de serviço prestado em cada uma das categorias das carreiras de técnico de emprego e de monitor de formação profissional releva para todos os efeitos legais, nomeadamente promoção na carreira, bem como na progressão no novo escalão.
+
+4 - Os lugares referentes às carreiras de técnico de emprego e de monitor de formação profissional são lugares a extinguir quando vagarem.
+
+###### Artigo 6.º — Legislação subsidiária
+
+Em tudo que não esteja previsto no presente diploma é aplicável o disposto no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, com a redacção dada pelo [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, e demais legislação aplicável.
+
+###### Artigo 7.º — Legislação revogada
+
+Com a publicação deste diploma, é revogado o mapa anexo ao [Decreto Legislativo Regional n.º 29/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2000-340610), de 11 de Agosto, na parte referente aos técnicos de emprego e monitores de formação profissional.
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 7 de Setembro de 2004.
+
+**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+
+**Assinado em Angra do Heroísmo em 29 de Setembro de 2004.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**
+
+## ANEXO I — [(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/10/247a00/63626364.pdf)
+
+## ANEXO II — Pessoal técnico-profissional
+
+Técnico de emprego. - Exerce, sob a orientação de superiores hierárquicos, funções no âmbito do emprego, da reabilitação e da formação profissional. Exerce, entre outras, as seguintes tarefas: recolhe, analisa e gere as ofertas e pedidos de emprego, com vista à satisfação das necessidades de mão-de-obra por parte dos empregadores e da integração dos trabalhadores no mercado de emprego, em postos de trabalho adequados, devidamente remunerados e livremente escolhidos; promove a mobilidade profissional e geográfica dos trabalhadores, quando necessária à consecução do equilíbrio entre a oferta e a procura de emprego; avalia as características e qualificação profissional dos candidatos a emprego, informa-os sobre os meios de formação disponíveis e encaminha-os, em caso de interesse, para os serviços competentes; desenvolve as acções necessárias à implementação de programas especiais de emprego; apoia iniciativas geradoras de emprego, visitando empresas para detecção das necessidades de mão-de-obra e recolha das correspondentes ofertas de emprego; propõe medidas adequadas de formação e reconversão profissional; verifica e controla as condições de acesso e de manutenção do direito dos trabalhadores ao subsídio de desemprego ou ao subsídio social de desemprego; acompanha a integração e a adaptação dos trabalhadores nos postos de trabalho em que foram colocados; analisa os dados sobre a evolução do mercado de emprego, tendo em vista a elaboração de estatísticas regionais e locais; promove, apoia e acompanha, na respectiva área geográfica, a divulgação e execução dos programas operacionais de emprego, formação profissional e reabilitação profissional.
+
+Monitor de formação profissional. - Exerce diversas funções nos domínios da reabilitação e formação profissional, ministrando cursos e ou ensinando uma profissão específica, com base no conhecimento ou adaptação de métodos e processos de índole técnica e pedagógica. Executa, predominantemente, as seguintes tarefas: prepara os meios pedagógicos, de acordo com os objectivos e especificações dos programas de formação; organiza e mantém o local de formação, bem como os recursos materiais e pedagógicos necessários ao funcionamento dos recursos; ensina uma profissão ou ministra cursos de formação profissional; avalia pedagogicamente os resultados da formação; colabora na elaboração de material didáctico e de outros meios pedagógicos e materiais necessários à formação; colabora na identificação de necessidades da formação e no lançamento de acções de formação profissional; presta apoio técnico e pedagógico às acções externas de formação profissional.

@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:310468:por
+title: Decreto-Lei n.º 627/75
+short_title: null
+summary: Estabelece o processo do pagamento de dívidas à ADSE por parte de determinados funcionários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento - Assistência na Doença aos Servidores Civis do Estado
+proposing_entity: null
+official_number: 627/75
+official_date: null
+publication_date: '1975-11-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 263/1975, Série I de 1975-11-13
+  number: '263'
+  series: I
+  supplement: null
+  pages: 1798 - 1798
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/11/26300/17981798.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '310468'
+  dre_path: /dr/detalhe/decreto-lei/627-1975-310468
+  internal: pt:dre:310468:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/627-1975-310468
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/627-1975-310468
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: 249ea9a3b9fb875d5d179fd651e0e76be0984053d9bd7e424546a78f4fb532dd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-627-310468.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 627/75
+
+de 13 de Novembro
+
+Atendendo a que nem sempre é possível à Assistência na Doença aos Servidores Civis do Estado (ADSE) prestar, tempestivamente, a informação a que se refere o artigo 15.º do [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964, por forma a dar satisfação às datas indicadas pelos requerentes nos seus pedidos de exoneração, licença ilimitada e licença sem vencimento, com manifesto prejuízo destes;
+
+Atendendo, por outro lado, ao facto de se considerar oportuno uniformizar a concessão das despesas de transporte aos beneficiários da ADSE que tenham que se deslocar da sua residência para efeitos de assistência, quer se trate de tratamento ambulatório, quer de internamento, e qualquer que seja o número de dias de tratamento ou de deslocação a que se refere o artigo 24.º do referido diploma; verificando-se que, com esta unificação, não só se amplia o benefício concedido como se leva a uma acentuada simplificação na conferência dessas despesas e seu expediente;
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. As dívidas para com a ADSE dos beneficiários exonerados, na situação de licença ilimitada e na de licença sem vencimento, serão satisfeitas nos cofres do Tesouro, por meio de guia, no prazo de trinta dias, após a notificação dos devedores, findo o qual se procederá, através dos tribunais das execuções fiscais, à competente execução, deixando de ser exigida a informação a que se refere o artigo 15.º do [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964.
+
+2. Para os beneficiários que, mudando de serviço, foram desempenhar outras funções públicas, deve ser comunicado o facto à ADSE, pelo serviço a que o funcionário pertencia, não se alterando em relação a estes a forma de liquidação das suas dívidas à ADSE.
+
+###### Art. 2.º O corpo do artigo 24.º do [Decreto n.º 45688](https://diariodarepublica.pt/dr/detalhe/decreto/45688-1964-582660), de 27 de Abril de 1964, passa a ter a seguinte redacção:
+
+Quando, a fim de beneficiar da assistência prevista no artigo anterior, o beneficiário tenha de se deslocar da sua residência ou do local onde se encontra, a ADSE poderá assumir o encargo com as despesas de transportes, de alimentação e alojamento, não só quanto ao beneficiário como quanto ao familiar, ou tido como tal, que o acompanhe, se o seu estado de saúde não permitir que se desloque só.
+
+§ único. ...
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha.
+
+**Promulgado em 31 de Outubro de 1975.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

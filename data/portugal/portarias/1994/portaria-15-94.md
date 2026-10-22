@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:533615:por
+title: Portaria n.º 15/94
+short_title: null
+summary: Aprova o quadro de pessoal da Direcção-Geral das Pescas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Mar
+proposing_entity: null
+official_number: 15/94
+official_date: null
+publication_date: '1994-01-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/1994, Série I-B de 1994-01-06
+  number: '4'
+  series: I
+  supplement: null
+  pages: 59 - 63
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/01/004b00/00590063.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/15/1994/01/06/p/dre/pt/html
+  oj: null
+  dre: '533615'
+  dre_path: /dr/detalhe/portaria/15-1994-533615
+  internal: pt:dre:533615:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/15-1994-533615
+  metadata_url: https://data.dre.pt/eli/port/15/1994/01/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/15-1994-533615
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-03-22T00:00:00Z'
+integrity:
+  source_sha256: 79f8a5fcaa1e796d8cd559b23a083e9f7c3e42c9365e290160357678465299f6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-15-533615.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Técnico Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:936346:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/320/1993/09/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/320/1993/09/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 15/94
+
+de 6 de Janeiro
+
+Pelo [Decreto-Lei n.º 320/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1993-655518), de 21 de Setembro, foi aprovada a nova Lei Orgânica da Direcção-Geral das Pescas.
+
+Assim, nos termos do n.º 1 do artigo 18.º do referido decreto-lei:
+
+Manda o Governo, pelos Ministros das Finanças e do Mar, o seguinte:
+
+1.º É aprovado o quadro de pessoal da Direcção-Geral das Pescas, constante do mapa anexo I ao presente diploma, que dele faz parte integrante.
+
+2.º O conteúdo funcional da carreira de técnico auxiliar é o constante do anexo II ao presente diploma.
+
+Ministérios das Finanças e do Mar.
+
+**Assinada em 6 de Dezembro de 1993.**
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Mar, João Prates Bebiano, Secretário de Estado Adjunto e das Pescas.
+
+## ANEXO I — Quadro de pessoal
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/01/004b00/00590063.pdf))](https://files.diariodarepublica.pt/1s/1994/01/004b00/00590063.pdf)
+
+## ANEXO II — Conteúdo funcional da carreira de técnico auxiliar
+
+Funções de natureza executiva de aplicação técnica, de acordo com directivas bem definidas estabelecidas por pessoal técnico superior ou técnico, no âmbito da elaboração de projectos para o sector pesqueiro, designadamente colaboração na recolha e compilação dos elementos necessários à elaboração de projectos e registo de dados relativos ao acompanhamento da respectiva execução.

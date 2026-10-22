@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:471148:por
+title: Despacho Normativo n.º 274/80
+short_title: null
+summary: Estabelece normas relativas aos veículos de instrução da condução automóvel
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e dos Transportes e Comunicações
+proposing_entity: null
+official_number: 274/80
+official_date: null
+publication_date: '1980-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/1980, Série I de 1980-08-20
+  number: '191'
+  series: I
+  supplement: null
+  pages: 2289 - 2290
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/08/19100/22892290.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471148'
+  dre_path: /dr/detalhe/despacho-normativo/274-1980-471148
+  internal: pt:dre:471148:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/274-1980-471148
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/274-1980-471148
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-12-10T00:00:00Z'
+integrity:
+  source_sha256: 8709cedc74d1033014d3293d42e35de81a9c107ab5dab4ce438b5b092308410b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-274-471148.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:459638:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 274/80
+
+1 - O ensino da condução automóvel, actividade fundamental na formação de condutores, constitui factor primordial da prevenção e segurança rodoviárias. Nestes termos, tal actividade, que é já considerada de interesse público por força do artigo 1.º do [Decreto-Lei n.º 364/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/364-1976-428031), de 14 de Maio, deve beneficiar do regime previsto no n.º 3 do artigo 1.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 46/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1976-506021), de 20 de Janeiro.
+
+2 - Os veículos adquiridos para o serviço de instrução que, nos termos do número anterior, tenham beneficiado da redução de imposto sobre a venda de veículos automóveis não poderão ser alienados antes que decorram cinco anos a contar da data da emissão da respectiva licença de instrução, podendo, contudo, ser substituídos antes do termo desse prazo se, tendo ocorrido sinistro de que resulte a destruição irrecuperável do veículo, for cancelada a respectiva matrícula.
+
+3 - Os veículos automóveis adquiridos com o benefício tributário referido nos números anteriores só poderão ser utilizados no ensino da condução. Porém, quando conduzidos pelos instrutores ou directores das escolas de condução a que pertençam poderão ser utilizados fora dos dias e horas legalmente estabelecidos para ministração do ensino, mas apenas nos seguintes casos:
+
+a) Nas deslocações entre o domicílio e os locais de trabalho dos instrutores e directores das escolas;
+
+b) Havendo, por motivo de reparação mecânica, que efectuar rodagem do veículo;
+
+c) Nas deslocações entre as oficinas de reparação e a sede da escola de condução ou o domicílio do instrutor ou director da escola.
+
+4 - Nos casos previstos nas alíneas a), b) e c) do número anterior, o instrutor ou director da escola de condução só poderá seguir acompanhado por pessoal da respectiva escola, salvo no caso da alínea c), em que poderá também transportar o mecânico ou mecânicos encarregados da reparação.
+
+5 - Os veículos que beneficiem da redução do imposto sobre a venda de veículos automóveis devem, para efeitos de identificação, obedecer a normas, quanto ao uso de cores padrão e distintivo, a definir por despacho, a publicar, do Secretário de Estado dos Transportes.
+
+6 - Para efeitos de fiscalização do que se dispõe no número anterior, devem os beneficiados, no prazo de trinta dias a contar da data do desembaraço aduaneiro do veículo ou da respectiva aquisição à entidade importadora, apresentá-lo nas alfândegas para vistoria.
+
+7 - Sem prejuízo do que dispõe o número seguinte, os veículos automóveis que, tendo beneficiado da redução do imposto sobre a venda nos termos do presente despacho:
+
+a) Sejam alienados antes de decorrido o prazo estabelecido na primeira parte do n.º 2;
+
+b) Tenham sido desviados do fim para o qual lhes foi concedido o benefício; ou
+
+c) Não sejam apresentados à vistoria prevista no n.º 6;
+
+ficam sujeitos ao pagamento de uma importância igual à da diferença entre o imposto (não beneficiado) por eles devido à data do desalfandegamento e o montante do imposto já efectivamente pago.
+
+8 - Às escolas de condução ou instrutores por conta própria, relativamente aos quais se prove a actuação prevista em qualquer das alíneas do número anterior, ou que hajam infringido o que se dispõe nos n.os 3 e 4, será definitivamente retirado o regime constante do presente despacho, independentemente de qualquer outra sanção ao tempo prevista na lei.
+
+9 - O presente despacho entra em vigor na data em que se inicie a vigência do despacho referido no n.º 5.
+
+Ministérios das Finanças e do Plano e dos Transportes e Comunicações, 31 de Julho de 1980. - O Secretário de Estado do Orçamento, António Jorge de Figueiredo Lopes. - O Secretário de Estado dos Transportes, José Miguel Nunes Anacoreta Correia.

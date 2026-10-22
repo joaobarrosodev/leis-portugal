@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:277846:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2004-876599938",
+ "dre_path": "/dr/detalhe/lei/21-2004-277846",
+ "source_lastmod": "2024-08-12",
+ "versions": [
+  {
+   "date": "2004-06-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "876599998",
+    "876599999",
+    "876600000",
+    "876600001"
+   ]
+  }
+ ],
+ "fragments": {
+  "876599998": {
+   "fragment_id": "876599939",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 21/2004\n\nde 5 de Junho\n\nAltera o âmbito de aplicação pessoal da Lei n.º 9/2002, de 11 de Fevereiro, que regula o regime jurídico dos períodos de prestação de serviço militar de ex-combatentes, para efeitos de aposentação e reforma.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "876599999": {
+   "fragment_id": "876599940",
+   "type": 11,
+   "heading": "Artigo 1.º — Alargamento do âmbito de aplicação pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alargamento do âmbito de aplicação pessoal\n\nO regime jurídico consagrado na Lei n.º 9/2002, de 11 de Fevereiro, é aplicável aos:\n\na) Ex-combatentes abrangidos por sistemas de segurança social de Estados membros da União Europeia e demais Estados membros do espaço económico europeu, bem como pela legislação suíça, coordenados pelos regulamentos comunitários, ainda que não tenham sido beneficiários do sistema de segurança social nacional;\n\nb) Ex-combatentes abrangidos por sistemas de segurança social de Estados com os quais foram celebrados instrumentos internacionais que prevejam a totalização de períodos contributivos, desde que tenham sido beneficiários do sistema de segurança social nacional, ainda que não se encontre preenchido o prazo de garantia para acesso a pensão;\n\nc) Ex-combatentes que não sejam subscritores da Caixa Geral de Aposentações nem beneficiários do regime de pensões do sistema público de segurança social, nos termos de legislação a publicar."
+  },
+  "876600000": {
+   "fragment_id": "876599941",
+   "type": 11,
+   "heading": "Artigo 2.º — Requerimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Requerimentos\n\n1 - Os ex-combatentes referidos no artigo anterior devem entregar os seus requerimentos no prazo de 120 dias a contar do dia da publicação da portaria prevista no número seguinte.\n\n2 - Os formulários dos requerimentos serão aprovados por portaria do Ministro da Defesa Nacional."
+  },
+  "876600001": {
+   "fragment_id": "876599942",
+   "type": 11,
+   "heading": "Artigo 3.º — Legislação complementar e regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Legislação complementar e regulamentação\n\nA legislação complementar e regulamentação necessárias para aplicação integral do disposto na presente lei serão aprovadas pelo Governo no prazo de 60 dias a contar da sua entrega em vigor."
+  }
+ }
+}

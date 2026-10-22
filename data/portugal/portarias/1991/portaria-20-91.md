@@ -1,0 +1,277 @@
+---
+schema_version: '1.0'
+id: pt:dre:694065:por
+title: Portaria n.º 20/91
+short_title: null
+summary: Estabelece o Subprograma de Estruturas de Desenvolvimento Experimental (DE) e de Demonstração (D) do âmbito das direcções
+  regionais de agricultura do Programa de Estruturas de Investigação e Desenvolvimento Experimental e de Demonstração
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 20/91
+official_date: null
+publication_date: '1991-01-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 8/1991, Série I-B de 1991-01-10
+  number: '8'
+  series: I
+  supplement: null
+  pages: 139 - 141
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/01/008b00/01390141.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/20/1991/01/10/p/dre/pt/html
+  oj: null
+  dre: '694065'
+  dre_path: /dr/detalhe/portaria/20-1991-694065
+  internal: pt:dre:694065:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20-1991-694065
+  metadata_url: https://data.dre.pt/eli/port/20/1991/01/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20-1991-694065
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-04-03T00:00:00Z'
+integrity:
+  source_sha256: a67f7664dd18e769b46cdf9457840d379ca3fea6f6599c083d487607be8d6455
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-20-694065.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Desenvolvimento Rural
+- Comissão de Coordenação das Actividades de Desenvolvimento Experimental e de Demonstração
+- Direcção Regional de Agricultura
+- Programa de Estruturas de Investigação e Desenvolvimento Experimental e de Demonstração
+- Instituto Nacional de Investigação Agrária
+relationships:
+- type: amended_by
+  target: pt:dre:621966:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31985R3828
+  label: null
+  source: http://data.europa.eu/eli/reg/1985/3828/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20/91
+
+de 10 de Janeiro
+
+Considerando que o desenvolvimento científico e tecnológico do sector agrário português constitui um dos grandes desafios nacionais face à integração na Europa comunitária;
+
+Considerando que a ciência e a tecnologia figuram, indiscutivelmente, entre as apostas prioritárias para a mudança do sector agrícola nacional e sua plena integração no mercado alargado, importa que Portugal desenvolva um enorme esforço para, num período de forte mutação tecnológica e económica, não se agravar o fosso do desenvolvimento que o separa dos seus parceiros europeus;
+
+Considerando que o Regulamento (CEE) n.º [3828/85](http://data.europa.eu/eli/reg/1985/3828/oj?locale=pt), do Conselho, de 20 de Dezembro, que institui o Programa Específico de Desenvolvimento da Agricultura Portuguesa (PEDAP), prevê no seu artigo 8.º a construção e o equipamento de centros experimentais, bem como o desenvolvimento e equipamento de explorações modelo, com o objectivo de demonstrar aos agricultores a possibilidade real do sistema, métodos e técnicas de produção;
+
+Considerando que os Decretos-Leis n.os 5-A/88, de 14 de Janeiro, e 190/86, de 16 de Julho, atribuem ao Instituto Nacional de Investigação Agrária e às direcções regionais de agricultura competências para a formulação e concretização das políticas de investigação e desenvolvimento experimental e de demonstração nos sectores agrícola e agro-industrial, respectivamente nos âmbitos nacional e regional, e ainda competências para a implementação de medidas de divulgação e formação a partir dos conhecimentos produzidos;
+
+Considerando que foi aprovado pela Comissão das Comunidades Europeias o Subprograma de Estruturas de Desenvolvimento Experimental e de Demonstração do âmbito das direcções regionais de agricultura do Programa de Estruturas de Investigação e Desenvolvimento Experimental e de Demonstração:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do artigo 9.º do Decreto-Lei n.º 96/87, de 4 de Março, o seguinte:
+
+1.º O Subprograma de Estruturas de Desenvolvimento Experimental (DE) e de Demonstração (D) do âmbito das direcções regionais de agricultura (DRA) Programa de Estruturas de Investigação e Desenvolvimento Experimental e de Demonstração -, adiante designado por Programa, abrange todo o território nacional.
+
+2.º O Programa é plurianual, com a duração de quatro anos, dispondo de orçamento aprovado para o período de 1990 a 1993, inclusive.
+
+3.º Constituem objectivos gerais do Programa:
+
+a) Revitalizar e reorientar as actividades de DE e de D a desenvolver nos centros experimentais e unidades laboratoriais dependentes do Ministério da Agricultura, Pescas e Alimentação e dos órgãos de governo próprio das regiões autónomas, bem como de instituições públicas ou privadas, que levem a efeito acções da mesma natureza;
+
+b) Estabelecer e fortalecer a correspondência e complementaridade das actividades a desenvolver pelas estações e serviços nacionais de I-DE dependentes do Instituto Nacional de Investigação Agrária (INIA) com as actividades dos centros experimentais dependentes das DRA, alargando-as, ainda, a outras instituições de I-DE, nomeadamente universidades e institutos politécnicos;
+
+c) Apoiar o processo de modernização e diversificação do aparelho produtivo agrícola português, bem como a melhoria e defesa dos padrões de qualidade do produto agrícola, no sentido de obtenção de um maior valor acrescentado que beneficie o agricultor;
+
+d) Reforçar a capacidade nacional para participar nos programa de I-DE e outras actividades científicas e técnicas internacionais, especialmente naqueles que se processem a nível comunitário;
+
+e) Desenvolver a capacidade nacional para participar no estudo dos ecossistemas, bem como na identificação, avaliação, exploração e conservação dos recursos naturais.
+
+4.º Constituem objectivos específicos do Programa:
+
+a) Dinamizar os centros experimentais e unidades laboratoriais dependentes das entidades referidas na alínea a) do n.º 3.º;
+
+b) Apoiar o desenvolvimento e equipamento de unidades de demonstração a implantar em explorações agrícolas, previamente seleccionadas e caracterizadas sob o ponto de vista agro-ecológico.
+
+5.º São elegíveis as seguintes entidades:
+
+a) As DRA;
+
+b) Os organismos ou serviços das regiões autónomas que sejam indicados nos diplomas legislativos regionais a que se refere o n.º 27.º;
+
+c) As instituições públicas ou privadas que levem a efeito as actividades previstas na alínea a) do n.º 3.º;
+
+6.º Para a prossecução dos seus objectivos, o Programa apoia financeiramente, através de concessão de ajudas sob a forma de subsídios não reembolsáveis, as acções elegíveis a seguir enunciadas:
+
+a) Construção de novas instalações e adaptação ou ampliação das existentes e respectivos projectos;
+
+b) Instalação de infra-estruturas e melhoramentos fundiários;
+
+c) Aquisição do equipamento necessário, nomeadamente laboratorial, informático e agrícola;
+
+d) Aquisição de viaturas e máquinas agrícolas;
+
+e) Aquisição de animais e de plantas e instalação de culturas de carácter permanente;
+
+f) Instalação de unidades de demonstração;
+
+g) Acções de coordenação, gestão, acompanhamento e controlo decorrentes da implementação do Programa.
+
+7.º O nível das ajudas a atribuir é o seguinte:
+
+a) 100% do custo das acções elegíveis para os projectos cujos proponentes e executores sejam as DRA;
+
+b) 90% do custo das acções elegíveis para os projectos cujos proponentes e executores sejam as entidades referidas na alínea c) do n.º 5.º;
+
+c) 70% do custo das acções elegíveis relativas às unidades de demonstração e divulgação propostas pelas DRA e executadas pelos agricultores.
+
+8.º No âmbito deste Programa, é criada a Comissão de Coordenação das Actividades de Desenvolvimento Experimental e de Demonstração, adiante designada por Comissão, directamente dependente do presidente do INIA, que é composta pelos seguintes membros:
+
+a) Representante do INIA designado entre o pessoal da carreira científica, que presidirá e exercerá as funções de coordenador nacional do Programa;
+
+b) Representante de cada uma das DRA.
+
+9.º Os membros da Comissão, bem como o coordenador nacional do Programa, serão designados por despacho do Ministro da Agricultura, Pescas e Alimentação, sob proposta dos dirigentes máximos dos respectivos organismos.
+
+10.º A Comissão tem como competências:
+
+a) Analisar os processos de candidatura a apresentar pelos promotores;
+
+b) Submeter à aprovação ministerial os processos de candidatura apresentados;
+
+c) Estabelecer as medidas necessárias à eficaz implementação e gestão do Programa.
+
+11.º Compete ao INIA, na qualidade de entidade coordenadora deste Programa, o seguinte:
+
+a) Assegurar, com a colaboração da Direcção-Geral de Planeamento e Agricultura e as DRA, o acompanhamento e controlo da execução dos projectos de investimento;
+
+b) Prestar o apoio logístico necessário ao funcionamento da Comissão.
+
+12.º Compete às DRA:
+
+a) Elaborar e apresentar à Comissão os processos de candidatura das entidades referidas na alínea a) do n.º 5.º;
+
+b) Receber, informar e apresentar os processos de candidatura das entidades referidas na alínea b) do n.º 5.º;
+
+c) Executar os projectos da sua responsabilidade e gerir as dotações financeiras que lhes forem atribuídas;
+
+d) Verificar, com a colaboração do INIA, a regular execução dos projectos do Programa cujos promotores não sejam as DRA;
+
+e) Preparar e celebrar os contratos de concessão de ajudas aos promotores relativamente aos projectos de investimento aprovados;
+
+f) Enviar ao IFADAP o dossier final de cada projecto de investimento aprovado.
+
+13.º Compete ao IFADAP:
+
+a) Efectuar o pagamento das ajudas concedidas à medida que as despesas forem efectuadas contra entrega de comprovativos;
+
+b) Conceder um adiantamento de 20% do montante das acções elegíveis dos projectos cujos proponentes sejam as DRA.
+
+14.º Os processos de candidatura deverão incluir:
+
+a) Programa de experimentação, a levar a efeito num período mínimo de cinco anos;
+
+b) Programa de investimentos e respectivo orçamento;
+
+c) Proposta de protocolos de cooperação institucional.
+
+15.º O programa de experimentação deverá incluir os seguintes elementos:
+
+a) Enunciado e descrição do programa de experimentação;
+
+b) Justificação, objectivos e áreas ou regiões abrangidos das unidades experimentais a que respeitam;
+
+c) Estruturas físicas e equipas técnicas afectas ao delineamento e execução dos ensaios, à interpretação e vulgarização dos seus resultados, as quais devem possibilitar a avaliação da respectiva capacidade técnica e científica;
+
+d) Técnicos responsáveis quer ao nível de execução quer ao nível de acompanhamento e avaliação;
+
+e) Ficha financeira indicando os custos directos e fontes de financiamento.
+
+16.º O programa de investimento devera incluir os seguintes elementos:
+
+a) Estudos preliminares relativos às novas construções e à reabilitação das existentes;
+
+b) Listagem e caracterização dos equipamentos, máquinas agrícolas e viaturas a adquirir;
+
+c) Caracterização dos animais e plantas a adquirir;
+
+d) Orçamento financeiro e sua calendarização.
+
+17.º Os protocolos de cooperação institucional a celebrar entre as DRA, o INIA, universidades, institutos, organizações de agricultores ou outras entidades deverão incluir as principais fases dos processos, nomeadamente as respeitantes à sua elaboração, concretização e divulgação dos resultados, referenciando-se os meios a disponibilizar e as atribuições e responsabilidades dos intervenientes.
+
+18.º As unidades de demonstração e divulgação serão instaladas em propriedades de agricultores, em locais devidamente seleccionados, em termos de zonagem e ordenamento, pela DRA da respectiva área, a submeter à apreciação da Comissão.
+
+19.º No caso das unidades de demonstração e divulgação a que se refere o número anterior, serão estabelecidos protocolos de cooperação entre as DRA respectivas e os agricultores, onde ficarão definidas a respectiva duração e as responsabilidades mútuas, respeitantes a apoios técnicos da DRA e apoios financeiros do Programa, bem como os compromissos a satisfazer pelos agricultores, designadamente:
+
+a) Participação nos investimentos;
+
+b) Cumprimento das normas e protocolos técnicos;
+
+c) Disponibilidade para o fornecimento dos dados técnicos e económicos obtidos, a fim de serem divulgados a outros agricultores;
+
+d) Facultar o acesso a agricultores interessados e aos técnicos do Ministério da Agricultura, Pescas e Alimentação às unidades de demonstração e divulgação;
+
+e) Compromisso de correcta execução técnica desde o início até à conclusão do projecto.
+
+20.º Para a melhor prossecução dos objectivos do Programa, o INIA designará um representante de cada um dos seus serviços operativos, que será o seu interlocutor junto das DRA e assessorará a Comissão.
+
+21.º De cada processo de candidatura a apresentar pelas DRA à Comissão deverá constar o parecer do respectivo conselho técnico regional.
+
+22.º A apresentação dos processos de candidatura cujos proponentes directos não sejam as DRA serão apresentadas nestas até ao último dia do mês de Fevereiro e serão objecto de parecer das mesmas.
+
+23.º As DRA enviarão, até 31 de Março, à Comissão todos os processos de candidatura, formalizados de acordo com o disposto nos n.os 14.º, 15.º, 16.º e 17.º
+
+24.º - 1 - A Comissão, até 30 de Abril, submeterá a despacho ministerial o resultado da apreciação dos processos de candidatura.
+
+2 - A Comissão, até cinco dias úteis após o respectivo despacho, informará as DRA da decisão tomada, devendo estas comunicá-la de imediato aos interessados.
+
+25.º Para o ano de 1991, e sem prejuízo do disposto nos n.os 14.º, 15.º, 16.º e 17.º, a Comissão poderá apreciar e submeter a aprovação ministerial os processos de candidatura à medida que lhe forem apresentados, até 30 de Abril, com vista a uma execução mais célere do Programa.
+
+26.º Nos contratos de concessão de ajudas, cujos promotores não sejam as DRA, estas outorgarão em representação do Estado.
+
+27.º Este Programa será aplicável nas regiões autónomas de acordo com o preceituado no artigo 20.º do Decreto-Lei n.º 96/87, de 4 de Março.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+**Assinada em 13 de Dezembro de 1990.**
+
+**O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha.**

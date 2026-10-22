@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:430426:por
+title: Decreto n.º 552/76
+short_title: null
+summary: Aprova o Acordo Cultural entre a República Portuguesa e a República Popular da Bulgária
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Políticos
+proposing_entity: null
+official_number: 552/76
+official_date: null
+publication_date: '1976-07-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1976, Série I de 1976-07-13
+  number: '162'
+  series: I
+  supplement: null
+  pages: 1544 - 1545
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/07/16200/15441545.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '430426'
+  dre_path: /dr/detalhe/decreto/552-1976-430426
+  internal: pt:dre:430426:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/552-1976-430426
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/552-1976-430426
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-07-13T00:00:00Z'
+integrity:
+  source_sha256: 3bd09f487dbf1c0576241178fd15fdc69baf26a2309cc16fc92b0fee0fa1e212
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-552-430426.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 552/76
+
+de 13 de Julho
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado o Acordo Cultural entre a República Portuguesa e a República Popular da Bulgária, assinado em Sófia em 7 de Maio de 1976, cujo texto em português vai anexo ao presente decreto.
+
+José Baptista Pinheiro de Azevedo - Ernesto Augusto de Melo Antunes - Vítor Manuel Rodrigues Alves - António de Almeida Santos.
+
+**Assinado em 28 de Junho de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+
+ACORDO CULTURAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA POPULAR DA BULGÁRIA
+
+O Governo da República Portuguesa e o Governo da República Popular da Bulgária:
+
+Animados pelo desejo de promover relações culturais e científicas;
+
+Exprimindo a vontade de desenvolver a cooperação e a amizade entre os dois povos;
+
+E desejando promover o conhecimento mútuo dos resultados obtidos pelos dois países nos domínios da cultura, da ciência, do ensino, da arte, da protecção sanitária, da imprensa, da radiotelevisão, da cinematografia e dos desportos:
+
+Decidiram concluir o presente Acordo, com base no respeito recíproco dos princípios da soberania e da independência nacionais, da igualdade dos direitos e das vantagens mútuas, da não ingerência nos assuntos internos.
+
+ARTIGO I
+
+As duas Partes favorecerão o desenvolvimento da cooperação entre as instituições científicas e de investigação dos dois países através:
+
+a) De visitas recíprocas de cientistas e de investigadores científicos, com fins de estudo e documentação e para comunicações científicas;
+
+b) De trocas de livros e publicações científicas e outros materiais de informação científica.
+
+ARTIGO II
+
+As duas Partes favorecerão o desenvolvimento das relações no domínio do ensino através:
+
+a) Da promoção da cooperação entre as Universidades e outros estabelecimentos de ensino superior;
+
+b) Da criação de cadeiras e da organização de conferências nos estabelecimentos de ensino superior, para o estudo da língua, da literatura e da civilização búlgaras e portuguesas, respectivamente;
+
+c) De visitas recíprocas de professores de todos os graus de ensino, a fim de se documentarem e realizarem conferências;
+
+d) Do envio recíproco de documentação e informações sobre a economia, a geografia, a história, a cultura e a organização do Estado dos dois países, com vista à redacção dos capítulos dos manuais escolares e de outras publicações referentes ao outro país;
+
+e) De trocas de publicações da especialidade e outros materiais documentais e de informação no domínio do ensino.
+
+ARTIGO III
+
+Cada Parte concederá reciprocamente bolsas de estudo e de especialização, a fim de permitir que os cidadãos da outra Parte efectuem estudos, investigações ou trabalhos no seu território ou aperfeiçoem a sua formação artístico-cultural e técnico-científica.
+
+ARTIGO IV
+
+Cada Parte estudará as possibilidades de equivalência recíproca dos títulos, graus e diplomas de ensino e científicos obtidos no território da outra Parte.
+
+Para esse efeito, cada Parte porá à disposição da outra a documentação necessária e fará as propostas adequadas.
+
+ARTIGO V
+
+1. As duas Partes, a pedido, prestarão reciprocamente assistência nos domínios da ciência, do ensino, da protecção sanitária e noutros domínios, pelo envio de especialistas para trabalharem no outro país durante períodos limitados.
+
+2. O envio de especialistas realizar-se-á com base em protocolos concluídos entre os Ministérios e as instituições competentes dos dois países, que estabelecerão as condições concretas de actividade e de remuneração dos especialistas. Com esta finalidade, serão celebrados contratos entre o país que recebe os especialistas e os especialistas da outra Parte.
+
+ARTIGO VI
+
+As duas Partes favorecerão a cooperação no domínio da literatura, do teatro, da música, das artes plásticas, da cinematografia, bem como noutros domínios da actividade cultural e artística, através:
+
+a) De visitas recíprocas de escritores, artistas, cineastas, compositores e outras personalidades culturais, para informação e realização de conferências da especialidade;
+
+b) Do intercâmbio de grupos artísticos e de artistas, a fim de realizarem concertos e espectáculos;
+
+c) Da organização recíproca de exposições no domínio da cultura, da ciência e das artes;
+
+d) Da tradução e publicação de obras literárias e científicas do outro país;
+
+e) Da organização recíproca de manifestações culturais por ocasião das festas nacionais dos dois países.
+
+ARTIGO VII
+
+As duas Partes facilitarão o desenvolvimento das relações entre os museus, bibliotecas e outras instituições culturais através da troca de livros, publicações e microfilmes sobre matéria social, cultural, artística e técnico-científica.
+
+ARTIGO VIII
+
+As duas Partes favorecerão a coooperação directa entre as agências de imprensa e as estações de radiodifusão e de televisão dos dois países, bem como o intercâmbio de visitas de jornalistas e repórteres.
+
+ARTIGO IX
+
+As duas Partes facilitarão os convites recíprocos dirigidos a personalidades nos domínios da ciência, do ensino, da cultura e da arte, a fim de participarem em congressos, festivais e outras manifestações de carácter internacional organizados nos respectivos países.
+
+ARTIGO X
+
+As duas Partes favorecerão o desenvolvimento do intercâmbio nos domínios do turismo e dos desportos.
+
+ARTIGO XI
+
+Cada Parte assegurará condições normais para o desenvolvimento das actividades da outra Parte, assim como para a divulgação, através dos meios de comunicação social, das suas realizações culturais, científicas e artísticas, com base nas estipulações do presente Acordo e em conformidade com as regulamentações em vigor no seu território.
+
+ARTIGO XII
+
+1. Após a entrada em vigor do presente Acordo, as duas Partes estabelecerão programas periódicos, concretizando actividades a realizar, bem como as condições necessárias à sua organização e financiamento.
+
+2. As negociações para o estabelecimento dos programas realizar-se-ão alternadamente nas capitais dos dois países.
+
+ARTIGO XIII
+
+1. Para a execução das disposições do artigo anterior será constituída uma comissão mista, de composição paritária, encarregada de apresentar sugestões, recomendações e pareceres às Partes Contratantes, com vista à elaboração dos programas de intercâmbio cultural e científico.
+
+2. A comissão mista reunir-se-á, pelo menos, uma vez de dois em dois anos, alternadamente em Portugal e na Bulgária.
+
+3. A presidência da reunião caberá a um representante do país no qual se realiza a reunião.
+
+4. A comissão mista poderá criar subcomissões ou grupos de trabalho, com o fim de elaborar estudos especializados sobre as actividades previstas no presente Acordo e de submeter posteriormente as suas conclusões às Partes Contratantes.
+
+5. A comissão mista poderá convocar peritos para as suas reuniões, na qualidade de conselheiros ou assessores.
+
+ARTIGO XIV
+
+1. O presente Acordo será submetido à aprovação dos organismos competentes das duas Partes e entrará em vigor na data da última notificação da aprovação.
+
+2. O Acordo será válido por cinco anos, podendo ser renovado, por recondução tácita, por novos períodos de cinco anos, se nenhuma das Partes o denunciar, por escrito, pelo menos seis meses antes da sua expiração.
+
+Feito em Sófia aos 7 de Maio de 1976, em dois exemplares originais, nas línguas portuguesa e búlgara, fazendo os dois textos igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+Ernesto Augusto de Melo Antunes.
+
+Pelo Governo da República Popular da Bulgária:
+
+(Assinatura ilegível.)

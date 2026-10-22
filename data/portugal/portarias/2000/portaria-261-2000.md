@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:273872:por
+title: Portaria n.º 261/2000
+short_title: null
+summary: Fixa os encargos orçamentais anuais resultantes da celebração do contrato de seguro para militares em missões humanitárias
+  e de paz a decorrer fora do território nacional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Defesa Nacional, das Finanças e da Reforma do Estado e da Administração Pública
+proposing_entity: null
+official_number: 261/2000
+official_date: null
+publication_date: '2000-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2000, Série I-B de 2000-05-13
+  number: '111'
+  series: I
+  supplement: null
+  pages: 2101 - 2101
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/05/111b00/21012101.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/261/2000/05/13/p/dre/pt/html
+  oj: null
+  dre: '273872'
+  dre_path: /dr/detalhe/portaria/261-2000-273872
+  internal: pt:dre:273872:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/261-2000-273872
+  metadata_url: https://data.dre.pt/eli/port/261/2000/05/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/261-2000-273872
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-05-13T00:00:00Z'
+integrity:
+  source_sha256: aebf0df23f2b277832617f6a5ae0df09c0933d180a33769f6d753bb3235f5bed
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-261-273872.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Missão de PAZ
+- Missão Humanitária
+- Missão no Estrangeiro
+- Forças Armadas
+- Militar
+- Seguro de VIDA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/233/1996/12/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/233/1996/12/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/905/1999/10/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/905/1999/10/13/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 261/2000
+
+de 13 de Maio
+
+A [Portaria n.º 905/99](https://diariodarepublica.pt/dr/detalhe/portaria/905-1999-662115), de 13 de Outubro, fixou em 1700 o número de militares integrados em missões humanitárias e de paz fora do território nacional abrangidos pelo seguro instituído pelo artigo 7.º-A do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro. Ora, constatou-se que, em virtude dos movimentos de rendição, este número pode ser excedido, pelo que importa prever tal eventualidade.
+
+A par destas matérias determina a mesma portaria que o início e o fim da garantia da pessoa segura se reportam ao início a ao fim da missão, abrangendo os movimentos e locais de embarque e desembarque definitivo, sem, todavia, proceder à definição dos conceitos de «embarque» e «desembarque», a qual se manifesta indispensável.
+
+É também previsto no mesmo diploma que o período do seguro é de um ano, renovável, pelo que os encargos a assumir pelo Estado se projectam em mais de um ano económico, obrigando, assim, nos termos do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, à prolação de uma portaria conjunta.
+
+Finalmente, é manifesta a urgência na produção de efeitos do contrato a celebrar, de modo a abranger os militares já integrados nas missões humanitárias e de paz a decorrer fora do território nacional, urgência esta que obriga a que o contrato produza efeitos, excepto o do pagamento do respectivo preço, desde a data da sua celebração.
+
+Assim, e não obstante serem distintas as matérias a tratar, a economia de meios e a necessidade da intervenção conjunta de membros do Governo justificam a sua inclusão numa única portaria.
+
+Assim:
+
+Tendo presentes as disposições constantes da [Portaria n.º 905/99](https://diariodarepublica.pt/dr/detalhe/portaria/905-1999-662115), de 13 de Outubro, o n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, e a alínea b) do n.º 2 do artigo 45.º da [Lei n.º 98/97](https://diariodarepublica.pt/dr/detalhe/lei/98-1997-193663), de 26 de Agosto:
+
+Manda o Governo, pelos Ministros da Defesa Nacional, das Finanças e da Reforma do Estado e da Administração Pública, o seguinte:
+
+1.º O número de militares abrangido pelo seguro previsto no artigo 7.º-A do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro, e na [Portaria n.º 905/99](https://diariodarepublica.pt/dr/detalhe/portaria/905-1999-662115), de 13 de Outubro, é o dos que, efectivamente, se encontrarem em missão.
+
+2.º Os encargos orçamentais anuais resultantes da celebração do contrato de seguro previsto no artigo 7.º-A do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro, e na [Portaria n.º 905/99](https://diariodarepublica.pt/dr/detalhe/portaria/905-1999-662115), de 13 de Outubro, não poderão exceder os seguintes montantes:
+
+a) No ano de 2000, 70000000$00;
+
+b) No ano de 2001, 120000000$00;
+
+c) No ano de 2002, 120000000$00.
+
+3.º As importâncias fixadas para os anos de 2001 e de 2002 serão acrescidas aos saldos que se apurarem na execução orçamental dos anos anteriores.
+
+4.º Os encargos resultantes da execução do presente diploma serão satisfeitos por verbas adequadas do orçamento do Ministério da Defesa Nacional para os anos de 2000, de 2001 e de 2002, inscritas e a inscrever pelos montantes correspondentes.
+
+5.º Para efeitos da determinação do início e do fim da missão, entende-se por «embarque» o momento em que os militares acedem ao meio de transporte que os irá conduzir ao local de intervenção da missão e por «desembarque» o momento em que os militares deixam o meio de transporte que os conduziu no regresso definitivo da missão.
+
+6.º O contrato de seguro a celebrar, porque abrange os militares que já integram as missões humanitárias e de paz, configura-se como manifestamente urgente, produzindo os seus efeitos desde a data da celebração, com excepção do preço a pagar, o qual fica condicionado à concessão de visto pelo Tribunal de Contas.
+
+7.º Os efeitos da presente portaria retroagem à data de 8 de Março de 2000.
+
+Em 17 de Abril de 2000.
+
+**O Ministro da Defesa Nacional, Júlio de Lemos de Castro Caldas. - O Ministro das Finanças, Joaquim Augusto Nunes Pina Moura. - O Ministro da Reforma do Estado e da Administração Pública, Alberto de Sousa Martins.**

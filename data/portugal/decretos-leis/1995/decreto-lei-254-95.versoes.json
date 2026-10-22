@@ -1,0 +1,1682 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:575726:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-835864709",
+ "dre_path": "/dr/detalhe/decreto-lei/254-1995-575726",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835864796",
+    "835864797",
+    "835864798",
+    "835864799",
+    "835864800",
+    "835864801",
+    "835864802",
+    "835864803",
+    "835864804",
+    "835864805",
+    "835864806",
+    "835864807",
+    "835864808",
+    "835864809",
+    "835864810",
+    "835864811",
+    "835864812",
+    "835864813",
+    "835864814",
+    "835864815",
+    "835864816",
+    "835864817",
+    "835864818",
+    "835864819",
+    "835864820",
+    "835864821",
+    "835864822",
+    "835864823",
+    "835864824",
+    "835864825",
+    "835864826",
+    "835864827",
+    "835864828",
+    "835864829",
+    "835864830",
+    "835864831",
+    "835864832",
+    "835864833",
+    "835864834",
+    "835864835",
+    "835864836",
+    "835864837",
+    "835864838",
+    "835864839",
+    "835864840",
+    "835864841",
+    "835864842",
+    "835864843",
+    "835864844",
+    "835864845",
+    "835864846",
+    "835864847",
+    "835864848",
+    "835864849",
+    "835864850",
+    "835864851",
+    "835864852",
+    "835864853",
+    "835864854",
+    "835864855",
+    "835864856",
+    "835864857",
+    "835864858",
+    "835864859",
+    "835864860",
+    "835864861",
+    "835864862",
+    "835864863",
+    "835864864",
+    "835864865",
+    "835864866",
+    "835864867",
+    "835864868",
+    "835864869"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:469069:por",
+     "title": "Decreto-Lei n.º 229/2005",
+     "published": "2005-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/229-2005-469069"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 40.º"
+   ],
+   "fragments": [
+    "835864796",
+    "835864797",
+    "835864798",
+    "835864799",
+    "835864800",
+    "835864801",
+    "835864802",
+    "835864803",
+    "835864804",
+    "835864805",
+    "835864806",
+    "835864807",
+    "835864808",
+    "835864809",
+    "835864810",
+    "835864811",
+    "835864812",
+    "835864813",
+    "835864814",
+    "835864815",
+    "835864816",
+    "835864817",
+    "835864818",
+    "835864819",
+    "835864820",
+    "835864821",
+    "835864822",
+    "835864823",
+    "835864824",
+    "835864825",
+    "835864826",
+    "835864827",
+    "835864828",
+    "835864829",
+    "835864830",
+    "835864831",
+    "835864832",
+    "835864833",
+    "835864834",
+    "835864835",
+    "835864836",
+    "835864837",
+    "835864838",
+    "835864839",
+    "835864840",
+    "835864841",
+    "835864842",
+    "835864872",
+    "835864844",
+    "835864845",
+    "835864846",
+    "835864847",
+    "835864848",
+    "835864849",
+    "835864850",
+    "835864851",
+    "835864852",
+    "835864853",
+    "835864854",
+    "835864855",
+    "835864856",
+    "835864857",
+    "835864858",
+    "835864859",
+    "835864860",
+    "835864861",
+    "835864862",
+    "835864863",
+    "835864864",
+    "835864865",
+    "835864866",
+    "835864867",
+    "835864868",
+    "835864869",
+    "835864871",
+    "835864870"
+   ]
+  },
+  {
+   "date": "2007-02-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:517985:por",
+     "title": "Lei n.º 9/2007",
+     "published": "2007-02-19",
+     "dre_path": "/dr/detalhe/lei/9-2007-517985"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º",
+    "Revoga Artigo 50.º",
+    "Revoga Artigo 51.º",
+    "Revoga Artigo 52.º",
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 54.º",
+    "Revoga Artigo 55.º",
+    "Revoga Artigo 56.º",
+    "Revoga Artigo 57.º",
+    "Revoga Artigo 58.º",
+    "Revoga Artigo 59.º",
+    "Revoga Artigo 60.º",
+    "Revoga Artigo 61.º",
+    "Revoga Artigo 62.º",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "835864796",
+    "835864797",
+    "835864873",
+    "835864874",
+    "835862975",
+    "835862976",
+    "835862977",
+    "835862978",
+    "835862979",
+    "835862980",
+    "835862981",
+    "835862982",
+    "835862983",
+    "835864809",
+    "835862984",
+    "835862985",
+    "835864812",
+    "835862986",
+    "835862987",
+    "835862988",
+    "835862989",
+    "835862990",
+    "835862991",
+    "835864819",
+    "835862992",
+    "835862993",
+    "835862994",
+    "835864823",
+    "835864824",
+    "835862995",
+    "835862996",
+    "835862997",
+    "835862998",
+    "835862999",
+    "835863000",
+    "835863001",
+    "835864832",
+    "835863002",
+    "835863003",
+    "835863004",
+    "835863005",
+    "835864837",
+    "835863006",
+    "835863007",
+    "835863008",
+    "835863009",
+    "835863010",
+    "835863011",
+    "835864844",
+    "835863012",
+    "835863013",
+    "835863014",
+    "835863015",
+    "835863016",
+    "835864850",
+    "835863017",
+    "835864852",
+    "835863018",
+    "835863019",
+    "835863020",
+    "835863021",
+    "835863022",
+    "835864858",
+    "835863023",
+    "835863024",
+    "835863025",
+    "835863026",
+    "835863027",
+    "835863028",
+    "835863029",
+    "835863030",
+    "835863031",
+    "835863032",
+    "835863033",
+    "835863034",
+    "835864870"
+   ]
+  },
+  {
+   "date": "2024-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835809051:por",
+     "title": "Decreto-Lei n.º 133/2023",
+     "published": "2023-12-28",
+     "dre_path": "/dr/detalhe/decreto-lei/133-2023-835809051"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 34.º"
+   ],
+   "fragments": [
+    "835864796",
+    "835864797",
+    "835864873",
+    "835864874",
+    "835862975",
+    "835862976",
+    "835862977",
+    "835862978",
+    "835862979",
+    "835862980",
+    "835862981",
+    "835862982",
+    "835862983",
+    "835864809",
+    "835862984",
+    "835862985",
+    "835864812",
+    "835862986",
+    "835862987",
+    "835862988",
+    "835862989",
+    "835862990",
+    "835862991",
+    "835864819",
+    "835862992",
+    "835862993",
+    "835862994",
+    "835864823",
+    "835864824",
+    "835862995",
+    "835862996",
+    "835862997",
+    "835862998",
+    "835862999",
+    "835863000",
+    "835863001",
+    "835864832",
+    "835863002",
+    "835863003",
+    "835863004",
+    "835863005",
+    "835863035",
+    "835863006",
+    "835863007",
+    "835863008",
+    "835863009",
+    "835863010",
+    "835863011",
+    "835864844",
+    "835863012",
+    "835863013",
+    "835863014",
+    "835863015",
+    "835863016",
+    "835864850",
+    "835863017",
+    "835864852",
+    "835863018",
+    "835863019",
+    "835863020",
+    "835863021",
+    "835863022",
+    "835864858",
+    "835863023",
+    "835863024",
+    "835863025",
+    "835863026",
+    "835863027",
+    "835863028",
+    "835863029",
+    "835863030",
+    "835863031",
+    "835863032",
+    "835863033",
+    "835863034",
+    "835864870"
+   ]
+  }
+ ],
+ "fragments": {
+  "835864796": {
+   "fragment_id": "835864710",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 254/95\n\nde 30 de Setembro\n\nA Lei n.º 4/95, de 21 de Fevereiro, aprovou alterações à Lei Quadro do Sistema de Informações da República Portuguesa, Lei n.º 30/84, de 5 de Setembro, que traduzem uma concentração da competência para a produção de informações em dois serviços: o Serviço de Informações Estratégicas de Defesa e Militares, incumbido da produção de informações destinadas a garantir a independência e os interesses nacionais, a segurança externa do Estado e as que contribuam para o cumprimento das missões das Forças Armadas e para a segurança militar, e o Serviço de Informações de Segurança, incumbido da produção das informações destinadas a garantir a segurança interna.\n\nA mesma lei coloca ainda aqueles dois serviços na dependência do Primeiro-Ministro, através, respectivamente, do Ministro da Defesa Nacional e do Ministro da Administração Interna.\n\nA fusão no Serviço de Informações Estratégicas de Defesa e Militares das atribuições cometidas em 1984 ao Serviço de Informações Estratégicas de Defesa e ao Serviço de Informações Militares reflecte o entendimento das Forças Armadas como uma estrutura integrada no quadro democrático do Estado tendo como referência a Lei de Defesa Nacional e das Forças Armadas, bem como a compreensão das vantagens inerentes à garantia da unidade de pensamento e doutrina na produção de informação estratégica de defesa e de informação estratégica militar.\n\nO presente diploma estrutura o Serviço de Informações Estratégicas de Defesa e Militares, considerando as especificidades relativas à articulação com os demais órgãos e serviços previstos na lei, bem como as relativas aos regimes de pessoal, administrativo e financeiro, reclamadas pelas finalidades próprias do Serviço.\n\nAssim:\n\nNo uso da autorização legislativa conferida pelo artigo 2.º da Lei n.º 4/95, de 21 de Fevereiro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "835864797": {
+   "fragment_id": "835864711",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, atribuições e competências"
+  },
+  "835864798": {
+   "fragment_id": "835864712",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Serviço de Informações Estratégicas de Defesa e Militares (SIEDM), criado pela Lei Quadro do Sistema de Informações da República Portuguesa, é um serviço público que depende do Primeiro-Ministro, através do Ministro da Defesa Nacional.\n\n2 - O SIEDM integra-se no Sistema de Informações da República Portuguesa (SIRP).\n\n3 - O SIEDM tem sede em Lisboa e goza de autonomia administrativa e financeira."
+  },
+  "835864799": {
+   "fragment_id": "835864713",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - O SIEDM é o organismo incumbido da produção de informações que contribuam para a salvaguarda da independência nacional, dos interesses nacionais, da segurança externa do Estado Português, para o cumprimento das missões das Forças Armadas e para a segurança militar.\n\n2 - O SIEDM está exclusivamente ao serviço do Estado e exerce as suas atribuições, no respeito da Constituição e da lei, de acordo com as finalidades e objectivos do SIRP."
+  },
+  "835864800": {
+   "fragment_id": "835864714",
+   "type": 11,
+   "heading": "Artigo 3.º — Limites das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limites das actividades\n\n1 - Não podem ser desenvolvidas actividades de pesquisa, processamento e difusão de informações que envolvam ameaça ou ofensa aos direitos, liberdades e garantias consignados na Constituição e na lei.\n\n2 - Aos funcionários e agentes do SIEDM é vedado exercer poderes, praticar actos ou desenvolver actividades do âmbito ou da competência específica dos tribunais ou das entidades com funções policiais.\n\n3 - É expressamente proibido aos funcionários e agentes do SIEDM proceder à detenção de qualquer pessoa ou instruir processos penais.\n\n4 - A infracção ao disposto no número anterior constitui violação grave dos deveres funcionais, passível de sanção disciplinar, que pode ir até à demissão ou outra medida que implique a cessação de funções no SIEDM, independentemente da responsabilidade criminal e civil que ao caso couber, de harmonia com o disposto na lei geral e na Lei Quadro do SIRP."
+  },
+  "835864801": {
+   "fragment_id": "835864715",
+   "type": 11,
+   "heading": "Artigo 4.º — Desvio de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Desvio de funções\n\n1 - Os funcionários e agentes do SIEDM não podem prevalecer-se da sua qualidade, do seu posto ou da sua função para a prática de qualquer acção de natureza diversa da estabelecida no âmbito institucional do SIEDM.\n\n2 - A violação do disposto no número anterior é punível com pena disciplinar, a graduar em função da gravidade da falta, a qual poderá ir até à demissão ou outra medida que implique o imediato afastamento do Serviço, sem prejuízo do disposto nos artigos 29.º e 30.º da Lei Quadro do SIRP."
+  },
+  "835864802": {
+   "fragment_id": "835864716",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência material\n\nCompete ao SIEDM, no âmbito das suas atribuições específicas, promover, por forma sistemática, a pesquisa e o processamento de notícias e a difusão e arquivo das informações produzidas, devendo, nomeadamente:\n\na) Accionar os meios técnicos e humanos de que tenha sido dotado para a produção de informações, desenvolvendo a sua actividade de acordo com as orientações fixadas pelo Primeiro-Ministro e pelo Ministro da Defesa Nacional;\n\nb) Elaborar os estudos e preparar os documentos que lhe forem determinados;\n\nc) Difundir as informações produzidas, de forma pontual e sistemática, às entidades que lhe forem indicadas;\n\nd) Estudar e propor a adopção de mecanismos de colaboração com o Serviço de Informações de Segurança e demais componentes do SIRP;\n\ne) Comunicar às entidades competentes para a investigação criminal e para o exercício da acção penal os factos configuráveis como ilícitos criminais, salvaguardado o que na lei se dispõe sobre segredo de Estado;\n\nf) Comunicar às entidades competentes, nos termos da lei, as notícias e informações de que tenha conhecimento e respeitantes à segurança do Estado e à prevenção e repressão da criminalidade."
+  },
+  "835864803": {
+   "fragment_id": "835864717",
+   "type": 11,
+   "heading": "Artigo 6.º — Colaboração com organismos estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Colaboração com organismos estrangeiros\n\nNo quadro dos compromissos internacionais assumidos pelo Estado Português e dentro dos limites das suas atribuições específicas, o SIEDM pode, de acordo com as orientações fixadas pelo Primeiro-Ministro, ouvido o Conselho Superior de Informações, cooperar, em todos os domínios da sua actividade, com organismos congéneres estrangeiros."
+  },
+  "835864804": {
+   "fragment_id": "835864718",
+   "type": 11,
+   "heading": "Artigo 7.º — Dever de colaboração com o SIEDM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Dever de colaboração com o SIEDM\n\n1 - Os serviços da Administração Pública, central, regional e local, os institutos públicos e as empresas públicas e concessionárias de serviços públicos devem prestar ao SIEDM a colaboração que, justificadamente, lhes for solicitada, em especial, facultando, nos termos da lei, os elementos de informação que à missão do SIEDM sejam tidos como essenciais.\n\n2 - Especial dever de colaboração impende sobre as Forças Armadas, que estão obrigadas, nos termos das orientações que vierem a ser definidas pelas entidades competentes, a comunicar pontualmente ao SIEDM as notícias e os elementos de informação de que tenham conhecimento directa ou indirectamente relacionados com as matérias referidas no n.º 1 do artigo 2.º"
+  },
+  "835864805": {
+   "fragment_id": "835864719",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de cooperação do SIEDM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dever de cooperação do SIEDM\n\n1 - O SIEDM deve cooperar, no quadro dos objectivos e das finalidades do SIRP e dentro dos limites das suas atribuições específicas, com o Serviço de Informações de Segurança e com o Estado-Maior-General das Forças Armadas.\n\n2 - A cooperação exerce-se de acordo com as instruções e directivas dimanadas do Ministro da Defesa Nacional, nos termos das orientações que vierem a ser definidas pelo Primeiro-Ministro, ouvido o Conselho Superior de Informações."
+  },
+  "835864806": {
+   "fragment_id": "835864720",
+   "type": 11,
+   "heading": "Artigo 9.º — Protecção das fontes de informação, dos resultados das análises e dos elementos conservados no centro de dados e nos arquivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Protecção das fontes de informação, dos resultados das análises e dos elementos conservados no centro de dados e nos arquivos\n\n1 - As actividades do SIEDM são consideradas, para todos os efeitos, classificadas e de interesse para a segurança do Estado e para a salvaguarda da independência nacional.\n\n2 - São abrangidos pelo segredo de Estado os registos, documentos e dossiers, bem como os resultados das análises e os elementos conservados no centro de dados e nos arquivos do SIEDM, respeitantes às matérias mencionadas no n.º 1 do artigo 2.º\n\n3 - Toda a actividade de pesquisa, análise, interpretação, classificação e conservação das informações desenvolvida pelos funcionários e agentes do SIEDM está sujeita ao dever de sigilo, nos termos definidos pela Lei Quadro do SIRP."
+  },
+  "835864807": {
+   "fragment_id": "835864721",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência do Primeiro-Ministro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência do Primeiro-Ministro\n\n1 - Sem prejuízo dos poderes inerentes à dependência orgânica do SIEDM e das competências atribuídas pela Lei Quadro e demais legislação do SIRP e pelo presente diploma, compete, em especial, ao Primeiro-Ministro:\n\na) Aprovar o plano anual de actividades e suas alterações;\n\nb) Aprovar o relatório anual de actividades a submeter ao Conselho de Fiscalização, nos termos do artigo 8.º da Lei Quadro.\n\n2 - No exercício dos seus poderes de tutela, pode o Primeiro-Ministro fixar, por despacho, directrizes e instruções sobre actividades a desenvolver pelo SIEDM.\n\n3 - O Primeiro-Ministro pode delegar no Ministro da Defesa Nacional qualquer das competências fixadas nos números anteriores."
+  },
+  "835864808": {
+   "fragment_id": "835864722",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência conjunta do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência conjunta do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças\n\nDependem de despacho conjunto do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças:\n\na) A aprovação do projecto de orçamento anual do SIEDM, a incluir no Orçamento do Estado;\n\nb) A definição dos limites de competência do conselho administrativo para autorizar despesas normais, classificadas e especialmente classificadas por conta das dotações globais que vierem a ser inscritas no orçamento do SIEDM, nos termos da Lei de Enquadramento do Orçamento do Estado;\n\nc) A fixação dos fundos de maneio que o conselho administrativo pode ter em caixa para fazer face a despesas que devam ser imediatamente liquidadas;\n\nd) A definição das regras de gestão orçamental, designadamente no que respeita às despesas que podem ser especialmente classificadas."
+  },
+  "835864809": {
+   "fragment_id": "835864723",
+   "type": 1,
+   "heading": "Capítulo II — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Conselho consultivo"
+  },
+  "835864810": {
+   "fragment_id": "835864724",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - Na directa dependência do Ministro da Defesa Nacional funciona um órgão de consulta denominado «conselho consultivo».\n\n2 - São por inerência membros do conselho:\n\na) O Chefe do Estado-Maior-General das Forças Armadas;\n\nb) O director-geral de Política de Defesa Nacional;\n\nc) O director-geral da Política Externa do Ministério dos Negócios Estrangeiros;\n\nd) O director-geral e os directores-gerais-adjuntos do SIEDM.\n\n3 - Por determinação ou a solicitação do Ministro da Defesa Nacional, podem participar nas reuniões do conselho outras entidades cuja comparência se mostre adequada.\n\n4 - O conselho reúne mediante convocação do Ministro da Defesa Nacional, sempre que for julgado necessário, com todos ou alguns dos seus membros, consoante a natureza dos assuntos a tratar.\n\n5 - Ao Ministro da Defesa Nacional compete aprovar, por despacho, as normas de funcionamento do conselho, ouvidos os seus membros.\n\n6 - O secretariado do conselho é assegurado por um elemento do Gabinete do Ministro da Defesa Nacional, para esse efeito designado."
+  },
+  "835864811": {
+   "fragment_id": "835864725",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência\n\n1 - Ao conselho consultivo compete:\n\na) Aconselhar o Ministro da Defesa Nacional em matéria de informações estratégicas de defesa e militares na tomada de decisões relativas ao exercício das suas competências próprias ou delegadas;\n\nb) Propor ao Ministro da Defesa Nacional a adopção das medidas adequadas à centralização, exploração e utilização de toda a informação que interesse à prossecução dos objectivos legalmente cometidos ao SIEDM;\n\nc) Pronunciar-se sobre quaisquer assuntos que lhe forem submetidos em matéria de informações estratégicas de defesa e militares.\n\n2 - A adopção das medidas propostas pelo conselho, quando se reflictam no funcionamento de entidades não dependentes organicamente do Ministro da Defesa Nacional, carece de prévia concordância do respectivo ministro da tutela."
+  },
+  "835864812": {
+   "fragment_id": "835864726",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos, serviços e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos, serviços e competências"
+  },
+  "835864813": {
+   "fragment_id": "835864727",
+   "type": 11,
+   "heading": "Artigo 14.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Órgãos e serviços\n\n1 - São órgãos do SIEDM:\n\na) O director-geral;\n\nb) O conselho administrativo.\n\n2 - Para além do centro de dados, que funciona nos termos definidos no presente diploma, podem ser criados, por despacho do Ministro da Defesa Nacional, até seis departamentos equiparados a direcção de serviços.\n\n3 - A organização interna, a composição e a competência dos órgãos e dos serviços são regulados por despacho classificado do Ministro da Defesa Nacional, sob proposta do director-geral do SIEDM."
+  },
+  "835864814": {
+   "fragment_id": "835864728",
+   "type": 11,
+   "heading": "Artigo 15.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Director-geral\n\n1 - O SIEDM é dirigido por um director-geral, que é o garante do seu regular funcionamento e o responsável pela manutenção da fidelidade da sua actuação às finalidades e aos objectivos legais.\n\n2 - O director-geral é coadjuvado por dois directores-gerais-adjuntos, sendo substituído, nas suas ausências e impedimentos, por aquele que for designado para o efeito."
+  },
+  "835864815": {
+   "fragment_id": "835864729",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência do director-geral do SIEDM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência do director-geral do SIEDM\n\nCompete, em especial, ao director-geral do SIEDM:\n\na) Orientar superiormente as actividades dos serviços e exercer a sua inspecção, superintendência e coordenação, em ordem a assegurar a efectiva prossecução das suas finalidades institucionais;\n\nb) Representar o SIEDM;\n\nc) Presidir ao conselho administrativo;\n\nd) Dirigir a actividade do centro de dados;\n\ne) Expedir as ordens de serviço e as instruções que julgar convenientes, no âmbito das atribuições legalmente cometidas ao SIEDM;\n\nf) Submeter à aprovação tutelar todos os actos que dela careçam;\n\ng) Executar as determinações do Primeiro-Ministro e do Ministro da Defesa Nacional e as deliberações dos órgãos de fiscalização definidos pela Lei Quadro do SIRP;\n\nh) Nomear e exonerar o pessoal, com excepção daquele cuja designação competir a membros do Governo;\n\ni) Tomar o compromisso de honra e dar posse ao pessoal do SIEDM;\n\nj) Exercer o poder disciplinar, dentro dos limites que a lei determinar;\n\nk) Orientar a elaboração do orçamento do SIEDM;\n\nl) Elaborar o relatório anual de actividades do SIEDM."
+  },
+  "835864816": {
+   "fragment_id": "835864730",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho administrativo - Composição e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conselho administrativo - Composição e competência\n\n1 - O conselho administrativo é composto pelo director-geral, que preside, por um director-geral-adjunto e pelo director do serviço administrativo.\n\n2 - Ao conselho administrativo compete a administração das dotações orçamentais, a prestação das respectivas contas e a aprovação da conta de gerência a submeter ao Tribunal de Contas.\n\n3 - Ao director do serviço administrativo compete, nomeadamente, preparar a elaboração do orçamento anual e das suas alterações, em cumprimento das orientações do director-geral do SIEDM."
+  },
+  "835864817": {
+   "fragment_id": "835864731",
+   "type": 11,
+   "heading": "Artigo 18.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Receitas\n\n1 - Constituem receitas do SIEDM:\n\na) As dotações orçamentais atribuídas pelo Orçamento do Estado;\n\nb) Os saldos de gerência;\n\nc) Outras receitas que por lei lhe forem atribuídas.\n\n2 - No Orçamento do Estado serão especificadas as dotações globais atribuídas ao SIEDM."
+  },
+  "835864818": {
+   "fragment_id": "835864732",
+   "type": 11,
+   "heading": "Artigo 19.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Despesas\n\n1 - As despesas do SIEDM dividem-se em normais, classificadas e especialmente classificadas.\n\n2 - As despesas classificadas e especialmente classificadas serão definidas por despacho do Primeiro-Ministro.\n\n3 - As despesas classificadas e especialmente classificadas estão dispensadas de fiscalização prévia do Tribunal de Contas e são justificadas e processadas por simples documentos do conselho administrativo, assinados por dois dos seus membros, um dos quais será o director-geral."
+  },
+  "835864819": {
+   "fragment_id": "835864733",
+   "type": 1,
+   "heading": "Capítulo IV — Centro de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Centro de dados"
+  },
+  "835864820": {
+   "fragment_id": "835864734",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências\n\n1 - O centro de dados é o serviço ao qual compete processar e conservar em suporte magnético os dados e informações respeitantes às atribuições institucionais do SIEDM.\n\n2 - O centro de dados é dirigido por um funcionário com a categoria de director de serviços, nomeado e exonerado pelo Ministro da Defesa Nacional, mediante proposta do director-geral."
+  },
+  "835864821": {
+   "fragment_id": "835864735",
+   "type": 11,
+   "heading": "Artigo 21.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Funcionamento\n\n1 - Os critérios e normas técnicas necessários ao funcionamento do centro de dados, bem como os regulamentos indispensáveis para garantir a segurança das informações processadas, são elaborados e adquirem executoriedade nos termos do artigo 23.º da Lei Quadro do SIRP.\n\n2 - O centro de dados do SIEDM só pode iniciar a sua actividade depois de publicada a regulamentação a que se refere o número anterior."
+  },
+  "835864822": {
+   "fragment_id": "835864736",
+   "type": 11,
+   "heading": "Artigo 22.º — Acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Acesso aos dados\n\n1 - Sem prejuízo do disposto na Lei Quadro do SIRP sobre fiscalização, nenhuma entidade estranha ao SIEDM pode ter acesso directo aos dados e informações conservados no centro de dados.\n\n2 - Por despacho do Primeiro-Ministro, ouvido o Conselho Superior de Informações, serão definidas as condições em que elementos informativos conservados no centro de dados podem ser fornecidos aos órgãos e serviços previstos na Lei Quadro do SIRP e na legislação de segurança interna;\n\n3 - O acesso de funcionários e agentes do SIEDM a dados e informações conservados no centro de dados será regulado por despacho do Ministro da Defesa Nacional.\n\n4 - O funcionário ou agente que aceder, tentar aceder, comunicar ou fizer uso de dados ou informações com violação do disposto no número anterior será punido com sanção correspondente a infracção disciplinar grave dos deveres funcionais, sem prejuízo do disposto na Lei Quadro do SIRP."
+  },
+  "835864823": {
+   "fragment_id": "835864737",
+   "type": 1,
+   "heading": "Capítulo V — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Pessoal"
+  },
+  "835864824": {
+   "fragment_id": "835864738",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "835864825": {
+   "fragment_id": "835864739",
+   "type": 11,
+   "heading": "Artigo 23.º — Serviço permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Serviço permanente\n\n1 - O serviço do SIEDM é de carácter permanente e obrigatório, não está sujeito a horários rígidos de trabalho, exige total disponibilidade e as condições da sua prestação são reguladas por ordens dimanadas do director-geral, de harmonia com as directivas do Ministro da Defesa Nacional.\n\n2 - O funcionário ou agente do SIEDM não pode recusar-se, sem motivo justificado, a comparecer ao serviço ou a nele permanecer para além do período normal de trabalho ou a desempenhar qualquer missão de serviço, desde que compatível com a sua categoria funcional.\n\n3 - A prestação de serviço fora do período normal de trabalho não dá direito a qualquer forma de remuneração específica."
+  },
+  "835864826": {
+   "fragment_id": "835864740",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regime especial\n\n1 - A organização dos serviços, a estruturação dos quadros, a definição do conteúdo funcional das diversas categorias e os regimes de recrutamento e provimento não estão sujeitos à disciplina dos Decretos-Leis n.os 41/84, de 3 de Fevereiro, 498/88, de 30 de Dezembro, 427/89, de 7 de Dezembro, 407/91, de 17 de Outubro, e 247/92, de 7 de Novembro.\n\n2 - Com excepção dos cargos de pessoal dirigente, o número de lugares providos em regime de comissão de serviço não pode exceder 50% do número total de lugares providos."
+  },
+  "835864827": {
+   "fragment_id": "835864741",
+   "type": 11,
+   "heading": "Artigo 25.º — Quadro privativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Quadro privativo\n\n1 - Sem prejuízo do disposto no presente diploma, as dotações de pessoal do quadro do SIEDM serão aprovadas e alteradas por despacho conjunto do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças e os lugares nele previstos serão providos exclusivamente por contrato administrativo de provimento, ou em regime de comissão de serviço quando se trate de funcionários pertencentes à Administração Pública, de magistrados judiciais ou do Ministério Público, de diplomatas e militares, ou de pessoal requisitado a empresas públicas, participadas ou concessionárias de serviços públicos.\n\n2 - Salvo disposição deste diploma em contrário, as comissões de serviço têm a duração de três anos e consideram-se automaticamente renovadas se, até 30 dias antes do seu termo, o director-geral ou o interessado não tiverem manifestado expressamente a intenção de as fazerem cessar, sem que haja lugar ao pagamento de qualquer indemnização.\n\n3 - Os contratos a que se refere o n.º 1 são válidos por dois anos, podendo ser renovados por iguais períodos.\n\n4 - A nomeação em comissão de serviço do pessoal já vinculado ao Estado compete ao Ministro da Defesa Nacional, obtida a anuência do membro do Governo que tutele o departamento a que o funcionário pertence.\n\n5 - Quando a designação recair em magistrado judicial ou do Ministério Público, em diplomata ou em militar, respeitar-se-ão as respectivas leis estatutárias.\n\n6 - O provimento por contrato é da competência do director-geral do SIEDM.\n\n7 - Quando a designação recair em deficiente das Forças Armadas, serão aplicáveis as disposições legais relativas à acumulação das remunerações com as pensões, tal como previsto no artigo 13.º do Decreto-Lei n.º 43/76, de 20 de Janeiro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 203/87, de 16 de Maio."
+  },
+  "835864828": {
+   "fragment_id": "835864742",
+   "type": 11,
+   "heading": "Artigo 26.º — Funcionários e agentes do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Funcionários e agentes do Estado\n\n1 - A nomeação em comissão de serviço de funcionário da Administração Pública determina a abertura de vaga no quadro de origem, ficando salvaguardados todos os direitos inerentes aos seus anteriores cargos ou funções, designadamente para efeitos de promoção e progressão.\n\n2 - Se a comissão de serviço referida no número anterior vier a cessar nos termos previstos no artigo 27.º, o funcionário tem direito a ser integrado no quadro de pessoal do serviço de origem ou no de qualquer outro para onde tenham sido transferidas as respectivas atribuições e competências:\n\na) Na categoria que o funcionário possuir no serviço de origem, se a comissão de serviço cessar antes de decorridos seis anos;\n\nb) No quadro do serviço de origem, em categoria equivalente à que possuir no SIEDM e no escalão em que estiver posicionado, se a comissão de serviço se prolongar por período superior a seis anos, excepto o pessoal dirigente, e de acordo com a tabela de equivalências constante do mapa IV anexo ao presente diploma, do qual faz parte integrante.\n\n3 - Os funcionários abrangidos pelo disposto na alínea b) do número anterior poderão optar pela integração nos termos definidos na alínea a) do mesmo número.\n\n4 - Serão criados nos quadros de pessoal dos serviços de origem os lugares necessários para execução do estabelecido nas alíneas a) e b) do n.º 2, os quais serão extintos à medida que vagarem.\n\n5 - A criação dos lugares referidos no número anterior será feita por portaria conjunta dos Ministros da Defesa Nacional, das Finanças e da respectiva pasta, produzindo efeitos a partir das datas em que cessarem as comissões de serviço no SIEDM dos funcionários para quem são destinados os lugares.\n\n6 - Sem prejuízo do disposto na legislação específica do SIEDM, ao pessoal provido nos cargos dirigentes constantes do mapa V anexo ao presente diploma, do qual faz parte integrante, é aplicável o regime previsto no Decreto-Lei n.º 323/89, de 26 de Setembro, e legislação complementar.\n\n7 - Para efeitos do disposto no número anterior, consideram-se equiparados:\n\na) Ao cargo de subdirector-geral o cargo de director-geral-adjunto;\n\nb) Ao cargo de chefe de divisão o cargo de director de área."
+  },
+  "835864829": {
+   "fragment_id": "835864743",
+   "type": 11,
+   "heading": "Artigo 27.º — Cessação do vínculo funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cessação do vínculo funcional\n\n1 - O director-geral do SIEDM pode, em qualquer momento, propor ao Ministro da Defesa Nacional a cessação da comissão de serviço de qualquer funcionário ou agente.\n\n2 - Por mera conveniência de serviço, o director-geral do SIEDM pode, a todo o tempo, rescindir ou alterar o contrato administrativo de qualquer funcionário ou agente, carecendo tal decisão de homologação pelo Ministro da Defesa Nacional.\n\n3 - A simples invocação da conveniência de serviço constitui fundamentação válida e suficiente para a decisão sobre a cessação da comissão de serviço e considera-se como justa causa para a rescisão do contrato.\n\n4 - Quando outra fundamentação não for expressamente indicada, a invocação da conveniência de serviço presumir-se-á sempre fundamentada na inadaptação funcional do funcionário ou agente face à especificidade institucional do SIEDM.\n\n5 - A cessação da comissão de serviço e a rescisão ou alteração do contrato administrativo podem fazer-se sem prévio aviso e não dão lugar a qualquer indemnização."
+  },
+  "835864830": {
+   "fragment_id": "835864744",
+   "type": 11,
+   "heading": "Artigo 28.º — Aquisição de vínculo ao Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Aquisição de vínculo ao Estado\n\n1 - Quando completar seis anos de serviço sem interrupção, o agente provido por contrato administrativo adquire o direito a vínculo definitivo ao Estado, se o director-geral do SIEDM atestar que aquele revela aptidão e idoneidade para o exercício de funções públicas, carecendo tal decisão de homologação pelo Ministro da Defesa Nacional.\n\n2 - Se o pessoal que tiver adquirido o direito ao vínculo definitivo ao Estado, nos termos do número anterior, vier a ser afastado das funções pelo motivo indicado no n.º 2 do artigo 27.º, será integrado no quadro de pessoal da Secretaria-Geral do Ministério da Defesa Nacional, em categoria equivalente à que já possuíam no SIEDM e no escalão em que se encontrar posicionado, de acordo com a tabela de equivalências constante do mapa IV anexo ao presente diploma, do qual faz parte integrante.\n\n3 - Serão criados no quadro de pessoal da Secretaria-Geral do Ministério da Defesa Nacional os lugares necessários para execução do estabelecido no número anterior, os quais serão extintos à medida que vagarem.\n\n4 - A criação dos lugares referida no número anterior será feita por portaria conjunta dos Ministros da Defesa Nacional e das Finanças, produzindo efeitos a partir das datas em que os agentes para quem são destinados os lugares cessem funções no SIEDM."
+  },
+  "835864831": {
+   "fragment_id": "835864745",
+   "type": 11,
+   "heading": "Artigo 29.º — Exclusividade funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Exclusividade funcional\n\n1 - Os funcionários e agentes do SIEDM não podem exercer qualquer outra actividade profissional, pública ou privada, remunerada ou gratuita, estranha aos objectivos e finalidades do serviço, salvo autorização prévia da entidade competente.\n\n2 - O pessoal do SIEDM subordina toda a sua actividade profissional aos objectivos e finalidades institucionais do Serviço e desenvolve a sua actuação no respeito pelos princípios fundamentais e pelas normas constantes da Lei Quadro e demais legislação do SIRP, e dos diplomas que os vierem a regulamentar."
+  },
+  "835864832": {
+   "fragment_id": "835864746",
+   "type": 8,
+   "heading": "Secção II — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direitos e deveres"
+  },
+  "835864833": {
+   "fragment_id": "835864747",
+   "type": 11,
+   "heading": "Artigo 30.º — Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regra geral\n\nQuando de outro modo não estiver estabelecido, nomeadamente na Lei Quadro e demais legislação do SIRP o pessoal do SIEDM tem os direitos e está sujeito aos deveres e às incompatibilidades comuns à generalidade dos funcionários e agentes da Administração Pública."
+  },
+  "835864834": {
+   "fragment_id": "835864748",
+   "type": 11,
+   "heading": "Artigo 31.º — Local de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Local de residência\n\n1 - Os funcionários e agentes do SIEDM devem residir na localidade onde normalmente exercem as suas funções, podendo residir em outra desde que não haja quebra de disponibilidade permanente para o serviço.\n\n2 - O exercício de funções em determinado departamento ou serviço não obsta à deslocação do funcionário ou agente, sem perda de quaisquer direitos ou regalias, para outro departamento ou serviço do SIEDM, situado na mesma ou em diferente localidade.\n\n3 - A deslocação por necessidade de serviço para localidade fora da área da residência habitual do funcionário ou agente, que implique necessária mudança de residência, confere-lhe direito a subsídios e condições especiais adequadas, nomeadamente se a colocação se verificar no estrangeiro, a serem fixados por despacho conjunto dos Ministros da Defesa Nacional e das Finanças."
+  },
+  "835864835": {
+   "fragment_id": "835864749",
+   "type": 11,
+   "heading": "Artigo 32.º — Direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Direito de acesso\n\nPor despacho do Ministro da Defesa Nacional serão fixados os meios de identificação do pessoal do SIEDM."
+  },
+  "835864836": {
+   "fragment_id": "835864750",
+   "type": 11,
+   "heading": "Artigo 33.º — Direito a remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Direito a remuneração\n\n1 - O direito à remuneração constitui-se com o início do exercício de funções;\n\n2 - Nos casos em que o início efectivo de funções seja precedido de um período de aprendizagem ou estágio, o direito à remuneração constitui-se com o início deste e terá como índice o fixado para a respectiva categoria de estágio, ou, não a havendo, para a de ingresso."
+  },
+  "835864837": {
+   "fragment_id": "835864751",
+   "type": 11,
+   "heading": "Artigo 34.º — Remuneração base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Remuneração base\n\n1 - A remuneração base mensal dos cargos dirigentes do SIEDM consta do mapa I anexo a este diploma, do qual faz parte integrante, tomando como valor padrão a remuneração atribuída ao cargo de director-geral, nos termos do Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n2 - A remuneração base mensal dos funcionários que, não sendo dirigentes, também integram o corpo especial do SIEDM consta do mapa II anexo a este diploma, do qual faz parte integrante.\n\n3 - A remuneração base mensal correspondente ao índice 100 das escalas salariais previstas no mapa II, referido no número anterior, é fixada em portaria conjunta do Primeiro-Ministro e do Ministro das Finanças.\n\n4 - A remuneração base mensal e as escalas salariais do pessoal auxiliar, a cujas categorias se reporta o mapa III anexo a este diploma, do qual faz parte integrante, são as fixadas para iguais categorias do regime geral."
+  },
+  "835864838": {
+   "fragment_id": "835864752",
+   "type": 11,
+   "heading": "Artigo 35.º — Suplemento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Suplemento\n\n1 - Pelos ónus específicos das respectivas funções, os funcionários e agentes do SIEDM têm direito a um suplemento cujo quantitativo será graduado em função das concretas condições de trabalho.\n\n2 - O suplemento referido no número anterior é fixado por despacho conjunto do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças.\n\n3 - O suplemento é considerado como vencimento e neste integrado, designadamente para efeitos de cálculo dos subsídios de férias e de Natal e da pensão de aposentação.\n\n4 - Os militares na situação de reserva em serviço no SIEDM que passem directamente à situação de reforma têm direito à percepção do suplemento previsto no n.º 1, nos termos da alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação."
+  },
+  "835864839": {
+   "fragment_id": "835864753",
+   "type": 11,
+   "heading": "Artigo 36.º — Habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Habitação\n\n1 - O director-geral e os directores-gerais-adjuntos têm direito, enquanto exercerem o cargo, a casa mobilada para sua habitação, ou a subsídio de compensação a fixar pelo Primeiro-Ministro e pelos Ministros da Defesa Nacional e das Finanças.\n\n2 - Nos casos em que haja lugar a deslocação, o Ministro da Defesa Nacional pode fixar o subsídio de instalação adequado às despesas efectivamente realizadas pelo funcionário ou agente."
+  },
+  "835864840": {
+   "fragment_id": "835864754",
+   "type": 11,
+   "heading": "Artigo 37.º — Ajudas de custo e abono para despesas de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Ajudas de custo e abono para despesas de transporte\n\n1 - O pessoal do SIEDM, sempre que se desloque em serviço, tem direito a ajudas de custo diárias e a abono para despesas de transporte, nos termos da lei geral.\n\n2 - Se, por razões de serviço, as despesas efectivamente realizadas pelo funcionário ou agente excederem o montante da ajuda de custo estabelecida na lei geral, ser-lhe-á abonada a diferença considerada justificada pelo conselho administrativo."
+  },
+  "835864841": {
+   "fragment_id": "835864755",
+   "type": 11,
+   "heading": "Artigo 38.º — Promoção e progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Promoção e progressão\n\n1 - De acordo com factores de avaliação a definir por despacho do Ministro da Defesa Nacional, o pessoal contratado e o pessoal nomeado em comissão de serviço, nos termos do n.º 1 do artigo 25.º, poderá ser provido na categoria superior, mediante concurso documental e depois de cumpridos os módulos de tempo para o efeito fixados.\n\n2 - A progressão na carreira do pessoal do SIEDM obedecerá ao disposto no regime geral da função pública."
+  },
+  "835864842": {
+   "fragment_id": "835864756",
+   "type": 11,
+   "heading": "Artigo 39.º — Acidente em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Acidente em serviço\n\n1 - O pessoal do SIEDM, quando vítima de acidente ocorrido no desempenho de funções que lhe forem atribuídas, tem o direito à totalidade das remunerações, suplementos e abonos estipulados nos artigos 34.º a 36.º enquanto se mantiver em tratamento e convalescença.\n\n2 - Aos funcionários e agentes do SIEDM que, no exercício das suas funções, ficarem incapacitados é aplicável a legislação vigente para os elementos das Forças Armadas e das forças de segurança.\n\n3 - Por despacho conjunto do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças, pode ser autorizado o pagamento do prémio de seguro de vida dos funcionários ou agentes e, para aqueles que tiverem a seu cargo a condução de viaturas ao serviço do SIEDM, do prémio de seguro de carta de condução."
+  },
+  "835864843": {
+   "fragment_id": "835864757",
+   "type": 11,
+   "heading": "Artigo 40.º — Acréscimo de tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Acréscimo de tempo de serviço\n\n1 - Para efeitos de reserva, reforma e aposentação, os funcionários e agentes beneficiam de um acréscimo de 25% em relação a todo o tempo de serviço prestado no SIEDM.\n\n2 - Sem prejuízo das modalidades estabelecidas no Estatuto da Aposentação, os funcionários do SIEDM passam à situação de aposentados, se o requererem, desde que tenham a idade mínima de 55 anos e oito anos de serviço no SIEDM."
+  },
+  "835864844": {
+   "fragment_id": "835864758",
+   "type": 8,
+   "heading": "Secção III — Recrutamento e selecção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Recrutamento e selecção do pessoal"
+  },
+  "835864845": {
+   "fragment_id": "835864759",
+   "type": 11,
+   "heading": "Artigo 41.º — Pessoal dirigente e de chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Pessoal dirigente e de chefia\n\n1 - Os lugares de director-geral e director-geral-adjunto do SIEDM são providos por despacho conjunto do Primeiro-Ministro e do Ministro da Defesa Nacional, devendo a escolha recair em indivíduos de reconhecida idoneidade cívica, elevada competência profissional e que possuam experiência válida para o exercício das funções.\n\n2 - Os lugares do demais pessoal dirigente ou de chefia são providos por despacho do Ministro da Defesa Nacional, sob proposta do director-geral, devendo a escolha recair em indivíduos de reconhecida idoneidade cívica, elevada competência profissional e que possuam experiência válida para o exercício das funções.\n\n3 - Os lugares de director-geral, director-geral-adjunto e demais pessoal dirigente ou de chefia são providos em regime de comissão de serviço por tempo indeterminado, a qual pode ser dada por finda, a todo o tempo, por conveniência de serviço, sem necessidade de pré-aviso e sem que haja lugar a qualquer indemnização."
+  },
+  "835864846": {
+   "fragment_id": "835864760",
+   "type": 11,
+   "heading": "Artigo 42.º — Recrutamento e selecção do demais pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Recrutamento e selecção do demais pessoal\n\n1 - São condições indispensáveis ao recrutamento para qualquer lugar do quadro privativo do SIEDM a reconhecida idoneidade cívica, a elevada competência profissional e a experiência válida para o exercício das funções, a avaliar com base nos respectivos currículos.\n\n2 - O recrutamento do pessoal técnico superior é feito de entre indivíduos habilitados com licenciatura em curso adequado ou que já possuam categoria funcional igual ou equivalente no serviço de origem.\n\n3 - O recrutamento do pessoal técnico é feito de entre indivíduos habilitados com curso superior adequado ou que já possuam categoria funcional igual ou equivalente no serviço de origem e ainda que demonstrem possuir um currículo profissional revelador de especiais aptidões e experiência para o exercício de funções no SIEDM.\n\n4 - O recrutamento do pessoal técnico-profissional é feito de entre indivíduos habilitados com o 11.º ano ou equivalente, 9.º ano e curso de formação técnico-profissional ou que já possuam categoria igual ou equivalente no serviço de origem e, ainda, que demonstrem possuir um currículo profissional revelador de especiais aptidões para o exercício de funções no SIEDM, podendo ser exigível o domínio escrito e falado de, pelo menos, uma língua estrangeira e a carta de condução de veículos ligeiros.\n\n5 - O recrutamento de pessoal técnico-profissional de apoio geral é feito de entre indivíduos com o curso geral dos liceus, o 9.º ano do curso unificado ou equivalente, ou que já possuam categoria funcional igual ou equivalente no serviço de origem, sendo exigível para o pessoal de secretariado a posse de curso de especialização adequado ou o exercício de tais funções durante, pelo menos, dois anos.\n\n6 - O recrutamento do pessoal técnico de segurança e auxiliar é feito de entre indivíduos habilitados com a escolaridade obrigatória e que demonstrem possuir especiais aptidões para o exercício de funções no SIEDM.\n\n7 - Sem prejuízo do disposto nos números anteriores e a título excepcional, podem prestar serviço no SIEDM indivíduos que se encontrem na situação de reserva, reforma ou aposentação."
+  },
+  "835864847": {
+   "fragment_id": "835864761",
+   "type": 11,
+   "heading": "Artigo 43.º — Requisitos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Requisitos especiais\n\n1 - São requisitos especiais de provimento em qualquer lugar do quadro:\n\na) Ter nacionalidade portuguesa de origem;\n\nb) Ter idade não inferior a 23 anos nem superior a 55 anos;\n\nc) Não estar abrangido pela incapacidade prevista no artigo 31.º da Lei Quadro do SIRP;\n\nd) Possuir as habilitações literárias referidas no artigo anterior;\n\ne) Sujeitar-se voluntária e expressamente às condições de recrutamento, de selecção e de formação que forem fixadas por despacho do Ministro da Defesa Nacional;\n\nf) Submeter-se voluntária e expressamente aos deveres impostos pela Lei Quadro e demais legislação do SIRP e pelos diplomas que os regulamentarem;\n\ng) Apresentar declaração do património e dos rendimentos, nos termos previstos na Lei n.º 4/83, de 2 de Abril, e no Decreto Regulamentar n.º 74/83, de 6 de Outubro.\n\n2 - O requisito especial de provimento previsto na alínea b) do número anterior não se aplica ao recrutamento dos lugares de pessoal dirigente.\n\n3 - As declarações a que se refere a alínea g) do n.º 1 são apresentadas antes do início das funções e fazem parte do processo individual de cada funcionário ou agente, que fica sujeito ao regime de confidencialidade previsto no artigo 9.º"
+  },
+  "835864848": {
+   "fragment_id": "835864762",
+   "type": 11,
+   "heading": "Artigo 44.º — Estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Estágio\n\n1 - Sem prejuízo da exigência das condições e requisitos referidos nos artigos 42.º e 43.º, o ingresso nas carreiras de técnico superior de informações, técnico de informações e técnico-adjunto de informações dependerá de aprovação em estágio regulamentado por despacho do Ministro da Defesa Nacional, o qual obedecerá aos seguintes princípios:\n\na) Os estagiários que tiverem vínculo à Administração Pública manterão, durante o estágio, o direito ao seu lugar no quadro de origem;\n\nb) No decurso do estágio poderão, em qualquer momento, ser dele excluídos os estagiários que não adquirirem o gradual aproveitamento ou revelarem não possuir condições de adaptação às funções a que se destinam;\n\nc) Os estagiários que forem excluídos do estágio ou não obtiverem aprovação regressarão ao lugar de origem ou serão dispensados consoante se trate, ou não, de indivíduos vinculados ao Estado, não lhes sendo devida, num e noutro caso, qualquer indemnização;\n\nd) Findo o estágio, os que obtiverem aprovação serão providos na categoria de ingresso da carreira para que foram recrutados;\n\ne) O tempo de estágio, quando seguido de provimento na categoria de ingresso, será contado, para todos os efeitos legais, como se fosse prestado naquela categoria;\n\nf) É aplicável aos estagiários já vinculados ao Estado a opção remuneratória prevista no n.º 1 do artigo 53.º do presente diploma.\n\n2 - Atenta a natureza e especificidade das funções a desempenhar, poderá o Ministro da Defesa Nacional sob proposta do director-geral, dispensar total ou parcialmente a frequência do estágio para ingresso nas carreiras referidas no número anterior.\n\n3 - Os funcionários e agentes que injustificadamente requeiram a cessação de funções, a qualquer título, antes de decorridos dois anos do provimento referido na alínea d) do n.º 1, devem indemnizar o SIEDM pelos encargos ocasionados pela sua frequência do estágio."
+  },
+  "835864849": {
+   "fragment_id": "835864763",
+   "type": 11,
+   "heading": "Artigo 45.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Formação\n\n1 - O SIEDM organizará as acções de formação, especialização, actualização e aperfeiçoamento que forem julgadas mais adequadas ao exercício das funções atribuídas às diferentes categorias de pessoal que integrem os seus quadros.\n\n2 - A frequência pelo pessoal das acções de formação que lhe sejam destinadas é de carácter obrigatório, só podendo ser concedida dispensa por motivo ponderoso, devidamente justificado.\n\n3 - A frequência das acções de formação e o resultado obtido pelos destinatários constituem requisito de ingresso ou de promoção nos quadros do SIEDM, em termos a definir de harmonia com o previsto nos artigos 38.º e 42.º"
+  },
+  "835864850": {
+   "fragment_id": "835864764",
+   "type": 8,
+   "heading": "Secção IV — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Classificação"
+  },
+  "835864851": {
+   "fragment_id": "835864765",
+   "type": 11,
+   "heading": "Artigo 46.º — Classificação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Classificação de serviço\n\n1 - O sistema de classificação de serviço será definido por portaria conjunta dos Ministros da Defesa Nacional e das Finanças, tendo em conta a especificidade orgânica e institucional do SIEDM.\n\n2 - Enquanto não for estabelecido o sistema previsto no número anterior, é aplicável aos funcionários e agentes do SIEDM o regime de classificação de serviço vigente para a generalidade da função pública, com as seguintes especialidades:\n\na) A ficha de notação a utilizar para o pessoal técnico superior e técnico é a prevista na alínea a) do n.º 1 do artigo 6.º do Decreto Regulamentar n.º 44-B/83, de 1 de Junho;\n\nb) A ficha de notação a utilizar para o restante pessoal sujeito à classificação de serviço é a prevista na alínea b) do n.º 1 do referido artigo 6.º;\n\nc) Não tem aplicação as normas previstas no capítulo III e os artigos 32.º a 35.º e 38.º, n.º 1, do Decreto Regulamentar n.º 44-B/83;\n\nd) A competência para homologar a classificação pertence ao director-geral do SIEDM, constituindo o director-geral-adjunto que coordenar a actividade do respectivo serviço e o superior hierárquico imediato do notado o órgão de consulta a que se refere o artigo 40.º, n.º 2, do diploma mencionado na alínea a)."
+  },
+  "835864852": {
+   "fragment_id": "835864766",
+   "type": 8,
+   "heading": "Secção V — Regime disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Regime disciplinar"
+  },
+  "835864853": {
+   "fragment_id": "835864767",
+   "type": 11,
+   "heading": "Artigo 47.º — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Disposição geral\n\nO pessoal do SIEDM, qualquer que seja a sua origem e forma de provimento, está, desde a data de inicio do exercício das funções, sujeito à disciplina do serviço e aos poderes disciplinares das entidades que o dirigem e nele superintendem."
+  },
+  "835864854": {
+   "fragment_id": "835864768",
+   "type": 11,
+   "heading": "Artigo 48.º — Efeitos de pronúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Efeitos de pronúncia\n\n1 - O despacho de pronúncia com trânsito em julgado, em processo criminal, por qualquer crime doloso, para além dos efeitos previstos na lei geral, pode constituir fundamento suficiente para ser determinada a cessação da comissão de serviço ou a rescisão do contrato, consoante a forma de provimento do funcionário ou agente.\n\n2 - A verificação da situação prevista na primeira parte do número anterior faz presumir que o indiciado não correspondeu às expectativas que determinaram a sua admissão, podendo a manutenção do vinculo funcional revelar-se incompatível com a prossecução dos objectivos institucionais do SIEDM."
+  },
+  "835864855": {
+   "fragment_id": "835864769",
+   "type": 11,
+   "heading": "Artigo 49.º — Penas especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Penas especiais\n\n1 - São penas especiais aplicáveis aos funcionários e agentes do SIEDM:\n\na) A cessação da comissão de serviço;\n\nb) A rescisão do contrato.\n\n2 - A pena de cessação da comissão de serviço é aplicável a todos os funcionários ou agentes já vinculados à Administração Pública:\n\na) Como pena acessória, por qualquer infracção disciplinar punível com pena igual ou superior à de multa;\n\nb) Como pena principal, aos dirigentes e equiparados, nos termos da lei geral.\n\n3 - A pena de rescisão do contrato é aplicável aos funcionários ou agentes que se encontrem providos por contrato, por qualquer infracção disciplinar a que corresponda a pena igual ou superior à de inactividade."
+  },
+  "835864856": {
+   "fragment_id": "835864770",
+   "type": 11,
+   "heading": "Artigo 50.º — Competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Competência disciplinar\n\n1 - Compete ao Ministro da Defesa Nacional a aplicação de qualquer pena disciplinar que implique a cessação definitiva do vínculo funcional.\n\n2 - O director-geral do SIEDM tem competência para aplicar qualquer pena disciplinar até à de inactividade, inclusive.\n\n3 - Os directores-gerais-adjuntos, em relação ao pessoal colocado nos serviços que deles dependem, têm competência para aplicar qualquer pena disciplinar até à de suspensão, inclusive.\n\n4 - Os directores de serviço, em relação ao pessoal colocado nos serviços que deles dependem, têm competência para aplicar a pena de repreensão."
+  },
+  "835864857": {
+   "fragment_id": "835864771",
+   "type": 11,
+   "heading": "Artigo 51.º — Suspensão preventiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Suspensão preventiva\n\n1 - O funcionário ou agente pode ser, por proposta da entidade que mandar instaurar o processo ou do instrutor e mediante despacho do Ministro da Defesa Nacional, preventivamente suspenso do exercício das funções, sem perda de vencimento e de categoria e até decisão do processo, pelo prazo de 90 dias, prorrogável por igual período, sempre que a sua presença se revele inconveniente para o serviço ou para o apuramento da verdade.\n\n2 - A suspensão preventiva só não pode ter lugar se a infracção denunciada for punível com pena de repreensão ou multa."
+  },
+  "835864858": {
+   "fragment_id": "835864772",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "835864859": {
+   "fragment_id": "835864773",
+   "type": 11,
+   "heading": "Artigo 52.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Direito subsidiário\n\nTudo o que, em matéria estatutária e disciplinar, não for especialmente regulado pela Lei Quadro e demais legislação do SIRP, pelo presente decreto-lei e pelos diplomas que os vierem a regulamentar, é regulado pela lei geral."
+  },
+  "835864860": {
+   "fragment_id": "835864774",
+   "type": 11,
+   "heading": "Artigo 53.º — Opção quanto a vencimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Opção quanto a vencimento\n\n1 - Os funcionários e agentes do SIEDM já vinculados aos quadros da Administração Pública, central, regional e local, da magistratura judicial ou do Ministério Público, das forças e dos serviços de segurança podem optar pelo regime remuneratório correspondente ao lugar de origem, sem prejuízo de auferirem os suplementos específicos atribuídos ao pessoal do SIEDM.\n\n2 - Os militares das Forças Armadas na situação de activo que prestem serviço no SIEDM podem, relativamente ao regime remuneratório, exercer a opção a que se refere o artigo 4.º do Decreto-Lei n.º 57/90, de 14 de Fevereiro.\n\n3 - O regime remuneratório dos militares das Forças Armadas e das forças de segurança na situação de reserva ou reforma que prestem serviço no SIEDM é o que resultar dos respectivos estatutos próprios ou do Estatuto da Aposentação."
+  },
+  "835864861": {
+   "fragment_id": "835862875",
+   "type": 11,
+   "heading": "Artigo 54.º — Uso e porte de arma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Uso e porte de arma\n\nO direito ao uso e porte de arma por parte de funcionários e agentes do SIEDM será regulamentado por despacho conjunto dos Ministros da Defesa Nacional e da Administração Interna."
+  },
+  "835864862": {
+   "fragment_id": "835862876",
+   "type": 11,
+   "heading": "Artigo 55.º — Serviços sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Serviços sociais\n\n1 - Os funcionários e agentes que se encontram nas condições referidas no artigo 26.º continuam a gozar de direitos e regalias iguais aos que usufruíam em resultado da sua inscrição nos serviços sociais instituídos nos departamentos de origem.\n\n2 - Os funcionários e agentes que, antes de ingressarem no SIEDM, não eram beneficiários de qualquer serviço social ficam abrangidos por regime idêntico ao que vigora nos serviços sociais da Presidência do Conselho de Ministros.\n\n3 - As modalidades de concessão dos benefícios sociais e de cumprimento das obrigações pelos beneficiários serão definidas por acordo a celebrar entre os serviços sociais e o SIEDM, tendo em conta a especificidade institucional deste último.\n\n4 - O acordo a que se refere o número anterior carece de aprovação do Ministro da Defesa Nacional e do membro do Governo que superintender nos serviços sociais.\n\n5 - O SIEDM não é abrangido pelo disposto no artigo 4.º do Decreto-Lei n.º 118/83, de 25 de Fevereiro, ficando sujeito ao regime aplicável aos serviços dotados de, apenas, autonomia administrativa."
+  },
+  "835864863": {
+   "fragment_id": "835862877",
+   "type": 11,
+   "heading": "Artigo 56.º — Início de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Início de funções\n\n1 - O pessoal designado para prestar serviço no SIEDM considera-se em serviço a partir da data do despacho da sua nomeação ou da data que nele for mencionada.\n\n2 - Os despachos de nomeação e exoneração não carecem de visto do Tribunal de Contas em de publicação no Diário da República."
+  },
+  "835864864": {
+   "fragment_id": "835862878",
+   "type": 11,
+   "heading": "Artigo 57.º — Serviço prestado por militares na situação de reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Serviço prestado por militares na situação de reserva\n\nTodo o tempo de serviço prestado no SIEDM pelos militares na situação de reserva conta para efeitos de reforma, até ao limite correspondente a 36 anos de serviço."
+  },
+  "835864865": {
+   "fragment_id": "835862879",
+   "type": 11,
+   "heading": "Artigo 58.º — Aquisição de bens e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Aquisição de bens e serviços\n\n1 - Na importação ou aquisição de armamento, munições, viaturas, equipamentos de segurança, telecomunicações, electrónica, laboratório e outros igualmente utilizados para fins de segurança, destinados ao SIEDM, poderá o Ministro das Finanças, nos termos da lei, conceder isenção dos respectivos direitos, incluindo sobretaxas e emolumentos, bem como dos correspondentes impostos.\n\n2 - O Ministro da Defesa Nacional pode autorizar o SIEDM a celebrar contratos para aquisição de bens e serviços, com dispensa, total ou parcial, das formalidades previstas na lei geral, sempre que razões de segurança ou relacionadas com a especificidade do serviço o justifiquem."
+  },
+  "835864866": {
+   "fragment_id": "835862880",
+   "type": 11,
+   "heading": "Artigo 59.º — Dispensa de publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Dispensa de publicitação\n\nQuando razões de segurança interna ou relacionadas com a especificidade do serviço o justifiquem, podem os membros do Governo intervenientes determinar, referindo-o expressamente, a dispensa de publicitação dos actos necessários à execução dos diplomas do SIEDM."
+  },
+  "835864867": {
+   "fragment_id": "835862881",
+   "type": 11,
+   "heading": "Artigo 60.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Pessoal dirigente\n\nO pessoal dirigente tem direito às remunerações e demais abonos previstos para o pessoal dirigente do Serviço de Informações de Segurança."
+  },
+  "835864868": {
+   "fragment_id": "835862882",
+   "type": 11,
+   "heading": "Artigo 61.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Disposições transitórias\n\n1 - Até ao final do corrente ano o SIEDM disporá apenas de autonomia administrativa, devendo ser inscritas no orçamento do Ministério da Defesa Nacional, em classificação orgânica apropriada, as dotações necessárias para suportar os encargos nesse período.\n\n2 - Até preenchimento dos quadros de pessoal do SIEDM, é dispensado o requisito especial de provimento referido na alínea b) do n.º 1 do artigo 43.º para o pessoal que, à data da entrada em vigor do presente diploma, desempenhe funções na Divisão de Informações do Estado-Maior-General das Forças Armadas."
+  },
+  "835864869": {
+   "fragment_id": "835862883",
+   "type": 11,
+   "heading": "Artigo 62.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os 224/85 e 226/85, ambos de 4 de Julho."
+  },
+  "835864872": {
+   "fragment_id": "835864757",
+   "type": 11,
+   "heading": "Artigo 40.º — Acréscimo de tempo de serviço",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Acréscimo de tempo de serviço\n\n1 - Para efeitos de reserva, reforma e aposentação, os funcionários e agentes beneficiam de um acréscimo de 25% em relação a todo o tempo de serviço prestado no SIEDM.\n\n2 - Sem prejuízo das modalidades estabelecidas no Estatuto da Aposentação, os funcionários do SIEDM passam à situação de aposentados, se o requererem, desde que tenham a idade mínima de 55 anos e oito anos de serviço no SIEDM.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01"
+  },
+  "835864871": {
+   "fragment_id": "835862885",
+   "type": 14,
+   "heading": "Anexo — MAPA I ao MAPA V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — MAPA I ao MAPA V\n\n(ver documento original)"
+  },
+  "835864870": {
+   "fragment_id": "835862884",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Julho de 1995. - Manuel Dias Loureiro - António Jorge de Figueiredo Lopes - Manuel Dias Loureiro - Eduardo de Almeida Catroga - José Manuel Durão Barroso.\n\nPromulgado em 15 de Setembro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 19 de Setembro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "835864873": {
+   "fragment_id": "835864712",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Serviço de Informações Estratégicas de Defesa e Militares (SIEDM), criado pela Lei Quadro do Sistema de Informações da República Portuguesa, é um serviço público que depende do Primeiro-Ministro, através do Ministro da Defesa Nacional.\n\n2 - O SIEDM integra-se no Sistema de Informações da República Portuguesa (SIRP).\n\n3 - O SIEDM tem sede em Lisboa e goza de autonomia administrativa e financeira.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835864874": {
+   "fragment_id": "835864713",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - O SIEDM é o organismo incumbido da produção de informações que contribuam para a salvaguarda da independência nacional, dos interesses nacionais, da segurança externa do Estado Português, para o cumprimento das missões das Forças Armadas e para a segurança militar.\n\n2 - O SIEDM está exclusivamente ao serviço do Estado e exerce as suas atribuições, no respeito da Constituição e da lei, de acordo com as finalidades e objectivos do SIRP.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862975": {
+   "fragment_id": "835864714",
+   "type": 11,
+   "heading": "Artigo 3.º — Limites das actividades",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 3.º — Limites das actividades\n\n1 - Não podem ser desenvolvidas actividades de pesquisa, processamento e difusão de informações que envolvam ameaça ou ofensa aos direitos, liberdades e garantias consignados na Constituição e na lei.\n\n2 - Aos funcionários e agentes do SIEDM é vedado exercer poderes, praticar actos ou desenvolver actividades do âmbito ou da competência específica dos tribunais ou das entidades com funções policiais.\n\n3 - É expressamente proibido aos funcionários e agentes do SIEDM proceder à detenção de qualquer pessoa ou instruir processos penais.\n\n4 - A infracção ao disposto no número anterior constitui violação grave dos deveres funcionais, passível de sanção disciplinar, que pode ir até à demissão ou outra medida que implique a cessação de funções no SIEDM, independentemente da responsabilidade criminal e civil que ao caso couber, de harmonia com o disposto na lei geral e na Lei Quadro do SIRP.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862976": {
+   "fragment_id": "835864715",
+   "type": 11,
+   "heading": "Artigo 4.º — Desvio de funções",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 4.º — Desvio de funções\n\n1 - Os funcionários e agentes do SIEDM não podem prevalecer-se da sua qualidade, do seu posto ou da sua função para a prática de qualquer acção de natureza diversa da estabelecida no âmbito institucional do SIEDM.\n\n2 - A violação do disposto no número anterior é punível com pena disciplinar, a graduar em função da gravidade da falta, a qual poderá ir até à demissão ou outra medida que implique o imediato afastamento do Serviço, sem prejuízo do disposto nos artigos 29.º e 30.º da Lei Quadro do SIRP.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862977": {
+   "fragment_id": "835864716",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência material",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 5.º — Competência material\n\nCompete ao SIEDM, no âmbito das suas atribuições específicas, promover, por forma sistemática, a pesquisa e o processamento de notícias e a difusão e arquivo das informações produzidas, devendo, nomeadamente:\n\na) Accionar os meios técnicos e humanos de que tenha sido dotado para a produção de informações, desenvolvendo a sua actividade de acordo com as orientações fixadas pelo Primeiro-Ministro e pelo Ministro da Defesa Nacional;\n\nb) Elaborar os estudos e preparar os documentos que lhe forem determinados;\n\nc) Difundir as informações produzidas, de forma pontual e sistemática, às entidades que lhe forem indicadas;\n\nd) Estudar e propor a adopção de mecanismos de colaboração com o Serviço de Informações de Segurança e demais componentes do SIRP;\n\ne) Comunicar às entidades competentes para a investigação criminal e para o exercício da acção penal os factos configuráveis como ilícitos criminais, salvaguardado o que na lei se dispõe sobre segredo de Estado;\n\nf) Comunicar às entidades competentes, nos termos da lei, as notícias e informações de que tenha conhecimento e respeitantes à segurança do Estado e à prevenção e repressão da criminalidade.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862978": {
+   "fragment_id": "835864717",
+   "type": 11,
+   "heading": "Artigo 6.º — Colaboração com organismos estrangeiros",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 6.º — Colaboração com organismos estrangeiros\n\nNo quadro dos compromissos internacionais assumidos pelo Estado Português e dentro dos limites das suas atribuições específicas, o SIEDM pode, de acordo com as orientações fixadas pelo Primeiro-Ministro, ouvido o Conselho Superior de Informações, cooperar, em todos os domínios da sua actividade, com organismos congéneres estrangeiros.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862979": {
+   "fragment_id": "835864718",
+   "type": 11,
+   "heading": "Artigo 7.º — Dever de colaboração com o SIEDM",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 7.º — Dever de colaboração com o SIEDM\n\n1 - Os serviços da Administração Pública, central, regional e local, os institutos públicos e as empresas públicas e concessionárias de serviços públicos devem prestar ao SIEDM a colaboração que, justificadamente, lhes for solicitada, em especial, facultando, nos termos da lei, os elementos de informação que à missão do SIEDM sejam tidos como essenciais.\n\n2 - Especial dever de colaboração impende sobre as Forças Armadas, que estão obrigadas, nos termos das orientações que vierem a ser definidas pelas entidades competentes, a comunicar pontualmente ao SIEDM as notícias e os elementos de informação de que tenham conhecimento directa ou indirectamente relacionados com as matérias referidas no n.º 1 do artigo 2.º\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862980": {
+   "fragment_id": "835864719",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de cooperação do SIEDM",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 8.º — Dever de cooperação do SIEDM\n\n1 - O SIEDM deve cooperar, no quadro dos objectivos e das finalidades do SIRP e dentro dos limites das suas atribuições específicas, com o Serviço de Informações de Segurança e com o Estado-Maior-General das Forças Armadas.\n\n2 - A cooperação exerce-se de acordo com as instruções e directivas dimanadas do Ministro da Defesa Nacional, nos termos das orientações que vierem a ser definidas pelo Primeiro-Ministro, ouvido o Conselho Superior de Informações.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862981": {
+   "fragment_id": "835864720",
+   "type": 11,
+   "heading": "Artigo 9.º — Protecção das fontes de informação, dos resultados das análises e dos elementos conservados no centro de dados e nos arquivos",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 9.º — Protecção das fontes de informação, dos resultados das análises e dos elementos conservados no centro de dados e nos arquivos\n\n1 - As actividades do SIEDM são consideradas, para todos os efeitos, classificadas e de interesse para a segurança do Estado e para a salvaguarda da independência nacional.\n\n2 - São abrangidos pelo segredo de Estado os registos, documentos e dossiers, bem como os resultados das análises e os elementos conservados no centro de dados e nos arquivos do SIEDM, respeitantes às matérias mencionadas no n.º 1 do artigo 2.º\n\n3 - Toda a actividade de pesquisa, análise, interpretação, classificação e conservação das informações desenvolvida pelos funcionários e agentes do SIEDM está sujeita ao dever de sigilo, nos termos definidos pela Lei Quadro do SIRP.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862982": {
+   "fragment_id": "835864721",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência do Primeiro-Ministro",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 10.º — Competência do Primeiro-Ministro\n\n1 - Sem prejuízo dos poderes inerentes à dependência orgânica do SIEDM e das competências atribuídas pela Lei Quadro e demais legislação do SIRP e pelo presente diploma, compete, em especial, ao Primeiro-Ministro:\n\na) Aprovar o plano anual de actividades e suas alterações;\n\nb) Aprovar o relatório anual de actividades a submeter ao Conselho de Fiscalização, nos termos do artigo 8.º da Lei Quadro.\n\n2 - No exercício dos seus poderes de tutela, pode o Primeiro-Ministro fixar, por despacho, directrizes e instruções sobre actividades a desenvolver pelo SIEDM.\n\n3 - O Primeiro-Ministro pode delegar no Ministro da Defesa Nacional qualquer das competências fixadas nos números anteriores.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862983": {
+   "fragment_id": "835864722",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência conjunta do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 11.º — Competência conjunta do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças\n\nDependem de despacho conjunto do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças:\n\na) A aprovação do projecto de orçamento anual do SIEDM, a incluir no Orçamento do Estado;\n\nb) A definição dos limites de competência do conselho administrativo para autorizar despesas normais, classificadas e especialmente classificadas por conta das dotações globais que vierem a ser inscritas no orçamento do SIEDM, nos termos da Lei de Enquadramento do Orçamento do Estado;\n\nc) A fixação dos fundos de maneio que o conselho administrativo pode ter em caixa para fazer face a despesas que devam ser imediatamente liquidadas;\n\nd) A definição das regras de gestão orçamental, designadamente no que respeita às despesas que podem ser especialmente classificadas.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862984": {
+   "fragment_id": "835864724",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - Na directa dependência do Ministro da Defesa Nacional funciona um órgão de consulta denominado «conselho consultivo».\n\n2 - São por inerência membros do conselho:\n\na) O Chefe do Estado-Maior-General das Forças Armadas;\n\nb) O director-geral de Política de Defesa Nacional;\n\nc) O director-geral da Política Externa do Ministério dos Negócios Estrangeiros;\n\nd) O director-geral e os directores-gerais-adjuntos do SIEDM.\n\n3 - Por determinação ou a solicitação do Ministro da Defesa Nacional, podem participar nas reuniões do conselho outras entidades cuja comparência se mostre adequada.\n\n4 - O conselho reúne mediante convocação do Ministro da Defesa Nacional, sempre que for julgado necessário, com todos ou alguns dos seus membros, consoante a natureza dos assuntos a tratar.\n\n5 - Ao Ministro da Defesa Nacional compete aprovar, por despacho, as normas de funcionamento do conselho, ouvidos os seus membros.\n\n6 - O secretariado do conselho é assegurado por um elemento do Gabinete do Ministro da Defesa Nacional, para esse efeito designado.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862985": {
+   "fragment_id": "835864725",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 13.º — Competência\n\n1 - Ao conselho consultivo compete:\n\na) Aconselhar o Ministro da Defesa Nacional em matéria de informações estratégicas de defesa e militares na tomada de decisões relativas ao exercício das suas competências próprias ou delegadas;\n\nb) Propor ao Ministro da Defesa Nacional a adopção das medidas adequadas à centralização, exploração e utilização de toda a informação que interesse à prossecução dos objectivos legalmente cometidos ao SIEDM;\n\nc) Pronunciar-se sobre quaisquer assuntos que lhe forem submetidos em matéria de informações estratégicas de defesa e militares.\n\n2 - A adopção das medidas propostas pelo conselho, quando se reflictam no funcionamento de entidades não dependentes organicamente do Ministro da Defesa Nacional, carece de prévia concordância do respectivo ministro da tutela.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862986": {
+   "fragment_id": "835864727",
+   "type": 11,
+   "heading": "Artigo 14.º — Órgãos e serviços",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 14.º — Órgãos e serviços\n\n1 - São órgãos do SIEDM:\n\na) O director-geral;\n\nb) O conselho administrativo.\n\n2 - Para além do centro de dados, que funciona nos termos definidos no presente diploma, podem ser criados, por despacho do Ministro da Defesa Nacional, até seis departamentos equiparados a direcção de serviços.\n\n3 - A organização interna, a composição e a competência dos órgãos e dos serviços são regulados por despacho classificado do Ministro da Defesa Nacional, sob proposta do director-geral do SIEDM.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862987": {
+   "fragment_id": "835864728",
+   "type": 11,
+   "heading": "Artigo 15.º — Director-geral",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 15.º — Director-geral\n\n1 - O SIEDM é dirigido por um director-geral, que é o garante do seu regular funcionamento e o responsável pela manutenção da fidelidade da sua actuação às finalidades e aos objectivos legais.\n\n2 - O director-geral é coadjuvado por dois directores-gerais-adjuntos, sendo substituído, nas suas ausências e impedimentos, por aquele que for designado para o efeito.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862988": {
+   "fragment_id": "835864729",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência do director-geral do SIEDM",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 16.º — Competência do director-geral do SIEDM\n\nCompete, em especial, ao director-geral do SIEDM:\n\na) Orientar superiormente as actividades dos serviços e exercer a sua inspecção, superintendência e coordenação, em ordem a assegurar a efectiva prossecução das suas finalidades institucionais;\n\nb) Representar o SIEDM;\n\nc) Presidir ao conselho administrativo;\n\nd) Dirigir a actividade do centro de dados;\n\ne) Expedir as ordens de serviço e as instruções que julgar convenientes, no âmbito das atribuições legalmente cometidas ao SIEDM;\n\nf) Submeter à aprovação tutelar todos os actos que dela careçam;\n\ng) Executar as determinações do Primeiro-Ministro e do Ministro da Defesa Nacional e as deliberações dos órgãos de fiscalização definidos pela Lei Quadro do SIRP;\n\nh) Nomear e exonerar o pessoal, com excepção daquele cuja designação competir a membros do Governo;\n\ni) Tomar o compromisso de honra e dar posse ao pessoal do SIEDM;\n\nj) Exercer o poder disciplinar, dentro dos limites que a lei determinar;\n\nk) Orientar a elaboração do orçamento do SIEDM;\n\nl) Elaborar o relatório anual de actividades do SIEDM.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862989": {
+   "fragment_id": "835864730",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho administrativo - Composição e competência",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 17.º — Conselho administrativo - Composição e competência\n\n1 - O conselho administrativo é composto pelo director-geral, que preside, por um director-geral-adjunto e pelo director do serviço administrativo.\n\n2 - Ao conselho administrativo compete a administração das dotações orçamentais, a prestação das respectivas contas e a aprovação da conta de gerência a submeter ao Tribunal de Contas.\n\n3 - Ao director do serviço administrativo compete, nomeadamente, preparar a elaboração do orçamento anual e das suas alterações, em cumprimento das orientações do director-geral do SIEDM.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862990": {
+   "fragment_id": "835864731",
+   "type": 11,
+   "heading": "Artigo 18.º — Receitas",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 18.º — Receitas\n\n1 - Constituem receitas do SIEDM:\n\na) As dotações orçamentais atribuídas pelo Orçamento do Estado;\n\nb) Os saldos de gerência;\n\nc) Outras receitas que por lei lhe forem atribuídas.\n\n2 - No Orçamento do Estado serão especificadas as dotações globais atribuídas ao SIEDM.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862991": {
+   "fragment_id": "835864732",
+   "type": 11,
+   "heading": "Artigo 19.º — Despesas",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 19.º — Despesas\n\n1 - As despesas do SIEDM dividem-se em normais, classificadas e especialmente classificadas.\n\n2 - As despesas classificadas e especialmente classificadas serão definidas por despacho do Primeiro-Ministro.\n\n3 - As despesas classificadas e especialmente classificadas estão dispensadas de fiscalização prévia do Tribunal de Contas e são justificadas e processadas por simples documentos do conselho administrativo, assinados por dois dos seus membros, um dos quais será o director-geral.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862992": {
+   "fragment_id": "835864734",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 20.º — Competências\n\n1 - O centro de dados é o serviço ao qual compete processar e conservar em suporte magnético os dados e informações respeitantes às atribuições institucionais do SIEDM.\n\n2 - O centro de dados é dirigido por um funcionário com a categoria de director de serviços, nomeado e exonerado pelo Ministro da Defesa Nacional, mediante proposta do director-geral.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862993": {
+   "fragment_id": "835864735",
+   "type": 11,
+   "heading": "Artigo 21.º — Funcionamento",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 21.º — Funcionamento\n\n1 - Os critérios e normas técnicas necessários ao funcionamento do centro de dados, bem como os regulamentos indispensáveis para garantir a segurança das informações processadas, são elaborados e adquirem executoriedade nos termos do artigo 23.º da Lei Quadro do SIRP.\n\n2 - O centro de dados do SIEDM só pode iniciar a sua actividade depois de publicada a regulamentação a que se refere o número anterior.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862994": {
+   "fragment_id": "835864736",
+   "type": 11,
+   "heading": "Artigo 22.º — Acesso aos dados",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 22.º — Acesso aos dados\n\n1 - Sem prejuízo do disposto na Lei Quadro do SIRP sobre fiscalização, nenhuma entidade estranha ao SIEDM pode ter acesso directo aos dados e informações conservados no centro de dados.\n\n2 - Por despacho do Primeiro-Ministro, ouvido o Conselho Superior de Informações, serão definidas as condições em que elementos informativos conservados no centro de dados podem ser fornecidos aos órgãos e serviços previstos na Lei Quadro do SIRP e na legislação de segurança interna;\n\n3 - O acesso de funcionários e agentes do SIEDM a dados e informações conservados no centro de dados será regulado por despacho do Ministro da Defesa Nacional.\n\n4 - O funcionário ou agente que aceder, tentar aceder, comunicar ou fizer uso de dados ou informações com violação do disposto no número anterior será punido com sanção correspondente a infracção disciplinar grave dos deveres funcionais, sem prejuízo do disposto na Lei Quadro do SIRP.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862995": {
+   "fragment_id": "835864739",
+   "type": 11,
+   "heading": "Artigo 23.º — Serviço permanente",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 23.º — Serviço permanente\n\n1 - O serviço do SIEDM é de carácter permanente e obrigatório, não está sujeito a horários rígidos de trabalho, exige total disponibilidade e as condições da sua prestação são reguladas por ordens dimanadas do director-geral, de harmonia com as directivas do Ministro da Defesa Nacional.\n\n2 - O funcionário ou agente do SIEDM não pode recusar-se, sem motivo justificado, a comparecer ao serviço ou a nele permanecer para além do período normal de trabalho ou a desempenhar qualquer missão de serviço, desde que compatível com a sua categoria funcional.\n\n3 - A prestação de serviço fora do período normal de trabalho não dá direito a qualquer forma de remuneração específica.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862996": {
+   "fragment_id": "835864740",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime especial",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 24.º — Regime especial\n\n1 - A organização dos serviços, a estruturação dos quadros, a definição do conteúdo funcional das diversas categorias e os regimes de recrutamento e provimento não estão sujeitos à disciplina dos Decretos-Leis n.os 41/84, de 3 de Fevereiro, 498/88, de 30 de Dezembro, 427/89, de 7 de Dezembro, 407/91, de 17 de Outubro, e 247/92, de 7 de Novembro.\n\n2 - Com excepção dos cargos de pessoal dirigente, o número de lugares providos em regime de comissão de serviço não pode exceder 50% do número total de lugares providos.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862997": {
+   "fragment_id": "835864741",
+   "type": 11,
+   "heading": "Artigo 25.º — Quadro privativo",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 25.º — Quadro privativo\n\n1 - Sem prejuízo do disposto no presente diploma, as dotações de pessoal do quadro do SIEDM serão aprovadas e alteradas por despacho conjunto do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças e os lugares nele previstos serão providos exclusivamente por contrato administrativo de provimento, ou em regime de comissão de serviço quando se trate de funcionários pertencentes à Administração Pública, de magistrados judiciais ou do Ministério Público, de diplomatas e militares, ou de pessoal requisitado a empresas públicas, participadas ou concessionárias de serviços públicos.\n\n2 - Salvo disposição deste diploma em contrário, as comissões de serviço têm a duração de três anos e consideram-se automaticamente renovadas se, até 30 dias antes do seu termo, o director-geral ou o interessado não tiverem manifestado expressamente a intenção de as fazerem cessar, sem que haja lugar ao pagamento de qualquer indemnização.\n\n3 - Os contratos a que se refere o n.º 1 são válidos por dois anos, podendo ser renovados por iguais períodos.\n\n4 - A nomeação em comissão de serviço do pessoal já vinculado ao Estado compete ao Ministro da Defesa Nacional, obtida a anuência do membro do Governo que tutele o departamento a que o funcionário pertence.\n\n5 - Quando a designação recair em magistrado judicial ou do Ministério Público, em diplomata ou em militar, respeitar-se-ão as respectivas leis estatutárias.\n\n6 - O provimento por contrato é da competência do director-geral do SIEDM.\n\n7 - Quando a designação recair em deficiente das Forças Armadas, serão aplicáveis as disposições legais relativas à acumulação das remunerações com as pensões, tal como previsto no artigo 13.º do Decreto-Lei n.º 43/76, de 20 de Janeiro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 203/87, de 16 de Maio.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862998": {
+   "fragment_id": "835864742",
+   "type": 11,
+   "heading": "Artigo 26.º — Funcionários e agentes do Estado",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 26.º — Funcionários e agentes do Estado\n\n1 - A nomeação em comissão de serviço de funcionário da Administração Pública determina a abertura de vaga no quadro de origem, ficando salvaguardados todos os direitos inerentes aos seus anteriores cargos ou funções, designadamente para efeitos de promoção e progressão.\n\n2 - Se a comissão de serviço referida no número anterior vier a cessar nos termos previstos no artigo 27.º, o funcionário tem direito a ser integrado no quadro de pessoal do serviço de origem ou no de qualquer outro para onde tenham sido transferidas as respectivas atribuições e competências:\n\na) Na categoria que o funcionário possuir no serviço de origem, se a comissão de serviço cessar antes de decorridos seis anos;\n\nb) No quadro do serviço de origem, em categoria equivalente à que possuir no SIEDM e no escalão em que estiver posicionado, se a comissão de serviço se prolongar por período superior a seis anos, excepto o pessoal dirigente, e de acordo com a tabela de equivalências constante do mapa IV anexo ao presente diploma, do qual faz parte integrante.\n\n3 - Os funcionários abrangidos pelo disposto na alínea b) do número anterior poderão optar pela integração nos termos definidos na alínea a) do mesmo número.\n\n4 - Serão criados nos quadros de pessoal dos serviços de origem os lugares necessários para execução do estabelecido nas alíneas a) e b) do n.º 2, os quais serão extintos à medida que vagarem.\n\n5 - A criação dos lugares referidos no número anterior será feita por portaria conjunta dos Ministros da Defesa Nacional, das Finanças e da respectiva pasta, produzindo efeitos a partir das datas em que cessarem as comissões de serviço no SIEDM dos funcionários para quem são destinados os lugares.\n\n6 - Sem prejuízo do disposto na legislação específica do SIEDM, ao pessoal provido nos cargos dirigentes constantes do mapa V anexo ao presente diploma, do qual faz parte integrante, é aplicável o regime previsto no Decreto-Lei n.º 323/89, de 26 de Setembro, e legislação complementar.\n\n7 - Para efeitos do disposto no número anterior, consideram-se equiparados:\n\na) Ao cargo de subdirector-geral o cargo de director-geral-adjunto;\n\nb) Ao cargo de chefe de divisão o cargo de director de área.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835862999": {
+   "fragment_id": "835864743",
+   "type": 11,
+   "heading": "Artigo 27.º — Cessação do vínculo funcional",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 27.º — Cessação do vínculo funcional\n\n1 - O director-geral do SIEDM pode, em qualquer momento, propor ao Ministro da Defesa Nacional a cessação da comissão de serviço de qualquer funcionário ou agente.\n\n2 - Por mera conveniência de serviço, o director-geral do SIEDM pode, a todo o tempo, rescindir ou alterar o contrato administrativo de qualquer funcionário ou agente, carecendo tal decisão de homologação pelo Ministro da Defesa Nacional.\n\n3 - A simples invocação da conveniência de serviço constitui fundamentação válida e suficiente para a decisão sobre a cessação da comissão de serviço e considera-se como justa causa para a rescisão do contrato.\n\n4 - Quando outra fundamentação não for expressamente indicada, a invocação da conveniência de serviço presumir-se-á sempre fundamentada na inadaptação funcional do funcionário ou agente face à especificidade institucional do SIEDM.\n\n5 - A cessação da comissão de serviço e a rescisão ou alteração do contrato administrativo podem fazer-se sem prévio aviso e não dão lugar a qualquer indemnização.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863000": {
+   "fragment_id": "835864744",
+   "type": 11,
+   "heading": "Artigo 28.º — Aquisição de vínculo ao Estado",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 28.º — Aquisição de vínculo ao Estado\n\n1 - Quando completar seis anos de serviço sem interrupção, o agente provido por contrato administrativo adquire o direito a vínculo definitivo ao Estado, se o director-geral do SIEDM atestar que aquele revela aptidão e idoneidade para o exercício de funções públicas, carecendo tal decisão de homologação pelo Ministro da Defesa Nacional.\n\n2 - Se o pessoal que tiver adquirido o direito ao vínculo definitivo ao Estado, nos termos do número anterior, vier a ser afastado das funções pelo motivo indicado no n.º 2 do artigo 27.º, será integrado no quadro de pessoal da Secretaria-Geral do Ministério da Defesa Nacional, em categoria equivalente à que já possuíam no SIEDM e no escalão em que se encontrar posicionado, de acordo com a tabela de equivalências constante do mapa IV anexo ao presente diploma, do qual faz parte integrante.\n\n3 - Serão criados no quadro de pessoal da Secretaria-Geral do Ministério da Defesa Nacional os lugares necessários para execução do estabelecido no número anterior, os quais serão extintos à medida que vagarem.\n\n4 - A criação dos lugares referida no número anterior será feita por portaria conjunta dos Ministros da Defesa Nacional e das Finanças, produzindo efeitos a partir das datas em que os agentes para quem são destinados os lugares cessem funções no SIEDM.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863001": {
+   "fragment_id": "835864745",
+   "type": 11,
+   "heading": "Artigo 29.º — Exclusividade funcional",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 29.º — Exclusividade funcional\n\n1 - Os funcionários e agentes do SIEDM não podem exercer qualquer outra actividade profissional, pública ou privada, remunerada ou gratuita, estranha aos objectivos e finalidades do serviço, salvo autorização prévia da entidade competente.\n\n2 - O pessoal do SIEDM subordina toda a sua actividade profissional aos objectivos e finalidades institucionais do Serviço e desenvolve a sua actuação no respeito pelos princípios fundamentais e pelas normas constantes da Lei Quadro e demais legislação do SIRP, e dos diplomas que os vierem a regulamentar.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863002": {
+   "fragment_id": "835864747",
+   "type": 11,
+   "heading": "Artigo 30.º — Regra geral",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 30.º — Regra geral\n\nQuando de outro modo não estiver estabelecido, nomeadamente na Lei Quadro e demais legislação do SIRP o pessoal do SIEDM tem os direitos e está sujeito aos deveres e às incompatibilidades comuns à generalidade dos funcionários e agentes da Administração Pública.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863003": {
+   "fragment_id": "835864748",
+   "type": 11,
+   "heading": "Artigo 31.º — Local de residência",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 31.º — Local de residência\n\n1 - Os funcionários e agentes do SIEDM devem residir na localidade onde normalmente exercem as suas funções, podendo residir em outra desde que não haja quebra de disponibilidade permanente para o serviço.\n\n2 - O exercício de funções em determinado departamento ou serviço não obsta à deslocação do funcionário ou agente, sem perda de quaisquer direitos ou regalias, para outro departamento ou serviço do SIEDM, situado na mesma ou em diferente localidade.\n\n3 - A deslocação por necessidade de serviço para localidade fora da área da residência habitual do funcionário ou agente, que implique necessária mudança de residência, confere-lhe direito a subsídios e condições especiais adequadas, nomeadamente se a colocação se verificar no estrangeiro, a serem fixados por despacho conjunto dos Ministros da Defesa Nacional e das Finanças.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863004": {
+   "fragment_id": "835864749",
+   "type": 11,
+   "heading": "Artigo 32.º — Direito de acesso",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 32.º — Direito de acesso\n\nPor despacho do Ministro da Defesa Nacional serão fixados os meios de identificação do pessoal do SIEDM.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863005": {
+   "fragment_id": "835864750",
+   "type": 11,
+   "heading": "Artigo 33.º — Direito a remuneração",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 33.º — Direito a remuneração\n\n1 - O direito à remuneração constitui-se com o início do exercício de funções;\n\n2 - Nos casos em que o início efectivo de funções seja precedido de um período de aprendizagem ou estágio, o direito à remuneração constitui-se com o início deste e terá como índice o fixado para a respectiva categoria de estágio, ou, não a havendo, para a de ingresso.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863006": {
+   "fragment_id": "835864752",
+   "type": 11,
+   "heading": "Artigo 35.º — Suplemento",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 35.º — Suplemento\n\n1 - Pelos ónus específicos das respectivas funções, os funcionários e agentes do SIEDM têm direito a um suplemento cujo quantitativo será graduado em função das concretas condições de trabalho.\n\n2 - O suplemento referido no número anterior é fixado por despacho conjunto do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças.\n\n3 - O suplemento é considerado como vencimento e neste integrado, designadamente para efeitos de cálculo dos subsídios de férias e de Natal e da pensão de aposentação.\n\n4 - Os militares na situação de reserva em serviço no SIEDM que passem directamente à situação de reforma têm direito à percepção do suplemento previsto no n.º 1, nos termos da alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863007": {
+   "fragment_id": "835864753",
+   "type": 11,
+   "heading": "Artigo 36.º — Habitação",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 36.º — Habitação\n\n1 - O director-geral e os directores-gerais-adjuntos têm direito, enquanto exercerem o cargo, a casa mobilada para sua habitação, ou a subsídio de compensação a fixar pelo Primeiro-Ministro e pelos Ministros da Defesa Nacional e das Finanças.\n\n2 - Nos casos em que haja lugar a deslocação, o Ministro da Defesa Nacional pode fixar o subsídio de instalação adequado às despesas efectivamente realizadas pelo funcionário ou agente.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863008": {
+   "fragment_id": "835864754",
+   "type": 11,
+   "heading": "Artigo 37.º — Ajudas de custo e abono para despesas de transporte",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 37.º — Ajudas de custo e abono para despesas de transporte\n\n1 - O pessoal do SIEDM, sempre que se desloque em serviço, tem direito a ajudas de custo diárias e a abono para despesas de transporte, nos termos da lei geral.\n\n2 - Se, por razões de serviço, as despesas efectivamente realizadas pelo funcionário ou agente excederem o montante da ajuda de custo estabelecida na lei geral, ser-lhe-á abonada a diferença considerada justificada pelo conselho administrativo.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863009": {
+   "fragment_id": "835864755",
+   "type": 11,
+   "heading": "Artigo 38.º — Promoção e progressão",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 38.º — Promoção e progressão\n\n1 - De acordo com factores de avaliação a definir por despacho do Ministro da Defesa Nacional, o pessoal contratado e o pessoal nomeado em comissão de serviço, nos termos do n.º 1 do artigo 25.º, poderá ser provido na categoria superior, mediante concurso documental e depois de cumpridos os módulos de tempo para o efeito fixados.\n\n2 - A progressão na carreira do pessoal do SIEDM obedecerá ao disposto no regime geral da função pública.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863010": {
+   "fragment_id": "835864756",
+   "type": 11,
+   "heading": "Artigo 39.º — Acidente em serviço",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 39.º — Acidente em serviço\n\n1 - O pessoal do SIEDM, quando vítima de acidente ocorrido no desempenho de funções que lhe forem atribuídas, tem o direito à totalidade das remunerações, suplementos e abonos estipulados nos artigos 34.º a 36.º enquanto se mantiver em tratamento e convalescença.\n\n2 - Aos funcionários e agentes do SIEDM que, no exercício das suas funções, ficarem incapacitados é aplicável a legislação vigente para os elementos das Forças Armadas e das forças de segurança.\n\n3 - Por despacho conjunto do Primeiro-Ministro e dos Ministros da Defesa Nacional e das Finanças, pode ser autorizado o pagamento do prémio de seguro de vida dos funcionários ou agentes e, para aqueles que tiverem a seu cargo a condução de viaturas ao serviço do SIEDM, do prémio de seguro de carta de condução.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863011": {
+   "fragment_id": "835864757",
+   "type": 11,
+   "heading": "Artigo 40.º — Acréscimo de tempo de serviço",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24",
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Acréscimo de tempo de serviço\n\n1 - Para efeitos de reserva, reforma e aposentação, os funcionários e agentes beneficiam de um acréscimo de 25% em relação a todo o tempo de serviço prestado no SIEDM.\n\n2 - Sem prejuízo das modalidades estabelecidas no Estatuto da Aposentação, os funcionários do SIEDM passam à situação de aposentados, se o requererem, desde que tenham a idade mínima de 55 anos e oito anos de serviço no SIEDM.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01"
+  },
+  "835863012": {
+   "fragment_id": "835864759",
+   "type": 11,
+   "heading": "Artigo 41.º — Pessoal dirigente e de chefia",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 41.º — Pessoal dirigente e de chefia\n\n1 - Os lugares de director-geral e director-geral-adjunto do SIEDM são providos por despacho conjunto do Primeiro-Ministro e do Ministro da Defesa Nacional, devendo a escolha recair em indivíduos de reconhecida idoneidade cívica, elevada competência profissional e que possuam experiência válida para o exercício das funções.\n\n2 - Os lugares do demais pessoal dirigente ou de chefia são providos por despacho do Ministro da Defesa Nacional, sob proposta do director-geral, devendo a escolha recair em indivíduos de reconhecida idoneidade cívica, elevada competência profissional e que possuam experiência válida para o exercício das funções.\n\n3 - Os lugares de director-geral, director-geral-adjunto e demais pessoal dirigente ou de chefia são providos em regime de comissão de serviço por tempo indeterminado, a qual pode ser dada por finda, a todo o tempo, por conveniência de serviço, sem necessidade de pré-aviso e sem que haja lugar a qualquer indemnização.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863013": {
+   "fragment_id": "835864760",
+   "type": 11,
+   "heading": "Artigo 42.º — Recrutamento e selecção do demais pessoal",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 42.º — Recrutamento e selecção do demais pessoal\n\n1 - São condições indispensáveis ao recrutamento para qualquer lugar do quadro privativo do SIEDM a reconhecida idoneidade cívica, a elevada competência profissional e a experiência válida para o exercício das funções, a avaliar com base nos respectivos currículos.\n\n2 - O recrutamento do pessoal técnico superior é feito de entre indivíduos habilitados com licenciatura em curso adequado ou que já possuam categoria funcional igual ou equivalente no serviço de origem.\n\n3 - O recrutamento do pessoal técnico é feito de entre indivíduos habilitados com curso superior adequado ou que já possuam categoria funcional igual ou equivalente no serviço de origem e ainda que demonstrem possuir um currículo profissional revelador de especiais aptidões e experiência para o exercício de funções no SIEDM.\n\n4 - O recrutamento do pessoal técnico-profissional é feito de entre indivíduos habilitados com o 11.º ano ou equivalente, 9.º ano e curso de formação técnico-profissional ou que já possuam categoria igual ou equivalente no serviço de origem e, ainda, que demonstrem possuir um currículo profissional revelador de especiais aptidões para o exercício de funções no SIEDM, podendo ser exigível o domínio escrito e falado de, pelo menos, uma língua estrangeira e a carta de condução de veículos ligeiros.\n\n5 - O recrutamento de pessoal técnico-profissional de apoio geral é feito de entre indivíduos com o curso geral dos liceus, o 9.º ano do curso unificado ou equivalente, ou que já possuam categoria funcional igual ou equivalente no serviço de origem, sendo exigível para o pessoal de secretariado a posse de curso de especialização adequado ou o exercício de tais funções durante, pelo menos, dois anos.\n\n6 - O recrutamento do pessoal técnico de segurança e auxiliar é feito de entre indivíduos habilitados com a escolaridade obrigatória e que demonstrem possuir especiais aptidões para o exercício de funções no SIEDM.\n\n7 - Sem prejuízo do disposto nos números anteriores e a título excepcional, podem prestar serviço no SIEDM indivíduos que se encontrem na situação de reserva, reforma ou aposentação.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863014": {
+   "fragment_id": "835864761",
+   "type": 11,
+   "heading": "Artigo 43.º — Requisitos especiais",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 43.º — Requisitos especiais\n\n1 - São requisitos especiais de provimento em qualquer lugar do quadro:\n\na) Ter nacionalidade portuguesa de origem;\n\nb) Ter idade não inferior a 23 anos nem superior a 55 anos;\n\nc) Não estar abrangido pela incapacidade prevista no artigo 31.º da Lei Quadro do SIRP;\n\nd) Possuir as habilitações literárias referidas no artigo anterior;\n\ne) Sujeitar-se voluntária e expressamente às condições de recrutamento, de selecção e de formação que forem fixadas por despacho do Ministro da Defesa Nacional;\n\nf) Submeter-se voluntária e expressamente aos deveres impostos pela Lei Quadro e demais legislação do SIRP e pelos diplomas que os regulamentarem;\n\ng) Apresentar declaração do património e dos rendimentos, nos termos previstos na Lei n.º 4/83, de 2 de Abril, e no Decreto Regulamentar n.º 74/83, de 6 de Outubro.\n\n2 - O requisito especial de provimento previsto na alínea b) do número anterior não se aplica ao recrutamento dos lugares de pessoal dirigente.\n\n3 - As declarações a que se refere a alínea g) do n.º 1 são apresentadas antes do início das funções e fazem parte do processo individual de cada funcionário ou agente, que fica sujeito ao regime de confidencialidade previsto no artigo 9.º\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863015": {
+   "fragment_id": "835864762",
+   "type": 11,
+   "heading": "Artigo 44.º — Estágio",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 44.º — Estágio\n\n1 - Sem prejuízo da exigência das condições e requisitos referidos nos artigos 42.º e 43.º, o ingresso nas carreiras de técnico superior de informações, técnico de informações e técnico-adjunto de informações dependerá de aprovação em estágio regulamentado por despacho do Ministro da Defesa Nacional, o qual obedecerá aos seguintes princípios:\n\na) Os estagiários que tiverem vínculo à Administração Pública manterão, durante o estágio, o direito ao seu lugar no quadro de origem;\n\nb) No decurso do estágio poderão, em qualquer momento, ser dele excluídos os estagiários que não adquirirem o gradual aproveitamento ou revelarem não possuir condições de adaptação às funções a que se destinam;\n\nc) Os estagiários que forem excluídos do estágio ou não obtiverem aprovação regressarão ao lugar de origem ou serão dispensados consoante se trate, ou não, de indivíduos vinculados ao Estado, não lhes sendo devida, num e noutro caso, qualquer indemnização;\n\nd) Findo o estágio, os que obtiverem aprovação serão providos na categoria de ingresso da carreira para que foram recrutados;\n\ne) O tempo de estágio, quando seguido de provimento na categoria de ingresso, será contado, para todos os efeitos legais, como se fosse prestado naquela categoria;\n\nf) É aplicável aos estagiários já vinculados ao Estado a opção remuneratória prevista no n.º 1 do artigo 53.º do presente diploma.\n\n2 - Atenta a natureza e especificidade das funções a desempenhar, poderá o Ministro da Defesa Nacional sob proposta do director-geral, dispensar total ou parcialmente a frequência do estágio para ingresso nas carreiras referidas no número anterior.\n\n3 - Os funcionários e agentes que injustificadamente requeiram a cessação de funções, a qualquer título, antes de decorridos dois anos do provimento referido na alínea d) do n.º 1, devem indemnizar o SIEDM pelos encargos ocasionados pela sua frequência do estágio.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863016": {
+   "fragment_id": "835864763",
+   "type": 11,
+   "heading": "Artigo 45.º — Formação",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 45.º — Formação\n\n1 - O SIEDM organizará as acções de formação, especialização, actualização e aperfeiçoamento que forem julgadas mais adequadas ao exercício das funções atribuídas às diferentes categorias de pessoal que integrem os seus quadros.\n\n2 - A frequência pelo pessoal das acções de formação que lhe sejam destinadas é de carácter obrigatório, só podendo ser concedida dispensa por motivo ponderoso, devidamente justificado.\n\n3 - A frequência das acções de formação e o resultado obtido pelos destinatários constituem requisito de ingresso ou de promoção nos quadros do SIEDM, em termos a definir de harmonia com o previsto nos artigos 38.º e 42.º\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863017": {
+   "fragment_id": "835864765",
+   "type": 11,
+   "heading": "Artigo 46.º — Classificação de serviço",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 46.º — Classificação de serviço\n\n1 - O sistema de classificação de serviço será definido por portaria conjunta dos Ministros da Defesa Nacional e das Finanças, tendo em conta a especificidade orgânica e institucional do SIEDM.\n\n2 - Enquanto não for estabelecido o sistema previsto no número anterior, é aplicável aos funcionários e agentes do SIEDM o regime de classificação de serviço vigente para a generalidade da função pública, com as seguintes especialidades:\n\na) A ficha de notação a utilizar para o pessoal técnico superior e técnico é a prevista na alínea a) do n.º 1 do artigo 6.º do Decreto Regulamentar n.º 44-B/83, de 1 de Junho;\n\nb) A ficha de notação a utilizar para o restante pessoal sujeito à classificação de serviço é a prevista na alínea b) do n.º 1 do referido artigo 6.º;\n\nc) Não tem aplicação as normas previstas no capítulo III e os artigos 32.º a 35.º e 38.º, n.º 1, do Decreto Regulamentar n.º 44-B/83;\n\nd) A competência para homologar a classificação pertence ao director-geral do SIEDM, constituindo o director-geral-adjunto que coordenar a actividade do respectivo serviço e o superior hierárquico imediato do notado o órgão de consulta a que se refere o artigo 40.º, n.º 2, do diploma mencionado na alínea a).\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863018": {
+   "fragment_id": "835864767",
+   "type": 11,
+   "heading": "Artigo 47.º — Disposição geral",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 47.º — Disposição geral\n\nO pessoal do SIEDM, qualquer que seja a sua origem e forma de provimento, está, desde a data de inicio do exercício das funções, sujeito à disciplina do serviço e aos poderes disciplinares das entidades que o dirigem e nele superintendem.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863019": {
+   "fragment_id": "835864768",
+   "type": 11,
+   "heading": "Artigo 48.º — Efeitos de pronúncia",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 48.º — Efeitos de pronúncia\n\n1 - O despacho de pronúncia com trânsito em julgado, em processo criminal, por qualquer crime doloso, para além dos efeitos previstos na lei geral, pode constituir fundamento suficiente para ser determinada a cessação da comissão de serviço ou a rescisão do contrato, consoante a forma de provimento do funcionário ou agente.\n\n2 - A verificação da situação prevista na primeira parte do número anterior faz presumir que o indiciado não correspondeu às expectativas que determinaram a sua admissão, podendo a manutenção do vinculo funcional revelar-se incompatível com a prossecução dos objectivos institucionais do SIEDM.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863020": {
+   "fragment_id": "835864769",
+   "type": 11,
+   "heading": "Artigo 49.º — Penas especiais",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 49.º — Penas especiais\n\n1 - São penas especiais aplicáveis aos funcionários e agentes do SIEDM:\n\na) A cessação da comissão de serviço;\n\nb) A rescisão do contrato.\n\n2 - A pena de cessação da comissão de serviço é aplicável a todos os funcionários ou agentes já vinculados à Administração Pública:\n\na) Como pena acessória, por qualquer infracção disciplinar punível com pena igual ou superior à de multa;\n\nb) Como pena principal, aos dirigentes e equiparados, nos termos da lei geral.\n\n3 - A pena de rescisão do contrato é aplicável aos funcionários ou agentes que se encontrem providos por contrato, por qualquer infracção disciplinar a que corresponda a pena igual ou superior à de inactividade.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863021": {
+   "fragment_id": "835864770",
+   "type": 11,
+   "heading": "Artigo 50.º — Competência disciplinar",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 50.º — Competência disciplinar\n\n1 - Compete ao Ministro da Defesa Nacional a aplicação de qualquer pena disciplinar que implique a cessação definitiva do vínculo funcional.\n\n2 - O director-geral do SIEDM tem competência para aplicar qualquer pena disciplinar até à de inactividade, inclusive.\n\n3 - Os directores-gerais-adjuntos, em relação ao pessoal colocado nos serviços que deles dependem, têm competência para aplicar qualquer pena disciplinar até à de suspensão, inclusive.\n\n4 - Os directores de serviço, em relação ao pessoal colocado nos serviços que deles dependem, têm competência para aplicar a pena de repreensão.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863022": {
+   "fragment_id": "835864771",
+   "type": 11,
+   "heading": "Artigo 51.º — Suspensão preventiva",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 51.º — Suspensão preventiva\n\n1 - O funcionário ou agente pode ser, por proposta da entidade que mandar instaurar o processo ou do instrutor e mediante despacho do Ministro da Defesa Nacional, preventivamente suspenso do exercício das funções, sem perda de vencimento e de categoria e até decisão do processo, pelo prazo de 90 dias, prorrogável por igual período, sempre que a sua presença se revele inconveniente para o serviço ou para o apuramento da verdade.\n\n2 - A suspensão preventiva só não pode ter lugar se a infracção denunciada for punível com pena de repreensão ou multa.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863023": {
+   "fragment_id": "835864773",
+   "type": 11,
+   "heading": "Artigo 52.º — Direito subsidiário",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 52.º — Direito subsidiário\n\nTudo o que, em matéria estatutária e disciplinar, não for especialmente regulado pela Lei Quadro e demais legislação do SIRP, pelo presente decreto-lei e pelos diplomas que os vierem a regulamentar, é regulado pela lei geral.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863024": {
+   "fragment_id": "835864774",
+   "type": 11,
+   "heading": "Artigo 53.º — Opção quanto a vencimento",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 53.º — Opção quanto a vencimento\n\n1 - Os funcionários e agentes do SIEDM já vinculados aos quadros da Administração Pública, central, regional e local, da magistratura judicial ou do Ministério Público, das forças e dos serviços de segurança podem optar pelo regime remuneratório correspondente ao lugar de origem, sem prejuízo de auferirem os suplementos específicos atribuídos ao pessoal do SIEDM.\n\n2 - Os militares das Forças Armadas na situação de activo que prestem serviço no SIEDM podem, relativamente ao regime remuneratório, exercer a opção a que se refere o artigo 4.º do Decreto-Lei n.º 57/90, de 14 de Fevereiro.\n\n3 - O regime remuneratório dos militares das Forças Armadas e das forças de segurança na situação de reserva ou reforma que prestem serviço no SIEDM é o que resultar dos respectivos estatutos próprios ou do Estatuto da Aposentação.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863025": {
+   "fragment_id": "835862875",
+   "type": 11,
+   "heading": "Artigo 54.º — Uso e porte de arma",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 54.º — Uso e porte de arma\n\nO direito ao uso e porte de arma por parte de funcionários e agentes do SIEDM será regulamentado por despacho conjunto dos Ministros da Defesa Nacional e da Administração Interna.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863026": {
+   "fragment_id": "835862876",
+   "type": 11,
+   "heading": "Artigo 55.º — Serviços sociais",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 55.º — Serviços sociais\n\n1 - Os funcionários e agentes que se encontram nas condições referidas no artigo 26.º continuam a gozar de direitos e regalias iguais aos que usufruíam em resultado da sua inscrição nos serviços sociais instituídos nos departamentos de origem.\n\n2 - Os funcionários e agentes que, antes de ingressarem no SIEDM, não eram beneficiários de qualquer serviço social ficam abrangidos por regime idêntico ao que vigora nos serviços sociais da Presidência do Conselho de Ministros.\n\n3 - As modalidades de concessão dos benefícios sociais e de cumprimento das obrigações pelos beneficiários serão definidas por acordo a celebrar entre os serviços sociais e o SIEDM, tendo em conta a especificidade institucional deste último.\n\n4 - O acordo a que se refere o número anterior carece de aprovação do Ministro da Defesa Nacional e do membro do Governo que superintender nos serviços sociais.\n\n5 - O SIEDM não é abrangido pelo disposto no artigo 4.º do Decreto-Lei n.º 118/83, de 25 de Fevereiro, ficando sujeito ao regime aplicável aos serviços dotados de, apenas, autonomia administrativa.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863027": {
+   "fragment_id": "835862877",
+   "type": 11,
+   "heading": "Artigo 56.º — Início de funções",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 56.º — Início de funções\n\n1 - O pessoal designado para prestar serviço no SIEDM considera-se em serviço a partir da data do despacho da sua nomeação ou da data que nele for mencionada.\n\n2 - Os despachos de nomeação e exoneração não carecem de visto do Tribunal de Contas em de publicação no Diário da República.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863028": {
+   "fragment_id": "835862878",
+   "type": 11,
+   "heading": "Artigo 57.º — Serviço prestado por militares na situação de reserva",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 57.º — Serviço prestado por militares na situação de reserva\n\nTodo o tempo de serviço prestado no SIEDM pelos militares na situação de reserva conta para efeitos de reforma, até ao limite correspondente a 36 anos de serviço.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863029": {
+   "fragment_id": "835862879",
+   "type": 11,
+   "heading": "Artigo 58.º — Aquisição de bens e serviços",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 58.º — Aquisição de bens e serviços\n\n1 - Na importação ou aquisição de armamento, munições, viaturas, equipamentos de segurança, telecomunicações, electrónica, laboratório e outros igualmente utilizados para fins de segurança, destinados ao SIEDM, poderá o Ministro das Finanças, nos termos da lei, conceder isenção dos respectivos direitos, incluindo sobretaxas e emolumentos, bem como dos correspondentes impostos.\n\n2 - O Ministro da Defesa Nacional pode autorizar o SIEDM a celebrar contratos para aquisição de bens e serviços, com dispensa, total ou parcial, das formalidades previstas na lei geral, sempre que razões de segurança ou relacionadas com a especificidade do serviço o justifiquem.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863030": {
+   "fragment_id": "835862880",
+   "type": 11,
+   "heading": "Artigo 59.º — Dispensa de publicitação",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 59.º — Dispensa de publicitação\n\nQuando razões de segurança interna ou relacionadas com a especificidade do serviço o justifiquem, podem os membros do Governo intervenientes determinar, referindo-o expressamente, a dispensa de publicitação dos actos necessários à execução dos diplomas do SIEDM.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863031": {
+   "fragment_id": "835862881",
+   "type": 11,
+   "heading": "Artigo 60.º — Pessoal dirigente",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 60.º — Pessoal dirigente\n\nO pessoal dirigente tem direito às remunerações e demais abonos previstos para o pessoal dirigente do Serviço de Informações de Segurança.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863032": {
+   "fragment_id": "835862882",
+   "type": 11,
+   "heading": "Artigo 61.º — Disposições transitórias",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 61.º — Disposições transitórias\n\n1 - Até ao final do corrente ano o SIEDM disporá apenas de autonomia administrativa, devendo ser inscritas no orçamento do Ministério da Defesa Nacional, em classificação orgânica apropriada, as dotações necessárias para suportar os encargos nesse período.\n\n2 - Até preenchimento dos quadros de pessoal do SIEDM, é dispensado o requisito especial de provimento referido na alínea b) do n.º 1 do artigo 43.º para o pessoal que, à data da entrada em vigor do presente diploma, desempenhe funções na Divisão de Informações do Estado-Maior-General das Forças Armadas.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863033": {
+   "fragment_id": "835862883",
+   "type": 11,
+   "heading": "Artigo 62.º — Norma revogatória",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "###### Artigo 62.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os 224/85 e 226/85, ambos de 4 de Julho.\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863034": {
+   "fragment_id": "835862885",
+   "type": 14,
+   "heading": "Anexo — MAPA I ao MAPA V",
+   "in_force_from": "2007-02-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+   ],
+   "markdown": "## Anexo — MAPA I ao MAPA V\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 72.º do/a [Lei n.º 9/2007 - Diário da República n.º 35/2007, Série I de 2007-02-19](https://diariodarepublica.pt/dr/detalhe/lei/9-2007-517985), em vigor a partir de 2007-02-24"
+  },
+  "835863035": {
+   "fragment_id": "835864751",
+   "type": 11,
+   "heading": "Artigo 34.º — Remuneração base",
+   "in_force_from": "2024-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 133/2023 - Diário da República n.º 249/2023, Série I de 2023-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2023-835809051), em vigor a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 34.º — Remuneração base\n\n1 - A remuneração base mensal dos cargos dirigentes do SIEDM consta do mapa I anexo a este diploma, do qual faz parte integrante, tomando como valor padrão a remuneração atribuída ao cargo de director-geral, nos termos do Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n2 - A remuneração base mensal dos funcionários que, não sendo dirigentes, também integram o corpo especial do SIEDM consta do mapa II anexo a este diploma, do qual faz parte integrante.\n\n3 - A remuneração base mensal correspondente ao índice 100 das escalas salariais previstas no mapa II, referido no número anterior, é fixada em portaria conjunta do Primeiro-Ministro e do Ministro das Finanças.\n\n4 - A remuneração base mensal e as escalas salariais do pessoal auxiliar, a cujas categorias se reporta o mapa III anexo a este diploma, do qual faz parte integrante, são as fixadas para iguais categorias do regime geral.\n\n> Revogado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 133/2023 - Diário da República n.º 249/2023, Série I de 2023-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2023-835809051), em vigor a partir de 2024-01-01"
+  }
+ }
+}

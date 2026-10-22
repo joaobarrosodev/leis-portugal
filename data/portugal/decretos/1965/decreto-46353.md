@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:295090:por
+title: Decreto n.º 46353
+short_title: null
+summary: Autoriza as repartições da Direcção-Geral da Contabilidade Pública junto de vários Ministérios e a Direcção-Geral
+  dos Serviços Prisionais a mandarem satisfazer diversas quantias em conta da verba de despesas de anos económicos findos
+  inscrita nos respectivos orçamentos e no orçamento do Fundo de Fomento e Patronato Prisional - Autoriza igualmente a 3.ª
+  Repartição da primeiras das citadas Direcções-Gerais a mandar satisfazer uma quantia relativa a despesas do ano de 1964
+  com a manutenção de indivíduos nacionais que residiam na Índia Portuguesa
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '46353'
+official_date: null
+publication_date: '1965-05-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 115/1965, Série I de 1965-05-24
+  number: '115'
+  series: I
+  supplement: null
+  pages: 726 - 727
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/05/11500/07260727.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '295090'
+  dre_path: /dr/detalhe/decreto/46353-1965-295090
+  internal: pt:dre:295090:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/46353-1965-295090
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46353-1965-295090
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1965-05-24T00:00:00Z'
+integrity:
+  source_sha256: 1c8f6ffdceb50cc64bb66b196820399373cc8b16165e4e769a6e73c5bdc1610c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1965/DRE-1965-46353-295090.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 46353
+
+Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, e mediante propostas aprovadas pelo Ministro das Finanças, nos termos do mesmo artigo:
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos, inscrita nos orçamentos do actual ano económico, as quantias seguintes:
+
+Encargos Gerais da Nação
+
+Encargos dos anos de 1963 e 1964 respeitantes a vencimentos e a despesas de hospitalização, a liquidar pelos conselhos administrativos das bases aéreas n.os 4 e 6 e Secretariado-Geral da Defesa Nacional ... 2712$00
+
+Ministério das Finanças
+
+Ajudas de custo por mudança de residência respeitantes ao ano de 1963, a processar pela Guarda Fiscal ... 2700$00
+
+Despesas da Direcção-Geral das Contribuições e Impostos com a execução, no ano de 1964, de serviços referentes à correcção dos rendimentos matriciais ... 1893720$00
+
+... 1896420$00
+
+Ministério do Interior
+
+Despesas do ano de 1963 resultantes de um acidente de viação ocorrido com uma viatura radiopatrulha do Comando-Geral da Polícia de Segurança Pública ... 1180$40
+
+Ministério da Justiça
+
+Ajudas de custo e despesas de transporte respeitantes ao ano de 1964 a liquidar pela Direcção-Geral dos Serviço Prisionais e Cadeia do Forte de Peniche ... 11338$90
+
+Despesas de luz, aquecimento, água, lavagem e limpeza do ano de 1964 a liquidar pelos Institutos de Medicina Legal de Coimbra, de Navarro de Paiva e de Reeducação de S. Fiel e pela Escola Prática de Ciências Criminais ... 24656$80
+
+Despesas com serviços clínicos e de hospitalização dos anos de 1963 e 1964 a liquidar pela Direcção-Geral dos Serviços Prisionais, Prisão-Sanatório da Guarda e Cadeias do Forte de Peniche, Central de Mulheres, Civil do Porto e Penitenciária de Coimbra ... 106175$80
+
+Despesas de telefones do ano de 1964 a liquidar pela Procuradoria-Geral da República, Relação de Coimbra, Escola Prática de Ciências Criminais, Instituto de Medicina Legal de Coimbra, Prisão-Sanatório da Guarda e Cadeia do Forte de Peniche ... 18818$80
+
+Despesas de conservação de móveis e imóveis da Relação de Coimbra respeitantes ao ano de 1964 ... 1305$20
+
+Despesas de alimentação referentes ao ano de 1964 a liquidar pela Prisão-Sanatório da Guarda e pela Cadeia Civil do Porto ... 9933$30
+
+... 172228$80
+
+Ministério do Exército
+
+Encargos diversos respeitantes aos anos de 1960 a 1964 a liquidar por unidades e estabelecimentos militares ... 1350480$40
+
+Ministério das Obras Públicas
+
+Encargo do ano de 1964 da Direcção-Geral dos Edifícios e Monumentos Nacionais respeitante a telefones ... 3029$00
+
+Ministério da Educação Nacional
+
+Encargos do ano de 1964 respeitantes a impressos e a pagamento de serviços e encargos não especificados da Direcção do Distrito Escolar de Lisboa ... 2980$00
+
+Encargo do ano de 1964 da Biblioteca Pública e Arquivo Distrital de Évora referente a telefones ... 126$60
+
+Encargos do ano de 1964 do Instituto de António Aurélio da Costa Ferreira respeitantes a gratificações devidas a professores das classes de anormais e à aquisição de géneros alimentícios ... 29143$20
+
+Encargos dos anos de 1963 e 1964 referentes a consumo de energia eléctrica, a liquidar pela reitoria da Universidade de Lisboa e Faculdade de Ciências da Universidade do Porto ... 14781$80
+
+Encargos do ano de 1964 referentes à conservação de imóveis, correios e telégrafos, telefones e transportes, a liquidar pelo Museu de José Malhoa e pela Inspecção do Ensino Particular ... 6704$70
+
+... 53736$30
+
+Ministério da Economia
+
+Despesas de pagamento de serviços e encargos não especificados da Secretaria de Estado da Agricultura referentes ao ano de 1964 ... 94223$80
+
+Despesas com a assistência clínica prestada em 1964 a um servente da Direcção-Geral dos Serviços Eléctricos vítima de acidente ocorrido em serviço ... 112$50
+
+... 94336$30
+
+Ministério das Comunicações
+
+Encargos do ano de 1964 referentes a ajudas de custo e a remunerações pela prestação de trabalho extraordinário a liquidar pelo aeroporto do Sal e centros de contrôle da Direcção-Geral da Aeronáutica Civil ... 94464$00
+
+Despesas do ano de 1964 referentes a conservação e aproveitamento de veículos com motor, conservação de prédios urbanos e telefones a processar pela Secretaria-Geral do Ministério ... 5555$30
+
+... 100019$30
+
+Ministério da Saúde e Assistência
+
+Encargo do ano de 1963 da Delegação de Saúde do distrito de Setúbal referente a pagamento de serviços ... 1062$00
+
+###### Art. 2.º É autorizada a 3.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da verba inscrita no artigo 121.º, capítulo 13.º, do actual orçamento do Ministério do Interior, a quantia de 142350$00, relativa a despesas do ano de 1964 com a manutenção de indivíduos nacionais que residiam na Índia Portuguesa.
+
+###### Art. 3.º Fica igualmente autorizada a Direcção-Geral dos Serviços Prisionais a satisfazer, pela verba consignada a despesas de anos económicos findos no actual orçamento do Fundo de Fomento e Patronato Prisional, a quantia de 15760$00, proveniente de despesas do ano de 1964 com o XIII curso de preparação de guardas.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 24 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

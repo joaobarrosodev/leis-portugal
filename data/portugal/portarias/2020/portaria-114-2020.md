@@ -1,0 +1,513 @@
+---
+schema_version: '1.0'
+id: pt:dre:133459193:por
+title: Portaria n.º 114/2020
+short_title: null
+summary: Aprova, para 2020, o Regulamento do Regime de Apoio à Cessação Temporária das Atividades de Pesca com Recurso a Artes
+  de Cerco
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Mar
+proposing_entity: null
+official_number: 114/2020
+official_date: null
+publication_date: '2020-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 90-A/2020, Série I de 2020-05-09
+  number: '90'
+  series: I
+  supplement: null
+  pages: 21 - 28
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/05/090a00/0002100028.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-12-15'
+version_history:
+  file: portaria-114-2020.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-05-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-26'
+    amending: pt:dre:145440391:por
+    amending_title: Declaração de Retificação n.º 40/2020
+    changes:
+    - Retifica Artigo 6.º
+  - date: '2020-11-02'
+    amending: pt:dre:147096352:por
+    amending_title: Portaria n.º 258/2020
+    changes:
+    - Adita Artigo 7.º-A
+    - Altera Artigo 9.º
+  - date: '2020-12-15'
+    amending: pt:dre:151064804:por
+    amending_title: Portaria n.º 286-A/2020
+    changes:
+    - Altera Artigo 7.º-A
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/114/2020/p/cons/20201214/pt/html
+  oj: null
+  dre: '133459193'
+  dre_path: /dr/detalhe/portaria/114-2020-133459193
+  internal: pt:dre:133459193:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/114-2020-133459193
+  metadata_url: https://data.dre.pt/eli/port/114/2020/p/cons/20201214/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-141201188
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-141201188
+  retrieved_at: '2026-10-22T12:34:35Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: fc18465166f9471ab7b245c672a95b57f88e5879e8440ca5e75cca73622c6216
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:34:35Z'
+  notes: 4 versão(ões); histórico completo em portaria-114-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Embarcação
+- Pesca por arte de cerco
+- Financiamento
+- Pescador
+- Regulamentação de Atos Legislativos
+- Direcção Regional de Agricultura e Pescas
+- Cessação de Actividade
+- União Europeia
+- Formulário Eletrónico
+- Pesca
+- Fundos CE
+- Pagamento
+- Documento Eletrónico
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Página na Internet
+- Artes de Pesca
+- Doença Infecciosa
+- Epidemia
+- Armador
+- Regulamento
+- Regulamento CE
+- Embarcação de Pesca
+- Subsídio
+- PORTUGAL 2020
+- Regulamento do Regime de Apoio à Cessação Temporária das Atividades de Pesca com Recurso a Artes de Cerco
+- Fundo Europeu dos Assuntos Marítimos e das Pescas
+relationships:
+- type: amended_by
+  target: pt:dre:141182903:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/204-a-2020-141182903
+  date: '2020-08-25'
+- type: amended_by
+  target: pt:dre:145440391:por
+  label: Retifica Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2020-145440391
+  date: '2020-10-15'
+- type: amended_by
+  target: pt:dre:147096352:por
+  label: Adita Artigo 7.º-A; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/258-2020-147096352
+  date: '2020-11-02'
+- type: amended_by
+  target: pt:dre:151064804:por
+  label: Altera Artigo 7.º-A; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/286-a-2020-151064804
+  date: '2020-12-14'
+- type: cites
+  target: celex:32013R1303
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1303/oj
+- type: cites
+  target: celex:32014R0508
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/508/oj
+- type: cites
+  target: celex:32020R0560
+  label: null
+  source: http://data.europa.eu/eli/reg/2020/560/oj
+- type: cites
+  target: eli:http://data.dre.pt/e
+  label: null
+  source: http://data.dre.pt/e
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/10/2017/01/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10/2017/01/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/218/1991/06/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/218/1991/06/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/35/2019/03/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/35/2019/03/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/40/2017/04/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/40/2017/04/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec/2-a/2020/03/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec/2-a/2020/03/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decpresrep/14-a/2020/03/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/14-a/2020/03/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/33-a/2020/04/30/p/dre
+article_structure:
+  article_count: 20
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:34:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 114/2020
+
+Portaria n.º 114/2020
+
+de 9 de maio
+
+Sumário: Aprova, para 2020, o Regulamento do Regime de Apoio à Cessação Temporária das Atividades de Pesca com Recurso a Artes de Cerco.
+
+O recente surto de doença por coronavírus - COVID-19 conduziu a uma situação de emergência de saúde pública, a nível nacional e mundial, tendo em Portugal sido decretado, no passado dia 18 de março de 2020, o estado de emergência, com fundamento na verificação de uma situação de calamidade pública, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, a que se seguiu a adoção pelo Governo, através do Decreto n.º 2-A/2020, de 20 de março, de um conjunto de medidas extraordinárias com o objetivo de prevenir a doença, conter a pandemia, salvar vidas e, ainda, de garantir que as cadeias de abastecimento fundamentais de bens e serviços essenciais possam manter a respetiva atividade em condições de segurança.
+
+Estas medidas extraordinárias, indispensáveis para o controlo do surto epidemiológico, têm acarretado fortes constrangimentos ao exercício das atividades económicas, tendo como efeitos uma queda acentuada na procura e o encerramento de mercados, locais de vendas e canais de distribuição, com a consequente redução substancial de preços e volumes de vendas da pesca.
+
+A queda na procura e nos preços, combinada com a vulnerabilidade e complexidade da cadeia de abastecimento, condicionam fortemente as operações das frotas de pesca, forçando os pescadores a permanecer em porto.
+
+Mostrou-se, pois, necessária uma intervenção do Governo junto das instâncias comunitárias, no sentido de serem criadas medidas especiais de apoio ao setor, nomeadamente no âmbito de cessações temporárias das atividades da pesca motivadas pelo surto de COVID-19, o que conduziu à adoção do Regulamento (UE) n.º 2020/560 do Parlamento Europeu e do Conselho, de 23 de abril de 2020, que veio introduzir essa possibilidade de apoios públicos às cessações temporárias, por via da alteração do artigo 33.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014. Assinale-se, contudo, que não houve uma afetação de verbas suplementares, mas sim a possibilidade de reprogramação da utilização de verbas já atribuídas a Portugal para o período de programação 2014-2020.
+
+Introduzida que foi aquela alteração regulamentar e dados os constrangimentos que se verificam nas operações da frota de pesca nacional em resultado da pandemia de COVID-19, considera-se adequado apoiar uma paragem temporária das atividades de pesca da frota do cerco, por um período máximo de 60 dias, compreendidos entre 18 de março e 31 de dezembro de 2020, com enquadramento no Programa Operacional Mar 2020.
+
+Considerando a presente situação de calamidade, declarada através da Resolução do Conselho de Ministros n.º 33-A/2020, de 30 de abril, e a circunstância de não haver lugar a alocação de novas verbas do FEAMP, mas procurando assegurar os aspetos socioeconómicos e abranger os diversos segmentos da pesca afetados por esta quebra de atividade, optou o Governo por assumir o valor equivalente ao salário mínimo nacional, como base no apoio individual aos pescadores, e o valor equivalente a 80 % do rendimento no ano civil anterior proveniente da atividade da pesca da embarcação objeto da operação, no apoio ao armador.
+
+O Decreto-Lei n.º 159/2014, de 27 de outubro, veio prever, sob a alínea d) do n.º 1 do artigo 4.º e na alínea b) do n.º 2 do artigo 5.º, respetivamente, que o regime jurídico dos Fundos Europeus Estruturais e de Investimento (FEEI) é também integrado pela regulamentação específica dos programas operacionais e que, no caso do Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), a mesma é aprovada por portaria do membro do Governo responsável pela área do mar.
+
+Foram ouvidas as associações de armadores representativas da pesca do cerco e os representantes dos sindicatos acerca da medida de apoio acima descrita.
+
+Assim, ao abrigo do disposto no n.º 1 e na alínea d) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de julho, alterado pelos Decretos-Leis n.os 218/91, de 17 de junho, 383/98, de 27 de novembro, 10/2017, de 10 de janeiro, 40/2017, de 4 de abril, e 35/2019, de 11 de março, e na alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, manda o Governo, pelo Ministro do Mar, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É aprovado, para 2020 e como anexo à presente portaria, dela fazendo parte integrante, o Regulamento do Regime de Apoio à Cessação Temporária das Atividades de Pesca com Recurso a Artes de Cerco, ao abrigo da prioridade da União Europeia estabelecida no n.º 1 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), e com enquadramento na medida prevista na alínea d) do n.º 1 do artigo 33.º do mesmo diploma.
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro do Mar, Ricardo da Piedade Abreu Serrão Santos, em 8 de maio de 2020.
+
+## Anexo — REGULAMENTO DO REGIME DE APOIO À CESSAÇÃO TEMPORÁRIA DAS ATIVIDADES DE PESCA COM RECURSO A ARTES DE CERCO
+
+REGULAMENTO DO REGIME DE APOIO À CESSAÇÃO TEMPORÁRIA DAS ATIVIDADES DE PESCA COM RECURSO A ARTES DE CERCO
+
+> Alterado pelo/a [Portaria n.º 258/2020 - Diário da República n.º 213/2020, Série I de 2020-11-02](https://diariodarepublica.pt/dr/detalhe/portaria/258-2020-147096352)
+
+###### Artigo 1.º — Objeto
+
+O presente Regulamento estabelece, no quadro do FEAMP, um regime de apoio à cessação temporária das atividades de pesca dos armadores e pescadores de embarcações licenciadas para artes de cerco.
+
+###### Artigo 2.º — Objetivos
+
+Os apoios previstos no presente Regulamento têm como finalidade compensar os armadores e pescadores pela cessação temporária da atividade da frota licenciada para a pesca com artes de cerco, no ano de 2020, motivada pelo surto do novo coronavírus - COVID-19.
+
+###### Artigo 3.º — Definições
+
+Para efeitos da aplicação do presente Regulamento e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, entende-se por:
+
+a) «Armador» o detentor de título que confira o direito de exploração de uma embarcação;
+
+b) «Pescador» o tripulante da embarcação objeto da candidatura, que exerça a atividades de pesca profissional na referida embarcação e seja residente no território da União Europeia.
+
+###### Artigo 4.º — Beneficiários e destinatários dos apoios
+
+1 - São beneficiários dos apoios previstos no presente regulamento os armadores das embarcações que estejam licenciadas, em 2020, para a pesca com artes de cerco.
+
+2 - Têm, ainda, acesso aos apoios previstos no presente regulamento os pescadores que trabalhem a bordo das embarcações a que alude o número anterior.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 204-A/2020 - Diário da República n.º 165/2020, 1º Suplemento, Série I de 2020-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/204-a-2020-141182903), em vigor a partir de 2020-05-10
+
+###### Artigo 5.º — Elegibilidade das operações
+
+1 - Constitui condição de elegibilidade da operação a embarcação objeto da candidatura:
+
+a) Ter operado, pelo menos, 120 dias nos dois anos civis anteriores à data da apresentação do pedido de apoio;
+
+b) Apresentar, no ano de 2019, um volume de descargas de pequenos pelágicos não inferior a 50 % do total de pescado descarregado.
+
+2 - Caso a embarcação tenha sido licenciada para operar com artes de cerco em data posterior aos dois anos civis referidos na alínea a) do número anterior, por transferência de licença, a verificação de ambas as condições referidas no número anterior e respetivo cálculo da compensação descrita no anexo terá em consideração a atividade das embarcações envolvidas.
+
+###### Artigo 6.º — Elegibilidade dos beneficiários e destinatários dos apoios
+
+1 - Podem beneficiar da compensação financeira prevista na alínea a) do n.º 1 do artigo 8.º os armadores que cumpram as condições de elegibilidade previstas na legislação comunitária e nacional aplicável, nomeadamente deterem a sua situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, podendo a mesma ser aferida até à data de apresentação do primeiro pedido de pagamento.
+
+2 - Podem beneficiar da compensação financeira prevista na alínea a) do n.º 1 do artigo 8.º os armadores que cumpram as condições de elegibilidade previstas na legislação comunitária e nacional aplicável, nomeadamente deterem a sua situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, podendo a mesma ser aferida até à data de apresentação do primeiro pedido de pagamento.
+
+a) Tenham trabalhado a bordo de uma embarcação licenciada abrangida pela cessação temporária, ou em embarcação de apoio exclusivo ao transporte de pescado que lhe esteja associada, durante pelo menos 120 dias nos dois anos civis anteriores à data da apresentação do pedido de apoio;
+
+b) Trabalhem na embarcação de pesca imobilizada ou em embarcação de apoio exclusivo ao transporte de pescado que lhe esteja associada, à data de início do período de paragem, exceto nos casos em que a essa data se encontrem de baixa por doença ou em gozo de férias legalmente devidas, e desde que se mostre comprovado o anterior trabalho na embarcação de pesca imobilizada, no período imediatamente anterior à situação de baixa ou de férias;
+
+c) Estejam inscritos na segurança social;
+
+d) (Revogada).
+
+3 - Têm acesso à compensação salarial prevista na alínea b) do n.º 1 do artigo 8.º os pescadores que:
+
+> Retificado pelo/a [Declaração de Retificação n.º 40/2020 - Diário da República n.º 201/2020, Série I de 2020-10-15](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2020-145440391), em vigor a partir de 2020-08-26
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 204-A/2020 - Diário da República n.º 165/2020, 1º Suplemento, Série I de 2020-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/204-a-2020-141182903), em vigor a partir de 2020-05-10
+
+###### Artigo 7.º — Período de paragem
+
+1 - De forma a estimular o desfasamento das paragens e, assim, assegurar o abastecimento da cadeia alimentar, a paragem das embarcações pode ser realizada num único período ou em períodos interpolados, desde que, cumulativamente, não ultrapassem um máximo de 60 dias, compreendidos entre 18 de março e 31 de dezembro de 2020.
+
+2 - São contabilizadas, para efeitos do cômputo de 60 dias referidos no número anterior, as paragens realizadas até à data da entrada em vigor do presente Regulamento que tenham ocorrido em, pelo menos, 5 dias consecutivos.
+
+3 - As paragens a realizar posteriormente à data da entrada em vigor do presente Regulamento devem ter uma duração mínima de 14 dias consecutivos cada, mediando, entre elas, desde que facultativas, um período não inferior a 5 dias consecutivos.
+
+4 - O armador fica obrigado a informar a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) do período de paragem da embarcação objeto da candidatura, através do endereço de correio eletrónico covid-cessacao@dgrm.mm.gov.pt, nos seguintes prazos:
+
+a) No caso de paragem a realizar após a entrada em vigor do presente Regulamento, com três dias úteis de antecedência relativamente ao seu início;
+
+b) No caso de paragem já iniciada, no prazo de cinco dias úteis contados da data da entrada em vigor do presente Regulamento;
+
+c) No caso de paragem que resulte de obrigação estabelecida pelas autoridades de saúde competentes, no prazo de 10 dias úteis contados da data do início da paragem, exceto quando a paragem já teve início antes da data da entrada em vigor da presente alteração, em que o prazo de 10 dias úteis é contado desde a data da entrada em vigor da presente alteração.
+
+5 - A DGRM reencaminha de imediato o teor da comunicação a que se refere o número anterior à Direção-Geral de Autoridade Marítima, que o divulgará junto das capitanias.
+
+6 - A cessação temporária de atividade da embarcação é elegível quando confirmada pela DGRM.
+
+7 - Quando as paragens resultem de obrigação estabelecida pelas autoridades de saúde competentes, devidamente comprovada, não se lhes aplica o limite máximo de 60 dias de paragem previsto no n.º 1, a duração mínima prevista no n.º 3, nem a condição prevista no n.º 3 do artigo 9.º, o que não invalida que a operação só possa ser aprovada quando tenha enquadramento orçamental.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 204-A/2020 - Diário da República n.º 165/2020, 1º Suplemento, Série I de 2020-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/204-a-2020-141182903), em vigor a partir de 2020-05-10
+
+###### Artigo 7.º-A — Período de paragem compreendido entre 14 de outubro e 31 de dezembro de 2020
+
+1 - De forma a estimular o desfasamento das paragens e, assim, assegurar o abastecimento da cadeia alimentar, a paragem das embarcações pode ser realizada num único período ou em períodos interpolados, desde que, cumulativamente, não ultrapassem um máximo de:
+
+a) 30 dias, compreendidos entre 14 de outubro e 31 de dezembro de 2020, ou o termo da situação de calamidade (ou de emergência na eventualidade de vir a ser decretada), consoante o que ocorra primeiro; e
+
+b) 60 dias, incluindo eventuais períodos de paragem anteriormente apoiados ao abrigo do presente regime de apoio, excetuados aqueles que advenham de doença por COVID-19.
+
+2 - São contabilizadas, para efeitos do cômputo de 30 dias referido no número anterior, as paragens iniciadas desde 14 de outubro, que tenham ocorrido em, pelo menos, 5 dias consecutivos.
+
+3 - As paragens a realizar posteriormente a 10 de dezembro de 2020 devem ter uma duração mínima de 5 dias consecutivos cada.4 - O armador fica obrigado a informar a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) do período de paragem da embarcação objeto da candidatura, através do endereço de correio eletrónico covidcessacao@dgrm.mm.gov.pt, nos seguintes prazos:
+
+a) No caso de paragem iniciada antes de 2 de novembro de 2020, até 9 de novembro de 2020, inclusive;
+
+b) No caso de paragem a realizar após 1 de novembro de 2020, com três dias úteis de antecedência relativamente ao seu início.
+
+5 - A DGRM reencaminha de imediato o teor da comunicação a que se refere o número anterior à Direção-Geral de Autoridade Marítima, que procede à sua divulgação junto das capitanias.
+
+6 - A cessação temporária de atividade da embarcação é elegível quando confirmada pela DGRM.
+
+7 - Às paragens enquadráveis no presente artigo não se aplica a condição prevista no n.º 3 do artigo 9.º, o que não invalida que a operação só possa ser aprovada quando tenha enquadramento orçamental.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 286-A/2020 - Diário da República n.º 241/2020, 1º Suplemento, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-a-2020-151064804), em vigor a partir de 2020-12-15
+
+> Aditado pelo/a Artigo 7.º do/a [Portaria n.º 258/2020 - Diário da República n.º 213/2020, Série I de 2020-11-02](https://diariodarepublica.pt/dr/detalhe/portaria/258-2020-147096352), em vigor a partir de 2020-11-02
+
+###### Artigo 8.º — Natureza e montante do apoio
+
+1 - Os apoios a conceder revestem a forma de subvenção não reembolsável e são fixados nos seguintes termos:
+
+a) Uma compensação financeira cujo beneficiário é o armador, que tem por base 80 % do rendimento proveniente da atividade da pesca da embarcação objeto da operação no ano civil anterior, sendo calculada em conformidade com o anexo ao presente Regulamento;
+
+b) Uma compensação salarial cujos destinatários são os pescadores, correspondente ao período de imobilização temporária da embarcação, fixada em 21,5 euros/dia por tripulante.
+
+2 - O pagamento da compensação salarial referida na alínea b) é efetuado ao armador, mediante transferência bancária, nos termos referidos no artigo 12.º, e não prejudica o pagamento de quaisquer prestações com natureza remuneratória que sejam contratualmente devidas, sempre que a embarcação se encontre em porto.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 204-A/2020 - Diário da República n.º 165/2020, 1º Suplemento, Série I de 2020-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/204-a-2020-141182903), em vigor a partir de 2020-05-10
+
+###### Artigo 9.º — Apresentação das candidaturas
+
+1 - As candidaturas são apresentadas online pelos armadores através do Balcão 2020, acessível em www.balcao.portugal2020.pt, nos termos e condições previstos em anúncio divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do Mar 2020.
+
+2 - O anúncio de abertura de candidaturas é aprovado pelo gestor do programa Mar 2020 e pode, sem prejuízo do disposto no presente Regulamento, prever, nomeadamente:
+
+a) Fases de decisão de candidaturas;
+
+b) A dotação orçamental a atribuir;
+
+c) Prazo específico de submissão de candidaturas.
+
+3 - A paragem a iniciar após a data da entrada em vigor do presente Regulamento deve ser precedida de pedido de confirmação pelo armador de que tem enquadramento orçamental.
+
+4 - As candidaturas devem ser instruídas com os elementos exigidos no respetivo formulário online, nomeadamente os seguintes:
+
+a) Rol de tripulação e respetivos anexos, comprovativos da circunstância a que alude a primeira parte da alínea b) do n.º 1 do artigo 6.º;
+
+b) Comprovativo da baixa por doença ou do gozo de férias legalmente devidas e rol de tripulação anterior e respetivos anexos, sempre que se verifique uma das situações excecionais a que alude a alínea b) do n.º 1 do artigo 6.º in fine;
+
+c) Cópia da inscrição dos tripulantes na segurança social, exigida na alínea c) do n.º 1 do artigo 6.º, ou comprovativo de descontos que ateste essa inscrição.
+
+5 - Quando se justifique, pode ser solicitada a apresentação das declarações mensais de remunerações dos tripulantes e/ou os respetivos contratos de trabalho, os quais identificam a respetiva situação profissional.
+
+6 - Na impossibilidade de apresentação imediata de algum dos documentos previstos nas alíneas a) a c) do n.º 4, pode, em coerência com o disposto na parte inicial do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, ser diferida a sua apresentação até ao primeiro pedido de pagamento, contanto que a candidatura seja instruída com declaração do beneficiário, sob compromisso de honra, em como estão cumpridos os requisitos previstos nas alíneas b) e c) do n.º 1 do artigo 6.º
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 286-A/2020 - Diário da República n.º 241/2020, 1º Suplemento, Série I de 2020-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/286-a-2020-151064804), em vigor a partir de 2020-12-15
+
+> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 258/2020 - Diário da República n.º 213/2020, Série I de 2020-11-02](https://diariodarepublica.pt/dr/detalhe/portaria/258-2020-147096352), em vigor a partir de 2020-11-02
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 204-A/2020 - Diário da República n.º 165/2020, 1º Suplemento, Série I de 2020-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/204-a-2020-141182903), em vigor a partir de 2020-05-10
+
+###### Artigo 10.º — Análise e decisão das candidaturas
+
+1 - As Direções Regionais de Agricultura e Pescas (DRAP), no âmbito das suas competências enquanto organismos intermédios do Mar 2020, analisam e emitem parecer sobre as candidaturas, competindo-lhes verificar, nomeadamente, se:
+
+a) A paragem foi iniciada de acordo com o previsto na candidatura e nos n.os 1 a 3 do artigo 7.º; e
+
+b) Estão reunidos os requisitos da atribuição dos apoios previstos nos artigos 5.º e 6.º
+
+2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são solicitados aos candidatos, quando se justifique, os documentos exigidos no n.º 4 do artigo 9.º, no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta no prazo fixado para o efeito fundamento para o seu indeferimento.
+
+3 - O parecer referido no n.º 1 do presente artigo é emitido num prazo de 15 dias úteis a contar da data de apresentação da candidatura.
+
+4 - O secretariado técnico aprecia as candidaturas com vista a assegurar que as mesmas são selecionadas em conformidade com as regras e critérios aplicáveis ao Mar 2020 e submete-as a decisão do gestor.
+
+5 - A Comissão de Gestão emite parecer sobre as propostas de decisão relativas às candidaturas.
+
+6 - Antes de ser emitida a decisão final, os candidatos são ouvidos, para efeitos de audiência de interessados, nos termos do Código do Procedimento Administrativo, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.
+
+7 - Sem prejuízo do disposto no n.º 3 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, as candidaturas são objeto de decisão pelo gestor no prazo de 20 dias úteis contados a partir da data de apresentação da candidatura, sendo a mesma comunicada aos candidatos pela autoridade de gestão, na data da sua emissão.
+
+8 - A decisão de aprovação, total ou parcial, das candidaturas é igualmente comunicada pela autoridade de gestão do Mar 2020 ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), na data da sua emissão.
+
+###### Artigo 11.º — Termo de aceitação
+
+1 - A aceitação do apoio pelo beneficiário nos termos e condições definidos na decisão da sua atribuição é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.
+
+2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, salvo motivo justificado não imputável ao beneficiário e aceite pelo gestor.
+
+###### Artigo 12.º — Pagamento dos apoios
+
+1 - O pagamento do apoio correspondente a cada período de paragem é feito pelo IFAP, I. P., ao armador da embarcação imobilizada, em duas prestações, nos seguintes termos:
+
+a) Uma primeira prestação, correspondente a 75 % da compensação financeira prevista na alínea a) do n.º 1 do artigo 8.º, acrescida do valor da compensação salarial prevista na alínea b) do n.º 1 do mesmo artigo;
+
+b) Uma segunda prestação, correspondente aos restantes 25 % da compensação financeira prevista na alínea a) do n.º 1 do artigo 8.º, após a apresentação pelo armador de documento comprovativo do pagamento aos tripulantes, das respetivas compensações salariais, por:
+
+i) Transferência bancária;
+
+ii) Cheque não endossável emitido em nome do tripulante, depositado na respetiva conta bancária;
+
+iii) Cheque não endossável emitido em nome do tripulante, levantado pelo mesmo junto do banco sacado.
+
+2 - A apresentação de cada pedido de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.
+
+3 - Cada pedido de pagamento e os demais documentos que o integram devem ser submetidos eletronicamente, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.
+
+4 - A comprovação, pelo armador, do pagamento das compensações salariais aos tripulantes é feita, obrigatoriamente, no prazo de 10 dias úteis contados do recebimento da primeira prestação dos apoios.
+
+5 - Quando o pagamento aludido no número anterior não possa ser efetuado no prazo aí previsto, por motivo não imputável ao armador, poderá ser requerido, pelo mesmo, a fixação de um prazo adicional para a respetiva realização e comprovação.
+
+###### Artigo 13.º — Obrigações dos beneficiários e destinatários dos apoios
+
+1 - Sem prejuízo das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, constituem obrigações do armador:
+
+a) Realizar o pagamento da compensação salarial prevista na alínea b) do n.º 1 do artigo 8.º, no prazo referido no n.º 4 do artigo 12.º, através da conta bancária especificada na candidatura;
+
+b) Informar as DRAP de qualquer alteração dos pressupostos em que assentou a decisão de atribuição do apoio.
+
+2 - Constitui obrigação dos pescadores, durante o período de paragem, manterem-se inscritos no rol de tripulação da embarcação imobilizada.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 204-A/2020 - Diário da República n.º 165/2020, 1º Suplemento, Série I de 2020-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/204-a-2020-141182903), em vigor a partir de 2020-05-10
+
+###### Artigo 14.º — Acumulação dos apoios
+
+1 - Os apoios concedidos ao abrigo do presente Regulamento não são acumuláveis com quaisquer apoios com a mesma natureza e finalidade, designadamente:
+
+a) Prestações da segurança social por motivo de doença;
+
+b) Apoios nacionais ou europeus cujo valor seja atribuído em função do cálculo de uma compensação pela perda de rendimentos.
+
+2 - A impossibilidade de acumulação de apoios prevista no número anterior aplica-se, separadamente, a cada um dos tipos de compensação previstos nas alíneas a) e b) do n.º 1 do artigo 8.º
+
+###### Artigo 15.º — Cobertura orçamental
+
+Os encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P.
+
+###### Artigo 16.º — Reduções e exclusões
+
+1 - Os apoios objeto do presente Regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e demais legislação aplicável, designadamente quando ocorra alguma das seguintes situações:
+
+a) Incumprimento, pelo beneficiário, das obrigações decorrentes da decisão de atribuição do apoio, do termo de aceitação, do presente Regulamento ou da legislação nacional e europeia aplicável;
+
+b) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação do projeto, ou falsificando documentos fornecidos no âmbito do mesmo.
+
+2 - O regresso à atividade da embarcação de pesca imobilizada antes de decorrido o período de paragem a que alude o n.º 1 do artigo 7.º implica o dever de reembolso pro rata temporis, por parte do armador, das compensações recebidas ao abrigo das alíneas a) e b) do n.º 1 do artigo 8.º
+
+3 - Caso incumpra a obrigação prevista na primeira parte da alínea a) do n.º 1 do artigo 13.º, por motivo que lhe seja imputável, o armador fica obrigado a restituir a totalidade da compensação financeira prevista na alínea a) do n.º 1 do artigo 8.º, acrescida do valor da compensação salarial prevista na alínea b) do n.º 1 do mesmo artigo, referente aos pescadores aos quais a mesma não tenha sido paga.
+
+4 - A compensação salarial paga aos tripulantes é reembolsada pro rata temporis se, durante o período de paragem, ocorrer alguma alteração dos pressupostos que estiveram na base da sua atribuição, nomeadamente quando ocorram situações que deem lugar ao recebimento de prestações da segurança social por motivo de doença.
+
+5 - À redução dos montantes indevidamente recebidos aplica-se o disposto no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, no artigo 12.º do Decreto-Lei n.º 195/2012, de 23 de agosto, e na demais legislação aplicável.
+
+###### Artigo 17.º — Extinção ou modificação da operação por iniciativa do beneficiário
+
+O beneficiário pode requerer ao gestor a extinção da operação desde que proceda à restituição das importâncias recebidas.
+
+## Anexo — Compensações aos armadores das embarcações
+
+[alínea a) do n.º 1 do artigo 8.º]
+
+As compensações financeiras a que se refere a alínea a) do n.º 1 do artigo 8.º são calculadas através da seguinte fórmula:
+
+P = (R x C/365) x 0,8
+
+em que:
+
+P - compensação financeira diária a receber pelo armador;
+
+R - rendimento anual da embarcação no ano n-1 (excluindo subsídios);
+
+C - coeficiente que representa a percentagem de rendimento remanescente da atividade da pesca, após serem deduzidos os custos variáveis, que no caso pesca com artes de cerco é = 0,32.
+
+113234455

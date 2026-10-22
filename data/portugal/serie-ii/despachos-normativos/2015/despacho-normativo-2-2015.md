@@ -1,0 +1,287 @@
+---
+schema_version: '1.0'
+id: pt:dre:66258481:por
+title: Despacho Normativo n.º 2/2015
+short_title: null
+summary: Estabelece as normas complementares de execução dos regimes de apoio associado «superfícies», previstos nos artigos
+  52.º a 55.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e nos artigos
+  51.º a 55.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março de 2014
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura e do Mar - Gabinete do Secretário de Estado da Agricultura
+proposing_entity: null
+official_number: 2/2015
+official_date: null
+publication_date: '2015-01-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/2015, Série II de 2015-01-20
+  number: '13'
+  series: II
+  supplement: null
+  pages: 2004 - 2006
+  pdf_url: https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '66258481'
+  dre_path: /dr/detalhe/despacho-normativo/2-2015-66258481
+  internal: pt:dre:66258481:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2015-66258481
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2015-66258481
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-02-04T00:00:00Z'
+integrity:
+  source_sha256: 44a356208ecc9983fab33c4baabf88d0624ed786efba7705e69b014c43f1d121
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2015/DRE-2015-2-66258481.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:156397445:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32013R1306
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R1307
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R1308
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R0639
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R0640
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R0809
+  label: null
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 2/2015
+
+Os regimes de apoio associado, de aplicação voluntária pelos Estados-membros, têm a sua aplicação circunscrita a uma lista fechada de setores e produções, com vista a apoiar determinados setores ou tipos específicos de agricultura, que se defrontem com dificuldades e que sejam especialmente importantes por motivos de natureza económica, social ou ambiental.
+
+Portugal é atualmente um dos Estados-membros da União Europeia com um nível de apoio ligado superior a 10 % do total de pagamentos diretos, o que lhe permite, a partir de 2015, utilizar sob a forma de novos regimes de apoio associado mais de 13 % do seu envelope nacional de pagamentos diretos. Esta possibilidade fica no entanto sujeita a aprovação por parte da Comissão Europeia, nomeadamente em termos da definição dos setores ou tipos de exploração abrangidos e de todas as regras associadas aos diferentes regimes de apoio associado.
+
+Em conformidade com os estudos de impacte e análises efetuados pelo Ministério da Agricultura e do Mar com o objetivo de determinar as opções mais adequadas à realidade da agricultura portuguesa, e depois de auscultadas as organizações representativas dos setores abrangidos pela reforma da política agrícola comum, foram identificados, no caso do setor vegetal, os setores do arroz e do tomate para transformação como aqueles que se defrontam com dificuldades especialmente importantes por motivos de natureza económica, social ou ambiental.
+
+Desta forma, Portugal submeteu à aprovação da Comissão Europeia, a 1 de agosto de 2014, a concessão de apoios sob a forma de pagamentos anuais específicos por superfície ao arroz e ao tomate para transformação.
+
+Estes apoios associados são concedidos na medida necessária para criar um incentivo à manutenção de atuais níveis de produção.
+
+Neste contexto, importa adotar as normas complementares de concessão dos regimes de apoio associados, nomeadamente as condições de elegibilidade e os valores unitários indicativos de apoio.
+
+Assim, ao abrigo do disposto nos artigos 52.º a 55.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, bem como nos artigos 51.º a 55.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março de 2014, e no uso das competências delegadas pelo [Despacho n.º 12256-A/2014](https://diariodarepublica.pt/dr/detalhe/despacho/12256-a-2014-57995547), de 3 de outubro, determino o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente despacho normativo estabelece as normas complementares de execução dos regimes de apoio associado «superfícies», previstos nos artigos 52.º a 55.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e nos artigos 51.º a 55.º do Regulamento Delegado (UE) n.º 639/2014, da Comissão, de 11 de março de 2014.
+
+###### Artigo 2.º — Definições
+
+Para efeitos da aplicação do presente despacho, entende-se por:
+
+a) «Membro produtor», uma pessoa singular ou coletiva, membro de uma organização de produtores, que entregue a sua produção a esta última com vista à comercialização da mesma nas condições previstas no Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;
+
+b) «Organização de produtores», organização de produtores reconhecida ao abrigo da legislação nacional aplicável;
+
+c) «Primeiro transformador de tomate para indústria», a pessoa singular ou coletiva que explore, com fins económicos, sob a sua própria responsabilidade, uma ou várias fábricas com instalações para a transformação e que procede à primeira transformação do tomate;
+
+d) «Produtor», o agricultor ativo na aceção do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
+
+###### Artigo 3.º — Condicionante de concessão do apoio
+
+1 - A concessão do apoio previsto no presente despacho depende da sua prévia aprovação pela Comissão Europeia, a qual será objeto de decisão nos termos e condições constantes do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
+
+2 - A decisão da Comissão referida no número anterior é divulgada no sítio da Internet do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em www.ifap.pt, no prazo de 10 dias a contar da sua notificação às autoridades nacionais competentes.
+
+###### Artigo 4.º — Apoio associado e âmbito territorial
+
+1 - Os regimes de apoio associado «superfícies» são definidos para os setores do arroz e do tomate para transformação, sob a forma de:
+
+a) Pagamento específico por superfície ao arroz;
+
+b) Pagamento específico por superfície ao tomate para transformação.
+
+2 - Os regimes de apoio associado «superfícies» têm como âmbito territorial de aplicação o continente.
+
+###### Artigo 5.º — Objetivos
+
+Os pagamentos específicos por superfície ao arroz e ao tomate para transformação referidos no n.º 1 do artigo anterior têm como objetivo assegurar um aprovisionamento estável à indústria local de transformação, que permita manter um certo nível de produção específico e evitar situações disruptivas no setor que conduzam ao abandono da atividade.
+
+###### Artigo 6.º — Beneficiários
+
+Podem beneficiar do pagamento do apoio previsto no artigo 4.º, os agricultores ativos na aceção do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que respeitem as condições, orientações e procedimentos previstos no presente despacho e demais legislação aplicável.
+
+###### Artigo 7.º — Superfície elegível mínima
+
+É considerada elegível ao regime de apoio associado previsto no artigo 4.º a superfície igual ou superior a 0,5 hectares.
+
+###### Artigo 8.º — Pagamento específico por superfície ao arroz
+
+O pagamento específico por superfície ao arroz é concedido ao agricultor cujas subparcelas candidatas reúnam as seguintes condições:
+
+a) Sejam totalmente semeadas ou plantadas com arroz do código NC 1006 10;
+
+b) Estejam situadas em terrenos sistematizados especificamente para a cultura de arroz;
+
+c) Utilizem o alagamento como método exclusivo de irrigação;
+
+d) Mantenham a cultura do arroz pelo menos até ao início de estágio de grão leitoso em condições normais de crescimento;
+
+e) Sejam semeadas ou plantadas, com arroz, o mais tardar no dia 30 de junho do ano do pedido.
+
+###### Artigo 9.º — Pagamento específico por superfície ao tomate para transformação
+
+1 - O pagamento específico por superfície ao tomate para transformação é concedido ao agricultor que apresente, nas subparcelas candidatas, uma produtividade mínima de 60 toneladas por hectare de tomate aceite para transformação, no âmbito de um contrato de transformação celebrado com um primeiro transformador reconhecido pelo IFAP, I. P., de acordo com as regras constantes da Parte A do anexo i ao presente despacho e que dele faz parte integrante.
+
+2 - O contrato de transformação referido no número anterior é celebrado, nos termos da Parte B do anexo i ao presente despacho, entre o agricultor ou a organização de produtores (OP) reconhecida de que o mesmo seja membro, e o primeiro transformador reconhecido.
+
+3 - Para efeitos do disposto no n.º 1, a quantidade entregue e aceite para transformação é comprovada nos termos da Parte C do anexo i ao presente despacho.
+
+###### Artigo 10.º — Candidaturas
+
+As candidaturas aos regimes de apoio referidos no n.º 1 do artigo 4.º são formalizadas pelos agricultores nos termos e prazos anualmente definidos no Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a Efetuar pelo IFAP, I. P., aprovado pela Portaria n.º 86/2011, de 25 de fevereiro.
+
+###### Artigo 11.º — Controlos
+
+As candidaturas aos regimes de apoio associado «superfícies» previstas no presente despacho estão, nos termos do artigo 74.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e dos artigos 28.º e seguintes do Regulamento de Execução (UE) n.º 809/2014, da Comissão de 17 de julho de 2014, sujeitas a controlos administrativos e a controlos no local.
+
+###### Artigo 12.º — Pagamento
+
+1 - O apoio é pago anualmente pelo IFAP, I. P., aos agricultores, de acordo com os valores unitários indicativos constantes do anexo ii ao presente despacho e que dele faz parte integrante.
+
+2 - Os limiares garantidos e os envelopes financeiros anuais disponíveis constam do anexo iii ao presente despacho e que dele faz parte integrante.
+
+3 - Caso se verifique uma subutilização dos limiares garantidos referidos no número anterior, procede-se ao apuramento do montante financeiro não utilizado, resultante da diferença entre o limiar garantido e o montante apurado, o qual é, anualmente, redistribuído de forma proporcional pelas áreas apuradas.
+
+###### Artigo 13.º — Reduções e exclusões
+
+1 - Em caso de incumprimento ou qualquer irregularidade detetada, bem como de omissão de superfície, são aplicáveis as disposições estabelecidas do capítulo iv do título ii do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014.
+
+2 - O incumprimento das condições referidas nos artigos 7.º a 9.º do presente despacho determina a inelegibilidade das áreas em questão.
+
+###### Artigo 14.º — Orientações e procedimentos
+
+As orientações e procedimentos necessários à execução dos presentes regimes de apoio são aprovados pelo IFAP, I. P., que procede à sua divulgação no seu sítio de Internet.
+
+###### Artigo 15.º — Disposições transitórias
+
+As aprovações dos primeiros transformadores de tomate para indústria concedidas ao abrigo do [Despacho Normativo n.º 2/2010](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-2010-3670078), publicado no Diário da República, 2.ª série, n.º 20, de 29 de janeiro de 2010, permanecem válidas na campanha de 2015, para efeitos do presente despacho.
+
+###### Artigo 16.º — Entrada em vigor e produção de efeitos
+
+1 - O presente despacho entra em vigor no dia seguinte ao da sua publicação e vigora pelo período de concessão do apoio previsto na regulamentação europeia, salvo o disposto no número seguinte.
+
+2 - A falta de aprovação da concessão do presente apoio, nos termos referidos no artigo 3.º do presente despacho, determina a imediata cessação dos seus efeitos, ficando igualmente sem efeito todos os atos praticados no seu âmbito e definitivamente prejudicado o pagamento aos beneficiários de quaisquer prémios, bem como o reembolso de quaisquer despesas ou de outros valores decorrentes da aplicação do regime nele previsto.
+
+14 de janeiro de 2015. - O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque.
+
+## ANEXO I — (a que se referem os n.os 1, 2 e 3 do artigo 9.º)
+
+Processo de aprovação, obrigações e situações de exclusão dos primeiros transformadores de tomate para indústria
+
+# Parte A - Processo de aprovação dos primeiros transformadores de tomate para indústria
+
+1 - Até ao dia 15 de outubro do ano civil anterior ao que respeita o pagamento específico por superfície ao tomate para transformação, os primeiros transformadores devem apresentar junto do IFAP, I. P., um pedido de aprovação acompanhado dos seguintes elementos:
+
+a) Comprovativo do licenciamento industrial, em que a atividade industrial inclua a transformação agroindustrial de produtos agrícolas, nomeadamente a transformação de tomate;
+
+b) Descrição da empresa e das instalações, bem como do processo de transformação, com especificação da capacidade de produção e coeficientes técnicos de transformação, nomeadamente as quantidades máximas de matéria-prima suscetíveis de serem transformadas por hora e dia;
+
+c) Declaração que ateste que a empresa de transformação tem capacidade administrativa suficiente para gerir os contratos referidos no n.º 1 do artigo 9.º do presente despacho.
+
+2 - A aprovação dos primeiros transformadores é concedida anualmente pelo IFAP, I. P., que publica, até ao dia 31 de dezembro, no respetivo sítio na Internet a lista dos primeiros transformadores aprovados que cumprem as condições para a celebração de contratos de transformação.
+
+# Parte B - Termos do contrato de transformação
+
+1 - O contrato de transformação referido no artigo 9.º do presente despacho é celebrado entre um primeiro transformador aprovado nas condições previstas na Parte A do presente anexo, e o agricultor ou a OP de que o agricultor seja membro.
+
+2 - O contrato deve especificar obrigatoriamente o seguinte:
+
+a) Os nomes, os números de identificação fiscal (NIF) e os endereços das partes outorgantes do contrato;
+
+b) As quantidades objeto do contrato;
+
+c) Um compromisso do agricultor de entregar ao primeiro transformador a quantidade total de tomate para transformação colhida.
+
+3 - No caso de contrato celebrado entre uma OP e um primeiro transformador aprovado, o mesmo deve ainda especificar os nomes, os números de identificação fiscal (NIF) e os endereços, referidos na alínea a) do número anterior, e as quantidades referidas na alínea b), para cada membro da OP que pretenda receber o apoio previsto no presente despacho.
+
+# Parte C - Obrigações dos primeiros transformadores de tomate para indústria
+
+1 - Os primeiros transformadores aprovados emitem, até 31 de outubro, as declarações, por produtor, que atestem as quantidades entregues e aceites para transformação, devendo as mesmas indicar o NIF dos produtores e das OP, quando sejam parte no contrato de transformação, lote, quantidade e número do contrato.
+
+2 - Até ao termo do prazo referido no número anterior, a informação constante das declarações entregues aos produtores deve ser enviada ao IFAP, I. P., em suporte eletrónico.
+
+3 - Os primeiros transformadores aprovados devem manter os registos relativos às quantidades e lotes comprados e admitidos à transformação diariamente na empresa, bem como o número de identificação do contrato a que dizem respeito.
+
+4 - Para efeitos do disposto no presente despacho, os primeiros transformadores aprovados devem conservar durante cinco anos a contar do final de cada campanha de transformação, e disponibilizar às autoridades nacionais de controlo, sempre que solicitado, a prova do pagamento de todas as matérias-primas compradas no âmbito de contratos de transformação, a prova de pagamento de todas as vendas e compras de produto acabado, bem como as informações relacionadas com todos os elementos constantes do contrato.
+
+# Parte D - Situações de exclusão dos primeiros transformadores de tomate para indústria
+
+Sem prejuízo das responsabilidades que judicialmente venham a ser apuradas, é definitivamente excluído do respetivo regime de apoio específico o primeiro transformador aprovado que, em conivência com o produtor ou a OP, preste falsas declarações ou não respeite as obrigações referidas na Parte C do presente anexo.
+
+## ANEXO II — (a que se refere o n.º 1 do artigo 12.º)
+
+Valores unitários indicativos dos regimes de apoio associado
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf))](https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf)
+
+## ANEXO III — (a que se refere o n.º 2 do artigo 12.º)
+
+Limiares garantidos e envelopes financeiros disponíveis
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf))](https://files.diariodarepublica.pt/2s/2015/01/013000000/0200402006.pdf)

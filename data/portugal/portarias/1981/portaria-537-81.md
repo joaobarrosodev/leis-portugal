@@ -1,0 +1,145 @@
+---
+schema_version: '1.0'
+id: pt:dre:578521:por
+title: Portaria n.º 537/81
+short_title: null
+summary: Estabelece normas relativas à recolha e divulgação de cotações do mercado suíno
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e Pescas
+proposing_entity: null
+official_number: 537/81
+official_date: null
+publication_date: '1981-06-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 146/1981, Série I de 1981-06-29
+  number: '146'
+  series: I
+  supplement: null
+  pages: 1531 - 1532
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/06/14600/15311532.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '578521'
+  dre_path: /dr/detalhe/portaria/537-1981-578521
+  internal: pt:dre:578521:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/537-1981-578521
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/537-1981-578521
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-06-29T00:00:00Z'
+integrity:
+  source_sha256: 33ae515eb742bbb2731b0135f5f25f0b8965f5bd8751cef5c0efcf23c7670050
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-537-578521.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 537/81
+
+de 29 de Junho
+
+Em regime de preços livres, tal como o que actualmente vigora no mercado do suíno, o preço é um elemento fundamental na regularização do mercado. A falta de conhecimento do seu valor ou o conhecimento tardio ou deficiente provoca perturbações no mercado, com repercussões, quer para a produção, quer na comercialização. Paralelamente, a boa difusão das cotações, tornando mais transparente o mercado, facilita a eficiência das transacções.
+
+Também para a Administração, e na sequência do [Decreto-Lei n.º 19/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1981-389977), de 28 de Janeiro, que define os princípios gerais da organização do mercado do suíno, é imprescindível a institucionalização de um sistema de recolha e de difusão de preços, colocando ao seu dispor as informações que lhe permitam a programação em tempo oportuno das operações de regularização do mercado.
+
+Assim, são designados nesta portaria os mercados mais representativos, entendidos como zonas de maior importância económica e de maior influência na determinação do preço, nos quais a Junta Nacional dos Produtos Pecuários passará a recolher semanalmente informações de preços referentes a diferentes níveis de transacção.
+
+São também claramente identificados e definidos cada um dos preços obtidos ao longo da cadeia do produto, permitindo-se deste modo o seu tratamento e comparação a fim de se obter um preço de mercado de âmbito nacional.
+
+Por outro lado, para que sejam cumpridos os objectivos que presidiram à institucionalização do presente sistema de recolha de dados, é importante que seja montada uma estrutura eficiente, dotada dos meios humanos e materiais que permitam a recolha, tratamento e difusão dos preços em tempo oportuno, com a indispensável colaboração das organizações profissionais. Nesse sentido, a recente criação, pelo [Despacho Normativo n.º 135/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/135-1981-573337), do Projecto de Serviço de Informações de Mercados Agrícolas (SIMA) no Gabinete de Planeamento do Ministério da Agricultura e Pescas permitirá, em ligação directa com a Junta Nacional dos Produtos Pecuários, dar cumprimento aos objectivos atrás descritos.
+
+Nestes termos:
+
+Ao abrigo do disposto na alínea d) do artigo 14.º do [Decreto-Lei n.º 19/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1981-389977):
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura e Pescas, o seguinte:
+
+1.º O presente esquema de recolha e divulgação de cotações do mecado do suíno tem os seguintes objectivos:
+
+a) Contribuir para um melhor conhecimento das condições de transacção da carne de suíno;
+
+b) Difundir, pelos agentes económicos, as informações de preços e situação de mercados que permitam a melhoria das condições de transacção;
+
+c) Permitir à Administração o conhecimento regular e actualizado das situações de mercado e, em consequência, programar as actuações convenientes.
+
+2.º Compete à JNPP, no âmbito do Projecto SIMA, assegurar a execução do mecanismo agora criado de molde que os objectivos definidos no artigo 1.º sejam atingidos.
+
+3.º Consideram-se como zonas mais representativas para efeitos de recolha de cotações as seguintes:
+
+1) Coimbra;
+
+2) Évora;
+
+3) Monchique;
+
+4) Montijo;
+
+5) Póvoa da Galega;
+
+6) Rio Maior;
+
+7) Vila Nova de Famalicão.
+
+4.º Para efeitos de determinação do preço de mercado, tal como se encontra definido no n.º 2 do artigo 3.º do [Decreto-Lei n.º 19/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1981-389977), passam a ser recolhidas informações de preços nos seguintes pontos da cadeia do produto:
+
+a) A nível dos matadouros industriais mais representativos: o preço por quilograma de carcaça reportado à 1.ª categoria da grelha de classificação, incluindo o encargo de transporte da zona de produção ao local de abate e a valorização de subprodutos e miudezas e excluindo as taxas fixas e de serviço;
+
+b) Nos mercados físicos entendidos como zonas de transacção em vivo: o preço pago por quilograma de peso vivo e referente a 75% do peso do animal, excluindo o encargo de transporte da zona de produção ao local de abate;
+
+c) Ao nível dos produtores nos ciclos fechados e unidades de recria e acabamentos mais representativos: os preços idênticos aos definidos em a) ou b).
+
+5.º Com base nas informações recolhidas pelas delegações da JNPP nos termos dos artigos 3.º e 4.º, é determinado e divulgado, semanalmente, o preço de mercado.
+
+6.º O preço de mercado, determinado semanalmente, corresponde ao preço médio da carcaça, incluindo o encargo de transporte da zona de produção à de abate, valorização dos subprodutos e miudezas, excluídas as taxas fixas e de serviço, e é reportado à 1.ª categoria da grelha de classificação.
+
+7.º A JNPP determinará internamente os procedimentos tidos como necessários à execução da presente portaria.
+
+8.º Esta portaria entra em vigor no dia 1 do mês seguinte ao da sua publicação.
+
+Ministério da Agricultura e Pescas, 12 de Junho de 1981. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.

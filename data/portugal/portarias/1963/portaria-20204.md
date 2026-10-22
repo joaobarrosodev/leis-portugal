@@ -1,0 +1,170 @@
+---
+schema_version: '1.0'
+id: pt:dre:684036:por
+title: Portaria n.º 20204
+short_title: null
+summary: Manda emitir e pôr em circulação na província ultramarina de Moçambique selos de franquia postal tendo como motivos
+  tipos de embarcações utilizadas pela marinha portuguesa de 1460 a 1924
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Obras Públicas e Comunicações - Serviços de Valores Postais
+proposing_entity: null
+official_number: '20204'
+official_date: null
+publication_date: '1963-11-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 278/1963, Série I de 1963-11-27
+  number: '278'
+  series: I
+  supplement: null
+  pages: 1826 - 1827
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/11/27800/18261827.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '684036'
+  dre_path: /dr/detalhe/portaria/20204-1963-684036
+  internal: pt:dre:684036:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/20204-1963-684036
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/20204-1963-684036
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1963-11-27T00:00:00Z'
+integrity:
+  source_sha256: c9ee7fb6c31a6f61299b721804ba1a40ff44d2d110877745a2c8f68740bea514
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-20204-684036.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 20204
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, que, nos termos do artigo 2.º do [Decreto n.º 37050](https://diariodarepublica.pt/dr/detalhe/decreto/37050-1948-372642), de 8 de Setembro de 1948, sejam emitidos e postos em circulação, na província de Moçambique, selos de franquia postal, com as dimensões de 25 mm x 35 mm, tendo como motivos vinte tipos de embarcações utilizadas pela marinha portuguesa de 1460 a 1924, nas quantidades, taxas e cores seguintes:
+
+Barca (1430):
+
+2500000 da taxa de $10 - preto, violeta-azulado-médio, violeta-azulado-claro, verde-esmeralda-claro, verde-esmeralda-forte, amarelo-limão, ocre, sépia-escuro, sépia-claro, castanho, rosa e violeta.
+
+Caravela (1436):
+
+2000000 da taxa de $20 - preto, verde-azeitona-médio, verde-azeitona-claro, verde-alface, verde-garrafa, ocre, sépia-escuro, sépia-claro, castanho, vermelhão, azul-oriente e violeta-esverdeado.
+
+Caravela latina (1460):
+
+2000000 da taxa de $30 - preto, azul-oriente-médio, azul-oriente-claro, verde-salsa-escuro, verde-salsa-claro, ocre, sépia-escuro, sépia-claro, sépia-acarminado, carmim, azul-oriente e violeta-azulado.
+
+Nau S. Gabriel (1497):
+
+1500000 da taxa de $50 - preto, ocre-médio, ocre-claro, verde-salsa-azulado-escuro, verde-salsa-azulado-claro, sépia-escuro, sépia-claro, castanho, vermelhão, violeta e azul-oriente.
+
+Nau de D. Manuel (1498):
+
+2000000 da taxa de 1$00 - preto, cinzento-médio, cinzento-claro, verde-salsa-escuro, verde-salsa-claro, ocre, sépia-escuro, sépia-claro, castanho, vermelhão, azul-oriente e violeta-acinzentado.
+
+Nau de armada (1500):
+
+2000000 da taxa de 1$50 - preto, verde-esmeralda-médio, verde-esmeralda-claro, azul-prússia-escuro, azul-prússia, ocre, sépia-escuro, sépia-claro, castanho, vermelhão, azul-oriente e violeta-esverdeado.
+
+Nau Flor de La Mar (1511):
+
+1500000 da taxa de 2$00 - preto, rosa-velho-médio, rosa-velho-claro, verde-salsa-escuro, verde-salsa-claro, ocre, sépia-escuro, sépia-claro, castanho-escuro, vermelhão, azul-oriente e violeta-rosado.
+
+Caravela redonda (1519):
+
+3000000 da taxa de 2$50 - preto, cinzento-amarelado-médio, cinzento-amarelado-claro, verde-garrafa-escuro, verde-garrafa-claro, ocre, sépia-escuro, sépia-claro, castanho, vermelhão, verde-salsa, azul-oriente e violeta-acinzentado.
+
+Nau de 800 tonéis (1520):
+
+1000000 da taxa de 3$50 - preto, violeta-médio, violeta-claro, verde-azulado-escuro, verde-azulado-claro, ocre, amarelo-limão, sépia-escuro, sépia-claro, castanho, vermelhão, azul-oriente, verde-esmeralda e violeta.
+
+Galeaça portuguesa da Índia (1521):
+
+500000 da taxa de 4$00 - preto, azul-prússia-médio, azul-prússia-claro, verde-esmeralda-escuro, verde-esmeralda-médio, ocre, amarelo-limão, sépia-escuro, sépia-claro, castanho-escuro, vermelhão, azul-oriente, verde-alface e violeta-azulado.
+
+Galeão Santa Teresa (1639):
+
+500000 da taxa de 4$50 - preto, amarelo-carne-médio, amarelo-carne-claro, azul-prússia-escuro, azul-prússia-médio, ocre, sépia-escuro, sépia-claro, castanho, vermelhão, vermelhão-acarminado, azul-oriente, verde-esmeralda, cinzento e violeta-amarelado.
+
+Nau Nossa Senhora da Conceição (1716):
+
+500000 da taxa de 5$00 - preto, verde-alface-médio, verde-alface-claro, verde-esmeralda-escuro, verde-esmeralda-médio, amarelo, ocre-rosado, sépia-escuro, sépia-claro, castanho, vermelhão-acarminado, azul-oriente, vermelhão e violeta-esverdeado.
+
+Nau Nossa Senhora do Bom Sucesso (1764):
+
+500000 da taxa de 6$00 - preto, lilás-médio, lilás-claro, azul-prússia-escuro, azul-prússia-médio, ocre, sépia-escuro, sépia-claro, castanho, vermelhão e violeta.
+
+Lancha bombardeira (1788):
+
+500000 da taxa de 7$50 - preto, amarelo-acinzentado-médio, amarelo-acinzentado-claro, azul-prússia-médio, azul-prússia-claro, ocre-rosado, sépia-escuro, sépia-claro, amarelo-carne, verde-acinzentado, vermelhão, azul-oriente e violeta-amarelado.
+
+Bergantim Lebre (1793):
+
+500000 da taxa de 8$00 - preto, verde-salsa-médio, verde-salsa-claro, azul-prússia-escuro, azul-prússia-médio, ocre, amarelo, sépia-escuro, sépia-claro, castanho-escuro, vermelhão, azul-oriente e violeta-esverdeado.
+
+Corveta Andorinha (1799):
+
+500000 da taxa de 10$00 - preto, cinzento-chumbo-médio, cinzento-chumbo-claro, verde-salsa-escuro, verde-salsa-claro, ocre, amarelo, sépia-escuro, sépia-acarminado, castanho, vermelhão, azul-oriente e violeta-acinzentado.
+
+Escuna Maria Teresa (1820):
+
+500000 da taxa de 12$50 - preto, verde-acinzentado-médio, verde-acinzentado-claro, verde-esmeralda-médio, verde-esmeralda-claro, ocre, amarelo, sépia-escuro, castanho, vermelhão, azul-oriente e violeta-esverdeado.
+
+Nau Vasco da Gama (1841):
+
+500000 da taxa de 15$00 - preto, azul-celeste-médio, azul-celeste-claro, azul-prússia-escuro, azul-prússia-médio, ocre, amarelo, sépia-escuro, sépia-claro, castanho-escuro, vermelhão, azul-oriente e violeta-azulado.
+
+Fragata D. Femando II e Glória (1843):
+
+500000 da taxa de 20$00 - preto, salmão-médio, salmão-claro, azul-prússia-escuro, azul-prússia-médio, ocre, sépia-escuro, sépia-claro, preto-azulado, vermelhão, azul-oriente e violeta.
+
+Navio-escola Sagres (1924):
+
+500000 da taxa de 30$00 - preto, azul-turquesa-médio, azul-turquesa-claro, verde-garrafa-escuro, verde-garrafa-médio, ocre, amarelo, sépia-escuro, sépia-claro, cinzento, vermelhão, verde-bandeira, verde-salsa e violeta-azulado.
+
+Ministério do Ultramar, 27 de Novembro de 1963. - O Ministro do Ultramar, António Augusto Peixoto Correia.
+
+Para ser publicada no Boletim Oficial de Moçambique. - Peixoto Correia.

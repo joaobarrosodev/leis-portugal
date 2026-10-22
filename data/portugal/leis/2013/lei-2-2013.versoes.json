@@ -1,0 +1,977 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:588802:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2013-70326648",
+ "dre_path": "/dr/detalhe/lei/2-2013-588802",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-01-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70326550",
+    "70326551",
+    "70326552",
+    "70326553",
+    "70326554",
+    "70326555",
+    "70326556",
+    "70326557",
+    "70326558",
+    "70326559",
+    "70326560",
+    "70326561",
+    "70326562",
+    "70326563",
+    "70326564",
+    "70326565",
+    "70326566",
+    "70326567",
+    "70326568",
+    "70326569",
+    "70326570",
+    "70326571",
+    "70326572",
+    "70326573",
+    "70326574",
+    "70329475",
+    "70329476",
+    "70329477",
+    "70329478",
+    "70329479",
+    "70329480",
+    "70329481",
+    "70329482",
+    "70329483",
+    "70329484",
+    "70329485",
+    "70329486",
+    "70329487",
+    "70329488",
+    "70329489",
+    "70329490",
+    "70329491",
+    "70329492",
+    "70329493",
+    "70329494",
+    "70329495",
+    "70329496",
+    "70329497",
+    "70329498",
+    "70329499",
+    "70329500",
+    "70329501",
+    "70329502",
+    "70329503",
+    "70329504",
+    "70329505",
+    "70329506",
+    "70329507",
+    "70329508",
+    "70329509",
+    "70329510",
+    "70329511",
+    "70329512"
+   ]
+  },
+  {
+   "date": "2023-04-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211059785:por",
+     "title": "Lei n.º 12/2023",
+     "published": "2023-03-28",
+     "dre_path": "/dr/detalhe/lei/12-2023-211059785"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 15.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 48.º"
+   ],
+   "fragments": [
+    "70326550",
+    "70326551",
+    "70326552",
+    "70326553",
+    "211113393",
+    "70326555",
+    "211113394",
+    "70326557",
+    "211113395",
+    "211113396",
+    "211063256",
+    "211063257",
+    "211063258",
+    "211063259",
+    "211113397",
+    "70326564",
+    "70326565",
+    "211113398",
+    "211113399",
+    "211063261",
+    "211113400",
+    "211063263",
+    "211113401",
+    "211113402",
+    "211113403",
+    "211113404",
+    "211063268",
+    "211063269",
+    "70329476",
+    "211113405",
+    "211113406",
+    "211113407",
+    "211113408",
+    "70329481",
+    "211113409",
+    "211113410",
+    "70329484",
+    "70329485",
+    "211113413",
+    "70329487",
+    "70329488",
+    "70329489",
+    "70329490",
+    "70329491",
+    "70329492",
+    "70329493",
+    "70329494",
+    "70329495",
+    "70329496",
+    "70329497",
+    "70329498",
+    "70329499",
+    "70329500",
+    "70329501",
+    "211113411",
+    "70329503",
+    "211113412",
+    "70329505",
+    "70329506",
+    "70329507",
+    "70329508",
+    "70329509",
+    "70329510",
+    "70329511",
+    "70329512",
+    "70329513"
+   ]
+  }
+ ],
+ "fragments": {
+  "70326550": {
+   "fragment_id": "70326649",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 2/2013\n\nde 10 de janeiro\n\nEstabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70326551": {
+   "fragment_id": "70326650",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "70326552": {
+   "fragment_id": "70326651",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais."
+  },
+  "70326553": {
+   "fragment_id": "70326652",
+   "type": 11,
+   "heading": "Artigo 2.º — Associações públicas profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Associações públicas profissionais\n\nPara efeitos da presente lei, consideram-se associações públicas profissionais as entidades públicas de estrutura associativa representativas de profissões que devam ser sujeitas, cumulativamente, ao controlo do respetivo acesso e exercício, à elaboração de normas técnicas e de princípios e regras deontológicos específicos e a um regime disciplinar autónomo, por imperativo de tutela do interesse público prosseguido."
+  },
+  "70326554": {
+   "fragment_id": "70326653",
+   "type": 11,
+   "heading": "Artigo 3.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Constituição\n\n1 - A constituição de associações públicas profissionais é excecional, podendo apenas ter lugar quando:\n\na) Visar a tutela de um interesse público de especial relevo que o Estado não possa assegurar diretamente;\n\nb) For adequada, necessária e proporcional para tutelar os bens jurídicos a proteger; e\n\nc) Respeitar apenas a profissões sujeitas aos requisitos previstos no artigo anterior.\n\n2 - A constituição de novas associações públicas profissionais é sempre precedida dos seguintes procedimentos:\n\na) Apresentação de estudo, elaborado por entidade de independência e mérito reconhecidos, sobre as exigências referidas no artigo anterior e o cumprimento dos requisitos previstos no número anterior, bem como sobre o seu impacte na regulação da profissão em causa;\n\nb) Audição das associações representativas da profissão;\n\nc) Submissão a consulta pública, por um período não inferior a 60 dias, de projetos de diploma de criação e de estatutos da associação pública profissional, acompanhado do estudo referido na alínea a).\n\n3 - A cada profissão regulada corresponde apenas uma única associação pública profissional, podendo esta representar mais do que uma profissão, desde que tenham uma base comum de natureza técnica ou científica."
+  },
+  "70326555": {
+   "fragment_id": "70326654",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza e regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Natureza e regime jurídico\n\n1 - As associações públicas profissionais são pessoas coletivas de direito público e estão sujeitas a um regime de direito público no desempenho das suas atribuições.\n\n2 - Em tudo o que não estiver regulado na presente lei e na respetiva lei de criação, bem como nos seus estatutos, são subsidiariamente aplicáveis às associações públicas profissionais:\n\na) No que respeita às suas atribuições e ao exercício dos poderes públicos que lhes sejam conferidos, o Código do Procedimento Administrativo, com as necessárias adaptações, e os princípios gerais de direito administrativo;\n\nb) No que respeita à sua organização interna, as normas e os princípios que regem as associações de direito privado."
+  },
+  "70326556": {
+   "fragment_id": "70326655",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições\n\n1 - São atribuições das associações públicas profissionais, nos termos da lei:\n\na) A defesa dos interesses gerais dos destinatários dos serviços;\n\nb) A representação e a defesa dos interesses gerais da profissão;\n\nc) A regulação do acesso e do exercício da profissão;\n\nd) A concessão, em exclusivo, dos títulos profissionais das profissões que representem;\n\ne) A concessão, quando existam, dos títulos de especialidade profissional;\n\nf) A atribuição, quando existam, de prémios ou títulos honoríficos;\n\ng) A elaboração e a atualização do registo profissional;\n\nh) O exercício do poder disciplinar sobre os seus membros;\n\ni) A prestação de serviços aos seus membros, no respeitante ao exercício profissional, designadamente em relação à informação e à formação profissional;\n\nj) A colaboração com as demais entidades da Administração Pública na prossecução de fins de interesse público relacionados com a profissão;\n\nk) A participação na elaboração da legislação que diga respeito ao acesso e exercício das respetivas profissões;\n\nl) A participação nos processos oficiais de acreditação e na avaliação dos cursos que dão acesso à profissão;\n\nm) O reconhecimento de qualificações profissionais obtidas fora do território nacional, nos termos da lei, do direito da União Europeia ou de convenção internacional;\n\nn) Quaisquer outras que lhes sejam cometidas por lei.\n\n2 - As associações públicas profissionais estão impedidas de exercer ou de participar em atividades de natureza sindical ou que se relacionem com a regulação das relações económicas ou profissionais dos seus membros.\n\n3 - As associações públicas profissionais não podem, por qualquer meio, seja ato ou regulamento, estabelecer restrições à liberdade de acesso e exercício da profissão que não estejam previstas na lei, nem infringir as regras da concorrência na prestação de serviços profissionais, nos termos dos direitos nacional e da União Europeia."
+  },
+  "70326557": {
+   "fragment_id": "70326656",
+   "type": 11,
+   "heading": "Artigo 6.º — Princípio da especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Princípio da especialidade\n\n1 - Sem prejuízo da observância do princípio da legalidade no domínio da gestão pública, e salvo disposição expressa em contrário, a capacidade jurídica das associações públicas profissionais abrange a prática de todos os atos jurídicos, o gozo de todos os direitos e a sujeição a todas as obrigações necessárias à prossecução dos respetivos fins e atribuições.\n\n2 - As associações públicas profissionais não podem prosseguir atividades nem usar os seus poderes fora das suas atribuições nem dedicar os seus recursos a finalidades diversas das que lhes tenham sido legalmente cometidas."
+  },
+  "70326558": {
+   "fragment_id": "70326657",
+   "type": 11,
+   "heading": "Artigo 7.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Criação\n\n1 - As associações públicas profissionais são criadas por lei.\n\n2 - O projeto de diploma de criação de cada associação pública profissional deve ser acompanhado de uma nota justificativa da necessidade da sua constituição, nos termos do artigo 3.º, bem como as opções que nele foram tomadas.\n\n3 - A lei de criação de cada associação pública profissional define os aspetos essenciais do seu regime, nomeadamente:\n\na) Denominação;\n\nb) Profissões abrangidas;\n\nc) Fins e atribuições.\n\n4 - As associações públicas profissionais são criadas por tempo indefinido e só podem ser extintas, fundidas ou cindidas nos termos do artigo 3.º e dos números anteriores."
+  },
+  "70326559": {
+   "fragment_id": "70326658",
+   "type": 11,
+   "heading": "Artigo 8.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estatutos\n\n1 - Os estatutos das associações públicas profissionais são aprovados por lei e devem regular, nomeadamente, as seguintes matérias:\n\na) Âmbito de atuação, fins e atribuições;\n\nb) Aquisição e perda da qualidade de membro;\n\nc) Estágios profissionais ou outros, previstos em lei especial, que sejam justificadamente necessários para o acesso e exercício da profissão;\n\nd) Número de períodos de inscrição por ano, nos casos em que esteja prevista a realização de estágio profissional ou exame;\n\ne) Categoria de membros;\n\nf) Direitos e deveres dos membros;\n\ng) Organização interna e competência dos órgãos;\n\nh) Incompatibilidades no respeitante ao exercício dos cargos associativos;\n\ni) Eleições e respetivo processo eleitoral;\n\nj) Princípios e regras deontológicos;\n\nk) Procedimento disciplinar e respetivas sanções;\n\nl) Regime económico e financeiro, em especial relativo à fixação, cobrança e repartição de quotas;\n\nm) Colégios de especialidades profissionais, se os houver;\n\nn) Regimes de incompatibilidades e de impedimentos relativos ao exercício da profissão, se os houver;\n\no) Reconhecimento das qualificações profissionais obtidas fora do território nacional, nos termos da lei, do direito da União Europeia ou de convenção internacional;\n\np) Provedor dos destinatários dos serviços, se o houver.\n\n2 - Para os efeitos das alíneas c) e d) do número anterior, os estatutos devem estabelecer o regime do estágio de acesso à profissão ou, sendo o caso, do período formativo correspondente, nomeadamente, quanto aos seguintes aspetos:\n\na) Duração máxima do estágio, que não pode exceder os 18 meses, a contar da data de inscrição e incluindo as fases eventuais de formação e de avaliação;\n\nb) Direitos e deveres do orientador ou patrono;\n\nc) Direitos e deveres do estagiário;\n\nd) Regime de suspensão e cessação do estágio;\n\ne) Seguro de acidentes pessoais;\n\nf) Seguro profissional.\n\n3 - A organização das fases eventuais de formação e de avaliação dos estágios profissionais referidos no número anterior é da exclusiva responsabilidade das associações públicas profissionais respetivas, salvo se a lei definir o envolvimento de entidades públicas nos procedimentos de implementação ou de execução do estágio profissional ou regimes de financiamento das entidades formadoras públicas e, sendo caso disso, o envolvimento de entidades empregadoras públicas na realização dos estágios.\n\n4 - Nas situações em que a realização do estágio profissional ou do necessário processo formativo deva ocorrer em entidades empregadoras públicas, as matérias referidas nas alíneas c) e d) do n.º 1 são reguladas por decreto-lei."
+  },
+  "70326560": {
+   "fragment_id": "70326659",
+   "type": 11,
+   "heading": "Artigo 9.º — Autonomia administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autonomia administrativa\n\n1 - No exercício dos seus poderes públicos as associações públicas profissionais praticam os atos administrativos necessários ao desempenho das suas funções e aprovam os regulamentos previstos na lei e nos estatutos.\n\n2 - Ressalvados os casos previstos na lei, os atos e regulamentos das associações públicas profissionais não estão sujeitos a aprovação governamental."
+  },
+  "70326561": {
+   "fragment_id": "70326660",
+   "type": 11,
+   "heading": "Artigo 10.º — Autonomia patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autonomia patrimonial e financeira\n\n1 - As associações públicas profissionais dispõem de património próprio e de finanças próprias, bem como de autonomia orçamental.\n\n2 - A autonomia financeira inclui o poder de fixar, nos termos da lei, o valor de:\n\na) Quota mensal ou anual dos seus membros;\n\nb) Taxas pelos serviços prestados, de acordo com critérios de proporcionalidade."
+  },
+  "70326562": {
+   "fragment_id": "70326661",
+   "type": 11,
+   "heading": "Artigo 11.º — Denominações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Denominações\n\n1 - As associações públicas profissionais têm a denominação «ordem profissional» quando correspondam a profissões cujo exercício é condicionado à obtenção prévia de uma habilitação académica de licenciatura ou superior e a denominação «câmara profissional» no caso contrário.\n\n2 - A utilização das denominações «ordem profissional» e «câmara profissional» bem como da denominação «colégio de especialidade profissional» é exclusiva das associações públicas profissionais ou seus organismos, respetivamente."
+  },
+  "70326563": {
+   "fragment_id": "70326662",
+   "type": 11,
+   "heading": "Artigo 12.º — Cooperação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cooperação com outras entidades\n\n1 - As associações públicas profissionais podem constituir ou participar em associações de direito privado e cooperar com entidades afins, nacionais ou estrangeiras, especialmente no âmbito da União Europeia, do Espaço Económico Europeu e da Comunidade dos Países de Língua Portuguesa.\n\n2 - Para melhor desempenho das suas atribuições, as associações públicas profissionais podem estabelecer acordos de cooperação com outras entidades públicas ou privadas, nacionais ou estrangeiras, ressalvadas as entidades de natureza sindical ou política.\n\n3 - As associações públicas profissionais devem ainda prestar e solicitar às associações públicas profissionais ou autoridades administrativas competentes dos outros Estados membros e à Comissão Europeia assistência mútua e tomar as medidas necessárias para cooperar eficazmente, no âmbito dos procedimentos relativos a prestadores de serviços já estabelecidos em outro Estado membro, nos termos dos artigos 26.º a 29.º do Decreto-Lei n.º 92/2010, de 26 de julho, do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, e dos n.os 2 e 3 do artigo 19.º da Diretiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0031\" title=\"Link para Directiva da Comunidade Europeia\">2000/31/CE</a>, do Parlamento Europeu e do Conselho, de 8 de junho de 2000, relativa a certos aspetos legais dos serviços da sociedade de informação, em especial do comércio eletrónico, no mercado interno, nomeadamente através do Sistema de Informação do Mercado Interno.\n\n4 - Em matéria de reconhecimento das qualificações profissionais, as associações públicas profissionais exercem as competências previstas no n.º 9 do artigo 47.º e no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, sob a coordenação da entidade que exerça as atribuições previstas no artigo 52.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto."
+  },
+  "70326564": {
+   "fragment_id": "70326663",
+   "type": 1,
+   "heading": "Capítulo II — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização interna"
+  },
+  "70326565": {
+   "fragment_id": "70326664",
+   "type": 11,
+   "heading": "Artigo 13.º — Âmbito geográfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Âmbito geográfico\n\n1 - As associações públicas profissionais têm âmbito nacional.\n\n2 - Sem prejuízo do disposto no número anterior, as associações públicas profissionais podem compreender estruturas regionais e locais, às quais incumbe a prossecução das atribuições daquelas na respetiva área territorial, nos termos dos estatutos.\n\n3 - No caso previsto no número anterior, o estatuto de cada associação profissional especifica quais as delegações regionais e locais em que se estrutura, bem como a sua organização e competências.\n\n4 - Excetuados os controlos que, por razões imperiosas de interesse público, devam incidir direta e especificamente sobre determinadas instalações físicas, têm validade nacional:\n\na) As permissões administrativas concedidas por estruturas regionais e locais; e\n\nb) As formalidades de controlo praticadas pelos profissionais, pelas sociedades de profissionais ou por outras organizações associativas de profissionais a prestar serviços em território nacional nos termos do n.º 4 do artigo 37.º perante estruturas regionais e locais."
+  },
+  "70326566": {
+   "fragment_id": "70326665",
+   "type": 11,
+   "heading": "Artigo 14.º — Colégios de especialidade profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Colégios de especialidade profissionais\n\n1 - Sempre que a lei preveja a existência de especialidades profissionais, as associações públicas profissionais correspondentes podem organizar-se internamente em colégios de especialidade profissionais, de âmbito nacional.\n\n2 - Os estatutos estabelecem a organização e as competências dos colégios de especialidade profissionais, podendo prever, por razões imperiosas de interesse público ou inerentes à própria capacidade das pessoas, a sujeição a período de estágio ou probatório ou a realização de exame para a obtenção de título de especialidade profissional.\n\n3 - Nos casos em que a qualificação obtida noutro Estado membro da União Europeia ou do Espaço Económico Europeu diga respeito ao exercício de atividades comparáveis àquelas exercidas pelos profissionais especializados em território nacional, o procedimento de reconhecimento de qualificações profissionais especializadas segue os termos do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.\n\n4 - Sempre que uma especialidade obtida noutro Estado membro não tenha correspondência em Portugal e não seja possível reconhecer as qualificações do profissional de forma global com recurso a medidas de compensação, nos termos da alínea c) do n.º 1 do artigo 11.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, o acesso às especialidades nacionais é regulado pelas disposições aplicáveis aos profissionais cujas qualificações de base foram obtidas em território nacional, sem qualquer discriminação, seguindo os termos do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, apenas o reconhecimento das qualificações profissionais de base."
+  },
+  "70326567": {
+   "fragment_id": "70326666",
+   "type": 11,
+   "heading": "Artigo 15.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Órgãos\n\n1 - As associações públicas profissionais dispõem de órgãos próprios e a sua organização interna está sujeita ao princípio da separação de poderes.\n\n2 - Constituem órgãos obrigatórios das associações públicas profissionais:\n\na) Uma assembleia representativa, com poderes deliberativos gerais, nomeadamente em matéria de aprovação do orçamento, do plano de atividades, e de projetos de alteração dos estatutos, de aprovação de regulamentos, de quotas e de taxas ou de criação de colégios de especialidade;\n\nb) Um órgão executivo colegial, que exerce poderes de direção e de gestão, nomeadamente em matéria administrativa e financeira, bem como no tocante à representação externa dos interesses da associação;\n\nc) Um órgão de supervisão, que vela pela legalidade da atividade exercida pelos órgãos da associação e exerce poderes de controlo, nomeadamente em matéria disciplinar;\n\nd) Um órgão de fiscalização da gestão patrimonial e financeira, que inclui um revisor oficial de contas.\n\n3 - Os estatutos das associações públicas profissionais podem prever a existência de um presidente ou bastonário, como presidente do órgão executivo ou como órgão autónomo, com competências próprias, designadamente de representação externa da associação.\n\n4 - Os estatutos podem prever ainda a existência de outros órgãos para deliberar sobre questões de caráter geral, bem como órgãos técnicos e consultivos.\n\n5 - Os mandatos dos titulares dos órgãos das associações públicas profissionais não podem ser superiores a quatro anos, sendo renováveis apenas por uma vez.\n\n6 - A denominação dos órgãos é livremente escolhida pelo estatuto de cada associação pública profissional, ressalvada a designação «bastonário», que é privativa do presidente das ordens.\n\n7 - A assembleia representativa e o órgão de supervisão das associações públicas profissionais são eleitos por sufrágio universal, direto, secreto e periódico.\n\n8 - A assembleia representativa é eleita através do sistema de representação proporcional, nos círculos territoriais definidos nos estatutos, podendo porém incluir uma representação das estruturas regionais, se existirem.\n\n9 - Em caso de eleição direta do presidente ou bastonário, deve ser observado o regime previsto na Constituição para a eleição do Presidente da República, com as necessárias adaptações.\n\n10 - O órgão de supervisão é independente no exercício das suas funções, podendo incluir elementos estranhos à profissão, até um terço da sua composição.\n\n11 - As estruturas regionais e locais, se existirem, têm como órgãos obrigatórios a assembleia dos profissionais inscritos na respetiva circunscrição territorial e um órgão executivo eleito por aquela assembleia.\n\n12 - Os cargos executivos permanentes podem ser remunerados, nos termos dos estatutos ou do regulamento da associação."
+  },
+  "70326568": {
+   "fragment_id": "70326667",
+   "type": 11,
+   "heading": "Artigo 16.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Elegibilidade\n\n1 - Qualquer profissional membro efetivo com a inscrição em vigor e no pleno exercício dos seus direitos pode votar e ser eleito para os órgãos da respetiva associação.\n\n2 - Os estatutos podem condicionar a elegibilidade para o cargo de membro dos órgãos com competências executivas à verificação de um tempo mínimo de exercício da profissão, nunca superior a cinco anos, e para o cargo de presidente, de bastonário ou de membro do órgão com competência disciplinar, nunca superior a 10 anos.\n\n3 - A designação dos membros dos órgãos das associações públicas profissionais não está sujeita a homologação governamental."
+  },
+  "70326569": {
+   "fragment_id": "70326668",
+   "type": 11,
+   "heading": "Artigo 17.º — Poder regulamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Poder regulamentar\n\n1 - Os regulamentos das associações públicas profissionais aplicam-se aos seus membros e, bem assim, aos candidatos ao exercício da profissão.\n\n2 - A elaboração dos regulamentos segue o regime previsto no Código do Procedimento Administrativo, incluindo o disposto quanto à consulta pública e à participação dos interessados, com as devidas adaptações.\n\n3 - Os regulamentos das associações públicas profissionais com eficácia externa são publicados na 2.ª série do Diário da República, sem prejuízo da sua publicação na revista oficial ou no sítio eletrónico da associação."
+  },
+  "70326570": {
+   "fragment_id": "70326669",
+   "type": 11,
+   "heading": "Artigo 18.º — Poder disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Poder disciplinar\n\n1 - As associações públicas profissionais exercem, nos termos dos respetivos estatutos e com respeito, nomeadamente, pelos direitos de audiência e defesa, o poder disciplinar sobre os seus membros, inscritos nos termos dos artigos 24.º, 25.º e 37.º, bem como sobre os profissionais em livre prestação de serviços, na medida em que os princípios e regras deontológicos lhes sejam aplicáveis, nos termos dos n.os 2 e 6 do artigo 36.º\n\n2 - Os estatutos de cada associação pública profissional enunciam os factos que constituem infração disciplinar bem como as sanções disciplinares aplicáveis.\n\n3 - As sanções disciplinares de suspensão e de expulsão da associação pública profissional são aplicáveis apenas às infrações graves e muito graves praticadas no exercício da profissão, não podendo ter origem no incumprimento pelo membro do dever de pagar quotas ou de qualquer outro dever de natureza pecuniária.\n\n4 - Excetua-se do disposto no número anterior o incumprimento pelo membro do dever de pagar quotas que pode dar lugar à aplicação de sanção disciplinar de suspensão quando se apure que aquele incumprimento é culposo e se prolongue por um período superior a 12 meses.\n\n5 - Na situação prevista no número anterior, o pagamento voluntário das quotas em dívida determina a impossibilidade de aplicação de sanção disciplinar de suspensão ou a sua extinção, caso já tenha sido aplicada.\n\n6 - A sanção disciplinar de expulsão é aplicável quando, tendo em conta a natureza da profissão, a infração disciplinar tenha posto em causa a vida, a integridade física das pessoas ou seja gravemente lesiva da honra ou do património alheios ou de valores equivalentes, sem prejuízo do direito à reabilitação, nos termos dos respetivos estatutos.\n\n7 - O exercício das funções disciplinares das associações públicas profissionais é definido nos respetivos estatutos, competindo, pelo menos em última instância, ao órgão previsto na alínea c) do n.º 2 do artigo 15.º\n\n8 - Nos casos omissos, são aplicáveis, com as necessárias adaptações, as normas procedimentais previstas no Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas.\n\n9 - Têm legitimidade para participar factos suscetíveis de constituir infração disciplinar ao órgão com competência disciplinar, designadamente:\n\na) Os órgãos de governo da associação;\n\nb) O provedor dos destinatários dos serviços, quando exista;\n\nc) O Ministério Público; e\n\nd) Qualquer pessoa direta ou indiretamente afetada pelos factos participados."
+  },
+  "70326571": {
+   "fragment_id": "70326670",
+   "type": 11,
+   "heading": "Artigo 19.º — Incompatibilidades no exercício de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Incompatibilidades no exercício de funções\n\n1 - O exercício das funções executivas, disciplinares e de fiscalização em órgãos das associações públicas profissionais é incompatível entre si.\n\n2 - O cargo de titular de órgão das associações públicas profissionais é incompatível com o exercício de quaisquer funções dirigentes na função pública e com qualquer outra função com a qual se verifique um manifesto conflito de interesses.\n\n3 - A regra prevista na primeira parte do número anterior pode ser excecional, e fundamentadamente, derrogada pelos estatutos da respetiva associação pública profissional."
+  },
+  "70326572": {
+   "fragment_id": "70326671",
+   "type": 11,
+   "heading": "Artigo 20.º — Provedor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Provedor\n\n1 - Sem prejuízo do estatuto do Provedor de Justiça, as associações públicas profissionais podem designar uma personalidade independente com a função de defender os interesses dos destinatários dos serviços profissionais prestados pelos membros daquelas.\n\n2 - O provedor dos destinatários dos serviços é designado nos termos previstos nos estatutos da associação e não pode ser destituído, salvo por falta grave no exercício das suas funções.\n\n3 - Compete ao provedor analisar as queixas apresentadas pelos destinatários dos serviços e fazer recomendações, tanto para a resolução dessas queixas, como em geral para o aperfeiçoamento do desempenho da associação.\n\n4 - O cargo de provedor pode ser remunerado, nos termos dos estatutos ou do regulamento da associação.\n\n5 - No caso de ser membro da associação pública profissional, a pessoa designada para o cargo de provedor requer a suspensão da sua inscrição nos termos dos estatutos ou do regulamento da associação."
+  },
+  "70326573": {
+   "fragment_id": "70326672",
+   "type": 11,
+   "heading": "Artigo 21.º — Referendo interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Referendo interno\n\n1 - Os estatutos das associações públicas profissionais podem prever a submissão a referendo, com caráter vinculativo ou consultivo, mediante deliberação da assembleia representativa, sobre questões de particular relevância para a associação que caibam nas respetivas atribuições.\n\n2 - São obrigatoriamente submetidas a referendo interno as propostas de dissolução da associação.\n\n3 - Os estatutos de cada associação pública profissional podem especificar outras questões a submeter obrigatoriamente a referendo interno.\n\n4 - A realização de referendos é obrigatoriamente precedida da verificação da sua conformidade legal ou estatutária pelo órgão de supervisão previsto na alínea c) do n.º 2 do artigo 15.º"
+  },
+  "70326574": {
+   "fragment_id": "70326673",
+   "type": 11,
+   "heading": "Artigo 22.º — Balcão único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Balcão único\n\n1 - Todos os pedidos, comunicações e notificações ou declarações relacionados com a profissão organizada em associação pública profissional entre a associação e o profissional, sociedade de profissionais ou prestadores de serviços referidos na parte final do n.º 2 do artigo 24.º, com exceção dos relativos a procedimentos disciplinares, são efetuados por transmissão eletrónica de dados, através do balcão único eletrónico dos serviços, acessível através do sítio na Internet da respetiva associação pública profissional.\n\n2 - A apresentação de documentos em forma simples nos termos do número anterior dispensa a remessa dos documentos originais, autênticos, autenticados ou certificados, sem prejuízo do disposto nas alíneas a) e c) do n.º 3 e nos n.os 4 e 5 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n3 - Quando não for possível o cumprimento do disposto no n.º 1, por motivos de indisponibilidade das plataformas eletrónicas, bem como nos casos em que o interessado não disponha de meios que lhe permitam aceder às mesmas, a transmissão da informação em apreço pode ser feita por entrega nos serviços da associação profissional respetiva, por remessa pelo correio sob registo, por telecópia ou por correio eletrónico.\n\n4 - São ainda aplicáveis aos procedimentos que decorram entre a associação e o profissional ou sociedade de profissionais o disposto nas alíneas d) e e) do artigo 5.º e no n.º 1 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho."
+  },
+  "70329475": {
+   "fragment_id": "70326674",
+   "type": 11,
+   "heading": "Artigo 23.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transparência\n\nSem prejuízo do disposto no n.º 3 do artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 4 do artigo 19.º da Diretiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0031\" title=\"Link para Directiva da Comunidade Europeia\">2000/31/CE</a>, do Parlamento Europeu e do Conselho, de 8 de junho de 2000, relativa a certos aspetos legais dos serviços da sociedade de informação, em especial do comércio eletrónico, no mercado interno, as associações públicas profissionais devem disponibilizar ao público em geral, através do sítio eletrónico da associação, pelo menos, as seguintes informações:\n\na) Regime de acesso e exercício da profissão;\n\nb) Princípios e regras deontológicos e normas técnicas aplicáveis aos seus associados;\n\nc) Registo atualizado dos respetivos profissionais inscritos que contemple, pelo menos:\n\ni) O nome, o domicílio profissional e o número de carteira ou cédula profissionais;\n\nii) A designação do título e das especialidades profissionais;\n\niii) A situação de suspensão ou interdição temporária do exercício da atividade, se for caso disso;\n\nd) Registo atualizado dos profissionais em livre prestação de serviços no território nacional, que se consideram inscritos nos termos do n.º 2 do artigo 4.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, que contemple, pelo menos:\n\ni) O nome e o domicílio profissionais e, caso exista, a designação do título profissional de origem e das respetivas especialidades;\n\nii) A identificação da associação pública profissional no Estado membro de origem, na qual o profissional se encontre inscrito;\n\niii) A situação de suspensão ou interdição temporária do exercício da atividade, se for caso disso;\n\niv) A informação relativa às sociedades de profissionais ou outras formas de organização associativa de profissionais para que prestem serviços no Estado membro de origem, caso aqui prestem serviços nessa qualidade;\n\ne) Registo atualizado de sociedades de profissionais e de outras formas de organização associativa inscritas que contemple, nomeadamente, a designação, a sede, o número de inscrição e o número de identificação fiscal ou equivalente;\n\nf) Registo atualizado dos demais prestadores de serviços profissionais referidos na parte final do n.º 2 do artigo seguinte, caso exista a obrigação de registo, que contemple o respetivo nome ou designação e o seu domicílio, sede ou estabelecimento principal;\n\ng) Procedimento de apresentação de queixa ou reclamações pelos destinatários relativamente aos serviços prestados pelo profissional no âmbito da sua atividade;\n\nh) Ofertas de emprego na associação pública profissional."
+  },
+  "70329476": {
+   "fragment_id": "70329575",
+   "type": 1,
+   "heading": "Capítulo III — Acesso e exercício da profissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Acesso e exercício da profissão"
+  },
+  "70329477": {
+   "fragment_id": "70329576",
+   "type": 11,
+   "heading": "Artigo 24.º — Acesso e registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Acesso e registo\n\n1 - Sem prejuízo do disposto no artigo 36.º, o exercício de profissão organizada em associação pública profissional, seja a título individual seja sob a forma de sociedade de profissionais ou outra organização associativa de profissionais nos termos do n.º 4 do artigo 37.º, depende de inscrição prévia enquanto membro daquela associação pública, salvo se regime diferente for estabelecido na lei de criação da respetiva associação.\n\n2 - A lei pode estender a obrigação de inscrição prevista no número anterior a todos os profissionais e sociedades de profissionais ou outras organizações associativas de profissionais a prestar serviços em território nacional nos termos do n.º 4 do artigo 37.º e impor ainda uma obrigação de registo em associação pública profissional aos demais prestadores de serviços profissionais, estabelecidos em território nacional, empregadores ou subcontratantes de profissionais qualificados, que envolvam a prática de atos próprios da profissão em causa, salvo se aqueles estiverem abrangidos por outro registo público obrigatório de âmbito setorial.\n\n3 - Caso seja exigido, nos termos do número anterior, o registo de empregadores ou subcontratantes de profissionais que, não sendo profissionais qualificados, sociedades de profissionais ou outra organização associativa de profissionais a prestar serviços em território nacional nos termos do n.º 4 do artigo 37.º, prestem ainda assim serviços profissionais a terceiros, não pode o mesmo assumir caráter de permissão administrativa nem o seu incumprimento determinar a interdição do exercício da atividade.\n\n4 - A inscrição para estágio de acesso à profissão, caso seja obrigatório, depende apenas da titularidade da habilitação legalmente exigida para o exercício da profissão.\n\n5 - Os requisitos de que depende a inscrição definitiva em associação pública profissional são taxativamente fixados na lei de criação da associação ou na lei de regulação da profissão.\n\n6 - Para efeitos do número anterior, a inscrição definitiva de profissional depende apenas da titularidade da habilitação legalmente exigida para o exercício da profissão e, caso sejam justificadamente necessários para o exercício desta, por razões imperiosas de interesse público ou inerentes à própria capacidade das pessoas, do cumprimento de algum dos seguintes requisitos:\n\na) Verificação das capacidades profissionais pela sujeição a estágio profissional ou outro, previstos em lei especial;\n\nb) Formação e verificação dos conhecimentos relativos ao código deontológico da profissão;\n\nc) Realização de exame final de estágio com o objetivo de avaliar os conhecimentos e as competências necessárias para a prática de atos de confiança pública.\n\n7 - Sem prejuízo do disposto n.º 1 do artigo 33.º, em caso algum pode verificar-se a fixação de numerus clausus no acesso à profissão, incluindo a qualquer especialidade, associado ou não a restrições territoriais em função da população ou de distâncias geográficas entre profissionais ou suas sociedades e organizações associativas, ou a acreditação, pelas associações públicas profissionais, de cursos oficialmente reconhecidos.\n\n8 - Salvo disposição legal em contrário, a concessão de permissões administrativas para o acesso à profissão, individualmente ou em sociedade de profissionais ou outra organização associativa de profissionais nos termos do n.º 4 do artigo 37.º, não está sujeita ao princípio do deferimento tácito, sendo no entanto sempre aplicável o disposto na alínea a) do n.º 2 do artigo 9.º do Decreto-Lei n.º 92/2010, de 26 de julho."
+  },
+  "70329478": {
+   "fragment_id": "70329577",
+   "type": 11,
+   "heading": "Artigo 25.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Inscrição\n\n1 - Têm direito a inscrever-se nas associações públicas profissionais todos os que preencham os requisitos legais para o acesso à profissão e a desejem exercer, individualmente ou em sociedade de profissionais.\n\n2 - Em caso de aplicação de pena que tenha como efeito a interdição definitiva do exercício da profissão, cessa automaticamente a inscrição na associação pública profissional, sem prejuízo do direito à reabilitação, nos termos dos respetivos estatutos.\n\n3 - Sem prejuízo do regime de reconhecimento de qualificações obtidas fora de Portugal por nacional de Estado membro da União Europeia ou do Espaço Económico Europeu, os requisitos referidos no n.º 1 não podem ser discriminatórios em razão da nacionalidade, do local de residência ou do domicílio profissional de cidadão de Estado membro, nem em razão da nacionalidade, do local de constituição, sede ou administração principal noutro Estado membro de sociedade de profissionais ou outra forma de organização associativa de profissionais, nos termos do n.º 1 do artigo 10.º do Decreto-Lei n.º 92/2010, de 26 de julho, nem violar o disposto na alínea a) do n.º 1 do artigo 11.º daquele decreto-lei.\n\n4 - O disposto no número anterior não prejudica a imposição de requisitos específicos aos profissionais ou às suas sociedades ou organizações associativas, diretamente justificados por critérios objetivos com base no exercício da autoridade pública que o exercício da profissão comporte, na missão específica de interesse público em causa ou em razões de ordem, segurança e saúde públicas, nomeadamente a necessidade de manter em território nacional arquivo documental, a imposição de atuação concertada com profissional estabelecido de forma imediata no território nacional ou a necessidade de indicar um domicílio, próprio ou de outro profissional, em território nacional, para receção de citações e notificações, salvo quando a lei admitir a citação e notificação por telecópia ou sistema eletrónico de informação e tal seja expressamente aceite pelo profissional.\n\n5 - É proibida a imposição dos pressupostos, dos requisitos e das condições referidos nas alíneas b) a h) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n6 - Todas as restrições ao acesso e exercício de determinada profissão, incluindo as referentes a qualificações profissionais, devem fundamentar-se em razões imperiosas de interesse público, nomeadamente atendendo à missão específica de interesse público em causa, em função da autoridade pública que o exercício da profissão comporte, ou em razões inerentes à própria capacidade da pessoa."
+  },
+  "70329479": {
+   "fragment_id": "70329578",
+   "type": 11,
+   "heading": "Artigo 26.º — Exercício da profissão em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Exercício da profissão em geral\n\n1 - Sem prejuízo das normas técnicas e dos princípios e regras deontológicos aplicáveis, o exercício da profissão deve observar o princípio da livre concorrência, bem como as regras da defesa da concorrência e de proteção contra a concorrência desleal.\n\n2 - Sem prejuízo do disposto no n.º 1 do artigo 33.º, a permissão para o acesso e exercício de uma profissão organizada em associação pública profissional é concedida por tempo indeterminado e só pode caducar quando deixem de se verificar os pressupostos, os requisitos ou as condições de que depende a sua concessão, não podendo a referida permissão ser sujeita a qualquer outro termo ou condição.\n\n3 - Sem prejuízo do disposto n.º 1 do artigo 33.º, não podem ser estabelecidas restrições territoriais ou ao número de estabelecimentos, imposições de números mínimos de trabalhadores ou de prestadores de serviços, nem restrições à fixação de preços a praticar ou imposições de serviços a prestar a par dos serviços contratados no exercício de profissão organizada em associação pública profissional.\n\n4 - Os prestadores de serviços profissionais, incluindo as sociedades de profissionais ou outras formas de organização associativa de profissionais referidas no n.º 4 do artigo 37.º e os demais empregadores ou subcontratantes de profissionais, ficam sujeitos aos requisitos constantes dos n.os 1 e 2 do artigo 19.º e dos artigos 20.º e 22.º do Decreto-Lei n.º 92/2010, de 26 de julho, e ainda, no que se refere a serviços prestados por via eletrónica, ao disposto no artigo 10.º do Decreto-Lei n.º 7/2004, de 7 de janeiro, alterado pelo Decreto-Lei n.º 62/2009, de 10 de março, e pela Lei n.º 46/2012, de 29 de agosto.\n\n5 - O disposto no número anterior não se aplica aos serviços e organismos da administração direta e indireta do Estado, das regiões autónomas e das autarquias locais, nem às demais pessoas coletivas públicas não empresariais."
+  },
+  "70329480": {
+   "fragment_id": "70329579",
+   "type": 11,
+   "heading": "Artigo 27.º — Sociedades de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Sociedades de profissionais\n\n1 - Podem ser constituídas sociedades de profissionais que tenham por objeto principal o exercício de profissões organizadas numa única associação pública profissional, em conjunto ou em separado com o exercício de outras profissões ou atividades, desde que seja observado o regime de incompatibilidades e impedimentos aplicável.\n\n2 - As sociedades de profissionais constituídas em Portugal podem ser sociedades civis ou assumir qualquer forma jurídica admissível por lei para o exercício de atividades comerciais.\n\n3 - Podem ser sócios, gerentes ou administradores das sociedades referidas no número anterior pessoas que não possuam as qualificações profissionais exigidas para o exercício das profissões organizadas na associação pública profissional respetiva, salvo se, atentos os estatutos da sociedade, tal colocar em causa a reserva de atividade estabelecida nos termos do artigo 30.º, devendo, no entanto, ser sempre assegurado o cumprimento do disposto no n.º 1 e pelo menos:\n\na) A maioria do capital social com direito de voto pertencer aos profissionais em causa estabelecidos em território nacional, a sociedades desses profissionais constituída ao abrigo do direito nacional ou a outras formas de organização associativa de profissionais equiparados constituídas noutro Estado membro da União Europeia ou do Espaço Económico Europeu, cujo capital e direitos de voto caiba maioritariamente aos profissionais em causa; e\n\nb) Um dos gerentes ou administradores ser membro da associação pública profissional respetiva ou, caso a inscrição seja facultativa, cumprir os requisitos de acesso à profissão em território nacional.\n\n4 - Podem ser estabelecidas restrições ao disposto nos números anteriores, por via dos estatutos das associações públicas profissionais, apenas com fundamento no exercício de poderes de autoridade pública que a profissão comporte ou em razões imperiosas de interesse público ligadas à missão de interesse público que a profissão, na sua globalidade, prossiga."
+  },
+  "70329481": {
+   "fragment_id": "70329580",
+   "type": 11,
+   "heading": "Artigo 28.º — Princípios e regras deontológicos e normas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Princípios e regras deontológicos e normas técnicas\n\n1 - O exercício de profissão organizada em associação pública profissional deve respeitar o cumprimento dos princípios e regras deontológicos e das normas técnicas aplicáveis, quer a atividade profissional seja exercida individualmente, em nome próprio ou por profissional empregado ou subcontratado, quer sob a forma de sociedade de profissionais previstas no artigo anterior ou outra organização associativa de profissionais nos termos do n.º 4 do artigo 37.º\n\n2 - Sem prejuízo do disposto no n.º 1 do artigo 33.º, não pode ser proibido o exercício da atividade profissional em regime de subordinação jurídica, nem exigido que o empregador seja profissional qualificado ou sociedade de profissionais, desde que sejam observados os princípios e regras deontológicos e o respeito pela autonomia técnica e científica e pelas garantias conferidas aos profissionais pelos respetivos estatutos, e cumprido o disposto no n.º 2 do artigo 30.º\n\n3 - O empregador, o beneficiário e os sócios, gerentes ou administradores de sociedades de profissionais que não possuam as qualificações profissionais exigidas para o exercício da profissão organizada em associação pública profissional devem respeitar os princípios e regras deontológicos, a autonomia técnica e científica e as garantias conferidas aos profissionais pela lei e pelos respetivos estatutos."
+  },
+  "70329482": {
+   "fragment_id": "70329581",
+   "type": 11,
+   "heading": "Artigo 29.º — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Incompatibilidades e impedimentos\n\nOs estatutos podem prever regras relativas a incompatibilidades e impedimentos no exercício da profissão, desde que respeitem o disposto na presente lei e se mostrem proporcionais ao objetivo de garantir a independência, imparcialidade e integridade da profissão e, caso se justifique, o segredo profissional."
+  },
+  "70329483": {
+   "fragment_id": "70329582",
+   "type": 11,
+   "heading": "Artigo 30.º — Reserva de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Reserva de atividade\n\n1 - Sem prejuízo do disposto na alínea b) do artigo 358.º do Código Penal, as atividades profissionais associadas a cada profissão só lhe são reservadas quando tal resulte expressamente da lei, fundada em razões imperiosas de interesse público, de acordo com critérios de proporcionalidade.\n\n2 - Os serviços profissionais que envolvam a prática de atos próprios de cada profissão e se destinem a terceiros, ainda que prestados em regime de subordinação jurídica, são exclusivamente assegurados por profissionais legalmente habilitados para praticar aqueles atos.\n\n3 - O disposto no número anterior não se aplica aos trabalhadores dos serviços e organismos da administração direta e indireta do Estado, das regiões autónomas e das autarquias locais, nem das demais pessoas coletivas públicas não empresariais no âmbito das respetivas funções, exceto se a tal estiverem obrigados pelos estatutos das respetivas associações públicas profissionais."
+  },
+  "70329484": {
+   "fragment_id": "70329583",
+   "type": 11,
+   "heading": "Artigo 31.º — Seguro de responsabilidade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Seguro de responsabilidade profissional\n\nSem prejuízo do disposto no artigo 38.º, os estatutos das associações públicas profissionais podem fazer depender o exercício da profissão da subscrição de um seguro obrigatório de responsabilidade civil profissional ou da prestação de garantia ou instrumento equivalente, os quais devem ser adequados à natureza e à dimensão do risco, e apenas na medida em que o serviço profissional apresente risco direto e específico para a saúde ou segurança do destinatário do serviço ou terceiro ou para a segurança financeira do destinatário do serviço."
+  },
+  "70329485": {
+   "fragment_id": "70329584",
+   "type": 11,
+   "heading": "Artigo 32.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Publicidade\n\n1 - Sem prejuízo do disposto no artigo seguinte, não podem ser estabelecidas normas que imponham uma proibição absoluta de qualquer das modalidades de publicidade relativa a profissão organizada em associação pública profissional.\n\n2 - Podem ser impostas restrições em matéria de publicidade quando essas restrições não sejam discriminatórias, sejam justificadas por razões imperiosas de interesse público, designadamente para assegurar o respeito pelo sigilo profissional, e estejam de acordo com critérios de proporcionalidade.\n\n3 - É aplicável aos profissionais que prestem serviços por via eletrónica o disposto nos artigos 20.º a 23.º do Decreto-Lei n.º 7/2004, de 7 de janeiro, alterado pelo Decreto-Lei n.º 62/2009, de 10 de março, e pela Lei n.º 49/2012, de 29 de agosto."
+  },
+  "70329486": {
+   "fragment_id": "70329585",
+   "type": 11,
+   "heading": "Artigo 33.º — Serviços profissionais de interesse económico geral e exercício de poderes de autoridade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Serviços profissionais de interesse económico geral e exercício de poderes de autoridade pública\n\n1 - No caso de profissões que prossigam, na globalidade ou em alguns dos seus atos e atividades, missões específicas de interesse público, ou no caso de profissões cuja globalidade de atos ou atividades tenha uma ligação direta e específica ao exercício de poderes de autoridade pública, podem ser estabelecidos, nos respetivos estatutos, requisitos contrários ao disposto no n.º 7 do artigo 24.º, nos n.os 2 a 3 do artigo 26.º, no n.º 2 do artigo 28.º e no n.º 1 do artigo anterior, desde que se mostrem justificados e proporcionais, respetivamente, por razões imperiosas de interesse geral ligadas à prossecução da missão de interesse público em causa, ou ao exercício daqueles poderes de autoridade pública.\n\n2 - Aos profissionais nacionais de Estado membro da União Europeia ou do Espaço Económico Europeu qualificados fora de Portugal para o exercício de atividades comparáveis a atividades que, em Portugal, estão relacionadas com o exercício de poderes de autoridade pública, nos termos do artigo 51.º do Tratado sobre o Funcionamento da União Europeia, não são aplicáveis os regimes previstos no Decreto-Lei n.º 7/2004, de 7 de janeiro, alterado pelo Decreto-Lei n.º 62/2009, de 10 de março, e pela Lei n.º 46/2012, de 29 de agosto, na Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, e no Decreto-Lei n.º 92/2010, de 26 de julho, na medida daquele exercício de poderes de autoridade."
+  },
+  "70329487": {
+   "fragment_id": "70329586",
+   "type": 11,
+   "heading": "Artigo 34.º — Direitos dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direitos dos membros\n\nSão direitos dos membros das associações públicas profissionais:\n\na) Eleger os órgãos da associação e candidatar-se às eleições, ressalvadas as inelegibilidades estabelecidas na lei e nos estatutos;\n\nb) Participar nas atividades da associação;\n\nc) Beneficiar dos serviços proporcionados pela associação, sem qualquer discriminação;\n\nd) Outros previstos na lei e nos estatutos."
+  },
+  "70329488": {
+   "fragment_id": "70329587",
+   "type": 11,
+   "heading": "Artigo 35.º — Deveres dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Deveres dos membros\n\nSão deveres dos membros das associações públicas profissionais:\n\na) Participar na vida da associação;\n\nb) Pagar as quotas;\n\nc) Contribuir para o prestígio da associação;\n\nd) Os demais deveres legais e estatutários."
+  },
+  "70329489": {
+   "fragment_id": "70329588",
+   "type": 1,
+   "heading": "Capítulo IV — Livre prestação de serviços e liberdade de estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Livre prestação de serviços e liberdade de estabelecimento"
+  },
+  "70329490": {
+   "fragment_id": "70329589",
+   "type": 11,
+   "heading": "Artigo 36.º — Livre prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Livre prestação de serviços\n\n1 - O profissional legalmente estabelecido em Estado membro da União Europeia ou do Espaço Económico Europeu que desenvolva atividades comparáveis às atividades de profissão organizada em Portugal em associação pública profissional podem exercê-las, de forma ocasional e esporádica, em território nacional, nos termos previstos na Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente o disposto nos seus capítulos ii e iv.\n\n2 - Ao profissional referido no número anterior é ainda aplicável o disposto no n.º 7 do artigo 24.º, no n.º 4 do artigo 25.º, no artigo 26.º, no n.º 2 do artigo 28.º e no artigo 30.º, a proibição constante das alíneas b) e d) a h) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, e ainda as normas legais ou regulamentares relativas à conduta profissional, nos termos do n.º 2 do artigo 3.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.\n\n3 - O profissional que preste serviços, de forma subordinada ou autónoma ou na qualidade de sócio ou que atue como gerente ou administrador no Estado membro de origem, no âmbito de sociedade de profissionais ou outra forma de organização associativa de profissionais e pretenda exercer a sua atividade profissional em território nacional nessa qualidade, em regime de livre prestação de serviços, deve identificar a sociedade ou a organização associativa, por conta da qual presta serviços, na declaração ou no requerimento referidos nos artigos 5.º e 6.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, respetivamente, sem necessidade de a sociedade ou organização associativa ser titular de qualquer permissão administrativa nem estar inscrita ou registada na associação pública profissional em causa.\n\n4 - Os demais requisitos aplicáveis ao profissional em livre prestação de serviços em território nacional devem ser especificados por lei e ser fundamentados em razões imperiosas de ordem pública, saúde pública, segurança pública e proteção do ambiente, em razões imperiosas ligadas à missão específica de interesse público que a profissão, na sua globalidade, prossiga enquanto serviço de interesse económico geral, no exercício de poderes de autoridade pública que o exercício da profissão comporte ou em razões inerentes à própria capacidade da pessoa.\n\n5 - O disposto nos n.os 2 e 4 aplica-se à livre prestação de serviços por correio, telefone ou telecópia ou através de qualquer outro meio de prestação não eletrónica à distância.\n\n6 - Os requisitos aplicáveis aos profissionais ou às suas organizações associativas legalmente estabelecidos noutro Estado membro da União Europeia ou do Espaço Económico Europeu que prestem serviços destinados ao território nacional, através de comércio eletrónico, devem constar de lei e ser fundamentados em razões imperiosas de ordem pública, saúde pública, segurança pública e proteção do consumidor, no exercício de poderes de autoridade pública que o exercício da profissão comporte ou em razões inerentes à própria capacidade da pessoa.\n\n7 - Aplica-se ainda ao regime de livre prestação de serviços profissionais organizados em Portugal em associação pública profissional o disposto no n.º 3 do artigo 19.º do Decreto-Lei n.º 92/2010, de 26 de julho."
+  },
+  "70329491": {
+   "fragment_id": "70329590",
+   "type": 11,
+   "heading": "Artigo 37.º — Direito de estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Direito de estabelecimento\n\n1 - O reconhecimento das qualificações profissionais adquiridas noutro Estado membro da União Europeia ou do Espaço Económico Europeu por nacional de Estado membro é regulado pela Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.\n\n2 - Sem prejuízo do estabelecimento de condições de reciprocidade, o reconhecimento das qualificações obtidas fora da União Europeia por nacional de Estado membro da União Europeia ou do Espaço Económico Europeu ou equiparado é regulado pela Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.\n\n3 - Podem ainda inscrever-se nas associações públicas profissionais os nacionais de Estados terceiros, em condições de reciprocidade, desde que obtenham o reconhecimento das qualificações necessárias, nos termos da lei em vigor.\n\n4 - Os profissionais estabelecidos em Portugal que prestem serviços de forma subordinada ou autónoma ou na qualidade de sócio ou que atuem como gerentes ou administradores no âmbito de sociedade de profissionais ou outra forma de organização associativa de profissionais a operar noutro Estado só podem prestar serviços de forma habitual em território nacional naquela qualidade caso a organização em causa se estabeleça, ela própria, em Portugal, a título principal ou secundário, nomeadamente pela constituição de uma sociedade de profissionais, quando legalmente admissível nos termos do artigo 27.º, ou pela constituição de representação permanente, nos termos da lei comercial, sempre que a organização cumpra, ela própria, o disposto nos n.os 3 e 4 do artigo 27.º, devidamente adaptado.\n\n5 - Os profissionais estabelecidos em Portugal que pertençam a sociedade de profissionais ou outra forma de organização associativa de profissionais a operar noutro Estado devem informar a respetiva associação pública profissional desse facto, identificando a organização em causa."
+  },
+  "70329492": {
+   "fragment_id": "70329591",
+   "type": 11,
+   "heading": "Artigo 38.º — Seguro de responsabilidade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Seguro de responsabilidade profissional\n\n1 - Não pode ser imposta a um prestador de serviços profissionais estabelecido noutro Estado membro da União Europeia ou do Espaço Económico Europeu a subscrição de um seguro de responsabilidade profissional pela atividade desenvolvida em território nacional caso o mesmo tenha essa atividade, total ou parcialmente, coberta por seguro, garantia ou instrumento equivalente subscrito ou prestado no Estado membro onde se encontre estabelecido.\n\n2 - Caso o seguro, a garantia ou o instrumento equivalente subscrito noutro Estado membro cubra parcialmente os riscos decorrentes da atividade, o prestador de serviços deve complementá-lo de forma a abranger os elementos ou riscos não cobertos.\n\n3 - Para efeitos do disposto nos números anteriores, o profissional deve entregar à associação pública profissional a respetiva certidão emitida por instituição de crédito ou empresa de seguros estabelecida em qualquer outro Estado membro, a qual é título bastante para a demonstração do cumprimento do requisito de cobertura da atividade por seguro ou garantia equivalente subscrito ou prestado no Estado membro onde se encontre estabelecido."
+  },
+  "70329493": {
+   "fragment_id": "70329592",
+   "type": 11,
+   "heading": "Artigo 39.º — Comunicação de requisitos de acesso e de exercício e de medidas restritivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Comunicação de requisitos de acesso e de exercício e de medidas restritivas\n\n1 - O Ministério dos Negócios Estrangeiros, quando solicitado pelo ministério setorial competente, comunica à Comissão Europeia, nos termos da legislação aplicável, a criação ou alteração de requisitos de acesso e exercício aplicáveis aos profissionais provenientes de outro Estado membro da União Europeia ou do Espaço Económico Europeu que exerçam em Portugal atividade de profissão organizada em associação pública profissional, nomeadamente:\n\na) Requisitos previstos nas alíneas i) a q) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, aplicáveis a profissionais estabelecidos em território nacional, que não resultem de legislação europeia, de acordo com o disposto no n.º 7 do artigo 15.º da Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro de 2006, relativa aos serviços no mercado interno;\n\nb) Requisitos aplicáveis a profissionais em livre prestação de serviços em território nacional que não resultem de legislação europeia, de acordo com o disposto no n.º 5 do artigo 39.º da diretiva referida na alínea anterior;\n\nc) Requisitos exclusivamente aplicáveis aos profissionais que prestem serviços por via eletrónica, de acordo com o disposto na Diretiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de junho de 1998, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas e das regras relativas aos serviços da sociedade da informação;\n\nd) Requisitos aplicáveis a prestadores em livre prestação de serviços por via eletrónica, que não resultem de legislação europeia nem devam ser comunicados nos termos da alínea anterior, de acordo com o disposto nos n.os 4 a 6 do artigo 3.º da Diretiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0031\" title=\"Link para Directiva da Comunidade Europeia\">2000/31/CE</a>, do Parlamento Europeu e do Conselho, de 8 de junho de 2000, relativa a certos aspetos legais dos serviços da sociedade de informação, em especial do comércio eletrónico, no mercado interno.\n\n2 - As medidas restritivas da livre prestação de serviços de profissionais provenientes de outro Estado membro da União Europeia ou do Espaço Económico Europeu, que exerçam em Portugal atividade de profissão organizada em associação pública profissional, são tomadas e comunicadas à Comissão e ao Estado membro de estabelecimento do profissional em causa, nos termos da legislação aplicável, nomeadamente do artigo 28.º do Decreto-Lei n.º 92/2010, de 26 de julho, ou dos artigos 7.º a 9.º do Decreto-Lei n.º 7/2004, de 7 de janeiro, alterado pelo Decreto-Lei n.º 62/2009, de 10 de março, alterada pela Lei n.º 46/2012, de 29 de agosto."
+  },
+  "70329494": {
+   "fragment_id": "70329593",
+   "type": 11,
+   "heading": "Artigo 40.º — Carteira profissional europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Carteira profissional europeia\n\nAs associações públicas profissionais podem estabelecer formas de colaboração ou de cooperação com outras entidades estrangeiras que visem facilitar e incentivar a mobilidade dos profissionais, nomeadamente através da emissão, validação e utilização da carteira profissional europeia."
+  },
+  "70329495": {
+   "fragment_id": "70329594",
+   "type": 1,
+   "heading": "Capítulo V — Regime laboral, financeiro e fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime laboral, financeiro e fiscal"
+  },
+  "70329496": {
+   "fragment_id": "70329595",
+   "type": 11,
+   "heading": "Artigo 41.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Pessoal\n\n1 - Aos trabalhadores das associações públicas profissionais é aplicável o regime previsto no Código do Trabalho e o disposto nos números seguintes.\n\n2 - A celebração de contrato de trabalho deve ser precedida de um processo de seleção que obedeça aos princípios da igualdade, da transparência, da publicidade e da fundamentação com base em critérios objetivos de seleção.\n\n3 - As regras a que deve obedecer o processo de seleção constam obrigatoriamente dos estatutos próprios ou dos regulamentos internos das associações públicas profissionais."
+  },
+  "70329497": {
+   "fragment_id": "70329596",
+   "type": 11,
+   "heading": "Artigo 42.º — Orçamento, gestão financeira e contratos públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Orçamento, gestão financeira e contratos públicos\n\n1 - As associações públicas profissionais têm orçamento próprio, proposto pelo órgão executivo e aprovado pela assembleia representativa.\n\n2 - As associações públicas profissionais estão sujeitas:\n\na) Às regras de equilíbrio orçamental e de limitação do endividamento estabelecidas em diploma próprio;\n\nb) Ao regime do Código dos Contratos Públicos;\n\nc) Ao regime da normalização contabilística para as entidades do sector não lucrativo (ESNL), que integra o Sistema de Normalização Contabilística.\n\n3 - O Estado não garante as responsabilidades financeiras das associações públicas profissionais, nem é responsável pelas suas dívidas."
+  },
+  "70329498": {
+   "fragment_id": "70329597",
+   "type": 11,
+   "heading": "Artigo 43.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Receitas\n\n1 - São receitas das associações públicas profissionais:\n\na) As quotas dos seus membros;\n\nb) As taxas cobradas pela prestação de serviços;\n\nc) Os rendimentos do respetivo património;\n\nd) O produto de heranças, legados e doações;\n\ne) Outras receitas previstas na lei e nos estatutos.\n\n2 - O Estado só pode financiar as associações públicas profissionais quando se trate da contrapartida de serviços determinados, estabelecidos mediante protocolo e não compreendidos nas suas incumbências legais.\n\n3 - As deliberações sobre a fixação das quotas e das taxas são aprovadas pela assembleia representativa, por maioria absoluta, sob proposta do órgão executivo, e na base de um estudo que fundamente adequadamente os montantes propostos, observados os requisitos substantivos previstos na lei geral sobre as taxas e outras contribuições da Administração Pública.\n\n4 - A cobrança dos créditos resultantes das receitas previstas nas alíneas a) e b) do n.º 1 segue o processo de execução tributária."
+  },
+  "70329499": {
+   "fragment_id": "70329598",
+   "type": 11,
+   "heading": "Artigo 44.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Serviços\n\n1 - As associações públicas profissionais instituem os serviços operacionais e técnicos necessários para o desempenho das suas atribuições, sem prejuízo da faculdade de externalização de tarefas.\n\n2 - As associações públicas profissionais podem estabelecer acordos de cooperação com os serviços de inspeção da Administração Pública para o desempenho da tarefa de fiscalização do cumprimento dos deveres profissionais por parte dos seus membros.\n\n3 - Podem ser estabelecidos acordos de cooperação com os serviços de inspeção indicados no número anterior, que visem impedir o exercício ilegal da profissão, nomeadamente por quem não reúna as qualificações legalmente estabelecidas."
+  },
+  "70329500": {
+   "fragment_id": "70329599",
+   "type": 1,
+   "heading": "Capítulo VI — Tutela, controlo judicial e responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Tutela, controlo judicial e responsabilidade"
+  },
+  "70329501": {
+   "fragment_id": "70329600",
+   "type": 11,
+   "heading": "Artigo 45.º — Tutela administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Tutela administrativa\n\n1 - As associações públicas profissionais não estão sujeitas a superintendência governamental nem a tutela de mérito, ressalvados, quanto a esta, os casos especialmente previstos na lei.\n\n2 - As associações públicas profissionais estão sujeitas a tutela de legalidade idêntica à exercida pelo Governo sobre a administração autónoma territorial.\n\n3 - A lei de criação ou os estatutos de cada associação pública profissional estabelecem qual o membro do Governo que exerce os poderes de tutela sobre cada associação pública profissional.\n\n4 - Ressalvado o disposto no número seguinte, a tutela administrativa sobre as associações públicas profissionais é de natureza inspetiva.\n\n5 - No âmbito da tutela de legalidade, os regulamentos que versem sobre os estágios profissionais, as provas profissionais de acesso à profissão e as especialidades profissionais só produzem efeitos após homologação da respetiva tutela, que se considera dada se não houver decisão em contrário nos 90 dias seguintes ao da sua receção.\n\n6 - Para efeitos do número anterior, o membro do Governo que exerce os poderes de tutela sobre a associação pública profissional deve solicitar os esclarecimentos e os documentos necessários à decisão sobre a homologação dos regulamentos nos 45 dias posteriores à receção do requerimento da associação pública profissional.\n\n7 - A associação pública profissional deve responder às solicitações do membro do Governo que exerce os poderes de tutela nos 10 dias seguintes, não se suspendendo o prazo previsto no n.º 5, salvo se este prazo for ultrapassado.\n\n8 - É aplicável às associações públicas profissionais, com as necessárias adaptações, o disposto na Lei n.º 27/96, de 1 de agosto, alterada pela Lei Orgânica n.º 1/2011, de 30 de novembro."
+  },
+  "70329502": {
+   "fragment_id": "70329601",
+   "type": 11,
+   "heading": "Artigo 46.º — Controlo jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Controlo jurisdicional\n\n1 - As decisões das associações públicas profissionais praticadas no exercício de poderes públicos estão sujeitas ao contencioso administrativo, nos termos das leis do processo administrativo.\n\n2 - Têm legitimidade para impugnar a legalidade dos atos e regulamentos das associações públicas profissionais:\n\na) Os interessados, nos termos das leis do processo administrativo;\n\nb) O Ministério Público;\n\nc) O membro do Governo que exerce os poderes de tutela sobre a respetiva associação pública profissional;\n\nd) O Provedor de Justiça."
+  },
+  "70329503": {
+   "fragment_id": "70329602",
+   "type": 11,
+   "heading": "Artigo 47.º — Fiscalização pelo Tribunal de Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Fiscalização pelo Tribunal de Contas\n\nAs associações públicas profissionais estão sujeitas à jurisdição do Tribunal de Contas, nos termos estabelecidos na Lei de Organização e Processo e no Regulamento Geral do Tribunal de Contas."
+  },
+  "70329504": {
+   "fragment_id": "70329603",
+   "type": 11,
+   "heading": "Artigo 48.º — Relatório anual e deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Relatório anual e deveres de informação\n\n1 - As associações públicas profissionais elaboram anualmente um relatório sobre o desempenho das suas atribuições, o qual deve ser apresentado à Assembleia da República e ao Governo, até 31 de março de cada ano.\n\n2 - As associações públicas profissionais prestam à Assembleia da República e ao Governo toda a informação que lhes seja solicitada relativamente ao exercício das suas atribuições.\n\n3 - Os bastonários e os presidentes dos órgãos executivos devem corresponder ao pedido das comissões parlamentares competentes para prestarem as informações e esclarecimentos de que estas necessitem."
+  },
+  "70329505": {
+   "fragment_id": "70329604",
+   "type": 11,
+   "heading": "Artigo 49.º — Processo penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Processo penal\n\nAs associações públicas profissionais podem constituir-se assistentes nos processos penais relacionados com o exercício da profissão que representam ou com o desempenho de cargos nos seus órgãos, salvo quando se trate de factos que envolvam responsabilidade disciplinar."
+  },
+  "70329506": {
+   "fragment_id": "70329605",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições complementares, transitórias e finais"
+  },
+  "70329507": {
+   "fragment_id": "70329606",
+   "type": 11,
+   "heading": "Artigo 50.º — Comissões instaladoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Comissões instaladoras\n\n1 - Até à tomada de posse dos órgãos das novas associações públicas profissionais, os respetivos estatutos devem prever, pelo período máximo de um ano, a existência de comissões instaladoras, às quais incumbe a prática dos atos necessários à eleição da assembleia representativa e à instalação definitiva daqueles órgãos.\n\n2 - Os membros das comissões instaladoras, sendo um deles o presidente, são nomeados pelo membro do Governo que exerce os poderes de tutela sobre a associação pública profissional, ouvidas as associações profissionais interessadas."
+  },
+  "70329508": {
+   "fragment_id": "70329607",
+   "type": 11,
+   "heading": "Artigo 51.º — Sistema de Certificação de Atributos Profissionais com o Cartão de Cidadão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Sistema de Certificação de Atributos Profissionais com o Cartão de Cidadão\n\n1 - As associações públicas profissionais devem facultar aos seus associados mecanismos eletrónicos de certificação da qualidade de associado, bem como dos respetivos títulos profissionais atribuídos.\n\n2 - A certificação de atributos profissionais prevista no número anterior pode ser efetuada com interação eletrónica entre o Sistema de Certificação de Atributos Profissionais com o Cartão de Cidadão e os sistemas mantidos e geridos pela associação pública profissional.\n\n3 - A associação pública profissional, sempre que opte por um sistema distinto do Sistema de Certificação de Atributos Profissionais com o Cartão de Cidadão, indicado no número anterior, deve proceder, em conjunto com a Agência para a Modernização Administrativa, I. P., a uma análise custo-benefício do sistema adotado face ao Sistema de Certificação de Atributos Profissionais com o Cartão de Cidadão.\n\n4 - Quando não for possível o cumprimento do disposto no n.º 1, por motivos de indisponibilidade das plataformas eletrónicas, bem como nos casos em que o interessado não disponha de meios que lhe permitam aceder às mesmas, a prova da qualidade de associado e respetivos títulos profissionais pode ser feita através de outros meios previstos nos respetivos estatutos ou regulamentação emitida pela associação pública profissional."
+  },
+  "70329509": {
+   "fragment_id": "70329608",
+   "type": 11,
+   "heading": "Artigo 52.º — Imperatividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Imperatividade\n\n1 - As normas constantes da presente lei prevalecem sobre as normas legais ou estatutárias que as contrariem.\n\n2 - O disposto na presente lei não prejudica os regimes especiais previstos em diretivas ou regulamentos europeus ou em convenções internacionais aplicáveis às profissões reguladas por associações públicas profissionais."
+  },
+  "70329510": {
+   "fragment_id": "70329609",
+   "type": 11,
+   "heading": "Artigo 53.º — Normas transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Normas transitórias e finais\n\n1 - O regime previsto na presente lei aplica-se às associações públicas profissionais já criadas e em processo legislativo de criação.\n\n2 - As associações públicas profissionais já criadas devem adotar as medidas necessárias para o cumprimento do disposto na presente lei.\n\n3 - No prazo máximo de 30 dias a contar do primeiro dia útil seguinte ao da publicação da presente lei, cada associação pública profissional já criada fica obrigada a apresentar ao Governo um projeto de alteração dos respetivos estatutos e de demais legislação aplicável ao exercício da profissão, que os adeque ao regime previsto na presente lei.\n\n4 - Para efeitos do número anterior e independentemente das normas previstas na lei de criação de cada associação pública profissional ou nos respetivos estatutos, a elaboração, aprovação e apresentação ao Governo dos referidos projetos compete, em exclusivo, ao órgão executivo colegial daquela.\n\n5 - No prazo de 90 dias a contar do 1.º dia útil seguinte ao da publicação da presente lei, o Governo apresenta à Assembleia da República as propostas de alteração dos estatutos das associações públicas profissionais já criadas e demais legislação aplicável ao exercício da profissão que se revelem necessárias para a respetiva adaptação ao regime previsto na presente lei.\n\n6 - A inobservância do disposto nos n.os 2 a 4 determina a inaplicabilidade das normas dos estatutos das associações públicas profissionais que não sejam conformes com o disposto na presente lei, sendo diretamente aplicável o regime nesta consagrado.\n\n7 - Por força do disposto no artigo 6.º, as associações públicas profissionais devem, no prazo de um ano a contar da entrada em vigor da presente lei, cessar todas as atividades comerciais que extravasem os respetivos fins e atribuições, nomeadamente encerrando todos os estabelecimentos que explorem e alienando todas as participações que detenham em entidades comerciais com objeto diverso das suas atribuições.\n\n8 - Em caso de incumprimento do disposto no número anterior, o membro do Governo que exerce os poderes de tutela nos termos do n.º 3 do artigo 45.º pode determinar a aplicação de uma sanção pecuniária compulsória, fixada segundo critérios de razoabilidade e proporcionalidade, e cujo montante reverte para o Estado.\n\n9 - O montante diário da sanção pecuniária compulsória pode ser fixado entre (euro) 500 e (euro) 100 000, não podendo o valor acumulado ultrapassar o montante de (euro) 3 000 000 nem a duração máxima de 30 dias."
+  },
+  "70329511": {
+   "fragment_id": "70329610",
+   "type": 11,
+   "heading": "Artigo 54.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Norma revogatória\n\nÉ revogada a Lei n.º 6/2008, de 13 de fevereiro."
+  },
+  "70329512": {
+   "fragment_id": "70329611",
+   "type": 11,
+   "heading": "Artigo 55.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Entrada em vigor\n\nSem prejuízo do disposto nos n.os 3 e 5 do artigo 53.º, a presente lei entra em vigor 30 dias após a sua publicação."
+  },
+  "211113393": {
+   "fragment_id": "70326653",
+   "type": 11,
+   "heading": "Artigo 3.º — Constituição",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 3.º — Constituição\n\n1 - A constituição de associações públicas profissionais é excecional, podendo apenas ter lugar quando:\n\na) Visar a tutela de um interesse público de especial relevo que o Estado não possa assegurar diretamente;\n\nb) For adequada, necessária e proporcional para tutelar os bens jurídicos a proteger; e\n\nc) Respeitar apenas a profissões sujeitas aos requisitos previstos no artigo anterior.\n\n2 - A constituição de novas associações públicas profissionais é sempre precedida dos seguintes procedimentos:\n\na) Apresentação de estudo, elaborado por entidade de independência e mérito reconhecidos, sobre as exigências referidas no artigo anterior e o cumprimento dos requisitos previstos no número anterior, bem como sobre o seu impacte na regulação da profissão em causa;\n\nb) Audição das associações representativas da profissão e emissão de parecer de outras partes interessadas, nomeadamente reguladores de serviços prestados pelas profissões em questão, Conselho de Reitores das Universidades Portuguesas, Conselho Coordenador dos Institutos Superiores Politécnicos, associações científicas ou profissionais das áreas abrangidas, Autoridade da Concorrência e representantes dos consumidores;\n\nc) Submissão a consulta pública, por um período não inferior a 60 dias, de projetos de diploma de criação e de estatutos da associação pública profissional, acompanhado do estudo referido na alínea a).\n\n3 - A cada profissão regulada corresponde apenas uma única associação pública profissional, podendo esta representar mais do que uma profissão, desde que tenham uma base comum de natureza técnica ou científica.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113394": {
+   "fragment_id": "70326655",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 5.º — Atribuições\n\n1 - São atribuições das associações públicas profissionais, nos termos da lei:\n\na) A defesa dos interesses gerais dos destinatários dos serviços;\n\nb) A representação e a defesa dos interesses gerais da profissão, sem prejuízo do disposto no n.º 2;\n\nc) A regulação do acesso à profissão pelo reconhecimento de qualificações profissionais e, eventualmente, pela realização de estágio e a regulação do exercício da profissão em matéria disciplinar e deontológica;\n\nd) A concessão, em exclusivo, dos títulos profissionais das profissões que representem;\n\ne) A concessão, quando existam, dos títulos de especialidade profissional;\n\nf) A atribuição, quando existam, de prémios ou títulos honoríficos;\n\ng) A elaboração e a atualização do registo profissional que, sem prejuízo do Regulamento Geral sobre a Proteção de Dados, deve ser público;\n\nh) O exercício do poder disciplinar sobre os seus membros, realizando as necessárias ações de fiscalização sobre a sua atuação, podendo estabelecer protocolos com as entidades públicas dotadas de competências de fiscalização e regulação conexas com a atividade;\n\ni) A prestação de serviços aos seus membros, no respeitante ao exercício profissional, designadamente em relação à informação e à formação profissional;\n\nj) A colaboração com as demais entidades da Administração Pública na prossecução de fins de interesse público relacionados com a profissão;\n\nk) A participação na elaboração da legislação que diga respeito ao acesso e exercício das respetivas profissões;\n\nl) A participação nos processos oficiais de acreditação e na avaliação dos cursos que dão acesso à profissão;\n\nm) O reconhecimento de qualificações profissionais obtidas fora do território nacional, nos termos da lei, do direito da União Europeia ou de convenção internacional, cujos processos, sem prejuízo do Regulamento Geral sobre a Proteção de Dados, devem ser públicos;\n\nn) Quaisquer outras que lhes sejam cometidas por lei.\n\n2 - As associações públicas profissionais estão impedidas de exercer ou de participar em atividades de natureza sindical ou que se relacionem com a regulação das relações económicas ou profissionais dos seus membros.\n\n3 - As associações públicas profissionais não podem, por qualquer meio, seja ato ou regulamento, estabelecer restrições à liberdade de acesso e exercício da profissão em violação da lei e da Constituição, nem infringir as regras da concorrência na prestação de serviços profissionais, nos termos dos direitos nacional e da União Europeia.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113395": {
+   "fragment_id": "70326657",
+   "type": 11,
+   "heading": "Artigo 7.º — Criação e extinção",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 7.º — Criação e extinção\n\n1 - As associações públicas profissionais são criadas por lei.\n\n2 - O projeto de diploma de criação de cada associação pública profissional deve ser acompanhado de uma nota justificativa da necessidade da sua constituição, nos termos do artigo 3.º, bem como as opções que nele foram tomadas.\n\n3 - A lei de criação de cada associação pública profissional define os aspetos essenciais do seu regime, nomeadamente:\n\na) Denominação;\n\nb) Profissões abrangidas;\n\nc) Fins e atribuições.\n\n4 - As associações públicas profissionais são criadas por tempo indeterminado e só podem ser extintas, fundidas ou cindidas nos termos do presente artigo e verificadas as condições do artigo 3.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113396": {
+   "fragment_id": "70326658",
+   "type": 11,
+   "heading": "Artigo 8.º — Estatutos",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 8.º — Estatutos\n\n1 - Os estatutos das associações públicas profissionais são aprovados por lei e devem regular, com os limites definidos na presente lei, as seguintes matérias:\n\na) Âmbito de atuação, fins e atribuições;\n\nb) Aquisição e perda da qualidade de membro;\n\nc) Estágios profissionais ou outros, previstos em lei especial que sejam justificadamente necessários para o acesso e exercício da profissão, quando o estágio profissional não faça parte integrante do curso conferente da necessária habilitação académica;\n\nd) Número de períodos de formação por ano, nos casos em que esteja prevista a realização da mesma no âmbito do estágio profissional ou exame, devendo haver, pelo menos, um período de formação por semestre;\n\ne) Atos próprios da profissão, quando admitidos ao abrigo dos critérios estabelecidos no artigo 30.º;\n\nf) Categorias de membros, e seus direitos e deveres;\n\ng) Organização interna e competência dos órgãos;\n\nh) Incompatibilidades no respeitante ao exercício dos cargos associativos;\n\ni) Eleições e respetivo processo eleitoral;\n\nj) Princípios e regras deontológicos;\n\nk) Procedimento disciplinar e respetivas sanções;\n\nl) Regime económico e financeiro, em especial relativo à fixação, cobrança e repartição de quotas;\n\nm) Colégios de especialidades profissionais, se os houver;\n\nn) Regimes de incompatibilidades e de impedimentos relativos ao exercício da profissão, se os houver;\n\no) Reconhecimento das qualificações profissionais obtidas fora do território nacional, nos termos da lei, do direito da União Europeia ou de convenção internacional;\n\np) Provedor dos destinatários dos serviços.\n\n2 - Para os efeitos das alíneas c) e d) do número anterior, os estatutos estabelecem o regime do estágio de acesso à profissão ou, sendo o caso, do período formativo correspondente, nomeadamente, quanto aos seguintes aspetos:\n\na) Duração máxima do estágio, que não pode exceder 12 meses, a contar da data de inscrição e até à sua integração como membro efetivo da associação pública profissional, salvo em casos excecionais devidamente fundamentados pela natureza e complexidade da formação a ministrar, a definir nos respetivos estatutos, caso em que não pode exceder 18 meses, exceto se prazo superior resultar de obrigação do direito da União Europeia;\n\nb) Direitos e deveres do orientador ou patrono;\n\nc) Direitos e deveres do estagiário;\n\nd) Regime de suspensão e cessação do estágio;\n\ne) Seguro de acidentes pessoais;\n\nf) Seguro profissional.\n\n3 - A inscrição no estágio profissional, quando ao mesmo haja lugar, pode ocorrer a todo o tempo, iniciando-se nessa data o período a que se refere a alínea a) do número anterior.\n\n4 - A organização das fases eventuais de formação e de avaliação dos estágios profissionais referidos no número anterior é da responsabilidade das associações públicas profissionais respetivas, sem prejuízo de a lei definir o envolvimento de entidades públicas nos procedimentos de implementação ou de execução do estágio profissional ou regimes de financiamento das entidades formadoras públicas e, sendo caso disso, o envolvimento de entidades empregadoras públicas na realização dos estágios.\n\n5 - Sem prejuízo do disposto no número anterior, a definição das matérias a lecionar no período formativo, e, eventualmente, a avaliar em exame final, deve garantir a não sobreposição com matérias ou unidades curriculares que integram o curso conferente da necessária habilitação académica, nos termos definidos na alínea b) do n.º 2 do artigo 15.º-A, devendo as eventuais fases de formação ser também disponibilizadas na modalidade de ensino à distância, com diminuição das taxas a cobrar.\n\n6 - Nas situações em que a realização do estágio profissional ou do necessário processo formativo deva ocorrer em entidades empregadoras públicas, as matérias referidas nas alíneas c) e d) do n.º 1 são reguladas por decreto-lei.\n\n7 - As taxas cobradas durante o estágio profissional ou eventual período de formação obedecem aos critérios da adequação, necessidade e proporcionalidade, devendo os estatutos das associações públicas profissionais prever mecanismos de redução, isenção ou diferimento do seu pagamento, em caso de insuficiência económica comprovada do candidato.\n\n8 - Os estágios profissionais são remunerados nos termos a definir nos estatutos das respetivas associações públicas profissionais, de acordo com os critérios previstos no artigo 8.º-A.\n\n9 - A avaliação final do estágio é da responsabilidade de um júri independente, que deve integrar personalidades de reconhecido mérito, que não sejam membros da associação pública profissional.\n\n10 - Nos termos do disposto na alínea o) do n.º 1, as associações públicas profissionais não podem recusar o reconhecimento de habilitações académicas e profissionais obtidas no estrangeiro que estejam devidamente reconhecidas em Portugal ao abrigo da lei, do direito da União Europeia ou de convenção internacional, nem sujeitar os detentores dessas habilitações a provas, exames ou outro tipo de condições de acesso que não resultem expressamente das regras em vigor no momento do pedido.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211063256": {
+   "fragment_id": "211059826",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Remuneração do estágio",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 8.º-A — Remuneração do estágio\n\n1 - Sempre que a realização dos estágios referidos no artigo anterior implicar a prestação de trabalho, deve ser garantida ao estagiário a remuneração correspondente às funções desempenhadas.\n\n2 - Para os efeitos previstos no número anterior, considera-se que existe prestação de trabalho no âmbito do estágio quando, cumulativamente:\n\na) Exista um beneficiário da atividade desenvolvida pelo estagiário;\n\nb) A atividade seja desenvolvida pelo estagiário no âmbito da organização e sob a autoridade do beneficiário.\n\n3 - Na determinação da remuneração a atribuir ao estagiário devem ser observados os critérios constitucionais e legais, nomeadamente o princípio da igualdade de condições de trabalho.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211063257": {
+   "fragment_id": "70326659",
+   "type": 11,
+   "heading": "Artigo 9.º — Autonomia administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autonomia administrativa\n\n1 - No exercício dos seus poderes públicos as associações públicas profissionais praticam os atos administrativos necessários ao desempenho das suas funções e aprovam os regulamentos previstos na lei e nos estatutos.\n\n2 - Ressalvados os casos previstos na lei, os atos e regulamentos das associações públicas profissionais não estão sujeitos a aprovação governamental."
+  },
+  "211063258": {
+   "fragment_id": "70326660",
+   "type": 11,
+   "heading": "Artigo 10.º — Autonomia patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autonomia patrimonial e financeira\n\n1 - As associações públicas profissionais dispõem de património próprio e de finanças próprias, bem como de autonomia orçamental.\n\n2 - A autonomia financeira inclui o poder de fixar, nos termos da lei, o valor de:\n\na) Quota mensal ou anual dos seus membros;\n\nb) Taxas pelos serviços prestados, de acordo com critérios de proporcionalidade."
+  },
+  "211063259": {
+   "fragment_id": "70326661",
+   "type": 11,
+   "heading": "Artigo 11.º — Denominações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Denominações\n\n1 - As associações públicas profissionais têm a denominação «ordem profissional» quando correspondam a profissões cujo exercício é condicionado à obtenção prévia de uma habilitação académica de licenciatura ou superior e a denominação «câmara profissional» no caso contrário.\n\n2 - A utilização das denominações «ordem profissional» e «câmara profissional» bem como da denominação «colégio de especialidade profissional» é exclusiva das associações públicas profissionais ou seus organismos, respetivamente."
+  },
+  "211113397": {
+   "fragment_id": "70326662",
+   "type": 11,
+   "heading": "Artigo 12.º — Cooperação com outras entidades",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 12.º — Cooperação com outras entidades\n\n1 - As associações públicas profissionais podem constituir ou participar em associações de direito privado e cooperar com entidades afins, nacionais ou estrangeiras, especialmente no âmbito da União Europeia, do Espaço Económico Europeu e da Comunidade dos Países de Língua Portuguesa.\n\n2 - Para melhor desempenho das suas atribuições, as associações públicas profissionais podem estabelecer acordos de cooperação com outras entidades públicas ou privadas, nacionais ou estrangeiras, ressalvadas as entidades de natureza sindical ou política.\n\n3 - As associações públicas profissionais devem ainda prestar e solicitar às associações públicas profissionais ou autoridades administrativas competentes dos outros Estados-Membros e à Comissão Europeia assistência mútua e tomar as medidas necessárias para cooperar eficazmente, no âmbito dos procedimentos relativos a prestadores de serviços já estabelecidos em outro Estado-Membro, nos termos dos artigos 26.º a 29.º do Decreto-Lei n.º 92/2010, de 26 de julho, que estabelece os princípios e as regras necessárias para simplificar o livre acesso e exercício das atividades de serviços, do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, que transpõe para a ordem jurídica interna a Diretiva 2005/36/CE, e dos n.os 2 e 3 do artigo 19.º da Diretiva 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de junho de 2000, relativa a certos aspetos legais dos serviços da sociedade de informação, em especial do comércio eletrónico, no mercado interno, nomeadamente através do Sistema de Informação do Mercado Interno.\n\n4 - Em matéria de reconhecimento das qualificações profissionais, as associações públicas profissionais exercem as competências previstas no n.º 7 do artigo 47.º e no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, sob a coordenação da entidade que exerça as atribuições previstas no artigo 52.º da mesma lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113398": {
+   "fragment_id": "70326665",
+   "type": 11,
+   "heading": "Artigo 14.º — Colégios de especialidade profissionais",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 14.º — Colégios de especialidade profissionais\n\n1 - Sempre que a lei preveja a existência de especialidades profissionais, as associações públicas profissionais correspondentes podem organizar-se internamente em colégios de especialidade profissionais, de âmbito nacional.\n\n2 - Os estatutos estabelecem a organização e as competências dos colégios de especialidade profissionais, podendo prever, por razões imperiosas de interesse público ou inerentes à própria capacidade das pessoas, a sujeição a período de estágio ou probatório ou a realização de exame para a obtenção de título de especialidade profissional.\n\n3 - Nos casos em que a qualificação obtida noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu diga respeito ao exercício de atividades comparáveis àquelas exercidas pelos profissionais especializados em território nacional, o procedimento de reconhecimento de qualificações profissionais especializadas segue os termos do artigo 47.º da Lei n.º 9/2009, de 4 de março.\n\n4 - Sempre que uma especialidade obtida noutro Estado-Membro não tenha correspondência em Portugal e não seja possível reconhecer as qualificações do profissional de forma global com recurso a medidas de compensação, nos termos da alínea b) do n.º 1 do artigo 11.º da Lei n.º 9/2009, de 4 de março, o acesso às especialidades nacionais é regulado pelas disposições aplicáveis aos profissionais cujas qualificações de base foram obtidas em território nacional, sem qualquer discriminação, seguindo os termos do artigo 47.º da mesma lei, apenas o reconhecimento das qualificações profissionais de base.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113399": {
+   "fragment_id": "70326666",
+   "type": 11,
+   "heading": "Artigo 15.º — Órgãos",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 15.º — Órgãos\n\n1 - As associações públicas profissionais dispõem de órgãos próprios e a sua organização interna está sujeita ao princípio da separação de poderes.\n\n2 - Constituem órgãos obrigatórios das associações públicas profissionais, a eleger nos termos dos respetivos estatutos:\n\na) Uma assembleia representativa, com poderes deliberativos gerais, nomeadamente em matéria de aprovação do orçamento, do plano de atividades, e de projetos de alteração dos estatutos, de aprovação de regulamentos, de quotas e de taxas ou de criação de colégios de especialidade;\n\nb) Um órgão executivo colegial, que exerce poderes de direção e de gestão, nomeadamente em matéria administrativa e financeira, bem como no tocante à representação externa dos interesses da associação;\n\nc) Um órgão de supervisão, nos termos do artigo 15.º-A;\n\nd) Um órgão de fiscalização da gestão patrimonial e financeira, que inclui um revisor oficial de contas.\n\ne) Um órgão disciplinar, que deve integrar personalidades de reconhecido mérito com conhecimentos e experiência relevantes para a respetiva atividade, que não sejam membros da associação pública profissional;\n\nf) Um provedor dos destinatários dos serviços.\n\n3 - Os estatutos das associações públicas profissionais podem prever a existência de um presidente ou bastonário, como presidente do órgão executivo ou como órgão autónomo, com competências próprias, designadamente de representação externa da associação.\n\n4 - Os estatutos podem prever ainda a existência de outros órgãos para deliberar sobre questões de caráter geral, bem como órgãos técnicos e consultivos.\n\n5 - Os mandatos dos titulares dos órgãos das associações públicas profissionais não podem ser superiores a quatro anos, sendo renováveis apenas por uma vez.\n\n6 - A denominação dos órgãos é livremente escolhida pelo estatuto de cada associação pública profissional, ressalvada a designação «bastonário», que é privativa do presidente das ordens.\n\n7 - A assembleia representativa é eleita por sufrágio universal, direto, secreto e periódico.\n\n8 - A assembleia representativa é eleita através do sistema de representação proporcional, nos círculos territoriais definidos nos estatutos, podendo porém incluir uma representação das estruturas regionais, se existirem.\n\n9 - Em caso de eleição direta do presidente ou bastonário, deve ser observado o regime previsto na Constituição para a eleição do Presidente da República, com as necessárias adaptações.\n\n10 - O órgão de supervisão e o órgão disciplinar são independentes no exercício das suas funções.\n\n11 - As estruturas regionais e locais, se existirem, têm como órgãos obrigatórios a assembleia dos profissionais inscritos na respetiva circunscrição territorial e um órgão executivo eleito por aquela assembleia.\n\n12 - Os cargos executivos permanentes podem ser remunerados, nos termos dos estatutos ou do regulamento da associação.\n\n13 - As listas de candidatos aos órgãos eletivos das associações públicas profissionais devem promover a igualdade entre homens e mulheres, assegurando que a proporção de pessoas de cada sexo não seja inferior a 40 %, salvo se no universo eleitoral existir uma percentagem de pessoas do sexo menos representado inferior a 20 %.\n\n14 - Os presidentes do órgão executivo colegial estão sujeitos ao cumprimento das obrigações declarativas previstas na Lei n.º 52/2019, de 31 de julho.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211063261": {
+   "fragment_id": "211059827",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Órgão de supervisão",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 15.º-A — Órgão de supervisão\n\n1 - O órgão de supervisão é independente no exercício das suas funções, zela pela legalidade da atividade exercida pelos órgãos da associação e exerce poderes de controlo, nomeadamente em matéria de regulação do exercício da profissão.\n\n2 - Sem prejuízo de outras competências estabelecidas por lei, compete ao órgão de supervisão:\n\na) O exercício das atribuições previstas na alínea c) do n.º 1 do artigo 8.º, sob proposta do órgão colegial executivo, em especial a determinação das regras de estágio, incluindo a avaliação final, bem como a fixação de qualquer taxa referente às condições de acesso à inscrição na associação profissional;\n\nb) A verificação da não sobreposição das matérias a lecionar no período formativo e, eventualmente, a avaliar em exame final com as matérias ou unidades curriculares que integram o curso conferente da necessária habilitação académica, nos termos da primeira parte do n.º 5 do artigo 8.º, após parecer vinculativo da Agência de Avaliação e Acreditação do Ensino Superior, a emitir no prazo de 120 dias a contar do pedido;\n\nc) Acompanhar regularmente a atividade do órgão disciplinar, designadamente através da apreciação anual do respetivo relatório de atividades e da emissão de recomendações genéricas sobre os seus procedimentos;\n\nd) Acompanhar regularmente a atividade formativa da associação pública profissional, em especial a realização dos estágios de acesso à profissão, e a atividade de reconhecimento de competências obtidas no estrangeiro, designadamente, através da apreciação anual do respetivo relatório de atividades e da emissão de recomendações genéricas sobre os seus procedimentos;\n\ne) A supervisão da legalidade e conformidade estatutária e regulamentar da atividade exercida pelos órgãos da associação;\n\nf) A proposta de designação do provedor dos destinatários dos serviços, nos termos do n.º 2 do artigo 20.º;\n\ng) A destituição do provedor dos destinatários dos serviços por falta grave no exercício das suas funções, ouvido o órgão colegial executivo.\n\n3 - Sem prejuízo do disposto no número seguinte, o órgão de supervisão é composto por um número ímpar de membros a definir nos respetivos estatutos, incluindo:\n\na) 40 % representantes da profissão, inscritos na associação pública profissional;\n\nb) 40 % oriundos dos estabelecimentos de ensino superior que habilitem academicamente o acesso à profissão organizada em associação pública profissional, não inscritos na associação profissional;\n\nc) 20 % cooptados pelos membros referidos nas alíneas anteriores, por maioria absoluta, que sejam personalidades de reconhecido mérito, com conhecimentos e experiência relevantes para a atividade da associação pública profissional, não inscritos na associação profissional.\n\n4 - Os membros previstos nas alíneas a) e b) do número anterior são eleitos pelos inscritos na associação pública profissional, nos termos a definir nos respetivos estatutos.\n\n5 - O provedor dos destinatários dos serviços é, por inerência, membro do órgão de supervisão, sem direito de voto.\n\n6 - Os membros do órgão de supervisão elegem o presidente de entre os membros não inscritos na associação pública profissional.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113400": {
+   "fragment_id": "70326667",
+   "type": 11,
+   "heading": "Artigo 16.º — Elegibilidade",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 16.º — Elegibilidade\n\n1 - Qualquer profissional membro efetivo com a inscrição em vigor e no pleno exercício dos seus direitos pode votar e ser eleito para os órgãos da respetiva associação.\n\n2 - Os estatutos podem condicionar a elegibilidade para o cargo de membro dos órgãos com competências executivas à verificação de um tempo mínimo de exercício da profissão, nunca superior a cinco anos, e para o cargo de presidente, de bastonário ou de membro dos órgãos com competência disciplinar e de supervisão, nunca superior a 10 anos.\n\n3 - A designação dos membros dos órgãos das associações públicas profissionais não está sujeita a homologação governamental.\n\n4 - Não são elegíveis para os órgãos das associações públicas profissionais os associados que integrem os órgãos sociais das associações sindicais ou patronais do setor.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211063263": {
+   "fragment_id": "70326668",
+   "type": 11,
+   "heading": "Artigo 17.º — Poder regulamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Poder regulamentar\n\n1 - Os regulamentos das associações públicas profissionais aplicam-se aos seus membros e, bem assim, aos candidatos ao exercício da profissão.\n\n2 - A elaboração dos regulamentos segue o regime previsto no Código do Procedimento Administrativo, incluindo o disposto quanto à consulta pública e à participação dos interessados, com as devidas adaptações.\n\n3 - Os regulamentos das associações públicas profissionais com eficácia externa são publicados na 2.ª série do Diário da República, sem prejuízo da sua publicação na revista oficial ou no sítio eletrónico da associação."
+  },
+  "211113401": {
+   "fragment_id": "70326669",
+   "type": 11,
+   "heading": "Artigo 18.º — Poder disciplinar",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 18.º — Poder disciplinar\n\n1 - As associações públicas profissionais exercem, nos termos dos respetivos estatutos e com respeito, nomeadamente, pelos direitos de audiência e defesa, o poder disciplinar sobre os seus membros, inscritos nos termos dos artigos 24.º, 25.º e 37.º, bem como sobre os profissionais em livre prestação de serviços, na medida em que os princípios e regras deontológicos lhes sejam aplicáveis, nos termos dos n.os 2 e 6 do artigo 36.º\n\n2 - Os estatutos de cada associação pública profissional enunciam os factos que constituem infração disciplinar bem como as sanções disciplinares aplicáveis.\n\n3 - As sanções disciplinares de suspensão e de expulsão da associação pública profissional são aplicáveis apenas às infrações graves e muito graves praticadas no exercício da profissão, não podendo ter origem no incumprimento pelo membro do dever de pagar quotas ou de qualquer outro dever de natureza pecuniária.\n\n4 - Excetua-se do disposto no número anterior o incumprimento pelo membro do dever de pagar quotas que pode dar lugar à aplicação de sanção disciplinar de suspensão quando se apure que aquele incumprimento é culposo e se prolongue por um período superior a 12 meses.\n\n5 - Na situação prevista no número anterior, o pagamento voluntário das quotas em dívida determina a impossibilidade de aplicação de sanção disciplinar de suspensão ou a sua extinção, caso já tenha sido aplicada.\n\n6 - A sanção disciplinar de expulsão é aplicável quando, tendo em conta a natureza da profissão, a infração disciplinar tenha posto em causa a vida, a integridade física das pessoas ou seja gravemente lesiva da honra ou do património alheios ou de valores equivalentes, sem prejuízo do direito à reabilitação, nos termos dos respetivos estatutos.\n\n7 - O exercício das funções disciplinares das associações públicas profissionais é definido nos respetivos estatutos, competindo ao órgão disciplinar.\n\n8 - Nos casos omissos, são aplicáveis, com as necessárias adaptações, as normas procedimentais previstas no Estatuto Disciplinar dos Trabalhadores Que Exercem Funções Públicas.\n\n9 - Têm legitimidade para participar factos suscetíveis de constituir infração disciplinar ao órgão disciplinar e para recorrer jurisdicionalmente das decisões:\n\na) Os órgãos de governo da associação;\n\nb) O provedor dos destinatários dos serviços;\n\nc) O Ministério Público; e\n\nd) Qualquer pessoa direta ou indiretamente afetada pelos factos participados.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113402": {
+   "fragment_id": "70326670",
+   "type": 11,
+   "heading": "Artigo 19.º — Incompatibilidades no exercício de funções",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 19.º — Incompatibilidades no exercício de funções\n\n1 - O exercício de funções executivas, disciplinares, de fiscalização e de supervisão em órgãos das associações públicas profissionais é incompatível entre si.\n\n2 - O exercício de funções pelos inscritos nas associações públicas profissionais nos seus órgãos é incompatível com:\n\na) O exercício de quaisquer funções dirigentes na função pública;\n\nb) A titularidade de órgãos sociais das associações sindicais ou patronais do setor.\n\n3 - O exercício de funções nos órgãos sociais das associações públicas profissionais é incompatível com a titularidade de órgãos sociais de associações de representação de interesses suscetíveis de gerar conflitos de interesses, competindo ao conselho de supervisão avaliar e pronunciar-se sobre a sua existência.\n\n4 - Os estatutos das associações públicas profissionais podem prever outras incompatibilidades necessárias à salvaguarda do interesse público e da autonomia e independência em relação à respetiva profissão, bem como adaptar o regime previsto no n.º 2 às especificidades do exercício da respetiva atividade profissional regulada.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113403": {
+   "fragment_id": "70326671",
+   "type": 11,
+   "heading": "Artigo 20.º — Provedor dos destinatários dos serviços",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 20.º — Provedor dos destinatários dos serviços\n\n1 - Sem prejuízo do estatuto do Provedor de Justiça, as associações públicas profissionais designam uma personalidade independente, não inscrita na associação pública profissional, com a função de defender os interesses dos destinatários dos serviços profissionais prestados pelos membros daquelas.\n\n2 - O provedor dos destinatários dos serviços é designado pelo bastonário ou presidente da associação pública profissional, sob proposta do órgão de supervisão, e não pode ser destituído, salvo por falta grave no exercício das suas funções.\n\n3 - Sem prejuízo das demais competências previstas na lei ou nos estatutos, compete ao provedor analisar as queixas apresentadas pelos destinatários dos serviços e fazer recomendações para a sua resolução, bem como em geral para o aperfeiçoamento do desempenho da associação.\n\n4 - As funções de provedor são remuneradas nos termos regulados no estatuto ou em regulamento da associação pública profissional.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113404": {
+   "fragment_id": "70326672",
+   "type": 11,
+   "heading": "Artigo 21.º — Referendo interno",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 21.º — Referendo interno\n\n1 - Os estatutos das associações públicas profissionais podem prever a submissão a referendo, com caráter vinculativo ou consultivo, mediante deliberação da assembleia representativa, sobre questões de particular relevância para a associação que caibam nas respetivas atribuições.\n\n2 - São obrigatoriamente submetidas a referendo interno as propostas de dissolução da associação.\n\n3 - Os estatutos de cada associação pública profissional podem especificar outras questões a submeter obrigatoriamente a referendo interno.\n\n4 - A realização de referendos é obrigatoriamente precedida da verificação da sua conformidade legal ou estatutária pelo órgão de supervisão previsto na alínea c) do n.º 2 do artigo 15.º\n\n5 - O referendo só é vinculativo se nele participar mais de metade dos membros da associação pública profissional, ou se a proposta submetida a referendo obtiver mais de 66 % dos votos e a participação for superior a 40 % dos membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211063268": {
+   "fragment_id": "70326673",
+   "type": 11,
+   "heading": "Artigo 22.º — Balcão único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Balcão único\n\n1 - Todos os pedidos, comunicações e notificações ou declarações relacionados com a profissão organizada em associação pública profissional entre a associação e o profissional, sociedade de profissionais ou prestadores de serviços referidos na parte final do n.º 2 do artigo 24.º, com exceção dos relativos a procedimentos disciplinares, são efetuados por transmissão eletrónica de dados, através do balcão único eletrónico dos serviços, acessível através do sítio na Internet da respetiva associação pública profissional.\n\n2 - A apresentação de documentos em forma simples nos termos do número anterior dispensa a remessa dos documentos originais, autênticos, autenticados ou certificados, sem prejuízo do disposto nas alíneas a) e c) do n.º 3 e nos n.os 4 e 5 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n3 - Quando não for possível o cumprimento do disposto no n.º 1, por motivos de indisponibilidade das plataformas eletrónicas, bem como nos casos em que o interessado não disponha de meios que lhe permitam aceder às mesmas, a transmissão da informação em apreço pode ser feita por entrega nos serviços da associação profissional respetiva, por remessa pelo correio sob registo, por telecópia ou por correio eletrónico.\n\n4 - São ainda aplicáveis aos procedimentos que decorram entre a associação e o profissional ou sociedade de profissionais o disposto nas alíneas d) e e) do artigo 5.º e no n.º 1 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho."
+  },
+  "211063269": {
+   "fragment_id": "70326674",
+   "type": 11,
+   "heading": "Artigo 23.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Transparência\n\nSem prejuízo do disposto no n.º 3 do artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e do n.º 4 do artigo 19.º da Diretiva n.º <a href=\"eurlex.asp?ano=2000&id=300L0031\" title=\"Link para Directiva da Comunidade Europeia\">2000/31/CE</a>, do Parlamento Europeu e do Conselho, de 8 de junho de 2000, relativa a certos aspetos legais dos serviços da sociedade de informação, em especial do comércio eletrónico, no mercado interno, as associações públicas profissionais devem disponibilizar ao público em geral, através do sítio eletrónico da associação, pelo menos, as seguintes informações:\n\na) Regime de acesso e exercício da profissão;\n\nb) Princípios e regras deontológicos e normas técnicas aplicáveis aos seus associados;\n\nc) Registo atualizado dos respetivos profissionais inscritos que contemple, pelo menos:\n\ni) O nome, o domicílio profissional e o número de carteira ou cédula profissionais;\n\nii) A designação do título e das especialidades profissionais;\n\niii) A situação de suspensão ou interdição temporária do exercício da atividade, se for caso disso;\n\nd) Registo atualizado dos profissionais em livre prestação de serviços no território nacional, que se consideram inscritos nos termos do n.º 2 do artigo 4.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, que contemple, pelo menos:\n\ni) O nome e o domicílio profissionais e, caso exista, a designação do título profissional de origem e das respetivas especialidades;\n\nii) A identificação da associação pública profissional no Estado membro de origem, na qual o profissional se encontre inscrito;\n\niii) A situação de suspensão ou interdição temporária do exercício da atividade, se for caso disso;\n\niv) A informação relativa às sociedades de profissionais ou outras formas de organização associativa de profissionais para que prestem serviços no Estado membro de origem, caso aqui prestem serviços nessa qualidade;\n\ne) Registo atualizado de sociedades de profissionais e de outras formas de organização associativa inscritas que contemple, nomeadamente, a designação, a sede, o número de inscrição e o número de identificação fiscal ou equivalente;\n\nf) Registo atualizado dos demais prestadores de serviços profissionais referidos na parte final do n.º 2 do artigo seguinte, caso exista a obrigação de registo, que contemple o respetivo nome ou designação e o seu domicílio, sede ou estabelecimento principal;\n\ng) Procedimento de apresentação de queixa ou reclamações pelos destinatários relativamente aos serviços prestados pelo profissional no âmbito da sua atividade;\n\nh) Ofertas de emprego na associação pública profissional."
+  },
+  "211113405": {
+   "fragment_id": "70329576",
+   "type": 11,
+   "heading": "Artigo 24.º — Acesso e registo",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 24.º — Acesso e registo\n\n1 - Sem prejuízo do disposto no artigo 36.º, o exercício de profissão organizada em associação pública profissional, seja a título individual seja sob a forma de sociedade de profissionais ou outra organização associativa de profissionais nos termos do n.º 4 do artigo 37.º, depende de inscrição prévia enquanto membro daquela associação pública, salvo se regime diferente for estabelecido na lei de criação da respetiva associação.\n\n2 - A lei pode estender a obrigação de inscrição prevista no número anterior a todos os profissionais e sociedades de profissionais ou outras organizações associativas de profissionais a prestar serviços em território nacional nos termos do n.º 4 do artigo 37.º e impor ainda uma obrigação de registo em associação pública profissional aos demais prestadores de serviços profissionais, estabelecidos em território nacional, empregadores ou subcontratantes de profissionais qualificados, que envolvam a prática de atos próprios da profissão em causa, salvo se aqueles estiverem abrangidos por outro registo público obrigatório de âmbito setorial.\n\n3 - Caso seja exigido, nos termos do número anterior, o registo de empregadores ou subcontratantes de profissionais que, não sendo profissionais qualificados, sociedades de profissionais ou outra organização associativa de profissionais a prestar serviços em território nacional nos termos do n.º 4 do artigo 37.º, prestem ainda assim serviços profissionais a terceiros, não pode o mesmo assumir caráter de permissão administrativa nem o seu incumprimento determinar a interdição do exercício da atividade.\n\n4 - A inscrição para estágio de acesso à profissão, caso seja obrigatório, depende apenas da titularidade da habilitação legalmente exigida para o exercício da profissão.\n\n5 - Os requisitos de que depende a inscrição definitiva em associação pública profissional são taxativamente fixados na lei de criação da associação ou na lei de regulação da profissão.\n\n6 - Para efeitos do número anterior, a inscrição definitiva de profissional depende apenas da titularidade da habilitação legalmente exigida para o exercício da profissão e, caso sejam justificadamente necessários para o exercício desta, por razões imperiosas de interesse público ou inerentes à própria capacidade das pessoas, do cumprimento de algum dos seguintes requisitos:\n\na) Verificação das capacidades profissionais pela sujeição a estágio profissional ou outro, previstos em lei especial, nos termos e com os limites definidos na presente lei;\n\nb) Formação e verificação dos conhecimentos relativos ao código deontológico da profissão;\n\nc) Realização de exame final de estágio com o objetivo de avaliar os conhecimentos e as competências necessárias para a prática de atos de confiança pública, a realizar por um júri independente, nos termos e com os limites definidos na presente lei.\n\n7 - Sem prejuízo do disposto n.º 1 do artigo 33.º, em caso algum pode verificar-se a fixação de numerus clausus no acesso à profissão, incluindo a qualquer especialidade, associado ou não a restrições territoriais em função da população ou de distâncias geográficas entre profissionais ou suas sociedades e organizações associativas, ou a acreditação, pelas associações públicas profissionais, de cursos oficialmente reconhecidos.\n\n8 - Salvo disposição legal em contrário, a concessão de permissões administrativas para o acesso à profissão, individualmente ou em sociedade de profissionais ou outra organização associativa de profissionais nos termos do n.º 4 do artigo 37.º, não está sujeita ao princípio do deferimento tácito, sendo no entanto sempre aplicável o disposto na alínea a) do n.º 2 do artigo 9.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113406": {
+   "fragment_id": "70329577",
+   "type": 11,
+   "heading": "Artigo 25.º — Inscrição",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 25.º — Inscrição\n\n1 - Têm direito a inscrever-se nas associações públicas profissionais todos os que preencham os requisitos legais para o acesso à profissão e a desejem exercer, individualmente, em sociedade de profissionais ou em sociedade multidisciplinar.\n\n2 - Em caso de aplicação de pena que tenha como efeito a interdição definitiva do exercício da profissão, cessa automaticamente a inscrição na associação pública profissional, sem prejuízo do direito à reabilitação, nos termos dos respetivos estatutos.\n\n3 - Sem prejuízo do regime de reconhecimento de qualificações obtidas fora de Portugal por nacional de Estado membro da União Europeia ou do Espaço Económico Europeu, os requisitos referidos no n.º 1 não podem ser discriminatórios em razão da nacionalidade, do local de residência ou do domicílio profissional de cidadão de Estado membro, nem em razão da nacionalidade, do local de constituição, sede ou administração principal noutro Estado membro de sociedade de profissionais ou outra forma de organização associativa de profissionais, nos termos do n.º 1 do artigo 10.º do Decreto-Lei n.º 92/2010, de 26 de julho, nem violar o disposto na alínea a) do n.º 1 do artigo 11.º daquele decreto-lei.\n\n4 - O disposto no número anterior não prejudica a imposição de requisitos específicos aos profissionais ou às suas sociedades ou organizações associativas, diretamente justificados por critérios objetivos com base no exercício da autoridade pública que o exercício da profissão comporte, na missão específica de interesse público em causa ou em razões de ordem, segurança e saúde públicas, nomeadamente a necessidade de manter em território nacional arquivo documental, a imposição de atuação concertada com profissional estabelecido de forma imediata no território nacional ou a necessidade de indicar um domicílio, próprio ou de outro profissional, em território nacional, para receção de citações e notificações, salvo quando a lei admitir a citação e notificação por telecópia ou sistema eletrónico de informação e tal seja expressamente aceite pelo profissional.\n\n5 - É proibida a imposição dos pressupostos, dos requisitos e das condições referidos nas alíneas b) a h) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n6 - Todas as restrições ao acesso e exercício de determinada profissão, incluindo as referentes a qualificações profissionais, devem fundamentar-se em razões imperiosas de interesse público, nomeadamente atendendo à missão específica de interesse público em causa, em função da autoridade pública que o exercício da profissão comporte, ou em razões inerentes à própria capacidade da pessoa.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113407": {
+   "fragment_id": "70329578",
+   "type": 11,
+   "heading": "Artigo 26.º — Exercício da profissão em geral",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 26.º — Exercício da profissão em geral\n\n1 - Sem prejuízo das normas técnicas e dos princípios e regras deontológicos aplicáveis, o exercício da profissão deve observar o princípio da livre concorrência, bem como as regras da defesa da concorrência e de proteção contra a concorrência desleal.\n\n2 - Sem prejuízo do disposto no n.º 1 do artigo 33.º, a permissão para o acesso e exercício de uma profissão organizada em associação pública profissional é concedida por tempo indeterminado e só pode caducar quando deixem de se verificar os pressupostos, os requisitos ou as condições de que depende a sua concessão, não podendo a referida permissão ser sujeita a qualquer outro termo ou condição.\n\n3 - Sem prejuízo do disposto n.º 1 do artigo 33.º, não podem ser estabelecidas restrições territoriais ou ao número de estabelecimentos, imposições de números mínimos de trabalhadores ou de prestadores de serviços, nem restrições à fixação de preços a praticar ou imposições de serviços a prestar a par dos serviços contratados no exercício de profissão organizada em associação pública profissional.\n\n4 - Os prestadores de serviços profissionais, incluindo as sociedades de profissionais, as sociedades multidisciplinares ou outras formas de organização associativa de profissionais referidas no n.º 4 do artigo 37.º e os demais empregadores ou subcontratantes de profissionais, ficam sujeitos aos requisitos constantes dos n.os 1 e 2 do artigo 19.º e dos artigos 20.º e 22.º do Decreto-Lei n.º 92/2010, de 26 de julho, e ainda, no que se refere a serviços prestados por via eletrónica, ao disposto no artigo 10.º do Decreto-Lei n.º 7/2004, de 7 de janeiro, que transpõe para a ordem jurídica nacional a Diretiva 2000/31/CE.\n\n5 - O disposto no número anterior não se aplica aos serviços e organismos da administração direta e indireta do Estado, das regiões autónomas e das autarquias locais, nem às demais pessoas coletivas públicas não empresariais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113408": {
+   "fragment_id": "70329579",
+   "type": 11,
+   "heading": "Artigo 27.º — Sociedades de profissionais e multidisciplinares",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 27.º — Sociedades de profissionais e multidisciplinares\n\n1 - Podem ser constituídas sociedades de profissionais que tenham por objeto principal o exercício de profissões organizadas numa única associação pública profissional.\n\n2 - Podem ainda ser constituídas sociedades multidisciplinares de profissionais para exercício de profissões organizadas em associações públicas profissionais, juntamente com outras profissões organizadas ou não em associações públicas profissionais, desde que:\n\na) A sociedade garanta o cumprimento do regime de incompatibilidades e impedimentos aplicável, bem como de prevenção de conflitos de interesses, devendo, na ausência de medidas que garantam a inexistência de tais conflitos, a prestação de serviços ser recusada ou cessada;\n\nb) Os responsáveis pela orientação e execução de funções de interesse público sejam profissionais qualificados;\n\nc) Seja garantida a independência técnica, a proteção de informação de clientes e a observância dos deveres deontológicos aplicáveis a cada atividade profissional desenvolvida;\n\nd) A sociedade seja dotada de um sistema interno de salvaguarda do sigilo profissional.\n\n3 - As sociedades profissionais referidas nos números anteriores, constituídas em Portugal, podem ser sociedades civis ou assumir qualquer forma jurídica admissível por lei para o exercício de atividades comerciais.\n\n4 - Podem ser sócios, gerentes ou administradores das sociedades referidas nos números anteriores pessoas que não possuam as qualificações profissionais exigidas para o exercício das profissões organizadas na associação pública profissional respetiva, ficando vinculados aos deveres deontológicos aplicáveis ao exercício das profissões abrangidas, designadamente aos deveres de sigilo, quando existam.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113409": {
+   "fragment_id": "70329581",
+   "type": 11,
+   "heading": "Artigo 29.º — Incompatibilidades e impedimentos",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 29.º — Incompatibilidades e impedimentos\n\nOs estatutos podem prever regras relativas a incompatibilidades e impedimentos no exercício da profissão, desde que respeitem o disposto na presente lei, se mostrem necessárias e proporcionais ao objetivo de garantir a independência, imparcialidade e integridade da profissão e, caso se justifique, o segredo profissional, e não possam ser substituídas por alternativas menos restritivas da liberdade profissional.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113410": {
+   "fragment_id": "70329582",
+   "type": 11,
+   "heading": "Artigo 30.º — Reserva de atividade",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 30.º — Reserva de atividade\n\n1 - Sem prejuízo do disposto na alínea b) do artigo 358.º do Código Penal, as atividades profissionais associadas a cada profissão só lhe são reservadas quando tal resulte expressamente da lei, fundada em razões imperiosas de interesse público constitucionalmente protegido, segundo critérios de adequação, necessidade e proporcionalidade, com enumeração taxativa das atividades reservadas.\n\n2 - Os serviços profissionais que envolvam a prática de atos próprios de cada profissão e se destinem a terceiros, ainda que prestados em regime de subordinação jurídica, são exclusivamente assegurados por profissionais legalmente habilitados para praticar aqueles atos.\n\n3 - O disposto no número anterior não se aplica aos trabalhadores dos serviços e organismos da administração direta e indireta do Estado, das regiões autónomas e das autarquias locais, nem das demais pessoas coletivas públicas não empresariais no âmbito das respetivas funções, exceto se a tal estiverem obrigados pelos estatutos das respetivas associações públicas profissionais.\n\n4 - As associações públicas profissionais não podem, por qualquer meio, estabelecer atividades reservadas nem proceder à definição de atos próprios da profissão, para além dos que constem dos respetivos estatutos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113413": {
+   "fragment_id": "70329585",
+   "type": 11,
+   "heading": "Artigo 33.º — Serviços profissionais de interesse económico geral e exercício de poderes de autoridade pública",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 33.º — Serviços profissionais de interesse económico geral e exercício de poderes de autoridade pública\n\n1 - (Revogado.)\n\n2 - Aos profissionais nacionais de Estado membro da União Europeia ou do Espaço Económico Europeu qualificados fora de Portugal para o exercício de atividades comparáveis a atividades que, em Portugal, estão relacionadas com o exercício de poderes de autoridade pública, nos termos do artigo 51.º do Tratado sobre o Funcionamento da União Europeia, não são aplicáveis os regimes previstos no Decreto-Lei n.º 7/2004, de 7 de janeiro, alterado pelo Decreto-Lei n.º 62/2009, de 10 de março, e pela Lei n.º 46/2012, de 29 de agosto, na Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, e no Decreto-Lei n.º 92/2010, de 26 de julho, na medida daquele exercício de poderes de autoridade.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113411": {
+   "fragment_id": "70329601",
+   "type": 11,
+   "heading": "Artigo 46.º — Controlo jurisdicional",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 46.º — Controlo jurisdicional\n\n1 - Os regulamentos e as decisões das associações públicas profissionais praticadas no exercício de poderes públicos estão sujeitos ao contencioso administrativo, nos termos das leis do processo administrativo.\n\n2 - Sem prejuízo do disposto no Código de Processo nos Tribunais Administrativos, têm legitimidade para impugnar a legalidade dos atos e regulamentos das associações públicas profissionais:\n\na) Os interessados, nos termos das leis do processo administrativo;\n\nb) O Ministério Público;\n\nc) O membro do Governo que exerce os poderes de tutela sobre a respetiva associação pública profissional;\n\nd) O Provedor de Justiça.\n\ne) O provedor dos destinatários dos serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "211113412": {
+   "fragment_id": "70329603",
+   "type": 11,
+   "heading": "Artigo 48.º — Relatório anual e deveres de informação",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+   ],
+   "markdown": "###### Artigo 48.º — Relatório anual e deveres de informação\n\n1 - As associações públicas profissionais elaboram anualmente um relatório sobre o desempenho das suas atribuições, o qual deve ser apresentado à Assembleia da República e ao Governo, até 31 de março de cada ano, do qual deve constar, especialmente, informação sobre o exercício do poder regulatório, nomeadamente sobre registo profissional, reconhecimento de qualificações e poder disciplinar.\n\n2 - Os relatórios referidos no número anterior devem ser apreciados na comissão parlamentar competente em razão de matéria, até 30 de junho de cada ano.\n\n3 - As associações públicas profissionais prestam à Assembleia da República e ao Governo toda a informação que lhes seja solicitada relativamente ao exercício das suas atribuições.\n\n4 - Os bastonários e os presidentes dos órgãos executivos devem corresponder ao pedido das comissões parlamentares competentes para prestarem as informações e esclarecimentos de que estas necessitem.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 12/2023 - Diário da República n.º 62/2023, Série I de 2023-03-28](https://diariodarepublica.pt/dr/detalhe/lei/12-2023-211059785), em vigor a partir de 2023-04-27, produz efeitos a partir de 2023-06-26"
+  },
+  "70329513": {
+   "fragment_id": "70329612",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de novembro de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 27 de dezembro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 28 de dezembro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

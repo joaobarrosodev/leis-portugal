@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:328258:por
+title: Portaria n.º 61/85
+short_title: null
+summary: Introduz alterações à Portaria n.º 31-M/85, de 12 de Janeiro, que actualiza as taxas tarifárias a aplicar na facturação
+  dos fornecimentos de energia eléctrica
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura e do Comércio e Turismo - Secretarias de Estado do Comércio e Indústria Agrícolas e do Comércio
+  Interno
+proposing_entity: null
+official_number: 61/85
+official_date: null
+publication_date: '1985-01-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 25/1985, Série I de 1985-01-30
+  number: '25'
+  series: I
+  supplement: null
+  pages: 243 - 244
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/01/02500/02430244.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '328258'
+  dre_path: /dr/detalhe/portaria/61-1985-328258
+  internal: pt:dre:328258:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-1985-328258
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/61-1985-328258
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-01-30T00:00:00Z'
+integrity:
+  source_sha256: e166a1a2d6f49476ff349570964ca00a80f95e49c1e106090586027aed9a32b9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-61-328258.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 61/85
+
+de 30 de Janeiro
+
+O texto da [Portaria n.º 31-M/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-m-1985-162787), de 12 de Janeiro, foi distribuído para publicação sem que, por lapso, houvessem sido tempestivamente rectificadas certas imprecisões terminológicas ou até diferenças de valores, de resto significativamente inferiores aos que a publicação revela.
+
+Embora de carácter intrinsecamente rectificador, as alterações a introduzir representam objectivamente, porém, modificações do texto original, razão por que se impõe o recurso à publicação de diploma de idêntico valor formal.
+
+Nestes termos, ao abrigo do n.º 1 do artigo 1.º do [Decreto-Lei n.º 344-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-a-1982-621691), de 1 de Setembro, e do [Decreto-Lei n.º 351/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/351-1983-454066), de 1 de Agosto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Indústria e Energia, introduzir na [Portaria n.º 31-M/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-m-1985-162787), de 12 de Janeiro, as seguintes alterações:
+
+1.º A expressão «obrigaram» inserta na 1. 9 do preâmbulo deverá ser substituída pela expressão «obrigariam».
+
+2.º No n.º 1 do n.º 2.º, onde se lê «no valor de 10%» deve ler-se «no valor de 8%».
+
+3.º No n.º 2 do n.º 2.º, onde se lê «no valor de 350$00 por kilowatt» deve ler-se «no valor de 325$00 por kilowatt».
+
+4.º No quadro 1 anexo à portaria, onde se lê «Tensão de entrega: Baixa:» deve ler-se «Tensão de entrega: Baixa (f):».
+
+5.º O disposto na presente portaria reporta a sua eficácia à data da publicação da [Portaria n.º 31-M/85](https://diariodarepublica.pt/dr/detalhe/portaria/31-m-1985-162787), de 12 de Janeiro.
+
+Ministério da Indústria e Energia.
+
+**Assinada em 21 de Janeiro de 1985.**
+
+**O Ministro da Indústria e Energia, José Veiga Simão.**

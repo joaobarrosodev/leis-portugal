@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:549002:por
+title: Decreto n.º 47/89
+short_title: null
+summary: Aprova o Acordo de Cooperação entre a República Portuguesa e a República Democrática de São Tomé e Príncipe no Domínio
+  da Engenharia Civil
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 47/89
+official_date: null
+publication_date: '1989-10-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 239/1989, Série I de 1989-10-17
+  number: '239'
+  series: I
+  supplement: null
+  pages: 4544 - 4545
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23900/45444545.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '549002'
+  dre_path: /dr/detalhe/decreto/47-1989-549002
+  internal: pt:dre:549002:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/47-1989-549002
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47-1989-549002
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-10-17T00:00:00Z'
+integrity:
+  source_sha256: 6e565b013d799558ccf21e2eba985c538fb816899d9913f650547cc8cce50dcf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-47-549002.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 47/89
+
+de 17 de Outubro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado o Acordo de Cooperação entre a República Portuguesa e a República Democrática de São Tomé e Príncipe no Domínio da Engenharia Civil, feito em São Tomé, a 8 de Novembro de 1988, cujo texto original, em português, vai anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 7 de Setembro de 1989. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro - João Maria Leitão de Oliveira Martins.
+
+**Assinado em 26 de Setembro de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 1 de Outubro de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+ACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DEMOCRÁTICA DE SÃO TOMÉ E PRÍNCIPE NO DOMÍNIO DA ENGENHARIA CIVIL.
+
+O Governo da República Portuguesa e o Governo da República Democrática de São Tomé e Príncipe, em conformidade com as disposições dos acordos de cooperação entre os dois países e no desejo de contribuírem para a realização de objectivos de interesse comum, acordam, pelo presente Acordo, os princípios gerais pelos quais se regerá a cooperação técnica no domínio da engenharia civil.
+
+###### Artigo 1.º — Objecto
+
+O presente Acordo estabelece o âmbito e as formas de cooperação a concretizar nos domínios da engenharia civil e das ciências afins, através dos departamentos governamentais adequados, a saber, o Laboratório Nacional de Engenharia Civil (LNEC) e o Instituto para a Cooperação Económica (ICE), pelo lado português, e o Ministério do Equipamento Social e Ambiente (MESA) e o Ministério da Cooperação (MC), pelo lado são-tomense.
+
+###### Artigo 2.º — Acções de cooperação
+
+As acções de cooperação a empreender inserir-se-ão nos domínios que se referem a seguir, sem prejuízo de outros que, no futuro, se venham a definir:
+
+1 - Consultoria e apoio técnico
+
+O LNEC apoiará o MESA mediante consultoria respeitante a problemas que lhe sejam postos, dentro do seu domínio de acção, nomeadamente respeitantes a materiais de construção, urbanização e edifícios, transportes, estruturas, energia, conservação do ambiente e informática.
+
+2 - Documentação
+
+O LNEC procurará concretizar as seguintes acções de apoio:
+
+a) Envio ao MESA de todas as publicações e fichas bibliográficas que edite nos domínios de interesse daquele Ministério;
+
+b) Apoio à organização de centros de documentação;
+
+c) Informação sobre a realização de reuniões que possam interessar ao MESA.
+
+3 - Formação de quadros
+
+O LNEC proporcionará as seguintes acções de formação de quadros técnicos do MESA:
+
+a) Frequência de cursos, seminários e sessões de informação técnica realizados pelo LNEC em Portugal, podendo, em alguns casos, ser encarada a realização de acções deste tipo na República Democrática de São Tomé e Príncipe;
+
+b) Realização de estágios no LNEC.
+
+###### Artigo 3.º — Gestão do Acordo
+
+1 - A gestão do Acordo será feita por uma comissão coordenadora com carácter permanente, que integrará um elemento de cada instituição, competindo-lhe:
+
+a) Elaborar os programas de trabalho anuais;
+
+b) Velar pelo cumprimento dos programas;
+
+c) Elaborar, no final de cada ano, um relatório sobre as actividades exercidas, com eventuais propostas para a melhoria da cooperação.
+
+2 - A definição das linhas gerais do programa respeitante a cada ano será feita até 15 de Novembro do ano anterior.
+
+O programa de trabalhos detalhado, incluindo a definição dos meios financeiros e outros necessários, será submetido aos órgãos directivos das quatro entidades pela comissão coordenadora, de modo a estar aprovado até 15 de Dezembro de cada ano.
+
+Os relatórios de actividade deverão estar concluídos até 31 de Janeiro do ano seguinte.
+
+###### Artigo 4.º — Encargos e financiamento
+
+1 - Serão gratuitos os apoios do LNEC que não envolvam deslocações dos seus técnicos e referentes a:
+
+a) Fornecimento de publicações editadas pelo LNEC e fichas bibliográficas;
+
+b) Informação sobre reuniões nacionais ou internacionais e outros assuntos de interesse para o MESA;
+
+c) Formação e aperfeiçoamento de quadros do MESA através da realização de estágios no LNEC ou da frequência de cursos ou seminários organizados por este nas suas instalações. Na medida do possível, o LNEC concederá alojamento gratuito nas suas instalações ao pessoal do MESA.
+
+2 - Os trabalhos respeitantes à aquisição de equipamento e materiais ou à reparação de aparelhagem para satisfazer solicitações específicas do MESA serão pagos pelos valores das respectivas facturas, acrescidos de eventuais encargos de transportes e de uma taxa de 20% destinada a ter em conta os encargos administrativos e financeiros do LNEC com aquelas operações.
+
+3 - Os trabalhos de índole técnica que decorram no Laboratório Nacional de Engenharia Civil, em Lisboa, serão facturados de acordo com os critérios em uso naquela instituição e com base no «impresso LNEC-305», nas «tabelas de preços de ensaios correntes», bem como na «tabela actualizada dos valores de imputação de mão-de-obra».
+
+4 - Para trabalhos a conduzir na República Democrática de São Tomé e Príncipe por pessoal do LNEC, ou por este para o efeito contratado, serão ainda da responsabilidade do MESA:
+
+a) A obtenção de vistos de entrada em território da República Democrática de São Tomé e Príncipe;
+
+b) As autorizações para deslocações no país, sempre que necessárias;
+
+c) A obtenção dos meios necessários para as deslocações em terra, no ar ou no mar;
+
+d) O fornecimento de refeições e de alojamento compatíveis com a categoria do pessoal deslocado, durante o período da deslocação;
+
+e) A assistência médica e medicamentosa;
+
+f) O restante apoio técnico ou administrativo local para o bom êxito das missões;
+
+g) O pagamento dos encargos com o seguro de vida, acidentes pessoais e profissionais do pessoal do LNEC deslocado.
+
+5 - O ICE suportará os encargos com as acções de formação a levar a efeito em Portugal através da concessão de bolsas e poderá participar nos custos das acções de formação a realizar na República Democrática de São Tomé e Príncipe, de acordo com os programas anuais que venham a ser aprovados.
+
+6 - O suporte financeiro das acções decorrentes da aplicação deste Acordo, constantes dos programas anuais aprovados, será assegurado pela conjugação das disponibilidades de verbas do ICE nos termos já referidos no número anterior, da utilização das linhas de crédito autorizadas pelos bancos centrais dos dois países, dos meios de pagamento internos da República Democrática de São Tomé e Príncipe e ainda de meios externos mobilizáveis por este país junto de outras origens.
+
+###### Artigo 5.º — Validade
+
+O presente Acordo entrará em vigor na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica interna de cada um dos países e será válido por um período anual, automaticamente prorrogável, podendo ser denunciado por qualquer das partes, mediante comunicação escrita à outra, com antecedência mínima de 90 dias sobre a data do período de entrada em vigor.
+
+Feito em São Tomé, aos 8 de Novembro de 1988, em dois exemplares em língua portuguesa, fazendo ambos igualmente fé.
+
+Pela República Portuguesa:
+
+José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
+
+Pela República Democrática de São Tomé e Príncipe:
+
+Guilherme Posser da Costa, Ministro da Cooperação.

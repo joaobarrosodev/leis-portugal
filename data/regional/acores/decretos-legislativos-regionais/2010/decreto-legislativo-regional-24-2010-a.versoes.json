@@ -1,0 +1,258 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:334109:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-168153426",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/24-2010-334109",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-07-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "168153825",
+    "168153826",
+    "168153827",
+    "168153828",
+    "168153829",
+    "168153830",
+    "168153831",
+    "168153832",
+    "168153833",
+    "168153834",
+    "168153835",
+    "168153836",
+    "168153837",
+    "168153838",
+    "168153839",
+    "168153840",
+    "168153841",
+    "168153842",
+    "168153843"
+   ]
+  },
+  {
+   "date": "2023-01-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205994958:por",
+     "title": "Decreto Legislativo Regional n.º 2/2023/A",
+     "published": "2023-01-11",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2023-205994958"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "168153825",
+    "168153826",
+    "168153827",
+    "168153828",
+    "168153829",
+    "206036457",
+    "206036458",
+    "168153832",
+    "168153833",
+    "168153834",
+    "168153835",
+    "168153836",
+    "168153837",
+    "168153838",
+    "168153839",
+    "168153840",
+    "168153841",
+    "168153842",
+    "168153843",
+    "168153844"
+   ]
+  }
+ ],
+ "fragments": {
+  "168153825": {
+   "fragment_id": "168153427",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 24/2010/A\n\nEstabelece mecanismos de acompanhamento da empregabilidade e do mercado de emprego na Região Autónoma dos Açores\n\nO aumento da empregabilidade dos Açorianos é um objectivo de grande centralidade na actuação pública.\n\nPara concretizar este objectivo a qualificação dos recursos humanos, com particular relevância para a elevação das qualificações da população activa, constitui uma prioridade, dado que a melhoria dos níveis de qualificação se revela de importância estratégica para sustentar um modelo de desenvolvimento baseado na inovação e no conhecimento que assegure a renovação do modelo competitivo da economia e que promova uma cidadania de participação nas organizações.\n\nA qualificação dos cidadãos, é assim, um elemento chave para a competitividade, o crescimento e o emprego.\n\nNos últimos anos assistiram-se a profundas transformações quer no mundo do trabalho quer nos dispositivos e nas políticas para a empregabilidade. Os indivíduos deixaram de ter acesso a percursos relativamente estáveis e contínuos e a relação com a actividade profissional, cada vez mais flexível, mutável e polivalente, passou a definir-se mais pela empregabilidade que pelo emprego, perspectiva em que a orientação individual e a aquisição de competências assumem um papel fundamental.\n\nO Governo Regional tem vindo a implementar programas de estágios, como medida ponte de ligação do sistema de ensino à vida activa. Pretende-se, assim, melhorar os planos de estágio desenvolvidos durante os últimos anos, de forma a proporcionar aos jovens um maior e mais eficaz conhecimento do mundo do trabalho e às empresas um contacto com jovens profissionais.\n\nPor outro lado, a observação estratégica das empresas e a simplificação administrativa das questões relacionadas com o funcionamento do mercado do emprego e do encaminhamento de desempregados para dispositivos existentes são fundamentais, neste contexto e para estes objectivos. Assim, são introduzidas novas regras que permitem a celeridade e simplificação no âmbito do tratamento e publicação de estatísticas oficiais nos domínios do trabalho, emprego e formação profissional e na elaboração de estudos e análises, em particular as de carácter prospectivo, que permitem uma ainda melhor adequação das medidas de emprego às necessidades empresariais.\n\nTem importância fundamental no combate à precariedade e ao trabalho ilegal a observação estratégica do emprego, em particular a declaração junto do Observatório do Emprego e Formação Profissional das situações de prestação de serviços, vulgo «recibos verdes», que este diploma sustenta. Assim, com este diploma, assume a Região Autónoma dos Açores competências para a implementação de novos instrumentos de combate à precariedade.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos das disposições conjugadas dos artigos 112.º, n.º 4, e 227.º, n.º 1, alínea a), da Constituição da República Portuguesa e dos artigos 37.º e 61.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:"
+  },
+  "168153826": {
+   "fragment_id": "168153428",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objecto\n\nO presente diploma estabelece mecanismos de acompanhamento da empregabilidade e do mercado de emprego na Região Autónoma dos Açores, visando, nomeadamente:\n\na) O acompanhamento e orientação de activos;\n\nb) A observação e o acompanhamento estratégico do mercado de emprego;\n\nc) O fomento de estratégias de transição para a vida activa."
+  },
+  "168153827": {
+   "fragment_id": "168153429",
+   "type": 11,
+   "heading": "Artigo 2.º — Acompanhamento e orientação de activos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acompanhamento e orientação de activos\n\nA administração regional autónoma, através do departamento do Governo Regional com competência em matéria de emprego, assegura o funcionamento de um sistema de acompanhamento e orientação de activos, que se desenvolve em duas modalidades complementares:\n\na) Acompanhamento de desempregados;\n\nb) Orientação profissional de trabalhadores e desempregados."
+  },
+  "168153828": {
+   "fragment_id": "168153430",
+   "type": 11,
+   "heading": "Artigo 3.º — Acompanhamento de desempregados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Acompanhamento de desempregados\n\nO acompanhamento de desempregados tem como objectivo a informação, apoio e orientação destes na definição e desenvolvimento do seu percurso de inserção ou reinserção no mercado de trabalho e é feito através de diversas acções, designadamente:\n\na) Informação profissional para jovens e adultos desempregados;\n\nb) Estímulo da iniciativa individual e apoio na procura activa de emprego;\n\nc) Acompanhamento e controlo personalizado de desempregados;\n\nd) Divulgação e apresentação de ofertas de emprego e actividades de colocação;\n\ne) Encaminhamento para ofertas de emprego e qualificação e actualização de competências;\n\nf) Divulgação e encaminhamento para medidas de apoio ao emprego, qualificação e empreendedorismo;\n\ng) Divulgação de programas comunitários que promovam a mobilidade no emprego e na formação profissional no espaço europeu;\n\nh) Proporcionar a aquisição e desenvolvimento de competências pessoais, sociais e profissionais necessárias à construção participada do percurso em meio laboral, designadamente de públicos vulneráveis."
+  },
+  "168153829": {
+   "fragment_id": "168153431",
+   "type": 11,
+   "heading": "Artigo 4.º — Orientação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Orientação profissional\n\n1 - A orientação profissional é promovida através da realização de programas de orientação e aconselhamento profissional destinados a desempregados e a indivíduos que pretendam imprimir nova orientação ao seu percurso profissional.\n\n2 - O departamento do Governo Regional com competência em matéria de emprego, directamente ou por recurso a outras entidades, promove os mecanismos de orientação profissional necessários ao correcto encaminhamento e aconselhamento em matéria de orientação profissional.\n\n3 - Quando necessário, pode ser criado um mecanismo flexível de apoio a percursos personalizados que conjugue orientação, formação e inserção."
+  },
+  "168153830": {
+   "fragment_id": "168153432",
+   "type": 11,
+   "heading": "Artigo 5.º — Plano de estágios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Plano de estágios\n\n1 - Os planos de estágios, enquanto estratégias de apoio à transição para a vida activa, visam proporcionar aos jovens detentores de formação profissional e superior um conhecimento do mundo do trabalho, e às empresas um contacto com jovens recém-formados, perspectivando o ingresso destes no mercado de trabalho.\n\n2 - Os planos de estágios podem ser desenvolvidos na Região ou fora desta."
+  },
+  "168153831": {
+   "fragment_id": "168153433",
+   "type": 11,
+   "heading": "Artigo 6.º — Programa Estagiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Programa Estagiar\n\nNa Região Autónoma dos Açores os planos de estágios desenvolvem-se através do Programa Estagiar, integrando três vertentes:\n\na) Estagiar L, destinado a jovens licenciados;\n\nb) Estagiar T, destinado a jovens com formação tecnológica;\n\nc) Estagiar U, destinado a jovens que frequentem o ensino superior."
+  },
+  "168153832": {
+   "fragment_id": "168153434",
+   "type": 11,
+   "heading": "Artigo 7.º — Estatísticas e estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estatísticas e estudos\n\nO departamento do Governo Regional com competência em matéria de emprego, através do Observatório do Emprego e Formação Profissional, promove o tratamento e publicação de estatísticas oficiais nos domínios do trabalho, emprego e formação profissional, bem como a elaboração de estudos, designadamente de carácter prospectivo."
+  },
+  "168153833": {
+   "fragment_id": "168153435",
+   "type": 11,
+   "heading": "Artigo 8.º — Articulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Articulação\n\nNo desenvolvimento da sua actividade estatística, o Observatório do Emprego e Formação Profissional deve:\n\na) Articular com os serviços competentes da Inspecção Regional do Trabalho os procedimentos a observar na recolha de informação sobre a actividade social das empresas;\n\nb) Manter permanentemente disponível em meio electrónico, para consulta por parte da Inspecção Regional do Trabalho, a informação a que se refere a alínea anterior;\n\nc) Manter permanentemente disponível em meio electrónico para consulta informação relevante e com interesse para outros serviços da administração regional;\n\nd) Articular com o Serviço Regional de Estatística dos Açores os procedimentos relativos ao registo dos inquéritos e demais tramitação, nos casos em que tal for requerido."
+  },
+  "168153834": {
+   "fragment_id": "168153436",
+   "type": 11,
+   "heading": "Artigo 9.º — Informação social das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Informação social das empresas\n\n1 - Compete ao Observatório do Emprego e Formação Profissional a recolha da informação social das empresas, nomeadamente a seguinte:\n\na) Rosto do relatório único respeitante à informação sobre emprego e condições de trabalho;\n\nb) Quadro de pessoal;\n\nc) Fluxo de entrada e de saída de trabalhadores;\n\nd) Relatório anual da formação contínua;\n\ne) Relatório anual da actividade do serviço de segurança e saúde no trabalho;\n\nf) Greves;\n\ng) Prestadores de serviços;\n\nh) Sistema de indicadores de alerta.\n\n2 - Compete ainda ao Observatório do Emprego e Formação Profissional a recolha de informação de quaisquer outros inquéritos, de âmbito regional ou nacional, aplicados na Região Autónoma dos Açores nos domínios do trabalho, emprego e formação profissional e que sejam dirigidos ao tecido empresarial ou a quaisquer outras entidades públicas e privadas da Região.\n\n3 - O método de recolha da informação a que se referem os números anteriores deve respeitar as instruções técnicas do Observatório do Emprego e Formação Profissional, divulgadas em sítio da Internet devidamente publicitado.\n\n4 - As empresas que empreguem trabalhadores cujos postos de trabalho se situem na Região Autónoma dos Açores, independentemente da natureza da relação jurídico-laboral, estão obrigadas ao cumprimento da prestação da informação a que se referem os n.os 1 e 2 do presente artigo."
+  },
+  "168153835": {
+   "fragment_id": "168153437",
+   "type": 11,
+   "heading": "Artigo 10.º — Cessação das medidas de apoio às empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cessação das medidas de apoio às empresas\n\nÀs empresas que vierem a beneficiar de linhas de crédito bonificadas e que tenham, comprovadamente, falsos prestadores de serviço será declarada a cessação dos benefícios e a impossibilidade de voltar a beneficiar de bonificação, no prazo de três anos."
+  },
+  "168153836": {
+   "fragment_id": "168153438",
+   "type": 11,
+   "heading": "Artigo 11.º — Utilização de ficheiros administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Utilização de ficheiros administrativos\n\nSem prejuízo das regras relativas à utilização de dados, o Observatório do Emprego e Formação Profissional pode utilizar os ficheiros administrativos em uso nos diversos serviços e organismos do departamento do Governo Regional com competência em matéria de trabalho, emprego e formação profissional para a execução de inquéritos necessários à realização de estudos no âmbito das suas competências, designadamente:\n\na) Inquéritos de desempregados de longa duração;\n\nb) Acompanhamento dos jovens que beneficiam de programas de transição para a vida activa;\n\nc) Acompanhamento de jovens no ensino superior pré-licenciados ou mestres;\n\nd) Estudos sobre as necessidades de formação profissional."
+  },
+  "168153837": {
+   "fragment_id": "168153439",
+   "type": 11,
+   "heading": "Artigo 12.º — Implementação da governança electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Implementação da governança electrónica\n\n1 - O Observatório do Emprego e Formação Profissional desenvolve as aplicações informáticas necessárias para que as operações de recolha de informação a que se referem os artigos anteriores sejam executadas de modo informático, designadamente através do recurso a plataformas de Internet.\n\n2 - Exceptua-se do disposto no número anterior a aplicação de instrumentos de notação em operações estatísticas que impliquem a inquirição presencial."
+  },
+  "168153838": {
+   "fragment_id": "168153440",
+   "type": 11,
+   "heading": "Artigo 13.º — Informação sobre acidentes de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação sobre acidentes de trabalho\n\nÀ informação sobre acidentes de trabalho aplica-se o disposto no Decreto Legislativo Regional n.º 38/2003/A, de 4 de Novembro."
+  },
+  "168153839": {
+   "fragment_id": "168153441",
+   "type": 11,
+   "heading": "Artigo 14.º — Contratos-programa e protocolos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contratos-programa e protocolos de cooperação\n\nA administração regional autónoma, através do departamento do Governo Regional com competência em matéria de emprego, pode celebrar contratos-programa e protocolos de cooperação com outras entidades públicas e privadas, tendo por objecto o desenvolvimento de medidas e dispositivos para a empregabilidade, nomeadamente que visem a melhoria da qualificação profissional."
+  },
+  "168153840": {
+   "fragment_id": "168153442",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime contra-ordenacional\n\n1 - A não apresentação, nos prazos e locais identificados para o efeito, da informação a que se refere o artigo 9.º do presente diploma constitui contra-ordenação laboral leve, punível nos termos do disposto no Código do Trabalho.\n\n2 - O processamento das contra-ordenações e a aplicação das coimas correspondentes compete à Inspecção Regional do Trabalho."
+  },
+  "168153841": {
+   "fragment_id": "168153443",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regulamentação\n\nO Governo Regional dos Açores, através de resolução, procederá a toda a regulamentação que se mostre necessária à boa execução do presente diploma."
+  },
+  "168153842": {
+   "fragment_id": "168153444",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogados os artigos 13.º e 14.º do Decreto Legislativo Regional n.º 28/2004/A, de 24 de Agosto, e 12.º a 15.º do Decreto Legislativo Regional n.º 19/2006/A, de 2 de Junho."
+  },
+  "168153843": {
+   "fragment_id": "168153445",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "206036457": {
+   "fragment_id": "168153432",
+   "type": 11,
+   "heading": "Artigo 5.º — Programas de estágios",
+   "in_force_from": "2023-01-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 2/2023/A - Diário da República n.º 8/2023, Série I de 2023-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2023-205994958), em vigor a partir de 2023-01-12",
+    "Alterado pelo/a Artigo 67.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Programas de estágios\n\n1 - A administração regional autónoma, através do departamento competente em matéria de emprego, desenvolve programas de estágio profissional e profissionalizante destinados a apoiar a transição entre o percurso escolar e formativo, incluindo o ensino superior, e o mundo do trabalho.\n\n2 - Os programas de estágios podem ser desenvolvidos na Região ou fora desta.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 2/2023/A - Diário da República n.º 8/2023, Série I de 2023-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2023-205994958), em vigor a partir de 2023-01-12\n\n> Alterado pelo/a Artigo 67.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), produz efeitos a partir de 2020-01-01"
+  },
+  "206036458": {
+   "fragment_id": "168153433",
+   "type": 11,
+   "heading": "Artigo 6.º — Programa Estagiar",
+   "in_force_from": "2023-01-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 2/2023/A - Diário da República n.º 8/2023, Série I de 2023-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2023-205994958), em vigor a partir de 2023-01-12",
+    "Revogado pelo/a Artigo 67.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Programa Estagiar\n\nNa Região Autónoma dos Açores os planos de estágios desenvolvem-se através do Programa Estagiar, integrando três vertentes:\n\na) Estagiar L, destinado a jovens licenciados;\n\nb) Estagiar T, destinado a jovens com formação tecnológica;\n\nc) Estagiar U, destinado a jovens que frequentem o ensino superior.\n\n> Revogado pelo/a Artigo 33.º do/a [Decreto Legislativo Regional n.º 2/2023/A - Diário da República n.º 8/2023, Série I de 2023-01-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2023-205994958), em vigor a partir de 2023-01-12\n\n> Revogado pelo/a Artigo 67.º do/a [Decreto Legislativo Regional n.º 1/2020/A - Diário da República n.º 5/2020, Série I de 2020-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2020-127816253), produz efeitos a partir de 2020-01-01"
+  },
+  "168153844": {
+   "fragment_id": "168153446",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 16 de Junho de 2010.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 15 de Julho de 2010.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, José António Mesquita."
+  }
+ }
+}

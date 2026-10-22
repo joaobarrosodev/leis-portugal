@@ -1,0 +1,213 @@
+---
+schema_version: '1.0'
+id: pt:dre:505658:por
+title: Portaria n.º 892/2004
+short_title: null
+summary: Cria o curso profissional de nível secundário de educação de técnico de produção agrária
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 892/2004
+official_date: null
+publication_date: '2004-07-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/2004, Série I-B de 2004-07-21
+  number: '170'
+  series: I
+  supplement: null
+  pages: 4546 - 4547
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/07/170b00/45464547.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/892/2004/07/21/p/dre/pt/html
+  oj: null
+  dre: '505658'
+  dre_path: /dr/detalhe/portaria/892-2004-505658
+  internal: pt:dre:505658:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/892-2004-505658
+  metadata_url: https://data.dre.pt/eli/port/892/2004/07/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/892-2004-505658
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-03-21T00:00:00Z'
+integrity:
+  source_sha256: c8e87248e036da5bdcc5852709d30bb9ae70df63374a513b8af7bf8eb365256c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-892-505658.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Educação
+- Plano de Estudos
+relationships:
+- type: amended_by
+  target: pt:dre:518599:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2004/03/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/316/2001/04/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/316/2001/04/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/399/1992/05/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/399/1992/05/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/401/1992/05/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/401/1992/05/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/402/1992/05/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/402/1992/05/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/403/1992/05/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/403/1992/05/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/405/1992/05/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/405/1992/05/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/550-c/2004/05/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/602/1991/07/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/602/1991/07/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/846/1994/09/21/p/d
+  label: null
+  source: http://data.dre.pt/eli/port/846/1994/09/21/p/d
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 892/2004
+
+de 21 de Julho
+
+O [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, estabeleceu os princípios orientadores da organização e da gestão do currículo, bem como da avaliação e certificação das aprendizagens, do nível secundário de educação, definindo a diversidade da oferta formativa, na qual se incluem os cursos profissionais vocacionados para a qualificação inicial dos alunos, privilegiando a sua inserção no mundo do trabalho e permitindo o prosseguimento de estudos.
+
+O decreto-lei supramencionado determina, no artigo 5.º, n.º 5, que os cursos de nível secundário e os respectivos planos de estudos são criados e aprovados por portaria do Ministro da Educação.
+
+De acordo com o previsto no mesmo diploma, veio a [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, regular, na especificidade, os referidos cursos. O artigo 7.º define os requisitos formais a observar e determina que a criação e organização dos mesmos deverão obedecer, quanto às disciplinas, formação em contexto de trabalho e respectivas cargas horárias, à respectiva matriz curricular aprovada, bem como aos referenciais de formação das famílias profissionais em que se enquadram, concebidos, validados e aprovados de acordo com o estabelecido no seu artigo 3.º
+
+Assim, no âmbito da revisão curricular do ensino profissional e da racionalização da oferta formativa consagradas nos diplomas acima referidos, importa proceder à reestruturação dos cursos actualmente em vigor, criados ao abrigo da legislação anterior, e, consequentemente, aprovar os novos cursos e planos de estudos, à luz das novas regras e matriz curricular estabelecidas pelos citados [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, e [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.
+
+Nestes termos:
+
+Atento o disposto no artigo 7.º, n.os 1 e 2, da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio, e no artigo 5.º, n.º 5, do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º É criado o curso profissional de técnico de produção agrária, com as variantes de produção animal, produção vegetal e transformação, visando a saída profissional de técnico de produção agrária.
+
+2.º O curso criado no número anterior enquadra-se na família profissional de actividades agrícolas e agro-alimentares e integra-se na área de formação de produção agrícola e animal (621), de acordo com a classificação aprovada pela [Portaria n.º 316/2001](https://diariodarepublica.pt/dr/detalhe/portaria/316-2001-345920), de 2 de Abril.
+
+3.º O plano de estudos do curso agora criado é o constantes do anexo n.º 1 da presente portaria, da qual faz parte integrante, e resulta da reestruturação dos cursos profissionais a extinguir nos termos previstos no n.º 6.º
+
+4.º As disciplinas de Matemática e Biologia da componente de formação científica do referido curso, conjuntamente com a disciplina de Português da componente de formação sócio-cultural, serão sujeitas a avaliação sumativa externa concretizada na realização de exames nacionais, nos termos e para os efeitos estabelecidos no artigo 11.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, conjugado com os artigos 26.º, 27.º e 30.º a 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.
+
+5.º O perfil de desempenho à saída do curso é o constante do anexo n.º 2 do presente diploma.
+
+6.º Com a publicação da presente portaria são extintos os cursos profissionais de técnico de gestão agrícola, de técnico de produção vegetal, de técnico de produção animal e de técnico de produção animal/transformação, criados, respectivamente, pelas Portarias n.os [691/90](https://diariodarepublica.pt/dr/detalhe/portaria/691-1990-574112), de 18 de Agosto, [945/90](https://diariodarepublica.pt/dr/detalhe/portaria/945-1990-555802), de 4 de Outubro, [1125/90](https://diariodarepublica.pt/dr/detalhe/portaria/1125-1990-564577), de 15 de Novembro, [602/91](https://diariodarepublica.pt/dr/detalhe/portaria/602-1991-668279), de 4 de Julho, [399/92](https://diariodarepublica.pt/dr/detalhe/portaria/399-1992-527217), de 12 de Maio, [401/92](https://diariodarepublica.pt/dr/detalhe/portaria/401-1992-522271), de 13 de Maio, [402/92](https://diariodarepublica.pt/dr/detalhe/portaria/402-1992-522269), de 13 de Maio, [403/92](https://diariodarepublica.pt/dr/detalhe/portaria/403-1992-522272), de 13 de Maio, [405/92](https://diariodarepublica.pt/dr/detalhe/portaria/405-1992-524056), de 15 de Maio, [846/94](https://diariodarepublica.pt/dr/detalhe/portaria/846-1994-587844), de 21 de Setembro, [317/95](https://diariodarepublica.pt/dr/detalhe/portaria/317-1995-224637), de 17 de Abril, [324/95](https://diariodarepublica.pt/dr/detalhe/portaria/324-1995-224405), de 18 de Abril, [1176/95](https://diariodarepublica.pt/dr/detalhe/portaria/1176-1995-574538), de 26 de Setembro, [1076/95](https://diariodarepublica.pt/dr/detalhe/portaria/1076-1995-546844), de 1 de Setembro, e [311/95](https://diariodarepublica.pt/dr/detalhe/portaria/311-1995-229351), de 13 de Abril, sendo parcialmente revogadas, nas partes que àqueles cursos respeitam, as Portarias n.os [691/90](https://diariodarepublica.pt/dr/detalhe/portaria/691-1990-574112), de 18 de Agosto, [602/91](https://diariodarepublica.pt/dr/detalhe/portaria/602-1991-668279), de 4 de Julho, [401/92](https://diariodarepublica.pt/dr/detalhe/portaria/401-1992-522271), de 13 de Maio, [317/95](https://diariodarepublica.pt/dr/detalhe/portaria/317-1995-224637), de 17 de Abril, [324/95](https://diariodarepublica.pt/dr/detalhe/portaria/324-1995-224405), de 18 de Abril, [1176/95](https://diariodarepublica.pt/dr/detalhe/portaria/1176-1995-574538), de 26 de Setembro, [1076/95](https://diariodarepublica.pt/dr/detalhe/portaria/1076-1995-546844), de 1 de Setembro, e [311/95](https://diariodarepublica.pt/dr/detalhe/portaria/311-1995-229351), de 13 de Abril, e na sua totalidade as Portarias n.os [945/90](https://diariodarepublica.pt/dr/detalhe/portaria/945-1990-555802), de 4 de Outubro, [1125/90](https://diariodarepublica.pt/dr/detalhe/portaria/1125-1990-564577), de 15 de Novembro, [399/92](https://diariodarepublica.pt/dr/detalhe/portaria/399-1992-527217), de 12 de Maio, [402/92](https://diariodarepublica.pt/dr/detalhe/portaria/402-1992-522269), de 13 de Maio, [403/92](https://diariodarepublica.pt/dr/detalhe/portaria/403-1992-522272), de 13 de Maio, [405/92](https://diariodarepublica.pt/dr/detalhe/portaria/405-1992-524056), de 15 de Maio, e [846/94](https://diariodarepublica.pt/dr/detalhe/portaria/846-1994-587844), de 21 de Setembro.
+
+7.º Sem prejuízo do disposto no número anterior, os planos de estudos dos cursos aprovados pelas portarias nele referidas e agora extintos continuarão a vigorar até à respectiva conclusão por parte dos alunos que, entretanto, os tiverem iniciado.
+
+8.º Aos alunos que concluírem com aproveitamento o presente curso profissional será atribuído um diploma de conclusão do nível secundário de educação e um certificado de qualificação profissional de nível 3, de acordo com o previsto no artigo 15.º do [Decreto-Lei n.º 74/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2004-210801), de 26 de Março, e no artigo 33.º da [Portaria n.º 550-C/2004](https://diariodarepublica.pt/dr/detalhe/portaria/550-c-2004-238849), de 21 de Maio.
+
+**O Ministro da Educação, José David Gomes Justino, em 30 de Junho de 2004.**
+
+## ANEXO N.º 1 — Curso profissional de técnico de produção agrária
+
+Variantes de produção animal, produção vegetal e transformação (ver nota a)
+
+Plano de Estudos
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45464547.pdf)
+
+(nota a) As variantes a oferecer, bem como o número de variantes a funcionar no mesmo ciclo de formação, dependem das opções da escola, no âmbito do seu projecto educativo, e, consoante a natureza jurídica do estabelecimento de educação e ensino, da sua conformidade com o previsto na respectiva autorização de funcionamento, ou com o aprovado em sede de definição da rede nacional de oferta formativa, nos termos do n.º 7 do artigo 5.º do Decreto-lei n.º 74/2004, de 26 de Março.
+
+[(ver notas referentes ao quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/07/170b00/45464547.pdf)
+
+## ANEXO N.º 2 — Curso profissional de técnico de produção agrária
+
+Variantes de produção animal, produção vegetal e transformação
+
+Saída profissional - técnico de produção agrária.
+
+Família profissional - actividades agrícolas e agro-alimentares.
+
+Área de formação - 621 - produção agrícola e animal.
+
+Perfil de desempenho à saída do curso
+
+O técnico de produção agrária é o profissional qualificado para constituir uma empresa agro-pecuária, coordenar, organizar e executar as actividades de uma exploração agrícola, assegurando a quantidade e qualidade da produção, a saúde e segurança no trabalho, a preservação do meio ambiente e a segurança alimentar dos consumidores.
+
+As actividades fundamentais a desempenhar por este técnico são:
+
+Planear e executar as operações das diversas actividades agrícolas;
+
+Orientar e participar nas tarefas de produção vegetal e animal;
+
+Realizar operações tecnológicas do sector agro-pecuário, no respeito pelas normas de segurança e saúde no trabalho;
+
+Organizar a comercialização dos diferentes produtos agrícolas, de acordo com as normas de qualidade em vigor;
+
+Utilizar os factores de produção, de modo a atingir os objectivos da empresa;
+
+Manusear correctamente máquinas e equipamentos agro-pecuários, respeitando as normas de segurança e saúde no trabalho;
+
+Utilizar racionalmente os recursos naturais, tendo em conta o equilíbrio bio-ecológico.
+
+Variante de produção animal - programar e garantir a execução das tarefas inerentes à alimentação, higiene, sanidade e maneio reprodutivo das espécies pecuárias, assim como a obtenção de produtos de origem animal utilizando os meios técnicos, humanos e materiais necessários.
+
+Variante de produção vegetal - programar e garantir a execução das tarefas inerentes à instalação, colheita e acondicionamento/conservação dos produtos agrícolas em culturas hortícolas e arvenses, utilizando os meios técnicos, humanos e materiais necessários.
+
+Variante de transformação - aplicar conhecimentos fundamentais do processo produtivo (preparação e transformação de produtos agro-alimentares e respectivo embalamento) assim como de tecnologia específica do subsector agro-alimentar (princípios de funcionamento e de programação, conservação e manutenção, riscos e regras de segurança).
+
+Certificação escolar e profissional - cursos do nível secundário de educação, qualificação profissional de nível 3.

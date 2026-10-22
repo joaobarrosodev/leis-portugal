@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:208441039:por
+title: Declaração de Retificação n.º 202/2023
+short_title: null
+summary: Retifica o Despacho n.º 750/2023, publicado no Diário da República, 2.ª série, n.º 11, de 16 de janeiro de 2023
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Defesa Nacional - Marinha - Superintendência do Pessoal
+proposing_entity: null
+official_number: 202/2023
+official_date: null
+publication_date: '2023-03-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2023, Série II de 2023-03-10
+  number: '50'
+  series: II
+  supplement: null
+  pages: 32 - 33
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/03/050000000/0003200033.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '208441039'
+  dre_path: /dr/detalhe/declaracao-retificacao/202-2023-208441039
+  internal: pt:dre:208441039:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/202-2023-208441039
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/202-2023-208441039
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-03-10T00:00:00Z'
+integrity:
+  source_sha256: 5b011e3e4b4e393ec069d6e456db5999e79e582ad3fa88cfca6b4ea9f8347138
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-202-208441039.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 202/2023
+
+Por ter saído com inexatidão o [Despacho n.º 750/2023](https://diariodarepublica.pt/dr/detalhe/despacho/750-2023-206105557), publicado no Diário da República, 2.ª série, n.º 11, de 16 de janeiro de 2023, a p. 68, retifica-se que onde se lê:
+
+«Da classe de Comunicações:
+
+9343108 Jorge Manuel Antunes Ferreira (no quadro)
+
+9341808 Rodrigo Venceslau Trindade (no quadro)
+
+que satisfazem as condições gerais e especiais de promoção fixadas, respetivamente, nos artigos 58.º e 251.º do mencionado Estatuto, a contar de 30 de dezembro de 2022, data a partir da qual lhes conta a respetiva antiguidade, de acordo com a alínea b) do n.º 1 do artigo 176.º e para efeitos do n.º 2 do artigo 72.º, ambos daquele Estatuto, em consequência das vacaturas ocorridas, nessa data, resultantes, da promoção ao posto imediato do 317288 Cabo CCT Pedro Manuel Lopes Dias Aires e da passagem à situação de reserva do 250788 Cabo CRO Rogério Manuel Diogo Montez. Estas praças, uma vez promovidas e tal como vão ordenadas, deverão ser colocadas na lista de antiguidade do seu posto e classe à esquerda do 9340008 Cabo C João Miguel Neves Pereira.
+
+9337206 Ricardo Jorge Pascoal Martins (no quadro)
+
+9840108 Pedro Manuel Paquete Baioneta (no quadro)
+
+que satisfazem as condições gerais e especiais de promoção fixadas, respetivamente, nos artigos 58.º e 251.º do mencionado Estatuto, a contar de 31 de dezembro de 2022, data a partir da qual lhes conta a respetiva antiguidade, de acordo com a alínea b) do n.º 1 do artigo 176.º e para efeitos do n.º 2 do artigo 72.º, ambos daquele Estatuto, em consequência das vacaturas ocorridas, nessa data, resultantes da passagem à situação de reserva do 906189 Cabo CCT Luís Manuel Saraiva e do 918090 Cabo CCT José Fernando Serafim Moreira. Estas praças, uma vez promovidas e tal como vão ordenadas, deverão ser colocadas na lista de antiguidade do seu posto e classe à esquerda do 9341808 Cabo C Rodrigo Venceslau Trindade.»
+
+deve ler-se:
+
+«Da classe de Comunicações:
+
+9343108 Jorge Manuel Antunes Ferreira (no quadro)
+
+que satisfaz as condições gerais e especiais de promoção fixadas, respetivamente, nos artigos 58.º e 251.º do mencionado Estatuto, a contar de 9 de dezembro de 2022, data a partir da qual lhe conta a respetiva antiguidade, de acordo com a alínea b) do n.º 1 do artigo 176.º e para efeitos do n.º 2 do artigo 72.º, ambos daquele Estatuto, em consequência da vacatura ocorrida nessa data, resultante do abate ao quadro permanente do 9302906 Cabo C Carlos Alberto Clemente Almeida. Este praça, uma vez promovido, deverá ser colocado na lista de antiguidade do seu posto e classe à esquerda da 9330808 Cabo C Débora de Pina Macedo.
+
+9341808 Rodrigo Venceslau Trindade (no quadro)
+
+9337206 Ricardo Jorge Pascoal Martins (no quadro)
+
+que satisfazem as condições gerais e especiais de promoção fixadas, respetivamente, nos artigos 58.º e 251.º do mencionado Estatuto, a contar de 30 de dezembro de 2022, data a partir da qual lhes conta a respetiva antiguidade, de acordo com a alínea b) do n.º 1 do artigo 176.º e para efeitos do n.º 2 do artigo 72.º, ambos daquele Estatuto, em consequência das vacaturas ocorridas nessa data, resultantes da promoção ao posto imediato do 317288 Cabo CCT Pedro Manuel Lopes Dias Aires e da passagem à situação de reserva do 250788 Cabo CRO Rogério Manuel Diogo Montez. Estes praças, uma vez promovidos e tal como vão ordenados, deverão ser colocados na lista de antiguidade do seu posto e classe à esquerda do 9343108 Cabo C Jorge Manuel Antunes Ferreira.
+
+9840108 Pedro Manuel Paquete Baioneta (no quadro)
+
+que satisfaz as condições gerais e especiais de promoção fixadas, respetivamente, nos artigos 58.º e 251.º do mencionado Estatuto, a contar de 31 de dezembro de 2022, data a partir da qual lhe conta a respetiva antiguidade, de acordo com a alínea b) do n.º 1 do artigo 176.º e para efeitos do n.º 2 do artigo 72.º, ambos daquele Estatuto, em consequência da vacatura ocorrida nessa data, resultante da passagem à situação de reserva do 906189 Cabo CCT Luís Manuel Saraiva. Este praça, uma vez promovido, deverá ser colocado na lista de antiguidade do seu posto e classe à esquerda do 9308110 Cabo C Pedro Filipe Vieira Gonçalves.»
+
+Com a delegação de competência conferida no ponto 16) da alínea a) do n.º 1 do [Despacho n.º 11644/2022](https://diariodarepublica.pt/dr/detalhe/despacho/11644-2022-201751098), de 16 de setembro, do Diretor de Pessoal, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2022.
+
+3 de março de 2023. - O Chefe da Repartição de Situações e Efetivos, Adelino Manuel Costa Cabral, Capitão-de-Mar-e-Guerra.

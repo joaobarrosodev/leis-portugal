@@ -1,0 +1,90 @@
+---
+schema_version: '1.0'
+id: pt:dre:2113176:por
+title: Declaração de Rectificação n.º 1219/2009
+short_title: null
+summary: Declaração de rectificação do aviso n.º 4528/2009 de renovação de contrato a termo resolutivo por mais dois anos
+  de Rui Miguel Silva Leite
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Câmara Municipal de Vieira do Minho
+proposing_entity: null
+official_number: 1219/2009
+official_date: null
+publication_date: '2009-05-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/2009, Série II de 2009-05-06
+  number: '87'
+  series: II
+  supplement: null
+  pages: 17974 - 17974
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/05/087000000/1797417974.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2113176'
+  dre_path: /dr/detalhe/declaracao-rectificacao/1219-2009-2113176
+  internal: pt:dre:2113176:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1219-2009-2113176
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1219-2009-2113176
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-05-06T00:00:00Z'
+integrity:
+  source_sha256: 2ebfbf7ded4f977300eea27d74a8701ae5a0c83a372a6f9c316bea83545df074
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-1219-2113176.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 1219/2009
+
+Declaração de rectificação n.º 1219/2009
+
+Para os devidos efeitos se procede à rectificação do aviso n.º 4528/2009, publicado no Diário da República, 2.ª série, n.º 40, de 26 de Fevereiro de 2009, o qual passará a ter a seguinte redacção, por alteração efectuada em 01/04/2009: «se torna público que em 30 de Janeiro de 2009, foi renovado o contrato a termo resolutivo por um período de mais dois anos, com Rui Miguel Silva Leite, para a categoria e carreira de Assistente Técnico, terminando agora o mesmo em 28 de Fevereiro de 2011».
+
+23 de Abril de 2009. - O Presidente da Câmara, Padre Albino José Silva Carneiro.

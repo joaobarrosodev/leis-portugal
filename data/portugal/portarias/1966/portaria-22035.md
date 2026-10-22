@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:471543:por
+title: Portaria n.º 22035
+short_title: null
+summary: Cria o Grupo de Trabalho sobre Poluição do Ar e define a sua finalidade e constituição
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Interior, da Economia, das Comunicações e da Saúde e Assistência - Secretaria de Estado da Indústria
+proposing_entity: null
+official_number: '22035'
+official_date: null
+publication_date: '1966-06-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 132/1966, Série I de 1966-06-06
+  number: '132'
+  series: I
+  supplement: null
+  pages: 1065 - 1066
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/06/13200/10651066.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471543'
+  dre_path: /dr/detalhe/portaria/22035-1966-471543
+  internal: pt:dre:471543:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22035-1966-471543
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22035-1966-471543
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-06-06T00:00:00Z'
+integrity:
+  source_sha256: f1374d5e7a3da33ca9216664ae86358005678493f44ee394c48c7fa3d047a1df
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-22035-471543.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22035
+
+A poluição do ar constitui um problema de relevante actualidade pela repercussão que tem na saúde e no estado psicológico das populações e pelos danos materiais que origina.
+
+A expansão dos centros urbanos, o desenvolvimento das actividades industriais, o aumento do parque automóvel e outras causas contribuem para que a poluição atmosférica tenda a agravar-se.
+
+Embora sem assumir a importância que se tem traduzido noutros países por acidentes graves, em Portugal já alguns casos obrigaram à intervenção dos serviços oficiais, juntando os seus esforços aos de entidades privadas no sentido de prevenir ou limitar os efeitos do fenómeno.
+
+A actuação referida tem-se caracterizado, porém, pela dispersão e pela descontinuidade, concorrendo para tanto a diversidade dos factores que intervêm no problema da poluição atmosférica.
+
+Reconhece-se, assim, a necessidade de colaboração entre os serviços oficiais com competência em alguns dos aspectos do problema., não sendo possível, dentro da orgânica existente, atribuir expressamente a um deles o encargo exclusivo do seu estudo e tratamento.
+
+Mais se pensa, também, que deve ser favorecida a colaboração de entidades privadas especialmente interessadas no assunto pelo dinamismo e validade que é lícito esperar da sua ajuda.
+
+À colaboração entre entidades oficiais e privadas deve juntar-se aquela que nos é facultada, em particular, pela Organização de Cooperação e Desenvolvimento Económicos (O. C. D. E.), a qual tem fomentado diversos estudos sobre a matéria a nível internacional, sem que o nosso país tenha deles beneficiado convenientemente ou, pelas razões apontadas, haja podido prestar-lhes a contribuição positiva que seria desejável.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros do Interior, da Economia, das Comunicações e da Saúde e Assistência e Secretário de Estado da Indústria, o seguinte:
+
+1.º É criado o Grupo de Trabalho sobre Poluição do Ar, que terá por finalidades essenciais:
+
+a) Elaborar um programa de luta contra a poluição atmosférica, por acção coordenada entre as entidades oficiais e privadas directamente interessadas;
+
+b) Fomentar a cooperação entre aquelas entidades no estudo, investigação e adopção de medidas destinadas ao fim em vista;
+
+c) Promover e coordenar os estudos e trabalhos de natureza técnica que ao País sejam solicitados pela Organização de Cooperação e Desenvolvimento Económicos, ou outros organismos internacionais, através das entidades nacionais competentes.
+
+2.º O Grupo de Trabalho terá a seguinte constituição:
+
+a) Um representante do Ministério do Interior, pela Câmara Municipal de Lisboa;
+
+b) Três representantes do Ministério da Economia - Secretaria de Estado da Indústria, pelas Direcções-Gerais dos Combustíveis e dos Serviços Industriais e Instituto Nacional de Investigação Industrial;
+
+c) Dois representantes do Ministério das Comunicações, pelo Serviço Meteorológico Nacional e Direcção-Geral de Transportes Terrestres;
+
+d) Dois representantes do Ministério da Saúde e Assistência, pela Direcção-Geral de Saúde e Instituto Superior de Higiene do Dr. Ricardo Jorge.
+
+3.º Do Grupo de trabalho fará ainda parte um representante da Comissão Técnica de Cooperação Económica Externa, a fim de assegurar, nos termos da lei, as relações com a O. C. D. E.
+
+4.º Mediante despacho do Ministro da Saúde e Assistência, poderão fazer parte do Grupo de Trabalho, ou nele colaborar, representantes directos das actividades privadas.
+
+5.º O Grupo de Trabalho terá como presidente o representante da Direcção-Geral de Saúde e como secretário o vogal por aquele designado.
+
+6.º O Grupo de Trabalho funcionará junto da Direcção-Geral de Saúde, a qual assegurará os serviços de secretaria.
+
+7.º Os serviços dependentes dos Ministérios acima indicados, nomeadamente os laboratórios da Direcção-Geral dos Combustíveis, do Instituto Nacional de Investigação Industrial e do Instituto Superior de Higiene do Dr. Ricardo Jorge, deverão prestar ao Grupo de Trabalho a possível colaboração para a prossecução dos seus fins.
+
+Ministérios do Interior, da Economia, das Comunicações e da Saúde e Assistência e Secretaria de Estado da Indústria, 6 de Junho de 1966. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior. - O Ministro da Economia, José Gonçalo da Cunha Sottomayor Correia de Oliveira. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.

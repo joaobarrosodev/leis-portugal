@@ -1,0 +1,281 @@
+---
+schema_version: '1.0'
+id: pt:dre:454495:por
+title: Decreto Legislativo Regional n.º 23/2008/A
+short_title: null
+summary: Cria um regime de incentivos à compra de terras agrícolas (RICTA)
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 23/2008/A
+official_date: null
+publication_date: '2008-07-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 142/2008, Série I de 2008-07-24
+  number: '142'
+  series: I
+  supplement: null
+  pages: 4621 - 4623
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14200/0462104623.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/23/2008/07/24/a/dre/pt/html
+  oj: null
+  dre: '454495'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/23-2008-454495
+  internal: pt:dre:454495:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2008-454495
+  metadata_url: https://data.dre.pt/eli/declegreg/23/2008/07/24/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2008-454495
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-07-24T00:00:00Z'
+integrity:
+  source_sha256: 62d208f49782485c68d0b842da53277ea193408970f904ae480e9525bd054bae
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2008/DRE-2008-23-454495.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Imóveis
+- Financiamento
+- Emparcelamento
+- Apoio ao Investimento
+- Instituto Regional do Ordenamento Agrário
+- JURO Bonificado
+- Exploração Agrícola
+- Pessoa Coletiva
+- Pessoa Singular
+- Prédio Rústico
+- Agricultor
+- Política Agrícola
+- Açores
+- Subsídio não Reembolsável
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/23/1999/07/31/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/23/1999/07/31/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/4/2000/02/01/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/4/2000/02/01/a/dre
+article_structure:
+  article_count: 19
+  section_count: 2
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 23/2008/A
+
+Regime de incentivos à compra de terras agrícolas (RICTA)
+
+Os indicadores que caracterizam o sector agrícola, na Região Autónoma dos Açores, revelam a ocorrência de uma melhoria estrutural com efeitos positivos nas condições de produção que determinam uma melhor eficácia económica do sector e na sua contribuição para o desenvolvimento da região.
+
+Sendo que o sector agrícola continua a ser o principal pilar da economia açoriana, numa perspectiva de estabilidade e equilíbrio social de parte significativa da nossa população, há que continuar a apostar no reforço do ordenamento agrário.
+
+Na medida em que a propriedade da terra é um dos principais factores de estabilidade económica e social das explorações agrícolas, contribuindo, de forma significativa, para a implementação das medidas estruturais de modernização das explorações e para garantia de melhores níveis de produção;
+
+Considerando que a aquisição de terra por parte dos agricultores deve constituir objectivo fundamental de qualquer política agrícola, já que, para além de facilitar a implementação de medidas estruturais de modernização da empresa agrícola, aumenta a segurança e o nível de aproveitamento das benfeitorias introduzidas;
+
+Considerando que estas medidas podem incluir a aquisição de terras pelos agricultores arrendatários e ou comproprietários de prédios rústicos confinantes ou encravados, promovendo por isso um estímulo ao emparcelamento;
+
+Considerando, finalmente, que este regime representa um instrumento essencial de reestruturação fundiária e de preservação da unidade das explorações existentes, é necessário e fundamental possibilitar aos agricultores o acesso ao crédito em condições mais favoráveis, revendo o sistema actualmente vigente, prevendo-se ainda a possibilidade da existência de uma comparticipação a fundo perdido.
+
+Assim, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, a Assembleia Legislativa da Região Autónoma dos Açores decreta o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+É criado um regime de incentivos à compra de terras agrícolas, doravante designado por RICTA.
+
+###### Artigo 2.º — Objectivos
+
+1 - O presente regime de apoio tem como finalidade principal a aquisição de terrenos destinados a acções de emparcelamento, mediante bonificação da taxa de juro e atribuição de uma comparticipação no valor da aquisição, a fundo perdido, nos termos do presente diploma.
+
+2 - O sistema de apoio abrange ainda a aquisição de prédios rústicos por agricultores na qualidade de arrendatários, comproprietários, proprietários de prédios encravados ou confinantes, através da bonificação da taxa de juro.
+
+3 - Podem também beneficiar do presente sistema de apoios os sujeitos referidos no número anterior que pretendam efectuar a permuta de terras com avaliações não coincidentes, beneficiando no caso da bonificação da taxa de juro sobre o diferencial da avaliação.
+
+###### Artigo 3.º — Beneficiários
+
+Podem beneficiar do RICTA os agricultores, pessoas singulares ou colectivas, que preencham os requisitos previstos no presente diploma.
+
+### CAPÍTULO II — Requisitos
+
+###### Artigo 4.º — Requisitos das pessoas singulares
+
+1 - Podem beneficiar do RICTA as pessoas singulares que cumulativamente preencham os seguintes requisitos:
+
+a) Sejam agricultores a título principal, nos termos da legislação em vigor, e que detenham uma exploração instalada há pelo menos três anos ou sejam detentores de um projecto para 1.ª instalação com viabilidade;
+
+b) Tenham como idade máxima 55 anos;
+
+c) Não beneficiem de pensão de reforma ou de invalidez;
+
+d) Não sejam cônjuges, descendentes, ascendentes ou afins na linha recta do(s) proprietário(s) do(s) prédio(s) a adquirir.
+
+2 - No caso de aquisição de terras por arrendatários, deve a relação jurídica de arrendamento ser titulada por contrato escrito, há pelo menos um ano, tendo como objecto o prédio ou prédios rústicos abrangidos pelo pedido de apoio para fins de exploração agrícola, pecuária ou florestal em condições de regular utilização.
+
+3 - No caso das acções de emparcelamento, devem ainda os beneficiários:
+
+a) Ser proprietários, há pelo menos um ano, de prédio encravado ou confinante ou o prédio ou prédios rústicos abrangidos pelo pedido de apoio sejam objecto de exploração agrícola, pecuária ou florestal;
+
+b) Ser comproprietários, há pelo menos um ano, do prédio ou prédios rústicos abrangidos pelo pedido de apoio que sejam objecto de exploração agrícola, pecuária ou florestal.
+
+4 - Podem, ainda, beneficiar da bonificação da taxa de juro os co-herdeiros, em processo de aquisição por partilha de herança.
+
+###### Artigo 5.º — Requisitos das pessoas colectivas
+
+1 - Podem beneficiar do RICTA as pessoas colectivas que cumulativamente preencham os seguintes requisitos:
+
+a) Estejam legalmente constituídas;
+
+b) Todos os seus membros satisfaçam os requisitos estabelecidos na alínea d) do n.º 1 do artigo anterior;
+
+c) Tenham o seu capital social detido, pelo menos em dois terços, por agricultores a título principal, que não beneficiem de qualquer pensão de reforma ou de invalidez;
+
+d) Satisfaçam os requisitos estabelecidos nos n.os 2 e 3 do artigo anterior.
+
+2 - Não é apoiada a aquisição, por pessoas colectivas, de prédios rústicos que sejam propriedade dos respectivos sócios ou cooperantes, ou dos cônjuges, ascendentes, descendentes e afins na linha recta destes; a transacção inversa também não é financiada.
+
+###### Artigo 6.º — Requisitos dos prédios rústicos
+
+Os prédios rústicos abrangidos pelo RICTA devem obedecer cumulativamente aos seguintes requisitos:
+
+a) Situarem-se na região;
+
+b) Encontrarem-se descritos na conservatória do registo predial e inscritos a favor do proprietário/senhorio identificado no pedido de apoio, bem como averbados no respectivo serviço de finanças;
+
+c) Estarem livres de quaisquer ónus reais e hipotecas à data da celebração da escritura de compra e venda.
+
+###### Artigo 7.º — Bonificação
+
+1 - Nos casos em que o empréstimo não exceda (euro) 100 000, a taxa de juro será de 0 %.
+
+2 - Na parte em que o empréstimo for superior a (euro) 100 000, os mutuários suportarão uma taxa de juro de 2 %.
+
+3 - O prazo de amortização é no máximo de 20 anos, sem prejuízo do direito do mutuário ao cumprimento antecipado das prestações acordadas.
+
+###### Artigo 8.º — Limites à bonificação
+
+1 - As bonificações de juro à aquisição de prédios rústicos, no âmbito do RICTA, só são concedidas até aos seguintes limites:
+
+a) Pessoas singulares, (euro) 250 000;
+
+b) Pessoas colectivas, (euro) 500 000.
+
+2 - Cada beneficiário poderá ter acesso ao RICTA por mais de uma operação até aos limites e condições fixadas nos números anteriores.
+
+###### Artigo 9.º — Comparticipação em processo de emparcelamento
+
+Ao apoio à aquisição de prédios rústicos destinados a acções de emparcelamento decorrente da bonificação da taxa de juro acresce uma comparticipação no valor da avaliação, a fundo perdido, nas condições seguintes:
+
+a) Emparcelamento com área duas vezes superior à unidade de cultura para fins de emparcelamento - 5 %;
+
+b) Jovem agricultor - 5 %;
+
+c) Aquisição de terrenos situados nas ilhas de Santa Maria, Graciosa, São Jorge, Flores ou Corvo - 5 %.
+
+###### Artigo 10.º — Proposta de financiamento
+
+1 - As propostas de financiamento serão elaboradas pelas instituições de crédito com base na análise da viabilidade financeira da exploração e na apreciação da capacidade empresarial do proponente.
+
+2 - As propostas serão apresentadas ao membro do governo regional com competência em matéria de agricultura, o qual decidirá em despacho devidamente fundamentado no prazo máximo de 60 dias após a recepção do processo devidamente instruído.
+
+###### Artigo 11.º — Protocolos
+
+Para efeitos de aplicação do presente diploma, o governo regional, através do Instituto Regional Ordenamento Agrário, S. A. (IROA, S. A.), estabelecerá os protocolos adequados com as instituições de crédito.
+
+###### Artigo 12.º — Afectação dos prédios
+
+1 - Os beneficiários que, ao abrigo do presente regime, adquirem prédios rústicos não podem a qualquer título aliená-los, onerá-los, ceder o seu gozo, total ou parcialmente, afectá-los a outros fins que não a exploração agro-silvo-pecuária ou fraccioná-los durante o período de vigência do apoio e nunca em prazo inferior a cinco anos, ainda que o empréstimo esteja integralmente pago, salvo nos seguintes casos:
+
+a) Morte ou invalidez permanente para o trabalho;
+
+b) Acções de emparcelamento previstas na lei;
+
+c) Expropriação;
+
+d) Aprovação de processo de reforma antecipada, desde que o empréstimo esteja totalmente liquidado;
+
+e) Em situações excepcionais, devidamente fundamentadas, mediante despacho do membro do governo regional com competência em matéria de agricultura, desde que o empréstimo esteja integralmente pago.
+
+2 - Não se considera afectação a outros fins a construção no prédio objecto de apoio, de habitação, própria e permanente do beneficiário.
+
+3 - Em caso de morte do mutuário, a requerimento dos respectivos herdeiros, são declaradas extintas as limitações estabelecidas no presente artigo, cessando imediatamente as bonificações de juros.
+
+###### Artigo 13.º — Sanções
+
+A prestação de falsas declarações ou o incumprimento, pelos beneficiários, das suas obrigações legais ou contratuais implica a cessação imediata das bonificações concedidas, assim como a obrigação de restituir as bonificações já prestadas e dos apoios concedidos ao abrigo do disposto no artigo 9.º, acrescidos de juros à taxa legal vigente na data da verificação do incumprimento ou da falsidade das declarações prestadas e contados desde a data em que as bonificações e os apoios a fundo perdido tenham sido pagos.
+
+###### Artigo 14.º — Dívidas
+
+A cobrança coerciva das dívidas à região, emergentes da aplicação deste diploma, será efectuada nos termos da disposição aplicável do Estatuto Político-Administrativo da Região Autónoma dos Açores, valendo como título executivo uma certidão da dívida, de acordo com o disposto no artigo 162.º do Código de Procedimento e Processo Tributário.
+
+###### Artigo 15.º — Regulamentação
+
+O governo regional regulamentará o presente diploma, com as medidas necessárias à sua boa execução, no prazo máximo de 90 dias.
+
+###### Artigo 16.º — Encargos financeiros
+
+Os encargos financeiros decorrentes da aplicação do presente diploma são suportados pelo Orçamento da Região Autónoma dos Açores.
+
+###### Artigo 17.º — Processos pendentes
+
+Aos processos pendentes aplica-se a lei vigente à data da entrada do requerimento para concessão do apoio.
+
+###### Artigo 18.º — Revogação
+
+São revogados o [Decreto Legislativo Regional n.º 23/99/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-346702), de 31 de Julho, e o [Decreto Regulamentar Regional n.º 4/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2000-405922), de 1 de Fevereiro.
+
+###### Artigo 19.º — Entrada em vigor e produção de efeitos
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de Janeiro de 2009.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 19 de Junho de 2008.
+
+**O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.**
+
+**Assinado em Angra do Heroísmo em 15 de Julho de 2008.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

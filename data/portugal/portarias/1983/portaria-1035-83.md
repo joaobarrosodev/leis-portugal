@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:443287:por
+title: Portaria n.º 1035/83
+short_title: null
+summary: Altera a redacção dos n.os 9.º, 14.º e 15.º da Portaria n.º 56/83, de 25 de Janeiro, que cria o Fundo de Apoio à
+  Produção de Batata-Semente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Agricultura, Florestas e Alimentação e do Comércio e Turismo - Secretarias de Estado
+  do Orçamento, da Agricultura, da Alimentação e do Comércio Interno
+proposing_entity: null
+official_number: 1035/83
+official_date: null
+publication_date: '1983-12-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 285/1983, Série I de 1983-12-13
+  number: '285'
+  series: I
+  supplement: null
+  pages: 4030 - 4031
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/12/28500/40304031.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '443287'
+  dre_path: /dr/detalhe/portaria/1035-1983-443287
+  internal: pt:dre:443287:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1035-1983-443287
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1035-1983-443287
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-09-14T00:00:00Z'
+integrity:
+  source_sha256: 91be615c23ccfcf6de5b316243061fa0c82acc9008cff2f5f330e89e24d8394d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-1035-443287.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:177424:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1035/83
+
+de 13 de Dezembro
+
+A [Portaria n.º 56/83](https://diariodarepublica.pt/dr/detalhe/portaria/56-1983-308340), de 25 de Janeiro, publicada no Diário da República, 1.ª série, n.º 20, que cria o Fundo de Apoio à Produção de Batata-Semente, saiu com algumas imprecisões que importa esclarecer, a fim de obstar aos inconvenientes daí advenientes.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento, da Agricultura, da Alimentação e do Comércio Interno, aprovar a alteração dos n.os 9.º, 14.º e 15.º da [Portaria n.º 56/83](https://diariodarepublica.pt/dr/detalhe/portaria/56-1983-308340), de 25 de Janeiro, que passam a ter a seguinte redacção:
+
+9.º Para efeitos de apreciação dos projectos de acções referidas nas alíneas 2), 3) e 4) do n.º 5.º, é criada a Comissão de Apreciação dos Projectos, adiante designada por Comissão, a qual será constituída por 1 representante do Gabinete de Planeamento do Ministério da Agricultura, Florestas e Alimentação, que coordenará, 1 representante dos serviços responsáveis pela coordenação do controle de produção e certificação de batata-semente, 1 representante da Junta Nacional das Frutas, 1 representante dos serviços responsáveis pelo associativismo agrícola, 1 representante de cada uma das direcções regionais de agricultura com responsabilidades na produção de batata-semente e 1 representante da União das Cooperativas Agrícolas de Produtores de Batata-Semente do Norte.
+
+14.º Para efeito do disposto no número anterior, será observado o seguinte procedimento:
+
+1) As cooperativas de produtores de batata-semente deverão apresentar à União das Cooperativas Agrícolas de Produtores de Batata-Semente do Norte documentação comprovativa dos valores despendidos na aquisição dos propágulos;
+
+2) A União das Cooperativas Agrícolas de Produtores de Batata-Semente do Norte deverá apresentar até 1 de Abril à Junta Nacional das Frutas e aos serviços responsáveis pelo controle e certificação de batata-semente documentação comprovativa dos valores por si despendidos ou pelas cooperativas suas associadas na aquisição de propágulos;
+
+3) A Junta Nacional das Frutas, com base na documentação referida na alínea 2) e face aos elementos constantes dos BRIs, procederá à liquidação de 50% do valor estimado como subsídio no período de 15 a 30 de Abril de cada ano;
+
+4) A União das Cooperativas Agrícolas de Produtores de Batata-Semente do Norte informará até 15 de Junho a Junta Nacional das Frutas e os serviços responsáveis pelo controle de produção e certificação de batata-semente das quantidades de batata-semente efectivamente utilizadas para multiplicação;
+
+5) A Junta Nacional das Frutas procederá à liquidação do remanescente do subsídio no período de 15 a 30 de Julho de cada ano, de acordo com o parecer emitido pelos serviços responsáveis pelo controle de produção e certificação de batata-semente, das quantidades de batata-semente efectivamente utilizadas.
+
+15.º O procedimento a observar nas restantes acções referidas no n.º 5.º será o seguinte:
+
+1) As cooperativas de produtores de batata-semente por intermédio da sua união, apresentarão os projectos nas direcções regionais de agricultura até 15 de Março de cada ano;
+
+2) As direcções regionais de agricultura, após a elaboração do respectivo parecer, remeterão os projectos devidamente informados ao Gabinete de Planeamento do Ministério da Agricultura, Florestas e Alimentação até ao dia 15 de Maio seguinte;
+
+3) O Gabinete de Planeamento organizará os respectivos processos e convocará, durante a primeira semana de Junho de cada ano, a Comissão para apreciação dos projectos e apresentação de propostas a submeter a despacho conjunto dos Secretários de Estado da Agricultura e da Alimentação.
+
+Secretarias de Estado do Orçamento, da Agricultura, da Alimentação e do Comércio Interno.
+
+**Assinada em 12 de Novembro de 1983.**
+
+**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado da Agricultura, José Herculano Brito de Carvalho. - O Secretário de Estado da Alimentação, Jacinto José Montalvão de Santos e Silva Marques. - O Secretário de Estado do Comércio Interno, Carlos Alberto Antunes Filipe.**

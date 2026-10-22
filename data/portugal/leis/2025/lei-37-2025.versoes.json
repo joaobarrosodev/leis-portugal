@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:913048481:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2025-913216576",
+ "dre_path": "/dr/detalhe/lei/37-2025-913048481",
+ "source_lastmod": "2025-04-04",
+ "versions": [
+  {
+   "date": "2025-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "913037474",
+    "913218875",
+    "913218876",
+    "913218877",
+    "913218878",
+    "913218879",
+    "913218880"
+   ]
+  }
+ ],
+ "fragments": {
+  "913037474": {
+   "fragment_id": "913216577",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 37/2025\n\nde 31 de março\n\nPossibilita que familiares e pessoas candidatas à adoção possam ser famílias de acolhimento e reforça os direitos das crianças e jovens em acolhimento, alterando a Lei n.º 147/99, de 1 de setembro, e o Decreto-Lei n.º 139/2019, de 16 de setembro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "913218875": {
+   "fragment_id": "913216578",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à:\n\na) Alteração à lei de proteção de crianças e jovens em perigo, aprovada pela Lei n.º 147/99, de 1 de setembro, na sua redação atual, reforçando os direitos das crianças e jovens, assumindo o acolhimento familiar como medida preferencial nas situações em que seja necessário acolhimento, definindo os termos para a eventual ajuda económica, previstos pelo Decreto-Lei n.º 139/2019, de 16 de setembro, a atribuir a outros familiares ou a pessoa idónea, e estabelecendo a entidade pública responsável por desencadear a intervenção quando exista uma situação de perigo;\n\nb) Terceira alteração ao Decreto-Lei n.º 139/2019, de 16 de setembro, que estabelece o regime de execução do acolhimento familiar, medida de promoção dos direitos e de proteção das crianças e jovens em perigo, revogando a impossibilidade de haver grau de parentesco e candidatura à adoção para os critérios de elegibilidade a família de acolhimento.\n\n> Nota: [Declaração de Retificação n.º 20/2025/1 - Diário da República n.º 73/2025, Série I de 2025-04-14](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2025-914891319) A retificação do presente artigo produz efeitos com o Orçamento do Estado para 2026."
+  },
+  "913218876": {
+   "fragment_id": "913216579",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 147/99, de 1 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 147/99, de 1 de setembro\n\nOs artigos 7.º, 20.º-A, 40.º, 43.º, 46.º e 58.º da Lei n.º 147/99, de 1 de setembro, passam a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - Sempre que uma situação de perigo de uma criança ou jovem envolver várias entidades, a iniciativa inicial para a intervenção compete à que primeiro sinalizou o referido perigo.\n\nArtigo 20.º-A\n\n[...]\n\n1 - A Comissão Nacional deve protocolar com as entidades representadas na comissão alargada a afetação de técnicos para apoio à atividade da comissão restrita.\n\n2 - [...]\n\nArtigo 40.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - A ajuda económica referida no número anterior é atribuída nos termos do artigo 30.º do Decreto-Lei n.º 139/2019, de 16 de setembro.\n\nArtigo 43.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - A ajuda económica referida no número anterior é atribuída nos termos do artigo 30.º do Decreto-Lei n.º 139/2019, de 16 de setembro.\n\nArtigo 46.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - Deve ser sempre priorizada a aplicação da medida de acolhimento familiar sobre a de acolhimento residencial, salvo:\n\na) [...]\n\nb) [...]\n\n5 - A aplicação excecional da medida de acolhimento residencial tem de ser devidamente fundamentada.\n\nArtigo 58.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) Ter assegurado um ambiente livre de discriminação, maus-tratos, violência ou qualquer tipo de exploração, com a garantia de canais acessíveis, independentes e eficazes para denúncias e acompanhamento;\n\nm) Ver assegurado um terapeuta de referência pelo Ministério da Saúde;\n\nn) Garantia da frequência da creche e da escola mais próxima da residência de acolhimento;\n\no) Diferenciação positiva em todas as medidas públicas que lhes sejam aplicáveis;\n\np) Em relação aos jovens que frequentem o ensino superior com aproveitamento, direito a uma bolsa mensal que lhes é atribuída pelo ISS, IP, no valor correspondente à propina, aos valores e gastos com materiais e equipamentos imprescindíveis à frequência do curso e transporte, bem como alojamento, caso necessário, devendo a casa de acolhimento garantir as despesas devidas à sua subsistência;\n\nq) Manter contacto com a família de acolhimento após a cessação da medida de acolhimento familiar sempre que corresponda ao superior interesse da criança.\n\n2 - O Conselho Nacional Consultivo dos Jovens Acolhidos deve ser ouvido anualmente pela Assembleia da República sobre a implementação do presente regime.\n\n3 - (Anterior n.º 2.)»"
+  },
+  "913218877": {
+   "fragment_id": "913216580",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração ao Decreto-Lei n.º 139/2019, de 16 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração ao Decreto-Lei n.º 139/2019, de 16 de setembro\n\nOs artigos 14.º, 23.º e 27.º do Decreto-Lei n.º 139/2019, de 16 de setembro, passam a ter a seguinte redação:\n\n«Artigo 14.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) (Revogada.)\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\n2 - O disposto nas alíneas e) a g) do número anterior aplica-se, igualmente, a quem coabite com o responsável pelo acolhimento familiar.\n\n3 - Sempre que o candidato a responsável pelo acolhimento familiar seja candidato à adoção, é exigida uma especial avaliação técnica tendo em vista a garantia do superior interesse da criança e do jovem.\n\nArtigo 23.º\n\n[...]\n\n1 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\nj) [...]\n\nk) [...]\n\nl) [...]\n\nm) [...]\n\nn) [...]\n\no) [...]\n\np) [...]\n\nq) A permanecer na família de acolhimento e por ela ser adotada, sempre que seja determinada medida de adotabilidade, em estrito respeito pelo princípio enunciado na alínea g) do artigo 4.º da LPCJP e pelo superior interesse da criança e do jovem.\n\n2 - [...]\n\n3 - [...]\n\nArtigo 27.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) Manter contacto com a criança e jovem após a cessação da medida de acolhimento familiar sempre que corresponda ao superior interesse da criança.\n\n4 - Às famílias de acolhimento pode ser concedido o direito a adotar a criança ou jovem acolhido, no estrito respeito pelo princípio enunciado na alínea g) do artigo 4.º da LPCJP e sempre que corresponda ao superior interesse da criança e do jovem.»"
+  },
+  "913218878": {
+   "fragment_id": "913216581",
+   "type": 11,
+   "heading": "Artigo 4.º — Candidatura a família de acolhimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Candidatura a família de acolhimento\n\nO Governo altera a Portaria n.º 278-A/2020, de 4 de dezembro, que define os termos, condições e procedimentos do processo de candidatura, seleção, formação e avaliação das famílias de acolhimento, para possibilitar que pessoas ou famílias candidatas à adoção possam ser candidatas a família de acolhimento nas condições previstas no artigo 46.º da Lei n.º 147/99, de 1 de setembro."
+  },
+  "913218879": {
+   "fragment_id": "913216582",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados:\n\na) O n.º 5 do artigo 26.º da Lei n.º 147/99, de 1 de setembro;\n\nb) O n.º 3 do artigo 12.º e a alínea b) do n.º 1 do artigo 14.º do Decreto-Lei n.º 139/2019, de 16 de setembro."
+  },
+  "913218880": {
+   "fragment_id": "913216583",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente lei entra em vigor com o Orçamento do Estado subsequente à data da sua aprovação.\n\n> Nota: [Declaração de Retificação n.º 18-B/2025/1 - Diário da República n.º 65/2025, Suplemento, Série I de 2025-04-02](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-b-2025-913464105) A retificação do presente artigo produz efeitos com o Orçamento do Estado para 2026."
+  }
+ }
+}

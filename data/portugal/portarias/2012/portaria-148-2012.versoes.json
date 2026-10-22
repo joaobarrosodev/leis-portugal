@@ -1,0 +1,366 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:552050:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-205493425",
+ "dre_path": "/dr/detalhe/portaria/148-2012-552050",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-05-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "205492208",
+    "205492190",
+    "205492191",
+    "205492192",
+    "205492193",
+    "205492194",
+    "205492195",
+    "205492196",
+    "205492197",
+    "205492198",
+    "205492199"
+   ]
+  },
+  {
+   "date": "2012-10-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:192472:por",
+     "title": "Portaria n.º 337/2012",
+     "published": "2012-10-24",
+     "dre_path": "/dr/detalhe/portaria/337-2012-192472"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "205492189",
+    "205492190",
+    "205492191",
+    "205492201",
+    "205492193",
+    "205492194",
+    "205492195",
+    "205492202",
+    "205492197",
+    "205492198",
+    "205492199",
+    "205492200"
+   ]
+  },
+  {
+   "date": "2013-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:258165:por",
+     "title": "Portaria n.º 31/2013",
+     "published": "2013-01-29",
+     "dre_path": "/dr/detalhe/portaria/31-2013-258165"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "205492189",
+    "205492190",
+    "205492191",
+    "205492201",
+    "205492193",
+    "205492194",
+    "205492195",
+    "205492207",
+    "205492197",
+    "205492198",
+    "205492199",
+    "205492200"
+   ]
+  },
+  {
+   "date": "2015-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70054438:por",
+     "title": "Portaria n.º 255/2015",
+     "published": "2015-08-20",
+     "dre_path": "/dr/detalhe/portaria/255-2015-70054438"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "205492208",
+    "205492209",
+    "205492210",
+    "205492211",
+    "205492212",
+    "205492213",
+    "205492214",
+    "205492215",
+    "205492216",
+    "205492217",
+    "205492218",
+    "205492219"
+   ]
+  }
+ ],
+ "fragments": {
+  "205492208": {
+   "fragment_id": "205493426",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2015-08-21",
+   "changed_by": [],
+   "markdown": "Portaria n.º 148/2012\n\nde 16 de maio\n\nO Decreto Regulamentar n.º 19/2012, de 31 de janeiro, definiu a missão, atribuições e tipo de organização interna da Direção-Geral de Planeamento e Gestão Financeira do Ministério da Educação e Ciência. Importa agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear e estabelecer o número máximo de unidades flexíveis e matriciais do serviço e as competências das respetivas unidades orgânicas nucleares.\n\nAssim:\n\nAo abrigo do disposto nos n.os 4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Educação e Ciência, o seguinte:"
+  },
+  "205492190": {
+   "fragment_id": "205493427",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral de Planeamento e Gestão Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral de Planeamento e Gestão Financeira\n\n1 - A Direção-Geral de Planeamento e Gestão Financeira estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Planeamento e Avaliação;\n\nb) Direção de Serviços de Sistemas e Tecnologias da Informação;\n\nc) Direção de Serviços de Orçamento e Conta;\n\nd) Direção de Serviços de Orçamento das Escolas do Ensino Básico e Secundário;\n\ne) Direção de Serviços do Orçamento do Ensino Superior e da Ciência.\n\n2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau."
+  },
+  "205492191": {
+   "fragment_id": "205493428",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços de Planeamento e Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direção de Serviços de Planeamento e Avaliação\n\nÀ Direção de Serviços de Planeamento e Avaliação, abreviadamente designada por DSPA, compete:\n\na) Elaborar, difundir e apoiar a criação de instrumentos de planeamento das políticas e programas do MEC;\n\nb) Coordenar o planeamento estratégico do MEC, nomeadamente da rede escolar;\n\nc) Desenvolver e coordenar estudos sobre o sistema educativo;\n\nd) Apoiar o processo de caracterização e avaliação global e continuada do sistema educativo, em particular nas suas componentes financeiras e de rede escolar, nomeadamente através da elaboração de indicadores orientadores das decisões de gestão do sistema educativo;\n\ne) Assegurar as atividades relativas aos sistemas de avaliação do desempenho dos serviços do MEC, visando o seu desenvolvimento, coordenação e controlo, e apoiar o exercício das demais competências fixadas na lei sobre a matéria;\n\nf) Prestar apoio técnico em matéria de definição e estruturação das políticas, prioridades e objetivos do MEC."
+  },
+  "205492192": {
+   "fragment_id": "205493429",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Sistemas e Tecnologias da Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Sistemas e Tecnologias da Informação\n\nÀ Direção de Serviços de Sistemas e Tecnologias da Informação, abreviadamente designada por DSSTI compete:\n\na) Conceber e propor políticas e estratégias para as tecnologias de informação e comunicação (TIC) do MEC, tendo em vista o incremento e melhoria da qualidade dos serviços prestados, o aumento da eficiência e a racionalização de custos;\n\nb) Elaborar, implementar e monitorizar a execução do plano estratégico para as TIC do MEC;\n\nc) Conceber e colaborar na implementação de programas de utilização de tecnologia em contexto escolar, em articulação com os restantes serviços do MEC com atribuições nesta matéria;\n\nd) Adotar uma estratégia de governação de TIC que concretize o plano estratégico e defina normas relativas à seleção, aquisição e utilização de infraestruturas tecnológicas e sistemas de informação pelos serviços do MEC e pelas escolas;\n\ne) Assegurar a conceção, gestão e operação das infraestruturas e sistemas de informação, em articulação com os serviços e organismos do MEC e as escolas do ensino pré-escolar, básico e secundário, numa lógica de serviços partilhados;\n\nf) Promover a consolidação e a racionalização de métodos, recursos, processos e infraestruturas tecnológicas nos serviços e organismos do MEC e nas escolas, assegurando, designadamente e nos termos fixados no plano estratégico, a seleção, aquisição, instalação e funcionamento dos equipamentos informáticos, bem como a gestão do seu ciclo de vida;\n\ng) Assegurar a representação do MEC na sua articulação com entidades com atribuições interministeriais ou internacionais na área das TIC;\n\nh) Assegurar a gestão dos contratos com os prestadores externos, a articulação entre estes e o cumprimento dos níveis de serviço contratados;\n\ni) Definir e implementar métodos de gestão de qualidade, auditoria e segurança, em consonância com o modelo de governação de IT adotado."
+  },
+  "205492193": {
+   "fragment_id": "205493430",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços de Orçamento e Conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direção de Serviços de Orçamento e Conta\n\nÀ Direção de Serviços de Orçamento e Conta, abreviadamente designada por DSOC, compete, no âmbito do orçamento do MEC:\n\na) Elaborar o projeto de orçamento anual de funcionamento e de investimento do MEC, assegurar o acompanhamento da execução orçamental e elaborar os respetivos relatórios;\n\nb) Elaborar a proposta de distribuição de verbas pelos órgãos, serviços e organismos do MEC e por entidades tuteladas ou com superintendência do membro do Governo responsável pelas áreas da educação e ciência;\n\nc) Coordenar a elaboração de projetos, planos e programas, gerais ou setoriais, apoiados por fundos europeus e acompanhar a respetiva execução;\n\nd) Garantir a atualização dos instrumentos de planeamento financeiro, através da recolha e tratamento de dados de natureza financeira, com vista à concretização das orientações de política de educação e ciência e à elaboração da conta satélite da educação e ciência;\n\ne) Conceber indicadores financeiros destinados a apoiar o planeamento e a gestão dos sistemas de educação e de ciência e tecnologia;\n\nf) Promover e gerir programas setoriais transversais, integrando o respetivo planeamento orçamental."
+  },
+  "205492194": {
+   "fragment_id": "205493431",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Orçamento das Escolas do Ensino Básico e Secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Orçamento das Escolas do Ensino Básico e Secundário\n\nÀ Direção de Serviços de Orçamento das Escolas do Ensino Básico e Secundário, abreviadamente designada por DSOEBS, compete, no âmbito do orçamento das escolas e dos respetivos agrupamentos:\n\na) Preparar o projeto de orçamento das escolas do ensino básico e secundário, quer no que se refere às dotações comuns de pessoal, quer às de manutenção e funcionamento;\n\nb) Proceder à distribuição do orçamento individualizado destinado ao funcionamento das escolas, de acordo com os parâmetros aprovados;\n\nc) Acompanhar a execução das dotações orçamentais atribuídas por forma a garantir uma correta gestão previsional do orçamento;\n\nd) Conceber, atualizar e aplicar um sistema de indicadores económico-financeiros de gestão que permita otimizar a utilização das verbas disponibilizadas ao subsistema do ensino básico e secundário;\n\ne) Proceder à preparação, acompanhamento e avaliação dos contratos-programa anuais e plurianuais com as escolas e dos respetivos agrupamentos;\n\nf) Facultar às escolas apoio técnico-administrativo na área financeira, no sentido de facilitar a gestão por parte dos respetivos órgãos diretivos."
+  },
+  "205492195": {
+   "fragment_id": "205493432",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços do Orçamento do Ensino Superior e da Ciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção de Serviços do Orçamento do Ensino Superior e da Ciência\n\nÀ Direção de Serviços do Orçamento do Ensino Superior e da Ciência, abreviadamente designada por DSOESC, compete:\n\na) Apoiar, definir e acompanhar os modelos de financiamento público do ensino superior;\n\nb) Acompanhar a execução financeira do orçamento para a ação social no ensino superior da responsabilidade da Direção-Geral do Ensino Superior, com vista à preparação de instrumentos de planeamento financeiro;\n\nc) Acompanhar a execução financeira do orçamento para a ciência e tecnologia da responsabilidade da Fundação para a Ciência e a Tecnologia, I. P., com vista à preparação de instrumentos de planeamento financeiro;\n\nd) Apoiar a definição dos objetivos dos contratos-programa anuais e plurianuais a celebrar com as instituições de ensino superior, bem como do respetivo modelo de financiamento, acompanhamento e avaliação;\n\ne) Proceder à preparação, acompanhamento e avaliação dos contratos-programa anuais e plurianuais com as instituições de ensino superior;\n\nf) Assegurar a representação do MEC na elaboração dos orçamentos integrados da ciência e tecnologia e da sociedade da informação;\n\ng) Acompanhar e avaliar a execução, na sua vertente financeira, das políticas e programas das áreas do ensino superior, ação social escolar, ciência, tecnologia e sociedade da informação."
+  },
+  "205492196": {
+   "fragment_id": "205493433",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidades orgânicas flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGPGF é fixado em sete."
+  },
+  "205492197": {
+   "fragment_id": "205493434",
+   "type": 11,
+   "heading": "Artigo 8.º — Chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Chefes de equipas multidisciplinares\n\nÉ fixada em duas a dotação máxima de chefes de equipas multidisciplinares."
+  },
+  "205492198": {
+   "fragment_id": "205493435",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 358/2007, de 30 de março;\n\nb) A Portaria n.º 380/2007, de 30 de março;\n\nc) A Portaria n.º 356/2007, de 30 de março, alterada pela Portaria n.º 52/2009, de 20 de janeiro;\n\nd) A Portaria n.º 378/2007, de 30 de março;"
+  },
+  "205492199": {
+   "fragment_id": "205493436",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "205492189": {
+   "fragment_id": "205493426",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 148/2012\n\nde 16 de maio\n\nO Decreto Regulamentar n.º 19/2012, de 31 de janeiro, definiu a missão, atribuições e tipo de organização interna da Direção-Geral de Planeamento e Gestão Financeira do Ministério da Educação e Ciência. Importa agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear e estabelecer o número máximo de unidades flexíveis e matriciais do serviço e as competências das respetivas unidades orgânicas nucleares.\n\nAssim:\n\nAo abrigo do disposto nos n.os 4 e 5 do artigo 21.º e do n.º 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Educação e Ciência, o seguinte:"
+  },
+  "205492201": {
+   "fragment_id": "205493429",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Sistemas e Tecnologias da Informação",
+   "in_force_from": "2012-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 337/2012 - Diário da República n.º 206/2012, Série I de 2012-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/337-2012-192472), em vigor a partir de 2012-10-25"
+   ],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Sistemas e Tecnologias da Informação\n\nÀ Direção de Serviços de Sistemas e Tecnologias da Informação, abreviadamente designada por DSSTI compete:\n\na) Contribuir para a definição das políticas e estratégias em matéria de sistemas de informação de suporte às áreas do planeamento, da gestão financeira e do planeamento da rede escolar;\n\nb) Assegurar a integração dos organismos do MEC e das escolas no sistema de administração financeira do Estado;\n\nc) Assegurar a gestão e operação da infraestrutura tecnológica de suporte ao RAFE - SIC dos serviços do MEC e dos estabelecimentos de ensino não superior;\n\nd) Implementar métodos de gestão de qualidade, auditoria e segurança, em consonância com o modelo de governação de TIC adotado no MEC;\n\ne) Assegurar o desenvolvimento e a gestão de sistemas de informação necessários a uma gestão eficaz da rede escolar do ensino não superior;\n\nf) Assegurar a gestão e operação das infraestruturas tecnológicas da DGPGF.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 337/2012 - Diário da República n.º 206/2012, Série I de 2012-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/337-2012-192472), em vigor a partir de 2012-10-25"
+  },
+  "205492202": {
+   "fragment_id": "205493433",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2012-10-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 337/2012 - Diário da República n.º 206/2012, Série I de 2012-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/337-2012-192472), em vigor a partir de 2012-10-25"
+   ],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGPGF é fixado em seis.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 337/2012 - Diário da República n.º 206/2012, Série I de 2012-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/337-2012-192472), em vigor a partir de 2012-10-25"
+  },
+  "205492200": {
+   "fragment_id": "205493437",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 10 de maio de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 24 de abril de 2012."
+  },
+  "205492207": {
+   "fragment_id": "205493433",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2013-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 31/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/31-2013-258165), em vigor a partir de 2013-01-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 337/2012 - Diário da República n.º 206/2012, Série I de 2012-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/337-2012-192472), em vigor a partir de 2012-10-25"
+   ],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGPGF é fixado em cinco.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 31/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/31-2013-258165), em vigor a partir de 2013-01-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 337/2012 - Diário da República n.º 206/2012, Série I de 2012-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/337-2012-192472), em vigor a partir de 2012-10-25"
+  },
+  "205492209": {
+   "fragment_id": "205493427",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral de Planeamento e Gestão Financeira",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral de Planeamento e Gestão Financeira\n\n1 - A Direção-Geral de Planeamento e Gestão Financeira estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Planeamento e Avaliação;\n\nb) Direção de Serviços de Sistemas e Tecnologias da Informação;\n\nc) Direção de Serviços de Orçamento e Conta;\n\nd) Direção de Serviços de Orçamento das Escolas do Ensino Básico e Secundário;\n\ne) Direção de Serviços do Orçamento do Ensino Superior e da Ciência.\n\n2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+  },
+  "205492210": {
+   "fragment_id": "205493428",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços de Planeamento e Avaliação",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+   ],
+   "markdown": "###### Artigo 2.º — Direção de Serviços de Planeamento e Avaliação\n\nÀ Direção de Serviços de Planeamento e Avaliação, abreviadamente designada por DSPA, compete:\n\na) Elaborar, difundir e apoiar a criação de instrumentos de planeamento das políticas e programas do MEC;\n\nb) Coordenar o planeamento estratégico do MEC, nomeadamente da rede escolar;\n\nc) Desenvolver e coordenar estudos sobre o sistema educativo;\n\nd) Apoiar o processo de caracterização e avaliação global e continuada do sistema educativo, em particular nas suas componentes financeiras e de rede escolar, nomeadamente através da elaboração de indicadores orientadores das decisões de gestão do sistema educativo;\n\ne) Assegurar as atividades relativas aos sistemas de avaliação do desempenho dos serviços do MEC, visando o seu desenvolvimento, coordenação e controlo, e apoiar o exercício das demais competências fixadas na lei sobre a matéria;\n\nf) Prestar apoio técnico em matéria de definição e estruturação das políticas, prioridades e objetivos do MEC.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+  },
+  "205492211": {
+   "fragment_id": "205493429",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Sistemas e Tecnologias da Informação",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 337/2012 - Diário da República n.º 206/2012, Série I de 2012-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/337-2012-192472), em vigor a partir de 2012-10-25"
+   ],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Sistemas e Tecnologias da Informação\n\nÀ Direção de Serviços de Sistemas e Tecnologias da Informação, abreviadamente designada por DSSTI compete:\n\na) Contribuir para a definição das políticas e estratégias em matéria de sistemas de informação de suporte às áreas do planeamento, da gestão financeira e do planeamento da rede escolar;\n\nb) Assegurar a integração dos organismos do MEC e das escolas no sistema de administração financeira do Estado;\n\nc) Assegurar a gestão e operação da infraestrutura tecnológica de suporte ao RAFE - SIC dos serviços do MEC e dos estabelecimentos de ensino não superior;\n\nd) Implementar métodos de gestão de qualidade, auditoria e segurança, em consonância com o modelo de governação de TIC adotado no MEC;\n\ne) Assegurar o desenvolvimento e a gestão de sistemas de informação necessários a uma gestão eficaz da rede escolar do ensino não superior;\n\nf) Assegurar a gestão e operação das infraestruturas tecnológicas da DGPGF.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 337/2012 - Diário da República n.º 206/2012, Série I de 2012-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/337-2012-192472), em vigor a partir de 2012-10-25"
+  },
+  "205492212": {
+   "fragment_id": "205493430",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços de Orçamento e Conta",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+   ],
+   "markdown": "###### Artigo 4.º — Direção de Serviços de Orçamento e Conta\n\nÀ Direção de Serviços de Orçamento e Conta, abreviadamente designada por DSOC, compete, no âmbito do orçamento do MEC:\n\na) Elaborar o projeto de orçamento anual de funcionamento e de investimento do MEC, assegurar o acompanhamento da execução orçamental e elaborar os respetivos relatórios;\n\nb) Elaborar a proposta de distribuição de verbas pelos órgãos, serviços e organismos do MEC e por entidades tuteladas ou com superintendência do membro do Governo responsável pelas áreas da educação e ciência;\n\nc) Coordenar a elaboração de projetos, planos e programas, gerais ou setoriais, apoiados por fundos europeus e acompanhar a respetiva execução;\n\nd) Garantir a atualização dos instrumentos de planeamento financeiro, através da recolha e tratamento de dados de natureza financeira, com vista à concretização das orientações de política de educação e ciência e à elaboração da conta satélite da educação e ciência;\n\ne) Conceber indicadores financeiros destinados a apoiar o planeamento e a gestão dos sistemas de educação e de ciência e tecnologia;\n\nf) Promover e gerir programas setoriais transversais, integrando o respetivo planeamento orçamental.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+  },
+  "205492213": {
+   "fragment_id": "205493431",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Orçamento das Escolas do Ensino Básico e Secundário",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+   ],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Orçamento das Escolas do Ensino Básico e Secundário\n\nÀ Direção de Serviços de Orçamento das Escolas do Ensino Básico e Secundário, abreviadamente designada por DSOEBS, compete, no âmbito do orçamento das escolas e dos respetivos agrupamentos:\n\na) Preparar o projeto de orçamento das escolas do ensino básico e secundário, quer no que se refere às dotações comuns de pessoal, quer às de manutenção e funcionamento;\n\nb) Proceder à distribuição do orçamento individualizado destinado ao funcionamento das escolas, de acordo com os parâmetros aprovados;\n\nc) Acompanhar a execução das dotações orçamentais atribuídas por forma a garantir uma correta gestão previsional do orçamento;\n\nd) Conceber, atualizar e aplicar um sistema de indicadores económico-financeiros de gestão que permita otimizar a utilização das verbas disponibilizadas ao subsistema do ensino básico e secundário;\n\ne) Proceder à preparação, acompanhamento e avaliação dos contratos-programa anuais e plurianuais com as escolas e dos respetivos agrupamentos;\n\nf) Facultar às escolas apoio técnico-administrativo na área financeira, no sentido de facilitar a gestão por parte dos respetivos órgãos diretivos.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+  },
+  "205492214": {
+   "fragment_id": "205493432",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços do Orçamento do Ensino Superior e da Ciência",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+   ],
+   "markdown": "###### Artigo 6.º — Direção de Serviços do Orçamento do Ensino Superior e da Ciência\n\nÀ Direção de Serviços do Orçamento do Ensino Superior e da Ciência, abreviadamente designada por DSOESC, compete:\n\na) Apoiar, definir e acompanhar os modelos de financiamento público do ensino superior;\n\nb) Acompanhar a execução financeira do orçamento para a ação social no ensino superior da responsabilidade da Direção-Geral do Ensino Superior, com vista à preparação de instrumentos de planeamento financeiro;\n\nc) Acompanhar a execução financeira do orçamento para a ciência e tecnologia da responsabilidade da Fundação para a Ciência e a Tecnologia, I. P., com vista à preparação de instrumentos de planeamento financeiro;\n\nd) Apoiar a definição dos objetivos dos contratos-programa anuais e plurianuais a celebrar com as instituições de ensino superior, bem como do respetivo modelo de financiamento, acompanhamento e avaliação;\n\ne) Proceder à preparação, acompanhamento e avaliação dos contratos-programa anuais e plurianuais com as instituições de ensino superior;\n\nf) Assegurar a representação do MEC na elaboração dos orçamentos integrados da ciência e tecnologia e da sociedade da informação;\n\ng) Acompanhar e avaliar a execução, na sua vertente financeira, das políticas e programas das áreas do ensino superior, ação social escolar, ciência, tecnologia e sociedade da informação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+  },
+  "205492215": {
+   "fragment_id": "205493433",
+   "type": 11,
+   "heading": "Artigo 7.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 31/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/31-2013-258165), em vigor a partir de 2013-01-30",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 337/2012 - Diário da República n.º 206/2012, Série I de 2012-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/337-2012-192472), em vigor a partir de 2012-10-25"
+   ],
+   "markdown": "###### Artigo 7.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGPGF é fixado em cinco.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 31/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/31-2013-258165), em vigor a partir de 2013-01-30\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 337/2012 - Diário da República n.º 206/2012, Série I de 2012-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/337-2012-192472), em vigor a partir de 2012-10-25"
+  },
+  "205492216": {
+   "fragment_id": "205493434",
+   "type": 11,
+   "heading": "Artigo 8.º — Chefes de equipas multidisciplinares",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+   ],
+   "markdown": "###### Artigo 8.º — Chefes de equipas multidisciplinares\n\nÉ fixada em duas a dotação máxima de chefes de equipas multidisciplinares.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+  },
+  "205492217": {
+   "fragment_id": "205493435",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+   ],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 358/2007, de 30 de março;\n\nb) A Portaria n.º 380/2007, de 30 de março;\n\nc) A Portaria n.º 356/2007, de 30 de março, alterada pela Portaria n.º 52/2009, de 20 de janeiro;\n\nd) A Portaria n.º 378/2007, de 30 de março;\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+  },
+  "205492218": {
+   "fragment_id": "205493436",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+  },
+  "205492219": {
+   "fragment_id": "205493437",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2015-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+   ],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 10 de maio de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 24 de abril de 2012.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 255/2015 - Diário da República n.º 162/2015, Série I de 2015-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/255-2015-70054438), em vigor a partir de 2015-08-21"
+  }
+ }
+}

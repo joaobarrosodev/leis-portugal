@@ -1,0 +1,618 @@
+---
+schema_version: '1.0'
+id: pt:dre:661563:por
+title: Decreto-Lei n.º 268/97
+short_title: null
+summary: Aprova as alterações à Lei Orgânica do Departamento de Relações Internacionais de Segurança Social, constante do
+  Decreto-Lei n.º 320/95, de 28 de Novembro, decorrentes da aplicação do Decreto-Lei n.º 35/96, de 2 de Maio
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 268/97
+official_date: null
+publication_date: '1997-10-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 228/1997, Série I-A de 1997-10-02
+  number: '228'
+  series: I
+  supplement: null
+  pages: 5393 - 5398
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/10/228a00/53935398.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/268/1997/10/02/p/dre/pt/html
+  oj: null
+  dre: '661563'
+  dre_path: /dr/detalhe/decreto-lei/268-1997-661563
+  internal: pt:dre:661563:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1997-661563
+  metadata_url: https://data.dre.pt/eli/dec-lei/268/1997/10/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1997-661563
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-05-29T00:00:00Z'
+integrity:
+  source_sha256: fa284fca926239f30575a75a87e88565c90d55d9abc09e1e922b75f734859aa7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-268-661563.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Departamento de Relações Internacionais de Segurança Social
+- Conselho Consultivo para a Coordenação Internacional de Segurança Social
+- Ação Social
+- Orgânica
+- Inserção Social
+- Quadro de Pessoal
+- Regimes de Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:638546:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/32/1996/04/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/1996/04/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/320/1995/11/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/320/1995/11/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/35/1996/05/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/35/1996/05/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/48/1996/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/48/1996/09/04/p/dre
+article_structure:
+  article_count: 20
+  section_count: 2
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 268/97
+
+de 2 de Outubro
+
+O [Decreto-Lei n.º 320/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1995-626591), de 28 de Novembro, aprovou o diploma orgânico do Departamento de Relações Internacionais de Segurança Social (adiante designado por DRISS), o qual entrou em vigor em 1 de Janeiro de 1996, por força do [Decreto-Lei n.º 32/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-1996-554780), de 11 de Abril.
+
+Com a publicação do [Decreto-Lei n.º 35/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1996-476916), de 2 de Maio, que estabeleceu a orgânica do Ministério da Solidariedade e Segurança Social (adiante designado por MSSS), tornou-se necessário adequar a legislação relativa à orgânica de vários serviços e organismos deste Ministério, entre os quais o DRISS.
+
+Aproveita-se a oportunidade para, em cumprimento da [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, prever a criação da estrutura participativa adequada às especificidades do DRISS, com vista à protecção na segurança social das pessoas que podem invocar a aplicação dos instrumentos internacionais respectivos.
+
+É este o objectivo do presente diploma que, em substância, adita ou altera algumas disposições no referido diploma orgânico do DRISS, para tanto revestindo a forma de decreto-lei.
+
+Além da adaptação ou diversa inserção sistemática de algumas disposições do [Decreto-Lei n.º 320/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1995-626591), de 28 de Novembro, são quatro as principais alterações adoptadas, a saber:
+
+A adequação resultante da atribuição ao DRISS pelo [Decreto-Lei n.º 35/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1996-476916), de 2 de Maio, das competências relativas ao estudo, negociação técnica e coordenação da aplicação dos instrumentos internacionais de inserção social;
+
+A criação do conselho consultivo para a coordenação internacional de segurança social;
+
+A redefinição do âmbito das disposições sobre as deslocações ao estrangeiro, tendo em conta que a representação assegurada, directa ou indirectamente, pelo DRISS se refere às instituições de segurança social;
+
+A criação de uma Direcção de Serviços Financeiros e de Administração Geral e a consequente extinção da Divisão de Serviços com a mesma designação, tendo em conta o acréscimo das actividades do DRISS, quer de ordem financeira, decorrente da aplicação de instrumentos internacionais, quer de natureza administrativa.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 3.º, 4.º, 5.º, 7.º, 8.º, 10.º, 11.º, 12.º, 13.º, 14.º, 15.º, 17.º, 20.º, 23.º e 28.º do [Decreto-Lei n.º 320/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1995-626591), de 28 de Novembro, passam a ter a seguinte redacção:
+
+«Artigo 3.º
+
+[...]
+
+1 - ...
+
+a)...
+
+b) O conselho administrativo;
+
+c) O conselho consultivo para a coordenação internacional de segurança social.
+
+2 - ...
+
+###### Artigo 4.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) Submeter a aprovação tutelar o plano de actividades do DRISS e o respectivo relatório anual de execução, bem como o plano de deslocações ao estrangeiro dos funcionários das instituições de segurança social e as propostas concretas dessas deslocações;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+2 - ...
+
+3 - ...
+
+###### Artigo 5.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) O director de Serviços Financeiros e de Administração Geral;
+
+d)...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 7.º — [...]
+
+...
+
+a) ...
+
+b) ...
+
+c) Direcção de Serviços Financeiros e de Administração Geral;
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) Gabinete de Assuntos Sociais Comunitários e Internacionais.
+
+###### Artigo 8.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) Colaborar com o Gabinete de Assuntos Europeus e de Relações Internacionais, no âmbito das suas competências;
+
+j) Prestar colaboração ao serviço competente do MSSS em matéria de cooperação, na área da segurança social, com os países africanos de língua oficial portuguesa;
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) ...
+
+p) ...
+
+q) ...
+
+r) ...
+
+s) ...
+
+t) ...
+
+u) ...
+
+v) ...
+
+x) ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+###### Artigo 10.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) ...
+
+p) Colaborar tecnicamente na preparação das reuniões de negociação ou revisão dos instrumentos internacionais de coordenação, quer de base, quer administrativos, com vista a ser tomada em conta a respectiva aplicação;
+
+q) ...
+
+r) ...
+
+s) ...
+
+t) ...
+
+u) Proceder ao apuramento periódico das traduções efectuadas em aplicação dos instrumentos internacionais, para os efeitos da alínea f) do n.º 3 do artigo 13.º
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+###### Artigo 11.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - A competência a que se refere a alínea n) do n.º 1 do artigo anterior é exercida pelo Gabinete de Informação Técnica, que é coordenado por um técnico superior.
+
+#### SECÇÃO IV — Direcção de Serviços Financeiros e de Administração Geral
+
+###### Artigo 12.º — [...]
+
+1 - A Direcção de Serviços Financeiros e de Administração Geral compreende os seguintes serviços:
+
+a) Divisão de Contabilidade Geral;
+
+b) Divisão de Contabilidade Auxiliar;
+
+c) Repartição de Administração Geral;
+
+d) Tesouraria;
+
+e) Gabinete de Apoio Técnico.
+
+2 - A Divisão de Contabilidade Geral integra as áreas de gestão financeira e de contabilidade.
+
+3 - A Divisão de Contabilidade Auxiliar integra as áreas de contas correntes resultantes das relações com entidades externas e com beneficiários, em aplicação de instrumentos internacionais, bem como o processamento e o controlo das prestações concedidas.
+
+4 - A Repartição de Administração Geral integra os seguintes serviços:
+
+a) Secção de Expediente e Arquivo;
+
+b) Secção de Aprovisionamento e Serviços Gerais;
+
+c) Secção de Administração de Pessoal.
+
+###### Artigo 13.º — [...]
+
+1 - Compete à Direcção de Serviços Financeiros e de Administração Geral:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) Assegurar o expediente e registo contabilístico da execução do plano de deslocações ao estrangeiro, a que se refere a alínea b) do n.º 3 do artigo 17.º-A do presente diploma;
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+o) ...
+
+p) ...
+
+2 - É, também, da competência da Direcção de Serviços Financeiros e de Administração Geral:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) ...
+
+n) ...
+
+3 - Compete ainda à Direcção de Serviços Financeiros e de Administração Geral:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Acompanhar os processos de traduções efectuadas pelo DRISS e por outras instituições portuguesas, em substituição ou por conta das instituições estrangeiras ou internacionais competentes.
+
+###### Artigo 14.º — [...]
+
+1 - À Divisão de Contabilidade Geral compete assegurar o exercício das competências previstas nas alíneas a) a h) do n.º 1 do artigo anterior.
+
+2 - À Divisão de Contabilidade Auxiliar compete assegurar o exercício das competências previstas nas alíneas m) a p) do n.º 1 do artigo anterior.
+
+À Repartição de Administração Geral compete assegurar o exercício das competências previstas no n.º 2 do artigo anterior, cabendo às secções referidas no n.º 3 do artigo 12.º assegurar, respectivamente, o exercício correspondente às alíneas a) a d), e) a h) e i) a n) do citado n.º 2.
+
+4 - À Tesouraria compete assegurar o exercício das actividades previstas nas alíneas i) a l) do n.º 1 do artigo anterior.
+
+5 - Ao Gabinete de Apoio Técnico compete assegurar o exercício das actividades previstas no n.º 3 do artigo anterior, cabendo a respectiva coordenação a um técnico superior.
+
+###### Artigo 15.º — [...]
+
+...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) Manter actualizados os ficheiros de legislação e jurisprudência internas com interesse para o DRISS, em articulação com a Direcção de Serviços Financeiros e de Administração Geral;
+
+i) ...
+
+###### Artigo 17.º — [...]
+
+1 - Compete ao Gabinete de Documentação, Informação e Relações Públicas:
+
+a) Promover a adequada divulgação dos relatórios das deslocações a que se refere a alínea b) do n.º 3 do artigo 17.º-A;
+
+b) Promover a elaboração e divulgação, em articulação com as demais unidades orgânicas, dos elementos normativos e informativos relevando da actividade e competências do DRISS;
+
+c) Colaborar em ou promover campanhas de esclarecimento junto dos beneficiários e público em geral, com vista à divulgação de informação sobre o DRISS ou sobre os instrumentos internacionais de segurança social a que Portugal se encontra vinculado;
+
+d) Proceder à análise e tratamento das informações veiculadas pelos órgãos de comunicação social e estabelecer contactos com profissionais de informação ou serviços e entidades públicas ou privadas;
+
+e) Elaborar indicadores sobre o funcionamento do DRISS com base no tratamento de informações, sugestões e reclamações recebidas;
+
+f) Proceder ao registo, catalogação e indexação das espécies bibliográficas, bem como organizar e conservar o fundo documental;
+
+g) Colaborar com a Divisão de Assuntos Jurídicos e de Contencioso na organização e actualização dos ficheiros de legislação e jurisprudência sobre matéria de interesse para o DRISS e efectuar a difusão interna de diplomas e outros documentos;
+
+h) Assegurar o funcionamento de um núcleo de áudio-visuais;
+
+i) Assegurar a actividade editorial do DRISS, designadamente do seu Boletim, em obediência a critérios de oportunidade;
+
+j) Preparar ou colaborar na organização de colóquios, seminários e outras acções congéneres de iniciativa do DRISS ou de outros serviços e instituições;
+
+l) Assegurar a recepção ao público e prestar-lhe a informação geral sobre a actividade do DRISS, encaminhando-o para os serviços ou para os sectores de atendimento especializado do gabinete a que se refere a alínea c) do n.º 2 do artigo 10.º do presente diploma.
+
+2 - O Gabinete de Documentação, Informação e Relações Públicas é coordenado por um técnico superior.
+
+###### Artigo 20.º — [...]
+
+...
+
+a) Os vencimentos, salários, ajudas de custo, subsídios previstos na lei para o pessoal ao seu serviço, encargos com as deslocações em serviço ou em missão oficial ao estrangeiro, para participação em reuniões e actividades internacionais relativamente aos funcionários das instituições de segurança social;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Os encargos com despesas de deslocação e estada dos membros do conselho consultivo para a coordenação internacional de segurança social, a que se refere a alínea c) do n.º 1 do artigo 6.º-A, em termos a fixar por portaria dos Ministros das Finanças e da Solidariedade e Segurança Social.
+
+###### Artigo 23.º — [...]
+
+1 - A movimentação dos valores depositados à ordem do DRISS é feita mediante cheques assinados pelo director ou director-adjunto, por um lado, e, por outro, pelo director de Serviços Financeiros e de Administração Geral ou chefes das Divisões de Contabilidade Geral e de Contabilidade Auxiliar.
+
+2 - O director e o director-adjunto podem delegar o poder da assinatura de cheques no director de Serviços Financeiros e de Administração Geral, sem prejuízo da exigência de duas assinaturas, em conformidade com o critério definido no número anterior.
+
+###### Artigo 28.º — [...]
+
+1 - Até à nomeação do director de Serviços Financeiros e de Administração Geral e dos chefes das Divisões de Contabilidade Geral e de Contabilidade Auxiliar, a movimentação de valores a que se refere o artigo 23.º é feita pela assinatura conjunta, por um lado, do director ou do director-adjunto do DRISS e, por outro, de uma das unidades de pessoal da carreira de tesoureiro.
+
+2 - À medida que forem sendo nomeados o director de Serviços Financeiros e de Administração Geral e os chefes de divisão referidos na primeira parte do número anterior, poderão estes intervir na movimentação de valores, cessando a colaboração transitória a que se refere o número anterior logo que nomeados quaisquer dois dos três funcionários acima referidos.»
+
+###### Artigo 2.º
+
+São aditados ao [Decreto-Lei n.º 320/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1995-626591), de 28 de Novembro, os artigos 2.º-A, 6.º-A, 6.º-B e 17.º-A, integrando este último a secção VIII do capítulo III, com a seguinte redacção:
+
+«Artigo 2.º-A
+
+Atribuições complementares
+
+Sem prejuízo das competências cometidas a outros serviços e instituições, cabe ainda ao DRISS proceder ao estudo, negociação técnica e coordenação da aplicação dos instrumentos e normas internacionais no domínio da acção e inserção social.
+
+###### Artigo 6.º-A. — Composição e funcionamento do conselho consultivo para a coordenação internacional de segurança social
+
+1 - O conselho consultivo para a coordenação internacional de segurança social, neste artigo designado por conselho, tem a seguinte composição:
+
+a) O director, que preside;
+
+b) O director-adjunto;
+
+c) Dois elementos a designar pelo Conselho das Comunidades Portuguesas, a que se refere a [Lei n.º 48/96](https://diariodarepublica.pt/dr/detalhe/lei/48-1996-241642), de 4 de Setembro;
+
+d) Um representante da Direcção-Geral dos Assuntos Consulares e Comunidades Portuguesas, a designar pelo respectivo director-geral.
+
+2 - O conselho reúne ordinariamente uma vez por ano e extraordinariamente desde que pelo menos a maioria absoluta dos vogais o solicite, por escrito, ao presidente com indicação dos assuntos a tratar.
+
+3 - Sempre que o director o entenda conveniente, poderá participar nas reuniões do conselho, sem direito a voto, qualquer funcionário do DRISS, em razão das matérias incluídas na ordem de trabalhos.
+
+4 - As funções de secretário serão asseguradas por um funcionário do DRISS, sem direito a voto, a designar pelo director.
+
+5 - De cada reunião será lavrada acta, assinada pelos vogais nela presentes.
+
+###### Artigo 6.º-B — Competências do conselho consultivo para a coordenação internacional de segurança social
+
+Compete ao conselho consultivo para a coordenação internacional de segurança social:
+
+a) Dar parecer sobre o projecto de plano de actividades do DRISS respeitante à celebração e desenvolvimento dos instrumentos internacionais de coordenação das legislações de segurança social, bem como do respectivo relatório de execução;
+
+b) Analisar problemas de aplicação dos instrumentos internacionais em vigor;
+
+c) Emitir propostas destinadas à conveniente protecção dos trabalhadores portugueses que exerçam actividade em Estados com os quais Portugal não tenha celebrado instrumentos de segurança social;
+
+d) Propor medidas com vista à divulgação de informação no domínio da segurança social, em benefício dos portugueses no estrangeiro;
+
+e) Analisar qualquer outro assunto relativo à coordenação internacional em matéria de segurança social que lhe seja submetida pelo director.
+
+#### SECÇÃO VIII — Gabinete de Assuntos Sociais Comunitários e Internacionais
+
+###### Artigo 17.º-A — Competências
+
+1 - Compete ao Gabinete de Assuntos Sociais Comunitários e Internacionais, na área da acção e inserção social:
+
+a) Colaborar com o Gabinete de Assuntos Europeus e de Relações Internacionais, no domínio dos instrumentos e normas internacionais de acção e inserção social;
+
+b) Efectuar ou promover os estudos necessários naquele domínio, conducentes, se for o caso, à vinculação do Estado Português, em especial no quadro da Comunidade Europeia, Conselho da Europa e Organização Ibero-Americana de Segurança Social, solicitando, para o efeito, a colaboração dos serviços e instituições internamente competentes;
+
+c) Prestar apoio técnico na preparação de observações escritas, bem como na audiência pública dos processos submetidos ao Tribunal de Justiça das Comunidades Europeias naquele domínio e acompanhar a evolução da respectiva jurisprudência;
+
+d) Promover os contactos com serviços ou instituições portuguesas e de outros Estados que sejam parte daqueles instrumentos e normas, quando igualmente aplicáveis a Portugal, tendo em vista assegurar o seu correcto cumprimento, designadamente através da salvaguarda do princípio da igualdade de tratamento entre nacionais e não nacionais;
+
+e) Colaborar com as entidades portuguesas competentes na preparação das respostas a questionários decorrentes daqueles instrumentos internacionais;
+
+f) Emitir parecer, quando solicitado, sobre a incidência na legislação portuguesa dos referidos instrumentos e normas internacionais.
+
+2 - Compete também ao Gabinete de Assuntos Sociais Comunitários e Internacionais, na área da harmonização internacional dos regimes de segurança social e no quadro das relações comunitárias e internacionais:
+
+a) Assegurar a articulação com os serviços e instituições competentes em matéria de segurança social, em particular com a Direcção-Geral dos Regimes de Segurança Social;
+
+b) Colaborar, para o efeito, com o Gabinete de Assuntos Europeus e de Relações Internacionais.
+
+3 - Compete ainda ao Gabinete de Assuntos Sociais Comunitários e Internacionais:
+
+a) Promover as acções e contactos com vista à coordenação dos processos referentes aos programas de bolsas sociais do Conselho da Europa;
+
+b) Preparar o projecto de plano de deslocações ao estrangeiro dos funcionários das instituições de segurança social, a partir das propostas apresentadas por estas, bem como instruir os pedidos concretos de deslocação.
+
+4 - O Gabinete de Assuntos Sociais Comunitários e Internacionais é dirigido por um chefe de divisão.»
+
+###### Artigo 3.º
+
+O mapa anexo ao [Decreto-Lei n.º 320/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/320-1995-626591), de 28 de Novembro, é substituído pelo mapa anexo ao presente diploma, do qual faz parte integrante.
+
+Visto e aprovado em Conselho de Ministros de 21 de Agosto de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco Eduardo Luís Barreto Ferro Rodrigues - António José Martins Seguro.
+
+**Promulgado em 15 de Setembro de 1997.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 18 de Setembro de 1997.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/10/228a00/53935398.pdf))](https://files.diariodarepublica.pt/1s/1997/10/228a00/53935398.pdf)

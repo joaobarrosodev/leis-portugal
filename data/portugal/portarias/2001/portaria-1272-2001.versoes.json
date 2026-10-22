@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:606948:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-946777621",
+ "dre_path": "/dr/detalhe/portaria/1272-2001-606948",
+ "source_lastmod": "2025-11-18",
+ "versions": [
+  {
+   "date": "2001-11-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "946847185",
+    "946847187",
+    "946847188",
+    "946847189"
+   ]
+  }
+ ],
+ "fragments": {
+  "946847185": {
+   "fragment_id": "946777622",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1272/2001\n\nde 9 de Novembro\n\nA luta contra a evasão e fraude internacionais passa também pela adopção de medidas defensivas, tradicionalmente designadas por «medidas anti-abuso», traduzidas em práticas restritivas no âmbito dos impostos sobre o rendimento, benefícios fiscais e imposto do selo, que têm como alvo operações realizadas com entidades localizadas em países, territórios ou regiões qualificados como «paraísos fiscais» ou sujeitos a regimes de tributação privilegiada.\n\nTendo em conta as dificuldades em definir «paraíso fiscal» ou «regime fiscal claramente mais favorável», o legislador nacional, na esteira das orientações seguidas por outros ordenamentos jurídico-fiscais, optou, nuns casos, por razões de segurança jurídica, pelo sistema de enumeração casuística e, noutros, por um sistema misto, estando, no entanto, ciente que tais soluções obrigam a revisões periódicas dos países, territórios ou regiões que figuram na lista.\n\nAssim:\n\nManda o Governo, pelo Ministro das Finanças, nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, o seguinte:"
+  },
+  "946847187": {
+   "fragment_id": "946777624",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nPara todos os efeitos previstos na lei, designadamente no n.º 2 do artigo 59.º, no n.º 3 e na alínea c) do n.º 7 do artigo 60.º do Código do IRC, na alínea b) do n.º 2 do artigo 26.º do EBF, no artigo 6.º do Código do Imposto do Selo, no artigo 3.º do Decreto-Lei n.º 88/94, de 2 de Abril, e no n.º 4 do artigo 2.º e no n.º 3 do artigo 4.º do Decreto-Lei n.º 219/2001, de 4 de Agosto, a lista dos países, territórios e regiões com regimes de tributação privilegiada, claramente mais favoráveis, é a seguinte:\n\n1) Andorra;\n\n2) Anguilla;\n\n3) Antígua e Barbuda;\n\n4) Antilhas Holandesas;\n\n5) Aruba;\n\n6) Ascensão;\n\n7) Bahamas;\n\n8) Bahrain;\n\n9) Barbados;\n\n10) Belize;\n\n11) Ilhas Bermudas;\n\n12) Bolívia;\n\n13) Brunei;\n\n14) Ilhas do Canal (Alderney, Guernesey, Jersey, Great Stark, Herm, Little Sark, Brechou, Jethou e Lihou);\n\n15) Ilhas Cayman;\n\n16) Ilhas Cocos e Kelling;\n\n17) Chipre;\n\n18) Ilhas Cook;\n\n19) Costa Rica;\n\n20) Djibouti;\n\n21) Dominica;\n\n22) Emiratos Árabes Unidos;\n\n23) Ilhas Falkland ou Malvinas;\n\n24) Ilhas Fiji;\n\n25) Gâmbia;\n\n26) Grenada;\n\n27) Gibraltar;\n\n28) Ilha de Guam;\n\n29) Guiana;\n\n30) Honduras;\n\n31) Hong Kong;\n\n32) Jamaica;\n\n33) Jordânia;\n\n34) Ilhas Keslim;\n\n35) Ilha de Kiribati;\n\n36) Koweit;\n\n37) Labuán;\n\n38) Líbano;\n\n39) Libéria;\n\n40) Liechtenstein;\n\n41) Luxemburgo, apenas no que respeita às sociedades holding no sentido da legislação luxemburguesa que se rege pela Lei de 31 de Julho de 1929 e pela Decisão Grã-Ducal de 17 de Dezembro de 1938;\n\n42) Ilhas Maldivas;\n\n43) Ilha de Man;\n\n44) Ilhas Marianas do Norte;\n\n45) Ilhas Marshall;\n\n46) Maurícias;\n\n47) Mónaco;\n\n48) Monserrate;\n\n49) Nauru;\n\n50) Ilhas Natal;\n\n51) Ilha de Niue;\n\n52) Ilha Norfolk;\n\n53) Sultanato de Oman;\n\n54) Ilhas Pacífico;\n\n55) Ilhas Palau;\n\n56) Panamá;\n\n57) Ilha de Pitcairn;\n\n58) Polinésia Francesa;\n\n59) Porto Rico;\n\n60) Quatar;\n\n61) Ilhas Salomão;\n\n62) Samoa Americana;\n\n63) Samoa Ocidental;\n\n64) Ilha de Santa Helena;\n\n65) Santa Lúcia;\n\n66) São Cristóvão e Nevis;\n\n67) São Marino;\n\n68) Ilha de São Pedro e Miguelon;\n\n69) São Vicente e Grenadinas;\n\n70) Seychelles;\n\n71) Suazilândia;\n\n72) Ilhas Svalbard;\n\n73) Ilha de Tokelau;\n\n74) Tonga;\n\n75) Trinidad e Tobago;\n\n76) Ilha Tristão da Cunha;\n\n77) Ilhas Turks e Caicos;\n\n78) Ilha Tuvalu;\n\n79) Uruguai;\n\n80) República de Vanuatu;\n\n81) Ilhas Virgens Britânicas;\n\n82) Ilhas Virgens dos Estados Unidos da América;\n\n83) República Árabe do Yémen."
+  },
+  "946847188": {
+   "fragment_id": "946777625",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA lista constante do número anterior substitui, para todos os efeitos, a lista aprovada pela Portaria n.º 377-B/94, de 15 de Junho, com as alterações introduzidas pela Portaria n.º 268/96, de 19 de Julho, não sendo aplicável a restrição decorrente do disposto no n.º 1 do artigo 3.º do Decreto-lei n.º 88/94, de 2 de Abril, quando as entidades residentes nos países, territórios ou regiões indicados forem bancos centrais ou agências de natureza governamental."
+  },
+  "946847189": {
+   "fragment_id": "946777626",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nÉ revogada a Portaria n.º 377-B/94, de 15 de Junho."
+  }
+ }
+}

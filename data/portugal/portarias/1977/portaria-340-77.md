@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:253215:por
+title: Portaria n.º 340/77
+short_title: null
+summary: Aprova os modelos de cartão de identidade para uso dos membros do Gabinete do Secretário de Estado do Ambiente e
+  dos funcionários da Secretaria de Estado do Ambiente e organismos nela integrados
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria de Estado do Ambiente - Gabinete do Secretário de Estado
+proposing_entity: null
+official_number: 340/77
+official_date: null
+publication_date: '1977-06-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 132/1977, Série I de 1977-06-07
+  number: '132'
+  series: I
+  supplement: null
+  pages: 1390 - 1391
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13200/13901391.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '253215'
+  dre_path: /dr/detalhe/portaria/340-1977-253215
+  internal: pt:dre:253215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/340-1977-253215
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/340-1977-253215
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-06-07T00:00:00Z'
+integrity:
+  source_sha256: 9cb8d1a395529421a7b9cd091d8d8a61a90cce554e6cd3f9ca9c1b8443ce24fb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-340-253215.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 340/77
+
+de 7 de Junho
+
+As funções atribuídas à Secretaria de Estado do Ambiente justificam a necessidade da existência de um cartão de identidade privativo, através do qual os agentes ao seu serviço possam comprovar a sua identidade e funções.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Ambiente:
+
+1. Aprovar os modelos, anexos a esta portaria, de cartão de identidade para uso dos membros do Gabinete do Secretário de Estado do Ambiente e dos funcionários da Secretaria de Estado do Ambiente e organismos nela integrados.
+
+2. Os referidos cartões serão de cor branca ou verde, contendo no canto superior direito a fotografia do respectivo titular.
+
+3. Os cartões destinados aos membros do Gabinete e aos directores-gerais ou equiparados (modelo A) serão de cor branca, enquanto os de cor verde serão utilizados pelos restantes funcionários (modelo B).
+
+4. Os cartões brancos serão autenticados pelo Secretário de Estado e os verdes pelo principal dirigente do organismo onde os funcionários prestem serviço.
+
+5. Em ambos os casos, tanto a assinatura como o retrato serão marcados, pelo menos parcialmente, por um selo branco.
+
+6. Os cartões deverão ser substituídos quando se verifique qualquer alteração nos elementos neles registados e serão entregues aos serviços quando os seus titulares cessem o exercício das respectivas funções.
+
+Presidência do Conselho de Ministros, 16 de Maio de 1977. - O Secretário de Estado do Ambiente, Manuel Gomes Guerreiro.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1977/06/13200/13901391.pdf))](https://files.diariodarepublica.pt/1s/1977/06/13200/13901391.pdf)
+
+Dimensões: 105 mm x 75 mm
+
+Observação. - A primeira linha em branco no cartão modelo B destina-se à designação do organismo.
+
+Presidência do Conselho de Ministros, 16 de Maio de 1977. - O Secretário de Estado do Ambiente, Manuel Gomes Guerreiro.

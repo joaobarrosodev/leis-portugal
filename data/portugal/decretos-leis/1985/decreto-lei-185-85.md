@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:151919:por
+title: Decreto-Lei n.º 185/85
+short_title: null
+summary: Extingue a Junta Central das Casas do Povo e revoga e Decreto-Lei n.º 392/80, de 24 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 185/85
+official_date: null
+publication_date: '1985-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/1985, Série I de 1985-05-29
+  number: '123'
+  series: I
+  supplement: null
+  pages: 1464 - 1466
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/05/12300/14641466.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '151919'
+  dre_path: /dr/detalhe/decreto-lei/185-1985-151919
+  internal: pt:dre:151919:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1985-151919
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-1985-151919
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: 64cba63fa9f5d8bc1bc85103464fac84baa3698ab35f348881616c8ca4824734
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-185-151919.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 185/85
+
+de 29 de Maio
+
+1. Desde o início dos anos 70, foi-se assistindo à conjugação de um certo número de factores que, mesmo nos países mais desenvolvidos, passaram a comportar incidências fortemente negativas sobre os sistemas de segurança social.
+
+2. Neste quadro, foi sendo crescentemente reconhecido que as actuais dificuldades destes sistemas determinam um conjunto corrente de esforços e decisões políticas que devem ser orientados para a prossecução de dois objectivos fundamentais que mutuamente se completam: articular equilibradamente os objectivos da política económica com os da política social, incluindo a Segurança Social, e conferir prioridade à racionalização institucional, técnica, administrativa e financeira dos sistemas de segurança social.
+
+3. Atendo-nos mais directamente a este segundo objectivo, e considerando as realidades do nosso país, é um facto que, desde os meados dos anos 70, foram sendo dados importantes passos orientados para o esforço de racionalização a que se aludiu, culminando-se com a aprovação da nova Lei de Segurança Social.
+
+4. A máxima realização dos intuitos inovadores e racionalizadores desta Lei supõe a criação de condições que, a todos os níveis, se ofereçam ajustadamente favorecedoras de tais intuitos.
+
+5. Ora, razões de oportunidade ou outras fizeram com que, até à publicação do [Decreto-Lei n.º 81/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1985-324937), de 28 de Março - que redefine em novos moldes os regimes de segurança social das pessoas que exercem actividades agrícolas -, se tivessem mantido substancialmente inalteradas as traves mestras em que, de há dezenas de anos, se têm apoiado aqueles regimes de protecção social, com gravosas incidências nos aspectos institucional, administrativo e, sobretudo, financeiro.
+
+6. A aprovação deste diploma, conjugada com os imperativos de urgente implantação de serviços locais dos centros regionais de segurança social, não podia deixar de supor, desde já, um importante passo de racionalização administrativa pelo qual se passassem a cometer àquelas instituições descentralizadas do sistema as funções de apoio, fiscalização e tutela das casas do povo, reconhecendo-se assim esgotadas as funções que vinham sendo desempenhadas pela respectiva Junta Central.
+
+7. Sublinhe-se, de resto, que a extinção deste organismo se enquadra, de modo inequívoco nos objectivos mais vastos prosseguidos pelo Governo no que se refere ao inelutável imperativo de racionalização da Administração Pública.
+
+8. Por outro lado, as casas do povo como instituições de carácter associativo com uma já importante tradição e não menos irrelevante folha de serviços prestada à comunidade maior do nosso país vêem assim reforçado o reconhecimento da sua autonomia, reforço esse que será consumado com a próxima reformulação do seu estatuto legal.
+
+9. A importância de que para as populações se reveste a proximidade dos serviços de carácter público que as casas do povo prestam obriga a que se prossiga uma política de utilização sistemática daquelas instituições como terminal de vários departamentos do Estado, a quem deverá naturalmente caber o controle desses serviços.
+
+10. Mas o que em qualquer caso deve sempre estar presente é a consciência de que as casas do povo são essencialmente pólos de desenvolvimento cultural, social e desportivo dos meios rurais. No exercício das actividades correspondentes e em virtude do interesse público de que as mesmas se revestem, aquelas merecem o apoio do Estado, apoio que não deverá nunca conduzir ao esquecimento da sua natureza associativa.
+
+Assim, o Governo decreta, nos termos da alínea a) do artigo 201.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Extinção da Junta Central das Casas do Povo
+
+###### Artigo 1.º É extinta a Junta Central das Casas do Povo, adiante designada por Junta, bem como as respectivas delegações.
+
+###### Art. 2.º As competências da Junta no que respeita ao apoio, fiscalização, exercício da tutela e gestão de pessoal das casas do povo são transferidas para os centros regionais de segurança social dos respectivos distritos.
+
+###### Art. 3.º - 1 - As competências previstas no artigo 2.º que tenham por objectivo actividades que não se enquadrem na Segurança Social poderão ser transferidas para outros organismos públicos ou vir a ser assumidas por entidades privadas que tenham por objectivo a promoção das casas do povo.
+
+2 - A transferência será efectuada mediante protocolo homologado pelo Ministro do Trabalho e Segurança Social.
+
+3 - A transferência pode abranger pessoal e bens afectos à Junta.
+
+###### Art. 4.º Mantém-se inalterado o regime do Fundo Comum das Casas do Povo, passando o mesmo a ser gerido pelo Instituto de Gestão Financeira da Segurança Social.
+
+###### Art. 5.º - 1 - O património da Junta, incluindo todos os seus direitos e obrigações, é afecto ao Ministério do Trabalho e Segurança Social.
+
+2 - O património afecto às delegações da Junta é transferido para os centros regionais de segurança social dos respectivos distritos.
+
+3 - Quando abranja bens sujeitos a registo, a transferência do património será comunicada aos respectivos conservadores para que estes procedam oficiosamente aos necessários registos.
+
+4 - A sucessão no direito ao arrendamento será comunicada aos respectivos senhorios.
+
+###### Art. 6.º Os trabalhadores permanentes da Junta Central das Casas do Povo ficam sujeitos ao estatuto da função pública.
+
+###### Art. 7.º - 1 - O pessoal da Junta é colocado na dependência da Secretaria-Geral do Ministério do Trabalho e Segurança Social, com vista à sua transição para serviços e organismos do sector que dele necessitem, sem prejuízo do disposto no [Decreto-Lei n.º 43/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1984-367854), de 3 de Fevereiro.
+
+2 - O pessoal das delegações da Junta, excepto a de Lisboa, é destacado da Secretaria-Geral do Ministério do Trabalho e Segurança Social para os centros regionais de segurança social dos respectivos distritos, sem prejuízo da possibilidade de utilização de qualquer instrumento de mobilidade previsto na lei.
+
+3 - O pessoal referido no número anterior poderá ser incluído nos quadros dos centros regionais de segurança social ou de outros serviços do Ministério do Trabalho e Segurança Social, se houver vaga na mesma carreira e categoria.
+
+###### Art. 8.º - 1 - Ao pessoal integrado nos termos do artigo anterior e assegurada a contagem, para todos os efeitos legais, incluindo a aposentação, do tempo de serviço prestado na Junta Central das Casas do Povo e, sendo caso disso, em instituições de previdência, nos termos previstos no [Decreto-Lei n.º 278/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1982-394150), de 20 de Julho.
+
+2 - O tempo de serviço que cada trabalhador tiver na categoria e carreira à data da integração será considerado como efectivamente prestado na categoria e carreira para que transitou.
+
+### CAPÍTULO II — Criação de serviços locais dos centros regionais de segurança social
+
+###### Art. 9.º - 1 - A criação de serviços locais dos centros regionais de segurança social determina a integração do pessoal das casas do povo admitido antes de 1 de Janeiro de 1985 adstrito à execução de tarefas do âmbito de segurança social nas zonas abrangidas por aqueles serviços mediante alterações aos quadros dos centros regionais dos respectivos distritos, a aprovar por portaria dos Ministros das Finanças e do Plano, do Trabalho e Segurança Social e do membro do Governo que tiver a seu cargo a função pública.
+
+2 - O pessoal referido no número anterior é integrado com a categoria que tinha na data aí referida.
+
+###### Art. 10.º - 1 - Transitam para a titularidade dos centros regionais de segurança social, no momento da criação dos serviços locais, a propriedade ou o arrendamento das sedes e delegações das casas do povo, respectivamente, integralmente financiadas ou cuja renda é paga por verbas do orçamento da Segurança Social.
+
+2 - Quando abranja bens sujeitos a registo, a transferência do património será comunicada aos respectivos conservadores para que estes procedam oficiosamente aos necessários registos.
+
+3 - A sucessão no direito do arrendamento será comunicada aos respectivos senhorios.
+
+### CAPÍTULO III — Disposições finais e transitórias
+
+###### Art. 11.º O Estado transferirá anualmente para o orçamento da Segurança Social as verbas necessárias ao exercício do disposto no n.º 3 do artigo 16.º do [Decreto-Lei n.º 4/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-1982-552992), de 11 de Janeiro.
+
+###### Art. 12.º - 1 - Durante o ano de 1985 as verbas do orçamento da Junta Central afectas a despesas com pessoal e a outras despesas correntes são transferidas para o orçamento da Secretaria-Geral do Ministério do Trabalho e Segurança Social.
+
+2 - As verbas constantes das rubricas orçamentais destinadas a financiar e a manter o funcionamento das casas do povo são transferidas para o orçamento da Segurança Social.
+
+###### Art. 13.º É revogado o [Decreto-Lei n.º 392/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/392-1980-461850), de 24 de Setembro.
+
+Visto e aprovado em Conselho de Ministros de 18 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+**Promulgado em 20 de Maio de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 21 de Maio de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**

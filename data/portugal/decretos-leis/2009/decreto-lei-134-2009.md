@@ -1,0 +1,323 @@
+---
+schema_version: '1.0'
+id: pt:dre:494477:por
+title: Decreto-Lei n.º 134/2009
+short_title: null
+summary: Estabelece o regime jurídico aplicável à prestação de serviços de promoção, informação e apoio aos consumidores e
+  utentes através de centros telefónicos de relacionamento (call centers)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 134/2009
+official_date: null
+publication_date: '2009-06-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/2009, Série I de 2009-06-02
+  number: '106'
+  series: I
+  supplement: null
+  pages: 3452 - 3454
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/10600/0345203454.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-134-2009.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-06-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-06-19'
+    amending: pt:dre:569757:por
+    amending_title: Decreto-Lei n.º 72-A/2010
+    changes:
+    - Altera Artigo 10.º
+    - Revoga Artigo 9.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/134/2009/p/cons/20210129/pt/html
+  oj: null
+  dre: '494477'
+  dre_path: /dr/detalhe/decreto-lei/134-2009-494477
+  internal: pt:dre:494477:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2009-494477
+  metadata_url: https://data.dre.pt/eli/dec-lei/134/2009/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-137808133
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-137808133
+  retrieved_at: '2026-10-22T12:33:19Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3833e016800f47d2b6660223a3c7de86d8837edb2ce827e4d13293a4fa548a1d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:33:19Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-134-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Telefone
+- Consumidor
+- Contra-ordenação
+- Fiscalização
+- Informação do Consumidor
+- Proteção do Consumidor
+- Regime Jurídico
+- Atendimento Público
+- CALL Center
+- Utente
+relationships:
+- type: amended_by
+  target: pt:dre:569757:por
+  label: Altera Artigo 10.º; Revoga Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757
+  date: '2010-06-18'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/143/2001/04/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/143/2001/04/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/82/2008/05/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/82/2008/05/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/95/2006/05/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/95/2006/05/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2008/02/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2008/02/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1996/07/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1996/07/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/24/2008/06/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/24/2008/06/02/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:33:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 134/2009
+
+Decreto-Lei n.º 134/2009
+
+de 2 de Junho
+
+No mercado actual, o relacionamento entre o consumidor e a empresa é cada vez menos presencial, tendo vindo a assistir-se a uma aposta na prestação de serviços de apoio ao cliente através de centros telefónicos de relacionamento (call centers), com benefícios para as empresas mas também para os consumidores, que obtêm de forma mais cómoda a informação e o apoio de que necessitam. No entanto, a experiência demonstra que sendo o centro telefónico de relacionamento (call center) de uma empresa o ponto de contacto do consumidor, este tem, muitas vezes, dificuldade em obter o apoio e a informação a que tem direito ou em exercer direitos basilares e que querendo reclamar da deficiente prestação de informação não lhe são dados os meios adequados e necessários. Torna-se, assim, necessário salvaguardar o direito à informação por parte de consumidor, regulando a forma como esta é prestada e estabelecendo regras que contribuam para a eficiência do serviço. Das novas regras, destaca-se a proibição de fazer o consumidor esperar em linha mais de 60 s e, no caso de serviço de atendimento relativo a um serviço de execução continuada ou periódica, estabelece-se a obrigação de disponibilizar ao consumidor uma opção que lhe permita o cancelamento do serviço, que permita ao consumidor, consoante o caso, proceder ao cancelamento do serviço ou obter informação quanto aos procedimentos a adoptar para tal.
+
+É também fixado um conjunto de práticas proibidas, além de se estabelecerem regras sobre a divulgação dos números telefónicos utilizados para a prestação do serviço. De forma a respeitar o direito à privacidade do consumidor, a emissão de chamadas por parte dos profissionais passa a estar sujeita a um horário.
+
+O presente decreto-lei aplica-se aos profissionais que, no âmbito de uma actividade económica que vise a obtenção de benefícios, coloquem à disposição do consumidor um centro telefónico de relacionamento (call center). Assim, o presente decreto-lei não é aplicável aos serviços informativos assegurados por entidades públicas, no âmbito de uma concessão, com excepção dos prestadores de serviços públicos essenciais, tal como definidos no artigo 1.º da Lei n.º 23/96, de 26 de Julho, que coloquem à disposição dos utentes um centro de relacionamento telefónico, independentemente da sua natureza pública ou privada.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Foi promovida a audição ao Conselho Nacional do Consumo. Foram ouvidos, a título facultativo, a Federação Nacional das Cooperativas de Consumidores, a União Geral dos Consumidores e a Associação Portuguesa de Contact Centers.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime jurídico aplicável à prestação de serviços de promoção, informação e apoio aos consumidores e utentes, através de centros telefónicos de relacionamento (call centers).
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se a todos os profissionais que coloquem à disposição do consumidor um centro telefónico de relacionamento (call center).
+
+2 - O presente decreto-lei aplica-se aos prestadores de serviços públicos essenciais que coloquem à disposição do utente um centro telefónico de relacionamento (call center), independentemente da sua natureza pública ou privada.
+
+3 - O presente decreto-lei não prejudica o disposto no Decreto-Lei n.º 143/2001, de 26 de Abril, alterado pelo Decreto-Lei n.º 82/2008, de 20 de Maio, nem o disposto no Decreto-Lei n.º 95/2006, de 29 de Maio.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei, considera-se:
+
+a) «Centro telefónico de relacionamento (call center)» a estrutura organizada e dotada de tecnologia que permite a gestão de um elevado tráfego telefónico para contacto com consumidores ou utentes, no âmbito de uma actividade económica, destinado, designadamente, a responder às suas solicitações e a contactá-los, com vista à promoção de bens ou serviços ou à prestação de informação e apoio;
+
+b) «Consumidor» aquele assim definido nos termos do n.º 1 do artigo 2.º da Lei n.º 24/96, de 31 de Julho;
+
+c) «Profissional» qualquer pessoa singular ou colectiva que exerça com carácter profissional uma actividade económica que vise a obtenção de benefícios e coloque à disposição do consumidor um centro telefónico de relacionamento (call center);
+
+d) «Serviços públicos essenciais» os serviços assim definidos nos termos do artigo 1.º da Lei n.º 23/96, de 26 de Julho, alterado pelas Leis n.os 12/2008, de 26 de Fevereiro, e 24/2008, de 2 de Junho;
+
+e) «Utente» aquele assim definido nos termos do n.º 3 do artigo 1.º da Lei n.º 23/96, de 26 de Julho, alterado pelas Leis n.os 12/2008, de 26 de Fevereiro, e 24/2008, de 2 de Junho;
+
+f) «Prestador do serviço» aquele assim definido nos termos do n.º 4 do artigo 1.º da Lei n.º 23/96, de 26 de Julho, alterado pela Leis n.os 12/2008, de 26 de Fevereiro, e 24/2008, de 2 de Junho;
+
+g) «Suporte durável» qualquer instrumento que permita ao consumidor armazenar informações de um modo permanente e acessível para referência futura e que não permita que as partes contratantes manipulem unilateralmente as informações armazenadas;
+
+h) «Período de espera em linha» o período que medeia entre o atendimento pelo centro telefónico de relacionamento (call center) ou, existindo menu electrónico, a escolha da opção de contacto com o profissional e o atendimento personalizado pelo profissional.
+
+###### Artigo 4.º — Regras gerais
+
+1 - O serviço do centro telefónico de relacionamento (call center) deve ser prestado através de um ou mais números de telefone exclusivos para acesso dos consumidores ou dos utentes e possuir os meios técnicos e humanos adequados ao cumprimento das suas funções.
+
+2 - O acesso ao serviço ou à informação não é condicionado ao prévio fornecimento de quaisquer dados pelo consumidor ou pelo utente, sem prejuízo dos estritamente necessários para o tratamento da sua solicitação, bem como da garantia da confidencialidade da informação a prestar e da verificação da legitimidade do interlocutor para aceder à mesma.
+
+3 - O serviço do centro telefónico de relacionamento (call center) deve funcionar, pelo menos, num número de horas pré-estabelecido em período diurno e disponibilizar atendimento personalizado.
+
+4 - O atendimento só pode ser exclusivamente processado através de sistema de atendimento automático fora das horas de atendimento personalizado.
+
+5 - O número de telefone do serviço e o seu período do seu funcionamento, com destaque para o período de atendimento personalizado, devem constar, de forma bem visível, dos materiais de suporte de todas as comunicações do profissional.
+
+###### Artigo 5.º — Práticas proibidas
+
+1 - São proibidas as seguintes práticas:
+
+a) O reencaminhamento da chamada para outros números que impliquem um custo adicional para o consumidor ou para o utente, salvo se, sendo devidamente informado do seu custo, o consumidor ou o utente expressamente o consentir;
+
+b) A emissão de qualquer publicidade durante o período de espera no atendimento;
+
+c) O registo em base de dados do número de telefone utilizado pelo consumidor ou pelo utente para efectuar a ligação telefónica, excepcionadas as situações legalmente autorizadas.
+
+2 - No exercício da actividade abrangida pelo presente decreto-lei, o profissional deve abster-se de abusar da confiança, falta de experiência ou de conhecimentos do consumidor ou do utente ou aproveitar-se de qualquer estado de necessidade ou fragilidade em que o mesmo se encontre.
+
+###### Artigo 6.º — Atendimento
+
+1 - O atendimento é processado por ordem de entrada das chamadas, sem prejuízo da possibilidade de existência de menus electrónicos e do disposto no n.º 5 do artigo 8.º
+
+2 - Uma vez atendida a chamada, o período de espera em linha não deve ser superior a 60 s.
+
+3 - Existindo menu electrónico, este é disponibilizado imediatamente após o atendimento, contando-se o período de espera em linha previsto no número anterior a partir da escolha pelo consumidor ou pelo utente da opção de contacto com o profissional.
+
+4 - Caso não seja possível efectuar o atendimento no prazo referido no n.º 2, deve ser disponibilizada uma forma de o consumidor ou de o utente deixar o seu contacto e identificar a finalidade da chamada, devendo o profissional responder em prazo não superior a dois dias úteis.
+
+5 - Caso o serviço de atendimento disponibilize um menu electrónico, este não pode conter mais de cinco opções iniciais, devendo uma destas ser a opção de contacto com o profissional, com excepção dos horários em que o atendimento se processe exclusivamente através de sistema de atendimento automático.
+
+6 - Tratando-se de um serviço de atendimento relativo a um serviço de execução continuada ou periódica, do menu referido no número anterior deve constar uma opção relativa ao cancelamento do serviço, que permita ao consumidor ou ao utente, consoante o caso, proceder ao cancelamento do serviço ou obter informação quanto aos procedimentos a adoptar para tal.
+
+7 - Quando ocorra um pedido de cancelamento do serviço, o profissional deve enviar ao consumidor ou ao utente a confirmação do cancelamento, através de um suporte durável, no prazo máximo de três dias úteis.
+
+8 - Nos primeiros 90 dias contados da prestação do serviço, o ónus da prova do cumprimento das obrigações previstas no presente artigo cabe ao profissional.
+
+###### Artigo 7.º — Emissão de chamadas
+
+1 - As chamadas telefónicas dirigidas aos consumidores ou aos utentes devem ser efectuadas num horário que respeite os períodos de descanso em uso e nunca antes das 9 horas nem depois das 22 horas do fuso horário do consumidor ou dos utentes, salvo acordo prévio do mesmo.
+
+2 - O operador que efectue a chamada deve identificar-se imediatamente após o atendimento, bem como ao profissional em nome do qual actua e a finalidade do contacto.
+
+3 - Caso o consumidor ou o utente expresse a vontade de não prosseguir a chamada, esta deve ser desligada com urbanidade.
+
+###### Artigo 8.º — Prestação de informação
+
+1 - A prestação de informação obedece aos princípios da legalidade, boa-fé, transparência, eficiência, eficácia, celeridade e cordialidade.
+
+2 - A informação prestada aos consumidores ou aos utentes deve ser clara e objectiva, prestada em linguagem facilmente acessível, procurando satisfazer directamente todas as questões colocadas.
+
+3 - Sem prejuízo da disponibilização de informação noutras línguas, as informações são prestadas em língua portuguesa.
+
+4 - As questões colocadas devem ser respondidas de imediato ou, não sendo possível, no prazo máximo de três dias úteis, contado da data da realização do contacto inicial pelo consumidor ou pelo utente, salvo motivo devidamente justificado.
+
+5 - Caso seja necessário, o serviço deve garantir a transferência para o sector competente para o atendimento definitivo da chamada, no tempo máximo de 60 s a contar do momento em que o operador verifica essa necessidade e desta dá conhecimento ao consumidor ou ao utente, sem prejuízo de o operador poder facultar ao consumidor ou ao utente o número directo de acesso ao mesmo.
+
+6 - A chamada não deve ser desligada pelo operador antes da conclusão do atendimento.
+
+###### Artigo 9.º — Transparência
+
+1 - O profissional deve manter o histórico do atendimento que identifique os problemas colocados pelo consumidor ou pelo utente até à resolução da questão suscitada, evitando a reprodução de contactos anteriores.
+
+2 - O profissional deve promover e manter a gravação das chamadas efectuadas pelo consumidor ou pelo utente pelo prazo mínimo de 90 dias, permitindo a este o acesso ao seu conteúdo, nos termos previstos na legislação aplicável.
+
+3 - O disposto no número anterior não se aplica às chamadas de conteúdo meramente informativo.
+
+4 - A definição dos elementos que devem constar do registo histórico, bem como o tratamento a dar aos dados pessoais recolhidos, são aprovados por portaria do membro do Governo responsável pela área da defesa do consumidor, com observância das regras relativas ao tratamento de dados pessoais e à protecção da privacidade no sector das comunicações electrónicas.
+
+> Revogado pelo/a Artigo 92.º do/a [Decreto-Lei n.º 72-A/2010 - Diário da República n.º 117/2010, 1º Suplemento, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), em vigor a partir de 2010-06-19, produz efeitos a partir de 2010-01-01
+
+###### Artigo 10.º — Contraordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), o incumprimento do disposto no artigo 4.º, no n.º 1 do artigo 5.º, nos n.os 1 a 7 do artigo 6.º, nos n.os 1 e 2 do artigo 7.º e nos n.os 3 a 6 do artigo 8.º
+
+2 - (Revogado.)
+
+3 - A negligência é punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 98.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 89.º do/a [Decreto-Lei n.º 72-A/2010 - Diário da República n.º 117/2010, 1º Suplemento, Série I de 2010-06-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-a-2010-569757), em vigor a partir de 2010-06-19, produz efeitos a partir de 2010-01-01
+
+###### Artigo 11.º — Fiscalização e instrução dos processos de contra-ordenação
+
+1 - A fiscalização e a instrução dos processos de contra-ordenação competem ao regulador sectorial, competindo ao seu órgão máximo a aplicação das coimas e demais sanções.
+
+2 - A fiscalização e a instrução dos processos de contraordenação por violação do disposto no n.º 5 do artigo 4.º, quando cometidas através de publicidade, e na alínea b) do n.º 1 do artigo 5.º competem à Direção-Geral do Consumidor (DGC), cabendo, neste caso, a aplicação de coimas e demais sanções ao diretor-geral da DGC.
+
+3 - Nos restantes casos, a fiscalização e a instrução dos processos de contraordenação competem à Autoridade de Segurança Alimentar e Económica (ASAE), cabendo a aplicação de coimas e sanções acessórias ao inspetor-geral da ASAE.
+
+4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 98.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 180 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 11 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Alberto Bernardes Costa - Fernando Pereira Serrasqueiro.
+
+Promulgado em 20 de Maio de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 21 de Maio de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,378 @@
+---
+schema_version: '1.0'
+id: eu:celex:32013R0814:por
+title: Regulamento (UE) n. ° 814/2013 da Comissão, de 2 de agosto de 2013
+short_title: null
+summary: Regulamento (UE) n. ° 814/2013 da Comissão, de 2 de agosto de 2013 , que dá execução à Diretiva 2009/125/CE do Parlamento
+  Europeu e do Conselho no que respeita aos requisitos de conceção ecológica aplicáveis aos aquecedores de água e reservatórios
+  de água quente Texto relevante para efeitos do EEE
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2013/814
+official_date: null
+publication_date: '2013-09-06'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 239 de 6.9.2013
+  number: '239'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.01/DOC_1
+entry_into_force_dates:
+- '2013-09-26'
+- '2015-09-26'
+- '2017-09-26'
+- '2018-09-26'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32013R0814
+  eli: http://data.europa.eu/eli/reg/2013/814/oj
+  oj: oj:JOL_2013_239_R_0162_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32013R0814:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32013R0814
+  metadata_url: http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019
+  content_url: http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T03:16:45Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-06-19T03:52:36.947+02:00'
+integrity:
+  source_sha256: db003d764243623730275bbfcd58f14ae308aeb7d857348d3868c7a47eac8b6b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T03:16:45Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- economia de energia
+- eletrodoméstico
+- energia elétrica
+- especificação técnica
+- impacto ambiental
+- rendimento energético
+- rótulo ecológico
+relationships:
+- type: amended_by
+  target: celex:32016R2282
+  label: null
+  source: http://publications.europa.eu/resource/cellar/771646c6-c684-11e6-a6db-01aa75ed71a1
+  date: '2016-12-20'
+- type: based_on
+  target: celex:32009L0125
+  label: null
+  source: http://publications.europa.eu/resource/cellar/a7108d5e-5401-41c1-9a8a-d029b9df9e49
+  date: '2009-11-06'
+- type: cited_by
+  target: pt:dre:152422622:por
+  label: null
+  source: null
+- type: cites
+  target: celex:32009L0142
+  label: null
+  source: http://publications.europa.eu/resource/cellar/69319166-ca37-410c-b1d1-3095af3a8468
+- type: cites
+  target: celex:32010L0030
+  label: null
+  source: http://publications.europa.eu/resource/cellar/679fb9fa-c6ea-4366-8a52-eed017a9a227
+- type: cites
+  target: celex:32012L0027
+  label: null
+  source: http://publications.europa.eu/resource/cellar/345b96f1-2d99-11e2-ad46-01aa75ed71a1
+- type: cites
+  target: celex:32012R1025
+  label: null
+  source: http://publications.europa.eu/resource/cellar/08e6cf53-2e33-11e2-ad46-01aa75ed71a1
+- type: cites
+  target: celex:32013R0812
+  label: null
+  source: http://publications.europa.eu/resource/cellar/32299d7f-172a-11e3-8d1c-01aa75ed71a1
+- type: cites
+  target: celex:32013R0813
+  label: null
+  source: http://publications.europa.eu/resource/cellar/01d788a0-1733-11e3-8d1c-01aa75ed71a1
+- type: corrected_by
+  target: celex:32013R0814R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ea1475eb-ecf9-11e6-ad7c-01aa75ed71a1
+  date: '2017-02-07'
+- type: corrected_by
+  target: celex:32013R0814R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/bbe95750-7d19-11ee-99ba-01aa75ed71a1
+  date: '2023-11-07'
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T03:16:45Z'
+  warnings:
+  - 'Versão consolidada 02013R0814-20170109 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
+    do JO.'
+  errors: []
+---
+
+# REGULAMENTO (UE) N.º 814/2013 DA COMISSÃO
+
+de 2 de agosto de 2013
+
+que dá execução à Diretiva 2009/125/CE do Parlamento Europeu e do Conselho no que respeita aos requisitos de conceção ecológica aplicáveis aos aquecedores de água e reservatórios de água quente
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta a Diretiva 2009/125/CE do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativa à criação de um quadro para definir os requisitos de conceção ecológica dos produtos relacionados com o consumo de energia [([^1])](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2013239PT.01016201-E0001), nomeadamente o artigo 15.º, n.º 1,
+
+Após consulta do Fórum de Consulta sobre a Conceção Ecológica,
+
+Considerando o seguinte:
+
+(1) Em conformidade com a Diretiva 2009/125/CE, a Comissão deve definir os requisitos de conceção ecológica aplicáveis aos produtos relacionados com o consumo de energia que representem um volume de vendas e de comércio significativo, tenham um impacto ambiental significativo e apresentem um potencial significativo de melhoria em termos de impacto ambiental, através da conceção, sem implicar custos excessivos.
+
+(2) O artigo 16.º, n.º 2, alínea a), da Diretiva 2009/125/CE prevê que, em conformidade com o procedimento referido no artigo 19.º, n.º 3, e com os critérios estabelecidos no artigo 15.º, n.º 2, e após consulta do Fórum de Consulta sobre a Conceção Ecológica, a Comissão introduza, se for caso disso, medidas de execução aplicáveis a produtos que proporcionem um elevado potencial de redução eficaz em termos de custos da emissão de gases com efeito de estufa, como os aquecedores de água.
+
+(3) A Comissão levou a cabo um estudo preparatório sobre os aspetos técnicos, ambientais e económicos dos aquecedores de água e dos reservatórios de água quente habitualmente utilizados nos setores doméstico e comercial. Esse estudo foi concebido juntamente com participantes e partes interessadas da União e de países terceiros, e os seus resultados foram divulgados publicamente.
+
+(4) Os aspetos ambientais dos aquecedores de água que foram identificados como significativos para fins do presente regulamento são o consumo de energia na fase de utilização e (no caso dos aquecedores de água com bomba de calor) os níveis de potência sonora. Além disso, para os aquecedores de água que utilizam combustíveis fósseis, são também identificadas como aspetos ambientais significativos as emissões de óxidos de azoto, de monóxido de carbono e de hidrocarbonetos. O aspeto ambiental significativo dos reservatórios de água quente é o consumo de energia devido às perdas permanentes de energia.
+
+(5) Não é oportuno estabelecer requisitos de conceção ecológica para as emissões de monóxido de carbono e de hidrocarbonetos na medida em que não estão ainda disponíveis a nível europeu métodos de medição adequados. Com o objetivo de desenvolver tais métodos de medição, a Comissão mandatou os organismos europeus de normalização para estudarem durante a revisão do presente regulamento os requisitos de conceção ecológica a aplicar a essas emissões. As disposições nacionais relativas aos requisitos de conceção ecológica para as emissões de monóxido de carbono e de hidrocarbonetos dos aquecedores de água podem ser mantidas até à entrada em vigor dos correspondentes requisitos de conceção ecológica da União. As disposições da Diretiva 2009/142/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa aos aparelhos a gás [([^2])](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2013239PT.01016201-E0002), que limitam os produtos de combustão dos aparelhos a gás no que respeita à saúde e segurança, não são afetadas.
+
+(6) O estudo preparatório mostra que os requisitos relativos aos outros parâmetros de conceção ecológica referidos no anexo I, Parte 1, da Diretiva 2009/125/CE não são necessários no caso dos aquecedores de água e dos reservatórios de água quente. Em especial, não são identificadas como significativas as emissões de gases com efeito de estufa relacionadas com os fluidos refrigerantes atualmente utilizados nos aquecedores de água com bomba de calor para o aquecimento do parque imobiliário europeu. A conveniência de estabelecer requisitos de conceção ecológica para essas emissões de gases com efeito de estufa será reavaliada no momento da revisão do presente regulamento.
+
+(7) O âmbito de aplicação do presente regulamento deve ser limitado aos aquecedores de água destinados a fornecer água quente potável e para uso sanitário.
+
+(8) Os aquecedores de água concebidos para utilizar predominantemente (mais de 50 %) combustíveis gasosos ou líquidos produzidos a partir de biomassa têm características técnicas específicas que exigem a realização de novas análises técnicas, económicas e ambientais. Em função dos resultados das análises, serão estabelecidos mais tarde, se adequado, requisitos de conceção ecológica para esses aquecedores de água.
+
+(9) O consumo anual de energia relacionado com os aquecedores de água e os reservatórios de água quente foi estimado em 2 156 PJ (51 Mtep) na União em 2005, o que corresponde a 124 Mt de emissões de CO2. A menos que se adotem medidas específicas, prevê-se que o consumo anual de energia seja de 2 243 PJ em 2020. As emissões anuais de óxidos de azoto relacionadas com os aquecedores de água e os reservatórios de água quente foram estimadas em 559 kt de equivalente de SOx na União em 2005. A menos que se adotem medidas específicas, prevê-se que as emissões anuais sejam de 603 kt de equivalente de SOx em 2020. O estudo preparatório mostra que o consumo de energia na fase de utilização e as emissões de óxidos de azoto dos aquecedores de água podem ser significativamente reduzidos.
+
+(10) O consumo de energia dos aquecedores de água e dos reservatórios de água quente pode ser reduzido aplicando tecnologias rentáveis, não sujeitas a direitos de propriedade, atualmente existentes que conduzam à redução dos custos combinadas de aquisição e funcionamento destes aparelhos.
+
+(11) Espera-se que o efeito combinado dos requisitos de conceção ecológica estabelecidos no presente regulamento e das disposições do Regulamento Delegado (UE) n.º 812/2013 da Comissão, de 18 de fevereiro de 2013, que complementa a Diretiva 2010/30/UE do Parlamento Europeu e do Conselho no que respeita à rotulagem energética dos aquecedores de água, dos reservatórios de água quente e dos sistemas mistos de aquecedor de água e dispositivo solar [([^3])](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2013239PT.01016201-E0003), conduza, até 2020, a poupanças anuais de energia estimadas em cerca de 450 PJ (11 Mtep), o que corresponde a cerca de 26 Mt de emissões de CO2, e a uma redução das emissões de óxidos de azoto de cerca de 130 kt de equivalente de SOx, em comparação com uma situação em que não fossem adotadas quaisquer medidas.
+
+(12) Os requisitos de conceção ecológica devem harmonizar os requisitos de consumo de energia, de nível de potência sonora e de emissões de óxidos de azoto aplicáveis aos aquecedores de água, bem como os requisitos de perdas permanentes de energia aplicáveis aos reservatórios de água quente em toda a União, contribuindo assim para um melhor funcionamento do mercado interno e a melhoria do desempenho ambiental destes produtos.
+
+(13) Os requisitos de conceção ecológica não devem afetar a funcionalidade ou a acessibilidade dos preços dos aquecedores de água ou dos reservatórios de água quente na perspetiva do utilizador final, nem prejudicar a saúde, a segurança ou o ambiente.
+
+(14) Os requisitos de conceção ecológica devem ser introduzidos progressivamente, de forma a dar aos fabricantes tempo suficiente para estes alterarem a conceção dos seus produtos abrangidos pelo presente regulamento. O calendário deve ser de molde a que o impacto a nível de custos para os fabricantes, em especial para as pequenas e médias empresas, seja tido em conta, assegurando simultaneamente a realização dos objetivos do presente regulamento em tempo útil.
+
+(15) Os parâmetros dos produtos devem ser medidos e calculados utilizando métodos de medição fiáveis, precisos e reprodutíveis, que tomem em consideração métodos de medição e de cálculo reconhecidos como os mais avançados, incluindo, quando disponíveis, normas harmonizadas adotadas pelas organizações europeias de normalização a pedido da Comissão, em conformidade com os procedimentos estabelecidos no Regulamento (UE) n.º 1025/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012, relativo à normalização europeia [([^4])](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2013239PT.01016201-E0004).
+
+(16) Em conformidade com o artigo 8.º, n.º 2, da Diretiva 2009/125/CE, o presente regulamento especifica os procedimentos aplicáveis de avaliação da conformidade.
+
+(17) Para facilitar as verificações da conformidade, os fabricantes devem fornecer, na documentação técnica referida nos anexos IV e V da Diretiva 2009/125/CE, todas as informações que estejam relacionadas com os requisitos estabelecidos no presente regulamento.
+
+(18) A fim de limitar ainda mais o impacto ambiental dos aquecedores de água e dos reservatórios de água quente, os fabricantes devem facultar informações sobre a desmontagem, reciclagem e/ou eliminação.
+
+(19) Para além dos requisitos juridicamente vinculativos estabelecidos no presente regulamento, devem ser identificados parâmetros de referência indicativos para as melhores tecnologias disponíveis a fim de assegurar que estejam amplamente disponíveis e sejam facilmente acessíveis informações sobre o desempenho ambiental durante o ciclo de vida dos aquecedores de água e dos reservatórios de água quente.
+
+(20) As medidas previstas no presente regulamento são conformes com o parecer do comité criado pelo artigo 19.º, n.º 1, da Diretiva 2009/125/CE,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1. O presente regulamento define requisitos de conceção ecológica para a colocação no mercado e/ou a entrada em serviço de aquecedores de água com uma produção térmica nominal de ≤ 400 kW, e de reservatórios de água quente com um volume útil de ≤ 2 000 litros, incluindo os integrados em sistemas mistos de aquecedor de água e dispositivo solar definidos no artigo 2.º do Regulamento Delegado (UE) n.º 812/2013.
+
+2. O presente regulamento não é aplicável:
+
+a) A aquecedores de água concebidos para utilizar predominantemente combustíveis gasosos ou líquidos produzidos a partir de biomassa;
+
+b) A aquecedores de água que utilizem combustíveis sólidos;
+
+c) A aquecedores de água abrangidos pelo âmbito da Diretiva 2010/75/UE do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2013239PT.01016201-E0005);
+
+d) A aquecedores combinados, definidos no artigo 2.º do Regulamento (UE) n.º 813/2013 [([^6])](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr6-L_2013239PT.01016201-E0006);
+
+e) A aquecedores de água que não satisfaçam, pelo menos, o perfil de carga com a menor energia de referência, tal como especificado no anexo III, quadro 1;
+
+f) A aquecedores de água concebidos unicamente para preparação de bebidas e/ou alimentos quentes;
+
+g) A geradores de calor concebidos para aquecedores de água e caixas para aquecedores de água a equipar com esses geradores, colocados no mercado antes de 1 de janeiro de 2018 para substituir geradores de calor idênticos e caixas para aquecedores de água idênticos. O produto de substituição ou a sua embalagem devem indicar claramente o aquecedor de água a que se destinam.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente regulamento, para além das definições que figuram no artigo 2.º da Diretiva 2009/125/CE, entende-se por:
+
+1) **«Aquecedor de água»**: um dispositivo que
+
+a) Está ligado a uma fonte de alimentação externa de água potável ou para uso sanitário;
+
+b) Gera e transfere calor para produzir água quente potável ou para uso sanitário, a determinados níveis de temperatura, quantidades e caudais durante determinados intervalos de tempo; e
+
+c) Está equipado com um ou mais geradores de calor;
+
+2) **«Gerador de calor»**: representa a parte de um aquecedor de água que gera o calor utilizando um ou mais dos seguintes processos:
+
+a) Queima de combustíveis fósseis e/ou de combustíveis de biomassa;
+
+b) Utilização do efeito de Joule em elementos de aquecimento por resistência elétrica;
+
+c) Captação do calor ambiente a partir de uma fonte atmosférica, aquática ou geotérmica e/ou de calor residual;
+
+em que o gerador de calor concebido para um aquecedor de água e a caixa para aquecedor de água a equipar com esse gerador de calor devem também ser considerados um aquecedor de água;
+
+3) **«Caixa de aquecedor de água»**: a parte de um aquecedor de água que é concebida para ser equipada com um gerador de calor;
+
+4) **«Potência calorífica nominal»**: a potência calorífica declarada à saída do aquecedor de água quando aquece a água em condições nominais normais, expressa em kW;
+
+5) **«Volume útil de armazenagem» (*V*)**: o volume nominal de um reservatório de água quente ou de um termoacumulador, expresso em litros;
+
+6) **«Condições nominais normais»**: as condições de funcionamento dos aquecedores de água para estabelecer a potência calorífica nominal, a eficiência energética do aquecimento de água, o nível de potência sonora e as emissões de óxidos de azoto, bem como as condições de funcionamento dos reservatórios de água quente para estabelecer as perdas permanentes de energia;
+
+7) **«Biomassa»**: a fração biodegradável de produtos, resíduos e detritos de origem biológica provenientes da agricultura (incluindo substâncias de origem vegetal e animal), da exploração florestal e de indústrias afins, incluindo a pesca e a aquicultura, bem como a fração biodegradável de resíduos industriais e urbanos;
+
+8) **«Combustível de biomassa»**: um combustível gasoso ou líquido produzido a partir de biomassa;
+
+9) **«Combustível fóssil»**: um combustível gasoso ou líquido de origem fóssil;
+
+10) **«Aquecedor de água tradicional»**: um aquecedor de água que gera calor através da queima de combustíveis fósseis e/ou de biomassa e do efeito de Joule em elementos de aquecimento por resistência elétrica;
+
+11) **«Aquecedor de água com bomba de calor»**: um aquecedor de água que utiliza calor ambiente a partir de uma fonte atmosférica, aquática ou geotérmica e/ou calor residual para a geração de calor;
+
+12) **«Aquecedor de água solar»**: um aquecedor de água equipado com um ou mais coletores solares, reservatórios de água quente solar, geradores de calor e eventualmente bombas de calor no circuito dos coletores e noutros componentes; um aquecedor de água solar é colocado no mercado como uma só unidade;
+
+13) **«Reservatório de água quente»**: um recipiente destinado a armazenar água quente para fornecimento de água quente e/ou de aquecimento ambiente, incluindo eventuais aditivos, que não está equipado com um gerador de calor, com a possível exceção de um ou mais aquecedores de imersão auxiliares;
+
+14) **«Aquecedor de imersão auxiliar»**: um aquecedor que utiliza o efeito de Joule em resistências elétricas, está integrado num reservatório de água quente e só gera calor quando a fonte externa de calor é interrompida (por exemplo, durante os períodos de manutenção) ou avaria, ou que faz parte de um reservatório de água quente solar e fornece calor quando a fonte de calor solar não é suficiente para proporcionar os níveis de conforto necessários;
+
+15) **«Eficiência energética do aquecimento de água» (*ηwh*)**: o rácio entre a energia útil fornecida por um aquecedor de água e a energia necessária para a sua geração, expresso em %;
+
+16) **«Nível de potência sonora» (*LWA*)**: o nível de potência sonora ponderado A, no interior e/ou no exterior, expresso em dB;
+
+17) **«Perdas permanentes de energia» (*S*)**: a potência calorífica dissipada por um reservatório de água quente a uma determinada temperatura da água e a uma determinada temperatura ambiente, expressa em W;
+
+18) **«Coeficiente de conversão» (*CC*)**: um coeficiente que reflete a estimativa de uma média de 40 % de eficiência da produção na União Europeia a que se refere a Diretiva 2012/27/UE do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntr7-L_2013239PT.01016201-E0007); o valor do coeficiente de conversão é *CC* = 2,5
+
+Para efeitos dos anexos II a VI, são estabelecidas definições adicionais no anexo I.
+
+###### Artigo 3.º — Requisitos de conceção ecológica e calendário
+
+1. Os requisitos de conceção ecológica para os aquecedores de água e os reservatórios de água quente são estabelecidos no anexo II.
+
+2. Cada um desses requisitos é aplicável em conformidade com o seguinte calendário:
+
+a) A partir de 26 de setembro de 2015: i) os aquecedores de água devem cumprir os requisitos estabelecidos no anexo II, pontos 1.1, alínea a), 1.2, 1.3, 1.4 e 1.6, ii) os reservatórios de água quente devem cumprir os requisitos estabelecidos no anexo II, ponto 2.2;
+
+i) os aquecedores de água devem cumprir os requisitos estabelecidos no anexo II, pontos 1.1, alínea a), 1.2, 1.3, 1.4 e 1.6,
+
+ii) os reservatórios de água quente devem cumprir os requisitos estabelecidos no anexo II, ponto 2.2;
+
+b) A partir de 26 de setembro de 2017: i) os aquecedores de água devem cumprir os requisitos estabelecidos no anexo II, ponto 1.1, alínea b), ii) os reservatórios de água quente devem cumprir os requisitos estabelecidos no anexo II, ponto 2.1;
+
+i) os aquecedores de água devem cumprir os requisitos estabelecidos no anexo II, ponto 1.1, alínea b),
+
+ii) os reservatórios de água quente devem cumprir os requisitos estabelecidos no anexo II, ponto 2.1;
+
+c) A partir de 26 de setembro de 2018: i) os aquecedores de água devem cumprir os requisitos estabelecidos no anexo II, ponto 1.1, alínea c), ii) os aquecedores de água devem cumprir os requisitos estabelecidos no anexo II, ponto 1.5, alínea a).
+
+i) os aquecedores de água devem cumprir os requisitos estabelecidos no anexo II, ponto 1.1, alínea c),
+
+ii) os aquecedores de água devem cumprir os requisitos estabelecidos no anexo II, ponto 1.5, alínea a).
+
+3. A conformidade com os requisitos de conceção ecológica deve ser medida e calculada de acordo com os requisitos estabelecidos nos anexos III e IV.
+
+###### Artigo 4.º — Avaliação da conformidade
+
+1. O procedimento de avaliação da conformidade referido no artigo 8.º, n.º 2, da Diretiva 2009/125/CE deve ser o controlo interno da conceção previsto no anexo IV dessa diretiva ou o sistema de gestão previsto no anexo V da mesma diretiva.
+
+2. Para efeitos de avaliação da conformidade, a documentação técnica deve conter a informação relativa ao produto prevista no ponto 1.6 do anexo II do presente regulamento.
+
+###### Artigo 5.º — Procedimento de verificação para efeitos de fiscalização do mercado
+
+Ao efetuarem, relativamente aos requisitos estabelecidos no anexo II do presente regulamento, as verificações para efeitos de fiscalização do mercado referidas no artigo 3.º, n.º 2, da Diretiva 2009/125/CE, as autoridades dos Estados-Membros devem aplicar o procedimento de verificação descrito no anexo V do presente regulamento.
+
+###### Artigo 6.º — Parâmetros de referência indicativos
+
+Os parâmetros de referência indicativos para os aquecedores de água e reservatórios de água quente com melhor desempenho disponíveis no mercado no momento da entrada em vigor do presente regulamento constam do anexo VI.
+
+###### Artigo 7.º — Revisão
+
+1. A Comissão deve reexaminar o presente regulamento em função do progresso tecnológico dos aquecedores de água e reservatórios de água quente e apresentar o resultado dessa revisão ao Fórum de Consulta sobre a Conceção Ecológica, o mais tardar, cinco anos após a entrada em vigor do presente regulamento. A revisão deve incluir, em especial, uma avaliação dos seguintes aspetos:
+
+a) A conveniência de estabelecer requisitos de conceção ecológica para as emissões de gases com efeito de estufa relacionadas com os fluidos refrigerantes;
+
+b) Com base nos métodos de medição em elaboração, o nível dos requisitos de conceção ecológica que pode ser introduzido para as emissões de monóxido de carbono e de hidrocarbonetos;
+
+c) A conveniência de estabelecer requisitos de conceção ecológica mais estritos para as emissões de óxidos de azoto;
+
+d) A conveniência de estabelecer requisitos de conceção ecológica para os aquecedores de água especificamente concebidos para consumir predominantemente combustíveis gasosos ou líquidos produzidos a partir de biomassa;
+
+e) A validade do valor do coeficiente de conversão;
+
+f) A conveniência da certificação por terceiros.
+
+2. A Comissão deve também reexaminar o presente regulamento à luz do progresso técnico no domínio dos aquecedores de água e apresentar o resultado desse reexame ao Fórum de Consulta sobre a Conceção Ecológica o mais tardar três anos a contar da entrada em vigor do presente regulamento. O reexame deve apenas incluir uma avaliação da conveniência de estabelecer requisitos de conceção ecológica distintos para diferentes tipos de aquecedores de água.
+
+###### Artigo 8.º — Disposições transitórias
+
+1. Até 26 de setembro de 2015, os Estados-Membros podem autorizar a colocação no mercado e/ou a colocação em serviço de aquecedores de água que sejam conformes com as disposições nacionais em vigor no momento da adoção do presente regulamento no que respeita à eficiência energética do aquecimento de água e ao nível de potência sonora.
+
+2. Até 26 de setembro de 2018, os Estados-Membros podem autorizar a colocação no mercado e/ou a colocação em serviço de aquecedores de água que sejam conformes com as disposições nacionais em vigor no momento da adoção do presente regulamento no que respeita às emissões de óxidos de azoto.
+
+3. Até 26 de setembro de 2017, os Estados-Membros podem autorizar a colocação no mercado e/ou a colocação em serviço de reservatórios de água quente que sejam conformes com as disposições nacionais em vigor no momento da adoção do presente regulamento no que respeita às perdas permanentes de energia.
+
+###### Artigo 9.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 2 de agosto de 2013.
+
+***Pela Comissão***
+
+***O Presidente***
+
+**José Manuel BARROSO**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2013239PT.01016201-E0001) [JO L 285 de 31.10.2009, p. 10](http://publications.europa.eu/resource/oj/JOL_2009_285_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2013239PT.01016201-E0002) [JO L 330 de 16.12.2009, p. 10](http://publications.europa.eu/resource/oj/JOL_2009_330_R_TOC).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2013239PT.01016201-E0003) Ver a página 83 do presente Jornal Oficial.
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2013239PT.01016201-E0004) [JO L 316 de 14.11.2012, p. 12](http://publications.europa.eu/resource/oj/JOL_2012_316_R_TOC).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2013239PT.01016201-E0005) [JO L 334 de 17.12.2010, p. 17](http://publications.europa.eu/resource/oj/JOL_2010_334_R_TOC).
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc6-L_2013239PT.01016201-E0006) Ver a página 136 do presente Jornal Oficial.
+
+> [(^7^)](http://publications.europa.eu/resource/cellar/80afe2f1-1736-11e3-8d1c-01aa75ed71a1.0019.03/DOC_1#ntc7-L_2013239PT.01016201-E0007) [JO L 315 de 14.11.2012, p. 1](http://publications.europa.eu/resource/oj/JOL_2012_315_R_TOC).

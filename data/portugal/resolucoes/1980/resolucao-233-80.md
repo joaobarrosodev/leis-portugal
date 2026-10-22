@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:471731:por
+title: Resolução n.º 233/80
+short_title: null
+summary: Autoriza a prestação do aval do Estado, até ao montante de 1580000 contos, relativo às operações de financiamento
+  à Rodoviária Nacional, E. P.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 233/80
+official_date: null
+publication_date: '1980-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 153/1980, Série I de 1980-07-05
+  number: '153'
+  series: I
+  supplement: null
+  pages: 1546 - 1546
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15300/15461546.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471731'
+  dre_path: /dr/detalhe/resolucao/233-1980-471731
+  internal: pt:dre:471731:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/233-1980-471731
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/233-1980-471731
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-07-05T00:00:00Z'
+integrity:
+  source_sha256: 99fbd54fb2d73667eacfc9ba95c38ef021064c935ef408f41b77e6560cca380b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-233-471731.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 233/80
+
+Considerando que a Rodoviária Nacional, E. P., tem em curso a realização de investimentos em frota para transporte de passageiros, considerados no PISEE/79 e aprovados pelo [Despacho Normativo n.º 255/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/255-1979-369622), de 31 de Julho;
+
+Considerando que as instituições de crédito nacionais que irão financiar esses investimentos solicitaram a garantia do Estado para esses financiamentos:
+
+O Conselho de Ministros, reunido em 25 de Junho de 1980, resolveu autorizar a prestação do aval do Estado, até ao montante de 1580000 contos, relativo às operações de financiamento à Rodoviária Nacional, E. P., para cobertura das despesas de investimento para renovação da sua frota, a conceder pelas seguintes instituições de crédito:
+
+Caixa Geral de Depósitos - 570000 contos.
+
+Banco de Fomento Nacional - 508000 contos.
+
+Banco Pinto & Sotto Mayor - 502000 contos.
+
+Presidência do Conselho de Ministros, 25 de Junho de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.

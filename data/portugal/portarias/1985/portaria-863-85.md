@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:171912:por
+title: Portaria n.º 863/85
+short_title: null
+summary: Autoriza, ao abrigo do PDRITM, a reconstituição e transferência de vinhas na Região Demarcada do Douro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 863/85
+official_date: null
+publication_date: '1985-11-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 262/1985, Série I de 1985-11-14
+  number: '262'
+  series: I
+  supplement: null
+  pages: 3824 - 3824
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/11/26200/38243824.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '171912'
+  dre_path: /dr/detalhe/portaria/863-1985-171912
+  internal: pt:dre:171912:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/863-1985-171912
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/863-1985-171912
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-05-14T00:00:00Z'
+integrity:
+  source_sha256: b1875007066767331fb03e9483427bbec2b1f64d42628392fc6c642e5a2febcd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-863-171912.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:421414:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 863/85
+
+de 14 de Novembro
+
+A [Portaria n.º 685/82](https://diariodarepublica.pt/dr/detalhe/portaria/685-1982-394567), de 9 de Julho, estabelece que, para cumprimento do Projecto de Desenvolvimento Rural Integrado de Trás-os-Montes (PDRITM), serão autorizadas na Região Demarcada do Douro reconstituições e transferências de vinhas, bem como a plantação de vinhas novas, num total de 2500 ha, em terrenos cujas vinhas a implantar sejam susceptíveis das classificações A ou B e, eventualmente, C.
+
+O período previsto para a execução dessas acções seria o da execução da 1.ª fase do PDRITM, que, nos termos do acordo com o Banco Mundial, termina em 1988.
+
+Entretanto, a adesão dos viticultores durienses e a capacidade de resposta dos serviços oficiais envolvidos traduzem-se num ritmo de execução que permite prever, face aos resultados já alcançados, que a área autorizada seja esgotada, em termos de projectos aprovados, no final do 1.º semestre de 1986.
+
+Porém, as solicitações dos viticultores, ao abrigo da [Portaria n.º 685/82](https://diariodarepublica.pt/dr/detalhe/portaria/685-1982-394567), têm incidido fundamentalmente em novas plantações, não tendo tido real significado os pedidos respeitantes a transferências e a reconstituições.
+
+O integral aproveitamento das novas e amplas perspectivas que poderão abrir-se à comercialização dos vinhos da Região do Douro com a entrada de Portugal na CEE implica a necessidade de proceder à reconversão das vinhas existentes.
+
+Com efeito, para assegurar a conquista dos mercados potenciais e plena competitividade, face à concorrência, é indispensável reconverter os vinhedos existentes por forma a garantir, em simultâneo, acentuada melhoria de qualidade dos produtos, das condições de produção e do rendimento dos viticultores.
+
+Assim, atendendo ao facto de, ainda ser possível, no âmbito do PDRITM, dispor dos meios financeiros necessários para apoiar a reconversão de mais cerca de 1000 ha de vinha para além dos fixados na [Portaria n.º 685/82](https://diariodarepublica.pt/dr/detalhe/portaria/685-1982-394567) e à reconhecida necessidade de promover a reconversão das vinhas existentes na Região Demarcada do Douro, considera-se de manifesto interesse garantir a afectação dos meios ainda disponíveis ao financiamento exclusivo para reconstituições e transferências, até ao limite de mais 1000 ha.
+
+Nestes termos, com fundamento nos n.os 2 e 4 do artigo 6.º do [Decreto-Lei n.º 513-D/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-d-1979-393780), de 24 de Dezembro:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, o seguinte:
+
+1.º Esgotada a área de 2500 ha prevista no n.º 1.º da [Portaria n.º 685/82](https://diariodarepublica.pt/dr/detalhe/portaria/685-1982-394567), de 9 de Julho, é autorizada, ao abrigo do PDRITM, a reconstituição e transferência de vinhas, na Região Demarcada do Douro, até um total de mais 1000 ha.
+
+2.º A autorização das reconstituições e transferências a efectuar fica condicionada aos terrenos cujas vinhas a implantar sejam susceptíveis das classificações A, B ou C.
+
+3.º As autorizações a conceder e as normas técnicas a que terão de obedecer as plantações a efectuar deverão subordinar-se ao estabelecido na [Portaria n.º 685/82](https://diariodarepublica.pt/dr/detalhe/portaria/685-1982-394567).
+
+4.º Os pedidos de autorização só serão aceites até 31 de Julho de 1986.
+
+Ministério da Agricultura.
+
+**Assinada em 30 de Outubro de 1985.**
+
+**O Ministro da Agricultura, Álvaro Roque de Pinho Bissaia Barreto.**

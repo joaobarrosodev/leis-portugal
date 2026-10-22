@@ -1,0 +1,984 @@
+---
+schema_version: '1.0'
+id: pt:dre:243744:por
+title: Decreto-Lei n.º 248-B/2008
+short_title: null
+summary: Estabelece o regime jurídico das federações desportivas e as condições de atribuição do estatuto de utilidade pública
+  desportiva
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 248-B/2008
+official_date: null
+publication_date: '2008-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 252/2008, 3º Suplemento, Série I de 2008-12-31
+  number: '252'
+  series: I
+  supplement: 3º Suplemento
+  pages: 9300-(415) a 9300-(425)
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/12/25203/0041500425.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-02-16'
+version_history:
+  file: decreto-lei-248-b-2008.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-06-27'
+    amending: pt:dre:25676922:por
+    amending_title: Decreto-Lei n.º 93/2014
+    changes:
+    - Altera Artigo 27.º
+  - date: '2017-09-02'
+    amending: pt:dre:108063582:por
+    amending_title: Lei n.º 101/2017
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+    - Altera Artigo 21.º
+    - Altera Artigo 45.º
+  - date: '2024-02-16'
+    amending: pt:dre:852762916:por
+    amending_title: Lei n.º 23/2024
+    changes:
+    - Altera Artigo 27.º
+    - Altera Artigo 29.º
+    - Altera Artigo 32.º
+    - Altera Artigo 53.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/248-b/2008/p/cons/20240215/pt/html
+  oj: null
+  dre: '243744'
+  dre_path: /dr/detalhe/decreto-lei/248-b-2008-243744
+  internal: pt:dre:243744:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-b-2008-243744
+  metadata_url: https://data.dre.pt/eli/dec-lei/248-b/2008/p/cons/20240215/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-58897380
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-58897380
+  retrieved_at: '2026-10-22T11:56:16Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: bee932d5fe1a19c99b4b3629caced30bb09ba87e513d41a0c2634439d9e57590
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:56:16Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-248-b-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Nacional do Desporto
+- Estatuto
+- Federação Desportiva
+- Instituto do Desporto de Portugal
+- Publicitação
+- Justiça Desportiva
+- Organização Desportiva
+- Página na Internet
+- Utilidade Pública Desportiva
+relationships:
+- type: amended_by
+  target: pt:dre:25676922:por
+  label: Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922
+  date: '2014-06-23'
+- type: amended_by
+  target: pt:dre:108063582:por
+  label: Altera Artigo 8.º; Altera Artigo 13.º; Altera Artigo 21.º; Altera Artigo 45.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582
+  date: '2017-08-28'
+- type: amended_by
+  target: pt:dre:852762916:por
+  label: Altera Artigo 27.º; Altera Artigo 29.º; Altera Artigo 32.º; Altera Artigo 53.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/23-2024-852762916
+  date: '2024-02-15'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/111/1997/05/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/111/1997/05/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/144/1993/04/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/144/1993/04/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/303/1999/08/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/303/1999/08/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/5/2007/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/5/2007/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/595/1993/06/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/595/1993/06/19/p/dre
+article_structure:
+  article_count: 67
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:56:16Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 248-B/2008
+
+Decreto-Lei n.º 248-B/2008
+
+de 31 de Dezembro
+
+A Lei de Bases da Actividade Física e do Desporto, aprovada pela Lei n.º 5/2007, de 16 de Janeiro, veio estabelecer um conjunto de orientações para a atribuição do estatuto de utilidade pública desportiva às federações desportivas, as quais apontam para a necessidade de se proceder a uma extensa reforma relativamente à organização e funcionamento destas organizações, assente em novos princípios e valores, reflectindo acrescidas exigências éticas, para que aquelas possam responder, com eficácia, aos novos desafios com que estão confrontadas.
+
+A reforma que ora se empreende parte de uma concepção unitária de federação desportiva, enquanto organização autónoma dotada de todos os órgãos necessários para reger a respectiva modalidade desportiva, incluindo os relativos à disciplina da arbitragem e à aplicação da justiça. Não se perfilharam soluções que se traduzissem na atribuição a órgãos exteriores às federações desportivas da competência para decidir em matérias de arbitragem ou de justiça, em nome da garantia de independência das decisões. Tais soluções, para além de não serem conformes ao disposto no artigo 46.º da Constituição da República Portuguesa, violam as normas das federações internacionais, de acordo com as quais aquele tipo de decisões deve ser cometido, em qualquer caso, a órgãos próprios das federações nacionais. Para garantir a independência das decisões, a estratégia por que se optou passa, assim, pela democratização interna das federações e não por soluções de ingerência externa no seu funcionamento.
+
+De entre as principais inovações deste regime jurídico das federações desportivas destacam-se as seguintes:
+
+Em primeiro lugar, a presente reforma assenta na distinção entre federações das modalidades colectivas e federações das modalidades individuais, uma vez que são muito diversos os problemas de umas e de outras. Com efeito, nas modalidades colectivas o clube desportivo assume uma particular importância (enquanto suporte orgânico das equipas), ao contrário do que sucede nas modalidades individuais, nas quais o que sobreleva é o praticante desportivo. Nas modalidades colectivas a competitividade gera-se, sobretudo, entre clubes; nas modalidades individuais assenta nos resultados obtidos pelos praticantes individuais. E, porque assim é, as regras organizacionais devem ser necessariamente diferentes.
+
+Em segundo lugar, estabelece-se que a representação na assembleia geral das diversas estruturas e agentes desportivos seja feita por intermédio de delegados, os quais apenas representam uma única entidade e têm um só voto. As assembleias gerais das federações desportivas deixam de ser integradas por organizações que exprimiam votos corporativamente organizados para passarem a ser compostas por pessoas indicadas ou eleitas previamente, mas que apenas podem dispor de um voto.
+
+Em terceiro lugar, com vista a impedir o regresso a sistemas de votos corporativamente expressos, proíbem-se os votos por procuração ou por correspondência. O que se pretende é estimular a participação dos interessados nos trabalhos das assembleias gerais, fomentar a presença e a discussão dos intervenientes e incentivar a construção de consensos entre os diferentes sectores das modalidades desportivas. As federações desportivas podem optar, salvo se a lei estabelecer regra diversa, por atribuir o direito de ser representada por mais de um delegado; mas, cada delegado apenas terá um voto.
+
+Em quarto lugar, quer as federações das modalidades colectivas, quer as das modalidades individuais, devem reservar 30 % dos delegados para os representantes dos agentes desportivos (máxime, praticantes, treinadores e árbitros), sendo os restantes 70 % reservados para os representantes dos clubes (ou suas organizações). Nas modalidades colectivas, acresce ainda que terá de haver um equilíbrio entre os representantes dos clubes intervenientes nos quadros competitivos nacionais (35 %) e os representantes dos que intervêm nos quadros competitivos distritais ou regionais (35 %). Ao invés, nas modalidades individuais, a regra é a de que os clubes (ou as suas associações) devem, em qualquer caso, possuir o mesmo número de delegados. Estas diferentes formas de ponderação do número de delegados asseguram que nenhum sector, nenhuma área da actividade desportiva, por si só, possa impor a sua vontade ao conjunto da modalidade desportiva.
+
+Em quinto lugar, as eleições dos órgãos federativos colegiais (conselhos de disciplina, de justiça, de arbitragem e fiscal), com excepção da direcção, deve processar-se através de listas próprias, por voto secreto, de acordo com o princípio da representação proporcional e o método da média mais alta de Hondt. Pretende-se com esta regra, por um lado, impedir as listas únicas, com prévia negociação de lugares, e, por outro, assegurar a representação das minorias nos órgãos de justiça e de arbitragem, o que tornará mais transparente o funcionamento desses órgãos de natureza muito sensível e contribuirá para um acréscimo de auto-fiscalização do seu funcionamento. Estas regras são completadas por duas outras destinadas a assegurar que não sejam estabelecidos entraves desproporcionados à apresentação de candidaturas alternativas, estabelecendo um limite ao número exigível de subscritores das listas (10 % dos delegados) e determinando que as listas podem ser apresentadas apenas para determinado órgão.
+
+Em sexto lugar, consagra-se um novo órgão eleito directamente, unipessoal, e com poderes reforçados - o presidente da federação. Com competências distintas da direcção, à qual preside, o presidente é o último responsável pelo executivo federativo e o garante maior do regular funcionamento dos demais órgãos.
+
+Em sétimo lugar, são reforçados os poderes dos executivos federativos, a fim de que possam executar o programa para o qual foram eleitos. Nesta óptica, atribui-se à direcção a competência para aprovar todos os regulamentos federativos. Esta nova competência da direcção é temperada pela possibilidade de 20 % dos delegados requererem a respectiva apreciação em assembleia geral para suspender a sua vigência ou introduzir alterações.
+
+Em oitavo lugar, estabelece-se uma regra geral para a renovação dos mandatos dos titulares dos vários órgãos federativos, de acordo com a qual ninguém pode exercer mais do que três mandatos seguidos num mesmo órgão de uma federação desportiva, salvo se, à data da entrada em vigor do presente decreto-lei, tiverem cumprido ou estiverem a cumprir, pelo menos, o terceiro mandato consecutivo, circunstância em que podem ser eleitos para mais um mandato consecutivo.
+
+Em nono lugar, clarifica-se que as organizações de clubes (ligas e associações distritais ou regionais), com funções de organização, disciplina e promoção da modalidade na sua área de intervenção, exerçam tais funções por delegação da federação desportiva em que se inserem: todas estão subordinadas às orientações provindas da federação e esta tem os meios necessários para fazer valer as suas orientações.
+
+Em décimo e último lugar, estabelece-se o princípio da renovação quadrienal da atribuição do estatuto de utilidade pública desportiva, garantindo-se assim um reexame periódico das razões que justificaram a atribuição inicial daquele estatuto, o que será concretizado em períodos coincidentes com o de cada ciclo olímpico.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 5/2007, de 16 de Janeiro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922) Onde se lê «Instituto do Desporto de Portugal, I. P.» deve ler-se «Instituto Português do Desporto e Juventude, I. P.
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime jurídico das federações desportivas e as condições de atribuição do estatuto de utilidade pública desportiva.
+
+###### Artigo 2.º — Conceito de federação desportiva
+
+As federações desportivas são as pessoas colectivas constituídas sob a forma de associação sem fins lucrativos que, englobando clubes ou sociedades desportivas, associações de âmbito territorial, ligas profissionais, se as houver, praticantes, técnicos, juízes e árbitros, e demais entidades que promovam, pratiquem ou contribuam para o desenvolvimento da respectiva modalidade, preencham, cumulativamente, os seguintes requisitos:
+
+a) Se proponham, nos termos dos respectivos estatutos, prosseguir, entre outros, os seguintes objectivos gerais:
+
+i) Promover, regulamentar e dirigir a nível nacional a prática de uma modalidade desportiva ou de um conjunto de modalidades afins ou associadas;
+
+ii) Representar perante a Administração Pública os interesses dos seus filiados;
+
+iii) Representar a sua modalidade desportiva, ou conjunto de modalidades afins ou associadas, junto das organizações desportivas internacionais, bem como assegurar a participação competitiva das seleções nacionais;
+
+b) Obtenham o estatuto de pessoa colectiva de utilidade pública desportiva.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 3.º — Tipos de federações desportivas
+
+1 - As federações desportivas podem ser unidesportivas ou multidesportivas.
+
+2 - São federações unidesportivas as que englobam pessoas ou entidades dedicadas à prática da mesma modalidade desportiva, incluindo as suas várias disciplinas, ou a um conjunto de modalidades afins ou associadas.
+
+3 - São federações multidesportivas as que se dedicam, cumulativamente, ao desenvolvimento da prática de diferentes modalidades desportivas, em áreas específicas de organização social, designadamente no âmbito do desporto para cidadãos portadores de deficiência e do desporto no quadro do sistema educativo, em particular no do ensino superior.
+
+4 - A aplicação do presente decreto-lei às federações multidesportivas faz-se com as adaptações impostas pela sua natureza, atendendo às exigências específicas da organização social em que promovam o desenvolvimento da prática desportiva.
+
+###### Artigo 4.º — Regime jurídico
+
+Às federações desportivas é aplicável o disposto no presente decreto-lei e, subsidiariamente, o regime jurídico das associações de direito privado.
+
+###### Artigo 5.º — Princípios de organização e funcionamento
+
+1 - As federações desportivas organizam-se e prosseguem as suas actividades de acordo com os princípios da liberdade, da democraticidade, da representatividade e da transparência.
+
+2 - As federações desportivas são independentes do Estado, dos partidos políticos e das instituições religiosas.
+
+###### Artigo 6.º — Denominação e sede
+
+1 - As federações desportivas devem, na sua denominação, mencionar a modalidade desportiva a que dedicam a sua actividade.
+
+2 - As federações desportivas têm a sua sede em território nacional.
+
+###### Artigo 7.º — Responsabilidade
+
+1 - As federações desportivas e ligas profissionais respondem civilmente perante terceiros pelas ações ou omissões dos titulares dos seus órgãos que profiram as decisões referidas no número seguinte, trabalhadores, representantes legais e auxiliares, nos termos em que os comitentes respondem pelos atos ou omissões dos seus comissários.
+
+2 - A responsabilidade das federações desportivas, das ligas profissionais e dos titulares dos seus órgãos que profiram decisões finais no respetivo âmbito de competências e sem possibilidade de qualquer outro meio de impugnação ou recurso internos, bem como dos respetivos trabalhadores, representantes legais e auxiliares por ações ou omissões que adotem no exercício e com prerrogativas de poder público é regulada pelo regime jurídico da responsabilidade civil extracontratual das pessoas coletivas de direito público por danos decorrentes do exercício da função administrativa.
+
+3 - Os titulares dos órgãos das federações desportivas, seus trabalhadores, representantes legais ou auxiliares respondem civilmente perante estas pelos prejuízos causados pelo incumprimento dos seus deveres legais ou estatutários.
+
+4 - O disposto nos números anteriores não prejudica a responsabilidade disciplinar ou penal que no caso couber.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 8.º — Publicitação da atividade
+
+1 - As federações desportivas devem publicitar na respetiva página na Internet, no prazo de 15 dias, todos os dados relevantes e atualizados da sua atividade, em especial:
+
+a) Dos estatutos e regulamentos, em versão consolidada e actualizada, com menção expressa das deliberações que aprovaram as diferentes redacções das normas neles constantes;
+
+b) As decisões integrais dos órgãos disciplinares ou jurisdicionais e a respectiva fundamentação;
+
+c) Os orçamentos e as contas dos últimos três anos, incluindo os respectivos balanços;
+
+d) Os planos e relatórios de actividades dos últimos três anos;
+
+e) A composição dos corpos gerentes;
+
+f) Os contactos da federação e dos respectivos órgãos sociais (endereço, telefone, fax e correio electrónico).
+
+g) Dos dados relevantes, de acesso público, sobre as sociedades desportivas da respetiva modalidade, nomeadamente no âmbito do cumprimento do dever de transparência na titularidade de participações sociais;
+
+h) Outros dados de acesso público previstos no presente decreto-lei, bem como noutros regimes jurídicos em matéria de desporto que devam ser objeto de publicitação no sítio eletrónico da federação.
+
+2 - Nas publicitações a que se referem as alíneas b), g) e h) do número anterior, deve ser observado o regime legal de proteção de dados pessoais.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 9.º — Direito de inscrição
+
+As federações desportivas não podem recusar a inscrição dos agentes desportivos, clubes ou sociedades desportivas com sede em território nacional, desde que os mesmos preencham as condições regulamentares de filiação definidas nos termos dos seus estatutos.
+
+### Capítulo II — Estatuto de utilidade pública desportiva
+
+#### Secção I — Disposições gerais
+
+###### Artigo 10.º — Estatuto de utilidade pública desportiva
+
+O estatuto de utilidade pública desportiva confere a uma federação desportiva a competência para o exercício, em exclusivo, por modalidade ou conjunto de modalidades, de poderes regulamentares, disciplinares e outros de natureza pública, bem como a titularidade dos direitos e deveres especialmente previstos na lei.
+
+###### Artigo 11.º — Poderes públicos das federações desportivas
+
+Têm natureza pública os poderes das federações desportivas exercidos no âmbito da regulamentação e disciplina da respectiva modalidade que, para tanto, lhe sejam conferidos por lei.
+
+###### Artigo 12.º — Justiça desportiva
+
+Os litígios emergentes dos actos e omissões dos órgãos das federações desportivas, no âmbito do exercício dos poderes públicos, estão sujeitos às normas do contencioso administrativo, ficando sempre salvaguardados os efeitos desportivos entretanto validamente produzidos ao abrigo da última decisão da instância competente na ordem desportiva.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 74/2013 - Diário da República n.º 172/2013, Série I de 2013-09-06](https://diariodarepublica.pt/dr/detalhe/lei/74-2013-499251)
+
+###### Artigo 13.º — Direitos e deveres das federações desportivas
+
+1 - As federações desportivas têm direito, para além de outros que resultem da lei:
+
+a) À participação na definição da política desportiva nacional;
+
+b) À representação no Conselho Nacional do Desporto;
+
+c) Às receitas que lhes sejam consignadas por lei;
+
+d) Ao reconhecimento das selecções e representações nacionais por elas organizadas;
+
+e) À participação nos organismos internacionais reguladores da modalidade;
+
+f) Ao uso dos símbolos nacionais;
+
+g) À regulamentação dos quadros competitivos da modalidade;
+
+h) À atribuição de títulos nacionais;
+
+i) Ao exercício da acção disciplinar sobre todos os agentes desportivos sob sua jurisdição;
+
+j) Ao uso da qualificação «utilidade pública desportiva» ou, abreviadamente, «UPD», a seguir à sua denominação.
+
+2 - Para além dos previstos no número anterior e de todos aqueles que lhes advenham da prossecução do respectivo fim social, as federações desportivas exercem ainda os direitos que nos estatutos lhes sejam conferidos pelos seus associados.
+
+3 - Sem prejuízo das demais obrigações que resultam da lei, as federações desportivas devem cumprir os objectivos de desenvolvimento e generalização da prática desportiva, garantir a representatividade e o funcionamento democrático internos, em especial através da limitação de mandatos, bem como assegurar a transparência e a regularidade da sua gestão.
+
+4 - As federações desportivas devem ainda aprovar e executar programas de prevenção, formação e educação sobre o combate à manipulação de competições e corrupção desportiva, prestando a todos os seus agentes desportivos informação atualizada e rigorosa, nomeadamente sobre as respetivas consequências para a carreira desportiva, as suas responsabilidades, direitos, deveres e obrigações nesse âmbito, e sobre as sanções aplicáveis aos comportamentos suscetíveis de afetar a verdade, a lealdade e a correção da competição e do seu resultado na atividade desportiva.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 14.º — Fiscalização
+
+A fiscalização do exercício de poderes públicos e do cumprimento das regras legais de organização e funcionamento internos das federações desportivas é efectuada, nos termos legais, por parte de serviço ou organismo da Administração Pública com competências na área do desporto, mediante a realização de inquéritos, inspecções, sindicâncias e auditorias externas.
+
+#### Secção II — Atribuição
+
+###### Artigo 15.º — Princípio da unicidade federativa
+
+1 - O estatuto de utilidade pública desportiva é atribuído por um período de quatro anos, coincidente com o ciclo olímpico, a uma só pessoa coletiva, por modalidade desportiva ou conjunto de modalidades afins, que, sendo titular do estatuto de simples utilidade pública, se proponha prosseguir os objetivos previstos no artigo 2.º, demonstre que possui relevante interesse desportivo nacional e preencha os demais requisitos previstos no presente decreto-lei.
+
+2 - Caso o pedido de atribuição do estatuto de utilidade pública desportiva ocorra após o ano de início do ciclo olímpico, a atribuição considera-se efetuada até ao final desse ciclo olímpico.
+
+3 - Compete ao Conselho Nacional do Desporto dar parecer, para efeitos do número anterior, sobre o âmbito de uma modalidade desportiva ou de uma área específica de organização social, consoante os casos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 16.º — Requerimento
+
+1 - O pedido de atribuição do estatuto de utilidade pública desportiva é dirigido ao membro do Governo responsável pela área do desporto, em modelo de requerimento a aprovar por portaria deste.
+
+2 - O membro do Governo responsável pela área do desporto promove, no prazo de 15 dias a contar da sua recepção, a divulgação do requerimento referido no número anterior, através de aviso a publicar no Diário da República, da sua publicitação na página da Internet do Instituto do Desporto de Portugal, I. P.
+
+###### Artigo 17.º — Consulta prévia de entidades desportivas
+
+1 - Sobre o requerimento referido no artigo anterior, são obrigatoriamente ouvidos o Comité Olímpico de Portugal e a Confederação do Desporto de Portugal e, no caso da federação desportiva responsável pelo desporto para pessoas com deficiência, o Comité Paralímpico de Portugal.
+
+2 - As entidades referidas no número anterior devem, nos 30 dias subsequentes à recepção do respectivo pedido, emitir o seu parecer.
+
+3 - Os pareceres referidos no número anterior são remetidos aos interessados e ao membro do Governo responsável pela área do desporto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 18.º — Parecer do Conselho Nacional do Desporto
+
+1 - Após a emissão dos pareceres referidos no artigo anterior ou decorrido o respetivo prazo, o processo devidamente instruído é remetido para o Conselho Nacional do Desporto, por determinação do membro do Governo responsável pela área do desporto, para efeitos de emissão de parecer sobre a atribuição ou recusa do estatuto de utilidade pública desportiva.
+
+2 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 19.º — Relevante interesse desportivo nacional
+
+Para efeitos do disposto no n.º 1 do artigo 15.º, são consideradas como tendo relevante interesse desportivo nacional as organizações que estejam enquadradas em federação internacional cuja modalidade integre o programa dos Jogos Olímpicos ou Paralímpicos e ainda as que preencham um dos seguintes requisitos:
+
+a) Possuam um grau de suficiente implantação a nível nacional, demonstrando possuir um número de praticantes inscritos, com adequada distribuição geográfica no território nacional, igual ou superior a 500;
+
+b) Prossigam uma atividade desportiva que contribua para o desenvolvimento desportivo do País, ou de algumas das suas regiões, através da organização de provas, eventos desportivos ou manifestações desportivas suscetíveis de projetar internacionalmente a imagem de Portugal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 20.º — Publicitação da decisão
+
+Os despachos de atribuição ou recusa do estatuto de utilidade pública desportiva e todos os que afectem a subsistência de tal estatuto são publicados no Diário da República e na página da Internet do Instituto do Desporto de Portugal, I. P.
+
+#### Secção III — Suspensão, cessação e renovação
+
+###### Artigo 21.º — Suspensão
+
+1 - O estatuto de utilidade pública desportiva pode ser suspenso por despacho fundamentado do membro do Governo responsável pela área do desporto nos seguintes casos:
+
+a) Prática de ilegalidades ou irregularidades graves, por ação ou omissão, no exercício dos poderes públicos conferidos pelo estatuto de utilidade pública desportiva, violação reiterada das regras legais de publicitação da atividade ou violação das regras de organização e funcionamento internos das federações desportivas constantes do presente decreto-lei;
+
+b) Não cumprimento da legislação contra a dopagem no desporto, bem como da relativa à defesa da integridade das competições desportivas, designadamente dos deveres de transparência relativos à titularidade das sociedades desportivas, e das obrigações relativas ao combate à corrupção e viciação de resultados, à violência, ao racismo e à xenofobia;
+
+c) Não cumprimento de obrigações fiscais ou de prestações para com a segurança social;
+
+d) Violação das obrigações contratuais assumidas para com o Estado através de contratos-programa.
+
+e) Outros casos expressamente previstos na lei.
+
+2 - A suspensão do estatuto de utilidade pública desportiva pode acarretar um ou mais dos seguintes efeitos, a fixar no despacho referido no número anterior:
+
+a) Suspensão dos apoios decorrentes de um ou mais contratos-programa;
+
+b) Suspensão de outros apoios em meios técnicos, materiais ou humanos;
+
+c) Impossibilidade de outorgar novos contratos-programa com o Estado pelo prazo em que durar a suspensão;
+
+d) Impossibilidade de beneficiar de declaração de utilidade pública da expropriação de bens, ou direitos a eles inerentes, necessária à realização dos seus fins;
+
+e) Suspensão de processos para atribuição de quaisquer benefícios fiscais, nos termos do Estatuto dos Benefícios Fiscais;
+
+f) Impossibilidade, por tempo determinado, de exercício de poderes públicos de autoridade por parte de órgãos das federações desportivas;
+
+g) Impossibilidade de atribuição de efeitos desportivos e regulamentares aos resultados das provas e competições organizadas pelas federações desportivas e, sendo o caso, das ligas profissionais, durante o período de vigência da suspensão.
+
+3 - [Revogado].
+
+4 - O prazo e o âmbito da suspensão são fixados pelo despacho referido no n.º 1 até ao limite de um ano, eventualmente renovável por idêntico período, podendo aquela ser levantada a requerimento da federação desportiva interessada com base no desaparecimento das circunstâncias que constituíram fundamento da suspensão.
+
+5 - O despacho de renovação da suspensão do estatuto de utilidade pública desportiva pode fixar efeitos diversos dos inicialmente fixados.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 22.º — Causas de cessação
+
+1 - O estatuto de utilidade pública desportiva cessa:
+
+a) Com a extinção da federação desportiva;
+
+b) Por cancelamento.
+
+c) Pelo decurso do prazo pelo qual foi concedido sem que tenha havido renovação.
+
+2 - Caso 60 dias antes do decurso do prazo referido na alínea c) do número anterior a federação desportiva não tenha apresentado o pedido de renovação da concessão do estatuto da utilidade pública desportiva, o membro do Governo responsável pela área do desporto promove a sua notificação para tal efeito.
+
+###### Artigo 23.º — Cancelamento
+
+1 - O estatuto de utilidade pública desportiva é cancelado, por despacho do membro do Governo responsável pela área do desporto, nos seguintes casos:
+
+a) Quando deixem de subsistir os requisitos legais para a sua atribuição;
+
+b) Decorrido o período da suspensão do estatuto, referido no artigo 21.º, sem que a federação desportiva tenha eliminado os fundamentos que deram origem a tal suspensão.
+
+2 - No caso referido na alínea b) do número anterior e até à decisão final do processo de cancelamento, a federação em causa permanece sujeita às consequências decorrentes da suspensão do estatuto de utilidade pública desportiva.
+
+###### Artigo 24.º — Renovação
+
+1 - No decurso do ano de realização dos Jogos Olímpicos de Verão deve ser requerida a renovação do estatuto de utilidade pública desportiva pelas federações desportivas nisso interessadas.
+
+2 - À renovação do estatuto de utilidade pública desportiva são aplicáveis as normas especificamente definidas na portaria referida no n.º 1 do artigo 16.º
+
+3 - Decorridos 90 dias após a formulação do pedido sem que tenha sido proferida decisão, o estatuto de utilidade pública desportiva de que a requerente era titular considera-se automaticamente renovado por outro período de quatro anos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 25.º — Parecer do Conselho Nacional do Desporto
+
+Nos casos referidos no artigo 23.º, a decisão do membro do Governo responsável pela área do desporto é precedida da emissão de parecer pelo Conselho Nacional do Desporto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+### Capítulo III — Organização e funcionamento das federações desportivas
+
+#### Secção I — Associações de clubes e sociedades desportivas
+
+###### Artigo 26.º — Tipos de associações
+
+1 - Nas federações desportivas das modalidades colectivas os clubes e as sociedades desportivas podem agrupar-se através dos seguintes tipos de associações:
+
+a) Associações de clubes e sociedades desportivas participantes nos quadros competitivos nacionais;
+
+b) Associações de clubes participantes em quadros competitivos regionais ou distritais, definidos em função de determinada área geográfica.
+
+2 - As federações unidesportivas em que se disputem competições desportivas de natureza profissional integram uma liga profissional, de âmbito nacional, sob a forma de associação sem fins lucrativos, com personalidade jurídica e autonomia administrativa, técnica e financeira.
+
+3 - Para efeitos do disposto no presente decreto-lei, a lista das modalidades desportivas colectivas e das individuais é fixada por despacho do membro do Governo responsável pela área do desporto, após audição do Conselho Nacional do Desporto.
+
+###### Artigo 27.º — Liga profissional
+
+1 - A liga profissional exerce, por delegação da respectiva federação, as competências relativas às competições de natureza profissional, nomeadamente:
+
+a) Organizar e regulamentar as competições de natureza profissional, respeitando as regras técnicas definidas pelos competentes órgãos federativos nacionais e internacionais;
+
+b) Exercer as competências em matéria de organização, direção, disciplina e arbitragem, nos termos da lei;
+
+c) Exercer relativamente aos seus associados as funções de controlo e supervisão que sejam estabelecidas na lei ou nos estatutos e regulamentos;
+
+d) Definir os pressupostos desportivos, financeiros e de organização de acesso às competições profissionais, bem como fiscalizar a sua execução pelas entidades nelas participantes.
+
+2 - No caso de uma liga profissional persistir, depois de expressamente notificada, no não cumprimento, por ato ou omissão, de obrigação que implique ou possa implicar, nos termos do artigo 21.º, a suspensão do estatuto de utilidade pública desportiva da respetiva federação, deve esta comunicar tal facto ao membro do Governo responsável pela área do desporto, o qual pode, ouvido o Conselho Nacional do Desporto, determinar a cessação da delegação de competências referida no número anterior e a devolução, transitória, do seu exercício à federação desportiva.
+
+3 - A cessação da delegação de competências pode, ouvido o Conselho Nacional do Desporto, ser levantada com base no desaparecimento das circunstâncias que constituíram o seu fundamento.
+
+4 - A liga profissional é integrada, obrigatoriamente, pelas sociedades desportivas que disputem as competições profissionais.
+
+5 - A liga profissional pode, ainda, nos termos definidos nos seus estatutos, integrar representantes de outros agentes desportivos.
+
+6 - A proporção de pessoas de cada sexo designadas para cada órgão de administração e de fiscalização da liga profissional não pode ser inferior a 33,3 %.
+
+7 - Ao incumprimento dos limiares mínimos a que se refere o número anterior aplica-se o regime sancionatório previsto no artigo 6.º da Lei n.º 62/2017, de 1 de agosto, que aprova o regime da representação equilibrada entre mulheres e homens nos órgãos de administração e de fiscalização das entidades do setor público empresarial e das empresas cotadas em bolsa.
+
+> Nota: [Artigo 4.º, Lei n.º 23/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/lei/23-2024-852762916) A proporção de pessoas de cada sexo a designar para cada órgão das federações desportivas não pode ser inferior a 20 %, a partir da primeira assembleia geral eletiva após a entrada em vigor da presente lei, e a 33,3 %, a partir da primeira assembleia geral eletiva após 1 de janeiro de 2026.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/lei/23-2024-852762916), em vigor a partir de 2024-02-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-27
+
+###### Artigo 28.º — Relações da federação desportiva com a liga profissional
+
+1 - O relacionamento entre a federação desportiva e a respectiva liga profissional é regulado por contrato, válido para quatro épocas desportivas, a celebrar entre essas entidades.
+
+2 - No contrato mencionado no número anterior deve acordar-se, entre outras matérias, o número de clubes que participam na competição desportiva profissional, o regime de acesso entre as competições desportivas não profissionais e profissionais, a organização da actividade das selecções nacionais e o apoio à actividade desportiva não profissional.
+
+3 - Os quadros competitivos geridos pela liga profissional constituem o nível mais elevado das competições desportivas desenvolvidas no âmbito da respectiva federação.
+
+4 - Com excepção do apoio à actividade desportiva não profissional, na falta de acordo entre a federação desportiva e a respectiva liga profissional para a celebração ou renovação do contrato a que se refere o n.º 1, compete ao Conselho Nacional do Desporto regular, provisoriamente e até que seja obtido consenso entre as partes, as matérias referidas no n.º 2.
+
+5 - O incumprimento da deliberação do Conselho Nacional do Desporto a que se refere o número anterior constitui fundamento para a suspensão do estatuto da utilidade pública desportiva.
+
+###### Artigo 29.º — Regulamentação das competições desportivas profissionais
+
+1 - Compete à liga profissional elaborar e aprovar o respectivo regulamento das competições.
+
+2 - A liga profissional elabora e aprova igualmente os respectivos regulamentos de arbitragem e disciplina, que submete a ratificação da assembleia geral da federação desportiva na qual se insere.
+
+3 - O regulamento disciplinar da liga profissional obedece ao disposto no artigo 52.º e seguintes.
+
+4 - A liga profissional cria um canal de denúncia interna destinado a factos suscetíveis de configurarem infração de normas de defesa da ética desportiva, nos termos e para os efeitos da Lei n.º 93/2021, de 20 de dezembro, que estabelece o regime geral de proteção de denunciantes de infrações.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/lei/23-2024-852762916), em vigor a partir de 2024-02-16
+
+###### Artigo 30.º — Associação de clubes não profissionais
+
+1 - Nas federações desportivas de modalidades colectivas, os clubes e as sociedades desportivas que participam nas competições desportivas nacionais de natureza não profissional podem agrupar-se em associações.
+
+2 - As associações referidas no número anterior podem exercer, por delegação da federação desportiva em que se inserem, as funções que lhes são atribuídas, desde que englobem todos os clubes participantes em determinada competição ou quadro competitivo.
+
+###### Artigo 31.º — Associações territoriais de clubes
+
+1 - Os clubes participantes em quadros competitivos de âmbito territorial específico agrupam-se em associações de clubes organizadas de acordo com a área geográfica em que decorram as respectivas competições.
+
+2 - As associações a que se refere o presente artigo exercem, por delegação da federação desportiva em que se inserem, as funções que lhes são atribuídas.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+#### Secção II — Estrutura orgânica
+
+###### Artigo 32.º — Órgãos estatutários
+
+1 - As federações desportivas devem contemplar na sua estrutura orgânica, pelo menos, os seguintes órgãos:
+
+a) Assembleia geral;
+
+b) Presidente;
+
+c) Direcção;
+
+d) Conselho fiscal;
+
+e) Conselho de disciplina;
+
+f) Conselho de justiça;
+
+g) Conselho de arbitragem.
+
+2 - Sem prejuízo do disposto no número anterior, as federações desportivas podem adotar outras denominações para os seus órgãos, desde que esteja acautelado o cumprimento das respetivas funções, previstas no presente decreto-lei.
+
+3 - A proporção de pessoas de cada sexo designadas para cada órgão de administração e de fiscalização das federações desportivas não pode ser inferior a 33,3 %.
+
+4 - Ao incumprimento dos limiares mínimos a que se refere o número anterior aplica-se o regime sancionatório previsto no artigo 6.º da Lei n.º 62/2017, de 1 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/lei/23-2024-852762916), em vigor a partir de 2024-02-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 33.º — Eleições
+
+1 - Os delegados à assembleia geral da federação desportiva são eleitos ou designados nos termos estabelecidos pelo regulamento eleitoral, o qual igualmente estabelece a duração dos seus mandatos e o procedimento para os substituir em caso de vacatura ou impedimento.
+
+2 - A candidatura a presidente só é admitida se acompanhada de candidatura aos órgãos a que se refere o artigo anterior.
+
+3 - Os órgãos referidos nas alíneas d) a g) do n.º 1 do artigo anterior são eleitos em listas próprias e devem possuir um número ímpar de membros.
+
+4 - Os órgãos referidos nas alíneas e) e f) do n.º 1 do artigo anterior são eleitos de acordo com o princípio da representação proporcional e o método da média mais alta de Hondt na conversão dos votos em número de mandatos.
+
+5 - Os estatutos ou regulamentos das federações desportivas não podem exigir que as listas de candidatura para os diversos órgãos sejam subscritas por mais do que 10 % dos delegados à assembleia geral.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 34.º — Assembleia geral
+
+1 - A assembleia geral é o órgão deliberativo da federação desportiva, cabendo-lhe, designadamente:
+
+a) A eleição ou destituição da mesa da assembleia geral;
+
+b) A eleição e a destituição dos titulares dos órgãos federativos referidos nas alíneas b) e d) a g) do artigo 32.º;
+
+c) A aprovação do relatório, do balanço, do orçamento e dos documentos de prestação de contas;
+
+d) A aprovação e alteração dos estatutos;
+
+e) A ratificação dos regulamentos referidos no n.º 2 do artigo 29.º;
+
+f) A aprovação da proposta de extinção da federação;
+
+g) Quaisquer outras que não caibam na competência específica dos demais órgãos federativos.
+
+2 - Por requerimento subscrito por um mínimo de 20 % dos delegados à assembleia geral pode ser solicitada a apreciação, para efeitos de cessação da sua vigência ou de aprovação de alterações, de todos os regulamentos federativos, com excepção dos referidos na alínea e) do número anterior.
+
+3 - O requerimento referido no número anterior deve ser apresentado no prazo de 30 dias após a publicitação, nos termos do artigo 8.º, da aprovação do regulamento em causa.
+
+4 - A aprovação de alterações a qualquer regulamento federativo só pode produzir efeitos a partir do início da época desportiva seguinte, salvo quando decorrer de imposição legal, judicial ou administrativa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 35.º — Composição da assembleia geral
+
+1 - A assembleia geral é composta por um mínimo de 30 e um máximo de 120 delegados, nos termos estabelecidos nos estatutos da respectiva federação desportiva de acordo com os princípios constantes do presente decreto-lei.
+
+2 - A assembleia geral é composta por delegados, representantes de clubes, praticantes, treinadores, árbitros e juízes, ou de outros agentes desportivos que sejam membros da federação desportiva.
+
+3 - Nenhum delegado pode representar mais do que uma entidade.
+
+4 - Cada delegado tem direito a um voto.
+
+###### Artigo 36.º — Representatividade na assembleia geral
+
+1 - Nas federações desportivas de modalidades colectivas o número de delegados representantes de clubes e sociedades desportivas não pode ser inferior a 70 %, distribuídos da seguinte forma:
+
+a) 35 % dos delegados representam os clubes e sociedades desportivas que participam nos quadros competitivos de âmbito nacional;
+
+b) 35 % dos delegados representam os clubes que participam nos quadros competitivos de âmbito regional ou distrital.
+
+2 - Nos casos em que na federação em causa existam competições de natureza profissional, a percentagem referida na alínea a) do número anterior é de 25 % para os clubes participantes nas competições profissionais e de 10 % para os restantes clubes participantes nos quadros competitivos nacionais de natureza não profissional.
+
+3 - Os restantes 30 % dos delegados não referidos no n.º 1 são distribuídos da seguinte forma:
+
+a) 15 % dos delegados representam os praticantes desportivos;
+
+b) 7,5 % dos delegados representam os árbitros;
+
+c) 7,5 % dos delegados representam os treinadores.
+
+4 - No caso de federação desportiva em que não existam árbitros e ou treinadores, a respetiva percentagem é repartida proporcionalmente pelos demais representantes referidos no número anterior.
+
+5 - Nas federações desportivas de modalidades individuais o número de delegados representantes de clubes ou das respectivas associações distritais e regionais não pode ser superior a 70 %, cabendo a cada uma dessas entidades idêntico número de delegados, devendo os restantes 30 % ser distribuídos de entre praticantes, treinadores e árbitros ou juízes nos termos do número anterior.
+
+6 - Salvo o disposto no artigo seguinte, os delegados referidos nos números anteriores são eleitos por e de entre os clubes ou os agentes desportivos das respectivas categorias.
+
+7 - As percentagens referidas no presente artigo reportam-se sempre em relação à totalidade dos membros da assembleia geral, devendo, no respectivo cômputo, se o número de delegados exceder o número exacto de unidades, ser arredondado para a unidade imediatamente superior ou inferior consoante atingir ou não as cinco décimas, sem prejuízo do disposto no n.º 1 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 37.º — Representação por inerência
+
+1 - Os estatutos ou regulamentos federativos podem conferir às associações territoriais de clubes ou às ligas profissionais o direito de designar um delegado, por cada entidade, para integrar, por inerência, a representação dos clubes das respectivas competições na assembleia geral.
+
+2 - O disposto no número anterior é igualmente aplicável às associações de clubes não referidas no número anterior, bem como às organizações de classe representativas dos praticantes desportivos, treinadores e árbitros ou juízes, cujos delegados integram a representação dos agentes desportivos das respectivas categorias.
+
+3 - Os delegados designados nos termos dos números anteriores são descontados nas quotas atribuídas a cada um dos respectivos sectores e categorias.
+
+###### Artigo 38.º — Representação dos agentes desportivos
+
+1 - Os delegados que representam as diversas categorias de agentes desportivos são adequadamente distribuídos entre a área profissional e não profissional, entre a área das competições de âmbito nacional e das competições de âmbito regional ou distrital ou entre os de alto rendimento e os restantes, nos termos estabelecidos para cada federação desportiva no respectivo regulamento eleitoral.
+
+2 - Caso os estatutos das federações desportivas pretendam conferir representatividade a outros agentes que intervenham na respectiva modalidade desportiva, o respectivo número de delegados não pode ser superior a 3 %, a descontar proporcionalmente nas diversas categorias de entidades mencionadas no artigo 36.º
+
+###### Artigo 39.º — Deliberações sociais
+
+1 - O exercício do direito de voto na assembleia geral das federações desportivas, ligas profissionais e associações de âmbito territorial é pessoal, sem possibilidade de representação, podendo ser exercido por correspondência apenas no caso de se tratar de assembleia geral eletiva.
+
+2 - Salvo no caso de assembleia geral eletiva, é admitida a utilização de sistemas de videoconferência na assembleia geral.
+
+3 - No âmbito das entidades referidas no n.º 1, as deliberações para a designação dos titulares de órgãos ou que envolvam a apreciação de comportamentos ou das qualidades de qualquer pessoa são tomadas por escrutínio secreto.
+
+4 - As federações desportivas não podem reconhecer quaisquer deliberações tomadas pelas associações e ligas nelas filiadas com desrespeito das regras constantes dos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 40.º — Presidente
+
+1 - O presidente representa a federação, assegura o seu regular funcionamento e promove a colaboração entre os seus órgãos.
+
+2 - Compete, em especial, ao presidente:
+
+a) Representar a federação junto da Administração Pública;
+
+b) Representar a federação junto das suas organizações congéneres, nacionais, estrangeiras ou internacionais;
+
+c) Representar a federação desportiva em juízo;
+
+d) Convocar as reuniões da direcção e dirigir os respectivos trabalhos, cabendo-lhe o voto de qualidade quando exista empate nas votações;
+
+e) Solicitar ao presidente da mesa da assembleia geral a convocação de reuniões extraordinárias deste órgão;
+
+f) (Revogada).
+
+g) Assegurar a organização e o bom funcionamento dos serviços;
+
+h) Contratar e gerir o pessoal ao serviço da federação.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 41.º — Direcção
+
+1 - A direção é o órgão colegial de administração da federação desportiva, sendo integrada pelo presidente e pelos membros eleitos nos termos estatutários.
+
+2 - Compete à direcção administrar a federação, incumbindo-lhe, designadamente:
+
+a) Aprovar os regulamentos e publicitá-los, nos termos do artigo 8.º;
+
+b) Organizar as selecções nacionais;
+
+c) Organizar as competições desportivas não profissionais;
+
+d) Garantir a efectivação dos direitos e deveres dos associados;
+
+e) Elaborar anualmente o plano de actividades;
+
+f) Elaborar anualmente e submeter a parecer do conselho fiscal o orçamento, o balanço e os documentos de prestação de contas;
+
+g) Administrar os negócios da federação em matérias que não sejam especialmente atribuídas a outros órgãos;
+
+h) Zelar pelo cumprimento dos estatutos e das deliberações dos órgãos da federação.
+
+3 - O presidente da liga profissional, quando houver, é, por inerência, vice-presidente da federação e integra a direcção.
+
+4 - O órgão de administração da liga profissional integra um membro da direção da federação desportiva, indicado por esta.
+
+5 - Em caso de vacatura do cargo de um dos membros da direção e inexistindo suplentes na lista eleita, a direção deve propor à Assembleia Geral um substituto, que é por esta eleito.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 42.º — Conselho fiscal
+
+1 - O conselho fiscal fiscaliza os actos de administração financeira da federação desportiva.
+
+2 - Compete, em especial, ao conselho fiscal:
+
+a) Emitir parecer sobre o orçamento, o balanço e os documentos de prestação de contas;
+
+b) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhes servem de suporte;
+
+c) Acompanhar o funcionamento da federação, participando aos órgãos competentes as irregularidades financeiras de que tenha conhecimento.
+
+3 - Quando um dos membros do conselho fiscal não tenha tal qualidade, as contas das federações desportivas são, obrigatoriamente, certificadas por um revisor oficial de contas antes da sua aprovação em assembleia geral.
+
+4 - As competências do conselho fiscal podem ser exercidas por um fiscal único, o qual é, necessariamente, um revisor oficial de contas ou uma sociedade revisora de contas, sendo designado nos termos estabelecidos nos estatutos.
+
+###### Artigo 43.º — Conselho de disciplina
+
+1 - Ao conselho de disciplina cabe, de acordo com a lei e com os regulamentos e sem prejuízo de outras competências atribuídas pelos estatutos e das competências da liga profissional, instaurar e arquivar procedimentos disciplinares e, colegialmente, apreciar e punir as infrações disciplinares em matéria desportiva.
+
+2 - Nas federações desportivas no âmbito das quais se disputem competições de natureza profissional, o conselho de disciplina deve possuir secções especializadas conforme a natureza da competição.
+
+3 - Nas federações desportivas no âmbito das quais se disputem competições de natureza profissional, os membros do conselho de disciplina são licenciados em Direito e, nas restantes, a maioria dos membros do conselho de disciplina são licenciados em Direito, incluindo o presidente.
+
+4 - As decisões do conselho de disciplina devem ser proferidas no prazo de 45 dias ou, em situações fundamentadas de complexidade da causa, no prazo de 75 dias, contados a partir da autuação do respetivo processo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 44.º — Conselho de justiça
+
+1 - Para além de outras competências que lhe sejam atribuídas pelos estatutos, cabe ao conselho de justiça conhecer dos recursos das decisões disciplinares relativas a questões emergentes da aplicação das normas técnicas e disciplinares diretamente respeitantes à prática da própria competição desportiva.
+
+2 - Ao conselho de justiça não pode ser atribuída competência consultiva.
+
+3 - O conselho de justiça pode funcionar em secções especializadas.
+
+4 - Nas federações desportivas no âmbito das quais se disputem competições de natureza profissional, os membros do conselho de justiça são licenciados em Direito e, nas restantes, a maioria dos membros do conselho de justiça são licenciados em Direito, incluindo o presidente.
+
+5 - As decisões do conselho de justiça devem ser proferidas no prazo de 45 dias ou, em situações fundamentadas de complexidade da causa, no prazo de 75 dias, contados a partir da autuação do respetivo processo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 45.º — Conselho de arbitragem
+
+1 - Cabe ao conselho de arbitragem, sem prejuízo de outras competências atribuídas pelos estatutos, coordenar e administrar a actividade da arbitragem, estabelecer os parâmetros de formação dos árbitros e proceder à classificação técnica destes.
+
+2 - Nas federações desportivas em que se disputem competições de natureza profissional, o conselho de arbitragem deve estar organizado em secções especializadas, conforme a natureza da competição.
+
+3 - Nas federações desportivas em que se disputem competições de natureza profissional, os relatórios dos árbitros devem ser publicitados, nos termos do disposto no artigo 8.º, sem prejuízo da omissão da identificação pessoal nos casos passíveis de participação criminal, de acordo com o regime legal de proteção de dados pessoais.
+
+4 - Nas federações desportivas referidas no número anterior a função de classificação dos árbitros deve ser cometida a uma secção diversa da que procede à nomeação dos mesmos.
+
+5 - Todos os atos de classificação, bem como os fundamentos que a determinaram, devem ser publicitados, nos termos do artigo 8.º, em estrita observância do regime legal de proteção de dados pessoais.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 101/2017 - Diário da República n.º 165/2017, Série I de 2017-08-28](https://diariodarepublica.pt/dr/detalhe/lei/101-2017-108063582), em vigor a partir de 2017-09-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 46.º — Funcionamento dos órgãos colegiais
+
+No âmbito das federações desportivas há sempre recurso para os órgãos colegiais em relação aos actos administrativos praticados por qualquer dos respectivos membros, salvo quanto aos actos praticados pelo presidente da federação no uso da sua competência própria.
+
+###### Artigo 47.º — Actas
+
+Das reuniões de qualquer órgão colegial das federações desportivas é sempre lavrada acta que, depois de aprovada, deve ser assinada pelo presidente e pelo secretário ou, no caso da assembleia geral, pelos membros da respectiva mesa.
+
+#### Secção III — Titulares dos órgãos
+
+###### Artigo 48.º — Requisitos de elegibilidade
+
+São elegíveis para os órgãos das federações desportivas os maiores não afectados por qualquer incapacidade de exercício, que não sejam devedores da federação respectiva, nem hajam sido punidos por infracções de natureza criminal, contra-ordenacional ou disciplinar em matéria de violência, dopagem, corrupção, racismo e xenofobia, até cinco anos após o cumprimento da pena, que não tenham sido punidos por crimes praticados no exercício de cargos dirigentes em federações desportivas ou por crimes contra o património destas, até cinco anos após o cumprimento da pena, salvo se sanção diversa lhe tiver sido aplicada por decisão judicial.
+
+###### Artigo 49.º — Incompatibilidades
+
+1 - Sem prejuízo do disposto nos números seguintes, é incompatível com a função de titular de órgão federativo:
+
+a) [Anterior alínea a) do corpo do artigo];
+
+b) [Anterior alínea b) do corpo do artigo];
+
+c) Relativamente aos órgãos da federação ou da liga profissional, o exercício, no seu âmbito, de funções como dirigente de clube, sociedade desportiva ou de associação, árbitro, juiz ou treinador no ativo.
+
+2 - As funções referidas na alínea c) do número anterior não são incompatíveis com a função de delegado à Assembleia Geral.
+
+3 - Para efeitos da alínea c) do n.º 1, não é incompatível com a função de titular de órgão federativo o exercício de funções de árbitro ou juiz em provas e competições internacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 50.º — Duração do mandato e limites à renovação
+
+1 - O mandato dos titulares dos órgãos das federações desportivas, bem como das ligas profissionais ou associações territoriais de clubes nelas filiadas é de quatro anos, em regra coincidentes com o ciclo olímpico.
+
+2 - Ninguém pode exercer mais do que três mandatos seguidos num mesmo órgão de uma federação desportiva, salvo se, na data da entrada em vigor do presente decreto-lei, tiverem cumprido ou estiverem a cumprir, pelo menos, o terceiro mandato consecutivo, circunstância em que podem ser eleitos para mais um mandato consecutivo.
+
+3 - Depois de concluídos os mandatos referidos no número anterior, os titulares dos órgãos não podem assumir aquelas funções durante o quadriénio imediatamente subsequente ao último mandato consecutivo permitido.
+
+4 - No caso de renúncia ao mandato, os titulares dos órgãos referidos nos números anteriores não podem candidatar-se para o mesmo órgão nas eleições imediatas nem nas que se realizem no quadriénio imediatamente subsequente à renúncia.
+
+> Nota: [Acórdão do Supremo Tribunal Administrativo n.º 2/2022 - Diário da República n.º 125/2022, Série I de 2022-06-30](https://diariodarepublica.pt/dr/detalhe/acordao-supremo-tribunal-administrativo/2-2022-185452398) Uniformiza a Jurisprudência nos seguintes termos: O limite à renovação de mandatos imposto no n.º 2 do presente artigo não se aplica aos titulares de órgãos das associações territoriais de clubes filiadas nas federações desportivas.
+
+###### Artigo 51.º — Perda de mandato
+
+1 - Sem prejuízo de outros factos previstos nos estatutos, perdem o mandato os titulares de órgãos federativos que, após a eleição, sejam colocados em situação que os torne inelegíveis ou relativamente aos quais se apure uma das incompatibilidades previstas na lei ou nos estatutos.
+
+2 - Perdem, ainda, o mandato os titulares dos órgãos federativos que, no exercício das suas funções ou por causa delas, intervenham em contrato no qual tenham interesse, por si, como gestor de negócios ou representante de outra pessoa, e, bem assim, quando nele tenha interesse o seu cônjuge, algum parente ou afim na linha recta ou até ao 2.º grau da linha colateral ou qualquer pessoa com quem viva em economia comum.
+
+3 - Os contratos em que tiverem intervindo titulares de órgãos federativos que impliquem a perda do seu mandato são nulos nos termos gerais.
+
+#### Secção IV — Regime disciplinar
+
+###### Artigo 52.º — Regulamentos disciplinares
+
+1 - As federações desportivas devem dispor de regulamentos disciplinares com vista a sancionar a violação das regras de jogo ou da competição, bem como as demais regras desportivas, nomeadamente as relativas à ética desportiva.
+
+2 - Para efeitos da presente lei, são consideradas normas de defesa da ética desportiva as que visam sancionar a violência, a dopagem, a corrupção, o racismo e a xenofobia, bem como quaisquer outras manifestações de perversão do fenómeno desportivo.
+
+###### Artigo 53.º — Princípios gerais
+
+O regime disciplinar deve prever, designadamente, as seguintes matérias:
+
+a) Sujeição dos agentes desportivos a deveres gerais e especiais de conduta que tutelem, designadamente, os valores da ética desportiva e da transparência e verdade das competições desportivas, com o estabelecimento de sanções determinadas pela gravidade da sua violação;
+
+b) Observância dos princípios da igualdade, irretroactividade e proporcionalidade na aplicação de sanções;
+
+c) Exclusão das penas de irradiação ou de duração indeterminada;
+
+d) Enumeração das causas ou circunstâncias que eximam, atenuem ou agravem a responsabilidade do infractor, bem como os requisitos da extinção desta;
+
+e) Exigência de processo disciplinar para a aplicação de sanções quando estejam em causa as infracções mais graves e, em qualquer caso, quando a sanção a aplicar determine a suspensão de actividade por um período superior a um mês;
+
+f) Consagração das garantias de defesa do arguido, designadamente exigindo que a acusação seja suficientemente esclarecedora dos factos determinantes do exercício do poder disciplinar e estabelecendo a obrigatoriedade de audiência do arguido nos casos em que seja necessária a instauração de processo disciplinar;
+
+g) Garantia de recurso para o conselho de justiça, seja ou não obrigatória a instauração de processo disciplinar, quando estejam em causa decisões disciplinares relativas a questões emergentes da aplicação das normas técnicas e disciplinares diretamente respeitantes à prática da própria competição desportiva.
+
+h) Existência de um canal de denúncia interna destinado a factos suscetíveis de configurarem infração de normas de defesa da ética desportiva, nos termos e para os efeitos da Lei n.º 93/2021, de 20 de dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2024 - Diário da República n.º 33/2024, Série I de 2024-02-15](https://diariodarepublica.pt/dr/detalhe/lei/23-2024-852762916), em vigor a partir de 2024-02-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 93/2014 - Diário da República n.º 118/2014, Série I de 2014-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-2014-25676922), em vigor a partir de 2014-06-28
+
+###### Artigo 54.º — Âmbito do poder disciplinar
+
+1 - No âmbito desportivo, o poder disciplinar das federações desportivas exerce-se sobre os clubes, dirigentes, praticantes, treinadores, técnicos, árbitros, juízes e, em geral, sobre todos os agentes desportivos que desenvolvam a actividade desportiva compreendida no seu objecto estatutário, nos termos do respectivo regime disciplinar.
+
+2 - Os agentes desportivos que forem punidos com a pena de incapacidade para o exercício de funções desportivas ou dirigentes por uma federação desportiva não podem exercer tais funções em qualquer outra federação desportiva durante o prazo de duração da pena.
+
+###### Artigo 55.º — Responsabilidade disciplinar
+
+O regime da responsabilidade disciplinar é independente da responsabilidade civil ou penal.
+
+###### Artigo 56.º — Participação obrigatória
+
+Se a infracção revestir carácter contra-ordenacional ou criminal, o órgão disciplinar competente deve dar conhecimento do facto às entidades competentes.
+
+###### Artigo 57.º — Reincidência e acumulação de infracções
+
+Para efeitos disciplinares, os conceitos de reincidência e de acumulação de infracções são idênticos aos constantes no Código Penal.
+
+### Capítulo IV — Competições e selecções nacionais
+
+###### Artigo 58.º — Competições
+
+1 - As competições organizadas com vista à atribuição de títulos nacionais ou outros de carácter oficial, bem como as destinadas a apurar os praticantes ou clubes desportivos que hão-de representar o País em competições internacionais, devem obedecer aos seguintes princípios:
+
+a) Liberdade de acesso de todos os agentes desportivos e clubes com sede em território nacional que se encontrem regularmente inscritos na respectiva federação desportiva e preencham os requisitos de participação por ela definidos;
+
+b) Igualdade de todos os praticantes no desenvolvimento da competição, sem prejuízo dos escalonamentos estabelecidos com base em critérios exclusivamente desportivos;
+
+c) Publicidade dos regulamentos próprios de cada competição, bem como das decisões que os apliquem, e, quando reduzidas a escrito, das razões que as fundamentam;
+
+d) Imparcialidade e isenção no julgamento das questões que se suscitarem em matéria técnica e disciplinar.
+
+2 - No âmbito das competições desportivas de carácter profissional, a competência para definir os requisitos de participação é exercida pela liga profissional.
+
+3 - Os quadros competitivos geridos pela liga profissional constituem o nível mais elevado das competições desportivas desenvolvidas no âmbito da respectiva federação.
+
+###### Artigo 59.º — Competições de natureza profissional
+
+Os parâmetros para o reconhecimento da natureza profissional das competições desportivas e os consequentes pressupostos de participação nas mesmas são estabelecidos, ouvido o Conselho Nacional do Desporto, por portaria do membro do Governo responsável pela área do desporto, a qual igualmente estabelece o procedimento a observar para tal reconhecimento.
+
+###### Artigo 60.º — Designações dos quadros competitivos
+
+1 - Compete ao Conselho Nacional do Desporto emitir parecer sobre o estabelecimento, de forma uniforme para todas as modalidades desportivas, de um sistema de designação dos quadros competitivos organizados pelas federações desportivas, por forma a diferenciá-los de acordo com o âmbito, a importância e o nível da respectiva competição.
+
+2 - O parecer referido no número anterior é remetido, para efeitos de homologação, ao membro do Governo que tutela a área do desporto, sendo publicado, quando homologado, no Diário da República.
+
+3 - As designações a utilizar devem ser distintas para as modalidades colectivas e para as individuais, para as competições nacionais, regionais ou distritais e para as competições profissionais e não profissionais e não prejudicam a utilização de outras designações complementares decorrentes de compromissos publicitários ou de patrocínio.
+
+4 - A utilização por parte das federações desportivas de designações diversas das aprovadas constitui fundamento bastante para a suspensão do estatuto da utilidade pública desportiva.
+
+###### Artigo 61.º — Direitos desportivos exclusivos
+
+1 - Os títulos desportivos, de nível nacional ou regional, são conferidos pelas federações desportivas e só estas podem organizar selecções nacionais.
+
+2 - A lei define as formas de protecção do nome, imagem e actividades desenvolvidas pelas federações desportivas, estipulando o respectivo regime contra-ordenacional.
+
+###### Artigo 62.º — Condições de reconhecimento de títulos
+
+1 - As competições organizadas pelas federações desportivas, ou no seu âmbito, que atribuam títulos nacionais ou regionais, disputam-se em território nacional.
+
+2 - As competições referidas no número anterior são disputadas por clubes ou sociedades desportivas com sede no território nacional, só podendo, no caso de modalidades individuais, ser atribuídos títulos a cidadãos nacionais.
+
+###### Artigo 63.º — Selecções nacionais
+
+1 - A participação em selecção nacional organizada por federação desportiva é reservada a cidadãos nacionais.
+
+2 - As condições a que obedece a participação dos praticantes desportivos nas selecções nacionais são definidas nos estatutos federativos ou nos respectivos regulamentos, tendo em consideração o interesse público dessa participação e os legítimos interesses das federações, dos clubes e dos praticantes desportivos.
+
+3 - A participação nas selecções nacionais é obrigatória, salvo motivo justificado, para os praticantes desportivos que tenham beneficiado de medidas específicas de apoio no âmbito do regime de alto rendimento.
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 64.º — Adaptação dos estatutos federativos
+
+As federações desportivas já existentes devem adaptar os seus estatutos ao disposto no presente decreto-lei no prazo de seis meses a contar da publicação do despacho referido no n.º 3 do artigo 26.º, para que produzam os seus efeitos até ao início da época desportiva imediatamente seguinte.
+
+###### Artigo 65.º — Eleições
+
+As federações desportivas devem realizar eleições para os órgãos federativos até ao final da época desportiva referida no artigo anterior.
+
+###### Artigo 66.º — Norma revogatória
+
+São revogados o Decreto-Lei n.º 144/93, de 26 de Abril, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 111/97, de 9 de Maio, o Decreto-Lei n.º 303/99, de 6 de Agosto, e a Portaria n.º 595/93, de 19 de Junho.
+
+###### Artigo 67.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 7 de Novembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Manuel Pedro Cunha da Silva Pereira - José Manuel Vieira Conde Rodrigues - José António Fonseca Vieira da Silva - Manuel Frederico Tojal de Valsassina Heitor.
+
+Promulgado em 30 de Dezembro de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 30 de Dezembro de 2008.
+
+Pelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças.

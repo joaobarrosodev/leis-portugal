@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:472152:por
+title: Decreto-Lei n.º 545/74
+short_title: null
+summary: Integra na Secretaria de Estado do Comércio Externo e Turismo os serviços com atribuições em matéria de turismo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado do Comércio Externo e Turismo
+proposing_entity: null
+official_number: 545/74
+official_date: null
+publication_date: '1974-10-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 244/1974, Série I de 1974-10-19
+  number: '244'
+  series: I
+  supplement: null
+  pages: 1253 - 1254
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/10/24400/12531254.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '472152'
+  dre_path: /dr/detalhe/decreto-lei/545-1974-472152
+  internal: pt:dre:472152:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/545-1974-472152
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-12-30T00:00:00Z'
+integrity:
+  source_sha256: fecfc846c41ba8d8db1a58025da618e721b6fede0a853bb08459a1064ecabe45
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1974/DRE-1974-545-472152.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:551256:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 545/74
+
+de 19 de Outubro
+
+A criação no Ministério da Economia de uma Secretaria de Estado do Comércio Externo e Turismo determinou a necessária separação dos serviços que até então tinham estado integrados num único departamento governamental, a Secretaria de Estado da Informação e Turismo.
+
+Embora se considere indispensável a revisão da estrutura actual dos serviços de turismo, por forma a estes poderem assegurar uma intervenção dinâmica do Estado neste sector, não é possível elaborar neste momento uma reestruturação completa, que implica a realização de estudos necessariamente morosos.
+
+No entanto, torna-se urgente separar definitivamente os serviços que compunham a extinta Secretaria de Estado da Informação e Turismo, integrando-os nos dois departamentos governativos, os Ministérios da Comunicação Social e da Economia, que substituíram aquela Secretaria de Estado.
+
+Assim, sem prejuízo da continuação dos estudos já iniciados tendentes à publicação da aludida reestruturação, procede-se imediatamente à integração de todos os serviços com atribuições em matéria de turismo na nova Secretaria de Estado do Comércio Externo e Turismo.
+
+Nestes termos, usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. Na Direcção-Geral do Turismo, integrada na Secretaria de Estado do Comércio Externo e Turismo, pelo [Decreto-Lei n.º 203/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-1974-623386), de 15 de Maio, é criada uma Direcção dos Serviços Administrativos, à qual competirão os assuntos relativos a pessoal, secretaria e arquivo geral, contabilidade e tesouraria.
+
+2. A composição da direcção de serviços referida no número anterior será definida no decreto a que se refere o n.º 1 do artigo 8.º
+
+###### Art. 2.º - 1. É criado junto da Delegação de Turismo da Madeira um serviço de inspecção com as atribuições e competência previstas no [Decreto-Lei n.º 74/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1971-445505), de 17 de Março, na área daquela Delegação.
+
+2. O serviço de inspecção é dirigido por um inspector, hierarquicamente dependente do presidente da Delegação de Turismo da Madeira, e terá o pessoal constante do quadro a fixar no decreto previsto no n.º 1 do artigo 8.º
+
+3. O presidente da Delegação de Turismo da Madeira terá as atribuições e competência do inspector-chefe dos Serviços de Inspecção da Direcção-Geral do Turismo, nos termos da legislação em vigor para estes serviços.
+
+###### Art. 3.º A superintendência atribuída à extinta Secretaria de Estado da Informação e Turismo, relativamente ao Fundo de Turismo e ao Centro Nacional de Formação Turística e Hoteleira, é exercida pela Secretaria de Estado do Comércio Externo e Turismo, sem prejuízo da personalidade jurídica e autonomia conferida a estes serviços, nos termos da legislação em vigor a eles respeitante.
+
+###### Art. 4.º - 1. O Conselho Nacional de Turismo funciona na Secretaria de Estado do Comércio Externo e Turismo, sendo presidido pelo Secretário de Estado respectivo.
+
+2. A composição e funcionamento do Conselho Nacional de Turismo serão definidos por portaria do Ministério da Economia, através da Secretaria de Estado do Comércio Externo e Turismo.
+
+###### Art. 5.º - 1. Os serviços locais, designadamente as agências e postos de turismo, e os serviços no estrangeiro da extinta Secretaria de Estado da Informação e Turismo, com excepção da delegação no Porto e do Centro de Turismo de Portugal no Rio de Janeiro, que ficarão integrados no Ministério da Comunicação Social, transitam para a Secretaria de Estado do Comércio Externo e Turismo, do Ministério da Economia.
+
+2. Os serviços no estrangeiro cuja transição está prevista no número anterior são os seguintes:
+
+a) Casa de Portugal em Paris;
+
+b) Casa de Portugal em Londres;
+
+c) Casa de Portugal em Nova Iorque;
+
+d) Delegação e Subdelegação de Turismo de Portugal em Espanha;
+
+e) Centro de Turismo de Portugal nos Países Baixos;
+
+f) Centro de Turismo de Portugal na Bélgica e Grão-Ducado do Luxemburgo;
+
+g) Centro de Turismo de Portugal na Dinamarca;
+
+h) Centro de Turismo de Portugal na República Federal da Alemanha;
+
+i) Centro de Turismo de Portugal na Suécia;
+
+j) Centro de Turismo de Portugal na Suíça;
+
+l) Centro de Turismo de Portugal no Canadá.
+
+3. Enquanto não forem reestruturados a Direcção-Geral do Turismo e os serviços locais e no estrangeiro dela dependentes, aplicar-se-á aos Centros de Turismo no estrangeiro a legislação em vigor relativa às Casas de Portugal, em tudo o que não for contrário ao presente diploma.
+
+4. A criação de serviços locais, nomeadamente de delegações, subdelegações ou outras dependências, bem como a localização da sede dos respectivos serviços, serão estabelecidas por portaria do Ministério da Economia, através da Secretaria de Estado do Comércio Externo e Turismo.
+
+5. Os directores e chefes de serviços no estrangeiro, bem como o restante pessoal, serão nomeados em comissão de serviço por tempo indeterminado ou contratados, mediante despacho do Secretário de Estado do Comércio Externo e Turismo, que fixará as respectivas remunerações de acordo com o Ministro das Finanças.
+
+###### Art. 6.º À medida que for julgado conveniente, o Secretário de Estado do Comércio Externo e Turismo procederá à fusão das Casas de Portugal e dos Centros de Turismo, a que se refere o n.º 2 do artigo anterior, com delegações do Fundo de Fomento de Exportação, mediante portaria donde constem as condições a que essa fusão deve obedecer.
+
+###### Art. 7.º - 1. As atribuições e competências conferidas à extinta Secretaria de Estado da Informação e Turismo em matéria de turismo são exercidas pela Secretaria de Estado do Comércio Externo e Turismo.
+
+2. Enquanto não for reestruturada a Direcção-Geral do Turismo, continuam em vigor para esta Secretaria de Estado, no que respeita à Direcção-Geral do Turismo, as disposições legais reguladoras do pessoal, serviços, administração financeira, actividades, atribuições e competência da extinta Secretaria de Estado da Informação e Turismo que não sejam incompatíveis com o disposto no presente diploma.
+
+###### Art. 8.º - 1. A Direcção-Geral do Turismo e os demais serviços da extinta Secretaria de Estado da Informação e Turismo integrados na Secretaria de Estado do Comércio Externo e Turismo terão o pessoal permanente constante dos quadros que forem aprovados por decreto referendado pelos Ministros das Finanças e da Economia.
+
+2. Enquanto não for publicado o diploma referido no número anterior, e independentemente de quaisquer requisitos ou formalidades, considera-se transferido para a Secretaria de Estado do Comércio Externo e Turismo o pessoal que, prestando serviço na Direcção-Geral do Turismo, no Gabinete Técnico e na Direcção dos Serviços Centrais da extinta Secretaria de Estado da Informação e Turismo e nos demais serviços previstos no número anterior, conste de lista ou listas aprovadas por despacho conjunto do Ministro da Comunicação Social e do Secretário de Estado do Comércio Externo e Turismo, anotadas pela Direcção-Geral do Tribunal de Contas e publicadas no Diário do Governo.
+
+3. O pessoal que actualmente desempenha funções nos serviços locais e nos serviços no estrangeiro que, nos termos do n.º 1 do artigo 6.º, transitem para a Secretaria de Estado do Comércio Externo e Turismo constará de listas nominativas, aprovadas pelo Secretário de Estado do Comércio Externo e Turismo, referentes a cada um dos serviços, com menção das categorias dos respectivos funcionários.
+
+4. Os servidores do Estado abrangidos pelo disposto nos n.os 2 e 3 manterão todos os direitos decorrentes da sua situação à data da publicação do presente diploma, designadamente em matéria de antiguidade.
+
+###### Art. 9.º São transferidos para a Secretaria de Estado do Comércio Externo e Turismo todos os bens e direitos afectos aos serviços nela integrados por força do presente diploma.
+
+###### Art. 10.º Fica o Ministério das Finanças autorizado a adoptar as medidas necessárias para ocorrer às despesas resultantes do presente diploma.
+
+###### Art. 11.º As dúvidas suscitadas na aplicação do presente diploma serão resolvidas por despacho do Secretário de Estado do Comércio Externo e Turismo.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes - Emílio Rui da Veiga Peixoto Vilar.
+
+**Promulgado em 10 de Outubro de 1974.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

@@ -1,0 +1,184 @@
+---
+schema_version: '1.0'
+id: pt:dre:508652:por
+title: Portaria n.º 26-G1/80
+short_title: null
+summary: Autoriza o Instituto das Participações do Estado a estabelecer negociações bilaterais para acordo de contrapartidas
+  pela transferência de acções ou quotas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado das Finanças
+proposing_entity: null
+official_number: 26-G1/80
+official_date: null
+publication_date: '1980-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/1980, 3º Suplemento, Série I de 1980-01-09
+  number: '7'
+  series: I
+  supplement: 3º Suplemento
+  pages: 26-(47) a 26-(48)
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00703/00470048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '508652'
+  dre_path: /dr/detalhe/portaria/26-g1-1980-508652
+  internal: pt:dre:508652:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-g1-1980-508652
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-g1-1980-508652
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-01-09T00:00:00Z'
+integrity:
+  source_sha256: e3c174982b50cb71aa5c2440b25a231ac1d51c270966692c696825aba073dcb0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-26-G1-508652.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 26-G1/80
+
+de 9 de Janeiro
+
+Pelo [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, transferiu-se para o Instituto das Participações do Estado, adiante designado por IPE, a titularidade das participações do sector público no capital das sociedades, detidas pelo Estado, fundos autónomos e institutos públicos, instituições de previdência, empresas públicas ou por sociedades em que a totalidade do respectivo capital social pertença, separada ou conjuntamente, às entidades públicas anteriormente referidas, com excepção das participações do sector público no capital de sociedades que tenham sede nos antigos territórios sob administração portuguesa e das participações no capital de sociedades que exerçam actividades no sector do turismo, actividades bancárias, parabancárias, de seguro ou de prospecção ou exploração de hidrocarbonetos.
+
+Em virtude de dificuldades de ordem vária na concretização do disposto naquele decreto-lei, foi determinado pelo Governo, através do [Despacho Normativo n.º 169/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/169-1979-584788), de 6 de Julho, e do [Despacho Normativo n.º 342/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/342-1979-367200), de 27 de Novembro, o conjunto de empresas que passariam a constituir o universo estabilizado do IPE.
+
+Salvo um ou outro ajustamento que venha a tornar-se necessário no referido universo, considera-se indispensável operar, em todos os seus aspectos, a transferência da titularidade das acções para o IPE.
+
+Dando, aliás, cumprimento ao imperativo legal, o elemento que tem perturbado a concretização daquele objectivo é o estabelecimento de um esquema de compensações em condições aceitáveis para ambas as partes.
+
+Nesse sentido foram preparadas as Portarias n.os [404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho, e [584/78](https://diariodarepublica.pt/dr/detalhe/portaria/584-1978-329222), de 25 de Setembro, prevendo determinados esquemas de compensação, com os quais não foi possível, todavia, ultrapassar a situação.
+
+Admite-se que o estabelecimento de esquemas alternativos que permitam margens apreciáveis de liberdade de negociação entre os actuais titulares das acções e o IPE poderá contribuir para a resolução de alguns problemas pendentes.
+
+Nestes termos e ouvido o IPE:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Finanças, ao abrigo do n.º 3 do artigo 6.º e do artigo 7.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, conjugado com o n.º 3 do artigo 33.º do estatuto anexo ao [Decreto-Lei n.º 496/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/496-1976-230969), de 26 de Junho, e em cumprimento do n.º 1 do artigo 1.º do [Decreto-Lei n.º 322/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-1979-378738), de 23 de Agosto, o seguinte:
+
+1.º Fica o IPE autorizado, pela via que julgar mais conveniente, a estabelecer negociações bilaterais com os actuais detentores de acções ou quotas de sociedades que constituem o seu universo estabilizado, no sentido de se acordarem as contrapartidas pela transferência para o IPE.
+
+2.º - 1 - Entre o IPE e cada um dos detentores de acções ou quotas desenvolver-se-á um processo de negociação tendente à determinação do valor definitivo da respectiva participação pelo qual se deverá operar a contrapartida.
+
+2 - Caso não seja possível chegar a acordo no prazo de noventa dias após qualquer das partes solicitar o início das negociações, será fixado um valor provisório nos trinta dias seguintes, por acordo das partes, ou, na falta deste, por despacho do Ministro das Finanças, fixando-se então o valor definitivo com base em trabalhos de avaliação a desenvolver por comissões compostas por representantes do IPE e das empresas que detenham as participações no capital das sociedades referidas no n.º 1.º
+
+3 - No caso de as partes não chegarem a acordo, a constituição, condições e critérios orientadores de funcionamento das comissões referidas no número anterior serão determinados por despacho do Ministro das Finanças.
+
+4 - Se até noventa dias após a entrega do relatório da comissão de avaliação as partes não estabelecerem o valor definitivo, poderá este ser fixado por despacho do Ministro das Finanças.
+
+3.º - 1 - Os valores das participações serão negociados, devendo tomar-se como referência para a fixação do valor definitivo, segundo critérios patrimoniais, os valores do balanço de 31 de Dezembro de 1978.
+
+2 - Quanto às empresas cujas acções estejam cotadas na Bolsa, poderá ser fixado, por despacho do Ministro das Finanças, um critério financeiro de correcção.
+
+4.º - 1 - Serão admitidas as seguintes contrapartidas:
+
+a) Um pagamento inicial, em numerário, que não poderá exceder 10% do valor definitivo ou provisório;
+
+b) A diferença para o valor de cada participação será coberta através da entrega de obrigações emitidas pelo IPE.
+
+2 - O Ministro das Finanças fixará por despacho e ouvido o IPE quais as obrigações do IPE às quais será concedido o aval do Estado, com respeito pelas disposições legais aplicáveis.
+
+5.º - 1 - As obrigações a emitir pelo IPE serão de três categorias - A, B e C -, que se caracterizarão pela forma seguinte:
+
+a) Obrigações da categoria A:
+
+Valor nominal - 1000$00;
+
+Prazo - dez anos;
+
+Amortização - anual, em 31 de Julho, por sorteio, ao valor nominal;
+
+Primeira amortização - 1982;
+
+b) Obrigações da categoria B:
+
+Valor nominal - 1000$00;
+
+Prazo - catorze anos;
+
+Amortização - anual, em 31 de Março, por sorteio, ao valor nominal;
+
+Primeira amortização - 1985;
+
+c) Obrigações da categoria C:
+
+Valor nominal - 1000$00;
+
+Prazo - dezoito anos;
+
+Amortização - anual, em 30 de Setembro, por sorteio, ao valor nominal;
+
+Primeira amortização - 1988.
+
+2 - Sempre que as partes o proponham, poderá o Ministro das Finanças, por despacho, estabelecer regimes especiais de caracterização das obrigações diferentes dos previstos no n.º 1.
+
+6.º No caso de os estatutos do IPE o virem a permitir, poderá parte das obrigações ser substituída por títulos de participação no seu capital, em condições a acordar entre as partes, sendo, no entanto, obrigatória a conversão mínima de 20% do valor das obrigações.
+
+7.º - 1 - Para efeitos do disposto nos números anteriores, fica o IPE autorizado a emitir obrigações com características idênticas às das obrigações previstas na [Portaria n.º 404/78](https://diariodarepublica.pt/dr/detalhe/portaria/404-1978-297576), de 25 de Julho, até ao montante máximo de 3,5 milhões de contos, assim distribuídas:
+
+Obrigações da categoria A - até 1,0 milhão de contos;
+
+Obrigações da categoria B - até 1,5 milhões de contos;
+
+Obrigações da categoria C - até 1,0 milhão de contos.
+
+2 - O valor referido no número anterior será ajustado, por despacho do Ministro das Finanças, em função dos resultados da avaliação das participações.
+
+8.º - 1 - Cada obrigação será remunerada, anualmente, segundo uma taxa de juro a fixar por despacho do Ministro das Finanças e cujo valor será obtido com base no valor percentual médio dos dividendos ou lucros distribuídos nos exercícios de 1968 a 1977 pelas participações anteriormente detidas pelas instituições de crédito do sector público e transferidas para o IPE por força do artigo 2.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, devendo tal rendimento ser pago em 31 de Julho de cada ano, com início em 1980.
+
+2 - Em qualquer caso, porém, a remuneração mínima será a que resultar da aplicação de uma taxa de juro correspondente ao seguinte:
+
+Obrigações da categoria A - 30% da taxa de desconto;
+
+Obrigações da categoria B - 40% da taxa de desconto;
+
+Obrigações da categoria C - 50% da taxa de desconto.
+
+9.º As dúvidas e omissões serão resolvidas por despacho do Ministro das Finanças.
+
+Ministério das Finanças, 24 de Dezembro de 1979. - O Ministro das Finanças, António Luciano Pacheco de Sousa Franco.

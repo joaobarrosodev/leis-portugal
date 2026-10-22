@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:576691:por
+title: Decreto n.º 45731
+short_title: null
+summary: Insere disposições legislativas aplicáveis às províncias ultramarinas - Dá nova redacção a várias disposições dos
+  Decretos n.os 41536, 42082 e 45232
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: '45731'
+official_date: null
+publication_date: '1964-05-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 125/1964, Série I de 1964-05-26
+  number: '125'
+  series: I
+  supplement: null
+  pages: 716 - 718
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/05/12500/07160718.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '576691'
+  dre_path: /dr/detalhe/decreto/45731-1964-576691
+  internal: pt:dre:576691:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45731-1964-576691
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45731-1964-576691
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1964-05-26T00:00:00Z'
+integrity:
+  source_sha256: cb3278bce18d4698808f5b7be47df58091eb22738b4e2476e4d58fa2833c8cc8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1964/DRE-1964-45731-576691.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45731
+
+Sendo indispensável adoptar medidas que facilitem a solução de certos problemas postos ao Ministério do Ultramar pelos governos das províncias ultramarinas;
+
+Por motivo de urgência, nos termos do § 1.º do n.º 3.º do artigo 150.º da Constituição;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º São criados no quadro de pessoal contratado dos serviços de Fazenda e contabilidade da província de Moçambique 50 lugares de escriturário com a categoria da letra T referida no artigo 90.º do Estatuto do Funcionalismo Ultramarino.
+
+§ único. O governo-geral da província regulamentará as disposições do corpo do presente artigo, tendo em vista:
+
+1.º Que é de provimento o contrato de ingresso no quadro de escriturários criado por este artigo;
+
+2.º Que devem ser estabelecidas condições de preferência para o ingresso no mesmo quadro das pessoas que à data da publicação do presente diploma no Diário do Governo estiverem a exercer interinamente funções de aspirante do quadro privativo de Fazenda, da província, com boas informações de serviço.
+
+###### Art. 2.º Quando, nas províncias de governo-geral, os concursos para aspirante dos quadros privativos de Fazenda de que trata o artigo 3.º do [Decreto n.º 36252](https://diariodarepublica.pt/dr/detalhe/decreto/36252-1947-415232), de 26 de Abril de 1947, ficarem desertos ou quando o número de candidatos aprovados for inferior ao número de vagas a prover durante a sua validade, poderão ser nomeados para a referida categoria de aspirante, a simples requerimento dos interessados, indivíduos classificados nos concursos para aspirante das secções concelhias das direcções de finanças distritais do Ministério das Finanças, desde que a validade de tais concursos não tenha expirado.
+
+§ único. Da mesma forma, e quando se dê a hipótese prevista no corpo do presente artigo, poderão ingressar nos quadros privativos de Fazenda das províncias ultramarinas os aspirantes de finanças das referidas secções, com boas informações de serviço.
+
+###### Art. 3.º Quando, depois de esgotados todos os meios de que trata o artigo 2.º, não seja possível preencher todas as vagas existentes na categoria de aspirante do quadro privativo de Fazenda, poderão ser admitidos, mediante contrato de simples prestação de serviços, fora do número fixado no artigo 1.º, tantos escriturários quantas as vagas existentes na categoria de aspirante. O contrato de prestação de serviços cessará automàticamente com o preenchimento da vaga de aspirante para que tiver sido admitido o respectivo escriturário.
+
+§ 1.º O pagamento da remuneração devida pela prestação de serviços aos escriturários mencionados no corpo do presente artigo far-se-á pela dotação que estiver consignada para os lugares de aspirante, não providos.
+
+§ 2.º O governador-geral de Moçambique regulamentará em termos convenientes o disposto no presente artigo.
+
+###### Art. 4.º Nas províncias de Angola e Moçambique, os chefes de secretaria com a categoria das letras L e K do artigo 90.º do Estatuto do Funcionalismo Ultramarino e bem assim os primeiros-oficiais dos quadros privativos que, em direcções ou inspecções provinciais de serviço ou em outros departamentos que se lhes possam equiparar, exerçam, por imperativo legal, funções de chefe de secretaria, transitam, independentemente de qualquer formalidade, para a categoria da letra J a que se refere o artigo 90.º acima referido, passando a designar-se simplesmente «chefe de secretaria».
+
+###### Art. 5.º As pensões atribuídas aos seus associados pela Caixa de Subsídios e Pensões do Pessoal dos Serviços Aduaneiros do Estado Português da Índia até 31 de Dezembro de 1961 consideram-se incluídas na autorização concedida pelo artigo 1.º do [Decreto n.º 44142](https://diariodarepublica.pt/dr/detalhe/decreto/44142-1961-178862), de 30 de Dezembro daquele ano, a partir da entrada em vigor do mesmo diploma.
+
+###### Art. 6.º Fica o governo da província de Macau autorizado a abrir um crédito especial da importância de 3000000$00 com contrapartida nos saldos das contas de exercícios findos para reforço da verba de «Despesas eventuais - Não especificadas - A pagar na metrópole», do orçamento geral da província para o corrente ano económico.
+
+###### Art. 7.º É aumentada de 1000000$00 a dotação global para aposentações, pensões, jubilações e reformas, do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província de Macau para o corrente ano económico.
+
+§ único. Fica o governo da mesma província autorizado:
+
+a) A distribuir a importância de que trata o corpo do presente artigo pelos vários artigos do capítulo 3.º da referida tabela de despesa;
+
+b) A reforçar as dotações inscritas dos mesmos artigos com as importâncias que aos mesmos forem aumentadas, de conformidade com a distribuição feita ao abrigo da alínea anterior;
+
+c) (transitório). A propor ao Ministro do Ultramar, de uma só vez, os funcionários que, encontrando-se desligados do serviço para efeitos de aposentação, devam ser, por interesse público, aposentados definitivamente por conta do aumento da dotação de que trata o corpo deste artigo, independentemente do lugar que ocuparem na lista dos funcionários que estiverem a aguardar aposentação.
+
+###### Art. 8.º São fixadas em 250$00 as senhas de presença devidas aos membros da direcção, incluindo o respectivo secretário, do Centro de Combate à Toxicomania da província de Macau, não podendo, porém, o respectivo abono mensal exceder importância superior à correspondente a duas sessões (500$00).
+
+###### Art. 9.º É criado um lugar de médico bacteriologista no quadro médico complementar de cirurgiões e especialistas da província de Macau com vencimentos e gratificações iguais aos que estiverem fixados para os restantes médicos do referido quadro.
+
+###### Art. 10.º É ratificada a [Portaria n.º 17499](https://diariodarepublica.pt/dr/detalhe/portaria/17499-1959-442094), de 15 de Fevereiro de 1954, da província de Moçambique.
+
+###### Art. 11.º Passa a ter a seguinte redacção o § 3.º do artigo 5.º do [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958:
+
+Os inspectores-chefes contabilistas das inspecções provinciais de Fazenda e contabilidade com, pelo menos, três anos de bom e efectivo serviço, prestado depois de terem sido nomeados definitivamente, poderão ingressar no quadro comum de Fazenda do ultramar como directores de 2.ª classe se, para tanto, lhes forem reconhecidos os necessários conhecimentos e condições de chefia para o exercício do cargo.
+
+###### Art. 12.º É concedida à Sociedade de Geografia de Lisboa um subsídio extraordinário da importância de 500000$00, destinado a auxiliar o pagamento das obras de remodelação da sua sede.
+
+§ 1.º O subsídio de que trata este artigo será encargo das províncias ultramarinas, repartido pelo corrente ano económico e pelo de 1965, competindo a este 350000$00 e àquele 150000$00.
+
+§ 2.º O subsídio deste ano será pago pela verba de «Despesas eventuais - Não especificadas - A pagar na metrópole», dos orçamentos das mesmas províncias, na proporção que o Ministro do Ultramar fixar em despacho; e o subsídio do ano de 1965 será inscrito nas tabelas de despesa ordinária das referidas províncias na mesma proporção.
+
+###### Art. 13.º Os governos das províncias ultramarinas abrirão, nos termos legais, os créditos especiais ou reforçarão, por transferência, as dotações orçamentais que disso carecerem, para a execução do que se preceitua no presente diploma.
+
+###### Art. 14.º É substituída pela seguinte a redacção do artigo 14.º do [Decreto n.º 45232](https://diariodarepublica.pt/dr/detalhe/decreto/45232-1963-686264), de 6 de Setembro de 1963:
+
+###### Art. 14.º Fica o Ministro do Ultramar autorizado a despender, por conta do Fundo a que se refere o artigo 17.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962, até ao limite da importância de 3200000$00 com as despesas derivadas da transferência dos serviços e apetrechamento do novo edifício do Restelo.
+
+§ 1.º A gestão da importância de que trata este artigo pertence exclusivamente à Secretaria-Geral do Ministério do Ultramar.
+
+§ 2.º O disposto no corpo do presente artigo poderá abranger, a título excepcional, quaisquer organismos consultivos ou dependentes do Ministério do Ultramar, embora instalados em outros edifícios, desde que no despacho ministerial que ordenar a despesa se considere esta de interesse para os serviços do Ministério instalados no Restelo.
+
+§ 3.º Fica a Repartição de Contabilidade da Direcção-Geral de Fazenda autorizada a mandar pagar, até ao limite fixado, em face de facturas devidamente visadas pelo secretário-geral e autorizadas pelo Ministro do Ultramar, os encargos mencionados no corpo deste artigo e no seu § 2.º
+
+###### Art. 15.º O artigo 36.º do [Decreto n.º 41536](https://diariodarepublica.pt/dr/detalhe/decreto/41536-1958-304307), de 24 de Fevereiro de 1958, passa a ter a seguinte redacção:
+
+###### Art. 36.º Os contratos dos segundos-assistentes poderão vigorar, mediante sucessivas prorrogações, até ao máximo de seis anos.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 26 de Maio de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.

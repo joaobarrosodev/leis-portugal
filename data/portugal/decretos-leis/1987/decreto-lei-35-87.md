@@ -1,0 +1,156 @@
+---
+schema_version: '1.0'
+id: pt:dre:663367:por
+title: Decreto-Lei n.º 35/87
+short_title: null
+summary: Estabelece disposições quanto à aplicação da Lei n.º 9/86, de 30 de Abril, relativamente à atribuição aos municípios
+  integrados em regiões de turismo, bem como aos órgãos locais e regionais de turismo, de 37,5% das receitas do IVA
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 35/87
+official_date: null
+publication_date: '1987-01-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 17/1987, Série I de 1987-01-21
+  number: '17'
+  series: I
+  supplement: null
+  pages: 274 - 275
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01700/02740275.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '663367'
+  dre_path: /dr/detalhe/decreto-lei/35-1987-663367
+  internal: pt:dre:663367:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1987-663367
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-1987-663367
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-12-27T00:00:00Z'
+integrity:
+  source_sha256: 2e88dfe46f8079181ef266ba5f14c0e6deaa25b78180a5b022ae995bcff7cefc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-35-663367.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:233945:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 35/87
+
+de 21 de Janeiro
+
+Com a entrada em vigor do Código do Imposto sobre o Valor Acrescentado (CIVA) cessou a cobrança do imposto de turismo, cujo produto revertia para os municípios, constituindo a principal fonte de receita dos órgãos locais e regionais de turismo.
+
+Em substituição do imposto de turismo, a [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, pelo seu artigo 76.º, veio determinar que os municípios passem a beneficiar de 37,5% do produto da tributação do imposto sobre o valor acrescentado (IVA) sobre as actividades turísticas exercidas na sua área, receita esta que partilharão em 50% com os respectivos órgãos locais e regionais de turismo.
+
+Viabilizar a exequibilidade do referido regime é, pois, objecto do presente diploma, que segue de muito perto, na parte aplicável, a anterior regulamentação do imposto de turismo.
+
+Nesta conformidade, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição e do artigo 76.º da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, o seguinte:
+
+###### Artigo 1.º Para efeitos do disposto no n.º 1 do artigo 76.º, da [Lei n.º 9/86](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), de 30 de Abril, são consideradas actividades turísticas:
+
+a) As actividades exercidas em estabelecimentos hoteleiros e similares, independentemente da entidade competente para o seu licenciamento, em conjuntos turísticos e em aldeamentos e apartamentos turísticos, o alojamento em estabelecimentos do tipo hoteleiro e, bem assim, as actividades exercidas em parques de campismo e caravanismo;
+
+b) A actividade exercida por organizações de fins lucrativos relativamente a circuitos turísticos, excursões e outras viagens turísticas consideradas como tais na legislação aplicável;
+
+c) O aluguer de veículos automóveis, com ou sem condutor, nos termos do [Decreto n.º 28/74](https://diariodarepublica.pt/dr/detalhe/decreto/28-1974-173160), de 31 de Janeiro, com a redacção dada pelo [Decreto n.º 346/76](https://diariodarepublica.pt/dr/detalhe/decreto/346-1976-427838), de 12 de Maio, bem como o aluguer de aeronaves e de embarcações de recreio;
+
+d) Outras actividades ou serviços classificados como turísticos, nos termos da legislação aplicável.
+
+###### Art. 2.º - 1 - Constitui receita própria dos municípios definidos como zonas de turismo ou integrados em regiões de turismo a percentagem de 37,5% das receitas do IVA proveniente da tributação das actividades turísticas.
+
+2 - A percentagem das receitas do IVA referida no número anterior, cobradas por empresas que desenvolvem algumas das actividades referidas no artigo 1.º do presente diploma, conjuntamente com outras ali não mencionadas, será aplicada apenas ao IVA correspondente às actividades turísticas, o qual será calculado em proporção ao volume de negócios que essas actividades turísticas representam no total do volume de negócios da empresa.
+
+3 - A receita referida nos números anteriores será afecta às câmaras municipais onde estas actividades são efectivamente prestadas, constituindo receita própria dos respectivos municípios, a entregar pelo Serviço de Administração do IVA (SAIVA).
+
+4 - Quando existam órgãos locais ou regionais de turismo, 50% das receitas referidas no número anterior serão entregues directamente a esses órgãos pelo SAIVA.
+
+5 - Sempre que as empresas repartam o exercício das actividades referidas no n.º 1 do artigo 1.º por diversos municípios ou as exerçam em municípios diferentes do da sede, o IVA por elas entregue será repartido em proporção do volume de negócios que a actividade exercida em cada município representa em relação ao total do volume de negócios da empresa.
+
+6 - Nos casos em que, através das declarações periódicas, a apresentar nos termos do CIVA, se mostre terem as respectivas empresas crédito de imposto a seu favor, observar-se-á o disposto neste artigo para o efeito de, na parte relativa às actividades turísticas, ser abatida a importância correspondente a 37,5%.
+
+###### Art. 3.º - 1 - As empresas abrangidas pelo disposto nos n.os 2 e 5 do artigo 2.º do presente diploma remeterão anualmente, durante os meses de Abril a Junho, ao SAIVA declaração, em duplicado, de modelo aprovado, onde indicarão o volume de negócios respeitante a cada uma das suas actividades, repartido pelos diversos municípios onde são exercidas.
+
+2 - A declaração referida no número anterior será informada, sempre que necessário, pelos serviços de fiscalização tributária.
+
+3 - A falta da remessa ou a remessa fora do prazo da declaração referida no n.º 1, bem como quaisquer omissões, inexactidões ou falsidades nela praticadas, serão punidas nos termos previstos nos n.os 2, 3 e 4 do artigo 99.º do CIVA.
+
+###### Art. 4.º - 1 - Nos meses de Janeiro e Junho de cada ano o SAIVA entregará a cada uma das entidades referidas no artigo 2.º, respectivamente, 50% e 25% das importâncias pagas relativamente ao segundo ano anterior, acrescidas de uma percentagem igual à que resulta do aumento do montante de IVA em relação àquele ano, de acordo com os respectivos orçamentos.
+
+2 - No mês de Outubro de cada ano o SAIVA procederá à entrega das diferenças para mais a que as mesmas entidades têm direito, em relação às cobranças do ano anterior, com base na declaração a que se refere o artigo 3.º se for caso disso.
+
+###### Art. 5.º - 1 - No ano de 1986 o SAIVA pagará a cada uma das entidades abrangidas pelo artigo 2.º do presente decreto-lei uma importância correspondente ao imposto de turismo respeitante ao ano de 1985, acrescida de 20%, não se aplicando as normas do presente diploma.
+
+2 - Os pagamentos por conta a efectuar nos meses de Janeiro e Junho de 1987 corresponderão, respectivamente, a 50% e 25% do imposto de turismo respeitante ao ano de 1985, acrescido de 32%.
+
+3 - Conjuntamente com o pagamento por conta do ano de 1987, a efectuar em Janeiro, nos termos do número anterior, proceder-se-á ao pagamento definitivo em relação ao ano de 1986.
+
+###### Art. 6.º - 1 - A Direcção-Geral do Turismo fornecerá anualmente, até ao final do mês de Fevereiro, ao SAIVA a lista dos órgãos locais e regionais de turismo, com indicação da área dos municípios a que pertencem, bem como a indicação das empresas cujos empreendimentos foram declarados de utilidade turística ou relevância turística no ano anterior, para efeitos da alínea d) do artigo 1.º
+
+2 - Relativamente ao ano em curso, a lista referida no número anterior será fornecida no prazo de 30 dias a contar da data da entrada em vigor do presente diploma.
+
+###### Art. 7.º A primeira declaração a que se refere o n.º 1 do artigo 3.º do presente diploma só será apresentada no ano de 1988, com referência ao ano anterior.
+
+###### Art. 8.º Os modelos de impressos necessários ao cumprimento das obrigações decorrentes do presente diploma serão aprovados por despacho do Ministro das Finanças.
+
+Visto e aprovado em Conselho de Ministros de 20 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+**Promulgado em 2 de Janeiro de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 12 de Janeiro de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

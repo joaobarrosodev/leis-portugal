@@ -1,0 +1,126 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70411879:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-196158353",
+ "dre_path": "/dr/detalhe/portaria/315-2015-70411879",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "187882653",
+    "187882654",
+    "187882655",
+    "187882656",
+    "187882657",
+    "187882658"
+   ]
+  },
+  {
+   "date": "2022-08-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:196158284:por",
+     "title": "Portaria n.º 208/2022",
+     "published": "2022-08-22",
+     "dre_path": "/dr/detalhe/portaria/208-2022-196158284"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "187882653",
+    "187882654",
+    "187882665",
+    "187882666",
+    "187882657",
+    "187882658",
+    "187882659"
+   ]
+  }
+ ],
+ "fragments": {
+  "187882653": {
+   "fragment_id": "196158354",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 315/2015\n\nde 30 de setembro\n\nO regime jurídico da exploração e prática das apostas desportivas à cota de base territorial, aprovado pelo Decreto-Lei n.º 67/2015, de 29 de abril, determina, na conjugação do n.º 2 do artigo 5.º com a alínea c) do n.º 2 do artigo 12.º do respetivo anexo, que as condições de atribuição do montante correspondente a 3,5 % da receita apurada são fixadas por portaria dos membros do Governo responsáveis pelas áreas da segurança social e do desporto.\n\nAssim:\n\nAo abrigo do disposto no n.º 2 do artigo 5.º do Decreto-Lei n.º 67/2015, de 29 de abril, e da alínea c) do n.º 2 do artigo 12.º do respetivo anexo, manda o Governo, pelo Ministro da Presidência e dos Assuntos Parlamentares e pelo Ministro da Solidariedade, Emprego e Segurança Social, o seguinte:"
+  },
+  "187882654": {
+   "fragment_id": "196158355",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria fixa as condições de atribuição do montante correspondente a 3,5 % da receita apurada, nos termos da alínea c) do n.º 2 do artigo 12.º do regime jurídico da exploração e prática das apostas desportivas à cota de base territorial, aprovado em anexo ao Decreto-Lei n.º 67/2015, de 29 de abril."
+  },
+  "187882655": {
+   "fragment_id": "196158356",
+   "type": 11,
+   "heading": "Artigo 2.º — Determinação dos valores a transferir",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Determinação dos valores a transferir\n\n1 - O montante referido no artigo anterior resultante das apostas efetuadas em todas as competições ou provas desportivas que não estejam abrangidas pelos números seguintes, é repartido, dentro de cada modalidade desportiva e na proporção das apostas que incidiram sobre cada uma, da seguinte forma:\n\na) 85 % para os clubes ou sociedades desportivas ou, quando aplicável, para os praticantes que não pertençam a qualquer destes;\n\nb) 15 % para a correspondente federação desportiva titular do estatuto de utilidade pública desportiva, para promoção da modalidade.\n\n2 - O montante referido no artigo anterior resultante de apostas efetuadas sobre as competições e provas desportivas organizadas por liga profissional ou sobre as competições e provas às quais as sociedades desportivas e os praticantes desportivos possam ter acesso por via daquelas, é repartido, dentro de cada modalidade desportiva e na proporção das apostas que incidiram sobre cada uma, da seguinte forma:\n\na) 85 % para as sociedades desportivas ou, quando não existam, para os praticantes desportivos, participantes em competições e provas desportivas organizadas pela liga profissional;\n\nb) 15 % para a liga profissional, para promoção da modalidade.\n\n3 - O montante referido no artigo anterior resultante das apostas efetuadas sobre todas as competições ou provas desportivas em que participem as seleções nacionais, é atribuído, na íntegra, dentro da cada modalidade desportiva e na proporção das apostas que incidiram sobre cada uma, à correspondente federação desportiva titular do estatuto de utilidade pública desportiva para promoção da modalidade.\n\n4 - O montante referido no artigo anterior resultante das apostas efetuadas sobre todas as competições multidesportivas em que possam participar missões portuguesas da responsabilidade do Comité Olímpico de Portugal, do Comité Paralímpico de Portugal ou da Confederação do Desporto de Portugal, é atribuído na íntegra à respetiva entidade responsável, para apoio à organização e despesas das missões e programas de preparação."
+  },
+  "187882656": {
+   "fragment_id": "196158357",
+   "type": 11,
+   "heading": "Artigo 3.º — Operacionalização das transferências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Operacionalização das transferências\n\n1 - O montante previsto no artigo 1.º é transferido trimestralmente pelo departamento de jogos da Santa Casa da Misericórdia de Lisboa para a liga profissional, Comité Olímpico de Portugal, Comité Paralímpico de Portugal, Confederação do Desporto de Portugal ou para a federação desportiva, nos termos do artigo anterior, na sua totalidade, até ao dia 10 do mês seguinte ao trimestre a que respeita.\n\n2 - Compete às federações e ligas assegurar a distribuição prevista nos n.os 1 e 2 do artigo anterior, no prazo de 20 dias a contar da receção das transferências previstas no número anterior.\n\n3 - As transferências previstas no n.º 1 e a distribuição prevista no número anterior, só podem ocorrer se o respetivo beneficiário tiver a sua situação contributiva regularizada perante a autoridade tributária e a segurança social, nos termos legais.\n\n4 - Para efeitos das transferências previstas no n.º 1, o Instituto Português do Desporto e Juventude, I. P., presta ao departamento de jogos da Santa Casa da Misericórdia de Lisboa todos os esclarecimentos necessários relativamente às competições ou provas desportivas referidas no artigo anterior."
+  },
+  "187882657": {
+   "fragment_id": "196158358",
+   "type": 11,
+   "heading": "Artigo 4.º — Atuação dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atuação dos serviços\n\nNo cálculo e no processamento das transferências previstas na presente portaria, o departamento de jogos da Santa Casa da Misericórdia de Lisboa deve:\n\na) Proceder com rigor, nomeadamente mediante a verificação da suficiência e da exatidão dos elementos determinantes para o apuramento dos respetivos valores;\n\nb) Facultar às entidades referidas no artigo 2.º a respetiva informação relativa ao apuramento do montante previsto no artigo 1.º, por referência a cada evento desportivo."
+  },
+  "187882658": {
+   "fragment_id": "196158359",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia útil seguinte ao da sua publicação."
+  },
+  "187882665": {
+   "fragment_id": "196158356",
+   "type": 11,
+   "heading": "Artigo 2.º — Determinação dos valores a transferir",
+   "in_force_from": "2022-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2022 - Diário da República n.º 161/2022, Série I de 2022-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/208-2022-196158284), em vigor a partir de 2022-08-23"
+   ],
+   "markdown": "###### Artigo 2.º — Determinação dos valores a transferir\n\n1 - O montante referido no artigo anterior resultante das apostas efetuadas em todas as competições ou provas desportivas que não estejam abrangidas pelos números seguintes, é repartido, dentro de cada modalidade desportiva e na proporção das apostas que incidiram sobre cada uma, da seguinte forma:\n\na) 85 % para os clubes ou sociedades desportivas ou, quando aplicável, para os praticantes que não pertençam a qualquer destes;\n\nb) 15 % para a correspondente federação desportiva titular do estatuto de utilidade pública desportiva, para promoção da modalidade.\n\n2 - O montante referido no artigo anterior resultante de apostas efetuadas sobre as competições e provas desportivas organizadas por liga profissional ou sobre as competições e provas às quais as sociedades desportivas e os praticantes desportivos possam ter acesso por via daquelas, é repartido, dentro de cada modalidade desportiva e na proporção das apostas que incidiram sobre cada uma, da seguinte forma:\n\na) 85 % para as sociedades desportivas ou, quando não existam, para os praticantes desportivos, participantes em competições e provas desportivas organizadas pela liga profissional;\n\nb) 15 % para a liga profissional, para promoção da modalidade.\n\n3 - O montante referido no artigo anterior resultante das apostas efetuadas sobre todas as competições ou provas desportivas em que participem as seleções nacionais, é atribuído, na íntegra, dentro da cada modalidade desportiva e na proporção das apostas que incidiram sobre cada uma, à correspondente federação desportiva titular do estatuto de utilidade pública desportiva para promoção da modalidade.\n\n4 - O montante referido no artigo anterior resultante das apostas efetuadas sobre todas as competições multidesportivas em que possam participar missões portuguesas da responsabilidade do Comité Olímpico de Portugal, do Comité Paralímpico de Portugal ou da Confederação do Desporto de Portugal, é atribuído na íntegra à respetiva entidade responsável, para apoio à organização e despesas das missões e programas de preparação.\n\n5 - Nos casos não abrangidos pelos números anteriores, o montante referido no artigo anterior resultante de apostas efetuadas sobre as competições e provas desportivas de modalidades não tuteladas, promovidas, regulamentadas, dirigidas ou representadas por federações detentoras do estatuto de utilidade pública desportiva, incluindo quando não exista federação, é transferido para o Instituto Português da Juventude e Desporto, I. P. (IPDJ, I. P.), para promoção das modalidades e execução de programas de prevenção, formação e educação sobre o combate à manipulação de competições e corrupção desportiva, em defesa da integridade das competições desportivas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2022 - Diário da República n.º 161/2022, Série I de 2022-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/208-2022-196158284), em vigor a partir de 2022-08-23"
+  },
+  "187882666": {
+   "fragment_id": "196158357",
+   "type": 11,
+   "heading": "Artigo 3.º — Operacionalização das transferências",
+   "in_force_from": "2022-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2022 - Diário da República n.º 161/2022, Série I de 2022-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/208-2022-196158284), em vigor a partir de 2022-08-23"
+   ],
+   "markdown": "###### Artigo 3.º — Operacionalização das transferências\n\n1 - O montante previsto no artigo 1.º é transferido trimestralmente pelo departamento de jogos da Santa Casa da Misericórdia de Lisboa para a liga profissional, Comité Olímpico de Portugal, Comité Paralímpico de Portugal, Confederação do Desporto de Portugal, para a federação desportiva ou para o IPDJ, I. P., nos termos do artigo anterior, na sua totalidade, até ao dia 10 do mês seguinte ao trimestre a que respeita.\n\n2 - Compete às federações e ligas assegurar a distribuição prevista nos n.os 1 e 2 do artigo anterior, no prazo de 20 dias a contar da receção das transferências previstas no número anterior.\n\n3 - As transferências previstas no n.º 1 e a distribuição prevista no número anterior, só podem ocorrer se o respetivo beneficiário tiver a sua situação contributiva regularizada perante a autoridade tributária e a segurança social, nos termos legais.\n\n4 - Para efeitos das transferências previstas no n.º 1, o Instituto Português do Desporto e Juventude, I. P., presta ao departamento de jogos da Santa Casa da Misericórdia de Lisboa todos os esclarecimentos necessários relativamente às competições ou provas desportivas referidas no artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 208/2022 - Diário da República n.º 161/2022, Série I de 2022-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/208-2022-196158284), em vigor a partir de 2022-08-23"
+  },
+  "187882659": {
+   "fragment_id": "196158360",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Presidência e dos Assuntos Parlamentares, Luís Maria de Barros Serra Marques Guedes, em 25 de setembro de 2015. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 27 de setembro de 2015."
+  }
+ }
+}

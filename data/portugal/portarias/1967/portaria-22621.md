@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:509433:por
+title: Portaria n.º 22621
+short_title: null
+summary: Fixa, para o ano em curso, a dotação dos artigos de uniforme para os soldados cadetes do curso de oficiais milicianos
+  do Exército
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho - Gabinete do Ministro da Defesa Nacional
+proposing_entity: null
+official_number: '22621'
+official_date: null
+publication_date: '1967-04-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 82/1967, Série I de 1967-04-06
+  number: '82'
+  series: I
+  supplement: null
+  pages: 713 - 714
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/04/08200/07130714.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '509433'
+  dre_path: /dr/detalhe/portaria/22621-1967-509433
+  internal: pt:dre:509433:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22621-1967-509433
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22621-1967-509433
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1967-04-06T00:00:00Z'
+integrity:
+  source_sha256: c344a9c2f131a7915e90404f728d9c93a8709ff1f3049ae9da95441dd369a2d4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1967/DRE-1967-22621-509433.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22621
+
+Manda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, nos termos do artigo único do [Decreto-Lei n.º 45531](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45531-1964-469231), de 16 de Janeiro de 1964, o seguinte:
+
+É fixada, para o ano em curso, a seguinte dotação dos artigos de uniforme para os soldados cadetes do curso de oficiais milicianos do Exército:
+
+a) Uniforme de trabalho:
+
+Um barrete n.º 3.
+
+Duas camisas n.º 3.
+
+Duas calças n.º 3.
+
+b) Uniforme de serviço e de passeio:
+
+Uma boina.
+
+Uma camisa n.º 2.
+
+Uma calça n.º 2
+
+Um blusão.
+
+Uma gravata verde.
+
+c) Uniforme de ginástica:
+
+Uma camisola.
+
+Um calção.
+
+Um par de sapatos.
+
+d) Artigos comuns:
+
+Um par de botas de calf com polaina fixa.
+
+Um par de botas de lona.
+
+Presidência do Conselho, 6 de Abril de 1967. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo.

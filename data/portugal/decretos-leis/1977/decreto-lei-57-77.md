@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:141794:por
+title: Decreto-Lei n.º 57/77
+short_title: null
+summary: Estabelece normas para as eleições das comissões de trabalhadores
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho
+proposing_entity: null
+official_number: 57/77
+official_date: null
+publication_date: '1977-02-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/1977, Série I de 1977-02-18
+  number: '41'
+  series: I
+  supplement: null
+  pages: 265 - 265
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/02/04100/02650265.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '141794'
+  dre_path: /dr/detalhe/decreto-lei/57-1977-141794
+  internal: pt:dre:141794:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1977-141794
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1977-141794
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-05-08T00:00:00Z'
+integrity:
+  source_sha256: bcecfd8ad423ba7b0f18b59cc4aef9df857e3cbf5c502b83cf40f8fadfd6b827
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-57-141794.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 57/77
+
+de 18 de Fevereiro
+
+A Constituição determina que as comissões de trabalhadores são eleitas em plenário de trabalhadores por voto directo e secreto (artigo 55.º, n.º 2), devendo também o seu estatuto ser aprovado em plenário de trabalhadores (artigo 55.º, n.º 3).
+
+A Constituição também determina que as direcções das associações sindicais são eleitas por escrutínio secreto e que a sua actividade assentará na participação activa dos trabalhadores em todos os aspectos da actividade sindical (artigo 57.º, n.º 3).
+
+Visa ainda a Constituição assegurar a unidade e o diálogo das diversas correntes sindicais eventualmente existentes, garantindo aos trabalhadores o exercício do direito de tendência dentro dos sindicatos, nos casos e nas formas em que tal direito for estatutariamente estabelecido (artigo 57.º, n.º 5).
+
+Acontece que a aplicação destes preceitos constitucionais é por vezes dificultada pelas realidades da vida prática.
+
+Nas empresas de laboração contínua torna-se difícil, se não impossível, o exercício do direito de voto pela totalidade dos trabalhadores sem que se estabeleça um esquema viável e adaptado a esse tipo de laboração. Também nas empresas com instalações disseminadas por todo o território nacional (CP, Rodoviária Nacional, Petrogal, etc.) a eleição das comissões de trabalhadores pelo seu plenário, ou seja pela sua totalidade, só será exequível mediante a estruturação de um sistema que tenha em conta as realidades próprias dessas empresas.
+
+A experiência demonstra que só é possível a eleição por todos os trabalhadores se se permitir o voto nos locais de trabalho e durante o tempo de trabalho.
+
+O expediente de se marcar o acto eleitoral para dias feriados ou para fora do tempo e do local de trabalho impede, na prática, o voto a muitos trabalhadores, por dificuldades de transportes, obrigações familiares, ou ainda pelo facto de viverem em sítios muito distantes.
+
+Por esse motivo, permite-se que as eleições das comissões de trabalhadores e das direcções das associações sindicais se realizem no local e durante o tempo de trabalho, a fim de se viabilizarem os preceitos constitucionais referidos, assegurando-se, assim, a efectiva democracia de base que os mesmos postulam. Por razões evidentes, as assembleias gerais ou as reuniões de esclarecimento durante o tempo de trabalho ou de modo a perturbarem-no continuam a não ser permitidas.
+
+Na elaboração do presente diploma tomaram parte comissões de trabalhadores e associações sindicais para o efeito consultadas pelo Ministério do Trabalho, em obediência aos princípios constitucionais que regem esta matéria.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1. As comissões de trabalhadores serão eleitas por voto directo e secreto, em dias de trabalho, no local e durante o tempo de trabalho.
+
+2. A eleição só é válida estando presente a maioria dos trabalhadores da empresa.
+
+3. O acto eleitoral deverá ser anunciado com a antecedência mínima de quinze dias e em termos de ampla publicidade, com menção de horas, local e objecto.
+
+4. O exercício do direito de voto deve ser registado em documento próprio, reconhecido e visado pela mesa que presidir às eleições, e que constituirá parte integrante da respectiva acta.
+
+###### Art. 2.º - 1. A fim de tornar exequível o disposto no n.º 1 do artigo anterior, as urnas deverão ser colocadas nos locais de trabalho, mas de modo a não prejudicarem a laboração normal.
+
+2. A votação iniciar-se-á, pelo menos, trinta minutos antes do começo e terminará, pelo menos, sessenta minutos depois do encerramento do período de trabalho.
+
+3. Os trabalhadores poderão votar durante o seu período de trabalho, para o que cada um disporá de tempo suficiente para tal.
+
+###### Art. 3.º O disposto nos artigos anteriores aplica-se à aprovação do estatuto das comissões de trabalhadores.
+
+###### Art. 4.º Às eleições das direcções sindicais e à aprovação dos respectivos estatutos poderá ser aplicável o disposto nos artigos 1.º e 2.º
+
+###### Art. 5.º As assembleias ou reuniões de esclarecimento só são permitidas fora do período de trabalho.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Francisco Manuel Marcelo Monteiro Curto.
+
+**Promulgado em 7 de Fevereiro de 1977.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

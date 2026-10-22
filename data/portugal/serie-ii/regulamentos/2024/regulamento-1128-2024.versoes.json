@@ -1,0 +1,1261 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:890219460:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/regulamento/2024-1170428175",
+ "dre_path": "/dr/detalhe/regulamento/1128-2024-890219460",
+ "source_lastmod": "2026-09-15",
+ "versions": [
+  {
+   "date": "2024-10-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1170428375",
+    "1170548475",
+    "1170485375",
+    "1170487375",
+    "1170487675",
+    "1170487975",
+    "1170497375",
+    "1170497575",
+    "1170497775",
+    "1170500975",
+    "1170501175",
+    "1170497975",
+    "1170498175",
+    "1170501475",
+    "1170498375",
+    "1170501875",
+    "1170502075",
+    "1170502375",
+    "1170503775",
+    "1170522075",
+    "1170521675",
+    "1170521875",
+    "1170524975",
+    "1170522375",
+    "1170525375",
+    "1170525575",
+    "1170527775",
+    "1170530675",
+    "1170531475",
+    "1170532775",
+    "1170532275",
+    "1170533175",
+    "1170522975",
+    "1170533375",
+    "1170533975",
+    "1170534175",
+    "1170534375",
+    "1170523175",
+    "1170539475",
+    "1170539675",
+    "1170539875",
+    "1170540075",
+    "1170540275",
+    "1170540475",
+    "1170540675",
+    "1170523375",
+    "1170540875",
+    "1170523775",
+    "1170542575",
+    "1170541075",
+    "1170542875",
+    "1170541275",
+    "1170541475",
+    "1170543075",
+    "1170542275",
+    "1170543275",
+    "1170545775",
+    "1170546175",
+    "1170546375",
+    "1170546575",
+    "1170546775",
+    "1170543575",
+    "1170546975",
+    "1170547175",
+    "1170547575",
+    "1170547875",
+    "1170548275",
+    "1170543775",
+    "1170548675",
+    "1170548875",
+    "1170549075",
+    "1170549275",
+    "1170549475",
+    "1170549675",
+    "1170550075",
+    "1170550275",
+    "1170550475",
+    "1170550675",
+    "1170550875",
+    "1170551075",
+    "1170551275",
+    "1170577775",
+    "1170551475",
+    "1170551675",
+    "1170577975",
+    "1170551875",
+    "1170552175",
+    "1170552375",
+    "1170580775",
+    "1170580975",
+    "1170581175",
+    "1170581375",
+    "1170578375",
+    "1170581575",
+    "1170581875",
+    "1170582075",
+    "1170582275",
+    "1170582675",
+    "1170582975",
+    "1170578775",
+    "1170583175",
+    "1170578975",
+    "1170583375",
+    "1170583575",
+    "1170579275",
+    "1170583775",
+    "1170583975",
+    "1170584175",
+    "1170584375",
+    "1170584575",
+    "1170592075",
+    "1170592275",
+    "1170590875",
+    "1170591075",
+    "1170592475",
+    "1170592675",
+    "1170592875",
+    "1170593075",
+    "1170593275",
+    "1170593475",
+    "1170593675",
+    "1170593875",
+    "1170594075",
+    "1170594275",
+    "1170594475",
+    "1170594675",
+    "1170591275",
+    "1170594875",
+    "1170595075",
+    "1170595275",
+    "1170597775",
+    "1170595475",
+    "1170599975",
+    "1170600175",
+    "1170595675",
+    "1170595875",
+    "1170600375",
+    "1170603575"
+   ]
+  }
+ ],
+ "fragments": {
+  "1170428375": {
+   "fragment_id": "1170428275",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Terceira alteração ao Regulamento de Apoio à Habitação do Município de Braga\n\nRicardo Bruno Antunes Machado Rio, Presidente da Câmara Municipal de Braga: No uso das competências conferidas pelas alíneas b) e t) do n.º 1 do artigo 35.º da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, que estabelece o Regime Jurídico das Autarquias Locais, em cumprimento e para efeitos do disposto no artigo 56.º da mesma Lei, e ainda nos termos dos artigos 139.º e 140.º do Decreto-Lei n.º 4/2015, de 7 de janeiro, que aprova o Código do Procedimento Administrativo: Faz saber que a Assembleia Municipal de Braga, em sessão ordinária realizada no dia 30 de setembro de 2024, sob proposta da Câmara Municipal de 10 de setembro de 2024, deliberou aprovar a Terceira Alteração ao Regulamento de Apoio à Habitação do Município de Braga. Mais se torna público que, após publicação no Diário da República, o referido Regulamento se encontrará disponível para consulta no sítio de Internet do Município de Braga (disponível em https://www.cm-braga.pt/pt), no separador Município/Apoio ao Cidadão/Regulamentos.\n\n1 de outubro de 2024. - O Presidente da Câmara, Ricardo Bruno Antunes Machado Rio.\n\nTerceira Alteração ao Regulamento de Apoio à Habitação do Município de Braga\n\nNota Justificativa\n\nA Assembleia Municipal de Braga, em sessão extraordinária realizada no dia 10 de março de 2023, sob proposta da Câmara Municipal de 06 de março de 2023, deliberou aprovar o Regulamento de Apoio Extraordinário à Prestação Bancária Para Habitação Própria e Permanente. A elevada procura por este apoio levou a Assembleia Municipal de Braga, em sessão extraordinária realizada no dia 27 de dezembro de 2023, sob proposta da Câmara Municipal de 28 de novembro de 2023, a deliberar pela aprovação da primeira alteração ao Regulamento de Apoio Extraordinário à Prestação Bancária Para Habitação Própria e Permanente que estendeu o período de candidaturas a este regime de apoio até ao final do ano civil de 2024. Prevendo-se que as dificuldades de acesso ao mercado de habitação perdurem para além deste período, e pela necessidade de continuar as apoiar as famílias que se deparam com elevadas taxas de esforços, considera-se que o Regime de Apoio Direto ao Empréstimo deverá ter um caráter permanente, semelhante ao Regime de Apoio Direto ao Arrendamento quanto à natureza, finalidade e requisitos de elegibilidade, com as devidas adaptações, entendendo-se que se justifica a sua inclusão no Regulamento de Apoio à Habitação do Município de Braga, garantindo um maior alinhamento com os restantes regimes de apoio e uma maior justiça à atribuição de apoios habitacionais. Quanto à ponderação dos custos e benefícios das alterações projetadas, nos termos do disposto no artigo 99.º do CPA, estima-se que os benefícios se revelem superiores aos custos implicados, pois é expectável que, com a implementação permanente deste regime, se garanta o apoio à situação de efetiva carência habitacional do território municipal. De igual forma, são alteradas outras disposições do Regulamento de Apoio à Habitação do Município de Braga que decorrem da experiência recente de aplicação do mesmo e também concorrem para o objetivo de garantir maior justiça na atribuição de apoios. Em cumprimento do disposto no artigo 98.º do CPA, foi publicitado, no sítio do Município de Braga, na Internet, o início do procedimento administrativo relativo ao presente projeto de Regulamento, para constituição dos interessados que entendessem apresentar os seus contributos. Esta alteração foi submetida a consulta pública, para recolha de sugestões, nos termos do artigo 101.º do Código do Procedimento Administrativo (CPA), através de publicação no Diário da República a 02/07/2024, pelo Aviso n.º 13485/2024, e, na Internet, no sítio institucional do Município. Assim, no uso do poder regulamentar conferido às autarquias locais pelo artigo 241.º da Constituição da República Portuguesa, e das competências previstas nas alíneas h) e i), do n.º 2, do artigo 23.º, na alínea g), do n.º 1, do artigo 25.º, na alínea k), do n.º 1, do artigo 33.º, todos do Anexo I, da Lei n.º 75/2013, de 12 de setembro, procede-se à terceira alteração ao Regulamento de Apoio à Habitação do Município de Braga, aprovada pela Câmara Municipal, sob proposta do seu Presidente, em reunião ordinária pública de 10/09/2024, e pela Assembleia Municipal, na sua sessão ordinária de 30/09/2024."
+  },
+  "1170548475": {
+   "fragment_id": "1170548375",
+   "type": 1,
+   "heading": "Capítulo IV — REGIME DE APOIO DIRETO AO ARRENDAMENTO (RADA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — REGIME DE APOIO DIRETO AO ARRENDAMENTO (RADA)"
+  },
+  "1170485375": {
+   "fragment_id": "1170485275",
+   "type": 1,
+   "heading": "Capítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I"
+  },
+  "1170487375": {
+   "fragment_id": "1170487275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento disciplina os termos e modos da prestação de apoio à habitação do Município de Braga, as condições de atribuição de habitações e a disciplina dos seus diferentes regimes, no âmbito das atribuições e competências próprias da BRAGAHABIT - Empresa Municipal de Habitação de Braga, E. M. (doravante, BragaHabit)."
+  },
+  "1170487675": {
+   "fragment_id": "1170487575",
+   "type": 11,
+   "heading": "Artigo 2.º — Regimes de apoio à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regimes de apoio à habitação\n\nO apoio à habitação previsto no presente Regulamento será prestado pela BragaHabit no âmbito dos cinco regimes que se seguem:\n\na) Arrendamento Apoiado;\n\nb) Subarrendamento;\n\nc) Apoio Direto ao Arrendamento;\n\nd) Apoio Direto ao Empréstimo;\n\ne) Residência Partilhada."
+  },
+  "1170487975": {
+   "fragment_id": "1170487875",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\n1 - Para efeito do disposto no presente Regulamento, considera-se:\n\na) “Candidatura”, documento que formaliza o pedido de concessão de um dos regimes de apoio à habitação”;\n\nb) “Candidato”, pessoa que apresentou um pedido de concessão de um apoio à habitação e consta como inscrito na lista de espera para atribuição;\n\nc) “Arrendatário”, pessoa que celebrou um contrato de arrendamento e cuja habitação lhe foi arrendada;\n\nd) “Tipologia da habitação”, capacidade de alojamento determinada em função do número de quartos de dormir;\n\ne) “Adequação da tipologia” - composição do agregado familiar em função da tipologia definida no Anexo II da Lei n.º 81/2014, de 19 de dezembro.\n\nf) “Sobreocupação”, ocupação da habitação por um número superior de pessoas ao da sua capacidade de alojamento;\n\ng) “Subocupação”, ocupação da habitação por um número inferior de pessoas ao da capacidade de alojamento;\n\nh) “Agregado familiar”, o conjunto de pessoas que residem em economia comum na habitação arrendada, constituído pelo Arrendatário e por:\n\n1) Cônjuge ou pessoa em união de facto;\n\n2) Parentes e afins maiores, em linha reta e em linha colateral, até ao 3.º grau;\n\n3) Parentes e afins menores em linha reta e em linha colateral;\n\n4) Adotantes, tutores e pessoas a quem o requerente esteja confiado por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito;\n\n5) Adotados e tutelados pelo requerente ou qualquer dos elementos do agregado familiar e crianças e jovens confiados por decisão judicial ou administrativa de entidades ou serviços legalmente competentes para o efeito ao requerente ou a qualquer dos elementos do agregado familiar, e, bem assim, quem tenha sido autorizado pela BragaHabit a permanecer na habitação;\n\ni) “Dependente”, o elemento do agregado familiar que seja menor ou, tendo idade inferior a 26 anos, não aufira rendimento mensal líquido superior ao indexante dos apoios sociais;\n\nj) “Pessoa portadora de deficiência”, a pessoa com deficiência com grau comprovado de incapacidade igual ou superior a 60 %;\n\nk) “Fator de capitação”, a percentagem resultante da ponderação da composição do agregado familiar, de acordo com a tabela constante do Anexo I ao presente Regulamento;\n\nl) “Indexante dos apoios sociais”, o valor fixado nos termos da Lei n.º 53-B/2006, de 29 de dezembro, alterada pela Lei n.º 3-B/2010, de 28 de abril;\n\nm) “Rendimento mensal líquido” (RML), o duodécimo da soma dos rendimentos anuais líquidos de todos os membros do agregado familiar, sendo o rendimento anual líquido de cada membro obtido:\n\ni) Subtraindo ao rendimento global o valor da coleta líquida, nos termos do n.º 2 do presente artigo; caso os rendimentos se reportem a período inferior a um ano, considera-se a proporção correspondente ao número de meses em causa;\n\nii) Sendo zero o valor da coleta líquida ou não tendo legalmente havido lugar à entrega de declaração de rendimentos nos termos do Código do Imposto sobre o Rendimento de Pessoas Singulares, calculando o total dos rendimentos anuais auferidos, considerados nos termos do artigo 3.º do Decreto-Lei n.º 70/2010, de 16 de junho, alterado pela Lei n.º 15/2011, de 3 de maio, e pelos Decretos-Leis n.os 113/2011, de 29 de novembro, e 133/2012, de 27 de junho; caso os rendimentos se reportem a período inferior a um ano, considera-se a proporção correspondente ao número de meses em causa;\n\nn) “Rendimento mensal corrigido” (RMC), o rendimento mensal líquido deduzido das quantias indicadas de seguida:\n\n1) 10 % do indexante dos apoios sociais pelo primeiro dependente;\n\n2) 15 % do indexante dos apoios sociais pelo segundo dependente;\n\n3) 20 % do indexante dos apoios sociais por cada dependente além do segundo;\n\n4) 10 % do indexante dos apoios sociais por cada deficiente, que acresce aos anteriores se também couber na definição de dependente;\n\n5) 10 % do indexante dos apoios sociais por cada elemento do agregado familiar com idade igual ou superior a 65 anos;\n\n6) 20 % do indexante dos apoios sociais em caso de família monoparental;\n\n7) A quantia resultante da aplicação do fator de capitação, constante do Anexo I do presente Regulamento, ao indexante dos apoios sociais;\n\no) “Prestação à entidade bancária”, valor devido mensalmente à entidade bancária pelo empréstimo à habitação, não se incluindo quaisquer outras despesas ou valores que não decorram de empréstimo bancário desta natureza;\n\np) “Património mobiliário”, o valor em depósitos bancários, ações, obrigações, certificados de aforro, títulos de participação e unidades de participação em instituições de investimento coletivo ou outros ativos financeiros;\n\nq) “Lista de ordenação”, lista de candidaturas existente na página da Internet que se encontra ordenada por ordem decrescente de pontuação (determinada em função dos critérios de hierarquização) para acesso a um apoio à habitação.\n\n2 - Para efeitos da alínea m) do número anterior, os valores do rendimento global e da coleta líquida correspondem aos constantes da declaração de rendimentos das pessoas singulares, validada pela Autoridade Tributária e Aduaneira (AT) e respeitante ao ano anterior, que podem igualmente ser enviados por esta para as entidades detentoras de habitação em regime de arrendamento apoiado através de comunicação eletrónica de dados, aplicando-se o disposto no artigo 45.º, com as necessárias adaptações."
+  },
+  "1170497375": {
+   "fragment_id": "1170497275",
+   "type": 1,
+   "heading": "Capítulo II — REGIME DE ARRENDAMENTO APOIADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — REGIME DE ARRENDAMENTO APOIADO"
+  },
+  "1170497575": {
+   "fragment_id": "1170497475",
+   "type": 10,
+   "heading": "Subcapítulo I — CONDIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo I — CONDIÇÕES GERAIS"
+  },
+  "1170497775": {
+   "fragment_id": "1170497675",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito e finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito e finalidade\n\n1 - O arrendamento apoiado é o regime legal aplicável às habitações detidas, a qualquer título, pela BragaHabit, e que por esta sejam arrendadas com rendas calculadas em função dos rendimentos dos agregados familiares a que se destinam.\n\n2 - Em tudo o que não se encontre especialmente previsto neste Regulamento é aplicável o disposto na legislação em vigor, nomeadamente, o Regime do Arrendamento Apoiado, aprovado pela Lei n.º 81/2014, de 19 de dezembro, na sua redação atual.\n\n3 - As habitações arrendadas em Regime de Arrendamento Apoiado destinam-se exclusivamente à residência permanente dos agregados familiares aos quais são atribuídas, proibindo-se qualquer forma de cedência, total ou parcial, temporária ou permanente e onerosa ou gratuita, do gozo da habitação por parte do arrendatário ou de qualquer elemento do seu agregado familiar, nomeadamente a cessão da posição contratual, o subarrendamento, a hospedagem ou o comodato.\n\n4 - Compete à BragaHabit assegurar as condições necessárias para garantir o fim a que se destina o arrendamento, viabilizando a adoção de medidas de conservação do respetivo parque habitacional."
+  },
+  "1170500975": {
+   "fragment_id": "1170500875",
+   "type": 10,
+   "heading": "Subcapítulo II — ACESSO E ATRIBUIÇÃO DAS HABITAÇÕES EM REGIME DE ARRENDAMENTO APOIADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo II — ACESSO E ATRIBUIÇÃO DAS HABITAÇÕES EM REGIME DE ARRENDAMENTO APOIADO"
+  },
+  "1170501175": {
+   "fragment_id": "1170501075",
+   "type": 8,
+   "heading": "Secção I — ACESSO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — ACESSO"
+  },
+  "1170497975": {
+   "fragment_id": "1170497875",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso\n\n1 - Podem aceder à atribuição de habitações em Regime de Arrendamento Apoiado os cidadãos nacionais e os cidadãos estrangeiros detentores de títulos válidos de permanência no território nacional que reúnam as condições estabelecidas na lei e no presente Regulamento, e que não estejam em nenhuma das situações de impedimento previstas no artigo seguinte.\n\n2 - Os candidatos têm de ser maiores de 18 anos e reunir as seguintes condições:\n\na) Residência efetiva de forma contínua no concelho de Braga, no mínimo, nos últimos três anos em relação ao da candidatura;\n\nb) Auferir qualquer tipo de rendimento devidamente comprovado e que permita o pagamento da renda;\n\nc) (Revogada.)\n\n3 - A atribuição de uma habitação em Regime de Arrendamento Apoiado confere à BragaHabit o direito de aceder aos dados do arrendatário e dos membros do respetivo agregado familiar para fins de informação ou de confirmação dos dados por eles declarados nos termos regulados na Lei n.º 81/2014, de 19 de dezembro.\n\n4 - Ao acesso e à atribuição das habitações é aplicável o regime previsto na referida Lei n.º 81/2014, de 19 de dezembro, o presente Regulamento e o Código do Procedimento Administrativo."
+  },
+  "1170498175": {
+   "fragment_id": "1170498075",
+   "type": 11,
+   "heading": "Artigo 6.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Impedimentos\n\n1 - Está impedido de tomar ou manter o arrendamento de uma habitação em Regime de Arrendamento Apoiado quem se encontre numa das seguintes situações:\n\na) Seja proprietário, usufrutuário, arrendatário ou detentor a outro título de prédio urbano ou de fração autónoma de prédio urbano destinado a habitação, localizado no concelho ou em concelho limítrofe, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo, salvo se fizer prova da cessação de tal direito ou detenção;\n\nb) Esteja a usufruir de apoios financeiros públicos para fins habitacionais, cônjuge ou unido de facto com o titular de uma habitação pública já atribuída, sem prejuízo do disposto no artigo 18.º, salvo se fizer prova da cessação da concessão de tais apoios;\n\nc) Tenha beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento;\n\nd) Para efeito de atribuição ou manutenção de uma habitação em Regime de Arrendamento Apoiado, haja, no período dos dois anos anteriores à data da candidatura, prestado declarações falsas, ou omitido informação relevante à BragaHabit;\n\ne) Tendo beneficiado de qualquer apoio à habitação concedido pela BragaHabit, haja, no período dos cinco anos anteriores à data da candidatura, cedido tal habitação a terceiros, a qualquer título, total ou parcialmente, de forma gratuita ou onerosa;\n\nf) Tendo beneficiado de qualquer apoio à habitação concedido pela BragaHabit nos últimos cinco anos, ou o seu contrato tenha sido resolvido com fundamento na violação de qualquer uma das obrigações do arrendatário;\n\ng) Tendo beneficiado de qualquer apoio à habitação concedido pela BragaHabit, seja titular de dívida vencida e não paga à BragaHabit, exceto se tal dívida tenha sido objeto de acordo de pagamento, que se encontre em cumprimento pontual há mais de seis meses;\n\nh) Tenha ocupado ilicitamente ou tenha sido sujeito a despejo de uma habitação pertencente à BragaHabit no período dos cinco anos anteriores à data da candidatura.\n\ni) Tenha recusado habitação sem justificação séria e fundamentada no período dos dois anos anteriores à data da candidatura.\n\n2 - No caso previsto na alínea a) do n.º 1, quando for invocado e comprovado que o prédio ou fração não está em condições de satisfazer o fim habitacional ou que o direito relativo ao mesmo é detido ou foi adquirido apenas em parte por membros do agregado familiar, cabe à BragaHabit avaliar a situação e decidir sobre o acesso deste agregado à atribuição de habitação ou à manutenção do arrendamento, consoante o caso.\n\n3 - O arrendatário deve comunicar à BragaHabit a existência de uma situação de impedimento, no seu caso ou no de qualquer membro do seu agregado familiar, no prazo máximo de 30 dias a contar da data da ocorrência.\n\n4 - (Revogado.)"
+  },
+  "1170501475": {
+   "fragment_id": "1170501375",
+   "type": 8,
+   "heading": "Secção II — ATRIBUIÇÃO DAS HABITAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — ATRIBUIÇÃO DAS HABITAÇÕES"
+  },
+  "1170498375": {
+   "fragment_id": "1170498275",
+   "type": 3,
+   "heading": "Subsecção I — PROCEDIMENTO DE ATRIBUIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — PROCEDIMENTO DE ATRIBUIÇÃO"
+  },
+  "1170501875": {
+   "fragment_id": "1170501775",
+   "type": 11,
+   "heading": "Artigo 7.º — Concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Concurso\n\n1 - Sem prejuízo da possibilidade de recurso a outros procedimentos legalmente admissíveis para atribuição de habitações em Regime de Arrendamento Apoiado, a BragaHabit optará, preferencialmente, pelo regime de Concurso por Inscrição.\n\n2 - O Concurso por Inscrição tem por objeto a oferta das habitações que são identificadas, em cada momento, pela BragaHabit, para atribuição em Regime de Arrendamento Apoiado aos candidatos que, de entre os que se encontram, à altura, inscritos em listagem própria, estejam mais bem classificados, em função dos critérios de hierarquização e de ponderação estabelecidos para o efeito.\n\n3 - O concurso por inscrição assume a modalidade com qualificação prévia dos interessados e é composto pelas seguintes fases:\n\na) Apresentação de candidatura e habilitação de candidatos;\n\nb) Qualificação de candidatos;\n\nc) Atribuição de uma habitação."
+  },
+  "1170502075": {
+   "fragment_id": "1170501975",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso ao concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso ao concurso\n\n1 - Os interessados em aceder a qualquer regime de apoio previsto neste Regulamento têm de manifestar a sua vontade e aceitação das condições através da submissão de um formulário de candidatura acompanhado dos documentos que comprovam os dados e as condições determinantes que permitem o acesso aos apoios (Anexo IV).\n\n2 - O procedimento de candidatura é realizado, preferencialmente, através de meios eletrónicos na página oficial da BragaHabit (www.bragahabit.pt).\n\n3 - Cada agregado familiar só pode apresentar uma candidatura e cada pessoa só pode pertencer a um agregado familiar, com exceção dos dependentes com guarda partilhada.\n\n4 - Ao formalizar a candidatura os interessados autorizam expressamente que a BragaHabit processe automaticamente os seus dados para os fins previstos neste Regulamento e para tratamento de dados estatísticos.\n\n5 - O representante do agregado familiar é o único responsável pela recolha do consentimento dos demais membros do agregado familiar para tratamento dos dados pessoais.\n\n6 - Após a apresentação do formulário é analisada e avaliada a candidatura e caso não se verifique nenhum impedimento ou causa de exclusão a BragaHabit procede à inscrição do candidato e respetivo familiar na lista própria e referente ao apoio a que se candidatou."
+  },
+  "1170502375": {
+   "fragment_id": "1170502275",
+   "type": 11,
+   "heading": "Artigo 9.º — Comunicações e notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comunicações e notificações\n\n1 - As notificações e comunicações entre a BragaHabit e os candidatos serão realizadas através de correio eletrónico ou através de mecanismo de notificação automática gerada por sistema incorporado no Sistema Integrado de Gestão da BragaHabit, sem prejuízo de se realizar através de qualquer uma das demais alternativas legalmente previstas.\n\n2 - Nos casos em que os candidatos estejam impossibilitados de ser notificados por via eletrónica devem indicar expressamente essa situação e nomear um representante com essa capacidade, ou optar pela notificação postal.\n\n3 - Considera-se regularmente notificado o interessado sempre que haja recibo de entrega da notificação enviada por correio eletrónico ou notificação enviada por correio postal com aviso de receção para o domicílio indicado pelo interessado (ainda que não tenha sido reclamada)."
+  },
+  "1170503775": {
+   "fragment_id": "1170503675",
+   "type": 11,
+   "heading": "Artigo 10.º — Validade da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Validade da candidatura\n\n1 - A candidatura tem a validade de dois anos a contar da data da sua submissão.\n\n2 - No final do prazo de dois anos a candidatura pode ser renovada, através da entrega da documentação obrigatória atualizada de todos os elementos do agregado familiar.\n\n3 - (Revogado.)\n\n4 - A apresentação de nova candidatura anula a anterior.\n\n5 - Para aferir a manutenção da validade da candidatura a BragaHabit pode, em qualquer fase do procedimento, solicitar a apresentação atualizada dos documentos do agregado familiar para verificar as informações constantes do formulário de candidatura."
+  },
+  "1170522075": {
+   "fragment_id": "1170521975",
+   "type": 11,
+   "heading": "Artigo 11.º — Análise e apreciação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Análise e apreciação da candidatura\n\n1 - Verificando-se a regularidade da candidatura e o preenchimento dos requisitos de acesso a um apoio à habitação a BragaHabit procede à classificação e posicionamento dos candidatos na lista de espera através dos critérios fixados no artigo seguinte.\n\n2 - Sempre que se verifiquem deficiências nas candidaturas apresentadas e não possam ser supridas oficiosamente os interessados serão notificados para, no prazo fixado para o efeito, procederem à sua correção, sob pena de rejeição da candidatura."
+  },
+  "1170521675": {
+   "fragment_id": "1170521575",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de hierarquização e de ponderação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios de hierarquização e de ponderação\n\n1 - A classificação e posicionamento relativo dos candidatos na listagem a que alude o artigo precedente serão atribuídos pela BragaHabit tomando em consideração os critérios de hierarquização e ponderação previstos no número seguinte do presente artigo, nos termos da tabela que constitui Anexo II ao presente Regulamento:\n\n2 - Os critérios gerais de apreciação são os seguintes:\n\na) Antiguidade do pedido de inscrição;\n\nb) Tempo de residência no concelho;\n\nc) Situação habitacional:\n\nResidência em habitação sem condições mínimas de habitabilidade, as quais têm de ser verificadas pela Departamento de Manutenção, Obras e Projetos da BragaHabit e constar de relatório próprio;\n\nCoabitação com familiares ou amigos em regime de sobrelotação;\n\nResidência em pensões, quartos ou partes de casa arrendados sem apoio institucional;\n\nd) Situação social e familiar:\n\nTipo de família;\n\nElementos portadores de deficiência ou problemas de saúde permanentes e incapacitantes;\n\nVítimas de violência doméstica;\n\ne) Análise e parecer técnico.\n\n3 - (Revogado.)"
+  },
+  "1170521875": {
+   "fragment_id": "1170521775",
+   "type": 11,
+   "heading": "Artigo 13.º — Critérios de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Critérios de atribuição\n\n1 - As habitações em regime de renda apoiada serão atribuídas em conformidade com a tipologia e caracterização dos fogos habitacionais disponíveis em cada momento.\n\n2 - A atribuição respeitará a ordem das candidaturas constantes na lista de espera e será realizada de acordo com a adequação da tipologia ao agregado familiar.\n\n3 - Os candidatos com as pontuações mais elevadas são notificados para, no sítio eletrónico, procederem à submissão dos documentos referidos no Anexo IV para atualização da informação e verificação da manutenção dos requisitos de acesso."
+  },
+  "1170524975": {
+   "fragment_id": "1170524875",
+   "type": 11,
+   "heading": "Artigo 14.º — Adequação da habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Adequação da habitação\n\n1 - A habitação atribuída em Regime de Arrendamento Apoiado deve ser de tipologia adequada à composição do agregado familiar, por forma a evitar situações de sobreocupação ou de subocupação.\n\n2 - A adequação da habitação é verificada pela relação entre a tipologia e a composição do agregado familiar de acordo com a tabela constante do Anexo III ao presente Regulamento, que dele faz parte integrante."
+  },
+  "1170522375": {
+   "fragment_id": "1170522275",
+   "type": 11,
+   "heading": "Artigo 15.º — Deliberação da atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Deliberação da atribuição\n\n1 - A BragaHabit delibera a atribuição da habitação em regime de renda apoiada mediante proposta técnica fundamentada com base nos requisitos de acesso, ordenação na lista e adequação do fogo.\n\n2 - A decisão de atribuição de habitação em regime de renda apoiada é notificada ao representante do agregado familiar, contendo a identificação do fogo, indicação da tipologia, do valor da renda que será fixada e a indicação do dia e hora para a celebração do contrato de arrendamento."
+  },
+  "1170525375": {
+   "fragment_id": "1170525275",
+   "type": 11,
+   "heading": "Artigo 16.º — Mobilidade excecional inter-regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Mobilidade excecional inter-regimes\n\nAos beneficiários do RADA e subarrendatários no Regime de Subarrendamento Apoiado pode, excecionalmente, e sob proposta dos serviços técnicos da BragaHabit, ser diretamente entregue habitação no Regime de Arrendamento Apoiado ou no Regime de Subarrendamento Apoiado, sem necessidade de integração na listagem prevista no artigo 7.º e de aplicação do disposto no artigo 12.º do presente Regulamento."
+  },
+  "1170525575": {
+   "fragment_id": "1170525475",
+   "type": 11,
+   "heading": "Artigo 17.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Exclusão\n\n1 - No âmbito ou para efeito de qualquer dos procedimentos de atribuição de uma habitação são causas de exclusão da candidatura ou do cancelamento da inscrição a ocorrência de uma das seguintes situações:\n\na) A não verificação de qualquer um dos requisitos das condições de acesso previstas no artigo 5.º;\n\nb) A prestação de falsas declarações pelo candidato ou pelos membros do agregado familiar;\n\nc) A omissão dolosa de informação pelo candidato ou pelos membros do agregado familiar;\n\nd) A utilização de meio fraudulento por parte do candidato ou membros do agregado familiar;\n\ne) A falta de comunicação e prestação à BragaHabit, nos prazos previstos, das informações obrigatórias nos termos da lei e do presente Regulamento, designadamente as relativas a impedimentos e à composição e rendimentos do agregado familiar;\n\nf) A falta de entrega à BragaHabit dos elementos adequados e necessários à verificação das circunstâncias que determinam a candidatura ao apoio;\n\ng) A omissão ou a incorreção de dados no preenchimento do formulário da candidatura;\n\nh) O conhecimento pela BragaHabit da existência de uma das situações de impedimento previstas no artigo 6.º do presente Regulamento;\n\ni) O comportamento desrespeitoso e/ou agressivo do candidato ou membros do seu agregado familiar ou outros familiares sobre quaisquer técnicos ou funcionários da BragaHabit ou pessoas mandatadas por esta para intervirem na área do seu parque habitacional.\n\n2 - A verificação de uma ou mais causas de exclusão conduz ao indeferimento da candidatura."
+  },
+  "1170527775": {
+   "fragment_id": "1170527675",
+   "type": 8,
+   "heading": "Secção III — REGIME EXCECIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — REGIME EXCECIONAL"
+  },
+  "1170530675": {
+   "fragment_id": "1170530575",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime excecional\n\n1 - Têm acesso à atribuição de habitações em Regime de Arrendamento Apoiado os indivíduos e os agregados familiares que se encontrem em situação de necessidade habitacional urgente e temporária, designadamente decorrente de desastres naturais e calamidades ou de outras situações equiparadas de vulnerabilidade e emergência social e perigo físico ou moral para as pessoas, incluindo as vítimas de violência doméstica, não sendo aplicáveis as disposições do presente regime que sejam incompatíveis com a natureza da situação, incluindo as disposições da secção anterior.\n\n2 - Nos casos previstos no número anterior, as condições de adequação e de utilização das habitações são definidas pela BragaHabit em função da situação de necessidade habitacional que determina a respetiva atribuição.\n\n3 - As situações de necessidade urgente referidas no n.º 1 serão necessariamente atestadas por entidades competentes ou órgãos públicos tais como Tribunais, Ministério Público, Serviços de Proteção Civil, Câmara Municipal de Braga ou Instituto da Segurança Social.\n\n4 - Em qualquer dos casos previstos no presente artigo, o apoio prestado pela BragaHabit tem caráter provisório, não devendo exceder o período de um ano, podendo ser renovável por períodos idênticos mediante fundamentação atestada pelas entidades referidas no número anterior."
+  },
+  "1170531475": {
+   "fragment_id": "1170531375",
+   "type": 8,
+   "heading": "Secção IV — RECUSA DE HABITAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — RECUSA DE HABITAÇÃO"
+  },
+  "1170532775": {
+   "fragment_id": "1170532675",
+   "type": 11,
+   "heading": "Artigo 19.º — Recusa de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Recusa de habitação\n\n1 - Considera-se recusa da habitação a ocorrência de uma destas situações:\n\na) Comunicação de desistência até à data da assinatura do contrato de arrendamento;\n\nb) Falta de comparência no dia e hora designado para a celebração do contrato de arrendamento;\n\nc) Comunicação de não-aceitação da habitação, exceto por motivos imperiosos e devidamente fundamentados e comprovados relacionados com as condições da habitação e problemas de saúde como mobilidade reduzida, incapacidade física e doença crónica.\n\n2 - A recusa, pelo arrendatário, da habitação atribuída pela BragaHabit nos termos e condições previstos no presente capítulo implicará a cessação do apoio concedido e a exclusão do candidato da listagem prevista no artigo 7.º do presente Regulamento.\n\n3 - Durante o período de dois anos que se seguir à exclusão prevista no ponto anterior o candidato não beneficiará de qualquer das bonificações previstas no n.º 2 do artigo 12.º do presente Regulamento como “Critérios gerais de apreciação”."
+  },
+  "1170532275": {
+   "fragment_id": "1170532175",
+   "type": 8,
+   "heading": "Secção V — EXTINÇÃO DO PROCEDIMENTO DE ATRIBUIÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — EXTINÇÃO DO PROCEDIMENTO DE ATRIBUIÇÃO"
+  },
+  "1170533175": {
+   "fragment_id": "1170533075",
+   "type": 11,
+   "heading": "Artigo 20.º — Extinção do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Extinção do procedimento\n\nO procedimento é extinto quando se verifique uma destas situações:\n\na) Decisão de indeferimento;\n\nb) Desistência do pedido;\n\nc) Atribuição de um apoio à habitação;\n\nd) Caducidade da candidatura;\n\ne) Cessação da situação de carência económica e habitacional."
+  },
+  "1170522975": {
+   "fragment_id": "1170522875",
+   "type": 10,
+   "heading": "Subcapítulo III — CONTRATO DE ARRENDAMENTO APOIADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo III — CONTRATO DE ARRENDAMENTO APOIADO"
+  },
+  "1170533375": {
+   "fragment_id": "1170533275",
+   "type": 8,
+   "heading": "Secção I — CONDIÇÕES CONTRATUAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — CONDIÇÕES CONTRATUAIS"
+  },
+  "1170533975": {
+   "fragment_id": "1170533875",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regime do contrato\n\n1 - O contrato de arrendamento apoiado rege-se pelo disposto na Lei n.º 81/2014, de 19 de dezembro, pelo presente Regulamento e pelo Código Civil.\n\n2 - Sem prejuízo do disposto no número anterior, o contrato de arrendamento apoiado tem a natureza de contrato administrativo, estando sujeito, no que seja aplicável, ao respetivo regime jurídico.\n\n3 - Compete ao Tribunal Administrativo e Fiscal de Braga conhecer das matérias relativa à invalidade ou cessação dos contratos de arrendamento apoiado celebrados pela BragaHabit."
+  },
+  "1170534175": {
+   "fragment_id": "1170534075",
+   "type": 11,
+   "heading": "Artigo 22.º — Forma e conteúdo do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Forma e conteúdo do contrato\n\n1 - O contrato de arrendamento apoiado é celebrado por escrito, sempre que possível através de documento eletrónico com assinatura eletrónica qualificada, e contém, pelo menos, as seguintes menções:\n\na) O regime legal do arrendamento;\n\nb) A identificação do senhorio - BragaHabit;\n\nc) A identificação do arrendatário ou arrendatários e de todos os elementos do agregado familiar;\n\nd) A identificação e a localização do locado;\n\ne) O prazo do arrendamento;\n\nf) O valor da renda inicial e a forma de atualização e de revisão da mesma;\n\ng) O tempo, o lugar e a forma de pagamento da renda;\n\nh) A periodicidade, anual, da apresentação da declaração de rendimentos do agregado familiar;\n\ni) O consentimento previsto no n.º 6 do artigo 29.º do presente Regulamento, se aplicável;\n\nj) A entrega, pela BragaHabit, com a celebração do contrato, do “Guia do Morador” e de documento com registo fotográfico do estado de conservação da habitação.\n\n2 - Do contrato de arrendamento, deve igualmente constar, para efeitos meramente informativos, o valor que corresponderia ao montante real da renda sem o apoio, calculado nos termos do artigo 35.º/n.º 2 a) e b) do NRAU.\n\n3 - A BragaHabit poderá, em condições excecionais, assumir a responsabilidade pelo pagamento das despesas e contribuições a pagar ao condomínio, respeitante à fração ou parte de prédio arrendados, já definidas ou a definir, nos termos e limites a incluir expressamente no contrato de arrendamento.\n\n4 - Nos casos em que a BragaHabit assuma encargos com o respetivo condomínio, poderá tal encargo ou parte do encargo ser transferido para os arrendatários, definindo, neste caso, expressamente o respetivo contrato os critérios e limite máximo dos pagamentos a efetuar.\n\n5 - Nos casos previstos no artigo 18.º do presente Regulamento, a habitação pode ser atribuída em arrendamento mediante registo em livro ou em suporte informático contendo a identificação dos indivíduos e dos membros dos agregados familiares que se encontrem em situação de necessidade habitacional urgente e temporária, a data da respetiva admissão e o montante da renda."
+  },
+  "1170534375": {
+   "fragment_id": "1170534275",
+   "type": 11,
+   "heading": "Artigo 23.º — Duração e renovação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Duração e renovação do contrato\n\n1 - O contrato de arrendamento apoiado é celebrado pelo prazo de 10 anos.\n\n2 - Findo o prazo do arrendamento, o contrato renova-se, automaticamente, por igual período.\n\n3 - (Revogado.)\n\n4 - (Revogado.)"
+  },
+  "1170523175": {
+   "fragment_id": "1170523075",
+   "type": 11,
+   "heading": "Artigo 24.º — Ocupação da habitação arrendada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Ocupação da habitação arrendada\n\n1 - O arrendatário e respetivo agregado familiar deverão ocupar a habitação arrendada no prazo máximo de 30 dias a contar da entrega das chaves.\n\n2 - A não ocupação injustificada é considerada como recusa da habitação.\n\n3 - A inexistência de contadores legais de fornecimento de água, energia e gás (quando aplicável) é equiparada a não ocupação efetiva."
+  },
+  "1170539475": {
+   "fragment_id": "1170539375",
+   "type": 11,
+   "heading": "Artigo 25.º — Vencimento e pagamento da renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Vencimento e pagamento da renda\n\n1 - Salvo estipulação em contrário, a primeira renda vence-se no primeiro dia útil do mês a que respeita, vencendo-se cada uma das restantes no primeiro dia útil de cada mês subsequente.\n\n2 - O pagamento da renda deve ser efetuado no dia do seu vencimento e no lugar e pela forma estabelecidos no contrato.\n\n3 - Quando o pagamento da renda seja efetuado por transferência ou débito em conta bancária do arrendatário, o comprovativo do respetivo movimento é equiparado a recibo para todos os efeitos legais.\n\n4 - Decorrido o prazo máximo de 10 dias previsto no n.º 1 deste artigo sem que a renda tenha sido paga vencer-se-ão juros de mora à taxa legal em vigor.\n\n5 - Em caso de mora pode ser celebrado um acordo de liquidação de dívida."
+  },
+  "1170539675": {
+   "fragment_id": "1170539575",
+   "type": 11,
+   "heading": "Artigo 26.º — Valor da renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Valor da renda\n\nO valor da renda em Regime de Arrendamento Apoiado é determinado pela aplicação de uma taxa de esforço ao rendimento mensal corrigido do agregado familiar, sendo a taxa de esforço (T) o valor, arredondado à milésima, que resulta da seguinte fórmula:\n\nT = 0,067 × (RMC/IAS)\n\nem que:\n\nT = taxa de esforço;\n\nRMC = rendimento mensal corrigido do agregado familiar;\n\nIAS = indexante dos apoios sociais."
+  },
+  "1170539875": {
+   "fragment_id": "1170539775",
+   "type": 11,
+   "heading": "Artigo 27.º — Taxa de esforço máxima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Taxa de esforço máxima\n\nA taxa de esforço máxima não pode ser superior a 23 % do rendimento mensal corrigido do agregado familiar do arrendatário."
+  },
+  "1170540075": {
+   "fragment_id": "1170539975",
+   "type": 11,
+   "heading": "Artigo 28.º — Renda máxima e mínima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Renda máxima e mínima\n\n1 - A renda em Regime de Arrendamento Apoiado não pode ser de valor inferior a 1 % do indexante dos apoios sociais (IAS) vigente em cada momento, arredondado à unidade.\n\n2 - A renda máxima em Regime de Arrendamento Apoiado é a renda máxima aplicável aos contratos de arrendamento para fim habitacional em regime de renda condicionada."
+  },
+  "1170540275": {
+   "fragment_id": "1170540175",
+   "type": 11,
+   "heading": "Artigo 29.º — Atualização e revisão da renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Atualização e revisão da renda\n\n1 - Sem prejuízo do disposto nos números seguintes, a renda pode ser atualizada anualmente, de acordo com os coeficientes de atualização vigentes, nos termos previstos no n.º 2 do artigo 1077.º do Código Civil.\n\n2 - Há igualmente lugar à revisão da renda a pedido do arrendatário nas situações de:\n\na) Alteração na composição ou nos rendimentos do agregado familiar, devendo o arrendatário comunicar o facto à BragaHabit no prazo máximo de 30 dias a contar da data da ocorrência;\n\nb) Aplicação da correção prevista na alínea n) do artigo 3.º do presente Regulamento em caso de superveniência de situações de incapacidade igual ou superior a 60 % ou de idade igual ou superior a 65 anos relativas a qualquer elemento do agregado familiar.\n\n3 - A BragaHabit pode proceder à revisão da renda a todo o tempo com os fundamentos indicados no número anterior.\n\n4 - A reavaliação, pela BragaHabit, das circunstâncias que determinam o valor da renda realiza-se, no mínimo a cada dois anos, no mês de celebração do contrato, sem prejuízo do disposto na alínea b) do n.º 1 do artigo 35.º do presente Regulamento.\n\n5 - No âmbito de qualquer dos processos de revisão da renda, o arrendatário entregará à BragaHabit os elementos que se mostrem adequados e necessários à verificação das circunstâncias que determinam a revisão da renda, designadamente os previstos no ANEXO IV, sem prejuízo de a BragaHabit o poder notificar para esse efeito.\n\n6 - A apresentação mencionada no número anterior pode ser dispensada relativamente a documentos administrativos, desde que o arrendatário preste o seu consentimento para que estes possam ser consultados, nos termos do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, na redação que lhe foi dada pelo Decreto-Lei n.º 73/2014, de 13 de maio.\n\n7 - A renda atualizada ou revista nos termos dos números anteriores é devida no segundo mês subsequente ao da data da receção, pelo arrendatário, da comunicação da BragaHabit com o respetivo valor.\n\n8 - Quando da revisão da renda resulte o seu aumento e as comunicações do arrendatário tenham sido realizadas fora dos prazos previstos no n.º 2 ou nos n.os 5 e 4 do presente artigo, a BragaHabit pode exigir-lhe o pagamento do montante correspondente a 1,25 da diferença entre a renda paga e a renda que seria devida desde a data da alteração.\n\n9 - A não atualização ou a não revisão da renda por motivo imputável à BragaHabit impossibilita-a de recuperar os montantes que lhe seriam devidos a esse título.\n\n10 - Não há lugar a aumento da renda por efeito de atualização quando, em resultado de vistoria técnica à habitação por parte da BragaHabit, se constate um estado de conservação mau ou péssimo não imputável arrendatário e enquanto tal condição persistir.\n\n11 - Quando no âmbito de processos de regularização de dívida o valor da renda revista representar um aumento superior ao dobro da renda anterior, há lugar à sua aplicação faseada nos primeiros três anos contados desde a data da celebração do acordo de liquidação de dívida."
+  },
+  "1170540475": {
+   "fragment_id": "1170540375",
+   "type": 11,
+   "heading": "Artigo 30.º — Acordos de pagamento em prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Acordos de pagamento em prestações\n\n1 - Quando por prova de grave carência económica, devidamente comprovada, o arrendatário não proceder ao pagamento das rendas, despesas e encargos de condomínio e/ou obras da sua responsabilidade, pode ser celebrado um acordo de pagamento em prestações.\n\n2 - A celebração de um acordo nos termos referidos no número anterior está dependente da apresentação, por escrito, de uma proposta de pagamento.\n\n3 - A proposta será acompanhada dos documentos e relatório que comprovem a situação económica do arrendatário e respetivo agregado familiar, para posterior deliberação."
+  },
+  "1170540675": {
+   "fragment_id": "1170540575",
+   "type": 11,
+   "heading": "Artigo 31.º — Transmissão da posição de arrendatário em vida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Transmissão da posição de arrendatário em vida\n\n1 - O destino do locado, em caso de divórcio ou de separação judicial de pessoas e bens entre o arrendatário e cônjuge, é decidido por acordo dos cônjuges, podendo estes optar pela transmissão ou pela concentração a favor de um deles.\n\n2 - Na falta de acordo, cabe ao tribunal decidir, tendo em conta a necessidade de cada um, os interesses dos filhos e outros fatores relevantes.\n\n3 - A transferência ou a concentração acordadas e homologadas pelo juiz ou pelo conservador do registo civil ou a decisão judicial a elas relativa são notificadas oficiosamente ao BragaHabit."
+  },
+  "1170523375": {
+   "fragment_id": "1170523275",
+   "type": 11,
+   "heading": "Artigo 32.º — Transmissão da posição de arrendatário por morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Transmissão da posição de arrendatário por morte\n\n1 - O arrendamento para habitação não caduca por morte do arrendatário quando lhe sobreviva:\n\na) Cônjuge com residência no locado;\n\nb) Pessoa que com ele vivesse em união de facto há mais de um ano, desde que tal facto haja sido comunicado à BragaHabit nos termos da alínea a) do n.º 1 artigo 35.º do presente Regulamento;\n\nc) Pessoa que com ele vivesse em economia comum há mais de um ano desde que tal facto haja sido comunicado à BragaHabit nos termos da alínea a) do n.º 1 do artigo 35.º do presente Regulamento.\n\n2 - Nos casos previstos nas alíneas b) e c) do número anterior, a transmissão da posição de arrendatário depende de, à data da morte do arrendatário, o transmissário residir no locado há mais de um ano desde que devidamente autorizados pela BragaHabit.\n\n3 - Havendo várias pessoas com direito à transmissão, a posição do arrendatário transmite-se, em igualdade de circunstâncias, sucessivamente para o cônjuge sobrevivo ou pessoa que com o falecido vivesse em união de facto, para o parente ou afim mais próximo ou, de entre estes, para o mais velho ou para a mais velha de entre as restantes pessoas que com ele residissem em economia comum.\n\n4 - O direito à transmissão previsto nos números anteriores não se verifica se, à data da morte do arrendatário, o titular desse direito preencha qualquer dos fundamentos de impedimento previstos no artigo 6.º do presente Regulamento.\n\n5 - A morte do arrendatário nos seis meses anteriores à data da cessação do contrato dá ao transmissário o direito de permanecer no local por período não inferior a seis meses a contar do decesso."
+  },
+  "1170540875": {
+   "fragment_id": "1170540775",
+   "type": 11,
+   "heading": "Artigo 33.º — Transferência de habitação a título definitivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Transferência de habitação a título definitivo\n\n1 - A BragaHabit pode promover a transferência definitiva do agregado familiar em caso de desadequação superveniente da tipologia da habitação, nos termos do ANEXO III, ou mau estado da habitação.\n\n2 - A transferência do agregado familiar para outra habitação pode ocorrer a pedido do arrendatário quando se verifique e comprove uma das seguintes situações:\n\na) Motivos de saúde ou mobilidade reduzida, incompatíveis com as condições da habitação;\n\nb) Situação sociofamiliar de extrema gravidade e a transferência seja necessária para exclusiva proteção e salvaguarda da vítima;\n\nc) Desadequação da tipologia atribuída face à evolução do agregado;\n\nd) Degradação da habitação por responsabilidade não imputável ao arrendatário e respetivo agregado.\n\n3 - No caso da alínea b) do número anterior o pedido de transferência pode ser efetuado por qualquer interessado.\n\n4 - O pedido do arrendatário tem de ser formulado por escrito e instruído com os documentos que o fundamentam.\n\n5 - A BragaHabit pode, ainda, promover a transferência do agregado familiar para outra habitação por razões de gestão do seu parque habitacional.\n\n6 - A decisão de transferência definitiva de habitação, tomada após audição do interessado, implica a extinção do contrato de arrendamento vigente e a atribuição de uma nova habitação, no mesmo concelho da anterior habitação, dentro da disponibilidade do referido parque habitacional.\n\n7 - A decisão da BragaHabit referida no número antecedente é realizada por comunicação com identificação do endereço da nova habitação, menção da obrigação de desocupação e entrega da habitação em uso, e do prazo fixado para o efeito, nunca inferior a 60 dias, bem como referência à consequência do seu não cumprimento.\n\n8 - O incumprimento por parte da decisão referida nos números antecedentes determina, além da sua execução administrativa, a perda da nova habitação atribuída."
+  },
+  "1170523775": {
+   "fragment_id": "1170523675",
+   "type": 11,
+   "heading": "Artigo 34.º — Transferência de habitação a título provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Transferência de habitação a título provisório\n\n1 - A BragaHabit pode promover a transferência com caráter provisório e temporário do agregado familiar para outra habitação com os seguintes fundamentos:\n\na) Realização de obras de requalificação urbanística;\n\nb) Inundações;\n\nc) Incêndios;\n\nd) Catástrofes naturais (ocorridas ou iminentes);\n\ne) Razões de saúde pública;\n\nf) Risco de ruína;\n\ng) Perigo de integridade física.\n\n2 - A decisão de transferência de habitação com caráter provisório e temporário é comunicada, após audição do interessado, e terá de conter o motivo, o período previsível da ocupação temporária e o prazo fixado para a realização da mudança.\n\n3 - O incumprimento por parte do arrendatário e respetivo agregado familiar da decisão referida no número anterior determina a sua execução administrativa."
+  },
+  "1170542575": {
+   "fragment_id": "1170523875",
+   "type": 8,
+   "heading": "Secção II — OBRIGAÇÕES DO ARRENDATÁRIO E DA BRAGAHABIT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — OBRIGAÇÕES DO ARRENDATÁRIO E DA BRAGAHABIT"
+  },
+  "1170541075": {
+   "fragment_id": "1170540975",
+   "type": 11,
+   "heading": "Artigo 35.º — Obrigações do arrendatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Obrigações do arrendatário\n\n1 - Sem prejuízo das demais obrigações previstas na lei, no presente Regulamento e no contrato, cabe ao arrendatário com contrato de arrendamento apoiado, designadamente:\n\na) Efetuar as comunicações e prestar à BragaHabit, nos prazos previstos, as informações obrigatórias nos termos da lei e do presente Regulamento, designadamente as relativas a impedimentos e à composição e rendimentos do seu agregado familiar, para efeitos de atualização do valor da renda ou quaisquer outros;\n\nb) Entregar à BragaHabit, anualmente, no mês de junho, os elementos que se mostrem adequados e necessários à verificação das circunstâncias que determinam a revisão da renda, designadamente os previstos no ANEXO IV;\n\nc) Utilizar a habitação em permanência, não se ausentando, por um período seguido superior a seis meses, exceto nos casos previstos no n.º 3, comunicados e comprovados, por escrito, junto da BragaHabit.\n\nd) Avisar imediatamente a BragaHabit sempre que tenha conhecimento de qualquer facto ou ato relacionado com a habitação suscetível de causar danos à mesma e ou de pôr em perigo pessoas ou bens;\n\ne) Não realizar obras na habitação sem prévia autorização escrita da BragaHabit;\n\nf) Respeitar as regras de higiene, de sossego, de boa vizinhança ou de normas constantes do regulamento do condomínio;\n\ng) Não usar a habitação para fim diverso daquele a que se destina, ainda que a alteração do uso não implique maior desgaste ou desvalorização para a mesma;\n\nh) Não usar a habitação para fins contrários à lei, à ordem pública ou ofensivo aos bons costumes;\n\ni) Não conservar na habitação mais do que dois animais de estimação (cães ou gatos), salvo prévia autorização da BragaHabit e dentro das normas regulamentares do respetivo condomínio, quando aplicável;\n\nj) Não deixar os animais de estimação nas partes comuns;\n\nk) Proceder à instalação e ligação de contadores de água, energia elétrica e gás, bem como manter o pagamento dos respetivos consumos em dia;\n\nl) Abster-se de proceder à edificação de qualquer tipo de construção nas partes comuns;\n\nm) Não colocar e/ou afixar objetos ou outro tipo de equipamentos em qualquer espaço de utilização comum;\n\nn) Não depositar o lixo fora dos locais destinados para o efeito;\n\no) Não depositar nas zonas comuns alimentos destinados a animais;\n\np) Guardar o lixo em sacos bem acondicionados, que deverão ser colocados nos locais destinados para o efeito;\n\nq) Permitir à BragaHabit a vistoria da habitação sempre que esta o entenda;\n\nr) Manter a habitação nas condições em que foi entregue, sem prejuízo do desgaste resultante de uma normal utilização;\n\ns) Não instalar antenas exteriores de TV, rádio ou similares sem autorização prévia da BragaHabit;\n\nt) Manter a habitação limpa e asseada;\n\nu) Conservar a instalação elétrica e as canalizações de água e esgotos;\n\nv) Zelar pela conservação dos espaços comuns, não o utilizando para uso exclusivo e nem impedindo a sua utilização pelos demais moradores;\n\nw) Não efetuar ligações irregulares de água, eletricidade, gás ou Internet;\n\nx) Não ceder, total ou parcial, temporária ou permanente e onerosa ou gratuita, o gozo da habitação, quando ilícita, inválida ou ineficaz perante a BragaHabit;\n\ny) Restituir a habitação, findo o contrato, no estado em que a recebeu e sem quaisquer deteriorações, salvo as inerentes a uma prudente utilização em conformidade com o fim do contrato e sem prejuízo do pagamento de danos, caso se verifiquem, nos termos do artigo 43.º\n\n2 - Constituem ainda obrigações do arrendatário:\n\na) Pagar pontualmente a sua renda;\n\nb) Pagar pontualmente a quota do condomínio, quando tal obrigação lhe seja contratualmente atribuída;\n\nc) Cumprir as obrigações prescritas no Guia do Morador, entregue pela BragaHabit com a celebração do contrato de arrendamento;\n\nd) Utilizar a habitação de forma prudente e cuidadosa;\n\ne) Reparar e suportar os encargos decorrentes dos danos existentes na habitação e nas partes comuns que tenham sido causados por si ou por qualquer membro do seu agregado familiar e/ou terceiros.\n\n3 - O não uso da habitação por período até dois anos não constitui falta às obrigações do arrendatário desde que seja comprovadamente motivado por uma das seguintes situações:\n\na) Doença regressiva e incapacitante de permanência na habitação;\n\nb) Prestação de trabalho por conta de outrem no estrangeiro ou cumprimento de comissão de serviço público, civil ou militar, em ambos os casos por tempo determinado;\n\nc) Detenção em estabelecimento prisional;\n\nd) Prestação de apoios continuados a pessoas com deficiência com grau de incapacidade igual ou superior a 60 %, incluindo a familiares."
+  },
+  "1170542875": {
+   "fragment_id": "1170542775",
+   "type": 11,
+   "heading": "Artigo 36.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sanções\n\n1 - Sem prejuízo do disposto na secção seguinte quanto à possibilidade de resolução do contrato pela BragaHabit, fica impedido de aceder a uma habitação no Regime de Arrendamento Apoiado, ou a qualquer outro regime de apoio ao arrendamento prestado pela BragaHabit, por um período de dois anos:\n\na) O candidato ou arrendatário que, para efeito de atribuição ou manutenção de uma habitação em Regime de Arrendamento Apoiado, utilize meios fraudulentos, proceda à prestação culposa de declarações falsas ou à omissão dolosa de informação relevante;\n\nb) O arrendatário ou o elemento do agregado familiar do arrendatário que ceda a habitação a terceiros a qualquer título, total ou parcialmente, de forma gratuita ou onerosa;\n\nc) (Revogada.)\n\n2 - O disposto nos números anteriores não prejudica os direitos que, em função da situação, a BragaHabit detenha, nem o procedimento criminal que seja aplicável ao caso nos termos legais.\n\n3 - O não cumprimento das obrigações previstas nos pontos 5 e 6 do artigo 29.º deste Regulamento, implicará a alteração do cálculo do valor da renda que deixará de se fazer de acordo com o disposto do artigo 26.º a 28.º desde mesmo Regulamento, passando a fazer-se em conformidade com o artigo 3.º da Lei n.º 80/2014, de 19 de dezembro, que estabelece o regime de renda condicionada."
+  },
+  "1170541275": {
+   "fragment_id": "1170541175",
+   "type": 11,
+   "heading": "Artigo 37.º — Obrigações da responsabilidade da BragaHabit",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Obrigações da responsabilidade da BragaHabit\n\n1 - A BragaHabit é responsável pela realização das obras ao nível das infraestruturas, coberturas e fachadas, bem como assegurar a realização de obras de conservação, reabilitação e beneficiação dos edifícios, sempre que se mostrem necessárias e desde que seja a única proprietária do prédio.\n\n2 - Sem prejuízo do disposto no número anterior, a BragaHabit é responsável pela realização das obras de adequação da habitação a atribuir a pessoas com mobilidade reduzida, desde que as condições arquitetónicas do imóvel o permitam."
+  },
+  "1170541475": {
+   "fragment_id": "1170541375",
+   "type": 11,
+   "heading": "Artigo 38.º — Obras de conservação a cargo do arrendatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Obras de conservação a cargo do arrendatário\n\n1 - Compete ao arrendatário realizar as obras de mera conservação e limpeza do interior das habitações, bem como as reparações necessárias que não alterem a estrutura da mesma, designadamente substituição e reparação de torneiras, interruptores, louças sanitárias, autoclismos, armários de cozinha, manutenção ou substituição do revestimento de pavimentos, rodapés, portas e pinturas e manutenção e preservação da rede de água e esgotos, da rede de gás, dos circuitos elétricos e outras instalações técnicas, ressalvando-se as deteriorações inerentes a uma prudente utilização.\n\n2 - O arrendatário é responsável por todas as obras de reparação dos danos verificados quer no interior da habitação, quer nas partes comuns, desde que tenham sido causados por si, qualquer membro do agregado familiar ou terceiros, ainda que involuntariamente.\n\n3 - A realização das obras referidas nos números anteriores não dispensa a apresentação por escrito do pedido de autorização prévia.\n\n4 - Findo o arrendamento o arrendatário não terá direito a se compensado pelas obras realizadas na habitação, tenham ou não sido autorizadas pela BragaHabit."
+  },
+  "1170543075": {
+   "fragment_id": "1170542975",
+   "type": 11,
+   "heading": "Artigo 39.º — Incumprimento da realização das obras a cargo do arrendatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Incumprimento da realização das obras a cargo do arrendatário\n\n1 - A BragaHabit notificará o arrendatário para executar, a expensas suas, as obras necessárias às reparações dos danos que tenham sido causados por si, membro do agregado familiar e/ou terceiros.\n\n2 - Decorrido o prazo fixado na notificação referida no número anterior e caso o arrendatário não tenha realizado as obras, a BragaHabit irá proceder à sua realização a expensas daquele, comunicando-lhe previamente a data que se propõe realizá-las e o respetivo custo, devidamente orçamentado, que incluirá o custo administrativo.\n\n3 - Após a conclusão das obras o arrendatário será notificado para efetuar o pagamento das despesas das obras no prazo máximo de 30 dias.\n\n4 - Findo o prazo estabelecido para o pagamento voluntário da despesa sem que o arrendatário o tenha feito, a BragaHabit emitirá a respetiva certidão de dívida e será instaurado o competente processo de execução fiscal."
+  },
+  "1170542275": {
+   "fragment_id": "1170542175",
+   "type": 11,
+   "heading": "Artigo 40.º — Acesso e vistoria à habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Acesso e vistoria à habitação\n\n1 - A BragaHabit pode aceder e vistoriar a todo o tempo a habitação com as seguintes finalidades, entre outras:\n\na) Verificar o estado de conservação;\n\nb) Fiscalizar o cumprimento das obrigações do arrendatário impostas na lei e no presente Regulamento;\n\nc) Executar os trabalhos indispensáveis à prossecução das suas obrigações e da sua atividade, tais como operações técnicas de vistoria e execução de trabalhos de reabilitação.\n\n2 - A recusa injustificada em permitir o acesso à habitação constitui um incumprimento das obrigações previstas no artigo 35.º e causa de resolução do contrato de arrendamento."
+  },
+  "1170543275": {
+   "fragment_id": "1170543175",
+   "type": 8,
+   "heading": "Secção III — CESSAÇÃO DO CONTRATO DE ARRENDAMENTO APOIADO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — CESSAÇÃO DO CONTRATO DE ARRENDAMENTO APOIADO"
+  },
+  "1170545775": {
+   "fragment_id": "1170545675",
+   "type": 11,
+   "heading": "Artigo 41.º — Resolução pela BragaHabit",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Resolução pela BragaHabit\n\n1 - Além de outras causas de resolução previstas nos termos do regime do arrendamento consagrado no Código Civil e no presente Regulamento, constituem causas de resolução do contrato de arrendamento apoiado pela BragaHabit:\n\na) O incumprimento de qualquer das obrigações previstas nos artigos 35.º, 38.º e 39.º do presente Regulamento, pelo arrendatário, ou pelas pessoas do seu agregado familiar;\n\nb) O conhecimento pela BragaHabit da existência de uma das situações de impedimento previstas no artigo 6.º do presente Regulamento;\n\nc) A prestação de falsas declarações, de forma expressa ou por omissão, sobre os rendimentos ou sobre factos e requisitos determinantes para o acesso ou manutenção do arrendamento;\n\nd) O comportamento desrespeitoso ou agressivo do arrendatário ou membros do agregado sobre quaisquer técnicos ou funcionários da BragaHabit ou pessoas mandatadas por esta para intervirem na área do seu parque habitacional;\n\ne) A permanência na habitação, por período superior a um mês, de pessoa que não pertença ao agregado familiar, sem autorização prévia da BragaHabit;\n\nf) Impedir a realização de obras de conservação ordinárias ou extraordinárias por parte da BragaHabit;\n\ng) A recusa em permitir o acesso à habitação para a realização de obras e/ou vistoria;\n\nh) A verificação de inexistência de contadores de fornecimento de água ou eletricidade;\n\ni) Realização de ligações ilegais de água ou eletricidade, gás ou Internet;\n\nj) A realização de obras na habitação sem prévia autorização da BragaHabit;\n\nk) A verificação de danos no interior da habitação causados por uma má utilização da mesma.\n\n2 - Nos casos das alíneas do número anterior e do n.º 3 do artigo 1083.º do Código Civil, a resolução do contrato de arrendamento pela BragaHabit opera por comunicação desta ao arrendatário, onde fundamentadamente invoque a respetiva causa, após audição do interessado, cabendo sempre direito de recurso desta decisão pelo arrendatário.\n\n3 - (Revogado.)"
+  },
+  "1170546175": {
+   "fragment_id": "1170546075",
+   "type": 11,
+   "heading": "Artigo 42.º — Cessação do contrato por renúncia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Cessação do contrato por renúncia\n\n1 - Considera-se haver renúncia do arrendatário ao arrendamento da habitação quando esta não seja usada por ele ou pelo agregado familiar por período seguido superior a seis meses a contar da data da primeira comunicação da BragaHabit, de entre as referidas na alínea a) do número seguinte.\n\n2 - Além das situações previstas na alínea c) do n.º 1 do artigo 35.º e na alínea h) do n.º 1 do artigo 41.º e de outras que se possam vir a verificar, considera-se não uso da habitação a situação em que, dentro do período mínimo de seis meses, se verifiquem cumulativamente as seguintes condições:\n\na) Tenham sido realizadas pelo menos três tentativas, com intervalo mínimo de duas semanas entre cada uma delas, de entrega de comunicação na pessoa do arrendatário ou de elemento do agregado familiar, consoante for o caso, por representante da BragaHabit devidamente identificado e a entrega tenha resultado impossível por ausência dos mesmos;\n\nb) Tenha sido afixado aviso na porta da entrada da habitação, pelo período mínimo de 30 dias, de conteúdo idêntico ao da comunicação;\n\nc) Os registos do fornecimento de serviços essenciais de água e eletricidade evidenciarem a ausência de contratos de fornecimento ou de consumos relativamente ao locado, nos termos do n.º 2 do artigo 33.º da Lei n.º 81/2014, de 19 de dezembro.\n\n3 - A comunicação e o aviso devem referir:\n\na) Que a BragaHabit tem conhecimento do não uso da habitação por parte do arrendatário ou do agregado familiar, consoante for o caso;\n\nb) Que o não uso da habitação por período superior a seis meses a contar da data da primeira tentativa de contacto pessoal, ali indicada, constitui renúncia ao arrendamento e determina a cessação do contrato;\n\nc) O prazo, no mínimo de 30 dias, de que o arrendatário e os elementos do seu agregado familiar dispõem, após o decurso dos seis meses, para procederem à desocupação e entrega voluntária da habitação, livre de pessoas e bens.\n\n4 - A cessação do contrato opera no termo do prazo de seis meses a contar da data da primeira tentativa de contacto pessoal referida na alínea a) do n.º 2 e confere à BragaHabit o direito de tomar posse do locado e de considerar abandonados a seu favor os bens móveis nele existentes, se, após o decurso do prazo de 60 dias sobre a tomada de posse do locado, não forem reclamados."
+  },
+  "1170546375": {
+   "fragment_id": "1170546275",
+   "type": 11,
+   "heading": "Artigo 43.º — Danos na habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Danos na habitação\n\nSe, aquando do acesso à habitação pela BragaHabit subsequente a qualquer caso de cessação do contrato, houver evidência de danos na habitação, de realização de obras não autorizadas ou de não realização das obras exigidas ao arrendatário nos termos da lei ou do contrato, a BragaHabit tem o direito de exigir o pagamento das despesas por si efetuadas com a realização das obras necessárias para reposição da habitação nas condições iniciais."
+  },
+  "1170546575": {
+   "fragment_id": "1170546475",
+   "type": 11,
+   "heading": "Artigo 44.º — Despejo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Despejo\n\n1 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação à BragaHabit, cabe a esta entidade levar a cabo os procedimentos subsequentes, nos termos da lei.\n\n2 - São da competência do Conselho de Administração da BragaHabit, as decisões relativas ao despejo, sem prejuízo da possibilidade de delegação.\n\n3 - Quando o despejo tenha por fundamento a falta de pagamento de rendas, encargos ou despesas, a decisão de promoção da correspondente execução deve ser tomada em simultâneo com a decisão do despejo.\n\n4 - Salvo acordo em sentido diferente, quaisquer bens móveis deixados na habitação após qualquer forma de cessação do contrato e tomada de posse pela BragaHabit são considerados abandonados a favor desta se não forem reclamados no prazo de 60 dias, que deles pode dispor de forma onerosa ou gratuita, sem direito a qualquer compensação por parte do arrendatário.\n\n5 - Corridos os prazos e procedimentos previstos na lei e no presente Regulamento, pode a BragaHabit proceder ao despejo ou desocupação do arrendado sem dependência de ação judicial, podendo para o efeito recorrer às autoridades policiais competentes, nos termos do disposto na última parte do n.º 3 do artigo 64.º e no artigo 76.º do Decreto-Lei n.º 280/2007, de 7 de agosto."
+  },
+  "1170546775": {
+   "fragment_id": "1170546675",
+   "type": 10,
+   "heading": "Subcapítulo IV — DISPOSIÇÕES COMPLEMENTARES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo IV — DISPOSIÇÕES COMPLEMENTARES"
+  },
+  "1170543575": {
+   "fragment_id": "1170543475",
+   "type": 11,
+   "heading": "Artigo 45.º — Dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Dados pessoais\n\n1 - A BragaHabit pode, para efeitos de confirmação dos dados do arrendatário ou arrendatários da habitação e dos membros do respetivo agregado familiar, solicitar à Autoridade Tributária e Aduaneira (AT) e ao Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), informação sobre a composição e rendimentos do agregado e a titularidade de bens móveis ou imóveis, preferencialmente através da plataforma de interoperabilidade da Administração Pública ou através de envio de ficheiro, com referência aos números de identificação fiscal dos arrendatários da habitação e dos membros do respetivo agregado familiar, não podendo o prazo de prestação da informação solicitada ultrapassar os 30 dias.\n\n2 - A BragaHabit será responsável pela receção e o processamento dos dados pessoais recolhidos para efeito de contratação do arrendamento apoiado, devendo adotar as medidas técnicas e organizativas adequadas para proteção dos mesmos contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizados e para conservar os dados apenas pelo período estritamente necessário à prossecução da finalidade a que se destinam, nos termos do Regulamento Geral da Proteção de Dados (doravante RGPD).\n\n3 - (Revogado.)\n\n4 - Qualquer pessoa tem direito a conhecer o conteúdo dos registos que lhe digam respeito e a obter junto de quem os detém a correção de inexatidões, a supressão de dados indevidamente registados e o complemento de omissões, nos termos do RGPD.\n\n5 - O acesso à informação por terceiros está sujeito ao disposto no RGPD.\n\n6 - A BragaHabit obriga-se a guardar sigilo sobre os dados recolhidos sobre a situação tributária dos contribuintes e todos os elementos de natureza pessoal que obtenha, nos termos previstos na Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro."
+  },
+  "1170546975": {
+   "fragment_id": "1170546875",
+   "type": 11,
+   "heading": "Artigo 46.º — Prerrogativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Prerrogativas\n\nA BragaHabit requererá às empresas de fornecimento de água, gás e eletricidade informação sobre a existência de contratos ou de consumos relativamente a um dado prédio ou fração autónoma, quando se tenham verificado, pelo menos, duas tentativas de notificação nos termos da alínea a) do n.º 2 do artigo 42.º do presente Regulamento."
+  },
+  "1170547175": {
+   "fragment_id": "1170547075",
+   "type": 11,
+   "heading": "Artigo 47.º — Ocupações sem título",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Ocupações sem título\n\n1 - São consideradas sem título as situações de ocupação, total ou parcial, de habitações detidas, a qualquer título, pela BragaHabit por quem não detém contrato ou documento de atribuição ou de autorização que a fundamente.\n\n2 - No caso previsto no número anterior o ocupante está obrigado a desocupar a habitação e a entregá-la, livre de pessoas e bens, até ao termo do prazo que lhe for fixado, não inferior a três dias úteis, na comunicação feita, para o efeito, pela BragaHabit, de que deve constar ainda o fundamento da obrigação de entrega da habitação.\n\n3 - Caso não seja cumprida voluntariamente a obrigação de desocupação e entrega da habitação nos termos do número anterior há lugar a despejo nos termos do artigo 44.º do presente Regulamento."
+  },
+  "1170547575": {
+   "fragment_id": "1170547475",
+   "type": 1,
+   "heading": "Capítulo III — REGIME DE SUBARRENDAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — REGIME DE SUBARRENDAMENTO"
+  },
+  "1170547875": {
+   "fragment_id": "1170547775",
+   "type": 11,
+   "heading": "Artigo 48.º — Remissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Remissão\n\n1 - As disposições do presente Regulamento são ainda aplicáveis, com as necessárias adaptações, ao subarrendamento de habitações em Regime de Arrendamento Apoiado.\n\n2 - Exclui-se do disposto no número anterior as disposições dos artigos 26.º, 27.º, 28.º e 37.º do presente Regulamento."
+  },
+  "1170548275": {
+   "fragment_id": "1170548175",
+   "type": 11,
+   "heading": "Artigo 49.º — Cálculo do valor da renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Cálculo do valor da renda\n\n1 - Tendo em conta os encargos que a renda comercial paga pela BragaHabit no âmbito do regime de subarrendamento comporta e ainda as características dos locados disponibilizados para subarrendamento, o valor da renda no regime de Subarrendamento será calculado nos termos do regime de renda condicionada.\n\n2 - O disposto no número anterior não é aplicável aos agregados familiares que já beneficiavam do regime de arrendamento apoiado ou que transitem de regime ao abrigo do artigo 16.º"
+  },
+  "1170543775": {
+   "fragment_id": "1170543675",
+   "type": 11,
+   "heading": "Artigo 50.º — Cessação do apoio habitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Cessação do apoio habitacional\n\n1 - O apoio à habitação em regime de subarrendamento apoiado está dependente da validade e vigência do contrato de arrendamento celebrado entre a BragaHabit e o proprietário da habitação, pelo que caso este cesse o contrato de subarrendamento caduca automaticamente.\n\n2 - Em caso de caducidade do contrato de subarrendamento por causa não imputável à BragaHabit o subarrendatário não lhe pode imputar qualquer responsabilidade, incluindo a de encontrar outra alternativa habitacional."
+  },
+  "1170548675": {
+   "fragment_id": "1170548575",
+   "type": 1,
+   "heading": "Capítulo IV — REGIME DE APOIO DIRETO AO ARRENDAMENTO (RADA)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — REGIME DE APOIO DIRETO AO ARRENDAMENTO (RADA)"
+  },
+  "1170548875": {
+   "fragment_id": "1170548775",
+   "type": 10,
+   "heading": "Subcapítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo I"
+  },
+  "1170549075": {
+   "fragment_id": "1170548975",
+   "type": 4,
+   "heading": "Parte GERAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte GERAL"
+  },
+  "1170549275": {
+   "fragment_id": "1170549175",
+   "type": 11,
+   "heading": "Artigo 51.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Objeto\n\n1 - O RADA é o regime de apoio à habitação que consiste na atribuição de um subsídio destinado a comparticipar o pagamento mensal da renda no âmbito de contratos de arrendamento para habitação em regime de renda livre.\n\n2 - O presente capítulo regula a atribuição dos referidos subsídios, definindo, designadamente, as condições de acesso, os critérios de atribuição e o modo de determinação do valor dos subsídios a atribuir.\n\n3 - O apoio à habitação prestado no âmbito do RADA destina-se a candidatos/agregados com dificuldades económicas que se encontrem sem as condições financeiras necessárias para suportar a totalidade do valor da renda de uma habitação adequada às suas necessidades, ou do seu agregado familiar, em regime de renda livre.\n\n4 - O RADA tem caráter temporário, salvo quando se verifiquem as seguintes condições:\n\na) Todos os elementos do agregado familiar estejam em situação de reforma;\n\nb) Um ou mais elementos do agregado familiar se apresente com incapacidade igual ou superior a 60 % e necessidade de cuidador familiar;\n\nc) Famílias monoparentais com filhos menores a cargo;\n\nd) (Revogada.)"
+  },
+  "1170549475": {
+   "fragment_id": "1170549375",
+   "type": 10,
+   "heading": "Subcapítulo II — ACESSO E ATRIBUIÇÃO DE APOIO NO RADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo II — ACESSO E ATRIBUIÇÃO DE APOIO NO RADA"
+  },
+  "1170549675": {
+   "fragment_id": "1170549575",
+   "type": 8,
+   "heading": "Secção I — ACESSO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — ACESSO"
+  },
+  "1170550075": {
+   "fragment_id": "1170549975",
+   "type": 11,
+   "heading": "Artigo 52.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Condições de acesso\n\n1 - O acesso ao apoio previsto no presente capítulo é regulado pelos mesmos critérios previstos para o Regime de Arrendamento Apoiado, previsto no Capítulo II do presente Regulamento, com as especificidades previstas no presente artigo.\n\n2 - Apenas podem aceder ao RADA os candidatos recenseados no concelho de Braga e aí residentes há mais de três anos e tenham idade igual ou superior a 18 anos.\n\n3 - Aplica-se ao RADA o disposto no artigo 18.º do presente Regulamento.\n\n4 - O candidato ou outro elemento do agregado familiar pode beneficiar de outros apoios financeiros públicos para fins habitacionais, havendo lugar ao ajustamento do montante do apoio do RADA, em caso de sobreposição.\n\n5 - O agregado deve dar conta desse facto no momento da candidatura ou no prazo máximo de 10 dias úteis contados da data em que tiver conhecimento, sob pena das consequências previstas no artigo 63.º\n\n6 - Caso os agregados beneficiários estejam a receber apoios financeiros públicos para fins habitacionais, o valor do subsídio do RADA corresponde à diferença entre o montante que resulta da aplicação da fórmula prevista no artigo 58.º e o montante do apoio atribuído por outra entidade pública para o mesmo fim."
+  },
+  "1170550275": {
+   "fragment_id": "1170550175",
+   "type": 11,
+   "heading": "Artigo 53.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Impedimentos\n\n1 - Constituem impedimentos ao acesso ao RADA todos os previstos no artigo 6.º do presente Regulamento, aplicáveis ao Regime do Arrendamento Apoiado, com as necessárias adaptações.\n\n2 - Aos impedimentos referidos acresce ainda a circunstância do beneficiário ser parente ou afim na linha reta ou até ao 3.º grau da linha colateral do(s) senhorio(s), sendo obrigatória a apresentação de uma declaração do senhorio que ateste o seu cumprimento para eventual necessidade de aferição junto das entidades competentes.\n\n3 - Está igualmente impedido de beneficiar de apoio à habitação em RADA quem, nos cinco anos anteriores ao pedido, haja beneficiado de quaisquer apoios à habitação disponibilizados pela BragaHabit ou pela Câmara Municipal de Braga e os mesmos tenham cessado por incumprimento ou recusa a qualquer apoio à habitação concedido por uma daquelas entidades.\n\n4 - Não se encontram abrangidos pelo impedimento previsto no ponto anterior os beneficiários cujo apoio haja cessado por iniciativa da BragaHabit, tendo em vista a mera alteração do regime de apoio concedido, designadamente nos termos dos artigos 16.º e 82.º do presente Regulamento."
+  },
+  "1170550475": {
+   "fragment_id": "1170550375",
+   "type": 8,
+   "heading": "Secção II — ATRIBUIÇÃO DO SUBSÍDIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — ATRIBUIÇÃO DO SUBSÍDIO"
+  },
+  "1170550675": {
+   "fragment_id": "1170550575",
+   "type": 11,
+   "heading": "Artigo 54.º — Pedido de apoio e instrução do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Pedido de apoio e instrução do pedido\n\n1 - O pedido de apoio no âmbito do RADA é apresentado na sede da BragaHabit ou por via eletrónica, mediante preenchimento de formulário próprio, acompanhado dos respetivos documentos previstos no Anexo IV.\n\n2 - Para formulação do pedido, os requerentes apresentam, para cada um dos elementos do agregado familiar, os documentos obrigatórios constantes no Anexo IV ao presente Regulamento."
+  },
+  "1170550875": {
+   "fragment_id": "1170550775",
+   "type": 11,
+   "heading": "Artigo 55.º — Critérios de atribuição do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Critérios de atribuição do subsídio\n\n1 - Cabe à Câmara Municipal de Braga fixar o montante a afetar, em cada ano económico, a este regime de apoio ao arrendamento.\n\n2 - O montante a afetar em cada ano económico é comum aos dois regimes de apoio direto à habitação: RADA e RADE.\n\n3 - O montante referido no número anterior constitui limite à atribuição de benefícios no RADA, e a falta de disponibilidade de verbas constitui fundamento bastante para a não atribuição do subsídio, nos termos disciplinados pelo presente Regulamento.\n\n4 - A atribuição do apoio à habitação em RADA é feita em função da data de entrada do pedido de apoio, verificada a elegibilidade do candidato e do seu agregado familiar.\n\n5 - No caso de a data de entrada ser coincidente, a classificação e posicionamento relativo dos candidatos terá em consideração os critérios de hierarquização e ponderação previstos nos n.os 2 e 3 do artigo 12.º do presente Regulamento, nos termos da tabela que constitui o seu Anexo II.\n\n6 - Os agregados familiares cujo RMC (Rendimento Mensal Corrigido) seja superior a quatro IAS (Indexante de Apoios Sociais) não beneficiarão de apoio em RADA.\n\n7 - São automaticamente indeferidas todas as candidaturas em que o valor do património mobiliário do agregado familiar é superior a 60 IAS."
+  },
+  "1170551075": {
+   "fragment_id": "1170550975",
+   "type": 11,
+   "heading": "Artigo 56.º — Adequação da tipologia da habitação e renda-padrão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Adequação da tipologia da habitação e renda-padrão\n\nA atribuição do subsídio no âmbito do RADA terá em conta a tipologia adequada à composição do agregado familiar e a renda-padrão desse mesmo fogo, definida anualmente por deliberação do Conselho de Administração da BragaHabit."
+  },
+  "1170551275": {
+   "fragment_id": "1170551175",
+   "type": 11,
+   "heading": "Artigo 57.º — Formalização da atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Formalização da atribuição\n\n1 - A atribuição do apoio à habitação em RADA, nos termos do artigo 55.º do presente Regulamento, será notificada pela BragaHabit aos candidatos.\n\n2 - Ao procedimento de tramitação deste apoio aplica-se o disposto no artigo 9.º deste Regulamento."
+  },
+  "1170577775": {
+   "fragment_id": "1170577675",
+   "type": 11,
+   "heading": "Artigo 58.º — Cálculo e fixação do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Cálculo e fixação do subsídio\n\n1 - O valor do subsídio a atribuir tem por base a ponderação aritmética resultante da fórmula que tem por referência o RMC (Rendimento Mensal Corrigido) do agregado familiar e a tipologia da Renda Padrão definida nos termos do artigo 56.º\n\n2 - O valor máximo de apoio é de 50 % do valor da renda padrão que lhe for devida nos termos do artigo 56.º\n\n3 - O valor do subsídio é determinado pela aplicação da seguinte fórmula:\n\nValor do subsídio = W – [(A-B) × (W-Z)/(A-C)]\n\nem que:\n\nA = 0,5 IAS;\n\nB = RMC;\n\nC = 4 IAS;\n\nW = 50 % da renda máxima anual;\n\nZ = 10 % da renda máxima.\n\n4 - Em qualquer caso, o montante da renda não comparticipado pelo RADA nunca poderá ser inferior a 50 % do valor da renda mensal efetivamente paga."
+  },
+  "1170551475": {
+   "fragment_id": "1170551375",
+   "type": 11,
+   "heading": "Artigo 59.º — Duração e renovação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Duração e renovação dos pedidos de apoio\n\n1 - O subsídio é atribuído por um período de 12 (doze) meses, com o máximo de nove renovações.\n\n2 - Caso pretenda a renovação do apoio, o requerente deve atualizar anualmente o pedido apresentado nos termos do artigo 54.º do presente Regulamento, com antecedência mínima de 30 dias da data do seu termo, sendo que a renovação do apoio concedido depende da verificação dos critérios de atribuição que se encontrem em vigor a essa data.\n\n3 - Na sua renovação, os subsídios atribuídos serão automaticamente reduzidos em cada ano em 10 % em relação ao subsídio que lhe corresponderia no ano anterior, sem prejuízo de eventuais alterações ao RMC.\n\n4 - O procedimento previsto no número anterior não se aplicará a processos que sejam instruídos com o parecer técnico de excecional fragilidade económica ou social, e que contenha proposta justificada de atribuição de um subsídio de valor mais elevado, com o limite máximo correspondente a 50 % da renda padrão, competindo ao Conselho de Administração da BragaHabit a rejeição ou aceitação dessa proposta, sem prejuízo da possibilidade de delegação.\n\n5 - Finda a última renovação, será realizado pela BragaHabit relatório técnico detalhado da situação socioeconómica do agregado familiar beneficiário."
+  },
+  "1170551675": {
+   "fragment_id": "1170551575",
+   "type": 11,
+   "heading": "Artigo 60.º — Renovação automática extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Renovação automática extraordinária\n\nOs pedidos de renovação formulados nos termos do artigo anterior por agregados familiares enquadrados no n.º 4 do artigo 51.º são automaticamente renovados até um máximo de 10 anos, a contar do primeiro pedido, não sendo aplicável a redução automática dos subsídios."
+  },
+  "1170577975": {
+   "fragment_id": "1170577875",
+   "type": 11,
+   "heading": "Artigo 61.º — Modo de processamento e entrega do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Modo de processamento e entrega do subsídio\n\n1 - O apoio será pago ao beneficiário mensalmente, entre o dia 17 e o dia 30 de cada mês, por transferência bancária.\n\n2 - Para efeitos do disposto no número anterior deverá o beneficiário entregar entre o dia 5 e 17 do mesmo mês, na sede da BragaHabit ou por via eletrónica para o e-mail rada@bragahabit.pt, cópia do recibo ou comprovativo do pagamento ao senhorio da última renda vencida, sem prejuízo da entrega por carta ou pessoalmente na sede da BragaHabit."
+  },
+  "1170551875": {
+   "fragment_id": "1170551775",
+   "type": 11,
+   "heading": "Artigo 62.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Exclusão\n\nÉ aplicável ao presente capítulo a disposição prevista artigo 17.º referente ao Regime de Arrendamento Apoiado quanto aos fatores de exclusão dos candidatos."
+  },
+  "1170552175": {
+   "fragment_id": "1170552075",
+   "type": 10,
+   "heading": "Subcapítulo III — CESSAÇÃO E SUSPENSÃO DO APOIO EM RADA, MUDANÇA DE HABITAÇÃO E MOBILIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo III — CESSAÇÃO E SUSPENSÃO DO APOIO EM RADA, MUDANÇA DE HABITAÇÃO E MOBILIDADE"
+  },
+  "1170552375": {
+   "fragment_id": "1170552275",
+   "type": 11,
+   "heading": "Artigo 63.º — Cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Cessação\n\n1 - A BragaHabit poderá fazer cessar a atribuição de subsídio no âmbito do RADA, designadamente:\n\na) A verificação de qualquer dos fundamentos de resolução previstos para o Regime de Arrendamento Apoiado, nos termos do artigo 41.º do presente Regulamento, com as devidas adaptações;\n\nb) A acumulação indevida de apoios financeiros públicos para fins habitacionais, sem a comunicação devida à BragaHabit nos termos do artigo 52.º\n\nc) A falta de comparência injustificada do arrendatário a quaisquer convocatórias efetuadas pela primeira, bem como o previsto no artigo seguinte.\n\n2 - A cessação definitiva do apoio opera por mera comunicação ao beneficiário do apoio, após audiência prévia."
+  },
+  "1170580775": {
+   "fragment_id": "1170552475",
+   "type": 11,
+   "heading": "Artigo 64.º — Suspensão e cessação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Suspensão e cessação dos apoios\n\n1 - O apoio será automaticamente suspenso no dia seguinte ao último dia do prazo para cumprimento da obrigação de entrega do recibo comprovativo do pagamento da renda pelo arrendatário beneficiário, nos termos do artigo 61.º do presente Regulamento.\n\n2 - A duração máxima da suspensão é de 2 (dois) meses a contar dessa data.\n\n3 - Em situações excecionais e a pedido expresso do beneficiário o período de suspensão pode ser levantado com a apresentação de prova de pagamento ao senhorio da penúltima renda vencida, reduzindo-se automaticamente o período de apoio para um mês até que seja o reposto o cumprimento da obrigação prevista no n.º 2 do artigo 61.º\n\n4 - A mora superior a 2 (dois) meses na obrigação prevista no n.º 1 do presente artigo conduz à cessação do apoio concedido no âmbito do RADA sem necessidade de notificação para o efeito.\n\n5 - Durante o período de suspensão pode o beneficiário retomar os apoios que lhe foram atribuídos, bastando para o efeito apresentar os originais ou cópias dos recibos de renda correspondentes.\n\n6 - O apoio não pode estar suspenso na data da renovação da atribuição do subsídio, sob pena de perda dos benefícios ainda não recebidos e indeferimento liminar da renovação."
+  },
+  "1170580975": {
+   "fragment_id": "1170580875",
+   "type": 11,
+   "heading": "Artigo 65.º — Mudança de habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Mudança de habitação\n\n1 - A mudança de residência do beneficiário para nova habitação, durante o prazo de vigência do apoio, obriga-o à apresentação de requerimento em que formule tal pedido (acompanhado obrigatoriamente pela documentação relativa à nova habitação e declaração do anterior senhorio que ateste o cumprimento de todas as obrigações contratuais referentes ao contrato de arrendamento anterior), mantendo-se, em caso de aceitação pela BragaHabit, a aplicação do regime de reduções relativo às renovações do apoio concedido, previsto no n.º 3, do artigo 59.º do presente Regulamento, ressalvadas as reduções já aplicadas.\n\n2 - A mudança de habitação não poderá implicar a disponibilização de apoio de montante superior ao anteriormente concedido."
+  },
+  "1170581175": {
+   "fragment_id": "1170581075",
+   "type": 1,
+   "heading": "Capítulo V — REGIME DE APOIO DIRETO AO EMPRÉSTIMO (RADE)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — REGIME DE APOIO DIRETO AO EMPRÉSTIMO (RADE)"
+  },
+  "1170581375": {
+   "fragment_id": "1170581275",
+   "type": 10,
+   "heading": "Subcapítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo I"
+  },
+  "1170578375": {
+   "fragment_id": "1170578275",
+   "type": 4,
+   "heading": "Parte GERAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte GERAL"
+  },
+  "1170581575": {
+   "fragment_id": "1170581475",
+   "type": 11,
+   "heading": "Artigo 66.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Objeto\n\n1 - O RADE é o regime de apoio à habitação que consiste na atribuição de um subsídio destinado a comparticipar a prestação mensal no âmbito de empréstimos bancários contraídos para habitação própria e permanente.\n\n2 - O presente capítulo regula a atribuição dos referidos subsídios, definindo, designadamente, as condições de acesso, os critérios de atribuição e o modo de determinação do valor dos subsídios a atribuir.\n\n3 - O apoio à habitação prestado no âmbito do RADE destina-se a candidatos/agregados familiares com dificuldades económicas que se encontrem sem as condições financeiras necessárias para suportar a totalidade do valor da prestação mensal do seu empréstimo bancário para habitação própria e permanente.\n\n4 - O RADE tem caráter temporário, salvo quando se verifiquem as seguintes condições:\n\na) Todos os elementos do agregado familiar estejam em situação de reforma;\n\nb) Um ou mais elementos do agregado familiar se apresente com incapacidade igual ou superior a 60 % e necessidade de cuidador familiar;\n\nc) Famílias monoparentais com filhos menores a cargo."
+  },
+  "1170581875": {
+   "fragment_id": "1170581775",
+   "type": 10,
+   "heading": "Subcapítulo II — ACESSO E ATRIBUIÇÃO DE APOIO NO RADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo II — ACESSO E ATRIBUIÇÃO DE APOIO NO RADE"
+  },
+  "1170582075": {
+   "fragment_id": "1170581975",
+   "type": 8,
+   "heading": "Secção I — ACESSO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — ACESSO"
+  },
+  "1170582275": {
+   "fragment_id": "1170582175",
+   "type": 11,
+   "heading": "Artigo 67.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Condições de acesso\n\n1 - O acesso ao apoio previsto no presente capítulo é regulado pelos mesmos critérios previstos para o Regime de Arrendamento Apoiado, previsto no Capítulo II do presente Regulamento, com as especificidades previstas no presente artigo.\n\n2 - Apenas podem aceder ao RADE os candidatos recenseados no concelho de Braga e aí residentes há mais de três anos e tenham idade igual ou superior a 18 anos.\n\n3 - Aplica-se ao RADE o disposto no artigo 18.º do presente Regulamento.\n\n4 - O candidato ou outro elemento do agregado familiar pode beneficiar de outros apoios financeiros públicos para fins habitacionais, havendo lugar ao ajustamento do montante do apoio do RADE, em caso de sobreposição.\n\n5 - O agregado deve dar conta desse facto no momento da candidatura ou no prazo máximo de 10 dias úteis contados da data em que tiver conhecimento, sob pena das consequências previstas no artigo 77.º\n\n6 - Caso os agregados beneficiários estejam a receber apoios financeiros públicos para fins habitacionais, o valor do subsídio do RADE corresponde à diferença entre o montante que resulta da aplicação da fórmula prevista no artigo 58.º e o montante do apoio atribuído por outra entidade pública para o mesmo fim."
+  },
+  "1170582675": {
+   "fragment_id": "1170582575",
+   "type": 11,
+   "heading": "Artigo 68.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Impedimentos\n\n1 - Está impedido de aceder ao RADE quem se encontrar numa das seguintes situações:\n\na) Seja proprietário, coproprietário, usufrutuário, promitente-comprador ou arrendatário de imóvel ou fração habitacional, no próprio concelho de Braga ou nos concelhos limítrofes, diferente do fogo sobre o qual incide o pedido de apoio;\n\nb) Esteja a usufruir de apoios financeiros públicos para fins habitacionais, sem a comunicação devida à BragaHabit;\n\nc) Tenha beneficiado de indemnização em alternativa à atribuição de uma habitação no âmbito de programas de realojamento;\n\nd) Tenha, no período dos dois anos anteriores à data da candidatura, prestado declarações falsas, ou omitido informação relevante à BragaHabit;\n\ne) Tendo beneficiado de qualquer apoio à habitação concedido pela BragaHabit, nos últimos cinco anos, o mesmo tenha cessado por violação de qualquer uma das suas obrigações;\n\nf) Tendo beneficiado de qualquer apoio à habitação concedido pela BragaHabit, seja titular de dívida vencida e não paga à BragaHabit, exceto se tal dívida tenha sido objeto de acordo de pagamento, que se encontre em cumprimento pontual há mais de seis meses;\n\ng) Tenha ocupado ilicitamente ou tenha sido sujeito a despejo de uma habitação pertencente à BragaHabit no período dos cinco anos anteriores à data da candidatura;\n\nh) Tenha recusado apoio habitacional da BragaHabit, sem justificação séria e fundamentada no período dos dois anos anteriores à data da candidatura.\n\n2 - Não se encontram abrangidos pelo impedimento previsto no ponto anterior os beneficiários cujo apoio haja cessado por iniciativa da BragaHabit, tendo em vista a mera alteração do regime de apoio concedido, designadamente nos termos dos artigos 16.º e 82.º do presente Regulamento.\n\n3 - O impedimento relativo a um dos membros do agregado familiar é extensível a todos os seus membros."
+  },
+  "1170582975": {
+   "fragment_id": "1170582875",
+   "type": 8,
+   "heading": "Secção II — ATRIBUIÇÃO DO SUBSÍDIO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — ATRIBUIÇÃO DO SUBSÍDIO"
+  },
+  "1170578775": {
+   "fragment_id": "1170578675",
+   "type": 11,
+   "heading": "Artigo 69.º — Pedido de apoio e instrução do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Pedido de apoio e instrução do pedido\n\n1 - O pedido de apoio no âmbito do RADE é apresentado na sede da BragaHabit ou por via eletrónica, mediante preenchimento de formulário próprio, acompanhado dos respetivos documentos previstos no Anexo IV.\n\n2 - Para formulação do pedido, os requerentes apresentam, para cada um dos elementos do agregado familiar, os documentos obrigatórios constantes no Anexo IV ao presente Regulamento."
+  },
+  "1170583175": {
+   "fragment_id": "1170583075",
+   "type": 11,
+   "heading": "Artigo 70.º — Critérios de atribuição do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Critérios de atribuição do subsídio\n\n1 - Cabe à Câmara Municipal de Braga fixar o montante a afetar, em cada ano económico, a este regime de apoio ao empréstimo.\n\n2 - O montante a afetar em cada ano económico é comum aos dois regimes de apoio direto à habitação: RADA e RADE.\n\n3 - O montante referido no número anterior constitui limite à atribuição de benefícios no RADE, e a falta de disponibilidade de verbas constitui fundamento bastante para a não atribuição do subsídio, nos termos disciplinados pelo presente Regulamento.\n\n4 - A atribuição do apoio à habitação em RADA é feita em função da data de entrada do pedido de apoio, verificada a elegibilidade do candidato e do seu agregado familiar.\n\n5 - No caso de a data de entrada ser coincidente, a classificação e posicionamento relativo dos candidatos terá em consideração os critérios de hierarquização e ponderação previstos nos n.os 2 e 3 do artigo 12.º do presente Regulamento, nos termos da tabela que constitui o seu Anexo II.\n\n6 - Os agregados familiares cujo RMC (Rendimento Mensal Corrigido) seja superior a quatro IAS (Indexante de Apoios Sociais) não beneficiarão de apoio em RADE.\n\n7 - São automaticamente indeferidas todas as candidaturas em que o valor do património mobiliário do agregado familiar é superior a 60 IAS."
+  },
+  "1170578975": {
+   "fragment_id": "1170578875",
+   "type": 11,
+   "heading": "Artigo 71.º — Adequação da tipologia da habitação e renda-padrão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Adequação da tipologia da habitação e renda-padrão\n\nA atribuição do subsídio no âmbito do RADE terá em conta a tipologia adequada à composição do agregado familiar e a renda-padrão desse mesmo fogo, definida anualmente por deliberação do Conselho de Administração da BragaHabit."
+  },
+  "1170583375": {
+   "fragment_id": "1170583275",
+   "type": 11,
+   "heading": "Artigo 72.º — Formalização da atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Formalização da atribuição\n\n1 - A atribuição do apoio à habitação em RADE, nos termos do artigo 55.º do presente Regulamento, será notificada pela BragaHabit aos candidatos.\n\n2 - Ao procedimento de tramitação deste apoio aplica-se o disposto no artigo 9.º deste Regulamento."
+  },
+  "1170583575": {
+   "fragment_id": "1170583475",
+   "type": 11,
+   "heading": "Artigo 73.º — Cálculo e fixação do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Cálculo e fixação do subsídio\n\n1 - O valor do subsídio a atribuir tem por base a ponderação aritmética resultante da fórmula que tem por referência o RMC (Rendimento Mensal Corrigido) do agregado familiar e a tipologia da Renda Padrão definida nos termos do artigo 56.º\n\n2 - O valor máximo de apoio é de 50 % do valor da renda padrão que lhe for devida nos termos do artigo 56.º\n\n3 - O valor do subsídio é determinado pela aplicação da fórmula prevista no artigo 58.º\n\n4 - Em qualquer caso, o montante do empréstimo não comparticipado pelo RADE nunca poderá ser inferior a 50 % da prestação mensal efetivamente paga.\n\n5 - O valor do apoio é suscetível de revisão a qualquer momento para cumprimento do estabelecido no número anterior."
+  },
+  "1170579275": {
+   "fragment_id": "1170579175",
+   "type": 11,
+   "heading": "Artigo 74.º — Duração e renovação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Duração e renovação dos pedidos de apoio\n\n1 - O subsídio é atribuído por um período de 12 (doze) meses, com o máximo de nove renovações.\n\n2 - O requerente deve atualizar anualmente o pedido apresentado nos termos do artigo 54.º do presente Regulamento, com antecedência mínima de 30 dias da data do seu termo, sendo que a renovação do apoio concedido depende da verificação dos critérios de atribuição que se encontrem em vigor a essa data.\n\n3 - Na sua renovação, os subsídios atribuídos serão automaticamente reduzidos em cada ano em 10 % em relação ao subsídio que lhe corresponderia no ano anterior, sem prejuízo de eventuais alterações ao RMC.\n\n4 - O procedimento previsto no número anterior não se aplicará a processos que sejam instruídos com o parecer técnico de excecional fragilidade económica ou social, e que contenha proposta justificada de atribuição de um subsídio de valor mais elevado, com o limite máximo correspondente a 50 % da renda padrão, competindo ao Conselho de Administração da BragaHabit a rejeição ou aceitação dessa proposta, sem prejuízo da possibilidade de delegação.\n\n5 - Finda a última renovação, será realizado pela BragaHabit relatório técnico detalhado da situação socioeconómica do agregado familiar beneficiário."
+  },
+  "1170583775": {
+   "fragment_id": "1170583675",
+   "type": 11,
+   "heading": "Artigo 75.º — Renovação automática extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Renovação automática extraordinária\n\nOs pedidos de renovação formulados nos termos do artigo anterior por agregados familiares enquadrados no n.º 4 do artigo 51.º são automaticamente renovados até um máximo de 10 anos, a contar do primeiro pedido, não sendo aplicável a redução automática dos subsídios."
+  },
+  "1170583975": {
+   "fragment_id": "1170583875",
+   "type": 11,
+   "heading": "Artigo 76.º — Modo de processamento e entrega do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Modo de processamento e entrega do subsídio\n\n1 - O apoio será pago ao beneficiário mensalmente, entre o dia 17 e o dia 30 de cada mês, por transferência bancária.\n\n2 - Para efeitos do disposto no número anterior deverá o beneficiário entregar entre o dia 5 e 17 do mesmo mês, na sede da BragaHabit ou por via eletrónica para o e-mail rade@bragahabit.pt, cópia do comprovativo do pagamento à entidade bancária da última prestação vencida."
+  },
+  "1170584175": {
+   "fragment_id": "1170584075",
+   "type": 11,
+   "heading": "Artigo 77.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Exclusão\n\n1 - No âmbito ou para efeito de qualquer dos procedimentos de atribuição de apoio são causas de exclusão da candidatura ou do cancelamento da inscrição a ocorrência de uma das seguintes situações:\n\na) A não verificação de qualquer um dos requisitos das condições de acesso previstas no artigo 67.º;\n\nb) A prestação de falsas declarações pelo candidato ou pelos membros do agregado familiar;\n\nc) A omissão dolosa de informação pelo candidato ou pelos membros do agregado familiar;\n\nd) A utilização de meio fraudulento por parte do candidato ou membros do agregado familiar;\n\ne) A falta de comunicação e prestação à BragaHabit, nos prazos previstos, das informações obrigatórias nos termos da lei e do presente Regulamento, designadamente as relativas a impedimentos e à composição e rendimentos do agregado familiar;\n\nf) A falta de entrega à BragaHabit dos elementos adequados e necessários à verificação das circunstâncias que determinam a candidatura ao apoio;\n\ng) A omissão ou a incorreção de dados no preenchimento do formulário da candidatura;\n\nh) O conhecimento pela BragaHabit da existência de uma das situações de impedimento previstas no artigo 68.º do presente Regulamento;\n\ni) A condenação em processo criminal por comportamento desrespeitoso e/ou agressivo do candidato ou membros do seu agregado familiar sobre quaisquer técnicos ou funcionários da BragaHabit.\n\n2 - A verificação de uma ou mais causas de exclusão conduz ao indeferimento da candidatura."
+  },
+  "1170584375": {
+   "fragment_id": "1170584275",
+   "type": 10,
+   "heading": "Subcapítulo III — CESSAÇÃO E SUSPENSÃO DO APOIO EM RADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo III — CESSAÇÃO E SUSPENSÃO DO APOIO EM RADE"
+  },
+  "1170584575": {
+   "fragment_id": "1170584475",
+   "type": 11,
+   "heading": "Artigo 78.º — Cessação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Cessação\n\n1 - A BragaHabit poderá fazer cessar a atribuição de subsídio no âmbito do RADE, designadamente:\n\na) A verificação de qualquer das causas de impedimento ou de exclusão previstas no artigo 68.º e no artigo 77.º, respetivamente;\n\nb) A falta de comparência injustificada do beneficiário a quaisquer convocatórias efetuadas;\n\nc) A acumulação indevida de apoios financeiros públicos para fins habitacionais, sem a comunicação devida à BragaHabit nos termos do artigo 67.º\n\n2 - A cessação definitiva do apoio opera por mera comunicação ao beneficiário do apoio, após audiência prévia."
+  },
+  "1170592075": {
+   "fragment_id": "1170584675",
+   "type": 11,
+   "heading": "Artigo 79.º — Suspensão e cessação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Suspensão e cessação dos apoios\n\n1 - O apoio será automaticamente suspenso no dia seguinte ao último dia do prazo para cumprimento da obrigação de entrega do recibo comprovativo do pagamento à entidade bancária da última prestação vencida, nos termos do artigo 76.º do presente Regulamento.\n\n2 - A duração máxima da suspensão é de 2 (dois) meses a contar dessa data.\n\n3 - A mora superior a 2 (dois) meses na obrigação prevista no n.º 1 do presente artigo conduz à cessação do apoio concedido no âmbito do RADA sem necessidade de notificação para o efeito.\n\n4 - Durante o período de suspensão pode o beneficiário retomar os apoios que lhe foram atribuídos, bastando para o efeito apresentar os comprovativos do pagamento à entidade bancária correspondentes.\n\n5 - O apoio não pode estar suspenso na data da renovação da atribuição do subsídio, sob pena de perda dos benefícios ainda não recebidos e indeferimento liminar da renovação."
+  },
+  "1170592275": {
+   "fragment_id": "1170592175",
+   "type": 1,
+   "heading": "Capítulo VI — REGIME DE RESIDÊNCIA PARTILHADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — REGIME DE RESIDÊNCIA PARTILHADA"
+  },
+  "1170590875": {
+   "fragment_id": "1170590775",
+   "type": 10,
+   "heading": "Subcapítulo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo I"
+  },
+  "1170591075": {
+   "fragment_id": "1170590975",
+   "type": 4,
+   "heading": "Parte Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte Geral"
+  },
+  "1170592475": {
+   "fragment_id": "1170592375",
+   "type": 11,
+   "heading": "Artigo 80.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Objeto\n\n1 - O Regime de Residência Partilhada é o regime de apoio à habitação que consiste na cedência, a cada um dos beneficiários, do gozo sobre um quarto de dormir, de fruição exclusiva ou partilhada, com uso coletivo dos compartimentos e instalações comuns da respetiva habitação, detida a qualquer título pela BragaHabit, acompanhada de um apoio social permanente prestado pelos respetivos serviços.\n\n2 - O presente capítulo regula a atribuição dos referidos quartos, definindo, designadamente, as condições de acesso, os critérios de atribuição, o modo de determinação da contrapartida a pagar pelo beneficiário e, bem assim, as principais regras de funcionamento e utilização das residências partilhadas.\n\n3 - O apoio à habitação prestado no âmbito do Regime de Residências Partilhadas destina-se a pessoas em situação de isolamento ou abandono, com dificuldades económicas graves, e que se encontrem sem as condições financeiras necessárias para suportar alojamento adequado às suas necessidades, ao preço de mercado."
+  },
+  "1170592675": {
+   "fragment_id": "1170592575",
+   "type": 10,
+   "heading": "Subcapítulo II — ACESSO E ATRIBUIÇÃO DE APOIO NO REGIME DE RESIDÊNCIA PARTILHADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo II — ACESSO E ATRIBUIÇÃO DE APOIO NO REGIME DE RESIDÊNCIA PARTILHADA"
+  },
+  "1170592875": {
+   "fragment_id": "1170592775",
+   "type": 8,
+   "heading": "Secção I — ACESSO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — ACESSO"
+  },
+  "1170593075": {
+   "fragment_id": "1170592975",
+   "type": 11,
+   "heading": "Artigo 81.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Condições de acesso\n\n1 - O acesso ao apoio previsto no presente capítulo é regulado pelos critérios previstos para o Regime de Arrendamento Apoiado, previsto no Capítulo II do presente Regulamento, com as especificidades previstas no presente artigo.\n\n2 - Apenas podem aceder ao Regime de Residência Partilhada os requerentes recenseados no concelho de Braga e aí residentes há mais de três anos.\n\n3 - O acesso ao Regime de Residência Partilhada encontra-se ainda dependente da apresentação, pelo requerente, aquando da apresentação da sua candidatura, de declaração médica que ateste a sua:\n\na) Autonomia, nomeadamente para desempenho de tarefas domésticas básicas, e para o cuidado da sua higiene pessoal;\n\nb) Saúde física e condições de mobilidade sem auxílio de terceira pessoa;\n\nc) Saúde mental - inexistência de diagnóstico de patologias do foro comportamental, designadamente relacionadas com adições ou outros que previsivelmente desaconselhem a convivência, na mesma residência, com outros beneficiários, estranhos à sua esfera familiar.\n\n4 - Aplica-se ao Regime de Residências Partilhadas o disposto no artigo 18.º do presente Regulamento."
+  },
+  "1170593275": {
+   "fragment_id": "1170593175",
+   "type": 11,
+   "heading": "Artigo 82.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Impedimentos\n\n1 - Constituem impedimentos ao acesso ao Regime de Residência Partilhada todos os previstos no artigo 6.º do presente Regulamento, com as necessárias adaptações.\n\n2 - Constitui ainda impedimento ao acesso ao regime previsto no presente capítulo a falta de apresentação da declaração prevista no n.º 3 do artigo anterior.\n\n3 - Está igualmente impedido quem, nos dois anos anteriores ao pedido previsto no artigo seguinte, haja recusado qualquer apoio à habitação concedido pela BragaHabit ou Câmara Municipal de Braga."
+  },
+  "1170593475": {
+   "fragment_id": "1170593375",
+   "type": 8,
+   "heading": "Secção II — ATRIBUIÇÃO DO APOIO À HABITAÇÃO EM RESIDÊNCIA PARTILHADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — ATRIBUIÇÃO DO APOIO À HABITAÇÃO EM RESIDÊNCIA PARTILHADA"
+  },
+  "1170593675": {
+   "fragment_id": "1170593575",
+   "type": 11,
+   "heading": "Artigo 83.º — Pedido de apoio e instrução do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Pedido de apoio e instrução do pedido\n\n1 - O pedido de apoio no âmbito do Regime de Residência Partilhada é apresentado na sede da BragaHabit ou por via eletrónica, mediante preenchimento de formulário próprio definido para o efeito.\n\n2 - Para formulação do pedido, o requerente apresenta os documentos obrigatórios constantes no Anexo IV ao presente Regulamento, bem como a declaração prevista no n.º 3 do artigo 81.º do presente Regulamento."
+  },
+  "1170593875": {
+   "fragment_id": "1170593775",
+   "type": 11,
+   "heading": "Artigo 84.º — Critérios de atribuição de quartos para Residência Partilhada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Critérios de atribuição de quartos para Residência Partilhada\n\n1 - Cabe à BragaHabit fixar o número de habitações a afetar a este regime de apoio à habitação.\n\n2 - O constrangimento referido no número anterior constitui limite à atribuição de apoios no âmbito do Regime de Residência Partilhada, e a falta de habitações disponíveis constitui fundamento bastante para a não atribuição do apoio, nos termos disciplinados pelo presente Regulamento.\n\n3 - Os pedidos de apoio serão apreciados à luz dos critérios de hierarquização e ponderação previstos nos n.os 2 e 3 do artigo 12.º do presente Regulamento, nos termos da tabela que constitui o seu Anexo II.\n\n4 - Trimestralmente será elaborada e afixada na sede e no sítio na Internet da BragaHabit uma listagem contendo a classificação relativa dos requerentes resultante da aplicação dos critérios de hierarquização previstos no número anterior.\n\n5 - Para proteção dos dados pessoais do requerente, ser-lhe-á atribuído um número aquando da apresentação do respetivo pedido, número esse que será inscrito, em substituição do seu nome, na listagem prevista no presente artigo."
+  },
+  "1170594075": {
+   "fragment_id": "1170593975",
+   "type": 11,
+   "heading": "Artigo 85.º — Formalização da atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Formalização da atribuição\n\n1 - Os requerentes admitidos ao apoio à habitação em Regime de Residência Partilhada, nos termos do artigo anterior, serão notificados pela BragaHabit, para, no prazo máximo de 15 dias, se dirigirem à sua sede e aí formalizarem a aceitação do apoio.\n\n2 - No momento da aceitação prevista no número anterior será entregue ao beneficiário o “Guia do beneficiário das residências partilhadas”."
+  },
+  "1170594275": {
+   "fragment_id": "1170594175",
+   "type": 11,
+   "heading": "Artigo 86.º — Cálculo e fixação da contrapartida pelo alojamento, e distribuição de encargos e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Cálculo e fixação da contrapartida pelo alojamento, e distribuição de encargos e despesas\n\n1 - O cálculo do valor da contrapartida a pagar pelos beneficiários do Regime de Residências Partilhadas, bem como as suas atualizações e revisões, e data de vencimento da mesma são regidos pela previsão do Capítulo II do presente Regulamento, designadamente nos termos do disposto nos seus artigos 25.º a 29.º, com as necessárias adaptações.\n\n2 - As despesas com os serviços contratados de água, eletricidade, gás natural, telefone, Internet, televisão ou outros de características similares, se os houver, serão divididas proporcionalmente entre todos os residentes.\n\n3 - Tais serviços serão diretamente contratados pela BragaHabit, que mensalmente cobrará aos cobeneficiários a totalidade dos montantes por si pagos, equitativamente."
+  },
+  "1170594475": {
+   "fragment_id": "1170594375",
+   "type": 11,
+   "heading": "Artigo 87.º — Duração e renovação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Duração e renovação dos pedidos de apoio\n\nO apoio prestado em Regime de Residência Partilhada terá a duração de dois anos, sendo automaticamente renovável por períodos de um ano, salvo oposição à renovação exercida por qualquer uma das partes com 90 dias de antecedência sobre o seu termo."
+  },
+  "1170594675": {
+   "fragment_id": "1170594575",
+   "type": 11,
+   "heading": "Artigo 88.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Exclusão\n\nÉ aplicável ao presente capítulo a disposição prevista artigo 17.º referente ao Regime de Arrendamento Apoiado quanto aos fatores de exclusão dos requerentes."
+  },
+  "1170591275": {
+   "fragment_id": "1170591175",
+   "type": 10,
+   "heading": "Subcapítulo III — DIREITOS E DEVERES DOS BENEFICIÁRIOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Subcapítulo III — DIREITOS E DEVERES DOS BENEFICIÁRIOS"
+  },
+  "1170594875": {
+   "fragment_id": "1170594775",
+   "type": 11,
+   "heading": "Artigo 89.º — Supervisão e auxílio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Supervisão e auxílio\n\nNo âmbito do Regime de Residência Partilhada, a BragaHabit providenciará por um acompanhamento regular de proximidade, de modo a monitorizar a harmonia da convivência entre os cobeneficiários, bem como as condições de higiene e salubridade da residência, e a prestar apoio psicológico aos mesmos cobeneficiários, encaminhando-os igualmente para as entidades especializadas cuja necessidade de intervenção porventura detetem."
+  },
+  "1170595075": {
+   "fragment_id": "1170594975",
+   "type": 11,
+   "heading": "Artigo 90.º — Direitos dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Direitos dos beneficiários\n\nCada beneficiário tem direito:\n\na) Ao uso e fruição de um quarto de dormir, e ao uso coletivo, partilhado, dos restantes compartimentos e instalações da residência, com exceção dos quartos de dormir exclusivamente adstritos ao uso e fruição dos restantes cobeneficiários;\n\nb) Ao uso comum, e em condições de igualdade, dos bens que se encontrem alocados às instalações de uso e fruição partilhados dos cobeneficiários;\n\nc) À utilização dos serviços contratados de água, eletricidade, gás natural, telefone, Internet, televisão ou outros de características similares, se os houver, na medida do essencial ao conforto dos cobeneficiários;\n\nd) A receber visitas de familiares e amigos até às 22 horas;\n\ne) A dispor da presença de familiares ou amigos, para além das 22 horas, em situações devidamente justificadas, como doença, acidente ou outras, desde que previamente autorizadas, por escrito, pela BragaHabit."
+  },
+  "1170595275": {
+   "fragment_id": "1170595175",
+   "type": 11,
+   "heading": "Artigo 91.º — Obrigações da BragaHabit",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Obrigações da BragaHabit\n\nCompete à BragaHabit:\n\na) Celebrar o acordo de apoio à habitação em regime de residência partilhada;\n\nb) Requisitar os contadores de fornecimento de água, eletricidade e gás, responsabilizando cada residente pelo pagamento destas despesas na proporção que lhe couber;\n\nc) Realizar e atualizar o inventário de equipamentos e mobiliário que ficam à guarda da BragaHabit;\n\nd) Garantir a boa conservação das residências;\n\ne) Realizar uma vistoria sempre que ocorra o ingresso ou saída de residentes;\n\nf) Realizar visitas de acompanhamento regulares à residência."
+  },
+  "1170597775": {
+   "fragment_id": "1170597675",
+   "type": 11,
+   "heading": "Artigo 92.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Obrigações dos beneficiários\n\nSão obrigações de cada um dos beneficiários, para além das demais previstas no “Guia do beneficiário das residências partilhadas”:\n\na) Assinar o inventário de equipamentos e mobiliário pertencente à BragaHabit;\n\nb) Equipar o quarto de dormir que lhe foi cedido e contribuir para o equipamento dos espaços coletivos, à medida das necessidades e em condições de igualdade com os restantes cobeneficiários;\n\nc) Manter limpo e cuidado respetivo quarto de dormir, não saindo para o seu exterior sem que o mesmo fique em perfeitas condições de higiene e asseio;\n\nd) Limpar os espaços coletivos sempre que resulte da sua intervenção direta foco de sujidade não decorrente da utilização normal, e contribuir, em condições de igualdade com os restantes cobeneficiários, para a limpeza periódica dos espaços de utilização comum, de modo a que se mantenham em boas condições de higiene e asseio;\n\ne) Deixar as zonas comuns em perfeito estado de asseio e arrumo após a sua utilização de modo a permitir a sua correta e higiénica utilização pelos demais residentes;\n\nf) Utilizar de modo correto e zeloso os equipamentos do locado, contribuindo para a boa conservação dos mesmos, sob pena de indemnização à BragaHabit pelos danos causados;\n\ng) Comunicar imediatamente à BragaHabit qualquer anomalia detetada nas instalações e equipamentos da residência, independentemente do uso exclusivo;\n\nh) Utilizar corretamente as partes comuns do prédio, se constituído em propriedade horizontal, respeitando os Regulamentos do condomínio, quando existam, e as normas contidas no “Guia do beneficiário das residências partilhadas” entregue a cada beneficiário no momento da atribuição do apoio;\n\ni) Cada residente é responsável pelo tratamento da sua roupa, incluindo a utilizada na sua cama e higiene pessoal;\n\nj) A lavagem, tratamento e secagem de roupa deve ser realizada de acordo com as orientações a fornecer pela BragaHabit para cada residência específica, não sendo permitido estender roupa fora dos locais destinados para o efeito;\n\nk) Manter com os cobeneficiários da sua residência relação de sã convivência e urbanidade;\n\nl) Não fumar no interior da residência;\n\nm) Não foguear, nem fazer fumos dentro da residência;\n\nn) Participar nas reuniões e sessões de acompanhamento a realizar com os técnicos da BragaHabit;\n\no) Não permitir ou facilitar, por qualquer modo, a pernoita de terceiros não cobeneficiários;\n\np) Não aceder aos quartos de dormir exclusivamente destinados ao uso dos outros cobeneficiários da Residência Partilhada, salvo motivo de força maior, como a prestação de auxílio ao beneficiário a quem o quarto está adstrito, ou expressa autorização deste último nesse sentido;\n\nq) Não se ausentar da residência por 90 ou mais dias consecutivos, sem prévia notificação à BragaHabit;\n\nr) Proceder ao pontual pagamento da contraprestação devida pelo apoio à habitação, bem como ao pagamento da sua parte das despesas comuns da habitação, tudo nos termos do presente capítulo;\n\ns) Abster-se do consumo de quaisquer substâncias estupefacientes ou psicoativas ilícitas, bem como do consumo excessivo de bebidas alcoólicas."
+  },
+  "1170595475": {
+   "fragment_id": "1170595375",
+   "type": 11,
+   "heading": "Artigo 93.º — Visitas de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Visitas de terceiros\n\n1 - As visitas só podem permanecer na Residência entre as 10h e as 22h, cabendo ao anfitrião garantir que o visitante cumpra todas as regras de funcionamento da Residência.\n\n2 - As visitas não podem permanecer na residência, salvo na situação prevista na alínea e) do artigo 90.º"
+  },
+  "1170599975": {
+   "fragment_id": "1170599875",
+   "type": 11,
+   "heading": "Artigo 94.º — Danos nas instalações e equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Danos nas instalações e equipamentos\n\n1 - O beneficiário que danificar instalações ou os equipamentos colocados à disposição pela BragaHabit é responsável pelas despesas de reparação ou substituição dos bens danificados.\n\n2 - Nos casos em que não é possível identificar o autor dos danos a responsabilidade será imputada a todos os cobeneficiários da Residência."
+  },
+  "1170600175": {
+   "fragment_id": "1170600075",
+   "type": 11,
+   "heading": "Artigo 95.º — Produção de ruídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Produção de ruídos\n\n1 - Durante o dia, no período compreendido entre as 8h e as 22h, deve ser mantido um nível de ruído moderado e que permita um bom ambiente na Residência, bem como o direito ao descanso dos demais residentes, devendo cada residente adequar o seu comportamento por forma a cumprir estas determinações.\n\n2 - Não é permitido o uso de instrumentos musicais na residência, salvo quando os restantes residentes o consintam mediante comunicação apresentada à BragaHabit.\n\n3 - Quaisquer situações que impliquem um aumento de ruído (tais como celebrações e festas específicas como as de aniversário) devem ser previamente comunicadas à BragaHabit."
+  },
+  "1170595675": {
+   "fragment_id": "1170595575",
+   "type": 6,
+   "heading": "Subdivisão IV — MOBILIDADE E CESSAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subdivisão IV — MOBILIDADE E CESSAÇÃO"
+  },
+  "1170595875": {
+   "fragment_id": "1170595775",
+   "type": 11,
+   "heading": "Artigo 96.º — Mobilidade por iniciativa da BragaHabit",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Mobilidade por iniciativa da BragaHabit\n\n1 - Em caso de necessidade de desocupação da habitação adstrita ao Regime de Residência Partilhada, por razões de gestão do seu parque habitacional, nomeadamente para efeitos de reabilitação do edificado ou por desadequação superveniente às necessidades habitacionais dos cobeneficiários, a BragaHabit poderá, após audição dos interessados, resolver o contrato e atribuir-lhes outro apoio habitacional, no mesmo concelho da anterior, dentro da disponibilidade do referido parque habitacional.\n\n2 - A comunicação da BragaHabit relativa à resolução do contrato a que se reporta o número anterior é comunicada por carta registada com aviso de receção, com identificação da morada da nova habitação, menção à obrigação de desocupação e entrega da habitação, e ao prazo fixado para o efeito, nunca inferior a 60 dias, bem como referência à consequência do não cumprimento daquela obrigação.\n\n3 - A recusa ou falta de resposta do beneficiário à comunicação referida no número anterior, no prazo fixado, torna exigível a desocupação e a entrega da habitação, constituindo aquela comunicação fundamento bastante para execução coerciva da decisão."
+  },
+  "1170600375": {
+   "fragment_id": "1170600275",
+   "type": 11,
+   "heading": "Artigo 97.º — Mobilidade por iniciativa do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Mobilidade por iniciativa do beneficiário\n\n1 - A transferência de residência poderá ser permitida, mediante apresentação de pedido escrito pelo beneficiário, com invocação das razões para o facto.\n\n2 - A BragaHabit decidirá do pedido referido no número anterior tomando em consideração as razões de oportunidade invocadas, a disponibilidade de alojamento e ainda outras razões de conveniência."
+  },
+  "1170603575": {
+   "fragment_id": "1170595975",
+   "type": 11,
+   "heading": "Artigo 98.º — Resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Resolução\n\n1 - A BragaHabit poderá fazer cessar o apoio concedido no âmbito do Regime de Residências Partilhadas, verificado qualquer dos fundamentos de resolução previstos para o Regime de Arrendamento Apoiado, nos termos do artigo 41.º do presente Regulamento, com as devidas adaptações.\n\n2 - Constitui fundamento de resolução, pela BragaHabit, a violação de qualquer uma das obrigações previstas nos artigos 92.º, 93.º, 94.º e 95.º do presente Regulamento, bem como a verificação superveniente de qualquer dos impedimentos previstos no seu artigo 82.º\n\n3 - Constitui ainda causa de resolução, designadamente, a verificação das seguintes situações:\n\na) A falta de comparência, pelo beneficiário, a duas ou mais reuniões ou convocatórias dirigidas pela BragaHabit;\n\nb) A recusa de acompanhamento por serviços externos à BragaHabit, designadamente pelo IEFP (Instituto de Emprego e Formação Profissional) e o ISS (Instituto da Segurança Social), quando tal acompanhamento seja classificado pelos serviços sociais da BragaHabit como fundamental para assegurar o seu bem-estar;\n\nc) Estado de doença que coloque o beneficiário em condições de dependência severa de terceiros, que exija um acompanhamento permanente, incluindo durante a noite, tornando o apoio ao arrendamento em Regime de Residência Partilhada desadequado às suas necessidades;\n\nd) A falta de pagamento atempado de duas ou mais prestações mensais, seguidas ou interpoladas, devidas como contraprestação do apoio à habitação em residência partilhada, bem como do pagamento da sua parte das despesas comuns da habitação, tudo nos termos do presente capítulo."
+  }
+ }
+}

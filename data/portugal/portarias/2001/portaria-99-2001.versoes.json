@@ -1,0 +1,370 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:318973:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-989257945",
+ "dre_path": "/dr/detalhe/portaria/99-2001-318973",
+ "source_lastmod": "2026-02-02",
+ "versions": [
+  {
+   "date": "2001-02-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "989286675",
+    "989286875",
+    "989287275",
+    "989287475",
+    "989287675",
+    "989287875",
+    "989288075",
+    "989288275",
+    "989288475",
+    "989288675",
+    "989288875",
+    "989289075",
+    "989289275",
+    "989289475",
+    "989289675",
+    "989289875",
+    "989290075",
+    "989290275",
+    "989290475",
+    "989290675",
+    "989290875",
+    "989291075",
+    "989291275",
+    "989291475",
+    "989291675",
+    "989291875"
+   ]
+  },
+  {
+   "date": "2006-10-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:541796:por",
+     "title": "Portaria n.º 1075/2006",
+     "published": "2006-10-03",
+     "dre_path": "/dr/detalhe/portaria/1075-2006-541796"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "989286675",
+    "989286875",
+    "989287075",
+    "989287275",
+    "989287475",
+    "989287675",
+    "989287875",
+    "989288075",
+    "989288275",
+    "989288475",
+    "989288675",
+    "989288875",
+    "989289075",
+    "989289275",
+    "989289475",
+    "989289675",
+    "989289875",
+    "989290075",
+    "989290275",
+    "989290475",
+    "989290675",
+    "1029684124",
+    "989291075",
+    "989291275",
+    "989291475",
+    "989291675",
+    "989291875"
+   ]
+  },
+  {
+   "date": "2014-03-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571914:por",
+     "title": "Decreto-Lei n.º 38/2014",
+     "published": "2014-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2014-571914"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "989286675",
+    "989286875",
+    "989287075",
+    "989287275",
+    "989287475",
+    "989287675",
+    "989287875",
+    "989288075",
+    "989288275",
+    "989288475",
+    "989288675",
+    "989288875",
+    "989289075",
+    "989289275",
+    "989289475",
+    "989289675",
+    "989289875",
+    "989290075",
+    "989290275",
+    "989290475",
+    "989290675",
+    "1033275799",
+    "989291075",
+    "989291275",
+    "989291475",
+    "989291675",
+    "989291875"
+   ]
+  }
+ ],
+ "fragments": {
+  "989286675": {
+   "fragment_id": "989286575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Na sequência do Regulamento (CE) n.º 1257/1999, do Conselho, de 17 de Maio, foi aprovado o Plano de Desenvolvimento Rural, abreviadamente designado por RURIS, que instituiu a intervenção Reforma Antecipada.\n\nA intervenção Reforma Antecipada tem carácter horizontal e contribui para a transferência de explorações de agricultores mais idosos para outros mais jovens garantindo a continuidade de explorações viáveis e impedindo o crescente abandono dos meios rurais.\n\nO rejuvenescimento do tecido empresarial agrícola cria, igualmente, condições para o desenvolvimento de uma agricultura mais moderna, mais aberta às inovações, com particular destaque para as práticas compatíveis com a conservação da qualidade ambiental.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 3.º do Decreto-Lei n.º 8/2001, de 22 de Janeiro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento de Aplicação da Intervenção Reforma Antecipada do Programa de Desenvolvimento Rural, abreviadamente designado por RURIS, em anexo ao presente diploma e do qual faz parte integrante.\n\n2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "989286875": {
+   "fragment_id": "989286775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 25 de Janeiro de 2001."
+  },
+  "989287275": {
+   "fragment_id": "989287175",
+   "type": 8,
+   "heading": "Secção I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I\n\nDisposições gerais"
+  },
+  "989287475": {
+   "fragment_id": "989287375",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nObjecto\n\nO presente Regulamento estabelece o regime de aplicação da intervenção Reforma Antecipada do Plano de Desenvolvimento Rural, abreviadamente designado por RURIS."
+  },
+  "989287675": {
+   "fragment_id": "989287575",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nObjectivos\n\nO regime de ajudas instituído pelo presente Regulamento tem por objectivos, nomeadamente, os seguintes:\n\na) Proporcionar um rendimento adequado aos agricultores idosos que decidirem cessar a sua actividade agrícola;\n\nb) Favorecer a substituição desses agricultores idosos por agricultores que possam, sempre que necessário, melhorar a viabilidade económica das explorações resultantes;\n\nc) Reafectar terras agrícolas a utilizações não agrícolas quando a sua afectação a fins agrícolas não seja possível em condições satisfatórias de viabilidade económica;\n\nd) Proporcionar um rendimento apropriado aos trabalhadores agrícolas idosos que trabalhem nas explorações agrícolas detidas por agricultores que decidam cessar a sua actividade agrícola."
+  },
+  "989287875": {
+   "fragment_id": "989287775",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nDefinições\n\n1 - Para efeitos do presente Regulamento entende-se por:\n\na) «Capacidade profissional adequada»:\n\ni) Estar habilitado com curso superior, médio, técnico-profissional ou equivalente nos domínios da agricultura, silvicultura ou pecuária;\n\nii) Ter frequentado com aproveitamento um curso de formação profissional para empresários agrícolas da responsabilidade do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, ou outro curso equivalente reconhecido por este Ministério;\n\niii) Ter trabalhado por um período não inferior a três anos na agricultura, silvicultura ou pecuária como empresário agrícola, assalariado ou em regime de mão-de-obra familiar nos cinco anos anteriores à candidatura;\n\nb) «Residência ou sede na área da exploração» - residência no concelho da exploração transmitida ou em concelho limítrofe ou num raio máximo de 20 km da exploração;\n\nc) «Unidade de dimensão europeia (UDE)» - corresponde a 1200 euros de margem bruta padrão;\n\nd) «Dimensão económica de uma exploração» - obtém-se dividindo a margem bruta total padrão da exploração por 1200 euros;\n\ne) «Cônjuge a cargo» - cônjuge que vive com o empresário, dependendo dele economicamente. Considera-se que não há dependência económica quando o cônjuge exerce uma actividade remunerada, recebe qualquer pensão da segurança social, subsídio de desemprego ou qualquer outra prestação pública análoga ou ainda quaisquer outros rendimentos regulares.\n\n2 - Para efeito das alíneas c) e d) do número anterior são utilizadas as margens brutas padrão de referência divulgadas pelo Gabinete de Planeamento e de Política Agro-Alimentar."
+  },
+  "989288075": {
+   "fragment_id": "989287975",
+   "type": 8,
+   "heading": "Secção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II\n\nAjuda aos empresários agrícolas"
+  },
+  "989288275": {
+   "fragment_id": "989288175",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nCondições de acesso dos empresários agrícolas\n\n1 - Podem ser concedidas ajudas aos empresários agrícolas que reúnam as seguintes condições:\n\na) Venham exercendo a actividade agrícola durante os últimos 10 anos;\n\nb) Tenham, pelo menos, 55 anos e não tenham atingido os 65 anos de idade;\n\nc) Estejam inscritos na segurança social como produtores agrícolas, tenham a situação contributiva regularizada e tenham contribuído durante um período de, pelo menos, cinco anos, que lhes permita completar, ao atingir os 70 anos, o prazo de garantia;\n\nd) Não tenham requerido nem aufiram pensão de invalidez cuja eventualidade se tenha verificado no exercício da actividade agrícola;\n\ne) Sejam titulares de uma exploração agrícola com a área mínima estabelecida no anexo I ao presente Regulamento e do qual faz parte integrante;\n\nf) Não tenham procedido ao aumento em mais de 15% da área da sua exploração agrícola nos 12 meses anteriores à data da candidatura, excepto nos casos de herança;\n\ng) Assegurem a utilização futura da totalidade da sua exploração agrícola através de venda, arrendamento ou doação a outro agricultor que, não sendo seu cônjuge, reúna as condições estabelecidas no artigo 8.º, ou, em alternativa e excepto nos perímetros de emparcelamento, a transmitam, por qualquer das formas previstas nesta alínea, a pessoa que, não sendo seu cônjuge, se comprometa a utilizar as terras nas condições estabelecidas no artigo 10.º;\n\nh) Assumam os compromissos referidos no artigo seguinte.\n\n2 - Quando o empresário agrícola seja arrendatário, para além do disposto nos números anteriores, deverá verificar-se a resolução do respectivo contrato de arrendamento rural e ainda uma das seguintes condições a seguir indicadas, por ordem de preferência:\n\na) O proprietário assumir a gestão da exploração, caso reúna as condições previstas no artigo 8.º, ou comprometer-se a transmitir através de venda, arrendamento ou doação a exploração a um agricultor que reúna essas mesmas condições;\n\nb) O proprietário passar a utilizar as terras nas condições referidas no artigo 10.º ou transmiti-las através de venda, arrendamento ou doação a uma pessoa que se comprometa a utilizá-las nessas condições.\n\n3 - O disposto na alínea b) do número anterior não se aplica nos perímetros de emparcelamento.\n\n4 - Nos casos de venda, arrendamento ou doação da exploração a mais de um cessionário, cada uma das explorações resultantes não pode ser inferior à área mínima de acesso prevista no anexo I."
+  },
+  "989288475": {
+   "fragment_id": "989288375",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nCompromissos dos empresários agrícolas\n\n1 - Para efeitos de atribuição de ajuda os empresários agrícolas devem comprometer-se a:\n\na) Cessar definitivamente a actividade agrícola, até completar 65 anos de idade;\n\nb) Não requerer a pensão de invalidez por eventualidade ocorrida no exercício da actividade agrícola;\n\nc) Requerer a pensão de velhice três meses antes de atingir as respectivas condições de atribuição, excepto se a aprovação da candidatura ocorrer nesse período, caso em que o deverão fazer no mês imediatamente seguinte ao da aprovação;\n\nd) Remeter à direcção regional de agricultura da área da exploração, durante o mês de Janeiro de cada ano e durante o período de atribuição das ajudas previstas neste diploma, uma declaração sob compromisso de honra em como não exercem a actividade agrícola com fins comerciais.\n\n2 - A cessação da actividade agrícola referida na alínea a) do número anterior deverá verificar-se após a celebração do contrato de atribuição de ajuda e no prazo de seis meses a contar da data da aprovação da candidatura.\n\n3 - A prorrogação do prazo previsto no número anterior apenas poderá ter lugar uma única vez e por período não superior a seis meses."
+  },
+  "989288675": {
+   "fragment_id": "989288575",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAutoconsumo\n\nSem prejuízo do disposto na alínea g) do n.º 1 do artigo 4.º e fora dos perímetros de emparcelamento, os beneficiários podem reservar até 10% da área agrícola da exploração para autoconsumo, até ao limite máximo de 1 ha, não podendo as áreas de regadio, vinha, pomar e olival exceder, em conjunto, 0,25 ha."
+  },
+  "989288875": {
+   "fragment_id": "989288775",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAjuda aos empresários agrícolas e respectivos cônjuges\n\n1 - Podem ser concedidas ajudas, conjuntamente ao empresário agrícola e respectivo cônjuge, desde que este trabalhe na exploração e ambos cessem simultaneamente a actividade agrícola e reúnam as condições previstas no número seguinte.\n\n2 - No caso referido no número anterior, o empresário agrícola deve reunir as condições estabelecidas no artigo 4.º e o seu cônjuge as seguintes:\n\na) Ter, pelo menos, 55 anos de idade e não ter atingido os 65 anos de idade à data da cessação da actividade agrícola;\n\nb) Estar inscrito na segurança social como cônjuge do produtor agrícola, ter a situação contributiva regularizada e ter contribuído durante um período de, pelo menos, 5 anos, que lhe permita completar, ao atingir os 70 anos, o prazo de garantia;\n\nc) Não ter requerido nem auferir pensão de invalidez cuja eventualidade se tenha verificado no exercício da actividade agrícola;\n\nd) Ter consagrado à agricultura na exploração nos últimos quatro anos, pelo menos, metade do seu tempo de trabalho;\n\ne) Assumir os compromissos referidos no artigo 5.º"
+  },
+  "989289075": {
+   "fragment_id": "989288975",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nCondições do cessionário agrícola\n\n1 - O cessionário da exploração deve reunir as seguintes condições:\n\na) Ter capacidade profissional adequada;\n\nb) Ter idade inferior a 50 anos, excepto se se tratar do proprietário de, pelo menos, metade das terras recebidas do cessante ou a exploração resultante se situe, em mais de 50%, em perímetro de emparcelamento e desde que a sua transmissão contribua para os objectivos do emparcelamento em curso;\n\nc) Ter a residência ou sede, no caso das pessoas colectivas, na área da exploração transmitida;\n\nd) Assumir os compromissos referidos no artigo seguinte.\n\n2 - O cessionário poderá ser uma pessoa colectiva, desde que reúna as condições estabelecidas no número anterior, com excepção das previstas nas alíneas a) e b), que são exigidas para o administrador ou gerente responsável pela exploração."
+  },
+  "989289275": {
+   "fragment_id": "989289175",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCompromissos do cessionário agrícola\n\n1 - O cessionário agrícola deve comprometer-se a:\n\na) Assumir a gestão da exploração na data em que o anterior titular cesse a sua actividade;\n\nb) Respeitar as normas mínimas de ambiente, higiene e bem-estar dos animais;\n\nc) Garantir que a nova exploração, caso não tenha 8 UDE, venha a atingir essa dimensão económica no prazo máximo de dois anos a contar da data da instalação do cessionário;\n\nd) Manter a actividade agrícola na exploração durante, pelo menos, 10 anos sem que ao longo deste período diminua a sua dimensão económica, podendo transmiti-la nas mesmas condições a uma pessoa que satisfaça os requisitos previstos no artigo anterior, sem prejuízo de outras limitações impostas ao abrigo de outros regimes de ajudas.\n\n2 - As direcções regionais de agricultura devem, no final do prazo previsto na alínea c) do número anterior, proceder à realização de uma visita à exploração do cessionário para confirmação do compromisso referido naquela alínea.\n\n3 - A transmissão referida na alínea d) do n.º 1 deverá ser objecto de aprovação pelo gestor do RURIS."
+  },
+  "989289475": {
+   "fragment_id": "989289375",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nCondições e compromissos do cessionário não agrícola\n\nA pessoa individual ou colectiva que assume a titularidade da exploração para fins não agrícolas deve comprometer-se a utilizar as terras durante, pelo menos, 10 anos, nas seguintes condições alternativas:\n\na) Proceder à sua florestação de acordo com um projecto aprovado pelo RURIS;\n\nb) Criar reservas agro-ecológicas de um modo compatível com a protecção ou melhoria da qualidade do ambiente e do espaço rural."
+  },
+  "989289675": {
+   "fragment_id": "989289575",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nMontantes e limites da ajuda\n\n1 - A ajuda a conceder no âmbito da presente secção é calculada tendo em conta uma indemnização base anual de 4500 ou 3600 euros, consoante o empresário agrícola se candidate ou não com cônjuge a cargo, ou de 5700 euros, no caso da ajuda prevista no artigo 7.º\n\n2 - A indemnização base anual será majorada, uma única vez, em 1200 euros sempre que o cessionário seja um jovem agricultor que se instale em regime de primeira instalação ao abrigo do Regulamento de Aplicação da Medida n.º 1, «Modernização, Reconversão e Diversificação das Explorações Agrícolas», aprovado pela Portaria n.º 533-B/2000, de 1 de Agosto.\n\n3 - No caso do cessionário ser parente em 1.º grau do empresário agrícola e se instale em regime de primeira instalação nos termos do número anterior, a majoração referida naquele número apenas será atribuída quando a transmissão da exploração seja feita através de venda ou doação.\n\n4 - A indemnização prevista nos números anteriores é acrescida de um prémio complementar de 390 euros/ano por hectare de regadio, vinha, pomar ou olival e de 96 euros/ano por hectare de sequeiro.\n\n5 - A ajuda calculada nos termos dos números anteriores é paga em prestações mensais, até ao limite de 725 euros/mês ou 900 euros/mês, no caso previsto no artigo 7.º\n\n6 - O pagamento da ajuda efectuar-se-á durante um período máximo de 10 anos.\n\n7 - Em caso de morte do beneficiário, a ajuda continua a ser paga nas mesmas condições ao cônjuge, descendentes menores em 1.º grau ou outras pessoas a cargo, deduzida, se for caso disso, da pensão de sobrevivência.\n\n8 - Quando o beneficiário passe a receber uma pensão de reforma por velhice, a ajuda passará a constituir um complemento de reforma, de montante equivalente à diferença entre o valor da ajuda anual atribuída e o valor anual da respectiva reforma, incluindo o montante adicional da pensão.\n\n9 - O montante da ajuda poderá ser repartido, na proporção das respectivas áreas, por vários co-titulares de uma exploração desde que todos reúnam as condições de acesso."
+  },
+  "989289875": {
+   "fragment_id": "989289775",
+   "type": 8,
+   "heading": "Secção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III\n\nAjuda aos familiares e trabalhadores agrícolas"
+  },
+  "989290075": {
+   "fragment_id": "989289975",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nCondições de acesso e compromissos\n\nPodem ser concedidas ajudas aos familiares, com excepção do cônjuge, e aos trabalhadores agrícolas que reúnam as seguintes condições:\n\na) Estejam no momento da cessação da actividade a trabalhar na exploração do empresário agrícola referido na secção anterior;\n\nb) Tenham pelo menos 55 anos e não tenham atingido os 65 anos de idade à data da cessação da actividade;\n\nc) Tenham consagrado à agricultura nos últimos cinco anos, pelo menos, metade do seu tempo de trabalho;\n\nd) Tenham trabalhado na exploração do empresário referido na secção anterior durante um período equivalente a dois anos a tempo inteiro, durante os últimos quatro anos;\n\ne) Estejam inscritos na segurança social como trabalhadores por conta de outrem, tenham a situação contributiva regularizada e tenham contribuído durante um período de, pelo menos, cinco anos, que lhes permita completar, ao atingir os 65 anos de idade, o prazo de garantia;\n\nf) Não aufiram nem tenham requerido pensão de invalidez cuja eventualidade se tenha verificado no exercício da actividade agrícola;\n\ng) Assumam os compromissos referidos no artigo 5.º"
+  },
+  "989290275": {
+   "fragment_id": "989290175",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nMontantes e limites da ajuda\n\n1 - A ajuda a conceder no âmbito da presente secção é de 291 euros/mês.\n\n2 - O pagamento da ajuda efectuar-se-á durante um período máximo de 10 anos, até aos 65 anos de idade do beneficiário.\n\n3 - O disposto no n.º 7 do artigo 11.º aplica-se à presente ajuda.\n\n4 - O número máximo de beneficiários da ajuda prevista na presente secção é de dois por exploração agrícola."
+  },
+  "989290475": {
+   "fragment_id": "989290375",
+   "type": 8,
+   "heading": "Secção IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV\n\nNormas processuais"
+  },
+  "989290675": {
+   "fragment_id": "989290575",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nFormalização das candidaturas\n\n1 - As candidaturas são formalizadas através da apresentação de formulário próprio junto das direcções regionais de agricultura da área das explorações ou noutras entidades que venham a ser reconhecidas para o efeito.\n\n2 - O formulário referido no número anterior deve ser acompanhado de todos os documentos indicados nas respectivas instruções.\n\n3 - A formalização das candidaturas nos termos dos números anteriores tem lugar, no máximo, até oito meses antes de o beneficiário atingir os 65 anos de idade."
+  },
+  "989290875": {
+   "fragment_id": "989290775",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAnálise e decisão das candidaturas\n\n1 - A análise das candidaturas e a formulação das propostas de decisão compete às direcções regionais de agricultura.\n\n2 - A decisão de candidaturas compete ao gestor do RURIS."
+  },
+  "989291075": {
+   "fragment_id": "989290975",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nContrato de atribuição de ajudas\n\nA atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contrato celebrado entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP), os beneficiários e o cessionário, no prazo máximo de 20 dias a contar da data da aprovação da respectiva candidatura."
+  },
+  "989291275": {
+   "fragment_id": "989291175",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nPagamento das ajudas\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP, nos termos do contrato.\n\n2 - O início do pagamento das ajudas tem lugar no prazo de dois meses após a comunicação ao IFADAP, pela direcção regional de agricultura respectiva, de que o beneficiário cessou a actividade agrícola.\n\n3 - A ajuda é paga mensalmente e é devida a partir do mês seguinte à confirmação pela DRA, mediante relatório de visita, da cessação da actividade agrícola do beneficiário.\n\n4 - A não apresentação da declaração referida na alínea d) do n.º 1 do artigo 5.º suspende o pagamento da ajuda a partir do mês em que a mesma devia ter sido apresentada."
+  },
+  "989291475": {
+   "fragment_id": "989291375",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAcumulação de ajudas\n\n1 - O montante pago aos beneficiários a título de prémio por abandono da produção leiteira é acumulável com o montante pago a título da ajuda prevista no presente Regulamento, até que o valor de ambas não exceda os montantes máximos da ajuda previstos no n.º 5 do artigo 11.º\n\n2 - Sem prejuízo do disposto no número anterior, os beneficiários das ajudas previstas no presente Regulamento não podem beneficiar ou vir a beneficiar de qualquer outro tipo de ajuda que pressuponha o exercício da actividade agrícola."
+  },
+  "989291675": {
+   "fragment_id": "989291575",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nSanções do cessionário\n\nSem prejuízo do disposto no Decreto-Lei n.º 8/2001, de 22 de Janeiro, em caso de incumprimento pelo cessionário agrícola ou não agrícola dos compromissos assumidos, este fica obrigado a indemnizar o Estado no montante equivalente a 10% das ajudas recebidas até àquela data pelo beneficiário com um mínimo de 2000 euros, ficando ainda interdito de se candidatar a qualquer ajuda no âmbito do RURIS durante o período restante da atribuição da ajuda ao cessante, mas nunca por período inferior a cinco anos."
+  },
+  "989291875": {
+   "fragment_id": "989291775",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n[a que se refere a alínea e) do n.º 1 do artigo 4.º]\n\n(ver quadro no documento original)"
+  },
+  "989287075": {
+   "fragment_id": "989286975",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DA INTERVENÇÃO REFORMA ANTECIPADA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DA INTERVENÇÃO REFORMA ANTECIPADA"
+  },
+  "1029684124": {
+   "fragment_id": "989290775",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2006-10-08",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1075/2006 - Diário da República n.º 191/2006, Série I de 2006-10-03](https://diariodarepublica.pt/dr/detalhe/portaria/1075-2006-541796), em vigor a partir de 2006-10-08"
+   ],
+   "markdown": "###### Artigo 15.º\n\nAnálise e decisão das candidaturas\n\n1 - A análise das candidaturas e a formulação das propostas de decisão compete às direcções regionais de agricultura.\n\n2 - A decisão de candidaturas e as suas alterações compete ao presidente do Instituto de Desenvolvimento Rural e Hidráulica (IDRHa).\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1075/2006 - Diário da República n.º 191/2006, Série I de 2006-10-03](https://diariodarepublica.pt/dr/detalhe/portaria/1075-2006-541796), em vigor a partir de 2006-10-08"
+  },
+  "1033275799": {
+   "fragment_id": "989290775",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2014-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1075/2006 - Diário da República n.º 191/2006, Série I de 2006-10-03](https://diariodarepublica.pt/dr/detalhe/portaria/1075-2006-541796), em vigor a partir de 2006-10-08"
+   ],
+   "markdown": "###### Artigo 15.º\n\nAnálise e decisão das candidaturas\n\n1 - A análise das candidaturas e a formulação das propostas de decisão compete às direcções regionais de agricultura.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2014 - Diário da República n.º 52/2014, Série I de 2014-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2014-571914), em vigor a partir de 2014-03-15\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1075/2006 - Diário da República n.º 191/2006, Série I de 2006-10-03](https://diariodarepublica.pt/dr/detalhe/portaria/1075-2006-541796), em vigor a partir de 2006-10-08"
+  }
+ }
+}

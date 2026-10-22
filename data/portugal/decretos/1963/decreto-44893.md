@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:145869:por
+title: Decreto n.º 44893
+short_title: null
+summary: Estabelece o regime a que ficam sujeitas as operações de importação e exportação de capitais privados entre as províncias
+  ultramarinas e o estrangeiro
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: '44893'
+official_date: null
+publication_date: '1963-02-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 43/1963, 1º Suplemento, Série I de 1963-02-20
+  number: '43'
+  series: I
+  supplement: 1º Suplemento
+  pages: 192 - 194
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/02/04301/01920194.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '145869'
+  dre_path: /dr/detalhe/decreto/44893-1963-145869
+  internal: pt:dre:145869:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44893-1963-145869
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44893-1963-145869
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1970-04-28T00:00:00Z'
+integrity:
+  source_sha256: bae2378c9680125aba379ceeaefd8e7c3b1b16fe636980e755978914c600aa65
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-44893-145869.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:225988:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44893
+
+Considerando o disposto no § 1.º do artigo 2.º do [Decreto-Lei n.º 44016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44016-1961-182232), de 8 de Novembro de 1961, e no artigo 21.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º Ficam sujeitas ao regime deste decreto as operações de importação e exportação de capitais privados entre as províncias ultramarinas e o estrangeiro.
+
+§ único. Para efeito deste diploma consideram-se operações de importação e exportação de capitais privados as relativas as operações indicadas no anexo II ao [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962, quando o importador ou o exportador seja pessoa de direito privado residente numa província ultramarina.
+
+###### Art. 2.º Serão publicadas no Diário do Governo e no Boletim Oficial das províncias ultramarinas, mediante despacho do Ministro do Ultramar, as listas de liberalização das operações de importação e exportação de capitais privados.
+
+§ único. A Inspecção-Geral de Crédito e Seguros promoverá a publicação das listas de operações liberalizadas por efeito de convenções, tratados ou acordos internacionais.
+
+###### Art. 3.º As operações referidas no artigo 1.º ficam sujeitas a autorização especial e prévia da inspecção de créditos e seguros ou do comércio bancário da respectiva província.
+
+§ único. Quando o valor das operações exceda 10000000$00, a autorização fica sujeita a homologação do governador da província e, excedendo 50000000$00, a homologação do Ministro do Ultramar.
+
+###### Art. 4.º Os pedidos de autorização para efectuar operações abrangidas pelo artigo 1.º serão dirigidos à inspecção de crédito e seguros ou do comércio bancário da respectiva província ultramarina, deles devendo constar, ou sendo-lhes juntos por anexo, todos os elementos de informação ou de prova indispensáveis à completa identificação dos intervenientes, à perfeita determinação da natureza e valor das operações e ao conhecimento preciso dos direitos e obrigações ínsitos nas operações ou delas decorrentes.
+
+§ único. Para instrução do processo relativo aos pedidos de autorização, a inspecção de crédito e seguros ou do comércio bancário da respectiva província ouvirá o Banco de Portugal quanto ao aspecto monetário-cambial das operações e sempre que o valor ou a natureza destas o justifique e terá em conta as obrigações de liberalização assumidas pelo País por efeito de convenções, tratados, acordos internacionais ou análogos actos; além disso, e sempre que o considere necessário para a apreciação do interesse e efeitos económicos das ditas operações, poderá solicitar o parecer de quaisquer departamentos oficiais, inclusive os organismos de coordenação económica, e, bem assim, o de quaisquer organismos corporativos.
+
+###### Art. 5.º As autorizações serão passadas em quatro exemplares, marcados de A a D, destinando-se o exemplar A à inspecção de crédito e seguros ou do comércio bancário, os B e C aos interessados e o D ao Banco de Portugal.
+
+§ 1.º Os prazos de validade dos boletins de autorização não deverão, em regra, exceder o período de 90 dias, a contar da data de emissão dos mesmos boletins.
+
+§ 2.º Quando, em virtude das características e natureza das operações, a inspecção de crédito e seguros ou do comércio bancário o considerar justificável, poderão ser concedidos prazos de utilização mais largos.
+
+§ 3.º A inspecção de crédito e seguros ou do comércio bancário poderá ainda renovar a validade de boletins de autorização que não tenham sido utilizados, desde que considere procedentes os motivos apresentados pelos interessados dentro do prazo de cinco dias, a contar da data fixada como limite para a utilização dos referidos boletins. Ao Banco de Portugal deverá ser dado conhecimento da revalidação dos boletins de autorização.
+
+§ 4.º Quando os beneficiários das autorizações não as utilizarem e não queiram prevalecer-se da faculdade concedida no parágrafo anterior, deverão no prazo de cinco dias, a contar da data fixada como limite para a utilização dos boletins, devolver os exemplares em seu poder à inspecção de crédito e seguros ou do comércio bancário da província em causa.
+
+###### Art. 6.º Os interessados na importação ou exportação de capitais privados podem efectuar as correspondentes operações cambiais, indistintamente, nas províncias ultramarinas ou no continente ou ilhas adjacentes, mas sempre com intervenção de uma instituição de crédito autorizada a exercer o comércio de câmbios, à qual deverão entregar, nos prazos a que se referem os §§ 1.º, 2.º e 3.º do artigo 5.º, o exemplar C da autorização concedida.
+
+§ 1.º As instituições de crédito que, exercendo o comércio de câmbios em qualquer território nacional, intervierem na liquidação das operações indicadas no proémio do artigo deverão observar, conforme o caso, o disposto no artigo 41.º do [Decreto-Lei n.º 44699](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44699-1962-237461), de 17 de Novembro de 1962, ou no artigo 45.º do [Decreto-Lei n.º 44700](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44700-1962-237462), da mesma data.
+
+§ 2.º A inspecção de crédito e seguros ou do comércio bancário que tiver autorizado as operações de importação de capitais poderá permitir que à importância total das operações cambiais correspondentes sejam deduzidas comissões, despesas no estrangeiro ou quaisquer outros inerentes encargos legítimos.
+
+###### Art. 7.º A instituição de crédito autorizada a exercer o comércio de câmbios que tenha efectuado as operações cambiais pertinentes à realização das importações ou exportações de capitais autorizadas enviará à inspecção de crédito e seguros ou do comércio bancário que tiver emitido o boletim, directamente ou por intermédio do Banco de Portugal, quando se tratar de operações efectuadas no continente ou ilhas adjacentes, ou por intermédio da inspecção de crédito e seguros ou do comércio bancário do território em que tiverem sido efectuadas as operações cambiais, o exemplar C da respectiva autorização, depois de nele ter anotado os elementos essenciais da operação cambial realizada.
+
+§ único. A remessa do exemplar C deverá ser feita no prazo de quinze dias, contados da data da liquidação das operações cambiais a que diga respeito.
+
+###### Art. 8.º Sempre que uma operação de importação ou exportação de capitais privados corresponda integralmente à importação ou exportação de quaisquer bens de produção ou de consumo (apports de capital en nature), os interessados nessas operações deverão remeter à inspecção de crédito e seguros ou do comércio bancário da província o exemplar C da respectiva autorização, juntamente com os exemplares E dos boletins de registo prévio das operações de comércio externo a que se referem os artigos 4.º e 5.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962.
+
+§ único. Quando, porém, o valor das operações de importação ou exportação de capitais não corresponder integralmente ao valor das correlativas operações de importação ou exportação de bens de produção ou de consumo, os interessados entregarão à instituição de crédito a que recorrerem para a efectivação das operações cambiais os exemplares C da autorização e E dos boletins de registo, mencionados no proémio do artigo, cumprindo neste caso à referida instituição a sua transmissão à inspecção de crédito e seguros ou do comércio bancário, nos termos do artigo anterior.
+
+###### Art. 9.º Na liquidação das operações de importação e exportação de capitais privados observar-se-á o estabelecido nas directivas monetárias aplicáveis na respectiva província ultramarina, nos termos do artigo 6.º do [Decreto-Lei n.º 44698](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44698-1962-237460), de 17 de Novembro de 1962, devendo, porém, as importações ser liquidadas nas moedas indicadas relativamente à exportação ou reexportação de mercadorias e as exportações de capitais nas moedas previstas para as importações de mercadorias.
+
+###### Art. 10.º Quando a operação autorizada importe a prática de actos notariais, de registo predial ou outros necessários para que a autorização produza a plenitude dos seus efeitos, deverão os interessados, dentro do prazo da autorização, promover ou requerer a sua realização.
+
+§ único. A observância do disposto no proémio do artigo deverá ser comprovada perante a inspecção de crédito e seguros ou do comércio bancário o mais tardar dentro dos quinze dias seguintes àquele em que terminar o prazo da autorização.
+
+###### Art. 11.º As inspecções de crédito e seguros ou do comércio bancário das províncias ultramarinas promoverão o envio das instruções necessárias para o cumprimento do estatuído no artigo anterior.
+
+###### Art. 12.º O presente decreto entrará em vigor em 1 de Março de 1963.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 20 de Fevereiro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas, com excepção da de Macau. - Peixoto Correia.

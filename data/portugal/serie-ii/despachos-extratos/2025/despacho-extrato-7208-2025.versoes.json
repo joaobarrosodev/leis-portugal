@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:923133581:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2025-1172815075",
+ "dre_path": "/dr/detalhe/despacho-extrato/7208-2025-923133581",
+ "source_lastmod": "2026-09-24",
+ "versions": [
+  {
+   "date": "2025-07-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1172820175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1172820175": {
+   "fragment_id": "1172815175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, na sua atual redação, por despacho, datado de 9 de junho de 2025, da presidente do Grupo Parlamentar do Partido Comunista Português deputada Paula Santos, são nomeados, com efeitos a partir de 3 de junho de 2025:\n\nAlma Benedetti Croce Rivera para o cargo de assessora;\n\nAna Maria Gloria Serrano para o cargo de adjunta de gabinete;\n\nAna Paula dos Santos Vinagre Dias Rosário para o cargo de assessora;\n\nAna Paula Pereira Batalha para o cargo de secretária de gabinete, ficando autorizada a exercer atividades na respetiva especialidade profissional prestadas, sem caráter de permanência, nos termos da alínea b) do n.º 3 do artigo 7.º do Decreto-Lei n.º 11/2012, de 20 de janeiro, com efeito à data de nomeação;\n\nAna Sofia Guerreiro Cabeleira para o cargo de consultora;\n\nAnabela Teixeira da Costa e Cunha para o cargo de assessora;\n\nAntónio Aurélio Santos Ferreira Bernardo para o cargo de consultor;\n\nAntónio Filipe Gaião Rodrigues para o cargo de assessor;\n\nBruno Ramos Dias para o cargo de assessor;\n\nCatarina Isabel Lages Pinto Ângelo para o cargo de assessora;\n\nElsa Margarida Manteigas Pedro para o cargo de consultora;\n\nHelena Cláudia Ferreira da Silva para o cargo de assessora;\n\nJoana Isabel de Brito Guterres Flores para o cargo de consultora;\n\nJosé Victor Santos Cavaco para o cargo de consultor;\n\nMaria Teresa Roça Dias para o cargo de consultora;\n\nMónica Vicente de Mendonça para o cargo de assessora;\n\nPaulo Joaquim Anacleto Costa para o cargo de assessor;\n\nPedro Miguel Pereira Dionísio Massano para o cargo de assessor;\n\nPedro Miguel Pires Ramos para o cargo de chefe de gabinete;"
+  }
+ }
+}

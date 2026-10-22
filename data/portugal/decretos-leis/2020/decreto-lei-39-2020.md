@@ -1,0 +1,180 @@
+---
+schema_version: '1.0'
+id: pt:dre:138054853:por
+title: Decreto-Lei n.º 39/2020
+short_title: null
+summary: Prorroga o prazo do processo de regularização extraordinário do património da Casa do Douro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Presidência do Conselho de Ministros
+official_number: 39/2020
+official_date: null
+publication_date: '2020-07-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 137/2020, Série I de 2020-07-16
+  number: '137'
+  series: I
+  supplement: null
+  pages: 7 - 8
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/07/13700/0000700008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/39/2020/07/16/p/dre/pt/html
+  oj: null
+  dre: '138054853'
+  dre_path: /dr/detalhe/decreto-lei/39-2020-138054853
+  internal: pt:dre:138054853:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2020-138054853
+  metadata_url: https://data.dre.pt/eli/dec-lei/39/2020/07/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2020-138054853
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2020-07-16T00:00:00Z'
+integrity:
+  source_sha256: 83a8895ebc6887a8faf1f9708bbe44c1aeae7aab5c7caaafd272bd8e6f96aea9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2020/DRE-2020-39-138054853.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fiscal Único
+- Casa do Douro
+- Comissão Administrativa
+- Definição de Competências
+- Prestação de Contas
+- Cobrança de Dívidas
+- Relatório
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2019/01/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2019/01/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/84/2019/06/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/84/2019/06/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/19/2016/06/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/19/2016/06/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/73/2019/09/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/73/2019/09/02/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 39/2020
+
+de 16 de julho
+
+O [Decreto-Lei n.º 18/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), de 25 de janeiro, alterou a [Lei n.º 19/2016](https://diariodarepublica.pt/dr/detalhe/lei/19-2016-74788779), de 24 de junho, que aprovou o regime jurídico aplicável ao património da Casa do Douro, e prorrogou o termo do prazo do processo de regularização extraordinário destinado ao saneamento financeiro do património da Casa do Douro até 30 de junho de 2019.
+
+O mencionado processo de regularização implicou a tomada de diversas medidas, como a guarda e gestão corrente dos bens da Casa do Douro e a elaboração de um inventário do seu património, a regularização dos créditos de determinados credores, tendo ainda sido promovida a avaliação do património da Casa do Douro com vista à conclusão do processo de regularização extraordinário.
+
+O Governo considera que, não se encontrando tal processo de regularização extraordinário concluído, a segurança jurídica aconselha a que seja prorrogado o seu termo, reforçando a cobertura legal dos atos praticados e a praticar pela comissão administrativa designada para o efeito, de modo que seja assegurada a continuidade da gestão do património da Casa do Douro até à efetiva conclusão do processo de regularização extraordinário.
+
+Não obstante a pendência junto do Tribunal Constitucional de um pedido de apreciação e declaração, com força obrigatória geral, da inconstitucionalidade de diversas normas da [Lei n.º 73/2019](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), de 2 de setembro - que reinstitucionaliza a Casa do Douro enquanto associação pública de inscrição obrigatória e aprova os seus estatutos -, importa salientar que o processo relativo ao saneamento financeiro aplicável ao património da Casa do Douro é autónomo daquela lei, mantendo-se na dependência dos membros do Governo responsáveis pelas áreas governativas das finanças e da agricultura. Por outro lado, importa revogar o n.º 2 do artigo 149.º do [Decreto-Lei n.º 84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, que prevê a possibilidade de atribuição ao Instituto dos Vinhos do Douro e do Porto, I. P., a conservação e gestão transitórias do património remanescente, de modo a manter as competências relativas à condução e ao termo daquele processo concentrado numa única entidade.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à segunda alteração à [Lei n.º 19/2016](https://diariodarepublica.pt/dr/detalhe/lei/19-2016-74788779), de 24 de junho, alterada pelo [Decreto-Lei n.º 18/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), de 25 de janeiro, prorrogando o prazo do processo de regularização extraordinário do património da Casa do Douro.
+
+###### Artigo 2.º — Alteração à [Lei n.º 19/2016](https://diariodarepublica.pt/dr/detalhe/lei/19-2016-74788779), de 24 de junho
+
+Os artigos 3.º, 8.º e 9.º da [Lei n.º 19/2016](https://diariodarepublica.pt/dr/detalhe/lei/19-2016-74788779), de 24 de junho, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - O processo de regularização extraordinário decorre entre a data de entrada em vigor da presente lei e a efetiva conclusão do referido processo.
+
+###### Artigo 8.º — [...]
+
+A comissão administrativa elabora e apresenta ao Governo, até ao dia 31 de março de cada ano, a prestação de contas relativa ao ano civil anterior.
+
+###### Artigo 9.º — [...]
+
+1 - ...
+
+a) A prestação de contas relativa ao período que decorra até à data do termo do processo de regularização extraordinário;
+
+b) O inventário de todos os direitos e obrigações da Casa do Douro existentes à data do termo do processo de regularização extraordinário;
+
+c) ...
+
+2 - O relatório referido no número anterior é remetido ao fiscal único para apreciação, emissão de parecer e certificação legal de contas, devendo os mesmos estar concluídos no prazo de 30 dias a contar da data de receção do relatório da comissão administrativa.
+
+3 - [Revogado.]»
+
+###### Artigo 3.º — Norma revogatória
+
+São revogados:
+
+a) O n.º 3 do artigo 9.º da [Lei n.º 19/2016](https://diariodarepublica.pt/dr/detalhe/lei/19-2016-74788779), de 24 de junho, na sua redação atual;
+
+b) O n.º 2 do artigo 149.º do [Decreto-Lei n.º 84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho.
+
+###### Artigo 4.º — Entrada em vigor e produção de efeitos
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de julho de 2019.
+
+Visto e aprovado em Conselho de Ministros de 2 de julho de 2020. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Maria do Céu de Oliveira Antunes Albuquerque.
+
+**Promulgado em 8 de julho de 2020.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 10 de julho de 2020.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

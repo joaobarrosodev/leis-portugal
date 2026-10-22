@@ -1,0 +1,288 @@
+---
+schema_version: '1.0'
+id: pt:dre:399399:por
+title: Decreto Regulamentar n.º 74/84
+short_title: null
+summary: Estabelece as áreas funcionais dos serviços administrativos dos estabelecimentos oficiais dos ensinos preparatório
+  e secundário
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Educação
+proposing_entity: null
+official_number: 74/84
+official_date: null
+publication_date: '1984-09-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/1984, Série I de 1984-09-18
+  number: '217'
+  series: I
+  supplement: null
+  pages: 2878 - 2879
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/09/21700/28782879.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '399399'
+  dre_path: /dr/detalhe/decreto-regulamentar/74-1984-399399
+  internal: pt:dre:399399:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1984-399399
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1984-399399
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-09-18T00:00:00Z'
+integrity:
+  source_sha256: 6953d4f73b21078adaadbacbc74def26dfd195e99a77289656b5bf489d3f96a4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-74-399399.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 74/84
+
+de 18 de Setembro
+
+Considerando que, pelo [Decreto-Lei n.º 189/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1984-386423), de 8 de Junho, o apoio administrativo aos estabelecimentos oficiais dos ensinos preparatório e secundário foi reorganizado, passando os mesmos a ser dotados de serviços administrativos;
+
+Considerando que importa definir as atribuições dos mencionados serviços, bem como as competências do chefe de serviços administrativos e do tesoureiro;
+
+Considerando, ainda, que o referido decreto-lei remete para decreto regulamentar, referendado pelos Ministros das Finanças e do Plano e da Educação e pelo Secretário de Estado da Administração Pública, a definição daquelas atribuições;
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 189/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/189-1984-386423), de 8 de Junho:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - Os serviços administrativos dos estabelecimentos oficiais dos ensinos preparatório e secundário compreendem áreas funcionais e estão sob a directa responsabilidade do respectivo chefe.
+
+2 - O chefe de serviços administrativos depende hierárquica e funcionalmente do presidente do conselho directivo ou de quem as suas vezes fizer.
+
+###### Art. 2.º - 1 - As áreas funcionais referidas no n.º 1 do artigo anterior são as seguintes:
+
+a) Alunos;
+
+b) Pessoal;
+
+c) Contabilidade;
+
+d) Expediente geral.
+
+2 - A área de alunos compreende as tarefas de natureza administrativa respeitantes a alunos, nomeadamente:
+
+a) Matrículas;
+
+b) Isenção de propinas, bolsas de estudo e prémios;
+
+c) Organização de turmas;
+
+d) Organização do processo individual;
+
+e) Frequência às aulas;
+
+f) Transferências;
+
+g) Exames;
+
+h) Certidões e cartas de curso;
+
+i) Receitas.
+
+3 - A área de pessoal compreende as tarefas de natureza administrativa respeitante a pessoal, nomeadamente:
+
+a) Processos individuais;
+
+b) Concursos;
+
+c) Provimentos, contratos e posses;
+
+d) Inscrição nas instituições de previdência e segurança social;
+
+e) Assiduidade;
+
+f) Transferências de processos individuais;
+
+g) Licença para férias;
+
+h) Concessão de diuturnidades;
+
+i) Concessão de fases;
+
+j) Junta médica;
+
+l) Reversão de vencimentos;
+
+m) Acidentes de serviço;
+
+n) Aposentação;
+
+o) Certidões e declarações;
+
+p) Disciplina.
+
+4 - A área de contabilidade compreende as tarefas respeitantes a contabilidade, nomeadamente:
+
+a) Preparação dos elementos necessários à elaboração de projectos de orçamentos e encerramento de contas;
+
+b) Cobrança de receitas;
+
+c) Despesas com pessoal;
+
+d) Despesas com funcionamento;
+
+e) Escrituração de receitas e despesas;
+
+f) Conta de gerência;
+
+g) Imposto complementar;
+
+h) Cadastro dos bens do Estado - Inventário;
+
+i) ADSE.
+
+5 - A área de expediente geral compreende as tarefas respeitantes a:
+
+a) Correspondência;
+
+b) Diário da República;
+
+c) Economato e fornecimento de material;
+
+d) Reprografia;
+
+e) Apoio administrativo a qualquer acção a desenvolver dentro dos objectivos gerais do estabelecimento de ensino, bem como o andamento do expediente não directamente ligado às tarefas cometidas a alguma das outras áreas.
+
+6 - Cada uma das áreas referidas nos números anteriores pode ainda compreender as tarefas que se tornem necessárias ao seu bom funcionamento no que respeita a estatísticas, atendimento do público, dactilografia e arquivo, sem prejuízo destas tarefas serem organizadas em comum sempre que as características da escola o aconselharem.
+
+###### Art. 3.º Compete ao chefe de serviços administrativos:
+
+a) Orientar e coordenar as actividades dos serviços administrativos;
+
+b) Orientar e controlar a elaboração dos vários documentos passados pelos serviços administrativos e sua posterior assinatura;
+
+c) Organizar e submeter à aprovação do conselho directivo a distribuição dos serviços pelo respectivo pessoal, de acordo com a natureza, categorias e aptidões e, sempre que o julgue conveniente, proceder às necessárias redistribuições, devendo, quando necessário, deslocar elementos para áreas ocasionalmente mais sobrecarregadas;
+
+d) Assinar o expediente corrente, bem como o que respeita a assuntos já submetidos a despacho dos órgãos de gestão;
+
+e) Preparar e submeter a despacho do conselho directivo todos os assuntos da sua competência;
+
+f) Providenciar para que todos os serviços inerentes ao funcionamento das aulas, reuniões e exames, dependentes dos serviços administrativos, estejam em ordem, nos prazos estabelecidos;
+
+g) Preceder à leitura da correspondência não classificada e distribuí-la pelas áreas de actividade;
+
+h) Preceder à leitura do Diário da República e tomar as providências necessárias para que a legislação de interesse para o estabelecimento de ensino seja distribuída pelas respectivas áreas e pelas demais entidades determinadas pelo presidente do conselho directivo ou quem as suas vezes fizer;
+
+i) Fazer circular o Diário da República;
+
+j) Verificar as propostas e processos de nomeação de pessoal;
+
+l) Verificar o livro de ponto do pessoal administrativo, marcando diariamente as faltas e proceder ao seu encerramento;
+
+m) Apreciar e despachar os pedidos de justificação de faltas do pessoal administrativo;
+
+n) Exercer o cargo de secretário do conselho administrativo;
+
+o) Preparar os documentos para análise e posterior deliberação dos órgãos de gestão;
+
+p) Dar cumprimento às deliberações dos órgãos de gestão que respeitarem aos serviços administrativos;
+
+q) Assinar as requisições de material a adquirir, quando devidamente autorizadas;
+
+r) Assinar os termos de abertura e de encerramento e chancelar todas as folhas dos livros utilizados nos serviços administrativos;
+
+s) Ter sob a sua guarda o selo branco do estabelecimento de ensino e autenticar com ele a sua assinatura e a dos membros dos órgãos de gestão, sempre que exigido;
+
+t) Levantar autos de notícia ao pessoal administrativo e auxiliar de apoio relativos a infracções disciplinares verificadas;
+
+u) Superintender directamente no serviço de reprografia para efeitos de controle, execução, funcionamento e utilização do respectivo material;
+
+v) Apreciar qualquer outro assunto respeitante ao serviço administrativo, decidindo os que forem da sua competência e expondo ao conselho directivo os que a ultrapassem.
+
+###### Art. 4.º - 1 - O tesoureiro depende hierárquica e funcionalmente do chefe dos serviços administrativos, sem prejuízo do controle directo do conselho administrativo.
+
+2 - Para além de outras tarefas que lhe possam ser distribuídas nos termos legais, compete, nomeadamente, ao tesoureiro:
+
+a) Arrecadar todas as importâncias legalmente cobradas no estabelecimento de ensino, mediante guias ou documentos passados por entidades competentes;
+
+b) Proceder ao depósito das importâncias autorizadas respeitantes às requisições de fundos e às cobradas directamente pelo estabelecimento de ensino;
+
+c) Entregar no Banco de Portugal ou na repartição de finanças, nos prazos regulamentares, as importâncias das guias de receitas do Estado;
+
+d) Entregar na Caixa Geral de Depósitos ou na repartição de finanças, nos prazos regulamentares, as importâncias das guias de operações de tesouraria;
+
+e) Emitir cheques para pagamento das despesas com pessoal, devidamente autorizadas, ou depositar nas respectivas contas as importâncias devidas;
+
+f) Efectuar pagamentos resultantes de acidentes de serviço;
+
+g) Efectuar pagamentos resultantes de acidentes cobertos pelo seguro escolar;
+
+h) Proceder ao pagamento de despesas de funcionamento, devidamente autorizadas, emitindo os cheques necessários;
+
+i) Escriturar a folha de cofre;
+
+j) Controlar as contas de depósito;
+
+l) Colaborar na elaboração de balancetes a apresentar nas reuniões do conselho administrativo e outros que sejam solicitados;
+
+m) Depositar os cheques da ADSE na Caixa Geral de Depósitos;
+
+n) Emitir cheques por beneficiário ou depositar nas contas dos beneficiários as importâncias atribuídas pela ADSE;
+
+o) Executar tudo o mais que lhe seja determinado pelo chefe dos serviços administrativos.
+
+###### Art. 5.º O horário de atendimento do pessoal de cada estabelecimento de ensino e do público será fixado pelo respectivo presidente do conselho directivo, ou quem as suas vezes fizer, sob proposta do chefe de serviços administrativos, só podendo ser reduzido de uma hora relativamente aos 2 períodos de funcionamento normais.
+
+Mário Soares - Carlos Alberto da Mota Pinto - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes - José Augusto Seabra.
+
+**Promulgado em 5 de Setembro de 1984.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 10 de Setembro de 1984.**
+
+**O Primeiro-Ministro, Mário Soares.**

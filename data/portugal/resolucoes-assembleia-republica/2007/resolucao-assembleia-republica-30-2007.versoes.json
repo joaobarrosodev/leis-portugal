@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:636189:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2007-925058155",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/30-2007-636189",
+ "source_lastmod": "2025-07-15",
+ "versions": [
+  {
+   "date": "2007-07-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "925033681"
+   ]
+  }
+ ],
+ "fragments": {
+  "925033681": {
+   "fragment_id": "925058156",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 30/2007\n\nRecomenda ao Governo que promova a reversão para o Estado do património do IGAPHE transferido para a Fundação D. Pedro IV\n\nA Assempleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que promova a reversão para o Estado do património do IGAPHE transferido para a Fundação D. Pedro IV, com salvaguarda dos direitos legítimos dos respectivos moradores."
+  }
+ }
+}

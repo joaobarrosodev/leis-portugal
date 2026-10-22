@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:221578731:por
+title: Portaria n.º 490/2023
+short_title: null
+summary: Autoriza o conselho diretivo do Instituto de Informática, I. P., a assumir os encargos orçamentais decorrentes do
+  contrato de aquisição de serviços de implementação e subscrição SAAS para Plataforma Integrada de Gestão do Risco, no âmbito
+  de novos projetos e iniciativas ao abrigo do Plano de Recuperação e Resiliência
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social - Gabinete do Secretário de Estado da Segurança Social
+proposing_entity: null
+official_number: 490/2023
+official_date: null
+publication_date: '2023-09-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/2023, Série II de 2023-09-13
+  number: '178'
+  series: II
+  supplement: null
+  pages: 92 - 93
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/09/178000000/0009200093.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '221578731'
+  dre_path: /dr/detalhe/portaria/490-2023-221578731
+  internal: pt:dre:221578731:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-2023-221578731
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/490-2023-221578731
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-09-13T00:00:00Z'
+integrity:
+  source_sha256: 490e8a1e5efe5661669bf1e67fc38a93a7554367a64e43957561002d11bb263e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-490-221578731.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 490/2023
+
+O Instituto de Informática, I. P. (II, I. P.), é um instituto público que, nos termos da alínea c) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 196/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2012-175335), de 23 de agosto, assegura a construção, gestão e operação de sistemas aplicacionais e de infraestruturas tecnológicas nas áreas das tecnologias de informação e comunicação dos serviços e organismos do Ministério do Trabalho, Solidariedade e Segurança Social, numa lógica de serviços comuns partilhados. No âmbito das suas atribuições, o II, I. P., pretende proceder à aquisição de serviços de implementação e subscrição SAAS para Plataforma Integrada de Gestão do Risco, no contexto da Transição digital da Segurança Social ao abrigo do Plano de Recuperação e Resiliência (PRR). Neste desiderato, pretende-se levar a cabo a reorganização da conceção do sistema de segurança social e a modernização do Sistema de Informação da Segurança Social, com vista a agilizar, automatizar e atualizar o tratamento dos principais processos da segurança social, de forma a oferecer à segurança social um conjunto de funcionalidades baseadas no tratamento e análise automática dos dados geridos, com vista à prevenção e combate à fraude e evasão contributiva e prestacional, e será fornecida num modelo Software as a Service (SaaS) suportado em cloud.
+
+Para cumprir os objetivos precedentemente referidos, importa proceder à aquisição dos serviços mencionados, nos termos do artigo 130.º e sgs. do Código dos Contratos Públicos, com vigência até 31 de dezembro de 2025 ou, em caso de renovação, até 30 de junho de 2026, com fixação de preço base global no montante máximo de 3 854 220,00 EUR (três milhões, oitocentos e cinquenta e quatro mil, duzentos e vinte euros), acrescido de IVA à taxa legal em vigor.
+
+A contratação dos serviços mencionados integra o Plano de Recuperação e Resiliência, enquadrando-se a despesa no Eixo 1 - Reorganização da conceção do Sistema de Segurança Social e modernização do Sistema de Informação da Segurança Social, na Componente 1.1.3 - Iniciativas de Data Analytics.
+
+A abertura de procedimento em causa, dando lugar a encargo orçamental em mais de um ano económico, depende de autorização conferida por portaria.
+
+Cumpre, assim, proceder à assunção de encargo plurianual resultante do contrato de aquisição de serviços que venha a ser celebrado, com execução nos anos económicos de 2024, 2025 e 2026.
+
+Nestes termos, em conformidade com o disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, conjugado com o previsto na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, bem como na alínea b) do n.º 1 do artigo 5.º, no n.º 1 e no n.º 3 do artigo 6.º da [Lei n.º 53-B/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-b-2021-165721068), de 23 de junho, manda o Governo, pelo Secretário de Estado da Segurança Social, o seguinte:
+
+1.º Fica o conselho diretivo do II, I. P., autorizado a assumir os encargos orçamentais decorrentes do contrato de aquisição de serviços de implementação e subscrição SAAS para Plataforma Integrada de Gestão do Risco, no âmbito de novos projetos e iniciativas ao abrigo do Plano de Recuperação e Resiliência, cuja despesa corresponde ao montante máximo global de 3 854 220,00 EUR (três milhões, oitocentos e cinquenta e quatro mil, duzentos e vinte euros), acrescido de IVA à taxa legal em vigor.
+
+2.º Os encargos orçamentais decorrentes da execução do contrato acima referido são repartidos da seguinte forma (todos os valores infra são acrescidos de IVA à taxa legal em vigor):
+
+2024 - 1 770 000,00 EUR;
+
+2025 - 1 535 470,00 EUR;
+
+2026 - 548 750,00 EUR.
+
+3.º Os encargos decorrentes da execução do contrato autorizado pela presente portaria são suportados por verbas adequadas, inscritas e a inscrever no orçamento do Instituto de Informática, I. P., consignado no Orçamento da Segurança Social, nas rubricas D.02.02.20.03.99 - Serviços Informáticos - Outros e D.02.02.05.02 - Software Informático.
+
+4.º A importância fixada para cada ano económico pode ser acrescida do saldo apurado no ano que lhe antecedeu.
+
+5.º A presente portaria entra em vigor no dia seguinte ao da sua assinatura.
+
+23 de junho de 2023. - O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos.

@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:1905876:por
+title: Declaração de Rectificação n.º 101/2010
+short_title: null
+summary: Rectifica o aviso n.º 229/2010, publicado no Diário da República, 2.ª série, n.º 3, de 6 de Janeiro de 2010, referente
+  ao procedimento concursal para ocupação de 193 postos de trabalho na categoria de enfermeiro
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Saúde - Administração Regional de Saúde do Centro, I. P.
+proposing_entity: null
+official_number: 101/2010
+official_date: null
+publication_date: '2010-01-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 13/2010, Série II de 2010-01-20
+  number: '13'
+  series: II
+  supplement: null
+  pages: 2785 - 2787
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/01/013000000/0278502787.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1905876'
+  dre_path: /dr/detalhe/declaracao-rectificacao/101-2010-1905876
+  internal: pt:dre:1905876:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-2010-1905876
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/101-2010-1905876
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-01-20T00:00:00Z'
+integrity:
+  source_sha256: 75287ca47221c66a6341c72307a3c45aaa7abc5e08cb9fa05119e846be506772
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-101-1905876.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 101/2010
+
+Por ter havido lapso na redacção do aviso n.º 229/2010, publicado no Diário da República, 2.ª série, n.º 3, de 6 de Janeiro de 2010, a pp. 397 e 398, procede-se à sua republicação:
+
+«Aviso n.º 229/2010
+
+Procedimento concursal para ocupação de 193 postos de trabalho na categoria de enfermeiro da carreira especial de enfermagem, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado.
+
+1 - Ao abrigo do disposto no n.º 4 do artigo 13.º do [Decreto-Lei n.º 248/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2009-490413), de 22 de Setembro, no [Decreto-Lei n.º 437/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), de 8 de Novembro, com as alterações introduzidas pelo [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), de 30 de Dezembro, e pelo [Decreto-Lei n.º 411/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1999-667135), de 15 de Outubro, alterado pela [Declaração de Rectificação n.º 23-B/99](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-b-1999-249985), publicada no Diário da República, 1.ª série-A, n.º 303, de 31 de Dezembro de 1999, na [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, no despacho do Secretário de Estado da Administração Pública n.º 1335/2009/SEAP, de 12 de Outubro, sobre o qual o Ministro de Estado e das Finanças exarou despacho de concordância com o n.º 748/09/MEF, de 14 de Outubro, e no Código do Procedimento Administrativo, faz-se público que, por deliberação de 20 de Novembro de 2009 do conselho directivo da Administração Regional de Saúde do Centro, I. P., se encontra aberto, pelo prazo de 15 dias úteis a contar da data da publicação do presente aviso no Diário da República, procedimento concursal para ocupação de 193 postos de trabalho na categoria de enfermeiro da carreira especial de enfermagem em postos de trabalho previstos e não ocupados dos agrupamentos dos centros de saúde abaixo discriminados, pertencentes à ARS Centro, I. P., com vista à celebração de contrato de trabalho em funções públicas por tempo indeterminado.
+
+2 - Validade do concurso - o concurso é válido para a ocupação dos postos de trabalho referidos, caducando com o seu preenchimento.
+
+3 - Conteúdo funcional - o conteúdo funcional dos postos de trabalho a ocupar é o descrito no n.º 1 do artigo 7.º do [Decreto-Lei n.º 437/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), de 8 de Novembro, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), de 30 de Dezembro.
+
+4 - Condições de trabalho e regalias sociais - as genericamente vigentes para os trabalhadores da Administração Pública, sendo a remuneração correspondente à referida no mapa iv anexo ao [Decreto-Lei n.º 411/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/411-1999-667135), de 15 de Outubro, na categoria de enfermeiro, de acordo com o previsto no artigo 29.º do actual regime da carreira especial de enfermagem.
+
+5 - Locais de trabalho:
+
+Agrupamento de Centros de Saúde do Baixo Vouga I - 14 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Baixo Vouga II - 29 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Baixo Vouga III - 26 postos de trabalho;
+
+Agrupamento de Centros de Saúde da Cova da Beira - 11 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Pinhal Litoral I - 5 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Pinhal Litoral II - 18 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Pinhal Interior Norte I - 12 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Pinhal Interior Norte II - 1 posto de trabalho;
+
+Agrupamento de Centros de Saúde do Baixo Mondego I - 9 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Baixo Mondego II - 9 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Baixo Mondego III - 13 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Dão Lafões I - 18 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Dão Lafões II - 13 postos de trabalho;
+
+Agrupamento de Centros de Saúde do Dão Lafões III - 15 postos de trabalho.
+
+6 - Requisitos de admissão a concurso:
+
+6.1 - Requisitos gerais - os referidos no artigo 8.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, designadamente:
+
+a) Ter nacionalidade portuguesa, quando não dispensada pela Constituição, convenção internacional ou lei especial;
+
+b) Ter 18 anos de idade completos;
+
+c) Não estar inibido do exercício de funções públicas ou não estar interdito para o exercício daquelas que se propõe desempenhar;
+
+d) Ter a robustez física e perfil psíquico indispensáveis ao exercício das funções;
+
+e) Ter cumprido as leis de vacinação obrigatória.
+
+6.2 - Requisitos especiais - ser possuidor do título profissional de enfermeiro e da cédula profissional comprovativa da inscrição na Ordem dos Enfermeiros.
+
+6.3 - Ser titular de uma relação jurídica de emprego público previamente estabelecida, por tempo indeterminado, determinado ou determinável, no âmbito do Ministério da Saúde, nos termos do n.º 6 do artigo 6.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, e do despacho do Secretário de Estado da Administração Pública n.º 1335/2009/SEAP, de 12 de Outubro, sobre o qual o Ministro de Estado e das Finanças exarou despacho de concordância, com o n.º 748/09/MEF, de 14 de Outubro, que autorizou, a título excepcional, à ARS do Centro, I. P., proceder ao recrutamento de 193 enfermeiros, tendo em vista a celebração de contratos de trabalho em funções públicas por tempo indeterminado.
+
+7 - Método de selecção - avaliação curricular, em conformidade com o disposto na alínea a) do n.º 1 do artigo 34.º do [Decreto-Lei n.º 437/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), de 8 de Novembro, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), de 30 de Dezembro.
+
+7.1 - Sistema de classificação final - o previsto no artigo 37.º do [Decreto-Lei n.º 437/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), de 8 de Novembro, observado o disposto no n.º 2 do artigo 29.º do mesmo decreto-lei, na redacção dada pelo artigo 1.º do [Decreto-Lei n.º 412/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-1998-286105), de 30 de Dezembro.
+
+7.2 - Os critérios de apreciação e ponderação da avaliação curricular, bem como o sistema de classificação final, incluindo a respectiva fórmula classificativa, constam de acta de reuniões do júri do concurso, sendo a mesma facultada aos candidatos sempre que solicitada.
+
+8 - Formalização das candidaturas:
+
+8.1 - As candidaturas deverão ser formalizadas mediante a apresentação de requerimento dirigido ao presidente do conselho directivo da Administração Regional de Saúde do Centro, podendo ser entregue directamente nas instalações da ARS do Centro, I. P. (Secção de Expediente e Arquivo), sitas na Alameda de Júlio Henriques, sem número, 3001-553 Coimbra, nos períodos compreendidos entre as 9 e as 12 horas e as 14 horas e as 16 horas e 30 minutos, até ao último dia do prazo estabelecido neste aviso ou remetido pelo correio para a mesma morada, considerando-se, neste caso, apresentado dentro do prazo se o mesmo tiver sido expedido até ao termo do prazo fixado neste aviso.
+
+8.2 - Do requerimento devem constar os seguintes elementos:
+
+a) Identificação completa (nome, filiação, naturalidade, data de nascimento, número e data do bilhete de identidade e serviço de identificação que o emitiu, residência, código postal e telefone);
+
+b) Categoria profissional e estabelecimento ou serviço a que o candidato se encontra vinculado;
+
+c) Pedido para ser admitido a concurso e identificação do mesmo, mediante referência ao número, série e data do Diário da República onde se encontra publicado o respectivo aviso de abertura;
+
+d) Habilitações literárias e profissionais;
+
+e) Menção do número de documentos que acompanham o requerimento e sua identificação;
+
+f) Endereço para onde deve ser remetido qualquer expediente relativo ao concurso.
+
+9 - O requerimento deve ser acompanhado, sob pena de exclusão, da seguinte documentação:
+
+a) Certidão, passada pelo serviço a que o candidato pertence, comprovativa de que reúne os requisitos constantes dos n.os 6.1 e 6.3 deste aviso, donde conste a modalidade de contrato em funções públicas em que se encontra (por tempo indeterminado, determinado ou determinável), bem como do tempo de serviço prestado em instituições, no âmbito do Ministério da Saúde;
+
+b) Documento comprovativo das habilitações literárias, ou fotocópia do mesmo;
+
+c) Documento comprovativo da posse do título profissional de enfermeiro, ou fotocópia do mesmo, donde conste a média final obtida no curso que permitiu a sua obtenção;
+
+d) Cédula profissional comprovativa da inscrição na Ordem dos Enfermeiros;
+
+e) Três exemplares do curriculum vitae, devidamente assinados, donde constem os documentos comprovativos, ou fotocópias dos mesmos, de frequência de acções de formação e de aperfeiçoamento profissional, com a respectiva duração, se for caso disso;
+
+f) Os candidatos pertencentes aos diversos serviços da ARS do Centro, I. P., são dispensados da apresentação dos documentos comprovativos dos requisitos cujo preenchimento é exigido neste aviso, desde que os mesmos constem dos respectivos processos individuais, devendo referir o facto no requerimento;
+
+g) A apresentação dos documentos comprovativos das situações previstas no n.º 6.1 deste aviso é dispensada nesta fase desde que o candidato declare no requerimento de admissão ao concurso, em alíneas separadas e sob compromisso de honra, a situação precisa em que se encontra relativamente a cada um dos requisitos.
+
+10 - As listas dos candidatos admitidos e excluídos e de classificação final do concurso serão publicadas na 2.ª série do Diário da República.
+
+11 - O júri terá a seguinte composição:
+
+Presidente - Maria Zita Caetano dos Santos Gomes, enfermeira-chefe do ACES do Baixo Mondego I.
+
+Vogais efectivos:
+
+Maria de Lurdes Anastácio dos Santos, enfermeira-chefe do ACES do Pinhal Interior Norte I, que substituirá a presidente nas suas faltas e impedimentos.
+
+Matilde Correia das Neves, enfermeira-chefe do ACES do Baixo Mondego II.
+
+Vogais suplentes:
+
+Idálio de Oliveira Estanislau, enfermeiro-chefe do ACES do Baixo Mondego III.
+
+Maria Olinda Mendes da Silva, enfermeira-chefe do ACES do Pinhal Interior Norte I.
+
+12 - Mantêm-se válidas as candidaturas entretanto apresentadas.
+
+23 de Dezembro de 2009. - O Presidente do Conselho Directivo, João Pedro Pimentel.»
+
+13 de Janeiro de 2010. - O Presidente do Conselho Directivo, João Pedro Pimentel.

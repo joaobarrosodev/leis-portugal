@@ -1,0 +1,524 @@
+---
+schema_version: '1.0'
+id: pt:dre:69913729:por
+title: Portaria n.º 225-A/2015
+short_title: null
+summary: Cria um consórcio entre o Centro Hospitalar de Lisboa Central, E. P. E. e a Faculdade de Ciências Médicas da Universidade
+  Nova de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Saúde e da Educação e Ciência
+proposing_entity: null
+official_number: 225-A/2015
+official_date: null
+publication_date: '2015-07-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2015, 1º Suplemento, Série I de 2015-07-30
+  number: '147'
+  series: I
+  supplement: 1º Suplemento
+  pages: 5178-(2) a 5178-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14701/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-08-03'
+version_history:
+  file: portaria-225-a-2015.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-08-03'
+    amending: pt:dre:168760736:por
+    amending_title: Portaria n.º 168/2021
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 5.º-A
+    - Adita Artigo 13.º-A
+    - Adita Artigo 13.º-B
+    - Adita Artigo 13.º-C
+    - Adita Artigo 14.º-A
+    - Adita Artigo 20.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/225-a/2015/p/cons/20210802/pt/html
+  oj: null
+  dre: '69913729'
+  dre_path: /dr/detalhe/portaria/225-a-2015-69913729
+  internal: pt:dre:69913729:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/225-a-2015-69913729
+  metadata_url: https://data.dre.pt/eli/port/225-a/2015/p/cons/20210802/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-168817937
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-168817937
+  retrieved_at: '2026-10-22T12:44:29Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: cfc98a858690d491579ab3dc4480fe3c06a5e46d3a9eda7980dbb0e36057ae2e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:44:29Z'
+  notes: 2 versão(ões); histórico completo em portaria-225-a-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Hospitalar de Lisboa Central
+- Educação
+- Saúde
+- Universidade NOVA de Lisboa
+- Parcerias Saúde
+- Faculdade de Ciências Médicas
+relationships:
+- type: amended_by
+  target: pt:dre:168760736:por
+  label: Adita Artigo 2.º-A; Adita Artigo 5.º-A; Adita Artigo 13.º-A; Adita Artigo 13.º-B; Adita Artigo 13.º-C; Adita Artigo
+    14.º-A; Adita Artigo 20.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo
+    7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º;
+    Altera Artigo 14.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736
+  date: '2021-08-02'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/62/2007/09/10/p/dre
+article_structure:
+  article_count: 28
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:44:29Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 225-A/2015
+
+Portaria n.º 225-A/2015
+
+de 30 de julho
+
+As universidades e os hospitais enfrentam novos desafios nos dias de hoje. As alterações que têm vindo a verificar-se no ambiente em que se inserem e as transformações que derivam dos progressos técnico-científicos registados em tempos recentes implicam um processo de adaptação efetivo, que fortaleça o papel de serviço à sociedade que ambas as instituições desempenham e que promova uma permanente atualização de métodos e de práticas.
+
+A crescente competitividade existente nas áreas dos serviços de saúde, ensino médico e investigação clínica, em conjunto com a procura de excelência nos processos seguidos nestes domínios, e o impacto do desenvolvimento das tecnologias de informação que elimina muitos constrangimentos e que alarga as possibilidades de cooperação interinstitucional, tanto em termos nacionais como internacionais, determinam uma transformação na forma clássica de organização e funcionamento das estruturas de ensino, assistência e investigação.
+
+Os centros médicos académicos representam atualmente uma das formas de organização mais modernas e promissoras das estruturas integradas de assistência, ensino e investigação médica, apresentando como principal objetivo o avanço e aplicação do conhecimento e da evidência científica para a melhoria da saúde.
+
+Este objetivo é atingido de forma integrada e sinérgica entre a investigação (com criação de conhecimento), aplicação do conhecimento (com melhoria dos cuidados prestados à população) e ensino (na formação pré e pós-graduada e no treino dos profissionais).
+
+A experiência das últimas décadas mostra que atividade assistencial, ensino e investigação são indissociáveis e que a sua conjugação é hoje uma condição obrigatória para o sucesso de qualquer instituição que tenha como objetivo desenvolver cuidados médicos de excelência e de elevada diferenciação.
+
+Não há serviços de excelência sem o suporte da investigação e sem o estímulo do ensino, motores fundamentais do desenvolvimento do conhecimento e da inovação. Da mesma forma que não há ensino médico de qualidade desligado da prática clínica em serviços de qualidade e que não há investigação inovadora sem uma articulação regular com os clínicos que quotidianamente lidam com os doentes nos seus serviços. Esta a razão por que, globalmente, os hospitais hoje reconhecidos como referências de qualidade, inovação e eficiência, são instituições que souberam não só integrar as componentes assistencial, de ensino e de investigação, bem como desenvolver estratégias potenciadoras das sinergias possíveis entre as três componentes, e afirmar-se como o suporte científico de uma rede diversificada de serviços de saúde numa determinada área geográfica, de acordo com o modelo dos centros médicos académicos ou universitários.
+
+O Centro Hospitalar de Lisboa Central, E. P. E. (CHLC) e a Faculdade de Ciências Médicas da Universidade Nova de Lisboa (FCM) iniciaram já um percurso de enorme exigência na modernização dos seus serviços e programas e na coordenação entre as suas várias áreas de intervenção.
+
+O CHLC deu passos significativos na reorganização e desenvolvimento de serviços hospitalares de excelência em áreas-chave dos cuidados de saúde, enquanto a FCM efetuou uma reforma curricular ambiciosa do curso de medicina, lançou novos programas de doutoramento, e desenvolveu consideravelmente a sua capacidade de investigação com a criação de novos centros e a inauguração de um novo polo de investigação no Campus de Santana.
+
+Graças a este trabalho, a larga maioria do ensino clínico da FCM é já efetuado em colaboração com serviços do CHLC, um número significativo de jovens médicos do CHLC desenvolvem programas de doutoramento na FCM e um número crescente de projetos de investigação contam com a participação de investigadores e clínicos da FCM e do CHLC.
+
+Finalmente, o lançamento do projeto iNOVA4Health, com participação significativa de membros da FCM e do CHLC, abre caminho ao envolvimento de ambas as partes num dos projetos mais inovadores de investigação médica no nosso país.
+
+A criação do consórcio médico universitário potenciará as capacidades de cada uma das instituições. O aproveitamento organizado e sistemático das sinergias existentes entre o CHLC e a FCM possibilitará a concretização de um avanço significativo na investigação translacional e no desenvolvimento científico e uma melhoria significativa do ensino médico.
+
+Por fim, o consórcio poderá vir a integrar, futuramente, outras instituições públicas que, pela sua relevância, permitam desenvolver competências diferenciadoras na dinamização da atividade assistencial, académica e de investigação.
+
+Assim:
+
+Na sequência da atividade conjunta que o Centro Hospitalar de Lisboa Central, E. P. E. e a Faculdade de Ciências Médicas da Universidade Nova de Lisboa vêm realizando nestes domínios e da vontade que manifestaram junto do Governo de a desenvolverem no quadro institucional de um consórcio;
+
+Ouvidos sobre o teor da presente portaria;
+
+Ao abrigo do disposto no n.º 2 do artigo 17.º da Lei n.º 62/2007, de 10 de setembro:
+
+Manda o Governo, pelos Ministros da Saúde e da Educação e Ciência, o seguinte:
+
+###### Artigo 1.º — Criação
+
+É criado um consórcio entre as seguintes unidades prestadoras de cuidados de saúde e unidades orgânicas da Universidade Nova de Lisboa:
+
+a) Centro Hospitalar Universitário de Lisboa Central, E. P. E.;
+
+b) Faculdade de Ciências Médicas/NOVA Medical School;
+
+c) Centro Hospitalar de Lisboa Ocidental, E. P. E.;
+
+d) Centro Hospitalar Psiquiátrico de Lisboa;
+
+e) Agrupamentos de Centros de Saúde (ACES) de Lisboa Central, Loures-Odivelas e Lisboa Ocidental e Oeiras, representados pela Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.;
+
+f) Escola Nacional de Saúde Pública/NOVA National School of Public Health;
+
+g) Instituto Português de Oncologia de Lisboa Francisco Gentil, E. P. E.;
+
+h) Hospital de Santarém, E. P. E.;
+
+i) Centro Hospitalar do Médio Tejo, E. P. E.;
+
+j) Unidade Local de Saúde do Litoral Alentejano, E. P. E.;
+
+k) Hospital de Vila Franca de Xira, E. P. E.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 2.º — Denominação
+
+O consórcio adota a denominação de Centro Clínico Académico de Lisboa, abreviadamente designado por CCAL.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 2.º-A — Estatuto dos membros do consórcio
+
+1 - Os membros do consórcio assumem estatutos de cooperação distintos, consoante a diferenciação e o relevo de intervenção nas áreas de atividade assistencial e de ensino e investigação, com os direitos e obrigações previstos na presente portaria.
+
+2 - As entidades referidas nas alíneas a) e b) do artigo 1.º assumem o estatuto de membros fundadores.
+
+3 - As entidades referidas nas alíneas c) a f) do artigo 1.º integram o consórcio como membros com o estatuto de parceria.
+
+4 - As entidades referidas nas alíneas g) a k) do artigo 1.º integram o consórcio como membros com o estatuto de afiliação.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 3.º — Autonomia dos membros do consórcio
+
+O consórcio é vocacionado para a prossecução de objetivos comuns dos seus membros, não estabelecendo qualquer limitação à identidade e à autonomia de cada um deles.
+
+###### Artigo 4.º — Personalidade jurídica
+
+O consórcio não está dotado de personalidade jurídica.
+
+###### Artigo 5.º — Sede
+
+O consórcio tem sede no edifício da Faculdade de Ciências Médicas/NOVA Medical School da Universidade Nova de Lisboa sito no Campo dos Mártires da Pátria, 130, em Lisboa.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 5.º-A — Missão
+
+O consórcio tem por missão fazer o aproveitamento organizado e sistemático das sinergias existentes entre os seus membros, desenvolvendo e consolidando uma estrutura integradora de prestação de cuidados de saúde e de desenvolvimento de atividades de ensino e investigação.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 6.º — Objetivos
+
+1 - O consórcio tem como principais objetivos o avanço e a aplicação do conhecimento e da evidência científica para a melhoria da saúde, visando, especialmente:
+
+a) O aproveitamento efetivo de sinergias nas várias áreas de atuação e potenciação da partilha de recursos humanos altamente qualificados e especializados, estimulando a racionalização e maximização da utilização dos recursos humanos, financeiros e tecnológicos postos à disposição dos seus membros;
+
+b) A introdução de programas inovadores e parcerias estratégicas que possibilitem avanços qualitativos nas atividades assistencial, de ensino e de investigação clínica e de translação e contribuam para a diversificação e alargamento das fontes de financiamentos dessas atividades;
+
+c) A promoção de uma cultura comum focada na excelência científica e clínica num contexto internacional, tanto ao nível dos recursos humanos quanto ao nível dos recursos materiais, assegurando a combinação da investigação básica, translacional e de serviços clínicos e a educação em saúde que são necessários para alcançar melhorias significativas dos cuidados de saúde;
+
+d) O estabelecimento do foco da atividade na promoção da qualidade dos cuidados de saúde prestados às populações com base numa resposta adequada às suas diferentes necessidades.
+
+2 - Para a prossecução dos objetivos referidos no número anterior, o consórcio atua no sentido de promover:
+
+a) A modernização e formação da educação em saúde, na dimensão graduada, pós-graduada e de educação continuada, aproveitando as sinergias que possam ser criadas com a educação e treino de futuros profissionais das instituições de saúde que integram o consórcio;
+
+b) O desenvolvimento de ações integradas que promovam cuidados de saúde de qualidade com base nas contribuições das ciências da saúde básicas e clínicas e dos serviços de ação médica das unidades prestadoras de cuidados de saúde;
+
+c) O desenvolvimento de ações que contribuam para o desenvolvimento de cuidados integrados inovadores com base numa crescente articulação entre cuidados de saúde primários, hospitalares, continuados e paliativos;
+
+d) O desenvolvimento de projetos colaborativos de investigação com reforço da cooperação nacional e internacional, desenvolvendo ao máximo as oportunidades oferecidas pela participação dos seus membros em redes de investigação nacionais e internacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 7.º — Órgãos do consórcio
+
+São órgãos do consórcio:
+
+a) A direção;
+
+b) O conselho científico e estratégico;
+
+c) O conselho de cooperação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 8.º — Direção
+
+O consórcio é dirigido pela direção.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 9.º — Composição e funcionamento da direção
+
+1 - A direção é constituída por sete elementos, nos termos seguintes:
+
+a) Os responsáveis máximos de cada uma das entidades referidas nas alíneas a) a d) e f) do artigo 1.º, que exercem a função por inerência;
+
+b) Um representante dos ACES referidos na alínea e) do artigo 1.º, indicado por estes e designado pelo conselho diretivo da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.;
+
+c) Um elemento cooptado pelas entidades referidas nas alíneas a) e b) do artigo 1.º, na qualidade de membros fundadores do consórcio.
+
+2 - Os membros da direção elegem o respetivo presidente de entre os responsáveis máximos das entidades referidas nas alíneas a) e b) do artigo 1.º
+
+3 - O mandato do membro representante dos ACES referidos na alínea e) do artigo 1.º tem a duração de um ano, renovável por mais três mandatos consecutivos.
+
+4 - O mandato do membro cooptado tem a duração de três anos, não renovável.
+
+5 - A direção reúne ordinariamente uma vez por mês.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 10.º — Competências da direção
+
+1 - Compete à direção, quanto à organização interna do consórcio:
+
+a) Dirigir a respetiva atividade;
+
+b) Elaborar o plano de orientação do centro académico clínico nos domínios assistencial, científico, pedagógico e financeiro;
+
+c) Elaborar as propostas de planos anual e plurianual de atividades;
+
+d) Praticar os atos necessários à gestão corrente das atividades do centro académico clínico;
+
+e) Elaborar a proposta de orçamento anual;
+
+f) Elaborar o relatório anual de atividades;
+
+g) Acompanhar e avaliar sistematicamente a atividade desenvolvida;
+
+h) Aprovar os regulamentos internos;
+
+i) Nomear os representantes do consórcio em organismos exteriores;
+
+j) Constituir mandatários do centro académico clínico.
+
+2 - Compete à direção, quanto à atividade do consórcio:
+
+a) Promover o ensino na área da saúde, privilegiando a cooperação entre as diversas áreas do saber e visando a sua aplicação aos cuidados de saúde;
+
+b) Desenvolver a formação pré-graduada em sintonia com a integração de conhecimentos e a evolução das necessidades das áreas clínicas;
+
+c) Fomentar a formação pós-graduada, designadamente através de maior diferenciação dos programas de internato, incluindo a criação de programas conjuntos de doutoramento e internato;
+
+d) Propor novos modelos de governação das áreas clínicas;
+
+e) Intensificar os programas de inovação e de investigação biomédica, potenciando sinergias entre os membros;
+
+f) Reforçar a cooperação nacional e internacional com outras instituições de ensino, assistência e investigação;
+
+g) Promover a diferenciação e especialização na componente assistencial, através designadamente do desenvolvimento de centros de referência;
+
+h) Exercer as demais competências necessárias à prossecução das suas finalidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 11.º — Conselho científico e estratégico
+
+O conselho científico e estratégico é o órgão consultivo do consórcio, que emite parecer sobre as linhas gerais e opções de política global a prosseguir.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 12.º — Composição e funcionamento do conselho científico e estratégico
+
+1 - O conselho científico e estratégico é constituído por nove personalidades de elevado mérito e reconhecida experiência profissional, designadas:
+
+a) Uma pelo membro do Governo responsável pela área da ciência, tecnologia e ensino superior;
+
+b) Uma pelo membro do Governo responsável pela área da saúde;
+
+c) Uma pelo reitor da Universidade Nova de Lisboa;
+
+d) Uma pelo presidente do conselho diretivo da Administração Regional de Saúde de Lisboa e Vale do Tejo, I. P.;
+
+e) Uma por designação dos órgãos diretivos de cada uma das entidades referidas nas alíneas a) e b) do artigo 1.º, na qualidade de membros fundadores do consórcio;
+
+f) Três por designação do conselho de cooperação.
+
+2 - Os membros do conselho científico e estratégico elegem o respetivo presidente.
+
+3 - O presidente do conselho científico e estratégico tem assento nas reuniões da direção, sem direito a voto.
+
+4 - O mandato dos membros do conselho científico e estratégico tem a duração de três anos, renovável por mais dois mandatos consecutivos.
+
+5 - O conselho científico e estratégico reúne ordinariamente quatro vezes por ano e extraordinariamente quando solicitado pela direção.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 13.º — Competências do conselho científico e estratégico
+
+Compete ao conselho científico e estratégico:
+
+a) Emitir parecer sobre a proposta de orçamento anual;
+
+b) Emitir parecer sobre o plano de orientação do consórcio nos domínios assistencial, científico, pedagógico e financeiro;
+
+c) Emitir parecer sobre as propostas de planos anual e plurianual de atividades;
+
+d) Apreciar o relatório anual das atividades;
+
+e) Emitir recomendações e pareceres sobre os aspetos da atividade do consórcio que entenda convenientes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 13.º-A — Conselho de cooperação
+
+O conselho de cooperação é o órgão consultivo da direção do consórcio, que emite parecer sobre medidas relacionadas com ações de cooperação concretas a estabelecer entre os membros do consórcio.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 13.º-B — Composição e funcionamento do conselho de cooperação
+
+1 - O conselho de cooperação é composto por um representante indicado por cada uma das entidades referidas nas alíneas g) a k) do artigo 1.º, na qualidade de membros com o estatuto de afiliação.
+
+2 - Os membros do conselho de cooperação elegem o respetivo presidente.
+
+3 - O mandato dos membros do conselho de cooperação tem a duração de três anos, renovável por mais dois mandatos consecutivos.
+
+4 - O conselho de cooperação reúne ordinariamente de dois em dois meses e sempre que convocado pelo seu presidente.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 13.º-C — Competências do conselho de cooperação
+
+1 - Compete ao conselho de cooperação:
+
+a) Emitir parecer sobre decisões a tomar pela direção, sempre que envolvam alguma das entidades representadas neste conselho;
+
+b) Acompanhar regularmente a atividade desenvolvida pela direção, numa lógica de partilha e compromisso institucional;
+
+c) Participar na análise e discussão de qualquer processo em curso, sempre que a direção considerar conveniente;
+
+d) Apresentar à direção sugestões ou projetos que se enquadrem no âmbito da atividade do consórcio e ajudem a consolidar a cooperação institucional entre os seus membros.
+
+2 - Compete a cada entidade representada no conselho de cooperação suscitar a intervenção da direção, sempre que considere terem sido postas em causa opções determinantes da sua instituição ou não estar a ser respeitada a sua autonomia.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 14.º — Recursos
+
+Os membros do consórcio afetam à concretização dos objetivos deste os seus recursos humanos, financeiros e materiais que se revelem necessários à execução dos planos de atividades apropriados, nos termos da legislação aplicável, atendendo à sua natureza e modelo de gestão.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 14.º-A — Estrutura de base
+
+1 - As estruturas que asseguram as respetivas áreas de intervenção, no plano funcional e operacional do consórcio, integram recursos humanos e técnicos dos diversos membros, que se articulam entre si.
+
+2 - A composição, orgânica e o funcionamento das estruturas referidas no número anterior constam de regulamento e organograma próprios, a aprovar pela direção do consórcio.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 15.º — Receitas da atividade do consórcio
+
+As receitas dos membros do consórcio resultantes da atividade deste são afetas prioritariamente ao desenvolvimento da atividade do centro académico clínico, respeitando os planos de atividades previamente aprovados.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 16.º — Competências a exercer por decisão conjunta
+
+1 - Compete aos responsáveis máximos dos membros do consórcio, por decisão conjunta, designadamente:
+
+a) Aprovar o plano de orientação do consórcio nos domínios científico, pedagógico e financeiro;
+
+b) Aprovar os planos anual e plurianual de atividades;
+
+c) Aprovar o orçamento anual;
+
+d) Aprovar o relatório anual de atividades;
+
+e) Aprovar os recursos humanos, financeiros e materiais a afetar anualmente por cada entidade à concretização dos objetivos do consórcio;
+
+f) Aprovar a forma de proceder à afetação das receitas resultantes da atividade do consórcio.
+
+2 - Os responsáveis máximos dos membros do consórcio remetem, anualmente, aos membros do Governo responsáveis pela área da ciência, tecnologia e ensino superior ou da saúde, consoante o caso, os documentos a que se referem as alíneas a) a d) do número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 17.º — Confidencialidade
+
+1 - O membro do consórcio que receba do outro membro quaisquer documentos ou informações relativas à atividade do consórcio compromete-se a não fazer desses elementos outro uso que não o decorrente da respetiva cedência e a considerar como estritamente confidenciais todos os dados tecnológicos e de natureza científica.
+
+2 - Os membros do consórcio comprometem-se a impor essas obrigações às pessoas singulares ou coletivas que participem na execução das prestações de serviços, fornecimentos e trabalhos como subcontratados ou noutra qualquer qualidade.
+
+###### Artigo 18.º — Propriedade dos bens adquiridos ou desenvolvidos no âmbito do consórcio
+
+1 - Salvo acordo específico em contrário entre os membros do consórcio, os bens e direitos adquiridos ou desenvolvidos no âmbito deste são propriedade dos membros que tenham procedido à sua aquisição ou desenvolvimento e suportado o custo da criação.
+
+2 - Salvo acordo específico em contrário, quando um resultado desenvolvido no âmbito do consórcio constituir um bem ou direito indivisível, considera-se este resultado pertença do membro utilizador final, que assumirá a responsabilidade pela sua eficiente utilização e permitirá a sua demonstração pública, nos termos e condições a estabelecer entre os parceiros envolvidos.
+
+3 - Em qualquer caso, a titularidade dos bens ou direitos adquiridos ou desenvolvidos no âmbito da atividade do consórcio não pode pertencer a entidades que não sejam membros do consórcio.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 19.º — Alargamento do consórcio a outras entidades
+
+1 - Mediante proposta conjunta dos seus membros, o consórcio pode ser alargado a outras entidades públicas que prossigam atividades de ensino, investigação e desenvolvimento, incluindo as que sejam realizadas em contexto assistencial.
+
+2 - O alargamento do consórcio realiza-se através de portaria dos membros do Governo responsáveis pelas áreas da saúde e da educação e ciência.
+
+###### Artigo 20.º — Extinção
+
+O consórcio extingue-se por portaria dos membros do Governo responsáveis pelas áreas da ciência, tecnologia e ensino superior e da saúde, ouvido o Conselho Nacional dos Centros Académicos Clínicos, nos seguintes casos:
+
+a) Na sequência de proposta dos seus membros;
+
+b) Em virtude da ocorrência de causa superveniente que determine a impossibilidade de realização do seu objeto;
+
+c) Na sequência de avaliação negativa em duas avaliações externas seguidas, nos termos da lei;
+
+d) Com fundamento em qualquer outra causa prevista na lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 20.º-A — Disposições finais
+
+1 - Não é permitida a titularidade simultânea da qualidade de membro de diferentes órgãos do consórcio.
+
+2 - Em tudo o que não se encontrar expressamente previsto na presente portaria, nomeadamente em matéria de funcionamento dos órgãos do consórcio e de ausências e impedimentos dos seus membros, aplica-se subsidiariamente o disposto no Código do Procedimento Administrativo.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 168/2021 - Diário da República n.º 148/2021, Série I de 2021-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/168-2021-168760736), em vigor a partir de 2021-08-03
+
+###### Artigo 21.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia 1 de setembro de 2015.
+
+Em 29 de julho de 2015.
+
+O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato.

@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:543921:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-889761984",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/16-2012-543921",
+ "source_lastmod": "2024-10-02",
+ "versions": [
+  {
+   "date": "2012-01-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889761322",
+    "889761323",
+    "889761324",
+    "889761325",
+    "889761326",
+    "889761327",
+    "889761328",
+    "889761329",
+    "889761330",
+    "889761331",
+    "889761332",
+    "889761333",
+    "889761334",
+    "889761335",
+    "889761337"
+   ]
+  },
+  {
+   "date": "2013-03-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:259762:por",
+     "title": "Decreto Regulamentar n.º 1/2013",
+     "published": "2013-03-14",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/1-2013-259762"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "889761322",
+    "889761340",
+    "889761324",
+    "889761325",
+    "889761326",
+    "889761327",
+    "889761328",
+    "889761329",
+    "889761343",
+    "889761344",
+    "889761345",
+    "889761346",
+    "889761347",
+    "889761348",
+    "889761349",
+    "889761350",
+    "889761351"
+   ]
+  }
+ ],
+ "fragments": {
+  "889761322": {
+   "fragment_id": "889761985",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 16/2012\n\nde 30 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o País está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nA Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) previu no seu Acto Constitutivo, datado de 16 de Novembro de 1945, a necessidade de serem criadas comissões nacionais, como órgãos consultivos dos Estados membros e como agentes para a disseminação no terreno das políticas e das iniciativas aprovadas no seio da Organização. O papel destas comissões cresceu e diversificou-se, levando à aprovação de uma Carta das comissões nacionais, na Conferência Geral de 1978, que veio confirmar o lugar excepcional das comissões na vida da UNESCO. Ao longo de trinta anos, as comissões têm vindo a afirmar-se como o melhor instrumento para fazer chegar aos cidadãos as ideias e os projectos da UNESCO.\n\nSem prejuízo da autonomia de que a Comissão Nacional da UNESCO deve gozar enquanto Comissão Nacional, importa concretizar o esforço de racionalização estrutural consagrado no Decreto-Lei n.º 121/2011, de 29 de Dezembro, que aprova a nova orgânica do Ministério dos Negócios Estrangeiros (MNE), pelo que a presidência desta Comissão será assegurada pelo secretário-geral do MNE.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º, o Governo decreta o seguinte:"
+  },
+  "889761323": {
+   "fragment_id": "889761986",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Comissão Nacional da UNESCO, abreviadamente designada por CNU, é uma estrutura do Ministério dos Negócios Estrangeiros (MNE) dotada de autonomia administrativa."
+  },
+  "889761324": {
+   "fragment_id": "889761987",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A CNU tem por missão prosseguir os fins previstos no Acto Constitutivo da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO).\n\n2 - A CNU prossegue as seguintes atribuições:\n\na) Emitir pareceres e fazer recomendações relativas aos programas e actividades da UNESCO;\n\nb) Colaborar com a Missão Permanente de Portugal junto da UNESCO;\n\nc) Estabelecer ligações com o Secretariado da UNESCO, com as comissões nacionais dos Estados membros, nomeadamente com as dos países da Comunidade dos Países de Língua Portuguesa (CPLP), criar laços de cooperação com essas comissões e participar nas reuniões de comissões nacionais promovidas pela UNESCO;\n\nd) Participar na preparação e organização da delegação portuguesa às conferências gerais e a outras conferências ou actividades da UNESCO;\n\ne) Acompanhar as actividades do conselho executivo e dos demais órgãos coordenadores dos programas da UNESCO;\n\nf) Organizar e participar em reuniões de carácter nacional ou internacional relacionadas com os objectivos da UNESCO;\n\ng) Manter um contacto regular sobre as suas actividades com a Assembleia da República, através do Grupo Conexo à UNESCO aí criado, bem como com instituições e organismos governamentais e com individualidades nacionais e estrangeiras;\n\nh) Manter aberto ao público um centro de documentação, divulgar e prestar informações sobre os objectivos e actividades da UNESCO;\n\ni) Dinamizar as redes promovidas pela UNESCO e apoiar iniciativas de terceiros, que se enquadrem no âmbito do seu mandato, designadamente estabelecendo protocolos com estas entidades;\n\nj) Promover a edição em português dos documentos mais relevantes da UNESCO e facultar o seu acesso aos Estados da CPLP;\n\nl) Coordenar as candidaturas à Lista do Património Mundial, Cultural e Natural da UNESCO, acompanhar a promoção dos bens portugueses classificados e dos bens classificados de origem portuguesa no estrangeiro, zelar para que as entidades responsáveis respeitem as normas de conservação e integridade dos referidos bens em território nacional;\n\nm) Coordenar as candidaturas nacionais aos diferentes programas e prémios da UNESCO;\n\nn) Difundir os lugares a concurso para o Secretariado da UNESCO e promover a participação de especialistas nacionais nas actividades da Organização, bem como a criação dos comités nacionais sectoriais previstos para a dinamização dos programas da UNESCO;\n\no) Realizar as demais tarefas que lhe sejam cometidas pela tutela, no âmbito da actividade da UNESCO."
+  },
+  "889761325": {
+   "fragment_id": "889761988",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nSão órgãos da CNU:\n\na) O presidente, que é, por inerência, o secretário-geral do MNE, cargo de direcção superior de 1.º grau;\n\nb) O secretário executivo;\n\nc) O conselho consultivo."
+  },
+  "889761326": {
+   "fragment_id": "889761989",
+   "type": 11,
+   "heading": "Artigo 4.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Presidente\n\n1 - Sem prejuízo das competências que lhe forem cometidas por lei ou que nele forem delegadas ou subdelegadas, compete ao presidente:\n\na) Definir a acção da CNU e coordenar as respectivas actividades, segundo os planos de actividades aprovados pela tutela;\n\nb) Submeter à tutela o projecto de orçamento, o relatório anual de execução e, ouvido o conselho consultivo, o plano de actividades;\n\nc) Presidir ao conselho consultivo;\n\nd) Propor a instituição e coordenar os comités e os grupos de trabalho que se revelem necessários à prossecução dos fins da CNU.\n\n2 - O presidente da CNU é substituído, nas suas faltas e impedimentos, por um funcionário diplomático afecto à Secretaria-Geral do MNE."
+  },
+  "889761327": {
+   "fragment_id": "889761990",
+   "type": 11,
+   "heading": "Artigo 5.º — Secretário executivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Secretário executivo\n\n1 - Sem prejuízo das competências que lhe forem cometidas por lei ou que nele forem delegadas ou subdelegadas pelo presidente, compete ao secretário executivo:\n\na) Estabelecer contactos directos com os serviços da UNESCO;\n\nb) Coordenar as actividades da rede das escolas associadas da UNESCO em Portugal e desenvolver contactos com a rede internacional;\n\nc) Manter contactos com os secretários-gerais das comissões nacionais dos outros Estados membros;\n\nd) Participar nas reuniões de secretários-gerais das comissões nacionais da CPLP.\n\n2 - O secretário executivo é designado por despacho do membro do Governo responsável pela área dos negócios estrangeiros, ouvido o presidente da CNU, sendo equiparado, para efeitos remuneratórios, a cargo de direcção intermédia de 1.º grau."
+  },
+  "889761328": {
+   "fragment_id": "889761991",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho consultivo\n\n1 - O conselho consultivo é composto por:\n\na) O presidente da CNU, que preside;\n\nb) O representante permanente de Portugal junto da UNESCO;\n\nc) Seis membros designados pelo Governo, em representação das áreas do ambiente, da ciência, da comunicação social, da cultura, da educação e do desporto;\n\nd) Um representante da Região Autónoma dos Açores;\n\ne) Um representante da Região Autónoma da Madeira;\n\nf) Um representante da Associação Nacional de Municípios Portugueses;\n\ng) Três docentes do ensino superior, sendo dois designados pelo Conselho de Reitores das Universidades Portuguesas e um pelo conselho coordenador do ensino superior politécnico;\n\nh) Dois membros designados pela Associação de Representantes de Estabelecimentos de Ensino Particular e Cooperativo;\n\ni) Três membros eleitos de entre representantes de instituições nacionais, fundações, associações ou academias de carácter educativo, cultural e científico que prossigam actividades a nível nacional no âmbito da UNESCO;\n\nj) Cinco membros eleitos de entre representantes de ramos nacionais de organizações internacionais não-governamentais legalmente instituídas com estatuto consultivo junto da UNESCO, nos termos do n.º 4 do artigo 11.º do Acto Constitutivo da UNESCO;\n\nl) Um membro eleito pelas escolas associadas, centros e clubes UNESCO.\n\n2 - Os membros do conselho consultivo referidos na alínea c) do número anterior são designados por despacho do membro do Governo responsável por cada uma das áreas.\n\n3 - Os membros do conselho consultivo referidos nas alíneas d) e e) do n.º 1 são indicados pelos respectivos governos regionais.\n\n4 - Os membros do conselho consultivo referidos nas alíneas i), j) e l) do n.º 1 são eleitos pelos seus pares de entre as instituições que manifestem à CNU o desejo de pertencer ao conselho consultivo, na sequência de anúncio público indicando ter sido a aberto o processo de renovação do conselho.\n\n5 - O mandato dos membros referidos nas alíneas c) a l) do n.º 1 tem a duração de quatro anos.\n\n6 - Compete ao conselho consultivo:\n\na) Debater as linhas gerais dos planos de acção, de acordo com os objectivos da UNESCO;\n\nb) Efectuar propostas ou emitir pareceres sobre os programas e os planos anuais e plurianuais de actividades;\n\nc) Emitir pareceres sobre as actividades dos comités e das comissões criados ao abrigo da alínea d) do n.º 1 do artigo 4.º;\n\nd) Aprovar o seu regulamento interno.\n\n7 - O conselho consultivo considera-se validamente constituído desde que estejam designados, pelo menos, dois terços dos seus membros."
+  },
+  "889761329": {
+   "fragment_id": "889761992",
+   "type": 11,
+   "heading": "Artigo 7.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Tipo de organização interna\n\nA organização interna da CNU obedece ao modelo de estrutura hierarquizada."
+  },
+  "889761330": {
+   "fragment_id": "889761993",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Receitas\n\n1 - A CNU dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A CNU dispõe ainda das seguintes receitas próprias:\n\na) Os rendimentos dos bens próprios ou daqueles de que tenha a fruição, a qualquer título;\n\nb) O produto de alienação dos bens próprios;\n\nc) Quaisquer comparticipações ou subsídios da UNESCO;\n\nd) Os subsídios, subvenções, doações, heranças ou legados concedidos por quaisquer entidades;\n\ne) Quaisquer donativos, concedidos por quaisquer entidades, que se enquadrem no âmbito do Estatuto do Mecenato, em conformidade com a legislação aplicável;\n\nf) As quantias cobradas por serviços prestados a entidades públicas ou privadas, nacionais ou estrangeiras;\n\ng) As receitas provenientes da constituição de fundos e de campanhas levadas a efeito em Portugal, no âmbito de acção da UNESCO;\n\nh) O produto da venda de publicações e de outros documentos ou materiais relacionados com a UNESCO;\n\ni) Quaisquer outras receitas que por lei, contrato ou outro título lhes sejam atribuídas.\n\n3 - As quantias cobradas pela CNU são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.\n\n4 - A prestação de serviços, assim como a aceitação de comparticipações ou subsídios, só poderão ser efectuadas em relação a entidades estrangeiras, mediante autorização do membro do Governo responsável pela área dos negócios estrangeiros."
+  },
+  "889761331": {
+   "fragment_id": "889761994",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas\n\nConstituem despesas da CNU as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "889761332": {
+   "fragment_id": "889761995",
+   "type": 11,
+   "heading": "Artigo 10.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mapa de cargos de direcção\n\nO lugar de direcção superior de 1.º grau consta do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "889761333": {
+   "fragment_id": "889761996",
+   "type": 11,
+   "heading": "Artigo 11.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pessoal\n\nA afectação à CNU do pessoal do mapa do MNE é feita por despacho do secretário-geral do MNE."
+  },
+  "889761334": {
+   "fragment_id": "889761997",
+   "type": 11,
+   "heading": "Artigo 12.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos revogatórios\n\nNos termos do artigo 28.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, considera-se revogado, na data de entrada em vigor do presente decreto regulamentar, o Decreto-Lei n.º 121/2007, de 27 de Abril."
+  },
+  "889761335": {
+   "fragment_id": "889761998",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "889761337": {
+   "fragment_id": "889762000",
+   "type": 14,
+   "heading": "Anexo — Mapa de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa de pessoal dirigente\n\n(a que se refere o artigo 10.º)\n\n(ver documento original)"
+  },
+  "889761340": {
+   "fragment_id": "889761986",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2013-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Comissão Nacional da UNESCO, abreviadamente designada por CNU, é uma estrutura do Ministério dos Negócios Estrangeiros.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+  },
+  "889761343": {
+   "fragment_id": "889762004",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Regime administrativo e financeiro",
+   "in_force_from": "2013-03-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+   ],
+   "markdown": "###### Artigo 7.º-A — Regime administrativo e financeiro\n\n1 - O apoio em matéria administrativa e financeira da CNU cabe ao Departamento Geral de Administração da Secretaria Geral do MNE, a cujo diretor compete preparar e executar as decisões inerentes à autorização das despesas.\n\n2 - A CNU envia ao Departamento Geral de Administração da Secretaria-Geral do MNE toda a informação necessária ao exercício das competências que lhe são atribuídas.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+  },
+  "889761344": {
+   "fragment_id": "889761993",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas",
+   "in_force_from": "2013-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+   ],
+   "markdown": "###### Artigo 8.º — Receitas\n\n1 - A CNU dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A CNU dispõe ainda das seguintes receitas próprias:\n\na) Os rendimentos dos bens próprios ou daqueles de que tenha a fruição, a qualquer título;\n\nb) O produto de alienação dos bens próprios;\n\nc) Quaisquer comparticipações ou subsídios da UNESCO;\n\nd) Os subsídios, subvenções, doações, heranças ou legados concedidos por quaisquer entidades;\n\ne) Quaisquer donativos, concedidos por quaisquer entidades, que se enquadrem no âmbito do Estatuto do Mecenato, em conformidade com a legislação aplicável;\n\nf) As quantias cobradas por serviços prestados a entidades públicas ou privadas, nacionais ou estrangeiras;\n\ng) As receitas provenientes da constituição de fundos e de campanhas levadas a efeito em Portugal, no âmbito de acção da UNESCO;\n\nh) O produto da venda de publicações e de outros documentos ou materiais relacionados com a UNESCO;\n\ni) Quaisquer outras receitas que por lei, contrato ou outro título lhes sejam atribuídas.\n\n3 - As quantias cobradas pela CNU são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros e das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.\n\n4 - A prestação de serviços, assim como a aceitação de comparticipações ou subsídios, só poderão ser efectuadas em relação a entidades estrangeiras, mediante autorização do membro do Governo responsável pela área dos negócios estrangeiros.\n\n5 - A gestão das receitas da CNU é assegurada pelo Departamento Geral de Administração da Secretaria-Geral do MNE.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+  },
+  "889761345": {
+   "fragment_id": "889761994",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas",
+   "in_force_from": "2013-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+   ],
+   "markdown": "###### Artigo 9.º — Despesas\n\n1 - Constituem despesas da CNU as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n2 - As despesas da CNU são centralizadas no Departamento Geral de Administração da Secretaria-Geral do MNE.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+  },
+  "889761346": {
+   "fragment_id": "889761995",
+   "type": 11,
+   "heading": "Artigo 10.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mapa de cargos de direcção\n\nO lugar de direcção superior de 1.º grau consta do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "889761347": {
+   "fragment_id": "889761996",
+   "type": 11,
+   "heading": "Artigo 11.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pessoal\n\nA afectação à CNU do pessoal do mapa do MNE é feita por despacho do secretário-geral do MNE."
+  },
+  "889761348": {
+   "fragment_id": "889761997",
+   "type": 11,
+   "heading": "Artigo 12.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos revogatórios\n\nNos termos do artigo 28.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, considera-se revogado, na data de entrada em vigor do presente decreto regulamentar, o Decreto-Lei n.º 121/2007, de 27 de Abril."
+  },
+  "889761349": {
+   "fragment_id": "889761998",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "889761350": {
+   "fragment_id": "889761999",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas.\n\nPromulgado em 23 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "889761351": {
+   "fragment_id": "889762000",
+   "type": 14,
+   "heading": "Anexo — Mapa de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa de pessoal dirigente\n\n(a que se refere o artigo 10.º)\n\n(ver documento original)"
+  }
+ }
+}

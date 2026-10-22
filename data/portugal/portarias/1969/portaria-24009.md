@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:526074:por
+title: Portaria n.º 24009
+short_title: null
+summary: Dá nova redacção a várias disposições da Portaria n.º 22016, que estabelece os preceitos relativos ao recrutamento
+  e instrução dos oficiais da reserva naval
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Superintendência dos Serviços do Pessoal da Armada
+proposing_entity: null
+official_number: '24009'
+official_date: null
+publication_date: '1969-04-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 77/1969, Série I de 1969-04-01
+  number: '77'
+  series: I
+  supplement: null
+  pages: 349 - 350
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/04/07700/03490350.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '526074'
+  dre_path: /dr/detalhe/portaria/24009-1969-526074
+  internal: pt:dre:526074:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/24009-1969-526074
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24009-1969-526074
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-03-30T00:00:00Z'
+integrity:
+  source_sha256: ac283e279a9dc7f6588ed91e3874677a777fd84c1791aadfe24886fdc447ee00
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1969/DRE-1969-24009-526074.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:383003:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 24009
+
+Considerando a conveniência de actualizar certas disposições respeitantes à instrução dos oficiais da reserva naval:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+
+A alínea b) do n.º 5.º, a alínea b) do n.º 9.º e os n.os 12.º, 13.º, 16.º e 17.º da [Portaria n.º 22016](https://diariodarepublica.pt/dr/detalhe/portaria/22016-1966-473492), de 26 de Maio de 1966, passam a ter a seguinte redacção:
+
+5.º ...
+
+a) ...
+
+b) Os C. F. O. R. N. são divididos em dois ciclos, podendo o 1.º ciclo ser comum, no todo ou em parte, a dois ou mais cursos, e tendo a parte escolar dos dois ciclos duração não superior a vinte e cinco semanas e o embarque uma duração não superior a quatro semanas.
+
+c) ...
+
+...
+
+9.º ...
+
+a) ...
+
+b) O aproveitamento durante o embarque, classificado de 0 a 20 valores, aproximados a centésimos, e apurado por um júri constituído pelo director dos C. F. O. R. N. ou pelo delegado ou delegados da Escola Naval nomeados para acompanharem os cadetes e por oficiais dos navios em que é realizado o embarque e que tenham sido nomeados para esse fim pelos respectivos comandantes.
+
+...
+
+12.º Os cadetes que obtenham cota de mérito ou classificação de carácter militar inferior a 10 valores são abatidos à reserva naval e alistados como primeiros-grumetes fuzileiros. Nesta situação completarão o período de prestação de serviço efectivo a que são obrigados, o qual será de duração igual à estabelecida para os mancebos do seu contingente que ascendem a aspirante a oficial. Cumprido o referido serviço, são passados à reserva da Armada e licenciados. Procedimento igual é adoptado com os cadetes que durante a frequência dos C. F. O. R. N. demonstrem falta de aproveitamento, a definir nos planos de curso, numa ou mais instruções, ou falta de qualidades morais ou militares para servirem na Armada como oficiais da reserva naval. Este procedimento pode ser proposto pelo director dos C. F. O. R. N., ou pelos comandantes ou directores das unidades ou serviços em que os cadetes prestam serviço, ao director da Escola Naval, que apreciará o assunto e, por sua vez, proporá o que tiver por conveniente à Superintendência dos Serviços do Pessoal.
+
+13.º Para obtenção de aproveitamento nas instruções é necessário que o número de faltas não exceda 1/5 dos tempos de instrução. Quando as faltas forem dadas por motivo de doença, poderá o director da Escola Naval, por proposta do director dos C. F. O. R. N., relevar essas faltas, se reconhecer que o cadete pode continuar a frequência do curso sem prejuízo da instrução, quer pelos seus conhecimentos, quer pelas suas qualidades de inteligência e aplicação.
+
+...
+
+16.º Nas circunstâncias a que se refere o número anterior deve a Superintendência dos Serviços do Pessoal;
+
+a) Abater os cadetes à reserva naval;
+
+b) Promover a sua imediata transferência para os distritos de recrutamento e mobilização a que pertencem, com indicação da respectiva morada, instrução militar que receberam e motivos que determinaram a transferência.
+
+17.º Por proposta do director dos C. F. O. R. N. ao director da Escola Naval, que depois de a apreciar submeterá o assunto à Superintendência dos Serviços do Pessoal, pode o Ministro da Marinha determinar que os cadetes sejam transferidos da classe em que foram alistados para outra para que tenham mostrado especial disposição, desde que possuam a necessária preparação técnica.
+
+Ministério da Marinha, 1 de Abril de 1969. - O Ministro da Marinha, Manuel Pereira Crespo.

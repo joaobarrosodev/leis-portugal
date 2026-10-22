@@ -1,0 +1,259 @@
+---
+schema_version: '1.0'
+id: pt:dre:693782:por
+title: Decreto-Lei n.º 5/91
+short_title: null
+summary: Estabelece o novo regime jurídico para as assembeias distritais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 5/91
+official_date: null
+publication_date: '1991-01-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/1991, Série I-A de 1991-01-08
+  number: '6'
+  series: I
+  supplement: null
+  pages: 91 - 93
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/01/006a00/00910093.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/5/1991/01/08/p/dre/pt/html
+  oj: null
+  dre: '693782'
+  dre_path: /dr/detalhe/decreto-lei/5-1991-693782
+  internal: pt:dre:693782:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782
+  metadata_url: https://data.dre.pt/eli/dec-lei/5/1991/01/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1991-693782
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-06-26T00:00:00Z'
+integrity:
+  source_sha256: 0dbf44c5ee1311a3be6880ec56274c3daf5fb67a8110bc82433353b68c17a217
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-5-693782.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Distrital
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:25345578:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 5/91
+
+de 8 de Janeiro
+
+A 2.ª Revisão Constitucional, na nova redacção que imprimiu ao artigo 291.º da Constituição, exclui o governador civil da composição das assembleias distritais.
+
+Tal inovação implica a necessidade de proceder a alterações no regime jurídico a que estão submetidas as assembleias distritais, nomeadamente, quanto à sua composição, actualização das competências, duração dos mandatos, regimes financeiros e patrimonial, organização e funcionamento e adequação ao novo regime jurídico da tutela administrativa.
+
+Algumas actividades que as assembleias distritais oportunamente resolverem não continuar a assegurar serão prosseguidas pela Administração Central, que para o efeito promoverá o melhor aproveitamento e racionalização dos meios humanos e materiais que lhe estavam afectos, recorrendo, se tal for aconselhável, à designação de comissões que se ocuparão do apuramento e gestão transitória desse património.
+
+Por outro lado, há que definir a composição, as competências e as normas de funcionamento do novo conselho consultivo.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 1.º da [Lei n.º 25/90](https://diariodarepublica.pt/dr/detalhe/lei/25-1990-573501), de 9 de Agosto, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º - 1 - Enquanto não estiverem instituídas em concreto as regiões administrativas subsiste a divisão distrital.
+
+2 - Há em cada distrito uma assembleia distrital com funções deliberativas e um conselho consultivo que assiste o governador civil.
+
+###### Art. 2.º Compõem a assembleia distrital:
+
+a) Os presidentes das câmaras municipais ou vereadores que os substituam;
+
+b) Dois membros de cada assembleia municipal, devendo um deles ser o respectivo presidente ou o seu substituto e o outro eleito de entre os presidentes de junta de freguesia.
+
+###### Art. 3.º - 1 - As assembleias distritais têm, anualmente, pelo menos, duas sessões ordinárias, em Março e Dezembro, destinadas, respectivamente, à aprovação do relatório e contas do ano anterior e à aprovação do plano de actividades e orçamento para o ano seguinte.
+
+2 - A assembleia distrital reúne ordinária e extraordinariamente nos termos do seu regimento.
+
+###### Art. 4.º O exercício das funções de membro da assembleia distrital não é remunerado.
+
+###### Art. 5.º Compete à assembleia distrital:
+
+a) Elaborar o seu regimento;
+
+b) Promover a coordenação dos meios de acção distritais de que disponha;
+
+c) Deliberar sobre a criação ou manutenção de serviços que, na área do distrito, apoiem tecnicamente as autarquias locais;
+
+d) Dar parecer, sempre que solicitado, sobre questões relacionadas com o desenvolvimento económico e social do distrito;
+
+e) Aprovar recomendações sobre a rede escolar no respeitante aos níveis de ensino que constituem a educação pré-escolar, o ensino básico e o ensino secundário, bem como coordenar a acção das autarquias locais no âmbito do equipamento escolar;
+
+f) Deliberar sobre a criação e manutenção de museus etnográficos, históricos e de arte local;
+
+g) Deliberar sobre a investigação, inventariação e conservação dos valores locais e arqueológicos, históricos e artísticos e sobre a preservação e divulgação do folclore, trajos e costumes regionais;
+
+h) Solicitar informações e esclarecimentos ao governador civil em matéria de interesse do distrito;
+
+i) Estabelecer as normas gerais de administração do património próprio do distrito sob sua jurisdição;
+
+j) Aprovar o plano anual de actividades, o orçamento e suas revisões ou alterações e o relatório e as contas da assembleia distrital;
+
+l) Gerir o quadro de pessoal por si fixado;
+
+m) Exercer os demais poderes que lhe sejam conferidos por lei.
+
+###### Art. 6.º - 1 - A mesa da assembleia distrital, composta por um presidente, um 1.º secretário e um 2.º secretário, é eleita pela assembleia, de entre os seus membros, por escrutínio secreto.
+
+2 - A mesa é eleita pelo período do mandato autárquico, podendo os seus membros ser destituídos pela assembleia, em qualquer altura, por deliberação da maioria absoluta dos seus membros em efectividade de funções.
+
+3 - O presidente é substituído, nas suas faltas e impedimentos, pelo 1.º secretário e este pelo 2.º secretário.
+
+4 - Na ausência de todos os membros da mesa a assembleia elege, por voto secreto, uma mesa ad hoc para presidir a essa sessão.
+
+###### Art. 7.º - 1 - Compete ao presidente da mesa da assembleia distrital:
+
+a) Convocar as sessões ordinárias e extraordinárias;
+
+b) Dirigir os trabalhos e manter a disciplina das sessões;
+
+c) Executar e fiscalizar o cumprimento das deliberações da assembleia distrital;
+
+d) Elaborar e executar o plano de actividades e o orçamento, promovendo o pagamento de todas as despesas autorizadas pela assembleia distrital;
+
+e) Elaborar o relatório e as contas da assembleia distrital que, se for caso disso, submete a julgamento do Tribunal de Contas;
+
+f) Superintender na gestão e direcção do pessoal;
+
+g) Exercer os demais poderes conferidos por lei, pelo regimento ou por deliberação da assembleia distrital.
+
+2 - O presidente da mesa da assembleia distrital pode delegar as suas competências nos secretários, bem como subdelegar as que lhe tenham sido delegadas por aquela.
+
+3 - Das decisões do presidente ou dos secretários da mesa cabe reclamação para o plenário da assembleia distrital.
+
+###### Art. 8.º Nos casos em que as assembleias distritais não deliberem a fixação de quadros de pessoal próprios, o apoio às suas reuniões ou sessões é assegurado por pessoal dos quadros de qualquer dos municípios que integram a assembleia distrital de acordo com os critérios que a mesma fixar.
+
+###### Art. 9.º Constituem receitas das assembleias distritais:
+
+a) O produto das contribuições de cada município;
+
+b) O produto da cobrança de taxas pela prestação de serviços ou pelo aproveitamento de bens de utilização pública;
+
+c) O rendimento de bens próprios e o produto da sua alienação;
+
+d) Quaisquer outros rendimentos permitidos por lei.
+
+###### Art. 10.º As assembleias distritais não podem contrair empréstimos.
+
+###### Art. 11.º As assembleias distritais ficam sujeitas à tutela administrativa prevista na [Lei n.º 87/89](https://diariodarepublica.pt/dr/detalhe/lei/87-1989-547247), de 9 de Setembro, nos mesmos termos em que o são as autarquias locais.
+
+###### Art. 12.º Das deliberações da assembleia distrital cabe recurso contencioso nos termos gerais.
+
+###### Art. 13.º O pessoal ao serviço das assembleias distritais não providos nos lugares dos quadros próprios fica sujeito ao regime jurídico do pessoal da Administração Central nos seguintes termos:
+
+a) É integrado equitativamente nos QEIS do MPAT e MAI aquele pessoal que à data de entrada em vigor do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro, preencha os requisitos previstos no n.º 1 do artigo 37.º do citado diploma;
+
+b) Ao restante pessoal é aplicável o disposto no n.º 2 do artigo 37.º do [Decreto-Lei n.º 427/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1989-550586), de 7 de Dezembro.
+
+###### Art. 14.º Com a entrada em vigor do presente diploma, os encargos com o pessoal dos quadros das assembleias distritais e com a manutenção dos respectivos serviços passam a ser integralmente suportados pelas assembleias, através das contribuições dos municípios integrantes, estabelecidas de acordo com os critérios de repartição fixados por cada assembleia.
+
+###### Art. 15.º - 1 - Considera-se transferida para o Estado a propriedade dos bens móveis e imóveis adstritos aos serviços e estabelecimentos cujos fins as assembleias distritais deliberem não continuar a assegurar e que vão ser prosseguidos pela Administração Central.
+
+2 - Para efeitos do disposto no n.º 1 são dispensadas todas as formalidades, efectuando-se a inscrição no cadastro quando for caso disso, mediante apresentação de declaração conjunta pelos Ministérios do Planeamento e da Administração do Território e da Administração Interna, com base em informação prestada pelo governador e vice-governador civil, onde constem os imóveis a transferir.
+
+3 - Considera-se também transferida para o Estado a titularidade de arrendamentos de instalações onde se encontrem a funcionar serviços que a assembleia distrital delibere não continuar a assegurar e que passaram, por isso, a ser prestados pela Administração Central.
+
+4 - As condições de cedência do uso de instalações e bens móveis adstritos aos serviços a que aludem os números anteriores são definidas mediante protocolo celebrado entre os Ministérios do Planeamento e da Administração do Território, da Administração Interna e da tutela das entidades interessadas em prosseguir a actividade daqueles serviços.
+
+###### Art. 16.º - 1 - Se o apuramento e gestão temporária dos bens a que se refere o n.º 1 do artigo 15.º assim o exigir, pode o Ministério do Planeamento e da Administração do Território designar uma comissão para o efeito, composta por três elementos, de que faz parte e preside o governador civil, com faculdade de delegação no vice-governador.
+
+2 - As actividades a desenvolver pela comissão nos termos do n.º 1 constam de plano de actividades e são objecto de relatório e contas em quaisquer dos casos devidamente aprovados pelo Ministério do Planeamento e da Administração do Território.
+
+3 - O mandato da comissão termina em 31 de Dezembro de 1991.
+
+4 - O apoio à comissão é prestado por pessoal a que se reporta o artigo 13.º, sem prejuízo da sua integração nos quadros de efectivos interdepartamentais dos Ministérios do Planeamento e da Administração do Território e da Administração Interna na data que o mencionado preceito estipula.
+
+###### Art. 17.º - O conselho consultivo tem a seguinte composição:
+
+a) O governador civil, que preside;
+
+b) Quatro membros da assembleia distrital, por ela eleitos;
+
+c) Quatro cidadãos especialmente qualificados no âmbito do sector económico, social e cultural do distrito, nomeados por despacho conjunto dos Ministros do Planeamento e da Administração do Território e da Administração Interna, sob proposta do governador civil.
+
+2 - Na primeira reunião, os membros do conselho consultivo elegem, de entre eles, um secretário.
+
+###### Art. 18.º Ao conselho consultivo compete dar parecer sobre todos os assuntos que lhe sejam submetidos pelo governador civil ou por imposição da lei.
+
+###### Art. 19.º O conselho consultivo reúne sempre que para tal seja convocado pelo governador civil.
+
+###### Art. 20.º Sempre que os elementos previstos na alínea b) do n.º 1 do artigo 17.º deixem de possuir a qualidade que determinou a sua designação para aqueles órgãos, são imediatamente substituídos.
+
+###### Art. 21.º - 1 - No prazo de 30 dias a contar da data da entrada em vigor do presente diploma, o governador ou vice-governador civil convoca e preside ao acto de instalação das assembleias distritais.
+
+2 - Do acto de instalação é lavrada acta avulsa assinada pelo governador civil ou vice-governador civil e pelos membros da assembleia distrital presentes.
+
+3 - Terminado o acto de instalação, segue-se-lhe, de imediato, a primeira reunião que é presidida, até a eleição da mesa, pelo presidente da câmara municipal da sede do distrito ou pelo seu substituto.
+
+4 - Eleita a mesa, a assembleia distrital procede à eleição dos membros que, nos termos do presente diploma, vão integrar o conselho consultivo.
+
+5 - O presidente da mesa comunica ao governador civil nos 30 dias imediatos o nome dos elementos eleitos.
+
+###### Art. 22.º Em tudo o que não estiver disposto no presente diploma, aplicam-se ao funcionamento das assembleias distritais, com as devidas adaptações, as regras que, nesse domínio, vigoram para os órgãos municipais.
+
+###### Art. 23.º São revogados os artigos 82.º a 90.º da [Lei n.º 79/77](https://diariodarepublica.pt/dr/detalhe/lei/79-1977-277277), de 25 de Outubro, e o [Decreto-Lei n.º 288/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1985-183233), de 23 de Julho.
+
+###### Art. 24.º O presente diploma entra em vigor 60 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 2 de Novembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Manuel Pereira.
+
+**Promulgado em 10 de Dezembro de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 18 de Dezembro de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

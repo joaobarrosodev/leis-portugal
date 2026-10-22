@@ -1,0 +1,348 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:454286:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1983-868577616",
+ "dre_path": "/dr/detalhe/lei/6-1983-454286",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1983-07-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "868582439",
+    "868582415",
+    "868582416",
+    "868582417",
+    "868582418",
+    "868582419",
+    "868582420",
+    "868582421",
+    "868582422",
+    "868582423",
+    "868582424",
+    "868582425"
+   ]
+  },
+  {
+   "date": "1988-05-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:284745:por",
+     "title": "Decreto-Lei n.º 113/88",
+     "published": "1988-04-08",
+     "dre_path": "/dr/detalhe/decreto-lei/113-1988-284745"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "868582414",
+    "868582415",
+    "868582416",
+    "868582417",
+    "868582418",
+    "868582419",
+    "868582420",
+    "868582421",
+    "868582422",
+    "868582435",
+    "868582436",
+    "868582425",
+    "868582426"
+   ]
+  },
+  {
+   "date": "1998-11-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:234316:por",
+     "title": "Lei n.º 74/98",
+     "published": "1998-11-11",
+     "dre_path": "/dr/detalhe/lei/74-1998-234316"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "868582439",
+    "868582440",
+    "868582441",
+    "868582442",
+    "868582443",
+    "868582444",
+    "868582445",
+    "868582446",
+    "868582447",
+    "868582448",
+    "868582449",
+    "868582450",
+    "868582451"
+   ]
+  }
+ ],
+ "fragments": {
+  "868582439": {
+   "fragment_id": "868577617",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1998-11-16",
+   "changed_by": [],
+   "markdown": "Lei n.º 6/83\n\nde 29 de Julho\n\nPublicação, identificação e formulário dos diplomas\n\nA Assembleia da República decreta, nos termos da alínea d) do artigo 164.º da Constituição, ouvidas as Assembleias Regionais dos Açores e da Madeira, o seguinte:"
+  },
+  "868582415": {
+   "fragment_id": "868577618",
+   "type": 11,
+   "heading": "Artigo 1.º — (Publicação dos diplomas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Publicação dos diplomas)\n\n1 - A eficácia jurídica de qualquer diploma depende da publicação.\n\n2 - A data do diploma é a da sua publicação.\n\n3 - O Diário da República deve ser distribuído no dia correspondente ao da sua data."
+  },
+  "868582416": {
+   "fragment_id": "868577619",
+   "type": 11,
+   "heading": "Artigo 2.º — (Começo de vigência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Começo de vigência)\n\n1 - O diploma entra em vigor no dia nele fixado ou, na falta de fixação, no continente no quinto dia após a publicação, nos Açores e na Madeira no décimo quinto dia e em Macau e no estrangeiro no trigésimo dia.\n\n2 - O dia da publicação do diploma não se conta."
+  },
+  "868582417": {
+   "fragment_id": "868577620",
+   "type": 11,
+   "heading": "Artigo 3.º — (Publicação na 1.ª série do «Diário da República»)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Publicação na 1.ª série do «Diário da República»)\n\n1 - São publicados na 1.ª série do Diário da República:\n\na) As leis constitucionais;\n\nb) As convenções internacionais e os respectivos avisos de ratificação;\n\nc) As leis, os decretos-leis e os decretos legislativos regionais;\n\nd) Os decretos do Presidente da República;\n\ne) As resoluções da Assembleia da República e das Assembleias Regionais dos Açores e da Madeira;\n\nf) Os pareceres do Conselho de Estado previstos nas alíneas a) a e) do artigo 148.º da Constutição e os demais que o próprio Conselho delibere fazer publicar;\n\ng) Os regimentos da Assembleia da República, do Conselho de Estado e das Assembleias Regionais dos Açores e da Madeira;\n\nh) As decisões do Tribunal Constitucional previstas no artigo 3.º da Lei n.º 28/82, de 15 de Novembro;\n\ni) As decisões dos outros tribunais a que a lei confira força obrigatória geral;\n\nj) Os decretos regulamentares e os demais decretos do Governo, bem como os decretos dos Ministros da República para as regiões autónomas e os decretos regulamentares regionais;\n\nl) As resoluções do Conselho de Ministros e as portarias que contenham disposições genéricas;\n\nm) Os despachos normativos do Governo;\n\nn) Os orçamentos dos serviços do Estado que a lei mande publicar na 1.ª série e as declarações sobre transferências de verbas.\n\n2 - São ainda publicados na 1.ª série do Diário da República:\n\na) Os resultados das eleições para os órgãos do Estado, das regiões autónomas e do poder local, nos termos das respectivas leis eleitorais;\n\nb) A mensagem de renúncia do Presidente da República;\n\nc) As declarações relativas à renúncia ou perda de mandato dos deputados à Assembleia da República;\n\nd) As moções de censura referidas na alínea f) do n.º 1 do artigo 198.º da Constituição.\n\n3 - É vedado publicar na 1.ª série do Diário da República qualquer diploma ou acto não mencionado nos números anteriores."
+  },
+  "868582418": {
+   "fragment_id": "868577621",
+   "type": 11,
+   "heading": "Artigo 4.º — (Envio dos textos para publicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Envio dos textos para publicação)\n\nOs textos referidos no artigo anterior serão enviados para imediata publicação no Diário da República, depois de cumpridos os requisitos constitucionais ou legais, por intermédio dos serviços competentes dos órgãos donde provenham."
+  },
+  "868582419": {
+   "fragment_id": "868577622",
+   "type": 11,
+   "heading": "Artigo 5.º — (Publicação no «Boletim Oficial de Macau»)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Publicação no «Boletim Oficial de Macau»)\n\nOs diplomas emanados dos órgãos de soberania da República que hajam de ter aplicação em Macau, de acordo com a Constituição e o estatuto do território, conterão a menção de que devem ser publicados no Boletim Oficial e aí serão obrigatoriamente inseridos, mantendo, porém, a data da publicação no Diário da República."
+  },
+  "868582420": {
+   "fragment_id": "868577623",
+   "type": 11,
+   "heading": "Artigo 6.º — (Rectificações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Rectificações)\n\n1 - As rectificações dos erros materiais provenientes de divergências entre o texto original e o texto impresso de qualquer diploma publicado na 1.ª série do Diário da República devem ser publicadas nesta série e provir do órgão que aprovou o texto original.\n\n2 - As rectificações de diplomas publicados na 1.ª série só serão admitidas até 90 dias após a publicação do texto rectificado.\n\n3 - As rectificações entram em vigor na data da sua publicação."
+  },
+  "868582421": {
+   "fragment_id": "868577624",
+   "type": 11,
+   "heading": "Artigo 7.º — (Identificação de diplomas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Identificação de diplomas)\n\n1 - Todos os diplomas que hajam de ser publicados na 1.ª série do Diário da República são identificados pelo número e pela data da publicação.\n\n2 - No caso de actos legislativos, pode ser acrescentada designação que traduza sinteticamente o seu objecto,\n\n3 - Os diplomas de cada uma das regiões autónomas terão numeração própria e são ainda identificados pelas letras A (Açores) e M (Madeira) a acrescentar à indicação do ano."
+  },
+  "868582422": {
+   "fragment_id": "868577625",
+   "type": 11,
+   "heading": "Artigo 8.º — (Categorias de diplomas para efeitos de identificação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Categorias de diplomas para efeitos de identificação)\n\nA partir de 1 de Janeiro de 1983 haverá numeração distinta para cada uma das seguintes categorias de diplomas:\n\na) Leis constitucionais;\n\nb) Leis;\n\nc) Decretos-leis;\n\nd) Decretos legislativos regionais;\n\ne) Decretos;\n\nf) Resoluções;\n\ng) Decretos regulamentares;\n\nh) Decretos regulamentares regionais:\n\ni) Resoluções do Conselho de Ministros;\n\nj) Portarias;\n\nl) Despachos normativos."
+  },
+  "868582423": {
+   "fragment_id": "868577626",
+   "type": 11,
+   "heading": "Artigo 9.º — (Disposições gerais sobre formulário dos diplomas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Disposições gerais sobre formulário dos diplomas)\n\n1 - No início de cada diploma indicar-se-ão o órgão donde emana e a disposição da Constituição ou da lei ao abrigo da qual é publicado, dizendo-se:\n\nO Presidente da República (ou a Assembleia da República, ou o Governo, ou a Assembleia Regional ou o Governo Regional) decreta, nos termos do artigo ... da Constituição, o seguinte:\n\n2 - No caso de decreto-lei do Governo no uso de uma autorização legislativa ou de desenvolvimento de uma lei de bases, indicar-se-á a lei a que se reporta.\n\n3 - No caso de diploma de órgão de governo próprio de qualquer das regiões autónomas, indicar-se-á também a correspondente disposição do estatuto político-administrativo.\n\n4 - Quando no processo tiverem participado, a título consultivo ou deliberativo, por força da Constituição ou da lei, outro ou outros órgãos além do órgão de aprovação final, far-se-á referência expressa a esse facto.\n\n5 - Os regulamentos devem indicar expressamente as leis que visam regulamentar ou que definem a competência subjectiva ou objectiva para a sua emissão."
+  },
+  "868582424": {
+   "fragment_id": "868577627",
+   "type": 11,
+   "heading": "Artigo 10.º — (Menções após o texto)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Menções após o texto)\n\n1 - No caso de decreto do Presidente da República, após o texto seguir-se-ão, por ordem, a assinatura do Presidente e a menção da respectiva data e, se estiver compreendido no n.º 1 do artigo 143.º da Constituição, as assinaturas do Primeiro-Ministro e dos ministros competentes.\n\n2 - No caso de lei, após o texto seguir-se-ão, por ordem, a menção da data da aprovação, a assinatura do Presidente da Assembleia da República, a menção da data da promulgação, a assinatura do Presidente da República, a assinatura do Primeiro-Ministro e respectiva data.\n\n3 - No caso de resolução da Assembleia da República, após o texto seguir-se-á, por ordem, a menção da data da aprovação e a assinatura do Presidente da Assembleia da República.\n\n4 - No caso de decreto-lei, após o texto seguir-se-ão, por ordem, a menção da aprovação em Conselho de Ministros e da respectiva data, a menção da data da promulgação, a assinatura do Presidente da República e a assinatura do Primeiro-Ministro.\n\n5 - No caso de decreto do Governo de aprovação de tratado ou acordo internacional, após o texto seguir-se-ão, por ordem, a menção da aprovação em Conselho de Ministros e da respectiva data, a menção da data da assinatura pelo Presidente da República, a assinatura deste e a assinatura do Primeiro-Ministro.\n\n6 - No caso de decreto regulamentar do Governo, após o texto seguir-se-ão, por ordem, as assinaturas do Primeiro-Ministro e dos ministros competentes, a menção da data da promulgação, a assinatura do Presidente da Assembleia da República e a assinatura do Primeiro-Ministro.\n\n7 - No caso de qualquer outro decreto do Governo, após o texto seguir-se-ão, por ordem, as assinaturas do Primeiro-Ministro e dos ministras competentes, a menção da data da assinatura pelo Presidente da República, a assinatura deste e a assinatura do Primeiro-Ministro.\n\n8 - No caso de decreto legislativo ou decreto regulamentar regional da Assembleia Regional, após o texto seguir-se-ão, por ordem, a menção da data da aprovação, a assinatura do presidente da Assembleia Regional, a menção da data da assinatura pelo Ministro da República e a assinatura deste.\n\n9 - No caso de decreto regulamentar regional da competência do Governo Regional, após o texto seguir-se-ão, por ordem, a menção de aprovação em plenário do Governo Regional e da respectiva data, a assinatura do seu presidente, a menção da data da assinatura pelo Ministro da República e a assinatura deste.\n\n10 - No caso de decreto do Ministro da República para qualquer das regiões autónomas, após o texto seguir-se-ão, por ordem, a assinatura do Ministro da República e a menção da respectiva data.\n\n11 - Entende-se por ministros competentes, para efeito do presente artigo, o Vice-Primeiro-Ministro, se o houver, bem como os ministros cujos departamentos tenham interferência na execução do diploma."
+  },
+  "868582425": {
+   "fragment_id": "868577628",
+   "type": 11,
+   "heading": "Artigo 11.º — (Norma revogatória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Norma revogatória)\n\nSão revogadas as leis n.os 3/76, de 10 de Setembro, 8/77, de 1 de Fevereiro, e o Decreto-Lei n.º 3/83, de 11 de Janeiro."
+  },
+  "868582414": {
+   "fragment_id": "868577617",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 6/83\n\nde 29 de Julho\n\nPublicação, identificação e formulário dos diplomas\n\nA Assembleia da República decreta, nos termos da alínea d) do artigo 164.º da Constituição, ouvidas as Assembleias Regionais dos Açores e da Madeira, o seguinte:"
+  },
+  "868582435": {
+   "fragment_id": "868577626",
+   "type": 11,
+   "heading": "Artigo 9.º — (Disposições gerais sobre formulário dos diplomas)",
+   "in_force_from": "1988-05-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 113/88 - Diário da República n.º 82/1988, Série I de 1988-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1988-284745), em vigor a partir de 1988-05-08"
+   ],
+   "markdown": "###### Artigo 9.º — (Disposições gerais sobre formulário dos diplomas)\n\n1 - (Revogado.)\n\n2 - No caso de decreto-lei do Governo no uso de uma autorização legislativa ou de desenvolvimento de uma lei de bases, indicar-se-á a lei a que se reporta.\n\n3 - No caso de diploma de órgão de governo próprio de qualquer das regiões autónomas, indicar-se-á também a correspondente disposição do estatuto político-administrativo.\n\n4 - Quando no processo tiverem participado, a título consultivo ou deliberativo, por força da Constituição ou da lei, outro ou outros órgãos além do órgão de aprovação final, far-se-á referência expressa a esse facto.\n\n5 - Os regulamentos devem indicar expressamente as leis que visam regulamentar ou que definem a competência subjectiva ou objectiva para a sua emissão.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 113/88 - Diário da República n.º 82/1988, Série I de 1988-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1988-284745), em vigor a partir de 1988-05-08"
+  },
+  "868582436": {
+   "fragment_id": "868577627",
+   "type": 11,
+   "heading": "Artigo 10.º — (Menções após o texto)",
+   "in_force_from": "1988-05-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 113/88 - Diário da República n.º 82/1988, Série I de 1988-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1988-284745), em vigor a partir de 1988-05-08"
+   ],
+   "markdown": "###### Artigo 10.º — (Menções após o texto)\n\n1 - No caso de decreto do Presidente da República, após o texto seguir-se-ão, por ordem, a assinatura do Presidente e a menção da respectiva data e, se estiver compreendido no n.º 1 do artigo 143.º da Constituição, as assinaturas do Primeiro-Ministro e dos ministros competentes.\n\n2 - No caso de lei, após o texto seguir-se-ão, por ordem, a menção da data da aprovação, a assinatura do Presidente da Assembleia da República, a menção da data da promulgação, a assinatura do Presidente da República, a assinatura do Primeiro-Ministro e respectiva data.\n\n3 - No caso de resolução da Assembleia da República, após o texto seguir-se-á, por ordem, a menção da data da aprovação e a assinatura do Presidente da Assembleia da República.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - No caso de decreto legislativo ou decreto regulamentar regional da Assembleia Regional, após o texto seguir-se-ão, por ordem, a menção da data da aprovação, a assinatura do presidente da Assembleia Regional, a menção da data da assinatura pelo Ministro da República e a assinatura deste.\n\n9 - No caso de decreto regulamentar regional da competência do Governo Regional, após o texto seguir-se-ão, por ordem, a menção de aprovação em plenário do Governo Regional e da respectiva data, a assinatura do seu presidente, a menção da data da assinatura pelo Ministro da República e a assinatura deste.\n\n10 - No caso de decreto do Ministro da República para qualquer das regiões autónomas, após o texto seguir-se-ão, por ordem, a assinatura do Ministro da República e a menção da respectiva data.\n\n11 - Entende-se por ministros competentes, para efeito do presente artigo, o Vice-Primeiro-Ministro, se o houver, bem como os ministros cujos departamentos tenham interferência na execução do diploma.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 113/88 - Diário da República n.º 82/1988, Série I de 1988-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1988-284745), em vigor a partir de 1988-05-08"
+  },
+  "868582426": {
+   "fragment_id": "868577629",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 3 de Fevereiro de 1983.\n\nPara ser publicada no «Boletim Oficial de Macau».\n\nO Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.\n\nPromulgada em 18 de Fevereiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 8 de Junho de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão."
+  },
+  "868582440": {
+   "fragment_id": "868577618",
+   "type": 11,
+   "heading": "Artigo 1.º — (Publicação dos diplomas)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+   ],
+   "markdown": "###### Artigo 1.º — (Publicação dos diplomas)\n\n1 - A eficácia jurídica de qualquer diploma depende da publicação.\n\n2 - A data do diploma é a da sua publicação.\n\n3 - O Diário da República deve ser distribuído no dia correspondente ao da sua data.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+  },
+  "868582441": {
+   "fragment_id": "868577619",
+   "type": 11,
+   "heading": "Artigo 2.º — (Começo de vigência)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+   ],
+   "markdown": "###### Artigo 2.º — (Começo de vigência)\n\n1 - O diploma entra em vigor no dia nele fixado ou, na falta de fixação, no continente no quinto dia após a publicação, nos Açores e na Madeira no décimo quinto dia e em Macau e no estrangeiro no trigésimo dia.\n\n2 - O dia da publicação do diploma não se conta.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+  },
+  "868582442": {
+   "fragment_id": "868577620",
+   "type": 11,
+   "heading": "Artigo 3.º — (Publicação na 1.ª série do «Diário da República»)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 1/91 - Diário da República n.º 1/1991, Série I-A de 1991-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1991-662759), produz efeitos a partir de 1991-01-02"
+   ],
+   "markdown": "###### Artigo 3.º — (Publicação na 1.ª série do «Diário da República»)\n\n1 - A 1.ª série do Diário da República compreende a parte A e a parte B.\n\n2 - São objecto exclusivo de publicação na parte A da 1.ª série do Diário da República:\n\na) As leis constitucionais;\n\nb) As convenções internacionais, os respectivos decretos presidenciais e avisos de ratificação, bem como os restantes avisos a elas respeitantes;\n\nc) As leis, os decretos-leis e os decretos legislativos regionais;\n\nd) Os decretos do Presidente da República;\n\ne) As resoluções da Assembleia da República;\n\nf) Os regimentos da Assembleia da República, do Conselho de Estado e das Assembleias Regionais dos Açores e da Madeira;\n\ng) As decisões do Tribunal Constitucional previstas no artigo 3.º da Lei n.º 28/82, de 15 de Novembro;\n\nh) As decisões do Supremo Tribunal de Justiça e do Supremo Tribunal Administrativo a que a lei confira força obrigatória geral;\n\ni) Os resultados dos referendos e das eleições para os órgãos do Estado e para o Parlamento Europeu, nos termos da respectiva legislação aplicável;\n\nj) A mensagem de renúncia do Presidente da República;\n\nl) As moções de censura referidas na alínea f) do n.º 1 do artigo 198.º da Constituição e as moções de confiança previstas no artigo 196.º da Constituição;\n\nm) Os pareceres do Conselho de Estado previstos nas alíneas a) a e) do artigo 148.º da Constituição e aqueles que o próprio Conselho delibere fazer publicar.\n\n3 - São objecto de publicação na parte B da 1.ª série do Diário da República:\n\na) Os demais decretos do Governo;\n\nb) As resoluções do Conselho de Ministros e as portarias que contenham disposições genéricas;\n\nc) Os decretos dos Ministros da República para as Regiões Autónomas dos Açores e da Madeira e os decretos regulamentares regionais;\n\nd) Os despachos normativos do Governo;\n\ne) As resoluções das Assembleias Regionais dos Açores e da Madeira;\n\nf) As decisões de outros tribunais a que a lei confira força obrigatória geral;\n\ng) Os resultados das eleições para os órgãos das Regiões Autónomas dos Açores e da Madeira e das autarquias locais;\n\nh) Os orçamentos dos serviços do Estado que a lei mande publicar na 1.ª série e as declarações sobre transferência de verbas;\n\ni) As declarações relativas à renúncia ou à perda de mandato dos deputados à Assembleia da República.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 1/91 - Diário da República n.º 1/1991, Série I-A de 1991-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1991-662759), produz efeitos a partir de 1991-01-02"
+  },
+  "868582443": {
+   "fragment_id": "868577621",
+   "type": 11,
+   "heading": "Artigo 4.º — (Envio dos textos para publicação)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+   ],
+   "markdown": "###### Artigo 4.º — (Envio dos textos para publicação)\n\nOs textos referidos no artigo anterior serão enviados para imediata publicação no Diário da República, depois de cumpridos os requisitos constitucionais ou legais, por intermédio dos serviços competentes dos órgãos donde provenham.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+  },
+  "868582444": {
+   "fragment_id": "868577622",
+   "type": 11,
+   "heading": "Artigo 5.º — (Publicação no «Boletim Oficial de Macau»)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+   ],
+   "markdown": "###### Artigo 5.º — (Publicação no «Boletim Oficial de Macau»)\n\nOs diplomas emanados dos órgãos de soberania da República que hajam de ter aplicação em Macau, de acordo com a Constituição e o estatuto do território, conterão a menção de que devem ser publicados no Boletim Oficial e aí serão obrigatoriamente inseridos, mantendo, porém, a data da publicação no Diário da República.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+  },
+  "868582445": {
+   "fragment_id": "868577623",
+   "type": 11,
+   "heading": "Artigo 6.º — (Rectificações)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+   ],
+   "markdown": "###### Artigo 6.º — (Rectificações)\n\n1 - As rectificações dos erros materiais provenientes de divergências entre o texto original e o texto impresso de qualquer diploma publicado na 1.ª série do Diário da República devem ser publicadas nesta série e provir do órgão que aprovou o texto original.\n\n2 - As rectificações de diplomas publicados na 1.ª série só serão admitidas até 90 dias após a publicação do texto rectificado.\n\n3 - As rectificações entram em vigor na data da sua publicação.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+  },
+  "868582446": {
+   "fragment_id": "868577624",
+   "type": 11,
+   "heading": "Artigo 7.º — (Identificação de diplomas)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 1/91 - Diário da República n.º 1/1991, Série I-A de 1991-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1991-662759), produz efeitos a partir de 1991-01-02"
+   ],
+   "markdown": "###### Artigo 7.º — (Identificação de diplomas)\n\n1 - Todos os diplomas são identificados por um número próprio e pela data da respectiva publicação no Diário da República.\n\n2 - No caso de actos normativos deve ser prevista uma designação genérica que traduza sinteticamente o seu objecto.\n\n3 - Os diplomas de cada uma das regiões autónomas terão numeração própria e são ainda identificados pelas letras A (Açores) e M (Madeira) a acrescentar à indicação do ano.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 1/91 - Diário da República n.º 1/1991, Série I-A de 1991-01-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1991-662759), produz efeitos a partir de 1991-01-02"
+  },
+  "868582447": {
+   "fragment_id": "868577625",
+   "type": 11,
+   "heading": "Artigo 8.º — (Categorias de diplomas para efeitos de identificação)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+   ],
+   "markdown": "###### Artigo 8.º — (Categorias de diplomas para efeitos de identificação)\n\nA partir de 1 de Janeiro de 1983 haverá numeração distinta para cada uma das seguintes categorias de diplomas:\n\na) Leis constitucionais;\n\nb) Leis;\n\nc) Decretos-leis;\n\nd) Decretos legislativos regionais;\n\ne) Decretos;\n\nf) Resoluções;\n\ng) Decretos regulamentares;\n\nh) Decretos regulamentares regionais:\n\ni) Resoluções do Conselho de Ministros;\n\nj) Portarias;\n\nl) Despachos normativos.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+  },
+  "868582448": {
+   "fragment_id": "868577626",
+   "type": 11,
+   "heading": "Artigo 9.º — (Disposições gerais sobre formulário dos diplomas)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 113/88 - Diário da República n.º 82/1988, Série I de 1988-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1988-284745), em vigor a partir de 1988-05-08"
+   ],
+   "markdown": "###### Artigo 9.º — (Disposições gerais sobre formulário dos diplomas)\n\n1 - (Revogado.)\n\n2 - No caso de decreto-lei do Governo no uso de uma autorização legislativa ou de desenvolvimento de uma lei de bases, indicar-se-á a lei a que se reporta.\n\n3 - No caso de diploma de órgão de governo próprio de qualquer das regiões autónomas, indicar-se-á também a correspondente disposição do estatuto político-administrativo.\n\n4 - Quando no processo tiverem participado, a título consultivo ou deliberativo, por força da Constituição ou da lei, outro ou outros órgãos além do órgão de aprovação final, far-se-á referência expressa a esse facto.\n\n5 - Os regulamentos devem indicar expressamente as leis que visam regulamentar ou que definem a competência subjectiva ou objectiva para a sua emissão.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 113/88 - Diário da República n.º 82/1988, Série I de 1988-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1988-284745), em vigor a partir de 1988-05-08"
+  },
+  "868582449": {
+   "fragment_id": "868577627",
+   "type": 11,
+   "heading": "Artigo 10.º — (Menções após o texto)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 113/88 - Diário da República n.º 82/1988, Série I de 1988-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1988-284745), em vigor a partir de 1988-05-08"
+   ],
+   "markdown": "###### Artigo 10.º — (Menções após o texto)\n\n1 - No caso de decreto do Presidente da República, após o texto seguir-se-ão, por ordem, a assinatura do Presidente e a menção da respectiva data e, se estiver compreendido no n.º 1 do artigo 143.º da Constituição, as assinaturas do Primeiro-Ministro e dos ministros competentes.\n\n2 - No caso de lei, após o texto seguir-se-ão, por ordem, a menção da data da aprovação, a assinatura do Presidente da Assembleia da República, a menção da data da promulgação, a assinatura do Presidente da República, a assinatura do Primeiro-Ministro e respectiva data.\n\n3 - No caso de resolução da Assembleia da República, após o texto seguir-se-á, por ordem, a menção da data da aprovação e a assinatura do Presidente da Assembleia da República.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - (Revogado.)\n\n8 - No caso de decreto legislativo ou decreto regulamentar regional da Assembleia Regional, após o texto seguir-se-ão, por ordem, a menção da data da aprovação, a assinatura do presidente da Assembleia Regional, a menção da data da assinatura pelo Ministro da República e a assinatura deste.\n\n9 - No caso de decreto regulamentar regional da competência do Governo Regional, após o texto seguir-se-ão, por ordem, a menção de aprovação em plenário do Governo Regional e da respectiva data, a assinatura do seu presidente, a menção da data da assinatura pelo Ministro da República e a assinatura deste.\n\n10 - No caso de decreto do Ministro da República para qualquer das regiões autónomas, após o texto seguir-se-ão, por ordem, a assinatura do Ministro da República e a menção da respectiva data.\n\n11 - Entende-se por ministros competentes, para efeito do presente artigo, o Vice-Primeiro-Ministro, se o houver, bem como os ministros cujos departamentos tenham interferência na execução do diploma.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 113/88 - Diário da República n.º 82/1988, Série I de 1988-04-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-1988-284745), em vigor a partir de 1988-05-08"
+  },
+  "868582450": {
+   "fragment_id": "868577628",
+   "type": 11,
+   "heading": "Artigo 11.º — (Norma revogatória)",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+   ],
+   "markdown": "###### Artigo 11.º — (Norma revogatória)\n\nSão revogadas as leis n.os 3/76, de 10 de Setembro, 8/77, de 1 de Fevereiro, e o Decreto-Lei n.º 3/83, de 11 de Janeiro.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+  },
+  "868582451": {
+   "fragment_id": "868577629",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1998-11-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+   ],
+   "markdown": "Aprovada em 3 de Fevereiro de 1983.\n\nPara ser publicada no «Boletim Oficial de Macau».\n\nO Presidente da Assembleia da República, Leonardo Eugénio Ramos Ribeiro de Almeida.\n\nPromulgada em 18 de Fevereiro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 8 de Junho de 1983.\n\nO Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 74/98 - Diário da República n.º 261/1998, Série I-A de 1998-11-11](https://diariodarepublica.pt/dr/detalhe/lei/74-1998-234316), em vigor a partir de 1998-11-16"
+  }
+ }
+}

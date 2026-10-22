@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:300395:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1992-953229729",
+ "dre_path": "/dr/detalhe/lei/11-1992-300395",
+ "source_lastmod": "2025-11-26",
+ "versions": [
+  {
+   "date": "1992-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "952062670",
+    "952062671",
+    "952062672",
+    "952062673"
+   ]
+  },
+  {
+   "date": "1992-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:261131:por",
+     "title": "Rectificação n.º 8/92",
+     "published": "1992-08-27",
+     "dre_path": "/dr/detalhe/rectificacao/8-1992-261131"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "952062670",
+    "952062671",
+    "953230177",
+    "952062673",
+    "952062674"
+   ]
+  }
+ ],
+ "fragments": {
+  "952062670": {
+   "fragment_id": "953229730",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 11/92\n\nde 15 de Julho\n\nAutoriza o Governo a legislar em matéria de regime jurídico das relações colectivas de trabalho, alterando o regime constante do Decreto-Lei n.º 519-C1/79, de 29 de Dezembro.\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea e), 168.º, n.º 1, alíneas b), q) e x), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "952062671": {
+   "fragment_id": "953229731",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nFica o Governo autorizado a legislar em matéria de regime jurídico das relações colectivas de trabalho, alterando o regime constante do Decreto-Lei n.º 519-C1/79, de 29 de Dezembro."
+  },
+  "952062672": {
+   "fragment_id": "953229732",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA legislação a estabelecer terá o seguinte sentido e extensão:\n\na) Admissibilidade de as convenções colectivas poderem regular os processos de resolução dos litígios emergentes de contratos individuais de trabalho, designadamente através da criação de mecanismos de conciliação, mediação e arbitragem;\n\nb) Previsão de as convenções colectivas poderem estabelecer e regular benefícios complementares de segurança social ou equivalentes, de acordo com os princípios e respeitando os limites da legislação vigente nesta matéria, bem como nos casos em que a responsabilidade pela atribuição de tais benefícios tenha sido transferida para instituições seguradoras;\n\nc) Adstrição, em caso de cessão, total ou parcial, de uma empresa ou estabelecimento, da entidade cessionária à observância até ao termo do respectivo prazo de vigência, e no mínimo de 12 meses contados da cessão, do instrumento de regulamentação colectiva que vincula a entidade empregadora cedente, salvo se tiver sido substituído por outro;\n\nd) Possibilidade de denúncia, a todo o tempo, de convenções colectivas quando as partes outorgantes pretenderem substituir a convenção colectiva aplicável, em caso de cessão total ou parcial de empresas, ou quando acordarem no princípio da negociação simultânea da redução da duração e da adaptação da organização do tempo de trabalho;\n\ne) Admissibilidade do depósito de convenção colectiva ou de decisão arbitral antes de decorrido o prazo mínimo legal obrigatório, nos casos referidos na alínea anterior;\n\nf) Simplificação do processo de emissão de portarias de extensão, prevendo-se que sejam emitidas pelo Ministro do Emprego e da Segurança Social e, nos casos em que a oposição dos interessados se fundamente em motivos de ordem económica, por portaria conjunta do mesmo Ministro e do ministro responsável pelo sector de actividade;\n\ng) Previsão de que as conciliações efectuadas pelos serviços competentes do Ministério do Emprego e da Segurança Social se possam traduzir na formulação de propostas que visem a solução dos diferendos;\n\nh) Adequação do regime da decisão arbitral ao disposto no artigo 23.º da Lei n.º 31/86, de 29 de Agosto;\n\ni) Instituição de um sistema de arbitragem obrigatória quando, tendo-se frustrado a conciliação ou a mediação, as partes não acordem, no prazo de dois meses a contar do termo daqueles processos, em submeter o conflito a arbitragem voluntária;\n\nj) Possibilidade de a arbitragem obrigatória ser determinada por despacho do Ministro do Emprego e da Segurança Social mediante requerimento de qualquer das partes ou recomendação do Conselho Económico e Social, dispondo-se ainda que nos casos de empresas públicas ou de capitais exclusivamente públicos a arbitragem obrigatória só possa ser determinada mediante recomendação do Conselho Económico e Social;\n\nl) Estabelecimento das regras processuais relativas à nomeação dos árbitros, prevendo-se que a falta de designação pelas partes ou a falta de acordo quanto à nomeação do terceiro árbitro sejam supridas, em sede do Conselho Económico e Social, por via de sorteio de entre árbitros constantes de uma lista acordada pelas partes;\n\nm) Revogação dos preceitos do regime jurídico vigente relativos à possibilidade de determinação da autonomização do processo de negociação quanto às empresas públicas e de capitais exclusivamente públicos, bem como dos que se referem à exigência de autorização ou aprovação tutelar como requisito do depósito de convenções colectivas celebradas por essas empresas;\n\nn) Revogação do Decreto-Lei n.º 380/78, de 5 de Dezembro, do Decreto-Lei n.º 505/74, de 1 de Outubro, da Resolução do Conselho de Ministros n.º 163/80, de 9 de Maio, e dos n.os 3, 7 e 8 do artigo 36.º do Decreto-Lei n.º 519-C1/79, de 29 de Dezembro."
+  },
+  "952062673": {
+   "fragment_id": "953229733",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente autorização legislativa tem a duração de 90 dias."
+  },
+  "953230177": {
+   "fragment_id": "953229732",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1992-08-27",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação n.º 8/92 - Diário da República n.º 197/1992, Série I-A de 1992-08-27](https://diariodarepublica.pt/dr/detalhe/rectificacao/8-1992-261131), em vigor a partir de 1992-08-27"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA legislação a estabelecer terá o seguinte sentido e extensão:\n\na) Admissibilidade de as convenções colectivas poderem regular os processos de resolução dos litígios emergentes de contratos individuais de trabalho, designadamente através da criação de mecanismos de conciliação, mediação e arbitragem;\n\nb) Previsão de as convenções colectivas poderem estabelecer e regular benefícios complementares de segurança social ou equivalentes, de acordo com os princípios e respeitando os limites da legislação vigente nesta matéria, bem como nos casos em que a responsabilidade pela atribuição de tais benefícios tenha sido transferida para instituições seguradoras;\n\nc) Adstrição, em caso de cessão, total ou parcial, de uma empresa ou estabelecimento, da entidade cessionária à observância até ao termo do respectivo prazo de vigência, e no mínimo de 12 meses contados da cessão, do instrumento de regulamentação colectiva que vincula a entidade empregadora cedente, salvo se tiver sido substituído por outro;\n\nd) Possibilidade de denúncia, a todo o tempo, de convenções colectivas quando as partes outorgantes pretenderem substituir a convenção colectiva aplicável, em caso de cessão total ou parcial de empresas, ou quando acordarem no princípio da negociação simultânea da redução da duração e da adaptação da organização do tempo de trabalho;\n\ne) Admissibilidade do depósito de convenção colectiva ou de decisão arbitral antes de decorrido o prazo mínimo legal obrigatório, nos casos referidos na alínea anterior;\n\nf) Simplificação do processo de emissão de portarias de extensão, prevendo-se que sejam emitidas pelo Ministro do Emprego e da Segurança Social e, nos casos em que a oposição dos interessados se fundamente em motivos de ordem económica, por portaria conjunta do mesmo Ministro e do ministro responsável pelo sector de actividade;\n\ng) Previsão de que as conciliações efectuadas pelos serviços competentes do Ministério do Emprego e da Segurança Social se possam traduzir na formulação de propostas que visem a solução dos diferendos;\n\nh) Adequação do regime da decisão arbitral ao disposto no artigo 23.º da Lei n.º 31/86, de 29 de Agosto;\n\ni) Instituição de um sistema de arbitragem obrigatória quando, tendo-se frustrado a conciliação ou a mediação, as partes não acordem, no prazo de dois meses a contar do termo daqueles processos, em submeter o conflito a arbitragem voluntária;\n\nj) Possibilidade de a arbitragem obrigatória ser determinada por despacho do Ministro do Emprego e da Segurança Social mediante requerimento de qualquer das partes ou recomendação da Secção de Concertação do Conselho Económico e Social, dispondo-se ainda que nos casos de empresas públicas ou de capitais exclusivamente públicos a arbitragem obrigatória só possa ser determinada mediante recomendação da Secção de Concertação do Conselho Económico e Social;\n\nl) Estabelecimento das regras processuais relativas à nomeação dos árbitros, prevendo-se que a falta de designação pelas partes ou a falta de acordo quanto à nomeação do terceiro árbitro sejam supridas, em sede do Conselho Económico e Social, por via de sorteio de entre árbitros constantes de uma lista acordada pelas partes;\n\nm) Revogação dos preceitos do regime jurídico vigente relativos à possibilidade de determinação da autonomização do processo de negociação quanto às empresas públicas e de capitais exclusivamente públicos, bem como dos que se referem à exigência de autorização ou aprovação tutelar como requisito do depósito de convenções colectivas celebradas por essas empresas;\n\nn) Revogação do Decreto-Lei n.º 380/78, de 5 de Dezembro, do Decreto-Lei n.º 505/74, de 1 de Outubro, da Resolução do Conselho de Ministros n.º 163/80, de 9 de Maio, e dos n.os 3, 7 e 8 do artigo 36.º do Decreto-Lei n.º 519-C1/79, de 29 de Dezembro.\n\n> Retificado pelo/a [Rectificação n.º 8/92 - Diário da República n.º 197/1992, Série I-A de 1992-08-27](https://diariodarepublica.pt/dr/detalhe/rectificacao/8-1992-261131), em vigor a partir de 1992-08-27"
+  },
+  "952062674": {
+   "fragment_id": "953229734",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 7 de Maio de 1992.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 17 de Junho de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 23 de Junho de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

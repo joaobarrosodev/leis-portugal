@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:462003:por
+title: Decreto Regulamentar Regional n.º 12/95/A
+short_title: null
+summary: Altera o Decreto Regulamentar Regional n.º 41/91/A, de 18 de Dezembro [desanexa o Centro de Estudo, Conservação e
+  Restauro dos Açores (CECRA) do Museu de Angra do Heroísmo]
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Educação e Cultura - Direcção Regional dos Assuntos
+  Culturais
+proposing_entity: null
+official_number: 12/95/A
+official_date: null
+publication_date: '1995-07-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 164/1995, Série I-B de 1995-07-18
+  number: '164'
+  series: I
+  supplement: null
+  pages: 4604 - 4604
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/07/164b00/46044604.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/12/1995/07/18/a/dre/pt/html
+  oj: null
+  dre: '462003'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/12-1995-462003
+  internal: pt:dre:462003:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1995-462003
+  metadata_url: https://data.dre.pt/eli/decregulreg/12/1995/07/18/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/12-1995-462003
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-11-10T00:00:00Z'
+integrity:
+  source_sha256: 6736dd986eb79c7bcb8830ba9c1729b1fd71d1139fcf27aed96860722a28ee56
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1995/DRE-1995-12-462003.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Integração de Trabalhadores
+- Pessoal Técnico
+- Pessoal Técnico Profissional
+- Conservação e Restauro
+- Quadro de Pessoal
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:584457:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/41/1991/12/18/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/41/1991/12/18/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/43/1992/11/19/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/43/1992/11/19/a/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 12/95/A
+
+Considerando que o trabalho especializado, na área da conservação e restauro de obras de arte, do Centro de Estudo, Conservação e Restauro dos Açores justifica a criação de categorias específicas, de modo a prosseguir os seus fins;
+
+Considerando que, aquando da aprovação da orgânica e quadro de pessoal daquele serviço pelo [Decreto Regulamentar Regional n.º 41/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1991-371378), de 18 de Dezembro, e nas alterações introduzidas pelo [Decreto Regulamentar Regional n.º 43/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-1992-584787), de 19 de Novembro, não foram contempladas todas as situações existentes:
+
+Assim, em execução do artigo 17.º do [Decreto Regulamentar Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-1982-397905), de 28 de Outubro, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º O artigo 19.º do [Decreto Regulamentar Regional n.º 41/91/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/41-1991-371378), de 18 de Dezembro, com a alteração introduzida pelo [Decreto Regulamentar Regional n.º 43/92/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/43-1992-584787), de 19 de Novembro, passa a ter seguinte redacção:
+
+###### Artigo 19.º — Transição de pessoal
+
+O técnico de fotografia e radiografia para conservação e restauro de 1.ª classe que desempenhe há mais de 10 anos, não só funções inerentes às técnicas de fotografia e radiografia, como também as de auxiliar de diagnóstico de patologias em obras de arte, transita para a categoria de técnico de diagnóstico para obras de arte, escalão 1, índice 340.
+
+###### Art. 2.º O quadro de pessoal do Centro de Estudo, Conservação e Restauro dos Açores é alterado de acordo com o mapa anexo ao presente diploma, que dele faz parte integrante.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 10 de Maio de 1995.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 12 de Junho de 1995.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+
+## ANEXO — Mapa a que se refere o artigo 2.º
+
+Centro de Estudo, Conservação e Restauro dos Açores
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/07/164b00/46044604.pdf))](https://files.diariodarepublica.pt/1s/1995/07/164b00/46044604.pdf)

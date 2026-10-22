@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:540427:por
+title: Portaria n.º 5/83
+short_title: null
+summary: Altera o quadro de pessoal do Instituto da Família e Acção Social
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Assuntos Sociais - Secretaria de Estado da Segurança Social
+proposing_entity: null
+official_number: 5/83
+official_date: null
+publication_date: '1983-01-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 1/1983, Série I de 1983-01-03
+  number: '1'
+  series: I
+  supplement: null
+  pages: 3 - 3
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/01/00100/00030003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '540427'
+  dre_path: /dr/detalhe/portaria/5-1983-540427
+  internal: pt:dre:540427:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/5-1983-540427
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/5-1983-540427
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-01-03T00:00:00Z'
+integrity:
+  source_sha256: 72ddbb3c34338f797edf2aa94a53c03a208e8e23a8cdfc83ad86d3b8315f38d4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-5-540427.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 5/83
+
+de 3 de Janeiro
+
+A fim de dar execução ao despacho de 12 de Março de 1982 do Ministro dos Assuntos Sociais, recaído no parecer n.º 22/81, de 11 de Fevereiro de 1982, dos Serviços de Contencioso do Ministério dos Assuntos Sociais, e no uso dos poderes conferidos pelo n.º 2 do artigo 25.º do [Decreto-Lei n.º 519-Q2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-q2-1979-156832), de 29 de Dezembro, na redacção que lhe foi dada pelo artigo 2.º da [Lei n.º 37/80](https://diariodarepublica.pt/dr/detalhe/lei/37-1980-470378), de 31 de Julho:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social, que seja alterado, nos termos seguintes, o quadro de pessoal do Instituto da Família e Acção Social, aprovado pela [Portaria n.º 529/80](https://diariodarepublica.pt/dr/detalhe/portaria/529-1980-471118), de 19 de Agosto, com as alterações que lhe foram introduzidas pelas Portarias n.os [45/81](https://diariodarepublica.pt/dr/detalhe/portaria/45-1981-390379), de 11 de Janeiro, [744/81](https://diariodarepublica.pt/dr/detalhe/portaria/744-1981-577909), de 29 de Agosto, [57/82](https://diariodarepublica.pt/dr/detalhe/portaria/57-1982-601149), de 13 de Janeiro, e [88/82](https://diariodarepublica.pt/dr/detalhe/portaria/88-1982-601489), de 20 de Janeiro:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/01/00100/00030003.pdf))](https://files.diariodarepublica.pt/1s/1983/01/00100/00030003.pdf)
+
+Secretaria de Estado da Segurança Social, 7 de Dezembro de 1982. - O Secretário de Estado da Segurança Social, António José de Castro Bagão Félix.

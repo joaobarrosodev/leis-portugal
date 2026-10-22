@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:884941451:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/louvor/2024-1173530875",
+ "dre_path": "/dr/detalhe/louvor/1356-2024-884941451",
+ "source_lastmod": "2026-09-25",
+ "versions": [
+  {
+   "date": "2024-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1173535175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1173535175": {
+   "fragment_id": "1173530975",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ao findar o mandato de Presidente da Assembleia da República, impõe-se exprimir público louvor ao chefe Orlando Pedro Coelho dos Santos, do Corpo de Segurança Pessoal da Polícia de Segurança Pública, pela forma elevada e dedicada, a competência e a abnegação comprovadas no exercício de funções na minha equipa de segurança pessoal ao longo da legislatura.\n\nDiscreto, leal, aprumado, disciplinado, de afabilidade de trato e elevado sentido de responsabilidade, o chefe Orlando dos Santos demonstrou possuir uma sólida formação, elevado sentido de disciplina, obediência e lealdade, pautando a sua conduta pela permanente disponibilidade para o serviço. Sempre voluntarioso e com o intuito de bem servir a entidade, foi muito para além do mero cumprimento da missão que lhe foi confiada.\n\nPor estas razões, considero que o chefe Orlando dos Santos honrou de forma exemplar a corporação a que pertence, merecendo, pelos relevantes e distintos serviços prestados em prol da segurança do Presidente da Assembleia da República, o reconhecimento através de público louvor."
+  }
+ }
+}

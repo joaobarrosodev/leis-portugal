@@ -1,0 +1,391 @@
+---
+schema_version: '1.0'
+id: pt:dre:303386:por
+title: Portaria n.º 386/2002
+short_title: null
+summary: Aprova o Regulamento do Concurso de Recrutamento para o Preenchimento de Vagas nos Tribunais Administrativos e Fiscais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 386/2002
+official_date: null
+publication_date: '2002-04-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/2002, Série I-B de 2002-04-11
+  number: '85'
+  series: I
+  supplement: null
+  pages: 3546 - 3550
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/04/085b00/35463550.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/386/2002/04/11/p/dre/pt/html
+  oj: null
+  dre: '303386'
+  dre_path: /dr/detalhe/portaria/386-2002-303386
+  internal: pt:dre:303386:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/386-2002-303386
+  metadata_url: https://data.dre.pt/eli/port/386/2002/04/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/386-2002-303386
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-04-11T00:00:00Z'
+integrity:
+  source_sha256: 22b9e61cd22e5dde4f2810c084d297a3c0015939c797d05b73fb420a9fa1c217
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-386-303386.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Auditor de Justiça
+- Centro de Estudos Judiciários
+- Formação Profissional
+- Concurso
+- Conselho Superior dos Tribunais Administrativos e Fiscais
+- Plano de Estudos
+- Curso de Direito
+- Curso de Formação
+- Juiz
+- JURI
+- Licenciatura
+- Magistrado do Ministério Público
+- Magistrado Judicial
+- Estágio de Formação
+- Regulamento de Concursos
+- Tribunal Administrativo
+- Tribunal Administrativo e Fiscal
+- Tribunal Tributário
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/2002/02/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/2002/02/19/p/dre
+article_structure:
+  article_count: 23
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 386/2002
+
+de 11 de Abril
+
+O novo Estatuto dos Tribunais Administrativos e Fiscais e o Código de Processo nos Tribunais Administrativos, que procedem à reforma do contencioso administrativo, introduzem uma verdadeira revolução nesta área do ordenamento jurídico português, atribuindo novas e importantes competências aos tribunais administrativos e implicando a extensão da sua rede, por forma a aproximar a justiça dos cidadãos e desconcentrar competências hoje excessivamente concentradas.
+
+A reforma do contencioso administrativo exige, pois, modificações infra-estruturais no sistema da justiça administrativa portuguesa e, nomeadamente, um recrutamento e selecção de magistrados judiciais e a sua formação especializada, à luz dos novos parâmetros legais.
+
+Trata-se de uma necessidade urgente, exaustivamente e pormenorizadamente estudada e calculada, resultante das novas competências atribuídas aos tribunais administrativos, do crescimento do número destes tribunais, da necessidade de resolução do problema das actuais pendências acumuladas e da imprescindibilidade de dotar o sistema de um número de magistrados suficiente, que o proteja de situações de momentâneos crescimentos do número de processos entrados, com a inerente delonga na resolução dos mesmos.
+
+A [Lei n.º 13/2002](https://diariodarepublica.pt/dr/detalhe/lei/13-2002-278029), de 19 de Fevereiro, que aprova o Estatuto dos Tribunais Administrativos e Fiscais, estabelece o regime de recrutamento e formação dos novos magistrados, tarefa que surge, assim, como uma medida prioritária a promover pelo Ministério da Justiça, constituindo um elemento determinante para a concretização eficaz da reforma.
+
+Urge, portanto, aprovar o regulamento do concurso de recrutamento para o preenchimento de vagas nos tribunais administrativos e fiscais, que se realizará durante o período de vacatio legis anterior à entrada em vigor do novo regime do contencioso administrativo, por forma que as potencialidades do novo regime jurídico possam ser eficazmente exploradas, com um quadro de magistrados judiciais adequado.
+
+Assim:
+
+Manda o Governo, nos termos do n.º 8 do artigo 7.º da [Lei n.º 13/2002](https://diariodarepublica.pt/dr/detalhe/lei/13-2002-278029), de 19 de Fevereiro, pelo Ministro da Justiça, que seja aprovado o Regulamento do Concurso de Recrutamento para o Preenchimento de Vagas nos Tribunais Administrativos e Fiscais.
+
+Pelo Ministro da Justiça, Eduardo Arménio do Nascimento Cabrita, Secretário de Estado Adjunto do Ministro da Justiça, em 5 de Março de 2002.
+
+REGULAMENTO DO CONCURSO DE RECRUTAMENTO PARA O PREENCHIMENTO DE VAGAS NOS TRIBUNAIS ADMINISTRATIVOS E FISCAIS.
+
+#### SECÇÃO I — Disposições gerais
+
+###### Artigo 1.º — Abertura do concurso, requisitos de admissão e fases procedimentais
+
+1 - O Ministro da Justiça, por aviso publicado no Diário da República, declara aberto concurso para ingresso em curso de formação e estágio organizado no âmbito do Centro de Estudos Judiciários (CEJ), com vista ao preenchimento de vagas de juízes nos tribunais administrativos de círculo e nos tribunais tributários, com indicação do número de candidatos a admitir no curso.
+
+2 - Podem apresentar-se a concurso:
+
+a) Magistrados judiciais e do Ministério Público com pelo menos cinco anos de serviço e classificação não inferior a Bom;
+
+b) Juristas com pelo menos cinco anos de comprovada experiência profissional na área do direito público, nomeadamente através do exercício de funções públicas, da advocacia, da docência no ensino superior ou na investigação ou ao serviço da Administração Pública.
+
+3 - Para efeitos de cálculo dos cinco anos a que se refere o número anterior, são considerados os períodos de estágio realizados.
+
+4 - O concurso é constituído por três fases:
+
+a) Graduação dos candidatos;
+
+b) Curso de formação e graduação final;
+
+c) Estágio.
+
+###### Artigo 2.º — Composição do júri e personalidades agregadas
+
+1 - O concurso decorre perante um júri constituído por cinco membros, designados pelo Conselho Superior dos Tribunais Administrativos e Fiscais (CSTAF), de entre:
+
+a) Personalidades de reconhecido mérito no domínio do direito administrativo e fiscal;
+
+b) Magistrados;
+
+c) Docentes que se encontrem indigitados para ministrar o curso de formação.
+
+2 - O júri agrega outras personalidades com qualificação no domínio do direito administrativo e fiscal para o coadjuvarem na aplicação dos métodos de selecção.
+
+3 - A avaliação de cada prova escrita é realizada por uma das personalidades referidas no número anterior.
+
+4 - Para efeito de revisão das provas escritas e da realização das entrevistas, o júri intervém, com a coadjuvação prevista no n.º 2, em formações de três membros, não podendo integrar a formação de revisão de prova a pessoa que classificou a prova em causa.
+
+###### Artigo 3.º — Apresentação de candidaturas
+
+1 - Com a abertura do concurso, nos termos do n.º 1 do artigo 1.º, é publicada a lista de matérias sobre que versa a prova escrita.
+
+2 - Os interessados devem requerer a admissão a concurso no prazo de 10 dias, contado da publicação do aviso a que se refere o número anterior.
+
+3 - Os requerimentos, dirigidos ao presidente do CSTAF e apresentados na sede ou nas delegações do CEJ, são instruídos com os documentos comprovativos dos requisitos referidos no n.º 2 do artigo 1.º, bem como com uma relação dos elementos pertinentes para a ponderação dos factores a considerar na avaliação curricular, que o júri poderá exigir que sejam apresentados, quando o considere necessário.
+
+###### Artigo 4.º — Admissão a concurso
+
+1 - Terminado o prazo para a apresentação das candidaturas e uma vez verificados os requisitos, o júri aprova, no prazo máximo de oito dias, a lista dos candidatos admitidos e excluídos.
+
+2 - A lista é publicitada em edital afixado na sede e delegações do CEJ, bem como na sua página web.
+
+3 - Do acto de exclusão cabe recurso para o CSTAF, a interpor no prazo de três dias, contado desde a data da publicitação do acto.
+
+4 - Decididos os recursos, ou não os havendo, são publicitados nos locais referidos no n.º 2 a lista definitiva, o local, a data e a hora da prova escrita.
+
+#### SECÇÃO II — Graduação dos candidatos
+
+###### Artigo 5.º — Métodos de selecção
+
+Os candidatos admitidos são graduados de acordo com os seguintes métodos de selecção:
+
+a) Prova escrita com carácter eliminatório;
+
+b) Avaliação curricular;
+
+c) Entrevista.
+
+###### Artigo 6.º — Prova escrita
+
+1 - A prova escrita compreende uma composição sobre temas de cultura jurídica geral e a resposta a questões de direito administrativo e fiscal e de organização judiciária.
+
+2 - A prova escrita tem a duração de quatro horas, separadas por um intervalo de meia hora, sendo realizada sob anonimato.
+
+###### Artigo 7.º — Classificação da prova escrita e publicidade dos resultados
+
+1 - A prova escrita é classificada segundo um processo valorimétrico, numa escala de 0 a 20 valores.
+
+2 - Os critérios de classificação da prova escrita são os seguintes:
+
+a) Conteúdo e qualidade da informação do candidato sobre os temas propostos;
+
+b) Organização da exposição;
+
+c) Raciocínio jurídico;
+
+d) Capacidade de argumentação e de síntese;
+
+e) Domínio da língua portuguesa.
+
+3 - A quantificação valorimétrica do coeficiente que deve corresponder a cada um dos factores de ponderação a considerar na prova escrita é definida pelo júri em reunião a realizar imediatamente após a abertura do concurso.
+
+4 - A inclusão dos candidatos na lista de graduação depende da obtenção na prova escrita de classificação não inferior a 10 valores.
+
+5 - É aplicável à lista de classificação o disposto no n.º 2 do artigo 4.º
+
+###### Artigo 8.º — Reclamações
+
+1 - Os candidatos podem reclamar da classificação atribuída, pedindo revisão de prova, em requerimento fundamentado.
+
+2 - Para o efeito do disposto no número anterior, os candidatos têm quarenta e oito horas para requerer à secretaria do CEJ a entrega, no prazo de vinte e quatro horas, de cópia da prova objecto de reclamação.
+
+3 - A reclamação, dirigida ao júri, deve ser apresentada no prazo de três dias, contado desde a entrega ao candidato da cópia da prova, nos termos do número anterior.
+
+4 - A pendência das reclamações da classificação da prova escrita não suspende a aplicação dos demais métodos de selecção aos candidatos aprovados.
+
+###### Artigo 9.º — Avaliação curricular
+
+1 - A avaliação curricular é fundada na ponderação global dos seguintes factores:
+
+a) Anteriores classificações de serviço, no caso de o candidato ser um magistrado;
+
+b) Graduação obtida em concurso;
+
+c) Currículo universitário e pós-universitário;
+
+d) Trabalhos científicos ou profissionais;
+
+e) Actividade desenvolvida no foro, no ensino jurídico ou na Administração Pública;
+
+f) Antiguidade;
+
+g) Outros factores relevantes que respeitem à preparação específica, idoneidade e capacidade do candidato para o cargo.
+
+2 - A quantificação valorimétrica do coeficiente que deve corresponder a cada um dos factores de ponderação a considerar na avaliação curricular é definida pelo júri em reunião a realizar imediatamente após a abertura do concurso.
+
+###### Artigo 10.º — Entrevista
+
+1 - A entrevista destina-se a avaliar as aptidões profissionais e pessoais dos candidatos, designadamente no que respeita à sua motivação, capacidade de expressão e comunicação, e a adequação da experiência profissional às funções a exercer.
+
+2 - Cada entrevista tem a duração máxima de trinta minutos.
+
+3 - Por cada entrevista é realizada uma ficha individual da qual consta um resumo dos factores de apreciação considerados e a classificação atribuída.
+
+4 - A quantificação valorimétrica do coeficiente que deve corresponder a cada um dos factores de ponderação a considerar na entrevista é definida pelo júri em reunião a realizar imediatamente após a abertura do concurso.
+
+###### Artigo 11.º — Classificação e graduação dos candidatos
+
+1 - Após a realização das entrevistas, o júri procede à classificação dos candidatos e elabora a lista de graduação, submetendo a respectiva acta à homologação do CSTAF.
+
+2 - Os candidatos são colocados na lista por ordem decrescente, segundo um processo valorimétrico, numa escala de 0 a 20 valores.
+
+3 - Para o efeito do disposto no número anterior, à classificação obtida na prova escrita corresponde o coeficiente de ponderação de 50% e à avaliação curricular e à entrevista os coeficientes de 26% e 24%, respectivamente, sem prejuízo do disposto no n.º 4 do artigo 7.º
+
+4 - Para o efeito da graduação de candidatos que obtenham igual classificação, tem preferência aquele que tenha obtido classificação superior na prova escrita, na avaliação curricular ou na entrevista, ou, no caso de nenhum destes critérios, sucessivamente aplicados, se revelar suficiente, aquele que possua mais elevada nota de licenciatura.
+
+###### Artigo 12.º — Publicidade e reclamações
+
+1 - Uma vez homologada a acta a que se refere o n.º 1 do artigo anterior, a lista de classificação e graduação é afixada na sede do CEJ e nas suas delegações, bem como publicitada na respectiva página web e notificada aos candidatos.
+
+2 - Da lista de classificação e graduação cabe reclamação dirigida ao CSTAF a apresentar no prazo de três dias contados a partir da data da notificação.
+
+#### SECÇÃO III — Curso de formação e graduação final
+
+###### Artigo 13.º — Curso de formação
+
+1 - Os candidatos graduados em posição correspondente ao número de vagas estabelecido frequentam um curso de formação de que depende a respectiva graduação final.
+
+2 - O curso de formação tem duração não inferior a três meses, iniciando-se em data a anunciar pelo CEJ.
+
+###### Artigo 14.º — Objecto do curso de formação
+
+1 - O curso de formação é organizado pelo CEJ, em colaboração com a Faculdade de Direito da Universidade Nova de Lisboa, que assegura a respectiva coordenação científica.
+
+2 - O curso de formação é ministrado na sede do CEJ e funciona por módulos, que têm por objecto os seguintes conjuntos de matérias:
+
+I:
+
+a) Deontologia;
+
+b) Metodologia judiciária;
+
+c) Psicologia judiciária;
+
+d) Sociologia judiciária;
+
+e) Organização e métodos de gestão do processo;
+
+f) Organização judiciária;
+
+II:
+
+a) Organização administrativa;
+
+b) Procedimento administrativo;
+
+c) Actos administrativos;
+
+d) Contratação pública;
+
+e) Responsabilidade civil extracontratual das entidades públicas;
+
+f) Direito do urbanismo e do ambiente;
+
+g) Regime da função pública;
+
+h) Princípios constitucionais de direito fiscal;
+
+i) Linhas gerais da teoria da relação jurídica tributária;
+
+j) Aspectos fundamentais do regime jurídico do IRS, do IRC e do IVA;
+
+l) Direito aduaneiro e contencioso aduaneiro;
+
+m) Contencioso administrativo e fiscal: o regime do novo Estatuto dos Tribunais Administrativos e Fiscais;
+
+n) Contencioso administrativo: o regime do novo Código de Processo nos Tribunais Administrativos;
+
+o) Contencioso tributário: o regime processual do Código de Procedimento e Processo Tributário;
+
+p) Direito processual civil: processo declarativo comum e processos executivos;
+
+q) Direito civil: contratos e responsabilidade civil.
+
+###### Artigo 15.º — Graduação final dos candidatos
+
+1 - No termo do curso de formação, procede-se à graduação final dos candidatos, mediante a atribuição a cada um deles de uma classificação final, numa escala valorimétrica de 0 a 20, baseada nos resultados dos exercícios formativos e de avaliação realizados nos diferentes módulos, atendendo-se, em caso de igualdade, sucessivamente, à graduação obtida na 1.ª fase do concurso e à nota de licenciatura.
+
+2 - A graduação dos candidatos considerados aptos é elaborada pelo júri, que submete a respectiva acta à homologação do CSTAF.
+
+3 - São excluídos da lista de graduação os candidatos que tenham perdido a frequência do curso de formação, por terem dado o mínimo de cinco faltas injustificadas, seguidas ou interpoladas, ou que, mediante decisão devidamente fundamentada, tenham sido considerados não aptos.
+
+###### Artigo 16.º — Publicidade e reclamações
+
+1 - O CSTAF faz publicar a lista de graduação final, que manda afixar em pauta no CEJ e nas suas delegações, no Supremo Tribunal Administrativo, no Tribunal Central Administrativo, nos tribunais administrativos de círculo e tribunais tributários e nas respectivas páginas web.
+
+2 - Da graduação cabe reclamação para o CSTAF, a apresentar no prazo de cinco dias.
+
+###### Artigo 17.º — Declaração de opção
+
+1 - No prazo de três dias, contado da afixação referida no n.º 1 do artigo anterior, os candidatos graduados devem apresentar declaração de opção quanto ao tribunal em que preferem fazer estágio e, no caso de não ser o mesmo, quanto ao tribunal para o qual pretendem vir a ser nomeados no termo do estágio.
+
+2 - Para efeitos do disposto no número anterior, têm preferência, caso haja desproporção entre as vagas disponíveis e as respectivas opções, os candidatos com melhor graduação.
+
+#### SECÇÃO IV — Estágio
+
+###### Artigo 18.º — Estágio
+
+1 - Os auditores de justiça graduados nos termos do disposto na secção anterior são nomeados juízes de direito em regime de estágio pelo CSTAF, conservando o estatuto de auditores de justiça enquanto não forem nomeados.
+
+2 - Os candidatos graduados que já possuam o estatuto de magistrado são colocados em regime de interinidade durante o período de duração do estágio, após o que são colocados, em situação de paridade com os demais participantes no concurso, segundo o critério de preferência estabelecido no n.º 2 do artigo anterior.
+
+#### SECÇÃO V — Disposições finais
+
+###### Artigo 19.º — Audiência dos interessados
+
+1 - Há lugar a audiência dos interessados nas fases da admissão ao concurso, de classificação e graduação dos candidatos e da graduação final, no termo do curso de formação.
+
+2 - Não há lugar a audiência caso o número de interessados seja elevado, em termos de inviabilizar a sua realização.
+
+###### Artigo 20.º — Efeito devolutivo das reclamações
+
+As reclamações das decisões proferidas no âmbito deste concurso têm efeito meramente devolutivo.
+
+###### Artigo 21.º — Estatuto dos candidatos durante o curso e estágio
+
+Os candidatos admitidos ao curso de formação têm, durante a frequência do mesmo, bem como durante o período de estágio, igual estatuto remuneratório e iguais direitos, deveres e incompatibilidades que os restantes auditores de justiça do CEJ e, no caso de serem funcionários ou agentes do Estado, de institutos públicos ou de empresas públicas, podem frequentar o curso em regime de requisição ou comissão extraordinária de serviço, nos termos da lei geral, e optar por auferir a remuneração base relativa à categoria de origem, retomando os respectivos cargos ou funções sem perda de antiguidade em caso de exclusão ou de desistência justificada.
+
+###### Artigo 22.º — Prazo de validade
+
+O presente concurso tem o prazo de validade de dois anos a contar da data de publicitação da lista de graduação prevista no n.º 1 do artigo 11.º
+
+###### Artigo 23.º — Direito aplicável
+
+Na medida em que tal não contrarie o disposto no artigo 7.º da [Lei n.º 13/2002](https://diariodarepublica.pt/dr/detalhe/lei/13-2002-278029), de 19 de Fevereiro, os aspectos omissos no presente diploma são supridos mediante a aplicação, com as devidas adaptações, do disposto na Lei Orgânica do Centro de Estudos Judiciários e no respectivo regulamento, bem como no Estatuto dos Magistrados Judiciais.

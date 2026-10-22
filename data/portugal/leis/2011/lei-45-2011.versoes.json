@@ -1,0 +1,1115 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:670367:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2011-70915698",
+ "dre_path": "/dr/detalhe/lei/45-2011-670367",
+ "source_lastmod": "2026-07-28",
+ "versions": [
+  {
+   "date": "2011-06-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70915613",
+    "70915614",
+    "70915615",
+    "70915616",
+    "70915617",
+    "70915618",
+    "70915619",
+    "70915620",
+    "70915621",
+    "70915622",
+    "70915623",
+    "70915624",
+    "70915625",
+    "70915626",
+    "70915627",
+    "70915628",
+    "70915629",
+    "70915630",
+    "70915631",
+    "70915632",
+    "70915633",
+    "70915634",
+    "70915635",
+    "70915636",
+    "70915637",
+    "70915638",
+    "70915639",
+    "70915640",
+    "70915641"
+   ]
+  },
+  {
+   "date": "2013-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499058:por",
+     "title": "Lei n.º 60/2013",
+     "published": "2013-08-23",
+     "dre_path": "/dr/detalhe/lei/60-2013-499058"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "70915613",
+    "70915614",
+    "70915615",
+    "70915616",
+    "70915617",
+    "70915618",
+    "70915619",
+    "70915620",
+    "70915621",
+    "70915622",
+    "70915623",
+    "70915624",
+    "70915625",
+    "70915626",
+    "70915627",
+    "70915628",
+    "70915629",
+    "70915630",
+    "70915631",
+    "70915632",
+    "70916160",
+    "70915634",
+    "70915635",
+    "70915636",
+    "70915637",
+    "70915638",
+    "70915639",
+    "70915640",
+    "70915641",
+    "70915642"
+   ]
+  },
+  {
+   "date": "2017-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107094725:por",
+     "title": "Lei n.º 30/2017",
+     "published": "2017-05-30",
+     "dre_path": "/dr/detalhe/lei/30-2017-107094725"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 11.º-A",
+    "Adita Artigo 11.º-B",
+    "Adita Artigo 11.º-C",
+    "Adita Capítulo IV",
+    "Adita Artigo 18.º-A",
+    "Adita Artigo 20.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Capítulo IV",
+    "Altera Capítulo V",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "70915613",
+    "70915614",
+    "70915615",
+    "70915616",
+    "70915617",
+    "107797565",
+    "107797566",
+    "107797567",
+    "70915621",
+    "107797568",
+    "107797569",
+    "107797570",
+    "70915625",
+    "107797571",
+    "70915627",
+    "107794678",
+    "107794686",
+    "107794694",
+    "107794695",
+    "107794696",
+    "107794697",
+    "107794698",
+    "107794699",
+    "107794700",
+    "107794701",
+    "107794706",
+    "107794711",
+    "107794707",
+    "70915636",
+    "70915637",
+    "107794708",
+    "107794713",
+    "107794714",
+    "107794715",
+    "107794716",
+    "107794709"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "70915613",
+    "70915614",
+    "70915615",
+    "70915616",
+    "70915617",
+    "107797565",
+    "107797566",
+    "107797567",
+    "70915621",
+    "107797568",
+    "107797569",
+    "107797570",
+    "70915625",
+    "107797571",
+    "114431450",
+    "107794678",
+    "107794686",
+    "107794694",
+    "107794695",
+    "107794696",
+    "107794697",
+    "107794698",
+    "107794699",
+    "107794700",
+    "107794701",
+    "107794706",
+    "107794711",
+    "107794707",
+    "70915636",
+    "70915637",
+    "107794708",
+    "107794713",
+    "107794714",
+    "107794715",
+    "107794716",
+    "107794709"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537583:por",
+     "title": "Lei n.º 71/2018",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/lei/71-2018-117537583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 20.º-A"
+   ],
+   "fragments": [
+    "70915613",
+    "70915614",
+    "70915615",
+    "70915616",
+    "70915617",
+    "107797565",
+    "107797566",
+    "107797567",
+    "70915621",
+    "107797568",
+    "107797569",
+    "107797570",
+    "70915625",
+    "107797571",
+    "114431450",
+    "107794678",
+    "107794686",
+    "107794694",
+    "107794695",
+    "107794696",
+    "117639987",
+    "117639988",
+    "117658307",
+    "117639990",
+    "107794701",
+    "107794706",
+    "107794711",
+    "107794707",
+    "70915636",
+    "70915637",
+    "107794708",
+    "117639991",
+    "107794714",
+    "107794715",
+    "107794716",
+    "107794709"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "70915613",
+    "70915614",
+    "70915615",
+    "70915616",
+    "70915617",
+    "107797565",
+    "107797566",
+    "107797567",
+    "70915621",
+    "107797568",
+    "107797569",
+    "107797570",
+    "70915625",
+    "107797571",
+    "114431450",
+    "107794678",
+    "107794686",
+    "107794694",
+    "107794695",
+    "107794696",
+    "117639987",
+    "131290568",
+    "117658307",
+    "117639990",
+    "107794701",
+    "107794706",
+    "107794711",
+    "107794707",
+    "70915636",
+    "70915637",
+    "107794708",
+    "117639991",
+    "107794714",
+    "107794715",
+    "107794716",
+    "107794709"
+   ]
+  },
+  {
+   "date": "2026-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1152696582:por",
+     "title": "Lei n.º 37/2026",
+     "published": "2026-07-28",
+     "dre_path": "/dr/detalhe/lei/37-2026-1152696582"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera 18.º-A"
+   ],
+   "fragments": [
+    "70915613",
+    "70915614",
+    "70915615",
+    "70915616",
+    "70915617",
+    "1152908075",
+    "1152908275",
+    "1152911575",
+    "1152911775",
+    "1152911875",
+    "1152911975",
+    "1152912075",
+    "1152912175",
+    "1152912375",
+    "70915625",
+    "1152908475",
+    "114431450",
+    "107794678",
+    "107794686",
+    "107794694",
+    "1152910675",
+    "1152910875",
+    "1152911075",
+    "131290568",
+    "117658307",
+    "117639990",
+    "107794701",
+    "107794706",
+    "1152911275",
+    "107794707",
+    "70915636",
+    "70915637",
+    "107794708",
+    "117639991",
+    "107794714",
+    "107794715",
+    "107794716",
+    "107794709"
+   ]
+  }
+ ],
+ "fragments": {
+  "70915613": {
+   "fragment_id": "70915699",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 45/2011\n\nde 24 de Junho\n\nCria, na dependência da Polícia Judiciária, o Gabinete de Recuperação de Activos (GRA)\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70915614": {
+   "fragment_id": "70915700",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "70915615": {
+   "fragment_id": "70915701",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei procede à criação do Gabinete de Recuperação de Activos, em cumprimento da Decisão n.º <a href=\"eurlex.asp?ano=2007&id=307D0845\" title=\"Link para Decisão da Comunidade Europeia\">2007/845/JAI</a>, do Conselho, de 6 de Dezembro, relativa à cooperação entre os gabinetes de recuperação de bens dos Estados membros no domínio da detecção e identificação de produtos ou outros bens relacionados com o crime.\n\n2 - Estabelecem-se, ainda, as regras de administração dos bens recuperados, apreendidos ou perdidos a favor do Estado, visando a sua boa gestão e, se possível, o seu incremento patrimonial."
+  },
+  "70915616": {
+   "fragment_id": "70915702",
+   "type": 1,
+   "heading": "Capítulo II — Gabinete de Recuperação de Activos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Gabinete de Recuperação de Activos"
+  },
+  "70915617": {
+   "fragment_id": "70915703",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nÉ criado, na dependência da Polícia Judiciária, o Gabinete de Recuperação de Activos, abreviadamente designado por GRA, com atribuições de investigação análogas às dos órgãos de polícia criminal."
+  },
+  "70915618": {
+   "fragment_id": "70915704",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\n1 - O GRA tem como missão proceder à identificação, localização e apreensão de bens ou produtos relacionados com crimes, a nível interno e internacional, assegurar a cooperação com os gabinetes de recuperação de activos criados por outros Estados e exercer as demais atribuições que lhe sejam legalmente atribuídas.\n\n2 - Cabe ainda ao GRA a recolha, análise e tratamento de dados estatísticos sobre apreensão, perda e destinação de bens ou produtos relacionados com crimes."
+  },
+  "70915619": {
+   "fragment_id": "70915705",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - O GRA procede à investigação financeira ou patrimonial mencionada no artigo anterior por determinação do Ministério Público:\n\na) Quando se trate de instrumentos, bens ou produtos relacionados com crimes puníveis com pena de prisão igual ou superior a 3 anos; e\n\nb) Quando o valor estimado dos mesmos seja superior a 1000 unidades de conta.\n\n2 - Mediante prévia autorização do Procurador-Geral da República ou, por delegação, dos procuradores-gerais distritais, pode o GRA proceder à investigação financeira ou patrimonial, em casos não abrangidos pelo número anterior, considerando o estimado valor económico, científico, artístico ou histórico dos bens a recuperar e a complexidade da investigação.\n\n3 - A apreensão de bens é realizada pelo GRA nos termos do Código de Processo Penal, podendo o titular dos bens ou direitos requerer ao juiz de instrução, no prazo de 10 dias após notificação, modificação ou revogação da medida.\n\n4 - A notificação a que se refere o número anterior é feita por edital ou anúncio quando o titular dos bens ou direitos não for encontrado.\n\n5 - Os procedimentos realizados pelo GRA são documentados em apenso ao processo.\n\n6 - A investigação financeira ou patrimonial pode realizar-se, para efeitos do n.º 2 do artigo 8.º da Lei n.º 5/2002, de 11 de Janeiro, depois de encerrado o inquérito."
+  },
+  "70915620": {
+   "fragment_id": "70915706",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Composição e coordenação\n\n1 - O GRA é composto por elementos que integram as seguintes entidades:\n\na) Polícia Judiciária;\n\nb) Instituto dos Registos e do Notariado, I. P.;\n\nc) Direcção-Geral dos Impostos;\n\nd) Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo.\n\n2 - A composição e a coordenação do GRA são fixadas por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\n3 - A nomeação dos elementos que compõem o GRA é efectuada em regime de comissão de serviço, cuja duração é fixada na portaria referida no número anterior."
+  },
+  "70915621": {
+   "fragment_id": "70915707",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionamento\n\nAs normas de funcionamento do GRA são definidas por despacho do director nacional da Polícia Judiciária ou, mediante delegação, do director nacional-adjunto."
+  },
+  "70915622": {
+   "fragment_id": "70915708",
+   "type": 11,
+   "heading": "Artigo 7.º — Delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Delegações\n\n1 - O GRA tem sede em Lisboa e integra as seguintes delegações:\n\na) A Delegação do Norte, situada no Porto;\n\nb) A Delegação do Centro, situada em Coimbra;\n\nc) A Delegação do Sul, situada em Faro.\n\n2 - Os elementos do GRA mencionados nas alíneas c) e d) do n.º 1 do artigo 5.º exercem as suas funções em Lisboa.\n\n3 - A competência territorial das delegações do GRA coincide com a das directorias da Polícia Judiciária em que estão sediadas e dos departamentos de investigação criminal delas dependentes."
+  },
+  "70915623": {
+   "fragment_id": "70915709",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso à informação\n\n1 - Com vista à realização da investigação financeira ou patrimonial referida no presente capítulo, o GRA pode aceder a informação detida por organismos nacionais ou internacionais, nos mesmos termos dos órgãos de polícia encarregados da investigação criminal.\n\n2 - Para os efeitos previstos no número anterior, o GRA pode aceder, nomeadamente, às bases de dados:\n\na) Do Instituto dos Registos e do Notariado, I. P.;\n\nb) Da Direcção-Geral dos Impostos e da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo;\n\nc) Da Segurança Social;\n\nd) Do Instituto de Seguros de Portugal;\n\ne) Da Comissão do Mercado de Valores Mobiliários;\n\nf) Do Banco de Portugal.\n\n3 - Quando o acesso depender de autorização de autoridade judiciária, o despacho autorizador identifica as pessoas singulares ou colectivas abrangidas pela medida e especifica as informações que devem ser prestadas, os prazos para a sua concessão e os documentos que devem ser entregues, podendo assumir forma genérica para cada um dos sujeitos abrangidos quando a especificação não seja possível.\n\n4 - Quando se trate de informações relativas a contas bancárias e não forem conhecidos os titulares das mesmas ou os intervenientes nas transacções é suficiente a identificação das contas e transacções relativamente às quais devem ser obtidas informações."
+  },
+  "70915624": {
+   "fragment_id": "70915710",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cooperação\n\n1 - O GRA coopera, a nível policial, com os gabinetes de recuperação de activos criados por outros Estados e procede ao intercâmbio de informações, de dados e de boas práticas.\n\n2 - O GRA coadjuva, além disso, as autoridades judiciárias na realização dos actos de cooperação judiciária pertinentes."
+  },
+  "70915625": {
+   "fragment_id": "70915711",
+   "type": 1,
+   "heading": "Capítulo III — Administração de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Administração de bens"
+  },
+  "70915626": {
+   "fragment_id": "70915712",
+   "type": 11,
+   "heading": "Artigo 10.º — Administração de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Administração de bens\n\n1 - A administração dos bens apreendidos ou recuperados, no âmbito de processos nacionais ou de actos de cooperação judiciária internacional, é assegurada por um gabinete do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P. (IGFIJ, I. P.), designado Gabinete de Administração de Bens (GAB).\n\n2 - Compete ao conselho directivo do IGFIJ, I. P., a prática de todos os actos de administração e gestão do GAB.\n\n3 - No exercício dos seus poderes de administração compete ao GAB:\n\na) Proteger, conservar e gerir os bens recuperados ou à guarda do Estado;\n\nb) Determinar a venda, a afectação ao serviço público ou a destruição dos bens mencionados na alínea anterior, desde que salvaguardado o cumprimento da regulamentação comunitária aplicável;\n\nc) Exercer as demais competências que lhe sejam legalmente atribuídas.\n\n4 - O GAB exerce as suas funções no estrito respeito pelo princípio da transparência, visando a gestão racional e eficiente dos bens administrados e, se possível, o seu incremento patrimonial.\n\n5 - O GAB procede ao exame, à descrição e ao registo da avaliação do bem para efeitos de fixação do valor de eventual indemnização.\n\n6 - O GAB fornece ao GRA dados estatísticos para os efeitos do n.º 2 do artigo 3.º"
+  },
+  "70915627": {
+   "fragment_id": "70915713",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência\n\nO GAB intervém, nos termos do presente capítulo, a pedido do GRA ou das autoridades judiciárias, quando o valor do bem apreendido exceda as 50 unidades de conta."
+  },
+  "70915628": {
+   "fragment_id": "70915714",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Avaliação\n\n1 - Após decurso do prazo fixado no n.º 3 do artigo 4.º ou da decisão nele prevista, o GAB procede à avaliação do bem apreendido, para efeitos da sua administração e de fixação do valor de eventual indemnização.\n\n2 - Quando a avaliação se revelar de especial complexidade ou exigir especiais conhecimentos, pode o GAB solicitar a colaboração de entidades com reconhecida competência.\n\n3 - Da decisão de homologação da avaliação pelo presidente do IGFIJ, I. P., cabe reclamação para o juiz competente, que decide por despacho irrecorrível após realização das diligências que julgue convenientes, sendo correspondentemente aplicável o disposto no n.º 5 do artigo 68.º do Código de Processo Penal.\n\n4 - O proprietário ou legítimo possuidor de um bem que não constitua meio de prova relevante pode requerer à autoridade judiciária competente a sua entrega contra o depósito do valor da avaliação à ordem do IGFIJ, I. P."
+  },
+  "70915629": {
+   "fragment_id": "70915715",
+   "type": 11,
+   "heading": "Artigo 13.º — Informação prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Informação prévia\n\n1 - Antes da venda, afectação ou destruição dos bens, o GAB solicita ao Ministério Público que preste informação sobre o seu valor probatório e sobre a probabilidade de perda a favor do Estado, a qual se reveste de carácter urgente.\n\n2 - O Ministério Público deve ponderar se o interesse probatório pode ser satisfeito através de amostra do bem apreendido."
+  },
+  "70915630": {
+   "fragment_id": "70915716",
+   "type": 11,
+   "heading": "Artigo 14.º — Venda antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Venda antecipada\n\nO GAB procede à venda dos bens perecíveis, deterioráveis ou desvalorizáveis ou à sua afectação a finalidade pública ou socialmente útil, antes de decisão transitada em julgado, quando não constituam meio de prova relevante."
+  },
+  "70915631": {
+   "fragment_id": "70915717",
+   "type": 11,
+   "heading": "Artigo 15.º — Isenção de imposto único de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Isenção de imposto único de circulação\n\nOs veículos, quando apreendidos, depositados ou afectos provisoriamente a serviço público pelas entidades referidas na alínea a) do n.º 1 do artigo 5.º do Código do Imposto Único de Circulação, são isentos daquele imposto."
+  },
+  "70915632": {
+   "fragment_id": "70915718",
+   "type": 11,
+   "heading": "Artigo 16.º — Bens imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Bens imóveis\n\n1 - Os bens imóveis são conservados e geridos pelo GAB, não podendo ser alienados até ao trânsito em julgado de decisão.\n\n2 - Sem prejuízo do disposto no número anterior, o GAB pode proceder à venda antecipada ou à afectação dos bens imóveis administrados quando os mesmos se encontrem em grave risco de perda do seu valor ou de afectação da segurança e saúde públicas e não constituam meio de prova relevante.\n\n3 - Nos casos previstos no número anterior, quando o bem imóvel constitua meio de prova relevante, o GAB pode proceder à realização das obras de reabilitação necessárias.\n\n4 - O GAB procede à liquidação do imposto municipal sobre imóveis (IMI) relativo a bens imóveis sob a sua administração."
+  },
+  "70915633": {
+   "fragment_id": "70915719",
+   "type": 11,
+   "heading": "Artigo 17.º — Destino das receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Destino das receitas\n\n1 - As receitas geradas pela administração de bens recuperados ou declarados perdidos a favor do Estado revertem:\n\na) Em 50 % para o Fundo de Modernização da Justiça;\n\nb) Em 50 % para o IGFIJ, I. P.\n\n2 - Exceptuam-se do regime do número anterior:\n\na) As disposições do artigo 39.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, do artigo 110.º da Lei n.º 144/99, de 31 de Agosto, do artigo 18.º da Lei n.º 88/2009, de 31 de Agosto, bem como as constantes de acordos, tratados ou convenções que vinculem o Estado Português;\n\nb) O produto da receita de bens conexos com crimes de natureza tributária, bem como receitas que constituam recursos próprios comunitários."
+  },
+  "70915634": {
+   "fragment_id": "70915720",
+   "type": 11,
+   "heading": "Artigo 18.º — Indemnizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Indemnizações\n\n1 - As despesas efectuadas com imóveis, nos termos do artigo 16.º, e com móveis afectos ao serviço público são ressarcidas, em caso de restituição ao proprietário.\n\n2 - Para efeitos do disposto no número anterior, é feito o apuramento do valor das obras e das benfeitorias que o GAB realizou nos imóveis sob a sua administração, bem como do IMI pago, e, relativamente aos móveis, das despesas ocasionadas pela sua afectação a finalidade pública ou socialmente útil.\n\n3 - Operada a compensação a que houver lugar, é indemnizado o titular do crédito pelo excedente que for apurado.\n\n4 - Tendo havido venda antecipada, é restituído ao proprietário o valor obtido acrescido dos juros vencidos desde a venda, à taxa legal, deduzidas as despesas referidas nos n.os 1 e 2."
+  },
+  "70915635": {
+   "fragment_id": "70915721",
+   "type": 1,
+   "heading": "Capítulo IV — Intercâmbio de dados e informações e protecção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Intercâmbio de dados e informações e protecção de dados"
+  },
+  "70915636": {
+   "fragment_id": "70915722",
+   "type": 11,
+   "heading": "Artigo 19.º — Intercâmbio de dados e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Intercâmbio de dados e informações\n\nO intercâmbio de dados e de informações, solicitados ou disponibilizados entre gabinetes de recuperação de bens ou outras autoridades encarregadas de facilitar a detecção e identificação dos produtos do crime, processa-se nos termos legais."
+  },
+  "70915637": {
+   "fragment_id": "70915723",
+   "type": 11,
+   "heading": "Artigo 20.º — Protecção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Protecção de dados\n\nOs dados pessoais são protegidos de acordo com o disposto na Lei da Protecção de Dados Pessoais, aprovada pela Lei n.º 67/98, de 26 de Outubro, e a sua transmissão obedece ao regime legalmente previsto."
+  },
+  "70915638": {
+   "fragment_id": "70915724",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "70915639": {
+   "fragment_id": "70915725",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regime subsidiário\n\nA investigação financeira e patrimonial e a avaliação, utilização, administração e alienação de bens apreendidos ou perdidos a favor do Estado não abrangidos pela presente lei processam-se nos termos gerais."
+  },
+  "70915640": {
+   "fragment_id": "70915726",
+   "type": 11,
+   "heading": "Artigo 22.º — Transparência e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Transparência e monitorização\n\n1 - Os gabinetes previstos na presente lei elaboram, conjuntamente, até 31 de Março do ano seguinte, um relatório relativo ao seu exercício anterior, em termos a definir por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\n2 - O relatório referido no número anterior é entregue ao Ministério da Justiça.\n\n3 - No prazo de cinco anos, a actividade dos gabinetes criados pela presente lei é sujeita a avaliação."
+  },
+  "70915641": {
+   "fragment_id": "70915727",
+   "type": 11,
+   "heading": "Artigo 23.º — Aplicação da lei no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Aplicação da lei no tempo\n\n1 - O disposto na presente lei aplica-se aos processos que se iniciem a partir da data de entrada em vigor da presente lei.\n\n2 - Sem prejuízo do disposto no número anterior, verificando-se as circunstâncias do n.º 2 do artigo 4.º, o Procurador-Geral da República ou, por delegação, os procuradores-gerais distritais podem encarregar o GRA de proceder à investigação financeira ou patrimonial em processos iniciados antes da data de entrada em vigor da presente lei.\n\n3 - Nos casos referidos no número anterior, o GRA ou as autoridades judiciárias podem solicitar a intervenção do GAB, nos termos do artigo 11.º"
+  },
+  "70916160": {
+   "fragment_id": "70915719",
+   "type": 11,
+   "heading": "Artigo 17.º — Destino das receitas",
+   "in_force_from": "2013-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+   ],
+   "markdown": "###### Artigo 17.º — Destino das receitas\n\n1 - As receitas geradas pela administração de bens recuperados ou declarados perdidos a favor do Estado revertem:\n\na) Em 50 % para o Fundo de Modernização da Justiça;\n\nb) Em 50 % para o IGFIJ, I. P.\n\n2 - Exceptuam-se do regime do número anterior:\n\na) As disposições do artigo 39.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, do artigo 110.º da Lei n.º 144/99, de 31 de Agosto, do artigo 18.º da Lei n.º 88/2009, de 31 de Agosto, bem como as constantes de acordos, tratados ou convenções que vinculem o Estado Português;\n\nb) O produto da receita de bens conexos com crimes de natureza tributária, bem como receitas que constituam recursos próprios comunitários.\n\nc) O produto da receita de bens conexos com o crime de tráfico de pessoas, que reverte para a entidade coordenadora do Plano Nacional contra o Tráfico de Seres Humanos, destinando-se ao apoio de ações, medidas e programas de prevenção do tráfico de pessoas e de assistência e proteção das suas vítimas.\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+  },
+  "70915642": {
+   "fragment_id": "70915728",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 6 de Abril de 2011.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 20 de Maio de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 9 de Junho de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "107797565": {
+   "fragment_id": "70915704",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\n1 - O GRA tem como missão proceder à identificação, localização e apreensão de bens ou produtos relacionados com crimes, a nível interno e internacional, assegurar a cooperação com os gabinetes de recuperação de activos criados por outros Estados e exercer as demais atribuições que lhe sejam legalmente atribuídas.\n\n2 - Cabe ainda ao GRA realizar a recolha, a análise e o tratamento de dados estatísticos anonimizados, resultantes da sua atividade ou que a lei mande comunicar-lhe, referentes à apreensão e à aplicação de medidas de garantia patrimonial em processo penal, bem como ao destino final que os bens por elas abrangidos tiveram, nomeadamente a restituição, o envio a autoridade de outro Estado em cumprimento de pedido de cooperação judiciária internacional ou a declaração de perda a favor do Estado, com especificação do tipo de bem, do respetivo valor, da sua titularidade como pertencendo ao arguido ou a terceiro e ainda do facto ilícito típico previsto nas leis penais com o qual o mesmo está relacionado.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797566": {
+   "fragment_id": "70915705",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - O GRA procede à investigação financeira ou patrimonial mencionada no artigo anterior por determinação do Ministério Público:\n\na) Quando se trate de instrumentos, bens ou produtos relacionados com crimes puníveis com pena de prisão igual ou superior a 3 anos; e\n\nb) Quando o valor estimado dos mesmos seja superior a 1000 unidades de conta.\n\n2 - Mediante prévia autorização do Procurador-Geral da República ou, por delegação, dos procuradores-gerais distritais, pode o GRA proceder à investigação financeira ou patrimonial, em casos não abrangidos pelo número anterior, considerando o estimado valor económico, científico, artístico ou histórico dos bens a recuperar e a complexidade da investigação.\n\n3 - A apreensão de bens é realizada pelo GRA nos termos do Código de Processo Penal, podendo o titular dos bens ou direitos requerer ao juiz de instrução, no prazo de 10 dias após notificação, modificação ou revogação da medida.\n\n4 - A notificação a que se refere o número anterior é feita por edital ou anúncio quando o titular dos bens ou direitos não for encontrado.\n\n5 - Os procedimentos realizados pelo GRA são documentados em apenso ao processo.\n\n6 - A investigação financeira ou patrimonial pode realizar-se, para efeitos do n.º 2 do artigo 8.º da Lei n.º 5/2002, de 11 de janeiro, depois de encerrado o inquérito e, para efeitos de deteção e rastreio dos bens a declarar perdidos, mesmo depois da condenação, com os limites previstos no artigo 112.º-A do Código Penal.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797567": {
+   "fragment_id": "70915706",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição e coordenação",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 5.º — Composição e coordenação\n\n1 - O GRA é composto por elementos que integram as seguintes entidades:\n\na) Polícia Judiciária;\n\nb) Instituto dos Registos e do Notariado, I. P.;\n\nc) Autoridade Tributária e Aduaneira;\n\nd) (Revogada.)\n\n2 - A composição e a coordenação do GRA são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\n3 - A nomeação dos elementos que compõem o GRA é efectuada em regime de comissão de serviço, cuja duração é fixada na portaria referida no número anterior.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797568": {
+   "fragment_id": "70915708",
+   "type": 11,
+   "heading": "Artigo 7.º — Delegações",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 7.º — Delegações\n\n1 - O GRA tem sede em Lisboa e integra as seguintes delegações:\n\na) A Delegação do Norte, situada no Porto;\n\nb) A Delegação do Centro, situada em Coimbra;\n\nc) A Delegação do Sul, situada em Faro.\n\n2 - Os elementos do GRA mencionados nas alíneas b) e c) do n.º 1 do artigo 5.º exercem as suas funções em Lisboa.\n\n3 - A competência territorial das delegações do GRA coincide com a das directorias da Polícia Judiciária em que estão sediadas e dos departamentos de investigação criminal delas dependentes.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797569": {
+   "fragment_id": "70915709",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso à informação",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 8.º — Acesso à informação\n\n1 - Com vista à realização da investigação financeira ou patrimonial referida no presente capítulo, o GRA pode aceder a informação detida por organismos nacionais ou internacionais, nos mesmos termos dos órgãos de polícia encarregados da investigação criminal, sem prejuízo do disposto nos n.os 5 e 6.\n\n2 - Para os efeitos previstos no número anterior, o GRA pode aceder, nomeadamente, às bases de dados:\n\na) Do Instituto dos Registos e do Notariado, I. P.;\n\nb) Da Autoridade Tributária e Aduaneira;\n\nc) Da Segurança Social;\n\nd) Da Autoridade de Supervisão de Seguros e Fundos de Pensões;\n\ne) Da Comissão do Mercado de Valores Mobiliários;\n\nf) Do Banco de Portugal;\n\ng) Da Autoridade Nacional da Aviação Civil;\n\nh) Da Direção-Geral da Autoridade Marítima.\n\n3 - Quando o acesso depender de autorização de autoridade judiciária, o despacho autorizador identifica as pessoas singulares ou colectivas abrangidas pela medida e especifica as informações que devem ser prestadas, os prazos para a sua concessão e os documentos que devem ser entregues, podendo assumir forma genérica para cada um dos sujeitos abrangidos quando a especificação não seja possível.\n\n4 - Quando se trate de informações relativas a contas bancárias e não forem conhecidos os titulares das mesmas ou os intervenientes nas transacções é suficiente a identificação das contas e transacções relativamente às quais devem ser obtidas informações.\n\n5 - Com vista à realização da investigação financeira ou patrimonial referida no presente capítulo, o GRA tem acesso à informação contida na base de dados de contas mencionada no artigo 81.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, respeitante à identificação das entidades participantes em que as contas da pessoa singular ou coletiva visada pela investigação financeira ou patrimonial estão domiciliadas, sendo-lhe essa informação transmitida preferencialmente por via eletrónica.\n\n6 - O GRA e o Banco de Portugal celebram um protocolo para concretizar o acesso referido no número anterior.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797570": {
+   "fragment_id": "70915710",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 9.º — Cooperação\n\n1 - O GRA coopera, a nível policial, com os gabinetes de recuperação de ativos criados por outros Estados, independentemente da designação ou do estatuto que lhes tenha sido conferido pela respetiva legislação nacional, procedendo ao intercâmbio de informações, de dados e de boas práticas.\n\n2 - O GRA coadjuva, além disso, as autoridades judiciárias na realização dos actos de cooperação judiciária pertinentes.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107797571": {
+   "fragment_id": "70915712",
+   "type": 11,
+   "heading": "Artigo 10.º — Administração de bens",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 10.º — Administração de bens\n\n1 - A administração dos bens apreendidos, recuperados ou declarados perdidos a favor do Estado, no âmbito de processos nacionais ou de atos de cooperação judiciária internacional, é assegurada por um gabinete do Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), designado Gabinete de Administração de Bens (GAB).\n\n2 - Compete ao conselho diretivo do IGFEJ, I. P., a prática de todos os atos de administração e gestão do GAB, assim como a definição das suas normas de funcionamento e a regulamentação dos procedimentos instituídos no presente capítulo.\n\n3 - No exercício dos seus poderes de administração compete ao GAB, nos termos do disposto no presente capítulo:\n\na) Proteger, conservar e gerir os bens recuperados ou à guarda do Estado;\n\nb) Determinar a venda;\n\nc) Determinar a afetação a finalidade pública ou socialmente útil conexa com a administração da justiça, conquanto os bens a afetar se revelem de interesse para a entidade beneficiária e sejam adequados ao exercício e prossecução das suas competências legais ou estatutárias;\n\nd) Determinar a destruição dos bens mencionados na alínea a), desde que salvaguardado o cumprimento da regulamentação comunitária aplicável;\n\ne) Assegurar a destinação dos bens recuperados ou declarados perdidos a favor do Estado por decisão transitada em julgado, sem prejuízo do disposto no n.º 5 do artigo 20.º-A;\n\nf) Exercer as demais competências que lhe sejam legalmente atribuídas.\n\n4 - O GAB exerce as suas funções no estrito respeito pelo princípio da transparência, visando a gestão racional e eficiente dos bens administrados e, se possível, o seu incremento patrimonial.\n\n5 - O GAB procede ao exame, à descrição e ao registo da avaliação do bem para efeitos de fixação do valor de eventual indemnização.\n\n6 - O GAB fornece ao GRA dados estatísticos para os efeitos do n.º 2 do artigo 3.º\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794678": {
+   "fragment_id": "107794598",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Recurso a entidades de reconhecida competência",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 11.º-A — Recurso a entidades de reconhecida competência\n\n1 - Quando a avaliação ou a administração dos bens nos termos do presente capítulo se revelar de especial complexidade ou exigir especiais conhecimentos, pode o GAB solicitar a colaboração de entidades com reconhecida competência, privilegiando o recurso a entidades públicas sempre que possível, e aplicando-se em qualquer caso as regras relativas à contratação pública.\n\n2 - Para facilitar a aplicação do disposto no número anterior, o GAB promove a celebração de protocolos com as entidades pertinentes.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794686": {
+   "fragment_id": "107794599",
+   "type": 11,
+   "heading": "Artigo 11.º-B — Acesso à informação",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 11.º-B — Acesso à informação\n\n1 - O GAB, para exercício das suas competências de avaliação e de administração de bens abrangidos pela presente lei, designadamente para efeitos da sua conservação, gestão, afetação, venda e destruição, pode obter informação atualizada referente à identificação, à situação jurídica, ao valor e à localização dos bens e dos respetivos titulares inscritos, que conste das específicas bases de dados existentes na administração tributária, na segurança social, no registo civil, no registo nacional de pessoas coletivas, no registo predial, no registo comercial e no registo de veículos.\n\n2 - Para facilitar a aplicação do disposto no número anterior, o GAB, através do IGFEJ, I. P., pode promover a celebração de protocolos com as entidades pertinentes, sem prejuízo dos regimes legais de segredo e de sigilo e, bem assim, do controlo prévio da Comissão Nacional de Proteção de Dados, quando este for exigido pelo disposto na Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794694": {
+   "fragment_id": "107794600",
+   "type": 11,
+   "heading": "Artigo 11.º-C — Modalidades da venda de bens",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 11.º-C — Modalidades da venda de bens\n\n1 - Quando haja de proceder à venda de um bem ao abrigo do disposto no presente capítulo, o GAB realiza-a preferencialmente em leilão eletrónico, nos termos do disposto para essa modalidade de venda no Código de Processo Civil, com as devidas adaptações, exceto quando se tratar de venda:\n\na) De bem referido no artigo 830.º ou no artigo 831.º daquele Código, caso em que o GAB adota a modalidade de venda aí prevista; ou\n\nb) Cuja especial urgência, dada a natureza do bem, seja incompatível com o recurso a leilão eletrónico, caso em que o GAB procede à venda por negociação particular, nos termos do disposto para essa modalidade de venda no Código de Processo Civil, com as devidas adaptações.\n\n2 - Se a venda em leilão eletrónico prevista no número anterior se frustrar por ausência de propostas, o GAB procede à venda por negociação particular, nos termos do disposto para essa modalidade de venda no Código de Processo Civil, com as devidas adaptações.\n\n3 - Para efeitos da aplicação do disposto no n.º 1 no que respeita à realização da venda em leilão eletrónico, o GAB pode celebrar protocolos com outras entidades, designadamente com a Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), no que se refere à venda de veículos.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794695": {
+   "fragment_id": "70915714",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 12.º — Avaliação\n\n1 - Após decurso do prazo fixado no n.º 3 do artigo 4.º ou da decisão nele prevista, o GAB procede à avaliação do bem apreendido, para efeitos da sua administração e de fixação do valor de eventual indemnização.\n\n2 - (Revogado.)\n\n3 - Da decisão de homologação da avaliação pelo presidente do IGFEJ, I. P., cabe reclamação para o juiz competente, no prazo de 10 dias após notificação, que decide por despacho irrecorrível após a realização das diligências que julgue convenientes, comunicando a decisão ao GAB, sendo correspondentemente aplicável o disposto no n.º 5 do artigo 68.º do Código de Processo Penal.\n\n4 - O proprietário ou legítimo possuidor de um bem que não constitua meio de prova relevante pode requerer à autoridade judiciária competente a sua entrega contra o depósito do valor da avaliação à ordem do IGFEJ, I. P.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794696": {
+   "fragment_id": "70915715",
+   "type": 11,
+   "heading": "Artigo 13.º — Informação prévia",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 13.º — Informação prévia\n\n1 - Previamente à venda, afetação ou destruição de um bem antes de decisão transitada em julgado, o GAB:\n\na) Solicita ao Ministério Público que, no prazo de 10 dias, preste informação sobre o seu valor probatório e sobre a probabilidade da sua perda a favor do Estado; e\n\nb) Notifica o proprietário ou legítimo possuidor para que, caso o pretenda, no prazo de 10 dias a contar da notificação, exerça a faculdade prevista no n.º 4 do artigo anterior.\n\n2 - Havendo especial urgência em realizar a venda ou a afetação referidas no número anterior, atenta a natureza do bem, os prazos ali fixados são reduzidos para cinco dias, podendo a notificação do proprietário ou legítimo possuidor ser realizada por via telefónica, devendo a pessoa que a efetuar identificar-se, dar conta do cargo que desempenha e transmitir todos os elementos que permitam ao notificado inteirar-se do ato a que a notificação se refere e efetuar, caso queira, a contraprova de que se trata de telefonema oficial e verdadeiro.\n\n3 - A notificação realizada nos termos do número anterior e o respetivo teor são documentados por escrito imediatamente após a sua realização.\n\n4 - O Ministério Público deve ponderar se o interesse probatório pode ser satisfeito através de amostra do bem apreendido.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794697": {
+   "fragment_id": "70915716",
+   "type": 11,
+   "heading": "Artigo 14.º — Venda antecipada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Venda antecipada\n\nO GAB procede à venda dos bens perecíveis, deterioráveis ou desvalorizáveis ou à sua afectação a finalidade pública ou socialmente útil, antes de decisão transitada em julgado, quando não constituam meio de prova relevante."
+  },
+  "107794698": {
+   "fragment_id": "70915717",
+   "type": 11,
+   "heading": "Artigo 15.º — Isenção de imposto único de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Isenção de imposto único de circulação\n\nOs veículos, quando apreendidos, depositados ou afectos provisoriamente a serviço público pelas entidades referidas na alínea a) do n.º 1 do artigo 5.º do Código do Imposto Único de Circulação, são isentos daquele imposto."
+  },
+  "107794699": {
+   "fragment_id": "70915718",
+   "type": 11,
+   "heading": "Artigo 16.º — Bens imóveis",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 16.º — Bens imóveis\n\n1 - Os bens imóveis são conservados e geridos pelo GAB, não podendo ser alienados até ao trânsito em julgado de decisão.\n\n2 - Sem prejuízo do disposto no número anterior, o GAB pode proceder à venda antecipada ou à afectação dos bens imóveis administrados quando os mesmos se encontrem em grave risco de perda do seu valor ou de afectação da segurança e saúde públicas e não constituam meio de prova relevante.\n\n3 - Sem prejuízo do disposto no n.º 1, o GAB pode ainda proceder à afetação a finalidade pública ou socialmente útil, nos termos do disposto no artigo 10.º, dos bens imóveis que se encontrem devolutos e não constituam meio de prova relevante.\n\n4 - Nos casos previstos nos n.os 2 e 3, quando o bem imóvel constitua meio de prova relevante, o GAB pode proceder à realização das obras de reabilitação necessárias.\n\n5 - O GAB procede à liquidação do imposto municipal sobre imóveis (IMI) relativo a bens imóveis sob a sua administração.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794700": {
+   "fragment_id": "70915719",
+   "type": 11,
+   "heading": "Artigo 17.º — Destino dos bens e das receitas geradas pela sua administração",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+   ],
+   "markdown": "###### Artigo 17.º — Destino dos bens e das receitas geradas pela sua administração\n\n1 - O GAB assegura a destinação dos bens recuperados ou declarados perdidos a favor do Estado por decisão transitada em julgado.\n\n2 - Quando a decisão referida no número anterior aplicar lei que fixe destino especial para os bens, o GAB procede à destinação dos mesmos nos termos aí previstos.\n\n3 - O disposto no número anterior abrange, nomeadamente:\n\na) As disposições do artigo 39.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, do artigo 110.º da Lei n.º 144/99, de 31 de Agosto, do artigo 18.º da Lei n.º 88/2009, de 31 de Agosto, bem como as constantes de acordos, tratados ou convenções que vinculem o Estado Português;\n\nb) O produto da receita de bens conexos com crimes de natureza tributária, bem como receitas que constituam recursos próprios comunitários.\n\nc) O produto da receita de bens conexos com o crime de tráfico de pessoas, que reverte para a entidade coordenadora do Plano Nacional contra o Tráfico de Seres Humanos, destinando-se ao apoio de ações, medidas e programas de prevenção do tráfico de pessoas e de assistência e proteção das suas vítimas.\n\nd) O disposto no Decreto-Lei n.º 170/2008, de 26 de agosto, alterado pelas Leis n.os 3-B/2010, de 28 de abril, e 55-A/2010, de 31 de dezembro, nos termos conjugados com o Decreto-Lei n.º 31/85, de 25 de janeiro, alterado pelo Decreto-Lei n.º 26/97, de 23 de janeiro, bem como o disposto na Portaria n.º 40/2017, de 27 de janeiro.\n\n4 - Quando da decisão referida no n.º 1 não resultar destino especial para os bens, o GAB procede à afetação dos mesmos a finalidade pública ou socialmente útil, ou à sua venda e subsequente repartição do produto por ela gerado.\n\n5 - O produto da venda realizada pelo GAB ao abrigo do número anterior reverte:\n\na) Em 50 % para o Fundo de Modernização da Justiça;\n\nb) Em 49 % para o IGFEJ, I. P.;\n\nc) Em 1 % para a Comissão de Proteção às Vítimas de Crimes.\n\n6 - As demais receitas geradas pela administração dos bens recuperados ou declarados perdidos a favor do Estado são destinadas pelo GAB em conformidade com o disposto no presente artigo.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+  },
+  "107794701": {
+   "fragment_id": "70915720",
+   "type": 11,
+   "heading": "Artigo 18.º — Indemnizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Indemnizações\n\n1 - As despesas efectuadas com imóveis, nos termos do artigo 16.º, e com móveis afectos ao serviço público são ressarcidas, em caso de restituição ao proprietário.\n\n2 - Para efeitos do disposto no número anterior, é feito o apuramento do valor das obras e das benfeitorias que o GAB realizou nos imóveis sob a sua administração, bem como do IMI pago, e, relativamente aos móveis, das despesas ocasionadas pela sua afectação a finalidade pública ou socialmente útil.\n\n3 - Operada a compensação a que houver lugar, é indemnizado o titular do crédito pelo excedente que for apurado.\n\n4 - Tendo havido venda antecipada, é restituído ao proprietário o valor obtido acrescido dos juros vencidos desde a venda, à taxa legal, deduzidas as despesas referidas nos n.os 1 e 2."
+  },
+  "107794706": {
+   "fragment_id": "107794604",
+   "type": 1,
+   "heading": "Capítulo IV — Plataforma informática para registo e troca de informação relativa a bens que sejam objeto da atividade do Gabinete de Recuperação de Ativos e do Gabinete de Administração de Bens",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Aditado pelo/a Artigo 8.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "### Capítulo IV — Plataforma informática para registo e troca de informação relativa a bens que sejam objeto da atividade do Gabinete de Recuperação de Ativos e do Gabinete de Administração de Bens\n\n> Aditado pelo/a Artigo 8.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794711": {
+   "fragment_id": "107794601",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Plataforma informática",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 18.º-A — Plataforma informática\n\n1 - O GRA e o GAB mantêm uma plataforma informática para registo e troca de informação relativa a bens que sejam objeto das atividades de investigação financeira ou patrimonial e de administração de bens nos termos previstos na presente lei.\n\n2 - Para os fins estabelecidos no número anterior, são comunicadas, logo que possível, pelas entidades competentes as seguintes categorias de dados:\n\na) Tipo de bem;\n\nb) Descrição do bem;\n\nc) Localização do bem;\n\nd) Valor do bem, resultante de estimativa ou avaliação comunicada pela entidade que efetuou o pedido de administração ao GAB e de avaliação realizada pelo GAB;\n\ne) Indicação de se tratar de bem objeto de registo;\n\nf) Indicação da existência de ónus ou encargos sobre o bem;\n\ng) Indicação do facto de estar ou não ocupado, nomeadamente pela existência de contrato de arrendamento, tratando-se de bem imóvel;\n\nh) Valor probatório do bem;\n\ni) Medidas processuais de que o bem tenha sido objeto;\n\nj) Probabilidade de perda do bem a favor do Estado ou indicação do destino último que o bem tenha tido, nomeadamente a restituição, o envio a autoridade de outro Estado em cumprimento de pedido de cooperação judiciária internacional ou a declaração de perda a favor do Estado;\n\nk) Identificação e contacto do proprietário ou legítimo possuidor do bem;\n\nl) Indicação da qualidade de arguido ou terceiro das pessoas mencionadas na alínea anterior;\n\nm) Identificação da entidade que efetuou o pedido de administração ao GAB;\n\nn) Data do pedido de administração;\n\no) Identificação do processo a que o bem respeita, com indicação do número único identificador de processo-crime (NUIPC) e do tribunal ou serviço do Ministério Público em que o mesmo corre termos.\n\n3 - Para os fins previstos no n.º 1, podem ser recolhidos dados não referidos no número anterior, sem prejuízo do controlo prévio da Comissão Nacional de Proteção de Dados, quando esta for exigida pelo disposto na Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.\n\n4 - Sem prejuízo dos regimes do segredo de justiça e do segredo de Estado, para efeitos de comunicação entre as autoridades judiciárias e o GRA, no âmbito da investigação financeira ou patrimonial, e entre o GAB e essas mesmas autoridades, no âmbito do tratamento de pedidos de administração de bens, pode haver comunicação de dados, por meios eletrónicos, entre a plataforma informática prevista no n.º 1 e os sistemas informáticos de suporte à atividade dos tribunais e dos órgãos de polícia criminal.\n\n5 - Só têm acesso aos dados contidos na plataforma informática prevista no presente artigo, sem prejuízo dos regimes do segredo de justiça e do segredo de Estado e na medida do estritamente necessário para o exercício das suas competências em sede de investigação financeira ou patrimonial ou de administração de bens:\n\na) O GRA;\n\nb) O GAB;\n\nc) As autoridades judiciárias competentes;\n\nd) Os funcionários de justiça e elementos dos órgãos de polícia criminal que coadjuvam os magistrados abrangidos pela alínea anterior.\n\n6 - O acesso aos dados pelas entidades mencionadas no número anterior é registado eletronicamente, com especificação da identidade do utilizador que o realizou, da data e hora do seu início e do seu fim e dos dados que o mesmo abrangeu, bem como das operações efetuadas sobre os dados.\n\n7 - Tendo em vista a segurança da informação, são objeto de controlo:\n\na) A entrada nas instalações utilizadas para o armazenamento de dados, a fim de impedir o acesso às mesmas por pessoa não autorizada;\n\nb) Os suportes utilizados, a fim de impedir que possam ser lidos, copiados, alterados ou retirados por pessoa não autorizada;\n\nc) O acesso aos dados, a fim de assegurar que é efetuado apenas por pessoas autorizadas e que se processa nos termos do presente artigo;\n\nd) A inserção, a alteração, a eliminação e a realização de qualquer outra operação sobre os dados, de forma a verificar-se que operações foram realizadas, quando e por quem, e para impedir a introdução, assim como qualquer tomada de conhecimento, alteração ou eliminação não autorizadas dos mesmos;\n\ne) Os sistemas de tratamento automatizado de dados, para impedir que possam ser utilizados por pessoas não autorizadas;\n\nf) A transmissão de dados, para garantir que o envio destes se limite às entidades autorizadas;\n\ng) A transmissão de dados e o transporte de suportes de dados, para impedir que os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada;\n\nh) O acesso aos dados a partir de fora das instalações físicas onde se encontram armazenados, de modo a garantir a sua segurança.\n\n8 - Para efeitos do disposto na Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto, a responsabilidade pelo tratamento dos dados tratados ao abrigo do presente artigo compete:\n\na) À Polícia Judiciária, no que respeita aos dados registados pelo GRA;\n\nb) Ao IGFEJ, I. P., no que respeita aos dados registados pelo GAB;\n\nc) Às entidades que, nos termos da Lei n.º 34/2009, de 14 de julho, forem responsáveis pelo tratamento dos dados comunicados ao abrigo do n.º 3.\n\n9 - O titular dos dados pode exercer os direitos de acesso e de retificação mediante requerimento dirigido a qualquer das entidades referidas no número anterior, a qual, não sendo a entidade responsável, procede ao seu reencaminhamento.\n\n10 - Sem prejuízo do disposto no número seguinte, os dados recolhidos ao abrigo do presente artigo são eliminados após a verificação cumulativa das seguintes circunstâncias:\n\na) Ter sido assegurada a destinação dos bens a que respeitam;\n\nb) Estar findo o processo a que os bens em causa respeitam;\n\nc) Já não ser possível, em fase executiva, a investigação financeira ou patrimonial, por força do disposto no artigo 112.º-A do Código Penal.\n\n11 - Para fins estatísticos, os dados a que se refere o número anterior podem ser mantidos para lá do prazo resultante do que ali se dispõe, desde que anonimizados.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794707": {
+   "fragment_id": "70915721",
+   "type": 1,
+   "heading": "Capítulo V — Intercâmbio de dados e informações e protecção de dados",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "### Capítulo V — Intercâmbio de dados e informações e protecção de dados\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794708": {
+   "fragment_id": "70915724",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794713": {
+   "fragment_id": "107794602",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Articulação com outros regimes legais",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 20.º-A — Articulação com outros regimes legais\n\n1 - Sem prejuízo dos regimes do segredo de justiça e do segredo de Estado, as autoridades judiciárias comunicam ao GAB os dados relativos aos bens apreendidos, aquando da prolação do despacho a que alude o n.º 6 do artigo 178.º do Código de Processo Penal.\n\n2 - Logo que der início à administração de bem apreendido por órgão de polícia criminal, o GAB comunica tal facto ao órgão que realizou a apreensão, para que este informe se sobre o bem se encontra pendente procedimento de declaração de utilidade operacional ao abrigo do Decreto-Lei n.º 11/2007, de 19 de janeiro, ou para que, caso pretenda, o desencadeie no prazo de cinco dias.\n\n3 - Encontrando-se pendente o procedimento mencionado no número anterior, ou sendo desencadeado no prazo aí referido, o GAB cessa a sua administração sobre o bem, remetendo ao órgão de polícia criminal os elementos relativos ao mesmo que se encontrem em seu poder e comunicando o facto à entidade que lhe dirigiu o pedido de administração.\n\n4 - Se o procedimento mencionado no n.º 2 não se encontrar pendente nem for desencadeado no prazo aí fixado, fica prejudicada a possibilidade de ulterior início do mesmo, mantendo-se o bem sob administração do GAB.\n\n5 - Aos veículos apreendidos ou declarados perdidos a favor do Estado em processo penal que se encontrem sob administração do GAB é aplicável o disposto nos Decretos-Leis n.os 31/85, de 25 de janeiro, e 170/2008, de 26 de agosto, na respetiva redação atual.\n\n6 - A integração no Parque de Veículos do Estado de veículos com declaração de utilidade operacional fica sujeita ao disposto nos Decretos-Leis n.os 31/85, de 25 de janeiro, e 170/2008, de 26 de agosto, na respetiva redação atual.\n\n7 - O GAB informa a ESPAP, I. P., até ao dia 15 de cada mês, sobre os veículos que lhe sejam indicados para sua administração, para efeitos de manifestação ou não de interesse por parte desta entidade em que os referidos veículos integrem o Parque de Veículos do Estado, sendo a sua decisão comunicada ao GAB nos termos previstos no n.º 1 do artigo 7.º do Decreto-Lei n.º 31/85, de 25 de janeiro, na redação atual, e no n.º 1 do artigo 23.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na redação atual.\n\n8 - A ESPAP, I. P., dá conhecimento ao GAB da decisão referida no número anterior, nos termos do disposto no n.º 1 do artigo 23.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na redação atual.\n\n9 - A comunicação referida no n.º 7 não está sujeita à limitação prevista no n.º 2 do artigo 23.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na redação atual.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794714": {
+   "fragment_id": "70915725",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime subsidiário",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 21.º — Regime subsidiário\n\n1 - Aos prazos previstos na presente lei e à sua contagem são aplicáveis as regras relativas a prazos constantes do Código de Processo Penal.\n\n2 - A investigação financeira e patrimonial e a avaliação, utilização, administração e alienação de bens apreendidos ou perdidos a favor do Estado não abrangidos pela presente lei processam-se nos termos gerais.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794715": {
+   "fragment_id": "70915726",
+   "type": 11,
+   "heading": "Artigo 22.º — Transparência e monitorização",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 22.º — Transparência e monitorização\n\n1 - Os gabinetes previstos na presente lei elaboram, conjuntamente, até 31 de março do ano seguinte, um relatório relativo ao seu exercício anterior, em termos a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\n2 - O relatório referido no número anterior é entregue ao Ministério da Justiça.\n\n3 - No prazo de cinco anos, a actividade dos gabinetes criados pela presente lei é sujeita a avaliação.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "107794716": {
+   "fragment_id": "70915727",
+   "type": 11,
+   "heading": "Artigo 23.º — Aplicação da lei no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Aplicação da lei no tempo\n\n1 - O disposto na presente lei aplica-se aos processos que se iniciem a partir da data de entrada em vigor da presente lei.\n\n2 - Sem prejuízo do disposto no número anterior, verificando-se as circunstâncias do n.º 2 do artigo 4.º, o Procurador-Geral da República ou, por delegação, os procuradores-gerais distritais podem encarregar o GRA de proceder à investigação financeira ou patrimonial em processos iniciados antes da data de entrada em vigor da presente lei.\n\n3 - Nos casos referidos no número anterior, o GRA ou as autoridades judiciárias podem solicitar a intervenção do GAB, nos termos do artigo 11.º"
+  },
+  "107794709": {
+   "fragment_id": "70915728",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 6 de Abril de 2011.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 20 de Maio de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 9 de Junho de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "114431450": {
+   "fragment_id": "70915713",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 294.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Competência\n\nO GAB intervém, nos termos do presente capítulo, a pedido do GRA ou das autoridades judiciárias, quando o valor do bem apreendido exceda as 50 unidades de conta ou, independentemente desse valor, quando se trate de veículo automóvel, embarcação ou aeronave.\n\n> Alterado pelo/a Artigo 294.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "117639987": {
+   "fragment_id": "70915716",
+   "type": 11,
+   "heading": "Artigo 14.º — Venda antecipada",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Venda antecipada\n\n1 - O GAB procede à venda dos bens perecíveis, deterioráveis ou desvalorizáveis ou à sua afectação a finalidade pública ou socialmente útil, antes de decisão transitada em julgado, quando não constituam meio de prova relevante.\n\n2 - Quando o bem referido no número anterior for um veículo automóvel, embarcação ou aeronave cujo valor resultante da avaliação seja inferior a 3000 (euro), apenas há lugar à sua venda.\n\n> Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117639988": {
+   "fragment_id": "70915717",
+   "type": 11,
+   "heading": "Artigo 15.º — Isenções",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Isenções\n\n1 - Os veículos, quando apreendidos, depositados ou afectos provisoriamente a serviço público pelas entidades referidas na alínea a) do n.º 1 do artigo 5.º do Código do Imposto Único de Circulação, são isentos daquele imposto.\n\n2 - Os veículos apreendidos ou declarados perdidos a favor do Estado, enquanto se mantiverem sob a sua administração, ficam isentos de emolumentos e taxas devidos ao Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), e ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.)\n\n3 - Para efeitos do disposto nos números anteriores, o GAB comunica à Autoridade Tributária e Aduaneira e ao IRN, I. P., os veículos que estejam sob sua administração.\n\n> Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117658307": {
+   "fragment_id": "70915718",
+   "type": 11,
+   "heading": "Artigo 16.º — Bens imóveis",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 16.º — Bens imóveis\n\n1 - Os bens imóveis são conservados e geridos pelo GAB, não podendo ser alienados até ao trânsito em julgado de decisão.\n\n2 - Sem prejuízo do disposto no número anterior, o GAB pode proceder à venda antecipada ou à afectação dos bens imóveis administrados quando os mesmos se encontrem em grave risco de perda do seu valor ou de afectação da segurança e saúde públicas e não constituam meio de prova relevante.\n\n3 - Sem prejuízo do disposto no n.º 1, o GAB pode ainda proceder à afetação a finalidade pública ou socialmente útil, nos termos do disposto no artigo 10.º, dos bens imóveis que se encontrem devolutos e não constituam meio de prova relevante.\n\n4 - Nos casos previstos nos n.os 2 e 3, quando o bem imóvel constitua meio de prova relevante, o GAB pode proceder à realização das obras de reabilitação necessárias.\n\n5 - O GAB está dispensado da liquidação do imposto municipal sobre imóveis (IMI) relativamente aos bens imóveis apreendidos ou declarados perdidos a favor do Estado, enquanto se mantiverem sob a sua administração.\n\n> Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "117639990": {
+   "fragment_id": "70915719",
+   "type": 11,
+   "heading": "Artigo 17.º — Destino dos bens e das receitas geradas pela sua administração",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+   ],
+   "markdown": "###### Artigo 17.º — Destino dos bens e das receitas geradas pela sua administração\n\n1 - O GAB assegura a destinação dos bens recuperados ou declarados perdidos a favor do Estado por decisão transitada em julgado.\n\n2 - Quando a decisão referida no número anterior aplicar lei que fixe destino especial para os bens, o GAB procede à destinação dos mesmos nos termos aí previstos.\n\n3 - O disposto no número anterior abrange, nomeadamente:\n\na) As disposições do artigo 39.º do Decreto-Lei n.º 15/93, de 22 de Janeiro, do artigo 110.º da Lei n.º 144/99, de 31 de Agosto, do artigo 18.º da Lei n.º 88/2009, de 31 de Agosto, bem como as constantes de acordos, tratados ou convenções que vinculem o Estado Português;\n\nb) O produto da receita de bens conexos com crimes de natureza tributária, bem como receitas que constituam recursos próprios comunitários.\n\nc) O produto da receita de bens conexos com o crime de tráfico de pessoas, que reverte para a entidade coordenadora do Plano Nacional contra o Tráfico de Seres Humanos, destinando-se ao apoio de ações, medidas e programas de prevenção do tráfico de pessoas e de assistência e proteção das suas vítimas.\n\nd) O disposto no Decreto-Lei n.º 170/2008, de 26 de agosto, alterado pelas Leis n.os 3-B/2010, de 28 de abril, e 55-A/2010, de 31 de dezembro, nos termos conjugados com o Decreto-Lei n.º 31/85, de 25 de janeiro, alterado pelo Decreto-Lei n.º 26/97, de 23 de janeiro, bem como o disposto na Portaria n.º 40/2017, de 27 de janeiro.\n\n4 - Quando da decisão referida no n.º 1 não resultar destino especial para os bens, o GAB procede à afetação dos mesmos a finalidade pública ou socialmente útil, ou à sua venda e subsequente repartição do produto por ela gerado.\n\n5 - Quando o bem referido no número anterior for um veículo automóvel, embarcação ou aeronave cujo valor resultante da avaliação seja inferior a 3000 (euro), apenas há lugar à sua venda e subsequente repartição do produto por ela gerado.\n\n6 - O produto da venda realizada pelo GAB ao abrigo dos n.os 4 e 5 reverte:\n\na) Em 50 % para o Fundo de Modernização da Justiça;\n\nb) Em 49 % para o IGFEJ, I. P.;\n\nc) Em 1 % para a Comissão de Proteção às Vítimas de Crimes.\n\n7 - As demais receitas geradas pela administração dos bens recuperados ou declarados perdidos a favor do Estado são destinadas pelo GAB em conformidade com o disposto no presente artigo.\n\n8 - Os bens entregues ao GAB que venham a ser declarados perdidos a favor do Estado por decisão transitada em julgado são registados pelo Instituto de Gestão Financeira e Equipamentos da Justiça, I. P., em nome do Estado Português.\n\n> Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 60/2013 - Diário da República n.º 162/2013, Série I de 2013-08-23](https://diariodarepublica.pt/dr/detalhe/lei/60-2013-499058), em vigor a partir de 2013-08-28"
+  },
+  "117639991": {
+   "fragment_id": "107794602",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Articulação com outros regimes legais",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01",
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 20.º-A — Articulação com outros regimes legais\n\n1 - Sem prejuízo dos regimes do segredo de justiça e do segredo de Estado, as autoridades judiciárias comunicam ao GAB os dados relativos aos bens apreendidos, aquando da prolação do despacho a que alude o n.º 6 do artigo 178.º do Código de Processo Penal.\n\n2 - Logo que der início à administração de bem apreendido por órgão de polícia criminal, o GAB comunica tal facto ao órgão que realizou a apreensão, para que este informe se sobre o bem se encontra pendente procedimento de declaração de utilidade operacional ao abrigo do Decreto-Lei n.º 11/2007, de 19 de janeiro, ou para que, caso pretenda, o desencadeie no prazo de cinco dias.\n\n3 - Encontrando-se pendente o procedimento mencionado no número anterior, ou sendo desencadeado no prazo aí referido, o GAB cessa a sua administração sobre o bem, remetendo ao órgão de polícia criminal os elementos relativos ao mesmo que se encontrem em seu poder e comunicando o facto à entidade que lhe dirigiu o pedido de administração.\n\n4 - Se o procedimento mencionado no n.º 2 não se encontrar pendente nem for desencadeado no prazo aí fixado, fica prejudicada a possibilidade de ulterior início do mesmo, mantendo-se o bem sob administração do GAB.\n\n5 - Aos veículos apreendidos ou declarados perdidos a favor do Estado em processo penal que se encontrem sob administração do GAB é aplicável o disposto nos Decretos-Leis n.os 31/85, de 25 de janeiro, e 170/2008, de 26 de agosto, na respetiva redação atual.\n\n6 - A integração no Parque de Veículos do Estado de veículos com declaração de utilidade operacional fica sujeita ao disposto nos Decretos-Leis n.os 31/85, de 25 de janeiro, e 170/2008, de 26 de agosto, na respetiva redação atual.\n\n7 - O GAB informa a ESPAP, I. P., até ao dia 15 de cada mês, sobre os veículos que lhe sejam indicados para sua administração, para efeitos de manifestação ou não de interesse por parte desta entidade em que os referidos veículos integrem o Parque de Veículos do Estado, sendo a sua decisão comunicada ao GAB nos termos previstos no n.º 1 do artigo 7.º do Decreto-Lei n.º 31/85, de 25 de janeiro, na redação atual, e no n.º 1 do artigo 23.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na redação atual.\n\n8 - A ESPAP, I. P., dá conhecimento ao GAB da decisão referida no número anterior, nos termos do disposto no n.º 1 do artigo 23.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na redação atual.\n\n9 - A comunicação referida no n.º 7 não está sujeita à limitação prevista no n.º 2 do artigo 23.º do Decreto-Lei n.º 170/2008, de 26 de agosto, na redação atual.\n\n10 - Excetuam-se do disposto nos n.os 2 a 9, bem como nos diplomas aí referidos, os veículos automóveis, embarcações e aeronaves cujo valor resultante da avaliação seja inferior a 3000 (euro), procedendo o GAB de imediato à sua venda, ao abrigo do disposto no n.º 2 do artigo 14.º ou no n.º 5 do artigo 17.º, consoante o caso, verificados os demais requisitos e observados os demais procedimentos estabelecidos na presente lei para esse efeito.\n\n11 - Nos casos previstos no número anterior, tratando-se de veículo automóvel, embarcação ou aeronave apreendido por órgão de polícia criminal, o GAB comunica-lhe o resultado da avaliação, cessando qualquer procedimento de declaração de utilidade operacional que se encontre pendente ao abrigo do Decreto-Lei n.º 11/2007, de 19 de janeiro, ou a utilidade operacional já declarada ao abrigo do mesmo diploma, e sendo o bem remetido ao GAB.\n\n> Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "131290568": {
+   "fragment_id": "70915717",
+   "type": 11,
+   "heading": "Artigo 15.º — Isenções",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 382.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01",
+    "Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Isenções\n\n1 - Os veículos, quando apreendidos, depositados ou afectos provisoriamente a serviço público pelas entidades referidas na alínea a) do n.º 1 do artigo 5.º do Código do Imposto Único de Circulação, são isentos daquele imposto.\n\n2 - Os veículos apreendidos ou declarados perdidos a favor do Estado, enquanto se mantiverem sob a sua administração, ficam isentos de emolumentos e taxas devidos ao Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), e ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.)\n\n3 - Beneficiam de igual isenção os órgãos de polícia criminal em todos os veículos apreendidos ou declarados perdidos a favor do Estado.\n\n4 - Para efeitos do disposto nos números anteriores, o GAB comunica à Autoridade Tributária e Aduaneira e ao IRN, I. P., os veículos que estejam sob sua administração.\n\n> Alterado pelo/a Artigo 382.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01\n\n> Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "1152908075": {
+   "fragment_id": "70915704",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\n1 - O GRA tem como missão proceder à identificação, localização, apreensão e arresto de bens suscetíveis de serem declarados perdidos, ou de serem atribuídos ou restituídos ao lesado, no plano interno e internacional, bem como assegurar a cooperação com os gabinetes de recuperação de ativos criados por outros Estados e exercer as demais atribuições que lhe sejam legalmente atribuídas.\n\n2 - Cabe ainda ao GRA realizar a recolha, a análise e o tratamento de dados estatísticos anonimizados, resultantes da sua atividade ou que a lei mande comunicar-lhe, referentes à apreensão e à aplicação de medidas de garantia patrimonial em processo penal, bem como ao destino final que os bens por elas abrangidos tiveram, nomeadamente a restituição, o envio a autoridade de outro Estado em cumprimento de pedido de cooperação judiciária internacional ou a declaração de perda a favor do Estado, com especificação do tipo de bem, do respetivo valor, da sua titularidade como pertencendo a uma pessoa afetada e ainda do facto ilícito típico previsto nas leis penais com o qual o mesmo está relacionado.\n\n3 - A investigação patrimonial e financeira compreende o conjunto de diligências que visam a identificação, a localização, a apreensão e o arresto dos bens referidos no n.º 1 em ordem à decisão sobre a sua perda ou respetiva execução.\n\n4 - As diligências referidas no número anterior têm em conta os pedidos de apreensão ou arresto, bem como de indemnização, que hajam sido deduzidos contra a pessoa afetada.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1152908275": {
+   "fragment_id": "70915705",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - O GRA procede à investigação financeira ou patrimonial mencionada no artigo anterior por determinação do Ministério Público, sob a sua orientação e na sua dependência funcional:\n\na) Quando se trate de instrumentos, bens ou produtos relacionados com crimes puníveis com pena de prisão igual ou superior a 3 anos; e\n\nb) Quando o valor estimado dos mesmos seja superior a 1000 unidades de conta.\n\n2 - Mediante prévia autorização do Procurador-Geral da República ou, por delegação, dos procuradores-gerais distritais, pode o GRA proceder à investigação financeira ou patrimonial, em casos não abrangidos pelo número anterior, considerando o estimado valor económico, científico, artístico ou histórico dos bens a recuperar e a complexidade da investigação.\n\n3 - A apreensão e o arresto de bens são realizados pelo GRA nos termos do Código de Processo Penal e demais legislação, podendo a pessoa afetada requerer ao juiz de instrução ou de julgamento, no prazo de 10 dias após notificação, modificação ou revogação da medida.\n\n4 - Quando a pessoa afetada não for encontrada, a notificação a que se refere o número anterior é feita pelo GRA por edital ou anúncio.\n\n5 - Os procedimentos realizados pelo GRA são documentados em apenso ao processo.\n\n6 - A investigação financeira ou patrimonial pode realizar-se, para efeitos do n.º 2 do artigo 8.º da Lei n.º 5/2002, de 11 de janeiro, depois de encerrado o inquérito e, para efeitos de deteção e rastreio dos bens a declarar perdidos, mesmo depois da decisão que declarar a perda, com os limites previstos no artigo 112.º-A do Código Penal.\n\n7 - A investigação financeira ou patrimonial realizada depois da decisão que declarar a perda é promovida no processo pelo Ministério Público.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1152911575": {
+   "fragment_id": "1152911475",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Ações imediatas",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 9.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+   ],
+   "markdown": "###### Artigo 4.º-A — Ações imediatas\n\n1 - Em caso de urgência ou de perigo na demora, nomeadamente por risco iminente de desaparecimento, destruição, danificação, inutilização, ocultação ou transferência dos bens que tenham sido identificados ou detetados, o Ministério Público ou o diretor do GRA podem determinar a sua apreensão ou arresto provisório.\n\n2 - A apreensão ou o arresto efetuados nos termos do número anterior são sujeitos a validação pela autoridade judiciária competente no prazo máximo de 72 horas, sob pena de nulidade.\n\n> Aditado pelo/a Artigo 9.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+  },
+  "1152911775": {
+   "fragment_id": "70915706",
+   "type": 11,
+   "heading": "Artigo 5.º — Composição e coordenação",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 5.º — Composição e coordenação\n\n1 - O GRA é composto por elementos que integram as seguintes entidades:\n\na) Polícia Judiciária;\n\nb) Instituto dos Registos e do Notariado, I. P.;\n\nc) Autoridade Tributária e Aduaneira;\n\nd) (Revogada.)\n\n2 - A composição e a coordenação do GRA são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça.\n\n3 - A nomeação dos elementos que compõem o GRA é efectuada em regime de comissão de serviço, cuja duração é fixada na portaria referida no número anterior.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1152911875": {
+   "fragment_id": "70915707",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionamento\n\nAs normas de funcionamento do GRA são definidas por despacho do director nacional da Polícia Judiciária ou, mediante delegação, do director nacional-adjunto."
+  },
+  "1152911975": {
+   "fragment_id": "70915708",
+   "type": 11,
+   "heading": "Artigo 7.º — Delegações",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 7.º — Delegações\n\n1 - O GRA tem sede em Lisboa e integra as seguintes delegações:\n\na) A Delegação do Norte, situada no Porto;\n\nb) A Delegação do Centro, situada em Coimbra;\n\nc) A Delegação do Sul, situada em Faro.\n\n2 - Os elementos do GRA mencionados nas alíneas b) e c) do n.º 1 do artigo 5.º exercem as suas funções em Lisboa.\n\n3 - A competência territorial das delegações do GRA coincide com a das directorias da Polícia Judiciária em que estão sediadas e dos departamentos de investigação criminal delas dependentes.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1152912075": {
+   "fragment_id": "70915709",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso à informação",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 8.º — Acesso à informação\n\n1 - Com vista à realização da investigação financeira ou patrimonial referida no presente capítulo, o GRA pode aceder a informação detida por organismos nacionais ou internacionais, nos mesmos termos dos órgãos de polícia encarregados da investigação criminal, sem prejuízo do disposto nos n.os 5 e 6.\n\n2 - Para os efeitos previstos no número anterior, o GRA pode aceder, nomeadamente, às bases de dados:\n\na) Do Instituto dos Registos e do Notariado, I. P.;\n\nb) Da Autoridade Tributária e Aduaneira;\n\nc) Da Segurança Social;\n\nd) Da Autoridade de Supervisão de Seguros e Fundos de Pensões;\n\ne) Da Comissão do Mercado de Valores Mobiliários;\n\nf) Do Banco de Portugal;\n\ng) Da Autoridade Nacional da Aviação Civil;\n\nh) Da Direção-Geral da Autoridade Marítima.\n\n3 - Quando o acesso depender de autorização de autoridade judiciária, o despacho autorizador identifica as pessoas singulares ou colectivas abrangidas pela medida e especifica as informações que devem ser prestadas, os prazos para a sua concessão e os documentos que devem ser entregues, podendo assumir forma genérica para cada um dos sujeitos abrangidos quando a especificação não seja possível.\n\n4 - Quando se trate de informações relativas a contas bancárias e não forem conhecidos os titulares das mesmas ou os intervenientes nas transacções é suficiente a identificação das contas e transacções relativamente às quais devem ser obtidas informações.\n\n5 - Com vista à realização da investigação financeira ou patrimonial referida no presente capítulo, o GRA tem acesso à informação contida na base de dados de contas mencionada no artigo 81.º-A do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, respeitante à identificação das entidades participantes em que as contas da pessoa singular ou coletiva visada pela investigação financeira ou patrimonial estão domiciliadas, sendo-lhe essa informação transmitida preferencialmente por via eletrónica.\n\n6 - O GRA e o Banco de Portugal celebram um protocolo para concretizar o acesso referido no número anterior.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1152912175": {
+   "fragment_id": "70915710",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação",
+   "in_force_from": "2017-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 9.º — Cooperação\n\n1 - O GRA coopera, a nível policial, com os gabinetes de recuperação de ativos criados por outros Estados, independentemente da designação ou do estatuto que lhes tenha sido conferido pela respetiva legislação nacional, procedendo ao intercâmbio de informações, de dados e de boas práticas.\n\n2 - O GRA coadjuva, além disso, as autoridades judiciárias na realização dos actos de cooperação judiciária pertinentes.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1152912375": {
+   "fragment_id": "1152912275",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Intercâmbio de informações",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 9.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+   ],
+   "markdown": "###### Artigo 9.º-A — Intercâmbio de informações\n\n1 - As informações fornecidas por GRA de outro Estado-Membro podem ser utilizadas como meio de prova no processo penal nacional, desde que:\n\na) Respeitem as regras processuais aplicáveis à admissibilidade de prova em processo penal, ao abrigo da legislação nacional;\n\nb) Sejam conformes com a Carta dos Direitos Fundamentais da União Europeia;\n\nc) O GRA do Estado-Membro que as disponibilize não se oponha à utilização.\n\n2 - O GRA deve recusar-se a fornecer informações ao GRA requerente de outro Estado-Membro se existirem razões factuais para presumir que a comunicação de tais informações:\n\na) Prejudicaria interesses fundamentais de segurança nacional do Estado Português;\n\nb) Comprometeria uma investigação em curso ou uma operação de informações criminais, ou constituiria uma ameaça iminente para a vida ou a integridade física de uma pessoa;\n\nc) Seria claramente desproporcional ou irrelevante em relação aos fins para os quais foi solicitada; ou\n\nd) Violaria disposições fundamentais do direito nacional.\n\n3 - Nos casos em que a informação a transmitir ao GRA de outro Estado-Membro apenas possa ser utilizada relativamente a um catálogo restrito de crimes ou de pessoas, o GRA nacional dá indicação expressa de que a informação não pode ser utilizada como prova no processo estrangeiro sem a formulação prévia de pedido de cooperação judiciária.\n\n> Aditado pelo/a Artigo 9.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01."
+  },
+  "1152908475": {
+   "fragment_id": "70915712",
+   "type": 11,
+   "heading": "Artigo 10.º — Administração de bens",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 10.º — Administração de bens\n\n1 - A administração dos bens apreendidos, arrestados, recuperados ou declarados perdidos a favor do Estado, no âmbito de processos nacionais ou de atos de cooperação judiciária internacional, é assegurada por um gabinete do Instituto de Gestão Financeira e Equipamentos da Justiça, IP (IGFEJ, IP), designado Gabinete de Administração de Bens (GAB).\n\n2 - Compete ao conselho diretivo do IGFEJ, I. P., a prática de todos os atos de administração e gestão do GAB, assim como a definição das suas normas de funcionamento e a regulamentação dos procedimentos instituídos no presente capítulo.\n\n3 - No exercício dos seus poderes de administração compete ao GAB, nos termos do disposto no presente capítulo:\n\na) Proteger, conservar e gerir os bens recuperados ou à guarda do Estado;\n\nb) Determinar a venda, ou realizá-la a solicitação da pessoa afetada, quando a autoridade judiciária tenha informado que o bem não é um meio de prova relevante;\n\nc) Determinar a afetação a finalidade pública ou socialmente útil conexa com a administração da justiça, conquanto os bens a afetar se revelem de interesse para a entidade beneficiária e sejam adequados ao exercício e prossecução das suas competências legais ou estatutárias;\n\nd) Determinar a destruição dos bens mencionados na alínea a), desde que salvaguardado o cumprimento da regulamentação comunitária aplicável;\n\ne) Assegurar a destinação dos bens recuperados ou declarados perdidos a favor do Estado por decisão transitada em julgado, sem prejuízo do disposto no n.º 5 do artigo 20.º-A;\n\nf) Exercer as demais competências que lhe sejam legalmente atribuídas.\n\n4 - O GAB exerce as suas funções no estrito respeito pelo princípio da transparência, visando a gestão racional e eficiente dos bens administrados e, se possível, o seu incremento patrimonial.\n\n5 - O GAB procede ao exame, à descrição e ao registo da avaliação do bem para efeitos de fixação do valor de eventual indemnização.\n\n6 - O GAB fornece ao GRA dados estatísticos para os efeitos do n.º 2 do artigo 3.º\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1152910675": {
+   "fragment_id": "70915714",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 12.º — Avaliação\n\n1 - Após o decurso do prazo fixado no n.º 3 do artigo 4.º ou da decisão nele prevista, o GAB procede à avaliação do bem apreendido ou arrestado, para efeitos da sua administração e de fixação do valor de eventual indemnização.\n\n2 - (Revogado.)\n\n3 - Da decisão de homologação da avaliação pelo presidente do IGFEJ, IP, cabe reclamação para o juiz à ordem de quem os bens se encontram apreendidos ou arrestados, no prazo de 10 dias após notificação, que decide por despacho irrecorrível após a realização das diligências que julgue convenientes, comunicando a decisão ao GAB, sendo correspondentemente aplicável o disposto no n.º 5 do artigo 68.º do Código de Processo Penal.\n\n4 - A pessoa afetada proprietária ou possuidora de um bem que não constitua meio de prova relevante pode requerer à autoridade judiciária competente a sua entrega contra o depósito do valor da avaliação à ordem do IGFEJ, IP.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1152910875": {
+   "fragment_id": "70915715",
+   "type": 11,
+   "heading": "Artigo 13.º — Informação prévia",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### Artigo 13.º — Informação prévia\n\n1 - Previamente à venda, afetação ou destruição de um bem antes de haver decisão de perda transitada em julgado, o GAB solicita ao Ministério Público que, no prazo de 10 dias, preste informação sobre o seu valor probatório e sobre a probabilidade da sua perda a favor do Estado.\n\n2 - [Revogado.]\n\n3 - [Revogado.]\n\n4 - O Ministério Público deve ponderar se o interesse probatório pode ser satisfeito através de amostra do bem apreendido.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  },
+  "1152911075": {
+   "fragment_id": "70915716",
+   "type": 11,
+   "heading": "Artigo 14.º — Venda antecipada",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Venda antecipada\n\n1 - Antes de haver decisão de perda transitada em julgado, o GAB procede à venda dos bens referidos no n.º 1 do artigo 185.º do Código de Processo Penal, nas condições aí previstas.\n\n2 - É correspondentemente aplicável o disposto nos n.os 2 a 7, 10, 11, 13 e 14 do artigo 185.º do Código de Processo Penal.\n\n3 - Quando o bem for um veículo automóvel, embarcação ou aeronave que tenha sido avaliado em montante inferior a 3000 €, apenas há lugar à sua venda.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 328.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "1152911275": {
+   "fragment_id": "107794601",
+   "type": 11,
+   "heading": "18.º-A — Plataforma informática",
+   "in_force_from": "2026-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.",
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+   ],
+   "markdown": "###### 18.º-A — Plataforma informática\n\n1 - O GRA e o GAB mantêm uma plataforma informática para registo e troca de informação relativa a bens que sejam objeto das atividades de investigação financeira ou patrimonial e de administração de bens nos termos previstos na presente lei.\n\n2 - Para os fins estabelecidos no número anterior, são comunicadas, logo que possível, pelas entidades competentes as seguintes categorias de dados:\n\na) Tipo de bem;\n\nb) Descrição do bem;\n\nc) Localização do bem;\n\nd) Valor do bem, resultante de estimativa ou avaliação comunicada pela entidade que efetuou o pedido de administração ao GAB e de avaliação realizada pelo GAB;\n\ne) Indicação de se tratar de bem objeto de registo;\n\nf) Indicação da existência de ónus ou encargos sobre o bem;\n\ng) Indicação do facto de estar ou não ocupado, nomeadamente pela existência de contrato de arrendamento, tratando-se de bem imóvel;\n\nh) Valor probatório do bem;\n\ni) Medidas processuais de que o bem tenha sido objeto;\n\nj) Probabilidade de perda do bem a favor do Estado ou indicação do destino último que o bem tenha tido, nomeadamente a restituição, o envio a autoridade de outro Estado em cumprimento de pedido de cooperação judiciária internacional ou a declaração de perda a favor do Estado;\n\nk) Identificação e contacto do proprietário ou legítimo possuidor do bem;\n\nl) Indicação da qualidade de pessoa afetada das pessoas mencionadas na alínea anterior;\n\nm) Identificação da entidade que efetuou o pedido de administração ao GAB;\n\nn) Data do pedido de administração;\n\no) Identificação do processo a que o bem respeita, com indicação do número único identificador de processo-crime (NUIPC) e do tribunal ou serviço do Ministério Público em que o mesmo corre termos.\n\n3 - Para os fins previstos no n.º 1, podem ser recolhidos dados não referidos no número anterior, sem prejuízo do controlo prévio da Comissão Nacional de Proteção de Dados, quando esta for exigida pelo disposto na Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto.\n\n4 - Sem prejuízo dos regimes do segredo de justiça e do segredo de Estado, para efeitos de comunicação entre as autoridades judiciárias e o GRA, no âmbito da investigação financeira ou patrimonial, e entre o GAB e essas mesmas autoridades, no âmbito do tratamento de pedidos de administração de bens, pode haver comunicação de dados, por meios eletrónicos, entre a plataforma informática prevista no n.º 1 e os sistemas informáticos de suporte à atividade dos tribunais e dos órgãos de polícia criminal.\n\n5 - Só têm acesso aos dados contidos na plataforma informática prevista no presente artigo, sem prejuízo dos regimes do segredo de justiça e do segredo de Estado e na medida do estritamente necessário para o exercício das suas competências em sede de investigação financeira ou patrimonial ou de administração de bens:\n\na) O GRA;\n\nb) O GAB;\n\nc) As autoridades judiciárias competentes;\n\nd) Os funcionários de justiça e elementos dos órgãos de polícia criminal que coadjuvam os magistrados abrangidos pela alínea anterior.\n\n6 - O acesso aos dados pelas entidades mencionadas no número anterior é registado eletronicamente, com especificação da identidade do utilizador que o realizou, da data e hora do seu início e do seu fim e dos dados que o mesmo abrangeu, bem como das operações efetuadas sobre os dados.\n\n7 - Tendo em vista a segurança da informação, são objeto de controlo:\n\na) A entrada nas instalações utilizadas para o armazenamento de dados, a fim de impedir o acesso às mesmas por pessoa não autorizada;\n\nb) Os suportes utilizados, a fim de impedir que possam ser lidos, copiados, alterados ou retirados por pessoa não autorizada;\n\nc) O acesso aos dados, a fim de assegurar que é efetuado apenas por pessoas autorizadas e que se processa nos termos do presente artigo;\n\nd) A inserção, a alteração, a eliminação e a realização de qualquer outra operação sobre os dados, de forma a verificar-se que operações foram realizadas, quando e por quem, e para impedir a introdução, assim como qualquer tomada de conhecimento, alteração ou eliminação não autorizadas dos mesmos;\n\ne) Os sistemas de tratamento automatizado de dados, para impedir que possam ser utilizados por pessoas não autorizadas;\n\nf) A transmissão de dados, para garantir que o envio destes se limite às entidades autorizadas;\n\ng) A transmissão de dados e o transporte de suportes de dados, para impedir que os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada;\n\nh) O acesso aos dados a partir de fora das instalações físicas onde se encontram armazenados, de modo a garantir a sua segurança.\n\n8 - Para efeitos do disposto na Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto, a responsabilidade pelo tratamento dos dados tratados ao abrigo do presente artigo compete:\n\na) À Polícia Judiciária, no que respeita aos dados registados pelo GRA;\n\nb) Ao IGFEJ, I. P., no que respeita aos dados registados pelo GAB;\n\nc) Às entidades que, nos termos da Lei n.º 34/2009, de 14 de julho, forem responsáveis pelo tratamento dos dados comunicados ao abrigo do n.º 3.\n\n9 - O titular dos dados pode exercer os direitos de acesso e de retificação mediante requerimento dirigido a qualquer das entidades referidas no número anterior, a qual, não sendo a entidade responsável, procede ao seu reencaminhamento.\n\n10 - Sem prejuízo do disposto no número seguinte, os dados recolhidos ao abrigo do presente artigo são eliminados após a verificação cumulativa das seguintes circunstâncias:\n\na) Ter sido assegurada a destinação dos bens a que respeitam;\n\nb) Estar findo o processo a que os bens em causa respeitam;\n\nc) Já não ser possível, em fase executiva, a investigação financeira ou patrimonial, por força do disposto no artigo 112.º-A do Código Penal.\n\n11 - Para fins estatísticos, os dados a que se refere o número anterior podem ser mantidos para lá do prazo resultante do que ali se dispõe, desde que anonimizados.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 37/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/lei/37-2026-1152696582), em vigor a partir de 2026-09-01.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 30/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/30-2017-107094725), em vigor a partir de 2017-05-31"
+  }
+ }
+}

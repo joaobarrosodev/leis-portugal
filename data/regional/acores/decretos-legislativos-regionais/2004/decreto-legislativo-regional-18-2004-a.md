@@ -1,0 +1,454 @@
+---
+schema_version: '1.0'
+id: pt:dre:268646:por
+title: Decreto Legislativo Regional n.º 18/2004/A
+short_title: null
+summary: Adapta à Região Autónoma dos Açores os Decretos-Leis n.os 550/99, de 15 de Dezembro, e 554/99, de 16 de Dezembro,
+  que, respectivamente, estabelecem o regime jurídico da actividade de inspecção técnica de veículos a motor e seus reboques
+  e o regime jurídico das inspecções técnicas de automóveis ligeiros, pesados e reboques
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 18/2004/A
+official_date: null
+publication_date: '2004-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 112/2004, Série I-A de 2004-05-13
+  number: '112'
+  series: I
+  supplement: null
+  pages: 3017 - 3024
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/05/112a00/30173024.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-25'
+version_history:
+  file: decreto-legislativo-regional-18-2004-a.versoes.json
+  count: 3
+  source_lastmod: '2025-06-04'
+  versions:
+  - date: '2004-05-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-11-01'
+    amending: pt:dre:546001:por
+    amending_title: Decreto Legislativo Regional n.º 40/2006/A
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 12.º
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2025-03-25'
+    amending: pt:dre:912066250:por
+    amending_title: Decreto Legislativo Regional n.º 13/2025/A
+    changes:
+    - Adita Artigo 6.º-B
+    - Adita Artigo 12.º-A
+    - Altera Artigo 14.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Revoga Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/18/2004/a/cons/20250324/pt/html
+  oj: null
+  dre: '268646'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/18-2004-268646
+  internal: pt:dre:268646:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2004-268646
+  metadata_url: https://data.dre.pt/eli/declegreg/18/2004/a/cons/20250324/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-912107211
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-912107211
+  retrieved_at: '2026-10-22T13:27:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-04T00:00:00Z'
+integrity:
+  source_sha256: 1929462449f2c305be0d2108c067e72e68b0ce78b3ccb37bfed5849fc25d40a0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:27:56Z'
+  notes: 3 versão(ões); histórico completo em decreto-legislativo-regional-18-2004-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Multa
+- Governo Regional
+- Contra-ordenação
+- Inspecção de Veículos
+- Veículo
+- Preço
+- Regime Jurídico
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:546001:por
+  label: Adita Artigo 6.º-A; Altera Artigo 12.º; Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2006-546001
+  date: '2006-10-31'
+- type: amended_by
+  target: pt:dre:912066250:por
+  label: Adita Artigo 6.º-B; Adita Artigo 12.º-A; Altera Artigo 14.º; Altera Anexo I; Altera Anexo II; Revoga Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250
+  date: '2025-03-24'
+- type: cites
+  target: celex:31996L0096
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/96/oj
+- type: cites
+  target: celex:31999L0052
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/52/oj
+- type: transposes
+  target: celex:31996L0096
+  label: null
+  source: null
+- type: transposes
+  target: celex:31999L0052
+  label: null
+  source: null
+article_structure:
+  article_count: 19
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:27:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 18/2004/A
+
+Decreto Legislativo Regional n.º 18/2004/A
+
+Adapta à Região Autónoma dos Açores os Decretos-Leis n.os 550/99, de 15 de Dezembro, e 554/99, de 16 de Dezembro, que, respectivamente, estabelecem o regime jurídico da actividade de inspecção técnica de veículos a motor e seus reboques e o regime jurídico das inspecções técnicas de automóveis ligeiros, pesados e reboques.
+
+O Decreto-Lei n.º 550/99, de 15 de Dezembro, veio estabelecer o novo regime jurídico da actividade de inspecção técnica de veículos a motor e seus reboques, enquanto que o Decreto-Lei n.º 554/99, de 16 de Dezembro, veio transpor para a ordem jurídica interna a Directiva n.º 96/96/CE, do Conselho, de 20 de Dezembro, alterada pela Directiva n.º 1999/52/CE, da Comissão, de 26 de Maio, e regular as inspecções técnicas de automóveis ligeiros, pesados e reboques.
+
+Tais regimes jurídicos carecem, no entanto, de adaptação à organização administrativa regional, bem como às especificidades próprias da Região Autónoma dos Açores, no que respeita ao exercício da actividade e funcionamento das inspecções técnicas de veículos a motor e seus reboques.
+
+Com efeito, desde logo, caracterizando-se o parque automóvel regional pela sua particular dimensão e distribuição geográfica, importa consagrar e manter soluções que garantam uma prestação de serviço com regularidade adequada e o mais próxima possível das populações locais. É, pois, na prossecução desse objectivo que se consagra a existência de centros de inspecção móveis.
+
+De igual modo, a considerável fragmentação das explorações agrícolas existentes na Região torna inevitável a circulação nas vias públicas de tractores e reboques agrícolas, não só entre explorações como de e para os postos de abastecimento ou de entrega de produtos agrícolas, importando, por razões de segurança rodoviária, manter estes veículos em boas condições de circulação.
+
+Importa, também, introduzir a inspecção periódica de motociclos e ciclomotores por forma a assegurar que a circulação destes na via pública se processe com segurança e qualidade ecológica. Com efeito, as especiais condições climatéricas da Região, caracterizadas por nevoeiros frequentes e intensa pluviosidade, aconselham que a circulação de tais veículos seja convenientemente sinalizada. Por outro lado, importa evitar focos de poluição que possam estar associados a deficiências mecânicas dos veículos em questão, designadamente ao nível do ruído e gases de escape.
+
+No que respeita às viaturas afectas ao regime de aluguer sem condutor, há necessidade de antecipar a primeira inspecção periódica e reduzir o intervalo temporal nas inspecções subsequentes, não só pelo facto de aquelas estarem sujeitas a um desgaste mais acentuado, mas também pelo facto de em algumas ilhas da Região se verificarem dificuldades ao nível da manutenção preventiva, por insuficiência de meios técnicos e humanos.
+
+Dadas as reconhecidas limitações do mercado de trabalho regional ao nível de técnicos habilitados para exercer as funções de director técnico das entidades autorizadas a realizar inspecções a veículos, torna-se necessário prever um regime habilitacional mais consentâneo com essa realidade.
+
+Consagra-se, também, a verificação, pelos centros de inspecção, da existência dos títulos de licenciamento a que determinados veículos estão obrigados para circularem na via pública e a confirmação de existência de contrato válido de seguro de responsabilidade civil automóvel.
+
+Por último, importa ajustar a execução dos diplomas em referência à organização administrativa regional, tendo em conta as atribuições e competências próprias dos seus órgãos e serviços nos domínios a que respeitam.
+
+A Assembleia Legislativa Regional decreta, nos termos da alínea c) do n.º 1 do artigo 227.º da Constituição e da alínea e) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+Os Decretos-Leis n.os 550/99, de 15 de dezembro, e 554/99, de 16 de dezembro, que, respetivamente, estabelecem o regime jurídico da atividade de inspeção técnica de veículos a motor e seus reboques e o regime jurídico das inspeções técnicas de automóveis ligeiros, pesados e reboques, aplicam-se na Região Autónoma dos Açores, com as adaptações constantes do presente diploma.
+
+###### Artigo 2.º — Competências
+
+1 - As competências conferidas pelos diplomas referidos no artigo anterior a órgãos e serviços da administração central são exercidas na Região Autónoma dos Açores pelos correspondentes órgãos e serviços do Governo Regional, nos termos seguintes:
+
+a) As competências conferidas ao Ministro da Administração Interna são exercidas pelo membro do Governo Regional competente em matéria de transportes terrestres;
+
+b) As competências conferidas ao Ministro da Economia são exercidas pelo membro do Governo Regional competente em matéria de comércio e de defesa do consumidor;
+
+c) As competências conferidas à Direção-Geral de Viação são exercidas pela direção regional competente em matéria de transportes terrestres;
+
+d) As competências conferidas ao diretor-geral de Viação e ao diretor de serviços de viação da área de localização do centro de inspeção são exercidas pelo diretor regional competente em matéria de transportes terrestres.
+
+2 - Para efeito de candidatura à obtenção de autorização para o exercício da atividade de inspeção de veículos, o âmbito e a estrutura do estudo demonstrativo de viabilidade técnica e económica, assim como os indicadores de capacidade financeira, são definidos por portaria do membro do Governo Regional referido na alínea a) do número anterior.
+
+3 - As tarifas de valor fixo que incidem sobre inspeções e reinspeções dos veículos são estabelecidas por portaria conjunta dos membros do Governo Regional referidos nas alíneas a) e b) do n.º 1.
+
+4 - As normas de concurso público com vista à instalação de centros de inspeção por entidades previamente autorizadas constam de regulamento aprovado por portaria do membro do Governo Regional referido na alínea a) do n.º 1.
+
+5 - As inspeções técnicas de veículos só podem ser efetuadas por inspetores devidamente licenciados pela direção regional competente em matéria de transportes terrestres ou por outro órgão que disponha de competência legal para tal, designadamente a Direção-Geral de Viação.
+
+6 - Os quadros relativos à classificação das deficiências encontradas nas observações e verificações dos pontos de controlo obrigatório dos veículos sujeitos a inspeção são fixados por portaria do membro do Governo Regional referido na alínea a) do n.º 1.
+
+7 - Os termos e condições da apresentação dos documentos do veículo com vista à realização de inspeção para a atribuição de nova matrícula são fixados por portaria do membro do Governo Regional referido na alínea a) do n.º 1.
+
+###### Artigo 3.º — Diretor técnico
+
+Sem prejuízo do disposto no n.º 2 do artigo 8.º do Decreto-Lei n.º 550/99, de 15 de dezembro, as funções de diretor técnico da entidade autorizada a exercer a atividade de inspeção de veículos também podem ser desempenhadas por inspetor, devidamente licenciado, que tenha realizado inspeções técnicas de veículos, pelo menos, durante três anos.
+
+###### Artigo 4.º — Tipos de centros de inspeção
+
+1 - Os centros de inspeção podem adotar uma das seguintes estruturas de funcionamento:
+
+a) Centro fixo - estabelecimento constituído pelo conjunto de terreno, edifício, área de estacionamento, equipamentos, meios técnicos e direitos inerentes onde uma entidade autorizada exerce, de forma continuada, a atividade de inspeção de veículos;
+
+b) Centro móvel - estabelecimento constituído pelo conjunto de equipamentos e meios técnicos necessários à realização de inspeção de veículos, ao qual estão adstritos os terrenos e áreas de estacionamento onde uma entidade autorizada exercerá, periodicamente, a atividade de inspeção de veículos.
+
+2 - O disposto no número anterior não prejudica a classificação do centro de inspeção numa das categorias previstas no artigo 21.º do Decreto-Lei n.º 550/99, de 15 de dezembro, de acordo com o tipo de inspeções que realiza.
+
+3 - A definição dos requisitos a observar quanto a instalações, acessos e áreas de estacionamento, equipamentos, número de inspetores e outros aspetos técnicos, bem como os trâmites processuais conducentes à aprovação dos centros de inspeção são estabelecidos por portaria do membro do Governo Regional referido na alínea a) do n.º 1 do artigo 2.º
+
+###### Artigo 5.º — Centros móveis
+
+1 - Sem prejuízo do disposto no número seguinte, os centros móveis funcionarão apenas nas ilhas onde não existam centros fixos.
+
+2 - As inspeções periódicas dos tratores agrícolas e seus reboques poderão ser efetuadas em centros móveis.
+
+3 - Só será permitida a instalação de centros móveis às entidades autorizadas que disponham de um centro fixo, aprovado e em funcionamento, na Região Autónoma do Açores, considerando-se aqueles como uma extensão da atividade deste último.
+
+4 - A instalação de centros móveis depende de autorização a conceder pela direção regional competente em matéria de transportes terrestres.
+
+5 - Nas ilhas onde a inspeção técnica de veículos se efetue exclusivamente em centro móvel, este funcionará, pelo menos, durante dois períodos por ano, um em cada semestre.
+
+6 - As datas de início e termo dos períodos de funcionamento dos centros móveis são fixadas por despacho do diretor regional competente em matéria de transportes terrestres, devendo ser divulgadas pela respetiva direção regional, bem como pelas restantes entidades autorizadas.
+
+###### Artigo 6.º — Veículos sujeitos a inspeção
+
+Estão sujeitos a inspeção os veículos constantes do anexo i ao presente diploma, que dele faz parte integrante.
+
+###### Artigo 6.º-A — Periodicidade da inspeção dos veículos constantes do anexo I do Decreto-Lei n.º 554/99, de 16 de dezembro
+
+A periodicidade da inspeção dos automóveis pesados de passageiros, automóveis pesados de mercadorias, reboques e semirreboques com peso bruto superior a 3500 kg, com exceção dos reboques agrícolas, automóveis ligeiros licenciados para transporte público de passageiros e ambulâncias, automóveis ligeiros de mercadorias, automóveis ligeiros de passageiros, automóveis utilizados no transporte escolar e automóveis ligeiros licenciados para a instrução, e restantes automóveis ligeiros, referidos no anexo i do Decreto-Lei n.º 554/99, de 16 de dezembro, é a seguinte:
+
+a) Automóveis pesados de passageiros, um ano após a data da primeira matrícula e em seguida anualmente;
+
+b) Automóveis pesados de mercadorias, um ano após a data da primeira matrícula e em seguida anualmente;
+
+c) Reboques e semirreboques com peso bruto superior a 3500 kg, com exceção dos reboques agrícolas, um ano após a data da primeira matrícula e em seguida anualmente;
+
+d) Automóveis ligeiros licenciados para transporte público de passageiros e ambulâncias, um ano após a data da primeira matrícula e em seguida anualmente;
+
+e) Automóveis ligeiros de mercadorias, quatro anos após a data da primeira matrícula e em seguida de dois em dois anos;
+
+f) Automóveis ligeiros de passageiros, quatro anos após a data da primeira matrícula e em seguida de dois em dois anos;
+
+g) Automóveis utilizados no transporte escolar e automóveis ligeiros licenciados para a instrução, um ano após a data da primeira matrícula e em seguida anualmente;
+
+h) Restantes automóveis ligeiros, quatro anos após a data da primeira matrícula e em seguida de dois em dois anos.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 40/2006/A - Diário da República n.º 210/2006, Série I de 2006-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2006-546001), em vigor a partir de 2006-11-01
+
+###### Artigo 6.º-B — Tratores agrícolas e seus reboques
+
+A inspeção dos tratores agrícolas e seus reboques é válida por um ano após a data da inspeção periódica ou até à próxima deslocação do centro de inspeções ao concelho da morada fiscal do proprietário.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25
+
+###### Artigo 7.º — Procedimentos de inspeção
+
+Nas inspeções periódicas dos veículos constantes do anexo I, as observações e verificações referidas no n.º 1 do artigo 4.º do Decreto-Lei n.º 554/99, de 16 de dezembro, incidirão nos pontos indicados no anexo ii ao presente diploma, que dele faz parte integrante.
+
+###### Artigo 8.º — Periodicidade das inspeções realizadas exclusivamente em centros móveis
+
+Nas ilhas onde as inspeções periódicas se efetuem exclusivamente em centro móvel, os veículos que não possam apresentar-se à primeira inspeção anual e às subsequentes durante o mês correspondente ao da matrícula inicial, de acordo com a periodicidade prevista no presente diploma e no Decreto-Lei n.º 554/99, de 16 de dezembro, em virtude de aquele mês não coincidir com o período de funcionamento do centro móvel respetivo, poderão circular sem restrições até ao período de inspeções imediatamente subsequente, ao qual deverão apresentar-se.
+
+###### Artigo 9.º — Prova da realização da inspecção
+
+A vinheta comprovativa da realização da inspecção periódica a que se refere o n.º 1 do artigo 8.º do Decreto-Lei n.º 554/99, de 16 de Dezembro, deverá ser exibida em local bem visível do veículo inspeccionado.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25
+
+###### Artigo 10.º — Seguro de responsabilidade civil automóvel
+
+Para além das deficiências graduadas no artigo 9.º do Decreto-Lei n.º 554/99, de 16 de dezembro, como sendo do tipo 2, constitui deficiência desse tipo a não comprovação no ato de inspeção da existência de contrato em vigor de seguro obrigatório de responsabilidade civil automóvel.
+
+###### Artigo 11.º — Documentos a apresentar
+
+Para além dos documentos enunciados no artigo 11.º do Decreto-Lei n.º 554/99, de 16 de dezembro, como sendo de apresentação obrigatória no ato de inspeção, deve o apresentante exibir título de licenciamento a que o veículo está obrigado decorrente da sua afetação a determinada atividade económica, nos termos da respetiva legislação em vigor, sem o qual a inspeção não pode ser efetuada.
+
+###### Artigo 12.º — Veículo inspecionado em centro móvel
+
+1 - Nas ilhas onde a inspeção técnica de veículos se efetue exclusivamente em centro móvel, aos veículos reprovados que não possam regressar para confirmar a correção das deficiências anotadas na ficha de inspeção por ter decorrido o período de funcionamento a que aquele se encontrava adstrito e aos que por se encontrarem retidos para reparação ou para revenda é permitido circular sem restrições até ao período de inspeções subsequente, desde que se façam acompanhar de uma declaração de reparação de tais deficiências e da correspondente fatura, no primeiro caso, ou de declaração de retenção para reparação ou revenda, no segundo caso, emitidas por entidade autorizada a exercer a atividade de reparação de veículos terrestres a motor, ou por entidade autorizada para a venda de veículos.
+
+2 - O disposto no número anterior não se aplica aos veículos que tenham sido reprovados por apresentarem a deficiência do tipo 2 referida no artigo 10.º do presente diploma, os quais não poderão circular na via pública enquanto aquela não for corrigida.
+
+3 - Na impossibilidade de os veículos regressarem ao centro móvel pelos motivos referidos no n.º 1, a confirmação da correção da deficiência a que alude o número anterior poderá ser feita junto dos serviços do departamento do Governo Regional com atribuições em matéria de transportes terrestres, com sede na ilha onde decorreu a inspeção.
+
+4 - Confirmada a correção da deficiência pelos serviços referidos no número anterior, estes anotá-la-ão na ficha de inspeção do veículo, devendo tal facto ser comunicado ao centro de inspeção respetivo.
+
+5 - Se nos três dias úteis seguintes à data de reabertura do centro móvel o veículo não for apresentado a reinspeção ou, sendo-o, se se mantiverem algumas das deficiências detetadas no âmbito de verificação anterior, será o mesmo reprovado, devendo tal facto ser comunicado à direção regional competente em matéria de transportes terrestres para efeitos do disposto na alínea g) do n.º 1 do artigo 167.º do Código da Estrada.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2006/A - Diário da República n.º 210/2006, Série I de 2006-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2006-546001), em vigor a partir de 2006-11-01
+
+###### Artigo 12.º-A — Prevenção rodoviária
+
+O departamento do Governo Regional com competência em matéria de transportes pode celebrar protocolos de cooperação com as associações, sem fins lucrativos, legalmente constituídas e com sede ou núcleo nos Açores, que realizem ações de sensibilização para a prevenção e segurança rodoviárias na Região.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25
+
+###### Artigo 13.º — Produtos das coimas
+
+1 - O produto resultante da cobrança de coimas aplicadas no seguimento de processos de contraordenação, instaurados na Região Autónoma dos Açores ao abrigo dos Decretos-Leis n.ºs 550/99, de 15 de dezembro, e 554/99, de 16 de dezembro, e do presente diploma, reverterá:
+
+a) 40% para os cofres da Região;
+
+b) 24% para o Fundo Regional dos Transportes;
+
+c) 36% para a entidade fiscalizadora.
+
+2 - Para efeitos do disposto no número anterior, compete ao Fundo Regional dos Transportes a cobrança integral do produto das coimas que forem aplicadas, transferindo em seguida para o Orçamento da Região Autónoma dos Açores e para as contas das entidades fiscalizadoras as importâncias respetivas.
+
+3 - Se a entidade fiscalizadora for um órgão ou serviço da administração regional, a percentagem do produto das coimas referida na alínea c) do n.º 1 reverte para o Fundo Regional dos Transportes.
+
+4 - A importância prevista no n.º 2 do artigo 16.º do Decreto-Lei n.º 550/99, de 15 de Dezembro, na Região Autónoma dos Açores, é paga, mensalmente, ao Fundo Regional dos Transportes pelas entidades autorizadas.
+
+5 - O Fundo Regional dos Transportes, no sentido de promover a prevenção rodoviária na Região Autónoma dos Açores, pode estabelecer protocolos com entidades públicas ou privadas que exerçam a sua atividade naquela área, podendo para tal afetar até metade da importância prevista no número anterior.
+
+###### Artigo 14.º — Contra-ordenações e coimas
+
+1 - Sem prejuízo das contra-ordenações, coimas e sanções acessórias estabelecidas nos Decretos-Leis n.os 550/99, de 15 de Dezembro, e 554/99, de 16 de Dezembro, as infracções ao disposto no presente diploma constituem contra-ordenações sancionadas com as seguintes coimas:
+
+a) (Revogada.)
+
+b) De (euro) 60 a (euro) 300, a circulação do veículo sem se fazer acompanhar dos documentos a que se refere o n.º 1 do artigo 12.º, salvo se os mesmos forem apresentados no prazo de oito dias à autoridade indicada pelo agente de fiscalização, caso em que a infracção é sancionada com coima de (euro) 30 a (euro) 150;
+
+c) De (euro) 250 a (euro) 1250, a circulação do veículo sem a reparação das deficiências a que se refere o n.º 1 do artigo 12.º;
+
+d) De (euro) 1000 a (euro) 5000, a infracção ao disposto nos n.os 4, 5 e 6 do artigo 5.º e no n.º 4 do artigo 13.º
+
+2 - Pelas contra-ordenações previstas nas alíneas a) e b) do número anterior é responsável o condutor do veículo.
+
+3 - Pela contra-ordenação prevista na alínea c) do n.º 1 é responsável quem for proprietário, adquirente com reserva de propriedade, usufrutuário, locatário em regime de locação financeira, locatário por prazo superior a um ano ou quem, em virtude de facto sujeito a registo, tiver a posse do veículo.
+
+4 - Pela contra-ordenação prevista na alínea d) do n.º 1 é responsável a entidade autorizada.
+
+5 - Nas contra-ordenações previstas no presente diploma a negligência é sempre punida.
+
+6 - O processamento das contra-ordenações por infracção ao disposto no presente diploma e nos diplomas por este adaptados compete à direcção regional competente em matéria de transportes terrestres, sendo as correspondentes sanções aplicadas pelo respectivo director regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25
+
+###### Artigo 15.º — Normas transitórias
+
+1 - As entidades autorizadas na Região Autónoma dos Açores para o exercício da atividade de inspeção de veículos e que exercem a atividade devem, no prazo máximo de um ano a contar da data da entrada em vigor do presente diploma, comprovar, na direção regional competente em matéria de transportes terrestres, que reúnem as condições previstas nos artigos 5.º, 7.º e 8.º do Decreto-Lei n.º 550/99, de 15 de dezembro, de acordo com as adaptações ora introduzidas, sob pena de revogação da autorização concedida.
+
+2 - Os centros de inspeção em funcionamento à data de entrada em vigor do presente diploma devem, no prazo máximo de seis meses a contar dessa data, estar nas condições previstas no n.º 6 do artigo 26.º do Decreto-Lei n.º 550/99, de 15 de dezembro.
+
+3 - Sem prejuízo do prazo previsto no número anterior, a direção regional competente em matéria de transportes terrestres deve notificar os centros de inspeção em funcionamento da entrada em vigor do presente diploma.
+
+###### Artigo 16.º — Disposição final
+
+Na fixação das tarifas a que se refere o artigo 2.º, o Governo Regional terá em consideração o estado das rodovias suscetível de provocar um desgaste excecional nos veículos que nelas circulam.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 16 de Março de 2004.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 26 de Abril de 2004.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
+
+## Anexo I — Veículos sujeitos a inspeção
+
+(a que se refere o artigo 6.º)
+
+| Veículos | Periodicidade |
+| --- | --- |
+| Tratores agrícolas e seus reboques, independentemente do seu peso bruto | Quatro anos após a data da primeira matrícula e, em seguida, anualmente |
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2006/A - Diário da República n.º 210/2006, Série I de 2006-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2006-546001), em vigor a partir de 2006-11-01
+
+## Anexo II — Pontos de controlo obrigatório aos veículos constantes do anexo i
+
+(a que se refere o artigo 7.º)
+
+Tratores agrícolas e seus reboques
+
+| Pontos a controlar | Razões da não aprovação |
+| --- | --- |
+| 1 - Dispositivos de travagem: |  |
+| 1.1 - Estado mecânico e funcionamento: |  |
+| 1.1.1 - Cabos dos travões e comandos | Cabos/comandos danificadosDesgaste ou corrosão excessivosLigações dos cabos ou dos tirantes insegurasQuaisquer entraves ao movimento livre do dispositivo de travagemCurso excessivo no pedal ou reserva insuficiente (trator)Folgas transversais no pedal do travão (trator) |
+| 1.1.2 - Comportamento funcional | Travagem não modulável/ocorrência de bloqueamento (trator)Inexistência de variação gradual do esforço de travagem - trepidação (trator)Recuperação insuficiente após atuação (trator)Pedal do travão com superfície antiescorregamento inexistente, mal fixa ou gasta (trator)Travão de estacionamento com mau desempenho, bloqueio insuficiente ou curso longo |
+| 1.1.3 - Eficiência | Relação de travagem relacionada com a massa máxima autorizada inferior a 50 % (trator ou desacelerógrafo)Translação excessiva do veículo em teste de estrada |
+| 1.1.4 - Unidades de assistência à travagem | Bomba central (se existir) com fugas ou má fixaçãoInsuficiência de fluido ou falta de tampa do reservatório |
+| 1.1.5 - Cintas, discos e calços dos travões | Desgaste excessivo das cintasTambores (se acessíveis) com desgaste excessivoAtacados por óleo, gorduras, etc.Riscos e fissuras nos discos |
+| 1.1.6 - Sistema de acoplamento de travões (trator/reboque) | Torneiras ou válvulas deficientes, estanquidade nos acoplamentos insuficiente e montagem deficiente |
+| 2 - Direção: |  |
+| 2.1 - Volante/coluna (trator) | Folga radial ou longitudinalEstado dos rolamentos da coluna ou interferências no movimento completo do guiadorCardans com folgasFixação deficiente do volante/coluna, deformações ou soldadurasFixação defeituosa do sistema de direção |
+| 2.2 - Caixa de direção (trator) | Fixação deficienteFugas, folgas e estado dos guarda-pós |
+| 2.3 - Limitadores de direção (trator) | Regulação deficiente, deformação ou ausência |
+| 2.4 - Barras de direção, tirantes, rótulas e articulações (trator) | Deformações, fissuras ou soldadurasLigações defeituosas e folgas |
+| 2.5 - Direção assistida (trator) (quando existir) | Fugas de fluido e tubagem não homologada |
+| 3 - Visibilidade: |  |
+| 3.1 - Campo de visibilidade | Reduzido por colocação de objetos estranhos no para-brisas (tratores cabinados)Reduzido por aplicação de autocolantes nos vidros da frente e retaguarda (tratores cabinados)Reduzido por existência de palas de sol deterioradas ou ausência (tratores cabinados)Reduzido por existência de vidros com fissuras, riscos e manchas (tratores cabinados) |
+| 3.1.2 - Limpa-vidros e lava-vidros | Limpa-vidros e lava-vidros inoperacionais (tratores cabinados) |
+| 3.1.3 - Retrovisores | Espelhos retrovisores - ausência, deterioração ou fixação/regulação deficiente |
+| 4 - Luzes, refletores e equipamento elétrico: |  |
+| 4.1 - Luzes de estrada (máximos) e luzes de cruzamento (médios): |  |
+| 4.1.1 - Estado e funcionamento | Não funcionamento ou ausência de faróisÓticas, vidros, lâmpadas com deficiência ou partidasMontagem não regulamentar ou colocação deficienteCor de óticas ou vidros irregulares |
+| 4.1.2 - Alinhamento e eficácia | Orientação assimétricaIntensidade reduzida dos feixes luminosos. |
+| 4.1.3 - Interruptores | Mau estado ou fixação deficiente |
+| 4.2 - Luzes de presença, delimitadoras, chapa de matrícula | Estado deteriorado e funcionamento incorretoCor incorreta e eficiência visual insuficienteInterruptores em mau estado ou mal fixos |
+| 4.3 - Luzes de travagem, indicadores de mudança de direção e luzes de chapa de matrícula | Estado deteriorado e funcionamento incorretoCor incorreta ou eficiência visual insuficienteInterruptores em mau estado ou mal fixo |
+| 4.4 - Luzes de perigo | Estado, funcionamento de comutadoresNão funcionamento ou falta de intermitência |
+| 4.5 - Luzes de nevoeiro à retaguarda (quando instaladas) | Fixação, cor e eficácia não regulamentar |
+| 4.6 - Luz rotativa | Cor não regulamentar, ausência ou não funcionamento |
+| 4.7 - Refletores à retaguarda (não reboques) | Ausência, mau estado ou colocação irregular |
+| 4.8 - Placas retrorrefletoras (reboques) | Ausência, mau estado ou colocação irregular |
+| 4.9 - Triângulo de marcha lenta | Ausência, mau estado ou irregular |
+| 4.10 - Ligações elétricas | Estado, fixação deficiente |
+| 4.11 - Luzes do painel de instrumentos | Iluminação do velocímetro inexistente ou deficienteAusência de luzes avisadoras ou ineficiência |
+| 4.12 - Triângulo de pré-sinalização | Ausência, estado ou não homologação |
+| 5 - Equipamento diverso: |  |
+| 5.1 - Banco do condutor | Estado, deficiente fixação |
+| 5.2 - Bateria | Fixação |
+| 5.3 - Avisador sonoro | Funcionamento ou inexistência |
+| 5.4 - Velocímetro | Inexistente |
+| 6 - Efeitos nocivos: |  |
+| 6.1 - Sistema de escape | Fugas, montagem deficiente |
+| 6.2 - Emissão de gases de escape | Teor superior ao regulamentar |
+| 6.3 - Ruído | Nível superior ao regulamentar |
+| 6.4 - Derrames | Derrames de óleo ou fluidos poluentes |
+| 7 - Eixos, rodas, suspensão e transmissão: |  |
+| 7.1 - Eixos | Fissuras, deformações e soldaduras |
+| 7.2 - Jantes | Deformações, fissuras ou soldadurasFixação deficiente ou corrosão excessiva |
+| 7.3 - Pneumáticos | Profundidade dos rastos não regulamentarCortes, fissuras |
+| 7.5 - Transmissão | Apoios, fixação e fugas |
+| 8 - Quadro e acessórios do quadro: |  |
+| 8.1 - Estado geral | Deformações, corrosão e fissuras |
+| 8.2 - Tubos de escape e silenciador | Deficiente fixação, fugas ou corrosão excessiva |
+| 8.3 - Reservatório e canalizações de combustível | Inexistência de tampãoCanalizações deterioradas, má fixação ou deformações |
+| 8.4 - Cabina (se existir): |  |
+| 8.4.1 - Estado geral | Deformações, corrosão excessiva |
+| 8.4.2 - Fixação | Deficiente fixação |
+| 8.4.3 - Portas e fechos | Funcionamento deficiente |
+| 8.5 - Dispositivo de engate para reboque | Deformação ou má fixação do dispositivo de engateInexistência do dispositivo de segurança de engate |
+| 9 - Identificação do veículo: |  |
+| 9.1 - Chapa de matrícula | Deficiente ou inexistente |
+| 9.2 - Número do quadro | Não legível, inexistente ou diferente do constante no livrete |
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2025/A - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2025-912066250), em vigor a partir de 2025-03-25
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 40/2006/A - Diário da República n.º 210/2006, Série I de 2006-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2006-546001), em vigor a partir de 2006-11-01

@@ -1,0 +1,220 @@
+---
+schema_version: '1.0'
+id: pt:dre:622127:por
+title: Decreto n.º 16/91
+short_title: null
+summary: Aprova o Acordo Especial, por troca de notas, entre a República Portuguesa e a República Federal da Alemanha relativo
+  ao projecto «Apoio na racionalização do emparcelamento», no âmbito da cooperação técnica luso-alemã
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 16/91
+official_date: null
+publication_date: '1991-04-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 78/1991, Série I-A de 1991-04-04
+  number: '78'
+  series: I
+  supplement: null
+  pages: 1716 - 1719
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/04/078a00/17161719.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/16/1991/04/04/p/dre/pt/html
+  oj: null
+  dre: '622127'
+  dre_path: /dr/detalhe/decreto/16-1991-622127
+  internal: pt:dre:622127:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1991-622127
+  metadata_url: https://data.dre.pt/eli/dec/16/1991/04/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/16-1991-622127
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-04-04T00:00:00Z'
+integrity:
+  source_sha256: 33f4368982962c30bb0e610dfb5b7c7b512d7b9a3edbb448341bcd16ee7237da
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-16-622127.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Cooperação Técnica
+- Portugal
+- Emparcelamento
+- RFA
+- Cooperação Agrícola
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 16/91
+
+de 4 de Abril
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado o Acordo Especial, por troca de notas, concluído em Lisboa, a 19 de Novembro de 1990, entre o Governo da República Portuguesa e o Governo da República Federal da Alemanha relativo ao projecto, no âmbito da cooperação técnica luso-alemã, «Apoio na racionalização do emparcelamento», cujo texto em língua portuguesa e em língua alemã segue em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Arlindo Marques da Cunha.
+
+**Assinado em 20 de Março de 1991.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 25 de Março de 1991.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+Ministério dos Negócios Estrangeiros.
+
+Gabinete do Ministro.
+
+Lisboa, 19 de Novembro de 1990.
+
+A S. Ex.ª o Embaixador da República Federal da Alemanha em Portugal.
+
+Excelência:
+
+Tenho a honra de acusar a recepção da nota de V. Ex.ª de 7 de Junho de 1989, do teor seguinte:
+
+Sr. Ministro:
+
+Com referência às Conversações Intergovernamentais Luso-Alemãs, realizadas em 5 e 6 de Novembro de 1987 em Lisboa, e aos Acordos Especiais de 21 de Setembro/2 de Outubro de 1981, 26 de Agosto/19 de Novembro de 1985 e 1 de Setembro de 1986/11 de Junho de 1987, bem como em execução do Acordo sobre Cooperação Técnica, assinado em 9 de Junho de 1980 entre os nossos dois Governos, tenho a honra de propor a V. Ex.ª, em nome do Governo da República Federal da Alemanha, o seguinte Acordo Especial sobre o projecto «Apoio na racionalização do emparcelamento» (doravante também designado por «projecto»):
+
+1 - 1) O Governo da República Federal da Alemanha e o Governo da República Portuguesa darão prosseguimento à cooperação no domínio do emparcelamento, com o objectivo de melhorar a estrutura fundiária portuguesa.
+
+2) Para alcançar esse objectivo, o Governo da República Federal da Alemanha apoiará o Ministério da Agricultura, Pescas e Alimentação da República Portuguesa, nomeadamente da seguinte maneira:
+
+Divulgação do emparcelamento como instrumento integral da reestruturação fundiária e do desenvolvimento rural junto de todas as instituições que possam intervir em acções de emparcelamento;
+
+Propostas para melhorar a distribuição das tarefas e a coordenação entre as diversas instituições (indicando, eventualmente, consequências em matéria de organização técnica);
+
+Elaboração de um plano operacional, tanto para a planificação a médio prazo como também para a gestão do projecto;
+
+Assessoramento na planificação preliminar em matéria de estruturação agrária a nível nacional (concepção);
+
+Cooperação no planeamento das medidas de emparcelamento, nomeadamente por assessoramento a:
+
+Aplicação da nova lei de emparcelamento;
+
+Desenvolvimento da concepção técnica para a Direcção de Serviços de Estruturação Fundiária e Topografia;
+
+Trabalho de divulgação no domínio do emparcelamento;
+
+Planificação e organização da sequência dos trabalhos (aplicação do plano operacional);
+
+Harmonização de tarefas entre todas as instituições envolvidas no emparcelamento;
+
+Introdução de um programa eficaz de acompanhamento e avaliação para os projectos de emparcelamento;
+
+Coordenação de tarefas na planificação das redes viária e hidráulica;
+
+Utilização progressiva do processamento electrónico de dados;
+
+Introdução de métodos fotogramétricos, sobretudo da técnica de ortofotogrametria;
+
+Realização de workshops e seminários;
+
+Planeamento de medidas de formação.
+
+Estas medidas serão realizadas em estreita coordenação com o programa corrente de cooperação financeira luso-alemã.
+
+2 - Ambos os Governos concordam em que o sucesso do projecto e, com isto, o desenvolvimento agrícola na área do projecto só poderão ser garantidos se:
+
+As instituições nacionais e regionais competentes continuarem a colaborar estreitamente;
+
+As instruções importantes forem dadas em tempo oportuno e realizadas de maneira eficiente;
+
+For atribuída a devida importância à formação e ao aperfeiçoamento.
+
+3 - Contribuições do Governo da República Federal da Alemanha:
+
+a) Enviará:
+
+Um engenheiro geógrafo diplomado com experiência e conhecimentos específicos no domínio do emparcelamento pelo prazo máximo de sete meses;
+
+Por um prazo máximo de 1,5 mês, técnicos a curto prazo para tarefas especiais, cujo tempo de envio abrange trabalhos conexos anteriores e posteriores à missão na República Federal da Alemanha, os quais, de acordo com o andamento do projecto, serão utilizados pelo chefe português do projecto, em comum acordo com os técnicos alemães enviados;
+
+b) Contratará para trabalhos de tradução e de escritório um auxiliar local, pagando-lhe o vencimento;
+
+c) Fornecerá material miúdo e de consumo;
+
+d) Proporcionará, por um prazo máximo total de três meses, estágios de formação e aperfeiçoamento a técnicos portugueses;
+
+e) Custeará as despesas administrativas com o técnico enviado.
+
+4 - Contribuições do Governo da República Portuguesa - colocará à disposição, adicionalmente, o seguinte pessoal qualificado para a implementação do projecto:
+
+Um engenheiro geógrafo diplomado;
+
+Quatro topógrafos.
+
+5 - 1) Encarregarão da execução das respectivas medidas:
+
+a) O Governo da República Federal da Alemanha - a Deutsche Gesellschaft für Technische Zusammenarbeit (GTZ), G. m. b. H., 6236 Eschborn;
+
+b) O Governo da República Portuguesa - a Direcção-Geral de Hidráulica e Engenharia Agrícola, do Ministério da Agricultura, Pescas e Alimentação.
+
+2) Os órgãos encarregados nos termos do parágrafo 1 deste número transformarão as medidas relacionadas no parágrafo 2 do n.º 1 num programa conjunto e vinculativo de trabalho e determinarão pormenores da sua implementação num plano operacional.
+
+3) Em matéria técnica, o técnico enviado será responsável perante o director-geral da DGHEA. As decisões essenciais para o projecto serão tomadas de comum acordo.
+
+4) Em caso de necessidade, peritos conjuntamente seleccionados avaliarão os resultados do trabalho efectuado no âmbito do projecto.
+
+6 - De resto, aplicar-se-ão também ao presente Acordo Especial as disposições do acima mencionado Acordo sobre Cooperação Técnica, de 9 de Junho de 1980, inclusive a cláusula de Berlim (artigo 7).
+
+Caso o Governo da República Portuguesa concorde com as propostas contidas nos n.os 1 a 6, esta nota e a de resposta de V. Ex.ª em que se expresse a concordância do seu Governo constituirão um Acordo Especial entre os nossos dois Governos, que entrará em vigor no dia em que o Governo da República Portuguesa informe o Governo da República Federal da Alemanha de que foram compridos os requisitos estabelecidos na sua legislação.
+
+Permita-me, Sr. Ministro, apresentar a V. Ex.ª os protestos da minha mais elevada consideração.
+
+York.
+
+Desejo informar V. Ex.ª de que o Governo Português aceita a proposta do Governo da República Federal da Alemanha e concorda com que a nota de V. Ex.ª e esta resposta constituam um Acordo entre os nossos dois Governos, que entrará em vigor de acordo com a proposta de V. Ex.ª
+
+Queira aceitar, Excelência, os protestos da minha mais elevada consideração.
+
+**O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1991/04/078a00/17161719.pdf))](https://files.diariodarepublica.pt/1s/1991/04/078a00/17161719.pdf)

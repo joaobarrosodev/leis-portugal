@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:474880:por
+title: Decreto-Lei n.º 182/80
+short_title: null
+summary: Estabelece normas relativas à integração de adidos na Administração Central
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 182/80
+official_date: null
+publication_date: '1980-06-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 128/1980, Série I de 1980-06-03
+  number: '128'
+  series: I
+  supplement: null
+  pages: 1303 - 1304
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/06/12800/13031304.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '474880'
+  dre_path: /dr/detalhe/decreto-lei/182-1980-474880
+  internal: pt:dre:474880:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1980-474880
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-1980-474880
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: 619f846d3bb5732273abe560ad04e3da9fa99fc8206b388163196c85a6f04089
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-182-474880.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 182/80
+
+de 3 de Junho
+
+A gestão do quadro geral de adidos haverá de promover-se no respeito por soluções de pleno emprego.
+
+Uma vez assegurada a colocação da quase totalidade dos funcionários adidos, importa agora garantir a sua integração.
+
+Nesse condicionalismo, a integração deverá realizar-se de pleno direito, subordinando os adidos a um estatuto em tudo idêntico ao dos funcionários dos quadros e organismos integradores, o que só poderá alcançar-se mediante a sua integração nesses quadros, através do correspondente aumento de lugares.
+
+Estando em causa o interesse de alguns milhares de funcionários adidos, o presente diploma promove aquela integração, simplificando as correspondentes operações administrativas, que se desejam dotadas de maleabilidade adaptada às circunstâncias.
+
+Nestes termos:
+
+O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º
+
+(Integração de adidos na Administração Central)
+
+1 - São integrados, nos termos do presente diploma, nos serviços e organismos da Administração Central os funcionários adidos em actividade junto dos mesmos à data da publicação do presente diploma, nos termos em que este dispõe.
+
+2 - Os adidos que vierem a ser colocados junto dos mesmos serviços e organismos em data posterior à da publicação deste diploma e satisfaçam necessidades permanentes de serviço serão integrados no novo serviço, nos termos do número anterior, no início do ano seguinte.
+
+3 - O regime estabelecido neste diploma não é aplicável:
+
+a) Aos funcionários adidos colocados junto dos serviços e organismos sem quadros aprovados por lei;
+
+b) Ao pessoal docente;
+
+c) Aos adidos em actividade junto da Direcção-Geral de Recrutamento e Formação (DGRF), atenta a transitoriedade das suas responsabilidades referentes à gestão do quadro geral de adidos (QGA).
+
+4 - A integração de adidos no caso previsto na alínea a) do número anterior será objecto de medidas legislativas específicas.
+
+5 - Aos adidos requisitados junto da Direcção-Geral de Recrutamento e Formação será por esta assegurada a sua colocação, sem interrupção de actividade, junto de outros serviços e organismos públicos, à medida que se forem esvaziando de conteúdo as atribuições inerentes à gestão do quadro geral de adidos cometidas àquela Direcção-Geral.
+
+###### ARTIGO 2.º
+
+(Lugares em que se fará a integração)
+
+1 - A integração de adidos nos termos do artigo 1.º far-se-á em lugares:
+
+a) De ingresso dos quadros de pessoal dos serviços e organismos integradores;
+
+b) De acesso dos mesmos quadros, quando não haja funcionários a eles afectos que reúnam os requisitos legalmente definidos para provimento nos mesmos;
+
+c) Aumentados aos mesmos quadros, nos termos deste diploma.
+
+2 - A modalidade de integração prevista na alínea c) só poderá ser adoptada quando o número de vagas referentes aos lugares a que se referem as demais alíneas, existentes à data da publicação deste diploma, se revelar insuficiente para promover a integração de todos os adidos em actividade no respectivo serviço ou organismo.
+
+3 - O alargamento dos quadros previstos na mesma alínea será feito mediante portaria do Ministro das Finanças e do Plano, do Ministro da pasta e do membro do Governo que tiver a seu cargo a função pública.
+
+###### ARTIGO 3.º
+
+(Categoria de integração)
+
+A integração dos funcionários adidos será feita:
+
+a) Em categoria igual ou equivalente à que o adido possui, no caso de a mesma estar prevista no quadro de pessoal do serviço ou organismo integrador, sem prejuízo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 180/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1980-474877);
+
+b) Em categoria que resultar da aplicação de tabela de equivalências a aprovar mediante despacho do membro do Governo que tiver a seu cargo a função pública e do membro do Governo competente para o serviço ou organismo integrador nos demais casos.
+
+###### ARTIGO 4.º
+
+(Forma de integração)
+
+1 - A integração dos funcionários adidos a que se refere o presente diploma será feita mediante diploma de provimento assinado pelo Ministro da respectiva pasta e pelo membro do Governo que tiver a seu cargo a função pública, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas e a sua publicação no Diário da República.
+
+2 - As relações dos funcionários adidos a integrar deverão ser elaboradas pelos serviços integradores em estreita articulação com a DGRF e presentes à aprovação a que se refere o mesmo número no prazo de noventa dias a contar da data da publicação deste diploma.
+
+3 - A publicação do diploma de provimento referido no n.º 1 corresponderá, por si, sem mais formalidades, à desvinculação do quadro geral de adidos dos funcionários adidos integrados.
+
+###### ARTIGO 5.º
+
+Os funcionários a que se reporta o presente diploma ficam sujeitos ao regime de pessoal em vigor ou que vier a ser estabelecido para idênticas categorias dos quadros dos serviços em que se efectivar a integração, sendo-lhes contado, para todos os efeitos legais, designadamente antiguidade, promoção, diuturnidades e aposentação, todo o tempo de serviço prestado nos organismos de origem e, bem assim, o de permanência no quadro geral de adidos.
+
+###### ARTIGO 6.º
+
+(Providências financeiras)
+
+1 - Enquanto o orçamento dos serviços e organismos integradores, qualquer que seja a natureza destes, não for dotado com as verbas indispensáveis à satisfação dos encargos decorrentes da execução do presente diploma, as remunerações base dos funcionários adidos neles integrados serão processadas por conta das correspondentes verbas da rubrica «Remunerações certas e permanentes - Pessoal do quadro geral de adidos», inscritas no orçamento da DGRF.
+
+2 - Em ordem a assegurar as necessárias transferências orçamentais, os serviços e organismos integradores apresentarão, simultaneamente com as listas nominativas a que alude o artigo precedente, uma nota discriminativa do encargo anual correspondente às remunerações base, diuturnidades e abono de família das integrações a efectuar.
+
+3 - O Ministério das Finanças e do Plano tomará, em estreita articulação com o membro do Governo que tiver a seu cargo a função pública e os departamentos ministeriais interessados, as providências necessárias para assegurar a transferência daquelas verbas para os serviços e organismos integradores.
+
+###### ARTIGO 7.º
+
+(Resolução de dúvidas)
+
+As dúvidas resultantes da aplicação do presente diploma serão resolvidas mediante despacho do Ministro das Finanças e do Plano, do Ministro da pasta e do membro do Governo que tiver a seu cargo a função pública, de harmonia com a respectiva competência.
+
+###### ARTIGO 8.º
+
+(Entrada em vigor)
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 22 de Abril de 1980. - Francisco José Pereira Pinto Balsemão.
+
+**Promulgado em 27 de Maio de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

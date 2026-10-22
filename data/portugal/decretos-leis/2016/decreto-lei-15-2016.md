@@ -1,0 +1,272 @@
+---
+schema_version: '1.0'
+id: pt:dre:73807562:por
+title: Decreto-Lei n.º 15/2016
+short_title: null
+summary: Estabelece a coordenação estratégica da Administração do Porto de Lisboa, S. A., e da Administração dos Portos de
+  Setúbal e Sesimbra, S. A.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Mar
+proposing_entity: null
+official_number: 15/2016
+official_date: null
+publication_date: '2016-03-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 48/2016, Série I de 2016-03-09
+  number: '48'
+  series: I
+  supplement: null
+  pages: 768 - 769
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/03/04800/0076800769.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-11-14'
+version_history:
+  file: decreto-lei-15-2016.versoes.json
+  count: 2
+  source_lastmod: '2025-11-14'
+  versions:
+  - date: '2016-03-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-11-14'
+    amending: pt:dre:945966853:por
+    amending_title: Decreto-Lei n.º 119/2025
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/15/2016/p/cons/20251113/pt/html
+  oj: null
+  dre: '73807562'
+  dre_path: /dr/detalhe/decreto-lei/15-2016-73807562
+  internal: pt:dre:73807562:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2016-73807562
+  metadata_url: https://data.dre.pt/eli/dec-lei/15/2016/p/cons/20251113/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-946151344
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-946151344
+  retrieved_at: '2026-10-22T13:36:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-11-14T00:00:00Z'
+integrity:
+  source_sha256: bfad469e451a0408c9d5fd35b02c5e3b55c9caf820ec915ef1402e3e7288ae5a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:36:46Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-15-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração do Porto de Lisboa
+- Administração dos Portos de Setúbal e Sesimbra
+- Reestruturação de Serviços
+- Conselho de Administração
+- Estatuto
+- Administração de Portos
+- Presidente
+- Remuneração
+- Portos
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:945966853:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2025-945966853
+  date: '2025-11-13'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133/2013/10/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/334/2001/12/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/334/2001/12/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/336/1998/11/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/336/1998/11/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/338/1998/11/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/338/1998/11/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/46/2002/03/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/46/2002/03/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/8/2012/01/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/8/2012/01/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/75-a/2014/09/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/16/2012/02/14/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:36:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 15/2016
+
+Decreto-Lei n.º 15/2016
+
+de 9 de março
+
+O Programa do XXI Governo Constitucional estabeleceu o mar como um desígnio nacional, cuja concretização passa pela valorização da posição estratégica de Portugal no Atlântico.
+
+As Grandes Opções do Plano para 2016-2019 sublinham que os portos nacionais constituem um pilar fundamental para o desenvolvimento económico de Portugal e para a alavancagem das exportações. Neste sentido, a estratégia do Governo passa por aproveitar de forma mais eficiente as vantagens competitivas do posicionamento estratégico do País, apostando no aumento da competitividade crescente a nível global dos portos e das cadeias logísticas nacionais, reforçando a ligação à rede transeuropeia de transportes, apostando na melhoria das acessibilidades marítimas e terrestres, na especialização de atividade de cada porto de acordo com o seu hinterland específico, na gestão mais eficiente da capacidade disponível, bem como na simplificação de procedimentos e numa abordagem adequada à organização do território.
+
+Nesta sequência, o Relatório do Orçamento do Estado para 2016 refere que são avaliadas, preparadas e lançadas diversas intervenções estratégicas nos portos portugueses, designadamente a coordenação estratégica entre os portos de Lisboa, Setúbal e Sesimbra.
+
+Assim, o presente decreto-lei estabelece os termos da referida coordenação estratégica, que assenta na criação de um conselho de administração comum, na elaboração conjunta dos instrumentos de gestão, na elaboração de um plano estratégico comum às duas administrações portuárias e, tendencialmente, na constituição de serviços partilhados.
+
+A acumulação de funções por parte dos administradores permite uma otimização de soluções no âmbito operacional, conferindo-lhe, ao mesmo tempo, uma orientação coordenada e gerando os necessários consensos à boa consecução das atribuições que lhes estão legalmente cometidas no quadro de uma estratégia e organização comuns.
+
+De forma a potenciar a articulação daquelas estruturas portuárias estabelece-se, ainda, que o Conselho Metropolitano da Área Metropolitana de Lisboa passa a designar um dos administradores das empresas, cumprindo também um dos objetivos deste Governo de promover uma maior proximidade com a administração local.
+
+O presente decreto-lei define, também, os termos do mandato e o regime remuneratório associado à referida acumulação de funções, deixando-se plasmado de forma clara e expressa que os administradores continuam a auferir uma única remuneração e não beneficiam de qualquer remuneração adicional, sendo remunerados como se de um único conselho de administração se tratasse.
+
+Sem prejuízo do regime estabelecido no presente decreto-lei, mantêm-se o regime e as obrigações decorrentes dos princípios e regras aplicáveis ao setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, alterado pela Lei n.º 75-A/2014, de 30 de setembro, bem como do Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, alterado e republicado pelo Decreto-Lei n.º 8/2012, de 18 de março.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece a coordenação estratégica da Administração do Porto de Lisboa, S. A. (APL, S. A.), e da Administração dos Portos de Setúbal e Sesimbra, S. A. (APSS, S. A.), definindo o regime de acumulação de funções dos membros dos respetivos conselhos de administração, para efeitos de planeamento estratégico e promoção de sinergias organizacionais e operacionais de ambas as empresas.
+
+###### Artigo 2.º — Composição conjunta e acumulação de funções
+
+O conselho de administração da Administração do Porto de Lisboa, S. A., e da Administração dos Portos de Setúbal e Sesimbra, S. A., é composto por um presidente e até quatro vogais, doravante designados por administradores, que são comuns às duas empresas e exercem as suas funções em regime de acumulação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2025 - Diário da República n.º 220/2025, Série I de 2025-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2025-945966853), em vigor a partir de 2025-11-14
+
+###### Artigo 3.º — Designação
+
+1 - Os administradores são designados por deliberação da assembleia geral de cada empresa.
+
+2 - (Revogado.)
+
+3 - A designação dos administradores implica a imediata cessação do mandato dos membros dos conselhos de administração em exercício de funções àquela data.
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 119/2025 - Diário da República n.º 220/2025, Série I de 2025-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2025-945966853), em vigor a partir de 2025-11-14
+
+###### Artigo 4.º — Remuneração
+
+1 - Os administradores auferem apenas uma remuneração e não beneficiam de qualquer abono adicional em virtude da acumulação de funções.
+
+2 - A remuneração dos administradores é determinada pela classificação decorrente da aplicação dos critérios previstos na Resolução do Conselho de Ministros n.º 16/2012, de 9 de fevereiro, ao resultado da agregação dos indicadores respeitantes à APL, S. A., e à APSS, S. A.
+
+3 - A remuneração dos administradores, bem como todos os encargos referentes aos mesmos, são suportados, em partes iguais, pela APL, S. A., e pela APSS, S. A.
+
+4 - Os contratos de gestão a celebrar com os administradores devem reportar-se ao exercício de funções na APL, S. A., e na APSS, S. A., e considerar as especificidades do mandato em causa.
+
+###### Artigo 5.º — Planeamento estratégico
+
+1 - Os conselhos de administração da APL, S. A., e da APSS, S. A., elaboram, de forma coerente e articulada, os respetivos instrumentos de gestão e planeamento, designadamente:
+
+a) Os planos e as orientações estratégicas das empresas;
+
+b) Os planos de atividades e os orçamentos, anuais e plurianuais, incluindo os planos de investimento e as fontes de financiamento;
+
+c) Os planos anuais e plurianuais de obras marítimas e terrestres e do equipamento dos portos;
+
+d) Os planos comuns de divulgação e informação de obrigações legais, serviço público e planeamento estratégico.
+
+2 - Os instrumentos de gestão e planeamento referidos na alínea a) do número anterior são sujeitos a parecer do Conselho Metropolitano da AML.
+
+###### Artigo 6.º — Reorganização de serviços
+
+No prazo de 180 dias, a contar da data da entrada em vigor do presente decreto-lei, a APL, S. A., e a APSS, S. A., em razão da prossecução comum de atribuições e competências, procede à reorganização das respetivas estruturas e organização geral que se verifique necessária e potenciadora dos objetivos do presente decreto-lei.
+
+###### Artigo 7.º — Norma imperativa
+
+O regime fixado no presente decreto-lei tem natureza imperativa, prevalecendo sobre quaisquer normas em contrário, especiais ou excecionais, que resultem, nomeadamente, do Estatuto do Gestor Público, dos diplomas estatutários ou de qualquer outra legislação aplicável à APL, S. A., e à APSS, S. A., e não podendo ser por estes afastado ou modificado.
+
+###### Artigo 8.º — Alteração ao Decreto-Lei n.º 336/98, de 3 de novembro
+
+O artigo 9.º dos Estatutos da APL, S. A., aprovados em anexo ao Decreto-Lei n.º 336/98, de 3 de novembro, alterado pelos Decretos-Leis n.os 334/2001, de 24 de dezembro, e 46/2002, de 2 de março, passa a ter a seguinte redação:
+
+«Artigo 9.º
+
+Composição conjunta do conselho de administração
+
+1 - O conselho de administração é composto por um presidente e quatro vogais, que são comuns à Administração dos Portos de Setúbal e Sesimbra, S. A., e exercem as suas funções em regime de acumulação.
+
+2 - ...
+
+3 - ...»
+
+###### Artigo 9.º — Alteração ao Decreto-Lei n.º 338/98, de 3 de novembro
+
+O artigo 9.º dos Estatutos da APSS, S. A., aprovados em anexo ao Decreto-Lei n.º 338/98, de 3 de novembro, alterado pelos Decretos-Leis n.os 334/2001, de 24 de dezembro, e 46/2002, de 2 de março, passa a ter a seguinte redação:
+
+«Artigo 9.º
+
+Composição conjunta do conselho de administração
+
+1 - O conselho de administração é composto por um presidente e quatro vogais, que são comuns à Administração do Porto de Lisboa, S. A., e exercem as suas funções em regime de acumulação.
+
+2 - ...
+
+3 - ...»
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 3 de março de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.
+
+Promulgado em 7 de março de 2016.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 8 de março de 2016.
+
+O Primeiro-Ministro, António Luís Santos da Costa.

@@ -1,0 +1,330 @@
+---
+schema_version: '1.0'
+id: pt:dre:533781:por
+title: Decreto-Lei n.º 345/99
+short_title: null
+summary: Estabelece o regime jurídico da medicina desportiva
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 345/99
+official_date: null
+publication_date: '1999-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/1999, Série I-A de 1999-08-27
+  number: '200'
+  series: I
+  supplement: null
+  pages: 5886 - 5888
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/200a00/58865888.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2012-11-30'
+version_history:
+  file: decreto-lei-345-99.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1999-08-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-11-30'
+    amending: pt:dre:190614:por
+    amending_title: Decreto-Lei n.º 255/2012
+    changes:
+    - Adita Anexo I
+    - Adita Anexo II
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/345/1999/p/cons/20121129/pt/html
+  oj: null
+  dre: '533781'
+  dre_path: /dr/detalhe/decreto-lei/345-1999-533781
+  internal: pt:dre:533781:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/345-1999-533781
+  metadata_url: https://data.dre.pt/eli/dec-lei/345/1999/p/cons/20121129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-863638744
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-863638744
+  retrieved_at: '2026-10-22T13:08:47Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 5285fa29de55568bb869b4d39b3e08b61762e505e6459f1cde8ef6af0a403509
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:08:47Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-345-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agente Desportivo
+- Centro de Medicina Desportiva
+- Formação Profissional
+- Federação Desportiva
+- Instituto Nacional do Desporto
+- Medicina Desportiva
+- Exame Médico
+- Organização Desportiva
+- Regime Jurídico
+- Desporto
+relationships:
+- type: amended_by
+  target: pt:dre:190614:por
+  label: Adita Anexo I; Adita Anexo II; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2012-190614
+  date: '2012-11-29'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/19/1996/06/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/19/1996/06/25/p/dre
+article_structure:
+  article_count: 13
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:08:47Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 345/99
+
+Decreto-Lei n.º 345/99
+
+de 27 de Agosto
+
+A Lei n.º 1/90, de 13 de Janeiro, Lei de Bases do Sistema Desportivo, na redacção que lhe foi dada pela Lei n.º 19/96, de 25 de Junho, atribui ao Estado, no seu artigo 17.º, a tarefa de promover a institucionalização e regulamentação dos serviços de medicina desportiva, assim como o acesso à prática desportiva, no âmbito das federações, através de exame médico que declare a inexistência de qualquer contra-indicação.
+
+A prossecução de uma eficaz política de apoio e protecção aos praticantes desportivos e o crescente desenvolvimento técnico da actividade desportiva impõem a definição de medidas concretas que permitam aproximar cada vez mais o praticante dos diagnósticos específicos e de actuações científicas inerentes à medicina desportiva.
+
+Os exames médicos revelam-se um instrumento imprescindível para aferir a aptidão ou inaptidão dos atletas para a prática desportiva, representando um importante meio de triagem de determinadas patologias ou situações clínicas, principalmente na população jovem.
+
+Neste quadro, o exame médico-desportivo torna-se obrigatório, em todas as situações e para todos os praticantes desportivos, árbitros, juízes e cronometristas filiados ou que se pretendam filiar em federações dotadas de utilidade pública desportiva.
+
+É também definido um sistema de interligação entre os diversos serviços e departamentos de medicina desportiva e as qualificações necessárias e específicas para que os respectivos profissionais chefiem esses serviços e integrem os departamentos.
+
+A diversidade de normas sobre a matéria em diferentes documentos legais impõe a respectiva clarificação e enquadramento num único diploma.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 1/90, de 13 de Janeiro, com a redacção que lhe foi dada pela Lei n.º 19/96, de 25 de Junho, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Centros de medicina desportiva do Instituto Nacional do Desporto
+
+###### Artigo 1.º — Organização
+
+1 - Os Centros de Medicina Desportiva de Lisboa, do Porto e de Coimbra estão integrados na Direcção de Serviços de Medicina Desportiva, do Instituto Nacional do Desporto, adiante também designado, abreviadamente, por IND.
+
+2 - Os Centros de Medicina Desportiva têm as seguintes áreas geográficas de intervenção:
+
+a) Centro de Medicina Desportiva do Porto - distritos de Braga, Bragança, Porto, Viana do Castelo e Vila Real;
+
+b) Centro de Medicina Desportiva de Coimbra - distritos de Aveiro, Castelo Branco, Coimbra, Guarda, Leiria e Viseu;
+
+c) Centro de Medicina Desportiva de Lisboa - distritos de Beja, Évora, Faro, Lisboa, Portalegre, Santarém e Setúbal.
+
+3 - Os Centros de Medicina Desportiva mencionados no número anterior prestam também serviços médico-desportivos às Regiões Autónomas dos Açores e da Madeira.
+
+4 - A prestação de serviços médico-desportivos nos quadros dos Centros de Medicina Desportiva é condicionada à titularidade da especialização em Medicina Desportiva reconhecida pelo colégio da especialidade da Ordem dos Médicos.
+
+## Anexo I — (a que se refere o n.º 5 do artigo 8.º)
+
+Protocolo clínico de sobreclassificação médico-desportiva
+
+A - Consulta de Medicina Desportiva que inclui o exame médico desportivo com análises de sangue e urina, ECG e Rx tórax.
+
+B - Radiografia frontal do punho e mão esquerda (Determinação da idade óssea - Método de Greulich e Pyle).
+
+C - Radiografia da coluna lombo-sagrada (2pp e oblíquas) e bacia/(frente), a decidir em função da modalidade e ou necessidade clínica.
+
+D - Avaliação da Composição Corporal e Estudo Antropométrico (peso, altura, IMC). Fórmulas de Slaughter para % MG em jovens e Fórmulas de Dumin, Womersley e Siri para % MG em Adultos. Fórmula de Martin para MM. Tabelas de Percentis da Direção-Geral da Saúde.
+
+E - Avaliação da maturação sexual (Escala de Tanner).
+
+F - Realização de ecocardiograma com estudo morfológico e avaliação da massa ventricular esquerda corrigida para a superfície corporal. Eventual necessidade de avaliação em consulta de cardiologia.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 255/2012 - Diário da República n.º 231/2012, Série I de 2012-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2012-190614), em vigor a partir de 2012-11-30
+
+###### Artigo 2.º — Colaboração com outras entidades
+
+1 - Os Centros de Medicina Desportiva podem exercer a sua actividade em colaboração, nomeadamente, com entidades públicas ou privadas de ensino superior, escolas superiores de tecnologia da saúde, escolas superiores de enfermagem, com o Centro de Estudos e Formação Desportiva, com o Complexo de Apoio às Actividades Desportivas, com as federações desportivas dotadas do estatuto de utilidade pública desportiva e com associações desportivas.
+
+2 - A colaboração a que se refere o número anterior será concretizada através de protocolos outorgados entre o IND e as entidades interessadas.
+
+###### Artigo 3.º — Formação e investigação
+
+1 - Os Centros de Medicina Desportiva, autonomamente ou em colaboração com as entidades referidas no artigo anterior, devem promover e propor a formação de técnicos do desporto, que são recrutados de entre os grupos de pessoal abaixo indicados:
+
+a) Licenciados em Medicina;
+
+b) Técnicos de diagnóstico e terapêutica, das áreas funcionais de preparação e execução de análises clínicas, cardiopneumografistas e fisioterapeutas;
+
+c) Técnicos superiores de saúde, licenciados nas áreas de Farmácia, Ciências Farmacêuticas, Química e Bioquímica;
+
+d) Técnicos em enfermagem desportiva;
+
+e) Técnicos auxiliares de saúde na área desportiva.
+
+2 - Os Centros de Medicina Desportiva podem, dentro da sua área de competência específica, apoiar e colaborar na realização de cursos, quer a nível de graduação, quer a nível de pós-graduação, bem como participar na elaboração de estudos de investigação médica e paramédica aplicada ao desporto.
+
+### Capítulo II — Exames de avaliação médico-desportiva
+
+###### Artigo 4.º — Obrigatoriedade dos exames de avaliação médico-desportiva
+
+Os exames de avaliação médico-desportiva são obrigatórios, nos termos estabelecidos no presente diploma, para as seguintes categorias:
+
+a) Praticantes desportivos filiados, ou que se pretendam filiar, em federações dotadas de utilidade pública desportiva;
+
+b) Praticantes desportivos em regime de alta competição;
+
+c) Árbitros, juízes e cronometristas filiados, ou que se pretendam filiar, em federações dotadas de utilidade pública desportiva.
+
+## Anexo II — (a que se refere o n.º 6 do artigo 8.º)
+
+Exame de sobreclassificação de praticante desportivo
+
+(ver documento original)
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 255/2012 - Diário da República n.º 231/2012, Série I de 2012-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2012-190614), em vigor a partir de 2012-11-30
+
+###### Artigo 5.º — Exames de avaliação médico-desportiva relativos a praticantes desportivos
+
+1 - Os praticantes desportivos que não estejam abrangidos pelo regime de alta competição devem ser submetidos a exames de avaliação médico-desportiva geral, visando detectar a existência ou não de contra-indicações, com ou sem restrições, para a prática desportiva.
+
+2 - Os praticantes desportivos devem ser direccionados para o centro de medicina desportiva da respectiva área geográfica de intervenção ou para um médico com formação específica reconhecida pelo colégio da especialidade de Medicina Desportiva da Ordem dos Médicos, ou ainda para um médico titular do curso de pós-graduação em Medicina Desportiva aprovado por aquele órgão, nos casos em que se mostre justificado o aconselhamento médico-desportivo face a contra-indicações relativas à modalidade que o praticante pretende praticar.
+
+3 - Os praticantes desportivos abrangidos pelo regime de alta competição devem ser sujeitos a exames de avaliação médico-desportiva, visando decidir sobre a sua aptidão ou inaptidão, face às exigências específicas relacionadas com esta prática desportiva e com aquele estatuto, bem como detectar as repercussões orgânicas e fisiológicas resultantes da mesma.
+
+4 - Os exames referidos no número anterior são realizados, exclusivamente, nos Centros de Medicina Desportiva do IND e devem, ainda, servir e contribuir para a definição do tipo de controlo médico a efectuar face ao treino desenvolvido pelo praticante desportivo.
+
+###### Artigo 6.º — Pressupostos
+
+1 - A realização de exames de avaliação médico-desportiva é condição necessária para que qualquer praticante desportivo se possa inscrever, no início de cada época desportiva, na respectiva federação desportiva dotada do estatuto de utilidade pública desportiva.
+
+2 - Os praticantes desportivos em regime de alta competição e os que integram as selecções nacionais devem, obrigatoriamente, ser apoiados na sua preparação desportiva por um médico com formação específica reconhecida pelo colégio da especialidade de Medicina Desportiva da Ordem dos Médicos ou titular de curso de pós-graduação em Medicina Desportiva aprovado por aquele órgão.
+
+3 - Os praticantes desportivos abrangidos pelo regime de alta competição devem submeter-se obrigatoriamente, uma vez por ano, a exames de avaliação médico-desportiva e ou de controlo do treino físico.
+
+4 - Sem prejuízo do disposto no número anterior, os praticantes desportivos ali referidos devem ainda submeter-se aos exames e controlos mencionados no preceito precedente, sempre que para tal sejam solicitados pela Direcção de Serviços de Medicina Desportiva do IND.
+
+5 - Os praticantes desportivos com estatuto de alta competição não profissionais devem, em caso de lesão ou doença, recorrer aos Centros de Medicina Desportiva do IND ou a médicos com a formação referida no n.º 2.
+
+###### Artigo 7.º — Exames de avaliação médico-desportiva a árbitros, juízes e cronometristas
+
+1 - Os árbitros, juízes e cronometristas apenas se podem filiar ou continuar filiados, na respectiva federação dotada do estatuto de utilidade pública desportiva, depois de serem considerados aptos em exame prévio de avaliação médico-desportiva, no início de cada época desportiva.
+
+2 - Exceptuam-se do disposto no número anterior as modalidades desportivas em que manifestamente tal não se justifique, a determinar por despacho do membro do Governo que tutela a área do desporto.
+
+3 - O despacho a que se refere o número anterior deve ser publicado na 2.ª série do Diário da República.
+
+###### Artigo 8.º — Decisão médica
+
+1 - A decisão médica dos exames de avaliação médico-desportiva referidos nos artigos anteriores deve constar de ficha própria, sob pena de ineficácia.
+
+2 - O modelo da ficha referido no número precedente será aprovado por despacho conjunto do membro do Governo que tutela a área do desporto e pelo Ministro da Saúde, o qual será objecto de publicação na 2.ª série do Diário da República.
+
+3 - As decisões finais dos exames de avaliação médico-desportiva são sempre reportadas ao escalão etário do praticante desportivo, estabelecido pelas respectivas federações dotadas do estatuto de utilidade pública desportiva, de acordo com a sua idade.
+
+4 - Sempre que os praticantes desportivos pretendam competir no escalão imediatamente superior ao correspondente à sua idade têm de se submeter a exame de avaliação médico-desportiva geral, devendo especificar-se o escalão para o qual o examinado se encontra apto.
+
+5 - A sobreclassificação de um praticante desportivo para além do escalão imediatamente superior ao correspondente à sua idade só é permitida em casos especiais, devidamente analisados através de exame de avaliação médico-desportiva específico, a realizar nos Centros de Medicina Desportiva do Instituto Português do Desporto e Juventude, I. P. (IPDJ, I. P.), ou por um médico especialista em medicina desportiva, reconhecido pelo Colégio da Especialidade de Medicina Desportiva da Ordem dos Médicos, mediante o cumprimento do protocolo clínico de sobreclassificação médico-desportiva constante do anexo i ao presente decreto-lei que dele faz parte integrante.
+
+6 - O registo dos resultados da avaliação e classificação referidas no número anterior é efetuado em formulário próprio, nos termos do modelo constante do anexo ii ao presente decreto-lei que dele faz parte integrante.
+
+7 - No caso de o exame de avaliação médico-desportiva ser realizado fora dos Centros de Medicina Desportiva do IPDJ, I. P., o médico responsável deve, no prazo máximo de cinco dias úteis, remeter o dossier clínico ao diretor do Departamento de Medicina Desportiva do IPDJ, I. P., para homologação, acompanhado do formulário referido no número anterior e da declaração do encarregado de educação comprovativa da autorização para a realização do exame e da respetiva sobreclassificação.
+
+8 - O diretor do Departamento de Medicina Desportiva do IPDJ, I. P., pode, em caso de dúvidas fundamentadas, no prazo máximo de 10 dias úteis, solicitar novo exame de avaliação médico-desportiva específico, a realizar nos Centros de Medicina Desportiva do IPDJ, I. P.
+
+9 - A decisão de sobreclassificação de um praticante desportivo para além do escalão imediatamente superior ao correspondente à sua idade é publicitada no sítio na Internet do IPDJ, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 255/2012 - Diário da República n.º 231/2012, Série I de 2012-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2012-190614), em vigor a partir de 2012-11-30
+
+###### Artigo 9.º — Recurso da decisão médica
+
+1 - O praticante desportivo, árbitro, juiz ou cronometrista que não se conforme com a decisão do exame de avaliação médico-desportiva a que foi submetido nos Centros de Medicina Desportiva do IND pode apresentar recurso da mesma, no prazo de oito dias úteis, para o presidente do IND.
+
+2 - No recurso, que deve conter as respectivas alegações e conclusões que fundamentam o pedido, o recorrente deve indicar o nome e morada do médico que o represente na junta médica de recurso e depositar, no acto da entrega, a quantia de 50000$00.
+
+3 - A junta médica é constituída por um médico de reconhecida idoneidade e competência científica, indicado pelo presidente do IND, pelo médico que efectuou o exame e pelo médico indicado pelo recorrente.
+
+4 - A junta médica deve reunir num prazo máximo de 15 dias úteis, devendo o IND notificar, através de carta registada com aviso de recepção, o recorrente e os membros da junta, com a antecedência mínima de 5 dias úteis, da data, hora e local em que a mesma se reunirá.
+
+5 - Todas as despesas inerentes ao funcionamento da junta são suportadas pelo recorrente ou pelo IND, consoante aquele confirme ou não a decisão recorrida.
+
+###### Artigo 10.º — Custos dos exames de avaliação médico-desportiva
+
+1 - Os custos dos exames de avaliação médico-desportiva realizados pelos Centros de Medicina Desportiva do IND são fixados, anualmente, por despacho do membro do Governo que tutela a área do desporto.
+
+2 - Os custos referidos no número anterior estão previstos na tabela de preços da Direcção de Serviços de Medicina Desportiva do IND.
+
+3 - A tabela de preços a que se refere o número anterior será aprovada por despacho do membro do Governo que tutela a área do desporto, devendo ser publicada na 2.ª série do Diário da República.
+
+4 - Os exames de avaliação médico-desportiva e todo o apoio prestado nos Centros de Medicina Desportiva do IND aos praticantes desportivos de alta competição são gratuitos.
+
+###### Artigo 11.º — Obrigações das federações desportivas
+
+1 - As federações que possuam praticantes desportivos abrangidos pelo regime de alta competição devem, obrigatoriamente, ter um médico habilitado com formação específica reconhecida pelo colégio da especialidade de Medicina Desportiva da Ordem dos Médicos ou titular de curso de pós-graduação em Medicina Desportiva aprovado por aquele órgão.
+
+2 - As federações referidas no número anterior têm de comunicar anualmente ao IND a identificação do médico responsável pelo departamento de medicina desportiva, bem como a identificação dos médicos que assistem os respectivos praticantes desportivos em regime de alta competição e as selecções nacionais.
+
+3 - O não cumprimento das obrigações referidas no presente artigo, no n.º 1 do artigo 6.º e no n.º 1 do artigo 7.º impede a atribuição aos praticantes desportivos de alta competição dos benefícios inerentes a esse estatuto, bem como a suspensão ou concessão de medidas de apoio à respectiva federação dotada do estatuto de utilidade pública desportiva, em qualquer caso, mediante instauração de procedimento adequado, com garantia dos direitos de audiência e defesa e de recurso.
+
+### Capítulo III — Disposições finais
+
+###### Artigo 12.º — Regime transitório e entrada em vigor
+
+1 - No que se refere à formação dos médicos, o disposto no n.º 4 do artigo 1.º, no n.º 2 do artigo 6.º e no n.º 1 do artigo 11.º só é aplicável seis meses após a entrada em vigor do presente diploma.
+
+2 - Até à publicação dos novos modelos de fichas para exames de avaliação médico-desportiva, mantêm-se em vigor os que se encontram anexos ao despacho do presidente do ex-Instituto do Desporto (INDESP) de 6 de Janeiro de 1994, publicado na 2.ª série do Diário da República, n.º 242, de 19 de Outubro de 1994.
+
+3 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+###### Artigo 13.º — Revogação
+
+São revogados:
+
+a) O Decreto-Lei n.º 224/88, de 28 de Junho;
+
+b) O Regulamento dos Exames Médico-Desportivos, aprovado pelo Despacho n.º 182/91, de 4 de Outubro, do Ministro da Educação.
+
+Visto e aprovado em Conselho de Ministros de 8 de Julho de 1999. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo - Francisco Ventura Ramos - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 13 de Agosto de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 18 de Agosto de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

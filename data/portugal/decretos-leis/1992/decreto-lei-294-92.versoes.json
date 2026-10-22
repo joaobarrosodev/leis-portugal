@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:408881:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-889124371",
+ "dre_path": "/dr/detalhe/decreto-lei/294-1992-408881",
+ "source_lastmod": "2024-09-26",
+ "versions": [
+  {
+   "date": "1992-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:302930:por",
+     "title": "Declaração de Rectificação n.º 21/93",
+     "published": "1993-02-27",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/21-1993-302930"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º"
+   ],
+   "fragments": [
+    "889124861",
+    "889124862",
+    "889124863",
+    "889124864",
+    "889124866"
+   ],
+   "acts_without_text_change": []
+  }
+ ],
+ "fragments": {
+  "889124861": {
+   "fragment_id": "889124372",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 294/92\n\nde 30 de Dezembro\n\nDecorridos quatro anos sobre a publicação do Decreto-Lei n.º 289/88, de 24 de Agosto, que criou a caução global para desalfândegamento, a experiência colhida na sua aplicação, bem como a entrada em vigor do Regulamento (CEE) n.º 1854/89, do Conselho, de 14 de Junho, aconselham a que se proceda à revisão de algumas disposições daquele diploma.\n\nAssim, a revisão constante do presente decreto-lei consagra a possibilidade de o despachante oficial poder optar entre a utilização da caução global e a utilização das demais modalidades de garantia e pagamento de direitos ou outras imposições, devidos pelas declarações por ele apresentadas, com a consequente alteração da sua responsabilidade perante as alfândegas.\n\nAproveita-se a oportunidade para prever, por forma mais imediata e clara, a possibilidade de a caução global ser também solicitada pelos donos ou consignatários das mercadorias, actualizando-se também a referência à base jurídica que permite a aplicação da globalização do pagamento de direitos, adoptada no n.º 1 do artigo 7.º do Decreto-Lei n.º 289/88, de 24 de Agosto.\n\nIntroduz-se, ainda, uma norma prevendo a possibilidade de se efectuar o pagamento parcial dos montantes que são objecto da globalização, desde que esse pagamento ocorra até ao termo do prazo fixado, diminuindo-se, assim, os encargos que resultariam da constituição em mora, relativamente à totalidade da dívida.\n\nPor outro lado, altera-se a norma que prevê a aplicação da medida de natureza administrativa em caso de incumprimento das obrigações resultantes da utilização da caução global, que se revelou excessivamente penalizante para o despachante oficial, quando este procede à regularização daquela situação, antes de ser notificada a entidade garante.\n\nPor último, são suprimidas as referências ao procedimento disciplinar a que estava sujeito o despachante oficial.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "889124862": {
+   "fragment_id": "889124373",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 1.º, 7.º, 8.º, 10.º e 12.º do Decreto-Lei n.º 289/88, de 24 de Agosto, passam a ter a seguinte redacção:\n\nArtigo 1.º - 1 - A caução global para desalfândegamento constitui garantia dos direitos e demais imposições relativos a declarações apresentadas pelo despachante oficial às alfândegas, sem prejuízo do disposto no n.º 1 do artigo 8.º\n\n2 - Os donos ou consignatários das mercadorias podem, igualmente, ser titulares de uma caução global para desalfândegamento, sendo-lhes aplicáveis, com as necessárias adaptações, as disposições dos artigos seguintes.\n\n3 - Para efeitos do presente diploma relevam os direitos aduaneiros e outras imposições de efeito equivalente, bem como quaisquer outros impostos ou taxas cuja cobrança esteja a cargo das alfândegas.\n\nArt. 7.º - 1 - Os direitos e demais imposições exigíveis num determinado período, coincidente com o mês do calendário, serão objecto de um único pagamento, a efectuar até ao dia 15 do mês seguinte.\n\n2 - O despachante oficial pode efectuar um pagamento parcial, desde que o faça até ao termo do prazo fixado no número anterior.\n\nArt. 8.º - 1 - Os direitos e demais imposições que, a pedido do despachante oficial, não devam ser garantidos pela caução global serão objecto de pagamento o de diferimento do pagamento, de acordo com as regras previstas no Regulamento (CEE) n.º 1854/89, do Conselho, de 14 de Junho, e respectivos procedimentos de execução.\n\n2 - Os direitos e demais imposições, inicialmente garantidos pela caução global, podem ser objecto de garantia autónoma, prestada até ao termo do dia 15 do mês seguinte àquele em que a respectiva declaração tiver sido aceite, quando:\n\na) O seu pagamento deva continuar suspenso para além daquela data;\n\nb) Nos termos da legislação especial, gozem de prazo de diferimento do pagamento superior ao previsto no n.º 1 do artigo 7.º\n\n3 - Nas situações previstas na alínea a) do número anterior, relativas a regimes suspensivos e para as quais tenham sido, previamente e com carácter permanente, prestadas garantias autónomas, a caução global para desalfândegamento apenas será utilizada no caso de as referidas garantias se revelarem insuficientes.\n\nArt. 10.º - 1 - Em caso de incumprimento total ou parcial do disposto no n.º 1 do artigo 7.º ou na alínea a) do n.º 1 do artigo 9.º, o director da alfândega determinará de imediato:\n\na) ...\n\nb) ...\n\n2 - O disposto no número anterior não é aplicável quando o despachante oficial efectuar o pagamento dos direitos e demais imposições em dívida e respectivos juros de mora, em momento anterior à notificação da entidade garante.\n\n3 - No caso de se repetir a situação referida no n.º 1, o director da alfândega determinará o cancelamento definitivo da autorização para utilização do sistema da caução global para desalfândegamento.\n\n4 - O disposto nos números anteriores não prejudica a eventual aplicação das sanções decorrentes da violação de outras disposições legais.\n\nArt. 12.º Quando o despachante oficial exercer a sua actividade em sociedade, o disposto nos artigos anteriores é aplicável à sociedade de despachantes, constituída de acordo com o Regulamento das Sociedades de Despachantes Oficiais e seus Empregados, aprovado pelo Decreto-Lei n.º 513-F1/79, de 27 de Dezembro."
+  },
+  "889124863": {
+   "fragment_id": "889124374",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO modelo de termo de caução a que se refere o artigo 11.º do Decreto-Lei n.º 289/88, de 24 de Agosto, e constante do anexo àquele diploma, é substituído pelo constante do anexo ao presente diploma."
+  },
+  "889124864": {
+   "fragment_id": "889127175",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ revogado o artigo 13.º do Decreto-Lei n.º 289/88, de 24 de Agosto."
+  },
+  "889124866": {
+   "fragment_id": "889127177",
+   "type": 14,
+   "heading": "Anexo — Termo de caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Termo de caução\n\n(artigo 11.º do Decreto-Lei n.º 289/88)\n\n... (ver nota 1), com sede em ..., declara que pelo presente documento presta a favor da Alfândega de ... um(a) ... (ver nota 2) até ao montante de ... para garantia do pagamento dos direitos e demais imposições e eventuais juros de mora pelo qual, no âmbito do sistema de caução global para desalfandegamento, instituído pelo Decreto-Lei n.º 289/88, de 24 de Agosto, seja responsável ... (ver nota 3).\n\nMais se declara que pela presente garantia se obriga como principal pagador, com expressa renúncia ao benefício da excussão, e sem necessidade de qualquer outra consideração, a pagar, no prazo de oito dias a contar da data da recepção do referido pedido, todas as quantias cujo pagamento seja da responsabilidade de ... (ver nota 3).\n\nA presente garantia é válida pelo período de um ano, sendo sucessiva e automaticamente renovável por iguais períodos de tempo, salvo denúncia prévia da entidade garante com a antecedência mínima de 45 dias.\n\n... (assinaturas).\n\n(nota 1) Identificação da entidade garante.\n\n(nota 2) Fiança bancária ou seguro-caução.\n\n(nota 3) Preencher a hipótese aplicável, de acordo com o disposto nos n.os 1 ou 2 do artigo 1.º ou no artigo 12.º do Decreto-Lei n.º 289/88, de 24 de Agosto, na redacção que lhe foi dada pelo Decreto-Lei n.º 294/92, de 30 de Dezembro."
+  }
+ }
+}

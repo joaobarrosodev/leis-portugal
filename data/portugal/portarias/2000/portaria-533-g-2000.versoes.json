@@ -1,0 +1,378 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:636252:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-167651768",
+ "dre_path": "/dr/detalhe/portaria/533-g-2000-636252",
+ "source_lastmod": "2025-06-09",
+ "versions": [
+  {
+   "date": "2000-08-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921142000",
+    "167608165",
+    "167608166",
+    "167608167",
+    "167608168",
+    "167608169",
+    "167608170",
+    "167608171",
+    "167608172",
+    "167608173",
+    "167608174",
+    "167808775",
+    "167808776",
+    "167808777",
+    "167808778",
+    "167808779",
+    "167808780",
+    "167808781",
+    "167808782",
+    "167808783",
+    "167808784",
+    "167808785",
+    "167808786",
+    "167808787"
+   ]
+  },
+  {
+   "date": "2006-04-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:673046:por",
+     "title": "Portaria n.º 336/2006",
+     "published": "2006-04-06",
+     "dre_path": "/dr/detalhe/portaria/336-2006-673046"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "921142000",
+    "921141997",
+    "921141996",
+    "167608165",
+    "167608166",
+    "167608167",
+    "167608168",
+    "167608169",
+    "167608170",
+    "921194591",
+    "167608172",
+    "167608173",
+    "167608174",
+    "167808775",
+    "167808776",
+    "167808777",
+    "167808778",
+    "167808779",
+    "167808780",
+    "167808781",
+    "167808782",
+    "167808783",
+    "167808784",
+    "921142002",
+    "921142003",
+    "167808787"
+   ]
+  },
+  {
+   "date": "2013-03-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:259878:por",
+     "title": "Portaria n.º 110/2013",
+     "published": "2013-03-19",
+     "dre_path": "/dr/detalhe/portaria/110-2013-259878"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "921142000",
+    "921141997",
+    "921141996",
+    "167608165",
+    "167608166",
+    "167608167",
+    "167608168",
+    "167608169",
+    "167608170",
+    "921194591",
+    "167608172",
+    "167608173",
+    "921194628",
+    "167808775",
+    "167808776",
+    "167808777",
+    "167808778",
+    "167808779",
+    "167808780",
+    "167808781",
+    "167808782",
+    "167808783",
+    "167808784",
+    "921142002",
+    "921142003",
+    "167808787"
+   ]
+  }
+ ],
+ "fragments": {
+  "921142000": {
+   "fragment_id": "167651769",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 533-G/2000\n\nde 1 de Agosto\n\nConstituindo o montado de sobro parte importante da superfície florestal nacional e sendo grande o seu valor económico, designadamente no que se refere ao seu principal produto (a cortiça), é essencial promover o investimento nessa área, tendo em vista o aumento da competitividade da subfileira suberícola e contribuir para o desenvolvimento do sector agro-industrial e do mundo rural.\n\nCom enquadramento no artigo 25.º e no 3.º travessão do n.º 1 do artigo 30.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1999&id=399R1257\" title=\"Link para Regulamento da Comunidade Europeia\">1257/99</a>, do Conselho, de 17 de Maio, será, assim, incentivada a realização de investimentos visando a melhoria e a racionalização das operações de extracção da cortiça e das operações de pós-colheita, a instalação de estruturas de recepção de cortiça em bruto, bem como da 1.ª fase de transformação industrial da cortiça e de fabrico de produtos novos em unidades industriais localizadas junto à produção.\n\nImporta salientar, também, pelo seu contributo específico para a defesa do meio ambiente, os apoios ao aproveitamento dos desperdícios habitualmente destinados à queima e das águas de cozedura, assim como à introdução de esquemas de tratamento de efluentes líquidos originados por aquela operação.\n\nAssim, ao abrigo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Acção n.º 3.4: Colheita, Transformação e Comercialização de Cortiça, da Medida n.º 3 do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado «Programa Agro», em anexo ao presente diploma e do qual faz parte integrante."
+  },
+  "167608165": {
+   "fragment_id": "167651770",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e objectivos\n\nO presente Regulamento estabelece o regime de aplicação da Acção n.º 3.4: Colheita, Transformação e Comercialização de Cortiça, da medida n.º 3 do Programa Operacional Agricultura e Desenvolvimento Rural, abreviadamente designado «Programa Agro», tendo por objectivos, designadamente, os seguintes:\n\na) Melhorar e racionalizar as operações de extracção da cortiça;\n\nb) Aumentar a contribuição do sector para o desenvolvimento local das zonas suberícolas;\n\nc) Apoiar iniciativas de compilação, tratamento e divulgação de informação relativa a características tecnológicas da matéria-prima e dos produtos provenientes da primeira transformação da cortiça."
+  },
+  "167608166": {
+   "fragment_id": "167651771",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação do disposto no presente Regulamento, consideram-se as seguintes definições:\n\na) Produto novo: aquele em que a cortiça represente, em termos quantitativos, uma parte significativa das matérias-primas utilizadas, que ainda não tenha sido objecto de produção industrial regular e que se encontre patenteado, ou em fase de registo de patente;\n\nb) Pequeno produtor de cortiça: o produtor que, no último ciclo de produção de cortiça e no conjunto da área de intervenção do projecto, não tenha extraído mais de 4000 arrobas de cortiça de reprodução."
+  },
+  "167608167": {
+   "fragment_id": "167651772",
+   "type": 11,
+   "heading": "Artigo 3.º — Investimentos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Investimentos elegíveis\n\nPara efeitos de atribuição das ajudas previstas neste Regulamento, são considerados elegíveis os investimentos relativos a:\n\na) Operações de colheita e pós-colheita da cortiça;\n\nb) Primeira transformação industrial da cortiça, incluindo operações de preparação e ou granulação da matéria-prima;\n\nc) Repouso e armazenamento de matérias-primas e semimanufacturas corticeiras em unidades de transformação industrial de cortiça;\n\nd) Fabrico, em zonas suberícolas, de produtos novos utilizando como matéria-prima, predominantemente desperdícios de cortiça destinados a queima;\n\ne) Introdução, nas unidades preparadoras de cortiça, de esquemas de aproveitamento industrial das águas de cozedura e de tratamento dos efluentes líquidos originados pelas operações de cozedura;\n\nf) Produção e disponibilização de informações tecnológicas sobre as matérias-primas e produtos provenientes da primeira transformação da cortiça."
+  },
+  "167608168": {
+   "fragment_id": "167651773",
+   "type": 11,
+   "heading": "Artigo 4.º — Investimentos excluídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Investimentos excluídos\n\nNão são elegíveis os investimentos relativos ao comércio a retalho e à comercialização e ou transformação de produtos provenientes de países terceiros."
+  },
+  "167608169": {
+   "fragment_id": "167651774",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\nPodem beneficiar das ajudas previstas neste Regulamento:\n\na) Organizações de produtores suberícolas;\n\nb) Empresas de serviços e de transformação industrial ligadas ao sector da cortiça;\n\nc) Organizações de industriais do sector;\n\nd) Centros tecnológicos da cortiça;\n\ne) Outras pessoas singulares ou colectivas de direito privado."
+  },
+  "167608170": {
+   "fragment_id": "167808675",
+   "type": 11,
+   "heading": "Artigo 6.º — Projectos a apoiar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Projectos a apoiar\n\n1 - Podem ser concedidas ajudas a projectos relativos à colheita, transformação e comercialização da cortiça e que visem, designadamente:\n\na) Realização de trabalhos de descortiçamento por pessoal habilitado, utilizando metodologia apropriada e com redução dos respectivos custos;\n\nb) Redução dos custos da operação de falquejamento;\n\nc) Modernização e racionalização das operações de pós-colheita da cortiça anteriores à sua retirada do mato, com redução dos respectivos custos;\n\nd) Criação de instalações de recepção da cortiça em bruto;\n\ne) Realização da 1.ª fase da transformação industrial da cortiça (preparação ou trituração/granulação) junto da produção;\n\nf) Fabricação de produtos novos em zonas suberícolas, com boas perspectivas de colocação no mercado, através da utilização industrial dos desperdícios de cortiça habitualmente destinados a queima;\n\ng) Melhoria das condições de repouso e armazenagem das matérias-primas e semimanufacturas corticeiras, nas unidades de transformação industrial da cortiça;\n\nh) Introdução de esquemas de aproveitamento industrial das águas de cozedura, nas unidades preparadoras de cortiça, que conduzam à obtenção de substâncias com boas perspectivas de colocação no mercado;\n\ni) Introdução de esquemas de tratamento de efluentes líquidos originados pela operação de cozedura, nas unidades preparadoras de cortiça;\n\nj) Edição e divulgação de informação sobre quantidades e características tecnológicas da matéria-prima e produtos provenientes da primeira transformação, tendo como alvos prioritários os produtores e industriais de cortiça.\n\n2 - Para efeitos deste Regulamento, os projectos são classificados de acordo com a seguinte tipologia:\n\na) Tipo 1: pequenos projectos com volume de investimento elegível até 250000 euros;\n\nb) Tipo 2: projectos com um valor de investimento elegível superior a 250000 euros e inferior a 12500000 euros."
+  },
+  "167608171": {
+   "fragment_id": "167808676",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de acesso dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de acesso dos beneficiários\n\n1 - Podem beneficiar das ajudas previstas neste Regulamento os beneficiários que satisfaçam os seguintes requisitos:\n\na) Demonstrem possuir situação económica e financeira equilibrada, com uma autonomia financeira (AF) pré e pós-projecto igual ou superior a 0,2, bem como uma cobertura do imobilizado por capitais permanentes (CI) pré e pós-projecto igual ou superior a 1, devendo os indicadores pré-projecto ter por base o exercício anterior ao ano da apresentação da candidatura;\n\nb) Se obriguem, caso a candidatura venha a ser aprovada, a que o montante dos suprimentos e ou empréstimos de sócios ou accionistas que contribuam para garantir os indicadores referidos na alínea anterior seja integrado em capitais próprios antes da assinatura do contrato de concessão das respectivas ajudas;\n\nc) Demonstrem possuir capacidade técnica e de gestão;\n\nd) Disponham de recursos humanos adequados à situação pós-investimento ou se comprometam a realizar a necessária formação profissional;\n\ne) Declarem dispor de contabilidade actualizada e organizada de acordo com as especificações do Plano Oficial de Contabilidade, ou satisfaçam estes requisitos até à data de assinatura do contrato de atribuição de ajudas;\n\nf) Possuam ou declarem vir a possuir sistemas de controlo adequados ao acompanhamento e avaliação da execução do projecto de investimento que permitam evidenciar as ajudas atribuídas;\n\ng) Comprovem que não são devedores ao Estado nem à segurança social de quaisquer contribuições, impostos, quotizações e outras importâncias, ou que o seu pagamento está assegurado;\n\nh) Declarem que não estão abrangidos por quaisquer disposições de exclusão resultante de incumprimento de obrigações decorrentes de contratos, celebrados nos cinco anos anteriores à apresentação da candidatura, relativos a investimentos anteriormente co-financiados por ajudas públicas;\n\ni) Cumpram as normas mínimas comunitárias relativas ao ambiente;\n\nj) Cumpram as normas de higiene, saúde e segurança do trabalho florestal.\n\n2 - O disposto na alínea a) do número anterior não se aplica aos beneficiários que, até à data de apresentação da candidatura, não tenham desenvolvido qualquer actividade, bem como aos empresários em nome individual sem contabilidade organizada, casos em que se considera que possuem uma situação financeira equilibrada, se suportarem com capitais próprios, pelo menos, 20% do custo total do investimento e garantirem uma CI pós-projecto igual ou superior a 1.\n\n3 - O disposto na alínea h) do n.º 1 não se aplica aos beneficiários cujo acto de constituição tenha ocorrido nos 90 dias anteriores à apresentação da candidatura."
+  },
+  "167608172": {
+   "fragment_id": "167808677",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições de acesso do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições de acesso do projecto\n\nPodem aceder às ajudas previstas neste Regulamento os projectos que reúnam, nomeadamente, as seguintes condições:\n\na) Sejam viáveis técnica, económica e financeiramente;\n\nb) Demonstrem estar assegurado o escoamento normal no mercado dos produtos em causa, quando for caso disso;\n\nc) Estejam aprovados ou devidamente instruídos, nos termos da legislação vigente sobre o exercício da actividade industrial;\n\nd) Nos casos em que os projectos de investimento ou as actividades a que os projectos respeitam não sejam passíveis de licenciamento industrial, apresentem comprovativos de:\n\ni) Aprovação de localização;\n\nii) Cumprimento das normas sanitárias;\n\niii) Cumprimento da legislação ambiental ou de que o processo está devidamente instruído;\n\ne) Tenham início após a data de apresentação da candidatura, entendendo-se por data de início a data da factura mais antiga relativa a investimentos elegíveis em activos corpóreos efectuados no âmbito da mesma, devendo o início dos trabalhos ser previamente comunicado ao Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP);\n\nf) Apresentem uma taxa interna de rentabilidade (TIR) de valor igual ou superior à taxa de refinanciamento (REFI) do Banco Central Europeu em vigor à data da apresentação da candidatura, acrescido de um spread de 2%."
+  },
+  "167608173": {
+   "fragment_id": "167808678",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis, parcialmente elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis, parcialmente elegíveis e não elegíveis\n\nAs despesas elegíveis, as parcialmente elegíveis e as totalmente não elegíveis são as previstas no anexo I a este Regulamento."
+  },
+  "167608174": {
+   "fragment_id": "167808679",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma e valores das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma e valores das ajudas\n\n1 - O valor das ajudas a atribuir é de 30% das despesas elegíveis, podendo ser majorada em, no máximo, mais 20% em função dos critérios constantes do anexo II.\n\n2 - A natureza dos incentivos será a seguinte para as diferentes tipologias de investimentos:\n\na) Tipo 1: incentivo não reembolsável;\n\nb) Tipo 2: incentivo não reembolsável e incentivo reembolsável à taxa de juro zero, na proporção, respectivamente, de 80% e 20% do valor da ajuda calculado nos termos do n.º 1, não podendo a parte do incentivo não reembolsável ultrapassar 1750000 euros e o valor total da ajuda exceder 3750000 euros.\n\n3 - A ajuda atribuída sob a forma de incentivo reembolsável será amortizada no prazo máximo de cinco anos, com período máximo de dois anos de carência.\n\n4 - Os beneficiários podem optar entre a concessão da ajuda nos termos dos números anteriores ou pela sua atribuição unicamente sob a forma de bonificação de juros, sendo o limite de investimento elegível, neste último caso, de 12500000 euros.\n\n5 - A bonificação de juros a que se refere o número anterior é concedida nos termos de linha de crédito a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n> Nota: [Artigo 5.º, Portaria n.º 110/2013 - Diário da República n.º 55/2013, Série I de 2013-03-19](https://diariodarepublica.pt/dr/detalhe/portaria/110-2013-259878) A alteração ao presente artigo aplica-se aos montantes ainda não reembolsados ou cobrados, relativos a investimentos em situação regular."
+  },
+  "167808775": {
+   "fragment_id": "167808680",
+   "type": 11,
+   "heading": "Artigo 11.º — Limites à apresentação de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Limites à apresentação de projectos\n\n1 - O mesmo promotor só poderá apresentar, para o mesmo estabelecimento, dois projectos de investimento de cada tipo, sendo de três o limite total de projectos caso o promotor beneficie de ajudas para projectos de tipos 1 e 2.\n\n2 - O segundo projecto e os subsequentes só podem ser apresentados quando o(s) anterior(es) tenha(m) sido executado(s).\n\n3 - O disposto nos números anteriores não se aplica às situações previstas no n.º 4 do artigo anterior, em que a ajuda é concedida apenas para o primeiro e único projecto."
+  },
+  "167808776": {
+   "fragment_id": "167808681",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação e recepção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação e recepção das candidaturas\n\n1 - As candidaturas serão formalizadas através da apresentação junto do IFADAP do formulário próprio.\n\n2 - O formulário de candidatura deve ser acompanhado de todos os documentos indicados nas respectivas instruções."
+  },
+  "167808777": {
+   "fragment_id": "167808682",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise das candidaturas\n\nA análise das candidaturas e a formulação das propostas de decisão compete ao gestor do Programa Agro, sem prejuízo da faculdade de delegação de competências nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril."
+  },
+  "167808778": {
+   "fragment_id": "167808683",
+   "type": 11,
+   "heading": "Artigo 14.º — Parecer da unidade de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Parecer da unidade de gestão\n\nAs propostas de decisão sobre as candidaturas são submetidas a parecer da unidade de gestão."
+  },
+  "167808779": {
+   "fragment_id": "167808684",
+   "type": 11,
+   "heading": "Artigo 15.º — Decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Decisão das candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação dessas competências nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n2 - São recusadas as candidaturas que não reúnam os requisitos previstos neste Regulamento ou não tenham cobertura orçamental assegurada.\n\n3 - Consideram-se prioritárias as candidaturas apresentadas por aqueles que nunca tenham beneficiado de ajudas públicas."
+  },
+  "167808780": {
+   "fragment_id": "167808685",
+   "type": 11,
+   "heading": "Artigo 16.º — Contrato de atribuição de ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contrato de atribuição de ajudas\n\n1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o IFADAP e o beneficiário, no prazo máximo de 30 dias a contar da data da aprovação pelo MADRP da respectiva candidatura.\n\n2 - O IFADAP só poderá contratar candidaturas cujos processos de licenciamento industrial, quando exigido, tenham sido aprovados, bem como, no caso de produtos novos, quando o respectivo processo de registo de patente esteja concluído.\n\n3 - Pode ser exigida a constituição de garantias a favor do IFADAP para segurança do reembolso das ajudas."
+  },
+  "167808781": {
+   "fragment_id": "167808686",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações dos beneficiários\n\n1 - Constituem, nomeadamente, obrigações dos beneficiários:\n\na) Aplicar a ajuda exclusivamente na realização do projecto de investimento, com vista a atingir os objectivos que estiveram na base da sua atribuição;\n\nb) Assegurar as demais componentes do financiamento, cumprindo pontualmente as obrigações para o efeito contraídas perante terceiros, por forma a não perturbar a prossecução dos objectivos do investimento;\n\nc) Executar o projecto dentro do prazo estabelecido;\n\nd) Manter integralmente os requisitos que estiveram na base da atribuição da ajuda, designadamente os relativos ao projecto;\n\ne) Apresentar ao IFADAP, no prazo de dois anos a contar do recebimento integral do incentivo não reembolsável, um relatório devidamente fundamentado sobre os resultados económicos e financeiros do investimento;\n\nf) Nos investimentos do tipo 2, enviar ao IFADAP, até 30 Junho de cada ano e enquanto não for efectuado o reembolso integral da ajuda atribuída sob a forma de incentivo reembolsável, cópia do modelo fiscal e respectivos anexos relativos ao ano precedente;\n\ng) Não proceder a qualquer alteração ao projecto sem prévia autorização do IFADAP durante o período de vigência do contrato de atribuição das ajudas;\n\nh) Não locar, alienar ou, por qualquer forma, onerar os equipamentos ou as instalações co-financiadas no âmbito do projecto, respectivamente no prazo de 6 ou 10 anos a contar da sua aquisição ou do fim dos trabalhos, sem prévia autorização do IFADAP;\n\ni) Publicitar o co-financiamento do investimento no local de realização do projecto, a partir da data de assinatura do respectivo contrato de atribuição de ajudas.\n\n2 - Constituem, ainda, obrigações específicas dos beneficiários:\n\na) Utilizar nos trabalhos apenas pessoal habilitado para o efeito e assegurar que as máquinas e equipamentos utilizados não causam dano no arvoredo, nem prejudicam a qualidade da cortiça, no caso de projectos relacionados com a operação de descortiçamento;\n\nb) Assegurar que as máquinas e equipamentos utilizados não prejudicam a qualidade da cortiça, quando se trate de projectos relacionados com a operação de pós-colheita da cortiça anterior à sua retirada do mato;\n\nc) Assegurar que o primeiro repouso da cortiça é feito em moldes técnicos adequados, no caso de projectos relacionados com a criação de instalações de recepção de cortiça em bruto;\n\nd) Transmitir a informação obtida às entidades interessadas na transacção comercial de cortiça, quando se trate de projectos relacionados com a caracterização tecnológica e quantitativa da cortiça em bruto ou sujeita a uma primeira transformação industrial;\n\ne) Assegurar que o repouso/armazenagem da cortiça é feito em moldes técnicos adequados, quando se trate de projectos relacionados com o repouso/armazenagem de matérias-primas e semimanufacturas corticeiras em unidades de transformação industrial."
+  },
+  "167808782": {
+   "fragment_id": "167808687",
+   "type": 11,
+   "heading": "Artigo 18.º — Execução dos investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Execução dos investimentos\n\n1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física dos investimentos são de, respectivamente, 6 e 24 meses, contados a partir da data de assinatura do contrato de atribuição das ajudas.\n\n2 - O IFADAP pode, em casos excepcionais e devidamente justificados, conceder a prorrogação do prazo de conclusão da execução física dos investimentos, no máximo, por mais seis meses."
+  },
+  "167808783": {
+   "fragment_id": "167808688",
+   "type": 11,
+   "heading": "Artigo 19.º — Pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pagamento das ajudas\n\n1 - Os pagamentos das ajudas são efectuados pelo IFADAP, após a apresentação pelo beneficiário dos documentos comprovativos do pagamento das despesas, em conformidade com os formulários tipo definidos por aquele Instituto.\n\n2 - A primeira prestação das ajudas só será paga após a realização de 25% do investimento elegível.\n\n3 - A ajuda será paga proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 20% dessa ajuda.\n\n4 - A ajuda atribuída sob a forma de incentivo reembolsável será libertada após o pagamento do incentivo não reembolsável.\n\n5 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento da ajuda.\n\n6 - Quando o investimento elegível final for inferior ao aprovado, a ajuda atribuída será ajustada de modo a manter-se a taxa de comparticipação global atribuída na decisão de aprovação.\n\n7 - O pagamento das ajudas será efectuado no prazo máximo de 60 dias após a recepção do respectivo pedido de pagamento no IFADAP, salvo nos casos em que se verifique a interrupção da contagem daquele prazo por solicitação ao beneficiário de informações complementares ou reformulação documental.\n\n8 - O último pagamento da ajuda só poderá ser efectuado quando o respectivo beneficiário demonstrar ser detentor da respectiva autorização de laboração definitiva, quando aplicável.\n\n9 - O pedido de pagamento de saldo das ajudas deverá dar entrada no IFADAP, o mais tardar 27 meses após a assinatura do contrato, excepto no caso previsto no n.º 2 do artigo anterior, em que o pedido de pagamento de saldo deverá ser presente ao IFADAP 3 meses após o fim de prazo de prorrogação autorizado."
+  },
+  "167808784": {
+   "fragment_id": "167808689",
+   "type": 11,
+   "heading": "Artigo 20.º — Zonas suberícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Zonas suberícolas\n\nA definição e delimitação das zonas suberícolas para efeitos do presente diploma são estabelecidas por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta da Direcção-Geral das Florestas."
+  },
+  "167808785": {
+   "fragment_id": "167808690",
+   "type": 11,
+   "heading": "Artigo 21.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Normas transitórias\n\n1 - Os investimentos respeitantes a candidaturas que, independentemente do regime de incentivos, tenham sido apresentadas à entidade receptora até 31 de Dezembro de 1999 poderão ser elegíveis no âmbito deste Regulamento, desde que os promotores reformulem as candidaturas de acordo com o presente regime de ajudas até 31 de Outubro do corrente ano.\n\n2 - Nos casos referidos no número anterior, são elegíveis as despesas efectuadas após a data de apresentação da candidatura.\n\n3 - Quando se trate de projectos que não tenham sido objecto de candidatura, podem ser consideradas as despesas efectuadas entre 19 de Novembro de 1999 e a entrada em vigor do presente Regulamento, desde que os beneficiários apresentem as candidaturas, de acordo com o presente regime de ajudas, até 31 de Outubro do corrente ano."
+  },
+  "167808786": {
+   "fragment_id": "167808691",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis, parcialmente elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Despesas elegíveis, parcialmente elegíveis e não elegíveis\n\n(a que se refere o artigo 9.º)\n\n1 - Consideram-se elegíveis as despesas com:\n\na) Aquisição de máquinas e equipamentos para descortiçamento e falquejamento;\n\nb) Aquisição de máquinas e equipamentos que contribuam para modernizar e racionalizar operações de pós-colheita da cortiça anteriores à sua retirada do mato;\n\nc) Criação, em zonas suberícolas, de instalações de recepção de cortiça em bruto;\n\nd) Aquisição de máquinas e equipamentos com a finalidade de obter, para efeitos da transacção comercial, uma melhor caracterização tecnológica e quantitativa da cortiça em bruto ou sujeita a uma primeira transformação industrial;\n\ne) Criação ou modernização de unidades de primeira transformação da cortiça, visando a preparação e ou a trituração/granulação desta matéria-prima, em zonas suberícolas não suficientemente cobertas por uma actividade de primeira transformação industrial da cortiça;\n\nf) Criação, em zonas suberícolas, de unidades transformadoras que, utilizando como matéria-prima predominante desperdícios de cortiça habitualmente destinados a queima, tenham por objectivo a obtenção de produtos novos, com boas perspectivas de colocação no mercado;\n\ng) Aquisição de máquinas e equipamentos, por unidades de transformação industrial da cortiça, visando a melhoria das condições de repouso/armazenagem de matérias-primas e ou de semimanufacturas corticeiras;\n\nh) Aquisição de máquinas e equipamentos, por unidades preparadoras de cortiça, visando a obtenção de substâncias resultantes do aproveitamento industrial de águas de cozedura;\n\ni) Aquisição de equipamentos e sistemas, por unidades preparadoras de cortiça, para tratamento de efluentes originados pela operação de cozedura;\n\nj) São ainda elegíveis, desde que relacionadas com a actividade a desenvolver, as despesas com:\n\ni) Construção, adaptação e aquisição de instalações;\n\nii) Aquisição de equipamentos de transporte interno e movimentação de cargas;\n\niii) Aquisição de equipamentos e programas informáticos.\n\n2 - São parcialmente elegíveis:\n\na) Despesas gerais, nomeadamente com estudos técnico-económicos, aquisição de patentes e licenças e imprevistos, até ao limite de 12% das despesas elegíveis;\n\nb) São igualmente elegíveis, e dentro do limite referido na alínea anterior, os seguros de construção e de incêndio, bem como, até 2% daquele valor, os custos associados às garantias exigidas no âmbito da análise de risco do projecto até à libertação da última parcela do incentivo.\n\n3 - Não são elegíveis os investimentos relativos a:\n\na) Aquisição de máquinas e outros bens de equipamento em estado de uso (não novos);\n\nb) Compra de terrenos e respectivas despesas de aquisição (notariais, de registos, sisa, etc.);\n\nc) Despesas realizadas antes da data de apresentação da candidatura, sendo, no entanto, admitidas como elegíveis as seguintes acções:\n\ni) Estudos de planificação;\n\nii) Estudos preparatórios;\n\niii) Projectos e actos administrativos relativos à obtenção das autorizações necessárias, nomeadamente da licença de construção e do exercício da actividade nos termos da legislação sobre licenciamento;\n\niv) Encomendas de máquinas ou equipamentos, aparelhos e materiais de construção, desde que, respectivamente, a sua montagem, instalação e entrega não tenham lugar antes da data de apresentação da candidatura;\n\nv) Vedação de terrenos."
+  },
+  "167808787": {
+   "fragment_id": "167808692",
+   "type": 14,
+   "heading": "Anexo II — Critérios de majoração da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Critérios de majoração da ajuda\n\n(a que se refere o n.º 1 do artigo 10.º)\n\nCritério 1 - investimentos prioritários - haverá lugar a majoração de 5% do nível das ajudas sempre que os projectos sejam prioritários.\n\nSão considerados prioritários os projectos que tenham associada uma perspectiva integradora.\n\nSão considerados integradores os projectos que:\n\na) Situando-se a montante da primeira transformação, incluam investimentos associados às actividades de descortiçamento, falquejamento, pós-colheita e recepção/armazenagem de cortiça em bruto;\n\nb) Reportando-se à primeira transformação, incluam investimentos associados ao repouso e armazenagem das matérias-primas e dos produtos semimanufacturados, à primeira transformação da cortiça e aos investimentos associados a, pelo menos, dois dos seguintes objectivos:\n\nTratamento e utilização de desperdícios numa perspectiva inovadora;\n\nTratamento de efluentes originados pela operação de cozedura;\n\nAproveitamento industrial das águas de cozedura;\n\nCaracterização tecnológica e quantitativa da cortiça.\n\nSão, ainda, considerados projectos integradores os que envolvam investimentos associados às operações e actividades referenciadas nas alíneas anteriores numa óptica de fileira.\n\nPara que os projectos acima referidos sejam considerados prioritários é ainda necessário que os investimentos directamente associados às operações e actividades atrás identificadas representem, pelo menos, 75% do custo total do projecto.\n\nCritério 2 - promotor do investimento - haverá lugar a majoração de 6% do nível das ajudas, sempre que os projectos sejam propostos por produtores suberícolas ou suas organizações.\n\nCritério 3 - benefícios para a produção/zona suberícola - haverá lugar a majoração de 6% do nível das ajudas sempre que se verifiquem, simultaneamente, as condições a seguir enunciadas:\n\nLocalização em zona suberícola;\n\nAcréscimo de emprego, se representar, relativamente ao efectivo existente, um acréscimo de um trabalhador, no caso de empresas com um efectivo inferior a 20, ou um acréscimo de 5%, nos restantes casos, verificável até ao pagamento do saldo da ajuda.\n\nCritério 4 - diminuição do número de intermediários entre a produção e a transformação industrial - haverá lugar a majoração de 3% do nível das ajudas sempre que os projectos visem a transacção directa entre produtores suberícolas ou suas organizações e a transformação industrial."
+  },
+  "921141997": {
+   "fragment_id": "921021407",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Agosto de 2000."
+  },
+  "921141996": {
+   "fragment_id": "921021406",
+   "type": 14,
+   "heading": "REGULAMENTO DE APLICAÇÃO DA ACÇÃO N.º 3.4: COLHEITA, TRANSFORMAÇÃO E COMERCIALIZAÇÃO DE CORTIÇA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## REGULAMENTO DE APLICAÇÃO DA ACÇÃO N.º 3.4: COLHEITA, TRANSFORMAÇÃO E COMERCIALIZAÇÃO DE CORTIÇA"
+  },
+  "921194591": {
+   "fragment_id": "167808676",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de acesso dos beneficiários",
+   "in_force_from": "2006-04-11",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 336/2006 - Diário da República n.º 69/2006, Série I-B de 2006-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/336-2006-673046), em vigor a partir de 2006-04-11",
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-M/2000 - Diário da República n.º 227/2000, 2º Suplemento, Série I-B de 2000-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-2000-569899), produz efeitos a partir de 2000-08-06"
+   ],
+   "markdown": "###### Artigo 7.º — Condições de acesso dos beneficiários\n\n1 - Podem beneficiar das ajudas previstas neste Regulamento os beneficiários que satisfaçam os seguintes requisitos:\n\na) Demonstrem possuir situação económica e financeira equilibrada, com uma autonomia financeira (AF) pré e pós-projecto igual ou superior a 0,2, bem como uma cobertura do imobilizado por capitais permanentes (CI) pré e pós-projecto igual ou superior a 1, devendo os indicadores pré-projecto ter por base o exercício anterior ao ano da apresentação da candidatura;\n\nb) Se obriguem, caso a candidatura venha a ser aprovada, a que o montante dos suprimentos e ou empréstimos de sócios ou accionistas que contribuam para garantir os indicadores referidos na alínea anterior seja integrado em capitais próprios antes da assinatura do contrato de concessão das respectivas ajudas;\n\nc) Demonstrem possuir capacidade técnica e de gestão;\n\nd) Disponham de recursos humanos adequados à situação pós-investimento ou se comprometam a realizar a necessária formação profissional;\n\ne) Declarem dispor de contabilidade actualizada e organizada de acordo com as especificações do Plano Oficial de Contabilidade, ou satisfaçam estes requisitos até à data de assinatura do contrato de atribuição de ajudas;\n\nf) Possuam ou declarem vir a possuir sistemas de controlo adequados ao acompanhamento e avaliação da execução do projecto de investimento que permitam evidenciar as ajudas atribuídas;\n\ng) Comprovem que não são devedores ao Estado nem à segurança social de quaisquer contribuições, impostos, quotizações e outras importâncias, ou que o seu pagamento está assegurado;\n\nh) Declarem que não estão abrangidos por quaisquer disposições de exclusão resultante de incumprimento de obrigações decorrentes de contratos, celebrados nos cinco anos anteriores à apresentação da candidatura, relativos a investimentos anteriormente co-financiados por ajudas públicas;\n\ni) Cumpram as normas comunitárias relativas ao ambiente;\n\nj) Cumpram as normas de higiene, saúde e segurança do trabalho florestal.\n\n2 - O disposto na alínea a) do número anterior não se aplica aos beneficiários que, até à data de apresentação da candidatura, não tenham desenvolvido qualquer actividade, bem como aos empresários em nome individual sem contabilidade organizada, casos em que se considera que possuem uma situação financeira equilibrada, se suportarem com capitais próprios, pelo menos, 20% do custo total do investimento e garantirem uma CI pós-projecto igual ou superior a 1.\n\n3 - O disposto na alínea a) do n.º 1 não se aplica, ainda, aos produtores suberícolas quando estejam em causa projectos que integrem, maioritariamente, as despesas referidas nas alíneas a) a c) do n.º 1 do anexo I a este Regulamento, caso em que se considera que possuem uma situação equilibrada se suportarem, com capitais próprios, pelo menos, 20% do custo total do investimento.\n\n4 - O disposto na alínea h) do n.º 1 não se aplica aos beneficiários cujo acto de constituição tenha ocorrido nos 90 dias anteriores à apresentação da candidatura.\n\n> Alterado pelo/a [Portaria n.º 336/2006 - Diário da República n.º 69/2006, Série I-B de 2006-04-06](https://diariodarepublica.pt/dr/detalhe/portaria/336-2006-673046), em vigor a partir de 2006-04-11\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-M/2000 - Diário da República n.º 227/2000, 2º Suplemento, Série I-B de 2000-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-2000-569899), produz efeitos a partir de 2000-08-06"
+  },
+  "921142002": {
+   "fragment_id": "167808690",
+   "type": 11,
+   "heading": "Artigo 21.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-M/2000 - Diário da República n.º 227/2000, 2º Suplemento, Série I-B de 2000-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-2000-569899), produz efeitos a partir de 2000-08-06"
+   ],
+   "markdown": "###### Artigo 21.º — Normas transitórias\n\n1 - Os investimentos respeitantes a candidaturas que, independentemente do regime de incentivos, tenham sido apresentadas à entidade receptora até 31 de Dezembro de 1999 poderão ser elegíveis no âmbito deste Regulamento, desde que os promotores reformulem as candidaturas de acordo com o presente regime de ajudas até 31 de Outubro do corrente ano.\n\n2 - Nos casos referidos no número anterior, são elegíveis as despesas efectuadas após a data de apresentação da candidatura.\n\n3 - Quando se trate de projectos que não tenham sido objecto de candidatura, podem ser consideradas as despesas efectuadas após 19 de Novembro de 1999, desde que os beneficiários apresentem as candidaturas, de acordo com o presente regime de ajudas, até 31 de Outubro do corrente ano.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-M/2000 - Diário da República n.º 227/2000, 2º Suplemento, Série I-B de 2000-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-2000-569899), produz efeitos a partir de 2000-08-06"
+  },
+  "921142003": {
+   "fragment_id": "167808691",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis, parcialmente elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-M/2000 - Diário da República n.º 227/2000, 2º Suplemento, Série I-B de 2000-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-2000-569899), produz efeitos a partir de 2000-08-06"
+   ],
+   "markdown": "## Anexo I — Despesas elegíveis, parcialmente elegíveis e não elegíveis\n\n(a que se refere o artigo 9.º)\n\n1 - Consideram-se elegíveis as despesas com:\n\na) Aquisição de máquinas e equipamentos para descortiçamento e falquejamento;\n\nb) Aquisição de máquinas e equipamentos que contribuam para modernizar e racionalizar operações de pós-colheita da cortiça anteriores à sua retirada do mato;\n\nc) Criação, em zonas suberícolas, de instalações de recepção de cortiça em bruto;\n\nd) Aquisição de máquinas e equipamentos com a finalidade de obter, para efeitos da transacção comercial, uma melhor caracterização tecnológica e quantitativa da cortiça em bruto ou sujeita a uma primeira transformação industrial;\n\ne) Criação ou modernização de unidades de primeira transformação da cortiça, visando a preparação e ou a trituração/granulação desta matéria-prima, em zonas suberícolas não suficientemente cobertas por uma actividade de primeira transformação industrial da cortiça;\n\nf) Criação, em zonas suberícolas, de unidades transformadoras que, utilizando como matéria-prima predominante desperdícios de cortiça habitualmente destinados a queima, tenham por objectivo a obtenção de produtos novos, com boas perspectivas de colocação no mercado;\n\ng) Aquisição de máquinas e equipamentos, por unidades de transformação industrial da cortiça, visando a melhoria das condições de repouso/armazenagem de matérias-primas e ou de semimanufacturas corticeiras;\n\nh) Aquisição de máquinas e equipamentos, por unidades preparadoras de cortiça, visando a obtenção de substâncias resultantes do aproveitamento industrial de águas de cozedura;\n\ni) Aquisição de equipamentos e sistemas, por unidades preparadoras de cortiça, para tratamento de efluentes originados pela operação de cozedura;\n\nj) São ainda elegíveis, desde que relacionadas com a actividade a desenvolver, as despesas com:\n\ni) Construção, adaptação e aquisição de instalações;\n\nii) Aquisição de equipamentos de transporte interno e movimentação de cargas;\n\niii) Aquisição de equipamentos e programas informáticos.\n\n2 - São parcialmente elegíveis:\n\na) Despesas gerais, nomeadamente com estudos técnico-económicos, aquisição de patentes e licenças e imprevistos, até ao limite de 12% das despesas elegíveis;\n\nb) São igualmente elegíveis, e dentro do limite referido na alínea anterior, os seguros de construção e de incêndio, bem como, até 2% do valor das despesas elegíveis, os custos associados às garantias exigidas no âmbito da análise de risco do projecto até à libertação da última parcela do incentivo.\n\n3 - Não são elegíveis os investimentos relativos a:\n\na) Aquisição de máquinas e outros bens de equipamento em estado de uso (não novos);\n\nb) Compra de terrenos e respectivas despesas de aquisição (notariais, de registos, sisa, etc.);\n\nc) Despesas realizadas antes da data de apresentação da candidatura, sendo, no entanto, admitidas como elegíveis as seguintes acções:\n\ni) Estudos de planificação;\n\nii) Estudos preparatórios;\n\niii) Projectos e actos administrativos relativos à obtenção das autorizações necessárias, nomeadamente da licença de construção e do exercício da actividade nos termos da legislação sobre licenciamento;\n\niv) Encomendas de máquinas ou equipamentos, aparelhos e materiais de construção, desde que, respectivamente, a sua montagem, instalação e entrega não tenham lugar antes da data de apresentação da candidatura;\n\nv) Vedação de terrenos.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-M/2000 - Diário da República n.º 227/2000, 2º Suplemento, Série I-B de 2000-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-m-2000-569899), produz efeitos a partir de 2000-08-06"
+  },
+  "921194628": {
+   "fragment_id": "167808679",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma e valores das ajudas",
+   "in_force_from": "2013-03-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 110/2013 - Diário da República n.º 55/2013, Série I de 2013-03-19](https://diariodarepublica.pt/dr/detalhe/portaria/110-2013-259878), em vigor a partir de 2013-03-20"
+   ],
+   "markdown": "###### Artigo 10.º — Forma e valores das ajudas\n\n1 - O valor das ajudas a atribuir é de 30% das despesas elegíveis, podendo ser majorada em, no máximo, mais 20% em função dos critérios constantes do anexo II.\n\n2 - A natureza dos incentivos será a seguinte para as diferentes tipologias de investimentos:\n\na) Tipo 1: incentivo não reembolsável;\n\nb) Tipo 2: incentivo não reembolsável e incentivo reembolsável à taxa de juro zero, na proporção, respectivamente, de 80% e 20% do valor da ajuda calculado nos termos do n.º 1, não podendo a parte do incentivo não reembolsável ultrapassar 1750000 euros e o valor total da ajuda exceder 3750000 euros.\n\n3 - A ajuda atribuída sob a forma de incentivo reembolsável é amortizada, sem prejuízo do disposto no n.º 6, no prazo máximo de cinco anos, com período máximo de dois anos de carência.\n\n4 - Os beneficiários podem optar entre a concessão da ajuda nos termos dos números anteriores ou pela sua atribuição unicamente sob a forma de bonificação de juros, sendo o limite de investimento elegível, neste último caso, de 12500000 euros.\n\n5 - A bonificação de juros a que se refere o número anterior é concedida nos termos de linha de crédito a definir por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n6 - Excecionalmente, a ajuda atribuída sob a forma de incentivo reembolsável pode ser amortizada, no prazo máximo de sete anos, mediante a apresentação, pelo beneficiário, de requerimento devidamente fundamentado, dirigido ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P., ),\n\n7 - O IFAP, I.P. define e publica, previamente, no seu sítio da internet, os critérios e as condições de revisão da amortização dos incentivos, e aprova os novos planos de reembolso.\n\n8 - O prazo de cinco e de sete anos, previsto nos números 3 e 5, é contado a partir data do pagamento do incentivo.\n\n> Nota: [Artigo 5.º, Portaria n.º 110/2013 - Diário da República n.º 55/2013, Série I de 2013-03-19](https://diariodarepublica.pt/dr/detalhe/portaria/110-2013-259878) A alteração ao presente artigo aplica-se aos montantes ainda não reembolsados ou cobrados, relativos a investimentos em situação regular.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 110/2013 - Diário da República n.º 55/2013, Série I de 2013-03-19](https://diariodarepublica.pt/dr/detalhe/portaria/110-2013-259878), em vigor a partir de 2013-03-20"
+  }
+ }
+}

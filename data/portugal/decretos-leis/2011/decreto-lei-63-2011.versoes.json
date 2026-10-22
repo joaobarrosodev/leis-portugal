@@ -1,0 +1,640 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:286756:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-157236988",
+ "dre_path": "/dr/detalhe/decreto-lei/63-2011-286756",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "161633216",
+    "157238688",
+    "157238689",
+    "157238690",
+    "157238691",
+    "157238692",
+    "157238693",
+    "157238694",
+    "157238695",
+    "157238696",
+    "157238697",
+    "157238698",
+    "157238699",
+    "157238700",
+    "157238701",
+    "157238702",
+    "157238703",
+    "157238704",
+    "157238705",
+    "157238706",
+    "157238707",
+    "157238708",
+    "157238709",
+    "157238710",
+    "157238711",
+    "157238712"
+   ]
+  },
+  {
+   "date": "2015-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67123272:por",
+     "title": "Decreto-Lei n.º 68-A/2015",
+     "published": "2015-04-30",
+     "dre_path": "/dr/detalhe/decreto-lei/68-a-2015-67123272"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "157238687",
+    "157238688",
+    "157238689",
+    "157238690",
+    "157238691",
+    "157238692",
+    "157238693",
+    "157238694",
+    "157238695",
+    "157238696",
+    "157238697",
+    "157238698",
+    "157238699",
+    "157352022",
+    "157238701",
+    "157238702",
+    "157238703",
+    "157238704",
+    "157238705",
+    "157238706",
+    "157238707",
+    "157238708",
+    "157238709",
+    "157238710",
+    "157238711",
+    "157238712",
+    "157238713"
+   ]
+  },
+  {
+   "date": "2021-04-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:161766416:por",
+     "title": "Decreto-Lei n.º 28/2021",
+     "published": "2021-04-20",
+     "dre_path": "/dr/detalhe/decreto-lei/28-2021-161766416"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "161633216",
+    "161633217",
+    "161633218",
+    "161633219",
+    "161633220",
+    "161633221",
+    "161633222",
+    "161633223",
+    "161633224",
+    "161633225",
+    "161633226",
+    "161633227",
+    "161633228",
+    "161633229",
+    "161633230",
+    "161633231",
+    "161633232",
+    "161633233",
+    "161633234",
+    "161633235",
+    "161633236",
+    "161633237",
+    "161633238",
+    "161633239",
+    "161633240",
+    "161633241",
+    "161633242"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595",
+     "date": "2021-07-28"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "161633216": {
+   "fragment_id": "157236989",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-04-21",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 63/2011\n\nde 9 de Maio\n\nO presente decreto-lei estabelece as medidas de informação a prestar ao utilizador final de produtos com impacto no consumo energético, transpondo a Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio, relativa à indicação do consumo de energia e de outros recursos por parte dos produtos relacionados com a energia, por meio de etiquetagem e outras indicações uniformes relativas aos produtos.\n\nO regime consagrado vem estabelecer a obrigatoriedade de colocação de etiquetas e elaboração de fichas de informação sobre o consumo de energia e de outros recursos essenciais de produtos que tenham impacto no consumo de energia, inserindo-se nos objectivos de política energética definidos na Estratégia Nacional para a Energia com o horizonte de 2020 (ENE 2020).\n\nA obrigatoriedade de aposição de etiquetas e elaboração de fichas informativas sobre o consumo de energia e de recursos essenciais utilizados, bem como outras informações sobre o rendimento e as características do produto, visa permitir aos utilizadores finais escolher os produtos mais eficientes energeticamente.\n\nOs produtos concretamente abrangidos, tal como a definição do conteúdo e dos aspectos relativos às etiquetas e às fichas de cada tipo de produto, nomeadamente os métodos de medição, as especificações relativas à documentação técnica, o formato e o conteúdo da etiqueta e o conteúdo específico da etiqueta para fins de publicidade, incluindo a classe energética, é feito pela Comissão Europeia através de actos delegados, nos termos do disposto na Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio.\n\nO presente decreto-lei vem ainda revogar a legislação aplicável à etiquetagem, permitindo a etiquetagem de todos os produtos relacionados com o consumo de energia nos termos a definir pelos actos delegados da Comissão Europeia.\n\nA transposição da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio, a que se procede vem, assim, permitir incluir nos produtos sujeitos a etiquetagem os produtos dos sectores doméstico, comercial e industrial e alguns produtos que, embora não consumidores de energia, têm um considerável potencial de poupança de energia quando utilizados ou instalados, nos termos a definir por actos delegados da Comissão Europeia.\n\nAlém disso, as medidas definidas no presente diploma, ao promoverem a eficiência energética, dão um contributo significativo para os objectivos da política de combate às alterações climáticas.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nForam ouvidos, a título facultativo, a APA - Agência Portuguesa do Ambiente, a ADENE - Agência para a Energia, a AGEFE - Associação Empresarial dos Sectores Eléctrico, Electrodoméstico, Fotográfico e Electrónico e a ANIMEE - Associação Portuguesa das Empresas do Sector Eléctrico e Electrónico.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "157238688": {
+   "fragment_id": "157236990",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece as medidas de informação a prestar ao utilizador final através de etiquetagem e outras indicações uniformes sobre o consumo de energia e, quando necessário, de outros recursos essenciais necessários à utilização dos produtos relacionados com a energia, transpondo a Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio."
+  },
+  "157238689": {
+   "fragment_id": "157236991",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - As disposições do presente decreto-lei aplicam-se aos produtos relacionados com a energia que durante a sua utilização têm um impacto significativo, directo ou indirecto, no consumo de energia e, se for o caso, no consumo de outros recursos essenciais.\n\n2 - O presente decreto-lei aplica-se às peças a incorporar em produtos relacionados com a energia, bem como peças individuais para utilizadores finais, e cujo desempenho ambiental possa ser avaliado de forma independente, colocados no mercado ou em serviço na União Europeia.\n\n3 - O presente decreto-lei não se aplica:\n\na) A produtos em segunda mão;\n\nb) A qualquer meio de transporte de pessoas ou de mercadorias;\n\nc) Às chapas de características ou o seu equivalente, afixadas nos produtos por razões de segurança."
+  },
+  "157238690": {
+   "fragment_id": "157236992",
+   "type": 11,
+   "heading": "Artigo 3.º — Impacto dos produtos no consumo de energia ou de outros recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Impacto dos produtos no consumo de energia ou de outros recursos\n\n1 - Para os efeitos do presente decreto-lei entende-se que um produto tem impacto directo no consumo de energia ou de outros recursos essenciais quando o produto consome efectivamente energia.\n\n2 - Um produto tem impacto indirecto no consumo de energia ou de outros recursos essenciais quando não consome energia, mas contribui para a conservação de energia durante a sua utilização."
+  },
+  "157238691": {
+   "fragment_id": "157236993",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de informação relativos a produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de informação relativos a produtos\n\n1 - A informação sobre produtos relativa ao consumo de energia eléctrica, de outras formas de energia, bem como de outros recursos essenciais utilizados durante a utilização, e outras informações suplementares, é disponibilizada aos utilizadores finais, quando os referidos produtos sejam directa ou indirectamente, por qualquer meio à distância, incluindo a Internet, colocados:\n\na) À venda;\n\nb) Em locação;\n\nc) Em locação com opção de compra ou em exposição.\n\n2 - A informação referida no número anterior é disponibilizada através de uma ficha e de uma etiqueta, nos termos dos actos delegados da Comissão Europeia, de acordo com a Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio, adiante designados por actos delegados.\n\n3 - Para efeitos do presente decreto-lei, uma ficha corresponde a um quadro normalizado de informação relativa ao produto.\n\n4 - A informação referida nos n.os 1 e 2 só é fornecida para os produtos encastrados ou instalados, se o acto delegado aplicável o exigir.\n\n5 - A documentação técnica promocional dos produtos abrangidos por um acto delegado, que descreva os parâmetros técnicos específicos de um produto, nomeadamente manuais técnicos e brochuras dos fabricantes, deve conter a informação necessária sobre o consumo de energia ou incluir uma referência à classe de eficiência energética do produto.\n\n6 - A informação referida no número anterior deve constar dos textos técnicos e promocionais disponibilizados de forma impressa ou por via electrónica.\n\n7 - Para os efeitos do n.º 1 são consideradas informações suplementares quaisquer informações relativas ao rendimento e às características de um produto que estejam relacionadas ou que possam ser úteis para avaliar o seu consumo de energia ou de outros recursos essenciais, com base em dados mensuráveis."
+  },
+  "157238692": {
+   "fragment_id": "157236994",
+   "type": 11,
+   "heading": "Artigo 5.º — Venda à distância e outras formas de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Venda à distância e outras formas de venda\n\nO acesso dos potenciais utilizadores finais às informações constantes da etiqueta e da ficha dos produtos antes da compra deve obedecer às disposições que para o efeito sejam definidas no acto delegado aplicável, quando o produto seja posto à venda, em locação ou em locação com opção de compra, pelos seguintes meios:\n\na) Por correspondência;\n\nb) Por catálogo;\n\nc) Por via electrónica;\n\nd) Por televendas;\n\ne) Por qualquer outro meio que implique a impossibilidade de o potencial utilizador final ver o produto exposto."
+  },
+  "157238693": {
+   "fragment_id": "157236995",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Publicidade\n\nA publicidade a modelos específicos de produtos abrangidos por um acto delegado deve, sempre que forem divulgadas informações sobre o preço ou relacionadas com a energia, incluir uma referência à classe de eficiência energética do produto."
+  },
+  "157238694": {
+   "fragment_id": "157236996",
+   "type": 11,
+   "heading": "Artigo 7.º — Regras e condições de aposição da etiqueta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regras e condições de aposição da etiqueta\n\n1 - A aposição de etiquetas, marcas, símbolos ou inscrições que não obedeçam aos requisitos estabelecidos no presente decreto-lei e nos actos delegados, e que possam induzir em erro ou confundir os utilizadores finais quanto ao consumo de energia ou de outros recursos essenciais, é proibida.\n\n2 - A utilização da etiqueta de forma diferente das previstas no presente decreto-lei ou nos actos delegados só pode ser feita pelas autoridades nacionais ou pelas instituições da União Europeia."
+  },
+  "157238695": {
+   "fragment_id": "157236997",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidades dos fornecedores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Responsabilidades dos fornecedores\n\n1 - Os fornecedores que coloquem no mercado ou coloquem em serviço produtos abrangidos por um acto delegado devem:\n\na) Fornecer uma etiqueta e uma ficha nos termos do presente decreto-lei e do respectivo acto delegado;\n\nb) Possuir documentação técnica suficiente para permitir avaliar a exactidão das informações constantes da etiqueta e da ficha, devendo incluir, sem prejuízo do que cada acto delegado exigir:\n\ni) Descrição geral do produto;\n\nii) Resultados dos cálculos de projecto efectuados, caso sejam relevantes;\n\niii) Relatórios de ensaios, quando disponíveis, incluindo os realizados por organismos acreditados para o efeito;\n\niv) Identificação dos modelos similares por meio de referências quando sejam utilizados os mesmos valores;\n\nc) Facultar às autoridades de fiscalização do mercado referidas no artigo 16.º ou à Comissão Europeia o acesso à documentação técnica referida na alínea anterior, por um período de cinco anos após o fabrico do último produto do modelo em questão;\n\nd) Disponibilizar o acesso à versão electrónica da documentação técnica referida na alínea b), quando solicitado pelas entidades referidas na alínea anterior, num prazo de 10 dias úteis a contar da data da recepção do respectivo pedido;\n\ne) Entregar gratuitamente aos distribuidores as etiquetas necessárias, mediante sistema de entrega à sua escolha que permita responder prontamente a pedidos dos distribuidores;\n\nf) Fornecer a etiqueta e a ficha do produto;\n\ng) Incluir uma ficha em todas as brochuras relativas ao produto ou, caso não forneçam brochuras relativas ao produto, incluir a ficha noutra documentação fornecida com o produto.\n\n2 - A documentação técnica prevista na alínea b) do número anterior, pode ser constituída por documentação já elaborada nos termos de requisitos estabelecidos em legislação da União Europeia igualmente aplicável à documentação técnica.\n\n3 - Os fornecedores são responsáveis pela exactidão das informações constantes das etiquetas e das fichas que forneçam, presumindo-se terem dado consentimento à sua publicação.\n\n4 - Para os efeitos do presente decreto-lei entende-se que o fornecedor é o fabricante ou o seu representante autorizado na União Europeia ou o importador ou, na ausência dos anteriores, qualquer pessoa singular que coloque o produto no mercado ou em serviço na União Europeia.\n\n5 - Um produto é colocado no mercado quando é disponibilizado pela primeira vez no mercado da União Europeia com vista à sua distribuição ou utilização, independentemente da técnica de venda e do seu carácter gratuito ou oneroso.\n\n6 - Considera-se que um produto é colocado em serviço quando é utilizado pela primeira vez para a finalidade prevista na União Europeia."
+  },
+  "157238696": {
+   "fragment_id": "157236998",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsabilidade dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsabilidade dos distribuidores\n\n1 - Os distribuidores devem apor as etiquetas, de forma visível e legível, e disponibilizar aos utilizadores finais a ficha incluída na brochura relativa ao produto ou noutra documentação que o acompanhe no momento da venda.\n\n2 - Sempre que um produto esteja em exposição, os distribuidores devem-lhe apor a etiqueta adequada em local visível, conforme previsto no acto delegado aplicável.\n\n3 - As informações constantes da etiqueta devem ser redigidas em língua portuguesa.\n\n4 - Considera-se distribuidor, o retalhista ou outra pessoa que venda, alugue, ofereça para locação com opção de compra ou exponha produtos destinados ao utilizador final."
+  },
+  "157238697": {
+   "fragment_id": "157236999",
+   "type": 11,
+   "heading": "Artigo 10.º — Livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Livre circulação\n\nNão pode ser proibida, restringida, nem impedida a colocação no mercado ou colocação em serviço, dos produtos que são abrangidos e obedecem ao disposto no presente decreto-lei e no acto delegado aplicável."
+  },
+  "157238698": {
+   "fragment_id": "157237000",
+   "type": 11,
+   "heading": "Artigo 11.º — Presunção da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Presunção da conformidade\n\nPresume-se que as etiquetas e as fichas de informação obedecem ao disposto no presente decreto-lei e ao acto delegado aplicável, salvo prova em contrário."
+  },
+  "157238699": {
+   "fragment_id": "157237001",
+   "type": 11,
+   "heading": "Artigo 12.º — Procedimento de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento de salvaguarda\n\nSempre que se verifique que um produto consumidor de energia, ainda que ostente a marcação CE e seja utilizado de acordo com o fim para que foi concebido, não cumpre todas as disposições do acto delegado aplicável, pode ser proibida ou restringida a sua colocação no mercado ou em serviço, ou assegurada a sua retirada do mesmo, mediante despacho fundamentado do inspector-geral da Autoridade de Segurança Alimentar e Económica (ASAE)."
+  },
+  "157238700": {
+   "fragment_id": "157237002",
+   "type": 11,
+   "heading": "Artigo 13.º — Contratos públicos e incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contratos públicos e incentivos\n\n1 - As entidades adjudicantes que, relativamente a um produto abrangido por um acto delegado, celebrem contratos de empreitada de obras públicas, contratos públicos de fornecimento ou contratos públicos de serviços, nos termos do Código dos Contratos Públicos, devem adquirir apenas produtos que satisfaçam os critérios dos mais elevados níveis de desempenho e que pertençam à classe de eficiência energética mais elevada.\n\n2 - A aplicação dos critérios mencionados no número anterior está sujeita a uma avaliação em função da relação custo-eficiência, da viabilidade económica e da adequação técnica.\n\n3 - O disposto nos números anteriores aplica-se aos contratos de valor igual ou superior aos limiares previstos no artigo 7.º da Directiva n.º <a href=\"eurlex.asp?ano=2004&id=304L0018\" title=\"Link para Directiva da Comunidade Europeia\">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de Março.\n\n4 - Os incentivos que sejam concedidos em relação a produtos abrangidos por um acto delegado, quer aos utilizadores finais que utilizem produtos com elevada eficiência energética, quer às empresas que os promovam e produzam, destinam-se a produtos que tenham, pelo menos, os níveis de desempenho mais elevados estabelecidos no acto delegado aplicável, incluindo a classe de eficiência energética mais elevada.\n\n5 - As medidas tributárias e fiscais não constituem incentivos para efeitos do presente decreto-lei."
+  },
+  "157238701": {
+   "fragment_id": "157237003",
+   "type": 11,
+   "heading": "Artigo 14.º — Actos delegados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Actos delegados\n\n1 - A Comissão Europeia define para cada tipo de produto, mediante actos delegados, os aspectos relativos à etiqueta e à ficha.\n\n2 - Cada acto delegado especifica, nomeadamente:\n\na) A definição exacta do tipo de produtos abrangidos;\n\nb) As normas e os métodos de medição a utilizar para obtenção das informações a que se refere o n.º 1 do artigo 4.º;\n\nc) As especificações relativas à documentação técnica exigida por força do artigo 8.º;\n\nd) O formato e o conteúdo da etiqueta prevista no artigo 4.º;\n\ne) O local em que a etiqueta deve ser afixada no produto exposto e o modo como a etiqueta e a sua informação, dependendo do acto delegado aplicável, devem ser fornecidas, no caso de colocações à venda abrangidas pelo artigo 5.º;\n\nf) O conteúdo e o formato e outras especificações da ficha ou das informações suplementares previstas no artigo 4.º, conforme o acto delegado aplicável;\n\ng) O conteúdo específico da etiqueta para fins de publicidade, incluindo a classe energética e outros níveis de desempenho relevantes do produto em questão, de uma forma legível e visível, conforme o acto delegado aplicável;\n\nh) A duração da classificação energética;\n\ni) O nível de exactidão das declarações constantes das etiquetas e fichas;\n\nj) A data da avaliação e da possível revisão do acto delegado, tendo em conta a rapidez do progresso tecnológico."
+  },
+  "157238702": {
+   "fragment_id": "157237004",
+   "type": 11,
+   "heading": "Artigo 15.º — Coordenação da aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Coordenação da aplicação\n\n1 - A coordenação da aplicação do presente decreto-lei, bem como as propostas de medidas necessárias à prossecução dos seus objectivos e das medidas que se destinam a assegurar a ligação com a Comissão Europeia e os outros Estados membros, cabe à Direcção-Geral de Energia e Geologia (DGEG), que pode solicitar a colaboração de outras entidades sempre que o julgue necessário às suas funções.\n\n2 - A DGEG deve disponibilizar e manter actualizados, na sua página electrónica, os actos delegados que forem publicados no Jornal Oficial das Comunidades.\n\n3 - A ASAE deve enviar, de dois em dois anos, à DGEG uma lista das acções de fiscalização realizadas naquele período, destacando os produtos onde foram verificadas infracções e a natureza das mesmas, para que esta possa elaborar um relatório com dados sobre as medidas de aplicação e o nível de conformidade, a entregar, de quatro em quatro anos, à Comissão Europeia.\n\n4 - A lista mencionada no número anterior deve ser remetida à DGEG até final do mês de Janeiro do ano seguinte ao último ano a que respeita."
+  },
+  "157238703": {
+   "fragment_id": "157237005",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização e instrução dos processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização e instrução dos processos de contra-ordenação\n\n1 - Sem prejuízo do disposto no presente artigo e das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente decreto-lei cabe à ASAE.\n\n2 - A fiscalização do preceituado no artigo 6.º compete à Direcção-Geral do Consumidor (DGC).\n\n3 - A instrução dos processos de contra-ordenação compete à ASAE ou à DGC, no âmbito das respectivas atribuições, e a quem devem ser enviados os autos levantados por outras entidades."
+  },
+  "157238704": {
+   "fragment_id": "157237006",
+   "type": 11,
+   "heading": "Artigo 17.º — Contra-ordenações e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contra-ordenações e sanções acessórias\n\n1 - Constitui contra-ordenação punível com coima:\n\na) De (euro) 150 a (euro) 1500 a infracção ao disposto no n.º 1 do artigo 7.º;\n\nb) De (euro) 250 a (euro) 2500 a infracção ao disposto nos n.os 1, 2 e 5 do artigo 4.º, no artigo 5.º, no artigo 6.º e no artigo 9.º;\n\nc) De (euro) 300 a (euro) 3000 a infracção ao disposto no n.º 2 do artigo 7.º e nos n.os 1 e 3 do artigo 8.º e a prestação de informações incorrectas nas etiquetas ou nas fichas de informação, em desconformidade com o que seja definido por acto delegado.\n\n2 - No caso de a infracção ser praticada por pessoa singular, os montantes referidos no n.º 1 são reduzidos a metade.\n\n3 - Em função da gravidade da infracção e da culpa do infractor, pode ainda ser aplicada, como sanção acessória, a privação do infractor em causa dos incentivos previstos no artigo 13.º, bem como de qualquer subsídio outorgado por entidades ou serviços públicos.\n\n4 - A negligência e a tentativa são puníveis."
+  },
+  "157238705": {
+   "fragment_id": "157237007",
+   "type": 11,
+   "heading": "Artigo 18.º — Garantia dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Garantia dos interessados\n\nQualquer medida de proibição, de restrição da disponibilização, de retirada ou de recolha de um produto do mercado adoptada nos termos do presente decreto-lei e dos actos delegados aplicáveis, deve ser imediatamente comunicada ao operador económico em causa, com a indicação das vias de reacção contenciosa e respectivos prazos previstos na lei."
+  },
+  "157238706": {
+   "fragment_id": "157237008",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência para aplicação das coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competência para aplicação das coimas e sanções acessórias\n\nA aplicação das coimas e sanções acessórias previstas no presente diploma é da competência da Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP)."
+  },
+  "157238707": {
+   "fragment_id": "157237009",
+   "type": 11,
+   "heading": "Artigo 20.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Distribuição do produto das coimas\n\nA receita resultante da aplicação das coimas previstas no artigo 14.º reverte em:\n\na) 60 % para o Estado;\n\nb) 20 % para a entidade instrutora do processo de contra-ordenação;\n\nc) 10 % para a DGEG;\n\nd) 10 % para a CACMEP."
+  },
+  "157238708": {
+   "fragment_id": "157237010",
+   "type": 11,
+   "heading": "Artigo 21.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, cabendo a sua execução administrativa aos serviços competentes das respectivas administrações regionais.\n\n2 - O produto da aplicação das coimas pelas Regiões Autónomas constitui receita das mesmas."
+  },
+  "157238709": {
+   "fragment_id": "157237011",
+   "type": 11,
+   "heading": "Artigo 22.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Disposições gerais\n\nTodas as remissões feitas para o Decreto-Lei n.º 41/94, de 11 de Fevereiro, e para a Directiva n.º <a href=\"eurlex.asp?ano=1992&id=392L0075\" title=\"Link para Directiva da Comunidade Europeia\">92/75/CEE</a>, do Conselho, de 22 de Setembro, consideram-se feitas, respectivamente, para o presente decreto-lei e para a Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio."
+  },
+  "157238710": {
+   "fragment_id": "157237012",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Norma revogatória\n\nSão revogados os seguintes diplomas:\n\na) Decreto-Lei n.º 41/94, de 11 de Fevereiro;\n\nb) Decreto-Lei n.º 309/99, de 10 de Agosto;\n\nc) Decreto-Lei n.º 18/2000, de 29 de Fevereiro;\n\nd) Decreto-Lei n.º 27/2003, de 12 de Fevereiro;\n\ne) Decreto-Lei n.º 28/2003, de 12 de Fevereiro;\n\nf) Decreto-Lei n.º 1/2006, de 2 de Janeiro;\n\ng) Portaria n.º 116/96, de 13 de Abril;\n\nh) Portaria n.º 117/96, de 15 de Abril;\n\ni) Portaria n.º 1095/97, de 3 de Novembro."
+  },
+  "157238711": {
+   "fragment_id": "157237013",
+   "type": 11,
+   "heading": "Artigo 24.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Aplicação no tempo\n\n1 - O disposto na alínea b) do artigo anterior produz efeitos a 20 de Dezembro de 2011, data da revogação da Directiva n.º <a href=\"eurlex.asp?ano=1997&id=397L0017\" title=\"Link para Directiva da Comunidade Europeia\">97/17/CEE</a>, da Comissão, de 16 de Abril, pelo Regulamento Delegado (UE) n.º <a href=\"eurlex.asp?ano=2009&id=309R1059\" title=\"Link para Regulamento da Comunidade Europeia\">1059/2009</a>, da Comissão, de 28 de Setembro de 2010.\n\n2 - O disposto na alínea c) do artigo anterior produz efeitos na data em que, por acto delegado da Comissão Europeia, ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0011\" title=\"Link para Directiva da Comunidade Europeia\">98/11/CE</a>, da Comissão, de 17 de Janeiro, relativa à etiquetagem energética das lâmpadas eléctricas para uso doméstico.\n\n3 - O disposto na alínea d) do artigo anterior produz efeitos na data em que, por acto delegado da Comissão Europeia, ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0040\" title=\"Link para Directiva da Comunidade Europeia\">2002/40/CE</a>, da Comissão, de 8 de Maio, relativa à etiquetagem energética dos fornos eléctricos para uso doméstico.\n\n4 - O estabelecido na alínea e) do artigo anterior produz efeitos na data em que, por acto delegado da Comissão Europeia, ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0031\" title=\"Link para Directiva da Comunidade Europeia\">2002/31/CE</a>, da Comissão, de 22 de Março, relativa à etiquetagem energética dos aparelhos domésticos de ar condicionado.\n\n5 - O estabelecido na alínea f) do artigo anterior produz efeitos a 30 de Novembro de 2011, data da revogação da Directiva n.º <a href=\"eurlex.asp?ano=1994&id=394L0002\" title=\"Link para Directiva da Comunidade Europeia\">94/2/CE</a>, da Comissão, de 21 de Janeiro, pelo Regulamento Delegado (UE) n.º <a href=\"eurlex.asp?ano=2010&id=310R1060\" title=\"Link para Regulamento da Comunidade Europeia\">1060/2010</a>, da Comissão, de 28 de Setembro.\n\n6 - O estabelecido na alínea g) do artigo anterior produz efeitos a 20 de Dezembro de 2011, data da revogação da Directiva n.º <a href=\"eurlex.asp?ano=1995&id=395L0012\" title=\"Link para Directiva da Comunidade Europeia\">95/12/CE</a>, da Comissão, de 23 de Maio, pelo Regulamento Delegado (UE) n.º <a href=\"eurlex.asp?ano=2010&id=310R1061\" title=\"Link para Regulamento da Comunidade Europeia\">1061/2010</a>, da Comissão, de 28 de Setembro.\n\n7 - O estabelecido na alínea h) do artigo anterior produz efeitos na data em que, por acto delegado da Comissão Europeia, ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva n.º <a href=\"eurlex.asp?ano=1995&id=395L0013\" title=\"Link para Directiva da Comunidade Europeia\">95/13/CE</a>, da Comissão, de 23 de Maio, relativa à indicação do consumo de energia eléctrica, por meio de etiquetagem, de secadores de roupa para uso doméstico.\n\n8 - O estabelecido na alínea i) do artigo anterior produz efeitos na data em que, por acto delegado da Comissão Europeia, ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0060\" title=\"Link para Directiva da Comunidade Europeia\">96/60/CE</a>, da Comissão, de 19 de Setembro, relativa à indicação do consumo de energia eléctrica, por meio de etiquetagem, das máquinas combinadas de lavar e secar roupa para uso doméstico."
+  },
+  "157238712": {
+   "fragment_id": "157237014",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\n1 - Sem prejuízo do disposto no número seguinte, o presente decreto-lei entra em vigor a 20 de Julho de 2011.\n\n2 - A alínea e) do n.º 1 e o n.º 3 do artigo 8.º entram em vigor a 31 de Julho de 2011."
+  },
+  "157238687": {
+   "fragment_id": "157236989",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 63/2011\n\nde 9 de Maio\n\nO presente decreto-lei estabelece as medidas de informação a prestar ao utilizador final de produtos com impacto no consumo energético, transpondo a Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio, relativa à indicação do consumo de energia e de outros recursos por parte dos produtos relacionados com a energia, por meio de etiquetagem e outras indicações uniformes relativas aos produtos.\n\nO regime consagrado vem estabelecer a obrigatoriedade de colocação de etiquetas e elaboração de fichas de informação sobre o consumo de energia e de outros recursos essenciais de produtos que tenham impacto no consumo de energia, inserindo-se nos objectivos de política energética definidos na Estratégia Nacional para a Energia com o horizonte de 2020 (ENE 2020).\n\nA obrigatoriedade de aposição de etiquetas e elaboração de fichas informativas sobre o consumo de energia e de recursos essenciais utilizados, bem como outras informações sobre o rendimento e as características do produto, visa permitir aos utilizadores finais escolher os produtos mais eficientes energeticamente.\n\nOs produtos concretamente abrangidos, tal como a definição do conteúdo e dos aspectos relativos às etiquetas e às fichas de cada tipo de produto, nomeadamente os métodos de medição, as especificações relativas à documentação técnica, o formato e o conteúdo da etiqueta e o conteúdo específico da etiqueta para fins de publicidade, incluindo a classe energética, é feito pela Comissão Europeia através de actos delegados, nos termos do disposto na Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio.\n\nO presente decreto-lei vem ainda revogar a legislação aplicável à etiquetagem, permitindo a etiquetagem de todos os produtos relacionados com o consumo de energia nos termos a definir pelos actos delegados da Comissão Europeia.\n\nA transposição da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio, a que se procede vem, assim, permitir incluir nos produtos sujeitos a etiquetagem os produtos dos sectores doméstico, comercial e industrial e alguns produtos que, embora não consumidores de energia, têm um considerável potencial de poupança de energia quando utilizados ou instalados, nos termos a definir por actos delegados da Comissão Europeia.\n\nAlém disso, as medidas definidas no presente diploma, ao promoverem a eficiência energética, dão um contributo significativo para os objectivos da política de combate às alterações climáticas.\n\nFoi promovida a audição do Conselho Nacional do Consumo.\n\nForam ouvidos, a título facultativo, a APA - Agência Portuguesa do Ambiente, a ADENE - Agência para a Energia, a AGEFE - Associação Empresarial dos Sectores Eléctrico, Electrodoméstico, Fotográfico e Electrónico e a ANIMEE - Associação Portuguesa das Empresas do Sector Eléctrico e Electrónico.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "157352022": {
+   "fragment_id": "157237002",
+   "type": 11,
+   "heading": "Artigo 13.º — Contratos públicos e incentivos",
+   "in_force_from": "2015-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 68-A/2015 - Diário da República n.º 84/2015, 1º Suplemento, Série I de 2015-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-a-2015-67123272), em vigor a partir de 2015-05-01"
+   ],
+   "markdown": "###### Artigo 13.º — Contratos públicos e incentivos\n\n1 - Revogado\n\n2 - Revogado\n\n3 - Revogado\n\n4 - Os incentivos que sejam concedidos em relação a produtos abrangidos por um acto delegado, quer aos utilizadores finais que utilizem produtos com elevada eficiência energética, quer às empresas que os promovam e produzam, destinam-se a produtos que tenham, pelo menos, os níveis de desempenho mais elevados estabelecidos no acto delegado aplicável, incluindo a classe de eficiência energética mais elevada.\n\n5 - As medidas tributárias e fiscais não constituem incentivos para efeitos do presente decreto-lei.\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 68-A/2015 - Diário da República n.º 84/2015, 1º Suplemento, Série I de 2015-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-a-2015-67123272), em vigor a partir de 2015-05-01"
+  },
+  "157238713": {
+   "fragment_id": "157237015",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Março de 2011. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Paulo Jorge Oliveira Ribeiro de Campos - Dulce dos Prazeres Fidalgo Álvaro Pássaro.\n\nPromulgado em 20 de Abril de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 21 de Abril de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "161633217": {
+   "fragment_id": "157236990",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece as medidas de informação a prestar ao utilizador final através de etiquetagem e outras indicações uniformes sobre o consumo de energia e, quando necessário, de outros recursos essenciais necessários à utilização dos produtos relacionados com a energia, transpondo a Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633218": {
+   "fragment_id": "157236991",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - As disposições do presente decreto-lei aplicam-se aos produtos relacionados com a energia que durante a sua utilização têm um impacto significativo, directo ou indirecto, no consumo de energia e, se for o caso, no consumo de outros recursos essenciais.\n\n2 - O presente decreto-lei aplica-se às peças a incorporar em produtos relacionados com a energia, bem como peças individuais para utilizadores finais, e cujo desempenho ambiental possa ser avaliado de forma independente, colocados no mercado ou em serviço na União Europeia.\n\n3 - O presente decreto-lei não se aplica:\n\na) A produtos em segunda mão;\n\nb) A qualquer meio de transporte de pessoas ou de mercadorias;\n\nc) Às chapas de características ou o seu equivalente, afixadas nos produtos por razões de segurança.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633219": {
+   "fragment_id": "157236992",
+   "type": 11,
+   "heading": "Artigo 3.º — Impacto dos produtos no consumo de energia ou de outros recursos",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 3.º — Impacto dos produtos no consumo de energia ou de outros recursos\n\n1 - Para os efeitos do presente decreto-lei entende-se que um produto tem impacto directo no consumo de energia ou de outros recursos essenciais quando o produto consome efectivamente energia.\n\n2 - Um produto tem impacto indirecto no consumo de energia ou de outros recursos essenciais quando não consome energia, mas contribui para a conservação de energia durante a sua utilização.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633220": {
+   "fragment_id": "157236993",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de informação relativos a produtos",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de informação relativos a produtos\n\n1 - A informação sobre produtos relativa ao consumo de energia eléctrica, de outras formas de energia, bem como de outros recursos essenciais utilizados durante a utilização, e outras informações suplementares, é disponibilizada aos utilizadores finais, quando os referidos produtos sejam directa ou indirectamente, por qualquer meio à distância, incluindo a Internet, colocados:\n\na) À venda;\n\nb) Em locação;\n\nc) Em locação com opção de compra ou em exposição.\n\n2 - A informação referida no número anterior é disponibilizada através de uma ficha e de uma etiqueta, nos termos dos actos delegados da Comissão Europeia, de acordo com a Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e do Conselho, de 19 de Maio, adiante designados por actos delegados.\n\n3 - Para efeitos do presente decreto-lei, uma ficha corresponde a um quadro normalizado de informação relativa ao produto.\n\n4 - A informação referida nos n.os 1 e 2 só é fornecida para os produtos encastrados ou instalados, se o acto delegado aplicável o exigir.\n\n5 - A documentação técnica promocional dos produtos abrangidos por um acto delegado, que descreva os parâmetros técnicos específicos de um produto, nomeadamente manuais técnicos e brochuras dos fabricantes, deve conter a informação necessária sobre o consumo de energia ou incluir uma referência à classe de eficiência energética do produto.\n\n6 - A informação referida no número anterior deve constar dos textos técnicos e promocionais disponibilizados de forma impressa ou por via electrónica.\n\n7 - Para os efeitos do n.º 1 são consideradas informações suplementares quaisquer informações relativas ao rendimento e às características de um produto que estejam relacionadas ou que possam ser úteis para avaliar o seu consumo de energia ou de outros recursos essenciais, com base em dados mensuráveis.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633221": {
+   "fragment_id": "157236994",
+   "type": 11,
+   "heading": "Artigo 5.º — Venda à distância e outras formas de venda",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 5.º — Venda à distância e outras formas de venda\n\nO acesso dos potenciais utilizadores finais às informações constantes da etiqueta e da ficha dos produtos antes da compra deve obedecer às disposições que para o efeito sejam definidas no acto delegado aplicável, quando o produto seja posto à venda, em locação ou em locação com opção de compra, pelos seguintes meios:\n\na) Por correspondência;\n\nb) Por catálogo;\n\nc) Por via electrónica;\n\nd) Por televendas;\n\ne) Por qualquer outro meio que implique a impossibilidade de o potencial utilizador final ver o produto exposto.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633222": {
+   "fragment_id": "157236995",
+   "type": 11,
+   "heading": "Artigo 6.º — Publicidade",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 6.º — Publicidade\n\nA publicidade a modelos específicos de produtos abrangidos por um acto delegado deve, sempre que forem divulgadas informações sobre o preço ou relacionadas com a energia, incluir uma referência à classe de eficiência energética do produto.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633223": {
+   "fragment_id": "157236996",
+   "type": 11,
+   "heading": "Artigo 7.º — Regras e condições de aposição da etiqueta",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 7.º — Regras e condições de aposição da etiqueta\n\n1 - A aposição de etiquetas, marcas, símbolos ou inscrições que não obedeçam aos requisitos estabelecidos no presente decreto-lei e nos actos delegados, e que possam induzir em erro ou confundir os utilizadores finais quanto ao consumo de energia ou de outros recursos essenciais, é proibida.\n\n2 - A utilização da etiqueta de forma diferente das previstas no presente decreto-lei ou nos actos delegados só pode ser feita pelas autoridades nacionais ou pelas instituições da União Europeia.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633224": {
+   "fragment_id": "157236997",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidades dos fornecedores",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 8.º — Responsabilidades dos fornecedores\n\n1 - Os fornecedores que coloquem no mercado ou coloquem em serviço produtos abrangidos por um acto delegado devem:\n\na) Fornecer uma etiqueta e uma ficha nos termos do presente decreto-lei e do respectivo acto delegado;\n\nb) Possuir documentação técnica suficiente para permitir avaliar a exactidão das informações constantes da etiqueta e da ficha, devendo incluir, sem prejuízo do que cada acto delegado exigir:\n\ni) Descrição geral do produto;\n\nii) Resultados dos cálculos de projecto efectuados, caso sejam relevantes;\n\niii) Relatórios de ensaios, quando disponíveis, incluindo os realizados por organismos acreditados para o efeito;\n\niv) Identificação dos modelos similares por meio de referências quando sejam utilizados os mesmos valores;\n\nc) Facultar às autoridades de fiscalização do mercado referidas no artigo 16.º ou à Comissão Europeia o acesso à documentação técnica referida na alínea anterior, por um período de cinco anos após o fabrico do último produto do modelo em questão;\n\nd) Disponibilizar o acesso à versão electrónica da documentação técnica referida na alínea b), quando solicitado pelas entidades referidas na alínea anterior, num prazo de 10 dias úteis a contar da data da recepção do respectivo pedido;\n\ne) Entregar gratuitamente aos distribuidores as etiquetas necessárias, mediante sistema de entrega à sua escolha que permita responder prontamente a pedidos dos distribuidores;\n\nf) Fornecer a etiqueta e a ficha do produto;\n\ng) Incluir uma ficha em todas as brochuras relativas ao produto ou, caso não forneçam brochuras relativas ao produto, incluir a ficha noutra documentação fornecida com o produto.\n\n2 - A documentação técnica prevista na alínea b) do número anterior, pode ser constituída por documentação já elaborada nos termos de requisitos estabelecidos em legislação da União Europeia igualmente aplicável à documentação técnica.\n\n3 - Os fornecedores são responsáveis pela exactidão das informações constantes das etiquetas e das fichas que forneçam, presumindo-se terem dado consentimento à sua publicação.\n\n4 - Para os efeitos do presente decreto-lei entende-se que o fornecedor é o fabricante ou o seu representante autorizado na União Europeia ou o importador ou, na ausência dos anteriores, qualquer pessoa singular que coloque o produto no mercado ou em serviço na União Europeia.\n\n5 - Um produto é colocado no mercado quando é disponibilizado pela primeira vez no mercado da União Europeia com vista à sua distribuição ou utilização, independentemente da técnica de venda e do seu carácter gratuito ou oneroso.\n\n6 - Considera-se que um produto é colocado em serviço quando é utilizado pela primeira vez para a finalidade prevista na União Europeia.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633225": {
+   "fragment_id": "157236998",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsabilidade dos distribuidores",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 9.º — Responsabilidade dos distribuidores\n\n1 - Os distribuidores devem apor as etiquetas, de forma visível e legível, e disponibilizar aos utilizadores finais a ficha incluída na brochura relativa ao produto ou noutra documentação que o acompanhe no momento da venda.\n\n2 - Sempre que um produto esteja em exposição, os distribuidores devem-lhe apor a etiqueta adequada em local visível, conforme previsto no acto delegado aplicável.\n\n3 - As informações constantes da etiqueta devem ser redigidas em língua portuguesa.\n\n4 - Considera-se distribuidor, o retalhista ou outra pessoa que venda, alugue, ofereça para locação com opção de compra ou exponha produtos destinados ao utilizador final.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633226": {
+   "fragment_id": "157236999",
+   "type": 11,
+   "heading": "Artigo 10.º — Livre circulação",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 10.º — Livre circulação\n\nNão pode ser proibida, restringida, nem impedida a colocação no mercado ou colocação em serviço, dos produtos que são abrangidos e obedecem ao disposto no presente decreto-lei e no acto delegado aplicável.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633227": {
+   "fragment_id": "157237000",
+   "type": 11,
+   "heading": "Artigo 11.º — Presunção da conformidade",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 11.º — Presunção da conformidade\n\nPresume-se que as etiquetas e as fichas de informação obedecem ao disposto no presente decreto-lei e ao acto delegado aplicável, salvo prova em contrário.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633228": {
+   "fragment_id": "157237001",
+   "type": 11,
+   "heading": "Artigo 12.º — Procedimento de salvaguarda",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 12.º — Procedimento de salvaguarda\n\nSempre que se verifique que um produto consumidor de energia, ainda que ostente a marcação CE e seja utilizado de acordo com o fim para que foi concebido, não cumpre todas as disposições do acto delegado aplicável, pode ser proibida ou restringida a sua colocação no mercado ou em serviço, ou assegurada a sua retirada do mesmo, mediante despacho fundamentado do inspector-geral da Autoridade de Segurança Alimentar e Económica (ASAE).\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633229": {
+   "fragment_id": "157237002",
+   "type": 11,
+   "heading": "Artigo 13.º — Contratos públicos e incentivos",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21",
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 68-A/2015 - Diário da República n.º 84/2015, 1º Suplemento, Série I de 2015-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-a-2015-67123272), em vigor a partir de 2015-05-01"
+   ],
+   "markdown": "###### Artigo 13.º — Contratos públicos e incentivos\n\n1 - Revogado\n\n2 - Revogado\n\n3 - Revogado\n\n4 - Os incentivos que sejam concedidos em relação a produtos abrangidos por um acto delegado, quer aos utilizadores finais que utilizem produtos com elevada eficiência energética, quer às empresas que os promovam e produzam, destinam-se a produtos que tenham, pelo menos, os níveis de desempenho mais elevados estabelecidos no acto delegado aplicável, incluindo a classe de eficiência energética mais elevada.\n\n5 - As medidas tributárias e fiscais não constituem incentivos para efeitos do presente decreto-lei.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 68-A/2015 - Diário da República n.º 84/2015, 1º Suplemento, Série I de 2015-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-a-2015-67123272), em vigor a partir de 2015-05-01"
+  },
+  "161633230": {
+   "fragment_id": "157237003",
+   "type": 11,
+   "heading": "Artigo 14.º — Actos delegados",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 14.º — Actos delegados\n\n1 - A Comissão Europeia define para cada tipo de produto, mediante actos delegados, os aspectos relativos à etiqueta e à ficha.\n\n2 - Cada acto delegado especifica, nomeadamente:\n\na) A definição exacta do tipo de produtos abrangidos;\n\nb) As normas e os métodos de medição a utilizar para obtenção das informações a que se refere o n.º 1 do artigo 4.º;\n\nc) As especificações relativas à documentação técnica exigida por força do artigo 8.º;\n\nd) O formato e o conteúdo da etiqueta prevista no artigo 4.º;\n\ne) O local em que a etiqueta deve ser afixada no produto exposto e o modo como a etiqueta e a sua informação, dependendo do acto delegado aplicável, devem ser fornecidas, no caso de colocações à venda abrangidas pelo artigo 5.º;\n\nf) O conteúdo e o formato e outras especificações da ficha ou das informações suplementares previstas no artigo 4.º, conforme o acto delegado aplicável;\n\ng) O conteúdo específico da etiqueta para fins de publicidade, incluindo a classe energética e outros níveis de desempenho relevantes do produto em questão, de uma forma legível e visível, conforme o acto delegado aplicável;\n\nh) A duração da classificação energética;\n\ni) O nível de exactidão das declarações constantes das etiquetas e fichas;\n\nj) A data da avaliação e da possível revisão do acto delegado, tendo em conta a rapidez do progresso tecnológico.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633231": {
+   "fragment_id": "157237004",
+   "type": 11,
+   "heading": "Artigo 15.º — Coordenação da aplicação",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 15.º — Coordenação da aplicação\n\n1 - A coordenação da aplicação do presente decreto-lei, bem como as propostas de medidas necessárias à prossecução dos seus objectivos e das medidas que se destinam a assegurar a ligação com a Comissão Europeia e os outros Estados membros, cabe à Direcção-Geral de Energia e Geologia (DGEG), que pode solicitar a colaboração de outras entidades sempre que o julgue necessário às suas funções.\n\n2 - A DGEG deve disponibilizar e manter actualizados, na sua página electrónica, os actos delegados que forem publicados no Jornal Oficial das Comunidades.\n\n3 - A ASAE deve enviar, de dois em dois anos, à DGEG uma lista das acções de fiscalização realizadas naquele período, destacando os produtos onde foram verificadas infracções e a natureza das mesmas, para que esta possa elaborar um relatório com dados sobre as medidas de aplicação e o nível de conformidade, a entregar, de quatro em quatro anos, à Comissão Europeia.\n\n4 - A lista mencionada no número anterior deve ser remetida à DGEG até final do mês de Janeiro do ano seguinte ao último ano a que respeita.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633232": {
+   "fragment_id": "157237005",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização e instrução dos processos de contra-ordenação",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 16.º — Fiscalização e instrução dos processos de contra-ordenação\n\n1 - Sem prejuízo do disposto no presente artigo e das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente decreto-lei cabe à ASAE.\n\n2 - A fiscalização do preceituado no artigo 6.º compete à Direcção-Geral do Consumidor (DGC).\n\n3 - A instrução dos processos de contra-ordenação compete à ASAE ou à DGC, no âmbito das respectivas atribuições, e a quem devem ser enviados os autos levantados por outras entidades.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633233": {
+   "fragment_id": "157237006",
+   "type": 11,
+   "heading": "Artigo 17.º — Contraordenações",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21",
+    "Alterado pelo/a Artigo 119.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 17.º — Contraordenações\n\n1 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a infração ao disposto no n.º 1 do artigo 7.º\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE:\n\na) A infração ao disposto nos n.os 1, 2 e 5 do artigo 4.º e nos artigos 5.º, 6.º e 9.º;\n\nb) A infração ao disposto no n.º 2 do artigo 7.º e nos n.os 1 e 3 do artigo 8.º e a prestação de informações incorretas nas etiquetas ou nas fichas de informação, em desconformidade com o que seja definido por ato delegado.\n\n3 - Em função da gravidade da infracção e da culpa do infractor, pode ainda ser aplicada, como sanção acessória, a privação do infractor em causa dos incentivos previstos no artigo 13.º, bem como de qualquer subsídio outorgado por entidades ou serviços públicos.\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21\n\n> Alterado pelo/a Artigo 119.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "161633234": {
+   "fragment_id": "157237007",
+   "type": 11,
+   "heading": "Artigo 18.º — Garantia dos interessados",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 18.º — Garantia dos interessados\n\nQualquer medida de proibição, de restrição da disponibilização, de retirada ou de recolha de um produto do mercado adoptada nos termos do presente decreto-lei e dos actos delegados aplicáveis, deve ser imediatamente comunicada ao operador económico em causa, com a indicação das vias de reacção contenciosa e respectivos prazos previstos na lei.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633235": {
+   "fragment_id": "157237008",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência para aplicação das coimas e sanções acessórias",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21",
+    "Alterado pelo/a Artigo 119.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 19.º — Competência para aplicação das coimas e sanções acessórias\n\nA aplicação das coimas e sanções acessórias previstas no presente diploma compete ao inspetor-geral da ASAE e, no caso de ilícitos em matéria publicitária, ao diretor-geral da Direção-Geral do Consumidor.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21\n\n> Alterado pelo/a Artigo 119.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "161633236": {
+   "fragment_id": "157237009",
+   "type": 11,
+   "heading": "Artigo 20.º — Distribuição do produto das coimas",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21",
+    "Alterado pelo/a Artigo 119.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 20.º — Distribuição do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21\n\n> Alterado pelo/a Artigo 119.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "161633237": {
+   "fragment_id": "157237010",
+   "type": 11,
+   "heading": "Artigo 21.º — Regiões Autónomas",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 21.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, cabendo a sua execução administrativa aos serviços competentes das respectivas administrações regionais.\n\n2 - O produto da aplicação das coimas pelas Regiões Autónomas constitui receita das mesmas.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633238": {
+   "fragment_id": "157237011",
+   "type": 11,
+   "heading": "Artigo 22.º — Disposições gerais",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 22.º — Disposições gerais\n\nTodas as remissões feitas para o Decreto-Lei n.º 41/94, de 11 de Fevereiro, e para a Directiva n.º <a href=\"eurlex.asp?ano=1992&id=392L0075\" title=\"Link para Directiva da Comunidade Europeia\">92/75/CEE</a>, do Conselho, de 22 de Setembro, consideram-se feitas, respectivamente, para o presente decreto-lei e para a Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633239": {
+   "fragment_id": "157237012",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma revogatória",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 23.º — Norma revogatória\n\nSão revogados os seguintes diplomas:\n\na) Decreto-Lei n.º 41/94, de 11 de Fevereiro;\n\nb) Decreto-Lei n.º 309/99, de 10 de Agosto;\n\nc) Decreto-Lei n.º 18/2000, de 29 de Fevereiro;\n\nd) Decreto-Lei n.º 27/2003, de 12 de Fevereiro;\n\ne) Decreto-Lei n.º 28/2003, de 12 de Fevereiro;\n\nf) Decreto-Lei n.º 1/2006, de 2 de Janeiro;\n\ng) Portaria n.º 116/96, de 13 de Abril;\n\nh) Portaria n.º 117/96, de 15 de Abril;\n\ni) Portaria n.º 1095/97, de 3 de Novembro.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633240": {
+   "fragment_id": "157237013",
+   "type": 11,
+   "heading": "Artigo 24.º — Aplicação no tempo",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 24.º — Aplicação no tempo\n\n1 - O disposto na alínea b) do artigo anterior produz efeitos a 20 de Dezembro de 2011, data da revogação da Directiva n.º <a href=\"eurlex.asp?ano=1997&id=397L0017\" title=\"Link para Directiva da Comunidade Europeia\">97/17/CEE</a>, da Comissão, de 16 de Abril, pelo Regulamento Delegado (UE) n.º <a href=\"eurlex.asp?ano=2009&id=309R1059\" title=\"Link para Regulamento da Comunidade Europeia\">1059/2009</a>, da Comissão, de 28 de Setembro de 2010.\n\n2 - O disposto na alínea c) do artigo anterior produz efeitos na data em que, por acto delegado da Comissão Europeia, ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0011\" title=\"Link para Directiva da Comunidade Europeia\">98/11/CE</a>, da Comissão, de 17 de Janeiro, relativa à etiquetagem energética das lâmpadas eléctricas para uso doméstico.\n\n3 - O disposto na alínea d) do artigo anterior produz efeitos na data em que, por acto delegado da Comissão Europeia, ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0040\" title=\"Link para Directiva da Comunidade Europeia\">2002/40/CE</a>, da Comissão, de 8 de Maio, relativa à etiquetagem energética dos fornos eléctricos para uso doméstico.\n\n4 - O estabelecido na alínea e) do artigo anterior produz efeitos na data em que, por acto delegado da Comissão Europeia, ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva n.º <a href=\"eurlex.asp?ano=2002&id=302L0031\" title=\"Link para Directiva da Comunidade Europeia\">2002/31/CE</a>, da Comissão, de 22 de Março, relativa à etiquetagem energética dos aparelhos domésticos de ar condicionado.\n\n5 - O estabelecido na alínea f) do artigo anterior produz efeitos a 30 de Novembro de 2011, data da revogação da Directiva n.º <a href=\"eurlex.asp?ano=1994&id=394L0002\" title=\"Link para Directiva da Comunidade Europeia\">94/2/CE</a>, da Comissão, de 21 de Janeiro, pelo Regulamento Delegado (UE) n.º <a href=\"eurlex.asp?ano=2010&id=310R1060\" title=\"Link para Regulamento da Comunidade Europeia\">1060/2010</a>, da Comissão, de 28 de Setembro.\n\n6 - O estabelecido na alínea g) do artigo anterior produz efeitos a 20 de Dezembro de 2011, data da revogação da Directiva n.º <a href=\"eurlex.asp?ano=1995&id=395L0012\" title=\"Link para Directiva da Comunidade Europeia\">95/12/CE</a>, da Comissão, de 23 de Maio, pelo Regulamento Delegado (UE) n.º <a href=\"eurlex.asp?ano=2010&id=310R1061\" title=\"Link para Regulamento da Comunidade Europeia\">1061/2010</a>, da Comissão, de 28 de Setembro.\n\n7 - O estabelecido na alínea h) do artigo anterior produz efeitos na data em que, por acto delegado da Comissão Europeia, ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva n.º <a href=\"eurlex.asp?ano=1995&id=395L0013\" title=\"Link para Directiva da Comunidade Europeia\">95/13/CE</a>, da Comissão, de 23 de Maio, relativa à indicação do consumo de energia eléctrica, por meio de etiquetagem, de secadores de roupa para uso doméstico.\n\n8 - O estabelecido na alínea i) do artigo anterior produz efeitos na data em que, por acto delegado da Comissão Europeia, ao abrigo da Directiva n.º <a href=\"eurlex.asp?ano=2010&id=310L0030\" title=\"Link para Directiva da Comunidade Europeia\">2010/30/UE</a>, do Parlamento Europeu e da Comissão, de 19 de Maio, produza efeitos a revogação da Directiva n.º <a href=\"eurlex.asp?ano=1996&id=396L0060\" title=\"Link para Directiva da Comunidade Europeia\">96/60/CE</a>, da Comissão, de 19 de Setembro, relativa à indicação do consumo de energia eléctrica, por meio de etiquetagem, das máquinas combinadas de lavar e secar roupa para uso doméstico.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633241": {
+   "fragment_id": "157237014",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\n1 - Sem prejuízo do disposto no número seguinte, o presente decreto-lei entra em vigor a 20 de Julho de 2011.\n\n2 - A alínea e) do n.º 1 e o n.º 3 do artigo 8.º entram em vigor a 31 de Julho de 2011.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  },
+  "161633242": {
+   "fragment_id": "157237015",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-04-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Março de 2011. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto de Sousa Martins - José António Fonseca Vieira da Silva - Paulo Jorge Oliveira Ribeiro de Campos - Dulce dos Prazeres Fidalgo Álvaro Pássaro.\n\nPromulgado em 20 de Abril de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 21 de Abril de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 28/2021 - Diário da República n.º 76/2021, Série I de 2021-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2021-161766416), em vigor a partir de 2021-04-21"
+  }
+ }
+}

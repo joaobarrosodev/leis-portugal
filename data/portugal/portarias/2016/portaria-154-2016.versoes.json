@@ -1,0 +1,180 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74534746:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-75740859",
+ "dre_path": "/dr/detalhe/portaria/154-2016-74534746",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-05-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75710564",
+    "75710565",
+    "75710566",
+    "75710567",
+    "75710568",
+    "75710569",
+    "75710570",
+    "75710571",
+    "75710572",
+    "75710573"
+   ]
+  },
+  {
+   "date": "2016-11-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75748124:por",
+     "title": "Portaria n.º 290-A/2016",
+     "published": "2016-11-15",
+     "dre_path": "/dr/detalhe/portaria/290-a-2016-75748124"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A"
+   ],
+   "fragments": [
+    "75710564",
+    "75710565",
+    "75710566",
+    "75710567",
+    "75710568",
+    "75710569",
+    "75710570",
+    "75751789",
+    "75751790",
+    "75751791",
+    "75751792",
+    "75751793"
+   ]
+  }
+ ],
+ "fragments": {
+  "75710564": {
+   "fragment_id": "75740860",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 154/2016\n\nde 27 de maio\n\nO Decreto-Lei n.º 97/2015, de 1 de junho, estabelece, no n.º 2 do seu artigo 8.º, a possibilidade de criação de um regime de preços notificados, remetendo para portaria a definição do tipo de medicamentos abrangidos.\n\nA Portaria n.º 195-C/2015, de 30 de junho, que define as regras de formação dos preços máximos dos medicamentos, veio estabelecer, no seu artigo 14.º, que os medicamentos sujeitos a receita médica não comparticipados podem, a requerimento do titular de autorização de introdução no mercado, ser abrangidos pelo regime de preços notificados.\n\nApós quase um ano de implementação deste regime foi feita uma avaliação do mesmo, revelando-se necessário proceder a algumas alterações, de forma a permitir a aplicação do regime de preços notificados aos medicamentos sujeitos a receita médica não comparticipados ou não comparticipáveis nos termos da Portaria n.º 195-C/2015, de 30 de junho.\n\nO presente sistema de preços aplica-se a medicamentos que já se encontrem no mercado, assim como aos novos medicamentos a introduzir no mercado nacional.\n\nA alteração do preço dos medicamentos decorrente da aplicação do regime de preços notificados fica sujeita a uma variação, previamente definida, com o objetivo de permitir uma flexibilização do preço sem pôr em causa os interesses dos doentes.\n\nProcede-se também a uma regulamentação das margens de comercialização, de forma a atender às especificidades do sistema de preços notificados.\n\nO sistema criado pela presente portaria será objeto de uma avaliação, ao fim de um ano de vigência, com o intuito de analisar o seu impacto e ponderar a evolução tendo em consideração os regimes de preços notificados existentes nos restantes países da União Europeia.\n\nAssim, nos termos e ao abrigo do disposto nos n.os 2 e 4 do artigo 8.º do Decreto-Lei n.º 97/2015, de 1 de junho, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "75710565": {
+   "fragment_id": "75740861",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regula o regime de preços notificados."
+  },
+  "75710566": {
+   "fragment_id": "75740862",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime de preços notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime de preços notificados\n\n1 - Podem ficar sujeitos ao regime de preços notificados os medicamentos sujeitos a receita médica não comparticipados ou não comparticipáveis nos termos da Portaria n.º 195-C/2015, de 30 de junho.\n\n2 - O preço de venda ao público (PVP) máximo aprovado dos medicamentos referidos no número anterior pode ser alterado nos termos dos números seguintes.\n\n3 - O titular de autorização de introdução no mercado do medicamento abrangido pelo âmbito de aplicação previsto no n.º 1 do presente artigo que pretenda praticar um PVP notificado deve comunicá-lo ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), com a antecedência mínima de 20 dias, devendo a sua produção de efeitos coincidir com o primeiro dia do mês seguinte.\n\n4 - O INFARMED, I. P., no prazo de 30 dias, a contar da comunicação referida no número anterior, pode opor-se à alteração do PVP com fundamento em desvio em relação à variação fixada em percentagem nos termos do artigo 4.º, mantendo-se, neste caso, o PVP máximo referido no n.º 2.\n\n5 - No caso de oposição, pelo INFARMED, I. P., ao preço comunicado pelo titular de autorização de introdução no mercado do medicamento sujeito ao regime de preços notificados, pode o titular apresentar um novo PVP, nos termos e prazos previstos no presente artigo.\n\n6 - Na falta de qualquer comunicação do INFARMED, I. P., no prazo referido no n.º 4, contado da data de receção de comunicação do preço, considera-se como tacitamente aceite o preço notificado.\n\n7 - O regime de preços notificados não é aplicável aos medicamentos de importação paralela.\n\n8 - Os medicamentos referidos no n.º 1, abrangidos pelo regime de preços notificados, não ficam sujeitos ao regime de preços máximos, no que respeita ao regime de revisão anual de preços."
+  },
+  "75710567": {
+   "fragment_id": "75740863",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração do regime de preços notificados para regime de preços máximos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração do regime de preços notificados para regime de preços máximos\n\nSempre que o titular de autorização de introdução no mercado do medicamento sujeito ao regime de preços notificados pretenda requerer a comparticipação, deve apresentar, em simultâneo, o pedido de autorização de PVP máximo, de acordo com os critérios de determinação fixados nos artigos 6.º a 10.º da Portaria n.º 195-C/2015, de 30 de junho."
+  },
+  "75710568": {
+   "fragment_id": "75740864",
+   "type": 11,
+   "heading": "Artigo 4.º — Variação adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Variação adicional\n\n1 - O PVP dos medicamentos abrangidos pelo artigo 2.º pode ser objeto de uma variação anual adicional até ao máximo de 10 % do PVP máximo em vigor, com limite de dois euros e cinquenta cêntimos em cada ano.\n\n2 - Os valores da variação adicional previstos no número anterior podem ser revistos anualmente, sem prejuízo da avaliação prevista no artigo 7.º"
+  },
+  "75710569": {
+   "fragment_id": "75740865",
+   "type": 11,
+   "heading": "Artigo 5.º — Margens de comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Margens de comercialização\n\nAs margens de comercialização sobre a variação adicional prevista no artigo anterior, relativa aos medicamentos abrangidos pela presente portaria, são as seguintes:\n\na) Farmácias - 20 %, excluindo o imposto sobre o valor acrescentado;\n\nb) Grossistas - 8 %, excluindo o imposto sobre o valor acrescentado."
+  },
+  "75710570": {
+   "fragment_id": "75740866",
+   "type": 11,
+   "heading": "Artigo 6.º — Salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Salvaguarda\n\nSem prejuízo do disposto no artigo seguinte, o INFARMED, I. P., pode opor-se à aplicação do regime de preços notificados, nomeadamente com fundamento em razões de mercado ou de saúde pública."
+  },
+  "75710571": {
+   "fragment_id": "75740867",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação do regime de preços notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação do regime de preços notificados\n\nA avaliação da aplicação do presente regime de preços notificados é efetuada no final do primeiro ano da sua vigência e, posteriormente, é realizada com carácter bienal."
+  },
+  "75710572": {
+   "fragment_id": "75740868",
+   "type": 11,
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação\n\nSão revogados o n.º 2 do artigo 2.º e os artigos 14.º e 15.º da Portaria n.º 195-C/2015, de 30 de junho."
+  },
+  "75710573": {
+   "fragment_id": "75740869",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor 30 dias após a data da sua publicação."
+  },
+  "75751789": {
+   "fragment_id": "75751882",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Prazos de escoamento",
+   "in_force_from": "2016-11-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 290-A/2016 - Diário da República n.º 219/2016, 1º Suplemento, Série I de 2016-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/290-a-2016-75748124), em vigor a partir de 2016-11-16"
+   ],
+   "markdown": "###### Artigo 6.º-A — Prazos de escoamento\n\n1 - A partir da data de entrada em vigor dos preços notificados nos termos da presente portaria, não podem ser colocados nos distribuidores por grosso, nem nas farmácias, medicamentos que apresentem preços diferentes dos resultantes da aplicação do regime previsto na presente portaria.\n\n2 - Os medicamentos abrangidos pela presente portaria que se encontrem nos distribuidores por grosso e nas farmácias marcados com o preço antigo no dia anterior ao da entrada em vigor dos novos preços, poderão ser escoados com aquele preço:\n\na) Pelo prazo de 30 dias, contados a partir dessa data, no caso dos distribuidores por grosso;\n\nb) Pelo prazo de 60 dias, contados a partir da mesma data, no caso das farmácias.\n\n3 - É permitida a remarcação de preços pela indústria nas instalações das farmácias ou dos distribuidores por grosso.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 290-A/2016 - Diário da República n.º 219/2016, 1º Suplemento, Série I de 2016-11-15](https://diariodarepublica.pt/dr/detalhe/portaria/290-a-2016-75748124), em vigor a partir de 2016-11-16"
+  },
+  "75751790": {
+   "fragment_id": "75740867",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação do regime de preços notificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação do regime de preços notificados\n\nA avaliação da aplicação do presente regime de preços notificados é efetuada no final do primeiro ano da sua vigência e, posteriormente, é realizada com carácter bienal."
+  },
+  "75751791": {
+   "fragment_id": "75740868",
+   "type": 11,
+   "heading": "Artigo 8.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Revogação\n\nSão revogados o n.º 2 do artigo 2.º e os artigos 14.º e 15.º da Portaria n.º 195-C/2015, de 30 de junho."
+  },
+  "75751792": {
+   "fragment_id": "75740869",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente portaria entra em vigor 30 dias após a data da sua publicação."
+  },
+  "75751793": {
+   "fragment_id": "75740870",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Martins dos Santos Delgado, em 19 de maio de 2016."
+  }
+ }
+}

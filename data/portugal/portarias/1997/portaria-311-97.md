@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:395149:por
+title: Portaria n.º 311/97
+short_title: null
+summary: Altera os quadros de pessoal das secretarias judiciais dos juízos cíveis de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e da Justiça
+proposing_entity: null
+official_number: 311/97
+official_date: null
+publication_date: '1997-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/1997, Série I-B de 1997-05-13
+  number: '110'
+  series: I
+  supplement: null
+  pages: 2310 - 2310
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/05/110b00/23102310.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/311/1997/05/13/p/dre/pt/html
+  oj: null
+  dre: '395149'
+  dre_path: /dr/detalhe/portaria/311-1997-395149
+  internal: pt:dre:395149:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-1997-395149
+  metadata_url: https://data.dre.pt/eli/port/311/1997/05/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/311-1997-395149
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-05-06T00:00:00Z'
+integrity:
+  source_sha256: 5d433c267c7f62263e2e5a09afe094eadb1aa68892fc706ff78d3d128ee57671
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-311-395149.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Lisboa
+- Tribunal Cível
+- Quadro de Pessoal
+- Secretaria Judicial
+- VARA Civel
+relationships:
+- type: amended_by
+  target: pt:dre:333494:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1177/1993/11/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1177/1993/11/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1258/1995/10/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1258/1995/10/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/245/1996/07/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/245/1996/07/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/816/1994/09/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/816/1994/09/16/p/dre
+article_structure:
+  article_count: 0
+  section_count: 1
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 311/97
+
+de 13 de Maio
+
+Ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 376/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1987-650730), de 11 de Dezembro, manda o Governo, pelos Ministros das Finanças, da Justiça e Adjunto, que os quadros de pessoal das secretarias judiciais dos juízos cíveis de Lisboa, aprovados pela [Portaria n.º 1177/93](https://diariodarepublica.pt/dr/detalhe/portaria/1177-1993-581269), de 10 de Novembro, rectificada pela declaração publicada no Diário da República, 1.ª série, n.º 25, de 31 de Janeiro de 1994, e alterada pelas Portarias n.os [816/94](https://diariodarepublica.pt/dr/detalhe/portaria/816-1994-586375), de 16 de Setembro, [1258/95](https://diariodarepublica.pt/dr/detalhe/portaria/1258-1995-668157), de 24 de Outubro, e [245/96](https://diariodarepublica.pt/dr/detalhe/portaria/245-1996-422859), de 8 de Julho, passem a ter a composição constante do mapa anexo, o qual faz parte integrante da presente portaria.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e da Justiça.
+
+**Assinada em 17 de Abril de 1997.**
+
+Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Justiça, José Eduardo Vera Cruz Jardim. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
+
+MAPA ANEXO
+
+Lisboa
+
+Juízos cíveis
+
+#### Secção central e três secções de processos em cada juízo:
+
+Pessoal:
+
+Categorias:
+
+Secretário judicial ... 1
+
+Escrivão de direito ... 4
+
+Escrivão-adjunto ... 10
+
+Escriturário judicial ... 10

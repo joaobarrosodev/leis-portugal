@@ -1,0 +1,1282 @@
+---
+schema_version: '1.0'
+id: pt:dre:236477:por
+title: Decreto-Lei n.º 142/73
+short_title: null
+summary: Aprova o Estatuto das Pensões de Sobrevivência
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro - Caixa Geral de Depósitos, Crédito e Previdência
+proposing_entity: null
+official_number: 142/73
+official_date: null
+publication_date: '1973-03-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 77/1973, 1º Suplemento, Série I de 1973-03-31
+  number: '77'
+  series: I
+  supplement: 1º Suplemento
+  pages: 510-(1) a 510-(15)
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/03/07701/00010015.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-08-18'
+version_history:
+  file: decreto-lei-142-73.versoes.json
+  count: 14
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1973-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-10-06'
+    amending: pt:dre:473546:por
+    amending_title: Decreto-Lei n.º 502/74
+    changes:
+    - Altera Artigo 26.º
+  - date: '1979-07-01'
+    amending: pt:dre:432672:por
+    amending_title: Decreto-Lei n.º 191-B/79
+    changes:
+    - Adita Artigo 13.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 34.º
+    - Altera Artigo 36.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 67.º
+  - date: '1983-05-22'
+    amending: pt:dre:451220:por
+    amending_title: Decreto-Lei n.º 192/83
+    changes:
+    - Altera Artigo 30.º
+  - date: '1983-05-30'
+    amending: pt:dre:451809:por
+    amending_title: Decreto-Lei n.º 214/83
+    changes:
+    - Adita Artigo 54.º-A
+    - Altera Artigo 51.º
+    - Altera Artigo 54.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Revoga Artigo 55.º
+    - Revoga Artigo 56.º
+    - Revoga Artigo 57.º
+    - Revoga Artigo 58.º
+  - date: '1984-08-27'
+    amending: pt:dre:381085:por
+    amending_title: Decreto-Lei n.º 283/84
+    changes:
+    - Altera Artigo 30.º
+    - Altera Artigo 34.º
+  - date: '1985-06-30'
+    amending: pt:dre:182243:por
+    amending_title: Decreto-Lei n.º 198/85
+    changes:
+    - Altera Artigo 24.º
+  - date: '1991-09-22'
+    amending: pt:dre:301459:por
+    amending_title: Decreto-Lei n.º 343/91
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Capítulo VII
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 63.º
+    - Altera Artigo 64.º
+    - Altera Artigo 65.º
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+  - date: '1997-04-08'
+    amending: pt:dre:526776:por
+    amending_title: Decreto-Lei n.º 71/97
+    changes:
+    - Altera Artigo 44.º
+  - date: '2003-01-23'
+    amending: pt:dre:176338:por
+    amending_title: Decreto-Lei n.º 8/2003
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+  - date: '2010-09-04'
+    amending: pt:dre:343919:por
+    amending_title: Lei n.º 23/2010
+    changes:
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+  - date: '2012-02-14'
+    amending: pt:dre:543049:por
+    amending_title: Decreto-Lei n.º 32/2012
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+  - date: '2012-07-01'
+    amending: pt:dre:178491:por
+    amending_title: Decreto-Lei n.º 133/2012
+    changes:
+    - Altera Artigo 45.º
+    - Altera Artigo 47.º
+  - date: '2019-08-18'
+    amending: pt:dre:123930786:por
+    amending_title: Decreto-Lei n.º 108/2019
+    changes:
+    - Altera Artigo 30.º
+    - Altera Artigo 36.º
+    - Altera Artigo 42.º
+    - Altera Artigo 59.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/142/1973/p/cons/20190813/pt/html
+  oj: null
+  dre: '236477'
+  dre_path: /dr/detalhe/decreto-lei/142-1973-236477
+  internal: pt:dre:236477:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477
+  metadata_url: https://data.dre.pt/eli/dec-lei/142/1973/p/cons/20190813/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1973-201658599
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1973-201658599
+  retrieved_at: '2026-10-22T12:53:08Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c53f85834553f154c3ab66a20557a11c9cbb20f08c064923a4939f3f99d2b3d1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:53:08Z'
+  notes: 14 versão(ões); histórico completo em decreto-lei-142-73.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Caixa Geral de Aposentações
+- Estatuto
+- Função Pública
+- Montepio dos Servidores do Estado
+- Pensão de Sobrevivência
+relationships:
+- type: amended_by
+  target: pt:dre:473546:por
+  label: Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1974-473546
+  date: '1974-10-01'
+- type: amended_by
+  target: pt:dre:432672:por
+  label: Adita Artigo 13.º-A; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 16.º; Altera Artigo 19.º; Altera Artigo 22.º;
+    Altera Artigo 23.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo 31.º;
+    Altera Artigo 34.º; Altera Artigo 36.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672
+  date: '1979-06-25'
+- type: amended_by
+  target: pt:dre:451220:por
+  label: Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1983-451220
+  date: '1983-05-17'
+- type: amended_by
+  target: pt:dre:451809:por
+  label: Adita Artigo 54.º-A; Altera Artigo 51.º; Altera Artigo 54.º; Altera Artigo 59.º; Altera Artigo 60.º; Revoga Artigo
+    55.º; Revoga Artigo 56.º; Revoga Artigo 57.º; Revoga Artigo 58.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809
+  date: '1983-05-25'
+- type: amended_by
+  target: pt:dre:381085:por
+  label: Altera Artigo 30.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1984-381085
+  date: '1984-08-22'
+- type: amended_by
+  target: pt:dre:182243:por
+  label: Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1985-182243
+  date: '1985-06-25'
+- type: amended_by
+  target: pt:dre:301459:por
+  label: Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo 42.º; Altera Artigo 44.º; Altera Capítulo VII; Altera Artigo
+    61.º; Altera Artigo 62.º; Altera Artigo 63.º; Altera Artigo 64.º; Altera Artigo 65.º; Altera Artigo 66.º; Altera Artigo
+    67.º; Altera Artigo 68.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459
+  date: '1991-09-17'
+- type: amended_by
+  target: pt:dre:526776:por
+  label: Altera Artigo 44.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1997-526776
+  date: '1997-04-03'
+- type: amended_by
+  target: pt:dre:176338:por
+  label: Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2003-176338
+  date: '2003-01-18'
+- type: amended_by
+  target: pt:dre:343919:por
+  label: Altera Artigo 40.º; Altera Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/23-2010-343919
+  date: '2010-08-30'
+- type: amended_by
+  target: pt:dre:543049:por
+  label: Altera Artigo 16.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049
+  date: '2012-02-13'
+- type: amended_by
+  target: pt:dre:178491:por
+  label: Altera Artigo 45.º; Altera Artigo 47.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491
+  date: '2012-06-27'
+- type: amended_by
+  target: pt:dre:123930786:por
+  label: Altera Artigo 30.º; Altera Artigo 36.º; Altera Artigo 42.º; Altera Artigo 59.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786
+  date: '2019-08-13'
+article_structure:
+  article_count: 78
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:53:08Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 142/73
+
+Decreto-Lei n.º 142/73
+
+de 31 de Março
+
+1. O regime em vigor de pensão de sobrevivência do funcionalismo público, instituído pelo Decreto-Lei n.º 24046, de 21 de Junho de 1934, corresponde, nas suas origens, a uma concepção de previdência em que esta era deixada à iniciativa, e ficava essencialmente a cargo, dos próprios interessados, no quadro de fórmulas jurídicas mais ou menos próximas da do seguro de vida.
+
+Daí os traços fundamentais do sistema: o seu carácter predominantemente facultativo; a sua onerosidade (com quotas que representavam 10% da pensão mensal subscrita); a larga gama de soluções, de custo diverso, que se oferecia à escolha dos subscritores;
+
+os direitos dos contribuintes quanto à restituição das quotas pagas, etc.
+
+E daí, também, as principais deficiências do regime, que a sua aplicação tinha inevitavelmente de revelar: reduzido número de adesões, conduzindo a uma cobertura insuficientíssima da população que se pretendia beneficiar; preferência generalizada pelos esquemas de menor custo, correspondentes a pensões de montante extremamente exíguo, e a desactualização do valor das pensões cujo montante, pela própria índole do sistema, se fixava definitivamente no momento da inscrição e não tinha, no âmbito daquele, qualquer possibilidade de reajustamento.
+
+Compreende-se, assim, que dos 346053 servidores do Estado inscritos na Caixa Geral de Aposentações em 31 de Dezembro de 1972 apenas 104052 fossem contribuintes do Montepio. Já isto chegaria para demonstrar que não pode confiar-se no espírito de previdência do indivíduo e que, se se querem atingir resultados efectivos neste domínio, não basta proporcionar aos interessados, para que espontaneamente as utilizem, fórmulas capazes de proteger os seus interesses e os interesses dos seus agregados familiares.
+
+Mais se evidencia, contudo, o débil espírito de previdência do funcionalismo, em geral, quando atentamos na «preferência» que 93,3% dos contribuintes do Montepio deram a pensões compreendidas entre 225$00 (aliás, 150$00 de pensão e 75$00 de suplemento, concedido pelo Decreto n.º 37134, de 5 de Novembro de 1948) e 375$00 (250$00 de pensão e 125$00 de suplemento). O quadro que em seguida se insere é, a este propósito, plenamente elucidativo.
+
+(ver documento original)
+
+Esta opção generalizada pelas soluções de menor custo originaram com frequência situações chocantes, motivo de frequentes reclamações junto do Montepio, nomeadamente quanto a certos contribuintes que ocuparam altos cargos no funcionalismo civil e militar e que, por efeito da referida escolha, deixaram, por morte, à família pensões insignificantes e manifestamente desajustadas das suas necessidades e posição social.
+
+De resto, na generalidade dos casos, atribuída a pensão, surgia, com a insuficiência dela, um vivo sentimento de injustiça intrínseca do sistema, traduzindo uma apreciação que, se carecida de razão de ser em face dos próprios fundamentos lógicos daquele, nem por isso deixava de ser determinante do comportamento dos interessados e de reflectir o profundo desajustamento entre o regime vigente e as necessidades sociais do nosso tempo.
+
+Daí, aliás, que o Governo se visse compelido, mais de uma vez - a última das quais nesta mesma data -, a intervir para, em certa medida, actualizar o valor das pensões, se bem que nunca, obviamente, em termos de corresponder às compreensíveis mas inviáveis aspirações dos interessados.
+
+2. Impunha-se, portanto, rever todo o sistema e instituir um novo regime que, para responder apropriadamente às necessidades dos servidores do Estado, se alicerçasse numa concepção profundamente diversa de previdência.
+
+É o que se visa com o presente Estatuto. No seu âmbito, a pensão de sobrevivência surge como um benefício que o Estado concede aos seus servidores, nos termos e dentro dos limites que a lei estabelece e que não dependem essencialmente da vontade dos interessados.
+
+Surge, assim, um esquema necessariamente obrigatório - sem prejuízo, todavia, de se considerarem, neste período de transição, situações que justifiquem um tratamento diferenciado -, assegurando a permanente cobertura de toda a população que se deseja abranger.
+
+Temos, depois, uma regulamentação que, pautando-se pelas conveniências da colectividade e pelas possibilidades do Tesouro, define em termos perfeitamente objectivos e uniformes o regime aplicável a todos os interessados, garantindo-lhes o mesmo grau de protecção relativa e obviando, naturalmente, a que, como até agora sucedia, as opções de cada um conduzam às disparidades e às insuficiências que se apontaram já. Assim sucede, designadamente, no tocante à contribuição dos servidores para o funcionamento do sistema, a qual é sempre representada pela mesma percentagem de remuneração auferida, e no atinente à própria pensão de sobrevivência, igual, em todos os casos, a metade da pensão de aposentação que o funcionário se encontre a perceber na data da sua morte ou a que teria direito se fosse aposentado nessa data.
+
+E através das ligações indicadas se assegura, por outro lado, a constante actualização do valor das pensões de sobrevivência atribuíveis.
+
+Desenhados, deste modo, em linhas muito gerais, os aspectos de maior contraste dos dois regimes, convirá pormenorizá-los um pouco e referir outros, da maior importância também para a boa compreensão do sistema que se institui.
+
+3. Em matéria de inscrição, determina-se, como regra, no presente Estatuto, a sua obrigatoriedade para os actuais subscritores da Caixa Geral de Aposentações que, estando no activo ou na reserva e não sendo ainda contribuintes do Montepio, não tenham mais de 55 anos; e impõe-se, para o futuro, a inscrição automática no Montepio de todos os servidores que forem inscritos na referida Caixa.
+
+Permite-se, por outro lado, que voluntariamente se inscrevam os servidores que, tendo mais de 55 anos, possam perfazer, com ou sem retroacção ou contagem de tempo anterior, os cinco anos de garantia até ao limite de idade fixado para a aposentação ou reforma, e bem assim os aposentados ou reformados à data da entrada em vigor do Estatuto, seja qual for a sua idade.
+
+4. Os contribuintes inscritos são admitidos a requerer a retroacção da inscrição pelo tempo já contado para efeitos de aposentação. Porém a retroacção, uma vez pedida, implica a contagem obrigatória de todo o referido tempo até ao limite de quarenta anos.
+
+A contagem obrigatória de todo o tempo anterior justifica-se pela já demonstrada falta de espírito de previdência da generalidade dos servidores. Com efeito, se se lhes facultasse a livre escolha do período a abranger pela retroacção, seria muito de recear que esta não assegurasse as finalidades sociais que se visam, em virtude da opção dos interessados por períodos demasiado curtos.
+
+Acrescem, como razões adicionais da solução adoptada, o diminuto encargo que dela deriva - simples pagamento da quota normal de 1%, sem acréscimo de juros, em relação ao tempo anterior considerado -, a circunstância de se conceder um prazo longo, em regra de dez e quinze anos, para a liquidação da dívida resultante da retroacção, e, ainda, a vantagem da uniformização da contagem do tempo para efeito das pensões de aposentação e de sobrevivência.
+
+5. Apesar de se garantir uma pensão de sobrevivência igual a metade da pensão de aposentação e de a quota, no atinente a esta última, ser de 6%, fixa-se, à semelhança do que sucede na previdência privada, apenas em 1% das remunerações auferidas a contribuição dos servidores para os encargos do sistema.
+
+Trata-se de um regime extremamente favorável, em virtude de a pensão de aposentação se calcular, em regra, com base na remuneração mais recente do funcionário, atingindo, no caso de quarenta ou mais anos de serviço, montante igual ao da remuneração que o interessado percebia no activo.
+
+Também, à semelhança do que sucede no regime de previdência privada, a quota deixa de ser paga logo que o servidor se aposenta ou reforma, o que se justifica, fundamentalmente, pelo facto de o tempo decorrido posteriormente à aposentação em nada contribuir para a melhoria da pensão de sobrevivência, cujo valor, por força do Estatuto e como já se referiu, é sempre metade da pensão de aposentação.
+
+6. Se bem que a concepção basilar do regime agora instituído o não exigisse, nem, rigorosamente, o comportasse, admite-se a restituição das quotas pagas pelo contribuinte se este falecer antes de completado o período de garantia de cinco anos necessário para a atribuição da pensão de sobrevivência. Entendeu-se que, em tal caso, não tendo os seus herdeiros qualquer possibilidade de colher benefícios do sistema, justo seria devolver-lhes o que o funcionário houvesse pago.
+
+7. Já se mencionou anteriormente que a pensão de sobrevivência passa a ser igual a metade da pensão de aposentação ou de reforma que o servidor se encontrava a perceber na data da sua morte ou a que teria direito se, na mesma data, fosse aposentado ou reformado.
+
+Como a pensão de aposentação se fixa, em regra, com base na remuneração mais recente do interessado e é igual à remuneração por este auferida no activo quando calculada com base em quarenta ou mais anos de serviço, é óbvio que as futuras pensões de sobrevivência - considerados os actuais vencimentos do funcionalismo - atingirão montantes sensivelmente superiores ao das pensões concedidas no âmbito do vigente estatuto do Montepio, cujos máximos, para trinta ou mais anos de inscrição, variavam até agora entre 225$00 e 1750$00 mensais, e passarão, mercê de diploma também hoje promulgado, a situar-se entre 450$00 e 2675$00.
+
+Basta referir, como exemplo, que, com a quota de 150$00 mensais, a pensão máxima actual, correspondente à 8.ª classe, era de 1750$00 (passando para 2675$00, em virtude do diploma mencionado), enquanto que, no regime do presente Estatuto, a mesma quota, correspondendo a 1% da remuneração mensal de 15000$00, dará direito a uma pensão máxima de valor superior a 7000$00 mensais.
+
+Um dos defeitos mais graves de que enferma o sistema em vigor, e que também explicará o desinteresse dos servidores do Estado pela sua inscrição no Montepio, reside precisamente no reduzido, montante das pensões que proporciona.
+
+O Estatuto dá, por conseguinte, um passo decisivo em tal matéria, fixando as pensões num nível que deverá libertar os funcionários de grande parte das preocupações relacionadas com a situação futura dos seus familiares.
+
+8. Os herdeiros hábeis dos contribuintes, no regime do presente diploma, são os cônjuges sobrevivos e os divorciados, os filhos, incluindo os nascituros e os adoptados plenamente, os netos e os pais e avós.
+
+Deixam de o ser, ao contrário do que sucede no esquema do Decreto-Lei n.º 24046, de 21 de Junho de 1934, as filhas solteiras, viúvas ou divorciadas com mais de 24 anos, bem como as irmãs igualmente solteiras, viúvas ou divorciadas. A inclusão destes dois grupos no elenco de herdeiros hábeis, porventura necessária numa época em que eram raras as mulheres que trabalhavam fora do lar, não terá grande razão de ser nos nossos dias. Daí que se seguisse, nesta matéria, o caminho já trilhado pela previdência privada e pelos sistemas de pensão de sobrevivência anteriormente instituídos nos Ministérios do Ultramar e da Justiça.
+
+No que respeita aos filhos, eliminou-se a distinção que até agora se fazia, para os efeitos de cálculo da pensão, entre os legítimos e os ilegítimos, e acabou-se também, quanto aos ascendentes, com a exclusão dos avós pelos pais na ordem da sucessão, visto uns e outros só terem direito à pensão desde que vivam a cargo do contribuinte e em comunhão de mesa e habitação corri ele, devendo, por isso, constituir um único grupo, com direitos iguais.
+
+Simplificou-se e uniformizou-se o regime da reversão - demasiado complexo e diferenciado no quadro da legislação vigente - através da definição do princípio genérico de que, quando a pensão for atribuída a mais de um interessado, a extinção da qualidade de pensionista em relação a um deles determinará nova distribuição da totalidade da pensão pelos restantes.
+
+Finalmente, no caso de, pelo casamento, se verificar a perda da pensão, atribui-se direito à concessão de um dote (de valor máximo igual a 24 pensões mensais), não apenas à viúva e aos filhos do contribuinte, mas também, por analogia de razões, que se julgou de atender, e embora indo um pouco mais longe do que a previdência privada, às divorciadas e aos netos de ambos os sexos.
+
+9. O presente Estatuto manda integrar na pensão os suplementos legais que a ela acresçam, evitando assim as complicações administrativas que sempre derivam da aplicabilidade de regimes jurídicos diversos a parcelas de um mesmo todo, e determina, à semelhança do disposto no Estatuto da Aposentação, que, quando as pensões de aposentação ou de reforma forem objecto de actualização, deverá esta tornar-se extensiva às pensões de sobrevivência nos termos que forem fixados pelo Conselho de Ministros, sob proposta do Ministro das Finanças.
+
+10. No que respeita aos actuais contribuintes do Montepio, hesitou-se entre a sua subordinação obrigatória ou a sua adesão facultativa ao novo sistema criado por este diploma.
+
+No primeiro sentido militavam, fundamentalmente, o facto de o regime agora estabelecido ser, no seu conjunto, mais favorável e a circunstância de, como já se salientou, a grande maioria dos contribuintes se encontrar inscrita na 1.ª classe, em que as pensões são de quantitativo muito reduzido.
+
+Ponderou-se, contudo, e antes de mais, que a natureza do actual esquema do Montepio, com a situação jurídica particular que, no seu âmbito, da inscrição resulta para os interessados, tornava menos líquida a efectiva possibilidade de lhes impor o abandono do regime em vigor e a sua obrigatória subordinação ao novo. Considerou-se, em segundo lugar, que no quadro do Decreto-Lei n.º 24046 alguns direitos ou aspectos de regulamentação existem - como a restituição de quotas aos contribuintes com mais de 65 anos de idade e 30 de inscrição e sem herdeiros hábeis, a inclusão das filhas com mais de 24 anos e das irmãs no elenco dos herdeiros, etc. - que não transitaram para o presente Estatuto e que podem revestir-se de interesse particular para uns ou outros servidores, não se afigurando legítimo privá-los desses direitos ou posições jurídicas através da sua sujeição forçada ao novo regime. Tais circunstâncias levaram a optar pela adesão facultativa, que, salvaguardando os interesses mencionados, abre, nos termos em que se encontra regulamentada, caminho amplo e fácil para, através de um simples requerimento, acederem ao esquema muito mais favorável deste diploma todos os que dele pretendam efectivamente beneficiar.
+
+Haverá, assim, um núcleo de actuais contribuintes do Montepio - constituído fundamentalmente pelos que, podendo fazê-lo, não aderirem ao novo regime - que continuará sujeito às disposições do Decreto-Lei n.º 24046, de 21 de Junho de 1934, e legislação complementar.
+
+Aos restantes, tendo requerido aplicação do presente Estatuto, é facultada a retroacção dos efeitos respectivos pelo tempo de inscrição que tiverem, abatendo-se na dívida apurada as quotas anteriormente pagas. Se não requererem a retroacção, ser-lhes-á obrigatoriamente convertido o tempo de inscrição no Montepio, anterior à entrada em vigor do Estatuto, em tempo válido para efeitos de aplicação do esquema agora instituído.
+
+Finalmente, tendo sempre em vista uma equilibrada consideração de todos os interesses dos funcionários, estabelece-se que a pensão de sobrevivência devida pela morte dos actuais contribuintes que adiram ao novo regime será calculada de acordo com as regras fixadas no Estatuto, salvo se as mesmas conduzirem a montante inferior ao que adviria do seu cálculo, nos termos do Decreto-Lei n.º 24046, de 21 de Junho de 1934, e legislação complementar, caso em que será da importância que resultar da aplicação deste último regime.
+
+11. Como ressalta do que, fica dito, o sistema de pensões de sobrevivência criado pelo presente diploma procura responder, e crê-se que responderá adequadamente, à generalidade das aspirações dos servidores do Estado nesta matéria.
+
+Importa, todavia, salientar ainda um aspecto fundamental. E é ele o de que, graças, por um lado, ao direito que se confere aos interessados de, para efeitos de pensão de sobrevivência, fazerem contar, com um encargo mínimo e pagável em prazo dilatado, todo o tempo de serviço que tiverem à data da inscrição, e mercê, por outro lado, do facto de se permitir a inscrição e a retroacção ou contagem de tempo anterior a todos os funcionários, ainda que aposentados ou reformados, o sistema agora instituído, projectando plenamente os seus efeitos no futuro, projecta-os também saneadoramente sobre o passado, colmatando quase por inteiro a lacuna da sua inexistência anterior e fazendo com que praticamente tudo se passe como se houvesse sido promulgado há trinta ou quarenta anos.
+
+Extraordinariamente volumoso será o encargo que para o Orçamento resulta dessa retroacção das novas disposições. Pensou-se, todavia, que os interesses do funcionalismo, que só assim se acautelavam em termos de eficácia imediata, justificavam plenamente o esforço financeiro exigido.
+
+12. Cumpre, de resto, anotar que a contribuição anual do Estado para a Caixa Geral de Aposentações e para o Montepio, destinada a assegurar o equilíbrio financeiro destes organismos, e que já é, presentemente, da ordem dos 600000 contos, terá, por efeito dos aumentos verificados no âmbito das pensões de aposentação e de sobrevivência e dos encargos emergentes da reforma introduzida pelo presente Estatuto, de reforçar-se oportunamente em várias centenas de milhares de contos anuais.
+
+Espera-se, todavia, que, substancialmente melhoradas como ficam as condições de trabalho dos servidores do Estado, seja possível obter, em termos de produtividade e de preferência e apego pela função pública, contrapartida válida dos encargos que, com esta e outras medidas que têm vindo a adoptar-se, o Governo não hesitou em assumir.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+ESTATUTO DAS PENSÕES DE SOBREVIVÊNCIA
+
+### Capítulo I — Natureza e fins
+
+###### Artigo 1.º — (Natureza)
+
+1. O Montepio dos Servidores do Estado, organismo dotado de personalidade jurídica, autonomia financeira e património próprio, passa a reger-se pelo disposto no presente Estatuto.
+
+2. O Montepio dos Servidores do Estado mantém a sua natureza de instituição anexa à Caixa Geral de Depósitos, sob a administração desta, constituindo, juntamente com a Caixa Geral de Aposentações, a Caixa Nacional de Previdência.
+
+3. O Montepio dos Servidores do Estado e a Caixa Geral de Depósitos serão abreviadamente designados neste diploma por «Montepio» e «Caixa».
+
+###### Artigo 2.º — (Finalidade)
+
+O Montepio tem como finalidade assegurar o pagamento de pensões de sobrevivência aos herdeiros hábeis dos seus contribuintes.
+
+###### Artigo 3.º — (Organização interna dos serviços)
+
+A organização interna dos serviços do Montepio constará do regulamento aprovado pelo conselho de administração da Caixa.
+
+### Capítulo II — Inscrição e contagem de tempo
+
+###### Artigo 4.º — (Inscrição obrigatória)
+
+1 - São obrigatoriamente inscritos como contribuintes do Montepio, quer se encontrem no activo, quer na reserva, os subscritores da Caixa Geral de Aposentações e os funcionários ou agentes abrangidos pelo disposto na alínea b) do n.º 2 do artigo 1.º do Estatuto da Aposentação, desde que possam, uns e outros, com ou sem retroacção ou contagem de tempo anterior, completar o prazo de garantia estabelecido no n.º 1 do artigo 26.º do presente diploma até atingirem o limite de idade fixado para a aposentação ou reforma.
+
+2 - A inscrição reportar-se-á à data da inscrição do interessado na Caixa Geral de Aposentações ou na entidade pela qual deva ser aposentado, ressalvados os casos de retroacção previstos no presente Estatuto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 5.º — (Inscrição facultativa)
+
+1 - Os subscritores da Caixa Geral de Aposentações que já sejam contribuintes de outros fundos ou serviços a cargo de organismos oficiais ou de empresas públicas igualmente destinados a assegurar a atribuição de pensões de sobrevivência não serão obrigatoriamente inscritos nos termos do artigo anterior, sendo-lhes porém, reconhecido o direito de inscrição facultativa, a todo o tempo, com observância dos requisitos exigidos no n.º 1 do artigo anterior.
+
+2 - Igualmente serão inscritos, a seu pedido, os funcionários e agentes que se encontrem na situação de aposentados ou reformados, independentemente da sua idade, quer a reforma ou aposentação seja abonada pela Caixa Geral de Aposentações, quer por outra entidade, desde que não sejam subscritores de outros fundos ou serviços dos referidos no número anterior.
+
+3 - Os requerimentos deverão ser dirigidos ao Montepio e apresentados nos serviços competentes, quando se trate de inscrições previstas no n.º 1, e apresentados directamente no Montepio, quando os requerentes estejam abrangidos pelo n.º 2.
+
+4 - A inscrição reporta-se à data da apresentação no respectivo serviço ou no Montepio, conforme os casos, dos requerimentos mencionados no número anterior.
+
+> Nota: [Decreto-Lei n.º 342/75 - Diário do Governo n.º 151/1975, Série I de 1975-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1975-336737) prorroga, por tempo indeterminado, os prazos previstos nas alíneas a), b) e c) do n.º 3 e no n.º 4 do presente artigo, para o requerimento da inscrição.
+
+> Nota: [Decreto-Lei n.º 701/73 - Diário do Governo n.º 300/1973, Série I de 1973-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-1973-408086) prorroga, até 30 de Abril de 1974, os prazos previstos nas alíneas a), b) e c) do n.º 3 e no n.º 4 do presente artigo, para o requerimento da inscrição.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 6.º — (Contribuinte do regime do Decreto-Lei n.º 24046)
+
+Os contribuintes inscritos no Montepio no regime do Decreto-Lei n.º 24046, de 21 de Junho de 1934, e legislação complementar, os seus herdeiros hábeis e os actuais pensionistas abrangidos por aqueles diplomas ficam sujeitos ao regime geral do presente Estatuto, nos termos previstos no capítulo VII.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 7.º — (Forma de inscrição)
+
+1. A inscrição é feita mediante boletim de modelo aprovado oficialmente, devidamente preenchido e enviado ao Montepio pelo serviço a que o interessado pertença ou, nos casos do n.º 2 do artigo 5.º, pelo próprio interessado.
+
+2. Quando a inscrição for facultativa, o boletim será entregue conjuntamente com o requerimento referido no artigo 5.º
+
+3. A inscrição no Montepio é feita simultaneamente com a inscrição na Caixa Geral de Aposentações, sempre que a esta haja lugar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 8.º — (Retroacção)
+
+1. Os contribuintes inscritos no Montepio nos termos dos artigos 4.º e 5.º podem requerer a retroacção da sua inscrição pelo tempo já contado para efeitos de aposentação.
+
+2 - A retroacção implica a contagem obrigatória de todo o referido tempo, até ao limite de trinta e seis anos.
+
+3 - O pedido de retroacção pode ser feito a todo o tempo, salvo se a mesma for indispensável para efeitos de inscrição, caso em que deve ser solicitada no próprio requerimento a que se refere o artigo 5.º
+
+4. O pedido de inscrição formulado ao abrigo do n.º 2 do artigo 5.º implica obrigatoriamente a retroacção pelo tempo que tiver sido considerado para o cálculo da pensão de aposentação ou reforma.
+
+> Nota: [Decreto-Lei n.º 342/75 - Diário do Governo n.º 151/1975, Série I de 1975-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1975-336737) prorroga, por tempo indeterminado, o prazo previsto n.º 3 do presente artigo, para o requerimento da retroacção.
+
+> Nota: [Decreto-Lei n.º 701/73 - Diário do Governo n.º 300/1973, Série I de 1973-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-1973-408086) prorroga, até 30 de Abril de 1974, o prazo previsto n.º 3 do presente artigo, para o requerimento da retroacção.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 9.º — (Contagem de tempo)
+
+1. Será ainda contado obrigatória e oficiosamente como tempo de contribuinte:
+
+a) O tempo relativo ao período anterior à inscrição no Montepio, incluindo o resultante de percentagens de aumento de tempo de serviço, mas que só depois da mesma inscrição tenha sido contado para efeitos de aposentação ou reforma por acréscimo ou regularização do tempo de subscritor na Caixa Geral de Aposentações;
+
+b) As percentagens de aumento de tempo de serviço relativas a período posterior à inscrição no Montepio que forem consideradas para efeitos de aposentação ou reforma.
+
+2. (Revogado).
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+###### Artigo 10.º — (Casos especiais de retroacção e contagem)
+
+Os contribuintes abrangidos pelo n.º 1 do artigo 4.º que não estejam inscritos na Caixa Geral de Aposentações por força do disposto na alínea b) do n.º 2 do artigo 1.º do Estatuto da Aposentação podem requerer a retroacção mencionada no artigo 8.º e a contagem referida no artigo 9.º, em relação ao tempo que normalmente seria considerado para efeitos de aposentação ou reforma se pudessem ter sido inscritos naquela Caixa.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 11.º — (Tempo susceptível de contagem)
+
+Será apenas contado o tempo em relação ao qual tenham sido ou venham a ser pagas as quotas correspondentes.
+
+###### Artigo 12.º — (Cancelamento da inscrição)
+
+Será cancelada a inscrição do contribuinte que, tendo sido aposentado ou reformado, não haja completado o mínimo de cinco anos de inscrição estabelecido no n.º 1 do artigo 26.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 13.º — (Suspensão da inscrição)
+
+1 - Será suspensa a inscrição do contribuinte:
+
+a) Que cesse o exercício das suas funções a título definitivo em virtude de condenação em processo penal ou disciplinar;
+
+b) Que cesse o exercício das suas funções, a título definitivo, por motivos diferentes dos referidos na alínea anterior;
+
+c) Que passe à licença ilimitada, à inactividade ou situação equiparada;
+
+d) Que incorrer na pena de suspensão aplicada em processo disciplinar.
+
+2 - A suspensão prevista na alínea a) do número anterior verificar-se-á enquanto, nos termos dos n.os 2 e 3 do artigo 40.º do Estatuto da Aposentação, na redacção dada pelo Decreto-Lei n.º 191-A/79, de 25 de Junho, o contribuinte não passar à situação de aposentação.
+
+3 - A suspensão da inscrição implica a interrupção do pagamento de quotas ao Montepio, sendo a inscrição renovada e o tempo anterior contado quando o contribuinte reunir condições para nova inscrição ou cessarem os motivos determinantes da suspensão.
+
+4 - O disposto nas alíneas a) e b) do n.º 1 não é aplicável ao contribuinte que passe à situação de aposentado ou reformado, ainda que compulsivamente, nem ao que, não sendo subscritor da Caixa Geral de Aposentações, atinja o limite de idade fixado por lei para o exercício do respectivo cargo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 13.º-A — (Efeitos de amnistia, anulação ou revogação de pena expulsiva)
+
+A anulação ou revogação de pena expulsiva em consequência de recurso ou revisão implica a contagem do tempo posterior à execução da pena e em relação ao qual for reconhecido o direito à reparação de remunerações.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+### Capítulo III — Quotas
+
+###### Artigo 14.º — (Montante da quota)
+
+1. O contribuinte é obrigado a pagar ao Montepio uma quota mensal correspondente a 1% das remunerações sobre as quais incide a quota para a Caixa Geral de Aposentações.
+
+2. Não sendo o contribuinte subscritor da Caixa Geral de Aposentações, a quota referida no número precedente incidirá sobre as remunerações que seriam passíveis de desconto para a mesma Caixa se o interessado nela pudesse ter sido inscrito.
+
+3. A importância da quota será arredondada para número exacto de escudos, por defeito, se a fracção for inferior a $50, e por excesso, se igual ou superior.
+
+###### Artigo 15.º — (Exigibilidade da quota)
+
+As quotas são devidas desde a data da inscrição até ao dia em que:
+
+a) A inscrição for suspensa ou cancelada;
+
+b) O contribuinte passar à situação de aposentado ou reformado;
+
+c) O contribuinte, não sendo subscritor da Caixa Geral de Aposentações, atingir o limite de idade fixado por lei para aposentação ou reforma;
+
+d) O contribuinte falecer.
+
+###### Artigo 16.º — (Relação contributiva)
+
+1 - No dia 19 de cada mês, a Caixa disponibiliza na sua página electrónica, em área de acesso reservado, relativamente aos serviços que processem remunerações sujeitas a desconto de quota ou que contribuam para a CGA, uma relação contributiva previsional, relativa aos descontos de quotas e às contribuições desse mês e a outros valores que se mostrem em dívida.
+
+2 - Compete aos serviços, até ao dia 6 do mês seguinte àquele em que a relação contributiva previsional tenha sido disponibilizada, introduzirem-lhe as alterações necessárias e confirmarem-na, através do código de utilizador previamente fornecido pela Caixa e de uma palavra passe.
+
+3 - A relação contributiva previsional converte-se em definitiva no dia em que tenha sido confirmada pelo serviço ou, na falta de intervenção deste, no último dia de que aquele disponha para o fazer.
+
+> Alterado pelo/a Artigo 78.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 309/2007 - Diário da República n.º 173/2007, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2007-640297), produz efeitos a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2003-176338), em vigor a partir de 2003-01-23, produz efeitos a partir de 2003-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 17.º — (Entrega de valores)
+
+1 - Após validar as relações contributivas definitivas, a Caixa, até ao dia 7 de cada mês, disponibiliza na sua página eletrónica, em área de acesso reservado, as seguintes informações:
+
+a) Valor global a entregar, discriminando a parte relativa a quotas, contribuição e importâncias de outra natureza;
+
+b) Modalidades de pagamento, a definir pelo conselho directivo da Caixa.
+
+2 - Em função do canal de pagamento escolhido por cada entidade, é disponibilizada a referência identificativa da entrega a efectuar.
+
+3 - Com base nos elementos referidos nos números anteriores, os serviços e entidades entregam à Caixa, directamente ou através da Direcção-Geral do Tesouro e Finanças, o valor correspondente à relação contributiva definitiva até ao dia 15 do mês em que aquela seja emitida.
+
+> Alterado pelo/a Artigo 78.º do/a [Decreto-Lei n.º 32/2012 - Diário da República n.º 31/2012, Série I de 2012-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), em vigor a partir de 2012-02-14, produz efeitos a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 309/2007 - Diário da República n.º 173/2007, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2007-640297), produz efeitos a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2003-176338), em vigor a partir de 2003-01-23, produz efeitos a partir de 2003-04-01
+
+###### Artigo 18.º — (Funcionamento)
+
+1 - A CGA disponibiliza a todos os serviços e entidades o apoio adequado e necessário ao funcionamento do sistema de relação contributiva desmaterializada e põe em prática as medidas técnicas e organizativas adequadas para proteger os respectivos dados contra a destruição, a perda acidental, a alteração, a difusão ou o acesso não autorizados e contra qualquer outra forma de tratamento ilícito.
+
+2 - A relação contributiva electrónica definitiva é equiparada, para todos os efeitos legais, à relação de descontos em suporte de papel apresentada pelo serviço ou entidade a que diga respeito.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 309/2007 - Diário da República n.º 173/2007, Série I de 2007-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2007-640297), produz efeitos a partir de 2008-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2003 - Diário da República n.º 15/2003, Série I-A de 2003-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2003-176338), em vigor a partir de 2003-01-23, produz efeitos a partir de 2003-04-01
+
+###### Artigo 19.º — (Pagamento directo de quota)
+
+1. Os contribuintes legalmente destacados para o exercício de funções a que não corresponda remuneração ou em que o desconto não possa fazer-se pela forma indicada nos artigos 16.º e 17.º pagarão directamente as suas quotas ao Montepio.
+
+2. O pagamento deverá efectuar-se até ao último dia do mês a que a quota disser respeito em qualquer cofre da Caixa e mediante guia de modelo aprovado oficialmente.
+
+3. A falta de cumprimento do disposto no número anterior sujeitará o contribuinte, precedendo deliberação do conselho de administração da Caixa:
+
+a) À dedução no tempo de inscrição do período por que durar a mora;
+
+b) Ao pagamento das quotas em atraso com juros compostos à taxa de 4% ao ano.
+
+b) Ao pagamento das quotas em atraso, com acréscimo de juros à taxa de 4% ao ano.
+
+4. A sanção prevista na alínea a) do número precedente só se aplicará se o contribuinte, notificado, para o efeito, por carta registada com aviso de recepção, ou, se a sua morada for desconhecida, por aviso no Diário do Governo, não proceder, no prazo de trinta dias, ao pagamento integral da importância em dívida acrescida dos juros estabelecidos na alínea b).
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 20.º — (Custas e outros encargos a liquidar com a quota)
+
+1. Ao desconto de quotas ou ao seu pagamento directo acrescerá, quando for caso disso, e nos termos fixados pelo Montepio, o das importâncias em dívida por custas, despesas e outros encargos imputáveis ao contribuinte.
+
+2. Quando o contribuinte se encontrar na situação de aposentado ou reformado, as importâncias referidas no número anterior serão descontadas pela Caixa Geral de Aposentações nos abonos da respectiva pensão.
+
+###### Artigo 21.º — (Pagamento em tempo)
+
+Consideram-se como pagas pontualmente as quotas descontadas pelos serviços nos termos dos artigos 16.º e 17.º, independentemente da data do seu efectivo recebimento pelo Montepio.
+
+###### Artigo 22.º — (Restituição de quotas)
+
+1. O Montepio restituirá:
+
+a) As quotas que tiverem sido indevidamente recebidas;
+
+b) Todas as quotas pagas pelo contribuinte, com dedução de 10% para cobertura de encargos de administração, quando o mesmo faleça antes de perfazer o prazo de garantia estabelecido no n.º 1 do artigo 26.º
+
+2 - A restituição, quando deva ter lugar após a morte do contribuinte, será feita mediante o processo de habilitação previsto para os créditos sobre a Caixa:
+
+a) Aos seus herdeiros, nos casos da alínea a) do n.º 1;
+
+b) Às pessoas que seriam herdeiros hábeis se houvesse lugar à pensão, nos casos da alínea b) do mesmo número.
+
+3 - As quantias inferiores a 25$00 não serão restituíveis ao contribuinte nem exigíveis deste quando a sua falta venha a verificar-se no processo de concessão de pensão.
+
+4 - O direito à restituição prescreve no prazo de três anos a contar da data em que o interessado teve conhecimento dele.
+
+5 - O direito ao recebimento das importâncias cuja restituição foi autorizada prescreve no prazo de um ano a contar da comunicação do despacho respectivo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 23.º — (Transferência de quotas)
+
+1 - Serão transferidas para os fundos ou serviços a cargo de organismos oficiais ou de empresas públicas igualmente destinados a assegurar a atribuição de pensões de sobrevivência as quotas pagas pelos contribuintes cuja pensão deva ser concedida pelos mesmos fundos ou serviços.
+
+2 - Serão transferidas para o Montepio as quotas recebidas pelos fundos ou serviços mencionados no número anterior, desde que os contribuintes hajam sido nele inscritos e tenham requerido a retroacção prevista no artigo 8.º, mesmo quando os respectivos estatutos não prevejam ou não permitam essa transferência.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 24.º — (Dívida resultante da retroacção e contagem de tempo)
+
+1. As quotas relativas aos períodos de contagem mencionados no artigo 9.º serão liquidadas, sem acréscimo de juros, com base na percentagem estabelecida no n.º 1 do artigo 14.º e na remuneração considerada, para efeitos de pagamento de quota, na contagem desse tempo pela Caixa Geral de Aposentações.
+
+2. Serão também liquidadas nos termos do número anterior as quotas relativas ao período de retroacção previsto no artigo 8.º, mas com base na remuneração definida no artigo 48.º do Estatuto da Aposentação, correspondente ao cargo por que à data do pedido de retroacção o interessado for subscritor da Caixa Geral de Aposentações.
+
+3. Nos casos do n.º 4 do artigo 8.º, a remuneração a considerar será a correspondente ao montante da pensão ilíquida que estiver a ser abonada ao interessado na data do pedido de inscrição.
+
+4. Se o contribuinte não for subscritor da Caixa Geral de Aposentações, consideram-se como remunerações, para os efeitos dos n.os 1 e 2, as que seriam passíveis de quota, se o contribuinte nela estivesse inscrito.
+
+5. No caso previsto no n.º 2 do artigo 23.º, haverá lugar à dedução na dívida apurada do montante das quotas efectivamente transferidas para o Montepio.
+
+6 - A dívida do contribuinte, fixada nos termos dos números anteriores, poderá ser paga de uma só vez ou em prestações mensais, por meio de desconto em folha, até ao máximo de 60 prestações, sendo de 250$00 o mínimo de cada prestação.
+
+Nos casos do n.º 3 não poderá, todavia, o número de prestações ser superior a noventa e seis.
+
+7. Na falta de declaração em contrário, formulada no prazo de trinta dias, a contar da expedição pelo Montepio do aviso de liquidação, entende-se que o interessado optou pelo número máximo de prestações admissível no seu caso.
+
+8. O pagamento da dívida a que se refere o presente artigo efectuar-se-á pela mesma forma por que estiver a ser feito o da quota normal para o Montepio, sem prejuízo do disposto no n.º 2 do artigo 20.º
+
+9. O contribuinte que pague directamente a quota ao Montepio e se atrase na liquidação da dívida a que se refere o presente artigo ficará sujeito ao que se dispõe nos n.os 3 e 4 do artigo 19.º
+
+10. Se a dívida não for integralmente paga em vida do contribuinte, o saldo devedor será satisfeito pelos seus herdeiros hábeis na devida proporção, mediante desconto na respectiva pensão de sobrevivência em tantas prestações mensais quantas as que faltarem para preencher as resultantes da aplicação do disposto no n.º 6.
+
+11 - O montante da prestação mínima referida no número anterior poderá ser alterado por despacho do Ministro das Finanças e do Plano.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/85 - Diário da República n.º 143/1985, Série I de 1985-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1985-182243), em vigor a partir de 1985-06-30
+
+###### Artigo 25.º — (inscrição, retroacção e contagem requeridas pelos herdeiros hábeis)
+
+1 - Os herdeiros hábeis dos interessados poderão, nos termos estabelecidos no n.º 1 do artigo 30.º, pedir ao Montepio:
+
+a) A inscrição facultativa prevista no artigo 5.º, se o servidor tiver falecido no decurso do prazo em que a podia requerer;
+
+b) A retroacção da inscrição referida nos artigos 8.º e 10.º, se o contribuinte tiver falecido no decurso do prazo em que a poderia requerer;
+
+c) A contagem de tempo a que alude o artigo 9.º, se à data da morte do contribuinte estivesse em condições de ser efectuada;
+
+d) A regularização de quotas em dívida.
+
+2. A dívida resultante da aplicação do número anterior será liquidada pela forma estabelecida no artigo 24.º e paga proporcionalmente pelos herdeiros hábeis, mediante desconto na respectiva pensão de sobrevivência.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+### Capítulo IV — Pensão de sobrevivência
+
+###### Artigo 26.º — (Período de garantia)
+
+1. O Montepio obriga-se a pagar uma pensão de sobrevivência aos herdeiros hábeis do contribuinte quando este à data da sua morte tiver o mínimo de cinco anos completos de inscrição, sem prejuízo do disposto no n.º 1 do artigo 25.º e no n.º 3 do artigo 28.º
+
+2 - Nos casos em que, à data da morte do contribuinte, a sua inscrição se encontre suspensa, haverá direito à pensão se, na mesma data, o falecido mantivesse o direito à pensão de aposentação nos termos estabelecidos no respectivo Estatuto.
+
+3 - Para o cômputo do prazo de garantia mencionado no n.º 1 considerar-se-á o tempo de inscrição obrigatória nas instituições de previdência social que atribuam pensões de sobrevivência.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 502/74 - Diário do Governo n.º 229/1974, Série I de 1974-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/502-1974-473546), em vigor a partir de 1974-10-06
+
+###### Artigo 27.º — (Direito à pensão)
+
+1. A pensão de sobrevivência consiste numa prestação pecuniária mensal, cujo montante, salvo nos casos do n.º 3 do artigo 28.º, é função da pensão de aposentação ou de reforma que corresponderia ao tempo de inscrição no Montepio sujeito ao pagamento de quota.
+
+2. O disposto no número anterior é aplicável ainda que, por insuficiência de tempo de serviço ou por qualquer outro motivo, não haja direito a pensão de aposentação ou reforma.
+
+###### Artigo 28.º — (Cálculo da pensão)
+
+1. Quando forem coincidentes os tempos a considerar para ambos os efeitos, a pensão de sobrevivência será igual a metade da pensão de aposentação ou de reforma que o contribuinte se encontre a perceber na data da sua morte ou a que teria direito se na mesma data fosse aposentado ou reformado.
+
+2. Se os tempos referidos no número anterior não forem coincidentes ou se o contribuinte não for subscritor da Caixa Geral de Aposentações, a pensão de sobrevivência será igual a metade da pensão de aposentação ou de reforma que corresponderia ao tempo de inscrição no Montepio.
+
+3. No caso de pensão extraordinária de aposentação ou de reforma, a pensão de sobrevivência será igual a metade daquela, independentemente do tempo de inscrição no Montepio.
+
+4. O tempo de inscrição nas instituições de previdência, considerado para efeitos do disposto no n.º 3 do artigo 26.º, não influi no cálculo da pensão de sobrevivência.
+
+###### Artigo 29.º — (Habilitação)
+
+1. A pensão de sobrevivência deve ser requerida ao Montepio, em impresso de modelo aprovado oficialmente, por quem se julgue com direito a ela, nos prazos indicados no n.º 1 do artigo 30.º, instruindo-se o pedido com os documentos necessários à prova do mesmo.
+
+2. Quando o requerimento estiver deficientemente instruído, o interessado deverá completá-lo, no prazo, não inferior a quinze dias, que para tal fim se lhe fixar, com os elementos que lhe forem solicitados, sob pena de o pedido ficar sem efeito.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 30.º — (Pagamento da pensão)
+
+1 - A pensão de sobrevivência, calculada nos termos do artigo 28.º, é devida desde o dia 1 do mês seguinte àquele em que se verificar o óbito do contribuinte, quando pedida no prazo de 12 meses contados a partir da mesma data, ou desde o dia 1 do mês seguinte ao da apresentação do requerimento, quando solicitada depois de terminado aquele prazo de 12 meses.
+
+2 - A pensão de sobrevivência é sempre devida até ao último dia do mês em que se extinguir a qualidade de pensionista.
+
+3 - A pensão é paga mensalmente e vence-se, por inteiro, no dia 1 do mês a que respeita, sem prejuízo do disposto no número seguinte.
+
+4 - A pensão, na parte que for devida relativamente aos dias decorridos desde a data do óbito até ao fim do mês em que este tiver ocorrido, vence-se no dia 1 do mês imediato, juntamente com a pensão por inteiro referente a este mês.
+
+5 - Se o pensionista se encontrar impossibilitado, de modo permanente ou duradouro, de receber a pensão, ou estiver internado em estabelecimento de assistência ou equiparado, poderá o conselho de administração da Caixa, não havendo interdição ou inabilitação judicial, autorizar que as pensões sejam pagas, desde que a respectiva idoneidade seja atestada pela autoridade administrativa com competência para tal, à pessoa que superintenda na assistência ao respectivo pensionista, ou directamente ao referido estabelecimento.
+
+6. Quando o pensionista for menor e não houver conhecimento da pessoa que legalmente o represente, oficiar-se-á ao tribunal de menores competente, sendo a pensão colocada à sua disposição ou paga à pessoa que o mesmo indicar.
+
+7 - A Caixa poderá tornar obrigatório o pagamento da pensão mediante crédito em conta de depósito à ordem do beneficiário sempre que o justifiquem as necessidades de simplificação ou mecanização dos serviços, em condições a estabelecer por despacho do conselho de administração.
+
+8 - Quando o pagamento da pensão for devido por óbito de um aposentado ou reformado, o Montepio, dentro dos 60 dias posteriores à data da morte, liquidará e pagará ao signatário do requerimento referido no n.º 1 deste artigo cuja petição será acompanhada de certidão probatória de que é herdeiro hábil, uma pensão de sobrevivência de montante provisório igual a metade da pensão de aposentação que o falecido recebia.
+
+9 - Quando o pagamento da pensão for devido por óbito de um subscritor da Caixa Geral de Aposentações no activo, o Montepio liquidará e pagará ao signatário do requerimento referido no n.º 1 deste artigo, cuja petição será acompanhada de certidão probatória de que é herdeiro hábil, uma pensão de montante provisório que será calculada com base nos elementos biográficos, cujo modelo vai anexo a este diploma, e que os serviços onde o falecido exercia o seu cargo terão de enviar ao Montepio no prazo de 15 dias a partir do falecimento do funcionário, devendo o aludido pagamento ser efectuado no prazo de 60 dias a partir da data da coexistência no Montepio do referido requerimento e nota biográfica.
+
+10 - A concessão das pensões fixadas em montante provisório não prejudica a sua rectificação, em resolução final, uma vez completada a instrução do processo, quanto ao montante encontrado e quanto ao fraccionamento, da pensão, quando for caso de ser dividida por herdeiro hábil que tenha sido preterido, nos termos do artigo 34.º
+
+11 - O pensionista que tenha recebido importância a mais, por efeitos dos números anteriores, fica sujeito ao correspondente desconto a fazer nas mensalidades das pensões seguintes, até perfazer o total em dívida, não podendo o desconto mensal ser superior a 10% da importância de cada pensão.
+
+12 - O pagamento da pensão depende de prova periódica de vida, que tem lugar:
+
+a) Para os residentes em território nacional, por interconexão de dados com o Instituto dos Registos e do Notariado, I. P. (IRN, I. P.);
+
+b) Para os residentes no estrangeiro, nos termos a definir em portaria dos membros do Governo responsáveis pela tutela da CGA, I. P.
+
+13 - O processo de interconexão de dados previsto na alínea a) do número anterior é efetuado mediante protocolo estabelecido entre a CGA, I. P., e o IRN, I. P., nos termos e com os limites previstos na legislação aplicável à proteção de dados, nomeadamente no Regulamento Geral de Proteção de Dados e demais legislação complementar.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 283/84 - Diário da República n.º 194/1984, Série I de 1984-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1984-381085), em vigor a partir de 1984-08-27
+
+> Retificado pelo/a [Declaração - Diário da República n.º 125/1983, 1º Suplemento, Série I de 1983-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-423437), produz efeitos a partir de 1983-05-22
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 192/83 - Diário da República n.º 113/1983, Série I de 1983-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-1983-451220), em vigor a partir de 1983-05-22
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 31.º — (Deduções na pensão)
+
+1 - O quantitativo da pensão e os descontos de qualquer natureza que nela hajam de fazer-se serão arredondados para número exacto de escudos, por defeito se a fracção for inferior a $50 e por excesso se igual ou superior.
+
+2 - As pensões atribuídas pelo Montepio dos Servidores do Estado estão isentas do imposto do selo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 32.º — (Suplemento à pensão)
+
+Integram-se na pensão, salvo preceito especial em contrário, os suplementos legais que a ela acresçam.
+
+###### Artigo 33.º — (Actualização de pensões)
+
+Sempre que as pensões de aposentação ou de reforma forem objecto de actualização, deverá esta tornar-se extensiva às pensões de sobrevivência, nos termos que forem fixados por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças.
+
+###### Artigo 34.º — (Herdeiros preteridos)
+
+Os direitos dos herdeiros preteridos pela habilitação de outros herdeiros, quando reconhecidos, só serão considerados a partir do dia 1 do mês seguinte àquele em que requeiram a sua própria habilitação, podendo fazê-lo a todo o tempo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 283/84 - Diário da República n.º 194/1984, Série I de 1984-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-1984-381085), em vigor a partir de 1984-08-27
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 35.º — (Prescrição de pensões)
+
+1. As pensões de sobrevivência prescrevem no prazo de um ano, a contar da data do vencimento de cada uma.
+
+2. O não recebimento de pensões durante o prazo de três anos consecutivos, a contar do vencimento da primeira, implica a prescrição do direito unitário à pensão.
+
+3. O processamento mensal dos abonos não interrompe a prescrição.
+
+###### Artigo 36.º — (Arquivo de documentos)
+
+1 - A Caixa deve conservar em arquivo todos os documentos que compõem o processo individual do subscritor, incluindo o registo de comunicações, enquanto forem os mesmos necessários para a constituição de direitos do próprio ou dos seus herdeiros.
+
+2 - Os processos em formato digital têm valor probatório idêntico e substituem para todos os efeitos os correspondentes em papel, que a Caixa está dispensada de conservar.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 37.º — (Penhora de pensões)
+
+1. As pensões só podem ser penhoradas nos termos e dentro dos limites fixados pelo Código de Processo Civil.
+
+2. O Montepio fará trimestralmente o depósito das importâncias descontadas em cumprimento da penhora.
+
+###### Artigo 38.º — (Desconto de quotas e outros encargos na pensão)
+
+1. Serão descontadas na pensão de sobrevivência, além das dívidas a que se referem os artigos 24.º e 25.º, as quantias relativas a quotas, custas ou outras importâncias que, nos termos do presente Estatuto, sejam devidas ao Montepio.
+
+2. O desconto das quantias referidas na última parte do número anterior será efectuado em prestações mensais, até ao máximo de doze, salvo casos especiais devidamente justificados.
+
+3. Havendo mais de um herdeiro hábil, o desconto será distribuído entre todos na devida proporção.
+
+###### Artigo 39.º — (Habilitação dos herdeiros do pensionista)
+
+Os herdeiros do pensionista, no caso de falecimento deste, poderão obter a entrega das pensões em dívida, mediante o processo de habilitação previsto para os créditos sobre a Caixa.
+
+### Capítulo V — Herdeiros hábeis
+
+###### Artigo 40.º — (Herdeiros hábeis)
+
+1 - Têm direito à pensão de sobrevivência como herdeiros hábeis dos contribuintes, verificados os requisitos que se estabelecem nos artigos seguintes:
+
+a) Os cônjuges sobrevivos, os divorciados ou separados de pessoas e bens e as pessoas que vivam em união de facto;
+
+b) Os filhos, incluindo os nascituros e os adoptados plenamente;
+
+c) Os netos;
+
+d) Os pais e os avós.
+
+2. Os herdeiros referidos nas alíneas a), b) e c) do número anterior preferem aos designados na alínea d).
+
+3. Os filhos que forem herdeiros hábeis preferem aos netos de que sejam progenitores.
+
+4. A qualidade de herdeiro hábil define-se em relação à data da morte do contribuinte.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 23/2010 - Diário da República n.º 168/2010, Série I de 2010-08-30](https://diariodarepublica.pt/dr/detalhe/lei/23-2010-343919), em vigor a partir de 2010-09-04
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 41.º — (Ex-cônjuge e pessoa em união de facto)
+
+1 - Os divorciados ou separados judicialmente de pessoas e bens só se considerarão herdeiros hábeis para efeitos de pensão de sobrevivência se tiverem direito a receber do contribuinte à data da sua morte pensão de alimentos fixada ou homologada judicialmente.
+
+2 - O direito à pensão de sobrevivência por parte das pessoas que vivam em união de facto está dependente da prova da existência dessa união que deverá ser efectuada nos termos definidos na Lei n.º 7/2001, de 11 de Maio, que adopta medidas de protecção das uniões de facto.
+
+3 - A pensão será devida a partir do início do mês seguinte ao do falecimento do beneficiário, quando requerida pelo membro sobrevivo nos seis meses posteriores.
+
+> Nota: [Acórdão do Tribunal Constitucional n.º 313/2008 - Diário da República n.º 126/2008, Série I de 2008-07-02](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/313-2008-456481) declara, com força obrigatória geral, a inconstitucionalidade, por violação do princípio da igualdade, da norma constante do trecho final do n.º 2 do presente artigo, na redacção introduzida pelo Decreto-Lei n.º 191-B/79, de 25 de Junho.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 23/2010 - Diário da República n.º 168/2010, Série I de 2010-08-30](https://diariodarepublica.pt/dr/detalhe/lei/23-2010-343919), em vigor a partir de 2010-09-04
+
+> Declarada Inconstitucionalidade pelo/a [Acórdão do Tribunal Constitucional n.º 313/2008 - Diário da República n.º 126/2008, Série I de 2008-07-02](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/313-2008-456481), produz efeitos a partir de 1979-07-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 193/1979, Série I de 1979-08-22](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-378761), produz efeitos a partir de 1979-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 42.º — (Descendentes de 1.º grau)
+
+1 - Têm direito à pensão os descendentes de 1.º grau menores de 18 anos ou que, tendo completado 18 anos, reúnam as seguintes condições:
+
+a) Dos 18 aos 25 anos, se estiverem matriculados em qualquer curso de nível secundário, pós-secundário não superior, ou superior;
+
+b) Até aos 27 anos, se estiverem matriculados em pós-graduações, ciclos de estudos de mestrado ou doutoramento ou a realizar estágio indispensável à obtenção do respetivo grau;
+
+c) Sem limite de idade, tratando-se de pessoas com deficiência que nessa qualidade sejam destinatários de prestações familiares ou da prestação social para a inclusão.
+
+2 - A prova da situação escolar, nas situações referidas nas alíneas a) e b) do número anterior, e a das prestações familiares ou da prestação social para a inclusão, nas situações da alínea c) do mesmo número, é efetuada preferencialmente por interconexão de dados entre a CGA e os ministérios competentes em razão da matéria.
+
+3 - O processo de interconexão de dados previsto no número anterior é efetuado mediante protocolo estabelecido entre a CGA, I. P., e a Direção-Geral de Estatísticas da Educação e Ciência e a Direção-Geral do Ensino Superior, nos termos e com os limites previstos na legislação aplicável à proteção de dados, nomeadamente no Regulamento Geral de Proteção de Dados e demais legislação complementar.
+
+> Nota: [Artigo 9.º, Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786) determina que as alterações ao presente artigo, introduzidas pelo Decreto-Lei n.º 108/2019, de 13 de agosto, não se aplicam aos descendentes cujo direito à pensão se tenha extinguido anteriormente a 01.10.2019 (data da produção de efeitos do referido diploma).
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 193/1979, Série I de 1979-08-22](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-378761), produz efeitos a partir de 1979-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 43.º — (Netos)
+
+1 - Os netos de qualquer dos sexos têm direito à pensão desde que, além de se verificarem as condições que no artigo anterior se estabelecem em relação aos filhos:
+
+a) Sejam órfãos de pai e mãe;
+
+b) Sejam órfãos de pai ou, havendo impossibilidade de exigir deste pensão de alimentos, a mãe não tenha meios para prover à sua sustentação;
+
+c) Sejam órfãos de mãe ou, havendo impossibilidade de exigir desta pensão de alimentos, o pai não tenha meios para prover à sua sustentação;
+
+d) Os pais se encontrem ausentes em parte incerta e não provejam ao seu sustento.
+
+2 - Nos casos das alíneas b) e c) do número anterior, quando o órfão não viva na economia e a cargo do progenitor, proceder-se-á nos termos do n.º 6 do artigo 30.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 44.º — (Pais e avós)
+
+1 - Os pais e os avós de qualquer dos sexos têm direito à pensão de sobrevivência desde que à data da morte do contribuinte vivam a seu cargo.
+
+2 - Os ascendentes referidos no número anterior consideram-se a cargo do contribuinte quando os seus rendimentos individuais, ou, se forem casados, metade dos rendimentos do casal, incluindo retribuições, rendas,
+
+pensões e equivalentes, mas excluindo a pensão a que se habilitam nos termos do presente diploma, não ultrapassem metade da remuneração correspondente ao índice 100 da escala salarial do regime geral de remunerações da função pública ou da remuneração mínima do mesmo regime, se for superior.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 71/97 - Diário da República n.º 78/1997, Série I-A de 1997-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-1997-526776), em vigor a partir de 1997-04-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 45.º — (Concorrência de herdeiros hábeis)
+
+1 - A pensão, havendo mais do que um herdeiro hábil, distribuir-se-á entre eles nos termos seguintes:
+
+a) Se concorrerem apenas herdeiros incluídos na alínea a) do n.º 1 do artigo 40.º, a pensão será dividida por todos, cabendo à pessoa divorciada do contribuinte falecido ou deste separada judicialmente de pessoas e bens apenas o equivalente ao montante da pensão de alimentos que recebia à data da morte do contribuinte, não podendo ultrapassar o montante da pensão atribuído ao cônjuge sobrevivo ou ao membro sobrevivo da união de facto;
+
+b) Se concorrerem apenas herdeiros mencionados na alínea b) do n.º 1 do mesmo artigo, ou somente herdeiros abrangidos na alínea d) do mesmo número, será dividida por todos em partes iguais;
+
+c) Se concorrerem apenas os herdeiros referidos na alínea c) do n.º 1 do mesmo artigo, a pensão será dividida em tantas partes iguais quantos os filhos representados por netos, subdividindo-se por estes a parte que corresponda a cada estirpe;
+
+d) Se concorrerem entre si herdeiros mencionados nas alíneas b) e c), a pensão será dividida em tantas partes iguais quantos os filhos com direito a ela e os filhos representados por netos, subdividindo-se por estes últimos a parte correspondente a cada estirpe;
+
+e) Se concorrerem herdeiros incluídos na alínea a) com herdeiros abrangidos na alínea b), na alínea c) ou em ambas, a pensão dividir-se-á em duas partes iguais, cabendo uma aos da alínea a) e a outra aos restantes.
+
+2 - As duas metades da pensão a que se refere a alínea e) do número anterior serão subdivididas nos termos das alíneas a), b), c) e d) do mesmo número entre os herdeiros que concorram a cada uma delas.
+
+3 - Quando com o divorciado ou separado judicialmente de pessoas e bens não concorram cônjuge sobrevivo ou membro sobrevivo da união de facto, atender-se-á, para os efeitos da alínea a) do n.º 1, ao valor da pensão que couber a cada um dos filhos, ainda que representados por netos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01
+
+###### Artigo 46.º — (Reversão)
+
+Quando a pensão for atribuída a mais de um interessado, a extinção da qualidade de pensionista em relação a um deles determinará nova distribuição da totalidade da pensão pelos restantes, de acordo com o disposto no artigo 45.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 47.º — (Extinção da qualidade de pensionista)
+
+1. A qualidade de pensionista; sem prejuízo do disposto no n.º 1 do artigo 30.º, extingue-se:
+
+a) Pelo casamento ou união de facto, salvo quanto aos pensionistas abrangidos pelo n.º 2 do artigo 42.º e pelo artigo 44.º;
+
+b) Pelo facto de os pensionistas perfazerem as idades previstas no n.º 1 do artigo 42.º;
+
+c) Pelo facto de os pensionistas deixarem de ter o aproveitamento escolar a que se refere o mesmo preceito;
+
+d) Pela cessação do estado de incapacidade a que alude o n.º 2 do artigo 42.º, bem como da situação exigida para aplicação do n.º 2 do artigo 41.º, do referido n.º 2 do artigo 42.º e dos artigos 43.º e 44.º;
+
+e) Pela indignidade do pensionista, resultante do seu comportamento moral, declarada por sentença judicial em acção intentada por qualquer dos herdeiros hábeis;
+
+f) Pela renúncia do direito à pensão;
+
+g) Pela prescrição do direito unitário à pensão;
+
+h) Pela condenação do pensionista como autor, cúmplice ou encobridor do crime de homicídio voluntário praticado na pessoa do contribuinte ou de outra pessoa que concorra à pensão;
+
+i) Pela morte do pensionista.
+
+2. A pronúncia pelo crime previsto na alínea h) do número anterior implica a suspensão do pagamento da pensão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 193/1979, Série I de 1979-08-22](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-378761), produz efeitos a partir de 1979-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 48.º — (Subsídio de casamento)
+
+1 - Têm direito à concessão de um subsídio, quando pelo casamento perderem o direito à pensão, os descendentes de ambos os sexos, incluindo os filhos adoptados plenamente e ainda os viúvos e os divorciados, desde que uns e outros não estejam abrangidos pelas disposições legais sobre prestações complementares criadas pelo Decreto-Lei n.º 197/77, de 17 de Maio.
+
+2 - O subsídio será pago de uma só vez e é igual à prestação complementar da mesma natureza prevista no referido decreto-lei.
+
+3 - O subsídio deve ser requerido no prazo de seis meses a contar da data do casamento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+### Capítulo VI — Processo
+
+###### Artigo 49.º — (Meios da prova)
+
+1. Os elementos que os interessados devam apresentar ao Montepio para prova do estado civil, parentesco, situação económica e demais factos relevantes, constarão de certidões, atestados ou declarações dos serviços administrativos e outras entidades competentes.
+
+2. Em casos excepcionais e devidamente justificados, pode a administração da Caixa autorizar a substituição dos referidos documentos por outros meios de prova que repute idóneos.
+
+###### Artigo 50.º — (Junta médica)
+
+1. Sempre que, para efeitos do presente Estatuto, seja necessário proceder a exame médico, deverá este ser realizado por junta médica da Caixa Nacional de Previdência.
+
+2. Em casos devidamente justificados pode a administração da Caixa aceitar atestados médicos passados ou confirmados pela competente autoridade sanitária, sem prejuízo de promover, quando o julgue necessário, que o interessado seja submetido à junta médica referida no número anterior.
+
+3. Pela realização da junta médica em consequência de pedido do interessado é devida a taxa de 50$00, a pagar previamente por aquele.
+
+> Retificado pelo/a [Rectificação - Diário do Governo n.º 122/1973, Série I de 1973-05-24](https://diariodarepublica.pt/dr/detalhe/rectificacao/1973-422466), produz efeitos a partir de 1973-03-01
+
+###### Artigo 51.º — (Competência para resoluções)
+
+1 - Salvo o disposto nos números seguintes, as resoluções da Caixa serão tomadas por 2 administradores.
+
+2 - A intervenção do conselho de administração será, todavia, obrigatória nos casos seguintes:
+
+a) Se disposição especial o exigir;
+
+b) Se o próprio conselho o determinar;
+
+c) Se os 2 administradores não chegarem a acordo ou qualquer deles entender que o caso merece ser submetido ao conselho.
+
+3 - Podem, porém, os 2 administradores designados para efeitos do n.º 1 delegar os respectivos poderes nos directores, directores-adjuntos e subdirectores.
+
+4 - Os actos que estabeleçam as delegações deverão especificar as matérias ou poderes neles abrangidos e serão publicados no Diário da República.
+
+5 - A entidade delegada deverá mencionar essa qualidade nos actos que pratique no uso da delegação.
+
+6 - As delegações de competência são revogáveis a todo o tempo, caducam com a substituição do delegante, salvo no caso de impedimento temporário, e não prejudicam o direito de avocação.
+
+7 - Os despachos de carácter preparatório podem ser proferidos pelos chefes de serviço, sem prejuízo do direito de avocação pelos directores e subdirectores.
+
+8 - Os despachos de mero expediente podem ser proferidos pelos chefes de secção.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 52.º — (Revisão das resoluções)
+
+1. As resoluções finais podem, oficiosamente ou mediante requerimento, ser objecto de revisão quando, por facto não imputável aos interessados, tenha havido falta de apresentação, em devido tempo, de elementos de prova relevantes.
+
+2. Os prazos para requerer a revisão a que alude o número anterior são os referidos no n.º 1 do artigo 55.º
+
+###### Artigo 53.º — (Revogação e rectificação das resoluções)
+
+Sem prejuízo do disposto nos artigos 52.º e 54.º, as resoluções finais só podem ser revogadas ou reformadas por ilegalidade, ou rectificadas por erro de escrita ou de cálculo, nos termos gerais de direito.
+
+###### Artigo 54.º — (Recursos)
+
+De quaisquer resoluções definitivas e executórias da administração da Caixa, ou tomadas por delegação sua, haverá recurso contencioso, nos termos gerais.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 54.º-A — Recurso hierárquico necessário
+
+Haverá recurso hierárquico necessário para o conselho de administração das resoluções que:
+
+a) Resolvam sobre a diminuição ou perda de pensão;
+
+b) Resolvam sobre a negação ou extinção da qualidade de contribuinte ou pensionista.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 55.º — (Interposição do recurso gracioso)
+
+1. Os recursos para o Ministro das Finanças serão interpostos nos prazos fixados para os recursos contenciosos perante o Supremo Tribunal Administrativo.
+
+2. O recurso considera-se interposto com a entrada no Montepio de petição dirigida ao Ministro das Finanças, em que o recorrente exponha os respectivos fundamentos, juntando os documentos necessários.
+
+3. O recorrente depositará como preparo a quantia de 200$00, dentro de cinco dias, a partir da entrada da petição; caso o não faça será avisado de que poderá efectuar o preparo em novo prazo de cinco dias, acrescido do pagamento de taxa de igual montante a favor do Montepio.
+
+4. O recurso não tem efeito suspensivo.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 56.º — (Não seguimento do recurso)
+
+1. O conselho de administração da Caixa negará seguimento ao recurso se o preparo não for depositado no prazo legal ou se ocorrer outra causa que obste ao conhecimento do seu objecto.
+
+2. Da resolução proferida ao abrigo do número anterior pode o interessado recorrer, nos termos dos artigos precedentes.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 57.º — (Reparação, modificação ou sustentação da resolução)
+
+1. O conselho de administração da Caixa, perante os fundamentos do recurso e a informação dos serviços competentes, deverá reparar, modificar ou sustentar a resolução recorrida.
+
+2. Se a resolução for sustentada, no todo ou em parte, será o processo remetido à Procuradoria-Geral da República para esta emitir parecer.
+
+3. Quando o parecer for favorável ao provimento total ou parcial do recurso, o conselho de administração poderá ainda alterar a resolução recorrida.
+
+4. Mantendo-se, no todo ou em parte, a resolução impugnada, subirá o processo, com o parecer da Procuradoria-Geral, ao Ministro das Finanças para decisão final.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 58.º — (Custas do recurso)
+
+1. O recorrente, no caso de não obter provimento total do recurso, pagará custas a favor do Montepio.
+
+2. As custas serão fixadas entre 200$00 e 2000$00 e nelas será levada em conta a importância do preparo.
+
+3. Se o Ministro não fixar o montante das custas ou se, por resolução sua ou da administração da Caixa, não se conhecer do objecto do recurso, serão as custas contadas pelo mínimo legal.
+
+4. Se as custas em dívida não puderem ser cobradas através do desconto na remuneração ou na pensão, será o responsável avisado para, no prazo de trinta dias, efectuar o pagamento, instaurando-se, na falta deste, a respectiva execução.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 59.º — (Notificações)
+
+1 - O interessado será notificado das resoluções preparatórias ou definitivas da Caixa.
+
+2 - As notificações previstas no número anterior e quaisquer comunicações são efetuadas, preferencialmente, através da publicação dos atos a notificar na área reservada da página eletrónica da Caixa, denominada CGA Direta, acessível através de autenticação pelos meios disponíveis.
+
+3 - A publicação referida no número anterior é anunciada ao subscritor e ao respetivo serviço, se estiver na efetividade, por correio eletrónico e através do serviço de mensagens curtas.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 108/2019 - Diário da República n.º 154/2019, Série I de 2019-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2019-123930786), em vigor a partir de 2019-08-18, produz efeitos a partir de 2019-10-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+###### Artigo 60.º — (Consulta do processo)
+
+Os processos podem ser consultados por advogado com procuração do interessado, durante o prazo para o recurso hierárquico necessário ou para o recurso contencioso.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 214/83 - Diário da República n.º 120/1983, Série I de 1983-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1983-451809), em vigor a partir de 1983-05-30
+
+### Capítulo VII — Aplicação do Estatuto aos contribuintes do regime do Decreto-Lei n.º 24046, de 21 de Junho de 1934
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+###### Artigo 61.º — (Retroacção)
+
+1 - Os contribuintes do Montepio no regime do Decreto-Lei n.º 24046, bem como os seus herdeiros hábeis, referidos no artigo 64.º, podem requerer, nos termos do artigo 8.º, a retroacção dos efeitos respectivos pelo tempo que aqueles tiverem de inscrição no Montepio e por qualquer outro já contado para efeitos de aposentação, até ao limite de 36 anos.
+
+2 - A retroacção a que alude o número precedente poderá ser requerida a todo o tempo.
+
+3 - Ao cálculo e pagamento da dívida resultante da retroacção aplicar-se-á o disposto no artigo 24.º, imputando-se desde logo à liquidação da mesma dívida a importância das quotas já pagas pelo contribuinte.
+
+4 - Sempre que a importância das quotas já pagas pelo contribuinte exceda o montante da dívida resultante da retroacção, a diferença será anulada, salvo se puder ser encontrada nas quotas que de futuro se vencerem.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+###### Artigo 62.º — (Regime aplicável no caso de não ter sido requerida a retroacção)
+
+1 - No caso de não ter sido requerida a retroacção prevista no artigo anterior, o tempo de inscrição no Montepio anterior à data em que o contribuinte ficou abrangido pelo regime definido neste Estatuto será convertido em tempo válido para efeitos de aplicação deste regime, até ao limite de 36 anos.
+
+2 - A conversão far-se-á em tantos meses e dias quantos os que, de acordo com as regras dos n.os 2, 3 e 4 do artigo 24.º, corresponderem às quotas vencidas até à data em que o contribuinte ficou abrangido pelo presente regime, acrescidas de juros à taxa de 4% ao ano, não podendo, em caso algum, resultar da conversão período superior ao tempo de serviço efectivamente prestado pelo contribuinte e susceptível de ser considerado para os fins do presente diploma.
+
+3 - Sempre que a importância das quotas vencidas e dos respectivos juros exceda o montante correspondente aos limites de conversão estabelecidos nos números anteriores a diferença será anulada, salvo se puder ser encontrada nas quotas que de futuro se vencerem.
+
+> Nota: [Decreto-Lei n.º 342/75 - Diário do Governo n.º 151/1975, Série I de 1975-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1975-336737) prorroga, por tempo indeterminado, o prazo previsto n.º 1 do presente artigo, para a adesão prevista no artigo 61.º
+
+> Nota: [Decreto-Lei n.º 701/73 - Diário do Governo n.º 300/1973, Série I de 1973-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-1973-408086) prorroga, até 30 de Abril de 1974, o prazo previsto n.º 1 do presente artigo, para a adesão prevista no artigo 61.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 63.º — (Cálculo da pensão)
+
+A pensão de sobrevivência devida pela morte dos contribuintes a que se refere o presente capítulo será calculada de acordo com as regras estabelecidas no artigo 28.º
+
+> Nota: [Decreto-Lei n.º 342/75 - Diário do Governo n.º 151/1975, Série I de 1975-07-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/342-1975-336737) prorroga, por tempo indeterminado, o prazo previsto n.º 2 do presente artigo, para o requerimento da retroacção.
+
+> Nota: [Decreto-Lei n.º 701/73 - Diário do Governo n.º 300/1973, Série I de 1973-12-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/701-1973-408086) prorroga, até 30 de Abril de 1974, o prazo previsto n.º 2 do presente artigo, para o requerimento da retroacção.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 64.º — (Herdeiros hábeis)
+
+1 - São considerados hábeis para efeitos do disposto no presente capítulo os herdeiros referidos no artigo 40.º e ainda as irmãs solteiras, viúvas ou divorciadas, ou judicialmente separadas de pessoas e bens, verificados os requisitos estabelecidos nos artigos 41.º a 44.º e os constantes dos números seguintes.
+
+2 - As filhas solteiras, viúvas, divorciadas ou judicialmente separadas de pessoas e bens que tenham atingido os limites de idade definidos no n.º 1 do artigo 42.º têm também direito à pensão desde que, à data da morte do contribuinte, vivam a seu cargo.
+
+3 - As irmãs solteiras, viúvas, divorciadas ou judicialmente separadas de pessoas e bens só são consideradas herdeiras hábeis quando não existirem quaisquer outros herdeiros hábeis e desde que se encontrem na situação prevista na parte final do número anterior.
+
+4 - Os herdeiros referidos nos n.os 2 e 3 do presente artigo consideram-se a cargo do contribuinte quando os rendimentos, incluindo retribuições, rendas, pensões e equivalentes, mas incluindo a pensão a que se habilitam nos termos do presente diploma, não ultrapassem metade da remuneração correspondente ao índice 100 da escala salarial do regime geral de remunerações da função pública.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 65.º — (Concorrência de herdeiros hábeis)
+
+1 - Havendo mais de um herdeiro hábil, a pensão distribuir-se-á entre eles de harmonia com o disposto no artigo 45.º
+
+2 - No caso de concorrerem apenas irmãs a que se refere o n.º 3 do artigo anterior, a pensão será dividida por todas em partes iguais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 66.º — (Reversão e extinção da qualidade de pensionista)
+
+1 - Quando a pensão for atribuída a mais de um interessado, a extinção da qualidade de pensionista em relação a um deles determina nova distribuição da totalidade da pensão pelos restantes, de acordo com o disposto no artigo anterior.
+
+2 - A qualidade de pensionista em relação aos indivíduos abrangidos pelos n.os 2 e 3 do artigo 64.º extingue-se nos termos e pelos motivos previstos no artigo 47.º, com excepção do disposto nas alíneas b), c) e d) do n.º 1, bem como pela cessação da situação prevista no n.º 4 do artigo 64.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+###### Artigo 67.º — (Subsídio de casamento)
+
+Os herdeiros hábeis referidos no artigo 64.º têm direito a atribuição de um subsídio de casamento nos mesmos termos em que é concedido aos pensionistas abrangidos pelo artigo 48.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 193/1979, Série I de 1979-08-22](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-378761), produz efeitos a partir de 1979-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191-B/79 - Diário da República n.º 144/1979, 1º Suplemento, Série I de 1979-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-b-1979-432672), em vigor a partir de 1979-07-01
+
+###### Artigo 68.º — (Contribuição na situação de licença ilimitada ou inactividade)
+
+Os contribuintes que se encontrem na situação de licença ilimitada, licença de longa duração, inactividade ou situação equiparada ficam abrangidos pelo disposto no presente capítulo, sendo-lhes, porém, suspensa a sua inscrição nos termos do artigo 13.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 343/91 - Diário da República n.º 214/1991, Série I-A de 1991-09-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1991-301459), em vigor a partir de 1991-09-22, produz efeitos a partir de 1991-09-01
+
+### Capítulo VIII — Disposições finais
+
+###### Artigo 69.º — (Entrada em vigor)
+
+1. O disposto no presente Estatuto aplicar-se-á, nos termos do artigo 9.º do Decreto-Lei n.º 76/73, a partir de 1 de Março.
+
+2. No caso de alteração de prazos em curso, observar-se-á o disposto na lei civil.
+
+###### Artigo 70.º — (Caixa Nacional de Pensões)
+
+As quotas devidas pelos contribuintes que forem pensionistas da Caixa Nacional de Pensões serão por esta descontadas e entregues directamente ao Montepio.
+
+###### Artigo 71.º — (Contribuição do Estado para o Montepio)
+
+O Estado contribuirá anualmente para o Montepio com a quantia necessária para assegurar o equilíbrio financeiro da instituição, inscrevendo a verba respectiva no orçamento de despesa do Ministério das Finanças.
+
+###### Artigo 72.º — (Atribuição de encargos)
+
+As empresas públicas e demais serviços ou entidades a que se refere o artigo 63.º do Estatuto de Aposentação, que tenham servidores inscritos no Montepio, poderão ser chamados a contribuir para este, nos termos e condições que vierem a estabelecer-se por resolução do Conselho de Ministros, sob proposta do Ministro das Finanças.
+
+###### Artigo 73.º — (Prestação de contas)
+
+As contas do Montepio são prestadas ao Tribunal de Contas nos termos da legislação aplicável à Caixa.
+
+###### Artigo 74.º — (Modificações ao Estatuto)
+
+1. As disposições que de futuro se publicarem sobre matéria abrangida no presente Estatuto deverão, depois de ouvida a administração da Caixa, ser nele inseridas no lugar próprio, por substituição, supressão ou adicionamento dos respectivos preceitos.
+
+2. As taxas mencionadas no n.º 3 do artigo 50.º, n.º 3 do artigo 55.º e n.º 2 do artigo 58.º poderão ser revistas mediante portaria do Ministro das Finanças.
+
+###### Artigo 75.º — (Resolução genérica de dúvidas)
+
+Compete ao Ministro das Finanças, ouvida a administração da Caixa ou mediante proposta fundamentada desta, resolver, por despacho genérico, as dúvidas que se suscitarem na aplicação deste diploma ou de quaisquer preceitos legais sobre a matéria abrangida pelo presente Estatuto.
+
+###### Artigo 76.º — (Revogação)
+
+Ficam revogados, a partir da data da entrada em vigor do presente Estatuto:
+
+O Decreto n.º 24987, de 1 de Fevereiro de 1935;
+
+O Decreto-Lei n.º 27251, de 24 de Novembro de 1936;
+
+Os artigos 22.º e 27.º do Decreto-Lei n.º 32691, de 20 de Fevereiro de 1943;
+
+O artigo 22.º do Decreto-Lei n.º 36610, de 24 de Novembro de 1947.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
+
+Promulgado em 30 de Março de 1973.
+
+Publique-se.
+
+O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.
+
+Para ser presente à Assembleia Nacional.

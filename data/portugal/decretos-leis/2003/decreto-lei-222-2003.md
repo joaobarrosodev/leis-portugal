@@ -1,0 +1,189 @@
+---
+schema_version: '1.0'
+id: pt:dre:500058:por
+title: Decreto-Lei n.º 222/2003
+short_title: null
+summary: Adita o artigo 6.º ao Decreto-Lei n.º 319/94, de 24 de Dezembro, que estabelece o regime jurídico da construção,
+  exploração e gestão dos sistemas multimunicipais de captação de água para consumo público
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Cidades, Ordenamento do Território e Ambiente
+proposing_entity: null
+official_number: 222/2003
+official_date: null
+publication_date: '2003-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 218/2003, Série I-A de 2003-09-20
+  number: '218'
+  series: I
+  supplement: null
+  pages: 6139 - 6140
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/09/218a00/61396140.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/222/2003/09/20/p/dre/pt/html
+  oj: null
+  dre: '500058'
+  dre_path: /dr/detalhe/decreto-lei/222-2003-500058
+  internal: pt:dre:500058:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2003-500058
+  metadata_url: https://data.dre.pt/eli/dec-lei/222/2003/09/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2003-500058
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-08-20T00:00:00Z'
+integrity:
+  source_sha256: b7fa0a1186aa67459d601dd2234bf1778057cf13c5e288244fb1b8a86973e86f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-222-500058.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Água
+- Contrato de Concessão
+- Recursos Hídricos
+- Empresa Pública
+- Gestão dos Recursos
+- Preço
+- Serviço Público
+- Regime Jurídico
+- Abastecimento de Água
+- Tratamento de ÁGUA
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:488136:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/103/2003/05/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103/2003/05/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/319/1994/12/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/319/1994/12/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/379/1993/11/05/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 222/2003
+
+de 20 de Setembro
+
+O [Decreto-Lei n.º 319/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1994-575293), de 24 de Dezembro, consagra o regime jurídico aplicável aos sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público, na linha dos princípios e objectivos gerais fixados no [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, que estabelece o regime de exploração e gestão dos sistemas multimunicipais e municipais de captação, tratamento e distribuição de água para consumo público, de recolha, tratamento e rejeição de efluentes e de recolha e tratamento de resíduos sólidos.
+
+Considerando o disposto no novo artigo 4.º-A do referido [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), aditado pelo [Decreto-Lei n.º 103/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2003-540847), de 23 de Maio, mostra-se conveniente proceder à alteração do mencionado [Decreto-Lei n.º 319/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1994-575293), de 24 de Dezembro, em consonância com as disposições constantes daquele referido artigo, para que não restem dúvidas quanto à coerência entre ambos os diplomas.
+
+O presente diploma visa, justamente, assegurar a clarificação, expressa na letra da lei, da compatibilidade entre o regime jurídico aplicável aos sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público e os princípios constantes do aludido artigo 4.º-A e correspondente diploma legal, dando, assim, completa resposta às questões suscitadas nesta matéria por parte da Comissão Europeia.
+
+Foi ouvida a Associação Nacional dos Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Aditamento
+
+É aditado o artigo 6.º ao [Decreto-Lei n.º 319/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1994-575293), de 24 de Dezembro, com a seguinte redacção:
+
+«Artigo 6.º
+
+Gestão dos sistemas multimunicipais de abastecimento de água
+
+1 - A criação de sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público tem por objectivo garantir a qualidade e a continuidade dos serviços públicos de captação, tratamento e distribuição de água para consumo público.
+
+2 - As entidades gestoras de sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público ficam incumbidas, essencialmente, da realização das seguintes missões de interesse público:
+
+a) Assegurar, nos termos aprovados pelo Ministro das Cidades, Ordenamento do Território e Ambiente, de forma regular, contínua e eficiente, o abastecimento de água;
+
+b) Promover a concepção e assegurar a construção e a exploração, nos termos dos projectos aprovados pelo Ministro das Cidades, Ordenamento do Território e Ambiente, das infra-estruturas, das instalações e dos equipamentos necessários à captação, ao tratamento e à distribuição de água para consumo público;
+
+c) Assegurar a reparação e a renovação das infra-estruturas e das instalações referidas na alínea anterior, de acordo com a evolução das exigências técnicas e no respeito pelos parâmetros sanitários aplicáveis;
+
+d) Controlar, sob a fiscalização das entidades competentes, os parâmetros sanitários da água distribuída.
+
+3 - Tendo em vista a prossecução das missões de interesse público enunciadas no número anterior, pode o Governo, mediante decreto-lei, atribuir direitos especiais ou exclusivos às entidades incumbidas da exploração e gestão dos sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público.
+
+4 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 3.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro, sempre que os municípios utilizadores de um sistema multimunicipal de captação, tratamento e abastecimento de água para consumo público ou uma associação de municípios representativa dos municípios utilizadores de um sistema multimunicipal de captação, tratamento e abastecimento de água para consumo público decidam concessionar os serviços «em baixa» de distribuição de água para consumo público, considerando-se como serviços «em baixa» aqueles cujos utilizadores finais sejam os consumidores individuais, devem para tanto seguir um procedimento de contratação pública, nos termos dos artigos 10.º e 11.º do [Decreto-Lei n.º 379/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/379-1993-665155), de 5 de Novembro.
+
+5 - Na medida em que seja necessária uma articulação com as infra-estruturas que as entidades gestoras de sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público detêm, gerem ou exploram, tais entidades devem criar condições de acesso equivalente e não discriminatório a essas mesmas infra-estruturas aos adjudicatários do procedimento de contratação pública referido no número anterior.
+
+6 - As entidades gestoras dos sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público podem, desde que autorizadas pelo Ministro das Cidades, Ordenamento do Território e Ambiente, participar nos procedimentos mencionados no n.º 4.
+
+7 - A participação de entidades privadas, em posição obrigatoriamente minoritária, no capital social de entidades gestoras de sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público será precedida de procedimentos compatíveis com os princípios gerais do direito comunitário.
+
+8 - As entidades gestoras de sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público têm por objecto principal a exploração e gestão de sistemas multimunicipais.
+
+9 - As entidades gestoras de sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público poderão, desde que para o efeito estejam habilitadas, exercer outras actividades para além da referida no número anterior, desde que consideradas acessórias ou complementares e devidamente autorizadas pelo Ministro das Cidades, Ordenamento do Território e Ambiente e, em qualquer caso, desde que a exploração e gestão de sistemas multimunicipais se mantenha como a sua actividade essencial e com contabilidade própria e autónoma.
+
+10 - O Ministro das Cidades, Ordenamento do Território e Ambiente tem, relativamente às entidades gestoras de sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público, poderes de fiscalização, direcção, autorização, aprovação e suspensão de actos das mesmas, podendo, para o efeito, dar directrizes vinculantes às administrações dessas entidades gestoras e definir as modalidades de verificação do cumprimento das directrizes emitidas.
+
+11 - Carecem, em especial, de aprovação do Ministro das Cidades, Ordenamento do Território e Ambiente:
+
+a) Os planos de actividade e financeiros plurianuais para um período de, pelo menos, cinco anos adoptados pelas entidades gestoras de sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público e suas eventuais alterações, devidamente certificados por auditor aceite pelo Ministro;
+
+b) Os orçamentos anuais de exploração, de investimento e financeiros adoptados pelas entidades gestoras de sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público, bem como as respectivas actualizações que impliquem redução de resultados previsionais, acréscimo de despesas ou necessidade de financiamento, devidamente certificados por auditor aceite pelo Ministro;
+
+c) As tarifas cobradas pelas entidades gestoras de sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público.»
+
+###### Artigo 2.º — Aplicação aos sistemas existentes
+
+É imediatamente aplicável aos sistemas multimunicipais de captação, tratamento e abastecimento de água para consumo público existentes, bem como às respectivas entidades gestoras, o disposto no artigo 6.º do [Decreto-Lei n.º 319/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-1994-575293), de 24 de Dezembro, aditado pelo presente diploma.
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 6 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Amílcar Augusto Contel Martins Theias.
+
+**Promulgado em 5 de Setembro de 2003.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 8 de Setembro de 2003.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**

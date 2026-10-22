@@ -1,0 +1,88 @@
+---
+schema_version: '1.0'
+id: pt:dre:1571424:por
+title: Portaria n.º 286/2012
+short_title: null
+summary: Nomeia o capitão-de-mar-e-guerra M Pedro Manuel Filipe do Amaral Frazão para os cargos de comandante da Zona Marítima
+  da Madeira e, em acumulação, chefe do Departamento Marítimo da Madeira e capitão dos Portos do Funchal e de Porto Santo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Marinha - Gabinete do Chefe do Estado-Maior da Armada
+proposing_entity: null
+official_number: 286/2012
+official_date: null
+publication_date: '2012-07-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/2012, Série II de 2012-07-12
+  number: '134'
+  series: II
+  supplement: null
+  pages: 24629 - 24629
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/07/134000000/2462924629.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1571424'
+  dre_path: /dr/detalhe/portaria/286-2012-1571424
+  internal: pt:dre:1571424:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-1571424
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-1571424
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-07-12T00:00:00Z'
+integrity:
+  source_sha256: ea2a9e0ea8e5b303a0c48f030fbfccc89f2d1ca7f50552be04ae17221da51e98
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-286-1571424.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 286/2012
+
+Manda o Chefe do Estado-Maior da Armada, nomear o 20382 Capitão-de-mar-e-guerra da classe de Marinha Pedro Manuel Filipe do Amaral Frazão, para o cargo de comandante da Zona Marítima da Madeira e, em acumulação, chefe do Departamento Marítimo da Madeira, capitão do Porto do Funchal e capitão do Porto de Porto Santo, em substituição do 21178 Capitão-de-mar-e-guerra da classe de Marinha António Manuel de Carvalho Coelho Cândido, que fica exonerado dos referidos cargos pela presente portaria na data em que o oficial agora nomeado assuma funções.
+
+16-09-2009. - O Chefe do Estado-Maior da Armada, Fernando José Ribeiro de Melo Gomes, Almirante.

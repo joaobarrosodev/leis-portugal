@@ -1,0 +1,1224 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:473500:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34507575",
+ "dre_path": "/dr/detalhe/decreto-lei/237-2005-473500",
+ "source_lastmod": "2025-10-24",
+ "versions": [
+  {
+   "date": "2005-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51052775",
+    "51052875",
+    "51052975",
+    "51053075",
+    "51053175",
+    "51053275",
+    "51053375",
+    "51053475",
+    "51053575",
+    "51053675",
+    "51053775",
+    "51053875",
+    "51053975",
+    "51054075",
+    "51054175",
+    "51054275",
+    "51054375",
+    "51054475",
+    "51054575",
+    "51054675",
+    "51054775",
+    "51054875",
+    "51054975",
+    "51055075",
+    "51055175",
+    "51055275",
+    "51055375",
+    "51055475",
+    "51055575",
+    "51055675",
+    "51055775",
+    "51055875",
+    "51055975",
+    "51056075",
+    "51056175",
+    "51056275",
+    "51056375",
+    "51056475",
+    "51056575",
+    "51056675",
+    "51056775",
+    "51056875",
+    "51056975",
+    "51057075",
+    "51057175",
+    "51057275",
+    "51057375",
+    "51057475",
+    "51057575",
+    "51057675",
+    "51057775",
+    "51057875",
+    "51057975",
+    "51058075",
+    "51058175",
+    "51058275",
+    "51058375",
+    "51058475",
+    "51058575",
+    "51058675",
+    "51058775"
+   ]
+  },
+  {
+   "date": "2007-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:636410:por",
+     "title": "Decreto-Lei n.º 274/2007",
+     "published": "2007-07-30",
+     "dre_path": "/dr/detalhe/decreto-lei/274-2007-636410"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo I",
+    "Revoga Capítulo II",
+    "Revoga Capítulo III",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 37.º",
+    "Revoga Capítulo V",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "51052775",
+    "942141004",
+    "942141005",
+    "942141006",
+    "942141007",
+    "942141008",
+    "942141009",
+    "942141010",
+    "942141011",
+    "942141012",
+    "942141013",
+    "942141014",
+    "942141015",
+    "942141016",
+    "942141017",
+    "942141018",
+    "942141019",
+    "942141020",
+    "942141021",
+    "942141022",
+    "942141023",
+    "942141024",
+    "942141025",
+    "942141026",
+    "942141027",
+    "942141028",
+    "942141029",
+    "942141030",
+    "942141031",
+    "942141032",
+    "942141033",
+    "942141034",
+    "942141035",
+    "51056075",
+    "942141069",
+    "942141070",
+    "51056375",
+    "942141071",
+    "942141072",
+    "51056675",
+    "51056775",
+    "942141073",
+    "942141050",
+    "942141051",
+    "942141052",
+    "942141053",
+    "942141054",
+    "942141055",
+    "942141056",
+    "942141057",
+    "942141058",
+    "942141059",
+    "942141060",
+    "942141061",
+    "942141062",
+    "942141063",
+    "942141064",
+    "942141065",
+    "942141066",
+    "942141067",
+    "51058875",
+    "942141068"
+   ]
+  }
+ ],
+ "fragments": {
+  "51052775": {
+   "fragment_id": "35127375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Programa do XVII Governo Constitucional, ao estabelecer como um dos seus objectivos o relançamento da política de defesa dos consumidores, considera indispensável a revisão dos normativos legais sobre segurança de produtos e serviços de consumo, com particular relevo para os problemas da alimentação e da saúde pública.\n\nPara alcançar aquele objectivo há que assegurar uma actuação credível ao nível da avaliação e comunicação dos riscos na cadeia alimentar, procurando restringir a ocorrência de danos sociais nas áreas da saúde, da economia e da defesa dos consumidores.\n\nA experiência veio demonstrar que a existência de cerca de quatro dezenas de serviços e organismos públicos, a maioria dos quais integrados no Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, com atribuições e competências na área do controlo oficial dos géneros alimentícios, inviabiliza a eficácia desejável na actuação da prevenção e da repressão de comportamentos que ponham em risco a cadeia alimentar.\n\nEntende-se, pois, que, a fim de aumentar a confiança dos consumidores, deve estabelecer-se um modelo que congregue num único organismo a quase totalidade dos serviços relacionados com a fiscalização e com a avaliação e comunicação dos riscos na cadeia alimentar por forma a reforçar a relação entre avaliadores e gestores dos riscos, sem que a vertente de avaliação e comunicação perca o seu carácter independente, assegurando a cooperação com a Autoridade Europeia para a Segurança dos Alimentos, no âmbito das suas atribuições, conforme se dispõe no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R0178\" title=\"Link para Regulamento da Comunidade Europeia\">178/2002</a>, do Parlamento Europeu e do Conselho, de 28 de Janeiro.\n\nAproveita-se ainda a oportunidade para integrar no novo organismo as atribuições e competências actualmente detidas pela Inspecção-Geral das Actividades Económicas (IGAE) em matéria de controlo oficial dos géneros alimentícios, como em matéria de fiscalização do sector não alimentar, por forma que a articulação junto dos agentes económicos, que actuam cada vez em maior número simultaneamente nas duas áreas, garanta uma maior rentabilização dos recursos humanos e materiais envolvidos e permita uma melhor imagem da gestão de controlos junto do mesmo operador, evitando sobreposições em matéria de fiscalização de um mesmo estabelecimento, nas diferentes componentes do exercício da sua actividade.\n\nA criação da Autoridade de Segurança Alimentar e Económica (ASAE), que o presente decreto-lei materializa, pretende responder às preocupações acima enunciadas através de uma estrutura orgânica que permita, com significativos ganhos de eficiência e maior eficácia, proceder a uma avaliação científica independente dos riscos na cadeia alimentar e fiscalizar as actividades económicas a partir da produção e em estabelecimentos industriais ou comerciais, tirando partido do «saber fazer» anteriormente disperso por vários serviços e organismos e agora concentrado numa única entidade.\n\nA opção pela criação de um novo organismo facilita a tarefa de eliminar deficiências e desadequações nas rotinas implantadas, permitindo passar para o consumidor uma mensagem clara de que se abre um novo ciclo ao nível da eficácia do sistema instituído, depois de vários anos de tentativas sempre adiadas.\n\nFinalmente, a criação da ASAE insere-se na orientação geral do Governo, mormente na Resolução do Conselho de Ministros n.º 102/2005, de 24 de Junho, quanto à redução da despesa pública e de reforma estrutural da Administração, traduzida, neste caso, na concentração de funções e de serviços, com acréscimo de eficácia e racionalização de meios materiais e humanos, de que é exemplo a redução de três dezenas de cargos dirigentes.\n\nForam ouvidos os sindicatos representativos dos sectores.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "51052875": {
+   "fragment_id": "36115675",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "51052975": {
+   "fragment_id": "37619275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criada a Autoridade de Segurança Alimentar e Económica, doravante designada por ASAE."
+  },
+  "51053075": {
+   "fragment_id": "37619375",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza jurídica e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza jurídica e missão\n\n1 - A ASAE é um serviço da administração directa do Estado dotado de autonomia administrativa, na dependência hierárquica do ministro que tutela a área da economia.\n\n2 - A ASAE é a autoridade administrativa nacional especializada no âmbito da segurança alimentar e da fiscalização económica.\n\n3 - A ASAE é a autoridade nacional de coordenação do controlo oficial dos géneros alimentícios e o organismo nacional de ligação com outros Estados membros, sendo responsável pela avaliação e comunicação dos riscos na cadeia alimentar, bem como pela disciplina do exercício das actividades económicas nos sectores alimentar e não alimentar, mediante a fiscalização e prevenção do cumprimento da legislação reguladora das mesmas."
+  },
+  "51053175": {
+   "fragment_id": "37619475",
+   "type": 11,
+   "heading": "Artigo 3.º — Jurisdição territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Jurisdição territorial\n\n1 - A ASAE, enquanto entidade nacional responsável pela avaliação e comunicação dos riscos na cadeia alimentar e autoridade coordenadora do controlo oficial dos géneros alimentícios, tem âmbito nacional.\n\n2 - Enquanto entidade fiscalizadora das actividades económicas, a ASAE exerce a sua actividade em todo o território do continente."
+  },
+  "51053275": {
+   "fragment_id": "37619575",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime jurídico\n\nA ASAE rege-se pelas disposições constantes do presente decreto-lei e pelos seus regulamentos internos."
+  },
+  "51053375": {
+   "fragment_id": "37619675",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições\n\nSão atribuições da ASAE:\n\na) Emitir pareceres científicos e técnicos, recomendações e avisos, nomeadamente em matérias relacionadas com a nutrição humana, saúde e bem-estar animal, fitossanidade e organismos geneticamente modificados;\n\nb) Recolher e analisar dados que permitam a caracterização e a avaliação dos riscos que tenham impacte, directo ou indirecto, na segurança alimentar;\n\nc) Avaliar os riscos alimentares, nomeadamente os relativos aos novos alimentos e ingredientes alimentares novos, alimentos para animais, novos processos tecnológicos e riscos emergentes;\n\nd) Promover a criação de uma rede de intercâmbio de informação entre entidades que trabalhem nos domínios das suas competências;\n\ne) Assegurar a comunicação pública e transparente dos riscos;\n\nf) Promover a divulgação da informação sobre segurança alimentar junto dos consumidores;\n\ng) Colaborar, na área das suas atribuições, com a Autoridade Europeia para a Segurança dos Alimentos;\n\nh) Acompanhar a participação técnica nacional nas diferentes instâncias internacionais em matéria de segurança alimentar, designadamente quanto às normas e procedimentos de controlo;\n\ni) Proceder à avaliação dos riscos biológicos, químicos, físicos e nutricionais e dos riscos inerentes à saúde e bem-estar animal e à alimentação animal;\n\nj) Propor a definição da estratégia da comunicação dos riscos em matéria de segurança alimentar, tendo em consideração os conteúdos, os meios e os grupos alvo da comunicação;\n\nl) Promover acções de natureza preventiva e repressiva em matéria de infracções contra a qualidade, genuinidade, composição, aditivos alimentares e outras substâncias e rotulagem dos géneros alimentícios e dos alimentos para animais;\n\nm) Assegurar, em articulação com a Direcção-Geral de Veterinária (DGV), o funcionamento dos postos de inspecção fronteiriços (PIF);\n\nn) Executar, em articulação com a (DGV), o Plano Nacional de Controlo de Resíduos;\n\no) Executar, em articulação com a Direcção-Geral de Protecção das Culturas, o Programa Oficial de Controlo de Resíduos de Pesticidas em Produtos de Origem Vegetal;\n\np) Fiscalizar os estabelecimentos de abate, preparação, tratamento e armazenamento de produtos de origem animal;\n\nq) Fiscalizar os estabelecimentos da indústria transformadora da pesca, navios-fábrica, lotas e mercados grossistas;\n\nr) Fiscalizar a cadeia de comercialização dos produtos de origem vegetal e dos produtos de origem animal, incluindo os produtos da pesca e da aquicultura;\n\ns) Fiscalizar a circulação e comércio de uvas destinadas à produção de vinho, de mosto e de vinho em todo o território nacional;\n\nt) Fiscalizar os lagares de azeite, bem como o destino do azeite obtido da azeitona laborada e seus subprodutos;\n\nu) Fiscalizar a oferta de produtos e serviços nos termos legalmente previstos e, quando for caso disso, proceder à investigação e instrução de processos por contra-ordenação cuja competência lhe esteja legalmente atribuída;\n\nv) Fiscalizar o cumprimento das obrigações legais dos agentes económicos, assegurando a instrução dos respectivos processos de contra-ordenação, sem prejuízo das competências atribuídas por lei a outras entidades;\n\nx) Fiscalizar todos os locais onde se proceda a qualquer actividade industrial, comercial, agrícola, piscatória ou de prestação de serviços, designadamente de produtos acabados e ou intermédios, armazéns, escritórios, meios de transporte, entrepostos frigoríficos, empreendimentos turísticos, empreendimentos de turismo no espaço rural, estabelecimentos de turismo de natureza, agências de viagens, empresas de animação turística, estabelecimentos de restauração e bebidas, cantinas e refeitórios, recintos de diversão ou de espectáculos, portos, gares e aerogares, sem prejuízo das competências atribuídas por lei a outras entidades;\n\nz) Proceder à realização de perícias e colheitas de amostras nos locais onde se produzam, comercializem e ministrem alimentos para animais;\n\naa) Executar, em colaboração com outros organismos competentes, as medidas destinadas a assegurar o abastecimento do País em bens e serviços considerados essenciais, tendo em vista prevenir situações de açambarcamento;\n\nbb) Promover e colaborar na divulgação da legislação sobre o exercício dos diferentes sectores da economia cuja fiscalização lhe esteja atribuída junto das associações de consumidores, associações empresariais, associações agrícolas e das pescas, organizações sindicais e agentes económicos;\n\ncc) Promover a divulgação dos resultados da actividade operacional de fiscalização, sem prejuízo das regras inerentes ao segredo de justiça;\n\ndd) Arquivar os processos de contra-ordenação cuja competência instrutória lhe esteja legalmente atribuída, sempre que se verificar que os factos que constam dos autos não constituem infracção ou não existam elementos de prova susceptíveis de imputar a prática da infracção a um determinado agente;\n\nee) Prosseguir quaisquer outras atribuições que lhe sejam cometidas por lei."
+  },
+  "51053475": {
+   "fragment_id": "37619775",
+   "type": 11,
+   "heading": "Artigo 6.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Princípios orientadores\n\nA ASAE, no exercício da sua missão, rege-se pelos princípios da independência científica, da precaução, da credibilidade e transparência e da confidencialidade."
+  },
+  "51053575": {
+   "fragment_id": "37619875",
+   "type": 11,
+   "heading": "Artigo 7.º — Cooperação com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cooperação com outras entidades\n\n1 - A ASAE e os demais serviços, organismos ou entidades com funções de prevenção e repressão criminal ou contra-ordenacional ou com funções de autoridade administrativa devem cooperar no exercício das respectivas atribuições, utilizando os mecanismos legalmente adequados.\n\n2 - A ASAE pode solicitar aos serviços e organismos do ministério que tutela a área da economia os elementos de informação e a colaboração de recursos humanos qualificados que se mostrem necessários ao desenvolvimento de projectos específicos.\n\n3 - Os organismos públicos devem prestar à ASAE a colaboração que lhes for solicitada, designadamente na área técnico-pericial.\n\n4 - Em articulação com o Ministério dos Negócios Estrangeiros, a ASAE pode estabelecer relações de cooperação com organismos similares de outros países ou com organizações internacionais."
+  },
+  "51053675": {
+   "fragment_id": "37619975",
+   "type": 11,
+   "heading": "Artigo 8.º — Rede de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Rede de informação\n\nA ASAE promove a criação de uma rede de intercâmbio de informação com entidades, públicas ou privadas, no domínio das suas atribuições, que tem por objectivo, designadamente, um quadro de cooperação através da coordenação das actividades, do intercâmbio de informações e da elaboração e execução de projectos comuns."
+  },
+  "51053775": {
+   "fragment_id": "36115775",
+   "type": 1,
+   "heading": "Capítulo II — Organização, serviços e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização, serviços e competências"
+  },
+  "51053875": {
+   "fragment_id": "37620075",
+   "type": 11,
+   "heading": "Artigo 9.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Órgãos e serviços\n\n1 - São órgãos da ASAE:\n\na) O presidente;\n\nb) O conselho científico.\n\n2 - São serviços centrais da ASAE:\n\na) A Direcção de Avaliação e Comunicação dos Riscos na Cadeia Alimentar (DACR);\n\nb) A Direcção de Serviços de Planeamento e Controlo Operacional (DSPCO);\n\nc) A Direcção de Serviços Gerais (DSG);\n\nd) O Laboratório Central de Qualidade Alimentar (LCQA);\n\ne) O Gabinete de Documentação e de Formação (GDF);\n\nf) O Gabinete de Apoio Jurídico (GAJ).\n\n3 - São serviços desconcentrados da ASAE:\n\na) A Direcção Regional do Norte, no Porto;\n\nb) A Direcção Regional do Centro, em Coimbra;\n\nc) A Direcção Regional de Lisboa e Vale do Tejo, em Lisboa;\n\nd) A Direcção Regional do Alentejo, em Évora;\n\ne) A Direcção Regional do Algarve, em Faro.\n\n4 - No âmbito das Direcções Regionais, são criadas as seguintes delegações, sediadas nas localidades onde, à data da entrada em vigor do presente decreto-lei, funcionam as direcções regionais de agricultura (DRA), do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas:\n\na) Delegações de Braga e de Mirandela, integradas na Direcção Regional do Norte;\n\nb) Delegação de Castelo Branco, integrada na Direcção Regional do Centro;\n\nc) Delegação de Santarém, integrada na Direcção Regional de Lisboa e Vale do Tejo."
+  },
+  "51053975": {
+   "fragment_id": "37620175",
+   "type": 11,
+   "heading": "Artigo 10.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Presidente\n\n1 - A ASAE é dirigida por um presidente, nomeado por despacho conjunto do Primeiro-Ministro e do membro do Governo responsável pela área da economia, que é coadjuvado por quatro vice-presidentes, um dos quais exerce as funções de director científico para os riscos da cadeia alimentar, nomeados por despacho do membro do Governo responsável pela área da economia.\n\n2 - Para todos os efeitos legais, são equiparados:\n\na) O presidente da ASAE a inspector-geral;\n\nb) O director científico para os riscos da cadeia alimentar a subdirector-geral;\n\nc) Os demais vice-presidentes a subinspectores-gerais.\n\n3 - Compete ao Presidente:\n\na) Representar a ASAE junto de quaisquer instituições ou organismos, nacionais ou internacionais;\n\nb) Dirigir, coordenar e orientar os serviços, bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;\n\nc) Aprovar e apresentar superiormente o plano e o relatório de actividades anuais da ASAE;\n\nd) Submeter à aprovação das entidades competentes o orçamento e as contas anuais da ASAE;\n\ne) Decidir e propor a locação e aquisição de bens e serviços no âmbito das suas competências;\n\nf) Aprovar, mediante parecer do director científico, as recomendações e avisos que vinculam a ASAE;\n\ng) Exercer os demais poderes previstos neste decreto-lei e que não estejam atribuídos a outros órgãos e serviços.\n\n4 - O director científico para os riscos da cadeia alimentar exerce as competências previstas no artigo 11.º\n\n5 - Os demais vice-presidentes exercem as competências que neles forem delegadas ou subdelegadas pelo presidente, sendo este substituído, nas suas ausências e impedimentos, por aquele que para o efeito designar."
+  },
+  "51054075": {
+   "fragment_id": "37620275",
+   "type": 11,
+   "heading": "Artigo 11.º — Director científico para os riscos na cadeia alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Director científico para os riscos na cadeia alimentar\n\nO director científico para os riscos na cadeia alimentar reporta directamente ao presidente da ASAE, competindo-lhe, designadamente:\n\na) Dirigir, coordenar e orientar a DACR, bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;\n\nb) Emitir parecer sobre as recomendações e avisos que vinculam a ASAE e sobre as iniciativas propostas pelo conselho científico ao presidente;\n\nc) Assegurar a necessária articulação com os organismos congéneres dos países da União Europeia;\n\nd) Propor ao membro do Governo responsável pela área da economia a nomeação dos membros do conselho científico;\n\ne) Aprovar as iniciativas que lhe são propostas pelo conselho científico, designadamente a criação e a composição de comissões técnicas especializadas;\n\nf) Divulgar os pareceres do conselho científico;\n\ng) Proceder aos contactos com os órgãos de comunicação, nos termos a articular com o presidente."
+  },
+  "51054175": {
+   "fragment_id": "37620375",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conselho científico\n\n1 - O conselho científico é o órgão de consulta especializada do director científico em matérias científicas, de desenvolvimento tecnológico e de projectos de investigação, gozando de plena autonomia técnico-científica para o efeito.\n\n2 - O conselho científico, nomeado por despacho do membro do Governo responsável pela área da economia, sob proposta do director científico, tem a seguinte composição:\n\na) Entre três e seis personalidades de reconhecido mérito científico;\n\nb) Os presidentes das comissões técnicas especializadas;\n\nc) Três membros, com adequado currículo e de reconhecido mérito em matérias técnico-científicas, escolhidos de entre funcionários da DACR.\n\n3 - Ao conselho científico compete, designadamente:\n\na) Emitir pareceres científicos, por sua iniciativa, mediante aprovação do director científico, ou a solicitação deste ou de entidades responsáveis por interesses relevantes na área da segurança alimentar, incluindo, para além dos organismos e serviços públicos com competências no sector alimentar, as associações mais representativas de consumidores, produtores, industriais e comerciantes;\n\nb) Proceder à coordenação geral necessária para garantir a coerência do procedimento de formulação de pareceres científicos, em particular no que respeita à adopção de regras de funcionamento e à harmonização dos métodos de trabalho;\n\nc) Acompanhar o progresso científico e técnico na área da segurança alimentar;\n\nd) Proceder, entre outras actividades, à avaliação dos riscos na cadeia alimentar e propor as medidas legislativas e administrativas adequadas;\n\ne) Propor ao director científico a realização de estudos, conferências, colóquios, seminários e outras actividades destinadas a avaliar, aprofundar e divulgar o conhecimento da segurança alimentar;\n\nf) Propor ao director científico a criação e composição de comissões técnicas especializadas;\n\ng) Activar as comissões técnicas especializadas sempre que tal se mostre necessário face à especificidade das matérias sobre as quais se devam pronunciar;\n\nh) Elaborar o projecto de regulamento interno e submetê-lo ao director científico.\n\n4 - O conselho científico reúne ordinariamente uma vez em cada trimestre e extraordinariamente sempre que for convocado pelo seu presidente.\n\n5 - O conselho científico elege, de entre os membros a que alude a alínea a) do n.º 2, o respectivo presidente e delibera sobre a sua organização e funcionamento, prevendo a eventual participação de peritos externos, em regulamento interno.\n\n6 - O conselho científico reporta directamente ao director científico.\n\n7 - Para efeitos da comunicação de riscos, o conselho científico está inibido de proceder à comunicação dos riscos, bem como a qualquer outra manifestação ou declaração relacionada com as competências deste órgão, sem obtenção de prévia e expressa autorização do presidente da ASAE, a solicitar mediante comunicação ao director científico.\n\n8 - Os membros do conselho científico, salvo aqueles que são trabalhadores da ASAE, têm direito ao abono de senhas de presença no valor de 55% do índice 100 da escala salarial do regime geral da função pública por cada reunião em que efectivamente participem.\n\n9 - Independentemente do número de reuniões em que participem, os membros do conselho científico com direito ao abono de senhas de presença não podem auferir por cada mês mais do dobro do valor referido no número anterior, salvo proposta fundamentada do presidente do conselho científico e mediante autorização do Ministro de Estado e das Finanças."
+  },
+  "51054275": {
+   "fragment_id": "37620475",
+   "type": 11,
+   "heading": "Artigo 13.º — Comissões técnicas especializadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Comissões técnicas especializadas\n\n1 - As comissões técnicas especializadas são equipas multidisciplinares que funcionam como estruturas de apoio ao conselho científico, constituídas por personalidades com qualificação e experiência nas respectivas áreas, que actuam sob sua orientação e superintendência.\n\n2 - São criadas comissões técnicas especializadas nas seguintes áreas, sem prejuízo do disposto na alínea f) do n.º 3 do artigo 12.º:\n\na) Aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com géneros alimentícios;\n\nb) Aditivos e produtos ou substâncias utilizados nos alimentos para animais;\n\nc) Fitossanidade dos produtos fitossanitários e respectivos resíduos;\n\nd) Organismos geneticamente modificados (OGM);\n\ne) Produtos dietéticos, nutrição e alergias;\n\nf) Riscos biológicos;\n\ng) Contaminantes da cadeia alimentar;\n\nh) Saúde e bem-estar animal.\n\n3 - Até à designação dos presidentes das comissões técnicas especializadas, estas são presididas por um membro do conselho científico a que se refere a alínea a) do n.º 2 do artigo 12.º\n\n4 - As regras de funcionamento das comissões técnicas especializadas são fixadas em regulamento a apresentar ao director científico, sob proposta do conselho científico."
+  },
+  "51054375": {
+   "fragment_id": "37620575",
+   "type": 11,
+   "heading": "Artigo 14.º — Direcção de Avaliação e Comunicação dos Riscos na Cadeia Alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direcção de Avaliação e Comunicação dos Riscos na Cadeia Alimentar\n\n1 - No âmbito da avaliação dos riscos, a DACR procede à avaliação dos riscos biológicos, químicos, físicos e nutricionais e dos riscos inerentes à saúde e bem-estar animal e à alimentação animal, competindo-lhe, designadamente:\n\na) Proceder a estudos e elaborar pareceres técnicos e científicos;\n\nb) Proceder à recolha de dados relativos ao consumo de géneros alimentícios e à incidência e prevalência dos riscos da cadeia alimentar;\n\nc) Analisar os dados dos diferentes organismos com atribuições nas várias componentes da fileira alimentar que permitam a caracterização dos riscos com impacte directo ou indirecto na segurança alimentar;\n\nd) Analisar, de forma sistemática, informações e dados que permitam propor programas de vigilância dos riscos;\n\ne) Propor as entidades que devem integrar a rede de intercâmbio de informação e assegurar o seu funcionamento;\n\nf) Proceder ao tratamento das mensagens que circulem no sistema de alerta rápido (RASFF) e de outros sistemas de alerta ou de troca de informação;\n\ng) Programar e desenvolver acções de natureza preventiva e informativa;\n\nh) Adoptar procedimentos para a criação e manutenção de bases de dados e de registos nacionais de alimentos;\n\ni) Secretariar o conselho científico;\n\nj) Promover e organizar a realização de cursos, seminários, jornadas técnicas e outras acções de formação contínua especializada;\n\nl) Estabelecer ligações a bases de dados científicos e técnicos e cooperar cientificamente com outros organismos com actividade no domínio das suas competências.\n\n2 - A DACR, no âmbito da comunicação dos riscos, procede à definição da estratégia da comunicação dos riscos em matéria de segurança alimentar, tendo em consideração os conteúdos, os meios e os grupos alvo da comunicação, competindo-lhe, designadamente:\n\na) Planear e implementar os programas de comunicação dos riscos;\n\nb) Comunicar os pareceres, as recomendações e os avisos;\n\nc) Elaborar comunicados ou outros suportes de comunicação;\n\nd) Proporcionar informação acessível e compreensível dos pareceres científicos;\n\ne) Tornar público, em tempo útil, informações credíveis e objectivas;\n\nf) Acompanhar a preparação e difusão pública dos documentos;\n\ng) Desenvolver e colaborar em estudos de opinião;\n\nh) Proceder à divulgação da actividade da ASAE no âmbito das competências de avaliação e comunicação dos riscos;\n\ni) Elaborar o plano específico de actuação em situações de crise."
+  },
+  "51054475": {
+   "fragment_id": "37620675",
+   "type": 11,
+   "heading": "Artigo 15.º — Direcção de Serviços de Planeamento e Controlo Operacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direcção de Serviços de Planeamento e Controlo Operacional\n\nA DSPCO procede ao planeamento e acompanhamento da actividade operacional competindo-lhe, designadamente:\n\na) Efectuar estudos sobre a actividade operacional da ASAE;\n\nb) Recolher, analisar e tratar toda a informação de natureza operacional, com vista à realização das acções de inspecção, fiscalização ou de investigação;\n\nc) Promover o planeamento das acções de fiscalização nas diferentes áreas de especialização e de intervenção, em articulação com as direcções regionais;\n\nd) Prestar apoio à coordenação da actividade operacional da ASAE desenvolvida pelos sectores de fiscalização e investigação e técnico-periciais, propondo as acções mais adequadas;\n\ne) Conceber e optimizar metodologias de actuação visando a prevenção e a repressão das infracções no âmbito das competências da ASAE;\n\nf) Elaborar instruções e procedimentos visando a eficaz execução da actividade da ASAE."
+  },
+  "51054575": {
+   "fragment_id": "37620775",
+   "type": 11,
+   "heading": "Artigo 16.º — Direcção de Serviços Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direcção de Serviços Gerais\n\nA DSG promove e assegura a administração e gestão dos recursos humanos, financeiros, patrimoniais, informáticos, de biblioteca, documentação e expediente, competindo-lhe, designadamente:\n\na) Elaborar os estudos necessários à afectação e gestão de recursos humanos;\n\nb) Estudar a aplicação de métodos actualizados de gestão de recursos humanos e promover a realização das acções necessárias à implementação do plano anual de formação, tendo em atenção os objectivos de modernização administrativa e as necessidades gerais e específicas dos diversos departamentos e unidades orgânicas;\n\nc) Coligir e organizar a informação relativa aos recursos humanos visando uma gestão optimizada e elaborar o balanço social;\n\nd) Assegurar o processamento dos vencimentos e abonos relativos ao pessoal, bem como o expediente relacionado com os benefícios sociais a que têm direito;\n\ne) Elaborar os projectos de orçamentos e respectivas alterações, bem como todos os elementos necessários à gestão previsional;\n\nf) Exercer o controlo orçamental e a avaliação da afectação dos recursos financeiros às actividades desenvolvidas pelos órgãos e serviços;\n\ng) Promover e assegurar todos os procedimentos inerentes à liquidação das despesas e à eficaz cobrança das receitas;\n\nh) Elaborar e instruir os processos de aquisição de equipamentos, bens e serviços;\n\ni) Definir, organizar e gerir o sistema integrado de informação;\n\nj) Garantir a gestão da rede de comunicações e propor novas arquitecturas que permitam assegurar elevados níveis de segurança, fiabilidade e operacionalidade;\n\nl) Definir, organizar e orientar tecnicamente o sistema de documentação;\n\nm) Assegurar a recepção, classificação, registo, distribuição e envio de correspondência."
+  },
+  "51054675": {
+   "fragment_id": "37620875",
+   "type": 11,
+   "heading": "Artigo 17.º — Laboratório Central de Qualidade Alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Laboratório Central de Qualidade Alimentar\n\n1 - Ao LCQA compete, designadamente:\n\na) Realizar as análises destinadas ao controlo oficial na perspectiva de prevenção e repressão das infracções contra a genuinidade e qualidade dos géneros alimentícios e respectivas matérias-primas e assegurar o funcionamento do júri de prova organoléptica;\n\nb) Promover e coordenar as actividades relativas ao estudo de métodos de análise e aos estudos interlaboratoriais para harmonização de processos e técnicas de análise;\n\nc) Colaborar com a Comissão Europeia e com organismos internacionais, como o Comité Europeu de Normalização, a Organização Internacional de Normalização e a Comissão do Codex Alimentarius, para estudo de novos métodos de análise;\n\nd) Assegurar a realização de análises e estudos decorrentes da obrigatoriedade inerente a laboratório acreditado pelo Conselho Oleícola Internacional;\n\ne) Participar em cadeias de avaliação de capacidade laboratorial com vista ao reconhecimento no âmbito do controlo europeu coordenado;\n\nf) Proceder à análise e estudo das medidas necessárias à elaboração da legislação nacional e comunitária no domínio dos critérios de pureza e condições de utilização de aditivos alimentares e auxiliares tecnológicos, bem como dos teores admissíveis de contaminantes em todos os géneros alimentícios e respectivas matérias-primas;\n\ng) Elaborar e assegurar a actualização do Manual de Qualidade e garantir a acreditação do LCQA pelo organismo nacional competente;\n\nh) Colaborar com os restantes laboratórios nacionais e regionais oficiais nos domínios da formação profissional e da execução das tarefas inerentes à respectiva acreditação;\n\ni) Emanar as directivas funcionais necessárias à uniformização de métodos e procedimentos dos laboratórios regionais;\n\nj) Executar as análises solicitadas por entidades públicas no domínio da sua especialidade e exercer quaisquer outras acções ou funções que lhe sejam superiormente determinadas.\n\n2 - O LCQA é dirigido por um director de serviços."
+  },
+  "51054775": {
+   "fragment_id": "37620975",
+   "type": 11,
+   "heading": "Artigo 18.º — Gabinete de Documentação e de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Gabinete de Documentação e de Formação\n\nO GDF assegura o tratamento da legislação que regula o exercício das actividades económicas nas suas duas vertentes, o tratamento da documentação técnica e científica com interesse para a ASAE, bem como procede à preparação das acções de formação inerentes às carreiras de inspecção, competindo-lhe, designadamente:\n\na) Proceder à investigação de fontes documentais nacionais e estrangeiras com interesse específico para a actividade da ASAE;\n\nb) Recolher, organizar, difundir e manter actualizada a legislação específica e a informação inerente à actividade da ASAE;\n\nc) Apoiar outros serviços na selecção de documentação científica e técnica de interesse para a ASAE;\n\nd) Colaborar com os serviços ou organismos do Ministério na elaboração de procedimentos com vista à implementação de um sistema de gestão de qualidade;\n\ne) Elaborar os conteúdos programáticos, preparar os respectivos manuais e assegurar a realização das acções de formação interna e específica destinada ao pessoal das carreiras de inspecção;\n\nf) Assegurar a articulação com outros organismos nacionais e promover relações de cooperação com organismos homólogos internacionais."
+  },
+  "51054875": {
+   "fragment_id": "37621075",
+   "type": 11,
+   "heading": "Artigo 19.º — Gabinete de Apoio Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Gabinete de Apoio Jurídico\n\n1 - Ao GAJ compete, designadamente:\n\na) Assegurar o apoio jurídico a todos os órgãos e serviços da ASAE;\n\nb) Elaborar pareceres, estudos e informações relativos à actividade operacional;\n\nc) Instruir processos disciplinares e realizar processos de averiguações e inquéritos que lhe sejam determinados;\n\nd) Analisar e preparar resposta a exposições, reclamações ou recursos;\n\ne) Dar parecer jurídico sobre projectos de diplomas preparados por outros organismos relacionados com a actividade da ASAE sobre os quais deva obrigatoriamente pronunciar-se;\n\nf) Garantir o exercício do patrocínio judiciário;\n\ng) Elaborar projectos de decisão nos processos de contra-ordenação que caiba à ASAE decidir, nos termos da legislação aplicável, e assegurar o processamento subsequente;\n\nh) Preparar e analisar protocolos e outros instrumentos contratuais nos quais a ASAE participe.\n\n2 - O GAJ é dirigido por um director de serviços."
+  },
+  "51054975": {
+   "fragment_id": "37621175",
+   "type": 11,
+   "heading": "Artigo 20.º — Direcções regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direcções regionais\n\n1 - No âmbito das respectivas áreas geográficas de actuação, as direcções regionais são serviços que têm por finalidade desenvolver as diligências necessárias e adequadas ao cumprimento das atribuições previstas no presente decreto-lei, competindo-lhes, designadamente, assegurar a fiscalização do cumprimento das normas legais que disciplinam as actividades económicas nos sectores alimentar e não alimentar.\n\n2 - As direcções regionais da ASAE têm por área geográfica de actuação o continente, na configuração definida pelo nível II da Nomenclatura de Unidades Territoriais (NUTS), sem prejuízo de eventuais ajustamentos que se revelem necessários, mediante despacho do ministro que tutela a área da economia.\n\n3 - As direcções regionais são dirigidas por directores regionais, equiparados a dirigentes intermédios do 1.º grau, que dependem do presidente ou de um vice-presidente, com excepção do director científico para os riscos da cadeia alimentar, nas competências que naquele forem delegadas.\n\n4 - Compete aos directores regionais, no âmbito da respectiva área geográfica:\n\na) Representar o presidente;\n\nb) Assegurar o cumprimento de todas as atribuições da ASAE;\n\nc) Zelar pelo cumprimento das orientações do presidente;\n\nd) Coadjuvar as autoridades judiciárias;\n\ne) Controlar a legalidade e adequação nos actos de intervenção da ASAE.\n\n5 - As direcções regionais compreendem os seguintes sectores especializados de intervenção:\n\na) Sectores de fiscalização e investigação (SFI), até um máximo de sete;\n\nb) Sector técnico-pericial, até um máximo de dois.\n\n6 - As direcções regionais, para a prossecução das acções inerentes à fiscalização, podem estruturar-se em unidades dirigidas por dirigentes intermédios do 2.º grau.\n\n7 - Cada direcção regional dispõe de um núcleo de apoio administrativo."
+  },
+  "51055075": {
+   "fragment_id": "37621275",
+   "type": 11,
+   "heading": "Artigo 21.º — Sectores de fiscalização e investigação e sectores técnico-periciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Sectores de fiscalização e investigação e sectores técnico-periciais\n\n1 - Aos SFI compete desenvolver as atribuições da ASAE no domínio da fiscalização e investigação do cumprimento das obrigações legais que disciplinam as actividades económicas nos sectores alimentar e não alimentar.\n\n2 - Os SFI são coordenados por funcionários das carreiras de inspecção, preferencialmente da carreira de inspector superior, sendo designados por despacho do presidente, sob proposta dos respectivos directores regionais.\n\n3 - Quando dirijam no mínimo três brigadas, constituídas cada uma por dois funcionários das carreiras de inspecção, os coordenadores dos SFI são remunerados pelo índice correspondente à respectiva carreira e escalão, majorado de um impulso de 55 pontos, tendo como limite a remuneração base de um dirigente intermédio do 2.º grau.\n\n4 - Aos sectores técnico-periciais compete prestar assessoria técnica, através da realização de estudos, perícias, concepção, adaptação e aplicação de métodos e processos técnico-científicos.\n\n5 - Os sectores técnico-periciais são coordenados, preferencialmente, por funcionários das carreiras de inspecção superior ou técnica superior, designados por despacho do presidente, sob proposta dos respectivos directores regionais, de quem dependem directamente.\n\n6 - Quando os sectores técnico-periciais tiverem um mínimo de seis funcionários das carreiras de inspecção ou técnicas, os respectivos coordenadores são remunerados pelo índice correspondente à respectiva carreira e escalão, majorado de um impulso de 55 pontos, tendo como limite a remuneração base de um dirigente intermédio do 2.º grau."
+  },
+  "51055175": {
+   "fragment_id": "37621375",
+   "type": 11,
+   "heading": "Artigo 22.º — Núcleos de apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Núcleos de apoio administrativo\n\n1 - Compete ao núcleo de apoio administrativo de cada direcção regional e de cada delegação assegurar as tarefas de natureza administrativa nos termos a definir pelo director regional.\n\n2 - O núcleo de apoio administrativo é coordenado por um funcionário da carreira técnico-profissional ou administrativa designado por despacho do presidente, sob proposta do director regional do qual depende directamente.\n\n3 - Os coordenadores dos núcleos de apoio administrativo são remunerados pelo índice imediatamente superior ao que detêm ou, caso se encontrem posicionados no último escalão, por um índice correspondente a um acréscimo de 20 pontos."
+  },
+  "51055275": {
+   "fragment_id": "37621475",
+   "type": 11,
+   "heading": "Artigo 23.º — Delegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Delegações\n\n1 - As delegações das direcções regionais, chefiadas por dirigentes intermédios do 2.º grau, prosseguem as finalidades das respectivas direcções regionais na área geográfica que lhes for atribuída, bem como as competências que lhes forem delegadas pelo respectivo director regional.\n\n2 - As delegações das direcções regionais são criadas, alteradas e extintas por despacho conjunto dos ministros responsáveis pelas áreas das finanças, Administração Pública e economia.\n\n3 - Os dirigentes das delegações das direcções regionais dependem directamente do respectivo director regional.\n\n4 - O número de sectores de fiscalização e instrução e técnico-periciais em cada delegação não pode ser superior a quatro.\n\n5 - Cada delegação pode dispor de um núcleo de apoio administrativo."
+  },
+  "51055375": {
+   "fragment_id": "36115875",
+   "type": 1,
+   "heading": "Capítulo III — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização e funcionamento"
+  },
+  "51055475": {
+   "fragment_id": "37621575",
+   "type": 11,
+   "heading": "Artigo 24.º — Flexibilidade estrutural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Flexibilidade estrutural\n\nO funcionamento e a gestão da ASAE assentam numa estrutura flexível e baseiam-se no modelo de gestão participada e integrada na definição e realização dos objectivos de controlo e avaliação sistemática dos resultados."
+  },
+  "51055575": {
+   "fragment_id": "37621675",
+   "type": 11,
+   "heading": "Artigo 25.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Princípios de gestão\n\n1 - O funcionamento da ASAE assenta na estrutura definida no presente decreto-lei e na articulação com os serviços centrais com vista à realização dos objectivos comuns dos ministérios.\n\n2 - A gestão da ASAE orienta-se por objectivos previamente definidos e pelo adequado controlo de resultados e dos respectivos custos financeiros."
+  },
+  "51055675": {
+   "fragment_id": "37621775",
+   "type": 11,
+   "heading": "Artigo 26.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Instrumentos de gestão\n\nA actividade da ASAE obedece às normas gerais estabelecidas para o regime financeiro dos serviços dotados de autonomia administrativa, sendo utilizados os seguintes instrumentos de gestão:\n\na) Plano estratégico de médio prazo, actualizado anualmente, contemplando as linhas de orientação da ASAE;\n\nb) Plano anual de actividades;\n\nc) Orçamento anual, elaborado com base no plano de actividades, e suas actualizações;\n\nd) Relatório anual de actividades;\n\ne) Conta de gerência anual;\n\nf) Balanço social;\n\ng) Outros documentos de acompanhamento regular da actividade e da execução orçamental."
+  },
+  "51055775": {
+   "fragment_id": "37621875",
+   "type": 11,
+   "heading": "Artigo 27.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Receitas\n\nConstituem receitas da ASAE:\n\na) As dotações provenientes do Orçamento do Estado;\n\nb) O produto de serviços prestados;\n\nc) O produto da venda de publicações;\n\nd) O produto das coimas cobradas em processos de contra-ordenação, na mesma proporção com que revertiam para os serviços extintos ou reestruturados;\n\ne) O produto da cobrança das taxas relativas às bebidas espirituosas não vínicas;\n\nf) Quaisquer outras receitas que por lei, contrato ou a qualquer outro título lhe sejam atribuídas."
+  },
+  "51055875": {
+   "fragment_id": "37621975",
+   "type": 11,
+   "heading": "Artigo 28.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Despesas\n\nConstituem despesas da ASAE as que resultem dos encargos e responsabilidades decorrentes da prossecução das suas actividades."
+  },
+  "51055975": {
+   "fragment_id": "37622075",
+   "type": 11,
+   "heading": "Artigo 29.º — Cobrança coerciva de dívidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cobrança coerciva de dívidas\n\n1 - A cobrança coerciva de dívidas à ASAE é efectuada através do processo de execução fiscal.\n\n2 - O processo referido no número anterior tem por base certidão emitida com valor de título executivo, de acordo com o disposto no artigo 162.º do Código de Procedimento e de Processo Tributário."
+  },
+  "51056075": {
+   "fragment_id": "36115975",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "51056175": {
+   "fragment_id": "37622175",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regime de pessoal\n\n1 - O pessoal da ASAE integrado nas carreiras de inspecção está sujeito ao regime jurídico da função pública e rege-se pelo Decreto-Lei n.º 112/2001, de 6 de Abril.\n\n2 - O restante pessoal da ASAE rege-se pelas normas aplicáveis ao contrato individual de trabalho."
+  },
+  "51056275": {
+   "fragment_id": "37622275",
+   "type": 11,
+   "heading": "Artigo 31.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Quadros de pessoal\n\n1 - Os lugares do quadro de pessoal dirigente da ASAE constam do quadro anexo ao presente decreto-lei, que dele faz parte integrante.\n\n2 - Para a execução das atribuições da ASAE, as direcções de serviço podem estruturar-se em divisões, cujas competências são definidas por despacho do presidente, a publicar no Diário da República, sem prejuízo do estabelecido no número anterior.\n\n3 - A ASAE dispõe de um quadro de pessoal em regime de função pública para as carreiras de inspecção e de um quadro de pessoal em regime de contrato individual de trabalho para os demais trabalhadores.\n\n4 - Os quadros de pessoal referidos no número anterior são aprovados por portaria conjunta dos ministros responsáveis pelas áreas das finanças, da Administração Pública e da economia."
+  },
+  "51056375": {
+   "fragment_id": "37622375",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime de duração do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regime de duração do trabalho\n\n1 - Ao pessoal da ASAE é aplicado o regime de duração do trabalho estabelecido para a função pública, salvo o disposto no número seguinte.\n\n2 - O serviço prestado pelo pessoal das carreiras de inspecção é de carácter permanente, o que implica a obrigatoriedade da sua prestação durante o dia ou à noite, incluindo os dias de descanso e feriados, consoante as necessidades de serviço."
+  },
+  "51056475": {
+   "fragment_id": "37622475",
+   "type": 11,
+   "heading": "Artigo 33.º — Segredo profissional e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Segredo profissional e incompatibilidades\n\n1 - Os membros dos órgãos da ASAE, o respectivo pessoal e as pessoas ou entidades que lhe prestem, a título permanente ou ocasional, quaisquer serviços ficam sujeitos a segredo profissional sobre os factos e documentos cujo conhecimento resulte do exercício das suas funções ou da prestação de serviços referidos e, seja qual for a finalidade, não podem divulgar nem utilizar em proveito próprio ou alheio, directamente ou por interposta pessoa, o conhecimento que advenha de tais factos.\n\n2 - O dever de segredo profissional mantém-se ainda que as pessoas ou entidades a ele sujeitas, nos termos do disposto no número anterior, deixem de prestar serviços à ASAE.\n\n3 - Sem prejuízo da responsabilidade civil ou criminal que dela resulte, a violação do segredo profissional estabelecido no presente artigo quando cometida por um dos membros dos órgãos da ASAE ou pelo seu pessoal implica para o infractor as sanções disciplinares correspondentes à sua gravidade, que podem ir até à destituição, demissão ou rescisão do respectivo contrato de trabalho, e quando praticada por pessoa ou entidade vinculada à ASAE por um contrato de prestação de serviços ou avença confere ao presidente o direito de resolver imediatamente esse contrato.\n\n4 - Sem prejuízo das disposições legais sobre incompatibilidades, o pessoal das carreiras de inspecção em serviço efectivo e os membros do conselho científico e das comissões técnicas não podem exercer cargos de gerência, administração ou quaisquer outras funções, sejam ou não remuneradas, ao serviço de quaisquer entidades cuja actividade esteja no âmbito das atribuições da ASAE."
+  },
+  "51056575": {
+   "fragment_id": "37622575",
+   "type": 11,
+   "heading": "Artigo 34.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Formação\n\nA ASAE promove a organização de acções de aperfeiçoamento e reciclagem profissionais e de cursos de formação profissional destinados à preparação, especialização e aperfeiçoamento dos funcionários do seu quadro, podendo fazê-lo em colaboração com outras entidades."
+  },
+  "51056675": {
+   "fragment_id": "37622675",
+   "type": 11,
+   "heading": "Artigo 35.º — Mobilidade geográfica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Mobilidade geográfica\n\n1 - A mobilidade do pessoal do quadro da ASAE para localidade diferente daquela onde exerce funções pode fazer-se a seu pedido ou na sequência de promoção, nos termos do respectivo concurso.\n\n2 - O pessoal das carreiras de inspecção pode, por conveniência de serviço, ser colocado temporariamente, sem a sua anuência, em localidade diferente daquela onde exerce funções.\n\n3 - A colocação a que se refere o número anterior, para a qual são escolhidos prioritária e rotativamente os funcionários mais modernos na respectiva categoria, deve obedecer aos requisitos abaixo indicados:\n\na) Ser objecto de despacho fundamentado do presidente;\n\nb) Operar-se dentro da área territorial da direcção regional onde o funcionário se encontre colocado ou para um distrito limítrofe daquela área;\n\nc) Não ultrapassar o período de um ano, o qual pode ser prorrogado, excepcionalmente, por mais um ano, por despacho do ministro que tutela a área da economia, sob proposta do presidente."
+  },
+  "51056775": {
+   "fragment_id": "37622775",
+   "type": 11,
+   "heading": "Artigo 36.º — Subsídio de deslocação e de residência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Subsídio de deslocação e de residência\n\nO pessoal das carreiras de inspecção da ASAE colocado, por conveniência de serviço, em localidade diferente daquela onde exerce funções tem direito a um subsídio de residência, nos termos definidos nos artigos 7.º a 10.º do Decreto-Lei n.º 190/99, de 5 de Junho, a um subsídio fixo correspondente a 30 dias de ajudas de custo a que teria direito por deslocações da sua residência habitual, ao subsídio de deslocação referido no artigo 12.º do Decreto-Lei n.º 190/99, de 5 de Junho, e a faltar ao serviço até 5 dias, nos termos definidos no artigo 13.º do mesmo diploma."
+  },
+  "51056875": {
+   "fragment_id": "37622875",
+   "type": 11,
+   "heading": "Artigo 37.º — Patrocínio judiciário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Patrocínio judiciário\n\n1 - Os funcionários da ASAE que sejam arguidos em processo contra-ordenacional, disciplinar ou judicial por actos cometidos ou ocorridos no exercício e por causa das suas funções têm direito a ser assistidos por advogado retribuído a expensas do Estado, através da ASAE, bem como a transporte e ajudas de custo quando a localização do tribunal ou das entidades policiais o justifique.\n\n2 - O disposto no número anterior não afasta a obrigação de ressarcir o Estado em todas as despesas suportadas sempre que o funcionário venha a ser condenado em qualquer dos processos referidos no número anterior logo que a decisão ou a sentença judicial tenham transitado em julgado.\n\n3 - O advogado referido no n.º 1 é indicado pela ASAE, ouvido o interessado."
+  },
+  "51056975": {
+   "fragment_id": "36116075",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "51057075": {
+   "fragment_id": "37622975",
+   "type": 11,
+   "heading": "Artigo 38.º — Transferência de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Transferência de competências\n\n1 - A competência para a aplicação das coimas e sanções acessórias, que incumbia aos serviços e organismos extintos, transita para a Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade.\n\n2 - Consideram-se transferidas para a ASAE todas as competências em matéria de fiscalização e instrução processual anteriormente cometidas aos serviços e organismos extintos ou reestruturados por força do constante neste decreto-lei.\n\n3 - Até à entrada em vigor da lei que aprove o novo enquadramento da investigação das actividades económicas mantém-se em vigor o capítulo IV do Decreto-Lei n.º 46/2004, de 3 de Março.\n\n4 - As competências da Direcção de Serviços de Certificação, Normalização, Promoção e Garantia da Qualidade Alimentar e do Gabinete de Trocas Intracomunitárias e com Países Terceiros da Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA) transitam para a DGV."
+  },
+  "51057175": {
+   "fragment_id": "37623075",
+   "type": 11,
+   "heading": "Artigo 39.º — Contrato individual de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Contrato individual de trabalho\n\n1 - Os funcionários que não sejam integrados nas carreiras de inspecção podem optar pelo regime de contrato individual de trabalho mediante declaração escrita, individual e irrevogável, dirigida ao dirigente máximo do serviço.\n\n2 - A opção referida no número anterior implica a exoneração do lugar de origem e a cessação do vínculo à função pública com efeitos à data da publicação do correspondente aviso no Diário da República."
+  },
+  "51057275": {
+   "fragment_id": "37623175",
+   "type": 11,
+   "heading": "Artigo 40.º — Manutenção do vínculo à função pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Manutenção do vínculo à função pública\n\nOs funcionários referidos no n.º 1 do artigo anterior que não optem pelo regime do contrato individual de trabalho continuam sujeitos ao regime jurídico da função pública, sem perda de quaisquer direitos."
+  },
+  "51057375": {
+   "fragment_id": "37623275",
+   "type": 11,
+   "heading": "Artigo 41.º — Quadro de pessoal transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Quadro de pessoal transitório\n\n1 - É criado na ASAE um quadro de pessoal transitório, a aprovar por portaria conjunta dos Ministros de Estado e das Finanças e da tutela, em que são integrados os funcionários que transitem dos serviços e organismos extintos ou reestruturados por força do disposto no presente decreto-lei e que não optem pelo contrato individual de trabalho nos termos do artigo anterior.\n\n2 - Os lugares do quadro a que se refere o número anterior extinguem-se à medida que vagarem.\n\n3 - Até à aprovação do quadro a que se refere o n.º 1 mantêm-se em vigor os quadros de pessoal dos serviços extintos ou reestruturados por força do presente decreto-lei.\n\n4 - O mapa de pessoal em regime de contrato individual de trabalho é ajustado periodicamente e pela forma prevista no n.º 1 do presente artigo à medida que se extinguirem os lugares do quadro da função pública, não podendo em caso algum a ASAE exceder um volume global de emprego a definir na portaria prevista no artigo 31.º"
+  },
+  "51057475": {
+   "fragment_id": "37623375",
+   "type": 11,
+   "heading": "Artigo 42.º — Protecção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Protecção social\n\nSem prejuízo de outras contribuições previstas na lei, a ASAE contribui para o financiamento da Caixa Geral de Aposentações com uma importância mensal de montante idêntico ao das quotas pagas pelos seus trabalhadores abrangidos pelo regime de protecção social da função pública."
+  },
+  "51057575": {
+   "fragment_id": "37623475",
+   "type": 11,
+   "heading": "Artigo 43.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Situações especiais\n\n1 - Os funcionários do quadro da Inspecção-Geral das Actividades Económicas (IGAE), da DGFCQA e da Agência Portuguesa de Segurança Alimentar, I.P. (APSA), que se encontrem a exercer funções em outros serviços ou organismos em regime de destacamento, requisição ou comissão de serviço mantêm essa situação até ao termo do respectivo prazo.\n\n2 - Ao pessoal que se encontre na situação de licença sem vencimento de longa duração é aplicado o disposto no Decreto-Lei n.º 193/2002, de 25 de Setembro.\n\n3 - Os funcionários que se encontram destacados ou requisitados na APSA, na IGAE e na DGFCQA podem optar pela sua integração no quadro de pessoal da ASAE na mesma categoria e carreira, aplicando-se o disposto no n.º 3 do artigo 47.º"
+  },
+  "51057675": {
+   "fragment_id": "37623575",
+   "type": 11,
+   "heading": "Artigo 44.º — Concursos e estágios pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Concursos e estágios pendentes\n\n1 - Mantêm-se válidos os concursos de pessoal abertos anteriormente à data de entrada em vigor do presente decreto-lei.\n\n2 - O pessoal que à data de entrada em vigor do presente decreto-lei se encontre em regime de estágio mantém-se nesta situação até à conclusão do mesmo, devendo, consoante os casos e se necessário, ser nomeado novo júri ou elementos do júri, o qual procede à respectiva avaliação e classificação final."
+  },
+  "51057775": {
+   "fragment_id": "37623675",
+   "type": 11,
+   "heading": "Artigo 45.º — Comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Comissões de serviço\n\n1 - Com a entrada em vigor do presente decreto-lei cessam as comissões de serviço de todos os dirigentes de nível superior dos organismos extintos.\n\n2 - Cessam igualmente as comissões de serviço dos dirigentes de nível intermédio, do 1.º e do 2.º graus dos serviços extintos, podendo manter-se, por despacho do presidente da ASAE, em regime de gestão corrente até à nomeação dos novos titulares."
+  },
+  "51057875": {
+   "fragment_id": "37623775",
+   "type": 11,
+   "heading": "Artigo 46.º — Transição de pessoal e regime de supranumerários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Transição de pessoal e regime de supranumerários\n\n1 - Transitam para o quadro de pessoal da ASAE, de acordo com as regras estabelecidas no Decreto-Lei n.º 193/2002, de 25 de Setembro, para as mesmas carreiras e categorias que detêm os funcionários:\n\na) Do quadro de pessoal da IGAE;\n\nb) Do quadro de pessoal da DGFCQA, à excepção do pessoal afecto às unidades orgânicas a que se refere o n.º 4 do artigo 38.º, que transita para os quadros da DGV;\n\nc) Do quadro de pessoal da APSA;\n\nd) Das Divisões de Fiscalização dos Produtos de Origem Vegetal e Animal das DRA;\n\ne) Da Divisão de Alimentação Animal e da Divisão de Saúde Pública Veterinária da DGV, relativamente à execução do Plano Nacional de Controlo de Resíduos;\n\nf) Das Divisões de Fiscalização Vitivinícola I, II e III e do Laboratório do Instituto da Vinha e do Vinho (IVV);\n\ng) Do Instituto dos Vinhos do Douro e Porto (IVDP) que desempenhem funções de fiscalização a que se refere a alínea s) do artigo 5.º;\n\nh) Da Direcção-Geral das Pescas e Aquicultura (DGPA) que desempenhem funções de fiscalização a que se referem as alíneas q) e r) do artigo 5.º;\n\ni) Da Agência de Controlo das Ajudas Comunitárias ao Sector do Azeite (ACACSA) que desempenhem funções de fiscalização no âmbito das atribuições a que se refere a alínea t) do artigo 5.º\n\n2 - Exceptua-se do disposto no número anterior o pessoal a transferir para os quadros de supranumerários dos respectivos ministérios, nos termos do Decreto-Lei n.º 193/2002, de 25 de Setembro, a definir por despacho conjunto dos Ministros de Estado e das Finanças, da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "51057975": {
+   "fragment_id": "37623875",
+   "type": 11,
+   "heading": "Artigo 47.º — Transição para as carreiras de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Transição para as carreiras de inspecção\n\n1 - Os funcionários do regime geral e os da carreira de inspecção dos quadros das DGFCQA que se encontravam abrangidos pelas disposições constantes do Decreto Regulamentar n.º 25/2002, de 5 de Abril, transitam para a carreira de inspecção do quadro da ASAE sem dependência de quaisquer formalidades e de acordo com as regras de transição estabelecidas naquele diploma.\n\n2 - Os funcionários do regime geral dos quadros das DRA que se encontravam abrangidos pelas disposições constantes do Decreto Regulamentar n.º 30/2002, de 9 de Abril, transitam para a carreira de inspecção do quadro da ASAE sem dependência de quaisquer formalidades e de acordo com as regras de transição estabelecidas naquele diploma.\n\n3 - Sem prejuízo do disposto no número anterior, os funcionários do regime geral dos serviços e organismos referidos no artigo 46.º que comprovadamente estejam a desempenhar funções de fiscalização há pelo menos 5 anos e desde que tenham idade não superior a 50 anos à data da entrada em vigor do presente decreto-lei transitam para as carreiras de inspecção do quadro da ASAE mediante aprovação em estágio, com duração não inferior a 1 ano, e a classificação final mínima de Bom, que integra um curso de formação específica, nos seguintes termos:\n\na) Para a carreira de inspector superior, o pessoal das carreiras do grupo de pessoal técnico superior, com licenciatura adequada e carta de condução de veículos ligeiros, de acordo com os seguintes critérios:\n\ni) Os assessores principais para a categoria de inspector superior principal;\n\nii) Os assessores para a categoria de inspector superior;\n\niii) Os técnicos superiores principais para a categoria de inspector principal;\n\niv) Os técnicos superiores de 1.ª e 2.ª classes para a categoria de inspector;\n\nb) Para a carreira de inspector técnico, o pessoal das carreiras do grupo de pessoal técnico, habilitado com curso superior adequado que não confira grau de licenciatura e carta de condução de veículos ligeiros, de acordo com os seguintes critérios:\n\ni) Os técnicos especialistas principais para a categoria de inspector técnico especialista principal;\n\nii) Os técnicos especialistas para a categoria de inspector técnico especialista;\n\niii) Os técnicos principais para a categoria de inspector técnico principal;\n\niv) Os técnicos de 1.ª e 2.ª classes para a categoria de inspector técnico;\n\nc) Para a carreira de inspector-adjunto, o pessoal das carreiras do grupo de pessoal técnico profissional, habilitado com o 12.º ano de escolaridade ou equivalente e carta de condução de veículos ligeiros, de acordo com os seguintes critérios:\n\ni) Os técnicos profissionais especialistas principais para a categoria de inspector-adjunto especialista principal;\n\nii) Os técnicos profissionais especialistas para a categoria de inspector-adjunto especialista;\n\niii) Os técnicos profissionais principais para a categoria de inspector-adjunto principal;\n\niv) Os técnicos profissionais de 1.ª e 2.ª classes para a categoria de inspector-adjunto.\n\n4 - A transição referida no número anterior faz-se para o escalão igual ao que o funcionário detém na categoria de origem, com excepção dos técnicos superiores de 2.ª classe, dos técnicos de 2.ª classe e dos técnicos profissionais de 2.ª classe, que transitam para o escalão a que corresponda, na estrutura da categoria, índice remuneratório igual ou, se não houver coincidência, índice superior mais aproximado, não relevando, no entanto, para efeitos de progressão na carreira o tempo de serviço no escalão de origem.\n\n5 - Quando a categoria da carreira para onde transita o pessoal a que se refere o n.º 2 resulte da fusão de duas categorias, releva na nova categoria, para efeitos de promoção na carreira, apenas o tempo de serviço prestado na categoria mais elevada da anterior carreira.\n\n6 - O regulamento do estágio e o curso de formação específica referidos no n.º 3 do presente artigo são aprovados por despacho conjunto dos ministros responsáveis pelas áreas das finanças, da Administração Pública e da economia.\n\n7 - Aos funcionários das direcções regionais da economia que à data da entrada em vigor do Decreto-Lei n.º 46/2004, de 3 de Março, desempenhavam funções de fiscalização aplica-se igualmente o disposto nos n.os 3 e 4.\n\n8 - Para efeitos do estabelecido no n.º 3, consideram-se suficientes os cursos destinados às carreiras de inspecção da IGAE que se encontram aprovados à data da entrada em vigor do presente decreto-lei."
+  },
+  "51058075": {
+   "fragment_id": "37623975",
+   "type": 11,
+   "heading": "Artigo 48.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Sucessão\n\nO presente decreto-lei constitui título bastante de comprovação, para todos os efeitos legais, devendo os serviços competentes realizar, mediante simples comunicação ao presidente, os actos necessários ao registo a favor da ASAE dos bens e direitos da APSA, da IGAE, da DGFCQA, das DRA, do IVV, do IVDP, da DGPA e da ACACSA que se encontrem sujeitos a tal registo."
+  },
+  "51058175": {
+   "fragment_id": "37624075",
+   "type": 11,
+   "heading": "Artigo 49.º — Sistema de alerta rápido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Sistema de alerta rápido\n\nA ASAE, por força das suas atribuições na área da segurança alimentar, integra o conjunto de entidades a quem são obrigatoriamente comunicadas as mensagens que circulam no RASFF."
+  },
+  "51058275": {
+   "fragment_id": "37624175",
+   "type": 11,
+   "heading": "Artigo 50.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Referências legais\n\nAs referências legais à APSA, à IGAE, à DGFCQA, à DGPC, às DRA, à DGV, ao IVV, ao IVDP, à DGPA e à ACACSA relativamente às competências que pelo presente decreto-lei transitam para a ASAE consideram-se feitas a esta."
+  },
+  "51058375": {
+   "fragment_id": "37624275",
+   "type": 11,
+   "heading": "Artigo 51.º — Extinção de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Extinção de serviços\n\n1 - São extintos os seguintes serviços do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas:\n\na) DGFCQA;\n\nb) Direcções de Serviços de Fiscalização e Controlo da Qualidade Alimentar e respectivas divisões, das DRA;\n\nc) Divisão de Alimentação Animal, da DGV.\n\n2 - São extintos os seguintes serviços do Ministério da Economia e da Inovação:\n\na) IGAE;\n\nb) APSA.\n\n3 - A ASAE sucede na universalidade dos direitos e obrigações legais e contratuais dos serviços e organismos referidos nos números anteriores, incluindo os saldos existentes nas respectivas dotações orçamentais."
+  },
+  "51058475": {
+   "fragment_id": "37624375",
+   "type": 11,
+   "heading": "Artigo 52.º — Alteração de estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Alteração de estruturas\n\n1 - A estrutura nuclear dos serviços, bem como a definição das atribuições e competências das respectivas unidades orgânicas, podem ser alteradas por portaria conjunta dos ministros responsáveis pelas áreas das finanças, da Administração Pública e da economia.\n\n2 - As unidades orgânicas flexíveis podem ser criadas, alteradas ou extintas por despacho do dirigente máximo do serviço, que deve definir as respectivas atribuições e competências, bem como a afectação ou reafectação do pessoal do respectivo quadro, no âmbito do limite máximo previamente fixado em portaria do membro do Governo competente.\n\n3 - As alterações aos lugares do quadro de pessoal dirigente da ASAE resultantes da aplicação dos números anteriores são aprovadas por portaria conjunta dos ministros responsáveis pelas áreas das finanças, da Administração Pública e da economia."
+  },
+  "51058575": {
+   "fragment_id": "37624475",
+   "type": 11,
+   "heading": "Artigo 53.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 98/97, de 26 de Abril;\n\nb) Os artigos 14.º e 24.º do Decreto-Lei n.º 99/97, de 26 de Abril;\n\nc) O artigo 26.º do Decreto-Lei n.º 106/97, de 2 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os 128/97, de 24 de Maio, e 526/99, de 10 de Dezembro;\n\nd) As alíneas h), l), m), n) e o), apenas relativamente às atribuições do IVDP que transitam para a ASAE, do artigo 13.º do Decreto-Lei n.º 278/2003, de 6 de Novembro;\n\ne) O Decreto-Lei n.º 46/2004, de 3 de Março, sem prejuízo do disposto no n.º 3 do artigo 38.º;\n\nf) O Decreto-Lei n.º 217-B/2004, de 9 de Outubro;\n\ng) Os artigos 25.º a 27.º do Decreto Regulamentar n.º 13/97, de 6 de Maio;\n\nh) Os artigos 25.º a 27.º do Decreto Regulamentar n.º 14/97, de 6 de Maio;\n\ni) Os artigos 24.º a 26.º do Decreto Regulamentar n.º 15/97, de 6 de Maio;\n\nj) Os artigos 26.º a 28.º do Decreto Regulamentar n.º 16/97, de 7 de Maio;\n\nl) Os artigos 26.º a 28.º do Decreto Regulamentar n.º 17/97, de 7 de Maio;\n\nm) Os artigos 24.º a 26.º do Decreto Regulamentar n.º 18/97, de 7 de Maio;\n\nn) Os artigos 24.º a 26.º do Decreto Regulamentar n.º 19/97, de 7 de Maio."
+  },
+  "51058675": {
+   "fragment_id": "37624575",
+   "type": 11,
+   "heading": "Artigo 54.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de Janeiro de 2006."
+  },
+  "51058775": {
+   "fragment_id": "36116175",
+   "type": 14,
+   "heading": "Anexo — Quadro a que se refere o artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro a que se refere o artigo 31.º\n\n(ver quadro no documento original)"
+  },
+  "942141004": {
+   "fragment_id": "36115675",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141005": {
+   "fragment_id": "37619275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ criada a Autoridade de Segurança Alimentar e Económica, doravante designada por ASAE.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141006": {
+   "fragment_id": "37619375",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza jurídica e missão",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 2.º — Natureza jurídica e missão\n\n1 - A ASAE é um serviço da administração directa do Estado dotado de autonomia administrativa, na dependência hierárquica do ministro que tutela a área da economia.\n\n2 - A ASAE é a autoridade administrativa nacional especializada no âmbito da segurança alimentar e da fiscalização económica.\n\n3 - A ASAE é a autoridade nacional de coordenação do controlo oficial dos géneros alimentícios e o organismo nacional de ligação com outros Estados membros, sendo responsável pela avaliação e comunicação dos riscos na cadeia alimentar, bem como pela disciplina do exercício das actividades económicas nos sectores alimentar e não alimentar, mediante a fiscalização e prevenção do cumprimento da legislação reguladora das mesmas.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141007": {
+   "fragment_id": "37619475",
+   "type": 11,
+   "heading": "Artigo 3.º — Jurisdição territorial",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 3.º — Jurisdição territorial\n\n1 - A ASAE, enquanto entidade nacional responsável pela avaliação e comunicação dos riscos na cadeia alimentar e autoridade coordenadora do controlo oficial dos géneros alimentícios, tem âmbito nacional.\n\n2 - Enquanto entidade fiscalizadora das actividades económicas, a ASAE exerce a sua actividade em todo o território do continente.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141008": {
+   "fragment_id": "37619575",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime jurídico",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 4.º — Regime jurídico\n\nA ASAE rege-se pelas disposições constantes do presente decreto-lei e pelos seus regulamentos internos.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141009": {
+   "fragment_id": "37619675",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 5.º — Atribuições\n\nSão atribuições da ASAE:\n\na) Emitir pareceres científicos e técnicos, recomendações e avisos, nomeadamente em matérias relacionadas com a nutrição humana, saúde e bem-estar animal, fitossanidade e organismos geneticamente modificados;\n\nb) Recolher e analisar dados que permitam a caracterização e a avaliação dos riscos que tenham impacte, directo ou indirecto, na segurança alimentar;\n\nc) Avaliar os riscos alimentares, nomeadamente os relativos aos novos alimentos e ingredientes alimentares novos, alimentos para animais, novos processos tecnológicos e riscos emergentes;\n\nd) Promover a criação de uma rede de intercâmbio de informação entre entidades que trabalhem nos domínios das suas competências;\n\ne) Assegurar a comunicação pública e transparente dos riscos;\n\nf) Promover a divulgação da informação sobre segurança alimentar junto dos consumidores;\n\ng) Colaborar, na área das suas atribuições, com a Autoridade Europeia para a Segurança dos Alimentos;\n\nh) Acompanhar a participação técnica nacional nas diferentes instâncias internacionais em matéria de segurança alimentar, designadamente quanto às normas e procedimentos de controlo;\n\ni) Proceder à avaliação dos riscos biológicos, químicos, físicos e nutricionais e dos riscos inerentes à saúde e bem-estar animal e à alimentação animal;\n\nj) Propor a definição da estratégia da comunicação dos riscos em matéria de segurança alimentar, tendo em consideração os conteúdos, os meios e os grupos alvo da comunicação;\n\nl) Promover acções de natureza preventiva e repressiva em matéria de infracções contra a qualidade, genuinidade, composição, aditivos alimentares e outras substâncias e rotulagem dos géneros alimentícios e dos alimentos para animais;\n\nm) Assegurar, em articulação com a Direcção-Geral de Veterinária (DGV), o funcionamento dos postos de inspecção fronteiriços (PIF);\n\nn) Executar, em articulação com a (DGV), o Plano Nacional de Controlo de Resíduos;\n\no) Executar, em articulação com a Direcção-Geral de Protecção das Culturas, o Programa Oficial de Controlo de Resíduos de Pesticidas em Produtos de Origem Vegetal;\n\np) Fiscalizar os estabelecimentos de abate, preparação, tratamento e armazenamento de produtos de origem animal;\n\nq) Fiscalizar os estabelecimentos da indústria transformadora da pesca, navios-fábrica, lotas e mercados grossistas;\n\nr) Fiscalizar a cadeia de comercialização dos produtos de origem vegetal e dos produtos de origem animal, incluindo os produtos da pesca e da aquicultura;\n\ns) Fiscalizar a circulação e comércio de uvas destinadas à produção de vinho, de mosto e de vinho em todo o território nacional;\n\nt) Fiscalizar os lagares de azeite, bem como o destino do azeite obtido da azeitona laborada e seus subprodutos;\n\nu) Fiscalizar a oferta de produtos e serviços nos termos legalmente previstos e, quando for caso disso, proceder à investigação e instrução de processos por contra-ordenação cuja competência lhe esteja legalmente atribuída;\n\nv) Fiscalizar o cumprimento das obrigações legais dos agentes económicos, assegurando a instrução dos respectivos processos de contra-ordenação, sem prejuízo das competências atribuídas por lei a outras entidades;\n\nx) Fiscalizar todos os locais onde se proceda a qualquer actividade industrial, comercial, agrícola, piscatória ou de prestação de serviços, designadamente de produtos acabados e ou intermédios, armazéns, escritórios, meios de transporte, entrepostos frigoríficos, empreendimentos turísticos, empreendimentos de turismo no espaço rural, estabelecimentos de turismo de natureza, agências de viagens, empresas de animação turística, estabelecimentos de restauração e bebidas, cantinas e refeitórios, recintos de diversão ou de espectáculos, portos, gares e aerogares, sem prejuízo das competências atribuídas por lei a outras entidades;\n\nz) Proceder à realização de perícias e colheitas de amostras nos locais onde se produzam, comercializem e ministrem alimentos para animais;\n\naa) Executar, em colaboração com outros organismos competentes, as medidas destinadas a assegurar o abastecimento do País em bens e serviços considerados essenciais, tendo em vista prevenir situações de açambarcamento;\n\nbb) Promover e colaborar na divulgação da legislação sobre o exercício dos diferentes sectores da economia cuja fiscalização lhe esteja atribuída junto das associações de consumidores, associações empresariais, associações agrícolas e das pescas, organizações sindicais e agentes económicos;\n\ncc) Promover a divulgação dos resultados da actividade operacional de fiscalização, sem prejuízo das regras inerentes ao segredo de justiça;\n\ndd) Arquivar os processos de contra-ordenação cuja competência instrutória lhe esteja legalmente atribuída, sempre que se verificar que os factos que constam dos autos não constituem infracção ou não existam elementos de prova susceptíveis de imputar a prática da infracção a um determinado agente;\n\nee) Prosseguir quaisquer outras atribuições que lhe sejam cometidas por lei.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141010": {
+   "fragment_id": "37619775",
+   "type": 11,
+   "heading": "Artigo 6.º — Princípios orientadores",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 6.º — Princípios orientadores\n\nA ASAE, no exercício da sua missão, rege-se pelos princípios da independência científica, da precaução, da credibilidade e transparência e da confidencialidade.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141011": {
+   "fragment_id": "37619875",
+   "type": 11,
+   "heading": "Artigo 7.º — Cooperação com outras entidades",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 7.º — Cooperação com outras entidades\n\n1 - A ASAE e os demais serviços, organismos ou entidades com funções de prevenção e repressão criminal ou contra-ordenacional ou com funções de autoridade administrativa devem cooperar no exercício das respectivas atribuições, utilizando os mecanismos legalmente adequados.\n\n2 - A ASAE pode solicitar aos serviços e organismos do ministério que tutela a área da economia os elementos de informação e a colaboração de recursos humanos qualificados que se mostrem necessários ao desenvolvimento de projectos específicos.\n\n3 - Os organismos públicos devem prestar à ASAE a colaboração que lhes for solicitada, designadamente na área técnico-pericial.\n\n4 - Em articulação com o Ministério dos Negócios Estrangeiros, a ASAE pode estabelecer relações de cooperação com organismos similares de outros países ou com organizações internacionais.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141012": {
+   "fragment_id": "37619975",
+   "type": 11,
+   "heading": "Artigo 8.º — Rede de informação",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Rede de informação\n\nA ASAE promove a criação de uma rede de intercâmbio de informação com entidades, públicas ou privadas, no domínio das suas atribuições, que tem por objectivo, designadamente, um quadro de cooperação através da coordenação das actividades, do intercâmbio de informações e da elaboração e execução de projectos comuns.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141013": {
+   "fragment_id": "36115775",
+   "type": 1,
+   "heading": "Capítulo II — Organização, serviços e competências",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "### Capítulo II — Organização, serviços e competências\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141014": {
+   "fragment_id": "37620075",
+   "type": 11,
+   "heading": "Artigo 9.º — Órgãos e serviços",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 9.º — Órgãos e serviços\n\n1 - São órgãos da ASAE:\n\na) O presidente;\n\nb) O conselho científico.\n\n2 - São serviços centrais da ASAE:\n\na) A Direcção de Avaliação e Comunicação dos Riscos na Cadeia Alimentar (DACR);\n\nb) A Direcção de Serviços de Planeamento e Controlo Operacional (DSPCO);\n\nc) A Direcção de Serviços Gerais (DSG);\n\nd) O Laboratório Central de Qualidade Alimentar (LCQA);\n\ne) O Gabinete de Documentação e de Formação (GDF);\n\nf) O Gabinete de Apoio Jurídico (GAJ).\n\n3 - São serviços desconcentrados da ASAE:\n\na) A Direcção Regional do Norte, no Porto;\n\nb) A Direcção Regional do Centro, em Coimbra;\n\nc) A Direcção Regional de Lisboa e Vale do Tejo, em Lisboa;\n\nd) A Direcção Regional do Alentejo, em Évora;\n\ne) A Direcção Regional do Algarve, em Faro.\n\n4 - No âmbito das Direcções Regionais, são criadas as seguintes delegações, sediadas nas localidades onde, à data da entrada em vigor do presente decreto-lei, funcionam as direcções regionais de agricultura (DRA), do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas:\n\na) Delegações de Braga e de Mirandela, integradas na Direcção Regional do Norte;\n\nb) Delegação de Castelo Branco, integrada na Direcção Regional do Centro;\n\nc) Delegação de Santarém, integrada na Direcção Regional de Lisboa e Vale do Tejo.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141015": {
+   "fragment_id": "37620175",
+   "type": 11,
+   "heading": "Artigo 10.º — Presidente",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 10.º — Presidente\n\n1 - A ASAE é dirigida por um presidente, nomeado por despacho conjunto do Primeiro-Ministro e do membro do Governo responsável pela área da economia, que é coadjuvado por quatro vice-presidentes, um dos quais exerce as funções de director científico para os riscos da cadeia alimentar, nomeados por despacho do membro do Governo responsável pela área da economia.\n\n2 - Para todos os efeitos legais, são equiparados:\n\na) O presidente da ASAE a inspector-geral;\n\nb) O director científico para os riscos da cadeia alimentar a subdirector-geral;\n\nc) Os demais vice-presidentes a subinspectores-gerais.\n\n3 - Compete ao Presidente:\n\na) Representar a ASAE junto de quaisquer instituições ou organismos, nacionais ou internacionais;\n\nb) Dirigir, coordenar e orientar os serviços, bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;\n\nc) Aprovar e apresentar superiormente o plano e o relatório de actividades anuais da ASAE;\n\nd) Submeter à aprovação das entidades competentes o orçamento e as contas anuais da ASAE;\n\ne) Decidir e propor a locação e aquisição de bens e serviços no âmbito das suas competências;\n\nf) Aprovar, mediante parecer do director científico, as recomendações e avisos que vinculam a ASAE;\n\ng) Exercer os demais poderes previstos neste decreto-lei e que não estejam atribuídos a outros órgãos e serviços.\n\n4 - O director científico para os riscos da cadeia alimentar exerce as competências previstas no artigo 11.º\n\n5 - Os demais vice-presidentes exercem as competências que neles forem delegadas ou subdelegadas pelo presidente, sendo este substituído, nas suas ausências e impedimentos, por aquele que para o efeito designar.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141016": {
+   "fragment_id": "37620275",
+   "type": 11,
+   "heading": "Artigo 11.º — Director científico para os riscos na cadeia alimentar",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 11.º — Director científico para os riscos na cadeia alimentar\n\nO director científico para os riscos na cadeia alimentar reporta directamente ao presidente da ASAE, competindo-lhe, designadamente:\n\na) Dirigir, coordenar e orientar a DACR, bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;\n\nb) Emitir parecer sobre as recomendações e avisos que vinculam a ASAE e sobre as iniciativas propostas pelo conselho científico ao presidente;\n\nc) Assegurar a necessária articulação com os organismos congéneres dos países da União Europeia;\n\nd) Propor ao membro do Governo responsável pela área da economia a nomeação dos membros do conselho científico;\n\ne) Aprovar as iniciativas que lhe são propostas pelo conselho científico, designadamente a criação e a composição de comissões técnicas especializadas;\n\nf) Divulgar os pareceres do conselho científico;\n\ng) Proceder aos contactos com os órgãos de comunicação, nos termos a articular com o presidente.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141017": {
+   "fragment_id": "37620375",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho científico",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 12.º — Conselho científico\n\n1 - O conselho científico é o órgão de consulta especializada do director científico em matérias científicas, de desenvolvimento tecnológico e de projectos de investigação, gozando de plena autonomia técnico-científica para o efeito.\n\n2 - O conselho científico, nomeado por despacho do membro do Governo responsável pela área da economia, sob proposta do director científico, tem a seguinte composição:\n\na) Entre três e seis personalidades de reconhecido mérito científico;\n\nb) Os presidentes das comissões técnicas especializadas;\n\nc) Três membros, com adequado currículo e de reconhecido mérito em matérias técnico-científicas, escolhidos de entre funcionários da DACR.\n\n3 - Ao conselho científico compete, designadamente:\n\na) Emitir pareceres científicos, por sua iniciativa, mediante aprovação do director científico, ou a solicitação deste ou de entidades responsáveis por interesses relevantes na área da segurança alimentar, incluindo, para além dos organismos e serviços públicos com competências no sector alimentar, as associações mais representativas de consumidores, produtores, industriais e comerciantes;\n\nb) Proceder à coordenação geral necessária para garantir a coerência do procedimento de formulação de pareceres científicos, em particular no que respeita à adopção de regras de funcionamento e à harmonização dos métodos de trabalho;\n\nc) Acompanhar o progresso científico e técnico na área da segurança alimentar;\n\nd) Proceder, entre outras actividades, à avaliação dos riscos na cadeia alimentar e propor as medidas legislativas e administrativas adequadas;\n\ne) Propor ao director científico a realização de estudos, conferências, colóquios, seminários e outras actividades destinadas a avaliar, aprofundar e divulgar o conhecimento da segurança alimentar;\n\nf) Propor ao director científico a criação e composição de comissões técnicas especializadas;\n\ng) Activar as comissões técnicas especializadas sempre que tal se mostre necessário face à especificidade das matérias sobre as quais se devam pronunciar;\n\nh) Elaborar o projecto de regulamento interno e submetê-lo ao director científico.\n\n4 - O conselho científico reúne ordinariamente uma vez em cada trimestre e extraordinariamente sempre que for convocado pelo seu presidente.\n\n5 - O conselho científico elege, de entre os membros a que alude a alínea a) do n.º 2, o respectivo presidente e delibera sobre a sua organização e funcionamento, prevendo a eventual participação de peritos externos, em regulamento interno.\n\n6 - O conselho científico reporta directamente ao director científico.\n\n7 - Para efeitos da comunicação de riscos, o conselho científico está inibido de proceder à comunicação dos riscos, bem como a qualquer outra manifestação ou declaração relacionada com as competências deste órgão, sem obtenção de prévia e expressa autorização do presidente da ASAE, a solicitar mediante comunicação ao director científico.\n\n8 - Os membros do conselho científico, salvo aqueles que são trabalhadores da ASAE, têm direito ao abono de senhas de presença no valor de 55% do índice 100 da escala salarial do regime geral da função pública por cada reunião em que efectivamente participem.\n\n9 - Independentemente do número de reuniões em que participem, os membros do conselho científico com direito ao abono de senhas de presença não podem auferir por cada mês mais do dobro do valor referido no número anterior, salvo proposta fundamentada do presidente do conselho científico e mediante autorização do Ministro de Estado e das Finanças.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141018": {
+   "fragment_id": "37620475",
+   "type": 11,
+   "heading": "Artigo 13.º — Comissões técnicas especializadas",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 13.º — Comissões técnicas especializadas\n\n1 - As comissões técnicas especializadas são equipas multidisciplinares que funcionam como estruturas de apoio ao conselho científico, constituídas por personalidades com qualificação e experiência nas respectivas áreas, que actuam sob sua orientação e superintendência.\n\n2 - São criadas comissões técnicas especializadas nas seguintes áreas, sem prejuízo do disposto na alínea f) do n.º 3 do artigo 12.º:\n\na) Aditivos alimentares, aromatizantes, auxiliares tecnológicos e materiais em contacto com géneros alimentícios;\n\nb) Aditivos e produtos ou substâncias utilizados nos alimentos para animais;\n\nc) Fitossanidade dos produtos fitossanitários e respectivos resíduos;\n\nd) Organismos geneticamente modificados (OGM);\n\ne) Produtos dietéticos, nutrição e alergias;\n\nf) Riscos biológicos;\n\ng) Contaminantes da cadeia alimentar;\n\nh) Saúde e bem-estar animal.\n\n3 - Até à designação dos presidentes das comissões técnicas especializadas, estas são presididas por um membro do conselho científico a que se refere a alínea a) do n.º 2 do artigo 12.º\n\n4 - As regras de funcionamento das comissões técnicas especializadas são fixadas em regulamento a apresentar ao director científico, sob proposta do conselho científico.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141019": {
+   "fragment_id": "37620575",
+   "type": 11,
+   "heading": "Artigo 14.º — Direcção de Avaliação e Comunicação dos Riscos na Cadeia Alimentar",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 14.º — Direcção de Avaliação e Comunicação dos Riscos na Cadeia Alimentar\n\n1 - No âmbito da avaliação dos riscos, a DACR procede à avaliação dos riscos biológicos, químicos, físicos e nutricionais e dos riscos inerentes à saúde e bem-estar animal e à alimentação animal, competindo-lhe, designadamente:\n\na) Proceder a estudos e elaborar pareceres técnicos e científicos;\n\nb) Proceder à recolha de dados relativos ao consumo de géneros alimentícios e à incidência e prevalência dos riscos da cadeia alimentar;\n\nc) Analisar os dados dos diferentes organismos com atribuições nas várias componentes da fileira alimentar que permitam a caracterização dos riscos com impacte directo ou indirecto na segurança alimentar;\n\nd) Analisar, de forma sistemática, informações e dados que permitam propor programas de vigilância dos riscos;\n\ne) Propor as entidades que devem integrar a rede de intercâmbio de informação e assegurar o seu funcionamento;\n\nf) Proceder ao tratamento das mensagens que circulem no sistema de alerta rápido (RASFF) e de outros sistemas de alerta ou de troca de informação;\n\ng) Programar e desenvolver acções de natureza preventiva e informativa;\n\nh) Adoptar procedimentos para a criação e manutenção de bases de dados e de registos nacionais de alimentos;\n\ni) Secretariar o conselho científico;\n\nj) Promover e organizar a realização de cursos, seminários, jornadas técnicas e outras acções de formação contínua especializada;\n\nl) Estabelecer ligações a bases de dados científicos e técnicos e cooperar cientificamente com outros organismos com actividade no domínio das suas competências.\n\n2 - A DACR, no âmbito da comunicação dos riscos, procede à definição da estratégia da comunicação dos riscos em matéria de segurança alimentar, tendo em consideração os conteúdos, os meios e os grupos alvo da comunicação, competindo-lhe, designadamente:\n\na) Planear e implementar os programas de comunicação dos riscos;\n\nb) Comunicar os pareceres, as recomendações e os avisos;\n\nc) Elaborar comunicados ou outros suportes de comunicação;\n\nd) Proporcionar informação acessível e compreensível dos pareceres científicos;\n\ne) Tornar público, em tempo útil, informações credíveis e objectivas;\n\nf) Acompanhar a preparação e difusão pública dos documentos;\n\ng) Desenvolver e colaborar em estudos de opinião;\n\nh) Proceder à divulgação da actividade da ASAE no âmbito das competências de avaliação e comunicação dos riscos;\n\ni) Elaborar o plano específico de actuação em situações de crise.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141020": {
+   "fragment_id": "37620675",
+   "type": 11,
+   "heading": "Artigo 15.º — Direcção de Serviços de Planeamento e Controlo Operacional",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 15.º — Direcção de Serviços de Planeamento e Controlo Operacional\n\nA DSPCO procede ao planeamento e acompanhamento da actividade operacional competindo-lhe, designadamente:\n\na) Efectuar estudos sobre a actividade operacional da ASAE;\n\nb) Recolher, analisar e tratar toda a informação de natureza operacional, com vista à realização das acções de inspecção, fiscalização ou de investigação;\n\nc) Promover o planeamento das acções de fiscalização nas diferentes áreas de especialização e de intervenção, em articulação com as direcções regionais;\n\nd) Prestar apoio à coordenação da actividade operacional da ASAE desenvolvida pelos sectores de fiscalização e investigação e técnico-periciais, propondo as acções mais adequadas;\n\ne) Conceber e optimizar metodologias de actuação visando a prevenção e a repressão das infracções no âmbito das competências da ASAE;\n\nf) Elaborar instruções e procedimentos visando a eficaz execução da actividade da ASAE.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141021": {
+   "fragment_id": "37620775",
+   "type": 11,
+   "heading": "Artigo 16.º — Direcção de Serviços Gerais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 16.º — Direcção de Serviços Gerais\n\nA DSG promove e assegura a administração e gestão dos recursos humanos, financeiros, patrimoniais, informáticos, de biblioteca, documentação e expediente, competindo-lhe, designadamente:\n\na) Elaborar os estudos necessários à afectação e gestão de recursos humanos;\n\nb) Estudar a aplicação de métodos actualizados de gestão de recursos humanos e promover a realização das acções necessárias à implementação do plano anual de formação, tendo em atenção os objectivos de modernização administrativa e as necessidades gerais e específicas dos diversos departamentos e unidades orgânicas;\n\nc) Coligir e organizar a informação relativa aos recursos humanos visando uma gestão optimizada e elaborar o balanço social;\n\nd) Assegurar o processamento dos vencimentos e abonos relativos ao pessoal, bem como o expediente relacionado com os benefícios sociais a que têm direito;\n\ne) Elaborar os projectos de orçamentos e respectivas alterações, bem como todos os elementos necessários à gestão previsional;\n\nf) Exercer o controlo orçamental e a avaliação da afectação dos recursos financeiros às actividades desenvolvidas pelos órgãos e serviços;\n\ng) Promover e assegurar todos os procedimentos inerentes à liquidação das despesas e à eficaz cobrança das receitas;\n\nh) Elaborar e instruir os processos de aquisição de equipamentos, bens e serviços;\n\ni) Definir, organizar e gerir o sistema integrado de informação;\n\nj) Garantir a gestão da rede de comunicações e propor novas arquitecturas que permitam assegurar elevados níveis de segurança, fiabilidade e operacionalidade;\n\nl) Definir, organizar e orientar tecnicamente o sistema de documentação;\n\nm) Assegurar a recepção, classificação, registo, distribuição e envio de correspondência.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141022": {
+   "fragment_id": "37620875",
+   "type": 11,
+   "heading": "Artigo 17.º — Laboratório Central de Qualidade Alimentar",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 17.º — Laboratório Central de Qualidade Alimentar\n\n1 - Ao LCQA compete, designadamente:\n\na) Realizar as análises destinadas ao controlo oficial na perspectiva de prevenção e repressão das infracções contra a genuinidade e qualidade dos géneros alimentícios e respectivas matérias-primas e assegurar o funcionamento do júri de prova organoléptica;\n\nb) Promover e coordenar as actividades relativas ao estudo de métodos de análise e aos estudos interlaboratoriais para harmonização de processos e técnicas de análise;\n\nc) Colaborar com a Comissão Europeia e com organismos internacionais, como o Comité Europeu de Normalização, a Organização Internacional de Normalização e a Comissão do Codex Alimentarius, para estudo de novos métodos de análise;\n\nd) Assegurar a realização de análises e estudos decorrentes da obrigatoriedade inerente a laboratório acreditado pelo Conselho Oleícola Internacional;\n\ne) Participar em cadeias de avaliação de capacidade laboratorial com vista ao reconhecimento no âmbito do controlo europeu coordenado;\n\nf) Proceder à análise e estudo das medidas necessárias à elaboração da legislação nacional e comunitária no domínio dos critérios de pureza e condições de utilização de aditivos alimentares e auxiliares tecnológicos, bem como dos teores admissíveis de contaminantes em todos os géneros alimentícios e respectivas matérias-primas;\n\ng) Elaborar e assegurar a actualização do Manual de Qualidade e garantir a acreditação do LCQA pelo organismo nacional competente;\n\nh) Colaborar com os restantes laboratórios nacionais e regionais oficiais nos domínios da formação profissional e da execução das tarefas inerentes à respectiva acreditação;\n\ni) Emanar as directivas funcionais necessárias à uniformização de métodos e procedimentos dos laboratórios regionais;\n\nj) Executar as análises solicitadas por entidades públicas no domínio da sua especialidade e exercer quaisquer outras acções ou funções que lhe sejam superiormente determinadas.\n\n2 - O LCQA é dirigido por um director de serviços.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141023": {
+   "fragment_id": "37620975",
+   "type": 11,
+   "heading": "Artigo 18.º — Gabinete de Documentação e de Formação",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 18.º — Gabinete de Documentação e de Formação\n\nO GDF assegura o tratamento da legislação que regula o exercício das actividades económicas nas suas duas vertentes, o tratamento da documentação técnica e científica com interesse para a ASAE, bem como procede à preparação das acções de formação inerentes às carreiras de inspecção, competindo-lhe, designadamente:\n\na) Proceder à investigação de fontes documentais nacionais e estrangeiras com interesse específico para a actividade da ASAE;\n\nb) Recolher, organizar, difundir e manter actualizada a legislação específica e a informação inerente à actividade da ASAE;\n\nc) Apoiar outros serviços na selecção de documentação científica e técnica de interesse para a ASAE;\n\nd) Colaborar com os serviços ou organismos do Ministério na elaboração de procedimentos com vista à implementação de um sistema de gestão de qualidade;\n\ne) Elaborar os conteúdos programáticos, preparar os respectivos manuais e assegurar a realização das acções de formação interna e específica destinada ao pessoal das carreiras de inspecção;\n\nf) Assegurar a articulação com outros organismos nacionais e promover relações de cooperação com organismos homólogos internacionais.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141024": {
+   "fragment_id": "37621075",
+   "type": 11,
+   "heading": "Artigo 19.º — Gabinete de Apoio Jurídico",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 19.º — Gabinete de Apoio Jurídico\n\n1 - Ao GAJ compete, designadamente:\n\na) Assegurar o apoio jurídico a todos os órgãos e serviços da ASAE;\n\nb) Elaborar pareceres, estudos e informações relativos à actividade operacional;\n\nc) Instruir processos disciplinares e realizar processos de averiguações e inquéritos que lhe sejam determinados;\n\nd) Analisar e preparar resposta a exposições, reclamações ou recursos;\n\ne) Dar parecer jurídico sobre projectos de diplomas preparados por outros organismos relacionados com a actividade da ASAE sobre os quais deva obrigatoriamente pronunciar-se;\n\nf) Garantir o exercício do patrocínio judiciário;\n\ng) Elaborar projectos de decisão nos processos de contra-ordenação que caiba à ASAE decidir, nos termos da legislação aplicável, e assegurar o processamento subsequente;\n\nh) Preparar e analisar protocolos e outros instrumentos contratuais nos quais a ASAE participe.\n\n2 - O GAJ é dirigido por um director de serviços.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141025": {
+   "fragment_id": "37621175",
+   "type": 11,
+   "heading": "Artigo 20.º — Direcções regionais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 20.º — Direcções regionais\n\n1 - No âmbito das respectivas áreas geográficas de actuação, as direcções regionais são serviços que têm por finalidade desenvolver as diligências necessárias e adequadas ao cumprimento das atribuições previstas no presente decreto-lei, competindo-lhes, designadamente, assegurar a fiscalização do cumprimento das normas legais que disciplinam as actividades económicas nos sectores alimentar e não alimentar.\n\n2 - As direcções regionais da ASAE têm por área geográfica de actuação o continente, na configuração definida pelo nível II da Nomenclatura de Unidades Territoriais (NUTS), sem prejuízo de eventuais ajustamentos que se revelem necessários, mediante despacho do ministro que tutela a área da economia.\n\n3 - As direcções regionais são dirigidas por directores regionais, equiparados a dirigentes intermédios do 1.º grau, que dependem do presidente ou de um vice-presidente, com excepção do director científico para os riscos da cadeia alimentar, nas competências que naquele forem delegadas.\n\n4 - Compete aos directores regionais, no âmbito da respectiva área geográfica:\n\na) Representar o presidente;\n\nb) Assegurar o cumprimento de todas as atribuições da ASAE;\n\nc) Zelar pelo cumprimento das orientações do presidente;\n\nd) Coadjuvar as autoridades judiciárias;\n\ne) Controlar a legalidade e adequação nos actos de intervenção da ASAE.\n\n5 - As direcções regionais compreendem os seguintes sectores especializados de intervenção:\n\na) Sectores de fiscalização e investigação (SFI), até um máximo de sete;\n\nb) Sector técnico-pericial, até um máximo de dois.\n\n6 - As direcções regionais, para a prossecução das acções inerentes à fiscalização, podem estruturar-se em unidades dirigidas por dirigentes intermédios do 2.º grau.\n\n7 - Cada direcção regional dispõe de um núcleo de apoio administrativo.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141026": {
+   "fragment_id": "37621275",
+   "type": 11,
+   "heading": "Artigo 21.º — Sectores de fiscalização e investigação e sectores técnico-periciais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 21.º — Sectores de fiscalização e investigação e sectores técnico-periciais\n\n1 - Aos SFI compete desenvolver as atribuições da ASAE no domínio da fiscalização e investigação do cumprimento das obrigações legais que disciplinam as actividades económicas nos sectores alimentar e não alimentar.\n\n2 - Os SFI são coordenados por funcionários das carreiras de inspecção, preferencialmente da carreira de inspector superior, sendo designados por despacho do presidente, sob proposta dos respectivos directores regionais.\n\n3 - Quando dirijam no mínimo três brigadas, constituídas cada uma por dois funcionários das carreiras de inspecção, os coordenadores dos SFI são remunerados pelo índice correspondente à respectiva carreira e escalão, majorado de um impulso de 55 pontos, tendo como limite a remuneração base de um dirigente intermédio do 2.º grau.\n\n4 - Aos sectores técnico-periciais compete prestar assessoria técnica, através da realização de estudos, perícias, concepção, adaptação e aplicação de métodos e processos técnico-científicos.\n\n5 - Os sectores técnico-periciais são coordenados, preferencialmente, por funcionários das carreiras de inspecção superior ou técnica superior, designados por despacho do presidente, sob proposta dos respectivos directores regionais, de quem dependem directamente.\n\n6 - Quando os sectores técnico-periciais tiverem um mínimo de seis funcionários das carreiras de inspecção ou técnicas, os respectivos coordenadores são remunerados pelo índice correspondente à respectiva carreira e escalão, majorado de um impulso de 55 pontos, tendo como limite a remuneração base de um dirigente intermédio do 2.º grau.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141027": {
+   "fragment_id": "37621375",
+   "type": 11,
+   "heading": "Artigo 22.º — Núcleos de apoio administrativo",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 22.º — Núcleos de apoio administrativo\n\n1 - Compete ao núcleo de apoio administrativo de cada direcção regional e de cada delegação assegurar as tarefas de natureza administrativa nos termos a definir pelo director regional.\n\n2 - O núcleo de apoio administrativo é coordenado por um funcionário da carreira técnico-profissional ou administrativa designado por despacho do presidente, sob proposta do director regional do qual depende directamente.\n\n3 - Os coordenadores dos núcleos de apoio administrativo são remunerados pelo índice imediatamente superior ao que detêm ou, caso se encontrem posicionados no último escalão, por um índice correspondente a um acréscimo de 20 pontos.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141028": {
+   "fragment_id": "37621475",
+   "type": 11,
+   "heading": "Artigo 23.º — Delegações",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 23.º — Delegações\n\n1 - As delegações das direcções regionais, chefiadas por dirigentes intermédios do 2.º grau, prosseguem as finalidades das respectivas direcções regionais na área geográfica que lhes for atribuída, bem como as competências que lhes forem delegadas pelo respectivo director regional.\n\n2 - As delegações das direcções regionais são criadas, alteradas e extintas por despacho conjunto dos ministros responsáveis pelas áreas das finanças, Administração Pública e economia.\n\n3 - Os dirigentes das delegações das direcções regionais dependem directamente do respectivo director regional.\n\n4 - O número de sectores de fiscalização e instrução e técnico-periciais em cada delegação não pode ser superior a quatro.\n\n5 - Cada delegação pode dispor de um núcleo de apoio administrativo.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141029": {
+   "fragment_id": "36115875",
+   "type": 1,
+   "heading": "Capítulo III — Organização e funcionamento",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "### Capítulo III — Organização e funcionamento\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141030": {
+   "fragment_id": "37621575",
+   "type": 11,
+   "heading": "Artigo 24.º — Flexibilidade estrutural",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 24.º — Flexibilidade estrutural\n\nO funcionamento e a gestão da ASAE assentam numa estrutura flexível e baseiam-se no modelo de gestão participada e integrada na definição e realização dos objectivos de controlo e avaliação sistemática dos resultados.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141031": {
+   "fragment_id": "37621675",
+   "type": 11,
+   "heading": "Artigo 25.º — Princípios de gestão",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 25.º — Princípios de gestão\n\n1 - O funcionamento da ASAE assenta na estrutura definida no presente decreto-lei e na articulação com os serviços centrais com vista à realização dos objectivos comuns dos ministérios.\n\n2 - A gestão da ASAE orienta-se por objectivos previamente definidos e pelo adequado controlo de resultados e dos respectivos custos financeiros.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141032": {
+   "fragment_id": "37621775",
+   "type": 11,
+   "heading": "Artigo 26.º — Instrumentos de gestão",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 26.º — Instrumentos de gestão\n\nA actividade da ASAE obedece às normas gerais estabelecidas para o regime financeiro dos serviços dotados de autonomia administrativa, sendo utilizados os seguintes instrumentos de gestão:\n\na) Plano estratégico de médio prazo, actualizado anualmente, contemplando as linhas de orientação da ASAE;\n\nb) Plano anual de actividades;\n\nc) Orçamento anual, elaborado com base no plano de actividades, e suas actualizações;\n\nd) Relatório anual de actividades;\n\ne) Conta de gerência anual;\n\nf) Balanço social;\n\ng) Outros documentos de acompanhamento regular da actividade e da execução orçamental.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141033": {
+   "fragment_id": "37621875",
+   "type": 11,
+   "heading": "Artigo 27.º — Receitas",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 27.º — Receitas\n\nConstituem receitas da ASAE:\n\na) As dotações provenientes do Orçamento do Estado;\n\nb) O produto de serviços prestados;\n\nc) O produto da venda de publicações;\n\nd) O produto das coimas cobradas em processos de contra-ordenação, na mesma proporção com que revertiam para os serviços extintos ou reestruturados;\n\ne) O produto da cobrança das taxas relativas às bebidas espirituosas não vínicas;\n\nf) Quaisquer outras receitas que por lei, contrato ou a qualquer outro título lhe sejam atribuídas.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141034": {
+   "fragment_id": "37621975",
+   "type": 11,
+   "heading": "Artigo 28.º — Despesas",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 28.º — Despesas\n\nConstituem despesas da ASAE as que resultem dos encargos e responsabilidades decorrentes da prossecução das suas actividades.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141035": {
+   "fragment_id": "37622075",
+   "type": 11,
+   "heading": "Artigo 29.º — Cobrança coerciva de dívidas",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 29.º — Cobrança coerciva de dívidas\n\n1 - A cobrança coerciva de dívidas à ASAE é efectuada através do processo de execução fiscal.\n\n2 - O processo referido no número anterior tem por base certidão emitida com valor de título executivo, de acordo com o disposto no artigo 162.º do Código de Procedimento e de Processo Tributário.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141069": {
+   "fragment_id": "37622175",
+   "type": 11,
+   "heading": "Artigo 30.º — Regime de pessoal",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 30.º — Regime de pessoal\n\n1 - O pessoal da ASAE integrado nas carreiras de inspecção está sujeito ao regime jurídico da função pública e rege-se pelo Decreto-Lei n.º 112/2001, de 6 de Abril.\n\n2 - O restante pessoal da ASAE rege-se pelas normas aplicáveis ao contrato individual de trabalho.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141070": {
+   "fragment_id": "37622275",
+   "type": 11,
+   "heading": "Artigo 31.º — Quadros de pessoal",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 31.º — Quadros de pessoal\n\n1 - Os lugares do quadro de pessoal dirigente da ASAE constam do quadro anexo ao presente decreto-lei, que dele faz parte integrante.\n\n2 - Para a execução das atribuições da ASAE, as direcções de serviço podem estruturar-se em divisões, cujas competências são definidas por despacho do presidente, a publicar no Diário da República, sem prejuízo do estabelecido no número anterior.\n\n3 - A ASAE dispõe de um quadro de pessoal em regime de função pública para as carreiras de inspecção e de um quadro de pessoal em regime de contrato individual de trabalho para os demais trabalhadores.\n\n4 - Os quadros de pessoal referidos no número anterior são aprovados por portaria conjunta dos ministros responsáveis pelas áreas das finanças, da Administração Pública e da economia.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141071": {
+   "fragment_id": "37622475",
+   "type": 11,
+   "heading": "Artigo 33.º — Segredo profissional e incompatibilidades",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 33.º — Segredo profissional e incompatibilidades\n\n1 - Os membros dos órgãos da ASAE, o respectivo pessoal e as pessoas ou entidades que lhe prestem, a título permanente ou ocasional, quaisquer serviços ficam sujeitos a segredo profissional sobre os factos e documentos cujo conhecimento resulte do exercício das suas funções ou da prestação de serviços referidos e, seja qual for a finalidade, não podem divulgar nem utilizar em proveito próprio ou alheio, directamente ou por interposta pessoa, o conhecimento que advenha de tais factos.\n\n2 - O dever de segredo profissional mantém-se ainda que as pessoas ou entidades a ele sujeitas, nos termos do disposto no número anterior, deixem de prestar serviços à ASAE.\n\n3 - Sem prejuízo da responsabilidade civil ou criminal que dela resulte, a violação do segredo profissional estabelecido no presente artigo quando cometida por um dos membros dos órgãos da ASAE ou pelo seu pessoal implica para o infractor as sanções disciplinares correspondentes à sua gravidade, que podem ir até à destituição, demissão ou rescisão do respectivo contrato de trabalho, e quando praticada por pessoa ou entidade vinculada à ASAE por um contrato de prestação de serviços ou avença confere ao presidente o direito de resolver imediatamente esse contrato.\n\n4 - Sem prejuízo das disposições legais sobre incompatibilidades, o pessoal das carreiras de inspecção em serviço efectivo e os membros do conselho científico e das comissões técnicas não podem exercer cargos de gerência, administração ou quaisquer outras funções, sejam ou não remuneradas, ao serviço de quaisquer entidades cuja actividade esteja no âmbito das atribuições da ASAE.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141072": {
+   "fragment_id": "37622575",
+   "type": 11,
+   "heading": "Artigo 34.º — Formação",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 34.º — Formação\n\nA ASAE promove a organização de acções de aperfeiçoamento e reciclagem profissionais e de cursos de formação profissional destinados à preparação, especialização e aperfeiçoamento dos funcionários do seu quadro, podendo fazê-lo em colaboração com outras entidades.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141073": {
+   "fragment_id": "37622875",
+   "type": 11,
+   "heading": "Artigo 37.º — Patrocínio judiciário",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 37.º — Patrocínio judiciário\n\n1 - Os funcionários da ASAE que sejam arguidos em processo contra-ordenacional, disciplinar ou judicial por actos cometidos ou ocorridos no exercício e por causa das suas funções têm direito a ser assistidos por advogado retribuído a expensas do Estado, através da ASAE, bem como a transporte e ajudas de custo quando a localização do tribunal ou das entidades policiais o justifique.\n\n2 - O disposto no número anterior não afasta a obrigação de ressarcir o Estado em todas as despesas suportadas sempre que o funcionário venha a ser condenado em qualquer dos processos referidos no número anterior logo que a decisão ou a sentença judicial tenham transitado em julgado.\n\n3 - O advogado referido no n.º 1 é indicado pela ASAE, ouvido o interessado.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141050": {
+   "fragment_id": "36116075",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141051": {
+   "fragment_id": "37622975",
+   "type": 11,
+   "heading": "Artigo 38.º — Transferência de competências",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 38.º — Transferência de competências\n\n1 - A competência para a aplicação das coimas e sanções acessórias, que incumbia aos serviços e organismos extintos, transita para a Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade.\n\n2 - Consideram-se transferidas para a ASAE todas as competências em matéria de fiscalização e instrução processual anteriormente cometidas aos serviços e organismos extintos ou reestruturados por força do constante neste decreto-lei.\n\n3 - Até à entrada em vigor da lei que aprove o novo enquadramento da investigação das actividades económicas mantém-se em vigor o capítulo IV do Decreto-Lei n.º 46/2004, de 3 de Março.\n\n4 - As competências da Direcção de Serviços de Certificação, Normalização, Promoção e Garantia da Qualidade Alimentar e do Gabinete de Trocas Intracomunitárias e com Países Terceiros da Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar (DGFCQA) transitam para a DGV.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141052": {
+   "fragment_id": "37623075",
+   "type": 11,
+   "heading": "Artigo 39.º — Contrato individual de trabalho",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 39.º — Contrato individual de trabalho\n\n1 - Os funcionários que não sejam integrados nas carreiras de inspecção podem optar pelo regime de contrato individual de trabalho mediante declaração escrita, individual e irrevogável, dirigida ao dirigente máximo do serviço.\n\n2 - A opção referida no número anterior implica a exoneração do lugar de origem e a cessação do vínculo à função pública com efeitos à data da publicação do correspondente aviso no Diário da República.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141053": {
+   "fragment_id": "37623175",
+   "type": 11,
+   "heading": "Artigo 40.º — Manutenção do vínculo à função pública",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 40.º — Manutenção do vínculo à função pública\n\nOs funcionários referidos no n.º 1 do artigo anterior que não optem pelo regime do contrato individual de trabalho continuam sujeitos ao regime jurídico da função pública, sem perda de quaisquer direitos.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141054": {
+   "fragment_id": "37623275",
+   "type": 11,
+   "heading": "Artigo 41.º — Quadro de pessoal transitório",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 41.º — Quadro de pessoal transitório\n\n1 - É criado na ASAE um quadro de pessoal transitório, a aprovar por portaria conjunta dos Ministros de Estado e das Finanças e da tutela, em que são integrados os funcionários que transitem dos serviços e organismos extintos ou reestruturados por força do disposto no presente decreto-lei e que não optem pelo contrato individual de trabalho nos termos do artigo anterior.\n\n2 - Os lugares do quadro a que se refere o número anterior extinguem-se à medida que vagarem.\n\n3 - Até à aprovação do quadro a que se refere o n.º 1 mantêm-se em vigor os quadros de pessoal dos serviços extintos ou reestruturados por força do presente decreto-lei.\n\n4 - O mapa de pessoal em regime de contrato individual de trabalho é ajustado periodicamente e pela forma prevista no n.º 1 do presente artigo à medida que se extinguirem os lugares do quadro da função pública, não podendo em caso algum a ASAE exceder um volume global de emprego a definir na portaria prevista no artigo 31.º\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141055": {
+   "fragment_id": "37623375",
+   "type": 11,
+   "heading": "Artigo 42.º — Protecção social",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 42.º — Protecção social\n\nSem prejuízo de outras contribuições previstas na lei, a ASAE contribui para o financiamento da Caixa Geral de Aposentações com uma importância mensal de montante idêntico ao das quotas pagas pelos seus trabalhadores abrangidos pelo regime de protecção social da função pública.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141056": {
+   "fragment_id": "37623475",
+   "type": 11,
+   "heading": "Artigo 43.º — Situações especiais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 43.º — Situações especiais\n\n1 - Os funcionários do quadro da Inspecção-Geral das Actividades Económicas (IGAE), da DGFCQA e da Agência Portuguesa de Segurança Alimentar, I.P. (APSA), que se encontrem a exercer funções em outros serviços ou organismos em regime de destacamento, requisição ou comissão de serviço mantêm essa situação até ao termo do respectivo prazo.\n\n2 - Ao pessoal que se encontre na situação de licença sem vencimento de longa duração é aplicado o disposto no Decreto-Lei n.º 193/2002, de 25 de Setembro.\n\n3 - Os funcionários que se encontram destacados ou requisitados na APSA, na IGAE e na DGFCQA podem optar pela sua integração no quadro de pessoal da ASAE na mesma categoria e carreira, aplicando-se o disposto no n.º 3 do artigo 47.º\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141057": {
+   "fragment_id": "37623575",
+   "type": 11,
+   "heading": "Artigo 44.º — Concursos e estágios pendentes",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 44.º — Concursos e estágios pendentes\n\n1 - Mantêm-se válidos os concursos de pessoal abertos anteriormente à data de entrada em vigor do presente decreto-lei.\n\n2 - O pessoal que à data de entrada em vigor do presente decreto-lei se encontre em regime de estágio mantém-se nesta situação até à conclusão do mesmo, devendo, consoante os casos e se necessário, ser nomeado novo júri ou elementos do júri, o qual procede à respectiva avaliação e classificação final.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141058": {
+   "fragment_id": "37623675",
+   "type": 11,
+   "heading": "Artigo 45.º — Comissões de serviço",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 45.º — Comissões de serviço\n\n1 - Com a entrada em vigor do presente decreto-lei cessam as comissões de serviço de todos os dirigentes de nível superior dos organismos extintos.\n\n2 - Cessam igualmente as comissões de serviço dos dirigentes de nível intermédio, do 1.º e do 2.º graus dos serviços extintos, podendo manter-se, por despacho do presidente da ASAE, em regime de gestão corrente até à nomeação dos novos titulares.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141059": {
+   "fragment_id": "37623775",
+   "type": 11,
+   "heading": "Artigo 46.º — Transição de pessoal e regime de supranumerários",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 46.º — Transição de pessoal e regime de supranumerários\n\n1 - Transitam para o quadro de pessoal da ASAE, de acordo com as regras estabelecidas no Decreto-Lei n.º 193/2002, de 25 de Setembro, para as mesmas carreiras e categorias que detêm os funcionários:\n\na) Do quadro de pessoal da IGAE;\n\nb) Do quadro de pessoal da DGFCQA, à excepção do pessoal afecto às unidades orgânicas a que se refere o n.º 4 do artigo 38.º, que transita para os quadros da DGV;\n\nc) Do quadro de pessoal da APSA;\n\nd) Das Divisões de Fiscalização dos Produtos de Origem Vegetal e Animal das DRA;\n\ne) Da Divisão de Alimentação Animal e da Divisão de Saúde Pública Veterinária da DGV, relativamente à execução do Plano Nacional de Controlo de Resíduos;\n\nf) Das Divisões de Fiscalização Vitivinícola I, II e III e do Laboratório do Instituto da Vinha e do Vinho (IVV);\n\ng) Do Instituto dos Vinhos do Douro e Porto (IVDP) que desempenhem funções de fiscalização a que se refere a alínea s) do artigo 5.º;\n\nh) Da Direcção-Geral das Pescas e Aquicultura (DGPA) que desempenhem funções de fiscalização a que se referem as alíneas q) e r) do artigo 5.º;\n\ni) Da Agência de Controlo das Ajudas Comunitárias ao Sector do Azeite (ACACSA) que desempenhem funções de fiscalização no âmbito das atribuições a que se refere a alínea t) do artigo 5.º\n\n2 - Exceptua-se do disposto no número anterior o pessoal a transferir para os quadros de supranumerários dos respectivos ministérios, nos termos do Decreto-Lei n.º 193/2002, de 25 de Setembro, a definir por despacho conjunto dos Ministros de Estado e das Finanças, da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141060": {
+   "fragment_id": "37623875",
+   "type": 11,
+   "heading": "Artigo 47.º — Transição para as carreiras de inspecção",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 47.º — Transição para as carreiras de inspecção\n\n1 - Os funcionários do regime geral e os da carreira de inspecção dos quadros das DGFCQA que se encontravam abrangidos pelas disposições constantes do Decreto Regulamentar n.º 25/2002, de 5 de Abril, transitam para a carreira de inspecção do quadro da ASAE sem dependência de quaisquer formalidades e de acordo com as regras de transição estabelecidas naquele diploma.\n\n2 - Os funcionários do regime geral dos quadros das DRA que se encontravam abrangidos pelas disposições constantes do Decreto Regulamentar n.º 30/2002, de 9 de Abril, transitam para a carreira de inspecção do quadro da ASAE sem dependência de quaisquer formalidades e de acordo com as regras de transição estabelecidas naquele diploma.\n\n3 - Sem prejuízo do disposto no número anterior, os funcionários do regime geral dos serviços e organismos referidos no artigo 46.º que comprovadamente estejam a desempenhar funções de fiscalização há pelo menos 5 anos e desde que tenham idade não superior a 50 anos à data da entrada em vigor do presente decreto-lei transitam para as carreiras de inspecção do quadro da ASAE mediante aprovação em estágio, com duração não inferior a 1 ano, e a classificação final mínima de Bom, que integra um curso de formação específica, nos seguintes termos:\n\na) Para a carreira de inspector superior, o pessoal das carreiras do grupo de pessoal técnico superior, com licenciatura adequada e carta de condução de veículos ligeiros, de acordo com os seguintes critérios:\n\ni) Os assessores principais para a categoria de inspector superior principal;\n\nii) Os assessores para a categoria de inspector superior;\n\niii) Os técnicos superiores principais para a categoria de inspector principal;\n\niv) Os técnicos superiores de 1.ª e 2.ª classes para a categoria de inspector;\n\nb) Para a carreira de inspector técnico, o pessoal das carreiras do grupo de pessoal técnico, habilitado com curso superior adequado que não confira grau de licenciatura e carta de condução de veículos ligeiros, de acordo com os seguintes critérios:\n\ni) Os técnicos especialistas principais para a categoria de inspector técnico especialista principal;\n\nii) Os técnicos especialistas para a categoria de inspector técnico especialista;\n\niii) Os técnicos principais para a categoria de inspector técnico principal;\n\niv) Os técnicos de 1.ª e 2.ª classes para a categoria de inspector técnico;\n\nc) Para a carreira de inspector-adjunto, o pessoal das carreiras do grupo de pessoal técnico profissional, habilitado com o 12.º ano de escolaridade ou equivalente e carta de condução de veículos ligeiros, de acordo com os seguintes critérios:\n\ni) Os técnicos profissionais especialistas principais para a categoria de inspector-adjunto especialista principal;\n\nii) Os técnicos profissionais especialistas para a categoria de inspector-adjunto especialista;\n\niii) Os técnicos profissionais principais para a categoria de inspector-adjunto principal;\n\niv) Os técnicos profissionais de 1.ª e 2.ª classes para a categoria de inspector-adjunto.\n\n4 - A transição referida no número anterior faz-se para o escalão igual ao que o funcionário detém na categoria de origem, com excepção dos técnicos superiores de 2.ª classe, dos técnicos de 2.ª classe e dos técnicos profissionais de 2.ª classe, que transitam para o escalão a que corresponda, na estrutura da categoria, índice remuneratório igual ou, se não houver coincidência, índice superior mais aproximado, não relevando, no entanto, para efeitos de progressão na carreira o tempo de serviço no escalão de origem.\n\n5 - Quando a categoria da carreira para onde transita o pessoal a que se refere o n.º 2 resulte da fusão de duas categorias, releva na nova categoria, para efeitos de promoção na carreira, apenas o tempo de serviço prestado na categoria mais elevada da anterior carreira.\n\n6 - O regulamento do estágio e o curso de formação específica referidos no n.º 3 do presente artigo são aprovados por despacho conjunto dos ministros responsáveis pelas áreas das finanças, da Administração Pública e da economia.\n\n7 - Aos funcionários das direcções regionais da economia que à data da entrada em vigor do Decreto-Lei n.º 46/2004, de 3 de Março, desempenhavam funções de fiscalização aplica-se igualmente o disposto nos n.os 3 e 4.\n\n8 - Para efeitos do estabelecido no n.º 3, consideram-se suficientes os cursos destinados às carreiras de inspecção da IGAE que se encontram aprovados à data da entrada em vigor do presente decreto-lei.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141061": {
+   "fragment_id": "37623975",
+   "type": 11,
+   "heading": "Artigo 48.º — Sucessão",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 48.º — Sucessão\n\nO presente decreto-lei constitui título bastante de comprovação, para todos os efeitos legais, devendo os serviços competentes realizar, mediante simples comunicação ao presidente, os actos necessários ao registo a favor da ASAE dos bens e direitos da APSA, da IGAE, da DGFCQA, das DRA, do IVV, do IVDP, da DGPA e da ACACSA que se encontrem sujeitos a tal registo.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141062": {
+   "fragment_id": "37624075",
+   "type": 11,
+   "heading": "Artigo 49.º — Sistema de alerta rápido",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 49.º — Sistema de alerta rápido\n\nA ASAE, por força das suas atribuições na área da segurança alimentar, integra o conjunto de entidades a quem são obrigatoriamente comunicadas as mensagens que circulam no RASFF.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141063": {
+   "fragment_id": "37624175",
+   "type": 11,
+   "heading": "Artigo 50.º — Referências legais",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 50.º — Referências legais\n\nAs referências legais à APSA, à IGAE, à DGFCQA, à DGPC, às DRA, à DGV, ao IVV, ao IVDP, à DGPA e à ACACSA relativamente às competências que pelo presente decreto-lei transitam para a ASAE consideram-se feitas a esta.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141064": {
+   "fragment_id": "37624275",
+   "type": 11,
+   "heading": "Artigo 51.º — Extinção de serviços",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 51.º — Extinção de serviços\n\n1 - São extintos os seguintes serviços do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas:\n\na) DGFCQA;\n\nb) Direcções de Serviços de Fiscalização e Controlo da Qualidade Alimentar e respectivas divisões, das DRA;\n\nc) Divisão de Alimentação Animal, da DGV.\n\n2 - São extintos os seguintes serviços do Ministério da Economia e da Inovação:\n\na) IGAE;\n\nb) APSA.\n\n3 - A ASAE sucede na universalidade dos direitos e obrigações legais e contratuais dos serviços e organismos referidos nos números anteriores, incluindo os saldos existentes nas respectivas dotações orçamentais.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141065": {
+   "fragment_id": "37624375",
+   "type": 11,
+   "heading": "Artigo 52.º — Alteração de estruturas",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 52.º — Alteração de estruturas\n\n1 - A estrutura nuclear dos serviços, bem como a definição das atribuições e competências das respectivas unidades orgânicas, podem ser alteradas por portaria conjunta dos ministros responsáveis pelas áreas das finanças, da Administração Pública e da economia.\n\n2 - As unidades orgânicas flexíveis podem ser criadas, alteradas ou extintas por despacho do dirigente máximo do serviço, que deve definir as respectivas atribuições e competências, bem como a afectação ou reafectação do pessoal do respectivo quadro, no âmbito do limite máximo previamente fixado em portaria do membro do Governo competente.\n\n3 - As alterações aos lugares do quadro de pessoal dirigente da ASAE resultantes da aplicação dos números anteriores são aprovadas por portaria conjunta dos ministros responsáveis pelas áreas das finanças, da Administração Pública e da economia.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141066": {
+   "fragment_id": "37624475",
+   "type": 11,
+   "heading": "Artigo 53.º — Norma revogatória",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 53.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 98/97, de 26 de Abril;\n\nb) Os artigos 14.º e 24.º do Decreto-Lei n.º 99/97, de 26 de Abril;\n\nc) O artigo 26.º do Decreto-Lei n.º 106/97, de 2 de Maio, com as alterações introduzidas pelos Decretos-Leis n.os 128/97, de 24 de Maio, e 526/99, de 10 de Dezembro;\n\nd) As alíneas h), l), m), n) e o), apenas relativamente às atribuições do IVDP que transitam para a ASAE, do artigo 13.º do Decreto-Lei n.º 278/2003, de 6 de Novembro;\n\ne) O Decreto-Lei n.º 46/2004, de 3 de Março, sem prejuízo do disposto no n.º 3 do artigo 38.º;\n\nf) O Decreto-Lei n.º 217-B/2004, de 9 de Outubro;\n\ng) Os artigos 25.º a 27.º do Decreto Regulamentar n.º 13/97, de 6 de Maio;\n\nh) Os artigos 25.º a 27.º do Decreto Regulamentar n.º 14/97, de 6 de Maio;\n\ni) Os artigos 24.º a 26.º do Decreto Regulamentar n.º 15/97, de 6 de Maio;\n\nj) Os artigos 26.º a 28.º do Decreto Regulamentar n.º 16/97, de 7 de Maio;\n\nl) Os artigos 26.º a 28.º do Decreto Regulamentar n.º 17/97, de 7 de Maio;\n\nm) Os artigos 24.º a 26.º do Decreto Regulamentar n.º 18/97, de 7 de Maio;\n\nn) Os artigos 24.º a 26.º do Decreto Regulamentar n.º 19/97, de 7 de Maio.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "942141067": {
+   "fragment_id": "37624575",
+   "type": 11,
+   "heading": "Artigo 54.º — Entrada em vigor",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "###### Artigo 54.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de Janeiro de 2006.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  },
+  "51058875": {
+   "fragment_id": "36116275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.\n\nPromulgado em 21 de Dezembro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Dezembro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "942141068": {
+   "fragment_id": "36116175",
+   "type": 14,
+   "heading": "Anexo — Quadro a que se refere o artigo 31.º",
+   "in_force_from": "2007-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+   ],
+   "markdown": "## Anexo — Quadro a que se refere o artigo 31.º\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 274/2007 - Diário da República n.º 145/2007, Série I de 2007-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-2007-636410), em vigor a partir de 2007-08-01"
+  }
+ }
+}

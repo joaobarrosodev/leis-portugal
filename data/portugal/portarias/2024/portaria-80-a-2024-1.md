@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:854130985:por
+title: Portaria n.º 80-A/2024/1
+short_title: null
+summary: Estabelece os requisitos da condicionalidade social, nos termos e para os efeitos do disposto nos n.os 1 e 4 do artigo
+  14.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no âmbito do Plano Estratégico da Política Agrícola
+  Comum para Portugal (PEPAC Portugal), no continente.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura e Alimentação
+proposing_entity: null
+official_number: 80-A/2024/1
+official_date: null
+publication_date: '2024-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04
+  number: '45'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/03/04501/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/80-a/2024/03/04/p/dre/pt/html
+  oj: null
+  dre: '854130985'
+  dre_path: /dr/detalhe/portaria/80-a-2024-854130985
+  internal: pt:dre:854130985:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2024-854130985
+  metadata_url: https://data.dre.pt/eli/port/80-a/2024/03/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2024-854130985
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-03-04T00:00:00Z'
+integrity:
+  source_sha256: 3abf1e01cb89963f601c0cc2d7ba9d5cc272f6747e6ca88d2375f583fd0fe38a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-80-A-854130985.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Beneficiário
+- Gestão Financeira
+- Regulamentação de Atos Legislativos
+- Feader
+- Formulário Eletrónico
+- Pagamento
+- IFAP
+- Regulamento CE
+- Agricultura
+- Subsídio a Agricultores
+- Plano Estratégico da Política Agrícola Comum para Portugal
+relationships:
+- type: cites
+  target: celex:31989L0391
+  label: null
+  source: http://data.europa.eu/eli/dir/1989/391/oj
+- type: cites
+  target: celex:32009L0104
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/104/oj
+- type: cites
+  target: celex:32019L1152
+  label: null
+  source: http://data.europa.eu/eli/dir/2019/1152/oj
+- type: cites
+  target: celex:32021R2115
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2115/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/12/2023/02/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/50/2005/02/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/50/2005/02/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/102/2009/09/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/102/2009/09/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 80-A/2024/1
+
+de 4 de março
+
+O artigo 14.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho determina que os Estados-Membros devem aplicar as regras da condicionalidade social, a observar pelos agricultores e outros beneficiários que recebam pagamentos diretos ao abrigo do capítulo ii ou pagamentos anuais ao abrigo dos artigos 70.º a 72.º do regulamento citado, conforme se encontram traduzidas nos requisitos relativos às condições aplicáveis em matéria de trabalho e às obrigações do empregador decorrentes dos atos jurídicos referidos no anexo iv do referido regulamento, na versão aplicável e conforme transposto pelo Estado-Membro.
+
+Os requisitos relativos à área do trabalho respeitam às condições de trabalho transparentes e previsíveis, designadamente ao dever de informação dos empregadores sobre os aspetos relevantes na prestação de trabalho, aos meios de informação e atualização da mesma, ao período experimental, das condições relativas à previsibilidade mínima do trabalho, em caso de trabalho intermitente, e à garantia de formação, nos termos previstos no Código do Trabalho, aprovado pela [Lei n.º 7/2009](https://diariodarepublica.pt/dr/detalhe/lei/7-2009-602073), de 12 de fevereiro, na sua redação atual.
+
+Os requisitos relativos à saúde e segurança no trabalho respeitam ao dever de implementação de medidas destinadas a promover a sua melhoria e de prescrições mínimas de segurança e de saúde na utilização de equipamentos de trabalho, conforme o determinado na [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009), de 10 de setembro, que institui o Regime Jurídico da Promoção da Segurança e Saúde no Trabalho, e no [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397), de 25 de fevereiro, que transpôs para o direito nacional as disposições europeias relativas às prescrições mínimas de segurança e de saúde para a utilização pelos trabalhadores de equipamentos de trabalho.
+
+Assim:
+
+Manda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do [Decreto-Lei n.º 12/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2023-207760041), o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria estabelece os requisitos da condicionalidade social, nos termos e para os efeitos do disposto nos n.<sup>os</sup>1 e 4 do artigo 14.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt), do Parlamento Europeu e do Conselho, no âmbito do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.
+
+2 - Para efeitos do número anterior, os serviços competentes das Regiões Autónomas procedem à adaptação e aprovação da lista de requisitos, tendo em conta as especificidades regionais, e publicam nos respetivos Jornais Oficiais a lista de requisitos a vigorar.
+
+###### Artigo 2.º — Âmbito
+
+Os requisitos da condicionalidade social previstos na presente portaria aplicam-se aos beneficiários que recebem pagamentos diretos ao abrigo do capítulo ii ou pagamentos anuais ao abrigo dos artigos 70.º, 71.º e 72.º do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt).
+
+###### Artigo 3.º — Requisitos da condicionalidade social
+
+1 - Os requisitos da condicionalidade social abrangem as áreas do trabalho e da segurança e saúde no trabalho, conforme a lista constante do anexo à presente portaria, da qual faz parte integrante.
+
+2 - As orientações técnicas são divulgadas pela Autoridade de Gestão Nacional do PEPAC em Portugal, em www.gpp.pt.
+
+###### Artigo 4.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de janeiro de 2024.
+
+**A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 4 de março de 2024.**
+
+## ANEXO — (a que se refere o n.º 1 do artigo 3.º)
+
+Requisitos da condicionalidade social na área do trabalho, segurança e saúde no trabalho
+
+| Diretivas [anexo iv do [Regulamento (UE) 2021/2115](http://data.europa.eu/eli/reg/2021/2115/oj?locale=pt)] | Requisitos | Normas aplicáveis |
+| --- | --- | --- |
+| [Diretiva n.º 2019/1152](http://data.europa.eu/eli/dir/2019/1152/oj?locale=pt), de 20 de junho | 1 - Trabalho1.1 - O empregador deve fornecer por escrito ao trabalhador a informação sobre aspetos relevantes na prestação de trabalho. | N.º 1 do artigo 107.º do Código do Trabalho (CT) |
+|  | 1.2 - O empregador deve informar o trabalhador sobre aspetos relevantes do contrato de trabalho. | N.º 3 do artigo 106.º do CT, exceto alínea o) |
+|  | 1.3 - Meios e prazos para a prestação da informação ao trabalhador. | N.º 4 do artigo 107.º do CT |
+|  | 1.4 - As alterações aos elementos sujeitos ao dever de informação devem ser apresentadas sob forma documental e, no máximo, até à data em que a mesma começa a produzir efeitos, salvo se tais alterações resultarem de alterações à lei, IRCT ou regulamento interno do empregador. | Artigo 109.º do CT |
+|  | 1.5 - Período experimental. | Alínea o) do n.º 3 do artigo 106.º do CT |
+|  | 1.6 - Condições relativas à previsibilidade mínima do trabalho, se se tratar de trabalho intermitente. | N.º 3 do artigo 159.º do CT |
+|  | 1.7 - Formação obrigatória. | Artigo 131.º do CT |
+| [Diretiva n.º 89/391/CEE](http://data.europa.eu/eli/dir/1989/391/oj?locale=pt), de 12 de junho | 2 - Segurança e saúde2.1 - Medidas destinadas a promover a melhoria da segurança e da saúde dos trabalhadores. |  |
+|  | 2.1.1 - Disposição geral que impõe ao empregador a obrigação de garantir a segurança e a saúde dos trabalhadores. | N.º 1 do artigo 15.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.2 - Obrigação geral do empregador tomar as medidas necessárias à defesa da segurança e da saúde, incluindo a prevenção de riscos e a informação e formação. | N.<sup>os</sup> 2 a 5, 10 e 12 do artigo 15.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.3 - Serviços de proteção e de prevenção: devem ser designados um ou mais trabalhadores para a atividade de segurança e saúde, ou ser contratado um serviço externo competente. | Artigos n.<sup>os</sup>73.º, 74.º e 81.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.4 - O empregador deve tomar medidas em matéria de primeiros socorros, de combate a incêndios e de evacuação dos trabalhadores. | N.<sup>os</sup> 6 e 9 do artigo 15.º e artigo 75.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.5 - Obrigações do empregador em matéria de avaliação dos riscos, medidas e material de proteção, registo e comunicação de acidentes de trabalho. | Alíneas b), f), q) e s) do n.º 1 do artigo 73.º-B e artigo 111.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.6 - Prestação de informações aos trabalhadores sobre os riscos para a segurança e a saúde e sobre as medidas de proteção e de prevenção. | N.<sup>os</sup> 1 e 3 a 5 do artigo 19.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.7 - Consulta e participação dos trabalhadores em todas as questões relativas à segurança e à saúde no local de trabalho. | N.º 1 do artigo 18.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+|  | 2.1.8 - O empregador deve garantir que os trabalhadores recebam formação adequada em matéria de segurança e saúde. | Artigo 20.º da [Lei n.º 102/2009](https://diariodarepublica.pt/dr/detalhe/lei/102-2009-490009) |
+| [Diretiva n.º 2009/104/CE](http://data.europa.eu/eli/dir/2009/104/oj?locale=pt), de 16 de setembro | 2.2 - Prescrições mínimas de segurança e de saúde para a utilização de equipamentos de trabalho pelos trabalhadores. |  |
+|  | 2.2.1 - Obrigações gerais para garantir que os equipamentos de trabalho sejam adequados ao trabalho a efetuar pelos trabalhadores e permitam garantir a segurança e a saúde. | Alíneas a), b), d) e e) do artigo 3.º do [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397) |
+|  | 2.2.2 - Regras relativas aos equipamentos de trabalho - devem estar em conformidade com a lei e os requisitos mínimos estabelecidos e ser objeto de uma manutenção adequada. | Artigo 4.º do [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397) |
+|  | 2.2.3 - Verificação dos equipamentos de trabalho - os equipamentos devem ser submetidos a verificação após a instalação e a verificações periódicas por pessoas competentes. | Artigos 6.º e 7.º do [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397) |
+|  | 2.2.4 - A utilização de equipamentos de trabalho que apresentam riscos específicos para a segurança ou a saúde dos trabalhadores devem ser reservados a trabalhadores habilitados para o efeito. | Artigo 5.º do [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397) |
+|  | 2.2.5 - Ergonomia e saúde no trabalho. | Alínea c) do artigo 3.º do [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397) |
+|  | 2.2.6 - Os trabalhadores devem receber informações adequadas e, quando necessário, folhetos de informação sobre a utilização dos equipamentos de trabalho. | Artigo 8.º do [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397) |
+|  | 2.2.7 - Os trabalhadores devem receber formação adequada. | N.º 1 do artigo 32.º do [Decreto-Lei n.º 50/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2005-584397) |

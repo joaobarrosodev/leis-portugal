@@ -1,0 +1,610 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:444230:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-70774980",
+ "dre_path": "/dr/detalhe/portaria/1535-2008-444230",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70763859",
+    "70763860",
+    "70763861",
+    "70763862",
+    "70763863",
+    "70763864",
+    "70763865",
+    "70763866",
+    "70763867",
+    "70763868",
+    "70763869",
+    "70763870",
+    "70763871",
+    "70763872",
+    "70763873",
+    "70763874",
+    "70777775",
+    "70777776",
+    "70777777",
+    "70777778",
+    "70777779",
+    "70777780",
+    "70777781",
+    "70777782",
+    "70777783",
+    "70777784",
+    "70777785",
+    "70777786",
+    "70777787",
+    "70777788",
+    "70777789",
+    "70777790",
+    "70777791",
+    "70777792"
+   ]
+  },
+  {
+   "date": "2010-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:334928:por",
+     "title": "Portaria n.º 426/2010",
+     "published": "2010-06-29",
+     "dre_path": "/dr/detalhe/portaria/426-2010-334928"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "70763859",
+    "70763860",
+    "70763861",
+    "70763862",
+    "70763863",
+    "70763864",
+    "70763865",
+    "70763866",
+    "70763867",
+    "70763868",
+    "70763869",
+    "70763870",
+    "70763871",
+    "70763872",
+    "70763873",
+    "70763874",
+    "70777775",
+    "70777776",
+    "70777777",
+    "70777778",
+    "70777779",
+    "70777780",
+    "70777781",
+    "70777782",
+    "70777783",
+    "70777784",
+    "70777785",
+    "70777786",
+    "70777787",
+    "70777788",
+    "70777789",
+    "214847548",
+    "70777791",
+    "70777792",
+    "70777793"
+   ]
+  },
+  {
+   "date": "2012-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176062:por",
+     "title": "Portaria n.º 286/2012",
+     "published": "2012-09-20",
+     "dre_path": "/dr/detalhe/portaria/286-2012-176062"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 12.º-B",
+    "Adita Artigo 12.º-C",
+    "Altera Artigo 12.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "70763859",
+    "70763860",
+    "70763861",
+    "70763862",
+    "70763863",
+    "70763864",
+    "70763865",
+    "70763866",
+    "70763867",
+    "70763868",
+    "70763869",
+    "70763870",
+    "70763871",
+    "70763872",
+    "214847549",
+    "214847551",
+    "214847557",
+    "214847563",
+    "214847564",
+    "214847565",
+    "214847566",
+    "214847567",
+    "214847568",
+    "70777779",
+    "70777780",
+    "70777781",
+    "70777782",
+    "70777783",
+    "70777784",
+    "70777785",
+    "70777786",
+    "70777787",
+    "70777788",
+    "70777789",
+    "214847548",
+    "70777791",
+    "70777792",
+    "70777793"
+   ]
+  },
+  {
+   "date": "2014-02-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499548:por",
+     "title": "Portaria n.º 283/2013",
+     "published": "2013-08-30",
+     "dre_path": "/dr/detalhe/portaria/283-2013-499548"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 24.º-A"
+   ],
+   "fragments": [
+    "70763859",
+    "70763860",
+    "70763861",
+    "70763862",
+    "70763863",
+    "70763864",
+    "70763865",
+    "70763866",
+    "70763867",
+    "70763868",
+    "70763869",
+    "70763870",
+    "70763871",
+    "70763872",
+    "214847549",
+    "214847551",
+    "214847557",
+    "214847563",
+    "214847564",
+    "214847565",
+    "214847566",
+    "214847567",
+    "214847568",
+    "70777779",
+    "70777780",
+    "70777781",
+    "70777782",
+    "70777783",
+    "70777784",
+    "70777785",
+    "70777786",
+    "214847569",
+    "214847570",
+    "70777788",
+    "70777789",
+    "214847548",
+    "70777791",
+    "70777792",
+    "70777793"
+   ]
+  }
+ ],
+ "fragments": {
+  "70763859": {
+   "fragment_id": "70774981",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1535/2008\n\nde 30 de Dezembro\n\nO Decreto-Lei n.º 116/2008, de 4 de Julho, aprovou diversas medidas de simplificação, desmaterialização e desformalização de actos e processos na área do registo predial. Estão em causa actos muito frequentes na vida das pessoas e das empresas como, por exemplo, a compra e venda de imóveis, com ou sem financiamento bancário, hipotecas sobre imóveis ou doações de imóveis.\n\nAs medidas aprovadas, integradas no âmbito do Programa SIMPLEX, visam reduzir obstáculos burocráticos e formalidades dispensáveis nas áreas do registo predial e dos actos notariais conexos, tendo em vista promover a melhoria da qualidade de vida dos cidadãos e o aumento da competitividade das empresas através da redução dos custos de contexto. As medidas aprovadas não constituem um exercício isolado de simplificação no sector da justiça. Fazem antes parte de um vasto conjunto de medidas já em vigor, que incluem a criação de serviços de «balcão único», a eliminação de formalidades e simplificação de procedimentos e a disponibilização de novos serviços através da Internet. Assim, a título de exemplo, estão já em funcionamento os balcões de atendimento único «Empresa na hora», «Casa pronta», «Marca na hora», «Associação na hora», «Divórcio com partilha» e «Heranças» e o balcão do «Documento Único Automóvel».\n\nNo domínio da eliminação das formalidades desnecessárias, foram adoptadas medidas nos sectores do registo comercial, registo automóvel e registo civil. Na área do registo comercial e actos conexos foi promovida a eliminação da obrigatoriedade de celebração de escrituras públicas para actos da vida societária, a eliminação da obrigatoriedade de existência de livros de escrituração mercantil, a simplificação dos regimes da fusão, da cisão, da transformação, da redução do capital, da dissolução e da liquidação de sociedades. São, por sua vez, exemplos de medidas de simplificação na área do registo automóvel a substituição do livrete e do título de propriedade por um documento único automóvel - o «Certificado de matrícula» e a eliminação da competência territorial das respectivas conservatórias.\n\nQuanto ao registo civil e actos conexos, regista-se, por sua vez, a simplificação dos processos de casamento e divórcio, a eliminação da competência territorial e a dispensa de apresentação de certidões em papel, sempre que a informação já exista nas conservatórias. Também já são numerosos os serviços disponibilizados no sector da justiça através da Internet, cabendo referir os serviços online de registo comercial, de que são exemplo a «empresa online», a promoção pela Internet de actos de registo comercial, a «certidão permanente de registo comercial» (todos em www.empresaonline.pt), as publicações online dos actos da vida societária (www.publicacoes.mj.pt), a informação empresarial simplificadas (www.ies.gov.pt), o «automóvel online» (www.automovelonline.mj.pt), a «marca online» e a «patente online» (www.inpi.pt).\n\nDe entre as medidas de simplificação e desmaterialização de procedimentos no registo predial que entram em vigor a partir de 1 de Janeiro de 2009 destacam-se três. Em primeiro lugar a prestação de novos serviços em regime de «balcão único» por advogados, câmaras de comércio e indústria, notários e solicitadores, no âmbito de transacções de bens imóveis. Os cidadãos passam a poder deslocar-se a qualquer destas entidades para praticar os actos relativos a imóveis, com eliminação de deslocações desnecessárias. Em segundo lugar a eliminação da competência territorial das conservatórias, passando assim a ser possível praticar qualquer acto de registo predial em qualquer das conservatórias do registo predial do País, independente da localização geográfica do imóvel.\n\nFinalmente em terceiro lugar a «certidão permanente de registo predial», que permite o acesso à informação, em suporte electrónico e permanentemente actualizada, dos registos em vigor e das apresentações pendentes, respeitantes a prédio descrito, estando esta última já regulada na Portaria n.º 1513/2008, de 23 de Dezembro.\n\nPara viabilizar a prestação de serviços em regime de «balcões único» pelos advogados, câmaras de comércio e indústria, notários e solicitadores, no âmbito de transacções de bens imóveis adoptaram-se várias medidas cuja vigência se inicia em 1 de Janeiro de 2009 que importa referir.\n\nPor um lado, deixa de ser obrigatória, passando a ser facultativa, a celebração de escritura pública para a generalidade dos actos relativos a bens imóveis, passando estes actos a poder ser praticados por documento particular autenticado por advogados, câmaras de comércio e indústria, notários ou solicitadores.\n\nPor outro lado, foi criado um elemento de segurança adicional para os serviços disponibilizados nestes «balcões únicos», através da realização obrigatória de um depósito electrónico dos documentos relativos ao acto praticado por documento particular autenticado.\n\nAlém disso, para evitar que os cidadãos e empresas tenham de se deslocar às conservatórias, estabeleceu-se que os profissionais que prestem serviços em regime de balcão único passam a ter de promover o registo predial das operações imobiliárias que realizarem por documento particular autenticado ou por escritura notarial. Visa-se assim evitar que cidadãos e empresas sejam onerados com deslocações a diversos serviços públicos. Aliás, por forma a permitir que a promoção desse acto de registo predial seja ainda mais cómoda e simples, permite-se que os mesmos possam ser praticados através da Internet, em www.predialonline.mj.pt, com descontos. Note-se que a presente portaria estabelece que o depósito electrónico obrigatório dos documentos relativos ao acto praticado por documento particular autenticado poderá ser efectuado em simultâneo com o pedido de registo predial através do sítio www.predialonline.mj.pt.\n\nIgualmente, a partir de 1 de Janeiro de 2009, passa a ser possível enviar toda a informação obrigatória para o exercício do direito de preferência por entidades públicas através de uma única via, electrónica e desmaterializada, independentemente da entidade que venha a realizar o acto de compra da casa. Assim, a partir de 1 de Janeiro de 2009, esta funcionalidade passa a estar disponível para a realização de actos de compra e venda nos balcões únicos de advogados, câmaras de comércio e indústria, conservatórias/serviços de registo, notários e solicitadores. O vendedor deixa de ter de se relacionar com várias entidades públicas para transmitir a informação necessária ao exercício do direito de preferência por várias vias e formas diferentes, bastando inserir a informação uma única vez e por via electrónica no sítio www.casapronta.mj.pt, ao qual todas as entidades públicas que podem exercer o direito de preferência têm acesso. Nesta matéria, prevê-se que o valor pago pela comunicação electrónica para o exercício do direito de preferência seja descontado no preço do acto de registo predial subsequente, desde que o mesmo seja promovido através da Internet em www.predialonline.mj.pt.\n\nFinalmente, permite-se que advogados, câmaras de comércio e indústria, notários, serviços de registo e solicitadores cumpram as formalidades fiscais relacionadas com a aquisição do imóvel ou outros negócios imobiliários através da Internet.\n\nA presente portaria visa, pois, regulamentar vários aspectos destas medidas que viabilizam a prestação de serviços no âmbito de transacções de bens imóveis em regime de «balcão único» por advogados, câmaras de comércio e indústria, notários e solicitadores.\n\nAssim:\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do n.º 3 do artigo 24.º do Decreto-Lei n.º 116/2008, de 4 de Julho, e do n.º 1 do artigo 41.º-C e do n.º 2 do artigo 153.º-A do Código do Registo Predial e do artigo 18.º do Decreto-Lei n.º 263-A/2007, de 23 de Julho, o seguinte:"
+  },
+  "70763860": {
+   "fragment_id": "70774982",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "70763861": {
+   "fragment_id": "70774983",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria regulamenta:\n\na) Os requisitos e as condições de utilização da plataforma electrónica para o depósito de documentos particulares autenticados que titulem actos sujeitos a registo predial e dos documentos que os instruam;\n\nb) O pedido online de actos de registo predial."
+  },
+  "70763862": {
+   "fragment_id": "70774984",
+   "type": 11,
+   "heading": "Artigo 2.º — Designação do sítio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Designação do sítio\n\nO depósito electrónico de documentos particulares autenticados e o pedido online de actos de registo predial fazem-se através do sítio na Internet com o endereço www.predialonline.mj.pt, mantido pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)"
+  },
+  "70763863": {
+   "fragment_id": "70774985",
+   "type": 11,
+   "heading": "Artigo 3.º — Funções do sítio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funções do sítio\n\nO sítio referido no artigo 2.º deve permitir, designadamente, as seguintes funções:\n\na) A possibilidade de realizar o depósito electrónico dos documentos particulares autenticados em simultâneo com o pedido online de actos de registo predial;\n\nb) A autenticação dos utilizadores através de certificados digitais;\n\nc) A indicação dos dados de identificação dos interessados;\n\nd) O preenchimento electrónico dos elementos necessários ao depósito electrónico de documentos particulares autenticados e o pedido de registo;\n\ne) O depósito de documentos particulares autenticados que titulem actos sujeitos a registo predial e dos documentos que os instruam;\n\nf) A entrega por meios electrónicos dos documentos necessários à apreciação do pedido de registo;\n\ng) A assinatura electrónica dos documentos entregues, quando necessária;\n\nh) O pagamento dos serviços por via electrónica;\n\ni) A recolha de informação que permita o contacto entre os serviços competentes e os interessados e seus representantes;\n\nj) A certificação da data e da hora em que o depósito electrónico de documentos particulares autenticados ou o pedido de registo foi concluído;\n\nl) O envio de avisos por correio electrónico e short message service (sms) aos utilizadores, quando o deposito electrónico do documento particular autenticado ou o registo tenha sido efectuado."
+  },
+  "70763864": {
+   "fragment_id": "70774986",
+   "type": 1,
+   "heading": "Capítulo II — Depósito electrónico de documento particular autenticado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Depósito electrónico de documento particular autenticado"
+  },
+  "70763865": {
+   "fragment_id": "70774987",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito\n\n1 - Estão sujeitos a depósito electrónico os documentos particulares autenticados que titulem actos sujeitos a registo predial nos termos do artigo 24.º do Decreto-Lei n.º 116/2008, de 4 de Julho, bem como os documentos que os instruam e que devam ficar arquivados por não constarem de arquivo público.\n\n2 - Podem ainda ser depositados electronicamente nos termos do número anterior os documentos de que conste o consentimento do credor ao cancelamento do registo de hipoteca.\n\n3 - O depósito electrónico dos documentos particulares autenticados pode ser efectuado no momento do pedido online de actos de registo predial através do sítio www.predialonline.mj.pt."
+  },
+  "70763866": {
+   "fragment_id": "70774988",
+   "type": 11,
+   "heading": "Artigo 5.º — Plataforma electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Plataforma electrónica\n\n1 - A plataforma electrónica consiste na infra-estrutura tecnológica necessária à realização do depósito, em suporte electrónico, dos documentos referidos no artigo anterior a que estão obrigadas as entidades que procedam à respectiva autenticação.\n\n2 - O acesso à plataforma electrónica para o depósito de documentos particulares autenticados faz-se através do sítio na Internet referido no artigo 2.º\n\n3 - Os serviços a prestar pela plataforma electrónica para o depósito de documentos particulares autenticados que titulem actos sujeitos a registo predial devem satisfazer todas as exigências e condições de segurança estabelecidas no Decreto-Lei n.º 116/2008, de 4 de Julho. e na presente portaria."
+  },
+  "70763867": {
+   "fragment_id": "70774989",
+   "type": 11,
+   "heading": "Artigo 6.º — Depósito electrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Depósito electrónico\n\n1 - Compete à entidade que procede à autenticação do documento particular realizar o depósito electrónico.\n\n2 - A promoção do depósito electrónico de documento particular autenticado que titule acto sujeito a registo predial dispensa o registo em sistema informático previsto na Portaria n.º 657-B/2006, de 29 de Junho."
+  },
+  "70763868": {
+   "fragment_id": "70774990",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazo do depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prazo do depósito\n\n1 - O depósito electrónico de documentos particulares autenticados deve ser efectuado na data da realização da autenticação do documento particular.\n\n2 - Se em virtude de dificuldades de carácter técnico respeitantes ao funcionamento da plataforma electrónica referida no artigo 5.º não for possível realizar o depósito, este facto deve ser expressamente mencionado em documento instrutório a submeter, indicando o motivo da impossibilidade, a data e a hora do facto e a identificação da entidade autenticadora, devendo o depósito ser efectuado nas quarenta e oito horas seguintes.\n\n3 - Em caso de divergência entre a data da autenticação e a data do depósito do documento particular autenticado prevalece a data da autenticação para efeitos da contagem do prazo para a promoção do registo."
+  },
+  "70763869": {
+   "fragment_id": "70774991",
+   "type": 11,
+   "heading": "Artigo 8.º — Arquivo dos originais dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Arquivo dos originais dos documentos\n\n1 - Sem prejuízo do disposto no n.º 5 do artigo 24.º do Decreto-Lei n.º 116/2008, de 4 de Julho, compete às entidades autenticadoras que depositem documentos ao abrigo do disposto nos artigos anteriores arquivar os originais dos documentos depositados.\n\n2 - As câmaras de comércio e indústria, a Câmara dos Solicitadores, a Ordem dos Advogados e a Ordem dos Notários podem criar sistemas de arquivo centralizados, mantidos por estas ou por entidades terceiras contratadas para o efeito, para os quais podem ser transferidos os originais dos documentos depositados, informando o IRN, I. P., por meios electrónicos da relação das câmaras de comércio e indústria, advogados, notários e solicitadores que utilizam esses sistemas."
+  },
+  "70763870": {
+   "fragment_id": "70774992",
+   "type": 11,
+   "heading": "Artigo 9.º — Formulário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Formulário\n\n1 - No formulário de depósito electrónico devem ser designadamente identificados o requerente, os sujeitos, os factos, os prédios, a data da autenticação e os demais elementos essenciais dos actos titulados pelo documento particular autenticado a depositar.\n\n2 - Os documentos instrutórios devem ser classificados pela sua natureza e data de emissão.\n\n3 - O formulário de depósito electrónico dos documentos previstos no n.º 2 do artigo 4.º deve ainda conter, obrigatoriamente, o endereço electrónico da entidade credora que presta o consentimento ao cancelamento de registo de hipoteca.\n\n4 - A plataforma electrónica pode disponibilizar formulários para preenchimento que substituam algum ou alguns dos documentos legalmente exigidos.\n\n5 - Quando o depósito electrónico dos documentos particulares autenticados seja efectuado no momento do pedido online de actos de registo predial, o formulário é único para ambos os efeitos."
+  },
+  "70763871": {
+   "fragment_id": "70774993",
+   "type": 11,
+   "heading": "Artigo 10.º — Formato dos ficheiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Formato dos ficheiros\n\nOs ficheiros que contenham os documentos a submeter a depósito na plataforma electrónica devem adoptar os formatos jpeg, tiff ou pdf e ter uma dimensão máxima de 5 MB."
+  },
+  "70763872": {
+   "fragment_id": "70774994",
+   "type": 11,
+   "heading": "Artigo 11.º — Alteração e rectificação de depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Alteração e rectificação de depósito\n\n1 - Quando se verifique um erro de preenchimento de formulário, de digitalização, de catalogação ou de anexação de ficheiro, durante o procedimento de depósito de documento particular autenticado que se encontre em fase de carregamento a entidade autenticadora pode proceder à respectiva correcção até ao momento da sua submissão.\n\n2 - Nas situações de aceitação, ratificação, rectificação, alteração ou revogação de acto titulado em documento previamente depositado, a plataforma electrónica assegura aos utilizadores a possibilidade de associar, durante o processo de carregamento, os documentos a submeter aos já depositados através da utilização do respectivo código de identificação do documento."
+  },
+  "70763873": {
+   "fragment_id": "70774995",
+   "type": 11,
+   "heading": "Artigo 12.º — Comprovativo de depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comprovativo de depósito\n\n1 - Por cada depósito de documento particular autenticado é disponibilizado um comprovativo com menções de identificação da entidade autenticadora, da data e hora da submissão, dos documentos depositados e do código de identificação atribuído ao documento, o qual é enviado por correio electrónico e, sempre que possível, por sms à entidade que procedeu ao depósito.\n\n2 - Excepciona-se do disposto no número anterior:\n\na) Todos os documentos que devam ficar associados a outros previamente arquivados, os quais são identificados pelo mesmo código;\n\nb) Os documentos depositados nos termos do n.º 2 do artigo 4.º cujo código de identificação é exclusivamente enviado por correio electrónico à entidade que autorizou o cancelamento da hipoteca.\n\n3 - A plataforma electrónica agrega, automaticamente, o comprovativo de depósito aos documentos instrutórios submetidos.\n\n4 - Sem prejuízo do disposto no número seguinte, a entidade autenticadora e os sujeitos do acto titulado podem obter segunda via do código de identificação do documento depositado junto dos serviços de registo, se possível através de meios electrónicos.\n\n5 - Nos casos do n.º 2 do artigo 4.º, a segunda via do código de identificação dos documentos só pode ser disponibilizada à entidade que autorizou o cancelamento da hipoteca."
+  },
+  "70763874": {
+   "fragment_id": "70774996",
+   "type": 11,
+   "heading": "Artigo 13.º — Autenticação electrónica dos depositantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Autenticação electrónica dos depositantes\n\n1 - As entidades que procederem ao depósito devem autenticar-se mediante certificado digital que comprove a qualidade profissional do utilizador.\n\n2 - Para efeitos do disposto no número anterior, apenas são admitidos os certificados digitais de advogados, notários e solicitadores cuja utilização para fins profissionais seja confirmada através de listas electrónicas de certificados, disponibilizadas, respectivamente, pela Ordem dos Advogados, pela Ordem dos Notários e pela Câmara dos Solicitadores.\n\n3 - As listas referidas no número anterior devem ser disponibilizadas ao IRN, I. P., pelas câmaras de comércio e indústria e pelas entidades responsáveis pelos notários que não devam estar inscritos na Ordem dos Notários.\n\n4 - A qualidade do utilizador quando o depósito for efectuado por conservadores, oficiais de registo e notários afectos ou integrados em serviços dependentes do IRN, I. P., é comprovada mediante autenticação no Sistema Integrado de Registo Predial (SIRP)."
+  },
+  "70777775": {
+   "fragment_id": "70774997",
+   "type": 11,
+   "heading": "Artigo 14.º — Validação cronológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Validação cronológica\n\nA plataforma electrónica associa automaticamente ao documento particular depositado electronicamente a data e hora da sua submissão."
+  },
+  "70777776": {
+   "fragment_id": "70774998",
+   "type": 11,
+   "heading": "Artigo 15.º — Consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Consulta\n\n1 - Os documentos depositados podem ser visualizados pela entidade autenticadora e por qualquer pessoa a quem esta tenha disponibilizado o código de identificação referido no artigo 12.º, assim que as condições técnicas o permitirem.\n\n2 - A consulta de documentos particulares autenticados pode ainda ser efectuada, através do respectivo código, dos elementos de identificação, dos sujeitos ou do acto, pelas seguintes entidades:\n\na) Serviços de registo;\n\nb) Magistrados judiciais e do Ministério Público, no âmbito da prossecução das suas atribuições;\n\nc) As que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou instrução, ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências;\n\nd) As que tenham competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de actos que, pela sua natureza, podem alterar ou destruir o Estado de direito constitucionalmente estabelecido, no âmbito da prossecução dos seus fins.\n\n3 - As condições da consulta pelas entidades referidas nas alíneas b) a d) do número anterior devem ser autorizadas por despacho do presidente do IRN, I. P."
+  },
+  "70777777": {
+   "fragment_id": "70774999",
+   "type": 11,
+   "heading": "Artigo 16.º — Outros depósitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Outros depósitos\n\nAo depósito dos documentos de que conste o consentimento do credor ao cancelamento do registo de hipoteca aplica-se, com as necessárias adaptações, o disposto nos artigos anteriores."
+  },
+  "70777778": {
+   "fragment_id": "70775000",
+   "type": 11,
+   "heading": "Artigo 17.º — Gratuitidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gratuitidade\n\nO depósito e a consulta de documentos, por via electrónica, são gratuitos."
+  },
+  "70777779": {
+   "fragment_id": "70775001",
+   "type": 1,
+   "heading": "Capítulo III — Promoção de actos de registo predial online",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Promoção de actos de registo predial online"
+  },
+  "70777780": {
+   "fragment_id": "70775002",
+   "type": 11,
+   "heading": "Artigo 18.º — Pedido online",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pedido online\n\n1 - Os interessados na promoção de actos de registo predial online formulam o seu pedido e enviam, através do sítio a que se refere o artigo 2.º, os documentos necessários ao registo, designadamente:\n\na) Aqueles que comprovem os factos constantes do pedido de registo;\n\nb) Aqueles que comprovem a capacidade e os poderes de representação para o acto, salvo se a verificação da capacidade e poderes resultar, de forma expressa e inequívoca, do título que serve de base ao pedido de registo.\n\n2 - No pedido de registo online podem ainda ser indicados documentos arquivados em serviço da Administração Pública, em serviço de registo ou que tenham sido depositados electronicamente nos termos do capítulo anterior.\n\n3 - Todos os documentos entregues através do sítio da Internet referido no artigo 2.º têm o mesmo valor probatório dos originais, desde que tenham sido correctamente digitalizados, sejam integralmente apreensíveis e tenham sido enviados por quem tenha competência para a conferência de documentos com os respectivos originais em formato de papel.\n\n4 - Aos documentos que não tenham sido enviados pelas entidades referidas no número anterior deve ser associada assinatura electrónica qualificada."
+  },
+  "70777781": {
+   "fragment_id": "70775003",
+   "type": 11,
+   "heading": "Artigo 19.º — Arquivo dos originais dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Arquivo dos originais dos documentos\n\n1 - Os advogados, as câmaras de comércio e indústria, os notários e os solicitadores que enviem documentos que instruam pedidos de registo online ficam obrigados a arquivar os respectivos originais.\n\n2 - Aplica-se ao arquivo dos documentos efectuado nos termos do número anterior o disposto no n.º 2 do artigo 8.º"
+  },
+  "70777782": {
+   "fragment_id": "70775004",
+   "type": 11,
+   "heading": "Artigo 20.º — Autenticação electrónica dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Autenticação electrónica dos interessados\n\n1 - Para efeitos do pedido de actos de registo predial online, a autenticação electrónica dos utilizadores faz-se:\n\na) Mediante a utilização de certificado digital qualificado, nos termos previstos no regime jurídico dos documentos electrónicos e da assinatura electrónica, aprovado pelo Decreto-Lei n.º 290-D/99, de 2 de Agosto, na redacção dada pelo Decreto-Lei n.º 116-A/2006, de 16 de Julho;\n\nb) Nos termos dos n.os 1 a 3 do artigo 13.º para advogados, câmaras de comércio e indústria, notários e solicitadores.\n\n2 - Para efeitos do disposto na alínea a) no número anterior, os requerentes podem utilizar o certificado digital do Cartão de Cidadão."
+  },
+  "70777783": {
+   "fragment_id": "70775005",
+   "type": 11,
+   "heading": "Artigo 21.º — Validação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Validação do pedido\n\n1 - Sem prejuízo do disposto no artigo 23.º, o pedido de actos de registo predial online só é considerado validamente submetido após a emissão de um comprovativo electrónico pelo sítio referido no artigo 2.º que indique a data e a hora em que o pedido foi concluído.\n\n2 - O comprovativo electrónico do pedido de registo deve ser enviado ao interessado através de mensagem de correio electrónico."
+  },
+  "70777784": {
+   "fragment_id": "70775006",
+   "type": 11,
+   "heading": "Artigo 22.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pagamento\n\n1 - Após a submissão electrónica do pedido, é gerada automaticamente uma referência para pagamento dos encargos devidos pelo registo, caso este não seja efectuado de imediato através de cartão de crédito.\n\n2 - O pagamento dos encargos referidos no número anterior deve ser efectuado no prazo de cinco dias após a geração da referência para pagamento, sob pena de inutilização do pedido de registo.\n\n3 - Por despacho do presidente do IRN, I. P., podem ser previstas outras modalidades de pagamento dos encargos devidos pelo registo."
+  },
+  "70777785": {
+   "fragment_id": "70775007",
+   "type": 11,
+   "heading": "Artigo 23.º — Ordem de anotação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Ordem de anotação dos pedidos\n\n1 - Os pedidos de actos de registo predial recebidos através do sítio referido no artigo 2.º são anotados no livro-diário pela ordem da respectiva recepção.\n\n2 - A apresentação do pedido de registo no livro-diário ocorre com a confirmação do pagamento das quantias devidas pelo mesmo.\n\n3 - Para efeitos do disposto no n.º 1, o livro-diário permite anotar imediatamente os pedidos de registo online efectuados a qualquer hora e em qualquer dia da semana, incluindo sábados, domingos e feriados.\n\n4 - A hora da recepção dos pedidos de registo apresentados online tem por referência a hora do meridiano de Greenwich, assinalada nas certidões de registo pela aposição do acrónimo UTC (universal time, coordinated)."
+  },
+  "70777786": {
+   "fragment_id": "70775008",
+   "type": 11,
+   "heading": "Artigo 24.º — Diligências subsequentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Diligências subsequentes\n\n1 - Após a confirmação do pagamento efectuado pelo interessado, o serviço competente procede ao tratamento dos dados indicados e dos documentos entregues e à apreciação do pedido de registo, bem como às seguintes diligências subsequentes:\n\na) Suprimento de eventuais deficiências do pedido de registo, nos termos do artigo 73.º do Código do Registo Predial;\n\nb) Registo dos factos, o qual deve ser comunicado aos interessados através de correio electrónico e, sempre que possível, por sms;\n\nc) Disponibilização ao interessado do comprovativo do pagamento dos encargos devidos;\n\nd) Disponibilização de prova gratuita do registo, mediante o envio por correio electrónico e, sempre que possível, por sms do código de acesso à certidão permanente, nos termos do disposto no n.º 6 do artigo 110.º do Código do Registo Predial;\n\ne) Promoção das restantes diligências previstas em acto normativo ou protocolo.\n\n2 - O código previsto na alínea d) do número anterior pode ser enviado, por indicação do requerente, para mais de um endereço de correio electrónico."
+  },
+  "70777787": {
+   "fragment_id": "70775009",
+   "type": 11,
+   "heading": "Artigo 25.º — Distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Distribuição\n\n1 - Por despacho do presidente do IRN, I. P., são fixados os critérios de distribuição dos pedidos de registo predial online.\n\n2 - Independentemente da modalidade do pedido de registo, sempre que esteja em causa o bom funcionamento dos serviços de registo pode, por despacho, o presidente do IRN, I. P., proceder à distribuição ou redistribuição dos pedidos efectuados num determinado serviço de registo a outros."
+  },
+  "70777788": {
+   "fragment_id": "70775010",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "70777789": {
+   "fragment_id": "70775011",
+   "type": 11,
+   "heading": "Artigo 26.º — Troca de informações e interoperabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Troca de informações e interoperabilidade\n\nPor protocolo a celebrar entre o IRN, I. P., e as entidades públicas intervenientes em matérias directamente relacionadas com actos sujeitos a registo predial podem ser acordados mecanismos de troca de informações em suporte electrónico e interoperabilidade entre os respectivos sistemas de informação, nos termos da lei."
+  },
+  "70777790": {
+   "fragment_id": "70775012",
+   "type": 11,
+   "heading": "Artigo 27.º — Manifestação da intenção de exercício do direito legal de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Manifestação da intenção de exercício do direito legal de preferência\n\n1 - As entidades com competência para realizar documentos particulares autenticados ou escrituras podem consultar, no sítio da Internet www.casapronta.mj.pt, a informação relativa à manifestação da intenção de exercício do direito legal de preferência, mediante indicação do número de identificação fiscal do requerente e do número do pedido submetido, nos termos previstos na secção iv da Portaria n.º 794-B/2007, de 23 de Julho.\n\n2 - A quantia paga nos termos do n.º 1 do artigo 11.º da Portaria n.º 794-B/2007, de 23 de Julho, é reduzida ao valor dos emolumentos previstos nos n.os 2.1 e 2.3 do artigo 21.º do Regulamento Emolumentar dos Registos e do Notariado se o interessado promover o respectivo acto de registo através da Internet em www.predialonline.mj.pt."
+  },
+  "70777791": {
+   "fragment_id": "70775013",
+   "type": 11,
+   "heading": "Artigo 28.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Norma revogatória\n\nÉ revogada a secção iii da Portaria n.º 794-B/2007, de 23 de Julho."
+  },
+  "70777792": {
+   "fragment_id": "70775014",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de Janeiro de 2009."
+  },
+  "214847548": {
+   "fragment_id": "70775012",
+   "type": 11,
+   "heading": "Artigo 27.º — Manifestação da intenção de exercício do direito legal de preferência",
+   "in_force_from": "2010-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 426/2010 - Diário da República n.º 124/2010, Série I de 2010-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/426-2010-334928), em vigor a partir de 2010-07-01"
+   ],
+   "markdown": "###### Artigo 27.º — Manifestação da intenção de exercício do direito legal de preferência\n\n1 - As entidades com competência para realizar documentos particulares autenticados ou escrituras podem consultar, no sítio da Internet www.casapronta.mj.pt, a informação relativa à manifestação da intenção de exercício do direito legal de preferência, mediante indicação do número de identificação fiscal do requerente e do número do pedido submetido, nos termos previstos na secção iv da Portaria n.º 794-B/2007, de 23 de Julho.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 426/2010 - Diário da República n.º 124/2010, Série I de 2010-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/426-2010-334928), em vigor a partir de 2010-07-01"
+  },
+  "70777793": {
+   "fragment_id": "70775015",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Justiça, João Tiago Valente Almeida da Silveira, Secretário de Estado da Justiça, em 23 de Dezembro de 2008."
+  },
+  "214847549": {
+   "fragment_id": "70774995",
+   "type": 11,
+   "heading": "Artigo 12.º — Comprovativo de depósito",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Comprovativo de depósito\n\n1 - Por cada depósito de documento particular autenticado é disponibilizado um comprovativo com menções de identificação da entidade autenticadora, da data e da hora da submissão, dos documentos depositados e do código de identificação atribuído ao documento, o qual é enviado por correio eletrónico à entidade que procedeu ao depósito, após confirmação do pagamento da quantia devida.\n\n2 - Excepciona-se do disposto no número anterior:\n\na) Todos os documentos que devam ficar associados a outros previamente arquivados, os quais são identificados pelo mesmo código;\n\nb) Os documentos depositados nos termos do n.º 2 do artigo 4.º cujo código de identificação é exclusivamente enviado por correio electrónico à entidade que autorizou o cancelamento da hipoteca.\n\n3 - A plataforma electrónica agrega, automaticamente, o comprovativo de depósito aos documentos instrutórios submetidos.\n\n4 - Sem prejuízo do disposto no número seguinte, a entidade autenticadora e os sujeitos do acto titulado podem obter segunda via do código de identificação do documento depositado junto dos serviços de registo, se possível através de meios electrónicos.\n\n5 - Nos casos do n.º 2 do artigo 4.º, a segunda via do código de identificação dos documentos só pode ser disponibilizada à entidade que autorizou o cancelamento da hipoteca.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "214847551": {
+   "fragment_id": "214846021",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Prazo de validade e encargos",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 12.º-A — Prazo de validade e encargos\n\n1 - O código de identificação a que se reporta o artigo anterior é disponibilizado pelo prazo de seis meses.\n\n2 - Pelo depósito eletrónico de documentos é devido o emolumento previsto no Regulamento Emolumentar dos Registos e do Notariado.\n\n> Aditado pelo/a Artigo 7.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "214847557": {
+   "fragment_id": "214846022",
+   "type": 11,
+   "heading": "Artigo 12.º-B — Pagamento",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 12.º-B — Pagamento\n\n1 - Após o depósito eletrónico do documento, é gerada automaticamente uma referência para pagamento do encargo previsto no artigo anterior caso este não seja efetuado de imediato através de cartão de crédito.\n\n2 - O pagamento deve ser efetuado no prazo de cinco dias após a geração da referência para pagamento, sob pena de o depósito não se ter por efetuado.\n\n> Aditado pelo/a Artigo 7.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "214847563": {
+   "fragment_id": "214846023",
+   "type": 11,
+   "heading": "Artigo 12.º-C — Renovação do código de acesso",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 12.º-C — Renovação do código de acesso\n\n1 - Qualquer pessoa pode solicitar a renovação do código de acesso a documento particular autenticado depositado eletronicamente, mediante indicação do código de identificação atribuído ao documento.\n\n2 - O pedido a que se refere o número anterior poder fazer-se:\n\na) Através do sítio na Internet com o endereço www.predialonline.mj.pt, mantido pelo Instituto dos Registos e do Notariado, I. P.;\n\nb) Verbalmente, em qualquer serviço com competência para a prática de atos de registo predial.\n\n3 - A renovação do código de acesso é efetuada pelo prazo de um ano a partir do momento em que seja confirmado o pagamento dos montantes devidos.\n\n4 - A renovação do código de acesso pode ser pedida com um mês de antecedência relativamente ao respetivo prazo de validade e pode ocorrer mesmo depois de findo aquele.\n\n5 - Pela renovação do código de acesso são devidos os emolumentos previstos no Regulamento Emolumentar dos Registos e do Notariado.\n\n> Aditado pelo/a Artigo 7.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "214847564": {
+   "fragment_id": "70774996",
+   "type": 11,
+   "heading": "Artigo 13.º — Autenticação electrónica dos depositantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Autenticação electrónica dos depositantes\n\n1 - As entidades que procederem ao depósito devem autenticar-se mediante certificado digital que comprove a qualidade profissional do utilizador.\n\n2 - Para efeitos do disposto no número anterior, apenas são admitidos os certificados digitais de advogados, notários e solicitadores cuja utilização para fins profissionais seja confirmada através de listas electrónicas de certificados, disponibilizadas, respectivamente, pela Ordem dos Advogados, pela Ordem dos Notários e pela Câmara dos Solicitadores.\n\n3 - As listas referidas no número anterior devem ser disponibilizadas ao IRN, I. P., pelas câmaras de comércio e indústria e pelas entidades responsáveis pelos notários que não devam estar inscritos na Ordem dos Notários.\n\n4 - A qualidade do utilizador quando o depósito for efectuado por conservadores, oficiais de registo e notários afectos ou integrados em serviços dependentes do IRN, I. P., é comprovada mediante autenticação no Sistema Integrado de Registo Predial (SIRP)."
+  },
+  "214847565": {
+   "fragment_id": "70774997",
+   "type": 11,
+   "heading": "Artigo 14.º — Validação cronológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Validação cronológica\n\nA plataforma electrónica associa automaticamente ao documento particular depositado electronicamente a data e hora da sua submissão."
+  },
+  "214847566": {
+   "fragment_id": "70774998",
+   "type": 11,
+   "heading": "Artigo 15.º — Consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Consulta\n\n1 - Os documentos depositados podem ser visualizados pela entidade autenticadora e por qualquer pessoa a quem esta tenha disponibilizado o código de identificação referido no artigo 12.º, assim que as condições técnicas o permitirem.\n\n2 - A consulta de documentos particulares autenticados pode ainda ser efectuada, através do respectivo código, dos elementos de identificação, dos sujeitos ou do acto, pelas seguintes entidades:\n\na) Serviços de registo;\n\nb) Magistrados judiciais e do Ministério Público, no âmbito da prossecução das suas atribuições;\n\nc) As que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou instrução, ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências;\n\nd) As que tenham competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de actos que, pela sua natureza, podem alterar ou destruir o Estado de direito constitucionalmente estabelecido, no âmbito da prossecução dos seus fins.\n\n3 - As condições da consulta pelas entidades referidas nas alíneas b) a d) do número anterior devem ser autorizadas por despacho do presidente do IRN, I. P."
+  },
+  "214847567": {
+   "fragment_id": "70774999",
+   "type": 11,
+   "heading": "Artigo 16.º — Outros depósitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Outros depósitos\n\nAo depósito dos documentos de que conste o consentimento do credor ao cancelamento do registo de hipoteca aplica-se, com as necessárias adaptações, o disposto nos artigos anteriores."
+  },
+  "214847568": {
+   "fragment_id": "70775000",
+   "type": 11,
+   "heading": "Artigo 17.º — Gratuitidade",
+   "in_force_from": "2012-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Gratuitidade\n\nO depósito e a consulta de documentos, por via electrónica, são gratuitos.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 286/2012 - Diário da República n.º 183/2012, Série I de 2012-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/286-2012-176062), em vigor a partir de 2012-10-01"
+  },
+  "214847569": {
+   "fragment_id": "214846024",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Comunicação eletrónica pelos agentes de execução ou por oficial de justiça",
+   "in_force_from": "2014-02-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2014-02-26"
+   ],
+   "markdown": "###### Artigo 24.º-A — Comunicação eletrónica pelos agentes de execução ou por oficial de justiça\n\n1 - A comunicação eletrónica de factos sujeitos a registo pelos agentes de execução ou por oficial de justiça a realizar diligências próprias do agente de execução processa-se por comunicação direta entre os sistemas informáticos que servem de suporte à atividade daqueles e o sistema informático do registo predial.\n\n2 - À comunicação eletrónica referida no número anterior aplica-se o disposto nos artigos 18.º e seguintes.\n\n3 - Efetuado o registo é disponibilizada, por via eletrónica, ao agente de execução ou ao oficial de justiça, certidão dos registos em vigor sobre o prédio.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 283/2013 - Diário da República n.º 167/2013, Série I de 2013-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/283-2013-499548), em vigor a partir de 2014-02-26"
+  },
+  "214847570": {
+   "fragment_id": "70775009",
+   "type": 11,
+   "heading": "Artigo 25.º — Distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Distribuição\n\n1 - Por despacho do presidente do IRN, I. P., são fixados os critérios de distribuição dos pedidos de registo predial online.\n\n2 - Independentemente da modalidade do pedido de registo, sempre que esteja em causa o bom funcionamento dos serviços de registo pode, por despacho, o presidente do IRN, I. P., proceder à distribuição ou redistribuição dos pedidos efectuados num determinado serviço de registo a outros."
+  }
+ }
+}

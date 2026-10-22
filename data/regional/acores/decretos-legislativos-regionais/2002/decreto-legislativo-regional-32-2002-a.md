@@ -1,0 +1,658 @@
+---
+schema_version: '1.0'
+id: pt:dre:185095:por
+title: Decreto Legislativo Regional n.º 32/2002/A
+short_title: null
+summary: Estabelece o regime de cooperação técnica e financeira entre a administração regional e a administração local
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 32/2002/A
+official_date: null
+publication_date: '2002-08-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 182/2002, Série I-A de 2002-08-08
+  number: '182'
+  series: I
+  supplement: null
+  pages: 5745 - 5751
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/08/182a00/57455751.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-08-09'
+version_history:
+  file: decreto-legislativo-regional-32-2002-a.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2002-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2005-11-11'
+    amending: pt:dre:584639:por
+    amending_title: Decreto Legislativo Regional n.º 27/2005/A
+    changes:
+    - Altera Artigo 15.º
+  - date: '2015-11-11'
+    amending: pt:dre:70961399:por
+    amending_title: Decreto Legislativo Regional n.º 24/2015/A
+    changes:
+    - Adita Artigo 18.º-A
+    - Adita Artigo 24.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+  - date: '2020-01-25'
+    amending: pt:dre:128470390:por
+    amending_title: Decreto Legislativo Regional n.º 5/2020/A
+    changes:
+    - Altera Artigo 19.º
+  - date: '2024-08-09'
+    amending: pt:dre:875899348:por
+    amending_title: Decreto Legislativo Regional n.º 6/2024/A
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 24.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/32/2002/a/cons/20240808/pt/html
+  oj: null
+  dre: '185095'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/32-2002-185095
+  internal: pt:dre:185095:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/32-2002-185095
+  metadata_url: https://data.dre.pt/eli/declegreg/32/2002/a/cons/20240808/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2002-70980236
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2002-70980236
+  retrieved_at: '2026-10-22T12:04:13Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 988ba4de51a07251e59d01ef2a2374c4e304ac99fad4c05a2dd5e2d0c1adb343
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:04:13Z'
+  notes: 5 versão(ões); histórico completo em decreto-legislativo-regional-32-2002-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Associação de Municípios
+- Autonomia Regional
+- Financiamento
+- Comissão de Acompanhamento
+- Governo Regional
+- Contrato
+- Contrato de Desenvolvimento
+- Cooperação Financeira
+- Cooperação Técnica
+- Desenvolvimento Regional
+- Direcção Regional de Organização e Administração Pública
+- Fiscalização
+- Prodesa
+- Administração Local
+- Câmara Municipal
+- Administração Regional
+- Açores
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:584639:por
+  label: Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2005-584639
+  date: '2005-11-10'
+- type: amended_by
+  target: pt:dre:70961399:por
+  label: Adita Artigo 18.º-A; Adita Artigo 24.º-A; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo
+    41.º; Altera Artigo 42.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2015-70961399
+  date: '2015-11-10'
+- type: amended_by
+  target: pt:dre:128470390:por
+  label: Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2020-128470390
+  date: '2020-01-24'
+- type: amended_by
+  target: pt:dre:875899348:por
+  label: Altera Artigo 1.º; Revoga Artigo 23.º; Revoga Artigo 24.º; Revoga Artigo 24.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-875899348
+  date: '2024-08-08'
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/6/1995/04/28/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/6/1995/04/28/a/dre
+article_structure:
+  article_count: 44
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:04:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 32/2002/A
+
+Decreto Legislativo Regional n.º 32/2002/A
+
+Regime de cooperação técnica e financeira entre a administração regional e a administração local
+
+O estabelecimento de uma relação cooperativa com a administração local é um dos objectivos programáticos do VIII Governo Regional dos Açores.
+
+A colaboração entre a administração regional e a administração local no sentido de permitir uma resposta mais célere aos problemas com que se debatem as autarquias, bem como dignificar o poder local democrático, no respeito pelas atribuições e competências próprias, prossegue com a apresentação do presente decreto legislativo regional.
+
+A operacionalização das grandes linhas de orientação estratégica e dos objectivos que presidem ao Programa Operacional para o Desenvolvimento Económico e Social dos Açores (PRODESA), e mormente quanto ao respectivo eixo n.º 4, «Apoiar o desenvolvimento local do potencial endógeno», determina a necessidade de criar um regime que alargue o âmbito da cooperação financeira indirecta incluindo investimentos nas áreas do ensino, da cultura, do desporto e do lazer.
+
+Por outro lado, reforça-se o regime da cooperação financeira directa em áreas onde os investimentos da responsabilidade dos municípios adquirem particular relevo e dimensão regionais, em que também se inclui a educação, designadamente no que concerne aos estabelecimentos de ensino.
+
+A presente proposta, atenta a importância das freguesias no contexto do poder autárquico local e a sua proximidade aos cidadãos, clarifica e amplia o regime de cooperação técnica e financeira, precisando o seu alcance e procedimentos.
+
+Assim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Âmbito
+
+O presente diploma estabelece:
+
+a) O regime de celebração de contratos de desenvolvimento, de natureza sectorial ou plurissectorial, entre a administração regional autónoma dos Açores e os municípios da Região, nos domínios para o efeito definidos;
+
+b) (Revogada.)
+
+> Alterado pelo/a Artigo 52.º do/a [Decreto Legislativo Regional n.º 6/2024/A - Diário da República n.º 153/2024, Série I de 2024-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-875899348), em vigor a partir de 2024-08-09
+
+###### Artigo 2.º — Objecto
+
+Constitui objecto dos contratos ARAAL a execução de um projecto ou conjunto de projectos que envolvam técnica e financeiramente um ou mais municípios e departamentos da administração regional.
+
+###### Artigo 3.º — Contratos de desenvolvimento
+
+1 - Os contratos de desenvolvimento entre a administração regional autónoma e a administração local, adiante abreviadamente designados por contratos ARAAL, constituem instrumentos orientadores de investimentos públicos no quadro dos objectivos da política de desenvolvimento regional, podendo revestir as seguintes modalidades:
+
+a) Contratos de cooperação técnica e financeira da administração regional na realização de investimentos de âmbito das competências das autarquias locais;
+
+b) Contratos de colaboração das autarquias locais na realização de investimentos no âmbito das competências da administração regional;
+
+c) Contratos de coordenação das actuações da administração regional e das autarquias locais na realização de investimentos integrados que respeitem conjuntamente as competências da administração regional e das autarquias locais.
+
+2 - No caso de o objecto do contrato ARAAL incluir a execução de projectos que possam beneficiar entidades públicas e privadas ou empresas públicas, podem estas ser admitidas como partes contratantes.
+
+3 - O regime estabelecido neste diploma é também aplicável às associações e federações de municípios ou empresas concessionárias destes.
+
+### Capítulo II — Modalidades dos contratos
+
+#### Secção I — Contratos de cooperação
+
+###### Artigo 4.º — Empreendimentos abrangidos
+
+1 - No âmbito da cooperação a que se refere a alínea a) do n.º 1 do artigo 3.º, os contratos ARAAL podem ter lugar na realização de investimentos nos seguintes domínios:
+
+a) Ordenamento municipal do território, incluindo a elaboração dos planos respectivos;
+
+b) Saneamento básico, compreendendo sistemas de captação, adução, armazenagem e distribuição de água e sistemas de águas residuais e pluviais, bem como sistemas de recolha, transporte e tratamento de resíduos sólidos;
+
+c) Infra-estruturas municipais de transporte, designadamente no que toca à construção e reparação da rede viária municipal, incluindo o respectivo equipamento e obras de arte;
+
+d) Construção, ampliação ou grande reparação de edifícios escolares propriedade dos municípios;
+
+e) Turismo, cultura, lazer e desporto;
+
+f) Construção, reconstrução ou grandes reparações de edifícios sede de juntas de freguesia e de associações de freguesias cujo investimento revista carácter urgente, tendo em vista assegurar a funcionalidade dos órgãos da freguesia.
+
+2 - A cooperação técnico-financeira tem carácter complementar, abrangendo apenas, de entre os empreendimentos a que se referem as alíneas a) a e) do número anterior, aqueles que sejam também objecto de comparticipação comunitária.
+
+3 - Podem também revestir a modalidade de cooperação financeira os contratos ARAAL através dos quais a Região comparticipe os municípios pelos prejuízos causados pela ocorrência de intempéries, situações imprevisíveis e excecionais, independentemente de configurarem, ou não, situações de calamidade pública.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 24/2015/A - Diário da República n.º 220/2015, Série I de 2015-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2015-70961399), em vigor a partir de 2015-11-11
+
+###### Artigo 5.º — Comparticipação indirecta
+
+1 - A cooperação financeira assume a forma de comparticipação indirecta para os empreendimentos a que se referem as alíneas a) a e) do n.º 1 do artigo anterior, através do pagamento pelo Governo Regional de parte dos juros respeitantes a empréstimos contraídos pelo município para financiamento de empreendimento, na parte não coberta pela comparticipação comunitária, junto de instituições de crédito com protocolo para o efeito celebrado.
+
+2 - A cooperação financeira nos investimentos referidos nas alíneas a) a e) do n.º 1 do artigo anterior poderá ainda ter por objecto o pagamento de encargos resultantes de atrasos no recebimento pelos municípios de verbas resultantes da aprovação de investimentos no âmbito do PRODESA, sempre que o atraso seja superior a 90 dias.
+
+3 - A cooperação referida no número anterior é objecto de protocolo celebrado entre o Governo Regional e os municípios.
+
+###### Artigo 6.º — Comparticipação directa
+
+A cooperação financeira pode assumir a forma de comparticipação directa nos seguintes casos:
+
+a) Elaboração de planos de pormenor de vilas ou cidades que sejam sede de concelho;
+
+b) Construção, ampliação ou grande reparação de edifícios escolares propriedade dos municípios;
+
+c) Empreendimentos no âmbito da actividade desportiva, nos casos e termos previstos no artigo 16.º;
+
+d) Empreendimentos a que se refere a alínea f) do n.º 1 do artigo 4.º, através da repartição das responsabilidades de financiamento entre o Governo Regional e as autarquias locais.
+
+e) Concessão excecional de auxílios financeiros a que se refere o n.º 3 do artigo 4.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 24/2015/A - Diário da República n.º 220/2015, Série I de 2015-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2015-70961399), em vigor a partir de 2015-11-11
+
+###### Artigo 7.º — Propostas de candidatura
+
+1 - As propostas de candidatura relativas aos investimentos a que se referem as alíneas a), b), c) e e) do artigo anterior são da iniciativa dos municípios, sendo apresentadas junto dos departamentos do Governo Regional competentes em razão da matéria, cabendo a estes apreciá-las.
+
+2 - As propostas de candidatura à cooperação técnico-financeira relativa a sedes de juntas de freguesias são da iniciativa dos municípios, sendo apresentadas ao secretário regional competente em matéria de administração local, através da Direcção Regional de Organização e Administração Pública (DROAP), cabendo a esta apreciá-las.
+
+3 - Em função da matéria, as entidades regionais envolvidas podem submeter a apreciação das candidaturas, ou determinado aspecto das mesmas, a outras entidades públicas ou privadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 24/2015/A - Diário da República n.º 220/2015, Série I de 2015-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2015-70961399), em vigor a partir de 2015-11-11
+
+###### Artigo 8.º — Selecção das propostas
+
+Sem prejuízo do disposto no n.º 2 do artigo 5.º, a selecção de candidaturas, quando for caso disso, será efectuada pelas entidades regionais envolvidas e basear-se-á, com excepção da cooperação financeira directa para o apoio a sedes de juntas de freguesia, na consideração dos seguintes factores:
+
+a) Dimensão e gravidade da situação que o projecto visa corrigir, designadamente numa perspectiva de crescimento harmonioso no espaço regional;
+
+b) Integração ou articulação com programas específicos da administração regional autónoma;
+
+c) Prossecução de soluções intermunicipais, sempre que tal se revele técnica e economicamente mais correcto;
+
+d) Número de projectos por município, com vista a uma repartição equitativa;
+
+e) Complexidade do projecto proposto, no sentido de abranger e integrar várias soluções;
+
+f) Carácter complementar do projecto em relação a outros já realizados, concorrendo, assim, para soluções integradas.
+
+###### Artigo 9.º — Aprovação das candidaturas e celebração dos contratos
+
+1 - As candidaturas seleccionadas são submetidas a aprovação do Conselho do Governo Regional, através do secretário regional competente em matéria de administração
+
+local.
+
+2 - Os contratos ARAAL são celebrados após a aprovação das candidaturas no Conselho do Governo Regional, cabendo à DROAP promover as diligências para o efeito necessárias e elaborar as respectivas minutas.
+
+##### Subsecção I — Comparticipação financeira indirecta
+
+###### Artigo 10.º — Montante da comparticipação
+
+A comparticipação financeira do Governo Regional, na modalidade da cooperação financeira indirecta a que se refere o n.º 1 do artigo 5.º, corresponde às seguintes percentagens sobre a taxa EURIBOR a seis meses em vigor à data das amortizações dos empréstimos contraídos pelos municípios:
+
+a) Ordenamento municipal do território, incluindo a elaboração dos planos respectivos - 50%;
+
+b) Ambiente, na área do saneamento básico, compreendendo sistemas de captação, adução, armazenagem e distribuição de água e sistemas de águas residuais e pluviais, bem como sistemas de recolha, transporte e tratamento de resíduos sólidos - 70%;
+
+c) Infra-estruturas municipais de transporte, designadamente no que toca à construção e reparação da rede viária municipal, incluindo o respectivo equipamento e obras de arte - 70%;
+
+d) Grande reparação de edifícios escolares propriedade dos municípios - 70%;
+
+e) Turismo, cultura, lazer e desporto - 40%.
+
+###### Artigo 11.º — Valor elegível
+
+1 - São elegíveis à cooperação financeira indirecta os valores de investimento que forem objecto de comparticipação comunitária, de acordo com o disposto no n.º 1 do artigo 5.º, sendo o montante de empréstimo a contrair igual ou inferior à parte que for efectivamente suportada pelo município.
+
+2 - Caso o empreendimento seja objecto de financiamento por outras fontes, além do município, o valor elegível será apenas aquele que for efectivamente suportado por este.
+
+###### Artigo 12.º — Processamento e comprovação
+
+O processamento da comparticipação financeira do Governo Regional bem como a comprovação da execução respectiva fazem-se nos termos que forem definidos no contrato ARAAL e no protocolo celebrado com a entidade bancária.
+
+##### Subsecção II — Cooperação financeira directa
+
+###### Artigo 13.º — Sedes de juntas de freguesia
+
+Nas propostas de contrato ARAAL de cooperação financeira directa respeitantes a sedes de juntas de freguesia a que se refere a alínea f) do n.º 1 do artigo 4.º, deve atender-se à seguinte ordem de prioridades:
+
+a) Dimensão e gravidade da situação que o projecto visa corrigir, designadamente numa perspectiva de crescimento harmonioso no espaço regional;
+
+b) Freguesias privadas de instalações específicas;
+
+c) Estado de degradação e insegurança das instalações;
+
+d) Valor histórico e arquitectónico dos edifícios sede a reconstruir ou beneficiar ou escolhidos para instalar as novas sedes;
+
+e) Existência de planos urbanísticos para a área do edifício sede;
+
+f) Capacidade físico-funcional das instalações face à população da freguesia.
+
+###### Artigo 14.º — Montante da comparticipação
+
+A comparticipação financeira directa do Governo Regional prevista na alínea f) do n.º 1 do artigo 4.º está sujeita às seguintes regras:
+
+a) Taxa de comparticipação de 50% do custo previsto, com o limite máximo correspondente a 250 vezes o índice 100 da escala indiciária das carreiras do regime geral da função pública;
+
+b) Nos casos em que a sede da junta de freguesia seja parte integrante de um edifício polivalente, onde funcionem outras instituições, o custo global do projecto é dividido proporcionalmente entre as entidades envolvidas, incidindo a cooperação sobre o montante correspondente à parcela que cabe à junta de freguesia;
+
+c) Não serão objecto de comparticipação as alterações ao custo dos projectos provocadas por trabalhos a mais ou revisões de preços.
+
+###### Artigo 15.º — Construções escolares
+
+1 - Podem ser sujeitos ao regime de cooperação financeira directa, não cumulável com qualquer outra forma de cooperação técnico-financeira prevista no presente diploma, os seguintes projectos de construções escolares, propriedade dos municípios:
+
+a) Reconstrução e grande reparação de edifícios escolares danificados em consequência de calamidades naturais ou incêndio;
+
+b) Construção, ampliação ou grande reparação, incluindo a alteração global das instalações eléctricas e de telecomunicações e as intervenções necessárias à adequação do edifício às tecnologias de informação e comunicação;
+
+c) Construção de instalações sanitárias;
+
+d) Substituição de coberturas e instalação de vedações.
+
+2 - A cooperação referida na alínea a) do n.º 1 corresponde a um valor até 75% do montante global a investir, sendo fixada, em cada caso, pelo Conselho do Governo Regional aquando da aprovação da candidatura nos termos do n.º 1 do artigo 7.º do presente diploma.
+
+3 - A cooperação referida nas alíneas b) a d) do n.º 1 corresponde a 25% do montante global investido, sendo majorado para 50% quando o investimento se destine a substituir um ou mais edifícios escolares, no âmbito da reestruturação da rede educativa, assumindo em qualquer caso, quando a obra seja co-financiada pela União Europeia, o valor da parte não coberta pela comparticipação comunitária.
+
+4 - A cooperação efectuada nos termos do presente artigo pressupõe a execução de obras de conservação periódica com um intervalo não superior a dois anos.
+
+> Alterado pelo/a Artigo 60.º do/a [Decreto Legislativo Regional n.º 27/2005/A - Diário da República n.º 216/2005, Série I-A de 2005-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2005-584639), em vigor a partir de 2005-11-11
+
+###### Artigo 16.º — Construção e beneficiação de infra-estruturas desportivas
+
+1 - Podem ser sujeitos ao regime da cooperação financeira directa os seguintes projectos de infra-estruturas desportivas:
+
+a) Arrelvamentos com relva sintética de campos de futebol já existentes;
+
+b) Construção de campos de futebol em relva sintética;
+
+c) Pistas de atletismo em material sintético, piscinas cobertas e aquecidas de 25 m e pavilhões desportivos;
+
+d) Outras instalações desportivas consideradas relevantes para o desenvolvimento desportivo.
+
+2 - O reconhecimento da relevância referida na alínea d) do número anterior cabe ao membro do Governo Regional competente em matéria de desporto.
+
+3 - A cooperação efectuada nos termos do presente artigo não é cumulável com qualquer outra forma de cooperação técnico-financeira prevista no presente diploma e pressupõe a aprovação dos projectos no âmbito do PRODESA.
+
+4 - A cooperação no âmbito do referido no n.º 1 corresponde a 10% do valor do custo global da obra aprovada no PRODESA, não podendo ultrapassar o montante fixado em portaria conjunta dos secretários regionais competentes em matéria de administração local e desporto.
+
+###### Artigo 17.º — Planos de pormenor
+
+1 - Na selecção de propostas de cooperação para a elaboração de planos de pormenor de vilas ou cidades que sejam sede de concelho, efectuada nos termos do artigo 6.º, será considerada a existência de plano director municipal aprovado e vigente.
+
+2 - A comparticipação financeira directa do Governo Regional poderá atingir 50% do custo global do empreendimento, com o limite máximo correspondente a 100 vezes o índice 100 da escala indiciária das carreiras do regime geral da função pública.
+
+###### Artigo 18.º — Processamento e comprovação
+
+O pagamento da comparticipação financeira do Governo Regional e a comprovação da respectiva execução efectuam-se de acordo com o que for estabelecido no contrato ARAAL.
+
+###### Artigo 18.º-A — Concessão excecional de auxílios financeiros
+
+1 - As candidaturas à concessão de apoios a que se refere o n.º 3 do artigo 4.º serão ordenadas e selecionadas pelos departamentos do Governo Regional competentes em razão da matéria tendo em conta o grau de urgência do auxílio a prestar e, quando for caso disso, o interesse do projeto de investimento a realizar.
+
+2 - Na sequência do disposto no número anterior, devem as candidaturas ser remetidas ao membro do Governo Regional responsável pelas áreas das finanças e das autarquias locais para que sejam submetidas a aprovação do Conselho do Governo Regional.
+
+3 - A comparticipação financeira direta do Governo Regional prevista no n.º 3 do artigo 4.º será fixada pelo Conselho do Governo Regional consoante a gravidade ou a necessidade das situações objeto de apoio, podendo atingir até 70 % do montante global a investir.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 24/2015/A - Diário da República n.º 220/2015, Série I de 2015-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2015-70961399), em vigor a partir de 2015-11-11
+
+#### Secção II — Contratos de colaboração
+
+###### Artigo 19.º — Empreendimentos abrangidos
+
+1 - Os contratos ARAAL a celebrar no âmbito da colaboração prevista na alínea b) do n.º 1 do artigo 3.º podem ter por objectivo a realização de investimentos ou a realização de outras despesas públicas nas seguintes áreas:
+
+a) Ambiente e recursos naturais, visando, nomeadamente, a manutenção e recuperação da orla marítima e das margens das lagoas e cursos de água, a instalação de sistemas de despoluição ou redução de cargas poluentes do ambiente e a protecção e conservação da natureza;
+
+b) Abastecimento de água às explorações agrícolas, bem como construção e melhoramento de caminhos agrícolas;
+
+c) Construção, ampliação ou grande reparação de edifícios escolares propriedade da Região;
+
+d) Criação de redes de transporte escolar de âmbito concelhio e seu funcionamento;
+
+e) Ciência e tecnologia;
+
+f) Cultura e desporto;
+
+g) Juventude, através da criação das infra-estruturas de apoio necessárias;
+
+h) Habitação;
+
+i) Outros domínios respeitantes à promoção do desenvolvimento regional, incluindo infra-estruturas de apoio ao investimento produtivo e formação profissional.
+
+2 - A realização de projetos na área da ciência e tecnologia tem caráter excecional, abrangendo aqueles que pela sua dimensão e natureza tenham relevância regional, integrando igualmente a colaboração entre a administração regional, as autarquias locais e o setor público empresarial local, para além dos contratos previstos no n.º 1, a concessão de apoios a programas de fomento à criação de emprego e do empreendedorismo, nos termos que decorrem das disposições legais e regulamentares que os prevejam.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 5/2020/A - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2020-128470390), em vigor a partir de 2020-01-25
+
+###### Artigo 20.º — Formas de comparticipação
+
+As comparticipações financeiras do Governo Regional e dos municípios assumirão as formas e os montantes que forem definidos no respectivo contrato ARAAL.
+
+###### Artigo 21.º — Iniciativa e elaboração
+
+1 - A iniciativa de apresentação de propostas de colaboração pode ser tomada quer pelos departamentos da administração regional quer pelos municípios.
+
+2 - Aceite a proposta, a minuta do respectivo contrato será elaborada e apresentada ao município pela DROAP, em articulação com os departamentos regionais competentes nos sectores abrangidos, sem prejuízo das negociações directas entre estes e os municípios.
+
+#### Secção III — Contratos de coordenação
+
+###### Artigo 22.º — Empreendimentos abrangidos
+
+1 - A coordenação prevista na alínea c) do n.º 1 do artigo 3.º concretiza-se através da celebração de contratos ARAAL cujo objecto respeite à execução de projectos integrados de investimento que, envolvendo competências conjuntas da administração regional e dos municípios, tenham a ver com as áreas definidas no n.º 1 do artigo 4.º e no artigo 19.º do presente diploma.
+
+2 - Na parte respeitante aos domínios a que se refere o n.º 1 do artigo 4.º, a comparticipação do Governo Regional nos empreendimentos fica sujeita às regras dos contratos ARAAL de cooperação definidas no presente diploma.
+
+### Capítulo III — Regime de cooperação técnica e financeira com freguesias
+
+###### Artigo 23.º — Acordos de cooperação, colaboração ou coordenação
+
+1 - Sem prejuízo do disposto quanto à alínea f) do n.º 1 do artigo 4.º, a realização de projectos em cooperação, colaboração ou coordenação com as juntas de freguesia e associações de freguesia, desde que não respeitantes a investimentos que tenham sido nelas delegados pelo município, pode concretizar-se através da celebração de acordo escrito entre os departamentos regionais competentes e as entidades autárquicas referidas, aplicando-se com as devidas adaptações o regime estabelecido para os contratos ARAAL no que se refere ao regime, fiscalização e controlo de execução dos contratos.
+
+2 - A eficácia dos acordos a que se refere o número anterior não depende de publicação no Jornal Oficial.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto Legislativo Regional n.º 6/2024/A - Diário da República n.º 153/2024, Série I de 2024-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-875899348), em vigor a partir de 2024-08-09
+
+###### Artigo 24.º — Áreas abrangidas
+
+1 - A cooperação financeira com as freguesias e associações de freguesias consistirá no apoio financeiro directo nas seguintes áreas:
+
+a) Mobiliário e equipamento destinado ao normal funcionamento das sedes;
+
+b) Pequenas reparações nas respectivas sedes cujo valor não ultrapasse 50 vezes o índice 100 da escala indiciária das carreiras do regime geral da função pública;
+
+c) Despesas de deslocação decorrentes de participação em reuniões, colóquios e acções de formação promovidas pelos serviços dependentes do secretário regional competente em matéria de administração local;
+
+d) Aquisição, construção, reconstrução ou reparações de sedes de associações de freguesias com o limite de 250 vezes o índice 100 da escala indiciária das carreiras do regime geral da função pública.
+
+2 - Os montantes de comparticipação nas áreas referidas no n.º 1 serão decididos pelo secretário regional competente em matéria de administração local, tendo em conta, nomeadamente, as dotações disponíveis no Plano da Região para esta acção e a oportunidade dos apoios solicitados face a outras comparticipações anteriormente concedidas.
+
+3 - Os pedidos de cooperação serão enviados pelas juntas de freguesia ou suas associações à DROAP, acompanhados de duas ou mais propostas de empresas fornecedoras, com indicação dos bens a adquirir ou das obras a realizar e dos respectivos custos.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto Legislativo Regional n.º 6/2024/A - Diário da República n.º 153/2024, Série I de 2024-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-875899348), em vigor a partir de 2024-08-09
+
+###### Artigo 24.º-A — Concessão excecional de auxílios financeiros
+
+1 - Sem prejuízo do disposto no artigo anterior, a cooperação financeira com as freguesias e associações de freguesias poderá abranger a comparticipação por prejuízos causados pela ocorrência de intempéries, situações imprevisíveis e excecionais, as quais não configurem situações de calamidade pública.
+
+2 - As candidaturas à concessão dos apoios previstos no número anterior deverão ser apresentadas pelas juntas de freguesia ou associações de freguesia, consoante o caso, junto dos departamentos regionais competentes em razão da matéria.
+
+3 - Compete aos departamentos do Governo Regional competentes em razão da matéria apreciar as candidaturas, ordenando-as e selecionando-as, tendo em conta o grau de urgência do auxílio a prestar e, quando for caso disso, o interesse do projeto de investimento a realizar.
+
+4 - Na sequência do disposto no número anterior, e tendo em conta a excecionalidade dos apoios, devem as candidaturas ser remetidas ao membro do Governo Regional competente em matéria de finanças e de autarquias locais para que sejam submetidas a aprovação do Conselho do Governo Regional.
+
+5 - A comparticipação financeira do Governo Regional prevista no n.º 1 será fixada pelo Conselho do Governo Regional consoante a gravidade ou a necessidade das situações objeto de apoio, podendo atingir até 70 % do montante global a investir.
+
+> Revogado pelo/a Artigo 52.º do/a [Decreto Legislativo Regional n.º 6/2024/A - Diário da República n.º 153/2024, Série I de 2024-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-875899348), em vigor a partir de 2024-08-09
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 24/2015/A - Diário da República n.º 220/2015, Série I de 2015-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2015-70961399), em vigor a partir de 2015-11-11
+
+### Capítulo IV — Regime de contratos
+
+###### Artigo 25.º — Elementos das propostas
+
+1 - As propostas de contratos no âmbito da cooperação financeira directa e de contratos de colaboração ou coordenação são instruídas com os elementos considerados necessários à sua apreciação, designadamente memória justificativa e descritiva das soluções preconizadas, decisão ou deliberação de adjudicação e, no caso de empreitada, medições e orçamentos.
+
+2 - Poderá ainda ser exigida a apresentação de estudos e projectos técnicos e, sendo caso disso, pareceres sobre os mesmos emitidos por entidades com atribuições nos domínios em causa.
+
+###### Artigo 26.º — Conteúdo dos contratos
+
+1 - Os contratos ARAAL devem ter o seguinte conteúdo:
+
+a) Objecto do contrato;
+
+b) Período de vigência do contrato, com as datas dos respectivos início e termo;
+
+c) Direitos e obrigações das entidades contratantes;
+
+d) Titularidade dos bens patrimoniais e dos equipamentos públicos a constituir quando se trate de contratos de colaboração ou de coordenação;
+
+e) Identificação das entidades gestoras dos sistemas a construir;
+
+f) Definição dos instrumentos financeiros utilizáveis;
+
+g) Especificação do faseamento na execução dos projectos, quando a este houver lugar;
+
+h) Quantificação das responsabilidades de financiamento de cada uma das partes;
+
+i) Estrutura de acompanhamento e controlo da execução do contrato;
+
+j) Penalização face a situações de incumprimento por qualquer das entidades contratantes.
+
+2 - As alterações ao clausulado nos contratos ARAAL requerem o acordo de todos os contraentes, salvo disposição contratual em contrário.
+
+###### Artigo 27.º — Celebração dos contratos
+
+1 - Os contratos ARAAL são celebrados entre o secretário regional competente em matéria de administração local, os outros departamentos regionais competentes em função dos sectores abrangidos e as autarquias locais interessadas, sem prejuízo do disposto nos n.os 2 e 3 do artigo 3.º deste diploma.
+
+2 - Os contratos ARAAL só podem ser celebrados depois de os investimentos respectivos serem aprovados e incluídos nos documentos previsionais das autarquias locais e desde que a participação financeira do Governo Regional tenha cabimento no Orçamento da Região.
+
+3 - Os contratos ARAAL, bem como as suas alterações, são publicados na 2.ª série do Jornal Oficial, através da DROAP, não carecendo de visto do Tribunal de Contas.
+
+###### Artigo 28.º — Revisão dos contratos
+
+Ocorrendo alteração anormal e imprevisível das circunstâncias que determinaram os termos do contrato ARAAL, poderá ser proposta a sua revisão pela parte que nos termos do contrato seja responsável pela execução dos investimentos ou das acções que constituem objecto do mesmo.
+
+###### Artigo 29.º — Resolução dos contratos
+
+1 - A resolução dos contratos ARAAL pode ocorrer de acordo com as cláusulas no mesmo contidas e supletivamente nos termos da lei civil.
+
+2 - Resolvido um contrato ARAAL, as eventuais propostas de celebração de novo contrato para a realização total ou parcial dos projectos de investimento abrangidos pelo primeiro devem ser instruídas com relatório detalhado das causas que motivaram a sua resolução e da responsabilidade de cada uma das partes pelo seu não cumprimento.
+
+###### Artigo 30.º — Norma financeira
+
+1 - A participação financeira da administração regional na execução de projectos de investimento objecto de contratos ARAAL é a que constar do Plano Regional Anual.
+
+2 - O processamento da participação financeira da administração regional é efectuado a favor do dono da obra ou, no caso da cooperação indirecta, da entidade bancária, após a publicação do contrato e mediante a apresentação dos necessários documentos comprovativos de despesa.
+
+3 - Relativamente aos contratos ARAAL celebrados no âmbito da cooperação financeira indirecta e da cooperação financeira directa, na parte respeitante às sedes das juntas de freguesia, as dotações são sempre inscritas no orçamento dos serviços do secretário regional competente em matéria de administração local.
+
+###### Artigo 31.º — Acompanhamento e relatórios de execução
+
+1 - São elaborados pelo departamento regional ou outra entidade responsável pelo acompanhamento e controlo de execução da obra, nos termos do contrato celebrado, relatórios anuais e finais de síntese, ficando as partes envolvidas obrigadas a fornecer a informação necessária.
+
+2 - Os relatórios referidos no número anterior são remetidos à DROAP quando a respectiva elaboração não seja da sua competência, para efeitos de preparação de documento contendo a apresentação e avaliação dos resultados globais anualmente conseguidos com a celebração do contrato ARAAL.
+
+### Capítulo V — Fiscalização e controlo de execução
+
+###### Artigo 32.º — Inspecção
+
+1 - A Inspecção Administrativa Regional, no âmbito da respectiva actividade, assegura a inspecção dos processos relativos aos investimentos abrangidos pelo regime estabelecido no presente diploma.
+
+2 - Todos os processos relativos a investimentos abrangidos pelo regime estabelecido no presente diploma devem estar devidamente organizados.
+
+###### Artigo 33.º — Controlo de execução
+
+1 - A entidade designada no contrato ARAAL como responsável pelo acompanhamento e controlo do investimento promove a fiscalização da execução física do mesmo, podendo para o efeito recorrer a outras entidades, públicas ou privadas.
+
+2 - Quando, através da fiscalização a que se refere o número anterior, for detectada uma divergência, não justificada, entre os documentos de comprovação apresentados e a execução física do investimento, pode haver lugar à rescisão do contrato e ao reembolso do montante da comparticipação já processado e indevidamente justificado.
+
+###### Artigo 34.º — Comissão de acompanhamento
+
+1 - Sem prejuízo do disposto nos artigos anteriores, a cooperação técnica e financeira com as autarquias locais na área dos equipamentos escolares é objecto de acompanhamento e avaliação por uma comissão, que integra representantes da administração regional autónoma e da Associação de Municípios da Região Autónoma dos Açores.
+
+2 - Compete à comissão:
+
+a) Zelar pelo cumprimento dos contratos, solicitando a todo o tempo informações sobre o respectivo andamento;
+
+b) Avaliar a execução das obras por parte das câmaras municipais;
+
+c) Elaborar um relatório anual donde constem as candidaturas reprovadas e seu fundamento, os empreendimentos aprovados e a avaliação da sua execução.
+
+3 - A constituição de regras de funcionamento da comissão é definida mediante decreto regulamentar regional, a publicar no prazo de 60 dias a contar da entrada em vigor do presente diploma.
+
+###### Artigo 35.º — Condicionamentos à celebração de contratos ARAAL
+
+1 - O incumprimento do disposto no n.º 4 do artigo 15.º determina:
+
+a) A impossibilidade de celebração de contratos de cooperação financeira indirecta quando seja confirmada pela comissão a falta de realização de obras de conservação periódica em menos de 25% do parque escolar do concelho contratante;
+
+b) A impossibilidade de celebração de contratos de cooperação financeira directa quando seja confirmada pela comissão a falta de realização de obras de conservação periódica em menos de 75% do parque escolar do concelho contratante;
+
+c) A impossibilidade de celebração de contratos de colaboração quando seja confirmada pela comissão a falta de realização de obras de conservação periódica em mais de 75% do parque escolar do concelho contratante.
+
+2 - Está em incumprimento o município que decorrido o período de dois anos sobre as últimas obras de conservação não tenha procedido à adjudicação das novas obras, no caso de empreitadas de obras públicas, ou ao início efectivo das mesmas, quando realizadas por administração directa.
+
+3 - A falta de pagamento pelos municípios, no âmbito da administração corrente do respectivo património, dos consumos de água e electricidade dos estabelecimentos de ensino onde se ministre o 1.º ciclo do ensino básico determina a impossibilidade de celebrar contratos ARAAL com a administração regional.
+
+4 - Exceptua-se do disposto nos números anteriores a cooperação financeira directa relativa a sedes de juntas de freguesia.
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 36.º — Responsabilidade de execução
+
+A responsabilidade de execução dos investimentos compete à entidade designada como dono da obra no contrato ARAAL.
+
+###### Artigo 37.º — Apoio técnico
+
+No caso de propostas da iniciativa dos municípios, podem estes solicitar apoio técnico à administração regional em qualquer fase da elaboração dos projectos, através da DROAP, a qual, sendo caso disso, remete os pedidos para os departamentos regionais competentes em função da matéria.
+
+###### Artigo 38.º — Publicitação
+
+1 - Os responsáveis pela execução dos projectos abrangidos pelo regime de cooperação financeira directa, de colaboração e coordenação ficam obrigados a manter afixado, em local bem visível e durante todo o período de realização da obra, um painel, com dimensões adequadas, informando de que o investimento é co-financiado pelo Governo Regional e qual o departamento regional competente.
+
+2 - O disposto no número anterior é aplicável aos contratos celebrados ao abrigo do regime de cooperação financeira indirecta nos mesmos termos em que é exigida a publicitação para os investimentos comparticipados pela União Europeia.
+
+###### Artigo 39.º — Transferência de competências
+
+1 - A transferência de competências para as autarquias locais no âmbito dos empreendimentos actualmente abrangidos pelos contratos de colaboração determina a elegibilidade dos mesmos para efeitos de cooperação.
+
+2 - Nos casos previstos no número anterior, a cooperação financeira da administração regional é efectuada por via de bonificação de juros, traduzida no pagamento de 70%, da taxa EURIBOR a seis meses e em vigor à data das amortizações dos empréstimos contratados.
+
+###### Artigo 40.º — Norma revogatória
+
+São revogados os artigos 3.º e 4.º do Decreto Legislativo Regional n.º 31/86/A, de 11 de Novembro, o Decreto Legislativo Regional n.º 6/95/A, de 28 de Abril, e o Decreto Regulamentar Regional n.º 10/88/A, de 7 de Março.
+
+###### Artigo 41.º — Norma transitória
+
+1 - As situações de cooperação, colaboração ou coordenação constituídas segundo regimes anteriores continuam a reger-se pela legislação ao abrigo da qual foram criadas.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 24/2015/A - Diário da República n.º 220/2015, Série I de 2015-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2015-70961399), em vigor a partir de 2015-11-11
+
+###### Artigo 42.º — Regulamentação
+
+Os formulários para apresentação de candidaturas a que se referem o artigo 7.º e o n.º 1 do artigo 21.º e o modelo do painel a que se refere o n.º 1 do artigo 38.º são definidos por portaria do membro do Governo Regional competente em matéria de administração local.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 24/2015/A - Diário da República n.º 220/2015, Série I de 2015-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2015-70961399), em vigor a partir de 2015-11-11
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Junho de 2002.
+
+O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 12 de Julho de 2002.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.

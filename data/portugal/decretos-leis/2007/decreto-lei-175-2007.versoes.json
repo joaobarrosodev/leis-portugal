@@ -1,0 +1,248 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:520838:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-158213671",
+ "dre_path": "/dr/detalhe/decreto-lei/175-2007-520838",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-05-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "158213707",
+    "158213708",
+    "158213709",
+    "158213710",
+    "158213711",
+    "158213712",
+    "158213713",
+    "158213714",
+    "158213715",
+    "158213716",
+    "158213717",
+    "158213718",
+    "158213719"
+   ]
+  },
+  {
+   "date": "2007-11-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:629399:por",
+     "title": "Decreto-Lei n.º 378/2007",
+     "published": "2007-11-12",
+     "dre_path": "/dr/detalhe/decreto-lei/378-2007-629399"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "158213707",
+    "158213708",
+    "158213709",
+    "158213725",
+    "158213711",
+    "158213712",
+    "158213713",
+    "158213714",
+    "158213715",
+    "158213716",
+    "158213717",
+    "158213718",
+    "158213719",
+    "158213720"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "158213707",
+    "158213708",
+    "158213709",
+    "158213725",
+    "158213711",
+    "158213726",
+    "158213713",
+    "158213727",
+    "158213728",
+    "158213716",
+    "158213717",
+    "158213718",
+    "158213719",
+    "158213720"
+   ]
+  }
+ ],
+ "fragments": {
+  "158213707": {
+   "fragment_id": "158213672",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 175/2007\n\nde 8 de Maio\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R1935\" title=\"Link para Regulamento da Comunidade Europeia\">1935/2004</a>, do Parlamento Europeu e do Conselho, de 27 de Outubro, relativo aos materiais e objectos destinados a entrar em contacto com os alimentos, revogou as Directivas n.os <a href=\"eurlex.asp?ano=1980&id=380L0590\" title=\"Link para Directiva da Comunidade Europeia\">80/590/CEE</a>, da Comissão, de 9 de Junho, e <a href=\"eurlex.asp?ano=1989&id=389L0109\" title=\"Link para Directiva da Comunidade Europeia\">89/109/CEE</a>, do Conselho, de 21 de Dezembro de 1988, transpostas para a ordem jurídica interna pelo Decreto-Lei n.º 193/88, de 30 de Maio.\n\nAquele diploma estabelece os princípios gerais a que devem obedecer os materiais e objectos destinados a entrar em contacto com os alimentos, nomeadamente no que respeita às suas características, restrições e condições de utilização, substâncias utilizadas no seu fabrico, bem como as normas relativas à rotulagem e rastreabilidade daquele.\n\nEm virtude da evolução tecnológica o referido regulamento contempla também as normas aplicáveis aos materiais e objectos activos e inteligentes que entram em contacto com os alimentos.\n\nNão obstante a aplicabilidade directa do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R1935\" title=\"Link para Regulamento da Comunidade Europeia\">1935/2004</a>, do Parlamento Europeu e do Conselho, de 27 de Outubro, em todos os Estados membros, torna-se necessário tipificar as infracções e respectivas sanções, que devem ser efectivas, proporcionadas e dissuasivas, em caso de violação das normas do referido regulamento comunitário.\n\nAssim, e em cumprimento do disposto no Regulamento n.º 1935/2004, do Parlamento Europeu e do Conselho, de 27 de Outubro, o presente decreto-lei estabelece quais os organismos com competência para fiscalizar o cumprimento das normas daquele, bem como o regime sancionatório aplicável em caso de infracção às mesmas.\n\nFoi promovida a consulta ao Conselho Nacional do Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "158213708": {
+   "fragment_id": "158213673",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "158213709": {
+   "fragment_id": "158213674",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei visa assegurar a execução e garantir o cumprimento, no ordenamento jurídico interno, das obrigações decorrentes do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2004&id=304R1935\" title=\"Link para Regulamento da Comunidade Europeia\">1935/2004</a>, do Parlamento Europeu e do Conselho, de 27 de Outubro, relativo aos materiais e objectos destinados a entrar em contacto com os alimentos, adiante designado por Regulamento."
+  },
+  "158213710": {
+   "fragment_id": "158213875",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência da Autoridade de Segurança Alimentar e Económica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência da Autoridade de Segurança Alimentar e Económica\n\n1 - Para efeitos do disposto no artigo 13.º do Regulamento, a autoridade nacional competente é a Autoridade de Segurança Alimentar e Económica (ASAE).\n\n2 - Sem prejuízo das competências atribuídas por lei a outras entidades, a ASAE é também a autoridade com competência para a fiscalização do cumprimento das normas do presente decreto-lei e das do Regulamento."
+  },
+  "158213711": {
+   "fragment_id": "158213876",
+   "type": 1,
+   "heading": "Capítulo II — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime sancionatório"
+  },
+  "158213712": {
+   "fragment_id": "158213877",
+   "type": 11,
+   "heading": "Artigo 3.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima, cujo montante mínimo é de (euro) 250 e máximo de (euro) 3740 ou de (euro) 44890, consoante o agente em infracção seja respectivamente pessoa singular ou colectiva, o incumprimento ou a violação das normas técnicas previstas no Regulamento, nomeadamente:\n\na) O fabrico e a comercialização de materiais e objectos destinados a entrar em contacto com os alimentos, incluindo os materiais e objectos activos e inteligentes, que não respeitem o disposto nos artigos 3.º e 4.º do Regulamento;\n\nb) O desrespeito pela lista de substâncias autorizadas para o fabrico de materiais e objectos destinados a entrar em contacto com os alimentos estabelecida na alínea a) do artigo 5.º do Regulamento;\n\nc) O desrespeito pela lista de substâncias autorizadas incorporadas nos materiais e objectos activos ou inteligentes destinados a entrar em contacto com alimentos estabelecida na alínea b) do artigo 5.º do Regulamento;\n\nd) O desrespeito pela lista dos materiais e objectos activos ou inteligentes, bem como das condições especiais de utilização dessas substâncias ou dos materiais e objectos em que estão incorporados, estabelecida na alínea b) do artigo 5.º do Regulamento;\n\ne) O desrespeito pelos critérios de pureza das substâncias autorizadas nos materiais e objectos destinados a entrar em contacto com os alimentos estabelecidos na alínea c) do artigo 5.º do Regulamento;\n\nf) O desrespeito pelas condições especiais de utilização das substâncias autorizadas para o fabrico de materiais e objectos ou dos materiais e objectos em que são utilizadas estabelecidas na alínea d) do artigo 5.º do Regulamento;\n\ng) O desrespeito pelos limites específicos relativamente à migração de certos constituintes ou grupos de constituintes para o interior ou para a superfície dos alimentos estabelecidos na alínea e) do artigo 5.º do Regulamento;\n\nh) O desrespeito pelos limites globais relativamente à migração de constituintes para o interior ou para a superfície dos alimentos estabelecidos na alínea f) do artigo 5.º do Regulamento;\n\ni) O desrespeito pelas disposições contra os riscos decorrentes do contacto bucal com materiais e objectos estabelecidas na alínea g) do artigo 5.º do Regulamento;\n\nj) O não cumprimento das regras de rotulagem previstas no artigo 15.º do Regulamento;\n\nl) A não apresentação da declaração de conformidade prevista no artigo 16.º do Regulamento;\n\nm) A não existência de um processo que permita identificar a rastreabilidade dos materiais e objectos destinados a entrar em contacto com os alimentos, prevista no artigo 17.º do Regulamento.\n\n2 - A negligência é punível, sendo os montantes das coimas referidos no número anterior reduzidos a metade."
+  },
+  "158213713": {
+   "fragment_id": "158213878",
+   "type": 11,
+   "heading": "Artigo 4.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sanções acessórias\n\nConsoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas simultaneamente com a coima as seguintes sanções acessórias:\n\na) Apreensão de objectos e materiais destinados a entrar em contacto com os alimentos;\n\nb) Interdição do exercício de uma profissão ou actividade que dependa de título público ou de autorização de homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nf) Suspensão de autorizações, licenças e alvarás."
+  },
+  "158213714": {
+   "fragment_id": "158213879",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrução e decisão dos processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instrução e decisão dos processos de contra-ordenação\n\n1 - A instrução dos processos de contra-ordenação compete à ASAE, que pode, sendo o caso, determinar o respectivo arquivamento.\n\n2 - A aplicação de coimas e sanções acessórias compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP)."
+  },
+  "158213715": {
+   "fragment_id": "158213880",
+   "type": 11,
+   "heading": "Artigo 6.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Afectação do produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 30% para a ASAE;\n\nb) 10% para a CACMEP;\n\nc) 60% para o Estado."
+  },
+  "158213716": {
+   "fragment_id": "158213881",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "158213717": {
+   "fragment_id": "158213882",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\nAs normas técnicas dos materiais e objectos destinados a entrar em contacto com os géneros alimentícios que não sejam objecto de regulamentação comunitária são aprovadas por diploma próprio."
+  },
+  "158213718": {
+   "fragment_id": "158213883",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 193/88, de 30 de Maio."
+  },
+  "158213719": {
+   "fragment_id": "158213884",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "158213725": {
+   "fragment_id": "158213875",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoridades competentes",
+   "in_force_from": "2007-11-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 378/2007 - Diário da República n.º 217/2007, Série I de 2007-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-2007-629399), em vigor a partir de 2007-11-13"
+   ],
+   "markdown": "###### Artigo 2.º — Autoridades competentes\n\n1 - Para efeitos do disposto no regulamento, a autoridade nacional competente pela recepção do pedido de autorização de uma nova substância para o fabrico de materiais e objectos destinados a entrar em contacto com os alimentos é o Gabinete de Planeamento e Políticas (GPP).\n\n2 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do presente decreto-lei e do regulamento compete à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 378/2007 - Diário da República n.º 217/2007, Série I de 2007-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-2007-629399), em vigor a partir de 2007-11-13"
+  },
+  "158213720": {
+   "fragment_id": "158213885",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Fernando Pereira Serrasqueiro - Jaime de Jesus Lopes Silva.\n\nPromulgado em 23 de Abril de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 24 de Abril de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "158213726": {
+   "fragment_id": "158213877",
+   "type": 11,
+   "heading": "Artigo 3.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 3.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), o incumprimento ou a violação das normas técnicas previstas no Regulamento, nomeadamente:\n\na) O fabrico e a comercialização de materiais e objectos destinados a entrar em contacto com os alimentos, incluindo os materiais e objectos activos e inteligentes, que não respeitem o disposto nos artigos 3.º e 4.º do Regulamento;\n\nb) O desrespeito pela lista de substâncias autorizadas para o fabrico de materiais e objectos destinados a entrar em contacto com os alimentos estabelecida na alínea a) do artigo 5.º do Regulamento;\n\nc) O desrespeito pela lista de substâncias autorizadas incorporadas nos materiais e objectos activos ou inteligentes destinados a entrar em contacto com alimentos estabelecida na alínea b) do artigo 5.º do Regulamento;\n\nd) O desrespeito pela lista dos materiais e objectos activos ou inteligentes, bem como das condições especiais de utilização dessas substâncias ou dos materiais e objectos em que estão incorporados, estabelecida na alínea b) do artigo 5.º do Regulamento;\n\ne) O desrespeito pelos critérios de pureza das substâncias autorizadas nos materiais e objectos destinados a entrar em contacto com os alimentos estabelecidos na alínea c) do artigo 5.º do Regulamento;\n\nf) O desrespeito pelas condições especiais de utilização das substâncias autorizadas para o fabrico de materiais e objectos ou dos materiais e objectos em que são utilizadas estabelecidas na alínea d) do artigo 5.º do Regulamento;\n\ng) O desrespeito pelos limites específicos relativamente à migração de certos constituintes ou grupos de constituintes para o interior ou para a superfície dos alimentos estabelecidos na alínea e) do artigo 5.º do Regulamento;\n\nh) O desrespeito pelos limites globais relativamente à migração de constituintes para o interior ou para a superfície dos alimentos estabelecidos na alínea f) do artigo 5.º do Regulamento;\n\ni) O desrespeito pelas disposições contra os riscos decorrentes do contacto bucal com materiais e objectos estabelecidas na alínea g) do artigo 5.º do Regulamento;\n\nj) O não cumprimento das regras de rotulagem previstas no artigo 15.º do Regulamento;\n\nl) A não apresentação da declaração de conformidade prevista no artigo 16.º do Regulamento;\n\nm) A não existência de um processo que permita identificar a rastreabilidade dos materiais e objectos destinados a entrar em contacto com os alimentos, prevista no artigo 17.º do Regulamento.\n\n2 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "158213727": {
+   "fragment_id": "158213879",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrução e decisão dos processos de contra-ordenação",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 5.º — Instrução e decisão dos processos de contra-ordenação\n\n1 - A instrução dos processos de contra-ordenação compete à ASAE, que pode, sendo o caso, determinar o respectivo arquivamento.\n\n2 - A aplicação de coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "158213728": {
+   "fragment_id": "158213880",
+   "type": 11,
+   "heading": "Artigo 6.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Afectação do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

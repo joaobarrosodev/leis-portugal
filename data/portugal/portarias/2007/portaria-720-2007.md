@@ -1,0 +1,349 @@
+---
+schema_version: '1.0'
+id: pt:dre:639107:por
+title: Portaria n.º 720/2007
+short_title: null
+summary: Aprova o Regulamento da Atribuição de Apoios Financeiros pelo Instituto Português do Sangue, I. P.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 720/2007
+official_date: null
+publication_date: '2007-06-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2007, Série I de 2007-06-11
+  number: '111'
+  series: I
+  supplement: null
+  pages: 3793 - 3796
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/06/11100/37933796.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/720/2007/06/11/p/dre/pt/html
+  oj: null
+  dre: '639107'
+  dre_path: /dr/detalhe/portaria/720-2007-639107
+  internal: pt:dre:639107:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/720-2007-639107
+  metadata_url: https://data.dre.pt/eli/port/720/2007/06/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/720-2007-639107
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-08-13T00:00:00Z'
+integrity:
+  source_sha256: 08b3a8048149afab1bd9fd2ad7795da1e47344dc2352045736674ba759a41b68
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-720-639107.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Dador de Sangue
+- Instituto Português de Sangue
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:499214:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/186/2006/09/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/186/2006/09/12/p/dre
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 720/2007
+
+de 11 de Junho
+
+O [Decreto-Lei n.º 186/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2006-540026), de 12 de Setembro, veio estabelecer o novo regime de atribuição de apoios financeiros pelo Estado, através dos serviços e organismos centrais do Ministério da Saúde, a pessoas colectivas privadas sem fins lucrativos.
+
+Ao Instituto Português do Sangue, I. P., compete, no âmbito das suas atribuições, prestar apoio, acompanhar e avaliar as iniciativas e actividades desenvolvidas no domínio da promoção da dádiva de sangue por associações e federações com acção preponderante para a continuidade da fidelização de dadores voluntários não remunerados e para a manutenção de um conjunto de dadores que permita substituir aqueles que, por motivos de idade ou saúde, fiquem impossibilitados de dádiva de sangue.
+
+No quadro do novo regime instituído pelo referido diploma legal, importa agora estabelecer as regras específicas da atribuição de apoios financeiros, pelo Instituto Português do Sangue, I. P., a projectos e acções no âmbito da promoção e fidelização da dádiva de sangue.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 186/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2006-540026), de 12 de Setembro, manda o Governo, pelo Ministro da Saúde, o seguinte:
+
+1 - É aprovado o Regulamento da Atribuição de Apoios Financeiros pelo Instituto Português do Sangue, I. P., anexo à presente portaria e que dela faz parte integrante.
+
+2 - As candidaturas relativas a projectos e acções a executar nos anos de 2007 e 2008 devem ser apresentadas, respectivamente, no prazo de 60 e 120 dias seguidos a contar da data de entrada em vigor da presente portaria.
+
+3 - A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Pelo Ministro da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde, em 10 de Maio de 2007.
+
+## ANEXO — REGULAMENTO DA ATRIBUIÇÃO DE APOIOS FINANCEIROS PELO INSTITUTO PORTUGUÊS DO SANGUE, I. P.
+
+###### Artigo 1.º — Âmbito
+
+O presente Regulamento estabelece os princípios, regras e procedimentos a que obedece o financiamento, por parte do Instituto Português do Sangue, I. P., adiante designado IPS, de projectos e acções no âmbito da promoção da dádiva de sangue.
+
+###### Artigo 2.º — Objectivos
+
+Os projectos ou acções a que se refere o presente Regulamento devem visar os seguintes objectivos:
+
+a) Promover a educação da população para a dádiva de sangue;
+
+b) Promover a fidelização dos dadores de sangue;
+
+c) Apoiar e dinamizar as sessões de colheita de sangue;
+
+d) Formar recursos humanos para a promoção da dádiva de sangue.
+
+###### Artigo 3.º — Áreas de intervenção
+
+1 - No âmbito do presente Regulamento, podem ser apresentadas candidaturas nas seguintes áreas de intervenção:
+
+a) Informação;
+
+b) Sensibilização;
+
+c) Educação;
+
+d) Formação.
+
+2 - Os projectos ou acções apresentados nas áreas de intervenção referidas no número anterior deverão dirigir-se, preferencialmente:
+
+a) A jovens;
+
+b) Ao meio laboral;
+
+c) A comunidades locais;
+
+d) A grupos alvo específicos.
+
+###### Artigo 4.º — Candidatos
+
+Podem candidatar-se à atribuição de apoio financeiro as pessoas colectivas de direito privado sem fins lucrativos que desenvolvam actividade no âmbito da promoção da dádiva de sangue e que reúnam os requisitos previstos no artigo seguinte.
+
+###### Artigo 5.º — Requisitos dos candidatos
+
+Os candidatos ao financiamento devem obedecer às seguintes condições, sob pena de exclusão:
+
+a) Encontrar-se regularmente constituídos e registados nos termos legais como pessoas colectivas de direito privado sem fins lucrativos;
+
+b) Ter a sua situação contributiva regularizada perante a segurança social e a administração fiscal;
+
+c) Possuir contabilidade organizada, quando legalmente exigível;
+
+d) Não ter condenação judicial por má administração de subsídios ou outro tipo de financiamentos públicos;
+
+e) Possuir idoneidade e capacidade organizativa para reunir os meios materiais, técnicos e humanos para desenvolver os projectos ou acções propostos;
+
+f) Não ter por regularizar situações de qualquer natureza relativas a financiamentos anteriores atribuídos pelo IPS.
+
+###### Artigo 6.º — Requisitos de elegibilidade dos projectos e acções
+
+1 - Cada projecto ou acção tem de obedecer às seguintes condições:
+
+a) Ser concebido para uma das áreas de intervenção previstas no artigo 3.º;
+
+b) Ter uma calendarização de execução com a duração máxima de um ano;
+
+c) Ser apresentado no formulário próprio disponibilizado pelo IPS.
+
+2 - O não cumprimento do disposto no número anterior determina a exclusão da candidatura.
+
+###### Artigo 7.º — Financiamento dos projectos e acções
+
+1 - O montante financeiro disponível para o presente programa é fixado anualmente, nos termos do [Decreto-Lei n.º 186/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2006-540026), de 12 de Setembro.
+
+2 - O apoio financeiro a atribuir pelo IPS a cada projecto ou acção é de:
+
+a) 100% do custo total do projecto ou acção, até ao limite máximo de (euro) 1000;
+
+b) 90% do custo total do projecto ou acção, até ao limite máximo de (euro) 50000, devendo o candidato, no momento da apresentação da candidatura, indicar os bens e serviços correspondentes à respectiva comparticipação, bem como outros apoios financeiros ou contributos de outras entidades, públicas ou privadas.
+
+3 - O apoio concedido pelo IPS reveste a forma de financiamento não reembolsável.
+
+###### Artigo 8.º — Elegibilidade de despesas
+
+1 - Todas as despesas a considerar no âmbito das candidaturas destinam-se exclusivamente à prossecução dos projectos ou acções e devem reger-se por princípios de boa administração, boa gestão financeira e optimização dos recursos disponíveis.
+
+2 - As acções e projectos a financiar pelo IPS implicam a obrigatoriedade de pagamentos efectivos realizados pela entidade beneficiária do apoio, devidamente comprovados nos termos definidos no contrato.
+
+3 - Podem ser consideradas despesas elegíveis, nomeadamente:
+
+a) Custos com pessoal, devendo as respectivas remunerações ter como referência a tabela remuneratória em vigor para as IPSS;
+
+b) Custos com formadores, devendo as respectivas remunerações ter como referência os valores do Instituto do Emprego e Formação Profissional;
+
+c) Custos com a produção e distribuição de informação, necessários ao desenvolvimento administrativo e operacional do projecto ou acção, nomeadamente material de escritório, aluguer de espaço, transportes, deslocações, material informativo em suporte físico ou multimédia.
+
+###### Artigo 9.º — Limites de elegibilidade de despesas
+
+1 - Apenas podem ser consideradas as despesas aprovadas e efectuadas durante o período de vigência da acção ou projecto e que sejam objectivamente indispensáveis à sua concretização.
+
+2 - Não são elegíveis as despesas referentes a encargos bancários, leasings, medicamentos, artigos de decoração, aquisição de bens imóveis ou bens móveis sujeitos a registo e outros de semelhante natureza.
+
+3 - As verbas aprovadas e não utilizadas deverão ser restituídas ao IPS nos 30 dias subsequentes à data da conclusão da acção ou projecto.
+
+###### Artigo 10.º — Apresentação de candidaturas
+
+1 - As candidaturas aos projectos e acções previstos no artigo 1.º do presente Regulamento devem ser entregues directamente na sede do IPS ou enviadas pelo correio sob registo, sendo obrigatória a utilização dos formulários por aquele disponibilizados, sob pena de exclusão liminar das mesmas.
+
+2 - O processo de candidatura deve ser acompanhado dos documentos comprovativos, originais ou cópias autenticadas, da posse dos requisitos a que se refere as alíneas a) e c) do artigo 5.º e de declaração sob compromisso de honra relativamente às situações previstas nas alíneas b) e d) do mesmo artigo.
+
+3 - A não entrega de todos os elementos referidos no número anterior implica a exclusão liminar da candidatura.
+
+4 - A data limite para a apresentação das candidaturas é 31 de Maio de cada ano, devendo as candidaturas respeitar a projectos e acções a realizar no ano seguinte.
+
+5 - Da candidatura devem constar, de forma rigorosa e precisa, os objectivos mensuráveis do projecto ou acção e os meios necessários para os atingir, factor determinante na sua avaliação.
+
+6 - O processo de candidatura, quando apresentado por associação ou grupo de dadores de sangue federado, poderá ser acompanhado de parecer da federação respectiva.
+
+###### Artigo 11.º — Comissão de avaliação
+
+1 - As candidaturas são avaliadas por uma comissão composta por elementos do IPS, a designar pelo conselho directivo.
+
+2 - Compete à comissão proceder à apreciação e selecção dos projectos no prazo de 40 dias úteis contados da data limite de apresentação das candidaturas.
+
+###### Artigo 12.º — Da avaliação
+
+1 - O processo de avaliação das candidaturas é composto por duas fases:
+
+a) Verificação das condições de elegibilidade das entidades candidatas e dos projectos e acções, previstas nos artigos 5.º e 6.º;
+
+b) Avaliação do projecto ou acção tendo por base os princípios definidos no presente Regulamento.
+
+2 - No caso de considerar que alguma candidatura deva ser excluída, a comissão elabora relatório fundamentado de proposta de exclusão.
+
+3 - O candidato é notificado do relatório referido no número anterior para, no âmbito do direito de participação dos interessados, se pronunciar no prazo de cinco dias úteis a contar da notificação.
+
+4 - A comissão, no prazo de três dias úteis, decide sobre as eventuais alegações e elabora relatório final que submete à aprovação do conselho directivo do IPS, a quem cabe a decisão final.
+
+5 - Da decisão do conselho directivo não cabe recurso, nos termos do [Decreto-Lei n.º 186/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2006-540026), de 12 de Setembro.
+
+###### Artigo 13.º — Critérios de avaliação
+
+As candidaturas admitidas são avaliadas de acordo com os seguintes critérios:
+
+a) Concepção do projecto ou acção de acordo com os objectivos definidos no artigo 2.º e enquadramento nas áreas de intervenção previstas no artigo 3.º;
+
+b) Pertinência da intervenção proposta face aos objectivos definidos para o projecto ou acção;
+
+c) Adequação das actividades e das despesas aos objectivos do projecto ou acção;
+
+d) Consistência do projecto ou acção em relação à sua duração e intensidade;
+
+e) Inovação nos projectos e acções propostos.
+
+###### Artigo 14.º — Selecção
+
+1 - Após conclusão do processo de avaliação a que se refere o artigo 12.º a comissão elabora relatório fundamentado sobre o mérito de cada candidatura, propondo a aprovação ou não aprovação da mesma.
+
+2 - A proposta de não aprovação da candidatura será notificada ao respectivo candidato para se pronunciar, nos termos dos artigos 100.º e seguintes do Código do Procedimento Administrativo, tendo a comissão três dias úteis para decidir sobre eventuais alegações e elaborar relatório final.
+
+3 - Os relatórios de avaliação das candidaturas são submetidos à aprovação do conselho directivo do IPS, a quem cabe a decisão final sobre a atribuição dos apoios financeiros.
+
+###### Artigo 15.º — Formalização de contrato
+
+1 - A atribuição do financiamento formaliza-se através da celebração de um contrato entre o IPS e a entidade seleccionada para beneficiar de apoio.
+
+2 - Previamente à celebração do contrato, as entidades seleccionadas para beneficiar de apoio devem fazer prova da sua situação relativamente aos requisitos estabelecido na alínea b) do artigo 5.º do presente Regulamento.
+
+3 - No caso de situação irregular perante a administração fiscal ou a segurança social, os candidatos seleccionados perdem o direito à atribuição do apoio, não podendo ser celebrado o contrato previsto no n.º 1.
+
+4 - Do contrato constam obrigatoriamente:
+
+a) A síntese da intervenção com indicação das acções a desenvolver, respectivo prazo e resultados esperados;
+
+b) Os direitos, deveres e responsabilidades das partes;
+
+c) O plano de pagamentos;
+
+d) As regras de acompanhamento e controlo da respectiva execução, ficando as entidades beneficiárias dos apoios sujeitas a auditorias a realizar pelo IPS, directamente ou por recurso a entidades externas;
+
+e) As regras aplicáveis à constituição de um dossier técnico-financeiro;
+
+f) As regras relativas ao incumprimento do contrato e respectivas sanções.
+
+5 - O contrato pode ser objecto de renegociação ou resolução, por motivos devidamente justificados e aceites pelas partes, não podendo, em qualquer caso, exceder o montante do financiamento inicialmente aprovado nem o limite máximo da respectiva duração.
+
+###### Artigo 16.º — Obrigações dos beneficiários
+
+1 - As entidades beneficiárias dos apoios são directamente responsáveis pela organização dos projectos e das acções e pela execução do suporte financeiro respectivo.
+
+2 - Compete designadamente às entidades beneficiárias de apoio:
+
+a) Assegurar o desenvolvimento das actividades previstas;
+
+b) Cumprir a metodologia de monitorização e avaliação do projecto nos termos definidos no presente Regulamento;
+
+c) Proceder à contratação de serviços de apoio à execução das actividades previstas nos projectos e acções, quando necessário;
+
+d) Organizar e manter actualizados os dossiers técnico e financeiro dos projectos e acções.
+
+###### Artigo 17.º — Monitorização dos projectos e acções
+
+1 - A monitorização dos projectos e acções pretende fomentar e garantir a qualidade da intervenção de forma sistemática, ao nível da sua execução e avaliação, por uma equipa técnica do IPS, a designar pelo conselho directivo.
+
+2 - O sistema de monitorização pressupõe:
+
+a) Disponibilização de instrumentos de recolha e sistematização da informação;
+
+b) Recolha de dados;
+
+c) Balanço entre os resultados esperados e os resultados alcançados;
+
+d) Cooperação no desenvolvimento de algumas das actividades das entidades beneficiárias de apoio.
+
+3 - As entidades beneficiárias de apoio são obrigadas a apresentar o relatório de execução final até 30 dias após o termo do prazo do contrato.
+
+###### Artigo 18.º — Rescisão do contrato
+
+1 - O contrato pode ser unilateralmente rescindido pelo IPS nos seguintes casos:
+
+a) Não cumprimento do projecto ou acção, nomeadamente o exercício desadequado da intervenção aprovada;
+
+b) Não cumprimento das obrigações estabelecidas no contrato;
+
+c) Superveniência de situação não regularizada em matéria de impostos ou contribuições para a segurança social;
+
+d) Recusa ou prestação de informações falsas sobre a situação da entidade ou viciação de dados fornecidos.
+
+2 - A rescisão implica a caducidade do apoio financeiro concedido, ficando a entidade beneficiária obrigada a repor as importâncias recebidas, sem prejuízo da responsabilidade criminal que seja apurada.
+
+3 - Antes da prática do acto previsto no número anterior, a entidade beneficiária deve ser notificada nos termos dos artigos 100.º e seguintes do Código do Procedimento Administrativo.

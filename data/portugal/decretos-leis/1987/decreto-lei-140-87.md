@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:662159:por
+title: Decreto-Lei n.º 140/87
+short_title: null
+summary: Transfere para o Montepio dos Servidores do Estado a competência que em matéria de pensões de preço de sangue e outras
+  da responsabilidade do Ministério das Finanças pertence à Direcção-Geral da Contabilidade Pública
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 140/87
+official_date: null
+publication_date: '1987-03-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 66/1987, Série I de 1987-03-20
+  number: '66'
+  series: I
+  supplement: null
+  pages: 1139 - 1140
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/03/06600/11391140.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '662159'
+  dre_path: /dr/detalhe/decreto-lei/140-1987-662159
+  internal: pt:dre:662159:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1987-662159
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-1987-662159
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: e471bcc81ee83a709144a582b1d8e66ebc58748e2aaa8864f3805946a1ba7dd2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-140-662159.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 140/87
+
+de 20 de Março
+
+A atribuição e a liquidação das pensões de preço de sangue e outras da responsabilidade do Ministério das Finanças têm sido uma das funções da Direcção-Geral da Contabilidade Pública.
+
+Acontece, porém, que a Caixa Geral de Aposentações e o Montepio dos Servidores do Estado são os institutos públicos naturalmente vocacionados para aquele efeito.
+
+É, assim, da maior vantagem cometer tais tarefas a uma daquelas instituições, havendo, por isso, que adoptar as medidas legislativas desde já consideradas indispensáveis.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º É transferida para o Montepio dos Servidores do Estado (MSE) a competência que em matéria de pensões de preço de sangue e outras da responsabilidade do Ministério das Finanças pertence à Direcção-Geral da Contabilidade Pública (DGCP).
+
+###### Art. 2.º Para aplicação do disposto no artigo anterior, transitarão para o referido Montepio todos os processos, documentação e arquivos do serviço de pensões da DGCP.
+
+###### Art. 3.º As condições de transição serão fixadas por despacho do Ministro das Finanças.
+
+###### Art. 4.º Todas as referências feitas na legislação em vigor à DGCP, com excepção da referida no artigo 36.º do [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951, entendem-se como sendo feitas ao MSE.
+
+###### Art. 5.º Os artigos 9.º, 14.º, 20.º, 23.º, 24.º, 26.º, 28.º, 29.º e 36.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro, passam a ter a seguinte redacção:
+
+###### Art. 9.º - 1 - O quantitativo da pensão, isento de qualquer imposto, é igual a 70% da remuneração mensal do falecido ou do autor dos actos que a originam quando o beneficiário for o autor ou se trate dos titulares a que se refere o grupo 1.º do n.º 1 do artigo 4.º
+
+2 - A referida percentagem será reduzida a 50% relativamente aos restantes titulares.
+
+3 - Para efeito do disposto nos números anteriores, a remuneração a considerar determina-se de acordo com o regime estabelecido nos artigos 47.º e 48.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro (Estatuto da Aposentação), não podendo, porém, o seu montante ser de valor inferior ao vencimento base de um soldado da Guarda Nacional Republicana.
+
+4 - Relativamente aos civis incorporados nas forças militares, a percentagem será calculada com base nos vencimentos dos postos ou graduações a que estiverem equiparados.
+
+5 - Nos casos em que a vítima não tenha qualquer vínculo funcional ao Estado, ter-se-á em conta, para os efeitos dos números anteriores, o dobro do salário mínimo nacional.
+
+###### Art. 14.º O direito a receber a pensão cessa:
+
+a) Por renúncia do beneficiário;
+
+b) Pela perda de qualquer dos requisitos condicionantes da atribuição daquele direito;
+
+c) Pelo casamento ou vivência em situação análoga, relativamente aos cônjuges, divorciados, separados judicialmente de pessoas e bens e aos que se encontrem nas condições previstas no artigo 2020.º do Código Civil;
+
+d) Pela morte do beneficiário.
+
+###### Art. 20.º - 1 - A incapacidade física ou intelectual permanente para o exercício da actividade profissional ou para angariação dos meios de subsistência será verificada pela junta médica da Caixa Nacional de Previdência.
+
+2 - Para os fins previstos no número anterior, é aplicável, com as necessárias adaptações, o regime estabelecido nos artigos 90.º, 91.º e 95.º do [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
+
+3 - Correm por conta do Estado todos os encargos relativos à obtenção de radiografias e outros meios auxiliares de diagnóstico ou de parecer de médico especialista que a junta médica considere necessários.
+
+###### Art. 23.º - 1 - Recebida a petição e demais documentos no estado-maior respectivo, será aí organizado o processo e remetido seguidamente, com indicação das remunerações do falecido, devidamente discriminadas, e das disposições legais permissivas do seu abono, ao MSE.
+
+2 - Sempre que se trate de pensão requerida por falecimento ou por desaparecimento de indivíduos susceptíveis de ser abrangidos pelas alíneas a) e b) do n.º 1 e pelo n.º 2 do artigo 2.º, os respectivos processos deverão incluir obrigatoriamente um auto de averiguações sobre a ocorrência, cuja instrução se regulará pelas normas militares.
+
+3 - O auto referido no número anterior será submetido a despacho do chefe do estado-maior do ramo das Forças Armadas de que dependia o militar para, em primeira instância, decidir se o acidente, doença ou desaparecimento ocorreu em algumas das condições previstas nas alíneas a) ou b) do n.º 1 ou no n.º 2 do artigo 2.º, ouvidos, quando a morte seja atribuída a doença adquirida ou agravada em serviço de campanha ou de manutenção da ordem pública, os serviços de saúde para determinação da causa.
+
+4 - Nos casos de dúvida, poderá o chefe do estado-maior respectivo mandar completar a matéria dos autos ou determinar quaisquer outras diligências julgadas necessárias ao apuramento da causa da morte ou das circunstâncias em que ocorreu o desaparecimento.
+
+5 - Quando a vítima não pertencer às Forças Armadas, as referências feitas nos números anteriores a estado-maior, chefe do estado-maior e serviços de saúde consideram-se feitas em relação a ministério e ministro competentes, em razão da matéria, e delegado de saúde, respectivamente.
+
+###### Art. 24.º - 1 - Recebido o processo e concluída a sua instrução, o MSE, se julgar verificadas as condições necessárias, proferirá resolução final sobre o direito à pensão e sobre o montante desta.
+
+2 - Havendo dúvidas sobre a causa determinante da morte ou da incapacidade e sobre a sua conexão com o facto que origina o direito à pensão, a resolução a que alude o número anterior só será proferida depois de ouvida a junta médica da Caixa Nacional de Previdência.
+
+3 - Quando a junta médica o considere necessário, será solicitada a instauração de um inquérito a realizar por um médico militar da unidade mais próxima da última residência habitual do falecido, acerca da doença que o vitimou e da vida que teve desde o início dela até ao falecimento.
+
+###### Art. 26.º Das resoluções finais do MSE caberá recurso contencioso nos termos gerais de direito.
+
+###### Art. 28.º Compete ao Conselho de Ministros proferir resolução sobre o direito à pensão a que se refere o artigo anterior, mediante proposta do Ministro das Finanças, precedendo parecer favorável do Supremo Tribunal Militar, quando o facto justificativo do mesmo seja a prática de actos realizados em teatro de guerra, e da Procuradoria-Geral da República, nos demais casos.
+
+###### Art. 29.º A pensão por serviços excepcionais ou relevantes é devida desde a data da resolução prevista no artigo anterior.
+
+###### Art. 36.º Os herdeiros do pensionista, no caso de falecimento deste, poderão obter a entrega das pensões em dívida, mediante o processo de habilitação previsto para os créditos sobre a Caixa Geral de Depósitos.
+
+###### Art. 6.º O artigo 1.º do [Decreto-Lei n.º 171/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-1977-251853), de 30 de Abril, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 43/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1978-446165), de 11 de Março, passa a ter a seguinte redacção:
+
+###### Artigo 1.º - 1 - ...
+
+2 - ...
+
+3 - A pensão será calculada de harmonia com o regime estabelecido para as pensões de preço de sangue, com as adaptações que se mostrarem necessárias, atribuindo-se, para o efeito, ao cidadão que não seja ou não tenha sido funcionário público uma categoria do quadro do funcionalismo a que poderia ter ascendido se tivesse seguido tal carreira.
+
+4 - O Conselho de Ministros poderá, excepcionalmente, fixar até à globalidade das remunerações recebidas a pensão a que se refere o número anterior.
+
+###### Art. 7.º O artigo 15.º do [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352), de 23 de Novembro de 1951, passa a ter a seguinte redacção:
+
+###### Art. 15.º No caso de morte como consequência de acidente em serviço, tem a família do falecido direito a uma pensão cujo montante, concessão e fruição se regulam pelo regime estabelecido para as pensões de preço de sangue.
+
+###### Art. 8.º São revogados os artigos 10.º, 21.º, 25.º e 34.º do [Decreto-Lei n.º 404/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1982-375189), de 24 de Setembro.
+
+###### Art. 9.º Fica suspenso o disposto no artigo 31.º do diploma referido no artigo anterior enquanto não for aprovado o cartão de pensionista da Caixa Geral de Aposentações e do MSE.
+
+###### Art. 10.º O pagamento das pensões a que se refere o presente diploma será feito por crédito em conta de depósito à ordem do respectivo beneficiário na Caixa Geral de Depósitos.
+
+###### Art. 11.º Todos os pensionistas são obrigados a fazer a prova periódica de vida nos termos fixados pelo MSE.
+
+###### Art. 12.º As pensões a que se refere este diploma prescrevem nos termos do artigo 35.º do Estatuto das Pensões de Sobrevivência, aprovado pelo [Decreto-Lei n.º 142/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-1973-236477), de 30 de Março.
+
+###### Art. 13.º - 1 - O MSE será abonado pelo Estado das importâncias que despender por efeito da aplicação do presente decreto-lei.
+
+2 - No orçamento do Ministério das Finanças inscrever-se-á, anualmente, no capítulo «Pensões e reformas», e sob uma única alínea, designada «Montepio dos Servidores do Estado - Pensões de preço de sangue e outras», a verba necessária para o efeito.
+
+###### Art. 14.º O presente diploma produz efeitos desde 1 de Fevereiro de 1987, sendo o seu regime aplicável aos processos pendentes nessa data.
+
+Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+**Promulgado em 27 de Fevereiro de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 9 de Março de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

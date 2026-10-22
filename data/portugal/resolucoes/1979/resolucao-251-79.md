@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:377743:por
+title: Resolução n.º 251/79
+short_title: null
+summary: Fixa até 31 de Dezembro de 1979 um limite de 13 milhões de contos para avales por parte do Estado a prestar pelo
+  Fundo Especial de Transportes Terrestres (FETT)
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 251/79
+official_date: null
+publication_date: '1979-08-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 186/1979, Série I de 1979-08-13
+  number: '186'
+  series: I
+  supplement: null
+  pages: 1898 - 1898
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/08/18600/18981898.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '377743'
+  dre_path: /dr/detalhe/resolucao/251-1979-377743
+  internal: pt:dre:377743:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/251-1979-377743
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/251-1979-377743
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-08-13T00:00:00Z'
+integrity:
+  source_sha256: 530029f036f22f898f9c790232dffc695fdd0c9d608dc720381cdb140f559c21
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-251-377743.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 251/79
+
+Considerando que as responsabilidades do Fundo Especial de Transportes Terrestres (FETT) por avales prestados totalizam cerca de 11,6 milhões de contos;
+
+Considerando as dificuldades que aquele Fundo tem naturalmente manifestado quando é chamado a honrar os compromissos assumidos em consequência do incumprimento das empresas beneficiárias;
+
+Considerando que a questão das finanças públicas aconselha a que o Estado controle as responsabilidades que em seu nome são assumidas por fundos autónomos e que poderão afectar directamente o Tesouro:
+
+O Conselho de Ministros, reunido em 25 de Julho de 1979, resolveu:
+
+1. Fixar até 31 de Dezembro de 1979 um limite de 13 milhões de contos para avales a prestar pelo FETT.
+
+2. Que a prestação de avales a empresas cujas responsabilidades para com o Fundo excedam 10% do montante referido no número anterior deverá ser objecto de resolução do Conselho de Ministros.
+
+Presidência do Conselho de Ministros, 25 de Julho de 1979. - O Primeiro-Ministro, Carlos Alberto da Mota Pinto.

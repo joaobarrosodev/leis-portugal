@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:358758:por
+title: Decreto-Lei n.º 405/88
+short_title: null
+summary: Estende à Região Autónoma da Madeira o regime de alienação de fogos de habitação social estabelecido pelo Decreto-Lei
+  n.º 141/88, de 22 de Abril
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 405/88
+official_date: null
+publication_date: '1988-11-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 259/1988, Série I de 1988-11-09
+  number: '259'
+  series: I
+  supplement: null
+  pages: 4491 - 4491
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/11/25900/44914491.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '358758'
+  dre_path: /dr/detalhe/decreto-lei/405-1988-358758
+  internal: pt:dre:358758:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1988-358758
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/405-1988-358758
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-11-09T00:00:00Z'
+integrity:
+  source_sha256: abd5f35208aa8958f62a78fcfbe04e5e6ea2585c3317f190f9db7de04cbbc242
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-405-358758.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 405/88
+
+de 9 de Novembro
+
+O [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, estabeleceu o novo regime de alienação de fogos de habitação social e de terrenos da propriedade do Instituto de Gestão e Alienação do Património Habitacional do Estado (IGAPHE) e do Instituto de Gestão Financeira da Segurança Social (IGFSS).
+
+O aludido diploma, tendo em consideração que, por razões jurídicas, administrativas e processuais, grande parte do referido património não se encontrava em situação regular - o que poderia comprometer todos os objectivos e políticas definidos -, estabeleceu uma série de medidas no sentido de rapidamente regularizar e facilitar a sua alienação.
+
+Situação idêntica afecta o património da Região Autónoma da Madeira, dificultando grandemente a política de alienação de fogos de habitação social e de terrenos da sua propriedade, pelo que agora se determina que as novas medidas previstas pelo [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, sejam também aplicáveis, pelos mesmos motivos, nesta Região Autónoma.
+
+Assim:
+
+Tendo sido ouvidos os órgãos de governo próprio da Região Autónoma da Madeira:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. O disposto nos artigos 12.º a 15.º, 17.º e 18.º do [Decreto-Lei n.º 141/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1988-285300), de 22 de Abril, aplica-se, com as necessárias adaptações, à alienação de fogos de habitação social e de terrenos propriedade da Região Autónoma da Madeira.
+
+Visto e aprovado em conselho de Ministros de 22 de Setembro de 1988. - Aníbal António Cavaco Silva - Lino Dias Miguel - Joaquim Fernando Nogueira - Álvaro Roque de Pinho Bissaia Barreto.
+
+**Promulgado em 25 de Outubro de 1988.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 27 de Outubro de 1988.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

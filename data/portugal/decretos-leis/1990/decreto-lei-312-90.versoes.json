@@ -1,0 +1,293 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:554583:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-117705206",
+ "dre_path": "/dr/detalhe/decreto-lei/312-1990-554583",
+ "source_lastmod": "2024-08-29",
+ "versions": [
+  {
+   "date": "1990-10-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117714711",
+    "117714712",
+    "117714713",
+    "117714714",
+    "117714715",
+    "117714716",
+    "117714717",
+    "117714718",
+    "117714719",
+    "117714720",
+    "117714721",
+    "117714722",
+    "117714723",
+    "117714724",
+    "117714725"
+   ]
+  },
+  {
+   "date": "2002-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:621554:por",
+     "title": "Decreto-Lei n.º 273/2001",
+     "published": "2001-10-13",
+     "dre_path": "/dr/detalhe/decreto-lei/273-2001-621554"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "117714711",
+    "117714712",
+    "117714713",
+    "886330479",
+    "886330480",
+    "886330481",
+    "886330482",
+    "886330483",
+    "886330484",
+    "886330485",
+    "886330486",
+    "886330487",
+    "117714723",
+    "117714724",
+    "117714725",
+    "117714726"
+   ]
+  }
+ ],
+ "fragments": {
+  "117714711": {
+   "fragment_id": "117705207",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 312/90\n\nde 2 de Outubro\n\nA extensa destruição de actos do registo predial provocada pelos recentes incêndios ocorridos nas Conservatórias de São João da Madeira e de Ponte de Lima aconselha a que se adaptem medidas de excepção para essas e para situações semelhantes, em ordem a assegurar, dentro do possível, a fluidez do comércio jurídico.\n\nAproveita-se a oportunidade para, no âmbito da reforma que se vem empreendendo dos serviços dos registos e do notariado, introduzir medidas relevantes no sentido da desburocratização dos serviços, designadamente ao criar-se um processo especial de suprimento da prova do registo e ao estatuir-se sobre a simplificação do registo em caso de reatamento do trato sucessivo.\n\nTrata-se de uma medida de inegável relevância, já que torna a relação entre o utente e a Administração, no caso a competente conservatória do registo predial, mais simplificada.\n\nNa verdade, e sobretudo naquelas áreas do País onde se processaram, e ainda processam, inúmeras transacções sem terem sido acompanhadas de quaisquer formalidades, era, por vezes, extremamente complexo para o utente fazer a prova do reatamento do trato sucessivo.\n\nCom a alteração ora introduzida, sem se pôr em causa a segurança que o registo deve possuir, institui-se um mero procedimento administrativo, a cargo do respectivo conservador, suficientemente expedito, mas rodeado de todas as garantias, nomeadamente a possibilidade de recurso para os tribunais, com vista ao reatamento do trato sucessivo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "117714712": {
+   "fragment_id": "117705208",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - O extravio ou inutilização de registos por incêndio, inundação ou outra calamidade, como tal reconhecida por despacho do Ministro da Justiça, justifica a urgência, nos termos aplicáveis da alínea c) do n.º 2 do artigo 9.º do Código do Registo Predial e da alínea c) do n.º 3 do artigo 71.º do Código do Notariado.\n\n2 - O extravio ou a inutilização do registo são documentados por declaração do interessado, acompanhada de certidão passada gratuitamente pela conservatória.\n\n3 - Do instrumento notarial deve constar a menção da urgência referida neste artigo."
+  },
+  "117714713": {
+   "fragment_id": "117705209",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Nos casos de urgência justificada por motivo de calamidade, a falta da prévia inscrição dos bens em nome de quem os transmite ou onere determina a inscrição provisória por natureza dos actos de aquisição ou oneração.\n\n2 - É de 18 meses o prazo de vigência das inscrições provisórias previstas no número anterior, renovável por períodos de igual duração, a pedido do interessado e desde que se verifique a permanência da razão da provisoriedade."
+  },
+  "117714714": {
+   "fragment_id": "117705210",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - Em caso de desactualização do registo por falta de trato sucessivo, pode o conservador, a pedido verbal do interessado, lavrar auto-requerimento, em que especifique as circunstâncias que a determinam, com indicação dos elementos de prova disponíveis.\n\n2 - O processo é organizado com base no auto-requerimento e instruído com os documentos disponíveis e com as declarações de três pessoas, consideradas idóneas pelo conservador, acerca da existência, das causas e dos sujeitos das sucessivas transmissões."
+  },
+  "117714715": {
+   "fragment_id": "117705211",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Lavrado o auto previsto no artigo anterior, deve o conservador proceder à citação do titular inscrito, para, no prazo de oito dias, deduzir oposição.\n\n2 - Não sendo possível a citação referida no número anterior, o conservador afixará edital na conservatória, convidando os interessados incertos a deduzirem oposição no prazo de 15 dias."
+  },
+  "117714716": {
+   "fragment_id": "117705212",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Finda a instrução, o conservador profere, no prazo de oito dias, despacho fundamentado, no qual conclui acerca da possibilidade do reatamento do trato sucessivo ou do estabelecimento de novo trato, consignando, em caso afirmativo, a descrição actualizada e a identificação completa do facto a registar.\n\n2 - O despacho final do conservador é notificado ao requerente no prazo de cinco dias, acompanhado, quando deferido o pedido, de extracto para publicação, e pode ser impugnado nos termos do disposto no título VII do Código do Registo Predial."
+  },
+  "117714717": {
+   "fragment_id": "117705213",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - O extracto do despacho do conservador é publicado pelo interessado, no prazo de oito dias a contar da data da sua notificação, num dos jornais mais lidos do município da situação do prédio ou, na sua falta, num dos jornais mais lidos da região, juntando-se ao processo um exemplar da publicação.\n\n2 - O direito de impugnação a que se refere o n.º 2 do artigo anterior deve constar da publicação."
+  },
+  "117714718": {
+   "fragment_id": "117705214",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO registo é lavrado com base no despacho final do conservador, caso não tenha havido impugnação ou esta tenha sido julgada improcedente."
+  },
+  "117714719": {
+   "fragment_id": "117705215",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPelo auto-requerimento a que se refere o artigo 3.º é devido o emolumento mais elevado, da mesma natureza, previsto para o processo pré-registral."
+  },
+  "117714720": {
+   "fragment_id": "117705216",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - O processo previsto no presente diploma é aplicável ao estabelecimento do trato sucessivo quanto a prédios não descritos mas inscritos na matriz predial.\n\n2 - O interessado deve, em qualquer dos casos, indicar a causa e as circunstâncias da aquisição do direito e as razões que o impossibilitam de a comprovar."
+  },
+  "117714721": {
+   "fragment_id": "117705217",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n- 1 - As inscrições de aquisição, em condições de serem lavradas como definitivas, anteriores à daquele que se apresente a requerer o registo em seu nome podem ser substituídas pela simples anotação na ficha de que foi feita a qualificação dos correspondentes pedidos.\n\n2 - Não são devidos emolumentos em relação aos registos a que respeita a anotação."
+  },
+  "117714722": {
+   "fragment_id": "117705218",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA identificação dos sujeitos da inscrição directa é feita de forma completa sempre que se verifique a situação prevista no artigo anterior."
+  },
+  "117714723": {
+   "fragment_id": "117705219",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n- 1 - São gratuitos todos os registos e actos notariais lavrados por reconstituição, bem como todos os actos, processos e documentos a esta necessários.\n\n2 - Os documentos emitidos nos termos do número anterior devem conter menção expressa do fim exclusivo a que se destinam."
+  },
+  "117714724": {
+   "fragment_id": "117705220",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO artigo 75.º do Decreto-Lei n.º 519-F2/79, de 29 de Dezembro, passa a ter a seguinte redacção:\n\nArt. 75.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - O destacamento a que se refere o n.º 1 pode efectuar-se independentemente da espécie da repartição quando o interesse do serviço o justifique e desde que haja anuência dos responsáveis dos respectivos serviços."
+  },
+  "117714725": {
+   "fragment_id": "117705221",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO disposto nos artigos 3.º a 11.º entra em vigor 60 dias após a data de publicação do presente diploma."
+  },
+  "886330479": {
+   "fragment_id": "117705210",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 3.º\n\n- 1 - Em caso de desactualização do registo por falta de trato sucessivo, pode o conservador, a pedido verbal do interessado, lavrar auto-requerimento, em que especifique as circunstâncias que a determinam, com indicação dos elementos de prova disponíveis.\n\n2 - O processo é organizado com base no auto-requerimento e instruído com os documentos disponíveis e com as declarações de três pessoas, consideradas idóneas pelo conservador, acerca da existência, das causas e dos sujeitos das sucessivas transmissões.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+  },
+  "886330480": {
+   "fragment_id": "117705211",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1 - Lavrado o auto previsto no artigo anterior, deve o conservador proceder à citação do titular inscrito, para, no prazo de oito dias, deduzir oposição.\n\n2 - Não sendo possível a citação referida no número anterior, o conservador afixará edital na conservatória, convidando os interessados incertos a deduzirem oposição no prazo de 15 dias.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+  },
+  "886330481": {
+   "fragment_id": "117705212",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Finda a instrução, o conservador profere, no prazo de oito dias, despacho fundamentado, no qual conclui acerca da possibilidade do reatamento do trato sucessivo ou do estabelecimento de novo trato, consignando, em caso afirmativo, a descrição actualizada e a identificação completa do facto a registar.\n\n2 - O despacho final do conservador é notificado ao requerente no prazo de cinco dias, acompanhado, quando deferido o pedido, de extracto para publicação, e pode ser impugnado nos termos do disposto no título VII do Código do Registo Predial.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+  },
+  "886330482": {
+   "fragment_id": "117705213",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\n- 1 - O extracto do despacho do conservador é publicado pelo interessado, no prazo de oito dias a contar da data da sua notificação, num dos jornais mais lidos do município da situação do prédio ou, na sua falta, num dos jornais mais lidos da região, juntando-se ao processo um exemplar da publicação.\n\n2 - O direito de impugnação a que se refere o n.º 2 do artigo anterior deve constar da publicação.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+  },
+  "886330483": {
+   "fragment_id": "117705214",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 7.º\n\nO registo é lavrado com base no despacho final do conservador, caso não tenha havido impugnação ou esta tenha sido julgada improcedente.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+  },
+  "886330484": {
+   "fragment_id": "117705215",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 8.º\n\nPelo auto-requerimento a que se refere o artigo 3.º é devido o emolumento mais elevado, da mesma natureza, previsto para o processo pré-registral.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+  },
+  "886330485": {
+   "fragment_id": "117705216",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 9.º\n\n- 1 - O processo previsto no presente diploma é aplicável ao estabelecimento do trato sucessivo quanto a prédios não descritos mas inscritos na matriz predial.\n\n2 - O interessado deve, em qualquer dos casos, indicar a causa e as circunstâncias da aquisição do direito e as razões que o impossibilitam de a comprovar.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+  },
+  "886330486": {
+   "fragment_id": "117705217",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 10.º\n\n- 1 - As inscrições de aquisição, em condições de serem lavradas como definitivas, anteriores à daquele que se apresente a requerer o registo em seu nome podem ser substituídas pela simples anotação na ficha de que foi feita a qualificação dos correspondentes pedidos.\n\n2 - Não são devidos emolumentos em relação aos registos a que respeita a anotação.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+  },
+  "886330487": {
+   "fragment_id": "117705218",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 11.º\n\nA identificação dos sujeitos da inscrição directa é feita de forma completa sempre que se verifique a situação prevista no artigo anterior.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 273/2001 - Diário da República n.º 238/2001, Série I-A de 2001-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/273-2001-621554), em vigor a partir de 2002-01-01"
+  },
+  "117714726": {
+   "fragment_id": "117705222",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Agosto de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - José Manuel Cardoso Borges Soeiro.\n\nPromulgado em 13 de Setembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 18 de Setembro de 1990.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  }
+ }
+}

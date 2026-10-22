@@ -1,0 +1,1551 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:670279:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2011-166752743",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/15-2011-670279",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-06-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "166752840",
+    "166752841",
+    "166752842",
+    "166752843",
+    "166752844",
+    "166752845",
+    "166752846",
+    "166752847",
+    "166752848",
+    "166752849",
+    "166752850",
+    "166752851",
+    "166752853",
+    "166752854",
+    "166752855",
+    "166752856",
+    "166752857",
+    "166752858",
+    "166752859",
+    "166752860",
+    "166752861",
+    "166752862",
+    "166752863",
+    "166752864",
+    "166752865",
+    "166752866",
+    "166752867",
+    "166752868",
+    "166752869",
+    "166752870",
+    "166752871",
+    "166752872",
+    "166752873",
+    "166752874",
+    "166753175",
+    "166753176",
+    "166753177",
+    "166753178",
+    "166753179",
+    "166753180",
+    "166753181",
+    "166753182",
+    "166753183",
+    "166753184",
+    "166753185",
+    "166753186",
+    "166753187",
+    "166753188",
+    "166753189",
+    "166753190",
+    "166753191",
+    "166753192",
+    "166753193",
+    "166753194",
+    "166753195",
+    "166753196",
+    "166753197",
+    "166753198",
+    "166753199",
+    "166753200",
+    "166753201",
+    "166753202",
+    "166753203",
+    "166753204",
+    "166753205",
+    "166753206",
+    "166753207",
+    "166753208",
+    "166753209",
+    "166753210",
+    "166753211",
+    "166753212",
+    "166753213",
+    "166753214",
+    "166753215",
+    "166753216",
+    "166753217",
+    "166753218",
+    "166753219",
+    "166753220",
+    "166753221",
+    "166753222",
+    "166753223",
+    "166753224",
+    "166753225",
+    "166753226",
+    "166753227",
+    "166753228"
+   ]
+  },
+  {
+   "date": "2020-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129341449:por",
+     "title": "Decreto Regulamentar Regional n.º 7/2020/A",
+     "published": "2020-02-19",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/7-2020-129341449"
+    }
+   ],
+   "changes": [
+    "Adita Anexo III"
+   ],
+   "fragments": [
+    "166752840",
+    "166753259",
+    "166753260",
+    "166753261",
+    "166753262",
+    "166753263",
+    "166753264",
+    "166753265",
+    "166753266",
+    "166753267",
+    "166753268",
+    "166753269",
+    "166753270",
+    "166753271",
+    "166752854",
+    "166752855",
+    "166752856",
+    "166752857",
+    "166752858",
+    "166752859",
+    "166752860",
+    "166752861",
+    "166752862",
+    "166752863",
+    "166752864",
+    "166752865",
+    "166752866",
+    "166752867",
+    "166752868",
+    "166752869",
+    "166752870",
+    "166752871",
+    "166752872",
+    "166752873",
+    "166752874",
+    "166753175",
+    "166753176",
+    "166753177",
+    "166753178",
+    "166753179",
+    "166753180",
+    "166753181",
+    "166753182",
+    "166753183",
+    "166753184",
+    "166753185",
+    "166753186",
+    "166753187",
+    "166753188",
+    "166753189",
+    "166753190",
+    "166753191",
+    "166753192",
+    "166753193",
+    "166753194",
+    "166753195",
+    "166753196",
+    "166753197",
+    "166753198",
+    "166753199",
+    "166753200",
+    "166753201",
+    "166753202",
+    "166753203",
+    "166753204",
+    "166753205",
+    "166753206",
+    "166753207",
+    "166753208",
+    "166753209",
+    "166753210",
+    "166753211",
+    "166753212",
+    "166753213",
+    "166753214",
+    "166753215",
+    "166753216",
+    "166753217",
+    "166753218",
+    "166753219",
+    "166753220",
+    "166753221",
+    "166753222",
+    "166753223",
+    "166753224",
+    "166753225",
+    "166753226",
+    "166753227",
+    "166753272",
+    "166753273"
+   ]
+  },
+  {
+   "date": "2021-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:157996086:por",
+     "title": "Decreto Regulamentar Regional n.º 2/2021/A",
+     "published": "2021-02-19",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/2-2021-157996086"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "166752840",
+    "166753259",
+    "166753260",
+    "166753261",
+    "166753262",
+    "166753263",
+    "166753264",
+    "166753265",
+    "166753266",
+    "166753267",
+    "166753274",
+    "166753269",
+    "166753270",
+    "166753271",
+    "166752854",
+    "166752855",
+    "166752856",
+    "166752857",
+    "166752858",
+    "166752859",
+    "166752860",
+    "166752861",
+    "166752862",
+    "166752863",
+    "166752864",
+    "166752865",
+    "166752866",
+    "166752867",
+    "166752868",
+    "166752869",
+    "166752870",
+    "166752871",
+    "166752872",
+    "166752873",
+    "166752874",
+    "166753175",
+    "166753176",
+    "166753177",
+    "166753178",
+    "166753179",
+    "166753180",
+    "166753181",
+    "166753182",
+    "166753183",
+    "166753184",
+    "166753185",
+    "166753186",
+    "166753187",
+    "166753188",
+    "166753189",
+    "166753190",
+    "166753191",
+    "166753192",
+    "166753193",
+    "166753194",
+    "166753195",
+    "166753196",
+    "166753197",
+    "166753198",
+    "166753199",
+    "166753200",
+    "166753201",
+    "166753202",
+    "166753203",
+    "166753204",
+    "166753205",
+    "166753206",
+    "166753207",
+    "166753208",
+    "166753209",
+    "166753210",
+    "166753211",
+    "166753212",
+    "166753213",
+    "166753214",
+    "166753215",
+    "166753216",
+    "166753217",
+    "166753218",
+    "166753219",
+    "166753220",
+    "166753221",
+    "166753222",
+    "166753223",
+    "166753224",
+    "166753225",
+    "166753226",
+    "166753227",
+    "166753272",
+    "166753273"
+   ]
+  },
+  {
+   "date": "2021-07-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:166658190:por",
+     "title": "Decreto Regulamentar Regional n.º 18/2021/A",
+     "published": "2021-07-08",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º",
+    "Revoga Artigo 50.º",
+    "Revoga Artigo 51.º",
+    "Revoga Artigo 52.º"
+   ],
+   "fragments": [
+    "166752840",
+    "166753259",
+    "166753260",
+    "166753261",
+    "166753262",
+    "166753263",
+    "166753264",
+    "166753265",
+    "166753266",
+    "166753267",
+    "166753274",
+    "166753269",
+    "166753270",
+    "166753271",
+    "166752854",
+    "166752855",
+    "166752856",
+    "166752857",
+    "166752858",
+    "166752859",
+    "166752860",
+    "166752861",
+    "166752862",
+    "166752863",
+    "166752864",
+    "166752865",
+    "166752866",
+    "166752867",
+    "166752868",
+    "166752869",
+    "166752870",
+    "166752871",
+    "166752872",
+    "166752873",
+    "166752874",
+    "166753175",
+    "166753176",
+    "166753177",
+    "166753178",
+    "166753179",
+    "166753180",
+    "166753181",
+    "166753182",
+    "166753183",
+    "166753184",
+    "166764176",
+    "166764177",
+    "166764178",
+    "166764179",
+    "166764180",
+    "166764181",
+    "166764182",
+    "166764183",
+    "166764184",
+    "166764185",
+    "166753195",
+    "166764186",
+    "166764187",
+    "166764188",
+    "166764189",
+    "166764190",
+    "166764191",
+    "166764192",
+    "166764193",
+    "166764194",
+    "166764195",
+    "166764196",
+    "166753207",
+    "166764197",
+    "166764198",
+    "166764199",
+    "166764200",
+    "166764201",
+    "166753213",
+    "166753214",
+    "166753215",
+    "166753216",
+    "166753217",
+    "166753218",
+    "166753219",
+    "166753220",
+    "166753221",
+    "166753222",
+    "166753223",
+    "166753224",
+    "166753225",
+    "166753226",
+    "166753227",
+    "166753272",
+    "166753273"
+   ]
+  }
+ ],
+ "fragments": {
+  "166752840": {
+   "fragment_id": "166752744",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 15/2011/A\n\nOrgânica e quadro do pessoal dirigente, de direcção específica e de chefia, da Secretaria Regional da Economia\n\nO sector público tem como desafio desempenhar um papel essencial na modernização da economia e da sociedade açoriana, de modo que a região se torne mais competitiva e dinâmica, tenha um crescimento sustentável e seja capaz de criar mais e melhores postos de trabalho, proporcionando simultaneamente maior coesão social e territorial.\n\nNum momento em que os governos estão sob pressão para utilizarem de modo mais eficiente o dinheiro dos contribuintes, o desafio consiste em obter aumentos de produtividade no sector público de modo a criar mais possibilidades de melhoramento dos serviços sem aumento dos custos.\n\nAcresce que a competitividade das empresas também é influenciada pelos custos das transacções que têm de suportar nas suas relações com as administrações. Na verdade, com a agudização da concorrência à escala internacional, os governos são também responsáveis por muitos dos elementos que integram os processos de produção, pelo que as empresas esperam serviços públicos mais baratos e de melhor qualidade para poderem manter-se competitivas.\n\nDeste modo, o ponto óptimo das opções políticas de redução de custos na Administração pode encontrar-se através da maximização dos recursos humanos e técnicos existentes, reorientando-os em funções de multifuncionalidade e interoperabilidade, sem prejuízo da respectiva proximidade, eficácia, dinâmica e fiabilidade, para o cidadão e para as empresas, características indispensáveis a uma administração regional autónoma moderna.\n\nAssim:\n\nNos termos do n.º 6 do artigo 231.º da Constituição e da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "166752841": {
+   "fragment_id": "166752745",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovada a orgânica e o quadro do pessoal dirigente, de direcção específica e de chefia, da Secretaria Regional da Economia, abreviadamente designada por SRE, publicados nos anexos i e ii do presente diploma, do qual fazem parte integrante."
+  },
+  "166752842": {
+   "fragment_id": "166752746",
+   "type": 11,
+   "heading": "Artigo 2.º — Extinção e criação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Extinção e criação de serviços\n\n1 - São extintos os seguintes serviços:\n\na) Na estrutura geral da SRE:\n\ni) O Gabinete Jurídico-Económico;\n\nii) A Secção de Apoio à Direcção Regional do Comércio, Indústria e Energia;\n\niii) A Secção de Apoio à Direcção Regional dos Transportes Aéreos e Marítimos;\n\niv) A Secção de Contabilidade e Património;\n\nv) O Centro de Informação;\n\nb) Na estrutura da Direcção Regional de Apoio ao Investimento e Competitividade:\n\ni) A Direcção de Serviços de Parceria e Coesão Económica;\n\nii) A Divisão de Promoção do Investimento;\n\niii) A Divisão da Qualidade;\n\niv) A Divisão da Organização, Planeamento e Serviços Jurídicos;\n\nv) A Divisão de Recursos Geológicos;\n\nc) Na estrutura da Direcção Regional do Turismo:\n\ni) A Direcção de Serviços de Planeamento, Equipamento e Actividade Turísticas;\n\nii) A Direcção de Serviços de Informação, Animação e Promoção Turísticas;\n\niii) A Divisão de Equipamentos e Actividades Turísticas;\n\niv) A Divisão de Ordenamento e Licenciamento de Instalações Turísticas;\n\nv) O Gabinete de Apoio ao Turismo de Natureza e em Espaço Rural;\n\nvi) Os Centros Termais das Furnas, Carapacho e Varadouro;\n\nvii) A Secção de Pessoal, Expediente e Arquivo;\n\nviii) A Secção de Contabilidade e Património;\n\nd) Na estrutura da Direcção Regional dos Transportes Aéreos e Marítimos:\n\ni) A Direcção de Serviços de Estudos e Planeamento;\n\nii) A Direcção de Serviços dos Transportes Aéreos e Marítimos.\n\n2 - São criados os seguintes serviços:\n\na) Na estrutura geral da SRE:\n\ni) O Gabinete de Apoio, Planeamento e Auditoria;\n\nii) A Divisão de Apoio Técnico, Planeamento e Auditoria;\n\nb) Na Direcção Regional de Apoio ao Investimento e Competitividade:\n\ni) A Divisão de Apoio ao Empreendedorismo e Inovação;\n\nc) Na Direcção Regional do Turismo:\n\ni) A Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística;\n\nii) A Divisão de Ordenamento e Infra-Estruturas Turísticas;\n\niii) A Divisão de Promoção Turística;\n\niv) A Secção de Controlo Financeiro, Patrimonial, Recursos Humanos e Apoio Administrativo.\n\n3 - É alterada a designação dos seguintes serviços:\n\na) Na estrutura geral da SRE, a Divisão Administrativa e Financeira passa a designar-se Divisão Administrativa, Financeira e de Documentação;\n\nb) Na estrutura da DRAIC:\n\ni) A Direcção de Serviços dos Incentivos passa a designar-se Direcção de Serviços de Apoio ao Investimento;\n\nii) A Direcção de Serviços do Comércio e Indústria passa a designar-se Direcção de Serviços de Fomento da Competitividade e Qualidade;\n\niii) A Divisão de Análise de Incentivos passa a designar-se Divisão de Análise de Investimentos;\n\niv) A Divisão de Acompanhamento e Controlo passa a designar-se Divisão de Acompanhamento da Execução de Investimentos;\n\nv) A Divisão da Indústria passa a designar-se Divisão da Indústria e Qualidade."
+  },
+  "166752843": {
+   "fragment_id": "166752747",
+   "type": 11,
+   "heading": "Artigo 3.º — Comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comissões de serviço\n\n1 - São mantidas as comissões de serviço dos titulares de cargos de direcção superior de 1.º grau da SRE cujos serviços, por força do presente diploma, foram reestruturados ou alterados na sua designação ou nas suas competências.\n\n2 - Com a entrada em vigor do presente diploma cessam as comissões de serviço de todos os restantes cargos dirigentes e de chefia previstos na anterior orgânica."
+  },
+  "166752844": {
+   "fragment_id": "166752748",
+   "type": 11,
+   "heading": "Artigo 4.º — Pessoal com funções de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pessoal com funções de fiscalização\n\n1 - O pessoal afecto à SRE que exerça funções de fiscalização deve, no exercício das mesmas, usar cartão de identidade especial, cujos modelos serão aprovados por portaria do Secretário Regional da Economia.\n\n2 - Os trabalhadores a que alude o número anterior são considerados agentes de autoridade, tendo livre acesso aos estabelecimentos e locais sujeitos à jurisdição do serviço a que pertençam, e podem solicitar o apoio das autoridades administrativas e policiais para o cumprimento integral das respectivas funções."
+  },
+  "166752845": {
+   "fragment_id": "166752749",
+   "type": 11,
+   "heading": "Artigo 5.º — Suplemento mensal de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Suplemento mensal de risco\n\nOs trabalhadores com funções de fiscalização nas áreas da indústria e dos recursos geológicos têm direito a um suplemento mensal de risco de 20 %, nos termos e sem prejuízo do regime de salvaguarda de direitos do artigo 13.º do Decreto Legislativo Regional n.º 26/2008/A, de 24 de Julho, alterado e republicado pelos Decretos Legislativos Regionais n.os 17/2009/A, de 14 de Outubro, e 33/2010/A, de 18 de Novembro."
+  },
+  "166752846": {
+   "fragment_id": "166752750",
+   "type": 11,
+   "heading": "Artigo 6.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Situações especiais\n\n1 - O pessoal que, à data da entrada em vigor deste diploma, se encontre em regime de período experimental mantém-se nessa situação até à conclusão do mesmo, devendo, consoante os casos e se necessário, ser nomeado novo júri ou elementos do júri, o qual fará a respectiva avaliação e classificação final.\n\n2 - Mantêm-se os concursos a decorrer na data da entrada em vigor do presente diploma."
+  },
+  "166752847": {
+   "fragment_id": "166752751",
+   "type": 11,
+   "heading": "Artigo 7.º — Transição do pessoal da Inspecção do Turismo, da Direcção Regional do Turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transição do pessoal da Inspecção do Turismo, da Direcção Regional do Turismo\n\n1 - O pessoal da Inspecção do Turismo, da Direcção Regional do Turismo, é reafectado à Inspecção Regional do Turismo, referida na secção vi do anexo i, sem alteração dos seus locais de trabalho e tendo em conta o disposto no número seguinte.\n\n2 - Enquanto não for revisto o regime das carreiras inspectivas na região, estas regem-se pelo disposto no Decreto-Lei n.º 112/2001, de 6 de Abril, com as adaptações decorrentes do artigo 19.º do Decreto-Lei n.º 69-A/2009, de 24 de Março, bem como do artigo 35.º da Lei n.º 55-A/2010, de 31 de Dezembro."
+  },
+  "166752848": {
+   "fragment_id": "166752752",
+   "type": 11,
+   "heading": "Artigo 8.º — Centros Termais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Centros Termais\n\nO pessoal afecto aos Centros Termais das Furnas e do Carapacho passa a integrar a Delegação de Turismo de São Miguel e os Serviços de Ilha da Ilha Graciosa, respectivamente, sem prejuízo do disposto no regime de mobilidade da administração regional autónoma e do regime da concessão do jogo na Região Autónoma dos Açores, na parte referente ao início da exploração do Centro Termal das Furnas."
+  },
+  "166752849": {
+   "fragment_id": "166752753",
+   "type": 11,
+   "heading": "Artigo 9.º — Postos de turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Postos de turismo\n\nAté à publicação dos despachos previstos no n.º 2 do artigo 36.º do anexo i, mantêm-se os postos de turismo existentes e o pessoal a eles afecto."
+  },
+  "166752850": {
+   "fragment_id": "166752754",
+   "type": 11,
+   "heading": "Artigo 10.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revogação\n\n1 - É revogado o Decreto Regulamentar Regional n.º 21/2006/A, de 16 de Junho.\n\n2 - Até à integração formal da Aerogare Civil das Lajes nos serviços da actual concessionária do serviço público aeroportuário, mantém-se em vigor o disposto na alínea c) do artigo 50.º e nos artigos 57.º a 59.º do Decreto Regulamentar Regional n.º 21/2006/A, de 16 de Junho."
+  },
+  "166752851": {
+   "fragment_id": "166752755",
+   "type": 11,
+   "heading": "Artigo 11.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vigência\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "166752853": {
+   "fragment_id": "166752757",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "166752854": {
+   "fragment_id": "166752758",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, missão e atribuições"
+  },
+  "166752855": {
+   "fragment_id": "166752759",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\nA Secretaria Regional da Economia, abreviadamente designada por SRE, é o departamento do Governo da Região Autónoma dos Açores responsável pela concepção, execução e avaliação das actividades específicas definidas pelo Governo no âmbito das actividades económicas de produção de bens e serviços nas áreas da indústria, comércio, transportes aéreos e marítimos, turismo, cooperativismo e artesanato, bem como das políticas genéricas de promoção do investimento e do desenvolvimento empresarial."
+  },
+  "166752856": {
+   "fragment_id": "166752760",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNo quadro das orientações definidas pelo Governo, competem à SRE as seguintes atribuições:\n\na) Promover a criação de condições que permitam incentivar e sustentar uma envolvente económica e social favorável ao investimento e ao desenvolvimento de novos factores de competitividade;\n\nb) Dinamizar a actividade produtiva regional, apoiando iniciativas nos domínios da qualidade, da investigação e do desenvolvimento tecnológico nas áreas industrial e dos recursos geológicos, da qualificação dos recursos humanos e da base empresarial;\n\nc) Apoiar a modernização das estruturas empresariais, criando, em especial, condições para a consolidação e fortalecimento das pequenas e médias empresas;\n\nd) Promover a qualidade dos produtos e serviços nas áreas da sua competência;\n\ne) Desenvolver uma política de turismo de forma sustentável, com especial incidência nas áreas necessárias para a qualificação, diversificação e competitividade de oferta turística regional;\n\nf) Dinamizar o artesanato regional, quer como elemento preservador de memória colectiva quer como actividade criadora com potencial económico;\n\ng) Promover a execução dos objectivos das políticas de transportes marítimos e de transportes aéreos reforçando o potencial das mesmas, e respectivas infra-estruturas, para a competitividade da economia açoriana, acessibilidade de pessoas e bens e coesão regional."
+  },
+  "166752857": {
+   "fragment_id": "166752761",
+   "type": 11,
+   "heading": "Artigo 3.º — Do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Do Secretário Regional\n\nAo Secretário Regional da Economia compete assegurar a prossecução das atribuições previstas no artigo antecedente, designadamente:\n\na) Propor, definir e fazer executar as políticas regionais nos sectores de competência da SRE;\n\nb) Superintender e coordenar os órgãos e serviços que estejam na sua dependência;\n\nc) Dirigir e coordenar toda a acção da SRE;\n\nd) Representar a SRE;\n\ne) Definir os termos da representação oficial da SRE, nos organismos nacionais e internacionais nas áreas da competência desta;\n\nf) Exercer as demais competências previstas na lei."
+  },
+  "166752858": {
+   "fragment_id": "166752762",
+   "type": 1,
+   "heading": "Capítulo II — Dos órgãos e serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos órgãos e serviços e suas competências\n\nArtigo 4.º\n\nEstrutura\n\nPara a prossecução dos seus objectivos, a Secretaria Regional compreende os seguintes órgãos e serviços:\n\na) Órgão consultivo - Conselho Regional de Incentivos (CRI);\n\nb) Serviço de coordenação - Gabinete de Apoio, Planeamento e Auditoria (GAPA);\n\nc) Serviços executivos:\n\ni) Direcção Regional do Apoio ao Investimento e Competitividade (DRAIC);\n\nii) Direcção Regional do Turismo (DRT);\n\niii) Direcção Regional dos Transportes Aéreos e Marítimos (DRTAM);\n\niv) Centro Regional de Apoio ao Artesanato (CRAA);\n\nd) Serviço inspectivo - Inspecção Regional do Turismo (IRT);\n\ne) Serviços desconcentrados - Serviços de Ilha (SI).\n\nArtigo 5.º\n\nEstruturas de projecto\n\nPoderão ser criados grupos de trabalho ou estruturas de projectos, nos termos da legislação aplicável, sempre que a natureza dos objectivos o aconselhe e o Secretário Regional o julgue necessário."
+  },
+  "166752859": {
+   "fragment_id": "166752763",
+   "type": 8,
+   "heading": "Secção I — Conselho Regional de Incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conselho Regional de Incentivos"
+  },
+  "166752860": {
+   "fragment_id": "166752764",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza e competências\n\n1 - O CRI é um órgão consultivo do SRE que tem por objectivo acompanhar as políticas económicas, as políticas nas áreas de competência da SRE, designadamente em matéria de incentivos financeiros ou outros, nas áreas sob tutela da mesma.\n\n2 - O CRI é regulamentado em diploma próprio."
+  },
+  "166752861": {
+   "fragment_id": "166752765",
+   "type": 8,
+   "heading": "Secção II — Gabinete de Apoio, Planeamento e Auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Gabinete de Apoio, Planeamento e Auditoria"
+  },
+  "166752862": {
+   "fragment_id": "166752766",
+   "type": 11,
+   "heading": "Artigo 7.º — Natureza e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Natureza e competências\n\n1 - O Gabinete de Apoio, Planeamento e Auditoria (GAPA) é um serviço de coordenação ao qual compete:\n\na) Apoiar a definição das políticas e prioridades estratégicas nas áreas de competência da SRE;\n\nb) Assegurar a utilização racional e conjugada dos recursos humanos da SRE em funções de inspecção e auditoria, com a missão de apreciar a legalidade e regularidade dos actos praticados pelos serviços e organismos sujeitos à tutela e superintendência do SRE;\n\nc) Formular as informações, pareceres e análises necessários à actividade dos serviços executivos da SRE;\n\nd) Coordenar a elaboração dos projectos de diplomas legais e regulamentares;\n\ne) Coordenar a elaboração dos processos disciplinares e de inquérito ordenados pelo Secretário Regional;\n\nf) Desenvolver as acções de auditoria determinadas pelo SRE;\n\ng) Elaborar e manter actualizada informação estatística nas áreas da SRE.\n\n2 - Os recursos humanos afectos ao GAPA podem ser afectos para apoio junto de qualquer outro serviço da SRE por despacho do SRE.\n\n3 - A competência prevista no número anterior pode ser delegada.\n\n4 - O GAPA é dirigido por um director, equiparado a subdirector regional, cargo de direcção superior de 2.º grau, directamente dependente do Secretário Regional."
+  },
+  "166752863": {
+   "fragment_id": "166752767",
+   "type": 11,
+   "heading": "Artigo 8.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estrutura\n\nO GAPA compreende os seguintes serviços de carácter operativo:\n\ni) Divisão de Apoio Técnico, Planeamento e Auditoria;\n\nii) Centro de Informática;\n\niii) Divisão Administrativa, Financeira e de Documentação."
+  },
+  "166752864": {
+   "fragment_id": "166752768",
+   "type": 11,
+   "heading": "Artigo 9.º — Divisão de Apoio Técnico, Planeamento e Auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Divisão de Apoio Técnico, Planeamento e Auditoria\n\n1 - Compete à DATPA:\n\na) A inspecção e auditoria, com a missão de apreciar a legalidade e regularidade dos actos praticados pelos serviços e organismos sujeitos à sua tutela e superintendência do SRE;\n\nb) Análises, informações e pareceres necessários à actividade dos serviços executivos da SRE;\n\nc) Elaboração dos projectos de diplomas legais e regulamentares;\n\nd) Instruir e participar na elaboração dos processos disciplinares e de inquérito ordenados pelo Secretário Regional;\n\ne) Desenvolver as acções de auditoria determinadas pelo SRE.\n\n2 - A DATPA é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "166752865": {
+   "fragment_id": "166752769",
+   "type": 11,
+   "heading": "Artigo 10.º — Centro de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Centro de Informática\n\n1 - Ao CI compete:\n\na) Elaborar e propor um plano de desenvolvimento dos sistemas de informação e comunicações da SRE;\n\nb) Estudar e desenvolver os meios informáticos e de comunicações da SRE;\n\nc) Assegurar o correcto funcionamento de todo o sistema informático da SRE;\n\nd) Propor a aquisição de equipamento nos termos da lei, realizando a gestão das condições contratuais de entrega, bem como zelar pelo material existente;\n\ne) Dar parecer prévio sobre todas as aquisições de material informático ou de material destinado ou passível de se articular funcionalmente com o material informático;\n\nf) Estudar sistemas e realizar projectos de informática para a SRE nas tarefas de processamentos e garantir a manutenção das aplicações em exploração;\n\ng) Analisar e desenvolver aplicações específicas;\n\nh) Colaborar com os diversos órgãos e serviços da SRE nas tarefas de processamento de dados;\n\ni) Assessorar o Gabinete do Secretário Regional e todos os serviços executivos da SRE, ou equiparados, fornecendo-lhe as informações e os elementos necessários à sua acção;\n\nj) Propor um plano de formação em matéria informática, sem prejuízo dos serviços que têm competência nesta matéria;\n\nk) Elaborar os relatórios e pareceres que lhe forem solicitados respeitantes à sua área de competências.\n\n2 - O CI é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau."
+  },
+  "166752866": {
+   "fragment_id": "166752770",
+   "type": 11,
+   "heading": "Artigo 11.º — Divisão Administrativa, Financeira e de Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Divisão Administrativa, Financeira e de Documentação\n\n1 - Compete à DAFD apoiar os diversos órgãos e serviços da SRE nos domínios dos recursos humanos, financeiros e patrimoniais e, ainda, assegurar a execução dos serviços de carácter administrativo comuns aos diversos órgãos e serviços da SRE, para o que lhe compete, designadamente:\n\na) Colaborar na preparação, execução e controlo do orçamento;\n\nb) Assegurar o serviço de contabilidade;\n\nc) Propor a aquisição e assegurar a gestão de bens patrimoniais;\n\nd) Assegurar a gestão do pessoal;\n\ne) Assegurar o expediente, o arquivo e a documentação geral da SRE;\n\nf) Executar os serviços de carácter administrativo;\n\ng) Organizar e manter o arquivo geral, legislação e toda a restante documentação que lhe seja confiada em condições de fácil consulta e de permanente actualização;\n\nh) Elaborar e manter actualizado o inventário e cadastro documental e bibliográfico.\n\n2 - A DAFD é dirigida por um chefe de divisão, cargo dirigente de direcção intermédia de 2.º grau.\n\n3 - A DAFD compreende as seguintes estruturas:\n\na) Secção de Recursos Humanos (SRH);\n\nb) Secção de Apoio Administrativo (SAP)."
+  },
+  "166752867": {
+   "fragment_id": "166752771",
+   "type": 11,
+   "heading": "Artigo 12.º — Coordenação financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Coordenação financeira e patrimonial\n\nA coordenação das funções relativas às matérias financeiras e patrimoniais da DAFD é assegurada por um coordenador, nos termos do artigo 7.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de Maio, na redacção dos Decretos Legislativos Regionais n.os 17/2009/A, de 14 de Outubro, e 33/2010/A, de 18 de Novembro, ao qual compete, designadamente:\n\na) Colaborar com os demais órgãos e serviços da SRE nas acções necessárias à elaboração do orçamento;\n\nb) Coordenar as funções atinentes ao processo de elaboração do orçamento, contabilidade e património da DRAIC, DRTAM e DRT;\n\nc) Executar os relatórios de execução do plano de investimentos e do orçamento da SRE;\n\nd) Elaborar propostas de alteração orçamental e de transferência de verbas dentro do orçamento da SRE;\n\ne) Executar os actos dos procedimentos administrativos relativos à aquisição e locação de equipamentos, bens de consumo e serviços;\n\nf) Zelar pela organização, manutenção e actualização do inventário e do cadastro dos bens afectos à SRE;\n\ng) Assegurar o processamento das despesas resultantes da execução orçamental;\n\nh) Colaborar no processamento dos vencimentos e demais remunerações;\n\ni) Organizar e manter actualizado o inventário e o cadastro dos bens;\n\nj) Conferir, classificar e arquivar os documentos contabilísticos;\n\nk) Assegurar a gestão de stocks;\n\nl) Garantir a conservação e limpeza de edifícios e outras instalações, bem como a manutenção e conservação eficiente dos equipamentos e viaturas;\n\nm) Assegurar a gestão do parque automóvel e a coordenação dos meios afectos;\n\nn) Executar outras funções que lhe sejam superiormente cometidas."
+  },
+  "166752868": {
+   "fragment_id": "166752772",
+   "type": 11,
+   "heading": "Artigo 13.º — Secção de Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Secção de Recursos humanos\n\nCompete à Secção de Recursos Humanos (SRH):\n\na) Organizar os processos necessários ao recrutamento, promoção, progressão, reclassificação, transferência e outras formas de mobilidade, aposentação e exoneração de pessoal;\n\nb) Colaborar nos processos de recrutamento e selecção, assegurando, para o efeito, as acções necessárias à abertura e desenvolvimento dos processos de recrutamento e selecção de pessoal;\n\nc) Assegurar a recolha e análise de informações e documentação técnica sobre acções de formação, no âmbito da SRE;\n\nd) Fornecer as informações estatísticas à DAFD em tudo o que diga respeito ao pessoal, nomeadamente a assiduidade;\n\ne) Organizar e manter actualizado o cadastro e registo biográfico do pessoal da SRE;\n\nf) Assegurar os procedimentos de forma a garantir a efectividade, segurança e benefícios sociais do pessoal;\n\ng) Manter devidamente actualizado o registo de assiduidade, faltas e licenças, processos disciplinares, louvores, condecorações e outras situações de pessoal, promovendo a verificação de situações de doença e de acidentes em serviço, a organização dos respectivos processos, a prestação de assistência aos sinistrados e quaisquer outras diligências necessárias;\n\nh) Elaborar os pareceres e informações que lhe forem solicitados sobre os assuntos referentes a pessoal, passar certidões e declarações que forem autorizadas e elaborar e publicar as listas de antiguidade;\n\ni) Preparar os elementos necessários ao processamento de vencimentos, salários, horas extraordinárias, abonos, subsídios, ajudas de custo ou quaisquer outros encargos com o pessoal;\n\nj) Divulgar por todos os serviços e sectores as acções de formação a realizar, bem como cursos e seminários susceptíveis de melhorar os níveis profissional e cultural dos funcionários;\n\nk) Organizar e manter organizada toda a documentação e legislação em matéria de pessoal."
+  },
+  "166752869": {
+   "fragment_id": "166752773",
+   "type": 11,
+   "heading": "Artigo 14.º — Secção de Apoio Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Secção de Apoio Administrativo\n\nCompete à SAA:\n\na) Receber, classificar, registar e distribuir pelos vários serviços toda a correspondência, requerimentos e demais documentos entrados no serviço;\n\nb) Receber, registar, classificar, acondicionar, distribuir e arrumar devidamente todos os documentos e processos que sejam enviados para arquivo pelos diferentes serviços da SRE;\n\nc) Organizar e manter actualizados ficheiros de todos os documentos e processos que se encontrem arquivados, bem como de quaisquer outros que se tornem necessários;\n\nd) Manter em boas condições de arrumação, ordenação e conservação todos os processos e outros documentos recebidos;\n\ne) Promover a existência de condições de segurança e conservação de arquivos;\n\nf) Assegurar o saneamento do arquivo estático, segundo os critérios e prazos legalmente estabelecidos;\n\ng) Colaborar na actualização sistemática do plano de correspondência e arquivo;\n\nh) Organizar um sistema de controlo e saída de documentos no sector;\n\ni) Coordenar a execução e divulgação de normas internas, circulares e directivas superiores;\n\nj) Organizar a recepção e encaminhamento do público;\n\nk) Assegurar as funções de reprografia e comunicações com o exterior;\n\nl) Passar os atestados, certidões, cópias, fotocópias e documentos semelhantes cuja passagem seja solicitada e devidamente autorizada;\n\nm) Executar tudo quanto se relacione com a elaboração e publicação de editais, anúncios, comunicados ou semelhantes;\n\nn) Assegurar a organização de todos os processos e assuntos de carácter administrativo quando não existam unidades orgânicas com essa vocação;\n\no) Coordenar e garantir a execução das tarefas do pessoal auxiliar;\n\np) Executar outras tarefas que superiormente lhe forem cometidas."
+  },
+  "166752870": {
+   "fragment_id": "166752774",
+   "type": 8,
+   "heading": "Secção III — Centro Regional de Apoio ao Artesanato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Centro Regional de Apoio ao Artesanato"
+  },
+  "166752871": {
+   "fragment_id": "166753075",
+   "type": 11,
+   "heading": "Artigo 15.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Natureza\n\n1 - O CRAA é o órgão executivo ao qual incumbe a execução da política regional nas áreas do desenvolvimento, da valorização dos produtos tradicionais, designadamente no artesanato regional e unidades produtivas artesanais, da formação profissional e da coordenação de iniciativas multifuncionais com desenvolvimento no meio local.\n\n2 - O CRAA é dirigido por um director, equiparado a director de serviços, cargo de direcção intermédia de 1.º grau, directamente dependente do Secretário Regional, competindo-lhe:\n\na) Coordenar toda a actividade do CRAA, garantindo o seu funcionamento;\n\nb) Elaborar o plano anual de actividades."
+  },
+  "166752872": {
+   "fragment_id": "166753076",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências\n\nSão competências do CRAA, nomeadamente:\n\na) Apoiar e incentivar iniciativas artesanais que, partindo de grupos e ou indivíduos, contribuam para a promoção cultural, social e económica da Região Autónoma dos Açores;\n\nb) Desenvolver relações de cooperação com outros organismos nacionais e internacionais, privilegiando o estabelecimento de acordos e protocolos;\n\nc) Desenvolver as acções necessárias à formação e informação dos artesãos;\n\nd) Proceder à recolha de dados estatísticos que possibilitem o conhecimento e melhor definição das políticas para o sector;\n\ne) Desenvolver estudos e propor medidas tendentes ao fomento do artesanato regional junto dos agentes económicos interessados;\n\nf) Especificar e definir as actividades e as profissões que devam ser consideradas como artesanais;\n\ng) Garantir a imagem e qualidade do produto artesanal;\n\nh) Promover e organizar feiras, exposições e certames regionais e coordenar a participação e o intercâmbio da região nas congéneres nacionais ou internacionais;\n\ni) Verificar a certificação de origem e qualidade do produto e a representação em feiras, exposições e certames do género, ao nível interno e externo;\n\nj) Colaborar com a DRAIC no licenciamento das indústrias artesanais;\n\nk) Instruir os processos com vista à concessão de todos os incentivos ao artesanato e respectiva fiscalização de dados pelo CRAA;\n\nl) Dar parecer sobre os incentivos de âmbito regional desta área;\n\nm) Assegurar a emissão das cartas de artesão e da unidade produtiva artesanal nos termos legais;\n\nn) Prosseguir e realizar todas as acções que dentro da sua especificidade lhe sejam superiormente cometidas;\n\no) Elaborar propostas de circuitos turísticos, passeios pedestres e guiados e infra-estruturas interpretativas que integram unidades produtivas artesanais;\n\np) Colaborar com a DRT na análise e parecer de unidades de turismo em espaço rural, como forma de recuperação de mobiliário, artefacto de cariz tradicional ou valorização do artesanato regional;\n\nq) Sensibilizar a população rural para a importância e valorização do património natural, cultural e etnográfico para o desenvolvimento do turismo em espaço local;\n\nr) Prestar apoio técnico aos projectos de turismo em espaço rural que integram iniciativas de animação e cultura tradicional nas artes e ofícios tradicionais;\n\ns) Dinamizar o artesanato regional, quer como elemento preservador de memória colectiva quer como actividade criadora com potencial económico."
+  },
+  "166752873": {
+   "fragment_id": "166753077",
+   "type": 8,
+   "heading": "Secção IV — Direcção Regional de Apoio ao Investimento e à Competitividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Direcção Regional de Apoio ao Investimento e à Competitividade"
+  },
+  "166752874": {
+   "fragment_id": "166753078",
+   "type": 11,
+   "heading": "Artigo 17.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Natureza e missão\n\nA Direcção Regional de Apoio ao Investimento e à Competitividade (DRAIC) é o serviço executivo da SRE que tem por missão contribuir para a definição, e executar, as políticas de apoio ao investimento e de reforço da competitividade do tecido empresarial açoriano, bem como de promoção da inovação, da qualidade e do empreendedorismo."
+  },
+  "166753175": {
+   "fragment_id": "166753079",
+   "type": 11,
+   "heading": "Artigo 18.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competências\n\nSão competências da DRAIC:\n\na) Colaborar no estudo e definição de medidas de política sectorial nas áreas de apoio ao investimento e competitividade;\n\nb) Assegurar o funcionamento, a coordenação e a articulação dos sistemas de incentivos ou estímulos ao investimento;\n\nc) Contribuir para um contexto de eficiência potenciador do investimento;\n\nd) Fomentar o desenvolvimento e modernização dos sectores do comércio, da indústria e competitividade do tecido empresarial;\n\ne) Promover a regulação das actividades comercial e industrial;\n\nf) Licenciar e fiscalizar as actividades comercial e industrial;\n\ng) Fomentar a qualidade dos produtos regionais;\n\nh) Cooperar com outras entidades, públicas ou privadas, nacionais ou estrangeiras, em acções que possam contribuir para a realização dos seus objectivos;\n\ni) Celebrar protocolos com instituições regionais, nacionais ou internacionais, sobre matérias de interesse ao desenvolvimento empresarial da região;\n\nj) Propor a elaboração de estudos nas áreas da sua competência;\n\nk) Apoiar os movimentos associativo e cooperativo regionais;\n\nl) Promover a divulgação de informação útil para a definição e formulação das estratégias empresariais, numa perspectiva de modernização e reforço da competitividade dos sectores da sua competência;\n\nm) Promover acções de formação e de sensibilização no âmbito das suas atribuições;\n\nn) Proceder à recolha de elementos e dados estatísticos, tendo em vista a caracterização dos sectores comercial e industrial;\n\no) Todas as demais atribuições que lhe sejam conferidas por lei."
+  },
+  "166753176": {
+   "fragment_id": "166753080",
+   "type": 11,
+   "heading": "Artigo 19.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Estrutura\n\n1 - A DRAIC compreende:\n\na) Direcção de Serviços de Apoio ao Investimento;\n\nb) Direcção de Serviços de Fomento da Competitividade e Qualidade;\n\nc) Divisão de Apoio ao Empreendedorismo e Inovação.\n\n2 - A Direcção de Serviços de Apoio ao Investimento compreende os seguintes serviços:\n\na) Divisão de Análise de Investimentos;\n\nb) Divisão de Acompanhamento da Execução de Investimentos.\n\n3 - A Direcção de Serviços de Fomento da Competitividade e Qualidade compreende os seguintes serviços:\n\na) Divisão do Comércio;\n\nb) Divisão da Indústria e Qualidade.\n\n4 - A Divisão de Apoio ao Empreendedorismo e Inovação é chefiada por um chefe de divisão, cargo de direcção intermédia de 2.º grau, que hierarquicamente depende do DRAIC."
+  },
+  "166753177": {
+   "fragment_id": "166753081",
+   "type": 11,
+   "heading": "Artigo 20.º — Direcção de Serviços de Apoio ao Investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direcção de Serviços de Apoio ao Investimento\n\nCompete à Direcção de Serviços de Apoio ao Investimento:\n\na) Propor medidas conducentes à promoção da competitividade e produtividade do tecido económico regional;\n\nb) Apoiar a concepção de novas medidas no domínio da política de incentivos;\n\nc) Coordenar a gestão dos diversos sistemas de incentivos ao investimento cuja gestão esteja cometida à DRAIC;\n\nd) Acompanhar a concepção e desenvolvimento dos sistemas de informação necessários ao funcionamento dos programas de apoio ao investimento;\n\ne) Preparar e acompanhar os processos de candidatura dos projectos de investimento aos fundos comunitários, referentes às competências da DRAIC;\n\nf) Cooperar na divulgação dos sistemas de incentivos ao investimento;\n\ng) Apoiar o funcionamento das diversas comissões de selecção dos sistemas de incentivos regionais;\n\nh) Cooperar com as associações empresariais envolvidas na gestão dos sistemas de incentivos;\n\ni) Representar a DRAIC em órgãos de selecção dos projectos de investimento, ou outros, quando nomeada para o efeito;\n\nj) Acompanhar a legislação comunitária relativa à concessão de incentivos ao investimento;\n\nk) Realizar ou acompanhar estudos e relatórios relacionados com a sua área de atribuições."
+  },
+  "166753178": {
+   "fragment_id": "166753082",
+   "type": 11,
+   "heading": "Artigo 21.º — Divisão de Análise de Investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Divisão de Análise de Investimentos\n\nCompete à Divisão de Análise de Investimentos:\n\na) Proceder à recepção, validação e análise dos projectos de investimento candidatados aos sistemas de incentivos financeiros ao investimento, bem como à formalização da atribuição de incentivos;\n\nb) Proceder à criação e desenvolvimento do sistema de informação para os vários sistemas de incentivos;\n\nc) Propor a definição dos procedimentos a adoptar no âmbito da tramitação e análise das candidaturas;\n\nd) Preparar minutas dos contratos de concessão de incentivos e demais documentos relativos à tramitação processual das candidaturas;\n\ne) Solicitar pareceres a outros departamentos do Governo Regional no âmbito da análise dos projectos de investimento;\n\nf) Efectuar o acompanhamento dos protocolos celebrados com associações empresariais no domínio dos sistemas de incentivos;\n\ng) Elaborar programas, projectos e estudos sobre assuntos que lhe sejam atribuídos;\n\nh) Acompanhar o processo de apresentação de candidaturas aos diversos fundos europeus aplicáveis."
+  },
+  "166753179": {
+   "fragment_id": "166753083",
+   "type": 11,
+   "heading": "Artigo 22.º — Divisão de Acompanhamento da Execução de Investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Divisão de Acompanhamento da Execução de Investimentos\n\nCompete à Divisão de Acompanhamento da Execução de Investimentos:\n\na) Propor a adopção de normas, procedimentos e métodos internos para acompanhamento da execução dos projectos beneficiários de incentivos, nas dimensões física, financeira e contabilística;\n\nb) Analisar e validar os pedidos de pagamento intercalares, na vertente documental, contabilística e financeira;\n\nc) No âmbito dos pedidos de pagamento finais/encerramento financeiro dos projectos:\n\ni) Analisar e validar na vertente documental, contabilística e financeira;\n\nii) Efectuar a análise da execução do investimento;\n\niii) Fiscalizar o cumprimento dos objectivos dos projectos;\n\niv) Avaliar o cumprimento das demais obrigações do promotor, designadamente criação de postos de trabalho, financiamento do projecto, licenciamentos;\n\nd) Propor o pagamento dos incentivos e ou encerramento financeiro dos projectos;\n\ne) Analisar e emitir parecer relativamente a alterações ao projecto, designadamente da composição e prazo do investimento, de fontes de financiamento e de postos de trabalho;\n\nf) Solicitar pareceres a outros departamentos do Governo Regional com vista ao apuramento do cumprimento dos objectivos do projecto e atribuição de eventuais majorações do incentivo;\n\ng) Promover a verificação física dos investimentos alvo de apoio nos vários sistemas de incentivos financeiros ao investimento;\n\nh) Preparar o encerramento dos processos;\n\ni) Acompanhar o processo de apresentação de despesas aos diversos fundos europeus aplicáveis;\n\nj) Analisar e colaborar na definição de normas, procedimentos e métodos internos para controlo dos projectos beneficiários de incentivos, nas dimensões física, financeira, documental e contabilística;\n\nk) Acompanhar a execução física e documental dos projectos de investimento da competência da DRAIC;\n\nl) Promover a fiscalização dos investimentos alvo de apoio nos vários sistemas de incentivos da competência da DRAIC;\n\nm) Acompanhar a afectação dos projectos de investimento à região."
+  },
+  "166753180": {
+   "fragment_id": "166753084",
+   "type": 11,
+   "heading": "Artigo 23.º — Direcção de Serviços de Fomento da Competitividade e Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Direcção de Serviços de Fomento da Competitividade e Qualidade\n\nCompete à Direcção de Serviços de Fomento da Competitividade e Qualidade:\n\na) Propor e coordenar medidas de apoio ao tecido empresarial e promover o seu desenvolvimento;\n\nb) Fomentar a defesa da concorrência;\n\nc) Propor medidas que visem racionalização, modernização e competitividade dos circuitos e infra-estruturas comerciais e industriais;\n\nd) Promover a aplicação e, quando aplicável, propor a adaptação dos regimes comunitários e nacionais relativos aos sectores do comércio e da indústria;\n\ne) Promover e divulgar o conhecimento sectorial actualizado, as respectivas tendências e a evolução dos preços dos bens e serviços;\n\nf) Propor e coordenar a elaboração de programas de abastecimento de produtos essenciais à região;\n\ng) Assegurar a avaliação, caracterização e valorização dos recursos geológicos da região;\n\nh) Promover e cooperar com as associações empresariais na realização de acções que visem a competitividade das empresas;\n\ni) Licenciar e fiscalizar as actividades industriais;\n\nj) Propor medidas sobre políticas ou acções adequadas ao desenvolvimento do comércio e distribuição;\n\nk) Propor legislação reguladora da actividade do sector;\n\nl) Fomentar o alargamento da base de exportação de produtos regionais."
+  },
+  "166753181": {
+   "fragment_id": "166753085",
+   "type": 11,
+   "heading": "Artigo 24.º — Divisão do Comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Divisão do Comércio\n\nCompete à Divisão do Comércio:\n\na) Efectuar a gestão de regimes específicos de apoio ao abastecimento de bens essenciais;\n\nb) Elaborar pareceres sobre a aplicação da legislação nacional e comunitária em matéria de licenciamento do comércio;\n\nc) Promover a inscrição das empresas e estabelecimentos no respectivo cadastro;\n\nd) Propor legislação reguladora do sector;\n\ne) Instruir os processos de licenciamento e de reclamações;\n\nf) Assegurar a gestão de sistemas de apoio à promoção de produtos regionais;\n\ng) Colaborar na execução das normas que disciplinam o licenciamento do comércio."
+  },
+  "166753182": {
+   "fragment_id": "166753086",
+   "type": 11,
+   "heading": "Artigo 25.º — Divisão da Indústria e Qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Divisão da Indústria e Qualidade\n\nCompete à Divisão de Indústria e Qualidade:\n\na) Levantar autos e instruir processos de contra-ordenação em matéria industrial e de recursos geológicos;\n\nb) Promover a inscrição das empresas e estabelecimentos no respectivo cadastro;\n\nc) Assegurar a aplicação da legislação relativa ao licenciamento de cisternas, bem como a legislação sobre o licenciamento de equipamentos sob pressão e realizar vistorias de funcionamento a instalações de produção de vapor e os exames necessários a candidatos à profissão de condutores de geradores de vapor;\n\nd) Manter informação actualizada sobre a actividade industrial, as condições gerais de funcionamento do sector e os seus processos de fabrico e promover o seu desenvolvimento e modernização;\n\ne) Propor e colaborar no desenvolvimento de acções de formação e informação de boas práticas na indústria transformadora;\n\nf) Promover a realização de estudos que lhe sejam atribuídos e que visem o desenvolvimento do sector industrial;\n\ng) Colaborar no planeamento das acções relativas ao aproveitamento dos recursos geológicos e desenvolver ou propor os estudos necessários ao seu desenvolvimento;\n\nh) Propor medidas tendentes à conservação das características essenciais dos recursos, tendo em vista garantir a sua explorabilidade;\n\ni) Promover as acções necessárias à inventariação, valorização e aproveitamento dos recursos geológicos da região;\n\nj) Pronunciar-se sobre a viabilidade técnico-económica de projectos de planos de lavra e exploração e de programas de aproveitamento de recursos geológicos;\n\nk) Instruir os processos de concessão de exploração e licenciamento dos recursos geológicos;\n\nl) Informar sobre os aspectos técnico-legais relativos ao exercício da actividade industrial;\n\nm) Acompanhar os trabalhos de prospecção, pesquisa e exploração de recursos geológicos;\n\nn) Proceder a acções de fiscalização dos estabelecimentos industriais;\n\no) Proceder a acções de fiscalização em matéria de metrologia legal;\n\np) Participar nas vistorias conjuntas que visem a emissão de licenças de exploração dos estabelecimentos industriais;\n\nq) Promover a melhoria da qualidade dos produtos regionais, bem como assegurar a sua caracterização;\n\nr) Propor medidas tendentes à melhoria das condições de fabrico, laboração e qualidade dos produtos;\n\ns) Apoiar entidades, públicas ou privadas, que prossigam fins de interesse público, na investigação e desenvolvimento tecnológico, tendo em vista a sua transferência para as empresas;\n\nt) Apoiar acções de formação e sensibilização junto das empresas e elaborar pareceres, nomeadamente, nas áreas de segurança alimentar, promoção da qualidade e implementação de sistemas de gestão pela qualidade;\n\nu) Assegurar a divulgação técnica às unidades industriais relativamente à normalização e certificação de produtos;\n\nv) Promover a divulgação e aplicação, no âmbito do Sistema Português da Qualidade, de sistemas de gestão pela qualidade;\n\nw) Fiscalizar o cumprimento das normas que constituem o Sistema Português da Qualidade;\n\nx) Assegurar a aplicação e o cumprimento da regulamentação no domínio da qualidade, nomeadamente no controlo metrológico;\n\ny) Coordenar e acompanhar as actividades dos serviços de metrologia e de outras entidades verificadoras;\n\nz) Promover acções de formação dirigidas aos técnicos de metrologia;\n\naa) Colaborar com o Instituto Português da Qualidade na formulação e promoção de medidas de política da qualidade nas empresas e na elaboração de propostas de legislação e de regulamentação técnica nesse domínio."
+  },
+  "166753183": {
+   "fragment_id": "166753087",
+   "type": 11,
+   "heading": "Artigo 26.º — Divisão de Apoio ao Empreendedorismo e Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Divisão de Apoio ao Empreendedorismo e Inovação\n\nCompete à Divisão de Apoio ao Empreendedorismo e Inovação:\n\na) Fomentar o empreendedorismo, especialmente junto dos jovens, e o de base tecnológica, e a inovação inserida em ambiente empresarial;\n\nb) Fomentar a criação de empresas baseadas em processos inovadores e de valor acrescentado;\n\nc) Estabelecer nos casos em que para tal for incumbida as formas de cooperação institucional com entidades, públicas e privadas, intervenientes no âmbito do empreendedorismo e da inovação;\n\nd) Promover a divulgação dos diversos sistemas de incentivos;\n\ne) Cooperar com as entidades regionais com atribuições em matéria de promoção e captação de investimento externo;\n\nf) Apoiar os agentes económicos em todos os aspectos informativos relacionados com o ciclo de vida da empresa;\n\ng) Promover o alargamento das fontes de financiamento ao dispor das empresas, designadamente as relacionadas com o capital de risco e a garantia mútua;\n\nh) Fomentar o microcrédito como fonte de financiamento especialmente indicada para pequenas iniciativas empresariais;\n\ni) Gerir o Regime de Apoio ao Microcrédito Bancário dentro das competências atribuídas no mesmo à DRAIC;\n\nj) Dinamizar a publicação de informação especializada de âmbito empresarial;\n\nk) Promover o empreendedorismo, a inovação e a eficiência colectiva, através de acções conducentes à criação de novos negócios com potencial inovador, à valorização económica do conhecimento e à dinamização de mecanismos que facilitem a inovação e estratégias de desenvolvimento colectivas;\n\nl) Promover acções conducentes ao fomento do empreendedorismo, designadamente concursos, workshops, seminários e outros, bem como dinamizar projectos de sensibilização para o empreendedorismo junto do sistema de ensino;\n\nm) Coordenar e dinamizar a rede de gabinetes do empreendedor;\n\nn) Promover a actualização permanente do portal do governo, para divulgação eficaz de toda a informação relevante para o ciclo de vida das empresas;\n\no) Promover e apoiar estudos sobre o cooperativismo regional."
+  },
+  "166753184": {
+   "fragment_id": "166753088",
+   "type": 8,
+   "heading": "Secção V — Direcção Regional do Turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Direcção Regional do Turismo"
+  },
+  "166753185": {
+   "fragment_id": "166753089",
+   "type": 11,
+   "heading": "Artigo 27.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Natureza e missão\n\nA DRT é o serviço executivo da SRE que tem por missão contribuir para a definição, e executar, as políticas de apoio ao sector turístico, nomeadamente na vertente de infra-estruturas e ordenamento, bem como na estruturação e qualificação da oferta de produtos turísticos visando a consolidação de um turismo sustentável."
+  },
+  "166753186": {
+   "fragment_id": "166753090",
+   "type": 11,
+   "heading": "Artigo 28.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Competências\n\nSão competências da DRT:\n\na) Fomentar o aproveitamento e a preservação dos recursos turísticos da região, nomeadamente a realização de estudos de ordenamento físico-turístico de áreas consideradas de interesse prioritário, com vista ao correcto aproveitamento e enquadramento do equipamento a implantar nessas áreas, em articulação com os departamentos regionais competentes;\n\nb) Promover ou apoiar as acções desencadeadas no âmbito da oferta turística regional, bem como as iniciativas de promoção turística da região ou outras acções afins, assegurando, nomeadamente, a participação em iniciativas do género;\n\nc) Editar publicações, textos e informações de interesse para a oferta turística regional;\n\nd) Colaborar com todos os serviços e organismos regionais, nacionais ou internacionais, relativamente a todas as matérias que interessem ao sector turístico, nomeadamente com os que se encontrem envolvidos em actividades ou projectos de desenvolvimento integrado com interesse para a oferta turística regional;\n\ne) Assegurar, quando para tal for incumbida, a representação da região junto das entidades oficiais e privadas ligadas ao turismo, na perspectiva dos interesses e objectivos do sector, bem como a participação em organismos e manifestações internacionais e nacionais no mesmo âmbito;\n\nf) Coordenar e supervisionar o funcionamento e as actividades desenvolvidas pelas delegações e postos de turismo;\n\ng) A DRT poderá proceder à exploração comercial de material destinado à promoção da região, designadamente através da edição, promoção, venda, aluguer ou qualquer outra forma de comercialização."
+  },
+  "166753187": {
+   "fragment_id": "166753091",
+   "type": 11,
+   "heading": "Artigo 29.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Estrutura\n\nA DRT compreende os seguintes serviços:\n\na) Serviços Centrais:\n\ni) Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística;\n\nii) Secção de Controlo Financeiro, Patrimonial, Recursos Humanos e Apoio Administrativo;\n\nb) Serviços Desconcentrados:\n\ni) Delegações de turismo;\n\nii) Postos de turismo."
+  },
+  "166753188": {
+   "fragment_id": "166753092",
+   "type": 11,
+   "heading": "Artigo 30.º — Secção de Controlo Financeiro, Patrimonial, Recursos Humanos e Apoio Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Secção de Controlo Financeiro, Patrimonial, Recursos Humanos e Apoio Administrativo\n\nCompete à Secção de Controlo Financeiro, Patrimonial, Recursos Humanos e Apoio Administrativo:\n\na) Assegurar todas as operações relativas ao serviço de contabilidade;\n\nb) Elaborar o projecto de orçamento e suas alterações;\n\nc) Organizar e actualizar o registo das operações relativas à execução do orçamento;\n\nd) Assegurar o processamento das despesas resultantes da execução orçamental;\n\ne) Organizar e manter actualizados o inventário e o cadastro dos bens;\n\nf) Executar os actos dos procedimentos administrativos relativos à aquisição e locação de equipamentos, bens de consumo e serviços;\n\ng) Zelar pela segurança e conservação do património;\n\nh) Assegurar a gestão de stocks;\n\ni) Garantir a conservação e limpeza de edifícios e outras instalações;\n\nj) Assegurar o registo, tramitação e arquivo do expediente geral;\n\nk) Coordenar as actividades do pessoal auxiliar;\n\nl) Organizar e manter actualizado o cadastro do pessoal;\n\nm) Organizar e realizar todas as diligências inerentes aos procedimentos de concursos e mobilidade de pessoal;\n\nn) Assegurar o controlo das assiduidades nos locais determinados superiormente;\n\no) Executar as demais acções relativas à administração e gestão de pessoal;\n\np) Executar outras tarefas que superiormente lhe sejam cometidas;\n\nq) Desenvolver as suas actividades em articulação com o Centro de Informação;\n\nr) Gerir o parque automóvel da DRT na ilha do Faial."
+  },
+  "166753189": {
+   "fragment_id": "166753093",
+   "type": 11,
+   "heading": "Artigo 31.º — Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística\n\nÀ Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística compete:\n\na) Analisar e propor a decisão relativa aos processos de licenciamento das empresas e empreendimentos turísticos, propondo superiormente as decisões ou pareceres a adoptar;\n\nb) Zelar pela aplicação do Plano de Ordenamento Turístico da Região Autónoma dos Açores;\n\nc) Promover o correcto exercício das profissões e actividades turísticas;\n\nd) Promover a instrução e apreciação dos projectos apresentados, ao abrigo da legislação vigente, para a concessão de apoio financeiro;\n\ne) Propor superiormente os projectos de diploma com interesse para o sector do turismo;\n\nf) Promover a execução de estudos destinados a uma avaliação contínua do fenómeno turístico e do seu impacte ao nível regional;\n\ng) Promover o enriquecimento da oferta turística regional;\n\nh) Promover a organização e divulgação de informação relativa aos aspectos da vida açoriana e suas manifestações susceptíveis de constituírem objecto de interesse turístico;\n\ni) Promover a preparação e divulgação atempada das informações relevantes para as entidades intervenientes na divulgação e promoção da região, bem como para o público em geral;\n\nj) Propor superiormente os apoios e acções necessários ao fomento das manifestações e actividades de maior relevância para o enriquecimento da oferta turística;\n\nk) Colaborar com os departamentos competentes na elaboração, actualização e tratamento de dados estatísticos relativos ao sector do turismo, com vista à sua divulgação e utilização por outros serviços e entidades;\n\nl) Efectuar protocolos de colaboração com autarquias, no sentido da qualificação das infra-estruturas turísticas."
+  },
+  "166753190": {
+   "fragment_id": "166753094",
+   "type": 11,
+   "heading": "Artigo 32.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Estrutura\n\nA Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística compreende os seguintes serviços:\n\na) Divisão de Ordenamento e Infra-Estruturas Turísticas;\n\nb) Divisão de Promoção Turística."
+  },
+  "166753191": {
+   "fragment_id": "166753095",
+   "type": 11,
+   "heading": "Artigo 33.º — Divisão de Ordenamento e Infra-Estruturas Turísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Divisão de Ordenamento e Infra-Estruturas Turísticas\n\nÀ Divisão de Ordenamento e Infra-estruturas Turísticas compete:\n\na) Recolher e tratar todos os elementos necessários à integração do sector do turismo nas tarefas globais de planeamento, bem como acompanhar os planos sectoriais com implicações para o turismo, nomeadamente os resultantes ou relacionados com os apoios comunitários;\n\nb) Colaborar com os restantes serviços da SRE e ou entidades externas na preparação dos planos de turismo;\n\nc) Assegurar o estudo e definição das orientações que visem a promoção de um crescimento equilibrado e sustentável da oferta turística regional;\n\nd) Acompanhar e estudar o desenvolvimento turístico regional, medindo os seus efeitos e o impacte económico-social na região;\n\ne) Propor as normas de planeamento para o sector do turismo e promover a sua divulgação;\n\nf) Organizar, instruir, apreciar e informar os processos relativos a planos, estudos ou projectos apresentados para a obtenção de apoios financeiros que se destinem ao investimento turístico;\n\ng) Acompanhar a actividade das entidades beneficiárias de apoio financeiro, controlando a sua aplicação;\n\nh) Coordenar estudos e preparar legislação com interesse e incidência no sector;\n\ni) Assegurar a execução e o acompanhamento de acções, projectos e programas comunitários na área do turismo;\n\nj) Organizar e gerir os procedimentos de licenciamento da actividade de agências de viagens, das empresas de animação turística e da observação turística de cetáceos;\n\nk) Apreciar os planos de ordenamento legalmente sujeitos à intervenção da DRT, emitir pareceres e colaborar na respectiva elaboração e execução;\n\nl) Zelar pela aplicação do Plano de Ordenamento Turístico da Região Autónoma dos Açores, bem como emitir parecer sobre os planos elaborados por outras entidades oficiais e colaborar na respectiva execução;\n\nm) Proceder ao registo cartográfico dos empreendimentos turísticos e dos elementos condicionantes do planeamento urbanístico das áreas turísticas;\n\nn) Propor a classificação dos sítios e locais de turismo, em colaboração com as autarquias e outras entidades;\n\no) Prestar apoio técnico a obras de iniciativa pública consideradas de interesse turístico;\n\np) Apreciar e emitir pareceres sobre os projectos de obras relativas a empreendimentos turísticos, bem como de outros estabelecimentos sujeitos por lei à intervenção da DRT, propondo a respectiva decisão;\n\nq) Pronunciar-se sobre as instalações de estabelecimentos sujeitos à aprovação da DRT, nomeadamente os estabelecimentos de agências de viagens e turismo e de aluguer de veículos automóveis;\n\nr) Realizar auditorias e vistorias, elaborar relatórios e pronunciar-se quanto à classificação dos estabelecimentos sob a alçada da DRT;\n\ns) Dar pareceres sobre o interesse para o turismo de instalações hoteleiras e similares e outros empreendimentos, para efeitos de obtenção de apoio financeiro;\n\nt) Acompanhar a execução dos projectos de obras aprovados ou apoiados financeiramente pela DRT;\n\nu) Organizar e manter actualizado o registo de todos os empreendimentos turísticos, agências de viagens, estabelecimentos de restauração e bebidas e empreendimentos de animação turística ou outros considerados de interesse para o turismo, bem como outras formas de oferta turística que venham a ser instituídas;\n\nv) Identificar as necessidades de elaboração de projectos de aproveitamento e valorização das condições e recursos turísticos regionais;\n\nw) Organizar e manter actualizados os registos de competência obrigatória da DRT relativos a agências de viagens e turismo e profissões turísticas."
+  },
+  "166753192": {
+   "fragment_id": "166753096",
+   "type": 11,
+   "heading": "Artigo 34.º — Divisão de Promoção Turística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Divisão de Promoção Turística\n\nÀ Divisão de Promoção Turística compete:\n\na) Orientar e disciplinar o exercício das profissões turísticas e cooperar com os organismos competentes na formação profissional turística, nomeadamente na organização de acções especiais que visem a valorização da oferta turística quer ao nível empresarial quer profissional;\n\nb) Elaborar a proposta do plano anual de acção promocional da DRT, submetendo-o a apreciação superior;\n\nc) Estudar e propor os suportes e materiais necessários às acções de promoção previstas no plano anual de acção promocional;\n\nd) Organizar e assegurar a representação da região pela DRT nos certames nacionais e internacionais;\n\ne) Prestar apoio e assistência à realização de reuniões e viagens promocionais de agentes de viagens, operadores turísticos, transportadores e outras entidades ligadas à indústria turística, visando um melhor conhecimento da oferta turística regional;\n\nf) Assegurar as acções de acolhimento e assistência a jornalistas, escritores de turismo, opinion leaders e outros visitantes de particular interesse para a divulgação do destino turístico Açores;\n\ng) Assegurar o armazenamento, controlo e respectiva distribuição dos stocks de todos os materiais promocionais, bem como controlar a qualidade daqueles cuja produção seja apoiada pela DRT;\n\nh) Informar e instruir os processos de pedidos de apoio financeiro a iniciativas com interesse para a animação e promoção turísticas do destino Açores ou para a qualificação da oferta turística, bem como as que visem o estudo, acompanhamento ou monitorização da procura e da oferta turísticas;\n\ni) Organizar e divulgar calendários de acontecimentos ao nível regional;\n\nj) Propor e organizar eventos com especial relevância para o desenvolvimento do destino;\n\nk) Apoiar tecnicamente o sector privado e os órgãos locais de turismo na produção de materiais promocionais e na execução de acções publicitárias;\n\nl) Proceder à recolha, análise e tratamento de informações dos vários mercados, que permitam actuar sobre os mesmos com maior eficácia e eficiência;\n\nm) Promover junto da opinião pública a realização de campanhas de esclarecimento e informação sobre a importância do turismo;\n\nn) Assegurar o fornecimento de informações a todas as entidades interessadas na oferta turística regional, designadamente aos meios de comunicação social;\n\no) Colaborar com a agência regional de promoção turística do destino Açores;\n\np) Proceder à gestão dos sistemas de incentivos à promoção e animação turística em vigor na DRT;\n\nq) Assegurar a organização de eventos de relevância turística, em colaboração com as diferentes delegações de turismo;\n\nr) Promover o desenvolvimento de produtos turísticos directamente ou em colaboração com as delegações de turismo;\n\ns) Apoiar o funcionamento da comissão de acompanhamento dos percursos pedestres directamente ou em colaboração com as delegações de turismo."
+  },
+  "166753193": {
+   "fragment_id": "166753097",
+   "type": 11,
+   "heading": "Artigo 35.º — Delegações de turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Delegações de turismo\n\n1 - A Direcção Regional de Turismo compreende as seguintes delegações de turismo:\n\na) São Miguel;\n\nb) Terceira;\n\nc) Lisboa.\n\n2 - Às delegações de turismo compete:\n\na) Manter um serviço de acolhimento e informação aos turistas;\n\nb) Assegurar a execução, na respectiva área, dos programas de assistência a jornalistas, operadores e visitantes para o turismo regional;\n\nc) Apoiar as manifestações de animação local;\n\nd) Propor à DRT medidas e acções que visem contribuir para o enriquecimento turístico das respectivas áreas;\n\ne) Prestar informações e canalizar para a DRT os processos da sua competência;\n\nf) Colaborar em estudos e trabalhos de planeamento e informar e emitir pareceres sobre os assuntos da sua área de competência;\n\ng) Apoiar e coordenar a actividade dos postos de turismo que estejam na sua dependência;\n\nh) Prestar apoio logístico e administrativo à actividade da Inspecção Regional do Turismo.\n\n3 - As chefias das Delegações de Turismo das ilhas de São Miguel e Terceira são asseguradas por delegados, cargos de direcção específica de 1.º grau, nomeados, em comissão de serviço, por despacho do Secretário Regional da Economia, nos termos do disposto no artigo 6.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de Maio, na redacção dos Decretos Legislativos Regionais n.os 17/2009/A, de 14 de Outubro, e 33/2010/A, de 18 de Novembro.\n\n4 - As chefias das Delegações de Turismo das ilhas de São Miguel e Terceira apoiam a promoção de eventos de interesse da DRT, respectivamente, nas ilhas de Santa Maria e Graciosa, bem como outras competências que lhes forem delegadas pelo DRT.\n\n5 - A chefia da Delegação de Turismo de Lisboa é exercida por um director de serviços, cargo de direcção intermédia de 1.º grau."
+  },
+  "166753194": {
+   "fragment_id": "166753098",
+   "type": 11,
+   "heading": "Artigo 36.º — Postos de turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Postos de turismo\n\n1 - A DRT compreende, ainda, postos de turismo, aos quais compete, essencialmente, o acolhimento e informação aos turistas, bem como fornecer informações genéricas sobre assuntos e processos a canalizar para a DRT no âmbito das suas competências.\n\n2 - Os postos de turismo são criados por despacho do Secretário Regional da Economia, que indica os serviços de que são dependentes, bem como os recursos humanos afectos e o seu regime de funcionamento."
+  },
+  "166753195": {
+   "fragment_id": "166753099",
+   "type": 8,
+   "heading": "Secção VI — Inspecção Regional do Turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Inspecção Regional do Turismo"
+  },
+  "166753196": {
+   "fragment_id": "166753100",
+   "type": 11,
+   "heading": "Artigo 37.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Natureza\n\n1 - A Inspecção Regional do Turismo (IRT) é o serviço da Secretaria Regional da Economia, directamente dependente do Secretário Regional, que promove e fiscaliza o cumprimento das disposições legais, em matéria cuja fiscalização não esteja especialmente confiada a outras entidades, relativas às actividades e profissões turísticas, designadamente a exploração de alojamento turístico, de agências de viagens e turismo e de actividades de animação turística.\n\n2 - A IRT é autoridade e órgão de polícia administrativa.\n\n3 - A IRT tem sede na ilha do Faial e exerce as suas competências em todo o território da Região Autónoma dos Açores."
+  },
+  "166753197": {
+   "fragment_id": "166753101",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competências\n\nSão competências da IRT:\n\na) Inspeccionar, nos termos da lei, todos os locais e equipamentos relacionados com actividades ou profissões turísticas sujeitas a fiscalização, nomeadamente empreendimentos turísticos, alojamento local, outros locais onde sejam prestados serviços de alojamento turístico, estabelecimentos de agências de viagens e turismo e de empresas de animação turística, incluindo operadores marítimo-turísticos;\n\nb) Inspeccionar as actividades turísticas desenvolvidas em veículos terrestres e aquáticos de agências de viagens e turismo ou de empresas de alojamento ou animação turística;\n\nc) Avaliar o nível qualitativo dos serviços turísticos prestados, com referência aos padrões geralmente aceites no mercado nacional e internacional;\n\nd) Prestar informações a todas as entidades abrangidas pela sua actuação, sobre a eficaz observância das normas aplicáveis;\n\ne) Receber as reclamações apresentadas e averiguar do seu fundamento, nomeadamente para os efeitos do disposto na alínea g);\n\nf) Levantar autos de notícia e instruir os processos de contra-ordenação em matéria de turismo;\n\ng) Proceder a averiguações, recolhendo informações sobre as actividades inspeccionadas, instaurar e instruir processos de contra-ordenação, nos termos da lei;\n\nh) Proceder à selagem de instalações ou à apreensão de documentos e objectos de prova, levantando os respectivos autos;\n\ni) Adoptar as medidas cautelares necessárias e urgentes para a preservação de meios de prova;\n\nj) Alertar os departamentos competentes das infracções de que tenha conhecimento e que não seja competente em razão da matéria;\n\nk) Colaborar nas auditorias de classificação de empreendimentos turísticos ou noutras diligências especialmente solicitadas pela Direcção Regional do Turismo ou por outros serviços da Secretaria Regional da Economia;\n\nl) Colaborar em vistorias ou noutras diligências especialmente solicitadas pelos municípios da região;\n\nm) Fiscalizar as actividades de publicidade de produtos ou serviços turísticos;\n\nn) Fiscalizar o cumprimento do direito vigente em matéria de direito real de habitação periódica e do direito de habitação turística;\n\no) Desempenhar as demais funções de inspecção e fiscalização cometidas por lei ou regulamento."
+  },
+  "166753198": {
+   "fragment_id": "166753102",
+   "type": 11,
+   "heading": "Artigo 39.º — Inspector regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Inspector regional\n\nA IRT é dirigida por um inspector regional, equiparado a director de serviços, cargo de direcção intermédia de 1.º grau, a quem compete, nomeadamente:\n\na) Dirigir e coordenar a actividade da IRT;\n\nb) Representar a IRT;\n\nc) Ordenar a realização de averiguações e instaurar processos de contra-ordenação;\n\nd) Aplicar as coimas legalmente previstas, determinar o arquivamento de autos ou a sua submissão ao órgão competente para a aplicação das sanções legais;\n\ne) Elaborar o relatório anual de actividades;\n\nf) Submeter à aprovação do Secretário Regional da Economia os planos de actividades, controlar o seu cumprimento e avaliar os resultados obtidos;\n\ng) Emitir instruções gerais sobre todos os aspectos da actividade, organização e funcionamento interno da IRT;\n\nh) Assegurar a gestão dos recursos humanos e materiais afectos à IRT."
+  },
+  "166753199": {
+   "fragment_id": "166753103",
+   "type": 11,
+   "heading": "Artigo 40.º — Deveres de informação e cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Deveres de informação e cooperação\n\n1 - Os serviços da administração regional autónoma, bem como as pessoas singulares e colectivas de direito público e privado objecto de acção inspectiva, encontram-se vinculados aos deveres de informação e cooperação, designadamente fornecendo os elementos de informação necessários ao desenvolvimento da actividade de inspecção, nos moldes, suportes e com a periodicidade e urgência requeridos.\n\n2 - Os dirigentes e trabalhadores das entidades inspeccionadas têm o dever de prestar, no prazo fixado para o efeito, todos os esclarecimentos, pareceres, informações e colaboração que lhes sejam solicitados pela IRT, designadamente:\n\na) Livre-trânsito e permanência do pessoal da IRT nos estabelecimentos e outros locais onde se prestem serviços turísticos pelo tempo necessário ao desempenho das suas funções;\n\nb) Colaboração do pessoal habilitado e necessário à execução das acções inspectivas, nomeadamente no acompanhamento das vistorias;\n\nc) Cedência da utilização de instalações condignas e adequadas e de material e equipamentos indispensáveis.\n\n3 - Para efeitos do disposto nos números anteriores, os trabalhadores são representantes legais das respectivas entidades empregadoras.\n\n4 - Quando devidamente notificadas, as entidades visadas ou seus representantes devem comparecer nos locais e tempo indicados, para a prestação de depoimentos ou declarações.\n\n5 - As entidades inspeccionadas devem dar conhecimento à IRT das medidas adoptadas na sequência das acções de inspecção."
+  },
+  "166753200": {
+   "fragment_id": "166753104",
+   "type": 11,
+   "heading": "Artigo 41.º — Deveres de terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Deveres de terceiros\n\n1 - As pessoas colectivas públicas devem prestar à IRT toda a colaboração por esta solicitada, nomeadamente a comparência dos titulares dos respectivos órgãos, nos locais e tempo indicados, para a prestação de depoimentos ou declarações, ou a dispensa dos seus trabalhadores, para o mesmo efeito, sempre que os respectivos dirigentes sejam devidamente notificados para o efeito.\n\n2 - A IRT pode solicitar informações a qualquer pessoa colectiva de direito privado ou pessoa singular, sempre que o repute necessário para o apuramento dos factos.\n\n3 - A notificação de pessoas singulares ou pessoas colectivas privadas, para a prestação de depoimentos ou declarações, pode ser solicitada às autoridades policiais, observadas as disposições aplicáveis do Código do Processo Penal."
+  },
+  "166753201": {
+   "fragment_id": "166753105",
+   "type": 11,
+   "heading": "Artigo 42.º — Apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Apoio técnico\n\n1 - Quando tal se justifique, nomeadamente na vistoria de imóveis ou equipamentos objecto de exploração turística, a IRT pode fazer-se assessorar por técnicos habilitados de outros serviços da administração regional autónoma, nos termos da lei, ou mediante aquisição dos seus serviços, segundo as regras da contratação pública.\n\n2 - Os técnicos ficam submetidos à direcção do inspector responsável pela acção e são investidos nos necessários poderes de autoridade."
+  },
+  "166753202": {
+   "fragment_id": "166753106",
+   "type": 11,
+   "heading": "Artigo 43.º — Articulação e colaboração com serviços congéneres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Articulação e colaboração com serviços congéneres\n\nSempre que possível, a IRT colabora com outros serviços congéneres e, quando tal se justifique em ganhos de eficácia das acções e na maior comodidade dos visados, deve procurar programar e executar as suas acções conjuntamente com outros serviços dotados de poderes inspectivos sobre os empreendimentos e estabelecimentos turísticos da região."
+  },
+  "166753203": {
+   "fragment_id": "166753107",
+   "type": 11,
+   "heading": "Artigo 44.º — Livre-trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Livre-trânsito\n\n1 - O pessoal dirigente e o pessoal das carreiras de inspecção da IRT goza, para além dos que são atribuídos aos restantes trabalhadores da Administração Pública, dos direitos seguintes:\n\na) Do uso de cartão de livre-trânsito de modelo aprovado por portaria do Secretário Regional;\n\nb) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o desempenho das missões que lhe forem confiadas.\n\n2 - O pessoal referido no n.º 1 é investido em poderes de autoridade pública, não lhe podendo ser impedida a entrada nos locais objecto da acção inspectiva, desde que identificado pela exibição do cartão de livre-trânsito."
+  },
+  "166753204": {
+   "fragment_id": "166753108",
+   "type": 11,
+   "heading": "Artigo 45.º — Medidas inspectivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Medidas inspectivas\n\n1 - No âmbito da acção inspectiva, o pessoal com funções inspectivas pode recolher informação sobre as actividades inspeccionadas, proceder a exames a quaisquer vestígios de infracções, bem como a colheitas de amostras para exame laboratorial.\n\n2 - Sempre que se justifique, o pessoal de inspecção pode examinar a contabilidade e quaisquer documentos que se encontrem nas instalações das empresas ou serviços inspeccionados, podendo proceder à apreensão dos que tenham interesse para a prova de quaisquer factos ilícitos em investigação, ou efectuar cópias dos mesmos.\n\n3 - O pessoal com funções inspectivas pode ainda requisitar, para exame, consulta e junção aos autos, processos e documentos ou as respectivas certidões, bem como quaisquer outros elementos existentes nos livros, registos e arquivos dos serviços onde ocorram os actos inspectivos ou com eles directamente relacionados."
+  },
+  "166753205": {
+   "fragment_id": "166753109",
+   "type": 11,
+   "heading": "Artigo 46.º — Recomendações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Recomendações\n\nNo âmbito das acções inspectivas, a IRT pode emitir recomendações que tenham por objecto a melhoria da adequação das actividades económicas aos parâmetros legais."
+  },
+  "166753206": {
+   "fragment_id": "166753110",
+   "type": 11,
+   "heading": "Artigo 47.º — Apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Apoio administrativo\n\nO apoio administrativo à IRT será prestado pelas Secções de Pessoal, Expediente e Arquivo e de Contabilidade e Património da Direcção Regional do Turismo ou pelas Delegações de Turismo de São Miguel ou Terceira, consoante os locais de trabalho do pessoal da IRT."
+  },
+  "166753207": {
+   "fragment_id": "166753111",
+   "type": 8,
+   "heading": "Secção VII — Direcção Regional dos Transportes Aéreos e Marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Direcção Regional dos Transportes Aéreos e Marítimos"
+  },
+  "166753208": {
+   "fragment_id": "166753112",
+   "type": 11,
+   "heading": "Artigo 48.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Natureza e missão\n\nA DRTAM é o serviço executivo da SRE, que tem por missão contribuir para a definição, e executar as políticas regionais de transportes aéreos e marítimos, em especial reforçando o potencial das mesmas, e respectivas infra-estruturas, para a competitividade da economia açoriana, acessibilidade de pessoas e bens e coesão regional."
+  },
+  "166753209": {
+   "fragment_id": "166753113",
+   "type": 11,
+   "heading": "Artigo 49.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Competências\n\nSão competências da DRTAM:\n\na) Coordenar todas as acções inerentes à execução dos objectivos da política definida para o sector de portos comerciais, de mercadorias e passageiros, núcleos de recreio náutico e marinas e aeroportos e aeródromos da Região;\n\nb) Propor legislação com interesse e incidência nos sectores dos transportes aéreos, marítimos e da náutica de recreio ou emitir pareceres sobre a mesma;\n\nc) Propor medidas de política necessárias à obtenção de um sistema de transportes marítimos e aéreos capaz de impulsionar o desenvolvimento regional e de garantir a adequada mobilidade da população;\n\nd) Gerir, administrar e desenvolver, de forma directa ou pelo acompanhamento das entidades a quem tenham sido atribuídas ou concessionadas a gestão dos aeroportos e aeródromos, no todo ou em parte, propriedade da Região;\n\ne) Exercer os poderes que, nos termos da lei, lhe são atribuídos no domínio da actividade marítimo-turística;\n\nf) Propor a atribuição de licenças de ocupação e utilização do domínio público aeroportuário;\n\ng) Coordenar, em estreita colaboração com as entidades portuárias e as entidades gestoras dos aeródromos regionais, a elaboração de todos os projectos de construção, remodelação ou ampliação das infra-estruturas portuárias e aeroportuárias;\n\nh) Acompanhar a actividade das entidades portuárias e das entidades gestoras dos aeroportos e aeródromos regionais;\n\ni) Proceder às diligências necessárias ao lançamento de concursos para adjudicação das obras de construção, remodelação ou ampliação das infra-estruturas portuárias e aeroportuárias;\n\nj) Acompanhar e participar na análise das propostas de concurso de obras ou de aquisição de serviços relativos aos portos comerciais, de náutica de recreio de marinas e aeroportos e aeródromos e na preparação de todo o expediente necessário à elaboração dos respectivos contratos;\n\nk) Acompanhar e participar na elaboração de todo o expediente necessário à elaboração dos contratos no âmbito dos concursos públicos de obras ou aquisição de bens e serviços relativos a aeroportos e aeródromos;\n\nl) Acompanhar a fiscalização das obras de infra-estruturas portuárias e aeroportuárias;\n\nm) Aprovar e acompanhar os programas anuais de monitorização e conservação dos portos comerciais, de náutica de recreio e marinas elaborados pelas entidades portuárias;\n\nn) Aprovar e acompanhar os programas anuais de conservação e manutenção dos aeroportos e aeródromos da responsabilidade, no todo em parte, da Região;\n\no) Acompanhar a execução financeira dos programas de investimento das entidades de gestão portuária e das entidades gestoras dos aeroportos e aeródromos regionais;\n\np) Emitir parecer sobre os programas anuais de investimentos nas infra-estruturas portuárias e aeroportuárias da Região elaborados pelas respectivas entidades gestoras;\n\nq) Acompanhar a actividade portuária e aeroportuária na Região;\n\nr) Acompanhar o cumprimento da legislação aplicável ao transporte aéreo e marítimo;\n\ns) Propor o modelo para a concessão da exploração do transporte marítimo de passageiros interilhas, do transporte aéreo regular de passageiros interilhas e das infra-estruturas portuárias e aeroportuárias na Região e colaborar nos processos de atribuição das respectivas concessões;\n\nt) Realizar ou colaborar na elaboração de pareceres sobre a exploração dos portos da Região, incluindo o trabalho portuário;\n\nu) Analisar e emitir parecer sobre as propostas de regulamentos de tarifas das administrações portuárias;\n\nv) Emitir parecer sobre os regulamentos de exploração e de utilização dos portos das administrações portuárias;\n\nw) Promover ou realizar o estudo, estabelecendo as adequadas ligações com os diversos organismos, da situação das empresas regionais de transportes marítimos e aéreos;\n\nx) Realizar os estudos necessários à coordenação do funcionamento do sistema de transportes de passageiros e de mercadorias;\n\ny) Acompanhar a aplicação das normas legais relativas ao sector dos transportes aéreos e marítimos;\n\nz) Aplicar as coimas no âmbito dos processos de contra-ordenação, designadamente no âmbito da actividade marítimo-turística e do serviço público de pilotagem;\n\naa) Promover, analisar e participar na elaboração da regulamentação de normas técnicas e de segurança relativas aos sectores marítimos e aéreos;\n\nbb) Executar as demais atribuições que lhe sejam cometidas;\n\ncc) Promover a actualização da informação relativa aos sectores dos transportes aéreos e marítimos necessária à caracterização dos mencionados sectores;\n\ndd) Promover a divulgação de toda a informação de interesse para o sector dos transportes aéreos e marítimos;\n\nee) Promover a realização de estudos necessários à coordenação do funcionamento do sistema de transportes de passageiros e mercadorias, nomeadamente relativos ao tráfego, custos de transporte, tarifas, condições de exploração e funcionamento do mercado;\n\nff) Propor e preparar, em colaboração com os demais serviços da Direcção Regional, legislação com interesse e incidência nos sectores dos transportes aéreos e marítimos ou emitir pareceres sobre legislação relacionada com aqueles sectores;\n\ngg) Propor e promover a realização de obras em todos os portos e aeroportos da Região, estabelecendo as ligações necessárias com os diversos serviços governamentais e demais entidades que nelas devam intervir;\n\nhh) Promover a conciliação e o entendimento entre as autoridades portuárias e os parceiros sociais na área do trabalho portuário;\n\nii) Zelar pelo cumprimento da legislação aplicável ao transporte aéreo e marítimo e promover a aplicação das normas legais respeitantes ao sector."
+  },
+  "166753210": {
+   "fragment_id": "166753114",
+   "type": 11,
+   "heading": "Artigo 50.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Estrutura\n\nA DRTAM compreende os seguintes serviços:\n\na) Divisão dos Transportes Aéreos;\n\nb) Divisão dos Transportes Marítimos."
+  },
+  "166753211": {
+   "fragment_id": "166753115",
+   "type": 11,
+   "heading": "Artigo 51.º — Divisão dos Transportes Aéreos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Divisão dos Transportes Aéreos\n\nCompete à Divisão dos Transportes Aéreos:\n\na) Proceder aos estudos necessários à conveniente elaboração e execução dos projectos de infra-estruturas aeroportuárias;\n\nb) Acompanhar a execução física e financeira de todas as obras do sector dos transportes aéreos e da concessão de transporte aéreo regular de passageiros interilhas;\n\nc) Emitir parecer sobre os programas de investimentos dos aeroportos e aeródromos da Região elaborados pelas entidades gestoras;\n\nd) Garantir o bom funcionamento dos serviços de aeroportos e aeródromos sob a administração directa da Região ou concessionados;\n\ne) Acompanhar a exploração dos aeroportos e aeródromos da Região, nomeadamente controlando o cumprimento das obrigações a que se encontram sujeitos os concessionários;\n\nf) Apreciar e informar os requerimentos e reclamações relativos ao sector dos transportes aéreos, bem como os relacionados com os aeroportos e aeródromos da Região;\n\ng) Propor e dar parecer sobre as tarifas e taxas dos transportes aéreos na Região, bem como controlar a aplicação das normas em vigor na matéria;\n\nh) Acompanhar o cumprimento da legislação aplicável ao transporte aéreo e promover a aplicação das normas legais respeitantes ao sector;\n\ni) Colaborar na preparação dos processos de concessão de exploração do transporte aéreo regular de passageiros interilhas e de infra-estruturas aeroportuárias;\n\nj) Preparar e tratar estatísticas específicas sectoriais necessárias à integração e caracterização do sector dos transportes aéreos;\n\nk) Propor candidaturas aos fundos comunitários na área dos transportes aéreos e acompanhar a sua execução;\n\nl) Propor medidas de planeamento para o sector dos transportes aéreos;\n\nm) Assegurar a execução e o acompanhamento das acções, projectos e programas na área dos transportes aéreos;\n\nn) Preparar, em colaboração com os demais órgãos internos e externos, o plano anual, os planos plurianuais e os relatórios de actividades, na parte que respeita aos transportes aéreos;\n\no) Executar as demais acções que superiormente lhe sejam cometidas."
+  },
+  "166753212": {
+   "fragment_id": "166753116",
+   "type": 11,
+   "heading": "Artigo 52.º — Divisão dos Transportes Marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Divisão dos Transportes Marítimos\n\nCompete à Divisão dos Transportes Marítimos:\n\na) Proceder aos estudos necessários à conveniente elaboração e execução dos projectos de infra-estruturas portuárias;\n\nb) Acompanhar a execução física e financeira das obras do sector dos transportes marítimos;\n\nc) Acompanhar a exploração dos portos sob a jurisdição das entidades de gestão portuária;\n\nd) Dar parecer sobre as tarifas e fretes dos transportes marítimos na Região, bem como controlar a aplicação das normas em vigor na matéria;\n\ne) Acompanhar a fiscalização da exploração de embarcações que operem na Região;\n\nf) Colaborar na preparação dos processos de concessão para a exploração do transporte marítimo de passageiros interilhas;\n\ng) Organizar e efectuar a actualização do cadastro dos proprietários, armadores e afretadores, bem como dos agentes de navegação sediados na Região;\n\nh) Apreciar e informar os requerimentos e reclamações relativos ao sector dos transportes marítimos;\n\ni) Aplicar as normas legais respeitantes ao acesso e exercício da actividade de prestação de trabalho portuário;\n\nj) Preparar e tratar estatísticas específicas sectoriais necessárias à integração e caracterização do sector dos transportes marítimos;\n\nk) Propor candidaturas aos fundos comunitários na área dos transportes marítimos e acompanhar a sua execução;\n\nl) Propor medidas de planeamento para os sectores dos transportes marítimos;\n\nm) Assegurar a execução e o acompanhamento das acções, projectos e programas na área dos transportes marítimos;\n\nn) Preparar, em colaboração com os demais órgãos internos e externos, o plano anual, os planos plurianuais e os planos e relatórios de actividades, na parte que respeita aos transportes marítimos;\n\no) Executar as demais acções que superiormente lhe sejam atribuídas."
+  },
+  "166753213": {
+   "fragment_id": "166753117",
+   "type": 8,
+   "heading": "Secção VIII — Serviços desconcentrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Serviços desconcentrados"
+  },
+  "166753214": {
+   "fragment_id": "166753118",
+   "type": 11,
+   "heading": "Artigo 53.º — Serviços de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Serviços de ilha\n\n1 - Os serviços de ilha são serviços desconcentrados da SRE, funcionando na dependência hierárquica do Secretário Regional e funcionalmente dos directores regionais ou outros dirigentes dependentes directamente do Secretário Regional, com competência nas áreas das respectivas atribuições.\n\n2 - A SRE tem os seguintes serviços de ilha:\n\na) Serviços de Ilha de Santa Maria;\n\nb) Serviços de Ilha da Terceira;\n\nc) Serviços de Ilha da Graciosa;\n\nd) Serviços de Ilha de São Jorge;\n\ne) Serviços de Ilha do Pico;\n\nf) Serviços de Ilha do Faial;\n\ng) Serviços de Ilha das Flores e do Corvo."
+  },
+  "166753215": {
+   "fragment_id": "166753119",
+   "type": 11,
+   "heading": "Artigo 54.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Estrutura\n\n1 - Os serviços de ilha compreendem as seguintes áreas funcionais:\n\na) Comércio, indústria e cooperativismo;\n\nb) Transportes aéreos e marítimos;\n\nc) Turismo;\n\nd) Artesanato;\n\ne) Administrativa.\n\n2 - Os Serviços de Ilha do Faial e da Terceira não compreendem a área funcional do turismo.\n\n3 - De acordo com as necessidades do serviço, as áreas funcionais podem integrar outros sectores com funções específicas."
+  },
+  "166753216": {
+   "fragment_id": "166753120",
+   "type": 11,
+   "heading": "Artigo 55.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Competências\n\n1 - Compete aos serviços de ilha, nas respectivas áreas geográficas de actuação:\n\na) Representar a SRE;\n\nb) Assegurar, no âmbito da respectiva área geográfica, a execução da política e dos objectivos nas áreas do comércio, indústria, transportes aéreos e marítimos, turismo, cooperativismo, artesanato, apoio e promoção do investimento e do desenvolvimento empresarial, em colaboração com os serviços centrais da SRE;\n\nc) Apoiar os serviços centrais no exercício das suas competências;\n\nd) Manter um conhecimento adequado das realidades e necessidades da sua área geográfica, com vista à respectiva integração nos objectivos definidos para os diversos sectores;\n\ne) Colaborar na recolha e divulgação de informação no âmbito das suas competências;\n\nf) Encaminhar as candidaturas, reclamações e os requerimentos que lhes sejam apresentados;\n\ng) Prestar apoio logístico e administrativo à IRT;\n\nh) Executar as competências de natureza operativa da SRE nas respectivas áreas e nos domínios e atribuições da própria SRE, cumprindo as orientações que sejam transmitidas pelo Secretário Regional, pelos directores regionais e pelos directores dos órgãos de apoio técnico e apoio instrumental, por força da necessária articulação funcional.\n\n2 - Os serviços de ilha serão dirigidos por coordenadores nomeados, em comissão de serviço, por despacho do Secretário Regional da Economia, nos termos do disposto no artigo 6.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de Maio, na redacção dos Decretos Legislativos Regionais n.os 17/2009/A, de 14 de Outubro, e 33/2010/A, de 18 de Novembro."
+  },
+  "166753217": {
+   "fragment_id": "166753121",
+   "type": 1,
+   "heading": "Capítulo III — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pessoal"
+  },
+  "166753218": {
+   "fragment_id": "166753122",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "166753219": {
+   "fragment_id": "166753123",
+   "type": 11,
+   "heading": "Artigo 56.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Pessoal\n\n1 - O pessoal afecto à SRE consta dos quadros regionais de ilha em vigor.\n\n2 - O pessoal dirigente, de direcção específica e de chefia, que correspondem a unidades orgânicas, afecto à SRE, é o constante do anexo ii do presente diploma, do qual faz parte integrante."
+  },
+  "166753220": {
+   "fragment_id": "166753124",
+   "type": 8,
+   "heading": "Secção II — Pessoal da IRT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Pessoal da IRT"
+  },
+  "166753221": {
+   "fragment_id": "166753125",
+   "type": 11,
+   "heading": "Artigo 57.º — Carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Carreiras\n\nO pessoal da IRT integra-se numa das seguintes carreiras:\n\na) Inspector superior;\n\nb) Inspector técnico;\n\nc) Inspector-adjunto;\n\nd) Técnico superior;\n\ne) Assistente técnico."
+  },
+  "166753222": {
+   "fragment_id": "166753126",
+   "type": 11,
+   "heading": "Artigo 58.º — Ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Ingresso\n\n1 - Para efeitos de ingresso nas carreiras de inspector superior ou de inspector técnico, é exigido curso superior no domínio do turismo ou do direito, sem prejuízo das normas de intercomunicabilidade entre carreiras.\n\n2 - O ingresso nas carreiras de inspecção da IRT depende de aproveitamento em período experimental, a realizar nos termos do artigo 12.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n3 - O período experimental compreende uma vertente teórica, com uma duração máxima de três meses, e uma fase de exercício tutelado de funções.\n\n4 - As matérias a leccionar durante o período experimental são definidas por portaria do membro do Governo Regional competente em matéria de turismo.\n\n5 - O exercício tutelado de funções consiste no exercício das funções próprias da carreira em causa, sob tutela de um ou mais inspectores, por forma a permitir ao trabalhador em período experimental a aplicação prática dos conhecimentos adquiridos e a facultar a avaliação das suas capacidades de desempenho e da adaptação às funções referidas."
+  },
+  "166753223": {
+   "fragment_id": "166753127",
+   "type": 11,
+   "heading": "Artigo 59.º — Conteúdos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Conteúdos funcionais\n\nOs conteúdos funcionais das carreiras de pessoal da IRT são os seguintes:\n\na) Inspector superior - concebe programas de acções de inspecção, no âmbito das competências específicas do serviço; efectua estudos, elabora relatórios e propõe medidas legislativas ou regulamentares, visando o aperfeiçoamento constante do sistema de inspecção e a vigilância das actividades susceptíveis de afectar a qualidade do produto turístico ou o ordenamento turístico; propõe acções de colaboração com entidades a quem a lei atribua competência de fiscalização e vigilância de empreendimentos ou estabelecimentos onde sejam prestados serviços turísticos para a concretização das políticas e orientações globais adoptadas para o sector; estuda, concebe, adapta ou aplica métodos e processos científico-tecnológicos, de âmbito geral ou especializado, com vista à tomada de decisão superior sobre matérias que interessam ao serviço; realiza estudos de apoio às decisões superiores no âmbito da gestão dos recursos humanos, materiais e financeiros; representa a Região no julgamento de recursos de sanções aplicadas; procede à instrução dos processos de contra-ordenação de maior complexidade; faz a supervisão técnica da actividade de instrução dos inspectores de outras carreiras; levanta autos de notícia e de apreensão;\n\nb) Inspector técnico - organiza as acções de inspecção e vistorias determinadas superiormente e dirige-as e ou executa-as, cumprindo e fazendo cumprir as instruções recebidas; informa e submete aos superiores hierárquicos as reclamações e participações de que tome conhecimento; realiza ou ordena as diligências legais e necessárias ao cumprimento dos objectivos das acções em curso, nomeadamente o levantamento de autos de notícia; exerce vigilância sobre actividades suspeitas; presta as informações solicitadas pelos agentes económicos do sector e orienta-os na boa observância das normas reguladoras da sua actividade; colabora com agentes de outros serviços na realização de inspecções conjuntas e solicita o apoio dos órgãos e autoridades policiais sempre que o cumprimento das suas missões o imponha; elabora relatórios periódicos de actividade e relatórios de inspecção e de vistorias; organiza e dirige o expediente, de acordo com as ordens e instruções recebidas; representa a Região no julgamento de recursos de sanções aplicadas; participa superiormente as infracções em matéria da competência de outros serviços; conduz viaturas, quando necessário ao desempenho das suas funções;\n\nc) Inspector-adjunto - coadjuva os inspectores técnicos; executa as acções de inspecção que lhe sejam determinadas e levanta autos; exerce vigilância sobre actividades suspeitas; presta esclarecimentos durante as acções de inspecção, sempre que seja considerado oportuno; assegura o funcionamento do serviço informativo; procede à realização de vistorias para efeitos de classificação; averigua os factos relatados nas reclamações; elabora os diversos relatórios, informações e pareceres que decorram das acções de inspecção; procede às notificações de harmonia com a legislação aplicável; participa superiormente as informações de que tenha conhecimento e cuja fiscalização seja da competência de outras entidades ou serviços; conduz viaturas, quando necessário ao desempenho das suas funções; pratica os actos de expediente geral que lhe sejam determinados superiormente."
+  },
+  "166753224": {
+   "fragment_id": "166753128",
+   "type": 11,
+   "heading": "Artigo 60.º — Incompatibilidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Incompatibilidades e impedimentos\n\n1 - O pessoal da IRT está sujeito ao regime geral de incompatibilidades e impedimentos vigente na Administração Pública.\n\n2 - É igualmente vedado ao pessoal da IRT:\n\na) Efectuar quaisquer acções de natureza inspectiva em serviços, organismos e empresas onde exerçam funções ou prestem serviços parentes seus ou afins em qualquer grau da linha recta ou até ao 3.º grau da linha colateral;\n\nb) Efectuar quaisquer acções de natureza inspectiva em serviços, organismos e empresas onde tenham exercido funções há menos de três anos ou onde as exerçam em regime de acumulação;\n\nc) Aceitar hospedagem em estabelecimento que lhes caiba fiscalizar, salvo quando o custo da estadia seja suportado pelo serviço.\n\n3 - Na decisão dos pedidos de acumulação de funções de inspecção com qualquer função, remunerada ou não, os dirigentes da IRT devem ponderar os riscos para a imparcialidade do pessoal de inspecção decorrentes do exercício de funções em entidades sujeitas à fiscalização da IRT."
+  },
+  "166753225": {
+   "fragment_id": "166753129",
+   "type": 11,
+   "heading": "Artigo 61.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Sigilo profissional\n\n1 - Os dirigentes, restante pessoal da IRT e todos aqueles que com eles colaborem são obrigados a guardar sigilo sobre as matérias de que tiverem conhecimento no exercício das suas funções ou por causa delas, não podendo divulgar ou utilizar em proveito próprio ou alheio, directamente ou por interposta pessoa, o conhecimento assim adquirido.\n\n2 - A violação do sigilo profissional pode implicar a aplicação de sanções disciplinares, determináveis em função da sua gravidade, sem prejuízo da responsabilidade civil ou criminal que dela possa resultar.\n\n3 - O dever de sigilo profissional mantém-se após a cessação das funções."
+  },
+  "166753226": {
+   "fragment_id": "166753130",
+   "type": 11,
+   "heading": "Artigo 62.º — Regime da duração e horário de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Regime da duração e horário de trabalho\n\n1 - Ao pessoal da IRT é aplicado o regime da duração e horário de trabalho vigente para a função pública, salvo o disposto no número seguinte.\n\n2 - O serviço prestado pelo pessoal da IRT é de carácter permanente, o que implica a obrigatoriedade da sua prestação a qualquer hora do dia ou da noite, incluindo os dias de descanso ou feriados, consoante as necessidades do serviço."
+  },
+  "166753227": {
+   "fragment_id": "166753131",
+   "type": 11,
+   "heading": "Artigo 63.º — Apoio em processos judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Apoio em processos judiciais\n\n1 - Os dirigentes e restante pessoal da IRT que sejam arguidos ou parte em processo contra-ordenacional, disciplinar ou judicial, por actos cometidos ou ocorridos no exercício e por causa das suas funções, têm direito a ser assistidos por advogado, indicado pelo inspector regional, ouvido o interessado e nos termos da lei, cuja retribuição constitui encargo do serviço.\n\n2 - O pessoal referido no número anterior tem ainda direito ao pagamento das custas judiciais, bem como a transportes e ajudas de custo quando a localização do tribunal ou das entidades judiciais o justifique.\n\n3 - As importâncias eventualmente despendidas ao abrigo do disposto nos números anteriores devem ser reembolsadas pelo trabalhador que lhes deu causa, no caso de condenação em qualquer dos processos referidos no n.º 1."
+  },
+  "166753228": {
+   "fragment_id": "166753132",
+   "type": 14,
+   "heading": "Anexo II — Quadro do pessoal dirigente, de direcção específica e de chefia da Secretaria Regional da Economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Quadro do pessoal dirigente, de direcção específica e de chefia da Secretaria Regional da Economia\n\n(ver documento original)"
+  },
+  "166753259": {
+   "fragment_id": "166752745",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovada a orgânica e o quadro do pessoal dirigente, de direcção específica e de chefia, da Secretaria Regional da Economia, abreviadamente designada por SRE, publicados nos anexos i e ii do presente diploma, do qual fazem parte integrante."
+  },
+  "166753260": {
+   "fragment_id": "166752746",
+   "type": 11,
+   "heading": "Artigo 2.º — Extinção e criação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Extinção e criação de serviços\n\n1 - São extintos os seguintes serviços:\n\na) Na estrutura geral da SRE:\n\ni) O Gabinete Jurídico-Económico;\n\nii) A Secção de Apoio à Direcção Regional do Comércio, Indústria e Energia;\n\niii) A Secção de Apoio à Direcção Regional dos Transportes Aéreos e Marítimos;\n\niv) A Secção de Contabilidade e Património;\n\nv) O Centro de Informação;\n\nb) Na estrutura da Direcção Regional de Apoio ao Investimento e Competitividade:\n\ni) A Direcção de Serviços de Parceria e Coesão Económica;\n\nii) A Divisão de Promoção do Investimento;\n\niii) A Divisão da Qualidade;\n\niv) A Divisão da Organização, Planeamento e Serviços Jurídicos;\n\nv) A Divisão de Recursos Geológicos;\n\nc) Na estrutura da Direcção Regional do Turismo:\n\ni) A Direcção de Serviços de Planeamento, Equipamento e Actividade Turísticas;\n\nii) A Direcção de Serviços de Informação, Animação e Promoção Turísticas;\n\niii) A Divisão de Equipamentos e Actividades Turísticas;\n\niv) A Divisão de Ordenamento e Licenciamento de Instalações Turísticas;\n\nv) O Gabinete de Apoio ao Turismo de Natureza e em Espaço Rural;\n\nvi) Os Centros Termais das Furnas, Carapacho e Varadouro;\n\nvii) A Secção de Pessoal, Expediente e Arquivo;\n\nviii) A Secção de Contabilidade e Património;\n\nd) Na estrutura da Direcção Regional dos Transportes Aéreos e Marítimos:\n\ni) A Direcção de Serviços de Estudos e Planeamento;\n\nii) A Direcção de Serviços dos Transportes Aéreos e Marítimos.\n\n2 - São criados os seguintes serviços:\n\na) Na estrutura geral da SRE:\n\ni) O Gabinete de Apoio, Planeamento e Auditoria;\n\nii) A Divisão de Apoio Técnico, Planeamento e Auditoria;\n\nb) Na Direcção Regional de Apoio ao Investimento e Competitividade:\n\ni) A Divisão de Apoio ao Empreendedorismo e Inovação;\n\nc) Na Direcção Regional do Turismo:\n\ni) A Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística;\n\nii) A Divisão de Ordenamento e Infra-Estruturas Turísticas;\n\niii) A Divisão de Promoção Turística;\n\niv) A Secção de Controlo Financeiro, Patrimonial, Recursos Humanos e Apoio Administrativo.\n\n3 - É alterada a designação dos seguintes serviços:\n\na) Na estrutura geral da SRE, a Divisão Administrativa e Financeira passa a designar-se Divisão Administrativa, Financeira e de Documentação;\n\nb) Na estrutura da DRAIC:\n\ni) A Direcção de Serviços dos Incentivos passa a designar-se Direcção de Serviços de Apoio ao Investimento;\n\nii) A Direcção de Serviços do Comércio e Indústria passa a designar-se Direcção de Serviços de Fomento da Competitividade e Qualidade;\n\niii) A Divisão de Análise de Incentivos passa a designar-se Divisão de Análise de Investimentos;\n\niv) A Divisão de Acompanhamento e Controlo passa a designar-se Divisão de Acompanhamento da Execução de Investimentos;\n\nv) A Divisão da Indústria passa a designar-se Divisão da Indústria e Qualidade."
+  },
+  "166753261": {
+   "fragment_id": "166752747",
+   "type": 11,
+   "heading": "Artigo 3.º — Comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comissões de serviço\n\n1 - São mantidas as comissões de serviço dos titulares de cargos de direcção superior de 1.º grau da SRE cujos serviços, por força do presente diploma, foram reestruturados ou alterados na sua designação ou nas suas competências.\n\n2 - Com a entrada em vigor do presente diploma cessam as comissões de serviço de todos os restantes cargos dirigentes e de chefia previstos na anterior orgânica."
+  },
+  "166753262": {
+   "fragment_id": "166752748",
+   "type": 11,
+   "heading": "Artigo 4.º — Pessoal com funções de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pessoal com funções de fiscalização\n\n1 - O pessoal afecto à SRE que exerça funções de fiscalização deve, no exercício das mesmas, usar cartão de identidade especial, cujos modelos serão aprovados por portaria do Secretário Regional da Economia.\n\n2 - Os trabalhadores a que alude o número anterior são considerados agentes de autoridade, tendo livre acesso aos estabelecimentos e locais sujeitos à jurisdição do serviço a que pertençam, e podem solicitar o apoio das autoridades administrativas e policiais para o cumprimento integral das respectivas funções."
+  },
+  "166753263": {
+   "fragment_id": "166752749",
+   "type": 11,
+   "heading": "Artigo 5.º — Suplemento mensal de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Suplemento mensal de risco\n\nOs trabalhadores com funções de fiscalização nas áreas da indústria e dos recursos geológicos têm direito a um suplemento mensal de risco de 20 %, nos termos e sem prejuízo do regime de salvaguarda de direitos do artigo 13.º do Decreto Legislativo Regional n.º 26/2008/A, de 24 de Julho, alterado e republicado pelos Decretos Legislativos Regionais n.os 17/2009/A, de 14 de Outubro, e 33/2010/A, de 18 de Novembro."
+  },
+  "166753264": {
+   "fragment_id": "166752750",
+   "type": 11,
+   "heading": "Artigo 6.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Situações especiais\n\n1 - O pessoal que, à data da entrada em vigor deste diploma, se encontre em regime de período experimental mantém-se nessa situação até à conclusão do mesmo, devendo, consoante os casos e se necessário, ser nomeado novo júri ou elementos do júri, o qual fará a respectiva avaliação e classificação final.\n\n2 - Mantêm-se os concursos a decorrer na data da entrada em vigor do presente diploma."
+  },
+  "166753265": {
+   "fragment_id": "166752751",
+   "type": 11,
+   "heading": "Artigo 7.º — Transição do pessoal da Inspecção do Turismo, da Direcção Regional do Turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transição do pessoal da Inspecção do Turismo, da Direcção Regional do Turismo\n\n1 - O pessoal da Inspecção do Turismo, da Direcção Regional do Turismo, é reafectado à Inspecção Regional do Turismo, referida na secção vi do anexo i, sem alteração dos seus locais de trabalho e tendo em conta o disposto no número seguinte.\n\n2 - Enquanto não for revisto o regime das carreiras inspectivas na região, estas regem-se pelo disposto no Decreto-Lei n.º 112/2001, de 6 de Abril, com as adaptações decorrentes do artigo 19.º do Decreto-Lei n.º 69-A/2009, de 24 de Março, bem como do artigo 35.º da Lei n.º 55-A/2010, de 31 de Dezembro."
+  },
+  "166753266": {
+   "fragment_id": "166752752",
+   "type": 11,
+   "heading": "Artigo 8.º — Centros Termais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Centros Termais\n\nO pessoal afecto aos Centros Termais das Furnas e do Carapacho passa a integrar a Delegação de Turismo de São Miguel e os Serviços de Ilha da Ilha Graciosa, respectivamente, sem prejuízo do disposto no regime de mobilidade da administração regional autónoma e do regime da concessão do jogo na Região Autónoma dos Açores, na parte referente ao início da exploração do Centro Termal das Furnas."
+  },
+  "166753267": {
+   "fragment_id": "166752753",
+   "type": 11,
+   "heading": "Artigo 9.º — Postos de turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Postos de turismo\n\nAté à publicação dos despachos previstos no n.º 2 do artigo 36.º do anexo i, mantêm-se os postos de turismo existentes e o pessoal a eles afecto."
+  },
+  "166753268": {
+   "fragment_id": "166752754",
+   "type": 11,
+   "heading": "Artigo 10.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revogação\n\n1 - É revogado o Decreto Regulamentar Regional n.º 21/2006/A, de 16 de Junho.\n\n2 - Até à integração formal da Aerogare Civil das Lajes nos serviços da actual concessionária do serviço público aeroportuário, mantém-se em vigor o disposto na alínea c) do artigo 50.º e nos artigos 57.º a 59.º do Decreto Regulamentar Regional n.º 21/2006/A, de 16 de Junho."
+  },
+  "166753269": {
+   "fragment_id": "166752755",
+   "type": 11,
+   "heading": "Artigo 11.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Vigência\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "166753270": {
+   "fragment_id": "166752756",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 28 de Abril de 2011.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 30 de Maio de 2011.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\nANEXO I\n\nOrgânica da Secretaria Regional da Economia"
+  },
+  "166753271": {
+   "fragment_id": "166752757",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "166753272": {
+   "fragment_id": "166753132",
+   "type": 14,
+   "heading": "Anexo II — Quadro do pessoal dirigente, de direcção específica e de chefia da Secretaria Regional da Economia",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar Regional n.º 7/2020/A - Diário da República n.º 35/2020, Série I de 2020-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2020-129341449)"
+   ],
+   "markdown": "## Anexo II — Quadro do pessoal dirigente, de direcção específica e de chefia da Secretaria Regional da Economia\n\n(ver documento original)\n\n> Alterado pelo/a [Decreto Regulamentar Regional n.º 7/2020/A - Diário da República n.º 35/2020, Série I de 2020-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2020-129341449)"
+  },
+  "166753273": {
+   "fragment_id": "166753149",
+   "type": 14,
+   "heading": "Anexo III — Regime jurídico da carreira de técnico de operações aeroportuárias da Aerogare Civil das Lajes e regras de transição dos trabalhadores da carreira de assistente de operações aeroportuárias",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 7/2020/A - Diário da República n.º 35/2020, Série I de 2020-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2020-129341449), em vigor a partir de 2020-02-20"
+   ],
+   "markdown": "## Anexo III — Regime jurídico da carreira de técnico de operações aeroportuárias da Aerogare Civil das Lajes e regras de transição dos trabalhadores da carreira de assistente de operações aeroportuárias\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 7/2020/A - Diário da República n.º 35/2020, Série I de 2020-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-2020-129341449), em vigor a partir de 2020-02-20"
+  },
+  "166753274": {
+   "fragment_id": "166752754",
+   "type": 11,
+   "heading": "Artigo 10.º — Revogação",
+   "in_force_from": "2021-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 2/2021/A - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2021-157996086), em vigor a partir de 2021-02-20"
+   ],
+   "markdown": "###### Artigo 10.º — Revogação\n\n1 - É revogado o Decreto Regulamentar Regional n.º 21/2006/A, de 16 de Junho.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto Regulamentar Regional n.º 2/2021/A - Diário da República n.º 35/2021, Série I de 2021-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2021-157996086), em vigor a partir de 2021-02-20"
+  },
+  "166764176": {
+   "fragment_id": "166753089",
+   "type": 11,
+   "heading": "Artigo 27.º — Natureza e missão",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 27.º — Natureza e missão\n\nA DRT é o serviço executivo da SRE que tem por missão contribuir para a definição, e executar, as políticas de apoio ao sector turístico, nomeadamente na vertente de infra-estruturas e ordenamento, bem como na estruturação e qualificação da oferta de produtos turísticos visando a consolidação de um turismo sustentável.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764177": {
+   "fragment_id": "166753090",
+   "type": 11,
+   "heading": "Artigo 28.º — Competências",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 28.º — Competências\n\nSão competências da DRT:\n\na) Fomentar o aproveitamento e a preservação dos recursos turísticos da região, nomeadamente a realização de estudos de ordenamento físico-turístico de áreas consideradas de interesse prioritário, com vista ao correcto aproveitamento e enquadramento do equipamento a implantar nessas áreas, em articulação com os departamentos regionais competentes;\n\nb) Promover ou apoiar as acções desencadeadas no âmbito da oferta turística regional, bem como as iniciativas de promoção turística da região ou outras acções afins, assegurando, nomeadamente, a participação em iniciativas do género;\n\nc) Editar publicações, textos e informações de interesse para a oferta turística regional;\n\nd) Colaborar com todos os serviços e organismos regionais, nacionais ou internacionais, relativamente a todas as matérias que interessem ao sector turístico, nomeadamente com os que se encontrem envolvidos em actividades ou projectos de desenvolvimento integrado com interesse para a oferta turística regional;\n\ne) Assegurar, quando para tal for incumbida, a representação da região junto das entidades oficiais e privadas ligadas ao turismo, na perspectiva dos interesses e objectivos do sector, bem como a participação em organismos e manifestações internacionais e nacionais no mesmo âmbito;\n\nf) Coordenar e supervisionar o funcionamento e as actividades desenvolvidas pelas delegações e postos de turismo;\n\ng) A DRT poderá proceder à exploração comercial de material destinado à promoção da região, designadamente através da edição, promoção, venda, aluguer ou qualquer outra forma de comercialização.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764178": {
+   "fragment_id": "166753091",
+   "type": 11,
+   "heading": "Artigo 29.º — Estrutura",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 29.º — Estrutura\n\nA DRT compreende os seguintes serviços:\n\na) Serviços Centrais:\n\ni) Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística;\n\nii) Secção de Controlo Financeiro, Patrimonial, Recursos Humanos e Apoio Administrativo;\n\nb) Serviços Desconcentrados:\n\ni) Delegações de turismo;\n\nii) Postos de turismo.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764179": {
+   "fragment_id": "166753092",
+   "type": 11,
+   "heading": "Artigo 30.º — Secção de Controlo Financeiro, Patrimonial, Recursos Humanos e Apoio Administrativo",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 30.º — Secção de Controlo Financeiro, Patrimonial, Recursos Humanos e Apoio Administrativo\n\nCompete à Secção de Controlo Financeiro, Patrimonial, Recursos Humanos e Apoio Administrativo:\n\na) Assegurar todas as operações relativas ao serviço de contabilidade;\n\nb) Elaborar o projecto de orçamento e suas alterações;\n\nc) Organizar e actualizar o registo das operações relativas à execução do orçamento;\n\nd) Assegurar o processamento das despesas resultantes da execução orçamental;\n\ne) Organizar e manter actualizados o inventário e o cadastro dos bens;\n\nf) Executar os actos dos procedimentos administrativos relativos à aquisição e locação de equipamentos, bens de consumo e serviços;\n\ng) Zelar pela segurança e conservação do património;\n\nh) Assegurar a gestão de stocks;\n\ni) Garantir a conservação e limpeza de edifícios e outras instalações;\n\nj) Assegurar o registo, tramitação e arquivo do expediente geral;\n\nk) Coordenar as actividades do pessoal auxiliar;\n\nl) Organizar e manter actualizado o cadastro do pessoal;\n\nm) Organizar e realizar todas as diligências inerentes aos procedimentos de concursos e mobilidade de pessoal;\n\nn) Assegurar o controlo das assiduidades nos locais determinados superiormente;\n\no) Executar as demais acções relativas à administração e gestão de pessoal;\n\np) Executar outras tarefas que superiormente lhe sejam cometidas;\n\nq) Desenvolver as suas actividades em articulação com o Centro de Informação;\n\nr) Gerir o parque automóvel da DRT na ilha do Faial.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764180": {
+   "fragment_id": "166753093",
+   "type": 11,
+   "heading": "Artigo 31.º — Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 31.º — Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística\n\nÀ Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística compete:\n\na) Analisar e propor a decisão relativa aos processos de licenciamento das empresas e empreendimentos turísticos, propondo superiormente as decisões ou pareceres a adoptar;\n\nb) Zelar pela aplicação do Plano de Ordenamento Turístico da Região Autónoma dos Açores;\n\nc) Promover o correcto exercício das profissões e actividades turísticas;\n\nd) Promover a instrução e apreciação dos projectos apresentados, ao abrigo da legislação vigente, para a concessão de apoio financeiro;\n\ne) Propor superiormente os projectos de diploma com interesse para o sector do turismo;\n\nf) Promover a execução de estudos destinados a uma avaliação contínua do fenómeno turístico e do seu impacte ao nível regional;\n\ng) Promover o enriquecimento da oferta turística regional;\n\nh) Promover a organização e divulgação de informação relativa aos aspectos da vida açoriana e suas manifestações susceptíveis de constituírem objecto de interesse turístico;\n\ni) Promover a preparação e divulgação atempada das informações relevantes para as entidades intervenientes na divulgação e promoção da região, bem como para o público em geral;\n\nj) Propor superiormente os apoios e acções necessários ao fomento das manifestações e actividades de maior relevância para o enriquecimento da oferta turística;\n\nk) Colaborar com os departamentos competentes na elaboração, actualização e tratamento de dados estatísticos relativos ao sector do turismo, com vista à sua divulgação e utilização por outros serviços e entidades;\n\nl) Efectuar protocolos de colaboração com autarquias, no sentido da qualificação das infra-estruturas turísticas.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764181": {
+   "fragment_id": "166753094",
+   "type": 11,
+   "heading": "Artigo 32.º — Estrutura",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 32.º — Estrutura\n\nA Direcção de Serviços de Apoio às Infra-Estruturas e à Promoção Turística compreende os seguintes serviços:\n\na) Divisão de Ordenamento e Infra-Estruturas Turísticas;\n\nb) Divisão de Promoção Turística.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764182": {
+   "fragment_id": "166753095",
+   "type": 11,
+   "heading": "Artigo 33.º — Divisão de Ordenamento e Infra-Estruturas Turísticas",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 33.º — Divisão de Ordenamento e Infra-Estruturas Turísticas\n\nÀ Divisão de Ordenamento e Infra-estruturas Turísticas compete:\n\na) Recolher e tratar todos os elementos necessários à integração do sector do turismo nas tarefas globais de planeamento, bem como acompanhar os planos sectoriais com implicações para o turismo, nomeadamente os resultantes ou relacionados com os apoios comunitários;\n\nb) Colaborar com os restantes serviços da SRE e ou entidades externas na preparação dos planos de turismo;\n\nc) Assegurar o estudo e definição das orientações que visem a promoção de um crescimento equilibrado e sustentável da oferta turística regional;\n\nd) Acompanhar e estudar o desenvolvimento turístico regional, medindo os seus efeitos e o impacte económico-social na região;\n\ne) Propor as normas de planeamento para o sector do turismo e promover a sua divulgação;\n\nf) Organizar, instruir, apreciar e informar os processos relativos a planos, estudos ou projectos apresentados para a obtenção de apoios financeiros que se destinem ao investimento turístico;\n\ng) Acompanhar a actividade das entidades beneficiárias de apoio financeiro, controlando a sua aplicação;\n\nh) Coordenar estudos e preparar legislação com interesse e incidência no sector;\n\ni) Assegurar a execução e o acompanhamento de acções, projectos e programas comunitários na área do turismo;\n\nj) Organizar e gerir os procedimentos de licenciamento da actividade de agências de viagens, das empresas de animação turística e da observação turística de cetáceos;\n\nk) Apreciar os planos de ordenamento legalmente sujeitos à intervenção da DRT, emitir pareceres e colaborar na respectiva elaboração e execução;\n\nl) Zelar pela aplicação do Plano de Ordenamento Turístico da Região Autónoma dos Açores, bem como emitir parecer sobre os planos elaborados por outras entidades oficiais e colaborar na respectiva execução;\n\nm) Proceder ao registo cartográfico dos empreendimentos turísticos e dos elementos condicionantes do planeamento urbanístico das áreas turísticas;\n\nn) Propor a classificação dos sítios e locais de turismo, em colaboração com as autarquias e outras entidades;\n\no) Prestar apoio técnico a obras de iniciativa pública consideradas de interesse turístico;\n\np) Apreciar e emitir pareceres sobre os projectos de obras relativas a empreendimentos turísticos, bem como de outros estabelecimentos sujeitos por lei à intervenção da DRT, propondo a respectiva decisão;\n\nq) Pronunciar-se sobre as instalações de estabelecimentos sujeitos à aprovação da DRT, nomeadamente os estabelecimentos de agências de viagens e turismo e de aluguer de veículos automóveis;\n\nr) Realizar auditorias e vistorias, elaborar relatórios e pronunciar-se quanto à classificação dos estabelecimentos sob a alçada da DRT;\n\ns) Dar pareceres sobre o interesse para o turismo de instalações hoteleiras e similares e outros empreendimentos, para efeitos de obtenção de apoio financeiro;\n\nt) Acompanhar a execução dos projectos de obras aprovados ou apoiados financeiramente pela DRT;\n\nu) Organizar e manter actualizado o registo de todos os empreendimentos turísticos, agências de viagens, estabelecimentos de restauração e bebidas e empreendimentos de animação turística ou outros considerados de interesse para o turismo, bem como outras formas de oferta turística que venham a ser instituídas;\n\nv) Identificar as necessidades de elaboração de projectos de aproveitamento e valorização das condições e recursos turísticos regionais;\n\nw) Organizar e manter actualizados os registos de competência obrigatória da DRT relativos a agências de viagens e turismo e profissões turísticas.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764183": {
+   "fragment_id": "166753096",
+   "type": 11,
+   "heading": "Artigo 34.º — Divisão de Promoção Turística",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 34.º — Divisão de Promoção Turística\n\nÀ Divisão de Promoção Turística compete:\n\na) Orientar e disciplinar o exercício das profissões turísticas e cooperar com os organismos competentes na formação profissional turística, nomeadamente na organização de acções especiais que visem a valorização da oferta turística quer ao nível empresarial quer profissional;\n\nb) Elaborar a proposta do plano anual de acção promocional da DRT, submetendo-o a apreciação superior;\n\nc) Estudar e propor os suportes e materiais necessários às acções de promoção previstas no plano anual de acção promocional;\n\nd) Organizar e assegurar a representação da região pela DRT nos certames nacionais e internacionais;\n\ne) Prestar apoio e assistência à realização de reuniões e viagens promocionais de agentes de viagens, operadores turísticos, transportadores e outras entidades ligadas à indústria turística, visando um melhor conhecimento da oferta turística regional;\n\nf) Assegurar as acções de acolhimento e assistência a jornalistas, escritores de turismo, opinion leaders e outros visitantes de particular interesse para a divulgação do destino turístico Açores;\n\ng) Assegurar o armazenamento, controlo e respectiva distribuição dos stocks de todos os materiais promocionais, bem como controlar a qualidade daqueles cuja produção seja apoiada pela DRT;\n\nh) Informar e instruir os processos de pedidos de apoio financeiro a iniciativas com interesse para a animação e promoção turísticas do destino Açores ou para a qualificação da oferta turística, bem como as que visem o estudo, acompanhamento ou monitorização da procura e da oferta turísticas;\n\ni) Organizar e divulgar calendários de acontecimentos ao nível regional;\n\nj) Propor e organizar eventos com especial relevância para o desenvolvimento do destino;\n\nk) Apoiar tecnicamente o sector privado e os órgãos locais de turismo na produção de materiais promocionais e na execução de acções publicitárias;\n\nl) Proceder à recolha, análise e tratamento de informações dos vários mercados, que permitam actuar sobre os mesmos com maior eficácia e eficiência;\n\nm) Promover junto da opinião pública a realização de campanhas de esclarecimento e informação sobre a importância do turismo;\n\nn) Assegurar o fornecimento de informações a todas as entidades interessadas na oferta turística regional, designadamente aos meios de comunicação social;\n\no) Colaborar com a agência regional de promoção turística do destino Açores;\n\np) Proceder à gestão dos sistemas de incentivos à promoção e animação turística em vigor na DRT;\n\nq) Assegurar a organização de eventos de relevância turística, em colaboração com as diferentes delegações de turismo;\n\nr) Promover o desenvolvimento de produtos turísticos directamente ou em colaboração com as delegações de turismo;\n\ns) Apoiar o funcionamento da comissão de acompanhamento dos percursos pedestres directamente ou em colaboração com as delegações de turismo.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764184": {
+   "fragment_id": "166753097",
+   "type": 11,
+   "heading": "Artigo 35.º — Delegações de turismo",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 35.º — Delegações de turismo\n\n1 - A Direcção Regional de Turismo compreende as seguintes delegações de turismo:\n\na) São Miguel;\n\nb) Terceira;\n\nc) Lisboa.\n\n2 - Às delegações de turismo compete:\n\na) Manter um serviço de acolhimento e informação aos turistas;\n\nb) Assegurar a execução, na respectiva área, dos programas de assistência a jornalistas, operadores e visitantes para o turismo regional;\n\nc) Apoiar as manifestações de animação local;\n\nd) Propor à DRT medidas e acções que visem contribuir para o enriquecimento turístico das respectivas áreas;\n\ne) Prestar informações e canalizar para a DRT os processos da sua competência;\n\nf) Colaborar em estudos e trabalhos de planeamento e informar e emitir pareceres sobre os assuntos da sua área de competência;\n\ng) Apoiar e coordenar a actividade dos postos de turismo que estejam na sua dependência;\n\nh) Prestar apoio logístico e administrativo à actividade da Inspecção Regional do Turismo.\n\n3 - As chefias das Delegações de Turismo das ilhas de São Miguel e Terceira são asseguradas por delegados, cargos de direcção específica de 1.º grau, nomeados, em comissão de serviço, por despacho do Secretário Regional da Economia, nos termos do disposto no artigo 6.º do Decreto Legislativo Regional n.º 2/2005/A, de 9 de Maio, na redacção dos Decretos Legislativos Regionais n.os 17/2009/A, de 14 de Outubro, e 33/2010/A, de 18 de Novembro.\n\n4 - As chefias das Delegações de Turismo das ilhas de São Miguel e Terceira apoiam a promoção de eventos de interesse da DRT, respectivamente, nas ilhas de Santa Maria e Graciosa, bem como outras competências que lhes forem delegadas pelo DRT.\n\n5 - A chefia da Delegação de Turismo de Lisboa é exercida por um director de serviços, cargo de direcção intermédia de 1.º grau.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764185": {
+   "fragment_id": "166753098",
+   "type": 11,
+   "heading": "Artigo 36.º — Postos de turismo",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 36.º — Postos de turismo\n\n1 - A DRT compreende, ainda, postos de turismo, aos quais compete, essencialmente, o acolhimento e informação aos turistas, bem como fornecer informações genéricas sobre assuntos e processos a canalizar para a DRT no âmbito das suas competências.\n\n2 - Os postos de turismo são criados por despacho do Secretário Regional da Economia, que indica os serviços de que são dependentes, bem como os recursos humanos afectos e o seu regime de funcionamento.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764186": {
+   "fragment_id": "166753100",
+   "type": 11,
+   "heading": "Artigo 37.º — Natureza",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 37.º — Natureza\n\n1 - A Inspecção Regional do Turismo (IRT) é o serviço da Secretaria Regional da Economia, directamente dependente do Secretário Regional, que promove e fiscaliza o cumprimento das disposições legais, em matéria cuja fiscalização não esteja especialmente confiada a outras entidades, relativas às actividades e profissões turísticas, designadamente a exploração de alojamento turístico, de agências de viagens e turismo e de actividades de animação turística.\n\n2 - A IRT é autoridade e órgão de polícia administrativa.\n\n3 - A IRT tem sede na ilha do Faial e exerce as suas competências em todo o território da Região Autónoma dos Açores.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764187": {
+   "fragment_id": "166753101",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 38.º — Competências\n\nSão competências da IRT:\n\na) Inspeccionar, nos termos da lei, todos os locais e equipamentos relacionados com actividades ou profissões turísticas sujeitas a fiscalização, nomeadamente empreendimentos turísticos, alojamento local, outros locais onde sejam prestados serviços de alojamento turístico, estabelecimentos de agências de viagens e turismo e de empresas de animação turística, incluindo operadores marítimo-turísticos;\n\nb) Inspeccionar as actividades turísticas desenvolvidas em veículos terrestres e aquáticos de agências de viagens e turismo ou de empresas de alojamento ou animação turística;\n\nc) Avaliar o nível qualitativo dos serviços turísticos prestados, com referência aos padrões geralmente aceites no mercado nacional e internacional;\n\nd) Prestar informações a todas as entidades abrangidas pela sua actuação, sobre a eficaz observância das normas aplicáveis;\n\ne) Receber as reclamações apresentadas e averiguar do seu fundamento, nomeadamente para os efeitos do disposto na alínea g);\n\nf) Levantar autos de notícia e instruir os processos de contra-ordenação em matéria de turismo;\n\ng) Proceder a averiguações, recolhendo informações sobre as actividades inspeccionadas, instaurar e instruir processos de contra-ordenação, nos termos da lei;\n\nh) Proceder à selagem de instalações ou à apreensão de documentos e objectos de prova, levantando os respectivos autos;\n\ni) Adoptar as medidas cautelares necessárias e urgentes para a preservação de meios de prova;\n\nj) Alertar os departamentos competentes das infracções de que tenha conhecimento e que não seja competente em razão da matéria;\n\nk) Colaborar nas auditorias de classificação de empreendimentos turísticos ou noutras diligências especialmente solicitadas pela Direcção Regional do Turismo ou por outros serviços da Secretaria Regional da Economia;\n\nl) Colaborar em vistorias ou noutras diligências especialmente solicitadas pelos municípios da região;\n\nm) Fiscalizar as actividades de publicidade de produtos ou serviços turísticos;\n\nn) Fiscalizar o cumprimento do direito vigente em matéria de direito real de habitação periódica e do direito de habitação turística;\n\no) Desempenhar as demais funções de inspecção e fiscalização cometidas por lei ou regulamento.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764188": {
+   "fragment_id": "166753102",
+   "type": 11,
+   "heading": "Artigo 39.º — Inspector regional",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 39.º — Inspector regional\n\nA IRT é dirigida por um inspector regional, equiparado a director de serviços, cargo de direcção intermédia de 1.º grau, a quem compete, nomeadamente:\n\na) Dirigir e coordenar a actividade da IRT;\n\nb) Representar a IRT;\n\nc) Ordenar a realização de averiguações e instaurar processos de contra-ordenação;\n\nd) Aplicar as coimas legalmente previstas, determinar o arquivamento de autos ou a sua submissão ao órgão competente para a aplicação das sanções legais;\n\ne) Elaborar o relatório anual de actividades;\n\nf) Submeter à aprovação do Secretário Regional da Economia os planos de actividades, controlar o seu cumprimento e avaliar os resultados obtidos;\n\ng) Emitir instruções gerais sobre todos os aspectos da actividade, organização e funcionamento interno da IRT;\n\nh) Assegurar a gestão dos recursos humanos e materiais afectos à IRT.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764189": {
+   "fragment_id": "166753103",
+   "type": 11,
+   "heading": "Artigo 40.º — Deveres de informação e cooperação",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 40.º — Deveres de informação e cooperação\n\n1 - Os serviços da administração regional autónoma, bem como as pessoas singulares e colectivas de direito público e privado objecto de acção inspectiva, encontram-se vinculados aos deveres de informação e cooperação, designadamente fornecendo os elementos de informação necessários ao desenvolvimento da actividade de inspecção, nos moldes, suportes e com a periodicidade e urgência requeridos.\n\n2 - Os dirigentes e trabalhadores das entidades inspeccionadas têm o dever de prestar, no prazo fixado para o efeito, todos os esclarecimentos, pareceres, informações e colaboração que lhes sejam solicitados pela IRT, designadamente:\n\na) Livre-trânsito e permanência do pessoal da IRT nos estabelecimentos e outros locais onde se prestem serviços turísticos pelo tempo necessário ao desempenho das suas funções;\n\nb) Colaboração do pessoal habilitado e necessário à execução das acções inspectivas, nomeadamente no acompanhamento das vistorias;\n\nc) Cedência da utilização de instalações condignas e adequadas e de material e equipamentos indispensáveis.\n\n3 - Para efeitos do disposto nos números anteriores, os trabalhadores são representantes legais das respectivas entidades empregadoras.\n\n4 - Quando devidamente notificadas, as entidades visadas ou seus representantes devem comparecer nos locais e tempo indicados, para a prestação de depoimentos ou declarações.\n\n5 - As entidades inspeccionadas devem dar conhecimento à IRT das medidas adoptadas na sequência das acções de inspecção.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764190": {
+   "fragment_id": "166753104",
+   "type": 11,
+   "heading": "Artigo 41.º — Deveres de terceiros",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 41.º — Deveres de terceiros\n\n1 - As pessoas colectivas públicas devem prestar à IRT toda a colaboração por esta solicitada, nomeadamente a comparência dos titulares dos respectivos órgãos, nos locais e tempo indicados, para a prestação de depoimentos ou declarações, ou a dispensa dos seus trabalhadores, para o mesmo efeito, sempre que os respectivos dirigentes sejam devidamente notificados para o efeito.\n\n2 - A IRT pode solicitar informações a qualquer pessoa colectiva de direito privado ou pessoa singular, sempre que o repute necessário para o apuramento dos factos.\n\n3 - A notificação de pessoas singulares ou pessoas colectivas privadas, para a prestação de depoimentos ou declarações, pode ser solicitada às autoridades policiais, observadas as disposições aplicáveis do Código do Processo Penal.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764191": {
+   "fragment_id": "166753105",
+   "type": 11,
+   "heading": "Artigo 42.º — Apoio técnico",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 42.º — Apoio técnico\n\n1 - Quando tal se justifique, nomeadamente na vistoria de imóveis ou equipamentos objecto de exploração turística, a IRT pode fazer-se assessorar por técnicos habilitados de outros serviços da administração regional autónoma, nos termos da lei, ou mediante aquisição dos seus serviços, segundo as regras da contratação pública.\n\n2 - Os técnicos ficam submetidos à direcção do inspector responsável pela acção e são investidos nos necessários poderes de autoridade.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764192": {
+   "fragment_id": "166753106",
+   "type": 11,
+   "heading": "Artigo 43.º — Articulação e colaboração com serviços congéneres",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 43.º — Articulação e colaboração com serviços congéneres\n\nSempre que possível, a IRT colabora com outros serviços congéneres e, quando tal se justifique em ganhos de eficácia das acções e na maior comodidade dos visados, deve procurar programar e executar as suas acções conjuntamente com outros serviços dotados de poderes inspectivos sobre os empreendimentos e estabelecimentos turísticos da região.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764193": {
+   "fragment_id": "166753107",
+   "type": 11,
+   "heading": "Artigo 44.º — Livre-trânsito",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 44.º — Livre-trânsito\n\n1 - O pessoal dirigente e o pessoal das carreiras de inspecção da IRT goza, para além dos que são atribuídos aos restantes trabalhadores da Administração Pública, dos direitos seguintes:\n\na) Do uso de cartão de livre-trânsito de modelo aprovado por portaria do Secretário Regional;\n\nb) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o desempenho das missões que lhe forem confiadas.\n\n2 - O pessoal referido no n.º 1 é investido em poderes de autoridade pública, não lhe podendo ser impedida a entrada nos locais objecto da acção inspectiva, desde que identificado pela exibição do cartão de livre-trânsito.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764194": {
+   "fragment_id": "166753108",
+   "type": 11,
+   "heading": "Artigo 45.º — Medidas inspectivas",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 45.º — Medidas inspectivas\n\n1 - No âmbito da acção inspectiva, o pessoal com funções inspectivas pode recolher informação sobre as actividades inspeccionadas, proceder a exames a quaisquer vestígios de infracções, bem como a colheitas de amostras para exame laboratorial.\n\n2 - Sempre que se justifique, o pessoal de inspecção pode examinar a contabilidade e quaisquer documentos que se encontrem nas instalações das empresas ou serviços inspeccionados, podendo proceder à apreensão dos que tenham interesse para a prova de quaisquer factos ilícitos em investigação, ou efectuar cópias dos mesmos.\n\n3 - O pessoal com funções inspectivas pode ainda requisitar, para exame, consulta e junção aos autos, processos e documentos ou as respectivas certidões, bem como quaisquer outros elementos existentes nos livros, registos e arquivos dos serviços onde ocorram os actos inspectivos ou com eles directamente relacionados.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764195": {
+   "fragment_id": "166753109",
+   "type": 11,
+   "heading": "Artigo 46.º — Recomendações",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 46.º — Recomendações\n\nNo âmbito das acções inspectivas, a IRT pode emitir recomendações que tenham por objecto a melhoria da adequação das actividades económicas aos parâmetros legais.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764196": {
+   "fragment_id": "166753110",
+   "type": 11,
+   "heading": "Artigo 47.º — Apoio administrativo",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 47.º — Apoio administrativo\n\nO apoio administrativo à IRT será prestado pelas Secções de Pessoal, Expediente e Arquivo e de Contabilidade e Património da Direcção Regional do Turismo ou pelas Delegações de Turismo de São Miguel ou Terceira, consoante os locais de trabalho do pessoal da IRT.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764197": {
+   "fragment_id": "166753112",
+   "type": 11,
+   "heading": "Artigo 48.º — Natureza e missão",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 48.º — Natureza e missão\n\nA DRTAM é o serviço executivo da SRE, que tem por missão contribuir para a definição, e executar as políticas regionais de transportes aéreos e marítimos, em especial reforçando o potencial das mesmas, e respectivas infra-estruturas, para a competitividade da economia açoriana, acessibilidade de pessoas e bens e coesão regional.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764198": {
+   "fragment_id": "166753113",
+   "type": 11,
+   "heading": "Artigo 49.º — Competências",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 49.º — Competências\n\nSão competências da DRTAM:\n\na) Coordenar todas as acções inerentes à execução dos objectivos da política definida para o sector de portos comerciais, de mercadorias e passageiros, núcleos de recreio náutico e marinas e aeroportos e aeródromos da Região;\n\nb) Propor legislação com interesse e incidência nos sectores dos transportes aéreos, marítimos e da náutica de recreio ou emitir pareceres sobre a mesma;\n\nc) Propor medidas de política necessárias à obtenção de um sistema de transportes marítimos e aéreos capaz de impulsionar o desenvolvimento regional e de garantir a adequada mobilidade da população;\n\nd) Gerir, administrar e desenvolver, de forma directa ou pelo acompanhamento das entidades a quem tenham sido atribuídas ou concessionadas a gestão dos aeroportos e aeródromos, no todo ou em parte, propriedade da Região;\n\ne) Exercer os poderes que, nos termos da lei, lhe são atribuídos no domínio da actividade marítimo-turística;\n\nf) Propor a atribuição de licenças de ocupação e utilização do domínio público aeroportuário;\n\ng) Coordenar, em estreita colaboração com as entidades portuárias e as entidades gestoras dos aeródromos regionais, a elaboração de todos os projectos de construção, remodelação ou ampliação das infra-estruturas portuárias e aeroportuárias;\n\nh) Acompanhar a actividade das entidades portuárias e das entidades gestoras dos aeroportos e aeródromos regionais;\n\ni) Proceder às diligências necessárias ao lançamento de concursos para adjudicação das obras de construção, remodelação ou ampliação das infra-estruturas portuárias e aeroportuárias;\n\nj) Acompanhar e participar na análise das propostas de concurso de obras ou de aquisição de serviços relativos aos portos comerciais, de náutica de recreio de marinas e aeroportos e aeródromos e na preparação de todo o expediente necessário à elaboração dos respectivos contratos;\n\nk) Acompanhar e participar na elaboração de todo o expediente necessário à elaboração dos contratos no âmbito dos concursos públicos de obras ou aquisição de bens e serviços relativos a aeroportos e aeródromos;\n\nl) Acompanhar a fiscalização das obras de infra-estruturas portuárias e aeroportuárias;\n\nm) Aprovar e acompanhar os programas anuais de monitorização e conservação dos portos comerciais, de náutica de recreio e marinas elaborados pelas entidades portuárias;\n\nn) Aprovar e acompanhar os programas anuais de conservação e manutenção dos aeroportos e aeródromos da responsabilidade, no todo em parte, da Região;\n\no) Acompanhar a execução financeira dos programas de investimento das entidades de gestão portuária e das entidades gestoras dos aeroportos e aeródromos regionais;\n\np) Emitir parecer sobre os programas anuais de investimentos nas infra-estruturas portuárias e aeroportuárias da Região elaborados pelas respectivas entidades gestoras;\n\nq) Acompanhar a actividade portuária e aeroportuária na Região;\n\nr) Acompanhar o cumprimento da legislação aplicável ao transporte aéreo e marítimo;\n\ns) Propor o modelo para a concessão da exploração do transporte marítimo de passageiros interilhas, do transporte aéreo regular de passageiros interilhas e das infra-estruturas portuárias e aeroportuárias na Região e colaborar nos processos de atribuição das respectivas concessões;\n\nt) Realizar ou colaborar na elaboração de pareceres sobre a exploração dos portos da Região, incluindo o trabalho portuário;\n\nu) Analisar e emitir parecer sobre as propostas de regulamentos de tarifas das administrações portuárias;\n\nv) Emitir parecer sobre os regulamentos de exploração e de utilização dos portos das administrações portuárias;\n\nw) Promover ou realizar o estudo, estabelecendo as adequadas ligações com os diversos organismos, da situação das empresas regionais de transportes marítimos e aéreos;\n\nx) Realizar os estudos necessários à coordenação do funcionamento do sistema de transportes de passageiros e de mercadorias;\n\ny) Acompanhar a aplicação das normas legais relativas ao sector dos transportes aéreos e marítimos;\n\nz) Aplicar as coimas no âmbito dos processos de contra-ordenação, designadamente no âmbito da actividade marítimo-turística e do serviço público de pilotagem;\n\naa) Promover, analisar e participar na elaboração da regulamentação de normas técnicas e de segurança relativas aos sectores marítimos e aéreos;\n\nbb) Executar as demais atribuições que lhe sejam cometidas;\n\ncc) Promover a actualização da informação relativa aos sectores dos transportes aéreos e marítimos necessária à caracterização dos mencionados sectores;\n\ndd) Promover a divulgação de toda a informação de interesse para o sector dos transportes aéreos e marítimos;\n\nee) Promover a realização de estudos necessários à coordenação do funcionamento do sistema de transportes de passageiros e mercadorias, nomeadamente relativos ao tráfego, custos de transporte, tarifas, condições de exploração e funcionamento do mercado;\n\nff) Propor e preparar, em colaboração com os demais serviços da Direcção Regional, legislação com interesse e incidência nos sectores dos transportes aéreos e marítimos ou emitir pareceres sobre legislação relacionada com aqueles sectores;\n\ngg) Propor e promover a realização de obras em todos os portos e aeroportos da Região, estabelecendo as ligações necessárias com os diversos serviços governamentais e demais entidades que nelas devam intervir;\n\nhh) Promover a conciliação e o entendimento entre as autoridades portuárias e os parceiros sociais na área do trabalho portuário;\n\nii) Zelar pelo cumprimento da legislação aplicável ao transporte aéreo e marítimo e promover a aplicação das normas legais respeitantes ao sector.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764199": {
+   "fragment_id": "166753114",
+   "type": 11,
+   "heading": "Artigo 50.º — Estrutura",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 50.º — Estrutura\n\nA DRTAM compreende os seguintes serviços:\n\na) Divisão dos Transportes Aéreos;\n\nb) Divisão dos Transportes Marítimos.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764200": {
+   "fragment_id": "166753115",
+   "type": 11,
+   "heading": "Artigo 51.º — Divisão dos Transportes Aéreos",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 51.º — Divisão dos Transportes Aéreos\n\nCompete à Divisão dos Transportes Aéreos:\n\na) Proceder aos estudos necessários à conveniente elaboração e execução dos projectos de infra-estruturas aeroportuárias;\n\nb) Acompanhar a execução física e financeira de todas as obras do sector dos transportes aéreos e da concessão de transporte aéreo regular de passageiros interilhas;\n\nc) Emitir parecer sobre os programas de investimentos dos aeroportos e aeródromos da Região elaborados pelas entidades gestoras;\n\nd) Garantir o bom funcionamento dos serviços de aeroportos e aeródromos sob a administração directa da Região ou concessionados;\n\ne) Acompanhar a exploração dos aeroportos e aeródromos da Região, nomeadamente controlando o cumprimento das obrigações a que se encontram sujeitos os concessionários;\n\nf) Apreciar e informar os requerimentos e reclamações relativos ao sector dos transportes aéreos, bem como os relacionados com os aeroportos e aeródromos da Região;\n\ng) Propor e dar parecer sobre as tarifas e taxas dos transportes aéreos na Região, bem como controlar a aplicação das normas em vigor na matéria;\n\nh) Acompanhar o cumprimento da legislação aplicável ao transporte aéreo e promover a aplicação das normas legais respeitantes ao sector;\n\ni) Colaborar na preparação dos processos de concessão de exploração do transporte aéreo regular de passageiros interilhas e de infra-estruturas aeroportuárias;\n\nj) Preparar e tratar estatísticas específicas sectoriais necessárias à integração e caracterização do sector dos transportes aéreos;\n\nk) Propor candidaturas aos fundos comunitários na área dos transportes aéreos e acompanhar a sua execução;\n\nl) Propor medidas de planeamento para o sector dos transportes aéreos;\n\nm) Assegurar a execução e o acompanhamento das acções, projectos e programas na área dos transportes aéreos;\n\nn) Preparar, em colaboração com os demais órgãos internos e externos, o plano anual, os planos plurianuais e os relatórios de actividades, na parte que respeita aos transportes aéreos;\n\no) Executar as demais acções que superiormente lhe sejam cometidas.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  },
+  "166764201": {
+   "fragment_id": "166753116",
+   "type": 11,
+   "heading": "Artigo 52.º — Divisão dos Transportes Marítimos",
+   "in_force_from": "2021-07-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+   ],
+   "markdown": "###### Artigo 52.º — Divisão dos Transportes Marítimos\n\nCompete à Divisão dos Transportes Marítimos:\n\na) Proceder aos estudos necessários à conveniente elaboração e execução dos projectos de infra-estruturas portuárias;\n\nb) Acompanhar a execução física e financeira das obras do sector dos transportes marítimos;\n\nc) Acompanhar a exploração dos portos sob a jurisdição das entidades de gestão portuária;\n\nd) Dar parecer sobre as tarifas e fretes dos transportes marítimos na Região, bem como controlar a aplicação das normas em vigor na matéria;\n\ne) Acompanhar a fiscalização da exploração de embarcações que operem na Região;\n\nf) Colaborar na preparação dos processos de concessão para a exploração do transporte marítimo de passageiros interilhas;\n\ng) Organizar e efectuar a actualização do cadastro dos proprietários, armadores e afretadores, bem como dos agentes de navegação sediados na Região;\n\nh) Apreciar e informar os requerimentos e reclamações relativos ao sector dos transportes marítimos;\n\ni) Aplicar as normas legais respeitantes ao acesso e exercício da actividade de prestação de trabalho portuário;\n\nj) Preparar e tratar estatísticas específicas sectoriais necessárias à integração e caracterização do sector dos transportes marítimos;\n\nk) Propor candidaturas aos fundos comunitários na área dos transportes marítimos e acompanhar a sua execução;\n\nl) Propor medidas de planeamento para os sectores dos transportes marítimos;\n\nm) Assegurar a execução e o acompanhamento das acções, projectos e programas na área dos transportes marítimos;\n\nn) Preparar, em colaboração com os demais órgãos internos e externos, o plano anual, os planos plurianuais e os planos e relatórios de actividades, na parte que respeita aos transportes marítimos;\n\no) Executar as demais acções que superiormente lhe sejam atribuídas.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto Regulamentar Regional n.º 18/2021/A - Diário da República n.º 131/2021, Série I de 2021-07-08](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-2021-166658190), em vigor a partir de 2021-07-09"
+  }
+ }
+}

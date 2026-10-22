@@ -1,0 +1,386 @@
+---
+schema_version: '1.0'
+id: eu:celex:31998L0093:por
+title: Directiva 98/93/CE do Conselho de 14 de Dezembro de 1998
+short_title: null
+summary: Directiva 98/93/CE do Conselho de 14 de Dezembro de 1998 que obriga os Estados-membros da CEE a manterem um nível
+  mínimo de existências de petróleo bruto e/ou de produtos petrolíferos
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1998/93
+official_date: null
+publication_date: '1998-12-31'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 358 de 31.12.1998
+  number: '358'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/6e09c8ce-1066-45da-accc-cf94ef167316.0011.02/DOC_1
+entry_into_force_dates:
+- '1998-12-31'
+end_of_validity_date: '2006-08-27'
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '1998-12-31'
+identifiers:
+  celex: 31998L0093
+  eli: http://data.europa.eu/eli/dir/1998/93/oj
+  oj: oj:JOL_1998_358_R_0100_023
+  dre: null
+  dre_path: null
+  internal: eu:celex:31998L0093:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31998L0093
+  metadata_url: http://publications.europa.eu/resource/cellar/6e09c8ce-1066-45da-accc-cf94ef167316.0011
+  content_url: http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01998L0093-19981231
+  retrieved_at: '2026-10-22T02:38:35Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-24T17:44:18.380+01:00'
+integrity:
+  source_sha256: 300d5aca554932f2118f9bd21497878a5bf88950465413cf592e158405a7a678
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:38:35Z'
+  notes: Texto consolidado 01998L0093-19981231.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- armazenagem de hidrocarbonetos
+- consumo de energia
+- existências mínimas
+- petróleo bruto
+- produto petrolífero
+- segurança de abastecimento
+relationships:
+- type: amends
+  target: celex:31968L0414
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2cb8ce18-ff8c-4cf2-8708-9a43206a10f9
+  date: '1968-12-23'
+- type: based_on
+  target: celex:11992E103A
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9e3ee02b-0dcd-477f-9423-07f455ec1c72
+  date: '1992-08-31'
+- type: cited_by
+  target: pt:dre:114315242:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:211032:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:232368:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:337859:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:344926:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:347541:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:421437:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:483938:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:572467:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:572468:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:640931:por
+  label: null
+  source: null
+- type: cites
+  target: celex:11992E003B
+  label: null
+  source: http://publications.europa.eu/resource/cellar/629e9d70-0eab-4690-9cdb-269d6aa1c9b1
+- type: cites
+  target: celex:31973L0238
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6ab01742-9d62-4233-a827-a25e787ac00a
+- type: corrected_by
+  target: celex:31998L0093R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7afe68e0-0b4e-406d-a23d-1f796ffa59e2
+  date: '2006-04-28'
+- type: corrected_by
+  target: celex:31998L0093R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/49faa2b7-49de-4092-8a63-29d1a6577ee9
+  date: '2006-04-28'
+- type: interpreted_by
+  target: celex:62010CJ0145
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8db4b6e8-78cf-4b96-b997-9c8d338f8863
+  date: '2011-12-07'
+- type: repealed_by
+  target: celex:32006L0067
+  label: null
+  source: http://publications.europa.eu/resource/cellar/4583b0cf-1523-436b-a775-1fdb8b929e04
+  date: '2006-08-09'
+- type: repeals
+  target: celex:31972L0425
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e3a0f320-bd6f-49fd-8775-8b2999ecce0f
+  date: '1972-12-28'
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:38:35Z'
+  warnings: []
+  errors: []
+---
+
+# Directiva 98/93/CE do Conselho de 14 de Dezembro de 1998
+
+> 1998L0093 — PT — 31.12.1998 — 000.001
+
+> Este documento constitui um instrumento de documentação e não vincula as instituições
+
+**Rectificado por:**
+
+- [►C1](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) — [Rectificação, JO L 113, 27.4.2006, p. 26 (98/93)](http://publications.europa.eu/resource/celex/31998L0093R%2801%29)
+
+## DIRECTIVA 98/93/CE DO CONSELHO
+
+de 14 de Dezembro de 1998
+
+que altera a Directiva 68/414/CEE, que obriga os Estados-Membros da CEE a manterem um nível mínimo de reservas de petróleo bruto e/ou de produtos petrolíferos
+
+O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia e, nomeadamente, o n.º 1 do artigo 103.ºA,
+
+Tendo em conta a proposta da Comissão ([^1^](http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1#E0001)),
+
+Tendo em conta o parecer do Parlamento Europeu ([^2^](http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1#E0002)),
+
+Tendo em conta o parecer do Comité Económico e Social ([^3^](http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1#E0003)),
+
+(1) Considerando que a Directiva 68/414/CEE do Conselho, de 20 de Dezembro de 1968, que obriga os Estados-membros da CEE a manterem um nível mínimo de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de petróleo bruto e/ou de produtos petrolíferos ([^4^](http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1#E0004));
+
+(2) Considerando que o petróleo bruto e os produtos petrolíferos continuam a desempenhar um importante papel no aprovisionamento da Comunidade em produtos energéticos; que qualquer dificuldade, mesmo temporária, que tenha por efeito a redução do abastecimento destes produtos, ou que aumente significativamente o respectivo preço nos mercados internacionais, poderá causar graves perturbações na actividade económica da Comunidade; que a Comunidade deve estar em condições de compensar, ou pelo menos de atenuar, quaisquer efeitos prejudiciais de tal eventualidade; que é necessário actualizar a Directiva 68/414/CEE, por forma a adaptá-la à realidade do mercado interno da Comunidade e à evolução dos mercados petrolíferos;
+
+(3) Considerando que, na Directiva 73/238/CEE ([^5^](http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1#E0005)), o Conselho determinou as medidas adequadas — incluindo a utilização das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de petróleo — a serem adoptadas em caso de dificuldades no aprovisionamento de petróleo bruto ou de produtos petrolíferos na Comunidade; que os Estados-membros assumiram obrigações similares no acordo relativo a um «Programa Internacional da Energia»;
+
+(4) Considerando que importa aumentar a segurança do aprovisionamento de petróleo;
+
+(5) Considerando que é necessário que as modalidades de organização das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de petróleo não prejudiquem o bom funcionamento do mercado interno;
+
+(6) Considerando que as disposições da presente directiva não afectam a plena aplicação do Tratado, em especial das disposições relativas ao mercado interno e à concorrência;
+
+(7) Considerando que, no respeito do princípio da subsidiariedade e de acordo com o princípio da proporcionalidade, tal como estabelecido no artigo 3.ºB do Tratado, o objectivo de manutenção de um elevado nível de segurança no aprovisionamento de petróleo na Comunidade, através de mecanismos fiáveis e transparentes baseados na solidariedade entre Estados-membros, e assegurando, simultaneamente, o cumprimento das regras do mercado interno e da concorrência, pode ser atingido de forma mais adequada a nível da Comunidade; que a presente directiva não excede o necessário para a prossecução desse objectivo;
+
+(8) Considerando que é necessário que as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** se encontrem ao dispor dos Estados-membros caso surjam dificuldades no aprovisionamento de petróleo; que os Estados-membros deverão dispor de competências e de capacidade para controlar a utilização das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**, de forma a que estas possam ser disponibilizadas prontamente para benefício das regiões que mais necessitem de aprovisionamento de petróleo;
+
+(9) Considerando que as modalidades de organização das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** deverão garantir a disponibilidade destas e a sua acessibilidade ao consumidor;
+
+(10) Considerando que é necessário que as modalidades de organização das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** sejam transparentes, garantindo uma partilha justa e não discriminatória dos encargos decorrentes da obrigação de armazenagem; que, assim sendo, as informações sobre os encargos da manutenção de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de petróleo podem ser transmitidas pelos Estados-membros às partes interessadas;
+
+(11) Considerando que, a fim de organizar a manutenção das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**, os Estados-membros podem recorrer a um sistema baseado numa entidade ou organismo de armazenagem, que manterá, na totalidade ou em parte, as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** que constituírem a sua obrigação; que o saldo, caso exista, deve ser mantido pelos refinadores e outros operadores do mercado; que a parceria entre o Governo e a indústria é essencial para um funcionamento eficaz e fiável dos mecanismos de armazenagem;
+
+(12) Considerando que uma produção interna contribui, em si própria, para a segurança do aprovisionamento; que a evolução do mercado do petróleo pode justificar uma derrogação adequada da obrigação de armazenagem de petróleo relativamente aos Estados-membros com produção interna de petróleo; que, segundo o princípio da subsidiariedade, os Estados-membros podem dispensar as empresas de manter [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** em relação a um nível não superior à quantidade de produtos fabricados por essas empresas a partir do petróleo bruto extraído do solo do Estado-membro em causa;
+
+(13) Considerando que é oportuno adoptar as abordagens já seguidas pela Comunidade e Estados-membros no âmbito das suas obrigações e acordos internacionais; que, devido a alterações no padrão de consumo de petróleo, as bancas para a aviação internacional se tornaram um componente importante deste consumo;
+
+(14) Considerando que é necessário adaptar e simplificar o mecanismo comunitário de comunicação de dados estatísticos relativos a [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de petróleo;
+
+(15) Considerando que, em princípio, as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de petróleo podem ser armazenadas em qualquer ponto da Comunidade e que é, pois, adequado facilitar o estabelecimento de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** fora do território nacional; que é necessário que as decisões de manutenção de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** fora do território nacional sejam tomadas pelo governo do Estado-membro em causa, de acordo com as suas necessidades e opções relativas à segurança do aprovisionamento; que, no caso das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** postas à disposição de outra empresa, organismo ou entidade, são necessárias regras mais pormenorizadas que garantam a sua disponibilidade e acessibilidade em caso de dificuldades de aprovisionamento de petróleo;
+
+(16) Considerando que, para garantir o bom funcionamento do mercado interno, é conveniente incentivar a celebracão de acordos entre Estados-membros em matéria de manutenção de um nível mínimo de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**, a fim de promover a utilização de instalações de armazenamento noutros Estados-membros; que a decisão de celebrar um acordo neste sentido deverá ser tomada pelos Estados-membros em causa;
+
+(17) Considerando que convém reforçar a supervisão administrativa das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** e estabelecer mecanismos eficazes de controlo e verificação das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**; que é necessário um regime de sanções para a imposição desse controlo;
+
+(18) Considerando que a Directiva 72/425/CEE aumentou de 65 para 90 dias o período de referência que consta do primeiro parágrafo do artigo 1.º da Directiva 68/414/CEE e determinou as condições de aplicação desse aumento; que a presente directiva tornou obsoletas as disposições da referida directiva; que a Directiva 72/425/CEE deve, por isso, ser revogada;
+
+(19) Considerando que é necessário manter o Conselho regularmente informado da situação relativa às [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de segurança na Comunidade,
+
+ADOPTOU A PRESENTE DIRECTIVA:
+
+###### Artigo 1.º
+
+A Directiva 68/414/CEE é alterada do seguinte modo:
+
+1. O artigo 1.º passa a ter a seguinte redacção:
+
+1. Os Estados-membros adoptarão todas as disposições legislativas, regulamentares e administrativas adequadas para manter em toda a Comunidade, de forma permanente e sob reserva do disposto no artigo 7.º, um nível de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de produtos petrolíferos equivalente a, pelo menos, 90 dias do consumo interno diário médio durante o ano civil anterior mencionado no artigo 4.º, para cada uma das categorias de produtos petrolíferos mencionadas no artigo 2.º
+
+2. A parte do consumo interno satisfeita por produtos derivados do petróleo extraído do solo do Estado-membro em causa poderá ser deduzida até ao limite máximo de 25 % do dito consumo. A distribuição, dentro de cada Estado-membro, do resultado dessa dedução será decidida pelo Estado-membro interessado.»
+
+2. É revogado o artigo 2.º
+
+3. O artigo 3.º passa a ser o artigo 2.º e é aditado o seguinte parágrafo:
+
+«As bancas para a navegação marítima não serão incluídas no cálculo do consumo interno.»
+
+4. É aditado o seguinte artigo:
+
+1. As [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** mantidas de acordo com o artigo 1.º deverão estar integralmente ao dispor dos Estados-membros em caso de dificuldades no aprovisionamento de petróleo. Os Estados-membros dotar-se-ão dos poderes legais necessárias para controlar a utilização das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** nessas circunstâncias.
+
+Os Estados-membros garantirão, em todas as outras circunstâncias, a disponibilidade e acessibilidade dessas [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** e estabelecerão medidas que permitam a identificação, a contabilização e o controlo das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**.
+
+2. Os Estados-membros garantirão a aplicação de condições justas e não discriminatórias em todas as suas disposições relativas à manutenção de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**.
+
+Os encargos resultantes da manutenção de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de acordo com as disposições do artigo 1.º serão identificadas de forma transparente. Neste contexto, os Estados-membros poderão adoptar as medidas necessárias para obter as informações pertinentes sobre os encargos da manutenção de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de acordo com as disposições do artigo 1.º e para que essas informações sejam transmitidas às partes interessadas.
+
+3. A fim de satisfazer os requisitos constantes dos n.^os^ 1 e 2, os Estados-membros podem decidir recorrer a um organismo ou entidade de armazenagem, que será responsável pela manutenção da totalidade ou de parte das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**.
+
+Dois ou mais Estados-membros podem decidir recorrer a um organismo ou entidade de armazenagem comum. Nesse caso, ficam solidariamente responsáveis pelo cumprimento das obrigações decorrentes da presente directiva.»
+
+5. O artigo 4.º passa a ter a seguinte redacção:
+
+Os Estados-membros comunicarão à Comissão uma relação estatística das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** disponíveis no final de cada mês, elaborada de acordo com os artigos 5.º e 6.º, mencionando o número de dias de consumo médio do ano civil anterior que essas [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** representam. Esta comunicação será efectuada, o mais tardar, até ao 25.º dia do segundo mês seguinte àquele a que diz respeito.
+
+A obrigação de armazenagem de cada Estado-membro será calculada com base nas estatísticas de consumo interno relativas ao ano civil anterior. No início de cada ano civil, os Estados-membros deverão proceder a um novo cálculo da sua obrigação de armazenagem o mais tardar até 31 de Março, e assegurar o cumprimento dos novos valores com a possível brevidade e, de qualquer modo, o mais tardar até 31 de Julho do mesmo ano.
+
+Na relação estatística, as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de combustível para motores de reacção, do tipo querosene, serão apresentadas separadamente na categoria II.»
+
+6. O artigo 5.º passa a ter a seguinte redacção:
+
+As [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** requeridas pelo artigo 1.º podem ser mantidas sob a forma de petróleo bruto e de produtos intermédios, bem como sob a forma de produtos acabados.
+
+Na relação estatística das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** prevista no artigo 4.º, os produtos acabados serão contados segundo a sua tonelagem real; o petróleo bruto e os produtos intermédios serão tomados em conta:
+
+— quer na proporção das quantidades de cada uma das categorias de produtos obtidas ao longo do ano civil anterior nas refinarias do Estado em causa,
+
+— quer com base nos programas de produção das refinarias do Estado em causa para o ano em curso,
+
+— quer a partir da relação existente entre a quantidade total dos produtos sujeitos à obrigação de armazenagem que tenham sido fabricados ao longo do ano civil anterior no Estado em causa e a quantidade total de petróleo bruto utilizada durante o mesmo ano; tal relação só poderá ser aplicada até ao limite de 40 % da obrigação total para a 1.ª e 2.ª categorias (gasolinas e gasóleos) e de 50 % para a 3.ª categoria (fuelóleos).
+
+Os produtos para misturas, quando destinados ao fabrico dos produtos acabados mencionados no artigo 2.º, podem substituir os produtos para os quais são destinados.»
+
+7. O artigo 6.º é alterado do seguinte modo:
+
+a) O n.º 1 passa a ter a seguinte redacção:
+
+«1. Para o cálculo do nível mínimo de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** previsto no artigo 1.º, só serão incluídas na relação estatística as quantidades mantidas nos termos do n.º 1 do artigo 3.^o»^
+
+b) O n.º 2 passa a ter a seguinte redacção:
+
+«2. Para efeitos da presente directiva, poderão ser constituídas [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** no território de um Estado-membro por conta de empresas, organismos ou entidades estabelecidos num outro Estado-membro, no âmbito de acordos intergovernamentais. Compete ao Governo do Estado-membro em causa decidir se armazena uma parte das suas [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** fora do território nacional.
+
+Nesse caso, o Estado-membro em cujo território essas [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** são armazenadas, no âmbito de um acordo desse tipo, não se poderá opor ao seu transporte para os outros Estados-membros por conta dos quais são mantidas as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** ao abrigo desse acordo; esse Estado-membro procederá à verificação dessas [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de acordo com os procedimentos especificados no acordo, mas não as incluirá na sua relação estatística. O Estado-membro por conta do qual são mantidas essas [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** pode incluí-las na sua relação estatística.
+
+Nesse caso, cada Estado-membro enviará à Comissão, juntamente com a relação estatística prevista no artigo 4.º, um relatório sobre as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** mantidas no seu próprio território por conta de outro Estado-membro, bem como sobre as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** mantidas em outros Estados-membros por sua própria conta. Em ambos os casos serão indicados no relatório os locais de armazenagem e/ou as companhias que mantêm as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**, a quantidade e a categoria do produto — ou petróleo bruto — armazenado.
+
+Os projectos de acordos mencionados no primeiro parágrafo serão comunicados à Comissão, que pode dirigir as suas observações aos Governos em causa. Os acordos, uma vez concluídos, serão comunicados à Comissão, que os dará a conhecer aos outros Estados-membros.
+
+Os acordos devem satisfazer as seguintes condições:
+
+— referir-se ao petróleo bruto e a todos os produtos petrolíferos abrangidos pela presente directiva,
+
+— estabelecer condições e modalidades para a manutenção de [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** com o objectivo de garantir o controlo e a disponibilidade dessas [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**,
+
+— indicar o processo utilizado para assegurar o controlo e a identificação das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** previstas, nomeadamente os métodos para efectuar ou colaborar em inspecções,
+
+— ser celebrados, regra geral, por um período ilimitado,
+
+— indicar que, no caso de ser prevista uma possibilidade de rescisão unilateral, esta não será válida em caso de crise de aprovisionamento e que, em qualquer circunstância, a Comissão será previamente informada de qualquer rescisão.
+
+Caso as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** constituídas ao abrigo desses acordos não sejam propriedade da empresa, do organismo ou da entidade sujeitos à obrigação de armazenagem, mas sejam postas à disposição dessa empresa, desse organismo ou dessa entidade por outra empresa, organismo ou entidade, devem ser satisfeitas as seguintes condições:
+
+— a empresa, o organismo ou a entidade beneficiários devem dispor do direito contratual de adquirir essas [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** durante o período de vigência do contrato; o método para o estabelecimento do preço dessa aquisição deve ser acordado entre as partes em causa,
+
+— o período mínimo do contrato deve ser de 90 dias,
+
+— devem ser especificados o local de armazenagem e/ou as companhias que mantêm as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** à disposição da empresa, do organismo ou da entidade, assim como a quantidade e a categoria do produto — ou petróleo bruto — armazenado,
+
+— a possibilidade de acesso efectivo da empresa, do organismo ou da entidade beneficiários às [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** deve ser garantida em permanência durante a vigência do contrato, pela empresa, o organismo ou a entidade que mantém as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** à disposição da empresa, do organismo ou da entidade beneficiários,
+
+— a empresa, o organismo ou a entidade que mantém as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** à disposição da empresa, do organismo ou da entidade beneficiários deverá estar sujeita à jurisdição do Estado-membro em cujo território estão armazenadas, na parte que diz respeito aos poderes legais desse Estado-membro para controlar e verificar as [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**.»
+
+c) O segundo parágrafo do n.º 3 passa a ter a seguinte redacção:
+
+«Em consequência, serão excluídos da relação estatística, nomeadamente o petróleo bruto que se encontra em jazidas, as quantidades destinadas a bancas para a navegação marítima, as quantidades em trânsito directo, com excepção das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** referidas no n.º 2, as quantidades que se encontrem nos oleodutos, nos camiões-cisterna e nos vagões-cisterna, nos reservatórios dos pontos de venda e dos pequenos consumidores. Serão, além disso, excluídas da relação estatística as quantidades detidas pelas forças armadas e as que são detidas por conta das forças armadas pelas companhias petrolíferas.»
+
+8. É aditado o seguinte artigo:
+
+Os Estados-membros adoptarão todas as disposições e medidas necessárias para garantir o controlo e a supervisão das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**. Os Estados-membros criarão mecanismos para proceder à verificação das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** de acordo com as disposições da presente directiva.»
+
+9. É aditado o seguinte artigo:
+
+Os Estados-membros determinarão as sanções aplicáveis em caso de violação das disposições nacionais adoptadas por força da presente directiva e tomarão todas as medidas necessárias para garantir a execução dessas disposições. As sanções devem tem um carácter eficaz, proporcionado e dissuasivo.»
+
+###### Artigo 2.º
+
+A Directiva 72/425/CEE é revogada com efeitos a 31 de Dezembro de 1999.
+
+###### Artigo 3.º
+
+1. Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva até 1 de Janeiro de 2000. Do facto informarão imediatamente a Comissão.
+
+2. Quando os Estados-membros adoptarem essas disposições, estas incluirão uma referência à presente directiva ou serão acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência serão determinadas pelos Estados-membros.
+
+###### Artigo 4.º
+
+Devido às suas características específicas, será concedido à República Helénica um prazo de três anos, não renováveis, para aplicar as obrigações decorrentes da presente directiva no que respeita à inclusão de bancas para a navegação aérea no cálculo do consumo interno.
+
+###### Artigo 5.º
+
+A Comissão apresentará regularmente ao Conselho um relatório sobre a situação das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄** na Comunidade e, se for esse o caso, sobre a necessidade de harmonização, para assegurar um controlo e supervisão eficazes das [**►C1**](http://publications.europa.eu/resource/celex/31998L0093R%2801%29) reservas**◄**. O primeiro relatório será apresentado ao Conselho durante o segundo ano seguinte à data fixada no n.º 1 do artigo 3.º
+
+###### Artigo 6.º
+
+A presente directiva entra em vigor na data da sua publicação no *Jornal Oficial das Comunidades Europeias*.
+
+###### Artigo 7.º
+
+Os Estados-membros são destinatários da presente directiva.
+
+---
+
+## Notas
+
+> ([^1^](http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1#src.E0001)) JO C 160 de 27. 5. 1998, p. 18.
+
+> ([^2^](http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1#src.E0002)) JO C 359 de 23. 11. 1998.
+
+> ([^3^](http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1#src.E0003)) Parecer emitido em 10-11 de Setembro de 1998 (ainda não publicado no Jornal Oficial).
+
+> ([^4^](http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1#src.E0004)) JO L 308 de 23. 12. 1968, p. 14. Directiva alterada pela Directiva 72/425/CEE (JO L 291 de 28. 12. 1972, p. 154).
+
+> ([^5^](http://publications.europa.eu/resource/cellar/c3302517-6b7a-440c-9496-32544580b8c1.0002.03/DOC_1#src.E0005)) JO L 228 de 16. 8. 1973, p. 1.

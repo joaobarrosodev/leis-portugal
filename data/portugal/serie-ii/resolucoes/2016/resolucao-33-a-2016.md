@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:105283919:por
+title: Resolução n.º 33-A/2016
+short_title: null
+summary: Designa a presidente, a vice-presidente e um dos vogais do conselho de administração da Comissão do Mercado de Valores
+  Mobiliários
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 33-A/2016
+official_date: null
+publication_date: '2016-11-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/2016, 2º Suplemento, Série II de 2016-11-29
+  number: '229'
+  series: II
+  supplement: 2º Suplemento
+  pages: 35506-(8) a 35506-(9)
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/11/229000002/0000800009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '105283919'
+  dre_path: /dr/detalhe/resolucao/33-a-2016-105283919
+  internal: pt:dre:105283919:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/33-a-2016-105283919
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/33-a-2016-105283919
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2016-11-29T00:00:00Z'
+integrity:
+  source_sha256: da9174fdd173ee02dbb61bed5fbc2f20878873d623ba90a910cf9bed5e58dcf7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2016/DRE-2016-33-A-105283919.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 33-A/2016
+
+Nos termos do artigo 10.º dos Estatutos da Comissão do Mercado de Valores Mobiliários (CMVM), aprovados pelo [Decreto-Lei n.º 5/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2015-66108236), de 8 de janeiro, e dos n.os 3 a 8 do artigo 17.º da Lei-Quadro das Entidades Reguladoras, aprovada pela [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, o conselho de administração da CMVM é composto por um presidente, um vice-presidente e três vogais, designados por resolução do Conselho de Ministros, competindo a sua indicação ao membro do Governo responsável pela área das finanças, de entre pessoas com reconhecida idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções.
+
+A designação dos membros do conselho de administração da CMVM é precedida de audição da comissão competente da Assembleia da República, a pedido do Governo, acompanhado do parecer da Comissão de Recrutamento e Seleção para a Administração Pública relativo à adequação do perfil às funções a desempenhar, incluindo o cumprimento das regras de incompatibilidade e impedimentos aplicáveis.
+
+Tendo em consideração que o presidente e dois vogais em exercício de funções, nomeados pela [Resolução n.º 30/2010](https://diariodarepublica.pt/dr/detalhe/resolucao/30-2010-1666138), publicada no Diário da República, 2.ª série, n.º 220, de 12 de novembro, por um período de cinco anos, cessaram o seu mandato pelo decurso do respetivo prazo, e considerando ainda que se encontra vago um lugar de vogal, mostra-se necessário proceder à designação de novos membros do conselho de administração da CMVM.
+
+Em cumprimento do disposto no n.º 6 do artigo 17.º da Lei-Quadro das Entidades Reguladoras, aprovada pela [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, procede-se ao desfasamento do termo dos mandatos dos membros do conselho de administração da CMVM designados pela presente resolução.
+
+Nos termos do n.º 3 do artigo 17.º da Lei-Quadro das Entidades Reguladoras, aprovada pela [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, os designados foram ouvidos na Comissão de Orçamento, Finanças e Administração Pública da Assembleia da República, nos dias 19 e 20 de outubro de 2016, após parecer da Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as designações constantes da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 10.º e 11.º e do n.º 8 do artigo 16.º dos Estatutos da Comissão do Mercado de Valores Mobiliários, aprovados pelo [Decreto-Lei n.º 5/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2015-66108236), de 8 de janeiro, e dos n.os 3 a 8 do artigo 17.º da Lei-Quadro das Entidades Reguladoras, aprovada pela [Lei n.º 67/2013](https://diariodarepublica.pt/dr/detalhe/lei/67-2013-499499), de 28 de agosto, e da alínea e) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, por indicação do Ministro das Finanças, Maria Gabriela de Oliveira Figueiredo Dias de Castro Fernandes, Filomena Raquel da Rocha Rodrigues Pereira de Oliveira e Rui Miguel Correia Pinto, respetivamente, para os cargos de presidente, vice-presidente e vogal do conselho de administração da Comissão do Mercado de Valores Mobiliários, cuja idoneidade, competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções são evidenciadas nas notas curriculares que constam em anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Determinar que Maria Gabriela de Oliveira Figueiredo Dias de Castro Fernandes exerce o cargo de presidente até ao termo do mandato para o qual foi designada pela [Resolução n.º 36-A/2015](https://diariodarepublica.pt/dr/detalhe/resolucao/36-a-2015-67647952), publicada no Diário da República, 2.ª série, n.º 125, de 30 de junho.
+
+3 - Determinar que Filomena Raquel da Rocha Rodrigues Pereira de Oliveira exerce o cargo de vice-presidente, por um mandato de cinco anos e meio.
+
+4 - Determinar que Rui Miguel Correia Pinto exerce o cargo de vogal, por um mandato de seis anos, em comissão de serviço.
+
+5 - Determinar que a presente resolução produz efeitos a 1 de dezembro de 2016.
+
+24 de novembro de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+Notas curriculares
+
+Maria Gabriela de Oliveira Figueiredo Dias de Castro Fernandes
+
+Licenciada, Mestre em Direito e Doutoranda pela Faculdade de Direito da Universidade de Coimbra.
+
+Vice-presidente do conselho de administração da Comissão do Mercado de Valores Mobiliários (CMVM) desde 2015.
+
+Ingressou na CMVM em 2007, desempenhando cargos de direção desde 2008 e de assessora do conselho de administração desde 2013.
+
+Foi responsável pelos assuntos e relações internacionais, política regulatória e emitentes, mercados e informação financeira. Tem atualmente a responsabilidade direta da área internacional, política regulatória, supervisão de auditoria e apoio ao investidor. Representa a CMVM em diversos fora internacionais (ESMA, IOSCO e OECD), é Vice-Presidente do OECD Corporate Governance Committee e alternate do presidente do conselho de administração no Board of Supervisors da ESMA.
+
+Advogada desde 1992 (com a inscrição atualmente suspensa) e jurisconsulta durante vários anos em empresas e escritórios de advogados.
+
+Membro do European Corporate Governance Network. Membro da Comissão Jurídica do Instituto Português de Corporate Governance. Membro do Conselho Diretivo da AIDA Portugal - Secção portuguesa da Association Internationale de Droit des Assurances. Membro da Direção do Instituto de Direito Bancário, da Bolsa e dos Seguros.
+
+Frequência de programas de investigação (Saarbrucken Universität, London School of Economics, Columbia University, Brown University). Docente universitária do quadro da FDUC desde 2000. Leciona desde 1990 em diversas Universidades. Docente em diversos cursos de Pós-Graduação.
+
+Autora de diversas publicações na área do Direito Civil, Direito Comercial, Direito das Sociedades, Corporate Governance e Direito dos Valores Mobiliários. Oradora em diversos colóquios e seminários em instituições académicas, organizações profissionais e empresas.
+
+Filomena Raquel da Rocha Rodrigues Pereira de Oliveira
+
+Licenciada em Economia pela Universidade Nova de Lisboa (UNL).
+
+Presidente dos Conselhos de Administração da Caixagest - Caixa Gestão de Ativos, da FUNDGER - Sociedade Gestora de Fundos de Investimento Imobiliário, S. A., da CGD Pensões e da Comissão Executiva da Caixa Gestão de Activos, desde abril de 2015.
+
+Ingressou no Grupo Caixa Geral de Depósitos (CGD) em 1998, desempenhando cargos dirigentes na Direção de Mercados Financeiros, na Direção de Negócio Internacional e no Gabinete de Investor Relations.
+
+Foi Diretora-Geral Adjunta da Sucursal de França e Administradora não Executiva do Banco Caixa Geral Espanha e da CGD Finance, coordenadora da área de dívida do IGCP entre 1996 e 1998, subdiretora-geral e assessora da Direção-Geral do Tesouro (DGT) entre 1992 e 1996, e quadro do Banco de Portugal desde 1985.
+
+Participou nos trabalhos de obtenção de notação financeira da República Portuguesa em 1993. Participou na montagem de operações da República Portuguesa em mercados de capitais e nas emissões de dívida em moeda estrangeira realizadas entre 1993 e 1998. Coordenou o processo de redenominação para Euros da dívida portuguesa emitida em escudos. Participou na implementação e divulgação de novos instrumentos financeiros em Portugal, nomeadamente as Covered Bonds Portuguesas - Obrigações Hipotecárias e Obrigações do Setor Público. Participou nos trabalhos de implementação da plataforma de mercado secundário de dívida pública - MTS Portugal - onde assumiu funções de administradora em representação do Grupo CGD.
+
+Completou o programa escolar do Mestrado em Economia da Faculdade de Economia da UNL. Lecionou como assistente na Faculdade de Economia da UNL, no Instituto de Comunicação Empresarial e no Instituto Superior de Gestão.
+
+Participou como oradora em numerosas conferências na Europa, Ásia, Estados Unidos e Canadá.
+
+Rui Miguel Correia Pinto
+
+Licenciado em Administração e Gestão de Empresas pela Faculdade de Ciências Económicas e Empresariais da Universidade Católica Portuguesa e detentor da certificação CFA (Chartered Financial Analyst).
+
+Diretor Adjunto do Departamento de Supervisão Prudencial do Banco de Portugal desde 2014.
+
+Ingressou no Banco de Portugal em 2008, no Departamento de Supervisão Prudencial, tendo desempenhado cargos de chefia do Núcleo de Estudos e Análise e da Área de Supervisão Especializada. Participou em diversos grupos de trabalho internacionais na Comissão Europeia, na Autoridade Bancária Europeia e no Mecanismo Único de Supervisão. Foi membro do Steering Committee on Oversight and Practices da Autoridade Bancária Europeia e participou no High Level Group on Options and National Discretions do Mecanismo Único de Supervisão.
+
+Entre 2007 e 2008 desempenhou funções de analista de mercado acionista na equipa de Research do Grupo Santander. Anteriormente, e desde 2000, desempenhou funções de analista e gestor de fundos na Caixagest - Caixa Gestão de Ativos.
+
+Professor Auxiliar Convidado na Nova School of Business and Economics - Faculdade de Economia da Universidade Nova de Lisboa.

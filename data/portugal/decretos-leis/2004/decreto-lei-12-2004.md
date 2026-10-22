@@ -1,0 +1,1477 @@
+---
+schema_version: '1.0'
+id: pt:dre:241183:por
+title: Decreto-Lei n.º 12/2004
+short_title: null
+summary: Estabelece o regime jurídico de ingresso e permanência na actividade da construção
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Habitação
+proposing_entity: null
+official_number: 12/2004
+official_date: null
+publication_date: '2004-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/2004, Série I-A de 2004-01-09
+  number: '7'
+  series: I
+  supplement: null
+  pages: 113 - 126
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/01/007a00/01130126.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-07-03'
+version_history:
+  file: decreto-lei-12-2004.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2004-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-07-30'
+    amending: pt:dre:260915:por
+    amending_title: Declaração de Rectificação n.º 18-A/2008; Decreto-Lei n.º 18/2008
+    changes:
+    - Retifica Artigo 29.º
+    - Altera Artigo 24.º
+    - Altera Artigo 29.º
+    - Altera Artigo 37.º
+    - Entrada Vigor Diploma
+  - date: '2011-07-01'
+    amending: pt:dre:670018:por
+    amending_title: Decreto-Lei n.º 69/2011
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 22.º-A
+    - Adita Artigo 49.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º
+    - Altera Artigo 45.º
+    - Altera Artigo 49.º
+    - Altera Artigo 52.º
+    - Altera Artigo 54.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 47.º
+    - Revoga Artigo 56.º
+    - Revoga Artigo 57.º
+    - Revoga Artigo 58.º
+  - date: '2015-07-03'
+    amending: pt:dre:67377968:por
+    amending_title: Lei n.º 41/2015
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/12/2004/p/cons/20150603/pt/html
+  oj: null
+  dre: '241183'
+  dre_path: /dr/detalhe/decreto-lei/12-2004-241183
+  internal: pt:dre:241183:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2004-241183
+  metadata_url: https://data.dre.pt/eli/dec-lei/12/2004/p/cons/20150603/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34450875
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34450875
+  retrieved_at: '2026-10-22T11:42:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4cae36849851c3390c0a2b767fba8736c84117ed9bde17336b7328beeebb21b7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:42:37Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-12-2004.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alvará
+- Empresa
+- Classificação das Habilitações das Empresas de Construção Civil
+- Construção Civil
+- Empreitada de Obras Públicas
+- Empreiteiro de Obras Públicas
+- Empresário
+- Fiscalização
+- Imoppi
+- Obras Públicas
+- Regime Jurídico
+- Sanção
+- Taxa
+- Titulo de Registo
+relationships:
+- type: amended_by
+  target: pt:dre:248178:por
+  label: Retifica Artigo 29.º; Altera Artigo 24.º; Altera Artigo 29.º; Altera Artigo 37.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178
+  date: '2008-01-29'
+- type: amended_by
+  target: pt:dre:260915:por
+  label: Retifica Artigo 29.º; Altera Artigo 24.º; Altera Artigo 29.º; Altera Artigo 37.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-a-2008-260915
+  date: '2008-03-28'
+- type: amended_by
+  target: pt:dre:670018:por
+  label: Adita Artigo 6.º-A; Adita Artigo 22.º-A; Adita Artigo 49.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo
+    5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 14.º;
+    Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º;
+    Altera Artigo 22.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018
+  date: '2011-06-15'
+- type: amended_by
+  target: pt:dre:67377968:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968
+  date: '2015-06-03'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/396/1991/10/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/396/1991/10/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/59/1999/03/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/61/1999/03/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/61/1999/03/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/104/2001/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/104/2001/02/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1465/2002/11/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1465/2002/11/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1547/2002/12/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1547/2002/12/24/p/dre
+article_structure:
+  article_count: 61
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:42:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 12/2004
+
+Decreto-Lei n.º 12/2004
+
+de 9 de Janeiro
+
+Um dos aspectos mais relevantes para uma regulação eficaz da actividade da construção é o que se prende com a definição das regras de acesso e permanência na actividade.
+
+A regulação definida no Decreto-Lei n.º 100/88, de 23 de Março, vigorou durante cerca de 11 anos, até à entrada em vigor do Decreto-Lei n.º 61/99, de 2 de Março, que regulou o acesso e a permanência na actividade da construção nestes últimos anos.
+
+As opções seguidas neste último diploma vieram a traduzir-se, em qualquer das vertentes básicas da qualificação - idoneidade, capacidade técnica e capacidade económica e financeira -, em medidas que não atingiram nem um grau satisfatório de cumprimento nem os objectivos que terão sido perspectivados pelo legislador. Podem apontar-se, ao nível da manutenção na actividade, nomeadamente, a preocupante situação actual em matéria de quadros técnicos e a completa ineficácia do sistema de indicadores económico-financeiros em sede de reavaliação, para lá da tardia implementação de acções inspectivas às empresas qualificadas.
+
+Deste modo, impõe-se reequacionar as medidas concretas que, no plano instrumental, materializam os critérios de qualificação. Nesse sentido, foi assumida como prioritária a desburocratização do processo de qualificação, fazendo assentar a análise das empresas em informação sólida, de características estruturadas que potenciem a automatização que é indispensável para avançar no caminho da sociedade digital.
+
+Importante, também, é compreender como funciona o sector da construção, perceber o seu estádio actual e prever soluções que possam revelar-se mais resistentes à mudança, cada vez mais intensa, que caracteriza os dias de hoje.
+
+Da experiência recolhida nos últimos anos reteve-se como fundamental a necessidade de conceber soluções realistas, aplicáveis na prática e proporcionadas aos objectivos em vista.
+
+No presente diploma é assumida uma clara atitude de simplificação, que implica também uma responsabilização dos agentes que operam no mercado da construção, perspectivando também uma partilha de responsabilidades entre o Estado e as associações que representam as empresas de construção, sem que o primeiro abdique da sua função de regulador.
+
+Nesta revisão legislativa tomou-se como objectivo essencial criar as condições para que o título habilitante para a actividade da construção passe a oferecer a credibilidade que o coloque como documento bastante para atestar a capacidade das empresas para o exercício da actividade.
+
+O documento habilitante para o exercício da actividade da construção volta a ser formalmente designado por alvará, por respeito com a tradição e com a própria história. Com efeito, o termo alvará data já de 1371, por altura das Cortes de Lisboa, querendo desde então significar todo o tipo de titulação em que se enquadra a que é actualmente emitida pelo Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário para o exercício da actividade da construção.
+
+Foram também mantidas as tradicionais designações de empreiteiro e de construtor, relativas às empresas que operam em diferentes segmentos do mercado da construção, no respeito por uma cultura sectorial que importa preservar.
+
+De entre as medidas de simplificação que este diploma propicia, salientam-se as seguintes:
+
+Criação de um título habilitante único, reunindo os actuais certificados de empreiteiro de obras públicas (EOP) e de industrial de construção civil (ICC);
+
+Redução do número muito alargado de tipos de trabalhos em que as empresas se podem qualificar, numa solução mais adequada à realidade do sector;
+
+Aceitação de quadros técnicos provindos dos sistemas nacionais de aprendizagem e de certificação profissional, e não apenas da via formal de ensino, para as classes de obras de mais baixo valor, desde que o conhecimento detido seja adequado aos tipos de trabalhos pretendidos;
+
+Acréscimo de exigência em matéria de quadros técnicos para as empresas classificadas nas classes mais elevadas, com a inclusão de profissionais afectos à gestão da segurança e higiene no trabalho, promovendo desde já o combate à sinistralidade laboral no segmento de trabalhos de maior envergadura e com relações de coordenação mais complexas;
+
+Extinção programada das relações múltiplas entre técnicos e empresas de construção;
+
+Estabelecimento de exigências e avaliação dos efectivos de pessoal em função das classes de valor das obras e segundo os grupos de remuneração contratual;
+
+Manutenção do regime de revalidação anual, baseado, no essencial, na declaração fiscal das empresas, recorrendo a diversos indicadores extraíveis desse documento, na perspectiva de utilização de informação estruturada potenciadora de uma automatização indispensável;
+
+Estabelecimento de um regime probatório para as novas empresas entradas no sistema de qualificação, como forma de ajustar as habilitações inicialmente concedidas ao desempenho entretanto demonstrado;
+
+Reequacionamento da função de empreiteiro geral e construtor geral e das suas regras de classificação, suprimindo a figura nos casos em que se revelou dispensável e enriquecendo-a com novas hipóteses nos casos que aconselham à sua diversificação, tendo em conta, designadamente, os diversos tipos de soluções construtivas;
+
+Revisão da tramitação dos procedimentos, por forma a agilizar os prazos envolvidos.
+
+Foram ouvidas, em consultas regulares ao longo da elaboração deste diploma, as associações mais representativas do sector, bem como a Associação Nacional de Municípios Portugueses e os principais donos de obras públicas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 7.º, Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018) Onde se lê «Instituto dos Mercados de Obras Públicas e Particulares e do Imobiliário (IMOPPI)» deve ler -se «Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.)», onde se lê «conselho de administração» e «presidente do conselho de administração» deve ler -se «conselho directivo» e «presidente do conselho directivo», respectivamente, onde se lê «Ministro das Obras Públicas, Transportes e Habitação» deve ler -se «membro do Governo responsável pelo sector da construção» e onde se lê «conselho geral» deve ler -se «conselho consultivo»].
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+#### Secção I — Do âmbito e objecto da actividade
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 1.º — Âmbito
+
+O presente diploma estabelece o regime jurídico aplicável ao exercício da actividade da construção.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 2.º — Objecto da actividade
+
+Para efeitos do presente diploma, considera-se que a actividade da construção é aquela que tem por objecto a realização de obra, englobando todo o conjunto de actos que sejam necessários à sua concretização.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+a) «Obra» todo o trabalho de construção, reconstrução, ampliação, alteração, reparação, conservação, reabilitação, limpeza, restauro e demolição de bens imóveis, bem como qualquer outro trabalho que envolva processo construtivo;
+
+b) 'Empreiteiro', 'construtor' ou 'empresa' a pessoa singular ou colectiva que, nos termos do presente diploma, se encontre habilitada a exercer a actividade da construção;
+
+c) «Categoria» a designação que relaciona um conjunto de subcategorias;
+
+d) «Subcategoria» a designação de uma obra ou trabalho especializado no âmbito de uma categoria;
+
+e) «Subcategorias determinantes» as que permitem a classificação em empreiteiro geral ou construtor geral;
+
+f) «Empreiteiro geral ou construtor geral» a empresa que, sendo detentora das subcategorias consideradas determinantes, demonstre capacidade de gestão e coordenação para assumir a responsabilidade pela execução de toda a obra;
+
+g) «Classe» o escalão de valores das obras que, em cada tipo de trabalhos, as empresas estão autorizadas a executar;
+
+h) «Habilitação» a qualificação em subcategoria de qualquer categoria ou em empreiteiro geral ou construtor geral, numa determinada classe;
+
+i) 'Título de registo' a autorização, emitida em suporte electrónico e comprovável mediante consulta na página electrónica do Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.), acessível através do Portal do Cidadão e do Portal da Empresa, que habilita a empresa a realizar determinados trabalhos, nele elencados, quando o valor dos mesmos não exceda o limite para o efeito previsto no presente diploma;
+
+j) 'Alvará' a autorização, emitida em suporte electrónico e comprovável mediante consulta na página electrónica do InCI, I. P., acessível através do Portal do Cidadão e do Portal da Empresa, que relaciona todas as habilitações detidas por uma empresa;
+
+l) «Declaração de execução de obra» o documento, em modelo próprio, que comprova a realização de uma obra, confirmada por dono de obra, entidade licenciadora ou empresa contratante, conforme o caso.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 4.º — Alvará
+
+1 - Sem prejuízo do disposto no n.º 1 do artigo 6.º e no artigo 6.º-A, o exercício da actividade da construção depende de alvará a conceder pelo InCI, I. P., ficando o seu titular autorizado a executar os trabalhos enquadráveis nas habilitações no mesmo relacionadas.
+
+2 - O alvará é intransmissível, a qualquer título e para qualquer efeito.
+
+3 - Podem ser classificadas pelo InCI, I. P., para exercer a actividade de construção, as pessoas singulares ou colectivas cujo domicílio ou sede se situe em qualquer Estado do espaço económico europeu e, sendo pessoa colectiva, que tenha sido constituída ao abrigo da lei de qualquer desses Estados.
+
+4 - As habilitações referidas no n.º 1 constam de portaria do Ministro das Obras Públicas, Transportes e Habitação.
+
+5 - O Ministro das Obras Públicas, Transportes e Habitação, sob proposta do IMOPPI, fixará igualmente, por portaria a publicar anualmente até 31 de Outubro, para vigorar durante 12 meses a partir de 1 de Fevereiro do ano seguinte, a correspondência entre as classes referidas na alínea g) do artigo 3.º do presente diploma e os valores das obras.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 5.º — Validade do alvará
+
+O alvará é válido por um período máximo de um ano, caducando no dia 31 de Janeiro se não for revalidado nos termos do artigo 19.º
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 6.º — Título de registo
+
+1 - Quando a natureza dos trabalhos se enquadre nas subcategorias previstas na portaria referida no n.º 5 do presente artigo e o seu valor não ultrapasse 10% do limite fixado para a classe 1, a execução dos mesmos pode ser efectuada por detentor de título de registo, a conceder pelo IMOPPI.
+
+2 - O título de registo é intransmissível, a qualquer título e para qualquer efeito.
+
+3 - Podem ser detentoras de título de registo as pessoas singulares ou colectivas cujo domicílio ou sede se situe em qualquer Estado do espaço económico europeu e, sendo pessoas colectivas, que tenham sido constituídas ao abrigo da lei de qualquer desses Estados.
+
+4 - Os títulos de registo são válidos por um período de cinco anos e revalidados por idênticos períodos.
+
+5 - A concessão e a revalidação do título de registo são regulamentadas por portaria do Ministro das Obras Públicas, Transportes e Habitação.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 6.º-A — Prestadores estabelecidos noutros Estados membros da União Europeia
+
+1 - Quando não configurem o exercício efectivo de actividade, na acepção do n.º 2 do artigo 4.º do Decreto-Lei n.º 92/2010, de 26 de Julho, podem ser prestados serviços de construção em território nacional por prestadores legalmente estabelecidos noutros Estados membros da União Europeia, desde que estes cumpram, por razões de segurança pública, os requisitos exigíveis no presente diploma, quanto ao número mínimo de pessoal técnico e ao capital próprio, para a classe e categoria em que se enquadra a obra pretendida, bem como à detenção de seguro de acidentes de trabalho, válido e aplicável.
+
+2 - Para efeitos de verificação do preenchimento dos requisitos referidos no número anterior, o prestador deve apresentar junto do InCI, I. P., antes da realização de cada serviço de construção em território nacional:
+
+a) Declaração descrevendo esse mesmo serviço, de acordo com o elenco legal de habilitações;
+
+b) Cópia do título de autorização para o exercício da actividade, emitido pela autoridade competente do Estado membro de estabelecimento ou, no caso de tal título não ser suficiente ou não ser exigível, de quaisquer outros documentos que comprovem o preenchimento dos requisitos.
+
+3 - Verificado o preenchimento dos requisitos, o que deve ocorrer no prazo de 20 dias, o InCI, I. P., emite uma guia para pagamento da taxa devida pelo procedimento, indicando os serviços a prestar de acordo com o elenco legal de habilitações.
+
+4 - O InCI, I. P., procede automaticamente ao registo do prestador e da prestação de serviços na respectiva página electrónica, acessível através do Portal do Cidadão e do Portal da Empresa, assim que se verifique o pagamento da taxa devida.
+
+5 - É proibida a prestação dos serviços em causa sem a efectivação do registo referido no número anterior.
+
+6 - A apresentação dos elementos a que se refere o n.º 2 é realizada através dos meios indicados no n.º 1 do artigo 21.º, sendo ainda aplicável ao previsto no presente artigo o disposto nos n.os 6 a 11 do artigo 21.º, com as devidas adaptações.
+
+7 - Para efeitos do disposto no presente artigo, os prestadores ficam sujeitos às condições de exercício da actividade previstas na lei durante todo o tempo em que se encontrem a prestar serviços em território nacional e, depois disso, somente quanto a factos relacionados com o serviço prestado.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+#### Secção II — Dos alvarás
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 7.º — Requisitos de ingresso e permanência
+
+A concessão e a manutenção de habilitações dependem do preenchimento cumulativo dos seguintes requisitos:
+
+a) Idoneidade;
+
+b) Capacidade técnica;
+
+c) Capacidade económica e financeira.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 8.º — Idoneidade
+
+1 - As pessoas singulares ou colectivas, requerentes ou titulares de alvará, bem como os seus representantes legais, devem possuir idoneidade comercial.
+
+2 - Para efeitos do disposto no número anterior, não são considerados comercialmente idóneos as pessoas singulares e os representantes legais de pessoas colectivas que tenham sido condenados, por decisão transitada em julgado, em pena de prisão, não suspensa, por qualquer dos seguintes crimes:
+
+a) Ameaça, coacção, sequestro, rapto ou escravidão;
+
+b) Burla ou burla relativa a trabalho ou emprego;
+
+c) Insolvência dolosa, insolvência negligente, favorecimento de credores ou perturbação de arrematações;
+
+d) Falsificação de documento, quando praticado no âmbito da actividade da construção;
+
+e) Incêndios, explosões e outras condutas especialmente perigosas, danos contra a natureza ou poluição;
+
+f) Infracção de regras de construção, dano em instalações e perturbação de serviços;
+
+g) Associação criminosa;
+
+h) Tráfico de influência;
+
+i) Desobediência, quando praticado no âmbito da actividade da construção;
+
+j) Corrupção activa;
+
+l) Tráfico de estupefacientes e de substâncias psicotrópicas;
+
+m) Fraude na obtenção de subsídio ou subvenção, desvio de subvenção, subsídio ou crédito bonificado, fraude na obtenção de crédito, ofensa à reputação económica ou corrupção activa com prejuízo do comércio internacional;
+
+n) Emissão de cheque sem provisão;
+
+o) Concorrência desleal, contrafacção ou imitação e uso ilegal de marca, quando praticado no âmbito da actividade da construção;
+
+p) Crimes relativos a branqueamento de capitais;
+
+q) Crimes tributários.
+
+r) Crime por utilização indevida de trabalho de menor ou crime de desobediência por não cessação da actividade de menor.
+
+3 - Consideram-se, ainda, comercialmente não idóneos, as pessoas singulares e as pessoas colectivas e seus representantes legais, relativamente aos quais se verifique qualquer das seguintes situações:
+
+a) Terem sido proibidos do exercício do comércio ou da actividade da construção, durante o período em que a proibição vigore;
+
+b) (Revogada.)
+
+c) Terem sido objecto de três decisões condenatórias definitivas pela prática dolosa de ilícitos de mera ordenação social muito graves, previstos no presente diploma;
+
+d) (Revogada.)
+
+4 - Para efeitos do disposto na alínea c) do número anterior consideram-se, cumulativamente, as condenações de pessoa singular, a título individual ou na qualidade de representante legal de pessoa colectiva, e as condenações de pessoa colectiva de que aquela pessoa singular tenha sido representante legal.
+
+5 - As situações referidas na alínea c) do n.º 3 não relevam após o decurso do prazo de dois anos contados do cumprimento integral das obrigações decorrentes da última decisão aplicada.
+
+6 - Deixam de considerar-se idóneos:
+
+a) As pessoas singulares e os representantes legais de pessoas colectivas que venham a encontrar-se em qualquer das situações indicadas nos n.os 2 e 3;
+
+b) As pessoas colectivas que venham a encontrar-se em qualquer das situações indicadas no n.º 3, bem como aquelas cujos representantes legais sejam considerados não idóneos nos termos do presente artigo e não procedam à respectiva substituição no prazo máximo de 30 dias a contar do conhecimento do facto que determinou a perda de idoneidade.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 9.º — Capacidade técnica
+
+1 - A capacidade técnica é determinada em função da estrutura organizacional da empresa e da avaliação dos seus meios humanos e técnicos empregues na produção, na gestão de obra e na gestão da segurança, higiene e saúde no trabalho, bem como do seu currículo na actividade.
+
+2 - A estrutura organizacional é aferida em função:
+
+a) Da apreciação do seu organograma, distinguindo as diversas funções, nomeadamente as de direcção, administrativas, de produção e de gestão de obra e de gestão da segurança e da qualidade;
+
+b) Da experiência na execução de obras, do próprio ou, no caso de se tratar de sociedades, dos seus gerentes ou administradores, com referência ao valor e à importância das principais obras que executaram ou em que intervieram e a natureza da sua intervenção.
+
+3 - A avaliação dos meios humanos tem em conta:
+
+a) O número de técnicos na produção e os seus níveis de conhecimento, especialização e experiência profissional na actividade, bem como a sua disponibilidade para o exercício de funções na empresa;
+
+b) O número de profissionais afectos à gestão da segurança, higiene e saúde do trabalho, nos termos da legislação aplicável;
+
+c) (Revogada.)
+
+4 - As empresas devem dispor de um número mínimo de pessoal técnico na área da segurança e da produção, de acordo com o fixado em portaria do membro do Governo responsável pelo sector da construção.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 10.º — Capacidade económica e financeira
+
+1 - A capacidade económica e financeira das empresas é avaliada através de:
+
+a) Valores do capital próprio;
+
+b) Volume de negócios global e em obra;
+
+c) Equilíbrio financeiro, tendo em conta os indicadores de liquidez geral e autonomia financeira.
+
+2 - Só podem ser classificadas em classe superior à 1 as empresas que estejam em condições de comprovar capital próprio, volume de negócios em obra e equilíbrio financeiro nos termos do presente diploma.
+
+3 - Pode ainda ser complementada a análise da situação das empresas recorrendo a outra informação extraível da documentação fiscal anual, relacionada com os diversos aspectos da qualificação, que o IMOPPI poderá solicitar às autoridades competentes.
+
+4 - Em casos devidamente fundamentados, o IMOPPI pode exigir às empresas a realização de auditorias externas, quando se trate de empresas habilitadas para executar trabalhos nas três classes mais elevadas.
+
+5 - A definição e os valores de referência dos indicadores financeiros enunciados na alínea c) do n.º 1 do presente artigo são objecto de portaria do Ministro das Obras Públicas, Transportes e Habitação, mediante proposta do IMOPPI e depois de ouvido o conselho geral.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+### Capítulo II — Da habilitação
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+#### Secção I — Da classificação e reclassificação
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 11.º — Ingresso
+
+1 - Os interessados que requeiram o ingresso na actividade deverão comprovar:
+
+a) A idoneidade, nos termos do artigo 8.º;
+
+b) A capacidade técnica, nos termos do n.º 2, das alíneas a) e b) do n.º 3 e do n.º 4 do artigo 9.º, adequada à natureza e ao valor dos trabalhos para que pretende ser habilitada;
+
+c) A capacidade económica e financeira, nos termos da alínea a) do n.º 1 do artigo anterior, por um valor mínimo de capital próprio igual ou superior a 10% do valor limite da maior das classes solicitadas, excepto no que respeita à classe mais elevada prevista na portaria a que se refere o n.º 5 do artigo 4.º do presente diploma, caso em que o capital próprio deverá ser igual ou superior a 20% do valor limite da classe anterior.
+
+2 - O disposto na alínea c) do número anterior não é aplicável para o ingresso na classe 1, em que apenas é exigido que o requerente não tenha capital próprio negativo.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 12.º — Classificação em empreiteiro geral ou construtor geral
+
+1 - A classificação em empreiteiro geral ou construtor geral habilita o seu titular a subcontratar a execução de trabalhos enquadráveis nas subcategorias necessárias à concretização da obra, sendo responsável pela sua coordenação global, desde que:
+
+a) O valor total da obra não exceda o limite definido pela classe que detém;
+
+b) Os trabalhos subcontratados sejam executados por empresas devidamente habilitadas.
+
+2 - A classificação em empreiteiro geral ou construtor geral é concedida com base:
+
+a) Na classificação das subcategorias determinantes, podendo, no limite e em função da apreciação que resulte das alíneas seguintes, ser concedida até duas classes acima da classe mais elevada detida naquelas subcategorias;
+
+b) Na capacidade de coordenação, avaliada pela experiência profissional detida pelo empresário ou pelos representantes legais da sociedade e pelos seus técnicos em funções de gestão e coordenação de obras;
+
+c) No pessoal exigido pela portaria referida no n.º 4 do artigo 9.º
+
+3 - A classificação em empreiteiro geral ou construtor geral só pode ser concedida nos casos previstos na portaria referida no n.º 4 do artigo 4.º do presente diploma.
+
+4 - Sem prejuízo do disposto no n.º 2 do presente artigo, a classificação em empreiteiro geral ou construtor geral é concedida e modificada, com as devidas adaptações, nos mesmos termos em que é efectuada para as subcategorias.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 13.º — Regime probatório
+
+1 - Ficam sujeitas a um regime probatório, até à data em que ocorrer a quarta revalidação após o ingresso de qualquer empresa na actividade, todas as habilitações concedidas em classe superior à 1.
+
+2 - O regime referido no número anterior consiste na concessão provisória de habilitações, sendo as mesmas mantidas ou automaticamente reclassificadas, em função da capacidade efectiva que a empresa demonstrar, mediante obras executadas ou em curso, dessa natureza ou afins.
+
+3 - No final do regime probatório:
+
+a) São automaticamente reclassificadas na classe 1 as habilitações que envolvam trabalhos em que a empresa não tenha demonstrado qualquer experiência em obra, nos termos do número anterior;
+
+b) São mantidas ou automaticamente reclassificadas em classe inferior, de acordo com o disposto no artigo 14.º do presente diploma, com as necessárias adaptações, as habilitações relativamente às quais a empresa demonstre capacidade efectiva.
+
+4 - Com a elevação de classe, a pedido da empresa, em qualquer das habilitações inicialmente atribuídas, cessa o regime probatório, sendo aplicado a todas as restantes habilitações detidas o disposto no número anterior.
+
+5 - O regime probatório não se aplica a empresas que, nos cinco anos anteriores à data do pedido de ingresso, tenham sido titulares de alvará.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 14.º — Elevação de classe
+
+1 - As empresas que pretendam a elevação para classe superior à que detêm devem comprovar:
+
+a) A idoneidade, nos termos do artigo 8.º;
+
+b) A capacidade técnica, pela verificação do número mínimo de pessoal técnico previsto no n.º 4 do artigo 9.º
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Caso a elevação requerida seja para classe superior à mais elevada que detém nas subcategorias em que está classificada, a empresa deve ainda comprovar, para a classe solicitada:
+
+a) Deter capacidade económica e financeira, por um valor mínimo de capital próprio igual ou superior a 10 % do valor limite da classe solicitada, excepto no que respeita à classe mais elevada prevista na portaria a que se refere o n.º 5 do artigo 4.º, caso em que o capital próprio deve ser igual ou superior a 20 % do valor limite da classe anterior;
+
+b) Cumprir as condições mínimas de permanência previstas na alínea e) do n.º 1 do artigo 18.º, sendo aplicável o disposto no n.º 2 desse artigo e sem prejuízo do disposto nos respectivos n.os 4 e 5.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 15.º — Novas subcategorias
+
+1 - As empresas que pretendam a inscrição em novas subcategorias de classe igual ou inferior à mais elevada que detêm, para além do requisito de idoneidade, devem comprovar capacidade técnica, pela disponibilidade de número mínimo de pessoal técnico adequado ao pedido.
+
+2 - As empresas que pretendam a inscrição em novas subcategorias em classe superior à mais elevada que detêm, para além do disposto no número anterior no que se refere à idoneidade, devem ainda comprovar, para a classe solicitada:
+
+a) Deter capacidade técnica, nos termos do n.º 4 do artigo 9.º;
+
+b) Deter capacidade económica e financeira, por um valor mínimo de capital próprio igual ou superior a 10 % do valor limite da classe solicitada, excepto no que respeita à classe mais elevada prevista na portaria a que se refere o n.º 5 do artigo 4.º, caso em que o capital próprio deve ser igual ou superior a 20 % do valor limite da classe anterior;
+
+c) Cumprir as condições mínimas de permanência previstas na alínea e) do n.º 1 do artigo 18.º, sendo aplicável o disposto no n.º 2 desse artigo e sem prejuízo do disposto nos respectivos n.os 4 e 5.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 16.º — Diminuição de classe e cancelamento de subcategorias a pedido
+
+As subcategorias são objecto de diminuição de classe ou cancelamento quando os titulares do alvará o requeiram.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 17.º — Técnicos e incompatibilidades
+
+1 - Os técnicos que integrem o quadro de uma empresa inscrita no IMOPPI não podem:
+
+a) Fazer parte do quadro de pessoal de qualquer outra empresa também inscrita;
+
+b) Desempenhar funções técnicas, a qualquer título, em entidades licenciadoras ou donos de obra pública, excepto se, para o efeito, estiverem devidamente autorizados nos termos legais em vigor sobre incompatibilidades.
+
+2 - As situações em que ocorra cessação de funções de técnicos ou em que os mesmos passem a estar abrangidos pelas incompatibilidades previstas na alínea b) do número anterior devem ser comunicadas ao IMOPPI no prazo de 15 dias contados da sua verificação e pode ser efectuada quer pela empresa quer pelo técnico, desde que quem comunique comprove perante o IMOPPI que deu conhecimento ao outro.
+
+3 - As empresas que disponham de número de pessoal técnico insuficiente face à classificação que detêm, na sequência do previsto no número anterior, devem regularizar a situação no prazo de 22 dias a contar da data da ocorrência.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+#### Secção II — Da permanência
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 18.º — Condições mínimas de permanência
+
+1 - Para além do requisito de idoneidade, as empresas detentoras de alvará deverão verificar as seguintes condições mínimas de permanência:
+
+a) Manter um quadro técnico, de acordo com o estabelecido na portaria referida no n.º 4 do artigo 9.º do presente diploma;
+
+b) Deter, no último exercício, um valor de custos com pessoal igual ou superior a 7% do valor limite da classe anterior à maior das classes que detém;
+
+c) Deter, no último exercício, um valor de capital próprio igual ou superior a 10% do valor limite da maior das classes que detém, excepto no que respeita à classe mais elevada prevista na portaria a que se refere o n.º 5 do artigo 4.º do presente diploma, caso em que esse valor deverá ser igual ou superior a 20% do valor limite da classe anterior;
+
+d) Deter, no último exercício, um valor de volume de negócios em obra igual ou superior a 50% do valor limite da classe anterior à maior das classes que detém;
+
+e) Deter, no último exercício, valores de liquidez geral e autonomia financeira iguais ou superiores aos fixados na portaria a que se refere o n.º 5 do artigo 10.º do presente diploma.
+
+2 - Caso as empresas não cumpram qualquer dos valores mínimos previstos nas alíneas b), c), d) e e) do número anterior, é igualmente aceite para a satisfação de qualquer desses valores o seu cumprimento por via da média encontrada nos três últimos exercícios.
+
+3 - O disposto nas alíneas b), c), d) e e) do n.º 1 não se aplica às empresas detentoras de alvará exclusivamente na classe 1, que devem apresentar, no último exercício:
+
+a) Valor não nulo de custos com pessoal;
+
+b) Capital próprio não negativo; e
+
+c) No mínimo, volume de negócios em obra igual ou superior a 10 % do valor limite da classe 1.
+
+4 - Às empresas detentoras de alvará exclusivamente na classe 1 é ainda aplicável, com as devidas adaptações, o disposto nos n.os 2, 5 e 6.
+
+5 - Após o ingresso de qualquer empresa na actividade, na primeira revalidação do respectivo alvará não se aplica o disposto nas alíneas b), c), d) e e) do n.º 1.
+
+6 - Após o ingresso de qualquer empresa na actividade, na segunda revalidação do respectivo alvará não se aplica o disposto nas alíneas b), c), d) e e) do n.º 1, devendo a empresa apresentar, no último exercício, valor não nulo de custos com pessoal e capital próprio não negativo, aplicando-se, com as devidas adaptações, o previsto no n.º 2.
+
+7 - Quando, nos termos do n.º 4 do artigo 14.º e do n.º 2 do artigo 15.º, tenha sido concedida habilitação em classe superior à mais elevada detida pela empresa, é aplicável, com as devidas adaptações, o disposto no n.º 4 quanto às condições mínimas de permanência previstas nas alíneas b) e d) do n.º 1, devendo as empresas continuar a comprovar essas condições relativamente às habilitações detidas anteriormente à elevação de classe ou à concessão de nova habilitação.
+
+8 - Não é aplicável o regime previsto nos n.os 5 e 6 às empresas ou unidades de organização de meios de produção que já tenham beneficiado da não aplicação das condições mínimas de permanência previstas nos referidos números, nos cinco anos anteriores à data do pedido de ingresso, considerando-se estar nessa situação, nomeadamente, as empresas que:
+
+a) Anteriormente ao pedido de ingresso já tenham sido titulares de alvará para o exercício da actividade de construção; ou
+
+b) Tenham resultado da cisão ou fusão de empresas, quando qualquer destas tenha anteriormente sido titular de alvará.
+
+9 - Quando a elevação de classe ou a concessão de nova habilitação em classe superior à mais elevada detida pela empresa tenha ocorrido na sequência de cancelamento ou diminuição da classe dessa mesma habilitação, verificados no mesmo ano económico, não se aplica o regime excepcional previsto no n.º 7.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 19.º — Revalidação
+
+1 - Salvo quando a empresa comunique ao InCI, I. P., que não pretende renovar o alvará, ou que pretende cessar a sua actividade nos termos da alínea e) do n.º 1 do artigo 25.º, o alvará é oficiosamente revalidado sempre que se verifiquem as condições mínimas de permanência definidas no artigo anterior e sejam pagas a respectiva taxa, as coimas aplicadas por decisão tornada definitiva e outras taxas que se encontrem em dívida ao InCI, I. P.
+
+2 - Para efeitos de revalidação do alvará, o InCI, I. P., recolhe e analisa, por via electrónica, o balanço e a demonstração de resultados referentes ao exercício anterior, nomeadamente através da Informação Empresarial Simplificada, apresentados pela empresa junto da entidade competente, no prazo fixado para o efeito nos termos do calendário fiscal.
+
+3 - (Revogado.)
+
+4 - A revalidação do alvará das empresas que, não havendo cumprido atempadamente as obrigações fiscais a que se reporta o n.º 2, o venham a fazer até 31 de Dezembro, fica sujeita ao pagamento de taxa agravada.
+
+5 - As empresas detentoras de alvará, cuja sede se situe noutro Estado membro da União Europeia, devem apresentar fotocópia, acompanhada de tradução, do balanço e da demonstração de resultados referentes ao exercício anterior, conforme entregue na entidade competente do Estado no qual se situe a sede da empresa, no prazo de 30 dias após solicitação do InCI, I. P.
+
+6 - No procedimento da revalidação, as habilitações relativamente às quais se verifique que a empresa não apresenta as condições exigidas para a classificação detida são automaticamente reclassificadas ou canceladas em conformidade com o demonstrado.
+
+7 - O disposto no número anterior não obsta a que, em caso de não cumprimento do previsto na alínea e) do n.º 1 do artigo anterior, todas as habilitações detidas pela empresa sejam automaticamente reclassificadas na classe 1.
+
+8 - O não cumprimento do disposto nos n.os 2, 4 e 5 impede a verificação das condições mínimas de permanência, não sendo o alvará revalidado.
+
+9 - (Revogado.)
+
+10 - Quando, nos termos do presente artigo, não haja lugar à revalidação do alvará, caducam todas as habilitações no mesmo relacionadas.
+
+11 - A reclassificação não prejudica a possibilidade de a empresa finalizar as obras que tem em curso, desde que com o acordo dos donos das obras, tendo os mesmos, contudo, em alternativa, o direito à resolução do contrato por impossibilidade culposa da empresa.
+
+12 - O cancelamento parcial ou total das habilitações inibe a empresa de finalizar as obras em curso, com excepção, no primeiro caso, das obras enquadráveis em subcategorias não canceladas, implicando a imediata resolução por impossibilidade culposa da empresa de todos os contratos de empreitada celebrados referentes a obras em curso, sem prejuízo dos efeitos já produzidos.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 20.º — Reavaliação
+
+1 - A reavaliação consiste na apreciação da situação global da empresa, em função da idoneidade, da capacidade técnica e da capacidade económica e financeira, e tem em conta todos os elementos que o InCI, I. P., possa vir a obter com interesse para o efeito.
+
+2 - As empresas podem ser sujeitas a reavaliação:
+
+a) Quando deixarem de ser consideradas idóneas nos termos do artigo 8.º;
+
+b) Quando o capital próprio, em qualquer dos exercícios, seja negativo;
+
+c) Na sequência de acção de inspecção;
+
+d) Quando sejam objecto de processo de insolvência;
+
+e) (Revogada.)
+
+f) Quando qualquer outra circunstância o aconselhe ou o IMOPPI o entenda.
+
+3 - O IMOPPI pode exigir todos os documentos e esclarecimentos que entenda necessários à análise da situação da empresa.
+
+4 - A reavaliação pode conduzir à manutenção, reclassificação ou cancelamento parcial ou total das habilitações.
+
+5 - As habilitações reclassificadas ou canceladas nos termos do número anterior não podem ser de novo requeridas antes de decorridos seis meses após a data da notificação da decisão definitiva.
+
+6 - A reclassificação não prejudica a possibilidade de a empresa finalizar as obras que tem em curso, desde que com o acordo dos donos das obras, tendo os mesmos, contudo, em alternativa, o direito à resolução do contrato por impossibilidade culposa da empresa.
+
+7 - O cancelamento parcial ou total das habilitações inibe a empresa de finalizar as obras em curso, com excepção, no primeiro caso, das obras enquadráveis em subcategorias não canceladas, implicando a imediata resolução por impossibilidade culposa da empresa de todos os contratos de empreitada celebrados referentes a obras em curso, sem prejuízo dos efeitos já produzidos.
+
+8 - (Revogado.)
+
+9 - Enquanto decorrer um procedimento de reavaliação suspendem-se pelo período máximo de nove meses a contar da notificação à empresa da instauração do mesmo:
+
+a) Os eventuais procedimentos de reclassificação que estiverem em curso ou que venham a ser requeridos pela empresa e em que não seja exclusivamente requerido o cancelamento de habilitações ou a diminuição da respectiva classe, salvo decisão fundamentada em contrário;
+
+b) O procedimento de revalidação que esteja em curso ou que venha a ser requerido pela empresa, devendo, caso entretanto seja proferida decisão no procedimento de reavaliação, ser na mesma conjuntamente apreciado o cumprimento, pela empresa, das condições previstas no artigo 18.º
+
+10 - A suspensão do procedimento de revalidação prevista na alínea b) do número anterior não prejudica a manutenção da obrigação de cumprimento do disposto nos n.os 2, 4 e 5 do artigo anterior.
+
+11 - A suspensão do procedimento de revalidação prevista na alínea b) do n.º 9, quando tenha sido declarada a insolvência da empresa sujeita a reavaliação, pode ser prorrogada por um período máximo de nove meses, por decisão fundamentada do conselho directivo do InCI, I. P., e desde que a empresa tenha comprovado, à data dessa decisão e em sede do procedimento de reavaliação, os requisitos de idoneidade e de capacidade técnica adequada à habilitação de que é detentora.
+
+12 - Enquanto durar a suspensão prevista nos números anteriores, mantém-se em vigor o alvará de que a empresa for detentora à data da notificação da instauração do procedimento de reavaliação.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+### Capítulo III — Do processo e registo de informação
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 21.º — Instrução de processos
+
+1 - Os pedidos de classificação e de reclassificação são apresentados em modelo próprio nos serviços do InCI, I. P., presencialmente, por via postal ou por via electrónica, com acesso através do balcão único electrónico, e são dirigidos ao presidente do conselho directivo, acompanhados dos respectivos elementos instrutórios.
+
+2 - Com o requerimento, são entregues todos os documentos comprovativos do preenchimento dos requisitos exigidos no artigo 7.º, os quais são especificados em portaria do Ministro das Obras Públicas, Transportes e Habitação, só sendo admissível a sua entrega em momento posterior se o requerente provar que não os pôde apresentar com o requerimento ou se se destinarem a provar facto ocorrido posteriormente.
+
+3 - São recusados, mediante a indicação por escrito do fundamento da rejeição, os pedidos relativamente aos quais se verifique:
+
+a) Não ter sido junto o documento comprovativo do prévio pagamento da taxa inicial;
+
+b) Manifesta insuficiência da documentação referida no número anterior, sem justificação adequada;
+
+c) Falta de assinatura do requerimento;
+
+d) Ininteligibilidade do pedido;
+
+e) Que os documentos apresentados não obedecem aos requisitos regulamentares;
+
+f) Inadmissibilidade nos termos do presente diploma.
+
+4 - São igualmente recusados os pedidos das empresas que não tenham dado cumprimento ao disposto nos n.os 2, 4 e 5 do artigo 19.º
+
+5 - A recusa do pedido, nos termos do presente artigo, implica a devolução dos documentos, excepto daqueles que, no caso de empresas já classificadas, o IMOPPI entenda necessários à actualização do processo.
+
+6 - Na apreciação do pedido, o InCI, I. P., reconhece as autorizações legalmente detidas, bem como os requisitos já cumpridos pelo requerente para o exercício da actividade noutros Estados membros do espaço económico europeu que sejam equivalentes ou essencialmente comparáveis quanto à finalidade.
+
+7 - Para efeitos da verificação do cumprimento dos requisitos previstos no presente diploma, o InCI, I. P., aceita os documentos emitidos noutro Estado membro que tenham uma finalidade equivalente ou que provem a verificação daqueles requisitos, devendo promover a obtenção das informações que entender necessárias junto das respectivas autoridades competentes.
+
+8 - Sem prejuízo de outra legislação aplicável ao reconhecimento de habilitações e de formações, o reconhecimento de requisitos relativos a qualificações profissionais é regido pela Lei n.º 9/2009, de 4 de Março, dependendo do cumprimento das obrigações nesta previstas junto da autoridade competente.
+
+9 - Para comprovação do preenchimento dos requisitos, é suficiente a apresentação, electrónica ou em formato de papel, de cópia simples dos documentos, podendo o InCI, I. P., em caso de dúvida, exigir a exibição dos respectivos originais ou de cópias autenticadas ou certificadas dos mesmos.
+
+10 - Quando os documentos a que se refere o número anterior estejam disponíveis na Internet, o requerente pode, em substituição da apresentação da sua reprodução, indicar ao InCI, I. P., o sítio onde aqueles podem ser consultados, bem como a informação necessária a essa consulta, desde que os referidos sítio e documentos se encontrem redigidos em língua portuguesa ou inglesa.
+
+11 - Quando o requerente tenha prestado o consentimento, nos termos da lei, para que o InCI, I. P., consulte a informação relativa a qualquer dos documentos exigidos é dispensada a sua apresentação nos termos do n.º 9.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 22.º — Tramitação
+
+1 - A tramitação dos procedimentos previstos no presente diploma é executada com recurso a um sistema informático, definido por portaria do membro do Governo responsável pelo sector da construção, que assegura:
+
+a) A entrega online de requerimentos e de comunicações;
+
+b) A consulta, pelos interessados, do estado dos procedimentos;
+
+c) A notificação por via electrónica dos interessados, nomeadamente das decisões do InCI, I. P., que lhes digam respeito;
+
+d) A verificação automática da informação necessária, para efeitos de aplicação do regime previsto no presente diploma, através da ligação com as bases de dados das autoridades competentes, nos termos a definir em protocolos com as mesmas, os quais devem ser submetidos a prévia apreciação da Comissão Nacional de Protecção de Dados.
+
+2 - No caso de o requerimento conter omissões ou deficiências susceptíveis de suprimento ou de correcção, ou quando se verifiquem irregularidades ou insuficiências relativas aos documentos instrutórios exigíveis e cuja falta não possa ser oficiosamente suprida, o requerente deve ser notificado, no prazo de 10 dias a contar da respectiva apresentação, para efectuar as correcções necessárias ou apresentar os documentos em falta, dentro de um prazo fixado pelo InCI, I. P., que não pode ser inferior a 15 dias, sob pena de indeferimento ou de deferimento parcial do pedido.
+
+3 - O regime previsto no número anterior é igualmente aplicável quando o requerente não tenha apresentado documento comprovativo do pagamento de coimas aplicadas pelo InCI, I. P., por decisão tornada definitiva.
+
+4 - Para a tomada da decisão final, o InCI, I. P., dispõe do prazo de 20 dias, a contar da data da recepção do pedido ou dos elementos solicitados nos termos do n.º 2, ou, quando estes não forem entregues, a contar do termo do prazo concedido para a respectiva apresentação.
+
+5 - A decisão final sobre o pedido é notificada ao interessado no prazo máximo de cinco dias.
+
+6 - Decorrido o prazo previsto no n.º 4 sem que tenha sido proferida a decisão final, o pedido considera-se tacitamente deferido, sem prejuízo do disposto no n.º 8.
+
+7 - Proferida a decisão final ou verificando-se o caso previsto no número anterior, o InCI, I. P., emite, no prazo de 10 dias, a guia para pagamento da taxa devida.
+
+8 - O pagamento da taxa no prazo estipulado bem como o pagamento das coimas a que se refere o n.º 3 são condição de eficácia do deferimento do pedido.
+
+9 - Comprovado o pagamento da taxa, o InCI, I. P., procede à emissão do título habilitante e à sua actualização, em suporte electrónico, o qual é disponibilizado para consulta na respectiva página electrónica, acessível através do Portal do Cidadão e do Portal da Empresa.
+
+10 - Em caso de extinção do procedimento por falta de pagamento da taxa devida, a apresentação de um novo pedido antes de decorrido um ano desde a data da extinção implica o agravamento da nova taxa, nos termos estabelecidos na portaria referida no n.º 1 do artigo 49.º
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 22.º-A — Pedido de título de registo e de alvará de classe 1
+
+1 - O pedido de alvará de classe 1 ou de título de registo pode ser deferido no momento da sua apresentação, a requerimento do interessado, desde que estejam reunidos os requisitos legais para o efeito, sendo emitida a guia para o pagamento da taxa que for devida, aplicando-se o disposto no n.º 9 do artigo 22.º
+
+2 - A concessão dos títulos nos termos do presente artigo fica sujeita ao pagamento da taxa prevista na portaria referida no n.º 1 do artigo 49.º, para a concessão das habilitações requeridas.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 23.º — Informações sobre as empresas
+
+1 - O IMOPPI deve manter registo de informações sobre as empresas de construção, com todos os elementos necessários à sua qualificação nos termos deste diploma.
+
+2 - Devem também ser registadas:
+
+a) Todas as sanções aplicadas nos termos do presente diploma;
+
+b) As ocorrências que, não compreendidas na alínea anterior, constituam violação dos deveres estabelecidos no artigo 24.º
+
+3 - Os registos a que se refere o número anterior que sejam objecto de acção judicial ou administrativa não podem ser utilizados para os efeitos previstos na lei nem disponibilizados aos donos de obra até que ocorra decisão definitiva.
+
+4 - Os registos a que se refere a alínea b) do n.º 2 do presente artigo sobre os quais não impenda acção judicial ou administrativa também não podem ser utilizados nem disponibilizados sem que tenha sido garantido o direito do contraditório às empresas em causa.
+
+5 - O IMOPPI deve ainda manter registo dos pedidos extintos ou indeferidos, bem como dos alvarás e títulos de registo cancelados.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+### Capítulo IV — Do exercício da actividade
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 24.º — Deveres no exercício da actividade
+
+1 - As empresas no exercício da sua actividade devem agir segundo as regras da boa fé na formação e execução do contrato e proceder à realização da obra em conformidade com o que foi convencionado, sem vícios que excluam ou reduzam o valor dela ou a sua aptidão para o uso ordinário ou o previsto no contrato, e no respeito pelas disposições legais e regulamentares aplicáveis.
+
+2 - Constituem, nomeadamente, violação ao disposto no número anterior:
+
+a) (Revogada pelo Decreto-Lei n.º 18/2008, de 28 de Janeiro.)
+
+b) (Revogada pelo Decreto-Lei n.º 18/2008, de 28 de Janeiro.)
+
+c) (Revogada pelo Decreto-Lei n.º 18/2008, de 28 de Janeiro.)
+
+d) (Revogada pelo Decreto-Lei n.º 18/2008, de 28 de Janeiro.)
+
+e) (Revogada pelo Decreto-Lei n.º 18/2008, de 28 de Janeiro.)
+
+f) Inscrever dolosamente nos autos de medição trabalhos não efectuados;
+
+g) Incumprimento do prazo estipulado ou abandono da obra, em qualquer dos casos por causa imputável à empresa;
+
+h) Desrespeito por normas legais relativas à segurança, higiene e saúde no trabalho;
+
+i) (Revogada pelo Decreto-Lei n.º 18/2008, de 28 de Janeiro.)
+
+j) Incumprimento de qualquer disposição legal, regulamentar ou contratual com repercussão na qualidade do produto em execução ou já executado.
+
+3 - Sem prejuízo de outras exigências legais, em todos os contratos, correspondência, documentos contabilísticos, publicações, publicidade e, de um modo geral, em toda a sua actividade externa, as empresas devem indicar a sua denominação social e o número do alvará ou do título de registo, sem prejuízo de outras exigências legais.
+
+4 - Em cada obra, a empresa responsável deve afixar de forma bem visível placa identificativa com a sua denominação social e número de alvará no local de acesso ao estaleiro.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30
+
+###### Artigo 25.º — Deveres para com o InCI, I. P.
+
+1 - As empresas são obrigadas a comunicar ao IMOPPI, no prazo de 22 dias:
+
+a) Quaisquer alterações nas condições de ingresso e permanência previstas nos artigos 8.º, 9.º e 10.º do presente diploma que possam determinar modificação na classificação para os tipos de trabalhos em que estão habilitadas;
+
+b) As alterações à denominação e sede, assim como a nomeação ou demissão de representantes legais, quando se trate de sociedades;
+
+c) As alterações da firma comercial e do domicílio fiscal, quando se trate de empresários em nome individual;
+
+d) Os processos de insolvência de que sejam objecto, a contar da data do conhecimento;
+
+e) A cessação da respectiva actividade.
+
+f) A criação de sucursais, agências, estabelecimentos, locais de atendimento ou outras formas de representação comercial de empresa, cuja actividade se encontre sujeita ao regime de autorização previsto no presente diploma.
+
+2 - As empresas são também obrigadas perante o IMOPPI, no prazo de 22 dias, a:
+
+a) Enviar cópias das sentenças ou das decisões que ponham termo a processos em que tenham sido parte relacionados com a idoneidade, tal como definida no artigo 8.º, e com os deveres a que estão obrigadas no exercício da actividade, nos termos do artigo 24.º;
+
+b) Prestar todas as informações relacionadas com a sua actividade, no âmbito do presente diploma, e disponibilizar toda a documentação a ela referente, quando solicitado.
+
+3 - As empresas são ainda obrigadas a facultar ao IMOPPI, no exercício da sua competência de inspecção, o acesso às instalações e estaleiros, bem como a toda a informação e documentação relacionada com a actividade.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 26.º — Consórcios e agrupamentos de empresas
+
+1 - Para a realização de obras, as empresas de construção podem organizar-se, entre si ou com empresas que se dediquem a actividade diversa, em consórcios ou em qualquer das modalidades jurídicas de agrupamento de empresas admitidas e reguladas pelo quadro legal vigente, desde que as primeiras satisfaçam, todas elas, as disposições legais relativas ao exercício da actividade.
+
+2 - Os consórcios ou agrupamentos de empresas aproveitam das habilitações das empresas associadas, devendo pelo menos uma das empresas de construção deter a habilitação que cubra o valor total da obra e respeite ao tipo de trabalhos mais expressivo e cada uma das outras empresas de construção a habilitação que cubra o valor da parte da obra que se propõe executar.
+
+3 - Os consórcios e agrupamentos de empresas estão ainda sujeitos ao seguinte:
+
+a) Cada empresa associada ou agrupada é sempre solidariamente responsável com o grupo pelo pontual cumprimento de todas as obrigações emergentes do contrato;
+
+b) A cada empresa associada é imputado, para efeitos de aplicação de sanções previstas no presente diploma, o incumprimento pelo consórcio das obrigações referidas na alínea anterior, bem como das demais resultantes do presente diploma;
+
+c) Sem prejuízo do disposto nos números anteriores, os agrupamentos de empresas ficam vinculados ao cumprimento das demais obrigações previstas no presente diploma, respondendo subsidiariamente as empresas agrupadas pelo pagamentos das coimas aplicadas ao agrupamento por decisão tornada definitiva nos termos do artigo 37.º
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 27.º — Subcontratação
+
+1 - Não é permitida a subcontratação total de qualquer obra nem a subcontratação a empresas que não estejam devidamente habilitadas nos termos do presente diploma.
+
+2 - As empresas que não detenham todas as habilitações necessárias para a execução da obra, e que por esse facto recorram à subcontratação, aproveitam das habilitações detidas pelas subcontratadas.
+
+3 - As empresas devem comprovar as habilitações detidas pelas suas subcontratadas mediante consulta na página electrónica do InCI, I. P., acessível através do Portal do Cidadão e do Portal da Empresa e manter o comprovativo da realização dessa diligência.
+
+4 - As empresas devem confirmar as declarações de obra executada ou em curso, a pedido das subcontratadas, em modelos a definir pelo IMOPPI.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 28.º — Morte, interdição, inabilitação e insolvência
+
+1 - O alvará caduca, extinguindo-se todas as habilitações dele constantes, devendo de imediato ser entregue no InCI, I. P., quando ocorra:
+
+a) O falecimento, a interdição ou a inabilitação de empresário em nome individual; ou
+
+b) O encerramento de processo de insolvência, de que a empresa tenha sido objecto, por insuficiência da massa insolvente ou após a realização do rateio final.
+
+2 - Não obstante o disposto na alínea a) do número anterior, se existirem obras em curso à data do falecimento, interdição ou inabilitação, podem os herdeiros, o tutor ou o curador, respectivamente, requerer autorização para concluir os trabalhos por executar, desde que comprovem dispor dos necessários meios técnicos e financeiros e que o dono da obra aceite que eles tomem sobre si o encargo do cumprimento do contrato.
+
+3 - (Revogado.)
+
+4 - No caso previsto no n.º 2, o InCI, I. P., emite um título transitório com validade até à conclusão dos trabalhos.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+### Capítulo V — Do contrato de empreitada de obra particular
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 29.º — Forma e conteúdo
+
+1 - Os contratos de empreitada e subempreitada de obra particular cujo valor ultrapasse 10% do limite fixado para a classe 1 são obrigatoriamente reduzidos a escrito e devem ter o seguinte conteúdo mínimo:
+
+a) Identificação completa das partes outorgantes;
+
+b) Identificação dos alvarás;
+
+c) Identificação do objecto do contrato, incluindo as peças escritas e desenhadas, quando as houver;
+
+d) Valor do contrato;
+
+e) Prazo de execução;
+
+f) Forma e prazos de pagamento.
+
+2 - Incumbe sempre à empresa que recebe a obra de empreitada, ainda que venha a celebrar um contrato de subempreitada, assegurar e certificar-se do cumprimento do disposto no número anterior.
+
+3 - Nos contratos de subempreitada, a obrigação prevista no número anterior incumbe à empresa que dá os trabalhos de subempreitada.
+
+4 - A inobservância do disposto no n.º 1 do presente artigo determina a nulidade do contrato, não podendo esta ser invocada pela parte obrigada a assegurar e a certificar-se do seu cumprimento.
+
+5 - As empresas são obrigadas a manter em arquivo os contratos celebrados em que são intervenientes pelo período de cinco anos a contar da data da conclusão das obras.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 18-A/2008 - Diário da República n.º 62/2008, 1º Suplemento, Série I de 2008-03-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-a-2008-260915), em vigor a partir de 2008-07-30
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30
+
+###### Artigo 30.º — Regime legal
+
+O disposto no artigo anterior prevalece sobre o regime jurídico das empreitadas previsto no Código Civil, na parte em que com o mesmo não se conforme.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+### Capítulo VI — Obrigações dos donos das obras, das entidades licenciadoras e de outros
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 31.º — Exigibilidade e verificação das habilitações
+
+1 - Nos procedimentos de formação de contratos de empreitadas de obras públicas e de licenciamento municipal ou de comunicação prévia de operações urbanísticas, deve ser exigida uma única subcategoria em classe que cubra o valor global da obra, a qual deve respeitar ao tipo de trabalhos mais expressivo, sem prejuízo da exigência de outras subcategorias relativas aos restantes trabalhos a executar e nas classes correspondentes.
+
+2 - A habilitação de empreiteiro geral ou construtor geral, desde que adequada à obra em causa e em classe que cubra o seu valor global, dispensa a exigência a que se refere o número anterior.
+
+3 - Os donos de obras públicas, os donos de obras particulares, nos casos de isenção ou dispensa de procedimento de controlo prévio municipal, e as entidades licenciadoras de obras particulares devem assegurar que as obras sejam executadas por detentores de alvará ou título de registo, contendo as habilitações correspondentes à natureza e ao valor dos trabalhos a realizar, nos termos do disposto nas portarias referidas nos n.os 4 e 5 do artigo 4.º e no n.º 5 do artigo 6.º
+
+4 - A comprovação das habilitações, bem como do registo de prestação de serviços previsto no artigo 6.º-A, é feita através de consulta na página electrónica do InCI, I. P., acessível através do Portal do Cidadão e do Portal da Empresa, devendo as entidades referidas no número anterior manter o comprovativo da realização dessa diligência.
+
+5 - Nenhuma obra poderá ser dividida por fases tendo em vista subtraí-la à consideração do seu valor global para efeitos de determinação da classe de valor de trabalhos exigível.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 32.º — Informações a prestar por donos de obras, entidades licenciadoras e outros
+
+1 - Os donos de obra e as entidades licenciadoras devem comunicar ao IMOPPI o conhecimento de qualquer ocorrência ou conduta que ponha em causa a boa execução da obra por motivo imputável à empresa ou a qualquer das suas subcontratadas.
+
+2 - Sem prejuízo de outras comunicações legalmente previstas, devem igualmente comunicar ao IMOPPI, no prazo de vinte e quatro horas, os acidentes de que resulte morte ou lesão grave de trabalhadores ou de terceiros ou que, independentemente da produção de tais danos, assumam particular gravidade.
+
+3 - Os donos de obra e as entidades licenciadoras devem ainda comunicar o incumprimento de qualquer obrigação sancionável nos termos do presente diploma.
+
+4 - Os donos de obra e as entidades licenciadoras devem confirmar as declarações de obra executada ou em curso, a pedido das empresas, em modelos a definir pelo IMOPPI.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+### Capítulo VII — Fiscalização e sanções
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 33.º — Competências de inspecção e fiscalização do IMOPPI
+
+1 - O IMOPPI, no âmbito das suas competências, inspecciona e fiscaliza a actividade da construção.
+
+2 - No exercício das suas competências de inspecção e fiscalização, o IMOPPI pode solicitar a quaisquer serviços públicos ou autoridades toda a colaboração ou auxílio que julgue necessário.
+
+3 - Todas as autoridades e seus agentes devem participar ao IMOPPI quaisquer infracções ao presente diploma e respectivas disposições regulamentares.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 34.º — Auto de notícia
+
+1 - Quando, no exercício de funções inspectivas, se verificar ou comprovar, pessoal e directamente, ainda que por forma não imediata, qualquer infracção ao presente diploma punível com coima, é levantado auto de notícia.
+
+2 - O auto de notícia deve mencionar os factos que constituem infracção, o dia, a hora, o local e as circunstâncias em que foi cometida, a identificação dos agentes que a presenciaram e tudo o que puderem averiguar acerca da identificação dos agentes da infracção e, quando possível, a indicação de, pelo menos, uma testemunha que possa depor sobre os factos.
+
+3 - O auto de notícia é assinado pelos agentes que o levantaram e pelas testemunhas, quando for possível.
+
+4 - A autoridade ou agente da autoridade que tiver notícia, no exercício das suas funções, de infracção ao presente diploma levanta auto a que é correspondentemente aplicável o disposto nos n.os 1 e 2 do presente artigo, com as necessárias adaptações.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 35.º — Participação e denúncia
+
+1 - Se algum funcionário sem competência para levantar auto de notícia tiver conhecimento, no exercício ou por causa do exercício das suas funções, de qualquer infracção ao presente diploma punível com coima, participá-la-á, por escrito ou verbalmente, aos serviços competentes para o seu processamento.
+
+2 - Qualquer pessoa pode denunciar infracções ao presente diploma junto do IMOPPI.
+
+3 - A participação e denúncia devem conter, sempre que possível, os elementos exigidos para o auto de notícia.
+
+4 - O disposto neste artigo é também aplicável quando se trate de funcionário competente para levantar auto de notícia, desde que não tenha verificado pessoalmente a infracção.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 36.º — Notificações
+
+1 - As notificações efectuam-se:
+
+a) Por contacto pessoal com o notificando no lugar em que for encontrado;
+
+b) Mediante carta registada expedida para o domicílio ou sede do notificando;
+
+c) Mediante carta simples expedida para o domicílio ou sede do notificando.
+
+d) Por via electrónica, nos termos do n.º 1 do artigo 22.º
+
+2 - A notificação por contacto pessoal deve ser efectuada, sempre que possível, no acto de autuação, podendo ainda ser utilizada quando o notificando for encontrado pela entidade competente.
+
+3 - Se não for possível, no acto de autuação, proceder nos termos do número anterior ou se estiver em causa qualquer outro acto, a notificação pode ser efectuada através de carta registada expedida para o domicílio ou sede do notificando.
+
+4 - Se, por qualquer motivo, a carta prevista no número anterior for devolvida à entidade remetente, a notificação é reenviada ao notificando, para o seu domicílio ou sede, através de carta simples.
+
+5 - A notificação nos termos do n.º 3 considera-se efectuada no 3.º dia útil posterior ao do envio, devendo a cominação aplicável constar do acto de notificação.
+
+6 - No caso previsto no n.º 4, o funcionário da entidade competente lavra uma cota no processo com a indicação da data da expedição da carta e do domicílio para o qual foi enviada, considerando-se a notificação efectuada no 5.º dia posterior à data indicada, cominação que deverá constar do acto de notificação.
+
+7 - Se o notificando se recusar a receber ou a assinar a notificação, o funcionário certifica a recusa, considerando-se efectuada a notificação.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 37.º — Contra-ordenações
+
+1 - Às contra-ordenações previstas neste artigo são aplicáveis as seguintes coimas, sem prejuízo da aplicação de pena ou sanção mais grave que lhes couber por força de outra disposição legal:
+
+a) Quando sejam qualificadas como muito graves, de (euro) 7500 a (euro) 44 800, reduzindo-se o limite mínimo para (euro) 2000 e o limite máximo na parte que exceda o respectivo montante máximo de coima previsto no regime geral das contra-ordenações e coimas, quando aplicada a pessoa singular;
+
+b) Quando sejam qualificadas como graves, de (euro) 1000 a (euro) 3000 e de (euro) 5000 a (euro) 30 000, conforme sejam praticadas por pessoa singular ou pessoa colectiva;
+
+c) Quando sejam qualificadas como simples, de (euro) 500 a (euro) 1500 e de (euro) 3000 a (euro) 20 000, conforme sejam praticadas por pessoa singular ou pessoa colectiva.
+
+2 - Constituem ilícitos de mera ordenação social muito graves:
+
+a) A violação do disposto no n.º 1 do artigo 4.º;
+
+b) A violação do disposto no n.º 2 do artigo 4.º;
+
+c) A violação do disposto no n.º 1 do artigo 6.º;
+
+d) A violação do disposto no n.º 2 do artigo 6.º;
+
+e) A violação do disposto no n.º 5 do artigo 6.º-A;
+
+f) A violação do disposto no n.º 1 do artigo 12.º;
+
+g) A violação do disposto no n.º 1 do artigo 27.º;
+
+h) As infracções previstas no artigo 456.º do Código dos Contratos Públicos, caso tenham sido praticadas no âmbito do procedimento de formação ou da execução de contrato cujo objecto abranja prestações típicas dos contratos de empreitada de obras públicas, incluindo aquelas realizadas ou a realizar no âmbito de concessões.
+
+3 - Constituem ilícitos de mera ordenação social graves:
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) A violação do disposto na alínea f) do n.º 2 do artigo 24.º;
+
+g) A violação do disposto na alínea g) do n.º 2 do artigo 24.º;
+
+h) A violação do disposto na alínea a) do n.º 1 do artigo 25.º;
+
+i) A violação do disposto na alínea d) do n.º 1 do artigo 25.º;
+
+j) A violação do disposto na alínea e) do n.º 1 do artigo 25.º;
+
+l) A violação do disposto na alínea b) do n.º 2 do artigo 25.º;
+
+m) A violação do disposto no n.º 3 do artigo 25.º;
+
+n) A violação do disposto no n.º 4 do artigo 27.º;
+
+o) A violação do disposto no n.º 1 do artigo 29.º;
+
+p) As infracções previstas no artigo 457.º do Código dos Contratos Públicos, caso tenham sido praticadas no âmbito do procedimento de formação ou da execução de contrato cujo objecto abranja prestações típicas dos contratos de empreitada de obras públicas, incluindo aquelas realizadas ou a realizar no âmbito de concessões.
+
+q) A violação do disposto no n.º 2 do artigo 383.º do Código dos Contratos Públicos;
+
+r) A violação do disposto no n.º 1 do artigo 384.º do Código dos Contratos Públicos;
+
+s) A subcontratação, sem autorização do dono da obra ou com oposição deste, nos casos previstos no n.º 2 do artigo 385.º e no artigo 386.º, ambos do Código dos Contratos Públicos;
+
+t) A não comparência no local, na data e na hora indicadas pelo dono da obra para a consignação da obra, nos casos previstos na alínea b) do n.º 1 do artigo 405.º do Código dos Contratos Públicos.
+
+4 - Constituem ilícitos de mera ordenação social simples:
+
+a) A violação do disposto no n.º 3 do artigo 24.º;
+
+b) A violação do disposto no n.º 4 do artigo 24.º;
+
+c) A violação do disposto na alínea b) do n.º 1 do artigo 25.º;
+
+d) A violação do disposto na alínea c) do n.º 1 do artigo 25.º;
+
+e) A violação do disposto na alínea f) do n.º 1 do artigo 25.º;
+
+f) A violação do disposto na alínea a) do n.º 2 do artigo 25.º;
+
+g) A violação do disposto no n.º 3 do artigo 27.º;
+
+h) A violação do disposto no n.º 3 do artigo 29.º;
+
+i) A violação do disposto no n.º 5 do artigo 29.º;
+
+j) A violação do disposto no n.º 4 do artigo 384.º do Código dos Contratos Públicos;
+
+l) A violação do disposto nos n.os 3 e 4 do artigo 385.º do Código dos Contratos Públicos.
+
+5 - A tentativa e a negligência são puníveis, sendo, nestes casos, os limites máximo e mínimo da coima reduzidos a metade.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 18/2008 - Diário da República n.º 20/2008, Série I de 2008-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), em vigor a partir de 2008-07-30
+
+###### Artigo 38.º — Sanções acessórias
+
+1 - Quando a gravidade da infracção o justifique, podem ser aplicadas as seguintes sanções acessórias, nos termos do regime geral das contra-ordenações:
+
+a) Interdição do exercício da actividade;
+
+b) Suspensão dos títulos de registo e dos alvarás;
+
+c) Privação do direito de participar em feiras ou mercados;
+
+d) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas e a concessão de serviços públicos.
+
+2 - Em caso de aplicação das sanções de suspensão ou de interdição, a empresa fica obrigada a comunicar ao InCI, I. P., as obras que tem em curso, no prazo de 10 dias a contar da data em que a decisão se torne definitiva.
+
+3 - As sanções referidas no n.º 1 têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva.
+
+4 - A empresa sujeita às sanções de suspensão ou interdição deve, para reinício da actividade, cumprir as condições exigidas pelo artigo 11.º do presente diploma.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 39.º — Interdição do exercício da actividade
+
+1 - A aplicação da sanção acessória de interdição implica a interdição de finalizar as obras em curso e de celebrar novos contratos de empreitada de obras públicas ou particulares e de praticar todos e quaisquer actos relacionados com a actividade, seja para que efeito for, junto de entidades licenciadoras ou donos de obra.
+
+2 - O IMOPPI comunica de imediato aos donos das obras a interdição e seus fundamentos, implicando a interdição a imediata resolução por impossibilidade culposa da empresa de todos os contratos de empreitada celebrados referentes a obras em curso, sem prejuízo dos efeitos já produzidos.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 40.º — Suspensão dos títulos de registo e dos alvarás
+
+1 - A aplicação da sanção acessória de suspensão inibe a empresa de celebrar novos contratos de empreitada de obras públicas ou particulares e de praticar todos e quaisquer actos relacionados com a actividade, seja para que efeito for, junto de entidades licenciadoras ou donos de obra.
+
+2 - Sem prejuízo do disposto no número anterior, a empresa sujeita a suspensão pode finalizar as obras em curso desde que com o acordo dos donos das obras, devendo para tal o IMOPPI comunicar-lhes a suspensão e seus fundamentos, tendo os mesmos, contudo, em alternativa, o direito à resolução do contrato por impossibilidade culposa da empresa.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 41.º — Medidas cautelares
+
+1 - Quando se revele necessário para a instrução do processo de contra-ordenação ou resultem fortes indícios da prática de facto que constitua contra-ordenação nos termos do presente diploma, o IMOPPI pode determinar uma das seguintes medidas:
+
+a) Suspensão preventiva total ou parcial da actividade, no caso de violação do disposto no n.º 1 do artigo 4.º e no n.º 1 do artigo 6.º do presente diploma;
+
+b) Suspensão da apreciação de pedido de classificação, reclassificação ou revalidação formulado pela empresa junto do IMOPPI.
+
+2 - A aplicação da medida prevista na alínea a) do número anterior efectua-se mediante notificação pessoal e via postal ou mediante a afixação de editais nas instalações da empresa ou nos locais de acesso aos estaleiros das obras onde a mesma esteja a exercer a actividade.
+
+3 - As medidas determinadas nos termos do n.º 1 do presente artigo vigoram, consoante os casos:
+
+a) Até ao seu levantamento pelo presidente do conselho de administração do IMOPPI ou por decisão judicial;
+
+b) Até ao início da aplicação da sanção acessória de interdição do exercício da actividade.
+
+4 - Não obstante o disposto no número anterior, as medidas cautelares referidas no n.º 1 têm a duração máxima de um ano contado a partir da decisão que as imponha.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 42.º — Procedimento de advertência
+
+1 - Quando a contra-ordenação consistir em irregularidade sanável da qual não tenham resultado prejuízos para terceiros, o IMOPPI pode advertir o infractor, notificando-o para sanar a irregularidade.
+
+2 - Da notificação deve constar a identificação da infracção, as medidas necessárias para a sua regularização, o prazo para o cumprimento das mesmas e a advertência de que o seu não cumprimento dá lugar à instauração de processo de contra-ordenação.
+
+3 - Se o infractor não sanar a irregularidade no prazo fixado, o processo de contra-ordenação é instaurado.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 43.º — Determinação da sanção aplicável
+
+A determinação da coima, das sanções acessórias e das medidas cautelares faz-se em função da gravidade da contra-ordenação, da ilicitude concreta do facto, da culpa do infractor e dos benefícios obtidos e tem em conta a sua situação económica e anterior conduta.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 44.º
+
+Competência para instrução dos processos de contra-ordenação e aplicação de sanções e medidas cautelares
+
+1 - A instrução do processo de contra-ordenação é da competência dos serviços do IMOPPI.
+
+2 - Compete ao presidente do conselho de administração do IMOPPI a aplicação das coimas, das sanções acessórias e da medida cautelar prevista na alínea b) do n.º 1 do artigo 41.º do presente diploma.
+
+3 - Compete aos serviços de inspecção do IMOPPI a aplicação da medida cautelar prevista na alínea a) do n.º 1 do artigo 41.º do presente diploma.
+
+4 - Sem prejuízo do número anterior, o IMOPPI pode confiar a execução da referida medida cautelar às autoridades policiais.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 45.º — Cobrança coerciva de coimas e publicidade das sanções e medidas cautelares
+
+1 - As coimas aplicadas em processo de contra-ordenação, quando não pagas, são cobradas coercivamente.
+
+2 - São publicitadas na página electrónica do InCI, I. P., acessível através do Portal do Cidadão e do Portal da Empresa, as sanções de natureza contra-ordenacional, bem como as medidas cautelares, aplicadas, no âmbito da actividade regulada, por decisão definitiva.
+
+3 - (Revogado.)
+
+4 - A publicitação das decisões de aplicação de sanções e das medidas cautelares deve ser mantida na página electrónica do InCI, I. P., acessível através do Portal do Cidadão e do Portal da Empresa, até à ocorrência de um dos seguintes factos:
+
+a) Nas sanções aplicadas, a título principal, em processo de contra-ordenação, o decurso de dois anos contados da definitividade ou do trânsito em julgado da decisão que as aplicou;
+
+b) Nas sanções acessórias, o decurso do prazo da duração das mesmas;
+
+c) Nas medidas cautelares, o decurso do prazo de duração das mesmas ou o seu levantamento ou revogação.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 46.º — Produto das coimas
+
+O produto das coimas recebidas por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado e em 40% para o IMOPPI.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 47.º — Apreensão do alvará ou título de registo
+
+O alvará ou título de registo de empresa sujeita à sanção de interdição que não seja entregue no IMOPPI no prazo máximo de oito dias contados da data da notificação será apreendido pelas autoridades competentes.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 48.º — Responsabilidade criminal
+
+1 - O desrespeito pelas decisões tomadas pelo IMOPPI, nos termos do disposto no n.º 1 do artigo 38.º e no n.º 1 do artigo 41.º do presente diploma, integra o crime de desobediência nos termos do artigo 348.º do Código Penal.
+
+2 - A remoção, destruição, alteração, danificação ou qualquer outra forma de actuação que impeça o conhecimento do edital afixado ao abrigo do disposto no n.º 2 do artigo 41.º integra o crime de arrancamento, destruição ou alteração de editais, nos termos do artigo 357.º do Código Penal.
+
+3 - As falsas declarações e as falsas informações prestadas, no âmbito dos procedimentos previstos no presente diploma, pelos empresários em nome individual, representantes legais das sociedades comerciais e técnicos das empresas integram o crime de falsificação de documentos, nos termos do artigo 256.º do Código Penal.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+### Capítulo VIII — Das taxas
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 49.º — Taxas
+
+1 - Os procedimentos administrativos tendentes à emissão, à substituição ou à revalidação de alvarás e títulos de registo e a emissão de certidões, bem como os demais procedimentos previstos no presente diploma, dependem do pagamento de taxas, nos termos a fixar por portaria do membro do Governo responsável pelo sector da construção.
+
+2 - As taxas previstas no número anterior constituem receita do IMOPPI.
+
+3 - Não são devidas taxas em virtude de alteração da designação do arruamento ou do número de polícia, respeitante às sedes das empresas, quando essas alterações resultem de decisão administrativa.
+
+4 - Não são igualmente sujeitas ao pagamento de taxas as empresas que se encontrem abrangidas por plano de insolvência homologado e durante o tempo que o mesmo durar, desde que o solicitem ao InCI, I. P.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 49.º-A — Modelos
+
+Os modelos e os formulários a utilizar em cumprimento do disposto no presente diploma, bem como os respectivos preços, são aprovados pelo conselho directivo do InCI, I. P.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 50.º — Cobrança coerciva
+
+A cobrança coerciva das taxas é da competência da repartição de finanças da área do domicílio ou sede do devedor, em processo de execução fiscal.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+### Capítulo IX — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 51.º — Impugnação das decisões
+
+As decisões tomadas pelo IMOPPI ao abrigo do presente diploma podem ser impugnadas nos termos do Código do Procedimento Administrativo.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 52.º — Dever de cooperação
+
+1 - As entidades públicas têm o dever de prestar ao InCI, I. P., toda a colaboração que este Instituto lhes solicitar, facultando os dados e os documentos necessários à aplicação do presente diploma.
+
+2 - Para efeitos do disposto no número anterior o InCI, I. P., pode celebrar protocolos com entidades públicas ou privadas, tendo em vista a verificação dos requisitos de acesso e de permanência na actividade, sem prejuízo do disposto no capítulo vi do Decreto-Lei n.º 92/2010, de 26 de Julho.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 53.º — Acesso aos documentos
+
+O IMOPPI deve vedar o acesso a documentos constantes dos processos das empresas cuja comunicação ponha em causa segredos comerciais, industriais ou sobre a vida das empresas, nos termos da legislação sobre acesso a documentos administrativos.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 54.º — Idioma dos documentos
+
+1 - Os requerimentos e os demais documentos referidos no presente diploma devem ser redigidos em língua portuguesa, sem prejuízo do disposto nos números seguintes.
+
+2 - No caso de documentos originalmente redigidos em inglês, só pode ser exigida a respectiva tradução quando tal se justifique, em função da sua tecnicidade ou complexidade.
+
+3 - No caso de documentos redigidos noutro idioma deve ser apresentada a respectiva tradução.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 55.º — Contagem de prazos
+
+Na contagem de todos os prazos fixados no presente diploma aplicam-se as regras do Código do Procedimento Administrativo.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+###### Artigo 56.º — Actos sujeitos a publicação
+
+São publicados na 2.ª série do Diário da República a concessão, a modificação e o cancelamento de alvarás e títulos de registo e todas as sanções aplicadas nos termos do presente diploma.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 57.º — Disposição transitória
+
+1 - A validade dos actuais certificados é prorrogada até 31 de Janeiro de 2004.
+
+2 - A substituição dos actuais certificados pelos correspondentes alvarás deve ser feita até 1 de Fevereiro de 2004.
+
+3 - Sem prejuízo do disposto no número seguinte, as classificações constantes do alvará são as mais elevadas que resultem para cada empresa, a partir das autorizações constantes dos actuais certificados de empreiteiro de obras públicas ou industrial de construção civil que a empresa detenha, tendo em atenção as regras de correspondência entre as autorizações constantes daqueles certificados e as habilitações definidas na portaria a que se refere o n.º 4 do artigo 4.º
+
+4 - Nas condições fixadas na portaria a que alude o número anterior, as empresas podem, caso não pretendam alguma das habilitações a que têm direito nos termos do número anterior, indicar ao IMOPPI quais as habilitações que não pretendem ou que pretendem em classe inferior à que resulte da aplicação daqueles princípios.
+
+5 - Todos os pedidos de classificação e reclassificação que derem entrada no IMOPPI até 31 de Janeiro de 2004 são apreciados ao abrigo do Decreto-Lei n.º 61/99, de 2 de Março.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+###### Artigo 58.º — Norma revogatória
+
+1 - Sem prejuízo do disposto no artigo anterior, é revogado o Decreto-Lei n.º 61/99, de 2 de Março, e respectiva legislação regulamentar.
+
+2 - A Portaria n.º 1547/2002, de 24 de Dezembro, mantém-se, no entanto, em vigor para os efeitos previstos no n.º 19.3 da Portaria n.º 104/2001, de 21 de Fevereiro, na redacção que lhe foi dada pela Portaria n.º 1465/2002, de 14 de Novembro, enquanto vigorar o Decreto-Lei n.º 59/99, de 2 de Março.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 69/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2011-670018), em vigor a partir de 2011-07-01
+
+Visto e aprovado em Conselho de Ministros de 23 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Jorge Fernando Magalhães da Costa - Amílcar Augusto Contel Martins Theias.
+
+Promulgado em 26 de Dezembro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 29 de Dezembro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+> Revogado pelo/a Artigo 54.º do/a [Lei n.º 41/2015 - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/lei/41-2015-67377968), em vigor a partir de 2015-07-03

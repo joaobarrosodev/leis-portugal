@@ -1,0 +1,153 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:228248:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1986-888824602",
+ "dre_path": "/dr/detalhe/portaria/344-1986-228248",
+ "source_lastmod": "2024-09-24",
+ "versions": [
+  {
+   "date": "1986-07-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888824524"
+   ]
+  },
+  {
+   "date": "1990-07-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:575767:por",
+     "title": "Portaria n.º 555/90",
+     "published": "1990-07-17",
+     "dre_path": "/dr/detalhe/portaria/555-1990-575767"
+    }
+   ],
+   "changes": [
+    "Revoga 2.º",
+    "Revoga 4.º",
+    "Revoga 5.º"
+   ],
+   "fragments": [
+    "888824524",
+    "888824527",
+    "888824546",
+    "888824529",
+    "888824547",
+    "888824548",
+    "888824532",
+    "888824533",
+    "888824534",
+    "888824535",
+    "888824536",
+    "888824525"
+   ]
+  }
+ ],
+ "fragments": {
+  "888824524": {
+   "fragment_id": "888824603",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 344/86\n\nde 5 de Julho\n\nConsiderando a necessidade de diminuir o ruído dos aviões, tendo em conta a protecção do ambiente, as possibilidades técnicas e as consequências económicas;\n\nConsiderando as normas especificadas pela Organização da Aviação Civil Internacional no anexo 16 à Convenção Relativa à Aviação Civil Internacional, fixando um limite às emissões sonoras de aeronaves subsónicas;\n\nConsiderando, finalmente, as Directivas n.os 80/51/CEE, de 20 de Dezembro de 1979, e 83/206/CEE, de 21 de Abril de 1983, do Conselho das Comunidades Europeias sobre a mesma matéria:\n\nAo abrigo do disposto no Decreto-Lei n.º 562/80, de 6 de Dezembro:\n\nManda o Governo da República Portuguesa, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:"
+  },
+  "888824527": {
+   "fragment_id": "888824606",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nA partir de 1 de Janeiro de 1987 apenas será permitida a utilização no território nacional de aviões civis de propulsão por hélice ou subsónicos de propulsão por reacção, inscritos no Registo Aeronáutico Nacional (RAN) e incluídos numa das categorias referidas no volume 1 do anexo 16 à Convenção sobre a Aviação Civil Internacional (OACI), na sua versão aplicável a partir de 26 de Novembro de 1981, que satisfaçam as especificações dos capítulos 2, 3, 5 ou 6 da segunda parte do referido volume e possuam o respectivo certificado de ruído."
+  },
+  "888824546": {
+   "fragment_id": "888824607",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "1990-07-22",
+   "changed_by": [
+    "Revogado pelo/a 7.º do/a [Portaria n.º 555/90 - Diário da República n.º 163/1990, Série I de 1990-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/555-1990-575767), em vigor a partir de 1990-07-22"
+   ],
+   "markdown": "###### 2.º\n\n1 - O certificado de ruído será emitido pela Direcção-Geral da Aviação Civil mediante a apresentação de documentação técnica idónea ou o cumprimento de ensaios que demonstrem que o avião satisfaz a especificações pelo menos iguais às definidas nos referidos capítulos 2, 3, 5 ou 6.\n\n2 - O certificado de ruído conterá os elementos constantes do anexo ao presente diploma.\n\n3 - O certificado de ruído fará parte da documentação obrigatória a bordo do avião a que respeita.\n\n> Revogado pelo/a 7.º do/a [Portaria n.º 555/90 - Diário da República n.º 163/1990, Série I de 1990-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/555-1990-575767), em vigor a partir de 1990-07-22"
+  },
+  "888824529": {
+   "fragment_id": "888824608",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nOs certificados de ruído emitidos pelas autoridades aeronáuticas de outros Estados, segundo as normas contantes do anexo 16 da OACI, poderão ser reconhecidos pela Direcção-Geral da Aviação Civil para fins de emissão do seu próprio certificado. Os certificados emitidos pelas autoridades aeronáuticas dos Estados membros da Comunidade Económica Europeia serão automaticamente reconhecidos."
+  },
+  "888824547": {
+   "fragment_id": "888824609",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "1990-07-22",
+   "changed_by": [
+    "Revogado pelo/a 7.º do/a [Portaria n.º 555/90 - Diário da República n.º 163/1990, Série I de 1990-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/555-1990-575767), em vigor a partir de 1990-07-22"
+   ],
+   "markdown": "###### 4.º\n\nA partir de 1 de Julho de 1986 os aviões civis de propulsão por hélice cujo peso máximo à descolagem não ultrapasse 5700 kg, e os aviões subsónicos de propulsão por reacção não abrangidos por uma das categorias referidas no volume 1 do anexo 16 da OACI, apenas poderão ser inscritos no RAN se estiverem certificados de acordo com especificações pelo menos iguais às definidas nos capítulos 2 ou 6 da segunda parte daquele volume e possuírem o respectivo certificado de ruído.\n\n> Revogado pelo/a 7.º do/a [Portaria n.º 555/90 - Diário da República n.º 163/1990, Série I de 1990-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/555-1990-575767), em vigor a partir de 1990-07-22"
+  },
+  "888824548": {
+   "fragment_id": "888824610",
+   "type": 11,
+   "heading": "5.º",
+   "in_force_from": "1990-07-22",
+   "changed_by": [
+    "Revogado pelo/a 7.º do/a [Portaria n.º 555/90 - Diário da República n.º 163/1990, Série I de 1990-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/555-1990-575767), em vigor a partir de 1990-07-22"
+   ],
+   "markdown": "###### 5.º\n\nA Direcção-Geral da Aviação Civil, por derrogação do disposto no artigo anterior, poderá, após 1 de Julho de 1986 e mediante pedido devidamente fundamentado, permitir a inscrição no RAN nos seguintes casos:\n\n1) A aviões de propulsão por hélice referidos no n.º 4.º, anteriormente matriculados noutro Estado, desde que seja assegurado que serão unicamente utilizados no território nacional ou no de outros países que expressamente o permitam;\n\n2) A aviões que, não satisfazendo as normas aplicáveis de certificação de ruído, possam vir a satisfazer essas normas no prazo máximo de dois anos a partir da data da inscrição, desde que:\n\na) Para os tipos de aviões em causa existam dispositivos de conversão;\n\nb) Os aviões equipados com esses dispositivos satisfaçam as normas aplicáveis de certificação de ruídos;\n\nc) Esses dispositivos estejam efectivamente disponíveis;\n\nd) Os respectivos operadores tenham encomendado esses dispositivos;\n\n3) A avões matriculados noutros Estados e utilizados por operadores nacionais por via de contratos de aluguer ou de venda efectuados antes de 1 de Julho de 1979;\n\n4) A aviões para substituição de outros destruídos por acidente e que não seja possível substituir por aviões equivalentes detentores de certificado de ruído, desde que o pedido de matrícula seja efectuado no prazo máximo de um ano após o acidente;\n\n5) Aviões com interesse histórico;\n\n6) A aviões em relação aos quais os respectivos operadores demonstrem que a continuação das suas actividades ficará gravemente comprometida se os mesmos não puderem ser utilizados, com a condição de satisfazerem os Requisitos de certificação de ruído conforme o n.º 2 anterior ou serem abatidos ao RAN até 31 de Dezembro de 1986.\n\n> Revogado pelo/a 7.º do/a [Portaria n.º 555/90 - Diário da República n.º 163/1990, Série I de 1990-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/555-1990-575767), em vigor a partir de 1990-07-22"
+  },
+  "888824532": {
+   "fragment_id": "888824611",
+   "type": 11,
+   "heading": "6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º\n\n1 - Sem prejuízo do disposto no n.º 1.º, a partir de 1 de Janeiro de 1987 não será permitida a utilização no território nacional de aviões civis subsónicos de propulsão por reacção inscritos no RAN que não estejam certificados de acordo com as especificações definidas no capítulo 2 da segunda parte do volume 1 do anexo 16 da OACI.\n\n2 - A Direcção-Geral da Aviação Civil poderá conceder derrogações temporárias ao disposto no parágrafo anterior, desde que as entidades exploradoras se comprometam a substituir, o mais tardar até 31 de Dezembro de 1988, os aviões em questão por outros existentes no mercado que satisfaçam especificações pelo menos iguais às definidas no capítulo 3 da segunda parte do volume 1 do anexo 16 da OACI."
+  },
+  "888824533": {
+   "fragment_id": "888824612",
+   "type": 11,
+   "heading": "7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º\n\n1 - Em casos excepcionais, a Direcção-Geral da Aviação Civil poderá autorizar a utilização temporária no território nacional de aviões que não satisfaçam as disposições do presente diploma.\n\n2 - Poderá, ainda, ser autorizada a utilização de aviões civis de propulsão por hélice, com peso máximo à descolagem superior a 5700 kg, especialmente projectados e construídos em quantidade muito reduzida e utilizados para o transporte de produtos da indústria aeronáutica com dimensões excepcionais que não possam ser operados ao abrigo de outras disposições do presente documento, desde que seja assegurada a sua utilização apenas no território nacional ou no de outros países que expressamente o autorizem."
+  },
+  "888824534": {
+   "fragment_id": "888824613",
+   "type": 11,
+   "heading": "8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º\n\n1 - A partir de 1 de Janeiro de 1988 apenas será permitida a utilização no território nacional de aviões civis subsónicos de propulsão por reacção matriculados noutros Estados que satisfaçam as especificações pelo menos iguais às definidas no capítulo 2 da segunda parte do volume 1 do anexo 16 da OACI.\n\n2 - A Direcção-Geral da Aviação Civil poderá conceder derrogações temporárias ao disposto no parágrafo anterior, desde que as entidades exploradoras demonstrem a impossibilidade económica ou técnica de operar nos aeroportos nacionais com aviões que satisfaçam as especificações constantes do referido parágrafo.\n\nEstas derrogações cessarão o mais tardar em 31 de Dezembro de 1989."
+  },
+  "888824535": {
+   "fragment_id": "888824614",
+   "type": 11,
+   "heading": "9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 9.º\n\nA Direcção-Geral da Aviação Civil emitirá a regulamentação relativa aos procedimentos e métodos necessários para assegurar o cumprimento efectivo do disposto neste diploma por meio de circulares aeronáuticas."
+  },
+  "888824536": {
+   "fragment_id": "888824615",
+   "type": 11,
+   "heading": "10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º\n\nCompete à Direcção-Geral da Aviação Civil fiscalizar a observância do disposto no presente diploma e na regulamentação a que se refere o número anterior."
+  },
+  "888824525": {
+   "fragment_id": "888824604",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 20 de Junho de 1986.\n\nPelo Ministro das Obras Públicas, Transportes e Comunicações, Gonçalo Manuel Bourbon Sequeira Braga, Secretário de Estado dos Transportes e Comunicações."
+  }
+ }
+}

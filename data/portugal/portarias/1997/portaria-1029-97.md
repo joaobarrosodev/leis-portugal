@@ -1,0 +1,202 @@
+---
+schema_version: '1.0'
+id: pt:dre:658930:por
+title: Portaria n.º 1029/97
+short_title: null
+summary: Declara situação de calamidade agrícola de origem climatérica para as regiões e culturas afectadas pela seca verificada
+  nos meses de Fevereiro e Março ou pela chuva intensiva ocorrida nos meses de Maio e Junho
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 1029/97
+official_date: null
+publication_date: '1997-09-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 225/1997, Série I-B de 1997-09-29
+  number: '225'
+  series: I
+  supplement: null
+  pages: 5353 - 5356
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/09/225b00/53535356.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1029/1997/09/29/p/dre/pt/html
+  oj: null
+  dre: '658930'
+  dre_path: /dr/detalhe/portaria/1029-1997-658930
+  internal: pt:dre:658930:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1029-1997-658930
+  metadata_url: https://data.dre.pt/eli/port/1029/1997/09/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1029-1997-658930
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-09-29T00:00:00Z'
+integrity:
+  source_sha256: 69c72ae3feb9a3c6395ae2ff13ae6269d68040f3edd5fac37836f9e47229ad17
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-1029-658930.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Sipac
+- Financiamento
+- SECA
+- Regulamento
+- Agricultura
+- Ifadap
+- Fundo de Calamidades
+- Temporal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/20/1996/03/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/20/1996/03/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/430/1997/07/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/430/1997/07/01/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1029/97
+
+de 29 de Setembro
+
+A ocorrência de fenómenos climatéricos de carácter excepcional, designadamente a seca que se verificou nos meses de Fevereiro e Março e as chuvas intensas ocorridas durante os meses de Maio e Junho, afectaram com gravidade diversas culturas em várias regiões do País, provocando prejuízos avultados aos agricultores.
+
+A natureza dos fenómenos referidos não é passível de cobertura, no âmbito do seguro de colheitas, pelo que, caso não sejam tomadas medidas de apoio excepcional, os agricultores afectados sofrerão uma acentuada quebra no seu rendimento.
+
+Assim, face à irregularidade da ocorrência destes fenómenos e à gravidade das suas consequências, o Governo considera estarem reunidas as condições para declarar a situação de calamidade agrícola de origem climatérica, nos termos e para os efeitos previstos no artigo 6.º do [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), de 19 de Março, que institui o Sistema Integrado de Protecção contra as Aleatoriedades Climáticas.
+
+De acordo com a alínea e) do artigo 18.º do citado decreto-lei, e tendo em conta a [Portaria n.º 430/97](https://diariodarepublica.pt/dr/detalhe/portaria/430-1997-160511), de 1 de Julho, importa, na sequência desta declaração, definir os termos de intervenção do fundo de calamidades, designadamente as condições de contratação para acesso às medidas de apoio financeiro a criar no âmbito do fundo, bem como as condições de atribuição destas medidas, a sua forma e montantes.
+
+Assim, ao abrigo do artigo 6.º e da alínea c) do artigo 18.º, ambos do [Decreto-Lei n.º 20/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1996-535012), de 19 de Março:
+
+Manda o Governo, pelos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º É declarada situação de calamidade agrícola de origem climatérica para as regiões e culturas afectadas pela seca verificada nos meses de Fevereiro e Março ou pela chuva intensa ocorrida nos meses de Maio e Junho definidas no anexo I à presente portaria e que dela faz parte integrante.
+
+2.º As condições de contratação para o acesso às medidas de apoio financeiro no quadro da intervenção do fundo de calamidades são definidas nos termos do Regulamento constante do anexo II à presente portaria.
+
+3.º Os encargos decorrentes das medidas de apoio previstas no regulamento constante do anexo II a esta portaria serão suportados pelo fundo de calamidades.
+
+Ministérios das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+**Assinada em 3 de Setembro de 1997.**
+
+**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Fernando Manuel Van-Zeller Gomes da Silva.**
+
+## ANEXO I A QUE SE REFERE O N.º 1.º
+
+Culturas e regiões afectadas pela chuva
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/225b00/53535356.pdf))](https://files.diariodarepublica.pt/1s/1997/09/225b00/53535356.pdf)
+
+## ANEXO II A QUE SE REFERE O N.º 2.º
+
+Regulamento que estabelece o regime de intervenção do fundo de calamidades
+
+###### Artigo 1.º
+
+O presente regulamento estabelece o regime de intervenção do fundo de calamidades, definindo as respectivas condições de atribuição, forma e montantes das medidas de apoio financeiro.
+
+###### Artigo 2.º
+
+Sem prejuízo do disposto na alínea b) do n.º 7 do capítulo II do Regulamento anexo à [Portaria n.º 430/97](https://diariodarepublica.pt/dr/detalhe/portaria/430-1997-160511), de 1 de Julho, têm acesso aos apoios financeiros criados pela presente portaria as entidades que desenvolvam as culturas agrícolas constantes do anexo I que, nas regiões nele definidas, tenham sofrido, em virtude da ocorrência da seca verificada nos meses de Fevereiro e Março ou da chuva intensa ocorrida nos meses de Maio e Junho, uma quebra de produção dessas culturas superior a 20% e que, no ano de 1997, hajam celebrado seguro de colheitas e tenham aderido ao fundo de calamidades.
+
+###### Artigo 3.º
+
+Para efeitos do disposto nos n.os 6 e 7 do capítulo II do Regulamento anexo à [Portaria n.º 430/97](https://diariodarepublica.pt/dr/detalhe/portaria/430-1997-160511), de 1 de Julho, consideram-se as seguintes datas de ocorrência de calamidade:
+
+a) Seca: 1 de Fevereiro a 31 de Março;
+
+b) Chuvas intensas: 1 de Maio a 30 de Junho.
+
+###### Artigo 4.º
+
+Às entidades referidas no artigo 2.º será atribuída uma subvenção em capital, não reembolsável, destinada a compensar os prejuízos decorrentes da quebra de produção verificada nas culturas e regiões afectadas e uma moratória com bonificação de juros.
+
+###### Artigo 5.º
+
+A subvenção de capital não incidirá sobre a produção objecto de indemnização a atribuir no âmbito do seguro de colheitas relativo à campanha de 1996-1997.
+
+###### Artigo 6.º
+
+A subvenção de capital será calculada da seguinte forma:
+
+a) Cereais de sequeiro de Outono-Inverno (trigo-mole, cevada, triticale e centeio) - o cálculo da subvenção é função do diferencial entre 80% da produtividade decorrente da apólice de seguro de colheitas da campanha de produção de 1996-1997 (campanha de comercialização de 1997-1998) e a produtividade obtida na mesma campanha e do preço de intervenção, acrescido da ajuda co-financiada;
+
+b) Trigo-duro e aveia para grão - o cálculo da subvenção é função do diferencial entre 80% da produtividade decorrente da apólice de seguro de colheitas da campanha de produção de 1996-1997 e a produtividade obtida na mesma campanha e do preço de intervenção. Tal subvenção incidirá sobre as quebras de produção até ao limite de 60% da produção segura;
+
+c) Vinha - o cálculo da subvenção é função do diferencial entre 80% da produtividade decorrente da apólice de seguro de colheitas da campanha de produção de 1996-1997 e a produtividade obtida na mesma campanha e do preço da campanha de produção de 1995-1996;
+
+d) Tomate para indústria - o cálculo da subvenção é função do diferencial entre 80% da produtividade decorrente da apólice de seguro de colheitas da campanha de produção de 1996-1997 e a produtividade obtida na mesma campanha e do preço mínimo à produção;
+
+e) Batata, melão e cereja - o cálculo da subvenção é função do diferencial entre 80% da produtividade decorrente da apólice de seguro de colheitas da campanha de produção de 1996-1997 e a produtividade obtida na mesma campanha e do preço da campanha de produção de 1995-1996. Tal subvenção incidirá sobre as quebras de produção até ao limite de 60% da produção segura.
+
+###### Artigo 7.º
+
+As candidaturas às medidas de apoio previstas neste regulamento são apresentadas pelos interessados junto das direcções regionais de agricultura competentes ou das entidades para o efeito designadas pelos organismos pagadores, sempre que se justifique.
+
+###### Artigo 8.º
+
+As entidades receptoras das candidaturas procederão à respectiva certificação, após prévio controlo administrativo.
+
+###### Artigo 9.º
+
+As candidaturas que forem objecto de certificação serão posteriormente enviadas para o INGA, caso respeitem a cereais de sequeiro Outono-Inverno, incluindo trigo-duro e aveia para grão, e para o IFADAP, nos restantes casos, organismos que procederão ao pagamento da subvenção de capital prevista no artigo 4.º
+
+###### Artigo 10.º
+
+Ao INGA e ao IFADAP compete, igualmente, o acompanhamento e a fiscalização das operações relativamente às quais assumem como entidade pagadora, cabendo-lhes também a responsabilidade pela recuperação das verbas indevidamente pagas acrescidas de juros e pela promoção de procedimento criminal, sendo caso disso.
+
+###### Artigo 11.º
+
+1 - Os encargos decorrentes da aplicação do presente regulamento não poderão ultrapassar 4,5 milhões de contos.
+
+O valor dos encargos será suportado pelas verbas do programa SIPAC, projecto «Fundo de calamidades», que será, para o efeito, reforçado com as verbas necessárias.
+
+2 - Caso o montante global das candidaturas exceda a verba referida no número anterior, as ajudas serão atribuídas proporcionalmente em função das candidaturas apresentadas, com referência a cada tipo de cultura a definir por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+###### Artigo 12.º
+
+Compete ao IFADAP adoptar as normas técnicas, financeiras e de funcionamento da medida prevista neste regulamento.

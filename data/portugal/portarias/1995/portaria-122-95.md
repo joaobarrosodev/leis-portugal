@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:143294:por
+title: Portaria n.º 122/95
+short_title: null
+summary: Mantém em vigor, para o ano de 1995, os valores das taxas de segurança fixados pela Portaria n.º 1172/92, de 22 de
+  Dezembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Administração Interna, das Finanças e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 122/95
+official_date: null
+publication_date: '1995-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1995, Série I-B de 1995-02-04
+  number: '30'
+  series: I
+  supplement: null
+  pages: 702 - 702
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/02/030b00/07020702.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/122/1995/02/04/p/dre/pt/html
+  oj: null
+  dre: '143294'
+  dre_path: /dr/detalhe/portaria/122-1995-143294
+  internal: pt:dre:143294:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/122-1995-143294
+  metadata_url: https://data.dre.pt/eli/port/122/1995/02/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/122-1995-143294
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-04-16T00:00:00Z'
+integrity:
+  source_sha256: 933d9bd085f825079fecea4a3970e6b6a2e4b42ba841dd9b5bbc8f16d839b425
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-122-143294.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeroporto
+- Transporte Aéreo
+- Aviação Civil
+- Segurança Aérea
+- Taxa Aeroportuária
+relationships:
+- type: amended_by
+  target: pt:dre:173108:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/102/1991/03/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/102/1991/03/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1172/1992/12/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1172/1992/12/22/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 122/95
+
+de 4 de Fevereiro
+
+Nos termos do artigo 6.º do [Decreto-Lei n.º 102/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1991-459439), de 8 de Março, o montante das taxas de segurança e a distribuição das respectivas receitas são anualmente estabelecidos em portaria.
+
+Porque não se verificam razões que determinem a revisão dos montantes das taxas de segurança em vigor:
+
+Manda o Governo, pelos Ministros da Administração Interna, das Finanças e das Obras Públicas, Transportes e Comunicações, nos termos do artigo 6.º do [Decreto-Lei n.º 102/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1991-459439), de 8 de Março, que os valores das taxas de segurança fixados pela [Portaria n.º 1172/92](https://diariodarepublica.pt/dr/detalhe/portaria/1172-1992-624266), de 22 de Dezembro, vigorem para o ano de 1995.
+
+Ministérios da Administração Interna, das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+**Assinada em 10 de Janeiro de 1995.**
+
+Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna. - Pelo Ministro das Finanças, Norberto Emílio Sequeira da Rosa, Secretário de Estado do Orçamento. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.

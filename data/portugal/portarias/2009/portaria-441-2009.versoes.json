@@ -1,0 +1,351 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:607755:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-970234817",
+ "dre_path": "/dr/detalhe/portaria/441-2009-607755",
+ "source_lastmod": "2026-10-14",
+ "versions": [
+  {
+   "date": "2010-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:613908:por",
+     "title": "Portaria n.º 256/2010",
+     "published": "2010-05-06",
+     "dre_path": "/dr/detalhe/portaria/256-2010-613908"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "970859675",
+    "970859875",
+    "970860075",
+    "970860275",
+    "970860475",
+    "970860675",
+    "970860875",
+    "970861075",
+    "970861275",
+    "970861475",
+    "970861675",
+    "970861875",
+    "970862075",
+    "970862275",
+    "1178547975",
+    "970862675",
+    "970862875",
+    "1178550675",
+    "970863275",
+    "1178548175",
+    "970863675",
+    "970863875",
+    "970864075",
+    "970864275",
+    "970864475",
+    "970864675",
+    "970864875",
+    "970865075"
+   ]
+  },
+  {
+   "date": "2010-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:343947:por",
+     "title": "Portaria n.º 813/2010",
+     "published": "2010-08-27",
+     "dre_path": "/dr/detalhe/portaria/813-2010-343947"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "970859675",
+    "970859875",
+    "970860075",
+    "970860275",
+    "970860475",
+    "970860675",
+    "970860875",
+    "970861075",
+    "970861275",
+    "970861475",
+    "970861675",
+    "970861875",
+    "970862075",
+    "970862275",
+    "1178547975",
+    "970862675",
+    "970862875",
+    "1178550675",
+    "970863275",
+    "1179169375",
+    "970863675",
+    "970863875",
+    "970864075",
+    "970864275",
+    "970864475",
+    "970864675",
+    "970864875",
+    "970865075"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:613908:por",
+     "title": "Portaria n.º 256/2010",
+     "published": "2010-05-06",
+     "dre_path": "/dr/detalhe/portaria/256-2010-613908",
+     "date": "2026-05-07"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "970859675": {
+   "fragment_id": "970859575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Regulamento (CE) n.º 320/2006, do Conselho, de 20 de Fevereiro, alterado pelo Regulamento (CE) n.º 2011/2006, do Conselho, de 19 de Dezembro, e pelo Regulamento (CE) n.º 1261/2007, do Conselho, de 9 de Outubro, estabeleceu um regime temporário de reestruturação da indústria açucareira na Comunidade, com o objectivo de reduzir o excedente de açúcar na União Europeia, prevendo vários tipos de ajudas, nomeadamente ajudas à diversificação e ajudas suplementares à diversificação a aplicar nas regiões afectadas pelo encerramento das indústrias açucareiras.\n\nTendo por objectivo a dinamização das regiões anteriormente envolvidas na produção de beterraba, o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas elaborou, de acordo com o artigo 14.º do Regulamento (CE) n.º 968/2006, da Comissão, de 27 de Junho, o Programa Nacional de Reestruturação que define as medidas para a atribuição da ajuda à diversificação dirigida fundamentalmente às acções a desenvolver a jusante da actividade agrícola, e que se encontra disponível no sítio da Internet do Gabinete de Planeamento e Políticas (GPP).\n\nPor outro lado, para permitir a dinamização da actividade agrícola opta-se por atribuir a ajuda suplementar à diversificação aos produtores de beterraba sacarina que deixaram de produzir beterraba em resultado da reestruturação da indústria, ajuda que envolve um total de 7,4 milhões de euros, e que deve ser concedida tendo por base os direitos de contratação que os produtores deixaram de possuir em função da renúncia de quota de açúcar da fábrica em cada ano da reestruturação.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo dos Regulamentos (CE) n.os 320/2006, do Conselho, de 20 de Fevereiro, e 968/2006, da Comissão, de 27 de Junho, o seguinte:"
+  },
+  "970859875": {
+   "fragment_id": "970859775",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "970860075": {
+   "fragment_id": "970859975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece as regras nacionais complementares das seguintes ajudas:\n\na) Ajuda à diversificação definida no Programa Nacional de Reestruturação do sector do açúcar;\n\nb) Ajuda suplementar à diversificação definida no artigo 7.º do Regulamento (CE) n.º 320/2006, do Conselho, de 20 de Fevereiro."
+  },
+  "970860275": {
+   "fragment_id": "970860175",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\nPodem beneficiar das ajudas previstas no presente diploma:\n\na) As pessoas singulares ou colectivas do sector agrícola e das indústrias alimentares referidas no anexo i do presente diploma, que deste faz parte integrante, para a ajuda prevista na alínea a) do artigo 1.º;\n\nb) Os produtores cujos direitos de contratação de beterraba sacarina cessaram em virtude da reestruturação da indústria açucareira ocorrida entre as campanhas de comercialização de 2006-2007 a 2008-2009, para a ajuda prevista na alínea b) do artigo 1.º"
+  },
+  "970860475": {
+   "fragment_id": "970860375",
+   "type": 1,
+   "heading": "Capítulo II — Ajuda à diversificação do Programa Nacional de Reestruturação do sector do açúcar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Ajuda à diversificação do Programa Nacional de Reestruturação do sector do açúcar"
+  },
+  "970860675": {
+   "fragment_id": "970860575",
+   "type": 11,
+   "heading": "Artigo 3.º — Critérios de elegibilidade dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Critérios de elegibilidade dos candidatos\n\nOs candidatos à ajuda prevista no presente capítulo devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos, quando se trate de pessoas colectivas;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos e cumprirem as normas comunitárias e nacionais relativas ao ambiente, higiene e bem-estar dos animais;\n\nc) Possuírem a situação regularizada face à administração fiscal e à segurança social;\n\nd) Terem um sistema de contabilidade organizada;\n\ne) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000."
+  },
+  "970860875": {
+   "fragment_id": "970860775",
+   "type": 11,
+   "heading": "Artigo 4.º — Medidas e acções elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Medidas e acções elegíveis\n\n1 - A ajuda à diversificação prevista no presente capítulo, compreende as seguintes medidas:\n\na) Medida A, designada «Criação e modernização da indústria agro-alimentar», que integra as seguintes acções elegíveis:\n\ni) Acção A1, designada «Apoio à criação de actividades alternativas na vertente utilização de biomassa»;\n\nii) Acção A2, designada «Redução de custos energéticos»;\n\niii) Acção A3, designada «Aumento da capacidade de armazenagem»;\n\nb) Medida B, designada «Complemento a investimentos em infra-estruturas relacionadas com a evolução e a adaptação da agricultura», que integra as seguintes acções elegíveis:\n\ni) Acção B1, designada «Aperfeiçoamento e adaptação da gestão do regadio»;\n\nii) Acção B2, designada «Criação de serviços de apoio à gestão dos recursos hídricos».\n\n2 - São considerados elegíveis os investimentos, relativos às acções referidas no número anterior, e discriminados no anexo i ao presente diploma.\n\n3 - São considerados elegíveis os investimentos realizados, a partir de 1 de Outubro de 2008, nos concelhos referidos no anexo ii ao presente diploma, que deste faz parte integrante.\n\n4 - Não são elegíveis as acções que tenham obtido apoio no âmbito de outros regimes, nomeadamente ao abrigo do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER)."
+  },
+  "970861075": {
+   "fragment_id": "970860975",
+   "type": 11,
+   "heading": "Artigo 5.º — Limites financeiros e nível de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limites financeiros e nível de apoio\n\nAs acções estão sujeitas aos limites financeiros e aos níveis de apoio constantes do anexo iii ao presente diploma, que dele faz parte integrante."
+  },
+  "970861275": {
+   "fragment_id": "970861175",
+   "type": 11,
+   "heading": "Artigo 6.º — Apresentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Apresentação\n\n1 - As candidaturas são apresentadas nas Direcções Regionais de Agricultura e Pescas (DRAP), no prazo de 20 dias úteis, a contar da data de publicação da presente portaria, utilizando o modelo disponível no sítio da Internet das DRAP.\n\n2 - As candidaturas devem ser acompanhadas dos seguintes documentos:\n\na) Declaração de compromisso em que o beneficiário não se candidata a outras ajudas para a realização do mesmo investimento;\n\nb) Declaração de início de actividade;\n\nc) Apresentação de orçamentos relativos às acções propostas."
+  },
+  "970861475": {
+   "fragment_id": "970861375",
+   "type": 11,
+   "heading": "Artigo 7.º — Análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Análise\n\n1 - As DRAP analisam as candidaturas e emitem parecer vinculativo sobre a sua elegibilidade, do qual deve constar a apreciação do cumprimento dos critérios previstos no artigo 3.º, bem como sobre a relevância dos investimentos propostos para a respectiva região.\n\n2 - As DRAP remetem ao Gabinete de Planeamento e Políticas (GPP), para decisão, as candidaturas e respectivos pareceres, no prazo de 30 dias úteis, a contar do prazo estabelecido no n.º 1 do artigo 6.º"
+  },
+  "970861675": {
+   "fragment_id": "970861575",
+   "type": 11,
+   "heading": "Artigo 8.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Decisão\n\n1 - O GPP aprova as candidaturas consideradas elegíveis nos termos do artigo 7.º, mediante o orçamento disponível para cada acção, podendo proceder à transferência de verbas entre as acções dentro do limite global definido no anexo iii e nos termos do disposto nos números seguintes.\n\n2 - Se o montante financeiro correspondente à totalidade de candidaturas para uma ou mais acções ultrapassar os montantes fixados por acção no anexo iii ao presente diploma, mas o montante global não for esgotado, o GPP procede à transferência de verbas entre acções por forma a satisfazer todas as candidaturas.\n\n3 - Se o montante financeiro correspondente à totalidade das candidaturas ultrapassar o limite global fixado no anexo iii e numa ou mais acções as candidaturas não ultrapassarem o respectivo limite financeiro, o GPP, após consulta às DRAP, procede à reafectação da verba disponível, aplicando seguidamente os critérios de prioridade definidos no anexo iv ao presente diploma, que deste faz parte integrante.\n\n4 - Se o montante financeiro correspondente à totalidade das candidaturas ultrapassar o limite global fixado no anexo iii, o GPP aprova as candidaturas até ao limite financeiro definido em cada acção, aplicando os critérios de prioridade estabelecidos no anexo iv.\n\n5 - O GPP comunica a decisão aos candidatos e às DRAP.\n\n6 - O GPP envia ao Instituto de Financiamento da Agricultura e Pescas I. P. (IFAP, I. P.), cópia dos processos das candidaturas aprovadas e respectivos montantes."
+  },
+  "970861875": {
+   "fragment_id": "970861775",
+   "type": 11,
+   "heading": "Artigo 9.º — Novo período de apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Novo período de apresentação de candidaturas\n\n1 - Sempre que o montante financeiro global correspondente às candidaturas aprovadas seja inferior ao limite da ajuda à diversificação fixado no anexo iii, o GPP pode decidir da abertura de novo período de apresentação de candidaturas.\n\n2 - A abertura de um novo período de apresentação de candidaturas é publicitada por aviso publicado no Diário da República e no sítio da Internet do GPP, em www.gpp.pt."
+  },
+  "970862075": {
+   "fragment_id": "970861975",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigações dos beneficiários\n\nOs beneficiários devem cumprir as seguintes obrigações:\n\na) Não locar, alienar ou por qualquer forma onerar os equipamentos ou as instalações co-financiadas, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia aprovação das DRAP;\n\nb) Manter a actividade e as condições legais necessárias ao exercício da mesma durante cinco anos a contar da data de celebração do contrato, ou até ao termo da operação, se tal termo ultrapassar os cinco anos."
+  },
+  "970862275": {
+   "fragment_id": "970862175",
+   "type": 11,
+   "heading": "Artigo 11.º — Contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contrato\n\n1 - A concessão da ajuda é formalizada em contrato escrito, a celebrar entre o beneficiário e o IFAP, I. P.\n\n2 - O IFAP, I. P., remete ao beneficiário, no prazo de 10 dias úteis, a contar da data de recepção das candidaturas aprovadas, o contrato para assinatura ou informa do local onde o mesmo pode ser assinado.\n\n3 - O beneficiário remete o contrato devidamente assinado ao IFAP, I. P., no prazo por este fixado, acompanhado de uma garantia constituída a favor daquele organismo, no montante de 5 % do valor da ajuda a conceder.\n\n4 - A não celebração do contrato por razões imputáveis ao beneficiário, no prazo referido no número anterior, determina a caducidade da decisão de concessão da ajuda."
+  },
+  "1178547975": {
+   "fragment_id": "970862375",
+   "type": 11,
+   "heading": "Artigo 12.º — Execução material e pagamentos",
+   "in_force_from": "2026-05-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 256/2010 - Diário da República n.º 88/2010, Série I de 2010-05-06](https://diariodarepublica.pt/dr/detalhe/portaria/256-2010-613908), em vigor a partir de 2026-05-07."
+   ],
+   "markdown": "###### Artigo 12.º — Execução material e pagamentos\n\n1 - Os investimentos devem estar material e financeiramente executados em conformidade com o disposto no artigo 14.º do Regulamento (CE) n.º 968/2006, da Comissão.\n\n2 - Os pedidos de pagamento são apresentados junto do IFAP, I. P., até 30 de Abril de 2012, acompanhados dos relatórios de execução das respectivas acções.\n\n3 - Podem ser apresentados até dois pedidos de pagamento parciais, desde de que o valor conjunto não ultrapasse 75 % do montante de ajuda aprovado.\n\n4 - Os pagamentos parciais ou integrais são efectuados nos seguintes períodos:\n\na) Durante o mês de Março, para os pedidos apresentados até 30 de Outubro do ano anterior;\n\nb) Durante o mês de Setembro, para os pedidos apresentados até 30 de Abril do mesmo ano.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 256/2010 - Diário da República n.º 88/2010, Série I de 2010-05-06](https://diariodarepublica.pt/dr/detalhe/portaria/256-2010-613908), em vigor a partir de 2026-05-07."
+  },
+  "970862675": {
+   "fragment_id": "970862575",
+   "type": 11,
+   "heading": "Artigo 13.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Controlo\n\n1 - O IFAP, I. P., é responsável por efectuar os controlos administrativos e os controlos in loco.\n\n2 - Os controlos administrativos, prévios ao pagamento, incidem sobre 100 % dos pedidos apresentados.\n\n3 - Os controlos in loco, prévios ao pagamento, são realizados por amostragem, a pelo menos 10 % do montante dos pedidos apresentados.\n\n4 - As acções de controlo in loco são realizadas por amostragem anual e ao longo de cinco anos para a totalidade dos beneficiários, de modo a confirmar o disposto no artigo 10.º\n\n5 - O IFAP, I. P., informa os beneficiários, as DRAP e o GPP dos resultados apurados no âmbito dos controlos efectuados."
+  },
+  "970862875": {
+   "fragment_id": "970862775",
+   "type": 1,
+   "heading": "Capítulo III — Ajuda suplementar à diversificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Ajuda suplementar à diversificação"
+  },
+  "1178550675": {
+   "fragment_id": "970862975",
+   "type": 11,
+   "heading": "Artigo 14.º — Critérios de elegibilidade dos candidatos",
+   "in_force_from": "2010-05-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 256/2010 - Diário da República n.º 88/2010, Série I de 2010-05-06](https://diariodarepublica.pt/dr/detalhe/portaria/256-2010-613908), em vigor a partir de 2010-05-07."
+   ],
+   "markdown": "###### Artigo 14.º — Critérios de elegibilidade dos candidatos\n\nOs candidatos à ajuda prevista no presente capítulo devem reunir as seguintes condições:\n\na) [Revogada];\n\nb) [Revogada];\n\nc) [Revogada];\n\nd) Encontrarem-se estabelecidos num concelho referido no anexo ii;\n\ne) Serem detentores de direitos de contratação cessados decorrentes da reestruturação da indústria açucareira ocorrida entre as campanhas de comercialização de 2006-2007 a 2008-2009;\n\nf) Serem titulares de uma exploração agrícola.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 256/2010 - Diário da República n.º 88/2010, Série I de 2010-05-06](https://diariodarepublica.pt/dr/detalhe/portaria/256-2010-613908), em vigor a partir de 2010-05-07."
+  },
+  "970863275": {
+   "fragment_id": "970863175",
+   "type": 11,
+   "heading": "Artigo 15.º — Nível da ajuda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Nível da ajuda\n\n1 - O montante total a atribuir no âmbito desta ajuda é de (euro) 7 398 621.\n\n2 - A ajuda é distribuída, de forma proporcional, em função dos direitos de contratação renunciados constantes dos pedidos de pagamento formulados nos termos do artigo 16.º por forma a esgotar o montante total referido no n.º 1.\n\n3 - O valor unitário indicativo é de (euro) 13,80 por tonelada de direitos de contratação de beterraba renunciados."
+  },
+  "1178548175": {
+   "fragment_id": "970863375",
+   "type": 11,
+   "heading": "Artigo 16.º — Pedido de pagamento",
+   "in_force_from": "2026-05-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 256/2010 - Diário da República n.º 88/2010, Série I de 2010-05-06](https://diariodarepublica.pt/dr/detalhe/portaria/256-2010-613908), em vigor a partir de 2026-05-07."
+   ],
+   "markdown": "###### Artigo 16.º — Pedido de pagamento\n\n1 - O pedido de pagamento deve ser formalizado até ao dia 31 de Maio de 2010, pelo beneficiário, através da apresentação de modelo próprio junto do IFAP, I. P., divulgado em www.ifap.pt.\n\n2 - O pagamento é efectuado até ao dia 30 de Setembro de 2010.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 256/2010 - Diário da República n.º 88/2010, Série I de 2010-05-06](https://diariodarepublica.pt/dr/detalhe/portaria/256-2010-613908), em vigor a partir de 2026-05-07."
+  },
+  "970863675": {
+   "fragment_id": "970863575",
+   "type": 11,
+   "heading": "Artigo 17.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Controlo\n\nO IFAP, I. P., é responsável por efectuar os controlos administrativos e os controlos in loco."
+  },
+  "970863875": {
+   "fragment_id": "970863775",
+   "type": 1,
+   "heading": "Capítulo IV — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposição final"
+  },
+  "970864075": {
+   "fragment_id": "970863975",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "970864275": {
+   "fragment_id": "970864175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 16 de Abril de 2009."
+  },
+  "970864475": {
+   "fragment_id": "970864375",
+   "type": 14,
+   "heading": "Anexo I — [a que se refere a alínea a) do artigo 2.º e o n.º 2 do artigo 4.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [a que se refere a alínea a) do artigo 2.º e o n.º 2 do artigo 4.º]\n\n(ver documento original)"
+  },
+  "970864675": {
+   "fragment_id": "970864575",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 4.º e artigo 14.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 4.º e artigo 14.º)\n\nAbrantes.\n\nAlandroal.\n\nAlcácer do Sal.\n\nAlenquer.\n\nAljustrel.\n\nAlmeirim.\n\nAlpiarça.\n\nAlter do Chão.\n\nAlvito.\n\nArraiolos.\n\nAvis.\n\nAzambuja.\n\nBeja.\n\nBenavente.\n\nCampo Maior.\n\nCantanhede.\n\nCartaxo.\n\nChamusca.\n\nCoimbra.\n\nCondeixa-a-Nova.\n\nConstância.\n\nCoruche.\n\nCuba.\n\nElvas.\n\nEstremoz.\n\nÉvora.\n\nFerreira do Alentejo.\n\nFigueira da Foz.\n\nFronteira.\n\nGolegã.\n\nLeiria.\n\nLoures.\n\nMonforte.\n\nMontemor-o-Novo.\n\nMontemor-o-Velho.\n\nMontijo.\n\nMora.\n\nPalmela.\n\nPortel.\n\nRedondo.\n\nReguengos de Monsaraz.\n\nSalvaterra de Magos.\n\nSantarém.\n\nSerpa.\n\nSoure.\n\nSousel.\n\nTorres Novas.\n\nVendas Novas.\n\nVidigueira.\n\nVila Franca de Xira."
+  },
+  "970864875": {
+   "fragment_id": "970864775",
+   "type": 14,
+   "heading": "Anexo III — (a que se referem os artigos 5.º e 8.º e o n.º 1 do artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se referem os artigos 5.º e 8.º e o n.º 1 do artigo 9.º)\n\n(ver documento original)"
+  },
+  "970865075": {
+   "fragment_id": "970864975",
+   "type": 14,
+   "heading": "Anexo IV — Medida A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Medida A\n\n(a que se referem os n.os 3 e 4 do artigo 8.º)\n\nAcções A1 e A2:\n\n1.ª prioridade - candidaturas apresentadas pela indústria do açúcar (CAE 10810);\n\n2.ª prioridade - candidaturas cujo objectivo é realizar uma adaptação de equipamento disponível.\n\nAcção A3:\n\n1.ª prioridade - candidaturas apresentadas por pessoas colectivas, designadamente agrupamentos de produtores e associações de produtores;\n\n2.ª prioridade - investimentos na capacidade de armazenagem de produtos maioritariamente obtidos na região resultantes da transformação de cereais e leguminosas;\n\n3.ª prioridade - candidatos com maior volume da produção comercializada (VPC).\n\nRegiões envolvidas - v. anexo ii.\n\nMedida B\n\nAcções B1 e B2:\n\n1.ª prioridade - associações sem fins lucrativos;\n\n2.ª prioridade - maior área abrangida;\n\n3.ª prioridade - maior número de produtores abrangidos."
+  },
+  "1179169375": {
+   "fragment_id": "970863375",
+   "type": 11,
+   "heading": "Artigo 16.º — Pedido de pagamento",
+   "in_force_from": "2010-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 813/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/813-2010-343947), em vigor a partir de 2010-08-27.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 256/2010 - Diário da República n.º 88/2010, Série I de 2010-05-06](https://diariodarepublica.pt/dr/detalhe/portaria/256-2010-613908), em vigor a partir de 2026-05-07."
+   ],
+   "markdown": "###### Artigo 16.º — Pedido de pagamento\n\n1 - O pedido de pagamento deve ser formalizado pelo beneficiário, através da apresentação, até ao dia 2 de Setembro de 2010, junto do IFAP, I. P., de modelo próprio, disponível em www.ifap.pt, devidamente preenchido e assinado.\n\n2 - O pagamento é efectuado até ao dia 30 de Setembro de 2010.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 813/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/813-2010-343947), em vigor a partir de 2010-08-27.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 256/2010 - Diário da República n.º 88/2010, Série I de 2010-05-06](https://diariodarepublica.pt/dr/detalhe/portaria/256-2010-613908), em vigor a partir de 2026-05-07."
+  }
+ }
+}

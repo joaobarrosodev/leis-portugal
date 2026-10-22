@@ -1,0 +1,1689 @@
+---
+schema_version: '1.0'
+id: pt:dre:626241:por
+title: Decreto-Lei n.º 276/2001
+short_title: null
+summary: Estabelece as normas legais tendentes a pôr em aplicação em Portugal a Convenção Europeia para a Protecção dos Animais
+  de Companhia e um regime especial para a detenção de animais potencialmente perigosos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 276/2001
+official_date: null
+publication_date: '2001-10-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 241/2001, Série I-A de 2001-10-17
+  number: '241'
+  series: I
+  supplement: null
+  pages: 6572 - 6589
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/10/241a00/65726589.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-276-2001.versoes.json
+  count: 9
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2001-10-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-22'
+    amending: pt:dre:432864:por
+    amending_title: Decreto-Lei n.º 315/2003
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 6.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 41.º
+    - Altera Artigo 66.º
+    - Altera Artigo 68.º
+    - Altera Artigo 70.º
+    - Altera Artigo 73.º
+    - Altera Anexo III
+    - Revoga Artigo 20.º
+    - Revoga Capítulo VIII
+    - Revoga Artigo 65.º
+  - date: '2007-07-25'
+    amending: pt:dre:636746:por
+    amending_title: Decreto-Lei n.º 265/2007
+    changes:
+    - Altera Artigo 73.º
+  - date: '2009-09-25'
+    amending: pt:dre:490439:por
+    amending_title: Decreto-Lei n.º 255/2009
+    changes:
+    - Revoga Capítulo VII
+    - Revoga Artigo 54.º
+    - Revoga Artigo 57.º
+  - date: '2012-12-17'
+    amending: pt:dre:190815:por
+    amending_title: Decreto-Lei n.º 260/2012
+    changes:
+    - Adita Artigo 3.º-B
+    - Adita Capítulo 3.º-C
+    - Adita Artigo 3.º-D
+    - Adita Artigo 3.º-E
+    - Adita Artigo 3.º-F
+    - Adita Artigo 3.º-G
+    - Adita Artigo 3.º-H
+    - Adita Artigo 3.º-I
+    - Adita Artigo 3.º-J
+    - Adita Artigo 67.º-A
+    - Adita Artigo 71.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 3.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 19.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 32.º
+    - Altera Artigo 35.º
+    - Altera Artigo 38.º
+    - Altera Capítulo X
+    - Altera Artigo 66.º
+    - Altera Artigo 67.º
+    - Altera Artigo 68.º
+    - Altera Artigo 70.º
+    - Altera Artigo 71.º
+    - Altera Capítulo XI
+    - Altera Artigo 72.º
+    - Altera Artigo 73.º
+  - date: '2017-08-24'
+    amending: pt:dre:108038374:por
+    amending_title: Lei n.º 95/2017
+    changes:
+    - Adita Artigo 53.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Capítulo VII
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 57.º
+    - Altera Artigo 58.º
+    - Altera Artigo 68.º
+    - Altera Artigo 69.º
+    - Altera Artigo 70.º
+    - Altera Artigo 71.º
+  - date: '2019-01-31'
+    amending: pt:dre:118748847:por
+    amending_title: Decreto-Lei n.º 20/2019
+    changes:
+    - Altera Artigo 3.º-A
+    - Altera Artigo 3.º-B
+    - Altera Capítulo 3.º-C
+    - Altera Artigo 3.º-D
+    - Altera Artigo 3.º-E
+    - Altera Artigo 3.º-F
+    - Altera Artigo 3.º-G
+    - Altera Artigo 3.º-H
+    - Altera Artigo 70.º
+    - Altera Artigo 71.º
+    - Altera Artigo 73.º
+  - date: '2019-08-13'
+    amending: pt:dre:123815984:por
+    amending_title: Resolução da Assembleia da República n.º 138/2019
+    changes:
+    - Altera Artigo 3.º-A
+    - Altera Artigo 3.º-B
+    - Altera Capítulo 3.º-C
+    - Altera Artigo 3.º-D
+    - Altera Artigo 3.º-E
+    - Altera Artigo 3.º-F
+    - Altera Artigo 3.º-G
+    - Altera Artigo 3.º-H
+    - Altera Artigo 3.º-I
+    - Altera Artigo 3.º-J
+    - Altera Artigo 70.º
+    - Altera Artigo 71.º
+    - Altera Artigo 73.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 68.º
+    - Altera Artigo 71.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/276/2001/p/cons/20210129/pt/html
+  oj: null
+  dre: '626241'
+  dre_path: /dr/detalhe/decreto-lei/276-2001-626241
+  internal: pt:dre:626241:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2001-626241
+  metadata_url: https://data.dre.pt/eli/dec-lei/276/2001/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34555875
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-34555875
+  retrieved_at: '2026-10-22T11:52:28Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 89707db067b74d43e85e3a91547a14c26d560198cce397bfd8efb21746927ce6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:52:28Z'
+  notes: 9 versão(ões); histórico completo em decreto-lei-276-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Animal Doméstico
+- Animal Perigoso
+- Animal Vadio
+- Vida Selvagem
+- Espetáculos e Divertimentos Públicos
+- Doença Animal
+- Centro de Recolha de Animais
+- Multa
+- Proteção dos Animais
+- Contra-ordenação
+- Direção Geral de Veterinária
+- Direcção Geral da Administração Autárquica
+- Direcção Regional de Agricultura
+- Segurança Pública
+- Fiscalização
+- Abate de Animais
+- Reprodução Animal
+- Licença de Utilização
+- Câmara Municipal
+- Habitação
+- Cirurgia
+- Responsabilidade Civil
+- Seguro Obrigatório de Responsabilidade Civil
+- Taxa
+- Transporte de Animais
+- Venda
+- Veterinário
+- Saúde Animal
+relationships:
+- type: amended_by
+  target: pt:dre:432864:por
+  label: Adita Artigo 3.º-A; Adita Artigo 6.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º;
+    Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera
+    Artigo 14.º; Altera Artigo 17.º; Altera Artigo 19.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera
+    Artigo 28.º; Altera Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864
+  date: '2003-12-17'
+- type: amended_by
+  target: pt:dre:636746:por
+  label: Altera Artigo 73.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-2007-636746
+  date: '2007-07-24'
+- type: amended_by
+  target: pt:dre:641156:por
+  label: Adita Artigo 3.º-A; Adita Artigo 6.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º;
+    Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera
+    Artigo 14.º; Altera Artigo 17.º; Altera Artigo 19.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera
+    Artigo 28.º; Altera Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156
+  date: '2007-08-31'
+- type: amended_by
+  target: pt:dre:490439:por
+  label: Revoga Capítulo VII; Revoga Artigo 54.º; Revoga Artigo 57.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2009-490439
+  date: '2009-09-24'
+- type: amended_by
+  target: pt:dre:190815:por
+  label: Adita Artigo 3.º-B; Adita Capítulo 3.º-C; Adita Artigo 3.º-D; Adita Artigo 3.º-E; Adita Artigo 3.º-F; Adita Artigo
+    3.º-G; Adita Artigo 3.º-H; Adita Artigo 3.º-I; Adita Artigo 3.º-J; Adita Artigo 67.º-A; Adita Artigo 71.º-A; Altera Artigo
+    1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 3.º-A; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815
+  date: '2012-12-12'
+- type: amended_by
+  target: pt:dre:108038374:por
+  label: Adita Artigo 53.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Capítulo VII; Altera Artigo
+    53.º; Altera Artigo 54.º; Altera Artigo 55.º; Altera Artigo 56.º; Altera Artigo 57.º; Altera Artigo 58.º; Altera Artigo
+    68.º; Altera Artigo 69.º; Altera Artigo 70.º; Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374
+  date: '2017-08-23'
+- type: amended_by
+  target: pt:dre:118748847:por
+  label: Altera Artigo 3.º-A; Altera Artigo 3.º-B; Altera Capítulo 3.º-C; Altera Artigo 3.º-D; Altera Artigo 3.º-E; Altera
+    Artigo 3.º-F; Altera Artigo 3.º-G; Altera Artigo 3.º-H; Altera Artigo 70.º; Altera Artigo 71.º; Altera Artigo 73.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847
+  date: '2019-01-30'
+- type: amended_by
+  target: pt:dre:123815984:por
+  label: Altera Artigo 3.º-A; Altera Artigo 3.º-B; Altera Capítulo 3.º-C; Altera Artigo 3.º-D; Altera Artigo 3.º-E; Altera
+    Artigo 3.º-F; Altera Artigo 3.º-G; Altera Artigo 3.º-H; Altera Artigo 3.º-I; Altera Artigo 3.º-J; Altera Artigo 70.º;
+    Altera Artigo 71.º; Altera Artigo 73.º
+  source: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984
+  date: '2019-08-08'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 68.º; Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/275/1997/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/275/1997/10/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/370/1999/09/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/370/1999/09/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec/13/1993/04/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec/13/1993/04/13/p/dre
+article_structure:
+  article_count: 87
+  section_count: 21
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:52:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 276/2001
+
+O Decreto n.º 13/93, de 13 de Abril, aprovou a Convenção Europeia para a Protecção dos Animais de Companhia, da qual foram signatários os Estados-Membros do Conselho da Europa.
+
+De acordo com o disposto no artigo 2.º da referida Convenção, as Partes Contratantes comprometem-se a tomar as medidas necessárias para pôr em execução as disposições da mesma.
+
+Assim, para que a referida Convenção possa ser aplicada no território nacional importa complementar as suas normas, bem como definir a autoridade competente e o respectivo regime sancionatório.
+
+Por outro lado, a diversidade de animais que cabem no âmbito da definição de animais de companhia da Convenção em causa, nomeadamente os selvagens que não se encontrem ao abrigo de convenções internacionais ou legislação nacional que lhes confiram protecção específica vai, de igual sorte, ser aqui contemplada.
+
+Finalmente as preocupações respeitantes à manutenção de animais de companhia que possam vir a ser potencialmente perigosos foram tidas em consideração, em capítulo próprio deste diploma, complementando-se, assim, os normativos neste domínio.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - O presente diploma estabelece as medidas complementares das disposições da Convenção Europeia para a Proteção dos Animais de Companhia, aprovada pelo Decreto n.º 13/93, de 13 de abril, de ora em diante designada Convenção, regulando o exercício da atividade de exploração de alojamentos, independentemente do seu fim, e de venda de animais de companhia, presencialmente ou através de meios eletrónicos.
+
+2 - Excluem-se do âmbito de aplicação deste diploma as espécies da fauna selvagem autóctone e exótica e os seus descendentes criados em cativeiro, objeto de regulamentação específica, e os touros de lide e as espécies de pecuária.
+
+3 - O disposto no número anterior não prejudica a aplicabilidade das normas sobre proibição de publicitação de animais selvagens, constantes do Capítulo VII do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374), em vigor a partir de 2017-08-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente diploma, entende-se por:
+
+a) «Animal de companhia», qualquer animal detido ou destinado a ser detido pelo homem, designadamente no seu lar, para seu entretenimento e companhia;
+
+b) «Animais selvagens», todos os especímenes das espécies da fauna selvagem autóctone e exótica e os seus descendentes criados em cativeiro;
+
+c) «Animal vadio ou errante» qualquer animal que seja encontrado na via pública ou outros lugares públicos fora do controlo e guarda dos respectivos detentores ou relativamente ao qual existam fortes indícios de que foi abandonado ou não tem detentor e não esteja identificado;
+
+d) 'Animal potencialmente perigoso' qualquer animal como tal considerado ao abrigo do disposto no Decreto-Lei n.º 315/2009, de 29 de outubro, que aprova o regime jurídico da criação, reprodução e detenção de animais perigosos e potencialmente perigosos, enquanto animais de companhia;
+
+e) «Mamífero, peixe e réptil de médio porte» qualquer animal adulto destas classes que apresente comprimento igual ou superior a 50 cm, contado a partir da extremidade proximal da cabeça até à extremidade distal da coluna;
+
+f) «Ave de médio porte» qualquer animal adulto desta classe cuja altura seja igual ou superior a 50 cm, contada a partir da extremidade superior da cabeça até à extremidade inferior das patas com o animal assente numa superfície plana e horizontal e na sua posição natural considerando-se, ainda, igual comprimento, para as asas quando em plena extensão;
+
+g) «Envergadura de uma ave» largura medida da extremidade de uma asa à outra com as mesmas em plena extensão;
+
+h) «Bem-estar animal», estado de equilíbrio fisiológico e etológico de um animal;
+
+i) «Gaiola ou jaula» espaço fixo ou móvel, fechado por paredes sólidas, uma das quais, pelo menos, constituída por grades, redes metálicas ou, eventualmente, por redes de outro tipo, em que são mantidos ou transportados animais, sendo a liberdade de movimentos destes animais limitada em função da taxa de povoamento e das dimensões da gaiola ou jaula;
+
+j) «Altura da gaiola» distância vertical entre o chão e a parte horizontal superior da cobertura ou da gaiola;
+
+k) «Recinto fechado» superfície cercada por paredes, grades ou redes metálicas, na qual são mantidos um ou vários animais, sendo a sua liberdade de movimentos, em regra, menos limitada do que numa gaiola;
+
+l) «Recinto fechado exterior», superfície cercada por uma vedação, paredes, grades ou redes metálicas, frequentemente situada no exterior de uma construção fixa, à qual os animais mantidos em gaiolas ou jaula ou recinto fechado têm acesso, podendo movimentar-se livremente durante determinados períodos de tempo, segundo as suas necessidades etológicas e fisiológicas, como, por exemplo, a de fazerem exercício;
+
+m) «Baia», pequeno compartimento de três lados, dispondo, normalmente, de uma manjedoura e de separações laterais, no qual podem ser mantidos um ou dois animais;
+
+n) «Alojamento» qualquer instalação, edifício, grupo de edifícios ou outro local, podendo incluir zona não completamente fechada, onde os animais de companhia se encontram mantidos;
+
+o) «Hospedagem»» alojamento, permanente ou temporário, de um animal de companhia;
+
+p) «Hospedagem sem fins lucrativos», alojamento, permanente ou temporário, de animais de companhia que não vise a obtenção de rendimentos, com excepção das referidas no n.º 3 do artigo 3.º do diploma que aprova o Plano Nacional de Luta e Vigilância da Raiva Animal e outras Zoonoses;
+
+q) 'Hospedagem com fins lucrativos' o alojamento para reprodução, criação, manutenção e venda de animais de companhia que vise interesses comerciais ou lucrativos, incluindo-se no alojamento para manutenção os hotéis e os centros de treino de cães com alojamento;
+
+r) «Hospedagem com fins médico-veterinários», alojamento de animais de companhia em centros de atendimento médico-veterinários, durante um período limitado, necessário ao seu tratamento e ou restabelecimento;
+
+s) «Hospedagem com fins higiénicos» alojamento temporário de animais de companhia, por um período que não ultrapasse doze horas sem pernoita em estabelecimentos, com ou sem fins lucrativos, que vise os seus cuidados de limpeza corporal externa;
+
+t) «Centro de recolha», qualquer alojamento oficial onde um animal é hospedado por um período determinado pela autoridade competente, nomeadamente os canis e os gatis municipais;
+
+u) «Enriquecimento ambiental», conjunto de técnicas de maneio e concepção dos alojamentos, que visam aumentar a diversidade do ambiente, potenciando comportamentos variáveis no animal;
+
+v) 'Detentor' qualquer pessoa, singular ou coletiva, responsável pelos animais de companhia para efeitos de reprodução, criação, manutenção, acomodação ou utilização, com ou sem fins lucrativos;
+
+w) «Pessoa competente» qualquer pessoa que demonstre, junto da autoridade competente, possuir os conhecimentos e a experiência prática para prestar cuidados aos animais, nomeadamente proceder ao seu abate;
+
+x) 'Autoridade competente' a Direção-Geral de Alimentação e Veterinária (DGAV), enquanto autoridade sanitária veterinária nacional, os médicos veterinários municipais, enquanto autoridades sanitárias veterinárias concelhias, as câmaras municipais, o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), a Guarda Nacional Republicana (GNR), a Polícia de Segurança Pública (PSP) e a Polícia Municipal (PM);
+
+y) 'Venda de animal de companhia', a transmissão a título oneroso de um animal de companhia;
+
+z) 'Vendedor de animal de companhia', qualquer pessoa que, sendo ou não proprietário ou mero detentor eventual de fêmea reprodutora, exerce a atividade de venda de animais de companhia;
+
+aa) 'Criação comercial de animais de companhia', a atividade que consiste em possuir uma ou mais fêmeas reprodutoras cujas crias sejam destinadas ao comércio;
+
+bb) 'Animal de raça pura', o animal que se encontra identificado e com registo genealógico no livro de origens português;
+
+cc) 'Animal de raça indefinida', todos os animais que não se encontram identificados e registados no livro de origens português;
+
+dd) 'Animal selvagem', todo o animal cuja espécie existe na natureza, no seu habitat natural, partilhando com o seu antepassado comum o mesmo código genético, incluindo também os animais exóticos e selvagens criados em cativeiro que, embora possam ter sido amansados, essa característica não é transmitida à geração seguinte, e por isso não podem deixar de ser considerados como selvagens;
+
+ee) 'Venda de animal selvagem', a cessão a título oneroso de um animal selvagem.
+
+2 - Para efeito do disposto na alínea n) do número anterior, não se considera 'alojamento' a instalação, edifício, grupo de edifícios ou outro local onde os animais de companhia se encontrem mantidos, quando se situe em locais de venda em feiras ou mercados.
+
+3 - Para efeito do disposto na alínea q) do n.º 1, nos alojamentos com fins lucrativos destinados à reprodução e criação só é permitida a reprodução, criação ou outra atividade conexa de animais pertencentes ao titular da exploração do alojamento, sem prejuízo do número seguinte.
+
+4 - Excetua-se do disposto no número anterior o acolhimento temporário de animais não pertencentes ao titular da exploração do alojamento, quando tenha por fim o acasalamento com animal aí alojado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374), em vigor a partir de 2017-08-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 3.º — Procedimento para o exercício da atividade de exploração de alojamentos e criação comercial de animais de companhia
+
+1 - Sem prejuízo do disposto no Decreto-Lei n.º 10/2015, de 16 de janeiro, quanto aos estabelecimentos de comércio a retalho de animais de companhia, o exercício da atividade de exploração de alojamentos, bem como a atividade de criação comercial de animais de companhia depende de:
+
+a) Mera comunicação prévia, no caso dos centros de recolha, alojamentos para hospedagem, com ou sem fins lucrativos, criação comercial de animais de companhia, em qualquer caso com exceção dos destinados exclusivamente à venda, sem prejuízo do disposto na alínea seguinte;
+
+b) Permissão administrativa, no caso dos alojamentos para hospedagem com fins lucrativos destinados à reprodução e criação de animais potencialmente perigosos, nomeadamente de cães das raças consideradas como potencialmente perigosas.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+10 - (Revogado.)
+
+11 - A comunicação prévia ou a permissão administrativa dão lugar a um número de identificação, o qual é pessoal e intransmissível.
+
+12 - A DGAV publicita, no seu sítio de Internet, os nomes dos criadores comerciais de animais de companhia e respetivo município de atividade e número de identificação.
+
+13 - O disposto nos números anteriores não prejudica as obrigações devidas junto da Autoridade Tributária e Aduaneira..
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374), em vigor a partir de 2017-08-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 3.º-A — Mera comunicação prévia
+
+1 - A mera comunicação prévia a que se refere a alínea a) do n.º 1 do artigo anterior é dirigida à DGAV e deve conter os seguintes elementos, quando aplicáveis:
+
+a) O nome ou a denominação social do interessado;
+
+b) A localização do alojamento e a sua designação comercial;
+
+c) O número de identificação fiscal ou de pessoa coletiva do interessado;
+
+d) Municípios integrantes, no caso dos centros de recolha intermunicipais;
+
+e) Caracterização das atividades a exercer;
+
+f) Indicação do médico veterinário responsável pelo alojamento;
+
+g) O número de celas de quarentena para isolamento de animais por suspeita de raiva, no caso dos centros de recolha;
+
+h) A capacidade máxima de animais e respetivas espécies a alojar;
+
+i) O número de animais detidos, espécies e raças;
+
+j) Declaração de responsabilidade, subscrita pelo interessado, relativa ao cumprimento da legislação aplicável aos animais de companhia, nomeadamente em matéria de instalações, equipamentos, higiene, saúde e bem-estar dos animais.
+
+2 - A mera comunicação prévia é efetuada por via eletrónica, através do balcão único eletrónico de serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+3 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a mera comunicação prévia pode ser efetuada por qualquer outro meio previsto na lei.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 3.º-B — Permissão administrativa
+
+1 - O pedido de permissão administrativa a que se refere a alínea b) do n.º 1 do artigo 3.º é apresentado à DGAV e deve conter os seguintes elementos, quando aplicáveis:
+
+a) O nome ou a denominação social do interessado;
+
+b) A localização do alojamento e a sua designação comercial;
+
+c) O número de identificação fiscal ou de pessoa coletiva do interessado;
+
+d) A finalidade do alojamento;
+
+e) O número de animais a deter, respetivas espécies, raças e sexos;
+
+f) A identificação do médico veterinário responsável pelo alojamento.
+
+2 - O pedido de permissão administrativa é acompanhado dos seguintes documentos:
+
+a) Cópia dos documentos de identificação civil e fiscal do interessado ou, se aplicável, extrato em forma simples do teor das inscrições em vigor no registo comercial ou a indicação do código de certidão permanente de registo comercial;
+
+b) Declaração de responsabilidade, subscrita pelo interessado, relativa ao cumprimento da legislação aplicável aos animais de companhia, incluindo a legislação relativa a animais perigosos e potencialmente perigosos, nomeadamente em matéria de instalações, equipamentos, higiene, saúde e bem-estar;
+
+c) Descrição sumária dos alojamentos, com indicação do número de celas destinadas a animais, a respetiva função e indicação de outras instalações existentes, bem como das medidas de segurança adotadas.
+
+3 - O pedido de permissão administrativa é apresentado por via eletrónica, através do balcão único eletrónico de serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+4 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, o pedido de permissão administrativa pode ser apresentado por qualquer outro meio previsto na lei.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+### Capítulo 3.º-C — Instrução do processo de permissão administrativa
+
+1 - Compete à direção de serviços veterinários da região de localização do alojamento a instrução do processo de permissão administrativa.
+
+2 - Para os efeitos previstos no número anterior, o serviço instrutor pode solicitar ao requerente, por uma vez, todos os esclarecimentos adicionais que considere essenciais para a apreciação do processo, fixando um prazo não superior a 10 dias para a resposta.
+
+3 - Em caso de fundadas dúvidas sobre os dados apresentados pelo requerente, o serviço instrutor pode requerer a exibição de documentos comprovativos dos referidos dados, fixando um prazo não superior a 10 dias para a resposta.
+
+4 - O cumprimento dos requisitos necessários para a atribuição de permissão administrativa é verificado através de visita de controlo a efetuar pela direção de serviços veterinários da respetiva região, no prazo de 30 dias a contar da data de receção do respetivo pedido ou dos elementos referidos nos n.os 2 e 3, quando solicitados.
+
+5 - No prazo de 15 dias a contar da data da visita de controlo, a direção de serviços veterinários da região conclui a instrução, elabora um relatório final com proposta de decisão e remete o processo, com os elementos dele constantes, ao diretor-geral de Alimentação e Veterinária, para decisão.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 3.º-D — Decisão
+
+1 - O diretor-geral de Alimentação e Veterinária profere decisão no prazo de 15 dias a contar da remessa do processo a que se refere o n.º 5 do artigo anterior.
+
+2 - Caso não seja proferida a decisão referida no número anterior no prazo de 60 dias contados da data de receção do pedido de permissão administrativa devidamente instruído, independentemente da realização de visita de controlo, não há lugar a deferimento tácito, podendo o interessado obter a tutela adequada junto dos tribunais administrativos.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 3.º-E — Divulgação dos alojamentos
+
+A DGAV publicita no balcão único eletrónico de serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no seu sítio na Internet a lista dos centros de recolha oficiais, bem como de todos os centros de hospedagem, com ou sem fins lucrativos, que haja permitido ou em relação aos quais tenha recebido mera comunicação prévia, nos termos do presente diploma.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 3.º-F — Alteração de funcionamento dos alojamentos
+
+1 - A alteração de funcionamento dos alojamentos, designadamente a modificação estrutural nos alojamentos, a transferência de titularidade, a cessão de exploração, a cessação da atividade e a alteração do médico veterinário responsável pelo alojamento, é comunicada à DGAV por via eletrónica, através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, no prazo de 15 dias contados da sua ocorrência.
+
+2 - A comunicação de obras de modificação estrutural nos alojamentos é acompanhada das respetivas plantas.
+
+3 - Compete à DGAV atualizar as informações obtidas através das comunicações referidas nos números anteriores.
+
+4 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no n.º 1, as comunicações aí referidas podem ser efetuadas por qualquer outro meio previsto na lei.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 3.º-G — Suspensão de atividade e encerramento dos alojamentos
+
+1 - O diretor-geral de Alimentação e Veterinária pode, mediante despacho, determinar a suspensão da atividade ou o encerramento do alojamento, designadamente quando se verifique uma das seguintes situações:
+
+a) Existência de riscos higiossanitários que ponham em causa a saúde das pessoas e ou dos animais;
+
+b) Maus tratos aos animais;
+
+c) Existência de graves problemas de saúde e bem-estar dos animais;
+
+d) Falta de condições de segurança e de tranquilidade para as pessoas ou animais, bem como de proteção do meio ambiente.
+
+2 - As situações referidas no número anterior são comprovadas em processo instruído pela direção de serviços veterinários da região onde se localiza o alojamento, que elabora relatório com proposta de decisão a proferir pelo diretor-geral da Alimentação e Veterinária.
+
+3 - A decisão é de suspensão sempre que seja possível suprir, num curto prazo, a situação que a determinou.
+
+4 - O despacho que determina a suspensão da atividade do alojamento fixa um prazo, não superior a 180 dias, durante o qual o titular da exploração do alojamento deve proceder às alterações necessárias, sob pena de ser determinado o encerramento definitivo do alojamento.
+
+5 - O despacho que determine o encerramento do alojamento é notificado ao titular da exploração do alojamento, devendo o alojamento cessar a sua atividade no prazo fixado pela DGAV, o qual não deve exceder cinco dias úteis, sob pena de ser solicitado às autoridades administrativas e policiais competentes o encerramento compulsivo.
+
+6 - Compete às câmaras municipais executar as medidas necessárias ao cumprimento da decisão a que se referem os n.os 3 e 4, nomeadamente proceder, quando necessário, à recolha dos animais.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 3.º-H — Permissão de reabertura após suspensão da atividade
+
+1 - Após o decurso do prazo fixado nos termos do n.º 4 do artigo anterior, a direção de serviços veterinários da região onde se localiza o alojamento realiza visita de controlo no prazo de 20 dias, a fim de verificar se se encontram reunidas condições para o levantamento da suspensão, mediante decisão de permissão de reabertura a proferir pelo diretor-geral de Alimentação e Veterinária.
+
+2 - Na falta da decisão do diretor-geral de Alimentação e Veterinária a que se refere o número anterior no prazo de 30 dias contados do termo do prazo fixado nos termos do n.º 4 do artigo anterior, ou no prazo de 10 dias após a realização de visita de controlo, no caso de esta ser realizada, não há lugar a deferimento tácito, podendo o interessado obter a tutela adequada junto dos tribunais administrativos.
+
+3 - A permissão de reabertura é publicitada pelos meios utilizados para a divulgação da suspensão da permissão.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 3.º-I — Divulgação da suspensão de atividade, do encerramento e da reabertura de alojamento
+
+As medidas previstas nos artigos 3.º-G e 3.º-H são publicitadas através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no sítio na Internet da DGAV.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 3.º-J — Reconhecimento mútuo
+
+1 - Não pode haver duplicação entre as condições exigíveis para o cumprimento dos procedimentos previstos no presente diploma e os requisitos e os controlos equivalentes ou comparáveis, quanto à finalidade, a que o interessado já tenha sido submetido noutro Estado membro da União Europeia ou do Espaço Económico Europeu.
+
+2 - O disposto no número anterior não é aplicável ao cumprimento das condições diretamente referentes às instalações físicas localizadas em território nacional, nem aos respetivos controlos por autoridade competente.
+
+3 - Sem prejuízo do disposto nos números anteriores, o reconhecimento mútuo de requisitos relativos a qualificações é regulado pela Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 4.º — Médico veterinário responsável pelo alojamento
+
+1 - Os titulares da exploração de alojamentos para hospedagem sem fins lucrativos e com fins lucrativos de animais, com exceção dos alojamentos para hospedagem com fins higiénicos, devem ter ao seu serviço um médico veterinário que seja responsável pelo alojamento.
+
+2 - Ao médico veterinário responsável pelo alojamento compete:
+
+a) A elaboração e a execução de programas e ações que visem a saúde e o bem-estar dos animais e o seu acompanhamento, bem como a emissão de pareceres relativos à saúde e ao bem-estar dos animais;
+
+b) A orientação técnica do pessoal que cuida dos animais;
+
+c) A colaboração com as autoridades competentes em todas as acções que estas determinarem.
+
+3 - Os centros de recolha oficiais ficam sob a responsabilidade técnica do médico veterinário municipal.
+
+4 - As qualificações de médicos veterinários cidadãos de outros Estados membros da União Europeia ou do Espaço Económico Europeu, obtidas fora de Portugal, são reconhecidas pela Ordem dos Médicos Veterinários portuguesa, nos termos da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente das secções iii e iv do seu capítulo iii.
+
+5 - Os médicos veterinários cidadãos de outros Estados membros da União Europeia ou do Espaço Económico Europeu, cujas qualificações tenham sido obtidas fora de Portugal e que pretendam prestar serviços ocasionais e esporádicos em território nacional ao abrigo do regime da livre prestação de serviços, devem efetuar declaração prévia perante a Ordem dos Médicos Veterinários portuguesa, nos termos do artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 5.º — Manutenção de registos de alojamentos
+
+1 - Os titulares da exploração dos alojamentos para hospedagem de animais de companhia, com ou sem fins lucrativos, com fins médico-veterinários e os centros de recolha devem manter, pelo prazo de um ano, os seguintes registos:
+
+a) A identificação do detentor do animal, designadamente nome e morada;
+
+b) A identificação dos animais, nomeadamente o número de identificação, se aplicável, nome, espécie, raça, idade e quaisquer sinais particulares, sempre que aplicável;
+
+c) O número de animais por espécie;
+
+d) O movimento mensal, nomeadamente registos relativos à origem e às datas das entradas, nascimentos, mortes e, ainda, datas de saída e destino dos animais.
+
+2 - Excetuam-se do disposto na alínea a) do número anterior os alojamentos sem fins lucrativos, os destinados exclusivamente à venda de animais e os centros de recolha.
+
+3 - Exceptuam-se do disposto nas alíneas c) e d) os alojamentos de animais com fins higiénicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+### Capítulo II — Normas gerais de detenção, alojamento, maneio, intervenções cirúrgicas, captura e abate
+
+###### Artigo 6.º — Dever especial de cuidado do detentor
+
+Incumbe ao detentor do animal o dever especial de o cuidar, de forma a não pôr em causa os parâmetros de bem-estar, bem como de o vigiar, de forma a evitar que este ponha em risco a vida ou a integridade física de outras pessoas e animais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 6.º-A — Abandono
+
+Considera-se abandono de animais de companhia a não prestação de cuidados no alojamento, bem como a sua remoção efectuada pelos seus detentores para fora do domicílio ou dos locais onde costumam estar mantidos, com vista a pôr termo à sua detenção, sem que procedam à sua transmissão para a guarda e responsabilidade de outras pessoas, das autarquias locais ou das sociedades zoófilas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 7.º — Princípios básicos para o bem-estar dos animais
+
+1 - As condições de detenção e de alojamento para reprodução, criação, manutenção e acomodação dos animais de companhia devem salvaguardar os seus parâmetros de bem-estar animal, nomeadamente nos termos dos artigos seguintes.
+
+2 - Nenhum animal deve ser detido como animal de companhia se não estiverem asseguradas as condições referidas no número anterior ou se não se adaptar ao cativeiro.
+
+3 - São proibidas todas as violências contra animais, considerando-se como tais os actos consistentes em, sem necessidade, se infligir a morte, o sofrimento ou lesões a um animal.
+
+4 - É proibido utilizar animais para fins didácticos e lúdicos, de treino, filmagens, exibições, publicidade ou actividades semelhantes, na medida em que daí resultem para eles dor ou sofrimentos consideráveis, salvo experiência científica de comprovada necessidade e justificada nos termos da lei.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 8.º — Condições dos alojamentos
+
+1 - Os animais devem dispor do espaço adequado às suas necessidades fisiológicas e etológicas, devendo o mesmo permitir:
+
+a) A prática de exercício físico adequado;
+
+b) A fuga e refúgio de animais sujeitos a agressão por parte de outros;
+
+2 - Os animais devem poder dispor de esconderijos para salvaguarda das suas necessidades de protecção, sempre que o desejarem.
+
+3 - As fêmeas em período de incubação, de gestação ou com crias devem ser alojadas de forma a assegurarem a sua função reprodutiva natural em situação de bem-estar.
+
+4 - As estruturas físicas das instalações, todo o equipamento nelas introduzido e a vegetação não podem representar nenhum tipo de ameaça ao bem-estar dos animais, designadamente não podem possuir objectos ou equipamentos perigosos para os animais.
+
+5 - As instalações devem ser equipadas de acordo com as necessidades específicas dos animais que albergam, com materiais e equipamento que estimulem a expressão do repertório de comportamentos naturais, nomeadamente material para substrato, cama ou ninhos, ramos, buracos, locais para banhos e outros quaisquer adequados ao fim em vista.
+
+###### Artigo 9.º — Factores ambientais
+
+1 - A temperatura, a ventilação, a luminosidade e obscuridade das instalações devem ser as adequadas à manutenção do conforto e bem-estar das espécies que albergam.
+
+2 - Os factores ambientais referidos no número anterior devem ser adequados às necessidades específicas de animais quando em fase reprodutiva, recém-nascidos ou doentes.
+
+3 - A luz deve ser de preferência natural mas quando a luz artificial for imprescindível, esta deve ser o mais próxima possível do espectro da luz solar e deve respeitar o fotoperíodo natural do local onde o animal está instalado.
+
+4 - As instalações devem permitir uma adequada inspecção dos animais, devendo ainda existir equipamento alternativo, nomeadamente focos de luz, para o caso de falência do equipamento central.
+
+5 - Os tanques ou aquários devem possuir água de qualidade adequada aos animais que a utilizem, nomeadamente tratada por produtos ou substâncias que não prejudiquem a sua saúde.
+
+6 - As instalações devem dispor de abrigos para que os animais se protejam de condições climáticas adversas.
+
+###### Artigo 10.º — Carga, transporte e descarga de animais
+
+1 - O transporte de animais deve ser efectuado em veículos e contentores apropriados à espécie e número de animais a transportar, nomeadamente em termos de espaço, ventilação ou oxigenação, temperatura, segurança e fornecimento de água, de modo a salvaguardar a protecção dos mesmos e a segurança de pessoas e outros animais.
+
+2 - As instalações dos alojamentos referidos nas alíneas p) a t) do n.º 1 do artigo 2.º devem dispor de estruturas e equipamentos adequados à carga ou à descarga dos animais dos meios de transporte, assegurando-se sempre que os mesmos não sejam maltratados ou derrubados durante aquelas operações e procurando-se minorar as situações que lhes possam provocar medo ou excitação desnecessários.
+
+3 - Sem prejuízo do disposto nos números anteriores e em cumprimento do disposto no artigo 7.º da Lei n.º 92/95, de 12 de setembro, alterada pela Lei n.º 19/2002, de 31 de julho, a deslocação de animais de companhia, nomeadamente cães e gatos, em transportes públicos não pode ser recusada, desde que os mesmos sejam devidamente acompanhados, acondicionados e sujeitos a meios de contenção que não lhes permitam morder ou causar danos ou prejuízos a pessoas, outros animais ou bens, de acordo com as condições e normas técnicas a estabelecer por portaria conjunta dos membros do Governo responsáveis pelas áreas dos transportes e da agricultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 11.º — Sistemas de protecção
+
+As instalações dos alojamentos referidos nas alíneas p) a t) do n.º 1 do artigo 2.º devem dispor de um sistema de proteção contra incêndios, de alarme para aviso de avarias deste sistema e, ainda, dos equipamentos referidos no artigo 8.º, quando se tratar de alojamentos em edifícios fechados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 12.º — Alimentação e abeberamento
+
+1 - Deve existir um programa de alimentação bem definido, de valor nutritivo adequado e distribuído em quantidade suficiente para satisfazer as necessidades alimentares das espécies e dos indivíduos de acordo com a fase de evolução fisiológica em que se encontram, nomeadamente idade, sexo, fêmeas prenhes ou em fase de lactação.
+
+2 - As refeições devem ainda ser variadas, sendo distribuídas segundo a rotina que mais se adequar à espécie e de forma a manter, tanto quanto possível, aspectos do seu comportamento alimentar natural.
+
+3 - O número, formato e distribuição de comedouros e bebedouros deve ser tal que permita aos animais satisfazerem as suas necessidades sem que haja competição excessiva dentro do grupo.
+
+4 - Os alimentos devem ser preparados e armazenados de acordo com padrões estritos de higiene, em locais secos, limpos, livres de agentes patogénicos e de produtos tóxicos e, no caso dos alimentos compostos, devem, ainda, ser armazenados sobre estrados de madeira ou prateleiras.
+
+5 - Devem existir aparelhos de frio para uma eficiente conservação dos alimentos.
+
+6 - Os animais devem dispor de água potável e sem qualquer restrição, salvo por razões médico-veterinárias.
+
+###### Artigo 13.º — Maneio
+
+1 - A observação diária dos animais e o seu maneio, a organização da dieta e o tratamento médico-veterinário devem ser assegurados por pessoal técnico competente e em número adequado à quantidade e espécies animais que alojam.
+
+2 - O maneio deve ser feito por pessoal que possua formação teórica e prática específica ou sob a supervisão de uma pessoa competente para o efeito.
+
+3 - Todos os animais devem ser alvo de inspecção diária, sendo de imediato prestados os primeiros cuidados aos que tiverem sinais que levem a suspeitar estarem doentes, lesionados ou com alterações comportamentais.
+
+4 - O manuseamento dos animais deve ser feito de forma a não lhes causar quaisquer dores, sofrimento ou distúrbios desnecessários.
+
+5 - Quando houver necessidade de recorrer a meios de contenção, não devem estes causar ferimentos, dores ou angústia desnecessária aos animais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 14.º — Higiene
+
+1 - Devem ser cumpridos adequados padrões de higiene, nomeadamente no que respeita à higiene pessoal dos tratadores e demais pessoal em contacto com os animais, às instalações e a todas as estruturas de apoio ao maneio e tratamento dos animais.
+
+2 - As instalações, equipamento e áreas adjacentes devem ser limpas com a periodicidade adequada, de modo a não criar perturbações desnecessárias aos animais e, sempre que existirem tanques ou aquários, a água neles contida deve ser renovada com a frequência necessária à manutenção das suas condições hígio-sanitárias.
+
+3 - As instalações devem possuir uma boa capacidade de drenagem das águas sujas e os animais não devem poder ter acesso a tubos de drenagem de águas residuais.
+
+4 - Os detergentes e demais material de limpeza ou de desinfecção devem ser aplicados em concentrações que não sejam tóxicas para as espécies alojadas.
+
+5 - O lixo deve ser removido das instalações de forma a salvaguardar quaisquer riscos para a saúde pública.
+
+6 - Deve existir um plano seguro e eficaz para o controlo de animais infestantes.
+
+7 - Devem ser observadas rigorosas medidas de higiene em todos os espaços e utensílios usados na prestação de cuidados médico-veterinários e todo o material não reutilizável deve ser eliminado de forma adequada.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 15.º — Segurança de pessoas, animais e bens
+
+Os alojamentos devem assegurar que as espécies animais neles mantidas não possam causar quaisquer riscos para a saúde e para a segurança de pessoas, outros animais e bens.
+
+###### Artigo 16.º — Cuidados de saúde animal
+
+1 - Sem prejuízo de quaisquer medidas determinadas pela DGAV, deve existir um programa de profilaxia médica e sanitária devidamente elaborado e supervisionado pelo médico veterinário responsável e executado por profissionais competentes.
+
+2 - No âmbito do número anterior, os animais devem ser sujeitos a exames médico-veterinários de rotina, vacinações e desparasitações sempre que aconselhável.
+
+3 - Os animais que apresentem sinais que levem a suspeitar de poderem estar doentes ou lesionados devem receber os primeiros cuidados pelo detentor e, se não houver indícios de recuperação, devem ser tratados por médico veterinário.
+
+4 - Sempre que se justifique, os animais doentes ou lesionados devem ser isolados em instalações adequadas e equipadas, se for caso disso, com cama seca e confortável.
+
+5 - Os medicamentos, produtos ou substâncias de prescrição médico-veterinária devem ser armazenados em locais secos e com acesso restrito.
+
+6 - A administração e utilização de medicamentos, produtos ou substâncias referidas no número anterior deve ser feita sob orientação do médico veterinário responsável.
+
+> Republicado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 17.º — Intervenções cirúrgicas
+
+As intervenções cirúrgicas, nomeadamente as destinadas ao corte de caudas nos canídeos, têm de ser executadas por um médico veterinário.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 18.º — Amputações
+
+1 - Os detentores de animais de companhia que os apresentem com quaisquer amputações que modifiquem a aparência dos animais ou com fins não curativos devem possuir documento comprovativo, passado pelo médico veterinário que a elas procedeu, da necessidade dessa amputação, nomeadamente discriminando que as mesmas foram feitas por razões médico-veterinárias ou no interesse particular do animal ou para impedir a reprodução.
+
+2 - O documento referido no número anterior deve ter a forma de um atestado, do qual conste a identificação do médico veterinário, o número da cédula profissional e a sua assinatura.
+
+3 - Os detentores de animais importados que apresentem quaisquer das amputações referidas no n.º 1 devem possuir documento comprovativo da necessidade dessa amputação, passada pelo médico veterinário que a ela procedeu, legalizado pela autoridade competente do respectivo país.
+
+###### Artigo 19.º — Normas para a recolha, captura e abate compulsivo
+
+1 - Compete às câmaras municipais a recolha, a captura e o abate compulsivo de animais de companhia, sempre que seja indispensável, muito em especial por razões de saúde pública, de segurança e de tranquilidade de pessoas e de outros animais e, ainda, de segurança de bens, sem prejuízo das competências e das determinações emanadas da DGV nessa matéria.
+
+2 - As normas de boas práticas para a captura e abate de animais de companhia são divulgadas pela DGAV aos médicos veterinários municipais, no prazo de 30 dias a contar da data de publicação do presente diploma.
+
+3 - Os animais recolhidos ou capturados nos termos do n.º 1 podem ser entregues aos seus detentores desde que cumpridas as normas de profilaxia médica e sanitária em vigor e pagas as despesas de manutenção dos mesmos, referentes ao período de permanência no centro de recolha oficial.
+
+4 - Os animais não reclamados nos termos do número anterior podem ser alienados pelas câmaras municipais, sob parecer obrigatório do médico veterinário municipal, por cedência gratuita quer a particulares quer a instituições zoófilas devidamente legalizadas e que provem possuir condições adequadas para o alojamento e maneio dos animais, nos termos do presente diploma.
+
+5 - Os animais não reclamados nem cedidos serão abatidos pelo médico veterinário municipal, de acordo com as normas referidas no n.º 2.
+
+6 - Apenas um médico veterinário ou pessoa competente pode abater um animal de companhia, de acordo com as normas referidas no n.º 2.
+
+7 - As entidades policiais podem proceder ao abate imediato de animais sempre que estiverem em causa medidas urgentes de segurança de pessoas e de outros animais.
+
+8 - Em caso de forte suspeita ou evidência de sinais de uso de animais em lutas ou quando esteja em causa a saúde e o bem-estar dos animais, as DGAV, com a intervenção das câmaras municipais, se necessário, e as autoridades mencionadas no número anterior devem proceder à recolha ou captura dos mesmos, podendo para o efeito solicitar a emissão de mandato judicial que lhes permita aceder aos locais onde estes se encontrem, designadamente estabelecimentos, casas de habitação e terrenos privados.
+
+9 - Os animais recolhidos nos termos do número anterior são alojados em centros de recolha oficial, devendo o médico veterinário municipal comunicar o facto à DGAV, que decide o destino dos mesmos, designadamente o seu abate, sem direito a indemnização.
+
+10 - A recolha, captura e abate compulsivo de cães e gatos é regulada por legislação própria.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 20.º — Destino dos animais
+
+Os animais que ofendam o corpo ou a saúde de outra pessoa são obrigatoriamente recolhidos em centros de recolha oficial, a expensas do detentor, e posteriormente abatidos por método de occisão que não lhe cause dores e sofrimento desnecessários, não tendo o seu detentor direito a qualquer indemnização.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 21.º — Controlo da reprodução pelas câmaras municipais
+
+As câmaras municipais podem, sempre que necessário e sob a responsabilidade do médico veterinário municipal, incentivar e promover o controlo da reprodução de animais de companhia, nomeadamente de cães e gatos vadios ou errantes, o qual deve ser efectuado por métodos contraceptivos que garantam o mínimo sofrimento dos animais.
+
+###### Artigo 22.º — Controlo da reprodução pelo detentor
+
+O detentor de um animal de companhia que pretenda controlar a reprodução do mesmo deve fazê-lo de acordo com as orientações de um médico veterinário, salvaguardando sempre o mínimo sofrimento do animal.
+
+###### Artigo 23.º — Exames médico-veterinários, laboratoriais ou outros
+
+A DGAV pode, sempre que entender necessário, determinar a realização de quaisquer exames médico-veterinários, laboratoriais ou outros, para verificar se foi administrada a um animal de companhia qualquer substância, tratamento ou procedimento que vise aumentar ou diminuir o nível natural das capacidades fisiológicas e etológicas desse animal nas seguintes situações:
+
+a) No decurso de competições;
+
+b) Em qualquer momento, quando constitua risco para o bem-estar do animal.
+
+> Republicado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+### Capítulo III — Normas para os alojamentos de reprodução, criação, manutenção e venda de animais de companhia
+
+###### Artigo 24.º — Disposições gerais
+
+Os detentores de animais de companhia que se dediquem à sua reprodução, criação, manutenção ou venda devem cumprir as condições previstas no presente capítulo, sem prejuízo das demais disposições aplicáveis, nomeadamente as constantes do Decreto-Lei n.º 315/2009, de 29 de outubro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 25.º — Instalações
+
+1 - Os alojamentos no âmbito deste capítulo devem possuir instalações individualizadas destinadas à armazenagem de alimentos e equipamento limpo e à lavagem e recolha de material.
+
+2 - Os alojamentos para a reprodução/criação, para além do disposto no número anterior, devem possuir instalações individualizadas destinadas à maternidade e à criação até à idade adulta, a quarentena, a enfermaria, o manuseamento de alimentos e à higienização dos animais.
+
+3 - Os alojamentos para hospedagem com fins lucrativos, nos quais sejam alojados apenas machos, utilizados como reprodutores, estão dispensados de possuir instalações destinadas à maternidade e à criação até à idade adulta.
+
+4 - Os hotéis para animais, para além do disposto no n.º 1, devem possuir instalações individualizadas para enfermaria, manuseamento de alimentos e higienização dos animais.
+
+5 - Os alojamentos referidos ao abrigo deste capítulo devem possuir área de recreio coberta e descoberta com estruturas e objectos que permitam enriquecer o meio ambiente, nomeadamente prateleiras, poleiros, ninhos, esconderijos e material para entretenimento dos animais conforme as espécies e o seu grau de desenvolvimento, consoante se trate de adultos, jovens ou fêmeas com ninhadas.
+
+6 - Os alojamentos referidos neste capítulo devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo I ao presente diploma, do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 26.º — Condições particulares para a manutenção de pequenos roedores e coelhos
+
+1 - As caixas onde os animais são colocados devem estar providas com material de cama em quantidade suficiente, adaptada às espécies em causa, o qual deve ser renovado regularmente.
+
+2 - As medidas mínimas das caixas para pequenos roedores e coelhos figuram no anexo II ao presente diploma, do qual faz parte integrante.
+
+3 - Ao planear a criação e ou manutenção deverá ter-se em conta o crescimento potencial dos animais, a fim de lhes assegurar um espaço apropriado, em conformidade com as medidas das caixas previstas no anexo II, durante todas as suas fases de desenvolvimento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 27.º — Condições particulares para a manutenção de cães e gatos
+
+1 - O alojamento de cães e gatos deve obedecer às dimensões mínimas indicadas no anexo III ao presente diploma, do qual faz parte integrante.
+
+2 - Os cães e gatos só podem ser expostos nos locais de venda a partir da 8.ª semana de idade.
+
+3 - O alojamento de cães e gatos em gaiolas deve ser estritamente limitado, nunca superior a 15 dias, contados a partir da data de entrada no alojamento.
+
+4 - Os cães e gatos confinados em gaiolas devem poder fazer exercício pelo menos uma vez por dia, devendo este, no caso dos cães, ser feito em recinto exterior, coberto ou descoberto, com superfícies de exercício suficientemente grandes para permitir que os animais se movimentem livremente e materiais para seu entretenimento.
+
+5 - Os recintos para gatos devem estar sempre providos de tabuleiros para excrementos, de uma superfície de repouso e de estruturas e objectos que lhes permitam subir, afiar as garras, bem como entreter-se.
+
+6 - É preciso prever superfícies de repouso em diferentes níveis de altura aquando da manutenção de gatos.
+
+7 - Não devem ser utilizados pavimentos de grades nas gaiolas para cães.
+
+8 - Tendo em conta as grandes diferenças de tamanho e a fraca relação entre o tamanho e o peso das diferentes raças de cães, a altura da gaiola deve ser fixada em função da altura do corpo de cada animal medido à altura das espáduas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 28.º — Condições particulares para a manutenção de aves
+
+1 - As dimensões das gaiolas devem ser tais que os pássaros possam bater as asas sem entrave.
+
+2 - As gaiolas devem estar equipadas de poleiros cujo diâmetro esteja adaptado às espécies.
+
+3 - Os comedouros e os bebedouros devem ser colocados de forma a não serem sujos pelos excrementos.
+
+4 - As aves devem ter a possibilidade de tomar banhos de areia ou de água consoante as suas necessidades, devendo, para isso, ter à sua disposição recipientes adequados, com areia ou água.
+
+5 - As gaiolas de aves não devem localizar-se em locais com correntes de ar e devem ser bem iluminadas em todos os seus cantos.
+
+6 - O público, nas lojas de venda de animais, não pode ter acesso a todos os lados das gaiolas.
+
+7 - Para além das condições acima referidas, as gaiolas para pássaros cantores e pombos devem ser pelo menos quatro vezes mais compridas e duas vezes mais altas que o comprimento total da ave e, pelo menos, uma vez e meia mais largas que a medida da envergadura, sendo que, em caso de alojamento em casais ou em grupo, a largura das gaiolas deve ser de pelo menos o dobro da envergadura da ave.
+
+8 - Nas gaiolas onde se faça o alojamento de aves em grupo é necessário instalar vários poleiros (mínimo de três), em diferentes alturas e de tal forma que os animais sejam pouco incomodados no seu voo e que possam utilizar de forma adequada o espaço que têm à sua disposição.
+
+9 - A taxa de ocupação tem de ser prevista de forma que os animais não se incomodem uns aos outros nos seus movimentos.
+
+10 - Os pequenos pássaros exóticos devem dispor, cada um, de pelo menos duas vezes o espaço que ocupam sobre os poleiros, tendo em conta a sua envergadura individual.
+
+11 - Para outros pássaros, o número de espécimes não pode ser superior ao número de poleiros existentes na gaiola.
+
+12 - O ambiente a fornecer a psitacídeos deverá ainda obedecer às seguintes condições:
+
+a) Os espécimes deste grupo de aves não devem ser alojados isoladamente, a não ser na impossibilidade de se fazerem alojamentos em pares ou grupos, caso em que a atenção dos tratadores ou detentores para com estes animais terá de ser fortemente incrementada;
+
+b) Estes animais precisam de banhar-se frequentemente, pelo que o local de alojamento tem de conter um recipiente com água devidamente limpa, para esse efeito;
+
+c) A alimentação a fornecer a estes animais tem de ser o mais diversificada possível para melhorar o seu estado nutricional e estimular as suas actividades exploratórias, razão pela qual se deverá complementar a sua base alimentar, nomeadamente com frutos e vegetais;
+
+d) Dever-se-á, também, enriquecer o ambiente dos alojamentos destes animais, colocando objectos com substrato de madeira, nomeadamente ramos, troncos, poleiros, vegetação e outros objectos de diversão, tais como bolas, em material inócuo para os animais.
+
+13 - As dimensões para o alojamento de aves devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo IV ao presente diploma, do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 29.º — Condições particulares para a manutenção de répteis
+
+Os alojamentos para a manutenção de répteis devem obedecer aos seguintes requisitos:
+
+a) Os terrários devem ser equipados com um mínimo de infra-estruturas correspondentes às necessidades dos seus ocupantes, como, por exemplo, ramos para trepar, plantas vivas ou artificiais, recipientes como possibilidade de esconderijo, paraventos, possibilidade de se banhar;
+
+b) A parte aquática dos recipientes para tartarugas deve ser aquecida através de calor irradiado, nomeadamente lâmpadas incandescentes e lâmpadas de aquecimento especiais;
+
+c) Os grupos de répteis devem ser manuseados de tal forma que os factores de perturbação sejam reduzidos ao mínimo possível;
+
+d) Os terrários de animais perigosos para as pessoas e outros animais devem poder ser fechados à chave, devendo todas as lojas de venda de animais que os alojem dispor de instruções de segurança e de emergência para salvaguarda da saúde pública;
+
+e) No caso de animais venenosos, não deve ser mantida mais de uma espécie por recipiente sendo que, em certos casos, por razões de segurança, não se deve alojar mais de um animal por recipiente;
+
+f) As dimensões dos alojamentos de répteis devem obedecer aos parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo V ao presente diploma, do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 30.º — Condições particulares para a manutenção de anfíbios
+
+As condições para a manutenção dos anfíbios são as seguintes:
+
+a) Nos recipientes que só dispõem de parte aquática podem deter-se tritões durante a sua fase de reprodução, rãs Xenopus e sapos Pipa pipa, devendo os mesmos para o seu alojamento dispor das dimensões mínimas previstas no anexo VI ao presente diploma, do qual faz parte integrante;
+
+b) Os outros anfíbios, correntemente comercializados, necessitam de aquiterrários que devem estar conformes com os parâmetros mínimos adequados à espécie, nomeadamente os constantes do anexo VII ao presente diploma, do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 31.º — Condições particulares para a manutenção de peixes
+
+A manutenção de peixes deve obedecer às seguintes condições:
+
+1) Em cada aquário devem ser indicados os seguintes dados:
+
+a) Os aquários devem dispor de uma capacidade de, pelo menos, 45 l, correspondente a 2 l ou a 3 l de água por 10 cm de peixe, ou seja, no máximo, 90 peixes de 2,5 cm em 45 l de água;
+
+b) O grau de salinidade ou a densidade da água quando se trata de água do mar;
+
+c) O Ph quando se trata de água doce;
+
+d) A dureza (gH e kH) ou a conductividade quando se trata de água doce;
+
+2) As condições para a manutenção de peixes de água doce são as seguintes:
+
+a) Os aquários devem dispor uma capacidade de, pelo menos, 45 l, correspondente a 2 l ou a 3 l de água por 10 cm de peixe, ou seja, no máximo, 90 peixes de 2,5 cm em 45 l de água;
+
+b) Não é admitida a manutenção de peixes vermelhos em aquários de forma esférica;
+
+c) A água de cada aquário deve ser filtrada por um sistema de filtração, individual ou centralizado, sendo indispensável e obrigatória a filtração permanente nos casos de forte taxa de ocupação com peixes de espécies frágeis;
+
+d) Os peixes devem apresentar uma respiração normal e calma, devendo o teor em nitrito (NO(índice 2) -) ser sempre inferior a 0,3 mg por litro e o teor em oxigénio ser sempre superior a 5 mg por litro;
+
+e) Os aquários devem ser climatizados de tal forma que a temperatura seja adequada aos peixes que alojam, devendo a intensidade de iluminação e a qualidade da luz ser tais que o crescimento de plantas seja possível;
+
+3) As condições para a manutenção de peixes de água salgada são as seguintes:
+
+a) É desejável que os aquários tenham uma capacidade de pelo menos 200 l, correspondente a 20 l ou a 30 l de água por 10 cm de peixe, ou seja, no máximo, 10 peixes de 10 cm em 200 l de água;
+
+b) A quantidade de água, a filtração e a aerificação da água devem ser controladas, de forma a permitir que os peixes possam apresentar uma respiração normal e calma;
+
+c) A filtração permanente é indispensável e obrigatória;
+
+d) Os aquários devem ser climatizados de tal forma que a temperatura seja adequada aos peixes que alojam, devendo a intensidade de iluminação e a qualidade da luz ser tais que o crescimento de algas seja possível.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 32.º — Instalações para venda
+
+Os alojamentos de reprodução ou criação de aves, peixes, répteis e mamíferos, com exceção dos cães, só funcionam como locais de venda desde que esta se efetue em instalações diferenciadas das anteriores, salvaguardando-se sempre as condições de bem-estar animal, de acordo com o disposto no presente diploma para os alojamentos de hospedagem com fins lucrativos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 33.º — Cuidados médico-veterinários
+
+Aos animais feridos ou doentes devem ser assegurados os cuidados médico-veterinários adequados.
+
+###### Artigo 34.º — Alojamento por espécies
+
+1 - Nos locais de venda, designadamente lojas, lojas de centros comerciais, feiras e mercados, o alojamento de animais deve ser efectuado separando-os por espécies, de forma a salvaguardarem-se as suas condições específicas de bem-estar, conforme o disposto nos artigos 7.º a 15.º e 16.º, n.os 3, 4, 5 e 6.
+
+2 - Os operadores-receptores que alojem animais por um período superior a vinte e quatro horas devem mantê-los separados por espécies e em adequadas condições de bem-estar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 35.º — Venda em feiras e mercados
+
+1 - A venda de animais de companhia em feiras e mercados só é permitida quando se encontrem asseguradas as condições de bem-estar animal e de segurança para as pessoas, outros animais e bens, designadamente:
+
+a) Os animais devem ser alojados por espécies;
+
+b) A área disponível no alojamento deve permitir que os animais se possam virar, deitar e levantar;
+
+c) Os animais não podem ter os membros atados;
+
+d) Os animais devem estar protegidos da chuva, de sol direto, do vento ou de outros fatores ambientais que lhes provoquem desconforto;
+
+e) Devem ser disponibilizados pontos de água e os animais devem ter acesso à mesma permanentemente.
+
+2 - A venda de cães e gatos em feiras e mercados obedece às condições previstas no artigo 27.º, com as necessárias adaptações, devendo os animais:
+
+a) Cumprir os requisitos higiossanitários, de identificação, registo e licenciamento em vigor;
+
+b) Ter idade superior a 8 semanas.
+
+3 - A venda de animais de companhia em feiras e mercados depende de:
+
+a) Autorização da câmara territorialmente competente para a realização de feira ou mercado por entidade privada, nos termos da legislação aplicável;
+
+b) Mera comunicação prévia à câmara, para que esta promova uma vistoria aos locais de venda pelo médico veterinário municipal.
+
+4 - A comunicação referida na alínea b) do número anterior é apresentada pelo organizador do evento, por via eletrónica, através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+5 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a comunicação referida na alínea b) do n.º 3 pode ser apresentada por qualquer outro meio previsto na lei.
+
+6 - Não é permitida a venda ambulante de animais de companhia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 36.º — Animais feridos ou doentes
+
+Os animais feridos ou doentes não podem ser mantidos nos locais de venda, devendo ser-lhes assegurados cuidados médico-veterinários.
+
+###### Artigo 37.º — Fêmeas prenhes e ninhadas
+
+As fêmeas prenhes, bem como as ninhadas em período de aleitamento, não podem ser mantidas nos locais de venda.
+
+###### Artigo 38.º — Pessoal auxiliar e assistência médico-veterinária
+
+1 - Os alojamentos devem dispor de pessoal auxiliar que possua os conhecimentos e a aptidão necessária para assegurar os cuidados adequados aos animais, o qual fica, contudo, sob a orientação do responsável técnico a que se refere o n.º 1 do artigo 4.º
+
+2 - As lojas de venda de animais devem assegurar a assistência aos animais, em caso de necessidade, por médico veterinário ou centro de atendimento médico-veterinário.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+### Capítulo IV — Normas para os alojamentos de hospedagem sem fins lucrativos e centros de recolha
+
+###### Artigo 39.º — Disposições gerais
+
+Os detentores de animais de companhia em alojamentos de hospedagem sem fins lucrativos e em centros de recolha devem cumprir, sem prejuízo das demais disposições aplicáveis, as condições previstas no presente capítulo.
+
+###### Artigo 40.º — Âmbito
+
+Os alojamentos de hospedagem sem fins lucrativos e os centros de recolha não podem funcionar como locais de reprodução, criação, venda e hospitalização.
+
+###### Artigo 41.º — Instalações
+
+1 - Os alojamentos a que se refere este capítulo devem possuir instalações por espécie, para machos, fêmeas e fêmeas com respectivas ninhadas.
+
+2 - Nos alojamentos referidos no número anterior as fêmeas e machos adultos podem coabitar, se estiverem esterilizados.
+
+3 - Sem prejuízo do disposto no n.º 1, devem existir instalações diferenciadas para enfermaria, higiene, armazém, manuseamento de alimentos, lavagem de material e armazém de material e equipamento limpo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 42.º — Outras disposições
+
+1 - Além das condições previstas no artigo anterior, aplica-se também o disposto nos artigos 8.º a 16.º, 19.º, n.º 7, e 22.º
+
+2 - Os alojamentos de hospedagem sem fins lucrativos devem dispor de sala de quarentena.
+
+### Capítulo V — Normas para alojamentos destinados a fins higiénicos
+
+###### Artigo 43.º — Disposições gerais
+
+Os alojamentos de animais de companhia, nomeadamente de cães e de gatos, destinados exclusivamente aos seus cuidados de higiene corporal, devem cumprir, sem prejuízo das demais disposições aplicáveis, as condições previstas neste capítulo.
+
+###### Artigo 44.º — Âmbito dos alojamentos
+
+Os alojamentos destinados a fins higiénicos só podem proceder a banhos, secagem e escovagem dos pêlos, desparasitações externas, tosquias e cortes de unhas.
+
+###### Artigo 45.º — Equipamento, material e produtos
+
+Os alojamentos devem possuir o equipamento, o material e os produtos adequados aos procedimentos referidos no artigo anterior.
+
+###### Artigo 46.º — Pessoal
+
+O pessoal responsável pelas tarefas referidas no artigo 44.º deve possuir os conhecimentos e a experiência adequada para as executar.
+
+### Capítulo VI — Normas para a hospedagem com fins médico-veterinários
+
+###### Artigo 47.º — Disposições gerais
+
+A hospedagem de animais de companhia com fins médico-veterinários deve cumprir, sem prejuízo das demais disposições aplicáveis, as condições previstas no presente capítulo.
+
+###### Artigo 48.º — Alojamentos
+
+Os animais devem ser alojados por espécies, caso existam instalações para hospitalização.
+
+###### Artigo 49.º — Alimentação e abeberamento
+
+Deve ser mantida comida suficiente e de boa qualidade e água potável, a administrar de acordo com a prescrição do médico veterinário.
+
+###### Artigo 50.º — Fins do alojamento
+
+O alojamento com fins higiénicos só é permitido desde que em instalações devidamente separadas das com fins médico-veterinários.
+
+###### Artigo 51.º — Equipamento, material e produtos
+
+Os alojamentos referidos neste capítulo devem estar equipados com o material e os produtos adequados para os fins previstos.
+
+###### Artigo 52.º — Pessoal
+
+O pessoal auxiliar deve possuir os conhecimentos e a experiência adequada, o qual fica, contudo, sob a orientação do médico veterinário responsável.
+
+### Capítulo VII — Normas relativas às condições de transmissão
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374), em vigor a partir de 2017-08-24
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 255/2009 - Diário da República n.º 186/2009, Série I de 2009-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2009-490439), em vigor a partir de 2009-09-25
+
+###### Artigo 53.º — Requisitos de validade do anúncio de venda de animal de companhia
+
+1 - Qualquer anúncio de transmissão, a título oneroso, de animais de companhia deve conter as seguintes informações:
+
+a) A idade dos animais;
+
+b) Tratando-se de cão ou gato, a indicação se é animal de raça pura ou indeterminada, sendo que, tratando-se de animal de raça pura, deve obrigatoriamente ser referido o número de registo no livro de origens português;
+
+c) Número de identificação eletrónica da cria e da fêmea reprodutora;
+
+d) Número de inscrição de criador nos termos do artigo 3.º do presente diploma;
+
+e) Número de animais da ninhada.
+
+2 - Qualquer publicação de uma oferta de transmissão de animal a título gratuito deve mencionar explicitamente a sua gratuitidade.
+
+3 - Os cães e gatos só podem ser considerados de raça pura se estiverem inscritos no livro de origens português, caso contrário são identificados como cão ou gato de raça indeterminada.
+
+4 - No caso de anúncios de animais de raça indeterminada é proibida qualquer referência a raças no texto do anúncio.
+
+###### Artigo 53.º-A — Plataformas de Internet para anunciar a venda de animais
+
+As plataformas de Internet disponíveis para anunciar a venda de animais apenas podem publicitar os anúncios que cumpram os requisitos dispostos no artigo 53.º
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374), em vigor a partir de 2017-08-24
+
+###### Artigo 54.º — Requisitos de validade da transmissão de propriedade de animal de companhia
+
+Qualquer transmissão de propriedade, gratuita ou onerosa, de animal de companhia deve ser acompanhada, no momento da transmissão, dos seguintes documentos entregues ao adquirente:
+
+a) Declaração de cedência ou contrato de compra e venda do animal e respetiva fatura, ou documento comprovativo da doação;
+
+b) Comprovativo de identificação eletrónica do animal, desde que se trate de cão ou gato;
+
+c) Declaração médico-veterinária, com prazo de pelo menos 15 dias, que ateste que o animal se encontra de boa saúde e apto a ser vendido;
+
+d) Informação de vacinas e historial clínico do animal.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 255/2009 - Diário da República n.º 186/2009, Série I de 2009-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2009-490439), em vigor a partir de 2009-09-25
+
+###### Artigo 55.º — Proibição de venda na Internet de animais selvagens
+
+1 - Os animais selvagens não podem ser publicitados ou vendidos através da Internet, designadamente através de quaisquer portais ou plataformas, de caráter geral ou específicos para este tipo de venda, mesmo que sujeitas a registo prévio de utilizadores ou de acesso restrito.
+
+2 - O disposto no número anterior não prejudica a existência de sítios de Internet de entidades comercializadoras de animais selvagens, desde que não disponibilizem quaisquer funcionalidades que permitam a venda através da Internet.
+
+3 - A compra e venda de animais selvagens é feita exclusivamente nas condições legalmente previstas para o efeito, não podendo estes, em qualquer caso, ser expostos em montras ou vitrinas que confrontem com espaços exteriores à loja, permitindo que sejam visíveis fora desta.
+
+###### Artigo 56.º — Importação de animais de companhia
+
+A importação de animais de companhia provenientes de outros Estados é admitida desde que sejam cumpridas as regras sanitárias portuguesas.
+
+###### Artigo 57.º — Local de venda dos animais
+
+1 - Os animais de companhia podem ser publicitados na Internet mas a compra e venda dos mesmos apenas é admitida no local de criação ou em estabelecimentos devidamente licenciados para o efeito, sendo expressamente proibida a venda de animais por entidade transportadora.
+
+2 - Os estabelecimentos devidamente licenciados para o efeito estão impedidos de expor os animais em montras ou vitrinas.
+
+> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 255/2009 - Diário da República n.º 186/2009, Série I de 2009-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/255-2009-490439), em vigor a partir de 2009-09-25
+
+###### Artigo 58.º — Transporte dos animais transmitidos
+
+O transporte de animais de companhia na sequência de transmissão onerosa ou gratuita só pode ser realizado por entidade transportadora desde que esta se faça acompanhar dos documentos referidos no artigo 54.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374), em vigor a partir de 2017-08-24
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+### Capítulo VIII — Normas para a detenção e o alojamento de animais selvagens ou de animais potencialmente perigosos
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 59.º — Licença de detenção de animais selvagens ou de animais potencialmente perigosos
+
+1 - A detenção de animais selvagens que não se encontrem abrangidos pelo disposto no n.º 2 do artigo 1.º ou de animais potencialmente perigosos como animais de companhia carece de licença emitida pela câmara municipal, sob parecer favorável, obrigatório, do médico veterinário municipal da área do alojamento.
+
+2 - Para cumprimento do referido no número anterior, a câmara municipal só outorga a referida licença se o requerente preencher os seguintes requisitos:
+
+a) Ser maior de idade e não estar interdito, por decisão judicial, para gerir a sua pessoa e os seus bens;
+
+b) Não ter sido condenado, por sentença transitada em julgado, por crime contra a vida ou a integridade física, quando praticados a título de dolo, assim como se deve verificar a ausência de sanções por infracções em matéria de detenção dos animais a que se refere este capítulo;
+
+c) Apresentar documento que certifique a formalização de um seguro de responsabilidade civil por danos a terceiros que possam ser causados pelos animais referidos no n.º 1.
+
+3 - Às pessoas colectivas apenas se aplica o disposto nas alíneas a) e b) do número anterior.
+
+4 - A licença deve ser renovada todos os anos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 60.º — Manutenção
+
+À manutenção de animais a que diz respeito este capítulo aplica-se também o disposto nos artigos 3.º a 5.º, 7.º a 18.º e 22.º do presente diploma.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 61.º — Medidas de segurança especiais nos alojamentos e na circulação
+
+1 - O detentor de animal selvagem ou de animal potencialmente perigoso fica obrigado a manter medidas de segurança reforçadas, nomeadamente, nos alojamentos, os quais não podem permitir a fuga dos animais e devem acautelar de forma eficaz a segurança de pessoas, outros animais e bens.
+
+2 - O detentor fica obrigado à afixação no alojamento, em local visível, de aviso da presença e perigosidade do animal.
+
+3 - Sempre que o detentor necessite circular na via pública ou nos lugares públicos com os animais a que diz respeito este capítulo, deve fazê-lo com meios de contenção adequados à espécie e à raça ou cruzamento de raças, nomeadamente, usando contentores adequados (caixas, jaulas, gaiolas ou outros) ou açaimo funcional que não permita comer nem morder e, neste caso, seguro com trela curta (até 1 m de comprimento) que deve estar fixa a coleira ou a peitoral, tudo de material resistente.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 62.º — Treino
+
+1 - Os detentores de animais selvagens ou de animais potencialmente perigosos não podem proceder ao seu treino visando a participação em lutas ou o aumento ou reforço da sua agressividade para pessoas, outros animais e bens.
+
+2 - Os detentores de animais potencialmente perigosos, nomeadamente mamíferos, devem promover o treino dos mesmos com vista à sua domesticação, desde que a espécie seja passível de tal.
+
+3 - O treino referido no número anterior deve ser efectuado por treinadores que estejam na posse de um certificado de capacidade, emitido por entidade reconhecida pela DGAV, nas condições e com as obrigações estabelecidas em portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+4 - Os treinadores devem comunicar trimestralmente, por escrito, à câmara municipal da área de residência dos detentores, quais as espécies animais que tenham sido treinadas, bem como a identificação dos seus detentores, visando a anotação deste facto numa ficha de registo do animal.
+
+> Republicado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 63.º — Seguro de responsabilidade civil
+
+O detentor de qualquer animal potencialmente perigoso fica obrigado a possuir um seguro de responsabilidade civil em relação ao mesmo.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 64.º — Regime de excepção
+
+1 - Exceptua-se o disposto neste capítulo para os cães pertencentes às Forças Armadas ou às forças de segurança do Estado.
+
+2 - As entidades referidas no número anterior devem manter os animais em condições de bem-estar animal, nomeadamente conforme o disposto nos artigos 7.º a 15.º e 16.º, n.os 3 a 6.
+
+3 - As entidades referidas no n.º 1 devem manter os cães identificados.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+### Capítulo IX — Disposições especiais
+
+###### Artigo 65.º — Recusa ou suspensão de licenças
+
+1 - Pode ser recusada ou suspensa a licença de detenção de animais de companhia, nomeadamente as de animais selvagens ou animais potencialmente perigosos, sempre que entender não estarem garantidas as condições de bem-estar dos animais, bem como a segurança e a tranquilidade para pessoas, outros animais e bens, determinando o destino dos animais, quando necessário.
+
+2 - Compete às câmaras municipais, sob a responsabilidade do médico veterinário municipal, executarem as determinações referidas no número anterior, podendo solicitar expressamente a colaboração de outras autoridades ou entidades, com especial referência para as DRA, Direcção-Geral das Florestas, Instituto da Conservação da Natureza, GNR, PSP, corporações de bombeiros e instituições zoófilas legalmente constituídas.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+### Capítulo X — Fiscalização, plano de controlo e contraordenações
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+#### Secção I — Disposições gerais
+
+###### Artigo 66.º — Fiscalização
+
+Sem prejuízo das competências atribuídas por lei a outras entidades, compete, em especial, à DGAV, aos médicos veterinários municipais, à Autoridade de Segurança Alimentar e Económica, ao ICNF, I. P., às câmaras municipais, à PM, à GNR, à PSP e, em geral, a todas as autoridades policiais assegurar a fiscalização do cumprimento das normas constantes do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 66.º-A — Identificação do agente
+
+1 - Além das autoridades policiais, também os agentes de fiscalização devidamente credenciados pelas entidades referidas no artigo anterior podem, no exercício das suas funções e quando tal se mostre necessário, exigir do agente de uma contra-ordenação a respectiva identificação e solicitar a intervenção da autoridade policial.
+
+2 - A identificação é feita mediante a apresentação do bilhete de identidade ou outro documento autêntico que a permita ou ainda, na sua falta, através de uma testemunha identificada nos mesmos termos.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-03-05
+
+###### Artigo 67.º — Plano de controlo
+
+1 - A DGAV define e coordena o plano de controlo das normas de proteção dos animais de companhia, executando-o em colaboração com as autoridades referidas no artigo anterior, designadamente através de inspeções e de ações de controlo.
+
+2 - Os relatórios anuais das inspeções ou ações de controlo a que se refere o número anterior devem ser remetidos à DGAV até ao final do mês de março do ano seguinte àquele a que respeitam.
+
+3 - As autoridades administrativas, policiais e as pessoas singulares e coletivas devem prestar toda a colaboração necessária às inspeções e ações de controlo a efetuar no âmbito do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 67.º-A — Acesso ao alojamento
+
+1 - Para efeitos de controlo do cumprimento das normas aplicáveis, o titular da exploração do alojamento está obrigado a facultar às autoridades competentes o acesso ao alojamento.
+
+2 - Caso o titular da exploração do alojamento se recuse a facultar o acesso ao alojamento, pode ser solicitado mandado judicial para permitir às autoridades competentes o acesso aos locais onde os animais se encontrem, nomeadamente casas de habitação e terrenos privados.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+#### Secção II — Das contra-ordenações
+
+###### Artigo 68.º — Contraordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+
+a) A falta da mera comunicação prévia ou da permissão administrativa previstas no n.º 1 do artigo 3.º;
+
+b) O incumprimento do disposto no artigo 35.º;
+
+c) A realização de circos, espectáculos, competições, concursos ou manifestações similares em que intervenham animais de companhia em incumprimento das normas regulamentares deste diploma, bem como das previstas na Convenção;
+
+d) A negação ou inviabilização de dados ou de informações requeridas pelas autoridades competentes ou seus agentes, em ordem ao cumprimento de funções estabelecidas neste diploma, assim como a prestação de informações inexactas ou falsas;
+
+e) A venda ambulante de animais de companhia, bem como o anúncio ou transmissão de propriedade de animais de companhia com inobservância dos requisitos referidos nos artigos 53.º, 53.º-A, 54.º e 56.º a 58.º;
+
+f) O alojamento de animais de companhia em desrespeito das condições fixadas no presente diploma;
+
+g) A venda de animais feridos, doentes, com defeitos ou taras congénitas;
+
+h) A utilização dos alojamentos destinados a fins higiénicos que contrarie o disposto no artigo 44.º;
+
+i) O abate em desrespeito das disposições do artigo 19.º
+
+j) A violação do dever de cuidado previsto no artigo 6.º que crie perigo para a vida ou integridade física de outro animal;
+
+k) A recusa de transporte de animais que se encontrem nas condições estabelecidas no n.º 3 do artigo 10.º;
+
+l) A exposição de animais em contrariedade com o disposto no n.º 3 do artigo 55.º
+
+2 - Constitui contraordenação económica muito grave, punível nos termos do RJCE:
+
+a) A violação do disposto nos n.os 3 e 4 do artigo 2.º;
+
+b) A violação do dever de cuidado previsto no artigo 6.º que crie perigo para a vida ou integridade física de outrem;
+
+c) O abandono de animais de companhia nos termos do disposto no artigo 6.º-A;
+
+d) A violação do disposto nos n.os 3 e 4 do artigo 7.º;
+
+e) O maneio e treino dos animais com brutalidade, nomeadamente as pancadas e os pontapés;
+
+f) As intervenções cirúrgicas e as amputações destinadas a modificar a aparência de um animal de companhia, excepto as previstas nos artigos 17.º e 18.º;
+
+g) Os espectáculos ou outras manifestações similares que envolvam lutas entre animais de companhia.
+
+h) A publicidade ou venda de animais selvagens em contrariedade com o disposto nos n.os 1 e 2 do artigo 55.º
+
+3 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - Sem prejuízo dos montantes máximos fixados, a coima deverá, sempre que possível, exceder o benefício económico que o agente retirou da prática do acto ilícito.
+
+> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374), em vigor a partir de 2017-08-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 69.º — Sanções acessórias
+
+Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
+
+a) Perda a favor do Estado de objectos e animais pertencentes ao agente utilizados na prática do acto ilícito;
+
+b) Interdição do exercício de uma profissão ou atividade reguladas no presente diploma, cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos às atividades reguladas no presente diploma;
+
+d) Privação do direito de participarem em feiras ou mercados de animais;
+
+e) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+f) Suspensão de autorizações, licenças e alvarás.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374), em vigor a partir de 2017-08-24
+
+###### Artigo 70.º — Tramitação processual
+
+1 - Compete à DGAV e aos órgãos de polícia criminal a instrução dos processos de contraordenação.
+
+2 - Compete ao diretor-geral de Alimentação e Veterinária ou ao diretor do respetivo órgão de polícia criminal a aplicação das coimas e das sanções acessórias.
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374), em vigor a partir de 2017-08-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+###### Artigo 71.º — Afectação do produto das coimas
+
+O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 95/2017 - Diário da República n.º 162/2017, Série I de 2017-08-23](https://diariodarepublica.pt/dr/detalhe/lei/95-2017-108038374), em vigor a partir de 2017-08-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+### Capítulo XI — Disposições complementares e finais
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 71.º-A — Cooperação administrativa
+
+As autoridades competentes nos termos do presente diploma participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores provenientes de outro Estado membro da União Europeia ou do Espaço Económico Europeu, nos termos do disposto nos artigos 26.º a 29.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente através do Sistema de Informação do Mercado Interno.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 72.º — Regiões Autónomas
+
+Os atos e os procedimentos necessários à execução do presente diploma nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais com atribuições e competências nas matérias em causa, constituindo receita das mesmas o produto das coimas aí cobradas e o produto das taxas devidas pela aprovação dos alojamentos dos animais a que se refere o n.º 1 do artigo 3.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 73.º — Taxas
+
+1 - Pelos atos e serviços relativos a procedimentos previstos no presente diploma são devidas taxas, a fixar por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.
+
+2 - As taxas a que se refere o número anterior constituem receitas próprias da DGAV.
+
+3 - (Revogado.)
+
+> Alterado pelo/a [Resolução da Assembleia da República n.º 138/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/138-2019-123815984), em vigor a partir de 2019-08-13
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2019-118748847), em vigor a partir de 2019-01-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 265/2007 - Diário da República n.º 141/2007, Série I de 2007-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-2007-636746), em vigor a partir de 2007-07-25
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+Visto e aprovado em Conselho de Ministros de 9 de Agosto de 2001. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - Henrique Nuno Pires Severiano Teixeira - Eduardo Arménio do Nascimento Cabrita - Luís Manuel Capoulas Santos - Rui Nobre Gonçalves.
+
+Promulgado em 27 de Setembro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 4 de Outubro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I — Temperatura ambiente/humidade relativa Animais alojados em gaiolas ou jaulas ou em recintos interiores
+
+(ver quadro no documento original)
+
+## Anexo II — Medidas mínimas das caixas para pequenos roedores e coelhos Caixas para animais detidos individualmente ou em grupo (ver nota *)
+
+(ver quadro no documento original)
+
+(nota *) Não aplicável a coelhos-bravos.
+
+a) Caixas para outros pequenos roedores:
+
+(ver quadro no documento original)
+
+b) Caixas de pequenos roedores em reprodução:
+
+(ver quadro no documento original)
+
+c) Caixas de coelhos em reprodução (ver nota *):
+
+(ver quadro no documento original)
+
+(nota *) Não aplicável a coelhos-bravos.
+
+## Anexo III — Dimensões mínimas para o alojamento de cães e gatos
+
+a) Alojamento de gatos em lojas de venda:
+
+(ver quadro no documento original)
+
+b) Alojamento de gatos:
+
+(ver quadro no documento original)
+
+c) A superfície mínima do chão do recinto para uma gata e respectiva ninhada deve ser de pelo menos 1 m2;
+
+d) Alojamentos de cães:
+
+d.1) Individualmente:
+
+(ver quadro no documento original)
+
+d.2) Em grupo:
+
+(ver quadro no documento original)
+
+e) A superfície mínima do chão do recinto para uma cadela e respectiva ninhada deve estar compreendida entre 4 m2 e 6 m2.
+
+f) Alojamento de cães em locais de venda:
+
+(ver quadro no documento original)
+
+g) Alojamento de cães em centros de recolha oficiais e alojamentos sem fins lucrativos:
+
+g.1) Individualmente:
+
+(ver quadro no documento original)
+
+Nota. - Os animais têm de ter, no mínimo, espaço suficiente para estarem de pé, deitados, para se virarem e sentarem normalmente.
+
+Os cães alojados em gaiolas deverão ser exercitados em recintos de pelo menos 1,22 m x 3,04 m, duas vezes por dia, e caminharem à trela por um período mínimo de vinte minutos, duas vezes por dia.
+
+(ver quadro no documento original)
+
+g.2) Em grupo:
+
+Os animais têm de ter, no mínimo, espaço suficiente para estarem de pé, deitados, para se virarem e sentarem normalmente;
+
+Num canil, cada animal deverá dispor de uma superfície de base de, pelo menos, 1,22 m x 1,22 m;
+
+Um recinto com as dimensões de 1,50 m x 3 m não poderá alojar mais de dois cães de raça média ou grande ou três cães de raça pequena.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 315/2003 - Diário da República n.º 290/2003, Série I-A de 2003-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2003-432864), em vigor a partir de 2003-12-22
+
+## Anexo IV — Dimensões mínimas para o alojamento de certas aves
+
+(ver quadro no documento original)
+
+## Anexo V — Superfície e altura mínimas de terrários para alojamento de répteis
+
+(ver quadro no documento original)
+
+Exemplos:
+
+20 tartarugas terrestres cujo comprimento da carapaça dorsal é de 15 cm:
+
+... Superfície de base (centímetros quadrados)
+
+1.º animal - 45 cm x 45 cm ... 2025
+
+2.º ao 20.º animal - 19 cm x 15 cm x 30 cm ... 12825
+
+... 14850
+
+Quatro pitões jovens cujo comprimento é de 90 cm:
+
+60 cm x 45 cm = 2700 cm2 de superfície de base e 45 cm de altura;
+
+Um casal de lagartos trepadores com o comprimento total de 20 cm:
+
+20 cm x 40 cm = 800 cm2 de superfície de base e 60 cm de altura.
+
+## Anexo VI — Dimensões mínimas de terrários para alojamento de anfíbios
+
+(ver quadro no documento original)
+
+## Anexo VII — Dimensões mínimas de aquiterrários para alojamento de outros anfíbios
+
+(ver quadro no documento original)

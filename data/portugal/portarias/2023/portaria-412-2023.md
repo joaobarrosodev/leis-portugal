@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:225283577:por
+title: Portaria n.º 412/2023
+short_title: null
+summary: Autoriza o Instituto da Segurança Social, I. P., a proceder à realização de protocolos visando a implementação de
+  Centros de Apoio à Vida Independente (CAVI)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 412/2023
+official_date: null
+publication_date: '2023-12-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 235/2023, Série I de 2023-12-06
+  number: '235'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/12/23500/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/412/2023/12/06/p/dre/pt/html
+  oj: null
+  dre: '225283577'
+  dre_path: /dr/detalhe/portaria/412-2023-225283577
+  internal: pt:dre:225283577:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/412-2023-225283577
+  metadata_url: https://data.dre.pt/eli/port/412/2023/12/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/412-2023-225283577
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-12-06T00:00:00Z'
+integrity:
+  source_sha256: b5ed17e63389196370e4bdb7e5df04d5bb7aeef58052ded9aa82f6ee6deb27a1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-412-225283577.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto da Segurança Social
+- Financiamento
+- Igualdade de Oportunidades
+- Programa Comunitário
+- PORTUGAL 2020
+- Centro de Apoio à Vida Independente
+- Programa Modelo de Apoio à Vida Independente
+- Estratégia Nacional para a Inclusão das Pessoas com Deficiência
+- Direitos das Pessoas com Deficiência
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/120/2015/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/120/2015/06/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/129/2017/10/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/129/2017/10/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decpresrep/72/2009/07/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/72/2009/07/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/38/2004/08/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/196-a/2015/07/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/196-a/2015/07/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/342/2017/11/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/342/2017/11/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/119/2021/08/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/119/2021/08/31/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 412/2023
+
+de 6 de dezembro
+
+O [Decreto-Lei n.º 129/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2017-108265124), de 9 de outubro, na sua atual redação, instituiu o Programa «Modelo de Apoio à Vida Independente» (MAVI), definindo as regras e condições aplicáveis ao desenvolvimento da atividade de assistência pessoal, de criação, organização, funcionamento e reconhecimento de Centros de Apoio à Vida Independente (CAVI), bem como os requisitos de elegibilidade e o regime de concessão de apoios técnicos e financeiros dos projetos-piloto de assistência pessoal.
+
+No âmbito do programa de financiamento comunitário para o projeto-piloto MAVI, foram apresentadas candidaturas nos três Programas Operacionais - POISE, CRESC Algarve e Lisboa 2020, tendo sido aprovadas 35 operações.
+
+Face ao término do período de 36 meses inicialmente previsto, foi autorizada a prorrogação do financiamento até ao limite de 55 meses.
+
+Em função das características de cada projeto-piloto em concreto, ao longo do período compreendido entre janeiro e setembro de 2023, verificou-se o respetivo término do financiamento.
+
+Considerando o Governo como fundamental o desenvolvimento das políticas de inclusão das pessoas com deficiência, impõe-se salvaguardar a continuidade da execução do MAVI.
+
+Com efeito, o recurso à assistência pessoal promove uma clara melhoria da autodeterminação e inclusão da esmagadora maioria dos destinatários, diminuindo significativamente o risco de institucionalização e de dependência familiar.
+
+A este respeito, o artigo 71.º da Constituição da República Portuguesa e a alínea a) do artigo 3.º da [Lei n.º 38/2004](https://diariodarepublica.pt/dr/detalhe/lei/38-2004-480708), de 18 de agosto, que define as bases gerais do regime jurídico da prevenção, habilitação, reabilitação e participação da pessoa com deficiência, consagram a promoção da igualdade de oportunidades, garantindo que a pessoa com deficiência disponha de condições que permitam a plena participação na sociedade.
+
+No plano internacional, através do [Decreto do Presidente da República n.º 72/2009](https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/72-2009-493191), de 30 de julho, foi ratificado o Protocolo Opcional à Convenção sobre os Direitos das Pessoas com Deficiência, sendo consagrado na alínea b) do artigo 19.º o direito à assistência pessoal.
+
+Ademais, o Governo comprometeu-se a desenvolver esforços na implementação da Estratégia da Comissão Europeia para a Promoção dos Direitos das Pessoas com Deficiência 2021-2030 e da Estratégia para a Deficiência 2017-2023, do Conselho da Europa.
+
+De igual modo, aprovou a Estratégia Nacional para a Inclusão das Pessoas com Deficiência 2021-2025, decorrente da [Resolução do Conselho de Ministros n.º 119/2021](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/119-2021-170514954), de 31 de agosto, cujos objetivos visam a criação de condições de autonomização e vida independente de pessoas com deficiência, assim como a capacitação de instituições e comunidades para o efeito.
+
+Em razão do exposto, por forma a assegurar a prossecução da presente resposta integrada inovadora, importa autorizar o Instituto da Segurança Social (ISS, I. P.) a proceder à realização dos protocolos que viabilizem a implementação de CAVI, enquanto resposta fundamental à melhoria e qualidade de vida das pessoas com deficiência e incapacidade.
+
+Para o efeito, afigura-se necessário regular as condições de celebração dos referidos protocolos, tomando como referência os critérios, limites e rácios necessários aprovados por via da Portaria n.º 342/2007, de 9 de novembro, na sua atual redação.
+
+Assim, nos termos dos artigos 26.º, 29.º e 30.º da [Lei n.º 4/2007](https://diariodarepublica.pt/dr/detalhe/lei/4-2007-522781), de 16 de janeiro, na sua redação atual, e nos termos conjugados dos artigos 7.º do [Decreto-Lei n.º 120/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2015-67641479), de 30 de junho, do artigo 28.º da [Portaria n.º 196-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/196-a-2015-67666075), de 1 de julho, e do artigo 2.º do [Decreto-Lei n.º 129/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2017-108265124), de 9 de outubro, na sua redação atual, manda o Governo, pelo Secretário de Estado da Segurança Social e pela Secretária de Estado da Inclusão, no uso das competências delegadas ao abrigo do [Despacho n.º 7910/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7910-2022-185330735), de 21 de junho, publicado no Diário da República, 2.ª série, n.º 123, de 28 de junho de 2022, o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+A presente portaria autoriza a celebração de protocolos entre o Instituto da Segurança Social, I. P. (ISS, I. P.) e as entidades que visam implementar um Centro de Apoio à Vida Independente (CAVI), com o objetivo de desenvolver uma resposta integrada inovadora que assenta na execução do programa Modelo de Apoio à Vida Independente (MAVI) instituído pelo [Decreto-Lei n.º 129/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2017-108265124), de 9 de outubro, na sua atual redação.
+
+###### Artigo 2.º — Conteúdo dos Protocolos
+
+Os protocolos referidos no artigo anterior, celebrados em data a acordar entre as partes, devem conter, nomeadamente, as seguintes cláusulas:
+
+a) Identificação dos outorgantes;
+
+b) Finalidade do protocolo;
+
+c) Caracterização do projeto ou medida a desenvolver e respetivos destinatários;
+
+d) Âmbito geográfico de intervenção;
+
+e) Obrigações dos outorgantes;
+
+f) Financiamento;
+
+g) Cessão e vigência.
+
+###### Artigo 3.º — Comparticipação Financeira
+
+1 - No âmbito dos protolocos a celebrar, o ISS, I. P., assume a atribuição de uma comparticipação financeira e as entidades beneficiárias assumem a execução do programa MAVI.
+
+2 - A aprovação de atribuição do apoio financeiro está dependente da verificação do cumprimento dos requisitos previstos nos artigos 5.º e 6.º da [Portaria n.º 196-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/196-a-2015-67666075), de 1 de julho, na sua atual redação.
+
+3 - A entidade beneficiária deve assegurar o cumprimento das obrigações previstas no [Decreto-Lei n.º 129/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2017-108265124), de 9 de outubro, na sua atual redação, incluindo o cumprimento dos critérios, rácios e limites constantes dos artigos 2.º a 4.º da [Portaria n.º 342/2017](https://diariodarepublica.pt/dr/detalhe/portaria/342-2017-114161345), de 9 de novembro.
+
+4 - O apoio financeiro é processado de acordo com o modelo a definir pelo ISS, I. P.
+
+###### Artigo 4.º — Cumulação de apoios
+
+1 - Os apoios atribuídos no âmbito da presente portaria não são cumuláveis com outros apoios públicos para fins e natureza idênticos.
+
+2 - Em caso de prática, por ação ou omissão, de factos indiciadores de situações irregulares, os apoios são suspensos de imediato e a irregularidade comunicada aos serviços competentes, para promoção dos procedimentos adequados à recuperação das quantias recebidas indevidamente e ao apuramento de eventuais responsabilidades.
+
+###### Artigo 5.º — Acompanhamento, monitorização e avaliação
+
+O acompanhamento, monitorização e avaliação dos protocolos é realizado pelo ISS, I. P., e incide, entre outras matérias, sobre:
+
+a) Cumprimento dos objetivos estabelecidos;
+
+b) Qualidade do serviço prestado;
+
+c) Intervenção técnica realizada;
+
+d) Medidas inovadoras implementadas.
+
+###### Artigo 6.º — Incumprimento e fiscalização
+
+A competência de fiscalização e aplicação de sanções decorrentes do incumprimento das cláusulas constantes dos protocolos e da legislação aplicável é exercida pelo ISS, I. P.
+
+###### Artigo 7.º — Regime subsidiário
+
+Em tudo quanto não se encontre previsto na presente portaria, aplica-se o disposto na [Portaria n.º 196-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/196-a-2015-67666075), de 1 de julho, na sua atual redação e nas normas reguladoras da cooperação no âmbito da segurança social.
+
+###### Artigo 8.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023.
+
+Em 30 de novembro de 2023.
+
+**O Secretário de Estado da Segurança Social, Gabriel Gameiro Rodrigues Bastos. - A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes.**

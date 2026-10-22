@@ -1,0 +1,748 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:165129793:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2021-165200588",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/8-2021-165129793",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-06-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165198061",
+    "165198062",
+    "165198063",
+    "165198064",
+    "165198065",
+    "165198066",
+    "165198067",
+    "165198068",
+    "165198070",
+    "165198071",
+    "165198072",
+    "165198073",
+    "165198074",
+    "165200675",
+    "165200676",
+    "165200677",
+    "165200678",
+    "165200679",
+    "165200680",
+    "165200681",
+    "165200682",
+    "165200683",
+    "165200684",
+    "165200685",
+    "165200686",
+    "165200687",
+    "165200688",
+    "165200689",
+    "165200690",
+    "165200691",
+    "165200692",
+    "165200693",
+    "165200694",
+    "165200695",
+    "165200696",
+    "165200697",
+    "165200698",
+    "165200699",
+    "165200700",
+    "165200701",
+    "165200702",
+    "165200703",
+    "165200704",
+    "165200705",
+    "165200706",
+    "165200707",
+    "165200708",
+    "165200709",
+    "165200710",
+    "165200711",
+    "165200712",
+    "165200713",
+    "165200714",
+    "165200715",
+    "165200716",
+    "165200717",
+    "165200718",
+    "165200719",
+    "165200720",
+    "165200721",
+    "165200722",
+    "165200723",
+    "165200724",
+    "165200725",
+    "165200726",
+    "165200727",
+    "165200728",
+    "165200729",
+    "165200730",
+    "165200731",
+    "165200732",
+    "165200733",
+    "165200734",
+    "165200735",
+    "165200736",
+    "165200737",
+    "165200738",
+    "165200739",
+    "165200740",
+    "165200741",
+    "165200742"
+   ]
+  }
+ ],
+ "fragments": {
+  "165198061": {
+   "fragment_id": "165200589",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 8/2021/A\n\nSumário: Aprova a orgânica e o quadro de pessoal dirigente, de direção específica e de chefia da Vice-Presidência do Governo Regional.\n\nO Decreto Regulamentar Regional n.º 28/2020/A, de 10 de dezembro, procedeu à estruturação orgânica do XIII Governo Regional dos Açores, comportando a Vice-Presidência do Governo Regional, cujo titular, Vice-Presidente do Governo Regional, exerce as competências elencadas no artigo 8.º daquele diploma.\n\nImporta, neste enquadramento, proceder à aprovação da orgânica e quadro de pessoal dirigente, de direção específica e de chefia da Vice-Presidência do Governo Regional, cumprindo os desígnios patentes no Programa do XIII Governo Regional, com observância pelos princípios da competência, igualdade, transparência, participação, eficácia e eficiência na organização e funcionamento dos seus órgãos e serviços.\n\nAssim, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa e da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:\n\n> Nota: [Artigo 7.º, Decreto Regulamentar Regional n.º 9/2022/A - Diário da República n.º 139/2022, Série I de 2022-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2022-186362062) , que aprova a orgânica e o quadro de pessoal dirigente, de direção específica e de chefia da Vice-Presidência do Governo Regional, revoga as normas constantes do presente Decreto-Lei que colidam com as competências da Vice-Presidência do Governo Regional, em matérias de solidariedade, segurança social, igualdade, inclusão social, habitação e Aerogare Civil das Lajes."
+  },
+  "165198062": {
+   "fragment_id": "165200590",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nSão aprovados a orgânica e o quadro do pessoal dirigente, de direção específica e de chefia da Vice-Presidência do Governo Regional, que constam, respetivamente, dos anexos i e ii do presente diploma, do qual fazem parte integrante."
+  },
+  "165198063": {
+   "fragment_id": "165200591",
+   "type": 11,
+   "heading": "Artigo 2.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transição de pessoal\n\n1 - As alterações na estrutura orgânica da Vice-Presidência do Governo Regional são acompanhadas da subsequente transição do pessoal, independentemente de quaisquer formalidades e sem prejuízo dos direitos consagrados.\n\n2 - A transição do pessoal consta de lista a publicar na Bolsa de Emprego Público dos Açores - BEP-Açores."
+  },
+  "165198064": {
+   "fragment_id": "165200592",
+   "type": 11,
+   "heading": "Artigo 3.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Período experimental\n\nO pessoal que, à data da entrada em vigor do presente diploma, se encontre em regime de período experimental, mantém-se nessa situação até à conclusão do mesmo, devendo, consoante os casos, e se necessário, ser nomeado novo júri ou elementos do júri, o qual faz a respetiva avaliação e classificação final."
+  },
+  "165198065": {
+   "fragment_id": "165200593",
+   "type": 11,
+   "heading": "Artigo 4.º — Concursos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Concursos pendentes\n\nOs concursos pendentes à data da entrada em vigor do presente diploma mantêm-se abertos, sendo os lugares providos nas unidades orgânicas que se sucederem."
+  },
+  "165198066": {
+   "fragment_id": "165200594",
+   "type": 11,
+   "heading": "Artigo 5.º — Transferência de direitos, obrigações e arquivos documentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Transferência de direitos, obrigações e arquivos documentais\n\n1 - Os direitos, obrigações e as respetivas competências dos serviços, objeto do presente diploma, são automaticamente transferidos para os serviços que ora passam a integrar, em razão da matéria, sem dependência de quaisquer formalidades.\n\n2 - São igualmente transferidos para os serviços referidos no número anterior os arquivos e acervos documentais e bases de dados que lhes digam respeito, nomeadamente em razão das competências e pessoal."
+  },
+  "165198067": {
+   "fragment_id": "165200595",
+   "type": 11,
+   "heading": "Artigo 6.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Revogação\n\nPelo presente diploma, são revogados as disposições e os diplomas seguintes:\n\na) O Decreto Regulamentar Regional n.º 4/2020/A, de 30 de janeiro;\n\nb) As normas constantes do Decreto Regulamentar Regional n.º 7/2013/A, de 11 de julho, alterado e republicado pelo Decreto Regulamentar Regional n.º 13/2014/A, de 7 de agosto, que colidam com as competências do Vice-Presidente do Governo Regional em matérias de cooperação com o poder local e assuntos eleitorais, atribuídas pelo presente diploma."
+  },
+  "165198068": {
+   "fragment_id": "165200596",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "165198070": {
+   "fragment_id": "165200598",
+   "type": 14,
+   "heading": "ANEXO I — Orgânica da Vice-Presidência do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I — Orgânica da Vice-Presidência do Governo Regional\n\n(a que se refere o artigo 1.º)"
+  },
+  "165198071": {
+   "fragment_id": "165200599",
+   "type": 1,
+   "heading": "Capítulo I — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Atribuições e competências"
+  },
+  "165198072": {
+   "fragment_id": "165200600",
+   "type": 11,
+   "heading": "Artigo 1.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Atribuições\n\nA Vice-Presidência do Governo Regional, doravante designada por VPGR, é o departamento do Governo Regional que propõe e executa as respetivas políticas nas matérias seguintes:\n\na) Solidariedade e segurança social;\n\nb) Igualdade e inclusão social;\n\nc) Habitação;\n\nd) Cooperação com o poder local;\n\ne) Comunidades, emigração e imigração;\n\nf) Assuntos eleitorais;\n\ng) Aerogare Civil das Lajes."
+  },
+  "165198073": {
+   "fragment_id": "165200601",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências do Vice-Presidente do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências do Vice-Presidente do Governo Regional\n\n1 - Ao Vice-Presidente do Governo Regional compete:\n\na) Representar a VPGR;\n\nb) Dirigir, coordenar e orientar toda a ação da VPGR;\n\nc) Propor, definir e fazer executar as políticas regionais nos setores integrantes das atribuições da VPGR;\n\nd) Promover a articulação funcional dos diversos órgãos e serviços da VPGR, bem como a cooperação, assistência e coordenação com outras entidades, públicas ou privadas, nacionais ou estrangeiras;\n\ne) Dirigir, orientar e coordenar os órgãos e serviços diretamente dependentes da VPGR, bem como superintender e tutelar, no âmbito da administração indireta da Região Autónoma dos Açores, os organismos e entidades que prosseguem atribuições da VPGR;\n\nf) Definir e propor as políticas de organização e funcionamento dos serviços e de gestão de recursos humanos, bem como executar as ações necessárias à sua concretização;\n\ng) Superintender e tutelar as empresas do setor público regional e as sociedades participadas ou a elas equiparadas que exercem a sua atividade no âmbito dos setores integrantes das atribuições da VPGR;\n\nh) Exercer os demais poderes de tutela e superintendência que lhe sejam atribuídos por lei;\n\ni) Exercer as demais competências que lhe sejam cometidas por lei e por outros atos normativos.\n\n2 - O Vice-Presidente do Governo Regional pode, nos termos da lei, delegar as competências que julgar convenientes, com faculdade de subdelegação, no chefe do respetivo Gabinete, nos adjuntos do seu Gabinete, bem como nos responsáveis pelos diversos organismos e serviços integrados na VPGR, ou na sua dependência, designadamente a competência para a prática de atos correntes de administração ordinária ou outros que entenda por convenientes, com fundamento no princípio da boa administração.\n\n3 - O Vice-Presidente do Governo Regional pode, igualmente, avocar as competências dos responsáveis pelos serviços da VPGR, nos termos da lei."
+  },
+  "165198074": {
+   "fragment_id": "165200602",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "165200675": {
+   "fragment_id": "165200603",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura\n\n1 - Na dependência do Vice-Presidente do Governo Regional funcionam os serviços seguintes:\n\na) Consultivos:\n\ni) Conselho Regional de Segurança Social dos Açores, criado pelo Decreto Regulamentar Regional n.º 4/91/A, de 25 de fevereiro;\n\nii) Conselho Consultivo Regional para os Assuntos da Imigração, criado pelo Decreto Regulamentar Regional n.º 30/2002/A, de 22 de novembro, na sua redação em vigor;\n\niii) O Conselho da Diáspora Açoriana, criado pelo Decreto Legislativo Regional n.º 18/2019/A, de 5 de agosto;\n\nb) Executivos centrais:\n\ni) Divisão Administrativa, Financeira e Patrimonial;\n\nii) Núcleo de Planeamento, Estatística e Documentação;\n\niii) Direção Regional da Solidariedade Social;\n\niv) Direção Regional para a Promoção da Igualdade e Inclusão Social;\n\nv) Direção Regional da Habitação;\n\nvi) Direção Regional da Cooperação com o Poder Local;\n\nvii) Direção Regional das Comunidades;\n\nc) Executivos periféricos:\n\ni) Serviço de Ilha do Corvo;\n\nii) Serviço de Ilha das Flores;\n\niii) Serviço de Ilha do Faial;\n\niv) Serviço de Ilha do Pico;\n\nv) Serviço de Ilha de São Jorge;\n\nvi) Serviço de Ilha da Graciosa;\n\nvii) Serviço de Ilha de Santa Maria.\n\n2 - Na dependência hierárquica direta do Vice-Presidente do Governo Regional funcionam a Divisão Administrativa, Financeira e Patrimonial, o Núcleo de Planeamento, Estatística e Documentação e os Serviços de Ilha referidos na alínea c) do número anterior.\n\n3 - O Vice-Presidente do Governo Regional superintende e tutela o Instituto da Segurança Social dos Açores, IPRA, doravante designado por ISSA, IPRA, criado pelo Decreto Legislativo Regional n.º 14/2013/A, de 3 de outubro.\n\n4 - Na dependência hierárquica direta do Vice-Presidente do Governo Regional funciona, ainda, a Aerogare Civil das Lajes, cuja estrutura orgânica e quadro de pessoal dirigente e de direção específica foram aprovados pelo Decreto Regulamentar Regional n.º 2/2021/A, de 19 de fevereiro.\n\n5 - Podem ser criados grupos de trabalho e equipas de projetos, nos termos da legislação aplicável, sempre que a natureza dos objetivos a alcançar o aconselhe e o Vice-Presidente do Governo Regional o julgue necessário."
+  },
+  "165200676": {
+   "fragment_id": "165200604",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos, serviços e suas competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos, serviços e suas competências"
+  },
+  "165200677": {
+   "fragment_id": "165200605",
+   "type": 8,
+   "heading": "Secção I — Serviços executivos centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços executivos centrais"
+  },
+  "165200678": {
+   "fragment_id": "165200606",
+   "type": 3,
+   "heading": "Subsecção I — Divisão Administrativa, Financeira e Patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Divisão Administrativa, Financeira e Patrimonial"
+  },
+  "165200679": {
+   "fragment_id": "165200607",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Natureza e missão\n\n1 - A Divisão Administrativa, Financeira e Patrimonial, doravante designada por DAFP, é o serviço da VPGR com competências em matéria administrativa, financeira e patrimonial.\n\n2 - A DAFP tem por missão apoiar e executar as atividades administrativas respeitantes aos órgãos e serviços executivos centrais da VPGR e ao Gabinete do Vice-Presidente do Governo Regional.\n\n3 - A DAFP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "165200680": {
+   "fragment_id": "165200608",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências\n\n1 - À DAFP compete:\n\na) Organizar e assegurar a elaboração das propostas de plano de investimentos e de orçamento e de outros instrumentos de planificação financeira, orçamental e patrimonial, de acordo com as propostas apresentadas pelas direções regionais e demais serviços dependentes, bem como controlar e acompanhar a respetiva execução;\n\nb) Promover, em colaboração com os restantes órgãos e serviços da VPGR, a definição das principais opções em matéria orçamental, assegurando a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas, nomeadamente quanto aos planos anuais de investimento, as orientações de médio prazo e orçamentos de funcionamento;\n\nc) Assegurar a execução dos orçamentos sob a sua responsabilidade, garantindo todos os procedimentos técnicos, administrativos e contabilísticos, de acordo com princípios de boa gestão e com as disposições legais aplicáveis;\n\nd) Instruir os processos relativos a despesas resultantes dos orçamentos sob a sua responsabilidade e informar quanto à sua legalidade e cabimento, bem como efetuar processamentos, liquidações e pagamentos;\n\ne) Proceder à análise permanente da evolução da execução dos orçamentos da VPGR, prestando informações periódicas que permitam o seu controlo, fixando, nomeadamente, as regras de reporte e o respetivo procedimento;\n\nf) Elaborar projetos de diplomas legais e regulamentares, bem como de atos normativos e administrativos que devam ser praticados pelo Vice-Presidente do Governo Regional ou pelos membros do seu Gabinete, e de protocolos ou acordos em que a Região seja parte, através da VPGR;\n\ng) Apreciar e harmonizar os projetos de diplomas que lhe sejam submetidos para parecer;\n\nh) Participar na preparação, elaboração, análise e, ou, divulgação de projetos e propostas de orientações internas, circulares e demais determinações ou normas de caráter genérico a observar pelos serviços e organismos da VPGR;\n\ni) Prestar apoio nos recursos e demais processos graciosos e contenciosos onde intervenha a VPGR, acompanhando a respetiva tramitação ou mesmo representando-a, quando tal lhe seja superiormente determinado;\n\nj) Intervir, quando tal lhe seja superiormente determinado, em quaisquer processos de foro disciplinar, nomeadamente sindicâncias, inquéritos ou processos disciplinares, e emitir parecer que habilite a decisão no âmbito dos respetivos procedimentos;\n\nk) Acompanhar, colaborar e tramitar os procedimentos de contratação pública e a celebração dos contratos inerentes quando tal seja superiormente determinado;\n\nl) Proceder a estudos de adequação das estruturas orgânicas dos serviços aos objetivos e missões fixadas e emitir pareceres em matéria de estruturas e modelos organizacionais a adotar, bem como aplicar medidas de aperfeiçoamento organizacional e de modernização administrativa, em colaboração com o Núcleo de Planeamento, Estatística e Documentação;\n\nm) Promover a aplicação das medidas legislativas e de política de recursos humanos definidas para a administração regional, coordenando e apoiando a respetiva implementação;\n\nn) Elaborar o plano de gestão previsional de pessoal;\n\no) Identificar as necessidades de formação e aperfeiçoamento profissionais e elaborar o programa anual de formação da VPGR, bem como organizar e coordenar as formações aprovadas, numa perspetiva integrada, com vista ao enquadramento e desenvolvimento dos recursos humanos;\n\np) Promover, coordenar e acompanhar a realização e execução dos planos anuais de atividades da VPGR e a elaboração dos respetivos relatórios de atividades;\n\nq) Promover, colaborar e acompanhar a implementação, execução e desenvolvimento de sistemas nas áreas da qualidade e da avaliação de desempenho no âmbito da VPGR;\n\nr) Certificar os atos que integram processos existentes na DAFP e exercer as funções notariais previstas na lei;\n\ns) Prestar apoio na área da informática e telecomunicações a todos os serviços dependentes da VPGR;\n\nt) Assegurar a gestão e segurança dos recursos materiais, patrimoniais e logísticos, incluindo o acesso aos edifícios e instalações;\n\nu) Coordenar os trabalhos de conservação e reparação dos imóveis onde estão instalados os órgãos e serviços dependentes da VPGR;\n\nv) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DAFP integra os serviços seguintes:\n\na) A Secção de Contabilidade, Pessoal e Expediente;\n\nb) O Serviço de Informática e Telecomunicações."
+  },
+  "165200681": {
+   "fragment_id": "165200609",
+   "type": 11,
+   "heading": "Artigo 6.º — Secção de Contabilidade, Pessoal e Expediente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Secção de Contabilidade, Pessoal e Expediente\n\n1 - À Secção de Contabilidade, Pessoal e Expediente, doravante designada por SCPE, compete:\n\na) Prestar apoio na elaboração da proposta de orçamento do Gabinete do Vice-Presidente do Governo Regional;\n\nb) Assegurar o processamento das remunerações e outros abonos do pessoal, bem como organizar e instruir os processos relativos às prestações sociais;\n\nc) Efetuar os procedimentos necessários à aquisição de bens e serviços e encargos diversos, efetuados por conta dos orçamentos dos serviços e processar as respetivas despesas;\n\nd) Controlar as contas correntes relativas a fornecedores e quaisquer outras entidades;\n\ne) Assegurar as operações contabilísticas;\n\nf) Propor alterações orçamentais e transferências de verbas, de acordo com a execução efetuada e a evolução verificada nas despesas;\n\ng) Assegurar os procedimentos relativos à seleção, recrutamento, provimento, acolhimento, promoção, progressão, mobilidade, exoneração e aposentação de pessoal, entre outros;\n\nh) Organizar e manter atualizada a informação relativa aos recursos humanos da VPGR, nomeadamente o respetivo balanço social, cadastro e registo biográfico do pessoal;\n\ni) Assegurar todos os procedimentos administrativos relativos a assuntos de expediente geral e gestão corrente nas áreas de apoio logístico;\n\nj) Proceder ao controlo de assiduidade e pontualidade do pessoal e zelar pelo cumprimento da legislação em matéria de férias, faltas e licenças;\n\nk) Receber, registar, classificar, distribuir e assegurar a expedição da correspondência;\n\nl) Organizar e manter atualizado o arquivo, tendo em vista a boa conservação e a fácil consulta dos documentos;\n\nm) Emitir certidões;\n\nn) Zelar pela manutenção, conservação, limpeza e segurança do património afeto aos órgãos e serviços dependentes da VPGR, bem como uma adequada distribuição dos bens consumíveis e bens de equipamento pelos utilizadores;\n\no) Gerir o parque automóvel;\n\np) Organizar e manter atualizado o cadastro dos bens móveis e imóveis;\n\nq) Assegurar a abertura e o encerramento das instalações;\n\nr) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A SCPE é coordenada por um coordenador técnico, da carreira de assistente técnico."
+  },
+  "165200682": {
+   "fragment_id": "165200610",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviço de Informática e Telecomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviço de Informática e Telecomunicações\n\n1 - Ao Serviço de Informática e Telecomunicações, doravante designado por SIT, compete:\n\na) Estudar, administrar e gerir sistemas, realizar projetos de informática, garantir a manutenção das aplicações em exploração e colaborar com os órgãos e serviços da VPGR nas tarefas de processamento de dados;\n\nb) Propor a aquisição de equipamentos e sistemas, tendo em conta a evolução das tecnologias e as necessidades dos serviços, bem como promover a correta manutenção, atualização e utilização do material existente;\n\nc) Prestar apoio técnico ao Vice-Presidente do Governo Regional, ao respetivo Gabinete e serviços que estejam na sua direta dependência em matéria de informática e telecomunicações;\n\nd) Coordenar os serviços de informática e telecomunicações da VPGR e os seus serviços dependentes, em articulação com as políticas globais seguidas pela administração regional;\n\ne) Implementar e dinamizar a utilização de aplicações e inovações tecnológicas;\n\nf) Assegurar o correto funcionamento e a manutenção dos sistemas e equipamentos informáticos e a gestão das redes de comunicações;\n\ng) Apoiar tecnicamente os utilizadores do sistema informático e propor a definição de normas de utilização do mesmo e demais meios informáticos;\n\nh) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O SIT funciona na dependência hierárquica direta do chefe de divisão da DAFP."
+  },
+  "165200683": {
+   "fragment_id": "165200611",
+   "type": 3,
+   "heading": "Subsecção II — Núcleo de Planeamento, Estatística e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Núcleo de Planeamento, Estatística e Documentação"
+  },
+  "165200684": {
+   "fragment_id": "165200612",
+   "type": 11,
+   "heading": "Artigo 8.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Natureza e missão\n\n1 - O Núcleo de Planeamento, Estatística e Documentação, doravante designado por NPED, é o serviço da VPGR com competências em matéria de planeamento, estatística e documentação.\n\n2 - O NPED tem por missão, nas matérias da sua competência, apoiar e executar as atividades de estudo, planeamento e organização respeitantes aos órgãos e serviços executivos centrais da VPGR e ao Gabinete do Vice-Presidente do Governo Regional.\n\n3 - O NPED é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do Vice-Presidente do Governo Regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "165200685": {
+   "fragment_id": "165200613",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências\n\nAo NPED compete:\n\na) Assessorar o Vice-Presidente do Governo Regional e o respetivo Gabinete, fornecendo as análises, informações e elementos necessários à definição, coordenação e execução da atividade da VPGR;\n\nb) Estudar e propor a operacionalização das medidas decorrentes da integração europeia nas matérias de competência da VPGR, mantendo um registo dos assuntos pertinentes;\n\nc) Estudar, desenvolver e proceder à aplicação de uma estrutura de indicadores de gestão, tendo em vista o planeamento, a condução e a avaliação das políticas, em articulação com todos os órgãos e serviços da VPGR;\n\nd) Promover a recolha de indicadores de gestão, bem como o seu tratamento, análise e divulgação;\n\ne) Proceder à necessária articulação com os serviços dependentes da VPGR e outros serviços na recolha de dados estatísticos relevantes;\n\nf) Manter os contactos necessários e executar processos de troca de informação com organismos regionais, nacionais e internacionais de estatística;\n\ng) Assegurar e organizar um banco de dados estatísticos para a VPGR;\n\nh) Elaborar, com periodicidade anual e semestral, um boletim estatístico da VPGR, a disponibilizar no Portal do Governo Regional;\n\ni) Elaborar, em articulação com os serviços da VPGR, pareceres, memorandos e informações;\n\nj) Assegurar, em articulação com os diversos serviços da VPGR, a recolha de informação para elaboração de documentos para a organização de eventos oficiais;\n\nk) Proceder à consulta diária, triagem e difusão da legislação nacional e regional, de legislação das áreas de competência da VPGR e de matérias correlacionadas;\n\nl) Estruturar, manter e disponibilizar a informação na intranet da VPGR;\n\nm) Selecionar, tratar e divulgar as informações veiculadas pelos órgãos de comunicação social relativas às competências do setor da VPGR;\n\nn) Promover e assegurar a atualização de uma base de dados, organizada por temas, sobre notícias veiculadas pelos órgãos de comunicação social com interesse para os setores da VPGR, facultando a sua exportação para ficheiro em Excel, a fim de facilitar a sua consulta e divulgação junto dos serviços executivos centrais da VPGR;\n\no) Proceder à recolha dos planos e relatórios de atividades dos serviços da VPGR;\n\np) Avaliar a execução dos programas, projetos e restantes medidas políticas da VPGR, com vista à elaboração e difusão dos correspondentes resultados;\n\nq) Promover a constituição e a atualização da informação, com a utilização de suporte tecnológico, que permita a disponibilização da informação relevante da VPGR no Portal do Governo Regional;\n\nr) Promover, coordenar e acompanhar a aplicação de medidas de aperfeiçoamento organizacional e de modernização administrativa no âmbito da VPGR, em colaboração com a DAFP;\n\ns) Promover a uniformização de critérios de organização, gestão e classificação da documentação dos diversos serviços da VPGR;\n\nt) Estudar e propor a implementação de técnicas de simplificação, modernização e racionalização dos circuitos e procedimentos administrativos da VPGR;\n\nu) Organizar e manter atualizado um centro de documentação e apoio aos serviços dependentes da VPGR;\n\nv) Proceder à divulgação de circulares, instruções e, ou, outras normas de caráter genérico destinadas aos serviços dependentes da VPGR;\n\nw) Prestar apoio a todos os serviços da VPGR, no âmbito das suas competências;\n\nx) Promover a edição de publicações de interesse nas matérias de atuação da VPGR;\n\ny) Prestar apoio na elaboração de comunicados e notas de imprensa dos serviços dependentes da VPGR;\n\nz) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade."
+  },
+  "165200686": {
+   "fragment_id": "165200614",
+   "type": 3,
+   "heading": "Subsecção III — Direção Regional da Solidariedade Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Direção Regional da Solidariedade Social"
+  },
+  "165200687": {
+   "fragment_id": "165200615",
+   "type": 11,
+   "heading": "Artigo 10.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Natureza e missão\n\n1 - A Direção Regional da Solidariedade Social, doravante designada por DRSS, é o serviço executivo da VPGR com competências em matéria de solidariedade social.\n\n2 - A DRSS tem por missão, nas matérias da sua competência, estudar, propor, executar, coordenar, acompanhar, avaliar e fiscalizar a aplicação das políticas do Governo Regional, com o objetivo de reforçar os equipamentos sociais, serviços, projetos e a capacidade de resposta do setor social.\n\n3 - A DRSS é dirigida por um diretor regional, cargo de direção superior de 1.º grau."
+  },
+  "165200688": {
+   "fragment_id": "165200616",
+   "type": 11,
+   "heading": "Artigo 11.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competências\n\n1 - À DRSS compete:\n\na) Coadjuvar e apoiar o Vice-Presidente do Governo Regional na definição e estruturação das políticas, prioridades e objetivos da VPGR em matéria de solidariedade social e equipamentos sociais;\n\nb) Apoiar na definição das principais opções em matéria orçamental e assegurar a articulação entre os diversos instrumentos de planeamento e de previsão orçamental, em colaboração com outros organismos do setor na Região, sem prejuízo das atribuições destes;\n\nc) Promover, acompanhar e avaliar a execução das políticas, medidas e programas da VPGR em matéria de solidariedade social e equipamentos sociais;\n\nd) Elaborar, difundir e apoiar na criação de instrumentos de planeamento estratégico, operacional e de avaliação das políticas e programas da VPGR, em matéria de solidariedade social e equipamentos sociais;\n\ne) Garantir a produção de informação adequada, designadamente estatística, em matéria de solidariedade social e equipamentos sociais;\n\nf) Propor e elaborar projetos e propostas de diplomas legais e, ou, regulamentares em matéria de solidariedade social e equipamentos sociais, bem como emitir parecer em iniciativas legislativas e, ou, regulamentares sobre aquelas;\n\ng) Assegurar a execução e avaliação do plano de investimento e demais orçamentos sob a sua responsabilidade;\n\nh) Fiscalizar o funcionamento das entidades que intervenham em matéria de serviços e equipamentos sociais, bem como promover a melhoria da respetiva qualidade, eficácia e eficiência, nomeadamente através da realização de ações de auditoria;\n\ni) Propor regras de articulação com as instituições particulares de solidariedade social, misericórdias e demais entidades que intervenham em matéria de serviços e equipamentos sociais;\n\nj) Assegurar, após instrução do processo pelo ISSA, IPRA, o registo das instituições particulares de solidariedade social e instituições equiparadas;\n\nk) Assegurar a articulação com entidades que prossigam objetivos comuns, garantindo a concretização dos mesmos, através da celebração de protocolos ou outras formas de cooperação;\n\nl) Propor, executar e apoiar iniciativas que promovam o cumprimento efetivo e integral das normas vigentes em matéria de solidariedade social e equipamentos sociais;\n\nm) Propor normas reguladoras que concorram para a qualificação dos serviços e equipamentos sociais e para a melhoria das condições de acesso pelos indivíduos e famílias;\n\nn) Elaborar, coordenar e promover a execução de estudos e documentos de planeamento em matéria de solidariedade social e equipamentos sociais;\n\no) Cooperar com organizações de âmbito nacional, internacional, comunitário e demais organismos congéneres estrangeiros em matéria de solidariedade social e promover a sua implementação a nível regional;\n\np) Prestar assistência técnica a iniciativas em matéria de solidariedade social e equipamentos sociais promovidas por outras entidades públicas ou privadas;\n\nq) Exercer as demais competências que lhe sejam cometidas por lei e por outros atos normativos.\n\n2 - Para a prossecução das competências genericamente referidas no número anterior, e quando o caráter multidisciplinar das atividades a desenvolver o justifique, podem ser criados grupos de trabalho constituídos por trabalhadores afetos à DRSS.\n\n3 - O diretor regional a que se refere o n.º 3 do artigo anterior pode, nos termos da legislação aplicável, delegar competências nos dirigentes da DRSS."
+  },
+  "165200689": {
+   "fragment_id": "165200617",
+   "type": 11,
+   "heading": "Artigo 12.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estrutura\n\nA DRSS integra a Direção de Serviços Jurídicos, Financeiros e Equipamentos."
+  },
+  "165200690": {
+   "fragment_id": "165200618",
+   "type": 11,
+   "heading": "Artigo 13.º — Direção de Serviços Jurídicos, Financeiros e Equipamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direção de Serviços Jurídicos, Financeiros e Equipamentos\n\n1 - À Direção de Serviços Jurídicos, Financeiros e Equipamentos, doravante designada por DSJFE, compete:\n\na) Exercer funções de consultadoria jurídica em matéria de solidariedade social e equipamentos sociais, bem como prestar apoio jurídico às instituições particulares de solidariedade social, instituições equiparadas e demais entidades que atuem no setor social;\n\nb) Elaborar todos os projetos e propostas de diplomas legais e, ou, regulamentares em matéria de solidariedade social e equipamentos sociais, e dar parecer jurídico sobre estes;\n\nc) Prosseguir as medidas necessárias à execução das políticas sociais regionais e, quando necessário, elaborar propostas de diplomas legais e, ou, regulamentares para o efeito;\n\nd) Participar na proposição, desenvolvimento, publicitação e gestão dos procedimentos de contratação pública da DRSS, bem como na celebração, acompanhamento e controlo dos contratos decorrentes dos mesmos;\n\ne) Apoiar as instituições particulares de solidariedade social no âmbito da elaboração de procedimentos sujeitos ao regime de contratação pública, nos projetos financiados pelos fundos comunitários;\n\nf) Exercer a ação fiscalizadora das instituições particulares de solidariedade social, instituições equiparadas e demais entidades, públicas ou privadas, que atuem no setor social, e auditar, com a colaboração dos demais serviços da DRSS, as atividades, serviços e equipamentos daquelas entidades;\n\ng) Instruir, do ponto de vista da legalidade, para habilitar o despacho superior, os processos respeitantes aos trabalhadores da DRSS em matéria de recursos humanos;\n\nh) Coordenar a aplicação da avaliação do desempenho dos trabalhadores e dirigentes da DRSS;\n\ni) Proceder à recolha de informação na DRSS para a elaboração do Plano e Relatório de Atividades da DRSS e acompanhar a execução dos mesmos;\n\nj) Propor e apoiar a adoção de novas metodologias de gestão, planeamento e avaliação para o conjunto das atividades desenvolvidas pelos serviços da DRSS;\n\nk) Propor e colaborar, na definição de circuitos e meios a adotar pelos serviços da DRSS, na articulação e relacionamento com as instituições particulares de solidariedade social e outras entidades externas;\n\nl) Divulgar documentos informativos da atividade da DRSS e das demais entidades e instituições que atuem no setor social;\n\nm) Acompanhar a implementação de medidas orientadas para o reforço da eficácia e modernização;\n\nn) Coordenar o plano de formação da DRSS;\n\no) Coordenar e assegurar o tratamento administrativo dos assuntos relacionados com o funcionamento da DRSS, incluindo o expediente geral e a divulgação de normas internas e diretivas gerais;\n\np) Elaborar a proposta do plano de investimentos e dos orçamentos de despesas de funcionamento da DRSS, bem como acompanhar e avaliar a sua execução e propor eventuais reajustamentos;\n\nq) Elaborar o plano de gestão de riscos de corrupção e infrações conexas, bem como o relatório de execução do mesmo;\n\nr) Apoiar as instituições particulares de solidariedade social na elaboração de candidaturas a fundos comunitários;\n\ns) Controlar e acompanhar a execução financeira dos projetos aprovados por fundos comunitários e elaborar os respetivos instrumentos de controlo;\n\nt) Assegurar a articulação e interlocução com a autoridade de gestão responsável pelos fundos comunitários;\n\nu) Elaborar informação sobre os apoios financeiros, tendo por base os pedidos de candidaturas a contratos de cooperação-valor eventual e contratos de cooperação-valor investimento, das instituições particulares de solidariedade social;\n\nv) Promover a inovação e qualidade na DRSS;\n\nw) Propor a elaboração de novos programas de apoio às iniciativas em matéria de solidariedade social, bem como a regulamentação que se afigure necessária à sua boa execução;\n\nx) Promover a divulgação e promoção regional de programas de apoio de âmbito nacional, bem como proceder à sua execução e desenvolver as ações necessárias à respetiva dinamização;\n\ny) Proceder à análise e tratamento de informação estatística do setor social;\n\nz) Elaborar pareceres, informações e análise estatística em matéria de solidariedade social;\n\naa) Elaborar e participar na elaboração de estudos relacionados com a problemática social, tendo em vista aumentar a eficácia, eficiência e qualidade da intervenção social;\n\nbb) Produzir indicadores de cobertura e de utilização dos equipamentos sociais, identificando necessidades e propondo estratégias de investimento;\n\ncc) Elaborar, anualmente, a carta social;\n\ndd) Organizar um banco de dados estatísticos em matéria de solidariedade social, tendo por base o resultado do exercício das competências previstas nas alíneas x) a bb) anteriores;\n\nee) Manter atualizado um registo de necessidades de investimentos em estruturas e equipamentos de respostas sociais;\n\nff) Instruir os processos relativos a pedidos de financiamento para projetos, equipamentos e estruturas;\n\ngg) Emitir parecer, nos termos da legislação e regulamentação em vigor, sobre os projetos de construção, remodelação e ampliação dos equipamentos sociais comparticipados pela solidariedade e segurança social, nomeadamente no que se refere à respetiva localização, características e dimensionamento, em colaboração com as outras instituições do setor;\n\nhh) Emitir parecer técnico sobre o estudo prévio ou fase posterior do projeto apresentado pelas entidades proponentes ou promotoras de investimentos;\n\nii) Emitir parecer sobre os projetos de arquitetura e demais questões relativas à infraestrutura e trabalhos a realizar, para verificação das questões legalmente impostas à celebração de contratos de comparticipação financeira;\n\njj) Apoiar e, ou, cooperar com outras entidades públicas ou privadas que, a título permanente ou eventual, se proponham a contribuir na rede de equipamentos sociais;\n\nkk) Elaborar e manter atualizado um inventário das instalações dos serviços, das instituições particulares de solidariedade social, das Casas do Povo e de outros organismos ligados ao setor, que sejam património da Região Autónoma do Açores;\n\nll) Proceder ao acompanhamento técnico, à avaliação do desenvolvimento e à elaboração de relatórios intercalares sobre os projetos de investimento aprovados;\n\nmm) Emitir parecer sobre pedidos de reprogramação de natureza física de projetos aprovados;\n\nnn) Emitir parecer sobre pedidos de licenciamento de utilização e de funcionamento de equipamentos sociais, no que se refere a instalações e equipamentos;\n\noo) Proceder ao acompanhamento permanente das condições técnicas de instalação dos serviços e equipamentos de apoio social, prestando apoio técnico às instituições privadas sem fins lucrativos que desenvolvam atividades de apoio social, no âmbito dos licenciamentos necessários à utilização e funcionamento das respetivas respostas sociais, em cooperação e articulação com os organismos ou serviços da administração regional e local, com competência na matéria;\n\npp) Fiscalizar as obras de equipamentos sociais;\n\nqq) Elaborar os cadernos de encargos relativos aos procedimentos de contratação pública de empreitada de obras públicas e de aquisição de equipamentos e serviços, desenvolvidos no âmbito da DRSS;\n\nrr) Elaborar estudos no domínio da análise dos custos de construção e apetrechamento dos equipamentos sociais;\n\nss) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DSJFE é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - Por despacho do diretor regional competente em matéria de solidariedade social, pode ser designado, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional, um técnico superior, com vínculo de emprego público por tempo indeterminado, para o exercício de funções de coordenação em matéria de equipamentos, no âmbito das competências previstas nas alíneas ee) a rr) do n.º 1.\n\n4 - A DSJFE integra os serviços seguintes:\n\na) A Divisão de Assuntos Jurídicos e Auditoria;\n\nb) A Divisão de Gestão Financeira."
+  },
+  "165200691": {
+   "fragment_id": "165200619",
+   "type": 11,
+   "heading": "Artigo 14.º — Divisão de Assuntos Jurídicos e Auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Divisão de Assuntos Jurídicos e Auditoria\n\n1 - À Divisão de Assuntos Jurídicos e Auditoria, doravante designada por DAJA, compete:\n\na) Assegurar a prestação de consultadoria e apoio jurídico ao diretor regional e demais serviços da DRSS;\n\nb) Analisar, interpretar e apoiar a uniformização da aplicação de legislação em matéria de solidariedade social;\n\nc) Coordenar e participar na preparação e elaboração de diplomas legais e regulamentares em matéria de solidariedade social e equipamentos sociais, bem como dar parecer jurídico sobre estes;\n\nd) Colaborar com os demais serviços da DRSS na proposição, desenvolvimento, publicitação e gestão dos procedimentos de contratação pública, bem como na celebração, acompanhamento e controlo dos contratos decorrentes daqueles;\n\ne) Elaborar, analisar e acompanhar a celebração de contratos, protocolos e acordos interinstitucionais;\n\nf) Intervir em sindicâncias, inquéritos, averiguações, fiscalização e auditorias, nos termos superiormente determinados;\n\ng) Fiscalizar e acompanhar o cumprimento dos acordos e protocolos, nomeadamente de cooperação, que tenham financiamentos em matéria de solidariedade e segurança social;\n\nh) Assegurar o apoio jurídico à prossecução descentralizada das competências da DRSS;\n\ni) Efetuar a análise formal dos processos de registo das instituições particulares de solidariedade social, bem como das instituições legalmente equiparadas, e proceder à efetivação dos respetivos registos nos termos da legislação aplicável;\n\nj) Prestar apoio às instituições particulares de solidariedade social no âmbito da elaboração de procedimentos sujeitos ao regime de contratação pública, nos projetos financiados pelos fundos comunitários;\n\nk) Exercer a ação fiscalizadora das instituições particulares de solidariedade social, instituições equiparadas e demais entidades, públicas ou privadas, que exerçam atividades de apoio social;\n\nl) Auditar, com a colaboração dos demais serviços da DRSS, nomeadamente do ponto de vista jurídico, financeiro, social e da qualidade, as atividades, serviços e equipamentos das instituições particulares de solidariedade social, instituições equiparadas e demais entidades, nomeadamente com fins lucrativos, ainda que não beneficiem de financiamentos do setor da solidariedade e segurança social, e propor as medidas necessárias ao saneamento das irregularidades detetadas;\n\nm) Realizar ações de auditoria aos serviços e organismos integrantes ou dependentes da VPGR, sempre que solicitado pelo Vice-Presidente do Governo Regional, com o objetivo de melhorar a sua eficácia, eficiência, economia e qualidade;\n\nn) Proceder à recolha, análise e tratamento das reclamações efetuadas pelos utentes da DRSS;\n\no) Definir ações internas de melhoria, contribuindo para o aperfeiçoamento contínuo das atividades da DRSS;\n\np) Proceder à instrução dos processos relativos à aplicação do direito de mera ordenação social cuja competência esteja legalmente atribuída à DRSS;\n\nq) Propor a celebração de protocolos e contratos com entidades formadoras;\n\nr) Elaborar o plano de formação da DRSS, com base em prévio diagnóstico das necessidades, e proceder à avaliação dos resultados através da elaboração do relatório de formação da DRSS;\n\ns) Instruir, do ponto de vista da legalidade, para habilitar o despacho superior, os processos respeitantes aos trabalhadores da DRSS em matéria de recursos humanos;\n\nt) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DAJA é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "165200692": {
+   "fragment_id": "165200620",
+   "type": 11,
+   "heading": "Artigo 15.º — Divisão de Gestão Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Divisão de Gestão Financeira\n\n1 - À Divisão de Gestão Financeira, doravante designada por DGF, compete:\n\na) Elaborar pareceres, informações e estudos técnicos;\n\nb) Criar sistemas de controlo interno na área financeira da DRSS;\n\nc) Elaborar candidaturas da DRSS a fundos comunitários e respetivos pedidos de reembolso;\n\nd) Apoiar as instituições particulares de solidariedade social nos projetos candidatados, acompanhando a execução financeira dos projetos aprovados a fundos comunitários e elaborar instrumentos de controlo;\n\ne) Instruir os processos relativos a pedidos de financiamento e manter atualizado um registo de necessidades desses pedidos;\n\nf) Apreciar, ao nível da vertente social e financeira, os projetos de construção, remodelação e ampliação dos equipamentos sociais e emitir os necessários pareceres técnicos, nos termos da legislação e regulamentação em vigor;\n\ng) Manter atualizados os mapas referentes à execução financeira do plano de investimentos;\n\nh) Assegurar e monitorizar a execução dos orçamentos de despesas de funcionamento da DRSS;\n\ni) Colaborar na elaboração da proposta de plano de investimentos e de orçamento de funcionamento da DRSS;\n\nj) Assegurar a aquisição de bens e serviços respeitantes ao funcionamento da DRSS;\n\nk) Elaborar os mapas dos fundos disponíveis e pagamentos em atraso, assim como proceder às solicitações do Sistema Central de Contabilidade e Contas Públicas;\n\nl) Preparar os documentos necessários para a elaboração da Conta de Gerência da DRSS;\n\nm) Informar e preparar, ao nível financeiro, os processos referentes aos apoios ao investimento;\n\nn) Instruir, elaborar e acompanhar a execução financeira dos acordos, protocolos e contratos de cooperação, no âmbito do financiamento dos orçamentos da Região Autónoma dos Açores e da Segurança Social dos Açores;\n\no) Proceder à verificação da legalidade das contas do exercício das instituições particulares de solidariedade social e das instituições legalmente equiparadas, sempre que tal competência seja delegada na DRSS;\n\np) Elaborar, difundir e apoiar a criação de instrumentos de planeamento e de programação financeira do setor;\n\nq) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DGF é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "165200693": {
+   "fragment_id": "165200621",
+   "type": 3,
+   "heading": "Subsecção IV — Direção Regional para a Promoção da Igualdade e Inclusão Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Direção Regional para a Promoção da Igualdade e Inclusão Social"
+  },
+  "165200694": {
+   "fragment_id": "165200622",
+   "type": 11,
+   "heading": "Artigo 16.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Natureza e missão\n\n1 - A Direção Regional para a Promoção da Igualdade e Inclusão Social, doravante designada por DRPIIS, é o serviço executivo da VPGR com competências em matéria de igualdade e inclusão social.\n\n2 - A DRPIIS tem por missão, nas matérias da sua competência, estudar, propor, executar, coordenar, acompanhar, avaliar e fiscalizar a aplicação das políticas do Governo Regional, com o objetivo de promover a prevenção e o combate à violência doméstica e de género, a prevenção e o combate ao abuso sexual de crianças e jovens, a inclusão da pessoa com deficiência, o voluntariado, o apoio aos idosos e cuidadores e o combate à pobreza.\n\n3 - A DRPIIS é dirigida por um diretor regional, cargo de direção superior de 1.º grau."
+  },
+  "165200695": {
+   "fragment_id": "165200623",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências\n\n1 - À DRPIIS compete:\n\na) Coadjuvar e apoiar o Vice-Presidente do Governo Regional na definição e estruturação das políticas, prioridades e objetivos da VPGR em matéria de promoção da igualdade e inclusão social;\n\nb) Apoiar a definição das principais opções em matéria orçamental, assegurar a articulação entre os instrumentos de planeamento, de previsão orçamental, em articulação com outros organismos do setor na Região, sem prejuízo das atribuições destes;\n\nc) Promover, acompanhar e avaliar a execução das políticas, medidas e programas da VPGR em matéria de promoção da igualdade e inclusão social;\n\nd) Elaborar, difundir e apoiar a criação de instrumentos de planeamento estratégico e operacional e de avaliação das políticas e programas da VPGR em matéria de promoção da igualdade e inclusão social;\n\ne) Garantir a produção de informação adequada, designadamente estatística, em matéria de promoção da igualdade e inclusão social;\n\nf) Propor e elaborar projetos e propostas de diplomas legais e, ou, regulamentares nas áreas da igualdade e inclusão social, bem como emitir parecer em iniciativas legislativas e, ou, regulamentares sobre estas matérias;\n\ng) Assegurar a execução e avaliação do plano de investimento e demais orçamentos sob a sua responsabilidade;\n\nh) Fiscalizar o funcionamento das entidades que intervenham nas áreas dos serviços e equipamentos sociais com intervenção em matéria de promoção da igualdade e inclusão social, bem como promover a melhoria da respetiva qualidade, eficácia e eficiência;\n\ni) Propor regras de articulação com as entidades que intervenham em matéria de promoção da igualdade e inclusão social;\n\nj) Assegurar o registo das organizações não governamentais das pessoas com deficiência;\n\nk) Assegurar a articulação com outras entidades que prossigam objetivos comuns, garantindo a concretização dos mesmos, através da celebração de protocolos ou outras formas de cooperação;\n\nl) Apoiar o desenvolvimento das ações indispensáveis à promoção, coordenação e qualificação do voluntariado;\n\nm) Propor, executar e apoiar iniciativas que promovam o cumprimento efetivo e integral das normas vigentes, nos domínios da promoção da igualdade e inclusão social;\n\nn) Elaborar, coordenar e promover a execução de estudos e documentos de planeamento na área da promoção da igualdade e inclusão social, voluntariado, prevenção no combate à violência, bem como no âmbito da estratégia de combate à pobreza;\n\no) Contribuir para a elaboração de diretrizes de política regional de prevenção, habilitação, reabilitação e participação das pessoas com deficiência ou incapacidade;\n\np) Propor, executar, avaliar, fiscalizar e apoiar iniciativas que promovam o cumprimento efetivo e integral das normas vigentes, no âmbito da promoção da igualdade e inclusão social, designadamente nos domínios transversais de:\n\ni) Educação para a cidadania;\n\nii) Igualdade e não discriminação por questões de género, origem étnica, religião ou crença, deficiência, idade e orientação sexual;\n\niii) Promoção e proteção dos valores em matéria de parentalidade;\n\niv) Conciliação da vida profissional, pessoal e familiar;\n\nv) Prevenção e combate às formas de violência em função do sexo, etnia, religião, crença, deficiência, idade ou orientação sexual, do apoio às vítimas e da reabilitação dos agressores;\n\nvi) Promoção de ações para apoio ao envelhecimento e aos cuidadores;\n\nvii) Incentivo ao surgimento e desenvolvimento de associações que integrem a população desfavorecida e acompanhamento da sua atividade;\n\nviii) Desenvolvimento de metodologias e práticas de envolvimento, participação e capacitação com indivíduos e, ou, grupos em situação e, ou, risco de exclusão;\n\nix) Promoção da inclusão social de grupos vulneráveis, nomeadamente mulheres, idosos, pessoas com deficiência e jovens em risco;\n\nx) Estratégia de combate à pobreza;\n\nq) Cooperar com organizações de âmbito nacional, internacional, comunitário e demais organismos congéneres estrangeiros em matéria de promoção da igualdade e inclusão social e promover a sua implementação a nível regional;\n\nr) Prestar assistência técnica a iniciativas nas áreas da inclusão social e da igualdade de oportunidades promovidas por outras entidades públicas e privadas;\n\ns) Exercer as demais competências que lhe sejam cometidas por lei e por outros atos normativos.\n\n2 - Para a prossecução das competências genericamente referidas no número anterior, e quando o caráter multidisciplinar das atividades a desenvolver o justifique, podem ser criados grupos de trabalho constituídos por trabalhadores afetos à DRPIIS.\n\n3 - O diretor regional a que se refere o n.º 3 do artigo anterior pode, nos termos da legislação aplicável, delegar competências nos dirigentes da DPRIIS."
+  },
+  "165200696": {
+   "fragment_id": "165200624",
+   "type": 11,
+   "heading": "Artigo 18.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Estrutura\n\nA DRPIIS integra os serviços seguintes:\n\na) A Divisão para a Igualdade, Inclusão Social e Assuntos Jurídicos;\n\nb) O Núcleo de Apoio Financeiro e Administrativo."
+  },
+  "165200697": {
+   "fragment_id": "165200625",
+   "type": 11,
+   "heading": "Artigo 19.º — Divisão para a Igualdade, Inclusão Social e Assuntos Jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Divisão para a Igualdade, Inclusão Social e Assuntos Jurídicos\n\n1 - À Divisão para a Igualdade, Inclusão Social e Assuntos Jurídicos, doravante designada por DIISAJ, compete:\n\na) Elaborar pareceres, informações e estudos técnicos na área da promoção da igualdade e inclusão social;\n\nb) Elaborar programas e projetos na área da promoção da igualdade e inclusão social;\n\nc) Colaborar no planeamento e dinamização de iniciativas promocionais, de divulgação, colóquios, conferências e outras ações no âmbito da temática específica da promoção da igualdade e inclusão social;\n\nd) Preparar a edição de publicações, conceber materiais e suportes de informação dirigidos aos cidadãos, no âmbito da temática específica da promoção da igualdade e inclusão social;\n\ne) Promover e divulgar boas práticas em matéria de promoção da igualdade e inclusão social e de prevenção da violência em função do sexo, etnia, religião, crença, deficiência, idade ou orientação sexual, de apoio às suas vítimas e de reabilitação dos agressores;\n\nf) Assegurar o atendimento ao público, no âmbito da respetiva área de intervenção, e propor o encaminhamento dos interessados de acordo com a solução adequada a cada caso;\n\ng) Receber, encaminhar ou apresentar, junto das autoridades competentes ou das entidades envolvidas, queixas ou denúncias relativas a situações de discriminação ou de violência com base no género, etnia, religião, crença, deficiência, idade ou orientação sexual, bem como emitir pareceres, recomendações e assegurar as ações consideradas necessárias;\n\nh) Assegurar a supervisão técnica e metodológica das estruturas de acolhimento e de atendimento aos grupos vulneráveis, como, entre outros, crianças e jovens, pessoas com deficiência, pessoas em situação de sem-abrigo, idosos e vítimas de violência, promovendo também a reabilitação dos agressores, e cabendo nestes domínios, ainda, a coordenação estratégica com os demais setores do Governo Regional envolvidos;\n\ni) Promover e coordenar o desenvolvimento de ações de formação, sensibilização e informação em matéria de promoção da igualdade e inclusão social, dirigidas aos profissionais do setor e ao público em geral;\n\nj) Efetuar ações de promoção, qualificação e apoio ao voluntariado na Região, bem como assegurar a coordenação desta atividade;\n\nk) Planear eventos, iniciativas promocionais e de divulgação, bem como colóquios e conferências e outras ações no âmbito das temáticas sociais;\n\nl) Estudar e propor as ações necessárias ao apoio ao envelhecimento e aos cuidadores;\n\nm) Instruir, analisar e acompanhar a execução dos processos relativos a pedidos de apoio financeiro e respetivos relatórios de contas e de atividades;\n\nn) Manter atualizado um registo de necessidades de pedidos de financiamento;\n\no) Produzir manuais de apoio ao funcionamento dos equipamentos sociais, por tipo de valência, designadamente na área da qualidade;\n\np) Difundir boas práticas de funcionamento, bem como emitir recomendações e medidas ao nível da qualidade dos equipamentos sociais;\n\nq) Promover medidas e realizar ações no âmbito da qualidade, destinadas às entidades com intervenção em matéria de promoção de igualdade e inclusão social;\n\nr) Proceder à difusão de diretivas superiores, normativos, documentação técnica e científica de interesse informativo ou formativo para a ação da DRPIIS, podendo, para o efeito, recorrer à colaboração de outras entidades;\n\ns) Promover a disponibilização de informação relevante da DRPIIS no Portal do Governo Regional, bem como estruturar, manter e disponibilizar a informação na intranet da DRPIIS;\n\nt) Assegurar a prestação de consultadoria e apoio jurídico ao diretor regional e demais serviços da DRPIIS;\n\nu) Analisar, interpretar e apoiar a uniformização da aplicação de legislação na área de intervenção da DRPIIS;\n\nv) Coordenar e participar na preparação e elaboração de diplomas legais e regulamentares ou emitir parecer sobre os mesmos;\n\nw) Exercer a ação fiscalizadora junto das entidades financiadas pela DRPIIS, do ponto de vista jurídico e social, e da qualidade, das atividades, serviços e equipamentos;\n\nx) Proceder à recolha, análise e tratamento das reclamações efetuadas pelos utentes da DRPIIS, e definir ações internas de melhoria, contribuindo para o aperfeiçoamento contínuo das suas atividades;\n\ny) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DIISAJ é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "165200698": {
+   "fragment_id": "165200626",
+   "type": 11,
+   "heading": "Artigo 20.º — Núcleo de Apoio Financeiro e Administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Núcleo de Apoio Financeiro e Administrativo\n\n1 - Ao Núcleo de Apoio Financeiro e Administrativo, doravante designado por NAFA, compete:\n\na) Criar sistemas de controlo interno na área financeira da DRPIIS;\n\nb) Manter atualizados os mapas referentes à execução financeira do plano de investimentos;\n\nc) Assegurar e monitorizar a execução dos orçamentos de despesas de funcionamento da DRPIIS;\n\nd) Colaborar na elaboração da proposta de plano de investimentos e orçamento de funcionamento da DRPIIS;\n\ne) Assegurar a aquisição de bens e serviços respeitantes ao funcionamento da DRPIIS, bem como proceder à distribuição e controlo dos artigos de consumo corrente;\n\nf) Acompanhar a execução financeira dos acordos, protocolos e contratos de cooperação, bem como de contratos de aquisição de bens e serviços celebrados;\n\ng) Informar e preparar para decisão os processos referentes às candidaturas rececionadas;\n\nh) Elaborar os mapas dos fundos disponíveis e pagamentos em atraso, assim como proceder às solicitações do Sistema Central de Contabilidade e Contas Públicas;\n\ni) Preparar os documentos necessários para a elaboração da Conta de Gerência da DRPIIS;\n\nj) Colaborar com os demais serviços da DRPIIS na proposição, desenvolvimento, publicitação e gestão dos procedimentos de contratação pública, bem como na celebração, acompanhamento e controlo dos contratos decorrentes dos mesmos;\n\nk) Intervir em fiscalizações e auditorias, nos termos superiormente determinados;\n\nl) Exercer a ação fiscalizadora junto das entidades financiadas pela DRPIIS, nomeadamente do ponto de vista financeiro, no âmbito da promoção da igualdade e inclusão social e propor as medidas necessárias ao saneamento das irregularidades detetadas;\n\nm) Apoiar as entidades no âmbito da elaboração dos procedimentos sujeitos ao regime da contratação pública, nos projetos financiados pelos fundos comunitários;\n\nn) Receber, registar e distribuir a correspondência rececionada na DRPIIS;\n\no) Apoiar os serviços da DRPIIS em matéria de documentação e informação, tendo em vista contribuir para a melhoria e atualização da sua organização e funcionamento;\n\np) Promover e manter atualizada a estrutura temática da rede informática da DRPIIS;\n\nq) Organizar e manter atualizado o centro de documentação da DRPIIS, assegurando a recolha e o tratamento da bibliografia e demais documentação técnica de interesse para o setor, facultando a sua consulta;\n\nr) Assegurar o tratamento, acondicionamento e gestão de documentos e proceder à organização do serviço de arquivo da DRPIIS;\n\ns) Promover a uniformização de critérios de organização, gestão e classificação da documentação dos diversos serviços da DRPIIS;\n\nt) Proceder à gestão e manutenção do material e equipamento necessários à formação e a outros eventos oficiais;\n\nu) Organizar os espaços para formação, reuniões e eventos oficiais da DRPIIS;\n\nv) Executar tarefas de reprodução e encadernação de documentação;\n\nw) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O NAFA é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, diretamente dependente do diretor regional, designado, para o efeito, através de despacho deste, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "165200699": {
+   "fragment_id": "165200627",
+   "type": 3,
+   "heading": "Subsecção V — Direção Regional da Habitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção V — Direção Regional da Habitação"
+  },
+  "165200700": {
+   "fragment_id": "165200628",
+   "type": 11,
+   "heading": "Artigo 21.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Natureza e missão\n\n1 - A Direção Regional da Habitação, doravante designada por DRH, é o serviço executivo da VPGR com competências em matéria de habitação.\n\n2 - A DRH tem por missão, nas matérias da sua competência, estudar, propor, executar, coordenar, acompanhar, avaliar e fiscalizar a aplicação das políticas do Governo Regional, com o objetivo de potenciar a melhoria de condições de habitabilidade às populações.\n\n3 - A DRH é dirigida por um diretor regional, cargo de direção superior de 1.º grau."
+  },
+  "165200701": {
+   "fragment_id": "165200629",
+   "type": 11,
+   "heading": "Artigo 22.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Competências\n\n1 - À DRH compete:\n\na) Estudar a situação habitacional, visando a formulação de propostas de medidas de política legislativa e regulamentar;\n\nb) Preparar o plano regional de habitação e os planos anuais e plurianuais do setor;\n\nc) Dinamizar, na Região Autónoma dos Açores, as medidas de política financeira do setor e contribuir para o financiamento de programas habitacionais de interesse social promovidos pelos setores público, cooperativo e privado;\n\nd) Acompanhar a execução de medidas e programas de promoção habitacional, de acordo com os planos e normativos aprovados;\n\ne) Gerir e conservar o parque habitacional social do domínio privado da Região Autónoma dos Açores;\n\nf) Apoiar o Governo Regional na definição das políticas de arrendamento social e alienação do parque habitacional do domínio privado da Região Autónoma dos Açores;\n\ng) Fomentar projetos e ações de recuperação e regeneração do parque habitacional;\n\nh) Realizar obras que, por conveniência, sejam executadas em regime de administração direta;\n\ni) Proceder à fiscalização das obras do setor habitacional promovidas pela Região Autónoma dos Açores, quer em regime de empreitada, quer em regime de administração direta, em estreita colaboração com os demais órgãos da VPGR;\n\nj) Celebrar contratos de desenvolvimento entre a administração regional autónoma e a administração local, nos termos previstos no Decreto Legislativo Regional n.º 32/2002/A, de 8 de agosto, que estabelece o regime de cooperação técnica e financeira entre a administração regional e a administração local, na sua redação em vigor, bem como acordos de colaboração, protocolos e contratos de cooperação com quaisquer instituições particulares não lucrativas para o desenvolvimento de políticas habitacionais;\n\nk) A promoção, a implementação e a avaliação de planos de habitação e de reabilitação urbana da responsabilidade do setor público, assim como medidas e instrumentos de política de habitação e reabilitação urbana;\n\nl) Desenvolver e gerir a aplicação de instrumentos de financiamento de programas habitacionais de interesse social e de reabilitação urbana, promovidos por entidades públicas, cooperativas e privadas;\n\nm) Gerir e conservar o parque habitacional, concretizando a política social de habitação;\n\nn) Propor medidas legislativas e regulamentares adequadas à prossecução da política de habitação e reabilitação urbana;\n\no) Participar e dinamizar redes nacionais de análise e avaliação das intervenções nos setores da habitação e da reabilitação urbana;\n\np) Atribuir subsídios e outras formas de apoio e incentivo ao arrendamento urbano;\n\nq) Conceder comparticipações destinadas ao financiamento de ações e de programas nas suas áreas de atribuições, designadamente relativos à aquisição, construção e reabilitação de imóveis do património habitacional do domínio privado da Região Autónoma dos Açores;\n\nr) Celebrar contratos de desenvolvimento ou contratos-programa nos domínios da habitação e da reabilitação e revitalização urbanas;\n\ns) Participar em sociedades, fundos de investimento imobiliário, consórcios ou outras formas de associação que prossigam fins na sua área de atribuições, designadamente relativos à gestão do património habitacional do domínio privado da Região, à habitação de interesse social e à reabilitação urbana;\n\nt) Gerir programas específicos que lhe sejam cometidos, nomeadamente no domínio do apoio ao arrendamento, da gestão e da reabilitação urbana;\n\nu) Assegurar a conservação do seu património habitacional e atribuir as habitações em propriedade ou arrendamento, segundo os regimes legalmente fixados;\n\nv) Adquirir ou arrendar imóveis destinados a alojar pessoas em situação de carência habitacional ou a instalar equipamentos de utilização coletiva em bairros sociais;\n\nw) Contratualizar com pessoas coletivas ou particulares a alocação de habitações ou edifícios para fins habitacionais de interesse social;\n\nx) Apoiar e incentivar a execução de ações de reabilitação e revitalização urbanas de promoção pública, privada ou cooperativa;\n\ny) Acompanhar a execução dos projetos habitacionais de interesse social por ela financiados ou subsidiados;\n\nz) Desenvolver ações formativas, de informação e de apoio técnico nos domínios da habitação, da reabilitação e da revitalização urbanas;\n\naa) Gerir operações e programas específicos de reabilitação e revitalização urbanas;\n\nbb) Acompanhar os empreendimentos financiados por programas habitacionais de interesse social;\n\ncc) Celebrar contratos de desenvolvimento ou contratos-programa no domínio da habitação de custos controlados;\n\ndd) Participar em sociedades que tenham como objeto a promoção habitacional, a construção e, ou, urbanização, assim como a gestão de habitação;\n\nee) Propor a alienação de habitações que fazem parte do património habitacional social do domínio privado da Região Autónoma dos Açores e, bem assim, de solos ou de lotes de terreno destinados à construção de habitação social e de custos controlados, em regime de reserva de propriedade;\n\nff) Atribuir as habitações que constituem o património habitacional da Região, em regime de arrendamento, segundo os regimes legalmente fixados;\n\ngg) Assegurar a manutenção e a conservação do património habitacional da Região;\n\nhh) Propor medidas que visem a uniformização da gestão do parque habitacional da Região Autónoma dos Açores;\n\nii) Verificar a conformidade com os objetivos da habitação social dos planos de utilização dos terrenos objeto de alienação nos termos da alínea ee);\n\njj) Estudar soluções nos campos técnico, económico e social, tendo em consideração as carências existentes, as condições socioeconómicas da população e o equilíbrio entre conforto, custo e durabilidade das habitações;\n\nkk) Exercer as demais competências que lhe sejam cometidas por lei e por outros atos normativos.\n\n2 - Para a prossecução das competências genericamente referidas no número anterior, e quando o caráter multidisciplinar das atividades a desenvolver o justifique, podem ser criados grupos de trabalho constituídos por trabalhadores afetos à DRH.\n\n3 - O diretor regional a que se refere o n.º 3 do artigo anterior pode, nos termos da legislação aplicável, delegar competências nos dirigentes da DRH."
+  },
+  "165200702": {
+   "fragment_id": "165200630",
+   "type": 11,
+   "heading": "Artigo 23.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Estrutura\n\nA DRH integra os serviços seguintes:\n\na) A Direção de Serviços de Gestão Social e Financeira;\n\nb) A Direção de Serviços de Projetos e Gestão Patrimonial;\n\nc) A Divisão Jurídica e de Recursos Humanos;\n\nd) A Divisão de Habitação da Ilha Terceira;\n\ne) O Núcleo de Informática."
+  },
+  "165200703": {
+   "fragment_id": "165200631",
+   "type": 11,
+   "heading": "Artigo 24.º — Direção de Serviços de Gestão Social e Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Direção de Serviços de Gestão Social e Financeira\n\n1 - À Direção de Serviços de Gestão Social e Financeira, doravante designada por DSGSF, compete:\n\na) Desenvolver ações vocacionadas para a implementação de soluções habitacionais;\n\nb) Desenvolver ações que visem a melhoria da qualidade de vida das famílias residentes nos empreendimentos habitacionais;\n\nc) Propor e promover, em colaboração com outros serviços da DRH, as soluções de alienação ou de outra forma de cedência onerosa dos imóveis que integram o património habitacional da Região Autónoma dos Açores;\n\nd) Gerir os programas de concessão de apoios e incentivos à habitação e à reabilitação urbana;\n\ne) Assegurar a gestão dos contratos do parque habitacional da Região Autónoma dos Açores atribuídos ou a atribuir em regime de arrendamento;\n\nf) Propor e acompanhar a promoção da celebração de contratos de desenvolvimento ou de contratos-programa no domínio da reabilitação e renovação urbanas;\n\ng) Avaliar a viabilidade económica e a conformidade dos projetos habitacionais objeto de financiamento pela Região Autónoma dos Açores, bem como acompanhar a sua execução;\n\nh) Lançar campanhas de dinamização e sensibilização, de modo a assegurar a correta utilização das habitações e espaços de comunicação, promovendo a integração das famílias nos novos espaços habitacionais;\n\ni) Sugerir equipamentos sociais necessários aos vários empreendimentos edificados para apoio à população em geral e a grupos específicos;\n\nj) Efetuar estudos de caracterização das populações dos empreendimentos edificados, visando nomeadamente a sua elevação cultural, económica e social;\n\nk) Proceder ao acompanhamento e avaliação da execução dos projetos objeto de financiamento;\n\nl) Desenvolver ações de cooperação, designadamente com autarquias locais e os diversos parceiros sociais, tendentes à satisfação das carências habitacionais;\n\nm) Colaborar na elaboração de propostas de novos programas ou soluções habitacionais, ou ainda na adaptação ou divulgação regional de programas de apoio de âmbito nacional;\n\nn) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DSGSF é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - A DSGSF integra os serviços seguintes:\n\na) A Divisão de Apoios, Arrendamento e Fiscalização;\n\nb) A Divisão de Gestão Financeira."
+  },
+  "165200704": {
+   "fragment_id": "165200632",
+   "type": 11,
+   "heading": "Artigo 25.º — Divisão de Apoios, Arrendamento e Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Divisão de Apoios, Arrendamento e Fiscalização\n\n1 - À Divisão de Apoios, Arrendamento e Fiscalização, doravante designada por DAAF, compete:\n\na) Executar os programas de apoio à habitação;\n\nb) Elaborar os atos normativos que se afigurem necessários à boa execução dos programas de apoio à habitação;\n\nc) Informar e preparar para decisão os processos de candidatura aos apoios à habitação;\n\nd) Assegurar o atendimento ao público;\n\ne) Assegurar a execução dos projetos de habitação aprovados e proceder ao acompanhamento da execução dos contratos e das obras que são objeto dos apoios, promovendo ações de fiscalização;\n\nf) Acompanhar a resolução de situações abrangidas pelos vários programas de apoio à habitação;\n\ng) Colaborar em projetos especiais de recuperação do parque habitacional e outras ações superiormente definidas no domínio da habitação;\n\nh) Desenvolver as ações necessárias à dinamização e boa aplicação dos programas de apoio à habitação definidos pelo Governo Regional;\n\ni) Proceder e orientar as análises socioeconómicas e habitacionais casuísticas, efetuando os correspondentes enquadramentos nos programas de habitação existentes;\n\nj) Assegurar a articulação com o ISSA, IPRA, e demais entidades de âmbito social, nas situações em que seja necessária uma conjugação de esforços;\n\nk) Participar e cooperar em projetos multidisciplinares de raiz comunitária, com o objetivo de minorar as carências habitacionais;\n\nl) Promover a integração das famílias nos novos espaços habitacionais;\n\nm) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DAAF é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.\n\n3 - A DAAF integra os serviços seguintes:\n\na) O Serviço de Atendimento;\n\nb) O Serviço de Apoios e Incentivos;\n\nc) O Serviço de Arrendamento e Fiscalização."
+  },
+  "165200705": {
+   "fragment_id": "165200633",
+   "type": 11,
+   "heading": "Artigo 26.º — Serviço de Atendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Serviço de Atendimento\n\n1 - Ao Serviço de Atendimento, doravante designado por SA, compete:\n\na) Efetuar o atendimento dos utentes dos serviços de habitação;\n\nb) Constituir os pedidos de apoio em processos e efetuar os registos nas plataformas informáticas disponíveis;\n\nc) Atualizar os processos com os elementos que sejam entregues no respetivo serviço, quer aqueles que estejam na fase de instrução quer os que estejam na fase de concretização dos apoios;\n\nd) Produzir elementos estatísticos da atividade desenvolvida;\n\ne) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O SA funciona na dependência hierárquica direta do chefe de divisão da DAAF."
+  },
+  "165200706": {
+   "fragment_id": "165200634",
+   "type": 11,
+   "heading": "Artigo 27.º — Serviço de Apoios e Incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Serviço de Apoios e Incentivos\n\n1 - Ao Serviço de Apoios e Incentivos, doravante designado por SAI, compete:\n\na) Efetuar vistorias e perícias técnicas e emitir pareceres, sob a forma de relatório, no âmbito dos programas de apoio;\n\nb) Realizar as audiências técnicas que se revelem necessárias ao esclarecimento de dúvidas que se coloquem, quer na fase de instrução do processo quer na fase de concretização dos apoios;\n\nc) Efetuar as diligências necessárias, bem como o cruzamento de dados e de informação com outras entidades, no sentido de serem apurados todos os factos relevantes para a decisão;\n\nd) Apreciar os orçamentos apresentados pelos donos da obra e conformá-los com as obras consideradas elegíveis no âmbito do respetivo programa de apoio;\n\ne) Apreciar a conformidade das peças entregues pelos autores do projeto, antes do início dos trabalhos, e pelo dono da obra, no decurso dos mesmos;\n\nf) Verificar e controlar a execução das obras de acordo com o projeto aprovado e os prazos de execução das mesmas;\n\ng) Efetuar a medição dos trabalhos executados e a emissão do respetivo auto para atribuições das fases do apoio;\n\nh) Acompanhar a execução dos contratos em curso para efeitos de concretização dos subsídios;\n\ni) Colaborar em projetos especiais de recuperação do parque habitacional e outras ações superiormente definidas no domínio da habitação;\n\nj) Desenvolver as ações necessárias com vista à dinamização e boa aplicação dos programas de apoio à habitação definidos pela VPGR;\n\nk) Participar e cooperar em projetos multidisciplinares de raiz comunitária, com vista a minorar as carências habitacionais;\n\nl) Colaborar com o SA na informação e esclarecimento dos utentes;\n\nm) Produzir elementos estatísticos da atividade desenvolvida;\n\nn) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O SAI funciona na dependência hierárquica direta do chefe de divisão da DAAF."
+  },
+  "165200707": {
+   "fragment_id": "165200635",
+   "type": 11,
+   "heading": "Artigo 28.º — Serviço de Arrendamento e Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Serviço de Arrendamento e Fiscalização\n\n1 - Ao Serviço de Arrendamento e Fiscalização, doravante designado por SAF, compete:\n\na) Elaborar os contratos de arrendamento e subarrendamento habitacional onde a DRH seja outorgante, bem como assegurar o atendimento aos inquilinos e às empresas de gestão dos condomínios de edifícios onde a Região Autónoma dos Açores seja detentora de frações habitacionais;\n\nb) Efetuar a gestão dos contratos de arrendamento e de subarrendamento;\n\nc) Acompanhar e promover a atualização dos contratos que dependem da situação socioeconómica dos inquilinos;\n\nd) Gerir as relações com empresas de gestão de condomínios de edifícios onde a Região detenha frações afetas a fins habitacionais;\n\ne) Promover a integração das famílias nos novos espaços habitacionais;\n\nf) Promover ações de fiscalização no âmbito da verificação das cláusulas contratuais;\n\ng) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O SAF funciona na dependência hierárquica direta do chefe de divisão da DAAF."
+  },
+  "165200708": {
+   "fragment_id": "165200636",
+   "type": 11,
+   "heading": "Artigo 29.º — Divisão de Gestão Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Divisão de Gestão Financeira\n\n1 - À Divisão de Gestão Financeira, doravante designada por DGFin, compete:\n\na) Elaborar pareceres, informações e estudos técnicos;\n\nb) Criar sistemas de controlo interno na área financeira da DRH;\n\nc) Elaborar candidaturas da DRH a fundos comunitários e respetivos pedidos de reembolso;\n\nd) Instruir os processos relativos a pedidos de financiamento e manter atualizado um registo de necessidades desses pedidos;\n\ne) Manter atualizados os mapas referentes à execução financeira do plano de investimentos;\n\nf) Assegurar e monitorizar a execução dos orçamentos de despesas de funcionamento da DRH;\n\ng) Colaborar na elaboração da proposta de plano de investimentos e de orçamento de funcionamento da DRH;\n\nh) Assegurar a aquisição de bens e serviços respeitantes ao funcionamento da DRH;\n\ni) Elaborar os mapas dos fundos disponíveis e pagamentos em atraso, assim como proceder às solicitações do Sistema Central de Contabilidade e Contas Públicas;\n\nj) Preparar os documentos necessários para a elaboração da Conta de Gerência da DRH;\n\nk) Informar e preparar, ao nível financeiro, os processos referentes aos apoios ao investimento;\n\nl) Instruir, elaborar e acompanhar a execução financeira dos acordos, protocolos e contratos de cooperação, no âmbito do financiamento dos orçamentos da Região Autónoma dos Açores;\n\nm) Proceder à recolha de informação na DRH para a elaboração do Plano e Relatório de Atividades da DRH e acompanhar a execução dos mesmos;\n\nn) Propor e apoiar a adoção de novas metodologias de gestão, planeamento e avaliação para o conjunto das atividades desenvolvidas pelos serviços da DRH;\n\no) Propor e colaborar na definição de circuitos e meios a adotar pelos serviços da DRH na articulação e relacionamento com entidades externas;\n\np) Acompanhar a implementação de medidas orientadas para o reforço da eficácia e modernização;\n\nq) Elaborar a proposta do plano de investimentos e dos orçamentos de despesas de funcionamento da DRH, acompanhar e avaliar a sua execução e propor eventuais reajustamentos;\n\nr) Controlar e acompanhar a execução financeira dos projetos aprovados por fundos comunitários e elaborar os respetivos instrumentos de controlo;\n\ns) Assegurar a articulação e interlocução com a autoridade de gestão responsável pelos fundos comunitários;\n\nt) Promover a inovação e qualidade na DRH;\n\nu) Proceder à análise e tratamento de informação estatística do setor da habitação;\n\nv) Elaborar pareceres, informações e análise estatística em matéria de habitação;\n\nw) Executar os serviços de natureza administrativa e arquivística;\n\nx) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DGFin é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.\n\n3 - A DGFin integra os serviços seguintes:\n\na) O Serviço Contabilístico e Financeiro;\n\nb) O Serviço de Expediente e Arquivo."
+  },
+  "165200709": {
+   "fragment_id": "165200637",
+   "type": 11,
+   "heading": "Artigo 30.º — Serviço Contabilístico e Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Serviço Contabilístico e Financeiro\n\n1 - Ao Serviço Contabilístico e Financeiro, doravante designado por SCF, compete:\n\na) Colaborar com os restantes serviços da DRH nas ações necessárias à elaboração do plano e orçamento da DRH;\n\nb) Propor e controlar a execução do plano e orçamento da DRH;\n\nc) Preparar os elementos necessários à elaboração de relatórios de execução financeira;\n\nd) Processar em GeRFiP, isto é, na solução para os domínios da gestão contabilística e financeira que consubstancia a implementação do Plano Oficial de Contabilidade Pública, as transferências das verbas de funcionamento e do plano de investimentos;\n\ne) Assegurar o processamento das receitas e despesas, bem como o respetivo controlo orçamental;\n\nf) Conferir, classificar e arquivar os documentos contabilísticos;\n\ng) Colaborar nos procedimentos financeiros e contabilísticos a submeter nos programas de fundos comunitários de apoio, em colaboração com as direções de serviços;\n\nh) Organizar e manter atualizado o cadastro do património afeto à DRH;\n\ni) Assegurar o economato e gerir o fundo de maneio que lhe for afeto;\n\nj) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O SCF funciona na dependência hierárquica direta do chefe de divisão da DGFin."
+  },
+  "165200710": {
+   "fragment_id": "165200638",
+   "type": 11,
+   "heading": "Artigo 31.º — Serviço de Expediente e Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Serviço de Expediente e Arquivo\n\n1 - Ao Serviço de Expediente e Arquivo, doravante designado por SEA, compete:\n\na) Zelar pela organização, manutenção e permanente atualização do arquivo do expediente da DRH;\n\nb) Proceder à receção, abertura, classificação e registo de toda a correspondência dirigida a qualquer serviço da DRH;\n\nc) Proceder à classificação e registo de correspondência dos serviços da DRH com entidades exteriores, assim como executar os demais atos de saída da mesma correspondência;\n\nd) Assegurar a correta e atempada distribuição de correspondência interna da DRH;\n\ne) Arquivar toda a correspondência entrada e saída da DRH, assim como os documentos de circulação interna;\n\nf) Compilar e disponibilizar o Jornal Oficial da Região Autónoma dos Açores e o Diário da República pelos serviços da DRH, assim como diligenciar a extração de cópias de textos legais e publicações com interesse para a atividade;\n\ng) Organizar o arquivo e a documentação geral da DRH, com vista à boa conservação e fácil acesso dos documentos arquivados;\n\nh) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O SEA funciona na dependência hierárquica direta do chefe de divisão da DGFin."
+  },
+  "165200711": {
+   "fragment_id": "165200639",
+   "type": 11,
+   "heading": "Artigo 32.º — Direção de Serviços de Projetos e Gestão Patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Direção de Serviços de Projetos e Gestão Patrimonial\n\n1 - À Direção de Serviços de Projetos e Gestão Patrimonial, doravante designada por DSPGP, compete:\n\na) Desenvolver metodologias para a definição e avaliação de políticas de habitação, de arrendamento e de reabilitação urbana;\n\nb) Desenvolver, executar, gerir e acompanhar programas e projetos urbanísticos, habitacionais e de reabilitação urbana;\n\nc) Planear, gerir e conservar o parque habitacional, os equipamentos e os solos urbanizáveis, no cumprimento da política definida para a habitação;\n\nd) Dinamizar e participar em ações, a nível regional, nacional e internacional, de análise e de avaliação de intervenções nos domínios da habitação, do arrendamento e da reabilitação urbana;\n\ne) Desenvolver, atualizar e gerir sistemas de informação de dados nos domínios do património habitacional e da reabilitação urbana;\n\nf) Promover a organização dos processos de revisão e atualização da informação geográfica digital;\n\ng) Elaborar, apoiar, acompanhar ou divulgar estudos estatísticos, técnicos e de investigação destinados a manter atualizado o conhecimento e a propor medidas nos domínios da habitação e da reabilitação urbana;\n\nh) Proceder ao acompanhamento e avaliação da execução dos projetos objeto de financiamento;\n\ni) Desenvolver ações de cooperação, designadamente com as autarquias locais e com os diversos parceiros sociais, tendentes à satisfação das carências habitacionais;\n\nj) Manter atualizado o cadastro dos imóveis da Região Autónoma dos Açores com afetação de habitação;\n\nk) Produzir elementos estatísticos da atividade desenvolvida;\n\nl) Promover a reabilitação urbanística e sustentabilidade arquitetónica das urbanizações afetas ao parque habitacional da Região Autónoma dos Açores;\n\nm) Conceber, preparar e executar programas e projetos de habitação e de urbanização a desenvolver pela DRH, bem como promover a sua apreciação e aprovação pelas entidades competentes;\n\nn) Coordenar e fiscalizar a execução das obras da responsabilidade da DRH, independentemente de serem realizadas por empreitada ou por administração direta;\n\no) Apoiar o planeamento e a execução dos projetos de infraestruturas;\n\np) Assegurar a execução e acompanhamento dos projetos de habitação aprovados e a fiscalização das obras que são objeto de apoio;\n\nq) Elaborar relatórios ou emitir pareceres sobre assuntos que lhe sejam atribuídos, assim como elaborar o relatório anual dos serviços a seu cargo;\n\nr) Instruir ou colaborar na instrução de processos de expropriação por utilidade pública, necessários à prossecução dos objetivos da DRH;\n\ns) Colaborar na aquisição, na alienação e na promoção de registos, em nome da Região, dos prédios ou das parcelas de terreno, necessárias à prossecução dos objetivos da DRH;\n\nt) Proceder à organização dos processos de recurso de qualquer natureza relativos a expropriações;\n\nu) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DSPGP é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - A DSPGP integra a Divisão de Infraestruturas e Planeamento."
+  },
+  "165200712": {
+   "fragment_id": "165200640",
+   "type": 11,
+   "heading": "Artigo 33.º — Divisão de Infraestruturas e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Divisão de Infraestruturas e Planeamento\n\n1 - À Divisão de Infraestruturas e Planeamento, doravante designada por DIP, compete:\n\na) Promover a reabilitação urbanística e a sustentabilidade das urbanizações afetas ao parque habitacional da Região Autónoma dos Açores;\n\nb) Propor, desenvolver e gerir os procedimentos de contratação pública necessários à prossecução das suas competências, bem como a celebração, acompanhamento e controlo financeiro dos contratos decorrentes dos mesmos;\n\nc) Conceber, preparar e executar programas e planos de manutenção dos imóveis da Região afetos a habitação e de urbanizações e terrenos afetos à DRH;\n\nd) Coordenar e contratar as obras da responsabilidade da DRH, independentemente de serem realizadas por empreitada ou por administração direta;\n\ne) Realizar as obras que, por conveniência, sejam executadas em regime de administração direta;\n\nf) Apoiar o planeamento e a execução dos projetos de infraestruturas;\n\ng) Garantir o estado de conservação dos imóveis, frações e respetivas partes comuns do parque habitacional da Região ou arrendadas por esta, promovendo a sua gestão e manutenção, em articulação com a DSGSF;\n\nh) Participar, ou fazer-se representar, em reuniões de condomínio, ordinárias ou extraordinárias, sempre que esteja em causa a necessidade de investimento em despesas de manutenção em frações autónomas ou em partes comuns da Região Autónoma dos Açores ou por esta arrendadas;\n\ni) Proceder à gestão e manutenção do parque automóvel, programando, coordenando e assegurando a utilização e conservação de todas as máquinas, viaturas e demais bens, móveis ou imóveis, de suporte, pertencentes ou afetos à DRH;\n\nj) Elaborar relatórios ou emitir pareceres sobre assuntos que lhe sejam atribuídos, assim como elaborar o relatório anual dos serviços a seu cargo;\n\nk) Colaborar na aquisição, na alienação e no registo, nos termos da lei, em nome da Região, dos prédios ou das parcelas de terreno necessárias à prossecução dos objetivos da DRH;\n\nl) Produzir elementos estatísticos da atividade desenvolvida;\n\nm) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DIP é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau.\n\n3 - A DIP integra os serviços seguintes:\n\na) O Setor Técnico de Conservação Patrimonial;\n\nb) O Setor Técnico de Gestão e Manutenção."
+  },
+  "165200713": {
+   "fragment_id": "165200641",
+   "type": 11,
+   "heading": "Artigo 34.º — Setor Técnico de Conservação Patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Setor Técnico de Conservação Patrimonial\n\n1 - Ao Setor Técnico de Conservação Patrimonial, doravante designado por STCP, compete:\n\na) Gerir e coordenar todas as intervenções de conservação e reabilitação do parque habitacional da Região Autónoma dos Açores;\n\nb) Fiscalizar e acompanhar empreitadas de reabilitação de imóveis pertencentes ao património habitacional da Região e demais equipamentos e infraestruturas;\n\nc) Coordenar todas as atividades desenvolvidas pela equipa de assistentes operacionais, na reabilitação e conservação de imóveis pertencentes ao património habitacional da DRH e demais equipamentos e infraestruturas, por administração direta, incluindo consultas a fornecedores, aquisições e controlo de faturação;\n\nd) Criar e manter atualizado o sistema de dados de apoio ao planeamento e à gestão das intervenções no parque habitacional da Região Autónoma dos Açores, bem como proceder à abertura de processos e manter organizado o seu arquivo;\n\ne) Elaborar relatórios de vistoria a imóveis que se encontram em situação de risco, bem como no âmbito da ocorrência de calamidades;\n\nf) Apoiar, em termos logísticos, a realização de eventos e cerimónias da DRH, bem como as que sejam solicitadas no âmbito das competências da VPGR;\n\ng) Elaborar relatórios ou emitir pareceres sobre assuntos que lhe sejam atribuídos;\n\nh) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O STCP é dirigido por um chefe de setor, cargo de direção específica de 2.º grau, nos termos do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "165200714": {
+   "fragment_id": "165200642",
+   "type": 11,
+   "heading": "Artigo 35.º — Setor Técnico de Gestão e Manutenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Setor Técnico de Gestão e Manutenção\n\n1 - Ao Setor Técnico de Gestão e Manutenção, doravante designado por STGM, compete:\n\na) Programar, coordenar e assegurar a produção de inertes destinados às necessidades da DRH e gerir os contratos de produção, independentemente da localização das zonas de abastecimento;\n\nb) Programar e executar todos os trabalhos nas oficinas;\n\nc) Gerir as instalações, os equipamentos e os armazéns de apoio às atividades da DRH;\n\nd) Controlar, nomeadamente através de ficheiros de leitura rápida, as existências e movimentação dos materiais e sobressalentes destinados à manutenção do equipamento e à construção, estabelecendo os limites que condicionem as novas aquisições;\n\ne) Propor a aquisição de equipamentos, materiais e produtos destinados ao âmbito da sua atuação, participando na elaboração das peças escritas necessárias à realização de procedimentos aquisitivos e emitindo parecer técnico sobre as propostas apresentadas;\n\nf) Proceder à gestão e manutenção do parque automóvel, programando, coordenando e assegurando a utilização e conservação de todas as máquinas, viaturas e demais bens, móveis ou imóveis, de suporte, pertencentes ou afetos à DRH;\n\ng) Elaborar relatórios ou emitir pareceres sobre assuntos que lhe sejam atribuídos;\n\nh) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O STGM é dirigido por um chefe de setor, cargo de direção específica de 2.º grau, nos termos do artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "165200715": {
+   "fragment_id": "165200643",
+   "type": 11,
+   "heading": "Artigo 36.º — Divisão Jurídica e de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Divisão Jurídica e de Recursos Humanos\n\n1 - À Divisão Jurídica e de Recursos Humanos, doravante designada por DJRH, compete:\n\na) Apoiar o diretor regional e demais serviços da DRH nas áreas administrativa, jurídica e de recursos humanos;\n\nb) Apoiar a coordenação do processo de avaliação do desempenho dos trabalhadores da DRH;\n\nc) Assegurar a análise e o acompanhamento dos processos individuais de cada trabalhador afeto à DRH, ou de colaboradores deste órgão através de programas ocupacionais ou de estágios, nas suas diferentes vertentes;\n\nd) Assegurar a prestação de consultadoria jurídica e o apoio legislativo e regulamentar ao diretor regional;\n\ne) Colaborar na elaboração de diversa documentação de natureza técnico-jurídica e prestar informações aos serviços da DRH;\n\nf) Elaborar programas, projetos, estudos e pareceres sobre assuntos que lhe sejam atribuídos;\n\ng) Propor e implementar medidas para o aumento da qualidade, eficácia e eficiência dos serviços da DRH no âmbito das atribuições da DJRH, designadamente através da elaboração de circulares internas que assegurem a aplicação uniforme e concertada das normas reguladoras daquelas atribuições;\n\nh) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DJRH é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau, diretamente dependente do diretor regional.\n\n3 - A DJRH integra os serviços seguintes:\n\na) O Serviço de Recursos Humanos;\n\nb) O Serviço de Apoio Jurídico e Notarial."
+  },
+  "165200716": {
+   "fragment_id": "165200644",
+   "type": 11,
+   "heading": "Artigo 37.º — Serviço de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Serviço de Recursos Humanos\n\n1 - Ao Serviço de Recursos Humanos, doravante designado por SRH, compete:\n\na) Assegurar a elaboração dos estudos necessários à correta afetação e gestão de recursos humanos da DRH;\n\nb) Assegurar a preparação do plano anual de formação, tendo em atenção as necessidades gerais e específicas dos diversos serviços da DRH;\n\nc) Garantir a compilação e organização da informação relativa aos recursos humanos, a aplicação da avaliação do desempenho e a elaboração do balanço social;\n\nd) Assegurar o processamento dos vencimentos e abonos relativos ao pessoal, bem como o expediente relacionado com os benefícios sociais;\n\ne) Desenvolver as ações necessárias à organização e instrução de processos referentes à situação profissional dos trabalhadores;\n\nf) Desenvolver as ações necessárias ao cumprimento das normas sobre condições ambientais de higiene e segurança no trabalho, em colaboração com os restantes serviços da DRH;\n\ng) Proceder ao carregamento periódico de todas as bases de dados dos recursos humanos da Administração Pública;\n\nh) Elaborar anualmente o mapa de pessoal;\n\ni) Assegurar a execução de todas as ações de constituição e cessação da relação jurídica de emprego público;\n\nj) Propor, instruir e acompanhar os procedimentos disciplinares;\n\nk) Instruir os processos relativos às prestações sociais dos trabalhadores e dos seus familiares, acidentes de trabalho e doenças profissionais;\n\nl) Apreciar e informar sobre questões de administração de pessoal, passar certidões e assegurar a execução do expediente respetivo;\n\nm) Proceder aos recrutamentos anuais de acordo com o mapa de pessoal, bem como manter atualizados os registos de alteração de posicionamento remuneratório dos trabalhadores;\n\nn) Assegurar os procedimentos conducentes à mobilidade geral;\n\no) Definir e avaliar indicadores de gestão de recursos humanos, bem como realizar estudos periódicos relativos à aplicação de medidas conducentes à racionalização dos recursos humanos;\n\np) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O SRH funciona na dependência hierárquica direta do chefe de divisão da DJRH."
+  },
+  "165200717": {
+   "fragment_id": "165200645",
+   "type": 11,
+   "heading": "Artigo 38.º — Serviço de Apoio Jurídico e Notarial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Serviço de Apoio Jurídico e Notarial\n\n1 - Ao Serviço de Apoio Jurídico e Notarial, doravante designado por SAJN, compete, designadamente:\n\na) Assegurar apoio jurídico ao diretor regional e demais serviços da DRH;\n\nb) Preparar e celebrar todos os atos notariais relacionados com a entrada e saída de imóveis do património imobiliário privado da Região Autónoma dos Açores;\n\nc) Participar na elaboração de projetos e propostas de diplomas legais ou regulamentares e emitir parecer sobre os mesmos;\n\nd) Colaborar com os demais serviços da DRH na proposição, desenvolvimento e gestão dos procedimentos de contratação pública, bem como na celebração, acompanhamento e controlo dos contratos decorrentes dos mesmos;\n\ne) Preparar todas as formalizações de vontades negociais nas quais a DRH figure como outorgante, independentemente da forma que assumam, verificando previamente a conformidade legal dos procedimentos que lhes deram origem;\n\nf) Instruir os processos da DRH relativos a atos e contratos legalmente sujeitos a fiscalização prévia do Tribunal de Contas, preparando os documentos necessários para a respetiva remessa, bem como as respostas a eventuais esclarecimentos solicitados;\n\ng) Instruir os processos da DRH relativos a outros atos e contratos que legalmente estejam sujeitos a remessa ao Tribunal de Contas, nomeadamente adicionais de contratos visados, preparando os documentos necessários para a respetiva comunicação, bem como as respostas a eventuais esclarecimentos solicitados;\n\nh) Colaborar e preparar a resposta da DRH, em sede de contraditório, no âmbito de auditorias realizadas pelo Tribunal de Contas, em articulação com o Gabinete do Vice-Presidente do Governo Regional;\n\ni) Colaborar na aquisição, na alienação e no registo, nos termos da lei, em nome da Região, dos prédios ou das parcelas de terreno necessárias à prossecução dos objetivos da DRH;\n\nj) Coordenar a ação dos peritos e dos árbitros nomeados pelo presidente do tribunal da Relação para intervirem nos processos de expropriações;\n\nk) Instruir os processos de expropriação por utilidade pública necessários à prossecução dos objetivos da DRH;\n\nl) Proceder à organização dos processos de recursos de qualquer natureza relativos a expropriações;\n\nm) Preparar e efetuar nas conservatórias competentes e em nome da Região Autónoma dos Açores, em cooperação com a Direção Regional do Orçamento e Tesouro, todos os registos de prédios por esta adquiridos e necessários à prossecução dos objetivos prosseguidos pela DRH;\n\nn) Averbar na matriz predial urbana os edifícios construídos pela DRH e proceder, de igual modo, à respetiva inscrição no registo predial, com vista à sua inclusão no património regional edificado;\n\no) Proceder às diligências necessárias à completa identificação e avaliação das propriedades a adquirir e propor os moldes da respetiva aquisição ou, sempre que as circunstâncias o aconselhem, deferir tal competência a outro serviço da DRH;\n\np) Acompanhar os processos relacionados com cadastro e emissão de certidões;\n\nq) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O SAJN funciona na dependência hierárquica direta do chefe de divisão da DJRH."
+  },
+  "165200718": {
+   "fragment_id": "165200646",
+   "type": 11,
+   "heading": "Artigo 39.º — Divisão de Habitação da Ilha Terceira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Divisão de Habitação da Ilha Terceira\n\n1 - À Divisão de Habitação da Ilha Terceira, doravante designada por DHIT, compete:\n\na) Desenvolver genericamente as competências de natureza operativa da DRH, cumprindo as orientações que lhe sejam transmitidas pelo diretor regional;\n\nb) Colaborar com a DSGSF, a DSPGP e a DJRH no que respeita às respetivas áreas de atuação;\n\nc) Prestar todas as informações ao público e zelar pelo cumprimento das medidas superiormente emanadas;\n\nd) Receber os documentos e preparar todos os processos que tenham de ser remetidos à DRH, acompanhando-os das necessárias informações;\n\ne) Zelar pela manutenção e conservação de todos os bens móveis e imóveis que lhe estejam afetos;\n\nf) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DHIT é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau, diretamente dependente do diretor regional."
+  },
+  "165200719": {
+   "fragment_id": "165200647",
+   "type": 11,
+   "heading": "Artigo 40.º — Núcleo de Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Núcleo de Informática\n\n1 - Ao Núcleo de Informática, doravante designado por NI, compete:\n\na) Administrar o sistema informático;\n\nb) Gerir o apoio logístico e técnico aos serviços da DRH na área das telecomunicações e informática;\n\nc) Gerir as aplicações administrativas e financeiras;\n\nd) Coordenar os serviços de informática e telecomunicações da DRH e serviços dependentes, em articulação com as políticas globais seguidas para a administração regional;\n\ne) Prestar apoio técnico ao serviço de gestão de correspondência da DRH;\n\nf) Administrar, gerir e manter a arquitetura dos sistemas de informação e as infraestruturas dos vários sistemas informáticos e comunicações;\n\ng) Propor, implementar e coordenar a execução de projetos de informatização, respeitantes ao sistema de informação;\n\nh) Analisar sistematicamente a evolução do sistema de informação e propor soluções adequadas;\n\ni) Estudar as inovações tecnológicas e dinamizar a sua divulgação;\n\nj) Assegurar o correto funcionamento e a manutenção dos sistemas e equipamentos informáticos, bem como a gestão das redes de comunicações;\n\nk) Propor a aquisição de equipamentos e sistemas, tendo em conta a evolução das tecnologias e as necessidades dos serviços, bem como promover a correta manutenção, atualização e utilização do material existente;\n\nl) Apoiar tecnicamente os utilizadores do sistema informático e propor a definição de normas de utilização do mesmo e demais meios informáticos;\n\nm) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O NI é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, diretamente dependente do diretor regional, designado, para o efeito, por despacho deste, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "165200720": {
+   "fragment_id": "165200648",
+   "type": 3,
+   "heading": "Subsecção VI — Direção Regional da Cooperação com o Poder Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção VI — Direção Regional da Cooperação com o Poder Local"
+  },
+  "165200721": {
+   "fragment_id": "165200649",
+   "type": 11,
+   "heading": "Artigo 41.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Natureza e missão\n\n1 - A Direção Regional da Cooperação com o Poder Local, doravante designada por DRCPL, é o serviço executivo da VPGR com competências em matéria de administração local e assuntos eleitorais.\n\n2 - A DRCPL tem por missão, nas matérias da sua competência, estudar, propor, executar, coordenar, acompanhar, avaliar e fiscalizar a aplicação das políticas do Governo Regional, com o objetivo de promover a cooperação e o trabalho conjunto entre as administrações regional e local, a favor do desenvolvimento dos municípios e freguesias, bem como assegurar a gestão e coordenação de todos os projetos e processos que os concretizem.\n\n3 - A DRCPL é dirigida por um diretor regional, cargo de direção superior de 1.º grau."
+  },
+  "165200722": {
+   "fragment_id": "165200650",
+   "type": 11,
+   "heading": "Artigo 42.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Competências\n\n1 - À DRCPL compete:\n\na) Promover o desenvolvimento de novas formas e instrumentos de cooperação entre o Governo Regional e as autarquias locais;\n\nb) Realizar estudos que possibilitem a formação e o aprofundamento de conhecimentos sobre as autarquias locais da Região Autónoma dos Açores e das suas expetativas de evolução e desenvolvimento;\n\nc) Apoiar as autarquias locais nos domínios da cooperação técnica e financeira, do ordenamento do território, jurídico e de gestão;\n\nd) Promover a articulação entre o Governo Regional e as autarquias locais, nomeadamente gerindo e, ou, coordenando a execução dos projetos de cooperação e o trabalho conjunto das administrações regional e local;\n\ne) Executar, em matéria de recenseamento e eleições, as funções atribuídas por lei ao Governo Regional;\n\nf) Propor, no âmbito das suas competências, a realização de inspeções, inquéritos e sindicâncias aos órgãos e serviços da administração local, bem como tomar conhecimento dos relatórios elaborados pelas inspeções regionais;\n\ng) Emitir pareceres com vista a habilitar a tomada de posição do Vice-Presidente do Governo Regional sobre acordos a celebrar com as câmaras municipais e juntas de freguesia da Região Autónoma dos Açores;\n\nh) Exercer as demais competências que lhe sejam cometidas por lei e por outros atos normativos.\n\n2 - Para a prossecução das competências genericamente referidas no número anterior, e quando o caráter multidisciplinar das atividades a desenvolver o justifique, podem ser criados grupos de trabalho constituídos por trabalhadores afetos à DRCPL.\n\n3 - O diretor regional a que se refere o n.º 3 do artigo anterior pode, nos termos da legislação aplicável, delegar competências nos dirigentes da DRCPL."
+  },
+  "165200723": {
+   "fragment_id": "165200651",
+   "type": 11,
+   "heading": "Artigo 43.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Estrutura\n\nA DRCPL integra a Direção de Serviços de Apoio às Autarquias Locais."
+  },
+  "165200724": {
+   "fragment_id": "165200652",
+   "type": 11,
+   "heading": "Artigo 44.º — Direção de Serviços de Apoio às Autarquias Locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Direção de Serviços de Apoio às Autarquias Locais\n\n1 - À Direção de Serviços de Apoio às Autarquias Locais, doravante designada por DSAAL, compete:\n\na) Propor, colaborar na elaboração e, ou, emitir parecer sobre iniciativas legislativas regionais em matérias respeitantes à administração local;\n\nb) Apreciar as propostas de diplomas emanadas dos órgãos de soberania nacionais com incidência autárquica;\n\nc) Exercer funções de consultadoria jurídica nas áreas de atuação das autarquias locais, designadamente coordenando e sistematizando as informações e pareceres jurídicos prestados sobre matérias relacionadas com a administração local autárquica, possibilitando às autarquias locais a respetiva uniformidade interpretativa;\n\nd) Apoiar as autarquias locais na estruturação orgânica dos serviços e na elaboração de projetos de estatutos, regulamentos e posturas municipais;\n\ne) Apreciar propostas de alteração dos limites das circunscrições das autarquias locais e de criação ou extinção de autarquias na Região Autónoma dos Açores;\n\nf) Assegurar a instrução da fase administrativa dos processos de declaração de utilidade pública das expropriações, pedidos de reversão e constituição de servidões administrativas formulados por municípios ou outras entidades que exerçam esta competência municipal;\n\ng) Elaborar minutas de contratos e apreciar as minutas de acordos, no âmbito da cooperação técnico-financeira, entre a administração regional e as autarquias locais, bem como apreciar minutas de contratos, acordos, protocolos ou de quaisquer outros atos jurídicos estabelecidos entre aquelas;\n\nh) Promover ações de informação e capacitação para eleitos locais e trabalhadores;\n\ni) Elaborar documentos, designadamente publicações, manuais de apoio à atuação quotidiana dos autarcas e trabalhadores das autarquias locais, em cumprimento do dever de prossecução do interesse público e respeito pelos direitos e interesses legalmente protegidos dos cidadãos;\n\nj) Promover a elaboração de estudos relativos à temática da administração local que contribuam, nomeadamente, para o bom funcionamento dos órgãos autárquicos e da sua divulgação;\n\nk) Elaborar, recolher, tratar e difundir informação jurídica com interesse na área das autarquias locais;\n\nl) Proceder à identificação e análise de questões legais relacionadas com as autarquias locais, disponibilizando, através da Internet, as respostas às questões mais frequentes;\n\nm) Promover, participar e colaborar na realização de encontros técnicos, com o objetivo de analisar e discutir as temáticas da administração local, de forma a proceder ao diagnóstico de problemas e ao estudo das respetivas soluções;\n\nn) Constituir e manter atualizada uma base de dados com registo dos eleitos locais na Região Autónoma dos Açores;\n\no) Apoiar os municípios no âmbito dos programas territoriais intermunicipais e dos planos territoriais, bem como dar cumprimento às demais disposições previstas em legislação específica sobre a matéria;\n\np) Promover e coordenar a articulação entre os diversos intervenientes no processo de elaboração e acompanhamento dos programas territoriais intermunicipais, dos planos diretores intermunicipais e dos planos diretores municipais;\n\nq) Desenvolver e manter uma plataforma eletrónica de registo dos planos diretores municipais e outros instrumentos de gestão territorial, relativamente aos quais a DRCPL exerça competências previstas em legislação, que suporte a execução e gestão das correspondentes ações de acompanhamento, depósito, ou outras, e que disponibilize informação sobre os mesmos;\n\nr) Promover boas práticas e normalização de procedimentos e entendimentos em matéria de ordenamento do território, especialmente sobre planos territoriais, sobretudo planos diretores municipais, preparando e divulgando documentação técnica de apoio aos municípios, designadamente através da plataforma eletrónica referida na alínea anterior;\n\ns) Participar em comissões ou grupos de trabalho, constituídos no âmbito do ordenamento do território e áreas afins;\n\nt) Executar, em matéria de eleições, as funções atribuídas por lei ao Governo Regional, designadamente o apoio jurídico e logístico à preparação de processos eleitorais, operações de escrutínio e divulgação dos resultados eleitorais, bem como assegurar a necessária articulação e colaboração com outras entidades competentes na matéria;\n\nu) Promover ações de divulgação e esclarecimento junto dos eleitores, comissões recenseadoras e órgãos autárquicos;\n\nv) Estudar e propor a definição de critérios e de procedimentos relativos à cooperação técnico-financeira entre a administração regional autónoma e a administração local;\n\nw) Emitir pareceres com vista a habilitar a tomada de posição do Vice-Presidente do Governo Regional sobre os contratos de desenvolvimento entre a administração regional autónoma e a administração local, previstos no Decreto Legislativo Regional n.º 32/2002/A, de 8 de agosto, que estabelece o regime de cooperação técnica e financeira entre a administração regional e a administração local, na sua redação em vigor, e de outros acordos de cooperação a celebrar com municípios e freguesias da Região Autónoma dos Açores;\n\nx) Coordenar a preparação do Plano Regional Anual e das Orientações de Médio Prazo, no que respeita às ações atribuídas à DRCPL, inseridas no Programa da VPGR;\n\ny) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DSAAL é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - A DSAAL integra a Divisão de Projetos e Finanças Locais."
+  },
+  "165200725": {
+   "fragment_id": "165200653",
+   "type": 11,
+   "heading": "Artigo 45.º — Divisão de Projetos e Finanças Locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Divisão de Projetos e Finanças Locais\n\n1 - À Divisão de Projetos e Finanças Locais, doravante designada por DPFL, compete:\n\na) Identificar oportunidades de cooperação entre a administração regional autónoma e a administração local, promover o desenvolvimento dos seus instrumentos regulamentares e financeiros, bem como gerir a sua implementação;\n\nb) Prestar apoio técnico aos municípios e freguesias na área das finanças locais, procedendo ao estudo e divulgação de novos diplomas e ao esclarecimento de questões relativas à aplicação da legislação vigente em matéria financeira das autarquias locais;\n\nc) Assegurar o processamento e transferência de verbas previstas no Orçamento do Estado, no âmbito da Lei das Finanças Locais;\n\nd) Prestar apoio técnico na área da contabilidade autárquica, esclarecendo dúvidas colocadas e analisando os documentos previsionais e de prestação de contas anuais das autarquias locais;\n\ne) Colaborar com a Direção-Geral das Autarquias Locais, designadamente validando a informação inserida pelos municípios em aplicação informática daquele organismo, e colaborando com outras entidades na elaboração de documentos com informação sobre os municípios e freguesias da Região;\n\nf) Participar em reuniões de trabalho e na elaboração de documentos técnicos, no âmbito de grupos de trabalho de acompanhamento da contabilidade autárquica e das finanças locais;\n\ng) Elaborar os relatórios anuais das finanças locais na Região Autónoma dos Açores sobre a execução e situação financeira e patrimonial das autarquias locais;\n\nh) Analisar as candidaturas de projetos municipais à cooperação financeira, bem como acompanhar a execução física e financeira dos mesmos;\n\ni) Apreciar os pedidos de apoio financeiro das freguesias e acompanhar a sua execução;\n\nj) Assegurar o processamento de verbas, no âmbito da legislação regional vigente, sobre cooperação financeira ou outra que atribua à DRCPL a responsabilidade de transferência de verbas para as autarquias locais;\n\nk) Preparar e acompanhar a execução dos orçamentos de investimento e de funcionamento da DRCPL, e elaborar os relatórios internos e os documentos de prestação de contas;\n\nl) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DPFL é dirigida por um chefe de divisão, cargo de direção intermédia de 2.º grau."
+  },
+  "165200726": {
+   "fragment_id": "165200654",
+   "type": 3,
+   "heading": "Subsecção VII — Direção Regional das Comunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção VII — Direção Regional das Comunidades"
+  },
+  "165200727": {
+   "fragment_id": "165200655",
+   "type": 11,
+   "heading": "Artigo 46.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Natureza e missão\n\n1 - A Direção Regional das Comunidades, doravante designada por DRCom, é o serviço executivo da VPGR com competência em matéria de comunidades, emigração e imigração.\n\n2 - A DRCom tem por missão, nas matérias da sua competência, estudar, propor, executar, coordenar, acompanhar, avaliar e fiscalizar a aplicação das políticas do Governo Regional, com o objetivo de reforçar os laços sociais, culturais e económicos das comunidades açorianas com a Região e garantir a plena integração dos açorianos e seus descendentes nas comunidades onde residem.\n\n3 - A DRCom é dirigida por um diretor regional, cargo de direção superior de 1.º grau."
+  },
+  "165200728": {
+   "fragment_id": "165200656",
+   "type": 11,
+   "heading": "Artigo 47.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Competências\n\n1 - À DRCom compete:\n\na) Coadjuvar e apoiar o Vice-Presidente do Governo Regional na formulação e concretização das políticas para o setor, propondo planos, programas e projetos, de acordo com os objetivos e prioridades de ação;\n\nb) Executar a política definida para o setor;\n\nc) Elaborar propostas de orçamento e plano anual regional, bem como das orientações de médio prazo;\n\nd) Implementar mecanismos de coordenação internacional, regional e intersetorial, no que concerne às políticas do setor;\n\ne) Participar, em representação da Região Autónoma dos Açores, nas diferentes organizações, conferências ou reuniões onde, direta ou indiretamente, sejam tratadas questões de emigração e, ou, imigração;\n\nf) Propor medidas que promovam a divulgação da atualidade dos Açores junto dos cidadãos emigrados e imigrados, das suas associações e dos seus representantes políticos;\n\ng) Promover o associativismo na diáspora;\n\nh) Promover a participação dos açorianos radicados no estrangeiro e dos seus descendentes nas ações que visem os objetivos da DRCom, bem como os interesses daqueles;\n\ni) Promover formas de cooperação e assistência com outras entidades, públicas ou privadas, nacionais ou estrangeiras, ligadas à emigração e, ou, imigração;\n\nj) Desenvolver programas e ações que visem a preservação da identidade cultural, a integração dos migrantes nas sociedades de acolhimento e a interculturalidade;\n\nk) Participar nos estudos preparatórios, elaboração e, ou, reformulação da legislação nas matérias da sua competência;\n\nl) Apoiar ações na Região Autónoma dos Açores e nas comunidades açorianas que visem a concretização de projetos, estudos e eventos nas áreas da preservação da identidade cultural e da interculturalidade, através de apoios financeiros e, ou, outros;\n\nm) Garantir a divulgação de informação sobre a Região Autónoma dos Açores junto das comunidades açorianas e dos imigrantes;\n\nn) Garantir assistência, no âmbito da sua área de intervenção, no que concerne aos candidatos à emigração, dos emigrados regressados e dos imigrantes, e promover a criação de sistemas de informação;\n\no) Promover, coordenar, desenvolver e divulgar estudos da área das migrações, nas suas múltiplas vertentes;\n\np) Garantir o acolhimento dos emigrados regressados compulsivos;\n\nq) Fomentar a realização de ações junto das escolas de ensino de língua portuguesa nas comunidades de origem açoriana, de forma a preservar a língua portuguesa e a cultura açoriana na diáspora;\n\nr) Exercer as demais competências que lhe sejam cometidas por lei e por outros atos normativos.\n\n2 - Para a prossecução das competências genericamente referidas no número anterior, e quando o caráter multidisciplinar das atividades a desenvolver o justifique, podem ser criados grupos de trabalho constituídos por trabalhadores afetos à DRCom.\n\n3 - O diretor regional a que se refere o n.º 3 do artigo anterior pode, nos termos da legislação aplicável, delegar competências nos dirigentes da DRCom."
+  },
+  "165200729": {
+   "fragment_id": "165200657",
+   "type": 11,
+   "heading": "Artigo 48.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Estrutura\n\nA DRCom integra a Direção de Serviços das Comunidades e Migrações."
+  },
+  "165200730": {
+   "fragment_id": "165200658",
+   "type": 11,
+   "heading": "Artigo 49.º — Direção de Serviços das Comunidades e Migrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Direção de Serviços das Comunidades e Migrações\n\n1 - À Direção de Serviços das Comunidades e Migrações, doravante designada por DSCM, compete:\n\na) Assistir tecnicamente o diretor regional, fornecendo-lhe análises e informações, habilitando-o com outros instrumentos necessários à definição, coordenação e execução das políticas definidas para o setor;\n\nb) Colaborar na implementação de mecanismos de coordenação internacional, regional e intersetorial para as políticas do setor;\n\nc) Apoiar na elaboração das propostas de orçamento e plano anual regional, bem como das orientações de médio prazo;\n\nd) Participar em grupos, equipas técnicas de trabalho, comissões, conselhos consultivos ou outros órgãos ligados às temáticas da emigração e imigração e (re)integração social dos emigrados, emigrados regressados e imigrantes;\n\ne) Implementar ações que promovam a divulgação da atualidade dos Açores junto dos cidadãos emigrados e imigrados, das suas associações e dos seus representantes políticos;\n\nf) Acompanhar ações de promoção do associativismo na diáspora;\n\ng) Promover a participação dos açorianos residentes no estrangeiro e dos seus descendentes nas ações que visem os objetivos da DRCom, bem como os interesses daqueles;\n\nh) Assegurar a realização de intercâmbios nas áreas de atuação da DRCom;\n\ni) Assegurar formas de cooperação e assistência com outras entidades, públicas ou privadas, nacionais ou estrangeiras, ligadas à emigração e, ou, imigração;\n\nj) Promover a realização de programas e ações tendentes à preservação da identidade cultural, à integração dos migrantes nas sociedades de acolhimento e à interculturalidade;\n\nk) Assistir na realização de estudos preparatórios, elaboração e, ou, reformulação da legislação, nas matérias de competência da DRCom;\n\nl) Apoiar na realização de ações na Região Autónoma dos Açores e nas comunidades açorianas que visem a concretização de projetos, estudos e eventos nas áreas da preservação da identidade cultural e da interculturalidade, através da apreciação dos mesmos e da apresentação de propostas de concessão de apoios financeiros ou outros;\n\nm) Assegurar o circuito informativo entre a Região Autónoma dos Açores e as comunidades emigradas e imigradas;\n\nn) Promover a assistência, no âmbito da sua área de intervenção, no que concerne aos candidatos à emigração, dos emigrados regressados e dos imigrantes e promover a criação de sistemas de informação;\n\no) Coordenar, desenvolver e divulgar estudos na área das migrações, nas múltiplas vertentes;\n\np) Assegurar o circuito informativo entre a Região Autónoma dos Açores e os organismos dos países de acolhimento que garantam o regresso dos emigrados regressados compulsivos;\n\nq) Colaborar em ações junto dos estabelecimentos de ensino de língua portuguesa nas comunidades de origem açoriana, de forma a preservar a língua portuguesa e a cultura açoriana na diáspora;\n\nr) Estudar e garantir a implementação de técnicas de simplificação, modernização e racionalização dos circuitos e procedimentos informativos e administrativos;\n\ns) Realizar todos os atos necessários à avaliação e normal desenvolvimento do serviço;\n\nt) Garantir a tradução e retroversão de trabalhos em língua estrangeira da DRCom;\n\nu) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A DSCM é dirigida por um diretor de serviços, cargo de direção intermédia de 1.º grau.\n\n3 - A DSCM integra os serviços seguintes:\n\na) O Núcleo de Apoio às Comunidades;\n\nb) O Núcleo de Apoio às Migrações;\n\nc) A Secção de Pessoal, Expediente, Arquivo e Documentação;\n\nd) A Secção de Contabilidade e Património."
+  },
+  "165200731": {
+   "fragment_id": "165200659",
+   "type": 11,
+   "heading": "Artigo 50.º — Núcleo de Apoio às Comunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Núcleo de Apoio às Comunidades\n\n1 - Ao Núcleo de Apoio às Comunidades, doravante designado por NAC, compete:\n\na) Emitir pareceres e sugestões e efetuar estudos sobre as áreas que lhe estão acometidas;\n\nb) Desenvolver, dinamizar e apoiar um conjunto de ações tendentes a prosseguir os objetivos superiormente definidos para a preservação da identidade cultural nas comunidades açorianas no exterior e nas comunidades imigrantes na Região;\n\nc) Coadjuvar na participação em grupos, equipas técnicas de trabalho, comissões, conselhos consultivos ou outros órgãos que lhe sejam superiormente determinados;\n\nd) Criar e dinamizar formas de cooperação e assistência com outras entidades, públicas ou privadas, nacionais ou estrangeiras, ligadas à preservação da identidade cultural, nos termos dos protocolos e acordos celebrados, bem como acompanhar e avaliar o trabalho das mesmas;\n\ne) Organizar e acompanhar encontros, seminários e outras ações e programas que se proponham a preservar a identidade cultural e a promover a interculturalidade, quer das comunidades emigradas quer das comunidades imigradas;\n\nf) Apoiar na apreciação de projetos na área da preservação da identidade cultural, bem como garantir o acompanhamento na respetiva execução;\n\ng) Garantir o circuito informativo e a divulgação de informação pertinente no seio das comunidades imigradas e entre a Região e as entidades da diáspora;\n\nh) Promover e divulgar estudos junto das comunidades emigradas e imigradas;\n\ni) Realizar ações de forma a preservar a língua portuguesa e a cultura açoriana nas diversas comunidades;\n\nj) Apoiar ações que promovam a divulgação da atualidade dos Açores na diáspora junto dos cidadãos emigrados, associações, movimentos sociais e representantes políticos;\n\nk) Propor e acompanhar ações de promoção do associativismo;\n\nl) Propor e acompanhar ações de sensibilização para a importância da participação cívica nas comunidades de acolhimento;\n\nm) Desenvolver esforços para a participação dos açorianos residentes no estrangeiro e dos seus descendentes nas ações que visem a preservação da identidade cultural, bem como a realização de intercâmbios;\n\nn) Recolher, analisar, tratar e difundir a documentação e a informação necessárias à atividade da DRCom;\n\no) Elaborar e manter atualizado o inventário e cadastro documental e bibliográfico;\n\np) Detetar e relatar as necessidades encontradas ao nível da identidade cultural e elaborar estatísticas;\n\nq) Assegurar a avaliação e normal desenvolvimento do serviço;\n\nr) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O NAC é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do diretor regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "165200732": {
+   "fragment_id": "165200660",
+   "type": 11,
+   "heading": "Artigo 51.º — Núcleo de Apoio às Migrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Núcleo de Apoio às Migrações\n\n1 - Ao Núcleo de Apoio às Migrações, doravante designado por NAM, compete:\n\na) Analisar e diagnosticar as necessidades sociais dos migrantes utentes do serviço, procedendo, se necessário, ao seu encaminhamento para outras instituições;\n\nb) Emitir pareceres e sugestões e efetuar estudos sobre as ações que lhe estão acometidas;\n\nc) Desenvolver, dinamizar e apoiar ações tendentes a prosseguir os objetivos superiormente definidos para a (re)integração social dos emigrados regressados à Região e dos imigrantes;\n\nd) Acompanhar, assistir e apoiar as organizações sediadas nas comunidades e na Região, promovendo e desencadeando mecanismos de cooperação para a integração social dos emigrados, emigrados regressados e imigrantes;\n\ne) Coadjuvar na participação em grupos, equipas técnicas de trabalho, comissões, conselhos consultivos ou outros órgãos de algum modo ligados às temáticas das migrações e da (re)integração social dos emigrados regressados;\n\nf) Criar e dinamizar formas de cooperação e assistência com outras entidades, públicas ou privadas, nacionais ou estrangeiras, ligadas às migrações e (re)integração dos emigrados, emigrados regressados e imigrantes, nos termos dos protocolos e acordos celebrados, bem como acompanhar o trabalho das mesmas;\n\ng) Organizar, propor e acompanhar a realização de encontros, seminários, estudos, programas e ações tendentes à (re)integração dos emigrados, emigrados regressados e imigrantes, bem como de ações de promoção da interculturalidade;\n\nh) Promover o relacionamento institucional entre entidades ligadas às migrações e à integração dos emigrados, emigrados regressados e imigrantes;\n\ni) Apoiar na apreciação de projetos na área das migrações e da integração dos emigrados, emigrados regressados e imigrantes, bem como de ações de promoção da interculturalidade, garantindo o respetivo acompanhamento na sua execução;\n\nj) Prestar assistência aos candidatos a emigrantes, emigrados regressados e imigrantes;\n\nk) Garantir o circuito informativo no que concerne aos processos de migração, designadamente os referentes ao emigrado, emigrado regressado e imigrante;\n\nl) Detetar e relatar as necessidades encontradas, promovendo medidas, bem como elaborando estatísticas;\n\nm) Realizar a tradução e retroversão de trabalhos em língua estrangeira;\n\nn) Assegurar a avaliação e normal desenvolvimento do serviço;\n\no) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - O NAM é coordenado por um trabalhador com vínculo de emprego público por tempo indeterminado, designado, para o efeito, através de despacho do diretor regional, nos termos do disposto no artigo 7.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "165200733": {
+   "fragment_id": "165200661",
+   "type": 11,
+   "heading": "Artigo 52.º — Secção de Pessoal, Expediente, Arquivo e Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Secção de Pessoal, Expediente, Arquivo e Documentação\n\n1 - À Secção de Pessoal, Expediente, Arquivo e Documentação, doravante designada por SPEAD, compete:\n\na) Organizar e manter atualizado um sistema centralizado de cadastro e registo biográfico do pessoal, bem como assegurar o expediente inerente à administração do pessoal da DRCom;\n\nb) Garantir a organização dos processos de avaliação de desempenho;\n\nc) Assegurar a organização e instrução dos processos de recrutamento e seleção, movimento e cadastro de pessoal, instruindo os respetivos processos individuais e executando o necessário expediente;\n\nd) Executar as ações necessárias à organização e instrução dos processos referentes às várias fases e aspetos da vida profissional do pessoal, desde a admissão à aposentação;\n\ne) Emitir certidões, cartões de identificação e outros documentos que lhe sejam superiormente autorizados;\n\nf) Assegurar os procedimentos administrativos respeitantes à efetividade, segurança e benefícios sociais do pessoal;\n\ng) Apoiar administrativamente os restantes serviços da DRCom;\n\nh) Garantir o carregamento, tratamento e verificação de todos os elementos necessários ao processamento de vencimentos, horas extraordinárias, abonos, subsídios, ajudas de custo ou quaisquer outros encargos com pessoal, organizando e instruindo os respetivos processos;\n\ni) Proceder ao controlo de assiduidade e pontualidade do pessoal e zelar pelo cumprimento da legislação em matéria de férias, faltas e licenças;\n\nj) Assegurar todos os procedimentos administrativos relativos a assuntos de expediente geral e gestão corrente nas áreas de apoio logístico;\n\nk) Coordenar as atividades dos trabalhadores assistentes operacionais;\n\nl) Organizar e manter atualizados os ficheiros da documentação existente, ou outros, necessários ao bom funcionamento do serviço;\n\nm) Estudar e propor normas tendentes à uniformização da classificação de documentos e respetivos prazos de conservação e destruição;\n\nn) Organizar e manter o arquivo histórico e o arquivo corrente e apoiar tecnicamente, nessa área, os restantes serviços;\n\no) Organizar e manter o arquivo geral, bem como a legislação e toda a restante documentação da DRCom que lhe seja confiada em condições de fácil consulta e permanente atualização;\n\np) Organizar o processo de formação do pessoal da DRCom e fazer a divulgação por todos os serviços da DRCom das ações de formação, cursos e seminários a realizar;\n\nq) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A SPEAD é coordenada por um coordenador técnico, da carreira de assistente técnico."
+  },
+  "165200734": {
+   "fragment_id": "165200662",
+   "type": 11,
+   "heading": "Artigo 53.º — Secção de Contabilidade e Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Secção de Contabilidade e Património\n\n1 - À Secção de Contabilidade e Património, doravante designada por SCP, compete:\n\na) Assegurar todas as operações relativas à contabilidade e gestão dos recursos financeiros da DRCom;\n\nb) Verificar os documentos de despesa e organizar os respetivos processos, garantindo a sua conformidade;\n\nc) Processar os vencimentos e demais abonos de pessoal;\n\nd) Preparar a proposta de orçamento e plano anual regional e das orientações a médio prazo da DRCom;\n\ne) Elaborar a proposta de transferências e divisões de verbas a realizar no orçamento e plano da DRCom;\n\nf) Controlar e assegurar a execução do orçamento, orientando e uniformizando procedimentos e controlo das despesas resultantes da execução orçamental;\n\ng) Elaborar balanços e relatórios financeiros;\n\nh) Inventariar, organizar e manter atualizado o cadastro do património afeto à DRCom, garantindo a sua conservação, guarda e administração;\n\ni) Propor e, ou, apoiar os processos de consulta e concursos com vista às necessárias aquisições de equipamento e prestações de serviços;\n\nj) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade.\n\n2 - A SCP é coordenada por um coordenador técnico, da carreira de assistente técnico."
+  },
+  "165200735": {
+   "fragment_id": "165200663",
+   "type": 8,
+   "heading": "Secção II — Serviços executivos periféricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços executivos periféricos"
+  },
+  "165200736": {
+   "fragment_id": "165200664",
+   "type": 11,
+   "heading": "Artigo 54.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Natureza e missão\n\n1 - Os serviços de ilha são os serviços executivos periféricos da VPGR.\n\n2 - Os serviços de ilha têm por missão, no âmbito das respetivas áreas geográficas de atuação, executar as políticas da VPGR nas matérias da sua competência.\n\n3 - Os serviços de ilha são dirigidos por coordenadores, cargos de direção específica de 1.º grau, nomeados em comissão de serviço, por despacho do Vice-Presidente do Governo Regional, nos termos do disposto no artigo 6.º do Estatuto do Pessoal Dirigente dos Serviços e Organismos da Administração Regional."
+  },
+  "165200737": {
+   "fragment_id": "165200665",
+   "type": 11,
+   "heading": "Artigo 55.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Estrutura\n\nA VPGR integra os serviços de ilha seguintes:\n\na) Serviço de Ilha do Corvo;\n\nb) Serviço de Ilha das Flores;\n\nc) Serviço de Ilha do Faial;\n\nd) Serviço de Ilha do Pico;\n\ne) Serviço de Ilha de São Jorge;\n\nf) Serviço de Ilha da Graciosa;\n\ng) Serviço de Ilha de Santa Maria."
+  },
+  "165200738": {
+   "fragment_id": "165200666",
+   "type": 11,
+   "heading": "Artigo 56.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Competências\n\nCompete aos serviços de ilha:\n\na) Representar a VPGR;\n\nb) Assegurar, em colaboração com os serviços centrais, a execução da política e dos objetivos nas matérias correspondentes às atribuições da VPGR;\n\nc) Apoiar os serviços centrais no exercício das suas competências;\n\nd) Manter um conhecimento adequado das realidades e necessidades da sua área geográfica, com vista à respetiva integração nos objetivos definidos para as diversas áreas de atuação da VPGR;\n\ne) Colaborar na recolha e divulgação de informação, no âmbito das suas competências;\n\nf) Encaminhar documentos, reclamações e outros requerimentos que lhes sejam apresentados;\n\ng) Prestar o apoio logístico e administrativo que lhe for superiormente determinado;\n\nh) Executar as competências de natureza operativa da VPGR, no âmbito das respetivas áreas de atuação, cumprindo as orientações que sejam transmitidas pelo Vice-Presidente do Governo Regional;\n\ni) Prestar apoio a outros serviços ou organismos integrantes ou dependentes da VPGR, nos termos superiormente determinados;\n\nj) Assegurar a realização de outras tarefas que, no âmbito da sua área de competências, lhe sejam distribuídas ou cometidas à sua responsabilidade."
+  },
+  "165200739": {
+   "fragment_id": "165200667",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal afeto à VPGR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal afeto à VPGR"
+  },
+  "165200740": {
+   "fragment_id": "165200668",
+   "type": 11,
+   "heading": "Artigo 57.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Pessoal\n\nO pessoal afeto à VPGR consta dos quadros regionais de ilha em vigor."
+  },
+  "165200741": {
+   "fragment_id": "165200669",
+   "type": 11,
+   "heading": "Artigo 58.º — Carreira de técnico de operações aeroportuárias da Aerogare Civil das Lajes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Carreira de técnico de operações aeroportuárias da Aerogare Civil das Lajes\n\nO regime jurídico da carreira de técnico de operações aeroportuárias da Aerogare Civil das Lajes encontra-se previsto no Decreto Regulamentar Regional n.º 7/2020/A, de 19 de fevereiro."
+  },
+  "165200742": {
+   "fragment_id": "165200670",
+   "type": 14,
+   "heading": "ANEXO II — Quadro de pessoal dirigente, de direção específica e de chefia da Vice-Presidência do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II — Quadro de pessoal dirigente, de direção específica e de chefia da Vice-Presidência do Governo Regional\n\n(a que se refere o artigo 1.º)\n\n(ver documento original)\n\n114302472"
+  }
+ }
+}

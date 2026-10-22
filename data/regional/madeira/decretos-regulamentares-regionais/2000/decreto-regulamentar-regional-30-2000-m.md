@@ -1,0 +1,528 @@
+---
+schema_version: '1.0'
+id: pt:dre:275831:por
+title: Decreto Regulamentar Regional n.º 30/2000/M
+short_title: null
+summary: Altera a estrutura orgânica do Centro Regional de Saúde
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 30/2000/M
+official_date: null
+publication_date: '2000-05-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/2000, Série I-B de 2000-05-05
+  number: '104'
+  series: I
+  supplement: null
+  pages: 1848 - 1853
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/05/104b00/18481853.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/30/2000/05/05/m/dre/pt/html
+  oj: null
+  dre: '275831'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/30-2000-275831
+  internal: pt:dre:275831:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2000-275831
+  metadata_url: https://data.dre.pt/eli/decregulreg/30/2000/05/05/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2000-275831
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-05-12T00:00:00Z'
+integrity:
+  source_sha256: bc515b9f510edd4dec8b32c4a463d305dd7b342295005c227b97f34a6f3bfa49
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2000/DRE-2000-30-275831.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Regional de Saúde
+- Pessoal Dirigente
+- Orgânica
+- Madeira.região Autónoma
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:545187:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/404-a/1998/12/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/23/1999/08/26/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/10/1995/05/04/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/10/1995/05/04/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/27/1992/09/24/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/27/1992/09/24/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/5/1998/04/04/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/5/1998/04/04/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/44/1999/06/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/173/1998/03/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/173/1998/03/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/420/1993/04/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/420/1993/04/21/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 30/2000/M
+
+Alteração da estrutura orgânica do Centro Regional de Saúde
+
+O [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro, aprovou a estrutura orgânica e o funcionamento do Serviço Regional de Saúde da RAM, incluindo a estrutura do Centro Regional de Saúde.
+
+Com a publicação do [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 28 de Agosto, tornou-se premente proceder à execução do disposto no seu artigo 21.º, criando a categoria de chefe de departamento na estrutura orgânica do Centro Regional de Saúde.
+
+Acresce que, volvidos alguns anos sobre a sua aprovação, importa ajustá-la às novas exigências da prestação de cuidados de saúde, o que envolve a criação de uma divisão de nutrição, por forma a promover o planeamento, controlo e avaliação de uma alimentação racional, ao nível do indivíduo e da comunidade.
+
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 5 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, revisto pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e do [Decreto Legislativo Regional n.º 23/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1999-428651), de 26 de Agosto, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 28.º, 29.º, 30.º e 31.º do [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro, com a redacção dada pelos Decretos Regulamentares Regionais n.os [10/95/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1995-512983), de 4 de Maio, e [5/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1998-167041), de 4 de Abril, e pela [Portaria n.º 420/93](https://diariodarepublica.pt/dr/detalhe/portaria/420-1993-692858), de 19 de Novembro, são alterados e passam a ter a seguinte redacção:
+
+«Artigo 28.º
+
+Órgãos de direcção técnica e de apoio técnico
+
+1 - ...
+
+a) ...
+
+b) ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Divisão de Nutrição.
+
+3 - ...
+
+###### Artigo 29.º — Órgãos de gestão
+
+1 - ...
+
+2 - ...
+
+2.1 - ...
+
+a) ...
+
+b) ...
+
+2.2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+6 - ...
+
+7 - ...
+
+7.1 - A Direcção de Serviços de Administração integra os seguintes serviços e departamentos:
+
+a) Divisão de Administração e Gestão de Pessoal;
+
+b) Departamentos de Gestão Patrimonial;
+
+c) Departamento de Aprovisionamento;
+
+7.2 - A Divisão de Administração e Gestão de Pessoal integra os seguintes departamentos:
+
+a) Departamento de Gestão de Recursos Humanos;
+
+b) Departamento de Expediente.
+
+8 - A Direcção de Serviços Financeiros integra a Divisão de Gestão Financeira, que inclui o Departamento de Gestão Financeira.
+
+9 - A Direcção de Serviços de Acordos e Convenções integra a Divisão de Entidades Convencionadas, que inclui o Departamento de Acordos e Convenções.
+
+10 - ...
+
+a) A Divisão de Relações Públicas e Documentação, que integra o Departamento de Documentação e Divulgação;
+
+b) ...
+
+c) ...
+
+d) ...
+
+11 - O Centro Regional de Saúde tem um Departamento de Reembolsos e um Departamento de Encaminhamento de Doentes, que actuam na dependência directa do conselho de administração.
+
+12 - (Actual n.º 11.)
+
+###### Artigo 30.º — Órgãos de direcção dos centros de saúde
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - Nos centros de saúde são criados os seguintes departamentos:
+
+a) Departamento de Gestão e Coordenação Administrativa do Concelho do Funchal - Zona Urbana I;
+
+b) Departamento de Gestão e Coordenação Administrativa do Concelho do Funchal - Zona Urbana II;
+
+c) Departamento de Gestão e Coordenação Administrativa dos Centros de Saúde de Câmara de Lobos;
+
+d) Departamento de Gestão e Coordenação Administrativa dos Centros de Saúde de Ribeira Brava;
+
+e) Departamento de Gestão e Coordenação Administrativa dos Centros de Saúde de Calheta;
+
+f) Departamento de Gestão e Coordenação Administrativa dos Centros de Saúde de Santana;
+
+g) Departamento de Gestão e Coordenação Administrativa dos Centros de Saúde de Machico;
+
+h) Departamento de Gestão e Coordenação Administrativa dos Centros de Saúde de Santa Cruz;
+
+i) Departamento de Gestão e Coordenação Administrativa do Centro Dr. Agostinho Cardoso;
+
+j) Departamento de Gestão e Coordenação Administrativa do Centro de Tratamento da Toxicodependência e Saúde Mental.
+
+10 - Os departamentos de gestão e coordenação administrativa dos centros de saúde referidos nas alíneas a) a h) do número anterior são órgãos de apoio e de execução de cariz técnico-administrativo à direcção do centro de saúde, que têm por atribuições assegurar o apoio administrativo e técnico nas áreas de pessoal, expediente, financeira, arquivo, estatística, atendimento ao público e de gestão administrativa das consultas, a quem compete, em especial:
+
+a) Assegurar a informação necessária à correcta gestão de pessoal dos centros de saúde do respectivo concelho;
+
+b) Coordenar e controlar todas as actividades desenvolvidas pelas secretarias dos centros de saúde;
+
+c) Gerir e coordenar o pessoal das áreas administrativas, de apoio e vigilância e auxiliar dos centros de saúde do concelho;
+
+d) Assegurar o serviço de expediente geral e arquivo do centro de saúde;
+
+e) Dinamizar a recolha e tratamento de dados para fins estatísticos;
+
+f) Gerir o fundo de maneio do centro de saúde e gerir o sistema de reembolsos nos termos da lei;
+
+g) Dirigir e coordenar a gestão administrativa das consultas dos centros de saúde e a interligação, nessa matéria, com o Centro Hospitalar do Funchal;
+
+h) Coordenar as inscrições de utentes no serviço de urgência;
+
+i) Emitir cartões de utentes do Serviço Regional de Saúde;
+
+j) Propor a frequência de acções de formação pelos funcionários dos centros de saúde do concelho da sua área de actuação;
+
+k) Assegurar a realização de outras tarefas de apoio, que lhe sejam cometidas na respectiva área de actuação.
+
+11 - O Departamento de Gestão e Coordenação Administrativa do Centro Dr. Agostinho Cardoso é o órgão de apoio e de execução de cariz técnico-administrativo à direcção do Centro Dr. Agostinho Cardoso.
+
+12 - O Departamento de Gestão e Coordenação Administrativa do Centro de Tratamento da Toxicodependência e Saúde Mental é o órgão de apoio e de execução de cariz técnico-administrativo à direcção do Centro, que tem por atribuições assegurar o apoio administrativo e técnico nas áreas de pessoal, expediente, financeiro, arquivo, estatística, atendimento ao público e de gestão administrativa das consultas.
+
+13 - Aos Departamentos de Gestão e Coordenação do Centro Dr. Agostinho Cardoso e de Gestão e Coordenação do Centro de Tratamento da Toxicodependência e Saúde Mental compete, em especial:
+
+a) Assegurar a informação necessária à correcta gestão de pessoal do centro;
+
+b) Coordenar e controlar todas as actividades desenvolvidas pela secretaria;
+
+c) Assegurar o serviço de expediente geral e arquivo do respectivo centro;
+
+d) Dinamizar a recolha e tratamento de dados para fins estatísticos;
+
+e) Dirigir e coordenar a gestão administrativa das consultas;
+
+f) Assegurar a realização de outras tarefas de apoio que lhe sejam cometidas nas respectivas áreas de actuação.
+
+###### Artigo 31.º — Órgãos de direcção do Laboratório de Saúde Pública
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+2 - É criado o Departamento de Gestão e Coordenação Administrativa do Laboratório de Saúde Pública, que é o órgão de apoio e de execução de cariz técnico-administrativo ao Laboratório de Saúde Pública, que tem por atribuições assegurar o apoio administrativo e técnico nas áreas de pessoal, expediente, financeira, arquivo, estatística, atendimento ao público, a quem compete, em especial:
+
+a) Assegurar a informação necessária à correcta gestão de pessoal do Laboratório;
+
+b) Coordenar e controlar todas as actividades desenvolvidas pela secretaria do Laboratório;
+
+c) Assegurar o serviço de expediente geral e arquivo do Laboratório;
+
+d) Dinamizar a recolha e tratamento de dados para fins estatísticos;
+
+e) Dirigir e coordenar a gestão administrativa das marcações de exames laboratoriais;
+
+f) Assegurar a realização de outras tarefas de apoio que lhe sejam cometidas na respectiva área de actuação.»
+
+###### Artigo 2.º
+
+São aditados os artigos 29.º-A, 29.º-B, 29.º-C, 29.º-D, 29.º-E e 29.º-F ao [Decreto Regulamentar Regional n.º 27/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1992-232343), de 24 de Setembro:
+
+«Artigo 29.º-A
+
+Departamentos de Gestão Patrimonial, de Aprovisionamento, de Gestão de Recursos Humanos e de Expediente
+
+1 - O Departamento de Gestão Patrimonial é o órgão de apoio e de execução técnico-administrativo à Direcção de Serviços de Administração, que tem por atribuições assegurar o apoio técnico e administrativo na área de património, a quem compete, em especial:
+
+a) Organizar os processos de aquisição de equipamento e de empreitadas do Centro Regional de Saúde, de harmonia com a legislação aplicável;
+
+b) Gerir o património afecto ao funcionamento do Centro Regional de Saúde e velar pela sua conservação e segurança, promovendo as reparações necessárias;
+
+c) Organizar e manter actualizado o cadastro de bens do Centro Regional de Saúde.
+
+2 - O Departamento de Aprovisionamento é o órgão de apoio e de execução técnico-administrativo à Direcção de Serviços de Administração, que tem por atribuições assegurar o apoio técnico e administrativo na área de aprovisionamento, a quem compete, em especial:
+
+a) Organizar os processos de aquisição de bens e serviços necessários ao funcionamento do Centro Regional de Saúde, tendo em conta o binómio custo-qualidade;
+
+b) Promover as acções prévias necessárias à consulta e ao concurso para a aquisição de bens e serviços, nas modalidades e procedimentos legalmente impostos, e acompanhar os respectivos processos nas diferentes fases do seu desenvolvimento;
+
+c) Coordenar e controlar a actividade desenvolvida pelo armazém geral e pela Secção de Aquisições.
+
+3 - O Departamento de Gestão de Recursos Humanos é o órgão de apoio e de execução técnico-administrativo à Direcção de Serviços de Administração, que tem por atribuições assegurar o apoio administrativo e técnico na área de pessoal, a quem compete, em especial:
+
+a) Assegurar a informação necessária à correcta gestão do pessoal, submetendo a despacho os processos relativos a recrutamento, nomeação, progressão, assiduidade, aposentação e outros relativos ao pessoal do Centro Regional de Saúde;
+
+b) Manter actualizados os processos individuais de todo o pessoal;
+
+c) Proceder à estimativa anual das verbas a orçamentar em despesas com pessoal;
+
+d) Ordenar a publicação de anúncios, avisos e extractos de nomeação, exoneração ou demissão;
+
+e) Passar certidões e cópias autenticadas, quando autorizadas;
+
+f) Coordenar e controlar as actividades desenvolvidas pelas secções do Departamento.
+
+4 - O Departamento de Expediente é o órgão de apoio e de execução técnico-administrativo à Direcção de Serviços de Administração, que tem por atribuições assegurar o apoio técnico e administrativo na área do expediente, a quem compete, em especial:
+
+a) Assegurar o expediente geral do Centro Regional de Saúde;
+
+b) Superintender e assegurar a actividade inerente à classificação, circulação, expediente e arquivo de toda a correspondência;
+
+c) Passar certidões e cópias autenticadas, quando autorizadas;
+
+d) Coordenar e controlar a actividade desenvolvida pela Secção de Expediente;
+
+e) Assegurar a realização de outras tarefas de apoio aos serviços que lhe sejam cometidas.
+
+###### Artigo 29.º-B — Departamento de Gestão Financeira
+
+O Departamento de Gestão Financeira é o órgão de apoio e de execução técnico-administrativo à Direcção de Serviços Financeiros, que tem por atribuições assegurar o apoio técnico e administrativo na área financeira, a quem compete, em especial:
+
+a) Coordenar e controlar as actividades desenvolvidas pelas Secções de Contabilidade Executiva, Contabilidade Analítica e Tesouraria;
+
+b) Preparar o expediente e as informações necessárias sobre os assuntos da sua competência para despacho superior;
+
+c) Assegurar o recebimento de todas as receitas e o pagamento de todas as despesas devidamente autorizadas;
+
+d) Controlar o movimento de valores e comprovar o saldo das diversas contas;
+
+e) Elaborar projectos de orçamento e providenciar a elaboração de orçamento suplementares, quando necessários;
+
+f) Controlar os fundos de maneio atribuídos aos diferentes serviços;
+
+g) Organizar e manter actualizada a contabilidade;
+
+h) Proceder à centralização de todas as operações contabilísticas;
+
+i) Elaborar anualmente o balanço, conta de gerência e demais elementos complementares, de acordo com o plano de contas estabelecido, bem como o respectivo relatório;
+
+j) Organizar processos por dívidas e multas, quando a respectiva cobrança se efectuar de forma coerciva;
+
+k) Instruir processos relativos a despesas, informando quanto à legalidade das mesmas e respectivo cabimento;
+
+l) Prestar informação de cabimento orçamental;
+
+m) Desenvolver quaisquer outras acções de gestão financeira e assegurar, em geral, o normal funcionamento das secções que integra.
+
+###### Artigo 29.º-C — Departamento de Acordos e Convenções
+
+O Departamento de Acordos e Convenções é o órgão de apoio e de execução de cariz técnico-administrativo à Divisão de Entidades Convencionadas, que tem por atribuições assegurar o apoio técnico e administrativo na área dos acordos e convenções, a quem compete, em especial:
+
+a) Fazer cumprir todas as normas e regulamentos respeitantes aos acordos e convenções com prestadores e fornecedores;
+
+b) Esclarecer as dúvidas postas pelas entidades oficiais e privadas, relativamente aos acordos e convenções referidos na alínea anterior;
+
+c) Colaborar na elaboração de propostas de acordos e convenções;
+
+d) Promover a organização dos processos de prestadores de serviços, na área de meios complementares de diagnóstico e terapêutica, sua manutenção e actualização;
+
+e) Coordenar e controlar a actividade desenvolvida pelas secções.
+
+###### Artigo 29.º-D — Departamento de Documentação e Divulgação
+
+O Departamento de Documentação e Divulgação é o órgão de apoio e de execução de cariz técnico-administrativo à Divisão de Documentação e Divulgação, que tem por atribuições assegurar o apoio técnico e administrativo na área da documentação e divulgação, a quem compete, em especial:
+
+a) Promover campanhas de esclarecimento junto dos utentes e público em geral, com vista à divulgação de informação sobre o Sistema Regional de Saúde e sobre o Centro Regional de Saúde em particular;
+
+b) Proceder à análise e tratamento das informações veiculadas pelos órgãos de comunicação social e estabelecer contactos com profissionais de informação ou com serviços e entidades públicas ou privadas, sempre que tal se revele de interesse para a correcta prossecução das actividades do Centro Regional de Saúde;
+
+c) Programar as acções necessárias à implantação e funcionamento de serviços de informação ao público;
+
+d) Organizar e manter actualizado em pleno funcionamento a Biblioteca, assegurando a aquisição e tratamento de elementos bibliográficos e documentais, em matérias de interesse para o Centro Regional de Saúde;
+
+e) Organizar e manter actualizados ficheiros de legislação, jurisprudência e doutrina sobre matéria de interesse para o Centro Regional de Saúde e efectuar a difusão interna de diplomas legais e outros elementos e viabilizar a sua consulta pelos serviços do Centro Regional de Saúde;
+
+f) Gerir o Serviço de Reprografia e assegurar o registo e gestão dos documentos em arquivo.
+
+###### Artigo 29.º-E — Departamento de Reembolsos
+
+O Departamento de Reembolsos é o órgão de apoio e de execução de cariz técnico-administrativo ao conselho de administração do Centro Regional de Saúde, que tem por atribuições assegurar o apoio técnico e administrativo na área dos reembolsos, a quem compete, em especial:
+
+a) Coordenar e controlar as secções de reembolsos;
+
+b) Orientar os procedimentos relativos aos reembolsos, inscrições da ADSE, reembolsos de beneficiários da Segurança Social e Atendimento ao Público;
+
+c) Informar e emitir pareceres relativos a processos dos beneficiários, lares e apoio a terceira pessoa;
+
+d) Verificar e assinar documentos destinados à ADSE e a outros organismos;
+
+e) Informar as entidades prestadoras dos cuidados de saúde, no âmbito das diversas modalidades de assistência;
+
+f) Solicitar esclarecimento ao nível dos benefícios sociais à Direcção-Geral da Saúde e à Direcção-Geral de Assistência na Doença aos Servidores Civis de Estado (ADSE);
+
+g) Recolha de dados estatísticos;
+
+h) Gerir o pessoal do Departamento;
+
+i) Prestar apoio que no âmbito da sua competência lhe seja solicitada.
+
+###### Artigo 29.º-F — Departamento de Encaminhamento de Doentes
+
+O Departamento de Encaminhamento de Doentes é o órgão de apoio e de execução de cariz técnico-administrativo ao conselho de administração do Centro Regional de Saúde, que tem por atribuições assegurar o apoio técnico e administrativo, na área do encaminhamento de doentes, a quem compete, em especial:
+
+a) Organizar e gerir as deslocações de utentes do Serviço Regional de Saúde devidamente credenciados ao continente português e ao estrangeiro para tratamentos médicos, nos termos da legislação aplicável;
+
+b) Receber e conferir documentos de despesas relativos às deslocações referidas na alínea anterior;
+
+c) Gerir e administrar o pessoal afecto ao Departamento.»
+
+###### Artigo 3.º — Regras de transição para a categoria de chefe de departamento
+
+1 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.
+
+2 - A transição da categoria de chefe de repartição para a categoria de chefe de departamento faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontram posicionados.
+
+3 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeitos de progressões futuras.
+
+4 - A transição produz efeitos a partir da data de integração na nova categoria.
+
+5 - Os lugares de chefe de departamento são a extinguir quando vagarem.
+
+6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do [Decreto-Lei n.º 404-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-a-1998-197076), de 18 de Dezembro, na redacção dada pela [Lei n.º 44/99](https://diariodarepublica.pt/dr/detalhe/lei/44-1999-308514), de 11 de Junho.
+
+###### Artigo 4.º — Concursos pendentes
+
+Mantêm-se em vigor os concursos pendentes à data da entrada em vigor do presente diploma para a categoria de chefe de repartição, sendo os candidatos que vierem a ser providos integrados nos respectivos lugares de chefe de departamento ora criados no escalão para que transitam os titulares da categoria de chefe de repartição a que se candidataram.
+
+###### Artigo 5.º — Quadro de pessoal
+
+O quadro de pessoal do Centro Regional de Saúde, aprovado pela [Portaria n.º 173/98](https://diariodarepublica.pt/dr/detalhe/portaria/173-1998-186552), de 11 de Novembro, é alterado no que concerne ao grupo de pessoal dirigente e de chefia, passando a ser o constante do mapa I anexo ao presente diploma.
+
+###### Artigo 6.º — Produção de efeitos
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 23 de Março de 2000.
+
+Pelo Presidente do Governo Regional, José Paulo Baptista Fontes.
+
+**Assinado em 10 de Abril de 2000.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+
+MAPA I
+
+Alteração do quadro de pessoal do Centro Regional de Saúde, a que se refere o artigo 5.º
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2000/05/104b00/18481853.pdf)

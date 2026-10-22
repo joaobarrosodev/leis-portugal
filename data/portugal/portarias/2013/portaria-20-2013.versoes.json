@@ -1,0 +1,197 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:257071:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-70865589",
+ "dre_path": "/dr/detalhe/portaria/20-2013-257071",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-01-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70876275",
+    "70876276",
+    "70876277",
+    "70876278"
+   ]
+  },
+  {
+   "date": "2015-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70865878:por",
+     "title": "Portaria n.º 388-B/2015",
+     "published": "2015-10-29",
+     "dre_path": "/dr/detalhe/portaria/388-b-2015-70865878"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "70876275",
+    "70876285",
+    "70876277",
+    "70876278",
+    "70876279"
+   ]
+  },
+  {
+   "date": "2016-08-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75177815:por",
+     "title": "Portaria n.º 226/2016",
+     "published": "2016-08-22",
+     "dre_path": "/dr/detalhe/portaria/226-2016-75177815"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "70876275",
+    "75267402",
+    "70876277",
+    "70876278",
+    "70876279"
+   ]
+  },
+  {
+   "date": "2016-09-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75272687:por",
+     "title": "Portaria n.º 243/2016",
+     "published": "2016-09-06",
+     "dre_path": "/dr/detalhe/portaria/243-2016-75272687"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "70876275",
+    "75267403",
+    "70876277",
+    "70876278",
+    "70876279"
+   ]
+  },
+  {
+   "date": "2016-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75763562:por",
+     "title": "Portaria n.º 293/2016",
+     "published": "2016-11-18",
+     "dre_path": "/dr/detalhe/portaria/293-2016-75763562"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "70876275",
+    "114256920",
+    "70876277",
+    "70876278",
+    "70876279"
+   ]
+  }
+ ],
+ "fragments": {
+  "70876275": {
+   "fragment_id": "70865590",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 20/2013\n\nde 22 de janeiro\n\nO estabelecimento de totais admissíveis de captura para determinadas unidades populacionais e a sua repartição em quotas pelos Estados Membros é uma das medidas de gestão estabelecidas, anualmente, a nível europeu.\n\nVerifica-se, há alguns anos, que as quotas de pesca de que Portugal dispõe para várias dessas unidades populacionais não permitem acomodar as necessidades de captura das embarcações nacionais, determinando encerramentos da pesca ao longo do ano.\n\nPortugal tem, sempre que possível, recorrido a trocas de quotas com outros Estados-Membros para obter possibilidades de pesca adicionais, nos termos do procedimento previsto no artigo 20.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R2371\" title=\"Link para Regulamento da Comunidade Europeia\">2371/2002</a>, do Conselho, de 20 de dezembro de 2002, relativo à conservação e à exploração sustentável dos recursos haliêuticos no âmbito da Política Comum das Pescas.\n\nNo entanto, tornando-se muitas vezes difícil reforçar as possibilidades de pesca, importa adotar medidas que, melhorando a gestão da pesca, evitem o fecho da mesma por esgotamento de quotas e, dentro do possível, as consequentes rejeições, em particular, nas pescarias mistas.\n\nNesta perspetiva, considera-se adequado que, quando atingido um determinado nível de utilização das quotas de determinadas unidades populacionais, se faça cessar a pesca dirigida, passando apenas a permitir-se capturas acessórias numa dada percentagem.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas dos Açores e da Madeira.\n\nAssim, ao abrigo do disposto na alínea h) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de julho, na redação dada pelo Decreto-Lei n.º 383/98, de 27 de novembro, e no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território através do despacho n.º 12 412/2011, publicado no Diário da República, 2.ª série, n.º 181, de 20 de setembro de 2011:\n\nManda o Governo, pelo Secretário de Estado do Mar, o seguinte:"
+  },
+  "70876276": {
+   "fragment_id": "70865591",
+   "type": 11,
+   "heading": "Artigo 1.º — Proibição de pesca dirigida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Proibição de pesca dirigida\n\n1- Tendo em vista uma gestão mais eficaz das possibilidades de pesca disponíveis e sem prejuízo do previsto nos n.os 2 e 3, sempre que atingido um nível de utilização de 80% da quota portuguesa de uma das unidades populacionais identificadas no anexo à presente portaria, que dela faz parte integrante, é interdita a pesca dirigida à unidade populacional em causa, ficando as respetivas descargas limitadas a capturas acessórias até 5% do total descarregado por embarcação, em cada maré de pesca.\n\n2- Caso a interdição se refira à unidade populacional de imperadores Beryx spp., a partir da data do fecho da pesca dirigida, é proibida a descarga de qualquer espécie, com exceção do imperador, Beryx decadactylus, cujas descargas são autorizadas, a título acessório, até 5% do total descarregado.\n\n3- Quando o nível de utilização de 80% da quota de uma unidade populacional é atingido após 30 de Setembro, pode ser determinada a continuidade da pesca dirigida por despacho do diretor-geral de Recursos Naturais, Segurança e Serviços Marítimos."
+  },
+  "70876277": {
+   "fragment_id": "70865592",
+   "type": 11,
+   "heading": "Artigo 2.º — Divulgação do fecho da pesca dirigida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Divulgação do fecho da pesca dirigida\n\n1- Para efeito do previsto no n.º 1 do artigo anterior, a data do fecho de pesca é comunicada pela Direção Geral de Recursos Naturais, Segurança e Serviços Marítimos aos departamentos dos Governos próprios das Regiões Autónomas dos Açores e da Madeira e divulgada no sítio da internet da Direção Geral de Recursos Naturais, Segurança e Serviços Marítimos.\n\n2- A Direção Geral de Recursos Naturais, Segurança e Serviços Marítimos e os departamentos regionais competentes divulgam igualmente o fecho da pesca pelas respetivas associações e organismos responsáveis pela primeira venda de pescado."
+  },
+  "70876278": {
+   "fragment_id": "70865593",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70876285": {
+   "fragment_id": "70865591",
+   "type": 11,
+   "heading": "Artigo 1.º — Proibição de pesca dirigida",
+   "in_force_from": "2015-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 388-B/2015 - Diário da República n.º 212/2015, 1º Suplemento, Série I de 2015-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/388-b-2015-70865878), em vigor a partir de 2015-10-31"
+   ],
+   "markdown": "###### Artigo 1.º — Proibição de pesca dirigida\n\n1- Tendo em vista uma gestão mais eficaz das possibilidades de pesca disponíveis e sem prejuízo do previsto nos n.os 2 e 3, sempre que atingido um nível de utilização de 80% da quota portuguesa de uma das unidades populacionais identificadas no anexo à presente portaria, que dela faz parte integrante, é interdita a pesca dirigida à unidade populacional em causa, ficando as respetivas descargas limitadas a capturas acessórias até 5% do total descarregado por embarcação, em cada maré de pesca.\n\n2 - Caso a interdição se refira à unidade populacional de imperadores, Beryx spp., a partir da data do fecho da pesca dirigida, é proibida a descarga de qualquer espécie, com exceção do imperador Beryx decadactylus, cuja pesca dirigida continua a ser autorizada.\n\n3- Quando o nível de utilização de 80% da quota de uma unidade populacional é atingido após 30 de Setembro, pode ser determinada a continuidade da pesca dirigida por despacho do diretor-geral de Recursos Naturais, Segurança e Serviços Marítimos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 388-B/2015 - Diário da República n.º 212/2015, 1º Suplemento, Série I de 2015-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/388-b-2015-70865878), em vigor a partir de 2015-10-31"
+  },
+  "70876279": {
+   "fragment_id": "70865594",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 15 de novembro de 2012.\n\nAnexo\n\n(a que se refere o n º 1 do artigo 1.º)\n\n(ver documento original)"
+  },
+  "75267402": {
+   "fragment_id": "70865591",
+   "type": 11,
+   "heading": "Artigo 1.º — Proibição de pesca dirigida",
+   "in_force_from": "2016-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/226-2016-75177815), em vigor a partir de 2016-08-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 388-B/2015 - Diário da República n.º 212/2015, 1º Suplemento, Série I de 2015-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/388-b-2015-70865878), em vigor a partir de 2015-10-31"
+   ],
+   "markdown": "###### Artigo 1.º — Proibição de pesca dirigida\n\n1- Tendo em vista uma gestão mais eficaz das possibilidades de pesca disponíveis e sem prejuízo do previsto nos n.os 2 e 3, sempre que atingido um nível de utilização de 80% da quota portuguesa de uma das unidades populacionais identificadas no anexo à presente portaria, que dela faz parte integrante, é interdita a pesca dirigida à unidade populacional em causa, ficando as respetivas descargas limitadas a capturas acessórias até 5% do total descarregado por embarcação, em cada maré de pesca.\n\n2 - Caso a interdição se refira à unidade populacional de imperadores, Beryx spp., a partir da data do fecho da pesca dirigida, é proibida a descarga de qualquer espécie, com exceção do imperador Beryx decadactylus, cuja pesca dirigida continua a ser autorizada.\n\n3 - Exceciona-se do disposto no n.º 1, a unidade populacional tamboris (Lophiidae), cuja pesca dirigida é interdita a partir de um nível de utilização da respetiva quota de 95 %, ficando as respetivas descargas limitadas a capturas acessórias até 5 % do total descarregado por embarcação, em cada maré de pesca.\n\n4- Quando o nível de utilização de 80% da quota de uma unidade populacional é atingido após 30 de Setembro, pode ser determinada a continuidade da pesca dirigida por despacho do diretor-geral de Recursos Naturais, Segurança e Serviços Marítimos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/226-2016-75177815), em vigor a partir de 2016-08-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 388-B/2015 - Diário da República n.º 212/2015, 1º Suplemento, Série I de 2015-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/388-b-2015-70865878), em vigor a partir de 2015-10-31"
+  },
+  "75267403": {
+   "fragment_id": "70865591",
+   "type": 11,
+   "heading": "Artigo 1.º — Proibição de pesca dirigida",
+   "in_force_from": "2016-09-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2016 - Diário da República n.º 171/2016, Série I de 2016-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/243-2016-75272687), em vigor a partir de 2016-09-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/226-2016-75177815), em vigor a partir de 2016-08-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 388-B/2015 - Diário da República n.º 212/2015, 1º Suplemento, Série I de 2015-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/388-b-2015-70865878), em vigor a partir de 2015-10-31"
+   ],
+   "markdown": "###### Artigo 1.º — Proibição de pesca dirigida\n\n1- Tendo em vista uma gestão mais eficaz das possibilidades de pesca disponíveis e sem prejuízo do previsto nos n.os 2 e 3, sempre que atingido um nível de utilização de 80% da quota portuguesa de uma das unidades populacionais identificadas no anexo à presente portaria, que dela faz parte integrante, é interdita a pesca dirigida à unidade populacional em causa, ficando as respetivas descargas limitadas a capturas acessórias até 5% do total descarregado por embarcação, em cada maré de pesca.\n\n2 - Caso a interdição se refira à unidade populacional de imperadores, Beryx spp., a partir da data do fecho da pesca dirigida, é proibida a descarga de qualquer espécie, com exceção do imperador (Beryx decadactylus), cuja pesca dirigida continua a ser autorizada, bem como do alfonsim (Beryx splendens), cuja captura é autorizada, a título acessório, ficando as respetivas descargas limitadas a capturas acessórias, até 5 % do total descarregado por embarcação, em cada maré de pesca.\n\n3 - Exceciona-se do disposto no n.º 1, a unidade populacional tamboris (Lophiidae), cuja pesca dirigida é interdita a partir de um nível de utilização da respetiva quota de 95 %, ficando as respetivas descargas limitadas a capturas acessórias até 5 % do total descarregado por embarcação, em cada maré de pesca.\n\n4- Quando o nível de utilização de 80% da quota de uma unidade populacional é atingido após 30 de Setembro, pode ser determinada a continuidade da pesca dirigida por despacho do diretor-geral de Recursos Naturais, Segurança e Serviços Marítimos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2016 - Diário da República n.º 171/2016, Série I de 2016-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/243-2016-75272687), em vigor a partir de 2016-09-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/226-2016-75177815), em vigor a partir de 2016-08-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 388-B/2015 - Diário da República n.º 212/2015, 1º Suplemento, Série I de 2015-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/388-b-2015-70865878), em vigor a partir de 2015-10-31"
+  },
+  "114256920": {
+   "fragment_id": "70865591",
+   "type": 11,
+   "heading": "Artigo 1.º — Proibição de pesca dirigida",
+   "in_force_from": "2016-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2016 - Diário da República n.º 222/2016, Série I de 2016-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2016-75763562), em vigor a partir de 2016-11-19",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2016 - Diário da República n.º 171/2016, Série I de 2016-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/243-2016-75272687), em vigor a partir de 2016-09-07",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/226-2016-75177815), em vigor a partir de 2016-08-23",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 388-B/2015 - Diário da República n.º 212/2015, 1º Suplemento, Série I de 2015-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/388-b-2015-70865878), em vigor a partir de 2015-10-31"
+   ],
+   "markdown": "###### Artigo 1.º — Proibição de pesca dirigida\n\n1 - Tendo em vista uma gestão mais eficaz das possibilidades de pesca disponíveis e sem prejuízo do previsto nos números seguintes, sempre que atingido um nível de utilização de 80 % da quota portuguesa de uma das unidades populacionais identificadas no anexo à presente portaria, que dela faz parte integrante, é interdita a pesca dirigida à unidade populacional em causa, ficando as respetivas descargas limitadas a capturas acessórias até 5 % do total descarregado por embarcação, em cada maré de pesca.\n\n2 - Caso a interdição se refira à unidade populacional de imperadores, Beryx spp., a partir da data do fecho da pesca dirigida, é proibida a descarga de qualquer espécie, com exceção do imperador (Beryx decadactylus), cuja pesca dirigida continua a ser autorizada, bem como do alfonsim (Beryx splendens), cuja captura é autorizada, a título acessório, ficando as respetivas descargas limitadas a capturas acessórias, até 5 % do total descarregado por embarcação, em cada maré de pesca.\n\n3 - Exceciona-se do disposto no n.º 1, a unidade populacional tamboris (Lophiidae), cuja pesca dirigida é interdita a partir de um nível de utilização da respetiva quota de 95 %, ficando as respetivas descargas limitadas a capturas acessórias até 5 % do total descarregado por embarcação, em cada maré de pesca.\n\n4 - Exceciona-se ainda do disposto no n.º 1, a unidade populacional de raias (Rajiformes), cuja pesca dirigida é interdita a partir de um nível de utilização da respetiva quota de 95 %, ficando as descargas limitadas a capturas acessórias até 50 kg, por embarcação, em cada maré de pesca.\n\n5- Quando o nível de utilização de 80% da quota de uma unidade populacional é atingido após 30 de Setembro, pode ser determinada a continuidade da pesca dirigida por despacho do diretor-geral de Recursos Naturais, Segurança e Serviços Marítimos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 293/2016 - Diário da República n.º 222/2016, Série I de 2016-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/293-2016-75763562), em vigor a partir de 2016-11-19\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 243/2016 - Diário da República n.º 171/2016, Série I de 2016-09-06](https://diariodarepublica.pt/dr/detalhe/portaria/243-2016-75272687), em vigor a partir de 2016-09-07\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 226/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/226-2016-75177815), em vigor a partir de 2016-08-23\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 388-B/2015 - Diário da República n.º 212/2015, 1º Suplemento, Série I de 2015-10-29](https://diariodarepublica.pt/dr/detalhe/portaria/388-b-2015-70865878), em vigor a partir de 2015-10-31"
+  }
+ }
+}

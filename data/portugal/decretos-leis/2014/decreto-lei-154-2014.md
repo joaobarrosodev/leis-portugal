@@ -1,0 +1,218 @@
+---
+schema_version: '1.0'
+id: pt:dre:58429177:por
+title: Decreto-Lei n.º 154/2014
+short_title: null
+summary: Cria uma medida excecional de apoio ao emprego que se traduz na redução temporária da taxa contributiva a cargo da
+  entidade empregadora
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Solidariedade, Emprego e Segurança Social
+proposing_entity: null
+official_number: 154/2014
+official_date: null
+publication_date: '2014-10-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/2014, Série I de 2014-10-20
+  number: '202'
+  series: I
+  supplement: null
+  pages: 5318 - 5319
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/10/20200/0531805319.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/154/2014/10/20/p/dre/pt/html
+  oj: null
+  dre: '58429177'
+  dre_path: /dr/detalhe/decreto-lei/154-2014-58429177
+  internal: pt:dre:58429177:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2014-58429177
+  metadata_url: https://data.dre.pt/eli/dec-lei/154/2014/10/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2014-58429177
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-12-31T00:00:00Z'
+integrity:
+  source_sha256: 5b088223cf1f2a1d1ce9b8eeb2beb216ab18de82bf1ba8a908631da7d7cb40bf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2014/DRE-2014-154-58429177.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto da Segurança Social
+- Região Autónoma
+- Definição de Competências
+- Entidade Patronal
+- Orçamento da Segurança Social
+- Posto de Trabalho
+- Emprego
+- Madeira.região Autónoma
+- Regime Contributivo da Segurança Social
+- Código dos Regimes Contributivos do Sistema Previdêncial de Segurança Social
+- Regime Geral da Segurança Social
+- Remuneração
+- Retribuição Mínima Garantida
+- Segurança Social
+- Açores
+- Sistema Previdencial
+- TAXA Contributiva
+- TAXA Contributiva Reduzida
+- Trabalhador
+- Trabalhador por Conta de Outrem
+relationships:
+- type: amended_by
+  target: pt:dre:66016527:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/144/2014/09/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/144/2014/09/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 154/2014
+
+de 20 de outubro
+
+O [Decreto-Lei n.º 144/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2014-57695125), estabelece que, para o período compreendido entre 1 de outubro de 2014 e 31 de dezembro de 2015, o valor da retribuição mínima mensal garantida (RMMG) será fixado em (euro) 505.
+
+A sustentabilidade do nível de emprego e dos postos de trabalho constituem requisitos fundamentais para a promoção de uma economia verdadeiramente competitiva e de uma sociedade equilibrada, desempenhando a produtividade um papel da maior relevância.
+
+De igual forma, o crescimento económico e a criação de postos de trabalho são indispensáveis para garantir uma verdadeira inclusão social.
+
+Considerando, assim, a importância de garantir a manutenção do emprego, e em resultado das negociações entre o Governo e os parceiros sociais subscritores do Acordo Tripartido sobre a atualização da RMMG e promoção da competitividade e emprego, assinado no dia 24 de setembro de 2014, o Governo decidiu criar uma medida excecional que consistirá numa redução de 0,75 pontos percentuais da taxa contributiva para a segurança social a cargo das entidades empregadoras, desde que se trate de trabalhadores que auferiram a retribuição mínima mensal garantida entre janeiro e agosto de 2014.
+
+Assim:
+
+Ao abrigo do disposto no artigo 100.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei cria uma medida excecional de apoio ao emprego que se traduz na redução da taxa contributiva a cargo da entidade empregadora.
+
+###### Artigo 2.º — Medida de apoio
+
+A medida de apoio ao emprego traduz-se na redução de 0,75 pontos percentuais da taxa contributiva a cargo da entidade empregadora relativa às contribuições referentes às remunerações devidas nos meses de novembro de 2014 a janeiro de 2016.
+
+###### Artigo 3.º — Âmbito pessoal
+
+1 - A medida aplica-se às entidades empregadoras de direito privado, contribuintes do regime geral de segurança social dos trabalhadores por conta de outrem, relativamente a cada trabalhador ao seu serviço, sem prejuízo do disposto no número seguinte.
+
+2 - Não têm direito à redução da taxa contributiva:
+
+a) As entidades empregadoras, no que respeita a trabalhadores abrangidos por esquemas contributivos com taxas inferiores à estabelecida para a generalidade dos trabalhadores por conta de outrem, com exceção das entidades cuja redução de taxa resulte do facto de serem pessoas coletivas sem fins lucrativos ou por pertencerem a sectores economicamente débeis, nos termos previstos no Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de setembro;
+
+b) As entidades empregadoras, no que respeita a trabalhadores abrangidos por esquemas contributivos com bases de incidência fixadas em valores inferiores ao indexante de apoios sociais, em valores inferiores à remuneração real ou remunerações convencionais.
+
+###### Artigo 4.º — Condições de atribuição
+
+O direito à redução da taxa contributiva fica dependente da verificação cumulativa das seguintes condições:
+
+a) O trabalhador estar vinculado à entidade empregadora beneficiária por contrato de trabalho sem interrupção pelo menos desde maio de 2014;
+
+b) O trabalhador ter auferido, pelo menos num dos meses compreendidos entre janeiro e agosto de 2014, remuneração igual ao valor da retribuição mínima mensal garantida;
+
+c) A entidade empregadora ter a sua situação contributiva regularizada perante a segurança social.
+
+###### Artigo 5.º — Concessão da redução
+
+1 - A redução da taxa contributiva reporta-se às contribuições referentes às remunerações devidas nos meses de novembro de 2014 a janeiro de 2016, nas quais se incluem os valores devidos a título de subsídios de férias e de Natal.
+
+2 - A redução da taxa contributiva é concedida oficiosamente pelos serviços de segurança social quando se verifiquem as condições de atribuição.
+
+3 - Para beneficiarem da redução da taxa contributiva, as entidades empregadoras devem proceder à entrega das declarações de remunerações dos trabalhadores abrangidos de forma autonomizada de acordo com a redução da taxa contributiva aplicável.
+
+4 - A redução da taxa contributiva depende da apresentação de requerimento nos casos de trabalhadores com contrato de trabalho a tempo parcial.
+
+5 - Nas situações referidas no número anterior, o período de redução reporta-se:
+
+a) À totalidade do período previsto no n.º 1, nos casos em que o requerimento seja apresentado até 30 de novembro de 2014;
+
+b) Ao período remanescente, a partir do mês seguinte ao da apresentação do requerimento, nos restantes casos.
+
+6 - Em todas as situações em que se verifique a regularização da situação contributiva pela entidade empregadora durante o período de redução previsto no n.º 1, o direito à redução da taxa contributiva é reconhecido a partir do mês seguinte ao da regularização, e mantém-se pelo período remanescente.
+
+###### Artigo 6.º — Cessação do direito à redução
+
+1 - O direito à redução da taxa contributiva cessa ocorrendo uma das seguintes situações:
+
+a) Cessação do contrato de trabalho;
+
+b) Verificação de que a entidade empregadora deixou de ter a sua situação contributiva regularizada, sem prejuízo do disposto no número seguinte.
+
+2 - O direito à redução da taxa contributiva pode ser retomado caso a entidade empregadora venha a regularizar a sua situação contributiva, sendo aplicável o disposto no n.º 6 do artigo anterior.
+
+###### Artigo 7.º — Meios de prova
+
+Para efeitos do disposto no presente decreto-lei, os serviços da instituição de segurança social competente podem exigir às entidades empregadoras beneficiárias a apresentação dos meios de prova documental considerados necessários, designadamente:
+
+a) Contrato de trabalho;
+
+b) Comprovativo da declaração de admissão do trabalhador perante os serviços de segurança social.
+
+###### Artigo 8.º — Cumulação de apoios
+
+A medida de apoio prevista no presente decreto-lei pode ser cumulada com outros apoios ao emprego aplicáveis ao mesmo posto de trabalho, cuja atribuição esteja, por natureza, dependente de condições inerentes aos trabalhadores contratados.
+
+###### Artigo 9.º — Instituições competentes
+
+Para a aplicação da medida prevista no presente decreto-lei são competentes, de acordo com o respetivo âmbito, os serviços do Instituto de Segurança Social, I. P., e dos organismos próprios das Regiões Autónomas da área da sede das entidades empregadoras.
+
+###### Artigo 10.º — Financiamento
+
+O financiamento da medida de apoio prevista no presente decreto-lei é assegurado pelo Estado, mediante transferência para o orçamento da segurança social.
+
+Visto e aprovado em Conselho de Ministros de 25 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Pedro Russo da Mota Soares.
+
+**Promulgado em 15 de outubro de 2014.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 16 de outubro de 2014.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**

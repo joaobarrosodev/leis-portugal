@@ -1,0 +1,466 @@
+---
+schema_version: '1.0'
+id: pt:dre:249821:por
+title: Decreto-Lei n.º 71/2008
+short_title: null
+summary: Estabelece o sistema de gestão do consumo de energia por empresas e instalações consumidoras intensivas e revoga
+  os Decretos-Leis n.os 58/82, de 26 de Novembro, e 428/83, de 9 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 71/2008
+official_date: null
+publication_date: '2008-04-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 74/2008, Série I de 2008-04-15
+  number: '74'
+  series: I
+  supplement: null
+  pages: 2222 - 2226
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/04/07400/0222202226.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-05-01'
+version_history:
+  file: decreto-lei-71-2008.versoes.json
+  count: 3
+  source_lastmod: '2024-08-20'
+  versions:
+  - date: '2008-04-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-01-27'
+    amending: pt:dre:257073:por
+    amending_title: Lei n.º 7/2013
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+  - date: '2015-05-01'
+    amending: pt:dre:67123272:por
+    amending_title: Decreto-Lei n.º 68-A/2015
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/71/2008/p/cons/20150430/pt/html
+  oj: null
+  dre: '249821'
+  dre_path: /dr/detalhe/decreto-lei/71-2008-249821
+  internal: pt:dre:249821:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2008-249821
+  metadata_url: https://data.dre.pt/eli/dec-lei/71/2008/p/cons/20150430/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-884939897
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-884939897
+  retrieved_at: '2026-10-22T13:12:23Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-20T00:00:00Z'
+integrity:
+  source_sha256: 8c51b8d1df106019c751f58c6af33744cc70f522cf1de15151e2daa9ee24e62e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:12:23Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-71-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Industrial
+- Agência para a Energia
+- Auditoria
+- Imposto sobre Produtos Petrolíferos
+- Consumo de Energia
+- Contra-ordenação
+- Definição de Competências
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Política Energética
+- Fiscalização
+- Fundo de Eficiência Energética
+- Direção Geral de Energia e Geologia
+- Gestão dos Recursos
+- Indústria
+- Isenção Fiscal
+- Proteção do Ambiente
+- Energia
+- Poupança de Energia
+- Programa Nacional para as Alterações Climáticas
+- Poluição
+- Taxa
+relationships:
+- type: amended_by
+  target: pt:dre:257073:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º;
+    Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-2013-257073
+  date: '2013-01-22'
+- type: amended_by
+  target: pt:dre:67123272:por
+  label: Altera Artigo 6.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-a-2015-67123272
+  date: '2015-04-30'
+- type: cites
+  target: celex:31993L0076
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/76/oj
+- type: cites
+  target: celex:32003L0096
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/96/oj
+- type: cites
+  target: celex:32006L0032
+  label: null
+  source: http://data.europa.eu/eli/dir/2006/32/oj
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:12:23Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 71/2008
+
+Decreto-Lei n.º 71/2008
+
+de 15 de Abril
+
+A Estratégia Nacional para a Energia, aprovada pela Resolução do Conselho de Ministros n.º 169/2005, de 15 de Outubro, prevê como uma das medidas para a promoção da eficiência energética a reforma do Regulamento de Gestão do Consumo de Energia (RGCE), com vista a compatibilizá-lo com as novas exigências ao nível das emissões de gases de efeito estufa, com a revisão da fiscalidade do sector energético e com a necessidade de promover acordos para a utilização racional de energia.
+
+O Programa Nacional para as Alterações Climáticas, aprovado pela Resolução do Conselho de Ministros n.º 104/2006, de 23 de Agosto, estabelece três medidas adicionais para o sector da indústria: a alteração do imposto sobre os produtos petrolíferos e energéticos (ISP) sobre os combustíveis industriais estabelecendo um mecanismo de incentivo à redução de gases de efeito estufa (MAi1), a definição de um novo RGCE que fomente a eficiência energética no sector industrial através de acordos (MAi2) e a revisão do RGCE para o sector dos transportes (MAt7).
+
+O Orçamento do Estado para 2008 implementa já a medida MAi1 ao rever os limites máximos para o ISP aplicável aos combustíveis industriais com vista a imputar aos utilizadores de carvão, coque de petróleo ou fuelóleo os custos associados às emissões de CO(índice 2) adicionais relativamente à utilização de gás natural e ao substituir os critérios sectoriais de isenção deste imposto por critérios ambientais e de eficiência energética, em linha com o artigo 17.º da Directiva n.º 2003/96/CE, de 27 de Outubro, que reestrutura o quadro comunitário de tributação dos produtos energéticos e da electricidade.
+
+Por outro lado, o Orçamento do Estado para 2008 prevê a isenção do ISP nestes combustíveis para os utilizadores abrangidos pelo comércio europeu de licenças de emissão ou que realizem acordos de racionalização do consumo de energia, a definir nos termos do presente decreto-lei.
+
+Assim, no intuito de dar execução à Estratégia Nacional para a Energia, ao Programa Nacional para as Alterações Climáticas e de operacionalizar a isenção prevista na lei do OE/2008 e tendo em conta os objectivos estabelecidos na Directiva n.º 2006/32/CE, do Parlamento Europeu e do Conselho, de 5 de Abril, relativa à eficiência na utilização final de energia e aos serviços energéticos e que revoga a Directiva n.º 93/76/CEE, do Conselho, importa redefinir um conjunto de regras que actualizem a disciplina de gestão do consumo de energia constantes do regulamento para a eficiência energética na indústria, estabelecido no Decreto-Lei n.º 58/82, de 26 de Fevereiro, e sua regulamentação.
+
+Neste quadro, o presente decreto-lei define quais as instalações consideradas com consumo intensivo de energia, estendendo a sua aplicação a um conjunto mais abrangente de empresas e instalações com vista ao aumento da sua eficiência energética tendo em atenção a necessidade de salvaguardar a respectiva base competitiva no quadro da economia global, ao mesmo tempo que estabelece um regime diversificado e administrativamente mais simplificado para as empresas que, actualmente, já estão vinculadas a compromissos de redução de emissões de CO(índice 2) definidos no PNALE (Plano Nacional de Atribuição de Licenças de Emissão), embora permitindo a ambas as categorias de instalações o acesso às isenções e demais estímulos e incentivos vocacionados para a promoção de eficiência energética.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei regula o sistema de gestão dos consumos intensivos de energia, abreviadamente designado por SGCIE, instituído com o objectivo de promover a eficiência energética e monitorizar os consumos energéticos de instalações consumidoras intensivas de energia.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O regime previsto no presente decreto-lei aplica-se às instalações consumidoras intensivas de energia (CIE) que no ano civil imediatamente anterior tenham tido um consumo energético superior a 500 toneladas equivalentes petróleo (500 tep/ano), com excepção das instalações de co-geração juridicamente autónomas dos respectivos consumidores de energia.
+
+2 - No caso das empresas de transportes e das empresas com frotas próprias consumidoras intensivas de energia a aplicação do regime previsto no presente decreto-lei deve ser adaptada nos termos a estabelecer em legislação específica para o efeito.
+
+3 - O regime previsto no presente decreto-lei não se aplica aos edifícios que se encontrem sujeitos aos regimes previstos nos Decretos-Leis n.os 78/2006, 79/2006 e 80/2006, de 4 de Abril, excepto nos casos em que os edifícios se encontrem integrados na área de uma instalação consumidora intensiva de energia.
+
+4 - Sem prejuízo do disposto nos números anteriores, o regime previsto no presente decreto-lei pode ser aplicável às empresas que tendo um consumo energético inferior aos limites previstos no n.º 1 ou que se encontrem na situação referida no número anterior pretendam, de forma voluntária, celebrar acordos de racionalização de consumo de energia.
+
+###### Artigo 3.º — Organização e funcionamento do SGCIE
+
+1 - São intervenientes no SGCIE a Direção-Geral de Energia e Geologia (DGEG), a Autoridade Tributária e Aduaneira (AT), a Agência para a Energia (ADENE) e os operadores que exploram instalações CIE, bem como os técnicos e entidades que exercem atividades de realização de auditorias energéticas, de elaboração de planos de racionalização dos consumos de energia e de controlo da sua execução e progresso.
+
+2 - Compete à DGEG a supervisão e fiscalização do funcionamento do SGCIE e exercer as demais competências que lhe estão cometidas pelo presente decreto-lei.
+
+3 - Compete à AT a concessão e controlo das isenções do ISP, nos termos previstos no artigo 11.º
+
+4 - É atribuída à Agência para a Energia (ADENE) a gestão operacional do SGCIE, cabendo-lhe, nomeadamente:
+
+a) Assegurar o funcionamento regular do sistema;
+
+b) Organizar e manter o registo das instalações CIE;
+
+c) Receber os planos de racionalização do consumo de energia, submetendo-os à aprovação da DGEG;
+
+d) Receber os pedidos de reconhecimento e registo de técnicos, submetendo-os à aprovação da DGEG, bem como as declarações prévias apresentadas por técnicos em regime de livre prestação de serviços, transmitindo-as à DGEG;
+
+e) Acompanhar a actividade dos operadores e técnicos no âmbito do cumprimento da disciplina do presente decreto-lei.
+
+5 - A ADENE apresenta à DGEG e à AT, até 31 de março de cada ano, um relatório anual sobre a atividade desenvolvida e o funcionamento do sistema.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/7-2013-257073), em vigor a partir de 2013-01-27
+
+###### Artigo 4.º — Operador de instalações CIE
+
+1 - O operador que explore instalações CIE fica sujeito às seguintes obrigações:
+
+a) Promover o registo das instalações;
+
+b) Efectuar auditorias energéticas que avaliem, nomeadamente, todos os aspectos relativos à promoção do aumento global da eficiência energética, podendo também incluir aspectos relativos à substituição por fontes de energia de origem renovável, entre outras medidas, nomeadamente, as de redução da factura energética.
+
+c) Elaborar Planos de Racionalização do Consumo de Energia (PREn), com base nas auditorias previstas na alínea anterior, visando o aumento global da eficiência energética, apresentando-os à ADENE;
+
+d) Executar e cumprir os PREn aprovados, sob a responsabilidade técnica de um técnico habilitado escolhido pelo operador ou colocado ao serviço de entidade por ele contratada.
+
+2 - O operador que explore instalações CIE sujeitas ao PNALE fica isento do cumprimento das obrigações previstas no número anterior, sem prejuízo do disposto no n.º 4 do artigo 12.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/7-2013-257073), em vigor a partir de 2013-01-27
+
+###### Artigo 5.º — Registo
+
+1 - O registo da instalação CIE processa-se mediante declaração do operador que contenha:
+
+a) Identificação completa do declarante e respectivo endereço postal e electrónico;
+
+b) Indicação da CAE identificadora da actividade em que se insere a instalação;
+
+c) Localização da instalação, mediante indicação da morada do estabelecimento;
+
+d) Memória descritiva sucinta da mesma, o consumo anual de energia no último ano, a data do licenciamento e respectiva entidade licenciadora.
+
+2 - O registo é promovido no prazo de quatro meses contados do final do primeiro ano em que a instalação atinja o estatuto de CIE ou, se já verificado à data da entrada em vigor do presente decreto-lei, em igual prazo contado desta última data.
+
+3 - A ADENE disponibiliza formulário da declaração para registo online no seu site na Internet.
+
+4 - O operador deve promover a extinção do registo se a instalação deixar de preencher os requisitos determinantes do mesmo, fazendo prova de que já não se encontra nas condições definidas no âmbito do artigo 2.º
+
+###### Artigo 6.º — Auditorias energéticas
+
+1 - É obrigatória a realização das seguintes auditorias energéticas:
+
+a) Nas instalações com consumo de energia igual ou superior a 1000 tep/ano, com uma periodicidade de oito anos, sendo que a primeira destas auditorias deve ser realizada no prazo de quatro meses após o registo;
+
+b) Nas instalações com consumo de energia igual ou superior a 500 tep/ano mas inferior a 1000 tep/ano, com uma periodicidade de oito anos, sendo que a primeira destas auditorias deve ser realizada no ano seguinte ao do registo.
+
+2 - As auditorias incidem sobre as condições de utilização da energia, bem como a concepção e o estado da instalação, devendo ainda ser colhidos os elementos necessários à elaboração do Plano de Racionalização do Consumo de Energia (PREn) e à verificação do seu subsequente cumprimento.
+
+3 - Sem prejuízo do disposto nos números anteriores, o operador pode realizar as auditorias que considerar necessárias à promoção da eficiência energética da instalação consumidora intensiva de energia.
+
+> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 68-A/2015 - Diário da República n.º 84/2015, 1º Suplemento, Série I de 2015-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-a-2015-67123272), em vigor a partir de 2015-05-01
+
+###### Artigo 7.º — Plano de Racionalização do Consumo de Energia
+
+1 - O Plano de Racionalização do Consumo de Energia é elaborado com base nos relatórios das auditorias energéticas obrigatórias, devendo prever a implementação, nos primeiros três anos, de todas as medidas identificadas com um período de retorno do investimento inferior ou igual a cinco anos, no caso das instalações com consumo de energia igual ou superior a 1000 tep/ano, ou com um período de retorno do investimento inferior ou igual a três anos no caso das restantes instalações.
+
+2 - O PREn deve ainda estabelecer metas relativas à intensidade energética e carbónica com base nas medidas previstas no número anterior, tendo em conta os seguintes indicadores:
+
+a) Intensidade energética, medida pelo quociente entre o consumo total de energia (considerando apenas 50 % da energia resultante de resíduos endógenos e de outros combustíveis renováveis) e o valor acrescentado bruto das actividades empresariais directamente ligadas a essas instalações industriais e, sempre que aplicável, pelo quociente entre o consumo total de energia (considerando apenas 50 % da energia resultante de resíduos endógenos e de outros combustíveis renováveis) e o volume de produção;
+
+b) Intensidade carbónica, medida pelo quociente entre o valor das emissões de gases de efeito de estufa resultantes da utilização das várias formas de energia no processo produtivo e o respectivo consumo total de energia.
+
+3 - As metas referidas no número anterior estão sujeitas aos seguintes valores:
+
+a) No mínimo, uma melhoria de 6 % dos indicadores referidos na alínea a) do número anterior em oito anos, quando se trate de instalações com consumo intensivo de energia igual ou superior a 1000 tep/ano, ou melhoria de 4 % em oito anos para as restantes instalações; e
+
+b) No mínimo, a manutenção dos valores históricos de intensidade carbónica.
+
+> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 68-A/2015 - Diário da República n.º 84/2015, 1º Suplemento, Série I de 2015-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-a-2015-67123272), em vigor a partir de 2015-05-01
+
+###### Artigo 8.º — Aprovação do PREn
+
+1 - O PREn é apresentado à ADENE nos quatro meses seguintes ao vencimento do prazo para a realização da auditoria energética.
+
+2 - Se o PREn estiver devidamente instruído, a ADENE, no prazo de 5 dias, submete-o à aprovação da DGEG, acompanhado do relatório de auditoria energética que lhe serve de base.
+
+3 - A DGEG pronuncia-se sobre o PREn no prazo de 30 dias após a sua apresentação nos termos do n.º 1, sem o que o mesmo se considera como tacitamente aprovado.
+
+4 - Nos casos em que as medidas identificadas no PREn não permitam a definição de objetivos de melhoria do consumo específico ou da intensidade energética, nos termos do disposto no artigo anterior, a aprovação do PREn depende da realização de uma visita técnica da responsabilidade da ADENE, para confirmar a informação prestada na auditoria, e da verificação do cumprimento do disposto no n.º 2 do artigo anterior.
+
+5 - Após a realização da visita referida no número anterior e caso sejam detetadas situações passíveis de melhoria dos indicadores referidos no n.º 2 do artigo anterior, a aprovação do PREn depende da realização de uma nova auditoria, da responsabilidade do operador das instalações CIE, a ser entregue no prazo máximo de quatro meses após a notificação da DGEG.
+
+6 - O prazo previsto no n.º 3 passa para 60 dias nos casos previstos nos n.os 4 e 5.
+
+7 - Para além da visita técnica e auditoria previstas nos n.os 4 e 5, respetivamente, a DGEG pode solicitar informações complementares ao operador e, fundamentadamente, recomendar a introdução de alterações ao conteúdo do PREn, tendo em vista a sua aprovação, suspendendo-se a contagem dos prazos previstos nos n.os 3 e 6 até à resposta do operador.
+
+8 - O PREn quando aprovado pela DGEG designa-se por Acordo de Racionalização dos Consumos de Energia (ARCE).
+
+9 - O ARCE é comunicado pela DGEG à AT, com vista à instrução dos mecanismos de isenção previstos na legislação fiscal aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/7-2013-257073), em vigor a partir de 2013-01-27
+
+###### Artigo 9.º — Controlo de execução e progresso do ARCE
+
+1 - O operador deve apresentar à ADENE, a cada dois anos de vigência do ARCE e até 30 de Abril do ano subsequente ao termo daquele período, relatório de execução e progresso verificados no período de implementação do ARCE a que respeita o relatório, o qual deve referir as metas e objectivos alcançados, desvios verificados e medidas tomadas ou a tomar para a sua correcção.
+
+2 - O relatório relativo ao último período de vigência do ARCE deve incluir o balanço final da execução da totalidade do mesmo, considerando-se como relatório final.
+
+3 - Os relatórios previstos nos números anteriores são elaborados por técnico habilitado escolhido pelo operador da instalação de CIE ou colocado ao serviço de entidade por ele contratada, sendo esse técnico solidariamente responsável pelo seu conteúdo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/7-2013-257073), em vigor a partir de 2013-01-27
+
+###### Artigo 10.º — Acesso a atividades de auditoria energética e de elaboração e controlo da execução de planos de racionalização
+
+1 - Para cumprimento das obrigações previstas no presente decreto-lei, deve o operador recorrer a técnicos habilitados para a realização de auditorias energéticas, para a elaboração de planos de racionalização dos consumos de energia e para o controlo da sua execução e progresso, incluindo a elaboração de relatórios de execução e progresso, ou a entidades que tenham esses técnicos ao seu serviço.
+
+2 - O regime de acesso e exercício das atividades de realização de auditorias energéticas, de elaboração de planos de racionalização dos consumos de energia e de controlo da sua execução e progresso consta de lei própria.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/7-2013-257073), em vigor a partir de 2013-01-27
+
+###### Artigo 11.º — Isenção de ISP
+
+1 - Para efeitos de reconhecimento da isenção do ISP por parte da AT, esta entidade é notificada pela DGEG sobre a identificação do operador que explore uma instalação abrangida por um ARCE.
+
+2 - A AT procede ao reconhecimento da isenção do ISP e notifica os operadores exploradores das referidas instalações da data a partir da qual a mesma produz efeitos ou da revogação da mesma, caso o operador explorador deixe de cumprir o estabelecido no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/7-2013-257073), em vigor a partir de 2013-01-27
+
+###### Artigo 12.º — Incentivos
+
+1 - O operador de instalações abrangidas por um ARCE beneficia dos seguintes estímulos e incentivos à promoção da eficiência energética:
+
+a) No caso de consumos inferiores a 1000 tep/ano, ao ressarcimento de 50 % do custo das auditorias energéticas obrigatórias, até ao limite de (euro) 750 e na medida das disponibilidades do fundo de eficiência energética existentes para o efeito, recuperáveis a partir do relatório de execução e progresso que verifique o cumprimento de pelo menos 50 % das medidas previstas no ARCE;
+
+b) Ao ressarcimento de 25 % dos investimentos realizados em equipamentos e sistemas de gestão e monitorização dos consumos de energia até ao limite de (euro) 10 000 e na medida das disponibilidades do fundo de eficiência energética existentes para o efeito.
+
+2 - No caso das instalações que consumam apenas gás natural e ou renováveis, os limites previstos nos números anteriores são majorados em 25 % no caso das renováveis e 15 % no caso do gás natural.
+
+3 - As instalações sujeitas ao regime do PNALE têm também acesso aos benefícios previstos nos números anteriores desde que cumpram as exigências estabelecidas no presente artigo para as instalações com consumos iguais ou superiores a 1000 tep/ano.
+
+4 - Os regulamentos de acesso aos benefícios previstos no n.º 1 são definidos por portaria dos membros do Governo responsáveis pela área da economia e da inovação e do desenvolvimento regional.
+
+###### Artigo 13.º — Fiscalização
+
+1 - A fiscalização do cumprimento das obrigações do operador previstas no presente decreto-lei, bem como a aplicação das penalidades nele previstas cabe à DGEG, que neste âmbito e na medida do necessário pode, nomeadamente:
+
+a) Solicitar informações e dados relativos à instalação e seu funcionamento;
+
+b) Aceder aos serviços e instalações e nesse âmbito realizar vistoria e recolher os registos relativos ao funcionamento da mesma.
+
+2 - Os técnicos da DGEG ou os consultores externos incumbidos da fiscalização estão obrigados a assegurar a confidencialidade perante terceiros dos dados, análises e informações obtidos neste âmbito.
+
+###### Artigo 14.º — Penalidades
+
+1 - O não cumprimento das metas ou a não implementação das medidas definidas no ARCE, e nos casos em que no ano seguinte ao relatório final de execução o operador não recupere os desvios, implica:
+
+a) Quando o desvio a apurar no final do período de vigência do ARCE for igual ou superior a 25 %, o pagamento pelo operador do montante de (euro) 50 por tep/ano não evitado, o qual é agravado em 100 % em caso de reincidência;
+
+b) Quando o desvio a apurar no final do período de vigência do ARCE for igual ou superior a 50 %, para além do pagamento previsto na alínea anterior, o pagamento do valor recebido em virtude da concessão dos apoios previstos nos n.os 1 e 2 do artigo 12.º, e do valor proporcional correspondente aos benefícios decorrentes do facto da instalação se encontrar abrangida pelo ARCE.
+
+2 - O valor da penalidade prevista na alínea a) do número anterior deve ser actualizado anualmente, com base na evolução do índice médio de preços no consumidor do continente, sem habitação, verificado no ano anterior e publicado pelo Instituto Nacional de Estatística.
+
+3 - Os montantes apurados em virtude da cobrança pela DGEG dos montantes referidos no n.º 1 revertem integralmente para o Fundo de Eficiência Energética.
+
+4 - Os montantes pagos nos termos do n.º 1, mediante despacho do director-geral da DGEG, são reembolsáveis em 75 %, desde que o operador recupere no ano subsequente à aplicação da penalidade os desvios ao cumprimento do ARCE que determinaram a aplicação da penalidade.
+
+###### Artigo 15.º — Contra-ordenações e coimas
+
+1 - Constituem contra-ordenações, puníveis com coima:
+
+a) A violação de qualquer das obrigações previstas nas alíneas a), b) e c) do n.º 1 do artigo 4.º, as quais são puníveis com a coima cujo montante mínimo é de (euro) 250 e máximo de (euro) 3500;
+
+b) A violação do disposto nos n.os 1 e 2 do artigo 9.º e no n.º 2 do artigo 10.º, a qual é punida com coima cujo montante mínimo é de (euro) 150 e máximo de (euro) 300.
+
+2 - Tratando-se de pessoas colectivas os montantes mínimo e máximo das coimas previstas no número anterior são elevadas ao dobro.
+
+3 - A negligência é punível.
+
+###### Artigo 16.º — Sanções acessórias
+
+Consoante a gravidade da infracção e a culpa do agente, pode ser aplicada, simultaneamente com a coima, a sanção acessória da privação dos direitos a subsídios ou benefícios outorgados por serviços ou entidades públicas.
+
+###### Artigo 17.º — Competência sancionatória e destino das receitas das coimas
+
+1 - O processamento das contra-ordenações e a aplicação das coimas e sanções acessórias compete à DGEG.
+
+2 - O produto das coimas cobradas em aplicação do presente decreto-lei reverte:
+
+a) 60 % para o Estado;
+
+b) 40 % para o Fundo de Eficiência Energética.
+
+###### Artigo 18.º — Taxas
+
+1 - São devidas taxas pelos actos e nos montantes a seguir indicados:
+
+a) Pela apreciação e acompanhamento do PREn - (euro) 350, e no caso de instalações com consumos iguais ou superiores a 1000 tep/ano - (euro) 750, agravados em 50 % nos casos previstos no n.º 3 do artigo 8.º;
+
+b) (Revogada).
+
+2 - As taxas previstas no número anterior devem ser pagas no prazo de 30 dias após a notificação do respetivo documento de cobrança pela ADENE, sendo devidas pelo operador.
+
+3 - Os actos a que se refere o n.º 1 podem ser praticados após a emissão do respectivo documento de cobrança da taxa devida.
+
+4 - Os montantes resultantes da cobrança das taxas previstas no número anterior revertem para a ADENE.
+
+5 - O valor das taxas previstas neste artigo deve ser actualizado bianualmente, com base na evolução do índice médio de preços no consumidor do continente, sem habitação, verificado no ano anterior e publicado pelo Instituto Nacional de Estatística.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/7-2013-257073), em vigor a partir de 2013-01-27
+
+###### Artigo 19.º — Regulamentação técnica
+
+1 - (Revogado.)
+
+2 - Com vista à aplicação do presente decreto-lei, o director-geral da DGEG aprova, por despacho a publicar no Diário da República, a seguinte regulamentação técnica:
+
+a) Factores de conversão para equivalente a petróleo de teores em energia de combustíveis seleccionados para utilização final;
+
+b) Elementos a ter em consideração na realização de auditorias energéticas, na elaboração dos planos de racionalização energética e nos relatórios de execução e progresso;
+
+c) O regulamento interno do SGCIE.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/7-2013-257073), em vigor a partir de 2013-01-27
+
+###### Artigo 20.º — Norma revogatória
+
+1 - Com a entrada em vigor do presente decreto-lei são revogados os Decretos-Leis n.os 58/82, de 26 de Novembro, e 428/83, de 9 de Dezembro, e a Portaria n.º 359/82, de 7 de Abril, sem prejuízo do disposto no número seguinte.
+
+2 - A Portaria n.º 228/90, de 27 de Março, que aprova o Regulamento da Gestão do Consumo de Energia para o Sector dos Transportes e respectivos anexos, mantém-se até à entrada em vigor da legislação específica aplicável a que se refere o n.º 2 do artigo 2.º
+
+###### Artigo 21.º — Disposições finais e transitórias
+
+1 - O presente decreto-lei entra em vigor 60 dias após a sua publicação.
+
+2 - A entrada em vigor do presente decreto-lei não prejudica a manutenção dos planos de racionalização de consumos de energia, já aprovados nos termos e pelos prazos previstos nos termos dos Decretos-Leis n.os 58/82, de 26 de fevereiro, e 428/83, de 9 de dezembro, podendo os respetivos titulares, propondo as necessárias alterações, requerer a aplicação do regime deste decreto-lei com vista à conversão em ARCE.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2013 - Diário da República n.º 15/2013, Série I de 2013-01-22](https://diariodarepublica.pt/dr/detalhe/lei/7-2013-257073), em vigor a partir de 2013-01-27
+
+Visto e aprovado em Conselho de Ministros de 28 de Fevereiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - António José de Castro Guerra - Mário Lino Soares Correia.
+
+Promulgado em 3 de Março de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 4 de Abril de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

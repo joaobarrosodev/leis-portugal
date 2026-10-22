@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:344941:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-221579071",
+ "dre_path": "/dr/detalhe/portaria/1334-f-2010-344941",
+ "source_lastmod": "2025-06-02",
+ "versions": [
+  {
+   "date": "2010-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221562108",
+    "221562109",
+    "221562110",
+    "221562111"
+   ]
+  }
+ ],
+ "fragments": {
+  "221562108": {
+   "fragment_id": "221579072",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1334-F/2010\n\nde 31 de Dezembro\n\nA Portaria n.º 1424/2001, de 13 de Dezembro, cria o regulamento que estabelece as condições e as taxas devidas pelo bloqueamento, remoção e depósito de veículos, no quadro do artigo 170.º do Código da Estrada.\n\nOs montantes aí definidos nunca foram alvo de actualizações desde a sua fixação inicial, encontrando-se hoje deveras desactualizados.\n\nEsta desactualização torna-se mais grave nas situações em que as forças de segurança carecem de recorrer a serviços privados de remoção e depósito de veículos, cujos preços de mercado nem sempre são integralmente cobertos pelos montantes cobrados ao infractor.\n\nAssim:\n\nManda o Governo, pelo Ministro da Administração Interna, o seguinte:"
+  },
+  "221562109": {
+   "fragment_id": "221579073",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração à Portaria n.º 1424/2001, de 13 de Dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração à Portaria n.º 1424/2001, de 13 de Dezembro\n\nOs n.os 9.º, 10.º, 11.º, 12.º e 13.º da Portaria n.º 1424/2001, de 13 de Dezembro, passam a ter a seguinte redacção:\n\n«9.º Pelo bloqueamento de um veículo, efectuado nos termos da presente portaria, são devidas as seguintes taxas:\n\na) Ciclomotores, motociclos e outros veículos a motor não previstos nas alíneas seguintes - (euro) 30;\n\nb) Veículos ligeiros - (euro) 60;\n\nc) Veículos pesados - (euro) 120.\n\n10.º Pela remoção de ciclomotores e outros veículos a motor não previstos nos números seguintes, efectuada nos termos da presente portaria, são devidas as seguintes taxas:\n\na) Dentro de uma localidade - (euro) 30;\n\nb) Fora ou a partir de fora de uma localidade, até ao máximo de 10 km contados desde o local da remoção até ao local de depósito do veículo - (euro) 45;\n\nc) Na hipótese prevista na alínea anterior, por cada quilómetro percorrido para além dos primeiros 10 km - (euro) 1,50.\n\n11.º Pela remoção de veículos ligeiros, efectuada nos termos da presente portaria, são devidas as seguintes taxas:\n\na) Dentro de uma localidade - (euro) 75;\n\nb) Fora ou a partir de uma localidade, até ao máximo de 10 km contados desde o local da remoção até ao local de depósito do veículo - (euro) 90;\n\nc) Na hipótese prevista na alínea anterior, por cada quilómetro percorrido para além dos primeiros 10 km - (euro) 2.\n\n12.º Pela remoção de veículos pesados, efectuada nos termos da presente portaria, são devidas as seguintes taxas:\n\na) Dentro de uma localidade - (euro) 150;\n\nb) Fora ou a partir de uma localidade, até ao máximo de 10 km contados desde o local da remoção até ao local de depósito do veículo - (euro) 180;\n\nc) Na hipótese prevista na alínea anterior, por cada quilómetro percorrido para além dos primeiros 10 km - (euro) 3.\n\n13.º Pelo depósito de um veículo à guarda da entidade competente para a fiscalização são devidas, por cada período de vinte e quatro horas, ou parte deste período, se ele não chegar a completar-se, as seguintes taxas:\n\na) Ciclomotores, motociclos e outros veículos a motor não previstos nas alíneas seguintes - (euro) 7,50;\n\nb) Veículos ligeiros - (euro) 15;\n\nc) Veículos pesados - (euro) 30.»"
+  },
+  "221562110": {
+   "fragment_id": "221579074",
+   "type": 11,
+   "heading": "Artigo 2.º — Actualização anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Actualização anual\n\nOs valores das taxas previstos na presente portaria são actualizados automaticamente, em 1 de Março de cada ano, em função da variação - quando esta for positiva - do índice médio de preços no consumidor, excluindo a habitação, no continente, relativo ao ano anterior e publicado pelo Instituto Nacional de Estatística, arredondando-se os resultados obtidos, por excesso, para a unidade superior."
+  },
+  "221562111": {
+   "fragment_id": "221609075",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nSão revogados os n.os 9.º, 10.º, 11.º, 12.º e 13.º da Portaria n.º 1424/2001, de 13 de Dezembro."
+  }
+ }
+}

@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:982178:por
+title: Portaria n.º 833/2007
+short_title: null
+summary: Passagem à situação de reserva do COR ADMAER 018505-B, Adérito Cardoso
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Força Aérea - Comando de Pessoal da Força Aérea - Direcção de Pessoal
+proposing_entity: null
+official_number: 833/2007
+official_date: null
+publication_date: '2007-09-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 177/2007, Série II de 2007-09-13
+  number: '177'
+  series: II
+  supplement: null
+  pages: 26727 - 26727
+  pdf_url: https://files.diariodarepublica.pt/2s/2007/09/177000000/2672726727.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '982178'
+  dre_path: /dr/detalhe/portaria/833-2007-982178
+  internal: pt:dre:982178:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/833-2007-982178
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/833-2007-982178
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-09-13T00:00:00Z'
+integrity:
+  source_sha256: 01b680864bca4724dd73c3e9edceb7b7c48c414f4ec6811ad3d0b101d8fc3c2d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-833-982178.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 833/2007
+
+Manda o Chefe do Estado-Maior da Força Aérea que o oficial em seguida mencionado passe à situação de reserva, por ter atingido o limite de idade estabelecido para o respectivo posto, ao abrigo da alínea a) do n.º 1 do artigo 152.º do Estatuto dos Militares das Forças Armadas, aprovado pelo [Decreto-Lei n.º 236/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/236-1999-393000), de 25 de Junho, com as alterações introduzidas pelo [Decreto-Lei n.º 197-A/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-a-2003-426744), de 30 de Agosto, e pelo [Decreto-Lei n.º 166/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2005-147857), de 23 de Setembro, considerando os n.os 2 e 6 do artigo 3.º do último diploma:
+
+Quadro de oficiais ADMAER:
+
+COR ADMAER ADCN 018505-B, Adérito Cardoso, DGPRM.
+
+Conta esta situação desde 10 de Agosto de 2007.
+
+10 de Agosto de 2007. - Por subdelegação do Comandante, após delegação do Chefe do Estado-Maior da Força Aérea, o Director, em exercício de funções, Alberto Luciano Martins, COR/PILAV.

@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75481291:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-75740871",
+ "dre_path": "/dr/detalhe/portaria/262-2016-75481291",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-10-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75751775",
+    "75751776",
+    "75751777",
+    "75751778",
+    "75751779",
+    "75751780",
+    "75751781",
+    "75751782"
+   ]
+  },
+  {
+   "date": "2018-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115609038:por",
+     "title": "Portaria n.º 188/2018",
+     "published": "2018-06-29",
+     "dre_path": "/dr/detalhe/portaria/188-2018-115609038"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "75751775",
+    "75751776",
+    "115600033",
+    "115600034",
+    "75751779",
+    "75751780",
+    "75751781",
+    "75751782",
+    "75751783"
+   ]
+  }
+ ],
+ "fragments": {
+  "75751775": {
+   "fragment_id": "75740872",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 262/2016\n\nde 7 de outubro\n\nO Decreto-Lei n.º 62/2016, de 12 de setembro, prevê que por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde pode ser atribuída às farmácias uma remuneração específica por embalagem, na dispensa de medicamentos comparticipados, promovendo uma utilização racional e mais custo-efetiva daqueles medicamentos.\n\nNeste enquadramento, a presente portaria prevê a atribuição de uma remuneração específica às farmácias pela dispensa de embalagens de medicamentos comparticipados, designadamente os inseridos em grupos homogéneos com preço igual ou inferior ao 4.º preço mais baixo.\n\nAssim, ao abrigo do artigo 3.º do Decreto-Lei n.º 62/2016, de 12 de setembro, manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:"
+  },
+  "75751776": {
+   "fragment_id": "75740873",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente Portaria regula a remuneração específica às farmácias por dispensa de medicamentos comparticipados em função da redução dos preços de referência."
+  },
+  "75751777": {
+   "fragment_id": "75740874",
+   "type": 11,
+   "heading": "Artigo 2.º — Remuneração Específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Remuneração Específica\n\n1 - É atribuída às farmácias uma remuneração específica associada ao seu contributo na redução média do preço de referência, por descida do preço de venda ao público (PVP) dos medicamentos inseridos em grupos homogéneos.\n\n2 - Para efeitos do disposto no número anterior por cada embalagem de medicamentos dispensada, a farmácia é remunerada em 0,35 (euro) por cada embalagem de medicamentos dispensados com preço igual ou inferior ao 4.º preço mais baixo do grupo homogéneo.\n\n3 - A redução média do preço de referência, por descida do preço de venda ao público (PVP) dos medicamentos inseridos em grupos homogéneos é aferida por comparação dos valores de cada trimestre com o trimestre homólogo, para efeitos do disposto no artigo seguinte."
+  },
+  "75751778": {
+   "fragment_id": "75751875",
+   "type": 11,
+   "heading": "Artigo 3.º — Apuramento e processamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Apuramento e processamento\n\n1 - Para efeitos do disposto no artigo anterior, trimestralmente, é apurado o montante de poupança (S) alcançada pelo Ministério da Saúde através da redução do preço de referência e os custos (C) em que incorreu com os pagamentos previstos no n.º 2 do mesmo artigo.\n\n2 - A poupança referida no número anterior é apurada de acordo com a seguinte fórmula:\n\nS = (somatório){[(PR t(índice h) * Taxa Comparticipação t(índice n)) - (PR t(índice n) * Taxa Comparticipação t(índice n))] * Embalagens t(índice n)}\n\nem que:\n\n(somatório) - Grupos homogéneos em vigor simultaneamente no trimestre em análise (t(índice n) e no trimestre homólogo (t(índice h));\n\nPR t(índice n) - Preço de referência do medicamento em vigor no trimestre em análise;\n\nPR t(índice h) - Preço de referência do medicamento em vigor no trimestre homólogo do ano anterior, face ao trimestre em análise;\n\nTaxa Comparticipação t(índice n) - Comparticipação do Estado sobre o medicamento dispensado ao utente, no trimestre em análise;\n\nEmbalagens t(índice n) - N.º de embalagens dispensadas do medicamento no trimestre em análise.\n\n3 - Os custos referidos no n.º 1 correspondem ao somatório da remuneração específica paga às farmácias, no trimestre em análise (t(índice n)), de acordo com os valores constantes do n.º 2 do artigo 2.º\n\n4 - No caso de se verificar que a diferença entre a poupança e os custos é negativa (S-C), no mês seguinte ao apuramento daquela diferença haverá um desconto automático, que será abatido aos montantes devidos pelo Ministério da Saúde pela dispensa de medicamentos em farmácia apurados pelo Centro de Conferência de Faturas.\n\n5 - O desconto a que se refere o número anterior é proporcional ao valor da faturação com medicamentos comparticipados de cada farmácia.\n\n6 - As farmácias emitem as notas de crédito necessárias à regularização contabilística do desconto previsto no número anterior no prazo máximo de um mês após a efetivação do desconto."
+  },
+  "75751779": {
+   "fragment_id": "75751876",
+   "type": 11,
+   "heading": "Artigo 4.º — Avaliação e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avaliação e monitorização\n\nA avaliação e monitorização da aplicação do disposto na presente portaria são realizadas por uma Comissão de Acompanhamento criada por despacho do membro do Governo responsável pela área da saúde, à qual compete garantir o cumprimento do disposto no artigo 3.º, bem como pronunciar-se sobre questões de caráter técnico e propor iniciativas conducentes ao adequado cumprimento do disposto neste diploma."
+  },
+  "75751780": {
+   "fragment_id": "75751877",
+   "type": 11,
+   "heading": "Artigo 5.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pagamento\n\nA faturação, pelas farmácias, da remuneração específica prevista no n.º 2 do artigo 2.º e o respetivo pagamento pelo Serviço Nacional de Saúde efetuam-se nos mesmos termos, prazos e condições da faturação e pagamento das comparticipações nos preços dos medicamentos, de acordo com a legislação em vigor."
+  },
+  "75751781": {
+   "fragment_id": "75751878",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogado o n.º 2 do artigo 12.º da Portaria n.º 195-C/2015, de 30 de junho."
+  },
+  "75751782": {
+   "fragment_id": "75751879",
+   "type": 11,
+   "heading": "Artigo 7.º — Vigência e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vigência e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2017.\n\n2 - O regime previsto na presente portaria pode vir a ser objeto de revisão em 2018, em função da avaliação da sua implementação em 2017."
+  },
+  "115600033": {
+   "fragment_id": "75740874",
+   "type": 11,
+   "heading": "Artigo 2.º — Remuneração Específica",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188/2018 - Diário da República n.º 124/2018, Série I de 2018-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/188-2018-115609038), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 2.º — Remuneração Específica\n\n1 - É atribuída às farmácias uma remuneração específica associada ao seu contributo na redução média do preço de referência, por descida do preço de venda ao público (PVP) dos medicamentos inseridos em grupos homogéneos.\n\n2 - Para efeitos do disposto no número anterior, por cada embalagem de medicamentos dispensada a preço igual ou inferior ao 4.º preço mais baixo do grupo homogéneo, a farmácia é remunerada em 0,35 (euro), valor que inclui o IVA à taxa aplicável ao medicamento dispensado.\n\n3 - A redução média do preço de referência, por descida do preço de venda ao público (PVP) dos medicamentos inseridos em grupos homogéneos é aferida por comparação dos valores de cada trimestre com o trimestre homólogo, para efeitos do disposto no artigo seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188/2018 - Diário da República n.º 124/2018, Série I de 2018-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/188-2018-115609038), em vigor a partir de 2018-07-01"
+  },
+  "115600034": {
+   "fragment_id": "75751875",
+   "type": 11,
+   "heading": "Artigo 3.º — Apuramento e processamento",
+   "in_force_from": "2018-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188/2018 - Diário da República n.º 124/2018, Série I de 2018-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/188-2018-115609038), em vigor a partir de 2018-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Apuramento e processamento\n\n1 - Para efeitos do disposto no artigo anterior, trimestralmente, é apurado o montante de poupança (S) alcançada pelo Ministério da Saúde através da redução do preço de referência e os custos (C) em que incorreu com os pagamentos previstos no n.º 2 do mesmo artigo.\n\n2 - A poupança referida no número anterior é apurada de acordo com a seguinte fórmula:\n\nS = (somatório){[(PR t(índice h) * Taxa Comparticipação t(índice n)) - (PR t(índice n) * Taxa Comparticipação t(índice n))] * Embalagens t(índice n)}\n\nem que:\n\n(somatório) - Grupos homogéneos em vigor simultaneamente no trimestre em análise (t(índice n) e no trimestre homólogo (t(índice h));\n\nPR t(índice n) - Preço de referência do medicamento em vigor no trimestre em análise;\n\nPR t(índice h) - Preço de referência do medicamento em vigor no trimestre homólogo do ano anterior, face ao trimestre em análise;\n\nTaxa Comparticipação t(índice n) - Comparticipação do Estado sobre o medicamento dispensado ao utente, no trimestre em análise;\n\nEmbalagens t(índice n) - N.º de embalagens dispensadas do medicamento no trimestre em análise.\n\n3 - Os custos referidos no n.º 1 correspondem ao somatório da remuneração específica paga às farmácias, no trimestre em análise (tn), de acordo com os valores constantes do n.º 2 do artigo 2.º, com exclusão do IVA.\n\n4 - No caso de se verificar que a diferença entre a poupança e os custos é negativa (S-C), no mês seguinte ao apuramento daquela diferença haverá um desconto automático, que será abatido aos montantes devidos pelo Ministério da Saúde pela dispensa de medicamentos em farmácia apurados pelo Centro de Conferência de Faturas.\n\n5 - O desconto a que se refere o número anterior será proporcional à remuneração específica recebida por cada farmácia no período em causa.\n\n6 - As farmácias emitem as notas de crédito necessárias à regularização contabilística do desconto previsto no número anterior no prazo máximo de um mês após a efetivação do desconto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188/2018 - Diário da República n.º 124/2018, Série I de 2018-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/188-2018-115609038), em vigor a partir de 2018-07-01"
+  },
+  "75751783": {
+   "fragment_id": "75751880",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 3 de outubro de 2016. - O Ministro da Saúde, Adalberto Campos Fernandes, em 27 de setembro de 2016."
+  }
+ }
+}

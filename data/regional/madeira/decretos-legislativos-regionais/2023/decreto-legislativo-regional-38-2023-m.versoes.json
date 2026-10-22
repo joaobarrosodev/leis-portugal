@@ -1,0 +1,385 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:216598406:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-923492738",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/38-2023-216598406",
+ "source_lastmod": "2025-07-04",
+ "versions": [
+  {
+   "date": "2023-08-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "923528783",
+    "923528784",
+    "923528785",
+    "923528786",
+    "923528787",
+    "923528788",
+    "923528789",
+    "923528790",
+    "923528791",
+    "923528792",
+    "923528793",
+    "923528794",
+    "923528795",
+    "923528796",
+    "923528797",
+    "923528798",
+    "923528799",
+    "923528800",
+    "923528801",
+    "923528802",
+    "923528803",
+    "923528804",
+    "923528805",
+    "923528806",
+    "923528807",
+    "923528808",
+    "923528809",
+    "923528810",
+    "923528811",
+    "923528812",
+    "923528814",
+    "923528815",
+    "923528816"
+   ]
+  },
+  {
+   "date": "2025-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:923290710:por",
+     "title": "Decreto Legislativo Regional n.º 2/2025/M",
+     "published": "2025-07-02",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2025-923290710"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "923528783",
+    "923528784",
+    "923528785",
+    "923528786",
+    "923528787",
+    "923528788",
+    "923528789",
+    "923528790",
+    "923528791",
+    "923528792",
+    "923528793",
+    "923528794",
+    "923528795",
+    "923528796",
+    "923528797",
+    "923528798",
+    "923528799",
+    "923528800",
+    "923528801",
+    "923528802",
+    "923528803",
+    "923528804",
+    "923528805",
+    "923528806",
+    "923528807",
+    "923528808",
+    "923528809",
+    "923528817",
+    "923528811",
+    "923528812",
+    "923528813",
+    "923528814",
+    "923528815",
+    "923528816"
+   ]
+  }
+ ],
+ "fragments": {
+  "923528783": {
+   "fragment_id": "923492739",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 38/2023/M\n\nSumário: Estabelece a carreira especial de técnico auxiliar de saúde do SESARAM, EPERAM.\n\nEstabelece a carreira especial de técnico auxiliar de saúde do SESARAM, EPERAM\n\nO Programa do XIII Governo Regional da Madeira definiu, como uma das suas orientações estratégicas para a área da saúde, que todos os trabalhadores sejam valorizados na sua condição de colaboradores e reconhecida a sua competência, sem prejuízo de uma justa avaliação das suas capacidades.\n\nAssim, a criação da carreira especial de técnico auxiliar de saúde no Serviço de Saúde da Região Autónoma da Madeira, EPERAM, adiante abreviadamente designado SESARAM, EPERAM, é uma forma de diferenciar os profissionais, cuja especificidade do seu conteúdo funcional na área do auxílio à prestação de cuidados de saúde ao utente é efetivada por profissionais de saúde habilitados com formação própria.\n\nA criação desta carreira no atual quadro da entidade pública empresarial, com toda a justiça para o seu reconhecimento, constitui, ainda, uma oportunidade para a afirmação da importante atividade desenvolvida por colaboradores integrados na carreira de assistentes operacionais, que urge diferenciar, pelo seu distinto grau de exigência e especial penosidade das funções que lhes são adstritas.\n\nAnte o exposto, acrescem as particularidades inerentes aos estabelecimentos hospitalares diferenciados de fim de linha e do importante fator da insularidade a que estão, inexoravelmente, submetidos, com a concomitante distinção jurídico-laboral.\n\nNesta esteira, entende-se existir especificidade regional para a criação desta carreira no quadro de competência próprias em matéria de saúde o que traduz a possibilidade de no quadro de recursos humanos da organização do serviço público de saúde, ser possível, também, a existência de carreira própria para uma função diferenciada.\n\nForam observados os procedimentos de auscultação estabelecidos no Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro e na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, ambos na sua redação atual.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, das alíneas m) e n) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto e 12/2000, de 21 de junho, o seguinte:"
+  },
+  "923528784": {
+   "fragment_id": "923492740",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto e âmbito de aplicação"
+  },
+  "923528785": {
+   "fragment_id": "923492741",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente diploma aprova o regime legal da carreira especial de técnico auxiliar de saúde da Região Autónoma da Madeira, cujos trabalhadores, independentemente do seu vínculo e regime laboral, estejam afetos aos estabelecimentos pertencentes ao SESARAM, EPERAM.\n\n2 - O presente decreto legislativo regional estabelece as regras de transição automática dos trabalhadores integrados na carreira de assistente operacional, que exerçam funções nos estabelecimentos do SESARAM, EPERAM, cujo conteúdo funcional seja enquadrado nesta carreira especial.\n\n3 - O presente diploma estabelece ainda as condições de admissão, habilitações literárias e recrutamento da carreira especial de técnico auxiliar de saúde, nos estabelecimentos pertencentes ao SESARAM, EPERAM."
+  },
+  "923528786": {
+   "fragment_id": "923492742",
+   "type": 1,
+   "heading": "Capítulo II — Condições de admissão, habilitações literárias e recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Condições de admissão, habilitações literárias e recrutamento"
+  },
+  "923528787": {
+   "fragment_id": "923492743",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições de admissão e natureza do nível habilitacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições de admissão e natureza do nível habilitacional\n\nSem prejuízo de formação adequada ou da exigência mínima de exercício de funções nas áreas de atuação da carreira especial de técnico auxiliar de saúde e de outros critérios de admissão que possam ser exigíveis no âmbito do processo de recrutamento, nos termos do presente decreto legislativo regional, ou que sejam previstos em sede de instrumento de regulamentação coletiva, os requisitos mínimos obrigatórios para a referida carreira especial, no que tange às habilitações literárias são os seguintes:\n\na) Os candidatos nascidos até 31/12/1966 devem ser detentores de, pelo menos, o 4.º ano de escolaridade, ou equivalente legal;\n\nb) Os candidatos nascidos entre 1/1/1967 e 31/12/1980 devem ser detentores de, pelo menos, o 6.º ano de escolaridade, ou equivalente legal;\n\nc) Os candidatos nascidos a partir de 1/1/1981 devem ser detentores de, pelo menos, o 9.º ano de escolaridade, ou equivalente legal."
+  },
+  "923528788": {
+   "fragment_id": "923492744",
+   "type": 11,
+   "heading": "Artigo 3.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Recrutamento\n\n1 - A constituição do vínculo dos trabalhadores da carreira especial de técnico auxiliar de saúde ocorre mediante:\n\na) Oferta de emprego para frequência de ação de formação específica;\n\nb) Oferta de emprego para detentores de formação específica.\n\n2 - São métodos de seleção obrigatórios:\n\na) No caso previsto na alínea a) do número anterior, o aproveitamento na ação de formação, prova de conhecimentos, na forma escrita e a entrevista;\n\nb) No caso de recrutamento previsto na alínea b) do número anterior, a prova de conhecimentos, na forma escrita e a entrevista."
+  },
+  "923528789": {
+   "fragment_id": "923492745",
+   "type": 1,
+   "heading": "Capítulo III — Oferta de emprego para recrutamento, exercício e perfil profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Oferta de emprego para recrutamento, exercício e perfil profissionais"
+  },
+  "923528790": {
+   "fragment_id": "923492746",
+   "type": 11,
+   "heading": "Artigo 4.º — Publicitação da abertura de oferta de emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Publicitação da abertura de oferta de emprego\n\nA abertura de oferta de emprego é publicitada, cumulativamente, pelos seguintes meios:\n\na) Em jornal de expansão regional e nacional, por extrato;\n\nb) Na página eletrónica do SESARAM, EPERAM, por publicitação integral."
+  },
+  "923528791": {
+   "fragment_id": "923492747",
+   "type": 11,
+   "heading": "Artigo 5.º — Exercício profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exercício profissional\n\nO exercício profissional do trabalhador inserido na carreira especial de técnico auxiliar de saúde é adequado à natureza da atividade que desenvolve, nos termos dos artigos seguintes."
+  },
+  "923528792": {
+   "fragment_id": "923492748",
+   "type": 11,
+   "heading": "Artigo 6.º — Perfil profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Perfil profissional\n\n1 - Considera-se da carreira especial de técnico auxiliar de saúde o profissional legalmente habilitado e apto a desempenhar funções de apoio às áreas compreendidas nos estabelecimentos pertencentes ao SESARAM, EPERAM.\n\n2 - A integração na carreira especial de técnico auxiliar de saúde determina o exercício das correspondentes funções."
+  },
+  "923528793": {
+   "fragment_id": "923492749",
+   "type": 1,
+   "heading": "Capítulo IV — Estrutura da carreira especial de técnico auxiliar de saúde e respetivos conteúdos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Estrutura da carreira especial de técnico auxiliar de saúde e respetivos conteúdos funcionais"
+  },
+  "923528794": {
+   "fragment_id": "923492750",
+   "type": 11,
+   "heading": "Artigo 7.º — Estrutura da carreira especial de técnico auxiliar de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estrutura da carreira especial de técnico auxiliar de saúde\n\nA carreira especial de técnico auxiliar de saúde é unicategorial e detém a categoria de técnico auxiliar de saúde."
+  },
+  "923528795": {
+   "fragment_id": "923492751",
+   "type": 11,
+   "heading": "Artigo 8.º — Conteúdo funcional do técnico auxiliar de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conteúdo funcional do técnico auxiliar de saúde\n\n1 - Compete aos trabalhadores da carreira especial de técnico auxiliar de saúde, sob orientação do pessoal da carreira de enfermagem:\n\na) Auxiliar na prestação de cuidados aos utentes;\n\nb) Auxiliar nas tarefas de alimentação e hidratação do utente e no acompanhamento durante as refeições;\n\nc) Auxiliar o enfermeiro na transferência, posicionamento e transporte do utente, em conformidade com as regras técnicas e orientações clínicas do serviço;\n\nd) Assegurar a limpeza, higienização e transporte de roupas, espaços, materiais e equipamentos;\n\ne) Assegurar atividades de apoio ao funcionamento das diferentes unidades e serviços de saúde;\n\nf) Realizar tarefas que necessitem de intervenção imediata e simultânea mediante o alerta do profissional de saúde de acordo com as suas competências;\n\ng) Auxiliar na recolha de amostras biológicas e transporte para o serviço adequado, de acordo com normas e ou procedimentos definidos;\n\nh) Efetuar, quando solicitado, a manutenção preventiva e a reposição de material necessário ao exercício das funções do profissional de saúde;\n\ni) Lavar e preparar o material a utilizar nas diferentes técnicas e exames;\n\nj) Preparar o material para esterilização;\n\nk) Zelar pela manutenção do material utilizado;\n\nl) Garantir a correta recolha, triagem, transporte e acondicionamento de resíduos hospitalares, assegurando o manuseamento e transporte adequado dos mesmos de acordo com os procedimentos definidos e adotados pelo serviço;\n\nm) Comunicar ao enfermeiro gestor todas as situações que não constituam rotina;\n\nn) Auxiliar nos cuidados post-mortem.\n\n2 - Compete, ainda, aos trabalhadores da carreira especial de técnico auxiliar de saúde as funções de natureza executiva, de caráter manual, enquadradas em diretivas gerais bem definidas e com graus de execução variáveis, assim como a realização de tarefas de apoio elementares, indispensáveis ao funcionamento dos órgãos e serviços, com o inerente esforço físico."
+  },
+  "923528796": {
+   "fragment_id": "923492752",
+   "type": 11,
+   "heading": "Artigo 9.º — Cargo e conteúdo funcional do técnico auxiliar de saúde coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cargo e conteúdo funcional do técnico auxiliar de saúde coordenador\n\n1 - O cargo de chefia de técnico auxiliar de saúde coordenador é exercido em regime de comissão de serviço, por um período de três anos, renovável, de acordo com o Código do Trabalho, demais legislação laboral e instrumentos de regulamentação coletiva de trabalho, de entre os trabalhadores de reconhecido mérito, experiência profissional e perfil adequado, designado por deliberação do conselho de administração.\n\n2 - O cargo de chefia de técnico auxiliar de saúde coordenador é classificado como sendo de grau 1, em termos de complexidade funcional.\n\n3 - Para além das funções intrínsecas à categoria de técnico auxiliar de saúde previstas no artigo 8.º do presente diploma, o conteúdo funcional do cargo de técnico auxiliar de saúde coordenador é sempre indissociável da mesma, compreendendo, designadamente:\n\na) Funções de chefia do pessoal da carreira especial de técnico auxiliar de saúde;\n\nb) Coordenação geral de todas as tarefas realizadas pelo pessoal da carreira especial de técnico auxiliar de saúde sob sua supervisão, no seu setor, por cujos resultados é responsável;\n\nc) Realização de tarefas de programação, organização e controlo de trabalhos a executar pelo pessoal sob a sua coordenação."
+  },
+  "923528797": {
+   "fragment_id": "923492753",
+   "type": 1,
+   "heading": "Capítulo V — Grau de complexidade, período experimental e avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Grau de complexidade, período experimental e avaliação do desempenho"
+  },
+  "923528798": {
+   "fragment_id": "923492754",
+   "type": 11,
+   "heading": "Artigo 10.º — Grau de complexidade funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Grau de complexidade funcional\n\nA carreira especial de técnico auxiliar de saúde é classificada como sendo de grau 1, em termos de complexidade funcional."
+  },
+  "923528799": {
+   "fragment_id": "923492755",
+   "type": 11,
+   "heading": "Artigo 11.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Período experimental\n\n1 - O período experimental do contrato sem termo tem a duração de 90 dias.\n\n2 - Considera-se cumprido o período experimental a que se refere o número anterior sempre que o contrato sem termo tenha sido imediatamente precedido da constituição de um vínculo, nas modalidades de contrato a termo resolutivo."
+  },
+  "923528800": {
+   "fragment_id": "923492756",
+   "type": 11,
+   "heading": "Artigo 12.º — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Avaliação do desempenho\n\n1 - A avaliação do desempenho relativa aos trabalhadores que integrem a carreira especial de técnico auxiliar de saúde rege-se pelo regime do sistema integrado de gestão e avaliação do desempenho na administração regional autónoma da Madeira.\n\n2 - Aos trabalhadores abrangidos pelas transições automáticas, independentemente do vínculo, reconhece-se o tempo de serviço, a avaliação do desempenho e respetivos pontos, assim como os pontos atribuídos em sede de diploma legal, que relevam para efeitos de alteração do posicionamento remuneratório, nos termos da tabela da carreira especial de técnico auxiliar de saúde constante do anexo I.\n\n3 - A avaliação do desempenho do técnico auxiliar de saúde coordenador é realizada bienalmente, de acordo com o regime estabelecido no sistema integrado de gestão e avaliação do desempenho na administração regional autónoma da Madeira, relevando para efeitos da respetiva carreira de origem a avaliação do desempenho efetuada."
+  },
+  "923528801": {
+   "fragment_id": "923492757",
+   "type": 1,
+   "heading": "Capítulo VI — Remuneração, posições remuneratórias, tempo e local de trabalho e regime de férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Remuneração, posições remuneratórias, tempo e local de trabalho e regime de férias"
+  },
+  "923528802": {
+   "fragment_id": "923492758",
+   "type": 11,
+   "heading": "Artigo 13.º — Remunerações e posições remuneratórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Remunerações e posições remuneratórias\n\n1 - A identificação dos níveis remuneratórios correspondentes às posições remuneratórias da carreira especial de técnico auxiliar de saúde consta do anexo I ao presente decreto legislativo regional, do qual faz parte integrante.\n\n2 - A identificação do nível remuneratório correspondente à posição remuneratória do cargo de técnico auxiliar de saúde coordenador consta do anexo II ao presente decreto legislativo regional, do qual faz parte integrante.\n\n3 - A estrutura e a mudança de posição remuneratória prevista no anexo I ao presente decreto legislativo regional ocorre nos termos estabelecidos para os trabalhadores em contrato de trabalho em funções públicas, obedecendo ao previsto na tabela remuneratória única, reconhecendo-se as futuras atualizações que possam ocorrer nos termos da lei, produzindo efeitos à data da entrada em vigor dos respetivos diplomas legais.\n\n4 - A remuneração prevista no anexo II obedece ao previsto na tabela remuneratória única, reconhecendo-se as futuras atualizações que possam ocorrer nos termos da lei, produzindo efeitos à data da entrada em vigor dos respetivos diplomas legais."
+  },
+  "923528803": {
+   "fragment_id": "923492759",
+   "type": 11,
+   "heading": "Artigo 14.º — Tempo de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Tempo de trabalho\n\n1 - O período normal de trabalho da carreira especial de técnico auxiliar de saúde é de 7 horas diárias e 35 horas semanais, organizado de segunda-feira a domingo, conferindo ao trabalhador, sempre que possível, dois dias de descanso semanal.\n\n2 - O trabalho em serviços de urgência, externa ou interna, unidades de cuidados intensivos, unidades de cuidados intermédios e de longa duração e em prolongamento de horário nos centros de saúde é, igualmente, organizado de segunda-feira a domingo.\n\n3 - Em caso de manifesta necessidade, para assegurar a continuidade da prestação de serviços, pode ser instituída nos diversos serviços do SESARAM, EPERAM, a semana de trabalho de cinco dias e meio.\n\n4 - Sem prejuízo da organização do horário de trabalho na modalidade de horário flexível, entende-se, para efeitos de cômputo do tempo de trabalho, que a semana de trabalho tem início às 0 horas de segunda-feira e termina às 24 horas do domingo seguinte.\n\n5 - O SESARAM, EPERAM, deve manter um registo que permita apurar o número de horas de trabalho prestadas pelo trabalhador, por dia e por semana, com indicação das horas de início e de termo do trabalho."
+  },
+  "923528804": {
+   "fragment_id": "923492760",
+   "type": 11,
+   "heading": "Artigo 15.º — Local de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Local de trabalho\n\nConsidera-se local de trabalho dos trabalhadores da carreira especial de técnico auxiliar de saúde os estabelecimentos do SESARAM, EPERAM, situados na Região Autónoma da Madeira."
+  },
+  "923528805": {
+   "fragment_id": "923492761",
+   "type": 11,
+   "heading": "Artigo 16.º — Férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Férias\n\n1 - O período anual de férias dos trabalhadores abrangidos pelo presente diploma fica sujeito ao regime vigente para os trabalhadores vinculados por contrato de trabalho em funções públicas em exercício de funções na Região Autónoma da Madeira.\n\n2 - O disposto no número anterior não prejudica o direito ao acréscimo de dias de férias em função dos anos de serviço efetivamente prestado, conforme o previsto para os trabalhadores em funções públicas ou no âmbito do sistema integrado de gestão e avaliação do desempenho na administração regional autónoma da Madeira."
+  },
+  "923528806": {
+   "fragment_id": "923492762",
+   "type": 1,
+   "heading": "Capítulo VII — Normas de transição automática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Normas de transição automática"
+  },
+  "923528807": {
+   "fragment_id": "923492763",
+   "type": 11,
+   "heading": "Artigo 17.º — Transição automática para a nova carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transição automática para a nova carreira\n\n1 - Sem prejuízo de manutenção do respetivo vínculo, os assistentes operacionais que estejam afetos ao SESARAM, EPERAM, e que, cumulativamente, sejam detentores de formação profissional específica ministrada por esta entidade, com pelo menos mil e seiscentas horas ou de outra formação específica que confira título profissional reconhecido e homologado pela Agência Nacional para a Qualificação e o Ensino Profissional e com conteúdo referencial mínimo previsto no anexo III, em ambos os casos, acrescido de um ano de experiência efetiva em funções descritas no presente diploma, são automaticamente integrados na carreira especial de técnico auxiliar de saúde.\n\n2 - Sem prejuízo de manutenção do respetivo vínculo, os assistentes operacionais que estejam afetos ao SESARAM, EPERAM, e que exerçam, há pelo menos três anos, as funções descritas no artigo 8.º do presente diploma, com o correspondente serviço efetivo, são automaticamente integrados na carreira especial de técnico auxiliar de saúde, após parecer favorável e confirmação, ambos, na forma escrita, respetivamente, do superior hierárquico e da direção de enfermagem, com homologação pelo conselho de administração do SESARAM, EPERAM.\n\n3 - Para efeitos do disposto nos números anteriores, determina-se que o reposicionamento para a tabela remuneratória constante do anexo I ocorre para o nível remuneratório não inferior ao da primeira posição da categoria para a qual transitam, sendo que, no caso de falta de identidade, os trabalhadores são reposicionados na posição remuneratória, automaticamente criada, de nível remuneratório não inferior ao da primeira posição da categoria para a qual transitam, cujo montante pecuniário seja idêntico à remuneração base que detêm na data da entrada em vigor do presente diploma.\n\n4 - Quando, por aplicação do disposto no número anterior, o reposicionamento ocorra para posição remuneratória com montante pecuniário idêntico à remuneração base detida na pretérita categoria de assistente operacional, o trabalhador é colocado na posição remuneratória imediatamente seguinte, no âmbito da tabela remuneratória prevista no anexo I, com salvaguarda da futura utilização dos pontos detidos e não usados.\n\n5 - Determina-se que a esta carreira especial é aplicável o suplemento remuneratório previsto no artigo 12.º do Decreto Legislativo Regional n.º 12/2020/M, de 10 de agosto, enquanto o mesmo vigorar, for alterado ou substituído por qualquer outro regime de idêntica natureza.\n\n6 - Aos assistentes operacionais abrangidos pela transição prevista no presente diploma é mantida a aplicação do determinado no artigo 11.º do Decreto-Lei n.º 84-F/2022, de 16 de dezembro, enquanto o mesmo vigorar, for alterado ou substituído por qualquer outro regime de idêntica natureza."
+  },
+  "923528808": {
+   "fragment_id": "923492764",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "923528809": {
+   "fragment_id": "923492765",
+   "type": 11,
+   "heading": "Artigo 18.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Legislação subsidiária\n\nEm tudo o mais não previsto no presente decreto legislativo regional, é aplicável à carreira especial de técnico auxiliar de saúde a legislação laboral em vigor para a generalidade dos trabalhadores da administração pública e setor empresarial da Região Autónoma da Madeira."
+  },
+  "923528810": {
+   "fragment_id": "923492766",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições finais e transitórias\n\n1 - As situações previstas nas alíneas a) e b) do n.º 1 do artigo 3.º do presente diploma são objeto de despacho do Secretário Regional de Saúde e Proteção Civil.\n\n2 - Até à publicação dos requisitos de candidatura e tramitação do processo de seleção para o recrutamento no âmbito da carreira especial de técnico auxiliar de saúde, aplica-se o regime previsto nos estatutos do SESARAM, EPERAM, e regulamento interno, em vigor.\n\n3 - Ao pessoal em exercício de funções no SESARAM, EPERAM, em regime de direito público é garantida a manutenção integral do seu estatuto jurídico aquando da transição automática, se aplicável, sem prejuízo da opção, a todo o tempo, pelo regime do contrato de trabalho do Código do Trabalho.\n\n4 - O reconhecimento formal do conteúdo referencial mínimo da componente de formação teórica específica ou de correspondência equiparada previsto no anexo III do presente diploma, compete ao conselho de administração do SESARAM, EPERAM, após o parecer escrito conjunto da direção de enfermagem e da coordenação do Centro de Formação do SESARAM, EPERAM.\n\n5 - É aplicável à carreira especial de técnico auxiliar de saúde o disposto no Decreto-Lei n.º 62/79, de 30 de março, na sua atual redação, ou no diploma que o venha a suceder, em matéria de suplementos.\n\n6 - O disposto no capítulo VI do presente diploma legal é aplicável ao técnico auxiliar de saúde coordenador."
+  },
+  "923528811": {
+   "fragment_id": "923492767",
+   "type": 11,
+   "heading": "Artigo 20.º — Mapas de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Mapas de pessoal\n\nOs mapas de pessoal consideram-se automaticamente alterados, passando a carreira e as categorias a ser as constantes do presente decreto legislativo regional."
+  },
+  "923528812": {
+   "fragment_id": "923492768",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente diploma entra em vigor no primeiro dia útil do mês seguinte ao da sua publicação."
+  },
+  "923528814": {
+   "fragment_id": "923492770",
+   "type": 14,
+   "heading": "Anexo I — Estrutura e posições remuneratórias da carreira especial de técnico auxiliar de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Estrutura e posições remuneratórias da carreira especial de técnico auxiliar de saúde\n\n(a que se referem os artigos 7.º e 13.º)\n\nCarreira especial de técnico auxiliar de saúde\n\n(ver documento original)"
+  },
+  "923528815": {
+   "fragment_id": "923492771",
+   "type": 14,
+   "heading": "Anexo II — Cargo de chefia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Cargo de chefia\n\nTécnico auxiliar de saúde coordenador\n\n(a que se referem os artigos 9.º e 13.º)\n\n(ver documento original)"
+  },
+  "923528816": {
+   "fragment_id": "923492772",
+   "type": 14,
+   "heading": "Anexo III — Conteúdo referencial mínimo da formação específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Conteúdo referencial mínimo da formação específica\n\n(a que se referem os artigos 17.º e 19.º)\n\n(ver documento original)\n\n116728618"
+  },
+  "923528817": {
+   "fragment_id": "923492766",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições finais e transitórias",
+   "in_force_from": "2025-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 107.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Disposições finais e transitórias\n\n1 - As situações previstas nas alíneas a) e b) do n.º 1 do artigo 3.º do presente diploma são objeto de despacho do Secretário Regional de Saúde e Proteção Civil.\n\n2 - Até à publicação dos requisitos de candidatura e tramitação do processo de seleção para o recrutamento no âmbito da carreira especial de técnico auxiliar de saúde, aplica-se o regime previsto nos estatutos do SESARAM, EPERAM, e regulamento interno, em vigor.\n\n3 - Ao pessoal em exercício de funções no SESARAM, EPERAM, em regime de direito público é garantida a manutenção integral do seu estatuto jurídico aquando da transição automática, se aplicável, sem prejuízo da opção, a todo o tempo, pelo regime do contrato de trabalho do Código do Trabalho.\n\n4 - O reconhecimento formal do conteúdo referencial mínimo da componente de formação teórica específica ou de correspondência equiparada previsto no anexo III do presente diploma, compete ao conselho de administração do SESARAM, EPERAM, após o parecer escrito conjunto da direção de enfermagem e da coordenação do Centro de Formação do SESARAM, EPERAM.\n\n5 - É aplicável à carreira especial de técnico auxiliar de saúde o disposto no Decreto-Lei n.º 62/79, de 30 de março, na sua atual redação, ou no diploma que o venha a suceder, em matéria de suplementos.\n\n6 - Após a integração, caso ocorra a situação de mobilidade funcional ou intercarreiras, atento o caráter especial da presente carreira, o trabalhador é posicionado na posição e nível remuneratório a que corresponda a remuneração atual no âmbito da carreira para a qual transita, sendo que, em caso de falta de identidade, os trabalhadores são reposicionados na posição remuneratória automaticamente criada, de nível remuneratório não inferior ao da primeira posição da categoria para a qual transitam, cujo montante pecuniário seja idêntico ao montante pecuniário correspondente à remuneração base a que atualmente têm direito, salvaguardando-se o previsto no n.º 5 do artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, ou, quando a primeira posição remuneratória da categoria correspondente à função que o trabalhador vai exercer for superior ao nível remuneratório da primeira posição daquela de que é titular, transita para essa primeira posição, assegurando-se sempre que não aufere remuneração inferior à que corresponde à categoria de que é titular.\n\n7 - O disposto no capítulo VI do presente diploma legal é aplicável ao técnico auxiliar de saúde coordenador.\n\n> Alterado pelo/a Artigo 107.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01"
+  },
+  "923528813": {
+   "fragment_id": "923492769",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de julho de 2023.\n\nO Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.\n\nAssinado em 28 de julho de 2023.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  }
+ }
+}

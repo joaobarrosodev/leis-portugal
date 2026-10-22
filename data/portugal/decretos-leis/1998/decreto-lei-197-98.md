@@ -1,0 +1,292 @@
+---
+schema_version: '1.0'
+id: pt:dre:485044:por
+title: Decreto-Lei n.º 197/98
+short_title: null
+summary: Estabele o regime jurídico da actividade dos transportes com embarcação de tráfego local
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 197/98
+official_date: null
+publication_date: '1998-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/1998, Série I-A de 1998-07-10
+  number: '157'
+  series: I
+  supplement: null
+  pages: 3205 - 3208
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/07/157a00/32053208.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/197/1998/07/10/p/dre/pt/html
+  oj: null
+  dre: '485044'
+  dre_path: /dr/detalhe/decreto-lei/197-1998-485044
+  internal: pt:dre:485044:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1998-485044
+  metadata_url: https://data.dre.pt/eli/dec-lei/197/1998/07/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1998-485044
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-07-10T00:00:00Z'
+integrity:
+  source_sha256: 596539df290b126b018bbb6ab6ef8e32ccdbbe6b2f5f1e74178d810c5b368926
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-197-485044.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Armador de Tráfego Local
+- Região Autónoma
+- Sistema de Autoridade Marítima
+- Sociedade Comercial
+- Multa
+- Contra-ordenação
+- Direcção Geral de Portos Navegação e Transportes Marítimos
+- Embarcação de Tráfego Local
+- Empresário
+- Navegação Local
+- Transporte de Mercadorias
+- Madeira.região Autónoma
+- Armador
+- Açores
+- Transporte de Passageiros
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+article_structure:
+  article_count: 22
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 197/98
+
+de 10 de Julho
+
+Até à publicação do presente diploma a actividade desenvolvida pelos armadores de tráfego local não estava regulada, resultando o conhecimento da mesma apenas pelo registo das embarcações utilizadas neste tipo de transportes.
+
+Substancialmente, estavam apenas em jogo preocupações respeitantes à segurança das embarcações, das pessoas e dos bens transportados, as quais eram garantidas através de uma fiscalização a cargo das autoridades marítimas locais, como se colhe de alguns dos regulamentos ainda em vigor (Regulamento da Carreira entre Vila Real de Santo António e Ayamonte, Regulamento para o Tráfego de Passageiros entre Caminha e La Passage, Regulamento do Tráfego de Passageiros entre as Ilhas da Madeira e de Porto Santo).
+
+Diferentemente, pretende-se agora, mantendo-se os padrões de segurança exigíveis, conhecer este tipo de actividade como realidade económica de modo a poder influenciá-la positivamente, nomeadamente através de medidas ou de ajudas que venham a ser consideradas necessárias.
+
+Assim, é criada a figura do armador de tráfego local, com direitos e obrigações expressamente fixados e a quem se exige uma inscrição assente em critérios objectivos, para que possa exercer a respectiva actividade.
+
+Finalmente, o presente diploma permite estabelecer com suficiente nitidez a distinção entre a actividade destes armadores de tráfego local e a dos outros armadores nacionais inscritos, sem prejuízo de se assegurar uma adequada intercorrespondência em zonas de interesses contrapostos.
+
+Foram ouvidos os órgãos de governo próprios das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma tem por objecto regular a actividade dos transportes com embarcações de tráfego local.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma entende-se por:
+
+a) Armador de tráfego local - aquele que efectua transportes de passageiros ou mercadorias, no âmbito da navegação local, com embarcações registadas no tráfego local;
+
+b) Navegação local - a navegação efectuada em águas lacustres fluviais ou em águas interiores da área de jurisdição da capitania ou da delegação marítima ou de outras entidades locais competentes;
+
+c) Embarcações de tráfego local - as embarcações de comércio registadas como embarcações de tráfego local, em conformidade com as normas de registo convencional ou ao abrigo do regime de registo temporário, e destinadas a operar dentro dos portos e respectivos rios, rias, lagos, lagoas e esteiros e, em geral, dentro das águas interiores da área de jurisdição da capitania ou da delegação marítima em que estão registadas ou de outras entidades locais competentes.
+
+###### Artigo 3.º — Âmbito de aplicação
+
+O presente diploma aplica-se ao armador de tráfego local:
+
+a) Com domicílio em território nacional, no caso de empresários em nome individual;
+
+b) Com sede e principal estabelecimento em território nacional, no caso de sociedade comercial.
+
+###### Artigo 4.º — Embarcações a explorar
+
+1 - O armador de tráfego local exerce a sua actividade com embarcações de registo convencional no tráfego local.
+
+2 - Em caso de comprovada insuficiência, podem ser utilizadas embarcações não registadas no tráfego local, nacionais ou estrangeiras, quer por armadores de tráfego local, quer por armadores nacionais, inscritos na Direcção-Geral de Portos, Navegação e Transportes Marítimos, adiante designada por DGPNTM.
+
+3 - Para efeitos do disposto no número anterior, os interessados devem solicitar à DGPNTM a necessária autorização, através de requerimento acompanhado dos elementos identificativos da embarcação a utilizar, da zona ou zonas onde pretendem operar, da duração da respectiva operação e de elementos de informação que permitam concluir que:
+
+a) Não existem outros armadores de tráfego local interessados nesses transportes ou estes operadores não têm disponíveis embarcações adequadas;
+
+b) Não ocorrem alterações perturbadoras do normal funcionamento do mercado, em resultado do tipo de embarcação a utilizar.
+
+4 - A autorização a que se refere o número anterior será comunicada pela DGPNTM às administrações portuárias e juntas autónomas dos portos, aos órgãos locais do Sistema de Autoridade Marítima com jurisdição na área e a outras entidades locais competentes envolvidas.
+
+###### Artigo 5.º — Navegação costeira nacional
+
+1 - Os armadores de tráfego local podem utilizar embarcações de tráfego local na área da navegação costeira nacional e em zonas diferentes das já legalmente permitidas na referida área de navegação, desde que sejam observadas todas as condições de segurança previstas na legislação aplicável.
+
+2 - Para efeitos do disposto no número anterior, os interessados devem requerer uma autorização à DGPNTM, indicando no respectivo requerimento a identificação das embarcações a utilizar, a zona ou zonas onde vão operar e a duração da respectiva operação.
+
+3 - O despacho de autorização deve estar a bordo, para efeitos de fiscalização.
+
+4 - A DGPNTM comunicará aos órgãos do Sistema de Autoridade Marítima as autorizações que venha a conceder.
+
+###### Artigo 6.º — Inscrição
+
+O exercício da actividade dos transportes com embarcações de tráfego local depende de inscrição a efectuar na DGPNTM.
+
+###### Artigo 7.º — Requisitos de inscrição
+
+1 - A inscrição como armador de tráfego local é efectuada a pedido do interessado, devendo o requerimento ser acompanhado dos seguintes documentos:
+
+a) Certidão do registo comercial do requerente, da qual constem todos os registos em vigor;
+
+b) Cópias do cartão de pessoa colectiva ou do cartão de empresário em nome individual, conforme o estatuto do requerente.
+
+2 - O requerente deve ainda:
+
+a) Fornecer a identificação das embarcações de que disponha;
+
+b) Indicar os serviços que tenha intenção de prestar.
+
+###### Artigo 8.º — Prazo para a efectivação da inscrição
+
+1 - A inscrição do armador de tráfego local é efectuada no prazo de 15 dias a contar da data de entrada do requerimento na DGPNTM, e no mesmo prazo deve ser emitido e enviado ao requerente o respectivo documento certificativo da inscrição.
+
+2 - O pedido de inscrição considera-se deferido se, no prazo referido no número anterior, nada for comunicado ao requerente.
+
+###### Artigo 9.º — Comunicação da inscrição a outras entidades
+
+A DGPNTM deve comunicar às entidades portuárias, aos órgãos do Sistema de Autoridade Marítima e a outras entidades locais competentes as inscrições dos armadores de tráfego local que efectue ao abrigo deste diploma.
+
+###### Artigo 10.º — Cancelamento da inscrição
+
+1 - O cancelamento da inscrição de um armador de tráfego local é efectuado pela DGPNTM, a pedido do próprio, ou com o fundamento de que o mesmo não exerce a actividade há mais de um ano.
+
+2 - Nos processos de cancelamento a que se refere a segunda parte do preceito anterior é obrigatoriamente ouvido pela DGPNTM o armador de tráfego local visado.
+
+###### Artigo 11.º — Direitos do armador de tráfego local
+
+O armador de tráfego local tem direito a:
+
+a) Efectuar transportes de passageiros ou mercadorias no âmbito da navegação local, ao abrigo deste diploma;
+
+b) Beneficiar de ajudas ou de apoios que venham a ser concedidos para o reapetrechamento ou modernização da respectiva frota;
+
+c) Beneficiar de vantagens fiscais resultantes de legislação especial aplicável;
+
+d) Receber dos departamentos competentes a informação ou a documentação do seu interesse, de âmbito nacional ou internacional, respeitante e relacionada com a sua actividade.
+
+###### Artigo 12.º — Obrigações do armador de tráfego local
+
+O armador de tráfego local é obrigado a comunicar à DGPNTM:
+
+a) As alterações que venham a ocorrer, relativamente aos elementos constantes do pedido de inscrição;
+
+b) A identificação dos navios que adquirir, ou que registar temporariamente;
+
+c) Os elementos relativos à actividade operacional da frota que explore e os serviços que preste;
+
+d) Elementos de natureza estatística, relativos a passageiros e a cargas transportados, com periodicidade trimestral;
+
+e) Outros elementos que lhe sejam solicitados, sem prejuízo do direito à confidencialidade ou à reserva de informação, inerentes à gestão comercial.
+
+###### Artigo 13.º — Fiscalização da actividade
+
+A fiscalização da actividade de transporte com embarcações de tráfego local compete à DGPNTM, aos órgãos do Sistema de Autoridade Marítima, às administrações portuárias e às juntas autónomas dos portos.
+
+###### Artigo 14.º — Competência sancionatória
+
+1 - Compete à DGPNTM assegurar o cumprimento do disposto neste diploma, a instrução dos processos de contra-ordenação e a aplicação das sanções.
+
+2 - O montante das coimas aplicadas, em execução do presente diploma, reverte:
+
+a) Em 60% para o Estado;
+
+b) Em 40% para a DGPNTM.
+
+###### Artigo 15.º — Contra-ordenações
+
+1 - Constitui contra-ordenação punível com coima qualquer infracção ao disposto no presente diploma e como tal tipificada nos artigos seguintes.
+
+2 - A negligência e a tentativa são sempre puníveis.
+
+3 - Às contra-ordenações previstas no presente diploma é aplicável o regime geral das contra-ordenações previsto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro, alterado pelos Decretos-Leis n.os [244/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/244-1995-563986), de 14 de Setembro, e [356/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1989-549005), de 17 de Outubro.
+
+###### Artigo 16.º — Falta de inscrição
+
+1 - Será aplicada coima de montante mínimo de 100000$00 e máximo de 700000$00 a quem, sem prévia inscrição, actue como armador de tráfego local, em violação do disposto no artigo 6.º deste diploma.
+
+2 - O montante máximo da coima prevista no número anterior será de 3000000$00 se a infracção for praticada por uma sociedade comercial.
+
+###### Artigo 17.º — Não cumprimento de obrigações
+
+1 - Será aplicada coima de montante mínimo de 50000$00 e máximo de 200000$00 ao armador de tráfego local que não cumpra alguma ou algumas das obrigações a que se encontra vinculado, violando o disposto no artigo 12.º deste diploma.
+
+2 - O montante máximo da coima prevista no número anterior será de 400000$00 se a infracção for praticada por uma sociedade comercial.
+
+###### Artigo 18.º — Registo temporário
+
+O regime do registo temporário previsto nos Decretos-Leis n.os [287/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/287-1983-452513) e [199/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1984-386594), respectivamente de 22 de Junho e de 14 de Junho, é aplicável, com as devidas adaptações, ao armador de tráfego local.
+
+###### Artigo 19.º — Disposição transitória
+
+Os agentes económicos que já exerçam a actividade prevista neste diploma dispõem do prazo de 90 dias a partir da data da sua entrada em vigor para proceder à respectiva inscrição como armadores de tráfego local.
+
+###### Artigo 20.º — Aplicação do diploma nas Regiões Autónomas
+
+Nas Regiões Autónomas dos Açores e da Madeira a execução do presente diploma compete aos serviços das respectivas administrações regionais, nomeadamente no que respeita às autorizações previstas no n.º 2 do artigo 5.º, sem prejuízo das competências do Sistema de Autoridade Marítima atribuídas a nível nacional.
+
+###### Artigo 21.º — Aplicação de regulamentos locais
+
+O presente diploma não prejudica a aplicação de regulamentos locais sobre transportes e carreiras, na parte em que não contrariem as normas previstas neste diploma.
+
+###### Artigo 22.º — Entrada em vigor
+
+O presente diploma entra em vigor 60 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 11 de Março de 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
+
+**Promulgado em 8 de Maio de 1998.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 5 de Junho de 1998.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

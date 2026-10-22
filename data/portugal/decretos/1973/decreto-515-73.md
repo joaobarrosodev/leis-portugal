@@ -1,0 +1,334 @@
+---
+schema_version: '1.0'
+id: pt:dre:413209:por
+title: Decreto n.º 515/73
+short_title: null
+summary: Altera a redacção de várias disposições do Regulamento da Escola Náutica «Infante D. Henrique», aprovado pelo Decreto
+  n.º 348/72, de 5 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Marinha - Gabinete do Ministro
+proposing_entity: null
+official_number: 515/73
+official_date: null
+publication_date: '1973-10-11'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 238/1973, Série I de 1973-10-11
+  number: '238'
+  series: I
+  supplement: null
+  pages: 1804 - 1810
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '413209'
+  dre_path: /dr/detalhe/decreto/515-1973-413209
+  internal: pt:dre:413209:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/515-1973-413209
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/515-1973-413209
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-10-29T00:00:00Z'
+integrity:
+  source_sha256: f693d1b81cd2b1408a655ca97075829c9b7f4dafa3d58bc58da4e3e788753229
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-515-413209.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:312408:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 515/73
+
+de 11 de Outubro
+
+1. O Regulamento da Escola Náutica «Infante D. Henrique», aprovado e posto em execução pelo [Decreto n.º 348/72](https://diariodarepublica.pt/dr/detalhe/decreto/348-1972-688606), de 5 de Setembro, entrou praticamente em vigor no início do passado ano lectivo de 1971-1972.
+
+2. Esse ano lectivo foi, por assim dizer, um ano experimental, tão profundas foram as alterações introduzidas na orgânica e funcionamento da Escola relativamente às do antigo Regulamento.
+
+3. Terminado o referido ano lectivo, a experiência já ganha parece suficiente para introduzir algumas alterações ao Regulamento, justificadas pela existência de algumas lacunas e pela conveniência de modificar significativamente outras disposições com vista a um melhor aproveitamento dos alunos.
+
+Nestes termos, tendo em conta o disposto no n.º 3 do artigo 24.º do [Decreto-Lei n.º 49078](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49078-1969-200261), de 25 de Junho de 1969;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º Os artigos 65.º, 66.º, 67.º e 68.º, o n.º 1 do artigo 80.º, o n.º 3 do artigo 90.º e o artigo 92.º do Regulamento da Escola Náutica «Infante D. Henrique», aprovado e posto em execução pelo [Decreto n.º 348/72](https://diariodarepublica.pt/dr/detalhe/decreto/348-1972-688606), de 5 de Setembro, tomam a seguinte redacção:
+
+###### Art. 65.º - 1. Perde o ano em qualquer disciplina ou instrução o aluno que:
+
+a) Tiver média de frequência inferior a 10 valores;
+
+b) Tiver dado durante o ano lectivo um número de faltas igual ou superior a um oitavo do número de tempos em que essa disciplina ou instrução funcionar.
+
+2. O director, ouvido o conselho escolar, poderá relevar as faltas que excedam o limite fixado na alínea b) do n.º 1 deste artigo quando se reconheça que o aluno faltou por motivo de doença grave e tem bom aproveitamento.
+
+###### Art. 66.º - 1. Nas disciplinas e nas instruções que não sejam anexas a disciplinas há exames finais a que são admitidos os alunos voluntários e os alunos ordinários que nelas tenham obtido média de frequência inferior a 12 valores, mas igual ou superior a 10 valores.
+
+2. A dispensa de exame só se aplicará aos alunos cuja média seja 12 ou mais, sem o benefício da aproximação do n.º 2 do artigo 64.º, e que não tenham tido durante o ano qualquer nota inferior a 8 valores na disciplina ou instrução.
+
+###### Art. 67.º Quando anexa a qualquer disciplina haja a instrução prática correspondente, considera-se o conjunto como uma disciplina única, podendo ser admitido a exame final o aluno que, tendo média de frequência de 10 valores na disciplina, tenha, pelo menos, 8 valores na instrução.
+
+###### Art. 68.º Os alunos dispensados de exame final de uma disciplina ou instrução têm o direito de efectuar esse exame, desde que assim o declarem por escrito, com vista a melhoria de classificação, mas a classificação final da disciplina ou instrução será calculada de acordo com o disposto no n.º 1 do artigo 80.º
+
+...
+
+###### Art. 80.º - 1. A classificação final de uma disciplina ou instrução é a média aritmética da média de frequência dessa disciplina ou instrução e da classificação do respectivo exame final, salvo se o aluno houver sido dispensado deste, caso em que será igual à média de frequência.
+
+2. ...
+
+###### Art. 90.º - 1. ...
+
+2. ...
+
+3. A ordem de saída da aula é da competência do professor ou instrutor respectivo; a repreensão é da competência do director, sendo aplicada na presença dos alunos do mesmo curso ou de todos os alunos da Escola; a suspensão até trinta dias é da competência do director, ouvida a comissão de disciplina, e a suspensão de trinta a noventa dias é da competência do director-geral dos Serviços de Fomento Marítimo, sob proposta do director, ouvida a comissão de disciplina; a expulsão é da competência do Ministro da Marinha, sob proposta do director, ouvido o conselho escolar.
+
+...
+
+###### Art. 92.º Haverá na Escola Náutica uma comissão de disciplina constituída por três professores anualmente nomeados pelo director, ouvido o conselho escolar, à qual incumbirá, quando lhe for determinado pelo director, proceder ao levantamento dos processos disciplinares e, através das conclusões, propor a decisão a tomar.
+
+###### Art. 2.º É acrescentado ao mesmo Regulamento um artigo 97.º com a seguinte redacção:
+
+###### Art. 97.º Podem ser alteradas por portaria do Ministro da Marinha as disposições que se contêm nos anexos B a P e R deste Regulamento.
+
+###### Art. 3.º Os anexos D, E e G a N e os n.os 3 e 5 do anexo Q do citado Regulamento são substituídos pelos que são anexos a este diploma.
+
+Marcello Caetano - Manuel Pereira Crespo.
+
+**Promulgado em 22 de Setembro de 1973.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+## ANEXO D — Disciplinas e instruções do curso preparatório e dos cursos de oficiais
+
+I - Disciplinas
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+II - Instruções
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+NOTA
+
+O director da Escola, ouvido o conselho escolar, determinará quais as disciplinas do 1.º ano do curso preparatório e dos cursos gerais de oficiais cuja frequência, com aproveitamento, é indispensável para a matrícula em qualquer das disciplinas do 2.º ano dos respectivos cursos.
+
+## ANEXO E — Disciplinas de que dependem as diversas instruções
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+## ANEXO G — Plano do curso preparatório
+
+Objectivo
+
+Dar aos alunos os conhecimentos básicos para o ingresso nos cursos gerais de oficiais.
+
+a) 1.º ano lectivo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+b) 2.º ano lectivo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+NOTA
+
+Os tempos excedentes serão empregados em Educação Física e Desportos.
+
+## ANEXO H — Plano do curso geral de pilotagem
+
+Objectivo
+
+Efectuar a formação dos alunos como marinheiros e técnicos marítimos, a fim de os preparar para o desempenho das funções que competem aos oficiais de pilotagem.
+
+a) 1.º ano lectivo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+b) 2.º ano lectivo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+## ANEXO I — Plano do curso complementar de pilotagem
+
+Objectivo
+
+Preparar os oficiais de pilotagem para o desempenho das funções de capitão dos navios da marinha mercante.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+## ANEXO J — Plano do curso geral de máquinas marítimas
+
+Objectivo
+
+Efectuar a formação dos alunos como marinheiros e técnicos marítimos, a fim de os preparar para o desempenho das funções que competem aos oficiais maquinistas.
+
+a) 1.º ano lectivo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+b) 2.º ano lectivo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+## ANEXO L — Plano do curso complementar de máquinas marítimas
+
+Objectivo
+
+Preparar os oficiais maquinistas para o desempenho das funções de chefes de serviço.
+
+Ano lectivo único
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+## ANEXO M — Plano do curso geral de radiotecnia
+
+Objectivo
+
+Efectuar a formação dos alunos como marinheiros e técnicos marítimos, a fim de os preparar para o desempenho das funções que competem aos oficiais radiotelegrafistas.
+
+a) 1.º ano lectivo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+b) 2.º ano lectivo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+## ANEXO N — Plano do curso complementar de radiotecnia
+
+Objectivo
+
+Preparar os oficiais radiotelegrafistas para o desempenho das funções de chefes de serviço.
+
+Ano lectivo único
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf))](https://files.diariodarepublica.pt/1s/1973/10/23800/18041810.pdf)
+
+## ANEXO Q — I - Condições de admissão
+
+1. ...
+
+2. ...
+
+3. As condições especiais para os cursos gerais de oficiais são as seguintes:
+
+a) Curso geral de pilotagem:
+
+1) Possuir o curso completo dos liceus nas alíneas f) ou h) ou compreendendo as disciplinas de Matemática, Filosofia, Físico-Químicas, Organização Política e Administrativa da Nação, Desenho e outra disciplina à escolha do candidato; ou
+
+2) Possuir o curso preparatório e as habilitações a que se refere a alínea a) do n.º 4; ou
+
+3) Possuir o 2.º ano do curso preparatório e as habilitações a que se refere a alínea a) do n.º 5.
+
+b) Curso geral de máquinas marítimas:
+
+1) Possuir o curso completo dos liceus nas alíneas f) ou h) ou compreendendo as disciplinas de Matemática, Filosofia, Físico-Químicas, Organização Política e Administrativa da Nação, Desenho e outra disciplina à escolha do candidato; ou
+
+2) Ter aprovação em todas as disciplinas que constituem os dois primeiros anos dos cursos de máquinas ou de electrotecnia dos institutos industriais ou o 2.º ano do curso de electrotecnia e máquinas do Instituto Técnico Militar dos Pupilos do Exército; ou
+
+3) Possuir o curso preparatório e as habilitações a que se refere a alínea b) do n.º 4; ou
+
+4) Possuir o 2.º ano do curso preparatório e as habilitações a que se refere a alínea b) do n.º 5.
+
+c) Curso geral de radiotecnia:
+
+1) Possuir o curso completo dos liceus nas alíneas f) ou h) ou compreendendo as disciplinas de Matemática, Filosofia, Físico-Químicas, Organização Política e Administrativa da Nação, Desenho e outra disciplina à escolha do candidato; ou
+
+2) Ter aprovação em todas a disciplinas que constituem os dois primeiros anos dos cursos de máquinas ou de electrotecnia dos institutos industriais ou o 2.º ano do curso de electrotecnia e máquinas do Instituto Técnico Militar dos Pupilos do Exército; ou
+
+3) Possuir o curso preparatório e as habilitações a que se refere a alínea c) do n.º 4; ou
+
+4) Possuir o 2.º ano do curso preparatório e as habilitações a que se refere a alínea c) do n.º 5.
+
+d) Curso geral de comissariado:
+
+1) Possuir o curso completo dos liceus nas alíneas ou compreendendo as disciplinas que forem especificadas oportunamente; ou
+
+2) Ter aprovação em todas as disciplinas que constituem os dois primeiros anos dos institutos comerciais; ou
+
+3) Possuir o curso preparatório e as habilitações a que se refere a alínea d) do n.º 4; ou
+
+4) Possuir o 2.º ano do curso preparatório e as habilitações a que se refere a alínea d) do n.º 5.
+
+4. ...
+
+5. Podem ser admitidos ao 2.º ano do curso preparatório os candidatos que satisfaçam as seguintes condições especiais:
+
+a) Candidatos que se destinem à frequência do curso geral de pilotagem:
+
+1) Possuir o 6.º ano dos liceus nas alíneas f) ou h) ou compreendendo as disciplinas de Matemática, Filosofia, Físico-Químicas, Organização Política e Administração da Nação, Desenho e outra disciplina à escolha do candidato; ou
+
+2) Ter aprovação em todas disciplinas constituem o 1.º ano dos institutos industriais.
+
+b) Candidatos que se destinem à frequência do curso geral de máquinas marítimas:
+
+1) Possuir o 6.º ano dos liceus nas alíneas f) ou h) ou compreendendo as disciplinas de Matemática, Filosofia, Físico-Químicas, Organização Política e Administrativa da Nação, Desenho e outra à escolha do candidato; ou
+
+2) Ter aprovação em todas as disciplinas que constituem o 1.º ano do curso de máquinas ou de electrotecnia dos institutos industriais ou o 1.º ano do curso de electrotecnia e máquinas do Instituto Técnico Militar dos Pupilos do Exército.
+
+c) Candidatos que se destinem à frequência do curso geral de radiotecnia:
+
+1) Possuir o 6.º ano dos liceus nas alíneas f) ou h) ou compreendendo as disciplinas de Matemática, Filosofia, Físico-Química, Organização Política e Administrativa da Nação, Desenho e outra disciplina à escolha do candidato; ou
+
+2) Ter aprovação em todas as disciplinas que constituem o 1.º ano do curso de máquinas ou de electrotecnia dos institutos industriais ou o 1.º ano do curso de electrotecnia e máquinas do Instituto Técnico Militar dos Pupilos do Exército.
+
+d) Candidatos que se destinem à frequência do curso geral de comissariado:
+
+1) Possuir o 6.º ano dos liceus nas alíneas ou compreendendo as disciplinas que forem especificadas oportunamente; ou
+
+2) Ter aprovação em todas as disciplinas que constituem o 1.º ano dos institutos comerciais.
+
+6. ...
+
+...
+
+**O Ministro da Marinha, Manuel Pereira Crespo.**

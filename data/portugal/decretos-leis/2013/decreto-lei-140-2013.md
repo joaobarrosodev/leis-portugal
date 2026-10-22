@@ -1,0 +1,591 @@
+---
+schema_version: '1.0'
+id: pt:dre:503034:por
+title: Decreto-Lei n.º 140/2013
+short_title: null
+summary: Cria a Agência para o Desenvolvimento e Coesão, I.P., e extingue o Instituto Financeiro para o Desenvolvimento Regional,
+  I.P., o Instituto de Gestão do Fundo Social Europeu, I.P., e a estrutura de missão Observatório do QREN
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 140/2013
+official_date: null
+publication_date: '2013-10-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/2013, Série I de 2013-10-18
+  number: '202'
+  series: I
+  supplement: null
+  pages: 6142 - 6146
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/10/20200/0614206146.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-10-05'
+version_history:
+  file: decreto-lei-140-2013.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-09-17'
+    amending: pt:dre:56747378:por
+    amending_title: Decreto-Lei n.º 137/2014
+    changes:
+    - Altera Artigo 23.º
+  - date: '2015-02-07'
+    amending: pt:dre:66443112:por
+    amending_title: Decreto-Lei n.º 24/2015
+    changes:
+    - Altera Artigo 3.º
+  - date: '2017-03-11'
+    amending: pt:dre:106579661:por
+    amending_title: Decreto-Lei n.º 27/2017
+    changes:
+    - Altera Artigo 3.º
+  - date: '2023-10-05'
+    amending: pt:dre:222421857:por
+    amending_title: Decreto-Lei n.º 84/2023
+    changes:
+    - Adita Artigo 15.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/140/2013/p/cons/20231004/pt/html
+  oj: null
+  dre: '503034'
+  dre_path: /dr/detalhe/decreto-lei/140-2013-503034
+  internal: pt:dre:503034:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2013-503034
+  metadata_url: https://data.dre.pt/eli/dec-lei/140/2013/p/cons/20231004/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-222415503
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-222415503
+  retrieved_at: '2026-10-22T12:59:36Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 762ea7542fbb3b1117252185051c4ab51dd459b2dd91bfca2e799790e96efa2e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:59:36Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-140-2013.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência para o Desenvolvimento e Coesão
+- Autonomia Administrativa
+- Autonomia Financeira
+- Património
+- Fiscal Único
+- Pessoal Dirigente
+- Gestão Financeira
+- Comissão Interministerial para os Assuntos Europeus
+- Conselho da União Europeia
+- Criação de Serviços
+- Definição de Competências
+- Desenvolvimento Regional
+- Dotação Orçamental
+- Equipa de Missão
+- Extinção de Serviços
+- FEDER
+- Fundo de Coesão
+- Comissão CE
+- Gestão do Património
+- Gestor
+- Gestor Público
+- Conselho Diretivo
+- Instituto de Gestão do Fundo Social Europeu
+- Conselho Consultivo
+- Instituto Financeiro para o Desenvolvimento Regional
+- Instituto Público
+- FSE
+- Observatório do QREN
+- Orgânica
+- Programa Operacional
+- Madeira.região Autónoma
+- Presidência do Conselho de Ministros
+- Receita Própria
+- Regime Jurídico
+- Açores
+- Trabalhador
+- Trabalhador por Conta de Outrem
+relationships:
+- type: amended_by
+  target: pt:dre:56747378:por
+  label: Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2014-56747378
+  date: '2014-09-12'
+- type: amended_by
+  target: pt:dre:66443112:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112
+  date: '2015-02-06'
+- type: amended_by
+  target: pt:dre:106579661:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661
+  date: '2017-03-10'
+- type: amended_by
+  target: pt:dre:222421857:por
+  label: Adita Artigo 15.º-A; Altera Artigo 3.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 15.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857
+  date: '2023-10-04'
+- type: cites
+  target: celex:32004L0018
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/18/oj
+article_structure:
+  article_count: 26
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:59:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 140/2013
+
+Decreto-Lei n.º 140/2013
+
+de 18 de outubro
+
+O modelo de gestão dos fundos europeus foi consolidado ao longo de mais de duas décadas, permitindo que Portugal seja reconhecido em termos europeus por ter um dos modelos de gestão e controlo dos fundos europeus mais robustos, seguros, credíveis e eficazes dos Estados-membros da União Europeia.
+
+Não obstante, num contexto de escassez de recursos financeiros para a prossecução das políticas com finalidade estrutural na economia, na sociedade e no território de Portugal, importa reforçar os mecanismos de alinhamento entre a programação e aplicação dos fundos europeus e a programação orçamental plurianual.
+
+Neste sentido, a criação da Agência para o Desenvolvimento e Coesão, I.P. (Agência, I.P.), enquanto responsável pela coordenação da política estrutural e de desenvolvimento regional cofinanciada pelos fundos europeus, garante uma maior coordenação das opções de macroprogramação financeira, bem como um reforço da racionalidade económica e da sustentabilidade financeira dos investimentos cofinanciados.
+
+Relativamente aos fundos da Política de Coesão (Fundo Europeu de Desenvolvimento Regional, Fundo Social Europeu e Fundo de Coesão), a concentração, numa única instituição, das funções relativas à coordenação global, certificação, pagamento, avaliação, comunicação, monitorização e auditoria de operações, neste caso em articulação com a Autoridade de Auditoria, constitui um contributo inequívoco para a racionalização, especialização e eficiência dos serviços.
+
+Com a aprovação das Resoluções do Conselho de Ministros n.os 33/2013, de 20 de maio, e 39/2013, de 14 de junho, encontram-se consolidados os princípios e orientações que fundamentam o modelo de governação do próximo ciclo de programação dos fundos europeus estruturais e de investimento.
+
+As atividades técnicas de coordenação e monitorização estratégica do Quadro de Referência Estratégico Nacional (QREN) 2007-2013, tal como se encontram identificadas no artigo 8.º do Decreto-Lei n.º 312/2007, de 17 de setembro, alterado pelos Decretos-Leis n.os 74/2008, de 22 de abril, e 99/2009, de 28 de abril, e que têm vindo a ser asseguradas pela estrutura de missão designada por Observatório do Quadro de Referência Estratégico Nacional (Observatório do QREN), criada pela Resolução do Conselho de Ministros n.º 24/2008, de 13 de fevereiro, passam a ser asseguradas pela nova entidade.
+
+A assunção pela nova entidade das atribuições e competências que atualmente são exercidas pelo Instituto Financeiro para o Desenvolvimento Regional, I.P. (IFDR, I.P.), pelo Instituto de Gestão do Fundo Social Europeu, I.P. (IGFSE, I.P.), e pela estrutura de missão Observatório do QREN deve ser concretizada salvaguardando as condições necessárias para que possa ser feita uma avaliação sem reservas da Autoridade de Auditoria do QREN e dos serviços de auditoria da Comissão Europeia, por forma a evitar quaisquer perturbações nos fluxos financeiros daqueles fundos.
+
+Procura-se ainda evitar ou minimizar eventuais perturbações que possam resultar da integração e sucessão das atribuições do IFDR, I.P., e do IGFSE, I.P., na coordenação e gestão globais dos fundos da política de coesão, considerando as especificidades inerentes a cada um dos fundos.
+
+A concretização da Agência, I.P., torna possível apoiar com maior alcance as políticas de desenvolvimento regional sustentável, designadamente através da conceção e promoção de instrumentos de base territorial que visem a valorização dos recursos endógenos associados ao desenvolvimento sustentado do território e, em simultâneo, desenvolver e estabilizar um centro de competências especializadas em matéria de auxílios de Estado.
+
+A fusão de que resulta o presente organismo observa o disposto no Decreto-Lei n.º 200/2006, de 25 de outubro, que estabelece o regime geral de extinção, fusão e reestruturação de serviços públicos e de racionalização de efetivos, e na Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, que estabelece o regime comum de mobilidade entre serviços dos funcionários e agentes da Administração Pública visando o seu aproveitamento racional.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - A Agência para o Desenvolvimento e Coesão, I.P. (Agência, I.P.), é um instituto público de regime especial, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.
+
+2 - A Agência, I.P., integra a Presidência do Conselho de Ministros, sob superintendência e tutela do membro do Governo responsável pela área do desenvolvimento regional.
+
+###### Artigo 2.º — Jurisdição territorial
+
+A Agência, I.P., é um organismo central com jurisdição em todo o território nacional, sem prejuízo das atribuições e competências das instituições e serviços das Regiões Autónomas dos Açores e da Madeira.
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - A Agência, I. P., tem por missão coordenar a política de desenvolvimento regional e assegurar a coordenação geral dos fundos europeus.
+
+2 - São atribuições da Agência, I.P., no que respeita à política de desenvolvimento regional:
+
+a) Formular propostas de políticas de desenvolvimento regional sustentável, nos planos estratégico e operacional;
+
+b) Colaborar na conceção e promoção de instrumentos de base territorial associados ao desenvolvimento sustentado do território, nomeadamente os contratos-programa entre as autoridades de gestão dos fundos europeus e entidades públicas ou privadas;
+
+c) Desenvolver e acompanhar estratégias de desenvolvimento territorial de cariz suprarregional, incluindo na área da cooperação territorial europeia, e participar em exercícios de planeamento estratégico nacionais;
+
+d) Apoiar a configuração da territorialização de políticas públicas, incluindo a contratualização regional e sub-regional de realizações e resultados;
+
+e) Monitorizar a aplicação de políticas estruturais, nomeadamente as cofinanciadas por fundos europeus;
+
+f) Definir e manter atualizado o registo central «de minimis» e exercer o controlo da acumulação de apoios financeiros e fiscais concedidos nesse âmbito;
+
+g) Assegurar a participação técnica portuguesa nos fóruns internacionais sobre políticas de desenvolvimento regional;
+
+h) Participar na Comissão Interministerial para os Assuntos Europeus, no âmbito do desenvolvimento regional e dos fundos da política de coesão.
+
+3 - São atribuições da Agência, I. P., no que respeita aos fundos europeus do Acordo de Parceria:
+
+a) Assegurar a coordenação geral, incluindo o acompanhamento dos processos de programação, reprogramação e monitorização daqueles fundos, em articulação com as autoridades de gestão dos programas;
+
+b) Garantir o apoio técnico à Comissão Interministerial de Coordenação da aplicação dos fundos europeus, bem como o apoio técnico à negociação da regulamentação europeia e dos quadros financeiros plurianuais;
+
+c) Assegurar a interlocução, no plano técnico, com a Comissão Europeia, ao nível do Acordo de Parceria;
+
+d) Participar nos órgãos e estruturas de governação dos fundos europeus;
+
+e) Coordenar e desenvolver o sistema de avaliação dos fundos europeus, em articulação com as autoridades de gestão e outras entidades relevantes, na perspetiva da sua contribuição para a concretização das políticas públicas cofinanciadas;
+
+f) Desenvolver e divulgar os instrumentos de monitorização e reporte sobre a aplicação desses fundos, nomeadamente os de âmbito global previstos na regulamentação europeia e nacional;
+
+g) Coordenar e desenvolver a estratégia e planos globais de comunicação dos fundos europeus, incluindo a manutenção do portal dos fundos europeus, bem como, em articulação com as autoridades de gestão, a plataforma de serviço multicanal de apoio aos utilizadores;
+
+h) Desenvolver e implementar, em articulação com as autoridades de gestão, o roteiro para a capacitação, incluindo iniciativas de capacitação e formação através da academia dos fundos.
+
+4 - São atribuições da Agência, I.P., no que respeita aos fundos da política de coesão:
+
+a) Assegurar a coordenação e o suporte técnico aos processos de programação e reprogramação, bem como a monitorização e a produção e sistematização dos indicadores físicos e financeiros;
+
+b) Contribuir para a definição das suas linhas gerais de aplicação e para a eficácia das respetivas intervenções operacionais;
+
+c) Esclarecer e harmonizar, designadamente através da emanação de orientações gerais dirigidas às autoridades de gestão dos programas, a aplicação das normas europeias e nacionais que regem os apoios;
+
+d) Assegurar a interlocução com os serviços da Comissão Europeia, a representação nas suas estruturas consultivas sobre a preparação, programação e aplicação dos fundos da política de coesão e a participação nos grupos técnicos do Conselho da União Europeia, nas matérias relacionadas com aqueles fundos;
+
+e) Exercer as funções de autoridade de certificação e de entidade pagadora dos fundos da política de coesão, incluindo nos programas de cooperação territorial europeia do mecanismo financeiro do Espaço Económico Europeu e das iniciativas comunitárias ou de outros instrumentos financeiros para que venha a ser designado;
+
+f) Executar, em articulação com a Autoridade de Auditoria, funções de auditoria e controlo das intervenções dos fundos da política de coesão, incluindo nos programas de cooperação territorial europeia no mecanismo financeiro do Espaço Económico Europeu e nas iniciativas comunitárias ou outros instrumentos financeiros para que venha a ser designada;
+
+g) Coordenar e promover a comunicação e informação sobre a aplicação dos fundos;
+
+h) Assegurar o funcionamento de um sistema de informação relativo à execução dos fundos, que integre os indicadores físicos e financeiros necessários à monitorização, certificação, gestão, avaliação, controlo e auditoria dos apoios concedidos;
+
+i) Promover a instrução dos pedidos de financiamento à Comissão Europeia dos grandes projetos no âmbito dos fundos da política de coesão;
+
+j) Coordenar a participação nos programas da cooperação territorial europeia e assegurar o seu acompanhamento;
+
+k) (Revogada.)
+
+l) (Revogada.)
+
+m) Garantir a articulação ao nível da programação, acompanhamento e avaliação entre os fundos da política de coesão e os recursos nacionais, nomeadamente no quadro da programação orçamental plurianual e da mobilização da contrapartida nacional dos investimentos cofinanciados por fundos europeus.
+
+n) Desenvolver e manter o balcão dos fundos e assegurar, nesse âmbito, a articulação entre os sistemas de informação dos fundos e outros sistemas existentes, nomeadamente na administração pública, enquanto canal único para os fundos europeus, podendo ser utilizado para outros fundos, designadamente nacionais;
+
+o) Assegurar, em articulação com as autoridades de gestão dos programas, a coordenação dos sistemas de informação e da plataforma de apoio aos utilizadores.
+
+5 - São atribuições da Agência, I.P., no que respeita a outros fundos e políticas europeias:
+
+a) Assegurar as funções que lhe sejam atribuídas no âmbito das intervenções ou fundos europeus;
+
+b) Assegurar a interlocução técnica com a Comissão Europeia em articulação com as respetivas estruturas de gestão e assegurar as funções de coordenação, a função de entidade pagadora e as competências de análise sistemática do duplo financiamento, sempre que tais funções lhe sejam legalmente atribuídas;
+
+c) Exercer as funções de autoridade de certificação e de entidade pagadora, auditoria e controlo do mecanismo financeiro do Espaço Económico Europeu;
+
+d) Exercer as funções de entidade nacional de coordenação do instrumento de assistência técnica gerido diretamente pela Comissão;
+
+e) Intervir na atribuição e administração de financiamentos e de outras operações ativas, no âmbito de medidas de financiamento do Banco Europeu de Investimentos (BEI), ou de outros instrumentos financeiros, associados à utilização de fundos europeus, nos termos definidos pela respetiva regulamentação;
+
+f) Assegurar o acompanhamento da articulação entre os fundos europeus estruturais e de investimento e outros instrumentos e políticas comunitárias, na perspetiva de potenciar as sinergias entre ambos.
+
+6 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 27/2017 - Diário da República n.º 50/2017, Série I de 2017-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661), em vigor a partir de 2017-03-11
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), em vigor a partir de 2015-02-07
+
+###### Artigo 4.º — Órgãos
+
+São órgãos da Agência, I.P.:
+
+a) O conselho diretivo;
+
+b) O fiscal único;
+
+c) O conselho consultivo.
+
+###### Artigo 5.º — Conselho diretivo
+
+1 - O conselho diretivo é composto por um presidente, um vice-presidente e por dois vogais.
+
+2 - Compete ao conselho diretivo orientar e gerir as atividades da Agência, I.P., sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas.
+
+3 - O conselho diretivo pode delegar, com a faculdade de subdelegação, em um ou mais dos seus membros ou nos titulares dos cargos de direção intermédia dos respetivos serviços as competências que lhe estejam legalmente cometidas.
+
+###### Artigo 6.º — Presidente do conselho diretivo
+
+Compete ao presidente do conselho diretivo, sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas:
+
+a) Coordenar as negociações das intervenções dos fundos da política de coesão, bem como os contactos técnicos respetivos com a Comissão Europeia;
+
+b) Representar a Agência, I.P., na Comissão Interministerial para os Assuntos Europeus;
+
+c) Exercer as competências inerentes ao cargo de presidente da Comissão de Acompanhamento do FC II;
+
+d) Exercer as funções de gestor dos PO de Assistência Técnica do FEDER e do FSE no âmbito do QREN e do PO que lhes suceder.
+
+###### Artigo 7.º — Fiscal único
+
+O fiscal único é designado nos termos da Lei n.º 3/2004, de 15 de janeiro, e tem as competências nesta previstas.
+
+###### Artigo 8.º — Conselho consultivo
+
+1 - O conselho consultivo é o órgão de consulta, acompanhamento estratégico independente, apoio e participação na definição das linhas gerais de aplicação dos fundos europeus estruturais e de investimento.
+
+2 - Compete em especial ao conselho consultivo emitir parecer anual sobre o resultado da aplicação dos fundos europeus, em termos de promoção do desenvolvimento e da coesão.
+
+3 - A composição do conselho consultivo assegura a participação dos parceiros sociais e de serviços e organismos públicos com responsabilidade pela aplicação das principais políticas públicas apoiadas pelos fundos europeus estruturais e de investimento, integrando:
+
+a) Um representante de cada um dos parceiros sociais que integram a Comissão Permanente de Concertação Social;
+
+b) Um representante das instituições da economia social a designar pelo Conselho Nacional para a Economia Social;
+
+c) Um representante da Associação Nacional de Municípios Portugueses;
+
+d) Até seis personalidades de reconhecido mérito na área de atribuições da Agência, I. P., designadas, sob proposta da Agência I. P., pelo membro do Governo responsável pela gestão global dos programas financiados pelos fundos europeus;
+
+e) O presidente do conselho diretivo da Agência, I.P.;
+
+f) Um representante da Inspeção-Geral de Finanças;
+
+g) Um representante de cada programa operacional temático, regional do continente, bem como do FEADER, do FEAMP e do Programa Operacional Temático Fatores de Competitividade (COMPETE);
+
+h) Um representante do organismo pagador do FEADER e do FEAMP;
+
+i) Um representante de cada programa operacional regional das Regiões Autónomas.
+
+4 - A convite do presidente, em razão da matéria, podem participar nas reuniões do conselho consultivo representantes de outros serviços ou organismos públicos com responsabilidade pela aplicação das principais políticas públicas apoiadas pelos fundos europeus estruturais e de investimento, além dos referidos no número anterior.
+
+5 - O presidente e o membro do conselho consultivo que o substitui nas suas faltas e impedimentos são designados pelo membro do Governo responsável pela área do desenvolvimento regional, de entre os seus membros.
+
+6 - O mandato dos membros do conselho consultivo a que se refere a alínea d) do n.º 2 tem a duração de três anos.
+
+7 - Os membros do conselho consultivo não são remunerados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 9.º — Organização interna
+
+1 - A organização interna da Agência, I.P., é a prevista nos respetivos estatutos.
+
+2 - Podem ser criadas até quatro equipas de projeto temporárias, por deliberação do conselho diretivo, que define igualmente os respetivos objetivos, o plano de trabalhos e os recursos que lhes são afetos, cuja duração tem como limite o quadro financeiro plurianual vigente à data da sua criação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 10.º — Estatuto dos membros do conselho diretivo
+
+Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestores públicos.
+
+###### Artigo 11.º — Receitas
+
+1 - A Agência, I.P., dispõe das receitas provenientes de dotações que forem atribuídas no Orçamento do Estado e no Orçamento da Segurança Social, em função dos fundos que, respetivamente, lhes estiverem adstritos.
+
+2 - A Agência, I.P, dispõe ainda das seguintes receitas próprias:
+
+a) As comparticipações, subsídios ou donativos concedidos por quaisquer entidades de direito público ou privado, nacionais ou comunitárias, bem como heranças ou legados;
+
+b) Rendimentos de depósitos e aplicações financeiras;
+
+c) O produto de taxas e outros valores de natureza pecuniária que lhe seja permitido cobrar ou que lhe sejam consignados;
+
+d) O produto da venda de publicações e de outros bens e serviços;
+
+e) O produto da realização de estudos, inquéritos e outros trabalhos ou serviços prestados, no âmbito das suas competências;
+
+f) Os valores cobrados pela organização de cursos, seminários ou outras ações de formação;
+
+g) Transferências relativas a fundos, intervenções ou projetos no âmbito das atribuições da Agência, I.P., designadamente dos fundos da política de coesão e de outros instrumentos financeiros;
+
+h) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - As receitas referidas no número anterior são consignadas à realização de despesas da Agência, I.P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.
+
+###### Artigo 12.º — Despesas
+
+Constituem despesas da Agência, I.P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
+
+###### Artigo 13.º — Património
+
+O património da Agência, I.P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular.
+
+###### Artigo 14.º — Cobrança coerciva
+
+A cobrança coerciva de créditos resultantes da não utilização ou da utilização indevida de fundos nacionais ou europeus dos quais a Agência, I.P., seja entidade pagadora é efetuada por recurso ao processo de execução fiscal, nos termos previstos no Código de Procedimento e de Processo Tributário, constituindo a certidão de dívida emitida pela Agência, I.P., título executivo para o efeito.
+
+###### Artigo 15.º — Cargos dirigentes intermédios e chefes de equipas de projetos
+
+1 - São cargos de direção intermédia de 1.º grau da Agência, I.P., os diretores de unidade.
+
+2 - São cargos de direção intermédia de 2.º grau da Agência, I.P., os coordenadores de núcleo.
+
+3 - São cargos de direção intermédia de 3.º grau da Agência, I. P., os coordenadores de área.
+
+4 - A remuneração base dos cargos de direção intermédia identificados nos números anteriores é determinada em percentagem da remuneração base do vogal do conselho diretivo da Agência, I. P., nas seguintes proporções:
+
+a) Diretores de unidade, 78%;
+
+b) Coordenadores de núcleo, 67%.
+
+c) Coordenadores de área 60 %.
+
+5 - As despesas de representação dos cargos de direção intermédia de 1.º, 2.º e 3.º graus da Agência, I. P., são determinadas em percentagem das despesas de representação do vogal do conselho diretivo, nos termos previstos no número anterior.
+
+6 - Aos chefes de equipas de projetos é atribuído um estatuto remuneratório equiparado a coordenadores de núcleo.
+
+7 - A chefia das equipas de projetos é desempenhada pelo período de dois anos, renovável por igual período, podendo cessar a todo o tempo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 15.º-A — Consultores
+
+1 - Podem desempenhar funções na Agência, I. P., até quatro consultores especializados que sejam:
+
+a) Doutores, mestres ou licenciados nas áreas de planeamento, das políticas públicas, da ciência jurídica, das ciências sociais, da geografia, da economia, da gestão, das finanças, das tecnologias de informação e ciências de dados; ou
+
+b) Docentes universitários, investigadores ou personalidades de reconhecido mérito e experiência na área dos fundos europeus.
+
+2 - Os consultores são designados e exonerados pelo membro do Governo com superintendência e tutela sobre a Agência, I. P., sob proposta do respetivo presidente.
+
+3 - A competência para a designação e para a exoneração é delegável no presidente da Agência, I. P.
+
+4 - O exercício de funções de consultor da Agência, I. P., é efetuado em comissão de serviço, pelo período de três anos, renovável por iguais períodos, tendo como limite o quadro financeiro plurianual vigente à data da sua designação.
+
+5 - Sem prejuízo do disposto na lei em matéria de garantias de imparcialidade e do disposto no número seguinte, os consultores da Agência, I. P., podem exercer as suas funções em regime de exclusividade ou de não exclusividade.
+
+6 - Os consultores que exercem as suas funções em regime de exclusividade renunciam ao exercício de outras atividades ou funções de natureza profissional, públicas ou privadas, exercidas com caráter regular ou não, e independentemente de serem ou não remuneradas.
+
+7 - Não colidem com o disposto no número anterior:
+
+a) As atividades de criação artística e literária, bem como quaisquer outras de que resulte a perceção de remunerações provenientes de direitos de autor;
+
+b) A realização de conferências, palestras, ações de formação de curta duração e outras atividades de idêntica natureza;
+
+c) Atividades em instituições de ensino superior, designadamente as atividades de docência e de investigação, em regime de tempo integral ou tempo parcial, nos termos da legislação em vigor.
+
+8 - O tempo de serviço prestado na Agência, I. P., em regime de exclusividade suspende a contagem dos prazos para a apresentação de relatórios ou a prestação de provas para a carreira docente do ensino superior ou para a carreira de investigação científica, bem como os prazos relativos a comissões de serviço ou a cargos públicos de exercício temporário, por virtude da lei, ato ou contrato.
+
+9 - O exercício de funções de consultor da Agência, I. P., releva, para todos os efeitos legais, na carreira de origem.
+
+10 - Os consultores da Agência, I. P., estão isentos do cumprimento de horário de trabalho, não lhes correspondendo, por isso, qualquer remuneração por trabalho suplementar.
+
+11 - Todos os estudos, pareceres, projetos e serviços de consultoria, bem como quaisquer outros trabalhos especializados que sejam realizados pelos consultores da Agência, I. P., são considerados como pertencendo à Agência, I. P., não cabendo aos consultores qualquer remuneração acrescida ou outro direito, incluindo direitos de propriedade intelectual.
+
+12 - As remunerações do consultor podem ser fixadas, de acordo com a respetiva experiência, até ao nível remuneratório 70 da tabela remuneratória única dos trabalhadores que exercem funções públicas.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 16.º — Poderes de autoridade
+
+1 - No exercício de funções de auditoria e de controlo, os trabalhadores e respetivos dirigentes da Agência, I. P., gozam dos seguintes direitos e prerrogativas:
+
+a) Direito de acesso e livre trânsito nos termos da lei, pelo tempo e horário necessários ao desempenho das suas funções, em todos os serviços e instalações das entidades públicas e privadas, que estejam sujeitas ao exercício das suas atribuições de auditoria e controlo;
+
+b) Solicitar das entidades policiais a colaboração que se mostrar necessária ao cabal desempenho das suas funções;
+
+c) Promover, nos termos legais, a selagem de quaisquer instalações, bem como a apreensão, a requisição ou a reprodução de documentos em poder das entidades alvo de controlo e auditoria ou do seu pessoal, quando isso se mostre indispensável à realização da ação, devendo ser levantado o competente auto, dispensável no caso de simples reprodução de documento;
+
+d) Requisitar para exame, consulta e junção aos autos, livros, documentos, registos, arquivos e outros elementos pertinentes em poder das entidades cuja atividade seja objeto da sua ação de controlo e auditoria;
+
+e) Realizar ações de controlo cruzado junto de outras entidades envolvidas, a fim de ter acesso às informações consideradas necessárias ao esclarecimento dos factos objeto de auditoria.
+
+2 - Os trabalhadores da Agência, I.P., quando no exercício das funções referidas no número anterior, são titulares de um cartão de livre-trânsito, de modelo a aprovar por portaria do membro do Governo responsável pela área do desenvolvimento regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 84/2023 - Diário da República n.º 193/2023, Série I de 2023-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2023-222421857), em vigor a partir de 2023-10-05
+
+###### Artigo 17.º — Extinção
+
+São extintos, sendo objeto de fusão:
+
+a) O Instituto Financeiro para o Desenvolvimento Regional, I.P.;
+
+b) O Instituto de Gestão do Fundo Social Europeu, I.P.;
+
+c) A estrutura de missão do Observatório do Quadro de Referência Estratégico Nacional.
+
+###### Artigo 18.º — Sucessão
+
+A Agência, I.P., sucede nas atribuições:
+
+a) Do Instituto Financeiro para o Desenvolvimento Regional, I.P.;
+
+b) Do Instituto de Gestão do Fundo Social Europeu, I.P.;
+
+c) Da estrutura de missão do Observatório do Quadro de Referência Estratégico Nacional.
+
+###### Artigo 19.º — Critérios de seleção de pessoal
+
+São fixados os seguintes critérios gerais e abstratos de seleção do pessoal necessário à prossecução das atribuições da Agência, I.P.:
+
+a) O desempenho de funções no Instituto Financeiro para o Desenvolvimento Regional, I.P.;
+
+b) O desempenho de funções no Instituto de Gestão do Fundo Social Europeu, I.P.;
+
+c) O desempenho de funções na estrutura de missão do Observatório do Quadro de Referência Estratégico Nacional.
+
+###### Artigo 20.º — Transparência
+
+A Agência, I.P., mantém um sítio na Internet no qual divulga obrigatória e regularmente informação sobre a monitorização estratégica do Acordo de Parceria, em especial no que respeita à prossecução das respetivas prioridades, bem como a apreciação do resultado da aplicação dos fundos europeus, em termos de promoção do desenvolvimento e da coesão.
+
+###### Artigo 21.º — Referências legais
+
+As referências legais feitas aos organismos e estruturas extintos, por fusão, mencionados no artigo 17.º, consideram-se feitas à Agência, I.P.
+
+###### Artigo 22.º — Norma complementar
+
+Os pagamentos efetuados pela Agência, I.P., relativos aos fundos nacionais ou europeus são, quando devidos, integralmente liquidados aos respetivos beneficiários ou aos seus representantes, não sendo, tais pagamentos, suscetíveis de arresto, de penhora ou de cessão de créditos.
+
+###### Artigo 23.º — Norma transitória
+
+1 - (Revogado);
+
+2 -  (Revogado);
+
+3 - A aquisição de bens e serviços nos domínios dos sistemas de informação destinados à Agência pode realizar-se, durante o período de um ano a contar da data da entrada em vigor do presente decreto-lei, com recurso a procedimentos por negociação, sem prejuízo dos limiares previstos na Diretiva n.º <a href="eurlex.asp?ano=2004&id=304L0018" title="Link para Directiva da Comunidade Europeia">2004/18/CE</a>, do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativa à coordenação dos processos de adjudicação dos contratos de empreitada de obras públicas, dos contratos públicos de fornecimento e dos contratos públicos de serviços.
+
+> Alterado pelo/a Artigo 85.º do/a [Decreto-Lei n.º 137/2014 - Diário da República n.º 176/2014, Série I de 2014-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2014-56747378), em vigor a partir de 2014-09-17
+
+###### Artigo 24.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 125/2012, de 20 de junho;
+
+b) O Decreto-Lei n.º 188/2012, de 22 de agosto;
+
+c) A Resolução do Conselho de Ministros n.º 24/2008, de 13 de fevereiro;
+
+d) A Resolução do Conselho de Ministros n.º 49/2011, de 28 de novembro.
+
+###### Artigo 25.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia útil seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 22 de agosto de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 14 de outubro de 2013.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 15 de outubro de 2013.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

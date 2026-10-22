@@ -1,0 +1,91 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:197756:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-914560211",
+ "dre_path": "/dr/detalhe/decreto-lei/71-1998-197756",
+ "source_lastmod": "2025-04-11",
+ "versions": [
+  {
+   "date": "1998-03-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "914560303",
+    "914560304",
+    "914560305",
+    "914560306",
+    "914560307",
+    "914560308",
+    "914560309",
+    "914560310"
+   ]
+  }
+ ],
+ "fragments": {
+  "914560303": {
+   "fragment_id": "914560212",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 71/98\n\nde 26 de Março\n\nA crescente internacionalização dos mercados dos produtos agro-alimentares e a intensificação dos processos de produção primária vêm colocando, progressivamente, questões relacionadas com a segurança e salubridade desses produtos. Torna-se, assim, necessário desenvolver um esforço no sentido de criar condições de produção e comercialização com o objectivo de restabelecer a confiança dos consumidores na qualidade dos produtos alimentares.\n\nO presente diploma visa instituir, em relação aos animais da espécie suína, um sistema de rotulagem da carne de suíno a que possam aderir os operadores ou organizações de natureza profissional ou interprofissional que pretendam rotular esses produtos, visando garantir uma adequada informação aos consumidores, bem como a qualidade desses mesmos produtos.\n\nAssim, estabelecem-se os princípios e regras básicas a observar na rotulagem da carne de suíno destinada ao consumo final, no pressuposto de que a eficácia do sistema depende da possibilidade de identificar a exploração de origem do animal, da aprovação de um caderno de especificações e de um controlo adequado, remetendo-se para diploma posterior a respectiva regulamentação, de forma a acompanhar com a necessária flexibilidade a evolução conceptual nesta matéria.\n\nFinalmente, este regime não deve pôr em causa a legislação em vigor nos domínios da rotulagem e do controlo dos géneros alimentícios, da protecção das indicações geográficas e denominações de origem, da agricultura biológica, da emissão dos certificados de especificidade dos produtos agrícolas e dos géneros alimentícios e das acções de promoção e comercialização da carne de suíno.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas do Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "914560304": {
+   "fragment_id": "914560213",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma cria um sistema voluntário de rotulagem da carne de suíno destinada ao consumidor final e estabelece os princípios e regras gerais a que o mesmo deve obedecer."
+  },
+  "914560305": {
+   "fragment_id": "914560214",
+   "type": 11,
+   "heading": "Artigo 2.º — Menções obrigatórias na rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Menções obrigatórias na rotulagem\n\n1 - A rotulagem da carne de suíno que voluntariamente fique submetida ao sistema referido no número anterior deve incluir as seguintes menções:\n\na) Produtor ou agrupamento de produtores de proveniência dos animais;\n\nb) Matadouro e sala de desmancha da carcaça;\n\nc) Exploração de origem e lote do animal.\n\n2 - Para além das menções previstas no número anterior, podem ainda ser incluídas quaisquer outras que tenham sido autorizadas pelo Gabinete de Planeamento e Política Agro-Alimentar (GPPAA), nomeadamente as relativas à alimentação e ao maneio, data de abate e idade do animal à data do abate."
+  },
+  "914560306": {
+   "fragment_id": "914560215",
+   "type": 11,
+   "heading": "Artigo 3.º — Caderno de especificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Caderno de especificações\n\n1 - As menções a constar da rotulagem a que se refere o presente diploma dependem da aprovação de um caderno de especificações do qual constem:\n\na) As menções a incluir no rótulo;\n\nb) As medidas a tomar para assegurar a exactidão dessas menções;\n\nc) O sistema de identificação e registo utilizado;\n\nd) Os controlos a efectuar em todas as fases de produção e de venda, incluindo os controlos a efectuar por um organismo independente designado pelo operador e pela organização.\n\n2 - No caso de ser apresentado por um agrupamento ou organização de natureza profissional ou interprofissional, o caderno de especificações deve incluir uma cópia dos estatutos, onde constem as condições de acesso dos seus associados, as garantias de adesão de novos membros, as regras de produção e as sanções a aplicar aos membros que não cumpram o disposto no caderno de especificações.\n\n3 - Deve ser recusado qualquer caderno de especificações que não estabeleça a rastreabilidade entre as peças de carne, a carcaça, o lote e a exploração de origem do animal do qual provêm, bem como aqueles que prevejam, designadamente, menções enganosas ou lesivas de interesses legalmente protegidos."
+  },
+  "914560307": {
+   "fragment_id": "914560216",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidade competente\n\nA aprovação do caderno de especificações e o reconhecimento dos organismos independentes de controlo competem ao GPPAA e, nas Regiões Autónomas, aos serviços competentes das respectivas administrações regionais."
+  },
+  "914560308": {
+   "fragment_id": "914560217",
+   "type": 11,
+   "heading": "Artigo 5.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Revogação\n\nA autorização de sujeição ao regime consagrado no presente diploma pode ser revogada a pedido do interessado, do organismo independente de controlo ou desde que deixe de se verificar qualquer das condições exigíveis para o reconhecimento."
+  },
+  "914560309": {
+   "fragment_id": "914560218",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentação\n\nO presente diploma será regulamentado por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas e, para as Regiões Autónomas dos Açores e da Madeira, pelos órgãos próprios de governo das Regiões."
+  },
+  "914560310": {
+   "fragment_id": "914560219",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  }
+ }
+}

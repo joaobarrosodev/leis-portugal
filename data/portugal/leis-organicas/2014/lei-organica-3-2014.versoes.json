@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:55235778:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei-organica/2014-73574353",
+ "dre_path": "/dr/detalhe/lei-organica/3-2014-55235778",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-08-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73610375",
+    "73610376",
+    "73610377",
+    "73610378",
+    "73610379",
+    "73610380",
+    "73610381",
+    "73610382",
+    "73610383",
+    "73610384"
+   ]
+  },
+  {
+   "date": "2015-08-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70133804:por",
+     "title": "Lei Orgânica n.º 12/2015",
+     "published": "2015-08-28",
+     "dre_path": "/dr/detalhe/lei-organica/12-2015-70133804"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "73610375",
+    "73610376",
+    "73610377",
+    "73610378",
+    "73610379",
+    "73610380",
+    "73610381",
+    "73610382",
+    "73610401",
+    "73610384",
+    "73610385"
+   ]
+  }
+ ],
+ "fragments": {
+  "73610375": {
+   "fragment_id": "73574354",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei Orgânica n.º 3/2014\n\nde 6 de agosto\n\nCria a Entidade Fiscalizadora do Segredo de Estado\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei orgânica seguinte:"
+  },
+  "73610376": {
+   "fragment_id": "73574355",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei cria a Entidade Fiscalizadora do Segredo de Estado, adiante designada por EFSE, prevista no artigo 14.º do regime do segredo de Estado."
+  },
+  "73610377": {
+   "fragment_id": "73574356",
+   "type": 11,
+   "heading": "Artigo 2.º — Estatuto e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estatuto e funcionamento\n\n1 - À EFSE compete zelar pelo cumprimento da Constituição e da lei em matéria de segredo de Estado, sem prejuízo dos poderes de fiscalização da Assembleia da República.\n\n2 - A EFSE é uma entidade independente, funciona junto da Assembleia da República e tem por missão fiscalizar o cumprimento do regime do segredo de Estado, sem prejuízo dos poderes de fiscalização da Assembleia da República, nos termos constitucionais.\n\n3 - A Assembleia da República assegura à EFSE instalações, pessoal de secretariado e apoio logístico suficientes e inscreve no seu orçamento a dotação financeira necessária à prossecução das suas atribuições e competências, por forma a garantir a independência do referido órgão."
+  },
+  "73610378": {
+   "fragment_id": "73574357",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição\n\n1 - A EFSE é composta por um cidadão com experiência na área das matérias classificadas ou do acesso à informação administrativa, oriundo da categoria de topo da carreira diplomática, das Forças Armadas, das forças de segurança ou da magistratura judicial dos tribunais administrativos e fiscais, que preside, e por dois cidadãos com formação jurídica, que se encontrem no pleno gozo dos seus direitos civis e políticos, aos quais seja reconhecida idoneidade e cujos perfis deem garantias de respeitarem, durante o exercício de funções e após a cessação destas, os deveres decorrentes do cargo, nomeadamente os de independência, imparcialidade e discrição.\n\n2 - Os membros da EFSE são eleitos pela Assembleia da República por voto secreto e maioria de dois terços dos deputados presentes, não inferior à maioria absoluta dos deputados em efetividade de funções, sendo a sua eleição precedida de audição prévia conjunta pelas comissões parlamentares competentes para os assuntos constitucionais, direitos, liberdades e garantias, para os negócios estrangeiros e para a defesa nacional, que apreciam os respetivos perfil e currículo, do qual deve obrigatoriamente constar o registo de interesses previsto no artigo 8.º da presente lei.\n\n3 - A eleição é feita por lista nominal ou plurinominal, consoante for um ou mais o número de mandatos vagos a preencher.\n\n4 - Os membros da EFSE exercem o seu mandato por quatro anos e tomam posse perante o Presidente da Assembleia da República, no prazo de 10 dias a contar da data da sua eleição.\n\n5 - Os membros da EFSE podem renunciar ao mandato mediante declaração escrita apresentada ao Presidente da Assembleia da República.\n\n6 - O Presidente da EFSE, ou na ausência deste quem o substitua, em caso de empate nas deliberações tomadas, tem voto de qualidade."
+  },
+  "73610379": {
+   "fragment_id": "73574358",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - A EFSE acompanha e fiscaliza a atividade de classificação do segredo de Estado, pronuncia-se sobre requerimentos e queixas apresentados por cidadãos em matéria deste segredo e vela pelo cumprimento da Constituição e da lei, especialmente em matéria de direitos, liberdades e garantias dos cidadãos.\n\n2 - Compete, em especial, à EFSE:\n\na) Criar e manter atualizado um registo de todas as matérias e documentos classificados como segredo de Estado, contendo a identificação da entidade classificadora, a data e o prazo da classificação, bem como a indicação dos interesses a proteger e dos motivos ou circunstâncias que fundamentam a classificação;\n\nb) Obter das entidades competentes para classificar como segredo de Estado os elementos necessários à criação e manutenção do registo referido na alínea anterior;\n\nc) Notificar as entidades competentes para classificar como segredo de Estado da caducidade da classificação num prazo não inferior a 30 dias antes da data de caducidade;\n\nd) Emitir parecer prévio, na sequência de requerimento apresentado por cidadãos, para efeitos de instrução de processos de reclamação ou impugnação sobre o ato de indeferimento ao acesso à informação classificada como segredo de Estado;\n\ne) Pronunciar-se sobre queixas apresentadas por cidadãos respeitantes à recusa de acesso a documentos classificados como segredo de Estado;\n\nf) Velar pelo cumprimento das medidas de segurança e proteção dos documentos e matérias classificados como segredo de Estado;\n\ng) Manter um registo atualizado e exaustivo da respetiva atividade de controlo e fiscalização;\n\nh) Elaborar um relatório anual respeitante à atividade de classificação e desclassificação como segredo de Estado, para apresentação até 31 de janeiro de cada ano à Assembleia da República, respeitante ao ano civil anterior.\n\n3 - Compete à EFSE aprovar o respetivo regulamento de funcionamento."
+  },
+  "73610380": {
+   "fragment_id": "73574359",
+   "type": 11,
+   "heading": "Artigo 5.º — Impugnação e prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Impugnação e prazos\n\n1 - A reclamação graciosa ou a impugnação contenciosa de ato que indefira acesso a documento com fundamento em segredo de Estado está condicionada ao prévio pedido pelo interessado e emissão de parecer pela EFSE.\n\n2 - A EFSE pronuncia-se no prazo de 30 dias contados a partir da data em que receba o pedido referido no número anterior.\n\n3 - Os prazos para reclamação ou impugnação de ato que indefira acesso a documento com fundamento em segredo de Estado só começam a contar a partir da data da emissão do parecer da EFSE."
+  },
+  "73610381": {
+   "fragment_id": "73574360",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres\n\n1 - Constituem deveres dos membros da EFSE:\n\na) Exercer o seu mandato com independência, imparcialidade e discrição;\n\nb) Emitir os pareceres referidos no artigo 5.º da presente lei no prazo de 30 dias;\n\nc) Guardar sigilo relativamente às matérias de que tenham conhecimento em razão das suas funções;\n\nd) Elaborar o relatório anual previsto no artigo 4.º e apresentá-lo anualmente em audição na comissão parlamentar competente para os assuntos constitucionais, direitos, liberdades e garantias até ao dia 31 de março de cada ano.\n\n2 - Constitui dever específico dos membros da EFSE que sejam juízes em jurisdição administrativa declarar impedimento em processos de impugnação de ato de indeferimento de acesso a informação ou de levantamento do dever de sigilo, com fundamento na classificação como segredo de Estado.\n\n3 - O dever de sigilo referido na alínea c) do n.º 1 mantém-se mesmo após a cessação dos mandatos dos membros da EFSE."
+  },
+  "73610382": {
+   "fragment_id": "73574361",
+   "type": 11,
+   "heading": "Artigo 7.º — Estatuto dos membros da EFSE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estatuto dos membros da EFSE\n\nEm matéria de direitos e regalias aplica-se aos membros da EFSE o regime aplicável ao Conselho de Fiscalização do Sistema de Informações da República Portuguesa."
+  },
+  "73610383": {
+   "fragment_id": "73574362",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Registo de interesses\n\n1 - Do currículo a que se refere o n.º 2 do artigo 3.º, a apresentar junto das comissões competentes para a respetiva audição pelos candidatos a membros da EFSE, consta obrigatoriamente um registo de interesses com os seguintes elementos:\n\na) Atividades públicas ou privadas, remuneradas ou não, exercidas pelo declarante desde o início da sua vida profissional e cívica, nelas se incluindo as atividades comerciais ou empresariais e, bem assim, o exercício de profissões liberais;\n\nb) Cargos, funções e atividades públicas e privadas a exercer cumulativamente com o mandato;\n\nc) Filiação, participação ou desempenho de funções em quaisquer entidades de natureza associativa;\n\nd) Desempenho de quaisquer cargos sociais, ainda que a título gratuito;\n\ne) Apoios ou benefícios financeiros ou materiais recebidos para o exercício das respetivas atividades, designadamente de entidades públicas ou privadas estrangeiras;\n\nf) Entidades a quem sejam ou tenham sido prestados serviços remunerados de qualquer natureza;\n\ng) Sociedades em cujo capital social o titular, por si, pelo cônjuge, pelo unido de facto ou pelos filhos, disponha de participação.\n\n2 - O registo de interesses é atualizado junto da Assembleia da República sempre que surja alteração superveniente dos elementos referidos no número anterior.\n\n3 - O incumprimento do disposto nos números anteriores determina a inelegibilidade ou cessação do mandato, conforme o caso."
+  },
+  "73610384": {
+   "fragment_id": "73574363",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e produção de efeitos\n\n1 - A presente lei entra em vigor na data da entrada em vigor da Lei Orgânica n.º 2/2014, de 6 de agosto (que aprova o regime do segredo de Estado).\n\n2 - O artigo 7.º só produz efeitos a partir de 1 de janeiro de 2015."
+  },
+  "73610401": {
+   "fragment_id": "73574362",
+   "type": 11,
+   "heading": "Artigo 8.º — Registo de interesses",
+   "in_force_from": "2015-08-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 12/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei-organica/12-2015-70133804), em vigor a partir de 2015-08-29"
+   ],
+   "markdown": "###### Artigo 8.º — Registo de interesses\n\n1 - Do currículo a que se refere o n.º 2 do artigo 3.º, a apresentar junto das comissões competentes para a respetiva audição pelos candidatos a membros da EFSE, consta obrigatoriamente um registo de interesses com os seguintes elementos:\n\na) Atividades públicas ou privadas, remuneradas ou não, exercidas pelo declarante desde o início da sua vida profissional e cívica, nelas se incluindo as atividades comerciais ou empresariais e, bem assim, o exercício de profissões liberais;\n\nb) Cargos, funções e atividades públicas e privadas a exercer cumulativamente com o mandato;\n\nc) Filiação, participação ou desempenho de funções em quaisquer entidades de natureza associativa;\n\nd) Desempenho de quaisquer cargos sociais, ainda que a título gratuito;\n\ne) Apoios ou benefícios financeiros ou materiais recebidos para o exercício das respetivas atividades, designadamente de entidades públicas ou privadas estrangeiras;\n\nf) Entidades a quem sejam ou tenham sido prestados serviços remunerados de qualquer natureza;\n\ng) Sociedades em cujo capital social o titular, por si, pelo cônjuge, pelo unido de facto ou pelos filhos, disponha de participação.\n\n2 - O registo de interesses, exarado em formulário próprio, é depositado na comissão parlamentar competente para os assuntos constitucionais, direitos, liberdades e garantias e atualizado no prazo máximo de 15 dias após a ocorrência de alteração superveniente dos elementos a que se referem as alíneas do número anterior.\n\n3 - O incumprimento do disposto nos números anteriores determina a inelegibilidade ou cessação do mandato, conforme o caso.\n\n4 - O registo de interesses é público e deve ser disponibilizado para consulta no portal da Assembleia da República na Internet, ou a quem o solicitar.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 12/2015 - Diário da República n.º 168/2015, Série I de 2015-08-28](https://diariodarepublica.pt/dr/detalhe/lei-organica/12-2015-70133804), em vigor a partir de 2015-08-29"
+  },
+  "73610385": {
+   "fragment_id": "73574364",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de junho de 2014.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 28 de julho de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 29 de julho de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:3540315:por
+title: Despacho Normativo n.º 7-A/2013
+short_title: null
+summary: Introduz normas relativas à distribuição do serviço aos docentes de quadro para o ano letivo de 2013-2014, de acordo
+  com as regras estabelecidas no Despacho Normativo n.º 7/2013, de 11 de junho
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Educação e Ciência - Gabinete do Ministro
+proposing_entity: null
+official_number: 7-A/2013
+official_date: null
+publication_date: '2013-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 131/2013, 1º Suplemento, Série II de 2013-07-10
+  number: '131'
+  series: II
+  supplement: 1º Suplemento
+  pages: 21776-(2) a 21776-(2)
+  pdf_url: https://files.diariodarepublica.pt/2s/2013/07/131000001/0000200002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3540315'
+  dre_path: /dr/detalhe/despacho-normativo/7-a-2013-3540315
+  internal: pt:dre:3540315:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-a-2013-3540315
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-a-2013-3540315
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-05-26T00:00:00Z'
+integrity:
+  source_sha256: 6107008f2356de4623f61683cc50f9307fa10c6091b0a9e96c4b27997e9a92c6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-7-A-3540315.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:25702576:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 7-A/2013
+
+O presente despacho normativo visa dar cumprimento às condições estabelecidas no compromisso assumido pelo Ministério da Educação e Ciência com as entidades sindicais em matéria de distribuição de serviço docente.
+
+São definidos mecanismos para o ano letivo de 2013-2014, supletivamente ao [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho, que possibilitam às escolas promover e implementar as atividades de enriquecimento curricular do 1.º ciclo do ensino básico e que otimizam os recursos docentes existentes que de outra forma ficariam em ausência de componente letiva.
+
+Assim, tendo presentes os princípios consignados nos artigos 3.º, 4.º e 5.º e a autonomia definida no artigo 8.º, todos do [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril, alterado e republicado pelo [Decreto-Lei n.º 137/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2012-178527), de 2 de julho, que aprovou o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário, considerando o disposto nos artigos 35.º e 76.º a 83.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensino Básico e Secundário, adiante abreviadamente designado por ECD, e ao abrigo do artigo 53.º do [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de abril, na sua redação atual, e do número 3 do artigo 80.º do ECD, determino o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1. O presente despacho normativo introduz normas relativas à distribuição do serviço aos docentes de quadro para o ano letivo de 2013-2014 de acordo com as regras estabelecidas no [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho, sem prejuízo do disposto no número seguinte.
+
+2. As normas constantes do presente despacho normativo prevalecem sobre o disposto no [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho, exclusivamente para efeitos de preenchimento da componente letiva.
+
+###### Artigo 2.º — Direção de turma
+
+1. As funções de direção de turma nos 2.º e 3.º ciclos do ensino básico e no ensino secundário, diurnos, são exercidas no tempo a que se refere a alínea b) do n.º 3 do artigo 8.º do [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho, nos termos dos números seguintes.
+
+2. A cada diretor de turma são atribuídos dois tempos letivos, em função da unidade definida pela escola, sem ultrapassar os 100 minutos a que se refere a alínea b) do n.º 3 do artigo 8.º do [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho.
+
+3. A designação do diretor de turma deve atender à necessidade de libertar desse cargo os docentes indispensáveis à implementação das medidas de promoção do sucesso escolar.
+
+###### Artigo 3.º — Atividades de Enriquecimento Curricular
+
+1. No caso de a escola ser a entidade promotora das Atividades de Enriquecimento Curricular do 1.º ciclo do ensino básico, estas devem ser consideradas aquando da distribuição do serviço aos docentes de quadro para o ano letivo de 2013-2014, sem prejuízo do disposto no n.º 2 do artigo 8.º do [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho.
+
+2. Para efeitos do disposto no número anterior e atendendo ao número de docentes de quadro existentes na escola, o diretor procede à organização dos respetivos horários, tendo em conta que:
+
+a) O professor titular de turma do 1.º ciclo do ensino básico assegura obrigatoriamente as disciplinas de Matemática, Português e Estudo do Meio, completando a componente letiva com as Atividades de Enriquecimento Curricular e com as restantes componentes do currículo, sem prejuízo de poder utilizar as medidas previstas na alínea a), i) e iii), do n.º 3 do artigo 8.º do [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho;
+
+b) As Expressões Artísticas e Físico-Motoras, o Apoio ao Estudo, a Oferta Complementar e as Atividades de Enriquecimento Curricular são distribuídos de forma articulada entre os docentes da escola possuidores de formação e perfil adequados, com o objetivo de otimizar o preenchimento da respetiva componente letiva.
+
+3. Para efeitos da aplicação dos números anteriores, as Atividades de Enriquecimento Curricular são consideradas letivas para todos os docentes que as desenvolvam.
+
+4. A definição da oferta das Atividades de Enriquecimento Curricular depende da formação e perfil do corpo docente da escola disponível para as assegurar.
+
+###### Artigo 4.º — Docentes sem componente letiva
+
+1. Os docentes que permaneçam sem titularidade de turmas atribuídas com pelo menos 6 horas são, obrigatoriamente, opositores à mobilidade interna nos termos do disposto no n.º 1 do artigo 28.º do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho.
+
+2. As tarefas previstas no n.º 5 do artigo 8.º do [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho, são atribuídas, até ao limite do horário previsto no n.º 1 do artigo 76.º do ECD, aos docentes que se encontram a aguardar colocação através dos mecanismos da mobilidade interna, assim como outro serviço letivo que subsista.
+
+3. Os docentes não colocados até 31 de dezembro asseguram até final do ano letivo as tarefas que lhes forem atribuídas no âmbito do número anterior.
+
+###### Artigo 5.º — coordenadores de estabelecimento escolar
+
+O tempo remanescente da componente letiva dos coordenadores de estabelecimento escolar referido no n.º 12 do artigo 6.º do [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho, pode ainda ser utilizado, no caso dos professores do 1.º ciclo, na titularidade de uma turma.
+
+###### Artigo 6.º — Situações especiais
+
+1. Para o ano letivo de 2013/2014 não é distribuído serviço letivo aos docentes que, reunindo os requisitos de aposentação, a tenham requerido até 30 de junho de 2013.
+
+2. Os docentes referidos no número anterior ficam obrigados ao cumprimento do horário de trabalho previsto no n.º 1 do artigo 76.º do ECD, integralmente em componente não letiva de estabelecimento, até à data da efetiva aposentação requerida.
+
+3. As horas de redução que os docentes referidos no número anterior beneficiam por aplicação do artigo 79.º do ECD não são contabilizadas para efeito do cálculo da parcela KxCapG do crédito horário.
+
+###### Artigo 7.º — Alteração ao [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho
+
+O número 5 do artigo 13.º do [Despacho Normativo n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/7-2013-1170202), de 11 de junho, passa a ter a seguinte redação:
+
+"5. Ouvido o conselho pedagógico, o diretor submete à aprovação do conselho geral o plano das Atividades de Enriquecimento Curricular a desenvolver nas horas semanais destinadas às mesmas."
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente despacho normativo entra em vigor no dia útil seguinte ao da sua publicação.
+
+10 de julho de 2013. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato.

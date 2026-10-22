@@ -1,0 +1,702 @@
+---
+schema_version: '1.0'
+id: pt:dre:520259:por
+title: Decreto-Lei n.º 71/2007
+short_title: null
+summary: Aprova o novo estatuto do gestor público e revoga o Decreto-Lei n.º 464/82, de 9 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 71/2007
+official_date: null
+publication_date: '2007-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/2007, Série I de 2007-03-27
+  number: '61'
+  series: I
+  supplement: null
+  pages: 1742 - 1748
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06100/17421748.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-07-20'
+version_history:
+  file: decreto-lei-71-2007.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-03-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-01'
+    amending: pt:dre:243747:por
+    amending_title: Lei n.º 64-A/2008
+    changes:
+    - Altera Artigo 17.º
+  - date: '2012-01-19'
+    amending: pt:dre:544418:por
+    amending_title: Declaração de Retificação n.º 2/2012; Decreto-Lei n.º 8/2012
+    changes:
+    - Retifica Artigo 28.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 38.º
+  - date: '2016-07-29'
+    amending: pt:dre:75049338:por
+    amending_title: Decreto-Lei n.º 39/2016
+    changes:
+    - Altera Artigo 1.º
+  - date: '2021-03-23'
+    amending: pt:dre:159869157:por
+    amending_title: Decreto-Lei n.º 22-C/2021
+    changes:
+    - Altera Artigo 29.º
+  - date: '2022-07-20'
+    amending: pt:dre:186307879:por
+    amending_title: Decreto-Lei n.º 50/2022
+    changes:
+    - Altera Artigo 28.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/71/2007/p/cons/20220719/pt/html
+  oj: null
+  dre: '520259'
+  dre_path: /dr/detalhe/decreto-lei/71-2007-520259
+  internal: pt:dre:520259:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259
+  metadata_url: https://data.dre.pt/eli/dec-lei/71/2007/p/cons/20220719/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-67390970
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-67390970
+  retrieved_at: '2026-10-22T12:00:07Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 403061f4e4f6f490b10f0170603fddb8422a8083a65fb9afe5f77e656eac218b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:00:07Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-71-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acumulação de Funções
+- Inspeção Geral de Finanças
+- Definição de Competências
+- Direito Privado
+- Direito Público
+- Empresa Pública
+- Estatuto
+- Setor Empresarial do Estado
+- Gestão de Empresas
+- Gestor Público
+- Incompatibilidades
+- Indemnização
+- Direito Comercial
+- Privilegios e Imunidades
+- Regime de Exclusividade
+- Propriedade de BENS
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:243747:por
+  label: Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747
+  date: '2008-12-31'
+- type: amended_by
+  target: pt:dre:544415:por
+  label: Retifica Artigo 28.º; Altera Artigo 2.º; Altera Artigo 6.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo
+    18.º; Altera Artigo 20.º; Altera Artigo 22.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 28.º; Altera Artigo
+    29.º; Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 33.º; Altera Artigo 34.º; Altera Artigo
+    35.º; Altera Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415
+  date: '2012-01-18'
+- type: amended_by
+  target: pt:dre:544418:por
+  label: Retifica Artigo 28.º; Altera Artigo 2.º; Altera Artigo 6.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo
+    18.º; Altera Artigo 20.º; Altera Artigo 22.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 28.º; Altera Artigo
+    29.º; Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo 32.º; Altera Artigo 33.º; Altera Artigo 34.º; Altera Artigo
+    35.º; Altera Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2012-544418
+  date: '2012-01-25'
+- type: amended_by
+  target: pt:dre:75049338:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2016-75049338
+  date: '2016-07-28'
+- type: amended_by
+  target: pt:dre:159869157:por
+  label: Altera Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-c-2021-159869157
+  date: '2021-03-22'
+- type: amended_by
+  target: pt:dre:186307879:por
+  label: Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2022-186307879
+  date: '2022-07-19'
+- type: cites
+  target: celex:32014R0468
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/2004/06/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/2004/06/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/58/1998/08/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/58/1998/08/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64/1993/08/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/121/2005/08/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/121/2005/08/01/p/dre
+article_structure:
+  article_count: 43
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:00:07Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 71/2007
+
+Decreto-Lei n.º 71/2007
+
+de 27 de Março
+
+O estatuto do gestor público (EGP) foi aprovado pelo Decreto-Lei n.º 464/82, de 9 de Dezembro, que revogou o Decreto-Lei n.º 831/76, de 25 de Novembro, não tendo sido objecto, até hoje, de qualquer alteração.
+
+Dadas as transformações entretanto ocorridas no sector empresarial do Estado (SEE), o contexto em que surgiu o EGP encontra-se hoje, todavia, substancialmente alterado.
+
+Com efeito, após a 1.ª década de privatizações e de transformação de empresas públicas, o XIII Governo Constitucional iniciou a reforma do sector público empresarial, que veio a concretizar-se na Lei n.º 58/98, de 18 de Agosto - Lei das Empresas Municipais, Intermunicipais e Regionais -, e no Decreto-Lei n.º 558/99, de 17 de Dezembro, que aprova o regime do sector empresarial do Estado.
+
+Do Decreto-Lei n.º 558/99, de 17 de Dezembro, ficou a constar, no n.º 1 do artigo 15.º, que os administradores designados ou propostos pelo Estado teriam estatuto próprio, a definir por legislação especial. Todavia, de harmonia com o artigo 39.º do mesmo decreto-lei, até ser aprovada a legislação prevista no artigo 15.º, manteve-se em vigor o regime do EGP. Decorridos mais de seis anos, a necessidade de adopção da referida legislação especial não foi ainda satisfeita, mas é cada vez mais premente.
+
+O próprio Tribunal de Contas, em vários relatórios de auditoria, tem assinalado as disfunções decorrentes da ausência de uma regulamentação completa e coerente neste domínio, a começar pelas dúvidas sobre a aplicabilidade do EGP aos administradores das empresas públicas sob forma societária e a acabar em aspectos práticos e elementares atinentes, designadamente, ao estatuto remuneratório dos titulares de órgãos de gestão e administração nas empresas públicas.
+
+É este vazio legislativo, que gera disfunções, disparidades e até alguns excessos na gestão das empresas públicas, que o Governo vem agora colmatar, no quadro de uma reforma mais abrangente, que inclui igualmente a revisão do próprio Decreto-Lei n.º 558/99, de 17 de Dezembro, e a adopção de uma resolução do Conselho de Ministros determinando a observância pelas empresas públicas de princípios de bom governo internacionalmente reconhecidos, designadamente as recomendações da Organização de Cooperação e Desenvolvimento Económicos (OCDE) e da Comissão Europeia.
+
+Deste modo, dá-se concretização à vontade política consagrada no Programa do Governo e cumpre-se, também, o disposto no n.º 13 da Resolução do Conselho de Ministros n.º 121/2005, de 1 de Agosto.
+
+Pretende-se instituir um regime do gestor público integrado e adaptado às circunstâncias actuais, que abranja todas as empresas públicas do Estado, independentemente da respectiva forma jurídica, e que fixe sem ambiguidades o conceito de gestor público, defina o modo de exercício da gestão no sector empresarial do Estado e as directrizes a que a mesma deve obedecer e regule a designação, o desempenho e a cessação de funções pelos gestores públicos.
+
+O presente decreto-lei assenta, além do mais, no reconhecimento pelo Governo da importância das empresas públicas e dos gestores públicos na satisfação das necessidades colectivas e na promoção do desenvolvimento económico e social do País, seja pelo efeito directo da sua actividade na economia, seja pelo exemplo que devem constituir para a generalidade do tecido empresarial.
+
+Esta importância social e económica é, todavia, indissociável de padrões elevados de exigência, rigor, eficiência e transparência, os quais são também decorrência de uma ética de serviço público que não pode ser aqui afastada apenas pelo modo empresarial de organização da actividade e da prossecução de finalidades públicas ou, pelo menos, com interesse público.
+
+E é por isso que, no presente decreto-lei, se por um lado se aproxima o regime do gestor público da figura do administrador de empresas privadas, tal como regulado na lei comercial, por outro lado se atribui relevo e desenvolvimento acrescidos ao regime de incompatibilidades, à avaliação de desempenho, à determinação das remunerações, à definição do regime de segurança social aplicável e à observância das regras de ética e das boas práticas decorrentes dos usos internacionais.
+
+Lugar de destaque, neste quadro, merecem a adopção generalizada do contrato de gestão envolvendo metas quantificadas - já previsto no Decreto-Lei n.º 558/99, de 17 de Dezembro, mas infelizmente com pouca ou nenhuma aplicação prática - e a possibilidade de afastamento do gestor público quando os objectivos fixados não forem alcançados sem que, com tal atitude, se gere prejuízo para o Estado.
+
+Este decreto-lei estabelece também um processo de fixação das remunerações dos gestores públicos e de outros benefícios, tomando como base a distinção entre gestores executivos e não executivos e fazendo depender a remuneração variável, aplicável apenas aos gestores com funções executivas, da efectiva obtenção dos objectivos predeterminados, do mesmo passo que se limita a cumulação de funções e remunerações.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 57.º, Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586) Tornados extensivos aos membros do órgão de administração de instituições de crédito integradas no setor empresarial do Estado e qualificadas como «entidades supervisionadas significativas» as regras e deveres constantes dos arts. 18.º a 25.º, 36.º e 37.º do Estatuto do Gestor Público
+
+### Capítulo I — Âmbito
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - Para os efeitos do presente decreto-lei, considera-se gestor público quem seja designado para órgão de gestão ou administração das empresas públicas abrangidas pelo Decreto-Lei n.º 558/99, de 17 de Dezembro.
+
+2 - O presente decreto-lei não se aplica a quem seja designado para órgão de administração de instituições de crédito integradas no setor empresarial do Estado e qualificadas como 'entidades supervisionadas significativas', na aceção do ponto 16) do artigo 2.º do Regulamento (UE) n.º 468/2014, do Banco Central Europeu, de 16 de abril de 2014.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2016 - Diário da República n.º 144/2016, Série I de 2016-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2016-75049338), em vigor a partir de 2016-07-29
+
+###### Artigo 2.º — Extensão
+
+1 - Aos titulares de órgão de gestão de empresa participada pelo Estado, quando designados pelo Estado, são aplicáveis, com as necessárias adaptações, os artigos 10.º a 12.º, 15.º a 17.º, o n.º 1 do artigo 22.º e o artigo 23.º
+
+2 - O presente decreto-lei é subsidiariamente aplicável aos titulares dos órgãos de gestão das empresas integrantes dos sectores empresariais regionais e locais, sem prejuízo das respectivas autonomias.
+
+3 - O presente decreto-lei é ainda aplicável, com as devidas adaptações, aos membros de órgãos directivos de institutos públicos de regime especial, bem como às autoridades reguladoras independentes, nos casos expressamente determinados pelos respectivos diplomas orgânicos, em tudo o que não seja prejudicado pela legislação aplicável a estas entidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 3.º — Exclusão
+
+Não é considerado gestor público quem seja eleito para a mesa da assembleia geral, comissão de fiscalização ou outro órgão a que não caibam funções de gestão ou administração.
+
+### Capítulo II — Exercício da gestão
+
+###### Artigo 4.º — Orientações
+
+Na gestão das empresas públicas são observadas as orientações fixadas nos termos do artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, e as recomendações para a sua prossecução previstas no mesmo preceito, bem como outras orientações que sejam fixadas ao abrigo de lei especial.
+
+###### Artigo 5.º — Deveres dos gestores
+
+Sem prejuízo do disposto no artigo anterior, são deveres dos gestores públicos e, em especial, dos que exerçam funções executivas:
+
+a) Cumprir os objectivos da empresa definidos em assembleia geral ou, quando existam, em contratos de gestão;
+
+b) Assegurar a concretização das orientações definidas nos termos da lei, designadamente as previstas no artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, e no contrato de gestão, e a realização da estratégia da empresa;
+
+c) Acompanhar, verificar e controlar a evolução das actividades e dos negócios da empresa em todas as suas componentes;
+
+d) Avaliar e gerir os riscos inerentes à actividade da empresa;
+
+e) Assegurar a suficiência, a veracidade e a fiabilidade das informações relativas à empresa bem como a sua confidencialidade;
+
+f) Guardar sigilo profissional sobre os factos e documentos cujo conhecimento resulte do exercício das suas funções e não divulgar ou utilizar, seja qual for a finalidade, em proveito próprio ou alheio, directamente ou por interposta pessoa, o conhecimento que advenha de tais factos ou documentos;
+
+g) Assegurar o tratamento equitativo dos accionistas.
+
+###### Artigo 6.º — Avaliação do desempenho
+
+1 - O desempenho das funções de gestão deve ser objecto de avaliação sistemática, tendo por parâmetros os objectivos fixados nas orientações previstas no artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, ou decorrentes do contrato de gestão, bem como os critérios definidos em assembleia geral.
+
+2 - Nas entidades públicas empresariais, a avaliação do desempenho compete aos membros do Governo responsáveis pela área das finanças e pelo respectivo sector de actividade.
+
+3 - Nas restantes empresas, a avaliação do desempenho implica proposta do accionista único ou maioritário a formular em assembleia geral.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 7.º — Avaliação no âmbito da empresa
+
+1 - Nos casos em que o modelo de gestão da empresa pública em causa compreenda gestores com funções executivas e não executivas, compete à comissão de avaliação, caso exista, apresentar anualmente um relatório circunstanciado de avaliação do grau e das condições de cumprimento, em cada exercício, das orientações previstas no artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.
+
+2 - Em caso de existência de um conselho geral e de supervisão, os respectivos membros podem designar entre si uma comissão de avaliação, à qual se aplica, com as devidas adaptações, o regime previsto no número anterior.
+
+###### Artigo 8.º — Sociedades participadas
+
+Nas sociedades participadas pelo Estado, o administrador eleito sob proposta deste deve exercer as suas funções tendo em conta as orientações fixadas nos termos do artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.
+
+###### Artigo 9.º — Poderes próprios da função administrativa
+
+O exercício de poderes próprios da função administrativa, nos casos legalmente previstos, observa os princípios gerais de direito administrativo.
+
+###### Artigo 10.º — Autonomia de gestão
+
+Observado o disposto nas orientações fixadas ao abrigo da lei, designadamente as previstas no artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, e no contrato de gestão, o conselho de administração goza de autonomia de gestão.
+
+###### Artigo 11.º — Despesas confidenciais
+
+Aos gestores públicos é vedada a realização de quaisquer despesas confidenciais ou não documentadas.
+
+### Capítulo III — Designação
+
+###### Artigo 12.º — Requisitos
+
+1 - Os gestores públicos são escolhidos de entre pessoas com comprovadas idoneidade, mérito profissional, competências e experiência de gestão, bem como sentido de interesse público e habilitadas, no mínimo, com o grau académico de licenciatura.
+
+2 - É competência do membro do Governo responsável pelo respectivo sector de actividade a definição do perfil, experiência profissional e competências de gestão adequadas às funções do cargo, dos quais deve informar a Comissão de Recrutamento e Selecção para a Administração Pública.
+
+3 - É competência da Comissão de Recrutamento e Selecção para a Administração Pública, a definição, por regulamento, dos critérios aplicáveis na avaliação de candidatos a cargos de gestor público, designadamente, as competências de liderança, colaboração, motivação, orientação estratégica, orientação para resultados, orientação para o cidadão e serviço de interesse público, gestão da mudança e inovação, sensibilidade social, experiência profissional, formação académica e formação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 13.º — Designação dos gestores
+
+1 - Os gestores públicos são designados por nomeação ou por eleição.
+
+2 - A nomeação é feita mediante resolução do Conselho de Ministros, devidamente fundamentada e publicada no Diário da República juntamente com uma nota relativa ao currículo académico e profissional do designado, sob proposta dos membros do Governo responsáveis pela área das finanças e pelo respectivo sector de actividade.
+
+3 - A proposta referida no número anterior deve ser acompanhada de avaliação, não vinculativa, de currículo e de adequação de competências ao cargo de gestor público da personalidade a que respeita a proposta de designação, realizada pela Comissão de Recrutamento e Selecção para a Administração Pública.
+
+4 - Para efeitos do número anterior, a Comissão de Recrutamento e Selecção para a Administração Pública pode realizar entrevista de avaliação de competências exigíveis ao exercício das funções de gestor público e aplicar outros métodos de avaliação.
+
+5 - Não pode ocorrer a nomeação ou proposta para eleição entre a convocação de eleições para a Assembleia da República ou a demissão do Governo e a investidura parlamentar do Governo recém-nomeado, salvo se se verificar a vacatura dos cargos em causa e a urgência da designação, caso em que as referidas nomeação ou proposta de que não tenha ainda resultado eleição dependem de confirmação pelo Governo recém-nomeado.
+
+6 - A eleição é feita nos termos da lei comercial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 14.º — Administradores cooptados
+
+Nas empresas do sector empresarial do Estado sob forma societária é admitida a existência de administradores designados por cooptação, seguida de ratificação pela assembleia geral.
+
+###### Artigo 15.º — Duração do mandato
+
+1 - O mandato é exercido, em regra, pelo prazo de três anos, sendo os mandatos dos membros do mesmo órgão de administração coincidentes.
+
+2 - A lei e os estatutos fixam, até ao limite máximo de três, o número de renovações consecutivas dos mandatos na mesma empresa pública.
+
+3 - Na falta de disposição legal ou estatutária, é aplicável o número de mandatos previsto no número anterior.
+
+###### Artigo 16.º — Comissão de serviço
+
+Para o exercício das funções de gestor podem ser designados, em regime de comissão de serviço, trabalhadores da própria empresa, da empresa mãe, ou de outras relativamente às quais aquela ou a sua empresa mãe exerçam directa ou indirectamente influência dominante nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.
+
+###### Artigo 17.º — Mobilidade
+
+1 - Os trabalhadores com relação jurídica de emprego público podem exercer funções de gestor por acordo de cedência de interesse público, nos termos da Lei n.º 12-A/2008, de 27 de Fevereiro.
+
+2 - Os trabalhadores de empresas públicas ou privadas podem exercer funções de gestor por acordo de cedência ocasional, nos termos da lei.
+
+> Alterado pelo/a Artigo 36.º do/a [Lei n.º 64-A/2008 - Diário da República n.º 252/2008, 1º Suplemento, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), em vigor a partir de 2009-01-01
+
+###### Artigo 18.º — Contratos de gestão
+
+1 - Nas empresas públicas é obrigatória a celebração de um contrato de gestão, em que se definem:
+
+a) As formas de concretização das orientações impostas nos termos do artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, envolvendo sempre metas objectivas, quantificadas e mensuráveis anualmente durante a vigência do contrato de gestão, que representem uma melhoria operacional e financeira nos principais indicadores de gestão da empresa;
+
+b) Os parâmetros de eficiência da gestão;
+
+c) Outros objectivos específicos;
+
+d) Os elementos referidos no n.º 1 do artigo 30.º
+
+2 - O contrato de gestão é celebrado no prazo de três meses contado a partir da data da designação do gestor público entre este, os titulares da função accionista e o membro do Governo responsável pelo respectivo sector de actividade, sendo nulo o respectivo acto de nomeação quando ultrapassado aquele prazo.
+
+3 - (Revogado.)
+
+4 - Os contratos de gestão não podem estabelecer regimes específicos de indemnização ou qualquer outro tipo de compensação por cessação de funções, nem contrariar o que se encontra fixado no artigo 26.º
+
+5 - O contrato de gestão deve prever expressamente a demissão quando a avaliação de desempenho seja negativa, designadamente, por incumprimento devido a motivos individualmente imputáveis dos objectivos referidos nas orientações fixadas nos termos do artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, ou no contrato de gestão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+### Capítulo IV — Exercício de funções
+
+###### Artigo 19.º — Natureza das funções
+
+Os gestores públicos podem ter funções executivas ou não executivas, de acordo com o modelo de gestão adoptado na empresa pública em causa, nos termos da lei e tendo ainda em conta as boas práticas reconhecidas internacionalmente.
+
+###### Artigo 20.º — Gestores com funções executivas
+
+1 - Para os efeitos do presente decreto-lei, consideram-se gestores com funções executivas os administradores designados nessa condição.
+
+2 - O exercício de funções executivas tem lugar em regime de exclusividade, sem prejuízo do disposto no número seguinte e no n.º 4 do artigo 22.º
+
+3 - São cumuláveis com o exercício de funções executivas:
+
+a) As actividades exercidas por inerência;
+
+b) A participação em conselhos consultivos, comissões de fiscalização ou outros organismos colegiais, quando previstos na lei ou quando tal resulte de decisão do Governo;
+
+c) As actividades de docência em estabelecimentos de ensino superior público ou de interesse público, mediante autorização, por despacho dos membros do Governo responsáveis pela área das finanças e pelo respectivo sector de actividade ou nos termos de contrato de gestão;
+
+d) A actividade de criação artística e literária, bem como quaisquer outras de que resulte a percepção de remunerações provenientes de direitos de autor, sem prejuízo do disposto na alínea f) do artigo 5.º;
+
+e) A realização de conferências, palestras, acções de formação de curta duração e outras actividades de idêntica natureza;
+
+f) (Revogada.)
+
+4 - Sem prejuízo do disposto no n.º 6 do artigo 22.º, é ainda cumulável com o exercício de funções executivas o exercício de funções na empresa mãe ou em outras relativamente às quais a própria empresa ou a sua empresa mãe exerçam directa ou indirectamente influência dominante nos termos do n.º 1 do artigo 3.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 21.º — Gestores com funções não executivas
+
+1 - Para os efeitos do presente decreto-lei, consideram-se gestores com funções não executivas os administradores designados nessa condição.
+
+2 - Os gestores com funções não executivas exercem as suas funções com independência, oferecendo garantias de juízo livre e incondicionado em face dos demais gestores, e não podem ter interesses negociais relacionados com a empresa, os seus principais clientes e fornecedores e outros accionistas que não o Estado.
+
+3 - Os gestores com funções não executivas acompanham e avaliam continuamente a gestão da empresa pública em causa por parte dos demais gestores, com vista a assegurar a prossecução dos objectivos estratégicos da empresa, a eficiência das suas actividades e a conciliação dos interesses dos accionistas com o interesse geral.
+
+4 - Aos gestores com funções não executivas são facultados todos os elementos necessários ao exercício das suas funções, designadamente nos aspectos técnicos e financeiros, bem como uma permanente actualização da situação da empresa em todos os planos relevantes para a realização do seu objecto.
+
+###### Artigo 22.º — Incompatibilidades e impedimentos
+
+1 - É incompatível com a função de gestor público o exercício de cargos de direcção da administração directa e indirecta do Estado, ou das autoridades reguladoras independentes, sem prejuízo do exercício de funções em regime de inerência.
+
+2 - Os gestores públicos com funções não executivas não podem exercer quaisquer outras actividades temporárias ou permanentes na mesma empresa.
+
+3 - Os gestores públicos com funções não executivas e os membros das mesas de assembleias gerais não podem exercer quaisquer outras actividades temporárias ou permanentes em empresas privadas concorrentes no mesmo sector.
+
+4 - A designação de gestores públicos do sector empresarial do Estado com funções não executivas para outras empresas que integrem o sector público empresarial deve ser especialmente fundamentada, atendendo à respectiva necessidade ou conveniência, carecendo ainda de autorização dos membros do Governo responsáveis pela área das finanças e pelo respectivo sector de actividade da empresa em que se encontre a desempenhar funções, se, neste caso, aquela designação ocorrer no âmbito dos sectores empresariais regionais e locais.
+
+5 - O disposto no número anterior não se aplica no caso de designação de gestores públicos do sector empresarial do Estado com funções não executivas nas empresas referidas no n.º 4 do artigo 20.º
+
+6 - Os gestores públicos não podem celebrar, durante o exercício dos respectivos mandatos, quaisquer contratos de trabalho ou de prestação de serviços com as empresas mencionadas nos n.os 2 a 4 que devam vigorar após a cessação das suas funções.
+
+7 - O gestor deve declarar-se impedido de tomar parte em deliberações quando nelas tenha interesse, por si, como representante ou como gestor de negócios de outra pessoa ou ainda quando tal suceda em relação ao seu cônjuge, parente ou afim em linha recta ou até ao 2.º grau em linha colateral ou em relação com pessoa com quem viva em economia comum.
+
+8 - Aos gestores públicos é ainda aplicável, com as necessárias adaptações, o disposto nos artigos 8.º, 9.º, 9.º-A, 11.º, 12.º e 14.º e no n.º 4 do artigo 13.º da Lei n.º 64/93, de 26 de Agosto.
+
+9 - Sem prejuízo do disposto no artigo 11.º da Lei n.º 64/93, de 26 de Agosto, antes do início de funções, o gestor público indica, por escrito, à Inspecção-Geral de Finanças todas as participações e interesses patrimoniais que detenha, directa ou indirectamente, na empresa na qual irá exercer funções ou em qualquer outra.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+### Capítulo V — Responsabilidade e cessação de funções
+
+###### Artigo 23.º — Responsabilidade
+
+Os gestores públicos são penal, civil e financeiramente responsáveis pelos actos e omissões praticados durante a sua gestão, nos termos da lei.
+
+###### Artigo 24.º — Dissolução
+
+1 - O conselho de administração, a comissão executiva ou o conselho de administração executivo podem ser dissolvidos em caso de:
+
+a) Grave violação, por acção ou omissão, da lei ou dos estatutos da empresa;
+
+b) Não observância, nos orçamentos de exploração e investimento, dos objectivos fixados pelo accionista de controlo ou pela tutela;
+
+c) Desvio substancial entre os orçamentos e a respectiva execução;
+
+d) Grave deterioração dos resultados do exercício ou da situação patrimonial, quando não provocada por razões alheias ao exercício das funções pelos gestores.
+
+2 - A dissolução compete aos órgãos de eleição ou de nomeação dos gestores, requer audiência prévia, pelo menos, do presidente do órgão e é devidamente fundamentada.
+
+3 - A dissolução implica a cessação do mandato de todos os membros do órgão dissolvido, não havendo lugar a qualquer subvenção ou compensação pela cessação de funções.
+
+###### Artigo 25.º — Demissão
+
+1 - O gestor público pode ser demitido quando lhe seja individualmente imputável uma das seguintes situações:
+
+a) A avaliação de desempenho seja negativa, designadamente por incumprimento dos objectivos referidos nas orientações fixadas ao abrigo do artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, ou no contrato de gestão;
+
+b) A violação grave, por acção ou por omissão, da lei ou dos estatutos da empresa;
+
+c) A violação das regras sobre incompatibilidades e impedimentos;
+
+d) A violação do dever de sigilo profissional.
+
+2 - A demissão compete ao órgão de eleição ou nomeação, requer audiência prévia do gestor e é devidamente fundamentada.
+
+3 - A demissão implica a cessação do mandato, não havendo lugar a qualquer subvenção ou compensação pela cessação de funções.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 26.º — Dissolução e demissão por mera conveniência
+
+1 - O conselho de administração, a comissão executiva, o conselho de administração executivo ou o conselho geral e de supervisão podem ser livremente dissolvidos, ou o gestor público livremente demitido, conforme os casos, independentemente dos fundamentos constantes dos artigos anteriores.
+
+2 - A cessação de funções nos termos do número anterior pode ter lugar a qualquer tempo e compete ao órgão de eleição ou nomeação.
+
+3 - Nos casos previstos no presente artigo e desde que conte, pelo menos, 12 meses seguidos de exercício de funções, o gestor público tem direito a uma indemnização correspondente ao vencimento de base que auferiria até ao final do respectivo mandato, com o limite de 12 meses.
+
+4 - Nos casos de regresso ao exercício de funções ou de aceitação, no prazo a que se refere o número anterior, de função ou cargo no âmbito do sector público administrativo ou empresarial, ou no caso de regresso às funções anteriormente desempenhadas pelos gestores nomeados em regime de comissão de serviço ou de cedência especial ou ocasional, a indemnização eventualmente devida é reduzida ao montante da diferença entre o vencimento como gestor e o vencimento do lugar de origem à data da cessação de funções de gestor, ou o novo vencimento, devendo ser devolvida a parte da indemnização que eventualmente haja sido paga.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 27.º — Renúncia
+
+1 - O gestor público pode renunciar ao cargo, nos termos da lei comercial.
+
+2 - A renúncia não carece de aceitação, mas deve ser comunicada aos órgãos de eleição ou de nomeação.
+
+### Capítulo VI — Remunerações e pensões
+
+###### Artigo 28.º — Remuneração
+
+1 - A remuneração dos gestores públicos integra um vencimento mensal que não pode ultrapassar o vencimento mensal do Primeiro-Ministro.
+
+2 - A remuneração dos gestores públicos integra ainda um abono mensal, pago 12 vezes ao ano, para despesas de representação no valor de 40 % do respectivo vencimento.
+
+3 - O vencimento mensal dos gestores públicos é determinado em função de critérios decorrentes da complexidade, exigência e responsabilidade inerentes às respectivas funções e atendendo às práticas normais de mercado no respectivo sector de actividade e de eventuais orientações decorrentes da aplicação do artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.
+
+4 - Os critérios referidos no número anterior são fixados por resolução do Conselho de Ministros, que define também as remunerações dos gestores públicos a praticar em cada uma das categorias aí definidas.
+
+5 - A Comissão de Recrutamento e Selecção para a Administração Pública acompanha a definição dos critérios que determinam a fixação do vencimento mensal dos gestores públicos e a sua aplicação.
+
+6 - No caso das sociedades anónimas, a fixação das remunerações compete à assembleia geral ou a uma comissão de remunerações designada por aquela ou pelo conselho geral e de supervisão, no respeito pela resolução referida no n.º 4.
+
+7 - A comissão referida no número anterior pode coincidir com a comissão de avaliação da empresa, quando exista.
+
+8 - Mediante autorização expressa no ato de designação ou eleição, os gestores podem optar pelo vencimento do lugar de origem, não podendo, todavia, exceder, salvo no caso do número seguinte, o vencimento mensal do Primeiro-Ministro.
+
+9 - Nos casos previstos nos artigos 16.º e 17.º, quando se trate de empresas cuja principal função seja a produção de bens e serviços mercantis, incluindo serviços financeiros, e relativamente à qual se encontrem em regime de concorrência no mercado, mediante autorização expressa do membro do Governo responsável pela área das finanças, os gestores podem optar por valor com o limite da sua remuneração média dos últimos três anos, aplicado o coeficiente de atualização resultante das correspondentes taxas de variação média anual do índice de preços no consumidor apurado pelo Instituto Nacional de Estatística, I. P., devendo ser objeto de despacho fundamentado e publicado no Diário da República.
+
+10 - Nos casos em que seja exercido o direito de opção referido no número anterior, os gestores não auferem o abono mensal para despesas de representação a que se refere o n.º 2 nas situações em que o respetivo vencimento mensal ultrapasse o limite fixado pelo n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 50/2022 - Diário da República n.º 138/2022, Série I de 2022-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/50-2022-186307879), em vigor a partir de 2022-07-20
+
+> Retificado pelo/a [Declaração de Retificação n.º 2/2012 - Diário da República n.º 18/2012, Série I de 2012-01-25](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/2-2012-544418), em vigor a partir de 2012-01-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 29.º — Remuneração dos administradores não executivos
+
+1 - Os administradores não executivos têm direito a uma remuneração fixa, correspondente à actividade normal que desempenhem, até ao limite de um quarto da remuneração de igual natureza estabelecida para os administradores executivos.
+
+2 - Quando os administradores não executivos tenham efectiva participação em comissões criadas especificamente para acompanhamento da actividade da empresa têm ainda direito a uma remuneração complementar, caso em que o limite da remuneração global é de um terço da remuneração fixa estabelecida para os administradores executivos.
+
+3 - Aos administradores não executivos abrangidos pelo presente Estatuto de empresas que sejam qualificadas como sociedades financeiras, nos termos do artigo 6.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, na sua redação atual, aplicam-se os limites referidos nos n.os 1 e 2 que são fixados, respetivamente, em metade e em três quartos da remuneração fixa dos administradores executivos.
+
+4 - Caso não exerça funções executivas, o presidente do órgão de administração das empresas referidas no número anterior tem direito a uma remuneração fixa global até ao limite de três quartos da remuneração fixa estabelecida para os administradores executivos.
+
+5 - A remuneração dos administradores não executivos não integra qualquer abono mensal para despesas de representação.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22-C/2021 - Diário da República n.º 56/2021, 1º Suplemento, Série I de 2021-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-c-2021-159869157), em vigor a partir de 2021-03-23
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 30.º — Remunerações decorrentes de contratos de gestão
+
+1 - Os contratos de gestão a celebrar com gestores públicos que exerçam funções executivas, previstos no artigo 18.º, contemplam, além das matérias aí indicadas, os seguintes pontos, nos termos do presente decreto-lei:
+
+a) Valores fixados para cada uma das componentes da remuneração consideradas;
+
+b) Prémios de gestão passíveis de atribuição no final do exercício ou do mandato, que não podem ultrapassar metade da remuneração anual auferida, de acordo com o cumprimento dos critérios objectivos dos quais dependa a sua eventual atribuição, sem prejuízo do limite fixado nos respectivos estatutos;
+
+c) Outras regalias ou benefícios aplicáveis aos demais colaboradores da empresa.
+
+2 - A graduação dos prémios de gestão tem por base indicadores de gestão, que resultem do desenvolvimento estratégico preconizado para cada empresa, no âmbito do sector em que se insere.
+
+3 - Os indicadores referidos no número anterior são definidos em cada contrato de gestão com base nas orientações estabelecidas ao abrigo do artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, e tendo em consideração as situações específicas em causa, designadamente as resultantes da prestação de serviços de interesse geral.
+
+4 - Nos casos em que se estipularem objectivos de gestão de exigência acrescida, o contrato de gestão pode ainda, excepcionalmente, mediante despacho, fundamentado e publicado no Diário da República, do membro do Governo responsável pela área das finanças, estabelecer um regime específico de prémios de gestão a atribuir quando se verifique o cumprimento total dos objectivos estipulados, o qual não pode exceder metade do total da remuneração anual auferida.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 31.º — Remunerações em caso de acumulação
+
+As acumulações de funções previstas nas alíneas a) e b) do n.º 3, no n.º 4 do artigo 20.º e no n.º 4 do artigo 22.º não conferem direito a qualquer remuneração adicional, incluindo os referidos no n.º 2 do artigo 28.º, nas alíneas a), b) e c) do artigo 30.º, no n.º 3 do artigo 32.º, nos n.os 1 e 3 do artigo 33.º, no artigo 34.º e quaisquer outros benefícios e regalias aplicáveis nessas empresas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 32.º — Utilização de cartões de crédito e telefones móveis
+
+1 - Não é permitida a utilização de cartões de crédito e outros instrumentos de pagamento por gestores públicos tendo por objecto a realização despesas ao serviço da empresa.
+
+2 - Não é permitido o reembolso a gestores públicos de quaisquer despesas que caiam no âmbito do conceito de despesas de representação pessoal.
+
+3 - O valor máximo das despesas associadas a comunicações, que incluem telefone móvel, telefone domiciliário e internet, é fixado por deliberação em assembleia geral, no caso das sociedades anónimas, ou por despacho, publicado no Diário da República, do membro do Governo responsável pela área das finanças no caso das entidades públicas empresariais.
+
+4 - O valor previsto no número anterior é fixado à luz das orientações que venham a ser estabelecidas para o efeito pelos accionistas ou por despacho, publicado no Diário da República, do membro do Governo responsável pela área das finanças, tendo sempre como limite a soma do valor fixado para a utilização de telefone domiciliário e telefone móvel para cargos de direcção superior de 1.º grau da Administração Pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 33.º — Utilização de viaturas
+
+1 - O valor máximo das viaturas de serviço afectas aos gestores públicos é fixado por deliberação em assembleia geral, no caso das sociedades anónimas, ou por despacho, publicado no Diário da República, do membro do Governo responsável pela área das finanças, no caso das entidades públicas empresariais.
+
+2 - O valor previsto no número anterior é fixado à luz das orientações que venham a ser estabelecidas para o efeito pelos accionistas ou por despacho, publicado no Diário da República, do membro do Governo responsável pela área das finanças.
+
+3 - O valor máximo de combustível e portagens afecto mensalmente às viaturas de serviço é fixado em um quarto do valor do abono mensal para despesas de representação.
+
+4 - É vedado o exercício de qualquer opção por parte dos gestores para aquisição de viaturas de serviço que lhes tenham sido afectas.
+
+5 - O disposto no presente artigo exerce-se em conformidade com as demais normas legais e regulamentares relativas à utilização de viaturas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 34.º — Benefícios sociais
+
+Os gestores públicos gozam dos benefícios sociais conferidos aos trabalhadores da empresa em que exerçam funções, nos termos que venham a ser concretizados pelas respectivas comissões de fixação de remunerações, pela assembleia geral ou pelos membros do Governo responsáveis pela área das finanças e pelo respectivo sector de actividade, consoante o caso, com excepção dos respeitantes a planos complementares de reforma, aposentação, sobrevivência ou invalidez.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 35.º — Pensões
+
+Os gestores públicos beneficiam do regime geral de segurança social, se não optarem por outro que os abranja.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+### Capítulo VII — Governo empresarial e transparência
+
+###### Artigo 36.º — Ética
+
+Os gestores públicos estão sujeitos às normas de ética aceites no sector de actividade em que se situem as respectivas empresas.
+
+###### Artigo 37.º — Boas práticas
+
+1 - Sem prejuízo do disposto no artigo anterior, os gestores públicos estão igualmente sujeitos às boas práticas decorrentes dos usos internacionais, designadamente em matéria de transparência, respeito pela concorrência e pelos agentes do mercado e prestação de informação sobre a sua organização e as actividades envolvidas.
+
+2 - O Conselho de Ministros pode fixar, mediante resolução, os princípios e regras a que se refere o artigo anterior que devem ser especialmente observados pelos gestores públicos no exercício das suas funções.
+
+### Capítulo VIII — Disposições finais e transitórias
+
+###### Artigo 38.º — Exercício de funções por beneficiário de complementos de reforma
+
+Quem, tendo exercido funções de gestor público auferindo, por causa desse exercício, benefícios complementares de reforma, desempenhe funções em empresas ou outras entidades públicas tem o direito de optar entre a remuneração nesta empresa ou entidade e aqueles benefícios.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 8/2012 - Diário da República n.º 13/2012, Série I de 2012-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), em vigor a partir de 2012-01-19
+
+###### Artigo 39.º — Aplicação imediata
+
+1 - O disposto no presente decreto-lei aplica-se aos mandatos em curso.
+
+2 - Os gestores públicos que, até à entrada em vigor do presente decreto-lei, preencham os requisitos dos planos complementares de reforma, aposentação, invalidez ou sobrevivência por este suprimidos, beneficiam, na aplicação das regras de cálculo da respectiva pensão, apenas do tempo de exercício efectivo de funções verificado à data da sua entrada em vigor.
+
+3 - As prestações complementares de reforma e aposentação apenas podem ser auferidas após a cessação de funções como gestores públicos e a partir do momento em que estejam cumpridos os requisitos gerais de acesso à aposentação ou reforma e esta tenha lugar.
+
+4 - Os gestores públicos relativamente aos quais se verifiquem situações de incompatibilidade ou acumulação de funções em desconformidade com o disposto no presente decreto-lei devem pôr termo a essas situações no prazo máximo de um ano ou fazer cessar os respectivos mandatos.
+
+5 - A cessação de mandato prevista no número anterior não confere direito a qualquer indemnização ou subvenção.
+
+###### Artigo 40.º — Direito subsidiário
+
+Em tudo quanto não esteja disposto no presente decreto-lei, aplica-se o Código das Sociedades Comerciais, salvo quanto aos institutos públicos de regime especial.
+
+###### Artigo 41.º — Revisão e adaptação de estatutos
+
+1 - Os estatutos de empresas públicas que contrariem o disposto no presente decreto-lei devem ser revistos e adaptados em conformidade com o mesmo, no prazo máximo de seis meses após o início de vigência do presente decreto-lei.
+
+2 - O disposto no presente decreto-lei prevalece sobre os estatutos das entidades referidas no número anterior que, decorrido o prazo aí mencionado, não tenham sido revistos e adaptados, sem prejuízo do disposto em legislação sectorial especial.
+
+###### Artigo 42.º — Norma revogatória
+
+1 - São revogados:
+
+a) O Decreto-Lei n.º 464/82, de 9 de Dezembro;
+
+b) As alíneas a) e b) do artigo 3.º e os n.os 3 e 4 do artigo 7.º da Lei n.º 64/93, de 26 de Agosto;
+
+c) A Resolução do Conselho de Ministros n.º 29/89, de 26 de Agosto.
+
+2 - Até à entrada em vigor do novo regime remuneratório dos dirigentes dos institutos públicos, mantém-se transitoriamente em vigor a Resolução do Conselho de Ministros n.º 29/89, de 26 de Agosto, em relação àqueles dirigentes aos quais seja subsidiariamente aplicável o estatuto do gestor público.
+
+###### Artigo 43.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no prazo de 60 dias após a sua publicação, com excepção do disposto no artigo 37.º, que entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos.
+
+Promulgado em 19 de Março de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 21 de Março de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,95 @@
+---
+schema_version: '1.0'
+id: pt:dre:2248098:por
+title: Portaria n.º 625/2012
+short_title: null
+summary: Concessão de louvor e medalha da defesa nacional, de 3.ª classe, ao sargento-mor Vítor Miguel Marques Alves
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 625/2012
+official_date: null
+publication_date: '2012-10-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/2012, Série II de 2012-10-30
+  number: '210'
+  series: II
+  supplement: null
+  pages: 35740 - 35740
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/10/210000000/3574035740.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2248098'
+  dre_path: /dr/detalhe/portaria/625-2012-2248098
+  internal: pt:dre:2248098:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/625-2012-2248098
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/625-2012-2248098
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-10-30T00:00:00Z'
+integrity:
+  source_sha256: 45d40c1d94575c524dd2079f6cd2d9efa232f7bb821bf65db960eb1ae5057e4f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-625-2248098.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 625/2012
+
+Louvo o sargento-mor, NIM 02939178, Vítor Miguel Marques Alves, pela forma altamente competente, dedicada e empenhada como desempenhou as diferentes funções que lhe foram acometidas na Divisão de Estudos e de Apoio à Gestão (DEAG) da Direção-Geral de Política de Defesa Nacional (DGPDN), desde 6 de setembro de 2010 a 17 de setembro de 2012.
+
+Durante este período de tempo, o sargento-mor Vitor Alves revelou excecionais qualidades humanas e pessoais, onde se destaca o elevado caráter, sólida formação moral, forte sentido de disciplina e de responsabilidade, lealdade, espírito de equipa, características essenciais para o excelente desempenho das funções que exerceu na DEAG.
+
+Acrescem ainda reconhecidas qualidades técnicas. O sargento-mor Vítor Alves é um militar dotado de sólidos conhecimentos linguísticos, elevada cultura geral e militar, pautando, desde sempre, a sua atuação com iniciativa, grande diligência no tratamento das matérias que o envolveram, permanente disponibilidade e compromisso com o serviço, antecipando eventuais problemas e propondo soluções, consubstanciando um desempenho global irrepreensível nas matérias que lhe foram sendo acometidas, sobretudo na área das relações públicas e protocolo desta Direção-Geral e do Ministério da Defesa Nacional (MDN).
+
+É, pois, de inteira justiça testemunhar publicamente o apreço pelos serviços prestados com exemplar correção, brio e notável zelo pautando a sua ação pela prática continuada de valores como a dignidade, a simplicidade e a frontalidade, tendo o sargento-mor Vítor Alves desempenhado as suas funções de forma segura, coerente e orientada de acordo com as determinações superiores. Interiorizou com singular nobreza a sua condição militar, sobrepondo, ao longo da sua comissão nesta Direção-Geral, os seus interesses pessoais aos do serviço, tendo resultando num contributo muito valioso para o reforço da credibilidade, do prestígio e da missão da DGPDN e, consequentemente, do MDN.
+
+Assim, nos termos da competência que me é conferida pelo n.º 3 do artigo 34.º, atento o disposto nos artigos 25.º, 26.º e alínea c) do n.º 1 do artigo 27.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, concedo a medalha da defesa nacional, de 3.ª classe, ao sargento-mor Vítor Miguel Marques Alves.
+
+11 de outubro de 2012. - O Ministro da Defesa Nacional, José Pedro Correia de Aguiar-Branco.

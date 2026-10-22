@@ -1,0 +1,276 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:575723:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-888824629",
+ "dre_path": "/dr/detalhe/decreto-lei/253-1995-575723",
+ "source_lastmod": "2024-09-24",
+ "versions": [
+  {
+   "date": "1995-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888824549",
+    "888824550",
+    "888824551",
+    "888824552",
+    "888824553",
+    "888824554",
+    "888824555",
+    "888824556",
+    "888824557",
+    "888824558",
+    "888824559",
+    "888824560",
+    "888824561",
+    "888824562",
+    "888824563",
+    "888824564",
+    "888824565",
+    "888824566",
+    "888824567",
+    "888824568",
+    "888824569"
+   ]
+  },
+  {
+   "date": "1999-10-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:666766:por",
+     "title": "Decreto-Lei n.º 399/99",
+     "published": "1999-10-14",
+     "dre_path": "/dr/detalhe/decreto-lei/399-1999-666766"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "888824549",
+    "888824550",
+    "888824551",
+    "888824552",
+    "888824573",
+    "888824574",
+    "888824555",
+    "888824556",
+    "888824557",
+    "888824558",
+    "888824559",
+    "888824560",
+    "888824561",
+    "888824562",
+    "888824563",
+    "888824564",
+    "888824565",
+    "888824566",
+    "888824567",
+    "888824568",
+    "888824569",
+    "888824570"
+   ]
+  }
+ ],
+ "fragments": {
+  "888824549": {
+   "fragment_id": "888824630",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 253/95\n\nde 30 de Setembro\n\nA assistência a pessoas que se encontrem em perigo na sequência de acidente ou situação de emergência ocorrida com as aeronaves em que são transportadas assume grande relevância e deve desenvolver-se através do estabelecimento de meios adequados e eficazes para os serviços de busca e salvamento.\n\nPelo Decreto-Lei n.º 36158, de 17 de Fevereiro de 1947, Portugal aderiu à Convenção de Chicago sobre Aviação Civil Internacional, de 1944. Em cumprimento do disposto no artigo 25.º da referida Convenção, o Estado Português assumiu integralmente as suas responsabilidades de âmbito nacional e internacional, assegurando a assistência a aeronaves que sobrevoam o espaço aéreo nacional.\n\nO presente diploma visa garantir uma maior eficiência e eficácia dos serviços e órgãos incumbidos de assegurar aquela assistência, estabelecendo a estrutura, a organização e as atribuições do Serviço de Busca e Salvamento Aéreo, integrado no Sistema Nacional para a Busca e Salvamento Aéreo, agora criados.\n\nO cumprimento das obrigações que incumbem ao Estado Português quanto à salvaguarda da vida humana nos casos de acidente ou de situações de emergência ocorridos com aeronaves constitui uma missão de interesse público, que é atribuída especialmente à Força Aérea Portuguesa, com a colaboração dos outros ramos das Forças Armadas e de outros serviços do Estado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "888824550": {
+   "fragment_id": "888824631",
+   "type": 1,
+   "heading": "Capítulo I — Sistema Nacional para a Busca e Salvamento Aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Sistema Nacional para a Busca e Salvamento Aéreo"
+  },
+  "888824551": {
+   "fragment_id": "888824632",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece o Sistema Nacional para a Busca e Salvamento Aéreo, o qual é responsável pela salvaguarda da vida humana dentro das regiões de informação de voo (Flight Information Region - FIR) em caso de acidente ocorrido com aeronaves ou de situações de emergência destas.\n\n2 - O Sistema Nacional para a Busca e Salvamento Aéreo compreende o conjunto de serviços e órgãos com responsabilidade nos espaços aéreos sob jurisdição nacional.\n\n3 - O Sistema Nacional para a Busca e Salvamento Aéreo compreende os procedimentos de apoio às aeronaves em situação de emergência, de busca das aeronaves acidentadas, bem como da prestação de socorro imediato às mesmas, e do salvamento dos passageiros e das tripulações, até ao momento em que o Serviço Nacional de Protecção Civil assuma o controlo das operações em terra."
+  },
+  "888824552": {
+   "fragment_id": "888824633",
+   "type": 11,
+   "heading": "Artigo 2.º — Direcção do Sistema Nacional para a Busca e Salvamento Aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direcção do Sistema Nacional para a Busca e Salvamento Aéreo\n\nO Sistema Nacional para a Busca e Salvamento Aéreo é dirigido pelo Ministro da Defesa Nacional, que é a autoridade nacional responsável pelo cumprimento do artigo 25.º da Convenção de Chicago sobre Aviação Civil Internacional, de 1944."
+  },
+  "888824553": {
+   "fragment_id": "888824634",
+   "type": 11,
+   "heading": "Artigo 3.º — Comissão consultiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comissão consultiva\n\n1 - O Ministro da Defesa Nacional é apoiado por uma comissão consultiva no âmbito dos assuntos relacionados com a busca e salvamento aéreo.\n\n2 - A comissão consultiva tem a seguinte composição:\n\na) Quatro representantes do Ministro da Defesa Nacional, desempenhando um as funções de presidente e sendo os restantes propostos, respectivamente, pelos Chefes dos Estados-Maiores da Armada, do Exército e da Força Aérea;\n\nb) Um representante do Ministro da Administração Interna;\n\nc) Dois representantes do Ministro das Obras Públicas, Transportes e Comunicações;\n\nd) Um representante do Ministro da Saúde;\n\ne) Um representante do Ministro do Mar.\n\n3 - O presidente e os vogais da comissão consultiva são nomeados por despacho dos respectivos ministros, considerando-se em acumulação de funções, sem direito a remuneração, quando a nomeação recaia sobre funcionários, oficiais das Forças Armadas ou de segurança ou trabalhadores das empresas públicas.\n\n4 - O presidente da comissão consultiva é coadjuvado pelo vogal proposto pelo Chefe do Estado-Maior da Força Aérea, que o substitui nas suas faltas e impedimentos.\n\n5 - À comissão consultiva podem ser agregados representantes de outras entidades, bem como os especialistas considerados necessários para os diversos trabalhos a desenvolver ou cuja participação seja considerada de interesse, designadamente dos órgãos de governo próprio das Regiões Autónomas.\n\n6 - O regulamento interno da comissão consultiva é estabelecido por despacho conjunto dos ministros nela representados, no prazo de 60 dias após o início de funções da comissão e mediante proposta desta.\n\n7 - A comissão consultiva funciona no Ministério da Defesa Nacional, sendo apoiada administrativamente pela Secretaria-Geral do mesmo."
+  },
+  "888824554": {
+   "fragment_id": "888824635",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da comissão consultiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências da comissão consultiva\n\nÀ comissão consultiva compete apoiar o Ministro da Defesa Nacional na coordenação geral dos assuntos de busca e salvamento aéreo, devendo para tal:\n\na) Acompanhar a evolução e analisar a importância das inovações surgidas, bem como o impacte delas resultante nas operações de busca e salvamento aéreo, devendo pronunciar-se sobre os novos meios, equipamentos e sistemas de comunicações;\n\nb) Examinar as informações relativas às operações de busca e salvamento, avaliar a eficácia das medidas em vigor e propor os melhoramentos necessários;\n\nc) Aconselhar, com base na experiência recolhida pelos serviços nacionais e estrangeiros congéneres, sobre a melhor utilização dos meios e equipamentos, bem como sobre a necessidade de novas aquisições;\n\nd) Propor os procedimentos que considere mais apropriados relativamente à utilização de aeronaves e navios em operações de busca e salvamento;\n\ne) Propor normas e procedimentos relativos à troca de informação, à coordenação e à colaboração entre o Sistema Nacional para a Busca e Salvamento Aéreo e o Sistema Nacional para a Busca e Salvamento Marítimo, criado pelo Decreto-Lei n.º 15/94, de 22 de Janeiro;\n\nf) Promover e apreciar os projectos de acordos a estabelecer entre os serviços de busca e salvamento nacionais e os de outros Estados;\n\ng) Propor alterações aos limites das regiões de busca e salvamento e pronunciar-se sobre as propostas no mesmo sentido formuladas por outras entidades, nacionais ou estrangeiras;\n\nh) Aconselhar sobre os aspectos normativo e administrativo dos organismos relevantes para a busca e salvamento aéreo."
+  },
+  "888824555": {
+   "fragment_id": "888824636",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura principal do Sistema Nacional para a Busca e Salvamento Aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura principal do Sistema Nacional para a Busca e Salvamento Aéreo"
+  },
+  "888824556": {
+   "fragment_id": "888824637",
+   "type": 11,
+   "heading": "Artigo 5.º — Áreas de responsabilidade do Sistema Nacional para a Busca e Salvamento Aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Áreas de responsabilidade do Sistema Nacional para a Busca e Salvamento Aéreo\n\nAs áreas de responsabilidade do Sistema Nacional para a Busca e Salvamento Aéreo são definidas pelas seguintes regiões de busca e salvamento (Search and Rescue Region - SRR), coincidentes com as regiões de informação de voo (Flight Information Region - FIR) do mesmo nome, onde se integram:\n\na) A região de busca e salvamento de Lisboa (SRR Lisboa), definida por:\n\nFoz do rio Minho;\n\nDaí, para as sucessivas posições geográficas de coordenadas:\n\n42º 00' N. e 10º 00' W.;\n\n43º 00' N. e 13º 00' W.;\n\n42º 00' N. e 15º 00' W.;\n\n36º 30' N. e 15º 00' W.;\n\n34º 10' N. e 17º 48' W.;\n\nDaí, ao longo de um arco de circunferência com 100 milhas de raio, centrado na posição geográfica de coordenadas 33º 04' N. e 16º 21' W., seguindo depois sucessivamente pelas posições geográficas de coordenadas:\n\n32º 15' N. e 14º 37' W.;\n\n35º 58' N. e 12º 00' W.;\n\n35º 58' N. e 7º 23' W.;\n\nDaí, para a foz do rio Guadiana, seguindo depois ao longo da fronteira de Portugal com a Espanha, até à foz do rio Minho;\n\nb) A região de busca e salvamento de Santa Maria (SRR Santa Maria), definida por:\n\nSucessivas posições geográficas de coordenadas:\n\n45º 00' N. e 40º 00' W.;\n\n45º 00' N. e 13º 00' W.;\n\n43º 00' N. e 13º 00' W.;\n\n42º 00' N. e 15º 00' W.;\n\n36º 30' N. e 15º 00' W.;\n\n34º 10' N. e 17º 48' W.;\n\nDaí, ao longo de um arco de circunferência de 100 milhas de raio, centrado na posição geográfica de coordenadas 33º 04' N. e 16º 21' W., seguindo depois sucessivamente pelas posições geográficas de coordenadas:\n\n31º 39' N. e 17º 25' W.;\n\n30º 00' N. e 20º 00' W.;\n\n30º 00' N. e 25º 00' W.;\n\n24º 00' N. e 25º 00' W.;\n\n17º 00' N. e 37º 30' W.;\n\n22º 18' N. e 40º 00' W.;\n\n45º 00' N. e 40º 00' W."
+  },
+  "888824557": {
+   "fragment_id": "888824638",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviço de Busca e Salvamento Aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviço de Busca e Salvamento Aéreo\n\n1 - O Serviço de Busca e Salvamento Aéreo, que funciona no âmbito da Força Aérea, é responsável pelas acções de busca e salvamento relativas a acidentes ocorridos com aeronaves.\n\n2 - São órgãos do Serviço de Busca e Salvamento Aéreo:\n\na) O centro de coordenação de busca e salvamento (Rescue Coordination Centre - RCC) de Lisboa, designado abreviadamente por RCC Lisboa;\n\nb) O centro de coordenação de busca e salvamento das Lajes, designado abreviadamente por RCC Lajes;\n\nc) As unidades de busca e salvamento, constituídas por aeronaves e respectivas tripulações e, eventualmente, equipas no terreno."
+  },
+  "888824558": {
+   "fragment_id": "888824639",
+   "type": 11,
+   "heading": "Artigo 7.º — Localização e funcionamento dos centros de coordenação de busca e salvamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Localização e funcionamento dos centros de coordenação de busca e salvamento\n\n1 - O RCC Lisboa e o RCC Lajes situam-se, respectivamente, na SRR de Lisboa e na SRR de Santa Maria, sendo a sua localização a seguinte:\n\na) O RCC Lisboa no Comando Operacional da Força Aérea, em Monsanto (38º 43' 52'' N. e 9º 11' 05'' W.);\n\nb) O RCC Lajes na Base Aérea n.º 4, nas Lajes (38º 45' 20'' N. e 27º 04' 48'' W.).\n\n2 - O RCC Lisboa e o RCC Lajes funcionam durante vinte e quatro horas por dia, no âmbito, respectivamente, do Comando Operacional da Força Aérea e do Comando da Zona Aérea dos Açores."
+  },
+  "888824559": {
+   "fragment_id": "888824640",
+   "type": 11,
+   "heading": "Artigo 8.º — Áreas de responsabilidade dos centros de coordenação de busca e salvamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Áreas de responsabilidade dos centros de coordenação de busca e salvamento\n\nAs áreas de responsabilidade dos RCC são os espaços aéreos terrestre e marítimo das áreas das respectivas SRR."
+  },
+  "888824560": {
+   "fragment_id": "888824641",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências dos centros de coordenação de busca e salvamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências dos centros de coordenação de busca e salvamento\n\n1 - Aos RCC compete garantir com eficácia a organização dos recursos a utilizar nas acções de busca e salvamento aéreo e, em especial:\n\na) Elaborar planos e instruções para a condução de operações de busca e salvamento na sua área de responsabilidade;\n\nb) Iniciar, conduzir, controlar e coordenar as operações de busca e salvamento relativas a aeronaves que se encontrem numa das três fases de emergência: incerteza, alerta ou perigo;\n\nc) Conduzir, sob a coordenação dos centros referidos no n.º 3 do artigo 14.º, integrados na SRR respectiva, os meios aéreos empenhados em operações de busca e salvamento de navios ou embarcações;\n\nd) Apoiar outros centros de coordenação de busca e salvamento, nacionais ou estrangeiros, que solicitem o seu auxílio;\n\ne) Alertar os órgãos adequados dos serviços de busca e salvamento, nacionais ou estrangeiros, que possam prestar assistência à salvaguarda da vida humana no mar ou em terra;\n\nf) Coordenar, nas áreas da sua responsabilidade, as comunicações entre os órgãos envolvidos em acções de busca e salvamento;\n\ng) Informar, quando necessário, as autoridades competentes na investigação de acidentes;\n\nh) Enviar os relatórios das operações de busca e salvamento à comissão consultiva através da normal cadeia de comando;\n\ni) Promover a realização de exercícios de busca e salvamento.\n\n2 - Aos RCC compete ainda:\n\na) Designar, para cada missão de busca e salvamento, um coordenador da missão, cujas funções cessam logo que o salvamento seja efectuado com êxito ou que se torne evidente que quaisquer esforços adicionais são inconclusivos;\n\nb) Reunir toda a informação relevante sobre cada acidente;\n\nc) Informar o centro de controlo da área da sua SRR quando a informação da aeronave em emergência não tenha sido fornecida pelo mesmo;\n\nd) Avaliar quais os meios e recursos adequados e necessários para a intervenção requerida pelos acidentes;\n\ne) Solicitar às entidades apropriadas, incluindo outros centros de busca e salvamento, nacionais ou estrangeiros, o apoio dos meios e recursos necessários;\n\nf) Promover, junto das aeronaves, navios ou embarcações envolvidos nas operações, a comunicação de todas as informações relevantes relativas à sua localização, condições e intenções;\n\ng) Nomear, quando necessário, o coordenador na área de busca;\n\nh) Encerrar as operações de busca e salvamento levadas a bom termo e, após consulta, se necessário, a outras entidades envolvidas, dar por findas as acções de busca que não tenham obtido resultados positivos;\n\ni) Informar as entidades a quem tenha sido requerido apoio sobre todas as matérias relevantes relacionadas com o acidente;\n\nj) Manter informada a entidade proprietária da aeronave objecto de busca de todas as acções desenvolvidas;\n\nl) Informar as entidades nacionais e internacionais apropriadas de todas as matérias relevantes relacionadas com a aeronave objecto de busca."
+  },
+  "888824561": {
+   "fragment_id": "888824642",
+   "type": 11,
+   "heading": "Artigo 10.º — Unidades aéreas de busca e salvamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Unidades aéreas de busca e salvamento\n\nA Força Aérea disponibiliza um quantitativo variável de unidades aéreas para as acções de busca e salvamento atribuídas, em permanência ou em reserva, a cada uma das regiões de busca e salvamento."
+  },
+  "888824562": {
+   "fragment_id": "888824643",
+   "type": 11,
+   "heading": "Artigo 11.º — Prontidão das unidades de busca e salvamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prontidão das unidades de busca e salvamento\n\nAs unidades de busca e salvamento, compostas por pessoal treinado e dotadas de equipamento adequado à eficaz execução de operações de busca e salvamento, devem manter um estado de prontidão adequado à sua tarefa."
+  },
+  "888824563": {
+   "fragment_id": "888824644",
+   "type": 11,
+   "heading": "Artigo 12.º — Coordenação da missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Coordenação da missão\n\nAs funções do coordenador da missão são as que decorrem do âmbito da Convenção sobre Aviação Civil Internacional, de 1944, complementadas pelas instruções técnicas emanadas da Organização da Aviação Civil Internacional (OACI) e da Organização do Tratado do Atlântico Norte (OTAN)."
+  },
+  "888824564": {
+   "fragment_id": "888824645",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura auxiliar do Sistema Nacional para a Busca e Salvamento Aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estrutura auxiliar do Sistema Nacional para a Busca e Salvamento Aéreo"
+  },
+  "888824565": {
+   "fragment_id": "888824646",
+   "type": 11,
+   "heading": "Artigo 13.º — Estrutura auxiliar de busca e salvamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Estrutura auxiliar de busca e salvamento\n\n1 - Com o Serviço de Busca e Salvamento Aéreo colaboram também as seguintes entidades:\n\na) O Exército e a Marinha, com meios dos seus dispositivos;\n\nb) O Serviço Nacional de Bombeiros, através das corporações de bombeiros;\n\nc) A Guarda Nacional Republicana e a Polícia de Segurança Pública;\n\nd) O Instituto Nacional de Emergência Médica, através do Centro de Orientação de Doentes Urgentes (CODU);\n\ne) A Cruz Vermelha Portuguesa, com ambulâncias e apoio médico;\n\nf) O Serviço Nacional de Protecção Civil;\n\ng) A ANA - Aeroportos e Navegação Aérea, E. P.;\n\nh) Outros organismos cuja actividade permita prestar colaboração ou com os quais o Serviço de Busca e Salvamento Aéreo venha a estabelecer protocolo no âmbito da Convenção sobre Aviação Civil Internacional, de 1944.\n\n2 - Com o Serviço de Busca e Salvamento Aéreo colaboram igualmente as demais entidades da estrutura auxiliar do Sistema Nacional para a Busca e Salvamento Marítimo.\n\n3 - As relações dos órgãos e serviços mencionados nos números anteriores com os órgãos do Serviço de Busca e Salvamento Aéreo são objecto de protocolos específicos, visando assegurar a melhor coordenação entre os RCC e a estrutura operacional deles próprios."
+  },
+  "888824566": {
+   "fragment_id": "888824647",
+   "type": 11,
+   "heading": "Artigo 14.º — Cooperação entre os serviços de busca e salvamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Cooperação entre os serviços de busca e salvamento\n\n1 - O Serviço de Busca e Salvamento Aéreo e o Serviço de Busca e Salvamento Marítimo cooperam estreitamente entre si nas acções de busca e salvamento no mar, nos termos das orientações e procedimentos estabelecidos no presente diploma.\n\n2 - Cabe aos Chefes dos Estados-Maiores da Armada e da Força Aérea estabelecer as directivas com vista a assegurar a cooperação entre os órgãos dos serviços referidos no número anterior.\n\n3 - Os meios navais atribuídos pela Marinha ou outras entidades para o exercício de missões de busca e salvamento aéreo são conduzidos pelos centros de coordenação de busca e salvamento marítimo (Maritime Rescue Coordination Centre - MRCC), operando sob a coordenação do RCC da respectiva SRR quando se trate de acções de busca e salvamento relativas a aeronaves.\n\n4 - No âmbito das suas funções de coordenação de comunicações, os RCC encaminham para o Instituto Hidrográfico todo o tráfego de mensagens relativo a acidentes com aeronaves no mar, o qual comunica os respectivos avisos aos navegantes de âmbito nacional, promove a sua radiodifusão através de estações e postos radionavais e garante ligação ao serviço mundial de avisos aos navegantes (NAVAREA)."
+  },
+  "888824567": {
+   "fragment_id": "888824648",
+   "type": 1,
+   "heading": "Capítulo IV — Orientação e procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Orientação e procedimentos"
+  },
+  "888824568": {
+   "fragment_id": "888824649",
+   "type": 11,
+   "heading": "Artigo 15.º — Elementos orientadores da acção do Sistema Nacional para a Busca e Salvamento Aéreo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Elementos orientadores da acção do Sistema Nacional para a Busca e Salvamento Aéreo\n\nNo Sistema Nacional para a Busca e Salvamento Aéreo devem utilizar-se como orientação as disposições da Convenção sobre Aviação Civil Internacional, de 1944, complementadas pelas instruções técnicas emanadas da OACI e da OTAN."
+  },
+  "888824569": {
+   "fragment_id": "888824650",
+   "type": 11,
+   "heading": "Artigo 16.º — Procedimentos a adoptar em tempo de guerra ou perante circunstâncias especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimentos a adoptar em tempo de guerra ou perante circunstâncias especiais\n\nEm tempo de guerra ou perante circunstâncias de carácter militar especiais, logo que o desenvolvimento da situação militar o aconselhar, a responsabilidade pelo Serviço de Busca e Salvamento Aéreo nas áreas descritas no artigo 5.º, bem como em outras áreas cometidas a Portugal por convenções internacionais, passa a competir ao Comando Operacional da Força Aérea, efectuando-se a atribuição de meios, as relações de comando e controlo e a prestação em geral dos serviços de acordo com os procedimentos prescritos pela OTAN."
+  },
+  "888824573": {
+   "fragment_id": "888824634",
+   "type": 11,
+   "heading": "Artigo 3.º — Comissão consultiva",
+   "in_force_from": "1999-10-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 399/99 - Diário da República n.º 240/1999, Série I-A de 1999-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1999-666766), em vigor a partir de 1999-10-19"
+   ],
+   "markdown": "###### Artigo 3.º — Comissão consultiva\n\n1 - O Ministro da Defesa Nacional é apoiado por uma comissão consultiva no âmbito dos assuntos relacionados com a busca e salvamento aéreo e marítimo.\n\n2 - A comissão consultiva tem a seguinte composição:\n\na) Quatro representantes do Ministro da Defesa Nacional, desempenhando um as funções de presidente e sendo os restantes propostos, respectivamente, pelos Chefes do Estado-Maior da Armada, do Exército e da Força Aérea;\n\nb) Dois representantes do Ministro da Administração Interna;\n\nc) Três representantes do Ministro do Equipamento, do Planeamento e da Administração do Território, sendo um proposto pelo Instituto Nacional de Aviação civil;\n\nd) Um representante do Ministro da Saúde.\n\n3 - O presidente e os vogais da comissão consultiva são nomeados por despacho dos respectivos ministros, considerando-se em acumulação de funções, sem direito a remuneração, quando a nomeação recaia sobre funcionários públicos, oficiais das Forças Armadas ou das forças de segurança ou trabalhadores das empresas públicas.\n\n4 - O presidente da comissão consultiva é coadjuvado pelos vogais propostos pelos Chefes do Estado-Maior da Armada e da Força Aérea, sendo substituído nas suas faltas e impedimentos por aquele que for designado para o efeito.\n\n5 - À comissão consultiva podem ser agregados representantes de outras entidades, bem como os especialistas considerados necessários para os diversos trabalhos a desenvolver ou cuja participação seja considerada de interesse, designadamente dos órgãos de governo próprio das Regiões Autónomas.\n\n6 - O regulamento interno da comissão consultiva é estabelecido por despacho conjunto dos ministros nela representados, no prazo de 60 dias após o início de funções da comissão e mediante proposta desta.\n\n7 - A comissão consultiva funciona no Ministério da Defesa Nacional, sendo apoiada administrativamente pela Secretaria-Geral do mesmo.\n\n> Alterado pelo/a [Decreto-Lei n.º 399/99 - Diário da República n.º 240/1999, Série I-A de 1999-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1999-666766), em vigor a partir de 1999-10-19"
+  },
+  "888824574": {
+   "fragment_id": "888824635",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da comissão consultiva",
+   "in_force_from": "1999-10-19",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 399/99 - Diário da República n.º 240/1999, Série I-A de 1999-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1999-666766), em vigor a partir de 1999-10-19"
+   ],
+   "markdown": "###### Artigo 4.º — Competências da comissão consultiva\n\nÀ comissão consultiva compete apoiar o Ministro da Defesa Nacional na coordenação geral dos assuntos de busca e salvamento, devendo para tal:\n\na) Acompanhar a evolução e analisar a importância das inovações surgidas, bem como o impacte delas resultante nas operações de busca e salvamento, devendo pronunciar-se sobre os novos meios, equipamentos, sistemas de comunicações e material em geral;\n\nb) Examinar as informações relativas às operações de busca e salvamento, avaliar a eficácia das medidas em vigor e propor os melhoramentos necessários;\n\nc) Aconselhar, com base na experiência recolhida pelos serviços nacionais e estrangeiros congéneres, sobre a melhor utilização dos meios e equipamentos, bem como sobre a necessidade de novas aquisições;\n\nd) Propor os procedimentos que considere mais apropriados relativamente à utilização de navios e aeronaves em operações de busca e salvamento;\n\ne) Propor normas e procedimentos relativos à troca de informação, à coordenação e à colaboração entre os Sistemas Nacionais para a Busca e Salvamento Marítimo e Aéreo;\n\nf) Promover e apreciar os projectos de acordos a estabelecer entre os serviços de busca e salvamento nacionais e os de outros Estados;\n\ng) Propor alterações aos limites das regiões de busca e salvamento e pronunciar-se sobre as propostas no mesmo sentido formuladas por outras entidades, nacionais ou estrangeiras;\n\nh) Aconselhar sobre os aspectos normativo e administrativo dos organismos relevantes para a busca e salvamento.\n\n> Alterado pelo/a [Decreto-Lei n.º 399/99 - Diário da República n.º 240/1999, Série I-A de 1999-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/399-1999-666766), em vigor a partir de 1999-10-19"
+  },
+  "888824570": {
+   "fragment_id": "888824651",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de Julho de 1995. - Aníbal António Cavaco Silva - António Jorge de Figueiredo Lopes - Manuel Dias Loureiro - Joaquim Martins Ferreira do Amaral - Adalberto Paulo da Fonseca Mendo - António Baptista Duarte Silva.\n\nPromulgado em 7 de Setembro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 11 de Setembro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

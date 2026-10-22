@@ -1,0 +1,623 @@
+---
+schema_version: '1.0'
+id: pt:dre:240381:por
+title: Decreto Legislativo Regional n.º 21/2005/A
+short_title: null
+summary: Estabelece o regime jurídico dos apoios à construção de habitação própria e à construção de habitação de custos controlados
+  na Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 21/2005/A
+official_date: null
+publication_date: '2005-08-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/2005, Série I-A de 2005-08-03
+  number: '148'
+  series: I
+  supplement: null
+  pages: 4490 - 4497
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/08/148a00/44904497.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-01-04'
+version_history:
+  file: decreto-legislativo-regional-21-2005-a.versoes.json
+  count: 2
+  source_lastmod: '2026-01-06'
+  versions:
+  - date: '2005-08-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-01-04'
+    amending: pt:dre:993031450:por
+    amending_title: Decreto Legislativo Regional n.º 27/2025/A
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Anexo II
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/21/2005/a/cons/20251230/pt/html
+  oj: null
+  dre: '240381'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/21-2005-240381
+  internal: pt:dre:240381:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2005-240381
+  metadata_url: https://data.dre.pt/eli/declegreg/21/2005/a/cons/20251230/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2005-989773332
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2005-989773332
+  retrieved_at: '2026-10-22T13:39:36Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-01-06T00:00:00Z'
+integrity:
+  source_sha256: c09de5bd3e39b02003fc62c4bc04852526c8d4148f71e9de9c02060a282b5f0e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:39:36Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-21-2005-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Construção Civil
+- Concurso Público
+- Governo Regional
+- Contrato de Cessão
+- Direito de Preferência
+- Habitação Social
+- Loteamento Urbano
+- Regime Jurídico
+- Habitação
+- Renda Condicionada
+- Sanção
+- Açores
+- Prédio Urbano
+relationships:
+- type: amended_by
+  target: pt:dre:993031450:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450
+  date: '2025-12-30'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/502/1999/11/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/502/1999/11/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/14/1995/08/22/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/14/1995/08/22/a/dre
+article_structure:
+  article_count: 27
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:39:36Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 21/2005/A
+
+Estabelece o regime jurídico dos apoios à construção de habitação própria e à construção de habitação de custos controlados na Região Autónoma dos Açores.
+
+O presente diploma vem estabelecer um novo regime jurídico de apoios à construção de habitação própria e à construção de habitação de custos controlados na Região Autónoma dos Açores.
+
+Os apoios contemplados vão desde a cedência de projectos tipo de habitação, de loteamento e de infra-estruturas, à cedência de lotes infra-estruturados e de solos por infra-estruturar e ainda à comparticipação financeira, a fundo perdido, no investimento realizado, ou a realizar, na aquisição de solos e sua infra-estruturação e nos estudos e projectos correspondentes.
+
+Para além dos beneficiários tradicionais deste tipo de apoios - pessoas singulares, cooperativas de habitação e construção e empresas construtoras ou promotoras de empreendimentos imobiliários -, o novo regime estende-se às instituições particulares de solidariedade social e a outras pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais.
+
+A par da ampliação do leque dos beneficiários, consagra-se, pela primeira vez, a possibilidade de se construir a custos controlados tendo em vista o arrendamento habitacional, tanto no regime de renda apoiada como no de renda condicionada, o que poderá constituir, para muitos agregados familiares, uma verdadeira alternativa ao tradicional mercado da compra e venda deste tipo de habitações.
+
+Em ordem a imprimir maior rigor e disciplina na utilização dos apoios por parte dos respectivos beneficiários e ao mesmo tempo preservar os superiores interesses da Região, os lotes infra-estruturados e os solos por infra-estruturar passam a ser cedidos sob reserva de propriedade, pelo que a mesma só se transmitirá plenamente depois do cessionário cumprir com as obrigações consideradas relevantes para o efeito.
+
+Para além das inovações anteriormente referidas, consagram-se outras, desta feita visando cercear comportamentos ou acções de ordem especulativa em torno de habitações que, fruto do investimento público realizado, hajam sido construídas ou adquiridas a preços significativamente mais acessíveis do que aqueles que resultariam do funcionamento do mercado correspondente.
+
+Com efeito, os apoios ora instituídos visam favorecer a diminuição das carências habitacionais dos agregados familiares de menores recursos e não o enriquecimento, por influência especulativa, desses mesmos agregados, nem de terceiros em transmissões subsequentes. Nestes termos, a posterior transmissibilidade de tais habitações não pode desvirtuar os fins que estão na origem do investimento público realizado, impondo-se garantir que ao esforço da Região correspondam os benefícios sociais que lhe estão subjacentes e que estes, em última instância, possam perdurar no maior espaço de tempo possível.
+
+Deste modo, ao contrário do que se previa no Decreto Legislativo Regional n.º 14/95/A, de 22 de Agosto, as habitações passam a ficar sujeitas a um regime de inalienabilidade pelo período de 10 anos, a contar, consoante o caso, da data da aquisição ou da emissão da licença de utilização e, simultaneamente, a um regime de fixação administrativa de preços máximos nas transmissões que venham a ocorrer num período de 30 anos a contar daquelas datas.
+
+Por último, no mesmo contexto, a Região passa a dispor de um direito de preferência, com eficácia real, na primeira transmissão dos fogos construídos para habitação própria permanente do construtor ou para arrendamento e na segunda transmissão nos restantes casos.
+
+A Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+###### Artigo 1.º
+
+Objecto
+
+O presente diploma estabelece o regime jurídico dos apoios à construção de habitação própria e à construção de habitação de custos controlados na Região Autónoma dos Açores.
+
+###### Artigo 2.º
+
+Formas de apoio
+
+1 - Os apoios previstos no presente diploma revestem a forma de:
+
+a) Cedência de lotes infra-estruturados;
+
+b) Cedência de solos por infra-estruturar;
+
+c) Cedência de projectos de loteamento e de infra-estruturas;
+
+d) Cedência de projectos tipo de habitação;
+
+e) Comparticipação financeira, a fundo perdido, no investimento realizado, ou a realizar, na aquisição dos solos, na infra-estruturação dos mesmos e nos estudos e projectos correspondentes.
+
+f) Comparticipação financeira, a fundo perdido, no investimento realizado, ou a realizar, na aquisição de projetos de arquitetura e especialidades para a construção de habitação permanente, até ao limite máximo de 5000 € (cinco mil euros).
+
+2 - A cedência dos projectos referida nas alíneas c) e d) do número anterior é feita a título gratuito.
+
+3 - Os apoios previstos no n.º 1 não são cumuláveis com os previstos nos capítulos V e VIII do Decreto Legislativo Regional n.º 14/95/A, de 22 de Agosto.
+
+4 - A atribuição do apoio previsto na alínea f) do n.º 1 depende da verificação das condições de acesso previstas no artigo 8.º, sendo o respetivo montante e concretização definidos por portaria do membro do Governo Regional com competência em matéria de habitação.
+
+> Alterado pelo/a Artigo 85.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01
+
+###### Artigo 3.º
+
+Conceitos
+
+Para efeitos do presente diploma, considera-se:
+
+a) «Beneficiário» todo aquele que preencha as condições previstas no presente diploma para ser apoiado;
+
+b) «Agregado familiar»:
+
+i) Conjunto de pessoas constituído pelos cônjuges ou por duas pessoas que vivam em condições análogas às dos cônjuges, nos termos do artigo 2020.º do Código Civil, seus ascendentes e descendentes até ao 2.º grau, adoptados restritamente, e menores confiados àqueles com vista a futura adopção ou em situação de tutela, colaterais até ao 3.º grau e afins, desde que com eles vivam em regime de comunhão de mesa e habitação;
+
+ii) Conjunto constituído por pessoa solteira, viúva, divorciada ou separada judicialmente de pessoas e bens, seus ascendentes e descendentes até ao 2.º grau, adoptados restritamente e menores confiados àquela com vista a futura adopção ou em situação de tutela, colaterais até ao 3.º grau e afins, desde que com ela vivam em comunhão de mesa e habitação;
+
+c) «Pessoa portadora de deficiência» aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60%;
+
+d) «Rendimento mensal bruto (Rmb)» o quantitativo que resulte da divisão por 12 dos rendimentos auferidos, sem dedução de quaisquer encargos, por todos os elementos do agregado familiar durante o ano civil anterior ao da candidatura;
+
+e) Indexante dos apoios sociais (IAS), o valor base de referência ao cálculo e atualização das contribuições, pensões e demais prestações sociais atribuídas pela segurança social, nos termos previstos na Lei n.º 53-B/2006, de 29 de dezembro, na sua redação atual;
+
+f) «Rendimentos» as remunerações provenientes de trabalho subordinado ou independente, incluindo ordenados, salários e outras remunerações do trabalho, tais como diuturnidades, horas extraordinárias e subsídios, os rendimentos provenientes de participações em sociedades comerciais ou rendas de prédios rústicos e urbanos, as pensões de reforma, de aposentação, de velhice, de invalidez, de sobrevivência, sociais, de sangue ou outras, rendimento social de inserção, subsídio de desemprego e ainda as resultantes do exercício de actividade comercial, industrial, agrícola, agro-pecuária e piscatória, incluindo os subsídios auferidos em razão destas actividades, com excepção do subsídio familiar;
+
+g) «Prédios rústicos e urbanos» os classificados como tal no Código do Imposto Municipal sobre Imóveis, aprovado pelo Decreto-Lei n.º 287/2003, de 12 de Novembro;
+
+h) «Área bruta da habitação»:
+
+i) «Unifamiliar» o somatório do espaço circunscrito pelas paredes exteriores da habitação, que pode desenvolver-se num ou mais pisos;
+
+ii) «Multifamiliar» a superfície total da habitação medida pelo perímetro exterior das paredes exteriores e eixos das paredes separadoras das habitações, incluindo varandas privadas e a quota-parte que lhes corresponda nos espaços comuns do edifício e excluindo as dependências destinadas a garagens e arrecadações e respectivos acessos;
+
+i) «Edifício» a unidade familiar ou multifamiliar composta pelo conjunto das habitações, das partes acessórias, do equipamento social e dos espaços comerciais conformes com o presente diploma, delimitado pelo perímetro exterior das paredes exteriores das superfícies relativas às áreas habitacionais, não habitacionais e aos espaços comuns, bem como pelos eixos das paredes separadoras de outros edifícios, se for o caso;
+
+j) «Habitação» a unidade de residência familiar que constitui um edifício ou fracção autónoma do edifício e compreende os espaços funcionais afectos ao fim habitacional, tais como sala, quartos, instalações sanitárias, corredores, vestíbulos, arrumos, varandas ou terraços privativos;
+
+l) «Dependências da habitação» os espaços privados periféricos desse fogo, tais como as varandas, os balcões, os terraços, as arrecadações em cave e em sótão (nos edifícios multifamiliares) ou em corpos anexos, e os telheiros e alpendres (nos edifícios unifamiliares), espaços esses exteriores à envolvente que o confina, bem como as partes acessórias, destinadas a arrecadações e garagens, colectivas ou individuais, e respectivos acessos;
+
+m) «Habitação própria permanente» aquela onde o beneficiário e o seu agregado familiar mantêm estabilizado o seu centro de vida familiar;
+
+n) «Operações de loteamento e obras de urbanização» as definidas como tal no regime jurídico da urbanização e da edificação;
+
+o) «Equipamento social» as áreas construídas destinadas a apoio social, cultural e desportivo das famílias, designadamente salas de condomínio, infantários, lares para a terceira idade, centros de dia e serviços colectivos de limpeza, de lavandarias e outros, desde que justificada a sua função social relativamente às famílias a que se destinam;
+
+p) «Espaços comerciais» as áreas construídas, integradas nos edifícios, destinadas ao exercício de actividade comercial;
+
+q) «Área bruta das partes acessórias» o total das superfícies das garagens individuais, dos lugares de garagem ou das arrecadações, sendo cada unidade medida pelo perímetro exterior das paredes exteriores e pelos eixos separadores dessas unidades, incluindo a quota-parte que lhe corresponda nos espaços comuns de circulação e acesso.
+
+> Alterado pelo/a Artigo 85.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01
+
+###### Artigo 4.º
+
+Parâmetros e valores
+
+A edificação de fogos a custos controlados está sujeita aos parâmetros e valores em vigor para a habitação de custos controlados, nomeadamente quanto aos custos de construção por metro quadrado e aos valores máximos de venda, ou outros contratualmente estabelecidos.
+
+###### Artigo 5.º
+
+Áreas
+
+1 - As habitações a construir, de acordo com a respectiva tipologia, têm como limites mínimos de área bruta os previstos no Regulamento Geral das Edificações Urbanas e como limites máximos os constantes do anexo I ao presente diploma, do qual faz parte integrante.
+
+2 - A área bruta das habitações unifamiliares poderá compreender uma margem adicional de até 20%, nos termos a definir em diploma regulamentar.
+
+3 - A área bruta habitacional total dos edifícios multifamiliares de cada empreendimento tem como limite máximo o que resultar da aplicação dos valores de área bruta indicados no n.º 1 às diversas tipologias que o constituem, podendo admitir-se uma margem adicional de 3% que nunca pode resultar num acréscimo de área por fogo superior a 10%, salvo em casos excepcionais relacionados com necessidades de conformação do projecto.
+
+4 - Nos edifícios multifamiliares a área bruta total do equipamento social e espaços comerciais não pode ser superior a 20% da área bruta total das áreas habitacionais e partes acessórias dos fogos do empreendimento em que estão integrados, salvo em casos excepcionais, devidamente fundamentados e aprovados pelo departamento do Governo Regional competente em matéria de habitação, designadamente naqueles em que a natureza do empreendimento justifique uma maior predominância da vertente do equipamento social.
+
+###### Artigo 6.º — Beneficiários e finalidade dos apoios
+
+1 - São beneficiárias dos apoios previstos nas alíneas a), d) e f) do n.º 1 do artigo 2.º as pessoas singulares para construção de habitação própria permanente.
+
+2 - São beneficiárias dos apoios previstos nas alíneas a), d) e e) do n.º 1 do artigo 2.º as cooperativas de habitação e construção para a construção de habitação de custos controlados destinada a venda para habitação própria permanente dos seus membros ou a arrendamento habitacional em regime de renda condicionada aos mesmos.
+
+3 - São beneficiárias dos apoios previstos nas alíneas a), d) e e) do n.º 1 do artigo 2.º as instituições particulares de solidariedade social e outras pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais para construção de habitação de custos controlados destinada a arrendamento em regime de renda apoiada.
+
+4 - São beneficiárias dos apoios previstos nas alíneas a) a e) do n.º 1 do artigo 2.º as empresas construtoras ou promotoras de empreendimentos imobiliários para construção de habitação de custos controlados destinada a venda para habitação própria permanente ou a arrendamento habitacional em regime de renda condicionada.
+
+> Alterado pelo/a Artigo 85.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01
+
+###### Artigo 7.º
+
+Cumulação de apoios
+
+1 - As pessoas singulares podem beneficiar, em alternativa:
+
+a) Dos apoios previstos, cumulativamente, nas alíneas a) e d) do n.º 1 do artigo 2.º; ou
+
+b) Dos apoios previstos, cumulativamente, nas alíneas a) e f) do n.º 1 do artigo 2.º
+
+2 - As cooperativas de habitação e construção, as instituições particulares de solidariedade social e outras pessoas coletivas de utilidade pública administrativa que prossigam fins assistenciais podem beneficiar, cumulativamente, dos apoios previstos nas alíneas a) e d) do n.º 1 do artigo 2.º
+
+3 - As empresas promotoras ou construtoras de empreendimentos imobiliários podem beneficiar, cumulativamente, dos apoios previstos nas alíneas a) e d) do n.º 1 do artigo 2.º ou, em alternativa, dos apoios previstos na alíneas b) e c) do n.º 1 do referido artigo.
+
+4 - O apoio previsto na alínea e) do n.º 1 do artigo 2.º não é cumulável com qualquer outra forma de apoio prevista no presente diploma.
+
+> Alterado pelo/a Artigo 85.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01
+
+###### Artigo 8.º
+
+Condições de acesso aos apoios para construção de habitação própria permanente
+
+1 - O acesso aos apoios para construção de habitação própria permanente depende da verificação cumulativa das seguintes condições, a aferir pelo departamento do Governo Regional competente em matéria de habitação:
+
+a) Não ter sido, nem estar a ser, o interessado ou qualquer outro elemento do seu agregado familiar, beneficiado por este ou por qualquer outro apoio à habitação atribuído por organismos da Administração Pública, sem prejuízo do disposto no n.º 2 do presente artigo;
+
+b) Não ser o interessado, ou qualquer outro elemento do seu agregado familiar, proprietário de prédios urbanos, excepto se estes se encontrarem exclusivamente afectos à actividade profissional destes;
+
+c) Não ser o interessado, ou qualquer outro elemento do seu agregado familiar, proprietário de prédios rústicos, salvo se o somatório das respectivas áreas não ultrapassar um valor a fixar e não sejam passíveis de operações de loteamento e obras de urbanização, sem prejuízo do disposto no n.º 3 do presente artigo;
+
+d) Rendimento mensal bruto do agregado familiar ser inferior ao limite máximo resultante do produto dos coeficientes indicados no anexo II, tendo por referência o indexante dos apoios sociais (IAS) do ano a que aquele se reporta, e o número de elementos do agregado familiar;
+
+e) Possuir capacidade financeira para fazer face aos custos de construção da habitação.
+
+2 - Exceptuam-se do disposto na alínea a) do número anterior os interessados descendentes de agregado familiar apoiado por qualquer programa de apoio à habitação que entretanto hajam constituído novo agregado familiar.
+
+3 - Caso os prédios referidos na alínea c) do n.º 1 sejam a única fonte de rendimento do agregado familiar e não sejam passíveis de operações de loteamento e obras de urbanização, não poderá o somatório das respectivas áreas exceder um valor a fixar.
+
+4 - Os valores referidos na alínea c) do n.º 1 e no n.º 3 serão fixados em diploma regulamentar.
+
+> Alterado pelo/a Artigo 85.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01
+
+###### Artigo 9.º
+
+Presunção de rendimentos
+
+1 - No caso de indivíduo maior que não apresente rendimentos do trabalho dependente ou independente ou que declare rendimentos inferiores ao salário mínimo nacional e não faça prova dos mesmos ou de estar incapacitado para o trabalho ou reformado por velhice ou invalidez, presume-se, para efeito do cômputo do rendimento anual bruto do respectivo agregado familiar, que aquele aufere um rendimento mensal de valor correspondente a um salário mínimo nacional praticado na Região Autónoma dos Açores, salvo se se comprovar que aufere rendimentos superiores, caso em que serão estes os relevantes para o efeito.
+
+2 - A presunção estabelecida na primeira parte do número anterior é afastada mediante prova de que a ausência de rendimentos se deve à verificação de uma das seguintes situações no agregado familiar:
+
+a) Estar a frequentar estabelecimento de ensino e não possuir idade superior a 25 anos;
+
+b) Exercício da actividade de doméstica, não podendo, porém, ser considerado como tal mais do que um elemento do agregado familiar;
+
+c) Estar desempregado.
+
+###### Artigo 10.º
+
+Condições de acesso aos apoios para construção de habitação de custos controlados
+
+1 - O acesso aos apoios para construção de habitação de custos controlados por parte das cooperativas de habitação e construção depende da verificação cumulativa das seguintes condições, a aferir pelo departamento do Governo Regional competente em matéria de habitação:
+
+a) Exercer a actividade de acordo com os princípios cooperativos e dispor de contabilidade regularmente organizada;
+
+b) Ter a situação regularizada relativamente a contribuições para a segurança social portuguesa;
+
+c) Ter a situação tributária regularizada perante o Estado Português;
+
+d) Ter cumprido, ou estar a cumprir, com as obrigações decorrentes de contratos celebrados para o mesmo fim;
+
+e) Apresentar acta da assembleia geral de que conste a deliberação que aprova a construção das habitações ao abrigo do presente regime;
+
+f) Apresentar garantias de disponibilidade financeira, designadamente de obtenção de financiamentos para a construção das habitações;
+
+g) Ser proprietário ou promitente comprador dos terrenos destinados à construção das habitações, caso a candidatura vise o apoio previsto na alínea e) do n.º 1 do artigo 2.º;
+
+h) Os projectos obedecerem aos parâmetros e valores legalmente definidos para habitação de custos controlados, caso a candidatura não vise o apoio previsto na alínea d) do n.º 1 do artigo 2.º;
+
+i) Assegurar que os projectos reúnem as condições para serem aprovados pelo município competente, caso a candidatura não vise o apoio previsto na alínea d) do n.º 1 do artigo 2.º
+
+2 - O acesso aos apoios para construção de habitação de custos controlados por parte das instituições particulares de solidariedade social e de outras pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais depende da verificação cumulativa das condições previstas nas alíneas b) a i) do número anterior, as quais serão aferidas pelo departamento do Governo Regional competente em matéria de habitação.
+
+3 - O acesso aos apoios para construção de habitação de custos controlados por parte das empresas construtoras ou promotoras de empreendimentos imobiliários depende da verificação cumulativa das seguintes condições, a aferir pelo departamento do Governo Regional competente em matéria de habitação:
+
+a) Ter idoneidade comercial;
+
+b) Ter capacidades financeira, económica e técnica para construção das habitações;
+
+c) Ter alvará adequado ao valor e à natureza do empreendimento a construir;
+
+d) Ter a situação regularizada relativamente a contribuições para a segurança social em Portugal ou no Estado de que sejam nacionais ou no qual se situe o respectivo estabelecimento principal;
+
+e) Ter a situação tributária regularizada perante o Estado Português ou perante o Estado de que sejam nacionais ou no qual se situe o respectivo estabelecimento principal;
+
+f) Ter cumprido, ou estar a cumprir, com as obrigações decorrentes de contratos celebrados para o mesmo fim;
+
+g) Ser proprietário ou promitente comprador dos terrenos destinados à construção das habitações, caso a candidatura vise o apoio previsto na alínea e) do n.º 1 do artigo 2;
+
+h) Os projectos obedecerem aos parâmetros e valores legalmente definidos para habitação de custos controlados, caso a candidatura não vise o apoio previsto na alínea d) do n.º 1 do artigo 2.º;
+
+i) Assegurar que os projectos reúnem condições para serem aprovados pelo município competente, caso a candidatura não vise o apoio previsto na alínea d) do n.º 1 do artigo 2.º
+
+###### Artigo 11.º
+
+Cedência de lotes e solos
+
+1 - Os lotes infra-estruturados e os solos por infra-estruturar são cedidos, sob reserva de propriedade, mediante concurso público, promovido pelo departamento do Governo Regional competente em matéria de habitação, ou por ajuste directo, se os cessionários forem cooperativas de habitação e construção, instituições particulares de solidariedade social e outras pessoas colectivas de utilidade pública administrativa.
+
+2 - Poderá ainda haver lugar a cedência de lotes infra-estruturados a pessoas singulares, mediante ajuste directo, quando tais lotes ficarem por atribuir no âmbito do procedimento concursal respectivo ou, tendo-o sido, o contrato de cedência haja sido resolvido.
+
+3 - No caso de cedência de lotes infra-estruturados a pessoas singulares terão estas de suportar um preço, o qual será fixado em cada procedimento por despacho conjunto dos membros do Governo Regional competentes em matéria de finanças e património e de habitação.
+
+4 - No caso de cedência de solo por infra-estruturar constitui obrigação e encargo do cessionário a sua infra-estruturação.
+
+5 - Até à conclusão da construção das habitações não poderão ser constituídos, para além dos previstos no presente diploma, quaisquer ónus ou encargos sobre os lotes e solos cedidos, sem prejuízo do disposto no número seguinte.
+
+6 - É permitida a constituição de hipotecas a favor de instituições de crédito destinadas a garantir empréstimos contraídos para a construção das habitações.
+
+7 - A instituição de crédito a favor de quem a hipoteca for constituída deve fiscalizar, durante o período de utilização do empréstimo, a efectiva aplicação do crédito ao fim referido no número anterior.
+
+###### Artigo 12.º
+
+Regulamentação dos concursos
+
+Os concursos públicos a realizar com vista à cedência de lotes infra-estruturados ou de solos por infra-estruturar regulam-se pelo disposto no presente diploma, pelos diplomas que o regulamentem e pelas peças concursais respectivas, as quais serão aprovadas por despacho do membro do Governo Regional competente em matéria de habitação.
+
+###### Artigo 13.º
+
+Valor da comparticipação financeira
+
+O valor da comparticipação financeira prevista na alínea e) do n.º 1 do artigo 2.º e as condições contratuais atinentes serão negociados com o beneficiário proponente, tendo em conta o valor do investimento realizado ou a realizar por este e os parâmetros e valores previstos no artigo 4.º do presente diploma.
+
+###### Artigo 14.º
+
+Adquirentes e arrendatários das habitações construídas a custos controlados
+
+1 - As habitações construídas a custos controlados ao abrigo do presente diploma só poderão ser vendidas ou arrendadas a pessoas singulares que reúnam, cumulativamente, as condições previstas nas alíneas a) a d) do n.º 1 do artigo 8.º, as quais serão aferidas pelo departamento do Governo Regional competente em matéria de habitação.
+
+2 - A presunção de rendimentos prevista no artigo 9.º aplica-se aos adquirentes e arrendatários referidos no número anterior.
+
+###### Artigo 15.º
+
+Selecção dos adquirentes das habitações construídas por empresas construtoras ou promotoras de empreendimentos imobiliários
+
+1 - A selecção dos adquirentes das habitações construídas pelas empresas construtoras ou promotoras de empreendimentos imobiliários ao abrigo do presente diploma é feita por concurso público, promovido pelo departamento do Governo Regional competente em matéria de habitação.
+
+2 - O concurso referido no número anterior rege-se pelo disposto no presente diploma, pelos diplomas que o regulamentem e pelas peças concursais respectivas, as quais serão aprovadas por despacho do membro do Governo Regional competente em matéria de habitação.
+
+###### Artigo 16.º
+
+Fixação de rendas no regime de renda condicionada
+
+Pelo arrendamento das habitações construídas a custos controlados ao abrigo do presente diploma, em regime de renda condicionada, não podem ser cobradas rendas superiores às que resultarem da aplicação do disposto no artigo 79.º do Decreto-Lei n.º 321-B/90, de 15 de Outubro, ou da proposta do promotor, quando inferiores.
+
+###### Artigo 17.º
+
+Instrução dos processos de candidatura
+
+1 - Os processos de candidatura são instruídos pelo departamento do Governo Regional competente em matéria de habitação, nos termos a definir em diploma regulamentar.
+
+2 - A direcção da instrução compete ao director regional competente em matéria de habitação, com poderes de delegação.
+
+###### Artigo 18.º
+
+Decisão dos processos de candidatura
+
+Os processos de candidatura são sujeitos a decisão do membro do Governo Regional competente em matéria de habitação, podendo esta ser objecto de delegação.
+
+###### Artigo 19.º
+
+Inalienabilidade
+
+1 - As edificações construídas com os apoios previstos no presente diploma ficam sujeitas a um regime de inalienabilidade pelo período de 10 anos a contar da data da aquisição ou da data da emissão da licença de utilização no caso de se destinarem a habitação própria permanente do construtor ou a arrendamento.
+
+2 - Se o proprietário pretender alienar a habitação antes do termo do prazo referido no número anterior, pode requerer ao departamento do Governo Regional competente em matéria de habitação o levantamento do regime de inalienabilidade, mediante o pagamento à Região Autónoma dos Açores de uma importância a fixar em diploma regulamentar, sem prejuízo do disposto no número seguinte.
+
+3 - No caso de morte ou invalidez permanente e absoluta do proprietário ou do respectivo cônjuge o regime de inalienabilidade cessa automaticamente, sem que isso implique qualquer pagamento à Região Autónoma dos Açores.
+
+4 - O regime de inalienabilidade caduca nos casos em que haja lugar à adjudicação ou venda da habitação em processo de execução para pagamento de dívidas decorrentes de empréstimos contraídos com vista à construção ou aquisição daquela, mas não exonera o executado do pagamento à Região Autónoma dos Açores da importância referida no n.º 2.
+
+5 - A caducidade do ónus inalienabilidade pelo decurso do respectivo prazo determina o averbamento oficioso deste facto.
+
+6 - A verificação do disposto nos n.os 1 a 3 é aferida pelo notário no momento da celebração da escritura de compra e venda da habitação.
+
+###### Artigo 20.º
+
+Registos
+
+Estão sujeitos a registo:
+
+a) A reserva de propriedade prevista no n.º 1 do artigo 11.º;
+
+b) O regime de inalienabilidade previsto no artigo 19.º;
+
+c) Os prazos para início e conclusão das obras previstos no artigo 21.º;
+
+d) O direito de preferência e as restrições ao preço de venda previstos no artigo 24.º
+
+###### Artigo 21.º
+
+Obrigações
+
+1 - Os cessionários de lote infra-estruturado e de projecto tipo de habitação para construção de habitação própria permanente ficam sujeitos às seguintes obrigações:
+
+a) Iniciar a construção no prazo de seis meses a contar da data da notificação da aprovação do projecto por parte do município respectivo e concluí-la no prazo de três anos a contar da data do auto de cessão;
+
+b) Executar a obra de acordo com o projecto aprovado;
+
+c) Cooperar nas acções de fiscalização e controlo exercidas pela Região Autónoma dos Açores na fase da execução da obra;
+
+d) Constituir, no prazo máximo de 30 dias após a emissão da licença de utilização, seguro sobre o imóvel que preveja a cobertura de fenómenos sísmicos;
+
+e) Não utilizar a habitação construída para outro fim que não da habitação própria permanente;
+
+f) Cooperar nas acções de fiscalização e controlo exercidas pela Região Autónoma dos Açores no âmbito da instrução do processo de candidatura, fornecendo os meios probatórios que forem solicitados em ordem à avaliação da situação patrimonial, financeira e económica do agregado familiar;
+
+g) Comunicar, até à data da notificação da decisão, todas as alterações entretanto ocorridas e relevantes para a atribuição do apoio, designadamente as relacionadas com rendimentos e composição do agregado familiar;
+
+h) Proceder aos registos previstos no presente diploma.
+
+2 - As cooperativas de habitação e construção, para além das obrigações referidas nas alíneas a), b), c) e h) do número anterior, ficam ainda obrigadas a remeter ao departamento do Governo Regional competente em matéria de habitação:
+
+a) Os processos individuais dos potenciais adquirentes e arrendatários para efeitos da aferição a que alude o artigo 14.º;
+
+b) As minutas do contrato tipo de promessa de compra e venda e de arrendamento das habitações para efeitos de aprovação;
+
+c) As cópias das escrituras de compra e venda e dos contratos de arrendamento, no prazo máximo de 30 dias após a data da respectiva celebração.
+
+3 - As instituições particulares de solidariedade social e outras pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais ficam sujeitas às obrigações referidas nas alíneas a), b, c) e h) do n.º 1 e, com as devidas adaptações, às obrigações referidas nas alíneas a), b) e c) do número anterior.
+
+4 - As empresas construtoras ou promotoras de empreendimentos imobiliários, para além das obrigações referidas nas alíneas a), b), c) e h) do n.º 1, ficam ainda sujeitas às obrigações referidas nas alíneas b) e c) do n.º 2.
+
+5 - Os adquirentes de habitações construídas ao abrigo do presente diploma, para além das obrigações referidas nas alíneas e), f), e g) do n.º 1, ficam ainda sujeitos às seguintes obrigações:
+
+a) Constituir, no prazo máximo de 30 dias após a celebração da escritura pública de aquisição, seguro sobre o imóvel que preveja a cobertura de fenómenos sísmicos;
+
+b) Proceder aos registos referidos nas alíneas b) e d) do artigo 20.º do presente diploma.
+
+6 - Enquanto perdurar o regime de inalienabilidade, é obrigatória a constituição do seguro referido na alínea d) do n.º 1 e na alínea a) do n.º 5.
+
+7 - A omissão da comunicação referida na alínea g) do n.º 1 é sancionável nos termos previstos no n.º 8 do artigo seguinte.
+
+8 - A requerimento dos interessados, os prazos previstos no presente artigo podem ser prorrogados por despacho do membro do Governo Regional competente em matéria de habitação, desde que os motivos invocados sejam atendíveis.
+
+###### Artigo 22.º
+
+Sanções
+
+1 - O incumprimento das obrigações previstas nas alíneas a), c) e h) do n.º 1 e na alínea a) do n.º 2 do artigo 21.º determina, consoante os casos, a resolução do contrato de cessão ou a restituição à Região Autónoma dos Açores do montante da comparticipação financeira concedida nos termos do artigo 13.º, acrescido dos juros a que houver lugar à data da verificação do incumprimento.
+
+2 - O incumprimento da obrigação prevista na alínea b) do n.º 1 do artigo 21.º é sancionado com multa de (euro) 5000, no caso de o beneficiário ser pessoa singular, e de (euro) 15000, por fogo, no caso de o beneficiário ser pessoa colectiva, salvo se o incumprimento se ficou a dever a imperativos de natureza técnica, comprovados e reconhecidos pelos serviços do departamento do Governo Regional competente em matéria de habitação.
+
+3 - O incumprimento das obrigações previstas na alínea d) do n.º 1, na alínea a) do n.º 5 e no n.º 6 do artigo 21.º determina, consoante o caso, a suspensão do início da contagem do prazo do ónus de inalienabilidade, ou a suspensão do prazo de vigência desse ónus a contar da data do incumprimento e enquanto este se verificar.
+
+4 - O incumprimento da obrigação prevista na alínea e) do n.º 1 do artigo 21.º determina:
+
+a) Nos casos em que tenha havido cedência de lote infra-estruturado, o pagamento de uma multa de montante equivalente ao valor de mercado daquele, à data do incumprimento, deduzido o valor pago pelo cessionário nos termos do n.º 3 do artigo 11.º devidamente actualizado;
+
+b) Nos restantes casos, o pagamento de uma multa de montante equivalente ao dobro do valor investido pela Região Autónoma dos Açores, devidamente actualizado à data do incumprimento, calculado em função da permilagem do fogo no caso de fracção autónoma.
+
+5 - O incumprimento da obrigação prevista na alínea f) do n.º 1 do artigo 21.º determina a exclusão da candidatura.
+
+6 - O incumprimento das obrigações previstas nas alíneas b) e c) do n.º 2 do artigo 21.º é sancionado com multa de (euro) 500 por fogo.
+
+7 - O incumprimento da obrigação prevista na alínea b) do n.º 5 do artigo 21.º é sancionado com a multa referida na alínea b) do n.º 4 do presente artigo.
+
+8 - A prestação de falsas declarações, para além da comunicação às autoridades competentes em matéria criminal, determina a impossibilidade de o beneficiário se candidatar a qualquer programa de apoio à habitação promovido pela Região Autónoma dos Açores e, consoante o caso, a exclusão da candidatura, a revogação da decisão de concessão do apoio, a restituição dos projectos que hajam sido cedidos, a resolução do contrato de cessão do bem imóvel e a resolução do contrato de compra e venda da habitação.
+
+###### Artigo 23.º
+
+Resolução do contrato de cessão
+
+1 - A resolução do contrato de cessão confere à Região Autónoma dos Açores o direito de exigir do cessionário a demolição da obra feita ou, se o preferir, o direito de ficar com essa obra, mediante o pagamento de um valor nunca superior a 70% do investimento realizado por aquele.
+
+2 - Se à data da resolução do contrato subsistirem créditos hipotecários que onerem o bem imóvel cedido, estes são liquidados em primeiro lugar por conta da importância que for apurada nos termos do número anterior, cabendo ao cessionário o remanescente dessa liquidação, caso exista.
+
+3 - A resolução do contrato de cessão é comunicada ao cessionário por carta registada com aviso de recepção e produz efeitos a partir da data da assinatura de tal aviso.
+
+###### Artigo 24.º
+
+Direito de preferência e restrições ao preço de venda
+
+1 - Sem prejuízo do disposto nos n.os 2, 3 e 8 do presente artigo, a Região Autónoma dos Açores goza de direito de preferência, com eficácia real:
+
+a) Na primeira transmissão dos fogos construídos para a habitação própria permanente do construtor;
+
+b) Na primeira transmissão dos fogos construídos para arrendamento;
+
+c) Na segunda transmissão dos fogos construídos para habitação própria permanente dos adquirentes.
+
+2 - Na situação prevista na alínea b) do número anterior, o direito de preferência da Região não prevalece sobre o direito de preferência do arrendatário.
+
+3 - Na situação prevista na alínea c) do n.º 1, se o alienante for um cooperante, o direito de preferência da Região não prevalece sobre o direito de preferência da cooperativa previsto no artigo 28.º do Decreto-Lei n.º 502/99, de 19 de Novembro.
+
+4 - Pelo período de 30 anos a contar da data da aquisição, ou da data da emissão da licença de utilização caso o fogo construído se destine a habitação própria permanente do construtor ou a arrendamento, o valor máximo de venda do fogo nas transmissões a que alude o n.º 1, assim como em todas as subsequentes que venham a ocorrer naquele período, é fixado pela Região Autónoma dos Açores, através do departamento do Governo Regional competente em matéria de habitação.
+
+5 - O valor a fixar nos termos do número anterior tem por referência, consoante o caso, o valor de construção por metro quadrado apurado no final da obra ou o valor da primeira aquisição, revistos de acordo com os índices publicados pelo Serviço Regional de Estatística dos Açores para a habitação, acrescido de uma actualização anual à taxa prevista para o regime de renda condicionada.
+
+6 - A actualização referida na parte final do número anterior não se aplica aos fogos que tenham estado, ou estejam, arrendados no regime da renda condicionada.
+
+7 - A intenção de venda tem de ser comunicada pelo proprietário ao departamento do Governo Regional competente em matéria de habitação, a quem cabe desencadear o processo de preferência previsto no presente artigo.
+
+8 - Não estão sujeitas ao exercício do direito de preferência as transmissões por morte e as que venham a efectuar-se a favor dos cônjuges.
+
+###### Artigo 25.º
+
+Regulamentação
+
+O presente diploma é regulamentado no prazo de 90 dias.
+
+###### Artigo 26.º
+
+Norma revogatória
+
+São revogados os capítulos II e IV do Decreto Legislativo Regional n.º 14/95/A, de 22 de Agosto, com excepção das disposições que prevêem apoios às autarquias para construção de habitação social destinada a realojamento.
+
+###### Artigo 27.º
+
+Produção de efeitos
+
+O regime previsto no presente diploma produz efeitos a partir da data de entrada em vigor do diploma regulamentar previsto no artigo 25.º
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 20 de Abril de 2005.
+
+O Presidente da Assembleia Legislativa, Fernando Manuel Machado Menezes.
+
+Assinado em Angra do Heroísmo em 18 de Julho de 2005.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.
+
+## Anexo I
+
+(a que se refere o n.º 1 do artigo 5.º)
+
+(ver tabela no documento original)
+
+## Anexo II
+
+[a que se refere a alínea d) do n.º 1 do artigo 8.º]
+
+| Número de elementos do agregado familiar | Coeficiente máximo |
+| --- | --- |
+| Um | 3,6 |
+| Dois | 3,6 |
+| Três | 2,6 |
+| Quatro | 2,1 |
+| Cinco | 1,8 |
+| Seis ou mais | 1,6 |
+
+Limite máximo de rendimento = número de elementos × coeficiente × IAS
+
+> Alterado pelo/a Artigo 85.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01

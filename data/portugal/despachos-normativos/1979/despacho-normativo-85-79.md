@@ -1,0 +1,174 @@
+---
+schema_version: '1.0'
+id: pt:dre:382646:por
+title: Despacho Normativo n.º 85/79
+short_title: null
+summary: Define as normas, organização e funcionamento dos serviços do Laboratório Nacional de Engenharia e Tecnologia Industrial
+  até à publicação da sua lei orgânica
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Indústria e Tecnologia - Gabinete do Ministro
+proposing_entity: null
+official_number: 85/79
+official_date: null
+publication_date: '1979-04-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 94/1979, Série I de 1979-04-23
+  number: '94'
+  series: I
+  supplement: null
+  pages: 729 - 730
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/04/09400/07290730.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '382646'
+  dre_path: /dr/detalhe/despacho-normativo/85-1979-382646
+  internal: pt:dre:382646:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/85-1979-382646
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/85-1979-382646
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-08-10T00:00:00Z'
+integrity:
+  source_sha256: 98fd982ec266500d4980c559d49d99c86581e949a139cf73b1da9ddf6478184a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-85-382646.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:233964:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 85/79
+
+Prevendo-se para data próxima a apresentação a Conselho de Ministros do projecto de lei orgânica do Laboratório Nacional de Engenharia e Tecnologia Industrial (LNETI), há manifesto interesse em que desde já se racionalizem os meios humanos e de equipamento existente, se ensaiem soluções de que ainda poderá eventualmente beneficiar aquele projecto e que imediatamente se inicie a fase de integração harmónica dos serviços actualmente existentes em ordem à implementação do LNETI.
+
+Justifica-se assim que seja utilizada a faculdade conferida pela lei orgânica do Ministério da Indústria e Tecnologia de, para a gradual concretização da sua nova estrutura, serem definidas a título transitório algumas normas de organização e funcionamento dos serviços do LNETI e proceder à necessária integração do conspecto das funções dos organismos a extinguir que transitam para o LNETI, caminhando para a estrutura departamental do Laboratório prevista no artigo 50.º, n.º 1, alínea b), do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601).
+
+Nestes termos, e ao abrigo do disposto no artigo 48.º, n.º 1, do [Decreto-Lei n.º 548/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/548-1977-276601), de 31 de Dezembro, determino o seguinte:
+
+1 - Até à publicação da sua lei orgânica, os serviços de investigação e desenvolvimento e os serviços de apoio técnico-científico do Laboratório Nacional de Engenharia e Tecnologia Industrial serão organizados de acordo com a seguinte estrutura:
+
+1.1 - Serviços de investigação e desenvolvimento:
+
+1.1.1 - No domínio nuclear:
+
+1.1.1.1 - Departamento de Física;
+
+1.1.1.2 - Departamento de Química;
+
+1.1.1.3 - Departamento de Biologia e Medicina Nuclear;
+
+1.1.1.4 - Departamento de Estudos de Reactores;
+
+1.1.1.5 - Departamento de Protecção e Segurança Radiológica.
+
+1.1.2 - Em outros domínios:
+
+1.1.2.1 - Departamento Central de Estudos e Análises Industriais;
+
+1.1.2.2 - Departamento de Tecnologia das Indústrias Químicas;
+
+1.1.2.3 - Departamento de Tecnologia das Indústrias Alimentares;
+
+1.1.2.4 - Departamento de Metalurgia;
+
+1.1.2.5 - Departamento de Electrónica;
+
+1.1.2.6 - Departamento de Material e Equipamento Eléctrico;
+
+1.1.2.7 - Departamento de Energia;
+
+1.1.2.8 - Departamento de Formação;
+
+1.1.2.9 - Centro de Informação Técnica para a Indústria.
+
+1.2 - Serviços de apoio técnico-científico:
+
+1.2.1 - Gabinete de Planeamento de Engenharia e Tecnologia Industrial;
+
+1.2.2 - Departamento de Pré-Investimento, Engineering e Marketing;
+
+1.2.3 - Direcção dos Serviços Oficinais.
+
+2 - Os restantes departamentos e os centros tecnológicos regionais previstos no projecto de lei orgânica do LNETI serão estruturados à medida que se forem desenvolvendo os meios humanos e financeiros e criadas as infra-estruturas necessárias para o efeito, podendo desde já ser submetidos a despacho ministerial as medidas e os programas de actividade necessários à sua constituição e funcionamento.
+
+3 - A comissão instaladora do LNETI, de acordo com a dimensão em meios humanos e de equipamento de cada um dos departamentos, e tendo em conta as actividades que lhes serão atribuídas, submeterá a despacho ministerial proposta estabelecendo a respectiva estrutura interna, que poderá englobar direcções de serviços e unidades correspondentes a divisões.
+
+4 - Os serviços referidos no n.º 1 serão organizados de modo a integrar em cada departamento as actividades idênticas da Junta de Energia Nuclear, do Instituto Nacional de Investigação Industrial e dos restantes laboratórios do Ministério da Indústria e Tecnologia que transitaram para o LNETI, de forma a obter a maior rentabilidade e eficiência para os meios humanos, de equipamento e financeiros que actualmente existem, ou que lhes vierem a ser atribuídos, dando desde já prioridade às tarefas que se relacionem directamente com os problemas de desenvolvimento e assistência tecnológica às empresas industriais.
+
+5 - O Centro de Informação Técnica para a Indústria coordenará todas as actividades de documentação e informação dos diversos organismos integrados no LNETI, caminhando no sentido de organizar um serviço nacional de informação para a indústria, harmonizando as actividades das bibliotecas e centros de documentação e informação existentes e estruturando a editorial do LNETI.
+
+6 - Os serviços de apoio técnico-administrativo existentes, sem prejuízo de a sua reconversão continuar a ser preparada, devem racionalizar e coordenar as actividades que lhes estão atribuídas, tendo em conta a implementação do LNETI e a extinção da JEN e do INII.
+
+Cada um dos serviços referidos no n.º 1 disporá de um núcleo de apoio técnico-administrativo.
+
+7 - As atribuições da actual Direcção dos Serviços Internacionais da Junta de Energia Nuclear, na parte que compete ao LNETI, e dos núcleos de relações públicas actualmente existentes são desde já integrados na Direcção de Serviços de Relações Exteriores, que será composta pelas Divisões de Relações Internacionais e de Relações Públicas.
+
+8 - Aos serviços referidos no n.º 1 serão afectos os meios e o pessoal adstritos às actividades integradas em cada um deles, sem prejuízo, quando tal se revele conveniente, de decisão diversa da comissão instaladora do LNETI, a quem compete ainda destacar o pessoal necessário ao funcionamento dos núcleos de apoio técnico-administrativo referidos no n.º 6.
+
+9 - Os departamentos, serviços e unidades referidos nos n.os 1, 2.3 e 7 serão coordenados e orientados por um técnico a designar por despacho ministerial, sob proposta da comissão instaladora do LNETI, de entre os técnicos superiores ou mais graduados que em cada um deles sejam colocados, nos termos do n.º 8.
+
+10 - Junto da direcção de cada departamento referido em 1 funcionarão dois conselhos consultivos, um para as matérias de carácter técnico e científico e outro para as matérias de carácter social e laboral, integrados, respectivamente, por representantes do pessoal técnico superior e por representantes das várias categorias de funcionários que neles prestam serviço, de acordo com regulamento interno aprovado pela comissão instaladora do LNETI.
+
+11 - Junto da direcção de cada departamento referido no n.º 1 poderão ainda ser constituídas comissões consultivas, integradas por representantes de sectores de actividade que se relacionem com as atribuições do departamento, sendo a sua forma de selecção e as normas de funcionamento definidas por regulamento interno a aprovar pela comissão instaladora do LNETI.
+
+12 - O funcionamento dos serviços de investigação e desenvolvimento e dos serviços de apoio técnico-científico será baseado em projectos de actividade próprios, englobados no plano anual do LNETI e aprovados pela comissão instaladora.
+
+13 - Nos serviços referidos nos n.os 1 e 7 poderão ser constituídos fundos permanentes de acordo com as normas legais em vigor.
+
+14 - Para além da coordenação global das actividades do LNETI a comissão instaladora promoverá também a coordenação das actividades de departamentos e serviços tendo em vista a formação de futuros institutos.
+
+15 - A orientação desses institutos em criação e a respectiva gestão corrente serão delegadas num dos vogais da comissão instaladora, de acordo com normas constantes dos respectivos despachos de delegação.
+
+16 - O presidente da comissão instaladora pode subdelegar nos vogais desta comissão competências nele delegadas e a referida comissão poderá ainda encarregar vogais da gestão de sectores específicos de actividade.
+
+17 - Esta estrutura tem natureza transitória e não implica a criação de quaisquer lugares de direcção, que serão providos na futura lei orgânica do LNETI.
+
+Ministério da Indústria e Tecnologia, 13 de Fevereiro de 1979. - O Ministro da Indústria e Tecnologia, Álvaro Roque de Pinho Bissaia Barreto.

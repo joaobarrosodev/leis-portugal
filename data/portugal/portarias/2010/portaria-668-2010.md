@@ -1,0 +1,679 @@
+---
+schema_version: '1.0'
+id: pt:dre:343091:por
+title: Portaria n.º 668/2010
+short_title: null
+summary: Reconhece como denominação de origem (DO) a designação «vinho verde»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 668/2010
+official_date: null
+publication_date: '2010-08-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 155/2010, Série I de 2010-08-11
+  number: '155'
+  series: I
+  supplement: null
+  pages: 3341 - 3349
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15500/0334103349.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-08-01'
+version_history:
+  file: portaria-668-2010.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-08-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-27'
+    amending: pt:dre:342111:por
+    amending_title: Portaria n.º 949/2010
+    changes:
+    - Adita Artigo 1.º-A
+    - Adita Artigo 21.º-A
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Altera Artigo 21.º
+    - Altera Anexo I
+  - date: '2014-10-18'
+    amending: pt:dre:58388707:por
+    amending_title: Portaria n.º 216/2014
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 19.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Revoga Artigo 22.º
+  - date: '2015-08-01'
+    amending: pt:dre:67289947:por
+    amending_title: Portaria n.º 152/2015
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 20.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/668/2010/p/cons/20150526/pt/html
+  oj: null
+  dre: '343091'
+  dre_path: /dr/detalhe/portaria/668-2010-343091
+  internal: pt:dre:343091:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/668-2010-343091
+  metadata_url: https://data.dre.pt/eli/port/668/2010/p/cons/20150526/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-67314546
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-67314546
+  retrieved_at: '2026-10-22T11:59:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 93f38fad887c2b021334d9e02cac5e24b125a6eb0aa810794ddbca9f8a0e7cc6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:59:42Z'
+  notes: 4 versão(ões); histórico completo em portaria-668-2010.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Amarante
+- Arouca
+- Baião
+- Braga
+- Castelo de Paiva
+- Cinfães
+- Vinho
+- Indicação Geográfica
+- Denominação de Origem
+- Entidade Certificadora
+- Controlo de Qualidade
+- Controlo Técnico
+- Região Demarcada
+- Etiquetagem
+- Felgueiras
+- Gondomar
+- Lousada
+- MAIA
+- Certificado de Qualidade
+- Marco de Canaveses
+- Matosinhos
+- Mondim de Basto
+- Oliveira de Azeméis
+- Paços de Ferreira
+- Paredes
+- Penafiel
+- VILA do Conde
+- Qualidade do Produto
+- Região Demarcada dos Vinhos Verdes
+- Resende
+- Ribeira de PENA
+- Santo Tirso
+- Comércio
+- Trofa
+- VALE de Cambra
+- Valongo
+- Viana do Castelo
+- Produto Vitivinícola
+- Vinho Verde
+- Vinha
+relationships:
+- type: amended_by
+  target: pt:dre:342111:por
+  label: Adita Artigo 1.º-A; Adita Artigo 21.º-A; Altera Artigo 8.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo
+    17.º; Altera Artigo 21.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/949-2010-342111
+  date: '2010-09-22'
+- type: amended_by
+  target: pt:dre:58388707:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 8.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 19.º;
+    Altera Anexo I; Altera Anexo II; Revoga Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/216-2014-58388707
+  date: '2014-10-17'
+- type: amended_by
+  target: pt:dre:67289947:por
+  label: Altera Artigo 3.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/152-2015-67289947
+  date: '2015-05-26'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/10/1992/02/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10/1992/02/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/212/2004/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/212/2004/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/263/1999/07/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/263/1999/07/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/449/1999/11/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/449/1999/11/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/93/2006/05/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/93/2006/05/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/28/2001/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/28/2001/01/16/p/dre
+article_structure:
+  article_count: 25
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:59:42Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 668/2010
+
+Portaria n.º 668/2010
+
+de 11 de Agosto
+
+O Decreto-Lei n.º 263/99, de 14 de Julho, aprovou os Estatutos da Região Demarcada dos Vinhos Verdes, actualizando diversas disposições relativas à produção e ao comércio da denominação de origem «vinho verde».
+
+Entretanto, pela Portaria n.º 297/2008, de 17 de Abril, foi designada a Comissão de Viticultura da Região dos Vinhos Verdes (CVRVV) como entidade certificadora para exercer funções de controlo da produção e comércio e de certificação dos produtos vitivinícolas com direito à denominação de origem «vinho verde», nos termos do n.º 1 do artigo 10.º do Decreto-Lei n.º 212/2004, de 23 de Agosto.
+
+Tendo presente o actual enquadramento resultante da reorganização institucional do sector vitivinícola, considera-se adequado alterar certas normas técnicas que têm vindo a regular a produção da denominação de origem «vinho verde», aproveitando ainda para introduzir a possibilidade de utilização de outras castas. Por último, e efectivando-se, com a presente portaria, a revogação do Decreto-Lei n.º 10/92, de 3 de Fevereiro, alterado pelos Decretos-Leis n.os 263/99, de 14 de Julho, 449/99, de 4 de Novembro, e 93/2006, de 25 de Maio, e da Portaria n.º 28/2001, de 16 de Janeiro, alterada pela Portaria n.º 291/2009, de 23 de Março, conforme previsto nas alíneas m) e aaa) do artigo 23.º e no n.º 2 do artigo 24.º, ambos do Decreto-Lei n.º 212/2004, de 23 de Agosto, reúnem-se e identificam-se, de modo sistematizado, nos anexos i e ii da presente portaria a área geográfica, bem como as castas susceptíveis de produzir vinho com direito ao uso desta denominação de origem.
+
+Assim:
+
+Nos termos do disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 212/2004, de 23 de Agosto:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+###### Artigo 1.º — Denominação de origem
+
+1 - É reconhecida como denominação de origem (DO) a designação «vinho verde», a qual pode ser usada para a identificação dos vinhos e produtos vitivinícolas que satisfaçam os requisitos estabelecidos na presente portaria e demais legislação aplicável e que se integrem numa das seguintes categorias de produtos:
+
+a) Vinho, branco, tinto e rosado, designado vinho verde;
+
+b) Vinho espumante de qualidade, branco, tinto e rosado, designado 'espumante de qualidade de vinho verde';
+
+c) Vinho espumante branco, tinto e rosado, designado 'espumante de vinho verde';
+
+d) Aguardentes vínica e bagaceira, designadas aguardente vínica de vinho verde e aguardente bagaceira de vinho verde;
+
+e) Vinagre de vinho, branco, tinto e rosado, designado vinagre de vinho verde.
+
+2 - Na rotulagem dos produtos com direito à DO «vinho verde» referidos no número anterior deve figurar a menção tradicional «denominação de origem controlada» ou «DOC».
+
+3 - Na DO «vinho verde» são protegidas as designações das sub-regiões, as quais podem ser utilizadas em complemento das denominações previstas no n.º 1, nos termos do regime aplicável e definido na presente portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2014 - Diário da República n.º 201/2014, Série I de 2014-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/216-2014-58388707), em vigor a partir de 2014-10-18
+
+###### Artigo 1.º-A — Âmbito de protecção
+
+Além da protecção constante do artigo 5.º do Decreto-Lei n.º 212/2004, de 23 de Agosto, e sem prejuízo das marcas já inscritas na entidade certificadora, são proibidas as marcas compostas por palavras ou partes de palavras que sejam susceptíveis de, no espírito das pessoas a que se destinam, ser confundidas com a totalidade ou parte da DO 'vinho verde' e das denominações das respectivas sub-regiões, de forma a evitar que as mesmas se tornem genéricas em conformidade com o regime de protecção e controlo das denominações de origem.
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 949/2010 - Diário da República n.º 185/2010, Série I de 2010-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/949-2010-342111), em vigor a partir de 2010-09-27, produz efeitos a partir de 2010-08-12
+
+###### Artigo 2.º — Delimitação da região
+
+A área geográfica de produção da DO «vinho verde» abrange as seguintes divisões administrativas, conforme representação cartográfica constante no anexo i da presente portaria:
+
+a) Todos os municípios dos distritos de Braga e de Viana do Castelo;
+
+b) Do distrito de Aveiro, os municípios de Arouca, Castelo de Paiva e Vale de Cambra e a freguesia de Ossela, do município de Oliveira de Azeméis;
+
+c) Do distrito do Porto, os municípios de Amarante, Baião, Felgueiras, Gondomar, Lousada, Maia, Marco de Canaveses, Matosinhos, Paços de Ferreira, Paredes, Penafiel, Póvoa do Varzim, Santo Tirso, Trofa, Valongo e Vila do Conde;
+
+d) Do distrito de Vila Real, os municípios de Mondim de Basto e Ribeira de Pena;
+
+e) Do distrito de Viseu, os municípios de Cinfães e Resende, com excepção da freguesia de Barrô.
+
+###### Artigo 3.º — Sub-regiões produtoras
+
+1 - Na área geográfica de produção dos produtos com direito à DO «vinho verde» são reconhecidas as designações das seguintes sub-regiões:
+
+a) Amarante, integrando os municípios de Amarante e Marco de Canaveses;
+
+b) Ave, integrando os municípios de Fafe, Guimarães, Póvoa de Lanhoso, Vieira do Minho, Vila Nova de Famalicão, Vizela, com excepção das freguesias de Santa Eulália e de Santo Adrião de Vizela, municípios da Póvoa de Varzim, Santo Tirso, Trofa e Vila do Conde;
+
+c) Baião, integrando os municípios de Baião e Cinfães, com excepção das freguesias de Souselo e Travanca e município de Resende, com excepção da freguesia de Barrô;
+
+d) Basto, integrando os municípios de Cabeceiras de Basto, Celorico de Basto, Mondim de Basto e Ribeira de Pena;
+
+e) Cávado, integrando os municípios de Amares, Barcelos, Braga, Esposende, Terras de Bouro e Vila Verde;
+
+f) Lima, integrando os municípios de Arcos de Valdevez, Ponte da Barca, Ponte de Lima e Viana do Castelo;
+
+g) Monção e Melgaço, integrando os municípios de Melgaço e Monção;
+
+h) Paiva, integrando o município de Castelo de Paiva, e no município de Cinfães as freguesias de Souselo e Travanca;
+
+i) Sousa, integrando os municípios de Felgueiras, Lousada, Paços de Ferreira, Paredes, Penafiel e no município de Vizela, as freguesias de Santa Eulália e Santo Adrião de Vizela, e no município de Valongo a União das freguesias de campo e sobrado.
+
+2 - Os produtos com indicação de sub-região serão obtidos a partir de uvas produzidas e vinificadas exclusivamente na respectiva sub-região.
+
+3 - Para os produtos com direito à indicação de sub-região, a indicação da casta Alvarinho na rotulagem é exclusivo para a sub-região de Monção e Melgaço.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2015 - Diário da República n.º 101/2015, Série I de 2015-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/152-2015-67289947), em vigor a partir de 2015-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2014 - Diário da República n.º 201/2014, Série I de 2014-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/216-2014-58388707), em vigor a partir de 2014-10-18
+
+###### Artigo 4.º — Solos
+
+1 - As vinhas destinadas à produção dos vinhos e produtos vitivinícolas com DO «vinho verde» devem estar, ou ser instaladas, em solos com as características a seguir indicadas:
+
+Solos litólicos húmicos provenientes de rochas eruptivas (granitos);
+
+Solos metamórficos (xistos e gneisses) ou em depósitos areno-pelíticos;
+
+Solos regossolos no litoral da região;
+
+Solos litossolos quando na sua fronteira interior.
+
+2 - As vinhas destinadas à produção dos vinhos e produtos vitivinícolas com indicação de sub-região devem estar ou ser instaladas em solos com as características a seguir indicadas:
+
+a) Nas sub-regiões de Amarante, Baião, Basto, Monção e Melgaço e Paiva:
+
+Solos litólicos húmicos provenientes de rochas eruptivas (granitos);
+
+Solos metamórficos (xistos e gneisses) ou em depósitos areno-pelíticos;
+
+Solos litossolos;
+
+b) Nas sub-regiões de Ave, Cávado e Sousa:
+
+Solos litólicos húmicos provenientes de rochas eruptivas (granitos);
+
+Solos metamórficos (xistos e gneisses) ou em depósitos areno-pelíticos;
+
+c) Na sub-região de Lima:
+
+Solos litólicos húmicos provenientes de rochas eruptivas (granitos);
+
+Solos metamórficos (xistos e gneisses) ou em depósitos areno-pelíticos;
+
+Solos regossolos.
+
+###### Artigo 5.º — Castas
+
+1 - As castas a utilizar na elaboração dos vinhos e produtos vitivinícolas com DO «vinho verde» são as constantes do anexo ii da presente portaria, que dela faz parte integrante.
+
+2 - Os vinhos e produtos vitivinícolas com indicação de sub-região devem ser exclusivamente obtidos a partir das castas enumeradas no anexo ii para a respectiva sub-região.
+
+###### Artigo 6.º — Práticas culturais
+
+1 - As práticas culturais utilizadas nas vinhas que se destinam à produção de vinhos e produtos vitivinícolas abrangidos pela presente portaria devem ser as tradicionais na região ou as recomendadas pela entidade certificadora, tendo em vista a obtenção de produtos de qualidade.
+
+2 - As vinhas destinadas à elaboração dos vinhos e produtos vitivinícolas com direito à DO «vinho verde» devem ser as tradicionais, contínuas ou de bordadura, e conduzidas em forma média ou alta.
+
+###### Artigo 7.º — Inscrição e caracterização das vinhas
+
+1 - A pedido dos interessados, as parcelas de vinhas destinadas à produção dos vinhos e produtos vitivinícolas abrangidos pela presente portaria devem ser inscritas na entidade certificadora, que verifica se as mesmas satisfazem os necessários requisitos e procede ao respectivo cadastro, efectuando no decurso do ano as verificações que entenda necessárias.
+
+2 - Sempre que se verificar qualquer alteração na titularidade ou na constituição das parcelas das vinhas cadastradas e aprovadas, deve este facto ser comunicado à entidade certificadora pelos respectivos viticultores, caso contrário as uvas das respectivas vinhas não podem ser utilizadas na elaboração dos vinhos e produtos vitivinícolas com DO «vinho verde».
+
+###### Artigo 8.º — Rendimento por hectare
+
+1 - O rendimento máximo por hectare das vinhas destinadas à produção dos vinhos e produtos vitivinícolas com direito à DO 'vinho verde' é fixado em 10 666 kg, exceto nos casos em que essas vinhas cumpram requisitos de produtividade e qualidade, a definir pelo conselho geral, cujo rendimento máximo por hectare é fixado em:
+
+a) 13.500 kg para as vinhas da casta Alvarinho;
+
+b) 15.000 kg para as restantes vinhas.
+
+2 - Para as vinhas que possuam cadastro vitícola atualizado há menos de cinco anos o rendimento máximo por hectare é fixado em 7.500 kg.
+
+3 - O rendimento máximo fixado nos termos das alíneas anteriores pode ser alterado, por deliberação do conselho geral da Comissão de Viticultura da Região dos Vinhos Verdes, desde que não ultrapasse o limite mencionado no n.º 1, para as vinhas que cumpram requisitos de produtividade e qualidade a definir pelo referido conselho geral.
+
+4 - A entidade certificadora pode, dentro das suas competências e através de vistoria, controlar os rendimentos estimados de cada vinha, estabelecendo, mediante fundamentação técnica, limites inferiores aos previstos no n.º 1.
+
+5 - Quando forem excedidos os rendimentos por hectare mencionados nos números anteriores não há lugar à interdição de utilizar a DO «vinho verde» para as quantidades produzidas até aos limites estabelecidos, podendo o excedente ser destinado à produção de vinhos e produtos vitivinícolas com ou sem indicação geográfica, desde que apresentem as características definidas para o produto em questão.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2015 - Diário da República n.º 101/2015, Série I de 2015-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/152-2015-67289947), em vigor a partir de 2015-08-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2014 - Diário da República n.º 201/2014, Série I de 2014-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/216-2014-58388707), em vigor a partir de 2014-10-18
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 949/2010 - Diário da República n.º 185/2010, Série I de 2010-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/949-2010-342111), em vigor a partir de 2010-09-27, produz efeitos a partir de 2010-08-12
+
+###### Artigo 9.º — Vinificação
+
+1 - Os métodos e práticas de vinificação devem ser os mais adequados à obtenção de vinhos de qualidade.
+
+2 - Sem prejuízo do disposto no número seguinte, só é permitida a elaboração de vinho verde branco com uvas brancas, de vinho verde rosado com uvas tintas e de vinho verde tinto com uvas tintas ou tintas e brancas, desde que estas últimas não ultrapassem 15 % do total, devendo, neste caso, o vinho em causa ostentar o designativo «palhete» ou «palheto».
+
+3 - É permitida a elaboração de vinho branco a partir de uvas tintas, tendo em vista a obtenção de vinho base para a elaboração de vinhos espumantes com direito à DO «vinho verde».
+
+4 -  O rendimento em mosto que resulta da separação dos bagaços não pode ser superior a 75 l por 100 kg de uvas, exceto para os mostos destinados à produção dos vinhos com direito à utilização na rotulagem da casta Alvarinho, cujo rendimento máximo é fixado em 65 l por 100 kg de uvas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2015 - Diário da República n.º 101/2015, Série I de 2015-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/152-2015-67289947), em vigor a partir de 2015-08-01
+
+###### Artigo 10.º — Destilação
+
+1 - A destilação dos vinhos destinados a aguardente vínica com direito à DO «vinho verde» não deve ser efectuada para além do mês de Março imediato à vinificação.
+
+2 - A destilação dos bagaços destinados a aguardente bagaceira com direito à DO «vinho verde» não deve ser efectuada para além do mês de Janeiro imediato à colheita.
+
+###### Artigo 11.º — Práticas enológicas
+
+1 - Na elaboração dos vinhos e produtos vitivinícolas com direito à DO «vinhos verdes» devem ser seguidas as práticas e tratamentos enológicos definidos na legislação aplicável sobre a matéria.
+
+2 - A entidade certificadora pode definir regras específicas relativas às condições de aplicação e local onde são realizadas as práticas e tratamentos enológicos, nomeadamente a dessulfitação e fermentação de mostos amuados que, todavia, no caso de produtos com indicação de sub-região, deve ocorrer dentro da área geográfica de produção da DO «vinho verde».
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 949/2010 - Diário da República n.º 185/2010, Série I de 2010-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/949-2010-342111), em vigor a partir de 2010-09-27, produz efeitos a partir de 2010-08-12
+
+###### Artigo 12.º — Título alcoométrico volúmico natural mínimo
+
+1 - Os mostos destinados à elaboração de vinhos com DO 'vinho verde' devem possuir um título alcoométrico volúmico natural mínimo de 8,5 % vol., com exceção dos mostos de vinho com indicação da casta Alvarinho, cujo mínimo deve ser de 11 % vol.
+
+2 - Os mostos destinados à elaboração de vinhos com indicação de sub-região devem possuir um título alcoométrico volúmico natural mínimo de 9 % vol., com excepção dos mostos de vinho com indicação da casta Alvarinho, cujo mínimo deve ser de 11 % vol.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2015 - Diário da República n.º 101/2015, Série I de 2015-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/152-2015-67289947), em vigor a partir de 2015-08-01
+
+###### Artigo 13.º — Características dos vinhos
+
+1 - Sem prejuízo do disposto no n.º 2 e na legislação em vigor, o vinho com direito a DO «vinho verde» deve apresentar as seguintes características:
+
+a) Título alcoométrico volúmico total, igual ou superior a 8,5 % vol. e máximo igual ou inferior a 14 % vol. para os vinhos brancos, tintos e rosados;
+
+b) Título alcoométrico volúmico adquirido mínimo de 8 % vol. e máximo de 11,5 % vol., podendo exceder este limite máximo os seguintes vinhos:
+
+i) Com indicação de uma casta;
+
+ii) Com indicação de sub-região;
+
+iii) Que usufruam dos designativos de qualidade «Escolha» ou «Grande escolha», «Superior», «Colheita selecionada», e «Reserva»; «Garrafeira», «Reserva Especial» e «Grande Reserva»;
+
+c) Título alcoométrico volúmico adquirido mínimo para os vinhos com indicação de sub-região de 9 % vol. e nos vinhos com direito à utilização da casta Alvarinho de 11,5 % vol.;
+
+d) Acidez fixa, expressa em ácido tartárico, igual ou superior a 4,5 g/l;
+
+e) Sobrepressão em dióxido de carbono máxima de 1 bar, a 20ºC, ou concentração inferior ou igual a 3 g/l.
+
+2 - O vinho com direito a DO «vinho verde» que utilize a menção «Vindima tardia» deve ainda apresentar as seguintes características:
+
+a) Produzido a partir de uvas com sobrematuração;
+
+b) Teor em açúcar residual mínimo de 45 g/l;
+
+c) Título alcoométrico volúmico natural mínimo de 15 % vol;
+
+d) Título alcoométrico volúmico adquirido máximo de 14 % vol..
+
+3 - Do ponto de vista organoléptico, os vinhos objecto da presente portaria devem satisfazer os requisitos apropriados quanto à cor, limpidez, aroma e sabor, nos termos a definir pela entidade certificadora.
+
+4 - Os vinhos que após a certificação e engarrafamento apresentem depósito só podem ser comercializados se na rotulagem for utilizada a expressão «Sujeito a depósito» ou menção equivalente.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2014 - Diário da República n.º 201/2014, Série I de 2014-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/216-2014-58388707), em vigor a partir de 2014-10-18
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 949/2010 - Diário da República n.º 185/2010, Série I de 2010-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/949-2010-342111), em vigor a partir de 2010-09-27, produz efeitos a partir de 2010-08-12
+
+###### Artigo 14.º — Características dos espumantes
+
+O vinho espumante pode beneficiar da DO «vinho verde», desde que:
+
+a) O vinho base cumpra os requisitos legalmente estabelecidos e satisfaça as exigências previstas para os vinhos com direito à DO «vinho verde»;
+
+b) Tenha sido obtido, na sua preparação, pelo método clássico, de fermentação em garrafa ou pelo método de fermentação em cuba fechada;
+
+c)(Revogada).
+
+d) Possua um estágio mínimo de nove meses nas instalações do preparador, após a data do engarrafamento, para poder ser comercializado;
+
+e) O título alcoométrico volúmico mínimo adquirido seja igual ou superior a 10 % vol.;
+
+f) O título alcoométrico volúmico total seja igual ou inferior a 15 % vol..
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2014 - Diário da República n.º 201/2014, Série I de 2014-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/216-2014-58388707), em vigor a partir de 2014-10-18
+
+###### Artigo 15.º — Características das aguardentes
+
+1 - A aguardente vínica de vinho verde e a aguardente bagaceira de vinho verde devem observar as disposições legais em vigor e satisfazer os requisitos que venham a ser definidos pela entidade certificadora quanto à cor, limpidez, aroma e sabor.
+
+2 - A aguardente vínica de vinho verde deve ter um título alcoométrico volúmico mínimo igual ou superior a 37,5 % vol.
+
+3 - A aguardente bagaceira de vinho verde deve ter um título alcoométrico volúmico mínimo igual ou superior a 40 % vol.
+
+###### Artigo 16.º — Características dos vinagres
+
+1 - O vinagre pode beneficiar da DO «vinho verde», desde que seja obtido a partir de vinhos aptos a DO «vinho verde» e obedeça às normas nacionais e comunitárias em vigor, bem como às disposições estabelecidas sobre a matéria pela entidade certificadora.
+
+2 - Na rotulagem dos vinagres com direito à DO «vinho verde» admite-se uma tolerância de 0,5º para mais ou para menos, na referência relativa ao teor de acidez total.
+
+###### Artigo 17.º — Inscrição
+
+Os produtores e comerciantes dos vinhos e dos produtos vitivinícolas com direito à DO 'vinho verde', com excepção dos retalhistas ou outros agentes económicos que só comercializem produtos já embalados, são obrigados a efectuar a sua inscrição, bem como das respectivas instalações, na entidade certificadora, em registo apropriado.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 949/2010 - Diário da República n.º 185/2010, Série I de 2010-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/949-2010-342111), em vigor a partir de 2010-09-27, produz efeitos a partir de 2010-08-12
+
+###### Artigo 18.º — Instalações de vinificação, destilação, armazenagem e pré-embalagem
+
+1 - Os vinhos a que se refere esta portaria devem ser elaborados dentro da área geográfica de produção da DO «vinho verde» em adegas que observem as disposições legais aplicáveis e se encontrem inscritas na entidade certificadora.
+
+2 - As instalações de vinificação são exclusivas para os produtos vitivinícolas oriundos da área geográfica de produção da DO «vinho verde», tendo de estar localizadas dentro da respectiva área.
+
+3 - As instalações de destilação das aguardentes vínica e da aguardente bagaceira serão distintas das de outros produtos, devendo estar localizadas dentro da respectiva área geográfica de produção da DO «vinho verde» e o equipamento e os processos utilizados na destilação serem os mais adequados à obtenção de produtos destinados a produzir aguardente vínica e aguardente bagaceira com características tradicionais.
+
+4 - As instalações de fabrico e preparação do vinagre de vinho verde serão distintas das dos outros produtos e exclusivas dos da área geográfica de produção da DO «vinho verde», tendo de estar localizadas dentro da respectiva área ou nos municípios do Porto e Vila Nova de Gaia.
+
+5 - No caso das instalações de armazenagem e de pré-embalagem estarem localizadas fora da área geográfica de produção da DO «vinho verde», os custos inerentes ao controlo e fiscalização dos produtos com direito à DO serão suportados pelo agente económico em causa.
+
+6 - Quando os produtos abrangidos pela presente portaria forem sujeitos a práticas e tratamentos enológicos fora da área geográfica de produção da DO «vinho verde», nos termos do n.º 2 do artigo 11.º, o agente económico suporta o custo das acções de controlo obrigatório de todos os trânsitos a efectuar.
+
+###### Artigo 19.º — Registos, circulação e comercialização
+
+1 - Os vinhos e produtos vitivinícolas aptos à DO «vinho verde» só podem ser postos em circulação e comercializados a granel desde que:
+
+a) Sejam acompanhados da necessária documentação oficial, onde conste essa mesma aptidão;
+
+b) Sejam cumpridas as restantes exigências estabelecidas pela legislação em vigor ou regulamento interno da entidade certificadora.
+
+2 - Sem prejuízo do estabelecido na legislação em vigor, os produtos a que se refere a presente portaria só podem ser postos em circulação e comercializados desde que:
+
+a) Nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação do produto; e ou
+
+b) Sejam acompanhados da necessária documentação oficial, da qual conste a sua denominação de origem; e
+
+c) Sejam cumpridas as restantes exigências estabelecidas pela legislação em vigor ou regulamento interno da entidade certificadora.
+
+3 - Sem prejuízo de poder ser autorizado outro tipo de vasilhame, a aprovar com decisão favorável de quatro quintos dos votos dos membros do conselho geral, os vinhos e aguardentes com direito à DO «vinho verde» só podem ser introduzidos no consumo em vasilhame de vidro, munido de dispositivo de fecho irrecuperável, rotulado e com a certificação do produto documentada através do selo de garantia.
+
+4 - A aguardente vínica e a aguardente bagaceira só podem ser comercializadas e introduzidas no consumo em vasilhame com capacidade igual ou inferior a 1 l, devidamente rotuladas e com selo de garantia.
+
+5 - O vinagre de vinho verde só pode ser introduzido no consumo em vasilhame com volume igual ou inferior a 1 l.
+
+6 - O limite do volume nominal do vasilhame é fixado por regulamento interno da entidade certificadora, a aprovar com decisão favorável de quatro quintos dos votos dos membros do conselho geral, não podendo este volume ser superior a 5 l nem aos limites estabelecidos nos n.os 4 e 5 para os respectivos produtos.
+
+7 - A comercialização dos produtos vitivinícolas com indicação de sub-região, indicação de casta ou designativos de qualidade só pode ser efectuada em garrafa de vidro com capacidade até 75 cl ou múltiplos, excepto no que respeita às aguardentes, cuja capacidade máxima é de 70 cl.
+
+8 - Os produtos com direito à DO «Vinho Verde» só podem ser comercializados após a sua certificação pela entidade certificadora.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2014 - Diário da República n.º 201/2014, Série I de 2014-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/216-2014-58388707), em vigor a partir de 2014-10-18
+
+###### Artigo 20.º — Rotulagem
+
+1 - A rotulagem a utilizar para os vinhos e produtos vitivinícolas com direito à DO «vinho verde» deve respeitar as normas legais aplicáveis e as definidas em regulamento interno da entidade certificadora, a aprovar em conselho geral.
+
+2 - A rotulagem deve ser apresentada à entidade certificadora, previamente à sua utilização, tendo em vista a sua aprovação.
+
+3 - As castas que podem ser mencionadas com destaque na rotulagem são as que vierem a ser definidas pela entidade certificadora em regulamento interno.
+
+4 - A indicação de sub-região na rotulagem deve ser acompanhada da indicação do respectivo ano de colheita e pode ou não ser acompanhada da expressão «sub-região».
+
+5 - Para a indicação na rotulagem apenas da casta Alvarinho, o produto deve ser obtido exclusivamente a partir desta casta.
+
+6 - A casta Alvarinho quando indicada na rotulagem conjuntamente com outras castas, deve representar uma percentagem igual ou superior a 30 % no produto obtido.
+
+7 - Por despacho do Conselho Diretivo do IVV, I. P., mediante proposta da CVRVV, pode ser reconhecida uma menção complementar de qualidade, reservada apenas para os produtos obtidos a partir da casta Alvarinho da sub-região de Monção e Melgaço.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2015 - Diário da República n.º 101/2015, Série I de 2015-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/152-2015-67289947), em vigor a partir de 2015-08-01
+
+###### Artigo 21.º — Controlo
+
+1 - Compete à Comissão de Viticultura da Região dos Vinhos Verdes as funções de controlo da produção e comércio e de certificação dos vinhos e produtos vitivinícolas com direito à DO 'vinho verde', nos termos do n.º 1º da Portaria n.º 297/2008, de 17 de Abril.
+
+2 - Sem prejuízo das competências atribuídas a outras entidades, à entidade certificadora compete efectuar o controlo e certificação de produtos vitivinícolas com direito à DO 'vinho verde', emitindo e autenticando a respectiva documentação.
+
+3 - É da competência da entidade certificadora:
+
+a) Assegurar um controlo eficaz das existências de produtos vitivinícolas de cada um dos agentes económicos da sua área de actuação, nomeadamente em sistema de contas correntes, recepcionando e utilizando para o efeito as declarações de existências, de colheitas e de produção, os documentos de acompanhamento e os registos vitivinícolas;
+
+b) Demandar judicialmente ou participar dos autores das infracções à disciplina da DO 'vinho verde' e demais infracções económicas ou tributárias, podendo proceder à selagem dos produtos ou à apreensão de documentos e outros objectos que constituam resultado ou instrumento de prática de infracções detectadas.
+
+4 - Compete ainda à entidade certificadora:
+
+a) Relativamente aos agentes económicos nela inscritos, exercer o controlo da produção, circulação e comércio das uvas e dos produtos do sector vitivinícola que se encontrem ou se destinem à sua área geográfica de actuação, podendo realizar vistorias e colher amostras nas instalações de vinificação, destilação, armazenagem, engarrafamento, distribuição, venda por grosso ou a retalho, e ainda no vasilhame de transporte, e solicitar-lhes toda a documentação e informações necessárias para verificar o cumprimento das regras específicas do sector vitivinícola;
+
+b) Relativamente a outros agentes económicos, exercer as funções referidas na alínea anterior, em conjugação ou por delegação das autoridades competentes neste domínio, podendo, neste caso, levantar autos de todas as irregularidades ou infracções detectadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 949/2010 - Diário da República n.º 185/2010, Série I de 2010-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/949-2010-342111), em vigor a partir de 2010-09-27, produz efeitos a partir de 2010-08-12
+
+###### Artigo 21.º-A — Sancionamento das infracções
+
+Em caso de infracção ao disposto no presente regulamento, demais legislação aplicável, regulamentos internos ou outras directivas dimanadas pela entidade certificadora, pode esta entidade proceder disciplinarmente em relação aos agentes económicos infractores nela inscritos de acordo com o respectivo regulamento disciplinar, sem prejuízo do direito de participação e cooperação que lhe assiste relativamente às autoridades competentes, caso a infracção se configure também como crime ou contra-ordenação.
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 949/2010 - Diário da República n.º 185/2010, Série I de 2010-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/949-2010-342111), em vigor a partir de 2010-09-27, produz efeitos a partir de 2010-08-12
+
+###### Artigo 22.º — Disposições transitórias
+
+Os rótulos aprovados pela entidade certificadora com designações e menções impressas que deixem de estar em vigor na sequência da entrada em vigor da presente portaria podem ser utilizados até ao esgotamento das suas existências.
+
+> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 216/2014 - Diário da República n.º 201/2014, Série I de 2014-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/216-2014-58388707), em vigor a partir de 2014-10-18
+
+###### Artigo 23.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação, ficando revogados nos termos das alíneas m) e aaa) do artigo 23.º e do n.º 2 do artigo 24.º do Decreto-Lei n.º 212/2004, de 23 de Agosto, o Decreto-Lei n.º 10/92, de 3 de Fevereiro, alterado pelos Decretos-Leis n.os 263/99, de 14 de Julho, 449/99, de 4 de Novembro, e 93/2006, de 25 de Maio, e da Portaria n.º 28/2001, de 16 de Janeiro, alterada pela Portaria n.º 291/2009, de 23 de Março.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado das Pescas e Agricultura, em 27 de Julho de 2010.
+
+## Anexo I — (a que se refere o artigo 2.º)
+
+Área geográfica de produção da DO «vinho verde»
+
+(ver documento original)
+
+Área geográfica de produção da denominação de origem «vinho verde»
+
+(ver documento original)
+
+Área geográfica de produção com indicação de sub-região
+
+Sub-região de Amarante
+
+(ver documento original)
+
+Sub-região de Ave
+
+(ver documento original)
+
+Sub-região de Baião
+
+(ver documento original)
+
+Sub-região de Basto
+
+(ver documento original)
+
+Sub-região de Cávado
+
+(ver documento original)
+
+Sub-região de Lima
+
+(ver documento original)
+
+Sub-região de Monção e Melgaço
+
+(ver documento original)
+
+Sub-região de Paiva
+
+(ver documento original)
+
+Sub-região de Sousa
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 216/2014 - Diário da República n.º 201/2014, Série I de 2014-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/216-2014-58388707), em vigor a partir de 2014-10-18
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 949/2010 - Diário da República n.º 185/2010, Série I de 2010-09-22](https://diariodarepublica.pt/dr/detalhe/portaria/949-2010-342111), em vigor a partir de 2010-09-27, produz efeitos a partir de 2010-08-12
+
+## Anexo II — (a que se refere o artigo 5.º)
+
+Castas aptas à produção de vinhos e produtos vitivinícolas com direito à DO «vinho verde»
+
+(ver documento original)
+
+Castas para a produção de vinho e produtos vitivinícolas com indicação de sub-região
+
+Sub-região de Amarante
+
+(ver documento original)
+
+Sub-região do Ave
+
+(ver documento original)
+
+Sub-região de Baião
+
+(ver documento original)
+
+Sub-região de Basto
+
+(ver documento original)
+
+Sub-região do Cávado
+
+(ver documento original)
+
+Sub-região do Lima
+
+(ver documento original)
+
+Sub-região de Monção e Melgaço
+
+(ver documento original)
+
+Sub-região do Paiva
+
+(ver documento original)
+
+Sub-região do Sousa
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 216/2014 - Diário da República n.º 201/2014, Série I de 2014-10-17](https://diariodarepublica.pt/dr/detalhe/portaria/216-2014-58388707), em vigor a partir de 2014-10-18

@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:230957:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/1996-1025948886",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/164-1996-230957",
+ "source_lastmod": "2026-07-31",
+ "versions": [
+  {
+   "date": "1996-10-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1152156075",
+    "1025960175"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:516904:por",
+     "title": "Declaração de Rectificação n.º 16-J/96",
+     "published": "1996-11-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/16-j-1996-516904",
+     "date": "1996-11-30"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "1152156075": {
+   "fragment_id": "1025959875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "1996-11-30",
+   "changed_by": [],
+   "markdown": "O Programa do XIII Governo Constitucional, na parte respeitante ao planeamento e administração do território, estabelece como princípio balizador da sua acção uma nova concepção do desenvolvimento do território, apostando na regionalização, na descentralização, na dignificação do poder local e na participação dos cidadãos.\n\nPara a concretização dessa linha orientadora importa assegurar que as decisões sejam tomadas a um nível próximo dos cidadãos por elas directamente afectados, devendo ser a administração central a fazê-lo quando as matérias exijam uma unidade de concepção e aplicação e impliquem uma visão global do território, devendo ser tomadas descentralizadamente as que exigem um conhecimento directo da realidade local.\n\nNa base do objectivo da descentralização encontra-se o reforço do poder local e uma nova partilha de responsabilidades entre o Estado e as autarquias, o que impõe a revisão da distribuição de competências entre a administração central e a autárquica.\n\nNeste quadro, a par da Lei Quadro da Regionalização e da Lei de Criação das Regiões Administrativas deverá ser estudada e elaborada nova legislação quanto à distribuição de atribuições e competências, apoiada num novo regime de finanças locais, pois o processo de regionalização tem de ser acompanhado de acções de consolidação e alargamento das áreas de intervenção dos municípios.\n\nA transferência gradual de competências para as autarquias locais será acompanhada dos meios financeiros necessários à sua prossecução, devendo, desde logo, ser identificadas as novas competências a transferir, a sua calendarização e os recursos necessários.\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\n1 - Criar uma comissão interministerial para o estudo do enquadramento jurídico do processo de transferência de competências para as autarquias locais.\n\n2 - A comissão terá a seguinte composição:\n\na) O Alto-Comissário da Comissão de Apoio à Reestruturação do Equipamento e da Administração do Território, que coordenará;\n\nb) Um representante da Presidência do Conselho de Ministros;\n\nc) Um representante do Ministro da República para a Região Autónoma dos Açores e um representante do respectivo Governo Regional;\n\nd) Um representante do Ministro da República para a Região Autónoma da Madeira e um representante do respectivo Governo Regional;\n\ne) Um representante do Ministro da Administração Interna;\n\nf) Um representante do Ministro do Equipamento, do Planeamento e da Administração do Território;\n\ng) Um representante do Ministro da Economia;\n\nh) Um representante do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas;\n\ni) Um representante do Ministro da Educação;\n\nj) Um representante do Ministro da Saúde;\n\nl) Um representante do Ministro para a Qualificação e o Emprego;\n\nm) Um representante do Ministro da Solidariedade e Segurança Social;\n\nn) Um representante do Ministro do Ambiente;\n\no) Um representante do Ministro da Cultura;\n\np) Um representante do Ministro Adjunto.\n\nq) Um representante do Secretário de Estado da Administração Local e Ordenamento do Território;\n\nr) O director-geral da Administração Autárquica.\n\n3 - A comissão assegurará que os trabalhos sejam acompanhados pela Associação Nacional de Municípios Portugueses e pela Associação Nacional de Freguesias, bem como a discussão com estas do plano de transferência de competências para as autarquias locais.\n\n4 - É constituído um grupo de trabalho permanente, composto pelo Alto-Comissário da Comissão de Apoio à Reestruturação do Equipamento e da Administração do Território, pelo representante da Presidência do Conselho de Ministros, pelo representante do Secretário de Estado da Administração Local e Ordenamento do Território e pelo director-geral da Administração Autárquica.\n\n5 - Incumbe ao grupo de trabalho permanente promover reuniões com representantes dos diversos ministros e com as associações representativas das autarquias locais, sobre os diversos domínios de competências a transferir.\n\n6 - O coordenador da comissão poderá convidar entidades terceiras a pronunciar-se sobre os trabalhos desenvolvidos.\n\n7 - O grupo de trabalho deverá apresentar um relatório acerca do estado dos trabalhos até 31 de Dezembro de 1996 e o relatório final respeitante ao estudo do enquadramento jurídico do processo de transferência de competências até 31 de Março de 1997.\n\n8 - O Secretário de Estado da Administração Local e Ordenamento do Território acompanhará os trabalhos da comissão e prestará, através do seu Gabinete, apoio logístico e administrativo ao seu funcionamento."
+  },
+  "1025960175": {
+   "fragment_id": "1025960075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 12 de Setembro de 1996. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

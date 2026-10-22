@@ -1,0 +1,766 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:540784:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2006-108001419",
+ "dre_path": "/dr/detalhe/lei/47-2006-540784",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108001086",
+    "108001087",
+    "108001088",
+    "108001089",
+    "108001090",
+    "108001091",
+    "108001092",
+    "108001093",
+    "108001094",
+    "108001095",
+    "108001096",
+    "108001097",
+    "108001098",
+    "108001099",
+    "108001100",
+    "108001101",
+    "108001102",
+    "108001103",
+    "108001104",
+    "108001105",
+    "108001106",
+    "108001107",
+    "108001108",
+    "108001109",
+    "108001110",
+    "108001111",
+    "108001112",
+    "108001113",
+    "108001114",
+    "108001115",
+    "108001116",
+    "108001117",
+    "108001118",
+    "108001119",
+    "108001120",
+    "108001121",
+    "108001122",
+    "108001123",
+    "108001124",
+    "108001125",
+    "108001126",
+    "108001127",
+    "108001128",
+    "108001129",
+    "108001130",
+    "108001131",
+    "108001132",
+    "108001133",
+    "108001134",
+    "108001135",
+    "108001136"
+   ]
+  },
+  {
+   "date": "2017-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108001408:por",
+     "title": "Lei n.º 72/2017",
+     "published": "2017-08-16",
+     "dre_path": "/dr/detalhe/lei/72-2017-108001408"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "108001086",
+    "108001087",
+    "108001088",
+    "108001138",
+    "108001090",
+    "108001091",
+    "108001092",
+    "108001093",
+    "108001094",
+    "108001095",
+    "108001096",
+    "108001097",
+    "108001098",
+    "108001099",
+    "108001100",
+    "108001101",
+    "108001102",
+    "108001103",
+    "108001104",
+    "108001105",
+    "108001106",
+    "108001107",
+    "108001108",
+    "108001109",
+    "108001110",
+    "108001111",
+    "108001112",
+    "108001113",
+    "108001114",
+    "108001115",
+    "108001116",
+    "108001117",
+    "108001118",
+    "108001119",
+    "108001120",
+    "108001121",
+    "108001122",
+    "108001123",
+    "108001124",
+    "108001125",
+    "108001126",
+    "108001127",
+    "108001128",
+    "108001129",
+    "108001130",
+    "108001131",
+    "108001132",
+    "108001133",
+    "108001134",
+    "108001135",
+    "108001136",
+    "108001137"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "108001086",
+    "108001087",
+    "108001088",
+    "124487606",
+    "108001090",
+    "108001091",
+    "124487607",
+    "108001093",
+    "108001094",
+    "108001095",
+    "108001096",
+    "108001097",
+    "108001098",
+    "108001099",
+    "108001100",
+    "108001101",
+    "108001102",
+    "108001103",
+    "108001104",
+    "108001105",
+    "108001106",
+    "108001107",
+    "108001108",
+    "108001109",
+    "108001110",
+    "108001111",
+    "108001112",
+    "108001113",
+    "108001114",
+    "108001115",
+    "108001116",
+    "108001117",
+    "108001118",
+    "108001119",
+    "108001120",
+    "108001121",
+    "108001122",
+    "108001123",
+    "124487608",
+    "108001125",
+    "108001126",
+    "155874176",
+    "155874177",
+    "108001129",
+    "108001130",
+    "108001131",
+    "108001132",
+    "108001133",
+    "108001134",
+    "108001135",
+    "108001136",
+    "108001137"
+   ]
+  },
+  {
+   "date": "2025-10-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:938923390:por",
+     "title": "Decreto-Lei n.º 111/2025",
+     "published": "2025-10-09",
+     "dre_path": "/dr/detalhe/decreto-lei/111-2025-938923390"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "108001086",
+    "108001087",
+    "108001088",
+    "124487606",
+    "108001090",
+    "108001091",
+    "938924532",
+    "108001093",
+    "108001094",
+    "108001095",
+    "108001096",
+    "108001097",
+    "108001098",
+    "108001099",
+    "108001100",
+    "108001101",
+    "108001102",
+    "108001103",
+    "108001104",
+    "108001105",
+    "108001106",
+    "108001107",
+    "108001108",
+    "108001109",
+    "108001110",
+    "108001111",
+    "108001112",
+    "108001113",
+    "108001114",
+    "108001115",
+    "108001116",
+    "108001117",
+    "108001118",
+    "108001119",
+    "108001120",
+    "108001121",
+    "108001122",
+    "108001123",
+    "124487608",
+    "108001125",
+    "108001126",
+    "155874176",
+    "155874177",
+    "108001129",
+    "108001130",
+    "108001131",
+    "108001132",
+    "108001133",
+    "108001134",
+    "108001135",
+    "108001136",
+    "108001137"
+   ]
+  }
+ ],
+ "fragments": {
+  "108001086": {
+   "fragment_id": "108001420",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 47/2006\n\nde 28 de Agosto\n\nDefine o regime de avaliação, certificação e adopção dos manuais escolares do ensino básico e do ensino secundário, bem como os princípios e objectivos a que deve obedecer o apoio sócio-educativo relativamente à aquisição e ao empréstimo de manuais escolares.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "108001087": {
+   "fragment_id": "108001421",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "108001088": {
+   "fragment_id": "108001422",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei define o regime de avaliação, certificação e adopção aplicável aos manuais escolares e outros recursos didáctico-pedagógicos do ensino básico e do ensino secundário, bem como os princípios e objectivos a que deve obedecer o apoio sócio-educativo relativamente à aquisição e ao empréstimo de manuais escolares."
+  },
+  "108001089": {
+   "fragment_id": "108001423",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios orientadores\n\n1 - O regime de avaliação, certificação e adopção dos manuais escolares assenta nos seguintes princípios orientadores:\n\na) Liberdade e autonomia científica e pedagógica na concepção e na elaboração dos manuais escolares;\n\nb) Liberdade e autonomia dos agentes educativos, mormente os docentes, na escolha e na utilização dos manuais escolares no contexto do projecto educativo da escola ou do agrupamento de escolas;\n\nc) Liberdade de mercado e de concorrência na produção, edição e distribuição de manuais escolares;\n\nd) Qualidade científico-pedagógica dos manuais escolares e sua conformidade com os objectivos e conteúdos do currículo nacional e dos programas e orientações curriculares;\n\ne) Equidade e igualdade de oportunidades no acesso aos recursos didáctico-pedagógicos.\n\n2 - O papel do Estado na prossecução dos princípios definidos no número anterior concretiza-se nas seguintes linhas de actuação:\n\na) Definição do regime de adopção formal dos manuais escolares pelas escolas e pelos agrupamentos de escolas;\n\nb) Definição do regime de avaliação e certificação dos manuais escolares para efeitos da sua adopção formal pelas escolas e pelos agrupamentos de escolas;\n\nc) Promoção da qualidade científico-pedagógica dos manuais escolares e dos demais recursos didáctico-pedagógicos;\n\nd) Promoção da estabilidade dos programas de estudos e dos instrumentos didácticos correspondentes;\n\ne) Apoio à aquisição e à utilização dos manuais escolares;\n\nf) Formação dos docentes e responsáveis educativos em avaliação de manuais escolares.\n\n> Nota: [Artigo 4.º, Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109) As alterações operadas entram em vigor com o Orçamento do Estado subsequente à sua publicação."
+  },
+  "108001090": {
+   "fragment_id": "108001424",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos do disposto na presente lei, entende-se por:\n\na) «Programa» o conjunto de orientações curriculares, sujeitas a aprovação nos termos da lei, específicas para uma dada disciplina ou área curricular disciplinar, definidoras de um percurso para alcançar um conjunto de aprendizagens e de competências definidas no currículo nacional do ensino básico ou no currículo nacional do ensino secundário;\n\nb) «Manual escolar» o recurso didáctico-pedagógico relevante, ainda que não exclusivo, do processo de ensino e aprendizagem, concebido por ano ou ciclo, de apoio ao trabalho autónomo do aluno que visa contribuir para o desenvolvimento das competências e das aprendizagens definidas no currículo nacional para o ensino básico e para o ensino secundário, apresentando informação correspondente aos conteúdos nucleares dos programas em vigor, bem como propostas de actividades didácticas e de avaliação das aprendizagens, podendo incluir orientações de trabalho para o professor;\n\nc) «Outros recursos didáctico-pedagógicos» os recursos de apoio à acção do professor e à realização de aprendizagens dos alunos, independentemente da forma de que se revistam, do suporte em que são disponibilizados e dos fins para que foram concebidos, apresentados de forma inequivocamente autónoma em relação aos manuais escolares;\n\nd) «Promoção» o conjunto de actividades, desenvolvidas exclusivamente pelos autores e editores, destinadas a dar a conhecer às escolas e aos professores o conteúdo, a organização e as demais características dos manuais escolares e outros recursos didácticos objecto de procedimento de adopção."
+  },
+  "108001091": {
+   "fragment_id": "108001425",
+   "type": 11,
+   "heading": "Artigo 4.º — Vigência dos manuais escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Vigência dos manuais escolares\n\n1 - O período de vigência dos manuais escolares do ensino básico e do ensino secundário é, em regra, de seis anos, devendo ser idêntico ao dos programas das disciplinas a que se referem.\n\n2 - Tendo em vista a elaboração, a produção e os demais procedimentos previstos na presente lei relativos aos manuais escolares e a outros recursos didáctico-pedagógicos, os programas de cada uma das disciplinas e áreas curriculares disciplinares são divulgados até 20 meses antes do início do ano lectivo a que digam respeito.\n\n3 - Nos casos em que o conhecimento científico evolua de forma célere ou o conteúdo dos programas se revele desfasado relativamente ao conhecimento científico generalizadamente aceite, pode o prazo de vigência para o manual escolar da disciplina afectada ser fixado em período mais curto ou ser determinada a revisão do programa, mediante despacho do Ministro da Educação."
+  },
+  "108001092": {
+   "fragment_id": "108001426",
+   "type": 11,
+   "heading": "Artigo 5.º — Elaboração, produção e distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elaboração, produção e distribuição\n\n1 - A iniciativa da elaboração, da produção e da distribuição de manuais escolares e de outros recursos didáctico-pedagógicos pertence aos autores, aos editores ou a outras instituições legalmente habilitadas para o efeito.\n\n2 - Na ausência de iniciativas editoriais que assegurem a satisfação da procura, compete ao Estado promover ou providenciar a elaboração, a produção e a distribuição de manuais escolares ou de outros recursos didáctico-pedagógicos.\n\n3 - Os docentes podem elaborar materiais didáctico-pedagógicos próprios, em ordem ao desenvolvimento dos conteúdos programáticos e de acordo com os objectivos pedagógicos definidos nos programas, desde que tal não implique despesas suplementares para os alunos.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 111/2025 - Diário da República n.º 195/2025, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2025-938923390) O disposto no n.º 4 do presente artigo, produz efeitos desde o início do ano letivo de 2025-2026.\n\n> Nota: [Artigo 4.º, Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109) As alterações operadas entram em vigor com o Orçamento do Estado subsequente à sua publicação."
+  },
+  "108001093": {
+   "fragment_id": "108001427",
+   "type": 11,
+   "heading": "Artigo 6.º — Responsabilidade pelo fornecimento de manuais escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Responsabilidade pelo fornecimento de manuais escolares\n\n1 - Os editores dos manuais escolares adoptados são responsáveis, durante todo o período de vigência da adopção, pelo fornecimento do mercado em tempo útil, respondendo igualmente pelos prejuízos que o atraso, a suspensão ou a interrupção injustificados causem ao regular funcionamento do ano lectivo.\n\n2 - A medida de responsabilidade a que se refere o número anterior determina-se pelas despesas em que o Estado, as escolas e os agrupamentos de escolas ou os alunos hajam de incorrer na obtenção de outros recursos didáctico-pedagógicos.\n\n3 - Não é considerada justificação atendível para suspensão ou interrupção do fornecimento do mercado qualquer factor que releve das relações entre os autores e os editores, designadamente qualquer litígio emergente dos direitos de autor.\n\n4 - Verificando-se interrupção de fornecimento por razões consideradas atendíveis pelo Ministério da Educação, é determinada a abertura de período excepcional de adopção atentas as circunstâncias de cada caso."
+  },
+  "108001094": {
+   "fragment_id": "108001428",
+   "type": 1,
+   "heading": "Capítulo II — Avaliação, certificação e adopção dos manuais escolares e de outros recursos didáctico-pedagógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Avaliação, certificação e adopção dos manuais escolares e de outros recursos didáctico-pedagógicos"
+  },
+  "108001095": {
+   "fragment_id": "108001429",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "108001096": {
+   "fragment_id": "108001430",
+   "type": 11,
+   "heading": "Artigo 7.º — Objectivos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objectivos gerais\n\n1 - É objectivo do procedimento de adopção de manuais escolares garantir o acesso de todos os alunos, em condições de equidade, a um recurso didáctico-pedagógico, sem exclusão de outros, que seja especialmente adequado para o desenvolvimento das competências e aprendizagens do currículo nacional no contexto sócio-educativo específico da escola.\n\n2 - São objectivos do procedimento de avaliação e certificação de manuais escolares garantir a qualidade científica e pedagógica dos manuais a adoptar, assegurar a sua conformidade com os objectivos e conteúdos do currículo nacional e dos programas ou orientações curriculares em vigor e atestar que constituem instrumento adequado de apoio ao ensino e à aprendizagem e à promoção do sucesso educativo."
+  },
+  "108001097": {
+   "fragment_id": "108001431",
+   "type": 11,
+   "heading": "Artigo 8.º — Intervenientes e organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Intervenientes e organização\n\n1 - Nos procedimentos de adopção, avaliação e certificação dos manuais escolares intervêm os docentes, no âmbito dos órgãos de coordenação e orientação educativa das escolas ou dos agrupamentos de escolas, e as comissões de avaliação.\n\n2 - Os procedimentos de adopção, avaliação e certificação desenvolvem-se em duas fases:\n\na) Uma fase de avaliação e de certificação dos manuais escolares, a cargo de comissões de avaliação, que se traduz na atribuição de uma certificação de qualidade científico-pedagógica;\n\nb) Uma fase de avaliação e adopção, a realizar pelos docentes nas escolas, tendo em vista a apreciação da adequação dos manuais certificados ao projecto educativo respectivo.\n\n3 - Os procedimentos a adoptar para salvaguarda do interesse público quando, por circunstâncias extraordinárias, não seja possível concluir em tempo útil a fase de avaliação e certificação são determinados por decreto-lei."
+  },
+  "108001098": {
+   "fragment_id": "108001432",
+   "type": 8,
+   "heading": "Secção II — Avaliação e certificação dos manuais escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Avaliação e certificação dos manuais escolares"
+  },
+  "108001099": {
+   "fragment_id": "108001433",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissões de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissões de avaliação\n\n1 - As comissões de avaliação têm como missão realizar a avaliação para certificação dos manuais escolares, dispõem de autonomia científica, técnica e pedagógica e são constituídas por despacho do Ministro da Educação, sob proposta do serviço do Ministério da Educação responsável pela coordenação pedagógica e curricular.\n\n2 - As comissões de avaliação organizam-se por ciclo, por ano de escolaridade, por disciplina ou por área curricular disciplinar e são constituídas por um mínimo de três e um máximo de cinco especialistas de reconhecida competência, integrando, designadamente:\n\na) Docentes e investigadores do ensino superior das áreas científica e pedagógica;\n\nb) Docentes do quadro de nomeação definitiva em exercício no mesmo nível de ensino a que se refere o manual de avaliação no caso do 1.º ciclo do ensino básico, e do mesmo grupo disciplinar ou especialidade no caso dos 2.º e 3.º ciclos do ensino básico e do ensino secundário;\n\nc) Membros de sociedades ou associações científicas e pedagógicas de área relacionada com a avaliação em causa.\n\n3 - Sempre que se justifique, a título excepcional, podem ainda as comissões de avaliação integrar outros peritos de reconhecida competência.\n\n4 - Sempre que possível, o Ministério da Educação solicitará às instituições de ensino superior e às sociedades ou associações científicas e pedagógicas a indicação dos peritos que integrarão as comissões referidas nos números anteriores.\n\n5 - Os membros das comissões de avaliação não podem ser autores de manuais escolares nem deter quaisquer interesses directos ou indirectos em empresas editoras.\n\n6 - Cabe ao serviço do Ministério da Educação responsável pela coordenação pedagógica e curricular assegurar o apoio técnico e logístico às comissões de avaliação.\n\n7 - A avaliação para a certificação pode ainda ser efectuada por entidades devidamente acreditadas para o efeito pelo serviço do Ministério da Educação responsável pela coordenação pedagógica e curricular, em termos a definir por decreto-lei."
+  },
+  "108001100": {
+   "fragment_id": "108001434",
+   "type": 11,
+   "heading": "Artigo 10.º — Candidatura à atribuição de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Candidatura à atribuição de certificação\n\n1 - O procedimento da avaliação para a certificação dos manuais escolares inicia-se com a fixação, pelo dirigente máximo do serviço do Ministério da Educação responsável pela coordenação pedagógica e curricular, de um prazo, não inferior a um mês, para a apresentação de candidaturas por parte das entidades referidas no n.º 1 do artigo 5.º\n\n2 - O termo do prazo definido no número anterior tem a antecedência de pelo menos seis meses sobre o início do processo de adopção de manuais.\n\n3 - A decisão que determina o início do procedimento da avaliação para a certificação dos manuais escolares referida no n.º 1 é publicitada no sítio oficial do Ministério da Educação.\n\n4 - São condições de admissão da candidatura à avaliação de manuais escolares para a certificação da qualidade científica e pedagógica:\n\na) Terem sido expressamente desenvolvidos para o ensino básico e para o ensino secundário;\n\nb) Apresentarem declaração referente a características materiais, designadamente quanto ao formato, ao peso, à robustez e à dimensão dos caracteres de impressão;\n\nc) Serem acompanhados da atestação de revisão linguística e científica, bem como da conformidade com as normas do sistema internacional de unidades e de escrita;\n\nd) Ter sido efectuado o pagamento do montante definido para a admissão da candidatura.\n\n5 - A decisão sobre aceitação da candidatura de manuais para efeitos de avaliação e de certificação é da competência do dirigente máximo do serviço do Ministério da Educação responsável pela coordenação pedagógica e curricular.\n\n6 - O processo de avaliação para certificação, no seu conjunto, obedece a um calendário com a duração máxima de 12 semanas, a contar da data de comunicação de aceitação da candidatura."
+  },
+  "108001101": {
+   "fragment_id": "108001435",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de avaliação e decisão das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de avaliação e decisão das comissões\n\n1 - Na avaliação para a certificação dos manuais escolares, as comissões consideram obrigatoriamente os seguintes critérios:\n\na) Rigor científico, linguístico e conceptual;\n\nb) Adequação ao desenvolvimento das competências definidas no currículo nacional;\n\nc) Conformidade com os objectivos e conteúdos dos programas ou orientações curriculares em vigor;\n\nd) Qualidade pedagógica e didáctica, designadamente no que se refere ao método, à organização, a informação e a comunicação;\n\ne) Possibilidade de reutilização e adequação ao período de vigência previsto;\n\nf) A qualidade material, nomeadamente a robustez e o peso.\n\n2 - As comissões de avaliação atendem também aos princípios e valores constitucionais, designadamente da não discriminação e da igualdade de género.\n\n3 - As comissões de avaliação atendem também à diversidade social e cultural do universo de alunos a que se destinam os manuais escolares, bem como à pluralidade de projectos educativos das escolas."
+  },
+  "108001102": {
+   "fragment_id": "108001436",
+   "type": 11,
+   "heading": "Artigo 12.º — Efeitos da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Efeitos da avaliação\n\n1 - O resultado da avaliação efectuada pelas comissões de avaliação exprime-se numa menção de Certificado ou Não certificado, sendo objecto de homologação pelo dirigente máximo do serviço do Ministério da Educação responsável pela coordenação pedagógica e curricular.\n\n2 - As decisões das comissões de avaliação e a respectiva fundamentação constam de um relatório final, o qual é objecto de audiência escrita dos candidatos.\n\n3 - No decurso do processo de avaliação para certificação, as comissões de avaliação podem proceder a uma recomendação de alteração de aspectos pontuais dos manuais, em termos a definir por decreto-lei.\n\n4 - O editor ou autor cujo manual seja objecto de certificação pode publicitá-la pelos meios que entender convenientes, designadamente pela aposição dessa menção na capa ou na contracapa do manual."
+  },
+  "108001103": {
+   "fragment_id": "108001437",
+   "type": 11,
+   "heading": "Artigo 13.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Recurso\n\n1 - Do despacho de homologação a que se refere o n.º 1 do artigo anterior cabe recurso hierárquico facultativo para o Ministro da Educação.\n\n2 - Para formar a sua decisão sobre o recurso previsto no número anterior, pode o Ministro da Educação determinar a reapreciação do relatório pela respectiva comissão de avaliação ou solicitar pareceres a outros peritos de reconhecida competência e idoneidade."
+  },
+  "108001104": {
+   "fragment_id": "108001438",
+   "type": 11,
+   "heading": "Artigo 14.º — Divulgação da lista dos manuais escolares certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Divulgação da lista dos manuais escolares certificados\n\nA divulgação da lista dos manuais escolares certificados é feita pelo Ministério da Educação, através da publicação da mesma, no seu sítio oficial na Internet."
+  },
+  "108001105": {
+   "fragment_id": "108001439",
+   "type": 8,
+   "heading": "Secção III — Avaliação e certificação de outros recursos didáctico-pedagógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Avaliação e certificação de outros recursos didáctico-pedagógicos"
+  },
+  "108001106": {
+   "fragment_id": "108001440",
+   "type": 11,
+   "heading": "Artigo 15.º — Avaliação e certificação de outros recursos didáctico-pedagógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Avaliação e certificação de outros recursos didáctico-pedagógicos\n\nO Governo pode determinar procedimentos de avaliação e certificação relativamente a outros recursos didáctico-pedagógicos que se configurem adequados para o processo de ensino e aprendizagem, independentemente do tipo de suporte."
+  },
+  "108001107": {
+   "fragment_id": "108001441",
+   "type": 8,
+   "heading": "Secção IV — Avaliação e adopção dos manuais escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Avaliação e adopção dos manuais escolares"
+  },
+  "108001108": {
+   "fragment_id": "108001442",
+   "type": 11,
+   "heading": "Artigo 16.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Princípios gerais\n\n1 - A adopção dos manuais escolares é o resultado do processo pelo qual a escola ou o agrupamento de escolas avalia a adequação dos manuais certificados, nos termos do n.º 1 do artigo 12.º, ao respectivo projecto educativo.\n\n2 - A adopção dos manuais escolares pelas escolas e pelos agrupamentos de escolas é da competência do respectivo órgão de coordenação e orientação educativa, devendo ser devidamente fundamentada e registada em grelhas de avaliação elaboradas para o efeito pelo Ministério da Educação.\n\n3 - O processo de adopção tem a duração de quatro semanas a partir da 2.ª semana do 3.º período do ano lectivo anterior ao início de vigência dos manuais escolares."
+  },
+  "108001109": {
+   "fragment_id": "108001443",
+   "type": 11,
+   "heading": "Artigo 17.º — Decisão de não adopção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Decisão de não adopção\n\nQuando for considerado adequado ao respectivo projecto educativo, o órgão de coordenação e orientação educativa das escolas e dos agrupamentos de escolas pode não proceder à adopção de manuais escolares, devendo, neste caso, ser comunicados os fundamentos desta decisão ao Ministério da Educação."
+  },
+  "108001110": {
+   "fragment_id": "108001444",
+   "type": 11,
+   "heading": "Artigo 18.º — Manuais para alunos com necessidades educativas especiais de carácter prolongado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Manuais para alunos com necessidades educativas especiais de carácter prolongado\n\nNo processo de adopção de manuais escolares destinados a alunos com necessidades educativas especiais de carácter prolongado intervêm obrigatoriamente os professores de educação especial, sendo tida em consideração a existência de manuais disponíveis em formato adaptado, adequado aos alunos em causa."
+  },
+  "108001111": {
+   "fragment_id": "108001445",
+   "type": 11,
+   "heading": "Artigo 19.º — Alterações à lista de manuais escolares adoptados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alterações à lista de manuais escolares adoptados\n\n1 - A divulgação da lista dos manuais escolares adoptados faz-se pela publicação da mesma no sítio oficial do Ministério da Educação na Internet e por afixação de edital na própria escola e no agrupamento de escolas.\n\n2 - Após a divulgação da decisão de adopção não são permitidas alterações às listas de manuais escolares adoptados, salvo reconhecida necessidade comprovada pelo Ministério da Educação."
+  },
+  "108001112": {
+   "fragment_id": "108001446",
+   "type": 11,
+   "heading": "Artigo 20.º — Procedimentos de adopção e divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Procedimentos de adopção e divulgação\n\nOs demais procedimentos para a adopção e a divulgação da adopção dos manuais escolares a seguir pelas escolas e pelos agrupamentos de escolas são definidos por portaria do Ministro da Educação."
+  },
+  "108001113": {
+   "fragment_id": "108001447",
+   "type": 8,
+   "heading": "Secção V — Da promoção de manuais escolares e de outros recursos didáctico-pedagógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Da promoção de manuais escolares e de outros recursos didáctico-pedagógicos"
+  },
+  "108001114": {
+   "fragment_id": "108001448",
+   "type": 11,
+   "heading": "Artigo 21.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Princípios gerais\n\n1 - As actividades de promoção, directa ou indirecta, de manuais escolares e de outros recursos didáctico-pedagógicos dentro dos estabelecimentos de ensino têm a duração de duas semanas, não podendo ir além do fim da 1.ª semana do 3.º período do ano escolar anterior ao início do período de vigência da adopção dos manuais escolares.\n\n2 - Os órgãos de direcção das escolas e dos agrupamentos de escolas garantem a transparência e a publicidade das actividades de promoção de manuais escolares que decorram no seu interior e asseguram a efectiva igualdade de acesso entre todos os promotores.\n\n3 - As actividades de promoção de manuais escolares e de outros recursos didáctico-pedagógicos, a realizar nos termos dos números anteriores, são dirigidas ao órgão competente para a sua adopção, sendo proibida qualquer actividade promocional dirigida aos professores susceptível de condicionar a decisão de adopção, designadamente a que inclua a oferta de manuais escolares, bem como de qualquer outro recurso didáctico-pedagógico."
+  },
+  "108001115": {
+   "fragment_id": "108001449",
+   "type": 11,
+   "heading": "Artigo 22.º — Incompatibilidade das actividades de promoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Incompatibilidade das actividades de promoção\n\nÉ vedado a qualquer docente, funcionário, agente ou detentor de qualquer outro vínculo laboral ao Ministério da Educação o desenvolvimento de actividades de promoção de manuais escolares e de outros recursos didáctico-pedagógicos dentro do recinto dos estabelecimentos de ensino."
+  },
+  "108001116": {
+   "fragment_id": "108001450",
+   "type": 1,
+   "heading": "Capítulo III — Preço dos manuais escolares e de outros recursos didáctico-pedagógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Preço dos manuais escolares e de outros recursos didáctico-pedagógicos"
+  },
+  "108001117": {
+   "fragment_id": "108001451",
+   "type": 11,
+   "heading": "Artigo 23.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Princípios\n\nO preço dos manuais escolares e de outros recursos didáctico-pedagógicos para o ensino básico e para o ensino secundário atende aos interesses das famílias e dos editores e assenta nos princípios de liberdade de edição, por um lado, e de equidade social, por outro, tendo presente a natureza específica do bem público que representam e o imperativo de proporcionar aos cidadãos um nível elevado de educação."
+  },
+  "108001118": {
+   "fragment_id": "108001452",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime do preço dos manuais escolares e de outros recursos didáctico-pedagógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regime do preço dos manuais escolares e de outros recursos didáctico-pedagógicos\n\n1 - Os preços dos manuais escolares e de outros recursos didáctico-pedagógicos estão sujeitos ao regime de preços convencionados, a fixar por portaria conjunta dos Ministros da Economia e da Inovação e da Educação.\n\n2 - Os preços máximos dos manuais escolares e de outros recursos didáctico-pedagógicos podem ainda ser fixados por portaria conjunta dos Ministros da Economia e da Inovação e da Educação, nos seguintes casos:\n\na) Ausência em absoluto de convenção;\n\nb) Celebração de convenção que não abranja todos os editores.\n\n3 - Nos casos da alínea a) do número anterior, o preço é fixado tendo em consideração, nomeadamente, o nível dos preços dos manuais escolares e a evolução do índice de preços no consumidor.\n\n4 - Nos casos da alínea b) do n.º 2, os preços a fixar são os convencionados."
+  },
+  "108001119": {
+   "fragment_id": "108001453",
+   "type": 11,
+   "heading": "Artigo 25.º — Indicação do preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Indicação do preço\n\nOs manuais escolares e outros recursos didáctico-pedagógicos contêm obrigatoriamente, na capa ou na contracapa, uma única indicação do preço de venda ao público, que tem um carácter de máximo."
+  },
+  "108001120": {
+   "fragment_id": "108001454",
+   "type": 1,
+   "heading": "Capítulo IV — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Acompanhamento e avaliação"
+  },
+  "108001121": {
+   "fragment_id": "108001455",
+   "type": 11,
+   "heading": "Artigo 26.º — Comissão de acompanhamento dos manuais escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Comissão de acompanhamento dos manuais escolares\n\n1 - Para o acompanhamento de todas as matérias relativas aos manuais escolares, designadamente do sistema de adopção, avaliação e certificação regulado pela presente lei, é constituída uma comissão de acompanhamento dos manuais escolares.\n\n2 - A comissão de acompanhamento dos manuais escolares constitui-se como comissão especializada permanente no âmbito do Conselho Nacional de Educação, nos termos da sua lei orgânica.\n\n3 - A comissão de acompanhamento dos manuais escolares é constituída pelos membros do Conselho Nacional de Educação designados para o efeito e ainda por representantes de entidades que, em razão da matéria, devam integrá-la, nos termos da Lei Orgânica do Conselho Nacional de Educação, não sendo conferido, a estes últimos, o estatuto de membros daquele Conselho."
+  },
+  "108001122": {
+   "fragment_id": "108001456",
+   "type": 1,
+   "heading": "Capítulo V — Acção social escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Acção social escolar"
+  },
+  "108001123": {
+   "fragment_id": "108001457",
+   "type": 11,
+   "heading": "Artigo 27.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Princípios\n\nA acção social escolar tem por objectivo a concretização do princípio da equidade e a promoção da igualdade de oportunidades no acesso aos recursos didáctico-pedagógicos e nas condições de sucesso dos alunos."
+  },
+  "108001124": {
+   "fragment_id": "108001458",
+   "type": 11,
+   "heading": "Artigo 28.º — Apoios económicos para aquisição de manuais escolares e de outros recursos didáctico-pedagógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Apoios económicos para aquisição de manuais escolares e de outros recursos didáctico-pedagógicos\n\n1 - A acção social escolar concretiza-se por meio de diversas formas de intervenção no sentido de apoiar as famílias, particularmente as mais carenciadas, no acesso aos manuais e demais recursos formalmente adoptados.\n\n2 - As disposições relativas aos apoios sócio-económicos para aquisição de manuais escolares e de outros recursos didáctico-pedagógicos constam do diploma que regulamenta a acção social escolar.\n\n> Nota: [Artigo 4.º, Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109) As alterações operadas entram em vigor com o Orçamento do Estado subsequente à sua publicação."
+  },
+  "108001125": {
+   "fragment_id": "108001459",
+   "type": 11,
+   "heading": "Artigo 29.º — Empréstimo de manuais escolares e de outros recursos didáctico-pedagógicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Empréstimo de manuais escolares e de outros recursos didáctico-pedagógicos\n\n1 - No âmbito da sua autonomia e no quadro dos correspondentes projectos educativos, as escolas e os agrupamentos de escolas devem criar modalidades de empréstimo de manuais escolares e de outros recursos didáctico-pedagógicos.\n\n2 - Os princípios e regras gerais a que deve obedecer o sistema de empréstimo a que se refere o número anterior são definidos por despacho do Ministro da Educação, a publicar no prazo de um ano a contar da data da entrada em vigor da presente lei."
+  },
+  "108001126": {
+   "fragment_id": "108001460",
+   "type": 1,
+   "heading": "Capítulo VI — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime sancionatório"
+  },
+  "108001127": {
+   "fragment_id": "108001461",
+   "type": 11,
+   "heading": "Artigo 30.º — Ilícito de mera ordenação social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Ilícito de mera ordenação social\n\n1 - Constitui contra-ordenação punível com coima de (euro) 500 a (euro) 2000 a violação da proibição constante do artigo 22.º\n\n2 - Constituem contra-ordenação punível com coima de (euro) 2500 a (euro) 22000:\n\na) O incumprimento dos compromissos decorrentes das declarações apresentadas no âmbito do processo de candidatura à avaliação de manuais escolares previstas na alínea b) do n.º 4 do artigo 10.º;\n\nb) A falsidade na atestação da revisão linguística e científica, nos termos previstos na alínea c) do n.º 4 do artigo 10.º\n\n3 - Constituem contra-ordenação punível com coima de (euro) 5000 a (euro) 44000:\n\na) A não indicação do preço de venda ao público na capa ou na contracapa dos manuais escolares ou de outros recursos didáctico-pedagógicos;\n\nb) A substituição, alteração ou violação do carácter máximo do preço de venda ao público indicado em cada manual escolar ou outro recurso didáctico-pedagógico;\n\nc) As actividades de promoção, directa ou indirecta, de manuais escolares e de outros recursos didáctico-pedagógicos dentro dos estabelecimentos de ensino que se prolonguem por mais de duas semanas ou que ocorram após o fim da 1.ª semana do 3.º período do ano escolar anterior ao início do período de vigência da adopção dos manuais escolares;\n\nd) Qualquer actividade promocional desenvolvida por entidade promotora dirigida a professor individualmente considerado e susceptível de condicionar a decisão de adopção.\n\n4 - A negligência e a tentativa são puníveis, sendo os montantes das coimas previstas reduzidos para metade."
+  },
+  "108001128": {
+   "fragment_id": "108001462",
+   "type": 11,
+   "heading": "Artigo 31.º — Instrução dos procedimentos e aplicação de coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Instrução dos procedimentos e aplicação de coimas\n\n1 - A instrução dos procedimentos de contra-ordenação relativa às infracções previstas no n.º 1, na alínea b) do n.º 2 e na alínea c) do n.º 3 do artigo anterior cabe à Inspecção-Geral da Educação.\n\n2 - A instrução dos procedimentos de contra-ordenação relativa às infracções previstas na alínea a) do n.º 2 e nas alíneas a), b) e d) do n.º 3 do artigo anterior cabe à Autoridade de Segurança Alimentar e Económica.\n\n3 - A aplicação das coimas previstas na presente lei compete:\n\na) Ao inspector-geral da Educação, no que respeita aos procedimentos relativos às infracções previstas no n.º 1, na alínea b) do n.º 2 e na alínea c) do n.º 3 do artigo anterior;\n\nb) À Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade, no que respeita aos procedimentos relativos às infracções previstas na alínea a) do n.º 2 e nas alíneas a), b) e d) do n.º 3 do artigo anterior."
+  },
+  "108001129": {
+   "fragment_id": "108001463",
+   "type": 11,
+   "heading": "Artigo 32.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Produto das coimas\n\nO produto das coimas aplicadas ao abrigo do disposto nesta lei reverte em:\n\na) 60% para o Estado;\n\nb) 20% para a Direcção-Geral de Inovação e de Desenvolvimento Curricular;\n\nc) 20% para o serviço que instruir o processo."
+  },
+  "108001130": {
+   "fragment_id": "108001464",
+   "type": 11,
+   "heading": "Artigo 33.º — Sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Sanções disciplinares\n\nA violação da proibição constante do artigo 22.º constitui violação grave dos deveres de isenção e lealdade."
+  },
+  "108001131": {
+   "fragment_id": "108001465",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "108001132": {
+   "fragment_id": "108001466",
+   "type": 11,
+   "heading": "Artigo 34.º — Avaliação de manuais já adoptados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Avaliação de manuais já adoptados\n\n1 - Até que todos os manuais adoptados tenham sido objecto de avaliação e certificação, pode, por despacho do Ministro da Educação, ser determinada a avaliação dos manuais já adoptados e em utilização referentes a qualquer ano de escolaridade e disciplina ou área curricular disciplinar.\n\n2 - A avaliação de manuais já adoptados, a efectuar por entidades idênticas às descritas no artigo 9.º, tem como objectivo a verificação da conformidade desses manuais com os respectivos programas, bem como avaliar o rigor e a qualidade científica e pedagógica dos seus conteúdos.\n\n3 - A avaliação prevista nos números anteriores exprime-se qualitativamente numa menção de Favorável ou Desfavorável.\n\n4 - Em caso de avaliação desfavorável, o serviço do Ministério da Educação responsável pela coordenação pedagógica e curricular desenvolverá, em termos a regulamentar por decreto-lei, os procedimentos conducentes à correcção pelas editoras das deficiências encontradas e, em caso de não introdução de tais correcções, determinará a caducidade da adopção do manual."
+  },
+  "108001133": {
+   "fragment_id": "108001467",
+   "type": 11,
+   "heading": "Artigo 35.º — Calendário de adopções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Calendário de adopções\n\nO calendário de adopções em vigor pode ser alterado, mediante despacho do Ministro da Educação, no sentido de alargar o período de vigência da adopção de manuais, desde que avaliados nos termos do artigo anterior, tendo em vista regularizar no tempo o procedimento de adopção dos manuais escolares."
+  },
+  "108001134": {
+   "fragment_id": "108001468",
+   "type": 11,
+   "heading": "Artigo 36.º — Excepções ao regime de avaliação, certificação e adopção de manuais escolares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Excepções ao regime de avaliação, certificação e adopção de manuais escolares\n\nAs condições em que, em determinadas disciplinas ou áreas curriculares disciplinares, não há lugar à adopção formal de manuais escolares ou em que esta tenha um carácter meramente facultativo, bem como aquelas em que os manuais escolares e outros recursos didáctico-pedagógicos não estão sujeitos ao regime de avaliação e certificação de manuais escolares, são definidas por decreto-lei."
+  },
+  "108001135": {
+   "fragment_id": "108001469",
+   "type": 11,
+   "heading": "Artigo 37.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Regulamentação\n\nO Governo regulamentará a presente lei no prazo de 90 dias a contar da data da sua publicação."
+  },
+  "108001136": {
+   "fragment_id": "108001470",
+   "type": 11,
+   "heading": "Artigo 38.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 369/90, de 26 de Novembro;\n\nb) A Portaria n.º 186/91, de 4 de Março, na redacção dada pela Portaria n.º 724/91, de 24 de Julho."
+  },
+  "108001138": {
+   "fragment_id": "108001423",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios orientadores",
+   "in_force_from": "2017-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2017 - Diário da República n.º 157/2017, Série I de 2017-08-16](https://diariodarepublica.pt/dr/detalhe/lei/72-2017-108001408), em vigor a partir de 2017-08-21"
+   ],
+   "markdown": "###### Artigo 2.º — Princípios orientadores\n\n1 - O regime de avaliação, certificação e adopção dos manuais escolares assenta nos seguintes princípios orientadores:\n\na) Liberdade e autonomia científica e pedagógica na concepção e na elaboração dos manuais escolares;\n\nb) Liberdade e autonomia dos agentes educativos, mormente os docentes, na escolha e na utilização dos manuais escolares no contexto do projecto educativo da escola ou do agrupamento de escolas;\n\nc) Liberdade de mercado e de concorrência na produção, edição e distribuição de manuais escolares;\n\nd) Qualidade científico-pedagógica dos manuais escolares e sua conformidade com os objectivos e conteúdos do currículo nacional e dos programas e orientações curriculares;\n\ne) Equidade e igualdade de oportunidades no acesso aos recursos didáctico-pedagógicos.\n\n2 - O papel do Estado na prossecução dos princípios definidos no número anterior concretiza-se nas seguintes linhas de actuação:\n\na) Definição do regime de adopção formal dos manuais escolares pelas escolas e pelos agrupamentos de escolas;\n\nb) Definição do regime de avaliação e certificação dos manuais escolares para efeitos da sua adopção formal pelas escolas e pelos agrupamentos de escolas;\n\nc) Promoção da qualidade científico-pedagógica dos manuais escolares e dos demais recursos didáctico-pedagógicos;\n\nd) Promoção da estabilidade dos programas de estudos e dos instrumentos didácticos correspondentes;\n\ne) Apoio à aquisição e à utilização dos manuais escolares;\n\nf) Fomento, desenvolvimento e generalização da desmaterialização dos diversos recursos educativos;\n\ng) Formação dos docentes e responsáveis educativos em avaliação de manuais escolares.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2017 - Diário da República n.º 157/2017, Série I de 2017-08-16](https://diariodarepublica.pt/dr/detalhe/lei/72-2017-108001408), em vigor a partir de 2017-08-21"
+  },
+  "108001137": {
+   "fragment_id": "108001471",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de Junho de 2006.\n\nO Presidente da Assembleia da República, em exercício, Manuel Alegre de Melo Duarte.\n\nPromulgada em 8 de Agosto de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 12 de Agosto de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "124487606": {
+   "fragment_id": "108001423",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109)",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2017 - Diário da República n.º 157/2017, Série I de 2017-08-16](https://diariodarepublica.pt/dr/detalhe/lei/72-2017-108001408), em vigor a partir de 2017-08-21"
+   ],
+   "markdown": "###### Artigo 2.º — Princípios orientadores\n\n1 - O regime de avaliação, certificação e adopção dos manuais escolares assenta nos seguintes princípios orientadores:\n\na) Disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória na rede pública do Ministério da Educação;\n\nb) Liberdade e autonomia científica e pedagógica na concepção e na elaboração dos manuais escolares;\n\nc) Liberdade e autonomia dos agentes educativos, mormente os docentes, na escolha e na utilização dos manuais escolares no contexto do projecto educativo da escola ou do agrupamento de escolas;\n\nd) Liberdade de mercado e de concorrência na produção, edição e distribuição de manuais escolares;\n\ne) Qualidade científico-pedagógica dos manuais escolares e sua conformidade com os objectivos e conteúdos do currículo nacional e dos programas e orientações curriculares;\n\nf) Equidade e igualdade de oportunidades no acesso aos recursos didáctico-pedagógicos.\n\n2 - O papel do Estado na prossecução dos princípios definidos no número anterior concretiza-se nas seguintes linhas de actuação:\n\na) Distribuição gratuita a todos os alunos na escolaridade obrigatória na rede pública do Ministério da Educação;\n\nb) Definição do regime de adopção formal dos manuais escolares pelas escolas e pelos agrupamentos de escolas;\n\nc) Definição do regime de avaliação e certificação dos manuais escolares para efeitos da sua adopção formal pelas escolas e pelos agrupamentos de escolas;\n\nd) Promoção da qualidade científico-pedagógica dos manuais escolares e dos demais recursos didáctico-pedagógicos;\n\ne) Promoção da estabilidade dos programas de estudos e dos instrumentos didácticos correspondentes;\n\nf) (Revogada.)\n\ng) Formação dos docentes e responsáveis educativos em avaliação de manuais escolares.\n\n> Nota: [Artigo 4.º, Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109) As alterações operadas entram em vigor com o Orçamento do Estado subsequente à sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2017 - Diário da República n.º 157/2017, Série I de 2017-08-16](https://diariodarepublica.pt/dr/detalhe/lei/72-2017-108001408), em vigor a partir de 2017-08-21"
+  },
+  "124487607": {
+   "fragment_id": "108001426",
+   "type": 11,
+   "heading": "Artigo 5.º — Elaboração, produção e distribuição",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109)"
+   ],
+   "markdown": "###### Artigo 5.º — Elaboração, produção e distribuição\n\n1 - A iniciativa da elaboração, da produção e da distribuição de manuais escolares e de outros recursos didáctico-pedagógicos pertence aos autores, aos editores ou a outras instituições legalmente habilitadas para o efeito.\n\n2 - Na ausência de iniciativas editoriais que assegurem a satisfação da procura, compete ao Estado promover ou providenciar a elaboração, a produção e a distribuição de manuais escolares ou de outros recursos didáctico-pedagógicos.\n\n3 - Os docentes podem elaborar materiais didáctico-pedagógicos próprios, em ordem ao desenvolvimento dos conteúdos programáticos e de acordo com os objectivos pedagógicos definidos nos programas, desde que tal não implique despesas suplementares para os alunos.\n\n4 - O membro do Governo responsável pela área da educação define os procedimentos e condições de disponibilização gratuita, uso, devolução e reutilização dos manuais escolares, podendo os mesmos ser reutilizados na mesma escola ou em qualquer outra escola ou agrupamento que o tenha adotado, garantindo que:\n\na) Os alunos dos 1.º, 2.º e 3.º ciclos do ensino básico devolvem os manuais no final do ano letivo, excetuando-se os manuais das disciplinas sujeitas a prova final de ciclo, que ocorre no 9.º ano, devendo a devolução efetuar-se, neste caso, no momento da conclusão, com aproveitamento, do ano letivo;\n\nb) Os alunos do ensino secundário devolvem os manuais no final do ano letivo, à exceção dos manuais das disciplinas relativamente às quais pretendam realizar exame, permanecendo os mesmos na sua posse, nesse caso, até à conclusão, com aproveitamento, dessas disciplinas;\n\nc) Os alunos do ensino profissional devolvem os manuais no momento da conclusão, com aproveitamento, dos módulos correspondentes ao respetivo manual.\n\n> Nota: [Artigo 4.º, Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109) As alterações operadas entram em vigor com o Orçamento do Estado subsequente à sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109)"
+  },
+  "124487608": {
+   "fragment_id": "108001458",
+   "type": 11,
+   "heading": "Artigo 28.º — Apoios económicos para aquisição de outros recursos didático-pedagógicos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109)"
+   ],
+   "markdown": "###### Artigo 28.º — Apoios económicos para aquisição de outros recursos didático-pedagógicos\n\n1 - A ação social escolar concretiza-se por meio de diversas formas de intervenção, no sentido de apoiar as famílias, particularmente as mais carenciadas, no acesso a recursos didático-pedagógicos formalmente adotados.\n\n2 - As disposições relativas aos apoios socioeconómicos para aquisição de outros recursos didático-pedagógicos constam do diploma que regulamenta a ação social escolar.\n\n> Nota: [Artigo 4.º, Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109) As alterações operadas entram em vigor com o Orçamento do Estado subsequente à sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109)"
+  },
+  "155874176": {
+   "fragment_id": "108001461",
+   "type": 11,
+   "heading": "Artigo 30.º — Contraordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 30.º — Contraordenações\n\n1 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação da proibição constante do artigo 22.º\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE:\n\na) O incumprimento dos compromissos decorrentes das declarações apresentadas no âmbito do processo de candidatura à avaliação de manuais escolares previstas na alínea b) do n.º 4 do artigo 10.º;\n\nb) A falsidade na atestação da revisão linguística e científica, nos termos previstos na alínea c) do n.º 4 do artigo 10.º ;\n\nc) A não indicação do preço de venda ao público na capa ou na contracapa dos manuais escolares ou de outros recursos didáctico-pedagógicos;\n\nd) A substituição, alteração ou violação do carácter máximo do preço de venda ao público indicado em cada manual escolar ou outro recurso didáctico-pedagógico;\n\ne) As actividades de promoção, directa ou indirecta, de manuais escolares e de outros recursos didáctico-pedagógicos dentro dos estabelecimentos de ensino que se prolonguem por mais de duas semanas ou que ocorram após o fim da 1.ª semana do 3.º período do ano escolar anterior ao início do período de vigência da adopção dos manuais escolares;\n\nf) Qualquer actividade promocional desenvolvida por entidade promotora dirigida a professor individualmente considerado e susceptível de condicionar a decisão de adopção.\n\n3 - (Revogado).\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "155874177": {
+   "fragment_id": "108001462",
+   "type": 11,
+   "heading": "Artigo 31.º — Instrução dos procedimentos e aplicação de coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 31.º — Instrução dos procedimentos e aplicação de coimas\n\n1 - A instrução dos procedimentos de contraordenação relativos às infrações previstas no n.º 1 e nas alíneas b) e e) do n.º 2 do artigo anterior cabe à Inspeção-Geral da Educação.\n\n2 - A instrução dos procedimentos de contraordenação relativos às infrações previstas nas alíneas a), c), d) e f) do n.º 2 do artigo anterior cabe à Autoridade de Segurança Alimentar e Económica (ASAE).\n\n3 - A aplicação das coimas previstas na presente lei compete:\n\na) Ao inspetor-geral da Educação, no que respeita aos procedimentos relativos às infrações previstas no n.º 1 e nas alíneas b) e e) do n.º 2 do artigo anterior;\n\nb) Ao inspetor-geral da ASAE, no que respeita aos procedimentos relativos às infrações previstas nas alíneas a), c), d) e e) do n.º 2 do artigo anterior.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "938924532": {
+   "fragment_id": "108001426",
+   "type": 11,
+   "heading": "Artigo 5.º — Elaboração, produção e distribuição",
+   "in_force_from": "2025-10-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/2025 - Diário da República n.º 195/2025, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2025-938923390), em vigor a partir de 2025-10-10",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109)"
+   ],
+   "markdown": "###### Artigo 5.º — Elaboração, produção e distribuição\n\n1 - A iniciativa da elaboração, da produção e da distribuição de manuais escolares e de outros recursos didáctico-pedagógicos pertence aos autores, aos editores ou a outras instituições legalmente habilitadas para o efeito.\n\n2 - Na ausência de iniciativas editoriais que assegurem a satisfação da procura, compete ao Estado promover ou providenciar a elaboração, a produção e a distribuição de manuais escolares ou de outros recursos didáctico-pedagógicos.\n\n3 - Os docentes podem elaborar materiais didáctico-pedagógicos próprios, em ordem ao desenvolvimento dos conteúdos programáticos e de acordo com os objectivos pedagógicos definidos nos programas, desde que tal não implique despesas suplementares para os alunos.\n\n4 - O membro do Governo responsável pela área da educação define, por despacho, os procedimentos e as condições da disponibilização gratuita, do uso, da devolução e da reutilização dos manuais escolares, podendo os mesmos ser reutilizados na mesma escola ou em qualquer outra escola e outro agrupamento de escolas que os tenham adotado, garantindo que:\n\na) No 1.º ciclo do ensino básico, os manuais escolares em suporte físico atribuídos aos alunos não são objeto de devolução ao Estado;\n\nb) Os alunos do 2.º e do 3.º ciclos do ensino básico devolvem os manuais escolares em suporte físico no final de cada ano letivo, sem prejuízo do disposto na alínea seguinte;\n\nc) No 3.º ciclo, no caso das disciplinas sujeitas a prova final do ensino básico, a devolução dos manuais escolares em suporte físico tem lugar no final do 9.º ano, no momento da conclusão, com aproveitamento, do ano de escolaridade;\n\nd) Os alunos do ensino secundário devolvem os manuais escolares em suporte físico no final de cada ano letivo, com exceção dos manuais das disciplinas relativamente às quais pretendam realizar exame, permanecendo os mesmos na sua posse, neste caso, até à conclusão, com aproveitamento, dessas disciplinas;\n\ne) Os alunos do ensino profissional devolvem os manuais escolares em suporte físico no momento da conclusão, com aproveitamento, dos módulos correspondentes ao respetivo manual.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 111/2025 - Diário da República n.º 195/2025, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2025-938923390) O disposto no n.º 4 do presente artigo, produz efeitos desde o início do ano letivo de 2025-2026.\n\n> Nota: [Artigo 4.º, Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109) As alterações operadas entram em vigor com o Orçamento do Estado subsequente à sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 111/2025 - Diário da República n.º 195/2025, Série I de 2025-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2025-938923390), em vigor a partir de 2025-10-10\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 96/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/96-2019-124417109)"
+  }
+ }
+}

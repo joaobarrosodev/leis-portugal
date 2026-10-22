@@ -1,0 +1,1261 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:654496:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1984-75126734",
+ "dre_path": "/dr/detalhe/lei/4-1984-654496",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1984-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75108966",
+    "75108967",
+    "75108968",
+    "75108969",
+    "75108970",
+    "75108971",
+    "75108972",
+    "75108973",
+    "75108974",
+    "75131375",
+    "75131376",
+    "75131377",
+    "75131378",
+    "75131379",
+    "75131380",
+    "75131381",
+    "75131382",
+    "75131383",
+    "75131384",
+    "75131385",
+    "75131386",
+    "75131387",
+    "75131388",
+    "75131389",
+    "75131390",
+    "75131391",
+    "75131392",
+    "75131393",
+    "75131394",
+    "75131395",
+    "75131396",
+    "75131397"
+   ]
+  },
+  {
+   "date": "1995-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:517786:por",
+     "title": "Lei n.º 17/95",
+     "published": "1995-06-09",
+     "dre_path": "/dr/detalhe/lei/17-1995-517786"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 10.º-A",
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 18.º-A",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "75108966",
+    "75108967",
+    "75108968",
+    "75131405",
+    "75131406",
+    "75131407",
+    "75108971",
+    "75108972",
+    "75108973",
+    "75108974",
+    "75131375",
+    "75131376",
+    "75131377",
+    "75131424",
+    "75131425",
+    "75131408",
+    "75131426",
+    "75131410",
+    "75131411",
+    "75131417",
+    "75131427",
+    "75131428",
+    "75131429",
+    "75131430",
+    "75131431",
+    "75131423",
+    "75131388",
+    "75131432",
+    "75131390",
+    "75131391",
+    "75131392",
+    "75131393",
+    "75131394",
+    "75131395",
+    "75131396",
+    "75131397",
+    "75131398"
+   ]
+  },
+  {
+   "date": "1998-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:648877:por",
+     "title": "Lei n.º 102/97",
+     "published": "1997-09-13",
+     "dre_path": "/dr/detalhe/lei/102-1997-648877"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Adita Artigo 21.º-A"
+   ],
+   "fragments": [
+    "75108966",
+    "75108967",
+    "75108968",
+    "75131405",
+    "75131406",
+    "75131407",
+    "75108971",
+    "75108972",
+    "75108973",
+    "75108974",
+    "75131375",
+    "75131376",
+    "75131377",
+    "75131424",
+    "75131425",
+    "75131408",
+    "75131426",
+    "75131410",
+    "75131411",
+    "75131417",
+    "75131427",
+    "75131437",
+    "75131438",
+    "75131439",
+    "75131440",
+    "75131441",
+    "75131442",
+    "75131388",
+    "75131432",
+    "75131390",
+    "75131391",
+    "75131443",
+    "75131444",
+    "75131393",
+    "75131394",
+    "75131395",
+    "75131396",
+    "75131397",
+    "75131398"
+   ]
+  },
+  {
+   "date": "1998-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176485:por",
+     "title": "Lei n.º 18/98",
+     "published": "1998-04-28",
+     "dre_path": "/dr/detalhe/lei/18-1998-176485"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º-A"
+   ],
+   "fragments": [
+    "75108966",
+    "75108967",
+    "75108968",
+    "75131405",
+    "75131406",
+    "75131407",
+    "75108971",
+    "75108972",
+    "75108973",
+    "75108974",
+    "75131375",
+    "75131376",
+    "75131377",
+    "75131456",
+    "75131425",
+    "75131408",
+    "75131426",
+    "75131410",
+    "75131411",
+    "75131417",
+    "75131457",
+    "75131437",
+    "75131438",
+    "75131451",
+    "75131452",
+    "75131453",
+    "75131458",
+    "75131455",
+    "75131388",
+    "75131432",
+    "75131390",
+    "75131391",
+    "75131443",
+    "75131444",
+    "75131393",
+    "75131394",
+    "75131395",
+    "75131396",
+    "75131397",
+    "75131398"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:176485:por",
+     "title": "Lei n.º 18/98",
+     "published": "1998-04-28",
+     "dre_path": "/dr/detalhe/lei/18-1998-176485",
+     "date": "1998-05-28"
+    }
+   ]
+  },
+  {
+   "date": "1999-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:581976:por",
+     "title": "Lei n.º 142/99",
+     "published": "1999-08-31",
+     "dre_path": "/dr/detalhe/lei/142-1999-581976"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º-B",
+    "Adita Artigo 19.º-A",
+    "Altera Artigo 1.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 10.º-A",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º-A",
+    "Altera Artigo 18.º",
+    "Altera Artigo 18.º-A",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "75108966",
+    "75108967",
+    "75108968",
+    "75132350",
+    "75131406",
+    "75131407",
+    "75108971",
+    "75132351",
+    "75132352",
+    "75132353",
+    "75132354",
+    "75131376",
+    "75131377",
+    "75132355",
+    "75132356",
+    "75132357",
+    "75132358",
+    "75132359",
+    "75132360",
+    "75131417",
+    "75132361",
+    "75131437",
+    "75131438",
+    "75132362",
+    "75131452",
+    "75131453",
+    "75132363",
+    "75132364",
+    "75132344",
+    "75131388",
+    "75132365",
+    "75132345",
+    "75132346",
+    "75132366",
+    "75132348",
+    "75132349",
+    "75131393",
+    "75132367",
+    "75131395",
+    "75131396",
+    "75132295",
+    "75132296",
+    "75131398"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:423061:por",
+     "title": "Lei n.º 118/99",
+     "published": "1999-08-11",
+     "dre_path": "/dr/detalhe/lei/118-1999-423061",
+     "date": "1999-12-01"
+    }
+   ]
+  },
+  {
+   "date": "2000-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:281661:por",
+     "title": "Decreto-Lei n.º 70/2000",
+     "published": "2000-05-04",
+     "dre_path": "/dr/detalhe/decreto-lei/70-2000-281661"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º-A",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "75108966",
+    "75108967",
+    "75108968",
+    "75132350",
+    "75131406",
+    "75131407",
+    "75108971",
+    "75132351",
+    "75132352",
+    "75132353",
+    "75132354",
+    "75131376",
+    "75131377",
+    "75132355",
+    "75132356",
+    "75132818",
+    "75132358",
+    "75132359",
+    "75132360",
+    "75131417",
+    "75132361",
+    "75131437",
+    "75131438",
+    "75132362",
+    "75131452",
+    "75131453",
+    "75132819",
+    "75132364",
+    "75132344",
+    "75131388",
+    "75132820",
+    "75132345",
+    "75132346",
+    "75132366",
+    "75132348",
+    "75132349",
+    "75131393",
+    "75132367",
+    "75131395",
+    "75131396",
+    "75132295",
+    "75132296",
+    "75131398"
+   ]
+  }
+ ],
+ "fragments": {
+  "75108966": {
+   "fragment_id": "75126735",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 4/84\n\nde 5 de Abril\n\nProtecção da maternidade e da paternidade\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:\n\n> Nota: [Lei n.º 35/2004 - Diário da República n.º 177/2004, Série I-A de 2004-07-29](https://diariodarepublica.pt/dr/detalhe/lei/35-2004-502399) Mantêm-se em vigor os artigos 3.º a 8.º e 31.º da Lei n.º 4/84, de 5 de Abril, com a numeração e redacção constantes do Decreto-Lei n.º 70/2000, de 4 de Maio.\n\n> Nota: [Lei n.º 99/2003 - Diário da República n.º 197/2003, Série I-A de 2003-08-27](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906) Revogada, com a numeração e redacção constantes da Lei n.º 70/2000, de 4 de Maio."
+  },
+  "75108967": {
+   "fragment_id": "75126736",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "75108968": {
+   "fragment_id": "75126737",
+   "type": 11,
+   "heading": "Artigo 1.º — (Paternidade e maternidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Paternidade e maternidade)\n\n1 - A maternidade e a paternidade constituem valores sociais eminentes.\n\n2 - Os pais e as mães têm direito à protecção da sociedade e do Estado na realização da sua insubstituível acção em relação ao filhos, nomeadamente quanto à sua educação."
+  },
+  "75108969": {
+   "fragment_id": "75126738",
+   "type": 11,
+   "heading": "Artigo 2.º — (Igualdade dos pais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Igualdade dos pais)\n\n1 - São garantidas aos pais, em condições de igualdade, a realização profissional e a participação na vida cívica do País.\n\n2 - Os pais são iguais em direitos e deveres quanto à manutenção e educação dos filhos.\n\n3 - Os filhos não podem ser separados dos pais, salvo quando estes não cumpram os seus deveres fundamentais para com eles, e sempre mediante decisão judicial.\n\n4 - São garantidos às mães direitos especiais relacionados com o ciclo biológico da maternidade."
+  },
+  "75108970": {
+   "fragment_id": "75126739",
+   "type": 11,
+   "heading": "Artigo 3.º — (Dever de informar sobre o regime de protecção da maternidade e paternidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Dever de informar sobre o regime de protecção da maternidade e paternidade)\n\n1 - Incumbe ao Estado o dever de informar e divulgar conhecimentos úteis referentes aos direitos das mulheres grávidas, dos nascituros, das crianças e dos pais, designadamente através da utilização dos meios de comunicação social e da elaboração e difusão gratuita da adequada documentação.\n\n2 - A informação prestada nos termos do número anterior deve procurar consciencializar e responsabilizar os progenitores, sem distinção, pelos cuidados e pela educação dos filhos, em ordem à defesa da saúde e à criação de condições favoráveis ao pleno desenvolvimento da criança."
+  },
+  "75108971": {
+   "fragment_id": "75126740",
+   "type": 1,
+   "heading": "Capítulo II — Protecção da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Protecção da saúde"
+  },
+  "75108972": {
+   "fragment_id": "75126741",
+   "type": 11,
+   "heading": "Artigo 4.º — (Direito a assistência médica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Direito a assistência médica)\n\n1 - É assegurado à mulher o direito de efectuar gratuitamente as consultas e ainda os exames aconselhados pelo seu médico assistente durante a gravidez, bem como no decurso de 60 dias após o parto.\n\n2 - O internamento durante o período referido no número anterior é gratuito.\n\n3 - No decurso do período de gravidez, e em função desta, serão igualmente assegurados ao outro progenitor os exames considerados indispensáveis pelo médico assistente da grávida."
+  },
+  "75108973": {
+   "fragment_id": "75126742",
+   "type": 11,
+   "heading": "Artigo 5.º — (Incumbências dos centros de saúde)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Incumbências dos centros de saúde)\n\nIncumbe aos centros de saúde, relativamente à mulher grávida, sem encargos para esta:\n\na) Promover a realização das análises necessárias;\n\nb) Proceder ao rastreio de situação de alto risco e à prevenção da prematuridade;\n\nc) Assegurar transporte de grávidas e recém-nascidos em situação de risco, com utilização de meios próprios ou em colaboração com o serviço de emergência médica, as corporações de bombeiros, outras associações humanitárias ou instituições particulares de solidariedade social que possuam serviço de transporte por ambulância;\n\nd) Desenvolver, em cooperação com as escolas, autarquias locais e outras entidades públicas e privadas, acções de informação e esclarecimento sobre a importância do planeamento familiar, da vigilância médica periódica, da preparação para o parto, do parto assistido, das vantagens da amamentação materna e dos cuidados com o recém-nascido."
+  },
+  "75108974": {
+   "fragment_id": "75126743",
+   "type": 11,
+   "heading": "Artigo 6.º — (Protecção da criança)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Protecção da criança)\n\n1 - Durante o primeiro ano de vida a criança será submetida, gratuitamente, ao mínimo de 9 exames médicos, escalonados segundo prescrição médica, de acordo com a sua saúde e o seu estado de desenvolvimento.\n\n2 - Serão igualmente ministradas à criança as vacinas recomendadas pelos competentes serviços centrais do sector da saúde."
+  },
+  "75131375": {
+   "fragment_id": "75126744",
+   "type": 11,
+   "heading": "Artigo 7.º — (Incumbências especiais do Estado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Incumbências especiais do Estado)\n\nIncumbe especialmente ao Estado para protecção da maternidade, da paternidade, do nascituro e da criança, no domínio dos cuidados de saúde:\n\na) Organizar um sistema o mais possível descentralizado de serviços de consulta sobre planeamento familiar e de informação e apoio pré-conceptivo e contraceptivo;\n\nb) Dotar os centros de saúde dos meios humanos e técnicos necessários a uma assistência materno-infantil eficaz;\n\nc) Generalizar e uniformizar a utilização por todos os serviços de fichas de saúde normalizadas, bem como o preenchimento sistemático do boletim de saúde da grávida e do boletim de saúde infantil;\n\nd) Incentivar o recurso aos métodos de preparação para o parto, assegurando as condições necessárias ao pleno exercício dos direitos do casal nos serviços públicos de saúde;\n\ne) Incrementar o parto hospitalar, garantindo a duração do internamento pelo período adequado a cada caso;\n\nf) Implementar uma adequada e descentralizada rede de assistência materno-infantil, designadamente de maternidades dotadas de meios humanos e técnicos que possibilitem uma assistência eficaz à grávida e ao recém-nascido;\n\ng) Promover e incrementar a visitação domiciliária à grávida ou puérpera, assim como ao filho até aos 90 dias de idade, em caso de impedimento de deslocação aos serviços de saúde ou com a finalidade de desenvolver a educação para a saúde;\n\nh) Articular a criação de uma rede nacional de creches, jardins-de-infância e parques infantis, condicionando às necessidades delas decorrentes a aprovação de planos de urbanização, de loteamento de terrenos e de projectos de construção de conjuntos imobiliários, bem como a política de crédito à construção, nomeadamente de unidades fabris, por forma a conciliar o trabalho dos pais com o exercício dos deveres da maternidade e da paternidade;\n\ni) Apoiar as associações de pais de crianças deficientes e os pais de deficientes profundos;\n\nj) Introduzir no regime legal de produção, comercialização e publicidade de produtos dietéticos para as crianças menores de 12 meses as adaptações necessárias ao incremento da amamentação materna;\n\nl) Proceder à adequada reformulação dos currículos de obstetrícia relativos a médicos, enfermeiros e restantes profissionais de saúde;\n\nm) Difundir, nomeadamente através da escola e dos órgãos de comunicação social do sector público, as informações e conhecimentos úteis a que se refere o n.º 1 do artigo 3.º, bem como sobre a higiene alimentar da criança, e, em geral, sobre as normas a observar para a defesa da saúde e do seu pleno desenvolvimento."
+  },
+  "75131376": {
+   "fragment_id": "75126745",
+   "type": 1,
+   "heading": "Capítulo III — Protecção ao trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Protecção ao trabalho"
+  },
+  "75131377": {
+   "fragment_id": "75126746",
+   "type": 11,
+   "heading": "Artigo 8.º — (Âmbito de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Âmbito de aplicação)\n\nO disposto no presente capítulo aplica-se aos trabalhadores abrangidos pelo regime do contrato individual de trabalho, incluindo os trabalhadores agrícolas e do serviço doméstico, bem como os trabalhadores da administração pública central, regional e local, dos institutos públicos, dos serviços públicos com autonomia administrativa e financeira e das demais pessoas colectivas de direito público, qualquer que seja o vínculo."
+  },
+  "75131378": {
+   "fragment_id": "75126747",
+   "type": 11,
+   "heading": "Artigo 9.º — (Direito da mulher à dispensa de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Direito da mulher à dispensa de trabalho)\n\n1 - As mulheres abrangidas pelo disposto no presente capítulo têm direito a uma licença por maternidade de 90 dias, 60 dos quais necessariamente a seguir ao parto, podendo os restantes 30 ser gozados, total ou parcialmente, antes ou depois do parto.\n\n2 - A título excepcional, por incapacidade física e psíquica da mãe, devidamente comprovada por atestado médico e enquanto esta se mantiver, os últimos 30 ou 60 dias de licença de maternidade não imediatamente subsequentes ao parto poderão ser gozados pelo pai.\n\n3 - Em caso de situações de risco clínico que imponha o internamento hospitalar, o período de licença anterior ao parto poderá ser acrescido de mais 30 dias, sem prejuízo do direito aos 60 dias de licença a seguir ao parto.\n\n4 - Em caso de internamento hospitalar da mãe ou da criança durante o período de licença a seguir ao parto, poderá este período ser interrompido, a pedido daquela, pelo tempo de duração do internamento.\n\n5 - O período de licença a seguir ao parto de nado-morto, ou aborto, terá a duração mínima de 10 dias e máxima de 30, graduada de acordo com prescrição médica, devidamente documentada, em função das condições de saúde da mãe.\n\n6 - Em caso de morte de nado-vivo durante o período de licença a seguir ao parto, o mesmo período é reduzido até 10 dias após o falecimento, com a garantia de um período global mínimo de 30 dias a seguir ao parto."
+  },
+  "75131379": {
+   "fragment_id": "75126748",
+   "type": 11,
+   "heading": "Artigo 10.º — (Direito do pai a dispensa de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Direito do pai a dispensa de trabalho)\n\n1 - Se no decurso da licença a seguir ao parto ocorrer a morte da mãe, o pai tem direito a dispensa de trabalho para cuidar do filho, por período de duração igual àquele a que a mãe ainda teria direito e não inferior a 10 dias.\n\n2 - A morte da mãe não trabalhadora durante os 90 dias imediatamente posteriores ao parto confere ao pai do recém-nascido o direito a dispensa de trabalho nos termos referidos no número anterior com as necessárias adaptações."
+  },
+  "75131380": {
+   "fragment_id": "75126749",
+   "type": 11,
+   "heading": "Artigo 11.º — (Adopção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Adopção)\n\nApós a declaração para efeitos de adopção de menor de 3 anos feita nos termos do artigo 1.º do Decreto-Lei n.º 274/80, de 13 de Agosto, o trabalhador ou a trabalhadora que pretende adoptar tem direito a faltar ao trabalho durante 60 dias, para acompanhamento da criança."
+  },
+  "75131381": {
+   "fragment_id": "75126750",
+   "type": 11,
+   "heading": "Artigo 12.º — (Dispensas para consultas e amamentação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Dispensas para consultas e amamentação)\n\n1 - As trabalhadoras grávidas têm direito a dispensa de trabalho para se deslocarem a consultas pré-natais pelo tempo e número de vezes necessários e justificados.\n\n2 - A mãe que, comprovadamente, amamenta o filho tem direito a ser dispensada em cada dia de trabalho por 2 períodos distintos de duração máxima de uma hora para o cumprimento dessa missão enquanto durar e até o filho perfazer 1 ano.\n\n3 - O direito à dispensa do trabalho nos termos do presente artigo efectiva-se sem perda de remuneração e de quaisquer regalias."
+  },
+  "75131382": {
+   "fragment_id": "75126751",
+   "type": 11,
+   "heading": "Artigo 13.º — (Faltas para assistência a menores doentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Faltas para assistência a menores doentes)\n\n1 - Os trabalhadores têm direito a faltar ao trabalho, até 30 dias por ano, para prestar assistência inadiável e imprescindível, em caso de doença ou acidente, a filhos, adoptados ou a enteados menores de 10 anos.\n\n2 - Em caso de hospitalização, o direito a faltar estende-se ao período em que aquela durar, se se tratar de menores de 10 anos, mas não pode ser exercido simultaneamente pelo pai e pela mãe ou equiparados."
+  },
+  "75131383": {
+   "fragment_id": "75126752",
+   "type": 11,
+   "heading": "Artigo 14.º — (Licença especial para assistência a filhos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Licença especial para assistência a filhos)\n\n1 - O pai ou a mãe trabalhadores têm direito a interromper a prestação do trabalho pelo período de 6 meses, prorrogáveis até ao limite máximo de 2 anos a iniciar no termo da licença por maternidade, para acompanhamento do filho.\n\n2 - O exercício do direito referido no número anterior depende de pré-aviso dirigido àquela entidade patronal até 1 mês do início do período de faltas, não podendo o período referido no número anterior ser interrompido."
+  },
+  "75131384": {
+   "fragment_id": "75126753",
+   "type": 11,
+   "heading": "Artigo 15.º — (Trabalho em tempo parcial e horário flexível)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Trabalho em tempo parcial e horário flexível)\n\nOs trabalhadores com um ou mais filhos menores de 12 anos têm direito a trabalhar em horário reduzido ou flexível em condições a regulamentar."
+  },
+  "75131385": {
+   "fragment_id": "75126754",
+   "type": 11,
+   "heading": "Artigo 16.º — (Trabalhos proibidos ou condicionados)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Trabalhos proibidos ou condicionados)\n\nA lei definirá os trabalhos proibidos ou condicionados que impliquem riscos efectivos ou potenciais para a função genética da mulher ou do homem, em função do estado dos conhecimentos científicos e técnicos."
+  },
+  "75131386": {
+   "fragment_id": "75126755",
+   "type": 11,
+   "heading": "Artigo 17.º — (Tarefas desaconselháveis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Tarefas desaconselháveis)\n\n1 - Durante a gravidez, e até 3 meses após o parto, a trabalhadora tem o direito de não desempenhar tarefas clinicamente desaconselháveis, designadamente tarefas violentas ou consistentes na manipulação de produtos perigosos ou tóxicos ou a exposição a condições ambienciais nocivas para a sua saúde, sem prejuízo de não poder recusar-se ao desempenho de tarefas diferentes das habituais, desde que não desaconselháveis.\n\n2 - Durante o período de comprovada amamentação e até 1 ano, a trabalhadora tem direito a não desempenhar tarefas que a exponham à absorção de substâncias nocivas excretáveis no leite materno.\n\n3 - Os competentes serviços centrais do sector de saúde publicarão e sujeitarão a revisão periódica a lista de produtos perigosos ou tóxicos, bem como as condições ambienciais nocivas para a saúde referidas no número anterior.\n\n4 - A trabalhadora grávida é dispensada do cumprimento de obrigações legais e deveres funcionais que impliquem risco para o nascituro."
+  },
+  "75131387": {
+   "fragment_id": "75126756",
+   "type": 11,
+   "heading": "Artigo 18.º — (Regime das faltas e das dispensas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Regime das faltas e das dispensas)\n\nAs faltas ao trabalho previstas nos artigos 9.º, 10.º, 11.º e 13.º não determinam perda de quaisquer direitos, sendo consideradas, para todos os efeitos, como prestação efectiva do trabalho, salvo quanto à remuneração."
+  },
+  "75131388": {
+   "fragment_id": "75126757",
+   "type": 1,
+   "heading": "Capítulo IV — Regimes de segurança social e acção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regimes de segurança social e acção social"
+  },
+  "75131389": {
+   "fragment_id": "75126758",
+   "type": 11,
+   "heading": "Artigo 19.º — (Subsídio de maternidade ou paternidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Subsídio de maternidade ou paternidade)\n\nDurante o gozo das licenças previstas nos artigos 9.º, 10.º e 11.º a trabalhadora ou o trabalhador têm direito:\n\na) Quando abrangidos pelo sistema de segurança social, a um subsídio igual à remuneração média considerada para efeitos de cálculo de subsídio de doença;\n\nb) À remuneração, quando abrangidos pelo regime de protecção social, aplicável à função pública."
+  },
+  "75131390": {
+   "fragment_id": "75126759",
+   "type": 11,
+   "heading": "Artigo 20.º — (Subsídio em caso de assistência a menores doentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Subsídio em caso de assistência a menores doentes)\n\nEm caso de faltas dadas ao abrigo do artigo 13.º e quando não houver lugar a remuneração, é atribuído, pelas instituições de segurança social, um subsídio pecuniário, de montante não superior ao subsídio por doença do próprio trabalhador ou trabalhadora, dependente de condição de recursos, e a alargar progressivamente, na medida das possibilidades."
+  },
+  "75131391": {
+   "fragment_id": "75126760",
+   "type": 11,
+   "heading": "Artigo 21.º — (Relevância para acesso a prestações de Segurança Social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Relevância para acesso a prestações de Segurança Social)\n\nOs períodos de licença referidos no artigo 14.º serão tomados em conta para o cálculo das prestações devidas pelos regimes de protecção social em caso de invalidez ou velhice."
+  },
+  "75131392": {
+   "fragment_id": "75126761",
+   "type": 11,
+   "heading": "Artigo 22.º — (Meios de apoio à infância)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Meios de apoio à infância)\n\n1 - O Estado, em cooperação com as pessoas colectivas de direito público, com as instituições privadas de solidariedade social, organizações de trabalhadores e associações patronais, implementará progressivamente uma rede nacional de equipamentos e serviços de apoio aos trabalhadores com filhos em idade pré-escolar.\n\n2 - A rede de equipamentos e serviços prevista no número anterior visa a prestação de serviços em condições que permitam o acesso dos interessados, independentemente da sua condição económica, incluindo, nomeadamente:\n\na) Estruturas de guarda de crianças, tais como creches, jardins-de-infância, serviços de amas e creches familiares, adequadamente dimensionadas e localizadas, dotadas de meios humanos, técnicos e em geral de condições apropriadas à promoção do desenvolvimento integral da criança;\n\nb) Serviços de apoio domiciliário.\n\n3 - Os horários de funcionamento dos equipamentos e serviços previstos nos números anteriores serão compatibilizados com o exercício da actividade profissional dos pais."
+  },
+  "75131393": {
+   "fragment_id": "75126762",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "75131394": {
+   "fragment_id": "75126763",
+   "type": 11,
+   "heading": "Artigo 23.º — (Outros casos de assistência à família)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Outros casos de assistência à família)\n\nOs trabalhadores têm direito a faltar ao trabalho, até 15 dias por ano, quando se trate de prestar assistência inadiável e imprescindível em caso de doença ao cônjuge, ascendentes, descendentes maiores de 10 anos e afins na linha recta."
+  },
+  "75131395": {
+   "fragment_id": "75126764",
+   "type": 11,
+   "heading": "Artigo 24.º — (Legislação complementar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Legislação complementar)\n\n1 - No prazo de 120 dias a contar da entrada em vigor da presente lei, o Governo aprovará as normas necessárias à sua execução.\n\n2 - O Governo legislará nomeadamente sobre a produção, a comercialização e a publicidade de produtos dietéticos para crianças menores de 1 ano, tendo em vista o incremento da amamentação materna."
+  },
+  "75131396": {
+   "fragment_id": "75126765",
+   "type": 11,
+   "heading": "Artigo 25.º — (Salvaguarda de disposições contratuais mais favoráveis)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Salvaguarda de disposições contratuais mais favoráveis)\n\nO disposto na presente lei não prejudica os direitos emergentes de disposições mais favoráveis constantes de instrumentos de regulamentação colectiva de trabalho."
+  },
+  "75131397": {
+   "fragment_id": "75126766",
+   "type": 11,
+   "heading": "Artigo 26.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Entrada em vigor)\n\nA presente lei entra em vigor no trigésimo dia posterior ao da sua publicação."
+  },
+  "75131405": {
+   "fragment_id": "75129175",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Definições",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 1.º-A — Definições\n\nPara efeitos de aplicação do presente diploma, entende-se por:\n\na) «Trabalhadora grávida» toda a trabalhadora que informe o empregador do seu estado de gestação, por escrito e mediante apresentação de atestado médico;\n\nb) «Trabalhadora puérpera» toda a trabalhadora parturiente, e durante os 98 dias imediatamente posteriores ao parto, que informe o empregador do seu estado, por escrito e mediante apresentação de atestado médico;\n\nc) «Trabalhadora lactante» toda a trabalhadora que amamenta o filho que informe o empregador do seu estado, por escrito e mediante apresentação de atestado médico;\n\nd) «Trabalho nocturno» aquele que é prestado entre as 0 e as 7 horas.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131406": {
+   "fragment_id": "75126738",
+   "type": 11,
+   "heading": "Artigo 2.º — (Igualdade dos pais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Igualdade dos pais)\n\n1 - São garantidas aos pais, em condições de igualdade, a realização profissional e a participação na vida cívica do País.\n\n2 - Os pais são iguais em direitos e deveres quanto à manutenção e educação dos filhos.\n\n3 - Os filhos não podem ser separados dos pais, salvo quando estes não cumpram os seus deveres fundamentais para com eles, e sempre mediante decisão judicial.\n\n4 - São garantidos às mães direitos especiais relacionados com o ciclo biológico da maternidade."
+  },
+  "75131407": {
+   "fragment_id": "75126739",
+   "type": 11,
+   "heading": "Artigo 3.º — (Dever de informar sobre o regime de protecção da maternidade e paternidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Dever de informar sobre o regime de protecção da maternidade e paternidade)\n\n1 - Incumbe ao Estado o dever de informar e divulgar conhecimentos úteis referentes aos direitos das mulheres grávidas, dos nascituros, das crianças e dos pais, designadamente através da utilização dos meios de comunicação social e da elaboração e difusão gratuita da adequada documentação.\n\n2 - A informação prestada nos termos do número anterior deve procurar consciencializar e responsabilizar os progenitores, sem distinção, pelos cuidados e pela educação dos filhos, em ordem à defesa da saúde e à criação de condições favoráveis ao pleno desenvolvimento da criança."
+  },
+  "75131424": {
+   "fragment_id": "75126747",
+   "type": 11,
+   "heading": "Artigo 9.º — Licença por maternidade",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 9.º — Licença por maternidade\n\n1 - A mulher trabalhadora tem direito a uma licença por maternidade de 98 dias consecutivos, 60 dos quais necessariamente a seguir ao parto, podendo os restantes ser gozados, total ou parcialmente, antes ou depois do parto.\n\n2 - Em caso de situação de risco clínico que imponha o internamento hospitalar, o período de licença anterior ao parto pode ser acrescido de um período até 30 dias, sem prejuízo do direito aos 60 dias de licença a seguir ao parto.\n\n3 - Em caso de internamento hospitalar da mãe ou da criança durante o período de licença a seguir ao parto, este período será interrompido, a pedido daquela, pelo tempo de duração do internamento.\n\n4 - Em caso de aborto, a mulher tem direito a licença com a duração mínima de 14 dias e máxima de 30 dias.\n\n5 - É obrigatório o gozo de, pelo menos, 14 dias de licença por maternidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131425": {
+   "fragment_id": "75126748",
+   "type": 11,
+   "heading": "Artigo 10.º — Faltas e licença por paternidade",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 10.º — Faltas e licença por paternidade\n\n1 - O pai pode faltar até dois dias úteis, seguidos ou interpolados, por ocasião do nascimento do filho.\n\n2 - O pai tem direito a licença, por período de duração igual àquele a que a mãe ainda teria direito, nos termos do n.º 1 do artigo 9.º, nos seguintes casos:\n\na) Incapacidade física ou psíquica da mãe, e enquanto esta se mantiver;\n\nb) Morte da mãe;\n\nc) Decisão conjunta dos pais.\n\n3 - No caso previsto na alínea b) do número anterior, o período mínimo de licença assegurado ao pai é de 14 dias.\n\n4 - A morte ou incapacidade física ou psíquica da mãe não trabalhadora durante o período de 98 dias imediatamente a seguir ao parto confere ao pai os direitos previstos nos n.os 2 e 3.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131408": {
+   "fragment_id": "75129176",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Redução do horário de trabalho para assistência a menores deficientes",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 10.º-A — Redução do horário de trabalho para assistência a menores deficientes\n\n1 - Se o recém-nascido for portador de uma deficiência, congénita ou adquirida, a mãe ou o pai trabalhadores têm direito a uma redução do horário de trabalho de cinco horas semanais, até a criança perfazer 1 ano de idade.\n\n2 - Considera-se deficiência aquela que resulte num atraso ou paragem do normal desenvolvimento da criança.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131426": {
+   "fragment_id": "75126749",
+   "type": 11,
+   "heading": "Artigo 11.º — Adopção",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 11.º — Adopção\n\n1 - Em caso de adopção de menor de 3 anos, o candidato a adoptante tem direito a 60 dias consecutivos de licença para acompanhamento do menor, com início a partir da confiança judicial ou administrativa a que se referem os diplomas legais que disciplinam o regime jurídico da adopção.\n\n2 - Quando a confiança administrativa consistir na confirmação da permanência do menor a cargo do adoptante, este tem direito a licença, desde que a data em que o menor ficou de facto a seu cargo tenha ocorrido há menos de 60 dias, e até à data em que estes se completem.\n\n3 - Se ambos os cônjuges forem trabalhadores, o direito referido nos números anteriores só pode ser exercido por um dos membros do casal candidato a adoptante.\n\n4 - O disposto nos n.os 1 e 2 não se aplica se o menor for filho do cônjuge do candidato a adoptante ou se já se encontrar a seu cargo há mais de 60 dias.\n\n5 - Aos casos de adopção é aplicável, com as devidas adaptações, o n.º 3 do artigo 9.º\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131410": {
+   "fragment_id": "75126750",
+   "type": 11,
+   "heading": "Artigo 12.º — (Dispensas para consultas e amamentação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Dispensas para consultas e amamentação)\n\n1 - As trabalhadoras grávidas têm direito a dispensa de trabalho para se deslocarem a consultas pré-natais pelo tempo e número de vezes necessários e justificados.\n\n2 - A mãe que, comprovadamente, amamenta o filho tem direito a ser dispensada em cada dia de trabalho por 2 períodos distintos de duração máxima de uma hora para o cumprimento dessa missão enquanto durar e até o filho perfazer 1 ano.\n\n3 - O direito à dispensa do trabalho nos termos do presente artigo efectiva-se sem perda de remuneração e de quaisquer regalias."
+  },
+  "75131411": {
+   "fragment_id": "75126751",
+   "type": 11,
+   "heading": "Artigo 13.º — (Faltas para assistência a menores doentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Faltas para assistência a menores doentes)\n\n1 - Os trabalhadores têm direito a faltar ao trabalho, até 30 dias por ano, para prestar assistência inadiável e imprescindível, em caso de doença ou acidente, a filhos, adoptados ou a enteados menores de 10 anos.\n\n2 - Em caso de hospitalização, o direito a faltar estende-se ao período em que aquela durar, se se tratar de menores de 10 anos, mas não pode ser exercido simultaneamente pelo pai e pela mãe ou equiparados."
+  },
+  "75131417": {
+   "fragment_id": "75129177",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Faltas para assistência a deficientes",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 13.º-A — Faltas para assistência a deficientes\n\nO disposto no artigo anterior aplica-se, independentemente da idade, a deficientes que sejam filhos, adoptados ou filhos do cônjuge que com este residam e que se encontrem em alguma das situações previstas no artigo 5.º do Decreto-Lei n.º 170/80, de 29 de Maio, ou nas alíneas l), n) e o) do n.º 1 do artigo 2.º do Decreto-Lei n.º 54/92, de 11 de Abril.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131427": {
+   "fragment_id": "75126752",
+   "type": 11,
+   "heading": "Artigo 14.º — Licença especial para assistência a filhos",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 14.º — Licença especial para assistência a filhos\n\n1 - O pai ou a mãe trabalhadores têm direito a licença por um período até seis meses, prorrogável com o limite de dois anos, para acompanhamento de filho, adoptado ou filho do cônjuge que com este resida, durante os primeiros 3 anos de vida.\n\n2 - O exercício do direito referido no número anterior depende de pré-aviso dirigido àquela entidade patronal até 1 mês do início do período de faltas, não podendo o período referido no número anterior ser interrompido.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131428": {
+   "fragment_id": "75126753",
+   "type": 11,
+   "heading": "Artigo 15.º — Trabalho em tempo parcial e horário flexível",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 15.º — Trabalho em tempo parcial e horário flexível\n\n1- Os trabalhadores com um ou mais filhos menores de 12 anos têm direito a trabalhar em horário reduzido ou flexível em condições a regulamentar.\n\n2 - O disposto no número anterior aplica-se, independentemente da idade, em caso de filhos deficientes que se encontrem em alguma das situações previstas no artigo 5.º do Decreto-Lei n.º 170/80, de 29 de Maio, ou nas alíneas l), n) e o) do n.º 1 do artigo 2.º do Decreto-Lei n.º 54/92, de 11 de Abril.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131429": {
+   "fragment_id": "75126754",
+   "type": 11,
+   "heading": "Artigo 16.º — Protecção da segurança e saúde",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 16.º — Protecção da segurança e saúde\n\n1 - As trabalhadoras grávidas, puérperas e lactantes têm direito a especiais condições de segurança e saúde nos locais de trabalho, nos termos dos números seguintes.\n\n2 - Sem prejuízo das obrigações gerais estabelecidas no artigo 8.º do Decreto-Lei n.º 441/91, de 14 de Novembro, nas actividades susceptíveis de apresentarem um risco específico de exposição a agentes, processos ou condições de trabalho, o empregador deve proceder à avaliação da natureza, grau e duração da exposição das trabalhadoras grávidas, puérperas e lactantes, de modo a determinar qualquer risco para a sua segurança e saúde e as repercussões sobre a gravidez ou a amamentação, bem como as medidas a tomar.\n\n3 - Sem prejuízo dos direitos de informação e consulta previstos no artigo 9.º do Decreto-Lei n.º 441/91, de 14 de Novembro, as trabalhadoras grávidas, puérperas e lactantes têm direito a ser informadas, por escrito, dos resultados da avaliação referida no número anterior, bem como das medidas de protecção que sejam tomadas.\n\n4 - Sempre que os resultados da avaliação referida no n.º 2 revelarem riscos para a segurança ou a saúde das trabalhadoras grávidas, puérperas e lactantes ou repercussões sobre a gravidez ou a amamentação, o empregador deve tomar as medidas necessárias para evitar a exposição das trabalhadoras a esses riscos, designadamente:\n\na) Proceder à adaptação das condições de trabalho;\n\nb) Se a adaptação referida na alínea anterior for impossível, excessivamente demorada ou demasiado onerosa, atribuir às trabalhadoras grávidas, puérperas ou lactantes outras tarefas compatíveis com o seu estado e categoria profissional;\n\nc) Se as medidas referidas nas alíneas anteriores não forem viáveis, dispensar do trabalho as trabalhadoras, durante todo o período necessário para evitar a exposição aos riscos.\n\n5 - As medidas adoptadas pelo empregador, nos termos dos números anteriores, não implicam para as trabalhadoras perda ou diminuição de qualquer direito, de origem legal ou convencional, sem prejuízo do disposto no artigo 18.º\n\n6 - É vedado às trabalhadoras grávidas, puérperas e lactantes o exercício de todas as actividades cuja avaliação tenha revelado riscos de exposição aos agentes e condições de trabalho que ponham em perigo a segurança ou a saúde.\n\n7 - As actividades susceptíveis de apresentarem um risco específico de exposição a agentes, processos ou condições de trabalho referidos no n.º 2, bem como os agentes e condições de trabalho referidos no n.º 6, serão determinadas em portaria conjunta dos Ministros das Finanças, da Saúde e do Emprego e da Segurança Social.\n\n8 - A falta de avaliação, a avaliação incorrecta ou a falta de informação dos riscos por parte do empregador, bem como a falta de adopção de medidas adequadas, nos termos do n.º 4, constituem a trabalhadora grávida, puérpera ou lactante, ou os seus representantes, no direito de requerer uma acção de fiscalização à Inspecção-Geral do Trabalho, a realizar com prioridade e urgência.\n\n9 - Nos casos referidos no número anterior, é aplicável o disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 441/91, de 14 de Novembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131430": {
+   "fragment_id": "75126755",
+   "type": 11,
+   "heading": "Artigo 17.º — Dispensa de trabalho nocturno",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 17.º — Dispensa de trabalho nocturno\n\n1 - As trabalhadoras são dispensadas de prestar trabalho nocturno:\n\na) Durante um período de 112 dias antes e depois do parto, dos quais pelo menos metade antes da data presumível do parto;\n\nb) Durante o restante período da gravidez, se for apresentado certificado médico que ateste que tal é necessário para a sua saúde ou para a do nascituro;\n\nc) Durante todo o tempo que durar a amamentação, se for apresentado certificado médico que ateste que tal é necessário para a sua saúde ou para a da criança.\n\n2 - Às trabalhadoras dispensadas da prestação de trabalho nocturno será atribuído, sempre que possível, um horário de trabalho diurno compatível.\n\n3 - As trabalhadoras serão dispensadas do trabalho sempre que não seja possível aplicar o disposto no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131431": {
+   "fragment_id": "75126756",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime das licenças, faltas e dispensas",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 18.º — Regime das licenças, faltas e dispensas\n\n1 - As licenças, faltas e dispensas previstas no artigo 9.º, nos n.os 2 a 4 do artigo 10.º, nos artigos 11.º e 13.º, na alínea c) do n.º 4 do artigo 16.º e no n.º 3 do artigo 17.º não determinam perda de quaisquer direitos e são consideradas, para todos os efeitos legais, salvo quanto à retribuição, como prestação efectiva de serviço, sem prejuízo do disposto no presente diploma quanto ao regime da função pública.\n\n2 - As faltas previstas no n.º 1 do artigo 10.º são remuneradas.\n\n3 - As dispensas previstas no artigo 12.º não determinam perda de quaisquer direitos e são consideradas, para todos os efeitos legais, como prestação efectiva de serviço.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131423": {
+   "fragment_id": "75129178",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Proibição de despedimento",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 18.º-A — Proibição de despedimento\n\n1 - A cessação do contrato de trabalho promovida pela entidade empregadora carece sempre, quanto às trabalhadoras grávidas, puérperas e lactantes, de parecer favorável dos serviços do Ministério do Emprego e da Segurança Social com competência na área da igualdade.\n\n2 - O despedimento de trabalhadoras grávidas, puérperas ou lactantes presume-se feito sem justa causa.\n\n3 - O parecer a que se refere o n.º 1 deve ser comunicado ao empregador e à trabalhadora nos 30 dias subsequentes à recepção do processo de despedimento pelos serviços competentes.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131432": {
+   "fragment_id": "75126758",
+   "type": 11,
+   "heading": "Artigo 19.º — Remuneração ou subsídio",
+   "in_force_from": "1995-06-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 19.º — Remuneração ou subsídio\n\n1 - Durante as licenças, faltas e dispensas referidas no artigo 9.º, nos n.os 2 a 4 do artigo 10.º, nos artigos 11.º e 13.º, na alínea c) do n.º 4 do artigo 16.º e no n.º 3 do artigo 17.º, o trabalhador ou trabalhadora tem direito:\n\na) Quando abrangido pelo regime geral de segurança social, a um subsídio, nos termos definidos em diploma próprio;\n\nb) Quando se trate de funcionário ou agente, à remuneração a que teria direito caso se encontrasse em exercício efectivo de funções, salvo o disposto na primeira parte do n.º 3;\n\n2 - No caso de trabalhadora lactante dispensada do trabalho, nos termos da alínea c) do n.º 4 do artigo 16.º ou do n.º 3 do artigo 17.º, os direitos referidos no número anterior mantêm-se até um ano após o parto.\n\n3 - Quando se trate de funcionário ou agente, as faltas referidas no artigo 13.º entram no cômputo das que, nos termos da legislação geral, podem implicar o desconto da remuneração de exercício, e as faltas previstas no artigo 23.º são equiparadas, para todos os efeitos legais, às faltas por doença do próprio.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131398": {
+   "fragment_id": "75126767",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 14 de Fevereiro de 1984.\n\nO Presidente da Assembleia da República, Manuel Alfredo Tito de Morais.\n\nPromulgada em 20 de Março de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendada em 22 de Março de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "75131437": {
+   "fragment_id": "75129185",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Licença especial para a assistência a deficientes e a doentes crónicos",
+   "in_force_from": "1998-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 102/97 - Diário da República n.º 212/1997, Série I-A de 1997-09-13](https://diariodarepublica.pt/dr/detalhe/lei/102-1997-648877), em vigor a partir de 1998-01-01"
+   ],
+   "markdown": "###### Artigo 14.º-A — Licença especial para a assistência a deficientes e a doentes crónicos\n\n1 - O pai ou mãe trabalhadores têm o direito a licença por período até seis meses, prorrogável com limite de quatro anos, para acompanhamento de filho, adoptado ou filho de cônjuge que com este resida, que seja deficiente ou doente crónico, durante os primeiros 12 anos de vida.\n\n2 - À licença prevista no número anterior é aplicável, com as necessárias adaptações, inclusivamente quanto ao seu exercício, o estabelecido para a licença especial de assistência a filhos do artigo 14.º\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 102/97 - Diário da República n.º 212/1997, Série I-A de 1997-09-13](https://diariodarepublica.pt/dr/detalhe/lei/102-1997-648877), em vigor a partir de 1998-01-01"
+  },
+  "75131438": {
+   "fragment_id": "75126753",
+   "type": 11,
+   "heading": "Artigo 15.º — Trabalho em tempo parcial e horário flexível",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 15.º — Trabalho em tempo parcial e horário flexível\n\n1- Os trabalhadores com um ou mais filhos menores de 12 anos têm direito a trabalhar em horário reduzido ou flexível em condições a regulamentar.\n\n2 - O disposto no número anterior aplica-se, independentemente da idade, em caso de filhos deficientes que se encontrem em alguma das situações previstas no artigo 5.º do Decreto-Lei n.º 170/80, de 29 de Maio, ou nas alíneas l), n) e o) do n.º 1 do artigo 2.º do Decreto-Lei n.º 54/92, de 11 de Abril.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131439": {
+   "fragment_id": "75126754",
+   "type": 11,
+   "heading": "Artigo 16.º — Protecção da segurança e saúde",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 16.º — Protecção da segurança e saúde\n\n1 - As trabalhadoras grávidas, puérperas e lactantes têm direito a especiais condições de segurança e saúde nos locais de trabalho, nos termos dos números seguintes.\n\n2 - Sem prejuízo das obrigações gerais estabelecidas no artigo 8.º do Decreto-Lei n.º 441/91, de 14 de Novembro, nas actividades susceptíveis de apresentarem um risco específico de exposição a agentes, processos ou condições de trabalho, o empregador deve proceder à avaliação da natureza, grau e duração da exposição das trabalhadoras grávidas, puérperas e lactantes, de modo a determinar qualquer risco para a sua segurança e saúde e as repercussões sobre a gravidez ou a amamentação, bem como as medidas a tomar.\n\n3 - Sem prejuízo dos direitos de informação e consulta previstos no artigo 9.º do Decreto-Lei n.º 441/91, de 14 de Novembro, as trabalhadoras grávidas, puérperas e lactantes têm direito a ser informadas, por escrito, dos resultados da avaliação referida no número anterior, bem como das medidas de protecção que sejam tomadas.\n\n4 - Sempre que os resultados da avaliação referida no n.º 2 revelarem riscos para a segurança ou a saúde das trabalhadoras grávidas, puérperas e lactantes ou repercussões sobre a gravidez ou a amamentação, o empregador deve tomar as medidas necessárias para evitar a exposição das trabalhadoras a esses riscos, designadamente:\n\na) Proceder à adaptação das condições de trabalho;\n\nb) Se a adaptação referida na alínea anterior for impossível, excessivamente demorada ou demasiado onerosa, atribuir às trabalhadoras grávidas, puérperas ou lactantes outras tarefas compatíveis com o seu estado e categoria profissional;\n\nc) Se as medidas referidas nas alíneas anteriores não forem viáveis, dispensar do trabalho as trabalhadoras, durante todo o período necessário para evitar a exposição aos riscos.\n\n5 - As medidas adoptadas pelo empregador, nos termos dos números anteriores, não implicam para as trabalhadoras perda ou diminuição de qualquer direito, de origem legal ou convencional, sem prejuízo do disposto no artigo 18.º\n\n6 - É vedado às trabalhadoras grávidas, puérperas e lactantes o exercício de todas as actividades cuja avaliação tenha revelado riscos de exposição aos agentes e condições de trabalho que ponham em perigo a segurança ou a saúde.\n\n7 - As actividades susceptíveis de apresentarem um risco específico de exposição a agentes, processos ou condições de trabalho referidos no n.º 2, bem como os agentes e condições de trabalho referidos no n.º 6, serão determinadas em portaria conjunta dos Ministros das Finanças, da Saúde e do Emprego e da Segurança Social.\n\n8 - A falta de avaliação, a avaliação incorrecta ou a falta de informação dos riscos por parte do empregador, bem como a falta de adopção de medidas adequadas, nos termos do n.º 4, constituem a trabalhadora grávida, puérpera ou lactante, ou os seus representantes, no direito de requerer uma acção de fiscalização à Inspecção-Geral do Trabalho, a realizar com prioridade e urgência.\n\n9 - Nos casos referidos no número anterior, é aplicável o disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 441/91, de 14 de Novembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131440": {
+   "fragment_id": "75126755",
+   "type": 11,
+   "heading": "Artigo 17.º — Dispensa de trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 17.º — Dispensa de trabalho nocturno\n\n1 - As trabalhadoras são dispensadas de prestar trabalho nocturno:\n\na) Durante um período de 112 dias antes e depois do parto, dos quais pelo menos metade antes da data presumível do parto;\n\nb) Durante o restante período da gravidez, se for apresentado certificado médico que ateste que tal é necessário para a sua saúde ou para a do nascituro;\n\nc) Durante todo o tempo que durar a amamentação, se for apresentado certificado médico que ateste que tal é necessário para a sua saúde ou para a da criança.\n\n2 - Às trabalhadoras dispensadas da prestação de trabalho nocturno será atribuído, sempre que possível, um horário de trabalho diurno compatível.\n\n3 - As trabalhadoras serão dispensadas do trabalho sempre que não seja possível aplicar o disposto no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131441": {
+   "fragment_id": "75126756",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime das licenças, faltas e dispensas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 18.º — Regime das licenças, faltas e dispensas\n\n1 - As licenças, faltas e dispensas previstas no artigo 9.º, nos n.os 2 a 4 do artigo 10.º, nos artigos 11.º e 13.º, na alínea c) do n.º 4 do artigo 16.º e no n.º 3 do artigo 17.º não determinam perda de quaisquer direitos e são consideradas, para todos os efeitos legais, salvo quanto à retribuição, como prestação efectiva de serviço, sem prejuízo do disposto no presente diploma quanto ao regime da função pública.\n\n2 - As faltas previstas no n.º 1 do artigo 10.º são remuneradas.\n\n3 - As dispensas previstas no artigo 12.º não determinam perda de quaisquer direitos e são consideradas, para todos os efeitos legais, como prestação efectiva de serviço.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131442": {
+   "fragment_id": "75129178",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Proibição de despedimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 18.º-A — Proibição de despedimento\n\n1 - A cessação do contrato de trabalho promovida pela entidade empregadora carece sempre, quanto às trabalhadoras grávidas, puérperas e lactantes, de parecer favorável dos serviços do Ministério do Emprego e da Segurança Social com competência na área da igualdade.\n\n2 - O despedimento de trabalhadoras grávidas, puérperas ou lactantes presume-se feito sem justa causa.\n\n3 - O parecer a que se refere o n.º 1 deve ser comunicado ao empregador e à trabalhadora nos 30 dias subsequentes à recepção do processo de despedimento pelos serviços competentes.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131443": {
+   "fragment_id": "75129186",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Subsídio em caso de licença especial para assistência a deficientes profundos e doentes crónicos",
+   "in_force_from": "1998-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 102/97 - Diário da República n.º 212/1997, Série I-A de 1997-09-13](https://diariodarepublica.pt/dr/detalhe/lei/102-1997-648877), em vigor a partir de 1998-01-01"
+   ],
+   "markdown": "###### Artigo 21.º-A — Subsídio em caso de licença especial para assistência a deficientes profundos e doentes crónicos\n\n1 - A trabalhadora ou trabalhador têm direito, durante o gozo da licença prevista no artigo 14.º-A, a um subsídio para assistência a deficientes profundos e doentes crónicos, a atribuir pelas instituições de segurança social competentes.\n\n2 - Em qualquer caso, o subsídio referido no número anterior não deverá ser superior ao valor de duas vezes a remuneração mínima mensal garantida mais elevada.\n\n3 - Cabe ao Governo, através de decreto-lei, estabelecer as condições de acesso e de atribuição do subsídio referido nas alíneas anteriores.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 102/97 - Diário da República n.º 212/1997, Série I-A de 1997-09-13](https://diariodarepublica.pt/dr/detalhe/lei/102-1997-648877), em vigor a partir de 1998-01-01"
+  },
+  "75131444": {
+   "fragment_id": "75126761",
+   "type": 11,
+   "heading": "Artigo 22.º — (Meios de apoio à infância)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Meios de apoio à infância)\n\n1 - O Estado, em cooperação com as pessoas colectivas de direito público, com as instituições privadas de solidariedade social, organizações de trabalhadores e associações patronais, implementará progressivamente uma rede nacional de equipamentos e serviços de apoio aos trabalhadores com filhos em idade pré-escolar.\n\n2 - A rede de equipamentos e serviços prevista no número anterior visa a prestação de serviços em condições que permitam o acesso dos interessados, independentemente da sua condição económica, incluindo, nomeadamente:\n\na) Estruturas de guarda de crianças, tais como creches, jardins-de-infância, serviços de amas e creches familiares, adequadamente dimensionadas e localizadas, dotadas de meios humanos, técnicos e em geral de condições apropriadas à promoção do desenvolvimento integral da criança;\n\nb) Serviços de apoio domiciliário.\n\n3 - Os horários de funcionamento dos equipamentos e serviços previstos nos números anteriores serão compatibilizados com o exercício da actividade profissional dos pais."
+  },
+  "75131456": {
+   "fragment_id": "75126747",
+   "type": 11,
+   "heading": "Artigo 9.º — Licença por maternidade",
+   "in_force_from": "1998-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 9.º — Licença por maternidade\n\n1 - A mulher trabalhadora tem direito a uma licença por maternidade de 120 dias consecutivos, 90 dos quais necessariamente a seguir ao parto, podendo os restantes ser gozados, total ou parcialmente, antes ou depois do parto.\n\n2 - Nos casos de nascimentos múltiplos, o período de licença previsto no número anterior é acrescido de 30 dias por cada gemelar além do primeiro.\n\n3 - Em caso de situação de risco clínico que imponha o internamento hospitalar, o período de licença anterior ao parto pode ser acrescido de um período até 30 dias, sem prejuízo do direito aos 90 dias de licença a seguir ao parto.\n\n4 - Em caso de internamento hospitalar da mãe ou da criança durante o período de licença a seguir ao parto, este período será interrompido, a pedido daquela, pelo tempo de duração do internamento.\n\n5 - Em caso de aborto, a mulher tem direito a licença com a duração mínima de 14 dias e máxima de 30 dias.\n\n6 - É obrigatório o gozo de, pelo menos, 14 dias de licença por maternidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131457": {
+   "fragment_id": "75126752",
+   "type": 11,
+   "heading": "Artigo 14.º — Licença especial",
+   "in_force_from": "1998-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 14.º — Licença especial\n\n1 - O pai ou a mãe trabalhadores têm direito a licença por um período até seis meses, prorrogável com o limite de dois anos, para acompanhamento de filho, adoptado ou filho do cônjuge que com este resida, durante os primeiros 3 anos de vida.\n\n2 - No caso de nascimento de um terceiro filho ou mais, a licença prevista no número anterior pode ser prorrogável até três anos.\n\n3 - O exercício dos direitos referidos nos números anteriores depende de pré-aviso dirigido à entidade patronal com antecedência de 30 dias do período de faltas, não podendo o período referido no número anterior ser interrompido.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131451": {
+   "fragment_id": "75129194",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Reinserção profissional",
+   "in_force_from": "1998-04-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-04-28"
+   ],
+   "markdown": "###### Artigo 15.º-A — Reinserção profissional\n\nA fim de garantir uma plena reinserção profissional do trabalhador, após o decurso da licença prevista no artigo 14.º, a entidade empregadora deverá facultar a sua participação em acções de formação e reciclagem profissional\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-04-28"
+  },
+  "75131452": {
+   "fragment_id": "75126754",
+   "type": 11,
+   "heading": "Artigo 16.º — Protecção da segurança e saúde",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 16.º — Protecção da segurança e saúde\n\n1 - As trabalhadoras grávidas, puérperas e lactantes têm direito a especiais condições de segurança e saúde nos locais de trabalho, nos termos dos números seguintes.\n\n2 - Sem prejuízo das obrigações gerais estabelecidas no artigo 8.º do Decreto-Lei n.º 441/91, de 14 de Novembro, nas actividades susceptíveis de apresentarem um risco específico de exposição a agentes, processos ou condições de trabalho, o empregador deve proceder à avaliação da natureza, grau e duração da exposição das trabalhadoras grávidas, puérperas e lactantes, de modo a determinar qualquer risco para a sua segurança e saúde e as repercussões sobre a gravidez ou a amamentação, bem como as medidas a tomar.\n\n3 - Sem prejuízo dos direitos de informação e consulta previstos no artigo 9.º do Decreto-Lei n.º 441/91, de 14 de Novembro, as trabalhadoras grávidas, puérperas e lactantes têm direito a ser informadas, por escrito, dos resultados da avaliação referida no número anterior, bem como das medidas de protecção que sejam tomadas.\n\n4 - Sempre que os resultados da avaliação referida no n.º 2 revelarem riscos para a segurança ou a saúde das trabalhadoras grávidas, puérperas e lactantes ou repercussões sobre a gravidez ou a amamentação, o empregador deve tomar as medidas necessárias para evitar a exposição das trabalhadoras a esses riscos, designadamente:\n\na) Proceder à adaptação das condições de trabalho;\n\nb) Se a adaptação referida na alínea anterior for impossível, excessivamente demorada ou demasiado onerosa, atribuir às trabalhadoras grávidas, puérperas ou lactantes outras tarefas compatíveis com o seu estado e categoria profissional;\n\nc) Se as medidas referidas nas alíneas anteriores não forem viáveis, dispensar do trabalho as trabalhadoras, durante todo o período necessário para evitar a exposição aos riscos.\n\n5 - As medidas adoptadas pelo empregador, nos termos dos números anteriores, não implicam para as trabalhadoras perda ou diminuição de qualquer direito, de origem legal ou convencional, sem prejuízo do disposto no artigo 18.º\n\n6 - É vedado às trabalhadoras grávidas, puérperas e lactantes o exercício de todas as actividades cuja avaliação tenha revelado riscos de exposição aos agentes e condições de trabalho que ponham em perigo a segurança ou a saúde.\n\n7 - As actividades susceptíveis de apresentarem um risco específico de exposição a agentes, processos ou condições de trabalho referidos no n.º 2, bem como os agentes e condições de trabalho referidos no n.º 6, serão determinadas em portaria conjunta dos Ministros das Finanças, da Saúde e do Emprego e da Segurança Social.\n\n8 - A falta de avaliação, a avaliação incorrecta ou a falta de informação dos riscos por parte do empregador, bem como a falta de adopção de medidas adequadas, nos termos do n.º 4, constituem a trabalhadora grávida, puérpera ou lactante, ou os seus representantes, no direito de requerer uma acção de fiscalização à Inspecção-Geral do Trabalho, a realizar com prioridade e urgência.\n\n9 - Nos casos referidos no número anterior, é aplicável o disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 441/91, de 14 de Novembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131453": {
+   "fragment_id": "75126755",
+   "type": 11,
+   "heading": "Artigo 17.º — Dispensa de trabalho nocturno",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 17.º — Dispensa de trabalho nocturno\n\n1 - As trabalhadoras são dispensadas de prestar trabalho nocturno:\n\na) Durante um período de 112 dias antes e depois do parto, dos quais pelo menos metade antes da data presumível do parto;\n\nb) Durante o restante período da gravidez, se for apresentado certificado médico que ateste que tal é necessário para a sua saúde ou para a do nascituro;\n\nc) Durante todo o tempo que durar a amamentação, se for apresentado certificado médico que ateste que tal é necessário para a sua saúde ou para a da criança.\n\n2 - Às trabalhadoras dispensadas da prestação de trabalho nocturno será atribuído, sempre que possível, um horário de trabalho diurno compatível.\n\n3 - As trabalhadoras serão dispensadas do trabalho sempre que não seja possível aplicar o disposto no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131458": {
+   "fragment_id": "75126756",
+   "type": 11,
+   "heading": "Artigo 18.º — Regimes das licenças, faltas e dispensas",
+   "in_force_from": "1998-05-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 18.º — Regimes das licenças, faltas e dispensas\n\n1 - As licenças, faltas e dispensas previstas no artigo 9.º, nos n.os 2 a 4 do artigo 10.º, nos artigos 11.º e 13.º, na alínea c) do n.º 4 do artigo 16.º e no n.º 3 do artigo 17.º não determinam perda de quaisquer direitos e são consideradas, para todos os efeitos legais, salvo quanto à retribuição, como prestação efectiva de serviço, sem prejuízo do disposto no presente diploma quanto ao regime da função pública.\n\n2 - As faltas previstas no n.º 1 do artigo 10.º são remuneradas.\n\n3 - As dispensas previstas no artigo 12.º não determinam perda de quaisquer direitos e são consideradas, para todos os efeitos legais, como prestação efectiva de serviço.\n\n4 - O período de licença especial, concedida nos termos do artigo 14.º da presente lei, conta para efeitos de cálculo da pensão de reforma por invalidez ou velhice.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75131455": {
+   "fragment_id": "75129178",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Proibição de despedimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 18.º-A — Proibição de despedimento\n\n1 - A cessação do contrato de trabalho promovida pela entidade empregadora carece sempre, quanto às trabalhadoras grávidas, puérperas e lactantes, de parecer favorável dos serviços do Ministério do Emprego e da Segurança Social com competência na área da igualdade.\n\n2 - O despedimento de trabalhadoras grávidas, puérperas ou lactantes presume-se feito sem justa causa.\n\n3 - O parecer a que se refere o n.º 1 deve ser comunicado ao empregador e à trabalhadora nos 30 dias subsequentes à recepção do processo de despedimento pelos serviços competentes.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132350": {
+   "fragment_id": "75129175",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Definições",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 1.º-A — Definições\n\nPara efeitos de aplicação do presente diploma, entende-se por:\n\na) 'Trabalhadora grávida' toda a trabalhadora que informe o empregador do seu estado de gestação, por escrito e mediante apresentação de atestado médico;\n\nb) 'Trabalhadora puérpera' toda a trabalhadora parturiente, e durante os 98 dias imediatamente posteriores ao parto, que informe o empregador do seu estado, por escrito e mediante apresentação de atestado médico;\n\nc) 'Trabalhadora lactante' toda a trabalhadora que amamenta o filho que informe o empregador do seu estado, por escrito e mediante apresentação de atestado médico.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132351": {
+   "fragment_id": "75126741",
+   "type": 11,
+   "heading": "Artigo 4.º — (Direito a assistência médica)",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+   ],
+   "markdown": "###### Artigo 4.º — (Direito a assistência médica)\n\n1 - É assegurado à mulher o direito de efectuar gratuitamente as consultas e os exames necessários à correcta preparação e vigilância da gravidez, assim como durante os 60 dias após o parto.\n\n2 - O internamento hospitalar durante os períodos referidos no número anterior é gratuito.\n\n3 - Na preparação e no decurso da gravidez e em função desta, serão igualmente assegurados ao outro progenitor os exames considerados indispensáveis pelo médico assistente da mulher.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+  },
+  "75132352": {
+   "fragment_id": "75126742",
+   "type": 11,
+   "heading": "Artigo 5.º — Incumbências dos serviços de saúde",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+   ],
+   "markdown": "###### Artigo 5.º — Incumbências dos serviços de saúde\n\nIncumbe aos serviços de saúde relativamente aos futuros pais, sem encargos para estes:\n\na) Assegurar as actividades necessárias para uma assistência eficiente e humanizada, na preparação e no acompanhamento clínico da gravidez e do parto;\n\nb) Assegurar o transporte de grávidas e recém-nascidos, em situação de risco, com utilização de meios próprios ou em colaboração com outros serviços;\n\nc) Desenvolver, em cooperação com as escolas, autarquias locais e outras entidades públicas e privadas, acções de informação e esclarecimento sobre a importância do planeamento familiar, da consulta pré-concepcional, da vigilância médica da gravidez, da preparação para o parto, do parto assistido, das vantagens do aleitamento materno e dos cuidados com o recém-nascido.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+  },
+  "75132353": {
+   "fragment_id": "75126743",
+   "type": 11,
+   "heading": "Artigo 6.º — (Protecção da criança)",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+   ],
+   "markdown": "###### Artigo 6.º — (Protecção da criança)\n\n1 - É assegurado à criança, nomeadamente, o direito de efectuar gratuitamente as consultas previstas no Programa de Acção-Tipo em Saúde Infantil e Juvenil do Ministério da Saúde, através da Direcção-Geral da Saúde.\n\n2 - É assegurado à criança, nomeadamente, o direito de efectuar gratuitamente as vacinações que constam do Programa Nacional de Vacinação.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+  },
+  "75132354": {
+   "fragment_id": "75126744",
+   "type": 11,
+   "heading": "Artigo 7.º — (Incumbências especiais do Estado)",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+   ],
+   "markdown": "###### Artigo 7.º — (Incumbências especiais do Estado)\n\nIncumbe especialmente ao Estado para protecção da maternidade, da paternidade, do nascituro e da criança, no domínio dos cuidados de saúde:\n\na) Garantir a acessibilidade aos serviços de saúde reprodutiva, nomeadamente cuidados contraceptivos, pré-concepcionais e de vigilância da gravidez;\n\nb) Dotar os centros de saúde dos meios humanos e técnicos necessários ao cumprimento do preceituado na alínea anterior;\n\nc) Generalizar e uniformizar a utilização do Boletim de Saúde da Grávida e do Boletim de Saúde Infantil e Juvenil;\n\nd) Incentivar o recurso aos métodos de preparação para o parto, assegurando as condições necessárias ao pleno exercício dos direitos do casal nos serviços públicos de saúde;\n\ne) Garantir o parto hospitalar e assegurar os meios humanos e técnicos que possibilitem a assistência eficaz e humanizada à grávida e ao recém-nascido;\n\nf) Promover e incrementar a visitação domiciliária à grávida ou puérpera, assim como ao filho até aos 90 dias de idade, em caso de impedimento de deslocação aos serviços de saúde ou com a finalidade de desenvolver a promoção para a saúde;\n\ng) Desenvolver uma rede nacional de atendimentos diurnos (creches, jardins-de-infância) e de espaços de jogo e de recreio, com estrito cumprimento do Decreto-Lei n.º 379/97, de 27 de Dezembro;\n\nh) Apoiar as associações de doentes ou dos seus representantes, as associações de utentes e consumidores da saúde e as associações promotoras de saúde, na área da saúde reprodutiva e da saúde infantil e juvenil;\n\ni) Desenvolver as medidas adequadas à promoção do aleitamento materno;\n\nj) Fomentar o ensino, a aprendizagem e a formação pré-graduada, pós-graduada e contínua aos profissionais de saúde nas áreas da saúde reprodutiva e da saúde infantil e juvenil;\n\nl) Difundir, nomeadamente através das escolas e dos órgãos de comunicação social, as informações e conhecimentos úteis a que se refere o n.º 1 do artigo 3.º, bem como as medidas referentes à promoção da saúde e do bem-estar.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+  },
+  "75132355": {
+   "fragment_id": "75126747",
+   "type": 11,
+   "heading": "Artigo 9.º — Licença por maternidade",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 9.º — Licença por maternidade\n\n1 - A mulher trabalhadora tem direito a uma licença por maternidade de 120 dias consecutivos, 90 dos quais necessariamente a seguir ao parto, podendo os restantes ser gozados, total ou parcialmente, antes ou depois do parto.\n\n2 - Nos casos de nascimentos múltiplos, o período de licença previsto no número anterior é acrescido de 30 dias por cada gemelar além do primeiro.\n\n3 - Nas situações de risco clínico para a trabalhadora ou para o nascituro, impeditivo do exercício de funções, independentemente do motivo que determine esse impedimento, caso não lhe seja garantido o exercício de funções e ou local compatíveis com o seu estado, a trabalhadora goza do direito a licença, anterior ao parto, pelo período de tempo necessário a prevenir o risco, fixado por prescrição médica, sem prejuízo da licença por maternidade prevista no n.º 1.\n\n4 - Em caso de internamento hospitalar da mãe ou da criança durante o período de licença a seguir ao parto, este período será interrompido, a pedido daquela, pelo tempo de duração do internamento.\n\n5 - Em caso de aborto a mulher tem direito a licença com a duração mínima de 14 dias e máxima de 30 dias.\n\n6 - É obrigatório o gozo de, pelo menos, seis semanas de licença por maternidade a seguir ao parto.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132356": {
+   "fragment_id": "75126748",
+   "type": 11,
+   "heading": "Artigo 10.º — Licença por paternidade",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 10.º — Licença por paternidade\n\n1 - O pai tem direito a uma licença de cinco dias úteis, seguidos ou interpolados, no primeiro mês a seguir ao nascimento do filho.\n\n2 - O pai tem ainda direito a licença, por período de duração igual àquele a que a mãe teria direito, nos termos do n.º 1 do artigo 9.º, e ressalvado o disposto no n.º 6 desse preceito, nos seguintes casos:\n\na) Incapacidade física ou psíquica da mãe, e enquanto esta se mantiver;\n\nb) Morte da mãe;\n\nc) Decisão conjunta dos pais.\n\n3 - No caso previsto na alínea b) do número anterior, o período mínimo de licença assegurado ao pai é de 14 dias.\n\n4 - A morte ou incapacidade física ou psíquica da mãe não trabalhadora durante o período de 98 dias imediatamente a seguir ao parto confere ao pai os direitos previstos nos n.os 2 e 3.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132357": {
+   "fragment_id": "75129176",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Redução do horário de trabalho para assistência a menores deficientes",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 10.º-A — Redução do horário de trabalho para assistência a menores deficientes\n\n1 - Se o recém-nascido for portador de uma deficiência, congénita ou adquirida, a mãe ou o pai trabalhadores têm direito a uma redução do horário de trabalho de cinco horas semanais, até a criança perfazer 1 ano de idade.\n\n2 - Considera-se deficiência aquela que resulte num atraso ou paragem do normal desenvolvimento da criança.\n\n3 - O disposto no n.º 1 é aplicável, com as necessárias adaptações, à tutela, à confiança judicial ou administrativa e à adopção, de acordo com os respectivo regime.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132358": {
+   "fragment_id": "75126749",
+   "type": 11,
+   "heading": "Artigo 11.º — Adopção",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 11.º — Adopção\n\n1 - Em caso de adopção de menor de 15 anos, o candidato a adoptante tem direito a 100 dias consecutivos de licença para acompanhamento do menor, com início a partir da confiança judicial ou administrativa a que se referem os diplomas legais que disciplinam o regime jurídico da adopção.\n\n2 - Quando a confiança administrativa consistir na confirmação da permanência do menor a cargo do adoptante, este tem direito a licença, desde que a data em que o menor ficou de facto a seu cargo tenha ocorrido há menos de 60 dias, e até à data em que estes se completem.\n\n3 - Se ambos os cônjuges forem trabalhadores, o direito referido nos números anteriores pode ser exercido por qualquer dos membros do casal candidato a adoptante integralmente ou por ambos, em tempo parcial ou sucessivamente, conforme decisão conjunta.\n\n4 - O disposto nos n.os 1 e 2 não se aplica se o menor for filho do cônjuge do candidato a adoptante ou se já se encontrar a seu cargo há mais de 60 dias.\n\n5 - Aos casos de adopção é aplicável, com as devidas adaptações, o n.º 3 do artigo 9.º\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132359": {
+   "fragment_id": "75126750",
+   "type": 11,
+   "heading": "Artigo 12.º — (Dispensas para consultas e amamentação)",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+   ],
+   "markdown": "###### Artigo 12.º — (Dispensas para consultas e amamentação)\n\n1 - As trabalhadoras grávidas têm direito a dispensa de trabalho para se deslocarem a consultas pré-natais pelo tempo e número de vezes necessários e justificados.\n\n2 - A mãe que, comprovadamente, amamenta o filho tem direito a ser dispensada em cada dia de trabalho por dois períodos distintos de duração máxima de uma hora para o cumprimento dessa missão, durante todo o tempo que durar a amamentação.\n\n3 - No caso de não haver lugar a amamentação, a mãe ou o pai trabalhador têm direito, por decisão conjunta, à dispensa referida no número anterior para aleitação até o filho perfazer um ano.\n\n4 - No caso de trabalho a tempo parcial, a duração das dispensas referidas nos números anteriores será reduzida na proporção do período normal de trabalho desempenhado.\n\n5 - O direito à dispensa do trabalho nos termos do presente artigo efectiva-se sem perda de remuneração e de quaisquer regalias.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+  },
+  "75132360": {
+   "fragment_id": "75126751",
+   "type": 11,
+   "heading": "Artigo 13.º — Faltas para assistência a menores",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+   ],
+   "markdown": "###### Artigo 13.º — Faltas para assistência a menores\n\n1 - Os trabalhadores têm direito a faltar ao trabalho, até 30 dias por ano, para prestar assistência inadiável e imprescindível, em caso de doença ou acidente, a filhos, adoptados ou a enteados menores de 10 anos.\n\n2 - Em caso de hospitalização, o direito a faltar estende-se ao período em que aquela durar, se se tratar de menores de 10 anos, mas não pode ser exercido simultaneamente pelo pai e pela mãe ou equiparados.\n\n3 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, aos trabalhadores a quem tenha sido deferida a tutela, ou confiada a guarda da criança, por decisão judicial.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+  },
+  "75132361": {
+   "fragment_id": "75126752",
+   "type": 11,
+   "heading": "Artigo 14.º — Licença parental e licença especial para assistência a filho ou adoptado",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 14.º — Licença parental e licença especial para assistência a filho ou adoptado\n\n1 - Para assistência a filho ou adoptado e até aos seis anos de idade da criança, o pai e a mãe que não estejam impedidos ou inibidos totalmente de exercer o poder paternal têm direito, em alternativa:\n\na) A licença parental de três meses;\n\nb) A trabalhar a tempo parcial durante seis meses, com um período normal de trabalho igual a metade do tempo completo;\n\nc) A períodos de licença parental e de trabalho a tempo parcial em que a duração total das ausências seja igual aos períodos normais de trabalho de três meses.\n\n2 - O pai e a mãe podem gozar qualquer dos direitos referidos no número anterior de modo consecutivo ou até três períodos interpolados, não sendo permitida a acumulação por um dos progenitores do direito do outro.\n\n3 - Depois de esgotado qualquer dos direitos referidos nos números anteriores, o pai ou a mãe tem direito a licença especial para assistência a filho ou adoptado, de modo consecutivo ou interpolado, até ao limite de dois anos.\n\n4 - No caso de nascimento de um terceiro filho ou mais, a licença prevista no número anterior pode ser prorrogável até três anos.\n\n5 - O trabalhador tem direito a licença para assistência a filho de cônjuge ou de pessoa em união de facto, que com este resida, nos termos do presente artigo.\n\n6 - O exercício dos direitos referidos nos números anteriores depende de aviso prévio dirigido à entidade patronal com antecedência de 30 dias relativamente ao início do período de licença ou de trabalho a tempo parcial.\n\n7 - Em alternativa ao disposto no n.º 1, o pai e a mãe podem ter ausências interpoladas ao trabalho com duração igual aos períodos normais de trabalho de três meses, desde que reguladas em convenção colectiva.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132362": {
+   "fragment_id": "75129194",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Reinserção profissional",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-04-28"
+   ],
+   "markdown": "###### Artigo 15.º-A — Reinserção profissional\n\nA fim de garantir uma plena reinserção profissional do trabalhador, após o decurso da licença prevista nos artigos 14.º e 14.º-A, a entidade empregadora deverá facultar a sua participação em acções de formação e reciclagem profissional.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-04-28"
+  },
+  "75132363": {
+   "fragment_id": "75126756",
+   "type": 11,
+   "heading": "Artigo 18.º — Regimes das licenças, faltas e dispensas",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 18.º — Regimes das licenças, faltas e dispensas\n\n1 - As licenças, faltas e dispensas previstas no artigo 9.º, nos n.os 2 a 4 do artigo 10.º, nos artigos 11.º e 13.º, na alínea c) do n.º 4 do artigo 16.º e no n.º 4 do artigo 17.º não determinam perda de quaisquer direitos e são consideradas, para todos os efeitos legais, salvo quanto à retribuição, como prestação efectiva de serviço, sem prejuízo do disposto no presente diploma quanto ao regime da função pública.\n\n2 - As dispensas previstas no artigo 12.º não determinam perda de quaisquer direitos e são consideradas, para todos os efeitos legais, como prestação efectiva de serviço.\n\n3 - Os períodos de licença parental e especial, previstos nos artigos 14.º e 14.º-A da presente lei, são tomados em consideração para a taxa de formação das pensões de invalidez e velhice dos regimes de segurança social.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132364": {
+   "fragment_id": "75129178",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Protecção no despedimento",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 18.º-A — Protecção no despedimento\n\n1 - A cessação do contrato de trabalho de trabalhadoras grávidas, puérperas ou lactantes, promovida pela entidade empregadora, carece sempre de parecer prévio da entidade que, no âmbito do Ministério do Trabalho e da Solidariedade, tenha competência na área da igualdade de oportunidades entre homens e mulheres.\n\n2 - O despedimento de trabalhadoras grávidas, puérperas ou lactantes presume-se feito sem justa causa.\n\n3 - O parecer referido no n.º 1 deve ser comunicado à entidade empregadora e à trabalhadora nos 30 dias subsequentes à recepção do processo de despedimento pela entidade competente.\n\n4 - Se o parecer referido no n.º 1 for desfavorável ao despedimento, este só pode ser efectuado após decisão judicial que reconheça a existência de motivo justificativo.\n\n5 - É nulo o despedimento de trabalhadora grávida, puérpera ou lactante caso não tenha sido solicitado o parecer referido no n.º 1, cabendo o ónus da prova deste facto à entidade empregadora.\n\n6 - A suspensão judicial do despedimento de trabalhadora grávida, puérpera ou lactante só não será decretada se o parecer referido no n.º 1 for favorável e o tribunal considerar que existe probabilidade séria de verificação do motivo justificativo.\n\n7 - Sendo decretada a suspensão judicial do despedimento de trabalhadora grávida, puérpera ou lactante, se a entidade empregadora não pagar a retribuição devida é aplicável o disposto no artigo 10.º do Decreto-Lei n.º 69-A/87, de 9 de Fevereiro.\n\n8 - Se o despedimento de trabalhadora grávida, puérpera ou lactante for considerado inválido, esta tem direito, em alternativa à reintegração, a uma indemnização em dobro da prevista na lei geral ou em convenção colectiva aplicável, sem prejuízo, em qualquer caso, de indemnização por danos não patrimoniais.\n\n9 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, no âmbito das relações públicas de emprego.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132344": {
+   "fragment_id": "75132585",
+   "type": 11,
+   "heading": "Artigo 18.º-B — Adaptação da legislação",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+   ],
+   "markdown": "###### Artigo 18.º-B — Adaptação da legislação\n\nFicam revogadas todas as disposições legais equiparando a ausência ao serviço devida a gravidez de risco à situação de ausência por doença e alteradas ou revogadas de acordo com o presente diploma todas as disposições aplicáveis à gravidez em situação de risco.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+  },
+  "75132365": {
+   "fragment_id": "75126758",
+   "type": 11,
+   "heading": "Artigo 19.º — Remuneração ou subsídio",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 19.º — Remuneração ou subsídio\n\n1 - Durante as licenças, faltas e dispensas referidas nos artigos 9.º, 10.º, 11.º, 13.º, na alínea c) do n.º 4 do artigo 16.º e no n.º 4 do artigo 17.º, o trabalhador tem direito a:\n\na) Quando abrangido pelo regime geral de segurança social, a um subsídio, nos termos definidos em diploma próprio;\n\nb) Quando se trate de funcionário ou agente, à remuneração a que teria direito caso se encontrasse em exercício efectivo de funções, salvo o disposto na primeira parte do n.º 4.\n\n2 - O disposto no número anterior é ainda aplicável aos primeiros 15 dias, ou período equivalente, da licença parental gozada pelo pai, desde que sejam imediatamente subsequentes à licença por maternidade ou por paternidade.\n\n3 - No caso de trabalhadora lactante dispensada do trabalho, nos termos da alínea c) do n.º 4 do artigo 16.º ou do n.º 4 do artigo 17.º, os direitos referidos no número anterior mantêm-se até um ano após o parto.\n\n4 - Quando se trate de funcionário ou agente, as faltas referidas no artigo 13.º entram no cômputo das que, nos termos da legislação geral, podem implicar o desconto da remuneração de exercício, e as faltas previstas no artigo 23.º são equiparadas, para todos os efeitos legais, às faltas por doença do próprio.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132345": {
+   "fragment_id": "75132586",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Faltas especiais",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+   ],
+   "markdown": "###### Artigo 19.º-A — Faltas especiais\n\n1 - Os trabalhadores podem faltar até 30 dias consecutivos, a seguir ao nascimento de netos que sejam filhos de adolescentes com idade até aos 16 anos desde que consigo vivam em comunhão de mesa e habitação.\n\n2 - No caso de ambos os avós serem trabalhadores, o direito previsto no número anterior pode ser exercido por qualquer um dos avós, por decisão conjunta destes.\n\n3 - Durante o período de faltas referido no número anterior, o trabalhador goza dos direitos previstos no n.º 1 do artigo 19.º\n\n4 - O trabalhador não goza dos direitos referidos nos números anteriores quando o outro ascendente não exercer actividade profissional, excepto em caso de impossibilidade física ou psíquica deste.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+  },
+  "75132346": {
+   "fragment_id": "75126759",
+   "type": 11,
+   "heading": "Artigo 20.º — (Subsídio em caso de assistência a menores doentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Subsídio em caso de assistência a menores doentes)\n\nEm caso de faltas dadas ao abrigo do artigo 13.º e quando não houver lugar a remuneração, é atribuído, pelas instituições de segurança social, um subsídio pecuniário, de montante não superior ao subsídio por doença do próprio trabalhador ou trabalhadora, dependente de condição de recursos, e a alargar progressivamente, na medida das possibilidades."
+  },
+  "75132366": {
+   "fragment_id": "75126760",
+   "type": 11,
+   "heading": "Artigo 21.º — Relevância para acesso a prestações de segurança social",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+   ],
+   "markdown": "###### Artigo 21.º — Relevância para acesso a prestações de segurança social\n\nOs períodos de licença referidos nos artigos 14.º e 14.º-A serão tomados em conta para o cálculo das prestações devidas pelos regimes de protecção social em caso de invalidez ou velhice.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+  },
+  "75132348": {
+   "fragment_id": "75129186",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Subsídio em caso de licença especial para assistência a deficientes profundos e doentes crónicos",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 102/97 - Diário da República n.º 212/1997, Série I-A de 1997-09-13](https://diariodarepublica.pt/dr/detalhe/lei/102-1997-648877), em vigor a partir de 1998-01-01"
+   ],
+   "markdown": "###### Artigo 21.º-A — Subsídio em caso de licença especial para assistência a deficientes profundos e doentes crónicos\n\n1 - A trabalhadora ou trabalhador têm direito, durante o gozo da licença prevista no artigo 14.º-A, a um subsídio para assistência a deficientes profundos e doentes crónicos, a atribuir pelas instituições de segurança social competentes.\n\n2 - Em qualquer caso, o subsídio referido no número anterior não deverá ser superior ao valor de duas vezes a remuneração mínima mensal garantida mais elevada.\n\n3 - Cabe ao Governo, através de decreto-lei, estabelecer as condições de acesso e de atribuição do subsídio referido nas alíneas anteriores.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 102/97 - Diário da República n.º 212/1997, Série I-A de 1997-09-13](https://diariodarepublica.pt/dr/detalhe/lei/102-1997-648877), em vigor a partir de 1998-01-01"
+  },
+  "75132349": {
+   "fragment_id": "75126761",
+   "type": 11,
+   "heading": "Artigo 22.º — (Meios de apoio à infância)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Meios de apoio à infância)\n\n1 - O Estado, em cooperação com as pessoas colectivas de direito público, com as instituições privadas de solidariedade social, organizações de trabalhadores e associações patronais, implementará progressivamente uma rede nacional de equipamentos e serviços de apoio aos trabalhadores com filhos em idade pré-escolar.\n\n2 - A rede de equipamentos e serviços prevista no número anterior visa a prestação de serviços em condições que permitam o acesso dos interessados, independentemente da sua condição económica, incluindo, nomeadamente:\n\na) Estruturas de guarda de crianças, tais como creches, jardins-de-infância, serviços de amas e creches familiares, adequadamente dimensionadas e localizadas, dotadas de meios humanos, técnicos e em geral de condições apropriadas à promoção do desenvolvimento integral da criança;\n\nb) Serviços de apoio domiciliário.\n\n3 - Os horários de funcionamento dos equipamentos e serviços previstos nos números anteriores serão compatibilizados com o exercício da actividade profissional dos pais."
+  },
+  "75132367": {
+   "fragment_id": "75126763",
+   "type": 11,
+   "heading": "Artigo 23.º — (Outros casos de assistência à família)",
+   "in_force_from": "1999-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+   ],
+   "markdown": "###### Artigo 23.º — (Outros casos de assistência à família)\n\n1 - O trabalhador tem direito a faltar ao trabalho até 15 dias por ano, para prestar assistência inadiável e imprescindível em caso de doença ou acidente, ao cônjuge ou pessoa em união de facto, ascendente, descendente com mais de 10 anos de idade, ou afim na linha recta.\n\n2 - O disposto no número anterior é aplicável, com as necessárias adaptações, aos trabalhadores a quem tenha sido deferida a tutela ou confiada a guarda da criança, por decisão judicial.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30"
+  },
+  "75132295": {
+   "fragment_id": "75129235",
+   "type": 11,
+   "heading": "Artigo 25.º-A — Contra-ordenações",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 9.º do/a [Lei n.º 118/99 - Diário da República n.º 186/1999, Série I-A de 1999-08-11](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 25.º-A — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a violação do artigo 9.º e dos n.os 2, 4 e 6 do artigo 16.º, de acordo com a regulamentação prevista no n.º 7 do mesmo artigo.\n\n2 - Constitui contra-ordenação grave a violação do artigo 10.º, do artigo 10.º-A, dos n.os 1, 2 e 5 do artigo 11.º, dos n.os 1 e 2 do artigo 12.º e dos artigos 13.º, 13.º-A, 14.º, 14.º-A, 16.º, 17.º e 18.º-A.\n\n3 - Constitui contra-ordenação leve a violação do artigo 23.º\n\n> Aditado pelo/a Artigo 9.º do/a [Lei n.º 118/99 - Diário da República n.º 186/1999, Série I-A de 1999-08-11](https://diariodarepublica.pt/dr/detalhe/lei/118-1999-423061), em vigor a partir de 1999-12-01"
+  },
+  "75132296": {
+   "fragment_id": "75126766",
+   "type": 11,
+   "heading": "Artigo 26.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Entrada em vigor)\n\nA presente lei entra em vigor no trigésimo dia posterior ao da sua publicação."
+  },
+  "75132818": {
+   "fragment_id": "75129176",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Redução do horário de trabalho para assistência a menores deficientes",
+   "in_force_from": "2000-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2000 - Diário da República n.º 103/2000, Série I-A de 2000-05-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2000-281661), em vigor a partir de 2000-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 10.º-A — Redução do horário de trabalho para assistência a menores deficientes\n\n1 - Se o recém-nascido for portador de uma deficiência, congénita ou adquirida, a mãe ou o pai trabalhadores têm direito a uma redução do horário de trabalho de cinco horas semanais, até a criança perfazer 1 ano de idade.\n\n2 - Considera-se deficiência aquela que resulte num atraso ou paragem do normal desenvolvimento da criança.\n\n3 - O disposto no n.º 1 é aplicável, com as necessárias adaptações, à tutela, à confiança judicial ou administrativa e à adopção, de acordo com os respectivos regimes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2000 - Diário da República n.º 103/2000, Série I-A de 2000-05-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2000-281661), em vigor a partir de 2000-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132819": {
+   "fragment_id": "75126756",
+   "type": 11,
+   "heading": "Artigo 18.º — Regimes das licenças, faltas e dispensas",
+   "in_force_from": "2000-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70/2000 - Diário da República n.º 103/2000, Série I-A de 2000-05-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2000-281661), em vigor a partir de 2000-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 18.º — Regimes das licenças, faltas e dispensas\n\n1 - As licenças, faltas e dispensas previstas no artigo 9.º, nos n.os 2 a 4 do artigo 10.º, nos artigos 11.º e 13.º, na alínea c) do n.º 4 do artigo 16.º e no n.º 3 do artigo 17.º não determinam perda de quaisquer direitos e são consideradas, para todos os efeitos legais, salvo quanto à retribuição, como prestação efectiva de serviço, sem prejuízo do disposto no presente diploma quanto ao regime da função pública.\n\n2 - As dispensas previstas no artigo 12.º não determinam perda de quaisquer direitos e são consideradas, para todos os efeitos legais, como prestação efectiva de serviço.\n\n3 - Os períodos de licença parental e especial, previstos nos artigos 14.º e 14.º-A da presente lei, são tomados em consideração para a taxa de formação das pensões de invalidez e velhice dos regimes de segurança social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70/2000 - Diário da República n.º 103/2000, Série I-A de 2000-05-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2000-281661), em vigor a partir de 2000-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/98 - Diário da República n.º 98/1998, Série I-A de 1998-04-28](https://diariodarepublica.pt/dr/detalhe/lei/18-1998-176485), em vigor a partir de 1998-05-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  },
+  "75132820": {
+   "fragment_id": "75126758",
+   "type": 11,
+   "heading": "Artigo 19.º — Remuneração ou subsídio",
+   "in_force_from": "2000-06-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2000 - Diário da República n.º 103/2000, Série I-A de 2000-05-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2000-281661), em vigor a partir de 2000-06-03",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+   ],
+   "markdown": "###### Artigo 19.º — Remuneração ou subsídio\n\n1 - Durante as licenças, faltas e dispensas referidas nos artigos 9.º, 10.º, 11.º e 13.º, na alínea c) do n.º 4 do artigo 16.º, e no n.º 3 do artigo 17.º, o trabalhador tem direito a:\n\na) Quando abrangido pelo regime geral de segurança social, a um subsídio, nos termos definidos em diploma próprio;\n\nb) Quando se trate de funcionário ou agente, à remuneração a que teria direito caso se encontrasse em exercício efectivo de funções, salvo o disposto na primeira parte do n.º 4.\n\n2 - O disposto no número anterior é ainda aplicável aos primeiros 15 dias, ou período equivalente, da licença parental gozada pelo pai, desde que sejam imediatamente subsequentes à licença por maternidade ou por paternidade.\n\n3 - No caso de trabalhadora lactante dispensada do trabalho, nos termos da alínea c) do n.º 4 do artigo 16.º ou do n.º 3 do artigo 17.º, os direitos referidos no número anterior mantêm-se até um ano após o parto.\n\n4 - Quando se trate de funcionário ou agente, as faltas referidas no artigo 13.º entram no cômputo das que, nos termos da legislação geral, podem implicar o desconto da remuneração de exercício, e as faltas previstas no artigo 23.º são equiparadas, para todos os efeitos legais, às faltas por doença do próprio.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2000 - Diário da República n.º 103/2000, Série I-A de 2000-05-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2000-281661), em vigor a partir de 2000-06-03\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 142/99 - Diário da República n.º 203/1999, Série I-A de 1999-08-31](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), em vigor a partir de 1999-09-30\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/95 - Diário da República n.º 134/1995, Série I-A de 1995-06-09](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), em vigor a partir de 1995-06-14"
+  }
+ }
+}

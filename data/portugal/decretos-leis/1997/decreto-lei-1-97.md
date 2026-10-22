@@ -1,0 +1,170 @@
+---
+schema_version: '1.0'
+id: pt:dre:302170:por
+title: Decreto-Lei n.º 1/97
+short_title: null
+summary: Regula a aceitação pelo Estado de cláusulas de compensação (netting/set-off) no âmbito de acordos sobre produtos
+  derivados a celebrar nos mercados financeiros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 1/97
+official_date: null
+publication_date: '1997-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 5/1997, Série I-A de 1997-01-07
+  number: '5'
+  series: I
+  supplement: null
+  pages: 48 - 48
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/01/005a00/00480048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/1/1997/01/07/p/dre/pt/html
+  oj: null
+  dre: '302170'
+  dre_path: /dr/detalhe/decreto-lei/1-1997-302170
+  internal: pt:dre:302170:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1997-302170
+  metadata_url: https://data.dre.pt/eli/dec-lei/1/1997/01/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1997-302170
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-01-07T00:00:00Z'
+integrity:
+  source_sha256: 2a39fbacc6e73cbd2946ce4015156ed270d18110414fe963e4e4c773a1ba093e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-1-302170.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato
+- Divisa
+- Ministro das Finanças
+- Mercado Financeiro
+- Pessoa Coletiva
+- Instituição Financeira
+- TAXA de Câmbio
+- TAXA de JURO
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/10-b/1996/03/23/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 1/97
+
+de 7 de Janeiro
+
+O desenvolvimento crescente das relações do Estado com os mercados financeiros, num contexto de crescente integração dos mesmos, exige que a gestão da dívida pública se adeqúe à permanente evolução do seu funcionamento, em ordem a que os interesses do Estado possam ser cabalmente prosseguidos com a necessária flexibilidade.
+
+Entre as medidas de carácter legislativo que cumpre adoptar, destaca-se a necessidade de adaptar a nossa lei, tal como têm feito outros Estados europeus, às práticas contratuais vigentes nos mercados financeiros em matéria de acordos sobre produtos financeiros derivados.
+
+Importa, nomeadamente, neste âmbito, regular com clareza a aceitação pelo Estado das cláusulas de compensação (denominadas de netting e set-off) que constam daqueles acordos de enquadramento, eliminando por esta via as dúvidas que, na ausência de preceito expresso derrogando o artigo 853.º, n.º 1, alínea c), do Código Civil, se suscitam quanto à possibilidade da sua consagração nos contratos a celebrar pelo Estado.
+
+Assim, tendo em consideração o disposto no artigo 71.º da [Lei n.º 10-B/96](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), de 23 de Março:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, do Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Nos contratos financeiros compreendidos no âmbito do presente decreto-lei pode o Estado, pelo Ministro das Finanças, com faculdade de delegação, aceitar cláusulas de compensação de créditos e débitos da mesma natureza, ou de natureza similar, desde que decorrentes desses contratos.
+
+###### Artigo 2.º
+
+Para efeitos do presente decreto-lei, entende-se por contratos financeiros:
+
+a) Contratos relativos a taxas de juro:
+
+i) Swaps de taxas de juro (na mesma moeda);
+
+ii) Swaps de taxas de juro variáveis, de naturezas diferentes;
+
+iii) Contratos a prazo relativos a taxas de juro (forward rate agreements swaps-fras);
+
+iv) Contratos de futuros relativos a taxas de juro;
+
+v) Contratos de opções relativos a taxas de juro;
+
+vi) Outros contratos de natureza similar;
+
+b) Contratos relativos a taxas de câmbio e a ouro:
+
+i) Contratos relativos a taxas de câmbio à vista;
+
+ii) Contratos a prazo relativos a divisas;
+
+iii) Swaps cruzados (relativos a taxas de juro e taxas cambiais);
+
+iv) Contratos de futuros de câmbio;
+
+v) Contratos de opções sobre divisas;
+
+vi) Outros contratos de natureza similar.
+
+###### Artigo 3.º
+
+1 - As cláusulas de compensação que podem ser aceites pelo Estado têm por conteúdo a determinação de valores ou taxas no termo dos contratos financeiros em causa, mediante a sua compensação, de forma que se fixe o montante líquido devido por uma parte à outra e apenas tal montante seja exigível na data dos termos dos contratos.
+
+2 - Os acordos de compensação a celebrar pelo Estado são bilaterais e podem respeitar a contratos financeiros presentes ou futuros.
+
+3 - Os acordos de compensação podem reportar-se a contratos financeiros certos e determinados ou integrar-se em acordos gerais que disponham sobre a compensação dos montantes devidos nos termos de um ou mais contratos financeiros celebrados entre as partes.
+
+###### Artigo 4.º
+
+1 - O Ministro das Finanças pode, por despacho, autorizar outras pessoas colectivas públicas a aceitar cláusulas de compensação em contratos financeiros.
+
+2 - As pessoas colectivas públicas que sejam instituições financeiras não carecem da autorização prevista no precedente n.º 1.
+
+Visto e aprovado em Conselho de Ministros de 21 de Novembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.
+
+**Promulgado em 19 de Dezembro de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 26 de Dezembro de 1996.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

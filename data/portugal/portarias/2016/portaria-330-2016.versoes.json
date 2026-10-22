@@ -1,0 +1,147 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105578484:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-117114269",
+ "dre_path": "/dr/detalhe/portaria/330-2016-105578484",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117123975",
+    "117123976",
+    "117123977",
+    "117123978",
+    "117123979",
+    "117123980",
+    "117123982"
+   ]
+  },
+  {
+   "date": "2018-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117114263:por",
+     "title": "Portaria n.º 302/2018",
+     "published": "2018-11-26",
+     "dre_path": "/dr/detalhe/portaria/302-2018-117114263"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "117123975",
+    "117124055",
+    "117123977",
+    "117123978",
+    "117124056",
+    "117123980",
+    "117123981",
+    "117124057"
+   ]
+  }
+ ],
+ "fragments": {
+  "117123975": {
+   "fragment_id": "117114270",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 330/2016\n\nde 20 de dezembro\n\nA Esclerose Múltipla é uma doença crónica, inflamatória e autoimune, desmielinizante e neurodegenerativa do sistema nervoso central.\n\nAs especialidades farmacêuticas aprovadas no tratamento da Esclerose Múltipla são medicamentos que permitem retardar a evolução da doença, possibilitando um aumento da esperança de vida e uma melhoria da qualidade de vida.\n\nTodavia, considerando as características patológicas da doença a que se destinam, pelo seu grau de eficácia e perfil de segurança, estes medicamentos deverão ser administrados sob estreita vigilância médica.\n\nNo âmbito do tratamento da Esclerose Múltipla, as unidades hospitalares do Serviço Nacional de Saúde (SNS) dispensam gratuitamente os medicamentos indicados para o seu tratamento, nos termos e condições previstos na presente Portaria.\n\nNos termos do disposto na alínea c) do n.º 2 do artigo 22.º do Decreto-Lei n.º 97/2015, de 1 de junho, que criou o Sistema Nacional de Tecnologias de Saúde (SiNATS), podem ser estabelecidas regimes excecionais de comparticipação para determinadas patologias, mediante portaria do membro do Governo responsável pela área da saúde.\n\nConsiderando também que o n.º 3 do artigo 22.º do mesmo diploma legal prevê que «os regimes excecionais de comparticipação obedecem a procedimento que pode incluir avaliação prévia determinada pelo órgão que autorizar a comparticipação», impõe-se a revisão do presente regime excecional de comparticipação de medicamentos destinados ao tratamento da Esclerose Múltipla, garantindo o acesso a novos medicamentos.\n\nAssim:\n\nAo abrigo do disposto no artigo 22.º do Decreto-Lei n.º 97/2015, de 1 de junho, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:"
+  },
+  "117123976": {
+   "fragment_id": "117114271",
+   "type": 11,
+   "heading": "Artigo 1.º — Medicamentos abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Medicamentos abrangidos\n\nOs medicamentos destinados ao tratamento de doentes com Esclerose Múltipla beneficiam de um regime excecional de comparticipação, nos termos estabelecidos na presente Portaria."
+  },
+  "117123977": {
+   "fragment_id": "117114272",
+   "type": 11,
+   "heading": "Artigo 2.º — Prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prescrição\n\nOs medicamentos constantes do anexo à presente Portaria, da qual faz parte integrante, apenas podem ser prescritos por médicos neurologistas nos respetivos serviços especializados dos hospitais integrados no Serviço Nacional de Saúde (SNS), nomeadamente, serviços de neurologia, devendo na receita médica constar a referência expressa à presente Portaria."
+  },
+  "117123978": {
+   "fragment_id": "117114273",
+   "type": 11,
+   "heading": "Artigo 3.º — Dispensa dos medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dispensa dos medicamentos\n\n1 - A dispensa dos medicamentos constantes do Anexo à presente Portaria é efetuada exclusivamente através dos serviços farmacêuticos dos hospitais do SNS.\n\n2 - A dispensa destes medicamentos é gratuita para o doente, sendo o respetivo encargo da responsabilidade do hospital do SNS onde o mesmo é prescrito, salvo se a responsabilidade pelo encargo couber, legal ou contratualmente, a qualquer subsistema de saúde, empresa seguradora ou outra entidade pública ou privada.\n\n3 - Para efeitos de monitorização da utilização dos medicamentos abrangidos pela presente Portaria ficam os hospitais do SNS e as administrações regionais de saúde obrigados a enviar ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P., a informação que por este for definida.\n\n4 - A informação referida no número anterior será enviada mensalmente até ao 10.º dia do mês seguinte àquele a que respeita."
+  },
+  "117123979": {
+   "fragment_id": "117114274",
+   "type": 11,
+   "heading": "Artigo 4.º — Extensão do regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Extensão do regime\n\nA inclusão de outros medicamentos no anexo à presente Portaria está dependente de requerimento do respetivo titular de autorização de introdução no mercado, nos termos definidos no Decreto-Lei n.º 97/2015, de 1 de junho, devendo, em caso de deferimento, ser o mesmo alterado em conformidade."
+  },
+  "117123980": {
+   "fragment_id": "117124075",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nÉ revogado o Despacho n.º 11728/2004, publicado no Diário da República, 2.ª série, n.º 139, de 15 de junho, alterado pelo Despacho n.º 5775/2005, publicado no Diário da República, 2.ª série, n.º 54, de 17 de março, este último objeto da Declaração de Retificação n.º 653/2005, publicada no Diário da República, 2.ª série, n.º 79, de 22 de abril, e alterado pelo Despachos n.os 10303/2009, 12456/2010, 13654/2012 e 7468/2015, publicados no Diário da República, 2.ª série, n.os 76, de 20 de abril, 148, de 2 de agosto, 204, de 22 de outubro, e 130, de 7 de julho, respetivamente."
+  },
+  "117123982": {
+   "fragment_id": "117124077",
+   "type": 14,
+   "heading": "Anexo — Acetato de glatirâmero",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Acetato de glatirâmero\n\nFumarato de dimetilo\n\nInterferão-beta 1a\n\nInterferão-beta 1b\n\nPeginterferão beta-1a\n\nTeriflunomida"
+  },
+  "117124055": {
+   "fragment_id": "117114271",
+   "type": 11,
+   "heading": "Artigo 1.º — Medicamentos abrangidos",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/302-2018-117114263), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 1.º — Medicamentos abrangidos\n\nOs medicamentos que beneficiam do presente regime excecional de comparticipação são os que contêm as denominações comuns internacionais (DCI) constantes do anexo i da presente portaria, que dela faz parte integrante, sem prejuízo do disposto nos artigos seguintes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/302-2018-117114263), em vigor a partir de 2018-11-27"
+  },
+  "117124056": {
+   "fragment_id": "117114274",
+   "type": 11,
+   "heading": "Artigo 4.º — Extensão do regime",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/302-2018-117114263), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 4.º — Extensão do regime\n\n1 - A inclusão de outros medicamentos no presente regime excecional de comparticipação depende de requerimento dos respetivos titulares de autorização de introdução no mercado, nos termos definidos no Decreto-Lei n.º 97/2015, de 1 de junho, alterado pelo Decreto-Lei n.º 115/2017, de 7 de setembro.\n\n2 - Os medicamentos e respetivas apresentações que beneficiam do regime excecional de comparticipação previsto no artigo 1.º da presente portaria dependem de aprovação pelo membro do Governo responsável pela área da saúde e constam de deliberação do Conselho Diretivo do INFARMED, I. P., publicada no respetivo sítio eletrónico.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/302-2018-117114263), em vigor a partir de 2018-11-27"
+  },
+  "117123981": {
+   "fragment_id": "117124076",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Saúde, Manuel Martins dos Santos Delgado, em 14 de dezembro de 2016."
+  },
+  "117124057": {
+   "fragment_id": "117124077",
+   "type": 14,
+   "heading": "Anexo — ANEXO I",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/302-2018-117114263), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "## Anexo — ANEXO I\n\na) Acetato de glatirâmero.\n\nb) Fumarato de dimetilo.\n\nc) Interferão-beta 1a.\n\nd) Interferão-beta 1b.\n\ne) Peginterferão beta-1a.\n\nf) Teriflunomida.\n\ng) Cladribina.\n\nh) Alemtuzumab.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 302/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/302-2018-117114263), em vigor a partir de 2018-11-27"
+  }
+ }
+}

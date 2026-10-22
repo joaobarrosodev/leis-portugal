@@ -1,0 +1,231 @@
+---
+schema_version: '1.0'
+id: pt:dre:275867:por
+title: Decreto-Lei n.º 77/2000
+short_title: null
+summary: Altera o Decreto-Lei n.º 154/88, de 29 de Abril, na redacção que lhe foi dada pelos Decretos-Leis n.os 333/95, de
+  23 de Dezembro, e 347/98, de 9 de Novembro (define o quadro da protecção social do regime geral da segurança social decorrente
+  da lei da protecção da maternidade e da paternidade)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 77/2000
+official_date: null
+publication_date: '2000-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 107/2000, Série I-A de 2000-05-09
+  number: '107'
+  series: I
+  supplement: null
+  pages: 1998 - 2000
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/05/107a00/19982000.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/77/2000/05/09/p/dre/pt/html
+  oj: null
+  dre: '275867'
+  dre_path: /dr/detalhe/decreto-lei/77-2000-275867
+  internal: pt:dre:275867:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2000-275867
+  metadata_url: https://data.dre.pt/eli/dec-lei/77/2000/05/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2000-275867
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-04-09T00:00:00Z'
+integrity:
+  source_sha256: 9e9a939c46ab7a8c77bb1f34c7c3d7ce73ea199a9ff4fe3999e451be610890b0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-77-275867.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Protecção da Maternidade
+- Segurança no Trabalho
+- Licença Parental
+- Maternidade
+- Paternidade
+- Proteção ao Deficiente
+- Prestações da Segurança Social
+- Regime Geral da Segurança Social
+- Regimes de Segurança Social
+- Segurança Social
+- Subsídio
+- Subsídio de Adopção
+- Subsídio de Maternidade
+- Subsídio de Paternidade
+- Subsídio para Assistência a Descendentes Doentes
+- Subsídio por Licença Parental
+relationships:
+- type: amended_by
+  target: pt:dre:603961:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/333/1995/12/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/333/1995/12/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/347/1998/11/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/347/1998/11/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/102/1997/09/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/102/1997/09/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/142/1999/08/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/142/1999/08/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/17/1995/06/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/17/1995/06/09/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 77/2000
+
+de 9 de Maio
+
+A protecção da maternidade e paternidade, como valores sociais eminentes e factor de valorização da família, tem vindo a sofrer modificações face à conjuntura sócio-cultural e económica, bem como à evolução verificada a nível comunitário.
+
+Assim, o regime jurídico de protecção constante da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 de Abril, foi progressivamente alterado no sentido da sua melhoria, que foi acompanhada pelas adequações da mesma resultantes, no âmbito da segurança social.
+
+Nesta linha de intervenção, veio a [Lei n.º 142/99](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), de 31 de Agosto, introduzir alterações à [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 de Abril, e proceder à sua renumeração e republicação.
+
+As medidas introduzidas são inovadoras, consubstanciando um alargamento dos direitos reconhecidos aos trabalhadores, nomeadamente os períodos de licença a gozar pelo pai, a previsão de faltas a gozar pelos avós, aquando do nascimento de netos que sejam filhos de adolescentes com idade até aos 16 anos, assim como a correspondente protecção social.
+
+Face ao exposto, manifesta-se necessário regulamentar os novos direitos consagrados definindo, designadamente, os termos e montantes dos respectivos subsídios.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido na [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 Abril, com as alterações introduzidas pelas Leis n.os [17/95](https://diariodarepublica.pt/dr/detalhe/lei/17-1995-517786), de 9 de Junho, [102/97](https://diariodarepublica.pt/dr/detalhe/lei/102-1997-648877), de 13 de Setembro, e [142/99](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), de 31 de Agosto, bem como na [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 1.º, 2.º, 3.º, 5.º, 20.º e 22.º do [Decreto-Lei n.º 154/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1988-285482), de 29 de Abril, com as alterações introduzidas pelos Decretos-Leis n.os [333/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-1995-643722), de 23 de Dezembro, e [347/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/347-1998-223422), de 9 de Novembro, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+Protecção na maternidade
+
+1 - O presente diploma define e regulamenta a protecção social nas situações de gravidez, maternidade, paternidade, adopção, licença parental, assistência na doença a descendentes menores e deficientes, bem como nas de licença especial para acompanhamento de filho, adoptado ou filho de cônjuge de beneficiário do regime geral de segurança social, que seja deficiente profundo ou doente crónico e nas situações de faltas especiais dos avós.
+
+2 - Os beneficiários do regime de segurança social dos trabalhadores independentes têm igualmente direito ao esquema de prestações previsto no presente diploma, com excepção do subsídio correspondente à licença de cinco dias a gozar pelo pai, dos subsídios para assistência a descendentes doentes, para assistência a deficientes profundos e doentes crónicos, por licença parental e por faltas especiais dos avós, regulados no âmbito do presente diploma.
+
+###### Artigo 2.º — Caracterização das eventualidades
+
+1 - A protecção social estabelecida neste diploma abrange as situações respeitantes à saúde e à segurança no trabalho das beneficiárias grávidas, puérperas e lactantes, bem como as situações de incapacidade ou de indisponibilidade para o exercício da actividade profissional por motivo de maternidade, paternidade, acompanhamento de menores adoptados, assistência a filhos, assistência na doença a filhos do beneficiário ou do cônjuge e a adoptados, menores ou deficientes, assistência a deficientes profundos e doentes crónicos e nascimento de netos.
+
+2 - ...
+
+###### Artigo 3.º — Modalidades das prestações
+
+A protecção social efectiva-se mediante a atribuição de prestações pecuniárias, designadas subsídios de maternidade, de paternidade, por adopção, por licença parental, para assistência na doença a descendentes menores ou deficientes, para assistência a deficientes profundos e doentes crónicos, por riscos específicos e por faltas especiais dos avós.
+
+###### Artigo 5.º — Exclusão do direito aos subsídios
+
+1 - Não têm direito aos subsídios previstos neste diploma:
+
+a) Os beneficiários que se encontrem a receber quantias pagas periodicamente pelas empresas sem contraprestação de trabalho, denominadas prestações de pré-reforma, nos termos previstos na legislação própria;
+
+b) Os beneficiários que se encontrem a receber prestações de desemprego, sem prejuízo do disposto no número seguinte.
+
+2 - O recebimento de prestações de desemprego não prejudica o reconhecimento do direito aos subsídios de maternidade, paternidade e adopção, com os efeitos previstos no regime jurídico de protecção no desemprego.
+
+###### Artigo 20.º — Meios de prova
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Declaração, emitida pela entidade empregadora, especificando a impossibilidade de atribuição à trabalhadora grávida do exercício de funções e ou local de trabalho compatíveis com o estado de risco clínico;
+
+f) Comprovação pelo Instituto de Desenvolvimento e Inspecção das Condições de Trabalho do exercício de funções, local de trabalho ou condições de trabalho e da impossibilidade a que se referem as alíneas d) e e) do presente artigo.
+
+2 - ...
+
+###### Artigo 22.º — Efeitos das faltas e licenças
+
+1 - Os períodos de faltas e licenças que determinem o reconhecimento do direito a prestações, incluindo a prevista no n.º 2 do artigo 19.º da [Lei n.º 4/84](https://diariodarepublica.pt/dr/detalhe/lei/4-1984-654496), de 5 de Abril, na redacção que lhe foi dada pela [Lei n.º 142/99](https://diariodarepublica.pt/dr/detalhe/lei/142-1999-581976), de 31 de Agosto, dão lugar ao registo de remunerações por equivalência à entrada de contribuições, sendo considerados como trabalho efectivamente prestado.
+
+2 - Os períodos de licença parental e especial para assistência a filho ou adoptado são tomados em conta para o cálculo das pensões de invalidez e velhice.»
+
+###### Artigo 2.º
+
+Ao [Decreto-Lei n.º 154/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1988-285482), de 29 de Abril, são aditados os seguintes artigos:
+
+«Artigo 12.º-C
+
+Montante do subsídio por licença parental
+
+O montante diário do subsídio por licença parental corresponde a 100% da remuneração de referência do beneficiário.
+
+###### Artigo 12.º-D — Montante do subsídio por faltas especiais dos avós
+
+O montante diário do subsídio por faltas especiais dos avós corresponde a 100% da remuneração de referência do beneficiário.»
+
+###### Artigo 3.º
+
+É revogado o artigo 22.º-A do [Decreto-Lei n.º 154/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1988-285482), de 29 de Abril.
+
+###### Artigo 4.º
+
+O presente diploma produz efeitos desde 1 de Dezembro de 1999.
+
+Visto e aprovado em Conselho de Ministros de 16 de Março de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Eduardo Luís Barreto Ferro Rodrigues - Maria Manuela de Brito Arcanjo Marques da Costa - Maria de Belém Roseira Martins Coelho Henriques de Pina.
+
+**Promulgado em 14 de Abril de 2000.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 20 de Abril de 2000.**
+
+**O Primeiro-Ministro em exercício, Jaime José Matos da Gama.**

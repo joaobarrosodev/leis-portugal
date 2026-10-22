@@ -1,0 +1,439 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:488301:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-870890291",
+ "dre_path": "/dr/detalhe/lei/81-2009-488301",
+ "source_lastmod": "2024-09-06",
+ "versions": [
+  {
+   "date": "2009-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870597761",
+    "870597762",
+    "870597763",
+    "870597764",
+    "870597765",
+    "870597766",
+    "870597767",
+    "870597768",
+    "870597769",
+    "870597770",
+    "870597771",
+    "870597772",
+    "870597773",
+    "870597774",
+    "870891175",
+    "870891176",
+    "870891177",
+    "870891178",
+    "870891179",
+    "870891180",
+    "870891181",
+    "870891182",
+    "870891183",
+    "870891184",
+    "870891185",
+    "870891186",
+    "870891187",
+    "870891188",
+    "870891189",
+    "870891190",
+    "870891191",
+    "870891192",
+    "870891193",
+    "870891194"
+   ]
+  },
+  {
+   "date": "2024-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:887091776:por",
+     "title": "Decreto-Lei n.º 54/2024",
+     "published": "2024-09-06",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2024-887091776"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "870597761",
+    "870597762",
+    "870597763",
+    "870597764",
+    "870597765",
+    "887189105",
+    "870597767",
+    "887189106",
+    "870597769",
+    "887189107",
+    "870597771",
+    "870597772",
+    "870597773",
+    "870597774",
+    "870891175",
+    "870891176",
+    "887189108",
+    "870891178",
+    "870891179",
+    "870891180",
+    "870891181",
+    "887189109",
+    "870891183",
+    "870891184",
+    "870891185",
+    "870891186",
+    "870891187",
+    "870891188",
+    "870891189",
+    "870891190",
+    "870891191",
+    "870891192",
+    "870891193",
+    "870891194",
+    "870891195"
+   ]
+  }
+ ],
+ "fragments": {
+  "870597761": {
+   "fragment_id": "870890292",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 81/2009\n\nde 21 de Agosto\n\nInstitui um sistema de vigilância em saúde pública, que identifica situações de risco, recolhe, actualiza, analisa e divulga os dados relativos a doenças transmissíveis e outros riscos em saúde pública, bem como prepara planos de contingência face a situações de emergência ou tão graves como de calamidade pública.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "870597762": {
+   "fragment_id": "870890293",
+   "type": 1,
+   "heading": "Capítulo I — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto e âmbito de aplicação"
+  },
+  "870597763": {
+   "fragment_id": "870890294",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei estabelece um sistema de vigilância em saúde pública, através da organização de um conjunto de entidades dos sectores público, privado e social desenvolvendo actividades de saúde pública, conforme as respectivas leis orgânicas e atribuições estatutárias, aplicando medidas de prevenção, alerta, controlo e resposta, relativamente a doenças transmissíveis, em especial as infecto-contagiosas, a outros riscos para a saúde pública, com vista a garantir o direito dos cidadãos à defesa e protecção da saúde.\n\n2 - Para os efeitos do disposto no número anterior, é criada uma rede de âmbito nacional envolvendo os serviços operativos de saúde pública, os laboratórios, as autoridades de saúde e outras entidades dos sectores público, privado e social, cujos participantes contribuem para um sistema nacional de informação de vigilância epidemiológica, denominado SINAVE."
+  },
+  "870597764": {
+   "fragment_id": "870890295",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - A presente lei aplica-se a todas as entidades, do sector público, privado e social, estabelecidas ou prestando serviços no território nacional, que desenvolvam actividade de recolha, análise, interpretação e divulgação sistemática e contínua de dados de saúde, ou realizem estudos epidemiológicos, relativos às doenças transmissíveis e outros riscos em saúde pública.\n\n2 - A aplicação de medidas com o objectivo de prevenir e conter a propagação das doenças transmissíveis e outros riscos para a saúde pública, por parte das entidades públicas no exercício dos poderes e funções ao abrigo da presente lei, incluindo a condução de investigações epidemiológicas prosseguidas pelas autoridades de saúde competentes e análise dos respectivos factores de risco, sujeitam-se ao regime de informação de saúde e de protecção de dados pessoais."
+  },
+  "870597765": {
+   "fragment_id": "870890296",
+   "type": 1,
+   "heading": "Capítulo II — Organização e funcionamento do sistema de vigilância em saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização e funcionamento do sistema de vigilância em saúde pública"
+  },
+  "870597766": {
+   "fragment_id": "870890297",
+   "type": 11,
+   "heading": "Artigo 3.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Organização\n\n1 - O sistema de vigilância em saúde pública tem por objectivo a monitorização do estado de saúde das populações ao longo do tempo, e visa determinar o risco de transmissão de qualquer doença, ou outros fenómenos de saúde, bem como a prevenção da sua entrada ou propagação em território português, mediante controlo da sua génese e evolução.\n\n2 - A metodologia de definição do processo de vigilância contínua de saúde pública é estabelecida por portaria do membro do Governo responsável pela área da saúde, sob proposta da Autoridade de Saúde Nacional (ASN), articulando o exercício das competências das seguintes entidades:\n\na) Direcção-Geral da Saúde (DGS);\n\nb) Instituto Nacional de Saúde Ricardo Jorge, I. P. (INSRJ, I. P.);\n\nc) Autoridades de saúde;\n\nd) Serviços de saúde pública sedeados nas administrações regionais de saúde;\n\ne) Serviços de saúde pública, junto das localidades, sedeados nos agrupamentos de centros de saúde (ACES) ou nas unidades locais de saúde (ULS).\n\n3 - As entidades abrangidas pela portaria prevista no número anterior concorrem para a recolha sistemática, consolidação e avaliação de dados de morbilidade, mortalidade e determinantes da saúde no território nacional, assim como de outros dados essenciais ao cumprimento do objectivo previsto no n.º 1.\n\n4 - Para efeitos da presente lei, os dados essenciais para tratamento de informação de saúde pública incluem descrições clínicas, resultados laboratoriais, fontes e tipos de riscos, número de casos humanos e de mortes, condições que determinem a propagação da doença e medidas aplicadas, bem como quaisquer outras informações que forneçam meios de prova com base em métodos científicos estabelecidos e aceites."
+  },
+  "870597767": {
+   "fragment_id": "870890298",
+   "type": 11,
+   "heading": "Artigo 4.º — Conselho Nacional de Saúde Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conselho Nacional de Saúde Pública\n\n1 - É criado o Conselho Nacional de Saúde Pública (CNSP), designado pelo membro do Governo responsável pela área da saúde que preside, com faculdade de delegação no director-geral da Saúde, composto por um máximo de 20 membros, designados em representação dos sectores público, privado e social, incluindo as áreas académica e científica, com funções consultivas do Governo no âmbito da prevenção e do controlo das doenças transmissíveis e outros riscos para a saúde pública e, em especial, para análise e avaliação das situações graves, nomeadamente surtos epidémicos de grande escala e pandemias, competindo-lhe fundamentar proposta de declaração do estado de emergência, por calamidade pública.\n\n2 - O CNSP compreende duas comissões especializadas:\n\na) Comissão Coordenadora da Vigilância Epidemiológica;\n\nb) Comissão Coordenadora de Emergência.\n\n3 - O CNSP elabora o seu regulamento, prevendo, no mesmo, o seu modo de funcionamento, a aprovar na primeira reunião.\n\n4 - Os membros do CNSP exercem as suas funções de forma não remunerada."
+  },
+  "870597768": {
+   "fragment_id": "870890299",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão Coordenadora da Vigilância Epidemiológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissão Coordenadora da Vigilância Epidemiológica\n\n1 - A Comissão Coordenadora da Vigilância Epidemiológica (CCVE) funciona como uma comissão especializada do CNSP e visa, com base nas consultas recíprocas e nas informações fornecidas pelas entidades que integram o sistema de vigilância em saúde pública, a coordenação de medidas preventivas relativas às doenças transmissíveis e demais riscos de saúde pública, no cumprimento dos princípios consagrados na presente lei e nas normas técnicas e científicas oriundas dos centros de vigilância europeus e internacionais de referência a que Portugal pertença em cada momento.\n\n2 - A CCVE assegura a coerência e a complementaridade entre os programas e as acções iniciadas no seu âmbito de intervenção, incluindo informação estatística, projectos de investigação, de desenvolvimento tecnológico, sobretudo de meios telemáticos e baseados na Internet, para o intercâmbio de dados, implementando todas as ligações necessárias às redes da União Europeia e outras redes internacionais de vigilância epidemiológica a que Portugal pertença, articulando-as com o SINAVE.\n\n3 - As entidades que contribuem para a vigilância epidemiológica integram-se numa rede nacional de informação e comunicação e transmitem, através do SINAVE, dados relativos a:\n\na) Aparecimento ou ressurgimento de casos de doenças transmissíveis, juntamente com a informação referente às medidas de diagnóstico e controlo aplicadas;\n\nb) Evolução dos estudos epidemiológicos em relação aos quais tenham a responsabilidade da recolha de informação;\n\nc) Fenómenos insólitos, inesperados ou surtos de doenças transmissíveis de origem desconhecida;\n\nd) Mecanismos e procedimentos, existentes ou propostos, para prevenção das doenças transmissíveis, nomeadamente em situações de emergência.\n\n4 - A CCVE apresenta ao CNSP relatórios anuais de actividade e procede a uma avaliação da rede de informação de cinco em cinco anos, conferindo especial atenção à sua capacidade estrutural e funcional, bem como à utilização efectiva dos recursos disponíveis.\n\n5 - A CCVE é composta pelas seguintes entidades:\n\na) Director-geral da Saúde, que preside;\n\nb) Director do Instituto Nacional de Saúde Dr. Ricardo Jorge, I. P.;\n\nc) Autoridades de saúde das Regiões Autónomas;\n\nd) Directores dos departamentos de saúde pública das administrações regionais de saúde;\n\ne) Director-geral de Veterinária;\n\nf) Director do Laboratório Nacional de Investigação Veterinária.\n\n6 - O presidente da CCVE, por sua iniciativa ou sob proposta de qualquer membro, pode convidar outras entidades para participarem nas reuniões da Comissão e nomear um grupo técnico de vigilância epidemiológica para o coadjuvar nesse âmbito."
+  },
+  "870597769": {
+   "fragment_id": "870890300",
+   "type": 11,
+   "heading": "Artigo 6.º — Sistema de informação nacional de vigilância epidemiológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sistema de informação nacional de vigilância epidemiológica\n\n1 - A gestão da informação da vigilância epidemiológica das ocorrências em saúde e respectivas especificidades no âmbito de cada doença transmissível e demais riscos em saúde pública é assegurada através do SINAVE, cuja operatividade é da competência da CCVE.\n\n2 - A CCVE pode, quando considerar necessário para a garantia de protecção de saúde dos cidadãos, incluir no âmbito e nos procedimentos de execução das orientações do SINAVE, quaisquer entidades que realizem actos de vigilância de saúde, com vista à vigilância de doenças e incidentes associados a cuidados de saúde, bem como de doenças crónicas ou fenómenos sociais com repercussão directa na saúde pública.\n\n3 - Os serviços de registo civil colaboram com a CCVE, no âmbito do SINAVE, de modo a disponibilizarem, com recurso aos meios electrónicos dos próprios serviços, os dados relativos à natalidade e à mortalidade necessários às actividades de vigilância epidemiológica."
+  },
+  "870597770": {
+   "fragment_id": "870890301",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão Coordenadora de Emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comissão Coordenadora de Emergência\n\n1 - A Comissão Coordenadora de Emergência (CCE) intervém em situações de emergência de saúde pública, por determinação do presidente do CNSP, quando se verifique uma ocorrência ou ameaça iminente de fenómenos relativos a doenças transmissíveis e outros riscos em saúde, cujas características possam vir a causar graves consequências para a saúde pública.\n\n2 - Compete, em especial, à CCE:\n\na) Avaliar, no prazo de 48 horas, todas as comunicações de ocorrências de emergência, com tratamento da informação imediata no SINAVE;\n\nb) Elaborar relatório de análise a submeter ao CNSP, em casos de calamidade pública que justifiquem declaração do estado de emergência.\n\n3 - A Comissão deve elaborar um plano nacional de resposta que preveja, em particular, a criação de equipas para responder às ocorrências que possam constituir uma emergência de saúde pública de âmbito nacional, bem como garantir a disponibilidade, em qualquer momento, de um serviço que permita a comunicação imediata com os serviços de saúde pública de nível regional e de nível municipal.\n\n4 - Para efeitos da presente lei, considera-se emergência de saúde pública qualquer ocorrência extraordinária que constitua um risco para a saúde pública em virtude da probabilidade acrescida de disseminação de sinais, sintomas ou doenças requerendo uma resposta nacional coordenada.\n\n5 - A CCE é composta pelas seguintes entidades:\n\na) Membro do Governo responsável pela área da saúde, que preside, com faculdade de delegar no director-geral da Saúde;\n\nb) Presidentes dos conselhos directivos das administrações regionais de saúde;\n\nc) Autoridades de saúde das Regiões Autónomas;\n\nd) Presidente do conselho directivo do Instituto Nacional de Emergência Médica, I. P.;\n\ne) Presidente do conselho directivo do Instituto Nacional de Saúde Dr. Ricardo Jorge, I. P.;\n\nf) Presidente do conselho directivo do INFARMED -Autoridade Nacional do Medicamento e Produtos de Saúde, I. P.;\n\ng) Presidente da Autoridade Nacional de Protecção Civil.\n\n6 - O presidente da CCE pode, por sua iniciativa ou sob proposta de qualquer membro, convidar outras entidades para participarem nas reuniões da Comissão, para organização das medidas de resposta a adoptar perante situações de emergência em saúde pública."
+  },
+  "870597771": {
+   "fragment_id": "870890302",
+   "type": 11,
+   "heading": "Artigo 8.º — Rede integrada de informação e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Rede integrada de informação e comunicação\n\n1 - A presente lei cria uma rede de vigilância epidemiológica para prevenção e controlo das doenças transmissíveis e outros riscos em saúde pública, tendo por base a necessidade de instituir uma forma determinada de recolha de informações necessárias.\n\n2 - Compete ao director-geral da Saúde, na qualidade de Autoridade de Saúde Nacional (ASN), organizar a rede prevista no número anterior com ligação permanente, pelos meios apropriados, com as autoridades de saúde responsáveis pela determinação das medidas necessárias à implementação de um sistema de alerta rápido e resposta.\n\n3 - A ASN aprova o regulamento de organização das actividades das entidades do sector público, privado ou social, que integrem a rede prevista no n.º 1, prevendo uma forma eficaz de articulação com vista a obter um conhecimento centralizado de toda a informação sobre doenças transmissíveis e demais riscos para a saúde pública, a nível nacional."
+  },
+  "870597772": {
+   "fragment_id": "870890303",
+   "type": 11,
+   "heading": "Artigo 9.º — Funcionamento da rede integrada de informação e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Funcionamento da rede integrada de informação e comunicação\n\nPara garantir o funcionamento eficaz da rede no que diz respeito à vigilância epidemiológica e com vista a uniformizar informação nesse âmbito, compete ao director-geral da Saúde determinar, mediante despacho, o seguinte:\n\na) Métodos de vigilância epidemiológica e microbiológica;\n\nb) Doenças transmissíveis e outros riscos que devem ser abrangidos pela rede de informação e comunicação;\n\nc) Critérios de selecção dessas doenças, tendo em conta as redes de colaboração existentes em matéria de vigilância;\n\nd) Definição de casos, especialmente das características clínicas e microbiológicas;\n\ne) Natureza e tipo de dados e informações a recolher e transmitir pelas entidades ou autoridades integradas na rede prevista no artigo 8.º;\n\nf) Orientações sobre as medidas de protecção a adoptar em situações de emergência;\n\ng) Orientações sobre informação e guias de práticas correctas para uso das populações;\n\nh) Meios técnicos necessários e adequados aos procedimentos de divulgação e tratamento de dados de forma comparável e compatível."
+  },
+  "870597773": {
+   "fragment_id": "870890304",
+   "type": 11,
+   "heading": "Artigo 10.º — Entidades sentinela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entidades sentinela\n\n1 - Consideram-se, para efeitos do disposto na presente lei, entidades sentinela todas as entidades do sector público, privado e social que tenham competências ou desenvolvam actividades de detecção precoce de riscos, surtos, epidemias ou outro tipo de emergências de saúde pública e que tenham celebrado, para o efeito de transmissão imediata de alertas, protocolos de colaboração no âmbito do sistema de vigilância em saúde pública previsto no artigo 3.º, ou que já desempenhem, por qualquer outra forma, tais funções desde um momento anterior à entrada em vigor da presente lei.\n\n2 - O regime de articulação das entidades sentinela é definido, após parecer da CNPD, por regulamento a aprovar pelo director-geral da Saúde."
+  },
+  "870597774": {
+   "fragment_id": "870890305",
+   "type": 11,
+   "heading": "Artigo 11.º — Parcerias e acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Parcerias e acreditação\n\nA formalização de uma rede intersectorial, prevista nos artigos 8.º a 10.º, impõe um processo de acreditação para o efeito daquelas entidades, conforme as normas internas para tal elaboradas pelos serviços competentes em matéria de qualidade da DGS, em conjunto com outros serviços centrais e sob parecer da CCVE."
+  },
+  "870891175": {
+   "fragment_id": "870890306",
+   "type": 1,
+   "heading": "Capítulo III — Medidas de prevenção e controlo das doenças transmissíveis e outros riscos em saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Medidas de prevenção e controlo das doenças transmissíveis e outros riscos em saúde pública"
+  },
+  "870891176": {
+   "fragment_id": "870890307",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência\n\nCompete à ASN liderar as acções e programas na área de prevenção e controlo das doenças transmissíveis e demais riscos em saúde pública, coadjuvada pelas demais autoridades de saúde de nível regional e de nível municipal."
+  },
+  "870891177": {
+   "fragment_id": "870890308",
+   "type": 11,
+   "heading": "Artigo 13.º — Detecção e comunicação de ocorrências em saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Detecção e comunicação de ocorrências em saúde pública\n\n1 - As actividades de notificação, de verificação e de colaboração, no âmbito da vigilância epidemiológica, devem ser desenvolvidas através das estruturas e dos recursos nacionais dos serviços operativos de saúde pública.\n\n2 - As ocorrências que envolvam níveis de morbilidade ou mortalidade superiores aos esperados para o período e local considerados devem ser, logo que conhecidas, comunicadas pelas entidades que integram a rede às autoridades de saúde, bem como aos responsáveis de estruturas locais, nomeadamente o director executivo dos ACES ou os conselhos de administração das ULS da área geográfica relevante, os quais devem aplicar, de imediato, medidas preliminares adequadas de controlo.\n\n3 - As ARS asseguram a respectiva capacidade de resposta de saúde pública para confirmar o estado das ocorrências notificadas e apoiar ou aplicar, de imediato, medidas complementares de controlo e, se considerados de emergência, comunicar todos os dados essenciais a nível nacional para a CCE, para avaliação nos termos previstos na alínea a) do n.º 2 do artigo 7.º\n\n4 - Para efeitos do presente artigo, os critérios que determinam a existência de uma emergência assentam na antecipação de eventuais graves repercussões sobre a saúde pública, bem como o carácter inusitado ou inesperado, de uma ocorrência extraordinária, com probabilidade acrescida de disseminação da exposição ao problema identificado."
+  },
+  "870891178": {
+   "fragment_id": "870890309",
+   "type": 11,
+   "heading": "Artigo 14.º — Resposta em saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Resposta em saúde pública\n\nAs entidades que integram o sistema de vigilância em saúde pública devem observar, perante uma emergência, os seguintes procedimentos de resposta, conforme orientações do director-geral da Saúde:\n\na) Determinar rapidamente as medidas de controlo necessárias com vista a prevenir a propagação;\n\nb) Disponibilizar pessoal especializado, análise laboratorial de amostras e respectivo apoio logístico;\n\nc) Prestar assistência no local a fim de complementar as investigações locais;\n\nd) Assegurar uma ligação operacional directa com as autoridades de saúde e outros responsáveis, com o objectivo de aprovar e aplicar as medidas de contenção e de controlo;\n\ne) Assegurar, pelos meios de comunicação mais eficazes disponíveis, a ligação com os hospitais, centros de saúde, aeroportos, portos, laboratórios e outras zonas operacionais fundamentais;\n\nf) Assegurar, vinte e quatro horas por dia, as medidas acima referidas."
+  },
+  "870891179": {
+   "fragment_id": "870890310",
+   "type": 11,
+   "heading": "Artigo 15.º — Plano de acção nacional de contingência para as epidemias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Plano de acção nacional de contingência para as epidemias\n\n1 - O director-geral da Saúde elabora e actualiza um plano de acção nacional de contingência para as epidemias, a aprovar pelo CNSP.\n\n2 - O plano de acção mencionado no número anterior deve contemplar, em especial, os seguintes procedimentos:\n\na) Prevenção e controlo a aplicar em todo o território nacional;\n\nb) Comunicação entre profissionais de saúde e populações;\n\nc) Redução de riscos ambientais potenciadores da disseminação;\n\nd) Condições de excepção quanto à necessidade de abate de animais e arranque de espécies vegetais;\n\ne) Condições de segurança para o armazenamento, o transporte e a distribuição de produtos biológicos e medicamentos de acordo com as normas nacionais e internacionais aplicáveis."
+  },
+  "870891180": {
+   "fragment_id": "870890311",
+   "type": 11,
+   "heading": "Artigo 16.º — Notificação obrigatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Notificação obrigatória\n\n1 - Compete ao membro do Governo responsável pela área da saúde aprovar, por portaria e sob proposta do CNSP, o regulamento de notificação obrigatória de doenças transmissíveis e outros riscos em saúde pública.\n\n2 - O regulamento previsto no número anterior, em relação às doenças diagnosticadas clínica ou laboratorialmente, sujeitas a notificação obrigatória por despacho do director-geral da Saúde, define o prazo e o processo de notificação e a metodologia de introdução de dados no SINAVE, bem como os seguintes procedimentos:\n\na) Identificação de casos de doença possíveis, prováveis ou confirmados;\n\nb) Averiguação e identificação de situações de incumprimento, clínica e laboratorial;\n\nc) Protecção dos dados pessoais dos doentes e confidencialidade da informação de saúde.\n\n3 - O regulamento deve sujeitar ao regime de dever de notificação obrigatória todos os profissionais de saúde que exerçam actividade no SNS, no sector privado ou social, bem como os responsáveis por laboratórios.\n\n4 - O regulamento previsto no n.º 1 é revisto e actualizado sempre que necessário sob proposta do director-geral da Saúde."
+  },
+  "870891181": {
+   "fragment_id": "870890312",
+   "type": 1,
+   "heading": "Capítulo IV — Medidas de excepção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Medidas de excepção"
+  },
+  "870891182": {
+   "fragment_id": "870890313",
+   "type": 11,
+   "heading": "Artigo 17.º — Poder regulamentar excepcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Poder regulamentar excepcional\n\n1 - De acordo com o estipulado na base xx da Lei n.º 48/90, de 24 de Agosto, o membro do Governo responsável pela área da saúde pode tomar medidas de excepção indispensáveis em caso de emergência em saúde pública, incluindo a restrição, a suspensão ou o encerramento de actividades ou a separação de pessoas que não estejam doentes, meios de transporte ou mercadorias, que tenham sido expostos, de forma a evitar a eventual disseminação da infecção ou contaminação.\n\n2 - O membro do Governo responsável pela área da saúde, sob proposta do director-geral da Saúde, como autoridade de saúde nacional, pode emitir orientações e normas regulamentares no exercício dos poderes de autoridade, com força executiva imediata, no âmbito das situações de emergência em saúde pública com a finalidade de tornar exequíveis as normas de contingência para as epidemias ou de outras medidas consideradas indispensáveis cuja eficácia dependa da celeridade na sua implementação.\n\n3 - As medidas previstas nos números anteriores devem ser aplicadas com critérios de proporcionalidade que respeitem os direitos, liberdades e garantias fundamentais, nos termos da Constituição e da lei.\n\n4 - As medidas e orientações previstas nos n.os 1 e 2 são coordenadas, quando necessário, com o membro do Governo responsável pelas áreas da segurança interna e protecção civil, designadamente no que se reporta à mobilização e à prontidão dos dispositivos de segurança interna e de protecção e socorro, devendo ser comunicadas à Assembleia da República."
+  },
+  "870891183": {
+   "fragment_id": "870890314",
+   "type": 11,
+   "heading": "Artigo 18.º — Situações de calamidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Situações de calamidade pública\n\nNos casos em que a gravidade o justifique e tendo em conta os mecanismos preventivos e de reacção previstos na Lei de Bases de Protecção Civil, o Governo apresenta, após proposta do CNSP, baseada em relatório da CCE, ao Presidente da República, documento com vista à declaração do estado de emergência, por calamidade pública, nos termos da Constituição."
+  },
+  "870891184": {
+   "fragment_id": "870890315",
+   "type": 1,
+   "heading": "Capítulo V — Confidencialidade e tratamento de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Confidencialidade e tratamento de dados pessoais"
+  },
+  "870891185": {
+   "fragment_id": "870890316",
+   "type": 11,
+   "heading": "Artigo 19.º — Bases de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Bases de dados\n\n1 - As bases de dados, constituídas para efeito do cumprimento das disposições previstas na presente lei, devem ser notificadas à CNPD, de acordo com a lei geral.\n\n2 - Os responsáveis pelo tratamento dos dados referidos no número anterior devem ser expressamente designados por despacho do director-geral da Saúde, dentro da organização interna dos respectivos serviços, competindo-lhes assegurar a observância da qualidade dos dados, nomeadamente as condições de segurança e confidencialidade.\n\n3 - As pessoas abrangidas pelo disposto no número anterior, bem como todos aqueles que, no exercício das suas funções, tenham conhecimento dos dados pessoais tratados no âmbito do SINAVE, ficam obrigados ao sigilo profissional, mesmo após o termo das suas funções."
+  },
+  "870891186": {
+   "fragment_id": "870890317",
+   "type": 11,
+   "heading": "Artigo 20.º — Dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Dados pessoais\n\n1 - O tratamento da informação desenvolvido no âmbito da prevenção e do controlo das doenças transmissíveis e demais riscos em saúde pública, em tudo quanto não seja regulado na presente lei, rege-se pelos regimes gerais aplicáveis à protecção de dados pessoais e à informação de saúde.\n\n2 - As informações recebidas pelo SINAVE, nos termos da presente lei, são tratadas em conformidade com o disposto no número anterior, incluindo a análise de resultados de exames médicos e verificação de documentos de saúde, com a finalidade de determinar se o estado de saúde da pessoa representa um risco potencial para a saúde pública.\n\n3 - O titular dos dados tem o direito de obter da DGS a informação disponível no SINAVE relativa ao tratamento e finalidade de recolha dos seus dados pessoais, bem como a garantia de que os dados imprecisos ou incompletos são eliminados ou rectificados.\n\n4 - Quando a divulgação interna e o tratamento dos dados pessoais no SINAVE se mostre fundamental para efeitos de avaliação e gestão do risco em saúde pública, é garantido que os dados pessoais:\n\na) São necessários, essenciais e adequados à finalidade da sua recolha;\n\nb) São exactos e actualizados;\n\nc) Não são mantidos para além do tempo necessário;\n\nd) São tratados por profissionais de saúde habilitados, quando necessário para as finalidades de exercício de medicina preventiva, actos de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou ainda de gestão de serviços de saúde."
+  },
+  "870891187": {
+   "fragment_id": "870890318",
+   "type": 1,
+   "heading": "Capítulo VI — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime sancionatório"
+  },
+  "870891188": {
+   "fragment_id": "870890319",
+   "type": 11,
+   "heading": "Artigo 21.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contra-ordenações\n\nConstituem contra-ordenações muito graves, puníveis, no caso de pessoas singulares, com coima de (euro) 100 a (euro) 10 000 e, no caso de pessoas colectivas, com coima de (euro) 10 000 a (euro) 25 000:\n\na) O incumprimento do dever de transmissão imediato de alerta, previsto no n.º 1 do artigo 10.º;\n\nb) O incumprimento do dever de notificação obrigatória, previsto no n.º 3 do artigo 16.º"
+  },
+  "870891189": {
+   "fragment_id": "870890320",
+   "type": 11,
+   "heading": "Artigo 22.º — Processamento e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Processamento e aplicação\n\n1 - A fiscalização do cumprimento das regras previstas na presente lei compete à autoridade de saúde territorialmente competente, sem prejuízo das competências atribuídas por lei à Inspecção-Geral das Actividades em Saúde (IGAS).\n\n2 - A instrução dos processos de contra-ordenação compete à DGS, no âmbito das suas atribuições, a quem devem ser enviados os autos levantados pelas autoridades de saúde.\n\n3 - As situações de incumprimento da presente lei devem ser comunicadas à autoridade de saúde territorialmente competente, pelos cidadãos ou entidades, do sector público, privado ou social que as identifiquem.\n\n4 - A reclamação graciosa da aplicação das coimas previstas no artigo anterior não tem efeito suspensivo.\n\n5 - As contra-ordenações aplicadas são informadas às ordens profissionais e unidades de saúde respectivas, para os efeitos tidos por convenientes, incluindo disciplinares.\n\n6 - A aplicação das coimas e penas acessórias compete à DGS.\n\n7 - A aplicação do regime sancionatório deverá ter em conta o risco associado de perigosidade para a saúde pública, que decorra da transmissibilidade e da virulência da infecção em causa, bem como da possibilidade e magnitude de se gerarem cadeias de transmissão que a falta de notificação obrigatória originar."
+  },
+  "870891190": {
+   "fragment_id": "870890321",
+   "type": 11,
+   "heading": "Artigo 23.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Destino das coimas\n\nO valor das coimas aplicadas às contra-ordenações previstas na presente lei reverte:\n\na) 60 % para o Estado;\n\nb) 40 % para a DGS."
+  },
+  "870891191": {
+   "fragment_id": "870890322",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "870891192": {
+   "fragment_id": "870890323",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma revogatória\n\nSão revogadas a Lei n.º 2036, de 9 de Agosto de 1949, e as respectivas disposições regulamentares."
+  },
+  "870891193": {
+   "fragment_id": "870890324",
+   "type": 11,
+   "heading": "Artigo 25.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regulamentação\n\nA regulamentação da presente lei deve ser aprovada e publicada no prazo de 90 dias após a sua entrada em vigor."
+  },
+  "870891194": {
+   "fragment_id": "870890325",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação."
+  },
+  "887189105": {
+   "fragment_id": "870890297",
+   "type": 11,
+   "heading": "Artigo 3.º — Organização",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Organização\n\n1 - O sistema de vigilância em saúde pública tem por objectivo a monitorização do estado de saúde das populações ao longo do tempo, e visa determinar o risco de transmissão de qualquer doença, ou outros fenómenos de saúde, bem como a prevenção da sua entrada ou propagação em território português, mediante controlo da sua génese e evolução.\n\n2 - A metodologia de definição do processo de vigilância contínua de saúde pública é estabelecida por portaria do membro do Governo responsável pela área da saúde, sob proposta da Autoridade de Saúde Nacional (ASN), articulando o exercício das competências das seguintes entidades:\n\na) Direcção-Geral da Saúde (DGS);\n\nb) Instituto Nacional de Saúde Doutor Ricardo Jorge, I. P. (INSA, I. P.);\n\nc) Autoridades de saúde;\n\nd) (Revogada.)\n\ne) Serviços de saúde pública sediados nas unidades locais de saúde (ULS).\n\n3 - As entidades abrangidas pela portaria prevista no número anterior concorrem para a recolha sistemática, consolidação e avaliação de dados de morbilidade, mortalidade e determinantes da saúde no território nacional, assim como de outros dados essenciais ao cumprimento do objectivo previsto no n.º 1.\n\n4 - Para efeitos da presente lei, os dados essenciais para tratamento de informação de saúde pública incluem descrições clínicas, resultados laboratoriais, fontes e tipos de riscos, número de casos humanos e de mortes, condições que determinem a propagação da doença e medidas aplicadas, bem como quaisquer outras informações que forneçam meios de prova com base em métodos científicos estabelecidos e aceites.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189106": {
+   "fragment_id": "870890299",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão Coordenadora da Vigilância Epidemiológica",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Comissão Coordenadora da Vigilância Epidemiológica\n\n1 - A Comissão Coordenadora da Vigilância Epidemiológica (CCVE) funciona como uma comissão especializada do CNSP e visa, com base nas consultas recíprocas e nas informações fornecidas pelas entidades que integram o sistema de vigilância em saúde pública, a coordenação de medidas preventivas relativas às doenças transmissíveis e demais riscos de saúde pública, no cumprimento dos princípios consagrados na presente lei e nas normas técnicas e científicas oriundas dos centros de vigilância europeus e internacionais de referência a que Portugal pertença em cada momento.\n\n2 - A CCVE assegura a coerência e a complementaridade entre os programas e as acções iniciadas no seu âmbito de intervenção, incluindo informação estatística, projectos de investigação, de desenvolvimento tecnológico, sobretudo de meios telemáticos e baseados na Internet, para o intercâmbio de dados, implementando todas as ligações necessárias às redes da União Europeia e outras redes internacionais de vigilância epidemiológica a que Portugal pertença, articulando-as com o SINAVE.\n\n3 - As entidades que contribuem para a vigilância epidemiológica integram-se numa rede nacional de informação e comunicação e transmitem, através do SINAVE, dados relativos a:\n\na) Aparecimento ou ressurgimento de casos de doenças transmissíveis, juntamente com a informação referente às medidas de diagnóstico e controlo aplicadas;\n\nb) Evolução dos estudos epidemiológicos em relação aos quais tenham a responsabilidade da recolha de informação;\n\nc) Fenómenos insólitos, inesperados ou surtos de doenças transmissíveis de origem desconhecida;\n\nd) Mecanismos e procedimentos, existentes ou propostos, para prevenção das doenças transmissíveis, nomeadamente em situações de emergência.\n\n4 - A CCVE apresenta ao CNSP relatórios anuais de actividade e procede a uma avaliação da rede de informação de cinco em cinco anos, conferindo especial atenção à sua capacidade estrutural e funcional, bem como à utilização efectiva dos recursos disponíveis.\n\n5 - A CCVE é composta pelas seguintes entidades:\n\na) Director-geral da Saúde, que preside;\n\nb) Presidente do conselho diretivo do INSA, I. P.;\n\nc) Autoridades de saúde das Regiões Autónomas;\n\nd) Autoridades de saúde regionais;\n\ne) Diretor-geral de Alimentação e Veterinária;\n\nf) Presidente do conselho diretivo do Laboratório Nacional de Investigação Veterinária.\n\n6 - O presidente da CCVE, por sua iniciativa ou sob proposta de qualquer membro, pode convidar outras entidades para participarem nas reuniões da Comissão e nomear um grupo técnico de vigilância epidemiológica para o coadjuvar nesse âmbito.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189107": {
+   "fragment_id": "870890301",
+   "type": 11,
+   "heading": "Artigo 7.º — Comissão Coordenadora de Emergência",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Comissão Coordenadora de Emergência\n\n1 - A Comissão Coordenadora de Emergência (CCE) intervém em situações de emergência de saúde pública, por determinação do presidente do CNSP, quando se verifique uma ocorrência ou ameaça iminente de fenómenos relativos a doenças transmissíveis e outros riscos em saúde, cujas características possam vir a causar graves consequências para a saúde pública.\n\n2 - Compete, em especial, à CCE:\n\na) Avaliar, no prazo de 48 horas, todas as comunicações de ocorrências de emergência, com tratamento da informação imediata no SINAVE;\n\nb) Elaborar relatório de análise a submeter ao CNSP, em casos de calamidade pública que justifiquem declaração do estado de emergência.\n\n3 - A Comissão deve elaborar um plano nacional de resposta que preveja, em particular, a criação de equipas para responder às ocorrências que possam constituir uma emergência de saúde pública de âmbito nacional, bem como garantir a disponibilidade, em qualquer momento, de um serviço que permita a comunicação imediata com os serviços de saúde pública de nível regional e de nível municipal.\n\n4 - Para efeitos da presente lei, considera-se emergência de saúde pública qualquer ocorrência extraordinária que constitua um risco para a saúde pública em virtude da probabilidade acrescida de disseminação de sinais, sintomas ou doenças requerendo uma resposta nacional coordenada.\n\n5 - A CCE é composta pelas seguintes entidades:\n\na) Membro do Governo responsável pela área da saúde, que preside, com faculdade de delegar no director-geral da Saúde;\n\nb) (Revogada.)\n\nc) Autoridades de saúde das Regiões Autónomas;\n\nd) Presidente do conselho directivo do Instituto Nacional de Emergência Médica, I. P.;\n\ne) Presidente do conselho diretivo do INSA, I. P.;\n\nf) Presidente do conselho directivo do INFARMED -Autoridade Nacional do Medicamento e Produtos de Saúde, I. P.;\n\ng) Presidente da Autoridade Nacional de Emergência e Proteção Civil;\n\nh) Diretor executivo da Direção Executiva do Serviço Nacional de Saúde, I. P.\n\n6 - O presidente da CCE pode, por sua iniciativa ou sob proposta de qualquer membro, convidar outras entidades para participarem nas reuniões da Comissão, para organização das medidas de resposta a adoptar perante situações de emergência em saúde pública.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189108": {
+   "fragment_id": "870890308",
+   "type": 11,
+   "heading": "Artigo 13.º — Detecção e comunicação de ocorrências em saúde pública",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 13.º — Detecção e comunicação de ocorrências em saúde pública\n\n1 - As actividades de notificação, de verificação e de colaboração, no âmbito da vigilância epidemiológica, devem ser desenvolvidas através das estruturas e dos recursos nacionais dos serviços operativos de saúde pública.\n\n2 - As ocorrências que envolvam níveis de morbilidade ou mortalidade superiores aos esperados para o período e local considerados devem ser, logo que conhecidas, comunicadas pelas entidades que integram a rede às autoridades de saúde, bem como aos responsáveis de estruturas locais, nomeadamente os conselhos de administração das ULS da área geográfica relevante, os quais devem aplicar, de imediato, medidas preliminares adequadas de controlo.\n\n3 - A DGS e as ULS asseguram a respetiva capacidade de resposta de saúde pública para confirmar o estado das ocorrências notificadas e apoiar ou aplicar, de imediato, medidas complementares de controlo e, se considerados de emergência, comunicar todos os dados essenciais a nível nacional para a CCE, para avaliação nos termos previstos na alínea a) do n.º 2 do artigo 7.º\n\n4 - Para efeitos do presente artigo, os critérios que determinam a existência de uma emergência assentam na antecipação de eventuais graves repercussões sobre a saúde pública, bem como o carácter inusitado ou inesperado, de uma ocorrência extraordinária, com probabilidade acrescida de disseminação da exposição ao problema identificado.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "887189109": {
+   "fragment_id": "870890313",
+   "type": 11,
+   "heading": "Artigo 17.º — Poder regulamentar excepcional",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Poder regulamentar excepcional\n\n1 - De acordo com o estipulado no n.º 3 da base 34 da Lei n.º 95/2019, de 4 de setembro, o membro do Governo responsável pela área da saúde pode tomar medidas de exceção indispensáveis em caso de emergência em saúde pública, incluindo a restrição, a suspensão ou o encerramento de atividades ou a separação de pessoas que não estejam doentes, meios de transporte ou mercadorias, que tenham sido expostos, de forma a evitar a eventual disseminação da infeção ou contaminação.\n\n2 - O membro do Governo responsável pela área da saúde, sob proposta do director-geral da Saúde, como autoridade de saúde nacional, pode emitir orientações e normas regulamentares no exercício dos poderes de autoridade, com força executiva imediata, no âmbito das situações de emergência em saúde pública com a finalidade de tornar exequíveis as normas de contingência para as epidemias ou de outras medidas consideradas indispensáveis cuja eficácia dependa da celeridade na sua implementação.\n\n3 - As medidas previstas nos números anteriores devem ser aplicadas com critérios de proporcionalidade que respeitem os direitos, liberdades e garantias fundamentais, nos termos da Constituição e da lei.\n\n4 - As medidas e orientações previstas nos n.os 1 e 2 são coordenadas, quando necessário, com o membro do Governo responsável pelas áreas da segurança interna e protecção civil, designadamente no que se reporta à mobilização e à prontidão dos dispositivos de segurança interna e de protecção e socorro, devendo ser comunicadas à Assembleia da República.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  },
+  "870891195": {
+   "fragment_id": "870890326",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 3 de Julho de 2009.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 12 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 14 de Agosto de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

@@ -1,0 +1,318 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:337580:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-114916389",
+ "dre_path": "/dr/detalhe/portaria/27-2001-337580",
+ "source_lastmod": "2024-07-31",
+ "versions": [
+  {
+   "date": "2001-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870597716",
+    "1108673675",
+    "1108674575",
+    "1108673375",
+    "1108673075"
+   ]
+  },
+  {
+   "date": "2002-04-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:291810:por",
+     "title": "Portaria n.º 402/2002",
+     "published": "2002-04-18",
+     "dre_path": "/dr/detalhe/portaria/402-2002-291810"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "222515398",
+    "114918851",
+    "870597697"
+   ]
+  },
+  {
+   "date": "2004-10-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:583066:por",
+     "title": "Portaria n.º 1266/2004",
+     "published": "2004-10-01",
+     "dre_path": "/dr/detalhe/portaria/1266-2004-583066"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "222515398",
+    "114918851",
+    "870597700"
+   ]
+  },
+  {
+   "date": "2011-02-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:279828:por",
+     "title": "Portaria n.º 82/2011",
+     "published": "2011-02-22",
+     "dre_path": "/dr/detalhe/portaria/82-2011-279828"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "222515398",
+    "114918851",
+    "870597706"
+   ]
+  },
+  {
+   "date": "2014-08-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56304799:por",
+     "title": "Portaria n.º 170/2014",
+     "published": "2014-08-22",
+     "dre_path": "/dr/detalhe/portaria/170-2014-56304799"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "222515398",
+    "114918851",
+    "870597713"
+   ]
+  },
+  {
+   "date": "2020-03-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129793722:por",
+     "title": "Portaria n.º 56/2020",
+     "published": "2020-03-03",
+     "dre_path": "/dr/detalhe/portaria/56-2020-129793722"
+    }
+   ],
+   "changes": [
+    "Altera Diploma",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "870597715",
+    "114918851",
+    "870597714"
+   ]
+  },
+  {
+   "date": "2022-10-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:202709177:por",
+     "title": "Portaria n.º 255/2022",
+     "published": "2022-10-26",
+     "dre_path": "/dr/detalhe/portaria/255-2022-202709177"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "870597716",
+    "1108673875",
+    "1108673675",
+    "1108674575",
+    "1108673375",
+    "1108673075",
+    "870597717",
+    "870597718"
+   ]
+  }
+ ],
+ "fragments": {
+  "870597716": {
+   "fragment_id": "114916390",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-27",
+   "changed_by": [],
+   "markdown": "Portaria n.º 27/2001\n\nde 15 de Janeiro\n\nPrevê-se no artigo 48.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que o membro do Governo responsável pelo sector das pescas fixe, por portaria, os tamanhos mínimos de espécies relativamente às quais tal não esteja fixado em regulamentação comunitária.\n\nConsiderando a necessidade de adequar a pesca ao estado e condição dos recursos disponíveis, procurando, deste modo, assegurar a sua conservação e gestão, fixam-se pelo presente diploma os tamanhos mínimos de várias espécies para além dos já previstos nos artigos 17.º a 19.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1998&id=398R0850\" title=\"Link para Regulamento da Comunidade Europeia\">850/98</a>, do Conselho, de 30 de Março.\n\nConsiderando ainda que o disposto no citado regulamento não se aplica às águas interiores não marítimas e que as características de alguns estuários e rias permitem prever a captura de um considerável leque das espécies ali previstas, torna-se necessário que as mesmas constem do presente diploma.\n\nAo abrigo do disposto nos artigos 4.º, n.º 2, alínea i), do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e 48.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural a das Pescas, o seguinte:"
+  },
+  "1108673675": {
+   "fragment_id": "1108673575",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nSão revogadas as Portarias n.os 281-C/97, de 30 de Abril, 375-A/97, de 9 de Junho, e 281/98, de 9 de Março, o n.º 1.º da Portaria n.º 1124/99, de 29 de Dezembro, o artigo 9.º e o anexo II da Portaria n.º 560/90, de 19 de Julho, o artigo 14.º e o anexo II da Portaria n.º 561/90, de 19 de Julho, o artigo 9.º e o anexo II da Portaria n.º 562/90, de 19 de Julho, o artigo 10.º e o anexo II da Portaria n.º 563/90, de 19 de Julho, o artigo 9.º e o anexo II da Portaria n.º 564/90, de 19 de Julho, o artigo 13.º e o anexo II da Portaria n.º 565/90, de 19 de Julho, o artigo 8.º e o anexo II da Portaria n.º 566/90, de 19 de Julho, o artigo 8.º e o anexo II da Portaria n.º 567/90, de 19 de Julho, na redacção dada pela Portaria n.º 219/98, de 3 de Abril, o artigo 9.º e o anexo II da Portaria n.º 568/90, de 19 de Julho, e o artigo 8.º e o anexo II da Portaria n.º 569/90, de 19 de Julho."
+  },
+  "1108674575": {
+   "fragment_id": "1108674475",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nNos termos do n.º 1 do artigo 7.º do Decreto Regulamentar n.º 14/2000, de 21 de Setembro, estes tamanhos mínimos não se aplicam aos espécimes oriundos de estabelecimentos de cultura marinhos."
+  },
+  "1108673375": {
+   "fragment_id": "1108673275",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA presente portaria aplica-se em águas oceânicas, interiores marítimas e interiores não marítimas."
+  },
+  "1108673075": {
+   "fragment_id": "1108672975",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nOs peixes, crustáceos e moluscos constantes do anexo à presente portaria cujos tamanhos forem inferiores aos tamanhos mínimos ali fixados devem ser imediatamente devolvidos ao mar, não podendo ser mantidos a bordo, transbordados, desembarcados, transportados, armazenados, expostos, colocados à venda ou vendidos."
+  },
+  "222515398": {
+   "fragment_id": "114916390",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+   ],
+   "markdown": "Portaria n.º 27/2001\n\nde 15 de Janeiro\n\nPrevê-se no artigo 48.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que o membro do Governo responsável pelo sector das pescas fixe, por portaria, os tamanhos mínimos de espécies relativamente às quais tal não esteja fixado em regulamentação comunitária.\n\nConsiderando a necessidade de adequar a pesca ao estado e condição dos recursos disponíveis, procurando, deste modo, assegurar a sua conservação e gestão, fixam-se pelo presente diploma os tamanhos mínimos de várias espécies para além dos já previstos nos artigos 17.º a 19.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1998&id=398R0850\" title=\"Link para Regulamento da Comunidade Europeia\">850/98</a>, do Conselho, de 30 de Março.\n\nConsiderando ainda que o disposto no citado regulamento não se aplica às águas interiores não marítimas e que as características de alguns estuários e rias permitem prever a captura de um considerável leque das espécies ali previstas, torna-se necessário que as mesmas constem do presente diploma.\n\nAo abrigo do disposto nos artigos 4.º, n.º 2, alínea i), do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e 48.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural a das Pescas, o seguinte:\n\n> Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+  },
+  "114918851": {
+   "fragment_id": "114916391",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 18 de Dezembro de 2000."
+  },
+  "870597697": {
+   "fragment_id": "222514894",
+   "type": 14,
+   "heading": "Anexo — Tamanhos mínimos",
+   "in_force_from": "2002-04-23",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23",
+    "Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+   ],
+   "markdown": "## Anexo — Tamanhos mínimos\n\n(ver quadro no documento original)\n\n> Nota: [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810) Altera o presente anexo, nos seguintes termos: São alterados os tamanhos mínimos definidos para a solha avessa (Pleuronectes platessa), que passa de 220 mm para 270 mm, a corvina legítima (Argyrosomus regius), que passa de 600 mm para 420 mm, e a lagosta (Palinurus spp.), que passa a ser de 95 mm.\n\n> Nota: [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035) Retifica o presente anexo, nos seguintes termos: Onde se lê «Badejo (Merlangius merlangius)» deve ler-se «Badejo (Merlangius merlangus)\n\n> Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23\n\n> Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+  },
+  "870597700": {
+   "fragment_id": "222514894",
+   "type": 14,
+   "heading": "Anexo — Tamanhos mínimos",
+   "in_force_from": "2004-10-06",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 1266/2004 - Diário da República n.º 232/2004, Série I-B de 2004-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1266-2004-583066), em vigor a partir de 2004-10-06",
+    "Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23",
+    "Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+   ],
+   "markdown": "## Anexo — Tamanhos mínimos\n\n(ver quadro no documento original)\n\n> Nota: [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810) Altera o presente anexo, nos seguintes termos: São alterados os tamanhos mínimos definidos para a solha avessa (Pleuronectes platessa), que passa de 220 mm para 270 mm, a corvina legítima (Argyrosomus regius), que passa de 600 mm para 420 mm, e a lagosta (Palinurus spp.), que passa a ser de 95 mm.\n\n> Nota: [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035) Retifica o presente anexo, nos seguintes termos: Onde se lê «Badejo (Merlangius merlangius)» deve ler-se «Badejo (Merlangius merlangus)\n\n> Alterado pelo/a [Portaria n.º 1266/2004 - Diário da República n.º 232/2004, Série I-B de 2004-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1266-2004-583066), em vigor a partir de 2004-10-06\n\n> Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23\n\n> Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+  },
+  "870597706": {
+   "fragment_id": "222514894",
+   "type": 14,
+   "heading": "Anexo — Tamanhos mínimos",
+   "in_force_from": "2011-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2011 - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/82-2011-279828), em vigor a partir de 2011-02-23",
+    "Alterado pelo/a [Portaria n.º 1266/2004 - Diário da República n.º 232/2004, Série I-B de 2004-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1266-2004-583066), em vigor a partir de 2004-10-06",
+    "Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23",
+    "Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+   ],
+   "markdown": "## Anexo — Tamanhos mínimos\n\n(ver quadro no documento original)\n\nQUADRO\n\nModo de medição de alguns invertebrados\n\n(ver documento original)\n\nBurriés - comprimento total ou altura.\n\nLapas - distância máxima entre os bordos da concha.\n\nOuriço-do-mar - diâmetro equatorial.\n\nPercebe - tamanho definido pela distância máxima da «unha», ou seja, entre os bordos das placas Rostrum e Carina.\n\n> Nota: [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810) Altera o presente anexo, nos seguintes termos: São alterados os tamanhos mínimos definidos para a solha avessa (Pleuronectes platessa), que passa de 220 mm para 270 mm, a corvina legítima (Argyrosomus regius), que passa de 600 mm para 420 mm, e a lagosta (Palinurus spp.), que passa a ser de 95 mm.\n\n> Nota: [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035) Retifica o presente anexo, nos seguintes termos: Onde se lê «Badejo (Merlangius merlangius)» deve ler-se «Badejo (Merlangius merlangus)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2011 - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/82-2011-279828), em vigor a partir de 2011-02-23\n\n> Alterado pelo/a [Portaria n.º 1266/2004 - Diário da República n.º 232/2004, Série I-B de 2004-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1266-2004-583066), em vigor a partir de 2004-10-06\n\n> Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23\n\n> Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+  },
+  "870597713": {
+   "fragment_id": "222514894",
+   "type": 14,
+   "heading": "Anexo — Tamanhos mínimos",
+   "in_force_from": "2014-08-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 170/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/170-2014-56304799), em vigor a partir de 2014-08-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2011 - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/82-2011-279828), em vigor a partir de 2011-02-23",
+    "Alterado pelo/a [Portaria n.º 1266/2004 - Diário da República n.º 232/2004, Série I-B de 2004-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1266-2004-583066), em vigor a partir de 2004-10-06",
+    "Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23",
+    "Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+   ],
+   "markdown": "## Anexo — Tamanhos mínimos\n\n(ver quadro no documento original)\n\nQUADRO\n\nModo de medição de alguns invertebrados e raias\n\n(ver documento original)\n\nBurriés - comprimento total ou altura.\n\nLapas - distância máxima entre os bordos da concha.\n\nOuriço-do-mar - diâmetro equatorial.\n\nPercebe - tamanho definido pela distância máxima da «unha», ou seja, entre os bordos das placas Rostrum e Carina.\n\nRaias - da ponta do focinho até ao fim da barbatana caudal\n\n> Nota: [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810) Altera o presente anexo, nos seguintes termos: São alterados os tamanhos mínimos definidos para a solha avessa (Pleuronectes platessa), que passa de 220 mm para 270 mm, a corvina legítima (Argyrosomus regius), que passa de 600 mm para 420 mm, e a lagosta (Palinurus spp.), que passa a ser de 95 mm.\n\n> Nota: [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035) Retifica o presente anexo, nos seguintes termos: Onde se lê «Badejo (Merlangius merlangius)» deve ler-se «Badejo (Merlangius merlangus)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 170/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/170-2014-56304799), em vigor a partir de 2014-08-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2011 - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/82-2011-279828), em vigor a partir de 2011-02-23\n\n> Alterado pelo/a [Portaria n.º 1266/2004 - Diário da República n.º 232/2004, Série I-B de 2004-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1266-2004-583066), em vigor a partir de 2004-10-06\n\n> Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23\n\n> Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+  },
+  "870597715": {
+   "fragment_id": "114916390",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-03-08",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 56/2020 - Diário da República n.º 44/2020, Série I de 2020-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/56-2020-129793722), em vigor a partir de 2020-03-08"
+   ],
+   "markdown": "Portaria n.º 27/2001\n\nde 15 de Janeiro\n\nPrevê-se no artigo 48.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio, que o membro do Governo responsável pelo sector das pescas fixe, por portaria, os tamanhos mínimos de espécies relativamente às quais tal não esteja fixado em regulamentação comunitária.\n\nConsiderando a necessidade de adequar a pesca ao estado e condição dos recursos disponíveis, procurando, deste modo, assegurar a sua conservação e gestão, fixam-se pelo presente diploma os tamanhos mínimos de várias espécies para além dos já previstos nos artigos 17.º a 19.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=1998&id=398R0850\" title=\"Link para Regulamento da Comunidade Europeia\">850/98</a>, do Conselho, de 30 de Março.\n\nConsiderando ainda que o disposto no citado regulamento não se aplica às águas interiores não marítimas e que as características de alguns estuários e rias permitem prever a captura de um considerável leque das espécies ali previstas, torna-se necessário que as mesmas constem do presente diploma.\n\nAo abrigo do disposto nos artigos 4.º, n.º 2, alínea i), do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e 48.º do Decreto Regulamentar n.º 43/87, de 17 de Julho, na redacção dada pelo Decreto Regulamentar n.º 7/2000, de 30 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural a das Pescas, o seguinte:\n\n> Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 56/2020 - Diário da República n.º 44/2020, Série I de 2020-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/56-2020-129793722), em vigor a partir de 2020-03-08"
+  },
+  "870597714": {
+   "fragment_id": "222514894",
+   "type": 14,
+   "heading": "Anexo — Tamanhos mínimos",
+   "in_force_from": "2020-03-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 56/2020 - Diário da República n.º 44/2020, Série I de 2020-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/56-2020-129793722), em vigor a partir de 2020-03-08",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 170/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/170-2014-56304799), em vigor a partir de 2014-08-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2011 - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/82-2011-279828), em vigor a partir de 2011-02-23",
+    "Alterado pelo/a [Portaria n.º 1266/2004 - Diário da República n.º 232/2004, Série I-B de 2004-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1266-2004-583066), em vigor a partir de 2004-10-06",
+    "Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23",
+    "Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+   ],
+   "markdown": "## Anexo — Tamanhos mínimos\n\n(ver quadro no documento original)\n\nQUADRO\n\nModo de medição de alguns invertebrados e raias\n\n(ver documento original)\n\nBurriés - comprimento total ou altura.\n\nLapas - distância máxima entre os bordos da concha.\n\nOuriço-do-mar - diâmetro equatorial.\n\nPercebe - tamanho definido pela distância máxima da «unha», ou seja, entre os bordos das placas Rostrum e Carina.\n\nRaias - da ponta do focinho até ao fim da barbatana caudal\n\n> Nota: [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810) Altera o presente anexo, nos seguintes termos: São alterados os tamanhos mínimos definidos para a solha avessa (Pleuronectes platessa), que passa de 220 mm para 270 mm, a corvina legítima (Argyrosomus regius), que passa de 600 mm para 420 mm, e a lagosta (Palinurus spp.), que passa a ser de 95 mm.\n\n> Nota: [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035) Retifica o presente anexo, nos seguintes termos: Onde se lê «Badejo (Merlangius merlangius)» deve ler-se «Badejo (Merlangius merlangus)\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 56/2020 - Diário da República n.º 44/2020, Série I de 2020-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/56-2020-129793722), em vigor a partir de 2020-03-08\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 170/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/170-2014-56304799), em vigor a partir de 2014-08-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2011 - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/82-2011-279828), em vigor a partir de 2011-02-23\n\n> Alterado pelo/a [Portaria n.º 1266/2004 - Diário da República n.º 232/2004, Série I-B de 2004-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1266-2004-583066), em vigor a partir de 2004-10-06\n\n> Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23\n\n> Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+  },
+  "1108673875": {
+   "fragment_id": "1108673775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 18 de Dezembro de 2000."
+  },
+  "870597717": {
+   "fragment_id": "114916391",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 255/2022 - Diário da República n.º 207/2022, Série I de 2022-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/255-2022-202709177), em vigor a partir de 2022-10-27"
+   ],
+   "markdown": "Pelo Ministro da Agricultura do Desenvolvimento Rural e das Pescas, José Apolinário Nunes Portada, Secretário de Estado das Pescas, em 18 de Dezembro de 2000.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 255/2022 - Diário da República n.º 207/2022, Série I de 2022-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/255-2022-202709177), em vigor a partir de 2022-10-27"
+  },
+  "870597718": {
+   "fragment_id": "222514894",
+   "type": 14,
+   "heading": "Anexo — Tamanhos mínimos",
+   "in_force_from": "2022-10-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 255/2022 - Diário da República n.º 207/2022, Série I de 2022-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/255-2022-202709177), em vigor a partir de 2022-10-27",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 56/2020 - Diário da República n.º 44/2020, Série I de 2020-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/56-2020-129793722), em vigor a partir de 2020-03-08",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 170/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/170-2014-56304799), em vigor a partir de 2014-08-23",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2011 - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/82-2011-279828), em vigor a partir de 2011-02-23",
+    "Alterado pelo/a [Portaria n.º 1266/2004 - Diário da República n.º 232/2004, Série I-B de 2004-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1266-2004-583066), em vigor a partir de 2004-10-06",
+    "Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23",
+    "Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+   ],
+   "markdown": "## Anexo — Tamanhos mínimos\n\n(ver quadro no documento original)\n\nQUADRO\n\nModo de medição de alguns invertebrados e raias\n\n(ver documento original)\n\nBurriés - comprimento total ou altura.\n\nLapas - distância máxima entre os bordos da concha.\n\nOuriço-do-mar - diâmetro equatorial.\n\nPercebe - tamanho definido pela distância máxima da «unha», ou seja, entre os bordos das placas Rostrum e Carina.\n\nRaias - da ponta do focinho até ao fim da barbatana caudal\n\n> Nota: [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810) Altera o presente anexo, nos seguintes termos: São alterados os tamanhos mínimos definidos para a solha avessa (Pleuronectes platessa), que passa de 220 mm para 270 mm, a corvina legítima (Argyrosomus regius), que passa de 600 mm para 420 mm, e a lagosta (Palinurus spp.), que passa a ser de 95 mm.\n\n> Nota: [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035) Retifica o presente anexo, nos seguintes termos: Onde se lê «Badejo (Merlangius merlangius)» deve ler-se «Badejo (Merlangius merlangus)\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 255/2022 - Diário da República n.º 207/2022, Série I de 2022-10-26](https://diariodarepublica.pt/dr/detalhe/portaria/255-2022-202709177), em vigor a partir de 2022-10-27\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 56/2020 - Diário da República n.º 44/2020, Série I de 2020-03-03](https://diariodarepublica.pt/dr/detalhe/portaria/56-2020-129793722), em vigor a partir de 2020-03-08\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 170/2014 - Diário da República n.º 161/2014, Série I de 2014-08-22](https://diariodarepublica.pt/dr/detalhe/portaria/170-2014-56304799), em vigor a partir de 2014-08-23\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 82/2011 - Diário da República n.º 37/2011, Série I de 2011-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/82-2011-279828), em vigor a partir de 2011-02-23\n\n> Alterado pelo/a [Portaria n.º 1266/2004 - Diário da República n.º 232/2004, Série I-B de 2004-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/1266-2004-583066), em vigor a partir de 2004-10-06\n\n> Alterado pelo/a [Portaria n.º 402/2002 - Diário da República n.º 91/2002, Série I-B de 2002-04-18](https://diariodarepublica.pt/dr/detalhe/portaria/402-2002-291810), em vigor a partir de 2002-04-23\n\n> Retificado pelo/a [Declaração de Rectificação n.º 3-C/2001 - Diário da República n.º 26/2001, 3º Suplemento, Série I-B de 2001-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/3-c-2001-274035), produz efeitos a partir de 2001-01-20"
+  }
+ }
+}

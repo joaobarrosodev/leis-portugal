@@ -1,0 +1,315 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:56351552:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2014-124489878",
+ "dre_path": "/dr/detalhe/lei/61-2014-56351552",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-08-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124489693",
+    "124489694",
+    "124489695",
+    "124489696",
+    "124489697",
+    "124489699",
+    "124489700",
+    "124489701",
+    "124489702",
+    "124489703",
+    "124489704",
+    "124489705",
+    "124489706",
+    "124489707",
+    "124489708",
+    "124489709",
+    "124489710",
+    "124489711",
+    "124489712",
+    "124489713"
+   ]
+  },
+  {
+   "date": "2016-08-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75170385:por",
+     "title": "Lei n.º 23/2016",
+     "published": "2016-08-19",
+     "dre_path": "/dr/detalhe/lei/23-2016-75170385"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "124489693",
+    "124489694",
+    "124489695",
+    "124489696",
+    "124489697",
+    "124489698",
+    "124489699",
+    "124489700",
+    "124489701",
+    "124489702",
+    "124489752",
+    "124489704",
+    "124489705",
+    "124489706",
+    "124489707",
+    "124489708",
+    "124489709",
+    "124489710",
+    "124489711",
+    "124489712",
+    "124489713"
+   ]
+  },
+  {
+   "date": "2019-09-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124417111:por",
+     "title": "Lei n.º 98/2019",
+     "published": "2019-09-04",
+     "dre_path": "/dr/detalhe/lei/98-2019-124417111"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "124489693",
+    "124489694",
+    "124489695",
+    "124489696",
+    "124489697",
+    "124489698",
+    "124489699",
+    "124489700",
+    "124489701",
+    "124489702",
+    "124489752",
+    "124489704",
+    "124489705",
+    "124489706",
+    "124489707",
+    "124489708",
+    "124489709",
+    "124489755",
+    "124489711",
+    "124489712",
+    "124489713",
+    "124489753"
+   ]
+  }
+ ],
+ "fragments": {
+  "124489693": {
+   "fragment_id": "124489879",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 61/2014\n\nde 26 de agosto\n\nAprova o regime especial aplicável aos ativos por impostos diferidos\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "124489694": {
+   "fragment_id": "124489880",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova em anexo, que dela faz parte integrante, o regime especial aplicável aos ativos por impostos diferidos que tenham resultado da não dedução de gastos e variações patrimoniais negativas com perdas por imparidade em créditos e com benefícios pós-emprego ou a longo prazo de empregados."
+  },
+  "124489695": {
+   "fragment_id": "124489881",
+   "type": 11,
+   "heading": "Artigo 2.º — Adesão ao regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Adesão ao regime\n\n1 - Os sujeitos passivos de Imposto sobre o Rendimento das Pessoas Coletivas (IRC), que pretendam aderir ao regime especial aprovado em anexo à presente lei devem manifestar essa intenção através de comunicação dirigida ao membro do Governo responsável pela área das finanças, a apresentar à Autoridade Tributária e Aduaneira (AT) até ao décimo dia posterior ao da publicação da presente lei.\n\n2 - A adesão ao regime depende da manifestação de intenção referida no número anterior, bem como da respetiva aprovação pela assembleia geral, a qual deve aprovar igualmente o cumprimento dos demais requisitos legais do regime especial.\n\n3 - Os requisitos legais de adesão ao regime especial devem verificar-se ao longo de todo o período de tributação do sujeito passivo em que o regime se aplique.\n\n4 - Após adesão ao regime, os sujeitos passivos podem renunciar à aplicação do mesmo até ao final do período de tributação imediatamente anterior àquele em que se pretende que essa renúncia produza efeitos, através de comunicação dirigida ao membro do Governo responsável pela área das finanças, a apresentar à AT.\n\n5 - No caso de instituições de crédito e sociedades financeiras, a renúncia prevista no número anterior depende de prévia autorização da autoridade competente, nos termos do Regulamento (UE) n.º 575/2013, do Parlamento e do Conselho, de 26 de junho de 2013, relativo aos requisitos prudenciais para as instituições de crédito e para as empresas de investimento e que altera o Regulamento (UE) n.º 648/2012.\n\n6 - O pedido de renúncia previsto no n.º 4 deve ser acompanhado da autorização concedida nos termos do número anterior.\n\n7 - Em caso de renúncia, os gastos e variações patrimoniais que não eram dedutíveis fiscalmente em resultado da aplicação do regime são deduzidos ao lucro tributável do período em que essa renúncia produza efeitos."
+  },
+  "124489696": {
+   "fragment_id": "124489882",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito temporal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito temporal\n\nO regime aprovado pela presente lei é aplicável aos gastos e variações patrimoniais negativas contabilizadas nos períodos de tributação que se iniciem em ou após 1 de janeiro de 2015, bem como aos ativos por impostos diferidos que se encontrem registados nas contas anuais do sujeito passivo relativas ao último período de tributação anterior àquela data e à parte dos gastos e variações patrimoniais negativas que lhes estejam associados."
+  },
+  "124489697": {
+   "fragment_id": "124489883",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "124489699": {
+   "fragment_id": "124489885",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 1.º)"
+  },
+  "124489700": {
+   "fragment_id": "124489886",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regime especial é aplicável aos ativos por impostos diferidos que tenham resultado da não dedução de gastos e variações patrimoniais negativas com perdas por imparidade em créditos e com benefícios pós-emprego ou a longo prazo de empregados."
+  },
+  "124489701": {
+   "fragment_id": "124489887",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito subjetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito subjetivo\n\n1 - Podem aderir ao presente regime especial quaisquer sociedades comerciais e empresas públicas, bem como caixas económicas, caixas de crédito agrícola mútuo e a Caixa Central de Crédito Agrícola Mútuo, com sede ou direção efetiva em território português que exerçam, a título principal, uma atividade de natureza comercial, industrial ou agrícola, ou ainda estabelecimentos estáveis situados em território português de entidades de natureza idêntica ou similar àquelas, residentes noutro Estado membro da União Europeia ou num Estado membro do Espaço Económico Europeu que esteja vinculado a troca de informações para efeitos fiscais equivalente à estabelecida no âmbito da União Europeia.\n\n2 - A adesão ao regime especial pelas caixas económicas implica a adoção prévia da forma de sociedade anónima, não se aplicando o disposto no artigo 4.º do Decreto-Lei n.º 136/79, de 18 de maio, alterado pelos Decretos-Leis n.os 79/81, de 20 de abril, 49/86, de 14 de março, 212/86, de 1 de agosto, 182/90, de 6 de junho, 319/97, de 25 de novembro, e 188/2007, de 11 de maio.\n\n3 - No caso da Caixa Central de Crédito Agrícola Mútuo e das caixas de crédito agrícola mútuo, os direitos de conversão a que se refere o presente regime conferem direito, nos mesmos termos que as ações, à atribuição gratuita de títulos de capital representativos do capital social daquelas instituições e, desse modo, da qualidade de associado.\n\n4 - Em caso de exercício pelo Estado dos direitos de conversão nas situações previstas no número anterior, não são aplicáveis o artigo 16.º e os n.os 2 e 4 do artigo 53.º do Regime Jurídico do Crédito Agrícola Mútuo e das Cooperativas de Crédito Agrícola, aprovado pelo Decreto-Lei n.º 24/91, de 11 de janeiro, consoante os casos, podendo o Estado exonerar-se da qualidade de associado por alienação aos demais associados ou outros terceiros que reúnam os requisitos legais para o ser."
+  },
+  "124489702": {
+   "fragment_id": "124489888",
+   "type": 11,
+   "heading": "Artigo 3.º — Aprovação pela assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aprovação pela assembleia geral\n\n1 - A adesão ao regime especial deve ser aprovada por deliberação da assembleia geral do sujeito passivo, tomada pela maioria exigida para alteração do contrato de sociedade, que deve incluir especificamente:\n\na) A decisão de adesão ao presente regime especial;\n\nb) A constituição da reserva especial, a executar pelo órgão de administração, no montante que resulte do disposto no artigo 8.º, e a forma de a constituir, com recurso, se estritamente necessário, a prévia redução do capital;\n\nc) A finalidade única da reserva especial para incorporação, ao abrigo do presente regime, no capital social da sociedade e, quando seja o caso, em reserva constituída pelos ágios a que haja lugar.\n\n2 - O órgão de administração do sujeito passivo deve elaborar um relatório sobre a adesão ao regime especial e as possíveis consequências financeiras para os acionistas, que deve ser colocado à disposição dos mesmos no âmbito das informações preparatórias da assembleia geral.\n\n3 - A deliberação de constituição da reserva especial prevista no artigo 8.º implica a aprovação da emissão e atribuição ao Estado dos direitos de conversão a que se refere o artigo 9.º, bem como a aprovação do aumento do capital social da sociedade por incorporação da reserva especial, no montante e nas condições que vierem a ser necessárias para satisfazer o exercício dos direitos de conversão."
+  },
+  "124489703": {
+   "fragment_id": "124489889",
+   "type": 11,
+   "heading": "Artigo 4.º — Perdas por imparidade em créditos e benefícios pós-emprego ou a longo prazo de empregados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Perdas por imparidade em créditos e benefícios pós-emprego ou a longo prazo de empregados\n\n1 - Os gastos e variações patrimoniais negativas com perdas por imparidade em créditos previstas nos n.os 1 e 2 do artigo 28.º-A do Código do Imposto sobre o Rendimento das Pessoas Coletivas (Código do IRC), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, bem como com benefícios pós-emprego ou a longo prazo de empregados, de cuja não dedução para efeitos de apuramento do lucro tributável no período em que foram incorridos ou registadas tenha resultado o reconhecimento de ativos por impostos diferidos nas demonstrações financeiras, são dedutíveis no período de tributação em que se verifiquem as condições para o efeito previstas no Código do IRC, no artigo 9.º do Decreto-Lei n.º 127/2011, de 31 de dezembro, alterado pelas Leis n.os 20/2012, de 14 de maio, e 66-B/2012, de 31 de dezembro, ou no artigo 183.º da Lei n.º 64-B/2011, de 30 de dezembro, alterada pelas Leis n.os 20/2012, de 14 de maio, 64/2012, de 20 de dezembro, e 83/2013, de 9 de dezembro, com o limite do montante do lucro tributável desse período de tributação calculado antes da dedução destes gastos e variações patrimoniais negativas.\n\n2 - Os gastos e as variações patrimoniais negativas que não sejam deduzidos na determinação do lucro tributável em resultado da aplicação do disposto no número anterior são dedutíveis na determinação do lucro tributável dos períodos de tributação subsequentes, com o limite nele previsto.\n\n3 - Excluem-se do disposto nos números anteriores as perdas por imparidade e variações patrimoniais negativas previstas na alínea c) do n.º 1 do artigo 28.º-B do Código do IRC ou relativas a créditos sobre pessoas singulares ou coletivas que detenham, direta ou indiretamente, nos termos do n.º 6 do artigo 69.º do referido Código, mais de 2 % do capital do sujeito passivo ou sobre membros dos seus órgãos sociais, bem como os que não decorram do exercício, a título profissional, da atividade normal do sujeito passivo.\n\n4 - Excluem-se ainda do disposto nos n.os 1 e 2 as perdas por imparidade e variações patrimoniais negativas relativas a créditos sobre empresas participadas, direta ou indiretamente, nos termos do n.º 6 do artigo 69.º do Código do IRC, em mais de 10 % do capital ou entidades com as quais o sujeito passivo se encontre numa situação de relações especiais nos termos das alíneas a) a g) do n.º 4 do artigo 63.º do referido Código, quando daquelas perdas por imparidade ou variações patrimoniais negativas tenha resultado o reconhecimento de ativos por impostos diferidos em momento posterior ao da aquisição da participação ou verificação da condição da qual resulta a situação de relação especial.\n\n5 - Para efeitos do disposto no n.º 2 são deduzidos em primeiro lugar os gastos incorridos ou as variações patrimoniais negativas registadas há mais tempo.\n\n6 - Os gastos incorridos e as variações patrimoniais registadas pelas sociedades fundidas, e por estas ainda não deduzidos na determinação do lucro tributável em resultado da aplicação do disposto no n.º 1, podem ser deduzidos, nos mesmos termos e condições, na determinação do lucro tributável da sociedade beneficiária numa operação de fusão a que seja aplicado o regime especial estabelecido no artigo 74.º do Código do IRC.\n\n7 - Os sujeitos passivos devem integrar no processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC a informação e documentação respeitantes, designadamente, aos métodos utilizados na determinação das perdas por imparidade em créditos e das responsabilidades com benefícios pós-emprego ou a longo prazo de empregados, bem como as políticas contabilísticas adotadas em matéria de impostos diferidos.\n\n8 - As políticas e os métodos contabilísticos referidos no número anterior são certificados por revisor oficial de contas."
+  },
+  "124489704": {
+   "fragment_id": "124489890",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras aplicáveis no âmbito do regime especial de tributação dos grupos de sociedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regras aplicáveis no âmbito do regime especial de tributação dos grupos de sociedades\n\n1 - Nos períodos de tributação em que o sujeito passivo seja abrangido pelo regime especial de tributação dos grupos de sociedades previsto nos artigos 69.º e seguintes do Código do IRC, a dedução dos gastos e das variações patrimoniais negativas a que se refere o n.º 1 do artigo anterior não pode exceder o menor dos seguintes montantes:\n\na) Lucro tributável do sujeito passivo calculado antes da dedução daqueles gastos e variações patrimoniais negativas; ou\n\nb) Soma algébrica dos lucros tributáveis e dos prejuízos fiscais a que se refere o artigo 70.º do Código do IRC calculados antes da dedução daqueles gastos e variações patrimoniais negativas.\n\n2 - Os gastos e as variações patrimoniais negativas não deduzidos na determinação do lucro tributável em resultado da aplicação do disposto no número anterior são dedutíveis na determinação do lucro tributável dos períodos de tributação subsequentes, com o limite previsto no mesmo número.\n\n3 - Para efeitos do disposto no número anterior, são deduzidos em primeiro lugar os gastos ou as variações patrimoniais incorridos ou registadas há mais tempo ou, quando tenham sido incorridos ou registadas no mesmo período de tributação, na proporção entre o montante destes gastos e variações patrimoniais negativas de cada sociedade e o total dos gastos e variações patrimoniais negativas relevantes de todas as sociedades do grupo incorridos ou registadas nesse período.\n\n4 - Terminada a aplicação do regime relativamente a uma sociedade do grupo, os gastos e as variações patrimoniais negativas por ela incorridos ou registadas e que ainda não tenham sido totalmente deduzidos são dedutíveis na determinação do lucro tributável da sociedade a que respeitam, nos termos e condições previstos no artigo anterior.\n\n5 - Quando, durante a aplicação do regime, haja lugar a operações de fusão entre sociedades do grupo ou uma sociedade incorpore uma ou mais sociedades não pertencentes ao grupo, os gastos e variações patrimoniais negativas ainda não deduzidos na determinação do lucro tributável em resultado da aplicação do disposto no n.º 1 são dedutíveis, nos mesmos termos e condições, na determinação do lucro tributável do grupo até ao limite do lucro tributável da nova sociedade ou da sociedade incorporante, desde que a essas operações seja aplicado o regime especial estabelecido no artigo 74.º do Código do IRC."
+  },
+  "124489705": {
+   "fragment_id": "124489891",
+   "type": 11,
+   "heading": "Artigo 6.º — Conversão de ativos por impostos diferidos em crédito tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conversão de ativos por impostos diferidos em crédito tributário\n\n1 - Os ativos por impostos diferidos que tenham resultado da não dedução de gastos e variações patrimoniais negativas com perdas por imparidade em créditos e com benefícios pós-emprego ou a longo prazo de empregados, a que se refere o n.º 1 do artigo 4.º, são convertidos em créditos tributários quando o sujeito passivo:\n\na) Registe um resultado líquido negativo do período nas suas contas anuais, depois de aprovadas pelos órgãos sociais, nos termos da legislação aplicável;\n\nb) Entre em liquidação por dissolução voluntária, insolvência decretada por sentença judicial ou, quando aplicável, revogação da respetiva autorização por autoridade de supervisão competente.\n\n2 - Nos casos previstos na alínea a) do número anterior, o montante dos ativos por impostos diferidos a converter em crédito tributário é o correspondente à proporção entre o montante do resultado líquido negativo do período e o total dos capitais próprios do sujeito passivo.\n\n3 - Quando o total dos capitais próprios referidos no número anterior for negativo ou inferior ao resultado líquido negativo do período, bem como nas situações previstas na alínea b) do n.º 1, é convertida em crédito tributário a totalidade do montante dos ativos por impostos diferidos a que se refere o n.º 1.\n\n4 - Nos casos previstos na alínea b) do n.º 1, o sujeito passivo não pode retomar a sua atividade.\n\n5 - Para efeitos do disposto no n.º 2, no total dos capitais próprios exclui-se o resultado líquido negativo do período e incluem-se o capital social e prémios de emissão associados, as reservas, os resultados transitados e, quando aplicável, os instrumentos referidos no artigo 26.º do Regulamento (UE) n.º 575/2013, do Parlamento e do Conselho, de 26 de junho de 2013, e os instrumentos cuja inclusão seja permitida para o cálculo dos fundos próprios principais de nível 1 de acordo com as disposições da parte X do título I do capítulo 2 do mesmo Regulamento.\n\n6 - A conversão em crédito tributário prevista nos números anteriores abrange os ativos por impostos diferidos a que se referem o n.º 1 do artigo 4.º e o n.º 1 do artigo 5.º que se encontrem registados nas demonstrações financeiras do sujeito passivo relativas ao período em que se verifique a situação prevista na alínea a) do n.º 1 ou na data da entrada em liquidação prevista na alínea b) do n.º 1, consoante os casos.\n\n7 - O sujeito passivo deve inscrever na declaração periódica de rendimentos prevista no artigo 120.º do Código do IRC relativa ao período de tributação em que se verifique alguma das situações previstas no n.º 1, o montante do crédito tributário apurado nos termos dos números anteriores.\n\n8 - Os gastos e as variações patrimoniais negativas ainda não deduzidos na determinação do lucro tributável por não se terem verificado as condições para o efeito previstas no Código do IRC, no artigo 9.º do Decreto-Lei n.º 127/2011, de 31 de dezembro, alterado pelas Leis n.os 20/2012, de 14 de maio, e 66-B/2012, de 31 de dezembro, no artigo 183.º da Lei n.º 64-B/2011, de 30 de dezembro, alterada pelas Leis n.os 20/2012, de 14 de maio, 64/2012, de 20 de dezembro, e 83/2013, de 9 de dezembro, no n.º 2 do artigo 4.º ou no n.º 2 do artigo 5.º, não concorrem para a dedução ao lucro tributável, na parte associada aos correspondentes ativos por impostos diferidos que tenham sido objeto de conversão nos termos do presente artigo.\n\n9 - Os rendimentos e as variações patrimoniais positivas resultantes da reversão de perdas por imparidade em créditos, na parte associada aos correspondentes ativos por impostos diferidos que tenham sido objeto de conversão nos termos do presente artigo, consideram-se componentes positivas do lucro tributável do respetivo período de tributação."
+  },
+  "124489706": {
+   "fragment_id": "124489892",
+   "type": 11,
+   "heading": "Artigo 7.º — Utilização do crédito tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Utilização do crédito tributário\n\n1 - O crédito tributário resultante da conversão de ativos por impostos diferidos nos termos do artigo anterior pode ser utilizado, por iniciativa do sujeito passivo, na compensação com dívidas deste ou de qualquer entidade com sede em Portugal integrada no mesmo grupo de sociedades ao qual se aplique o regime especial previsto no artigo 69.º do Código do IRC ou, quando aplicável, no mesmo perímetro de consolidação prudencial para efeitos do Regulamento (UE) n.º 575/2013, do Parlamento Europeu e do Conselho, de 26 de junho de 2013.\n\n2 - O disposto no número anterior abrange as dívidas relativas a impostos estaduais sobre o rendimento e o património que constituam seu encargo e cujo facto gerador não ocorra posteriormente à data daquela conversão, desde que o termo do prazo de pagamento voluntário ocorra até ao último dia do período de tributação seguinte àquele em que se verifique o facto previsto na alínea a) do n.º 1 do artigo anterior.\n\n3 - O montante que não seja compensado com dívidas tributárias no prazo previsto no número anterior é imediatamente reembolsado ao sujeito passivo."
+  },
+  "124489707": {
+   "fragment_id": "124489893",
+   "type": 11,
+   "heading": "Artigo 8.º — Reserva especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reserva especial\n\n1 - Nos casos previstos na alínea a) do n.º 1 do artigo 6.º, o sujeito passivo constitui uma reserva especial no montante do crédito tributário apurado nos termos daquele artigo, majorado de 10 %, sem prejuízo do ajustamento previsto no n.º 3 do artigo 11.º\n\n2 - A reserva especial destina-se exclusivamente a ser incorporada no capital social e, se for caso disso, em reserva constituída pelos ágios a que haja lugar e sujeita ao regime da reserva legal, através de aumento do capital social do sujeito passivo na modalidade especial prevista no presente regime."
+  },
+  "124489708": {
+   "fragment_id": "124489894",
+   "type": 11,
+   "heading": "Artigo 9.º — Direitos de conversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direitos de conversão\n\n1 - A constituição da reserva especial implica a constituição simultânea de direitos de conversão atribuídos ao Estado.\n\n2 - Os direitos de conversão referidos no número anterior são valores mobiliários que conferem ao respetivo titular o direito a exigir ao sujeito passivo o respetivo aumento do capital através da incorporação do montante da reserva especial e consequente emissão e entrega gratuita de ações ordinárias representativas do capital social do sujeito passivo.\n\n3 - O número de direitos a emitir e atribuir ao Estado corresponde ao resultado do quociente entre o montante da reserva especial e o valor de referência dos direitos de conversão calculado nos termos dos números seguintes.\n\n4 - No caso dos sujeitos passivos emitentes de ações admitidas à negociação em mercado regulamentado, o valor de referência dos direitos de conversão corresponde ao preço médio ponderado pelo volume das ações ordinárias representativas do capital social do sujeito passivo apurado durante o período de negociação entre a data da apresentação da proposta de deliberação de aplicação de resultados e a deliberação da assembleia geral que aprove as contas anuais.\n\n5 - No caso dos sujeitos passivos não abrangidos pelo número anterior, o valor de referência dos direitos de conversão corresponde ao valor contabilístico ajustado das ações ordinárias representativas do capital social do sujeito passivo, entendido como o quociente entre os capitais próprios deduzidos do montante do crédito tributário apurado nos termos do artigo 6.º majorado de 10 % e o número de ações representativas do capital social deduzido das ações próprias, à data e de acordo com as últimas contas anuais aprovadas pelos órgãos sociais competentes nos termos da legislação aplicável.\n\n6 - Para efeitos do disposto no número anterior, no total dos capitais próprios incluem-se o capital social, prémios de emissão associados, as reservas e os resultados transitados.\n\n7 - Sempre que do disposto nos n.os 5 e 6 resultar um valor contabilístico ajustado das ações ordinárias representativas do capital social do sujeito passivo que seja nulo ou negativo, para efeitos de apuramento do valor de referência dos direitos de conversão considera-se que o valor contabilístico ajustado de cada ação ordinária corresponde a (euro) 0,01."
+  },
+  "124489709": {
+   "fragment_id": "124489895",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime dos direitos de conversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime dos direitos de conversão\n\n1 - O Estado, ou outros entes públicos a quem o Estado tenha transmitido os direitos de conversão, pode dispor livremente deles.\n\n2 - Os acionistas à data da constituição dos direitos de conversão atribuídos ao Estado têm o direito potestativo de adquirir os direitos de conversão ao Estado na proporção das respetivas participações no capital do sujeito passivo nas condições procedimentais definidas por portaria do membro do Governo responsável pela área das finanças.\n\n3 - Não é considerado oferta pública de distribuição o exercício ou a alienação pelo Estado dos direitos de conversão, designadamente por exercício do direito potestativo de aquisição referido no número anterior ou por venda a terceiros.\n\n4 - No caso de emitente de ações ordinárias admitidas à negociação em mercado regulamentado, a admissão à negociação das novas ações emitidas por exercício dos direitos de conversão não carece, independentemente do número de ações da mesma categoria já admitidas à negociação no mesmo mercado regulamentado, da aprovação de prospeto."
+  },
+  "124489710": {
+   "fragment_id": "124489896",
+   "type": 11,
+   "heading": "Artigo 11.º — Exercício dos direitos de conversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Exercício dos direitos de conversão\n\n1 - O exercício dos direitos de conversão implica o aumento do capital social do sujeito passivo na modalidade especial prevista na presente lei, a que corresponde a emissão de novas ações ordinárias representativas do respetivo capital social.\n\n2 - O exercício de cada direito de conversão atribui gratuitamente ao seu titular uma ação ordinária representativa do capital social do sujeito passivo emitida ao preço de subscrição equivalente ao valor de referência dos direitos de conversão apurado nos termos dos n.os 4 e 5 do artigo 9.º\n\n3 - Caso o preço de subscrição referido no número anterior seja inferior ao valor nominal das ações ordinárias representativas do capital social do sujeito passivo, o preço de subscrição é ajustado para corresponder àquele valor nominal, devendo nesse caso o montante da reserva especial a que se refere o artigo 8.º ser proporcionalmente ajustado através da multiplicação do montante do crédito tributário apurado nos termos do artigo 6.º, majorado de 10 %, pelo quociente entre o valor nominal e os valores referidos nos n.os 4 e 5 do artigo 9.º\n\n4 - Caso o preço de subscrição referido no n.º 2 seja superior ao valor nominal das ações ordinárias representativas do capital social do sujeito passivo, a diferença para mais entre o preço de subscrição e o valor nominal de cada ação consiste em ágio que é incorporado numa reserva especial sujeita ao regime da reserva legal nos termos do artigo 295.º do Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro.\n\n5 - O órgão de administração do sujeito passivo está obrigado a promover imediatamente o registo do aumento do capital da sociedade pelo montante que resultar do exercício dos direitos de conversão após o decurso do prazo para exercício do direito previsto no n.º 2 do artigo 10.º\n\n6 - O pedido do registo do aumento do capital é instruído, entre outros exigidos por lei, com os seguintes documentos:\n\na) Ata da deliberação da assembleia geral de constituição da reserva especial e que, consequentemente, nos termos do n.º 3 do artigo 3.º, aprovou a emissão dos direitos de conversão e o aumento do capital decorrente do exercício dos mesmos;\n\nb) Caso este não se encontre já depositado na conservatória, balanço do sujeito passivo, aprovado pelo respetivo órgão de administração, cuja data de referência diste menos de seis meses da data do pedido de registo, no qual figure a reserva especial a incorporar;\n\nc) Declaração escrita emitida pelo órgão de administração do sujeito passivo, na qual se indique o número de direitos de conversão exercidos, o número de novas ações ordinárias representativas do capital social do sujeito passivo a emitir em consequência do exercício dos direitos de conversão, o seu valor nominal ou valor de emissão, o montante do aumento do capital social e o montante do capital social do sujeito passivo após o aumento;\n\nd) Contrato de sociedade do sujeito passivo em que figure o novo montante do capital social após o aumento e o novo número de ações que o representam."
+  },
+  "124489711": {
+   "fragment_id": "124489897",
+   "type": 11,
+   "heading": "Artigo 12.º — Certificação por revisor oficial de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Certificação por revisor oficial de contas\n\nO montante dos ativos por impostos diferidos convertidos em crédito tributário nos termos do artigo 6.º deve ser certificado por revisor oficial de contas, devendo este certificar ainda a constituição da reserva especial e a emissão e atribuição ao Estado dos direitos de conversão, de acordo com os artigos 8.º a 11.º, bem como os demais requisitos legais relativos à adesão ao regime especial previsto na presente lei."
+  },
+  "124489712": {
+   "fragment_id": "124489898",
+   "type": 11,
+   "heading": "Artigo 13.º — Regras aplicáveis a estabelecimentos estáveis de entidades não residentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regras aplicáveis a estabelecimentos estáveis de entidades não residentes\n\nNo caso de estabelecimento estável situado em território português de entidade residente noutro Estado membro da União Europeia ou num Estado membro do Espaço Económico Europeu que esteja vinculado a troca de informações para efeitos fiscais equivalente à estabelecida no âmbito da União Europeia, o presente regime é aplicável com as seguintes adaptações:\n\na) As referências a capitais próprios e a deliberação da assembleia geral do sujeito passivo dizem respeito à entidade residente noutro Estado membro da União Europeia ou num Estado membro do Espaço Económico Europeu que esteja vinculado a troca de informações para efeitos fiscais equivalente à estabelecida no âmbito da União Europeia, sendo as obrigações de constituição da reserva especial e de constituição simultânea de direitos de conversão aplicáveis com as devidas adaptações;\n\nb) Os gastos elegíveis para o regime devem verificar-se ao nível do estabelecimento estável;\n\nc) Os créditos tributários gerados são exclusivamente utilizados pelo estabelecimento estável ou qualquer entidade com sede em Portugal integrada no mesmo grupo de sociedades ao qual se aplique o regime especial previsto no artigo 69.º do Código do IRC ou, quando aplicável, no mesmo perímetro de consolidação prudencial para efeitos do Regulamento (UE) n.º 575/2013, do Parlamento Europeu e do Conselho, de 26 de junho de 2013."
+  },
+  "124489713": {
+   "fragment_id": "124489899",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regulamentação\n\nOs procedimentos para a compensação do crédito tributário com dívidas tributárias e para o respetivo reembolso, bem como as condições e procedimentos para a aplicação do disposto no n.º 4 do artigo 5.º, no n.º 7 do artigo 6.º, no artigo 7.º e no n.º 2 do artigo 10.º são estabelecidos por portaria do membro do Governo responsável pela área das finanças."
+  },
+  "124489698": {
+   "fragment_id": "124489884",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 10 de julho de 2014.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 13 de agosto de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 18 de agosto de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "124489752": {
+   "fragment_id": "124489889",
+   "type": 11,
+   "heading": "Artigo 4.º — Perdas por imparidade em créditos e benefícios pós-emprego ou a longo prazo de empregados",
+   "in_force_from": "2016-08-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2016 - Diário da República n.º 159/2016, Série I de 2016-08-19](https://diariodarepublica.pt/dr/detalhe/lei/23-2016-75170385), em vigor a partir de 2016-08-20"
+   ],
+   "markdown": "###### Artigo 4.º — Perdas por imparidade em créditos e benefícios pós-emprego ou a longo prazo de empregados\n\n1 - Os gastos e variações patrimoniais negativas com perdas por imparidade em créditos previstas nos n.os 1 e 2 do artigo 28.º-A do Código do Imposto sobre o Rendimento das Pessoas Coletivas (Código do IRC), aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de novembro, bem como com benefícios pós-emprego ou a longo prazo de empregados, de cuja não dedução para efeitos de apuramento do lucro tributável no período em que foram incorridos ou registadas tenha resultado o reconhecimento de ativos por impostos diferidos nas demonstrações financeiras, são dedutíveis no período de tributação em que se verifiquem as condições para o efeito previstas no Código do IRC, no artigo 9.º do Decreto-Lei n.º 127/2011, de 31 de dezembro, alterado pelas Leis n.os 20/2012, de 14 de maio, e 66-B/2012, de 31 de dezembro, ou no artigo 183.º da Lei n.º 64-B/2011, de 30 de dezembro, alterada pelas Leis n.os 20/2012, de 14 de maio, 64/2012, de 20 de dezembro, e 83/2013, de 9 de dezembro, com o limite do montante do lucro tributável desse período de tributação calculado antes da dedução destes gastos e variações patrimoniais negativas.\n\n2 - Os gastos e as variações patrimoniais negativas que não sejam deduzidos na determinação do lucro tributável em resultado da aplicação do disposto no número anterior são dedutíveis na determinação do lucro tributável dos períodos de tributação subsequentes, com o limite nele previsto.\n\n3 - Excluem-se do disposto nos números anteriores as perdas por imparidade e variações patrimoniais negativas previstas na alínea c) do n.º 1 do artigo 28.º-B do Código do IRC ou relativas a créditos sobre pessoas singulares ou coletivas que detenham, direta ou indiretamente, nos termos do n.º 6 do artigo 69.º do referido Código, mais de 2 % do capital do sujeito passivo ou sobre membros dos seus órgãos sociais, bem como os que não decorram do exercício, a título profissional, da atividade normal do sujeito passivo.\n\n4 - Excluem-se ainda do disposto nos n.os 1 e 2 as perdas por imparidade e variações patrimoniais negativas relativas a créditos sobre empresas participadas, direta ou indiretamente, nos termos do n.º 6 do artigo 69.º do Código do IRC, em mais de 10 % do capital ou entidades com as quais o sujeito passivo se encontre numa situação de relações especiais nos termos das alíneas a) a g) do n.º 4 do artigo 63.º do referido Código, quando daquelas perdas por imparidade ou variações patrimoniais negativas tenha resultado o reconhecimento de ativos por impostos diferidos em momento posterior ao da aquisição da participação ou verificação da condição da qual resulta a situação de relação especial.\n\n5 - Para efeitos do disposto no n.º 2 são deduzidos em primeiro lugar os gastos incorridos ou as variações patrimoniais negativas registadas há mais tempo.\n\n6 - Os gastos incorridos e as variações patrimoniais registadas pelas sociedades fundidas, e por estas ainda não deduzidos na determinação do lucro tributável em resultado da aplicação do disposto no n.º 1, podem ser deduzidos, nos mesmos termos e condições, na determinação do lucro tributável da sociedade beneficiária numa operação de fusão a que seja aplicado o regime especial estabelecido no artigo 74.º do Código do IRC.\n\n7 - Os sujeitos passivos devem integrar no processo de documentação fiscal a que se refere o artigo 130.º do Código do IRC a informação respeitante:\n\na) Aos métodos utilizados na determinação das perdas por imparidade em créditos e das responsabilidades com benefícios pós-emprego ou a longo prazo de empregados, bem como a respetiva documentação;\n\nb) Às políticas contabilísticas adotadas em matéria de impostos diferidos, bem como a respetiva documentação;\n\nc) Ao montante dos ativos por impostos diferidos correspondentes aos gastos e às perdas por imparidade relativos a créditos e benefícios pós-emprego ou a longo prazo de empregados;\n\nd) Ao montante dos ativos por impostos diferidos correspondentes a gastos e variações patrimoniais negativas relativos a créditos abrangidos e não excluídos do âmbito de aplicação do presente regime especial, discriminado por período de tributação em que foram gerados;\n\ne) Ao montante dos ativos por impostos diferidos correspondentes a gastos e variações patrimoniais negativas relativos a benefícios pós-emprego ou a longo prazo de empregados abrangidos e não excluídos do âmbito de aplicação do presente regime especial, discriminado por período de tributação em que foram gerados;\n\nf) Ao montante dos ativos por impostos diferidos convertidos em créditos tributários ao abrigo do presente regime especial, discriminado por período de tributação em que foram gerados e em que foram utilizados.\n\n8 - As políticas e os métodos contabilísticos referidos nas alíneas a) e b) do número anterior, bem como os elementos previstos nas alíneas c) a f) do mesmo número, são certificados por revisor oficial de contas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2016 - Diário da República n.º 159/2016, Série I de 2016-08-19](https://diariodarepublica.pt/dr/detalhe/lei/23-2016-75170385), em vigor a partir de 2016-08-20"
+  },
+  "124489755": {
+   "fragment_id": "124489896",
+   "type": 11,
+   "heading": "Artigo 11.º — Exercício dos direitos de conversão",
+   "in_force_from": "2019-09-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 98/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2019-124417111), em vigor a partir de 2019-09-05"
+   ],
+   "markdown": "###### Artigo 11.º — Exercício dos direitos de conversão\n\n1 - O exercício dos direitos de conversão implica o aumento do capital social do sujeito passivo na modalidade especial prevista na presente lei, a que corresponde a emissão de novas ações ordinárias representativas do respetivo capital social.\n\n2 - O exercício de cada direito de conversão atribui gratuitamente ao seu titular uma ação ordinária representativa do capital social do sujeito passivo emitida ao preço de subscrição equivalente ao valor de referência dos direitos de conversão apurado nos termos dos n.os 4 e 5 do artigo 9.º\n\n3 - Caso o preço de subscrição referido no número anterior seja inferior ao valor nominal das ações ordinárias representativas do capital social do sujeito passivo, o preço de subscrição é ajustado para corresponder àquele valor nominal, devendo nesse caso o montante da reserva especial a que se refere o artigo 8.º ser proporcionalmente ajustado através da multiplicação do montante do crédito tributário apurado nos termos do artigo 6.º, majorado de 10 %, pelo quociente entre o valor nominal e os valores referidos nos n.os 4 e 5 do artigo 9.º\n\n4 - Caso o preço de subscrição referido no n.º 2 seja superior ao valor nominal das ações ordinárias representativas do capital social do sujeito passivo, a diferença para mais entre o preço de subscrição e o valor nominal de cada ação consiste em ágio que é incorporado numa reserva especial sujeita ao regime da reserva legal nos termos do artigo 295.º do Código das Sociedades Comerciais, aprovado pelo Decreto-Lei n.º 262/86, de 2 de setembro.\n\n5 - O órgão de administração do sujeito passivo está obrigado a promover imediatamente o registo do aumento do capital da sociedade pelo montante que resultar do exercício dos direitos de conversão após o decurso do prazo para exercício do direito previsto no n.º 2 do artigo 10.º, o qual não pode ser superior a três anos contados a partir da confirmação da conversão dos ativos por impostos diferidos em crédito tributário pela Autoridade Tributária e Aduaneira.\n\n6 - O pedido do registo do aumento do capital é instruído, entre outros exigidos por lei, com os seguintes documentos:\n\na) Ata da deliberação da assembleia geral de constituição da reserva especial e que, consequentemente, nos termos do n.º 3 do artigo 3.º, aprovou a emissão dos direitos de conversão e o aumento do capital decorrente do exercício dos mesmos;\n\nb) Caso este não se encontre já depositado na conservatória, balanço do sujeito passivo, aprovado pelo respetivo órgão de administração, cuja data de referência diste menos de seis meses da data do pedido de registo, no qual figure a reserva especial a incorporar;\n\nc) Declaração escrita emitida pelo órgão de administração do sujeito passivo, na qual se indique o número de direitos de conversão exercidos, o número de novas ações ordinárias representativas do capital social do sujeito passivo a emitir em consequência do exercício dos direitos de conversão, o seu valor nominal ou valor de emissão, o montante do aumento do capital social e o montante do capital social do sujeito passivo após o aumento;\n\nd) Contrato de sociedade do sujeito passivo em que figure o novo montante do capital social após o aumento e o novo número de ações que o representam.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 98/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2019-124417111), em vigor a partir de 2019-09-05"
+  },
+  "124489753": {
+   "fragment_id": "124489901",
+   "type": 11,
+   "heading": "Artigo 15.º — Relatório semestral",
+   "in_force_from": "2019-09-05",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 98/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2019-124417111), em vigor a partir de 2019-09-05"
+   ],
+   "markdown": "###### Artigo 15.º — Relatório semestral\n\n1 - O Governo envia semestralmente à Assembleia da República, e faz publicar no sítio de Internet da Autoridade Tributária (AT), um relatório do qual consta a seguinte informação atualizada para cada um dos pedidos recebidos de conversão dos ativos por impostos diferidos em créditos fiscais nos últimos dez anos:\n\na) Identificação da instituição financeira que efetuou o pedido, respetivos montantes e datas do pedido;\n\nb) Indicação do valor final certificado pela AT e da data do respetivo pagamento;\n\nc) Ponto de situação, datas e valores dos reembolsos já realizados dos créditos fiscais;\n\nd) Ponto de situação, datas e valores da concretização dos direitos de conversão em capital, incluindo constituição da reserva especial, exercício dos direitos potestativos dos acionistas e eventual aquisição de capital pelo Estado.\n\n2 - A obrigação de envio e publicação do relatório prevista no n.º 1 permanece enquanto existirem ativos por impostos diferidos elegíveis no balanço das instituições financeiras.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 98/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/98-2019-124417111), em vigor a partir de 2019-09-05"
+  }
+ }
+}

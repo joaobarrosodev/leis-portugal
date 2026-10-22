@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:213650806:por
+title: Decreto Regulamentar n.º 1/2023
+short_title: null
+summary: Regulamenta o Fundo de Financiamento da Descentralização
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Coesão Territorial
+official_number: 1/2023
+official_date: null
+publication_date: '2023-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 103/2023, Série I de 2023-05-29
+  number: '103'
+  series: I
+  supplement: null
+  pages: 47 - 49
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/05/10300/0004700049.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/1/2023/05/29/p/dre/pt/html
+  oj: null
+  dre: '213650806'
+  dre_path: /dr/detalhe/decreto-regulamentar/1-2023-213650806
+  internal: pt:dre:213650806:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2023-213650806
+  metadata_url: https://data.dre.pt/eli/decregul/1/2023/05/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2023-213650806
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-05-29T00:00:00Z'
+integrity:
+  source_sha256: 78bba9047e63727142f34da8cfacb86ad7c88b23d42083ced8e3a8b4c25f20fa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-1-213650806.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Central
+- Financiamento
+- Comissão de Acompanhamento
+- Descentralização
+- Direção Geral das Autarquias Locais
+- Administração Local
+- Transferência de Verbas
+- Autarquia Local
+- Plataforma Eletrónica
+- Fundo de Financiamento da Descentralização
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/24-d/2022/12/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/50/2018/08/16/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 1/2023
+
+de 29 de maio
+
+A [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro, que aprovou o Orçamento do Estado para 2023, estabelece no n.º 1 do artigo 66.º que o Fundo de Financiamento da Descentralização (FFD), gerido pela Direção-Geral das Autarquias Locais (DGAL), é dotado das verbas necessárias ao financiamento das competências descentralizadas para os municípios do território continental e entidades intermunicipais, correspondentes ao período compreendido entre 1 de janeiro e 31 de dezembro de 2023, até ao valor total de (euro) 1 204 852 860.
+
+Prevê, ainda, esta lei que a DGAL fica autorizada a transferir mensalmente para os municípios do território continental e entidades intermunicipais, através do FFD, as dotações correspondentes às competências transferidas, até ao limite previsto na distribuição por município e domínio de competência constante do anexo ii à mencionada Lei do Orçamento do Estado para 2023.
+
+A lei que aprovou o Orçamento do Estado para 2023 dispõe também que os municípios reportam, através de plataforma eletrónica da DGAL, informação, designadamente relativa ao registo das transferências financeiras, receitas arrecadadas e encargos relativos ao exercício das competências transferidas.
+
+Torna-se, agora, necessário regulamentar os termos e as condições da comunicação das transferências, os procedimentos a adotar em caso de dedução de verbas e as condições de reporte e de acesso à plataforma eletrónica.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea c) do artigo 199.º da Constituição e do n.º 4 do artigo 66.º da [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto regulamentar estabelece os termos e as condições da comunicação das transferências no âmbito do Fundo de Financiamento da Descentralização (FFD), os procedimentos a adotar em caso de dedução, reforço e reafetação de verbas e as condições de reporte de informação, nos termos do n.º 4 do artigo 66.º da [Lei n.º 24-D/2022](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), de 30 de dezembro (Lei do Orçamento do Estado para 2023).
+
+###### Artigo 2.º — Transferências financeiras ao abrigo do Fundo de Financiamento da Descentralização
+
+1 - As verbas necessárias ao financiamento das competências descentralizadas previstas no n.º 1 do artigo 66.º da Lei do Orçamento do Estado para 2023 são transferidas mensalmente para a Direção-Geral das Autarquias Locais (DGAL).
+
+2 - As verbas referidas no número anterior podem ser reforçadas, com origem no programa orçamental das finanças e do programa orçamental da segurança social, nos termos do n.º 5 do artigo 66.º da Lei do Orçamento do Estado para 2023, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças, das competências descentralizadas e da coesão territorial, onde conste a afetação por cada domínio de competências e municípios.
+
+3 - As verbas referidas nos números anteriores são transferidas mensalmente para os municípios pelo FFD, até ao dia 20 de cada mês, em duodécimos ou de forma proporcional ao período em que a competência é assumida.
+
+###### Artigo 3.º — Registo das transferências financeiras e encargos resultantes do processo de descentralização
+
+1 - As transferências financeiras, as receitas arrecadadas e os encargos diretamente relacionados com a descentralização de competências estabelecida pela [Lei n.º 50/2018](https://diariodarepublica.pt/dr/detalhe/lei/50-2018-116068877), de 16 de agosto, e pelos respetivos diplomas setoriais, são reportados pelos municípios, mensalmente, através da plataforma eletrónica da DGAL.
+
+2 - O registo referido no número anterior deve permitir identificar e relacionar, para cada área da descentralização e nas diferentes componentes descentralizadas, as receitas arrecadadas e os encargos suportados com as transferências recebidas da administração central do Estado para o exercício das competências transferidas.
+
+3 - A DGAL disponibiliza semestralmente no portal autárquico a informação reportada pelos municípios, com o detalhe descrito no número anterior.
+
+###### Artigo 4.º — Comissão de acompanhamento
+
+1 - É criada uma comissão de acompanhamento do FFD (comissão), que tem por missão analisar as transferências efetuadas para os municípios e os encargos reportados, nos termos do n.º 1 do artigo anterior, relativos ao exercício das competências transferidas.
+
+2 - A comissão integra três representantes da Associação Nacional de Municípios Portugueses e um representante de cada uma das seguintes entidades e serviços da Administração Pública:
+
+a) DGAL, que coordena;
+
+b) Direção-Geral do Orçamento;
+
+c) Instituto da Segurança Social, I. P.;
+
+d) Instituto de Gestão Financeira da Segurança Social, I. P.
+
+3 - Até 15 dias após a entrada em vigor do presente decreto regulamentar, o dirigente máximo das entidades e serviços referidos no número anterior remete à DGAL a designação de um representante e de um suplente para integrar a comissão.
+
+4 - A comissão de acompanhamento funciona durante o ano de 2023 e reúne duas vezes ou sempre que se justifique.
+
+5 - A comissão de acompanhamento elabora um relatório da execução do FFD, o qual é remetido aos membros do Governo responsáveis pelas áreas das finanças, do trabalho, solidariedade e segurança social e da coesão territorial.
+
+6 - A participação em reuniões ou em quaisquer outras atividades da comissão de acompanhamento não confere aos seus membros o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, abono, compensação, subsídio ou senha de presença.
+
+###### Artigo 5.º — Procedimentos de devolução, reforço ou reafetação de verbas ao abrigo da descentralização
+
+1 - Os municípios podem solicitar à DGAL a reafetação de verbas entre classificações económicas das verbas transferidas, em cada domínio de competências, desde que devidamente fundamentado.
+
+2 - A alteração orçamental prevista no número anterior é autorizada pelos membros do Governo responsáveis áreas governativas das finanças e da coesão territorial.
+
+3 - A reafetação de verbas prevista no n.º 1 só pode ocorrer entre classificações económicas que constem do mapa financeiro previsto no n.º 2 do artigo 66.º da Lei do Orçamento do Estado para 2023, e desde que não ultrapasse o montante total orçamentado e reforçado nos termos do previsto no n.º 2 do artigo 2.º do presente decreto regulamentar.
+
+4 - A DGAL verifica a adequação das verbas e a eventual necessidade de reforço ou devolução de verbas por município e domínio de competência com base no registo efetuado nos termos do artigo 3.º e da informação contabilística junto da DGAL.
+
+5 - A devolução de verbas pelos municípios decorre da verificação da informação constante nos registos referidos no número anterior e é operacionalizada semestralmente pela DGAL, por via de acerto na transferência dos meses seguintes ao apuramento do montante a devolver.
+
+6 - A reafetação de verbas entre municípios, a que se refere o n.º 6, e o reforço a que se refere o n.º 7, ambos do artigo 66.º da Lei do Orçamento do Estado para 2023, são efetuados por despacho dos membros do Governo responsáveis pelas áreas das finanças, das competências descentralizadas e da coesão territorial, mediante a verificação da necessidade e elaboração de proposta fundamentada pela DGAL.
+
+###### Artigo 6.º — Produção de efeitos
+
+O presente decreto regulamentar produz efeitos a 1 de janeiro de 2023.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 30 de março de 2023. - António Luís Santos da Costa - Fernando Medina Maciel Almeida Correia - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
+
+**Promulgado em 19 de maio de 2023.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 22 de maio de 2023.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

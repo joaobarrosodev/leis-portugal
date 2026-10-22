@@ -1,0 +1,535 @@
+---
+schema_version: '1.0'
+id: pt:dre:432861:por
+title: Decreto-Lei n.º 312/2003
+short_title: null
+summary: Estabelece o regime jurídico de detenção de animais perigosos e potencialmente perigosos como animais de companhia
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 312/2003
+official_date: null
+publication_date: '2003-12-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 290/2003, Série I-A de 2003-12-17
+  number: '290'
+  series: I
+  supplement: null
+  pages: 8436 - 8440
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/12/290a00/84368440.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2010-01-01'
+version_history:
+  file: decreto-lei-312-2003.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2003-12-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-09-05'
+    amending: pt:dre:641156:por
+    amending_title: Lei n.º 49/2007
+    changes:
+    - Altera Capítulo II
+    - Altera Artigo 3.º
+    - Altera Artigo 9.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+  - date: '2010-01-01'
+    amending: pt:dre:483402:por
+    amending_title: Decreto-Lei n.º 315/2009
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/312/2003/p/cons/20091029/pt/html
+  oj: null
+  dre: '432861'
+  dre_path: /dr/detalhe/decreto-lei/312-2003-432861
+  internal: pt:dre:432861:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2003-432861
+  metadata_url: https://data.dre.pt/eli/dec-lei/312/2003/p/cons/20091029/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-34495775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-34495775
+  retrieved_at: '2026-10-22T11:45:44Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 30abf94d5cb0a36bb1f3296f5b66086af2d48f905f8d9f9584cd8592bf1a8f65
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:45:44Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-312-2003.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Animal Doméstico
+- Animal Perigoso
+- Direito de Acesso
+- Multa
+- Contra-ordenação
+- Direção Geral de Veterinária
+- Deficiente Visual
+- Direcção Regional de Agricultura
+- Programa Nacional de LUTA e Vigilância Epidemiológica da Raiva Animal e outras Zoonoses
+- Fiscalização
+- Licença de Utilização
+- GNR
+- Proteção ao Deficiente
+- Polícia Municipal
+- Madeira.região Autónoma
+- Regime Jurídico
+- Registo de Animais
+- Regulamento
+- Responsabilidade Civil
+- Açores
+- Sistema de Identificação e Registo de Caninos e Félinos
+- Comércio
+- Termo de Responsabilidade
+relationships:
+- type: amended_by
+  target: pt:dre:641156:por
+  label: Altera Capítulo II; Altera Artigo 3.º; Altera Artigo 9.º; Altera Artigo 14.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156
+  date: '2007-08-31'
+- type: amended_by
+  target: pt:dre:483402:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402
+  date: '2009-10-29'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/118/1999/04/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/118/1999/04/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/276/2001/10/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/276/2001/10/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/81/2002/01/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/81/2002/01/24/p/dre
+article_structure:
+  article_count: 20
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:45:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 312/2003
+
+O Decreto-Lei n.º 276/2001, de 17 de Outubro, veio consignar as regras de protecção dos animais de companhia e, concomitantemente, previu o regime para a posse daqueles que, pelas suas características fisiológicas ou comportamentais, viessem a ser enquadrados como animais potencialmente perigosos.
+
+Os casos de ataques de animais, nomeadamente cães, a pessoas, causando-lhes ofensas à integridade física graves, quando não mesmo a morte, vieram alertar para a urgente necessidade de rever aquele diploma, e de regulamentar, em normativo específico, a detenção de animais de companhia perigosos e potencialmente perigosos, com estabelecimento de regras claras e precisas para a sua detenção, criação e reprodução.
+
+A convicção de que a perigosidade canina, mais que aquela que seja eventualmente inerente à sua raça ou cruzamento de raças, se prende com factores muitas vezes relacionados com o tipo de treino que lhes é ministrado e com a ausência de socialização a que os mesmos são sujeitos, leva que se legisle no sentido de que a estes animais sejam proporcionados os meios de alojamento e maneio adequados, de forma a evitar-se, tanto quanto possível, a ocorrência de situações de perigo não desejáveis.
+
+Para além disso estabelecem-se algumas obrigações para os detentores de animais de companhia perigosos ou potencialmente perigosos, entre as quais se destacam a obrigatoriedade da existência de um seguro de responsabilidade civil, bem como de requisitos de idoneidade que possam garantir o cumprimento das normas de bem-estar dos animais e de segurança de pessoas e bens.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.
+
+Foi dado cumprimento ao disposto na Lei n.º 67/98, de 26 de Outubro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Âmbito e definições
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - O presente diploma estabelece as normas aplicáveis à detenção de animais perigosos e potencialmente perigosos, enquanto animais de companhia.
+
+2 - O presente diploma é aplicável sem prejuízo das disposições legais específicas reguladoras da protecção dos animais de companhia e do Decreto-Lei n.º 118/99, de 14 de Abril, que estabelece o direito de acessibilidade dos deficientes visuais acompanhados de cães-guia a locais, transportes e estabelecimentos de acesso público, bem como as condições a que estão sujeitos estes animais.
+
+3 - Excluem-se do âmbito de aplicação deste diploma:
+
+a) As espécies de fauna selvagem autóctone e exótica e seus descendentes criados em cativeiro objecto de regulamentação específica;
+
+b) Os cães pertencentes às Forças Armadas e forças de segurança do Estado.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 2.º — Definições
+
+Para efeitos do disposto no presente diploma, entende-se por:
+
+a) «Animal perigoso», qualquer animal que se encontre numa das seguintes condições:
+
+i) Tenha mordido, atacado ou ofendido o corpo ou a saúde de uma pessoa;
+
+ii) Tenha ferido gravemente ou morto um outro animal fora da propriedade do detentor;
+
+iii) Tenha sido declarado, voluntariamente, pelo seu detentor, à junta de freguesia da sua área de residência, que tem um carácter e comportamento agressivos;
+
+iv) Tenha sido considerado pela autoridade competente como um risco para a segurança de pessoas ou animais, devido ao seu comportamento agressivo ou especificidade fisiológica;
+
+b) «Animal potencialmente perigoso», qualquer animal que, devido às características da espécie, comportamento agressivo, tamanho ou potência de mandíbula, possa causar lesão ou morte a pessoas ou outros animais, nomeadamente os cães pertencentes às raças que venham a ser incluídas em portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas, bem como os cruzamentos de primeira geração destas, os cruzamentos destas entre si ou cruzamentos destas com outras raças, obtendo assim uma tipologia semelhante a algumas das raças ali referidas;
+
+c) «Ofensas graves à integridade física», ofensas ao corpo ou saúde de uma pessoa de forma a:
+
+i) Privá-lo de órgão ou membro, ou a desfigurá-lo grave e permanentemente;
+
+ii) Tirar-lhe ou afectar-lhe, de maneira grave, a capacidade de trabalho, as capacidades intelectuais ou de procriação, ou a possibilidade de utilizar o corpo, os sentidos ou a linguagem;
+
+iii) Provocar-lhe doença particularmente dolorosa ou permanente, ou anomalia psíquica grave ou incurável; ou
+
+iv) Provocar-lhe perigo para a vida;
+
+d) «Detentor», qualquer pessoa, individual ou colectiva, que mantenha sob a sua responsabilidade, mesmo que a título temporário, um animal perigoso ou potencialmente perigoso;
+
+e) «Centro de recolha», qualquer alojamento oficial onde um animal é hospedado por um período determinado pela autoridade competente, nomeadamente os canis e os gatis municipais;
+
+f) «Autoridade competente», a Direcção-Geral de Veterinária (DGV), enquanto autoridade veterinária nacional, as direcções regionais de agricultura (DRA), enquanto autoridade veterinária regional, os médicos veterinários municipais, enquanto autoridade veterinária local, as câmaras municipais e as juntas de freguesia, a Guarda Nacional Republicana (GNR), a Polícia de Segurança Pública (PSP) e a Polícia Municipal (PM).
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+### Capítulo II — Normas para a detenção, criação e treino de animais perigosos ou potencialmente perigosos
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05
+
+###### Artigo 3.º — Licença de detenção de cães perigosos ou potencialmente perigosos
+
+1 - A detenção, como animais de companhia, de cães perigosos ou potencialmente perigosos carece de licença emitida pela junta de freguesia da área de residência do detentor.
+
+2 - Para a obtenção da licença referida no número anterior o detentor tem de ser maior de idade e deve entregar na junta de freguesia respectiva, além dos documentos exigidos pelo Regulamento de Registo, Classificação e Licenciamento de Cães e Gatos, a seguinte documentação:
+
+a) Termo de responsabilidade, em conformidade com o anexo ao presente diploma, do qual faz parte integrante, onde o detentor declara:
+
+i) O tipo de condições do alojamento do animal;
+
+ii) Quais as medidas de segurança que estão implementadas;
+
+iii) Historial de agressividade do animal em causa;
+
+b) Registo criminal, do qual resulte não ter sido o detentor condenado, por sentença transitada em julgado, por crime contra a vida ou integridade física, contra a saúde pública ou contra a paz pública;
+
+c) Atestado de capacidade física e psíquica para detenção de cães perigosos ou potencialmente perigosos, em termos a regulamentar pelo Governo;
+
+d) Não ter o interessado sido privado, por sentença transitada em julgado, do direito de detenção de cães perigosos ou potencialmente perigosos;
+
+e) Documento que certifique a formalização de um seguro de responsabilidade civil, nos termos do disposto no artigo 13.º
+
+3 - A licença pode ser solicitada pela autoridade competente, a qualquer momento, devendo o detentor, aquando das deslocações dos seus animais, estar sempre acompanhado da mesma.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05
+
+###### Artigo 4.º — Licença de detenção de outros animais perigosos ou potencialmente perigosos
+
+1 - A detenção, como animais de companhia, de animais perigosos e potencialmente perigosos de espécie diferente da referida no artigo anterior carece de licença emitida pela junta de freguesia da área de residência do detentor, nos termos definidos no n.º 2 do artigo 3.º, com as devidas adaptações.
+
+2 - Os detentores dos animais referidos no número anterior ficam obrigados ao cumprimento de todas as obrigações de comunicação de mudança de instalações ou morte, desaparecimento ou cedência do animal previstas no Regulamento de Registo, Classificação e Licenciamento de Cães e Gatos, com as devidas adaptações.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 5.º — Cadastro
+
+1 - À excepção dos cães cuja informação é coligida na base de dados nacional do Sistema de Identificação de Caninos e Felinos (SICAFE), as juntas de freguesia devem manter um cadastro de animais perigosos e potencialmente perigosos, do qual deve constar:
+
+a) A identificação da espécie e, quando possível, da raça do animal;
+
+b) A identificação completa do detentor;
+
+c) O local e tipo de alojamento habitual do animal;
+
+d) Incidentes de agressão.
+
+2 - O cadastro referido no número anterior deve estar disponível para consulta das autoridades competentes, sem prejuízo do disposto na Lei n.º 67/98, de 26 de Outubro.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 6.º — Dever especial de vigilância
+
+Incumbe ao detentor do animal o dever especial de o vigiar, de forma a evitar que este ponha em risco a vida ou a integridade física de outras pessoas e animais.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 7.º — Medidas de segurança especiais nos alojamentos
+
+1 - O detentor de animal perigoso ou potencialmente perigoso fica obrigado a manter medidas de segurança reforçadas, nomeadamente nos alojamentos, os quais não podem permitir a fuga dos animais e devem acautelar de forma eficaz a segurança de pessoas, outros animais e bens.
+
+2 - O detentor fica obrigado à afixação no alojamento, em local visível, de placa de aviso da presença e perigosidade do animal.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 8.º — Medidas de segurança especiais na circulação
+
+1 - Os animais a que se refere este diploma não podem circular sozinhos na via pública ou em lugares públicos, devendo sempre ser conduzidos por detentor maior de 16 anos.
+
+2 - Sempre que o detentor necessite de circular na via pública ou em lugares públicos com os animais a que se refere este diploma, deve fazê-lo com meios de contenção adequados à espécie e à raça ou cruzamento de raças, nomeadamente caixas, jaulas ou gaiolas, ou açaimo funcional que não permita comer nem morder e, neste caso, devidamente seguro com trela curta até 1 m de comprimento, que deve estar fixa a coleira ou a peitoral.
+
+3 - São excepcionados do disposto no número anterior os cães potencialmente perigosos usados como guarda, defesa e maneio do gado em explorações agro-pecuárias, bem como os usados durante provas de trabalho e desportivas e os detidos por organismos públicos ou privados que os usem com finalidade de profilaxia ou terapia social.
+
+4 - As câmaras municipais, no âmbito das suas competências, podem regular as condições de autorização de circulação e permanência de animais potencialmente perigosos e animais perigosos nas ruas, parques, jardins e outros locais públicos, podendo determinar, por razões de segurança e ordem pública, as zonas onde seja proibida a sua permanência e circulação e, no que se refere a cães, também as zonas e horas em que a circulação é permitida, estabelecendo as condições em que esta se pode fazer sem o uso de trela ou açaimo funcional.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 9.º — Comercialização de animais e publicidade
+
+1 - Os operadores/receptores e os estabelecimentos de venda de animais potencialmente perigosos devem manter, por um período mínimo de cinco anos, um registo com a indicação das espécies, raças ou cruzamento de raças, quando aplicável, e número de animais vendidos, bem como a identificação do fornecedor e do comprador.
+
+2 - A comercialização de cães potencialmente perigosos só poderá ocorrer após implantação da respectiva cápsula de identificação electrónica, devendo o vendedor informar previamente o comprador das características do animal, cuidados especiais em função da potencial perigosidade e normas específicas aplicáveis quanto à sua circulação e ou utilização.
+
+3 - É proibida a comercialização de animais perigosos, excepto os destinados a fins científicos, para reprodução e criação em cativeiro, desde que previamente autorizada pela DGV.
+
+4 - O registo a que se refere o n.º 1 está sujeito ao disposto na Lei n.º 67/98, de 26 de Outubro.
+
+5 - É proibida a publicidade à comercialização de animais perigosos ou potencialmente perigosos.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05
+
+###### Artigo 10.º — Procedimento em caso de agressão
+
+1 - O animal que tenha causado ofensa ao corpo ou à saúde de uma pessoa é obrigatoriamente recolhido, pela autoridade competente, para centro de recolha oficial, a expensas do detentor, sem prejuízo do disposto no artigo 16.º da Portaria n.º 81/2002, de 24 de Janeiro.
+
+2 - As ofensas causadas por animal ao corpo ou à saúde de pessoas de que tenham conhecimento médicos veterinários, autoridades judiciais, administrativas ou policiais, centros de saúde e hospitais, são imediatamente notificadas à autoridade competente para que esta proceda à recolha do animal nos termos do disposto no n.º 1 e faça constar a informação no cadastro ou na base de dados a que se refere o artigo 5.º
+
+3 - Quando a autoridade competente tenha conhecimento, directamente ou através de relatório médico ou policial, de uma ofensa ao corpo ou à saúde de uma pessoa causada por animal que determine a classificação deste como perigoso nos termos das subalíneas i) e ii) da alínea a) do artigo 2.º, notifica o seu detentor para, no prazo de 15 dias a contar da data da notificação, apresentar na junta de freguesia da área da sua residência a documentação indicada no n.º 1 do artigo 3.º
+
+4 - Quando a autoridade competente tenha conhecimento, directamente ou através de relatório ou auto, que um animal tenha ferido gravemente ou morto um outro animal, fora da propriedade do detentor, que determine a classificação deste como perigoso nos termos das subalíneas i) e ii) da alínea a) do artigo 2.º, notifica o seu detentor para, no prazo de 15 dias a contar da data da notificação, apresentar na junta de freguesia da área da sua residência a documentação indicada no n.º 1 do artigo 3.º
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 11.º — Destino de animais agressores
+
+1 - O animal que cause ofensas graves à integridade física de uma pessoa, devidamente comprovadas através de relatório médico, é obrigatoriamente abatido, por método que não lhe cause dores e sofrimento desnecessários, após o cumprimento das disposições legais do Plano Nacional de Luta e Vigilância Epidemiológica da Raiva e Outras Zoonoses, não tendo o seu detentor direito a qualquer indemnização.
+
+2 - O animal que cause ofensas não graves à integridade física de uma pessoa é entregue ao detentor após o cumprimento das obrigações previstas neste diploma, sendo requisito obrigatório, quando aplicável, a realização de provas de socialização e ou treino de obediência, no prazo que vier a ser indicado por aquela autoridade.
+
+3 - Exceptua-se do disposto no n.º 1 todo o animal que apresente comportamento agressivo que constitua, de imediato, um risco grave à integridade física de uma pessoa e que o seu detentor não consiga controlar, caso em que pode ser imediatamente abatido pela autoridade competente ou, na sua impossibilidade, por médico veterinário, não tendo o detentor direito a qualquer indemnização.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 12.º — Treino
+
+1 - Os detentores de cães perigosos ou potencialmente perigosos devem promover o treino dos mesmos com vista à sua domesticação e socialização, o qual não pode, em caso algum, ter em vista a sua participação em lutas ou o reforço da agressividade para pessoas, outros animais ou bens.
+
+2 - O treino referido no número anterior deve ser efectuado por treinadores certificados por entidade reconhecida pela DGV, de acordo com critérios a fixar por despacho do director-geral de Veterinária a publicar por aviso no Diário da República.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 13.º — Seguro de responsabilidade civil
+
+O detentor de qualquer animal perigoso ou potencialmente perigoso fica obrigado a possuir um seguro de responsabilidade civil em relação ao mesmo, sendo os critérios quantitativos e qualitativos do seguro definidos por portaria dos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 14.º — Criação e esterilização
+
+1 - Por despacho do Ministro da Agricultura, Desenvolvimento Rural e Pescas pode ser proibida a reprodução ou criação de quaisquer cães perigosos ou potencialmente perigosos, nomeadamente das raças ou cruzamentos de raças caninas constantes da portaria referida na alínea b) do artigo 2.º, bem como restringida a sua entrada no território nacional, nomeadamente por razões de segurança de pessoas e outros animais.
+
+2 - A criação ou reprodução de quaisquer cães perigosos ou potencialmente perigosos carece de licença da Direcção-Geral de Veterinária, cuja emissão depende do cumprimento dos seguintes requisitos:
+
+a) Preenchimento das condições previstas nas alíneas a) a e) do n.º 2 do artigo 3.º;
+
+b) Existência de registo obrigatório com a indicação das espécies, raças ou cruzamento de raças, quando aplicável, e número de animais vendidos, de onde conste também o historial dos mesmos, bem como o número de referência que permita a identificação electrónica;
+
+c) Existência de um livro de origens autenticado pela autoridade competente, de onde conste a datação de cada ninhada, bem como o registo de vendas;
+
+d) Garantia de emissão pelo criador de documentos de venda, de onde constem todos os dados do comprador exigidos na lei.
+
+3 - A DGV pode determinar a esterilização obrigatória de um ou mais cães, no prazo máximo de 30 dias após a notificação do seu detentor, sempre que esteja em risco a segurança de pessoas ou outros animais, devendo a mesma ser efectuada por médico veterinário da escolha daquele e a suas expensas.
+
+4 - O detentor fica obrigado a apresentar declaração passada por médico veterinário, no prazo de 15 dias após a esterilização prevista no número anterior ter sido efectuada ou até ao termo do prazo ali estabelecido, na junta de freguesia da área da sua residência, devendo passar a constar da base de dados nacional do SICAFE que o cão:
+
+a) Está esterilizado;
+
+b) Não foi sujeito à esterilização, dentro do prazo determinado pela autoridade competente, por não estar em condições adequadas, atestadas por médico veterinário, indicando-se naquele atestado o prazo previsível para essa intervenção cirúrgica.
+
+5 - As câmaras municipais podem prestar toda a colaboração que vise a esterilização determinada nos termos do n.º 3 sempre que se prove por qualquer meio legalmente admitido que o detentor não pode suportar os encargos de tal intervenção.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05
+
+###### Artigo 15.º — Restrições à detenção
+
+Sem prejuízo das disposições constantes neste diploma, é proibida a detenção como animal de companhia das espécies animais constantes da portaria publicada ao abrigo do disposto no n.º 2 do artigo 13.º do Decreto-Lei n.º 114/90, de 5 de Abril, que promove a aplicação da Convenção sobre o Comércio Internacional das Espécies da Fauna e Flora Selvagens Ameaçadas de Extinção.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+### Capítulo III — Fiscalização e contra-ordenações
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 16.º — Fiscalização
+
+Compete, em especial, à DGV, às DRA, às câmaras municipais, designadamente aos médicos veterinários municipais e polícia municipal, à GNR e à PSP assegurar a fiscalização do cumprimento das normas constantes no presente diploma, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 17.º — Contra-ordenações
+
+1 - Constituem contra-ordenações puníveis pelo presidente da câmara municipal, com coima cujo montante mínimo é de (euro) 500 e máximo de (euro) 3740 ou (euro) 44890, consoante se trate de pessoas singulares ou colectivas:
+
+a) A falta da licença a que se referem os artigos 3.º e 4.º;
+
+b) O alojamento de animais perigosos ou potencialmente perigosos sem que existam as condições de segurança previstas no artigo 7.º;
+
+c) A circulação de animais perigosos ou potencialmente perigosos na via pública ou em outros lugares públicos sem que estejam acompanhados de pessoa maior de 16 anos de idade ou sem os meios de contenção previstos no artigo 8.º;
+
+d) A falta de seguro de responsabilidade civil previsto no artigo 13.º
+
+2 - Constituem contra-ordenações puníveis pelo director-geral de Veterinária com coima cujo montante mínimo é de (euro) 500 e máximo de (euro) 3740 ou (euro) 44 890, consoante se trate de pessoas singulares ou colectivas:
+
+a) A não manutenção pelos operadores/receptores e estabelecimentos de venda de animais potencialmente perigosos dos registos a que se refere o n.º 1 do artigo 9.º e pelo período de tempo nele indicado;
+
+b) A comercialização de animais perigosos ou potencialmente perigosos em desrespeito pelo disposto nos n.os 2 e 3 do artigo 9.º;
+
+c) A publicidade à comercialização de animais perigosos ou potencialmente perigosos, em desrespeito pelo disposto no n.º 5 do artigo 9.º;
+
+d) O treino de animais perigosos ou potencialmente perigosos tendo em vista a sua participação em lutas ou o aumento ou reforço da agressividade para pessoas, outros animais ou bens, nos termos do n.º 1 do artigo 12.º;
+
+e) A falta de treino de animais perigosos ou potencialmente perigosos, nos termos do n.º 1 do artigo 12.º, ou o seu treino por treinador não certificado, nos termos do n.º 2 do mesmo artigo;
+
+f) A não esterilização dos animais ou o não cumprimento de outras obrigações quando impostas nos termos do artigo 14.º;
+
+g) A falta da licença ou o não cumprimento das obrigações previstas no n.º 2 do artigo 14.º;
+
+h) A detenção de animais de companhia violando o disposto no artigo 15.º
+
+3 - A tentativa e a negligência são sempre punidas.
+
+4 - A reincidência implica o agravamento em um terço dos limites mínimos e máximos das coimas previstas no presente artigo.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 49/2007 - Diário da República n.º 168/2007, Série I de 2007-08-31](https://diariodarepublica.pt/dr/detalhe/lei/49-2007-641156), em vigor a partir de 2007-09-05
+
+###### Artigo 18.º — Sanções acessórias
+
+1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:
+
+a) Perda a favor do Estado de objectos e animais pertencentes ao agente, utilizados na prática do ilícito;
+
+b) Privação do direito de participar em feiras, mercados, exposições ou concursos;
+
+c) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+d) Suspensão de autorizações, licenças e alvarás.
+
+2 - As sanções acessórias referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos, contados da decisão condenatória definitiva.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 19.º — Processamento das contra-ordenações e destino das coimas
+
+1 - A instrução dos processos de contra-ordenação a que se refere o n.º 1 do artigo 17.º compete às câmaras municipais.
+
+2 - A instrução dos processos de contra-ordenação a que se refere o n.º 2 do artigo 17.º compete à DRA da área da prática da infracção.
+
+3 - O produto das coimas cobradas nos termos do disposto no n.º 1 do artigo 17.º é distribuído da seguinte forma:
+
+a) 10% para a entidade que levantou o auto;
+
+b) 90% para a entidade que aplicou a coima.
+
+4 - O produto das coimas cobradas nos termos do disposto no n.º 2 do artigo 17.º é distribuído da seguinte forma:
+
+a) 10% para a entidade que levantou o auto;
+
+b) 10% para a entidade que instruiu o processo;
+
+c) 20% para a entidade que aplicou a coima;
+
+d) 60% para os cofres do Estado.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+###### Artigo 20.º — Competências das Regiões Autónomas dos Açores e da Madeira
+
+1 - Nas Regiões Autónomas dos Açores e da Madeira as competências cometidas à DGV e às DRA pelo presente diploma são exercidas pelos competentes serviços e organismos das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV na qualidade de autoridade nacional competente.
+
+2 - O produto das coimas cobradas nas Regiões Autónomas constitui receita própria destas.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+Visto e aprovado em Conselho de Ministros de 2 de Outubro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Amílcar Augusto Contel Martins Theias.
+
+Promulgado em 20 de Novembro de 2003.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 24 de Novembro de 2003.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01
+
+## Anexo — Termo de responsabilidade para licença de detenção de animais perigosos e potencialmente perigosos
+
+(Decreto-Lei n.º 312/2003, de 17 de Dezembro)
+
+Eu, abaixo assinado, declaro conhecer as disposições do Decreto-Lei n.º 312/2003, de 17 de Dezembro, bem como assumir a responsabilidade pela detenção do animal infra-indicado nas condições de segurança aqui expressas:
+
+Nome do detentor ..., bilhete de identidade n.º ..., arquivo de ..., emitido em ..., morada ...
+
+Espécie animal ..., raça ...
+
+Número de identificação do animal (se aplicável) ...
+
+Local do alojamento ...
+
+Tipo de alojamento (jaula, gaiola, contentor, terrário, canil, etc.) ...
+
+Condições do alojamento (ver nota *) ...
+
+Medidas de segurança implementadas ...
+
+Incidentes de agressão ...
+
+..., ... de... de ...
+
+Assinatura do detentor ...
+
+(nota *) Ao abrigo do Decreto-Lei n.º 276/2001, de 17 de Outubro, e ... modelo n.º ... da DGV.
+
+> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 315/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/315-2009-483402), em vigor a partir de 2010-01-01

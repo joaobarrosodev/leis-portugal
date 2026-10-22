@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:389661:por
+title: Portaria n.º 157/81
+short_title: null
+summary: Transfere para o Centro Regional de Segurança Social de Coimbra o estabelecimento agrícola denominado «Quinta da
+  Conraria», anexo ao Hospital de Sobral Cid, depedente da Secretaria de Estado da Saúde
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Assuntos Sociais
+proposing_entity: null
+official_number: 157/81
+official_date: null
+publication_date: '1981-01-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 25/1981, Série I de 1981-01-30
+  number: '25'
+  series: I
+  supplement: null
+  pages: 288 - 288
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02500/02880288.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '389661'
+  dre_path: /dr/detalhe/portaria/157-1981-389661
+  internal: pt:dre:389661:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/157-1981-389661
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/157-1981-389661
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-01-30T00:00:00Z'
+integrity:
+  source_sha256: d69f9558e3d57e8aad5d8b1597eb736ec5232f1afa15832eff8e12ad592f81a7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-157-389661.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 157/81
+
+de 30 de Janeiro
+
+Considerando que uma política de correcta integração das famílias provenientes das ex-colónias impõe a implementação e a afectação de meios que permitam ocorrer à sua auto-subsistência;
+
+Considerando que pela [Resolução n.º 139/79](https://diariodarepublica.pt/dr/detalhe/resolucao/139-1979-383207), de 11 de Abril, do Conselho de Ministros se entende que a Quinta da Conraria, situada na freguesia de Castelo Viegas, confrontando com o rio Ceira, estrada de Ceira e inquilinos vários, deve ser aproveitada para esses fins:
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Assuntos Sociais, o seguinte:
+
+1.º O estabelecimento agrícola, com o património que lhe está afecto, conhecido genericamente por Quinta da Conraria, anexo ao Hospital de Sobral Cid, dependente da Secretaria de Estado da Saúde, é transferido para o Centro Regional de Segurança Social de Coimbra, dependente da Secretaria de Estado da Segurança Social, a quem fica a pertencer a propriedade e a orientação da gestão do estabelecimento.
+
+2.º O Centro Regional de Segurança Social de Coimbra promoverá as condições para que a Quinta da Conraria seja aproveitada para a integração sócio-económica de famílias de desalojados, em termos de conseguir não só a sua rentabilização económica, mas ainda uma distribuição de rendimentos que permita a auto-subsistência do grupo que a vier a explorar.
+
+3.º Enquanto o Hospital de Sobral Cid não puder dispensar algumas das instalações que actualmente utiliza, o Centro Regional de Segurança Social de Coimbra, por auto de cessão a título gratuito e precário, permitirá àquele estabelecimento hospitalar a utilização das referidas instalações.
+
+Ministério dos Assuntos Sociais, 31 de Dezembro de 1980. - O Ministro dos Assuntos Sociais, João António Morais Leitão.

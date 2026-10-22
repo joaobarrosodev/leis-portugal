@@ -1,0 +1,233 @@
+---
+schema_version: '1.0'
+id: pt:dre:2912383:por
+title: Declaração de Rectificação n.º 260/2010
+short_title: null
+summary: Rectifica o aviso n.º 2076/2010, publicado no Diário da República, 2.ª série, n.º 20, de 29 de Janeiro de 2010
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas - Autoridade Florestal Nacional
+proposing_entity: null
+official_number: 260/2010
+official_date: null
+publication_date: '2010-02-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/2010, Série II de 2010-02-10
+  number: '28'
+  series: II
+  supplement: null
+  pages: 6419 - 6421
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/02/028000000/0641906421.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2912383'
+  dre_path: /dr/detalhe/declaracao-rectificacao/260-2010-2912383
+  internal: pt:dre:2912383:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/260-2010-2912383
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/260-2010-2912383
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-02-10T00:00:00Z'
+integrity:
+  source_sha256: 38ab2be67bd4abd996d4d83617fdd674050be1823128c7cbe438e7f1639fe4c4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-260-2912383.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 260/2010
+
+Rectificação e republicação do aviso n.º 2076/2010, relativo a procedimento concursal comum para preenchimento de três postos de trabalho na categoria/carreira de técnico superior na modalidade de relação jurídica de emprego público por tempo indeterminado.
+
+Tendo sido publicados com inexactidão os procedimentos concursais comuns no Diário da República, 2.ª série, n.º 20, de 29 de Janeiro de 2010, sob o aviso n.º 2076/2010, e dada a importância do que se pretende rectificar, procede-se, em anexo, à republicação do respectivo aviso.
+
+Relativamente ao prazo da apresentação das candidaturas, reconsiderou-se manter válidas todas aquelas que foram apresentadas ao abrigo da anterior publicação, podendo os candidatos, se assim o entenderem, entregar documentação complementar que eventualmente actualize ou acrescente elementos de informação considerados relevantes para a apreciação das suas candidaturas.
+
+2 de Fevereiro de 2010. - A Vice-Presidente, Maria Isabel Lopes Afonso Pereira Leitão.
+
+Nos termos do disposto no n.º 2 do artigo 6.º e no artigo 50.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, conjugados com o artigo 19.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, faz-se público que, por meu despacho de 29 de Dezembro de 2009, se encontram abertos procedimentos concursais comuns pelo prazo de 10 dias úteis a contar da data da publicitação do presente aviso no Diário da República para preenchimento de três postos de trabalho para a carreira/categoria de técnico superior na modalidade de relação jurídica de emprego público, titulada por contrato de trabalho em funções públicas por tempo indeterminado, do mapa de pessoal da Autoridade Florestal Nacional.
+
+Para os efeitos do estipulado no n.º 1 do artigo 4.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), declara-se não estarem constituídas reservas de recrutamento no próprio serviço e não ter sido efectuada consulta prévia à ERCC, por ter sido temporariamente dispensada, uma vez que ainda não foi publicitado qualquer procedimento concursal para constituição de reservas de recrutamento.
+
+1 - Identificação e caracterização dos postos de trabalho:
+
+Referência A - um posto de trabalho destinado ao desempenho de funções técnicas na área da gestão dos recursos humanos, no âmbito das competências que estão cometidas à Divisão Administrativa e Financeira, designadamente para o exercício das seguintes actividades: elaborar informações técnicas, pareceres e propostas de despacho relativos a matérias de gestão de recursos humanos; identificar as necessidades de formação e qualificação profissionais; identificar as necessidades de pessoal do serviço de acordo com a planificação anual da sua actividade e proceder à análise e se necessário à alteração do respectivo mapa de pessoal; desenvolver os trabalhos e as acções necessárias à selecção, recrutamento e mobilidade de pessoal, alterações do posicionamento remuneratório, provimento e cessação de funções do pessoal e protecção social;
+
+Referência B - um posto de trabalho destinado ao desempenho de funções técnicas na área financeira no âmbito das competências que estão cometidas à Divisão Administrativa e Financeira, designadamente para o exercício das seguintes actividades: elaborar a proposta de orçamento e apoiar a respectiva gestão de controlo da execução orçamental de forma a assegurar a recolha e tratamento de dados de actividade e de execução financeira e orçamental susceptíveis de propiciar a construção de adequados instrumentos de gestão, análise de balancetes; realização das funções inerentes ao movimento da receita e da despesa e aos respectivos registos contabilísticos obrigatórios bem como promover o arquivo dos documentos justificativos; desenvolver uma gestão integrada dos recursos financeiros, garantir a elaboração da conta de gerência, bem como dos relatórios de gestão anuais e intercalares; assegurar a gestão dos orçamentos, dos investimentos e dos projectos apoiados por fundos nacionais e comunitários;
+
+Referência C - um posto de trabalho destinado ao desempenho de funções técnicas na área da gestão organizacional, no âmbito das competências que estão cometidas à Direcção de Unidade dos Recursos Administrativos, Financeiros e Informacionais, designadamente para o exercício das seguintes actividades: implementar medidas adequadas e assegurar a gestão, conservação e segurança do património, das instalações e equipamento, e proceder à elaboração e manutenção de um inventário permanente, bem como executar as funções de aprovisionamento, património e economato com base numa eficiente gestão de disponibilidades; assegurar a gestão dos pedidos de alteração de mobiliário; assegurar o aprovisionamento de bens e serviços; elaboração dos procedimentos necessários à gestão e aquisição de bens e serviços para o funcionamento das respectivas unidades orgânicas da AFN; assegurar as deslocações dos trabalhadores em serviço externo, gestão da frota automóvel, elaboração de mapas de controlo de custos por viatura, no que diz respeito a manutenção e reparações, combustível e acidentes de viação.
+
+2 - Local de trabalho - referências A, B e C - Autoridade Florestal Nacional, sita na Avenida de João Crisóstomo, 26-28, 1069-040 Lisboa.
+
+3 - Legislação aplicável - os presentes procedimentos concursais regem-se pelas disposições constantes na [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro (LVCR), com as alterações introduzidas pela [Lei n.º 64-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/64-a-2008-243747), de 31 de Dezembro, e na [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.
+
+4 - Requisitos de admissão - são requisitos cumulativos de admissão:
+
+4.1 - Reunir os requisitos gerais necessários para o exercício de funções públicas, enunciados no artigo 8.º da LVCR;
+
+4.2 - Possuir relação jurídica de emprego público por tempo indeterminado previamente estabelecida;
+
+4.3 - Possuir as seguintes habilitações académicas:
+
+Referência A - licenciatura em Direito;
+
+Referência B - licenciatura em Contabilidade e Administração;
+
+Referência C - licenciatura em Gestão;
+
+4.4 - Não é admitida a substituição do nível habilitacional por formação ou experiência profissional;
+
+4.5 - Nos termos da alínea l) do n.º 3 do artigo 19.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, não podem ser admitidos candidatos que, cumulativamente, se encontrem integrados na carreira e na categoria de técnico superior em regime de emprego público por tempo indeterminado e, não se encontrando em mobilidade, ocupem postos de trabalho previstos no mapa de pessoal da Autoridade Florestal Nacional idênticos ao posto de trabalho para cuja ocupação se publicitam os procedimentos.
+
+5 - Condição preferencial - ser detentor de experiência profissional comprovada na execução das actividades caracterizadoras ou inerentes ao posto de trabalho ao qual se candidata, com especial incidência nas que se passam a indicar:
+
+Referência A - elaboração de informações técnicas, pareceres e propostas de despacho relativos a matérias de gestão de recursos humanos, no âmbito da LVCR, do regime do contrato de trabalho em funções públicas, mobilidade, estatuto do pessoal dirigente, protecção social, recrutamento, alterações do posicionamento remuneratório, provimento e cessação de funções do pessoal;
+
+Referência B - elaboração e acompanhamento da execução do orçamento, conhecimentos sólidos em POCP, desenvolvimento de procedimentos em matéria de contratação pública no âmbito da [Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/lei/18-2008-249977), de 29 de Janeiro, experiência de trabalho com as aplicações SIC, SIGO, SAP e homebanking IGCP, contas de gerência e conhecimentos no âmbito do funcionamento de projectos PIDDAC;
+
+Referência C - experiência nas áreas do aprovisionamento e património; elaboração de procedimentos em matéria de contratação pública no âmbito da [Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/lei/18-2008-249977), de 29 de Janeiro; conhecimentos ao nível da contratação através de plataformas electrónicas, leilões electrónicos e conhecimentos no âmbito do funcionamento de projectos PIDDAC.
+
+6 - Posicionamento remuneratório - será objecto de negociação entre os trabalhadores recrutados e a Autoridade Florestal Nacional, nos termos do disposto no artigo 55.º da LVCR.
+
+7 - Prazo de validade - os presentes procedimentos concursais serão válidos para o preenchimento dos postos de trabalho a ocupar e para os efeitos do previsto no n.º 2 do artigo 40.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.
+
+8 - Forma, local, horário e prazo de apresentação das candidaturas:
+
+8.1 - As candidaturas deverão ser formalizadas, obrigatoriamente, em suporte de papel através do modelo de requerimento disponibilizado na página electrónica www.afn.min-agricultura.pt, com indicação da referência do posto de trabalho a que se candidata e devidamente preenchido de acordo com o estabelecido no artigo 27.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.
+
+8.2 - Os candidatos deverão instruir a candidatura, sob pena de exclusão, com os seguintes documentos:
+
+a) Currículo profissional, datado e assinado, dele devendo constar, para além de outros elementos julgados necessários, as habilitações literárias, as funções e actividades que exerce, bem como as que exerceu, com indicação dos respectivos períodos de duração e datas e a formação profissional detida, com indicação das entidades promotoras, datas de realização e respectiva duração;
+
+b) Fotocópia simples de documento comprovativo das habilitações literárias;
+
+c) Comprovativos de acções de formação frequentadas e dos factos referidos no curriculum vitae, sob pena de os mesmos não poderem ser considerados;
+
+d) Declaração, emitida e autenticada pelo serviço de origem, da qual constem a categoria e carreira, a natureza da relação jurídica de emprego público de que é titular, a respectiva antiguidade e a avaliação do desempenho, com referência ao valor quantitativo e qualitativo, obtida no último ano, nos termos e para os efeitos do disposto na alínea d) do n.º 2 do artigo 11.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro;
+
+e) Declaração, emitida e autenticada pelo serviço de origem, na qual conste a caracterização das funções exercidas pelo trabalhador;
+
+f) Fotocópia legível do bilhete de identidade ou cartão de cidadão.
+
+8.3 - A apresentação da candidatura poderá ser efectuada, pessoalmente, das 9 horas 30 minutos às 12 horas e 30 minutos e das 14 às 17 horas, ou através de correio, em envelope fechado, registado com aviso de recepção, para a Direcção de Unidade dos Recursos Administrativos, Financeiros e Informacionais (DURAFI) da Autoridade Florestal Nacional, sita na Avenida de João Crisóstomo, 26-28, 1069-040 Lisboa, com a indicação exterior de «Procedimento concursal comum para recrutamento de três postos de trabalho na carreira de técnico superior», até ao termo do prazo fixado para apresentação das candidaturas.
+
+8.4 - Não serão aceites candidaturas enviadas por correio electrónico.
+
+8.5 - Assiste ao júri a faculdade de solicitar a qualquer candidato, em caso de dúvida sobre a situação que descreve no seu currículo, a apresentação de elementos comprovativos das suas declarações.
+
+8.6 - As falsas declarações prestadas pelos candidatos ou a apresentação de documentos falsos determinam a participação à entidade competente para efeitos de procedimento disciplinar e, ou, penal.
+
+9 - Métodos de selecção - considerando a urgência que reveste o presente recrutamento, face à insuficiência actual dos recursos humanos, nomeadamente nas áreas da gestão dos recursos humanos e da financeira para assegurar a capacidade de resposta às solicitações e prossecução das atribuições e competências que estão cometidas ao organismo, e afigurando-se como absolutamente necessário garantir a ocupação dos postos de trabalho em questão, sob pena de se comprometer gravemente os objectivos que a AFN se propôs atingir nas áreas funcionais a que os mesmos respeitam, o procedimento reveste carácter extremamente urgente, pelo que será adoptado um método de selecção obrigatório e um método de selecção facultativo ou complementar, os quais serão utilizados de forma faseada, em conformidade com o previsto nos n.os 3 e 4 do artigo 53.º da LVCR, no n.º 2 do artigo 6.º e no artigo 8.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.
+
+9.1 - A avaliação curricular (AC) visa analisar a qualificação dos candidatos, designadamente a habilitação académica ou profissional, percurso profissional, relevância da experiência adquirida e da formação realizada, tipo de funções exercidas e avaliação do desempenho obtida.
+
+9.2 - A ponderação para a valoração final da avaliação curricular (AC) é de 70 %, de acordo com o disposto nos n.os 3 e 4 do artigo 6.º da portaria.
+
+9.3 - O método de selecção facultativo a utilizar será a entrevista profissional de selecção, de acordo com o disposto no n.º 2 do artigo 6.º e no artigo 7.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.
+
+9.4 - A entrevista profissional de selecção (EPS) visa avaliar, de forma objectiva e sistemática, a experiência profissional e os aspectos comportamentais evidenciados durante a interacção estabelecida entre o entrevistador e o entrevistado, nomeadamente os relacionados com a capacidade de comunicação e de relacionamento interpessoal.
+
+9.5 - A ponderação para a valoração final da entrevista profissional de selecção (EPS) é de 30 %.
+
+9.6 - A classificação final (CF) resultará da seguinte fórmula:
+
+CF = (70 % x AC) + (30 % x EPS)
+
+9.7 - Cada um dos métodos de selecção, bem como cada uma das fases que comportem, é eliminatório, sendo excluídos os candidatos que não compareçam a qualquer dos métodos de selecção ou que vierem a obter valoração inferior a 9,5 valores num dos métodos ou fases, não lhes sendo aplicável o método ou fases seguintes.
+
+9.8 - A valoração final dos candidatos será expressa numa escala de 0 a 20 valores, em resultado da média aritmética ponderada das classificações quantitativas obtidas em cada método de selecção.
+
+9.9 - Em situações de igualdade de valoração, aplicar-se-á o disposto no artigo 35.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.
+
+10 - As listas unitárias de ordenação final dos candidatos aprovados e as exclusões de candidatos ocorridas no decurso da aplicação dos métodos de selecção serão notificadas, para a realização da audiência dos interessados nos termos do Código do Procedimento Administrativo, por uma das formas referidas nas alíneas a) a d) do n.º 3 do artigo 30.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.
+
+11 - As listas unitárias de ordenação final dos candidatos, após homologação, serão publicadas na 2.ª série do Diário da República, afixadas em local visível e público nas instalações da Autoridade Florestal Nacional e disponibilizadas na página electrónica www.afn.min-agricultura.pt.
+
+12 - A acta do júri, onde constam os parâmetros de avaliação e respectiva ponderação de cada um dos métodos de selecção a utilizar, a grelha classificativa e o sistema de valoração final do método, é facultada aos candidatos sempre que solicitada.
+
+13 - Composição e identificação do júri:
+
+13.1 - O júri da referência A do presente procedimento concursal terá a seguinte composição:
+
+Presidente - mestre Maria Isabel Lopes Afonso Pereira Leitão, vice-presidente da AFN.
+
+1.º vogal efectivo - licenciada Cristina Lourenço Martins, técnica superior da DURAFI, que substitui a presidente nas suas faltas e impedimentos.
+
+2.º vogal efectivo - licenciado Manuel Augusto Rosa, técnico superior da DAF.
+
+1.º vogal suplente - licenciada Maria João Feliz Guedes, técnica superior da DAF.
+
+2.º vogal suplente - licenciado João António Reis Lourenço, técnico superior da DAF.
+
+13.2 - O júri da referência B do presente procedimento concursal terá a seguinte composição:
+
+Presidente - mestre Maria Isabel Lopes Afonso Pereira Leitão, vice-presidente da AFN.
+
+1.º vogal efectivo - licenciada Cristina Lourenço Martins, técnica superior da DURAFI, que substitui a presidente nas suas faltas e impedimentos.
+
+2.º vogal efectivo - licenciado José Paulo Henriques Freitas, chefe de divisão da DAF.
+
+1.º vogal suplente - licenciado António José Velez Neves, técnico superior da DAF.
+
+2.º vogal suplente - licenciado Aristides Alfredo Curado Silva, técnico superior da DAF.
+
+13.3 - O júri da referência C será constituído como se segue:
+
+Presidente - mestre Maria Isabel Lopes Afonso Pereira Leitão, vice-presidente da AFN.
+
+1.º vogal efectivo - licenciada Cristina Lourenço Martins, técnica superior da DURAFI, que substitui a presidente nas suas faltas e impedimentos.
+
+2.º vogal efectivo - licenciado Manuel José Pina da Silva, chefe da Equipa de Projectos e Apoio à Decisão.
+
+1.º vogal suplente - licenciada Maria João Feliz Guedes, técnica superior da DAF.
+
+2.º vogal suplente - licenciado João António Reis Lourenço, técnico superior da DAF.
+
+14 - Igualdade de oportunidades - em cumprimento da alínea h) do artigo 9.º da CRP, a Administração Pública, enquanto entidade empregadora, promove activamente uma política de igualdade de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação.
+
+7 de Janeiro de 2010. - A Vice-Presidente, Maria Isabel Lopes Afonso Pereira Leitão.

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114297486:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2017-902263455",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/137-2017-114297486",
+ "source_lastmod": "2025-01-09",
+ "versions": [
+  {
+   "date": "2017-12-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "902223847"
+   ]
+  }
+ ],
+ "fragments": {
+  "902223847": {
+   "fragment_id": "902263456",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 137/2017\n\nde 4 de dezembro\n\nO Presidente da República decreta, nos termos do n.º 2 do artigo 25.º da Lei Orgânica n.º 1-A/2009, de 7 de julho, alterada e republicada pela Lei Orgânica n.º 6/2014, de 1 de setembro, o seguinte:\n\nÉ confirmada a promoção ao posto de Brigadeiro-General do Coronel Tirocinado de Infantaria José António Coelho Rebelo, efetuada por deliberação de 24 de novembro de 2017 do Conselho de Chefes de Estado-Maior e aprovada por despacho do Ministro da Defesa Nacional de 28 de novembro de 2017."
+  }
+ }
+}

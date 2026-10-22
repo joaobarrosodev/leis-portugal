@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:662115:por
+title: Portaria n.º 905/99
+short_title: null
+summary: Regula a atribuição do seguro de vida aos militares integrados nas missões humanitárias e de paz fora do território
+  nacional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios da Defesa Nacional e das Finanças
+proposing_entity: null
+official_number: 905/99
+official_date: null
+publication_date: '1999-10-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 239/1999, Série I-B de 1999-10-13
+  number: '239'
+  series: I
+  supplement: null
+  pages: 6905 - 6905
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/10/239b00/69056905.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/905/1999/10/13/p/dre/pt/html
+  oj: null
+  dre: '662115'
+  dre_path: /dr/detalhe/portaria/905-1999-662115
+  internal: pt:dre:662115:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/905-1999-662115
+  metadata_url: https://data.dre.pt/eli/port/905/1999/10/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/905-1999-662115
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-10-13T00:00:00Z'
+integrity:
+  source_sha256: ab5ac331eef9bb6c029b8b3c457af3e1d3936b325e8eb389622f538b4880ce38
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-905-662115.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Indemnização
+- Invalidez
+- Missão de PAZ
+- Missão Humanitária
+- Missão no Estrangeiro
+- Forças Armadas
+- Militar
+- Seguro de VIDA
+- Óbito
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/233/1996/12/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/233/1996/12/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/348/1999/08/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/348/1999/08/27/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 905/99
+
+de 13 de Outubro
+
+O [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro, que aprova o estatuto dos militares em missões humanitárias e de paz no estrangeiro, foi alterado pelo [Decreto-Lei n.º 348/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1999-533780), de 27 de Agosto, que cria um seguro de vida destinado àqueles militares, para reparação dos danos por morte ou invalidez permanente.
+
+O mesmo diploma estabelece que as condições, período e montantes do seguro são objecto de regulamentação por portaria conjunta dos Ministros da Defesa Nacional e das Finanças e pelo membro do Governo responsável pela Administração Pública.
+
+Assim:
+
+Ao abrigo do disposto no artigo 7.º-A do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de Dezembro, na redacção do [Decreto-Lei n.º 348/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1999-533780), de 27 de Agosto:
+
+Manda o Governo, pelos Ministros da Defesa Nacional, das Finanças e Adjunto, o seguinte:
+
+1.º O seguro de vida para reparação dos danos por morte ou invalidez permanente dos militares integrados nas missões humanitárias e de paz fora do território nacional é contratado nas condições, período e montante constantes dos números seguintes.
+
+2.º O número de militares abrangido pelo presente seguro é de 1700.
+
+3.º O início e o fim da garantia da pessoa segura reportam-se ao início e ao fim da missão, abrangendo os momentos e locais de embarque e desembarque definitivo.
+
+4.º O período do seguro é de um ano, renovável.
+
+5.º O capital seguro corresponde a 18 meses da remuneração mensal equivalente ao posto de capitão, constituída pela remuneração base do índice do 1.º escalão e pelo suplemento da condição militar, acrescida do suplemento de missão, multiplicado pelo número de militares referido no n.º 2.º
+
+6.º O valor da indemnização por morte ou incapacidade total permanente corresponde ao capital seguro individual.
+
+7.º Em caso de incapacidade parcial permanente, a indemnização é calculada tendo em consideração as percentagens de desvalorização constantes da Tabela Nacional de Incapacidades.
+
+Em 26 de Setembro de 1999.
+
+Pelo Ministro da Defesa Nacional, José Rodrigues Pereira Penedos, Secretário de Estado da Defesa Nacional. - Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa.

@@ -1,0 +1,1505 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:554380:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-73727208",
+ "dre_path": "/dr/detalhe/decreto-lei/85-2012-554380",
+ "source_lastmod": "2026-01-23",
+ "versions": [
+  {
+   "date": "2012-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73736376",
+    "73736377",
+    "73736378",
+    "73736379",
+    "73736380",
+    "73736381",
+    "73736382",
+    "73736383",
+    "73736384",
+    "73736385",
+    "73736386",
+    "73736387",
+    "73736388",
+    "73736389",
+    "73736390",
+    "73736391",
+    "73736392",
+    "73736393",
+    "73736394",
+    "73736395",
+    "73736396",
+    "73736397",
+    "73736398",
+    "73736399",
+    "73736401",
+    "73736402",
+    "73736424",
+    "73736400",
+    "73736404",
+    "73736405",
+    "73736403",
+    "73736407",
+    "73736408",
+    "73736406",
+    "73736410",
+    "73736411",
+    "73736409",
+    "73736413",
+    "73736414",
+    "73736415",
+    "73736416",
+    "73736412",
+    "73736418",
+    "73736419",
+    "73736420",
+    "73736421",
+    "73736422",
+    "73736423",
+    "73736417",
+    "73736425",
+    "73736426",
+    "73736427",
+    "73736428",
+    "73736429",
+    "73736430",
+    "73736431",
+    "73736432",
+    "73736433",
+    "73736434",
+    "73736435",
+    "73736436",
+    "73736437",
+    "73736438",
+    "73736439",
+    "73736440",
+    "73736441",
+    "73736442",
+    "73736443",
+    "73736444",
+    "73736445",
+    "73736446",
+    "73736447",
+    "73736448",
+    "73736449",
+    "73736450",
+    "73736451",
+    "73736452",
+    "73736453",
+    "73736454",
+    "73736455",
+    "73736456",
+    "73736457",
+    "73736458",
+    "73736459"
+   ]
+  },
+  {
+   "date": "2012-10-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176353:por",
+     "title": "Decreto-Lei n.º 222/2012",
+     "published": "2012-10-15",
+     "dre_path": "/dr/detalhe/decreto-lei/222-2012-176353"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A",
+    "Adita Artigo 41.º-A",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Capítulo IV",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Capítulo V",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Secção III",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Secção IV",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Secção V",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Secção VI",
+    "Altera Artigo 33.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 43.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 45.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 51.º",
+    "Altera Artigo 52.º",
+    "Revoga Anexo I"
+   ],
+   "fragments": [
+    "73736376",
+    "73736377",
+    "73736378",
+    "73736379",
+    "1020029031",
+    "73736460",
+    "73736381",
+    "73736382",
+    "73736383",
+    "73736384",
+    "73736385",
+    "1020029035",
+    "73736387",
+    "73736388",
+    "1020029036",
+    "73736390",
+    "73736391",
+    "1020029037",
+    "1022511915",
+    "1022511916",
+    "73736395",
+    "1022511917",
+    "1022511918",
+    "1022511919",
+    "1022511943",
+    "1024157560",
+    "1024157562",
+    "1024157564",
+    "1024688441",
+    "1022511959",
+    "1022511949",
+    "1022511954",
+    "1022511971",
+    "1022511967",
+    "1022511969",
+    "1024157483",
+    "1024157479",
+    "1024157481",
+    "1024157499",
+    "1024157491",
+    "1024157493",
+    "1024157495",
+    "1024157497",
+    "1024157557",
+    "1024157566",
+    "1024157568",
+    "1024157570",
+    "1024157572",
+    "1024157574",
+    "1024157576",
+    "1024157558",
+    "1024157507",
+    "1024157515",
+    "1024157523",
+    "1024157531",
+    "1024157539",
+    "1024157547",
+    "73736431",
+    "1020029038",
+    "73736433",
+    "1020029039",
+    "1020029033",
+    "1020029040",
+    "73736436",
+    "1020029041",
+    "1020029042",
+    "1020029043",
+    "1020029044",
+    "1020029045",
+    "73736442",
+    "1020029046",
+    "1020029047",
+    "73736445",
+    "1020029048",
+    "1020029049",
+    "73736448",
+    "1020029050",
+    "73736450",
+    "73736451",
+    "73736452",
+    "73736453",
+    "73736454",
+    "73736455",
+    "73736456",
+    "73736457",
+    "73736458",
+    "1024157577"
+   ]
+  }
+ ],
+ "fragments": {
+  "73736376": {
+   "fragment_id": "73727209",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 85/2012\n\nde 5 de abril\n\nO Decreto-Lei n.º 161/2002, de 10 de julho, dando cumprimento ao disposto na Decisão da Comissão n.º <a href=\"eurlex.asp?ano=2001&id=301D0618\" title=\"Link para Decisão da Comunidade Europeia\">2001/618/CE</a>, de 23 de julho, que determinou garantias adicionais em relação à doença de Aujeszky no trânsito intracomunitário de suínos, estabeleceu as normas técnicas de execução do Plano de Controlo e Erradicação da Doença de Aujeszky, doravante abreviadamente designado por PCEDA ou Plano.\n\nA implementação do PCEDA tem evidenciado a necessidade de tornar obrigatória a vacinação contra a doença de Aujeszky em todas as explorações de suínos, transformando-a na principal ferramenta de erradicação da doença.\n\nAcresce ainda que a aplicação do PCEDA conduziu à identificação da exigência de alargar o número das explorações abrangidas pela avaliação epidemiológica e de alterar o procedimento estabelecido para a mesma, de acordo com as orientações do grupo de trabalho da Comissão Europeia para a Vigilância das Doenças dos Animais.\n\nNestes termos, visa-se proceder à revisão integral do regime em referência através de um maior envolvimento e partilha de responsabilidades dos produtores de suínos nos objetivos a atingir com o Plano, nomeadamente na organização, execução e controlo das medidas sanitárias aprovadas e no cumprimento das regras de identificação e de movimentação dos animais.\n\nAdequa-se, ainda, a legislação em vigor à Decisão (CE) n.º <a href=\"eurlex.asp?ano=2008&id=308D0185\" title=\"Link para Decisão da Comunidade Europeia\">2008/185</a>, da Comissão, de 21 de fevereiro, relativa a garantias adicionais em relação à doença de Aujeszky no comércio intracomunitário de suíno, aos critérios de notificação desta doença, bem como ao guia, elaborado pela Comissão Europeia no âmbito daquela Decisão, relativo às garantias adicionais para o comércio intracomunitário de suínos relacionadas com a doença de Aujeszky e ao critério para a elaboração de listas dos Estados membros ou regiões livres de doença de Aujeszky ou que tenham um programa de controlo aprovado, que veio abrir novas perspetivas na abordagem à erradicação desta doença.\n\nAssim, afigura-se adequado alterar os procedimentos a implementar no PCEDA, a fim de passar de uma situação de controlo para a erradicação desta doença, assegurando-se igualmente o cumprimento das regras capazes de garantir a continuidade das trocas intracomunitárias.\n\nImporta, ainda, referir que a revisão do PCEDA reflete também o envolvimento do sector, que tem como objetivo comum a erradicação da doença de Aujeszky a curto prazo, permitindo, assim, contribuir para o aumento da rentabilidade da atividade produtiva.\n\nForam ouvidos os órgãos de Governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "73736377": {
+   "fragment_id": "73727210",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma aprova as normas técnicas de execução do Plano de Controlo e Erradicação da Doença de Aujeszky, que se publica em anexo e que dele faz parte integrante.\n\n2 - O presente diploma procede ainda à alteração do anexo iii do Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Leis n.os 214/2008, de 10 de novembro, e 316/2009, de 29 de outubro."
+  },
+  "73736378": {
+   "fragment_id": "73727211",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 142/2006, de 27 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 142/2006, de 27 de julho\n\nO artigo 1.º do anexo iii do Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Leis n.os 214/2008, de 10 de novembro, e 316/2009, de 29 de outubro, passa a ter a seguinte redação:\n\n«Artigo 1.º\n\nMarcação\n\n1 - A marca de exploração é o conjunto de dígitos que permite individualizar a exploração na região de implantação, obedecendo às seguintes características:\n\na) É constituída por cinco caracteres, resultantes da combinação de letras e algarismos, precedidas do código do país - PT;\n\nb) O primeiro dos caracteres é a letra que identifica a direção de serviços veterinários regional (DSVR), que, em combinação com o segundo carácter, indica o concelho onde se localiza a exploração, seguindo-se a matrícula da exploração, para o concelho considerado, que é formada por dois algarismos e uma letra;\n\nc) A marca de centro de agrupamento de suínos é constituída de acordo com o disposto na alínea a), acrescida da letra A no final;\n\nd) A marca de centro de colheita de sémen de suínos é constituída de acordo com o disposto na alínea a), acrescida da letra I no final.\n\n2 - Os animais da espécie suína existentes numa exploração, centro de colheita de sémen ou centro de agrupamento devem ser marcados através de tatuagem ou pela aposição de marca auricular, com a respetiva marca precedida do código do país, que permita relacionar o animal alternativamente com a exploração, com o centro de colheita de sémen ou com o centro de agrupamento.\n\n3 - No que se refere à exploração de nascimento, a marcação referida no número anterior deve ser legível, efetuada no pavilhão auricular direito, o mais cedo possível, pelo menos até ao desmame e, em qualquer caso, sempre antes de o suíno sair da exploração de nascimento.\n\n4 - Nenhum animal da espécie suína pode sair de uma exploração, de um centro de colheita de sémen ou de um centro de agrupamento sem estar marcado com o código do país, seguido da marca dessas instalações.\n\n5 - Nenhum suíno pode deixar a exploração, centro de colheita de sémen ou centro de agrupamento sem a respetiva marcação, devendo os documentos de acompanhamento mencionar obrigatoriamente essa marca.\n\n6 - Os suínos provenientes de trocas intracomunitárias ou de países terceiros, quando introduzidos em explorações nacionais, devem ser marcados, no prazo de quarenta e oito horas após a sua chegada à exploração de destino, através de marca auricular com a inscrição do código do país e a marca da exploração.\n\n7 - A inscrição dos caracteres na marca auricular deve ser feita de forma indelével, e cada carácter deve ter as dimensões mínimas de 4 mm x 3 mm no caso de identificação de reprodutores e animais de engorda.\n\n8 - No caso de identificação por tatuagem, esta deve ser facilmente legível durante toda a vida do animal e os caracteres devem ter as dimensões mínimas de 8 mm x 4 mm.\n\n9 - A marcação dos suínos é da responsabilidade do detentor.\n\n10 - O detentor deve marcar de novo os suínos sempre que se verifique a perda da marca auricular ou a sua inscrição ou tatuagem ficarem ilegíveis.»"
+  },
+  "73736379": {
+   "fragment_id": "73727212",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 161/2002, de 10 de julho."
+  },
+  "73736380": {
+   "fragment_id": "73727213",
+   "type": 11,
+   "heading": "Artigo 4.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Protocolos\n\nMantêm-se em vigor os protocolos celebrados ao abrigo do Decreto-Lei n.º 161/2002, de 10 de julho."
+  },
+  "73736381": {
+   "fragment_id": "73727214",
+   "type": 14,
+   "heading": "Anexo — PLANO DE CONTROLO E ERRADICAÇÃO DA DOENÇA DE AUJESZKY",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — PLANO DE CONTROLO E ERRADICAÇÃO DA DOENÇA DE AUJESZKY\n\n(a que se refere o n.º 1 do artigo 1.º)"
+  },
+  "73736382": {
+   "fragment_id": "73727215",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "73736383": {
+   "fragment_id": "73727216",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nEstabelecem-se as normas técnicas a observar no Plano de Controlo e Erradicação da Doença de Aujeszky, adiante designado por PCEDA ou Plano."
+  },
+  "73736384": {
+   "fragment_id": "73727217",
+   "type": 11,
+   "heading": "Artigo 2.º — Aplicação das medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aplicação das medidas\n\nAs medidas de profilaxia previstas no presente Plano aplicam-se a todo o território nacional."
+  },
+  "73736385": {
+   "fragment_id": "73727218",
+   "type": 11,
+   "heading": "Artigo 3.º — Classificação das explorações suínas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Classificação das explorações suínas\n\nAs explorações de suínos são classificadas de acordo com a estrutura de produção no seguinte:\n\na) «Centro de colheita de sémen» quando tem por objetivo a produção de sémen destinado à reprodução de suínos;\n\nb) «Seleção e ou multiplicação» quando tem por objetivo o melhoramento genético no âmbito de um processo de seleção e ou multiplicação de uma raça reconhecida, de acordo com os procedimentos previstos nos respetivos livros genealógicos ou registos zootécnicos, com vista à produção de reprodutores;\n\nc) «Quarentena» quando tem por objetivo proceder à preparação e quarentena de reprodutores provenientes de uma exploração de seleção e ou multiplicação, cujo destino final é o repovoamento das explorações de produção;\n\nd) «Produção» quando tem por objetivo a produção de leitões e porcos com vista ao abate, mediante recria e acabamento, parcial ou total, da produção própria;\n\ne) «Produção de leitões» quando tem por objetivo a produção de leitões para abate ou para recria e acabamento noutras explorações;\n\nf) «Recria e ou acabamento» quando tem por objetivo, unicamente a recria e ou o acabamento de animais para abate."
+  },
+  "73736386": {
+   "fragment_id": "73727219",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\n1 - Para efeitos da execução do PCEDA considera-se:\n\na) «Comerciante» qualquer pessoa, singular ou coletiva que compra e vende, direta ou indiretamente, animais para fins comerciais;\n\nb) «Produtor» a pessoa, singular ou coletiva, que exerce uma atividade pecuária e se responsabiliza pela mesma;\n\nc) «Exploração» qualquer instalação ou, no caso de uma exploração agropecuária ao ar livre, qualquer local situado no território nacional onde os animais abrangidos pelo presente Plano sejam alojados, criados ou mantidos;\n\nd) «Efetivo» o animal ou conjunto de animais da espécie suína mantidos numa exploração num dado momento ou período de tempo;\n\ne) «Varrasco» o suíno macho destinado à reprodução;\n\nf) «Marrã» o suíno fêmea antes da primeira parição;\n\ng) «Porca» o suíno fêmea após a primeira parição;\n\nh) «Porco de engorda» o suíno entre as 10 semanas de idade e o abate;\n\ni) «Suíno de substituição» o suíno destinado à reprodução, proveniente de núcleos de seleção e ou multiplicação ou nascido na própria exploração;\n\nj) «Centro de agrupamento» o local, incluindo centros de recolha, feiras e mercados, onde são agrupados os suínos provenientes de diferentes explorações com vista à constituição de lotes destinados ao comércio ou à sua exposição ou participação em concursos;\n\nk) «Entreposto de suínos» as instalações detidas por um comerciante, onde são agrupados suínos, com o objetivo de constituição de lotes para abate ou para explorações de recria e acabamento;\n\nl) «Direções de serviços de alimentação e veterinária regionais», são as unidades orgânicas desconcentradas da Direção-Geral de Alimentação e Veterinária;\n\nm) «Médico veterinário», aquele que participa na avaliação epidemiológica e na implementação das medidas de imunoprofilaxia, compreendendo designadamente:\n\ni) O responsável sanitário da exploração, do centro de colheita de sémen, do centro de agrupamento, do entreposto de suínos para abate e exploração em vida, bem como da quarentena de suínos;\n\nii) O médico veterinário contratado pelo produtor ou comerciante;\n\nn) «Responsável sanitário», o médico veterinário, nomeado pelo proprietário dos animais, que determina a aplicação das normas previstas no Plano, para as seguintes explorações:\n\ni) Explorações de seleção e multiplicação;\n\nii) Centros de colheita de sémen;\n\niii) Centros de agrupamento;\n\niv) Entrepostos para abate e para exploração em vida;\n\nv) Quarentenas;\n\nvi) Restantes explorações com um efetivo superior a 20 porcas reprodutoras ou 200 porcos de recria e acabamento;\n\no) «Suíno suspeito» é o animal da espécie suína clinicamente suspeito ou com lesões suspeitas detetadas em exame postmortem ou com resultado laboratorial duvidoso ao controlo serológico;\n\np) «Suíno infetado» é o animal da espécie suína com resultado serológico positivo a anticorpos contra a proteína gE e ou a partir do qual foi isolado e identificado o vírus da doença de Aujeszky, ou detetado o genoma viral (gene gE);\n\nq) «Sequestro sanitário» interdição de entrada e saída de suínos da exploração, exceto com destino direto ao matadouro e nas condições descritas nos artigos 44.º a 47.º, desde que autorizada pela Direção-Geral de Alimentação e Veterinária.\n\n2 - Para efeitos do Plano, os suínos destinados a abate só podem permanecer por um período máximo de 72 horas nos entrepostos de suínos, e sete dias nas explorações em vida, a contar da data da aquisição dos animais, em ambos os casos, salvo outra determinação da Direção-Geral de Alimentação e Veterinária."
+  },
+  "73736387": {
+   "fragment_id": "73727220",
+   "type": 1,
+   "heading": "Capítulo II — Gestão e execução do PCEDA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Gestão e execução do PCEDA"
+  },
+  "73736388": {
+   "fragment_id": "73727221",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades competentes\n\nA execução e gestão do PCEDA compete:\n\na) À Direção-Geral de Alimentação e Veterinária (DGAV);\n\nb) Ao Instituto Nacional de Investigação Agrária e Veterinária (INIAV);\n\nc) Aos laboratórios de diagnóstico regionais, aos laboratórios das organizações dos produtores pecuários e aos laboratórios privados (laboratórios de diagnóstico);\n\nd) Aos médicos veterinários."
+  },
+  "73736389": {
+   "fragment_id": "73727222",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências da DGAV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências da DGAV\n\nCompete à DGAV:\n\na) Elaborar e executar o PCEDA e promover o necessário apoio técnico aos serviços envolvidos;\n\nb) Criar um sistema informativo para gestão técnica e administrativa do PCEDA e assegurar a sua coordenação e desenvolvimento;\n\nc) Dirigir, coordenar, executar e controlar as ações a desenvolver para a implementação do presente Plano;\n\nd) Efetuar os controlos oficiais necessários para garantir a correta execução das ações da profilaxia médica e sanitária;\n\ne) Elaborar os formulários e as normas de procedimento;\n\nf) Promover e acompanhar a execução anual do PCEDA, procedendo à avaliação das ações desenvolvidas;\n\ng) Nomear um coordenador regional por cada uma das áreas geográficas das direções de serviços veterinários regionais (DSVR), ao qual cabe elaborar os relatórios técnicos de acompanhamento e garantir o cumprimento da legislação em vigor;\n\nh) Promover ações de informação, sensibilização e formação em serviço, de acordo com as necessidades inventariadas nas diversas fases do Plano;\n\ni) Autorizar os laboratórios de diagnóstico;\n\nj) Auditar internamente o Plano;\n\nk) Reportar à Comissão, nos termos do Plano Nacional de Controlo Plurianual Integrado, os resultados do controlo que resultam da implementação das medidas de erradicação da doença."
+  },
+  "73736390": {
+   "fragment_id": "73727223",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências do INIAV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências do INIAV\n\nCompete ao INIAV:\n\na) Coordenar e supervisionar tecnicamente os laboratórios de diagnóstico promovendo a avaliação, através de visitas técnicas periódicas e ensaios interlaboratoriais, garantindo a utilização do método Elisa anti-gE em todos os laboratórios de diagnóstico;\n\nb) Promover ou recomendar a participação periódica em programas de ensaios interlaboratoriais organizados por outro laboratório europeu para avaliação da sua aptidão;\n\nc) Assegurar a necessária formação técnica profissional ao pessoal dos laboratórios de diagnóstico destinada à qualificação inicial para a execução analítica do método Elisa anti-gE para a doença de Aujeszky;\n\nd) Prestar à DGAV todas as informações no âmbito da sua competência, nomeadamente, sobre os laboratórios reconhecidos para efetuarem as provas de diagnóstico e aqueles que deixarem de o estar, sobre os resultados de estudos experimentais efetuados, bem como sobre a validação de outros métodos relevantes para o controlo da doença."
+  },
+  "73736391": {
+   "fragment_id": "73727224",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências dos laboratórios de diagnóstico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências dos laboratórios de diagnóstico\n\nCompete aos laboratórios de diagnóstico:\n\na) Executar o diagnóstico laboratorial;\n\nb) Realizar as provas de diagnóstico serológico segundo o método Elisa anti-gE para a doença de Aujeszky ou outro método indicado pelo INIAV;\n\nc) Utilizar kits de diagnóstico serológico da doença de Aujeszky devidamente autorizados pela DGAV, em conformidade com o disposto no Decreto-Lei n.º 237/2009, de 15 de setembro;\n\nd) Participar nos ensaios interlaboratoriais promovidos ou indicados pelo INIAV;\n\ne) Enviar periodicamente informação para o INIAV sobre o volume de trabalho, lotes de kits de diagnóstico e soros de referência utilizados no controlo da doença de Aujeszky;\n\nf) Cumprir os requisitos técnicos e funcionais da norma ISO 17025;\n\ng) Prestar todas as informações que no âmbito das suas competências lhe forem solicitadas pela DGAV e pelo INIAV;\n\nh) Cumprir com o circuito de informação determinado pela DGAV."
+  },
+  "73736392": {
+   "fragment_id": "73727225",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência dos médicos veterinários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência dos médicos veterinários\n\nAos médicos veterinários que celebram protocolos de colaboração com a DGAV compete:\n\na) Administrar os medicamentos veterinários imunológicos ou administrá-los sob a sua responsabilidade direta nos termos do disposto no artigo 77.º do Decreto-Lei n.º 148/2008, de 29 de julho, alterado pelo Decreto-Lei n.º 314/2009, de 28 de outubro;\n\nb) Efetuar a avaliação epidemiológica, sendo responsável pela supervisão ou implementação bem como supervisionar a implementação das medidas de profilaxia sanitária nas explorações, centros de agrupamento, entrepostos para abate e para exploração em vida, centros de colheita de sémen e quarentena de suínos;\n\nc) Assegurar a execução das ações referidas nas alíneas anteriores dentro dos prazos legalmente estabelecidos;\n\nd) Comunicar à respetiva DSVR a execução das ações de profilaxia médica, no prazo de cinco dias úteis, a contar da data da realização da ação, determinando o seu incumprimento a aplicação pela DGAV de medidas de restrição no efetivo, com implicação na suspensão de todo o trânsito da exploração em causa, exceto para abate, a qual se mantém até à apresentação do comprovativo daquela comunicação;\n\ne) Comunicar à respetiva DSVR a execução das ações de avaliação epidemiológica, no prazo de cinco dias úteis, a contar da data da realização da ação, determinando o seu incumprimento a aplicação pela DGAV da suspensão de todo o trânsito da exploração em causa, exceto para abate, a qual se mantém até à apresentação do comprovativo daquela comunicação;\n\nf) Comunicar à respetiva DSVR toda a suspeita clínica da doença de Aujeszky;\n\ng) Aconselhar tecnicamente os produtores e comerciantes sobre as medidas de biossegurança e higiossanitárias adequadas;\n\nh) Cumprir os protocolos celebrados com a DGAV para execução das ações acima referidas."
+  },
+  "73736393": {
+   "fragment_id": "73727226",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos produtores e comerciantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigações dos produtores e comerciantes\n\nCompete aos produtores e aos comerciantes de suínos:\n\na) Colaborar na organização, execução e controlo das medidas sanitárias aprovadas pela DGAV, dando cumprimento às notificações das DSVR;\n\nb) Comunicar ao médico veterinário toda a suspeita de sinais clínicos de doença de Aujeszky;\n\nc) Assegurar que só sejam adquiridos suínos provenientes de efetivos cujo estatuto sanitário seja igual ou superior ao seu, em cumprimento das normas previstas no presente Plano;\n\nd) Cumprir as medidas de biossegurança aplicáveis ao Plano;\n\ne) Cumprir os protocolos celebrados com a DGAV para execução das ações referidas nas alíneas anteriores."
+  },
+  "73736394": {
+   "fragment_id": "73727227",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigatoriedade da declaração da doença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigatoriedade da declaração da doença\n\nA doença de Aujeszky é uma doença cuja declaração é obrigatória, nos termos da legislação relativa a problemas de fiscalização sanitária em matéria de comércio intracomunitário de animais das espécies bovina e suína."
+  },
+  "73736395": {
+   "fragment_id": "73727228",
+   "type": 1,
+   "heading": "Capítulo III — Estatuto sanitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estatuto sanitário"
+  },
+  "73736396": {
+   "fragment_id": "73727229",
+   "type": 11,
+   "heading": "Artigo 12.º — Classificação sanitária dos efetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Classificação sanitária dos efetivos\n\n1 - A classificação sanitária dos efetivos é atribuída pela DGAV, considerando a sondagem epidemiológica anual.\n\n2 - Os efetivos classificam-se, por ordem crescente, como:\n\na) «Efetivo de estatuto sanitário desconhecido (A1)» efetivo em que os suínos não foram sujeitos a controlo serológico;\n\nb) «Efetivo rastreado sanitariamente» efetivo em que os animais foram sujeitos a rastreio serológico, sendo a sua classificação uma das indicadas nas alíneas seguintes;\n\nc) «Efetivo infetado à doença de Aujeszky (A2)» efetivo que contem pelo menos um suíno em que tenham sido detetados anticorpos contra a proteína gE e ou a partir dos quais foi isolado e identificado o vírus da doença de Aujeszky, ou detetado o genoma viral (gene gE);\n\nd) «Efetivo em saneamento (A3)» efetivo em que os animais apresentaram resultado serológico negativo no rastreio de avaliação e que ainda não atingiu o estatuto sanitário indemne da doença de Aujeszky;\n\ne) «Efetivo indemne (A4)» efetivo onde não são detetados sintomas da doença e em que os diagnósticos serológicos aos rastreios de confirmação e de aceitação são negativos;\n\nf) «Efetivo oficialmente indemne (A5)» efetivo em que os animais apresentam resultado serológico negativo a anticorpos contra a proteína gE, em rastreio serológico, realizado 12 meses após a obtenção do estatuto indemne;\n\ng) «Efetivo indemne ou oficialmente indemne suspenso (A4S ou A5S)» efetivo com a classificação sanitária indemne ou oficialmente indemne em que se verifique o aparecimento de pelo menos um animal com resultado serológico positivo a anticorpos anti-gE;\n\nh) «Efetivo suspeito» efetivo que contém pelo menos um suíno clinicamente suspeito ou com lesões suspeitas detetadas em exame postmortem ou com resultado laboratorial duvidoso.\n\n3 - Os efetivos mantêm a classificação sanitária atribuída à data de entrada em vigor do presente Plano."
+  },
+  "73736397": {
+   "fragment_id": "73727230",
+   "type": 11,
+   "heading": "Artigo 13.º — Suspensão da classificação sanitária dos efetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Suspensão da classificação sanitária dos efetivos\n\n1 - A classificação dos efetivos indemnes (A4) ou oficialmente indemnes (A5) é suspensa se não forem cumpridos os prazos dos controlos serológicos, e adquirem, respetivamente, a classificação de indemnes suspensos (A4S) ou oficialmente indemnes suspensos (A5S).\n\n2 - Em data a determinar pela DGAV, os efetivos devem ser sujeitos a um rastreio adicional, para adquirirem novamente a classificação de efetivos indemnes (A4) ou oficialmente indemnes (A5)."
+  },
+  "73736398": {
+   "fragment_id": "73727231",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliação epidemiológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Avaliação epidemiológica\n\n1 - A atribuição da classificação sanitária depende da realização de uma sondagem epidemiológica nos efetivos suinícolas, recolhida, nomeadamente, através do rastreio serológico anual.\n\n2 - Entende-se por sondagem epidemiológica a recolha e uniformização de informação sanitária através da análise estatística dos resultados obtidos através da amostragem serológica.\n\n3 - A amostragem serológica é constituída pelo conjunto de análises serológicas efetuadas para avaliar o estatuto dos efetivos, as quais consistem no seguinte:\n\na) «Rastreio de avaliação» a amostragem serológica efetuada aos efetivos classificados como desconhecidos (A1) ou infetados (A2), a fim de adquirirem o estatuto sanitário em saneamento (A3);\n\nb) «Rastreio de aceitação» a amostragem serológica efetuada aos efetivos classificados em saneamento (A3), a fim de adquirirem o estatuto sanitário de indemne (A4);\n\nc) «Rastreio de confirmação» a amostragem serológica efetuada aos efetivos classificados como desconhecidos (A1) ou infetados (A2), a fim de adquirirem o estatuto sanitário de indemne (A4);\n\nd) «Rastreio suplementar» a amostragem serológica efetuada aos efetivos classificados como indemnes (A4), a fim de adquirirem o estatuto sanitário de oficialmente indemne (A5);\n\ne) «Rastreio de seguimento» a amostragem serológica efetuada para a manutenção do estatuto sanitário dos efetivos indemne (A4) e oficialmente indemnes (A5);\n\nf) «Rastreio adicional» a amostragem serológica efetuada sempre que se verifiquem reações serológicas positivas nos efetivos classificados como indemnes (A4) ou oficialmente indemne (A5)."
+  },
+  "73736399": {
+   "fragment_id": "73727232",
+   "type": 1,
+   "heading": "Capítulo IV — Rastreios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Rastreios"
+  },
+  "73736401": {
+   "fragment_id": "73727234",
+   "type": 11,
+   "heading": "Artigo 15.º — Aquisição de estatuto sanitário em saneamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aquisição de estatuto sanitário em saneamento\n\n1 - Para adquirirem o estatuto sanitário em saneamento (A3), os efetivos já classificados como desconhecidos (A1) ou infetados (A2), devem, no prazo de 180 dias da entrada em vigor do presente Plano, ser sujeitos a um rastreio serológico.\n\n2 - O rastreio serológico referido no número anterior é realizado por amostragem aleatória ao efetivo reprodutor nas explorações com animais de reprodução e ao efetivo de suínos de engorda nas explorações que não contenham animais de reprodução.\n\n3 - O número mínimo de suínos objeto de rastreio serológico na exploração deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 10 % em animais de reprodução e de 5 % em explorações que não contenham animais de reprodução, de acordo com a tabela que consta no sítio da Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa."
+  },
+  "73736402": {
+   "fragment_id": "73727235",
+   "type": 11,
+   "heading": "Artigo 16.º — Resultados do rastreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Resultados do rastreio\n\n1 - Os efetivos com resultados negativos no rastreio adquirem o estatuto sanitário em saneamento (A3).\n\n2 - Os efetivos com resultado positivo no rastreio adquirem ou mantêm a classificação sanitária de efetivos infetados (A2).\n\n3 - No caso dos efetivos apresentarem resultados duvidosos no rastreio, deve ser repetida a serologia, no prazo de 30 dias, após a data de receção pelo produtor dos resultados serológicos.\n\n4 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo adquire o estatuto em saneamento (A3);\n\nb) For positiva, o efetivo adquire o estatuto infetado (A2);\n\nc) Se mantiver duvidosa, deve ser novamente repetida até à obtenção de um resultado decisório para a aquisição do estatuto em saneamento (A3).\n\n5 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal."
+  },
+  "73736424": {
+   "fragment_id": "73727257",
+   "type": 1,
+   "heading": "Capítulo V — Rastreio serológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Rastreio serológico"
+  },
+  "73736400": {
+   "fragment_id": "73727233",
+   "type": 8,
+   "heading": "Secção I — Rastreio de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Rastreio de avaliação"
+  },
+  "73736404": {
+   "fragment_id": "73727237",
+   "type": 11,
+   "heading": "Artigo 17.º — Aquisição de estatuto indemne",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aquisição de estatuto indemne\n\n1 - Para adquirirem o estatuto indemne (A4), os efetivos classificados em saneamento (A3) devem, num prazo de 3 a 12 meses, contados a partir da data do conhecimento pela DGAV, dos resultados serológicos que justificaram a obtenção do estatuto em saneamento (A3), ser sujeitos a um segundo rastreio serológico.\n\n2 - O rastreio serológico referido no número anterior é realizado por amostragem aleatória ao efetivo reprodutor nas explorações com animais de reprodução e ao efetivo de engorda nas explorações sem animais de reprodução.\n\n3 - Caso não seja cumprido o prazo estabelecido no n.º 1, a classificação sanitária em saneamento (A3) é retirada ao efetivo, sendo atribuído o estatuto de desconhecido (A1).\n\n4 - O número mínimo de suínos objeto de rastreio na exploração deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 10 % em animais de reprodução e de 5 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta no sítio da Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa."
+  },
+  "73736405": {
+   "fragment_id": "73727238",
+   "type": 11,
+   "heading": "Artigo 18.º — Resultados do rastreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Resultados do rastreio\n\n1 - Se a totalidade dos animais sujeitos ao rastreio apresentar resultados negativos, a exploração adquire o estatuto indemne (A4).\n\n2 - Se numa exploração um suíno apresentar resultado serológico positivo, o estatuto de efetivo em saneamento (A3) é retirado, passando o efetivo a ser considerado como infetado (A2).\n\n3 - No caso dos suínos apresentarem resultados duvidosos, deve ser repetida a serologia, no prazo de 30 dias, após a data de receção pelo produtor dos resultados serológicos.\n\n4 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo adquire o estatuto indemne (A4);\n\nb) For positiva o efetivo adquire o estatuto infetado (A2);\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para a aquisição do estatuto em saneamento (A4).\n\n5 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal."
+  },
+  "73736403": {
+   "fragment_id": "73727236",
+   "type": 8,
+   "heading": "Secção II — Rastreio de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Rastreio de aceitação"
+  },
+  "73736407": {
+   "fragment_id": "73727240",
+   "type": 11,
+   "heading": "Artigo 19.º — Aquisição direta de estatuto sanitário indemne",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Aquisição direta de estatuto sanitário indemne\n\n1 - Para adquirirem o estatuto sanitário indemne (A4) os efetivos já classificados como desconhecidos (A1) ou infetados (A2) devem, no prazo de 180 dias a partir da data da entrada em vigor do presente Plano, ser sujeitos um único rastreio serológico.\n\n2 - O rastreio serológico referido no número anterior é realizado por amostragem aleatória ao efetivo reprodutor nas explorações com animais de reprodução e ao efetivo de suínos de engorda nas explorações que não contenham animais de reprodução.\n\n3 - O número mínimo de suínos objeto de rastreio na exploração deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma seroprevalência de 2 %, de acordo com a tabela de amostragem que consta no sítio da Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa."
+  },
+  "73736408": {
+   "fragment_id": "73727241",
+   "type": 11,
+   "heading": "Artigo 20.º — Resultados do rastreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Resultados do rastreio\n\n1 - Os efetivos com resultado negativo no rastreio adquirem o estatuto sanitário indemne (A4).\n\n2 - Os efetivos com resultado positivo no rastreio adquirem ou mantêm a classificação sanitária de efetivos infetados (A2).\n\n3 - No caso dos efetivos apresentarem resultados duvidosos no rastreio, deve ser repetida a serologia, no prazo de 30 dias, após a data de receção pelo produtor dos resultados serológicos.\n\n4 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo adquire o estatuto indemne (A4);\n\nb) For positiva o efetivo adquire o estatuto infetado (A2);\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para a aquisição do estatuto indemne (A4).\n\n5 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal."
+  },
+  "73736406": {
+   "fragment_id": "73727239",
+   "type": 8,
+   "heading": "Secção III — Rastreio de confirmação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Rastreio de confirmação"
+  },
+  "73736410": {
+   "fragment_id": "73727243",
+   "type": 11,
+   "heading": "Artigo 21.º — Aquisição de estatuto oficialmente indemne",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Aquisição de estatuto oficialmente indemne\n\n1 - Para que o efetivo indemne (A4) adquira o estatuto de oficialmente indemne (A5), o produtor deve solicitar, por escrito, à DGAV autorização para a suspensão da vacinação.\n\n2 - No prazo de 12 meses após a data da autorização da suspensão da vacinação deve ser efetuado um novo rastreio serológico por amostragem aleatória ao efetivo reprodutor nas explorações com animais de reprodução e ao efetivo de suínos de engorda nas explorações sem animais de reprodução.\n\n3 - O número mínimo de suínos objeto de rastreio na exploração deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 20 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta no sítio da Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa."
+  },
+  "73736411": {
+   "fragment_id": "73727244",
+   "type": 11,
+   "heading": "Artigo 22.º — Resultados do rastreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Resultados do rastreio\n\n1 - Se a totalidade dos animais sujeitos ao rastreio apresentar resultados negativos, o efetivo adquire o estatuto oficialmente indemne (A5).\n\n2 - Se o efetivo apresentar resultado positivo adquire o estatuto indemne suspensa (A4S), até ser feito o rastreio serológico adicional.\n\n3 - No caso dos efetivos apresentarem resultados duvidosos no rastreio, deve ser repetida a serologia, no prazo de 30 dias, após a data de receção pelo produtor dos resultados serológicos.\n\n4 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo adquire o estatuto oficialmente indemne (A5);\n\nb) For positiva aplicam-se os procedimentos do rastreio adicional;\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para a aquisição do estatuto oficialmente indemne (A5).\n\n5 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal."
+  },
+  "73736409": {
+   "fragment_id": "73727242",
+   "type": 8,
+   "heading": "Secção IV — Rastreio suplementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Rastreio suplementar"
+  },
+  "73736413": {
+   "fragment_id": "73727246",
+   "type": 11,
+   "heading": "Artigo 23.º — Manutenção de estatuto sanitário indemne",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Manutenção de estatuto sanitário indemne\n\n1 - Um efetivo indemne (A4) pode manter o estatuto, desde que cumpra o programa de vacinação e efetue anualmente um rastreio serológico por amostragem aleatória ao efetivo reprodutor nas explorações com animais de reprodução e ao efetivo de suínos de engorda nas explorações sem animais de reprodução.\n\n2 - O número mínimo de suínos objeto de rastreio na exploração deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 20 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta no sítio da Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa."
+  },
+  "73736414": {
+   "fragment_id": "73727247",
+   "type": 11,
+   "heading": "Artigo 24.º — Resultados do rastreio do efetivo indemne",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Resultados do rastreio do efetivo indemne\n\n1 - Caso seja cumprido o programa de vacinação e a totalidade dos animais apresentar resultados negativos no rastreio, o efetivo mantém o estatuto indemne (A4).\n\n2 - Se o efetivo apresentar resultados serológicos positivos no rastreio, adquire a classificação indemne suspensa (A4S).\n\n3 - No caso de os efetivos apresentarem resultados duvidosos no rastreio, deve ser repetida a serologia, no prazo de 30 dias, após a data de receção pelo produtor dos resultados serológicos.\n\n4 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo mantém o estatuto indemne (A4);\n\nb) For positiva aplicam-se os procedimentos do rastreio adicional;\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para a aquisição do estatuto indemne (A4).\n\n5 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal."
+  },
+  "73736415": {
+   "fragment_id": "73727248",
+   "type": 11,
+   "heading": "Artigo 25.º — Manutenção do estatuto sanitário oficialmente indemne",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Manutenção do estatuto sanitário oficialmente indemne\n\n1 - Um efetivo oficialmente indemne (A5), pode manter o estatuto, desde que efetue anualmente um rastreio serológico por amostragem aleatória do efetivo reprodutor, nas explorações com animais de reprodução e ao efetivo de engorda nas explorações que não contenham animais de reprodução.\n\n2 - O número mínimo de suínos objeto de rastreio na exploração deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 20 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta no sítio da Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa."
+  },
+  "73736416": {
+   "fragment_id": "73727249",
+   "type": 11,
+   "heading": "Artigo 26.º — Resultados do rastreio de efetivo oficialmente indemne",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Resultados do rastreio de efetivo oficialmente indemne\n\n1 - Se a totalidade dos suínos apresentar resultados negativos no rastreio, o efetivo mantém o estatuto oficialmente indemne (A5).\n\n2 - Se o efetivo apresentar resultado positivo no rastreio, adquire a classificação oficialmente indemne suspensa (A5S).\n\n3 - No caso dos efetivos apresentarem resultados duvidosos, deve ser repetida a serologia, no prazo de 30 dias, após a data de receção pelo produtor dos resultados serológicos.\n\n4 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo mantém o estatuto oficialmente indemne (A5);\n\nb) For positiva, aplicam-se os procedimentos do rastreio adicional;\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para manutenção do estatuto oficialmente indemne (A5).\n\n5 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal."
+  },
+  "73736412": {
+   "fragment_id": "73727245",
+   "type": 8,
+   "heading": "Secção V — Rastreio de seguimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Rastreio de seguimento"
+  },
+  "73736418": {
+   "fragment_id": "73727251",
+   "type": 11,
+   "heading": "Artigo 27.º — Reações serológicas positivas em efetivos indemnes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Reações serológicas positivas em efetivos indemnes\n\n1 - Para adquirirem estatuto indemne (A4) os efetivos com classificação indemne suspensa (A4S) devem ser sujeitos a um rastreio serológico, nos termos do n.º 3 do artigo 19.º à totalidade do efetivo reprodutor, e por amostragem aleatória ao restante efetivo com idade superior a 4 meses, no prazo máximo de 30 dias, após a data de receção pelo produtor da notificação do resultado laboratorial.\n\n2 - Caso não seja cumprido o prazo estabelecido no número anterior, ou se o abate dos suínos com resultado serológico positivo ou duvidoso, não for confirmado pela DGAV antes da data do rastreio, o efetivo perde a classificação sanitária indemne suspensa (A4S), e adquire o estatuto infetado (A2).\n\n3 - O número mínimo de suínos de engorda objeto de rastreio na exploração deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma seroprevalência de 5 %, de acordo com a tabela de amostragem que consta no sítio da Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n4 - O rastreio adicional pode ser fracionado, por razões de bem-estar animal, desde que autorizado pela DGAV."
+  },
+  "73736419": {
+   "fragment_id": "73727252",
+   "type": 11,
+   "heading": "Artigo 28.º — Resultados do rastreio de efetivos indemnes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Resultados do rastreio de efetivos indemnes\n\n1 - Se a totalidade dos suínos apresentar um resultado negativo no rastreio, o efetivo mantém o estatuto indemne (A4).\n\n2 - No caso dos efetivos apresentarem resultados duvidosos no rastreio, deve ser repetida a serologia, no prazo de 30 dias, após a data de receção pelo produtor dos resultados serológicos.\n\n3 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo mantém o estatuto indemne (A4);\n\nb) Se mantiver duvidosa, deve ser repetida até obtenção de resultado decisório para aquisição do estatuto indemne (A4).\n\n4 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal."
+  },
+  "73736420": {
+   "fragment_id": "73727253",
+   "type": 11,
+   "heading": "Artigo 29.º — Outros resultados de efetivos indemnes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Outros resultados de efetivos indemnes\n\n1 - Se a percentagem de suínos com resultado serológico positivo for igual ou inferior a 2 %, o estatuto de efetivo indemne suspenso (A4S) mantém-se, desde que os animais positivos e duvidosos sejam abatidos voluntariamente pelo produtor, no prazo de 30 dias após a data da receção da notificação dos resultados serológicos.\n\n2 - A suspensão do estatuto referido no número anterior deve ser retirada após o primeiro rastreio adicional com resultados serológicos negativos efetuado no prazo máximo de 90 dias, após a data de receção dos resultados serológicos do produtor, voltando a obter o estatuto indemne (A4).\n\n3 - Em caso de incumprimento do prazo estabelecido no número anterior, o efetivo perde a classificação sanitária indemne suspensa (A4S), e adquire o estatuto de infetado (A2).\n\n4 - Se a percentagem de suínos com resultados serológicos positivos for superior a 2 %, o estatuto de efetivo indemne suspenso (A4S) deve ser retirado, voltando a obter o estatuto infetado (A2).\n\n5 - O efetivo perde ainda a classificação sanitária indemne suspensa (A4S), voltando a obter o estatuto infetado (A2) se o produtor:\n\na) Não apresentar, no prazo de 30 dias, à DGAV, o comprovativo do abate voluntário emitido pelo inspetor sanitário do matadouro onde os suínos positivos e duvidosos foram abatidos, donde conste a data do abate e a identificação dos animais;\n\nb) Não cumprir o prazo estipulado para o rastreio adicional."
+  },
+  "73736421": {
+   "fragment_id": "73727254",
+   "type": 11,
+   "heading": "Artigo 30.º — Reações serológicas positivas em efetivos oficialmente indemnes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Reações serológicas positivas em efetivos oficialmente indemnes\n\n1 - Para adquirirem o estatuto oficialmente indemne (A5), os efetivos com classificação indemne suspensa (A5S) devem ser sujeitos a um rastreio serológico à totalidade do efetivo reprodutor, e por amostragem aleatória ao restante efetivo com idade superior a 4 meses, no prazo máximo de 30 dias após a data de receção pelo produtor da notificação do resultado laboratorial.\n\n2 - Em caso de incumprimento do prazo estabelecido no número anterior, o efetivo perde a classificação sanitária oficialmente indemne suspensa (A5S), e adquire o estatuto de infetado (A2).\n\n3 - O número mínimo de suínos de engorda objeto de rastreio na exploração é estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma seroprevalência de 5 %, de acordo com a tabela de amostragem disponível no Portal da Empresa, no Portal do Cidadão e no sítio da Internet da DGAV."
+  },
+  "73736422": {
+   "fragment_id": "73727255",
+   "type": 11,
+   "heading": "Artigo 31.º — Resultados do rastreio de efetivos oficialmente indemnes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Resultados do rastreio de efetivos oficialmente indemnes\n\n1 - Se a totalidade do efetivo apresentar resultado negativo mantém o estatuto de oficialmente indemne (A5).\n\n2 - No caso dos efetivos apresentarem resultados duvidosos, deve ser repetida a serologia, no prazo de 30 dias, após a data de receção pelo produtor dos resultados serológicos.\n\n3 - Se a serologia referida número anterior:\n\na) For negativa, o efetivo mantém o estatuto oficialmente indemne (A5);\n\nb) Se mantiver duvidosa, deve ser repetida até obtenção de resultado decisório para aquisição do estatuto oficialmente indemne (A5).\n\n4 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal."
+  },
+  "73736423": {
+   "fragment_id": "73727256",
+   "type": 11,
+   "heading": "Artigo 32.º — Outros resultados de efetivos oficialmente indemnes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Outros resultados de efetivos oficialmente indemnes\n\n1 - Se a percentagem de suínos com resultado serológico positivo for igual ou inferior a 2 %, o estatuto de efetivo oficialmente indemne suspenso (A5S) deve ser mantido desde que os animais positivos e considerados duvidosos sejam abatidos voluntariamente pelo produtor, no prazo de 30 dias após a data da receção da notificação dos resultados serológicos.\n\n2 - A suspensão do estatuto referido no número anterior deve ser retirada após o primeiro rastreio com resultados serológicos negativos, efetuado no prazo máximo de 90 dias, após a data de receção dos resultados serológicos do produtor, voltando a obter o estatuto indemne (A5).\n\n3 - Em caso de incumprimento do prazo estabelecido no número anterior, o efetivo perde a classificação sanitária de oficialmente indemne suspensa (A5S), adquirindo o estatuto de infetado (A2), e até o efetivo voltar a obter o estatuto oficialmente indemne (A5).\n\n4 - Se a percentagem de suínos com resultado serológico positivo for superior a 2 %, o estatuto de efetivo oficialmente indemne suspenso (A5S) deve ser retirado, voltando a obter o estatuto infetado (A2).\n\n5 - O efetivo perde ainda a classificação sanitária indemne suspensa (A5S), retomando o estatuto infetado (A2) se o produtor:\n\na) Não apresentar, no prazo de 30 dias, à DGAV, o comprovativo do abate voluntário emitido pelo inspetor sanitário do matadouro onde os suínos positivos e duvidosos foram abatidos, donde conste a data do abate e a identificação dos animais;\n\nb) Não cumprir o prazo estipulado para o rastreio adicional."
+  },
+  "73736417": {
+   "fragment_id": "73727250",
+   "type": 8,
+   "heading": "Secção VI — Rastreio adicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Rastreio adicional"
+  },
+  "73736425": {
+   "fragment_id": "73727258",
+   "type": 11,
+   "heading": "Artigo 33.º — Execução do rastreio serológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Execução do rastreio serológico\n\n1 - O rastreio serológico deve ser efetuado numa única intervenção.\n\n2 - Os suínos submetidos a rastreio são identificados individualmente e de forma indelével.\n\n3 - Sempre que as explorações tenham ao seu dispor um responsável sanitário, a execução dos rastreios serológicos nos efetivos é realizada por aquele ou sob a sua responsabilidade direta.\n\n4 - Fora do caso previsto no número anterior, a execução do rastreio serológico é realizada pelo médico veterinário contratado.\n\n5 - A DGAV pode, em caso de dúvida, determinar a realização de rastreios suplementares para determinação do exato estatuto do efetivo em causa."
+  },
+  "73736426": {
+   "fragment_id": "73727259",
+   "type": 11,
+   "heading": "Artigo 34.º — Amostra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Amostra\n\n1 - Em efetivos com suínos de reprodução, os soros devem ser colhidos aleatoriamente entre os reprodutores existentes.\n\n2 - A amostra, sempre que aplicável, deve conter pelo menos cinco fêmeas de primeiro parto e todos os varrascos presentes na exploração.\n\n3 - Caso existam diversos pavilhões na mesma exploração a amostra deve ser repartida por todos."
+  },
+  "73736427": {
+   "fragment_id": "73727260",
+   "type": 11,
+   "heading": "Artigo 35.º — Rastreio serológico nos centros de colheita de sémen",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Rastreio serológico nos centros de colheita de sémen\n\n1 - Os efetivos reprodutores dos centros de colheita de sémen têm que ser obrigatoriamente indemnes (A4) e obter a classificação de oficialmente indemnes (A5) ao fim de 12 meses contados a partir da data de entrada em vigor do presente Plano.\n\n2 - Os reprodutores dos centros de colheita de sémen devem ser testados com intervalos de três meses, para manutenção do estatuto A5.\n\n3 - Se nos rastreios de seguimento e suplementar dos efetivos dos centros de colheita de sémen se verificarem resultados serológicos positivos ou duvidosos, a venda ou cedência de sémen a outras explorações é imediatamente suspensa por determinação da DGAV, não havendo lugar a qualquer compensação do respetivo produtor.\n\n4 - Em caso de incumprimento dos prazos estabelecidos para os rastreios serológicos, a venda ou cedência de sémen é suspensa por determinação da DGAV."
+  },
+  "73736428": {
+   "fragment_id": "73727261",
+   "type": 11,
+   "heading": "Artigo 36.º — Amostragem serológica em matadouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Amostragem serológica em matadouros\n\nDe forma a caracterizar a situação de circulação do vírus da doença de Aujeszky, nas explorações de recria e ou acabamento, a DGAV pode determinar a amostragem serológica em matadouros, de acordo com a tabela utilizada para o rastreio de seguimento."
+  },
+  "73736429": {
+   "fragment_id": "73727262",
+   "type": 11,
+   "heading": "Artigo 37.º — Exceções da obrigatoriedade do rastreio serológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Exceções da obrigatoriedade do rastreio serológico\n\n1 - As explorações de recria e ou acabamento em regime intensivo que pratiquem o período de vazio, por pavilhão, quando do seu repovoamento, estão dispensadas da realização do rastreio serológico, e adquirem a classificação da exploração de origem.\n\n2 - Se as explorações de recria e ou acabamento forem de várias origens, adquirem a classificação da exploração de origem mais baixa.\n\n3 - A entrada de suínos nas quarentenas fica condicionada a prévia apresentação e aprovação pela DGAV de um plano profilático elaborado pelo responsável sanitário.\n\n4 - Para efeitos do presente Plano entende-se por período de vazio o período de tempo que medeia entre a saída dos animais para abate e o repovoamento."
+  },
+  "73736430": {
+   "fragment_id": "73727263",
+   "type": 11,
+   "heading": "Artigo 38.º — Abate voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Abate voluntário\n\n1 - Após notificação dos resultados do rastreio serológico o produtor deve comunicar à DGAV, com antecedência mínima de dois dias úteis, a intenção de efetuar o abate voluntário dos suínos com resultados serológicos positivos ou duvidosos, devendo, para o efeito, indicar:\n\na) O matadouro onde os animais vão ser abatidos;\n\nb) O dia de abate;\n\nc) O número e série da guia de trânsito para abate imediato, a qual deve conter obrigatoriamente a inscrição individualizada da identificação dos suínos positivos ou duvidosos;\n\nd) O número de suínos submetidos a abate voluntário.\n\n2 - Não há lugar a qualquer compensação pelo abate voluntário dos suínos com resultados laboratoriais positivos ou duvidosos."
+  },
+  "73736431": {
+   "fragment_id": "73727264",
+   "type": 1,
+   "heading": "Capítulo VI — Medidas de imunoprofilaxia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Medidas de imunoprofilaxia"
+  },
+  "73736432": {
+   "fragment_id": "73727265",
+   "type": 11,
+   "heading": "Artigo 39.º — Obrigatoriedade de vacinação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Obrigatoriedade de vacinação\n\n1 - A vacinação é obrigatória em todos os efetivos de suínos e é efetuada exclusivamente com vacinas gE negativas (gE-).\n\n2 - Os suínos reprodutores de substituição são vacinados três vezes por ano.\n\n3 - Os suínos de substituição são obrigados a uma dupla vacinação, com 28 dias de intervalo, antes da primeira cobrição.\n\n4 - Os suínos de substituição introduzidos numa exploração devem ser vacinados durante o período de quarentena, duas vezes com um intervalo de quatro semanas.\n\n5 - Nos animais de engorda é obrigatória uma primeira vacinação, entre as 10 e as 12 semanas de vida, e uma segunda vacinação quatro semanas após a primeira.\n\n6 - Os animais de engorda que não sejam abatidos até aos oito meses de idade, devem ser revacinados de quatro em quatro meses.\n\n7 - Em caso de incumprimento da vacinação prevista no presente artigo a DGAV determina a suspensão da movimentação dos suínos."
+  },
+  "73736433": {
+   "fragment_id": "73727266",
+   "type": 11,
+   "heading": "Artigo 40.º — Administração da vacinação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Administração da vacinação\n\n1 - A administração das vacinas nos efetivos que têm um responsável sanitário é realizada pelo mesmo ou sob a sua responsabilidade direta em cumprimento com o artigo 77.º do Decreto-Lei n.º 148/2008, de 29 de julho, alterado pelo Decreto-Lei n.º 314/2009, de 28 de outubro.\n\n2 - A administração das vacinas nos efetivos que não tenham um responsável sanitário, deve ser realizada por um médico veterinário contratado ou sob a sua responsabilidade direta em cumprimento com o artigo 77.º do Decreto-Lei n.º 148/2008, de 29 de julho, alterado pelo Decreto-Lei n.º 314/2009, de 28 de outubro."
+  },
+  "73736434": {
+   "fragment_id": "73727267",
+   "type": 11,
+   "heading": "Artigo 41.º — Exceções à obrigatoriedade da vacinação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Exceções à obrigatoriedade da vacinação\n\n1 - Excetuam-se da obrigatoriedade da vacinação:\n\na) Os efetivos classificados como indemnes (A4), para os quais tenha existido uma autorização concedida pela DGAV para suspensão da vacinação;\n\nb) Os efetivos oficialmente indemnes (A5);\n\nc) Os efetivos dos entrepostos de suínos para abate e dos centros de agrupamento;\n\nd) Os suínos em que o tempo que medeia entre as datas previstas da vacinação e a do abate seja inferior a 30 dias.\n\n2 - Para efeitos da autorização referida na alínea a) do número anterior o produtor deve apresentar um requerimento, o qual deve estar acompanhado do relatório técnico do médico veterinário que fundamente a atribuição do estatuto oficialmente indemne (A5).\n\n3 - Por razões epidemiológicas, o médico veterinário pode propor para aprovação da DGAV, um programa de vacinação específico, desde que satisfaça no mínimo as condições previstas no artigo 39.º"
+  },
+  "73736435": {
+   "fragment_id": "73727268",
+   "type": 11,
+   "heading": "Artigo 42.º — Região e zona epidemiológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Região e zona epidemiológica\n\n1 - Para efeitos da execução do PCEDA o território nacional é dividido de acordo com os seguintes critérios:\n\na) Região é a parte do território cuja superfície seja de pelo menos 2000 km2 e sujeita a inspeção pelas autoridades competentes e que inclui pelo menos uma das seguintes regiões administrativas:\n\ni) Portugal Continental - Unidade Territorial Estatísticas de Nível III (NUT III);\n\nii) Outras partes do território nacional - Ilhas.\n\nb) Zona epidemiológica é a área geográfica contínua e definida administrativamente, na qual as medidas de combate à doença de Aujeszky são aplicadas de forma idêntica.\n\n2 - A zona epidemiológica referida na alínea anterior classifica-se como:\n\na) «Zona provisoriamente oficialmente indemne» zona epidemiológica que satisfaz as condições definidas no n.º 1 do anexo i do presente Plano e que dele faz parte integrante;\n\nb) «Zona oficialmente indemne» zona epidemiológica que satisfaz as condições definidas no n.º 2 do anexo i do presente Plano e que dele faz parte integrante."
+  },
+  "73736436": {
+   "fragment_id": "73727269",
+   "type": 1,
+   "heading": "Capítulo VII — Movimentação de efetivos de suínos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Movimentação de efetivos de suínos"
+  },
+  "73736437": {
+   "fragment_id": "73727270",
+   "type": 11,
+   "heading": "Artigo 43.º — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Regras gerais\n\n1 - Sem prejuízo do disposto no Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Lei n.º 214/2008, de 10 de novembro, e 316/2009, de 29 de outubro, a movimentação dos suínos para exploração em vida está sujeita a prévia autorização da DGAV.\n\n2 - Um efetivo só pode receber suínos de outro efetivo com estatuto sanitário igual ou superior.\n\n3 - Em caso de incumprimento do disposto no número anterior, o efetivo adquire o estatuto sanitário do efetivo de origem."
+  },
+  "73736438": {
+   "fragment_id": "73727271",
+   "type": 11,
+   "heading": "Artigo 44.º — Movimentação de estatuto sanitário desconhecido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Movimentação de estatuto sanitário desconhecido\n\n1 - A movimentação de suínos de efetivos de estatuto sanitário desconhecido (A1), só pode ser efetuada para abate.\n\n2 - No prazo de 12 meses após a entrada em vigor do presente Plano, os efetivos de estatuto sanitário desconhecido (A1) só podem deslocar suínos para abate após efetuarem a avaliação epidemiológica, exceto nos casos previstos no n.º 3 do artigo 17.º e no n.º 3 do artigo 47.º"
+  },
+  "73736439": {
+   "fragment_id": "73727272",
+   "type": 11,
+   "heading": "Artigo 45.º — Movimentação de suínos de efetivos infetados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Movimentação de suínos de efetivos infetados\n\n1 - Os suínos de efetivos infetados com a doença de Aujeszky (A2) só podem circular com destino ao matadouro.\n\n2 - Em derrogação ao disposto no número anterior, os suínos de efetivos infetados com a doença de Aujeszky podem ter como destino uma exploração de recria e ou acabamento que se encontre numa das seguintes situações:\n\na) Registada em nome do mesmo titular, mediante autorização da DGAV, e desde que situada numa zona onde ainda não foi implementada a classificação epidemiológica de zona provisoriamente oficialmente indemne da doença de Aujeszky;\n\nb) Que não pertença ao mesmo titular, por um período transitório máximo de dois anos, a contar da data da entrada em vigor do presente Plano, adquirindo o estatuto sanitário do efetivo de origem."
+  },
+  "73736440": {
+   "fragment_id": "73727273",
+   "type": 11,
+   "heading": "Artigo 46.º — Movimentação de suínos de substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Movimentação de suínos de substituição\n\n1 - A movimentação de suínos de substituição destinados a efetivos em saneamento (A3) fica condicionada a um controlo serológico negativo nos 15 dias anteriores à data da deslocação.\n\n2 - Para efeitos do disposto no número anterior, se a exploração de origem tiver adquirido o estatuto indemne (A4) ou oficialmente indemne (A5), o número de suínos testados deve ser suficiente para detetar, nos suínos movimentados, uma prevalência de 2 % com um nível de confiança de 95 % para os suínos de engorda, ou uma prevalência de 0,1 % com um nível de confiança de 95 % para os suínos reprodutores.\n\n3 - A movimentação de suínos de substituição destinados a efetivos indemnes (A4) e oficialmente indemnes (A5) fica condicionada à realização de dois controlos serológicos negativos com 21 dias de intervalo, a realizar na exploração de origem e de destino respetivamente.\n\n4 - Em derrogação ao disposto nos números anteriores, no caso do povoamento de uma nova exploração ou repovoamento de uma existente, com exceção das exploração de recria e ou acabamento, a movimentação dos suínos fica condicionada a um rastreio de confirmação.\n\n5 - Antes da entrada na exploração, os suínos de substituição devem ser sujeitos a um período de quarentena, onde devem ser implementadas todas as medidas de profilaxia médica e sanitária.\n\n6 - Com exceção das explorações de recria e ou acabamento, a movimentação de suínos para povoamento de uma nova exploração ou para repovoamento de uma existente, deve ser efetuada com suínos provenientes de exploração de multiplicação ou seleção com estatuto igual ou superior a efetivo em saneamento (A3), adquirindo a classificação do efetivo da exploração de origem."
+  },
+  "73736441": {
+   "fragment_id": "73727274",
+   "type": 11,
+   "heading": "Artigo 47.º — Movimentação para explorações de recria e ou acabamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Movimentação para explorações de recria e ou acabamento\n\n1 - As explorações de recria e ou acabamento só podem adquirir suínos em efetivos classificados em saneamento (A3), indemnes (A4) ou oficialmente indemnes (A5), exceto nos casos previstos no artigo 45.º\n\n2 - As explorações de recria e ou acabamento em vazio, quando do seu repovoamento adquirem a classificação sanitária do efetivo de origem se forem respeitadas todas as medidas de profilaxia sanitária determinadas pela DGAV.\n\n3 - Caso não sejam cumpridas as medidas referidas no número anterior, a classificação sanitária do efetivo de destino deve ser desconhecido (A1).\n\n4 - Em caso de aquisição de suínos provenientes de várias origens, deve ser atribuída ao efetivo, a classificação sanitária do efetivo com a classificação mais baixa.\n\n5 - Por despacho do diretor-geral de Alimentação e Veterinária pode ser determinada a data a partir da qual as explorações de recria e ou acabamento deixam de poder receber suínos provenientes de efetivos classificados de infetados (A2) ou em saneamento (A3)."
+  },
+  "73736442": {
+   "fragment_id": "73736675",
+   "type": 1,
+   "heading": "Capítulo VIII — Registo e funcionamento das explorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Registo e funcionamento das explorações"
+  },
+  "73736443": {
+   "fragment_id": "73736676",
+   "type": 11,
+   "heading": "Artigo 48.º — Registo de explorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Registo de explorações\n\n1 - Os produtores são obrigados a solicitar à DGAV o registo das suas explorações, centros de agrupamento, centros de colheita de sémen, quarentenas, entrepostos para abate e para a exploração em vida, em conformidade com o Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Lei n.º 214/2008, de 10 de novembro, e n.º 316/2009, de 29 de outubro.\n\n2 - Sem prejuízo do disposto no Decreto-Lei n.º 142/2006 de 27 de julho, alterado pelos Decretos-Lei n.º 214/2008, de 10 de novembro, e 316/2009, de 29 de outubro, é atribuída a cada exploração uma identificação única, designada por marca de exploração, que obedece às características previstas no artigo 1.º do anexo iii do referido decreto-lei.\n\n3 - Os produtores são obrigados a proceder à declaração de existências três vezes por ano, em abril, agosto e dezembro nos serviços veterinários regionais da área da exploração, informando o número e a categoria de animais que possuem, em modelo de impresso definido por despacho do diretor-geral de Alimentação e Veterinária."
+  },
+  "73736444": {
+   "fragment_id": "73736677",
+   "type": 11,
+   "heading": "Artigo 49.º — Condições de funcionamento dos centros de agrupamento e entrepostos de suínos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Condições de funcionamento dos centros de agrupamento e entrepostos de suínos\n\nSem prejuízo do disposto nos artigos 24.º e 25.º da Portaria n.º 636/2009, de 9 de junho, os centros de agrupamento e entrepostos de suínos devem satisfazer as seguintes condições de funcionamento:\n\na) Ter ao seu serviço um médico veterinário que garanta, em especial, que os efetivos de suínos não contactem, em momento algum, com outros efetivos que não apresentem o mesmo estatuto sanitário, exceto para os animais destinados ao abate;\n\nb) Só admitir animais identificados e provenientes de efetivos sem restrições sanitárias ou outros animais de abate que satisfaçam as condições previstas no Decreto-Lei n.º 142/2006 de 27 de julho, alterado pelos Decretos-Lei n.º 214/2008, de 10 de novembro, e 316/2009, de 29 de outubro, devendo o produtor, quando os animais são admitidos, proceder ou mandar proceder à verificação da identificação ou marcação dos animais e dos documentos sanitários ou outros documentos de acompanhamento específicos da espécie ou categoria em questão;\n\nc) Manter um registo de existências e deslocações (RED), que deve ser conservado pelo menos durante três anos."
+  },
+  "73736445": {
+   "fragment_id": "73736678",
+   "type": 1,
+   "heading": "Capítulo IX — Medidas de profilaxia e polícia sanitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Medidas de profilaxia e polícia sanitária"
+  },
+  "73736446": {
+   "fragment_id": "73736679",
+   "type": 11,
+   "heading": "Artigo 50.º — Sequestro sanitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Sequestro sanitário\n\nNo âmbito do PCEDA pode ser determinado o sequestro sanitário."
+  },
+  "73736447": {
+   "fragment_id": "73736680",
+   "type": 11,
+   "heading": "Artigo 51.º — Medidas de profilaxia e polícia sanitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Medidas de profilaxia e polícia sanitária\n\n1 - Sempre que numa exploração ou em determinado matadouro seja detetado um animal com suspeita de doença de Aujeszky, a DGAV determina:\n\na) A colocação da exploração em sequestro sanitário suspendendo temporariamente o estatuto sanitário, se os efetivos forem provenientes de uma exploração indemne (A4) ou oficialmente indemne (A5), até ao cumprimento das medidas previstas no presente Plano ou a suspensão da movimentação dos suínos, nos efetivos com outras classificações sanitárias, exceto nas condições previstas no n.º 2 do artigo 45.º;\n\nb) A proibição da movimentação de qualquer suíno, de ou para o efetivo atingido, exceto se tiver como destino o matadouro e nas situações previstas nos artigos 43.º a 47.º;\n\nc) A colheita de material nos animais com suspeita clínica, para isolamento ou identificação do vírus no prazo máximo de dois dias a contar da data de receção da notificação do sequestro;\n\nd) A realização de um controlo serológico, nos termos do n.º 3 do artigo 19.º, à totalidade do efetivo reprodutor e por amostragem ao restante efetivo de animais com idade superior a 4 meses de idade, no prazo de trinta dias após a suspeita;\n\ne) A realização de um inquérito epidemiológico, que para efeitos do presente Plano, entende-se como o conjunto uniformizado de informação sanitária, elaborado pela DGAV, que se destina à sondagem epidemiológica de uma ocorrência sanitária, sendo efetuado em todas as situações que a DGAV o determine;\n\nf) A limpeza e desinfeção das instalações e anexos, das áreas e locais de carga, dos veículos de transporte, das matérias ou substâncias provenientes dos animais ou que com eles estiveram em contacto, bem como dos recipientes, utensílios e outros objetos utilizados pelos animais.\n\n2 - No caso previsto na alínea d) do número anterior, o número mínimo de suínos de engorda sujeitos a rastreio na exploração deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma seroprevalência de 5 %, podendo o rastreio efetuado aos reprodutores ser fracionado desde que autorizado pela DGAV.\n\n3 - Se não se confirmar o isolamento ou identificação do vírus ou não se confirmar laboratorialmente qualquer resultado serológico positivo é levantado o sequestro e cessa a suspensão do estatuto sanitário.\n\n4 - Se for confirmada a doença através do isolamento ou identificação do vírus ou a confirmação laboratorial de algum resultado serológico positivo, a exploração adquire o estatuto infetado (A2), devendo a partir dessa data cumprir todas as medidas de profilaxia médica e sanitária aplicáveis.\n\n5 - As explorações classificadas como infetadas A2) devem ser colocadas em sequestro, só podendo ser movimentados suínos com destino ao abate, exceto nas situações definidas no presente Plano.\n\n6 - Caso se confirme o isolamento ou identificação do vírus, a DSVR pode determinar a realização de rastreios suplementares às explorações situadas na zona epidemiológica onde se localiza a exploração."
+  },
+  "73736448": {
+   "fragment_id": "73736681",
+   "type": 1,
+   "heading": "Capítulo X — Fiscalização e contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Fiscalização e contraordenações"
+  },
+  "73736449": {
+   "fragment_id": "73736682",
+   "type": 11,
+   "heading": "Artigo 52.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Contraordenações\n\n1 - Para efeitos do presente Plano, as seguintes infrações constituem contraordenações puníveis com coima, cujo montante mínimo é de (euro) 500 e máximo de (euro) 3740, no caso de pessoas singulares, e (euro) 44 891, no caso de pessoas coletivas:\n\na) O desrespeito das obrigações dos produtores e comerciantes previstas no artigo 10.º;\n\nb) O incumprimento da obrigação de notificação da doença de Aujeszky, estabelecida no artigo 11.º;\n\nc) O incumprimento das normas de rastreio de avaliação previstas nos artigos 15.º e 16.º;\n\nd) O incumprimento das normas de rastreio de aceitação previstas nos artigos 17.º e 18.º;\n\ne) O incumprimento das normas de rastreio de confirmação previstas nos artigos 19.º e 20.º;\n\nf) O incumprimento das normas de rastreio de suplementar previstas nos artigos 21.º e 22.º;\n\ng) O incumprimento das normas de rastreio de seguimento previstas nos artigos 23.º a 26.º;\n\nh) O incumprimento das normas de rastreio adicional previstas nos artigos 27.º a 32.º;\n\ni) O incumprimento das normas relativas ao rastreio serológico previstas nos artigos 33.º a 37.º;\n\nj) O incumprimento das normas relativas ao abate voluntário previstas no artigo 38.º;\n\nk) O incumprimento das normas relativas à vacinação previstas no artigo 39.º;\n\nl) O incumprimento das normas relativas à movimentação dos suínos previstas nos artigos 43.º a 47.º;\n\nm) O incumprimento das normas relativas ao registo previstas no artigo 48.º;\n\nn) O funcionamento dos centros de agrupamento e de entrepostos de suínos em desrespeito das condições previstas no artigo 49.º;\n\no) O incumprimento das medidas de profilaxia e de polícia sanitária previstas no artigo 51.º;\n\np) A oposição ou a criação de obstáculos que impeçam a realização das medidas sanitárias determinadas pela DGAV.\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n3 - A tentativa é punível com coima aplicável à contraordenação consumada, especialmente atenuada."
+  },
+  "73736450": {
+   "fragment_id": "73736683",
+   "type": 11,
+   "heading": "Artigo 53.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Sanções acessórias\n\n1 - Em função da gravidade da infração e da culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objetos ou animais pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou atividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objeto o fornecimento de bens e serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) a g) do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "73736451": {
+   "fragment_id": "73736684",
+   "type": 11,
+   "heading": "Artigo 54.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Fiscalização\n\nCompete à DGAV assegurar a fiscalização e a observância das normas constantes do presente Plano."
+  },
+  "73736452": {
+   "fragment_id": "73736685",
+   "type": 11,
+   "heading": "Artigo 55.º — Instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Instrução e decisão\n\n1 - A aplicação das coimas e sanções acessórias compete ao diretor-geral de Alimentação e Veterinária.\n\n2 - A entidade que levantar o auto de notícia remete o mesmo, para instrução do competente processo, às unidades orgânicas desconcentradas da DGAV da área da prática da infração."
+  },
+  "73736453": {
+   "fragment_id": "73736686",
+   "type": 11,
+   "heading": "Artigo 56.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Destino das coimas\n\n1 - O produto das coimas é repartido da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade que levantou o auto;\n\nc) 10 % para a entidade que procede à instrução;\n\nd) 20 % para a entidade que decide.\n\n2 - A afetação do produto das coimas quando aplicadas nas Regiões Autónomas constitui receita própria das mesmas."
+  },
+  "73736454": {
+   "fragment_id": "73736687",
+   "type": 11,
+   "heading": "Artigo 57.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Direito subsidiário\n\nÀs contraordenações previstas no presente Plano é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social constante do Decreto-Lei n.º 433/82, de 27 de outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, e 323/2001, de 17 de dezembro, e pela Lei n.º 109/2001, de 24 de dezembro."
+  },
+  "73736455": {
+   "fragment_id": "73736688",
+   "type": 1,
+   "heading": "Capítulo XI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Disposições finais"
+  },
+  "73736456": {
+   "fragment_id": "73736689",
+   "type": 11,
+   "heading": "Artigo 58.º — Aplicação às Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Aplicação às Regiões Autónomas\n\n1 - Os atos e os procedimentos necessários à execução do presente Plano nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respetivas administrações regionais autónomas com atribuições e competências nas matérias em causa.\n\n2 - Dada a situação epidemiológica favorável da doença de Aujeszky na Região Autónoma da Madeira, é derrogada a obrigatoriedade da vacinação, prevista no artigo 39.º"
+  },
+  "73736457": {
+   "fragment_id": "73736690",
+   "type": 11,
+   "heading": "Artigo 59.º — Aspetos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Aspetos financeiros\n\nO custo das vacinações, das colheitas de sangue e o pagamento das análises laboratoriais no âmbito da aplicação do presente Plano são suportados pelo produtor."
+  },
+  "73736458": {
+   "fragment_id": "73736691",
+   "type": 11,
+   "heading": "Artigo 60.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Comunicações\n\nAs comunicações a realizar para efeitos do presente Plano devem ser efetuadas preferencialmente, por via eletrónica."
+  },
+  "73736459": {
+   "fragment_id": "73736692",
+   "type": 14,
+   "heading": "Anexo I — Região e zona epidemiológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Região e zona epidemiológica\n\n(a que se refere o n.º 2 do artigo 42.º do Plano)\n\nPara que um país ou uma zona possam ser reconhecidos como provisoriamente oficialmente indemne ou oficialmente indemne da doença de Aujeszky, deve obedecer às seguintes condições:\n\n1 - Zona provisoriamente oficialmente indemne da doença de Aujeszky:\n\na) A legislação sanitária relativa à movimentação animal deve ter sido aplicada há, pelo menos, dois anos, a fim de impedir a introdução do vírus nas explorações da zona;\n\nb) Se a doença foi assinalada na zona, implementou-se um plano de vigilância e controlo para detetar as explorações infetadas e erradicar a doença;\n\nc) A taxa de prevalência da doença não ser superior a 1 % durante, pelo menos, três anos e pelo menos 90 % das explorações da zona estarem classificadas como oficialmente indemnes, nos termos do n.º 8;\n\nd) Se a percentagem de explorações infetadas numa zona provisoriamente oficialmente indemne ultrapassar 1 %, essa zona perde o seu estatuto;\n\ne) O estatuto provisoriamente indemne só pode ser recuperado quando, pelo menos, durante seis meses, a taxa de prevalência for inferior a 1 %;\n\nf) Foram tomadas todas as medidas de biossegurança para impedir a transmissão do vírus selvagem dos javalis aos porcos domésticos.\n\n2 - Zona oficialmente indemne da doença de Aujeszky, é aquela que cumpre as seguintes condições:\n\na) Estarem implementadas as medidas de profilaxia sanitária destinadas a impedir a introdução do vírus da doença de Aujeszky na zona;\n\nb) A introdução na zona, de suínos, sémen, óvulos, embriões e outros produtos ser efetuada, há pelo menos dois anos, em conformidade com a regulamentação sanitária vigente;\n\nc) A vacinação contra a doença de Aujeszky estar interdita em todos os suínos da zona, desde há pelo menos dois anos;\n\nd) Ter sido implementado um plano de vigilância e controlo para detetar as explorações infetadas e erradicar a doença, caso aquela tenha sido assinalada na zona;\n\ne) O programa de vigilância ter demonstrado que durante pelo menos dois anos não se detetou nenhum sinal clínico, virológico ou serológico da doença de Aujeszky em nenhuma exploração da zona.\n\n3 - Se um foco da doença de Aujeszky aparecer numa zona oficialmente indemne, essa zona pode recuperar o estatuto.\n\n4 - Para efeitos do número anterior, todos os suínos do foco devem ser abatidos.\n\n5 - E, se durante e após a aplicação daquela medida, for realizado um inquérito epidemiológico em todas as explorações que possuam suínos que tenham estado em contacto, direto ou indireto, com a exploração infetada, assim como todos os suínos situados num raio de 5 km à volta do foco, ou na área da freguesia, que demonstre que as explorações não estão infetadas.\n\n6 - Ou, caso a vacinação com vacinas gE negativas (gE-) tenha sido aplicada, e se, um protocolo de sondagem epidemiológica for implementado nas explorações em que a vacinação foi aplicada, demonstrando a ausência da infeção, a saída de suínos dessas explorações está interdita, todos os animais vacinados forem abatidos e que após a aplicação destas medidas fique demonstrado que estas explorações que detêm os suínos de contacto não estão infetadas.\n\n7 - Sejam tomadas todas as medidas para impedir a transmissão do vírus selvagem dos javalis aos porcos domésticos.\n\n8 - Para que um país possa ser reconhecido como oficialmente indemne da doença de Aujeszky, todas as suas zonas devem ser qualificadas como oficialmente indemnes da doença de Aujeszky.\n\n9 - Para ser reconhecida como oficialmente indemne da doença de Aujeszky, um efetivo deve reunir as seguintes condições:\n\na) Estar submetida o controlo da Direção-Geral de Alimentação e Veterinária (DGAV);\n\nb) Não ter sido constatado, há pelo menos um ano, nenhum sinal clínico, serológico ou virológico da doença de Aujeszky;\n\nc) A introdução nas explorações, de suínos, sémen, óvulos ou embriões ser efetuada em conformidade com as condições fixadas para a sua entrada;\n\nd) Ter suspendido a vacinação há pelo menos 12 meses;\n\ne) Ter cumprido as medidas de profilaxia médica e sanitária, de acordo com o determinado pelas normas previstas no Plano;\n\nf) Não ter sido detetado nenhuma exploração infetada, num raio de 5 km à sua volta, ou na área da freguesia, através da implementação do programa de vigilância e controlo a todas as explorações.\n\n10 - O previsto na alínea f) do número anterior não é aplicável se, nestas últimas explorações, as medidas de monitorização e erradicação tiverem sido regularmente aplicadas sob controlo da DGAV, em conformidade com o disposto no Plano, e se estas medidas tiverem de facto evitado a propagação da doença para a exploração em causa."
+  },
+  "1020029031": {
+   "fragment_id": "73727213",
+   "type": 11,
+   "heading": "Artigo 4.º — Protocolos",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 4.º — Protocolos\n\n1 - Os protocolos celebrados ao abrigo do Decreto-Lei n.º 161/2002, de 10 de julho, mantêm-se em vigor, até à celebração de novos protocolos, a qual deve ocorrer até 31 de outubro de 2013.\n\n2 - A celebração dos protocolos, a que se refere o número anterior, compete ao diretor-geral de Alimentação e Veterinária, podendo ser delegada nos respetivos diretores de serviços de alimentação e veterinária regionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "73736460": {
+   "fragment_id": "73736693",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de março de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz - José Diogo Santiago de Albuquerque.\n\nPromulgado em 2 de abril de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 4 de abril de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1020029035": {
+   "fragment_id": "73727219",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 4.º — Definições\n\n1 - Para efeitos da execução do PCEDA considera-se:\n\na) «Comerciante» qualquer pessoa, singular ou coletiva, que compra e vende, direta ou indiretamente, animais para fins comerciais;\n\nb) «Produtor» a pessoa, singular ou coletiva, que exerce uma atividade pecuária e se responsabiliza pela mesma;\n\nc) «Exploração» qualquer instalação ou, no caso de uma exploração agropecuária ao ar livre, qualquer local situado no território nacional onde os animais abrangidos pelo presente Plano sejam alojados, criados ou mantidos;\n\nd) «Efetivo» o animal ou conjunto de animais da espécie suína mantidos numa exploração num dado momento ou período de tempo;\n\ne) «Varrasco» o suíno macho destinado à reprodução;\n\nf) «Marrã» o suíno fêmea antes da primeira parição;\n\ng) «Porca» o suíno fêmea após a primeira parição;\n\nh) «Porco de engorda» o suíno entre as 10 semanas de idade e o abate;\n\ni) «Suíno de substituição» o suíno destinado à reprodução, proveniente de núcleos de seleção e ou multiplicação ou nascido na própria exploração;\n\nj) «Centro de agrupamento» o local, incluindo centros de recolha, feiras e mercados, onde são agrupados os suínos provenientes de diferentes explorações com vista à constituição de lotes destinados ao comércio ou à sua exposição ou participação em concursos;\n\nk) «Entreposto de suínos» as instalações detidas por um comerciante, onde são agrupados suínos, com o objetivo de constituição de lotes para abate ou para explorações de recria e acabamento;\n\nl) «Direções de serviços de alimentação e veterinária regionais» as unidades orgânicas desconcentradas da Direção-Geral de Alimentação e Veterinária;\n\nm) «Médico veterinário», aquele que participa na avaliação epidemiológica e na implementação das medidas de imunoprofilaxia, compreendendo designadamente:\n\ni) O responsável sanitário da exploração, do centro de colheita de sémen, do centro de agrupamento, do entreposto de suínos para abate e exploração em vida, bem como da quarentena de suínos;\n\nii) O médico veterinário contratado pelo produtor ou comerciante;\n\nn) «Responsável sanitário» o médico veterinário, nomeado pelo proprietário dos animais, para executar as medidas previstas no presente Plano, para as seguintes explorações:\n\ni) Explorações de seleção e multiplicação;\n\nii) Centros de colheita de sémen;\n\niii) Centros de agrupamento;\n\niv) Entrepostos para abate e para exploração em vida;\n\nv) Quarentenas;\n\nvi) Restantes explorações com um efetivo superior a 20 porcas reprodutoras ou 200 porcos de recria e acabamento;\n\no) «Suíno suspeito» o animal da espécie suína clinicamente suspeito ou com lesões suspeitas detetadas em exame post mortem;\n\np) «Suíno positivo» o animal da espécie suína com resultado serológico positivo a anticorpos contra a proteína gE;\n\nq) «Suíno infetado» o animal da espécie suína a partir do qual foi isolado e identificado o vírus da doença de Aujeszky, ou detetado o genoma viral (gene gE);\n\nr) «Sequestro sanitário» interdição de entrada e saída de suínos da exploração, exceto com destino direto ao matadouro e nas condições descritas nos artigos 44.º a 47.º, desde que autorizada pela Direção-Geral de Alimentação e Veterinária;\n\ns) «Período de vazio» o período de tempo que medeia entre a saída dos animais para abate e o repovoamento.\n\n2 - Salvo outra determinação da Direção-Geral de Alimentação e Veterinária, para efeitos do PCEDA, os suínos destinados a abate só podem permanecer por um período máximo de 72 horas nos entrepostos de suínos para abate, e de sete dias nos entrepostos de suínos para explorações em vida, em ambos os casos a contar da data da aquisição dos animais.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029036": {
+   "fragment_id": "73727222",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências da DGAV",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 6.º — Competências da DGAV\n\nCompete à DGAV:\n\na) Elaborar e executar o PCEDA e promover o necessário apoio técnico aos serviços envolvidos;\n\nb) Criar um sistema informativo para gestão técnica e administrativa do PCEDA e assegurar a sua coordenação e desenvolvimento;\n\nc) Dirigir, coordenar, executar e controlar as ações a desenvolver para a implementação do presente Plano;\n\nd) Efetuar os controlos oficiais necessários para garantir a correta execução das ações da profilaxia médica e sanitária;\n\ne) Elaborar os formulários e as normas de procedimento;\n\nf) Promover e acompanhar a execução anual do PCEDA, procedendo à avaliação das ações desenvolvidas;\n\ng) Nomear um coordenador regional por cada uma das áreas geográficas das direções de serviços de alimentação e veterinária regionais (DSAVR), ao qual cabe elaborar os relatórios técnicos de acompanhamento e garantir o cumprimento da legislação em vigor;\n\nh) Promover ações de informação, sensibilização e formação em serviço, de acordo com as necessidades inventariadas nas diversas fases do Plano;\n\ni) Autorizar os laboratórios de diagnóstico;\n\nj) Auditar internamente o Plano;\n\nk) (Revogada.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029037": {
+   "fragment_id": "73727225",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência dos médicos veterinários",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 9.º — Competência dos médicos veterinários\n\nAos médicos veterinários que celebram protocolos de colaboração com a DGAV compete:\n\na) Administrar os medicamentos veterinários imunológicos ou administrá-los sob a sua responsabilidade direta nos termos do disposto no artigo 77.º do Decreto-Lei n.º 148/2008, de 29 de julho, alterado pelo Decreto-Lei n.º 314/2009, de 28 de outubro;\n\nb) Efetuar a avaliação epidemiológica, sendo responsável pela supervisão ou implementação bem como supervisionar a implementação das medidas de profilaxia sanitária nas explorações, centros de agrupamento, entrepostos para abate e para exploração em vida, centros de colheita de sémen e quarentena de suínos;\n\nc) Assegurar a execução das ações referidas nas alíneas anteriores dentro dos prazos legalmente estabelecidos;\n\nd) Comunicar à respetiva DSAVR a execução das ações de profilaxia médica, no prazo de cinco dias úteis, a contar da data da realização da ação, determinando o seu incumprimento a aplicação pela DGAV da suspensão de todo o trânsito da exploração em causa, exceto para abate, a qual se mantém até à apresentação do comprovativo daquela comunicação;\n\ne) Comunicar à respetiva DSAVR a execução das ações de avaliação epidemiológica, no prazo de cinco dias úteis, a contar da data da realização da ação, determinando o seu incumprimento a aplicação pela DGAV da suspensão de todo o trânsito da exploração em causa, exceto para abate, a qual se mantém até à apresentação do comprovativo daquela comunicação;\n\nf) Comunicar à respetiva DSAVR toda a suspeita clínica da doença de Aujeszky;\n\ng) Aconselhar tecnicamente os produtores e comerciantes sobre as medidas de biossegurança e higiossanitárias adequadas;\n\nh) Celebrar protocolos com a DGAV para a execução das ações mencionadas nas alíneas anteriores.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511915": {
+   "fragment_id": "73727226",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos produtores e comerciantes",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 10.º — Obrigações dos produtores e comerciantes\n\nCompete aos produtores e aos comerciantes de suínos:\n\na) Colaborar na organização, na execução e no controlo das medidas sanitárias aprovadas pela DGAV, dando cumprimento às notificações da DSAVR;\n\nb) Comunicar ao médico veterinário toda a suspeita de sinais clínicos de doença de Aujeszky;\n\nc) Assegurar que só sejam adquiridos suínos provenientes de efetivos cujo estatuto sanitário seja igual ou superior ao seu, em cumprimento das normas previstas no presente Plano;\n\nd) Cumprir as medidas de biossegurança aplicáveis ao Plano;\n\ne) Celebrar protocolos com a DGAV para a execução das ações mencionadas nas alíneas anteriores.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511916": {
+   "fragment_id": "73727227",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigatoriedade da declaração da doença",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 11.º — Obrigatoriedade da declaração da doença\n\nA doença de Aujeszky é uma doença de declaração obrigatória, nos termos das disposições conjugadas do artigo 1.º do Decreto-Lei n.º 39209, de 14 de maio de 1953, alterado pelos Decretos-Leis n.os 51/90, de 10 de fevereiro, e 69/93, de 10 de março, pela Lei n.º 30/2006, de 11 de julho, e pelas Portarias n.os 268/76, de 28 de abril, e 82/95, de 30 de janeiro, e do artigo 12.º do anexo i ao Decreto-Lei n.º 79/2011, de 20 de junho.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511917": {
+   "fragment_id": "73727229",
+   "type": 11,
+   "heading": "Artigo 12.º — Classificação sanitária dos efetivos",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 12.º — Classificação sanitária dos efetivos\n\n1 - A classificação sanitária dos efetivos é atribuída pela DGAV, considerando a avaliação epidemiológica efetuada.\n\n2 - Os efetivos classificam-se, por ordem crescente, como:\n\na) «Efetivo de estatuto sanitário desconhecido (A1)» efetivo em que os suínos não foram sujeitos a controlo serológico;\n\nb) «Efetivo rastreado serologicamente» efetivo em que os animais foram sujeitos a rastreio serológico, sendo a sua classificação uma das indicadas nas alíneas seguintes;\n\nc) «Efetivo positivo à doença de Aujeszky (A2)» efetivo que contém pelo menos um suíno em que tenham sido detetados anticorpos contra a proteína gE;\n\nd) «Efetivo em saneamento (A3)» efetivo em que os animais apresentaram resultado serológico negativo no rastreio de avaliação e que ainda não atingiu o estatuto sanitário indemne da doença de Aujeszky;\n\ne) «Efetivo indemne (A4)» efetivo em que os animais apresentam resultados serológicos negativos no rastreio de aceitação;\n\nf) «Efetivo oficialmente indemne (A5)» efetivo em que os animais apresentam resultado serológico negativo a anticorpos contra a proteína gE, no rastreio serológico suplementar, realizado 12 meses após a data da autorização da suspensão da vacinação;\n\ng) «Efetivo indemne ou oficialmente indemne suspenso (A4S ou A5S)» efetivo com a classificação sanitária indemne ou oficialmente indemne em que se verifique o aparecimento de pelo menos um animal com resultado serológico positivo a anticorpos anti-gE;\n\nh) «Efetivo suspeito» efetivo que contém pelo menos um suíno clinicamente suspeito ou com lesões suspeitas detetadas em exame post mortem.\n\n3 - Os efetivos classificados ao abrigo do Decreto-Lei n.º 161/2002, de 10 de julho, mantêm a classificação sanitária atribuída à data da entrada em vigor do presente Plano.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511918": {
+   "fragment_id": "73727230",
+   "type": 11,
+   "heading": "Artigo 13.º — Suspensão da classificação sanitária dos efetivos",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 13.º — Suspensão da classificação sanitária dos efetivos\n\n1 - A classificação dos efetivos indemnes (A4) ou oficialmente indemnes (A5) é suspensa, de acordo com os procedimentos previstos no presente Plano, e os efetivos adquirem, respetivamente, a classificação de indemnes suspensos (A4S) ou de oficialmente indemnes suspensos (A5S).\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511919": {
+   "fragment_id": "73727231",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliação epidemiológica",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 14.º — Avaliação epidemiológica\n\n1 - A atribuição da classificação sanitária depende da realização de uma avaliação epidemiológica nos efetivos suinícolas, recolhida, nomeadamente, através do rastreio serológico.\n\n2 - Entende-se por avaliação epidemiológica a recolha e uniformização de informação sanitária, através da análise estatística dos resultados obtidos mediante rastreio serológico.\n\n3 - O rastreio serológico é constituído pelo conjunto de análises serológicas efetuadas para avaliar o estatuto sanitário dos efetivos, as quais consistem no seguinte:\n\na) «Rastreio de avaliação» o rastreio serológico efetuado aos efetivos classificados como desconhecidos (A1), a fim de adquirirem o estatuto sanitário em saneamento (A3);\n\nb) «Rastreio de aceitação» o rastreio serológico efetuado aos efetivos classificados em saneamento (A3), a fim de adquirirem o estatuto sanitário de indemne (A4);\n\nc) «Rastreio no efetivo positivo» o rastreio serológico efetuado aos efetivos classificados como positivos (A2), para avaliação da situação epidemiológica, a fim de adquirirem o estatuto sanitário em saneamento (A3);\n\nd) «Rastreio suplementar» o rastreio serológico efetuado aos efetivos classificados como indemnes (A4), a fim de adquirirem o estatuto sanitário de oficialmente indemne (A5);\n\ne) «Rastreio de seguimento» o rastreio serológico efetuado para a manutenção dos estatutos sanitários de efetivo indemne (A4) e de efetivo oficialmente indemne (A5);\n\nf) «Rastreio adicional» o rastreio serológico efetuado sempre que se verifiquem reações serológicas positivas nos efetivos classificados como indemnes (A4) ou oficialmente indemnes (A5).\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511943": {
+   "fragment_id": "73727232",
+   "type": 1,
+   "heading": "Capítulo IV — Rastreio serológico",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "### Capítulo IV — Rastreio serológico\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157560": {
+   "fragment_id": "73727234",
+   "type": 11,
+   "heading": "Artigo 15.º — Execução",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 15.º — Execução\n\n1 - O rastreio serológico deve ser efetuado numa única intervenção.\n\n2 - Os suínos submetidos a rastreio são identificados individualmente e de forma indelével.\n\n3 - A execução dos rastreios serológicos nos efetivos deve ser realizada pelo responsável sanitário ou pelo médico veterinário contratado, sob a sua responsabilidade direta.\n\n4 - Os rastreios efetuados à totalidade dos suínos reprodutores podem ser fracionados, por razões de bem-estar animal, desde que tal seja autorizado pela DGAV.\n\n5 - Sempre que se justifique do ponto de vista epidemiológico, e de forma a conhecer o estatuto sanitário dos efetivos de suínos, o diretor-geral de Alimentação e Veterinária pode, por despacho, determinar a realização de outros rastreios, para além dos referidos no presente Plano.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157562": {
+   "fragment_id": "73727235",
+   "type": 11,
+   "heading": "Artigo 16.º — Amostra",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 16.º — Amostra\n\n1 - Em efetivos com suínos de reprodução, os soros devem ser colhidos e distribuídos pelos reprodutores existentes.\n\n2 - A amostra, sempre que aplicável, deve conter pelo menos cinco fêmeas de primeiro parto e todos os varrascos presentes na exploração.\n\n3 - Caso existam diversos pavilhões na mesma exploração, a amostra deve ser repartida por todos.\n\n4 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo adquire o estatuto em saneamento (A3);\n\nb) For positiva, o efetivo adquire o estatuto infetado (A2);\n\nc) Se mantiver duvidosa, deve ser novamente repetida até à obtenção de um resultado decisório para a aquisição do estatuto em saneamento (A3).\n\n5 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157564": {
+   "fragment_id": "1022573801",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Soros com resultado prejudicado",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 16.º-A — Soros com resultado prejudicado\n\n1 - Os soros apresentam resultados prejudicados quando se verifique uma das seguintes situações:\n\na) A amostra contenha soros com uma quantidade insuficiente;\n\nb) Não estejam em condições para realizar a prova de diagnóstico serológico da doença de Aujeszky.\n\n2 - No caso de os efetivos apresentarem resultados prejudicados no rastreio, deve ser repetida a serologia, no prazo de 30 dias, após a data da notificação pela DGAV dos resultados serológicos.\n\n3 - Caso os suínos com resultados serológicos prejudicados já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024688441": {
+   "fragment_id": "73727257",
+   "type": 1,
+   "heading": "Capítulo V — Rastreios",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "### Capítulo V — Rastreios\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511959": {
+   "fragment_id": "73727233",
+   "type": 8,
+   "heading": "Secção I — Rastreio de avaliação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "#### Secção I — Rastreio de avaliação\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511949": {
+   "fragment_id": "73727237",
+   "type": 11,
+   "heading": "Artigo 17.º — Aquisição de estatuto sanitário em saneamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 17.º — Aquisição de estatuto sanitário em saneamento\n\n1 - Para adquirirem o estatuto sanitário em saneamento (A3), os efetivos já classificados como desconhecidos (A1) devem ser sujeitos a rastreio serológico até 30 de abril de 2013 ou, decorrido este prazo, nos 30 dias subsequentes à data da notificação do produtor relativa à atribuição da classificação sanitária.\n\n2 - O rastreio serológico referido no número anterior é realizado:\n\na) Nas explorações com animais de reprodução, por amostragem ao efetivo reprodutor; e\n\nb) Nas explorações que não contenham animais de reprodução, ao efetivo de suínos de engorda.\n\n3 - O número mínimo de suínos, objeto de rastreio serológico na exploração, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 5 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n4 - O número mínimo de suínos objeto de rastreio na exploração deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 10 % em animais de reprodução e de 5 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta no sítio da Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511954": {
+   "fragment_id": "73727238",
+   "type": 11,
+   "heading": "Artigo 18.º — Resultados do rastreio",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 18.º — Resultados do rastreio\n\n1 - Se a totalidade dos animais sujeitos ao rastreio apresentar resultados negativos, a exploração adquire o estatuto sanitário em saneamento (A3).\n\n2 - Os efetivos com resultado positivo no rastreio adquirem a classificação sanitária de efetivos positivos (A2).\n\n3 - No caso de os efetivos apresentarem resultados duvidosos no rastreio, deve ser repetida a serologia, no prazo de 30 dias, após a data da notificação pela DGAV dos resultados serológicos.\n\n4 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo adquire o estatuto em saneamento (A3);\n\nb) For positiva, o efetivo adquire o estatuto positivo (A2);\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para a aquisição do estatuto em saneamento (A3).\n\n5 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511971": {
+   "fragment_id": "73727236",
+   "type": 8,
+   "heading": "Secção II — Rastreio de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Rastreio de aceitação"
+  },
+  "1022511967": {
+   "fragment_id": "73727240",
+   "type": 11,
+   "heading": "Artigo 19.º — Aquisição de estatuto indemne",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 19.º — Aquisição de estatuto indemne\n\n1 - Todos os produtores dos efetivos classificados em saneamento (A3) que não tenham registado manifestações clínicas, patológicas ou serológicas da doença e que tenham cumprido o plano de vacinação, pelo menos nos últimos 12 meses contados desde o dia 1 de novembro de 2012, ficam obrigados a requerer à DGAV, nos 30 dias subsequentes, a confirmação das condições para a realização do início do primeiro rastreio e, em caso de decisão favorável, a proceder a:\n\na) Dois rastreios serológicos com o intervalo de, pelo menos, 4 meses, nas explorações com animais de reprodução;\n\nb) Um rastreio por amostragem ao efetivo de engorda nas explorações sem animais de reprodução.\n\n2 - Os efetivos classificados em saneamento (A3) ao abrigo do presente Plano, para adquirirem o estatuto indemne (A4), devem permanecer 12 meses, a contar da data da notificação da DGAV ao produtor da classificação em saneamento A3, sem registo de manifestações clínicas, patológicas ou serológicas e cumprir o plano de vacinação.\n\n3 - Findo o prazo referido no número anterior, os produtores destes efetivos ficam obrigados a requerer à DGAV, nos 30 dias subsequentes, a confirmação das condições para realização do início do primeiro rastreio e, em caso de decisão favorável, a proceder aos rastreios mencionados no n.º 1.\n\n4 - O primeiro rastreio serológico referido no número anterior é realizado, num prazo de 30 dias, após a resposta da DGAV ao produtor na qual esta confirma as condições para a realização do primeiro rastreio, à totalidade do efetivo reprodutor nas explorações com animais de reprodução e por amostragem ao efetivo de engorda nas explorações sem animais de reprodução.\n\n5 - O número mínimo de suínos de engorda, objeto de rastreio serológico na exploração, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n6 - Caso não sejam cumpridos os prazos estabelecidos nos n.os 1, 2, 3 e 4 ou no caso de decisão desfavorável da DGAV ao requerimento do produtor, a classificação sanitária em saneamento (A3) é retirada ao efetivo, sendo atribuído o estatuto de desconhecido (A1).\n\n7 - O segundo rastreio deve ser realizado, pelo menos, no prazo de 4 meses, após a data da realização do primeiro rastreio, apenas aos suínos de reprodução.\n\n8 - O número mínimo de suínos, objeto do segundo rastreio serológico na exploração, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 5 % em animais de reprodução, de acordo com a tabela que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1022511969": {
+   "fragment_id": "73727241",
+   "type": 11,
+   "heading": "Artigo 20.º — Resultados dos rastreios",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 20.º — Resultados dos rastreios\n\n1 - A realização do primeiro rastreio aos suínos reprodutores, determina que:\n\na) Se a totalidade dos animais sujeitos ao rastreio apresentar resultados negativos, o efetivo seja sujeito a um segundo rastreio aos suínos de reprodução;\n\nb) Se na exploração um suíno apresentar resultado serológico positivo, o estatuto de efetivo em saneamento (A3) seja retirado, passando o efetivo a ser considerado como positivo (A2);\n\nc) Se os suínos apresentarem resultados duvidosos, a serologia seja repetida, no prazo de 30 dias, após a data da notificação pela DGAV dos resultados serológicos.\n\n2 - Se a serologia referida na alínea c) do número anterior:\n\na) For negativa, o efetivo é sujeito ao segundo rastreio;\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para efetuar o segundo rastreio.\n\n3 - A realização do segundo rastreio aos suínos reprodutores e o primeiro rastreio ao efetivo de engorda, determina que:\n\na) Se a totalidade dos animais sujeitos ao rastreio apresentar resultados negativos, a exploração adquira o estatuto indemne (A4);\n\n4 - Se a serologia referida na alínea c) do número anterior:\n\na) For negativa, o efetivo adquire o estatuto indemne (A4);\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para a aquisição do estatuto indemne (A4).\n\n5 - Caso os suínos com resultados serológicos duvidosos, referidos nos n.os 2 e 4, já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.\n\n6 - Por despacho do diretor-geral de Alimentação e Veterinária e, por um período de tempo a definir, podem ser determinados os procedimentos a adotar no caso de se detetar a presença nos suínos reprodutores de um número de suínos serologicamente positivos não superior a 1 %.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157483": {
+   "fragment_id": "73727239",
+   "type": 8,
+   "heading": "Secção III — Rastreio suplementar",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "#### Secção III — Rastreio suplementar\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157479": {
+   "fragment_id": "73727243",
+   "type": 11,
+   "heading": "Artigo 21.º — Aquisição de estatuto oficialmente indemne",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 21.º — Aquisição de estatuto oficialmente indemne\n\n1 - O efetivo indemne (A4) adquire o estatuto de oficialmente indemne (A5) se:\n\na) O produtor solicitar à DGAV, por escrito, autorização para a suspensão da vacinação;\n\nb) Nos últimos 12 meses não tiverem sido registadas na exploração manifestações clínicas, patológicas ou serológicas da doença;\n\nc) Nos últimos 12 meses não tiverem sido registadas manifestações clínicas, patológicas ou serológicas da doença nas explorações situadas num raio de 5 km.\n\n2 - O disposto na alínea c) do número anterior não se aplica às explorações nas quais tenham sido aplicadas as medidas de vigilância e erradicação, previstas no presente Plano, que tenham impedido a propagação da doença nessa exploração.\n\n3 - Decorrido o prazo de 12 meses a contar da data da autorização da suspensão da vacinação, devem ser efetuados dois rastreios serológicos por amostragem com o intervalo de, pelo menos, 4 meses nas explorações com animais de reprodução e um rastreio por amostragem ao efetivo de suínos de engorda nas explorações sem animais de reprodução.\n\n4 - O número mínimo de suínos, objeto dos rastreios na exploração a que se refere o número anterior, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 5 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157481": {
+   "fragment_id": "73727244",
+   "type": 11,
+   "heading": "Artigo 22.º — Resultados do rastreio",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 22.º — Resultados do rastreio\n\n1 - A realização do primeiro rastreio aos suínos reprodutores determina que:\n\nb) Se na exploração um suíno apresentar resultado serológico positivo, o estatuto de efetivo indemne (A4) seja retirado, passando o efetivo a ser considerado como efetivo indemne suspenso (A4S), até ser efetuado o rastreio serológico adicional;\n\nb) For positiva, o efetivo adquire o estatuto indemne suspenso (A4S);\n\n3 - A realização do segundo rastreio aos suínos reprodutores e o primeiro rastreio ao efetivo de engorda determina que:\n\na) Se a totalidade dos animais sujeitos ao rastreio apresentar resultados negativos, a exploração adquira o estatuto oficialmente indemne (A5);\n\nb) Se numa exploração um suíno apresentar resultado serológico positivo, até ser efetuado o rastreio serológico adicional, o estatuto de efetivo indemne (A4) seja retirado, passando o efetivo a ser considerado como efetivo indemne suspenso (A4S);\n\n4 - Para efeito do disposto no número anterior, no caso das explorações sem animais de reprodução nas quais seja detetado um suíno positivo, o efetivo adquire o estatuto positivo (A2).\n\n5 - Se a serologia referida na alínea c) do n.º 3:\n\na) For negativa, o efetivo adquire o estatuto oficialmente indemne (A5);\n\nb) For positiva, aplicam-se os procedimentos do rastreio adicional para as explorações com animais de reprodução e, no caso das explorações sem animais de reprodução, o efetivo adquire o estatuto positivo (A2);\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para a aquisição do estatuto em saneamento oficialmente indemne (A5).\n\n6 - Caso os suínos com resultados serológicos duvidosos, referidos nos n.os 2 e 5, já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157499": {
+   "fragment_id": "73727242",
+   "type": 8,
+   "heading": "Secção IV — Rastreio de seguimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "#### Secção IV — Rastreio de seguimento\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157491": {
+   "fragment_id": "73727246",
+   "type": 11,
+   "heading": "Artigo 23.º — Manutenção de estatuto sanitário indemne",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 23.º — Manutenção de estatuto sanitário indemne\n\n1 - Um efetivo indemne (A4) pode manter o estatuto, desde que cumpra o programa de vacinação e efetue um rastreio serológico por amostragem, nos termos seguintes, adquirindo o estatuto de efetivo em saneamento (A3), no caso de não cumprir o mesmo:\n\na) Quadrimestralmente, nas explorações de seleção e ou multiplicação e nos centros de colheita de sémen, ao efetivo reprodutor;\n\nb) Semestralmente:\n\ni) Nas explorações de produção e de produção de leitões, ao efetivo reprodutor;\n\nii) Nas explorações sem animais de reprodução, ao efetivo de suínos de engorda.\n\n2 - O rastreio a que se refere a alínea b) do número anterior pode ser efetuado anualmente, desde que exista um programa aprovado pela Comissão Europeia.\n\n3 - O número mínimo de suínos, objeto de rastreio na exploração, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 5 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157493": {
+   "fragment_id": "73727247",
+   "type": 11,
+   "heading": "Artigo 24.º — Resultados do rastreio do efetivo indemne",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 24.º — Resultados do rastreio do efetivo indemne\n\n1 - Caso a totalidade dos animais apresente resultados negativos no rastreio, o efetivo mantém o estatuto indemne (A4).\n\n2 - Nas explorações com animais de reprodução, se o efetivo apresentar resultados serológicos positivos no rastreio, adquire a classificação indemne suspensa (A4S).\n\n3 - Nas explorações que não contenham animais de reprodução, se um suíno apresentar resultado positivo, o efetivo adquire classificação sanitária de efetivo positivo (A2).\n\n4 - No caso de os efetivos apresentarem resultados duvidosos no rastreio, deve ser repetida a serologia, no prazo de 30 dias, após a data da notificação pela DGAV dos resultados serológicos.\n\n5 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo mantém o estatuto indemne (A4);\n\nb) For positiva, aplicam-se os procedimentos do rastreio adicional, para as explorações com animais de reprodução e, no caso das explorações sem animais de reprodução, o efetivo adquire o estatuto positivo (A2);\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para a aquisição do estatuto indemne (A4).\n\n6 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157495": {
+   "fragment_id": "73727248",
+   "type": 11,
+   "heading": "Artigo 25.º — Manutenção do estatuto sanitário oficialmente indemne",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 25.º — Manutenção do estatuto sanitário oficialmente indemne\n\n1 - Um efetivo oficialmente indemne (A5) pode manter este estatuto, desde que efetue quadrimestralmente um rastreio serológico por amostragem do efetivo reprodutor, nas explorações com animais de reprodução, e ao efetivo de engorda, nas explorações que não contenham animais de reprodução, adquirindo o estatuto em saneamento (A4) se não efetuar o referido rastreio serológico.\n\n2 - O número mínimo de suínos, objeto de rastreio na exploração, deve ser estatisticamente baseado para um intervalo de confiança de 95 %, para detetar uma prevalência de 5 % em animais de reprodução e de 10 % em explorações que não contenham animais de reprodução, de acordo com a tabela de amostragem que consta do sítio na Internet da DGAV, acessível através do Portal do Cidadão e do Portal da Empresa.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157497": {
+   "fragment_id": "73727249",
+   "type": 11,
+   "heading": "Artigo 26.º — Resultados do rastreio de efetivo oficialmente indemne",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 26.º — Resultados do rastreio de efetivo oficialmente indemne\n\n1 - Se a totalidade dos suínos apresentar resultados negativos no rastreio, o efetivo mantém o estatuto oficialmente indemne (A5).\n\n2 - Se o efetivo apresentar resultado positivo no rastreio, adquire a classificação oficialmente indemne suspensa (A5S).\n\n3 - No caso de os efetivos apresentarem resultados duvidosos, deve ser repetida a serologia, no prazo de 30 dias, após a data da notificação pela DGAV dos resultados serológicos.\n\n4 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo mantém o estatuto oficialmente indemne (A5);\n\nb) For positiva, aplicam-se os procedimentos do rastreio adicional;\n\nc) Se mantiver duvidosa, deve ser novamente repetida até obtenção de um resultado decisório para manutenção do estatuto oficialmente indemne (A5).\n\n5 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157557": {
+   "fragment_id": "73727245",
+   "type": 8,
+   "heading": "Secção V — Rastreio adicional",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "#### Secção V — Rastreio adicional\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157566": {
+   "fragment_id": "73727251",
+   "type": 11,
+   "heading": "Artigo 27.º — Reações serológicas positivas em efetivos indemnes",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 27.º — Reações serológicas positivas em efetivos indemnes\n\n1 - Para adquirirem o estatuto indemne (A4), os efetivos com classificação indemne suspensa (A4S) devem:\n\na) Proceder ao abate voluntário da totalidade dos suínos com resultados serológicos positivos e duvidosos, no prazo de 30 dias, após a data da notificação pela DGAV do resultado laboratorial; e\n\nb) Ser sujeitos a um rastreio serológico à totalidade do efetivo reprodutor, no prazo máximo de 90 dias, após a data da notificação pela DGAV do resultado laboratorial.\n\n2 - Caso não sejam cumpridos os prazos estabelecidos nas alíneas a) e b) do número anterior, ou se o abate dos suínos com resultados serológicos positivos e duvidosos não for confirmado pela DGAV antes da data do rastreio, o efetivo perde a classificação sanitária indemne suspensa (A4S) e adquire o estatuto positivo (A2).\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157568": {
+   "fragment_id": "73727252",
+   "type": 11,
+   "heading": "Artigo 28.º — Resultados do rastreio de efetivos indemnes",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 28.º — Resultados do rastreio de efetivos indemnes\n\n1 - Se a totalidade dos suínos apresentar um resultado negativo no rastreio, o efetivo mantém o estatuto indemne (A4).\n\n2 - No caso de os efetivos apresentarem resultados duvidosos no rastreio, deve ser repetida a serologia, no prazo de 30 dias, após a data da notificação pela DGAV dos resultados serológicos.\n\n3 - Se a serologia referida no número anterior:\n\na) For negativa, o efetivo mantém o estatuto indemne (A4);\n\nb) Se mantiver duvidosa, deve ser repetida até obtenção de resultado decisório para aquisição do estatuto indemne (A4).\n\n4 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157570": {
+   "fragment_id": "73727253",
+   "type": 11,
+   "heading": "Artigo 29.º — Outros resultados de efetivos indemnes",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 29.º — Outros resultados de efetivos indemnes\n\n1 - Se a percentagem de suínos com resultado serológico positivo for igual ou inferior a 2 %, o estatuto de efetivo indemne suspenso (A4S) mantém-se, desde que os animais positivos e duvidosos sejam abatidos voluntariamente pelo produtor, no prazo de 30 dias após a data da notificação pela DGAV dos resultados serológicos.\n\n2 - O estatuto de efetivo indemne suspenso (A4S), referido no número anterior, deve ser retirado após o segundo rastreio adicional com resultados serológicos negativos, a efetuar no prazo máximo de 90 dias após a data da notificação pela DGAV dos resultados serológicos do produtor, voltando o efetivo a obter o estatuto indemne (A4).\n\n3 - Em caso de incumprimento do prazo estabelecido no número anterior, o efetivo perde a classificação sanitária indemne suspensa (A4S) e adquire o estatuto de positivo (A2).\n\n4 - O efetivo perde, ainda, a classificação sanitária indemne suspensa (A4S), adquirindo o estatuto positivo (A2), se o produtor não apresentar à DGAV, no prazo de 30 dias, o comprovativo do abate voluntário emitido pelo inspetor sanitário do matadouro onde os suínos positivos e duvidosos foram abatidos, do qual constem a data do abate e a identificação dos animais.\n\n5 - Se a percentagem de suínos com resultados serológicos positivos for superior a 2 %, o estatuto de efetivo indemne suspenso (A4S) deve ser retirado, adquirindo o estatuto positivo (A2).\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157572": {
+   "fragment_id": "73727254",
+   "type": 11,
+   "heading": "Artigo 30.º — Reações serológicas positivas em efetivos oficialmente indemnes",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 30.º — Reações serológicas positivas em efetivos oficialmente indemnes\n\n1 - Para adquirirem o estatuto oficialmente indemne (A5), os efetivos com classificação indemne suspensa (A5S) devem:\n\nb) Ser sujeitos a um rastreio serológico à totalidade do efetivo reprodutor, nas explorações com animais de reprodução, e ao efetivo de engorda, nas explorações sem animais de reprodução, no prazo máximo de 90 dias, após a data da notificação pela DGAV do resultado laboratorial.\n\n2 - Caso não sejam cumpridos os prazos estabelecidos nas alíneas a) e b) do número anterior, ou se o abate dos suínos com resultados serológicos positivos e duvidosos não for confirmado pela DGAV antes da data do rastreio, o efetivo perde a classificação sanitária indemne suspensa (A5S) e adquire o estatuto positivo (A2).\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157574": {
+   "fragment_id": "73727255",
+   "type": 11,
+   "heading": "Artigo 31.º — Resultados do rastreio de efetivos oficialmente indemnes",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 31.º — Resultados do rastreio de efetivos oficialmente indemnes\n\n1 - Se a totalidade do efetivo apresentar resultado negativo mantém o estatuto de oficialmente indemne (A5).\n\n2 - No caso de os efetivos apresentarem resultados duvidosos, deve ser repetida a serologia, no prazo de 30 dias, após a data da notificação pela DGAV dos resultados serológicos.\n\n3 - Se a serologia referida número anterior:\n\na) For negativa, o efetivo mantém o estatuto oficialmente indemne (A5);\n\nb) Se mantiver duvidosa, deve ser repetida até obtenção de resultado decisório para aquisição do estatuto oficialmente indemne (A5).\n\n4 - Caso os suínos com resultados serológicos duvidosos já não se encontrem na exploração, deve ser repetida a serologia ao mesmo número de animais, pertencentes à mesma classe etária, estado fisiológico e de saúde animal.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157576": {
+   "fragment_id": "73727256",
+   "type": 11,
+   "heading": "Artigo 32.º — Outros resultados de efetivos oficialmente indemnes",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 32.º — Outros resultados de efetivos oficialmente indemnes\n\n1 - Se a percentagem de suínos com resultado serológico positivo for igual ou inferior a 2 %, o estatuto de efetivo oficialmente indemne suspenso (A5S) deve ser mantido, desde que os animais positivos e duvidosos sejam abatidos voluntariamente pelo produtor, no prazo de 30 dias após a data da notificação pela DGAV dos resultados serológicos.\n\n2 - O estatuto de efetivo oficialmente indemne suspenso (A5S), referido no número anterior, deve ser retirado após o segundo rastreio adicional com resultados serológicos negativos, a efetuar no prazo máximo de 90 dias após a data da notificação pela DGAV dos resultados serológicos do produtor, voltando o efetivo a obter o estatuto oficialmente indemne (A5).\n\n3 - Em caso de incumprimento do prazo estabelecido no número anterior, o efetivo perde a classificação sanitária de oficialmente indemne suspensa (A5S) e adquire o estatuto de positivo (A2).\n\n4 - O efetivo perde, ainda, a classificação sanitária oficialmente indemne suspensa (A5S), adquirindo o estatuto positivo (A2), se o produtor não apresentar à DGAV, no prazo de 30 dias, o comprovativo do abate voluntário emitido pelo inspetor sanitário do matadouro onde os suínos positivos e duvidosos foram abatidos, do qual constem a data do abate e a identificação dos animais.\n\n5 - Se a percentagem de suínos com resultados serológico positivo for superior de 2 %, o estatuto de efetivo oficialmente indemne suspenso (A5S) deve ser retirado, adquirindo o estatuto positivo (A2).\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157558": {
+   "fragment_id": "73727250",
+   "type": 8,
+   "heading": "Secção VI — Rastreios específicos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "#### Secção VI — Rastreios específicos\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157507": {
+   "fragment_id": "73727258",
+   "type": 11,
+   "heading": "Artigo 33.º — Rastreio serológico nos efetivos positivos (A2)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 33.º — Rastreio serológico nos efetivos positivos (A2)\n\nAs explorações onde tenham sido detetados suínos positivos podem ser sujeitas a medidas específicas, as quais são fixadas por despacho do diretor-geral de Alimentação e Veterinária.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157515": {
+   "fragment_id": "73727259",
+   "type": 11,
+   "heading": "Artigo 34.º — Rastreio serológico nos suínos de substituição nascidos e criados na própria exploração",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 34.º — Rastreio serológico nos suínos de substituição nascidos e criados na própria exploração\n\n1 - Nos efetivos classificados como desconhecidos (A1), positivos (A2) ou em saneamento (A3), a totalidade dos suínos de substituição nascidos e criados na própria exploração deve ser sujeita a um rastreio serológico, nos 30 dias antes da primeira cobrição.\n\n2 - Os suínos de substituição positivos devem ter como destino a engorda ou o abate voluntário e não devem ser destinados à reprodução.\n\n3 - O efetivo a que refere o número anterior adquire ou mantém o estatuto sanitário de positivo (A2) e é sujeito a todas as medidas aplicáveis.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157523": {
+   "fragment_id": "73727260",
+   "type": 11,
+   "heading": "Artigo 35.º — Rastreio serológico nos centros de colheita de sémen",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 35.º — Rastreio serológico nos centros de colheita de sémen\n\n1 - Os efetivos reprodutores dos centros de colheita de sémen têm que ser obrigatoriamente indemnes (A4) ou oficialmente indemnes (A5).\n\n2 - Os reprodutores dos centros de colheita de sémen devem ser testados com intervalos de, pelo menos, 4 meses, para manutenção dos estatutos de efetivo indemne (A4) ou de efetivo oficialmente indemne (A5), executando-se, consoante os casos, o rastreio de seguimento.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157531": {
+   "fragment_id": "73727261",
+   "type": 11,
+   "heading": "Artigo 36.º — Rastreios serológicos em matadouros",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 36.º — Rastreios serológicos em matadouros\n\nDe forma a caracterizar a situação de circulação do vírus da doença de Aujeszky e a controlar a aplicação das vacinas utilizadas, o diretor-geral de Alimentação e Veterinária pode, por despacho, determinar a realização de rastreios serológicos em matadouros.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157539": {
+   "fragment_id": "73727262",
+   "type": 11,
+   "heading": "Artigo 37.º — Exceções à obrigatoriedade do rastreio serológico",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 37.º — Exceções à obrigatoriedade do rastreio serológico\n\n1 - As explorações de recria e ou acabamento que pratiquem o período de vazio, por pavilhão ou por compartimento, quando do seu repovoamento, estão dispensadas da realização do rastreio serológico e adquirem a classificação da exploração de origem.\n\n2 - Se as explorações de recria e ou acabamento forem de várias origens, adquirem a classificação da exploração de origem mais baixa.\n\n3 - A entrada de suínos nas explorações classificadas como quarentenas fica condicionada a prévia apresentação e aprovação pela DGAV de um protocolo sanitário, do qual constem as medidas de imunoprofilaxia e de rastreio serológico propostas pelo responsável sanitário.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157547": {
+   "fragment_id": "73727263",
+   "type": 11,
+   "heading": "Artigo 38.º — Abate voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Abate voluntário\n\n1 - Após notificação dos resultados do rastreio serológico o produtor deve comunicar à DGAV, com antecedência mínima de dois dias úteis, a intenção de efetuar o abate voluntário dos suínos com resultados serológicos positivos ou duvidosos, devendo, para o efeito, indicar:\n\na) O matadouro onde os animais vão ser abatidos;\n\nb) O dia de abate;\n\nc) O número e série da guia de trânsito para abate imediato, a qual deve conter obrigatoriamente a inscrição individualizada da identificação dos suínos positivos ou duvidosos;\n\nd) O número de suínos submetidos a abate voluntário.\n\n2 - Não há lugar a qualquer compensação pelo abate voluntário dos suínos com resultados laboratoriais positivos ou duvidosos."
+  },
+  "1020029038": {
+   "fragment_id": "73727265",
+   "type": 11,
+   "heading": "Artigo 39.º — Obrigatoriedade de vacinação",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 39.º — Obrigatoriedade de vacinação\n\n1 - A vacinação é obrigatória em todos os efetivos de suínos e é efetuada exclusivamente com vacinas gE negativas (gE-).\n\n2 - Os suínos reprodutores são vacinados três vezes por ano.\n\n3 - Os suínos de substituição são obrigados a uma dupla vacinação, com 28 dias de intervalo, antes da primeira cobrição.\n\n4 - Os suínos de substituição introduzidos numa exploração devem ser vacinados durante o período de quarentena, duas vezes com um intervalo de quatro semanas.\n\n5 - Nos suínos é obrigatória uma primeira vacinação, entre as 10 e as 12 semanas de vida, e uma segunda vacinação quatro semanas após a primeira.\n\n6 - Os animais de engorda que não sejam abatidos até aos oito meses de idade, devem ser revacinados de quatro em quatro meses.\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029039": {
+   "fragment_id": "73727267",
+   "type": 11,
+   "heading": "Artigo 41.º — Exceções à obrigatoriedade da vacinação",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 41.º — Exceções à obrigatoriedade da vacinação\n\n1 - Excetuam-se da obrigatoriedade da vacinação:\n\na) Os efetivos classificados como indemnes (A4), para os quais tenha sido concedida pela DGAV uma autorização para suspensão da vacinação;\n\nb) Os efetivos oficialmente indemnes (A5);\n\nc) Os efetivos nos entrepostos de suínos para abate e nos centros de agrupamento;\n\nd) Os suínos em que o tempo que medeia entre as datas previstas da vacinação e a do abate seja inferior a 30 dias.\n\n2 - Para efeitos da autorização referida na alínea a) do número anterior o produtor deve apresentar um requerimento, o qual deve estar acompanhado do relatório técnico do médico veterinário que fundamente a atribuição do estatuto oficialmente indemne (A5).\n\n3 - Por razões epidemiológicas, o médico veterinário pode propor para aprovação da DGAV, um programa de vacinação específico, desde que satisfaça no mínimo as condições previstas no artigo 39.º\n\n4 - Nos termos do disposto no número anterior, podem ser aprovados, por despacho do diretor-geral de Alimentação e Veterinária, os programas de vacinação específicos em regiões de baixo risco de transmissão de doença.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029033": {
+   "fragment_id": "1022573802",
+   "type": 11,
+   "heading": "Artigo 41.º-A — Medidas administrativas",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 41.º-A — Medidas administrativas\n\nSem prejuízo do disposto no artigo anterior, em caso de incumprimento da obrigação prevista no artigo 39.º, o diretor-geral de Alimentação e Veterinária pode determinar:\n\na) A suspensão da movimentação dos suínos;\n\nb) A classificação dos efetivos como desconhecidos (A1).\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029040": {
+   "fragment_id": "73727268",
+   "type": 11,
+   "heading": "Artigo 42.º — Região e zona epidemiológica",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 42.º — Região e zona epidemiológica\n\n1 - Para efeitos da execução do PCEDA o território nacional é dividido de acordo com os seguintes critérios:\n\na) Região é a parte do território cuja superfície seja de pelo menos 2000 km2 e sujeita a inspeção pelas autoridades competentes e que inclui pelo menos uma das seguintes regiões administrativas:\n\ni) Portugal Continental - Unidade Territorial Estatísticas de Nível III (NUT III);\n\nii) Outras partes do território nacional - Ilhas.\n\nb) Zona epidemiológica é a área geográfica contínua e definida administrativamente, correspondente a uma freguesia ou a um concelho, na qual as medidas de combate à doença de Aujeszky são aplicadas de forma idêntica.\n\n2 - A zona epidemiológica referida na alínea b) do número anterior classifica-se como:\n\na) «Zona indemne» zona epidemiológica em que todas as explorações adquiriram a classificação sanitária indemne;\n\nb) «Zona oficialmente indemne» zona epidemiológica em que todos os efetivos adquiriram a classificação sanitária oficialmente indemne.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029041": {
+   "fragment_id": "73727270",
+   "type": 11,
+   "heading": "Artigo 43.º — Regras gerais",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 43.º — Regras gerais\n\n1 - Sem prejuízo do disposto no Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Leis n.os 214/2008, de 10 de novembro, 316/2009, de 29 de outubro, e 85/2012, de 5 de abril, a movimentação dos suínos para exploração em vida está sujeita a prévia autorização da DGAV.\n\n2 - Um efetivo só pode receber suínos de outro efetivo com estatuto sanitário igual ou superior.\n\n3 - Em caso de incumprimento do disposto no número anterior, o efetivo adquire o estatuto sanitário do efetivo de origem.\n\n4 - O diretor-geral de Alimentação e Veterinária pode, por despacho, restringir a movimentação dos animais, em função da evolução epidemiológica da doença.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029042": {
+   "fragment_id": "73727271",
+   "type": 11,
+   "heading": "Artigo 44.º — Movimentação de suínos de efetivos de estatuto sanitário desconhecido",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 44.º — Movimentação de suínos de efetivos de estatuto sanitário desconhecido\n\n1 - A movimentação de suínos de efetivos de estatuto sanitário desconhecido (A1) só pode ser efetuada para abate, decorrido o prazo de 180 dias previsto para o rastreio de avaliação.\n\n2 - A partir de 1 de novembro de 2013, os efetivos de estatuto sanitário desconhecido (A1) só podem deslocar suínos para abate após efetuarem a avaliação epidemiológica.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029043": {
+   "fragment_id": "73727272",
+   "type": 11,
+   "heading": "Artigo 45.º — Movimentação de suínos de efetivos positivos",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 45.º — Movimentação de suínos de efetivos positivos\n\n1 - Os suínos de efetivos positivos com a doença de Aujeszky (A2) só podem circular com destino ao matadouro.\n\n2 - Em derrogação ao disposto no número anterior, os suínos de efetivos positivos com a doença de Aujeszky (A2) podem ter como destino uma exploração de recria e ou acabamento que se encontre numa das seguintes situações:\n\na) Registada em nome do mesmo titular, mediante autorização da DGAV, e desde que situada numa zona onde ainda não foi implementada a classificação epidemiológica de zona indemne da doença de Aujeszky;\n\nb) Que não pertença ao mesmo titular, por um período transitório máximo de dois anos, a contar da data da entrada em vigor do presente Plano, adquirindo o estatuto sanitário do efetivo de origem.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029044": {
+   "fragment_id": "73727273",
+   "type": 11,
+   "heading": "Artigo 46.º — Movimentação de suínos de substituição",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 46.º — Movimentação de suínos de substituição\n\n1 - A movimentação de suínos de substituição destinados a efetivos em saneamento (A3) fica condicionada a um controlo serológico negativo nos 15 dias anteriores à data da deslocação.\n\n2 - A movimentação de suínos de substituição destinados a efetivos indemnes (A4) e oficialmente indemnes (A5) fica condicionada à realização de dois controlos serológicos negativos com 21 dias de intervalo, a realizar na exploração de origem e de destino respetivamente.\n\n3 - Para efeito do disposto nos números anteriores, o número de suínos testados deve ser suficiente para detetar, nos suínos movimentados, uma prevalência de 0,1 % com um nível de confiança de 95 %.\n\n4 - Em derrogação ao disposto nos números anteriores, no caso do povoamento total de uma nova exploração ou do repovoamento de uma exploração já existente, com exceção das exploração de recria e ou acabamento, o número de suínos testados deve ser suficiente para detetar, nos suínos movimentados, uma prevalência de 2 % com um nível de confiança de 95 %.\n\n5 - Antes da entrada na exploração, os suínos de substituição devem ser sujeitos a um período de quarentena, onde devem ser implementadas todas as medidas de profilaxia médica e sanitária.\n\n6 - A movimentação de suínos de substituição deve ser efetuada com suínos provenientes de exploração de multiplicação ou seleção com estatuto igual ou superior a efetivo em saneamento (A3), adquirindo a classificação do efetivo da exploração de origem.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029045": {
+   "fragment_id": "73727274",
+   "type": 11,
+   "heading": "Artigo 47.º — Movimentação para explorações de recria e ou acabamento",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 47.º — Movimentação para explorações de recria e ou acabamento\n\n1 - As explorações de recria e ou acabamento só podem adquirir suínos em efetivos classificados em saneamento (A3), indemnes (A4) ou oficialmente indemnes (A5), exceto nos casos previstos no artigo 45.º\n\n2 - As explorações de recria e ou acabamento em vazio, quando do seu repovoamento adquirem a classificação sanitária do efetivo de origem se forem respeitadas todas as medidas de profilaxia sanitária determinadas pela DGAV.\n\n3 - Caso não sejam cumpridas as medidas referidas no número anterior, a classificação sanitária do efetivo de destino deve ser desconhecido (A1).\n\n4 - Em caso de aquisição de suínos provenientes de várias origens, deve ser atribuída ao efetivo, a classificação sanitária do efetivo com a classificação mais baixa.\n\n5 - Por despacho do diretor-geral de Alimentação e Veterinária, pode ser determinada a data a partir da qual as explorações de recria e ou acabamento deixam de poder receber suínos provenientes de efetivos classificados de positivos (A2) ou em saneamento (A3).\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029046": {
+   "fragment_id": "73736676",
+   "type": 11,
+   "heading": "Artigo 48.º — Registo de explorações",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 48.º — Registo de explorações\n\n1 - Os produtores são obrigados a solicitar à DGAV o registo das suas explorações, centros de agrupamento, centros de colheita de sémen, quarentenas, entrepostos para abate e para a exploração em vida, em conformidade com o disposto no Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Leis n.os 214/2008, de 10 de novembro, 316/2009, de 29 de outubro, e 85/2012, de 5 de abril.\n\n2 - Sem prejuízo do disposto no Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Leis n.os 214/2008, de 10 de novembro, 316/2009, de 29 de outubro, e 85/2012, de 5 de abril, é atribuída a cada exploração uma identificação única, designada por marca de exploração, que obedece às características previstas no artigo 1.º do anexo iii ao referido decreto-lei.\n\n3 - Os produtores são obrigados a proceder à declaração de existências três vezes por ano, em abril, agosto e dezembro nos serviços veterinários regionais da área da exploração, informando o número e a categoria de animais que possuem, em modelo de impresso definido por despacho do diretor-geral de Alimentação e Veterinária.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029047": {
+   "fragment_id": "73736677",
+   "type": 11,
+   "heading": "Artigo 49.º — Condições de funcionamento dos centros de agrupamento e entrepostos de suínos",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 49.º — Condições de funcionamento dos centros de agrupamento e entrepostos de suínos\n\nPara efeitos do presente Plano, sem prejuízo do disposto nos artigos 24.º e 25.º da Portaria n.º 636/2009, de 9 de junho, os centros de agrupamento e entrepostos de suínos devem satisfazer as seguintes condições de funcionamento:\n\na) Ter ao seu serviço um médico veterinário que garanta, em especial, que os efetivos de suínos não contactem, em momento algum, com outros efetivos que não apresentem o mesmo estatuto sanitário, exceto para os animais destinados ao abate;\n\nb) Só admitir animais identificados e provenientes de efetivos sem restrições sanitárias ou outros animais de abate que satisfaçam as condições previstas no Decreto-Lei n.º 142/2006, de 27 de julho, alterado pelos Decretos-Leis n.os 214/2008, de 10 de novembro, 316/2009, de 29 de outubro, e 85/2012, de 5 de abril, devendo o produtor, quando os animais são admitidos, proceder ou mandar proceder à verificação da identificação ou marcação dos animais e dos documentos sanitários ou outros documentos de acompanhamento específicos da espécie ou categoria em questão;\n\nc) Manter um registo de existências e deslocações (RED), que deve ser conservado pelo menos durante três anos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029048": {
+   "fragment_id": "73736679",
+   "type": 11,
+   "heading": "Artigo 50.º — Sequestro sanitário",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 50.º — Sequestro sanitário\n\n1 - Pode ser determinado o sequestro sanitário, sempre que for detetado um animal positivo na exploração.\n\n2 - As explorações classificadas como positivas (A2) devem ser colocadas em sequestro, só podendo ser movimentados suínos com destino ao abate, exceto nas situações previstas no presente Plano.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029049": {
+   "fragment_id": "73736680",
+   "type": 11,
+   "heading": "Artigo 51.º — Medidas de polícia sanitária",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 51.º — Medidas de polícia sanitária\n\n1 - Sempre que numa exploração ou em determinado matadouro seja detetado um animal com suspeita de doença de Aujeszky, a DGAV determina:\n\na) A colocação da exploração em sequestro sanitário;\n\nb) A realização de um rastreio adicional, no prazo de cinco dias úteis após a suspeita, se o efetivo de origem do suíno suspeito tiver a classificação de indemne (A4) ou de oficialmente indemne (A5), adquirindo o efetivo de imediato o estatuto de indemne suspenso (A4S) ou de oficialmente indemne suspeito (A5S), respetivamente;\n\nc) A realização de um rastreio serológico de acordo com o disposto no artigo 33.º, no prazo de cinco dias úteis após a suspeita, nos efetivos com outras classificações sanitárias, adquirindo os efetivos de imediato o estatuto positivo (A2);\n\nd) A proibição da movimentação de qualquer suíno de ou para o efetivo atingido, exceto se tiver como destino o matadouro;\n\ne) A realização de um inquérito epidemiológico, o qual, para efeitos do presente Plano, se entende como o conjunto uniformizado de informação sanitária, elaborado pela DGAV, que se destina à avaliação epidemiológica de uma ocorrência sanitária, sendo efetuado em todas as situações em que a DGAV o determine;\n\nf) A limpeza e desinfeção das instalações e anexos, das áreas e locais de carga, dos veículos de transporte, das matérias ou substâncias provenientes dos animais ou que com eles estiveram em contacto, bem como dos recipientes, utensílios e outros objetos utilizados pelos animais.\n\n2 - A DGAV pode ainda determinar a colheita de material nos animais com suspeita clínica, para isolamento ou identificação do vírus.\n\n3 - O sequestro da exploração só é levantado quando os efetivos classificados como indemnes suspensos (A4S) ou como oficialmente indemnes suspensos (A5S) adquirirem o estatuto de efetivo indemne (A4) ou de oficialmente indemne (A5), uma vez cumpridos os requisitos previstos nos artigos 27.º a 32.º\n\n4 - Nos efetivos positivos (A2), o sequestro só é levantado quando estes adquirirem o estatuto em saneamento (A3), uma vez cumpridos os requisitos previstos no artigo 33.º\n\n5 - Se for confirmada a doença através do isolamento ou identificação do vírus, a exploração mantém ou adquire o estatuto positivo (A2), devendo a partir dessa data cumprir todas as medidas de profilaxia médica e sanitária aplicáveis.\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1020029050": {
+   "fragment_id": "73736682",
+   "type": 11,
+   "heading": "Artigo 52.º — Contraordenações",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "###### Artigo 52.º — Contraordenações\n\n1 - Para efeitos do presente Plano, as seguintes infrações constituem contraordenações puníveis com coima, cujo montante mínimo é de (euro) 500 e máximo de (euro) 3740, no caso de pessoas singulares, e (euro) 44 891, no caso de pessoas coletivas:\n\na) O desrespeito das obrigações dos produtores e comerciantes previstas no artigo 10.º;\n\nb) O incumprimento da obrigação de notificação da doença de Aujeszky, estabelecida no artigo 11.º;\n\nc) O incumprimento das normas de rastreio serológico previstas nos artigos 15.º, 16.º e 16.º-A;\n\nd) O incumprimento das normas de rastreio de avaliação previstas nos artigos 17.º e 18.º;\n\ne) O incumprimento das normas de rastreio de aceitação previstas nos artigos 19.º e 20.º;\n\nf) O incumprimento das normas de rastreio suplementar previstas nos artigos 21.º e 22.º;\n\ng) O incumprimento das normas de rastreio de seguimento previstas nos artigos 23.º a 26.º;\n\nh) O incumprimento das normas de rastreio adicional previstas nos artigos 27.º a 32.º;\n\ni) O incumprimento das normas relativas ao rastreio específico previstas nos artigos 33.º a 37.º;\n\nj) O incumprimento das normas relativas ao abate voluntário previstas no artigo 38.º;\n\nk) O incumprimento das normas relativas à vacinação previstas no artigo 39.º;\n\nl) O incumprimento das medidas administrativas previstas no artigo 41.º-A;\n\nm) O incumprimento das normas relativas à movimentação dos suínos previstas nos artigos 43.º a 47.º;\n\nn) O incumprimento das normas relativas ao registo previstas no artigo 48.º;\n\no) O funcionamento dos centros de agrupamento e de entrepostos de suínos em desrespeito das condições previstas no artigo 49.º;\n\np) O incumprimento das medidas de polícia sanitária previstas no artigo 51.º;\n\nq) A oposição ou a criação de obstáculos que impeçam a realização das medidas sanitárias determinadas pela DGAV.\n\n2 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.\n\n3 - A tentativa é punível com coima aplicável à contraordenação consumada, especialmente atenuada.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  },
+  "1024157577": {
+   "fragment_id": "73736692",
+   "type": 14,
+   "heading": "Anexo I — Região e zona epidemiológica",
+   "in_force_from": "2012-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+   ],
+   "markdown": "## Anexo I — Região e zona epidemiológica\n\n(a que se refere o n.º 2 do artigo 42.º do Plano)\n\nPara que um país ou uma zona possam ser reconhecidos como provisoriamente oficialmente indemne ou oficialmente indemne da doença de Aujeszky, deve obedecer às seguintes condições:\n\n1 - Zona provisoriamente oficialmente indemne da doença de Aujeszky:\n\na) A legislação sanitária relativa à movimentação animal deve ter sido aplicada há, pelo menos, dois anos, a fim de impedir a introdução do vírus nas explorações da zona;\n\nb) Se a doença foi assinalada na zona, implementou-se um plano de vigilância e controlo para detetar as explorações infetadas e erradicar a doença;\n\nc) A taxa de prevalência da doença não ser superior a 1 % durante, pelo menos, três anos e pelo menos 90 % das explorações da zona estarem classificadas como oficialmente indemnes, nos termos do n.º 8;\n\nd) Se a percentagem de explorações infetadas numa zona provisoriamente oficialmente indemne ultrapassar 1 %, essa zona perde o seu estatuto;\n\ne) O estatuto provisoriamente indemne só pode ser recuperado quando, pelo menos, durante seis meses, a taxa de prevalência for inferior a 1 %;\n\nf) Foram tomadas todas as medidas de biossegurança para impedir a transmissão do vírus selvagem dos javalis aos porcos domésticos.\n\n2 - Zona oficialmente indemne da doença de Aujeszky, é aquela que cumpre as seguintes condições:\n\na) Estarem implementadas as medidas de profilaxia sanitária destinadas a impedir a introdução do vírus da doença de Aujeszky na zona;\n\nb) A introdução na zona, de suínos, sémen, óvulos, embriões e outros produtos ser efetuada, há pelo menos dois anos, em conformidade com a regulamentação sanitária vigente;\n\nc) A vacinação contra a doença de Aujeszky estar interdita em todos os suínos da zona, desde há pelo menos dois anos;\n\nd) Ter sido implementado um plano de vigilância e controlo para detetar as explorações infetadas e erradicar a doença, caso aquela tenha sido assinalada na zona;\n\ne) O programa de vigilância ter demonstrado que durante pelo menos dois anos não se detetou nenhum sinal clínico, virológico ou serológico da doença de Aujeszky em nenhuma exploração da zona.\n\n3 - Se um foco da doença de Aujeszky aparecer numa zona oficialmente indemne, essa zona pode recuperar o estatuto.\n\n4 - Para efeitos do número anterior, todos os suínos do foco devem ser abatidos.\n\n5 - E, se durante e após a aplicação daquela medida, for realizado um inquérito epidemiológico em todas as explorações que possuam suínos que tenham estado em contacto, direto ou indireto, com a exploração infetada, assim como todos os suínos situados num raio de 5 km à volta do foco, ou na área da freguesia, que demonstre que as explorações não estão infetadas.\n\n6 - Ou, caso a vacinação com vacinas gE negativas (gE-) tenha sido aplicada, e se, um protocolo de sondagem epidemiológica for implementado nas explorações em que a vacinação foi aplicada, demonstrando a ausência da infeção, a saída de suínos dessas explorações está interdita, todos os animais vacinados forem abatidos e que após a aplicação destas medidas fique demonstrado que estas explorações que detêm os suínos de contacto não estão infetadas.\n\n7 - Sejam tomadas todas as medidas para impedir a transmissão do vírus selvagem dos javalis aos porcos domésticos.\n\n8 - Para que um país possa ser reconhecido como oficialmente indemne da doença de Aujeszky, todas as suas zonas devem ser qualificadas como oficialmente indemnes da doença de Aujeszky.\n\n9 - Para ser reconhecida como oficialmente indemne da doença de Aujeszky, um efetivo deve reunir as seguintes condições:\n\na) Estar submetida o controlo da Direção-Geral de Alimentação e Veterinária (DGAV);\n\nb) Não ter sido constatado, há pelo menos um ano, nenhum sinal clínico, serológico ou virológico da doença de Aujeszky;\n\nc) A introdução nas explorações, de suínos, sémen, óvulos ou embriões ser efetuada em conformidade com as condições fixadas para a sua entrada;\n\nd) Ter suspendido a vacinação há pelo menos 12 meses;\n\ne) Ter cumprido as medidas de profilaxia médica e sanitária, de acordo com o determinado pelas normas previstas no Plano;\n\nf) Não ter sido detetado nenhuma exploração infetada, num raio de 5 km à sua volta, ou na área da freguesia, através da implementação do programa de vigilância e controlo a todas as explorações.\n\n10 - O previsto na alínea f) do número anterior não é aplicável se, nestas últimas explorações, as medidas de monitorização e erradicação tiverem sido regularmente aplicadas sob controlo da DGAV, em conformidade com o disposto no Plano, e se estas medidas tiverem de facto evitado a propagação da doença para a exploração em causa.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 222/2012 - Diário da República n.º 199/2012, Série I de 2012-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2012-176353), em vigor a partir de 2012-10-20"
+  }
+ }
+}

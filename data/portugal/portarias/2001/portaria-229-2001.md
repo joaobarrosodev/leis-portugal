@@ -1,0 +1,292 @@
+---
+schema_version: '1.0'
+id: pt:dre:388620:por
+title: Portaria n.º 229/2001
+short_title: null
+summary: Aprova o Regulamento Específico dos Apoios à Qualificação dos Recursos Humanos para os Novos Desafios
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Trabalho e da Solidariedade e da Economia
+proposing_entity: null
+official_number: 229/2001
+official_date: null
+publication_date: '2001-03-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 66/2001, Série I-B de 2001-03-19
+  number: '66'
+  series: I
+  supplement: null
+  pages: 1543 - 1546
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/03/066b00/15431546.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/229/2001/03/19/p/dre/pt/html
+  oj: null
+  dre: '388620'
+  dre_path: /dr/detalhe/portaria/229-2001-388620
+  internal: pt:dre:388620:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-2001-388620
+  metadata_url: https://data.dre.pt/eli/port/229/2001/03/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/229-2001-388620
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-11-17T00:00:00Z'
+integrity:
+  source_sha256: e6bfd604032e0865b9b403f621a0ed7198067d4140dd77185e300e40fdda5b7e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-229-388620.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Empresa
+- Desenvolvimento Económico
+- Política Económica
+- Qualificação Profissional
+- QCA III
+- Recursos Humanos
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:445573:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32001R0068
+  label: null
+  source: http://data.europa.eu/eli/reg/2001/68/oj
+- type: cites
+  target: eli:/application/external/tratado
+  label: null
+  source: /application/external/tratado
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 229/2001
+
+de 19 de Março
+
+O Governo aprovou, pelo Decreto-Lei n.º 70-B/2000, de 5 de Maio, um enquadramento legal de referência para a criação de um conjunto de medidas de acção económica visando o desenvolvimento estratégico dos diversos sectores de actividade da economia, através de apoios directos e indirectos às empresas e demais agentes económicos, para o período que decorre entre 2000 e 2006.
+
+De entre os eixos de actuação definidos no citado diploma, inscreve-se o referente à promoção de áreas estratégicas para o desenvolvimento empresarial, que, de entre outras medidas, compreende o apoio à qualificação dos recursos humanos para os novos desafios, reforçando e adequando as qualificações e competências no âmbito das empresas e das organizações da envolvente empresarial, estimulando as competências para a inovação e o desenvolvimento científico e tecnológico e em áreas estratégicas para o desenvolvimento de novas actividades, produtos ou serviços.
+
+Importa, assim, regulamentar a medida n.º 2.3 do eixo n.º 2 do Programa Operacional da Economia, «Apoio para a qualificação dos recursos humanos para os novos desafios», que, sendo financiada exclusivamente através dos apoios do Fundo Social Europeu, torna necessário que o seu regulamento específico tenha em conta os princípios e regras do novo quadro normativo daquele Fundo.
+
+Assim, ao abrigo do artigo 20.º e nos termos da alínea c) do artigo 6.º, ambos do Decreto-Lei n.º 70-B/2000, de 5 de Maio, em conjugação com o artigo 8.º do Decreto Regulamentar n.º 12-A/2000, de 15 de Setembro:
+
+Manda o Governo, pelos Ministros do Trabalho e da Solidariedade e da Economia, o seguinte:
+
+1.º É regulamentada a medida de apoio relativa à qualificação dos recursos humanos para os novos desafios e aprovado o respectivo regulamento específico, nos termos do anexo à presente portaria e da qual faz parte integrante.
+
+2.º A presente portaria produz efeitos a partir da data da sua assinatura.
+
+Em 9 de Fevereiro de 2001.
+
+Pelo Ministro do Trabalho e da Solidariedade, José António Fonseca Vieira da Silva, Secretário de Estado da Segurança Social. - O Ministro da Economia, Mário Cristina de Sousa.
+
+## ANEXO — REGULAMENTO ESPECÍFICO DOS APOIOS À QUALIFICAÇÃO DOS RECURSOS HUMANOS PARA OS NOVOS DESAFIOS
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento define o regime jurídico que preside à concessão de apoios à formação profissional promovida no âmbito da medida n.º 2.3, «Apoio para a qualificação dos recursos humanos para os novos desafios», criada no quadro do Programa Operacional da Economia (POE), complementando as normas comunitárias e nacionais aplicáveis ao Fundo Social Europeu (FSE).
+
+###### Artigo 2.º — Âmbito
+
+É susceptível de beneficiar dos apoios a conceder no âmbito da presente medida de apoio:
+
+a) A formação associada a projectos integrados das empresas e outros agentes económicos com acesso aos sistemas de incentivos e à dinamização de infra-estruturas quando as medidas de apoio do POE prevejam investimento em formação;
+
+b) A formação associada a projectos integrados realizados no quadro de parcerias ou de iniciativas públicas quando as medidas de apoio do POE prevejam investimento em formação;
+
+c) A formação tecnológica em que se financiam os projectos promovidos por escolas tecnológicas para a realização de cursos de especialização tecnológica que conferem qualificação profissional do nível 4, bem como os cursos que conferem qualificação profissional do nível 3;
+
+d) A formação associada a projectos integrados com componentes regionalmente desconcentradas e apoiadas no âmbito de programas operacionais regionais quando as respectivas medidas de apoio prevejam investimento em formação, sendo esta componente apoiada pelo POE.
+
+###### Artigo 3.º — Entidades com acesso ao financiamento da formação
+
+1 - Podem solicitar apoio para a realização da formação profissional as entidades beneficiárias formadoras e outros operadores desde que abrangidos pela regulamentação específica aplicável às medidas de apoio do POE.
+
+2 - Quando a presente medida de apoio se desenvolva no quadro de parcerias e iniciativas públicas, haverá uma entidade que assume a titularidade do pedido de financiamento, podendo associar outras, nos termos previstos na legislação que regulamenta o acesso ao FSE, que deverão reunir também os requisitos previstos no artigo 6.º
+
+###### Artigo 4.º — Gestão
+
+1 - O Gabinete Operacional da Economia para a Formação Profissional (GOE-Formação) é a estrutura de apoio ao gestor do POE na área da formação profissional.
+
+2 - A gestão operacional da componente formação profissional no POE é assegurada pelos organismos do Ministério da Economia que vierem a ser designados para o efeito, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+
+###### Artigo 5.º — Modalidades de acesso ao financiamento
+
+1 - São as seguintes as modalidade de acesso ao financiamento no quadro do POE:
+
+a) Plano de formação;
+
+b) Projecto não integrado em plano;
+
+c) Participações individuais na formação.
+
+2 - O projecto não integrado em plano deve conter apenas a informação relevante, adequada à sua dimensão e complexidade, para sistematizar a sua operacionalização:
+
+a) A fundamentação da sua oportunidade, explicitando as necessidades de formação e a justificação de cada curso nele incluído e a sua ligação com o projecto;
+
+b) Os objectivos, as actividades a apoiar e respectiva programação física e financeira, discriminados por ano civil;
+
+c) As metodologias de formação e de avaliação dos formandos, os mecanismos de inserção profissional e os métodos de selecção e recrutamento de formadores e formandos, quando aplicável;
+
+d) As metodologias e os indicadores de avaliação e de resultados, quando aplicável.
+
+3 - As participações individuais na formação podem integrar um plano de formação ou um projecto não integrado em plano.
+
+4 - A caracterização da formação deve permitir fundamentar o seu carácter geral ou específico, para os efeitos previstos no n.º 2 do artigo 10.º
+
+5 - A formação a promover, em qualquer das modalidades de acesso previstas, pode ser anual ou plurianual, devendo ter uma duração máxima de execução de dois anos, podendo os planos de formação ter duração superior, em casos devidamente justificados e autorizados em conformidade com a regulamentação específica das medidas de apoio em que se enquadre o projecto a que a formação esteja associada, que, contudo, não pode exceder a duração máxima de três anos.
+
+6 - Após a conclusão da formação associada a um projecto integrado ainda em execução, poderá a entidade que o promove solicitar novo pedido de financiamento para a componente formação, desde que esta se articule com o desenvolvimento desse projecto integrado e tenha sido previsto na fase de candidatura ou seja devidamente justificada a sua necessidade.
+
+7 - No caso dos projectos integrados, o prazo da sua execução conta-se de acordo com a regulamentação específica da medida de apoio em que o projecto se enquadre.
+
+###### Artigo 6.º — Requisitos das entidades candidatas ao financiamento
+
+1 - As entidades titulares do pedido de financiamento deverão cumprir, desde a data da sua apresentação, além dos requisitos previstos no artigo 23.º do Decreto Regulamentar n.º 12-A/2000, de 15 de Setembro, as condições de acesso estabelecidas para o projecto a que a formação esteja associada nos termos da regulamentação específica das medidas de apoio criadas ao abrigo do POE.
+
+2 - Os requisitos referidos no número anterior podem ser reportados a uma data até ao momento da celebração do contrato de concessão de incentivos, nos termos admitidos pela regulamentação específica da medida de apoio aplicável ao projecto integrado a que a formação esteja associada.
+
+3 - No caso em que as entidades titulares do pedido de financiamento sejam escolas tecnológicas, estas devem cumprir ainda as seguintes condições específicas:
+
+a) Observarem o cumprimento dos normativos que lhes sejam aplicáveis relativamente à criação e ao funcionamento de estabelecimentos de ensino e formação profissional;
+
+b) Observarem o cumprimento da legislação aplicável à criação de cursos de especialização tecnológica que conferem qualificação profissional do nível 4 e aos cursos que conferem qualificação profissional do nível 3.
+
+###### Artigo 7.º — Despesas elegíveis
+
+Nos termos do artigo 3.º do Despacho Normativo n.º 42-B/2000, de 20 Setembro, para os efeitos da determinação do custo total elegível da formação, consideram-se as seguintes despesas:
+
+a) No âmbito de encargos com pessoal não docente (R3), as despesas com serviços de técnicos oficiais de contas (TOC) e revisores oficiais de contas (ROC) para a certificação das despesas da formação;
+
+b) No âmbito de encargos com preparação, desenvolvimento e acompanhamento das acções (R4), as despesas com matérias-primas e subsidiárias.
+
+###### Artigo 8.º — Encargos com formandos
+
+1 - No âmbito da formação realizada no quadro de parcerias e iniciativas públicas, nas acções que visem a inserção de formandos desempregados, aplicam-se à bolsa de formação elegível os valores constantes da tabela prevista no n.º 4 do artigo 6.º do Despacho Normativo n.º 42-B/2000, de 20 de Setembro, para o período de estágio, durante o qual pode estar incluído um período de formação, aplicando-se-lhe a mesma tabela desde que este último período não seja superior a 15% da duração total da acção.
+
+2 - Quando haja participação de formandos que sejam trabalhadores ao serviço de empresas fornecedoras ou clientes da entidade beneficiária, não são elegíveis eventuais encargos salariais dessas entidades empregadoras.
+
+3 - No âmbito da formação tecnológica prevista na alínea c) do artigo 2.º, deverá ainda atender-se, a partir do ano lectivo de 2001-2002, ao seguinte:
+
+a) As bolsas a atribuir aos formandos, fixadas nos termos do Despacho Normativo n.º 42- B/2000, de 20 de Setembro, deverão diminuir progressivamente no período que decorre até 2006, sendo os respectivos limites máximos fixados por despacho do Ministro da Economia;
+
+b) Os formandos pagarão propinas ou outros pagamentos equivalentes em virtude da inscrição, matrícula ou actos equiparáveis, progressivamente crescentes, podendo o seu valor mínimo variar para cada ano lectivo, em termos a definir por despacho do Ministro da Economia.
+
+###### Artigo 9.º — Limites de elegibilidade das despesas
+
+1 - A entidade titular do pedido de financiamento será notificada dos termos de aprovação do respectivo pedido, procedendo-se à discriminação dos valores a afectar a cada uma das rubricas.
+
+2 - O montante máximo elegível para as rubricas R3 a R7 constantes do artigo 3.º do Despacho Normativo n.º 42-B/2000, de 20 de Setembro, é determinado em função do respectivo indicador custo por hora por formando, o qual varia em função de diversos parâmetros de contextualização da formação, a fixar mediante despacho conjunto dos Ministros do Trabalho e da Solidariedade e da Economia.
+
+3 - As despesas com diagnósticos ou com levantamentos de necessidades de formação, financiadas apenas quando não haja diagnóstico previsto para o projecto integrado a que a formação esteja associada, não podem exceder 5% do custo total elegível aprovado para as restantes despesas, até ao valor máximo de 25000 euros.
+
+4 - As despesas com a aquisição de serviços técnicos especializados de avaliação da formação são financiadas até ao limite de 5% do custo total elegível aprovado para as restantes despesas, até ao valor máximo de 25000 euros.
+
+###### Artigo 10.º — Financiamento público e contribuição privada
+
+1 - O financiamento público a conceder à formação profissional assumirá a forma de incentivo não reembolsável.
+
+2 - Ao financiamento público a conceder para a realização das acções de formação promovidas por empresas, intervindo como entidades beneficiárias nos termos do artigo 20.º do Decreto Regulamentar n.º 12-A/2000, de 15 de Setembro, aplicam-se as regras comunitárias relativas à aplicação dos artigos 87.º e 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado) aos auxílios à formação, em conformidade com o Regulamento (CE) n.º [68/2001](http://data.europa.eu/eli/reg/2001/68/oj?locale=pt), da Comissão, de 12 de Janeiro, publicado no Jornal Oficial das Comunidades Europeias, n.º L 10, de 13 de Janeiro de 2001, não podendo ultrapassar os limites indicados no quadro seguinte:
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/03/066b00/15431546.pdf)
+
+3 - Para os efeitos da definição do financiamento público dos projectos referidos no número anterior, os encargos com a remuneração dos activos em formação são calculados de acordo com os n.os 1 a 3 do artigo 8.º do Despacho Normativo n.º 42-B/2000, de 20 de Setembro, não podendo ser superiores a 50% do custo total elegível.
+
+4 - Para a realização das acções de formação promovidas por entidades privadas sem fins lucrativos, a contribuição privada obrigatória é realizada na sua totalidade pelos encargos com as remunerações dos activos em formação, nos termos definidos pelo artigo 8.º do Despacho Normativo n.º 42-B/2000, de 20 de Setembro.
+
+5 - Para a realização das acções de formação promovidas no quadro das parcerias e iniciativas públicas, independentemente da natureza da entidade titular do pedido, o financiamento público poderá atingir 100%, sendo que estes projectos devem ter natureza colectiva, abrangente e não discriminatória, não configurando situações passíveis de enquadramento nas regras dos auxílios de Estado na acepção dos artigos 87.º e 88.º do [Tratado CE](https://diariodarepublica.pt/application/external/tratado).
+
+6 - Para a realização das acções de formação tecnológica promovidas por escolas tecnológicas, ao abrigo da alínea c) do artigo 2.º do presente Regulamento, o financiamento público é de 100%, na medida em que se trata de formação de qualificação profissional de indivíduos, independentemente da situação dos formandos perante o emprego.
+
+7 - Poderá ser estabelecido, por despacho do Ministro da Economia, limite inferior ao que decorre da aplicação das regras deste Regulamento relativamente ao financiamento da componente formação profissional, em função de indicadores de custos máximos ou outros relevantes.
+
+###### Artigo 11.º — Pagamento de reembolsos às entidades titulares do pedido
+
+O reembolso das despesas efectuadas e pagas pela entidade titular do pedido de financiamento faz-se com periodicidade mínima bimestral, no valor mínimo de 10% do valor global do financiamento aprovado para cada ano civil, desde que o somatório do adiantamento com os pagamentos intermédios de reembolso não exceda 85% do valor global do financiamento aprovado.
+
+###### Artigo 12.º — Apresentação de pedido de financiamento
+
+1 - Nos projectos integrados, o pedido de financiamento para a componente formação integra a candidatura do projecto e faz-se através de formulário normalizado, decorrendo a sua apresentação nos termos fixados na regulamentação específica da respectiva medida de apoio do POE.
+
+2 - No caso da formação tecnológica prevista na alínea c) do artigo 2.º, o pedido de financiamento é apresentado em formulário normalizado.
+
+3 - Após a apresentação do pedido de financiamento, e desde que haja execução física ou financeira da componente formação, as entidades titulares do pedido de financiamento deverão assegurar, independentemente do início das acções, informação regular, de acordo com o sistema de informação definido para esse fim e com a periodicidade que for estabelecida.
+
+###### Artigo 13.º — Processo de decisão
+
+1 - Os organismos gestores da componente formação deverão concluir a análise da candidatura à formação e do correspondente pedido de financiamento, atendendo ao seguinte:
+
+a) Nos projectos integrados, os prazo de análise e de suspensão observam a regulamentação específica da medida de apoio em que se enquadre o projecto a que a formação esteja associada;
+
+b) Nos projectos de formação tecnológica previstos na alínea c) do artigo 2.º, a análise será concluída no prazo de 60 dias a contar da apresentação do pedido de financiamento, podendo este prazo suspender-se nos termos fixados pela regulamentação nacional do FSE.
+
+2 - Cabe à unidade de gestão competente do POE, no prazo fixado nos termos da regulamentação específica das medidas de apoio, emitir proposta de decisão sobre o pedido de financiamento, a submeter pelo gestor à aprovação do Ministro da Economia.
+
+3 - A decisão é notificada à entidade titular do pedido de financiamento pelos organismos coordenadores das medidas de apoio do POE.
+
+###### Artigo 14.º — Alterações às condições específicas da formação
+
+1 - As entidades titulares do pedido de financiamento devem comunicar e fundamentar as alterações introduzidas à formação aprovada, de acordo com formulário normalizado.
+
+2 - No caso de mudança de domicílio ou de conta bancária específica, a entidade titular do pedido de financiamento deve comunicar aos organismos gestores da componente formação tais factos no prazo de 30 dias.
+
+###### Artigo 15.º — Contagem de prazos
+
+Os prazos previstos no presente diploma contam-se por dias seguidos, excepto quando seja explicitamente referida contagem diferente, sem prejuízo do estabelecido nos diplomas específicos que regulamentam as medidas de apoio do POE para os quais seja feita remissão.
+
+###### Artigo 16.º — Período transitório
+
+1 - Os pedidos de financiamento para a realização da formação ao abrigo da presente medida que sejam apresentados no prazo máximo de 60 dias úteis após a entrada em vigor deste Regulamento podem beneficiar do disposto no capítulo VIII do Decreto Regulamentar n.º 12-A/2000, de 15 de Setembro, quando complementarem candidaturas de projectos integrados já apresentadas à data da entrada em vigor do presente Regulamento.
+
+###### Artigo 17.º — Disposições transitórias para a formação tecnológica
+
+1 - A condição específica de acesso constante da alínea b) do n.º 3 do artigo 6.º não se aplica à formação tecnológica prevista na alínea c) do artigo 2.º relativamente aos cursos que se iniciem até 30 de Junho de 2001.
+
+2 - Não estão abrangidas pelo número anterior as regras relativas às condições de acesso dos candidatos, à estrutura curricular e às cargas horárias fixadas para as respectivas componentes e duração dos cursos, bem como quanto ao sistema de avaliação dos formandos, devendo todos os cursos promovidos pelas escolas tecnológicas que se candidatem aos apoios previstos no presente Regulamento cumprir as disposições sobre estas matérias que constam das portarias conjuntas que regulamentam os cursos de especialização tecnológica que conferem qualificação profissional do nível 4 e os cursos que conferem qualificação profissional do nível 3.
+
+###### Artigo 18.º — Disposições subsidiárias
+
+Em tudo o que não se encontrar expressamente regulado no presente Regulamento, será aplicável o disposto no Decreto Regulamentar n.º 12-A/2000, de 15 de Setembro, na Portaria n.º 799-B/2000 e no Despacho Normativo n.º 42-B/2000, ambos de 20 de Setembro, que regulamentam os apoios às acções a financiar pelo FSE, e ainda na portaria que regulamenta o sistema nacional de acreditação, e no Decreto-Lei n.º 70-B/2000, de 5 de Maio, que aprova o enquadramento para a criação de um conjunto de instrumentos de política de acção económica, e ainda o disposto nos regimes legais dele decorrentes.

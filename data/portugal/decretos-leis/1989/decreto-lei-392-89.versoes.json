@@ -1,0 +1,181 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:549988:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-152945390",
+ "dre_path": "/dr/detalhe/decreto-lei/392-1989-549988",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1989-11-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "152952863",
+    "152945515",
+    "152945516"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:392037:por",
+     "title": "Decreto-Lei n.º 243/99",
+     "published": "1999-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/243-1999-392037",
+     "date": "1990-06-29"
+    }
+   ]
+  },
+  {
+   "date": "1998-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223010:por",
+     "title": "Decreto-Lei n.º 334/98",
+     "published": "1998-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/334-1998-223010"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "152952778",
+    "152952779",
+    "152952780",
+    "152952781"
+   ]
+  },
+  {
+   "date": "1999-03-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:150951:por",
+     "title": "Resolução da Assembleia da República n.º 15/99",
+     "published": "1999-03-03",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-republica/15-1999-150951"
+    }
+   ],
+   "changes": [
+    "Repoe em Vigor Diploma"
+   ],
+   "fragments": [
+    "152952782",
+    "152952783",
+    "152952784",
+    "152952785"
+   ]
+  }
+ ],
+ "fragments": {
+  "152952863": {
+   "fragment_id": "152945391",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1990-06-29",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 392/89\n\nde 9 de Novembro\n\nA Junta Autónoma dos Portos do Centro foi criada pelo Decreto-Lei n.º 217/85, de 1 de Julho, permanecendo até agora em regime de instalação, sucessivamente prorrogado pelos Decretos-Leis n.os 53/86, de 14 de Março, 248-A/87, de 19 de Junho, e 410/88, de 9 de Novembro.\n\nO regime de instalação justificou-se pela necessidade de assegurar o desenvolvimento da nova Junta Autónoma e pela reestruturação institucional do sector público portuário promovida pelo Decreto-Lei n.º 348/86, de 16 de Outubro, que, no que se refere às juntas autónomas dos portos, previu, no seu artigo 18.º, que fossem elaborados estudos de viabilidade económica das respectivas explorações, no intuito de verificar da possibilidade da sua transformação em administrações de portos.\n\nAnalisadas as situações das sete juntas autónomas dos portos do continente, concluiu-se pela viabilidade da transformação das Juntas Autónomas dos Portos de Setúbal, Aveiro e Figueira da Foz, a curto ou médio prazo, em administrações de portos.\n\nPelo contrário, resultou da análise efectuada que as Juntas Autónomas dos Portos do Norte, Centro, Barlavento do Algarve e Sotavento do Algarve não justificarão, senão eventualmente a longo prazo, a sua transformação em administrações portuárias.\n\nDefinida esta situação, importa, contudo, dotar as quatro juntas autónomas dos portos, que ficarão com esse estatuto, de um novo regime jurídico que lhes dê melhores condições de gestão, desfasado que se encontra da realidade o Estatuto actualmente em vigor, datado de 1950.\n\nA Direcção-Geral de Portos, futuro Instituto Nacional de Portos e Costas Marítimas, tem já em preparação o novo estatuto para as juntas autónomas dos portos, bem como um novo tarifário que o completará.\n\nNeste quadro, estima-se como oportuno manter o regime de instalação actual da Junta Autónoma dos Portos do Centro até publicação do novo estatuto referido.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 11.º, Decreto-Lei n.º 243/99 - Diário da República n.º 148/1999, Série I-A de 1999-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-1999-392037) Mantêm a sua validade as normas e regulamentos em vigor no âmbito das Juntas Autónomas do Porto da Figueira da Foz e dos Portos do Centro, bem como no âmbito do INPP, em tudo quanto não contrarie o presente diploma e os Estatutos anexos"
+  },
+  "152945515": {
+   "fragment_id": "152945392",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É prorrogado, até à entrada em vigor do novo estatuto das juntas autónomas dos portos, o período de instalação da Junta Autónoma dos Portos do Centro (JAPC), previsto no artigo 10.º do Decreto-Lei n.º 217/85, de 1 de Julho, sucessivamente prorrogado pelos Decretos-Leis n.os 53/86, de 14 de Março, 248-A/87, de 19 de Junho, e 410/88, de 9 de Novembro.\n\n2 - Até ao termo do período de instalação referido no número anterior, mantém-se em funções, com as competências previstas nos artigos 10.º e 11.º do Decreto-Lei n.º 217/85, de 1 de Julho, a actual comissão instaladora, nomeada ao abrigo do Decreto-Lei n.º 410/88, de 9 de Novembro."
+  },
+  "152945516": {
+   "fragment_id": "152945393",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA prorrogação do período de instalação produz efeitos desde 1 de Julho de 1989."
+  },
+  "152952778": {
+   "fragment_id": "152945391",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1998-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+   ],
+   "markdown": "Decreto-Lei n.º 392/89\n\nde 9 de Novembro\n\nA Junta Autónoma dos Portos do Centro foi criada pelo Decreto-Lei n.º 217/85, de 1 de Julho, permanecendo até agora em regime de instalação, sucessivamente prorrogado pelos Decretos-Leis n.os 53/86, de 14 de Março, 248-A/87, de 19 de Junho, e 410/88, de 9 de Novembro.\n\nO regime de instalação justificou-se pela necessidade de assegurar o desenvolvimento da nova Junta Autónoma e pela reestruturação institucional do sector público portuário promovida pelo Decreto-Lei n.º 348/86, de 16 de Outubro, que, no que se refere às juntas autónomas dos portos, previu, no seu artigo 18.º, que fossem elaborados estudos de viabilidade económica das respectivas explorações, no intuito de verificar da possibilidade da sua transformação em administrações de portos.\n\nAnalisadas as situações das sete juntas autónomas dos portos do continente, concluiu-se pela viabilidade da transformação das Juntas Autónomas dos Portos de Setúbal, Aveiro e Figueira da Foz, a curto ou médio prazo, em administrações de portos.\n\nPelo contrário, resultou da análise efectuada que as Juntas Autónomas dos Portos do Norte, Centro, Barlavento do Algarve e Sotavento do Algarve não justificarão, senão eventualmente a longo prazo, a sua transformação em administrações portuárias.\n\nDefinida esta situação, importa, contudo, dotar as quatro juntas autónomas dos portos, que ficarão com esse estatuto, de um novo regime jurídico que lhes dê melhores condições de gestão, desfasado que se encontra da realidade o Estatuto actualmente em vigor, datado de 1950.\n\nA Direcção-Geral de Portos, futuro Instituto Nacional de Portos e Costas Marítimas, tem já em preparação o novo estatuto para as juntas autónomas dos portos, bem como um novo tarifário que o completará.\n\nNeste quadro, estima-se como oportuno manter o regime de instalação actual da Junta Autónoma dos Portos do Centro até publicação do novo estatuto referido.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+  },
+  "152952779": {
+   "fragment_id": "152945392",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1998-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É prorrogado, até à entrada em vigor do novo estatuto das juntas autónomas dos portos, o período de instalação da Junta Autónoma dos Portos do Centro (JAPC), previsto no artigo 10.º do Decreto-Lei n.º 217/85, de 1 de Julho, sucessivamente prorrogado pelos Decretos-Leis n.os 53/86, de 14 de Março, 248-A/87, de 19 de Junho, e 410/88, de 9 de Novembro.\n\n2 - Até ao termo do período de instalação referido no número anterior, mantém-se em funções, com as competências previstas nos artigos 10.º e 11.º do Decreto-Lei n.º 217/85, de 1 de Julho, a actual comissão instaladora, nomeada ao abrigo do Decreto-Lei n.º 410/88, de 9 de Novembro.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+  },
+  "152952780": {
+   "fragment_id": "152945393",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1998-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA prorrogação do período de instalação produz efeitos desde 1 de Julho de 1989.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+  },
+  "152952781": {
+   "fragment_id": "152945394",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1998-11-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 26 de Outubro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Outubro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+  },
+  "152952782": {
+   "fragment_id": "152945391",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1999-03-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08",
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Resolução da Assembleia da República n.º 15/99 - Diário da República n.º 52/1999, Série I-A de 1999-03-03](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-1999-150951), em vigor a partir de 1999-03-08"
+   ],
+   "markdown": "Decreto-Lei n.º 392/89\n\nde 9 de Novembro\n\nA Junta Autónoma dos Portos do Centro foi criada pelo Decreto-Lei n.º 217/85, de 1 de Julho, permanecendo até agora em regime de instalação, sucessivamente prorrogado pelos Decretos-Leis n.os 53/86, de 14 de Março, 248-A/87, de 19 de Junho, e 410/88, de 9 de Novembro.\n\nO regime de instalação justificou-se pela necessidade de assegurar o desenvolvimento da nova Junta Autónoma e pela reestruturação institucional do sector público portuário promovida pelo Decreto-Lei n.º 348/86, de 16 de Outubro, que, no que se refere às juntas autónomas dos portos, previu, no seu artigo 18.º, que fossem elaborados estudos de viabilidade económica das respectivas explorações, no intuito de verificar da possibilidade da sua transformação em administrações de portos.\n\nAnalisadas as situações das sete juntas autónomas dos portos do continente, concluiu-se pela viabilidade da transformação das Juntas Autónomas dos Portos de Setúbal, Aveiro e Figueira da Foz, a curto ou médio prazo, em administrações de portos.\n\nPelo contrário, resultou da análise efectuada que as Juntas Autónomas dos Portos do Norte, Centro, Barlavento do Algarve e Sotavento do Algarve não justificarão, senão eventualmente a longo prazo, a sua transformação em administrações portuárias.\n\nDefinida esta situação, importa, contudo, dotar as quatro juntas autónomas dos portos, que ficarão com esse estatuto, de um novo regime jurídico que lhes dê melhores condições de gestão, desfasado que se encontra da realidade o Estatuto actualmente em vigor, datado de 1950.\n\nA Direcção-Geral de Portos, futuro Instituto Nacional de Portos e Costas Marítimas, tem já em preparação o novo estatuto para as juntas autónomas dos portos, bem como um novo tarifário que o completará.\n\nNeste quadro, estima-se como oportuno manter o regime de instalação actual da Junta Autónoma dos Portos do Centro até publicação do novo estatuto referido.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Resolução da Assembleia da República n.º 15/99 - Diário da República n.º 52/1999, Série I-A de 1999-03-03](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-1999-150951), em vigor a partir de 1999-03-08"
+  },
+  "152952783": {
+   "fragment_id": "152945392",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1999-03-08",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Resolução da Assembleia da República n.º 15/99 - Diário da República n.º 52/1999, Série I-A de 1999-03-03](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-1999-150951), em vigor a partir de 1999-03-08",
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É prorrogado, até à entrada em vigor do novo estatuto das juntas autónomas dos portos, o período de instalação da Junta Autónoma dos Portos do Centro (JAPC), previsto no artigo 10.º do Decreto-Lei n.º 217/85, de 1 de Julho, sucessivamente prorrogado pelos Decretos-Leis n.os 53/86, de 14 de Março, 248-A/87, de 19 de Junho, e 410/88, de 9 de Novembro.\n\n2 - Até ao termo do período de instalação referido no número anterior, mantém-se em funções, com as competências previstas nos artigos 10.º e 11.º do Decreto-Lei n.º 217/85, de 1 de Julho, a actual comissão instaladora, nomeada ao abrigo do Decreto-Lei n.º 410/88, de 9 de Novembro.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Resolução da Assembleia da República n.º 15/99 - Diário da República n.º 52/1999, Série I-A de 1999-03-03](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-1999-150951), em vigor a partir de 1999-03-08\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+  },
+  "152952784": {
+   "fragment_id": "152945393",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1999-03-08",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Resolução da Assembleia da República n.º 15/99 - Diário da República n.º 52/1999, Série I-A de 1999-03-03](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-1999-150951), em vigor a partir de 1999-03-08",
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA prorrogação do período de instalação produz efeitos desde 1 de Julho de 1989.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Resolução da Assembleia da República n.º 15/99 - Diário da República n.º 52/1999, Série I-A de 1999-03-03](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-1999-150951), em vigor a partir de 1999-03-08\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+  },
+  "152952785": {
+   "fragment_id": "152945394",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "1999-03-08",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Resolução da Assembleia da República n.º 15/99 - Diário da República n.º 52/1999, Série I-A de 1999-03-03](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-1999-150951), em vigor a partir de 1999-03-08",
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins.\n\nPromulgado em 26 de Outubro de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Outubro de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Resolução da Assembleia da República n.º 15/99 - Diário da República n.º 52/1999, Série I-A de 1999-03-03](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/15-1999-150951), em vigor a partir de 1999-03-08\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 334/98 - Diário da República n.º 254/1998, Série I-A de 1998-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-1998-223010), em vigor a partir de 1998-11-08"
+  }
+ }
+}

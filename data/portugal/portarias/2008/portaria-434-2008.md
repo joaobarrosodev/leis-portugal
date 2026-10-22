@@ -1,0 +1,526 @@
+---
+schema_version: '1.0'
+id: pt:dre:449444:por
+title: Portaria n.º 434/2008
+short_title: null
+summary: Define a estrutura dos comandos territoriais de polícia e aprova as respectivas subunidades
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 434/2008
+official_date: null
+publication_date: '2008-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/2008, Série I de 2008-06-18
+  number: '116'
+  series: I
+  supplement: null
+  pages: 3488 - 3491
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11600/0348803491.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-09-10'
+version_history:
+  file: portaria-434-2008.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-06-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-10-02'
+    amending: pt:dre:396944:por
+    amending_title: Portaria n.º 2/2009
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+  - date: '2009-10-13'
+    amending: pt:dre:491232:por
+    amending_title: Portaria n.º 1195/2009
+    changes:
+    - Altera Anexo III
+  - date: '2019-10-02'
+    amending: pt:dre:125028209:por
+    amending_title: Portaria n.º 340/2019
+    changes:
+    - Altera Anexo II
+    - Altera Anexo III
+  - date: '2023-11-18'
+    amending: pt:dre:224462298:por
+    amending_title: Portaria n.º 379-C/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Revoga Artigo 5.º
+  - date: '2025-09-10'
+    amending: pt:dre:934502554:por
+    amending_title: Portaria n.º 304/2025/1
+    changes:
+    - Adita Artigo 7.º
+    - Altera Artigo 1.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/434/2008/p/cons/20250909/pt/html
+  oj: null
+  dre: '449444'
+  dre_path: /dr/detalhe/portaria/434-2008-449444
+  internal: pt:dre:449444:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/434-2008-449444
+  metadata_url: https://data.dre.pt/eli/port/434/2008/p/cons/20250909/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-125035377
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-125035377
+  retrieved_at: '2026-10-22T12:29:18Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4ec234ff1cd210e7d0c70d0d659176b4e33143eb22b313b84d62e398add0490a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:29:18Z'
+  notes: 6 versão(ões); histórico completo em portaria-434-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Comando Metropolitano
+- Comando Regional
+- Comando Territorial
+- Definição de Competências
+- Orgânica
+- Madeira.região Autónoma
+- Açores
+- Unidade Especial de Polícia
+- Unidade Territorial
+relationships:
+- type: amended_by
+  target: pt:dre:396944:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Anexo I; Altera Anexo II; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/2-2009-396944
+  date: '2009-01-02'
+- type: amended_by
+  target: pt:dre:491232:por
+  label: Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1195-2009-491232
+  date: '2009-10-08'
+- type: amended_by
+  target: pt:dre:125028209:por
+  label: Altera Anexo II; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/340-2019-125028209
+  date: '2019-10-01'
+- type: amended_by
+  target: pt:dre:224462298:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 6.º; Altera Anexo I; Altera Anexo II; Altera
+    Anexo III; Revoga Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/379-c-2023-224462298
+  date: '2023-11-17'
+- type: amended_by
+  target: pt:dre:934502554:por
+  label: Adita Artigo 7.º; Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/304-2025-934502554
+  date: '2025-09-09'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/53/2007/08/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2007/08/31/p/dre
+article_structure:
+  article_count: 7
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:29:18Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 434/2008
+
+Portaria n.º 434/2008
+
+de 18 de Junho
+
+A Lei n.º 53/2007, de 31 de Agosto, relativa à orgânica da Polícia de Segurança Pública (PSP), determina nos artigos 48.º e 49.º que a criação, a extinção e o funcionamento dos serviços e subunidades das unidades de polícia são determinados por portaria do Ministro da Administração Interna.
+
+Deste modo, aprovam-se as subunidades operacionais dos comandos territoriais de polícia e, bem assim, as linhas gerais de organização dos respectivos serviços.
+
+Quanto à organização das subunidades, os comandos territoriais são estruturados em dois modelos:
+
+a) Comandos territoriais/divisões/esquadras, aplicável aos comandos metropolitanos e regionais de polícia e aos comandos distritais de maior complexidade, em que o comando é organizado territorialmente em uma, duas ou mais divisões e as esquadras são, em regra, distribuídas pelas divisões criadas e colocadas na respectiva dependência;
+
+b) Comandos territoriais/esquadras, aplicável aos restantes comandos distritais, em que o comando é organizado em esquadras.
+
+Os serviços dos comandos territoriais, embora possam vir a ser diferenciados em função da complexidade dos mesmos, são organizados numa área operacional e numa área de apoio.
+
+Assim:
+
+Ao abrigo dos artigos 48.º e 49.º da Lei n.º 53/2007, de 31 de Agosto, manda o Governo, pelo Ministro da Administração Interna, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A presente portaria estabelece:
+
+a) A estrutura dos comandos territoriais de polícia e as respetivas subunidades;
+
+b) A estrutura de serviços da Unidade Especial de Polícia (UEP) da Polícia de Segurança Pública (PSP) e das respetivas subunidades operacionais;
+
+c) A estrutura de serviços da Unidade Nacional de Estrangeiros e Fronteiras (UNEF) na PSP e das respetivas unidades regionais e subunidades operacionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 304/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/304-2025-934502554), em vigor a partir de 2025-09-10
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-C/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-c-2023-224462298), em vigor a partir de 2023-11-18
+
+###### Artigo 2.º — Estrutura dos comandos territoriais de polícia
+
+1 - Os comandos territoriais de polícia compreendem o comando, os serviços e as subunidades.
+
+2 - Os serviços dos comandos territoriais estruturam-se em área operacional e em área de apoio operacional.
+
+3 - Compete à área operacional assessorar, planear e coordenar os serviços de operações, segurança pública, vigilância e controlo de fronteira aérea, quando aplicável, informações policiais, investigação criminal, trânsito, polícia administrativa, armas e explosivos e segurança privada, no sentido de apoiar o comando na sua função de comando e controlo.
+
+4 - Compete à área de apoio operacional assessorar, planear e coordenar a gestão dos recursos humanos, materiais, financeiros e tecnológicos do comando territorial com vista ao cumprimento da missão.
+
+5 - As subunidades compreendem a divisão policial, a esquadra de polícia e, na dependência destas últimas, as áreas de atendimento policial.
+
+6 - As áreas de atendimento policial são criadas por despacho do diretor nacional em função de critérios de natureza operacional, sendo as suas funções exclusivamente dirigidas ao atendimento ao público.
+
+7 - Por despacho do diretor nacional da PSP e em função da dimensão e complexidade funcional do comando territorial de polícia, é fixada:
+
+a) A estrutura dos serviços dos comandos territoriais, designados por gabinetes, núcleos, secções e subsecções, que integram as áreas funcionais dos comandos territoriais de polícia, bem como as respetivas competências e os postos ou categorias dos cargos de chefia, coordenação ou supervisão;
+
+b) A estrutura de serviços das subunidades dos comandos territoriais, bem como as respetivas competências e os postos ou categorias dos cargos de chefia, coordenação ou supervisão.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-C/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-c-2023-224462298), em vigor a partir de 2023-11-18
+
+###### Artigo 3.º — Subunidades dos comandos territoriais de polícia
+
+1 - As subunidades que integram o dispositivo territorial dos comandos regionais de polícia são as constantes do anexo i à presente portaria, da qual faz parte integrante.
+
+2 - As subunidades que integram o dispositivo territorial dos comandos distritais de polícia são as constantes do anexo ii à presente portaria, da qual faz parte integrante.
+
+3 - As subunidades que integram o dispositivo territorial dos comandos metropolitanos de polícia de Lisboa e do Porto são as constantes do anexo iii à presente portaria, da qual faz parte integrante.
+
+4 - Por despacho do diretor nacional, podem ser colocadas sob um único comando, com unidades de efetivo e área de apoio operacional única, esquadras da mesma divisão policial que tenham a responsabilidade pelo policiamento de áreas territoriais contíguas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-C/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-c-2023-224462298), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 2/2009 - Diário da República n.º 1/2009, Série I de 2009-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2009-396944), em vigor a partir de 2009-10-02
+
+###### Artigo 4.º — Serviços partilhados
+
+Na organização da PSP é promovida a partilha de serviços para optimização dos recursos, nos termos a definir por despacho do director nacional, sem prejuízo das competências próprias ou delegadas dos dirigentes das unidades orgânicas.
+
+###### Artigo 5.º — Subunidades operacionais
+
+1 - As subunidades que constituem o dispositivo territorial dos comandos regionais de polícia são as constantes do anexo i à presente portaria, da qual faz parte integrante.
+
+2 - As subunidades que constituem o dispositivo territorial dos comandos distritais de polícia são as constantes do anexo ii à presente portaria, da qual faz parte integrante.
+
+3 - As subunidades que constituem o dispositivo territorial dos comandos metropolitanos de polícia de Lisboa e do Porto são as constantes do anexo iii à presente portaria, da qual faz parte integrante.
+
+4 - Por despacho do director nacional, podem ser colocadas sob um único comando, com unidades de efectivo e área de apoio operacional única, esquadras da mesma divisão policial que tenham a responsabilidade pelo policiamento de áreas territoriais contíguas.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 379-C/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-c-2023-224462298), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 2/2009 - Diário da República n.º 1/2009, Série I de 2009-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2009-396944), em vigor a partir de 2009-10-02
+
+###### Artigo 6.º — Estrutura da Unidade Especial de Polícia
+
+1 - A Unidade Especial de Polícia (UEP) compreende o comando, os serviços e as subunidades operacionais.
+
+2 - Os serviços da UEP estruturam-se em área operacional e em área de apoio operacional.
+
+3 - Compete à área operacional assessorar, planear e coordenar a atividade desenvolvida pelas subunidades operacionais que a integram;
+
+4 - Compete à área de apoio operacional assegurar o enquadramento logístico-administrativo da UEP e das suas subunidades operacionais, bem como a gestão partilhada dos seus recursos.
+
+5 - Por despacho do diretor nacional da PSP, é estabelecida a estrutura da área operacional e da área de apoio operacional, bem como as atividades de suporte a serem prestadas pelo Departamento de Apoio Geral da Direção Nacional da PSP.
+
+6 - As subunidades operacionais da UEP, na sua estrutura de serviços, dispõem apenas de área operacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 379-C/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-c-2023-224462298), em vigor a partir de 2023-11-18
+
+###### Artigo 7.º — Unidade Nacional de Estrangeiros e Fronteiras
+
+1 - A UNEF compreende a direção, os serviços, as unidades centrais, as unidades regionais e as subunidades operacionais.
+
+2 - Os serviços asseguram as funções de coordenação e cooperação operacional, de apoio à decisão da direção, as funções de apoio transversal, de sustentação e suporte da UNEF e são assegurados por unidades flexíveis, com a organização que seja definida por despacho do diretor nacional da PSP.
+
+3 - As unidades centrais são as previstas na Portaria n.º 383/2008, de 29 de maio.
+
+4 - As unidades regionais correspondem à delimitação das NUTS nível ii, a que se refere o anexo i do Decreto-Lei n.º 46/89, de 15 de fevereiro, na sua redação atual, e asseguram o comando das subunidades operacionais de fiscalização de permanência de estrangeiros em território nacional, desenvolvendo as suas competências em articulação com os comandos metropolitanos, regionais e distritais, e a participação em equipas multidisciplinares de combate aos fenómenos associados à imigração ilegal e cooperação com outros serviços públicos e privados no plano da integração.
+
+5 - As unidades regionais e as subunidades locais, na sua estrutura de serviços dispõem apenas de área operacional.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 304/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/304-2025-934502554), em vigor a partir de 2025-09-10
+
+O Ministro da Administração Interna, Rui Carlos Pereira, em 9 de Junho de 2008.
+
+## Anexo I — Comando Regional dos Açores
+
+Comando Regional dos Açores
+
+a) Divisão Policial de Ponta Delgada, que integra as seguintes subunidades operacionais: Esquadra de Capelas, Esquadra das Furnas, Esquadra da Lagoa, Esquadra da Maia, Esquadra do Nordeste, Esquadra de Ponta Delgada, Esquadra de Povoação, Esquadra de Rabo de Peixe, Esquadra da Ribeira Grande, Esquadra de Vila Franca do Campo, Esquadra de Vila do Porto, Esquadra de Trânsito de Ponta Delgada, Esquadra de Investigação Criminal de Ponta Delgada e Esquadra de Intervenção e Fiscalização Policial de Ponta Delgada;
+
+b) Divisão Policial de Angra do Heroísmo, que integra as seguintes subunidades operacionais: Esquadra de Angra do Heroísmo, Esquadra de Biscoitos, Esquadra da Calheta, Esquadra de Santa Cruz da Graciosa, Esquadra de Velas, Esquadra da Vila da Praia da Vitória, Esquadra de Trânsito de Angra do Heroísmo, Esquadra de Investigação Criminal de Angra do Heroísmo e Esquadra de Intervenção e Fiscalização Policial de Angra do Heroísmo;
+
+c) Divisão Policial da Horta, que integra as seguintes subunidades operacionais: Esquadra da Horta, Esquadra de Lajes das Flores, Esquadra de Lajes do Pico, Esquadra de Madalena do Pico, Esquadra de São Roque do Pico, Esquadra de Santa Cruz das Flores, Esquadra do Corvo, Esquadra de Trânsito da Horta, Esquadra de Investigação Criminal da Horta e Esquadra de Intervenção e Fiscalização Policial da Horta;
+
+d) Divisão de Segurança Aeroportuária e Controlo Fronteiriço do Comando Regional da PSP dos Açores, que integra as seguintes subunidades operacionais:
+
+i) No Aeroporto João Paulo II: Esquadra de Segurança Aeroportuária e Esquadra de Controlo Fronteiriço;
+
+ii) Na Aerogare Civil das Lages: Esquadra de Segurança Aeroportuária e Controlo Fronteiriço;
+
+iii) No Aeroporto da Horta: Esquadra de Segurança Aeroportuária e Controlo Fronteiriço;
+
+iv) No Aeroporto da Ilha de Santa Maria: Esquadra de Segurança Aeroportuária e Controlo Fronteiriço.
+
+Comando Regional da Madeira
+
+a) Divisão Policial do Funchal, que integra as seguintes subunidades operacionais: 1.ª Esquadra do Funchal, 2.ª Esquadra do Funchal, Esquadra de Trânsito do Funchal, Esquadra de Investigação Criminal do Funchal e Esquadra de Intervenção e Fiscalização Policial do Funchal;
+
+b) Divisão Policial do Machico, que integra as seguintes subunidades operacionais: Esquadra do Machico, Esquadra de Porto Santo, Esquadra de Santa Cruz, Esquadra de Santana, Esquadra de Trânsito do Machico, Esquadra de Investigação Criminal do Machico e Esquadra de Intervenção e Fiscalização Policial do Machico;
+
+c) Divisão Policial de Câmara de Lobos, que integra as seguintes subunidades operacionais: Esquadra da Calheta, Esquadra de Câmara de Lobos, Esquadra de Ponta do Sol, Esquadra de Porto Moniz, Esquadra da Ribeira Brava, Esquadra de São Vicente, Esquadra de Trânsito de Câmara de Lobos, Esquadra de Investigação Criminal de Câmara de Lobos e Esquadra de Intervenção e Fiscalização Policial de Câmara de Lobos;
+
+d) Divisão de Segurança Aeroportuária e Controlo Fronteiriço do Comando Regional da Madeira, que integra as seguintes Esquadras de Polícia:
+
+i) No Aeroporto Cristiano Ronaldo: Esquadra de Segurança Aeroportuária e Esquadra de Controlo Fronteiriço;
+
+ii) No Aeroporto de Porto Santo: Esquadra de Segurança Aeroportuária e de Controlo Fronteiriço.
+
+> Nota: [Artigo 4.º, Portaria n.º 304/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/304-2025-934502554) As referências a Divisões e Esquadras de Segurança e Controlo Fronteiriço consideram-se reportadas às novas subunidades a assumir pela Unidade Nacional de Estrangeiros e Fronteiras (UNEF).
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 379-C/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-c-2023-224462298), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2009 - Diário da República n.º 1/2009, Série I de 2009-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2009-396944), em vigor a partir de 2009-10-02
+
+## Anexo II — Comando Distrital de Aveiro
+
+Comando Distrital de Aveiro
+
+a) Divisão Policial de Aveiro, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Aveiro, 2.ª Esquadra de Aveiro, Esquadra de Trânsito de Aveiro, Esquadra de Investigação Criminal de Aveiro e Esquadra de Intervenção e Fiscalização Policial de Aveiro.
+
+b) Divisão Policial de Espinho, que integra as seguintes subunidades operacionais: Esquadra de Espinho, Esquadra de Ovar, Esquadra de São João da Madeira, Esquadra de Santa Maria da Feira, Esquadra de Trânsito de Espinho, Esquadra de Investigação Criminal de Espinho e Esquadra de Intervenção e Fiscalização Policial de Espinho.
+
+Comando Distrital de Beja
+
+a) Divisão Policial de Beja, que integra as seguintes Esquadras de Polícia: Esquadra de Beja, Esquadra de Trânsito de Beja, Esquadra de Investigação Criminal de Beja, Esquadra de Intervenção e Fiscalização Policial de Beja, Esquadra de Segurança Aeroportuária e Controlo Fronteiriço no Aeroporto de Beja;
+
+b) Esquadra de Moura.
+
+Comando Distrital de Braga
+
+a) 1.ª Divisão Policial, com sede em Braga, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Braga, 2.ª Esquadra de Braga, Esquadra de trânsito de Braga, Esquadra de Barcelos e Esquadra de Investigação Criminal da 1.ª Divisão Policial.
+
+b) 2.ª Divisão Policial, com sede em Guimarães, que integra as seguintes subunidades operacionais: Esquadra de Guimarães, Esquadra de Trânsito de Guimarães, Esquadra de Vila Nova de Famalicão e Esquadra de Investigação Criminal da 2.ª Divisão Policial.
+
+Comando Distrital de Bragança
+
+a) Divisão Policial de Bragança, que integra as seguintes Esquadras de Polícia: Esquadra de Bragança, Esquadra de Trânsito de Bragança, Esquadra de Investigação Criminal de Bragança, Esquadra de Intervenção e Fiscalização Policial de Bragança;
+
+b) Esquadra de Mirandela.
+
+Comando Distrital de Castelo Branco
+
+a) Divisão Policial de Castelo Branco, que integra as seguintes Esquadras de Polícia: Esquadra de Castelo Branco, Esquadra de Trânsito de Castelo Branco, Esquadra de Investigação Criminal de Castelo Branco e Esquadra de Intervenção e Fiscalização Policial de Castelo Branco;
+
+b) Divisão Policial da Covilhã, que integra as seguintes subunidades operacionais: Esquadra da Covilhã, Esquadra de Trânsito da Covilhã, Esquadra de Investigação Criminal da Covilhã e Esquadra de Intervenção e Fiscalização Policial da Covilhã.
+
+Comando Distrital de Coimbra
+
+a) Divisão Policial de Coimbra, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Coimbra, 2.ª Esquadra de Coimbra, Esquadra de Trânsito de Coimbra, Esquadra de Investigação Criminal de Coimbra e Esquadra de Intervenção e Fiscalização Policial de Coimbra.
+
+b) Divisão Policial da Figueira da Foz, que integra as seguintes subunidades operacionais: Esquadra da Figueira da Foz, Esquadra de Trânsito da Figueira da Foz, Esquadra de Investigação Criminal da Figueira da Foz e Esquadra de Intervenção e Fiscalização Policial da Figueira da Foz.
+
+Comando Distrital de Évora
+
+a) Divisão Policial de Évora, que integra as seguintes Esquadras de Polícia: Esquadra de Évora, Esquadra de Trânsito de Évora, Esquadra de Investigação Criminal de Évora e Esquadra de Intervenção e Fiscalização Policial de Évora.
+
+b) Esquadra de Estremoz.
+
+Comando Distrital de Faro
+
+a) Divisão Policial de Faro, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Faro, 2.ª Esquadra de Faro, Esquadra de Olhão, Esquadra de Tavira, Esquadra de Vila Real de Santo António, Esquadra de Trânsito de Faro, Esquadra de Investigação Criminal de Faro e Esquadra de Intervenção e Fiscalização Policial de Faro.
+
+b) Divisão Policial de Portimão, que integra as seguintes subunidades operacionais: Esquadra de Portimão, Esquadra de Lagos, Esquadra de Trânsito de Portimão, Esquadra de Investigação Criminal de Portimão e Esquadra de Intervenção e Fiscalização Policial de Portimão.
+
+c) Divisão de Segurança Aeroportuária e Controlo Fronteiriço no Aeroporto Gago Coutinho, que integra as seguintes Esquadras de Polícia: Esquadra de Segurança Aeroportuária; Esquadra de Controlo Fronteiriço e Esquadra de Intervenção e Fiscalização Policial Aeroportuária.
+
+Comando Distrital da Guarda
+
+a) Divisão Policial da Guarda, que integra as seguintes Esquadras de Polícia: Esquadra da Guarda, Esquadra de Trânsito da Guarda, Esquadra de Investigação Criminal da Guarda e Esquadra de Intervenção e Fiscalização Policial da Guarda;
+
+b) Esquadra de Gouveia.
+
+Comando Distrital de Leiria
+
+a) Divisão Policial de Leiria, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Leiria, 2.ª Esquadra de Leiria, Esquadra da Marinha Grande, Esquadra de Pombal, Esquadra de Trânsito de Leiria, Esquadra de Investigação Criminal de Leiria e Esquadra de Intervenção e Fiscalização Policial de Leiria.
+
+b) Divisão Policial das Caldas da Rainha, que integra as seguintes subunidades operacionais: Esquadra de Alcobaça, Esquadra das Caldas da Rainha, Esquadra de Nazaré, Esquadra de Peniche, Esquadra de Trânsito das Caldas da Rainha, Esquadra de Investigação Criminal das Caldas da Rainha e Esquadra de Intervenção e Fiscalização Policial das Caldas da Rainha.
+
+Comando Distrital de Portalegre
+
+a) Divisão Policial de Portalegre, que integra as seguintes Esquadras de Polícia: Esquadra de Portalegre, Esquadra de Trânsito de Portalegre, Esquadra de Investigação Criminal de Portalegre e Esquadra de Intervenção e Fiscalização Policial de Portalegre;
+
+b) Divisão Policial de Elvas, que integra as seguintes subunidades operacionais: Esquadra de Elvas, Esquadra de Trânsito de Elvas, Esquadra de Investigação Criminal de Elvas e Esquadra de Intervenção e Fiscalização Policial de Elvas.
+
+Comando Distrital de Santarém
+
+a) Divisão Policial de Santarém, que integra as seguintes subunidades operacionais: Esquadra do Cartaxo, Esquadra de Santarém, Esquadra de Trânsito de Santarém, Esquadra de Investigação Criminal de Santarém e Esquadra de Intervenção e Fiscalização Policial de Santarém.
+
+b) Divisão Policial de Tomar, que integra as seguintes subunidades operacionais: Esquadra de Abrantes, Esquadra de Entroncamento, Esquadra de Ourém, Esquadra de Tomar, Esquadra de Torres Novas, Esquadra de Trânsito de Tomar, Esquadra de Investigação Criminal de Tomar e Esquadra de Intervenção e Fiscalização Policial de Tomar.
+
+Comando Distrital de Setúbal
+
+a) Divisão Policial de Setúbal, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Setúbal, 2.ª Esquadra de Setúbal, Esquadra de Trânsito de Setúbal, Esquadra de Investigação Criminal de Setúbal e Esquadra de Intervenção e Fiscalização Policial de Setúbal.
+
+b) Divisão Policial de Almada, que integra as seguintes subunidades operacionais: Esquadra de Almada, Esquadra da Cova da Piedade, Esquadra do Laranjeiro, Esquadra de Trânsito de Almada, Esquadra de Investigação Criminal de Almada e Esquadra de Intervenção e Fiscalização Policial de Almada.
+
+c) Divisão Policial do Barreiro, que integra as seguintes subunidades operacionais: Esquadra do Barreiro, Esquadra da Baixa da Banheira, Esquadra do Lavradio, Esquadra do Montijo, Esquadra da Quinta da Lomba, Esquadra de Trânsito do Barreiro, Esquadra de Investigação Criminal do Barreiro e Esquadra de Intervenção e Fiscalização Policial do Barreiro.
+
+d) Divisão Policial do Seixal, que integra as seguintes subunidades operacionais: Esquadra de Corroios, Esquadra Cruz de Pau-Amora, Esquadra do Seixal, Esquadra Torre da Marinha, Esquadra de Trânsito do Seixal, Esquadra de Investigação Criminal do Seixal e Esquadra de Intervenção e Fiscalização Policial do Seixal.
+
+Comando Distrital de Viana do Castelo
+
+a) Divisão Policial de Viana do Castelo, que integra as seguintes Esquadras de Polícia: 1.ª Esquadra de Viana do Castelo, 2.ª Esquadra de Viana do Castelo, Esquadra de Trânsito de Viana do Castelo, Esquadra de Investigação Criminal de Viana do Castelo e Esquadra de Intervenção e Fiscalização Policial de Viana do Castelo;
+
+b) Esquadra de Ponte de Lima.
+
+Comando Distrital de Vila Real
+
+a) Divisão Policial de Vila Real, que integra as seguintes Esquadras de Polícia: Esquadra de Vila Real, Esquadra de Trânsito de Vila Real, Esquadra de Investigação Criminal de Vila Real e Esquadra de Intervenção e Fiscalização Policial de Vila Real;
+
+b) Divisão Policial de Chaves, que integra as seguintes subunidades operacionais: Esquadra de Chaves, Esquadra de Trânsito de Chaves, Esquadra de Investigação Criminal de Chaves e Esquadra de Intervenção e Fiscalização Policial de Chaves.
+
+Comando Distrital de Viseu
+
+a) Divisão Policial de Viseu, que integra as seguintes Esquadras de Polícia: Esquadra de Viseu, Esquadra de Trânsito de Viseu, Esquadra de Investigação Criminal de Viseu e Esquadra de Intervenção e Fiscalização Policial de Viseu;
+
+b) Divisão Policial de Lamego, que integra as seguintes subunidades operacionais: Esquadra de Lamego, Esquadra de Trânsito de Lamego, Esquadra de Investigação Criminal de Lamego e Esquadra de Intervenção e Fiscalização Policial de Lamego.
+
+> Nota: [Artigo 4.º, Portaria n.º 304/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/304-2025-934502554) As referências a Divisões e Esquadras de Segurança e Controlo Fronteiriço consideram-se reportadas às novas subunidades a assumir pela Unidade Nacional de Estrangeiros e Fronteiras (UNEF).
+
+> Retificado pelo/a [Declaração de Retificação n.º 29/2023 - Diário da República n.º 239/2023, Série I de 2023-12-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/29-2023-230006493), produz efeitos a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 379-C/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-c-2023-224462298), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 340/2019 - Diário da República n.º 188/2019, Série I de 2019-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/340-2019-125028209), em vigor a partir de 2019-10-02
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2009 - Diário da República n.º 1/2009, Série I de 2009-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2009-396944), em vigor a partir de 2009-10-02
+
+## Anexo III — Comando Metropolitano de Lisboa
+
+a) Esquadra de Turismo.
+
+b) 1.ª Divisão Policial da cidade de Lisboa, que integra as seguintes subunidades operacionais: 2.ª Esquadra (Praça do Comércio), 3.ª Esquadra (Bairro Alto/Mercês), 4.ª Esquadra (Praça da Alegria), 5.ª Esquadra (Boavista), 6.ª Esquadra (Mouraria), 8.ª Esquadra (Rossio), 22.ª Esquadra (Rato), Esquadra da Folgosa e Esquadra de Intervenção e Fiscalização Policial da 1.ª Divisão Policial.
+
+c) 2.ª Divisão Policial da cidade de Lisboa, que integra as seguintes subunidades operacionais: 14.ª Esquadra (Zona I/Chelas), 16.ª Esquadra (Zona J/Chelas), 34.ª Esquadra (Olivais), 38.ª Esquadra (Zona N1/Chelas), 40.ª Esquadra (Parque das Nações), Esquadra (Campus de Justiça de Lisboa/Office Park Expo) e Esquadra de Intervenção e de Fiscalização Policial da 2.ª Divisão Policial.
+
+d) 3.ª Divisão Policial da cidade de Lisboa, que integra as seguintes subunidades operacionais: 18.ª Esquadra (Campo Grande), 19.ª Esquadra (Telheiras), 20.ª Esquadra (Benfica), 21.ª Esquadra (Campolide), 31.ª Esquadra (Rego), 32.ª Esquadra (Bairro da Horta Nova), 36.ª Esquadra (Bairro Padre Cruz), 37.ª Esquadra (Serafina), 41.ª Esquadra (Musgueira), 42.ª Esquadra (Carnide), 43.ª Esquadra (Bairro da Boavista), 44.ª Esquadra (Alta de Lisboa) e Esquadra de Intervenção e Fiscalização Policial da 3.ª Divisão Policial.
+
+e) 4.ª Divisão Policial da cidade de Lisboa, que integra as seguintes subunidades operacionais: 24.ª Esquadra (Campo de Ourique), 26.ª Esquadra (Belém), 28.ª Esquadra (Calvário), 29.ª Esquadra (Bairro da Quinta da Cabrinha), 30.ª Esquadra (Lapa) e Esquadra de Intervenção e Fiscalização Policial da 4.ª Divisão Policial.
+
+f) 5.ª Divisão Policial da cidade de Lisboa, que integra as seguintes subunidades operacionais: 10.ª Esquadra (Arroios), 11.ª Esquadra (Penha de França), 12.ª Esquadra (Olaias), 15.ª Esquadra (Caminhos de Ferro) e Esquadra de Intervenção e Fiscalização Policial da 5.ª Divisão Policial.
+
+g) Divisão de Trânsito de Lisboa, que integra as seguintes subunidades operacionais: Esquadra de Apoio, Esquadra de Fiscalização Técnica, Esquadra de Motociclistas, Esquadra de Sinistralidade Rodoviária, 1.ª Esquadra de Trânsito, 2.ª Esquadra de Trânsito, 3.ª Esquadra de Trânsito e 4.ª Esquadra de Trânsito.
+
+h) Divisão de Investigação Criminal de Lisboa, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Investigação Criminal, 2.ª Esquadra de Investigação Criminal, 3.ª Esquadra de Investigação Criminal, 4.ª Esquadra de Investigação Criminal, 5.ª Esquadra de Investigação Criminal, 6.ª Esquadra de Investigação Criminal, 7.ª Esquadra de Investigação Criminal, 8.ª Esquadra de Investigação Criminal e 9.ª Esquadra de Investigação Criminal;
+
+i) A Divisão de Segurança Aeroportuária e Controlo Fronteiriço do Comando Metropolitano de Lisboa, que integra as seguintes Esquadras de Polícia:
+
+i) No Aeroporto Humberto Delgado: Esquadra de Segurança Aeroportuária, Esquadra de Controlo Fronteiriço, Esquadra de Intervenção e Fiscalização Policial Aeroportuária, Esquadra de Trânsito e Esquadra de Investigação Criminal;
+
+ii) No Aeródromo de Tires: Esquadra de Segurança Aeroportuária e Controlo Fronteiriço;
+
+j) Divisão de Segurança a Instalações de Lisboa, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Segurança às Instalações Diplomáticas, 2.ª Esquadra de Segurança às Instalações Diplomáticas, 3.ª Esquadra de Segurança às Instalações Diplomáticas, Esquadra de Segurança e Controlo, Esquadra de Segurança à Assembleia da República, Esquadra de Segurança à Casa da Moeda, Esquadra de Segurança à Presidência do Conselho de Ministros, Esquadra de Segurança à Presidência da República e Esquadra de Segurança à Residência Oficial do Primeiro-Ministro.
+
+l) Divisão de Segurança a Transportes Públicos de Lisboa, que integra as seguintes subunidades operacionais: Esquadra de Intervenção e Fiscalização Policial CP/Metro, Esquadra de Investigação Criminal CP/Metro, 1.ª Esquadra Metro (Estação Marquês de Pombal), 2.ª Esquadra CP (Monte Abraão), 3.ª Esquadra CP (Oeiras) e Esquadra da Gil Metro - Gare do Oriente/Lisboa.
+
+m) Divisão Policial da Amadora, que integra as seguintes subunidades operacionais: 60.ª Esquadra (Mina), 60.ª-A Esquadra (Casal de São Brás), 61.ª Esquadra (Reboleira), 63.ª Esquadra (Damaia), 64.ª Esquadra (Alfragide), 65.ª Esquadra (Brandoa), 65.ª-A Esquadra (Alfornelos), 67.ª Esquadra (Venda-Nova), Esquadra de Trânsito da Amadora, Esquadra de Investigação Criminal da Amadora e Esquadra de Intervenção e Fiscalização Policial da Amadora.
+
+n) Divisão Policial de Cascais, que integra as seguintes subunidades operacionais: 50.ª Esquadra (Cascais), 51.ª Esquadra (Estoril), 52.ª Esquadra (Parede), 54.ª Esquadra (Carcavelos), 56.ª Esquadra (São Domingos de Rana), Esquadra de Trânsito de Cascais, Esquadra de Investigação Criminal de Cascais, Esquadra de Turismo de Cascais e Esquadra de Intervenção e Fiscalização Policial de Cascais.
+
+o) Divisão Policial de Loures, que integra as seguintes subunidades operacionais: 35.ª Esquadra (Moscavide), 39.ª Esquadra (Sacavém), 70.ª Esquadra (Loures), 74.ª Esquadra (Torres Vedras), 76.ª Esquadra (São João da Talha), 77.ª Esquadra (Santo António dos Cavaleiros), Esquadra de Camarate, Esquadra de Trânsito de Loures, Esquadra de Investigação Criminal de Loures e Esquadra de Intervenção e Fiscalização Policial de Loures.
+
+p) Divisão Policial de Odivelas, que integra as seguintes subunidades operacionais: 71.ª Esquadra (Odivelas), 73.ª Esquadra (Pontinha), 75.ª Esquadra (Caneças), Esquadra de Trânsito de Odivelas, Esquadra de Investigação Criminal de Odivelas e Esquadra de Intervenção e Fiscalização Policial de Odivelas.
+
+q) Divisão Policial de Oeiras, que integra as seguintes subunidades operacionais: 80.ª Esquadra (Oeiras), 81.ª Esquadra (Miraflores), 82.ª Esquadra (Porto Salvo), 83.ª Esquadra (Carnaxide), 84.ª Esquadra (Caxias-Laveiras), 85.ª Esquadra (Queijas), Esquadra de Trânsito de Oeiras, Esquadra de Investigação Criminal de Oeiras e Esquadra de Intervenção e Fiscalização Policial de Oeiras.
+
+r) Divisão Policial de Sintra, que integra as seguintes subunidades operacionais: 62.ª Esquadra (Queluz), 66.ª Esquadra (Agualva-Cacém), 68.ª Esquadra (São Marcos), 69.ª Esquadra (Mem Martins), 86.ª Esquadra (Casal de Cambra), 87.ª Esquadra (Mira-Sintra), 88.ª Esquadra (Massamá), 89.ª Esquadra (Rio de Mouro), Esquadra de Trânsito de Sintra, Esquadra de Investigação Criminal de Sintra e Esquadra de Intervenção e Fiscalização Policial de Sintra.
+
+s) Divisão Policial de Vila Franca de Xira, que integra as seguintes subunidades operacionais: 90.ª Esquadra (Vila Franca de Xira), 91.ª Esquadra (Alverca do Ribatejo), 92.ª Esquadra (Alhandra), 93.ª Esquadra (Póvoa de Santa Iria), Esquadra de Trânsito de Vila Franca de Xira, Esquadra de Investigação Criminal de Vila Franca de Xira e Esquadra de Intervenção e Fiscalização Policial de Vila Franca de Xira.
+
+Comando Metropolitano do Porto
+
+a) Esquadra de Turismo.
+
+b) Esquadra de Segurança Ferroviária.
+
+c) 1.ª Divisão Policial da cidade do Porto, que integra as seguintes subunidades operacionais: 3.ª Esquadra (Bonfim), 7.ª Esquadra (Paraíso), 9.ª Esquadra (Infante D. Henrique), 11.ª Esquadra (Coronel Pacheco), 12.ª Esquadra (Cedofeita), 17.ª Esquadra (Boavista) e Esquadra de Intervenção e Fiscalização Policial da 1.ª Divisão Policial.
+
+d) 2.ª Divisão Policial da cidade do Porto, que integra as seguintes subunidades operacionais: 13.ª Esquadra (Carvalhido), 15.ª Esquadra (Foz), 18.ª Esquadra (Campo de Francos), Esquadra de Aldoar, Esquadra da Foz do Douro e Esquadra de Intervenção e Fiscalização Policial da 2.ª Divisão Policial.
+
+e) 3.ª Divisão Policial da cidade do Porto, que integra as seguintes subunidades operacionais: 2.ª Esquadra (São João de Deus), 4.ª Esquadra (Corujeira), 5.ª Esquadra (Lagarteiro), 6.ª Esquadra (Antas), Esquadra do Bom Pastor e Esquadra de Intervenção e Fiscalização da 3.ª Divisão Policial.
+
+f) Divisão de Trânsito do Porto, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Trânsito, 2.ª Esquadra de Trânsito, Esquadra de Intervenção e Fiscalização de Trânsito do Porto e Esquadra de Sinistralidade Rodoviária da Divisão de Trânsito do Porto.
+
+g) Divisão de Investigação Criminal do Porto, que integra as seguintes subunidades operacionais: 1.ª Esquadra de Investigação Criminal do Porto (Sede), 2.ª Esquadra de Investigação Criminal do Porto, 3.ª Esquadra de Investigação Criminal do Porto, 4.ª Esquadra de Investigação Criminal do Porto, 5.ª Esquadra de Investigação Criminal (Maia, Valongo e Gondomar), 6.ª Esquadra de Investigação Criminal (Vila Nova de Gaia), 7.ª Esquadra de Investigação Criminal (Matosinhos) e 8.ª Esquadra de Investigação Criminal (Vila do Conde e Santo Tirso);
+
+h) Divisão de Segurança Aeroportuária e Controlo Fronteiriço no Aeroporto Francisco Sá Carneiro, que integra as seguintes Esquadras de Polícia: Esquadra de Segurança Aeroportuária, Esquadra de Controlo Fronteiriço, Esquadra de Intervenção e Fiscalização Policial Aeroportuária e Esquadra de Trânsito;
+
+i) Divisão Policial de Gondomar, que integra as seguintes subunidades operacionais: Esquadra da Areosa, Esquadra de Fânzeres, Esquadra de Gondomar, Esquadra de Rio Tinto, Esquadra de Valbom, Esquadra de Trânsito de Gondomar e Esquadra de Intervenção e Fiscalização Policial de Gondomar.
+
+j) Divisão Policial da Maia, que integra as seguintes subunidades operacionais: Esquadra de Águas Santas, Esquadra de Ermesinde, Esquadra da Maia, Esquadra de Valongo, Esquadra de Trânsito da Maia e Esquadra de Intervenção e Fiscalização Policial da Maia.
+
+l) Divisão Policial de Matosinhos, que integra as seguintes subunidades operacionais: Esquadra de Custóias, Esquadra de Leça da Palmeira, Esquadra de Matosinhos, Esquadra de São Mamede de Infesta, Esquadra da Senhora da Hora, Esquadra de Trânsito de Matosinhos e Esquadra de Intervenção e Fiscalização Policial de Matosinhos.
+
+m) Divisão Policial de Vila do Conde, que integra as seguintes subunidades operacionais: Esquadra da Póvoa de Varzim, Esquadra de Santo Tirso, Esquadra de Vila do Conde, Esquadra de Trânsito de Vila Conde e Esquadra de Intervenção e Fiscalização Policial de Vila do Conde.
+
+n) Divisão Policial de Vila Nova de Gaia, que integra as seguintes subunidades operacionais: Esquadra da Afurada, Esquadra de Canidelo, Esquadra de Oliveira do Douro, Esquadra de Valadares, Esquadra de Vila Nova de Gaia, Esquadra de Trânsito de Vila Nova de Gaia e Esquadra de Intervenção e Fiscalização Policial de Vila Nova de Gaia.
+
+> Nota: [Artigo 4.º, Portaria n.º 304/2025/1 - Diário da República n.º 173/2025, Série I de 2025-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/304-2025-934502554) As referências a Divisões e Esquadras de Segurança e Controlo Fronteiriço consideram-se reportadas às novas subunidades a assumir pela Unidade Nacional de Estrangeiros e Fronteiras (UNEF).
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 379-C/2023 - Diário da República n.º 223/2023, 1º Suplemento, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/379-c-2023-224462298), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 340/2019 - Diário da República n.º 188/2019, Série I de 2019-10-01](https://diariodarepublica.pt/dr/detalhe/portaria/340-2019-125028209), em vigor a partir de 2019-10-02
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 1195/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/1195-2009-491232), em vigor a partir de 2009-10-13
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 2/2009 - Diário da República n.º 1/2009, Série I de 2009-01-02](https://diariodarepublica.pt/dr/detalhe/portaria/2-2009-396944), em vigor a partir de 2009-10-02

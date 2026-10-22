@@ -1,0 +1,374 @@
+---
+schema_version: '1.0'
+id: pt:dre:885927817:por
+title: Decreto-Lei n.º 51/2024
+short_title: null
+summary: Estabelece medidas excecionais e temporárias na área da educação, com vista a dotar os estabelecimentos públicos
+  de educação pré-escolar e dos ensinos básico e secundário, na dependência do Ministério da Educação, Ciência e Inovação,
+  de pessoal docente e de técnicos especializados necessários à garantia do direito dos alunos à aprendizagem.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Educação, Ciência e Inovação
+official_number: 51/2024
+official_date: null
+publication_date: '2024-08-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 166/2024, Série I de 2024-08-28
+  number: '166'
+  series: I
+  supplement: null
+  pages: 2 - 8
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16600/0000200008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-09-20'
+version_history:
+  file: decreto-lei-51-2024.versoes.json
+  count: 2
+  source_lastmod: '2026-09-10'
+  versions:
+  - date: '2024-08-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-09-20'
+    amending: pt:dre:935913495:por
+    amending_title: Decreto-Lei n.º 108/2025
+    changes:
+    - Adita Artigo 4.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/51/2024/08/28/p/dre/pt/html
+  oj: null
+  dre: '885927817'
+  dre_path: /dr/detalhe/decreto-lei/51-2024-885927817
+  internal: pt:dre:885927817:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2024-885927817
+  metadata_url: https://data.dre.pt/eli/dec-lei/51/2024/08/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-935918814
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2024-935918814
+  retrieved_at: '2026-10-22T13:53:04Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-10T00:00:00Z'
+integrity:
+  source_sha256: 5ad022c270bc8e34edb602aa893e9a10a315f6368472f0db6ce2b0db2d98b5ed
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:53:04Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-51-2024.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:935913495:por
+  label: Adita Artigo 4.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495
+  date: '2025-09-19'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/187/2007/05/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/27/2006/02/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/27/2006/02/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/32-a/2023/05/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32-a/2023/05/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/79/2014/05/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/79/2014/05/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:53:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 51/2024
+
+Decreto-Lei n.º 51/2024
+
+de 28 de agosto
+
+Em Portugal, os últimos anos têm sido marcados pela dificuldade de os alunos garantirem as suas aprendizagens e a harmonia do seu percurso escolar, devido a períodos muito prolongados sem aulas.
+
+O número elevado de estudantes sem professor a, pelo menos, uma disciplina põe em causa a educação como um processo contínuo e ininterrupto. Os potenciais danos irreversíveis no percurso dos estudantes colocam em risco as legítimas expetativas dos alunos, bem como o investimento das famílias e do Estado. Acresce a este aspeto o facto de os estudantes de meios socioeconómicos mais desfavorecidos serem os mais afetados por esta situação, não somente no plano da igualdade de oportunidades, mas, também, no acesso a uma educação de qualidade e a um percurso escolar pleno de sucesso.
+
+Esta problemática resulta, ainda, da dificuldade de recrutamento de docentes em determinadas regiões do país e para alguns grupos de recrutamento, prevendo-se o seu agravamento generalizado nos próximos anos.
+
+A escassez de docentes representa uma ameaça ao direito das crianças e dos jovens à educação, deixando milhares de alunos sem acesso a aprendizagens fundamentais. Representa, igualmente, uma ameaça ao esforço e ao investimento que as famílias e o País colocam na escola pública, enquanto garante da equidade e do progresso social.
+
+Acresce que a resolução da problemática da escassez de professores constitui um dos grandes desafios assumidos pelo XXIV Governo Constitucional na área da educação, impondo-se, de forma a dar cumprimento aos objetivos definidos no seu Programa, a adoção de medidas que valorizem a profissão docente e que promovam a atração de novos profissionais para a escola pública.
+
+Assim, sem prejuízo do compromisso do desenvolvimento de políticas públicas educativas estruturais e de longo prazo que garantam, através do planeamento e da gestão sustentáveis dos recursos, a qualidade do sistema educativo, importa, de imediato, definir medidas, de caráter excecional e temporário, dirigidas ao universo das escolas ou a um conjunto de escolas mais afetadas pela escassez de docentes, que permitam dotar a escola pública de profissionais que assegurem as necessidades identificadas, garantindo o direito à aprendizagem e ao sucesso educativo dos alunos.
+
+Com este escopo, o presente decreto-lei amplia a possibilidade da distribuição de serviço docente extraordinário, até ao limite de 10 horas semanais, bem como para completamento de horário e aos docentes que beneficiem da redução da componente letiva, quando tal se revele imprescindível para garantir a lecionação de disciplinas referentes a grupos de recrutamento que apresentem carências.
+
+Adicionalmente, para a satisfação de necessidades temporárias de pessoal docente não asseguradas através dos procedimentos concursais previstos na lei, consagra-se a possibilidade da contratação de docentes aposentados e reformados que garantam o exercício efetivo de funções letivas. Por outro lado, prevê-se a atribuição de um acréscimo remuneratório a docentes que, reunindo as condições para a aposentação ou para a reforma, se mantenham em exercício de funções letivas efetivas, em escolas e em grupos de recrutamento com necessidades identificadas.
+
+De modo a promover a atratividade do exercício de funções docentes, nas escolas mais afetadas pela escassez de docentes, possibilita-se, também, a contratação de docentes do ensino superior e de investigadores doutorados com formação científica adequada à lecionação nos diferentes grupos de recrutamento, mediante a frequência de formação pedagógica adequada. No mesmo sentido, estabelece-se a possibilidade da atribuição de bolsas aos alunos que ingressem em ciclos de estudos conducentes ao grau de licenciado em Educação Básica e ao grau de mestre nas especialidades a que se refere o anexo ao Decreto-Lei n.º 79/2014, de 14 de maio, na sua redação atual.
+
+De modo a colmatar ausências prolongadas de atividade letiva dos alunos nas escolas mais afetadas pela escassez de docentes, estabelece-se, ainda, a possibilidade da contratação de docentes de outras áreas disciplinares, bem como de técnicos especializados, com vista ao desenvolvimento de competências e à realização de trabalho com os alunos, pelo tempo necessário à satisfação das necessidades de serviço docente.
+
+Por fim, de forma a garantir a satisfação das necessidades de pessoal técnico especializado dos agrupamentos de escolas e das escolas não agrupadas que não se encontram atualmente acauteladas no Decreto-Lei n.º 32-A/2023, de 8 de maio, que estabelece o regime de gestão e recrutamento do pessoal docente dos ensinos básico e secundário e de técnicos especializados para formação, e até à definição legislativa de um regime próprio, prevê-se a possibilidade da contratação a termo resolutivo de técnicos especializados, incluindo para formação.
+
+Foram observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece medidas excecionais e temporárias na área da educação, com vista a dotar os estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário, na dependência do Ministério da Educação, Ciência e Inovação, de pessoal docente e de técnicos especializados necessários à garantia do direito dos alunos à aprendizagem.
+
+###### Artigo 2.º — Âmbito objetivo e subjetivo de aplicação
+
+1 - O presente decreto-lei aplica-se aos agrupamentos de escolas e às escolas não agrupadas.
+
+2 - O presente decreto-lei aplica-se:
+
+a) Aos educadores de infância e aos professores dos ensinos básico e secundário;
+
+b) Aos docentes do ensino superior, aos investigadores doutorados, bem como aos bolseiros de investigação abrangidos pelo Estatuto do Bolseiro de Investigação, aprovado em anexo à Lei n.º 40/2004, de 18 de agosto, na sua redação atual, em qualquer dos casos, com formação científica adequada às áreas disciplinares dos grupos de recrutamento previstos no Decreto-Lei n.º 27/2006, de 10 de fevereiro, na sua redação atual, nos termos do artigo 7.º do presente decreto-lei;
+
+c) Aos indivíduos que ingressem nos ciclos de estudos conducentes ao grau de licenciado em Educação Básica e ao grau de mestre nas especialidades a que se refere o anexo ao Decreto-Lei n.º 79/2014, de 14 de maio, na sua redação atual, nos termos do artigo 8.º do presente decreto-lei;
+
+d) Aos técnicos especializados, nos termos dos artigos 9.º e 10.º
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 108/2025 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495), em vigor a partir de 2025-09-20
+
+###### Artigo 3.º — Quadros de zona pedagógica carenciados
+
+1 - Para o efeito do disposto no presente decreto-lei, consideram-se «quadros de zona pedagógica carenciados» aqueles em que se verifique uma insuficiência estrutural de docentes, nos termos a definir por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 108/2025 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495), em vigor a partir de 2025-09-20
+
+###### Artigo 4.º — Prestação de serviço docente extraordinário
+
+1 - Quando, na distribuição de serviço docente, para completar o horário semanal de um docente for ultrapassada a componente letiva a que este esteja obrigado, pode ser distribuído serviço docente extraordinário, nos termos previstos no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado em anexo ao Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual (Estatuto).
+
+2 - Nos agrupamentos de escolas e nas escolas não agrupadas inseridos no âmbito geográfico dos quadros de zona pedagógica carenciados, o diretor respetivo pode, em alternativa ao recurso ao instrumento a que se refere o número anterior, distribuir serviço docente extraordinário, até ao limite de seis horas semanais.
+
+3 - Sem prejuízo do disposto nos números anteriores, nos agrupamentos de escolas e nas escolas não agrupadas inseridos no âmbito geográfico dos quadros de zona pedagógica carenciados, o diretor respetivo pode, ainda, distribuir serviço docente extraordinário, até ao limite de 10 horas semanais, desde que o mesmo seja imprescindível para garantir a satisfação de necessidades de serviço docente não asseguradas através dos procedimentos para preenchimento de necessidades temporárias previstos no Decreto-Lei n.º 32-A/2023, de 8 de maio, na sua redação atual, e que haja acordo expresso do docente.
+
+4 - (Revogado.)
+
+5 - Para além das situações previstas na parte final do n.º 7 do artigo 83.º do Estatuto, nos agrupamentos de escolas e nas escolas não agrupadas inseridos no âmbito geográfico dos quadros de zona pedagógica carenciados, pode ser distribuído serviço docente extraordinário aos docentes que beneficiem da redução da componente letiva, nos termos do artigo 79.º do Estatuto, quando se encontrem preenchidos os seguintes requisitos cumulativos:
+
+a) Esse serviço for imprescindível para garantir a lecionação de disciplinas que compõem o currículo dos ensinos básico e secundário nos agrupamentos de escolas e nas escolas não agrupadas que não seja assegurada através dos procedimentos para preenchimento de necessidades temporárias previstos no Decreto-Lei n.º 32-A/2023, de 8 de maio;
+
+b) Esse serviço não puder ser assegurado nos termos previstos nos n.<sup>os </sup>1 a 6 do artigo 83.º do Estatuto;
+
+c) Existir acordo expresso do docente para a prestação desse serviço.
+
+6 - No caso da prestação de serviço docente extraordinário nos termos do número anterior, as horas da componente não letiva, que acrescem por força do disposto no n.º 6 do artigo 79.º do Estatuto, são convertidas em igual número, desde que o docente o requeira, em horas de realização de trabalho a nível individual, sem prejuízo da manutenção da obrigatoriedade da prestação pelo docente de 35 horas semanais de serviço.
+
+7 - Nos casos em que, nos termos do Estatuto ou do presente decreto-lei, for distribuído serviço docente extraordinário a docente com funções de direção de turma, ainda que se trate de docente que não beneficie da redução da componente letiva ao abrigo do disposto no artigo 79.º do Estatuto, duas das suas horas de estabelecimento são convertidas em horas de realização de trabalho a nível individual.
+
+8 - Os acordos previstos no n.º 3 e na alínea c) do n.º 5 são reduzidos a escrito, em modelo a disponibilizar pela Agência para a Gestão do Sistema Educativo, I. P. (AGSE, I. P.), acessível através do respetivo sítio eletrónico.
+
+9 - A distribuição de serviço docente extraordinário nos termos do presente artigo é obrigatoriamente comunicada à AGSE, I. P., através do respetivo registo no Sistema Interativo de Gestão de Recursos Humanos da Educação (SIGRHE), não carecendo de autorização prévia.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 108/2025 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495), em vigor a partir de 2025-09-20
+
+###### Artigo 4.º-A — Acumulação de funções docentes em estabelecimento público diverso
+
+1 - Os docentes dos agrupamentos de escolas ou das escolas não agrupadas inseridos no âmbito geográfico de quadros de zona pedagógica carenciados podem ser autorizados a acumular funções docentes, até ao limite de seis horas letivas semanais, em estabelecimento público de educação ou de ensino diverso daquele em que se encontram providos ou colocados, desde que se verifiquem os seguintes requisitos cumulativos:
+
+a) O estabelecimento de origem e aquele no qual terá lugar o exercício em acumulação de funções se situem no âmbito geográfico do mesmo quadro de zona pedagógica ou, em alternativa, o segundo se situe no âmbito geográfico de quadro de zona pedagógica limítrofe do quadro de zona pedagógica no qual se insere o estabelecimento de origem;
+
+b) O exercício em acumulação de funções vise a satisfação de necessidades temporárias de serviço docente não asseguradas através de procedimento concursal;
+
+c) Seja garantida a compatibilidade com o horário de origem.
+
+2 - A autorização da acumulação de funções prevista no número anterior compete ao presidente do conselho diretivo da AGSE, I. P., obtido o parecer favorável do diretor do estabelecimento de origem, sendo realizada no SIGRHE.
+
+3 - Quando excederem as 35 horas semanais de serviço a que o docente está obrigado, nos termos do Estatuto, as horas prestadas em acumulação de funções ao abrigo do disposto no presente artigo são remuneradas como serviço docente extraordinário.
+
+4 - O regime de acumulação de funções previsto no presente artigo não prejudica a possibilidade de distribuição de serviço docente extraordinário nos termos do artigo 4.º
+
+> Aditado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 108/2025 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495), em vigor a partir de 2025-09-20
+
+###### Artigo 5.º — Contratação de docentes aposentados e reformados
+
+1 - Nos agrupamentos de escolas e nas escolas não agrupadas inseridos no âmbito geográfico dos quadros de zona pedagógica carenciados, a satisfação de necessidades temporárias de pessoal docente não garantidas através dos procedimentos concursais previstos no Decreto-Lei n.º 32-A/2023, de 8 de maio, na sua redação atual, com exceção do concurso de contratação de escola, pode ser assegurada através da celebração de contrato de trabalho em funções públicas a termo resolutivo com docentes aposentados ou reformados, com ou sem recurso aos mecanismos legais de antecipação, detentores de qualificação profissional, mediante a autorização do membro do Governo responsável pela área da educação, que fundamenta o interesse público excecional em causa, nos termos do n.º 1 do artigo 78.º do Decreto-Lei n.º 498/72, de 9 de dezembro, na sua redação atual, e do presente decreto-lei.
+
+2 - O disposto no número anterior não é aplicável aos docentes aposentados ou reformados há mais de cinco anos, nem aos docentes aposentados ou reformados que se encontrem na situação prevista na alínea a) do n.º 2 do artigo 78.º do Decreto-Lei n.º 498/72, de 9 de dezembro, na sua redação atual.
+
+3 - A contratação prevista no presente artigo apenas pode ter lugar ao abrigo de concurso de contratação de escola, nos termos do Decreto-Lei n.º 32-A/2023, de 8 de maio, na sua redação atual, sendo os docentes aposentados ou reformados graduados em última prioridade, e tem como requisito o exercício efetivo de funções letivas.
+
+4 - Os docentes aposentados ou reformados autorizados a exercer funções letivas nos termos do presente artigo mantêm a respetiva pensão de aposentação ou de velhice, acrescida de uma compensação adicional correspondente ao índice remuneratório do 1.º escalão da escala indiciária constante do anexo ao Estatuto, em função do número de horas letivas atribuídas.
+
+5 - Para o efeito do disposto no número anterior, considera-se horário completo:
+
+a) O horário de 20 horas letivas semanais, para os docentes da educação pré-escolar e do 1.º ciclo do ensino básico;
+
+b) O horário de 14 horas letivas semanais, para os docentes dos restantes ciclos e níveis de ensino, incluindo da educação especial.
+
+6 - A autorização prevista no n.º 1 é precedida de proposta do diretor do agrupamento de escolas ou da escola não agrupada onde as funções letivas devam ser exercidas que fundamente a contratação em causa, instruído com a informação da Caixa Geral de Aposentações ou da Segurança Social sobre a situação do docente aposentado ou reformado, consoante o caso.
+
+7 - A competência para a autorização prevista no n.º 1 pode ser delegada no diretor-geral da Administração Escolar.
+
+8 - O procedimento de atribuição de serviço docente previsto no presente artigo é efetuado de forma desmaterializada, através de formulário eletrónico a disponibilizar pela AGSE, I. P., acessível através do respetivo sítio eletrónico.
+
+9 - (Revogado.)
+
+10 - A tramitação do procedimento previsto no n.º 8 é regulada por despacho do membro do Governo responsável pela área da educação.
+
+11 - O contingente anual dos docentes aposentados ou reformados que pode ser contratado para satisfação de necessidades temporárias de pessoal docente, em agrupamentos de escolas e em escolas não agrupadas inseridos no âmbito geográfico dos quadros de zona pedagógica carenciados, é fixado por despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da educação.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 108/2025 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495), em vigor a partir de 2025-09-20
+
+###### Artigo 6.º — Acréscimo remuneratório
+
+1 - Os docentes que preencham os requisitos legais para a aposentação ou para a reforma e se mantenham no exercício efetivo de funções letivas têm direito a um acréscimo remuneratório mensal no montante de € 750,00.
+
+2 - A atribuição do acréscimo remuneratório previsto no número anterior é precedida de requerimento do interessado, dirigido ao diretor do agrupamento de escolas ou da escola não agrupada, e depende da verificação das seguintes condições cumulativas:
+
+a) A existência de componente letiva para o docente no seu grupo de recrutamento;
+
+b) O exercício efetivo de funções letivas pelo docente.
+
+3 - O acréscimo remuneratório é devido a partir do mês seguinte àquele em que o docente atinja a idade pessoal ou a idade normal de acesso à pensão de velhice previstas nos n.<sup>os</sup>1 e 2 do artigo 37.º do Decreto-Lei n.º 498/72, de 9 de dezembro, e nos n.<sup>os</sup><sup> </sup>8 e 9 do artigo 20.º do Decreto-Lei n.º 187/2007, de 10 de maio, ambos na sua redação atual.
+
+4 - A atribuição do acréscimo remuneratório nos termos dos números anteriores implica o exercício de funções letivas até ao final do correspondente ano letivo.
+
+###### Artigo 7.º — Contratação de docentes do ensino superior, de investigadores doutorados e de bolseiros de investigação
+
+1 - A satisfação de necessidades temporárias de pessoal docente pode ser assegurada através da celebração de contrato de trabalho em funções públicas a termo resolutivo com docentes do ensino superior, com investigadores doutorados e com bolseiros de investigação abrangidos pelo Estatuto do Bolseiro de Investigação, aprovado em anexo à Lei n.º 40/2004, de 18 de agosto, na sua redação atual, desde que, em qualquer dos casos, sejam detentores de formação científica adequada às áreas disciplinares dos grupos de recrutamento previstos no Decreto-Lei n.º 27/2006, de 10 de fevereiro, na sua redação atual, na sequência de colocação ao abrigo da contratação de escola prevista no Decreto-Lei n.º 32-A/2023, de 8 de maio, na sua redação atual.
+
+2 - Os docentes contratados nos termos do número anterior são remunerados:
+
+a) Pelo 1.º escalão da escala indiciária constante do anexo ao Estatuto, nos casos em que não possuam tempo de serviço ou em que possuam menos de dois anos de tempo de serviço;
+
+b) Pelo 2.º escalão da escala indiciária constante do anexo ao Estatuto, quando possuam, pelo menos, dois anos de tempo de serviço;
+
+c) Pelo 3.º escalão da escala indiciária constante do anexo ao Estatuto, quando possuam, pelo menos, seis anos de tempo de serviço.
+
+3 - Para o efeito do disposto no número anterior, é considerado o tempo de serviço em funções docentes prestado em:
+
+a) Agrupamentos de escolas e escolas não agrupadas;
+
+b) Estabelecimentos integrados na rede pública das Regiões Autónomas;
+
+c) Estabelecimentos do ensino superior público;
+
+d) Estabelecimentos ou instituições de ensino dependentes ou sob tutela de outros ministérios que tenham protocolo com o Ministério da Educação, Ciência e Inovação;
+
+e) Estabelecimentos de ensino português no estrangeiro, incluindo, ainda, o exercício de funções docentes como agente da cooperação portuguesa nos termos do correspondente estatuto jurídico;
+
+f) Estabelecimentos de ensino particular ou cooperativo, quer de nível superior, quer de nível não superior.
+
+4 - Os docentes do ensino superior, os investigadores doutorados e os bolseiros de investigação a que se refere o presente artigo que não sejam detentores de habilitação profissional para a docência têm acesso à profissionalização em serviço.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 108/2025 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495), em vigor a partir de 2025-09-20
+
+###### Artigo 8.º — Atribuição de bolsas
+
+1 - Pode ser atribuída uma bolsa por ano letivo:
+
+a) Aos estudantes que ingressem nos ciclos de estudos conducentes ao grau de licenciado em Educação Básica e ao grau de mestre nas especialidades a que se refere o anexo ao Decreto-Lei n.º 79/2014, de 14 de maio, na sua redação atual;
+
+b) Aos detentores dos graus de mestre ou de doutor que ingressem nos ciclos de estudos conducentes ao grau de mestre nas especialidades a que se refere o anexo ao Decreto-Lei n.º 79/2014, de 14 de maio, na sua redação atual.
+
+2 - A atribuição de bolsa nos termos do presente artigo constitui o beneficiário na obrigação de ser opositor aos procedimentos concursais para satisfação de necessidades permanentes e temporárias previstos no Decreto-Lei n.º 32-A/2023, de 8 de maio, nos três anos seguintes à conclusão do ciclo de estudos conducente ao grau de mestre a que se refere o número anterior.
+
+3 - Para o efeito previsto no número anterior, o beneficiário da bolsa é obrigado a indicar como preferências, pelo menos, 20 códigos de quadro de zona pedagógica e 60 códigos de agrupamentos de escola ou de escolas não agrupadas.
+
+4 - As condições de atribuição e os montantes das bolsas previstas no n.º 1 são definidos por despacho dos membros do Governo responsáveis pelas áreas das finanças e da educação, ciência e inovação.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 108/2025 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495), em vigor a partir de 2025-09-20
+
+###### Artigo 9.º — Modalidades de suprimento de ausência de atividade letiva
+
+1 - De forma a mitigar os efeitos da ausência de atividade letiva num determinado grupo de recrutamento, não assegurada através dos procedimentos para preenchimento de necessidades temporárias previstos no Decreto-Lei n.º 32-A/2023, de 8 de maio, na sua redação atual, os agrupamentos de escolas e as escolas não agrupadas podem proceder à contratação de técnicos especializados, para o desenvolvimento de competências e a realização de trabalho com os alunos.
+
+2 - À contratação prevista no número anterior aplica-se o disposto nos artigos 39.º, 40.º e 41.º do Decreto-Lei n.º 32-A/2023, de 8 de maio, com as necessárias adaptações.
+
+3 - O contrato de trabalho em funções públicas a termo resolutivo celebrado nos termos do presente artigo vigora pelo tempo estritamente necessário à satisfação da necessidade que se visa colmatar.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 108/2025 - Diário da República n.º 181/2025, Série I de 2025-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2025-935913495), em vigor a partir de 2025-09-20
+
+###### Artigo 10.º — Contratação de técnicos especializados
+
+1 - As necessidades temporárias de serviço com pessoal técnico especializado não abrangido pelo disposto no artigo 39.º do Decreto-Lei n.º 32-A/2023, de 8 de maio, podem ser asseguradas pelos agrupamentos de escolas e pelas escolas não agrupadas, mediante a celebração de contratos de trabalho em funções públicas a termo resolutivo, certo ou incerto, nos termos da lei.
+
+2 - A contratação prevista no número anterior é precedida de concurso de contratação de escola, nos termos estabelecidos no Decreto-Lei n.º 32-A/2023, de 8 de maio, com as necessárias adaptações.
+
+3 - Os contratos de trabalho em funções públicas a termo resolutivo incerto celebrados com pessoal técnico especializado vigoram, no máximo, até à eventual celebração de contratos de trabalho em funções públicas por tempo indeterminado, no seguimento da conclusão do levantamento das necessidades permanentes para ocupação dos postos de trabalho dos mapas de pessoal dos agrupamentos de escolas e das escolas não agrupadas.
+
+###### Artigo 11.º — Avaliação
+
+As medidas previstas no presente decreto-lei são objeto de avaliação no final de cada ano letivo, com vista à apreciação da sua execução e eventual revisão.
+
+###### Artigo 12.º — Entrada em vigor e vigência
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - O presente decreto-lei vigora até 31 de julho de 2028.
+
+Visto e aprovado em Conselho de Ministros de 22 de agosto de 2024. - Paulo Artur dos Santos de Castro de Campos Rangel - José Maria Gonçalves Pereira Brandão de Brito - António Leitão Amaro - Manuel Alexandre Mateus Homem Cristo.
+
+Promulgado em 26 de agosto de 2024.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 26 de agosto de 2024.
+
+Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.
+
+118060379

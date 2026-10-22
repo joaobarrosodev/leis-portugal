@@ -1,0 +1,377 @@
+---
+schema_version: '1.0'
+id: pt:dre:425526:por
+title: Decreto Regional n.º 23/78/M
+short_title: null
+summary: Estabelece o regime jurídico das comissões parlamentares de inquérito da Assembleia Regional
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regional
+document_type_label: Decreto Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Regional
+proposing_entity: null
+official_number: 23/78/M
+official_date: null
+publication_date: '1978-04-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 99/1978, Série I de 1978-04-29
+  number: '99'
+  series: I
+  supplement: null
+  pages: 790 - 792
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/04/09900/07900792.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-08-03'
+version_history:
+  file: decreto-regional-23-78-m.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1978-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-08-03'
+    amending: pt:dre:107797868:por
+    amending_title: Decreto Legislativo Regional n.º 23/2017/M
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 3.º-A
+    - Adita Artigo 5.º-A
+    - Adita Artigo 6.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decreg/23/1978/m/cons/20170802/pt/html
+  oj: null
+  dre: '425526'
+  dre_path: /dr/detalhe/decreto-regional/23-1978-425526
+  internal: pt:dre:425526:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/23-1978-425526
+  metadata_url: https://data.dre.pt/eli/decreg/23/1978/m/cons/20170802/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regional/1978-107798484
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regional/1978-107798484
+  retrieved_at: '2026-10-22T12:13:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ce801c369f1cd493b9c5d02d689a0f406a2c6a7d121889d36d38c50deca1ef6f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:13:27Z'
+  notes: 2 versão(ões); histórico completo em decreto-regional-23-78-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Regional
+- Comissão de Inquérito
+- Madeira.região Autónoma
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:107797868:por
+  label: Adita Artigo 2.º-A; Adita Artigo 3.º-A; Adita Artigo 5.º-A; Adita Artigo 6.º-A; Altera Artigo 1.º; Altera Artigo
+    2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868
+  date: '2017-08-02'
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:13:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regional n.º 23/78/M
+
+Decreto Regional n.º 23/78/M
+
+Compete à Assembleia Regional da Madeira, nos termos da alínea l) do artigo 22.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, «vigiar pelo cumprimento do Estatuto e das leis e apreciar os actos do Governo e da Administração Regionais»; e, nos termos do artigo 229.º, alínea h), da Constituição, compete às Regiões Autónomas «superintender nos serviços, institutos públicos e empresas nacionalizadas que exerçam a sua actividade exclusivamente na Região e noutros casos em que o interesse regional o justifique».
+
+Os inquéritos parlamentares constituem um importante instrumento de acção parlamentar e de realização das atribuições da Assembleia Regional.
+
+Torna-se, assim, necessário estabelecer o regime jurídico das comissões eventuais de inquérito previstas no artigo 200.º do Regimento.
+
+Nestes termos e de harmonia com o disposto na alínea b) do artigo 22.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, a Assembleia Regional da Madeira determina, para valer como lei:
+
+###### Artigo 1.º — Âmbito e objeto
+
+1 - Os inquéritos da Assembleia Legislativa têm por função vigiar o cumprimento da Constituição, do Estatuto Político-Administrativo da Região e das leis, e a apreciação dos atos do Governo Regional e da Administração Regional.
+
+2 - Os inquéritos parlamentares podem ter por objeto qualquer matéria de interesse público relevante para o exercício das atribuições da Assembleia Legislativa.
+
+3 - Os inquéritos parlamentares apenas podem ter por objeto atos do Governo ou da Administração ocorridos em legislaturas anteriores à que estiver em curso quando se reportarem a matérias ainda em apreciação, factos novos ou factos de conhecimento superveniente.
+
+4 - Durante o período de cada sessão legislativa não é permitida a constituição de novas comissões de inquérito que tenham o mesmo objeto que dera lugar a outra comissão que está em exercício de funções ou que as tenha terminado no período referido, salvo se surgirem factos novos.
+
+5 - O objeto do inquérito parlamentar não é suscetível de alteração.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 2.º — (Iniciativa)
+
+1 - A iniciativa dos inquéritos parlamentares compete:
+
+a) Aos grupos parlamentares;
+
+b) Aos deputados;
+
+c) Às comissões especializadas.
+
+2 - Os inquéritos parlamentares são efetuados:
+
+a) Mediante deliberação expressa do Plenário da Assembleia Legislativa, até ao 15.º dia posterior ao da sua publicação no Diário ou à sua distribuição;
+
+b) A requerimento de, pelo menos um quinto dos deputados em efetividade de funções, até ao limite de um por deputado e por sessão legislativa.
+
+3 - A resolução e o requerimento da realização de um inquérito são publicados no Jornal Oficial da Região Autónoma da Madeira.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 2.º-A — Admissibilidade
+
+1 - O Presidente da Assembleia pronunciar-se-á e por escrito ao autor da iniciativa, sobre a admissibilidade do requerimento ou da proposta, até ao 5.º dia posterior à sua entrada na mesa.
+
+2 - Qualquer iniciativa tendente à realização de um inquérito parlamentar deve indicar os seus fundamentos e delimitar o seu âmbito sob pena de rejeição liminar pelo Presidente da Assembleia.
+
+3 - O Presidente da Assembleia verifica a existência formal das condições previstas no número anterior, o número e a identidade dos deputados subscritores, notificando de imediato o primeiro subscritor para suprir a falta ou faltas correspondentes, caso se verifique alguma omissão ou erro no cumprimento das formalidades, ou caso a indicação do objeto e fundamento do requerimento infrinja a Constituição ou os princípios nela consignados.
+
+4 - Admitida a iniciativa de inquérito parlamentar, o Presidente da Assembleia manda publicá-la no Diário da Assembleia Legislativa, assim como:
+
+a) Nos casos previstos na alínea a) do n.º 2 do artigo 2.º, determina o envio do requerimento ao Plenário;
+
+b) Nos casos previstos na alínea b) do n.º 2 do artigo 2.º, ouvida a Conferência dos Representantes dos Partidos, elabora e assina a Resolução da realização de inquérito, na qual inclui a parte dispositiva do requerimento e toma as providências necessárias para definir a composição da comissão, nos 15 dias subsequentes.
+
+5 - Da não admissão da iniciativa de inquérito apresentado nos termos da presente lei cabe sempre recurso para o Plenário, nos termos do Regimento da Assembleia.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 3.º — Constituição da Comissão
+
+1 - Para cada inquérito parlamentar definido nos termos do artigo 1.º, será constituída uma comissão eventual, nos termos da presente lei e do Regimento.
+
+2 - Compete ao Presidente da Assembleia, no prazo máximo de 15 dias, ouvida a Conferência dos Representantes dos Partidos, fixar o número de membros da comissão, observando os princípios da representatividade e proporcionalidade.
+
+3 - Os membros da comissão tomam posse perante a Mesa da Assembleia Legislativa até ao 8.º dia posterior à deliberação do Presidente da Assembleia.
+
+4 - Os membros da comissão podem ser substituídos por deputados suplentes, cuja fixação deve observar o limite máximo de dois suplentes para cada grupo parlamentar.
+
+5 - A substituição prevista no número anterior vigora pelo período correspondente a cada reunião em que ocorrer, nela participando os membros suplentes como membros de pleno direito e podendo assistir às restantes reuniões sem direito a uso da palavra e sem direito de voto.
+
+6 - É condição para a tomada de posse de membro da comissão e exercício do mandato, incluindo os membros suplentes, a inexistência de conflito de interesses em relação ao objeto da comissão, comprovada através de declaração formal.
+
+7 - A declaração formal de registo de interesses deverá ser depositada na Comissão de Regimentos e Mandatos da Assembleia Legislativa da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 3.º-A — Informação à Procuradoria-Geral da República
+
+1 - O Presidente da Assembleia comunica à Procuradoria-Geral da República o conteúdo da resolução ou do requerimento que determine a realização de um inquérito.
+
+2 - A Procuradoria-Geral da República informa a Assembleia se com base nos mesmos factos se encontra em curso algum processo criminal e em que fase.
+
+3 - Caso exista processo criminal em curso, cabe à Assembleia deliberar sobre eventual suspensão do processo de inquérito parlamentar até ao trânsito em julgado da correspondente sentença judicial.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 4.º — Duração do inquérito
+
+1 - A duração máxima para a realização de um inquérito é de 180 dias contados da data da primeira reunião da Comissão, findo o qual a comissão se extingue, sem prejuízo do disposto no número seguinte.
+
+2 - A requerimento fundamentado da comissão, o Presidente da Assembleia, ouvida a Conferência dos Representantes dos Partidos, poderá conceder ainda um prazo adicional máximo de 90 dias para a conclusão do inquérito.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 5.º — (Poderes das comissões)
+
+1 - As comissões parlamentares de inquérito gozam de todos os poderes de investigação das autoridades judiciais.
+
+2 - As comissões têm direito à coadjuvação das autoridades judiciais e administrativas, nos mesmos termos que os tribunais.
+
+3 - As comissões podem solicitar por escrito ao Governo, aos órgãos da Administração Regional, ou a entidades privadas as informações e documentos que julguem úteis à realização do inquérito.
+
+4 - As diligências instrutórias referidas no número anterior, que sejam consideradas indispensáveis à boa realização do inquérito, são de realização obrigatória, não estando a sua efetivação sujeita a deliberação da comissão, até ao limite máximo de duas diligências por cada deputado que integre a comissão.
+
+5 - Para o efeito do disposto no número anterior, as diligências requeridas pelos membros suplentes somam-se às efetuadas pelo deputado por este substituído, de acordo com o limite previsto.
+
+6 - A prestação das informações e dos documentos referidos no n.º 3 deve ser satisfeita no prazo de 15 dias, salvo justificação ponderosa dos requeridos que aconselhe a comissão a prorrogar aquele prazo ou a cancelar a diligência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 5.º-A — Funcionamento da comissão
+
+1 - A primeira reunião da comissão de inquérito deve ser realizada até ao 8.º dia seguinte ao da sua posse.
+
+2 - As reuniões das comissões podem ter lugar em qualquer dia da semana e durante as férias, sem dependência de autorização do Plenário.
+
+3 - O presidente da comissão dá conhecimento prévio ao Presidente da Assembleia, em tempo útil, para que tome as providências necessárias à realização das reuniões previstas no número anterior.
+
+4 - As reuniões, diligências e inquirições são sempre gravadas, salvo se, por motivo fundado, a comissão deliberar noutro sentido.
+
+5 - Quando se verifique a gravação prevista no número anterior, as diligências realizadas e os depoimentos ou declarações obtidas constam da ata especialmente elaborada para traduzir, pormenorizadamente, aquelas diligências e ser-lhe-ão anexos os depoimentos e declarações referidos, depois de assinados pelos seus autores.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 6.º — (Local de funcionamento)
+
+As comissões parlamentares de inquérito funcionam na sede da Assembleia Legislativa, podendo, todavia, funcionar ou efetivar diligências, sempre que necessário, em qualquer ponto do território nacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 6.º-A — Dos deputados
+
+1 - Os deputados membros da comissão de inquérito só podem ser substituídos em virtude de perda ou suspensão do mandato ou em caso de escusa justificada, sem prejuízo do disposto no n.º 4 do artigo 3.º
+
+2 - As faltas dos membros da comissão às reuniões são comunicadas ao Presidente da Assembleia, com a informação de terem sido ou não justificadas.
+
+3 - O Presidente da Assembleia anuncia no Plenário seguinte as faltas injustificadas.
+
+4 - O deputado que violar o dever de sigilo em relação aos trabalhos da comissão de inquérito ou faltar sem justificação a mais de quatro reuniões perde a qualidade de membro da comissão.
+
+5 - No caso de haver violação de sigilo, a comissão de inquérito deve promover uma investigação sumária e deliberar, por maioria qualificada de dois terços, sobre a verificação e a identidade do autor.
+
+6 - O Presidente da Assembleia deve ser informado do conteúdo da deliberação prevista no número anterior, quando dela resulte o conhecimento da existência da respetiva violação e a identidade do seu autor, para declarar a perda, por parte deste, da qualidade de membro da respetiva comissão e dar conta desta sua decisão ao Plenário.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 7.º — (Publicidade)
+
+1 - As reuniões e diligências das comissões parlamentares de inquérito são públicas, salvo se a comissão deliberar em sentido contrário, ou a pedido do depoente.
+
+2 - As atas das comissões, assim como todos os documentos na sua posse, podem ser consultados após a aprovação do relatório final, salvo se corresponderem a reuniões ou diligências não públicas, nos termos do número anterior.
+
+3 - A transcrição dos depoimentos prestados perante as comissões de inquérito em reuniões não públicas só pode ser consultada ou publicada com autorização dos seus autores.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 8.º — (Convocação de pessoas)
+
+1 - As comissões parlamentares de inquérito podem convocar qualquer cidadão para depor sobre factos relativos ao inquérito.
+
+2 - Gozam da prerrogativa de depor por escrito, se o preferirem, o Presidente do Governo Regional, os ex-Presidentes do Governo Regional, o Presidente da Assembleia Legislativa, os ex-Presidentes da Assembleia Legislativa, que remetem à comissão no prazo de 15 dias, a contar da data da notificação dos factos sobre os quais deve recair o depoimento, declaração, sob compromisso de honra, relatando o que sabem sobre os factos indicados.
+
+3 - Os depoimentos requeridos nos números anteriores, que sejam consideradas indispensáveis à boa realização do inquérito, são de realização obrigatória, não estando a sua efetivação sujeita a deliberação da comissão, até ao limite máximo de um depoimento por cada deputado que integre a comissão, aplicando-se o disposto no n.º 5 do artigo 5.º
+
+4 - As convocatórias serão assinadas pelo presidente da comissão ou, a solicitação deste, pelo Presidente da Assembleia e deverão conter a indicação do objeto do inquérito, o local, o dia e a hora do depoimento.
+
+5 - As comissões podem solicitar, requisitar apoio técnico ou contratar especialistas para coadjuvar nos seus trabalhos mediante autorização do Presidente da Assembleia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 9.º — (Depoimentos)
+
+1 - A falta de comparência perante a comissão parlamentar de inquérito ou entidade que a substitua, ou a recusa de depoimento, só se terão por justificadas nos termos gerais da lei processual.
+
+2 - A obrigação de comparecer perante a comissão tem precedência sobre qualquer ato ou diligência oficial, não sendo admitida, em caso algum, a recusa de comparência de funcionários, de agentes do Estado, e de outras entidades públicas, podendo, contudo, estes requerer a alteração da data da convocação, por imperiosa necessidade de serviço, contanto que assim não fique frustrada a realização do inquérito.
+
+3 - A forma dos depoimentos rege-se pelas normas aplicáveis do Código de Processo Penal sobre prova testemunhal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 10.º — (Garantias de trabalho)
+
+Ninguém pode ser prejudicado no seu trabalho ou emprego por virtude da obrigação de depor perante a comissão parlamentar de inquérito, considerando-se justificadas todas as faltas dadas no cumprimento daquela obrigação.
+
+###### Artigo 11.º — (Encargos)
+
+As despesas de deslocação, que forem solicitadas pelo convocado, são pagas por conta do orçamento da Assembleia, devidamente comprovadas e fixadas pelo presidente da comissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 12.º — (Sanções criminais)
+
+1 - Fora dos casos previstos no artigo 9.º, a falta de comparência, a recusa de depoimentos ou o não cumprimento de ordens de uma comissão parlamentar de inquérito no exercício das suas funções são puníveis como crime de desobediência, nos termos da lei geral.
+
+2 - Verificado qualquer dos factos previstos no número anterior, o presidente da comissão comunicá-lo-á ao Presidente da Assembleia, com os elementos indispensáveis à instrução do processo, para efeito de participação ao adjunto do procurador da República na Região.
+
+###### Artigo 13.º — (Relatório)
+
+1 - Findo o inquérito, a comissão elaborará um relatório contendo as respectivas conclusões.
+
+2 - O relatório final refere obrigatoriamente:
+
+a) A composição da comissão e as reuniões realizadas;
+
+b) O questionário, se houver;
+
+c) As diligências efetuadas pela comissão;
+
+d) As conclusões do inquérito e os respetivos fundamentos;
+
+e) O sentido de voto de cada um membros da comissão, assim como as declarações de voto escritas.
+
+3 - O relatório e as declarações de voto são publicadas no Diário da Assembleia Legislativa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 14.º — (Debate e resolução)
+
+1 - Até 30 dias após a distribuição do relatório aos deputados, o Presidente da Assembleia incluirá a sua apreciação na ordem do dia.
+
+2 - Até 15 dias após a distribuição do relatório aos deputados são apresentados na Mesa da Assembleia os projetos de resolução relativos ao inquérito, os quais são remetidos ao Plenário, para efeito do disposto no n.º 5.
+
+3 - Apresentado ao Plenário o relatório, será realizado um debate que se inicia com uma breve exposição introduzida pelo relator da comissão, o qual é deliberado e organizado pela Conferência dos Representantes dos Partidos.
+
+4 - O Plenário pode deliberar sobre a publicação integral ou parcial das atas da comissão, observando o disposto no artigo 7.º
+
+5 - Juntamente com o relatório, o Plenário aprecia os projetos de resolução que lhe sejam apresentados.
+
+6 - O relatório não é objeto de votação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 23/2017/M - Diário da República n.º 148/2017, Série I de 2017-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2017-107797868), em vigor a partir de 2017-08-03
+
+###### Artigo 15.º
+
+O presente diploma entra em vigor na data da sua publicação.
+
+Aprovado em 28 de Fevereiro de 1978.
+
+O Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.
+
+Assinado em 16 de Março de 1978.
+
+O Ministro da República, Lino Dias Miguel.

@@ -1,0 +1,1141 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:455621:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2008-61725773",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/34-2008-455621",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-08-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "60874432",
+    "60874433",
+    "60874434",
+    "60874435",
+    "60874436",
+    "60874437",
+    "60874438",
+    "60874439",
+    "60874440",
+    "60874441",
+    "60874442",
+    "60874443",
+    "60874444"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:452748:por",
+     "title": "Declaração de Rectificação n.º 60/2008",
+     "published": "2008-10-10",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/60-2008-452748",
+     "date": "2008-08-15"
+    }
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:444240:por",
+     "title": "Decreto Legislativo Regional n.º 45/2008/M",
+     "published": "2008-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/45-2008-444240"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "60874432",
+    "60874433",
+    "60874434",
+    "60874435",
+    "60874436",
+    "62003133",
+    "60874438",
+    "60874439",
+    "60874440",
+    "60874441",
+    "60874446",
+    "60874458",
+    "60874463",
+    "60874465"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:482388:por",
+     "title": "Decreto Legislativo Regional n.º 34/2009/M",
+     "published": "2009-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/34-2009-482388"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "60874432",
+    "60874433",
+    "60874434",
+    "60874435",
+    "62012790",
+    "62003133",
+    "60874438",
+    "60874439",
+    "60874440",
+    "60874441",
+    "60874446",
+    "60874458",
+    "60874463",
+    "60874465"
+   ]
+  },
+  {
+   "date": "2011-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:485631:por",
+     "title": "Decreto Legislativo Regional n.º 2/2011/M",
+     "published": "2011-01-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2011-485631"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "60874432",
+    "60874433",
+    "60874434",
+    "60874435",
+    "62012868",
+    "62003133",
+    "60874438",
+    "60874439",
+    "60874440",
+    "60874441",
+    "60874446",
+    "60874458",
+    "60874463",
+    "60874465"
+   ]
+  },
+  {
+   "date": "2012-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553889:por",
+     "title": "Decreto Legislativo Regional n.º 5/2012/M",
+     "published": "2012-03-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/5-2012-553889"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "60874432",
+    "60874433",
+    "60874434",
+    "60874435",
+    "62017640",
+    "62003133",
+    "60874438",
+    "60874439",
+    "60874440",
+    "60874441",
+    "60874446",
+    "60874458",
+    "60874463",
+    "60874465"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:189511:por",
+     "title": "Decreto Legislativo Regional n.º 42/2012/M",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/42-2012-189511"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "60874432",
+    "62027018",
+    "60874434",
+    "62027019",
+    "62027020",
+    "62003133",
+    "60874438",
+    "60874439",
+    "60874440",
+    "60874441",
+    "60874446",
+    "60874458",
+    "60874463",
+    "60874465"
+   ]
+  },
+  {
+   "date": "2013-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498484:por",
+     "title": "Decreto Legislativo Regional n.º 28/2013/M",
+     "published": "2013-08-06",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/28-2013-498484"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "60874432",
+    "62027018",
+    "60874434",
+    "62027019",
+    "62027028",
+    "62003133",
+    "60874438",
+    "60874439",
+    "60874440",
+    "60874441",
+    "60874446",
+    "60874458",
+    "60874463",
+    "60874465"
+   ]
+  },
+  {
+   "date": "2018-03-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114866946:por",
+     "title": "Decreto Legislativo Regional n.º 6/2018/M",
+     "published": "2018-03-15",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2018-114866946"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 8.º-B",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Anexo I-M",
+    "Altera Anexo II-M",
+    "Altera Anexo V-M",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "114873341",
+    "114873332",
+    "60874434",
+    "114873333",
+    "114873334",
+    "114873335",
+    "114873314",
+    "114873323",
+    "114873324",
+    "114873336",
+    "114873337",
+    "114873327",
+    "114873328",
+    "114873338",
+    "114873339",
+    "114873340"
+   ]
+  },
+  {
+   "date": "2018-08-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115924019:por",
+     "title": "Decreto Legislativo Regional n.º 12/2018/M",
+     "published": "2018-08-06",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2018-115924019"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-C",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "114873341",
+    "114873332",
+    "60874434",
+    "114873333",
+    "115932462",
+    "114873335",
+    "114873314",
+    "114873323",
+    "115932453",
+    "115932454",
+    "115932455",
+    "115932456",
+    "115932457",
+    "115932458",
+    "115932459",
+    "115932460",
+    "115932461"
+   ]
+  },
+  {
+   "date": "2020-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:128771582:por",
+     "title": "Decreto Legislativo Regional n.º 1-A/2020/M",
+     "published": "2020-01-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º-A"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "114873341",
+    "114873332",
+    "60874434",
+    "114873333",
+    "128824903",
+    "128824905",
+    "128824906",
+    "128824907",
+    "128824908",
+    "128824909",
+    "128824910",
+    "128824911",
+    "128824912",
+    "128824913",
+    "128824914",
+    "128824915",
+    "128824916",
+    "128824917"
+   ]
+  },
+  {
+   "date": "2022-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205450899:por",
+     "title": "Decreto Legislativo Regional n.º 26/2022/M",
+     "published": "2022-12-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2022-205450899"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "114873341",
+    "861109022",
+    "60874434",
+    "114873333",
+    "128824903",
+    "128824905",
+    "128824906",
+    "128824907",
+    "128824908",
+    "128824909",
+    "128824910",
+    "128824911",
+    "128824912",
+    "128824913",
+    "128824914",
+    "128824915",
+    "128824916",
+    "128824917"
+   ]
+  },
+  {
+   "date": "2025-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993031451:por",
+     "title": "Decreto Legislativo Regional n.º 8/2025/M",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2025-993031451"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "60874429",
+    "60874430",
+    "60874431",
+    "114873341",
+    "861109022",
+    "60874434",
+    "114873333",
+    "993859325",
+    "128824905",
+    "128824906",
+    "128824907",
+    "128824908",
+    "128824909",
+    "128824910",
+    "128824911",
+    "128824912",
+    "128824913",
+    "128824914",
+    "128824915",
+    "128824916",
+    "128824917"
+   ]
+  }
+ ],
+ "fragments": {
+  "60874429": {
+   "fragment_id": "61725774",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 34/2008/M\n\nAdapta à Região Autónoma da Madeira o Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro\n\nO Código dos Contratos Públicos, que estabelece a disciplina aplicável à contratação pública e o regime substantivo dos contratos públicos que revistam a natureza de contrato administrativo, embora aplicável à Região Autónoma da Madeira, não salvaguarda algumas situações específicas da Região.\n\nTradicionalmente a Região tem procedido à adaptação dos diplomas nacionais que têm vindo, directa e indirectamente, a disciplinar estas matérias. O exemplo mais recente foi o Decreto Legislativo Regional n.º 11/2001/M, de 10 de Maio, que procedeu à adaptação do Decreto-Lei n.º 59/99, de 2 de Março, relativo ao anterior regime jurídico das empreitadas de obras públicas.\n\nDe facto, a actividade contratual da Administração assume em alguns aspectos uma particular configuração na Região, determinada essencialmente pela insularidade, pela dimensão económica do mercado, pela existência de obrigações fiscais declarativas cujo conteúdo assume interesse específico para a Região, pela fragmentação da propriedade, etc.\n\nO exemplo mais evidente das particularidades da Região nestas matérias é o do custo da construção civil, que é claramente superior ao custo que se verifica no território continental.\n\nEsta situação tem sido evidenciada e reconhecida em alguns instrumentos normativos publicados, nomeadamente a portaria do Ministro do Equipamento, do Planeamento e da Administração do Território n.º 500/97, de 21 de Julho (relativa à definição dos parâmetros de área e custos de construção), e a portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território n.º 281-A/99, de 22 de Abril (relativa ao crédito bonificado à habitação).\n\nAssim:\n\nA Assembleia Legislativa da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º e alíneas x) e vv) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pelas Leis n.os 130/99 e 12/2000, de 21 de Agosto e de 21 de Junho, respectivamente, o seguinte:"
+  },
+  "60874430": {
+   "fragment_id": "62001975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA aplicação na Região Autónoma da Madeira do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de Janeiro, rectificado através da Declaração de Rectificação n.º 18-A/2008, de 28 de Março, é feita de acordo com as adaptações constantes dos artigos seguintes."
+  },
+  "60874431": {
+   "fragment_id": "62001976",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades adjudicantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades adjudicantes\n\nAs associações de que façam parte a Região Autónoma da Madeira, os institutos públicos e as fundações públicas regionais, que sejam maioritariamente financiadas por estas, estejam sujeitas ao seu controlo de gestão ou tenham um órgão de administração, de direcção ou de fiscalização cuja maioria dos titulares seja, directa ou indirectamente, designada pelas mesmas, integram o elenco das entidades adjudicantes referidas no n.º 2 do artigo 2.º do Código dos Contratos Públicos, aplicando-lhes o regime previsto para estas."
+  },
+  "60874432": {
+   "fragment_id": "62001977",
+   "type": 11,
+   "heading": "Artigo 3.º — Contratação excluída",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contratação excluída\n\nO disposto no n.º 3 do artigo 5.º do Código dos Contratos Públicos aplica-se ao Serviço de Saúde da Região Autónoma da Madeira, E. P. E."
+  },
+  "60874433": {
+   "fragment_id": "62001978",
+   "type": 11,
+   "heading": "Artigo 4.º — Escolha do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Escolha do procedimento\n\n1 - Aos valores que determinam a escolha do procedimento de formação de contratos previstos na alínea a) do artigo 19.º, na alínea a) do n.º 1 e no n.º 4 do artigo 20.º, na alínea a) do n.º 1 do artigo 21.º e no n.º 1 do artigo 128.º do Código dos Contratos Públicos, é aplicado na Região Autónoma da Madeira um coeficiente de 1,35.\n\n2 - Todas as referências no Código dos Contratos Públicos às normas mencionadas no n.º 1 terão em consideração os valores resultantes da aplicação do coeficiente referido na parte final do número anterior."
+  },
+  "60874434": {
+   "fragment_id": "62001979",
+   "type": 11,
+   "heading": "Artigo 5.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Impedimentos\n\nPara além dos impedimentos previstos no artigo 55.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, também, não podem ser candidatos, concorrentes ou integrar qualquer agrupamento, as entidades que, quando legalmente exigido, não cumpram as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do presente diploma."
+  },
+  "60874435": {
+   "fragment_id": "62001980",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentos da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Documentos da proposta\n\nNa decorrência do disposto no artigo anterior, a declaração prevista na alínea a) do n.º 1 do artigo 57.º do Código dos Contratos Públicos a apresentar pelos concorrentes, deve ser elaborada em conformidade com o modelo constante do anexo i ao Código dos Contratos Públicos, adaptada de acordo com o modelo constante do anexo i-M ao presente diploma."
+  },
+  "60874436": {
+   "fragment_id": "62001981",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos de habilitação ou da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Documentos de habilitação ou da candidatura\n\n1 - As declarações previstas na alínea a) do n.º 1 do artigo 81.º e no n.º 1 do artigo 168.º do Código dos Contratos Públicos a apresentar pelo adjudicatário ou candidato devem ser elaboradas, respectivamente, em conformidade com os modelos constantes do anexo ii e v ao Código dos Contratos Públicos, adaptadas de acordo com os modelos constantes dos anexos ii-M e v-M ao presente diploma.\n\n2 - Sem prejuízo do disposto no artigo 81.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, o adjudicatário deve ainda apresentar, em relação ao último exercício económico:\n\na) Anexo C da declaração periódica de rendimentos (modelo n.º 22);\n\nb) Declaração relativa a rendimentos e retenções de residentes (modelo n.º 10);\n\nc) Anexo Q da informação empresarial simplificada (IES)."
+  },
+  "60874437": {
+   "fragment_id": "62001982",
+   "type": 11,
+   "heading": "Artigo 8.º — Escolha das entidades convidadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Escolha das entidades convidadas\n\nPara efeitos do limite decorrente do disposto no n.º 2 do artigo 113.º do Código dos Contratos Públicos, na Região Autónoma da Madeira só serão consideradas as adjudicações efectuadas no respectivo ano económico em curso e no ano económico anterior."
+  },
+  "60874438": {
+   "fragment_id": "62001983",
+   "type": 11,
+   "heading": "Artigo 9.º — Posse administrativa e constituição de servidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Posse administrativa e constituição de servidões\n\nPara efeitos do disposto no artigo 352.º do Código dos Contratos Públicos, relativamente aos terrenos a expropriar, na Região Autónoma da Madeira, o acordo expresso com os respectivos proprietários e ou demais interessados, titulares de direitos e interesses legalmente protegidos é condição suficiente para o dono da obra poder celebrar o contrato."
+  },
+  "60874439": {
+   "fragment_id": "62001984",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações muito graves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contra-ordenações muito graves\n\nSem prejuízo do disposto no Regime Geral das Infracções Tributárias, a participação de candidato ou de concorrente que, quando legalmente exigido, não cumpra as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do presente diploma, ou a não apresentação pelo adjudicatário, no prazo fixado para o efeito, dos documentos de habilitação exigidos naquela mesma disposição legal, constituem contra-ordenações muito graves, puníveis com coima e com sanção acessória, nos mesmos termos do disposto nos artigos 456.º e 460.º do Código dos Contratos Públicos."
+  },
+  "60874440": {
+   "fragment_id": "62001985",
+   "type": 11,
+   "heading": "Artigo 11.º — Adaptações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Adaptações orgânicas\n\n1 - A referência feita à Autoridade para as Condições de Trabalho no n.º 2 do artigo 405.º do Código dos Contratos Públicos considera-se reportada à Inspecção Regional do Trabalho.\n\n2 - As referências feitas à Autoridade de Segurança Alimentar e Económica e à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade nos artigos 461.º e 462.º do Código dos Contratos Públicos consideram-se reportadas à Inspecção Regional das Actividades Económicas."
+  },
+  "60874441": {
+   "fragment_id": "62001986",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação e só será aplicável aos procedimentos de formação de contratos públicos iniciados após a data da sua entrada em vigor e à execução dos contratos que revistam a natureza de contrato administrativo celebrados na sequência de procedimentos de formação iniciados após a entrada em vigor do Código dos Contratos Públicos."
+  },
+  "60874442": {
+   "fragment_id": "62001987",
+   "type": 14,
+   "heading": "Anexo I-M — Modelo de declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I-M — Modelo de declaração\n\n[a que se refere a alínea a) do n.º 1 do artigo 57.º do Código dos Contratos Públicos e o artigo 6.º do Decreto Legislativo Regional n.º 33/2008/M]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado inteiro e perfeito conhecimento do caderno de encargos relativo à execução do contrato a celebrar na sequência do procedimento de... (designação ou referência ao procedimento em causa), declara, sob compromisso de honra, que a sua representada (2) se obriga a executar o referido contrato em conformidade com o conteúdo do mencionado caderno de encargos, relativamente ao qual declara aceitar, sem reservas, todas as suas cláusulas.\n\n2 - Declara também que executará o referido contrato nos termos previstos nos seguintes documentos, que junta em anexo (3):\n\na)...\n\nb)...\n\n3 - Declara ainda que renuncia a foro especial e se submete, em tudo o que respeitar à execução do referido contrato, ao disposto na legislação portuguesa aplicável.\n\n4 - Mais declara, sob compromisso de honra, que:\n\na) Não se encontra em estado de insolvência, em fase de liquidação, dissolução ou cessação de actividade, sujeita a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, nem tem o respectivo processo pendente;\n\nb) Não foi condenado(a) por sentença transitada em julgado por qualquer crime que afecte a sua honorabilidade profissional (4) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram condenados por qualquer crime que afecte a sua honorabilidade profissional (5)] (6);\n\nc) Não foi objecto de aplicação de sanção administrativa por falta grave em matéria profissional (7) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram objecto de aplicação de sanção administrativa por falta grave em matéria profissional (8)] (9);\n\nd) Tem a sua situação regularizada relativamente a contribuições para a segurança social em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (10);\n\ne) Tem a sua situação regularizada relativamente a impostos devidos em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (11);\n\nf) Não foi objecto de aplicação da sanção acessória prevista na alínea e) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, no artigo 45.º da Lei n.º 18/2003, de 11 de Junho, e no n.º 1 do artigo 460.º do Código dos Contratos Públicos (12);\n\ng) Não foi objecto de aplicação da sanção acessória prevista na alínea b) do n.º 1 do artigo 627.º do Código do Trabalho (13);\n\nh) Não foi objecto de aplicação, há menos de dois anos, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (14);\n\ni) Não foi condenado(a) por sentença transitada em julgado por algum dos seguintes crimes (15) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram condenados por alguns dos seguintes crimes (16)] (17):\n\ni) Participação em actividades de uma organização criminosa, tal como definida no n.º 1 do artigo 2.º da Acção Comum n.º <a href=\"eurlex.asp?ano=1998&id=31998F0773\" title=\"Link para Decisão da Comunidade Europeia\">98/773/JAI</a>, do Conselho;\n\nii) Corrupção, na acepção do artigo 3.º do Acto do Conselho de 26 de Maio de 1997 e do n.º 1 do artigo 3.º da Acção Comum n.º <a href=\"eurlex.asp?ano=1998&id=31998F0742\" title=\"Link para Decisão da Comunidade Europeia\">98/742/JAI</a>, do Conselho;\n\niii) Fraude, na acepção do artigo 1.º da Convenção Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias;\n\niv) Branqueamento de capitais, na acepção do artigo 1.º da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0308\" title=\"Link para Directiva da Comunidade Europeia\">91/308/CEE</a>, do Conselho, de 10 de Junho, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais;\n\nj) Não prestou, a qualquer título, directa ou indirectamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento.\n\nl) Cumpriu as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 33/2008/M (ou, sendo o caso, não preenche os pressupostos de incidência previstos nos artigos 16.º, 17.º e 21.º da Lei das Finanças Regionais, aprovada pela Lei Orgânica n.º 1/2007, de 17 de Fevereiro).\n\n5 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica, consoante o caso, a exclusão da proposta apresentada ou a caducidade da adjudicação que eventualmente sobre ela recaia e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n6 - Quando a entidade adjudicante o solicitar, o concorrente obriga-se, nos termos do disposto no artigo 81.º do Código dos Contratos Públicos, a apresentar a declaração que constitui o anexo ii do referido Código, bem como os documentos comprovativos de que se encontra nas situações previstas nas alíneas b), d), e) e i) do n.º 4 desta declaração.\n\n7 - O declarante tem ainda pleno conhecimento de que a não apresentação dos documentos solicitados nos termos do número anterior, por motivo que lhe seja imputável, determina a caducidade da adjudicação que eventualmente recaia sobre a proposta apresentada e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local),... (data),... [assinatura (18)].\n\n(1) Aplicável apenas a concorrentes que sejam pessoas colectivas.\n\n(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(3) Enumerar todos os documentos que constituem a proposta, para além desta declaração, nos termos do disposto nas alíneas b), c) e d) do n.º 1 e nos n.os 2 e 3 do artigo 57.º\n\n(4) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(5) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(6) Declarar consoante o concorrente seja pessoa singular ou pessoa colectiva.\n\n(7) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(8) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(9) Declarar consoante o concorrente seja pessoa singular ou pessoa colectiva.\n\n(10) Declarar consoante a situação.\n\n(11) Declarar consoante a situação.\n\n(12) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(13) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(14) Declarar consoante a situação.\n\n(15) Indicar se, entretanto, ocorreu a sua reabilitação.\n\n(16) Indicar se, entretanto, ocorreu a sua reabilitação.\n\n(17) Declarar consoante o concorrente seja pessoa singular ou pessoa colectiva.\n\n(18) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º"
+  },
+  "60874443": {
+   "fragment_id": "62001988",
+   "type": 14,
+   "heading": "Anexo II-M — Modelo de declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II-M — Modelo de declaração\n\n[a que se refere a alínea a) do n.º 1 do artigo 81.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 33/2008/M]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), adjudicatário(a) no procedimento de... (designação ou referência ao procedimento em causa), declara, sob compromisso de honra, que a sua representada (2):\n\na) Não se encontra em estado de insolvência, em fase de liquidação, dissolução ou cessação de actividade, sujeita a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, nem tem o respectivo processo pendente;\n\nb) Não foi objecto de aplicação de sanção administrativa por falta grave em matéria profissional (3) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram objecto de aplicação de sanção administrativa por falta grave em matéria profissional (4)] (5);\n\nc) Não foi objecto de aplicação da sanção acessória prevista na alínea e) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, no artigo 45.º da Lei n.º 18/2003, de 11 de Junho, e no n.º 1 do artigo 460.º do Código dos Contratos Públicos (6);\n\nd) Não foi objecto de aplicação da sanção acessória prevista na alínea b) do n.º 1 do artigo 627.º do Código do Trabalho (7);\n\ne) Não foi objecto de aplicação, há menos de dois anos, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (8);\n\nf) Não prestou, a qualquer título, directa ou indirectamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento.\n\n2 - O declarante junta em anexo [ou indica... como endereço do sítio da Internet onde podem ser consultados (9)] os documentos comprovativos de que a sua representada (10) não se encontra nas situações previstas nas alíneas b), d), e) e i) do artigo 55.º do Código dos Contratos Públicos e (quando aplicável) os documentos comprovativos de que cumpriu as obrigações fiscais declarativas cujo conteúdo assume interesse específico para a Região Autónoma da Madeira referidos no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 33/2008/M.\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a caducidade da adjudicação e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local),... (data),... [assinatura (11)].\n\n(1) Aplicável apenas a concorrentes que sejam pessoas colectivas.\n\n(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(3) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(4) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(5) Declarar consoante o concorrente seja pessoa singular ou pessoa colectiva.\n\n(6) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(7) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(8) Declarar consoante a situação.\n\n(9) Acrescentar as informações necessárias à consulta, se for o caso.\n\n(10) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(11) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º"
+  },
+  "60874444": {
+   "fragment_id": "62001989",
+   "type": 14,
+   "heading": "Anexo V-M — Modelo de declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V-M — Modelo de declaração\n\n[a que se refere o n.º 1 do artigo 168.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 33/2008/M]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado conhecimento das peças do procedimento de... (designação ou referência ao procedimento em causa), vem por este meio apresentar a respectiva candidatura, juntando em anexo, para o efeito, os seguintes documentos destinados à qualificação (2):\n\na)...\n\nb)...\n\n2 - Para o efeito declara, sob compromisso de honra, que:\n\na) Não se encontra em estado de insolvência, de liquidação, de cessação de actividade, sujeita a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga nem tem o respectivo processo pendente;\n\nb) Não foi condenado(a) por sentença transitada em julgado por qualquer crime que afecte a sua honorabilidade profissional (3) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram condenados por qualquer crime que afecte a sua honorabilidade profissional (4)] (5);\n\nc) Não foi objecto de aplicação de sanção administrativa por falta grave em matéria profissional (6) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram objecto de aplicação de sanção administrativa por falta grave em matéria profissional (7)] (8);\n\nd) Tem a sua situação regularizada relativamente a contribuições para a segurança social em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (9);\n\ne) Tem a sua situação regularizada relativamente a impostos devidos em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (10);\n\nf) Não foi objecto de aplicação da sanção acessória prevista na alínea e) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, no artigo 45.º da Lei n.º 18/2003, de 11 de Junho, e no n.º 1 do artigo 460.º do Código dos Contratos Públicos (11);\n\ng) Não foi objecto de aplicação da sanção acessória prevista na alínea b) do n.º 1 do artigo 627.º do Código do Trabalho (12);\n\nh) Não foi objecto de aplicação, há menos de dois anos, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (13);\n\ni) Não foi condenado(a) por sentença transitada em julgado por algum dos seguintes crimes (14) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram condenados por alguns dos seguintes crimes (15)] (16):\n\ni) Participação em actividades de uma organização criminosa, tal como definida no n.º 1 do artigo 2.º da Acção Comum n.º <a href=\"eurlex.asp?ano=1998&id=31998F0773\" title=\"Link para Decisão da Comunidade Europeia\">98/773/JAI</a>, do Conselho;\n\nii) Corrupção, na acepção do artigo 3.º do Acto do Conselho de 26 de Maio de 1997 e do n.º 1 do artigo 3.º da Acção Comum n.º <a href=\"eurlex.asp?ano=1998&id=31998F0742\" title=\"Link para Decisão da Comunidade Europeia\">98/742/JAI</a>, do Conselho;\n\niii) Fraude, na acepção do artigo 1.º da Convenção Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias;\n\niv) Branqueamento de capitais, na acepção do artigo 1.º da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0308\" title=\"Link para Directiva da Comunidade Europeia\">91/308/CEE</a>, do Conselho, de 10 de Junho, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais;\n\nj) Não prestou, a qualquer título, directa ou indirectamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento.\n\nl) Cumpriu as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 33/2008/M (ou, sendo o caso, não preenche os pressupostos de incidência previstos nos artigos 16.º, 17.º e 21.º da Lei das Finanças Regionais, aprovada pela Lei Orgânica n.º 1/2007, de 17 de Fevereiro).\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a exclusão da candidatura apresentada e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local),... (data),... [assinatura (17)].\n\n(1) Aplicável apenas a candidatos que sejam pessoas colectivas.\n\n(2) Enumerar todos os documentos que constituem a candidatura, para além desta declaração, indicados no programa do procedimento.\n\n(3) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(4) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(5) Declarar consoante o candidato seja pessoa singular ou pessoa colectiva.\n\n(6) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(7) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(8) Declarar consoante o candidato seja pessoa singular ou pessoa colectiva.\n\n(9) Declarar consoante a situação.\n\n(10) Declarar consoante a situação.\n\n(11) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(12) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(13) Declarar consoante a situação.\n\n(14) Indicar se, entretanto, ocorreu a sua reabilitação.\n\n(15) Indicar se, entretanto, ocorreu a sua reabilitação.\n\n(16) Declarar consoante o candidato seja pessoa singular ou pessoa colectiva.\n\n(17) Nos termos do disposto nos n.os 2 e 3 do artigo 168.º"
+  },
+  "62003133": {
+   "fragment_id": "62001982",
+   "type": 11,
+   "heading": "Artigo 8.º — Escolha das entidades convidadas",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01, produz efeitos a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Escolha das entidades convidadas\n\nNão é aplicável na Região Autónoma da Madeira o disposto nos n.os 2, 3 e 4 do artigo 113.º do Código dos Contratos Públicos.\n\n> Alterado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01, produz efeitos a partir de 2009-01-01"
+  },
+  "60874446": {
+   "fragment_id": "62001990",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de Julho de 2008.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Agosto de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "60874458": {
+   "fragment_id": "62001987",
+   "type": 14,
+   "heading": "Anexo I-M — Modelo de declaração",
+   "in_force_from": "2008-08-15",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo I-M — Modelo de declaração\n\n[a que se refere a alínea a) do n.º 1 do artigo 57.º do Código dos Contratos Públicos e o artigo 6.º do Decreto Legislativo Regional n.º 34/2008/M]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado inteiro e perfeito conhecimento do caderno de encargos relativo à execução do contrato a celebrar na sequência do procedimento de... (designação ou referência ao procedimento em causa), declara, sob compromisso de honra, que a sua representada (2) se obriga a executar o referido contrato em conformidade com o conteúdo do mencionado caderno de encargos, relativamente ao qual declara aceitar, sem reservas, todas as suas cláusulas.\n\n2 - Declara também que executará o referido contrato nos termos previstos nos seguintes documentos, que junta em anexo (3):\n\na)...\n\nb)...\n\n3 - Declara ainda que renuncia a foro especial e se submete, em tudo o que respeitar à execução do referido contrato, ao disposto na legislação portuguesa aplicável.\n\n4 - Mais declara, sob compromisso de honra, que:\n\na) Não se encontra em estado de insolvência, em fase de liquidação, dissolução ou cessação de actividade, sujeita a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, nem tem o respectivo processo pendente;\n\nb) Não foi condenado(a) por sentença transitada em julgado por qualquer crime que afecte a sua honorabilidade profissional (4) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram condenados por qualquer crime que afecte a sua honorabilidade profissional (5)] (6);\n\nc) Não foi objecto de aplicação de sanção administrativa por falta grave em matéria profissional (7) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram objecto de aplicação de sanção administrativa por falta grave em matéria profissional (8)] (9);\n\nd) Tem a sua situação regularizada relativamente a contribuições para a segurança social em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (10);\n\ne) Tem a sua situação regularizada relativamente a impostos devidos em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (11);\n\nf) Não foi objecto de aplicação da sanção acessória prevista na alínea e) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, no artigo 45.º da Lei n.º 18/2003, de 11 de Junho, e no n.º 1 do artigo 460.º do Código dos Contratos Públicos (12);\n\ng) Não foi objecto de aplicação da sanção acessória prevista na alínea b) do n.º 1 do artigo 627.º do Código do Trabalho (13);\n\nh) Não foi objecto de aplicação, há menos de dois anos, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (14);\n\ni) Não foi condenado(a) por sentença transitada em julgado por algum dos seguintes crimes (15) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram condenados por alguns dos seguintes crimes (16)] (17):\n\ni) Participação em actividades de uma organização criminosa, tal como definida no n.º 1 do artigo 2.º da Acção Comum n.º <a href=\"eurlex.asp?ano=1998&id=31998F0773\" title=\"Link para Decisão da Comunidade Europeia\">98/773/JAI</a>, do Conselho;\n\nii) Corrupção, na acepção do artigo 3.º do Acto do Conselho de 26 de Maio de 1997 e do n.º 1 do artigo 3.º da Acção Comum n.º <a href=\"eurlex.asp?ano=1998&id=31998F0742\" title=\"Link para Decisão da Comunidade Europeia\">98/742/JAI</a>, do Conselho;\n\niii) Fraude, na acepção do artigo 1.º da Convenção Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias;\n\niv) Branqueamento de capitais, na acepção do artigo 1.º da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0308\" title=\"Link para Directiva da Comunidade Europeia\">91/308/CEE</a>, do Conselho, de 10 de Junho, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais;\n\nj) Não prestou, a qualquer título, directa ou indirectamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento.\n\nl) Cumpriu as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M (ou, sendo o caso, não preenche os pressupostos de incidência previstos nos artigos 16.º, 17.º e 21.º da Lei das Finanças Regionais, aprovada pela Lei Orgânica n.º 1/2007, de 17 de Fevereiro).\n\n5 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica, consoante o caso, a exclusão da proposta apresentada ou a caducidade da adjudicação que eventualmente sobre ela recaia e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n6 - Quando a entidade adjudicante o solicitar, o concorrente obriga-se, nos termos do disposto no artigo 81.º do Código dos Contratos Públicos, a apresentar a declaração que constitui o anexo ii do referido Código, bem como os documentos comprovativos de que se encontra nas situações previstas nas alíneas b), d), e) e i) do n.º 4 desta declaração.\n\n7 - O declarante tem ainda pleno conhecimento de que a não apresentação dos documentos solicitados nos termos do número anterior, por motivo que lhe seja imputável, determina a caducidade da adjudicação que eventualmente recaia sobre a proposta apresentada e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local),... (data),... [assinatura (18)].\n\n(1) Aplicável apenas a concorrentes que sejam pessoas colectivas.\n\n(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(3) Enumerar todos os documentos que constituem a proposta, para além desta declaração, nos termos do disposto nas alíneas b), c) e d) do n.º 1 e nos n.os 2 e 3 do artigo 57.º\n\n(4) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(5) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(6) Declarar consoante o concorrente seja pessoa singular ou pessoa colectiva.\n\n(7) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(8) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(9) Declarar consoante o concorrente seja pessoa singular ou pessoa colectiva.\n\n(10) Declarar consoante a situação.\n\n(11) Declarar consoante a situação.\n\n(12) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(13) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(14) Declarar consoante a situação.\n\n(15) Indicar se, entretanto, ocorreu a sua reabilitação.\n\n(16) Indicar se, entretanto, ocorreu a sua reabilitação.\n\n(17) Declarar consoante o concorrente seja pessoa singular ou pessoa colectiva.\n\n(18) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "60874463": {
+   "fragment_id": "62001988",
+   "type": 14,
+   "heading": "Anexo II-M — Modelo de declaração",
+   "in_force_from": "2008-08-15",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo II-M — Modelo de declaração\n\n[a que se refere a alínea a) do n.º 1 do artigo 81.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), adjudicatário(a) no procedimento de... (designação ou referência ao procedimento em causa), declara, sob compromisso de honra, que a sua representada (2):\n\na) Não se encontra em estado de insolvência, em fase de liquidação, dissolução ou cessação de actividade, sujeita a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, nem tem o respectivo processo pendente;\n\nb) Não foi objecto de aplicação de sanção administrativa por falta grave em matéria profissional (3) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram objecto de aplicação de sanção administrativa por falta grave em matéria profissional (4)] (5);\n\nc) Não foi objecto de aplicação da sanção acessória prevista na alínea e) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, no artigo 45.º da Lei n.º 18/2003, de 11 de Junho, e no n.º 1 do artigo 460.º do Código dos Contratos Públicos (6);\n\nd) Não foi objecto de aplicação da sanção acessória prevista na alínea b) do n.º 1 do artigo 627.º do Código do Trabalho (7);\n\ne) Não foi objecto de aplicação, há menos de dois anos, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (8);\n\nf) Não prestou, a qualquer título, directa ou indirectamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento.\n\n2 - O declarante junta em anexo [ou indica ... como endereço do sítio da Internet onde podem ser consultados (9)] os documentos comprovativos de que a sua representada (10) não se encontra nas situações previstas nas alíneas b), d), e) e i) do artigo 55.º do Código dos Contratos Públicos e (quando aplicável) os documentos comprovativos de que cumpriu as obrigações fiscais declarativas cujo conteúdo assume interesse específico para a Região Autónoma da Madeira referidos no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M.\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a caducidade da adjudicação e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local),... (data),... [assinatura (11)].\n\n(1) Aplicável apenas a concorrentes que sejam pessoas colectivas.\n\n(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(3) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(4) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(5) Declarar consoante o concorrente seja pessoa singular ou pessoa colectiva.\n\n(6) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(7) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(8) Declarar consoante a situação.\n\n(9) Acrescentar as informações necessárias à consulta, se for o caso.\n\n(10) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(11) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "60874465": {
+   "fragment_id": "62001989",
+   "type": 14,
+   "heading": "Anexo V-M — Modelo de declaração",
+   "in_force_from": "2008-08-15",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo V-M — Modelo de declaração\n\n[a que se refere o n.º 1 do artigo 168.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1)... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado conhecimento das peças do procedimento de... (designação ou referência ao procedimento em causa), vem por este meio apresentar a respectiva candidatura, juntando em anexo, para o efeito, os seguintes documentos destinados à qualificação (2):\n\na)...\n\nb)...\n\n2 - Para o efeito declara, sob compromisso de honra, que:\n\na) Não se encontra em estado de insolvência, de liquidação, de cessação de actividade, sujeita a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga nem tem o respectivo processo pendente;\n\nb) Não foi condenado(a) por sentença transitada em julgado por qualquer crime que afecte a sua honorabilidade profissional (3) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram condenados por qualquer crime que afecte a sua honorabilidade profissional (4)] (5);\n\nc) Não foi objecto de aplicação de sanção administrativa por falta grave em matéria profissional (6) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram objecto de aplicação de sanção administrativa por falta grave em matéria profissional (7)] (8);\n\nd) Tem a sua situação regularizada relativamente a contribuições para a segurança social em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (9);\n\ne) Tem a sua situação regularizada relativamente a impostos devidos em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (10);\n\nf) Não foi objecto de aplicação da sanção acessória prevista na alínea e) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, no artigo 45.º da Lei n.º 18/2003, de 11 de Junho, e no n.º 1 do artigo 460.º do Código dos Contratos Públicos (11);\n\ng) Não foi objecto de aplicação da sanção acessória prevista na alínea b) do n.º 1 do artigo 627.º do Código do Trabalho (12);\n\nh) Não foi objecto de aplicação, há menos de dois anos, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal (ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal) (13);\n\ni) Não foi condenado(a) por sentença transitada em julgado por algum dos seguintes crimes (14) [ou os titulares dos seus órgãos sociais de administração, direcção ou gerência não foram condenados por alguns dos seguintes crimes (15)] (16):\n\ni) Participação em actividades de uma organização criminosa, tal como definida no n.º 1 do artigo 2.º da Acção Comum n.º <a href=\"eurlex.asp?ano=1998&id=31998F0773\" title=\"Link para Decisão da Comunidade Europeia\">98/773/JAI</a>, do Conselho;\n\nii) Corrupção, na acepção do artigo 3.º do Acto do Conselho de 26 de Maio de 1997 e do n.º 1 do artigo 3.º da Acção Comum n.º <a href=\"eurlex.asp?ano=1998&id=31998F0742\" title=\"Link para Decisão da Comunidade Europeia\">98/742/JAI</a>, do Conselho;\n\niii) Fraude, na acepção do artigo 1.º da Convenção Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias;\n\niv) Branqueamento de capitais, na acepção do artigo 1.º da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0308\" title=\"Link para Directiva da Comunidade Europeia\">91/308/CEE</a>, do Conselho, de 10 de Junho, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais;\n\nj) Não prestou, a qualquer título, directa ou indirectamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento.\n\nl) Cumpriu as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M (ou, sendo o caso, não preenche os pressupostos de incidência previstos nos artigos 16.º, 17.º e 21.º da Lei das Finanças Regionais, aprovada pela Lei Orgânica n.º 1/2007, de 17 de Fevereiro).\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a exclusão da candidatura apresentada e constitui contra-ordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adoptado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local),... (data),... [assinatura (17)].\n\n(1) Aplicável apenas a candidatos que sejam pessoas colectivas.\n\n(2) Enumerar todos os documentos que constituem a candidatura, para além desta declaração, indicados no programa do procedimento.\n\n(3) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(4) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(5) Declarar consoante o candidato seja pessoa singular ou pessoa colectiva.\n\n(6) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(7) Indicar se, entretanto, ocorreu a respectiva reabilitação.\n\n(8) Declarar consoante o candidato seja pessoa singular ou pessoa colectiva.\n\n(9) Declarar consoante a situação.\n\n(10) Declarar consoante a situação.\n\n(11) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(12) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(13) Declarar consoante a situação.\n\n(14) Indicar se, entretanto, ocorreu a sua reabilitação.\n\n(15) Indicar se, entretanto, ocorreu a sua reabilitação.\n\n(16) Declarar consoante o candidato seja pessoa singular ou pessoa colectiva.\n\n(17) Nos termos do disposto nos n.os 2 e 3 do artigo 168.º\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "62012790": {
+   "fragment_id": "62001981",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos de habilitação ou da candidatura",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos de habilitação ou da candidatura\n\n1 - As declarações previstas na alínea a) do n.º 1 do artigo 81.º e no n.º 1 do artigo 168.º do Código dos Contratos Públicos a apresentar pelo adjudicatário ou candidato devem ser elaboradas, respectivamente, em conformidade com os modelos constantes do anexo ii e v ao Código dos Contratos Públicos, adaptadas de acordo com os modelos constantes dos anexos ii-M e v-M ao presente diploma.\n\n2 - Sem prejuízo do disposto no artigo 81.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, o adjudicatário deve ainda apresentar, em relação ao último exercício económico:\n\na) Anexo C da declaração periódica de rendimentos (modelo n.º 22);\n\nb) Declaração relativa a rendimentos e retenções de residentes (modelo n.º 10);\n\nc) Anexo Q da informação empresarial simplificada (IES).\n\n3 - Para além das causas de exclusão previstas no artigo 70.º, n.º 2, do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de exclusão o incorrecto ou inadequado preenchimento das obrigações fiscais declarativas a apresentar pelo adjudicatário nos termos do número anterior.\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+  },
+  "62012868": {
+   "fragment_id": "62001981",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos de habilitação ou de candidatura",
+   "in_force_from": "2011-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos de habilitação ou de candidatura\n\n1 - As declarações previstas na alínea a) do n.º 1 do artigo 81.º e no n.º 1 do artigo 168.º do Código dos Contratos Públicos a apresentar pelo adjudicatário ou candidato devem ser elaboradas, respectivamente, em conformidade com os modelos constantes do anexo ii e v ao Código dos Contratos Públicos, adaptadas de acordo com os modelos constantes dos anexos ii-M e v-M ao presente diploma.\n\n2 - Sem prejuízo do disposto no artigo 81.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, o adjudicatário deve ainda apresentar, em relação ao último exercício económico:\n\na) Anexo C da declaração periódica de rendimentos (modelo n.º 22);\n\nb) Declaração relativa a rendimentos e retenções de residentes (modelo n.º 10);\n\nc) Anexo Q da informação empresarial simplificada (IES).\n\n3 - A documentação referida no número anterior deve ainda ser apresentada por eventuais subcontratados identificados na proposta do adjudicatário. No decurso da execução do contrato, a autorização do contraente público à subcontratação fica condicionada à apresentação daquela documentação relativa ao potencial subcontratado por parte do co-contratante.\n\n4 - Para além das causas de caducidade da adjudicação previstas no n.º 1 do artigo 86.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de caducidade da adjudicação o incorrecto ou inadequado preenchimento dos documentos relativos às obrigações fiscais declarativas a apresentar pelo adjudicatário e ou subcontratados nos termos do disposto nos n.os 2 e 3.\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+  },
+  "62017640": {
+   "fragment_id": "62001981",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos de habilitação ou de candidatura",
+   "in_force_from": "2012-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos de habilitação ou de candidatura\n\n1 - Nos procedimentos de formação de quaisquer contratos a celebrar com entidades adjudicantes sediadas no território da RAM e sem prejuízo do disposto no artigo 81.º e no n.º 1 do artigo 168.º do Código dos Contratos Públicos, o adjudicatário e ou candidato devem apresentar as seguintes declarações e ou seguintes documentos de habilitação e candidatura:\n\na) Declaração emitida conforme, respetivamente, os modelos constantes dos anexos ii-M e v-M ao presente diploma;\n\nb) Documentos comprovativos de que não se encontra nas situações previstas nas alíneas b), d), e) e f) do artigo 55.º do Código dos Contratos Públicos, adaptado à RAM pelo artigo 5.º do presente diploma.\n\n2 - O adjudicatário, quando legalmente exigível, está ainda obrigado a fazer prova do cumprimento das obrigações declarativas relativas a rendimentos gerados no território da RAM, através da apresentação dos seguintes documentos, relativamente ao último exercício económico disponível:\n\na) Declaração periódica de rendimentos (modelo n.º 22) acompanhada do anexo C;\n\nb) Declaração relativa a rendimentos e retenções de residentes (modelo n.º 10);\n\nc) Anexo Q da informação empresarial simplificada (IES).\n\n3 - A documentação referida no número anterior deve ainda ser apresentada por eventuais subcontratados identificados na proposta do adjudicatário. No decurso da execução do contrato, a autorização do contraente público à subcontratação fica condicionada à apresentação daquela documentação relativa ao potencial subcontratado por parte do co-contratante.\n\n4 - Para além das causas de caducidade da adjudicação previstas no n.º 1 do artigo 86.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de caducidade da adjudicação o incorrecto ou inadequado preenchimento dos documentos relativos às obrigações fiscais declarativas a apresentar pelo adjudicatário e ou subcontratados nos termos do disposto nos n.os 2 e 3.\n\n5 - Os adjudicatários que não estejam legalmente obrigados ao cumprimento das obrigações declarativas relativas a rendimentos gerados no território da RAM devem apresentar declaração sob compromisso de honra, subscrita por quem os obriga, referindo expressamente essa situação.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+  },
+  "62027018": {
+   "fragment_id": "62001978",
+   "type": 11,
+   "heading": "Artigo 4.º — Escolha do procedimento",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Escolha do procedimento\n\n1 - Aos valores que determinam a escolha do procedimento de formação de contratos previstos na alínea a) do artigo 19.º, na alínea a) do n.º 1 e no n.º 4 do artigo 20.º, na alínea a) do n.º 1 do artigo 21.º e no n.º 1 do artigo 128.º do Código dos Contratos Públicos, é aplicado na Região Autónoma da Madeira um coeficiente de 1,35.\n\n2 - Da aplicação do coeficiente previsto no nº 1 não pode resultar a violação dos montantes dos limiares para contratos públicos, definidos pela legislação comunitária.\n\n3 - Todas as referências no Código dos Contratos Públicos às normas mencionadas no nº 1 devem ter em consideração os valores resultantes da aplicação do coeficiente nele previsto.\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+  },
+  "62027019": {
+   "fragment_id": "62001980",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentos da proposta e da candidatura",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Documentos da proposta e da candidatura\n\nNa decorrência do artigo anterior, a declaração prevista na alínea a) do nº 1 do artigo 57º e a declaração prevista no nº 1 do artigo 168º do Código dos Contratos Públicos a apresentar, respetivamente, pelo concorrente e pelo candidato, devem ser elaboradas em conformidade com os modelos constantes dos anexos I e V ao referido Código, adaptadas de acordo com os modelos constantes dos anexos I-M e V-M ao presente diploma.\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+  },
+  "62027020": {
+   "fragment_id": "62001981",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos de habilitação",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos de habilitação\n\n1 - A declaração prevista na alínea a) do nº 1 do artigo 81º do Código dos Contratos Públicos a apresentar pelo adjudicatário deve ser elaborada em conformidade com o modelo constante do anexo II ao Código dos Contratos Públicos, adaptada de acordo com o anexo II - M ao presente diploma.\n\n2 - Sem prejuízo do disposto no artigo 81º do Código dos Contratos Públicos, na Região Autónoma da Madeira o adjudicatário está ainda obrigado a fazer prova do cumprimento das obrigações declarativas relativas a rendimentos gerados no território da Região Autónoma da Madeira, apresentando os seguintes documentos:\n\na) Declaração de rendimentos (modelo 3 ou modelo 22, este último acompanhado do Anexo C, se for o caso);\n\nb) -Declaração de rendimentos e retenções residentes (modelo 10);\n\nc) Anexo Q da informação empresarial simplificada (IES).\n\n3 - A documentação referida no número anterior deve ainda ser apresentada por eventuais subcontratados identificados na proposta do adjudicatário. No decurso da execução do contrato, a autorização do contraente público à subcontratação fica condicionada à apresentação daquela documentação relativa ao potencial subcontratado por parte do co-contratante.\n\n4 - Para além das causas de caducidade da adjudicação previstas no n.º 1 do artigo 86.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de caducidade da adjudicação o incorrecto ou inadequado preenchimento dos documentos relativos às obrigações fiscais declarativas a apresentar pelo adjudicatário e ou subcontratados nos termos do disposto nos n.os 2 e 3.\n\n5 - Quando o adjudicatário tenha declarado nos termos do artigo anterior que não preenche os pressupostos de incidência, previstos nos artigos 16º, 17º e 21º da Lei da Finanças Regionais, aprovada pela Lei Orgânica nº 1/2007, de 19 de fevereiro, não está obrigado a apresentar os documentos referidos nas alíneas a), b) e c) do número anterior.\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+  },
+  "62027028": {
+   "fragment_id": "62001981",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos de habilitação",
+   "in_force_from": "2013-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28/2013/M - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), em vigor a partir de 2013-08-07, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos de habilitação\n\n1 - A declaração prevista na alínea a) do nº 1 do artigo 81º do Código dos Contratos Públicos a apresentar pelo adjudicatário deve ser elaborada em conformidade com o modelo constante do anexo II ao Código dos Contratos Públicos, adaptada de acordo com o anexo II - M ao presente diploma.\n\n2 - Sem prejuízo do disposto no artigo 81º do Código dos Contratos Públicos, na Região Autónoma da Madeira o adjudicatário está ainda obrigado a fazer prova do cumprimento das obrigações declarativas relativas a rendimentos gerados no território da Região Autónoma da Madeira, apresentando os seguintes documentos:\n\na) Declaração de rendimentos (modelo 3 ou modelo 22, este último acompanhado do Anexo C, se for o caso);\n\nb) -Declaração de rendimentos e retenções residentes (modelo 10);\n\nc) Anexo Q da informação empresarial simplificada (IES).\n\n3 - A documentação referida no número anterior deve ainda ser apresentada por eventuais subcontratados identificados na proposta do adjudicatário. No decurso da execução do contrato, a autorização do contraente público à subcontratação fica condicionada à apresentação daquela documentação relativa ao potencial subcontratado por parte do co-contratante.\n\n4 - Para além das causas de caducidade da adjudicação previstas no n.º 1 do artigo 86.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de caducidade da adjudicação o incorrecto ou inadequado preenchimento dos documentos relativos às obrigações fiscais declarativas a apresentar pelo adjudicatário e ou subcontratados nos termos do disposto nos n.os 2 e 3.\n\n5 - Os adjudicatários que não estejam legalmente obrigados ao cumprimento das obrigações declarativas relativas a rendimentos gerados no território da Região Autónoma da Madeira devem apresentar declaração sob compromisso de honra, subscrita por quem os obriga, referindo expressamente essa situação.\n\n6 - Quando o adjudicatário tenha declarado nos termos do número anterior que não preenche os pressupostos de incidência, previstos nos artigos 16.º, 17.º e 21.º da Lei da Finanças Regionais, aprovada pela Lei Orgânica n.º 1/2007, de 19 de fevereiro, não está obrigado a apresentar os documentos referidos nas alíneas a), b) e c) do n.º 2 do presente diploma.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28/2013/M - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), em vigor a partir de 2013-08-07, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+  },
+  "114873341": {
+   "fragment_id": "62001977",
+   "type": 11,
+   "heading": "Artigo 3.º — Contratação excluída",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Contratação excluída\n\nO disposto no n.º 3 do artigo 5.º do Código dos Contratos Públicos aplica-se ao Serviço de Saúde da Região Autónoma da Madeira, E. P. E.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+  },
+  "114873332": {
+   "fragment_id": "62001978",
+   "type": 11,
+   "heading": "Artigo 4.º — Escolha do procedimento e redução do contrato a escrito",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Escolha do procedimento e redução do contrato a escrito\n\n1 - Aos valores que determinam a escolha do procedimento de formação de contratos previstos nas alíneas c) e d) do artigo 19.º, alíneas c) e d) do n.º 1 do artigo 20.º, alíneas b) e c) do n.º 1 do artigo 21.º, n.º 2 do artigo 22.º, n.º 4 do artigo 31.º, n.os 3 e 4 do artigo 36.º, n.º 2 do artigo 46.º-A, n.º 1 do artigo 128.º e alínea a) do artigo 155.º do Código dos Contratos Públicos, é aplicado na Região Autónoma da Madeira um coeficiente de 1,35.\n\n2 - Da aplicação do coeficiente previsto no nº 1 não pode resultar a violação dos montantes dos limiares para contratos públicos, definidos pela legislação comunitária.\n\n3 - Todas as referências no Código dos Contratos Públicos às normas mencionadas no nº 1 devem ter em consideração os valores resultantes da aplicação do coeficiente nele previsto.\n\n4 - Aos valores que determinam a não exigibilidade de redução a contrato escrito, previstos nas alíneas a) e d) do n.º 1 do artigo 95.º do Código dos Contratos Públicos, é aplicado na Região Autónoma da Madeira um coeficiente de 1,35.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+  },
+  "114873333": {
+   "fragment_id": "62001980",
+   "type": 11,
+   "heading": "Artigo 6.º — Documentos da proposta e da candidatura",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Documentos da proposta e da candidatura\n\nNa decorrência do artigo anterior, as declarações previstas na alínea a) do n.º 1 do artigo 57.º, na subalínea i) da alínea b) e alínea c) do n.º 3 do artigo 256.º-A e no n.º 1 do artigo 168.º do Código dos Contratos Públicos a apresentar, respetivamente, pelo concorrente e pelo candidato, devem ser elaboradas em conformidade com os modelos constantes dos anexos i e v ao referido código, adaptadas de acordo com os modelos constantes dos anexos i-m e v-m ao presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+  },
+  "114873334": {
+   "fragment_id": "62001981",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos de habilitação",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28/2013/M - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), em vigor a partir de 2013-08-07, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos de habilitação\n\n1 - A declaração prevista na alínea a) do nº 1 do artigo 81º do Código dos Contratos Públicos a apresentar pelo adjudicatário deve ser elaborada em conformidade com o modelo constante do anexo II ao Código dos Contratos Públicos, adaptada de acordo com o anexo II - M ao presente diploma.\n\n2 - Sem prejuízo do disposto no artigo 81º do Código dos Contratos Públicos, na Região Autónoma da Madeira o adjudicatário está ainda obrigado a fazer prova do cumprimento das obrigações declarativas relativas a rendimentos gerados no território da Região Autónoma da Madeira, apresentando os seguintes documentos:\n\na) Declaração de rendimentos (modelo 3 ou modelo 22, este último acompanhado do Anexo C, caso o adjudicatário tenha exercido num dos quatro anos anteriores atividade na Região Autónoma da Madeira, bem como enquanto se mantiver em vigor o respetivo contrato);\n\nb) Declaração de rendimentos e retenções residentes (modelo 10 e DMR);\n\nc) Anexo Q da informação empresarial simplificada (IES);\n\nd) Anexo R do IVA.\n\n3 - A documentação referida no número anterior deve ainda ser apresentada por eventuais subcontratados identificados na proposta do adjudicatário. No decurso da execução do contrato, a autorização do contraente público à subcontratação fica condicionada à apresentação daquela documentação relativa ao potencial subcontratado por parte do co-contratante.\n\n4 - Para além das causas de caducidade da adjudicação previstas no n.º 1 do artigo 86.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de caducidade da adjudicação o incorrecto ou inadequado preenchimento dos documentos relativos às obrigações fiscais declarativas a apresentar pelo adjudicatário e ou subcontratados nos termos do disposto nos n.os 2 e 3.\n\n5 - Os adjudicatários que considerem não preencher as condições legais relativas ao cumprimento das obrigações declarativas referidas no presente artigo, devem apresentar declaração sob compromisso de honra, subscrita por quem os obriga, referindo expressamente essa situação.\n\n6 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28/2013/M - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), em vigor a partir de 2013-08-07, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+  },
+  "114873335": {
+   "fragment_id": "62001982",
+   "type": 11,
+   "heading": "Artigo 8.º — Escolha das entidades convidadas",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01, produz efeitos a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Escolha das entidades convidadas\n\nNão é aplicável na Região Autónoma da Madeira o disposto no artigo 27.º-A, nos n.os 2, 3 e 4 do artigo 113.º e na alínea d) do n.º 2 do artigo 250.º -D do Código dos Contratos Públicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01, produz efeitos a partir de 2009-01-01"
+  },
+  "114873314": {
+   "fragment_id": "114873221",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Gestor do Contrato",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-A — Gestor do Contrato\n\n1 - Sem prejuízo das funções atribuídas ao Gestor do Contrato no artigo 290.º-A do Código dos Contratos Públicos, compete-lhe ainda acompanhar e assegurar o cumprimento das obrigações declarativas relativas a rendimentos gerados na Região Autónoma da Madeira, nomeadamente a entrega dos documentos identificados no n.º 2 do artigo 7.º do presente diploma.\n\n2 - Compete também, ao Gestor do Contrato, nos casos da vistoria prevista no artigo 394.º do Código dos Contratos Públicos, verificar se todas as obrigações contratuais e legais do empreiteiro estão cumpridas de forma integral e perfeita, designadamente no que respeita aos subcontratos celebrados, quando aplicável.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+  },
+  "114873323": {
+   "fragment_id": "114873222",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Valor da caução",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-B — Valor da caução\n\n1 - Para efeitos do disposto do n.º 1 do artigo 89.º do Código dos Contratos Públicos, relativamente ao valor da caução, na Região Autónoma da Madeira, o valor da caução é, no máximo, de 3 % do preço contratual.\n\n2 - Para efeitos do n.º 6 do artigo 89.º do Código dos Contratos Públicos, na falta de fixação, na Região Autónoma da Madeira, o valor da caução previsto nos n.os 1 e 2 é de 3 % ou de 10 % do preço contratual, respetivamente.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2019-01-01"
+  },
+  "114873324": {
+   "fragment_id": "62001983",
+   "type": 11,
+   "heading": "Artigo 9.º — Posse administrativa e constituição de servidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Posse administrativa e constituição de servidões\n\nPara efeitos do disposto no artigo 352.º do Código dos Contratos Públicos, relativamente aos terrenos a expropriar, na Região Autónoma da Madeira, o acordo expresso com os respectivos proprietários e ou demais interessados, titulares de direitos e interesses legalmente protegidos é condição suficiente para o dono da obra poder celebrar o contrato."
+  },
+  "114873336": {
+   "fragment_id": "62001984",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações muito graves",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Contra-ordenações muito graves\n\nSem prejuízo do disposto no Regime Geral das Infrações Tributárias, a participação de candidato ou de concorrente que, quando legalmente exigido, não cumpra as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do presente diploma, ou a não apresentação pelo adjudicatário, no prazo fixado para o efeito, dos documentos de habilitação exigidos naquela mesma disposição legal, constituem contraordenações muito graves, puníveis com coima e com sanção de proibição de participação nos mesmos termos do disposto nos artigos 456.º e 460.º do Código dos Contratos Públicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+  },
+  "114873337": {
+   "fragment_id": "62001985",
+   "type": 11,
+   "heading": "Artigo 11.º — Adaptações orgânicas",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Adaptações orgânicas\n\n1 - A referência feita à Autoridade para as Condições de Trabalho no n.º 2 do artigo 405.º do Código dos Contratos Públicos considera-se reportada à Direção Regional do Trabalho e da Ação Inspetiva.\n\n2 - A referência feita ao Estado no artigo 462.º do Código dos Contratos Públicos considera-se reportada à Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+  },
+  "114873327": {
+   "fragment_id": "62001986",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação e só será aplicável aos procedimentos de formação de contratos públicos iniciados após a data da sua entrada em vigor e à execução dos contratos que revistam a natureza de contrato administrativo celebrados na sequência de procedimentos de formação iniciados após a entrada em vigor do Código dos Contratos Públicos."
+  },
+  "114873328": {
+   "fragment_id": "62001990",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de Julho de 2008.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Agosto de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "114873338": {
+   "fragment_id": "62001987",
+   "type": 14,
+   "heading": "Anexo I-M — Modelo de declaração",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo I-M — Modelo de declaração\n\n[a que se refere a alínea a) do n.º 1 do artigo 57.º ou a subalínea i) da alínea b) e alínea c) do n.º 3 do artigo 256.º-A, conforme aplicável do Código dos Contratos Públicos e o artigo 6.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto.]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1) ... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado inteiro e perfeito conhecimento do caderno de encargos relativo à execução do contrato a celebrar na sequência do procedimento de ... (designação ou referência ao procedimento em causa), e, se for o caso, do caderno de encargos do acordo-quadro aplicável ao procedimento, declara, sob compromisso de honra, que a sua representada (2) se obriga a executar o referido contrato em conformidade com o conteúdo do mencionado caderno de encargos, relativamente ao qual declara aceitar, sem reservas, todas as suas cláusulas.\n\n2 - Declara também que executará o referido contrato nos termos previstos nos seguintes documentos, que junta em anexo (3):\n\na)...\n\nb)...\n\n3 - Declara ainda que renuncia a foro especial e se submete, em tudo o que respeitar à execução do referido contrato, ao disposto na legislação portuguesa aplicável.\n\n4 - Mais declara, sob compromisso de honra, que não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código dos Contratos Públicos e artigo 5.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação.\n\n5 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica, consoante o caso, a exclusão da proposta apresentada ou a caducidade da adjudicação que eventualmente sobre ela recaia e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n6 - Quando a entidade adjudicante o solicitar, o concorrente obriga-se, nos termos do disposto no artigo 81.º do Código dos Contratos Públicos, a apresentar a declaração que constitui o anexo ii-M do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação, bem como os documentos comprovativos de que se encontra nas situações previstas nas alíneas b), d), e) e i) do n.º 1 do artigo 55.º do referido Código e artigo 5.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação.\n\n7 - O declarante tem ainda pleno conhecimento de que a não apresentação dos documentos solicitados nos termos do número anterior, por motivo que lhe seja imputável, determina a caducidade da adjudicação que eventualmente recaia sobre a proposta apresentada e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local), ... (data), ... [assinatura (4)].\n\n(1) Aplicável apenas a concorrentes que sejam pessoas coletivas.\n\n(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(3) Enumerar todos os documentos que constituem a proposta, para além desta declaração, nos termos do disposto nas alíneas b), c) e d) do n.º 1 e nos n.os 2 e 3 do artigo 57.º\n\n(4) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "114873339": {
+   "fragment_id": "62001988",
+   "type": 14,
+   "heading": "Anexo II-M — Modelo de declaração",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo II-M — Modelo de declaração\n\n[a que se refere a alínea a) do n.º 1 do artigo 81.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1) ... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), adjudicatário(a) no procedimento de ... (designação ou referência ao procedimento em causa), declara, sob compromisso de honra, que a sua representada (2) não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código dos Contratos Públicos.\n\n2 - O declarante junta em anexo [ou indica... como endereço do sítio da Internet onde podem ser consultados (3)] os documentos comprovativos de que a sua representada (4) não se encontra nas situações previstas nas alíneas b), d), e) e i) do artigo 55.º do Código dos Contratos Públicos e (quando aplicável) os documentos comprovativos de que cumpriu as obrigações fiscais declarativas cujo conteúdo assume interesse específico para a Região Autónoma da Madeira referidos no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M.\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a caducidade da adjudicação e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local), ... (data), ... [assinatura (5)].\n\n(1) Aplicável apenas a concorrentes que sejam pessoas coletivas.\n\n(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(3) Acrescentar as informações necessárias à consulta, se for o caso.\n\n(4) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(5) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "114873340": {
+   "fragment_id": "62001989",
+   "type": 14,
+   "heading": "Anexo V-M — Modelo de declaração",
+   "in_force_from": "2018-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo V-M — Modelo de declaração\n\n(a que se refere o n.º 1 do artigo 168.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto)\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1) ... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado conhecimento das peças do procedimento de ... (designação ou referência ao procedimento em causa), vem por este meio apresentar a respetiva candidatura, juntando em anexo, para o efeito, os seguintes documentos destinados à qualificação (2):\n\na) ...\n\nb) ...\n\n2 - Para o efeito declara, sob compromisso de honra, que não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código do Contratos Públicos e artigo 5.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação.\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a exclusão da candidatura apresentada e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local), ... (data), ... [assinatura (3)].\n\n(1) Aplicável apenas a candidatos que sejam pessoas coletivas.\n\n(2) Enumerar todos os documentos que constituem a candidatura, para além desta declaração, indicados no programa do procedimento.\n\n(3) Nos termos do disposto nos n.os 2 e 3 do artigo 168.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "115932462": {
+   "fragment_id": "62001981",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos de habilitação",
+   "in_force_from": "2018-08-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28/2013/M - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), em vigor a partir de 2013-08-07, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos de habilitação\n\n1 - A declaração prevista na alínea a) do nº 1 do artigo 81º do Código dos Contratos Públicos a apresentar pelo adjudicatário deve ser elaborada em conformidade com o modelo constante do anexo II ao Código dos Contratos Públicos, adaptada de acordo com o anexo II - M ao presente diploma.\n\n2 - Sem prejuízo do artigo 81.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na redação dada pelo Decreto-Lei n.º 30/2018, de 7 de maio, na Região Autónoma da Madeira o adjudicatário está ainda obrigado a fazer prova do cumprimento das obrigações declarativas relativas a rendimentos gerados no território da Região Autónoma da Madeira, apresentando ainda os seguintes documentos:\n\na) Última Declaração de Rendimentos modelo 3 ou modelo 22, este último acompanhado do Anexo C, caso o Adjudicatário tenha exercido nesse período atividade na Região Autónoma da Madeira, bem como enquanto se mantiver em vigor o respetivo contrato;\n\nb) Última Declaração de Rendimentos e Retenções de Residentes (modelo 10) e DMR;\n\nc) Anexo Q da última informação empresarial simplificada (IES);\n\nd) Anexo R do IVA da última declaração periódica do IVA;\n\n3 - A documentação referida no número anterior deve ainda ser apresentada por eventuais subcontratados identificados na proposta do adjudicatário. No decurso da execução do contrato, a autorização do contraente público à subcontratação fica condicionada à apresentação daquela documentação relativa ao potencial subcontratado por parte do co-contratante.\n\n4 - Para além das causas de caducidade da adjudicação previstas no n.º 1 do artigo 86.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de caducidade da adjudicação o incorrecto ou inadequado preenchimento dos documentos relativos às obrigações fiscais declarativas a apresentar pelo adjudicatário e ou subcontratados nos termos do disposto nos n.os 2 e 3.\n\n5 - Os adjudicatários que considerem não preencher as condições legais relativas ao cumprimento das obrigações declarativas referidas no presente artigo, devem apresentar declaração sob compromisso de honra, subscrita por quem os obriga, referindo expressamente essa situação.\n\n6 - (Revogado).\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28/2013/M - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), em vigor a partir de 2013-08-07, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+  },
+  "115932453": {
+   "fragment_id": "115932503",
+   "type": 11,
+   "heading": "Artigo 8.º-C — Obrigações do contraente público",
+   "in_force_from": "2018-08-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 8.º-C — Obrigações do contraente público\n\nO contraente público deve comunicar mensalmente à Autoridade Tributária os contratos celebrados, com a indicação de todos os dados que permitam acompanhar e assegurar o cumprimento das obrigações declarativas relativas a rendimentos gerados na Região Autónoma da Madeira.\n\n> Aditado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "115932454": {
+   "fragment_id": "62001983",
+   "type": 11,
+   "heading": "Artigo 9.º — Posse administrativa e constituição de servidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Posse administrativa e constituição de servidões\n\nPara efeitos do disposto no artigo 352.º do Código dos Contratos Públicos, relativamente aos terrenos a expropriar, na Região Autónoma da Madeira, o acordo expresso com os respectivos proprietários e ou demais interessados, titulares de direitos e interesses legalmente protegidos é condição suficiente para o dono da obra poder celebrar o contrato."
+  },
+  "115932455": {
+   "fragment_id": "62001984",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações muito graves",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Contra-ordenações muito graves\n\nSem prejuízo do disposto no Regime Geral das Infrações Tributárias, a participação de candidato ou de concorrente que, quando legalmente exigido, não cumpra as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do presente diploma, ou a não apresentação pelo adjudicatário, no prazo fixado para o efeito, dos documentos de habilitação exigidos naquela mesma disposição legal, constituem contraordenações muito graves, puníveis com coima e com sanção de proibição de participação nos mesmos termos do disposto nos artigos 456.º e 460.º do Código dos Contratos Públicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+  },
+  "115932456": {
+   "fragment_id": "62001985",
+   "type": 11,
+   "heading": "Artigo 11.º — Adaptações orgânicas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Adaptações orgânicas\n\n1 - A referência feita à Autoridade para as Condições de Trabalho no n.º 2 do artigo 405.º do Código dos Contratos Públicos considera-se reportada à Direção Regional do Trabalho e da Ação Inspetiva.\n\n2 - A referência feita ao Estado no artigo 462.º do Código dos Contratos Públicos considera-se reportada à Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+  },
+  "115932457": {
+   "fragment_id": "62001986",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação e só será aplicável aos procedimentos de formação de contratos públicos iniciados após a data da sua entrada em vigor e à execução dos contratos que revistam a natureza de contrato administrativo celebrados na sequência de procedimentos de formação iniciados após a entrada em vigor do Código dos Contratos Públicos."
+  },
+  "115932458": {
+   "fragment_id": "62001990",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de Julho de 2008.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Agosto de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "115932459": {
+   "fragment_id": "62001987",
+   "type": 14,
+   "heading": "Anexo I-M — Modelo de declaração",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo I-M — Modelo de declaração\n\n[a que se refere a alínea a) do n.º 1 do artigo 57.º ou a subalínea i) da alínea b) e alínea c) do n.º 3 do artigo 256.º-A, conforme aplicável do Código dos Contratos Públicos e o artigo 6.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto.]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1) ... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado inteiro e perfeito conhecimento do caderno de encargos relativo à execução do contrato a celebrar na sequência do procedimento de ... (designação ou referência ao procedimento em causa), e, se for o caso, do caderno de encargos do acordo-quadro aplicável ao procedimento, declara, sob compromisso de honra, que a sua representada (2) se obriga a executar o referido contrato em conformidade com o conteúdo do mencionado caderno de encargos, relativamente ao qual declara aceitar, sem reservas, todas as suas cláusulas.\n\n2 - Declara também que executará o referido contrato nos termos previstos nos seguintes documentos, que junta em anexo (3):\n\na)...\n\nb)...\n\n3 - Declara ainda que renuncia a foro especial e se submete, em tudo o que respeitar à execução do referido contrato, ao disposto na legislação portuguesa aplicável.\n\n4 - Mais declara, sob compromisso de honra, que não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código dos Contratos Públicos e artigo 5.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação.\n\n5 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica, consoante o caso, a exclusão da proposta apresentada ou a caducidade da adjudicação que eventualmente sobre ela recaia e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n6 - Quando a entidade adjudicante o solicitar, o concorrente obriga-se, nos termos do disposto no artigo 81.º do Código dos Contratos Públicos, a apresentar a declaração que constitui o anexo ii-M do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação, bem como os documentos comprovativos de que se encontra nas situações previstas nas alíneas b), d), e) e i) do n.º 1 do artigo 55.º do referido Código e artigo 5.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação.\n\n7 - O declarante tem ainda pleno conhecimento de que a não apresentação dos documentos solicitados nos termos do número anterior, por motivo que lhe seja imputável, determina a caducidade da adjudicação que eventualmente recaia sobre a proposta apresentada e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local), ... (data), ... [assinatura (4)].\n\n(1) Aplicável apenas a concorrentes que sejam pessoas coletivas.\n\n(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(3) Enumerar todos os documentos que constituem a proposta, para além desta declaração, nos termos do disposto nas alíneas b), c) e d) do n.º 1 e nos n.os 2 e 3 do artigo 57.º\n\n(4) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "115932460": {
+   "fragment_id": "62001988",
+   "type": 14,
+   "heading": "Anexo II-M — Modelo de declaração",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo II-M — Modelo de declaração\n\n[a que se refere a alínea a) do n.º 1 do artigo 81.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1) ... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), adjudicatário(a) no procedimento de ... (designação ou referência ao procedimento em causa), declara, sob compromisso de honra, que a sua representada (2) não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código dos Contratos Públicos.\n\n2 - O declarante junta em anexo [ou indica... como endereço do sítio da Internet onde podem ser consultados (3)] os documentos comprovativos de que a sua representada (4) não se encontra nas situações previstas nas alíneas b), d), e) e i) do artigo 55.º do Código dos Contratos Públicos e (quando aplicável) os documentos comprovativos de que cumpriu as obrigações fiscais declarativas cujo conteúdo assume interesse específico para a Região Autónoma da Madeira referidos no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M.\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a caducidade da adjudicação e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local), ... (data), ... [assinatura (5)].\n\n(1) Aplicável apenas a concorrentes que sejam pessoas coletivas.\n\n(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(3) Acrescentar as informações necessárias à consulta, se for o caso.\n\n(4) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(5) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "115932461": {
+   "fragment_id": "62001989",
+   "type": 14,
+   "heading": "Anexo V-M — Modelo de declaração",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo V-M — Modelo de declaração\n\n(a que se refere o n.º 1 do artigo 168.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto)\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1) ... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado conhecimento das peças do procedimento de ... (designação ou referência ao procedimento em causa), vem por este meio apresentar a respetiva candidatura, juntando em anexo, para o efeito, os seguintes documentos destinados à qualificação (2):\n\na) ...\n\nb) ...\n\n2 - Para o efeito declara, sob compromisso de honra, que não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código do Contratos Públicos e artigo 5.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação.\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a exclusão da candidatura apresentada e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local), ... (data), ... [assinatura (3)].\n\n(1) Aplicável apenas a candidatos que sejam pessoas coletivas.\n\n(2) Enumerar todos os documentos que constituem a candidatura, para além desta declaração, indicados no programa do procedimento.\n\n(3) Nos termos do disposto nos n.os 2 e 3 do artigo 168.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "128824903": {
+   "fragment_id": "62001981",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos de habilitação",
+   "in_force_from": "2020-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28/2013/M - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), em vigor a partir de 2013-08-07, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos de habilitação\n\n1 - A declaração prevista na alínea a) do nº 1 do artigo 81º do Código dos Contratos Públicos a apresentar pelo adjudicatário deve ser elaborada em conformidade com o modelo constante do anexo II ao Código dos Contratos Públicos, adaptada de acordo com o anexo II - M ao presente diploma.\n\n2 - Sem prejuízo do artigo 81.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, alterado, aditado e republicado pelo Decreto-Lei n.º 111-B/2017, de 31 de agosto, na sua atual redação, a conferida pelo Decreto-Lei n.º 170/2019, de 4 de dezembro, na Região Autónoma da Madeira o adjudicatário está ainda obrigado a fazer prova do cumprimento das obrigações declarativas relativas a rendimentos gerados no território da Região Autónoma da Madeira, apresentando ainda os seguintes documentos:\n\na) Última Declaração de Rendimentos modelo 3 ou modelo 22, este último acompanhado do Anexo C, caso o Adjudicatário tenha exercido nesse período atividade na Região Autónoma da Madeira;\n\nb) Última Declaração de Rendimentos e Retenções de Residentes (modelo 10) e DMR;\n\nc) Anexo Q da última informação empresarial simplificada (IES);\n\nd) Anexo R da última declaração periódica do IVA.\n\n3 - A documentação referida no número anterior deve ainda ser apresentada por eventuais subcontratados identificados na proposta do adjudicatário. No decurso da execução do contrato, a autorização do contraente público à subcontratação fica condicionada à apresentação daquela documentação relativa ao potencial subcontratado por parte do co-contratante.\n\n4 - Para além das causas de caducidade da adjudicação previstas no n.º 1 do artigo 86.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de caducidade da adjudicação a não apresentação dos documentos relativos às obrigações fiscais declarativas a apresentar pelo adjudicatário e ou subcontratados nos termos do disposto nos n.os 2 e 3.\n\n5 - Os adjudicatários que considerem não preencher as condições legais relativas ao cumprimento das obrigações declarativas referidas no presente artigo, devem apresentar declaração sob compromisso de honra, subscrita por quem os obriga, referindo expressamente essa situação.\n\n6 - (Revogado).\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28/2013/M - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), em vigor a partir de 2013-08-07, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+  },
+  "128824905": {
+   "fragment_id": "128824854",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Execução do contrato",
+   "in_force_from": "2020-02-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Execução do contrato\n\n1 - Durante o prazo de vigência do contrato, incluindo quaisquer prorrogações do prazo de execução, o cocontratante e, caso existam, os subcontratados devem proceder à entrega dos documentos identificados na alínea a) do n.º 2 do artigo 7.º, sem prejuízo do disposto no seu n.º 5.\n\n2 - No caso de empreitadas de obras públicas, os documentos exigidos no número anterior devem ser apresentados até à receção provisória da totalidade da obra, devendo ser entregues antes da respetiva vistoria.\n\n3 - Na aquisição de bens móveis, os documentos exigidos no n.º 1 devem ser apresentados até à receção da totalidade dos bens fornecidos, devendo ser apresentados entre a entrega e a receção dos bens objeto do contrato.\n\n4 - Quanto à aquisição de serviços, os documentos referidos no número anterior devem ser apresentados até ao termo da prestação do serviço, devendo ser entregues em simultâneo com o pedido de pagamento.\n\n> Aditado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01"
+  },
+  "128824906": {
+   "fragment_id": "62001982",
+   "type": 11,
+   "heading": "Artigo 8.º — Escolha das entidades convidadas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01, produz efeitos a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Escolha das entidades convidadas\n\nNão é aplicável na Região Autónoma da Madeira o disposto no artigo 27.º-A, nos n.os 2, 3 e 4 do artigo 113.º e na alínea d) do n.º 2 do artigo 250.º -D do Código dos Contratos Públicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 39.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01, produz efeitos a partir de 2009-01-01"
+  },
+  "128824907": {
+   "fragment_id": "114873221",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Gestor do Contrato",
+   "in_force_from": "2020-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-A — Gestor do Contrato\n\n1 - Sem prejuízo das funções atribuídas ao Gestor do Contrato no artigo 290.º-A do Código dos Contratos Públicos, compete-lhe ainda acompanhar o cumprimento das obrigações declarativas relativas a rendimentos gerados na Região Autónoma da Madeira, nomeadamente a entrega dos documentos identificados no artigo 7.º-A do presente diploma.\n\n2 - Compete também, ao Gestor do Contrato, nos casos da vistoria prevista no artigo 394.º do Código dos Contratos Públicos, verificar se todas as obrigações contratuais e legais do empreiteiro estão cumpridas de forma integral e perfeita, designadamente no que respeita aos subcontratos celebrados, quando aplicável.\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+  },
+  "128824908": {
+   "fragment_id": "114873222",
+   "type": 11,
+   "heading": "Artigo 8.º-B — Valor da caução",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-B — Valor da caução\n\n1 - Para efeitos do disposto do n.º 1 do artigo 89.º do Código dos Contratos Públicos, relativamente ao valor da caução, na Região Autónoma da Madeira, o valor da caução é, no máximo, de 3 % do preço contratual.\n\n2 - Para efeitos do n.º 6 do artigo 89.º do Código dos Contratos Públicos, na falta de fixação, na Região Autónoma da Madeira, o valor da caução previsto nos n.os 1 e 2 é de 3 % ou de 10 % do preço contratual, respetivamente.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2019-01-01"
+  },
+  "128824909": {
+   "fragment_id": "115932503",
+   "type": 11,
+   "heading": "Artigo 8.º-C — Obrigações do contraente público",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+   ],
+   "markdown": "###### Artigo 8.º-C — Obrigações do contraente público\n\nO contraente público deve comunicar mensalmente à Autoridade Tributária os contratos celebrados, com a indicação de todos os dados que permitam acompanhar e assegurar o cumprimento das obrigações declarativas relativas a rendimentos gerados na Região Autónoma da Madeira.\n\n> Aditado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07"
+  },
+  "128824910": {
+   "fragment_id": "62001983",
+   "type": 11,
+   "heading": "Artigo 9.º — Posse administrativa e constituição de servidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Posse administrativa e constituição de servidões\n\nPara efeitos do disposto no artigo 352.º do Código dos Contratos Públicos, relativamente aos terrenos a expropriar, na Região Autónoma da Madeira, o acordo expresso com os respectivos proprietários e ou demais interessados, titulares de direitos e interesses legalmente protegidos é condição suficiente para o dono da obra poder celebrar o contrato."
+  },
+  "128824911": {
+   "fragment_id": "62001984",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações muito graves",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Contra-ordenações muito graves\n\nSem prejuízo do disposto no Regime Geral das Infrações Tributárias, a participação de candidato ou de concorrente que, quando legalmente exigido, não cumpra as obrigações fiscais declarativas referidas no n.º 2 do artigo 7.º do presente diploma, ou a não apresentação pelo adjudicatário, no prazo fixado para o efeito, dos documentos de habilitação exigidos naquela mesma disposição legal, constituem contraordenações muito graves, puníveis com coima e com sanção de proibição de participação nos mesmos termos do disposto nos artigos 456.º e 460.º do Código dos Contratos Públicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+  },
+  "128824912": {
+   "fragment_id": "62001985",
+   "type": 11,
+   "heading": "Artigo 11.º — Adaptações orgânicas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Adaptações orgânicas\n\n1 - A referência feita à Autoridade para as Condições de Trabalho no n.º 2 do artigo 405.º do Código dos Contratos Públicos considera-se reportada à Direção Regional do Trabalho e da Ação Inspetiva.\n\n2 - A referência feita ao Estado no artigo 462.º do Código dos Contratos Públicos considera-se reportada à Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01"
+  },
+  "128824913": {
+   "fragment_id": "62001986",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação e só será aplicável aos procedimentos de formação de contratos públicos iniciados após a data da sua entrada em vigor e à execução dos contratos que revistam a natureza de contrato administrativo celebrados na sequência de procedimentos de formação iniciados após a entrada em vigor do Código dos Contratos Públicos."
+  },
+  "128824914": {
+   "fragment_id": "62001990",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 23 de Julho de 2008.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 4 de Agosto de 2008.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "128824915": {
+   "fragment_id": "62001987",
+   "type": 14,
+   "heading": "Anexo I-M — Modelo de declaração",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo I-M — Modelo de declaração\n\n[a que se refere a alínea a) do n.º 1 do artigo 57.º ou a subalínea i) da alínea b) e alínea c) do n.º 3 do artigo 256.º-A, conforme aplicável do Código dos Contratos Públicos e o artigo 6.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto.]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1) ... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado inteiro e perfeito conhecimento do caderno de encargos relativo à execução do contrato a celebrar na sequência do procedimento de ... (designação ou referência ao procedimento em causa), e, se for o caso, do caderno de encargos do acordo-quadro aplicável ao procedimento, declara, sob compromisso de honra, que a sua representada (2) se obriga a executar o referido contrato em conformidade com o conteúdo do mencionado caderno de encargos, relativamente ao qual declara aceitar, sem reservas, todas as suas cláusulas.\n\n2 - Declara também que executará o referido contrato nos termos previstos nos seguintes documentos, que junta em anexo (3):\n\na)...\n\nb)...\n\n3 - Declara ainda que renuncia a foro especial e se submete, em tudo o que respeitar à execução do referido contrato, ao disposto na legislação portuguesa aplicável.\n\n4 - Mais declara, sob compromisso de honra, que não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código dos Contratos Públicos e artigo 5.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação.\n\n5 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica, consoante o caso, a exclusão da proposta apresentada ou a caducidade da adjudicação que eventualmente sobre ela recaia e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n6 - Quando a entidade adjudicante o solicitar, o concorrente obriga-se, nos termos do disposto no artigo 81.º do Código dos Contratos Públicos, a apresentar a declaração que constitui o anexo ii-M do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação, bem como os documentos comprovativos de que se encontra nas situações previstas nas alíneas b), d), e) e i) do n.º 1 do artigo 55.º do referido Código e artigo 5.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação.\n\n7 - O declarante tem ainda pleno conhecimento de que a não apresentação dos documentos solicitados nos termos do número anterior, por motivo que lhe seja imputável, determina a caducidade da adjudicação que eventualmente recaia sobre a proposta apresentada e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local), ... (data), ... [assinatura (4)].\n\n(1) Aplicável apenas a concorrentes que sejam pessoas coletivas.\n\n(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(3) Enumerar todos os documentos que constituem a proposta, para além desta declaração, nos termos do disposto nas alíneas b), c) e d) do n.º 1 e nos n.os 2 e 3 do artigo 57.º\n\n(4) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "128824916": {
+   "fragment_id": "62001988",
+   "type": 14,
+   "heading": "Anexo II-M — Modelo de declaração",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo II-M — Modelo de declaração\n\n[a que se refere a alínea a) do n.º 1 do artigo 81.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto]\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1) ... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), adjudicatário(a) no procedimento de ... (designação ou referência ao procedimento em causa), declara, sob compromisso de honra, que a sua representada (2) não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código dos Contratos Públicos.\n\n2 - O declarante junta em anexo [ou indica... como endereço do sítio da Internet onde podem ser consultados (3)] os documentos comprovativos de que a sua representada (4) não se encontra nas situações previstas nas alíneas b), d), e) e i) do artigo 55.º do Código dos Contratos Públicos e (quando aplicável) os documentos comprovativos de que cumpriu as obrigações fiscais declarativas cujo conteúdo assume interesse específico para a Região Autónoma da Madeira referidos no n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M.\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a caducidade da adjudicação e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local), ... (data), ... [assinatura (5)].\n\n(1) Aplicável apenas a concorrentes que sejam pessoas coletivas.\n\n(2) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(3) Acrescentar as informações necessárias à consulta, se for o caso.\n\n(4) No caso de o concorrente ser uma pessoa singular, suprimir a expressão «a sua representada».\n\n(5) Nos termos do disposto nos n.os 4 e 5 do artigo 57.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "128824917": {
+   "fragment_id": "62001989",
+   "type": 14,
+   "heading": "Anexo V-M — Modelo de declaração",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+   ],
+   "markdown": "## Anexo V-M — Modelo de declaração\n\n(a que se refere o n.º 1 do artigo 168.º do Código dos Contratos Públicos e o n.º 1 do artigo 7.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto)\n\n1 - ... (nome, número de documento de identificação e morada), na qualidade de representante legal de (1) ... (firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes), tendo tomado conhecimento das peças do procedimento de ... (designação ou referência ao procedimento em causa), vem por este meio apresentar a respetiva candidatura, juntando em anexo, para o efeito, os seguintes documentos destinados à qualificação (2):\n\na) ...\n\nb) ...\n\n2 - Para o efeito declara, sob compromisso de honra, que não se encontra em nenhuma das situações previstas no n.º 1 do artigo 55.º do Código do Contratos Públicos e artigo 5.º do Decreto Legislativo Regional n.º 34/2008/M, de 14 de agosto, na sua atual redação.\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a exclusão da candidatura apresentada e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n... (local), ... (data), ... [assinatura (3)].\n\n(1) Aplicável apenas a candidatos que sejam pessoas coletivas.\n\n(2) Enumerar todos os documentos que constituem a candidatura, para além desta declaração, indicados no programa do procedimento.\n\n(3) Nos termos do disposto nos n.os 2 e 3 do artigo 168.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 60/2008 - Diário da República n.º 197/2008, Série I de 2008-10-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/60-2008-452748), em vigor a partir de 2008-08-15"
+  },
+  "861109022": {
+   "fragment_id": "62001978",
+   "type": 11,
+   "heading": "Artigo 4.º — Escolha do procedimento e redução do contrato a escrito",
+   "in_force_from": "2022-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 75.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Escolha do procedimento e redução do contrato a escrito\n\n1 - Aos valores que determinam a escolha do procedimento de formação de contratos previsos nas alíneas c) e d) do artigo 19.º, nas alíneas c) e d) do n.º 1 do artigo 20.º, nas alíneas b) e c) do n.º 1 do artigo 21.º, no n.º 2 do artigo 22.º, no n.º 4 do artigo 31.º, no n.º 3 do artigo 36.º, no n.º 2 do artigo 46.º-A, no n.º 1 do artigo 128.º e na alínea a) do artigo 155.º do Código dos Contratos Públicos, é aplicado na Região Autónoma da Madeira um coeficiente de 1,45.\n\n2 - Da aplicação do coeficiente previsto no nº 1 não pode resultar a violação dos montantes dos limiares para contratos públicos, definidos pela legislação comunitária.\n\n3 - Todas as referências no Código dos Contratos Públicos às normas mencionadas no nº 1 devem ter em consideração os valores resultantes da aplicação do coeficiente nele previsto.\n\n4 - Aos valores que determinam a não exigibilidade de redução de contrato, previstos nas alíneas a) e d) do n.º 1 do artigo 95.º do Código dos Contratos Públicos, é aplicado na Região Autónoma da Madeira um coeficiente de 1,45.\n\n> Alterado pelo/a Artigo 75.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+  },
+  "993859325": {
+   "fragment_id": "62001981",
+   "type": 11,
+   "heading": "Artigo 7.º — Documentos de habilitação",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 100.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28/2013/M - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), em vigor a partir de 2013-08-07, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Documentos de habilitação\n\n1 - A declaração prevista na alínea a) do nº 1 do artigo 81º do Código dos Contratos Públicos a apresentar pelo adjudicatário deve ser elaborada em conformidade com o modelo constante do anexo II ao Código dos Contratos Públicos, adaptada de acordo com o anexo II - M ao presente diploma.\n\n2 - Sem prejuízo do artigo 81.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, alterado, aditado e republicado pelo Decreto-Lei n.º 111-B/2017, de 31 de agosto, na sua atual redação, a conferida pelo Decreto-Lei n.º 170/2019, de 4 de dezembro, na Região Autónoma da Madeira o adjudicatário está ainda obrigado a fazer prova do cumprimento das obrigações declarativas relativas a rendimentos gerados no território da Região Autónoma da Madeira, apresentando ainda os seguintes documentos:\n\na) Última Declaração de Rendimentos modelo 3 ou modelo 22, este último acompanhado do Anexo C, caso o Adjudicatário tenha exercido nesse período atividade na Região Autónoma da Madeira;\n\nb) Última Declaração de Rendimentos e Retenções de Residentes (modelo 10) e DMR;\n\nc) Última Declaração Mensal de Imposto do Selo (DMIS);\n\nd) Última declaração periódica do IVA.\n\n3 - A documentação referida no número anterior deve ainda ser apresentada por eventuais subcontratados identificados na proposta do adjudicatário. No decurso da execução do contrato, a autorização do contraente público à subcontratação fica condicionada à apresentação daquela documentação relativa ao potencial subcontratado por parte do co-contratante.\n\n4 - Para além das causas de caducidade da adjudicação previstas no n.º 1 do artigo 86.º do Código dos Contratos Públicos, na Região Autónoma da Madeira, constitui igualmente causa de caducidade da adjudicação a não apresentação dos documentos relativos às obrigações fiscais declarativas a apresentar pelo adjudicatário e ou subcontratados nos termos do disposto nos n.os 2 e 3.\n\n5 - Os adjudicatários que considerem não preencher as condições legais relativas ao cumprimento das obrigações declarativas referidas no presente artigo, devem apresentar declaração sob compromisso de honra, subscrita por quem os obriga, referindo expressamente essa situação.\n\n6 - (Revogado).\n\n> Alterado pelo/a Artigo 100.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 81.º do/a [Decreto Legislativo Regional n.º 1-A/2020/M - Diário da República n.º 22/2020, 1º Suplemento, Série I de 2020-01-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-a-2020-128771582), em vigor a partir de 2020-02-01, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 12/2018/M - Diário da República n.º 150/2018, Série I de 2018-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2018-115924019), em vigor a partir de 2018-08-07\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2018/M - Diário da República n.º 53/2018, Série I de 2018-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2018-114866946), em vigor a partir de 2018-03-16, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 28/2013/M - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/28-2013-498484), em vigor a partir de 2013-08-07, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 54.º-A do/a [Decreto Legislativo Regional n.º 42/2012/M - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-2012-189511), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 5/2012/M - Diário da República n.º 65/2012, Série I de 2012-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2012-553889), em vigor a partir de 2012-03-31, produz efeitos a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 35.º do/a [Decreto Legislativo Regional n.º 2/2011/M - Diário da República n.º 6/2011, Série I de 2011-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2011-485631), em vigor a partir de 2011-01-11, produz efeitos a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01, produz efeitos a partir de 2010-01-01"
+  }
+ }
+}

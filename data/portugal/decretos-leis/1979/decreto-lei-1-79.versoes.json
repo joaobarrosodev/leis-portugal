@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:476681:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-171164926",
+ "dre_path": "/dr/detalhe/decreto-lei/1-1979-476681",
+ "source_lastmod": "2025-06-20",
+ "versions": [
+  {
+   "date": "1979-01-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "171164570",
+    "171164571",
+    "171164572"
+   ]
+  },
+  {
+   "date": "1979-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:383274:por",
+     "title": "Declaração",
+     "published": "1979-03-22",
+     "dre_path": "/dr/detalhe/declaracao/1979-383274"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º"
+   ],
+   "fragments": [
+    "171164570",
+    "922110692",
+    "171164572",
+    "171164573"
+   ]
+  },
+  {
+   "date": "2018-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115235757:por",
+     "title": "Decreto-Lei n.º 32/2018",
+     "published": "2018-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2018-115235757"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "171164570",
+    "922141982",
+    "922141983",
+    "922141984"
+   ]
+  }
+ ],
+ "fragments": {
+  "171164570": {
+   "fragment_id": "171164927",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 1/79\n\nde 8 de Janeiro\n\nCom o Decreto-Lei n.º 238/76, de 6 de Abril, foram isentas de direitos de importação, pelo prazo de um ano, que tem sido sucessivamente prorrogado, as partes e peças separadas de armas de caça e recreio classificadas pelos artigos 93.06.02 e 93.06.03 da Pauta de Direitos de Importação, aprovada pelo Decreto-Lei n.º 42656, de 18 de Novembro de 1959.\n\nTodavia, aquela isenção não abrange as taxas devidas pelas autorizações de importação de armas, munições e acessórios, previstas na tabela A - I - c anexa ao Decreto-Lei n.º 37313, de 21 de Fevereiro de 1949.\n\nEssa situação vem frustrar os objectivos que se tiveram em vista com a publicação do Decreto-Lei n.º 238/76, de 6 de Abril.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "171164571": {
+   "fragment_id": "171164928",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão isentas de taxa as autorizações previstas na tabela A - 1 - c) anexa ao Decreto-Lei n.º 37313, de 21 de Fevereiro de 1949, em relação às peças ou grupos de peças que beneficiem da isenção prevista no artigo 1.º do Decreto-Lei n.º 238/76, de 6 de Abril."
+  },
+  "171164572": {
+   "fragment_id": "171164929",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "922110692": {
+   "fragment_id": "171164928",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1979-03-22",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 68/1979, Série I de 1979-03-22](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383274), em vigor a partir de 1979-03-22"
+   ],
+   "markdown": "###### Artigo 1.º\n\nSão isentas de taxa as autorizações previstas na tabela A - 1 - e) anexa ao Decreto-Lei n.º 37313, de 21 de Fevereiro de 1949, em relação às peças ou grupos de peças que beneficiem da isenção prevista no artigo 1.º do Decreto-Lei n.º 238/76, de 6 de Abril.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 68/1979, Série I de 1979-03-22](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383274), em vigor a partir de 1979-03-22"
+  },
+  "171164573": {
+   "fragment_id": "171164930",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro.\n\nPromulgado em 2 de Janeiro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "922141982": {
+   "fragment_id": "171164928",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Retificado pelo/a [Declaração - Diário da República n.º 68/1979, Série I de 1979-03-22](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383274), em vigor a partir de 1979-03-22"
+   ],
+   "markdown": "###### Artigo 1.º\n\nSão isentas de taxa as autorizações previstas na tabela A - 1 - e) anexa ao Decreto-Lei n.º 37313, de 21 de Fevereiro de 1949, em relação às peças ou grupos de peças que beneficiem da isenção prevista no artigo 1.º do Decreto-Lei n.º 238/76, de 6 de Abril.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Retificado pelo/a [Declaração - Diário da República n.º 68/1979, Série I de 1979-03-22](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-383274), em vigor a partir de 1979-03-22"
+  },
+  "922141983": {
+   "fragment_id": "171164929",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "922141984": {
+   "fragment_id": "171164930",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - António Gonçalves Ribeiro.\n\nPromulgado em 2 de Janeiro de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  }
+ }
+}

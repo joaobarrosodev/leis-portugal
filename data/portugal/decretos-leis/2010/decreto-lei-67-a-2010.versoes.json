@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:438724:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-153013681",
+ "dre_path": "/dr/detalhe/decreto-lei/67-a-2010-438724",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-06-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "152954461",
+    "152954462",
+    "152954463",
+    "152954464",
+    "152954465",
+    "152954466",
+    "152954467",
+    "152954469",
+    "152954470"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639825:por",
+     "title": "Lei n.º 75-B/2020",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/lei/75-b-2020-152639825"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "152954461",
+    "152954462",
+    "152954463",
+    "152954464",
+    "152954465",
+    "152954471",
+    "152954467",
+    "152954468",
+    "152954469",
+    "152954470"
+   ]
+  }
+ ],
+ "fragments": {
+  "152954461": {
+   "fragment_id": "153013682",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 67-A/2010\n\nde 14 de Junho\n\nO presente decreto-lei identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores, competindo à EP - Estradas de Portugal, S. A. (EP, S. A.), a gestão do sistema de cobrança de taxas de portagem nos mesmos, bem como os lanços e os sublanços de auto-estrada nos quais os respectivos utilizadores ficam isentos do pagamento de taxas de portagem e fixa, ainda, a data a partir da qual se inicia a cobrança das referidas taxas, no âmbito das concessões SCUT Costa de Prata, Grande Porto e Norte Litoral.\n\nA introdução de portagens em auto-estradas onde actualmente se encontra instituído o regime sem custos para o utilizador (SCUT) encontra-se prevista, quer no Programa de Estabilidade e Crescimento 2010-2013, para obter a necessária consolidação das contas públicas, quer no Programa do XVIII Governo Constitucional, destinando-se a garantir uma maior equidade e justiça social, bem como a permitir um incremento das verbas a aplicar noutras áreas fundamentais das infra-estruturas rodoviárias, tais como a conservação, a segurança e o melhoramento da rede de estradas e a ampliação da rede rodoviária nacional.\n\nDas decisões constantes do presente decreto-lei foi dado conhecimento antecipado aos municípios atravessados pelos lanços e sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores. A introdução do sistema de cobrança de portagens surge na sequência da implementação do novo modelo de gestão e de financiamento do sector das infra-estruturas rodoviárias, no qual se atribuiu à EP, S. A., a concessão da rede rodoviária nacional, em moldes que assegurem a sua sustentabilidade económica e financeira.\n\nCom vista a concretizar a adaptação a esse novo modelo, foram desenvolvidos processos negociais, nos termos do Decreto-Lei n.º 86/2003, de 26 de Abril, alterado pelo Decreto-Lei n.º 141/2006, de 27 de Julho, relativamente às concessões SCUT Costa de Prata, Grande Porto e Norte Litoral, que conduziram à implementação de um regime que permite ao legislador submeter lanços e sublanços ao regime de cobrança de taxas de portagem aos utilizadores.\n\nEm resultado do acordo alcançado com as concessionárias, as bases das referidas concessões, bem como os contratos de concessão originariamente celebrados, foram alterados em conformidade, sendo que o presente decreto-lei dá cumprimento ao disposto no n.º 1 da base lvii-A de cada uma das mencionadas bases de concessão.\n\nAssim:\n\nNos termos da base lvii-A, aprovada em anexo ao Decreto-Lei n.º 87-A/2000, de 13 de Maio, alterado pelo Decreto-Lei n.º 44-C/2010, de 5 de Maio, designada por Concessão da Costa de Prata, ao Decreto-Lei n.º 189/2002, de 28 de Agosto, alterado pelo Decreto-Lei n.º 19/2007, de 22 de Janeiro, e pelo Decreto-Lei n.º 44-G/2010, de 5 de Maio, designada por Concessão do Grande Porto e ao Decreto-Lei n.º 234/2001, de 28 de Agosto, alterado pelo Decreto-Lei n.º 44-B/2010, de 5 de Maio, designada por Concessão Norte Litoral, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "152954462": {
+   "fragment_id": "153013683",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei identifica os lanços e os sublanços de auto-estrada sujeitos ao regime de cobrança de taxas de portagem aos utilizadores e fixa a data a partir da qual se inicia a cobrança das mesmas.\n\n2 - O presente decreto-lei procede, ainda, à identificação dos lanços e dos sublanços de auto-estrada nos quais os respectivos utilizadores ficam isentos do pagamento de taxas de portagem."
+  },
+  "152954463": {
+   "fragment_id": "153013684",
+   "type": 11,
+   "heading": "Artigo 2.º — Lanços e sublanços sujeitos ao regime de cobrança de taxas de portagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Lanços e sublanços sujeitos ao regime de cobrança de taxas de portagem\n\n1 - São sujeitos ao regime de cobrança de taxas de portagem aos utilizadores, nos termos do regime legal e contratual aplicável à concessão em que se integram, os lanços e os sublanços identificados no anexo i do presente decreto-lei, do qual faz parte integrante.\n\n2 - Compete à EP - Estradas de Portugal, S. A. (EP, S. A.), a gestão do sistema de cobrança de taxas de portagem, nos lanços e nos sublanços identificados no número anterior."
+  },
+  "152954464": {
+   "fragment_id": "153013685",
+   "type": 11,
+   "heading": "Artigo 3.º — Cobrança das taxas de portagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cobrança das taxas de portagem\n\nA cobrança das taxas de portagem aos utilizadores nos lanços e nos sublanços de auto-estrada referidos no artigo anterior inicia-se no dia 1 de Julho de 2010."
+  },
+  "152954465": {
+   "fragment_id": "153013686",
+   "type": 11,
+   "heading": "Artigo 4.º — Taxas de portagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Taxas de portagem\n\n1 - As taxas de portagem a cobrar correspondem ao produto da aplicação das tarifas de portagem ao comprimento efectivo de cada sublanço ou conjunto de sublanços onde sejam aplicadas, arredondado ao hectómetro, acrescido do IVA aplicável à taxa em vigor.\n\n2 - Para efeitos do disposto nas respectivas bases de concessão, constituem, ainda, fundamento para a variação das taxas de portagem a especificidade de determinados sublanços, bem como a fluidez do tráfego, factores que podem determinar que as extensões dos percursos considerados para a fixação das taxas de portagem se baseiem em percursos médios ponderados.\n\n3 - O montante das taxas de portagem previsto nas respectivas bases de concessão e previsto no número anterior, bem como a correspondente fundamentação são aprovados pelos ministros responsáveis pela área das finanças e pela área das infra-estruturas rodoviárias, sob proposta da EP, S. A., e mediante parecer do Instituto das Infra-Estruturas Rodoviárias, I. P."
+  },
+  "152954466": {
+   "fragment_id": "153013687",
+   "type": 11,
+   "heading": "Artigo 5.º — Lanços e sublanços sujeitos a isenções de pagamento de taxas de portagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Lanços e sublanços sujeitos a isenções de pagamento de taxas de portagem\n\nNos lanços e nos sublanços identificados no anexo ii do presente decreto-lei, do qual faz parte integrante, os respectivos utilizadores ficam isentos do pagamento de taxas de portagem."
+  },
+  "152954467": {
+   "fragment_id": "153013688",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de Julho de 2010."
+  },
+  "152954469": {
+   "fragment_id": "153013690",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 2.º)\n\nLanços e sublanços sujeitos ao regime de cobrança de taxas de portagem aos utilizadores\n\nConcessão Costa de Prata\n\n(ver documento original)\n\nConcessão Grande Porto\n\n(ver documento original)\n\nConcessão Norte Litoral\n\n(ver documento original)"
+  },
+  "152954470": {
+   "fragment_id": "153013691",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 5.º)\n\nLanços e sublanços cujos utilizadores estão isentos do pagamento de taxas de portagem\n\nConcessão Costa de Prata\n\n(ver documento original)\n\nConcessão Grande Porto\n\n(ver documento original)\n\nConcessão Norte Litoral\n\n(ver documento original)"
+  },
+  "152954471": {
+   "fragment_id": "153013687",
+   "type": 11,
+   "heading": "Artigo 5.º — Lanços e sublanços sujeitos a isenções e descontos na cobrança de taxas de portagem",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 425.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01, produz efeitos a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 5.º — Lanços e sublanços sujeitos a isenções e descontos na cobrança de taxas de portagem\n\n1 - Nos lanços e nos sublanços identificados no anexo i do presente decreto-lei, do qual faz parte integrante, os respetivos utilizadores usufruem de um desconto de:\n\na) 50 % no valor da taxa de portagem, aplicável em cada transação;\n\nb) 75 % no valor da taxa de portagem aplicável em cada transação, para veículos elétricos e não poluentes.\n\n2 - Nos lanços e nos sublanços identificados no anexo ii do presente decreto-lei, do qual faz parte integrante, os respectivos utilizadores ficam isentos do pagamento de taxas de portagem.\n\n> Alterado pelo/a Artigo 425.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01, produz efeitos a partir de 2021-07-01"
+  },
+  "152954468": {
+   "fragment_id": "153013689",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Maio de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Augusto da Ascenção Mendonça.\n\nPromulgado em 2 de Junho de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 2 de Junho de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

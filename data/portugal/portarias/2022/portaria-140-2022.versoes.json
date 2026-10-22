@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:182727777:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-183378409",
+ "dre_path": "/dr/detalhe/portaria/140-2022-182727777",
+ "source_lastmod": "2025-12-18",
+ "versions": [
+  {
+   "date": "2022-04-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "183375592",
+    "183375593",
+    "183375594",
+    "183375596"
+   ]
+  }
+ ],
+ "fragments": {
+  "183375592": {
+   "fragment_id": "183378410",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 140/2022\n\nde 29 de abril\n\nSumário: Aprova a lista de códigos de atividade elegíveis no âmbito de sistema de incentivos Apoiar as Indústrias Intensivas em Gás.\n\nO Decreto-Lei n.º 30-B/2022, de 18 de abril, publicado no 2.º suplemento ao Diário da República, 1.ª série, n.º 75, de 18 de abril de 2022, estabeleceu um sistema de incentivos à liquidez das empresas especialmente afetadas pelo aumento acentuado do preço do gás natural, designado Programa Apoiar Indústrias Intensivas em Gás.\n\nDe acordo com a subalínea i) da alínea f) do n.º 1 do artigo 3.º do referido decreto-lei, no âmbito daquele sistema de incentivos, são consideradas elegíveis as atividades desenvolvidas num setor ou subsetor identificado em portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia e do mar.\n\nAssim, nos termos e ao abrigo da subalínea i) da alínea f) do n.º 1 do artigo 3.º do Decreto-Lei n.º 30-B/2022, de 18 de abril, que aprovou o sistema de incentivos Apoiar as Indústrias Intensivas em Gás, manda o Governo, pelo Ministro das Finanças e pelo Ministro da Economia e do Mar, o seguinte:"
+  },
+  "183375593": {
+   "fragment_id": "183378411",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovada a lista de códigos de atividade elegíveis no âmbito do sistema de incentivos Apoiar as Indústrias Intensivas em Gás, constante do anexo a esta portaria e que dela faz parte integrante."
+  },
+  "183375594": {
+   "fragment_id": "183378412",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde a entrada em vigor do Decreto-Lei n.º 30-B/2022, de 18 de abril.\n\nEm 22 de abril de 2022."
+  },
+  "183375596": {
+   "fragment_id": "183378414",
+   "type": 14,
+   "heading": "Anexo — Lista de códigos de atividade elegíveis no âmbito do Apoiar as Indústrias Intensivas em Gás",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Lista de códigos de atividade elegíveis no âmbito do Apoiar as Indústrias Intensivas em Gás\n\nSecção C - Indústrias transformadoras\n\n1310: Preparação e fiação de fibras têxteis.\n\n1320: Tecelagem de têxteis.\n\n1330: Acabamentos de têxteis.\n\n1392: Fabricação de outros têxteis.\n\n1396: Fabricação de têxteis para uso técnico e industrial.\n\n17: Fabricação de pasta, de papel, cartão e seus artigos.\n\n201: Fabricação de produtos químicos de base, adubos azotados, matérias plásticas e borracha sintética, sob formas primárias.\n\n231: Fabricação de vidro e artigos de vidro.\n\n232: Fabricação de produtos cerâmicos refratários.\n\n233: Fabricação de produtos cerâmicos para a construção.\n\n2341: Fabricação de artigos cerâmicos para usos técnicos.\n\n2342: Fabricação de cerâmicos para usos sanitários.\n\n235: Fabricação de cimento, cal e gesso.\n\n236: Fabricação de produtos de betão, gesso e cimento.\n\n241: Siderurgia e fabricação de ferro-ligas.\n\n115262688"
+  }
+ }
+}

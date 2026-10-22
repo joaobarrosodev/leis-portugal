@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:153917315:por
+title: Resolução da Assembleia da República n.º 1-B/2021
+short_title: null
+summary: Modificação da declaração do estado de emergência e autorização da sua renovação
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 1-B/2021
+official_date: null
+publication_date: '2021-01-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 8/2021, 2º Suplemento, Série I de 2021-01-13
+  number: '8'
+  series: I
+  supplement: 2º Suplemento
+  pages: 5-(6) a 5-(9)
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/01/00802/0000600009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/1-b/2021/01/13/p/dre/pt/html
+  oj: null
+  dre: '153917315'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/1-b-2021-153917315
+  internal: pt:dre:153917315:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/1-b-2021-153917315
+  metadata_url: https://data.dre.pt/eli/resolassrep/1-b/2021/01/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/1-b-2021-153917315
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-01-13T00:00:00Z'
+integrity:
+  source_sha256: 2c2a160b41290e73e1cb6c025a31c88a1bfca2eb17c31a1b9abe5fff5fa0bac0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2021/DRE-2021-1-B-153917315.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estado de Emergência
+- Catástrofe
+- Presidente da República
+- Assembleia da República
+- Doença Infecciosa
+- Epidemia
+- Diploma Legal
+- Situação de Calamidade
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decpresrep/6-a/2021/01/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decpresrep/6-a/2021/01/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/1/2012/05/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/1/2012/05/11/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 1-B/2021
+
+Modificação da declaração do estado de emergência e autorização da sua renovação
+
+A Assembleia da República resolve, nos termos da alínea l) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição e do n.º 1 do artigo 15.º, do n.º 1 do artigo 23.º e do n.º 1 do artigo 26.º da [Lei n.º 44/86](https://diariodarepublica.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1), de 30 de setembro, alterada e republicada pela [Lei Orgânica n.º 1/2012](https://diariodarepublica.pt/web/guest/pesquisa/-/search/552035/details/normal?l=1), de 11 de maio, conceder autorização para a modificação da declaração do estado de emergência, aprovada pelo [Decreto do Presidente da República n.º 6-A/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/153138220/details/normal?l=1), de 6 de janeiro, e para a sua renovação, conforme solicitado pelo Presidente da República na mensagem que endereçou à Assembleia da República em 12 de janeiro de 2021, nos exatos termos e com a fundamentação e conteúdo constantes do projeto de decreto do Presidente da República:
+
+1.º
+
+É modificada a declaração do estado de emergência, aprovada pelo [Decreto do Presidente da República n.º 6-A/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/153138220/details/normal?l=1), de 6 de janeiro, e renovada por 15 dias, com fundamento na verificação de uma situação de calamidade pública.
+
+2.º
+
+A declaração do estado de emergência abrange todo o território nacional.
+
+3.º
+
+1) A modificação do estado de emergência, aprovada pelo [Decreto do Presidente da República n.º 6-A/2021](https://diariodarepublica.pt/web/guest/pesquisa/-/search/153138220/details/normal?l=1), de 6 de janeiro, inicia-se às 00h00 do dia 14 de janeiro de 2021 e termina na data prevista neste decreto.
+
+2) A renovação do estado de emergência tem a duração de 15 dias, iniciando-se às 00h00 do dia 16 de janeiro de 2021 e cessando às 23h59 do dia 30 de janeiro de 2021, sem prejuízo de eventuais renovações, nos termos da lei.
+
+4.º
+
+Durante todo o período referido no artigo anterior, fica parcialmente suspenso o exercício dos seguintes direitos, nos estritos termos seguidamente previstos:
+
+1) Direitos à liberdade e de deslocação:
+
+a) Podem ser impostas as restrições necessárias para reduzir o risco de contágio e executar as medidas de prevenção e combate à epidemia, podendo as medidas a adotar ser calibradas em função do grau de risco de cada município, podendo, para este efeito, os mesmos ser agrupados de acordo com os dados e avaliação das autoridades competentes, com base no melhor conhecimento científico, incluindo a proibição de circulação na via pública, bem como a interdição das deslocações que não sejam justificadas nos termos das alíneas c) e d);
+
+b) Na medida do estritamente necessário e de forma proporcional, pode ser imposto o confinamento compulsivo em estabelecimento de saúde, no domicílio ou, não sendo aí possível, noutro local definido pelas autoridades competentes, de pessoas portadoras do vírus SARS-CoV-2, ou em vigilância ativa. Para efeitos do exercício do direito de voto nas eleições para o Presidente da República, os idosos acolhidos em estruturas residenciais devem ser considerados em confinamento obrigatório;
+
+c) As restrições referidas supra na alínea a) devem prever as regras indispensáveis para a obtenção de cuidados de saúde, para apoio a terceiros, nomeadamente idosos, incluindo os acolhidos em estruturas residenciais, para a deslocação e frequência de estabelecimentos de ensino, para a deslocação para os locais de trabalho quando indispensável, para a produção e abastecimento de bens e serviços e para a deslocação por outras razões ponderosas, cabendo ao Governo, nesta eventualidade, especificar as situações e finalidades em que a liberdade de circulação individual, preferencialmente desacompanhada, se mantém;
+
+d) Para além das exceções previstas na alínea anterior, deve ser prevista a possibilidade de livre deslocação para o exercício do direito de voto nas eleições para o Presidente da República.
+
+2) Iniciativa privada, social e cooperativa:
+
+a) Podem ser utilizados pelas autoridades públicas competentes, preferencialmente por acordo, os recursos, meios e estabelecimentos de prestação de cuidados de saúde integrados nos setores privado, social e cooperativo, mediante justa compensação, em função do necessário para assegurar o tratamento de doentes com COVID-19 ou a manutenção da atividade assistencial relativamente a outras patologias;
+
+b) Podem ser adotadas as medidas adequadas e indispensáveis para garantir as condições de normalidade na produção, transporte, distribuição e abastecimento de bens e serviços essenciais à atividade do setor da saúde, designadamente com vista a assegurar o acesso e a regularidade no circuito dos medicamentos e vacinas, dos dispositivos médicos e de outros produtos de saúde, como biocidas, soluções desinfetantes, álcool e equipamentos de proteção individual;
+
+c) Pode ser determinado pelas autoridades públicas competentes o encerramento total ou parcial de estabelecimentos, serviços, empresas ou meios de produção e impostas alterações ao respetivo regime ou horário de funcionamento, devendo o Governo continuar a prever mecanismos de apoio e proteção social, no quadro orçamental em vigor. O encerramento de instalações e estabelecimentos, ao abrigo do presente decreto, não pode ser invocado como fundamento de resolução, denúncia ou outra forma de extinção de contratos de arrendamento não habitacional ou de outras formas contratuais de exploração de imóveis;
+
+d) Podem ser adotadas medidas de controlo de preços e combate à especulação ou ao açambarcamento de determinados produtos ou materiais;
+
+e) Podem ser limitadas as taxas de serviço e comissões cobradas, aos operadores económicos e aos consumidores, pelas plataformas intermediárias de entregas ao domicílio na venda de bens ou na prestação de serviços.
+
+3) Direitos dos trabalhadores:
+
+a) Podem ser mobilizados, pelas autoridades públicas competentes e no respeito dos seus restantes direitos, trabalhadores de entidades públicas, privadas, do setor social ou cooperativo, independentemente do respetivo tipo de vínculo ou conteúdo funcional e mesmo não sendo profissionais de saúde, designadamente servidores públicos em isolamento profilático ou abrangidos pelo regime excecional de proteção de imunodeprimidos e doentes crónicos, para apoiar as autoridades e serviços de saúde, especificamente na realização de inquéritos epidemiológicos, no rastreio de contactos e no seguimento de pessoas em vigilância ativa;
+
+b) Pode ser limitada a possibilidade de cessação, a pedido dos interessados, dos vínculos laborais de trabalhadores dos serviços e estabelecimentos integrados no Serviço Nacional de Saúde, por período não superior à duração do estado de emergência e por necessidades imperiosas de serviço;
+
+c) Pode ser imposta a adoção do regime de teletrabalho, independentemente do vínculo laboral, sempre que as funções em causa o permitam e o trabalhador disponha de condições para as exercer.
+
+4) Direito ao livre desenvolvimento da personalidade e vertente negativa do direito à saúde: pode ser imposta a utilização de máscara e a realização de controlos de temperatura corporal, por meios não invasivos, assim como a realização de testes de diagnóstico de SARS-CoV-2, designadamente para efeitos de acesso e permanência no local de trabalho ou como condição de acesso a serviços ou instituições públicas, estabelecimentos de ensino ou de formação profissional e espaços comerciais, culturais ou desportivos, na utilização de meios de transporte ou relativamente a pessoas institucionalizadas ou acolhidas em estruturas residenciais, estabelecimentos de saúde, estabelecimentos prisionais ou centros educativos e respetivos trabalhadores.
+
+5) Circulação internacional: podem ser estabelecidos pelas autoridades públicas competentes, em articulação com as autoridades europeias e em estrito respeito pelos Tratados da União Europeia, controlos fronteiriços de pessoas e bens, incluindo controlos sanitários e fitossanitários em portos e aeroportos, com a finalidade de impedir a entrada em território nacional ou de condicionar essa entrada à observância das condições necessárias a evitar o risco de propagação da epidemia ou de sobrecarga dos recursos afetos ao seu combate, designadamente impondo a realização de teste de diagnóstico de SARS-CoV-2 ou o confinamento compulsivo de pessoas em local definido pelas autoridades competentes.
+
+6) Direito à proteção de dados pessoais:
+
+a) Pode haver lugar ao tratamento de dados pessoais na medida do estritamente indispensável para a concretização das medidas previstas no n.º 3 e no artigo 5.º, bem como para efeitos do disposto no n.º 4 sem que, neste caso, seja possível guardar memória ou registo das medições de temperatura corporal efetuadas nem dos resultados dos testes de diagnóstico de SARS-CoV-2;
+
+b) Os dados relativos à saúde podem ser acedidos e tratados por profissionais de saúde, incluindo os técnicos laboratoriais responsáveis pela realização de testes de diagnóstico de SARS-CoV-2, por estudantes de medicina ou enfermagem, bem como pelos profissionais referidos na alínea a) do n.º 3 e no artigo 5.º;
+
+5.º
+
+1) Compete às Forças Armadas e de Segurança apoiar as autoridades e serviços de saúde, designadamente na realização de inquéritos epidemiológicos, no rastreio de contactos e no seguimento de pessoas em vigilância ativa.
+
+2) Podem igualmente ser mobilizados os recursos, meios e estabelecimentos de prestação de cuidados de saúde das Forças Armadas e de Segurança no apoio e reforço do Serviço Nacional de Saúde.
+
+6.º
+
+1) Os efeitos da presente declaração não afetam, em caso algum, os direitos à vida, à integridade pessoal, à identidade pessoal, à capacidade civil e à cidadania, à não retroatividade da lei criminal, à defesa dos arguidos e à liberdade de consciência e religião.
+
+2) Os efeitos da presente declaração não afetam igualmente, em caso algum, as liberdades de expressão e de informação, nem de atividade dos partidos políticos ou dos candidatos a cargos políticos eletivos.
+
+3) Em caso algum pode ser posto em causa o princípio do Estado unitário ou a continuidade territorial do Estado.
+
+4) Nos termos da lei, a Procuradoria-Geral da República e a Provedoria de Justiça mantêm-se em sessão permanente
+
+7.º
+
+Como previsto e nos termos do artigo 7.º da [Lei n.º 44/86](https://diariodarepublica.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1), de 30 de setembro, na sua redação atual, a violação do disposto na declaração do estado de emergência, incluindo na sua execução, faz incorrer os respetivos autores em crime de desobediência.
+
+8.º
+
+Os órgãos responsáveis, nos termos da [Lei n.º 44/86](https://diariodarepublica.pt/web/guest/pesquisa/-/search/221696/details/normal?l=1), de 30 de setembro, na sua redação atual, pela execução da declaração do estado de emergência devem manter permanentemente informados o Presidente da República e a Assembleia da República dos atos em que consista essa execução.
+
+9.º
+
+A presente resolução entra em vigor com o decreto do Presidente da República, produzindo efeitos nos mesmos termos.
+
+Aprovada em 13 de janeiro de 2021.
+
+**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**

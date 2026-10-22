@@ -1,0 +1,946 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:514399:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-187403770",
+ "dre_path": "/dr/detalhe/decreto-lei/151-a-2000-514399",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-07-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "187212567",
+    "187212568",
+    "187212569",
+    "187212570",
+    "187212571",
+    "187212572",
+    "187212573",
+    "187212574",
+    "187527575",
+    "187527576",
+    "187527577",
+    "187527578",
+    "187527579",
+    "187527580",
+    "187527581",
+    "187527582",
+    "187527583",
+    "187527584",
+    "187527585",
+    "187527586",
+    "187527587",
+    "187527588",
+    "187527589",
+    "187527590",
+    "187527591",
+    "187527592",
+    "187527593",
+    "187527594",
+    "187527595",
+    "187527596",
+    "187527597",
+    "187527598",
+    "187527599",
+    "187527600",
+    "187527601",
+    "187527602"
+   ]
+  },
+  {
+   "date": "2006-08-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:538834:por",
+     "title": "Decreto-Lei n.º 167/2006",
+     "published": "2006-08-16",
+     "dre_path": "/dr/detalhe/decreto-lei/167-2006-538834"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "187212567",
+    "187212568",
+    "187212569",
+    "187212570",
+    "187212571",
+    "187212572",
+    "187212573",
+    "187212574",
+    "187527575",
+    "187527576",
+    "187527577",
+    "187527578",
+    "187527579",
+    "187527580",
+    "187527581",
+    "187527582",
+    "187527583",
+    "187527584",
+    "187527585",
+    "187527586",
+    "187527587",
+    "187527588",
+    "187527608",
+    "187527590",
+    "187527591",
+    "187527592",
+    "187527593",
+    "187527594",
+    "187527595",
+    "187527596",
+    "187527597",
+    "187527598",
+    "187527599",
+    "187527600",
+    "187527601",
+    "187527602",
+    "187527603"
+   ]
+  },
+  {
+   "date": "2009-10-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490695:por",
+     "title": "Decreto-Lei n.º 264/2009",
+     "published": "2009-09-28",
+     "dre_path": "/dr/detalhe/decreto-lei/264-2009-490695"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 28.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 29.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 28.º"
+   ],
+   "fragments": [
+    "187212567",
+    "187212568",
+    "187528927",
+    "187528928",
+    "187528929",
+    "187528930",
+    "187212573",
+    "187212574",
+    "187528931",
+    "187528932",
+    "187528933",
+    "187528934",
+    "187528935",
+    "187528948",
+    "187528936",
+    "187528937",
+    "187528938",
+    "187528939",
+    "187528940",
+    "187528941",
+    "187528942",
+    "187527588",
+    "187528943",
+    "187527590",
+    "187527591",
+    "187528944",
+    "187528949",
+    "187528945",
+    "187527595",
+    "187527596",
+    "187528946",
+    "187527598",
+    "187527599",
+    "187527600",
+    "187528950",
+    "187528925",
+    "187528947",
+    "187527603"
+   ]
+  },
+  {
+   "date": "2012-05-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:552023:por",
+     "title": "Lei n.º 20/2012",
+     "published": "2012-05-14",
+     "dre_path": "/dr/detalhe/lei/20-2012-552023"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "187212567",
+    "187212568",
+    "187528927",
+    "187528928",
+    "187528929",
+    "187528930",
+    "187212573",
+    "187212574",
+    "187528931",
+    "187528932",
+    "187528933",
+    "187528934",
+    "187528935",
+    "187528948",
+    "187528936",
+    "187528937",
+    "187528938",
+    "187528939",
+    "187528940",
+    "187528941",
+    "187528942",
+    "187527588",
+    "187528951",
+    "187527590",
+    "187527591",
+    "187528944",
+    "187528949",
+    "187528945",
+    "187527595",
+    "187527596",
+    "187528946",
+    "187527598",
+    "187527599",
+    "187527600",
+    "187528950",
+    "187528925",
+    "187528947",
+    "187527603"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "187212567",
+    "187212568",
+    "187528927",
+    "187528928",
+    "187528929",
+    "187528930",
+    "187212573",
+    "187212574",
+    "187528931",
+    "187528932",
+    "187528933",
+    "187528934",
+    "187528935",
+    "187528948",
+    "187528936",
+    "187528937",
+    "187528938",
+    "187528939",
+    "187528940",
+    "187528941",
+    "187528942",
+    "187527588",
+    "187528952",
+    "187527590",
+    "187527591",
+    "187528944",
+    "187528949",
+    "187528945",
+    "187527595",
+    "187527596",
+    "187528946",
+    "187527598",
+    "187527599",
+    "187527600",
+    "187528950",
+    "187528925",
+    "187528947",
+    "187527603"
+   ]
+  },
+  {
+   "date": "2022-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:187481298:por",
+     "title": "Lei n.º 16/2022",
+     "published": "2022-08-16",
+     "dre_path": "/dr/detalhe/lei/16-2022-187481298"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "187212567",
+    "187212568",
+    "187528927",
+    "187528928",
+    "187528929",
+    "187528953",
+    "187212573",
+    "187212574",
+    "187528931",
+    "187528932",
+    "187528933",
+    "187528934",
+    "187528935",
+    "187528948",
+    "187528936",
+    "187528937",
+    "187528938",
+    "187528939",
+    "187528940",
+    "187528941",
+    "187528942",
+    "187527588",
+    "187528952",
+    "187527590",
+    "187527591",
+    "187528944",
+    "187528949",
+    "187528945",
+    "187527595",
+    "187527596",
+    "187528946",
+    "187527598",
+    "187527599",
+    "187527600",
+    "187528950",
+    "187528925",
+    "187528947",
+    "187527603"
+   ]
+  }
+ ],
+ "fragments": {
+  "187212567": {
+   "fragment_id": "187403771",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 151-A/2000\n\nde 20 de Julho\n\nRemonta ao final dos anos 80 a legislação que disciplinou genericamente a utilização das radiocomunicações nacionais, através dos Decretos-Leis n.os 147/87, de 24 de Março, e 320/88, de 14 de Setembro.\n\nConsolidados através daqueles diplomas os princípios gerais orientadores da utilização de meios de radiocomunicações, importa agora adaptar e actualizar, na medida necessária, o regime jurídico vigente às profusas modificações entretanto ocorridas, essencialmente ao nível da regulamentação da utilização de tais meios, tanto na decorrência de normativos comunitários, como daqueles emanados da Conferência Europeia de Correios e Telecomunicações (CEPT).\n\nNesta medida, consagram-se medidas inovadoras em domínios até então lacunares no quadro das radiocomunicações nacionais, visando a aproximação da legislação aos mais recentes desenvolvimentos regulamentares e tecnológicos, sem perder de vista a especial natureza de que se revestem os meios de radiocomunicações e a coerência do regime entretanto consolidado.\n\nPor outro lado, a permanente evolução tecnológica que caracteriza o sector das comunicações em geral e o das telecomunicações em especial potenciou o crescente recurso à utilização de estações destinadas a aceder ao espectro electromagnético, para além das faixas de frequências nacional e internacionalmente convencionadas, como sendo de radiocomunicações para as mais diversas finalidades, o que justifica a consagração no presente diploma de uma particular disciplina jurídica enformadora da utilização de tais meios.\n\nComo opção de fundo, abandonou-se o princípio, consagrado no Decreto-Lei n.º 147/87, da utilização preferencial de meios afectos aos serviços de telecomunicações de uso público para satisfação de necessidades de comunicações privativas envolvendo a utilização de meios radioeléctricos. Desenhou-se outra solução equilibrada, assente na livre utilização de meios radioeléctricos também para comunicações privativas -redes privativas -, aliada ao recurso a instrumentos associados à gestão do espectro, nomeadamente a sua planificação e critérios de atribuição, e ao tarifário radioeléctrico.\n\nEm termos de regime jurídico, aposta-se numa simplificação e numa redução dos actos de licenciamento radioeléctrico a que se encontram sujeitas, em princípio, as redes de radiocomunicações e, em certos casos, as estações de radiocomunicações, com consequentes benefícios para os particulares e para a Administração.\n\nRelativamente à instalação de redes e estações, incluindo antenas, mantém-se o actual princípio de que o licenciamento radioeléctrico não dispensa quer as autorizações inerentes ao direito de propriedade, quer os actos de licenciamento, autorização ou outros previstos na lei, nomeadamente da competência dos órgãos autárquicos, os quais visam tutelar interesses diversos dos que estão cometidos à entidade gestora do espectro radioeléctrico.\n\nEquacionam-se critérios e métodos mais actualizados para o cálculo de taxas de licenciamento e de utilização do espectro, promovendo-se a aplicação de um regime harmonizado aos vários serviços que utilizam o espectro.\n\nPor último, o presente diploma constitui o regime geral das radiocomunicações, o que não prejudica a aplicabilidade de medidas legislativas ou regulamentares específicas, como sejam as relativas ao Serviço de Amador, Serviço Rádio Pessoal - Banda do Cidadão e serviço de radiodifusão sonora.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "187212568": {
+   "fragment_id": "187403772",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "187212569": {
+   "fragment_id": "187403773",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente diploma tem por objecto o regime aplicável ao licenciamento de redes e estações de radiocomunicações e à fiscalização da instalação das referidas estações e da utilização do espectro radioeléctrico, bem como a definição dos princípios aplicáveis às taxas radioeléctricas, à protecção da exposição a radiações electromagnéticas e à partilha de infra-estruturas de radiocomunicações.\n\n2 - Pela especial natureza da sua utilização, exceptuam-se do âmbito de aplicação do presente diploma:\n\na) As redes e as estações de radiocomunicações afectas a fins militares que funcionam em faixas de frequências cuja gestão esteja, em cada momento, delegada pelo Instituto das Comunicações de Portugal (ICP) ao Ministério da Defesa Nacional;\n\nb) As redes e as estações de radiocomunicações abrangidas por legislação específica."
+  },
+  "187212570": {
+   "fragment_id": "187403774",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) Radiocomunicações: telecomunicações por ondas radioeléctricas;\n\nb) Serviço de radiocomunicações: serviço de uso público ou privativo, endereçado ou de difusão, que implica a transmissão, a emissão ou a recepção de ondas radioeléctricas para fins específicos de telecomunicações;\n\nc) Onda electromagnética: onda caracterizada por variações dos campos eléctrico e magnético;\n\nd) Espectro electromagnético: o conjunto das frequências associadas às ondas electromagnéticas;\n\ne) Onda radioeléctrica: onda electromagnética de frequência inferior a 3000 GHz que se propaga no espaço sem guia artificial;\n\nf) Espectro radioeléctrico: o conjunto das frequências associadas às ondas radioeléctricas;\n\ng) Radiação óptica: radiação electromagnética em comprimentos de onda compreendidos entre o limite correspondente ao raio X e o limite superior das ondas radioeléctricas;\n\nh) Estação de radiocomunicações: um ou vários emissores ou receptores ou um conjunto de emissores e receptores, incluindo os demais equipamentos acessórios, em condições de funcionamento e necessários para assegurar um serviço de radiocomunicações ou o serviço de radioastronomia, num dado local;\n\ni) Rede de radiocomunicações: conjunto formado por várias estações de radiocomunicações que comunicam entre si;\n\nj) Licença radioeléctrica: título administrativo que confere ao respectivo titular o direito de utilizar uma estação ou uma rede de radiocomunicações nas condições e limites nele fixados, no âmbito de um serviço de radiocomunicações.\n\n2 - Qualquer outra definição referente às radiocomunicações, não mencionada nas alíneas do número anterior, rege-se pelo Regulamento das Radiocomunicações anexo à Convenção Internacional das Telecomunicações."
+  },
+  "187212571": {
+   "fragment_id": "187527475",
+   "type": 11,
+   "heading": "Artigo 3.º — Utilização do espectro electromagnético",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Utilização do espectro electromagnético\n\n1 - A utilização do espectro radioeléctrico está sujeita ao regime de licenciamento previsto no capítulo II do presente diploma.\n\n2 - A utilização do espectro electromagnético utilizando radiação óptica em meios não guiados, quando destinada à exploração de serviços de telecomunicações de uso público, está sujeita a registo no ICP.\n\n3 - Os meios a que se refere o número anterior não beneficiam de protecção contra interferências prejudiciais."
+  },
+  "187212572": {
+   "fragment_id": "187527476",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências do ICP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências do ICP\n\n1 - No âmbito das suas competências, o ICP consigna as frequências necessárias ao funcionamento e utilização das redes e estações de radiocomunicações que utilizem o espectro radioeléctrico.\n\n2 - No exercício das competências que lhe estão legalmente atribuídas, o ICP pode, a todo o tempo, alterar, anular ou substituir a consignação de frequências para o funcionamento e utilização das redes e estações de radiocomunicações, na medida em que tal seja necessário para a prossecução do interesse público, no âmbito da gestão do espectro radioeléctrico, de acordo com critérios de proporcionalidade e no respeito pelos direitos adquiridos dos cidadãos.\n\n3 - Nos casos previstos no número anterior, deve o ICP, em prazo razoável, dar conhecimento da decisão devidamente fundamentada aos titulares das licenças.\n\n4 - Nos casos previstos no n.º 2, será concedida uma compensação aos titulares das licenças para cobrir, no todo ou em parte, encargos que comprovadamente se verifiquem com a alteração, anulação ou substituição da consignação de frequências, nas condições e mediante os critérios gerais a definir por portaria do membro do Governo responsável pela área das comunicações.\n\n5 - Quando se verifique uma alteração ou substituição da consignação de frequências, nos termos do n.º 2, designadamente para a atribuição de tais frequências ao funcionamento de novos serviços, pode o ICP determinar que a compensação a que se refere o número anterior seja paga pelo beneficiário da nova atribuição."
+  },
+  "187212573": {
+   "fragment_id": "187527477",
+   "type": 1,
+   "heading": "Capítulo II — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Licenciamento"
+  },
+  "187212574": {
+   "fragment_id": "187527478",
+   "type": 11,
+   "heading": "Artigo 5.º — Licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Licenças\n\n1 - A utilização de redes e de estações de radiocomunicações está sujeita a licença, nos termos do presente diploma.\n\n2 - A atribuição das licenças a que se refere o número anterior é da competência do ICP.\n\n3 - Compete ao ICP autorizar, caso a caso, por períodos limitados, a utilização de espectro radioeléctrico para a realização de ensaios técnicos e de estudos científicos, com dispensa de licenciamento."
+  },
+  "187527575": {
+   "fragment_id": "187527479",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentos de exploração e regime de acesso à actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regulamentos de exploração e regime de acesso à actividade\n\n1 - O regime de licenciamento radioeléctrico, previsto no presente diploma, não prejudica o cumprimento das disposições legais aplicáveis à exploração de redes públicas de telecomunicações e de serviços de telecomunicações de uso público e ao estabelecimento e utilização de redes privativas de telecomunicações.\n\n2 - As entidades que pretendam obter uma licença radioeléctrica nos termos do presente diploma devem encontrar-se devidamente habilitadas para o efeito nos termos do regime de acesso à actividade de telecomunicações de uso público ou satisfazer as condições aplicáveis ao estabelecimento de redes privativas."
+  },
+  "187527576": {
+   "fragment_id": "187527480",
+   "type": 11,
+   "heading": "Artigo 7.º — Licença de rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Licença de rede\n\n1 - A utilização de uma rede de radiocomunicações carece de licença radioeléctrica.\n\n2 - As licenças devem conter, designadamente:\n\na) Identificação do titular;\n\nb) Fim para que são concedidas;\n\nc) Data de emissão;\n\nd) Prazo de validade da licença;\n\ne) Parâmetros técnicos aplicáveis ao conjunto das estações que constituem a rede;\n\nf) Número e localização das estações que constituem a rede, quando aplicável."
+  },
+  "187527577": {
+   "fragment_id": "187527481",
+   "type": 11,
+   "heading": "Artigo 8.º — Licença de estação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licença de estação\n\n1 - A utilização de estações que integrem uma rede de radiocomunicações licenciada não carece de licença, salvo nos casos previstos no número seguinte.\n\n2 - As categorias de estações que, integrando uma rede de radiocomunicações, carecem de licença consta de aviso a publicar, pelo ICP, na 3.ª série do Diário da República.\n\n3 - A utilização de estações que não integrem uma rede de radiocomunicações é objecto de licenciamento.\n\n4 - As licenças de estação devem conter, designadamente:\n\na) Identificação do titular;\n\nb) Fim para que são concedidas;\n\nc) Data de emissão;\n\nd) Prazo de validade;\n\ne) Parâmetros técnicos específicos de cada estação, no âmbito da rede ou serviço em que está inserida;\n\nf) Localização da estação, quando aplicável."
+  },
+  "187527578": {
+   "fragment_id": "187527482",
+   "type": 11,
+   "heading": "Artigo 9.º — Isenção de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Isenção de licença\n\n1 - Compete ao ICP determinar as situações de isenção:\n\na) Da licença de rede a que se refere o n.º 1 do artigo 7.º;\n\nb) Da licença de estação a que se refere o n.º 3 do artigo 8.º\n\n2 - O ICP publica, por aviso na 3.ª série do Diário da República, quais as redes e estações que estão isentas de licença, nos termos do número anterior."
+  },
+  "187527579": {
+   "fragment_id": "187527483",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos utilizadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigações dos utilizadores\n\nConstituem obrigações dos utilizadores de redes e estações de radiocomunicações, sem prejuízo de outras decorrentes do presente diploma e demais legislação aplicável:\n\na) Utilizar as redes e estações para o fim a que se destinam;\n\nb) Manter as redes e estações em bom estado de funcionamento, abstendo-se de provocar interferências noutras redes e estações de radiocomunicações;\n\nc) Respeitar, no âmbito das redes e estações de radiocomunicações, as condicionantes aplicáveis aos equipamentos de rádio, em conformidade com a legislação em vigor;\n\nd) Proceder à liquidação das taxas aplicáveis nos prazos fixados, em conformidade com o artigo 19.º;\n\ne) Permitir a fiscalização das estações, bem como o acesso ao local da respectiva instalação, exclusiva ou partilhada, pelos agentes de fiscalização competentes;\n\nf) Utilizar as estações de radiocomunicações em frequências que lhes hajam sido consignadas;\n\ng) Utilizar as estações de radiocomunicações de acordo com os parâmetros técnicos fixados nos termos da alínea e) do n.º 2 do artigo 7.º e da alínea e) do n.º 4 do artigo 8.º;\n\nh) Apor, em todas as estações fixas, no seu exterior e em local bem visível, uma placa da qual conste a identificação do utilizador e os meios de contacto de quem possa facultar o acesso à instalação."
+  },
+  "187527580": {
+   "fragment_id": "187527484",
+   "type": 11,
+   "heading": "Artigo 11.º — Radiocomunicações interditas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Radiocomunicações interditas\n\nSem prejuízo do disposto em legislação específica, aos utilizadores de estações de radiocomunicações é especialmente vedado:\n\na) Efectuar ou permitir radiocomunicações ilícitas;\n\nb) Emitir sinais de alarme, emergência ou perigo, bem como chamadas de socorro falsas ou enganosas."
+  },
+  "187527581": {
+   "fragment_id": "187527485",
+   "type": 11,
+   "heading": "Artigo 12.º — Atribuição de licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Atribuição de licenças\n\n1 - Para efeitos de atribuição de uma licença de rede de radiocomunicações que integre, ou constitua, uma rede pública ou privativa de telecomunicações, os interessados devem apresentar ao ICP requerimento instruído, nomeadamente, com o projecto técnico da rede de radiocomunicações.\n\n2 - Para efeitos de atribuição de licença de estação de radiocomunicações, os interessados devem apresentar ao ICP requerimento instruído, nomeadamente, com os seguintes elementos:\n\na) Documento comprovativo da titularidade de licença de rede nos termos do n.º 1, quando aplicável;\n\nb) Projecto técnico da estação de radiocomunicações.\n\n3 - Compete ao ICP determinar e publicar, por aviso na 3.ª série do Diário da República, os elementos que devem instruir os requerimentos, bem como os requisitos dos projectos técnicos, em função dos serviços em causa."
+  },
+  "187527582": {
+   "fragment_id": "187527486",
+   "type": 11,
+   "heading": "Artigo 13.º — Licenças temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Licenças temporárias\n\n1 - Podem ser concedidas licenças de estação ou de rede de radiocomunicações, a título temporário, por período não superior a 60 dias, as quais podem ser renovadas uma vez e por igual período.\n\n2 - Nos casos a que se refere o número anterior, o pedido de licenciamento deve ser apresentado ao ICP com uma antecedência mínima de 10 dias relativamente à data pretendida para o início de vigência da licença.\n\n3 - Em casos excepcionais, pode o ICP dispensar o cumprimento do prazo a que se refere o número anterior."
+  },
+  "187527583": {
+   "fragment_id": "187527487",
+   "type": 11,
+   "heading": "Artigo 14.º — Transmissibilidade das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transmissibilidade das licenças\n\n1 - As licenças de rede ou estação são transmissíveis mediante autorização prévia do ICP, a qual pode introduzir alterações às referidas licenças.\n\n2 - O indeferimento do pedido de transmissão a que se refere o número anterior deve ser devidamente fundamentado, nomeadamente em razões de ordem técnica ou económica, tendo em conta a prossecução do interesse público no âmbito da gestão do espectro radioeléctrico.\n\n3 - A entidade à qual for transmitida a licença deve, sob pena de nulidade da transmissão, estar legalmente habilitada, nos mesmos termos do transmitente, para o exercício da actividade de telecomunicações de uso público ou privativas a que estejam sujeitas, assumindo todos os direitos e obrigações inerentes à licença.\n\n4 - A transmissão de uma licença de rede implica a transmissão das licenças das estações que a integrem, quando existentes.\n\n5 - As licenças temporárias previstas no artigo 13.º são intransmissíveis."
+  },
+  "187527584": {
+   "fragment_id": "187527488",
+   "type": 11,
+   "heading": "Artigo 15.º — Validade e renovação da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Validade e renovação da licença\n\n1 - As licenças são válidas por um período de 5 anos, renováveis automaticamente por iguais períodos, salvo comunicação escrita devidamente fundamentada do ICP, que deverá ser efectuada até 60 dias antes do termo da respectiva validade.\n\n2 - Sempre que o titular da licença não pretenda a sua renovação, deve comunicar o facto ao ICP até 60 dias antes do termo da respectiva validade.\n\n3 - Na ausência da comunicação a que alude o número anterior, o ICP presume o interesse na renovação da licença e envia ao respectivo titular um novo título, antes do termo da sua validade."
+  },
+  "187527585": {
+   "fragment_id": "187527489",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alteração da licença\n\n1 - As licenças podem ser alteradas nos seguintes casos:\n\na) Por iniciativa do ICP, a todo o tempo, de acordo com os princípios da prossecução do interesse público e da proporcionalidade;\n\nb) A pedido do titular da licença, sujeito a aprovação do ICP.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, deve o ICP notificar o titular da licença, de forma fundamentada e em prazo razoável, da alteração a introduzir e proceder à emissão da licença alterada em conformidade.\n\n3 - No caso referido na alínea b) do n.º 1, o ICP, caso aprove a alteração, procede à emissão da licença alterada em conformidade.\n\n4 - Nos casos referidos no presente artigo, deve o titular devolver ao ICP a licença objecto de alteração, no prazo de 10 dias a contar da recepção da licença alterada."
+  },
+  "187527586": {
+   "fragment_id": "187527490",
+   "type": 11,
+   "heading": "Artigo 17.º — Revogação da licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação da licença\n\n1 - As licenças podem ser revogadas nos seguintes casos:\n\na) Violação das limitações impostas pelo artigo 11.º do presente diploma;\n\nb) A pedido do titular.\n\n2 - Verificada a revogação nos termos da alínea a) do número anterior, o ICP não concede ao respectivo titular um novo título de licenciamento antes de decorrido o prazo de um ano a contar da data da decisão que determinou a revogação.\n\n3 - A revogação de uma licença não dá lugar ao reembolso das taxas eventualmente liquidadas até à data da revogação.\n\n4 - Nos casos referidos no presente artigo, deve o titular devolver ao ICP a licença revogada, no prazo de 10 dias a contar da recepção da notificação da revogação."
+  },
+  "187527587": {
+   "fragment_id": "187527491",
+   "type": 11,
+   "heading": "Artigo 18.º — Técnicos responsáveis de redes ou estações de radiocomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Técnicos responsáveis de redes ou estações de radiocomunicações\n\n1 - O ICP pode condicionar a atribuição de licença de rede ou de estação de radiocomunicações à indicação, pelo requerente, de técnico responsável pelo projecto, instalação e manutenção da rede ou estação.\n\n2 - Para efeitos do disposto no número anterior, o ICP fixa, em aviso a publicar na 3.ª série do Diário da República:\n\na) Os serviços de radiocomunicações para cujas redes ou estações é obrigatória a existência de técnicos responsáveis;\n\nb) As qualificações técnicas exigidas aos técnicos responsáveis."
+  },
+  "187527588": {
+   "fragment_id": "187527492",
+   "type": 1,
+   "heading": "Capítulo III — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Taxas"
+  },
+  "187527589": {
+   "fragment_id": "187527493",
+   "type": 11,
+   "heading": "Artigo 19.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Taxas\n\n1 - Estão sujeitas ao pagamento de taxas:\n\na) A emissão de licença de rede e de estação de radiocomunicações;\n\nb) A alteração, a substituição em caso de extravio e renovação de licenças;\n\nc) A transmissão de licenças;\n\nd) O registo previsto no n.º 2 do artigo 3.º;\n\ne) A utilização do espectro radioeléctrico.\n\n2 - Para a fixação dos montantes das taxas a que se refere a alínea e) do número anterior, são tidos em conta, em função do serviço, parâmetros espectrais, de cobertura e de utilização, designadamente:\n\na) O número de estações utilizadas;\n\nb) As frequências ou canais consignados;\n\nc) A faixa de frequências;\n\nd) A largura de faixa;\n\ne) O grau de congestionamento da região de implementação;\n\nf) O desenvolvimento económico e social da região de implementação;\n\ng) A área de cobertura;\n\nh) O tipo de utilização e utilizador;\n\ni) A exclusividade ou a partilha de frequências ou canais consignados.\n\n3 - As taxas são reduzidas quando aplicáveis às licenças temporárias previstas no artigo 13.º\n\n4 - Nas situações previstas no n.º 3 do artigo 13.º, acresce uma taxa de urgência devida pela emissão da licença.\n\n5 - São concedidas reduções das taxas de utilização a que se refere a alínea e) do n.º 1 do presente artigo ao Serviço Nacional de Protecção Civil, aos Serviços Regionais de Protecção Civil dos Açores e da Madeira, aos agentes de protecção civil referidos nas alíneas a) e e) do n.º 1 e no n.º 2 do artigo 18.º da Lei n.º 113/91, de 29 de Agosto, com a redacção que lhe foi dada pela Lei n.º 25/96, de 31 de Julho, bem como a outras entidades que, no território nacional, participem directamente na prevenção, detecção, vigilância e combate a incêndios e ainda às que prestem socorro de emergência pré-hospitalar nas Regiões Autónomas.\n\n6 - Por resolução do Conselho de Ministros são indicadas as entidades a que se refere a parte final do número anterior.\n\n7 - Os montantes e periodicidade de liquidação das taxas previstas nos números anteriores, bem como as percentagens de reduções a que se referem os n.os 3 e 5, são fixados por portaria do membro do Governo responsável pela área das comunicações.\n\n8 - A falta de pagamento da taxa de utilização está sujeita à aplicação de juros de mora à taxa consagrada na lei fiscal, sem prejuízo de, em caso de atraso no pagamento da mesma por período superior a 90 dias, haver lugar à aplicação de uma sobretaxa igual a 15% do valor da taxa em questão.\n\n9 - O montante das taxas cobradas nos termos dos números anteriores constitui receita do ICP.\n\n10 - O acto de atribuição de frequências pode estar sujeito ao pagamento de uma taxa, nos termos a definir por portaria do membro do Governo responsável pela área das comunicações, a qual fixará o correspondente montante tendo em conta o valor económico das frequências atribuídas, bem como o destino da receita."
+  },
+  "187527590": {
+   "fragment_id": "187527494",
+   "type": 1,
+   "heading": "Capítulo IV — Estabelecimento e instalação de estações e redes de radiocomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Estabelecimento e instalação de estações e redes de radiocomunicações"
+  },
+  "187527591": {
+   "fragment_id": "187527495",
+   "type": 11,
+   "heading": "Artigo 20.º — Instalação de estações de radiocomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Instalação de estações de radiocomunicações\n\n1 - A instalação de estações de radiocomunicações e respectivos acessórios, designadamente antenas, em prédios rústicos ou urbanos carece do consentimento dos respectivos proprietários, nos termos da lei.\n\n2 - O disposto no número anterior não dispensa quaisquer outros actos de licenciamento ou autorização previstos na lei, designadamente os da competência dos órgãos autárquicos.\n\n3 - Sem prejuízo de outras disposições legais aplicáveis, o proprietário ou detentor de uma estação de radiocomunicações e respectivos acessórios, designadamente antenas, é responsável pelos danos que causar a terceiros.\n\n4 - Para efeitos do presente diploma, presume-se a utilização de meios de radiocomunicações sempre que existam antenas exteriores."
+  },
+  "187527592": {
+   "fragment_id": "187527496",
+   "type": 11,
+   "heading": "Artigo 21.º — Restrições à instalação de estações de radiocomunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Restrições à instalação de estações de radiocomunicações\n\n1 - A instalação de estações de radiocomunicações e respectivos acessórios, designadamente antenas, não pode, para além de outras restrições legalmente estabelecidas:\n\na) Dificultar o acesso às chaminés, bem como a realização de eventuais trabalhos de reparação na cobertura dos edifícios;\n\nb) Causar interferências prejudiciais em estações que tenham direito a protecção ou na recepção de emissões de radiodifusão;\n\nc) Colidir com servidões radioeléctricas existentes.\n\n2 - Nos locais de instalação de estações fixas de radiocomunicações e respectivos acessórios, designadamente antenas, é obrigatória a afixação de sinalização informativa que alerte sobre os riscos da referida instalação."
+  },
+  "187527593": {
+   "fragment_id": "187527497",
+   "type": 11,
+   "heading": "Artigo 22.º — Exposição a radiações electromagnéticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Exposição a radiações electromagnéticas\n\n1 - Compete ao ICP promover a publicação, por aviso na 3.ª série do Diário da República, níveis de referência para efeitos de avaliação da exposição a campos electromagnéticos ou normas europeias ou nacionais baseadas em procedimentos de medição e cálculo reconhecidos e provados cientificamente, destinados a avaliar a conformidade com as restrições básicas relativas à exposição da população a campos electromagnéticos, a aprovar pelas entidades competentes.\n\n2 - O ICP pode, de acordo com os elementos a que se refere o número anterior, e em casos devidamente justificados, adoptar medidas condicionantes da instalação e funcionamento de estações ou antenas de radiocomunicações."
+  },
+  "187527594": {
+   "fragment_id": "187527498",
+   "type": 11,
+   "heading": "Artigo 23.º — Partilha de infra-estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Partilha de infra-estruturas\n\n1 - As entidades titulares de licença emitida nos termos do presente diploma devem, sempre que tecnicamente possível, celebrar acordos com vista à partilha de infra-estruturas existentes ou a instalar para efeitos de radiocomunicações, podendo abranger estruturas de suporte, cabos, filtros, antenas e edifícios.\n\n2 - No local da instalação partilhada deve ser aposta, no seu exterior e em local bem visível, uma placa da qual conste a identificação dos utilizadores e os meios de contacto de quem possa facultar o acesso à instalação.\n\n3 - Quando, sem motivo justificado, não seja celebrado acordo nos termos do n.º 1, o ICP pode determinar a partilha de infra-estruturas existentes em determinada área geográfica."
+  },
+  "187527595": {
+   "fragment_id": "187527499",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização e regime sancionatório"
+  },
+  "187527596": {
+   "fragment_id": "187527500",
+   "type": 11,
+   "heading": "Artigo 24.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Fiscalização\n\n1 - Compete ao ICP a fiscalização do cumprimento do disposto no presente diploma através dos seus agentes de fiscalização ou de mandatários devidamente credenciados pelo conselho de administração do ICP.\n\n2 - O ICP pode proceder à vistoria das redes e estações de radiocomunicações, a fim de verificar se a instalação e o funcionamento das mesmas obedece às condições aplicáveis.\n\n3 - As medições efectuadas pelo ICP, quando devidamente registadas e identificadas, constituem elementos de prova para determinação das condições de utilização do espectro radioeléctrico pelas redes e estações de radiocomunicações."
+  },
+  "187527597": {
+   "fragment_id": "187527501",
+   "type": 11,
+   "heading": "Artigo 25.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contra-ordenações\n\n1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações:\n\na) A utilização do espectro electromagnético sem registo no ICP, em violação do disposto no n.º 2 do artigo 3.º;\n\nb) A utilização de espectro radioeléctrico sem autorização do ICP, em violação do n.º 3 do artigo 5.º;\n\nc) A utilização de uma rede de radiocomunicações, em violação do n.º 1 do artigo 7.º;\n\nd) A utilização de estações não licenciadas, em violação dos n.os 2 e 3 do artigo 8.º;\n\ne) A violação das obrigações previstas nas alíneas a), e), f) e g) do artigo 10.º;\n\nf) A violação das obrigações previstas nas alíneas b) e c) do artigo 10.º e na alínea b) do artigo 11.º;\n\ng) A não aposição de placa identificativa, em violação da alínea h) do artigo 10.º e do n.º 2 do artigo 23.º;\n\nh) A transmissão, pelo titular da licença, do respectivo título, em violação do n.º 1 do artigo 14.º;\n\ni) A não devolução da licença, em violação do n.º 4 do artigo 16.º e do n.º 4 do artigo 17.º;\n\nj) A instalação de estações e antenas, em violação dos n.os 1 e 2 do artigo 21.º;\n\nk) O incumprimento dos níveis de referência ou das normas publicados e das medidas condicionantes, quando existentes, em violação, respectivamente, dos n.os 1 e 2 do artigo 22.º;\n\nl) O não cumprimento da determinação do ICP, em violação do n.º 3 do artigo 23.º\n\n2 - As contra-ordenações previstas nas alíneas a), b), g), i), j) e l) do n.º 1 são puníveis com coima de 20000$00 a 500000$00 e de 30000$00 a 1000000$00, consoante tenham sido praticadas por pessoa singular ou colectiva, respectivamente.\n\n3 - As contra-ordenações previstas nas alíneas c), d), e), f), h) e k) do n.º 1 são puníveis com coima de 50000$00 a 750000$00 e de 100000$00 a 9000000$00, consoante tenham sido praticadas por pessoa singular ou colectiva, respectivamente.\n\n4 - Às contra-ordenações previstas nas alíneas e) e f) n.º 1 pode ser aplicada a sanção acessória de suspensão da licença.\n\n5 - Às contra-ordenações previstas nas alíneas b), c), d) e f) do n.º 1 pode ser aplicada a sanção acessória de perda a favor do Estado das estações quando, no prazo de 60 dias a contar da recepção da notificação da decisão, não seja requerida a devolução das estações seladas ou desmanteladas.\n\n6 - Nas contra-ordenações previstas no presente diploma são puníveis a tentativa e a negligência."
+  },
+  "187527598": {
+   "fragment_id": "187527502",
+   "type": 11,
+   "heading": "Artigo 26.º — Apreensão e restituição de estações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Apreensão e restituição de estações\n\n1 - Podem ser apreendidas provisoriamente, no todo ou em parte, as estações que serviram, ou estavam destinadas a servir, para a prática de uma contra-ordenação ou que por estas foram produzidas e, bem assim, quaisquer outras que forem susceptíveis de servir de prova.\n\n2 - As estações apreendidas são, sempre que possível, juntas ao processo ou confiadas à guarda de um depositário, de tudo se fazendo menção no auto, devendo, sempre que possível, ser seladas, total ou parcialmente.\n\n3 - As estações apreendidas são restituídas logo que se tornar desnecessário manter a apreensão para efeitos de prova, a menos que a autoridade administrativa pretenda declará-las perdidas.\n\n4 - Em qualquer caso, as estações são restituídas logo que a decisão condenatória se torne definitiva, salvo se tiverem sido declaradas perdidas.\n\n5 - Ao levantamento dos selos assistem, sendo possível, as mesmas pessoas que tiverem estado presentes na sua aposição, as quais verificam se os selos não foram violados, nem foi feita qualquer alteração nas estações apreendidas."
+  },
+  "187527599": {
+   "fragment_id": "187527503",
+   "type": 11,
+   "heading": "Artigo 27.º — Processamento das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Processamento das contra-ordenações\n\n1 - A aplicação das coimas e das sanções acessórias previstas no presente diploma é da competência do presidente do conselho de administração do ICP\n\n2 - A instauração dos processos de contra-ordenação é da competência do conselho de administração do ICP, cabendo a instrução dos mesmos aos respectivos serviços.\n\n3 - O montante das coimas reverte para o Estado em 60% e para o ICP em 40%.\n\n4 - O ICP pode dar adequada publicidade à punição por contra-ordenação, bem como às sanções acessórias aplicadas nos termos do presente diploma."
+  },
+  "187527600": {
+   "fragment_id": "187527504",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições transitórias e finais"
+  },
+  "187527601": {
+   "fragment_id": "187527505",
+   "type": 11,
+   "heading": "Artigo 28.º — Regularização das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regularização das licenças\n\n1 - Compete ao ICP proceder às alterações necessárias às licenças radioeléctricas já emitidas ou à emissão de novos títulos, com dispensa da correspondente taxa, no prazo de um ano a contar da entrada em vigor do presente diploma.\n\n2 - Para efeitos do disposto no número anterior, devem as entidades titulares de licenças prestar e fornecer ao ICP todas as informações e documentos que lhes sejam solicitados."
+  },
+  "187527602": {
+   "fragment_id": "187527506",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\n1 - São revogados:\n\na) O Decreto-Lei n.º 147/87, de 24 de Março, com a redacção que lhe foi dada pelo Decreto-Lei n.º 149/91, de 12 de Abril, sem prejuízo do disposto nos n.os 5 e 6 do presente artigo;\n\nb) O Decreto-Lei n.º 320/88, de 14 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 146/91, de 12 de Abril, sem prejuízo do disposto nos n.os 5 e 6 do presente artigo;\n\nc) O Decreto-Lei n.º 144/97, de 7 de Julho;\n\nd) O despacho MOPTC 16/94-XII, de 27 de Abril.\n\n2 - Até à publicação do aviso previsto no n.º 2 do artigo 9.º mantém-se em vigor a Portaria n.º 859/94, de 23 de Setembro, com as alterações posteriores.\n\n3 - Mantém-se em vigor a Resolução do Conselho de Ministros n.º 23/98, de 12 de Fevereiro.\n\n4 - Até à publicação da portaria prevista no n.º 7 do artigo 19.º mantêm-se em vigor os montantes das taxas, bem como as reduções constantes do tarifário publicado.\n\n5 - As normas relativas à homologação de equipamentos de radiocomunicações constantes do Decreto-Lei n.º 147/87, de 24 de Março, com a redacção que lhe foi dada pelo Decreto-Lei n.º 149/91, de 12 de Abril, e do Decreto-Lei n.º 320/88, de 14 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 146/91, de 12 de Abril, mantêm a sua aplicabilidade até à entrada em vigor do regime aplicável aos equipamentos terminais de telecomunicações e equipamentos de rádio, sem prejuízo das necessárias adaptações decorrentes do regime de licenciamento de redes e estações de radiocomunicações constante do presente diploma.\n\n6 - As especificações técnicas emitidas ao abrigo do anterior regime aplicável às radiocomunicações mantêm-se em vigor até à emissão de novas especificações técnicas."
+  },
+  "187527608": {
+   "fragment_id": "187527493",
+   "type": 11,
+   "heading": "Artigo 19.º — Taxas",
+   "in_force_from": "2006-08-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2006-538834), em vigor a partir de 2006-08-17"
+   ],
+   "markdown": "###### Artigo 19.º — Taxas\n\n1 - Estão sujeitas ao pagamento de taxas:\n\na) A emissão de licença de rede e de estação de radiocomunicações;\n\nb) A alteração, a substituição em caso de extravio e renovação de licenças;\n\nc) A transmissão de licenças;\n\nd) O registo previsto no n.º 2 do artigo 3.º;\n\ne) A utilização do espectro radioeléctrico.\n\n2 - Para a fixação dos montantes das taxas a que se refere a alínea e) do número anterior, são tidos em conta, em função do serviço, parâmetros espectrais, de cobertura e de utilização, designadamente:\n\na) O número de estações utilizadas;\n\nb) As frequências ou canais consignados;\n\nc) A faixa de frequências;\n\nd) A largura de faixa;\n\ne) O grau de congestionamento da região de implementação;\n\nf) O desenvolvimento económico e social da região de implementação;\n\ng) A área de cobertura;\n\nh) O tipo de utilização e utilizador;\n\ni) A exclusividade ou a partilha de frequências ou canais consignados.\n\n3 - As taxas são reduzidas quando aplicáveis às licenças temporárias previstas no artigo 13.º\n\n4 - Nas situações previstas no n.º 3 do artigo 13.º, acresce uma taxa de urgência devida pela emissão da licença.\n\n5 - São concedidas reduções das taxas de utilização a que se refere a alínea e) do n.º 1 do presente artigo ao Serviço Nacional de Protecção Civil, aos Serviços Regionais de Protecção Civil dos Açores e da Madeira, aos agentes de protecção civil referidos nas alíneas a) e e) do n.º 1 e no n.º 2 do artigo 18.º da Lei n.º 113/91, de 29 de Agosto, com a redacção que lhe foi dada pela Lei n.º 25/96, de 31 de Julho, bem como a outras entidades que, no território nacional, participem directamente na prevenção, detecção, vigilância e combate a incêndios e ainda às que prestem socorro de emergência pré-hospitalar nas Regiões Autónomas.\n\n6 - Por resolução do Conselho de Ministros são indicadas as entidades a que se refere a parte final do número anterior.\n\n7 - Os montantes e periodicidade de liquidação das taxas previstas nos números anteriores, bem como as percentagens de reduções a que se referem os n.os 3 e 5, são fixados por portaria do membro do Governo responsável pela área das comunicações.\n\n8 - A falta de pagamento da taxa de utilização está sujeita à aplicação de juros de mora à taxa consagrada na lei fiscal, sem prejuízo de, em caso de atraso no pagamento da mesma por período superior a 90 dias, haver lugar à aplicação de uma sobretaxa igual a 15% do valor da taxa em questão.\n\n9 - O montante das taxas cobradas nos termos dos números anteriores constitui receita do ICP.\n\n10 - O acto de atribuição de frequências pode estar sujeito ao pagamento de uma taxa, nos termos a definir por portaria do membro do Governo responsável pela área das comunicações, a qual fixará o correspondente montante tendo em conta o valor económico das frequências atribuídas, bem como o destino da receita.\n\n11 - Ficam ainda isentas do pagamento das taxas previstas no n.º 1 as entidades em cada momento envolvidas no SIRESP, designadamente a respectiva entidade gestora, a operadora e seus utilizadores no âmbito da segurança e emergência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2006-538834), em vigor a partir de 2006-08-17"
+  },
+  "187527603": {
+   "fragment_id": "187527507",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Junho de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - António Luís Santos Costa.\n\nPromulgado em 12 de Julho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Julho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "187528927": {
+   "fragment_id": "187403773",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\n1 - O presente decreto-lei estabelece o regime aplicável ao licenciamento de redes e estações de radiocomunicações e à fiscalização da instalação das referidas estações e da utilização do espectro radioeléctrico, bem como à partilha de infra-estruturas de radiocomunicações.\n\n2 - Pela especial natureza da sua utilização, exceptuam-se do âmbito de aplicação do presente diploma:\n\na) As redes e as estações de radiocomunicações afectas a fins militares que funcionam em faixas de frequências cuja gestão esteja, em cada momento, delegada pelo Instituto das Comunicações de Portugal (ICP) ao Ministério da Defesa Nacional;\n\nb) As redes e as estações de radiocomunicações abrangidas por legislação específica.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528928": {
+   "fragment_id": "187403774",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) Radiocomunicações: telecomunicações por ondas radioeléctricas;\n\nb) Serviço de radiocomunicações: serviço de uso público ou privativo, endereçado ou de difusão, que implica a transmissão, a emissão ou a recepção de ondas radioeléctricas para fins específicos de telecomunicações;\n\nc) Onda electromagnética: onda caracterizada por variações dos campos eléctrico e magnético;\n\nd) Espectro electromagnético: o conjunto das frequências associadas às ondas electromagnéticas;\n\ne) Onda radioeléctrica: onda electromagnética de frequência inferior a 3000 GHz que se propaga no espaço sem guia artificial;\n\nf) Espectro radioeléctrico: o conjunto das frequências associadas às ondas radioeléctricas;\n\ng) Radiação óptica: radiação electromagnética em comprimentos de onda compreendidos entre o limite correspondente ao raio X e o limite superior das ondas radioeléctricas;\n\nh) Estação de radiocomunicações: um ou vários emissores ou receptores ou um conjunto de emissores e receptores, incluindo os demais equipamentos acessórios, em condições de funcionamento e necessários para assegurar um serviço de radiocomunicações ou o serviço de radioastronomia, num dado local;\n\ni) Rede de radiocomunicações: conjunto formado por várias estações de radiocomunicações que podem comunicar entre si;\n\nj) Licença radioeléctrica: título administrativo que confere ao respectivo titular o direito de utilizar uma estação ou uma rede de radiocomunicações nas condições e limites nele fixados, no âmbito de um serviço de radiocomunicações.\n\n2 - Qualquer outra definição referente às radiocomunicações, não mencionada nas alíneas do número anterior, rege-se pelo Regulamento das Radiocomunicações anexo à Convenção Internacional das Telecomunicações.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528929": {
+   "fragment_id": "187527475",
+   "type": 11,
+   "heading": "Artigo 3.º — Utilização do espectro electromagnético",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 3.º — Utilização do espectro electromagnético\n\n1 - A utilização do espectro radioeléctrico está sujeita ao regime de licenciamento previsto no capítulo II do presente diploma.\n\n2 - A utilização do espectro electromagnético utilizando radiação óptica em meios não guiados, quando destinada à exploração de serviços de comunicações electrónicas acessíveis ao público, está sujeita a registo no ICP-ANACOM.\n\n3 - Os meios a que se refere o número anterior não beneficiam de protecção contra interferências prejudiciais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528930": {
+   "fragment_id": "187527476",
+   "type": 11,
+   "heading": "Artigo 4.º — Consignação de frequências",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 4.º — Consignação de frequências\n\n1 - No âmbito das suas competências, o ICP consigna as frequências necessárias ao funcionamento e utilização das redes e estações de radiocomunicações que utilizem o espectro radioeléctrico.\n\n2 - No exercício das competências que lhe estão legalmente atribuídas, o ICP-ANACOM pode, a todo o tempo, alterar, anular ou substituir a consignação de frequências para o funcionamento e utilização das redes e estações de radiocomunicações, na medida em que tal seja necessário para a prossecução do interesse público, no âmbito da gestão do espectro radioeléctrico, de acordo com critérios de proporcionalidade e no respeito pelos direitos adquiridos.\n\n3 - Nos casos previstos no número anterior, deve o ICP, em prazo razoável, dar conhecimento da decisão devidamente fundamentada aos titulares das licenças.\n\n4 - Nos casos previstos no n.º 2, será concedida uma compensação aos titulares das licenças para cobrir, no todo ou em parte, encargos que comprovadamente se verifiquem com a alteração, anulação ou substituição da consignação de frequências, nas condições e mediante os critérios gerais a definir por portaria do membro do Governo responsável pela área das comunicações.\n\n5 - Quando se verifique uma alteração ou substituição da consignação de frequências, nos termos do n.º 2, designadamente para a atribuição de tais frequências ao funcionamento de novos serviços, pode o ICP determinar que a compensação a que se refere o número anterior seja paga pelo beneficiário da nova atribuição.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528931": {
+   "fragment_id": "187527479",
+   "type": 11,
+   "heading": "Artigo 6.º — Regulamentos de exploração e regime de acesso à actividade",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 6.º — Regulamentos de exploração e regime de acesso à actividade\n\n1 - O regime de licenciamento radioeléctrico, previsto no presente decreto-lei, não prejudica o cumprimento das disposições legais aplicáveis à oferta de redes e serviços de comunicações electrónicas acessíveis e não acessíveis ao público e aos direitos de utilização de frequências, quando aplicável.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528932": {
+   "fragment_id": "187527480",
+   "type": 11,
+   "heading": "Artigo 7.º — Licença de rede",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 7.º — Licença de rede\n\n1 - A utilização de uma rede de radiocomunicações carece de licença radioeléctrica.\n\n2 - As licenças de rede devem conter, designadamente:\n\na) Identificação do titular;\n\nb) Fim para que são concedidas;\n\nc) Data de emissão;\n\nd) Prazo de validade;\n\ne) Parâmetros técnicos aplicáveis ao conjunto das estações que constituem a rede;\n\nf) Número e localização das estações que constituem a rede, quando aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528933": {
+   "fragment_id": "187527481",
+   "type": 11,
+   "heading": "Artigo 8.º — Licença de estação",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 8.º — Licença de estação\n\n1 - A utilização de estações que integrem uma rede de radiocomunicações licenciada não carece de licença, salvo nos casos previstos no número seguinte.\n\n2 - As categorias de estações que, integrando uma rede de radiocomunicações, carecem de licença, são definidas pelo ICP-ANACOM e publicitadas no seu sítio na Internet.\n\n3 - A utilização de estações que não integrem uma rede de radiocomunicações é objecto de licenciamento.\n\n4 - As licenças de estação devem conter, designadamente:\n\na) Identificação do titular;\n\nb) Fim para que são concedidas;\n\nc) Data de emissão;\n\nd) Prazo de validade;\n\ne) Parâmetros técnicos específicos de cada estação, no âmbito da rede ou serviço em que está inserida;\n\nf) Localização da estação, quando aplicável.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528934": {
+   "fragment_id": "187527482",
+   "type": 11,
+   "heading": "Artigo 9.º — Isenção de licença",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 9.º — Isenção de licença\n\n1 - Compete ao ICP determinar as situações de isenção:\n\na) Da licença de rede a que se refere o n.º 1 do artigo 7.º;\n\nb) Da licença de estação a que se refere o n.º 3 do artigo 8.º\n\n2 - O ICP-ANACOM publicita no respectivo sítio na Internet, no âmbito do Quadro Nacional de Atribuição de Frequências (QNAF), quais as redes e estações que estão isentas de licença, nos termos do número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528935": {
+   "fragment_id": "187527483",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos utilizadores",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 10.º — Obrigações dos utilizadores\n\n1 - Constituem obrigações dos utilizadores de redes e estações de radiocomunicações, sem prejuízo de outras decorrentes do presente decreto-lei e demais legislação aplicável:\n\na) Utilizar as redes e estações para o fim a que se destinam, abstendo-se de emitir infundadamente sinais de alarme, emergência ou perigo, bem como chamadas de socorro falsas ou enganosas;\n\nb) Manter as redes e estações em bom estado de funcionamento, abstendo-se de provocar interferências noutras redes e estações de radiocomunicações;\n\nc) Respeitar as condicionantes aplicáveis aos equipamentos de rádio, em conformidade com a legislação em vigor;\n\nd) Proceder à liquidação das taxas aplicáveis nos prazos fixados, em conformidade com o artigo 19.º;\n\ne) Permitir o acesso aos locais de instalação das estações e garantir todas as condições necessárias à sua fiscalização pelos agentes de fiscalização competentes;\n\nf) Utilizar as estações de radiocomunicações exclusivamente em frequências que lhes tenham sido consignadas;\n\ng) Utilizar as estações de radiocomunicações de acordo com os parâmetros técnicos fixados nos termos da alínea e) do n.º 2 do artigo 7.º e da alínea e) do n.º 4 do artigo 8.º, nas localizações definidas e cumprindo todas as restantes condições constantes das respectivas licenças;\n\nh) Apor, no exterior de todas as estações com localização fixa, em local bem visível, uma placa da qual conste a identificação do utilizador e os meios de contacto de quem possa facultar o acesso à instalação nos termos definidos pelo ICP-ANACOM em regulamentação própria;\n\ni) Apor, nos locais de instalação de estações com localização fixa e respectivos acessórios, designadamente antenas, sinalização informativa que alerte para os riscos da referida instalação, nos termos definidos pelo ICP-ANACOM em regulamentação própria;\n\nj) Indicar ao ICP-ANACOM os contactos permanentes dos responsáveis pela manutenção das estações e acesso às mesmas, mantendo tais contactos actualizados;\n\nl) Garantir que as estações que utilizam cumprem os níveis de referência para efeitos de avaliação da exposição a campos electromagnéticos, fixados em legislação específica.\n\n2 - Podem ser isentas da obrigação constante da alínea h) do número anterior, mediante decisão do ICP-ANACOM, as estações de radiocomunicações em que seja desaconselhável a aposição da respectiva identificação, em razão da sua localização ou da natureza específica dos fins a que estejam afectas, nomeadamente de segurança.\n\n3 - Nos casos em que a utilização de redes ou estações de radiocomunicações cause interferências prejudiciais em serviços de radiocomunicações autorizados, designadamente serviços de emergência, de radionavegação aeronáutica e móvel aeronáutico, os utilizadores ficam obrigados a suspender ou a alterar as respectivas condições de utilização, nos prazos que sejam determinados em notificação do ICP-ANACOM, mantendo as condicionantes até nova notificação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528948": {
+   "fragment_id": "187527484",
+   "type": 11,
+   "heading": "Artigo 11.º — Radiocomunicações interditas",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 11.º — Radiocomunicações interditas\n\nSem prejuízo do disposto em legislação específica, aos utilizadores de estações de radiocomunicações é especialmente vedado:\n\na) Efectuar ou permitir radiocomunicações ilícitas;\n\nb) Emitir sinais de alarme, emergência ou perigo, bem como chamadas de socorro falsas ou enganosas.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528936": {
+   "fragment_id": "187527485",
+   "type": 11,
+   "heading": "Artigo 12.º — Atribuição de licenças",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 12.º — Atribuição de licenças\n\n1 - Para efeitos de atribuição de uma licença de rede, ou de estação de radiocomunicações que integre, ou constitua, uma rede de comunicações electrónicas acessível ou não acessível ao público, os interessados devem apresentar ao ICP-ANACOM requerimento devidamente instruído de acordo com o n.º 3.\n\n2 - (Revogado.)\n\n3 - Compete ao ICP-ANACOM determinar e publicar, no seu sítio da Internet, os elementos que devem instruir os requerimentos, bem como os requisitos dos projectos técnicos, em função dos serviços em causa.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528937": {
+   "fragment_id": "187527486",
+   "type": 11,
+   "heading": "Artigo 13.º — Licenças temporárias",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 13.º — Licenças temporárias\n\n1 - Podem ser concedidas licenças de estação ou de rede de radiocomunicações, a título temporário, por período não superior a 180 dias, as quais podem ser renovadas uma vez por período de duração igual ou inferior.\n\n2 - Nos casos a que se refere o número anterior, o pedido de licenciamento deve ser apresentado ao ICP com uma antecedência mínima de 10 dias relativamente à data pretendida para o início de vigência da licença.\n\n3 - Em casos excepcionais, pode o ICP dispensar o cumprimento do prazo a que se refere o número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528938": {
+   "fragment_id": "187527487",
+   "type": 11,
+   "heading": "Artigo 14.º — Transmissibilidade das licenças",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 14.º — Transmissibilidade das licenças\n\n1 - As licenças de rede ou de estação são transmissíveis.\n\n2 - Para efeitos do número anterior, os titulares das licenças devem comunicar previamente ao ICP-ANACOM a sua intenção de transmitir essas licenças e as condições da transmissão.\n\n3 - A entidade à qual for transmitida a licença assume todos os direitos e obrigações a esta inerentes.\n\n4 - A transmissão de uma licença de rede implica a transmissão das licenças das estações que a integrem, quando existentes.\n\n5 - As licenças temporárias previstas no artigo 13.º são intransmissíveis.\n\n6 - O ICP-ANACOM pronuncia-se, no prazo máximo de 45 dias, sobre o conteúdo da comunicação referida no n.º 2, podendo opor-se à transmissão das licenças ou impor as condições necessárias à gestão óptima do espectro, designadamente a utilização efectiva e eficiente das frequências e a inexistência de distorções de concorrência.\n\n7 - A transmissão de licenças de rede e de estação não suspende nem interrompe o prazo pelo qual foram atribuídas as licenças nos termos do presente decreto-lei, sem prejuízo da sua renovação nos termos do artigo 15.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528939": {
+   "fragment_id": "187527488",
+   "type": 11,
+   "heading": "Artigo 15.º — Validade e renovação da licença",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 15.º — Validade e renovação da licença\n\n1 - As licenças são válidas por um período de 5 anos, renováveis automaticamente por iguais períodos, salvo comunicação escrita devidamente fundamentada do ICP, que deverá ser efectuada até 60 dias antes do termo da respectiva validade.\n\n2 - O ICP-ANACOM pode prever um prazo de validade diferente para a licença nos casos em que a mesma esteja associada a um direito de utilização de frequências ou por motivo devidamente justificado, nomeadamente, necessidade de harmonização internacional ou reafectação das frequências.\n\n3 - Sempre que o titular da licença não pretenda a sua renovação, deve comunicar o facto ao ICP até 60 dias antes do termo da respectiva validade.\n\n4 - Na ausência da comunicação a que alude o número anterior, o ICP presume o interesse na renovação da licença e envia ao respectivo titular um novo título, antes do termo da sua validade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528940": {
+   "fragment_id": "187527489",
+   "type": 11,
+   "heading": "Artigo 16.º — Alteração da licença",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 16.º — Alteração da licença\n\n1 - As licenças podem ser alteradas nos seguintes casos:\n\na) Por iniciativa do ICP, a todo o tempo, de acordo com os princípios da prossecução do interesse público e da proporcionalidade;\n\nb) A pedido do titular da licença, sujeito a aprovação do ICP.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, deve o ICP notificar o titular da licença, de forma fundamentada e em prazo razoável, da alteração a introduzir e proceder à emissão da licença alterada em conformidade.\n\n3 - No caso referido na alínea b) do n.º 1, o ICP, caso aprove a alteração, procede à emissão da licença alterada em conformidade.\n\n4 - Nos casos referidos no presente artigo, considera-se anulada a licença anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528941": {
+   "fragment_id": "187527490",
+   "type": 11,
+   "heading": "Artigo 17.º — Revogação da licença",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 17.º — Revogação da licença\n\n1 - As licenças podem ser revogadas nos seguintes casos:\n\na) Falta de pagamento das taxas previstas no n.º 1 do artigo 19.º durante dois anos consecutivos, se o titular, devidamente notificado para o efeito, não proceder ao respectivo pagamento no prazo máximo de 10 dias;\n\nb) A pedido do titular.\n\n2 - Verificada a revogação nos termos da alínea a) do número anterior, o ICP-ANACOM não concede ao respectivo titular um novo título de licenciamento antes de decorrido o prazo de dois anos a contar da data da decisão que determinou a revogação.\n\n3 - A revogação de uma licença não dá lugar ao reembolso das taxas eventualmente liquidadas até à data da revogação.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528942": {
+   "fragment_id": "187527491",
+   "type": 11,
+   "heading": "Artigo 18.º — Técnicos responsáveis de redes ou estações de radiocomunicações",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 18.º — Técnicos responsáveis de redes ou estações de radiocomunicações\n\n1 - O ICP pode condicionar a atribuição de licença de rede ou de estação de radiocomunicações à indicação, pelo requerente, de técnico responsável pelo projecto, instalação e manutenção da rede ou estação.\n\n2 - Para efeitos do disposto no número anterior, o ICP-ANACOM fixa, promovendo a adequada publicitação no seu sítio na Internet:\n\na) Os serviços de radiocomunicações para cujas redes ou estações é obrigatória a existência de técnicos responsáveis;\n\nb) As qualificações técnicas exigidas aos técnicos responsáveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528943": {
+   "fragment_id": "187527493",
+   "type": 11,
+   "heading": "Artigo 19.º — Taxas",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2006-538834), em vigor a partir de 2006-08-17"
+   ],
+   "markdown": "###### Artigo 19.º — Taxas\n\n1 - A utilização do espectro radioeléctrico está sujeita ao pagamento de taxas.\n\n2 - Para a fixação dos montantes das taxas a que se refere o número anterior, são tidos em conta, em função do serviço, parâmetros espectrais, de cobertura e de utilização, designadamente:\n\na) O número de estações utilizadas;\n\nb) As frequências ou canais consignados;\n\nc) A faixa de frequências;\n\nd) A largura de faixa;\n\ne) O grau de congestionamento da região de implementação;\n\nf) O desenvolvimento económico e social da região de implementação;\n\ng) A área de cobertura;\n\nh) O tipo de utilização e utilizador;\n\ni) A exclusividade ou a partilha de frequências ou canais consignados.\n\n3 - As taxas são reduzidas quando aplicáveis às licenças temporárias previstas no artigo 13.º\n\n4 - Nas situações referidas no n.º 3 do artigo 13.º, acresce à taxa prevista no n.º 1 uma taxa de urgência.\n\n5 - São concedidas reduções das taxas de utilização de espectro, quando associadas a redes e, ou, estações utilizadas na prossecução das actividades a que se refere o presente número:\n\na) À Autoridade Nacional de Protecção Civil, aos Serviços Regionais de Protecção Civil dos Açores e da Madeira, aos agentes de protecção civil referidos nas alíneas a), e) e f) do n.º 1 e no n.º 2 do artigo 46.º da Lei n.º 27/2006, de 3 de Julho;\n\nb) A outras entidades que, no território nacional, participem directamente na prevenção, detecção, vigilância e combate a incêndios e ainda às que prestem socorro de emergência pré-hospitalar nas Regiões Autónomas.\n\n6 - As entidades a que se refere a alínea b) do número anterior são indicadas por resolução do Conselho de Ministros.\n\n7 - Os montantes e periodicidade de liquidação das taxas previstas nos números anteriores, bem como as percentagens de reduções a que se referem os n.os 3 e 5, são fixados por portaria do membro do Governo responsável pela área das comunicações.\n\n8 - A falta de pagamento da taxa de utilização está sujeita à aplicação de juros de mora à taxa legal em vigor, sem prejuízo de, em caso de atraso no pagamento da mesma por período superior a 90 dias, haver lugar à aplicação de uma sobretaxa igual a 15 % do valor da taxa em questão.\n\n9 - O montante das taxas cobradas nos termos dos números anteriores constitui receita do ICP.\n\n10 - (Revogado.)\n\n11 - Ficam isentas do pagamento da taxa referida no n.º 1, associada à exploração da rede do 'Sistema Integrado de Redes de Emergência e Segurança' (SIRESP), as entidades em cada momento envolvidas no SIRESP, designadamente a respectiva entidade gestora, a operadora e seus utilizadores no âmbito da segurança e emergência.\n\n12 - Ficam isentas do pagamento da taxa referida no n.º 1, associada à exploração das redes e estações dos serviços móvel marítimo e de radiodeterminação que suportam o 'Sistema Nacional de Controlo de Tráfego Marítimo' (Vessel Traffic System - VTS), a Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM) e a entidade que, de acordo com o disposto nos respectivos Estatutos, apoiar a ANCTM na prossecução das suas atribuições.\n\n13 - Sempre que o procedimento de atribuição de frequências definido nos termos da lei pelo ICP-ANACOM seja o leilão:\n\na) O respectivo regulamento pode estabelecer um valor mínimo de licitação, bem como o valor mínimo admissível dos intervalos entre licitações, quando aplicáveis, devendo ter em conta os objectivos de regulação fixados no artigo 5.º da Lei n.º 5/2004, de 10 de Fevereiro;\n\nb) O valor da contrapartida efectivamente paga pelos interessados pela atribuição das frequências constitui receita do ICP-ANACOM, nos termos dos respectivos Estatutos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2006-538834), em vigor a partir de 2006-08-17"
+  },
+  "187528944": {
+   "fragment_id": "187527496",
+   "type": 11,
+   "heading": "Artigo 21.º — Restrições à instalação de estações de radiocomunicações",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 21.º — Restrições à instalação de estações de radiocomunicações\n\n1 - A instalação de estações de radiocomunicações e respectivos acessórios, designadamente antenas, não pode, para além de outras restrições legalmente estabelecidas:\n\na) Dificultar o acesso às chaminés, bem como a realização de eventuais trabalhos de reparação na cobertura dos edifícios;\n\nb) Causar interferências prejudiciais em estações que tenham direito a protecção ou na recepção de emissões de radiodifusão;\n\nc) Colidir com servidões radioeléctricas existentes.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528949": {
+   "fragment_id": "187527497",
+   "type": 11,
+   "heading": "Artigo 22.º — Exposição a radiações electromagnéticas",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 22.º — Exposição a radiações electromagnéticas\n\n1 - Compete ao ICP promover a publicação, por aviso na 3.ª série do Diário da República, níveis de referência para efeitos de avaliação da exposição a campos electromagnéticos ou normas europeias ou nacionais baseadas em procedimentos de medição e cálculo reconhecidos e provados cientificamente, destinados a avaliar a conformidade com as restrições básicas relativas à exposição da população a campos electromagnéticos, a aprovar pelas entidades competentes.\n\n2 - O ICP pode, de acordo com os elementos a que se refere o número anterior, e em casos devidamente justificados, adoptar medidas condicionantes da instalação e funcionamento de estações ou antenas de radiocomunicações.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528945": {
+   "fragment_id": "187527498",
+   "type": 11,
+   "heading": "Artigo 23.º — Partilha de infra-estruturas",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 23.º — Partilha de infra-estruturas\n\n1 - As entidades titulares de licença emitida nos termos do presente decreto-lei devem celebrar acordos com vista à partilha de infra-estruturas de radiocomunicações existentes ou a instalar, cuja localização possa coincidir, mantendo os requisitos de exploração específicos, podendo abranger estruturas de suporte, cabos, filtros, antenas e edifícios, com excepção dos casos em que essa partilha seja tecnicamente inviável.\n\n2 - No local da instalação partilhada deve ser aposta, no seu exterior e em local bem visível, uma placa da qual conste a identificação dos utilizadores e os meios de contacto de quem possa facultar o acesso à instalação.\n\n3 - Quando, sem motivo justificado, não seja celebrado acordo nos termos do n.º 1, o ICP pode determinar a partilha de infra-estruturas existentes em determinada área geográfica.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528946": {
+   "fragment_id": "187527501",
+   "type": 11,
+   "heading": "Artigo 25.º — Contra-ordenações",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 25.º — Contra-ordenações\n\n1 - Sem prejuízo de outras sanções aplicáveis, constituem contra-ordenações:\n\na) A utilização do espectro electromagnético sem registo no ICP, em violação do disposto no n.º 2 do artigo 3.º;\n\nb) A utilização de espectro radioeléctrico sem autorização do ICP, em violação do n.º 3 do artigo 5.º;\n\nc) A utilização de uma rede de radiocomunicações, em violação do n.º 1 do artigo 7.º;\n\nd) A utilização de estações não licenciadas, em violação dos n.os 2 e 3 do artigo 8.º;\n\ne) A violação de qualquer das obrigações previstas nas alíneas a), e), f), g) e h) do n.º 1 e no n.º 3 do artigo 10.º;\n\nf) A violação de qualquer das obrigações previstas nas alíneas b) e c) do n.º 1 do artigo 10.º;\n\ng) A violação de qualquer das obrigações previstas nas alíneas i) e j) do n.º 1 do artigo 10.º e do n.º 2 do artigo 23.º;\n\nh) A transmissão de licenças sem comunicação, em violação do n.º 2 do artigo 14.º, bem como o não cumprimento das condições impostas pelo ICP-ANACOM para a transmissão em violação do n.º 6 do artigo 14.º;\n\ni) (Revogada.)\n\nj) A instalação de estações e antenas, em violação do n.º 1 do artigo 21.º;\n\nk) (Revogada.)\n\nl) O não cumprimento da determinação do ICP, em violação do n.º 3 do artigo 23.º\n\n2 - As contra-ordenações previstas nas alíneas a), b) e g) do número anterior são puníveis com coima de (euro) 100 a (euro) 2500 e de (euro) 150 a (euro) 5000, consoante tenham sido praticadas por pessoa singular ou colectiva, respectivamente.\n\n3 - As contra-ordenações previstas nas alíneas c), d), e), f), h), j) e l) do n.º 1 são puníveis com coima de (euro) 250 a (euro) 3740,98 e de (euro) 500 a (euro) 44 891,81, consoante tenham sido praticadas por pessoa singular ou colectiva, respectivamente.\n\n4 - Às contra-ordenações previstas nas alíneas e) e f) do n.º 1 pode ser aplicada a sanção acessória de suspensão da licença, por um período máximo de dois anos.\n\n5 - Às contra-ordenações previstas nas alíneas b), c), d), f), h) e j) do n.º 1 pode ser aplicada a sanção acessória de perda das estações a favor do Estado quando, no prazo de 60 dias a contar da recepção da notificação da decisão, não seja requerida a devolução das estações seladas ou desmanteladas.\n\n6 - Nas contra-ordenações previstas no presente diploma são puníveis a tentativa e a negligência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528950": {
+   "fragment_id": "187527505",
+   "type": 11,
+   "heading": "Artigo 28.º — Regularização das licenças",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 28.º — Regularização das licenças\n\n1 - Compete ao ICP proceder às alterações necessárias às licenças radioeléctricas já emitidas ou à emissão de novos títulos, com dispensa da correspondente taxa, no prazo de um ano a contar da entrada em vigor do presente diploma.\n\n2 - Para efeitos do disposto no número anterior, devem as entidades titulares de licenças prestar e fornecer ao ICP todas as informações e documentos que lhes sejam solicitados.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528925": {
+   "fragment_id": "187528836",
+   "type": 11,
+   "heading": "Artigo 28.º-A — Utilização de meios electrónicos",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03, produz efeitos a partir de 2009-12-28"
+   ],
+   "markdown": "###### Artigo 28.º-A — Utilização de meios electrónicos\n\nNos procedimentos que envolvam a comunicação entre o ICP-ANACOM e os titulares de licenças de rede ou de estação, designadamente no que se refere à emissão, alteração, transmissão e revogação de licenças, bem como em todos os requerimentos a submeter àquela Autoridade, podem ser utilizados meios electrónicos a definir e publicitar pelo ICP-ANACOM.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03, produz efeitos a partir de 2009-12-28"
+  },
+  "187528947": {
+   "fragment_id": "187527506",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": "2009-10-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\n1 - São revogados:\n\na) O Decreto-Lei n.º 147/87, de 24 de Março, com a redacção que lhe foi dada pelo Decreto-Lei n.º 149/91, de 12 de Abril, sem prejuízo do disposto nos n.os 5 e 6 do presente artigo;\n\nb) O Decreto-Lei n.º 320/88, de 14 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 146/91, de 12 de Abril, sem prejuízo do disposto nos n.os 5 e 6 do presente artigo;\n\nc) O Decreto-Lei n.º 144/97, de 7 de Julho;\n\nd) O despacho MOPTC 16/94-XII, de 27 de Abril.\n\n2 - (Revogado.)\n\n3 - Mantém-se em vigor a Resolução do Conselho de Ministros n.º 23/98, de 12 de Fevereiro, até à entrada em vigor da resolução a que se refere o n.º 6 do artigo 19.º\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  },
+  "187528951": {
+   "fragment_id": "187527493",
+   "type": 11,
+   "heading": "Artigo 19.º — Taxas",
+   "in_force_from": "2012-05-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2006-538834), em vigor a partir de 2006-08-17"
+   ],
+   "markdown": "###### Artigo 19.º — Taxas\n\n1 - A utilização do espectro radioeléctrico está sujeita ao pagamento de taxas.\n\n2 - Para a fixação dos montantes das taxas a que se refere o número anterior, são tidos em conta, em função do serviço, parâmetros espectrais, de cobertura e de utilização, designadamente:\n\na) O número de estações utilizadas;\n\nb) As frequências ou canais consignados;\n\nc) A faixa de frequências;\n\nd) A largura de faixa;\n\ne) O grau de congestionamento da região de implementação;\n\nf) O desenvolvimento económico e social da região de implementação;\n\ng) A área de cobertura;\n\nh) O tipo de utilização e utilizador;\n\ni) A exclusividade ou a partilha de frequências ou canais consignados.\n\n3 - As taxas são reduzidas quando aplicáveis às licenças temporárias previstas no artigo 13.º\n\n4 - Nas situações referidas no n.º 3 do artigo 13.º, acresce à taxa prevista no n.º 1 uma taxa de urgência.\n\n5 - São concedidas reduções das taxas de utilização de espectro, quando associadas a redes e, ou, estações utilizadas na prossecução das actividades a que se refere o presente número:\n\na) À Autoridade Nacional de Protecção Civil, aos Serviços Regionais de Protecção Civil dos Açores e da Madeira, aos agentes de protecção civil referidos nas alíneas a), e) e f) do n.º 1 e no n.º 2 do artigo 46.º da Lei n.º 27/2006, de 3 de Julho;\n\nb) A outras entidades que, no território nacional, participem directamente na prevenção, detecção, vigilância e combate a incêndios e ainda às que prestem socorro de emergência pré-hospitalar nas Regiões Autónomas.\n\n6 - As entidades a que se refere a alínea b) do número anterior são indicadas por resolução do Conselho de Ministros.\n\n7 - Os montantes e periodicidade de liquidação das taxas previstas nos números anteriores, bem como as percentagens de reduções a que se referem os n.os 3 e 5, são fixados por portaria do membro do Governo responsável pela área das comunicações.\n\n8 - A falta de pagamento da taxa de utilização está sujeita à aplicação de juros de mora à taxa legal em vigor, sem prejuízo de, em caso de atraso no pagamento da mesma por período superior a 90 dias, haver lugar à aplicação de uma sobretaxa igual a 15 % do valor da taxa em questão.\n\n9 - O montante das taxas cobradas nos termos dos números anteriores constitui receita do ICP.\n\n10 - (Revogado.)\n\n11 - Ficam isentas do pagamento da taxa referida no n.º 1, associada à exploração da rede do 'Sistema Integrado de Redes de Emergência e Segurança' (SIRESP), as entidades em cada momento envolvidas no SIRESP, designadamente a respectiva entidade gestora, a operadora e seus utilizadores no âmbito da segurança e emergência.\n\n12 - Ficam isentas do pagamento da taxa referida no n.º 1, associada à exploração das redes e estações dos serviços móvel marítimo e de radiodeterminação que suportam o 'Sistema Nacional de Controlo de Tráfego Marítimo' (Vessel Traffic System - VTS), a Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM) e a entidade que, de acordo com o disposto nos respectivos Estatutos, apoiar a ANCTM na prossecução das suas atribuições.\n\n13 - Sempre que o procedimento de atribuição de frequências definido nos termos da lei pelo ICP-ANACOM seja o leilão:\n\na) O respectivo regulamento pode estabelecer um valor mínimo de licitação, bem como o valor mínimo admissível dos intervalos entre licitações, quando aplicáveis, devendo ter em conta os objectivos de regulação fixados no artigo 5.º da Lei n.º 5/2004, de 10 de Fevereiro;\n\nb) O valor da contrapartida efetivamente paga pelos interessados pela atribuição das frequências constitui receita do ICP-ANACOM, nos termos dos respetivos Estatutos, podendo o Governo mediante portaria dos membros responsáveis pelas áreas das comunicações eletrónicas e das finanças determinar a sua transferência para os cofres do Estado.\n\n> Alterado pelo/a Artigo 20.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2006-538834), em vigor a partir de 2006-08-17"
+  },
+  "187528952": {
+   "fragment_id": "187527493",
+   "type": 11,
+   "heading": "Artigo 19.º — Taxas",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 188.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 20.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2006-538834), em vigor a partir de 2006-08-17"
+   ],
+   "markdown": "###### Artigo 19.º — Taxas\n\n1 - A utilização do espectro radioeléctrico está sujeita ao pagamento de taxas.\n\n2 - Para a fixação dos montantes das taxas a que se refere o número anterior, são tidos em conta, em função do serviço, parâmetros espectrais, de cobertura e de utilização, designadamente:\n\na) O número de estações utilizadas;\n\nb) As frequências ou canais consignados;\n\nc) A faixa de frequências;\n\nd) A largura de faixa;\n\ne) O grau de congestionamento da região de implementação;\n\nf) O desenvolvimento económico e social da região de implementação;\n\ng) A área de cobertura;\n\nh) O tipo de utilização e utilizador;\n\ni) A exclusividade ou a partilha de frequências ou canais consignados.\n\n3 - As taxas são reduzidas quando aplicáveis às licenças temporárias previstas no artigo 13.º\n\n4 - Nas situações referidas no n.º 3 do artigo 13.º, acresce à taxa prevista no n.º 1 uma taxa de urgência.\n\n5 - São concedidas reduções das taxas de utilização de espectro, quando associadas a redes e, ou, estações utilizadas na prossecução das actividades a que se refere o presente número:\n\na) À Autoridade Nacional de Protecção Civil, aos Serviços Regionais de Protecção Civil dos Açores e da Madeira, aos agentes de protecção civil referidos nas alíneas a), e) e f) do n.º 1 e no n.º 2 do artigo 46.º da Lei n.º 27/2006, de 3 de Julho;\n\nb) A outras entidades que, no território nacional, participem directamente na prevenção, detecção, vigilância e combate a incêndios e ainda às que prestem socorro de emergência pré-hospitalar nas Regiões Autónomas.\n\n6 - As entidades a que se refere a alínea b) do número anterior são indicadas por resolução do Conselho de Ministros.\n\n7 - Os montantes e periodicidade de liquidação das taxas previstas nos números anteriores, bem como as percentagens de reduções a que se referem os n.os 3 e 5, são fixados por portaria do membro do Governo responsável pela área das comunicações.\n\n8 - A falta de pagamento da taxa de utilização está sujeita à aplicação de juros de mora à taxa legal em vigor, sem prejuízo de, em caso de atraso no pagamento da mesma por período superior a 90 dias, haver lugar à aplicação de uma sobretaxa igual a 15 % do valor da taxa em questão.\n\n9 - O montante das taxas cobradas nos termos dos números anteriores constitui receita do ICP.\n\n10 - (Revogado.)\n\n11 - Ficam isentas do pagamento da taxa referida no n.º 1, associada à exploração da rede do 'Sistema Integrado de Redes de Emergência e Segurança' (SIRESP), as entidades em cada momento envolvidas no SIRESP, designadamente a respectiva entidade gestora, a operadora e seus utilizadores no âmbito da segurança e emergência.\n\n12 - Ficam isentos do pagamento da taxa referida no n.º 1, associada à exploração das redes e estações dos serviços fixo e móvel marítimo e de radiodeterminação que suportam o 'Sistema Nacional de Controlo do Tráfego Marítimo' (Vessel Traffic System - VTS), a Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM) e a entidade que, de acordo com o disposto nos respetivos estatutos apoiar a ANCTM na prossecução das suas atribuições.\n\n13 - Sempre que o procedimento de atribuição de frequências definido nos termos da lei pelo ICP-ANACOM seja o leilão:\n\na) O respectivo regulamento pode estabelecer um valor mínimo de licitação, bem como o valor mínimo admissível dos intervalos entre licitações, quando aplicáveis, devendo ter em conta os objectivos de regulação fixados no artigo 5.º da Lei n.º 5/2004, de 10 de Fevereiro;\n\nb) O valor da contrapartida efetivamente paga pelos interessados pela atribuição das frequências constitui receita do ICP-ANACOM, nos termos dos respetivos Estatutos, podendo o Governo mediante portaria dos membros responsáveis pelas áreas das comunicações eletrónicas e das finanças determinar a sua transferência para os cofres do Estado.\n\n> Alterado pelo/a Artigo 188.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 20.º do/a [Lei n.º 20/2012 - Diário da República n.º 93/2012, Série I de 2012-05-14](https://diariodarepublica.pt/dr/detalhe/lei/20-2012-552023), em vigor a partir de 2012-05-15\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/2006 - Diário da República n.º 157/2006, Série I de 2006-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-2006-538834), em vigor a partir de 2006-08-17"
+  },
+  "187528953": {
+   "fragment_id": "187527476",
+   "type": 11,
+   "heading": "Artigo 4.º — Consignação de frequências",
+   "in_force_from": "2022-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+   ],
+   "markdown": "###### Artigo 4.º — Consignação de frequências\n\n1 - No âmbito das suas competências, o ICP consigna as frequências necessárias ao funcionamento e utilização das redes e estações de radiocomunicações que utilizem o espectro radioeléctrico.\n\n2 - No exercício das competências que lhe estão legalmente atribuídas, o ICP-ANACOM pode, a todo o tempo, alterar, anular ou substituir a consignação de frequências para o funcionamento e utilização das redes e estações de radiocomunicações, na medida em que tal seja necessário para a prossecução do interesse público, no âmbito da gestão do espectro radioeléctrico, de acordo com critérios de proporcionalidade e no respeito pelos direitos adquiridos.\n\n3 - Nos casos previstos no número anterior, deve o ICP, em prazo razoável, dar conhecimento da decisão devidamente fundamentada aos titulares das licenças.\n\n4 - Nos casos previstos no n.º 2, os titulares das licenças são compensados, total ou parcialmente, pelos encargos ou danos especiais e anormais que lhes sejam impostos, de acordo com as regras aplicáveis à indemnização pelo sacrifício previstas no regime da responsabilidade civil extracontratual do Estado e demais entidades públicas, aprovado pela Lei n.º 67/2007, de 31 de dezembro.\n\n5 - Compete à ANACOM apurar o montante da compensação a que se refere o número anterior, nos termos e condições gerais a definir pelo membro do Governo responsável pela área das comunicações.\n\n6 - Os encargos decorrentes da referida compensação são suportados por verbas do orçamento da ANACOM.\n\n7 - Quando se verifique uma alteração ou substituição da consignação de frequências, nos termos do n.º 2, designadamente para a atribuição de tais frequências na sequência de harmonizações técnicas, pode a ANACOM determinar que a compensação a que se refere o número anterior seja paga pelo beneficiário da nova atribuição.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 16/2022 - Diário da República n.º 157/2022, Série I de 2022-08-16](https://diariodarepublica.pt/dr/detalhe/lei/16-2022-187481298), em vigor a partir de 2022-11-14\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 264/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-2009-490695), em vigor a partir de 2009-10-03"
+  }
+ }
+}

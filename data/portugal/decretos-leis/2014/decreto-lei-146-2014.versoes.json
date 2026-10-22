@@ -1,0 +1,275 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:58228086:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-117160232",
+ "dre_path": "/dr/detalhe/decreto-lei/146-2014-58228086",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-10-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117166975",
+    "117166976",
+    "117166977",
+    "117166978",
+    "117166979",
+    "117166980",
+    "117166981",
+    "117166982",
+    "117166983",
+    "117166984",
+    "117166985",
+    "117166986",
+    "117166987",
+    "117166988",
+    "117166989",
+    "117166990",
+    "117166991",
+    "117166992",
+    "117166993",
+    "117166994",
+    "117166995",
+    "117166996"
+   ]
+  },
+  {
+   "date": "2018-12-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117142873:por",
+     "title": "Decreto-Lei n.º 107/2018",
+     "published": "2018-11-29",
+     "dre_path": "/dr/detalhe/decreto-lei/107-2018-117142873"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "117166975",
+    "117166976",
+    "117166977",
+    "117166978",
+    "117166979",
+    "117166980",
+    "117166981",
+    "117166982",
+    "117166983",
+    "117166984",
+    "117166985",
+    "117166986",
+    "117166987",
+    "117166988",
+    "117166989",
+    "117166990",
+    "117166991",
+    "117166998",
+    "117166993",
+    "117166994",
+    "117166995",
+    "117166996",
+    "117166997"
+   ]
+  }
+ ],
+ "fragments": {
+  "117166975": {
+   "fragment_id": "117160233",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 146/2014\n\nde 9 de outubro\n\nO estacionamento sujeito ao pagamento de taxa nas vias municipais foi adotado por um número considerável de municípios, nomeadamente com o objetivo de contribuir para o ordenamento do trânsito nas áreas urbanas em que se verifica maior congestionamento automóvel.\n\nEm alguns casos, o estacionamento é objeto de contratos de concessão, celebrados pelos municípios com empresas privadas que, nos termos estabelecidos nos respetivos regulamentos municipais, fazem a exploração de áreas delimitadas do espaço público para estacionamento por períodos de tempo limitados.\n\nCom o presente decreto-lei, estabelecem-se regras que abrem a possibilidade aos órgãos próprios dos municípios de deliberarem no sentido de permitir que as empresas privadas concessionárias de estacionamento sujeito ao pagamento de taxa, em vias sob jurisdição municipal que lhes estão concessionadas, possam exercer a atividade de fiscalização do estacionamento nas zonas devidamente delimitadas e sinalizadas, a qual será restrita à aplicação das contraordenações previstas no artigo 71.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, isto é, as relativas a estacionamento proibido. Ou seja, a concretização efetiva deste novo regime fica dependente da vontade de cada município, no respeito pelo princípio da autonomia das autarquias locais.\n\nEste novo regime jurídico estabelece ainda, nestes casos, a obrigação de utilização exclusiva do Sistema de Contraordenações de Trânsito, sistema eletrónico de levantamento dos autos e de encaminhamento dos mesmos para a Autoridade Nacional de Segurança Rodoviária, e futuramente para as câmaras municipais, introduzindo ganhos de eficiência no sistema, com vantagem para as entidades envolvidas, a que acrescem também as vantagens que resultam da perceção do desvalor da infração e da consequente alteração do comportamento em consequência do encurtamento do tempo decorrido entre a verificação da contraordenação e a aplicação da correspondente sanção.\n\nImporta referir, por fim, que este novo regime jurídico assegura o princípio da transparência e a defesa dos direitos dos particulares, proibindo-se expressamente a atribuição de qualquer percentagem à concessionária ou aos seus trabalhadores do produto da aplicação das coimas, bem como a participação direta ou indireta da empresa concessionária e dos seus trabalhadores na repartição do produto das coimas. Também fica impedido que a atividade de fiscalização exercida pela empresa concessionária possa ser remunerada autonomamente.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses, a Comissão Nacional de Proteção de Dados e a Comissão de Regulação do Acesso a Profissões.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "117166976": {
+   "fragment_id": "117160234",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece as condições em que as empresas privadas concessionárias de estacionamento sujeito ao pagamento de taxa em vias sob jurisdição municipal podem exercer, através dos seus trabalhadores com funções de fiscalização, a atividade de fiscalização do estacionamento nas zonas que lhes estão concessionadas, devidamente delimitadas e sinalizadas.\n\n2 - O presente decreto-lei procede ainda à terceira alteração ao Decreto-Lei n.º 44/2005, de 23 de fevereiro, alterado pelo Decreto-Lei n.º 74-A/2005, de 24 de março, e pela Lei n.º 72/2013, de 3 de setembro."
+  },
+  "117166977": {
+   "fragment_id": "117160235",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nA atividade de fiscalização prevista no n.º 1 do artigo anterior incide exclusivamente na aplicação das contraordenações previstas no artigo 71.º do Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio."
+  },
+  "117166978": {
+   "fragment_id": "117160236",
+   "type": 11,
+   "heading": "Artigo 3.º — Objeto da empresa e do contrato de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objeto da empresa e do contrato de concessão\n\nO objeto social da concessionária, bem como o objeto do contrato de concessão devem prever, de forma expressa, a exploração do estacionamento sujeito ao pagamento de taxa na zona concessionada da via ou vias sob jurisdição municipal e a correspondente fiscalização nos termos do artigo anterior, sob pena de nulidade do contrato de concessão."
+  },
+  "117166979": {
+   "fragment_id": "117160237",
+   "type": 11,
+   "heading": "Artigo 4.º — Publicidade dos contratos de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Publicidade dos contratos de concessão\n\n1 - Os contratos de concessão relativos ao estacionamento sujeito ao pagamento de taxa em vias sob jurisdição municipal são publicados, na íntegra, incluindo a localização e delimitação da zona concessionada, até 30 dias antes de se iniciar a sua execução, no Boletim Municipal e no sítio na Internet do município concedente.\n\n2 - Os mesmos contratos de concessão são publicados, em extrato, por edital, nos locais de estilo e nos dois jornais de maior circulação na região, deles constando nomeadamente o seguinte:\n\na) A identificação das partes;\n\nb) O objeto do contrato, incluindo a localização e delimitação da zona concessionada;\n\nc) O prazo de execução;\n\nd) A retribuição do concessionário;\n\ne) A identificação do Boletim Municipal, com indicação do respetivo número, data de publicação e série, e do sítio na Internet do município em que se encontra publicado.\n\n3 - As alterações contratuais são sujeitas às mesmas obrigações de publicidade."
+  },
+  "117166980": {
+   "fragment_id": "117160238",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres da concessionária\n\n1 - A concessionária dá conhecimento do contrato de concessão, e das alterações que lhe forem introduzidas, à Autoridade Nacional de Segurança Rodoviária (ANSR), à Guarda Nacional Republicana (GNR) e à Polícia de Segurança Pública (PSP), até 30 dias antes de iniciar a sua execução.\n\n2 - A concessionária fica obrigada a comunicar à ANSR, no prazo máximo de 10 dias, a cessação do contrato de trabalho de qualquer dos seus trabalhadores que exercem funções de fiscalização, indicando expressamente a causa daquela cessação.\n\n3 - A concessionária é responsável pelos prejuízos que resultem do não cumprimento dos seus deveres."
+  },
+  "117166981": {
+   "fragment_id": "117160239",
+   "type": 11,
+   "heading": "Artigo 6.º — Trabalhadores que exercem funções de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Trabalhadores que exercem funções de fiscalização\n\n1 - O trabalhador que exerce funções de fiscalização deve ser parte em contrato de trabalho, sem termo resolutivo, celebrado com a concessionária, cujo objeto expresso são funções de fiscalização do estacionamento sujeito ao pagamento de taxa quanto às contraordenações previstas no artigo 71.º do Código da Estrada, na zona das vias municipais concessionadas à respetiva entidade empregadora para o efeito, devidamente delimitadas e sinalizadas, com exclusão de quaisquer outras, e cuja retribuição é fixada com respeito pelo estabelecido no artigo 137.º do Código da Estrada.\n\n2 - Os trabalhadores que exercem as funções de fiscalização previstas no presente decreto-lei devem ter um perfil compatível com a função a desempenhar e formação adequada, cujos termos procedimentais são fixados por portaria do membro do Governo responsável pela área da administração interna."
+  },
+  "117166982": {
+   "fragment_id": "117160240",
+   "type": 11,
+   "heading": "Artigo 7.º — Proibição de remuneração autónoma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Proibição de remuneração autónoma\n\n1 - A atividade de fiscalização exercida pela concessionária não pode ser remunerada autonomamente, devendo constar do contrato de concessão todas as prestações a que a concessionária tiver direito, com exclusão de quaisquer outras.\n\n2 - As coimas aplicadas por contraordenações rodoviárias, a que se refere o presente decreto-lei, não estão sujeitas a qualquer adicional e do seu produto não pode atribuir-se qualquer percentagem à concessionária ou aos seus trabalhadores.\n\n3 - A concessionária e os seus trabalhadores não podem participar, direta ou indiretamente, da repartição do produto das coimas."
+  },
+  "117166983": {
+   "fragment_id": "117160241",
+   "type": 11,
+   "heading": "Artigo 8.º — Arquivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Arquivo\n\nA ANSR mantém em arquivo os contratos de concessão, os estatutos e pactos de sociedade das concessionárias, bem como as respetivas alterações."
+  },
+  "117166984": {
+   "fragment_id": "117160242",
+   "type": 11,
+   "heading": "Artigo 9.º — Exercício da atividade de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exercício da atividade de fiscalização\n\n1 - Sem prejuízo das atribuições cometidas às forças de segurança e às entidades fiscalizadoras de âmbito municipal, a atividade de fiscalização, quanto às contraordenações previstas no artigo 71.º do Código da Estrada, nas zonas concessionadas, devidamente delimitadas e sinalizadas, pode ser exercida por trabalhadores da respetiva concessionária desde que, cada um destes trabalhadores com funções de fiscalização, seja, para o efeito, equiparado a agente de autoridade administrativa pelo presidente da ANSR.\n\n2 - No exercício da atividade de fiscalização, relativamente às contraordenações previstas no artigo 71.º do Código da Estrada praticadas na respetiva zona da via municipal concessionada, é levantado, pelo agente de autoridade administrativa, auto de contraordenação ao titular do documento de identificação do veículo, correndo contra ele o correspondente processo.\n\n3 - A tramitação do processo referido no número anterior, segue o disposto nos n.os 3 a 7 do artigo 171.º e nos artigos 175.º e 176.º do Código da Estrada, com as necessárias adaptações."
+  },
+  "117166985": {
+   "fragment_id": "117160243",
+   "type": 11,
+   "heading": "Artigo 10.º — Procedimento de equiparação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento de equiparação\n\n1 - O procedimento de equiparação inicia-se por meio de requerimento da concessionária, dirigido ao presidente da ANSR, em que esta requer a equiparação de um seu trabalhador a agente de autoridade administrativa para efeitos do n.º 1 do artigo 1.º e do artigo 2.º\n\n2 - O requerimento referido no número anterior é instruído com os seguintes documentos:\n\na) Parecer não vinculativo da Câmara Municipal concedente, emitido há menos de 90 dias;\n\nb) Declaração do trabalhador em que este manifeste a sua concordância à equiparação a agente de autoridade administrativa.\n\n3 - O parecer da Câmara Municipal referido na alínea a) do número anterior incide sobre a adequação do número de fiscais, existentes em cada momento, às necessidades do serviço de fiscalização, atento ao seguinte:\n\na) Número de lugares concessionados;\n\nb) Dias e horas em que o estacionamento é sujeito ao pagamento de taxa;\n\nc) Localização dos lugares de estacionamento;\n\nd) Índices de ocupação;\n\ne) Quaisquer outras circunstâncias relevantes.\n\n4 - O procedimento de equiparação termina com a emissão do cartão de identificação, nos termos do artigo 15.º, ou com a notificação à concessionária da decisão de não emissão do referido cartão."
+  },
+  "117166986": {
+   "fragment_id": "117160244",
+   "type": 11,
+   "heading": "Artigo 11.º — Decisão do presidente da Autoridade Nacional de Segurança Rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Decisão do presidente da Autoridade Nacional de Segurança Rodoviária\n\nCabe ao presidente da ANSR proferir a decisão que equipare o trabalhador a autoridade administrativa indicando a data até à qual a equiparação é válida, a qual deve ser fixada nos termos do n.º 1 do artigo 15.º"
+  },
+  "117166987": {
+   "fragment_id": "117160245",
+   "type": 11,
+   "heading": "Artigo 12.º — Caducidade da equiparação a entidade administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Caducidade da equiparação a entidade administrativa\n\nA equiparação a entidade administrativa caduca na data indicada pelo presidente da ANSR, nos termos estabelecidos no artigo anterior, se a empresa não proceder à sua renovação nos termos estabelecidos no n.º 1 do artigo 15.º"
+  },
+  "117166988": {
+   "fragment_id": "117160246",
+   "type": 11,
+   "heading": "Artigo 13.º — Processo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Processo individual\n\n1 - A ANSR organiza um processo por cada trabalhador que exerça funções de fiscalização ou relativamente ao qual a concessionária tenha apresentado o requerimento previsto no n.º 1 do artigo 9.º\n\n2 - Todos os documentos relativos ao trabalhador que se traduzem em atos e formalidades que integram o procedimento administrativo são arquivados pela ANSR."
+  },
+  "117166989": {
+   "fragment_id": "117160247",
+   "type": 11,
+   "heading": "Artigo 14.º — Identificação dos trabalhadores com funções de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Identificação dos trabalhadores com funções de fiscalização\n\n1 - Os trabalhadores no exercício de funções de fiscalização usam obrigatoriamente uniforme e cartão de identificação aposto visivelmente, do lado esquerdo do peito.\n\n2 - Os trabalhadores no exercício de funções só podem utilizar nas suas deslocações em serviço veículo caracterizado e aprovado, nos termos do artigo seguinte, devidamente identificado como estando ao serviço de funções de fiscalização."
+  },
+  "117166990": {
+   "fragment_id": "117160248",
+   "type": 11,
+   "heading": "Artigo 15.º — Modelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Modelos\n\n1 - As empresas privadas concessionárias de estacionamento sujeito ao pagamento de taxa em vias sob jurisdição municipal submetem à aprovação do membro do Governo responsável pela área da administração interna os modelos de cartão de identificação, de uniforme e dos veículos utilizados pelos trabalhadores com funções de fiscalização.\n\n2 - Os modelos aprovados devem ser publicitados nos sítios na Internet do município concedente, da empresa privada concessionária de estacionamento municipal respetiva e da ANSR, bem como, no que respeita ao modelo dos veículos utilizados, no sítio na Internet do Instituto da Mobilidade e dos Transportes, I.P.\n\n3 - Não é permitido alterar as especificações, os padrões e modelos dos artigos de uniforme, bem como introduzir quaisquer adaptações ou alterações aos acessórios, insígnias, emblemas ou outras peças que não estejam previstas no modelo homologado.\n\n4 - O estabelecido no número anterior é aplicável com as devidas adaptações aos modelos de cartão de identificação e dos veículos utilizados.\n\n5 - Os modelos de cartão de identificação e de uniforme referidos no n.º 1 devem respeitar características mínimas obrigatórias definidas por portaria do membro do Governo responsável pela área da administração interna e, no caso dos veículos, por portaria dos membros do Governo responsáveis pelas áreas da administração interna e dos transportes."
+  },
+  "117166991": {
+   "fragment_id": "117160249",
+   "type": 11,
+   "heading": "Artigo 16.º — Cartão de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cartão de identificação\n\n1 - O cartão de identificação tem a validade de cinco anos, sem prejuízo da sua renovação, a qual deve ser requerida até ao termo do penúltimo semestre da sua validade.\n\n2 - A substituição e a emissão da 2.ª via do cartão de identificação estão sujeitas ao pagamento de taxa a fixar por portaria do membro do Governo responsável pela área da administração interna.\n\n3 - O trabalhador entrega o respetivo cartão de identificação à concessionária logo que cesse a atividade de fiscalização.\n\n4 - O cartão de identificação é devolvido pela concessionária à ANSR no prazo estabelecido no n.º 2 do artigo 5.º e integra a comunicação referida no n.º 1 do artigo 5.º\n\n5 - A falta de devolução à ANSR do cartão de identificação impede a emissão de cartões a novos trabalhadores da concessionária faltosa."
+  },
+  "117166992": {
+   "fragment_id": "117160250",
+   "type": 11,
+   "heading": "Artigo 17.º — Utilização exclusiva do Sistema de Contraordenações de Trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Utilização exclusiva do Sistema de Contraordenações de Trânsito\n\nPara efeitos de processamento e aplicação das sanções, o auto de contraordenação é remetido à ANSR ou à câmara municipal com competência nos termos do n.º 7 do artigo 169.º do Código da Estrada exclusivamente através do Sistema de Contraordenações de Trânsito (SCoT)."
+  },
+  "117166993": {
+   "fragment_id": "117160251",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência da Autoridade Nacional de Segurança Rodoviária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência da Autoridade Nacional de Segurança Rodoviária\n\nA ANSR pode, a todo o tempo, notificar a concessionária e o respetivo trabalhador para comprovar, em prazo fixado entre 10 e 30 dias, a verificação de qualquer obrigação exigível à concessionária."
+  },
+  "117166994": {
+   "fragment_id": "117160252",
+   "type": 11,
+   "heading": "Artigo 19.º — Tratamento de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Tratamento de dados pessoais\n\n1 - As pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais constantes do presente decreto-lei, ficam obrigadas a sigilo profissional, mesmo após o termo das suas funções, de acordo com o disposto no artigo 17.º da Lei n.º 67/98, de 26 de outubro.\n\n2 - O disposto no presente decreto-lei não prejudica a aplicação do regime previsto na Lei n.º 67/98, de 26 de outubro, no que respeita à proteção de dados pessoais, incluindo o exercício dos direitos pelos titulares dos dados e o regime de acesso de terceiros, em tudo o que não seja legitimado pelo presente diploma.\n\n3 - As entidades intervenientes nos tratamentos de dados pessoais decorrentes do presente decreto-lei estão sujeitas ao cumprimento dos princípios e regras decorrentes da Lei de Proteção de Dados Pessoais."
+  },
+  "117166995": {
+   "fragment_id": "117160253",
+   "type": 11,
+   "heading": "Artigo 20.º — Alteração ao Decreto-Lei n.º 44/2005, de 23 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Alteração ao Decreto-Lei n.º 44/2005, de 23 de fevereiro\n\nO artigo 5.º do Decreto-Lei n.º 44/2005, de 23 de fevereiro, alterado pelo Decreto-Lei n.º 74-A/2005, de 24 de março, e pela Lei n.º 72/2013, de 3 de setembro, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...]\n\nd) Do pessoal com funções de fiscalização das empresas privadas concessionárias de estacionamento sujeito ao pagamento de taxa em vias sob jurisdição municipal e que, como tal, seja considerado ou equiparado a autoridade ou seu agente, com as limitações decorrentes da lei, dos respetivos estatutos, dos contratos de concessão e da delegação de competências e após emissão de cartão de identificação pela Autoridade Nacional de Segurança Rodoviária.\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].»"
+  },
+  "117166996": {
+   "fragment_id": "117160254",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 60 dias após a sua publicação."
+  },
+  "117166998": {
+   "fragment_id": "117160250",
+   "type": 11,
+   "heading": "Artigo 17.º — Utilização exclusiva do Sistema de Contraordenações de Trânsito",
+   "in_force_from": "2018-12-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 107/2018 - Diário da República n.º 230/2018, Série I de 2018-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2018-117142873), em vigor a partir de 2018-12-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Utilização exclusiva do Sistema de Contraordenações de Trânsito\n\nPara efeitos de processamento e aplicação das sanções, o auto de contraordenação é remetido à câmara municipal exclusivamente através do Sistema de Contraordenações de Trânsito (SCoT), salvo se aquela ainda não tiver aderido ao SCoT, caso em que o auto de contraordenação deverá ser remetido por via eletrónica com aposição de assinatura eletrónica qualificada.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 107/2018 - Diário da República n.º 230/2018, Série I de 2018-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2018-117142873), em vigor a partir de 2018-12-04, produz efeitos a partir de 2019-01-01"
+  },
+  "117166997": {
+   "fragment_id": "117160255",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de agosto de 2014. - Pedro Passos Coelho - Miguel Bento Martins Costa Macedo e Silva - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima.\n\nPromulgado em 2 de outubro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 6 de outubro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

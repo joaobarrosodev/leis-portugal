@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124417109:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2019-124486516",
+ "dre_path": "/dr/detalhe/lei/96-2019-124417109",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-09-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124487582",
+    "124487583",
+    "124487584",
+    "124487585",
+    "124487586"
+   ]
+  }
+ ],
+ "fragments": {
+  "124487582": {
+   "fragment_id": "124486517",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 96/2019\n\nde 4 de setembro\n\nSumário: Estabelece a gratuitidade dos manuais escolares na escolaridade obrigatória na rede pública do Ministério da Educação, procedendo à segunda alteração à Lei n.º 47/2006, de 28 de agosto, que define o regime de avaliação, certificação e adoção aplicável aos manuais escolares e outros recursos didático-pedagógicos do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares.\n\nEstabelece a gratuitidade dos manuais escolares na escolaridade obrigatória na rede pública do Ministério da Educação, procedendo à segunda alteração à Lei n.º 47/2006, de 28 de agosto, que define o regime de avaliação, certificação e adoção aplicável aos manuais escolares e outros recursos didático-pedagógicos do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "124487583": {
+   "fragment_id": "124486518",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à segunda alteração à Lei n.º 47/2006, de 28 de agosto, que define o regime de avaliação, certificação e adoção aplicável aos manuais escolares e outros recursos didático-pedagógicos do ensino básico e do ensino secundário, bem como os princípios e objetivos a que deve obedecer o apoio socioeducativo relativamente à aquisição e ao empréstimo de manuais escolares, garantindo a gratuitidade dos manuais escolares na escolaridade obrigatória na rede pública do Ministério da Educação."
+  },
+  "124487584": {
+   "fragment_id": "124486519",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 47/2006, de 28 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 47/2006, de 28 de agosto\n\nOs artigos 2.º, 5.º e 28.º da Lei n.º 47/2006, de 28 de agosto, alterada pela Lei n.º 72/2017, de 16 de agosto, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\na) Disponibilização gratuita dos manuais escolares a todos os alunos na escolaridade obrigatória na rede pública do Ministério da Educação;\n\nb) [Anterior alínea a).]\n\nc) [Anterior alínea b).]\n\nd) [Anterior alínea c).]\n\ne) [Anterior alínea d).]\n\nf) [Anterior alínea e).]\n\n2 - ...\n\na) Distribuição gratuita a todos os alunos na escolaridade obrigatória na rede pública do Ministério da Educação;\n\nb) [Anterior alínea a).]\n\nc) [Anterior alínea b).]\n\nd) [Anterior alínea c).]\n\ne) [Anterior alínea d).]\n\nf) (Revogada.)\n\ng) ...\n\nh) ...\n\nArtigo 5.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - O membro do Governo responsável pela área da educação define os procedimentos e condições de disponibilização gratuita, uso, devolução e reutilização dos manuais escolares, podendo os mesmos ser reutilizados na mesma escola ou em qualquer outra escola ou agrupamento que o tenha adotado, garantindo que:\n\na) Os alunos dos 1.º, 2.º e 3.º ciclos do ensino básico devolvem os manuais no final do ano letivo, excetuando-se os manuais das disciplinas sujeitas a prova final de ciclo, que ocorre no 9.º ano, devendo a devolução efetuar-se, neste caso, no momento da conclusão, com aproveitamento, do ano letivo;\n\nb) Os alunos do ensino secundário devolvem os manuais no final do ano letivo, à exceção dos manuais das disciplinas relativamente às quais pretendam realizar exame, permanecendo os mesmos na sua posse, nesse caso, até à conclusão, com aproveitamento, dessas disciplinas;\n\nc) Os alunos do ensino profissional devolvem os manuais no momento da conclusão, com aproveitamento, dos módulos correspondentes ao respetivo manual.\n\nArtigo 28.º\n\nApoios económicos para aquisição de outros recursos didático-pedagógicos\n\n1 - A ação social escolar concretiza-se por meio de diversas formas de intervenção, no sentido de apoiar as famílias, particularmente as mais carenciadas, no acesso a recursos didático-pedagógicos formalmente adotados.\n\n2 - As disposições relativas aos apoios socioeconómicos para aquisição de outros recursos didático-pedagógicos constam do diploma que regulamenta a ação social escolar.»"
+  },
+  "124487585": {
+   "fragment_id": "124486520",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogada a alínea f) do n.º 2 do artigo 2.º da Lei n.º 47/2006, de 28 de agosto."
+  },
+  "124487586": {
+   "fragment_id": "124486521",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor com o Orçamento do Estado subsequente à sua publicação."
+  }
+ }
+}

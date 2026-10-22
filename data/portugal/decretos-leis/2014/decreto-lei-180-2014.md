@@ -1,0 +1,444 @@
+---
+schema_version: '1.0'
+id: pt:dre:65983230:por
+title: Decreto-Lei n.º 180/2014
+short_title: null
+summary: Estabelece o regime jurídico de aprovação, atribuição de matrícula, alteração de características e inspeção de veículo
+  automóvel e de ciclomotores, motociclos, triciclos e quadriciclos participantes em competição desportiva, para efeitos de
+  circulação na via pública
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 180/2014
+official_date: null
+publication_date: '2014-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 248/2014, Série I de 2014-12-24
+  number: '248'
+  series: I
+  supplement: null
+  pages: 6239 - 6242
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/12/24800/0623906242.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-09-16'
+version_history:
+  file: decreto-lei-180-2014.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2014-12-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-09-16'
+    amending: pt:dre:140431103:por
+    amending_title: Decreto-Lei n.º 59/2020
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/180/2014/p/cons/20200817/pt/html
+  oj: null
+  dre: '65983230'
+  dre_path: /dr/detalhe/decreto-lei/180-2014-65983230
+  internal: pt:dre:65983230:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-2014-65983230
+  metadata_url: https://data.dre.pt/eli/dec-lei/180/2014/p/cons/20200817/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-140537775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-140537775
+  retrieved_at: '2026-10-22T12:34:19Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4a783f49dbd14f66e871bdded6ba41e3ca1fd064f6151793e3b539cbc28dcb93
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:34:19Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-180-2014.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Multa
+- Contra-ordenação
+- Definição de Competências
+- Fiscalização
+- Inspecção de Veículos
+- Instituto da Mobilidade e dos Transportes
+- Veículo
+- Documentos do Veículo
+- Autoridade Nacional de Segurança Rodoviária
+- Normas de Segurança
+- Organização Desportiva
+- Equipamento de Veículo
+- Desporto
+- Matrícula
+relationships:
+- type: amended_by
+  target: pt:dre:140431103:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 14.º;
+    Altera Artigo 17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2020-140431103
+  date: '2020-08-17'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/106/2006/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/106/2006/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/112/2009/05/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/112/2009/05/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/1994/05/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/148/2013/10/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/148/2013/10/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/2010/03/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/2010/03/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/54/2005/03/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/54/2005/03/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/59/2011/05/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/59/2011/05/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/11/2011/0
+  label: null
+  source: http://data.dre.pt/eli/lei/11/2011/0
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/46/2010/09/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/46/2010/09/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/72/2013/09/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/72/2013/09/03/p/dre
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:34:19Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 180/2014
+
+Decreto-Lei n.º 180/2014
+
+de 24 de dezembro
+
+O Código da Estrada, aprovado pelo Decreto-Lei n.º 114/94, de 3 de maio, com a última redação que lhe foi conferida pela Lei n.º 72/2013, de 3 de setembro, só permite a circulação de automóveis, ciclomotores, motociclos, triciclos e quadriciclos desde que os mesmos estejam matriculados e disponham dos sistemas, componentes ou acessórios aprovados.
+
+Os automóveis, motociclos, ciclomotores, triciclos e quadriciclos participantes em competição desportiva, ao serem objeto de alterações, necessárias para aquele tipo de competição, podem deixar de estar conformes com o disposto no Regulamento que estabelece o Quadro para a Homologação CE de Modelo de Automóveis e Reboques, seus Sistemas, Componentes e Unidades Técnicas, aprovado pelo Decreto-Lei n.º 16/2010, de 12 de março, alterado pelos Decretos-Leis n.os 59/2011, de 5 de maio, e 148/2013, de 24 de outubro, o que implica que deixam de poder ser matriculáveis ao abrigo do Código da Estrada e, consequentemente, de poder circular na via pública.
+
+A fim de poderem circular na via pública, em condições especiais, é criado, pelo presente decreto-lei, um regime excecional de aprovação, atribuição de matrícula, alteração de características e inspeção dos veículos participantes em competição desportiva.
+
+Assim, um veículo concebido ou alterado com vista a participar em competição desportiva, que pretenda circular na via pública por ocasião da referida participação em competição desportiva, deve ter as respetivas características técnicas aprovadas pela entidade desportiva nacional e solicitar a emissão de uma matrícula própria.
+
+No que respeita à inspeção periódica do veículo, os aspetos a controlar, bem como os critérios de aprovação e reprovação são estabelecidos pela entidade desportiva nacional, mediante aprovação prévia do Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.).
+
+Mostrando-se estes requisitos cumpridos, o veículo participante em competição desportiva poderá circular na via pública no período compreendido entre as 48 horas antes do início da competição desportiva em que vai participar e as 48 horas após o final da mesma e, excecionalmente, quando se desloque a centros de inspeção, nos termos e condições definidos no presente decreto-lei.
+
+As federações desportivas com responsabilidade na área do automobilismo e na área do motociclismo em Portugal, pela relevância que assumem perante o Estado em virtude da atribuição do estatuto de utilidade pública desportiva, desempenham um papel central em todo este processo enquanto entidades desportivas nacionais.
+
+Foi promovida a audição à Federação Portuguesa de Automobilismo e Karting e à Federação de Motociclismo de Portugal.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece o regime jurídico de aprovação, atribuição de matrícula, alteração de características e inspeção de automóveis, ciclomotores, motociclos, triciclos e quadriciclos participantes em competição desportiva, para efeitos de circulação na via pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2020-140431103), em vigor a partir de 2020-09-16
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O presente decreto-lei aplica-se, exclusivamente, ao veículo concebido ou alterado com vista a participar em competição desportiva.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) «Boletim de inscrição», o documento emitido pela entidade desportiva nacional que comprova a participação na competição desportiva, com indicação da respetiva data e do local, cujo modelo é comunicado ao Instituto da Mobilidade e dos Transportes, I.P. (IMT, I.P.), para divulgação junto das entidades competentes;
+
+b) «Certificado de aprovação», o documento emitido pela entidade desportiva nacional que atesta a aprovação das características do veículo participante em competição desportiva;
+
+c) «Entidade desportiva nacional», as federações desportivas titulares do estatuto de utilidade pública desportiva, com responsabilidade na área do automobilismo e na área do motociclismo em Portugal;
+
+d) «Final da competição desportiva», a abertura do parque fechado após publicação de resultados oficiais;
+
+e) «Início da competição desportiva», o início das verificações administrativas;
+
+f) «Licença desportiva», o documento emitido pela entidade desportiva nacional ao piloto, copiloto ou mecânicos, devidamente identificados no passaporte técnico, que permite a participação em competição desportiva, cujo modelo é comunicado ao IMT, I.P., para divulgação junto das entidades competentes;
+
+g) «Passaporte técnico», o documento emitido pela entidade desportiva nacional que contém a identificação do veículo, piloto, copiloto, mecânicos e proprietário, bem como as características e verificações técnicas e os dados relevantes do veículo para participação em competição desportiva, cujo modelo é comunicado ao IMT, I.P., para divulgação junto das entidades competentes;
+
+h) «Veículo histórico», o veículo concebido ou alterado com vista a participar em competição desportiva que tenha mais de 30 anos a contar da data do fabrico ou da primeira matrícula e se encontre em condições de circulação e manutenção adequadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2020-140431103), em vigor a partir de 2020-09-16
+
+###### Artigo 4.º — Características técnicas do veículo participante em competição desportiva
+
+1 - O veículo participante em competição desportiva, bem como os seus componentes, devem cumprir o disposto no regulamento técnico da entidade desportiva nacional, o qual contém disposições específicas sobre segurança, modificações e construções obrigatórias e ou autorizadas.
+
+2 - Não é permitido o uso de Gás Liquefeito de Petróleo (GPL), de Gás Natural Comprimido (GNC) ou de Gás Natural Liquefeito (GNL) em veículo participante em competição desportiva.
+
+3 - São autorizadas as transformações dos veículos históricos para adaptação à competição desportiva estabelecidas em deliberação do IMT, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2020-140431103), em vigor a partir de 2020-09-16
+
+###### Artigo 5.º — Certificado de aprovação
+
+1 - A atribuição de certificado de aprovação de veículo participante em competição desportiva é efetuada pela entidade desportiva nacional respetiva, de modo a comprovar que o veículo participante em competição desportiva obedece à regulamentação daquela entidade e pode circular em segurança na via pública.
+
+2 - O modelo de certificado de aprovação referido no número anterior é definido pela entidade desportiva nacional e aprovado pelo IMT, I.P..
+
+3 - A entidade desportiva nacional efetua prévia inspeção técnica de todos os veículos que sejam objeto de aprovação no âmbito do presente decreto-lei.
+
+###### Artigo 6.º — Atribuição de matrícula
+
+1 - Só pode ser atribuída matrícula ao veículo participante em competição desportiva que seja objeto da aprovação prevista no artigo anterior.
+
+2 - A atribuição de matrícula tem carácter individual, sendo válida apenas para um veículo.
+
+3 - Para efeitos de atribuição de matrícula, a propriedade do veículo é comprovada através do respetivo passaporte técnico.
+
+###### Artigo 7.º — Requerimento de matrícula
+
+1 - A matrícula do veículo participante em competição desportiva é requerida ao IMT, I.P., devendo observar o disposto no Código da Estrada para a atribuição de matrícula aos veículos em geral, com as especificidades constantes dos números seguintes.
+
+2 - Os pedidos de atribuição de matrícula contêm os seguintes elementos:
+
+a) Identificação do requerente;
+
+b) Número do quadro do veículo;
+
+c) Certificado de aprovação;
+
+d) Passaporte técnico atualizado;
+
+e) Documento comprovativo do pagamento, de garantia ou de isenção de pagamento do imposto devido.
+
+3 - Tratando-se de veículo anteriormente matriculado, deve ser apresentado o respetivo documento de identificação.
+
+4 - O IMT, I.P., pode solicitar a apresentação de outros elementos relativos ao veículo, quando tal se mostre necessário para efeitos de atribuição de matrícula.
+
+###### Artigo 8.º — Número, modelo e chapa de matrícula
+
+1 - O número e o modelo da matrícula, bem como a colocação da respetiva chapa no veículo participante em competição desportiva observam o disposto no Regulamento do Número e Chapa de Matrícula dos Automóveis, seus Reboques, Motociclos, Ciclomotores, Triciclos, Quadriciclos, Máquinas Industriais e Máquinas Industriais Rebocáveis, aprovado em anexo ao Decreto-Lei n.º 54/2005, de 3 de março, na sua redação atual, com as especificidades constantes dos números seguintes.
+
+2 - A chapa de matrícula a utilizar deve apresentar fundo de cor vermelha, cujas coordenadas colorimétricas são estabelecidas por deliberação do IMT, I.P..
+
+3 - As chapas de matrícula dos veículos históricos são do modelo em vigor para a generalidade dos veículos a motor, podendo ser do modelo em uso em Portugal à data de fabrico ou da primeira matrícula do veículo.
+
+4 - O IMT, I.P., pode autorizar soluções específicas relativas à dimensão e colocação das chapas de matrícula, adaptadas às características particulares do veículo participante em competição desportiva.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2020-140431103), em vigor a partir de 2020-09-16
+
+###### Artigo 9.º — Modelo do certificado de matrícula
+
+Para cada veículo matriculado é emitido um certificado de matrícula, do modelo em uso para os veículos em geral.
+
+###### Artigo 10.º — Averbamento no certificado de matrícula
+
+1 - A classificação de um veículo como sendo participante em competição desportiva é averbada em anotações especiais do certificado de matrícula, através da inscrição «veículo participante em competição desportiva» ou, quando se trate de veículo histórico, «veículo histórico participante em competição desportiva».
+
+2 - A inscrição referida no número anterior pode ser sintetizada ou substituída por um código identificativo aprovado pelo IMT, I.P..
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2020-140431103), em vigor a partir de 2020-09-16
+
+###### Artigo 11.º — Cancelamento da matrícula
+
+O cancelamento da matrícula de veículo participante em competição desportiva observa o disposto nos artigos 119.º e 119.º-A do Código da Estrada.
+
+###### Artigo 12.º — Competência para a inspeção periódica
+
+1 - Sem prejuízo da competência própria do IMT, I.P., compete à entidade desportiva nacional a realização da inspeção periódica.
+
+2 - Para a realização de inspeções a veículos participantes em competição desportiva, podem ser utilizados, mediante autorização do IMT, I.P., centros de inspeção de entidades autorizadas nos termos da Lei n.º 11/2011, de 26 de abril, alterada pelo Decreto-Lei n.º 26/2013, de 19 de fevereiro.
+
+3 - A entidade desportiva nacional envia, mensalmente, ao IMT, I.P., por via eletrónica, a informação relativa às inspeções realizadas.
+
+###### Artigo 13.º — Sujeição a inspeção periódica
+
+1 - O veículo matriculado deve apresentar-se à inspeção periódica, anualmente, até ao dia e mês correspondentes ao da matrícula atribuída pelo IMT, I.P..
+
+2 - A inspeção periódica pode ser realizada durante os três meses que antecedem a data prevista no número anterior.
+
+3 - Os aspetos a controlar, bem como os critérios de aprovação e reprovação no âmbito da inspeção periódica de veículo são estabelecidos pela entidade desportiva nacional, mediante aprovação prévia do IMT, I.P..
+
+###### Artigo 14.º — Comprovação de inspeção periódica
+
+1 - A entidade desportiva nacional emite, em cada inspeção periódica, um certificado que é entregue ao apresentante do veículo a inspeção.
+
+2 - O modelo de certificado de inspeção é aprovado pelo IMT, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2020-140431103), em vigor a partir de 2020-09-16
+
+###### Artigo 15.º — Aprovação de alteração de características do veículo
+
+1 - A alteração de características de veículo participante em competição desportiva que implique alteração do certificado de matrícula é aprovada pelo IMT, I.P..
+
+2 - A alteração de características de veículo participante em competição desportiva que implique alteração do passaporte técnico é comunicada ao IMT, I.P..
+
+3 - Salvo nos casos previamente autorizados pelo IMT, I.P., resultantes de mau estado, acidente ou viciação, é proibida a alteração do número do quadro do veículo.
+
+4 - É também proibida a substituição do quadro em veículos com estrutura monobloco.
+
+###### Artigo 16.º — Pedido de aprovação de alteração de características do veículo
+
+1 - O pedido de aprovação de alteração de características é acompanhado dos seguintes elementos:
+
+a) Certificado de aprovação;
+
+b) Passaporte técnico atualizado;
+
+c) Documento comprovativo do pagamento, de garantia ou de isenção de pagamento do imposto devido.
+
+2 - Para efeitos de emissão do certificado de aprovação referido na alínea a) do número anterior, o veículo deve ser submetido a prévia inspeção técnica, realizada pela entidade desportiva nacional.
+
+###### Artigo 17.º — Condições de circulação na via pública
+
+1 - Para efeitos de deslocações realizadas no âmbito de uma competição desportiva, o veículo que nela participe pode circular na via pública no período compreendido entre as 48 horas antes do início da competição desportiva em que vai participar e as 48 horas após o final da mesma.
+
+2 - O veículo participante em competição desportiva pode, excecionalmente, circular na via pública quando se desloque a centro de inspeção, mediante apresentação de documento que comprove a prévia marcação da inspeção periódica.
+
+3 - Quando circule na via pública, o veículo participante em competição desportiva deve ser acompanhado dos seguintes documentos:
+
+a) Boletim de inscrição válido em competição desportiva, no caso previsto no n.º 1;
+
+b) Certificado comprovativo da celebração do seguro de responsabilidade civil automóvel;
+
+c) Certificado de aprovação;
+
+d) Certificado de matrícula;
+
+e) Documento de identificação do condutor;
+
+f) Licença desportiva;
+
+g) Passaporte técnico atualizado;
+
+h) Certificado de inspeção;
+
+i) Título de condução do condutor.
+
+4 - O veículo só pode ser conduzido pelo piloto, copiloto ou mecânicos, que estejam devidamente identificados no passaporte técnico.
+
+5 - O veículo apenas pode transportar passageiros que estejam devidamente identificados no passaporte técnico.
+
+6 - Não se aplica à circulação dos veículos históricos o disposto nos n.os 1 e 2, nas alíneas a), c) e f) do n.º 3 e nos n.os 4 e 5.
+
+7 - Ao circular na via pública, o veículo e o respetivo condutor devem observar as disposições do Código da Estrada e demais legislação complementar.
+
+8 - Quando circule na via pública, o veículo deve ter montados pneus com as características indicadas no respetivo passaporte técnico, não podendo, em caso algum, esses pneus conter dispositivos metálicos que visem aumentar a aderência.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2020-140431103), em vigor a partir de 2020-09-16
+
+###### Artigo 18.º — Regime contraordenacional e apreensão de veículo
+
+1 - Constitui contraordenação, para efeitos do presente decreto-lei, a prática das seguintes condutas:
+
+a) Circulação na via pública de veículo cujas características não confiram com as mencionadas no certificado de aprovação previsto no artigo 5.º, a qual é punível com coima entre (euro) 250 e (euro) 1250;
+
+b) Circulação na via pública sem chapa de matrícula ou com chapa cujas características não obedeçam ao disposto no artigo 8.º, a qual é punível com coima entre (euro) 120 e (euro) 600;
+
+c) Circulação na via pública em violação do disposto nos n.os 1 e 2 do artigo anterior, a qual é punível com coima entre (euro) 120 e (euro) 600;
+
+d) Circulação na via pública sem um dos documentos referidos no n.º 3 do artigo anterior, com exceção dos referidos nas alíneas a), c) e f) do mesmo número para os veículos históricos, a qual é punível com coima entre (euro) 60 e (euro) 300, salvo se os documentos forem apresentados no prazo de oito dias à autoridade indicada pelo agente de fiscalização, caso em que é punível com coima entre (euro) 30 e (euro) 150;
+
+e) Violação do disposto no n.º 4 do artigo anterior, a qual é punível com coima entre (euro) 250 e (euro) 1250, devendo o veículo ficar imobilizado até que a situação seja regularizada;
+
+f) Violação do disposto no n.º 5 do artigo anterior, a qual é punível com coima entre (euro) 60 e (euro) 300, aplicável por cada pessoa transportada indevidamente, devendo o veículo ficar imobilizado até que a situação seja regularizada;
+
+g) Circulação na via pública em violação do disposto no n.º 8 do artigo anterior, a qual é punível com coima entre (euro) 120 e (euro) 600, devendo o veículo ficar imobilizado até que a situação seja regularizada.
+
+2 - A responsabilidade pela prática das condutas descritas nas alíneas a), b) e g) recai sobre o proprietário do veículo e a responsabilidade pela prática das condutas descritas nas alíneas c), d), e) e f) recai sobre o condutor do veículo.
+
+3 - A negligência é sempre sancionada, sendo os limites mínimos e máximos da coima reduzidos para metade.
+
+4 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
+
+5 - No caso referido nas alíneas a), b) e c) do n.º 1, além da aplicação da coima, deve o agente de fiscalização proceder à imediata apreensão do veículo, nos termos dos artigos 161.º e 162.º do Código da Estrada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2020-140431103), em vigor a partir de 2020-09-16
+
+###### Artigo 19.º — Instrução e aplicação de coimas
+
+A instrução dos processos e a aplicação das coimas previstas no presente decreto-lei são da competência da Autoridade Nacional de Segurança Rodoviária.
+
+###### Artigo 20.º — Destino do produto das coimas
+
+O produto das coimas reverte em:
+
+a) 60 % para o Estado;
+
+b) 15 % para a Autoridade Nacional de Segurança Rodoviária;
+
+c) 15% para a entidade que levanta o auto;
+
+d) 10 % para a entidade desportiva nacional respetiva.
+
+###### Artigo 21.º — Disposições finais
+
+1 - Os procedimentos de requerimento e atribuição de matrícula, bem como os pedidos de aprovação de alteração de características do veículo são tramitados preferencialmente por via eletrónica através do Balcão do Empreendedor.
+
+2 - Quando seja adotada a forma de tramitação por via eletrónica referida no número anterior, o passaporte técnico previsto na alínea g) do artigo 3.º, o certificado de aprovação previsto no artigo 5.º e o relatório de inspeção periódica previsto no artigo 14.º são disponibilizados em formato eletrónico no Balcão do Empreendedor, podendo ser consultados pelas entidades públicas responsáveis pela fiscalização do regime estabelecido no presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 5 de novembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Miguel Bento Martins Costa Macedo e Silva - Luís Maria de Barros Serra Marques Guedes - António de Magalhães Pires de Lima.
+
+Promulgado em 18 de dezembro de 2014.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 19 de dezembro de 2014.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

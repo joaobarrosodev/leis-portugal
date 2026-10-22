@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:274247:por
+title: Portaria n.º 488/93
+short_title: null
+summary: Estabelece os montantes das remunerações dos trabalhadores das administrações e juntas autónomas dos portos para
+  1993
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Mar
+proposing_entity: null
+official_number: 488/93
+official_date: null
+publication_date: '1993-05-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/1993, Série I-B de 1993-05-07
+  number: '106'
+  series: I
+  supplement: null
+  pages: 2407 - 2408
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/05/106b00/24072408.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/488/1993/05/07/p/dre/pt/html
+  oj: null
+  dre: '274247'
+  dre_path: /dr/detalhe/portaria/488-1993-274247
+  internal: pt:dre:274247:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/488-1993-274247
+  metadata_url: https://data.dre.pt/eli/port/488/1993/05/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/488-1993-274247
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-04-15T00:00:00Z'
+integrity:
+  source_sha256: dd1fb7062341274fcba157ebc005e16a7543a6b794b479d5c263ef48b4b235c3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-488-274247.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Diuturnidades
+- Administração de Portos
+- Junta Autónoma dos Portos
+- Remuneração Acessória
+- Prémio de Rendibilidade
+- Remuneração
+- Subsídio de Turno
+- Trabalhador Portuário
+relationships:
+- type: amended_by
+  target: pt:dre:266076:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/499/1992/06/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/499/1992/06/17/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 488/93
+
+de 7 de Maio
+
+Nos termos do n.º 3 do artigo 57.º, dos artigos 61.º e 62.º e do n.º 3 do artigo 64.º do Estatuto do Pessoal das Administrações e Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 101/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-1988-286360), de 26 de Março, com a redacção do [Decreto-Lei n.º 316/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1991-618109), de 20 de Agosto:
+
+Manda o Governo, pelo Ministro do Mar, o seguinte:
+
+1.º Os montantes da tabela de remunerações base e diuturnidades, bem como o valor do prémio de rendibilidade dos trabalhadores das administrações e juntas autónomas dos portos, estabelecidos pela [Portaria n.º 499/92](https://diariodarepublica.pt/dr/detalhe/portaria/499-1992-301405), de 17 de Junho, são actualizados em 4,8%.
+
+2.º Os montantes de subsídio de turno e isenção de horário de trabalho, resultantes da aplicação do n.º 2.º da [Portaria n.º 499/92](https://diariodarepublica.pt/dr/detalhe/portaria/499-1992-301405), de 17 de Julho, são actualizados em 4,8%.
+
+3.º Os valores da remuneração horária correspondentes a cada uma das categorias profissionais, calculados nos termos do n.º 29.º da [Portaria n.º 493/88](https://diariodarepublica.pt/dr/detalhe/portaria/493-1988-378489), de 27 de Julho, e vigentes à data de entrada em vigor da presente portaria, são actualizados em 4,8%.
+
+4.º Os valores constantes da nova tabela salarial resultarão da conjugação da actualização prevista no n.º 1.º com o regime percentual do prémio de rendibilidade fixado pelo presente diploma, com arredondamento para a centena de escudos imediatamente superior.
+
+5.º A tabela de remunerações dos cargos de direcção e chefia das administrações e juntas autónomas dos portos, aprovada pela [Portaria n.º 499/92](https://diariodarepublica.pt/dr/detalhe/portaria/499-1992-301405), de 17 de Junho, é actualizada em 5%, com arredondamento para a centena de escudos imediatamente superior, e, nos termos do n.º 6.º daquela portaria, não inclui o subsídio de isenção de horário de trabalho.
+
+6.º Os n.os 3.º e 24.º da [Portaria n.º 493/88](https://diariodarepublica.pt/dr/detalhe/portaria/493-1988-378489), de 27 de Julho, passam a ter a seguinte redacção:
+
+3.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+a) 20%, quando o regime de turnos for permanente;
+
+b) 15%, quando o regime de turnos for parcial.
+
+3 - Os trabalhadores com 20 ou mais anos de serviço, relevantes para o efeito de pensão unificada, dos quais pelo menos quatro prestados em regime de turno, ou, independentemente do número de anos de serviço, tendo 10 ou mais anos em regime de turno e que, por iniciativa das administrações ou juntas autónomas, venham a ser retirados daquele regime de trabalho, poderão manter, mediante requerimento a formular no prazo de 30 dias, os respectivos descontos para a Caixa Geral de Aposentações e Montepio dos Servidores do Estado.
+
+4 - Para aplicação do regime previsto no número anterior, e exclusivamente para efeitos de aposentação, serão considerados os valores de subsídio de turno que o trabalhador auferiria se se mantivesse nesse regime.
+
+5 - As administrações e juntas autónomas dos portos assumirão, por período não superior a quatro anos, o encargo correspondente aos descontos previstos no n.º 3.
+
+6 - O regime previsto no n.º 3 não é aplicável quando o trabalhador retirado do regime de turnos venha a ser integrado em regime de trabalho que implique o abono de qualquer outra remuneração acessória ou venha a ser nomeado para o exercício de qualquer cargo de direcção ou chefia.
+
+24.º
+
+[...]
+
+1 - O valor efectivo mensal do prémio de rendibilidade será determinado pela aplicação ao valor máximo atribuível, calculado de acordo com o n.º 23.º, n.º 1, de uma percentagem que dependerá do número de faltas ou ausências do trabalhador das administrações dos portos no mês imediatamente anterior, nos seguintes termos:
+
+Até 3 faltas ou ausências - 100%;
+
+De 4 a 7 - 75%;
+
+De 8 a 12 - 50%;
+
+De 13 a 15 - 25%;
+
+Mais de 15 - 0%.
+
+2 - ...
+
+7.º O n.º 1 do n.º 23.º da [Portaria n.º 493/88](https://diariodarepublica.pt/dr/detalhe/portaria/493-1988-378489), de 27 de Julho, alterado pelo n.º 3.º da [Portaria n.º 499/92](https://diariodarepublica.pt/dr/detalhe/portaria/499-1992-301405), de 17 de Junho, passa a ter a seguinte redacção:
+
+23.º
+
+[...]
+
+1 - O valor máximo do prémio de rendibilidade será igual a 15% da remuneração base, com as respectivas diuturnidades, a que o trabalhador das administrações dos portos terá direito em cada mês, tendo em conta o disposto nos n.os 20.º, n.os 2, 3 e 4, e 21.º
+
+8.º A presente portaria entra em vigor nos termos da lei, produzindo efeitos a partir de 1 de Janeiro de 1993 as disposições constantes dos n.os 1.º, 2.º, 3.º, 4.º, 5.º e 7.º
+
+9.º O acréscimo da massa salarial global, resultante das actualizações salariais previstas na presente portaria, não ultrapassará os 6%.
+
+Ministério do Mar.
+
+**Assinada em 1 de Abril de 1993.**
+
+**O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.**

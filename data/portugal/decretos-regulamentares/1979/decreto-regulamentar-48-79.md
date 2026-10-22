@@ -1,0 +1,411 @@
+---
+schema_version: '1.0'
+id: pt:dre:378677:por
+title: Decreto Regulamentar n.º 48/79
+short_title: null
+summary: Introduz alterações ao Regulamento de Tarifas da Administração-Geral do Porto de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Secretaria de Estado da Marinha Mercante
+proposing_entity: null
+official_number: 48/79
+official_date: null
+publication_date: '1979-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 196/1979, Série I de 1979-08-25
+  number: '196'
+  series: I
+  supplement: null
+  pages: 2090 - 2093
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/08/19600/20902093.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '378677'
+  dre_path: /dr/detalhe/decreto-regulamentar/48-1979-378677
+  internal: pt:dre:378677:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1979-378677
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1979-378677
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-08-25T00:00:00Z'
+integrity:
+  source_sha256: d8ca6755341ba1db1ec4a0e0166a89a9d92edd4865c2b1d1a109b125e1cdfb4a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-48-378677.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 48/79
+
+de 25 de Agosto
+
+Os crescentes encargos a que a Administração-Geral do Porto de Lisboa tem de fazer face, com destaque para os que resultam dos elevados investimentos em diversos melhoramentos em curso, impõem que se introduzam algumas alterações no seu Regulamento de Tarifas para actualização de um certo número de taxas portuárias, aproveitando-se a oportunidade para proceder a ajustamentos tomados imprescindíveis, designadamente por motivo da recente alteração do horário de trabalho no porto.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º — (Alteração à redacção do Regulamento de Tarifas)
+
+As disposições adiante indicadas do Regulamento de Tarifas do Porto de Lisboa, aprovado pelo [Decreto n.º 24831](https://diariodarepublica.pt/dr/detalhe/decreto/24831-1934-435978), de 31 de Dezembro de 1934, e subsequentes alterações passam a ter a redacção seguinte:
+
+###### Art. 6.º Salvo nos casos especialmente previstos neste Regulamento, quando se trate de serviços que de qualquer modo envolvam mão-de-obra, as taxas fixadas são aumentadas de:
+
+a) Após o período normal de trabalho e até à hora da refeição - 50%;
+
+b) Nas restantes horas após o período normal de trabalho dos dias úteis, na hora da refeição, aos sábados, domingos e dias feriados - 100%.
+
+...
+
+###### Art. 26.º A taxa de estacionamento, por tonelagem de arqueação bruta, constante do certificado de registo do navio é a seguinte:
+
+a) Navios de carga, de carreira não regular:
+
+Pelo primeiro período de vinte e quatro horas ... 6$00
+
+Por iguais períodos sucessivos ... $40
+
+b) Navios de carga, de carreira regular:
+
+Pelo primeiro período de vinte e quatro horas ... 3$00
+
+Por iguais períodos sucessivos ... $20
+
+c) Navios de passageiros, de carreira não regular:
+
+Pelo primeiro período de vinte e quatro horas ... 1$80
+
+Por iguais períodos sucessivos ... 1$00
+
+Navios de passageiros, de carreira regular:
+
+Pelo primeiro período de vinte e quatro horas ... 1$50
+
+Por iguais períodos sucessivos ... $80
+
+e) Navios exclusivamente excursionistas ou turistas:
+
+Pelo primeiro período de vinte e quatro horas ... 1$80
+
+Por iguais períodos sucessivos ... $15
+
+§ único. ...
+
+###### Art. 27.º São feitas as seguintes excepções ao artigo 26.º:
+
+a) ...
+
+b) ...
+
+c) Os navios que entrem no porto de Lisboa exclusivamente para sofrer reparação, fazer limpeza, desgasificar ou terminar a sua construção, receber ordens ou mudar de tripulação pagam 30% das taxas fixadas nas alíneas a), b), c) e d) do artigo 26.º
+
+###### Art. 28.º São isentos da taxa de estacionamento no porto:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+k) ...
+
+l) ...
+
+m) Os navios que entrem no porto exclusivamente para meter mantimentos, combustível ou aguada.
+
+...
+
+###### Art. 30.º A taxa de acostagem de navios, a aplicar por metro e por período de vinte e quatro horas indivisível, é a seguinte:
+
+Navios de carreira regular:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19600/20902093.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19600/20902093.pdf)
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+§ 4.º ...
+
+...
+
+###### Art. 35.º São isentos das taxas de acostagem:
+
+a) ...
+
+b) ...
+
+c) Os navios do Estado;
+
+d) ...
+
+e) ...
+
+...
+
+###### Art. 48.º A taxa de porto, aplicada de acordo com o grupo e a classe de mercadorias, é, por tonelada:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1979/08/19600/20902093.pdf))](https://files.diariodarepublica.pt/1s/1979/08/19600/20902093.pdf)
+
+§ 1.º A taxa de porto será aplicada por fracções mínimas de quintal métrico, sendo o mínimo a cobrar o correspondente a 1 t.
+
+§ 2.º ...
+
+§ 3.º A taxa de porto a incidir sobre mercadorias constantes da alínea a) do § 1.º do artigo 69.º e pertencentes ao grupo II é reduzida para 11$00 em todas as classes.
+
+§ 4.º A taxa de porto a incidir sobre a areia pare construção e escórias movimentadas nos cais livres, pontes ou desembarcadouros da AGPL, em regime de tráfego fluvial, é de 3$00 por tonelada.
+
+...
+
+###### Art. 54.º A taxa de armazenagem de mercadoria estacionada nos terraplenos livres, com excepção de contentores, é, por metro quadrado:
+
+Nos terraplenos adjacentes a cais acostável:
+
+Pelo primeiro período de oito dias ... 3$00
+
+Nono dia e seguintes, por dia ... 2$00
+
+Nos outros terraplenos:
+
+Por período indivisível de oito dias ... 3$00
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+§ 4.º ...
+
+###### Art. 55.º Toda a mercadoria classificada como carga geral que se ache armazenada a coberto nos entrepostos paga as seguintes taxas de armazenagem, por quintal métrico ou 100 dm3:
+
+Até oito dias ... 1$00
+
+Até quinze dias ... 2$00
+
+A armazenagem, além destes prazos, está sujeita ao pagamento da taxa, em escudos, por quintal métrico ou 100 dm3, definida pela seguinte expressão algébrica:
+
+K.m (m + 13)
+
+em que m representa o número completo ou incompleto dos meses de armazenagem e K um coeficiente com o valor de 1,00.
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+...
+
+###### Art. 72.º A taxa devida por exame, modificação, extracção de amostras, selagem, marcação e outros serviços acessórios requisitados para mercadoria entrepositada é de 50$00 por quarto de hora indivisível.
+
+§ único. ...
+
+...
+
+###### Art. 75.º A taxa devida por aluguer de encerados para cobertura de mercadoria é de 50$00 por encerado e por dia completo ou incompleto.
+
+###### Art. 76.º A taxa devida por estacionamento nos terraplenos livres de barracas desmontáveis ou amovíveis, quando a área ocupada for igual ou inferior a 8 m2, é de 100$00 por mês.
+
+§ único ...
+
+...
+
+###### Art. 98.º Fora do período normal de trabalho, as taxas ficam sujeitas aos seguintes agravamentos por hora:
+
+a) Após o período normal de trabalho e até à hora da refeição ... 220$00
+
+b) Nas restantes horas após o período normal de trabalho dos dias úteis, na hora da refeição e aos sábados, domingos e dias feriados ... 340$00
+
+§ único. ...
+
+###### Art. 99.º O primeiro período de aluguer dos guindastes de via é de uma hora indivisível, excepto sábados, domingos e feriados, em que é de três horas; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+...
+
+###### Art. 102.º O primeiro período de aluguer dos aparelhos de guindar flutuantes é de uma hora indivisível, excepto aos sábados, domingos e feriados, em que é de três horas; em serviços continuados mantém-se a facturação horária, com excepção do último período, em que pode aplicar-se a taxa de meia hora, igual a 50% da taxa correspondente a uma hora.
+
+###### Art. 103.º Fora do período normal de trabalho, as taxas estão sujeitas aos seguintes agravamentos por hora:
+
+a) Após o período normal de trabalho e até à hora da refeição ... 750$00
+
+b) Nas restantes horas após o período normal de trabalho dos dias úteis, na hora da refeição e aos sábados, domingos e dias feriados ... 1250$00
+
+...
+
+###### Art. 105.º Quando o aparelho ou aparelhos tenham sido requisitados e, por motivos estranhos à AGPL, se verifique desistência do serviço ou alteração para mais tarde da hora para ele marcada sem que, num ou noutro caso, seja feito o respectivo aviso com a antecedência mínima de duas horas em relação àquela hora, será devida pelo requisitante uma importância, calculada segundo o artigo 101.º, correspondente às seguintes horas de utilização:
+
+Duas horas, no caso de operação prevista para o período normal de trabalho;
+
+Quatro horas, no caso de operação a realizar fora do período normal de trabalho, de segunda-feira a sexta-feira.
+
+§ 1.º Aos sábados, domingos e feriados, se se verificar desistência do serviço sem prévio aviso até duas horas antes do fim do período normal do dia útil anterior, cobrar-se-á do requisitante uma importância, calculada segundo o artigo 101.º, correspondente a sete horas de utilização do aparelho ou aparelhos destinados à execução do serviço; havendo alteração para mais cedo da hora inicialmente marcada para o serviço, não fica a AGPL obrigada a executá-lo e, se a alteração for para mais tarde, a importância devida pelo requisitante, determinada nos termos do artigo 101.º, corresponderá ao tempo decorrido desde a hora inicialmente marcada para o serviço e até à sua efectiva conclusão.
+
+§ 2.º Para efeito da aplicação deste artigo considera-se desistência de serviço a sua não realização no dia para que foi marcado e considera-se alteração de hora aquela que se verifique no próprio dia.
+
+...
+
+###### Art. 117.º Fora do período normal de trabalho, as taxas dos artigos 108.º e 116.º estão sujeitas aos seguintes agravamentos por hora:
+
+a) Após o período normal de trabalho e até à hora da refeição ... 750$00
+
+b) Nas restantes horas após o período normal de trabalho dos dias úteis, na hora da refeição e aos sábados, domingos e dias feriados ... 1250$00
+
+###### Art. 119.º A taxa devida por serviços prestados por lanchas é de 800$00 por hora.
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+§ 4.º ...
+
+§ 5.º ...
+
+§ 6.º Fora do período normal de trabalho, as taxas deste artigo estão sujeitas aos seguintes agravamentos por hora:
+
+a) Após o período normal de trabalho e até à hora da refeição ... 350$00
+
+b) Nas restantes horas após o período normal de trabalho dos dias úteis, na hora da refeição e aos sábados, domingos e dias feriados ... 600$00
+
+###### Art. 120.º Quando a unidade ou unidades tenham sido requisitadas e por motivos estranhos à AGPL, se verifique desistência do serviço ou alteração para mais tarde da hora para ele marcada sem que, num e noutro caso, seja feito aviso com a antecedência mínima de duas horas em relação à hora marcada, será devida pelo requisitante uma importância, a determinar segundo os artigos 116.º ou 119.º, conforme o caso, correspondente às seguintes horas de utilização das unidades destinadas à execução do serviço:
+
+Duas horas, no caso de serviço no período normal de trabalho;
+
+Três horas, no caso de serviço a realizar fora do período normal de trabalho, de segunda-feira a sexta-feira.
+
+§ 1.º Aos sábados, domingos e feriados, se se verificar desistência do serviço sem prévio aviso até duas horas antes do fim do período normal do dia útil anterior, cobrar-se-á do requisitante uma importância, calculada segundo os artigos 116.º ou 119.º, conforme os casos, correspondente a cinco horas de utilização das unidades destinadas à execução do serviço; havendo alteração para mais cedo da hora inicialmente marcada para o serviço, não fica a AGPL obrigada a executá-lo e, se a alteração for para mais tarde, a importância devida pelo requisitante, determinada nos termos dos artigos 116.º a 119.º, correspondera ao tempo decorrido desde a hora inicialmente marcada para o serviço e até à sua efectiva conclusão.
+
+§ 2.º Para efeito da aplicação deste artigo, considera-se desistência de serviço a sua não realização no dia para que foi marcado e considera-se alteração de hora aquela que se verifique no próprio dia.
+
+...
+
+###### Art. 141.º Pela estadia de embarcações em rampas ou varadouros cobrar-se-ão as seguintes taxas, por metro indivisível de comprimento e por dia:
+
+a) Embarcações até 5 m ... 4$00
+
+b) Embarcações de mais de 5 m e até 10 m ... 6$00
+
+c) Embarcações com mais de 10 m ... 10$00
+
+§ único. A reparação dos estragos causados nas rampas e a limpeza de detritos deixados sobre as mesmas serão feitas por conta dos donos das embarcações.
+
+...
+
+###### Art. 158.º Pela entrada de pessoas nos recintos reservados dos cais e entrepostos cobrar-se-ão as seguintes taxas:
+
+Por cada pessoa, sendo a entrada avulsa ... 2$50
+
+Por cada pessoa, por avença anual e por ano civil ... 250$00
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+...
+
+###### Art. 166.º A taxa devida pela utilização de passadiços de acesso a navios de passageiros é de 400$00 por passadiço e por período de doze horas indivisível.
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º No caso de utilização de passadiços de acesso a navios de carga é devida a taxa de 200$00 por passadiço e por período de vinte e quatro horas indivisível.
+
+Esta taxa não inclui o transporte de e para o local de serviço nem a colocação fora do período normal de trabalho do pessoal.
+
+###### ARTIGO 2.º — (Incidência do adicional de 15%)
+
+Sobre as taxas fixadas no presente decreto não incide o adicional de 15% lançado em 1961, nos termos do disposto na base V do [Decreto-Lei n.º 35716](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35716-1946-154983), de 24 de Junho de 1946.
+
+Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes - José Ricardo Marques da Costa.
+
+**Promulgado em 26 de Julho de 1979.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

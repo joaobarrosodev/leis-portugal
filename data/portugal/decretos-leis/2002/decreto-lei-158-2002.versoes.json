@@ -1,0 +1,379 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:142700:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-34431475",
+ "dre_path": "/dr/detalhe/decreto-lei/158-2002-142700",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-07-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "44377475",
+    "43721175",
+    "43721275",
+    "43721375",
+    "43721475",
+    "43721575",
+    "43721675",
+    "43721775",
+    "43721875",
+    "43721975",
+    "43722075",
+    "43722175",
+    "43722275"
+   ]
+  },
+  {
+   "date": "2009-07-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:608740:por",
+     "title": "Decreto-Lei n.º 125/2009",
+     "published": "2009-05-22",
+     "dre_path": "/dr/detalhe/decreto-lei/125-2009-608740"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "44377475",
+    "43721175",
+    "43721275",
+    "44375275",
+    "44375375",
+    "44375475",
+    "44375575",
+    "44377275",
+    "44376475",
+    "44377375",
+    "44376675",
+    "44376775",
+    "44376875",
+    "44376975",
+    "44377075",
+    "44377175"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:191991:por",
+     "title": "Lei n.º 57/2012",
+     "published": "2012-11-09",
+     "dre_path": "/dr/detalhe/lei/57-2012-191991"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "44377475",
+    "43721175",
+    "43721275",
+    "44375275",
+    "44375375",
+    "55240691",
+    "44375575",
+    "44377275",
+    "44376475",
+    "44377375",
+    "44376675",
+    "44376775",
+    "44376875",
+    "44376975",
+    "44377075",
+    "44377175"
+   ]
+  },
+  {
+   "date": "2013-07-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:497434:por",
+     "title": "Lei n.º 44/2013",
+     "published": "2013-07-03",
+     "dre_path": "/dr/detalhe/lei/44-2013-497434"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "44377475",
+    "43721175",
+    "43721275",
+    "44375275",
+    "44375375",
+    "55240699",
+    "55240702",
+    "44377275",
+    "44376475",
+    "44377375",
+    "44376675",
+    "44376775",
+    "44376875",
+    "44376975",
+    "44377075",
+    "44377175"
+   ]
+  }
+ ],
+ "fragments": {
+  "44377475": {
+   "fragment_id": "35051275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2009-07-21",
+   "changed_by": [],
+   "markdown": "A criação dos planos de poupança-reforma (PPR) - instituídos pelo Decreto-Lei n.º 205/89, de 27 de Junho, posteriormente desenvolvido pelo Decreto-Lei n.º 145/90, de 7 de Maio - permitiu orientar um volume significativo de capitais para a poupança de médio e longo prazos destinada a satisfazer as necessidades financeiras inerentes à situação de reforma e, bem assim, para o desenvolvimento do mercado de capitais.\n\nO sucesso daquele produto de poupança assenta nas condições equilibradas do seu regime, ou seja, na associação que se estabelece entre a atribuição de benefícios fiscais e as especiais restrições ao reembolso dos montantes investidos.\n\nOs PPR beneficiam de um regime fiscal que, por um lado, facilita a capitalização na fase de poupança e, por outro, não a penaliza na fase do reembolso. Não se consagra uma verdadeira isenção fiscal para os rendimentos gerados, mas antes um diferimento da sua tributação. Quer isto significar que, dentro de limites determinados, as contribuições para os fundos de poupança são dedutíveis à colecta do IRS, sendo que os reembolsos, embora sujeitos a imposto, beneficiam de condições mais favoráveis, designadamente as decorrentes do regime previsto para as pensões, prevendo-se uma regra especial de exclusão de tributação para atenuar o efeito da progressividade em caso de reembolso, parcial ou total, e estabelecendo-se também, no âmbito das transmissões por morte, um regime fiscal mais favorável.\n\nComo contrapartida das vantagens fiscais, consagraram-se condições específicas de reembolso que impedem pedidos de devolução dos montantes resultantes das entregas efectuadas que não se baseiem nos fundamentos especiais legalmente previstos, propiciando-se assim a poupança de médio e longo prazos.\n\nO Decreto-Lei n.º 357/99, de 15 de Setembro, seguindo de perto o modelo dos PPR, veio instituir os planos de poupança-educação (PPE) vocacionados para a capitalização de poupanças destinadas a fazer face a despesas com educação em curso do ensino profissional ou do ensino superior do participante ou dos membros do seu agregado familiar.\n\nPorém, não só não foi intenção do legislador que o conjunto de poupanças em PPR e PPE pudesse beneficiar de mais vantagens fiscais do que o investimento em um só daqueles produtos financeiros, como também se entendeu que, dentro de determinadas condições, não havia motivos para impedir que montantes detidos em PPR pudessem vir a ser empregues para fins de educação.\n\nNa linha dessa orientação, não só se possibilitou a criação ab initio de fundos mistos - fundos de poupança-reforma/educação (FPR/E) - como se consagrou a possibilidade de se proceder à transferência de valores detidos em fundos de poupança-reforma (FPR) para fundos de poupança-educação (FPE), ou para fundos de poupança-reforma/educação, e ainda a própria transformação de FPR em FPR/E.\n\nNão obstante o muito sucesso que desde cedo tiveram os PPE, e a grande quantidade de transformações de fundos entretanto operadas - sempre no sentido da combinação dos dois tipos de produtos -, terá de se reconhecer, em contrapartida, que a opção legislativa de consagrar o regime dos PPE e PPR/E em diploma autónomo do dos PPR, num sistema em que este último funcionava como direito subsidiário, não deixou de suscitar algumas dúvidas de articulação dos diversos regimes - recorde-se, ainda a este propósito, que a cada fundo se aplicam também as disposições pertinentes dos regimes dos fundos de pensões, dos fundos de investimento ou dos seguros do ramo «Vida», consoante os casos, o que não deixa de tornar o sistema ainda mais complexo.\n\nNo presente diploma fundem-se num só articulado os regimes dos planos de poupança atrás referidos, esclarecendo-se alguns pontos porventura menos claros dos mesmos, num sistema em que se parte da constatação da maior relevância socioeconómica e superior expressão estatística dos planos de poupança-reforma/educação, mas que continua a deixar espaço para produtos que se centrem apenas numa daquelas componentes - reforma ou educação.\n\nAs linhas mestras subjacentes à preparação do presente diploma foram a ideia de clarificação de soluções - que implicará, sobretudo, que se passe a dizer o que apenas se subentendia - o mote da flexibilização - que se traduz, por exemplo, na previsão de portarias que possibilitem, em matérias como a da composição dos patrimónios, a dos modos de prova dos fundamentos de reembolso e a da actualização de valores de despesas com educação, uma muito mais célere adaptação às transformações socioeconómicas - e a busca de harmonia entre regimes - harmonia intrínseca do regime próprio dos planos e fundos e harmonia com o regime dos veículos de financiamento dos fundos e com as regras fiscais que lhes são aplicáveis.\n\nDe entre as intervenções legislativas inovadoras ora operadas poder-se-ão salientar, como mais significativas, em termos materiais, as seguintes:\n\na) Limitam-se ao mínimo as possibilidades de diferenciação das regras de composição do património dos fundos de poupança que dependam da sua natureza particular, sem que, no entanto, se deixe de atender à especificidade própria de cada tipo de produto;\n\nb) Prevê-se que a constituição do património dos fundos de poupança fique sujeita a um conjunto de regras de dispersão e diversificação mais flexíveis e adaptadas às novas realidades dos mercados financeiros, baseadas essencialmente no tipo de risco das aplicações, e que tenham igualmente em conta a natureza eminentemente social deste tipo de produtos;\n\nc) Harmonizam-se os fundamentos de reembolso dos planos de poupança, considerando-se que o que é exclusivamente próprio dos PPR é apenas a possibilidade de reembolso em caso de reforma por velhice do participante, ou a partir dos seus 60 anos de idade, consistindo a particularidade dos PPE na possibilidade de reembolso para fazer face a certas despesas de educação;\n\nd) Dispõe-se que, por norma, existirá sempre um prazo mínimo de cinco anos de indisponibilidade das entregas, muito embora se continue a prever a possibilidade de reembolso sem penalização fiscal nas situações em que o participante ou algum dos membros do seu agregado familiar experimente situações de especial dificuldade;\n\ne) Estabelece-se que em nenhum caso poderá ser recusado o reembolso, ainda que com perda de benefícios fiscais;\n\nf) Consagram-se regras específicas para os casos em que os planos sejam bens comuns do casal por força do regime de casamento;\n\ng) Prevê-se a possibilidade de designação de beneficiários não herdeiros;\n\nh) Admite-se a possibilidade de transferência entre planos de natureza idêntica ou diferente, embora só se possa verificar o reembolso do montante capitalizado no plano que seja resultante de entregas efectuadas antes da transferência, quanto àquelas quantias relativamente às quais já tenham decorrido pelo menos cinco anos após as respectivas datas de aplicação pelo participante, não sendo relevante o facto de os fundamentos invocados para o reembolso não se encontrarem previstos no plano de poupança de origem;\n\ni) Estabelece-se um período transitório que permita às entidades gestoras adaptar as carteiras de activos dos fundos às novas regras de composição do património dos mesmos.\n\nA manifesta desactualização do actual regime jurídico dos planos de poupança face à evolução dos mercados financeiros e às necessidades das autoridades de supervisão, o seu desajustamento perante a realidade internacional - o que os torna pouco competitivos - e o seu elevado interesse social justificam a necessidade e urgência da aprovação do presente diploma. Essa necessidade e urgência são reforçadas pelo facto de o longo processo de elaboração do presente diploma - no qual estiveram envolvidas as autoridades de supervisão do mercado de valores mobiliários e de seguros e do qual fez parte uma fase de consulta às associações representativas das instituições financeiras envolvidas no mercado dos planos de poupança e dos consumidores - ter criado um amplo consenso em torno do mesmo e gerado fortes expectativas quanto à sua aprovação.\n\nForam ouvidos a Comissão do Mercado de Valores Mobiliários, o Instituto de Seguros de Portugal, as associações representativas das entidades do sector e as associações de defesa dos consumidores.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "43721175": {
+   "fragment_id": "35244875",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Noção\n\n1 - Para efeitos do presente diploma consideram-se «planos de poupança» os planos poupança-reforma (PPR), os planos poupança-educação (PPE) e os planos poupança-reforma/educação (PPR/E).\n\n2 - Os PPR, PPE e PPR/E são constituídos, respectivamente, por certificados nominativos de um fundo de poupança-reforma (FPR), de um fundo de poupança-educação (FPE) ou de um fundo de poupança-reforma/educação (FPR/E).\n\n3 - Os fundos de poupança referidos no número anterior terão a forma de fundo de investimento mobiliário, de fundo de pensões ou, equiparadamente, de fundo autónomo de uma modalidade de seguro do ramo «Vida», devendo a respectiva denominação incluir a sigla PPR, PPE ou PPR/E, consoante os casos.\n\n4 - Os certificados nominativos de um fundo de poupança podem ser subscritos por pessoas singulares ou por pessoas colectivas a favor e em nome dos seus trabalhadores.\n\n5 - Os certificados nominativos de um fundo de poupança podem representar diversas unidades de participação do fundo de poupança, inteiras ou fraccionadas, as quais podem ser ou não desmaterializadas.\n\n6 - Aos fundos de poupança constituídos sob a forma de fundo autónomo de uma modalidade de seguro do ramo «Vida» aplicam-se, para além dos requisitos estabelecidos no presente diploma, as seguintes condições cumulativas:\n\na) As respectivas provisões técnicas devem ser representadas ou caucionadas, com observância do disposto na portaria mencionada no n.º 4 do artigo 3.º; e\n\nb) A concessão de empréstimos ou adiantamentos sobre a respectiva apólice não é admitida."
+  },
+  "43721275": {
+   "fragment_id": "35244975",
+   "type": 11,
+   "heading": "Artigo 2.º — Gestão dos fundos de poupança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Gestão dos fundos de poupança\n\n1 - São competentes para gerir os fundos de poupança constituídos sob a forma de fundo de investimento mobiliário as sociedades gestoras de fundos de investimento mobiliário autorizadas nos termos legais.\n\n2 - São competentes para gerir os fundos de poupança constituídos sob a forma de fundo de pensões as entidades gestoras de fundos de pensões autorizadas nos termos legais.\n\n3 - São competentes para gerir os fundos de poupança constituídos sob a forma de fundo autónomo de uma modalidade de seguro do ramo «Vida» as empresas de seguros autorizadas, nos termos legais, a explorar o ramo «Vida» em Portugal.\n\n4 - Cada entidade gestora pode gerir um ou mais fundos de poupança.\n\n5 - A entidade gestora de um fundo de poupança não pode dissolver-se sem primeiro ter garantido a continuidade da gestão dos fundos por si geridos por outra entidade habilitada."
+  },
+  "43721375": {
+   "fragment_id": "35245075",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição do património dos fundos de poupança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição do património dos fundos de poupança\n\n1 - Na composição do património dos fundos de poupança as respectivas entidades gestoras devem ter em conta os objectivos e finalidades a suportar pelos mesmos, assegurando a observância do princípio de dispersão de riscos, bem como a segurança, o rendimento e a liquidez das aplicações efectuadas.\n\n2 - O património dos fundos de poupança deve ser constituído por valores mobiliários, participações em instituições de investimento colectivo, instrumentos representativos de dívida de curto prazo, depósitos bancários ou outros activos de natureza monetária.\n\n3 - Nos fundos de poupança sob a forma de fundo de pensões ou de fundo autónomo de uma modalidade de seguro do ramo «Vida», para além dos activos previstos no n.º 2, o património pode ainda ser constituído por terrenos e edifícios e créditos decorrentes de empréstimos hipotecários.\n\n4 - Os activos referidos nos n.os 2 e 3 estão sujeitos aos limites fixados em portaria do Ministro de Estado e das Finanças."
+  },
+  "43721475": {
+   "fragment_id": "35245175",
+   "type": 11,
+   "heading": "Artigo 4.º — Reembolso do valor dos planos de poupança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reembolso do valor dos planos de poupança\n\n1 - Sem prejuízo do disposto nos números seguintes, os participantes só podem exigir o reembolso do valor do PPR/E nos seguintes casos:\n\na) Reforma por velhice do participante;\n\nb) Desemprego de longa duração do participante ou de qualquer dos membros do seu agregado familiar;\n\nc) Incapacidade permanente para o trabalho do participante ou de qualquer dos membros do seu agregado familiar, qualquer que seja a sua causa;\n\nd) Doença grave do participante ou de qualquer dos membros do seu agregado familiar;\n\ne) A partir dos 60 anos de idade do participante;\n\nf) Frequência ou ingresso do participante ou de qualquer dos membros do seu agregado familiar em curso do ensino profissional ou do ensino superior, quando geradores de despesas no ano respectivo.\n\n2 - O reembolso efectuado ao abrigo das alíneas a), e) e f) do número anterior só se pode verificar quanto a entregas relativamente às quais já tenham decorrido pelo menos cinco anos após as respectivas datas de aplicação pelo participante.\n\n3 - Porém, decorrido que seja o prazo de cinco anos após a data da primeira entrega, o participante pode exigir o reembolso da totalidade do valor do PPR/E, ao abrigo das alíneas a), e) e f) do n.º 1, se o montante das entregas efectuadas na primeira metade da vigência do contrato representar, pelo menos, 35% da totalidade das entregas.\n\n4 - O disposto nos n.os 2 e 3 aplica-se igualmente às situações de reembolso previstas nas alíneas b) a d), nos casos em que o sujeito em cujas condições pessoais se funde o pedido de reembolso se encontrasse, à data de cada entrega, numa dessas situações.\n\n5 - Fora das situações previstas nos números anteriores o reembolso do valor do PPR/E pode ser exigido a qualquer tempo, nos termos contratualmente estabelecidos e com as consequências previstas nos n.os 4 e 5 do artigo 21.º do Estatuto dos Benefícios Fiscais.\n\n6 - Para efeitos das alíneas a) e e) do n.º 1, e sem prejuízo do disposto nos n.os 2 e 3, nos casos em que por força do regime de bens do casal o PPR/E seja um bem comum, releva a situação pessoal de qualquer um dos cônjuges, independentemente do participante, admitindo-se o reembolso quando ocorra reforma por velhice ou por obtenção da idade de 60 anos pelo cônjuge não participante.\n\n7 - Por morte, aplicam-se as seguintes regras quanto ao reembolso:\n\na) Quando o autor da sucessão tenha sido o participante, pode ser exigido pelo cônjuge sobrevivo ou demais herdeiros legitimários, independentemente do regime de bens do casal, o reembolso da totalidade do valor do plano de poupança, salvo quando solução diversa resultar de testamento ou cláusula beneficiária a favor de terceiro, e sem prejuízo da instatibilidade da legítima;\n\nb) Quando o autor da sucessão tenha sido o cônjuge do participante e, por força do regime de bens do casal, o PPR/E seja um bem comum, pode ser exigido pelo cônjuge sobrevivo ou demais herdeiros o reembolso da quota-parte respeitante ao falecido.\n\n8 - A descrição objectiva dos casos previstos no n.º 1 e dos respectivos meios de prova, incluindo o das situações descritas nos n.os 6 e 7, será feita em portaria conjunta dos Ministros de Estado e das Finanças, da Educação, da Ciência e do Ensino Superior, da Saúde e da Segurança Social e do Trabalho.\n\n9 - Ao reembolso do valor do PPR aplicam-se todas as disposições dos números anteriores, com excepção da alínea f) do n.º 1.\n\n10 - Ao reembolso do valor do PPE aplicam-se todas as disposições dos números anteriores, com excepção das alíneas a) e e) do n.º 1, do n.º 6 e do n.º 9."
+  },
+  "43721575": {
+   "fragment_id": "35245275",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modalidades de reembolso\n\n1 - Nos casos previstos no artigo 4.º os participantes, herdeiros ou beneficiários podem optar pelas seguintes modalidades de reembolso:\n\na) Recebimento da totalidade ou de parte do valor do plano de poupança, de forma periódica ou não;\n\nb) Pensão vitalícia mensal;\n\nc) Qualquer conjugação das duas modalidades anteriores.\n\n2 - Porém, o reembolso ao abrigo da alínea f) do n.º 1 do artigo 4.º só pode ser efectuado uma vez em cada ano, e está sujeito aos limites por educando a fixar por portaria conjunta dos Ministros de Estado e das Finanças, da Educação e da Ciência e do Ensino Superior."
+  },
+  "43721675": {
+   "fragment_id": "35245375",
+   "type": 11,
+   "heading": "Artigo 6.º — Transferência dos planos de poupança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transferência dos planos de poupança\n\n1 - O valor de um plano de poupança pode, a pedido expresso do participante, ser transferido, total ou parcialmente, para um fundo de poupança diverso do originário, não havendo lugar, por esse facto, à atribuição de novo benefício fiscal.\n\n2 - A entidade gestora que, sob proposta escrita do participante, aceite receber uma transferência, deve comunicar-lhe tal disponibilidade, transmitindo-lhe na mesma altura a proposta de contrato que para o efeito celebrará.\n\n3 - A entidade gestora que receber um pedido de transferência deve executá-lo no prazo máximo de 10 dias úteis e informar o participante, nos 5 dias úteis subsequentes à execução, do valor do plano de poupança, deduzido da eventual comissão de transferência e, bem assim, da data a que este valor se reporta e em que foi efectuada a transferência.\n\n4 - A entidade gestora que receber um pedido de transferência deve transferir, directamente para aquela que o tiver aceite receber, o valor do plano de poupança referido no número anterior, indicando de forma discriminada o valor das entregas efectuadas, das respectivas datas e do rendimento acumulado.\n\n5 - Só se pode verificar o reembolso, ao abrigo das alíneas a), e) e f) do n.º 1 do artigo 4.º, do montante capitalizado no plano que seja resultante de entregas efectuadas antes da transferência referida no n.º 1, quanto àquelas quantias relativamente às quais já tenham decorrido pelo menos cinco anos após as respectivas datas de aplicação pelo participante, não sendo relevante o facto de os fundamentos invocados para o reembolso não se encontrarem previstos no plano de poupança de origem."
+  },
+  "43721775": {
+   "fragment_id": "35245475",
+   "type": 11,
+   "heading": "Artigo 7.º — Supervisão e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Supervisão e informação\n\n1 - Os fundos de poupança e as respectivas entidades gestoras ficam sujeitos à supervisão da Comissão do Mercado de Valores Mobiliários ou do Instituto de Seguros de Portugal, consoante a sua natureza.\n\n2 - À periodicidade e modo de cálculo do valor da unidade de participação, da publicação da composição discriminada dos valores que constituem o fundo de poupança e da publicação do respectivo número de unidades de participação em circulação são aplicáveis as regras estabelecidas para os fundos de investimento mobiliário abertos, os fundos de pensões abertos e os seguros do ramo «Vida» enquadráveis no regime dos planos de poupança, consoante os casos.\n\n3 - Os regulamentos de gestão dos fundos e os clausulados das apólices dos PPR e PPE devem ser alterados quando a entidade gestora os pretenda transformar em PPR/E.\n\n4 - Sempre que, ao abrigo do regime previsto na portaria a que se refere o n.º 4 do artigo 3.º, se verifique uma alteração substancial da política de investimentos do fundo e, bem assim, do seu perfil de risco, deve a sociedade gestora notificar individualmente o participante desse facto, sendo-lhe conferida a possibilidade de transferir, sem encargos, o valor do plano de poupança para um fundo de poupança diverso do originário."
+  },
+  "43721875": {
+   "fragment_id": "35245575",
+   "type": 11,
+   "heading": "Artigo 8.º — Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contabilidade\n\nA contabilidade dos fundos de poupança é organizada de harmonia com as normas e instruções emitidas pela Comissão do Mercado de Valores Mobiliários e pelo Instituto de Seguros de Portugal, consoante a sua natureza."
+  },
+  "43721975": {
+   "fragment_id": "35245675",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1 - As entidades gestoras dispõem de um período de seis meses para procederem à adaptação das suas carteiras de activos face às exigências da portaria mencionada no n.º 4 do artigo 3.º, nomeadamente quanto aos limites de dispersão de riscos aí previstos.\n\n2 - Ao reembolso relativo a entregas efectuadas antes da entrada em vigor do presente diploma, feito ao abrigo das alíneas a) e e) do n.º 1 do artigo 4.º, não se aplica o n.º 2 do mesmo artigo, mantendo-se em vigor, quanto a esta matéria, o regime revogado por força do presente diploma."
+  },
+  "43722075": {
+   "fragment_id": "35245775",
+   "type": 11,
+   "heading": "Artigo 10.º — Legislação aplicável e regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Legislação aplicável e regulamentação\n\n1 - Aplica-se subsidiariamente aos planos e fundos de poupança a legislação dos fundos de investimento, fundos de pensões e actividade seguradora, consoante a sua natureza.\n\n2 - Compete às entidades de supervisão respectivas a regulamentação dos aspectos dos fundos de poupança decorrentes da sua diferente natureza."
+  },
+  "43722175": {
+   "fragment_id": "35245875",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 205/89, de 27 de Junho, com a redacção dada pelo Decreto-Lei n.º 145/90, de 7 de Maio, e o Decreto-Lei n.º 357/99, de 15 de Setembro."
+  },
+  "43722275": {
+   "fragment_id": "35245975",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "44375275": {
+   "fragment_id": "35246175",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Comissões",
+   "in_force_from": "2009-07-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2009 - Diário da República n.º 99/2009, Série I de 2009-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2009-608740)"
+   ],
+   "markdown": "###### Artigo 2.º-A — Comissões\n\nSem prejuízo do disposto no n.º 6 do artigo 6.º relativamente à comissão de transferência, nos planos de poupança abrangidos pelo presente decreto-lei apenas são devidas comissões pela subscrição, depósito, gestão, transferência ou reembolso, devendo as comissões actualmente existentes ser subsumidas nestas designações.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2009 - Diário da República n.º 99/2009, Série I de 2009-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2009-608740)"
+  },
+  "44375375": {
+   "fragment_id": "35245075",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição do património dos fundos de poupança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição do património dos fundos de poupança\n\n1 - Na composição do património dos fundos de poupança as respectivas entidades gestoras devem ter em conta os objectivos e finalidades a suportar pelos mesmos, assegurando a observância do princípio de dispersão de riscos, bem como a segurança, o rendimento e a liquidez das aplicações efectuadas.\n\n2 - O património dos fundos de poupança deve ser constituído por valores mobiliários, participações em instituições de investimento colectivo, instrumentos representativos de dívida de curto prazo, depósitos bancários ou outros activos de natureza monetária.\n\n3 - Nos fundos de poupança sob a forma de fundo de pensões ou de fundo autónomo de uma modalidade de seguro do ramo «Vida», para além dos activos previstos no n.º 2, o património pode ainda ser constituído por terrenos e edifícios e créditos decorrentes de empréstimos hipotecários.\n\n4 - Os activos referidos nos n.os 2 e 3 estão sujeitos aos limites fixados em portaria do Ministro de Estado e das Finanças."
+  },
+  "44375475": {
+   "fragment_id": "35245175",
+   "type": 11,
+   "heading": "Artigo 4.º — Reembolso do valor dos planos de poupança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reembolso do valor dos planos de poupança\n\n1 - Sem prejuízo do disposto nos números seguintes, os participantes só podem exigir o reembolso do valor do PPR/E nos seguintes casos:\n\na) Reforma por velhice do participante;\n\nb) Desemprego de longa duração do participante ou de qualquer dos membros do seu agregado familiar;\n\nc) Incapacidade permanente para o trabalho do participante ou de qualquer dos membros do seu agregado familiar, qualquer que seja a sua causa;\n\nd) Doença grave do participante ou de qualquer dos membros do seu agregado familiar;\n\ne) A partir dos 60 anos de idade do participante;\n\nf) Frequência ou ingresso do participante ou de qualquer dos membros do seu agregado familiar em curso do ensino profissional ou do ensino superior, quando geradores de despesas no ano respectivo.\n\n2 - O reembolso efectuado ao abrigo das alíneas a), e) e f) do número anterior só se pode verificar quanto a entregas relativamente às quais já tenham decorrido pelo menos cinco anos após as respectivas datas de aplicação pelo participante.\n\n3 - Porém, decorrido que seja o prazo de cinco anos após a data da primeira entrega, o participante pode exigir o reembolso da totalidade do valor do PPR/E, ao abrigo das alíneas a), e) e f) do n.º 1, se o montante das entregas efectuadas na primeira metade da vigência do contrato representar, pelo menos, 35% da totalidade das entregas.\n\n4 - O disposto nos n.os 2 e 3 aplica-se igualmente às situações de reembolso previstas nas alíneas b) a d), nos casos em que o sujeito em cujas condições pessoais se funde o pedido de reembolso se encontrasse, à data de cada entrega, numa dessas situações.\n\n5 - Fora das situações previstas nos números anteriores o reembolso do valor do PPR/E pode ser exigido a qualquer tempo, nos termos contratualmente estabelecidos e com as consequências previstas nos n.os 4 e 5 do artigo 21.º do Estatuto dos Benefícios Fiscais.\n\n6 - Para efeitos das alíneas a) e e) do n.º 1, e sem prejuízo do disposto nos n.os 2 e 3, nos casos em que por força do regime de bens do casal o PPR/E seja um bem comum, releva a situação pessoal de qualquer um dos cônjuges, independentemente do participante, admitindo-se o reembolso quando ocorra reforma por velhice ou por obtenção da idade de 60 anos pelo cônjuge não participante.\n\n7 - Por morte, aplicam-se as seguintes regras quanto ao reembolso:\n\na) Quando o autor da sucessão tenha sido o participante, pode ser exigido pelo cônjuge sobrevivo ou demais herdeiros legitimários, independentemente do regime de bens do casal, o reembolso da totalidade do valor do plano de poupança, salvo quando solução diversa resultar de testamento ou cláusula beneficiária a favor de terceiro, e sem prejuízo da instatibilidade da legítima;\n\nb) Quando o autor da sucessão tenha sido o cônjuge do participante e, por força do regime de bens do casal, o PPR/E seja um bem comum, pode ser exigido pelo cônjuge sobrevivo ou demais herdeiros o reembolso da quota-parte respeitante ao falecido.\n\n8 - A descrição objectiva dos casos previstos no n.º 1 e dos respectivos meios de prova, incluindo o das situações descritas nos n.os 6 e 7, será feita em portaria conjunta dos Ministros de Estado e das Finanças, da Educação, da Ciência e do Ensino Superior, da Saúde e da Segurança Social e do Trabalho.\n\n9 - Ao reembolso do valor do PPR aplicam-se todas as disposições dos números anteriores, com excepção da alínea f) do n.º 1.\n\n10 - Ao reembolso do valor do PPE aplicam-se todas as disposições dos números anteriores, com excepção das alíneas a) e e) do n.º 1, do n.º 6 e do n.º 9."
+  },
+  "44375575": {
+   "fragment_id": "35245275",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de reembolso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modalidades de reembolso\n\n1 - Nos casos previstos no artigo 4.º os participantes, herdeiros ou beneficiários podem optar pelas seguintes modalidades de reembolso:\n\na) Recebimento da totalidade ou de parte do valor do plano de poupança, de forma periódica ou não;\n\nb) Pensão vitalícia mensal;\n\nc) Qualquer conjugação das duas modalidades anteriores.\n\n2 - Porém, o reembolso ao abrigo da alínea f) do n.º 1 do artigo 4.º só pode ser efectuado uma vez em cada ano, e está sujeito aos limites por educando a fixar por portaria conjunta dos Ministros de Estado e das Finanças, da Educação e da Ciência e do Ensino Superior."
+  },
+  "44377275": {
+   "fragment_id": "35245375",
+   "type": 11,
+   "heading": "Artigo 6.º — Transferência dos planos de poupança",
+   "in_force_from": "2009-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 125/2009 - Diário da República n.º 99/2009, Série I de 2009-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2009-608740)"
+   ],
+   "markdown": "###### Artigo 6.º — Transferência dos planos de poupança\n\n1 - O valor de um plano de poupança pode, a pedido expresso do participante, ser transferido, total ou parcialmente, para um fundo de poupança diverso do originário, não havendo lugar, por esse facto, à atribuição de novo benefício fiscal.\n\n2 - A entidade gestora que, sob proposta escrita do participante, aceite receber uma transferência, deve comunicar-lhe tal disponibilidade, transmitindo-lhe na mesma altura a proposta de contrato que para o efeito celebrará.\n\n3 - A entidade gestora que receber um pedido de transferência deve executá-lo no prazo máximo de 10 dias úteis e informar o participante, nos 5 dias úteis subsequentes à execução, do valor do plano de poupança, deduzido da eventual comissão de transferência e, bem assim, da data a que este valor se reporta e em que foi efectuada a transferência.\n\n4 - A entidade gestora que receber um pedido de transferência deve transferir, directamente para aquela que o tiver aceite receber, o valor do plano de poupança referido no número anterior, indicando de forma discriminada o valor das entregas efectuadas, das respectivas datas e do rendimento acumulado.\n\n5 - Só se pode verificar o reembolso, ao abrigo das alíneas a), e) e f) do n.º 1 do artigo 4.º, do montante capitalizado no plano que seja resultante de entregas efectuadas antes da transferência referida no n.º 1, quanto àquelas quantias relativamente às quais já tenham decorrido pelo menos cinco anos após as respectivas datas de aplicação pelo participante, não sendo relevante o facto de os fundamentos invocados para o reembolso não se encontrarem previstos no plano de poupança de origem.\n\n6 - É proibida a cobrança de comissões pela transferência, total ou parcial, de planos de poupança onde não haja garantia de capital ou de rendibilidade.\n\n7 - Nos planos de poupança que garantam capital ou a respectiva rendibilidade, a comissão de transferência não pode ser superior a 0,5 % do valor a transferir.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 125/2009 - Diário da República n.º 99/2009, Série I de 2009-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2009-608740)"
+  },
+  "44376475": {
+   "fragment_id": "35246275",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Publicidade e divulgação de rendibilidade",
+   "in_force_from": "2009-07-21",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2009 - Diário da República n.º 99/2009, Série I de 2009-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2009-608740)"
+   ],
+   "markdown": "###### Artigo 6.º-A — Publicidade e divulgação de rendibilidade\n\nSem prejuízo do disposto em regulamentação específica aplicável, em todas as acções publicitárias ou informativas em que sejam divulgadas rendibilidades históricas, nomeadamente na informação pré-contratual, estas devem ser apresentadas deduzidas das comissões referidas no artigo 2.º-A.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 125/2009 - Diário da República n.º 99/2009, Série I de 2009-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2009-608740)"
+  },
+  "44377375": {
+   "fragment_id": "35245475",
+   "type": 11,
+   "heading": "Artigo 7.º — Supervisão e informação",
+   "in_force_from": "2009-07-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 125/2009 - Diário da República n.º 99/2009, Série I de 2009-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2009-608740)"
+   ],
+   "markdown": "###### Artigo 7.º — Supervisão e informação\n\n1 - Os fundos de poupança e as respectivas entidades gestoras ficam sujeitos à supervisão da Comissão do Mercado de Valores Mobiliários ou do Instituto de Seguros de Portugal, consoante a sua natureza.\n\n2 - À periodicidade e modo de cálculo do valor da unidade de participação, da publicação da composição discriminada dos valores que constituem o fundo de poupança e da publicação do respectivo número de unidades de participação em circulação são aplicáveis as regras estabelecidas para os fundos de investimento mobiliário abertos, os fundos de pensões abertos e os seguros do ramo «Vida» enquadráveis no regime dos planos de poupança, consoante os casos.\n\n3 - Os regulamentos de gestão dos fundos e os clausulados das apólices dos PPR e PPE devem ser alterados quando a entidade gestora os pretenda transformar em PPR/E.\n\n4 - Sempre que, ao abrigo do regime previsto na portaria a que se refere o n.º 4 do artigo 3.º, se verifique uma alteração substancial da política de investimentos do fundo e, bem assim, do seu perfil de risco, deve a sociedade gestora notificar individualmente o participante desse facto, sendo-lhe conferida a possibilidade de transferir, sem encargos, o valor do plano de poupança para um fundo de poupança diverso do originário.\n\n5 - Antes da contratação, deve ser apresentada ao participante uma simulação do plano de poupança tendo em conta as condições vigentes nesse momento.\n\n6 - Anualmente, e sem prejuízo das obrigações de informação resultantes da legislação e regulamentação aplicáveis nos termos do artigo 10.º do presente decreto-lei, designadamente no que respeita à taxa global de custos e às medidas de rendibilidade e risco, a entidade gestora envia gratuitamente ao participante informação discriminada sobre o valor das comissões cobradas e sobre o rendimento obtido pelo participante relativamente ao ano anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 125/2009 - Diário da República n.º 99/2009, Série I de 2009-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2009-608740)"
+  },
+  "44376675": {
+   "fragment_id": "35245575",
+   "type": 11,
+   "heading": "Artigo 8.º — Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contabilidade\n\nA contabilidade dos fundos de poupança é organizada de harmonia com as normas e instruções emitidas pela Comissão do Mercado de Valores Mobiliários e pelo Instituto de Seguros de Portugal, consoante a sua natureza."
+  },
+  "44376775": {
+   "fragment_id": "35245675",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1 - As entidades gestoras dispõem de um período de seis meses para procederem à adaptação das suas carteiras de activos face às exigências da portaria mencionada no n.º 4 do artigo 3.º, nomeadamente quanto aos limites de dispersão de riscos aí previstos.\n\n2 - Ao reembolso relativo a entregas efectuadas antes da entrada em vigor do presente diploma, feito ao abrigo das alíneas a) e e) do n.º 1 do artigo 4.º, não se aplica o n.º 2 do mesmo artigo, mantendo-se em vigor, quanto a esta matéria, o regime revogado por força do presente diploma."
+  },
+  "44376875": {
+   "fragment_id": "35245775",
+   "type": 11,
+   "heading": "Artigo 10.º — Legislação aplicável e regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Legislação aplicável e regulamentação\n\n1 - Aplica-se subsidiariamente aos planos e fundos de poupança a legislação dos fundos de investimento, fundos de pensões e actividade seguradora, consoante a sua natureza.\n\n2 - Compete às entidades de supervisão respectivas a regulamentação dos aspectos dos fundos de poupança decorrentes da sua diferente natureza."
+  },
+  "44376975": {
+   "fragment_id": "35245875",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 205/89, de 27 de Junho, com a redacção dada pelo Decreto-Lei n.º 145/90, de 7 de Maio, e o Decreto-Lei n.º 357/99, de 15 de Setembro."
+  },
+  "44377075": {
+   "fragment_id": "35245975",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "44377175": {
+   "fragment_id": "35246075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Maio de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - José David Gomes Justino - Pedro Lynce de Faria - Luís Filipe Pereira - António José de Castro Bagão Félix.\n\nPromulgado em 13 de Junho de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Junho de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "55240691": {
+   "fragment_id": "35245175",
+   "type": 11,
+   "heading": "Artigo 4.º — Reembolso do valor dos planos de poupança",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 57/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/lei/57-2012-191991), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Reembolso do valor dos planos de poupança\n\n1 - Sem prejuízo do disposto nos números seguintes, os participantes só podem exigir o reembolso do valor do PPR/E nos seguintes casos:\n\na) Reforma por velhice do participante;\n\nb) Desemprego de longa duração do participante ou de qualquer dos membros do seu agregado familiar;\n\nc) Incapacidade permanente para o trabalho do participante ou de qualquer dos membros do seu agregado familiar, qualquer que seja a sua causa;\n\nd) Doença grave do participante ou de qualquer dos membros do seu agregado familiar;\n\ne) A partir dos 60 anos de idade do participante;\n\nf) Frequência ou ingresso do participante ou de qualquer dos membros do seu agregado familiar em curso do ensino profissional ou do ensino superior, quando geradores de despesas no ano respectivo;\n\ng) Utilização para pagamento de prestações de crédito à aquisição de habitação própria e permanente.\n\n2 - O reembolso efectuado ao abrigo das alíneas a), e) e f) do número anterior só se pode verificar quanto a entregas relativamente às quais já tenham decorrido pelo menos cinco anos após as respectivas datas de aplicação pelo participante.\n\n3 - Porém, decorrido que seja o prazo de cinco anos após a data da primeira entrega, o participante pode exigir o reembolso da totalidade do valor do PPR/E, ao abrigo das alíneas a), e) e f) do n.º 1, se o montante das entregas efectuadas na primeira metade da vigência do contrato representar, pelo menos, 35% da totalidade das entregas.\n\n4 - O disposto nos n.os 2 e 3 aplica-se igualmente às situações de reembolso previstas nas alíneas b) a d), nos casos em que o sujeito em cujas condições pessoais se funde o pedido de reembolso se encontrasse, à data de cada entrega, numa dessas situações.\n\n5 - Fora das situações previstas nos números anteriores o reembolso do valor do PPR/E pode ser exigido a qualquer tempo, nos termos contratualmente estabelecidos e com as consequências previstas nos n.os 4 e 5 do artigo 21.º do Estatuto dos Benefícios Fiscais.\n\n6 - Para efeitos das alíneas a) e e) do n.º 1, e sem prejuízo do disposto nos n.os 2 e 3, nos casos em que por força do regime de bens do casal o PPR/E seja um bem comum, releva a situação pessoal de qualquer um dos cônjuges, independentemente do participante, admitindo-se o reembolso quando ocorra reforma por velhice ou por obtenção da idade de 60 anos pelo cônjuge não participante.\n\n7 - Por morte, aplicam-se as seguintes regras quanto ao reembolso:\n\na) Quando o autor da sucessão tenha sido o participante, pode ser exigido pelo cônjuge sobrevivo ou demais herdeiros legitimários, independentemente do regime de bens do casal, o reembolso da totalidade do valor do plano de poupança, salvo quando solução diversa resultar de testamento ou cláusula beneficiária a favor de terceiro, e sem prejuízo da instatibilidade da legítima;\n\nb) Quando o autor da sucessão tenha sido o cônjuge do participante e, por força do regime de bens do casal, o PPR/E seja um bem comum, pode ser exigido pelo cônjuge sobrevivo ou demais herdeiros o reembolso da quota-parte respeitante ao falecido.\n\n8 - A descrição objectiva dos casos previstos no n.º 1 e dos respectivos meios de prova, incluindo o das situações descritas nos n.os 6 e 7, será feita em portaria conjunta dos Ministros de Estado e das Finanças, da Educação, da Ciência e do Ensino Superior, da Saúde e da Segurança Social e do Trabalho.\n\n9 - Ao reembolso do valor do PPR aplicam-se todas as disposições dos números anteriores, com excepção da alínea f) do n.º 1.\n\n10 - Ao reembolso do valor do PPE aplicam-se todas as disposições dos números anteriores, com excepção das alíneas a) e e) do n.º 1, do n.º 6 e do n.º 9.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 57/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/lei/57-2012-191991), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+  },
+  "55240699": {
+   "fragment_id": "35245175",
+   "type": 11,
+   "heading": "Artigo 4.º — Reembolso do valor dos planos de poupança",
+   "in_force_from": "2013-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2013 - Diário da República n.º 126/2013, Série I de 2013-07-03](https://diariodarepublica.pt/dr/detalhe/lei/44-2013-497434), em vigor a partir de 2013-07-04, produz efeitos a partir de 2013-07-04",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 57/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/lei/57-2012-191991), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Reembolso do valor dos planos de poupança\n\n1 - Sem prejuízo do disposto nos números seguintes, os participantes só podem exigir o reembolso do valor do PPR/E nos seguintes casos:\n\na) Reforma por velhice do participante;\n\nb) Desemprego de longa duração do participante ou de qualquer dos membros do seu agregado familiar;\n\nc) Incapacidade permanente para o trabalho do participante ou de qualquer dos membros do seu agregado familiar, qualquer que seja a sua causa;\n\nd) Doença grave do participante ou de qualquer dos membros do seu agregado familiar;\n\ne) A partir dos 60 anos de idade do participante;\n\nf) Frequência ou ingresso do participante ou de qualquer dos membros do seu agregado familiar em curso do ensino profissional ou do ensino superior, quando geradores de despesas no ano respectivo;\n\ng) Utilização para pagamento de prestações de contratos de crédito garantidos por hipoteca sobre imóvel destinado a habitação própria e permanente do participante.\n\n2 - O reembolso efetuado ao abrigo das alíneas a), e), f) e g) do número anterior só se pode verificar quanto a entregas relativamente às quais já tenham decorrido pelo menos cinco anos após as respetivas datas de aplicação pelo participante.\n\n3 - Decorrido o prazo de cinco anos após a data da primeira entrega, o participante pode exigir o reembolso da totalidade do valor do PPR/E, ao abrigo das alíneas a), e), f) e g) do n.º 1, se o montante das entregas efetuadas na primeira metade da vigência do contrato representar, pelo menos, 35 % da totalidade das entregas.\n\n4 - O disposto nos n.os 2 e 3 aplica-se igualmente às situações de reembolso previstas nas alíneas b) a d), nos casos em que o sujeito em cujas condições pessoais se funde o pedido de reembolso se encontrasse, à data de cada entrega, numa dessas situações.\n\n5 - Fora das situações previstas nos números anteriores o reembolso do valor do PPR/E pode ser exigido a qualquer tempo, nos termos contratualmente estabelecidos e com as consequências previstas nos n.os 4 e 5 do artigo 21.º do Estatuto dos Benefícios Fiscais.\n\n6 - Para efeitos das alíneas a) e e) do n.º 1, e sem prejuízo do disposto nos n.os 2 e 3, nos casos em que por força do regime de bens do casal o PPR/E seja um bem comum, releva a situação pessoal de qualquer um dos cônjuges, independentemente do participante, admitindo-se o reembolso quando ocorra reforma por velhice ou por obtenção da idade de 60 anos pelo cônjuge não participante.\n\n7 - Por morte, aplicam-se as seguintes regras quanto ao reembolso:\n\na) Quando o autor da sucessão tenha sido o participante, pode ser exigido pelo cônjuge sobrevivo ou demais herdeiros legitimários, independentemente do regime de bens do casal, o reembolso da totalidade do valor do plano de poupança, salvo quando solução diversa resultar de testamento ou cláusula beneficiária a favor de terceiro, e sem prejuízo da instatibilidade da legítima;\n\nb) Quando o autor da sucessão tenha sido o cônjuge do participante e, por força do regime de bens do casal, o PPR/E seja um bem comum, pode ser exigido pelo cônjuge sobrevivo ou demais herdeiros o reembolso da quota-parte respeitante ao falecido.\n\n8 - A descrição objectiva dos casos previstos no n.º 1 e dos respectivos meios de prova, incluindo o das situações descritas nos n.os 6 e 7, será feita em portaria conjunta dos Ministros de Estado e das Finanças, da Educação, da Ciência e do Ensino Superior, da Saúde e da Segurança Social e do Trabalho.\n\n9 - Ao reembolso do valor do PPR aplicam-se todas as disposições dos números anteriores, com excepção da alínea f) do n.º 1.\n\n10 - Ao reembolso do valor do PPE aplicam-se todas as disposições dos números anteriores, com excepção das alíneas a) e e) do n.º 1, do n.º 6 e do n.º 9.\n\n11 - Para efeitos da alínea g) do n.º 1 são considerados:\n\na) Os contratos de crédito à aquisição, construção e realização de obras de conservação ordinária, extraordinária e de beneficiação de habitação própria e permanente;\n\nb) Os contratos de crédito à aquisição de terreno para construção de habitação própria e permanente;\n\nc) Os demais contratos de crédito garantidos por hipoteca sobre imóvel destinado a habitação própria e permanente do participante.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2013 - Diário da República n.º 126/2013, Série I de 2013-07-03](https://diariodarepublica.pt/dr/detalhe/lei/44-2013-497434), em vigor a partir de 2013-07-04, produz efeitos a partir de 2013-07-04\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 57/2012 - Diário da República n.º 217/2012, Série I de 2012-11-09](https://diariodarepublica.pt/dr/detalhe/lei/57-2012-191991), em vigor a partir de 2013-01-01, produz efeitos a partir de 2013-01-01"
+  },
+  "55240702": {
+   "fragment_id": "35245275",
+   "type": 11,
+   "heading": "Artigo 5.º — Modalidades de reembolso",
+   "in_force_from": "2013-07-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2013 - Diário da República n.º 126/2013, Série I de 2013-07-03](https://diariodarepublica.pt/dr/detalhe/lei/44-2013-497434), em vigor a partir de 2013-07-04, produz efeitos a partir de 2013-07-04"
+   ],
+   "markdown": "###### Artigo 5.º — Modalidades de reembolso\n\n1 - Nos casos previstos no artigo 4.º os participantes, herdeiros ou beneficiários podem optar pelas seguintes modalidades de reembolso:\n\na) Recebimento da totalidade ou de parte do valor do plano de poupança, de forma periódica ou não;\n\nb) Pensão vitalícia mensal;\n\nc) Qualquer conjugação das duas modalidades anteriores.\n\n2 - Porém, o reembolso ao abrigo da alínea f) do n.º 1 do artigo 4.º só pode ser efectuado uma vez em cada ano, e está sujeito aos limites por educando a fixar por portaria conjunta dos Ministros de Estado e das Finanças, da Educação e da Ciência e do Ensino Superior.\n\n3 - O reembolso ao abrigo da alínea g) do n.º 1 do artigo 4.º destina-se ao pagamento de prestações vencidas, incluindo capital, juros remuneratórios e moratórios, comissões e outras despesas conexas com o crédito à habitação, bem como ao pagamento de cada prestação vincenda à medida e na data em que esta se venha a vencer.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 44/2013 - Diário da República n.º 126/2013, Série I de 2013-07-03](https://diariodarepublica.pt/dr/detalhe/lei/44-2013-497434), em vigor a partir de 2013-07-04, produz efeitos a partir de 2013-07-04"
+  }
+ }
+}

@@ -1,0 +1,723 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:455161:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-973680194",
+ "dre_path": "/dr/detalhe/portaria/820-2008-455161",
+ "source_lastmod": "2026-02-11",
+ "versions": [
+  {
+   "date": "2008-08-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "973800175",
+    "973800375",
+    "973800575",
+    "973800775",
+    "973800975",
+    "973801175",
+    "973801375",
+    "973801575",
+    "973801775",
+    "973801975",
+    "973802175",
+    "973802375",
+    "973802575",
+    "973802775",
+    "973802975",
+    "973803175",
+    "973803375",
+    "973803575",
+    "973803775",
+    "973803975",
+    "973804175",
+    "973804375",
+    "973804575",
+    "973804775",
+    "973804975",
+    "973805175",
+    "973805375",
+    "973805575",
+    "973805775",
+    "973805975"
+   ]
+  },
+  {
+   "date": "2010-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:343948:por",
+     "title": "Portaria n.º 814/2010",
+     "published": "2010-08-27",
+     "dre_path": "/dr/detalhe/portaria/814-2010-343948"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Adita Artigo 14.º-B",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Revoga Artigo 23.º"
+   ],
+   "fragments": [
+    "973800175",
+    "973800375",
+    "973800575",
+    "973800775",
+    "973800975",
+    "973801175",
+    "973801375",
+    "973801575",
+    "973801775",
+    "973801975",
+    "973802175",
+    "1038914216",
+    "1038914208",
+    "973802775",
+    "1038914209",
+    "973803175",
+    "1038914210",
+    "973803575",
+    "1038914211",
+    "1038914212",
+    "973804175",
+    "1038914188",
+    "1038914198",
+    "1038914199",
+    "1038914200",
+    "1038914201",
+    "1038914213",
+    "1038914214",
+    "1038914204",
+    "1038914215",
+    "1038914206",
+    "1038914217"
+   ]
+  },
+  {
+   "date": "2011-06-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670056:por",
+     "title": "Portaria n.º 228/2011",
+     "published": "2011-06-09",
+     "dre_path": "/dr/detalhe/portaria/228-2011-670056"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "973800175",
+    "973800375",
+    "973800575",
+    "973800775",
+    "973800975",
+    "973801175",
+    "973801375",
+    "973801575",
+    "973801775",
+    "973801975",
+    "973802175",
+    "1038914216",
+    "1051075720",
+    "973802775",
+    "1038914209",
+    "973803175",
+    "1038914210",
+    "973803575",
+    "1038914211",
+    "1038914212",
+    "973804175",
+    "1038914188",
+    "1038914198",
+    "1038914199",
+    "1038914200",
+    "1038914201",
+    "1038914213",
+    "1051075721",
+    "1038914204",
+    "1051075722",
+    "1051075723",
+    "1038914217"
+   ]
+  },
+  {
+   "date": "2013-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:260416:por",
+     "title": "Portaria n.º 152/2013",
+     "published": "2013-04-17",
+     "dre_path": "/dr/detalhe/portaria/152-2013-260416"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "973800175",
+    "973800375",
+    "973800575",
+    "973800775",
+    "973800975",
+    "973801175",
+    "973801375",
+    "973801575",
+    "973801775",
+    "973801975",
+    "973802175",
+    "1038914216",
+    "1051075720",
+    "1051456156",
+    "1038914209",
+    "973803175",
+    "1038914210",
+    "973803575",
+    "1038914211",
+    "1038914212",
+    "973804175",
+    "1038914188",
+    "1038914198",
+    "1038914199",
+    "1038914200",
+    "1038914201",
+    "1038914213",
+    "1051075721",
+    "1038914204",
+    "1051075722",
+    "1051075723",
+    "1038914217"
+   ]
+  },
+  {
+   "date": "2013-08-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498497:por",
+     "title": "Portaria n.º 253/2013",
+     "published": "2013-08-07",
+     "dre_path": "/dr/detalhe/portaria/253-2013-498497"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "973800175",
+    "973800375",
+    "973800575",
+    "973800775",
+    "973800975",
+    "973801175",
+    "973801375",
+    "973801575",
+    "973801775",
+    "973801975",
+    "973802175",
+    "1038914216",
+    "1051075720",
+    "1058804375",
+    "1038914209",
+    "973803175",
+    "1038914210",
+    "973803575",
+    "1038914211",
+    "1038914212",
+    "973804175",
+    "1038914188",
+    "1038914198",
+    "1038914199",
+    "1038914200",
+    "1038914201",
+    "1038914213",
+    "1051075721",
+    "1038914204",
+    "1051075722",
+    "1051075723",
+    "1038914217"
+   ]
+  }
+ ],
+ "fragments": {
+  "973800175": {
+   "fragment_id": "973800075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A implementação do regadio de Alqueva promove o aproveitamento, pela agricultura, da reserva estratégica de água criada no âmbito do Empreendimento de Fins Múltiplos de Alqueva, adiante designado por EFMA ou Empreendimento, fornecendo, com regularidade, água de qualidade, e promovendo oportunidades alternativas de criação de riqueza que permitirão contrariar a desertificação humana existente na região do Alentejo, desenvolvendo sistemas de produção competitivos de modo ambientalmente sustentável.\n\nPretende-se, agora, concretizar o plano de infra-estruturação dos diferentes perímetros e blocos de rega do EFMA, promovendo a expansão de uma agricultura competitiva, orientada para o mercado, e que crie uma dimensão de oferta de produtos com maior valor acrescentado.\n\nNeste contexto, no âmbito do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER, foi aprovada a medida n.º 1.6, «Regadio e outras infra-estruturas colectivas», inserida no subprograma n.º 1, «Promoção da competitividade», onde se insere a acção n.º 1.6.2, «Regadio de Alqueva».\n\nEsta acção baseia-se numa actuação integrada de infra-estruturação, que se pretende inovadora, e de melhoria da estrutura fundiária nas áreas de intervenção. Os projectos a apoiar devem apresentar um benefício público, que se deverá traduzir numa racionalização acrescida e sustentada da utilização da água, na melhoria da gestão e conservação das infra-estruturas de regadio e no apoio ao desenvolvimento sustentado das regiões, procurando optimizar a aplicação dos recursos financeiros inerentes.\n\nAs novas áreas de regadio deverão garantir a sustentabilidade ambiental, basear-se em infra-estruturas de carácter inovador e mais eficientes, garantir o uso eficiente dos recursos hídricos no cumprimento da Directiva Quadro da Água, preservar a paisagem, minimizar os impactes, monitorizar a qualidade da água e do seu consumo, promover as boas práticas agrícolas e ser devidamente utilizadas em termos de áreas e opções culturais.\n\nA aprovação de projectos de investimento deverá ainda ter em linha de conta, para além dos aspectos de natureza ambiental, económica e estratégica, a necessidade de garantir a sua sustentabilidade através de uma gestão adequada dos perímetros de rega, de que a aplicação de um tarifário realista é um instrumento fundamental.\n\nA acção incide exclusivamente sobre intervenções colectivas, de natureza pública ou privada, na zona de influência de Alqueva (ZIA), disponibilizando os apoios necessários à construção das redes secundárias e demais infra-estruturas complementares do Empreendimento, em estreita articulação com o desenvolvimento das infra-estruturas primárias, da responsabilidade do Programa Operacional Temático de Valorização do Território (POTVT).\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no n.º 3 do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:"
+  },
+  "973800375": {
+   "fragment_id": "973800275",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento de Aplicação da Acção n.º 1.6.2, «Regadio de Alqueva», no âmbito da medida n.º 1.6, «Regadios e outras infra-estruturas colectivas», integrada no subprograma n.º 1, «Promoção da competitividade» do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER."
+  },
+  "973800575": {
+   "fragment_id": "973800475",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "973800775": {
+   "fragment_id": "973800675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Julho de 2008."
+  },
+  "973800975": {
+   "fragment_id": "973800875",
+   "type": 14,
+   "heading": "Anexo — Regulamento de Aplicação da Acção n.º 1.6.2, «Regadio de Alqueva»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento de Aplicação da Acção n.º 1.6.2, «Regadio de Alqueva»"
+  },
+  "973801175": {
+   "fragment_id": "973801075",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "973801375": {
+   "fragment_id": "973801275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da acção n.º 1.6.2, «Regadio de Alqueva», no âmbito da medida n.º 1.6, «Regadios e outras infra-estruturas colectivas», integrada no subprograma n.º 1, «Promoção da competitividade», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER."
+  },
+  "973801575": {
+   "fragment_id": "973801475",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nOs apoios previstos no presente Regulamento prosseguem os seguintes objectivos:\n\na) Disponibilizar água aos prédios rústicos incluídos nos blocos de rega do Empreendimento de Fins Múltiplos de Alqueva, adiante designado por EFMA ou Empreendimento, ou servidos por este através de sistemas de adução e de distribuição eficientes, de forma integrada com outras infra-estruturas;\n\nb) Promover melhores acessibilidades, através da construção e requalificação de caminhos agrícolas nas áreas beneficiadas pelo regadio;\n\nc) Dotar de energia eléctrica as infra-estruturas colectivas de regadio;\n\nd) Melhorar a estrutura fundiária, reduzindo a dispersão e fragmentação da propriedade rústica, de forma integrada com outras infra-estruturas, nos blocos que apresentem deficiências deste âmbito;\n\ne) Incentivar as novas tecnologias e promover a adaptação dos sistemas de produção ao ambiente."
+  },
+  "973801775": {
+   "fragment_id": "973801675",
+   "type": 11,
+   "heading": "Artigo 3.º — Área geográfica de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Área geográfica de aplicação\n\nO presente Regulamento tem aplicação exclusiva na zona de influência do EFMA."
+  },
+  "973801975": {
+   "fragment_id": "973801875",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos de aplicação do presente Regulamento, e para além das definições constantes do Decreto-Lei n.º 37-A/2008, de 5 de Março, entende-se por:\n\na) «Blocos de rega» as unidades de segunda ordem em que se divide a área a beneficiar pelo EFMA;\n\nb) «Capacidade técnica adequada» o conjunto de meios humanos e materiais indispensáveis para garantir a execução, gestão e acompanhamento do projecto;\n\nc) «Perímetros de rega» as unidades de primeira ordem em que se divide a área a beneficiar pelo EFMA;\n\nd) «Plano de investimento» o conjunto de acções que visam expressamente a conclusão e entrada em exploração de um perímetro ou bloco de rega;\n\ne) «Termo da operação» o ano da conclusão da operação, determinado no contrato de financiamento."
+  },
+  "973802175": {
+   "fragment_id": "973802075",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\nPodem beneficiar dos apoios previstos no presente Regulamento:\n\na) A EDIA - Empresa de Desenvolvimento e Infra-Estruturas do Alqueva, S. A., isoladamente ou em parceria com organismos da Administração Pública, associações de beneficiários ou outras pessoas colectivas que, estatutariamente, visem actividades relacionadas com o regadio na área do Alqueva;\n\nb) Associações de beneficiários e regantes ou outras pessoas colectivas que, estatutariamente, visem actividades relacionadas com o regadio na área do Alqueva."
+  },
+  "973802375": {
+   "fragment_id": "973802275",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos e cumprir as normas comunitárias relativas ao ambiente;\n\nc) Disporem de capacidade técnica adequada;\n\nd) Terem a situação regularizada face à administração fiscal e à segurança social;\n\ne) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\nf) Disporem de contabilidade actualizada e organizada de acordo com as especificações do Plano Oficial de Contabilidade."
+  },
+  "973802575": {
+   "fragment_id": "973802475",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\nPodem beneficiar dos apoios previstos no presente Regulamento os projectos de investimento que se enquadrem nos objectivos previstos no artigo 2.º e que reúnam as seguintes condições:\n\na) Incluam um plano de investimentos, constante do pedido de apoio, cujo prazo não ultrapasse o fim do período de vigência do PRODER, 31 de Dezembro de 2013;\n\nb) Apresentem viabilidade económica medida através do valor acrescentado bruto (VAB) superior a (euro) 550/ha/ano, para a área a beneficiar, obtidos por via dos planos culturais a desenvolver nos blocos de rega beneficiados, que respeitem as condições de natureza ambiental definidas, designadamente, em sede de procedimento de avaliação de impacto ambiental (AIA)."
+  },
+  "973802775": {
+   "fragment_id": "973802675",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis\n\nAs despesas elegíveis para efeitos do presente Regulamento são, designadamente, as seguintes:\n\na) Elaboração de estudos, projectos e acções de consultoria, nomeadamente jurídica, arqueológica e ambiental;\n\nb) Execução de obras, incluindo:\n\ni) Barragens e açudes;\n\nii) Estações elevatórias, reservatórios e respectivos equipamentos;\n\niii) Redes de transporte e distribuição de água para rega;\n\niv) Redes de enxugo e de drenagem;\n\nv) Obras de defesa contra cheias;\n\nvi) Rede viária;\n\nvii) Electrificação das infra-estruturas;\n\nviii) Acções de estruturação fundiária associadas à implementação de perímetros e blocos de rega, incluindo estudo prévio, elaboração e execução do projecto, indemnizações por perda de rendimento, colocação de marcos, titulação, inscrição e registo dos novos lotes;\n\nc) Expropriações e indemnizações necessárias à execução das obras até ao limite de 10 % da despesa elegível total da operação;\n\nd) Acompanhamento, assistência técnica e fiscalização das obras;\n\ne) Testagem das obras;\n\nf) Aperfeiçoamento técnico em projectos, obras e exploração de regadios;\n\ng) Instalação de sistemas de informação geográfica;\n\nh) Instalação de sistemas de monitorização do estado da água (qualidade e quantidade) e da eficiência da sua distribuição, bem como da degradação do solo;\n\ni) Realização de acções minimizadoras dos impactes ambientais;\n\nj) Implementação de cortinas de abrigo e medidas de enquadramento paisagístico;\n\nl) Implementação de medidas necessárias à segurança de barragens, açudes e reservatórios;\n\nm) Acções de dinamização da adesão ao regadio;\n\nn) Revisões de preços decorrentes da legislação aplicável, até ao limite de 5 % do montante sujeito."
+  },
+  "973802975": {
+   "fragment_id": "973802875",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\nOs beneficiários dos apoios previstos no presente Regulamento devem cumprir, para além das previstas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes obrigações:\n\na) Executar a operação nos termos e prazos fixados no contrato de financiamento;\n\nb) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nc) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da regulamentação comunitária e nacional aplicável e das orientações técnicas do PRODER;\n\nd) Cumprir as obrigações legais, designadamente as fiscais e relativas à segurança social;\n\ne) Cumprir as normas legais aplicáveis em matéria de segurança e higiene no trabalho;\n\nf) Manter um sistema de contabilidade nos termos previstos no artigo 6.º;\n\ng) Manter a actividade e as condições legais necessárias ao exercício da mesma, até ao termo da operação;\n\nh) Comunicar à autoridade de gestão do PRODER, a seguir designada autoridade de gestão, as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à aprovação do pedido de apoio;\n\ni) Evidenciar, de forma clara e a qualquer momento, todos os movimentos económicos e financeiros relacionados com a operação, através do recurso a contas de ordem ou da contabilidade analítica, ou outra qualquer desagregação contabilística que permita separar os movimentos da operação dos restantes movimentos contabilísticos;\n\nj) Não locar, alienar ou por qualquer forma onerar os equipamentos e as instalações co-financiadas durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\nl) Manter, devidamente organizados e até três anos após a data de encerramento do PRODER, todos os documentos originais susceptíveis de comprovar as informações e as declarações prestadas no âmbito do pedido de apoio, que fundamentaram as opções de investimento apresentadas, bem como os documentos comprovativos da realização das despesas, para consulta em qualquer momento pelos organismos intervenientes no processo de análise, acompanhamento e controlo das operações;\n\nm) Garantir que todos os pagamentos e recebimentos referentes à operação são feitos através da conta bancária específica para o efeito;\n\nn) Assegurar, por si ou por outra entidade pública ou privada, a gestão, exploração e conservação das infra-estruturas após a conclusão da obra nos termos da legislação hidroagrícola em vigor."
+  },
+  "973803175": {
+   "fragment_id": "973803075",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma e nível dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma e nível dos apoios\n\nOs apoios são concedidos sob a forma de subsídios não reembolsáveis, com um valor máximo de 100 % do investimento elegível."
+  },
+  "973803375": {
+   "fragment_id": "973803275",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de apoio que cumpram os critérios de elegibilidade que lhe são aplicáveis são avaliados de acordo com a aplicação dos seguintes factores:\n\na) Valia agrícola gerada pela implementação do regadio, determinada através do quociente entre o benefício líquido adicional e o investimento a realizar, actualizada à taxa de refinanciamento do Banco Central Europeu;\n\nb) Razoabilidade dos custos, a aferir pelos valores constantes de tabela validada pela Autoridade Nacional do Regadio;\n\nc) Contribuição da operação para a obtenção das metas previstas na acção, através do aumento de área regada, promovido pelo perímetro objecto da operação, relativamente ao aumento total previsto pelo EFMA, e do consumo médio unitário de água de rega previsto para o perímetro objecto de operação relativamente ao indicador nacional;\n\nd) Complementaridade da operação com as intervenções realizadas ou a realizar com o apoio do Programa Operacional Temático de Valorização do Território (POTVT), permitindo a interligação entre as redes primária e secundária do EFMA e consequente operacionalização da rede secundária de rega.\n\n2 - A cada critério de selecção são atribuídos pontos, numa escala de 0 a 5, podendo cada pedido de apoio perfazer 20 pontos no total.\n\n3 - Não são aprovados os pedidos de apoio cuja pontuação seja inferior a 10."
+  },
+  "973803575": {
+   "fragment_id": "973803475",
+   "type": 1,
+   "heading": "Capítulo II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimento"
+  },
+  "973803775": {
+   "fragment_id": "973803675",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação dos pedidos de apoio\n\nA apresentação dos pedidos de apoio efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, considerando-se a data do envio como a data de apresentação do pedido de apoio."
+  },
+  "973803975": {
+   "fragment_id": "973803875",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise dos pedidos de apoio\n\n1 - O secretariado técnico da autoridade de gestão do PRODER, a seguir designado secretariado técnico, analisa e emite parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário e da operação, bem como a aplicação dos factores referidos no n.º 1 do artigo 11.º e o apuramento do montante do custo total elegível.\n\n2 - São solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, que devem ser prestados no prazo de 20 dias úteis, decorridos os quais a ausência de resposta constitui fundamento de não aprovação do pedido.\n\n3 - Para efeitos da análise técnica, quando necessário, podem ser solicitados pareceres especializados junto de organismos do MADRP, de acordo com as respectivas competências, ou a entidades externas.\n\n4 - O parecer referido no n.º 1 é emitido no prazo máximo de 90 dias úteis a contar da data de recepção dos pedidos de apoio.\n\n5 - O gestor elabora proposta de decisão que envia ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "973804175": {
+   "fragment_id": "973804075",
+   "type": 11,
+   "heading": "Artigo 14.º — Decisão dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Decisão dos pedidos de apoio\n\nOs pedidos de apoio são objecto de decisão pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sendo a mesma notificada aos candidatos pelo gestor, no prazo máximo de cinco dias úteis após a sua recepção."
+  },
+  "973804375": {
+   "fragment_id": "973804275",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário ou beneficiários e o IFAP, I. P.\n\n2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data da notificação, pelo gestor, da decisão do Ministro, o qual dispõe de 20 dias úteis para devolução do mesmo devidamente firmado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março."
+  },
+  "973804575": {
+   "fragment_id": "973804475",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução das operações\n\n1 - A execução da operação rege-se pela legislação hidroagrícola em vigor, e demais legislação complementar, a legislação de reestruturação fundiária em vigor, bem como pela legislação ambiental, nacional e comunitária aplicável.\n\n2 - O prazo máximo para os beneficiários iniciarem a execução física das operações é de seis meses, contado a partir da data da assinatura do contrato de financiamento, e termina na data fixada no plano de investimento apresentado para a sua conclusão, não podendo ultrapassar 31 de Dezembro de 2013.\n\n3 - Em casos excepcionais e devidamente justificados a autoridade de gestão pode autorizar a prorrogação dos prazos estabelecidos no número anterior."
+  },
+  "973804775": {
+   "fragment_id": "973804675",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração do projecto\n\n1 - Podem ser efectuadas alterações do projecto mediante a apresentação de um pedido de alterações, em situações excepcionais, nomeadamente a suspensão de trabalhos, alteração do calendário de execução ou a modificação das condições de execução.\n\n2 - Os pedidos de alteração à decisão devem ser formalizados mediante a apresentação de nota justificativa, contendo síntese das alterações solicitadas e informação detalhada sobre os respectivos fundamentos.\n\n3 - Se o pedido de alteração incluir o aumento do montante global da operação, este deve ser devidamente suportado pelos documentos comprovativos.\n\n4 - A alteração referida no número anterior poderá dar lugar a nova decisão de financiamento, de acordo com o artigo 13.º"
+  },
+  "973804975": {
+   "fragment_id": "973804875",
+   "type": 11,
+   "heading": "Artigo 18.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efectua-se, mensalmente até ao dia 20 de cada mês, através de formulário electrónico disponível no sítio da Internet, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas, devendo os comprovativos das mesmas ser entregues no secretariado técnico, bem como, quando aplicável, a documentação do procedimento estipulado na alínea b) do artigo 9.º, nos termos das cláusulas contratuais e dos números seguintes, no prazo de cinco dias úteis.\n\n3 - Apenas são aceites os pedidos de pagamento relativos a despesas liquidadas por transferência bancária ou, excepcionalmente, por cheque até ao máximo de (euro) 1 500 000, comprovadas pelo respectivo extracto bancário demonstrativo do pagamento.\n\n4 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, até ao montante máximo de 20 % do apoio.\n\n5 - O pagamento é proporcional à realização do investimento elegível e às demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 5 % da despesa total elegível da operação."
+  },
+  "973805175": {
+   "fragment_id": "973805075",
+   "type": 11,
+   "heading": "Artigo 19.º — Análise dos pedidos de pagamento e autorização da despesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Análise dos pedidos de pagamento e autorização da despesa\n\n1 - O secretariado técnico analisa os pedidos de pagamento que devem dar entrada neste o mais tardar 27 meses após a assinatura do respectivo contrato de financiamento, excepto nos casos previstos no n.º 3 do artigo 16.º, em que o pedido de pagamento do saldo deve ser apresentado três meses após o fim do prazo de prorrogação autorizado.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, que devem ser prestados no prazo de 10 dias úteis, decorridos os quais a ausência de resposta constitui fundamento de não aprovação do pedido.\n\n3 - Da análise referida no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação do respectivo pedido de pagamento.\n\n4 - São realizadas visitas aos locais da operação durante o seu período de execução.\n\n5 - Para efeitos de pagamento ao beneficiário, o gestor emite as autorizações de despesa validada e envia-as ao IFAP, I. P."
+  },
+  "973805375": {
+   "fragment_id": "973805275",
+   "type": 11,
+   "heading": "Artigo 20.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pagamento\n\n1 - Os pagamentos dos apoios são efectuados pelo IFAP, I.P., por transferência bancária, para a conta bancária referida na alínea m) do artigo 9.º, nos termos das cláusulas contratuais e no prazo de 10 dias úteis após a emissão da autorização da despesa.\n\n2 - Quando o investimento elegível final for inferior ao aprovado, o apoio atribuído é ajustado, de modo proporcional, ao investimento realizado."
+  },
+  "973805575": {
+   "fragment_id": "973805475",
+   "type": 11,
+   "heading": "Artigo 21.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Controlo\n\n1 - O projecto está sujeito a controlos, a efectuar durante a execução da operação e até 24 meses após a realização do pagamento final.\n\n2 - Caso o período compreendido entre a data de assinatura do contrato de financiamento e a data limite definida no número anterior seja inferior a cinco anos, passará a ser considerado este prazo para a sua execução.\n\n3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo elaborado o respectivo relatório da visita, do qual deve ser notificado o beneficiário, que tem 10 dias úteis para se pronunciar sobre o mesmo."
+  },
+  "973805775": {
+   "fragment_id": "973805675",
+   "type": 11,
+   "heading": "Artigo 22.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reduções e exclusões\n\nEm caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (CE) n.º 1975/2006, da Comissão, de 7 de Dezembro."
+  },
+  "973805975": {
+   "fragment_id": "973805875",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Disposição transitória\n\n1 - As despesas efectuadas após 1 de Janeiro de 2007 são consideradas elegíveis quando sejam satisfeitas cumulativamente as seguintes condições:\n\na) Os candidatos apresentem os pedidos de apoio de acordo com o artigo 12.º;\n\nb) As respectivas operações não estejam concluídas antes da data da aprovação do pedido de apoio.\n\n2 - Às despesas referidas no n.º 1 não é aplicável o disposto na alínea m) do artigo 9.º, nem o limite dos pagamentos efectuados por cheque, desde que esses pagamentos tenham sido efectuados anteriormente à publicação do presente Regulamento."
+  },
+  "1038914216": {
+   "fragment_id": "973802275",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28, produz efeitos a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos aos apoios previstos no presente Regulamento devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos;\n\nb) Cumprirem as condições legais necessárias ao exercício da respectiva actividade, nomeadamente terem a situação regularizada em matéria de licenciamentos e cumprir as normas comunitárias relativas ao ambiente;\n\nc) Disporem de capacidade técnica adequada;\n\nd) [Revogada.]\n\ne) Não estarem abrangidos por quaisquer disposições de exclusão resultantes do incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\nf) [Revogada.]\n\n> Alterado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28, produz efeitos a partir de 2010-01-01"
+  },
+  "1038914208": {
+   "fragment_id": "973802475",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos no presente Regulamento os projectos de investimento que se enquadrem nos objectivos previstos no artigo 2.º e que reúnam as seguintes condições:\n\na) Incluam um plano de investimentos, constante do pedido de apoio, cujo prazo não ultrapasse o fim do período de vigência do PRODER, 31 de Dezembro de 2013;\n\nb) Apresentem viabilidade económica medida através do valor acrescentado bruto (VAB) superior a (euro) 550/ha/ano, para a área a beneficiar, obtidos por via dos planos culturais a desenvolver nos blocos de rega beneficiados, que respeitem as condições de natureza ambiental definidas, designadamente, em sede de procedimento de avaliação de impacto ambiental (AIA).\n\n2 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem, desde que as respectivas operações não estejam concluídas antes da aprovação dos pedidos de apoio.\n\n3 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914209": {
+   "fragment_id": "973802875",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\nOs beneficiários dos apoios previstos no presente Regulamento devem cumprir, para além das previstas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes obrigações:\n\na) Executar a operação nos termos e prazos fixados no contrato de financiamento;\n\nb) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nc) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da regulamentação comunitária e nacional aplicável e das orientações técnicas do PRODER;\n\nd) Cumprir as obrigações legais, designadamente as fiscais e relativas à segurança social;\n\ne) Cumprir as normas legais aplicáveis em matéria de segurança e higiene no trabalho;\n\nf) Ter um sistema de contabilidade organizada ou simplificada de acordo com o legalmente exigido;\n\ng) Manter a actividade e as condições legais necessárias ao exercício da mesma, até ao termo da operação;\n\nh) Comunicar à autoridade de gestão do PRODER, a seguir designada autoridade de gestão, as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à aprovação do pedido de apoio;\n\ni) Evidenciar, de forma clara e a qualquer momento, todos os movimentos económicos e financeiros relacionados com a operação, através do recurso a contas de ordem ou da contabilidade analítica, ou outra qualquer desagregação contabilística que permita separar os movimentos da operação dos restantes movimentos contabilísticos;\n\nj) Não locar, alienar ou por qualquer forma onerar os equipamentos e as instalações co-financiadas durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, se tal termo ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;\n\nl) Manter, devidamente organizados e até três anos após a data de encerramento do PRODER, todos os documentos originais susceptíveis de comprovar as informações e as declarações prestadas no âmbito do pedido de apoio, que fundamentaram as opções de investimento apresentadas, bem como os documentos comprovativos da realização das despesas, para consulta em qualquer momento pelos organismos intervenientes no processo de análise, acompanhamento e controlo das operações;\n\nm) Garantir que todos os pagamentos e recebimentos referentes à operação são feitos através da conta bancária específica para o efeito;\n\nn) Assegurar, por si ou por outra entidade pública ou privada, a gestão, exploração e conservação das infra-estruturas após a conclusão da obra nos termos da legislação hidroagrícola em vigor.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914210": {
+   "fragment_id": "973803275",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 11.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de apoio que cumpram os critérios de elegibilidade que lhe são aplicáveis são avaliados de acordo com a aplicação dos seguintes factores:\n\na) Valia agrícola gerada pela implementação do regadio, determinada através do quociente entre o benefício líquido adicional e o investimento a realizar, actualizada à taxa de refinanciamento do Banco Central Europeu;\n\nb) Razoabilidade dos custos, a aferir pelos valores constantes de tabela validada pela Autoridade Nacional do Regadio;\n\nc) Contribuição da operação para a obtenção das metas previstas na acção, através do aumento de área regada, promovido pelo perímetro objecto da operação, relativamente ao aumento total previsto pelo EFMA, e do consumo médio unitário de água de rega previsto para o perímetro objecto de operação relativamente ao indicador nacional;\n\nd) Complementaridade da operação com as intervenções realizadas ou a realizar com o apoio do Programa Operacional Temático de Valorização do Território (POTVT), permitindo a interligação entre as redes primária e secundária do EFMA e consequente operacionalização da rede secundária de rega.\n\n2 - A cada critério de selecção são atribuídos pontos, numa escala de 0 a 5, podendo cada pedido de apoio perfazer 20 pontos no total.\n\n3 - Não são aprovados os pedidos de apoio cuja pontuação seja inferior a 10.\n\n4 - A alteração dos critérios de selecção referidos nos números anteriores, aprovada em conformidade com o procedimento legalmente previsto, é divulgada no sítio do PRODER, em www.proder.pt.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914211": {
+   "fragment_id": "973803675",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação dos pedidos de apoio",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 12.º — Apresentação dos pedidos de apoio\n\n1 - A apresentação dos pedidos de apoio efectua-se através de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, e estão sujeitos a confirmação por via electrónica, considerando-se a data do envio como a data de apresentação do pedido de apoio.\n\n2 - Os pedidos de apoio são submetidos, ao abrigo do disposto no artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, na modalidade de concurso, de período definido ou de período contínuo, consoante decisão do gestor, sendo os respectivos períodos de abertura divulgados pela autoridade de gestão com uma antecedência não inferior a 10 dias seguidos relativamente ao início do prazo de submissão.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914212": {
+   "fragment_id": "973803875",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise dos pedidos de apoio",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 13.º — Análise dos pedidos de apoio\n\n1 - O secretariado técnico da autoridade de gestão do PRODER, a seguir designado secretariado técnico, analisa e emite parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário e da operação, bem como a aplicação dos factores referidos no n.º 1 do artigo 11.º e o apuramento do montante do custo total elegível.\n\n2 - São solicitados aos candidatos, quando se justifique, pelo secretariado técnico, os documentos exigidos ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamentos para a não aprovação do pedido.\n\n3 - Para efeitos da análise técnica, quando necessário, podem ser solicitados pareceres especializados junto de organismos do MADRP, de acordo com as respectivas competências, ou a entidades externas.\n\n4 - O parecer referido no n.º 1 é emitido no prazo máximo de 90 dias úteis a contar da data de recepção dos pedidos de apoio.\n\n5 - Após audição da comissão de gestão, o gestor elabora proposta de decisão, que envia ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas para decisão.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914188": {
+   "fragment_id": "1039064261",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Avisos de abertura e anúncios",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 10.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 14.º-A — Avisos de abertura e anúncios\n\n1 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objectivos e as prioridades visadas;\n\nb) A tipologia das operações a apoiar;\n\nc) A área geográfica elegível;\n\nd) O prazo para apresentação dos pedidos de apoio;\n\ne) A dotação orçamental a atribuir;\n\nf) A forma e nível dos apoios a conceder, respeitando o disposto no artigo 10.º;\n\ng) Os critérios de selecção e respectivos factores e fórmulas, em função dos objectivos e prioridade fixados.\n\n2 - Os avisos de abertura dos concursos e os anúncios dos períodos de apresentação dos pedidos de apoio são divulgados em www.proder.pt e publicitados em dois órgãos de comunicação social.\n\n> Aditado pelo/a Artigo 10.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914198": {
+   "fragment_id": "1039064262",
+   "type": 11,
+   "heading": "Artigo 14.º-B — Readmissão de pedidos de apoio",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Aditado pelo/a Artigo 10.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 14.º-B — Readmissão de pedidos de apoio\n\nOs pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental podem, mediante decisão do gestor, ser aprovados em caso de disponibilidade orçamental, de acordo com a hierarquização obtida no respectivo concurso ou período.\n\n> Aditado pelo/a Artigo 10.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914199": {
+   "fragment_id": "973804275",
+   "type": 11,
+   "heading": "Artigo 15.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário ou beneficiários e o IFAP, I. P.\n\n2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data da notificação, pelo gestor, da decisão do Ministro, o qual dispõe de 20 dias úteis para devolução do mesmo devidamente firmado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março."
+  },
+  "1038914200": {
+   "fragment_id": "973804475",
+   "type": 11,
+   "heading": "Artigo 16.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução das operações\n\n1 - A execução da operação rege-se pela legislação hidroagrícola em vigor, e demais legislação complementar, a legislação de reestruturação fundiária em vigor, bem como pela legislação ambiental, nacional e comunitária aplicável.\n\n2 - O prazo máximo para os beneficiários iniciarem a execução física das operações é de seis meses, contado a partir da data da assinatura do contrato de financiamento, e termina na data fixada no plano de investimento apresentado para a sua conclusão, não podendo ultrapassar 31 de Dezembro de 2013.\n\n3 - Em casos excepcionais e devidamente justificados a autoridade de gestão pode autorizar a prorrogação dos prazos estabelecidos no número anterior."
+  },
+  "1038914201": {
+   "fragment_id": "973804675",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração do projecto\n\n1 - Podem ser efectuadas alterações do projecto mediante a apresentação de um pedido de alterações, em situações excepcionais, nomeadamente a suspensão de trabalhos, alteração do calendário de execução ou a modificação das condições de execução.\n\n2 - Os pedidos de alteração à decisão devem ser formalizados mediante a apresentação de nota justificativa, contendo síntese das alterações solicitadas e informação detalhada sobre os respectivos fundamentos.\n\n3 - Se o pedido de alteração incluir o aumento do montante global da operação, este deve ser devidamente suportado pelos documentos comprovativos.\n\n4 - A alteração referida no número anterior poderá dar lugar a nova decisão de financiamento, de acordo com o artigo 13.º"
+  },
+  "1038914213": {
+   "fragment_id": "973804875",
+   "type": 11,
+   "heading": "Artigo 18.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 18.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet do IFAP, I. P., em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas, devendo os comprovativos das mesmas ser entregues no secretariado técnico, bem como, quando aplicável, a documentação do procedimento estipulado na alínea b) do artigo 9.º, nos termos das cláusulas contratuais e dos números seguintes, no prazo de cinco dias úteis.\n\n3 - Apenas são aceites os pedidos de pagamento relativos a despesas efectuadas por transferência bancária, débito em conta ou cheques, comprovados pelo respectivo extracto bancário demonstrativo do pagamento, nos termos previstos nas cláusulas contratuais e nos números seguintes.\n\n4 - Quando previsto no contrato de financiamento, pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, mediante a constituição de caução correspondente a 110 % do montante do adiantamento.\n\n5 - O pagamento é proporcional à realização do investimento elegível e às demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 5 % da despesa total elegível da operação.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914214": {
+   "fragment_id": "973805075",
+   "type": 11,
+   "heading": "Artigo 19.º — Análise dos pedidos de pagamento",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 19.º — Análise dos pedidos de pagamento\n\n1 - O secretariado técnico analisa os pedidos de pagamento e emite relatório de análise no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamentos para a não aprovação do pedido.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - São realizadas visitas aos locais da operação durante o seu período de execução.\n\n5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914204": {
+   "fragment_id": "973805275",
+   "type": 11,
+   "heading": "Artigo 20.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pagamento\n\n1 - Os pagamentos dos apoios são efectuados pelo IFAP, I.P., por transferência bancária, para a conta bancária referida na alínea m) do artigo 9.º, nos termos das cláusulas contratuais e no prazo de 10 dias úteis após a emissão da autorização da despesa.\n\n2 - Quando o investimento elegível final for inferior ao aprovado, o apoio atribuído é ajustado, de modo proporcional, ao investimento realizado."
+  },
+  "1038914215": {
+   "fragment_id": "973805475",
+   "type": 11,
+   "heading": "Artigo 21.º — Controlo",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 21.º — Controlo\n\n1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.\n\n2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.\n\n3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1038914206": {
+   "fragment_id": "973805675",
+   "type": 11,
+   "heading": "Artigo 22.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reduções e exclusões\n\nEm caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (CE) n.º 1975/2006, da Comissão, de 7 de Dezembro."
+  },
+  "1038914217": {
+   "fragment_id": "973805875",
+   "type": 11,
+   "heading": "Artigo 23.º — Disposição transitória",
+   "in_force_from": "2010-08-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 23.º — Disposição transitória\n\n1 - As despesas efectuadas após 1 de Janeiro de 2007 são consideradas elegíveis quando sejam satisfeitas cumulativamente as seguintes condições:\n\na) Os candidatos apresentem os pedidos de apoio de acordo com o artigo 12.º;\n\nb) As respectivas operações não estejam concluídas antes da data da aprovação do pedido de apoio.\n\n2 - Às despesas referidas no n.º 1 não é aplicável o disposto na alínea m) do artigo 9.º, nem o limite dos pagamentos efectuados por cheque, desde que esses pagamentos tenham sido efectuados anteriormente à publicação do presente Regulamento.\n\n> Revogado pelo/a Artigo 38.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1051075720": {
+   "fragment_id": "973802475",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2011-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10",
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos no presente Regulamento os projectos de investimento que se enquadrem nos objectivos previstos no artigo 2.º e que reúnam as seguintes condições:\n\na) Incluam um plano de investimentos, constante do pedido de apoio, cujo prazo não ultrapasse o fim do período de vigência do PRODER, 31 de Dezembro de 2013;\n\nb) Apresentem viabilidade económica medida através do valor acrescentado bruto (VAB) superior a (euro) 550/ha/ano, para a área a beneficiar, obtidos por via dos planos culturais a desenvolver nos blocos de rega beneficiados, que respeitem as condições de natureza ambiental definidas, designadamente, em sede de procedimento de avaliação de impacto ambiental (AIA).\n\n2 - São elegíveis as despesas das operações anteriores à apresentação do pedido de apoio, quando efectuadas após a data de encerramento do último concurso ou do último período de apresentação de pedidos de apoio a que respeitem.\n\n3 - Excepcionalmente, e dentro dos limites da elegibilidade temporal do programa, o aviso pode alargar o período de elegibilidade das despesas.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1051075721": {
+   "fragment_id": "973805075",
+   "type": 11,
+   "heading": "Artigo 19.º — Análise dos pedidos de pagamento",
+   "in_force_from": "2011-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10",
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 19.º — Análise dos pedidos de pagamento\n\n1 - O secretariado técnico analisa os pedidos de pagamento e emite relatório de análise no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamentos para a não aprovação do pedido.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.\n\n5 - Para efeitos de pagamento ao beneficiário, o secretariado técnico comunica a validação da despesa ao IFAP, I. P.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1051075722": {
+   "fragment_id": "973805475",
+   "type": 11,
+   "heading": "Artigo 21.º — Controlo",
+   "in_force_from": "2011-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10",
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+   ],
+   "markdown": "###### Artigo 21.º — Controlo\n\n1 - A operação está sujeita a acções de controlo a partir da data da celebração de contrato de financiamento, nos termos previstos no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro, nomea-damente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º 1698/2005, do Conselho, de 20 de Setembro.\n\n2 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 814/2010 - Diário da República n.º 167/2010, Série I de 2010-08-27](https://diariodarepublica.pt/dr/detalhe/portaria/814-2010-343948), em vigor a partir de 2010-08-28"
+  },
+  "1051075723": {
+   "fragment_id": "973805675",
+   "type": 11,
+   "heading": "Artigo 22.º — Reduções e exclusões",
+   "in_force_from": "2011-06-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10"
+   ],
+   "markdown": "###### Artigo 22.º — Reduções e exclusões\n\nEm caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (UE) n.º 65/2011, da Comissão, de 27 de Janeiro.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 228/2011 - Diário da República n.º 112/2011, Série I de 2011-06-09](https://diariodarepublica.pt/dr/detalhe/portaria/228-2011-670056), em vigor a partir de 2011-06-10"
+  },
+  "1051456156": {
+   "fragment_id": "973802675",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis",
+   "in_force_from": "2013-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2013 - Diário da República n.º 75/2013, Série I de 2013-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416), em vigor a partir de 2013-04-18"
+   ],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis\n\nAs despesas elegíveis para efeitos do presente Regulamento são, designadamente, as seguintes:\n\na) Elaboração de estudos, projectos e acções de consultoria, nomeadamente jurídica, arqueológica e ambiental;\n\nb) Execução de obras, incluindo:\n\ni) Barragens e açudes;\n\nii) Estações elevatórias, reservatórios e respectivos equipamentos;\n\niii) Redes de transporte e distribuição de água para rega;\n\niv) Redes de enxugo e de drenagem;\n\nv) Obras de defesa contra cheias;\n\nvi) Rede viária;\n\nvii) Electrificação das infra-estruturas;\n\nviii) Acções de estruturação fundiária associadas à implementação de perímetros e blocos de rega, incluindo estudo prévio, elaboração e execução do projecto, indemnizações por perda de rendimento, colocação de marcos, titulação, inscrição e registo dos novos lotes;\n\nc) Expropriações e indemnizações necessárias à execução das obras até ao limite de 10 % da despesa elegível total da operação;\n\nd) Acompanhamento, assistência técnica e fiscalização das obras;\n\ne) Testagem das obras;\n\nf) Aperfeiçoamento técnico em projectos, obras e exploração de regadios;\n\ng) Instalação de sistemas de informação geográfica;\n\nh) Instalação de sistemas de monitorização do estado da água (qualidade e quantidade) e da eficiência da sua distribuição, bem como da degradação do solo;\n\ni) Realização de acções minimizadoras dos impactes ambientais;\n\nj) Implementação de cortinas de abrigo e medidas de enquadramento paisagístico;\n\nl) Implementação de medidas necessárias à segurança de barragens, açudes e reservatórios;\n\nm) Acções de dinamização da adesão ao regadio;\n\nn) Revisões de preços decorrentes da legislação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2013 - Diário da República n.º 75/2013, Série I de 2013-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416), em vigor a partir de 2013-04-18"
+  },
+  "1058804375": {
+   "fragment_id": "973802675",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis",
+   "in_force_from": "2013-08-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 253/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), em vigor a partir de 2013-08-08.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2013 - Diário da República n.º 75/2013, Série I de 2013-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416), em vigor a partir de 2013-04-18"
+   ],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis\n\nAs despesas elegíveis para efeitos do presente Regulamento são, designadamente, as seguintes:\n\na) Elaboração de estudos, projectos e acções de consultoria, nomeadamente jurídica, arqueológica e ambiental;\n\nb) Execução de obras, incluindo:\n\ni) Barragens e açudes;\n\nii) Estações elevatórias, reservatórios e respectivos equipamentos;\n\niii) Redes de transporte e distribuição de água para rega;\n\niv) Redes de enxugo e de drenagem;\n\nv) Obras de defesa contra cheias;\n\nvi) Rede viária;\n\nvii) Electrificação das infra-estruturas;\n\nviii) Acções de estruturação fundiária associadas à implementação de perímetros e blocos de rega, incluindo estudo prévio, elaboração e execução do projecto, indemnizações por perda de rendimento, colocação de marcos, titulação, inscrição e registo dos novos lotes;\n\nc) Expropriações e indemnizações necessárias à execução das obras até 10% do valor elegível aprovado da operação;\n\nd) Acompanhamento, assistência técnica e fiscalização das obras;\n\ne) Testagem das obras;\n\nf) Aperfeiçoamento técnico em projectos, obras e exploração de regadios;\n\ng) Instalação de sistemas de informação geográfica;\n\nh) Instalação de sistemas de monitorização do estado da água (qualidade e quantidade) e da eficiência da sua distribuição, bem como da degradação do solo;\n\ni) Realização de acções minimizadoras dos impactes ambientais;\n\nj) Implementação de cortinas de abrigo e medidas de enquadramento paisagístico;\n\nl) Implementação de medidas necessárias à segurança de barragens, açudes e reservatórios;\n\nm) Acções de dinamização da adesão ao regadio;\n\nn) Revisões de preços decorrentes da legislação aplicável.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 253/2013 - Diário da República n.º 151/2013, Série I de 2013-08-07](https://diariodarepublica.pt/dr/detalhe/portaria/253-2013-498497), em vigor a partir de 2013-08-08.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 152/2013 - Diário da República n.º 75/2013, Série I de 2013-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/152-2013-260416), em vigor a partir de 2013-04-18"
+  }
+ }
+}

@@ -1,0 +1,545 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:574566:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34540575",
+ "dre_path": "/dr/detalhe/decreto-lei/69-2005-574566",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-03-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "47860775",
+    "47860875",
+    "47860975",
+    "47861075",
+    "47861175",
+    "47861275",
+    "47861375",
+    "47861475",
+    "47861575",
+    "47861675",
+    "47861775",
+    "47861875",
+    "47861975",
+    "47862075",
+    "47862175",
+    "47862275",
+    "47862375",
+    "47862475",
+    "47862575",
+    "47862675",
+    "47862775",
+    "47862875",
+    "47862975",
+    "47863075",
+    "47863175",
+    "47863275",
+    "47863375",
+    "47863475",
+    "47863575",
+    "47863675",
+    "47863775",
+    "47863875",
+    "47863975",
+    "47864075",
+    "47864175",
+    "47864275",
+    "47864375",
+    "47864475",
+    "47864575",
+    "47864675"
+   ]
+  },
+  {
+   "date": "2007-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520996:por",
+     "title": "Decreto Regulamentar n.º 57/2007",
+     "published": "2007-04-27",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/57-2007-520996"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "47860775",
+    "47860875",
+    "47860975",
+    "47861075",
+    "47861175",
+    "47861275",
+    "47861375",
+    "47861475",
+    "47861575",
+    "47861675",
+    "47861775",
+    "47861875",
+    "47861975",
+    "156697098",
+    "47862175",
+    "47862275",
+    "47862375",
+    "47862475",
+    "47862575",
+    "47862675",
+    "47862775",
+    "47862875",
+    "47862975",
+    "47863075",
+    "47863175",
+    "47863275",
+    "47863375",
+    "47863475",
+    "47863575",
+    "47863675",
+    "47863775",
+    "47863875",
+    "47863975",
+    "47864075",
+    "47864175",
+    "47864275",
+    "47864375",
+    "47864475",
+    "47864575",
+    "47864675",
+    "47864775"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "47860775",
+    "47860875",
+    "47860975",
+    "47861075",
+    "47861175",
+    "47861275",
+    "47861375",
+    "47861475",
+    "47861575",
+    "47861675",
+    "47861775",
+    "47861875",
+    "47861975",
+    "156697098",
+    "47862175",
+    "47862275",
+    "47862375",
+    "47862475",
+    "47862575",
+    "47862675",
+    "47862775",
+    "47862875",
+    "47862975",
+    "47863075",
+    "47863175",
+    "47863275",
+    "47863375",
+    "47863475",
+    "47863575",
+    "47863675",
+    "47863775",
+    "156697099",
+    "156697100",
+    "156697101",
+    "47864175",
+    "47864275",
+    "47864375",
+    "47864475",
+    "47864575",
+    "47864675",
+    "47864775"
+   ]
+  }
+ ],
+ "fragments": {
+  "47860775": {
+   "fragment_id": "35160375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A segurança dos produtos e serviços colocados no mercado constitui elemento fundamental de garantia do respeito pelos direitos dos consumidores consagrados na Constituição e na lei, com especial destaque para o direito à protecção da saúde e da sua segurança física.\n\nA Directiva n.º <a href=\"eurlex.asp?ano=1992&id=392L0059\" title=\"Link para Directiva da Comunidade Europeia\">92/59/CEE</a>, do Conselho, de 29 de Junho, veio introduzir ao nível da Comunidade Europeia uma obrigação geral de segurança dos produtos. Esta directiva foi transposta para o direito nacional através do Decreto-Lei n.º 311/95, de 20 de Novembro, diploma que em Portugal passou a regular, genericamente, a matéria da segurança geral dos produtos, mantendo-se em vigor, no respeitante à segurança dos serviços, as disposições do Decreto-Lei n.º 213/87, de 28 de Maio.\n\nEm finais de 2001, o Parlamento Europeu e o Conselho adoptaram uma nova directiva sobre segurança geral de produtos que, revogando a Directiva n.º <a href=\"eurlex.asp?ano=1992&id=392L0059\" title=\"Link para Directiva da Comunidade Europeia\">92/59/CEE</a>, entre outros aspectos, visa abranger todos os produtos colocados no mercado, incluindo aqueles que são utilizados para a prestação de um serviço. A Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0095\" title=\"Link para Directiva da Comunidade Europeia\">2001/95/CE</a>, do Parlamento Europeu e do Conselho, de 3 de Dezembro, relativa à segurança geral dos produtos, estabelece uma clara definição das obrigações dos produtores e dos distribuidores em matéria de segurança geral dos produtos, aprofundando a sua responsabilização, nomeadamente pela inclusão da obrigação de retirada do mercado e de recolha de produtos perigosos junto dos consumidores. Por outro lado, visa assegurar maior transparência através da instituição da obrigação, que incumbe aos produtores e distribuidores, de informar as autoridades e colaborar com elas se os produtos forem perigosos.\n\nO presente diploma transpõe para a ordem jurídica nacional a directiva mencionada, criando, ainda, a Comissão de Segurança de Serviços e Bens de Consumo, que sucede nas atribuições à extinta Comissão de Segurança e elege como ponto de contacto nacional, para efeitos do funcionamento do sistema de troca rápida de informações (RAPEX), o Instituto do Consumidor, organismo incumbido de um conjunto de tarefas especificadas.\n\nO diploma estabelece, também, os procedimentos internos que devem ser adoptados pelas entidades de controlo de mercado relativamente aos produtos nele colocados.\n\nO regime previsto no presente diploma aplica-se, igualmente, com as necessárias adaptações, aos serviços destinados aos consumidores e que não sejam abrangidos por legislação especial reguladora da dos respectivos requisitos de segurança.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 24/96, de 31 de Julho, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "47860875": {
+   "fragment_id": "35663375",
+   "type": 1,
+   "heading": "Capítulo I — Do objecto, do âmbito de aplicação e das definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Do objecto, do âmbito de aplicação e das definições"
+  },
+  "47860975": {
+   "fragment_id": "37095375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece as garantias de segurança dos produtos e serviços colocados no mercado, transpondo para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0095\" title=\"Link para Directiva da Comunidade Europeia\">2001/95/CE</a>, do Parlamento Europeu e do Conselho, de 3 de Dezembro, relativa à segurança geral dos produtos."
+  },
+  "47861075": {
+   "fragment_id": "37095475",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - As disposições do presente diploma são aplicáveis à segurança dos produtos colocados no mercado e, com as necessárias adaptações, à segurança de serviços prestados aos consumidores, quando os respectivos requisitos não constem de legislação especial.\n\n2 - Aos produtos abrangidos por legislação que estabeleça normas especiais de segurança é aplicável, subsidiariamente, o estabelecido no presente diploma, em matéria de riscos ou categorias de riscos não abrangidos por essa legislação.\n\n3 - Estão excluídos da aplicação do presente diploma os produtos usados, quando fornecidos como antiguidades ou como produtos que necessitam de reparação ou de recuperação antes de poderem ser utilizados, desde que o fornecedor informe claramente a pessoa a quem fornece o produto acerca daquelas características.\n\n4 - Para efeitos do disposto do número anterior, o ónus da prova recai sobre o fornecedor."
+  },
+  "47861175": {
+   "fragment_id": "37095575",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente diploma, considera-se:\n\na) «Produto» qualquer bem, novo, usado, recuperado ou utilizado no âmbito de uma prestação de serviços, destinado aos consumidores ou susceptível de, em circunstâncias razoavelmente previsíveis, por eles ser utilizado, mesmo que lhes não seja destinado, fornecido ou disponibilizado, a título oneroso ou gratuito, no âmbito de uma actividade profissional, com excepção dos bens imóveis;\n\nb) «Produto seguro» qualquer bem que, em condições de utilização normais ou razoavelmente previsíveis, incluindo a duração, se aplicável a instalação ou entrada em serviço e a necessidade de conservação, não apresente quaisquer riscos ou apresente apenas riscos reduzidos compatíveis com a sua utilização e considerados conciliáveis com um elevado nível de protecção da saúde e segurança dos consumidores, tendo em conta, nomeadamente:\n\ni) As características do produto, designadamente a sua composição;\n\nii) A apresentação, a embalagem, a rotulagem e as instruções de montagem, de utilização, de conservação e de eliminação, bem como eventuais advertências ou outra indicação de informação relativa ao produto;\n\niii) Os efeitos sobre outros produtos quando seja previsível a sua utilização conjunta;\n\niv) As categorias de consumidores que se encontrarem em condições de maior risco ao utilizar o produto, especialmente crianças e os idosos;\n\nc) «Produto perigoso» qualquer bem não abrangido pela definição de «produto seguro» a que se refere a alínea b);\n\nd) «Risco grave» qualquer risco, incluindo os riscos cujos efeitos não sejam imediatos, que implique um perigo real e efectivo que exija uma intervenção rápida das autoridades consideradas competentes para efeitos de aplicação do presente diploma;\n\ne) «Produtor»:\n\ni) O fabricante de um produto que se encontre estabelecido na União Europeia ou qualquer pessoa que se apresente como tal ao apor o seu nome, marca ou outro sinal distintivo do produto ou que proceda à sua recuperação;\n\nii) O representante do fabricante, quando este não se encontre estabelecido na União Europeia ou, na sua falta, o importador do produto na União Europeia; ou, ainda,\n\niii) Outros profissionais da cadeia de comercialização, na medida em que as respectivas actividades possam afectar as características de segurança do produto colocado no mercado;\n\nf) «Distribuidor» o operador profissional da cadeia de comercialização, cuja actividade não afecte as características de segurança do produto;\n\ng) «Recolha» qualquer acção destinada a retomar ou a reparar o produto perigoso que já tenha sido fornecido ou disponibilizado ao consumidor pelo respectivo produtor ou distribuidor;\n\nh) «Retirada» qualquer acção destinada a impedir a distribuição e a exposição de um produto perigoso bem como a sua oferta ao consumidor;\n\ni) «RAPEX» o sistema de troca rápida de informação sobre produtos perigosos no âmbito da União Europeia;\n\nj) «Uso normal ou razoavelmente previsível» a utilização que se mostra adequada à natureza ou características do produto."
+  },
+  "47861275": {
+   "fragment_id": "35663475",
+   "type": 1,
+   "heading": "Capítulo II — Da obrigação geral de segurança e das obrigações adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da obrigação geral de segurança e das obrigações adicionais"
+  },
+  "47861375": {
+   "fragment_id": "37095675",
+   "type": 11,
+   "heading": "Artigo 4.º — Obrigação geral de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obrigação geral de segurança\n\n1 - Só podem ser colocados no mercado produtos seguros.\n\n2 - Sem prejuízo do disposto no n.º 4, considera-se conforme com a obrigação geral de segurança o produto que estiver em conformidade com as normas legais ou regulamentares que fixem os requisitos em matéria de protecção de saúde e segurança a que o mesmo deve obedecer para poder ser comercializado.\n\n3 - Na falta de normas legais ou regulamentares que fixem os requisitos em matéria de protecção de saúde e segurança, a conformidade de um produto com a obrigação geral de segurança é avaliada atendendo, sempre que existam:\n\na) As normas portuguesas que transpõem normas europeias cujas referências tenham sido publicadas no Jornal Oficial das Comunidades Europeias, bem como as normas nacionais que transpõem normas comunitárias pertinentes;\n\nb) As normas em vigor no Estado membro em que o produto é fornecido ou disponibilizado;\n\nc) As recomendações da Comissão Europeia que contêm orientações em matéria de avaliação de segurança dos produtos;\n\nd) Os códigos de boa conduta em matéria de segurança dos produtos em vigor para o sector em causa;\n\ne) O estado actual dos conhecimentos e da técnica;\n\nf) O nível de segurança razoavelmente esperado pelos consumidores.\n\n4 - A conformidade de um produto com as normas legais ou regulamentares ou com os critérios mencionados nos n.os 2 e 3, respectivamente, não constitui impedimento à adopção de medidas que se mostrem necessárias para restringir a sua comercialização ou ordenar a sua recolha ou retirada do mercado se, ainda assim, o produto se revelar perigoso para a saúde e segurança dos consumidores."
+  },
+  "47861475": {
+   "fragment_id": "37095775",
+   "type": 11,
+   "heading": "Artigo 5.º — Destinatários da obrigação geral de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Destinatários da obrigação geral de segurança\n\nÉ destinatário da obrigação geral de segurança o produtor, tal como se encontra definido na alínea e) do artigo 3.º do presente diploma."
+  },
+  "47861575": {
+   "fragment_id": "37095875",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações adicionais\n\n1 - O produtor está ainda obrigado:\n\na) A fornecer aos consumidores as informações relevantes que lhes permitam avaliar os riscos inerentes a um produto durante a sua vida útil normal ou razoavelmente previsível e precaver-se contra esses mesmos riscos, sempre que eles não sejam imediatamente perceptíveis sem a devida advertência;\n\nb) A tomar medidas apropriadas, em função das características do produto fornecido, à informação sobre os riscos que o produto possa apresentar e ao desencadeamento das acções que se revelarem adequadas, incluindo a retirada do mercado, o aviso aos consumidores em termos adequados e eficazes ou a recolha do produto junto destes;\n\nc) A informar as entidades competentes das medidas que, por sua iniciativa, decida tomar quando coloque no mercado produtos que apresentem riscos para o consumidor, nos termos do artigo 8.º;\n\nd) A analisar e manter actualizado um registo das reclamações que lhe são apresentadas.\n\n2 - A emissão de avisos não isenta o produtor do cumprimento de outras obrigações previstas no presente diploma.\n\n3 - As medidas mencionadas na alínea b) do n.º 1 incluem, nomeadamente:\n\na) A indicação, no produto ou na respectiva embalagem, da identidade e do endereço físico completo do produtor e do responsável pela colocação do produto no mercado, bem como das respectivas instruções de uso, das referências do produto, incluindo o nome, o modelo e o tipo, ou do lote de produtos a que pertence;\n\nb) Nos casos em que tal seja adequado, a realização de ensaios por amostragem dos produtos ou do lote de produtos comercializados, bem como a informação aos distribuidores sobre o controlo desses produtos e seus resultados.\n\n4 - A acção de recolha do produto junto dos consumidores a que se refere a alínea b) do n.º 1 deve ser desencadeada:\n\na) Quando as restantes acções não forem suficientes para prevenir os riscos;\n\nb) Na sequência de uma medida ordenada pelas entidades responsáveis pelo controlo de mercado;\n\nc) Nos casos em que o produtor considere necessário."
+  },
+  "47861675": {
+   "fragment_id": "37095975",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações dos distribuidores\n\n1 - O distribuidor, a que se refere a alínea f) do artigo 3.º, está obrigado a agir com diligência, nomeadamente, durante o armazenamento, transporte e exposição dos produtos, por forma a contribuir para o cumprimento das obrigações de segurança aplicáveis.\n\n2 - No cumprimento da obrigação mencionada no número anterior, o distribuidor deve, de acordo com os limites decorrentes do exercício da sua actividade:\n\na) Abster-se de fornecer produtos quanto aos quais saiba ou deva saber, com base nas informações de que dispõe e enquanto profissional, que não satisfazem essa obrigação;\n\nb) Participar no controlo da segurança dos produtos colocados no mercado, designadamente mediante a transmissão de informações sobre os riscos dos produtos às entidades competentes;\n\nc) Manter durante o período de vida útil do produto a documentação necessária para rastrear a origem dos produtos e fornecê-la quando solicitado pelas entidades competentes;\n\nd) Desencadear as acções que se revelem adequadas para a eliminação dos riscos, nomeadamente a retirada do produto do mercado e a recolha junto dos consumidores;\n\ne) Colaborar, de forma eficaz, em quaisquer acções desenvolvidas tendentes a evitar os riscos."
+  },
+  "47861775": {
+   "fragment_id": "37096075",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigações especiais de comunicação e de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações especiais de comunicação e de cooperação\n\n1 - Quando o produtor ou o distribuidor tenha ou deva ter conhecimento, com base nas informações de que dispõe enquanto profissional, de que um produto que colocou no mercado apresenta riscos para o consumidor incompatíveis com a obrigação geral de segurança, obriga-se a comunicar de imediato esse facto ao Instituto do Consumidor.\n\n2 - A comunicação mencionada no número anterior deve conter as menções seguintes:\n\na) Identificação precisa do produto ou do lote de produtos em causa;\n\nb) Descrição completa do risco que esse produto comporte;\n\nc) Informação completa e relevante para rastrear o produto;\n\nd) Descrição das medidas adoptadas para prevenir esses riscos.\n\n3 - O produtor e o distribuidor obrigam-se, ainda, de acordo com os limites decorrentes do exercício das respectivas actividades, a colaborar com as entidades competentes para efeitos de aplicação do presente diploma, a pedido destas, nas acções desenvolvidas para prevenir quaisquer riscos inerentes aos produtos colocados no mercado.\n\n4 - A obrigação mencionada no número anterior abrange, designadamente, o fornecimento no prazo máximo de cinco dias, salvo nos casos urgentes em que pode ser fixado prazo inferior, de todas as informações pertinentes, incluindo aquelas que se encontrarem cobertas pelo segredo profissional, que, para efeitos do presente diploma, são consideradas reservadas."
+  },
+  "47861875": {
+   "fragment_id": "35663575",
+   "type": 1,
+   "heading": "Capítulo III — Da Comissão de Segurança de Serviços e Bens de Consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da Comissão de Segurança de Serviços e Bens de Consumo"
+  },
+  "47861975": {
+   "fragment_id": "37096175",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão de Segurança de Serviços e Bens de Consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissão de Segurança de Serviços e Bens de Consumo\n\nA Comissão de Segurança de Serviços e Bens de Consumo, adiante e abreviadamente designada por Comissão, é um órgão colegial de natureza deliberativa, de âmbito nacional, que funciona na dependência do membro do Governo responsável pela área da defesa dos consumidores."
+  },
+  "47862075": {
+   "fragment_id": "37096275",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime, secretariado executivo e encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime, secretariado executivo e encargos\n\n1 - A Comissão rege-se pelas normas do presente diploma e pelo seu regimento interno, bem como por outras normas legais que lhe sejam aplicáveis.\n\n2 - O apoio técnico, administrativo e logístico ao funcionamento da Comissão é assegurado pelo Instituto do Consumidor, sendo coordenado por um secretário executivo, com a categoria de dirigente intermédio de grau 1.\n\n3 - Os encargos orçamentais decorrentes do funcionamento da Comissão são suportados por dotações orçamentais do Instituto do Consumidor, mediante inscrição de uma divisão própria, sendo o seu montante fixado por despacho conjunto do Ministro das Finanças e do ministro responsável pela área da tutela da defesa dos consumidores."
+  },
+  "47862175": {
+   "fragment_id": "37096375",
+   "type": 11,
+   "heading": "Artigo 11.º — Composição da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição da Comissão\n\n1 - Integram a Comissão:\n\na) O presidente do Instituto do Consumidor, em representação do membro do Governo responsável pela área da tutela da defesa dos consumidores, que preside;\n\nb) Um representante do membro do Governo responsável pelas áreas da indústria, comércio e serviços;\n\nc) Um representante da Inspecção-Geral das Actividades Económicas;\n\nd) Quatro peritos em matéria de segurança de produtos e serviços que prestem funções no quadro do Sistema Português de Qualidade ou em laboratórios acreditados, designados pelo Instituto Português da Qualidade;\n\ne) Um perito médico em toxicologia clínica, designado pelo Centro de Informação Antivenenos;\n\nf) Um perito médico, designado pelo membro do Governo responsável pela área da saúde;\n\ng) Um representante da indústria;\n\nh) Um representante do comércio;\n\ni) Dois representantes dos consumidores.\n\n2 - Os membros referidos nas alíneas g) e h) do número anterior são designados pelas respectivas associações com assento na Comissão Permanente de Concertação Social.\n\n3 - Os membros referidos na alínea i) do n.º 1 são designados pelas associações de consumidores de âmbito nacional e interesse genérico de maior representatividade.\n\n4 - Os membros da Comissão recebem senhas de presença, cujo valor é fixado por despacho conjunto dos ministros responsáveis pelas áreas, respectivamente, das finanças e da defesa do consumidor."
+  },
+  "47862275": {
+   "fragment_id": "37096475",
+   "type": 11,
+   "heading": "Artigo 12.º — Participação de outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Participação de outras entidades\n\n1 - Os Governos das Regiões Autónomas dos Açores e da Madeira podem indicar, respectivamente, um representante para participar nas reuniões da Comissão.\n\n2 - O presidente da Comissão tem a faculdade de convidar entidades com especial competência técnica em matéria de segurança de produtos e serviços para participação em reuniões."
+  },
+  "47862375": {
+   "fragment_id": "37096575",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências da Comissão\n\n1 - Sem prejuízo das competências atribuídas às autoridades de controlo de mercado, compete à Comissão:\n\na) Deliberar sobre os produtos e serviços colocados no mercado cujo risco não é compatível com o elevado nível de protecção da saúde e segurança dos consumidores;\n\nb) Promover, junto das entidades responsáveis pelo controlo de mercado, o cumprimento da obrigação geral de segurança, nomeadamente através de programas de vigilância que devem ser periodicamente realizados;\n\nc) Propor ao Governo medidas necessárias à prevenção e à protecção contra riscos que os produtos colocados no mercado possam vir a apresentar, incluindo a proibição com carácter obrigatório geral do fabrico, importação, exportação, troca intracomunitária, comercialização ou colocação no mercado de produtos ou categorias de produtos susceptíveis de pôr em risco a saúde e segurança dos consumidores, em virtude da sua composição;\n\nd) Comunicar à entidade competente para instrução dos respectivos processos de contra-ordenação os casos de colocação no mercado de produtos perigosos de que tenha conhecimento;\n\ne) Realizar estudos técnico-científicos sobre a segurança de produtos e serviços;\n\nf) Emitir recomendações e avisos públicos nos termos do artigo 15.º;\n\ng) Pronunciar-se sobre as questões relativas à segurança de produtos que lhe sejam submetidas pelo membro do Governo que tutela a área da defesa dos consumidores.\n\n2 - No exercício das competências previstas nas alíneas a) e b) do número anterior, a Comissão pode:\n\na) Exigir, em relação a produtos e serviços susceptíveis de apresentar riscos em determinadas condições ou para determinadas pessoas:\n\ni) Que o mesmo seja acompanhado de aviso adequado, redigido de forma clara e compreensível, sobre o risco que possa apresentar;\n\nii) Que a sua colocação no mercado obedeça a condições prévias destinadas a garantir a segurança desse produto ou serviço;\n\niii) Que as pessoas para quem o produto ou serviço pode apresentar riscos sejam alertadas correcta e oportunamente desse facto através de publicação ou de alerta especial;\n\nb) Proibir, em relação a qualquer produto perigoso ou susceptível de ser perigoso, respectivamente:\n\ni) A sua colocação no mercado e definir as medidas de acompanhamento necessárias para garantir a observância dessa proibição;\n\nii) O fornecimento, a proposta de fornecimento ou a exposição do produto durante o período necessário para se proceder aos diferentes controlos, verificações ou avaliações de segurança;\n\nc) Ordenar, em relação a qualquer produto perigoso já colocado no mercado:\n\ni) A sua retirada efectiva e imediata e ou alerta junto dos consumidores quanto aos riscos que o mesmo produto comporta;\n\nii) Se necessário, a sua recolha junto dos consumidores e a destruição em condições adequadas.\n\n3 - As acções de retirada ou de recolha do produto junto dos consumidores devem ser desencadeadas quando as medidas adoptadas pelo produtor e pelo distribuidor se revelem insuficientes ou na sequência de decisão da Comissão Europeia, de acordo com o procedimento previsto no n.º 2 do artigo 15.º da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0095\" title=\"Link para Directiva da Comunidade Europeia\">2001/95/CE</a>.\n\n4 - As deliberações da Comissão que imponham a adopção de quaisquer medidas previstas no n.º 2 do presente artigo devem ser comunicadas ao Instituto do Consumidor para efeitos do artigo 16.º, bem como às autoridades responsáveis pelo controlo de mercado e pelo licenciamento das actividades em causa."
+  },
+  "47862475": {
+   "fragment_id": "37096675",
+   "type": 11,
+   "heading": "Artigo 14.º — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Delegação de competências\n\nNos termos do respectivo regimento interno, a Comissão pode delegar no seu presidente o exercício parcial das suas competências, cabendo ao presidente a faculdade de subdelegação."
+  },
+  "47862575": {
+   "fragment_id": "37096775",
+   "type": 11,
+   "heading": "Artigo 15.º — Recomendações e avisos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Recomendações e avisos\n\n1 - Em qualquer momento do processo de controlo da segurança dos produtos, pode a Comissão, caso entenda necessário e sempre que as circunstâncias o aconselhem, formular recomendações a todo e qualquer interveniente da cadeia económica, com o fim de este suprimir o risco em causa.\n\n2 - A Comissão pode, sempre que a gravidade das circunstâncias o exija, emitir e divulgar aviso público contendo uma descrição tão precisa quanto possível do produto em causa, a identificação do risco que pode resultar da sua utilização e quaisquer outros elementos que considere necessários.\n\n3 - As recomendações mencionadas no n.º 1 podem, quando se entenda conveniente, ser tornadas públicas."
+  },
+  "47862675": {
+   "fragment_id": "35663675",
+   "type": 1,
+   "heading": "Capítulo IV — Sistema de troca de informações e de alerta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Sistema de troca de informações e de alerta"
+  },
+  "47862775": {
+   "fragment_id": "37096875",
+   "type": 11,
+   "heading": "Artigo 16.º — Ponto de contacto nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Ponto de contacto nacional\n\nPara efeitos de funcionamento do sistema comunitário de troca rápida de informações, adiante designado por RAPEX, nomeadamente de emissão de notificações nos termos dos artigos 11.º e 12.º da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0095\" title=\"Link para Directiva da Comunidade Europeia\">2001/95/CE</a>, é considerado o ponto de contacto nacional, quando não se trate de produtos alimentares, o Instituto do Consumidor, que, em tais enquanto tal:\n\na) Notifica à Comissão Europeia as medidas que sejam adoptadas pelas autoridades responsáveis pelo controlo do mercado ou pelos produtores e ou distribuidores relativamente aos produtos colocados no mercado;\n\nb) Recebe as notificações enviadas pela Comissão Europeia e transmite-as, de imediato, às autoridades responsáveis pelo controlo do mercado, de forma a permitir a sua actuação;\n\nc) Informa a Comissão Europeia sobre as medidas que tenham ou venham a ser tomadas pelas autoridades responsáveis pelo controlo do mercado, na sequência de uma notificação recebida;\n\nd) Recebe dos produtores e dos distribuidores as informações relativas à adopção das medidas a que se refere o artigo 8.º;\n\ne) Presta esclarecimentos complementares à Comissão Europeia relativamente aos formulários de notificação."
+  },
+  "47862875": {
+   "fragment_id": "37096975",
+   "type": 11,
+   "heading": "Artigo 17.º — Sujeição a notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sujeição a notificação\n\n1 - São notificados à Comissão Europeia:\n\na) Todas e quaisquer medidas que, impondo ou não uma acção urgente, sejam tomadas pelas autoridades responsáveis pelo controlo do mercado ou, a título voluntário pelos produtores e ou distribuidores, relativamente aos produtos que apresentem um risco grave para a saúde e segurança dos consumidores;\n\nb) As informações relevantes em matéria de riscos graves de que as autoridades responsáveis pelo controlo do mercado tenham conhecimento antes da tomada de quaisquer medidas;\n\nc) As medidas que sejam tomadas relativamente a produtos que não apresentem um risco grave, nomeadamente aquelas que visem restringir a colocação no mercado ou impor a sua retirada ou a sua recolha junto dos consumidores.\n\n2 - Quando as entidades responsáveis considerarem que o risco em causa se limita ao território nacional, a notificação deve ser realizada desde que inclua informações susceptíveis de interessar aos Estados membros, nomeadamente quando constituam uma resposta a um novo tipo de risco que ainda não foi notificado ou se relacionem com um novo risco resultante da combinação de produtos."
+  },
+  "47862975": {
+   "fragment_id": "37097075",
+   "type": 11,
+   "heading": "Artigo 18.º — Diligências prévias à notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Diligências prévias à notificação\n\n1 - Para efeitos da notificação à Comissão Europeia prevista no presente capítulo, a tomada de quaisquer medidas relativas a produtos de consumo que apresentem riscos para a saúde e segurança dos consumidores deve ser imediatamente comunicada ao Instituto do Consumidor.\n\n2 - Aquando da recepção da comunicação mencionada no número anterior, o Instituto do Consumidor:\n\na) Analisa as informações fornecidas pela entidade que toma a medida;\n\nb) Efectua, quando se justifique, uma avaliação do nível de gravidade do risco, de acordo com os critérios mencionados no n.º 3;\n\nc) Decide, atendendo à avaliação efectuada, sobre a necessidade de uma acção urgente.\n\n3 - A avaliação do nível de gravidade dos riscos deve ser realizada de acordo com as directrizes fixadas pela Comissão Europeia ou com outros métodos considerados apropriados, tendo em conta um elevado nível de protecção da saúde e segurança dos consumidores."
+  },
+  "47863075": {
+   "fragment_id": "37097175",
+   "type": 11,
+   "heading": "Artigo 19.º — Notificação à Comissão Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Notificação à Comissão Europeia\n\n1 - A classificação, com base na avaliação mencionada no artigo anterior, do risco apresentado pelo produto como grave para a saúde e segurança dos consumidores implica a notificação desse produto à Comissão Europeia no âmbito do RAPEX, no prazo máximo de 10 dias a contar da data da adopção da medida.\n\n2 - No caso de o risco apresentado não ser classificado como grave, o produto sobre o qual se decide tomar ou manter medidas que, nomeadamente, visam restringir a sua colocação no mercado ou impor a sua retirada ou a sua recolha junto dos consumidores é objecto de notificação à Comissão Europeia, no âmbito do artigo 11.º da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0095\" title=\"Link para Directiva da Comunidade Europeia\">2001/95/CE</a>, no prazo máximo de 15 dias a contar da tomada da respectiva medida.\n\n3 - As notificações mencionadas nos números anteriores são realizadas através do envio do formulário de notificação.\n\n4 - O Instituto do Consumidor é responsável pelas informações constantes no formulário de notificação.\n\n5 - O prazo mencionado no n.º 1 é de três dias quando o Instituto do Consumidor concluir, em articulação com a entidade que decide, pela imposição de qualquer medida que vise prevenir riscos, que a notificação a realizar no âmbito do RAPEX exige acção urgente.\n\n6 - A notificação a que se refere o n.º 2 do presente artigo deve explicitar de forma clara e completa as razões que justificam a tomada da medida relativamente ao produto que não apresenta um risco grave."
+  },
+  "47863175": {
+   "fragment_id": "37097275",
+   "type": 11,
+   "heading": "Artigo 20.º — Notificações remetidas pela Comissão Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Notificações remetidas pela Comissão Europeia\n\nAs notificações remetidas pela Comissão Europeia ao Instituto do Consumidor, no âmbito do RAPEX e, designadamente, as realizadas ao abrigo dos artigos 11.º e 12.º da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0095\" title=\"Link para Directiva da Comunidade Europeia\">2001/95/CE</a>, são transmitidas às respectivas entidades de controlo de mercado, nomeadamente:\n\na) Inspecção-Geral das Actividades Económicas e Inspecções Regionais das Actividades Económicas dos Açores e da Madeira, em todos os casos;\n\nb) Instituto Nacional da Farmácia e do Medicamento, quando se tratar de notificações relativas a produtos cosméticos;\n\nc) Direcção-Geral de Viação, quando se tratar de notificações sobre veículos automóveis;\n\nd) Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, relativamente a notificações cujo teor se refira a decisão dos serviços alfandegários/aduaneiros de um Estado membro bloquearem ou rejeitarem produtos provenientes de países terceiros."
+  },
+  "47863275": {
+   "fragment_id": "37097375",
+   "type": 11,
+   "heading": "Artigo 21.º — Diligências a cargo da entidade de controlo de mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Diligências a cargo da entidade de controlo de mercado\n\n1 - A entidade de controlo de mercado, à qual o Instituto do Consumidor transmite a notificação:\n\na) Analisa as informações em causa;\n\nb) Verifica se o produto notificado se encontra colocado no mercado nacional e a sua localização;\n\nc) Toma as medidas que visem prevenir riscos, nomeadamente ordenando ou acordando com o produtor e ou distribuidor a retirada ou a recolha do produto que apresenta um risco grave incompatível com a obrigação geral de segurança.\n\n2 - A tomada de medidas a que se refere o número anterior deve, sempre que possível, e salvo o disposto relativamente a produtos cujos requisitos de segurança se encontrem previstos em legislação especial, ser previamente comunicada ao Instituto do Consumidor.\n\n3 - As diligências mencionadas no n.º 1 são obrigatoriamente comunicadas ao Instituto do Consumidor que, no prazo máximo de 45 dias, informa a Comissão Europeia sobre as medidas que tenham sido ou venham a ser adoptadas, através do preenchimento e remessa do formulário de resposta à notificação.\n\n4 - O prazo previsto no número anterior é de 20 dias, quando a notificação recebida exija uma acção urgente."
+  },
+  "47863375": {
+   "fragment_id": "37097475",
+   "type": 11,
+   "heading": "Artigo 22.º — Produtos fabricados em Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produtos fabricados em Portugal\n\nQuando o produto notificado for fabricado em Portugal, o Instituto do Consumidor, com base em informações fornecidas pela entidade de controlo de mercado, informa, no prazo máximo de 15 dias, a Comissão Europeia sobre a identificação e morada do produtor, bem como dos contactos dos distribuidores e retalhistas do produto noutros Estados membros e, ainda, sobre as medidas adoptadas pela entidade de controlo de mercado para prevenir os riscos."
+  },
+  "47863475": {
+   "fragment_id": "37097575",
+   "type": 11,
+   "heading": "Artigo 23.º — Produtos provenientes de países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Produtos provenientes de países terceiros\n\n1 - Quando um produto ou lote de produtos apresente características que levantem suspeitas relativamente ao cumprimento da obrigação geral de segurança e não exista notificação ou deliberação da Comissão, a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo suspende a autorização da sua entrada e informa imediatamente de tal facto a entidade de controlo de mercado competente.\n\n2 - A entidade de controlo de mercado competente deve, no prazo de três dias a contar da suspensão mencionada no número anterior, comunicar à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo o seu parecer sobre o produto ou lote de produtos e das medidas que, no caso, devam ser tomadas.\n\n3 - Aplica-se o disposto no n.º 1 quando o produto ou lote de produtos apresenta características semelhantes às de produtos que já foram objecto de notificação no âmbito do RAPEX ou de deliberação da Comissão."
+  },
+  "47863575": {
+   "fragment_id": "37097675",
+   "type": 11,
+   "heading": "Artigo 24.º — Levantamento da suspensão de autorização de entrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Levantamento da suspensão de autorização de entrada\n\n1 - Sem prejuízo do disposto no artigo 23.º, o levantamento da suspensão de autorização de entrada tem lugar quando:\n\na) A entidade de controlo de mercado competente comunicar à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, no prazo de três dias a contar da suspensão de autorização de entrada, que o produto ou lote de produtos não apresenta um risco grave para a saúde e segurança dos consumidores;\n\nb) A entidade de controlo de mercado competente não fizer essa comunicação à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo dentro do prazo mencionado, por não dispor de toda a informação que lhe permita confirmar se o produto ou lote de produtos não cumpre a legislação aplicável ou viola o presente diploma.\n\n2 - A colocação do produto ou lote de produtos em livre prática deve ser comunicada à entidade de controlo de mercado competente e à Comissão, fornecendo-lhes os dados, nomeadamente o nome e endereço do agente económico detentor do produto, que possibilitem uma posterior intervenção."
+  },
+  "47863675": {
+   "fragment_id": "37097775",
+   "type": 11,
+   "heading": "Artigo 25.º — Deliberação da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Deliberação da Comissão\n\n1 - No caso de levantamento da suspensão de autorização de entrada de produtos, verificando-se, após a realização de diligências que no caso tiverem lugar, que as suspeitas se mantêm no tocante ao cumprimento da obrigação geral de segurança, a entidade de controlo de mercado competente solicita à Comissão que delibere sobre o produto ou lote de produtos em causa, nos termos da alínea a) do n.º 1 do artigo 13.º\n\n2 - A deliberação da Comissão é objecto de comunicação à entidade de controlo de mercado competente, bem como à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, de forma a garantir uma actuação de acordo com as respectivas competências.\n\n3 - A deliberação que considera o produto ou lote de produtos perigoso, por apresentar um risco grave para a saúde e segurança dos consumidores, é imediatamente comunicada ao Instituto do Consumidor, para efeitos de aplicação dos artigos 18.º e 19.º do presente diploma."
+  },
+  "47863775": {
+   "fragment_id": "35663775",
+   "type": 1,
+   "heading": "Capítulo V — Das contra-ordenações, da fiscalização e instrução de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Das contra-ordenações, da fiscalização e instrução de processos"
+  },
+  "47863875": {
+   "fragment_id": "37097875",
+   "type": 11,
+   "heading": "Artigo 26.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Contra-ordenações\n\n1 - Sem prejuízo de outras sanções que possam ser aplicadas, constitui contra-ordenação:\n\na) O não fornecimento das informações relevantes que possibilitem aos consumidores avaliar os riscos inerentes a um produto sempre que esses riscos não sejam imediatamente perceptíveis sem a devida advertência;\n\nb) A falta de indicação, no produto ou na respectiva embalagem, da identidade e do endereço do produtor, bem como do responsável pela colocação do produto no mercado e respectivas instruções de uso;\n\nc) A inexistência de um registo organizado de reclamações apresentadas;\n\nd) A não realização por parte do produtor e nos casos em que tal seja adequado de ensaios por amostragem, bem como a falta de informação ao distribuidor sobre o controlo efectuado;\n\ne) O fornecimento de produtos relativamente aos quais os produtores e ou os distribuidores saibam ou devam saber, de acordo com as informações de que dispõem, que não cumprem a obrigação geral de segurança;\n\nf) A não comunicação às entidades competentes de que o produto colocado no mercado apresenta riscos incompatíveis com a obrigação geral de segurança, quando o produtor ou o distribuidor tenha ou deva ter conhecimento desse facto;\n\ng) A omissão ou recusa da prestação das informações que sejam solicitadas pelas entidades competentes no âmbito da obrigação de cooperação prevista no presente diploma;\n\nh) O não cumprimento de medidas ordenadas pelas entidades competentes, nomeadamente as que imponham a retirada do mercado ou a recolha do produto junto dos consumidores.\n\n2 - A contra-ordenação prevista na alínea a) do número anterior é punível com coima de (euro) 2490 até (euro) 3490 ou de (euro) 12470 até (euro) 44890, consoante o infractor seja pessoa singular ou pessoa colectiva.\n\n3 - As contra-ordenações previstas nas alíneas b), c) e d) do n.º 1 são puníveis com coima de (euro) 2490 até (euro) 3490 ou de (euro) 7480 até (euro) 24940, consoante o infractor seja pessoa singular ou pessoa colectiva.\n\n4 - As contra-ordenações previstas na alíneas e), f), g) e h) do n.º 1 são puníveis com coima de (euro) 2490 até (euro) 3490 ou de (euro) 24940 até (euro) 44890, consoante o infractor seja pessoa singular ou colectiva.\n\n5 - A tentativa e a negligência são puníveis."
+  },
+  "47863975": {
+   "fragment_id": "37097975",
+   "type": 11,
+   "heading": "Artigo 27.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Sanções acessórias\n\n1 - Para além das coimas referidas no artigo anterior, podem ainda ser aplicáveis, nos estritos limites fixados na lei geral, as seguintes sanções acessórias:\n\na) Publicidade da punição por qualquer contra-ordenação prevista e punida nos termos do artigo anterior, a expensas do agente;\n\nb) Perda de objectos pertencentes ao agente;\n\nc) Interdição do exercício de profissões ou actividades, cujo exercício depende de título público ou de autorização ou homologação de autoridade pública;\n\nd) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\ne) Privação do direito de participar em feiras ou mercados;\n\nf) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens ou serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\ng) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nh) Suspensão de autorizações, licenças e alvarás.\n\n2 - São passíveis de apreensão e retirada do mercado, nos termos dos artigos 74.º e seguintes do Decreto-Lei n.º 28/84, de 20 de Janeiro, os produtos que, nos termos do presente diploma, possam ser considerados perigosos."
+  },
+  "47864075": {
+   "fragment_id": "37098075",
+   "type": 11,
+   "heading": "Artigo 28.º — Fiscalização e instrução dos processos e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Fiscalização e instrução dos processos e aplicação das coimas\n\n1 - Compete à Inspecção-Geral das Actividades Económicas fiscalizar o cumprimento do disposto no presente diploma, bem como instruir os respectivos processos de contra-ordenação.\n\n2 - Compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade a aplicação das coimas e das sanções acessórias previstas no artigo anterior.\n\n3 - O produto das coimas previstas no presente diploma reverte:\n\na) Em 60% para o Estado;\n\nb) Em 20% para o Instituto do Consumidor;\n\nc) Em 20% para a Inspecção-Geral das Actividades Económicas."
+  },
+  "47864175": {
+   "fragment_id": "35663875",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "47864275": {
+   "fragment_id": "37098175",
+   "type": 11,
+   "heading": "Artigo 29.º — Encargos com a recolha, retirada ou destruição de produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Encargos com a recolha, retirada ou destruição de produtos\n\nOs produtores e os distribuidores, na medida das suas responsabilidades, suportam os encargos relativos às operações de recolha, retirada ou destruição dos produtos."
+  },
+  "47864375": {
+   "fragment_id": "37098275",
+   "type": 11,
+   "heading": "Artigo 30.º — Informação reservada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Informação reservada\n\n1 - As informações relativas à aplicação do presente diploma que, pela sua natureza, estejam abrangidas pelo segredo profissional são consideradas reservadas.\n\n2 - Exceptuam-se da reserva estabelecida no número anterior as características de determinado produto ou serviço cuja divulgação se imponha para garantia da protecção da saúde e segurança das pessoas."
+  },
+  "47864475": {
+   "fragment_id": "37098375",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 213/87, de 28 de Maio, sobre a segurança de serviços e o Decreto-Lei n.º 311/95, de 20 de Novembro, com as alterações introduzidas pelo Decreto-Lei n.º 16/2000, de 29 de Fevereiro, relativo à segurança geral de produtos."
+  },
+  "47864575": {
+   "fragment_id": "37098475",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma transitória\n\n1 - É extinta a Comissão a que se referem os artigos 6.º e seguintes do Decreto-Lei n.º 311/95, de 20 de Novembro, transitando as suas competências para a Comissão a que se referem os artigos 9.º e seguintes do presente diploma.\n\n2 - Para os efeitos previstos na parte final do n.º 2 do artigo 10.º do presente diploma, subsiste no quadro do Instituto do Consumidor o lugar de director de serviços criado pelo n.º 2 do artigo 16.º do Decreto-Lei n.º 311/95, de 20 de Novembro, na redacção que lhe foi dada pelo artigo 1.º do Decreto-Lei n.º 16/2000, de 29 de Fevereiro."
+  },
+  "47864675": {
+   "fragment_id": "37098575",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "156697098": {
+   "fragment_id": "37096275",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime, secretariado executivo e encargos",
+   "in_force_from": "2007-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 57/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-2007-520996), em vigor a partir de 2007-05-01"
+   ],
+   "markdown": "###### Artigo 10.º — Regime, secretariado executivo e encargos\n\n1 - A Comissão rege-se pelas normas do presente diploma e pelo seu regimento interno, bem como por outras normas legais que lhe sejam aplicáveis.\n\n2 - (Revogado).\n\n3 - Os encargos orçamentais decorrentes do funcionamento da Comissão são suportados por dotações orçamentais do Instituto do Consumidor, mediante inscrição de uma divisão própria, sendo o seu montante fixado por despacho conjunto do Ministro das Finanças e do ministro responsável pela área da tutela da defesa dos consumidores.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Regulamentar n.º 57/2007 - Diário da República n.º 82/2007, Série I de 2007-04-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/57-2007-520996), em vigor a partir de 2007-05-01"
+  },
+  "47864775": {
+   "fragment_id": "35663975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de Janeiro de 2005. - Pedro Miguel de Santana Lopes - Álvaro Roque de Pinho Bissaya Barreto - António José de Castro Bagão Félix - António Victor Martins Monteiro - José Pedro Aguiar Branco - Rui Manuel Lobo Gomes da Silva.\n\nPromulgado em 28 de Fevereiro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 3 de Março de 2005.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "156697099": {
+   "fragment_id": "37097875",
+   "type": 11,
+   "heading": "Artigo 26.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 56.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 26.º — Contra-ordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) O fornecimento de produtos relativamente aos quais os produtores e ou os distribuidores saibam ou devam saber, de acordo com as informações de que dispõem, que não cumprem a obrigação geral de segurança;\n\nf) A não comunicação às entidades competentes de que o produto colocado no mercado apresenta riscos incompatíveis com a obrigação geral de segurança, quando o produtor ou o distribuidor tenha ou deva ter conhecimento desse facto;\n\ng) A omissão ou recusa da prestação das informações que sejam solicitadas pelas entidades competentes no âmbito da obrigação de cooperação prevista no presente diploma;\n\nh) O não cumprimento de medidas ordenadas pelas entidades competentes, nomeadamente as que imponham a retirada do mercado ou a recolha do produto junto dos consumidores.\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE, a prática dos seguintes atos:\n\na) O não fornecimento das informações relevantes que possibilitem aos consumidores avaliar os riscos inerentes a um produto sempre que esses riscos não sejam imediatamente percetíveis sem a devida advertência;\n\nb) A falta de indicação, no produto ou na respetiva embalagem, da identidade e do endereço do produtor, bem como do responsável pela colocação do produto no mercado e respetivas instruções de uso;\n\nc) A inexistência de um registo organizado de reclamações apresentadas;\n\nd) A não realização por parte do produtor, e nos casos em que tal seja adequado, de ensaios por amostragem, bem como a falta de informação ao distribuidor sobre o controlo efetuado.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 56.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156697100": {
+   "fragment_id": "37097975",
+   "type": 11,
+   "heading": "Artigo 27.º — Sanções acessórias",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 56.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 27.º — Sanções acessórias\n\n1 - Para além das coimas referidas no artigo anterior, podem ainda ser aplicáveis, nos estritos limites fixados no RJCE, as seguintes sanções acessórias:\n\na) Publicidade da punição por qualquer contra-ordenação prevista e punida nos termos do artigo anterior, a expensas do agente;\n\nb) Perda de objectos pertencentes ao agente;\n\nc) Interdição do exercício de profissões ou actividades, cujo exercício depende de título público ou de autorização ou homologação de autoridade pública;\n\nd) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\ne) Privação do direito de participar em feiras ou mercados;\n\nf) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens ou serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\ng) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nh) Suspensão de autorizações, licenças e alvarás.\n\n2 - São passíveis de apreensão e retirada do mercado, nos termos dos artigos 74.º e seguintes do Decreto-Lei n.º 28/84, de 20 de Janeiro, os produtos que, nos termos do presente diploma, possam ser considerados perigosos.\n\n> Alterado pelo/a Artigo 56.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156697101": {
+   "fragment_id": "37098075",
+   "type": 11,
+   "heading": "Artigo 28.º — Fiscalização e instrução dos processos e aplicação das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 56.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 28.º — Fiscalização e instrução dos processos e aplicação das coimas\n\n1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) fiscalizar o cumprimento do disposto no presente diploma e instruir os respetivos processos de contraordenação.\n\n2 - Compete ao inspetor-geral da ASAE a aplicação das coimas e sanções acessórias previstas no artigo anterior.\n\n3 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 56.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

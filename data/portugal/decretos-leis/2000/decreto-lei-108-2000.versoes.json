@@ -1,0 +1,162 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:302967:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-1008338516",
+ "dre_path": "/dr/detalhe/decreto-lei/108-2000-302967",
+ "source_lastmod": "2026-05-25",
+ "versions": [
+  {
+   "date": "2003-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:654681:por",
+     "title": "Decreto-Lei n.º 186/2003",
+     "published": "2003-08-20",
+     "dre_path": "/dr/detalhe/decreto-lei/186-2003-654681"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "1008466775",
+    "1121031775",
+    "1008467175",
+    "1121031975",
+    "1121032175",
+    "1121032375",
+    "1121032575",
+    "1121032775",
+    "1121032975",
+    "1121033175",
+    "1121033375",
+    "1008468975"
+   ]
+  }
+ ],
+ "fragments": {
+  "1008466775": {
+   "fragment_id": "1008466675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Lei Orgânica do Ministério da Economia, aprovada pelo Decreto-Lei n.º 222/96, de 25 de Novembro, prevê, no artigo 21.º, a existência do Conselho Sectorial do Turismo enquanto órgão consultivo desta área de intervenção e no âmbito das atribuições do Ministério da Economia.\n\nEm matéria tão importante e expressiva para o País, como é o turismo, assume particular relevo a necessidade de institucionalizar um fórum de debate, análise e definição de objectivos deste sector da actividade económica onde, de uma forma mais abrangente, seja possível efectuar a convergência de esforços na estruturação de uma política de turismo participada.\n\nO prosseguimento destes objectivos determina a necessidade de articular num órgão de consulta dos responsáveis pela política do turismo os interesses privados com o esforço público de conformação da actividade turística.\n\nPor conseguinte, optou-se por um modelo de flexibilização desta estrutura consultiva, no sentido de optimizar a sua representatividade e capacidade de resposta às solicitações.\n\nForam ouvidos os órgãos de governo próprios das Regiões Autónomas dos Açores e da Madeira e a Associação Nacional de Municípios Portugueses e consultadas as associações patronais e sindicais com interesse e representatividade na matéria.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1121031775": {
+   "fragment_id": "1008466875",
+   "type": 11,
+   "heading": "Artigo 1.º — Conselho Sectorial do Turismo",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 1.º — Conselho Sectorial do Turismo\n\nO Conselho Sectorial do Turismo, adiante designado por Conselho, é um órgão de consulta e aconselhamento estratégico do Ministério da Economia.\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+  },
+  "1008467175": {
+   "fragment_id": "1008467075",
+   "type": 11,
+   "heading": "Artigo 2.º — Observatório do Turismo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Observatório do Turismo\n\nPara assistir o Conselho será criado o Observatório do Turismo, sob a forma de estrutura de projecto, nos termos a definir por resolução do Conselho de Ministros."
+  },
+  "1121031975": {
+   "fragment_id": "1008467275",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições do Conselho",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições do Conselho\n\nPara além das atribuições previstas nas alíneas a) a d) do artigo 21.º do Decreto-Lei n.º 222/96, de 25 de Novembro, são também atribuições do Conselho:\n\na) Aconselhar sobre todos os assuntos respeitantes ao sector do turismo, nomeadamente em matérias como:\n\ni) A organização da oferta turística;\n\nii) A formação profissional e emprego;\n\niii) A promoção turística;\n\niv) O planeamento turístico;\n\nv) A animação turística;\n\nvi) Os sistemas de apoio financeiro ao investimento no turismo;\n\nvii) A fiscalidade no turismo;\n\nviii) Os transportes;\n\nix) As novas tecnologias de informação e comunicação;\n\nx) A modernização empresarial;\n\nb) Formular recomendações com vista à melhoria da competitividade do sector do turismo, nomeadamente no âmbito do acompanhamento da execução da política de turismo ou na resolução de situações que anulem ou comprometam a sua viabilidade;\n\nc) Acompanhar a actividade do Observatório do Turismo e formular propostas, sugestões e recomendações que entenda convenientes.\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+  },
+  "1121032175": {
+   "fragment_id": "1008467475",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - O Conselho é composto:\n\na) Pelo Ministro da Economia;\n\nb) Pelo Secretário de Estado do Turismo;\n\nc) Por um representante da Direcção-Geral do Turismo;\n\nd) Por um representante do Instituto de Financiamento e Apoio ao Turismo;\n\ne) Por um representante do Instituto Nacional de Formação Turística;\n\nf) Por um representante da Inspecção-Geral de Jogos;\n\ng) Por um representante do ICEP - Investimentos, Comércio e Turismo de Portugal;\n\nh) Por um representante do INATEL - Instituto Nacional para o Aproveitamento dos Tempos Livres dos Trabalhadores;\n\ni) Por um representante da Região Autónoma da Madeira, a nomear pelo respectivo Governo Regional;\n\nj) Por um representante da Região Autónoma dos Açores, a nomear pelo respectivo Governo Regional;\n\nl) Pelo presidente do conselho coordenador do Observatório do Turismo;\n\nm) Por um representante da Associação Nacional de Municípios Portugueses;\n\nn) Por seis representantes dos órgãos regionais e locais de turismo, que serão nomeados pela Associação Nacional das Regiões de Turismo;\n\no) Por seis representantes da Confederação do Turismo Português;\n\np) Por um representante da Federação da Indústria Hoteleira e do Alojamento Turístico de Portugal;\n\nq) Por um representante da Federação da Restauração, Cafés, Pastelarias e Similares de Portugal;\n\nr) Por um representante da Associação Portuguesa de Agências de Viagens e Turismo;\n\ns) Por um representante da Associação dos Industriais de Aluguer de Automóveis sem Condutor;\n\nt) Por um representante da Associação Portuguesa de Casinos;\n\nu) Por um representante do Conselho Nacional da Indústria do Golf;\n\nv) Por um representante da Federação dos Sindicatos de Hotelaria e Turismo de Portugal;\n\nx) Por um representante do Sindicato dos Trabalhadores de Escritório, Comércio, Hotelaria e Serviços;\n\ny) Por um representante do Sindicato Nacional de Actividade Turística, Tradutores e Intérpretes;\n\nz) Por um representante da DECO - Associação Portuguesa para a Defesa do Consumidor.\n\n2 - O Conselho integrará ainda, até ao limite máximo de 10 conselheiros, personalidades representativas dos vários subsectores e áreas relevantes da actividade turística, nomeados pelo Ministro da Economia, após consulta à Confederação do Turismo Português, numa proporção que equilibre os interesses públicos e privados.\n\n3 - Tendo em atenção a agenda de trabalhos das reuniões do Conselho e a especial competência técnica ou interesses envolvidos na discussão de determinado assunto, poderão ser convidados para integrar os trabalhos do Conselho até cinco elementos, individualmente ou em representação de entidades públicas ou privadas, especialmente convocados para o efeito pelo presidente do Conselho, sem direito a voto.\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+  },
+  "1121032375": {
+   "fragment_id": "1008467675",
+   "type": 11,
+   "heading": "Artigo 5.º — Presidente e presidente-adjunto",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 5.º — Presidente e presidente-adjunto\n\n1 - A presidência do Conselho compete ao Ministro da Economia.\n\n2 - Nas ausências e impedimentos do Ministro da Economia a presidência é exercida pelo Secretário de Estado do Turismo.\n\n3 - Sem prejuízo do disposto no número anterior, o presidente do Conselho pode delegar no Secretário de Estado do Turismo as competências que lhe são conferidas pelo presente diploma.\n\n4 - A presidência-adjunta do Conselho compete à Confederação do Turismo Português.\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+  },
+  "1121032575": {
+   "fragment_id": "1008467875",
+   "type": 11,
+   "heading": "Artigo 6.º — Reuniões",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 6.º — Reuniões\n\n1 - O Conselho reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de, pelo menos, um terço dos seus membros.\n\n2 - A ordem de trabalhos é fixada pelo presidente do Conselho englobando os assuntos que pelo menos um terço dos conselheiros remeta com o pedido de agendamento.\n\n3 - Das reuniões do Conselho são lavradas actas, das quais devem constar, resumidamente, o teor dos debates, as conclusões ou recomendações formuladas e as deliberações tomadas.\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+  },
+  "1121032775": {
+   "fragment_id": "1008468075",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamento interno",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 7.º — Regulamento interno\n\n1 - O conselho deve elaborar, no prazo de 60 dias a contar da entrada em vigor do presente diploma, um regulamento interno, que submeterá à aprovação do Ministro da Economia.\n\n2 - No regulamento interno podem ser criadas secções especializadas para a execução de tarefas determinadas e preparação dos trabalhos do Conselho.\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+  },
+  "1121032975": {
+   "fragment_id": "1008468275",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio técnico e administrativo",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 8.º — Apoio técnico e administrativo\n\nO apoio técnico, administrativo e logístico aos trabalhos do Conselho será prestado pela Direcção-Geral do Turismo.\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+  },
+  "1121033175": {
+   "fragment_id": "1008468475",
+   "type": 11,
+   "heading": "Artigo 9.º — Encargos financeiros",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 9.º — Encargos financeiros\n\nAs despesas inerentes à actividade e ao funcionamento do Conselho serão suportadas por verbas próprias inscritas no orçamento do Instituto de Financiamento e Apoio ao Turismo.\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+  },
+  "1121033375": {
+   "fragment_id": "1008468675",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": "2003-08-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+   ],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação.\n\n> Revogado pelo/a Artigo 51.º do/a [Decreto-Lei n.º 186/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2003-654681), em vigor a partir de 2003-08-21."
+  },
+  "1008468975": {
+   "fragment_id": "1008468875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Maio de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Joaquim Augusto Nunes Pina Moura - Armando António Martins Vara.\n\nPromulgado em 19 de Junho de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Junho de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

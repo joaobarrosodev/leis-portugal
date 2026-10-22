@@ -1,0 +1,825 @@
+---
+schema_version: '1.0'
+id: pt:dre:638769:por
+title: Decreto-Lei n.º 225/2007
+short_title: null
+summary: Concretiza um conjunto de medidas ligadas às energias renováveis previstas na estratégia nacional para a energia,
+  estabelecida através da Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 225/2007
+official_date: null
+publication_date: '2007-05-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 105/2007, Série I de 2007-05-31
+  number: '105'
+  series: I
+  supplement: null
+  pages: 3630 - 3638
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/05/10500/36303638.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-06-25'
+version_history:
+  file: decreto-lei-225-2007.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-05-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-25'
+    amending: pt:dre:614841:por
+    amending_title: Decreto-Lei n.º 51/2010
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 3.º-B
+    - Adita Artigo 3.º-C
+    - Altera Artigo 3.º
+  - date: '2012-11-07'
+    amending: pt:dre:588861:por
+    amending_title: Decreto-Lei n.º 215-B/2012
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Assinatura
+    - Revoga Anexo
+  - date: '2014-06-25'
+    amending: pt:dre:25676941:por
+    amending_title: Decreto-Lei n.º 94/2014
+    changes:
+    - Revoga Artigo 3.º
+    - Revoga Artigo 3.º-A
+    - Revoga Artigo 3.º-B
+    - Revoga Artigo 3.º-C
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/225/2007/p/cons/20140624/pt/html
+  oj: null
+  dre: '638769'
+  dre_path: /dr/detalhe/decreto-lei/225-2007-638769
+  internal: pt:dre:638769:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-2007-638769
+  metadata_url: https://data.dre.pt/eli/dec-lei/225/2007/p/cons/20140624/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-211556201
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-211556201
+  retrieved_at: '2026-10-22T12:56:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4fb4311dc0a8da26db5154c583109a7a11cac025147ec6937bcb3f99653dfef9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:56:09Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-225-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestão de Resíduos
+- Energia não Poluente
+- Criação de Serviços
+- Política Energética
+- Avaliação de Impacte Ambiental
+- Licenciamento
+- Observatório das Energias Renováveis
+- Preço
+- Produção de Energia Elétrica
+- TAXA de Prestação de Serviços
+relationships:
+- type: amended_by
+  target: pt:dre:614841:por
+  label: Adita Artigo 3.º-A; Adita Artigo 3.º-B; Adita Artigo 3.º-C; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2010-614841
+  date: '2010-05-20'
+- type: amended_by
+  target: pt:dre:588861:por
+  label: Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 4.º; Revoga Artigo 5.º; Revoga Artigo 6.º; Revoga Artigo 7.º;
+    Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 13.º;
+    Revoga Artigo 14.º; Revoga Assinatura; Revoga Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861
+  date: '2012-10-08'
+- type: amended_by
+  target: pt:dre:25676941:por
+  label: Revoga Artigo 3.º; Revoga Artigo 3.º-A; Revoga Artigo 3.º-B; Revoga Artigo 3.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2014-25676941
+  date: '2014-06-24'
+- type: cites
+  target: celex:31999L0031
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/31/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/169/2005/10/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/169/2005/10/24/p/dre
+article_structure:
+  article_count: 17
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:56:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 225/2007
+
+Decreto-Lei n.º 225/2007
+
+de 31 de Maio
+
+A Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro, que definiu a estratégia nacional para a energia vem estabelecer várias medidas, nomeadamente a criação de um quadro legislativo estável e transparente para o sector. Apesar de estar prevista a elaboração de um diploma para produção de electricidade a partir de energias renováveis que actualize a legislação vigente à luz dos princípios recentemente aprovados, importa iniciar desde já a operacionalização de um conjunto de medidas previstas na estratégia nacional para a energia.
+
+Desde logo, são medidas da estratégia nacional para a energia na área das energias renováveis a avaliação dos critérios de remuneração da electricidade produzida tendo em conta as especificidades tecnológicas e critérios ambientais, a valorização da biomassa florestal e a agilização dos mecanismos de licenciamento, eliminando todos os obstáculos burocráticos reputados como desnecessários.
+
+Também o Programa Nacional para as Alterações Climáticas (PNAC 2006), aprovado pela Resolução do Conselho de Ministros n.º 104/2006, de 23 de Agosto, reforça a aposta na promoção da produção de electricidade a partir de fontes de energia renovável porquanto estas contribuem para a redução de emissões de gases com efeito de estufa (GEE) associados ao sistema electroprodutor.
+
+Ao nível dos critérios de remuneração de electricidade, as centrais de biogás encontram-se entre as tecnologias renováveis às quais foi atribuído um coeficiente Z, o que permitiu remunerar diferenciadamente a sua produção de energia eléctrica. No entanto, como só foi considerada a vertente de gás de aterro, ficaram de fora outras tecnologias baseadas na produção de energia eléctrica a partir do biogás, contemplando aproveitamentos mais nobres e interessantes deste gás, em particular: a produção de biogás proveniente do tratamento biológico de efluentes, agro-pecuários ou agro-industriais; a produção de biogás proveniente do tratamento biológico da fracção orgânica dos resíduos sólidos urbanos (RSU), obtida por recolha selectiva ou proveniente da recolha indiferenciada sujeita a tratamento mecânico e biológico; a produção de biogás proveniente do tratamento biológico das lamas das estações de tratamento das águas residuais (ETAR).
+
+Importa assim rever os critérios de remuneração ao nível do biogás e valorização energética de resíduos sólidos urbanos, tendo em consideração a efectiva componente renovável em cada tecnologia e dando prioridade àquelas tecnologias que contribuem para a implementação de uma estratégia nacional de redução de resíduos urbanos biodegradáveis destinados a aterros, dando claro apoio ao esforço de redução do depósito de matéria orgânica nesses locais, cujas metas e calendarização constam do Decreto-Lei n.º 152/2002, de 23 de Maio, que transpõe a Directiva n.º <a href="eurlex.asp?ano=1999&id=399L0031" title="Link para Directiva da Comunidade Europeia">1999/31/CE</a>, de 26 de Abril, relativa à deposição de resíduos em aterros. É ainda diferenciada a incineração de resíduos sólidos urbanos em bruto da incineração destes resíduos quando na forma de combustíveis derivados de resíduos (CdR), isto é, quando dos mesmos tenham sido extraídas, por tratamento mecânico e biológico ou equivalente, as fracções recicláveis ou susceptíveis de outras formas mais nobres de valorização. Estas vertentes e prioridades estão, aliás, em consonância com o Plano Estratégico para os Resíduos Sólidos Urbanos 2007-2016 (PERSU II), aprovado pela Portaria n.º 187/2007, de 12 de Fevereiro.
+
+A aposta na microgeração é reflectida através da criação de uma tarifa específica para centrais fotovoltaicas de microgeração, quando instaladas em edifícios de natureza residencial, comercial, de serviços ou industrial.
+
+Na perspectiva do Plano Tecnológico, promove-se uma maior clarificação do enquadramento remuneratório de alguns vectores importantes de inovação, repondo a tarifa prevista no Decreto-Lei n.º 339-C/2001, de 29 de Dezembro, para a energia das ondas e introduzindo o solar termoeléctrico como uma opção tecnológica dentro das metas previstas para a energia solar.
+
+A valorização da biomassa florestal é igualmente uma das medidas previstas que assume particular importância face aos incêndios verificados nos últimos anos. Assim, torna-se necessário alargar as metas estabelecidas de 150 MW com vista ao lançamento dos concursos para a criação de uma rede de centrais de biomassa.
+
+É ainda aumentado quer o prazo de remuneração das centrais hídricas quer os prazos de prorrogação para obtenção de licença no caso destas centrais, procurando criar condições para a maximização do aproveitamento do potencial hídrico por explorar.
+
+O sobreequipamento das centrais eólicas licenciadas ou em licenciamento é também uma via de desenvolvimento da energia eólica que o presente decreto-lei viabiliza, permitindo minimizar os impactes ambientais e os tempos de licenciamento e de construção por via da utilização das infra-estruturas existentes. Com vista a reduzir as assimetrias entre os regimes de remuneração aplicáveis às centrais eólicas a construir após 2008, é ainda estabelecido um limite temporal às prorrogações do regime de remuneração anterior. Por outro lado, esta medida incentiva igualmente uma maior celeridade na construção das centrais com base em energias renováveis durante o período de cumprimento do Protocolo de Quioto, tendo tido em consideração a necessidade de minimizar os custos de interesse económico geral.
+
+A simplificação dos procedimentos ligados ao licenciamento é um factor chave para o desenvolvimento das energias renováveis. São assim introduzidos alguns melhoramentos para articulação do licenciamento da instalação das centrais renováveis com a legislação ambiental directamente conexa, visando integrar procedimentos e acelerar o acesso à produção de energia com base em fontes renováveis, sempre sem prejuízo do respeito pelos valores da protecção ambiental.
+
+Nesse sentido, o presente decreto-lei uniformiza a disciplina legal dispersa sobre a matéria, clarificando a obrigatoriedade, já hoje existente, de elaboração de estudos de incidências ambientais previamente ao licenciamento de projectos de centros electroprodutores que utilizem energias renováveis, não se encontrem sujeitos ao regime jurídico de avaliação de impacte ambiental e que se localizem em áreas de Reserva Ecológica Nacional (REN), Sítios da Rede Natura 2000 ou da Rede Nacional de Áreas Protegidas. Ainda relativamente a esta matéria, é também clarificado que o procedimento de avaliação de incidências ambientais e as decisões proferidas neste âmbito vinculam a entidade licenciadora, a qual não poderá licenciar projectos naquelas áreas sem uma decisão de incidências ambientais favorável ou condicionalmente favorável ou em desrespeito da mesma.
+
+Em contrapartida, nos mesmos casos e sob determinadas condições, adopta-se o princípio de que a declaração de impacte ambiental ou a decisão do procedimento de incidências ambientais, quando favoráveis ou condicionalmente favoráveis, implicam a superação de alguns procedimentos complementares de aprovação ou autorização, tendo em conta que estes foram considerados naquele mesmo âmbito.
+
+Por último, com o objectivo de acompanhar e monitorizar a instalação e o funcionamento dos centros electroprodutores que utilizem energias renováveis, bem como a utilização dos recursos primários, na óptica da gestão racional e sustentável destes recursos, é criado o Observatório das Energias Renováveis (ObsER), prevendo-se a possibilidade de criação no seu âmbito de secções ou grupos de trabalho específicos em função dos diversos tipos de fontes de energia renovável.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e, a título facultativo, a Associação Portuguesa dos Produtores Independentes de Energia Eléctrica de Fontes Renováveis.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei concretiza um conjunto de medidas ligadas às energias renováveis previstas na estratégia nacional para a energia, estabelecida através da Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 2.º — Alteração ao anexo II do Decreto-Lei n.º 189/88, de 27 de Maio
+
+O anexo II do Decreto-Lei n.º 189/88, de 27 de Maio, na redacção que lhe foi dada pelo Decreto-Lei n.º 168/99, de 18 de Maio, alterada pelo Decreto-Lei n.º 339-C/2001, de 29 de Dezembro, e pelo Decreto-Lei n.º 33-A/2005, de 16 de Fevereiro, passa a ter a seguinte redacção:
+
+«ANEXO II
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+12 - ...
+
+13 - ...
+
+14 - ...
+
+15 - ...
+
+16 - ...
+
+17 - ...
+
+18 - O coeficiente Z, aplicável aos seguintes tipos de centrais, assume, para os respectivos regimes de funcionamento anual, os seguintes valores:
+
+a) ...
+
+b) ...
+
+c) Para as centrais de energia solar, até ao limite de uma potência instalada, a nível nacional, de 150 MW:
+
+i) Instalações fotovoltaicas com potência inferior ou igual a 5 kW, com excepção das previstas na alínea d) - 52;
+
+ii) Instalações fotovoltaicas com potência superior a 5 kW - 35;
+
+iii) Instalações termoeléctricas com potência inferior ou igual a 10 MW - 29,3;
+
+iv) Instalações termoeléctricas com potência superior a 10 MW - o factor Z é fixado por portaria do membro do Governo que tutela a área da energia, tendo em consideração as valências do projecto, entre o valor de 15 e 20;
+
+d) Para as centrais fotovoltaicas de microgeração quando instaladas em edifícios de natureza residencial, comercial, de serviços ou industrial, até ao limite de uma potência instalada, a nível nacional, de 50 MW:
+
+i) Com potência inferior ou igual a 5 kW - 55;
+
+ii) Com potência superior a 5 kW e inferior ou igual a 150 kW - 40;
+
+e) Para as centrais de biomassa cujo combustível, até ao limite de uma potência instalada, a nível nacional, de 250 MW, seja:
+
+i) Biomassa florestal residual - 8,2;
+
+ii) Biomassa animal - 7,5;
+
+f) Para as centrais de valorização energética de biogás:
+
+i) Na vertente de digestão anaeróbia de resíduos sólidos urbanos (RSU), de lamas das estações de tratamento das águas residuais (ETAR) e de efluentes e resíduos provenientes da agro-pecuária e da indústria agro-alimentar, até ao limite de uma potência instalada, a nível nacional, de 150 MW - 9,2;
+
+ii) Na vertente de gás de aterro, até ao limite de uma potência instalada, a nível nacional, de 20 MW - 7,5;
+
+iii) Quando superados os limites de potência instalada a nível nacional estabelecidos nas subalíneas i) e ii) anteriores - 3,8;
+
+g) Para as centrais de valorização energética, na vertente de queima, até ao limite de uma potência instalada, a nível nacional, de 150 MW:
+
+i) De resíduos sólidos urbanos indiferenciados (RSU) - 1;
+
+ii) De combustíveis derivados de resíduos (CdR) - 3,8;
+
+h) Para as centrais utilizadoras de energia das ondas:
+
+i) Para os projectos de demonstração de conceito, até um limite de 4 MW de potência por projecto e até ao limite de uma potência instalada, a nível nacional, de 20 MW - 28,4;
+
+ii) Para os projectos em regime pré-comercial, até um limite de 20 MW por projecto e até ao limite de uma potência instalada, a nível nacional, de 100 MW, o factor Z é fixado por portaria do membro do Governo que tutela a área da energia, tendo em consideração as valências do projecto, entre o valor de 16 e 22;
+
+iii) Para os projectos em regime comercial, o factor Z é fixado por portaria do membro do Governo que tutela a área da energia, tendo em consideração as valências do projecto:
+
+1) Aos primeiros 100 MW e até um limite de potência instalada por tecnologia a nível mundial de 300 MW entre 8 e 16;
+
+2) Aos 150 MW seguintes e até um limite de potência instalada por tecnologia a nível mundial de 600 MW entre 6 e 10;
+
+3) Quando superados os limites de potência estabelecidos nos números anteriores - 4,6.
+
+i) Para as instalações relativas às tecnologias renováveis não referidas nas alíneas anteriores ou quando os limites de potência instalada a nível nacional previstos nas alíneas anteriores forem ultrapassados, o coeficiente Z assume o valor 1, sem prejuízo do disposto no n.º 19.
+
+19 - ...
+
+20 - O montante de remuneração definido por VRD é aplicável, para cada megawatt de potência de injecção na rede atribuído, determinado com base num factor de potência de 0,98:
+
+a) ...
+
+b) Para as centrais hídricas, aos primeiros 52 GWh entregues à rede, por megawatt de injecção na rede atribuído, até ao limite máximo dos primeiros 20 anos a contar desde o início do fornecimento de electricidade à rede que poderá, em casos excepcionais devidamente fundamentados, ser prorrogado por mais cinco anos, mediante despacho do membro do Governo que tutela a área da energia, a requerimento do promotor interessado;
+
+c) Para as centrais de energia solar, durante os primeiros 21 GWh entregues à rede por megawatt de potência de injecção na rede atribuído, até ao limite máximo dos primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+d) Para as centrais solares termoeléctricas e centrais fotovoltaicas de microgeração quando instaladas em edifícios de natureza residencial, de serviços ou industrial, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+e) Para as centrais cujo combustível seja biomassa florestal residual ou biomassa animal, durante os primeiros 25 anos a contar desde o início do fornecimento de electricidade à rede;
+
+f) Para as centrais de valorização energética de biogás, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+g) Para todas as centrais de valorização energética, na vertente de queima, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+h) Para as centrais utilizadoras de energia das ondas, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+i) Para as instalações relativas às energias renováveis não referidas nas alíneas anteriores, durante os primeiros 12 anos a contar desde o início do fornecimento de electricidade à rede.
+
+21 - ...
+
+22 - ...
+
+23 - ...
+
+24 - As centrais electroprodutoras já licenciadas ao abrigo dos Decretos-Leis n.os 189/88, de 27 de Maio, e 312/2001, de 10 de Dezembro, poderão requerer a integração no regime de remuneração resultante da aplicação das fórmulas contidas no presente anexo, sendo que o IPC(índice ref) a considerar será o do mês anterior à decisão do director-geral de Geologia e Energia que aprovar o pedido, sem prejuízo da contagem dos prazos a partir da atribuição da licença de exploração, nos termos previstos no n.º 20.
+
+25 - ...
+
+26 - ...
+
+27 - ...
+
+28 - ...
+
+29 - ...
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+> Retificado pelo/a [Declaração de Rectificação n.º 71/2007 - Diário da República n.º 141/2007, Série I de 2007-07-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2007-636750), produz efeitos a partir de 2007-06-01
+
+###### Artigo 3.º — Sobreequipamento de centrais eólicas
+
+1 - A central eólica pode ser sobreequipada até ao limite de 20 % da potência de injecção atribuída.
+
+2 - Designa-se por sobreequipamento a instalação de novos aerogeradores destinados a obter um aumento da potência instalada em central eólica até ao limite máximo estabelecido no número anterior.
+
+3 - O sobreequipamento está sujeito a mera comunicação prévia à Direcção-Geral de Energia e Geologia (DGEG), excepto nos casos previstos no número seguinte.
+
+4 - O sobreequipamento está sujeito a autorização, nos termos dos Decretos-Leis n.os 189/88, de 27 de Maio, alterado pelos Decretos-Leis n.os 313/95, de 24 de Novembro, e 168/99, de 18 de Maio, e 339-C/2001, de 29 de Dezembro, nos casos em que seja obrigatória a realização de avaliação de impacte ambiental ou avaliação de incidência ambiental.
+
+5 - Considera-se que o sobreequipamento não tem impacte negativo importante no ambiente e não é susceptível de afectar o sítio onde se pretende efectuar essa instalação de forma significativa, não estando sujeito a avaliação de impacte ambiental ou a avaliação de incidência ambiental, nos seguintes casos:
+
+a) Quando, em áreas não sensíveis, o sobreequipamento não implique a instalação de 20 ou mais torres e a distância de outro parque similar não passe a ser inferior a 2 km;
+
+b) Quando, em áreas sensíveis, o sobreequipamento não implique a instalação de 10 ou mais torres e a distância de outro parque similar não passe a ser inferior a 2 km.
+
+6 - A potência de injecção atribuída à central eólica mantém-se inalterada não obstante o sobreequipamento.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 94/2014 - Diário da República n.º 119/2014, Série I de 2014-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2014-25676941), em vigor a partir de 2014-06-25
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 51/2010 - Diário da República n.º 98/2010, Série I de 2010-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2010-614841), em vigor a partir de 2010-05-25
+
+###### Artigo 3.º-A — Comunicação prévia do sobreequipamento
+
+1 - A comunicação prévia referida no artigo anterior é efectuada com o projecto do sobreequipamento da central eólica, planta de localização em escala adequada, indicação da central eólica a que respeita, comprovativo do direito de utilização dos terrenos necessários para o sobreequipamento e declaração do promotor, baseada em informação do fabricante atestando a conformidade de todos os aerogeradores da central sobrequipada com os regulamentos de segurança de instalações eléctricas e os regulamentos da rede de transporte ou rede de distribuição.
+
+2 - A DGEG disponibiliza, no respectivo sítio da Internet, nos Portais do Cidadão e da Empresa, a minuta da declaração referida no número anterior.
+
+3 - Todas as comunicações entre os interessados e outros intervenientes no procedimento de comunicação prévia devem ser efectuados por meios electrónicos, através dos sítios na Internet que disponibilizam os Portais do Cidadão e da Empresa, sem prejuízo da utilização do sítio na Internet da DGEG.
+
+4 - Em circunstâncias devidamente fundamentadas, a DGEG autoriza que a potência de sobreequipamento a instalar numa dada central eólica possa ser transferida para outra central licenciada ao mesmo titular, considerando-se ambas as centrais sobreequipadas.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 94/2014 - Diário da República n.º 119/2014, Série I de 2014-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2014-25676941), em vigor a partir de 2014-06-25
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2010 - Diário da República n.º 98/2010, Série I de 2010-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2010-614841), em vigor a partir de 2010-05-25
+
+###### Artigo 3.º-B — Equipamento para suportar cavas de tensão
+
+1 - Todos os aerogeradores de uma central eólica ligada à rede de transporte ou à rede de distribuição devem ter instalado equipamento para suportar cavas de tensão e fornecer energia reactiva durante essas cavas.
+
+2 - Os Regulamentos das Redes de Transporte e de Distribuição estabelecem as regras para cumprimento do disposto no número anterior e, relativamente a centrais eólicas em exploração, definem o prazo para o seu cumprimento e os termos em que a DGEG pode dispensar a instalação dos equipamentos nele previstos.
+
+3 - O operador da rede a que a central eólica se encontra ligada pode suspender a injecção de electricidade proveniente de aerogeradores não dotados do equipamento previsto no n.º 1, nos termos estabelecidos nos Regulamentos das Redes de Transporte e de Distribuição.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 94/2014 - Diário da República n.º 119/2014, Série I de 2014-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2014-25676941), em vigor a partir de 2014-06-25
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2010 - Diário da República n.º 98/2010, Série I de 2010-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2010-614841), em vigor a partir de 2010-05-25
+
+###### Artigo 3.º-C — Remuneração anterior ao Decreto-Lei n.º 33-A/2005, de 16 de Fevereiro
+
+1 - Quando o regime remuneratório aplicável à central eólica seja o previsto no artigo 4.º do Decreto-Lei n.º 33-A/2005, de 16 de Fevereiro, e enquanto tal regime se mantiver, a totalidade da energia nela produzida é remunerada nos termos seguintes:
+
+a) Com um desconto de 0,12 % sobre a tarifa aplicável por cada aumento de 1 % na capacidade instalada relativamente à potência de injecção atribuída; ou
+
+b) Nos casos em que a central, comprovadamente, não tenha condições para proceder ao sobreequipamento e tenha instalado o equipamento destinado a suportar cavas de tensão e a fornecer energia reactiva durante essas cavas, com um adicional sobre a tarifa aplicável de (euro) 1,60 por cada megawatt-hora.
+
+2 - A prova da não existência de condições para o sobreequipamento nos termos referidos na alínea b) do número anterior carece de aceitação pela DGEG.
+
+3 - O adicional referido na alínea b) do n.º 1 vigora pelo período de sete anos contados a partir do mês seguinte ao da entrada em exploração do equipamento destinado a suportar cavas de tensão e a fornecer energia reactiva durante essas cavas.
+
+4 - Ao aumento da potência resultante do sobreequipamento corresponde um aumento equivalente na potência declarada para efeitos da facturação.
+
+> Revogado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 94/2014 - Diário da República n.º 119/2014, Série I de 2014-06-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2014-25676941), em vigor a partir de 2014-06-25
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2010 - Diário da República n.º 98/2010, Série I de 2010-05-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2010-614841), em vigor a partir de 2010-05-25
+
+###### Artigo 4.º — Alteração ao Decreto-Lei n.º 33-A/2005, de 16 de Fevereiro
+
+Os artigos 4.º, 5.º e 6.º do Decreto-Lei n.º 33-A/2005, de 16 de Fevereiro, passam a ter a seguinte redacção:
+
+«Artigo 4.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - A requerimento do promotor, o prazo referido no número anterior pode ser prorrogado, por despacho do director-geral de Geologia e Energia, por um ou mais períodos com a duração máxima de um ano, desde que o prazo de prorrogação não ultrapasse a data de 31 de Dezembro de 2008 ou 12 meses após a efectiva disponibilização da potência de ligação pelo operador da rede, conforme o prazo mais alargado, e desde que o incumprimento do prazo tenha origem em motivos que não sejam comprovadamente imputáveis ao promotor.
+
+8 - ...
+
+9 - ...
+
+Artigo 5.º
+
+[...]
+
+1 - ...
+
+2 - O membro do Governo responsável pela área da energia pode, a requerimento fundamentado do promotor dirigido à DGGE e nos casos em que o atraso não seja imputável ao promotor, prorrogar o prazo referido no número anterior por período não superior a 36 meses, no caso das centrais hídricas, ou por período não superior a 24 meses nos restantes casos.
+
+Artigo 6.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - O membro do Governo responsável pela área da energia pode, a requerimento fundamentado do promotor dirigido à DGGE, prorrogar os prazos referidos nos números anteriores por período adicional não superior a 12 meses, que no caso das centrais hídricas poderá ser concedido por período não superior a 36 meses.
+
+4 - No caso de ser atribuída, no âmbito de concurso público realizado nos termos do artigo 14.º do Decreto-Lei n.º 312/2001, de 10 de Dezembro, capacidade de injecção de potência na rede do Sistema Eléctrico de Serviço Público e esta não possa ser disponibilizada na respectiva zona de rede por motivos não imputáveis ao adjudicatário, pode este propor, até ao prazo limite em que a capacidade de injecção de potência lhe tenha sido reservada, a permuta dos pontos de recepção cuja identificação consta do contrato por outros com características idênticas e relativamente aos quais o promotor reúna todos os requisitos para atribuição.
+
+5 - A permuta referida no número anterior é autorizada pelo director-geral de Geologia e Energia desde que exista capacidade de injecção na rede do Sistema Eléctrico de Serviço Público, não resultem prejuízos para o interesse público e não prejudique interesses de terceiros já constituídos à data.»
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 5.º — Avaliação de incidências ambientais da instalação de centros electroprodutores que utilizem fontes de energia renováveis
+
+1 - O licenciamento de projectos de centros electroprodutores que utilizem fontes de energia renováveis, que não se encontrem abrangidos pelo Decreto-Lei n.º 69/2000, de 3 de Maio, com a redacção dada pelo Decreto-Lei n.º 197/2005, de 8 de Novembro, e cuja localização esteja prevista em áreas da Reserva Ecológica Nacional, Sítios da Rede Natura 2000 ou da Rede Nacional de Áreas Protegidas, é sempre precedido de um procedimento de avaliação de incidências ambientais, a realizar pela comissão de coordenação e desenvolvimento regional (CCDR) territorialmente competente, com base num estudo de incidências ambientais apresentado pelo promotor tendo em consideração as políticas energéticas e ambientais vigentes.
+
+2 - Os estudos de incidências ambientais referidos no número anterior devem enunciar os impactes locais dos projectos e das respectivas instalações acessórias através da identificação das principais condicionantes existentes e dos descritores ambientais susceptíveis de serem afectados, bem como prever medidas de monitorização e medidas de minimização e recuperação das áreas afectadas, a implementar em fase de obra.
+
+3 - No caso de projectos a instalar em Sítios da Rede Natura 2000, os estudos de incidências ambientais devem obrigatoriamente abranger as vertentes definidas nas alíneas a) a e) do n.º 6 do artigo 10.º do Decreto-Lei n.º 140/99, de 24 de Abril, na redacção dada pelo Decreto-Lei n.º 49/2005, de 24 de Fevereiro.
+
+4 - Consoante a fonte de energia renovável a partir da qual é produzida a electricidade, podem ser definidos, por despacho conjunto dos membros do Governo responsáveis pelas áreas do ambiente e da energia, os descritores específicos a serem tratados nos estudos de incidências ambientais.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 6.º — Procedimento de avaliação de incidências ambientais
+
+1 - Para efeitos do disposto no artigo anterior, o promotor entrega o estudo de incidências ambientais à entidade licenciadora, acompanhado do projecto a licenciar e dos demais elementos exigidos nos termos da legislação relativa ao licenciamento para a produção de electricidade.
+
+2 - A entidade licenciadora remete o estudo de incidências ambientais, o plano de acompanhamento ambiental e um exemplar do projecto a licenciar à CCDR territorialmente competente em função da localização do projecto, dispondo esta de 12 dias úteis após a recepção dos elementos para verificar da sua conformidade com o estabelecido no artigo anterior e demais legislação aplicável.
+
+3 - Em caso de desconformidade, a CCDR convoca o promotor para a realização de uma conferência instrutória, na qual são analisados todos os aspectos considerados necessários à decisão favorável do procedimento de avaliação de incidências ambientais, podendo ainda ser solicitada, por uma única vez, a apresentação de elementos instrutórios adicionais.
+
+4 - No caso de o promotor não juntar no prazo de 50 dias úteis os elementos solicitados pela CCDR nos termos do número anterior ou de os juntar de forma deficiente ou insuficiente, o procedimento de avaliação de incidências ambientais é encerrado, devendo a CCDR notificar desse facto a entidade licenciadora e o promotor.
+
+5 - No prazo de 10 dias úteis a contar da recepção dos elementos mencionados no n.º 2 ou da recepção dos elementos adicionais referidos no n.º 3 do presente artigo, a CCDR promove a publicação de aviso contendo os elementos referidos nas alíneas a), b), j) e m) do n.º 1 do artigo 14.º do Decreto-Lei n.º 69/2000, de 3 de Maio, com a redacção dada pelo Decreto-Lei n.º 197/2005, de 8 de Novembro, a identificação dos documentos que integram o procedimento, a indicação do local e data onde estes se encontram disponíveis para consulta e o prazo de duração da consulta pública, que será de 20 dias úteis.
+
+6 - Em razão das especificidades do projecto ou do estudo de incidências ambientais, a CCDR pode promover a consulta de outras entidades, as quais devem pronunciar-se no prazo de 20 dias úteis.
+
+7 - No caso de projectos a localizar em Sítios da Rede Natura 2000 ou da Rede Nacional de Áreas Protegidas, a CCDR consulta obrigatoriamente o Instituto da Conservação da Natureza e da Biodiversidade (ICNB), I. P.
+
+8 - A não emissão de parecer no prazo de 20 dias úteis contados da data de promoção das consultas previstas nos números anteriores equivale à emissão de parecer favorável.
+
+9 - As consultas previstas nos números anteriores são dispensadas se os respectivos pareceres, com uma antiguidade não superior a um ano, estiverem já incluídos no processo entregue pelo promotor.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 7.º — Decisão do procedimento de avaliação de incidências ambientais
+
+1 - No prazo de 12 dias úteis a contar do termo do prazo da consulta pública prevista no n.º 5 do artigo anterior, a CCDR elabora e remete ao membro do Governo que tutela a área do ambiente uma proposta de decisão.
+
+2 - A decisão do procedimento de avaliação de incidências ambientais (DIncA), que pode ser desfavorável, favorável ou condicionalmente favorável, é proferida pelo membro do Governo que tutela a área do ambiente no prazo de 12 dias úteis contados a partir da recepção da proposta de decisão da CCDR.
+
+3 - Considera-se que a decisão do procedimento de avaliação de incidências ambientais é favorável se nada for comunicado à entidade licenciadora no prazo de 60 dias úteis a contar da data da recepção pela CCDR dos elementos referidos no n.º 2 do artigo anterior.
+
+4 - O prazo previsto no número anterior suspende-se durante o período em que o procedimento esteja parado por motivo imputável ao promotor, designadamente na situação prevista no n.º 3 do artigo anterior.
+
+5 - As disposições relativas à força jurídica e caducidade previstas nos artigos 20.º e 21.º do Decreto-Lei n.º 69/2000, de 3 de Maio, aplicam-se, com as necessárias adaptações, aos centros electroprodutores sujeitos ao procedimento de avaliação de incidências ambientais previsto no presente decreto-lei.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 8.º — Consequências da avaliação ambiental favorável
+
+1 - Nos casos de projectos a localizar em Sítios da Rede Natura 2000 ou da Rede Nacional de Áreas Protegidas e desde que o ICNB, I. P., tenha emitido parecer nos termos previstos nos n.os 7 ou 8 do artigo 6.º, a emissão da DIncA, quando favorável ou condicionalmente favorável, determina:
+
+a) A não aplicação do n.º 2 do artigo 9.º do Decreto-Lei n.º 140/99, de 24 de Abril, na redacção dada pelo Decreto-Lei n.º 49/2005, de 24 de Fevereiro;
+
+b) A desnecessidade de emissão de parecer ou deliberação de aprovação por parte dos órgãos competentes das áreas protegidas quando tal se encontre previsto nos respectivos diplomas de criação ou regulamentos específicos.
+
+2 - O disposto no número anterior é aplicável aos projectos de centros electroprodutores que utilizem fontes de energia renováveis abrangidos pelo Decreto-Lei n.º 69/2000, de 3 de Maio, relativamente aos quais tenha sido proferida declaração de impacte ambiental favorável ou condicionalmente favorável e desde que o ICNB, I. P., tenha emitido parecer no âmbito do respectivo procedimento de avaliação de impacte ambiental ou decorrido o prazo para o efeito.
+
+3 - Nos casos de projectos a localizar em áreas delimitadas como REN, a emissão de DIncA ou DIA favorável ou condicionalmente favorável determina a dispensa de emissão da autorização prevista na alínea a) do n.º 2 do artigo 4.º do Decreto-Lei n.º 93/90, de 19 de Março, na redacção dada pelo Decreto-Lei n.º 180/2006, de 6 de Setembro.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 9.º — Taxas
+
+Com o objectivo de custear os encargos administrativos que lhe são inerentes, é aplicável ao procedimento de avaliação de incidências ambientais, com as devidas adaptações, o disposto na Portaria n.º 1257/2005, de 2 de Dezembro, ou equivalente, relativa às taxas devidas no âmbito do procedimento de avaliação de impacte ambiental.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 10.º — Instalações acessórias de centro electroprodutor que utilize fontes de energia renováveis
+
+Para efeitos do presente decreto-lei, entende-se por instalações acessórias todas as instalações e correspondente área de implantação ou localização da unidade de produção de energia eléctrica, bem como as linhas eléctricas de interligação e respectivos corredores e zonas de passagem, acessos e outras infra-estruturas indispensáveis ao normal funcionamento da unidade, tais como subestações ou acessos e ainda, no que à energia hídrica diz respeito, a zona de albufeira, do açude e das condutas forçadas.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 11.º — Observatório das Energias Renováveis
+
+1 - É criado o Observatório das Energias Renováveis (ObsER), com o objectivo de acompanhar e monitorizar a instalação e o funcionamento dos centros electroprodutores que utilizem fontes de energia renováveis, bem como a utilização dos recursos primários, na óptica da gestão racional e sustentável destes recursos, podendo ser constituídos no seu âmbito secções ou grupos de trabalho em função dos diversos tipos de fontes de energia renovável.
+
+2 - As competências, a composição e o funcionamento do ObsER são definidos em regulamento interno, aprovado por portaria conjunta dos membros do Governo responsáveis pelas áreas do ambiente, da energia e da agricultura.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 12.º — Norma revogatória
+
+São revogados:
+
+a) O n.º 2 do artigo 12.º, o artigo 15.º e o n.º 3 do artigo 41.º da Portaria n.º 295/2002, de 19 de Março;
+
+b) O despacho conjunto n.º 51/2004, de 19 de Dezembro de 2003, publicado no Diário da República, 2.ª série, n.º 26, de 31 de Janeiro de 2004.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 13.º — Republicação
+
+É republicado, em anexo, que faz parte integrante do presente decreto-lei, o anexo II do Decreto-Lei n.º 189/88, de 27 de Maio, com a redacção actual.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+Visto e aprovado em Conselho de Ministros de 22 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
+
+Promulgado em 15 de Maio de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 16 de Maio de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+## Anexo — Republicação do anexo II do Decreto-Lei n.º 189/88, de 27 de Maio
+
+1 - As instalações licenciadas ao abrigo dos Decretos-Leis n.os 189/88, de 27 de Maio, e 312/2001, de 10 de Dezembro, adiante designadas por centrais renováveis, serão remuneradas pelo fornecimento da electricidade entregue à rede através da fórmula seguinte:
+
+VDR (índice m) = {KMHO (índice m) x [PF (VDR) (índice m) + PV (VDR) (índice m)] + + PA (VDR) (índice m) x Z} x [IPC (índide m-1)/IPC (índice ref)] x [1/(1-LEV)]
+
+2 - Na fórmula do número anterior:
+
+a) VRD (índice m) é a remuneração aplicável a centrais renováveis, no mês m;
+
+b) KMHOm é um coeficiente que modula os valores de PF(VRD)m, de PV(VRD)m e de PA(VRD)m em função do posto horário em que a electricidade tenha sido fornecida;
+
+c) PF(VRD)(índice m) é a parcela fixa da remuneração aplicável a centrais renováveis, no mês m;
+
+d) PV(VRD)(índice m) é a parcela variável da remuneração aplicável a centrais renováveis, no mês m;
+
+e) PA(VRD)(índice m) é a parcela ambiental da remuneração aplicável a centrais renováveis, no mês m;
+
+f) IPCm-1 é o índice de preços no consumidor, sem habitação, no continente, referente ao mês m-1;
+
+g) Z é o coeficiente adimensional que traduz as características específicas do recurso endógeno e da tecnologia utilizada na instalação licenciada;
+
+h) IPCref é o índice de preços no consumidor, sem habitação, no continente, referente ao mês anterior ao do início do fornecimento de electricidade à rede pela central renovável;
+
+i) LEV representa as perdas, nas redes de transporte e distribuição, evitadas pela central renovável.
+
+3 - Relativamente à modulação tarifária traduzida pelo coeficiente KMHOm, as centrais renováveis deverão decidir, no acto do licenciamento, se optam ou não por ela, com excepção das centrais hídricas para as quais esta é obrigatória.
+
+4 - Para as centrais renováveis que, no acto de licenciamento e nos termos do número anterior, tiverem optado pela modulação tarifária traduzida pelo coeficiente KMHO, este tomará o seguinte valor:
+
+KMHO = [KMHO (índice pc) x ECR (índice pc,m) + KMHO (índice v) x ECR (índice v, m)]/[ECR (índice m)]
+
+5 - Na fórmula do número anterior:
+
+a) KMHO(índice pc) é um factor que representa a modulação correspondente a horas cheias e de ponta, o qual, para efeitos do presente anexo, toma o valor de 1,15 para as centrais hídricas e o valor de 1,25 para as restantes instalações de produção licenciadas ao abrigo do Decreto-Lei n.º 189/88, de 27 de Maio, e instalações de bombagem;
+
+b) ECR(índice pc,m) é a electricidade produzida pela central renovável nas horas cheias e de ponta do mês m, expressa em kilowatts-hora;
+
+c) KMHO(índice v) é um factor que representa a modulação correspondente a horas de vazio, o qual, para efeitos do presente anexo, toma o valor de 0,80 para as centrais hídricas e o valor de 0,65 para as restantes instalações de produção licenciadas ao abrigo do Decreto-Lei n.º 189/88, de 27 de Maio;
+
+d) ECR(índice vm) é a electricidade produzida pela central renovável nas horas de vazio do mês m, expressa em kilowatts-hora;
+
+e) ECR(índice m) é a electricidade produzida pela central renovável no mês m, expressa em kilowatts-hora.
+
+6 - Para as centrais renováveis que, no acto de licenciamento e nos termos do n.º 3, não tiverem optado pela modulação tarifária traduzida pelo coeficiente KMHOm, este tomará o valor 1.
+
+7 - Para efeitos do disposto no n.º 3, considera-se que:
+
+a) No período de hora legal de Inverno, as horas vazias ocorrem entre as 0 e as 8 e entre as 22 e as 24 horas, sendo as restantes horas do dia consideradas horas cheias e de ponta;
+
+b) No período de hora legal de Verão, as horas vazias ocorrem entre as 0 e as 9 e entre as 23 e as 24 horas, sendo as restantes horas do dia consideradas horas cheias e de ponta.
+
+8 - O valor de PF(VRD)(índice m), previsto no n.º 1, é calculado através da fórmula seguinte:
+
+PF (VRD) (índice m) = PF(U)(índice ref) x COEF (índice pot,m) x POT (índice med,m)
+
+9 - Na fórmula do número anterior:
+
+a) PF(U)(índice ref) é o valor unitário de referência para PF(VRD)(índice m), o qual:
+
+i) Deve corresponder à mensualização do custo unitário de investimento nos novos meios de produção cuja construção é evitada por uma central renovável que assegure o mesmo nível de garantia de potência que seria proporcionado por esses novos meios de produção;
+
+ii) Toma o valor de E 5,44 por kilowatts-hora por mês;
+
+iii) Será utilizado, em cada central, durante todo o período em que a remuneração definida por VRD seja aplicável;
+
+b) COEF(índice pot,m) é um coeficiente adimensional que traduz a contribuição da central renovável, no mês m, para a garantia de potência proporcionada pela rede pública;
+
+c) POT(índice med,m) é a potência média disponibilizada pela central renovável à rede pública no mês m, expressa em kilowatts.
+
+10 - O valor de COEF(índice po,m), previsto no n.º 8, é calculado através da fórmula seguinte:
+
+COEF(índice pot,m) = [(NHP(índice ref,m)/NHO(índice ref,m)) = ((ECR(índice m)/POT(índice dec))/(0,80 x 24 x NDM(índice m))) = (ECR(índice m)/(576 x POT(índice dec)))]
+
+11 - Na fórmula do número anterior:
+
+a) NHP(índice ref,m) é o número de horas que a central renovável funcionou à potência de referência no mês m, o qual é avaliado pelo quociente ECRm/POTdec;
+
+b) NHO(índice ref,m) é o número de horas que servem de referência para o cálculo, no mês m, de COEF(índice pot,m), o qual é avaliado pelo produto 0,80 x 24 x NDMm;
+
+c) POT(índice dec) é a potência da central, declarada pelo produtor no acto de licenciamento, expressa em kilowatts-hora;
+
+d) NDM(índice m) é o número de dias do mês m, o qual, para efeitos do presente anexo, toma o valor 30.
+
+12 - O valor de POT(índice med,m), previsto no n.º 8, é calculado através da fórmula seguinte:
+
+POT(índice med,m) = min (POT(índice dec); (ECR(índice m)/24 x NDM(índice m))))
+
+13 - O valor de PV(VRD)(índice m), previsto no n.º 1, é calculado através da fórmula seguinte:
+
+PV (VRD)(índice m) = PV (U)(índice ref) x ECR(índice m)
+
+14 - Na fórmula do número anterior, PV(U)(índice ref) é o valor unitário de referência para PV(VRD)(índice m), o qual:
+
+a) Deve corresponder aos custos de operação e manutenção que seriam necessários à exploração dos novos meios de produção cuja construção é evitada pela central renovável;
+
+b) Toma o valor de E 0,036/kilowatts-hora;
+
+c) Será utilizado, em cada central, durante todo o período em que a remuneração definida por VRD seja aplicável.
+
+15 - O valor de PA (VRD)(índice m), previsto no n.º 1, é aplicado de acordo com o disposto no n.º 17, sendo calculado através da seguinte fórmula:
+
+PA (VRD)(índice m) = ECE (U) (índice ref) x CCR (índice ref) x ECR (índice m)
+
+16 - Na fórmula do número anterior:
+
+a) ECE(U)(índice ref) é o valor unitário de referência para as emissões de dióxido de carbono evitadas pela central renovável, o qual:
+
+i) Deve corresponder a uma valorização unitária do dióxido de carbono que seria emitido pelos novos meios de produção cuja construção é evitada pela central renovável;
+
+ii) Toma o valor de 2*10^ - (euro) 5/g;
+
+iii) Será utilizado, em cada central, durante todo o período em que a remuneração definida por VRD seja aplicável;
+
+b) CCR(índice ref) é o montante unitário das emissões de dióxido de carbono da central de referência, o qual toma o valor de 370 g/kilowatts-hora e será utilizado, em cada central, durante todo o período em que a remuneração definida por VRD seja aplicável.
+
+17 - O parâmetro LEV, previsto no n.º 1, toma os seguintes valores:
+
+a) 0,015, no caso de centrais com potência maior ou igual a 5 MW;
+
+b) 0,035, no caso de centrais com potência menor que 5 MW.
+
+18 - O coeficiente Z, aplicável aos seguintes tipos de centrais, assume, para os respectivos regimes de funcionamento anual, os seguintes valores:
+
+a) Para as centrais eólicas - 4,6;
+
+b) Para as centrais hídricas:
+
+i) Com POTdec até 10 MW, inclusive - 4,5;
+
+ii) Com POTdec entre 10 MW e 30 MW - valor definido na subalínea i) subtraído de 0,075 por cada megawatt adicional face ao limite superior definido na subalínea i);
+
+iii) Com POTdec superior a 30 MW - valor a definir em portaria do ministro que tutela a DGGE;
+
+iv) Instalações de bombagem - 0;
+
+c) Para as centrais de energia solar, até ao limite de uma potência instalada, a nível nacional, de 150 MW:
+
+i) Instalações fotovoltaicas com potência inferior ou igual a 5 kW, com excepção das previstas na alínea d) - 52;
+
+ii) Instalações fotovoltaicas com potência superior a 5 kW - 35;
+
+iii) Instalações termoeléctricas com potência inferior ou igual a 10 MW - 29,3;
+
+iv) Instalações termoeléctricas com potência superior a 10 MW - o factor Z é fixado por portaria do membro do Governo que tutela a área da energia, tendo em consideração as valências do projecto, entre o valor de 15 e 20;
+
+d) Para as centrais fotovoltaicas de microgeração quando instaladas em edifícios de natureza residencial, comercial, de serviços ou industrial, até ao limite de uma potência instalada, a nível nacional, de 50 MW:
+
+i) Com potência inferior ou igual a 5 kW - 55;
+
+ii) Com potência superior a 5 kW e inferior ou igual a 150 kW - 40;
+
+e) Para as centrais de biomassa cujo combustível, até ao limite de uma potência instalada, a nível nacional, de 250 MW, seja:
+
+i) Biomassa florestal residual - 8,2;
+
+ii) Biomassa animal - 7,5;
+
+f) Para as centrais de valorização energética de biogás:
+
+i) Na vertente de digestão anaeróbia de resíduos sólidos urbanos (RSU), de lamas das estações de tratamento das águas residuais (ETAR) e de efluentes e resíduos provenientes da agro-pecuária e da indústria agro-alimentar, até ao limite de uma potência instalada, a nível nacional, de 150 MW - 9,2;
+
+ii) Na vertente de gás de aterro, até ao limite de uma potência instalada, a nível nacional, de 20 MW - 7,5;
+
+iii) Quando superados os limites de potência instalada a nível nacional estabelecidos nas subalíneas i) e ii) anteriores - 3,8;
+
+g) Para as centrais de valorização energética, na vertente de queima, até ao limite de uma potência instalada, a nível nacional, de 150 MW:
+
+i) De resíduos sólidos urbanos indiferenciados (RSU) - 1;
+
+ii) De combustíveis derivados de resíduos (CdR) - 3,8;
+
+h) Para as centrais utilizadoras de energia das ondas:
+
+i) Para os projectos de demonstração de conceito, até um limite de 4 MW de potência por projecto e até ao limite de uma potência instalada, a nível nacional, de 20 MW - 28,4;
+
+ii) Para os projectos em regime pré-comercial, até um limite de 20 MW por projecto e até ao limite de uma potência instalada, a nível nacional, de 100 MW, o factor Z é fixado por portaria do membro do Governo que tutela a área da energia, tendo em consideração as valências do projecto, entre o valor de 16 e 22;
+
+iii) Para os projectos em regime comercial, o factor Z é fixado por portaria do membro do Governo que tutela a área da energia, tendo em consideração as valências do projecto:
+
+1) Aos primeiros 100 MW e até um limite de potência instalada por tecnologia a nível mundial de 300 MW entre 8 e 16;
+
+2) Aos 150 MW seguintes e até um limite de potência instalada por tecnologia a nível mundial de 600 MW entre 6 e 10;
+
+3) Quando superados os limites de potência estabelecidos nos números anteriores - 4,6;
+
+i) Para as instalações relativas às tecnologias renováveis não referidas nas alíneas anteriores ou quando os limites de potência instalada a nível nacional previstos nas alíneas anteriores forem ultrapassados, o coeficiente Z assume o valor 1, sem prejuízo do disposto no n.º 19.
+
+19 - Novos tipos de tecnologias e correspondentes valores, bem como, a título excepcional, projectos que sejam reconhecidos como de interesse nacional pelas suas características inovadoras, podem ser objecto de atribuição de um coeficiente Z diferente do que seria aplicável à correspondente tecnologia mediante portaria do membro do Governo que tutele a DGGE.
+
+20 - O montante de remuneração definido por VRD é aplicável, para cada megawatt de potência de injecção na rede atribuído, determinado com base num factor de potência de 0,98:
+
+a) Para as centrais eólicas, aos primeiros 33 GWh entregues à rede, por megawatt de potência de injecção na rede atribuído até ao limite máximo dos primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+b) Para as centrais hídricas, aos primeiros 52 GWh entregues à rede, por megawatt de injecção na rede atribuído, até ao limite máximo dos primeiros 20 anos a contar desde o início do fornecimento de electricidade à rede que poderá, em casos excepcionais devidamente fundamentados, ser prorrogado por mais cinco anos, mediante despacho do membro do Governo que tutela a área da energia, a requerimento do promotor interessado;
+
+c) Para as centrais de energia solar, durante os primeiros 21 GWh entregues à rede por megawatt de potência de injecção na rede atribuído, até ao limite máximo dos primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+d)Para as centrais solares termoeléctricas e centrais fotovoltaicas de microgeração quando instaladas em edifícios de natureza residencial, de serviços ou industrial, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede.
+
+e) Para as centrais cujo combustível seja biomassa florestal residual ou biomassa animal, durante os primeiros 25 anos a contar desde o início do fornecimento de electricidade à rede;
+
+f) Para as centrais de valorização energética de biogás, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+g) Para todas as centrais de valorização energética, na vertente de queima, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+h) Para as centrais utilizadoras de energia das ondas, durante os primeiros 15 anos a contar desde o início do fornecimento de electricidade à rede;
+
+i) Para as instalações relativas às energias renováveis não referidas nas alíneas anteriores, durante os primeiros 12 anos a contar desde o início do fornecimento de electricidade à rede.
+
+21 - Nos casos de prorrogação previstos nas alíneas b) e d) do n.º 20, bem como nos outros casos de prorrogação autorizados pelo membro do Governo que tutele a DGGE, sob proposta da DGGE, os parâmetros de valorização da tarifa são os vigentes à data da prorrogação e o IPCref o do mês anterior ao da prorrogação.
+
+22 - Sem prejuízo do disposto no número anterior, atingidos os limites estabelecidos no n.º 20, as centrais renováveis serão remuneradas pelo fornecimento da electricidade entregue à rede a preços de mercado e pelas receitas obtidas da venda de certificados verdes.
+
+23 - As condições relativas à energia reactiva a fornecer pelos produtores serão estabelecidas nos regulamentos da rede de distribuição e transporte.
+
+24 - As centrais electroprodutoras já licenciadas ao abrigo dos Decretos-Leis n.os 189/88, de 27 de Maio, e 312/2001, de 10 de Dezembro, poderão requerer a integração no regime de remuneração resultante da aplicação das fórmulas contidas no presente anexo, sendo que o IPCref a considerar será o do mês anterior à decisão do director-geral de Geologia e Energia que aprovar o pedido, sem prejuízo da contagem dos prazos a partir da atribuição da licença de exploração, nos termos previstos no n.º 20.
+
+25 - Sem prejuízo do disposto no n.º 29, os valores referidos no presente anexo, incluindo os dos limites máximos deles constantes, devem ser revistos mediante decreto-lei, com a regularidade que for julgada conveniente, de forma a reflectir, designadamente, a actualização dos custos de investimento e exploração para cada tecnologia, a inflação e o preço da energia.
+
+26 - O decreto-lei referido no número anterior aplica-se apenas à electricidade produzida em instalações cuja licença de estabelecimento seja atribuída até 1 mês após a entrada em vigor do mesmo, podendo ainda a sua aplicação ser limitada às instalações que obtenham licença de exploração no prazo de 24 meses após a data da licença de estabelecimento.
+
+27 - Para centrais eólicas, tendo presente a conveniência de reflectir uma repartição dos benefícios globais que lhe são inerentes a nível nacional e local, é devida aos municípios, pelas empresas detentoras das licenças de exploração de parques eólicos, uma renda de 2,5% sobre o pagamento mensal feito pela entidade receptora da electricidade produzida, em cada instalação, nos seguintes termos:
+
+a) Quando as instalações licenciadas estejam instaladas em mais de um município, a renda é repartida proporcionalmente à potência instalada em cada município;
+
+b) Nos casos em que as empresas detentoras das licenças de exploração tenham celebrado quaisquer acordos ou contratos com as autarquias locais em cuja área estão implantadas, a título de compensação pela respectiva exploração, aplicar-se-á o seguinte:
+
+i) Manutenção da situação actual contratualizada, se esse pagamento for previsionalmente igual ou superior à renda definida na alínea a) durante o período de vigência da licença de exploração da central;
+
+ii) Prevalência do disposto neste diploma, em caso de opção da autarquia, caso tal pagamento for previsionalmente inferior à renda definida na alínea a) durante o período de vigência da licença de exploração da central.
+
+28 - A entidade concessionária da RNT, com o apoio das entidades titulares de licenças vinculadas de distribuição de electricidade em média e alta tensões, proporá à aprovação da Direcção-Geral da Energia um manual de procedimentos para aplicação do presente anexo, o qual deverá ser apenso aos contratos celebrados ao abrigo dos Decretos-Leis n.os 189/88, de 27 de Maio, e 312/2001, de 10 de Dezembro.
+
+29 - A remuneração resultante da aplicação dos critérios de fixação da remuneração constantes do presente anexo é garantida a todos os promotores que obtenham licença de estabelecimento após a entrada em vigor do presente anexo, desde que lhes seja atribuída licença de exploração no prazo de três anos após a data de emissão da referida licença de estabelecimento para as PCH (pequenas centrais hídricas) e no prazo de dois anos para as restantes tecnologias.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 215-B/2012 - Diário da República n.º 194/2012, 1º Suplemento, Série I de 2012-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-b-2012-588861), em vigor a partir de 2012-11-07
+
+> Retificado pelo/a [Declaração de Rectificação n.º 71/2007 - Diário da República n.º 141/2007, Série I de 2007-07-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/71-2007-636750), produz efeitos a partir de 2007-06-01

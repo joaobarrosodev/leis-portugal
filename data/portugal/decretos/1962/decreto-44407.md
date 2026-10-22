@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:164462:por
+title: Decreto n.º 44407
+short_title: null
+summary: Autoriza as repartições da Direcção-Geral da Contabilidade Pública junto de vários Ministérios, o Instituto de Assistência
+  Nacional aos Tuberculosos e o Hospital Miguel Bombarda a mandarem satisfazer diversas quantias em conta da verba de despesas
+  de anos económicos findos
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '44407'
+official_date: null
+publication_date: '1962-06-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 140/1962, Série I de 1962-06-20
+  number: '140'
+  series: I
+  supplement: null
+  pages: 856 - 857
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/06/14000/08560857.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '164462'
+  dre_path: /dr/detalhe/decreto/44407-1962-164462
+  internal: pt:dre:164462:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44407-1962-164462
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44407-1962-164462
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-06-20T00:00:00Z'
+integrity:
+  source_sha256: fa479922939c33b3782b2e5e7d481299250285527f86742ea7c7eb81fc15bbea
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-44407-164462.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44407
+
+Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, e mediante propostas aprovadas pelo Ministro das Finanças, nos termos do mesmo artigo;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
+
+Encargos gerais da Nação
+
+Encargo do ano de 1961, respeitante a telefones, a liquidar pelo conselho administrativo do grupo de detecção, alerta e conduta da intercepção n.º 1 ... 11536$90
+
+Ministério das Finanças
+
+Despesas dos anos de 1960 e 1961, referentes a ajudas de custo, subsídios de viagem e de marcha e transportes, a liquidar por diversos serviços do Ministério ... 279343$50
+
+Despesas do ano de 1961, com impressos, incluindo o Orçamento Geral do Estado, regulamentos e separatas ... 99800$20
+
+Despesas do ano de 1961, com impressos, sua encadernação, capas e pertences para os serviços das direcções de finanças distritais e secções concelhias dependentes das Direcções-Gerais da Fazenda Pública e das Contribuições e Impostos ... 62163$80
+
+Encargos do ano de 1961, respeitantes a correios e telégrafos, telefones e a pagamento de serviços e encargos não especificados, a liquidar pela Direcção-Geral das Contribuições e Impostos e serviços dependentes ... 11168$30
+
+Despesas do ano de 1961, com a venda de valores selados ... 85338$00
+
+... 537813$80
+
+Ministério do Interior
+
+Despesas do ano de 1961, com a assistência clínica prestada a um soldado da Guarda Nacional Republicana vítima de acidente de viação ... 6023$00
+
+Ministério da Justiça
+
+Encargo do ano de 1961, respeitante a despesas a satisfazer pela Cadeia Central de Mulheres em conta do subsídio anualmente concedido e a serviços clínicos e de hospitalização da população prisional ... 28637$00
+
+Ministério do Exército
+
+Encargos dos anos de 1960 e 1961, provenientes de vencimentos a abonar a diversos oficiais do Exército por promoções, regresso à metrópole e ingresso nos quadros e a ajudas de custo a abonar a um segundo-sargento do regimento de artilharia n.º 6 ... 63427$00
+
+Despesas dos anos de 1959 e 1960, a liquidar pelos conselhos administrativos dos regimentos de infantaria n.os 14 e 15, respeitantes à aquisição de impressos e a uma indemnização, fixada por sentença judicial, em consequência de um acidente de viação ocorrido com uma viatura militar ... 54469$00
+
+... 117896$00
+
+Ministério dos Negócios Estrangeiros
+
+Encargos dos anos de 1960 e 1961, respeitantes a uma diferença cambial verificada no pagamento de uma despesa orçamental e à indemnização a conceder aos proprietários da antiga residência da Embaixada de Portugal no Rio de Janeiro, por motivo da rescisão do respectivo contrato de arrendamento ... 9758$10
+
+Despesas de deslocação, referentes ao ano de 1961, do Consulado-Geral de Portugal em Londres ... 44814$20
+
+Despesas do ano de 1961, com missões extraordinárias de serviço público no estrangeiro ... 126910$60
+
+... 181482$90
+
+Ministério das Obras Públicas
+
+Encargos do ano de 1961, respeitantes a ajudas de custo a pagadores do Ministério, despesas de conservação e aproveitamento de semoventes, telefones e a consumo de energia eléctrica, a liquidar pela Secretaria-Geral ... 44588$30
+
+Ministério da Educação Nacional
+
+Encargos dos anos de 1960 e 1961, referentes a telefones e transportes das direcções dos distritos escolares de Lisboa e do Porto ... 931$00
+
+Encargo do ano de 1961, respeitante a luz, aquecimento, água, lavagem e limpeza, a liquidar pela Escola Industrial e Comercial de Guimarães e Escola Técnica Elementar Francisco de Arruda ... 9771$60
+
+Encargo do ano de 1961, referente a matérias-primas e produtos acabados ou meio acabados para usos industriais, a liquidar pela Escola Técnica Elementar Francisco de Arruda ... 6365$00
+
+... 17067$60
+
+Ministério das Comunicações
+
+Encargo do ano de 1960, com a assistência clínica prestada a um guarda da Polícia de Viação e Trânsito vítima do acidente em serviço ... 800$30
+
+Ministério das Corporações e Previdência Social
+
+Despesas do ano de 1961, referentes à aquisição de artigos de expediente e a exames radiológicos e laboratoriais efectuados a sinistrados, a liquidar pelos Tribunais do Trabalho da Guarda e de Lisboa ... 5922$70
+
+Ministério da Saúde e Assistência
+
+Despesas do ano de 1961, referentes a telefones, a liquidar pela Circunscrição de Defesa Sanitária dos Portos Marítimos e Aéreos da Zona Norte e Direcção-Geral da Assistência ... 3987$80
+
+###### Art. 2.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas pela verba consignada a despesas de anos económicos findos dos seus orçamentos privativos os seguintes serviços:
+
+Instituto de Assistência Nacional aos Tuberculosos
+
+Encargos do ano de 1961, com a publicação de um anúncio e com o transporte de material da brigada de radiorrastreio que se deslocou aos Açores ... 3987$80
+
+Hospital Miguel Bombarda
+
+Salários devidos a uma costureira, referentes aos meses de Agosto a Dezembro de 1961 ... 6984$00
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 20 de Junho de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Manuel Lopes de Almeida - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Henrique de Miranda Vasconcelos Martins de Carvalho.

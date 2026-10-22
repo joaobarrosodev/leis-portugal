@@ -1,0 +1,136 @@
+---
+schema_version: '1.0'
+id: pt:dre:621137:por
+title: Decreto-Lei n.º 14/96
+short_title: null
+summary: Altera o artigo 504.º do Código Civil
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 14/96
+official_date: null
+publication_date: '1996-03-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 56/1996, Série I-A de 1996-03-06
+  number: '56'
+  series: I
+  supplement: null
+  pages: 444 - 444
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/03/056a00/04440444.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/14/1996/03/06/p/dre/pt/html
+  oj: null
+  dre: '621137'
+  dre_path: /dr/detalhe/decreto-lei/14-1996-621137
+  internal: pt:dre:621137:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1996-621137
+  metadata_url: https://data.dre.pt/eli/dec-lei/14/1996/03/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-1996-621137
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-05-24T00:00:00Z'
+integrity:
+  source_sha256: 2c92cf4fb829d6b8f7371e7e16bd9c972be7963eb6992c0682543373e83de071
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-14-621137.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acidente de Transporte
+- Aproximação das Legislações
+- Código Civil
+- Indemnização
+- Responsabilidade Civil
+- Responsabilidade Civil Automóvel
+- Direito Civil
+relationships:
+- type: amended_by
+  target: pt:dre:107061862:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31990L0232
+  label: null
+  source: http://data.europa.eu/eli/dir/1990/232/oj
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 14/96
+
+de 6 de Março
+
+Nos casos de responsabilidade pelo risco em sede de acidente de viação o artigo 504.º do Código Civil nega o direito à reparação dos danos às pessoas transportadas gratuitamente. Nesta situação (n.º 2 desse normativo), «o transportador responde apenas, nos termos gerais, pelos danos que culposamente causar».
+
+A Directiva n.º [90/232/CEE](http://data.europa.eu/eli/dir/1990/232/oj?locale=pt), de 14 de Maio de 1990, relativa à aproximação das legislações dos Estados membros respeitantes ao seguro de responsabilidade civil atinente à circulação de veículos automóveis estabelece, no seu artigo 1.º, que o aludido seguro deve cobrir a responsabilidade por danos pessoais de todos os passageiros, com excepção dos sofridos pelo condutor.
+
+A transposição da directiva para o direito interno português implica a adequação do texto do citado artigo 504.º, no sentido de os referidos passageiros poderem beneficiar do direito a indemnização pelo transportador nas hipóteses de responsabilidade pelo risco.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. O artigo 504.º do Código Civil, aprovado pelo Decreto-Lei n.º 47344, de 25 de Novembro de 1966, passa a ter a seguinte redacção:
+
+«Artigo 504.º
+
+Beneficiários da responsabilidade
+
+1 - A responsabilidade pelos danos causados por veículos aproveita a terceiros, bem como às pessoas transportadas.
+
+2 - No caso de transporte por virtude de contrato, a responsabilidade abrange só os danos que atinjam a própria pessoa e as coisas por ela transportadas.
+
+3 - No caso de transporte gratuito, a responsabilidade abrange apenas os danos pessoais da pessoa transportada.
+
+4 - São nulas as cláusulas que excluam ou limitem a responsabilidade do transportador pelos acidentes que atinjam a pessoa transportada.»
+
+Visto e aprovado em Conselho de Ministros de 8 de Fevereiro de 1996. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
+
+**Promulgado em 23 de Fevereiro de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 26 de Fevereiro de 1996.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

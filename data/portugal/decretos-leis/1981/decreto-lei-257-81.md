@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:565212:por
+title: Decreto-Lei n.º 257/81
+short_title: null
+summary: Procede ao ajustamento do regime fiscal do imposto do selo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral das Contribuições e Impostos
+proposing_entity: null
+official_number: 257/81
+official_date: null
+publication_date: '1981-09-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/1981, Série I de 1981-09-01
+  number: '200'
+  series: I
+  supplement: null
+  pages: 2322 - 2322
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20000/23222322.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '565212'
+  dre_path: /dr/detalhe/decreto-lei/257-1981-565212
+  internal: pt:dre:565212:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1981-565212
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1981-565212
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-09-01T00:00:00Z'
+integrity:
+  source_sha256: 6a90304d5153b6809824fad49c925da1323f553c1dde60a50bd01469dd8bb818
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-257-565212.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 257/81
+
+de 1 de Setembro
+
+O presente decreto-lei procura ajustar o regime fiscal em matéria de imposto do selo relativo à constituição de sociedades de capitais e à emissão de acções e de outros títulos representativos do capital social ao regime de direito derivado comunitário nesta matéria.
+
+A razão de ser do referido regime está ligada a um propósito de liberalização da circulação de capitais, pelo que, a nível da CEE, se eliminou a tributação dos títulos representativos do capital social e se tributa apenas à taxa de 1% o acto constitutivo das sociedades de capitais.
+
+São essas, fundamentalmente, as alterações agora introduzidas e que constam da nova redacção dada ao artigo 145.º do Regulamento do Imposto do Selo e aos artigos 145 e 155 da Tabela Geral do Imposto do Selo, implicando, ainda, a eliminação do artigo 2 da mesma Tabela.
+
+Assim:
+
+Usando da autorização concedida pela alínea g) do artigo 22.º da [Lei n.º 4/81](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), de 24 de Abril:
+
+O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º O artigo 145.º do Regulamento do Imposto do Selo passa a ter a seguinte redacção:
+
+###### Art. 145.º O regime previsto nos artigos 143.º e 144.º não é aplicável às sociedades de capitais, cuja sede esteja situada nos territórios do continente e dos arquipélagos dos Açores e da Madeira.
+
+§ único. Para efeitos do disposto neste artigo, consideram-se sociedades de capitais:
+
+a) As sociedades anónimas;
+
+b) As sociedades por quotas;
+
+c) As sociedades em comandita por acções.
+
+###### Art. 2.º São eliminados os artigos 2 e 156 da Tabela Geral do Imposto do Selo, passando os seus artigos 73, 120, 145 e 155 a ter a seguinte redacção:
+
+###### Art. 73 - ...
+
+1 - Ficam isentas as sociedades de capitais a que se refere o artigo 145.º do Regulamento.
+
+###### Art. 120 - Obrigações emitidas por quaisquer sociedades ou empresas sobre o seu valor - 5% (selo a tinta de óleo).
+
+1 - Se os títulos forem postos à venda ou à subscrição pela entidade emissora ou por grupo financeiro, após a emissão, por preço superior ao seu valor nominal, será o imposto correspondente à diferença entre o valor nominal dos títulos e o preço de venda ou da subscrição, pago por meio de guia em relação à totalidade dos títulos.
+
+###### Art. 145 - Reforço ou aumento de capital das sociedades, sobre o montante do aumento:
+
+a) Sociedades sob forma civil - 4(por mil) (selo de verba);
+
+b) Sociedades de capitais a que se refere o artigo 145.º do Regulamento - 1% (selo de verba);
+
+c) Outras sociedades - 6(por mil) (selo de verba).
+
+1 - Acresce, quanto às sociedades abrangidas nas alíneas a) e c), o selo do artigo 93.
+
+###### Art. 155 - Sociedades - sua constituição -, sobre o capital social, ainda que não realizado imediatamente:
+
+a) Sociedades sob forma civil - 4(por mil) (selo de verba);
+
+b) Sociedades de capitais a que se refere o artigo 145.º do Regulamento - 1% (selo de verba);
+
+c) Outras sociedades - 6(por mil) (selo de verba).
+
+1 - Acresce, quando às sociedades abrangidas nas alíneas a) e c), o selo dos artigos 92, 93 e 100, um ou outro, segundo a natureza do título.
+
+Visto e aprovado em Conselho de Ministros de 11 de Agosto de 1981. - Francisco José Pereira Pinto Balsemão.
+
+**Promulgado em 21 de Agosto de 1981.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

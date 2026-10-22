@@ -1,0 +1,1231 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:694226:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-221580506",
+ "dre_path": "/dr/detalhe/decreto-lei/440-1999-694226",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221603175",
+    "221603176",
+    "221603177",
+    "221603178",
+    "221603179",
+    "221603180",
+    "221603181",
+    "221603182",
+    "221603183",
+    "221603184",
+    "221603185",
+    "221603186",
+    "221603187",
+    "221603188",
+    "221603189",
+    "221603190",
+    "221603191",
+    "221603192",
+    "221603193",
+    "221603194",
+    "221603195",
+    "221603196",
+    "221603197",
+    "221603198",
+    "221603199",
+    "221603200",
+    "221603201",
+    "221603202",
+    "221603203",
+    "221603204",
+    "221603205",
+    "221603206",
+    "221603207",
+    "221603208",
+    "221603209",
+    "221603210",
+    "221603211",
+    "221603212",
+    "221603213",
+    "221603214",
+    "221603215",
+    "221603216",
+    "221603217",
+    "221603218",
+    "221603219",
+    "221603220",
+    "221603221",
+    "221603222",
+    "221603223",
+    "221603224",
+    "221603225",
+    "221603226",
+    "221603227",
+    "221603228",
+    "221603229",
+    "221603230",
+    "221603232",
+    "221603233"
+   ]
+  },
+  {
+   "date": "2001-06-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:362323:por",
+     "title": "Decreto-Lei n.º 184/2001",
+     "published": "2001-06-21",
+     "dre_path": "/dr/detalhe/decreto-lei/184-2001-362323"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "221603175",
+    "221603176",
+    "221603177",
+    "221603178",
+    "221603179",
+    "221603180",
+    "221603181",
+    "221603182",
+    "221603183",
+    "221603184",
+    "221603185",
+    "221603186",
+    "221603187",
+    "221603188",
+    "221603189",
+    "221603190",
+    "221603191",
+    "221603192",
+    "221603193",
+    "221603194",
+    "221603236",
+    "221603237",
+    "221603197",
+    "221603198",
+    "221603238",
+    "221603200",
+    "221603201",
+    "221603202",
+    "221603203",
+    "221603204",
+    "221603205",
+    "221603206",
+    "221603207",
+    "221603208",
+    "221603209",
+    "221603210",
+    "221603211",
+    "221603212",
+    "221603213",
+    "221603214",
+    "221603215",
+    "221603216",
+    "221603217",
+    "221603218",
+    "221603219",
+    "221603220",
+    "221603221",
+    "221603222",
+    "221603223",
+    "221603224",
+    "221603225",
+    "221603226",
+    "221603227",
+    "221603228",
+    "221603229",
+    "221603230",
+    "221603231",
+    "221603232",
+    "221603233"
+   ]
+  },
+  {
+   "date": "2023-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835674286:por",
+     "title": "Decreto-Lei n.º 121/2023",
+     "published": "2023-12-26",
+     "dre_path": "/dr/detalhe/decreto-lei/121-2023-835674286"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 18.º-A",
+    "Adita Artigo 24.º-A",
+    "Adita Artigo 27.º-A",
+    "Adita Anexo III",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º",
+    "Altera Anexo I",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "221603175",
+    "221603176",
+    "221603177",
+    "221603178",
+    "221603179",
+    "221603180",
+    "835806480",
+    "221603182",
+    "221603183",
+    "835806481",
+    "221603185",
+    "835806482",
+    "221603187",
+    "221603188",
+    "221603189",
+    "221603190",
+    "835806483",
+    "835806484",
+    "835806485",
+    "835806486",
+    "835806492",
+    "835806493",
+    "835806539",
+    "835806540",
+    "835806541",
+    "835806497",
+    "835806510",
+    "835806542",
+    "835806543",
+    "835806513",
+    "835806514",
+    "835806515",
+    "835806516",
+    "835806523",
+    "835806524",
+    "835806544",
+    "835806526",
+    "835806530",
+    "835806531",
+    "835806532",
+    "835806545",
+    "221603212",
+    "835806546",
+    "835806547",
+    "835806548",
+    "835806549",
+    "835806550",
+    "835806551",
+    "835806552",
+    "835806553",
+    "835806554",
+    "835806555",
+    "835806556",
+    "835806557",
+    "835806558",
+    "835806559",
+    "835806560",
+    "221603228",
+    "221603229",
+    "221603230",
+    "221603231",
+    "835806534",
+    "835806561",
+    "835806535"
+   ]
+  }
+ ],
+ "fragments": {
+  "221603175": {
+   "fragment_id": "221580507",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 440/99\n\nde 2 de Novembro\n\nA Constituição da República, sobretudo a partir da revisão constitucional de 1989, define o Tribunal de Contas como um tribunal financeiro integrado no aparelho judiciário, a par dos tribunais superiores, dotando-o, assim, das características de real independência e de prevalência das suas decisões relativamente a entidades públicas e privadas quando se trata da aplicação do direito, que são requisitos do estatuto de qualquer tribunal num Estado de direito.\n\nEm efectiva execução do disposto na Constituição, surgiu a Lei de Reforma do Tribunal de Contas (Lei n.º 86/89, de 8 de Setembro), dando início à edificação de um novo órgão de controlo externo e democrático, a qual, designadamente no seu artigo 59.º, aponta para a necessidade do desenvolvimento subsequente dos princípios orientadores relativos à estrutura, natureza e atribuições dos serviços de apoio, bem como ao quadro e regime do respectivo pessoal.\n\nA referida lei foi revogada pela Lei n.º 98/97, de 26 de Agosto, sem que o citado artigo alguma vez tivesse sido regulamentado.\n\nTodavia, o artigo 30.º da Lei n.º 98/97 (Lei de Organização e Processo do Tribunal de Contas) dispõe que a organização e estrutura da Direcção-Geral do Tribunal de Contas, incluindo os serviços de apoio das secções regionais, e o regime do seu pessoal devem constar de decreto-lei, que deve desenvolver as regras e princípios nele estabelecidos.\n\nÉ este, pois, o escopo do presente diploma, que, atento o princípio do autogoverno do Tribunal de Contas, consagrado no artigo 7.º da mesma lei, define o estatuto daqueles serviços e o regime do respectivo pessoal.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNo desenvolvimento dos princípios e regras estabelecidos nos n.os 2, 3 e 4 do artigo 30.º da Lei n.º 98/97, de 26 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "221603176": {
+   "fragment_id": "221580508",
+   "type": 1,
+   "heading": "Capítulo I — Dos serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Dos serviços de apoio"
+  },
+  "221603177": {
+   "fragment_id": "221580509",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "221603178": {
+   "fragment_id": "221580510",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O disposto no presente diploma aplica-se aos serviços de apoio do Tribunal de Contas.\n\n2 - O Tribunal de Contas, doravante designado Tribunal, dispõe dos seguintes serviços de apoio:\n\na) Gabinete do Presidente;\n\nb) Direcção-Geral do Tribunal de Contas, incluindo os serviços de apoio das secções regionais."
+  },
+  "221603179": {
+   "fragment_id": "221580511",
+   "type": 11,
+   "heading": "Artigo 2.º — Dependência hierárquica e funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Dependência hierárquica e funcional\n\nOs serviços de apoio dependem hierarquicamente do Presidente e funcionalmente do Tribunal."
+  },
+  "221603180": {
+   "fragment_id": "221580512",
+   "type": 8,
+   "heading": "Secção II — Do Gabinete do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do Gabinete do Presidente"
+  },
+  "221603181": {
+   "fragment_id": "221580513",
+   "type": 11,
+   "heading": "Artigo 3.º — Gabinete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Gabinete\n\n1 - No exercício das suas funções, o Presidente é coadjuvado por um gabinete.\n\n2 - O Gabinete do Presidente assegura ainda o apoio administrativo aos juízes e ao Ministério Público.\n\n3 - O Gabinete é constituído por um chefe de gabinete, três adjuntos e dois secretários pessoais.\n\n4 - O chefe do Gabinete é nomeado por despacho do Presidente, que designará o seu substituto legal, podendo a nomeação recair no director-geral do Tribunal de Contas.\n\n5 - Os membros do Gabinete são nomeados por despacho do Presidente.\n\n6 - O Presidente pode destacar ou requisitar funcionários da administração directa e indirecta do Estado, incluindo empresas públicas ou sociedades com maioria de capitais públicos, bem como da administração regional e local, ou celebrar contratos de prestação de serviços, para o exercício de funções de apoio técnico e administrativo no respectivo Gabinete, caducando todas as referidas situações com a cessação de funções do Presidente.\n\n7 - Ao pessoal do Gabinete é aplicável, com as necessárias adaptações, o regime de nomeação, exoneração, garantias e vencimento consagrado na lei para o pessoal dos gabinetes ministeriais, com ressalva do abono para despesas de representação."
+  },
+  "221603182": {
+   "fragment_id": "221580514",
+   "type": 8,
+   "heading": "Secção III — Da Direcção-Geral do Tribunal de Contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da Direcção-Geral do Tribunal de Contas"
+  },
+  "221603183": {
+   "fragment_id": "221580515",
+   "type": 11,
+   "heading": "Artigo 4.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Natureza e missão\n\nA Direcção-Geral do Tribunal de Contas (DGTC) tem por missão assegurar o apoio técnico-operativo e instrumental ao Tribunal, incumbindo-lhe, designadamente:\n\na) Realizar os trabalhos preparatórios do relatório e parecer sobre a Conta Geral do Estado;\n\nb) Proceder à verificação das contas de gerência das entidades sujeitas ao controlo do Tribunal;\n\nc) Proceder ao exame preparatório dos actos a submeter à fiscalização prévia;\n\nd) Assegurar, nos termos da lei de organização e processo do Tribunal, a emissão da declaração de conformidade relativamente aos actos sujeitos à fiscalização prévia;\n\ne) Realizar as auditorias e demais acções de controlo que forem determinadas pelo Tribunal;\n\nf) Assegurar a instrução dos restantes processos da competência do Tribunal;\n\ng) Assegurar as funções de natureza consultiva, de estudo e de investigação, para apoio ao Tribunal, bem como preparar os pareceres a emitir pelo Tribunal, nos termos da lei;\n\nh) Assegurar o planeamento, a gestão e a administração dos recursos afectos ao Tribunal, incluindo a formação permanente dos recursos humanos;\n\ni) Desenvolver os procedimentos administrativos necessários à contratação de serviços de auditoria e consultadoria externa, nos termos da lei e em função dos objectivos e especificações aprovados pelo Tribunal ;\n\nj) Executar as acções de cooperação com o Tribunal de Contas Europeu, no âmbito das acções de fiscalização da aplicação dos recursos financeiros oriundos da União Europeia;\n\nl) Assegurar o apoio técnico e administrativo às acções de cooperação no âmbito dos organismos internacionais de que o Tribunal seja membro e, bem assim, no âmbito da cooperação bilateral com instituições congéneres estrangeiras."
+  },
+  "221603184": {
+   "fragment_id": "221580516",
+   "type": 11,
+   "heading": "Artigo 5.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Organização e funcionamento\n\n1 - A DGTC é dirigida por um director-geral, coadjuvado por três subdirectores-gerais.\n\n2 - A DGTC é constituída por departamentos de apoio técnico-operativo (DAT) e departamentos de apoio instrumental (DAI).\n\n3 - São constituídos DAT nas seguintes áreas:\n\na) Parecer sobre a Conta Geral do Estado;\n\nb) Controlo prévio;\n\nc) Controlo concomitante;\n\nd) Controlo sucessivo;\n\ne) Consultadoria e planeamento.\n\n4 - São departamentos de apoio instrumental:\n\na) O Departamento de Gestão Financeira e Patrimonial (DGFP);\n\nb) O Departamento de Gestão e Formação de Pessoal (DGP);\n\nc) O Departamento de Sistemas e Tecnologias de Informação (DSTI);\n\nd) O Departamento de Arquivo, Documentação e Informação (DADI);\n\ne) A Secretaria do Tribunal;\n\nf) O Departamento de Relações Externas.\n\n5 - Os DAT e as respectivas unidades (UAT) são constituídos segundo as competências de cada secção do Tribunal, segundo áreas de especialização ou em função das áreas de responsabilidade dos juízes.\n\n6 - A competência material, a organização e o funcionamento dos departamentos são definidos por regulamento interno, aprovado por despacho do Presidente, sob proposta do director-geral, e, no que respeita aos DAT, com observância dos programas de fiscalização e controlo e das linhas gerais de organização e funcionamento aprovadas pelo plenário geral.\n\n7 - Os departamentos de apoio técnico-operativo e os departamentos de apoio instrumental são dirigidos, respectivamente, por auditores-coordenadores e por directores de serviços, coadjuvados, conforme os casos, por auditores-chefes e por chefes de divisão.\n\n8 - A solicitação do Ministério Público, o director-geral destacará pessoal para assegurar o apoio técnico e administrativo à preparação e instrução dos processos de efectivação de responsabilidade.\n\n9 - Por despacho do Presidente, sob proposta do director-geral, sempre que o volume do serviço ou o carácter especializado das matérias o justifique, podem ser criados, mediante restruturação ou reconversão dos existentes, outros departamentos de apoio instrumental."
+  },
+  "221603185": {
+   "fragment_id": "221580517",
+   "type": 11,
+   "heading": "Artigo 6.º — Equipas de projecto e de auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Equipas de projecto e de auditoria\n\n1 - Sempre que a natureza interdisciplinar dos sistemas de verificação e controlo o justifique ou a especificidade das tarefas o aconselhe, podem, a solicitação das secções, ser constituídas equipas de projecto e de auditoria, com carácter temporário, por despacho do Presidente, sob proposta do director-geral.\n\n2 - O despacho referido no número anterior determinará o objecto e âmbito da acção, a composição da equipa, o membro que assegura as funções de chefe de projecto ou de auditoria, a respectiva remuneração e o prazo de funcionamento da equipa.\n\n3 - Quando as equipas de auditoria forem chefiadas por auditores-coordenadores ou auditores-chefes, estes auferem a remuneração correspondente ao respectivo cargo."
+  },
+  "221603186": {
+   "fragment_id": "221580518",
+   "type": 11,
+   "heading": "Artigo 7.º — Director-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Director-geral\n\n1 - O director-geral do Tribunal de Contas dispõe, relativamente à DGTC e aos serviços de apoio das secções regionais, das competências gerais e específicas previstas na lei.\n\n2 - Compete ao director-geral, designadamente:\n\na) Propor à aprovação do Presidente o plano anual de actividades dos serviços de apoio, elaborado de harmonia com os programas de fiscalização e controlo aprovados pelo Tribunal e com as linhas gerais de organização e funcionamento dos serviços de apoio técnico aprovadas pelo plenário geral;\n\nb) Assegurar a gestão da DGTC, procedendo à necessária afectação de recursos humanos, financeiros e materiais, com vista ao cumprimento do plano de actividades e dos programas de fiscalização do Tribunal e com observância das linhas gerais de organização e funcionamento dos serviços de apoio técnico aprovadas pelo plenário geral e das orientações e instruções do Presidente;\n\nc) Diligenciar, junto dos organismos e serviços, com observância dos programas anuais de fiscalização e controlo, pela remessa das respectivas contas dentro dos prazos legais;\n\nd) Corresponder-se com quaisquer entidades, excluindo titulares de órgãos de soberania, sobre assuntos referentes ao funcionamento da Direcção-Geral e ao normal andamento dos processos da competência do Tribunal, designadamente em cumprimento dos despachos neles proferidos.\n\n3 - Nas suas faltas e impedimentos, o director-geral é substituído pelo subdirector-geral para o efeito designado, nos termos da lei.\n\n4 - O director-geral pode delegar poderes nos dirigentes dele imediatamente dependentes e nos chefes de equipas de projecto e de auditoria, quando funcionários."
+  },
+  "221603187": {
+   "fragment_id": "221580519",
+   "type": 8,
+   "heading": "Secção IV — Dos serviços de apoio das Secções Regionais dos Açores e da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Dos serviços de apoio das Secções Regionais dos Açores e da Madeira"
+  },
+  "221603188": {
+   "fragment_id": "221580520",
+   "type": 11,
+   "heading": "Artigo 8.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Natureza e missão\n\nOs serviços de apoio das Secções Regionais dos Açores e da Madeira (SAA e SAM, respectivamente) têm por missão assegurar o apoio técnico-operativo e instrumental às correspondentes secções regionais, nos termos definidos no artigo 4.º, com as necessárias adaptações."
+  },
+  "221603189": {
+   "fragment_id": "221580521",
+   "type": 11,
+   "heading": "Artigo 9.º — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Organização e funcionamento\n\n1 - A organização e o funcionamento dos serviços de apoio regionais são definidos por despacho do Presidente, ouvidos os juízes das secções regionais, aplicando-se o disposto no artigo 5.º, com as necessárias adaptações.\n\n2 - Cada serviço de apoio regional é dirigido por um subdirector-geral.\n\n3 - As referências aos contadores-gerais e às contadorias-gerais das secções regionais constantes de lei, regulamento, acto ou contrato têm-se por feitas aos subdirectores-gerais e aos serviços de apoio regionais, respectivamente.\n\n4 - O subdirector-geral do serviço de apoio regional, para além das competências específicas previstas na lei e das competências que nele forem delegadas ou subdelegadas, dispõe das seguintes competências gerais em matéria administrativa:\n\na) Assegurar a coordenação geral do serviço de acordo com a lei, o plano de actividades e os programas de fiscalização, e de harmonia com as orientações superiores;\n\nb) Elaborar e submeter à aprovação superior os planos de actividades, bem como os respectivos relatórios de execução;\n\nc) Elaborar e submeter à apreciação superior os projectos de orçamento, no respeito pelas orientações e objectivos superiormente definidos;\n\nd) Gerir os meios humanos, financeiros e de equipamento do serviço de apoio regional;\n\ne) Elaborar, submeter à aprovação superior e executar o plano de gestão previsional de pessoal, bem como o correspondente plano de formação, e afectar o pessoal às diversas subunidades em função dos objectivos e prioridades fixados nos respectivos planos de actividade;\n\nf) Empossar o pessoal não dirigente;\n\ng) Justificar as faltas e conceder licenças (por período superior a 30 dias), com excepção da licença sem vencimento por um ano por motivo de interesse público, da licença de longa duração e da autorização do regresso à actividade;\n\nh) Autorizar o gozo e a acumulação de férias e autorizar o abono do vencimento de exercício perdido por motivo de doença, bem como o exercício de funções em situação que dê lugar à reversão do vencimento de exercício e o respectivo processamento;\n\nj) Autorizar a atribuição de abonos e regalias a que os funcionários ou agentes tenham direito nos termos da lei;\n\nl) Praticar todos os actos relativos à aposentação dos funcionários, excepto a aposentação compulsiva, e, em geral, todos os actos respeitantes ao regime da segurança social da função pública, incluindo os referentes a acidentes em serviço;\n\nm) Conceder licenças por período até 30 dias ao pessoal dirigente de si directamente dependente e autorizá-lo a comparecer em juízo quando requisitado nos termos das leis de processo;\n\nn) Gerir de forma eficaz e eficiente a utilização das instalações e equipamentos afectos ao serviço, bem como a sua conservação e manutenção;\n\no) Zelar pela existência de condições de higiene e segurança no trabalho;\n\np) Controlar o cumprimento do plano de actividades, bem como os resultados obtidos e a eficiência do serviço de apoio regional.\n\n5 - Ao auditor-coordenador do serviço de apoio regional compete, para além das funções de assessoria previstas nos artigos 105.º e seguintes da Lei n.º 98/97, de 26 de Agosto, coordenar, na dependência funcional do juiz da secção regional, o planeamento e a realização de auditorias e outras acções de controlo, incluindo, nomeadamente, a submissão dos planos à sua aprovação, o acompanhamento e coordenação da execução dos trabalhos, a articulação das diversas equipas e o controlo da elaboração, qualidade e harmonização dos respectivos anteprojectos de relatório."
+  },
+  "221603190": {
+   "fragment_id": "221580522",
+   "type": 1,
+   "heading": "Capítulo II — Do pessoal da DGTC e dos serviços de apoio regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do pessoal da DGTC e dos serviços de apoio regionais"
+  },
+  "221603191": {
+   "fragment_id": "221580523",
+   "type": 11,
+   "heading": "Artigo 10.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Quadros de pessoal\n\n1 - A DGTC e os serviços de apoio regionais dispõem de quadros de pessoal privativos.\n\n2 - Os quadros referidos no número anterior incluem um corpo especial de fiscalização e controlo, cargos dirigentes e carreiras e categorias de regime geral e especial.\n\n3 - Integram o corpo especial de fiscalização e controlo:\n\na) O director-geral, os subdirectores-gerais, os auditores-coordenadores e os auditores-chefes;\n\nb) As carreiras de auditor e consultor;\n\nc) A carreira de técnico verificador superior;\n\nd) A carreira de técnico verificador.\n\n4 - Os quadros de pessoal referidos nos n.os 1 e 2 serão aprovados por portaria dos membros do Governo competentes."
+  },
+  "221603192": {
+   "fragment_id": "221580524",
+   "type": 11,
+   "heading": "Artigo 11.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Pessoal dirigente\n\n1 - O pessoal dirigente rege-se pelo disposto na Lei n.º 98/97, de 26 de Agosto, e no presente diploma e, subsidiariamente, pelo estatuto do pessoal dirigente da função pública e demais legislação complementar.\n\n2 - O pessoal dirigente dos serviços de apoio é nomeado por despacho do Presidente."
+  },
+  "221603193": {
+   "fragment_id": "221580525",
+   "type": 11,
+   "heading": "Artigo 12.º — Auditor-coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Auditor-coordenador\n\n1 - Cada auditor-coordenador dirige as actividades de um DAT, actuando na dependência funcional do Tribunal, competindo-lhe especialmente:\n\na) Controlar e assegurar o cumprimento da parte respectiva dos programas de fiscalização e dos planos de actividades, bem como os resultados obtidos e a eficiência do DAT;\n\nb) No âmbito da administração e gestão dos recursos humanos afectos ao departamento, conceder licenças por período até 30 dias, autorizar o início das férias e o seu gozo interpolado, bem como a sua acumulação parcial por interesse do serviço, de acordo com o mapa de férias superiormente aprovado, justificar as faltas e afectar o pessoal aos sectores especializados que integram o DAT;\n\nc) Assegurar a administração e a gestão dos recursos materiais que lhe estão afectos;\n\nd) Coordenar o planeamento e a realização de auditorias e outras acções de controlo, de acordo com os objectivos e orientações definidos pelo Tribunal, incluindo, nomeadamente, a submissão dos planos à aprovação do juiz responsável, o acompanhamento e coordenação da execução dos trabalhos, a articulação das diversas equipas, o controlo da elaboração, qualidade e harmonização dos respectivos anteprojectos de relatório e, bem assim, a sua apresentação àquele juiz.\n\n2 - Os auditores-coordenadores são recrutados de entre:\n\na) Auditores-chefes com, pelo menos, três anos de serviço no cargo;\n\nb) Indivíduos vinculados à função pública, habilitados com licenciatura, que tenham exercido funções dirigentes no âmbito de serviços operativos de inspecção ou auditoria e de gestão financeira e patrimonial durante, pelo menos, três anos;\n\nc) Auditores ou consultores do Tribunal de Contas;\n\nd) Técnicos verificadores superiores do Tribunal de Contas e indivíduos providos nas carreiras de inspector ou auditor da Administração Pública, todos eles habilitados com licenciatura e com, pelo menos, seis anos de serviço em funções de auditoria ou consultadoria, com classificação de Muito bom;\n\ne) Indivíduos não vinculados à função pública, habilitados com licenciatura, que contem, pelo menos, 10 anos de serviço de reconhecido mérito em funções de auditoria em empresas do sector público ou de auditoria.\n\n3 - Para efeitos do disposto no artigo 19.º, n.º 1, alínea d), da Lei n.º 98/97, de 26 de Agosto, o tempo de serviço prestado na categoria de contador-geral considera-se equiparado ao exercício de funções como auditor-coordenador."
+  },
+  "221603194": {
+   "fragment_id": "221580526",
+   "type": 11,
+   "heading": "Artigo 13.º — Auditor-chefe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Auditor-chefe\n\n1 - Cada auditor-chefe, na directa dependência de um auditor-coordenador, dirige uma unidade especializada de um DAT, organizando e coordenando as respectivas actividades de acordo com os programas de fiscalização e os planos de actividades, e tendo em conta a orientação superior, competindo-lhe especialmente:\n\na) Chefiar equipas de auditoria;\n\nb) Elaborar os planos de auditoria de acordo com os objectivos e orientações superiormente estabelecidos e submetê-los à apreciação do auditor-coordenador;\n\nc) Acompanhar e coordenar a execução dos trabalhos de auditoria, assegurar a elaboração dos respectivos anteprojectos de relatório e submetê-los à apreciação do auditor-coordenador.\n\n2 - Os auditores-chefes são recrutados de entre:\n\na) Indivíduos vinculados à função pública, habilitados com licenciatura, que tenham exercido funções dirigentes no âmbito de serviços operativos de inspecção ou auditoria e de gestão financeira e patrimonial;\n\nb) Auditores ou consultores do Tribunal de Contas;\n\nc) Técnicos verificadores superiores do Tribunal de Contas e indivíduos providos nas carreiras de inspector ou auditor da Administração Pública, todos eles habilitados com licenciatura e com, pelo menos, seis anos de serviço em funções de auditoria ou consultadoria, com classificação de Muito bom;\n\nd) Indivíduos não vinculados à função pública, habilitados com licenciatura, que contem, pelo menos, oito anos de serviço de reconhecido mérito em funções de auditoria em empresas do sector público ou de auditoria."
+  },
+  "221603195": {
+   "fragment_id": "221580527",
+   "type": 11,
+   "heading": "Artigo 14.º — Carreira de auditor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Carreira de auditor\n\n1 - A carreira de auditor integra o corpo especial de fiscalização e controlo e desenvolve-se horizontalmente, por escalões, de acordo com a escala de progressão dos juízes de direito.\n\n2 - O auditor é recrutado de entre indivíduos habilitados com licenciatura adequada que contem, pelo menos, nove anos de serviço:\n\na) Numa carreira de inspecção ou auditoria da administração pública central, regional ou local para cujo ingresso seja exigido o grau de licenciatura, com classificação de Muito bom;\n\nb) Na carreira de técnico verificador superior do corpo especial previsto neste diploma, com classificação de Muito bom;\n\nc) Em carreira inserida no grupo do pessoal técnico superior dos quadros dos serviços e organismos da administração pública central, regional e local, com classificação de Muito bom;\n\nd) Como auditor, gestor ou técnico superior de empresas do sector público ou de auditoria.\n\n3 - O auditor é, para efeitos de recrutamento para cargos dirigentes, equiparado a assessor."
+  },
+  "221603196": {
+   "fragment_id": "221580528",
+   "type": 11,
+   "heading": "Artigo 15.º — Carreira de consultor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Carreira de consultor\n\n1 - A carreira de consultor integra o corpo especial de fiscalização e controlo e desenvolve-se horizontalmente por escalões, de acordo com a escala de progressão dos juízes de direito.\n\n2 - O consultor é recrutado de entre indivíduos habilitados com licenciatura adequada que contem, pelo menos, nove anos de serviço:\n\na) Numa carreira de inspecção ou auditoria da administração pública central, regional ou local para cujo ingresso seja exigido o grau de licenciatura, com classificação de Muito bom;\n\nb) Na carreira de técnico verificador superior do corpo especial previsto neste diploma, com classificação de Muito bom;\n\nc) Em carreira inserida no grupo do pessoal técnico superior dos quadros dos serviços e organismos da administração pública central, regional e local, com classificação de Muito bom;\n\nd) Como auditor, gestor ou técnico superior de empresas do sector empresarial público ou de empresas de auditoria.\n\n3 - Podem ainda ser recrutados para consultor licenciados ou mestres com seis anos de serviço na carreira docente universitária, bem como doutores, todos eles em disciplinas afins das áreas de intervenção do Tribunal de Contas.\n\n4 - O consultor é, para efeitos de recrutamento para cargos dirigentes, equiparado a assessor."
+  },
+  "221603197": {
+   "fragment_id": "221580529",
+   "type": 11,
+   "heading": "Artigo 16.º — Carreira de técnico verificador superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Carreira de técnico verificador superior\n\n1 - A carreira de técnico verificador superior integra o corpo especial de fiscalização e controlo e desenvolve-se pelas categorias de técnico verificador assessor principal, técnico verificador assessor, técnico verificador superior principal, técnico verificador superior de 1.ª classe e técnico verificador superior de 2.ª classe, de acordo com as regras constantes dos números seguintes.\n\n2 - O técnico verificador assessor principal e o técnico verificador assessor são recrutados de entre, respectivamente, técnicos verificadores assessores e técnicos verificadores superiores principais com, pelo menos, três anos de serviço nas respectivas categorias, com classificação de Muito bom.\n\n3 - O técnico verificador superior principal e o técnico verificador superior de 1.ª classe são recrutados de entre, respectivamente, técnicos verificadores superiores de 1.ª e de 2.ª classes com, pelo menos, três anos de serviço nas respectivas categorias, com classificação de Bom, e de entre, também respectivamente, técnicos verificadores especialistas principais e técnicos verificadores especialistas habilitados com licenciatura adequada.\n\n4 - O técnico verificador superior de 2.ª classe é recrutado de entre técnicos verificadores superiores estagiários que tenham concluído o respectivo estágio com classificação não inferior a 14 valores.\n\n5 - O técnico verificador superior estagiário é recrutado de entre indivíduos habilitados com licenciatura adequada."
+  },
+  "221603198": {
+   "fragment_id": "221580530",
+   "type": 11,
+   "heading": "Artigo 17.º — Carreira de técnico verificador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Carreira de técnico verificador\n\n1 - A carreira de técnico verificador integra o corpo especial de fiscalização e controlo e desenvolve-se pelas categorias de técnico verificador especialista principal, técnico verificador especialista, técnico verificador principal, técnico verificador de 1.ª classe e técnico verificador de 2.ª classe, de acordo com as regras constantes dos números seguintes.\n\n2 - Os técnicos verificadores especialistas principais e os técnicos verificadores especialistas são recrutados de entre, respectivamente, técnicos verificadores especialistas e técnicos verificadores principais com, pelo menos, três anos de serviço nas respectivas categorias, com classificação de Muito bom.\n\n3 - Os técnicos verificadores principais e os técnicos verificadores de 1.ª classe são recrutados de entre, respectivamente, técnicos verificadores de 1.ª classe e técnicos verificadores de 2.ª classe com, pelo menos, três anos de serviço na categoria, com classificação de Bom.\n\n4 - A carreira de técnico verificador é, após a transição decorrente do disposto no artigo 32.º, a extinguir quanto vagar, da base para o topo."
+  },
+  "221603199": {
+   "fragment_id": "221580531",
+   "type": 11,
+   "heading": "Artigo 18.º — Progressão nas carreiras integradas no corpo especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Progressão nas carreiras integradas no corpo especial\n\n1 - A progressão nas categorias das carreiras integradas no corpo especial de fiscalização e controlo faz-se por mudança de escalão.\n\n2 - A mudança de escalão é automática e oficiosa e depende da permanência de três anos no escalão imediatamente anterior, com classificação não inferior a Bom, salvo quanto às carreiras de auditor e de consultor, em que a progressão se efectua nos termos previstos na lei para os juízes de direito.\n\n3 - A atribuição de classificação de serviço inferior a Bom determina a não consideração do tempo de serviço prestado com essa classificação para efeitos de progressão."
+  },
+  "221603200": {
+   "fragment_id": "221580532",
+   "type": 11,
+   "heading": "Artigo 19.º — Recrutamento e selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Recrutamento e selecção\n\n1 - O ingresso nas carreiras e nas categorias não inseridas em carreira, bem como o acesso nas carreiras verticais, faz-se mediante concurso, nos termos da lei geral.\n\n2 - Nas carreiras integradas no corpo especial os concursos de ingresso são abertos por áreas funcionais, de acordo com as necessidades do serviço, as quais devem ser especificadas no despacho que autoriza a abertura do concurso e no respectivo aviso de abertura."
+  },
+  "221603201": {
+   "fragment_id": "221580533",
+   "type": 11,
+   "heading": "Artigo 20.º — Métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Métodos de selecção\n\n1 - O recrutamento e selecção para o ingresso nas carreiras do corpo especial faz-se mediante a aplicação de provas de conhecimentos, sem prejuízo da aplicabilidade complementar de outros métodos de selecção previstos na lei.\n\n2 - A estrutura e o programa das provas de conhecimentos referidos no n.º 1 são definidos por despacho do Presidente."
+  },
+  "221603202": {
+   "fragment_id": "221580534",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regime de estágio\n\n1 - O estágio de ingresso na carreira de técnico verificador superior tem a duração mínima de um ano e pode cessar a qualquer momento, mediante cessação da comissão de serviço ou rescisão unilateral do contrato de provimento, conforme os casos, sempre que o estagiário revele inadequação para o exercício da função.\n\n2 - A cessação da comissão de serviço e a rescisão são da competência do director-geral do Tribunal de Contas, mediante proposta fundamentada do director do estágio.\n\n3 - Do acto que decida a cessação da comissão de serviço ou a rescisão do contrato de provimento cabe recurso hierárquico necessário para o Presidente, com efeito suspensivo.\n\n4 - O regulamento dos estágios relativos à carreira de técnico verificador superior e às carreiras gerais e especiais, incluindo, designadamente, o conteúdo programático dos cursos de formação profissional, é aprovado por despacho do Presidente.\n\n5 - O tempo de estágio conta, para todos os efeitos legais, como prestado na respectiva carreira."
+  },
+  "221603203": {
+   "fragment_id": "221580535",
+   "type": 11,
+   "heading": "Artigo 22.º — Conteúdos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Conteúdos funcionais\n\n1 - Os conteúdos funcionais das carreiras integrantes do corpo especial de fiscalização e controlo são os constantes dos quadros de pessoal anexos ao presente diploma, e que dele fazem parte integrante.\n\n2 - O pessoal dos serviços de apoio está sujeito ao dever de disponibilidade permanente."
+  },
+  "221603204": {
+   "fragment_id": "221580536",
+   "type": 11,
+   "heading": "Artigo 23.º — Pessoal oficial de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pessoal oficial de justiça\n\nO provimento dos lugares do grupo de pessoal oficial de justiça para apoio à secção jurisdicional do Tribunal pode ser feito em comissão de serviço por três anos, renovável, de entre indivíduos da mesma categoria dos quadros dos serviços judiciários."
+  },
+  "221603205": {
+   "fragment_id": "221580537",
+   "type": 11,
+   "heading": "Artigo 24.º — Estatuto remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Estatuto remuneratório\n\n1 - A estrutura da remuneração base a abonar ao auditor e ao consultor é a prevista na lei para os juízes de direito.\n\n2 - A remuneração base a abonar ao auditor-coordenador e ao auditor-chefe é, respectivamente, a correspondente ao último e penúltimo escalões da categoria de juiz de direito.\n\n3 - A estrutura da remuneração base a abonar ao restante pessoal que integra o corpo especial de fiscalização e controlo é a constante do mapa anexo ao presente diploma, e que dele faz parte integrante.\n\n4 - Sem prejuízo do disposto nos n.os 1 e 2, o índice 100 do corpo especial é o constante do mapa anexo e é objecto de actualização anual nos termos da lei geral.\n\n5 - Não se aplica aos dirigentes do corpo especial o disposto no artigo 34.º, n.º 2, da Lei n.º 49/99, de 22 de Junho.\n\n6 - Ao pessoal das carreiras e categorias não integradas no corpo especial de fiscalização e controlo aplica-se o disposto na alínea n) do n.º 2 do artigo 30.º da Lei n.º 98/97, de 26 de Agosto, a concretizar pela forma prevista no n.º 5 do mesmo artigo.\n\n7 - A remuneração base ilíquida mensal dos funcionários e agentes dos serviços de apoio em caso algum poderá exceder 90% da remuneração base ilíquida mensal de juiz conselheiro do Tribunal de Contas, sem prejuízo da percepção das ajudas de custo devidas."
+  },
+  "221603206": {
+   "fragment_id": "221580538",
+   "type": 11,
+   "heading": "Artigo 25.º — Ajudas de custo e abono para despesas de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Ajudas de custo e abono para despesas de transporte\n\n1 - O pessoal dos serviços de apoio, sempre que se desloque em serviço, tem direito a ajudas de custo diárias e a abono para despesas de transporte, nos termos da lei geral.\n\n2 - Quando, por razões de serviço, as despesas efectiva e comprovadamente realizadas pelo pessoal referido no número anterior excedam o montante normal de ajudas de custo, ser-lhe-á abonada a diferença, a qual será suportada pelos Cofres do Tribunal."
+  },
+  "221603207": {
+   "fragment_id": "221580539",
+   "type": 11,
+   "heading": "Artigo 26.º — Reclassificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Reclassificação profissional\n\n1 - Os funcionários providos nas carreiras de auditor e consultor podem ser objecto de reclassificação profissional.\n\n2 - A reclassificação faz-se da carreira de auditor para a carreira de consultor, e vice-versa, em idêntica situação remuneratória.\n\n3 - A reclassificação referida nos números anteriores pode ser feita por conveniência de serviço com a anuência dos interessados ou a requerimento destes, por despacho do Presidente, sob proposta do director-geral."
+  },
+  "221603208": {
+   "fragment_id": "221580540",
+   "type": 11,
+   "heading": "Artigo 27.º — Direitos e prerrogativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Direitos e prerrogativas\n\n1 - O pessoal integrado no corpo especial de fiscalização e controlo, quando em serviço e sempre que necessário ao desempenho das suas funções, goza dos direitos e prerrogativas seguintes, para além de outros previstos na lei geral:\n\na) Livre acesso aos serviços e dependências das entidades sujeitas ao controlo do Tribunal, mediante a simples exibição do respectivo cartão de identificação profissional;\n\nb) Utilizar instalações adequadas ao exercício das suas funções em condições de dignidade e eficácia e obter a colaboração do pessoal que se mostre indispensável;\n\nc) Corresponder-se com quaisquer entidades públicas ou privadas sobre assuntos de interesse para o exercício das suas funções ou para obtenção dos elementos que se mostrem indispensáveis;\n\nd) Proceder ao exame de quaisquer elementos em poder de entidades objecto da fiscalização do Tribunal, quando se mostrem indispensáveis à realização das respectivas tarefas;\n\ne) Ingressar e transitar livremente em quaisquer locais públicos, mediante a exibição do cartão de identificação profissional;\n\nf) Requisitar às autoridades policiais a colaboração que se mostre necessária ao exercício das suas funções, designadamente em casos de resistência a esse exercício;\n\ng) Promover, nos termos legais, a selagem de quaisquer instalações, dependências, cofres ou móveis, bem como a requisição ou reprodução de documentos em poder de entidades objecto de intervenção do Tribunal, quando se mostre indispensável à realização de quaisquer diligências, para o que será levantado o correspondente auto, dispensável no caso de simples reprodução de documentos.\n\n2 - Os funcionários acima referidos que sejam arguidos em processo judicial, por actos cometidos ou ocorridos no exercício e por causa das suas funções, têm direito a ser assistidos por advogado, indicado pelo director-geral, ouvido o interessado, retribuído a expensas do Estado, bem como a transporte e ajudas de custo quando a localização do tribunal ou das entidades policiais o justifique.\n\n3 - As importâncias eventualmente dispendidas nos termos e para os efeitos referidos no número anterior devem ser reembolsadas pelo funcionário que lhes deu causa, no caso de condenação judicial."
+  },
+  "221603209": {
+   "fragment_id": "221580541",
+   "type": 11,
+   "heading": "Artigo 28.º — Acumulação e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Acumulação e incompatibilidades\n\n1 - Ao pessoal abrangido pelo presente diploma não é permitida a acumulação de funções ou cargos públicos remunerados.\n\n2 - O disposto no número anterior não abrange:\n\na) Inerências;\n\nb) Missões de estudos de carácter transitório e, bem assim, participação em comissões, equipas ou grupos de trabalho que resultem directamente do exercício das respectivas funções;\n\nc) Actividades de formação do Tribunal ou dos serviços de apoio;\n\nd) Actividades de carácter ocasional e temporário que possam ser consideradas complemento do cargo ou função;\n\ne) Actividades docentes em estabelecimentos de ensino superior;\n\nf) A acumulação de funções ou cargos públicos fundamentada em motivo de interesse público.\n\n3 - O disposto no n.º 1 não é aplicável às remunerações provenientes de:\n\na) Criação artística, literária, científico-técnica, realização de conferências, acções de formação, palestras e outras acções de idêntica natureza;\n\nb) Participação em conselhos consultivos, comissões de fiscalização ou outros órgãos colegiais, quando prevista na lei, e no exercício de fiscalização ou controlo de dinheiros públicos.\n\n4 - O exercício das funções previstas nas alíneas b), d), e) e f) do n.º 2 carece de autorização do Presidente.\n\n5 - Todo o exercício de actividades privadas, remuneradas ou não, por funcionários dos serviços de apoio carece de autorização do Presidente, precedida de parecer do director-geral, a qual será recusada ou revogada em todos os casos em que a mesma actividade se mostre susceptível de afectar o prestígio da função, enfraquecer a respectiva autoridade ou comprometer ou interferir com a isenção exigida para o exercício da função ou que, como tal, se venha a revelar.\n\n6 - Não é permitido ao funcionário ou agente o exercício de actividades privadas, ainda que autorizado nos termos do número anterior, quando, casuisticamente, esse exercício se revele incompatível com o cumprimento dos deveres estabelecidos na lei ou susceptível de comprometer a isenção exigida ao exercício das respectivas funções.\n\n7 - Os funcionários e agentes dos serviços de apoio estão sujeitos aos impedimentos legalmente previstos.\n\n8 - O disposto nos números anteriores não prejudica a aplicação de regimes de acumulação e incompatibilidades mais restritivos previstos em lei geral ou especial."
+  },
+  "221603210": {
+   "fragment_id": "221580542",
+   "type": 11,
+   "heading": "Artigo 29.º — Cartão de identificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cartão de identificação profissional\n\n1 - O pessoal dos serviços de apoio em efectividade de serviço tem direito a um cartão de identificação profissional, segundo modelo a aprovar por despacho do Presidente, a publicar na 2.ª série do Diário da República.\n\n2 - Do cartão de identificação do pessoal integrado no corpo especial de fiscalização e controlo constará a menção «Livre trânsito» a cor vermelha e, bem assim, os direitos e prerrogativas do respectivo titular."
+  },
+  "221603211": {
+   "fragment_id": "221580543",
+   "type": 11,
+   "heading": "Artigo 30.º — Serviços Sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Serviços Sociais\n\nEm matéria de segurança social complementar, os funcionários e agentes dos serviços de apoio são beneficiários da ADSE e dos Serviços Sociais do Ministério da Justiça, quanto a estes últimos nos termos e condições constantes de protocolo entre a DGTC e o Gabinete da Gestão Financeira do Ministério da Justiça."
+  },
+  "221603212": {
+   "fragment_id": "221580544",
+   "type": 1,
+   "heading": "Capítulo III — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições transitórias e finais"
+  },
+  "221603213": {
+   "fragment_id": "221580545",
+   "type": 11,
+   "heading": "Artigo 31.º — Regra geral de transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regra geral de transição de pessoal\n\nOs funcionários que à data da entrada em vigor do presente diploma se encontram providos nos quadros de pessoal da DGTC e das ex-Contadorias-Gerais das Secções Regionais dos Açores e da Madeira transitam para os quadros de pessoal a que se refere o artigo 10.º, para carreira, categoria e escalão iguais aos que detinham, sem prejuízo do disposto nos artigos 32.º a 37.º"
+  },
+  "221603214": {
+   "fragment_id": "221580546",
+   "type": 11,
+   "heading": "Artigo 32.º — Transição do pessoal técnico superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Transição do pessoal técnico superior\n\n1 - Os actuais assessores principais, assessores e técnicos superiores principais, todos com nove ou mais anos de serviço na carreira técnica superior, com a classificação de Muito bom, que exerçam funções no âmbito dos serviços operativos de fiscalização prévia e de fiscalização sucessiva transitam para a carreira de auditor para escalão correspondente ao tempo de serviço detido na carreira que exceda nove anos.\n\n2 - Os actuais assessores principais, assessores e técnicos superiores principais, todos com nove ou mais anos de serviço na carreira técnica superior, com classificação de Muito bom, que exerçam funções de consultadoria para apoio directo ao Tribunal e às equipas de auditoria no âmbito dos demais serviços transitam para a carreira de consultor para escalão correspondente ao tempo de serviço detido na carreira que exceda nove anos.\n\n3 - Transitam ainda para as carreiras de auditor ou consultor os actuais técnicos superiores que sejam titulares, há mais de três anos, do cargo de contador-geral ou de contador-chefe.\n\n4 - Os técnicos superiores não abrangidos nos números anteriores que realizem auditorias e outras acções de controlo ou que desenvolvam funções de consultadoria para apoio ao Tribunal e às equipas de auditoria transitam para a carreira de técnico verificador superior de acordo com a tabela de transição constante do mapa anexo ao presente diploma.\n\n5 - A transição a que se reporta o número anterior faz-se para o escalão a que corresponda remuneração igual ou, na falta de coincidência, remuneração superior mais aproximada na estrutura da categoria, englobando-se na remuneração que serve de base à transição as remunerações acessórias ou adicionais.\n\n6 - Os funcionários nas condições acima referidas que, à data da entrada em vigor do presente diploma, se encontrem a exercer funções fora do respectivo lugar de origem ao abrigo de destacamento, requisição, comissão de serviço ou outras figuras de mobilidade transitam para os novos quadros de acordo com as regras precedentes aplicáveis, conforme os casos, em função da subunidade orgânica a que estavam afectos ou do conteúdo funcional que detinham à data da constituição da situação jurídica em que se encontrem.\n\n7 - A transição referida nos números anteriores depende de confirmação do interessado, a apresentar, em declaração escrita, ao director-geral no prazo de cinco dias a contar da data da entrada em vigor do presente diploma.\n\n8 - Os técnicos superiores não abrangidos pelas regras de transição dos números anteriores, bem como aqueles que não hajam confirmado o seu interesse na transição nos termos do n.º 6, transitam de acordo com o disposto no artigo 31.º"
+  },
+  "221603215": {
+   "fragment_id": "221580547",
+   "type": 11,
+   "heading": "Artigo 33.º — Transição dos contadores-verificadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Transição dos contadores-verificadores\n\n1 - Os funcionários providos na carreira de contador-verificador transitam para a carreira de técnico verificador de acordo com a tabela de transição constante do mapa anexo ao presente diploma.\n\n2 - A transição a que se reporta o número anterior faz-se para o escalão a que corresponda remuneração igual ou, na falta de coincidência, remuneração superior mais aproximada na estrutura da categoria, englobando-se na remuneração que serve de base à transição as remunerações acessórias ou adicionais.\n\n3 - Transitam para técnicos verificadores superiores principais e técnicos verificadores superiores de 1.ª classe, respectivamente, os contadores-verificadores especialistas principais e os contadores-verificadores especialistas, habilitados com licenciatura adequada, que realizem auditorias e outras acções de controlo.\n\n4 - Os funcionários que transitarem nos termos do número anterior serão integrados em escalão a que corresponda o mesmo índice remuneratório que lhes caberia por aplicação do n.º 2 ou, na falta de coincidência, o índice superior mais aproximado na estrutura da categoria."
+  },
+  "221603216": {
+   "fragment_id": "221580548",
+   "type": 11,
+   "heading": "Artigo 34.º — Transição dos contadores-verificadores-adjuntos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Transição dos contadores-verificadores-adjuntos\n\nOs funcionários providos na carreira de contador-verificador-adjunto transitam, em escalão igual ao que detêm, para a carreira de técnico-adjunto, de acordo com a tabela de transição constante do mapa anexo ao presente diploma."
+  },
+  "221603217": {
+   "fragment_id": "221580549",
+   "type": 11,
+   "heading": "Artigo 35.º — Transição de pessoal em exercício de funções dirigentes nos serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transição de pessoal em exercício de funções dirigentes nos serviços de apoio\n\n1 - Os funcionários que se encontrem em comissão de serviço no exercício de funções dirigentes no âmbito dos serviços de apoio transitam para os novos quadros de acordo com as regras constantes dos artigos precedentes, aplicáveis em função da área de actividade que desenvolviam à data da constituição da situação jurídica em que se encontrem ou da área de actividade correspondente à unidade orgânica que coordenem à data da entrada em vigor do presente diploma, conforme opção expressa do interessado.\n\n2 - Os funcionários que à data do início da respectiva comissão de serviço como dirigente ainda não se encontrassem providos em lugares dos quadros dos serviços de apoio transitam em função da subunidade orgânica que coordenem à data da entrada em vigor do presente diploma.\n\n3 - A opção referida no n.º 1 depende de declaração do interessado a apresentar ao director-geral no prazo de cinco dias a contar da data da entrada em vigor do presente diploma."
+  },
+  "221603218": {
+   "fragment_id": "221580550",
+   "type": 11,
+   "heading": "Artigo 36.º — Outras transições de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Outras transições de pessoal\n\n1 - Os funcionários não abrangidos pelo disposto nos artigos anteriores transitam, sem prejuízo das habilitações literárias e ou profissionais exigíveis, para carreira e categoria correspondentes às funções efectivamente desempenhadas.\n\n2 - Os funcionários que desenvolvam funções diversas daquelas que correspondem à categoria em que estão providos poderão transitar, com respeito pelas habilitações e cursos de formação exigíveis, para carreira e categoria correspondentes às funções efectivamente desempenhadas, com exclusão das carreiras do corpo especial.\n\n3 - Nos casos referidos nos números anteriores, a integração na nova carreira far-se-á para a categoria a cujo escalão 1 corresponda remuneração base ilíquida igual ou, na falta de coincidência, remuneração base ilíquida superior mais aproximada à do escalão 1 da categoria de origem, sendo a integração na nova categoria feita em escalão a que corresponda:\n\na) Igual remuneração;\n\nb) Na falta de coincidência, a remuneração superior mais aproximada na estrutura da categoria.\n\n4 - Na transição para as carreiras do corpo especial englobar-se-ão na remuneração que serve de base à transição as remunerações acessórias ou adicionais."
+  },
+  "221603219": {
+   "fragment_id": "221580551",
+   "type": 11,
+   "heading": "Artigo 37.º — Integração de pessoal requisitado e em comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Integração de pessoal requisitado e em comissão de serviço\n\n1 - O pessoal que à data da entrada em vigor do presente diploma presta serviço na DGTC e nos serviços de apoio regionais, há mais de um ano, em regime de requisição ou em comissão de serviço pode ser integrado no respectivo quadro de pessoal a que alude o artigo 10.º, transitando de acordo com as regras constantes dos artigos anteriores.\n\n2 - As transições podem ainda concretizar-se nas carreiras do corpo especial, e, no que respeita às de auditor ou de consultor, verificados os restantes requisitos, quando o funcionário se encontre provido em carreira do grupo de pessoal técnico superior ou para a qual seja exigida a posse de licenciatura, se nela contar tempo de serviço não inferior ao exigido pelos artigos 14.º e 15.º para o ingresso naquelas carreiras."
+  },
+  "221603220": {
+   "fragment_id": "221580552",
+   "type": 11,
+   "heading": "Artigo 38.º — Integração de auxiliares de limpeza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Integração de auxiliares de limpeza\n\nO pessoal que, à data da entrada em vigor do presente diploma, desenvolve na DGTC funções de auxiliar de limpeza e conta mais de três anos de serviço ininterrupto, em regime de tempo completo, é integrado como auxiliar de limpeza."
+  },
+  "221603221": {
+   "fragment_id": "221580553",
+   "type": 11,
+   "heading": "Artigo 39.º — Produção de efeitos das transições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Produção de efeitos das transições\n\nAs transições e integrações referidas nos artigos anteriores operam-se por lista nominativa aprovada por despacho do Presidente e produzem efeitos desde a data da entrada em vigor do presente diploma."
+  },
+  "221603222": {
+   "fragment_id": "221580554",
+   "type": 11,
+   "heading": "Artigo 40.º — Tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Tempo de serviço\n\n1 - O tempo de serviço prestado nas carreiras e categorias que deram origem às transições previstas nos artigos anteriores conta, para todos os efeitos legais, como prestado na nova carreira e categoria, sem prejuízo do disposto no número seguinte.\n\n2 - Para os funcionários que transitam nos termos do artigo 32.º para as carreiras de auditor ou consultor, e para efeitos de progressão, apenas é aproveitado o tempo de serviço que exceda nove anos na carreira que deu origem à transição."
+  },
+  "221603223": {
+   "fragment_id": "221580555",
+   "type": 11,
+   "heading": "Artigo 41.º — Comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Comissões de serviço\n\nAs actuais comissões de serviço do pessoal dirigente cessam na data da entrada em vigor do presente diploma, continuando, no entanto, os seus titulares em exercício de funções até às novas nomeações, mantendo durante esse tempo todos os direitos e deveres inerentes ao cargo."
+  },
+  "221603224": {
+   "fragment_id": "221580556",
+   "type": 11,
+   "heading": "Artigo 42.º — Chefes de divisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Chefes de divisão\n\nO recrutamento para os lugares de chefe de divisão dos serviços de apoio pode também ser feito de entre técnicos verificadores especialistas principais que tenham exercido funções como contador-chefe durante, pelo menos, três anos."
+  },
+  "221603225": {
+   "fragment_id": "221580557",
+   "type": 11,
+   "heading": "Artigo 43.º — Concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Concursos\n\n1 - Mantêm-se válidos, até ao limite dos respectivos prazos de duração, os concursos de ingresso e os concursos de habilitação abertos e ainda vigentes à data da entrada em vigor do presente diploma, concluídos ou não.\n\n2 - Mantêm-se válidos, até ao limite dos respectivos prazos de duração, os concursos de acesso abertos antes da data da entrada em vigor do presente diploma, concluídos ou não, sendo o pessoal neles aprovado, dentro das vagas preenchíveis, provido nas carreiras e categorias resultantes da aplicação das regras de transição constantes dos artigos anteriores."
+  },
+  "221603226": {
+   "fragment_id": "221580558",
+   "type": 11,
+   "heading": "Artigo 44.º — Estágios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Estágios\n\n1 - Mantêm-se válidos os estágios em curso à data da entrada em vigor do presente diploma ou que se iniciem na sequência dos concursos de ingresso a que se refere o artigo anterior e, bem assim, os estágios concluídos antes daquela data, neste caso relativamente aos provimentos devidos e ainda não efectuados, fazendo-se o provimento na categoria que couber por aplicação das regras de transição constantes dos artigos 31.º e seguintes.\n\n2 - O Regulamento do Estágio anexo ao Despacho Normativo n.º 72/89, de 2 de Agosto, mantém-se em vigor até ao termo dos estágios iniciados antes da entrada em vigor do presente diploma."
+  },
+  "221603227": {
+   "fragment_id": "221580559",
+   "type": 11,
+   "heading": "Artigo 45.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Mobilidade\n\n1 - O pessoal dos serviços de apoio referidos no n.º 2 do artigo 1.º pode desempenhar funções em serviços ou organismos da administração pública central, regional ou local e nas empresas públicas e de capitais públicos ou maioritariamente públicos, em qualquer situação, nos termos da lei geral e mediante prévia autorização do Presidente do Tribunal de Contas.\n\n2 - O pessoal referido no número anterior pode igualmente desempenhar funções em organismos internacionais e da União Europeia, nos termos da lei.\n\n3 - Em caso de provimento de funcionário dos serviços de apoio em comissão de serviço, o Presidente, ponderada a conveniência dos serviços, pode declarar vagos os lugares de origem.\n\n4 - Consideram-se na situação de supranumerários os funcionários que aguardam colocação em vaga da sua categoria por ter findado a comissão de serviço em que se encontravam, nos casos em que tenha sido accionado o disposto no número anterior.\n\n5 - A situação de supranumerário não prejudica o exercício das funções, não implica a perda de qualquer remuneração ou antiguidade, determina a preferência absoluta no provimento em vaga da categoria em causa e admite a candidatura a concurso de acesso.\n\n6 - O pessoal dos serviços e organismos da administração pública central, regional e local, dos serviços de apoio dos órgãos de soberania, dos serviços de apoio dos órgãos independentes previstos na Constituição e das empresas públicas e de capitais públicos ou maioritariamente públicos pode desempenhar funções nos serviços de apoio do Tribunal de Contas mediante requisição, ou para eles ser transferido.\n\n7 - O pessoal das empresas do sector privado pode igualmente desempenhar funções nos serviços de apoio do Tribunal de Contas mediante requisição nos termos da lei geral.\n\n8 - O pessoal dos serviços de apoio do Tribunal de Contas pode, a seu pedido, ser transferido para os quadros da administração pública, central, regional e local, bem como de serviços de apoio aos órgãos de soberania e aos órgãos independentes previstos na Constituição, para categoria à qual corresponda igual remuneração e exigência habilitacional."
+  },
+  "221603228": {
+   "fragment_id": "221580560",
+   "type": 11,
+   "heading": "Artigo 46.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Direito subsidiário\n\nAo pessoal dos serviços de apoio é aplicável, subsidiariamente, o regime geral dos funcionários e agentes da Administração Pública."
+  },
+  "221603229": {
+   "fragment_id": "221580561",
+   "type": 11,
+   "heading": "Artigo 47.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Revogação\n\nSão revogados os seguintes diplomas:\n\na) Decreto-Lei n.º 56/79, de 29 de Março;\n\nb) Decreto-Lei n.º 312/89, de 21 de Setembro;\n\nc) Decreto-Lei n.º 30/96, de 11 de Abril."
+  },
+  "221603230": {
+   "fragment_id": "221580562",
+   "type": 11,
+   "heading": "Artigo 48.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação no Diário da República.\n\n2 - Durante os 1.º, 2.º e 3.º anos de vigência do presente diploma, o quadro de pessoal da sede da Direcção-Geral do Tribunal de Contas não poderá estar preenchido a mais de 75%, 80% e 85%, respectivamente."
+  },
+  "221603232": {
+   "fragment_id": "221580564",
+   "type": 14,
+   "heading": "Anexo I — Estrutura remuneratória do pessoal dirigente do corpo especial de fiscalização e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Estrutura remuneratória do pessoal dirigente do corpo especial de fiscalização e controlo\n\n[artigo 24.º, n.º 3, e alínea a) do n.º 3 do artigo 10.º]\n\n(ver documento original)\n\nEstrutura remuneratória do corpo especial de fiscalização e controlo (técnico verificador superior e técnico verificador)\n\n(artigo 24.º, n.º 3)\n\n(ver documento original)"
+  },
+  "221603233": {
+   "fragment_id": "221580565",
+   "type": 14,
+   "heading": "Anexo II — Transição dos técnicos superiores não abrangidos pelos n.os 1 e 2 do artigo 32.º (auditores/consultores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Transição dos técnicos superiores não abrangidos pelos n.os 1 e 2 do artigo 32.º (auditores/consultores)\n\n(artigo 32.º, n.º 4)\n\n(ver quadro no documento original)\n\nTransição dos contadores-verificadores\n\n(artigo 33.º)\n\n(ver quadro no documento original)\n\nTransição dos contadores-verificadores-adjuntos\n\n(artigo 34.º)\n\n(ver quadro no documento original)"
+  },
+  "221603236": {
+   "fragment_id": "221580527",
+   "type": 11,
+   "heading": "Artigo 14.º — Carreira de auditor",
+   "in_force_from": "2001-06-26",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+   ],
+   "markdown": "###### Artigo 14.º — Carreira de auditor\n\n1 - A carreira de auditor integra o corpo especial de fiscalização e controlo e desenvolve-se horizontalmente, por escalões, de acordo com a escala de progressão dos juízes de direito e em conformidade com o disposto no n.º 2 do artigo 18.º\n\n2 - O auditor é recrutado de entre indivíduos habilitados com licenciatura adequada que contem, pelo menos, nove anos de serviço:\n\na) Numa carreira de inspecção ou auditoria da administração pública central, regional ou local para cujo ingresso seja exigido o grau de licenciatura, com classificação de Muito bom;\n\nb) Na carreira de técnico verificador superior do corpo especial previsto neste diploma, com classificação de Muito bom;\n\nc) Em carreira inserida no grupo do pessoal técnico superior dos quadros dos serviços e organismos da administração pública central, regional e local, com classificação de Muito bom;\n\nd) Como auditor, gestor ou técnico superior de empresas do sector público ou de auditoria.\n\n3 - O auditor é, para efeitos de recrutamento para cargos dirigentes, equiparado a assessor.\n\n> Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+  },
+  "221603237": {
+   "fragment_id": "221580528",
+   "type": 11,
+   "heading": "Artigo 15.º — Carreira de consultor",
+   "in_force_from": "2001-06-26",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+   ],
+   "markdown": "###### Artigo 15.º — Carreira de consultor\n\n1 - A carreira de consultor integra o corpo especial de fiscalização e controlo e desenvolve-se horizontalmente por escalões, de acordo com a escala de progressão dos juízes de direito e em conformidade com o disposto no n.º 2 do artigo 18.º\n\n2 - O consultor é recrutado de entre indivíduos habilitados com licenciatura adequada que contem, pelo menos, nove anos de serviço:\n\na) Numa carreira de inspecção ou auditoria da administração pública central, regional ou local para cujo ingresso seja exigido o grau de licenciatura, com classificação de Muito bom;\n\nb) Na carreira de técnico verificador superior do corpo especial previsto neste diploma, com classificação de Muito bom;\n\nc) Em carreira inserida no grupo do pessoal técnico superior dos quadros dos serviços e organismos da administração pública central, regional e local, com classificação de Muito bom;\n\nd) Como auditor, gestor ou técnico superior de empresas do sector empresarial público ou de empresas de auditoria.\n\n3 - Podem ainda ser recrutados para consultor licenciados ou mestres com seis anos de serviço na carreira docente universitária, bem como doutores, todos eles em disciplinas afins das áreas de intervenção do Tribunal de Contas.\n\n4 - O consultor é, para efeitos de recrutamento para cargos dirigentes, equiparado a assessor.\n\n> Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+  },
+  "221603238": {
+   "fragment_id": "221580531",
+   "type": 11,
+   "heading": "Artigo 18.º — Progressão nas carreiras integradas no corpo especial",
+   "in_force_from": "2001-06-26",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+   ],
+   "markdown": "###### Artigo 18.º — Progressão nas carreiras integradas no corpo especial\n\n1 - A progressão nas categorias das carreiras integradas no corpo especial de fiscalização e controlo faz-se por mudança de escalão.\n\n2 - A mudança de escalão é automática e oficiosa e depende da permanência de três anos no escalão imediatamente anterior, com classificação não inferior a Bom, salvo quanto às carreiras de auditor e de consultor, em que a progressão está condicionada a avaliação do desempenho, nos termos a definir em regulamento a aprovar pelo Presidente do Tribunal de Contas, sob proposta do dirigente máximo da Direcção-Geral do Tribunal de Contas, observados os princípios gerais fixados na lei.\n\n3 - A atribuição de classificação de serviço inferior a Bom determina a não consideração do tempo de serviço prestado com essa classificação para efeitos de progressão.\n\n> Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+  },
+  "221603231": {
+   "fragment_id": "221580563",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 7 Outubro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Outubro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "835806480": {
+   "fragment_id": "221580513",
+   "type": 11,
+   "heading": "Artigo 3.º — Gabinete",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Gabinete\n\n1 - No exercício das suas funções, o Presidente é coadjuvado por um gabinete.\n\n2 - O Gabinete do Presidente assegura ainda o apoio administrativo aos juízes e ao Ministério Público.\n\n3 - (Revogado.)\n\n4 - O chefe do Gabinete é nomeado por despacho do Presidente, que designará o seu substituto legal, podendo a nomeação recair no director-geral do Tribunal de Contas.\n\n5 - Os membros do Gabinete são nomeados por despacho do Presidente.\n\n6 - O Presidente pode designar trabalhadores da administração direta e indireta do Estado, incluindo empresas públicas ou sociedades com maioria de capitais públicos, bem como da administração regional e local, ou celebrar contratos de prestação de serviços, para o exercício de funções de apoio técnico e administrativo no respetivo Gabinete, caducando todas as referidas situações com a cessação de funções do Presidente.\n\n7 - Ao Gabinete é aplicável, com as necessárias adaptações, o regime de composição, nomeação, exoneração, garantias e remuneração consagrado na lei para o pessoal dos gabinetes dos membros do Governo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806481": {
+   "fragment_id": "221580516",
+   "type": 11,
+   "heading": "Artigo 5.º — Organização e funcionamento",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Organização e funcionamento\n\n1 - A DGTC é dirigida por um director-geral, coadjuvado por três subdirectores-gerais.\n\n2 - A DGTC é constituída por departamentos de apoio técnico-operativo (DAT) e departamentos de apoio instrumental (DAI).\n\n3 - São constituídos DAT nas seguintes áreas:\n\na) Parecer sobre a Conta Geral do Estado;\n\nb) Controlo prévio;\n\nc) Controlo concomitante;\n\nd) Controlo sucessivo;\n\ne) Consultadoria e planeamento.\n\n4 - São departamentos de apoio instrumental:\n\na) O Departamento de Gestão Financeira e Patrimonial (DGFP);\n\nb) O Departamento de Gestão, Capacitação e Desenvolvimento de Recursos Humanos (DRH);\n\nc) O Departamento de Sistemas e Tecnologias de Informação (DSTI);\n\nd) O Departamento de Arquivo, Documentação e Informação (DADI);\n\ne) A Secretaria do Tribunal;\n\nf) (Revogada.)\n\n5 - Os DAT e as respectivas unidades (UAT) são constituídos segundo as competências de cada secção do Tribunal, segundo áreas de especialização ou em função das áreas de responsabilidade dos juízes.\n\n6 - A competência material, a organização e o funcionamento dos departamentos são definidos por regulamento interno, aprovado por despacho do Presidente, sob proposta do director-geral, e, no que respeita aos DAT, com observância dos programas de fiscalização e controlo e das linhas gerais de organização e funcionamento aprovadas pelo plenário geral.\n\n7 - Os departamentos de apoio técnico-operativo e os departamentos de apoio instrumental são dirigidos, respetivamente, por auditores-coordenadores e por diretores de departamento, coadjuvados, conforme os casos, por auditores-chefes e por chefes de departamento.\n\n8 - A solicitação do Ministério Público, o director-geral destacará pessoal para assegurar o apoio técnico e administrativo à preparação e instrução dos processos de efectivação de responsabilidade.\n\n9 - Por despacho do Presidente, sob proposta do director-geral, sempre que o volume do serviço ou o carácter especializado das matérias o justifique, podem ser criados, mediante restruturação ou reconversão dos existentes, outros departamentos de apoio instrumental.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806482": {
+   "fragment_id": "221580518",
+   "type": 11,
+   "heading": "Artigo 7.º — Director-geral",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Director-geral\n\n1 - O director-geral do Tribunal de Contas dispõe, relativamente à DGTC e aos serviços de apoio das secções regionais, das competências gerais e específicas previstas na lei.\n\n2 - Compete ao director-geral, designadamente:\n\na) Propor à aprovação do Presidente o plano anual de actividades dos serviços de apoio, elaborado de harmonia com os programas de fiscalização e controlo aprovados pelo Tribunal e com as linhas gerais de organização e funcionamento dos serviços de apoio técnico aprovadas pelo plenário geral;\n\nb) Assegurar a gestão da DGTC, procedendo à necessária afectação de recursos humanos, financeiros e materiais, com vista ao cumprimento do plano de actividades e dos programas de fiscalização do Tribunal e com observância das linhas gerais de organização e funcionamento dos serviços de apoio técnico aprovadas pelo plenário geral e das orientações e instruções do Presidente;\n\nc) Diligenciar, junto dos organismos e serviços, com observância dos programas anuais de fiscalização e controlo, pela remessa das respectivas contas dentro dos prazos legais;\n\nd) Corresponder-se com quaisquer entidades, excluindo titulares de órgãos de soberania, sobre assuntos referentes ao funcionamento da Direcção-Geral e ao normal andamento dos processos da competência do Tribunal, designadamente em cumprimento dos despachos neles proferidos.\n\n3 - Nas suas faltas e impedimentos, o director-geral é substituído pelo subdirector-geral para o efeito designado, nos termos da lei.\n\n4 - O diretor-geral pode delegar poderes nos dirigentes dele imediatamente dependentes e nos chefes de equipa de projeto e de auditoria.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806483": {
+   "fragment_id": "221580523",
+   "type": 11,
+   "heading": "Artigo 10.º — Mapas de pessoal",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Mapas de pessoal\n\n1 - A DGTC e os serviços de apoio das secções regionais dispõem de mapas de pessoal.\n\n2 - Os mapas de pessoal incluem os postos de trabalho correspondentes aos cargos dirigentes e às categorias das carreiras necessárias à prossecução das atribuições e competências do Tribunal de Contas.\n\n3 - A área de fiscalização e controlo do Tribunal de Contas integra os trabalhadores dos seguintes cargos e carreiras:\n\na) O diretor-geral, os subdiretores-gerais, os auditores-coordenadores e os auditores-chefes;\n\nb) Os trabalhadores integrados na carreira especial de auditor;\n\nc) Os trabalhadores integrados nas carreiras subsistentes de consultor e de técnico verificador.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806484": {
+   "fragment_id": "221580524",
+   "type": 11,
+   "heading": "Artigo 11.º — Pessoal dirigente",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Pessoal dirigente\n\n1 - O pessoal dirigente rege-se pelo disposto na Lei n.º 98/97, de 26 de Agosto, e no presente diploma e, subsidiariamente, pelo estatuto do pessoal dirigente da função pública e demais legislação complementar.\n\n2 - Sem prejuízo das especificidades resultantes do presente diploma, consideram-se como cargo dirigente intermédio de 1.º grau os cargos de auditor-coordenador e de diretor de departamento e como cargo dirigente intermédio de 2.º grau os cargos de auditor-chefe e de chefe de departamento.\n\n3 - O pessoal dirigente dos serviços de apoio é nomeado por despacho do Presidente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806485": {
+   "fragment_id": "221580525",
+   "type": 11,
+   "heading": "Artigo 12.º — Auditor-coordenador",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Auditor-coordenador\n\n1 - Cada auditor-coordenador dirige as actividades de um DAT, actuando na dependência funcional do Tribunal, competindo-lhe especialmente:\n\na) Controlar e assegurar o cumprimento da parte respectiva dos programas de fiscalização e dos planos de actividades, bem como os resultados obtidos e a eficiência do DAT;\n\nb) No âmbito da administração e gestão dos recursos humanos afectos ao departamento, conceder licenças por período até 30 dias, autorizar o início das férias e o seu gozo interpolado, bem como a sua acumulação parcial por interesse do serviço, de acordo com o mapa de férias superiormente aprovado, justificar as faltas e afectar o pessoal aos sectores especializados que integram o DAT;\n\nc) Assegurar a administração e a gestão dos recursos materiais que lhe estão afectos;\n\nd) Coordenar o planeamento e a realização de auditorias e outras acções de controlo, de acordo com os objectivos e orientações definidos pelo Tribunal, incluindo, nomeadamente, a submissão dos planos à aprovação do juiz responsável, o acompanhamento e coordenação da execução dos trabalhos, a articulação das diversas equipas, o controlo da elaboração, qualidade e harmonização dos respectivos anteprojectos de relatório e, bem assim, a sua apresentação àquele juiz.\n\n2 - Os auditores-coordenadores são recrutados de entre:\n\na) Auditores-chefes com, pelo menos, três anos de serviço no cargo;\n\na) Auditores-chefes;\n\nb) Trabalhadores com vínculo de emprego público, habilitados com licenciatura, que tenham exercido funções dirigentes no âmbito de serviços operativos de inspeção ou auditoria e de gestão financeira e patrimonial ou de tecnologias de informação e comunicação durante, pelo menos, três anos;\n\nc) Auditores ou consultores do Tribunal de Contas, ou auditores verificadores, estes com, pelo menos, três anos de serviço;\n\nd) Trabalhadores integrados nas carreiras de inspeção, habilitados com licenciatura e com, pelo menos, seis anos de serviço em funções de auditoria ou consultoria.\n\ne) Indivíduos não vinculados à função pública, habilitados com licenciatura, que contem, pelo menos, 10 anos de serviço de reconhecido mérito em funções de auditoria em empresas do sector público ou de auditoria.\n\n3 - Para efeitos do disposto no artigo 19.º, n.º 1, alínea d), da Lei n.º 98/97, de 26 de Agosto, o tempo de serviço prestado na categoria de contador-geral considera-se equiparado ao exercício de funções como auditor-coordenador.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806486": {
+   "fragment_id": "221580526",
+   "type": 11,
+   "heading": "Artigo 13.º — Auditor-chefe",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — Auditor-chefe\n\n1 - Cada auditor-chefe, na directa dependência de um auditor-coordenador, dirige uma unidade especializada de um DAT, organizando e coordenando as respectivas actividades de acordo com os programas de fiscalização e os planos de actividades, e tendo em conta a orientação superior, competindo-lhe especialmente:\n\na) Definir as orientações para a coordenação das equipas de auditoria no terreno;\n\nb) Elaborar os planos de auditoria de acordo com os objectivos e orientações superiormente estabelecidos e submetê-los à apreciação do auditor-coordenador;\n\nc) Acompanhar e coordenar a execução dos trabalhos de auditoria, assegurar a elaboração dos respectivos anteprojectos de relatório e submetê-los à apreciação do auditor-coordenador.\n\n2 - Os auditores-chefes são recrutados de entre:\n\na) Trabalhadores com vínculo de emprego público, habilitados com licenciatura, que tenham exercido funções dirigentes no âmbito de serviços operativos de inspeção ou auditoria e de gestão financeira e patrimonial ou de tecnologias de informação e comunicação;\n\nb) Trabalhadores integrados na carreira especial de auditor e na carreira subsistente de consultor do Tribunal de Contas;\n\nc) Trabalhadores integrados nas carreiras de inspeção, habilitados com licenciatura, com, pelo menos, três anos de serviço em funções de auditoria ou consultoria.\n\nd) Indivíduos não vinculados à função pública, habilitados com licenciatura, que contem, pelo menos, oito anos de serviço de reconhecido mérito em funções de auditoria em empresas do sector público ou de auditoria.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806492": {
+   "fragment_id": "835806385",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Modalidade de vínculo",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 13.º-A — Modalidade de vínculo\n\nO exercício de funções na carreira especial de auditor é efetuado na modalidade de nomeação, nos termos da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e do presente diploma.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806493": {
+   "fragment_id": "221580527",
+   "type": 11,
+   "heading": "Artigo 14.º — Carreira especial de auditor",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+   ],
+   "markdown": "###### Artigo 14.º — Carreira especial de auditor\n\n1 - A carreira especial de auditor do Tribunal de Contas, de grau de complexidade 3, é uma carreira pluricategorial, estruturada nas categorias de auditor verificador e de auditor.\n\n2 - O recrutamento para a categoria de auditor verificador é realizado por procedimento concursal comum, de entre indivíduos que, para além dos requisitos legais exigidos para a constituição de vínculo de emprego público previstos na lei geral, possuam licenciatura adequada.\n\n3 - O recrutamento para a categoria de auditor faz-se mediante a aplicação obrigatória de prova de conhecimentos, podendo, ainda, ser aplicados como métodos facultativos outros métodos de seleção previstos na lei.\n\n4 - A integração na categoria de auditor verificador depende da frequência e aprovação em curso de formação específico que tem lugar no decurso do período experimental.\n\n5 - O curso de formação específico é definido por despacho do Presidente, sob proposta do diretor-geral, não podendo a sua duração ser inferior a um ano.\n\n6 - Sempre que a caracterização dos postos de trabalho colocados a concurso o justifique, pode ainda ser definido como requisito específico a posse de um título ou grau profissional, designadamente o de revisor oficial de contas, auditor de sistemas de informação certificado, certified internal auditor ou certified government auditing professional.\n\n7 - O recrutamento para a categoria de auditor é realizado por procedimento concursal comum, de acordo com as especificidades constantes do presente artigo, exigindo-se que os candidatos preencham, pelo menos, um dos seguintes requisitos:\n\na) Possuir 5 ou mais anos de serviço na categoria de auditor verificador;\n\nb) Exercer ou ter exercido nos últimos 10 anos funções de dirigente nos serviços de apoio do Tribunal de Contas durante um período de, pelo menos, 5 anos;\n\nc) Deter experiência de, pelo menos, 9 anos nos domínios da auditoria, inspeção, direção ou gestão obtida em funções exercidas na Administração Pública, no ensino superior, no setor público empresarial e/ou em empresas de auditoria.\n\n8 - No procedimento concursal a que se refere o número anterior são obrigatoriamente aplicados os seguintes métodos de seleção:\n\na) Avaliação curricular, que visa aferir os elementos de maior relevância para o posto de trabalho a ocupar, entre os quais a habilitação académica ou nível de qualificação, a formação profissional, a experiência profissional e a avaliação do desempenho;\n\nb) Avaliação de competências por portefólio, que, em discussão pública, visa confirmar a experiência e ou os conhecimentos do candidato em áreas técnicas específicas, através da análise de uma coleção organizada de trabalhos que demonstrem as competências técnicas detidas diretamente relacionadas com as funções a que se candidata.\n\n9 - Podem, ainda, ser aplicados os seguintes métodos de seleção facultativos:\n\na) Apresentação e discussão de um trabalho sobre um tema a definir no aviso de abertura do procedimento concursal;\n\nb) Entrevista de avaliação de competências, que visa obter informações sobre comportamentos profissionais diretamente relacionados com as competências consideradas essenciais para o exercício das funções.\n\n10 - Para efeitos de avaliação curricular, atento o perfil definido para o posto de trabalho a concurso, devem ser valorizadas competências específicas, designadamente conhecimentos de informática, métodos quantitativos ou estatísticos e línguas estrangeiras.\n\n11 - O posicionamento remuneratório dos indivíduos recrutados para a carreira de auditor pode ser objeto de negociação de acordo com o disposto no artigo 38.º da LTFP e nos termos estabelecidos na publicitação do procedimento concursal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+  },
+  "835806539": {
+   "fragment_id": "221580528",
+   "type": 11,
+   "heading": "Artigo 15.º — Carreira de consultor",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+   ],
+   "markdown": "###### Artigo 15.º — Carreira de consultor\n\n1 - A carreira de consultor integra o corpo especial de fiscalização e controlo e desenvolve-se horizontalmente por escalões, de acordo com a escala de progressão dos juízes de direito e em conformidade com o disposto no n.º 2 do artigo 18.º\n\n2 - O consultor é recrutado de entre indivíduos habilitados com licenciatura adequada que contem, pelo menos, nove anos de serviço:\n\na) Numa carreira de inspecção ou auditoria da administração pública central, regional ou local para cujo ingresso seja exigido o grau de licenciatura, com classificação de Muito bom;\n\nb) Na carreira de técnico verificador superior do corpo especial previsto neste diploma, com classificação de Muito bom;\n\nc) Em carreira inserida no grupo do pessoal técnico superior dos quadros dos serviços e organismos da administração pública central, regional e local, com classificação de Muito bom;\n\nd) Como auditor, gestor ou técnico superior de empresas do sector empresarial público ou de empresas de auditoria.\n\n3 - Podem ainda ser recrutados para consultor licenciados ou mestres com seis anos de serviço na carreira docente universitária, bem como doutores, todos eles em disciplinas afins das áreas de intervenção do Tribunal de Contas.\n\n4 - O consultor é, para efeitos de recrutamento para cargos dirigentes, equiparado a assessor.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+  },
+  "835806540": {
+   "fragment_id": "221580529",
+   "type": 11,
+   "heading": "Artigo 16.º — Carreira de técnico verificador superior",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Carreira de técnico verificador superior\n\n1 - A carreira de técnico verificador superior integra o corpo especial de fiscalização e controlo e desenvolve-se pelas categorias de técnico verificador assessor principal, técnico verificador assessor, técnico verificador superior principal, técnico verificador superior de 1.ª classe e técnico verificador superior de 2.ª classe, de acordo com as regras constantes dos números seguintes.\n\n2 - O técnico verificador assessor principal e o técnico verificador assessor são recrutados de entre, respectivamente, técnicos verificadores assessores e técnicos verificadores superiores principais com, pelo menos, três anos de serviço nas respectivas categorias, com classificação de Muito bom.\n\n3 - O técnico verificador superior principal e o técnico verificador superior de 1.ª classe são recrutados de entre, respectivamente, técnicos verificadores superiores de 1.ª e de 2.ª classes com, pelo menos, três anos de serviço nas respectivas categorias, com classificação de Bom, e de entre, também respectivamente, técnicos verificadores especialistas principais e técnicos verificadores especialistas habilitados com licenciatura adequada.\n\n4 - O técnico verificador superior de 2.ª classe é recrutado de entre técnicos verificadores superiores estagiários que tenham concluído o respectivo estágio com classificação não inferior a 14 valores.\n\n5 - O técnico verificador superior estagiário é recrutado de entre indivíduos habilitados com licenciatura adequada.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806541": {
+   "fragment_id": "221580530",
+   "type": 11,
+   "heading": "Artigo 17.º — Carreira de técnico verificador",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Carreira de técnico verificador\n\n1 - A carreira de técnico verificador integra o corpo especial de fiscalização e controlo e desenvolve-se pelas categorias de técnico verificador especialista principal, técnico verificador especialista, técnico verificador principal, técnico verificador de 1.ª classe e técnico verificador de 2.ª classe, de acordo com as regras constantes dos números seguintes.\n\n2 - Os técnicos verificadores especialistas principais e os técnicos verificadores especialistas são recrutados de entre, respectivamente, técnicos verificadores especialistas e técnicos verificadores principais com, pelo menos, três anos de serviço nas respectivas categorias, com classificação de Muito bom.\n\n3 - Os técnicos verificadores principais e os técnicos verificadores de 1.ª classe são recrutados de entre, respectivamente, técnicos verificadores de 1.ª classe e técnicos verificadores de 2.ª classe com, pelo menos, três anos de serviço na categoria, com classificação de Bom.\n\n4 - A carreira de técnico verificador é, após a transição decorrente do disposto no artigo 32.º, a extinguir quanto vagar, da base para o topo.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806497": {
+   "fragment_id": "221580531",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração da posição remuneratória dos trabalhadores da área de fiscalização e controlo",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+   ],
+   "markdown": "###### Artigo 18.º — Alteração da posição remuneratória dos trabalhadores da área de fiscalização e controlo\n\nA alteração da posição remuneratória dos trabalhadores integrados nas carreiras da área de fiscalização e controlo do Tribunal de Contas está condicionada à avaliação do desempenho, nos termos da lei geral.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a [Decreto-Lei n.º 184/2001 - Diário da República n.º 142/2001, Série I-A de 2001-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2001-362323), em vigor a partir de 2001-06-26"
+  },
+  "835806510": {
+   "fragment_id": "835806386",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Avaliação do desempenho",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 18.º-A — Avaliação do desempenho\n\nA avaliação do desempenho dos trabalhadores da Direção-Geral do Tribunal de Contas (DGTC) é efetuada nos termos de regulamento aprovado pelo Presidente, sob proposta do diretor-geral, que adapta à DGTC o sistema integrado de gestão e avaliação do desempenho em vigor na Administração Pública.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806542": {
+   "fragment_id": "221580532",
+   "type": 11,
+   "heading": "Artigo 19.º — Recrutamento e selecção",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Recrutamento e selecção\n\n1 - O ingresso nas carreiras e nas categorias não inseridas em carreira, bem como o acesso nas carreiras verticais, faz-se mediante concurso, nos termos da lei geral.\n\n2 - Nas carreiras integradas no corpo especial os concursos de ingresso são abertos por áreas funcionais, de acordo com as necessidades do serviço, as quais devem ser especificadas no despacho que autoriza a abertura do concurso e no respectivo aviso de abertura.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806543": {
+   "fragment_id": "221580533",
+   "type": 11,
+   "heading": "Artigo 20.º — Métodos de selecção",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — Métodos de selecção\n\n1 - O recrutamento e selecção para o ingresso nas carreiras do corpo especial faz-se mediante a aplicação de provas de conhecimentos, sem prejuízo da aplicabilidade complementar de outros métodos de selecção previstos na lei.\n\n2 - A estrutura e o programa das provas de conhecimentos referidos no n.º 1 são definidos por despacho do Presidente.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806513": {
+   "fragment_id": "221580534",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime de período experimental na carreira especial de auditor",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — Regime de período experimental na carreira especial de auditor\n\n1 - O período experimental na categoria de auditor verificador da carreira especial de auditor tem a duração mínima de um ano e integra a frequência e aprovação de um curso de formação específico.\n\n2 - O período experimental na categoria de auditor da carreira especial de auditor tem a duração mínima de seis meses.\n\n3 - O período experimental pode cessar a qualquer momento, sempre que o trabalhador revele manifesta inadequação para o exercício da função.\n\n4 - A decisão sobre a cessação do período experimental é da competência do diretor-geral do Tribunal de Contas, mediante proposta fundamentada do júri designado para acompanhar o período experimental.\n\n5 - Do ato que decida a cessação do período experimental cabe recurso hierárquico necessário para o Presidente, com efeito suspensivo.\n\n6 - O regulamento do período experimental, incluindo, designadamente, o conteúdo programático do curso de formação específico, é aprovado por despacho do Presidente.\n\n7 - O tempo do período experimental conta, para todos os efeitos legais, como prestado na respetiva carreira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806514": {
+   "fragment_id": "221580535",
+   "type": 11,
+   "heading": "Artigo 22.º — Dever de disponibilidade permanente",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Dever de disponibilidade permanente\n\n1 - (Revogado.)\n\n2 - Os trabalhadores dos serviços de apoio estão sujeitos ao dever de disponibilidade permanente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806515": {
+   "fragment_id": "221580536",
+   "type": 11,
+   "heading": "Artigo 23.º — Pessoal oficial de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pessoal oficial de justiça\n\nO provimento dos lugares do grupo de pessoal oficial de justiça para apoio à secção jurisdicional do Tribunal pode ser feito em comissão de serviço por três anos, renovável, de entre indivíduos da mesma categoria dos quadros dos serviços judiciários."
+  },
+  "835806516": {
+   "fragment_id": "221580537",
+   "type": 11,
+   "heading": "Artigo 24.º — Estatuto remuneratório",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Estatuto remuneratório\n\n1 - Constam do anexo i ao presente diploma e do qual faz parte integrante:\n\na) A estrutura remuneratória do pessoal dirigente, incluindo dos serviços operativos;\n\nb) As posições remuneratórias das categorias da carreira especial de auditor e os correspondentes níveis remuneratórios.\n\n2 - A remuneração base a abonar ao auditor-coordenador e ao auditor-chefe é, respectivamente, a correspondente ao último e penúltimo escalões da categoria de juiz de direito.\n\n3 - (Revogado.)\n\n4 - Sem prejuízo do disposto nos n.os 1 e 2, o índice 100 do corpo especial é o constante do mapa anexo e é objecto de actualização anual nos termos da lei geral.\n\n5 - (Revogado.)\n\n6 - Aos trabalhadores das carreiras e categorias não integradas na área de fiscalização e controlo do Tribunal de Contas aplica-se o disposto na alínea n) do n.º 2 do artigo 30.º da Lei n.º 98/97, de 26 de agosto, na sua redação atual, a concretizar pela forma prevista no n.º 5 do mesmo artigo.\n\n7 - A remuneração base ilíquida mensal dos trabalhadores dos serviços de apoio não pode, em caso algum, exceder 90 % da remuneração base ilíquida mensal de juiz conselheiro do Tribunal de Contas, sem prejuízo da perceção das ajudas de custo devidas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806523": {
+   "fragment_id": "835806387",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Conteúdo funcional",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 24.º-A — Conteúdo funcional\n\nO conteúdo funcional das categorias de auditor e de auditor verificador da carreira especial de auditor constam do anexo iii ao presente diploma e do qual faz parte integrante.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806524": {
+   "fragment_id": "221580538",
+   "type": 11,
+   "heading": "Artigo 25.º — Ajudas de custo e abono para despesas de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Ajudas de custo e abono para despesas de transporte\n\n1 - O pessoal dos serviços de apoio, sempre que se desloque em serviço, tem direito a ajudas de custo diárias e a abono para despesas de transporte, nos termos da lei geral.\n\n2 - Quando, por razões de serviço, as despesas efectiva e comprovadamente realizadas pelo pessoal referido no número anterior excedam o montante normal de ajudas de custo, ser-lhe-á abonada a diferença, a qual será suportada pelos Cofres do Tribunal."
+  },
+  "835806544": {
+   "fragment_id": "221580539",
+   "type": 11,
+   "heading": "Artigo 26.º — Reclassificação profissional",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 26.º — Reclassificação profissional\n\n1 - Os funcionários providos nas carreiras de auditor e consultor podem ser objecto de reclassificação profissional.\n\n2 - A reclassificação faz-se da carreira de auditor para a carreira de consultor, e vice-versa, em idêntica situação remuneratória.\n\n3 - A reclassificação referida nos números anteriores pode ser feita por conveniência de serviço com a anuência dos interessados ou a requerimento destes, por despacho do Presidente, sob proposta do director-geral.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806526": {
+   "fragment_id": "221580540",
+   "type": 11,
+   "heading": "Artigo 27.º — Direitos e prerrogativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Direitos e prerrogativas\n\n1 - O pessoal integrado no corpo especial de fiscalização e controlo, quando em serviço e sempre que necessário ao desempenho das suas funções, goza dos direitos e prerrogativas seguintes, para além de outros previstos na lei geral:\n\na) Livre acesso aos serviços e dependências das entidades sujeitas ao controlo do Tribunal, mediante a simples exibição do respectivo cartão de identificação profissional;\n\nb) Utilizar instalações adequadas ao exercício das suas funções em condições de dignidade e eficácia e obter a colaboração do pessoal que se mostre indispensável;\n\nc) Corresponder-se com quaisquer entidades públicas ou privadas sobre assuntos de interesse para o exercício das suas funções ou para obtenção dos elementos que se mostrem indispensáveis;\n\nd) Proceder ao exame de quaisquer elementos em poder de entidades objecto da fiscalização do Tribunal, quando se mostrem indispensáveis à realização das respectivas tarefas;\n\ne) Ingressar e transitar livremente em quaisquer locais públicos, mediante a exibição do cartão de identificação profissional;\n\nf) Requisitar às autoridades policiais a colaboração que se mostre necessária ao exercício das suas funções, designadamente em casos de resistência a esse exercício;\n\ng) Promover, nos termos legais, a selagem de quaisquer instalações, dependências, cofres ou móveis, bem como a requisição ou reprodução de documentos em poder de entidades objecto de intervenção do Tribunal, quando se mostre indispensável à realização de quaisquer diligências, para o que será levantado o correspondente auto, dispensável no caso de simples reprodução de documentos.\n\n2 - Os funcionários acima referidos que sejam arguidos em processo judicial, por actos cometidos ou ocorridos no exercício e por causa das suas funções, têm direito a ser assistidos por advogado, indicado pelo director-geral, ouvido o interessado, retribuído a expensas do Estado, bem como a transporte e ajudas de custo quando a localização do tribunal ou das entidades policiais o justifique.\n\n3 - As importâncias eventualmente dispendidas nos termos e para os efeitos referidos no número anterior devem ser reembolsadas pelo funcionário que lhes deu causa, no caso de condenação judicial."
+  },
+  "835806530": {
+   "fragment_id": "835806388",
+   "type": 11,
+   "heading": "Artigo 27.º-A — Deveres especiais",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 27.º-A — Deveres especiais\n\n1 - São deveres especiais dos trabalhadores integrados nas carreiras da área de fiscalização e controlo, para além de outros previstos na lei geral:\n\na) O dever de sigilo profissional em relação a todos os factos e informações de que tenham conhecimento no exercício ou em resultado do exercício das suas funções;\n\nb) O dever de reserva profissional, não fornecendo qualquer informação ou documento não públicos, respeitantes aos trabalhos de auditoria e controlo desenvolvidos pelo Tribunal;\n\nc) A disponibilidade permanente, o que implica a obrigação de permanecer disponível para ocorrer ao serviço em situação de manifesta necessidade, assim como a disponibilidade para efetuar deslocações que podem implicar permanências fora do domicílio profissional, salvo casos excecionais devidamente justificados;\n\nd) O dever de contribuir para a dignificação do Tribunal de Contas;\n\ne) O dever de participar com assiduidade nas ações de formação que lhe forem proporcionadas pelo Tribunal de Contas, como forma de reforçar e aperfeiçoar a sua capacitação profissional;\n\nf) O dever de observar o regime de impedimentos e de não acumulação de funções, estabelecidos legalmente.\n\n2 - Os deveres de sigilo e de reserva profissional cessam quando estiver em causa a defesa do próprio em processo disciplinar ou judicial e apenas na matéria respeitante ao respetivo processo.\n\n3 - Os auditores e consultores continuam obrigados aos deveres de sigilo e de reserva profissional durante a suspensão ou após a cessação do exercício das suas funções.\n\n4 - Os trabalhadores que ingressem na carreira especial de auditor ficam obrigados, após o período experimental, à permanência de um mínimo de três anos em exercício de funções no Tribunal de Contas, salvo se procederem à compensação das despesas extraordinárias efetuadas na respetiva formação inicial e contínua, nos termos de acordo a subscrever no âmbito do processo de recrutamento.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806531": {
+   "fragment_id": "221580541",
+   "type": 11,
+   "heading": "Artigo 28.º — Acumulação e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Acumulação e incompatibilidades\n\n1 - Ao pessoal abrangido pelo presente diploma não é permitida a acumulação de funções ou cargos públicos remunerados.\n\n2 - O disposto no número anterior não abrange:\n\na) Inerências;\n\nb) Missões de estudos de carácter transitório e, bem assim, participação em comissões, equipas ou grupos de trabalho que resultem directamente do exercício das respectivas funções;\n\nc) Actividades de formação do Tribunal ou dos serviços de apoio;\n\nd) Actividades de carácter ocasional e temporário que possam ser consideradas complemento do cargo ou função;\n\ne) Actividades docentes em estabelecimentos de ensino superior;\n\nf) A acumulação de funções ou cargos públicos fundamentada em motivo de interesse público.\n\n3 - O disposto no n.º 1 não é aplicável às remunerações provenientes de:\n\na) Criação artística, literária, científico-técnica, realização de conferências, acções de formação, palestras e outras acções de idêntica natureza;\n\nb) Participação em conselhos consultivos, comissões de fiscalização ou outros órgãos colegiais, quando prevista na lei, e no exercício de fiscalização ou controlo de dinheiros públicos.\n\n4 - O exercício das funções previstas nas alíneas b), d), e) e f) do n.º 2 carece de autorização do Presidente.\n\n5 - Todo o exercício de actividades privadas, remuneradas ou não, por funcionários dos serviços de apoio carece de autorização do Presidente, precedida de parecer do director-geral, a qual será recusada ou revogada em todos os casos em que a mesma actividade se mostre susceptível de afectar o prestígio da função, enfraquecer a respectiva autoridade ou comprometer ou interferir com a isenção exigida para o exercício da função ou que, como tal, se venha a revelar.\n\n6 - Não é permitido ao funcionário ou agente o exercício de actividades privadas, ainda que autorizado nos termos do número anterior, quando, casuisticamente, esse exercício se revele incompatível com o cumprimento dos deveres estabelecidos na lei ou susceptível de comprometer a isenção exigida ao exercício das respectivas funções.\n\n7 - Os funcionários e agentes dos serviços de apoio estão sujeitos aos impedimentos legalmente previstos.\n\n8 - O disposto nos números anteriores não prejudica a aplicação de regimes de acumulação e incompatibilidades mais restritivos previstos em lei geral ou especial."
+  },
+  "835806532": {
+   "fragment_id": "221580542",
+   "type": 11,
+   "heading": "Artigo 29.º — Cartão de identificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Cartão de identificação profissional\n\n1 - O pessoal dos serviços de apoio em efectividade de serviço tem direito a um cartão de identificação profissional, segundo modelo a aprovar por despacho do Presidente, a publicar na 2.ª série do Diário da República.\n\n2 - Do cartão de identificação do pessoal integrado no corpo especial de fiscalização e controlo constará a menção «Livre trânsito» a cor vermelha e, bem assim, os direitos e prerrogativas do respectivo titular."
+  },
+  "835806545": {
+   "fragment_id": "221580543",
+   "type": 11,
+   "heading": "Artigo 30.º — Serviços Sociais",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 30.º — Serviços Sociais\n\nEm matéria de segurança social complementar, os funcionários e agentes dos serviços de apoio são beneficiários da ADSE e dos Serviços Sociais do Ministério da Justiça, quanto a estes últimos nos termos e condições constantes de protocolo entre a DGTC e o Gabinete da Gestão Financeira do Ministério da Justiça.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806546": {
+   "fragment_id": "221580545",
+   "type": 11,
+   "heading": "Artigo 31.º — Regra geral de transição de pessoal",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Regra geral de transição de pessoal\n\nOs funcionários que à data da entrada em vigor do presente diploma se encontram providos nos quadros de pessoal da DGTC e das ex-Contadorias-Gerais das Secções Regionais dos Açores e da Madeira transitam para os quadros de pessoal a que se refere o artigo 10.º, para carreira, categoria e escalão iguais aos que detinham, sem prejuízo do disposto nos artigos 32.º a 37.º\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806547": {
+   "fragment_id": "221580546",
+   "type": 11,
+   "heading": "Artigo 32.º — Transição do pessoal técnico superior",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 32.º — Transição do pessoal técnico superior\n\n1 - Os actuais assessores principais, assessores e técnicos superiores principais, todos com nove ou mais anos de serviço na carreira técnica superior, com a classificação de Muito bom, que exerçam funções no âmbito dos serviços operativos de fiscalização prévia e de fiscalização sucessiva transitam para a carreira de auditor para escalão correspondente ao tempo de serviço detido na carreira que exceda nove anos.\n\n2 - Os actuais assessores principais, assessores e técnicos superiores principais, todos com nove ou mais anos de serviço na carreira técnica superior, com classificação de Muito bom, que exerçam funções de consultadoria para apoio directo ao Tribunal e às equipas de auditoria no âmbito dos demais serviços transitam para a carreira de consultor para escalão correspondente ao tempo de serviço detido na carreira que exceda nove anos.\n\n3 - Transitam ainda para as carreiras de auditor ou consultor os actuais técnicos superiores que sejam titulares, há mais de três anos, do cargo de contador-geral ou de contador-chefe.\n\n4 - Os técnicos superiores não abrangidos nos números anteriores que realizem auditorias e outras acções de controlo ou que desenvolvam funções de consultadoria para apoio ao Tribunal e às equipas de auditoria transitam para a carreira de técnico verificador superior de acordo com a tabela de transição constante do mapa anexo ao presente diploma.\n\n5 - A transição a que se reporta o número anterior faz-se para o escalão a que corresponda remuneração igual ou, na falta de coincidência, remuneração superior mais aproximada na estrutura da categoria, englobando-se na remuneração que serve de base à transição as remunerações acessórias ou adicionais.\n\n6 - Os funcionários nas condições acima referidas que, à data da entrada em vigor do presente diploma, se encontrem a exercer funções fora do respectivo lugar de origem ao abrigo de destacamento, requisição, comissão de serviço ou outras figuras de mobilidade transitam para os novos quadros de acordo com as regras precedentes aplicáveis, conforme os casos, em função da subunidade orgânica a que estavam afectos ou do conteúdo funcional que detinham à data da constituição da situação jurídica em que se encontrem.\n\n7 - A transição referida nos números anteriores depende de confirmação do interessado, a apresentar, em declaração escrita, ao director-geral no prazo de cinco dias a contar da data da entrada em vigor do presente diploma.\n\n8 - Os técnicos superiores não abrangidos pelas regras de transição dos números anteriores, bem como aqueles que não hajam confirmado o seu interesse na transição nos termos do n.º 6, transitam de acordo com o disposto no artigo 31.º\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806548": {
+   "fragment_id": "221580547",
+   "type": 11,
+   "heading": "Artigo 33.º — Transição dos contadores-verificadores",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 33.º — Transição dos contadores-verificadores\n\n1 - Os funcionários providos na carreira de contador-verificador transitam para a carreira de técnico verificador de acordo com a tabela de transição constante do mapa anexo ao presente diploma.\n\n2 - A transição a que se reporta o número anterior faz-se para o escalão a que corresponda remuneração igual ou, na falta de coincidência, remuneração superior mais aproximada na estrutura da categoria, englobando-se na remuneração que serve de base à transição as remunerações acessórias ou adicionais.\n\n3 - Transitam para técnicos verificadores superiores principais e técnicos verificadores superiores de 1.ª classe, respectivamente, os contadores-verificadores especialistas principais e os contadores-verificadores especialistas, habilitados com licenciatura adequada, que realizem auditorias e outras acções de controlo.\n\n4 - Os funcionários que transitarem nos termos do número anterior serão integrados em escalão a que corresponda o mesmo índice remuneratório que lhes caberia por aplicação do n.º 2 ou, na falta de coincidência, o índice superior mais aproximado na estrutura da categoria.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806549": {
+   "fragment_id": "221580548",
+   "type": 11,
+   "heading": "Artigo 34.º — Transição dos contadores-verificadores-adjuntos",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 34.º — Transição dos contadores-verificadores-adjuntos\n\nOs funcionários providos na carreira de contador-verificador-adjunto transitam, em escalão igual ao que detêm, para a carreira de técnico-adjunto, de acordo com a tabela de transição constante do mapa anexo ao presente diploma.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806550": {
+   "fragment_id": "221580549",
+   "type": 11,
+   "heading": "Artigo 35.º — Transição de pessoal em exercício de funções dirigentes nos serviços de apoio",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 35.º — Transição de pessoal em exercício de funções dirigentes nos serviços de apoio\n\n1 - Os funcionários que se encontrem em comissão de serviço no exercício de funções dirigentes no âmbito dos serviços de apoio transitam para os novos quadros de acordo com as regras constantes dos artigos precedentes, aplicáveis em função da área de actividade que desenvolviam à data da constituição da situação jurídica em que se encontrem ou da área de actividade correspondente à unidade orgânica que coordenem à data da entrada em vigor do presente diploma, conforme opção expressa do interessado.\n\n2 - Os funcionários que à data do início da respectiva comissão de serviço como dirigente ainda não se encontrassem providos em lugares dos quadros dos serviços de apoio transitam em função da subunidade orgânica que coordenem à data da entrada em vigor do presente diploma.\n\n3 - A opção referida no n.º 1 depende de declaração do interessado a apresentar ao director-geral no prazo de cinco dias a contar da data da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806551": {
+   "fragment_id": "221580550",
+   "type": 11,
+   "heading": "Artigo 36.º — Outras transições de pessoal",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 36.º — Outras transições de pessoal\n\n1 - Os funcionários não abrangidos pelo disposto nos artigos anteriores transitam, sem prejuízo das habilitações literárias e ou profissionais exigíveis, para carreira e categoria correspondentes às funções efectivamente desempenhadas.\n\n2 - Os funcionários que desenvolvam funções diversas daquelas que correspondem à categoria em que estão providos poderão transitar, com respeito pelas habilitações e cursos de formação exigíveis, para carreira e categoria correspondentes às funções efectivamente desempenhadas, com exclusão das carreiras do corpo especial.\n\n3 - Nos casos referidos nos números anteriores, a integração na nova carreira far-se-á para a categoria a cujo escalão 1 corresponda remuneração base ilíquida igual ou, na falta de coincidência, remuneração base ilíquida superior mais aproximada à do escalão 1 da categoria de origem, sendo a integração na nova categoria feita em escalão a que corresponda:\n\na) Igual remuneração;\n\nb) Na falta de coincidência, a remuneração superior mais aproximada na estrutura da categoria.\n\n4 - Na transição para as carreiras do corpo especial englobar-se-ão na remuneração que serve de base à transição as remunerações acessórias ou adicionais.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806552": {
+   "fragment_id": "221580551",
+   "type": 11,
+   "heading": "Artigo 37.º — Integração de pessoal requisitado e em comissão de serviço",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 37.º — Integração de pessoal requisitado e em comissão de serviço\n\n1 - O pessoal que à data da entrada em vigor do presente diploma presta serviço na DGTC e nos serviços de apoio regionais, há mais de um ano, em regime de requisição ou em comissão de serviço pode ser integrado no respectivo quadro de pessoal a que alude o artigo 10.º, transitando de acordo com as regras constantes dos artigos anteriores.\n\n2 - As transições podem ainda concretizar-se nas carreiras do corpo especial, e, no que respeita às de auditor ou de consultor, verificados os restantes requisitos, quando o funcionário se encontre provido em carreira do grupo de pessoal técnico superior ou para a qual seja exigida a posse de licenciatura, se nela contar tempo de serviço não inferior ao exigido pelos artigos 14.º e 15.º para o ingresso naquelas carreiras.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806553": {
+   "fragment_id": "221580552",
+   "type": 11,
+   "heading": "Artigo 38.º — Integração de auxiliares de limpeza",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 38.º — Integração de auxiliares de limpeza\n\nO pessoal que, à data da entrada em vigor do presente diploma, desenvolve na DGTC funções de auxiliar de limpeza e conta mais de três anos de serviço ininterrupto, em regime de tempo completo, é integrado como auxiliar de limpeza.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806554": {
+   "fragment_id": "221580553",
+   "type": 11,
+   "heading": "Artigo 39.º — Produção de efeitos das transições",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 39.º — Produção de efeitos das transições\n\nAs transições e integrações referidas nos artigos anteriores operam-se por lista nominativa aprovada por despacho do Presidente e produzem efeitos desde a data da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806555": {
+   "fragment_id": "221580554",
+   "type": 11,
+   "heading": "Artigo 40.º — Tempo de serviço",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Tempo de serviço\n\n1 - O tempo de serviço prestado nas carreiras e categorias que deram origem às transições previstas nos artigos anteriores conta, para todos os efeitos legais, como prestado na nova carreira e categoria, sem prejuízo do disposto no número seguinte.\n\n2 - Para os funcionários que transitam nos termos do artigo 32.º para as carreiras de auditor ou consultor, e para efeitos de progressão, apenas é aproveitado o tempo de serviço que exceda nove anos na carreira que deu origem à transição.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806556": {
+   "fragment_id": "221580555",
+   "type": 11,
+   "heading": "Artigo 41.º — Comissões de serviço",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 41.º — Comissões de serviço\n\nAs actuais comissões de serviço do pessoal dirigente cessam na data da entrada em vigor do presente diploma, continuando, no entanto, os seus titulares em exercício de funções até às novas nomeações, mantendo durante esse tempo todos os direitos e deveres inerentes ao cargo.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806557": {
+   "fragment_id": "221580556",
+   "type": 11,
+   "heading": "Artigo 42.º — Chefes de divisão",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 42.º — Chefes de divisão\n\nO recrutamento para os lugares de chefe de divisão dos serviços de apoio pode também ser feito de entre técnicos verificadores especialistas principais que tenham exercido funções como contador-chefe durante, pelo menos, três anos.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806558": {
+   "fragment_id": "221580557",
+   "type": 11,
+   "heading": "Artigo 43.º — Concursos",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 43.º — Concursos\n\n1 - Mantêm-se válidos, até ao limite dos respectivos prazos de duração, os concursos de ingresso e os concursos de habilitação abertos e ainda vigentes à data da entrada em vigor do presente diploma, concluídos ou não.\n\n2 - Mantêm-se válidos, até ao limite dos respectivos prazos de duração, os concursos de acesso abertos antes da data da entrada em vigor do presente diploma, concluídos ou não, sendo o pessoal neles aprovado, dentro das vagas preenchíveis, provido nas carreiras e categorias resultantes da aplicação das regras de transição constantes dos artigos anteriores.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806559": {
+   "fragment_id": "221580558",
+   "type": 11,
+   "heading": "Artigo 44.º — Estágios",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 44.º — Estágios\n\n1 - Mantêm-se válidos os estágios em curso à data da entrada em vigor do presente diploma ou que se iniciem na sequência dos concursos de ingresso a que se refere o artigo anterior e, bem assim, os estágios concluídos antes daquela data, neste caso relativamente aos provimentos devidos e ainda não efectuados, fazendo-se o provimento na categoria que couber por aplicação das regras de transição constantes dos artigos 31.º e seguintes.\n\n2 - O Regulamento do Estágio anexo ao Despacho Normativo n.º 72/89, de 2 de Agosto, mantém-se em vigor até ao termo dos estágios iniciados antes da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806560": {
+   "fragment_id": "221580559",
+   "type": 11,
+   "heading": "Artigo 45.º — Mobilidade",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "###### Artigo 45.º — Mobilidade\n\n1 - O pessoal dos serviços de apoio referidos no n.º 2 do artigo 1.º pode desempenhar funções em serviços ou organismos da administração pública central, regional ou local e nas empresas públicas e de capitais públicos ou maioritariamente públicos, em qualquer situação, nos termos da lei geral e mediante prévia autorização do Presidente do Tribunal de Contas.\n\n2 - O pessoal referido no número anterior pode igualmente desempenhar funções em organismos internacionais e da União Europeia, nos termos da lei.\n\n3 - Em caso de provimento de funcionário dos serviços de apoio em comissão de serviço, o Presidente, ponderada a conveniência dos serviços, pode declarar vagos os lugares de origem.\n\n4 - Consideram-se na situação de supranumerários os funcionários que aguardam colocação em vaga da sua categoria por ter findado a comissão de serviço em que se encontravam, nos casos em que tenha sido accionado o disposto no número anterior.\n\n5 - A situação de supranumerário não prejudica o exercício das funções, não implica a perda de qualquer remuneração ou antiguidade, determina a preferência absoluta no provimento em vaga da categoria em causa e admite a candidatura a concurso de acesso.\n\n6 - O pessoal dos serviços e organismos da administração pública central, regional e local, dos serviços de apoio dos órgãos de soberania, dos serviços de apoio dos órgãos independentes previstos na Constituição e das empresas públicas e de capitais públicos ou maioritariamente públicos pode desempenhar funções nos serviços de apoio do Tribunal de Contas mediante requisição, ou para eles ser transferido.\n\n7 - O pessoal das empresas do sector privado pode igualmente desempenhar funções nos serviços de apoio do Tribunal de Contas mediante requisição nos termos da lei geral.\n\n8 - O pessoal dos serviços de apoio do Tribunal de Contas pode, a seu pedido, ser transferido para os quadros da administração pública, central, regional e local, bem como de serviços de apoio aos órgãos de soberania e aos órgãos independentes previstos na Constituição, para categoria à qual corresponda igual remuneração e exigência habilitacional.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806534": {
+   "fragment_id": "221580564",
+   "type": 14,
+   "heading": "Anexo I — Estrutura remuneratória do pessoal dirigente do corpo especial de fiscalização e controlo",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo I — Estrutura remuneratória do pessoal dirigente do corpo especial de fiscalização e controlo\n\n(a que se refere o n.º 1 do artigo 24.º)\n\nEstrutura remuneratória do pessoal dirigente\n\n|  |  |\n| --- | --- |\n| Diretor-geral... | 100<br>[98 e 99] |\n| Subdiretor-geral... | 95<br>[93 e 94] |\n| Diretor de departamento... | 80<br>[77 e 78] |\n| Chefe de departamento... | 70<br>[66 e 67] |\n\nÍndice 100= 5 753,17 (euro).\n\nEstrutura remuneratória do pessoal dirigente dos serviços operativos\n\n|  |  |\n| --- | --- |\n| Auditor-Coordenador | [90 e 91] |\n| Auditor-Chefe | [85 e 86] |\n\nEstrutura remuneratória da carreira especial de auditor\n\n| Categorias | Posição Remuneratória<br>Níveis remuneratórios da tabela remuneratória única |  |  |  |  |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |  |\n| Auditora)... | 1 | 2 | 3 | 4 | 5 |  |  |  |  |\n| [58 e 59] | [68 e 69] | [78 e 79] | [85 e 86] | [90 e 91] |  |  |  |  |  |\n| Auditor Verificador... | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |\n| 27 | 31 | 35 | 39 | 43 | 47 | 51 | 55 | 58 |  |\n| Auditor Verificador (Posições complementares): |  |  |  |  |  |  |  |  |  |\n| Auditor Verificador... | 10 | 11 | 12 | 13 |  |  |  |  |  |\n| 61 | 64 | 66 | 68 |  |  |  |  |  |  |\n\na) Estrutura remuneratória definida de acordo com a equiparação prevista na alínea e) do n.º 2 do artigo 30.º da Lei n.º 98/97, de 26 de agosto, na sua redação atual.\n\n> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806561": {
+   "fragment_id": "221580565",
+   "type": 14,
+   "heading": "Anexo II — Transição dos técnicos superiores não abrangidos pelos n.os 1 e 2 do artigo 32.º (auditores/consultores)",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo II — Transição dos técnicos superiores não abrangidos pelos n.os 1 e 2 do artigo 32.º (auditores/consultores)\n\n(artigo 32.º, n.º 4)\n\n(ver quadro no documento original)\n\nTransição dos contadores-verificadores\n\n(artigo 33.º)\n\n(ver quadro no documento original)\n\nTransição dos contadores-verificadores-adjuntos\n\n(artigo 34.º)\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  },
+  "835806535": {
+   "fragment_id": "835806390",
+   "type": 14,
+   "heading": "Anexo III — Conteúdo funcional das categorias da carreira especial de auditor do Tribunal de Contas",
+   "in_force_from": "2023-12-27",
+   "changed_by": [
+    "Aditado pelo/a Anexo II do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+   ],
+   "markdown": "## Anexo III — Conteúdo funcional das categorias da carreira especial de auditor do Tribunal de Contas\n\n(a que se refere o artigo 24.º-A)\n\n|  |  |\n| --- | --- |\n| Auditor... | Coordenação de equipas de auditoria durante o trabalho de campo junto das entidades auditadas.<br>Realização de auditorias e outras ações de controlo no âmbito das funções de controlo do Tribunal de Contas, com vista à preparação do exercício dos poderes de fiscalização prévia, concomitante e sucessiva e de efetivação de responsabilidades financeiras, com recurso a elevados padrões éticos, uma visão global do mandato, jurisdição e cultura do Tribunal de Contas e domínio das técnicas de auditoria e controlo.<br>Funções de apoio ao sistema de gestão da qualidade dos produtos de controlo.<br>Apoio direto ao Tribunal e às equipas de auditoria, com elaboração de estudos, pareceres e projetos com nível de complexidade alto.<br>Funções exercidas com elevado grau de responsabilidade, autonomia, qualificação e especialização, implicando o domínio das respetivas áreas científico-técnicas. |\n| Auditor verificador... | Realização de auditorias e outras ações de controlo nas áreas de atribuições do Tribunal de Contas, com vista à preparação do exercício dos poderes de fiscalização prévia, concomitante e sucessiva e efetivação de responsabilidades financeiras.<br>Funções de controlo financeiro, envolvendo o estudo e aplicação de métodos e processos técnicos de auditoria, e de outros tipos de controlo.<br>Funções exercidas com responsabilidade, autonomia técnica e elevados padrões éticos. |\n\n> Aditado pelo/a Anexo II do/a [Decreto-Lei n.º 121/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2023-835674286), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01"
+  }
+ }
+}

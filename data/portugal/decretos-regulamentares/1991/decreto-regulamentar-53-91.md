@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:288246:por
+title: Decreto Regulamentar n.º 53/91
+short_title: null
+summary: Aplica o novo sistema retributivo às carreiras e categorias existentes no âmbito do Instituto Regulador e Orientador
+  dos Mercados Agrícolas (IROMA)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministérios das Finanças e da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 53/91
+official_date: null
+publication_date: '1991-10-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/1991, Série I-B de 1991-10-09
+  number: '232'
+  series: I
+  supplement: null
+  pages: 5245 - 5249
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/10/232b00/52455249.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/53/1991/10/09/p/dre/pt/html
+  oj: null
+  dre: '288246'
+  dre_path: /dr/detalhe/decreto-regulamentar/53-1991-288246
+  internal: pt:dre:288246:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1991-288246
+  metadata_url: https://data.dre.pt/eli/decregul/53/1991/10/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/53-1991-288246
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-08-27T00:00:00Z'
+integrity:
+  source_sha256: 75a7910e9336ff8acd9268e9123ee7963f2e1638a10d5002968f06c0c65f3cc1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-53-288246.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Sistema Retributivo
+- Iroma
+- Política Salarial
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:453254:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 53/91
+
+de 9 de Outubro
+
+Com a criação do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), operada pelo [Decreto-Lei n.º 15/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1987-599522), de 9 de Janeiro, foram extintos a Junta Nacional dos Produtos Pecuários, a Junta Nacional das Frutas e o Instituto do Azeite e Produtos Oleaginosos, ficando desde logo prevista a futura criação do quadro necessário à integração do pessoal dos organismos extintos.
+
+A necessidade de reequacionar o enquadramento institucional do Instituto, aliada à circunstância de não ter sido concretizada a aprovação do diploma regulamentar da transição daquele pessoal, tornou premente a adopção de medidas de regularização funcional da situação dos recursos humanos dos organismos extintos.
+
+Para o efeito, o [Decreto-Lei n.º 44/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1990-334601), de 8 de Fevereiro, veio determinar a manutenção da vinculação do referido pessoal aos respectivos quadros de origem e, concomitantemente, autorizar a sua reestruturação de acordo com o regime de carreiras da função pública.
+
+A aplicação do novo sistema retributivo ao pessoal em desempenho de funções no IROMA e organismos tutelados e dependentes ficou, deste modo, condicionada não só relativamente às carreiras com desenvolvimento não subsumível no regime geral, mas igualmente em relação a situações de desajustamento resultante da falta de aplicação das disposições constantes dos Decretos-Leis n.os [248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e [265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+
+Importa, portanto, proceder ao enquadramento no novo sistema retributivo de todas as categorias e carreiras referidas, tendo simultaneamente em consideração o regime de ingresso e acesso e o desenvolvimento que lhes foi conferido pelo [Decreto Regulamentar n.º 24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144), de 11 de Agosto, pelo qual foi aprovado o regime jurídico do pessoal dos serviços e organismos do Ministério da Agricultura, Pescas e Alimentação.
+
+Assim:
+
+Ao abrigo do disposto no artigo 27.º do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º - 1 - O presente diploma estabelece a estrutura das remunerações base das carreiras e categorias não susceptíveis de enquadramento no regime geral previsto no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, ou em legislação complementar, existentes no âmbito do Instituto Regulador e Orientador dos Mercados Agrícolas (IROMA), integradas nos quadros da ex-Junta Nacional dos Produtos Pecuários, ex-Junta Nacional das Frutas e ex-Instituto do Azeite e Produtos Oleaginosos, mantidos em vigor por força do disposto no n.º 1 do artigo 1.º do [Decreto-Lei n.º 44/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1990-334601), de 8 de Fevereiro.
+
+2 - A estrutura das remunerações base das carreiras e categorias referidas no número anterior consta do mapa I anexo ao presente diploma, do qual faz parte integrante.
+
+###### Art. 2.º - 1 - Na integração da nova estrutura salarial, por força da aplicação do presente diploma, devem ser consideradas as agregações de categorias e as alterações de designações nos termos previstos no mapa II anexo ao presente diploma, do qual faz parte integrante.
+
+2 - O tradutor-correspondente-intérprete transita para a carreira do mesmo nome na categoria de técnico-adjunto principal.
+
+3 - As categorias para que os funcionários transitam nos termos do mapa a que se refere o n.º 1 integram o conteúdo funcional das categorias objecto de extinção.
+
+###### Art. 3.º - 1 - Sem prejuízo do disposto nos números seguintes, o regime de ingresso e acesso nas categorias e carreiras a que se refere o presente diploma é o constante das disposições aprovadas pelo [Decreto Regulamentar n.º 24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144), de 11 de Agosto.
+
+2 - O recrutamento para a categoria de tripeira principal faz-se de entre tripeiras posicionadas no 3.º escalão ou superior.
+
+3 - O recrutamento para a categoria de encarregado de 2.ª classe de matadouros faz-se de entre operários do grupo de pessoal dos matadouros ou operários qualificados com a categoria de principal, posicionados no índice 200 ou superior.
+
+4 - A remuneração dos estagiários a que se refere o n.º 5 do artigo 65.º do [Decreto Regulamentar n.º 24/89](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/24-1989-619144) corresponde à do 1.º escalão das respectivas categorias de ingresso.
+
+###### Art. 4.º A progressão nas carreiras e categorias previstas no mapa I anexo obedece aos módulos de tempo nele estabelecidos.
+
+###### Art. 5.º - 1 - Os funcionários que tenham mudado de categoria a partir de 1 de Outubro de 1989 transitam para a nova estrutura salarial de acordo com a categoria de que são titulares à data da entrada em vigor do presente diploma.
+
+2 - Nos casos previstos no número anterior, para efeitos de cálculo de remunerações no período compreendido entre 1 de Outubro de 1989 e a data de entrada em vigor do presente diploma, atender-se-á ao índice atribuído à situação que o funcionário detinha até à data em que se verificou a mudança de categoria.
+
+###### Art. 6.º Em tudo o que não estiver especialmente regulado no presente diploma aplicam-se as disposições do [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro.
+
+###### Art. 7.º O presente diploma produz efeitos desde 1 de Outubro de 1989.
+
+Presidência do Conselho de Ministros, 26 de Agosto de 1991.
+
+Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
+
+**Promulgado em 24 de Setembro de 1991.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 26 de Setembro de 1991.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1991/10/232b00/52455249.pdf))](https://files.diariodarepublica.pt/1s/1991/10/232b00/52455249.pdf)

@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:462178:por
+title: Despacho Normativo n.º 325/80
+short_title: null
+summary: Autoriza a Direcção-Geral da Educação de Adultos (DGEA) a conceder bolsas de actividades de educação de adultos
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Educação e Ciência - Gabinete do Ministro
+proposing_entity: null
+official_number: 325/80
+official_date: null
+publication_date: '1980-10-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/1980, Série I de 1980-10-07
+  number: '232'
+  series: I
+  supplement: null
+  pages: 3173 - 3174
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23200/31733174.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '462178'
+  dre_path: /dr/detalhe/despacho-normativo/325-1980-462178
+  internal: pt:dre:462178:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/325-1980-462178
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/325-1980-462178
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-06-09T00:00:00Z'
+integrity:
+  source_sha256: fecbbcd04f44521368d43175dcf644a35e28c942c23be57ca6f9bef5cee6e5eb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-325-462178.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:395698:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 325/80
+
+A orientação que o Governo vem imprimindo ao desenvolvimento da educação de adultos em Portugal passa pela valorização e apoio da iniciativa privada e local. Radica esta orientação na plena consciência das virtualidades e do potencial que neste domínio, como noutros, encerra aquela iniciativa no que contém de genuína expressão da criatividade das populações e da riqueza de uma cultura modelada ao longo de séculos. Nesta perspectiva, foi regulamentado e decorre o processo de atribuição de subsídios às associações de educação popular. Visa-se, agora, accionar a faculdade que, pela alínea e) do artigo 18.º do [Decreto-Lei n.º 534/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/534-1979-231305), de 31 de Dezembro, é conferida à Direcção-Geral da Educação de Adultos para, através do Fundo de Apoio à Educação Popular, conceder bolsas para a realização de actividades neste sector.
+
+A concessão de bolsas aponta para dois objectivos fundamentais e complementares: o incentivo ao desenvolvimento de acções de alfabetização e de educação básica de adultos e o estímulo ao estudo e à investigação no domínio da educação de adultos. Um e outro servem, em última análise, o propósito de mobilização da vontade e do talento nacionais para a extensão do esforço educativo a camadas etárias da população tradicionalmente desprovidas de oportunidades de valorização sócio-cultural e profissional.
+
+Nestes termos, determina-se:
+
+1 - A Direcção-Geral da Educação de Adultos (DGEA) poderá conceder bolsas de actividades de educação de adultos dos seguintes tipos:
+
+a) Bolsas destinadas ao desenvolvimento de acções de alfabetização e educação básica de adultos;
+
+b) Bolsas destinadas à realização de actividades de investigação em áreas relacionadas com a educação de adultos.
+
+2 - Os dois tipos de bolsa referidos no n.º 1 não são passíveis de acumulação.
+
+3 - Bolsas para alfabetização e educação básica de adultos:
+
+3.1 - As bolsas referidas na alínea a) do número anterior terão como objectivo orientar e desenvolver acções formais ou não formais de alfabetização e educação básica para adultos.
+
+3.2 - Os bolseiros referidos no número anterior, de acordo com as indicações que lhes forem, para o efeito, dadas pela DGEA, orientarão cursos de educação básica para adultos, nos termos da [Portaria n.º 419/76](https://diariodarepublica.pt/dr/detalhe/portaria/419-1976-430431), de 13 de Julho, e das restantes normas aplicáveis, e procederão aos levantamentos e caracterizações sócio-educativos e culturais, designadamente em relação ao analfabetismo, adequados à sua acção. Terão ainda em atenção a necessária dinamização institucional dos órgãos autárquicos e o estímulo do associativismo local, com a finalidade de, assim, se incentivar a implantação e o exercício de actividades culturais permanentes.
+
+3.3 - As bolsas para alfabetização e educação básica de adultos serão de 5000$00 mensais e terão a duração de três a nove meses, de acordo com a previsão do tempo necessário para a concretização dos trabalhos a desenvolver.
+
+3.4 - O montante referido no número anterior destina-se a cobrir todas as despesas efectuadas pelos bolseiros no exercício das suas actividades, incluindo as de transportes, alojamento e alimentação.
+
+Apenas as despesas com as deslocações sugeridas pela DGEA (seminários, encontros regionais e reuniões) serão cobertas separadamente.
+
+3.5 - As bolsas poderão ser pagas mensalmente, sendo obrigatória a apresentação de um relatório trimestral sobre o estado das acções em desenvolvimento, em moldes a definir pela DGEA.
+
+3.6 - Após a conclusão do período de concessão de bolsa, será apresentado relatório final circunstanciado do trabalho desenvolvido, assim como cópias de todos os documentos preparatórios e finais produzidos no âmbito dos objectivos propostos.
+
+3.7 - As candidaturas a este tipo de bolsas deverão ser apresentadas à DGEA, mediante concurso público.
+
+3.8 - Do processo de candidatura deverão constar os seguintes elementos:
+
+a) Objectivos específicos das actividades a desenvolver e eventual enquadramento institucional das mesmas;
+
+b) Localização das actividades;
+
+c) População a atingir;
+
+d) Duração das actividades;
+
+e) Meios e apoios de que dispõe;
+
+f) Recursos técnicos e humanos necessários.
+
+3.9 - A DGEA apreciará as candidaturas que lhe forem submetidas, com base nos seguintes critérios de selecção:
+
+a) Interesse das actividades para o desenvolvimento da educação básica dos adultos e a articulação com as realizadas neste domínio pela DGEA;
+
+b) Elementos curriculares do candidato que permitam avaliar a capacidade de execução das respectivas actividades;
+
+c) Informação prestada pela entidade em cujo âmbito de actividade se insira a proposta apresentada;
+
+d) Garantia de integração do candidato na vida da comunidade onde se desenvolverão as actividades.
+
+3.10 - Em casos específicos, a concessão de bolsa poderá ser condicionada à discussão e análise prévias da proposta apresentada.
+
+4 - Bolsas de investigação:
+
+4.1 - As bolsas destinadas a actividades de investigação em áreas relacionadas com a educação de adultos terão como objectivo o estudo e o esclarecimento das questões relacionadas com a política de educação de adultos no nosso país.
+
+4.2 - Sem prejuízo de se considerarem, desde que justificados, outros temas com interesse real para a educação de adultos no nosso país, as actividades de investigação deverão versar no ano de 1980-1981 as seguintes temáticas fundamentais:
+
+a) Literatura popular portuguesa;
+
+b) Estruturas e funcionamento das associações de educação popular;
+
+c) Os meios de comunicação de massa no quadro da educação de adultos;
+
+d) Bibliotecas populares e animação da leitura;
+
+e) Formação de educadores de adultos;
+
+f) Material didáctico para adultos;
+
+g) Avaliação dos processos de aprendizagem dos adultos.
+
+4.3 - As bolsas serão prioritariamente concedidas aos investigadores, singulares ou agrupados em equipas de investigação, integrados ou directamente dependentes de instituições de ensino superior ou de investigação científica.
+
+4.4 - As bolsas atribuídas a título singular terão o valor base de 7500$00 mensais, acrescido de um adicional compensatório das despesas inerentes à realização do projecto. A duração das bolsas situar-se-á entre três e nove meses, de acordo com a previsão do tempo necessário para a concretização dos trabalhos a desenvolver.
+
+4.5 - As bolsas a conceder a grupos de investigadores, cujos projectos deverão revestir, preferencialmente, um carácter interdisciplinar, serão de montante a estabelecer caso a caso.
+
+4.6 - Os projectos das bolsas carecem de ser avalizados pela instituição ou instituições em que se integram os investigadores ou por duas individualidades com competência pedagógica e ou científica (docentes de estabelecimentos de ensino superior ou investigadores de reconhecido mérito científico).
+
+4.7 - Pela prestação do aval referido no número anterior, entende-se a formulação de um parecer sobre a idoneidade científica dos candidatos, assim como sobre a natureza e metodologia dos projectos.
+
+4.8 - Os investigadores interessados deverão candidatar-se às bolsas de investigação num prazo a estabelecer anualmente pela DGEA.
+
+4.9 - Do processo de candidatura deverão constar todos os elementos que permitam caracterizar o projecto de investigação, designadamente quanto ao seu âmbito, objectos e metodologia.
+
+4.10 - A homologação da concessão de bolsas caberá ao membro do Governo a quem competir o despacho dos assuntos respeitantes à DGEA.
+
+4.11 - Os relatórios, monografias e outros documentos resultantes das actividades desenvolvidas poderão a qualquer tempo ser utilizados e publicados pela DGEA para fins que se integrem na área das suas atribuições.
+
+4.12 - A DGEA, conforme a natureza e amplitude dos projectos aprovados, estabelecerá prazos de entrega de relatórios sobre as actividades desenvolvidas.
+
+4.13 - Sempre que se verifique o não cumprimento das disposições constantes do presente despacho normativo a DGEA poderá propor a qualquer momento a suspensão da bolsa.
+
+4.14 - Os serviços centrais da DGEA e as estruturas regionais e distritais desta, onde as honver, prestarão todas as informações complementares necessárias aos processos de candidatura, assim como ao desenvolvimento dos trabalhos de investigação.
+
+Ministério da Educação e Ciência, 1 de Setembro de 1980. - O Ministro da Educação e Ciência, Vítor Pereira Crespo. - O Secretário de Estado da Educação, Roberto Artur da Luz Carneiro.

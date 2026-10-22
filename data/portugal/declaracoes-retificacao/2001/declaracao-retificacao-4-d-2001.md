@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:303129:por
+title: Declaração de Rectificação n.º 4-D/2001
+short_title: null
+summary: De ter sido rectificado o Decreto-Lei n.º 22/2001, do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas,
+  que estabelece o regime aplicável à autorização de importação paralela de produtos fitofarmacêuticos, alterando o Decreto-Lei
+  n.º 94/98, de 15 de Abril, publicado no Diário da República, 1.ª série, n.º 25, de 30 de Janeiro de 2001
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 4-D/2001
+official_date: null
+publication_date: '2001-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2001, 2º Suplemento, Série I-A de 2001-02-28
+  number: '50'
+  series: I
+  supplement: 2º Suplemento
+  pages: 1122-(7) a 1122-(7)
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/02/050a02/00070007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/4-d/2001/02/28/p/dre/pt/html
+  oj: null
+  dre: '303129'
+  dre_path: /dr/detalhe/declaracao-rectificacao/4-d-2001-303129
+  internal: pt:dre:303129:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-d-2001-303129
+  metadata_url: https://data.dre.pt/eli/declrectif/4-d/2001/02/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/4-d-2001-303129
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-02-28T00:00:00Z'
+integrity:
+  source_sha256: e60a809727f5d1f489401cfe2a85be6fcb579be37f5bd73d8549718ef8aaefc1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-4-D-303129.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Direcção Geral de Protecção das Culturas
+- Controlo Sanitário
+- Saúde Pública
+- Etiquetagem
+- Fiscalização
+- Importação
+- Licenciamento
+- Embalagem
+- Proteção do Consumidor
+- Produto Fitofarmacêutico
+- Comércio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/22/2001/01/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/22/2001/01/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/94/1998/04/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/94/1998/04/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 4-D/2001
+
+Para os devidos efeitos se declara que o [Decreto-Lei n.º 22/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2001-315155), publicado no Diário da República, 1.ª série, n.º 25, de 30 de Janeiro de 2001, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+
+No artigo 2.º, onde se lê «capítulo XVIII» deve ler-se «capítulo XIX».
+
+No artigo 3.º, onde se lê «O capítulo XVIII, sob a epígrafe 'Disposições finais e transitórias', do [Decreto-Lei n.º 94/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1998-173369), de 15 de Abril, passa a ser o capítulo XIX, por força do disposto no artigo anterior.» deve ler-se «O capítulo XVIII, sob a epígrafe 'Disposições finais e transitórias', do [Decreto-Lei n.º 94/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1998-173369), de 15 de Abril, mantém a sua numeração.».
+
+No n.º 1 do artigo 4.º, onde se lê «Os artigos 24.º, 25.º, 26.º, 27.º e 28.º do [Decreto-Lei n.º 94/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1998-173369), de 15 de Abril, passam a ser os artigos 39.º, 40.º, 41.º, 42.º e 45.º» deve ler-se «Os artigos 24.º, 25.º, 26.º, 27.º e 28.º do [Decreto-Lei n.º 94/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1998-173369), de 15 de Abril, mantêm a sua numeração.».
+
+Secretaria-Geral da Presidência do Conselho de Ministros, 28 de Fevereiro de 2001. - O Secretário-Geral, Alexandre Figueiredo.

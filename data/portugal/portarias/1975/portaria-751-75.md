@@ -1,0 +1,149 @@
+---
+schema_version: '1.0'
+id: pt:dre:311072:por
+title: Portaria n.º 751/75
+short_title: null
+summary: Determina que a Inspecção-Geral do Ministério do Trabalho funcione na dependência directa do Ministro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Trabalho
+proposing_entity: null
+official_number: 751/75
+official_date: null
+publication_date: '1975-12-16'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 289/1975, Série I de 1975-12-16
+  number: '289'
+  series: I
+  supplement: null
+  pages: 2047 - 2047
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/12/28900/20472047.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '311072'
+  dre_path: /dr/detalhe/portaria/751-1975-311072
+  internal: pt:dre:311072:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/751-1975-311072
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/751-1975-311072
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-03-21T00:00:00Z'
+integrity:
+  source_sha256: dc831dba9db90cda10c4e328f9cbad7beac664b7da1346434a1e632288f85d4e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-751-311072.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:621349:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 751/75
+
+de 16 de Dezembro
+
+Considerando a necessidade de proceder a algumas alterações na regulamentação do funcionamento da Inspecção-Geral do Ministério do Trabalho, em ordem a imprimir-lhe o dinamismo indispensável ao cabal cumprimento dos fins para que foi criada;
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, ao abrigo do n.º 1 do artigo 25.º do [Decreto-Lei n.º 760/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1974-256806), de 30 de Dezembro, pelo Ministro do Trabalho:
+
+1.º A Inspecção-Geral do Ministério do Trabalho funciona na dependência directa do Ministro.
+
+2.º São atribuições da Inspecção-Geral do Ministério do Trabalho:
+
+a) O exercício de acção fiscalizadora sobre o funcionamento de todos os órgãos e serviços do Ministério, nomeadamente a verificação do exacto cumprimento das normas legais e regulamentares em vigor, bem como o apuramento da respectiva eficácia;
+
+b) A realização de inquéritos e o levantamento de processos disciplinares sobre a conduta, no exercício das suas funções, do pessoal do Ministério do Trabalho;
+
+c) O desempenho de quaisquer missões de que for incumbida pelo Ministro.
+
+3.º A actuação da Inspecção-Geral do Ministério do Trabalho só será exercida mediante despacho do Ministro do Trabalho, ou por iniciativa da própria Inspecção-Geral, ou sob proposta dos serviços, nos termos e condições a definir caso a caso.
+
+4.º A Inspecção-Geral do Ministério do Trabalho, no cumprimento da sua acção fiscalizadora, inteirar-se-á das anomalias existentes e elaborará relatórios, com propostas de solução para despacho superior.
+
+5.º A Inspecção-Geral do Ministério do Trabalho é dirigida por um inspector-geral e integra:
+
+a) Núcleo de apoio técnico;
+
+b) Corpo de inspectores.
+
+6.º - 1. Incumbe ao inspector-geral:
+
+a) Zelar pelo cumprimento das atribuições da Inspecção-Geral, devendo deslocar-se periodicamente aos órgãos e serviços do Ministério, elaborando relatórios dessas visitas, os quais serão submetidos a despacho superior;
+
+b) Proceder à distribuição dos processos e inquéritos pelos elementos do corpo de inspectores;
+
+c) Emitir parecer sobre os processos elaborados antes de os submeter a despacho ministerial;
+
+d) Submeter a despacho do Ministro as propostas de colaboração, necessária à prossecução dos objectivos da Inspecção-Geral, de outros órgãos e serviços do Ministério, bem como de outras entidades públicas ou privadas que eventualmente se mostrem necessárias;
+
+e) Remeter a despacho do Ministro todos os relatórios e pareceres resultantes de missões que forem confiadas à Inspecção-Geral nos termos da alínea c) do n.º 2.º da presente portaria;
+
+f) Representar externamente a Inspecção-Geral.
+
+2. Nas suas faltas e impedimentos o inspector-geral será substituído pelo inspector que ele designar ou, na impossibilidade de designação, pelo inspector mais antigo.
+
+7.º Incumbe ao corpo de inspectores:
+
+a) Realizar as tarefas que lhe forem distribuídas pelo inspector-geral, nomeadamente em matéria de fiscalização e em matéria de efectivação de inquéritos de natureza funcional ou disciplinar;
+
+b) Propor a colaboração de funcionários de outros órgãos e serviços ou de peritos de entidades públicas ou privadas, desde que essa colaboração se mostre necessária ou conveniente ao regular prosseguimento das suas funções.
+
+8.º Incumbe ao núcleo de apoio técnico:
+
+a) Apoiar administrativamente a Inspecção-Geral em matérias de pessoal, material e expediente e articular com a Secretaria-Geral;
+
+b) Velar pela conservação e funcionamento dos ficheiros e arquivos existentes.
+
+9.º A Inspecção-Geral pode solicitar aos órgãos e serviços do Ministério as informações e elementos necessários ao desempenho das suas funções, nos termos e condições definidos no despacho do Ministro referido no n.º 3.º da presente portaria.
+
+10.º É revogada a [Portaria n.º 361/75](https://diariodarepublica.pt/dr/detalhe/portaria/361-1975-335750), de 11 de Junho.
+
+Ministério do Trabalho, 1 de Outubro de 1975. - O Ministro do Trabalho, João Pedro Tomás Rosa.

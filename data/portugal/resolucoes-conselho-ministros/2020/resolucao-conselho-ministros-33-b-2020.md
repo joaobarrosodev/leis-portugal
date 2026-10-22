@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:132883345:por
+title: Resolução do Conselho de Ministros n.º 33-B/2020
+short_title: null
+summary: Repõe, a título excecional e temporário, um ponto de passagem autorizado na fronteira terrestre
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 33-B/2020
+official_date: null
+publication_date: '2020-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/2020, 3º Suplemento, Série I de 2020-04-30
+  number: '85'
+  series: I
+  supplement: 3º Suplemento
+  pages: 7-(22) a 7-(22)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/04/08503/0002200022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/33-b/2020/04/30/p/dre/pt/html
+  oj: null
+  dre: '132883345'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/33-b-2020-132883345
+  internal: pt:dre:132883345:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-b-2020-132883345
+  metadata_url: https://data.dre.pt/eli/resolconsmin/33-b/2020/04/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/33-b-2020-132883345
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2020-06-12T00:00:00Z'
+integrity:
+  source_sha256: c235354f652184205c947feacfcef22aefd953695f743b4fb96ce90da2fdffab
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2020/DRE-2020-33-B-132883345.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Circulação de Pessoas
+- Controlo Sanitário
+- Espanha
+- Fronteiras
+- Catástrofe
+- GNR
+- Circulação de Mercadorias
+- Doença Infecciosa
+- Epidemia
+- Trabalhador Migrante
+- Trabalhador por Conta de Outrem
+relationships:
+- type: amended_by
+  target: pt:dre:135707100:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/10-b/2020/03/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/10-b/2020/03/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/22/2020/04/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/22/2020/04/14/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 33-B/2020
+
+A [Resolução do Conselho de Ministros n.º 10-B/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-b-2020-130326108), de 16 de março, repõe, a título excecional e temporário, o controlo documental de pessoas nas fronteiras no âmbito da situação epidemiológica provocada pelo novo coronavírus SARS-CoV-2 e da doença COVID-19, tendo a referida reposição sido prorrogada pela [Resolução do Conselho de Ministros n.º 22/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/22-2020-131393116), de 14 de abril.
+
+Face ao contexto atual e à realidade local de trabalhadores transfronteiriços demonstrou-se a necessidade de abertura de mais um ponto de passagem autorizado na fronteira terrestre. Esta medida foi concertada entre o Governo da República Portuguesa e o Governo do Reino de Espanha.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Alterar a [Resolução do Conselho de Ministros n.º 10-B/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/10-b-2020-130326108), de 16 de março, na sua redação atual, que passa a ter a seguinte redação:
+
+«1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - Decretar, sem prejuízo do disposto no número anterior, que nos dias úteis, das 07:00 horas às 09:00 horas e das 18:00 horas às 20:00 horas, Mourão, Ponto de Fronteira de S. Leonardo, km 7, EN 256-1, é ponto de passagem autorizado na fronteira terrestre.
+
+9 - Incumbir a Guarda Nacional Republicana de efetuar a vigilância entre os postos de passagem autorizados referidos nos n.os 7 e 8.
+
+10 - (Anterior n.º 9.)»
+
+2 - Determinar que a presente resolução produz efeitos a partir do dia 4 de maio.
+
+Presidência do Conselho de Ministros, 30 de abril de 2020. - O Primeiro-Ministro, António Luís Santos da Costa.

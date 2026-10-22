@@ -1,0 +1,331 @@
+---
+schema_version: '1.0'
+id: pt:dre:381562:por
+title: Decreto-Lei n.º 251/84
+short_title: null
+summary: Define o regime de inserção do turismo de habitação na oferta turística portuguesa
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 251/84
+official_date: null
+publication_date: '1984-07-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 171/1984, Série I de 1984-07-25
+  number: '171'
+  series: I
+  supplement: null
+  pages: 2263 - 2267
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/07/17100/22632267.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '381562'
+  dre_path: /dr/detalhe/decreto-lei/251-1984-381562
+  internal: pt:dre:381562:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1984-381562
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1984-381562
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-08-27T00:00:00Z'
+integrity:
+  source_sha256: d2426c3a0011c64e3fbf23be5ac68e1129fff0cd767d8b2ac18e988b4427ea1c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-251-381562.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:219132:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 27
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 251/84
+
+de 25 de Julho
+
+O turismo de habitação constitui uma modalidade de alojamento particular regulada pelo [Decreto Regulamentar n.º 14/78](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1978-522612), de 12 de Maio, cujo artigo 41.º prevê o lançamento no mercado turístico de quartos particulares, moradias e apartamentos.
+
+Posteriormente, a expressão «turismo de habitação» ganhou mesmo consagração legal, através do [Decreto-Lei n.º 423/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/423-1983-442949), de 5 de Dezembro, em cujo artigo 3.º, n.º 1, se prevê expressamente a possibilidade de atribuição de utilidade turística às casas afectas a turismo de habitação.
+
+Interessa, porém, anotar que o conteúdo do turismo de habitação não se esgota na exploração de alojamento turístico, podendo, também, prosseguir a oferta de serviços de interesse turístico nos domínios da animação, do artesanato, da cultura e até do desporto e recreio dos turistas.
+
+«Turismo de habitação» é, pois, uma expresão que designa uma fórmula de actividade turística ainda de natureza experimental no nosso país e que compreende como elemento essencial a exploração de interesse turístico de uma casa de habitação pelo seu proprietário ou representante - o dono da casa.
+
+Com o presente diploma procura-se a definição, ainda com carácter experimental, do regime de inserção do turismo de habitação na oferta turística portuguesa, clarificando-se o acesso à obtenção de tal denominação e a classificação das unidades seu objecto, mantendo-se a perspectiva de que o conceito abrange uma realidade mais vasta que o alojamento.
+
+Pareceu também razoável dar-se prioridade à recuperação de casas antigas e de reconhecido valor arquitectónico, sem, porém, esquecer as possibilidades de utilização de habitações modernas de carácter unifamiliar que disponham de adequado enquadramento ambiental.
+
+A experiência a adquirir e a própria capacidade de associativismo ou, pelo menos, de representação dos titulares de unidades classificadas de turismo de habitação poderão aconselhar que, ouvidos os demais intervenientes no processo, se possa partir com mais segurança para um enquadramento de base legislativa mais exigente, o que, todavia, neste momento, se afigura prematuro.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Caracterização)
+
+1 - A denominação «turismo de habitação» designa uma modalidade especial de actividade turística que consiste na exploração de quartos existentes em casas, isoladas ou inseridas em núcleos habitacionais, que sirvam simultaneamente de residência aos respectivos donos e que obedeçam aos requisitos mínimos prescritos no artigo 9.º deste diploma.
+
+2 - É da competência exclusiva da Direcção-Geral do Turismo (DGT) a atribuição da referida designação e classificação e a inerente autorização de exploração.
+
+3 - Os quartos destinados à exploração não poderão exceder o número de 10 unidades no edifício principal.
+
+4 - É obrigatório o fornecimento de serviço de pequeno-almoço.
+
+###### Artigo 2.º — (Registo nacional)
+
+A DGT manterá um registo nacional actualizado das propriedades privadas onde é autorizada a prática do turismo de habitação.
+
+###### Artigo 3.º — (Inscrição)
+
+1 - Só é permitido o uso da designação de turismo de habitação após prévia inscrição no registo da DGT.
+
+2 - A inscrição é gratuita.
+
+3 - A inscrição pode ser cancelada nos termos do artigo 22.º
+
+###### Artigo 4.º — (Requisitos)
+
+1 - A inscrição de uma propriedade privada no registo de turismo de habitação deverá ser requerida pelo seu proprietário ou representante, especificando os seguintes elementos:
+
+a) Identificação do requerente;
+
+b) Localização da propriedade;
+
+c) Descrição sumária dos acessos rodoviários e por transportes públicos;
+
+d) Enumeração e descrição dos quartos destinados ao alojamento turístico e áreas comuns e das áreas da propriedade de acesso vedado;
+
+e) Plantas à escala de 1:25000 ou de 1:1000 referentes à localização da propriedade e de 1:1900 para as áreas de habitação;
+
+f) Indicação de telefones próprios ou do mais próximo;
+
+g) Enumeração dos serviços a prestar e respectivos preços;
+
+h) Períodos de abertura anual;
+
+i) Descrição exterior da propriedade e arredores, apoiada em documentação fotográfica suficiente;
+
+j) Identificação do responsável pelo funcionamento do empreendimento - o dono da casa - e enumeração das línguas estrangeiras faladas;
+
+l) Identificação dos equipamentos de animação, de artesanato e desportivos ou outros de interesse cultural e recreativo disponíveis.
+
+2 - O requerimento do pedido de inscrição será feito em impresso próprio fornecido pela DGT.
+
+3 - O requerente poderá juntar quaisquer outros elementos que considere de interesse, nomeadamente parecer do órgão local ou regional de turismo da respectiva área.
+
+###### Artigo 5.º — (Processo)
+
+1 - O requerimento e respectiva documentação anexa serão analisados pelos serviços competentes da DGT, podendo ser liminarmente indeferido no prazo de 30 dias se o processo não tiver condições para vir a ser apreciado favoravelmente.
+
+2 - Nos casos não previstos no número anterior, a apreciação do processo prosseguirá com uma vistoria de inspecção no local, devendo o respectivo relatório propor, no prazo de 30 dias, ao director-geral do Turismo a inscrição ou a sua rejeição ou, ainda, quando for o caso, a enumeração das obras ou melhoramentos a cuja verificação deve ficar sujeita a inscrição.
+
+###### Artigo 6.º — (Causas de indeferimento)
+
+1 - Serão indeferidos os requerimentos em que, após análise do alojamento oferecido, se verificar que o empreendimento não apresenta interesse turístico ou não preenche os requisitos mínimos de funcionalidade.
+
+2 - O empreendimento turístico será apreciado em função:
+
+a) Da qualidade e localização da propriedade;
+
+b) Da rede de estabelecimentos hoteleiros e similares existentes na respectiva área;
+
+c) Dos equipamentos referidos no artigo 4.º, n.º 1, alínea l), e dos programas locais de animação;
+
+d) Dos fluxos reais e potenciais de turismo interno e de importação polarizados pela respectiva região.
+
+3 - Consideram-se requisitos mínimos de funcionalidade os referidos no artigo 9.º do presente diploma.
+
+###### Artigo 7.º — (Recurso)
+
+Das decisões previstas no artigo 5.º cabe recurso para o membro do Governo com tutela sobre o sector do turismo, a interpor no prazo de 30 dias a contar da data da comunicação ao requerente.
+
+###### Artigo 8.º — (Certificado de registo)
+
+As decisões favoráveis deverão ser comunicadas aos requerentes, aos quais será entregue um certificado que legitima a utilização da designação de turismo de habitação, bem como a respectiva classificação e a utilização da placa identificadora.
+
+###### Artigo 9.º — (Classificação)
+
+1 - As propriedades onde for autorizada a exploração do turismo de habitação serão classificadas numa das modalidades seguintes, consoante a natureza da construção do edifício principal:
+
+a) Tipo A - quando se trate de uma edificação do tipo solar, casa apalaçada ou moradia unifamiliar, com valor arquitectónico, amplas dimensões, mobiliário e decoração de qualidade e instalações sanitárias condizentes;
+
+b) Tipo B - quando se trate de edificação localizada em meio rural, de natureza rústica ou de características regionais evidentes e com mobiliário e decoração adequados, além de instalações sanitárias funcionais.
+
+2 - Consoante as características do edifício, da sua decoração e dos equipamentos complementares, poderá em cada um dos tipos de classificação verificar-se a atribuição da qualificação de referência «nível superior».
+
+###### Artigo 10.º — (Preços)
+
+1 - Em cada quarto deverá ser afixada tabela dos preços de todos os serviços prestados.
+
+2 - Poderá ser exigido pelo dono da casa o pagamento antecipado do alojamento e do pequeno-almoço.
+
+3 - Os serviços, incluindo bebidas, refeições, utilização de equipamentos complementares ou tratamento de roupas do cliente, serão facturados discriminadamente.
+
+###### Artigo 11.º — (Nível de serviços)
+
+1 - O dono da casa é o responsável pelo nível e higiene dos serviços a prestar, proporcionando aos seus clientes o conforto necessário a uma estada agradável.
+
+2 - As roupas de cama e de banho serão substituídas sempre que o cliente muda e, em qualquer caso, pelo menos duas vezes por semana.
+
+3 - O dono da casa deverá exigir ao seu pessoal colaborador e aos membros da família que com ele coabitem o rigoroso cumprimento dos deveres de profissionalismo exigíveis e das regras gerais de cortesia e urbanidade, no quadro da tradicional hospitalidade portuguesa.
+
+###### Artigo 12.º — (Direito de recusa)
+
+1 - Sem prejuízo da normal exploração da actividade turística, o dono da casa tem o direito de recusar o aluguer de quartos ou a prestação de serviços quando o julgar conveniente e, designadamente, nos casos previstos no n.º 2 do artigo 216.º do [Decreto n.º 61/70](https://diariodarepublica.pt/dr/detalhe/decreto/61-1970-466226), de 24 de Fevereiro.
+
+2 - Se, pelo seu comportamento, o cliente se tornar indesejável, pode o dono da casa compeli-lo a abandonar os quartos, sem efectuar o reembolso dos dias pagos antecipadamente, e ainda recorrer, se necessário, à autoridade policial competente.
+
+###### Artigo 13.º — (Direito de retenção)
+
+Quando o cliente não pagar a factura dos serviços prestados, e para garantir o respectivo pagamento, pode o dono da casa usar do direito de retenção dos bens que o cliente tiver transportado para a propriedade.
+
+###### Artigo 14.º — (Deveres dos clientes)
+
+1 - Os clientes devem pautar o seu comportamento pelas regras gerais de cortesia, urbanidade e decoro, bem como pagar pontualmente as facturas que lhes forem apresentadas pelos serviços prestados.
+
+2 - Os clientes têm ainda os seguintes deveres:
+
+a) Não se fazerem acompanhar de animais, excepto se autorizados;
+
+b) Não penetrarem nas áreas da propriedade de acesso vedado;
+
+c) Não perturbarem o ambiente familiar do dono da casa;
+
+d) Não fazerem lume ou cozinharem nos quartos;
+
+e) Não excederem a lotação dos quartos nem alojarem terceiros sem autorização do dono da casa.
+
+###### Artigo 15.º — (Livros de registo e de reclamação)
+
+1 - O dono da casa deve manter um livro de registo de hóspedes actualizado e facultar o livro de reclamações aos clientes que o exigirem, bem como exibi-lo, sempre que solicitado pelos serviços de inspecção turística.
+
+2 - As reclamações deverão ser tidas em conta pelo dono da casa e, sempre que se justifique, ou quando lhe for solicitado, deve o seu conteúdo ser transmitido no prazo de 48 horas à DGT.
+
+###### Artigo 16.º — (Responsabilidades)
+
+1 - O dono da casa é responsável pelos objectos de valor que lhe sejam entregues para depósito pelos clientes.
+
+2 - O dono da casa pode transferir a responsabilidade para terceiros através de competente contrato de seguro.
+
+3 - O cliente é civilmente responsável pelos prejuízos ou danos que cause à propriedade, seu equipamento, mobiliário e decoração ou à pessoa do dono da casa e seus colaboradores.
+
+###### Artigo 17.º — (Quadro de informações)
+
+1 - Sempre que possível, deverão ser afixadas informações sobre os aspectos de interesse turístico e cultural existentes na região.
+
+2 - As informações referidas nos números anteriores deverão ser escritas em português e, pelo menos, em francês ou em inglês.
+
+###### Artigo 18.º — (Serviços de reserva)
+
+1 - A DGT, em colaboração com os órgãos locais e regionais de turismo, implementará um sistema expedito de promoção, reservas e informações sobre o alojamento de turismo de habitação.
+
+2 - Os donos da casa têm o direito de fazer incluir todas as suas instalações, devidamente inscritas na DGT, no referido sistema de reservas, bem como nos suportes de promoção da responsabilidade da DGT editados no País ou no estrangeiro.
+
+###### Artigo 19.º — (Apoios financeiros)
+
+Os investimentos necessários às obras ou melhoramentos de propriedades candidatas à sua utilização para turismo de habitação, bem como os relativos à sua conservação, poderão ser financiados pelo Fundo de Turismo.
+
+###### Artigo 20.º — (Informações estatísticas)
+
+1 - O dono da casa deve prestar à DGT todas as informações, designadamente de ordem estatística, que lhe sejam solicitadas.
+
+2 - As informações de natureza estatística não poderão ser divulgadas de forma individualizada.
+
+###### Artigo 21.º — (Vistoria e inspecções)
+
+Às propriedades registadas ao abrigo do presente diploma aplicar-se-á o disposto no [Decreto-Lei n.º 49399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49399-1969-217109), de 24 de Novembro de 1969, relativamente a vistorias e inspecções.
+
+###### Artigo 22.º — (Cancelamento da inscrição)
+
+1 - A inscrição de uma propriedade destinada a turismo de habitação pode ser cancelada a pedido do seu proprietário, ou representantes, quando desista da actividade, devendo enviar aviso escrito com a antecedência de 90 dias à DGT e ao órgão local ou regional de turismo da respectiva área, sob pena de aplicação do n.º 3.
+
+2 - A inscrição pode ser cancelada pelo director-geral do Turismo, por sua iniciativa ou por proposta do órgão local ou regional de turismo da respectiva área, quando se verifiquem:
+
+a) Impedimentos supervenientes que determinem o incumprimento de requisitos essenciais à inscrição;
+
+b) Violação reiterada pelo dono da casa dos deveres a que se acha vinculado;
+
+c) Falta reiterada do envio dos elementos de informação à DGT de acordo com o previsto no artigo 20.º
+
+3 - O cancelamento da inscrição pode determinar a suspensão dos apoios financeiros e fiscais.
+
+###### Artigo 23.º — (Protocolos)
+
+A DGT estabelecerá protocolos com os órgãos locais e regionais de turismo, podendo neles delegar a sua competência em matéria de inscrição e de fiscalização do turismo de habitação.
+
+###### Artigo 24.º — (Exclusão do âmbito)
+
+Não se considera turismo de habitação a mera actividade económica de exploração de alojamento de hóspedes em casa particular, bem como a locação ou sublocação de quartos.
+
+###### Artigo 25.º — (Modelo)
+
+Serão aprovados, por despacho do director-geral do Turismo, os modelos seguintes:
+
+A - modelo de certificado de turismo de habitação, com a respectiva classificação;
+
+B - modelo da placa identificadora do turismo de habitação.
+
+###### Artigo 26.º — (Casos omissos)
+
+Em tudo o que for omisso aplicar-se-ão, com as necessárias adaptações, a legislação hoteleira vigente e os princípios gerais decorrentes do Regulamento Internacional de Hotelaria.
+
+###### Artigo 27.º — (Âmbito de aplicação)
+
+O presente diploma não é aplicável nas Regiões Autónomas dos Açores e da Madeira.
+
+Visto e aprovado em Conselho de Ministros de 24 de Maio de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - Álvaro Roque de Pinho Bissaia Barreto.
+
+**Promulgado em 9 de Junho de 1984.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 10 de Julho de 1984.**
+
+**O Primeiro-Ministro, Mário Soares.**

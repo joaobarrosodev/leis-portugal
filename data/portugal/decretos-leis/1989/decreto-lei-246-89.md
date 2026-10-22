@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:618876:por
+title: Decreto-Lei n.º 246/89
+short_title: null
+summary: Estabelece nas instituições hospitalares ou estabelecimentos de saúde a criação de quadros complementares de supranumerários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 246/89
+official_date: null
+publication_date: '1989-08-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/1989, Série I de 1989-08-05
+  number: '179'
+  series: I
+  supplement: null
+  pages: 3142 - 3143
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/08/17900/31423143.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '618876'
+  dre_path: /dr/detalhe/decreto-lei/246-1989-618876
+  internal: pt:dre:618876:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1989-618876
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1989-618876
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-10-17T00:00:00Z'
+integrity:
+  source_sha256: 40400e84e98403aa4ffc43d4a339a3b69a279b30dcf4739ae08649348a78cfcf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-246-618876.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:288975:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 246/89
+
+de 5 de Agosto
+
+O [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 294/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), de 24 de Julho, assegura ao pessoal docente do ciclo clínico das faculdades de medicina e de ciências médicas, após a obtenção do grau da carreira médica hospitalar, de saúde pública ou de clínica geral, o seu provimento em lugares da instituição hospitalar ou do estabelecimento de saúde em que se ministre o ensino. Esse provimento obedece à legislação em vigor para as carreiras médicas, tendo os docentes que se sujeitar aos concursos respectivos. Em caso de não existirem vagas, caber-lhes-á um lugar de supranumerário.
+
+Os novos desafios que se colocam à educação médica impõem uma reformulação da legislação em vigor que abranja os problemas específicos do ensino médico e dos estabelecimentos que o ministram, que deverão ser objecto de legislação especial, como refere o n.º 4 do artigo 7.º da [Lei n.º 108/88](https://diariodarepublica.pt/dr/detalhe/lei/108-1988-355494), de 24 de Setembro.
+
+É, pois, este diploma o primeiro de um conjunto que tem em vista a resolução dos problemas existentes no ensino médico de graduação e de pós-graduação, ministrados e a ministrar nas faculdades de medicina e de ciências médicas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º - 1 - Nas instituições hospitalares ou estabelecimentos de saúde em que seja ministrado o ensino das disciplinas constantes dos planos de estudo das faculdades de medicina e de ciências médicas, nos termos do disposto no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, são criados quadros complementares de supranumerários.
+
+2 - Os quadros complementares a que se refere o número anterior integram as categorias de chefe de serviço hospitalar ou de saúde pública, consultor de clínica geral e assistente hospitalar, de saúde pública ou de clínica geral, nos termos do mapa anexo ao presente diploma, que dele faz parte integrante.
+
+3 - Os lugares dos quadros criados nos termos dos números anteriores são preenchidos por médicos que exerçam funções docentes nas faculdades de medicina e de ciências médicas, de acordo com o disposto no n.º 3 do artigo 3.º e no artigo 4.º do presente diploma.
+
+###### Art. 2.º - 1 - As faculdades de medicina e de ciências médicas deverão propor anualmente, até 31 de Julho, ao Conselho de Reitores das Universidades Portuguesas, para os quadros complementares de supranumerários referidos no artigo anterior, os números de lugares das categorias mencionadas no n.º 2 do mesmo artigo previstos para cada instituição hospitalar ou estabelecimento de saúde.
+
+2 - Os números de lugares a que se refere o número precedente são fixados por despacho conjunto dos Ministros das Finanças, da Educação e da Saúde.
+
+###### Art. 3.º - 1 - Os assistentes das disciplinas previstas nos protocolos referidos no artigo 1.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro, são contratados de acordo com os princípios estabelecidos no Estatuto da Carreira Docente Universitária.
+
+2 - O contrato cessará obrigatoriamente no termo da sua duração ou de qualquer das suas prorrogações, se até lá o interessado não tiver obtido o grau de assistente hospitalar, de saúde pública ou de clínica geral.
+
+3 - Obtido o grau a que se refere o número anterior, o contrato passará ao regime de prorrogação previsto no artigo 26.º do Estatuto da Carreira Docente Universitária, sendo o interessado provido, com dispensa do concurso de provimento, como assistente da instituição hospitalar ou estabelecimento de saúde em que for ministrado o ensino da respectiva disciplina no quadro complementar de supranumerários, em lugar a extinguir com a cessação do contrato de docência ou com o ingresso em lugar do quadro daquela instituição ou estabelecimento de saúde.
+
+###### Art. 4.º - 1 - É assegurado aos professores auxiliares com o grau de chefe de serviço hospitalar, de saúde pública ou de consultor de clínica geral, bem como aos professores associados e catedráticos, o direito ao provimento, no quadro complementar de supranumerários, nas categorias e em lugares de chefe de serviço hospitalar, de saúde pública ou de consultor de clínica geral das instituições hospitalares ou dos estabelecimentos de saúde em que for ministrado o ensino da respectiva disciplina.
+
+2 - Aos professores auxiliares com o grau de assistente hospitalar, de saúde pública ou de clínica geral é assegurado o direito ao provimento nas categorias e em lugares de assistente hospitalar, de saúde pública ou de clínica geral, respectivamente, no quadro e estabelecimentos a que se reporta o número anterior.
+
+3 - Os lugares do quadro complementar de supranumerários previstos nos números anteriores serão extintos à medida que vagarem, por força da cessação do contrato de docência, no caso dos professores auxiliares, ou de não obtenção de provimento definitivo, no caso dos professores associados e catedráticos.
+
+###### Art. 5.º Os titulares de lugares dos quadros complementares de supranumerários previstos neste diploma poderão vir a preencher, de acordo com as respectivas especialidades, os lugares correspondentes do quadro hospitalar ou das instituições referidas no n.º 1 do artigo 1.º, nos termos das normas regulamentares de provimento.
+
+###### Art. 6.º São revogados os artigos 6.º e 8.º do [Decreto-Lei n.º 312/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665), de 26 de Setembro.
+
+Visto e aprovado em Conselho de Ministros de 15 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Roberto Artur da Luz Carneiro - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+**Promulgado em 19 de Julho de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 21 de Julho de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+MAPA TIPO ANEXO
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/17900/31423143.pdf))](https://files.diariodarepublica.pt/1s/1989/08/17900/31423143.pdf)

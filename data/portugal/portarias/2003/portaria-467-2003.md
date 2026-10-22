@@ -1,0 +1,547 @@
+---
+schema_version: '1.0'
+id: pt:dre:683053:por
+title: Portaria n.º 467/2003
+short_title: null
+summary: Estabelece as normas relativas às condições de emissão dos certificados de aptidão profissional (CAP) - área dos
+  serviços administrativos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Segurança Social e do Trabalho
+proposing_entity: null
+official_number: 467/2003
+official_date: null
+publication_date: '2003-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 131/2003, Série I-B de 2003-06-06
+  number: '131'
+  series: I
+  supplement: null
+  pages: 3418 - 3423
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/06/131b00/34183423.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/467/2003/06/06/p/dre/pt/html
+  oj: null
+  dre: '683053'
+  dre_path: /dr/detalhe/portaria/467-2003-683053
+  internal: pt:dre:683053:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/467-2003-683053
+  metadata_url: https://data.dre.pt/eli/port/467/2003/06/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/467-2003-683053
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-07-27T00:00:00Z'
+integrity:
+  source_sha256: e4bb1cd97d5537179bf69bb5d0f0ef743f17fe847dbc554787ddd8d38ce6cd99
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-467-683053.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Certificado de Aptidão Profissional
+- Instituto do Emprego e Formação Profissional
+- Formação Profissional
+- Certificação Profissional
+- Entidade Certificadora
+- Diploma
+- Qualificação Profissional
+relationships:
+- type: amended_by
+  target: pt:dre:669541:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31985D0368
+  label: null
+  source: http://data.europa.eu/eli/dec/1985/368/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 467/2003
+
+de 6 de Junho
+
+O Decreto-Lei n.º 95/92, de 23 de Maio, definiu o regime jurídico da certificação profissional relativa à formação inserida no mercado de emprego, na sequência dos princípios consagrados no Decreto-Lei n.º 401/91, de 16 de Outubro, sobre o enquadramento legal da formação profissional.
+
+O Decreto Regulamentar n.º 68/94, de 26 de Novembro, previsto no artigo 11.º do referido Decreto-Lei n.º 95/92, veio instituir as normas gerais para a obtenção de certificados de aptidão profissional, aplicáveis às vias da formação, da experiência e da equivalência de certificados ou outros títulos emitidos em Estados membros da União Europeia ou em países terceiros.
+
+É neste contexto que o Sistema Nacional de Certificação Profissional (SNCP) tem assumido uma função orientadora no sentido de promover a qualidade da formação profissional e contribuir para a criação de instrumentos que permitam comprovar competências adquiridas e outras condições de exercício para uma dada actividade profissional.
+
+O Acordo sobre Política de Emprego, Mercado de Trabalho, Educação e Formação, assinado em 9 de Fevereiro de 2001, entre o Governo e os parceiros sociais, vem sublinhar a importância do reforço e alargamento deste Sistema, identificando-o como uma das medidas promotoras de um emprego sustentável e de qualidade.
+
+Os serviços administrativos constituem uma área transversal ao conjunto dos sectores de actividade económica nacional, assumindo uma expressão significativa, quer em termos quantitativos relativos ao número de trabalhadores envolvidos quer pela importância da sua qualificação para a sustentação dos sectores em que exercem a actividade, tanto na esfera privada como na pública.
+
+Esta área profissional tem vindo, nos últimos anos, a beneficiar de uma grande evolução, derivada, essencialmente, da generalização da utilização de programas e aplicações informáticas e da transformação da própria organização do trabalho, que têm determinado uma crescente exigência a nível das competências e qualificações requeridas para o seu adequado exercício.
+
+A intervenção do SNCP neste sector pretende contribuir para a orientação das formações iniciais no sentido de as mesmas incluírem conteúdos compatíveis com as actuais e as futuras exigências do mercado de trabalho a nível das competências técnicas e comportamentais.
+
+Por outro lado, tem-se em vista promover a melhoria da qualificação dos trabalhadores já em exercício, criando condições que permitam a sua requalificação e adaptação a novas formas de organização de trabalho, com implicações a nível da melhoria da produtividade e qualidade dos empregos.
+
+Pretende ainda estabelecer mecanismos que permitam ver permanentemente reforçadas as competências e capacidade de adaptação destes profissionais, no seio de estruturas cada vez mais modernizadas e exigentes.
+
+O certificado de aptidão profissional (CAP) apresenta-se como uma garantia de que o profissional detém as competências e outras condições necessárias para o exercício da actividade, com a qualidade exigida pelos empregadores públicos e privados face à evolução previsível das suas organizações.
+
+A comissão técnica especializada dos serviços administrativos decidiu privilegiar a certificação de figuras profissionais que desempenhem funções de significativa complexidade, exigindo autonomias e responsabilidades bem marcadas, associadas a um nível 3 de qualificação da formação, como é o caso do(a) técnico(a) administrativo(a), do(a) técnico(a) de secretariado [secretário(a)] e do(a) técnico(a) de contabilidade.
+
+Decidiu ainda contemplar a certificação do(a) assistente administrativo(a), de nível 2, caracterizado por actividades essencialmente de execução, embora possam ser desenvolvidas com autonomia no limite das técnicas que lhe dizem respeito.
+
+Relativamente ao perfil profissional do(a) assistente administrativo(a), importa referir que a opção pela pertinência da sua certificação assenta no princípio de que seria incorrecto excluir do SNCP, nesta fase, muitos trabalhadores que, apesar de possuírem experiência profissional significativa, podem não reunir a totalidade dos requisitos mínimos de acesso ao CAP do(a) técnico(a) administrativo(a).
+
+Neste quadro, a certificação do(a) assistente administrativo(a) deverá ser reavaliada, no futuro, tendo em conta que a necessidade do mercado de emprego aponta para funções mais qualificadas, que se corporizam no(a) técnico(a) administrativo(a).
+
+Tendo em conta estes pressupostos, no presente diploma são estabelecidas as normas de emissão dos certificados de aptidão profissional e as condições de homologação dos cursos de formação profissional relativos aos perfis profissionais acima mencionados.
+
+A determinação e a configuração das figuras profissionais abrangidas por este diploma e as respectivas normas de certificação foram amplamente debatidas entre a Administração Pública e os parceiros sociais, no âmbito da Comissão Técnica Especializada dos Serviços Administrativos, e mereceram a aprovação da Comissão Permanente de Certificação em 19 de Setembro de 2002.
+
+Assim:
+
+Nos termos do n.º 3 do artigo 11.º do Decreto-Lei n.º 95/92, manda o Governo, pelo Secretário de Estado do Trabalho, o seguinte:
+
+1.º
+
+Objecto
+
+A presente portaria tem como objecto estabelecer as normas relativas às condições de emissão de certificados de aptidão profissional, adiante designados por CAP, e de homologação dos cursos de formação profissional relativos aos perfis profissionais de:
+
+a) Assistente administrativo(a);
+
+b) Técnico(a) administrativo(a);
+
+c) Técnico(a) de secretariado [secretário(a)];
+
+d) Técnico(a) de contabilidade.
+
+2.º
+
+Definição de conceitos
+
+1 - Relativamente a designações e conteúdos profissionais, entende-se por:
+
+a) «Assistente administrativo(a)» o(a) profissional que executa tarefas administrativas relativas ao funcionamento de uma empresa ou serviço público, seguindo procedimentos estabelecidos;
+
+b) «Técnico(a) administrativo(a)» o(a) profissional que organiza e executa tarefas administrativas relativas ao funcionamento de uma empresa ou serviço público;
+
+c) «Técnico(a) de secretariado [secretário(a)]» o(a) profissional que assegura a organização e execução de actividades de secretariado no apoio à chefia/direcção de uma empresa ou serviço público;
+
+d) «Técnico(a) de contabilidade» o(a) profissional que organiza e efectua o registo e tratamento de dados contabilísticos de uma empresa ou serviço público.
+
+2 - Relativamente a tipos de formação, entende-se por:
+
+a) «Formação de qualificação inicial» todas as formações que permitem a aquisição do conjunto de competências definidas no perfil profissional e, assim sendo, dão acesso directo ao CAP;
+
+b) «Formação complementar específica» todas as formações que visem a obtenção das competências em falta, por referência ao conjunto de competências definidas no perfil profissional a cujo CAP o indivíduo se candidata;
+
+c) «Formação contínua de actualização» todas as formações que visem a necessária actualização de competências para efeitos de renovação do CAP.
+
+3 - Relativamente a habilitações escolares, entende-se por:
+
+a) «Escolaridade obrigatória» a legalmente exigida em função da data de nascimento do candidato ao CAP;
+
+b) «Ensino secundário» 11 ou 12 anos de escolaridade, conforme a legislação em vigor à data em que o candidato ao CAP concluiu o ensino secundário.
+
+3.º
+
+Entidade certificadora
+
+O Instituto do Emprego e Formação Profissional é a entidade certificadora com competência para emitir CAP relativos aos perfis profissionais identificados no n.º 1.º, assim como homologar os cursos de formação profissional.
+
+4.º
+
+Manual de certificação
+
+1 - A entidade certificadora deve elaborar e divulgar um manual de certificação que descreva os procedimentos relativos à apresentação e avaliação das candidaturas, à emissão dos CAP referentes aos perfis profissionais identificados no n.º 1.º e às condições de homologação dos respectivos cursos de formação, tendo em conta o disposto na presente portaria.
+
+2 - O manual de certificação deve descrever as condições em que as entidades formadoras poderão proceder à análise e creditação de formações parciais e de qualificações já detidas pelos formandos que ingressem numa formação complementar específica.
+
+5.º
+
+Requisitos de acesso ao certificado de aptidão profissional
+
+1 - O CAP de assistente administrativo(a) pode ser obtido por candidatos que detenham o 9.º ano de escolaridade ou equivalente e estejam numa das seguintes situações:
+
+a) Tenham concluído com aproveitamento curso de formação de qualificação inicial de assistente administrativo(a), homologado nos termos definidos no presente diploma;
+
+b) Tenham concluído com aproveitamento formação complementar específica organizada para colmatar as competências em falta por referência às definidas no perfil profissional;
+
+c) Tenham exercido, comprovadamente, por um período mínimo de cinco anos actividade profissional na área administrativa e tenham obtido aproveitamento no processo de avaliação previsto no n.º 14.º da presente portaria;
+
+d) Sejam detentores de certificados ou outros títulos, emitidos por entidade reconhecida no âmbito da União Europeia ou, em caso de reciprocidade de tratamento, em países terceiros, que titulem competências idênticas às preconizadas para a emissão do CAP de assistente administrativo(a).
+
+2 - O CAP de técnico(a) administrativo(a) pode ser obtido por candidatos que detenham o ensino secundário completo ou equivalente e estejam numa das seguintes situações:
+
+a) Tenham concluído com aproveitamento curso de formação de qualificação inicial de técnico(a) administrativo(a), homologado nos termos definidos no presente diploma;
+
+b) Tenham concluído com aproveitamento formação complementar específica organizada para colmatar as competências em falta por referência às definidas no perfil profissional a que se candidatam;
+
+c) Tenham exercido, comprovadamente, por um período mínimo de cinco anos actividade profissional na área administrativa e tenham obtido aproveitamento no processo de avaliação previsto no n.º 14.º da presente portaria;
+
+d) Sejam detentores de certificados ou outros títulos, emitidos por entidade reconhecida no âmbito da União Europeia ou, em caso de reciprocidade de tratamento, em países terceiros, que titulem competências idênticas às preconizadas para a emissão do CAP de técnico(a) administrativo(a);
+
+e) O CAP de técnico(a) administrativo pode, ainda, ser obtido pelos candidatos que detenham o CAP de assistente administrativo(a) e que venham a possuir, simultaneamente, o ensino secundário ou equivalente e trezentas horas de formação específica.
+
+3 - O CAP de técnico(a) de secretariado [secretário(a)] pode ser obtido por candidatos que detenham o ensino secundário completo ou equivalente e estejam numa das seguintes situações:
+
+a) Tenham concluído com aproveitamento curso de formação de qualificação inicial de técnico(a) de secretariado [secretário(a)], homologado nos termos definidos no presente diploma;
+
+b) Tenham concluído com aproveitamento formação complementar específica organizada para colmatar as competências em falta por referência às definidas no perfil profissional a que se candidatam;
+
+c) Tenham exercido, comprovadamente, por um período mínimo de cinco anos actividade profissional na área de secretariado e tenham obtido aproveitamento no processo de avaliação previsto no n.º 14.º da presente portaria;
+
+d) Sejam detentores de certificados ou outros títulos, emitidos por entidade reconhecida no âmbito da União Europeia ou, em caso de reciprocidade de tratamento, em países terceiros, que titulem competências idênticas às preconizadas para a emissão do CAP de técnico(a) de secretariado [secretário(a)].
+
+4 - O CAP de técnico(a) de contabilidade pode ser obtido por candidatos que detenham o ensino secundário completo ou equivalente e estejam numa das seguintes situações:
+
+a) Tenham concluído com aproveitamento curso de formação de qualificação inicial de técnico(a) de contabilidade, homologado nos termos definidos no presente diploma;
+
+b) Tenham concluído com aproveitamento formação complementar específica organizada para colmatar as competências em falta por referência às definidas no perfil profissional a que se candidatam;
+
+c) Tenham exercido, comprovadamente, por um período mínimo de quatro anos nos últimos cinco anos actividade profissional na área de contabilidade e tenham obtido aproveitamento no processo de avaliação previsto no n.º 14.º da presente portaria;
+
+d) Sejam detentores de certificados ou outros títulos, emitidos por entidade reconhecida no âmbito da União Europeia ou, em caso de reciprocidade de tratamento, em países terceiros, que titulem competências idênticas às preconizadas para a emissão do CAP de técnico(a) de contabilidade.
+
+6.º
+
+Candidatura ao certificado de aptidão profissional
+
+1 - Os procedimentos relativos à apresentação das candidaturas ao CAP, nomeadamente local, prazos e documentação, devem ser estabelecidos no manual de certificação.
+
+2 - Pode ser exigido ao candidato comprovação da actualização de competências quando o título que fundamenta a certificação, quer pela via da formação homologada quer pela via da equivalência de títulos, tiver sido emitido há mais de cinco anos.
+
+7.º
+
+Comprovação do tempo de exercício profissional
+
+O tempo mínimo de exercício profissional, para efeitos das alíneas c) dos n.os 1 a 4 do n.º 5.º, deve ser objecto de comprovação mediante a apresentação de documentos emitidos por uma ou mais das seguintes entidades:
+
+a) Segurança social;
+
+b) Entidades empregadoras;
+
+c) Sindicatos;
+
+d) Associações profissionais;
+
+e) Instituto de Desenvolvimento e Inspecção das Condições de Trabalho - IDICT;
+
+f) Outras, a definir no manual de certificação.
+
+8.º
+
+Formação complementar específica
+
+1 - Podem ter acesso à formação complementar específica os candidatos que estejam numa das seguintes situações:
+
+a) Não tenham obtido aproveitamento no processo de avaliação previsto no n.º 14.º da presente portaria;
+
+b) Sejam titulares de um CAP na área dos serviços administrativos ao qual corresponda o mesmo nível de qualificação da formação;
+
+c) Detenham formações parciais e qualificações consideradas relevantes pela entidade certificadora, de acordo com os perfis a que se refere a presente portaria.
+
+2 - A duração da formação complementar específica e os respectivos conteúdos programáticos fundamentais devem ser organizados em função das competências detidas por cada candidato por forma a permitir a obtenção das restantes competências definidas no perfil profissional.
+
+3 - A entidade certificadora poderá atribuir à entidade formadora, nas condições previstas no manual de certificação mencionado no n.º 4.º, competência para proceder à análise e creditação das formações parciais e qualificações já detidas pelo candidato.
+
+9.º
+
+Homologação de cursos de formação de qualificação inicial de assistente administrativo(a)
+
+1 - Para efeitos de homologação, o curso de formação de qualificação inicial de assistente administrativo(a) deve ser organizado de forma a permitir a obtenção das competências definidas no perfil profissional, o que aponta para durações não inferiores a novecentas horas, e respeitar as demais condições definidas no manual de certificação.
+
+2 - Sem prejuízo do disposto no número anterior, o curso de formação de qualificação inicial de assistente administrativo(a) deve integrar uma componente teórica e uma componente prática a desenvolver em contexto de formação e em contexto real de trabalho, ter em conta a modalidade e o contexto formativo, devendo ainda utilizar como orientação o seguinte referencial:
+
+Domínio sócio-cultural:
+
+Segurança, higiene e saúde no trabalho;
+
+Desenvolvimento pessoal, profissional e social;
+
+Legislação laboral e da actividade profissional;
+
+Domínio científico-tecnológico:
+
+Estrutura, funcionamento e cultura organizacional;
+
+Organização do trabalho;
+
+Informática (introdução à informática na óptica do utilizador e aplicações informáticas de escritório);
+
+Organização da correspondência;
+
+Documentação e circuitos administrativos;
+
+Técnicas de arquivo e documentais;
+
+Comunicação e relações interpessoais;
+
+Normas de sistemas de gestão da qualidade;
+
+Língua portuguesa aplicada à função (técnica).
+
+10.º
+
+Homologação de cursos de formação de qualificação inicial de técnico(a) administrativo(a)
+
+1 - Para efeitos de homologação, o curso de formação de qualificação inicial de técnico(a) administrativo(a) deve ser organizado de forma a permitir a obtenção das competências definidas no perfil profissional, o que aponta para durações não inferiores a mil e duzentas horas, e respeitar as demais condições definidas no manual de certificação.
+
+2 - Sem prejuízo do disposto no número anterior, o curso de formação de qualificação inicial de técnico(a) administrativo(a) deve integrar uma componente teórica e uma componente prática em contexto de formação e em contexto real de trabalho, ter em conta a modalidade e o contexto formativo, devendo ainda utilizar como orientação o seguinte referencial:
+
+Domínio sócio-cultural:
+
+Segurança, higiene e saúde no trabalho;
+
+Desenvolvimento pessoal, profissional e social;
+
+Domínio científico-tecnológico:
+
+Estrutura, funcionamento e cultura organizacional;
+
+Organização do trabalho e gestão do tempo;
+
+Língua portuguesa aplicada à função (técnica);
+
+Língua estrangeira aplicada à função (técnica);
+
+Legislação comercial;
+
+Legislação laboral;
+
+Informática (informática na óptica do utilizador, aplicações informáticas de escritório e Internet);
+
+Organização da correspondência;
+
+Documentação e circuitos administrativos;
+
+Gestão de stocks e aprovisionamento;
+
+Técnicas de arquivo e documentais;
+
+Comunicação e relações interpessoais;
+
+Contabilidade geral;
+
+Legislação fiscal;
+
+Gestão dos recursos humanos;
+
+Normas de sistemas de gestão da qualidade.
+
+11.º
+
+Homologação de cursos de formação de qualificação inicial de técnico(a) de secretariado [secretário(a)]
+
+1 - Para efeitos de homologação, o curso de formação de qualificação inicial de técnico(a) de secretariado [secretário(a)] deve ser organizado de forma a permitir a obtenção das competências definidas no perfil profissional, o que aponta para durações não inferiores a mil e duzentas horas, e respeitar as demais condições definidas no manual de certificação.
+
+2 - Sem prejuízo do disposto no número anterior, o curso de formação de qualificação inicial de técnico(a) de secretariado [secretário(a)] deve integrar uma componente teórica e uma componente prática a desenvolver em contexto de formação e em contexto real de trabalho, ter em conta a modalidade e o contexto formativo, devendo ainda utilizar como orientação o seguinte referencial:
+
+Domínio sócio-cultural:
+
+Segurança, higiene e saúde no trabalho;
+
+Desenvolvimento pessoal, profissional e social;
+
+Domínio científico-tecnológico:
+
+Organização e administração de empresas;
+
+Organização do trabalho e gestão do tempo;
+
+Legislação laboral;
+
+Legislação fiscal;
+
+Legislação comercial;
+
+Informática (introdução à informática na óptica do utilizador, aplicações de secretariado e Internet);
+
+Documentação e circuitos administrativos;
+
+Técnicas de arquivo e documentais;
+
+Comunicação e relações interpessoais;
+
+Língua portuguesa aplicada à função (técnica, comercial e protocolar);
+
+Atendimento e protocolo;
+
+Inglês ou francês técnico e outra língua estrangeira técnica;
+
+Técnicas de tradução e retroversão;
+
+Normas de sistemas de gestão da qualidade.
+
+12.º
+
+Homologação de cursos de formação de qualificação inicial de técnico(a) de contabilidade
+
+1 - Para efeitos de homologação, o curso de formação de qualificação inicial de técnico(a) de contabilidade deve ser organizado de forma a permitir a obtenção das competências definidas no perfil profissional, o que aponta para durações não inferiores a mil e quatrocentas horas, e respeitar as demais condições definidas no manual de certificação.
+
+2 - Sem prejuízo do disposto no número anterior, o curso de formação de qualificação inicial de técnico(a) de contabilidade deve integrar uma componente teórica e uma componente prática a desenvolver em contexto de formação e em contexto real de trabalho, ter em conta a modalidade e o contexto formativo, devendo ainda utilizar como orientação o seguinte referencial:
+
+Domínio sócio-cultural:
+
+Segurança, higiene e saúde no trabalho;
+
+Desenvolvimento pessoal, profissional e social;
+
+Domínio científico-tecnológico:
+
+Língua portuguesa aplicada à função (técnica e comercial);
+
+Língua estrangeira aplicada à função (técnica);
+
+Informática (informática na óptica do utilizador e aplicações informáticas de contabilidade);
+
+Estrutura, funcionamento e cultura organizacional;
+
+Organização do trabalho e gestão do tempo;
+
+Análise financeira e gestão de orçamentos;
+
+Cálculo comercial e financeiro;
+
+Contabilidade geral, analítica e orçamental - Planos Oficiais de Contabilidade (para a empresa ou serviço público);
+
+Fiscalidade;
+
+Estatística;
+
+Legislação laboral;
+
+Legislação comercial;
+
+Legislação das sociedades;
+
+Documentação e circuitos administrativos;
+
+Técnicas de arquivo e documentais;
+
+Comunicação e relações interpessoais;
+
+Normas de sistemas de gestão da qualidade.
+
+13.º
+
+Nível de qualificação da formação
+
+1 - O curso de formação profissional de assistente administrativo(a) referido no n.º 9.º enquadra-se no nível 2 de qualificação definido na tabela de níveis de formação da União Europeia, de acordo com a Decisão do Conselho n.º [85/368/CEE](http://data.europa.eu/eli/dec/1985/368/oj?locale=pt), de 16 de Julho.
+
+2 - Os cursos de técnico(a) administrativo(a), técnico(a) de secretariado [secretário(a)] e de técnico(a) de contabilidade referidos nos n.os 10.º, 11.º e 12.º enquadram-se no nível 3 de qualificação definido na tabela de níveis de formação da União Europeia, de acordo com a Decisão do Conselho n.º [85/368/CEE](http://data.europa.eu/eli/dec/1985/368/oj?locale=pt), de 16 de Julho.
+
+14.º
+
+Processo de avaliação
+
+O processo de avaliação, que comprova que foram adquiridas as competências definidas no perfil profissional a cujo CAP o indivíduo se candidata, compreende:
+
+a) Pela via da formação, a apresentação de certificados de formação profissional homologada, sem prejuízo do disposto no n.º 2 do n.º 6.º;
+
+b) Pela via da experiência, a análise do currículo e realização de entrevista técnica, bem como, se o júri o entender, a prestação de provas;
+
+c) Pela via da equivalência de títulos, a análise dos diplomas, certificados ou outros títulos, de que o candidato seja possuidor, sem prejuízo do disposto no n.º 2 do n.º 6.º
+
+15.º
+
+Validade do certificado de aptidão profissional
+
+1 - O CAP de assistente administrativo(a) é válido por um período de oito anos.
+
+2 - Os CAP de técnico(a) de contabilidade, de técnico(a) administrativo(a) e de técnico(a) de secretariado são válidos por um período de cinco anos.
+
+16.º
+
+Renovação do certificado de aptidão profissional
+
+1 - A renovação do CAP de assistente administrativo(a) está dependente da manutenção das competências, através da actualização científica e técnica obtida pelo preenchimento cumulativo das seguintes condições, durante o período de validade do CAP:
+
+a) Exercício profissional de pelo menos três anos comprovado nos termos do n.º 7.º da presente portaria;
+
+b) Formação contínua de actualização considerada adequada pela entidade certificadora, através da frequência de, pelo menos, cem horas.
+
+2 - A renovação dos CAP de técnico(a) administrativo(a), de técnico(a) de secretariado [secretário(a)] e de técnico(a) de contabilidade está dependente da manutenção das competências, através da actualização científica e técnica obtida pelo preenchimento cumulativo das seguintes condições:
+
+a) Exercício profissional de pelo menos dois anos comprovado nos termos do n.º 7.º da presente portaria;
+
+b) Formação contínua de actualização considerada adequada pela entidade certificadora, através da frequência de, pelo menos, oitenta horas.
+
+3 - Sem prejuízo da alínea b) dos n.os 1 e 2, o não cumprimento das condições exigidas na alínea a) dos mesmos números, para efeitos de renovação do CAP, implica a frequência de formação contínua de actualização, com a duração mínima de trinta horas e considerada adequada pela entidade certificadora.
+
+4 - O não cumprimento da totalidade da formação de actualização científica e técnica necessária para a renovação do CAP prevista na alínea b) dos n.os 1 e 2 implica a frequência de formação que permita completar a carga horária preconizada, acrescida de vinte horas de formação contínua de actualização considerada adequada pela entidade certificadora.
+
+5 - Os candidatos devem solicitar a renovação do CAP nos 90 dias anteriores à data da sua caducidade e nos termos definidos no manual de certificação.
+
+6 - Caso não seja requerida a renovação do CAP no prazo previsto no número anterior, os candidatos podem solicitar a sua renovação desde que, nos cinco anos anteriores à data do pedido de renovação, cumpram o disposto nos n.os 1 a 4, consoante os casos.
+
+17.º
+
+Perfis profissionais
+
+Os perfis profissionais referenciados no n.º 1.º e cujas normas de certificação constituem objecto da presente portaria são publicados no Boletim do Trabalho e Emprego, por iniciativa dos serviços competentes para o efeito.
+
+18.º
+
+Modelo de certificado de aptidão profissional
+
+Os CAP de assistente administrativo(a), técnico(a) administrativo(a), técnico(a) de secretariado [secretário(a)] e de técnico(a) de contabilidade devem obedecer ao modelo que constitui anexo deste diploma.
+
+19.º
+
+Disposições transitórias
+
+1 - Os candidatos que tenham concluído, com aproveitamento, cursos de formação considerados adequados pela entidade certificadora, ou os venham a iniciar até um ano após a entrada em vigor da presente portaria, podem solicitar a emissão do competente CAP com base no certificado relativo à formação concluída.
+
+2 - Os candidatos à certificação de assistente administrativo(a) pela via da experiência podem aceder ao CAP desde que possuam a escolaridade obrigatória e tenham exercido, comprovadamente, por um período mínimo de oito anos actividade profissional na área administrativa ou de secretariado e tenham obtido aproveitamento no processo de avaliação previsto no n.º 14.º da presente portaria.
+
+3 - Os candidatos à certificação de técnico(a) administrativo(a) e de técnico(a) de secretariado [secretário(a)] pela via da experiência podem aceder ao CAP desde que possuam o 9.º ano de escolaridade ou equivalente e tenham exercido, comprovadamente, por um período mínimo de oito anos, actividade profissional na área administrativa ou de secretariado e tenham obtido aproveitamento no processo de avaliação previsto no n.º 14.º da presente portaria.
+
+4 - Os candidatos à certificação de técnico(a) de contabilidade pela via da experiência podem aceder ao CAP desde que possuam o 9.º ano de escolaridade ou equivalente e tenham exercido, comprovadamente, por um período mínimo de cinco anos nos últimos seis, actividade profissional na área da contabilidade e tenham obtido aproveitamento no processo de avaliação previsto no n.º 14.º da presente portaria.
+
+5 - Os candidatos podem solicitar a emissão do CAP, nos termos dos números anteriores, durante um período de cinco anos após a entrada em vigor deste diploma.
+
+20.º
+
+Entrada em vigor
+
+A presente portaria entra em vigor decorridos 90 dias após a data da sua publicação.
+
+**O Secretário de Estado do Trabalho, Luís Miguel Pais Antunes, em 14 de Abril de 2003.**
+
+## ANEXO — [(ver modelo no documento original)](https://files.diariodarepublica.pt/1s/2003/06/131b00/34183423.pdf)

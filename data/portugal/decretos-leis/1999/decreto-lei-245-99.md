@@ -1,0 +1,684 @@
+---
+schema_version: '1.0'
+id: pt:dre:392035:por
+title: Decreto-Lei n.º 245/99
+short_title: null
+summary: Estabelece os princípios relativos à organização dos controlos oficiais no domínio da alimentação animal. Transpõe
+  para a ordem jurídica interna a Directiva n.º 95/53/CE, do Conselho, de 25 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 245/99
+official_date: null
+publication_date: '1999-06-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/1999, Série I-A de 1999-06-28
+  number: '148'
+  series: I
+  supplement: null
+  pages: 3952 - 3967
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/06/148a00/39523967.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2002-11-09'
+version_history:
+  file: decreto-lei-245-99.versoes.json
+  count: 2
+  source_lastmod: '2025-07-17'
+  versions:
+  - date: '1999-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-11-09'
+    amending: pt:dre:425479:por
+    amending_title: Decreto-Lei n.º 247/2002
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Capítulo V
+    - Adita Artigo 19.º-A
+    - Adita Artigo 19.º-B
+    - Adita Capítulo VI
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
+    - Altera Capítulo IV
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 25.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/245/1999/p/cons/20021108/pt/html
+  oj: null
+  dre: '392035'
+  dre_path: /dr/detalhe/decreto-lei/245-1999-392035
+  internal: pt:dre:392035:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-1999-392035
+  metadata_url: https://data.dre.pt/eli/dec-lei/245/1999/p/cons/20021108/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-925224374
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-925224374
+  retrieved_at: '2026-10-22T13:32:12Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-07-17T00:00:00Z'
+integrity:
+  source_sha256: 26646520d43fca7dbd4714c5f0f9c97d20c7b4e9f9ed9259d06a02aa8187c237
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:32:12Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-245-99.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produto Alimentar
+- Agente Económico
+- Análise Laboratorial
+- Aproximação das Legislações
+- Região Autónoma
+- Autoridade Nacional
+- Empresa
+- Multa
+- Proteção dos Animais
+- Comunidade Europeia
+- Contra-ordenação
+- Controlo de Qualidade
+- Direção Geral de Veterinária
+- Saúde
+- Definição de Competências
+- Direcção Regional de Agricultura
+- Direcção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Diretor Geral
+- Concorrência
+- Documentação
+- Controlo Sanitário
+- Saúde Pública
+- Estabelecimento Industrial
+- Etiquetagem
+- Fabrico Industrial
+- Fiscalização
+- Comissão CE
+- Infracção Antieconómica
+- Higiene Alimentar
+- Importação
+- Laboratório Nacional de Investigação Veterinária
+- Ministro da Agricultura do Desenvolvimento Rural e das Pescas
+- Circulação de Mercadorias
+- Proteção do Ambiente
+- Pessoa Coletiva
+- Pessoa Singular
+- Política Agrícola Comum
+- Política Alimentar
+- Prazo
+- Exportação
+- Aditivo Alimentar
+- Madeira.região Autónoma
+- Proteção do Consumidor
+- Alimento para Animais
+- Receita
+- Produção Agrícola
+- Registo Obrigatório
+- Indústria Alimentar
+- Sanção
+- Sanção Económica
+- Segredo Profissional
+- Administração Regional
+- Açores
+- Taxa
+- Comércio
+- Produto Animal
+- Venda
+- Saúde Animal
+relationships:
+- type: amended_by
+  target: pt:dre:425479:por
+  label: Adita Artigo 5.º-A; Adita Capítulo V; Adita Artigo 19.º-A; Adita Artigo 19.º-B; Adita Capítulo VI; Altera Artigo
+    2.º; Altera Artigo 8.º; Altera Capítulo IV; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo
+    15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 25.º; Altera Artigo 19.º; Altera Artigo
+    20.º; Altera Artigo 21.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479
+  date: '2002-11-08'
+- type: cites
+  target: celex:31995L0053
+  label: null
+  source: http://data.europa.eu/eli/dir/1995/53/oj
+- type: transposes
+  target: celex:31995L0053
+  label: null
+  source: null
+article_structure:
+  article_count: 29
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:32:12Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 245/99
+
+Decreto-Lei n.º 245/99
+
+de 28 de Junho
+
+A alimentação animal ocupa um lugar de destaque na agricultura da Comunidade, face às implicações directas que tem ao nível da saúde animal e da saúde humana e aos elevados montantes económicos que movimenta;
+
+A adopção dos princípios relativos à organização dos controlos oficiais no domínio da alimentação animal contribui, inequivocamente, para a prevenção dos riscos na saúde animal, saúde humana e meio ambiente e pretende assegurar a concorrência leal entre os agentes económicos do sector e proteger o interesse dos consumidores;
+
+É necessário regulamentar a organização dos controlos oficiais dos alimentos para animais, devido à grande diversidade de produtos utilizados, ao volume significativo das transacções comerciais, à estrutura integrada do sector e, em especial, à necessidade de garantir simultaneamente a salubridade e inocuidade dos alimentos a consumir pelos animais e a qualidade dos géneros alimentícios;
+
+Para alcançar o objectivo pretendido, os princípios definidos no presente diploma devem abranger o conjunto dos produtos e substâncias utilizados em alimentação animal autorizados ao nível comunitário, pelo que é conveniente organizarem-se, em simultâneo, os controlos dos produtos destinados à alimentação animal, colocados em livre prática no espaço comunitário;
+
+Os controlos, para serem eficazes, devem ser realizados regularmente, não devem estar sujeitos a limitações quanto ao objecto, à fase ou ao momento da sua realização e devem ser efectuados da forma mais adequada a atingir o fim que se propõem;
+
+É necessário prever que pelo facto de um qualquer produto para alimentação animal se destinar à exportação não deve ser excluído de um controlo adequado, por forma a assegurar que os processos de controlo levados a cabo pelas autoridades competentes mais dificilmente possam ser desvirtuados;
+
+Devem, pois, introduzir-se mecanismos que garantam que os produtos provenientes de países terceiros são submetidos a um controlo documental e de identidade por amostragem antes de lhes ser conferida a livre prática de introdução no espaço comunitário;
+
+É conveniente designar os pontos de entrada no território nacional para os produtos destinados à alimentação animal, de modo a assegurar o desempenho eficaz do controlo dos produtos importados, bem como definir os princípios relativos à execução a dar aos controlos realizados pelas autoridades competentes;
+
+Em relação ao comércio intracomunitário, é conveniente dar especial realce aos controlos a efectuar na origem, sem contudo se excluir, em caso de suspeita de irregularidades, o controlo no local de destino e durante o transporte, bem como é necessário prever o procedimento a seguir na sequência de um controlo no qual se verifique a existência de irregularidades;
+
+Por motivos de eficácia, é competência do Estado membro de expedição certificar-se da conformidade dos produtos com a regulamentação comunitária e que, em caso de infracção, os serviços da Comissão da União Europeia actuem em colaboração com os Estados membros interessados, nomeadamente deslocando-se ao local e adoptando as medidas adequadas à situação;
+
+É conveniente, igualmente, adoptar métodos oficiais para todas as formas de colheitas de amostras, bem como adoptar os métodos oficiais de análise necessários à realização dos controlos oficiais dos alimentos para animais;
+
+Por último, importa transpor para o direito interno as disposições comunitárias constantes da Directiva n.º 95/53/CE, do Conselho, de 25 de Outubro, que fixa os princípios relativos à organização dos controlos oficiais no domínio da alimentação animal:
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Disposições introdutórias
+
+###### Artigo 1.º — Âmbito de aplicação
+
+1 - O presente decreto-lei estabelece os princípios relativos à organização dos controlos oficiais no domínio da alimentação animal, nomeadamente para verificar a conformidade com as disposições legais que regulam:
+
+a) O fabrico, comercialização e utilização de aditivos nos alimentos para animais;
+
+b) As substâncias e produtos indesejáveis nos alimentos simples, matérias-primas e alimentos compostos destinados à alimentação animal;
+
+c) A comercialização de alimentos simples para animais;
+
+d) A comercialização de alimentos compostos para animais;
+
+e) A comercialização e utilização de produtos proteicos obtidos a partir de microrganismos, de compostos azotados não proteicos, de ácidos aminados e seus sais e de análogos hidroxilados dos ácidos aminados em alimentação animal;
+
+f) A comercialização e utilização de alimentos para animais com objectivos nutricionais específicos/dietéticos.
+
+2 - O disposto no número anterior aplica-se igualmente a qualquer outra regulamentação no domínio da alimentação animal em que se estabeleça que os controlos oficiais são efectuados de acordo com as disposições do presente diploma.
+
+3 - O disposto no presente diploma é aplicável sem prejuízo de legislação nacional mais específica, nomeadamente as disposições regulamentares relativas à legislação aduaneira e à legislação veterinária.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma entende-se por:
+
+a) Controlo oficial no domínio da alimentação animal, a seguir designado «controlo» - o controlo efectuado pela autoridade competente para verificar a conformidade com as disposições nacionais previstas nos n.os 1 e 2 do artigo 1.º do presente diploma;
+
+b) Controlo documental - a verificação dos documentos que acompanham o produto ou de quaisquer outros dados relativos ao produto;
+
+c) Controlo de identidade - a verificação, por simples inspecção visual, da concordância entre os documentos, a rotulagem e os produtos;
+
+d) Controlo físico - o controlo do próprio produto, podendo eventualmente incluir colheita de amostras para análise laboratorial;
+
+e) Produto destinado à alimentação animal ou produto - o alimento para animais ou qualquer substância utilizada na alimentação animal;
+
+f) Autoridade competente - a Direcção-Geral de Veterinária (DEV), que é a autoridade nacional competente para coordenar o sistema nacional de controlo oficial no domínio da alimentação animal sendo igualmente a autoridade interlocutora, sobre a matéria, com a Comissão da União Europeia, podendo, sempre que necessário, recorrer à colaboração de outras entidades, designadamente mediante a celebração de protocolos;
+
+g) Estabelecimento - qualquer empresa que proceda à produção ou ao fabrico de um produto, ou que o detenha numa fase intermédia antes da sua colocação em circulação, incluindo a da transformação e a da embalagem, ou que coloque o produto em circulação;
+
+h) Colocação em circulação ou circulação - a detenção de produtos destinados à alimentação animal para efeitos de venda, incluindo a proposta de venda ou de qualquer outra forma de transmissão para terceiros, a título gratuito ou oneroso, bem como a própria venda e qualquer outra forma de transmissão;
+
+i) Operador/receptor - qualquer pessoa que detenha os referidos produtos destinados a ser colocados em circulação ou utilização, provenientes do comércio intracomunitário;
+
+j) Aditivos - as substâncias ou seus preparados utilizados em alimentação animal com a finalidade de:
+
+i) Influenciar favoravelmente as características das matérias-primas para alimentação animal ou dos alimentos compostos para animais ou dos produtos animais; ou
+
+ii) Satisfazer as necessidades nutricionais dos animais ou melhorar a produção animal, nomeadamente influenciando a flora gastrointestinal ou a digestibilidade dos alimentos para animais; ou
+
+iii) Introduzir na alimentação elementos favoráveis para atingir objectivos nutricionais específicos ou para corresponder a necessidades nutricionais específicas momentâneas dos animais; ou
+
+iv) Prevenir ou reduzir os incómodos provocados pelos dejectos dos animais ou melhorar o ambiente dos animais;
+
+l) Pré-mistura - as misturas de aditivos entre si ou as misturas de um ou vários aditivos em excipiente apropriado destinadas ao fabrico de alimentos para animais;
+
+m) Matérias-primas para alimentação animal - os diversos produtos de origem vegetal ou animal no seu estado natural, frescos ou conservados, bem como os produtos derivados da sua transformação industrial e as substâncias orgânicas ou inorgânicas, com ou sem aditivos, destinados a ser utilizados na alimentação animal por via oral, quer directamente, sem transformação, quer, após transformação, na preparação de alimentos compostos para animais ou como suportes em pré-misturas;
+
+n) Alimentos compostos para animais - as misturas de matérias-primas para alimentação animal, com ou sem aditivos, destinadas à alimentação animal por via oral, sob a forma de alimentos completos ou complementares;
+
+o) Alimentos completos para animais - as misturas de alimentos que, pela sua composição, são suficientes para assegurar a ração diária;
+
+p) Alimentos complementares para animais - as misturas de alimentos contendo teores elevados de certas substâncias e que, pela sua composição, não asseguram a ração diária senão quando associados a outros alimentos para animais;
+
+q) Alimentos minerais - os alimentos complementares constituídos principalmente por minerais e contendo, pelo menos, 40% de cinza total;
+
+r) Ração diária - a quantidade total de alimentos, referida a um teor de humidade de 12%, necessária, em média, por dia a um animal de uma espécie, idade, função e rendimento zootécnico bem definidos, para satisfazer o conjunto das suas necessidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+### Capítulo II — Obrigatoriedade de registo prévio e de aviso prévio no âmbito do comércio intracomunitário e das importações provenientes de países terceiros
+
+###### Artigo 3.º — Registo e aviso prévio no âmbito do comércio intracomunitário
+
+1 - No âmbito do comércio intracomunitário, os operadores/receptores abrangidos pela definição da alínea i) do artigo 2.º do presente decreto-lei a quem sejam fornecidos, a qualquer título, ou coloquem em circulação, aditivos, pré-misturas, produtos proteicos obtidos a partir de microrganismos, de compostos azotados não proteicos, de ácidos aminados e seus sais e de análogos hidroxilados de ácidos aminados, matérias-primas para alimentação animal e alimentos compostos para animais ficam sujeitos a um registo prévio obrigatório na Direcção-Geral de Veterinária (DGV), para efeitos de controlo e obtenção do número de operador/receptor no domínio dos produtos da alimentação animal.
+
+2 - Para efeitos do n.º 1, os operadores/receptores devem inscrever-se junto da DGV, mediante requerimento dirigido ao director-geral de Veterinária, de acordo com o modelo constante do anexo X ao presente diploma, do qual faz parte integrante, no prazo máximo de 60 dias a contar da data de entrada em vigor do presente diploma ou do início da sua actividade, donde constem os seguintes elementos:
+
+a) Nome ou denominação social;
+
+b) Sede social;
+
+c) Natureza jurídica;
+
+d) Número de identificação de pessoa colectiva ou empresário em nome individual;
+
+e) Local ou locais de armazenagem;
+
+f) Responsável ou responsáveis pela actividade.
+
+3 - Os agentes económicos referidos no n.º 1 devem comunicar à DGV, através de aviso prévio, com a antecedência mínima de quarenta e oito horas, em impresso próprio, devidamente preenchido, consoante o caso, conforme consta dos anexos II, III, IV, V, VI, VII, VIII e IX ao presente diploma, do qual fazem parte integrante, a chegada dos produtos destinados à alimentação animal, de modo a permitir a realização dos controlos referidos no n.º 1 do artigo 9.º, nos n.os 1 e 2 do artigo 12.º e nos n.os 1 e 2 do artigo 13.º
+
+###### Artigo 4.º — Registo e aviso prévio no âmbito das importações de países terceiros
+
+1 - No âmbito das importações provenientes de países terceiros, os agentes económicos a quem sejam fornecidos, a qualquer título, ou coloquem em circulação, aditivos, pré-misturas, produtos proteicos obtidos a partir de microrganismos, de compostos azotados não proteicos, de ácidos aminados e seus sais e de análogos hidroxilados de ácidos aminados, matérias-primas para alimentação animal e alimentos compostos para animais ficam sujeitos a um registo prévio obrigatório na DGV, para efeitos de controlo no domínio dos produtos da alimentação animal.
+
+2 - Para efeitos do n.º 1, os agentes económicos importadores devem inscrever-se junto da DGV, mediante requerimento dirigido ao director-geral de Veterinária, de acordo com o modelo constante do anexo XI ao presente diploma, do qual faz parte integrante, no prazo máximo de 60 dias a contar da data de entrada em vigor do presente diploma ou do início da sua actividade, donde constem os seguintes elementos:
+
+a) Nome ou denominação social;
+
+b) Sede social;
+
+c) Natureza jurídica
+
+d) Número de identificação de pessoa colectiva ou empresário em nome individual;
+
+e) Local ou locais de armazenagem;
+
+f) Responsável ou responsáveis pela actividade.
+
+3 - Os agentes económicos importadores referidos no n.º 1, ou os seus representantes, devem comunicar, através de aviso prévio, com a antecedência mínima de quarenta e oito horas, à Direcção-Geral das Alfândegas e Impostos Especiais sobre o Consumo (DGAIEC) a chegada dos produtos destinados à alimentação animal, de modo a permitir a realização dos controlos referidos nos n.os 1 e 3 do artigo 16.º, tendentes à obtenção de livre prática.
+
+### Capítulo III — Comunicações obrigatórias relativas ao fabrico, às trocas intracomunitárias e às importações de países terceiros de produtos destinados à alimentação animal
+
+###### Artigo 5.º — Comunicações obrigatórias relativas ao fabrico nacional
+
+Para efeitos de informação, coordenação e controlo, os fabricantes de aditivos, de pré-misturas, de produtos proteicos obtidos a partir de microrganismos, de compostos azotados não proteicos, de ácidos aminados e seus sais e de análogos hidroxilados de ácidos aminados e de alimentos compostos para animais, aprovados ao abrigo do n.º 1 do artigo 4.º e registados ao abrigo do n.º 1 do artigo 13.º do Decreto-Lei n.º 216/99, de 15 de Junho, que estabelece as condições e regras aplicáveis à aprovação e ao registo de certos estabelecimentos e intermediários no sector da alimentação animal, comunicam à DGV, até 15 de Fevereiro de cada ano, os seguintes elementos relativos ao fabrico do ano anterior:
+
+a) Quanto aos aditivos: o nome, a marca comercial e as quantidades de aditivos produzidas;
+
+b) Quanto às pré-misturas: as quantidades de aditivos utilizadas e de pré-misturas fabricadas, discriminando a sua composição, marca comercial e espécies animais de destino;
+
+c) Quanto aos produtos proteicos obtidos a partir de microrganismos, de compostos azotados não proteicos, de ácidos aminados e seus sais e de análogos hidroxilados de ácidos aminados: a denominação dos produtos, a marca comercial e as quantidades fabricadas;
+
+d) Quanto aos alimentos compostos: as quantidades de aditivos utilizadas, as quantidades de pré-misturas utilizadas e a sua composição, a quantidade de produtos proteicos obtidos a partir de microrganismos, de compostos azotados não proteicos, de ácidos aminados e seus sais e de análogos hidroxilados de ácidos aminados utilizados e a quantidade de alimentos compostos fabricados, marca comercial e espécies animais de destino.
+
+###### Artigo 5.º-A — Plano operacional de intervenção
+
+1 - A DGV, em articulação com os serviços competentes das direcções regionais de agricultura (DRA), elabora um plano operacional de intervenção que estabeleça as medidas a aplicar sempre que se detectar que um produto destinado à alimentação animal apresenta um risco grave para a saúde humana, a saúde animal ou o ambiente e defina as competências e responsabilidades, bem como os circuitos de transmissão da informação.
+
+2 - A DGV e as DRA devem rever o plano a que se refere o número anterior consoante as necessidades, nomeadamente em função da evolução da organização dos serviços de controlo e da experiência adquirida, incluindo a resultante de eventuais exercícios de simulação.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 6.º — Comunicações obrigatórias relativas às trocas intracomunitárias
+
+Para efeitos de informação, coordenação e controlo, os operadores/receptores, registados no âmbito do n.º 2 do artigo 3.º, do presente decreto-lei, comunicam à DGV, até 15 de Fevereiro de cada ano, os seguintes elementos relativos às trocas intracomunitárias do ano anterior:
+
+a) Quanto aos aditivos: o nome, a marca comercial e as quantidades de aditivos;
+
+b) Quanto às pré-misturas: as quantidades de pré-misturas, discriminando a sua composição, marca comercial e espécies animais de destino;
+
+c) Quanto aos produtos proteicos obtidos a partir de microrganismos, de compostos azotados não proteicos, de ácidos aminados e seus sais e de análogos hidroxilados de ácidos aminados: a denominação dos produtos, a marca comercial e a sua quantidade;
+
+d) Quanto às matérias-primas: a denominação e as quantidades;
+
+e) Quanto aos alimentos compostos: a quantidade de alimentos compostos, marca comercial e espécies animais de destino.
+
+###### Artigo 7.º — Comunicações obrigatórias relativas às importações de países terceiros
+
+Para efeitos de informação, coordenação e controlo, os agentes económicos, registados no âmbito do n.º 2 do artigo 4.º do presente diploma, comunicam à DGV, até 15 de Fevereiro de cada ano, os seguintes elementos relativos às importações provenientes de países terceiros do ano anterior:
+
+a) Quanto aos aditivos: o nome, a marca comercial e as quantidades de aditivos;
+
+b) Quanto às pré-misturas: as quantidades de pré-misturas, discriminando a sua composição, marca comercial e espécies animais de destino;
+
+c) Quanto aos produtos proteicos obtidos a partir de microrganismos, de compostos azotados não proteicos, de ácidos aminados e seus sais e de análogos hidroxilados de ácidos aminados: a denominação dos produtos, a marca comercial e a sua quantidade;
+
+d) Quanto à matérias-primas: a designação e as quantidades;
+
+e) Quanto aos alimentos compostos: a quantidade de alimentos compostos, marca comercial e espécies animais de destino.
+
+###### Artigo 8.º — Regulamentação
+
+Por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas, sob proposta do director-geral de Veterinária, serão aprovados os impressos ou o suporte informático que visa uniformizar as comunicações para cumprimento do disposto nos artigos 5.º, 6.º e 7.º do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+### Capítulo IV — Disposições gerais e controlos
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 9.º — Princípios gerais aplicáveis aos controlos
+
+1 - A DGV e as direcções regionais de agricultura (DRA), nos termos da legislação em vigor e dentro da área das respectivas competências, devem adoptar todas as medidas necessárias para que os controlos sejam efectuados em conformidade com o disposto no presente diploma e nomeadamente para que no decurso da produção e do fabrico, nas fases intermédias anteriores à colocação em circulação e na fase de colocação em circulação, nela se incluindo a importação e a utilização dos produtos destinados à alimentação animal, seja efectuado o controlo oficial adequado dos produtos destinados à alimentação animal, bem como a fiscalização das demais disposições previstas no presente diploma, sem prejuízo das competências de outras entidades administrativas ou policiais.
+
+2 - Sem prejuízo do que se encontra estipulado em legislação específica, é conferida à DGV e às DRA competência para acesso aos locais destinados à produção agrícola onde os produtos são fabricados ou utilizados, com a finalidade de efectuar os controlos exigidos, não podendo os detentores das explorações ou os seus representantes impedir o acesso dos agentes aos locais em causa.
+
+3 - Os controlos previstos nos números anteriores devem ser efectuados, regra geral, sem aviso prévio e:
+
+a) Regularmente;
+
+b) Em caso de suspeita de não conformidade;
+
+c) Proporcionalmente ao objectivo pretendido, nomeadamente em função dos riscos e da experiência adquirida.
+
+4 - De entre as fases referidas nos n.os 1 e 2 do presente artigo, devem ser escolhidas aquela ou aquelas que forem mais adequadas para a investigação pretendida.
+
+5 - Os controlos devem, igualmente, incidir sobre a utilização de substâncias proibidas em alimentação animal.
+
+6 - Os controlos efectuados no âmbito dos números anteriores do presente artigo devem ser efectuados de forma a limitar os atrasos no encaminhamento dos produtos e a evitar a criação de entraves injustificados à sua colocação em circulação.
+
+###### Artigo 10.º — Sigilo profissional dos agentes
+
+1 - Os agentes dos organismos referidos no n.º 1 do artigo 9.º encarregues do controlo são obrigados a respeitar o sigilo profissional.
+
+2 - A obrigação de sigilo profissional não impede que as autoridades competentes divulguem as informações necessárias para prevenir um risco grave para a saúde humana, a saúde animal ou o ambiente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 11.º — Colheita de amostras e métodos oficiais de análise
+
+1 - A colheita das amostras para verificar o cumprimento das disposições previstas no presente diploma pode ser feita no decurso da produção e do fabrico nas fases intermédias anteriores à colocação em circulação e na fase de colocação em circulação, nela se incluindo a importação, bem como na fase de utilização ao nível da exploração.
+
+2 - Para cumprimento do disposto no número anterior, são utilizados os métodos oficiais definidos em norma portuguesa relativos à colheita de amostras para análise e preparação de amostras.
+
+3 - Para análise das amostras de produtos destinados à alimentação animal, são utilizados os métodos oficiais de análise definidos em norma portuguesa ou, por força das decisões comunitárias, aprovados mediante portaria ou decreto-lei.
+
+4 - Na ausência daqueles métodos, deve o Laboratório Nacional de Investigação Veterinária (LNIV) estabelecer quais os métodos de análise a utilizar de acordo com normas reconhecidas por organismos internacionais e, na falta de tais normas, de acordo com normas nacionais cientificamente reconhecidas e em conformidade com os princípios gerais do Tratado.
+
+5 - O disposto no número anterior tem sempre carácter transitório até a publicação do método oficial.
+
+6 - Caso sejam colhidas amostras do produto para fins de análise, as entidades responsáveis pela recolha devem adoptar disposições necessárias para:
+
+a) Assegurar a quem for sujeito a controlo o benefício de uma eventual contraperitagem;
+
+b) Assegurar a conservação de amostras de referência seladas oficialmente.
+
+###### Artigo 12.º — Controlo na origem no âmbito do comércio intracomunitário
+
+1 - A DGV e as DRA, no âmbito das respectivas competências, para se certificarem de que os estabelecimentos cumprem com as suas obrigações definidas na regulamentação nacional e comunitária aplicável e de que os produtos destinados a ser colocados em circulação correspondem às exigências comunitárias, garantirão os controlos adequados aos mesmos.
+
+2 - Sempre que existirem indícios de que as exigências legais não estão a ser respeitadas, a DGV, eventualmente em colaboração com outras entidades, procederá aos controlos necessários e tomará as medidas adequadas em caso de confirmação da existência de infracção.
+
+###### Artigo 13.º — Controlo no destino no âmbito do comércio intracomunitário
+
+1 - As DRA, a pedido da DGV, podem verificar, nos locais de destino, a conformidade dos produtos de acordo com o disposto na alínea a) do artigo 2.º do presente diploma, mediante a realização de controlos por amostragem e de carácter não discriminatório, podendo a DGV, na medida em que tal se revele estritamente necessário para a realização de tais controlos, impor obrigatoriedade aos operadores que assinalem a chegada dos produtos de acordo com o artigo 7.º do presente diploma, informando a Comissão desse facto.
+
+2 - A DGV e as DRA, sempre que disponham de informação que lhes permita suspeitar da existência de uma infracção, podem também efectuar controlos durante o transporte dos produtos no seu território, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 14.º — Não conformidade dos produtos provenientes do comércio intracomunitário com as exigências regulamentares em vigor
+
+1 - Se por ocasião de um controlo realizado no local de destino do envio ou durante o transporte se verificar a não conformidade dos produtos com as disposições referidas nas alíneas a), b), c), d), e) e f) do n.º 1 do artigo 1.º, a entidade controladora tomará as medidas adequadas e intimará o expedidor, o destinatário ou qualquer terceiro que tiver sucedido nos direitos, a efectuar, nas condições determinadas pela DGV, uma das seguintes operações:
+
+a) Regularização dos produtos num prazo a fixar;
+
+b) Eventual neutralização da nocividade;
+
+c) Qualquer outro tratamento adequado;
+
+d) Utilização para outros fins;
+
+e) Reexpedição para o país de origem, após ter informado a autoridade competente do país do estabelecimento de origem;
+
+f) Destruição dos produtos.
+
+2 - As despesas decorrentes das medidas tomadas em conformidade com o n.º 1 do presente artigo ficam a cargo do expedidor ou qualquer terceiro que lhe tiver sucedido nos direitos, incluindo, eventualmente, o destinatário.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 15.º — Assistência mútua
+
+1 - Caso os produtos sejam destruídos, utilizados para outros fins, reexpedidos para o país de origem ou objecto de operações de neutralização da nocividade ao abrigo do n.º 1 do artigo 14.º, o Estado membro de destino deve entrar imediatamente em contacto com o Estado membro de expedição, que deve tomar todas as medidas necessárias e comunicar ao Estado membro de destino a natureza dos controlos efectuados, os seus resultados, as decisões tomadas e os motivos das decisões.
+
+2 - Nos casos em que os produtos foram objecto de regularização ou submetidos a qualquer outro tratamento adequado, nos termos das alíneas a) e c) do n.º 1 do artigo anterior, a DGV pode informar a entidade competente do Estado membro de expedição.
+
+3 - Na sequência das informações referidas nos n.os 1 e 2 do presente artigo, a DGV solicita à entidade competente do Estado membro de expedição a natureza dos controlos efectuados nos produtos em causa, os seus resultados, as decisões tomadas e os motivos dessas decisões.
+
+4 - Caso a DGV entenda que as medidas tomadas pela entidade competente do Estado membro de expedição não são satisfatórias, deve procurar as formas e os meios para solucionar a situação, se necessário, mediante uma visita conjunta ao local de origem dos produtos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 16.º — Princípios gerais aplicáveis às importações provenientes de países terceiros
+
+1 - A DGAIEC, de forma a determinar o regime aduaneiro que lhe é aplicável, tomará todas as medidas necessárias para que, aquando da introdução no território nacional de produtos destinados à alimentação animal provenientes de países terceiros, seja efectuado um controlo documental de cada lote e um controlo de identidade a fim de se comprovar o seguinte:
+
+a) A sua natureza;
+
+b) A sua origem;
+
+c) O seu destino geográfico.
+
+2 - Os produtos destinados à alimentação animal provenientes de países terceiros, para efeitos da plena execução do número anterior, só podem entrar no território nacional nos pontos de entrada constantes do anexo I ao presente diploma, do qual faz parte integrante.
+
+3 - A DGAIEC, em estreita colaboração com a DGV, deve certificar-se da conformidade dos produtos através de um controlo físico antes da sua colocação em livre prática.
+
+4 - Aquando da colocação em livre prática dos produtos, deve ser emitido pela DGV ou pelas DRA, consoante o caso, em quadruplicado, um documento, conforme modelo a aprovar por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas, sob proposta do director-geral de Veterinária, destinando-se o original a acompanhar o produto e as cópias à DGAIEC, ao importador e ao posto de inspecção fronteiriço.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 17.º — Não conformidade dos produtos provenientes de países terceiros com as exigências regulamentares em vigor
+
+1 - Quando do controlo efectuado, no âmbito do artigo anterior, resultar a não conformidade dos produtos com as exigências regulamentares aplicáveis, a DGAIEC, ouvida a DGV, proíbe a respectiva introdução ou colocação em livre prática e ordena a respectiva reexpedição para fora do território comunitário.
+
+2 - Sempre que se verifique a situação prevista no número anterior, a DGAIEC informará a DGV da respectiva proibição, de modo que esta possa informar, de imediato, a Comissão Europeia e os outros Estados membros da recusa dos produtos, com a indicação das infracções verificadas.
+
+3 - A DGV pode autorizar em determinadas condições, a fixar caso a caso, a realização de uma das seguintes operações:
+
+a) Regularização dos produtos num prazo a fixar;
+
+b) Eventual descontaminação;
+
+c) Qualquer outro tratamento adequado;
+
+d) Utilização para outros fins;
+
+e) Destruição dos produtos.
+
+4 - A DGAIEC, em colaboração com a DGV, fiscalizará as operações enumeradas nas alíneas do número anterior, de forma a evitar que estas tenham consequências desfavoráveis para a saúde humana e animal e para o meio ambiente.
+
+5 - As despesas decorrentes das medidas tomadas em conformidade com os n.os 1 e 3 do presente artigo ficam a cargo do titular da autorização de importação ou do seu representante.
+
+6 - As despesas efectuadas com a recolha das amostras e com as análises laboratoriais no âmbito do controlo físico constituem encargos do importador ou do seu representante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 18.º — Programa nacional de controlo no âmbito da alimentação animal
+
+1 - A DGV elabora, até 1 de Outubro de cada ano, o programa nacional de controlo que especifique as medidas adoptadas e a executar para a concretização dos objectivos previstos no presente diploma, bem como as entidades nele intervenientes.
+
+2 - O programa referido no número anterior deve ter em conta a especificidade nacional, indicando, nomeadamente, a natureza e a frequência dos controlos a efectuar regularmente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+### Capítulo VII — Disposições finais
+
+> Alterado pelo/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479)
+
+###### Artigo 24.º — Exportação para países terceiros
+
+Pelo facto de um produto se destinar à exportação, o mesmo não pode ser excluído de um controlo adequado conforme previsto no presente diploma.
+
+###### Artigo 25.º — Taxas
+
+1 - Para custear os encargos do programa nacional do controlo no âmbito da alimentação animal, constante do artigo 18.º do presente diploma, são fixadas taxas a pagar pelos fabricantes de aditivos, produtos proteicos obtidos a partir de microrganismos, de compostos azotados não proteicos, de ácidos aminados e seus sais e de análogos hidroxilados de ácidos aminados, pré-misturas e alimentos compostos para animais, operadores/receptores no âmbito do comércio intracomunitário e importadores de países terceiros.
+
+2 - A taxa constitui receita da DGV.
+
+3 - Por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas, sob proposta do director-geral de Veterinária, são fixados os montantes das taxas a cobrar, bem como os aspectos administrativos do pagamento das mesmas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 26.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+### Capítulo V — Sistema de informação relativo aos riscos decorrentes dos alimentos para animais
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 19.º — Lista de laboratórios
+
+Por portaria do Ministro da Agricultura, Desenvolvimento Rural e Pescas, sob proposta do director do LNIV, é aprovada a lista de laboratórios acreditados para a realização das análises previstas no programa nacional de controlo no âmbito da alimentação animal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 19.º-A — Informações a prestar pelos responsáveis dos estabelecimentos
+
+1 - Os responsáveis pelos estabelecimentos ficam obrigados a informar imediatamente a DGV sempre que disponham de informações que lhes permitam concluir que um lote de produtos, oriundo de países terceiros, destinado à alimentação animal, que tenham introduzido no território da Comunidade, coloquem em circulação, detenham ou sejam proprietários:
+
+a) Excede os limites máximos fixados na parte A do anexo II do Decreto-Lei n.º 182/99, de 22 de Maio, para além dos quais o produto não deve ser distribuído nesse estado aos animais, nem misturado com outros produtos destinado à alimentação animal; ou
+
+b) Não cumpre com uma das disposições do artigo 1.º e constitui, por isso, um risco grave, tendo em conta o destino previsto, para a saúde humana, para a saúde animal ou para o ambiente.
+
+2 - Esses responsáveis deverão prestar à DGV todas as informações que permitam uma identificação precisa do produto ou do lote de produtos em causa, bem como uma descrição tão completa quanto possível do risco desses produtos e todas as informações disponíveis úteis para a identificação do produto, informando ainda sobre as acções desenvolvidas para prevenir riscos para a saúde humana, a saúde animal ou o ambiente e apresentar uma descrição dessas acções.
+
+3 - As mesmas obrigações de informação sobre os riscos que representam os produtos destinados à alimentação animal são extensivas aos profissionais que asseguram o acompanhamento sanitário das explorações referidas no artigo 10.º do Decreto-Lei n.º 148/99, de 4 de Maio, relativo às medidas de controlo a aplicar a certas substâncias e aos seus resíduos nos animais vivos e respectivos produtos, bem como aos responsáveis dos laboratórios que efectuam as análises, podendo as autoridades competentes, se for caso disso, aplicar as disposições previstas nos artigos 8.º, 11.º ou 13.º do mesmo diploma.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 19.º-B — Avaliação do risco
+
+1 - Sempre que a DGV disponha de informações que, com base nos elementos disponíveis de avaliação dos riscos, indiquem que um lote de produtos destinados à alimentação animal apresenta um risco grave para a saúde humana, para a saúde animal ou para o ambiente, deve verificar as informações recebidas e, se for caso disso, deve garantir que sejam tomadas as medidas necessárias para assegurar que o lote não é utilizado na alimentação animal, devendo sujeitá-lo a restrições e investigar imediatamente:
+
+a) A natureza do perigo e, quando necessário, a quantidade de substâncias indesejáveis presentes;
+
+b) A possível origem das substâncias indesejáveis ou do perigo, a fim de determinar a avaliação dos riscos.
+
+2 - Se for caso disso, a avaliação dos riscos é tornada extensiva a outros lotes do mesmo produto ou a outros produtos da cadeia alimentar humana ou animal, aos quais as substâncias indesejáveis ou o perigo tenham podido propagar-se, tendo em conta a eventual propagação de substâncias indesejáveis a outros produtos destinados à alimentação animal e a reciclagem eventual de produtos perigosos da cadeia de alimentação animal.
+
+3 - Se a existência de um risco grave for confirmada nos termos do n.º 1, a DGV deve assegurar que o destino final do lote que contém substâncias indesejáveis, incluindo a sua descontaminação, outras operações de neutralização da nocividade, transformação ou eventual destruição, não possa ter efeitos prejudiciais para a saúde humana, a saúde animal ou o ambiente.
+
+4 - De igual modo, sempre que as substâncias indesejáveis ou o perigo da sua presença se possam ter propagado a outros lotes ou à cadeia alimentar, animal ou humana, deve proceder imediatamente à identificação e ao controlo dos outros lotes de produtos considerados perigosos, incluindo, se for caso disso, a identificação dos animais vivos alimentados com produtos perigosos e a aplicação das medidas previstas no Decreto-Lei n.º 148/99, de 4 de Maio, ou em outras disposições legais aplicáveis, relativas à saúde animal ou à segurança alimentar dos produtos de origem animal, assegurando assim a coordenação entre os serviços de controlo competentes, a fim de evitar que os produtos perigosos sejam colocados em circulação e de garantir a aplicação de processos de recolha dos produtos que já se encontrem no mercado.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+### Capítulo VI — Penalidades
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 20.º — Regime sancionatório aplicável
+
+1 - As infracções ao disposto nos n.os 2 e 3 do artigo 3.º, nos n.os 2 e 3 do artigo 4.º, no artigo 5.º, no artigo 6.º, no artigo 7.º e no n.º 2 do artigo 9.º, sempre que não sejam puníveis nos termos do Decreto-Lei n.º 28/84, de 20 de Janeiro, constituem contra-ordenações puníveis com coima cujo montante mínimo é de (euro) 249,40 e o máximo de (euro) 3740,98 ou (euro) 44891,81, consoante o agente seja pessoa singular ou colectiva.
+
+2 - A negligência e a tentativa são sempre puníveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 21.º — Sanções acessórias
+
+1 - Consoante a gravidade da contra-ordenação e a culpa do agente, poderão ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
+
+a) Perda de objectos pertencentes ao agente;
+
+b) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização de homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras ou mercados;
+
+e) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto a empreitada ou a concessão de obras públicas, o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças e alvarás;
+
+f) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+g) Suspensão de autorização, licenças e alvarás.
+
+2 - As sanções acessórias referidas nas alíneas b) e seguintes do número anterior terão a duração máxima de dois anos, contados a partir do trânsito em julgado da decisão condenatória.
+
+3 - Sem prejuízo do disposto no n.º 1 do presente artigo, pode ser ordenada a inutilização dos aditivos, pré-misturas ou alimentos compostos produzidos em unidades que não respeitem os requisitos de aprovação dos estabelecimentos referidos nas alíneas a), b), c), d), e), f) e g) do n.º 1 do artigo 4.º e nas alíneas a), b), c) e d) do n.º 1 do artigo 13.º do Decreto-Lei n.º 216/99, de 15 de Junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 22.º — Instrução, aplicação e destino da receita das coimas
+
+1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Veterinária.
+
+2 - A entidade que levantar o auto de notícia remeterá o mesmo à DRA da área da prática da infracção para instrução do competente processo.
+
+3 - A afectação do produto das coimas cobradas em aplicação ao presente diploma legal far-se-á da seguinte forma:
+
+a) 10% para a entidade que levantou o auto;
+
+b) 10% para a entidade que instruiu o processo;
+
+c) 20% para a entidade que aplicou a coima;
+
+d) 60% para os cofres do Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+###### Artigo 23.º — Controlo, fiscalização e penalidades nas Regiões Autónomas
+
+1 - Nas Regiões Autónomas dos Açores e da Madeira a execução administrativa do presente diploma e suas disposições regulamentares cabe aos serviços competentes das respectivas administrações regionais, sem prejuízo das competências atribuídas à DGV, na qualidade de autoridade nacional competente no domínio da alimentação animal.
+
+2 - A percentagem prevista na alínea d) do n.º 3 do artigo anterior, proveniente das coimas aplicadas nas Regiões Autónomas dos Açores e da Madeira, constitui receita própria de cada uma delas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-2002-425479), em vigor a partir de 2002-11-09
+
+Visto e aprovado em Conselho de Ministros de 29 de Abril de 1999. - António Manuel de Oliveira Guterres - António Carlos dos Santos - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos.
+
+Promulgado em 11 de Junho de 1999.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 16 de Junho de 1999.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexos
+
+(ver anexos I a XI no documento original)

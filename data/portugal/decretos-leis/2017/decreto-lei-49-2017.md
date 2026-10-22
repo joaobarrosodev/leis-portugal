@@ -1,0 +1,250 @@
+---
+schema_version: '1.0'
+id: pt:dre:107061863:por
+title: Decreto-Lei n.º 49/2017
+short_title: null
+summary: Cria o Ponto Único de Contacto para a Cooperação Policial Internacional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 49/2017
+official_date: null
+publication_date: '2017-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 100/2017, Série I de 2017-05-24
+  number: '100'
+  series: I
+  supplement: null
+  pages: 2521 - 2524
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/05/10000/0252102524.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/49/2017/05/24/p/dre/pt/html
+  oj: null
+  dre: '107061863'
+  dre_path: /dr/detalhe/decreto-lei/49-2017-107061863
+  internal: pt:dre:107061863:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2017-107061863
+  metadata_url: https://data.dre.pt/eli/dec-lei/49/2017/05/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2017-107061863
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-02-25T00:00:00Z'
+integrity:
+  source_sha256: afe90b9bbb8d1d3d5b593e130eb08e4a0e511909298592d2c639b160d5a736f4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2017/DRE-2017-49-107061863.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Política de Cooperação
+- Segurança Interna
+- Criação de Serviços
+- Definição de Competências
+- Europol
+- Cooperação Policial
+- Gabinete Nacional da Interpol
+- GNR
+- Serviço de Estrangeiros e Fronteiras
+- Secretário Geral do Sistema de Segurança Interna
+- Gabinete Nacional Sirene
+- Ponto Único de Contacto para a Cooperação Policial Internacional
+relationships:
+- type: amended_by
+  target: pt:dre:120108010:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32006D0960
+  label: null
+  source: http://data.europa.eu/eli/dec/2006/960/oj
+- type: cites
+  target: celex:32008D0615
+  label: null
+  source: http://data.europa.eu/eli/dec/2008/615/oj
+- type: cites
+  target: celex:32008D0616
+  label: null
+  source: http://data.europa.eu/eli/dec/2008/616/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/53/2008/08/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2008/08/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/59/2015/06/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/59/2015/06/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/74/2009/08/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/74/2009/08/12/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49/2017
+
+de 24 de maio
+
+Os fenómenos criminais graves, organizados, transnacionais e, em muitos casos, altamente violentos, incluindo o terrorismo, por colocarem em causa a segurança e a estabilidade dos Estados e o espaço de liberdade, segurança e justiça da União Europeia, requerem o reforço das sinergias e da cooperação a todos os níveis para uma resposta eficaz e coordenada a nível nacional, europeu e internacional.
+
+Esse reforço pressupõe uma melhor organização interna e capacitação dos Estados para responder às exigências de cooperação, melhorando a aplicação dos instrumentos existentes, garantindo uma interlocução qualificada, assegurando a implementação de orientações e de boas práticas e, bem assim, implementando metodologias adequadas de recolha, tratamento e partilha da informação, no plano interno e no quadro da União Europeia.
+
+O intercâmbio de informações entre os Estados-Membros é, neste contexto, um instrumento decisivo para as autoridades de aplicação da lei, não só no combate à criminalidade grave e organizada, mas também às infrações de menor gravidade cometidas em grande escala, por grupos criminosos móveis ou por criminosos individuais que operam em vários desses países.
+
+Respeitando as competências nacionais de garantia do cumprimento da lei e de salvaguarda da segurança interna, e sempre no pleno respeito dos direitos fundamentais dos cidadãos, todas as partes interessadas, nacionais, europeias e internacionais, têm de trabalhar melhor em conjunto para enfrentar os riscos e as ameaças transnacionais.
+
+A consecução deste objetivo é levada a cabo através da cooperação das autoridades competentes dos Estados-Membros da União Europeia, incluindo as forças e serviços de segurança e as demais autoridades de aplicação da lei especializadas na prevenção e deteção de infrações penais e na realização de investigações criminais, no apuramento da responsabilidade penal.
+
+Esta preocupação encontra-se expressa quer nas Conclusões do Conselho sobre a Estratégia Renovada de Segurança Interna da União Europeia para 2015-2020, Doc. 9798/15, de 10 de junho de 2015, JAI 442 COSI 67, quer na Agenda Europeia para a Segurança, COM (2015) 185 Final, de 5 de maio de 2015, esta última centrada, primordialmente, no reforço do intercâmbio de informações, na confiança mútua e na cooperação operacional, a partir de toda a gama de instrumentos e políticas da União Europeia.
+
+A União Europeia desenvolveu já uma série de instrumentos jurídicos, práticos e de apoio para servirem de base a um espaço europeu de segurança interna.
+
+O Conselho da União Europeia aprovou dois instrumentos jurídicos fundamentais no âmbito da troca de informações entre autoridades de aplicação da lei dos Estados-Membros da UE - a [Decisão-Quadro 2006/960/JAI](https://diariodarepublica.pt/application/external/eurolex?06F0960) (Decisão Sueca) e as Decisões [2008/615/JAI](https://diariodarepublica.pt/application/external/eurolex?08D0615) e [2008/616/JAI](https://diariodarepublica.pt/application/external/eurolex?08D0616) (Tratado de Prüm) -, que impõem aos Estados-Membros que prossigam os esforços no sentido de melhorar a cooperação e de maximizar os canais de comunicação existentes.
+
+Entre os instrumentos de apoio recomendados para adoção pelos Estados-Membros na Comunicação da Comissão Europeia ao Parlamento Europeu e ao Conselho «Reforçar a cooperação em matéria de aplicação da lei na UE: o modelo europeu de intercâmbio de informações (EIXM)» encontra-se o «Single Point of Contact» (SPOC) ou Ponto Único de Contacto.
+
+Este Ponto Único de Contacto (PUC) projeta-se como um «balcão único», em conformidade com as «Orientações para a criação de um ponto único de contacto para o intercâmbio internacional de informação entre serviços de polícia» (Doc. 10492/14, de 13 de junho de 2014, DAPIX 75 ENFOPOL 157), que reúne sob a mesma estrutura de gestão e no mesmo espaço físico os diferentes gabinetes nacionais ou pontos de contacto relevantes, como sejam o Gabinete Nacional Sirene, o Gabinete Nacional da Interpol, a Unidade Nacional da Europol, a coordenação dos oficiais de ligação nacionais e estrangeiros, a coordenação dos Centros de Cooperação Policial e Aduaneira e os pontos de contacto decorrentes das denominadas Decisões Prüm, funcionando todos os dias, 24 horas por dia.
+
+A reunião dos diferentes canais de comunicação sob a mesma gestão, no respeito pelas regras nacionais, garante a escolha correta e coerente do canal de cooperação policial internacional, assim como a qualidade dos pedidos e das respostas.
+
+Além disso, a partilha de meios contribui para reduzir custos e incrementar a eficiência, eliminando redundâncias e permitindo uma melhor utilização dos recursos humanos e financeiros e das infraestruturas existentes.
+
+Nas diversas avaliações Schengen, Portugal tem sido mencionado por ainda não ter dado cumprimento à criação do «Single Point of Contact» (SPOC) ou Ponto Único de Contacto para a cooperação policial internacional.
+
+Por sua vez, o Programa do XXI Governo Constitucional elege como prioridade o reforço das competências da/o Secretária/o-Geral do Sistema de Segurança Interna, enquanto elemento essencial na garantia da coerência, da operacionalidade, da erradicação das redundâncias, da boa articulação e da coordenação entre as diversas Forças e Serviços de Segurança.
+
+O Conselho Superior de Segurança Interna, em 28 de março de 2016, pronunciou-se favoravelmente sobre a criação do Ponto Único de Contacto para a Cooperação Policial Internacional, no âmbito do Sistema de Segurança Interna e sob a égide da/o sua/seu Secretária/o-Geral, como forma de reforço das suas competências em matéria de cooperação internacional, que decorrem da Lei de Segurança Interna ([Lei n.º 53/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/453479/details/normal?l=1), de 28 de outubro, com as alterações introduzidas pela [Lei n.º 59/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67579526/details/normal?l=1), de 24 de junho).
+
+Em conformidade com o disposto na alínea b) do n.º 2 do artigo 16.º da Lei de Segurança Interna compete à/ao Secretária/o-Geral do Sistema de Segurança Interna, no âmbito das suas competências de coordenação, «desenvolver no território nacional os planos de ação e as estratégias do espaço europeu de liberdade, segurança e justiça que impliquem atuação articulada das forças e serviços de segurança». De acordo com o disposto na alínea b) in fine do n.º 2 do artigo 17.º da Lei de Segurança Interna, compete à/ao Secretária/o-Geral do Sistema de Segurança Interna, no âmbito das suas competências de direção, garantir o acesso das entidades que fazem parte do Sistema de Segurança Interna, de acordo com as suas necessidades e competências, «aos mecanismos de cooperação policial internacional através dos diferentes pontos de contacto nacionais».
+
+Em execução do Programa do Governo e dando corpo às obrigações decorrentes das Decisões acima identificadas, procede-se a uma intervenção mínima, introduzindo-se uma segunda alteração na [Lei n.º 53/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/453479/details/normal?l=1), de 29 de agosto, que aprova a Lei de Segurança Interna, criando na dependência e sob coordenação da/o Secretária/o-Geral do Sistema de Segurança Interna, o Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI), através da disponibilização de meios técnicos e humanos das Forças e Serviços de Segurança que, para esse efeito, funcionam sob a dependência funcional do PUC-CPI.
+
+Remete-se para diploma próprio a organização e funcionamento do PUC-CPI, tornando-se, desse modo, mais simples desenvolver um novo regime que visa colocar sob a mesma gestão e coordenação um acervo atualmente disperso.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei cria, no âmbito do Sistema de Segurança Interna, na dependência e sob coordenação da/o Secretária/o-Geral do Sistema de Segurança Interna, o Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI), procedendo à segunda alteração à [Lei n.º 53/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/453479/details/normal?l=1), de 29 de agosto, alterada pela [Lei n.º 59/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67579526/details/normal?l=1), de 24 de junho.
+
+###### Artigo 2.º — Aditamento à [Lei n.º 53/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/453479/details/normal?l=1), de 29 de agosto
+
+É aditado à [Lei n.º 53/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/453479/details/normal?l=1), de 29 de agosto, alterada pela [Lei n.º 59/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67579526/details/normal?l=1), de 24 de junho, o artigo 23.º-A, com a seguinte redação:
+
+«Artigo 23.º-A
+
+Ponto Único de Contacto para a Cooperação Policial Internacional
+
+1 - O Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI) é o centro operacional responsável pela coordenação da cooperação policial internacional, que assegura o encaminhamento dos pedidos de informação nacionais, a receção, o encaminhamento e a difusão nacional de informação proveniente das autoridades policiais estrangeiras, a transmissão de informação e a satisfação dos pedidos por estas formulados.
+
+2 - Compete ao PUC-CPI, designadamente:
+
+a) Assegurar o intercâmbio internacional de informações entre os serviços de polícia, nos termos da [Lei n.º 74/2009](https://diariodarepublica.pt/web/guest/pesquisa/-/search/493510/details/normal?l=1), de 12 de agosto;
+
+b) Definir critérios e dar orientações em matéria de interlocução externa no âmbito da cooperação policial internacional;
+
+c) Garantir a operacionalidade dos mecanismos e instrumentos de cooperação policial internacional;
+
+d) Definir e implementar boas práticas internas em matéria de cooperação policial internacional e dar execução às orientações veiculadas pelas competentes instâncias internacionais;
+
+e) Definir os critérios para a escolha dos canais adequados para a transmissão de informações, nos termos da lei;
+
+f) Identificar e promover a utilização de soluções de gestão de processos eficazes e definir fluxos de trabalho especificamente destinados à cooperação policial internacional em matéria de assistência jurídica mútua;
+
+g) Assegurar a necessária articulação com as estruturas nacionais responsáveis pela cooperação judiciária internacional;
+
+h) Assegurar a coordenação da representação externa, nas instâncias europeias e internacionais, no âmbito da cooperação policial internacional, por si, ou através dos Órgãos de Polícia Criminal que a integram;
+
+i) Programar e implementar ações destinadas à formação contínua dos trabalhadores em funções públicas em exercício na área da cooperação policial internacional, bem como das demais autoridades de aplicação da lei.
+
+3 - O PUC-CPI funciona na dependência e sob coordenação da/o Secretária/o-Geral do Sistema de Segurança Interna.
+
+4 - O PUC-CPI tem um Gabinete de Gestão constituído por elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Polícia Judiciária e do Serviço de Estrangeiros e Fronteiras, designadas/os Coordenadoras/es de Gabinete.
+
+5 - As/Os Coordenadoras/es de Gabinete, cargos de direção intermédia de 1.º grau, são nomeados por despacho dos membros do Governo responsáveis pelas áreas da administração interna e da justiça, sob proposta da/o Secretária/o-Geral do Sistema de Segurança Interna, e exercem funções em comissão de serviço pelo período de três anos.
+
+6 - O PUC-CPI reúne, sob a mesma gestão, o Gabinete Nacional Sirene, o Gabinete Nacional da Interpol, a Unidade Nacional da Europol, a coordenação dos oficiais de ligação nacionais e estrangeiros, a coordenação dos Centros de Cooperação Policial e Aduaneira e os pontos de contacto decorrentes das Decisões Prüm.
+
+7 - O PUC-CPI funciona ininterruptamente, em regime de turnos e é coordenado, rotativamente, por cada um/a dos/as Coordenadores/as de Gabinete, do Gabinete de Gestão, o qual é denominado Coordenador-Geral e responsável pelo encaminhamento dos pedidos nacionais, pela decisão de distribuição dos pedidos ou informações recebidas do exterior e pela validação das respostas nacionais emitidas.
+
+8 - Os Gabinetes, Unidade e pontos de contacto referidos no n.º 6 dependem funcionalmente do PUC-CPI e estão subordinados aos regimes constantes dos diplomas que os preveem e regulamentam.
+
+9 - A Polícia Marítima e a Autoridade Tributária e Aduaneira podem colocar elementos de ligação no PUC-CPI.
+
+10 - A/O Procuradora/or-Geral da República indica um ponto de contacto que assegura a articulação permanente entre o Ministério Público e o PUC-CPI, para o exercício das competências que lhe são próprias, no processo penal.
+
+11 - A orgânica do PUC-CPI é estabelecida em diploma próprio.
+
+12 - Os lugares de direção intermédia de 1.º grau constam do anexo à presente lei, da qual faz parte integrante.»
+
+###### Artigo 3.º — Aditamento de anexo à [Lei n.º 53/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/453479/details/normal?l=1), de 29 de agosto
+
+É aditado à [Lei n.º 53/2008](https://diariodarepublica.pt/web/guest/pesquisa/-/search/453479/details/normal?l=1), de 29 de agosto, alterada pela [Lei n.º 59/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/67579526/details/normal?l=1), de 24 de junho, o anexo com a redação constante do anexo ao presente decreto-lei e do qual faz parte integrante.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 16 de março de 2017. - António Luís Santos da Costa - Maria Isabel Solnado Porto Oneto - Francisca Eugénia da Silva Dias Van Dunem.
+
+**Promulgado em 4 de maio de 2017.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 11 de maio de 2017.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**
+
+## ANEXO — (a que se refere o artigo 3.º)
+
+«ANEXO
+
+(a que se refere o n.º 12 do artigo 23.º-A)
+
+Mapa de pessoal dirigente
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2017/05/10000/0252102524.pdf))](https://files.diariodarepublica.pt/1s/2017/05/10000/0252102524.pdf)

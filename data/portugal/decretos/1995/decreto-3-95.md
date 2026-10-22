@@ -1,0 +1,252 @@
+---
+schema_version: '1.0'
+id: pt:dre:205626:por
+title: Decreto n.º 3/95
+short_title: null
+summary: Aprova o Acordo entre o Governo da República Portuguesa e o Governo da República Checa sobre a Cooperação Económica,
+  Industrial e Técnico-Científica
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 3/95
+official_date: null
+publication_date: '1995-02-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/1995, Série I-A de 1995-02-17
+  number: '41'
+  series: I
+  supplement: null
+  pages: 998 - 1001
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/02/041a00/09981001.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/3/1995/02/17/p/dre/pt/html
+  oj: null
+  dre: '205626'
+  dre_path: /dr/detalhe/decreto/3-1995-205626
+  internal: pt:dre:205626:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-1995-205626
+  metadata_url: https://data.dre.pt/eli/dec/3/1995/02/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/3-1995-205626
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-02-17T00:00:00Z'
+integrity:
+  source_sha256: 02b77790a3f920136dac7b5adc41c06b9047ce0ec8e70e1c420934260587448e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-3-205626.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Cooperação Técnica
+- Portugal
+- Lisboa
+- Cooperação Científica
+- Cooperação Económica
+- Cooperação Industrial
+- República Checa
+relationships: []
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 3/95
+
+de 17 de Fevereiro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição do Governo decreta o seguinte:
+
+###### Artigo único. É aprovado, para ratificação, o Acordo entre a República Portuguesa e a República Checa sobre a Cooperação Económica, Industrial e Técnico-Científica, assinado em Lisboa em 8 de Julho de 1994, cujas versões autênticas nas línguas portuguesa e checa seguem em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 1994. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - José Manuel Durão Barroso - Luís Fernando Mira Amaral - Fernando Manuel Barbosa Faria de Oliveira.
+
+Ratificado em 24 de Janeiro de 1995.
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 26 de Janeiro de 1995.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+ACORDO ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA CHECA SOBRE A COOPERAÇÃO ECONÓMICA, INDUSTRIAL E TÉCNICO-CIENTÍFICA.
+
+O Governo da República Portuguesa e o Governo da República Checa, a seguir designados por Partes Contratantes:
+
+Conscientes da importância da cooperação económica, industrial e técnico-científica para o desenvolvimento e diversificação das relações entre ambos os países;
+
+No intuito de desenvolver as relações económicas existentes entre os dois países numa base de equidade e reciprocidade de vantagens, que permita um completo aproveitamento das possibilidades criadas pelo progresso técnico-científico;
+
+Em conformidade com a ordem jurídica vigente nos dois países e os compromissos internacionais por eles assumidos;
+
+Tendo em atenção os acordos celebrados pela República Checa com a Comunidade Europeia do Carvão e do Aço e com a Comunidade Económica Europeia e as perspectivas de evolução deste relacionamento;
+
+Tendo em consideração os princípios enunciados no Acto Final e noutros documentos no âmbito da Conferência sobre Segurança e Cooperação na Europa, sobretudo na Carta de Paris;
+
+Tendo presentes as disposições do Acordo Geral sobre Tarifas Aduaneiras e Comércio, de que os dois países são Partes;
+
+acordam o seguinte:
+
+###### Artigo 1.º
+
+1 - As Partes Contratantes promoverão o desenvolvimento da cooperação económica, industrial e técnico-científica entre os dois países com vista à intensificação e diversificação das relações bilaterais.
+
+2 - A cooperação será desenvolvida, nomeadamente, nos sectores enunciados no anexo I do presente Acordo, e as Partes Contratantes poderão definir, por comum acordo, outros sectores, tomando, particularmente, em consideração o desenvolvimento equilibrado das relações bilaterais e as prioridades da política económica e técnico-científica dos dois países.
+
+###### Artigo 2.º
+
+1 - As Partes Contratantes incentivarão a promoção de contactos entre instituições competentes de ambos os países, incluindo o intercâmbio de peritos, em condições a acordar entre as entidades envolvidas.
+
+2 - Sem prejuízo de outras medidas favoráveis ao desenvolvimento da cooperação bilateral e de acordo com a ordem jurídica vigente nos dois países, as Partes Contratantes:
+
+a) Apoiarão as iniciativas, designadamente feiras, exposições, simpósios e outros encontros, destinadas a fomentar e desenvolver a cooperação entre os dois países e principalmente entre os seus agentes económicos e instituições competentes;
+
+b) Facilitarão o desenvolvimento de novas formas de cooperação, incluindo a cooperação entre pequenas e médias empresas, tais como a criação de empresas mistas, os investimentos cruzados, a subcontratação, a cooperação na área da gestão das empresas, a investigação, o intercâmbio de tecnologias e a produção conjunta de bens;
+
+c) Promoverão a informação aos agentes económicos dos dois países sobre as possibilidades concretas de cooperação e desenvolvimento das relações bilaterais;
+
+d) Apoiarão a cooperação entre organizações económicas e empresas dos dois países, nomeadamente a celebração por estas de programas a longo prazo, protocolos e contratos;
+
+e) Apoiarão a realização de acções de formação com interesse específico para a actividade económica, tendo em vista a preparação técnica de empresários e gestores, bem como de quadros superiores e médios das empresas;
+
+f) Apoiarão a cooperação entre instituições científicas e de investigação, com o intuito de promover o intercâmbio de informação científica e técnica e de peritos, a organização de conferências e de seminários, a preparação e a realização de projectos conjuntos em áreas científicas definidas por comum acordo entre as referidas instituições.
+
+3 - As Partes Contratantes, de acordo com a ordem jurídica vigente nos dois países, facilitarão a abertura e instalação nos respectivos países de escritórios ou de qualquer outra forma de representação de organizações económicas e empresas do outro país.
+
+###### Artigo 3.º
+
+As Partes Contratantes promoverão a cooperação entre as empresas dos dois países, incluindo a criação de empresas mistas, para operar quer nos respectivos países quer em países terceiros.
+
+###### Artigo 4.º
+
+As Partes Contratantes, em conformidade com a ordem jurídica vigente nos dois países, procurarão proporcionar condições favoráveis de financiamento no que se refere aos projectos de cooperação no âmbito do presente Acordo.
+
+###### Artigo 5.º
+
+Em conformidade com a ordem jurídica vigente nos dois países, as Partes Contratantes comprometem-se a assegurar e a reforçar a protecção dos direitos de propriedade industrial e intelectual.
+
+###### Artigo 6.º
+
+1 - Para assegurar a execução do presente Acordo, as Partes Contratantes estabelecem uma Comissão Mista, composta por representantes dos órgãos competentes de ambos os países, que se reunirá, a nível adequado, quando tal for necessário e a pedido de uma das Partes, alternadamente, na República Checa e na República Portuguesa.
+
+2 - A Comissão Mista acompanhará e coordenará a cooperação económica, industrial e técnico-científica entre os dois países e proporá aos respectivos Governos as medidas necessárias ao seu desenvolvimento, nomeadamente definindo os sectores onde a cooperação bilateral se afigure mais vantajosa.
+
+3 - A Comissão Mista aprovará as regras necessárias ao seu funcionamento.
+
+###### Artigo 7.º
+
+O presente Acordo não prejudica os compromissos internacionais assumidos pelas Partes Contratantes.
+
+###### Artigo 8.º — As Partes Contratantes poderão acordar alterações ao presente Acordo, devendo a aprovação das mesmas revestir formalidade igual à prevista no n.º 1 do artigo 9.º
+
+###### Artigo 9.º
+
+1 - Este Acordo fica sujeito a aprovação em concordância com a ordem jurídica vigente em ambos os países, e entra em vigor 30 dias após a entrega da última nota confirmando aquela aprovação.
+
+2 - O Acordo será válido por cinco anos e renovar-se-á automaticamente por sucessivos períodos de um ano, salvo se uma das Partes Contratantes, seis meses antes do seu termo, o denunciar, devendo este acto ser comunicado à outra Parte.
+
+3 - Para os compromissos contratuais assumidos durante a vigência do Acordo e cuja execução ainda se mantenha no seu termo as disposições legais previstas no Acordo manter-se-ão válidas até ao cumprimento daqueles compromissos.
+
+Feito em Lisboa em 8 de Julho de 1994, em duas versões autênticas nas línguas portuguesa e checa, fazendo ambos os textos igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+José Manuel Durão Barroso, Ministro dos Negócios Estrangeiros.
+
+Pelo Governo da República Checa:
+
+Vladimir Dlouhy, Ministro da Indústria e Comércio.
+
+## ANEXO I — Lista indicativa dos sectores de cooperação
+
+Agricultura e indústrias alimentares.
+
+Indústria têxtil e de confecções.
+
+Indústria do calçado.
+
+Indústria da cerâmica.
+
+Indústria do vidro.
+
+Indústria da madeira e da cortiça.
+
+Indústria do papel e produção de celulose.
+
+Indústria química e petroquímica.
+
+Produção de derivados de petróleo.
+
+Produção de plásticos e de moldes para plástico.
+
+Siderurgia.
+
+Maquinaria e bens de equipamento para diversas indústrias.
+
+Indústria eléctrica e electrónica.
+
+Indústria de componentes para automóveis.
+
+Equipamento para produção e transporte de energia eléctrica.
+
+Transportes e produção de material de transporte.
+
+Construção e reparação naval.
+
+Construção e obras públicas.
+
+Energia.
+
+Telecomunicações.
+
+Informática estatística.
+
+Turismo.
+
+Protecção do ambiente.
+
+Formação e preparação de quadros para a privatização do sector estatal.
+
+Ciência e tecnologia.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/02/041a00/09981001.pdf))](https://files.diariodarepublica.pt/1s/1995/02/041a00/09981001.pdf)

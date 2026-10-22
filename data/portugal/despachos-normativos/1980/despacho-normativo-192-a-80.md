@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:460197:por
+title: Despacho Normativo n.º 192-A/80
+short_title: null
+summary: Fixa o preço do tabaco produzido no continente para consumo neste território
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Indústria e Energia
+proposing_entity: null
+official_number: 192-A/80
+official_date: null
+publication_date: '1980-07-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/1980, 1º Suplemento, Série I de 1980-07-02
+  number: '150'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1524-(1) a 1524-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/07/15001/00010002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '460197'
+  dre_path: /dr/detalhe/despacho-normativo/192-a-1980-460197
+  internal: pt:dre:460197:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/192-a-1980-460197
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/192-a-1980-460197
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-07-02T00:00:00Z'
+integrity:
+  source_sha256: 6f27ebfe3664ab0d95fb15c76ec703db44347bb37546ad279f6b369964af53ae
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-192-A-460197.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 192-A/80
+
+A elevação das taxas do imposto de consumo sobre o tabaco, determinada pelo [Decreto-Lei n.º 200-D/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-d-1980-226040), de 24 de Junho, impõe a revisão dos preços de venda ao público desse produto.
+
+Àquela circunstância de natureza fiscal acresce a conveniência de assegurar, através da nova composição do preço de venda ao público, a manutenção quer das receitas do produtor quer da margem de distribuição.
+
+Assim, nos termos do artigo 36.º do [Decreto-Lei n.º 149-A/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636), de 19 de Junho, estabelece-se o seguinte:
+
+1 - O tabaco produzido no continente para consumo neste território terá os preços que constam do mapa anexo.
+
+2 - Os revendedores grossistas de tabaco picado ou de cigarros produzidos e consumidos no continente terão direito ao desconto de 9% sobre o preço de venda ao público.
+
+3 - Do desconto referido no número anterior o revendedor grossista arrecadará 2,5%, concedendo ao retalhista 6,5% sobre o preço de venda ao público.
+
+4 - Qualquer entidade poderá abastecer-se directamente nas fábricas do continente, com exclusão de marcas estrangeiras fabricadas sob licença, tendo direito ao desconto de 9% quando compre valor não inferior a 245000$00, calculado a preço de venda ao público, ou ao desconto de 6,5%, quando compre menos que aquele valor mas mais de 82000$00.
+
+5 - Este despacho entra em vigor em 3 de Julho de 1980.
+
+Ministérios das Finanças e do Plano e da Indústria e Energia, 1 de Julho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.
+
+MAPA ANEXO
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/07/15001/00010002.pdf))](https://files.diariodarepublica.pt/1s/1980/07/15001/00010002.pdf)
+
+**O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - O Ministro da Indústria e Energia, Álvaro Roque de Pinho Bissaia Barreto.**

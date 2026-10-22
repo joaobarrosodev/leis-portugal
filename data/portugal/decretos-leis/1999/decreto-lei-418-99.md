@@ -1,0 +1,250 @@
+---
+schema_version: '1.0'
+id: pt:dre:667350:por
+title: Decreto-Lei n.º 418/99
+short_title: null
+summary: Introduz alterações no Código do Imposto sobre o Valor Acrescentado, harmoniza-o com a Lei Geral Tributária e aprova
+  o Regime Especial de Exigibilidade do IVA nas Entregas de Bens às Cooperativas Agrícolas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 418/99
+official_date: null
+publication_date: '1999-10-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 246/1999, Série I-A de 1999-10-21
+  number: '246'
+  series: I
+  supplement: null
+  pages: 7017 - 7019
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/10/246a00/70177019.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/418/1999/10/21/p/dre/pt/html
+  oj: null
+  dre: '667350'
+  dre_path: /dr/detalhe/decreto-lei/418-1999-667350
+  internal: pt:dre:667350:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1999-667350
+  metadata_url: https://data.dre.pt/eli/dec-lei/418/1999/10/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1999-667350
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-05-30T00:00:00Z'
+integrity:
+  source_sha256: 43a0a4f74c1ec2d0eb24d8c6d131e2dc5607328cac3ce2cf71a0fa19aee9296f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-418-667350.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código do IVA
+- Cooperativa Agrícola
+- IVA
+- Regime Especial de Exigibilidade do Imposto sobre o Valor Acrescentado nas Entregas de BENS às Cooperativas Agrícolas
+relationships:
+- type: amended_by
+  target: pt:dre:513603:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/85/1998/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/85/1998/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/87-b/1998/12/31/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 418/99
+
+de 21 de Outubro
+
+Ao abrigo dos n.os 8 e 9 do artigo 32.º da [Lei n.º 87-B/98](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), de 31 de Dezembro, que aprovou o Orçamento do Estado para 1999, vem o presente diploma proceder a alterações ao Código do Imposto sobre o Valor Acrescentado e à aprovação do Regime Especial de Exigibilidade do IVA nas Entregas de Bens às Cooperativas Agrícolas.
+
+Nessa conformidade, e no que respeita particularmente ao articulado do Código do IVA, altera-se a redacção do n.º 1 do artigo 40.º e do n.º 12 do artigo 71.º do mesmo Código, no primeiro caso, aumentando-se o limite do volume de negócios que determina o enquadramento dos sujeitos passivos no regime normal de periodicidade mensal, atendendo a objectivos ligados à diminuição das obrigações e dos procedimentos administrativos e, no segundo, ajustando-se a redacção do citado preceito do artigo 71.º, compatibilizando-a com as alterações verificadas anteriormente em outros preceitos do mesmo artigo.
+
+No que respeita às listas I e II anexas ao Código do IVA, contendo os bens e serviços tributados, respectivamente, à taxa reduzida e à taxa intermédia, inclui-se, na esteira do processo de reenquadramento de certos bens e serviços, mais um conjunto de produtos alimentares. Assim, passam também a ser tributadas à taxa reduzida as empreitadas realizadas no âmbito do RECRIA.
+
+Num próximo passo serão incluídos na lista I os produtos agro-alimentares certificados com a denominação DOP (denominação de origem protegida).
+
+Por último, procede-se ainda à transposição e regulamentação do preceituado no artigo 15.º do Estatuto Fiscal Cooperativo, constante da [Lei n.º 85/98](https://diariodarepublica.pt/dr/detalhe/lei/85-1998-219165), de 16 de Dezembro, acolhendo-se na lista I anexa ao Código do IVA as empreitadas sobre bens imóveis aí previstas e procedendo-se à aprovação de um regime especial de exigibilidade de caixa nas entregas realizadas às cooperativas agrícolas, por parte dos respectivos membros, relativamente a produtos provenientes das explorações agrícolas destes.
+
+Assim:
+
+No uso das autorizações legislativas concedidas pelos n.os 8 e 9 do artigo 32.º da [Lei n.º 87-B/98](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), de 31 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º
+
+O n.º 1 do artigo 40.º e o n.º 12 do artigo 71.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/94, de 26 de Dezembro, passam a ter a seguinte redacção:
+
+«Artigo 40.º
+
+[...]
+
+1 - ...
+
+a) Até ao dia 10 do 2.º mês seguinte àquele a que respeitam as operações, no caso de sujeitos passivos com um volume de negócios igual ou superior a 100000000$00 no ano civil anterior;
+
+b) Até ao dia 15 do 2.º mês seguinte ao trimestre do ano civil a que respeitam as operações, no caso de sujeitos passivos com um volume de negócios inferior a 100000000$00 no ano civil anterior.
+
+...
+
+###### Artigo 71.º — [...]
+
+...
+
+12 - No caso previsto no n.º 8 e na alínea c) do n.º 9 será comunicada ao adquirente do bem ou serviço, que seja um sujeito passivo do imposto, a anulação total ou parcial do imposto, para efeitos de rectificação da dedução inicialmente efectuada.
+
+...»
+
+###### Artigo 2.º
+
+A verba 2.16 da lista I anexa ao Código do Imposto sobre o Valor Acrescentado passa a ter a seguinte redacção:
+
+«2.16 - As empreitadas de construção de imóveis de habitações económicas ou de habitações de custos controlados, independentemente do promotor, desde que tal classificação esteja certificada por autoridade competente do ministério da tutela.rtigo 3.º
+
+São aditadas à lista I anexa ao Código do Imposto sob sobre o Valor Acrescentado as verbas 1.12, 1.13, 2.21, 2.22 e 2.23, com a seguinte redacção:
+
+«1.12 - Refrigerantes, sumos e néctares de frutos ou de produtos hortícolas, incluindo os xaropes de sumos, as bebidas concentradas de sumos e os produtos concentrados de sumos.
+
+1.13 - Produtos dietéticos destinados à nutrição entérica e produtos sem glúten para doentes celíacos.
+
+2.21 - As empreitadas de construção, beneficiação ou conservação de imóveis realizadas no âmbito do Regime Especial de Comparticipação na Recuperação de Imóveis Arrendados (RECRIA).
+
+2.22 - As empreitadas de construção de imóveis e os contratos de prestações de serviços com ela conexas, cujos promotores sejam cooperativas de habitação e construção, incluindo as realizadas pelas uniões de cooperativas de habitação e de construção económica às cooperativas suas associadas no âmbito do exercício das suas actividades estatutárias, desde que as habitações se integrem no âmbito da política social de habitação, designadamente quando respeitem o conceito e os parâmetros de habitação de custos controlados, majorados em 20%.
+
+2.23 - As empreitadas de conservação, reparação e beneficiação dos prédios ou parte dos prédios urbanos habitacionais, propriedade de cooperativas de habitação e construção, cedidos aos seus membros em regime de propriedade colectiva, qualquer que seja a respectiva modalidade.»
+
+###### Artigo 4.º
+
+É aditada à lista II anexa ao Código do Imposto sobre o Valor Acrescentado a verba 1.11, com a seguinte redacção:
+
+«1.11 - Aperitivos ou snacks à base de extrudidos de milho e trigo ou à base de milho moído e frito, em embalagens individuais.»
+
+###### Artigo 5.º
+
+As verbas 1.12 da lista I e 1.11 da lista II anexas ao Código do Imposto sobre o Valor Acrescentado entram em vigor em 1 de Outubro de 1999.
+
+###### Artigo 6.º
+
+É revogada a verba 1.10 da lista II anexa ao Código do Imposto sobre o Valor Acrescentado à data da entrada em vigor da verba 1.12 da lista I.
+
+###### Artigo 7.º
+
+É aprovado o Regime Especial de Exigibilidade do Imposto sobre o Valor Acrescentado nas Entregas de Bens às Cooperativas Agrícolas, que faz parte integrante do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Joaquim Augusto Nunes de Pina Moura - Luís Manuel Capoulas Santos.
+
+**Promulgado em 1 de Outubro de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 13 de Outubro de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+REGIME ESPECIAL DE EXIGIBILIDADE DO IMPOSTO SOBRE O VALOR ACRESCENTADO NAS ENTREGAS DE BENS ÀS COOPERATIVAS AGRÍCOLAS.
+
+###### Artigo 1.º
+
+Encontram-se abrangidas pelo Regime Especial de Exigibilidade do Imposto sobre o Valor Acrescentado as entregas realizadas pelos respectivos membros, de produtos da sua própria exploração agrícola, às cooperativas agrícolas.
+
+###### Artigo 2.º
+
+1 - O imposto relativo às transmissões de bens a que se refere o artigo anterior é exigível no momento do recebimento total ou parcial do preço, pelo montante recebido.
+
+2 - O imposto é ainda exigível quando o recebimento total ou parcial do preço preceda o momento da realização das operações tributáveis.
+
+###### Artigo 3.º
+
+1 - Os sujeitos passivos podem optar pela aplicação das regras de exigibilidade do imposto previstas nos n.os 1 e 2 do artigo 8.º do Código do Imposto sobre o Valor Acrescentado às operações referidas no artigo 1.º
+
+2 - A opção será exercida relativamente ao conjunto das operações referidas no artigo 1.º, mediante a apresentação de um requerimento na repartição de finanças da área da sede ou domicílio do sujeito passivo, o qual, uma vez deferido pelo director de finanças, produzirá efeitos a partir do mês seguinte ao da data do deferimento.
+
+3 - Os requerimentos referidos no número anterior consideram-se tacitamente deferidos se a decisão não for notificada no prazo de 30 dias após a sua entrega na repartição de finanças.
+
+4 - Os sujeitos passivos poderão voltar a aplicar as regras de exigibilidade do imposto previstas neste Regime Especial, mediante a apresentação de um requerimento nesse sentido, sendo-lhe aplicável o disposto nos n.os 2 e 3.
+
+###### Artigo 4.º
+
+1 - Para efeitos da aplicação do disposto no artigo 19.º do Código do Imposto sobre o Valor Acrescentado, o imposto respeitante às operações a que se refere o artigo 1.º só poderá ser deduzido pelas cooperativas agrícolas quando tenham na sua posse os recibos de pagamento referidos nos n.os 2 e 3 do artigo 5.º, passados na forma legal.
+
+2 - A dedução do imposto exigível nos termos deste Regime Especial deverá ser efectuada na declaração do período em que se tiver verificado a recepção dos recibos de pagamento.
+
+###### Artigo 5.º
+
+1 - As facturas relativas a operações abrangidas pelo artigo 1.º devem ter uma série especial e conter a menção «IVA exigível e dedutível no pagamento».
+
+2 - No pagamento total ou parcial das facturas referidas no número anterior e nas situações referidas no n.º 2 do artigo 2.º é obrigatória a emissão de recibo pelos montantes recebidos, devendo constar do mesmo a taxa de IVA aplicável e a referência à factura a que respeita o pagamento quando for caso disso.
+
+3 - O imposto considera-se incluído no recibo a que se refere o número anterior, para efeitos da sua exigência à cooperativa.
+
+4 - A data da emissão do recibo coincidirá sempre com a do pagamento, devendo ser processado em duplicado, destinando-se o original à cooperativa e a cópia ao arquivo do transmitente dos bens.
+
+###### Artigo 6.º
+
+1 - Para efeitos do disposto no n.º 3 do artigo 44.º do Código do Imposto sobre o Valor Acrescentado, as operações abrangidas pelo Regime Especial deverão ser registadas de forma a evidenciar:
+
+a) O valor das operações a que se refere o n.º 1 do artigo 2.º, líquido de imposto;
+
+b) O valor do imposto respeitante às operações mencionadas na alínea anterior, com relevação distinta do montante ainda não exigível.
+
+2 - O registo das operações mencionadas no número anterior deverá ser evidenciado de modo a permitir o cálculo do imposto devido em cada período respeitante aos montantes recebidos.
+
+###### Artigo 7.º
+
+1 - Para efeitos do disposto no artigo 45.º do Código do Imposto sobre o Valor Acrescentado, as facturas e os recibos a que se referem os n.os 1 e 2 do artigo 5.º serão numerados seguidamente, em uma ou mais séries especiais, convenientemente referenciadas, devendo conservar-se na respectiva ordem os seus duplicados e, bem assim, todos os exemplares dos que tiverem sido anulados ou inutilizados, com os averbamentos indispensáveis à identificação daqueles que os substituíram, se for caso disso.
+
+2 - A numeração das facturas e dos recibos referidos no número anterior obedecerá ao disposto no artigo 5.º do [Decreto-Lei n.º 198/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-1990-574957), de 16 de Junho.
+
+###### Artigo 8.º
+
+A disciplina do Código do Imposto sobre o Valor Acrescentado será aplicável em tudo o que não se revelar contrário ao disposto no presente Regime.
+
+###### Artigo 9.º
+
+O presente Regime entra em vigor em 1 de Outubro de 1999.

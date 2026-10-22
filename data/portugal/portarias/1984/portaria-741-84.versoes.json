@@ -1,0 +1,104 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:399626:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-889511611",
+ "dre_path": "/dr/detalhe/portaria/741-1984-399626",
+ "source_lastmod": "2024-10-01",
+ "versions": [
+  {
+   "date": "1984-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889498762"
+   ]
+  },
+  {
+   "date": "1984-09-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:308143:por",
+     "title": "Declaração",
+     "published": "1984-09-29",
+     "dre_path": "/dr/detalhe/declaracao/1984-308143"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "889498761",
+    "889498755",
+    "889498756",
+    "889498754"
+   ]
+  },
+  {
+   "date": "1984-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:446494:por",
+     "title": "Declaração",
+     "published": "1984-10-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-446494"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "889498762",
+    "889498755",
+    "889498756",
+    "889498754"
+   ]
+  }
+ ],
+ "fragments": {
+  "889498762": {
+   "fragment_id": "889511612",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1984-10-31",
+   "changed_by": [],
+   "markdown": "Portaria n.º 741/84\n\nde 21 de Setembro\n\nConsiderando que, nos termos do disposto na Portaria n.º 996/83, de 28 de Novembro, as promoções aos postos de major, tenente-coronel e coronel são por escolha e antiguidade, excepto nos casos em que esse posto corresponda ao mais elevado de determinado quadro, em que a promoção será somente por escolha;\n\nTornando-se necessário alterar em conformidade a Portaria n.º 576/77, de 15 de Setembro, que regulamenta o sistema de promoções dos oficiais do Exército;\n\nConvindo, ainda, actualizar a designação dos quadros referidos no n.º 5 da mesma portaria, de acordo com a terminologia dos Decretos-Leis n.os 242/81 e 243/81, ambos de 20 de Agosto, e corrigir o n.º 8.1, de acordo com a redacção do artigo 70.º do mesmo EOE.\n\nNos termos do disposto na alínea e) do n.º 2 do artigo 44.º da Lei n.º 29/82, de 11 de Dezembro;\n\nManda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:"
+  },
+  "889498761": {
+   "fragment_id": "889511612",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1984-09-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 227/1984, 1º Suplemento, Série I de 1984-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-308143), em vigor a partir de 1984-09-29"
+   ],
+   "markdown": "Portaria n.º 741/84\n\nde 21 de Setembro\n\nConsiderando que, nos termos do disposto na Portaria n.º 996/83, de 28 de Novembro, somente as promoções aos postos mais elevados que possam ser alcançados por um oficial de determinado quadro se processem por escolha;\n\nTornando-se necessário alterar em conformidade a Portaria n.º 576/77, de 15 de Setembro, que regulamenta o sistema de promoções dos oficiais do Exército;\n\nConvindo, ainda, actualizar a designação dos quadros referidos no n.º 5 da mesma portaria, de acordo com a terminologia dos Decretos-Leis n.os 242/81 e 243/81, ambos de 20 de Agosto, e corrigir o n.º 8.1, de acordo com a redacção do artigo 70.º do mesmo EOE.\n\nNos termos do disposto na alínea e) do n.º 2 do artigo 44.º da Lei n.º 29/82, de 11 de Dezembro;\n\nManda o Governo da República Portuguesa, pelo Ministro da Defesa Nacional, o seguinte:\n\n> Retificado pelo/a [Declaração - Diário da República n.º 227/1984, 1º Suplemento, Série I de 1984-09-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-308143), em vigor a partir de 1984-09-29"
+  },
+  "889498755": {
+   "fragment_id": "889511615",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\n1.º Os n.os 5, 6, 7 e 8.1 da Portaria n.º 576/77, de 15 de Setembro, passam a ter a seguinte redacção:\n\n5 - Para efeitos de promoção ao posto de major:\n\n5.1 - São apreciados os capitães que se encontrem no terço superior da escala dos capitães, ordenada por antiguidade, excepto os pertencentes aos serviços técnicos de manutenção de material do quadro do serviço de material, cuja apreciação incidirá sobre os que, como tenentes, se inscreviam no terço superior da respectiva escala de antiguidade.\n\n5.2 - À escolha atribui-se:\n\na) 25% das vagas nos quadros das armas de infantaria, artilharia, cavalaria e engenharia, oficiais de transmissões do quadro da arma de transmissões, quadros dos serviços de administração militar e de saúde e oficiais de material do quadro do serviço de material;\n\nb) Um terço das vagas para os oficiais dos serviços técnicos de exploração e manutenção das transmissões do quadro das armas de transmissões, oficiais dos serviços técnicos de manutenção de material do quadro do serviço de material e nos quadros do serviço geral do Exército e das bandas e fanfarras do Exército.\n\n6 - Para efeitos de promoção ao posto de tenente-coronel:\n\n6.1 - São apreciados os majores que se encontrem no terço superior da escala, ordenada por antiguidade.\n\n6.2 - À escolha atribui-se:\n\na) Um terço das vagas nos quadros das armas de infantaria, artilharia, cavalaria e engenharia, oficiais de transmissões da arma de transmissões, quadros do serviço de administração militar e do serviço de saúde, e para os oficiais de material do quadro do serviço de material;\n\nb) 100% das vagas para os oficiais dos serviços técnicos de exploração e manutenção das transmissões do quadro da arma de transmissões, oficiais dos serviços técnicos de manutenção de material do quadro do serviço de material e nos quadros do serviço geral do Exército e das bandas e fanfarras do Exército.\n\n7 - Para efeitos de promoção ao posto de coronel:\n\n7.1 - São apreciados os tenentes-coronéis que se encontrem na metade superior da escala, ordenada por antiguidade.\n\n7.2 - À escolha atribui-se:\n\na) 50% das vagas nos quadros das armas de infantaria, artilharia, cavalaria e engenharia, oficiais de transmissões da arma de transmissões, quadro do serviço de administração militar, ramo de medicina do quadro do serviço de saúde, e para os oficiais de material do quadro do serviço de material;\n\nb) 100% das vagas nos ramos de farmácia e veterinária do quadro do serviço de saúde e no QEO.\n\n8.1 - As listas referidas no n.º 4 do artigo 70.º do Decreto-Lei n.º 176/71, de 30 de Abril (Estatuto do Oficial do Exército), são elaboradas pelas direcções das armas e serviços em Outubro de cada ano, sendo as faixas de apreciação dos oficiais determinadas com referência a 30 de Junho."
+  },
+  "889498756": {
+   "fragment_id": "889511616",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA presente portaria produz efeitos desde 1 de Janeiro de 1984."
+  },
+  "889498754": {
+   "fragment_id": "889511613",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Defesa Nacional.\n\nAssinada em 27 de Agosto de 1984.\n\nO Ministro da Defesa Nacional, Carlos Alberto da Mota Pinto."
+  }
+ }
+}

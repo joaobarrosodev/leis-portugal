@@ -1,0 +1,917 @@
+---
+schema_version: '1.0'
+id: pt:dre:498534:por
+title: Portaria n.º 243/2013
+short_title: null
+summary: Estabelece os termos, condições e critérios de atribuição de capacidade de injeção na rede elétrica de serviço público
+  bem como da obtenção da licença de produção e respetiva licença de exploração
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 243/2013
+official_date: null
+publication_date: '2013-08-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/2013, Série I de 2013-08-02
+  number: '148'
+  series: I
+  supplement: null
+  pages: 4542 - 4552
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/08/14800/0454204552.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-05-18'
+version_history:
+  file: portaria-243-2013.versoes.json
+  count: 2
+  source_lastmod: '2025-06-11'
+  versions:
+  - date: '2013-08-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-05-18'
+    amending: pt:dre:67212154:por
+    amending_title: Portaria n.º 133/2015
+    changes:
+    - Adita Artigo 25.º-A
+    - Adita Artigo 25.º-B
+    - Adita Artigo 35.º-A
+    - Adita Artigo 35.º-B
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 20.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Altera Artigo 35.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 26.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/243/2013/p/cons/20170907/pt/html
+  oj: null
+  dre: '498534'
+  dre_path: /dr/detalhe/portaria/243-2013-498534
+  internal: pt:dre:498534:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-2013-498534
+  metadata_url: https://data.dre.pt/eli/port/243/2013/p/cons/20170907/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-887975116
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2013-887975116
+  retrieved_at: '2026-10-22T13:28:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-11T00:00:00Z'
+integrity:
+  source_sha256: c05cc2963f655518bf0a0cc840884e38fbe640f3749e87e962e41853dc875d89
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:28:41Z'
+  notes: 2 versão(ões); histórico completo em portaria-243-2013.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Certificado de Conformidade
+- Energia Elétrica
+- Concurso Público
+- Consumidor
+- Contrato
+- Contrato de Concessão
+- Concorrência
+- Equipamento Eléctrico
+- Fiscalização
+- Direção Geral de Energia e Geologia
+- Seguro
+- Avaliação de Impacte Ambiental
+- Licenciamento
+- Entidade Reguladora dos Serviços Energéticos
+- Portal do Cidadão
+- Prazo
+- Serviço Público
+- Produção de Energia Elétrica
+- Produtor
+- Rede Nacional de Transporte de Energia Elétrica
+- Taxa
+- Utente
+- Vistoria
+relationships:
+- type: amended_by
+  target: pt:dre:67212154:por
+  label: Adita Artigo 25.º-A; Adita Artigo 25.º-B; Adita Artigo 35.º-A; Adita Artigo 35.º-B; Altera Artigo 3.º; Altera Artigo
+    5.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 14.º;
+    Altera Artigo 16.º; Altera Artigo 20.º; Altera Artigo 25.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Artigo 29.º;
+    Altera Artigo 30.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154
+  date: '2015-05-15'
+- type: cites
+  target: eli:http://data.dre.pt/e
+  label: null
+  source: http://data.dre.pt/e
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/104/2010/09/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/104/2010/09/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/199/2007/05/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/199/2007/05/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/215-b/2012/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215-b/2012/10/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/23/2009/01/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/23/2009/01/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/237-b/2006/12/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/237-b/2006/12/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/264/2007/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/264/2007/07/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/33-a/2005/02/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/33-a/2005/02/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/92/2010/07/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/92/2010/07/26/p/dre
+article_structure:
+  article_count: 40
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:28:41Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 243/2013
+
+Portaria n.º 243/2013
+
+de 2 de agosto
+
+O Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237-B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro, que operou a sua republicação, estabelece o regime jurídico da atividade de produção de eletricidade em regime especial, prevendo diferentes regimes remuneratórios, consoante os produtores de eletricidade vendam a eletricidade, nos termos aplicáveis à produção em regime ordinário, em mercados organizados ou através da celebração de contratos bilaterais com clientes finais ou com comercializadores de eletricidade, designado por «regime geral», ou entreguem a eletricidade produzida ao comercializador de último recurso, contra o pagamento de remuneração atribuída ao centro eletroprodutor, durante um período determinado, designados por «regime de remuneração garantida» e por «período de garantia», respetivamente.
+
+Em concreto, o Decreto-Lei n.º 215-B/2012, de 8 de outubro, veio prever que o exercício da atividade em regime de remuneração garantida depende, previamente, da atribuição de capacidade de injeção na rede elétrica de serviço público (RESP), bem como da obtenção da licença de produção e respetiva licença de exploração.
+
+Não obstante a definição de determinadas regras e princípios aplicáveis ao regime de remuneração garantida, o Decreto-Lei n.º 172/2006, de 23 de agosto, na redação dada pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro, remete a definição dos termos, condições e critérios de atribuição de reserva de capacidade, da licença de produção e do regime remuneratório respetivo, bem como o acesso ao mesmo e respetivos prazos de duração e manutenção, para portaria a aprovar pelo membro do Governo responsável pela área da energia. De acordo com o referido decreto-lei, essa portaria deverá ainda prever que a reserva de capacidade de injeção na RESP é atribuída mediante procedimento concursal de iniciativa pública, devendo as peças do procedimento ser aprovadas por despacho do membro do Governo responsável pela área da energia, a publicar no Diário da República, ou procedimento que a faculte a todos os interessados que preencham os requisitos que venham a ser estabelecidos, de acordo com critérios de igualdade e transparência.
+
+Pela presente portaria, estabelece-se assim o regime jurídico da atribuição de reserva de capacidade de injeção na RESP e do licenciamento da atividade de produção de eletricidade no âmbito do regime especial de remuneração garantida, concretizando as regras e princípios estabelecidos no Decreto-Lei n.º 215-B/2012, de 8 de outubro, sem que seja, no entanto, definido o regime remuneratório aplicável. Tal deverá constar de uma portaria própria, que defina diferentes tarifas consoante a fonte primária de energia e respetiva tecnologia, a aprovar pelo membro do Governo responsável pela área da energia, ao abrigo do disposto no n.º 4 do artigo 33.º-G do Decreto-Lei n.º 172/2006, de 23 de agosto, na redação dada pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro.
+
+Assim:
+
+Ao abrigo do disposto nos n.os 4, 5 e 6 do artigo 33.º-G do Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237-B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro, que operou a sua republicação, manda o Governo, pelo Secretário de Estado da Energia, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - A presente portaria estabelece os termos, condições e critérios de atribuição da reserva de capacidade de injeção de potência na rede elétrica de serviço público (RESP), bem como do licenciamento da atividade de produção de energia elétrica no âmbito do regime especial da remuneração garantida, respetivos prazos de duração, condições de manutenção e de alteração, concretizando o disposto no Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237-B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro, que operou a sua republicação.
+
+2 - O regime remuneratório aplicável aos centros eletroprodutores abrangidos pela presente portaria consta de portaria a aprovar pelo membro do Governo responsável pela área da energia, nos termos do disposto no n.º 4 do artigo 33.º-G do Decreto-Lei n.º 172/2006, de 23 de agosto.
+
+###### Artigo 2.º — Controlo prévio
+
+1 - A instalação de centro eletroprodutor cuja energia elétrica se destine a ser remunerada ao abrigo do regime da remuneração garantida, nos termos do artigo 33.º-G do Decreto-Lei n.º 172/2006, de 23 de agosto, está sujeita a licença de produção.
+
+2 - A atribuição da licença de produção depende da prévia obtenção pelo requerente de uma reserva de capacidade de injeção e receção de potência em ponto determinado ou determinável na RESP, mediante a atribuição de um ponto de receção.
+
+3 - A exploração em regime industrial do centro eletroprodutor licenciado nos termos dos números anteriores está sujeita a atribuição de licença de exploração.
+
+4 - A cada centro eletroprodutor corresponde uma licença de produção e de exploração.
+
+###### Artigo 3.º — Competências
+
+1 - É da competência do membro do Governo responsável pela área da energia:
+
+a) A concessão e extinção da licença de produção dos centros eletroprodutores com capacidade máxima instalada superior a 10 MVA;
+
+b) A escolha e promoção dos procedimentos concursais ou outros similares para a atribuição de reserva de capacidade de injeção na RESP, bem como aprovação dos respetivos regulamentos e peças procedimentais;
+
+c) Representar o Estado na assinatura do contrato de atribuição de reserva de capacidade de injeção de potência na RESP, nos termos da presente portaria e da portaria referida no n.º 2 do artigo 1.º;
+
+d) Decidir as propostas de redução das tarifas aplicáveis, nos casos e condições previstas na presente portaria.
+
+2 - A concessão e extinção da licença de produção dos centros eletroprodutores com capacidade máxima instalada igual ou inferior a 10 MVA, bem como a atribuição de autorização para exploração em regime experimental, de autorização para alteração, a atribuição da licença de exploração e a aceitação da comunicação prévia com prazo de todos os centros eletroprodutores são da competência do diretor-geral da Direção-Geral de Energia e Geologia (DGEG).
+
+3 - Cabe ainda ao diretor-geral da DGEG:
+
+a) Exercer as competências de entidade coordenadora do licenciamento, cabendo-lhe a instrução e condução dos procedimentos de atribuição, alteração, transmissão e extinção de pontos de receção, de licenças e autorizações previstas nos números anteriores;
+
+b) Representar o Estado na assinatura do contrato de atribuição de capacidade de injeção de potência na RESP, nos casos em que esta representação não caiba ao membro do Governo responsável pela área da energia, nos termos da presente portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 4.º — Plataforma eletrónica
+
+1 - Os pedidos, comunicações e notificações no âmbito dos procedimentos previstos na presente portaria são efetuados através do balcão único eletrónico a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho (Balcão Único do Empreendedor), sem prejuízo da utilização do sítio da Internet da DGEG.
+
+2 - Salvo menção expressa em contrário, são de cumprimento obrigatório as instruções de acesso à plataforma, o preenchimento dos campos disponibilizados para a instrução do pedido e a prestação de elementos e informações.
+
+3 - Os pedidos apresentados na plataforma eletrónica prevista no n.º 1 podem ser rejeitados ou não validados, automática e liminarmente, sempre que não observem as instruções obrigatórias, os campos de preenchimento obrigatório se mostrem incompletos, ou sempre que estejam em falta elementos ou informações solicitadas e ainda quando esses pedidos sejam apresentados fora do prazo fixado para o efeito.
+
+### Capítulo II — Do ponto de receção na RESP
+
+###### Artigo 5.º — Procedimento de atribuição de reserva de capacidade de injeção na RESP
+
+1 - A reserva de capacidade de injeção na RESP é atribuída mediante pedido do promotor selecionado na sequência da realização de um dos seguintes procedimentos de iniciativa pública:
+
+a) Procedimento concursal, podendo recorrer-se ao leilão eletrónico;
+
+b) Outro procedimento que, não obstante não revestir a modalidade prevista na alínea anterior, observe os princípios da igualdade, concorrência e transparência, garantindo a participação de todos os interessados que preencham os requisitos que venham a ser estabelecidos em despacho do membro do Governo responsável pela área da energia.
+
+2 - O procedimento concursal referido na alínea a) do número anterior rege-se pelo previsto na presente portaria, pelas peças do procedimento aprovadas em despacho do membro do Governo responsável pela área da energia, publicitado no Diário da República, e pelos princípios gerais da contratação pública, aplicando-se os critérios gerais de seleção previstos no artigo 33.º-F do Decreto-Lei n.º 172/2006, de 23 de agosto.
+
+3 - O procedimento referido na alínea b) do n.º 1 rege-se pela presente portaria e pelo despacho nela mencionado que aprove a sua abertura, regras de tramitação e critérios de adjudicação, devendo o mesmo ser publicado no Diário da República.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+> Retificado pelo/a [Declaração de Retificação n.º 38-A/2013 - Diário da República n.º 189/2013, 2º Suplemento, Série I de 2013-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-a-2013-420814), produz efeitos a partir de 2013-08-05
+
+###### Artigo 6.º — Contrato de atribuição de capacidade de injeção de potência na RESP
+
+1 - O Estado, representado pelo membro do Governo responsável pela área da energia ou pela DGEG, consoante o caso, e o promotor selecionado nos termos do procedimento concursal realizado ao abrigo da alínea a) do n.º 1 do artigo anterior, doravante designado por «adjudicatário», celebram um contrato de atribuição de capacidade de injeção de potência na RESP para energia elétrica produzida a partir do centro eletroprodutor a que se destina o procedimento, também designado, para efeitos da presente portaria, por «Contrato».
+
+2 - O Contrato deve conter, nomeadamente, os compromissos assumidos pelo adjudicatário do procedimento, incluindo os prazos de execução, as garantias de cumprimento, bem como as condições relativas à remuneração da eletricidade e tarifário aplicável, em conformidade com o disposto na portaria a que se refere o n.º 2 do artigo 1.º.
+
+###### Artigo 7.º — Pedido de informação sobre a existência de capacidade de injeção na RESP
+
+1 - No prazo fixado no Contrato ou na decisão de adjudicação, consoante resulte de um procedimento realizado ao abrigo da alínea a) ou da alínea b) do n.º 1 do artigo 5.º, o adjudicatário apresenta, ao operador da RESP, e com o conhecimento da DGEG, o pedido de informação sobre as condições de ligação à rede, relativo ao ponto de receção ao qual se pretenda ligar e nos casos em que este não seja determinado ou identificado no referido contrato ou decisão, informação sobre a existência de capacidade de receção na zona de rede pretendido.
+
+2 - O pedido de informação referido no número anterior é instruído com os elementos constantes do ponto A do Anexo I da presente portaria, que dela faz parte integrante, devendo ainda obedecer ao estipulado no Contrato ou na decisão de adjudicação, conforme aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 8.º — Verificação liminar
+
+1 - Após a receção do pedido, a DGEG verifica, no praxo máximo de 10 dias, a conformidade do mesmo com o disposto no artigo anterior e com o disposto no Contrato ou na decisão de adjudicação, conforme aplicável e, se for caso disso, solicita ao requerente os elementos em falta ou complementares ou ainda os aperfeiçoamentos ou esclarecimentos que se revelem necessários, a apresentar no prazo de 10 dias, comunicando que tal solicitação determina a suspensão do prazo de apreciação e alertando para o facto de que a sua não satisfação, no referido prazo, determina a rejeição do pedido de atribuição do ponto de receção.
+
+2 - Estando o pedido regularmente instruído, a DGEG notifica o requerente para proceder ao pagamento da taxa devida pela apreciação do mesmo.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 9.º — Pronúncia do operador da RESP
+
+1 - O operador da RESP pronuncia-se no prazo de 30 dias contados da apresentação do pedido de informação mencionado no artigo 7.º, emitindo parecer técnico favorável ou desfavorável, no qual indica as condições técnicas de ligação à rede, dando conhecimento do mesmo à DGEG.
+
+2 - O operador de rede dispõe de 10 dias após a receção do pedido para pedir esclarecimentos ou informações complementares ao requerente ou, se necessário, à DGEG, caso em que o prazo referido no número anterior se suspende até à receção da última resposta.
+
+3 - A informação do operador da rede é disponibilizada ao titular do pedido, que, querendo, poderá pronunciar-se nos 5 dias subsequentes, suspendendo-se o procedimento durante o prazo de pendência de resposta.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 10.º — Reserva de ponto de receção
+
+1 - A informação técnica do operador da rede deve indicar, nomeadamente, a potência máxima injetável na rede e eventuais restrições técnicas a observar, o local do ponto de injeção e respetiva zona de rede (ZR), a tensão nominal, o regime do neutro e a potência de curto-circuito, bem como as obras e os trabalhos a efetuar a expensas do promotor, incluindo eventuais reforços e, se necessário, a data indicativa a partir da qual existe capacidade de receção disponível na RESP.
+
+2 - Para os efeitos do número anterior, e sempre que tal se releve necessário, o operador da RESP solicita informações complementares à DGEG ou ao requerente, devendo este pronunciar-se no prazo máximo de 15 dias.
+
+3 - A informação técnica favorável do operador da rede implica a reserva do respetivo ponto de receção a favor do requerente durante o prazo máximo para apresentação do pedido de licença de produção que, nos termos do artigo seguinte, lhe seja aplicável.
+
+4 - A informação técnica desfavorável do operador da RESP é devidamente fundamentada pelo mesmo, nos termos do n.º 2 do artigo 33.º-F do Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237-B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro, e precedida de audiência prévia do requerente.
+
+5 - Às situações previstas no número anterior aplica-se o disposto no n.º 4 do artigo 33.º-F do Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237-B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro.
+
+6 - Quando o operador da RESP verifique uma situação de concorrência entre dois ou mais pedidos de informação sobre a existência de capacidade de injeção na RESP no mesmo ponto de receção, comunica à DGEG a referida situação.
+
+7 - Nos casos previstos no número anterior, quando outra solução não resulte das peças dos procedimentos mencionados no n.º 1 do artigo 5.º a DGEG procede à seleção dos referidos pedidos nos termos do artigo 33.º-K do Decreto-Lei n.º 172/2006, de 23 de agosto, alterado pelos Decretos-Leis n.os 237-B/2006, de 18 de dezembro, 199/2007, de 18 de maio, 264/2007, de 24 de julho, 23/2009, de 20 de janeiro, 104/2010, de 29 de setembro, e 215-B/2012, de 8 de outubro.
+
+8 - Para os efeitos de seleção de pedidos nos termos do número anterior, e sempre que tal se releve necessário, a DGEG solicita informações complementares ao requerente que permitam avaliar objetivamente o projeto com base nos critérios estabelecidos no artigo 33.º-F do referido Decreto-Lei n.º 172/2006, de 23 de agosto, devendo este pronunciar-se no prazo máximo de 15 dias.
+
+9 - No caso em que o requerente não se pronuncie no prazo estabelecido no número anterior, a DGEG utiliza a informação constante em formulário de avaliação interno, homologado pelo membro do Governo responsável pela área de energia, para avaliar os requisitos referidos no artigo 33.º-F do referido Decreto-Lei n.º 172/2006, de 23 de agosto, cuja informação se encontra em falta.
+
+10 - Quando não seja possível ordenar os pedidos com base no critério referido no n.º 7, a DGEG determina a reserva da capacidade de injeção na RESP a favor daquele que apresentou primeiro o pedido de informação sobre a existência de capacidade de injeção na RESP, nos termos do artigo 7.º
+
+11 - A reserva do ponto de receção torna-se efetiva após constituição de caução à ordem do operador da RESP, num prazo máximo de 30 dias a contar da data de notificação da informação técnica favorável ou da decisão referida no número anterior, conforme aplicável, ao requerente.
+
+12 - O valor da caução referido no número anterior é de (euro) 5.000 por cada MW de capacidade de injeção requerida.
+
+13 - A caução prestada nos termos do n.º 11 é devolvida ao requerente uma vez cumprido o prazo para apresentação do pedido de atribuição de licença de produção, previsto no artigo 11.º, ou que resulte do Contrato ou da decisão de adjudicação, podendo, em alternativa, ser considerada para efeitos da alínea a) do n.º 1 do artigo 19.º, conforme decisão do requerente.
+
+14 - O disposto no n.º 9 não se aplica aos requerentes que, no âmbito de procedimento concursal, prestem caução que contemple a situação de incumprimento do prazo para apresentação do pedido de licença de produção.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+### Capítulo III — Licença de produção
+
+###### Artigo 11.º — Prazo para requerer a atribuição da licença de produção
+
+1 - Sem prejuízo do disposto nos números seguintes, e do Contrato ou a decisão de adjudicação poderem fixar um prazo inicial distinto, o titular dispõe de um prazo de quatro meses, contados do termo do prazo para apresentação da caução referida no artigo anterior, para requerer a licença de produção.
+
+2 - O prazo previsto no número anterior é elevado para 24 meses, no caso do ponto de receção se destinar a centros eletroprodutores cuja atribuição de licença de produção, nos termos da legislação aplicável, dependa ou esteja sujeita a um dos seguintes procedimentos:
+
+a) O procedimento de avaliação de impacte ambiental;
+
+b) O procedimento de avaliação de incidências ambientais;
+
+c) O procedimento de obtenção de título de utilização do domínio hídrico;
+
+d) O procedimento de obtenção de título de utilização do espaço marítimo;
+
+e) O procedimento de contratação pública, nos termos do Código dos Contratos Públicos.
+
+3 - Os prazos previstos nos n.os 1 e 2 podem ser prorrogados por um período máximo de 2 e 12 meses, respetivamente, mediante pedido do promotor justificado na inimputabilidade do atraso.
+
+4 - Não sendo demonstrado e/ou aceite o fundamento invocado para a prorrogação prevista no número anterior, a prorrogação só pode ser concedida, até ao mesmo limite temporal, caso o promotor proponha uma redução à remuneração mediante um desconto à tarifa que lhe vier a ser aplicável à data do início da exploração e esta seja aceite nos termos dos números seguintes.
+
+5 - O desconto referido no número anterior deve conduzir a uma tarifa final não superior à última tarifa publicada no Diário da República para a respetiva tecnologia, à data da apresentação do pedido de prorrogação do prazo, no âmbito do regime de remuneração garantida ou bonificada da produção em regime especial.
+
+6 - O desconto referido no número anterior pode ser substituído ou cumular com o pagamento de uma contrapartida financeira para o SEN, estando qualquer uma dessas propostas e, consequentemente, a prorrogação do prazo solicitada, sujeitas à aceitação prévia pelo membro do Governo responsável pela área da energia.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 12.º — Instrução do pedido de atribuição de licença de produção
+
+O pedido de atribuição de licença de produção é instruído com os elementos constantes do ponto B do Anexo I da presente portaria, devendo ainda obedecer ao estipulado no Contrato ou decisão de adjudicação, consoante o caso, e à informação técnica sobre a existência de capacidade de receção e as condições de ligação à rede a que o interessado se pretenda ligar, emitida pelo operador da RESP em prazo não superior ao previsto nos n.os 1 e 2 do artigo 11.º, ou dentro do prazo que venha a ser fixado no âmbito dos procedimentos referidos no n.º 1 do artigo 5.º, sob pena de tal constituir fundamento de indeferimento do pedido.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 13.º — Verificação da conformidade da instrução do pedido
+
+1 - Após a apresentação do pedido de atribuição de licença de produção, a DGEG verifica, no prazo máximo de 20 dias, a conformidade da sua instrução à luz do disposto no artigo anterior e, se for caso disso, solicita ao requerente os elementos em falta, complementares ou a sua correção, a realizar no prazo de 10 dias, comunicando que tal solicitação determina a suspensão do prazo de apreciação e alertando para o facto de que a sua não satisfação, no referido prazo, determina a rejeição do pedido de atribuição da licença de produção.
+
+2 - Estando o pedido regularmente instruído, a DGEG notifica o requerente para proceder ao pagamento da taxa devida pela apreciação do mesmo.
+
+3 - Estando o pedido devidamente instruído e comprovado o pagamento da taxa, a DGEG:
+
+a) Ordena ao requerente que promova, a expensas suas, a publicação de éditos elaborados pela DGEG em jornal de circulação nacional, quando o projeto não esteja sujeito a procedimento de avaliação de impacte ambiental ou de avaliação de incidências ambientais, em conformidade com os respetivos regimes jurídicos;
+
+b) Promove a consulta das entidades, nos termos do artigo seguinte.
+
+4 - Para além do disposto na alínea a) do número anterior, a DGEG deve ainda assegurar a publicação dos éditos no seu sítio de Internet e remeter à câmara municipal e juntas de freguesia em cuja área o projeto é implantado para afixação em lugar público das respetivas sedes.
+
+5 - Os éditos referidos na alínea a) do n.º 3 e no número anterior tornam público os elementos essenciais do pedido de atribuição de licença de produção para que eventuais interessados possam apresentar sugestões ou reclamações, no prazo de 10 dias a contar da data da publicação ou afixação do édito, consoante o meio através do qual o interessado em causa tomou conhecimento.
+
+###### Artigo 14.º — Informação do operador da rede pública e de outras entidades
+
+1 - Após a verificação da regular instrução do pedido apresentado, pode a DGEG solicitar ao operador da RESP a que se ligará o centro eletroprodutor que se volte a pronunciar, no prazo de 20 dias, sobre as condições técnicas de ligação à rede.
+
+2 - Assiste ainda à DGEG a possibilidade de consultar e solicitar pronúncias a outras entidades, no prazo máximo de 30 dias, sempre que tal for legalmente exigido ou entender justificar-se.
+
+3 - A entidade consultada dispõe de 10 dias após a receção do pedido para pedir esclarecimentos ou informações complementares, caso em que o prazo referido no número anterior se suspende até à resposta da DGEG ou do requerente, consoante o caso.
+
+4 - Para efeitos do disposto no n.º 1 e maior celeridade do procedimento de consultas, o promotor deve promover, direta e atempadamente, os procedimentos necessários para a obtenção dos elementos previstos nas alíneas f), g) e h) do ponto B do Anexo I, cabendo à DGEG prestar a colaboração que lhe seja solicitada nos termos da legislação aplicável.
+
+5 - As informações ou os pareceres prestados nos termos do presente artigo devem ser objetivos, fundamentados e conclusivos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 15.º — Decisão do pedido de atribuição de licença de produção
+
+1 - Concluída a instrução do procedimento nos termos previstos nos artigos anteriores, a entidade licenciadora pronuncia-se no prazo de 30 dias contados da data em que terminar o último prazo para pronúncia nos termos do disposto nos n.os 1 e 2 do artigo anterior, tendo em conta as disposições do Código do Procedimento Administrativo relativas à audiência prévia, sem prejuízo do disposto nos artigos seguintes.
+
+2 - Em caso de decisão final favorável ou condicionalmente favorável, considera-se atribuída a licença de produção.
+
+3 - O disposto na parte inicial do n.º 1 não obsta a que a entidade licenciadora, em fase anterior do procedimento, possa indeferir liminarmente o pedido quando considere não estar preenchido o estipulado no Contrato ou decisão de adjudicação, consoante o caso, ou as condições de atribuição do ponto de receção, sem prejuízo da observância das disposições do Código do Procedimento Administrativo nos termos previstos na parte final do n.º 1.
+
+4 - Em caso de indeferimento do pedido de atribuição de licença de produção, o promotor deve ser informado das razões determinantes da mesma, as quais devem ser objetivas e não discriminatórias.
+
+5 - Sem prejuízo da notificação da decisão nos termos legalmente exigidos, a decisão proferida sobre o pedido de atribuição da licença deve ser dada a conhecer ao operador da rede relevante publicitada no sítio da Internet da DGEG.
+
+###### Artigo 16.º — Conteúdo da licença de produção
+
+1 - A decisão de atribuição da licença de produção de eletricidade em regime especial deve conter, nomeadamente, os seguintes elementos:
+
+a) A identificação completa do titular;
+
+b) As principais características do centro eletroprodutor, a indicação do ponto de receção, da potência aparente, em MVA, da potência instalada bruta e líquida, em MVA e MW, a fonte de energia primária e a tecnologia a utilizar, incluindo todos os combustíveis, e, se for o caso, a percentagem máxima admissível de utilização de combustíveis fósseis para arranque ou aquecimento da central, o distrito, concelho e freguesia de localização e indicação das respetivas coordenadas no sistema de referência PT-TM06/ETRS89;
+
+c) O prazo da licença de produção, nos casos de utilização do domínio hídrico ou do espaço marítimo previstos no artigo seguinte;
+
+d) O prazo fixado para o início da exploração do centro eletroprodutor;
+
+e) O regime da remuneração garantida aplicável aquando do início da exploração e o desconto à tarifa, quando aplicável, nos termos da presente portaria e da portaria referida no n.º 2 do artigo 1.º;
+
+f) Outras obrigações ou condições especiais a que eventualmente fique sujeito o titular da licença.
+
+2 - Atribuída a licença de produção, o respetivo ponto de receção incorpora-se nesta licença.
+
+3 - A Declaração de Impacte Ambiental (DIA), a Declaração de Incidências Ambientais (DIncA), ou outras licenças, autorizações, pareceres ou declarações de aceitação de entidades competentes que nos termos da legislação aplicável constituam requisito para o licenciamento da instalação ou exploração do centro eletroprodutor ou condição a que aqueles devam ficar sujeitos integram o acervo de obrigações a cujo cumprimento se vincula o titular da licença de produção de eletricidade.
+
+4 - A atribuição da licença de produção fica condicionada à obtenção de parecer favorável ao relatório de conformidade do projeto de execução com a respetiva DIA (RECAPE), nos termos do regime jurídico da avaliação do impacte ambiental (RJAIA), quando a DIA tenha sido emitida com base em estudo prévio ou anteprojeto.
+
+5 - Nos casos previstos no número anterior, as obras destinadas à construção e implantação do centro eletroprodutor só podem iniciar-se depois de emitida, pela autoridade de AIA, a decisão sobre a conformidade ambiental do projeto de execução.
+
+6 - A contagem do prazo fixado nos termos da alínea d) do n.º 1 suspende-se durante o período decorrido entre a emissão da licença de produção e a emissão da decisão sobre a conformidade ambiental do projeto de execução pela autoridade de AIA, quando este for exigível para o início da construção e implantação do centro eletroprodutor, sem prejuízo do disposto no número seguinte.
+
+7 - O período de suspensão referido no número anterior não pode exceder o limite de 5 meses, data a partir da qual a contagem do prazo é retomada.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 17.º — Duração da licença de produção
+
+1 - A licença de produção de eletricidade em regime especial não está sujeita a prazo de duração, sem prejuízo da extinção prevista no artigo 31.º da presente portaria e do disposto no número seguinte.
+
+2 - Quando a eletricidade produzida provenha de fonte hídrica do domínio público ou o centro eletroprodutor se destine a ser instalado em espaço marítimo, a licença de produção fica sujeita ao prazo estabelecido no respetivo título de utilização.
+
+###### Artigo 18.º — Direitos do titular da licença de produção
+
+São direitos do titular da licença de produção, nos termos da lei, da presente portaria e da respetiva licença:
+
+a) Estabelecer e explorar o centro eletroprodutor;
+
+b) Vender energia elétrica produzida ao Comercializador de Último Recurso (CUR).
+
+###### Artigo 19.º — Deveres do titular da licença de produção
+
+1 - São deveres do titular da licença de produção de eletricidade em regime especial, nomeadamente:
+
+a) Prestar, no prazo de 30 dias contados a partir da atribuição da licença de produção, à ordem da DGEG, uma caução destinada a garantir o cumprimento de todas as obrigações do titular da licença de produção até à entrada em exploração do centro eletroprodutor, nos termos previstos no número seguinte;
+
+b) Efetuar todas as diligências necessárias à obtenção das autorizações legalmente previstas para a construção do centro eletroprodutor, tendo em vista cumprir o cronograma de desenvolvimento e a implementação do projeto de acordo com os termos da respetiva licença e, se for o caso, das decisões proferidas nos procedimentos de avaliação ambiental de que dependeu a sua atribuição;
+
+c) Comunicar à DGEG e ao operador da rede a que se liga o centro eletroprodutor a conclusão da construção e montagem do centro eletroprodutor;
+
+d) Requerer a emissão da licença de exploração, tendo em vista a entrada em exploração industrial dentro do prazo estabelecido para o efeito na licença de produção ou na presente portaria, consoante o caso;
+
+e) Cumprir todas as disposições legais e regulamentares em vigor e as derivadas da licença de produção;
+
+f) Cumprir, no que for aplicável, as disposições do Regulamento de Relações Comerciais, do Regulamento de Operação das Redes, do Regulamento da Rede de Transporte, do Regulamento da Rede de Distribuição, do Regulamento de Acesso às Redes e às Interligações e com o Guia de Medição e Disponibilização de Dados e o Guia Técnico de Instalações de Produção Independente de Energia Elétrica;
+
+g) Enviar à DGEG e à ERSE os dados informativos referentes ao funcionamento e à exploração do centro eletroprodutor:
+
+i) Até ao final de cada mês, os dados mensais referentes ao penúltimo mês anterior;
+
+ii) Até ao final do mês de março de cada ano, os dados anuais referentes ao ano civil anterior;
+
+h) Constituir e manter atualizado o seguro de responsabilidade civil exigido nos termos do artigo 29.º do Decreto-Lei n.º 172/2006, de 23 de agosto;
+
+i) Permitir e facilitar o acesso das entidades fiscalizadoras às suas instalações, facultando-lhes as informações e os dados necessários ao exercício da sua atividade de fiscalização;
+
+j) Permitir e facilitar o acesso às suas instalações por parte das entidades competentes para efeitos da verificação da disponibilidade do centro eletroprodutor, ao abrigo do disposto no artigo 33.º-C do Decreto-Lei n.º 172/2006, de 23 de agosto;
+
+k) Requerer a autorização da DGEG ou comunicar-lhe, previamente, a realização de quaisquer alterações ao centro eletroprodutor, nos termos da presente portaria.
+
+2 - A caução a prestar nos termos da alínea a) do número anterior deve ser idónea, autónoma, irrevogável e pagável à primeira solicitação e o seu valor deve corresponder a 2 % do valor do montante do investimento previsto para a instalação do centro eletroprodutor, não podendo ultrapassar 10 milhões de euros.
+
+3 - A caução referida no número anterior deve ser acionada quando o titular não inicie a exploração no prazo fixado na licença de produção, ou até ao final do prazo da prorrogação concedida ao abrigo do artigo seguinte, caso em que o seu valor é entregue ao operador da RNT para ser repercutido na tarifa de uso global do sistema, devendo a caução ser liberada na data de início da exploração quando esta ocorra dentro do referido prazo ou da prorrogação concedida.
+
+###### Artigo 20.º — Prazos de execução das instalações
+
+1 - O titular de licença de produção deve concluir os trabalhos de instalação do centro eletroprodutor e iniciar a exploração no prazo fixado na licença de produção, o qual, com exceção dos casos previstos no número seguinte, não pode ultrapassar dois anos contados da data da sua emissão, deduzidos do período de suspensão previsto nos n.os 6 e 7 do artigo 16.º, quando aplicável.
+
+2 - Nos casos a seguir indicados, o prazo máximo previsto no número anterior é o seguinte:
+
+a) Três anos, no caso de promotores sujeitos ao regime da contratação pública para a implementação do centro eletroprodutor;
+
+b) Cinco anos, no caso de centros eletroprodutores instalados no espaço marítimo;
+
+c) Seis anos, no caso de centrais hidroelétricas;
+
+3 - Mediante pedido devidamente fundamentado do titular da licença, podem os prazos previstos nos números anteriores ser prorrogados pela entidade licenciadora por um período não superior a metade do prazo inicialmente fixado, desde que os fundamentos apresentados para a prorrogação do prazo não tenham por base facto imputável ao titular da licença ou à evolução das condições dos mercados de eletricidade e financeiros.
+
+4 - Caso os fundamentos invocados para a prorrogação prevista no número anterior não sejam aceites ou quando a prorrogação concedida se tenha mostrado insuficiente, a entidade licenciadora pode conceder uma prorrogação adicional, por prazo não superior a metade do inicial, caso o promotor ofereça um desconto à tarifa que lhe vier a ser aplicável à data do início da exploração e essa proposta de desconto seja aceite pelo membro do Governo responsável pela área da energia.
+
+5 - O desconto referido no número anterior deve conduzir a uma tarifa final não superior à última tarifa publicada no Diário da República para a respetiva tecnologia, à data da apresentação do pedido de prorrogação do prazo, no âmbito do regime de remuneração garantida ou bonificada da produção em regime especial.
+
+6 - O desconto referido nos números anteriores pode ser substituído ou cumular com o pagamento de uma contrapartida financeira para o Sistema Elétrico Nacional (SEN).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+### Capítulo IV — Licença de exploração e ligação à RESP
+
+###### Artigo 21.º — Atribuição da licença de exploração
+
+1 - O titular da licença de produção só pode iniciar a exploração industrial do centro eletroprodutor após obtenção da licença de exploração a emitir na sequência da realização de vistoria, nos termos do artigo 21.º do Decreto-Lei n.º 172/2006, de 23 de agosto.
+
+2 - O pedido de emissão da licença de exploração deve conter ou ser acompanhado dos elementos previstos no ponto C do Anexo I à presente portaria.
+
+3 - Estando o pedido devidamente instruído, a DGEG profere decisão sobre o pedido de licença de exploração, no prazo de 20 dias contados da receção do relatório da vistoria a emitir nos termos dos n.os 5 a 7 do artigo 21.º do Decreto-Lei n.º 172/2006, de 23 de agosto.
+
+4 - O pedido de licença de exploração é indeferido, após audiência prévia do requerente, nos termos do Código do Procedimento Administrativo, com fundamento em algum dos seguintes motivos:
+
+a) Desconformidade da instalação com os termos da licença de produção e nomeadamente a DIA, RECAPE ou a DIncA, consoante o caso;
+
+b) Desconformidade das instalações com os condicionamentos legais e regulamentares;
+
+5 - A exploração pode iniciar-se, provisoriamente, pelo prazo máximo de 90 dias, quando:
+
+a) A DGEG não realize a vistoria no prazo máximo de 30 dias legalmente fixado; ou
+
+b) A DGEG autorize com base em vistoria que conclua pela conformidade mínima da instalação para efeitos de início provisório da exploração.
+
+6 - Superados que estejam os motivos determinantes da aplicação do disposto no número anterior, a licença de exploração é emitida com efeitos retroagidos à data do início efetivo da exploração e comunicada ao titular da licença e ao operador de rede.
+
+7 - A licença de exploração define as condições a que fica sujeita a exploração e, uma vez concedida, é incorporada na licença de produção do centro eletroprodutor a que respeita.
+
+###### Artigo 22.º — Ligação à rede
+
+1 - O titular da licença de produção apresenta ao operador da rede a que se liga o centro eletroprodutor o recibo da apresentação na DGEG do pedido de emissão da licença de exploração, bem como cópia dos elementos previstos nas alíneas a) a c) do ponto C do Anexo I, a fim de serem iniciados os procedimentos destinados à efetivação da ligação à rede.
+
+2 - A injeção de potência na rede pode ser iniciada logo que o centro eletroprodutor possa entrar em exploração, ainda que a título provisório, ao abrigo e nos termos do disposto no n.º 5 do artigo anterior.
+
+3 - Os procedimentos técnicos e contratuais para efetivação da ligação à rede e início de injeção de potência devem estar concluídos no prazo máximo de 30 dias contados da notificação da atribuição da licença de exploração ao operador da rede, ou da conclusão do ramal de ligação, conforme o que ocorrer mais tarde.
+
+### Capítulo V — Da transmissão, alteração e outras vicissitudes do ponto de receção ou da licença de produção
+
+###### Artigo 23.º — Transmissão
+
+1 - São suscetíveis de transmissão de titularidade mediante negócio entre vivos, nos termos do disposto nos números seguintes:
+
+a) O ponto de receção ou a licença de produção que não integre ainda a licença de exploração;
+
+b) A licença de produção em que já se encontre incorporada a licença de exploração do centro eletroprodutor objeto de transmissão.
+
+2 - As transmissões previstas no número anterior estão sujeitas a mera declaração, por parte do transmissário à DGEG, sempre que realizadas no contexto de uma transferência realizada em processo de restruturação societária sob a forma de transformação, fusão ou cisão.
+
+3 - Com exceção dos casos previstos no número anterior, a transmissão prevista na alínea a) do n.º 1 apenas pode ser realizada no contexto de uma cessão de posição contratual ou entre sociedades em relação de domínio ou de grupo e está sujeita a prévia autorização pela DGEG.
+
+4 - Caso a transmissão prevista na alínea a) do n.º 1 seja realizada no contexto de uma cessão de posição contratual, a autorização aqui prevista fica consubstanciada na autorização dada pela DGEG ou pelo membro do Governo responsável pela área da energia, consoante o caso, de acordo com o disposto no Contrato.
+
+5 - Com exceção dos casos previstos no n.º 2, a transmissão prevista na alínea b) do n.º 1 está sujeita a prévia autorização da DGEG.
+
+6 - A transmissão realizada fora dos casos e nos termos previstos nos números anteriores é proibida.
+
+7 - O disposto no n.º 5 aplica-se, com as necessárias adaptações, à cedência temporária da gestão ou exploração do centro eletroprodutor que se encontre dotado de licença de exploração.
+
+###### Artigo 24.º — Procedimento de transmissão
+
+1 - A declaração de transmissão prevista no n.º 2 do artigo anterior deve indicar a operação de restruturação realizada para efeitos do averbamento da transmissão e estar acompanhada da respetiva certidão permanente de registo comercial online (ou o código de acesso à mesma), bem como do comprovativo do pagamento da taxa devida pelo averbamento da transmissão.
+
+2 - As autorizações para as transmissões previstas nos n.os 3 e 5 do artigo anterior são promovidas mediante pedido do titular, o qual deve indicar sucintamente os motivos determinantes da mesma e ser acompanhado da identificação completa do promitente transmissário e declaração deste aceitando a transmissão e todas as condições do licenciamento realizado, bem como do comprovativo do pagamento da taxa aplicável.
+
+3 - As autorizações só podem ser concedidas no caso de o transmissário observar os requisitos subjetivos de que dependeu a atribuição do Contrato ou da decisão de adjudicação, ou ainda do licenciamento, consoante o que for aplicável.
+
+4 - A DGEG pode solicitar ao requerente ou ao promitente transmissário os esclarecimentos ou informações complementares, os quais devem ser apresentados no prazo fixado para o efeito, suspendendo-se o procedimento até à sua apresentação.
+
+5 - Concedida a autorização à transmissão, o transmissário deve solicitar à DGEG, dentro do prazo por esta fixado, o averbamento em seu nome das licenças emitidas, juntando certidão do contrato que titulou a transmissão.
+
+6 - O transmissário fica sujeito aos mesmos deveres, obrigações e encargos do transmitente, e se for o caso, a todos os demais que eventualmente lhe tenham sido impostos no ato de autorização de que careça a transmissão.
+
+7 - O ato de autorização a que se refere o presente artigo caduca se não for celebrado o negócio jurídico que titula a transmissão no prazo fixado nos termos do n.º 5.
+
+8 - O disposto nos n.os 2, 4 e 7 aplica-se, com as necessárias adaptações, à cedência temporária da gestão ou da exploração do centro eletroprodutor que se encontre titulado por licença de exploração.
+
+###### Artigo 25.º — Alteração
+
+1 - Considera-se alteração ao centro eletroprodutor qualquer modificação introduzida nas características do ponto de receção ou licença de produção, nomeadamente as seguintes:
+
+a) [Revogado];
+
+b) O reforço da potência instalada;
+
+c) O reforço da potência de injeção na RESP;
+
+d) A mudança de ponto de receção na RESP desde que não afete a localização de um centro eletroprodutor já instalado ou em obra;
+
+2 - As alterações previstas nas alíneas b) e c) do número anterior, à exceção daquelas que resultem exclusivamente do uprating de parte ou totalidade dos aerogeradores que o compõem, não se aplicam aos centros eletroprodutores eólicos, regendo-se por diploma próprio.
+
+3 - Para efeitos do disposto no número anterior, entende-se por uprating de um aerogerador, a alteração que se traduz no acréscimo da potência nominal do aerogerador, conseguida, exclusivamente, por adaptação dos parâmetros de controlo da conversão de energia eólica em elétrica, podendo implicar, caso o aerogerador não esteja preparado para o efeito, a modificação ou substituição de componentes, ou, ainda, a instalação de componentes complementares, desde que, em qualquer caso, isso não implique a substituição de aerogeradores ou a instalação de aerogeradores adicionais.
+
+4 - As alterações previstas no n.º 1 estão sujeitas a autorização e observam o disposto nos artigos 27.º e 28.º, conforme aplicável.
+
+5 - Estão sujeitas a comunicação prévia com prazo, dirigida à DGEG, as seguintes alterações:
+
+a) A redução da potência de ligação atribuída, ou a redução da potência instalada, salvo nos casos em que o Contrato ou a decisão de adjudicação estipule em contrário;
+
+b) A mera substituição de transformadores ou outros componentes técnicos da ligação à RESP, ou componentes da unidade de produção, desde que não envolvam acréscimos de potência instalada ou a injetar na RESP.
+
+6 - Sem prejuízo dos poderes de fiscalização que lhe estão cometidos, a comunicação prévia apresentada ao abrigo do disposto no número anterior produz efeitos se a DGEG não se pronunciar em sentido contrário no prazo de 20 dias a contar da data da sua apresentação.
+
+7 - Estão sujeitas a mera comunicação prévia, dirigida à DGEG, as seguintes alterações:
+
+a) A alteração da tensão nominal, o regime do neutro e a potência de curto-circuito;
+
+b) A alteração da localização do centro eletroprodutor para outro local dentro da mesma zona de rede.
+
+8 - As comunicações prévias previstas nos n.os 5 e 7 são sempre acompanhadas de parecer favorável do operador da rede a que se liga o centro eletroprodutor, sob pena de rejeição liminar da comunicação prévia com prazo ou de se considerar que a mera comunicação prévia não foi apresentada, conforme aplicável.
+
+9 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 25.º-A — Desconto à tarifa
+
+1 - Para além do cumprimento dos requisitos e condições de natureza técnica, ambiental e económica previstos nos artigos seguintes, a autorização das alterações mencionadas no n.º 1 do artigo anterior depende da apresentação, pelo titular do ponto de receção ou licença de produção, consoante o caso, de uma proposta de desconto à tarifa que lhe vier a ser aplicável à data do licenciamento e início da exploração, que tem de corresponder a, pelo menos, 5 % sobre essa tarifa, ou, caso haja uma mudança de tarifário, sobre a tarifa mais baixa resultante da aplicação do disposto no n.º 3, e essa proposta de desconto seja aceite pelo membro do Governo responsável pela área da energia.
+
+2 - Para efeitos do disposto no número anterior, a DGEG procede à avaliação dos benefícios que a proposta de desconto acarreta para o Sistema Elétrico Nacional (SEN), tendo em conta, nomeadamente, a evolução dos custos marginais de produção previstos no Relatório de Monitorização de Segurança de Abastecimento, elaborado pela DGEG, e o disposto no número seguinte, submetendo, em função dos resultados dessa análise, uma proposta de decisão ao membro do Governo responsável pela área da energia.
+
+3 - Se a alteração envolver uma mudança de tarifário, a tarifa base a considerar para efeitos de aplicação do desconto é a mais baixa entre a tarifa de origem e a tarifa de destino em vigor à data da alteração pretendida, e a tarifa resultante da aplicação do desconto tem de ser inferior à mais baixa.
+
+4 - No caso previsto no número anterior, sempre que os períodos de garantia previstos nos tarifários de origem e de destino forem diferentes, prevalece o período de garantia mais curto e a sua contagem, se já iniciada, não se interrompe.
+
+5 - O desconto referido no n.º 1 pode ser substituído ou cumular com o pagamento de uma contrapartida financeira para o SEN.
+
+6 - Estão isentas da obrigação de desconto prevista no n.º 1 as alterações solicitadas ao abrigo do disposto na alínea d) do n.º 1 do artigo 25.º, quando o pedido de mudança de ponto de receção decorra de razões relacionadas com a disciplina de ordenamento do território prevalecente, da DIA ou RECAPE ou DIncA negativos, e nos n.os 5 e 7 do mesmo artigo.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 25.º-B — Determinação do desconto à tarifa
+
+1 - Para efeitos do disposto nos n.os 1 e 2 do artigo anterior, e tratando-se de pedido de alterações previstas nas alíneas b) e c) do n.º 1 do artigo 25.º, considera-se que existe benefício para o SEN quando o desconto oferecido conduza a uma tarifa final, apurada à data do respetivo pedido de alteração, a aplicar à totalidade da energia produzida pelo centro eletroprodutor após a respetiva alteração, não superior à tarifa de referência apurada de acordo com a seguinte expressão:
+
+(ver documento original)
+
+2 - A DGEG publica no respetivo sítio de Internet informação e simulações que exemplifiquem o apuramento da tarifa final aplicável à energia elétrica produzida pelos promotores ou titulares de licença de produção ou estabelecimento que apresentem os pedidos referidos no número anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 26.º — Mudança de tecnologia
+
+1 - Considera-se mudança de tecnologia a alteração para uma tecnologia de produção de eletricidade que utilize a mesma fonte primária, entendendo-se, nomeadamente, que as diferentes tecnologias de produção que utilizem biomassa e outros resíduos ou energia solar compreendem-se em cada uma das referidas fontes primárias.
+
+2 - Para efeitos do disposto no número anterior, cabe à DGEG, mediante despacho, definir e divulgar a classificação das tecnologias compreendidas em cada fonte primária.
+
+3 - A autorização da mudança de tecnologia pode ser concedida desde que a DGEG a considere justificada e benéfica para o SEN, à luz do disposto nos n.os 4 e 5 do artigo anterior e dos seguintes critérios específicos de apreciação:
+
+a) A mudança não seja suscetível de implicar alterações significativas do mix energético das energias de fonte renovável, das respetivas metas nacionais e comunitárias ou dos objetivos de política energética ou de outras políticas públicas determinantes da atribuição da tecnologia inicial;
+
+b) Otimização dos investimentos associados à exploração do centro eletroprodutor e sua eficiência;
+
+c) Minimização dos impactos ambientais ou sobre o território.
+
+> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 27.º — Reforço da potência instalada
+
+1 - Considera-se reforço da potência instalada o aumento de potência do centro eletroprodutor, ainda que já instalado, mediante a substituição ou instalação de geradores adicionais, caldeiras ou turbinas ou a sua otimização através da alteração das características técnicas de funcionamento originais, destinadas a elevar a sua capacidade de produção de eletricidade.
+
+2 - A autorização do reforço da potência instalada pode ser concedida desde que a DGEG o considere justificado e benéfico para o SEN, à luz do disposto nos n.os 1 e 2 do artigo 25.º-A e dos seguintes critérios específicos de apreciação:
+
+a) Existência de capacidade de receção e condições técnicas de ligação no ponto de rede e não afetação da segurança e fiabilidade da RESP, sempre que o reforço da potência instalada seja acompanhado de um aumento da potência de injeção de energia elétrica na RESP;
+
+b) Otimização dos investimentos associados à exploração do centro eletroprodutor;
+
+c) Minimização dos impactos ambientais ou sobre o território;
+
+d) O aumento pretendido de capacidade instalada não ser superior aos valores a seguir indicados para cada tecnologia de produção de eletricidade:
+
+i) Biogás, biomassa florestal, resíduos de biomassa e outros resíduos - 5 MW;
+
+ii) Solar térmico ou solar fotovoltaico - 1 MW;
+
+iii) Hídricas até 10 MW de capacidade instalada - 2 MW, desde que no total não ultrapasse aquele limiar;
+
+iv) Outras tecnologias - limite máximo a definir por despacho do diretor-geral da DGEG, homologado pelo membro do Governo responsável pela área da energia.
+
+3 - Os pedidos de reforço de potência instalada não podem perfazer, relativamente a cada centro eletroprodutor, um limite máximo superior ao previsto no número anterior para cada tecnologia de produção.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 28.º — Reforço da potência de injeção na RESP
+
+1 - Considera-se reforço de potência de injeção na RESP, o aumento da potência de injeção na RESP para além do limite máximo autorizado na decisão de atribuição do ponto de receção ou da licença de produção.
+
+2 - A autorização do reforço de potência pode ser concedida desde que a DGEG o considere justificado e benéfico para o SEN, à luz do disposto nos n.os 1 e 2 do artigo 25.º-A e dos seguintes critérios específicos de apreciação:
+
+a) Existência de capacidade de receção e condições técnicas de ligação no ponto de receção atribuído e não afetação da segurança e fiabilidade da RESP;
+
+b) Otimização dos investimentos associados à exploração do centro eletroprodutor e à sua interligação à RESP;
+
+3 - O reforço de potência pretendido não pode ser superior aos valores a seguir indicados para cada tecnologia de produção de eletricidade:
+
+a) Biogás, biomassa florestal, resíduos de biomassa e outros resíduos - 5 MW;
+
+b) Solar térmico ou solar fotovoltaico - 1 MW;
+
+c) Hídricas até 10 MW de capacidade instalada - 2 MW, desde que no total não ultrapasse aquele limiar;
+
+d) Outras tecnologias: limite a definir por despacho do diretor-geral da DGEG, homologado pelo membro do Governo responsável pela área da energia.~
+
+4 - Os pedidos de reforço de potência de injeção não podem perfazer, relativamente a cada centro eletroprodutor, um limite máximo superior ao previsto no número anterior para cada tecnologia de produção.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 29.º — Mudanças de ponto de receção
+
+1 - Considera-se mudança de ponto de receção a alteração do ponto de injeção na RESP, ou das suas características, designadamente em resultado da mudança da localização do centro eletroprodutor a instalar.
+
+2 - A autorização da mudança de ponto de receção pode ser concedida em caso de impossibilidade de implantar a central na zona de rede preestabelecida por razões não imputáveis ao promotor segundo juízos de razoabilidade, nomeadamente, por razões relacionadas com a disciplina de ordenamento do território prevalecente, da DIA ou RECAPE ou DIncA negativas, ou manifesta indisponibilidade de contratação de terrenos alternativos com a aptidão necessária, desde que a DGEG a considere justificada e benéfica para o SEN, nomeadamente à luz do disposto nos n.os 1 e 2 do artigo 25.º-A e dos seguintes critérios específicos de apreciação:
+
+a) Existência de capacidade de receção e condições técnicas de ligação no ponto de rede pretendido e a segurança e fiabilidade da RESP não serem prejudicados;
+
+b) Otimização dos investimentos associados à exploração do centro eletroprodutor e à sua interligação à RESP;
+
+c) Minimização dos impactos ambientais ou sobre o território.
+
+3 - Nos casos previstos nos números anteriores, a alteração a efetuar nas características do centro eletroprodutor previstas no Contrato ou na decisão de adjudicação pode ser realizada antes da atribuição do ponto de receção, aplicando-se o disposto nos n.os 5 a 8 do artigo 25.º e nos n.os 1 a 3 do artigo 25.º-A.
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+6 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 30.º — Procedimento de autorização para alteração
+
+1 - O procedimento de autorização para alteração inicia-se com a apresentação de um pedido do promotor, acompanhado da proposta de desconto à tarifa, sempre que aplicável.
+
+2 - O pedido referido no número anterior deve descrever a alteração pretendida e ser acompanhado dos elementos constantes do Anexo I, que careçam de ser modificados em virtude da alteração preconizada para o centro eletroprodutor, nos termos a definir pela DGEG, bem como do comprovativo do pagamento da taxa pela apreciação da referida alteração.
+
+3 - A tramitação do procedimento é a correspondente à atribuição de ponto de receção ou à atribuição das licenças previstas na presente portaria, consoante a fase de licenciamento em que a alteração se suscitar, aplicada com as necessárias adaptações, atendendo-se, nomeadamente, ao disposto nos n.os 1 e 2 do artigo 25.º-A.
+
+4 - Concedida a autorização a DGEG procede ao averbamento da alteração.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 31.º — Extinção
+
+1 - O ponto de receção e a licença de produção extinguem-se por caducidade ou por revogação, nos termos dos artigos seguintes.
+
+2 - A extinção da licença de produção, quando esta integre o ponto de receção ou a licença de exploração, inclui a extinção destes.
+
+3 - Com a extinção, o titular da licença de produção fica obrigado à remoção das instalações implantadas sobre bens do domínio público, nos termos da legislação aplicável.
+
+4 - A reversão das instalações implantadas sobre bens do domínio público processa-se nos termos da legislação aplicável.
+
+5 - A extinção da licença de produção não exonera o seu titular do cumprimento de todas as obrigações decorrentes do exercício da atividade a que se encontre vinculado até à data em que a mesma produza efeitos, nem prejudica o cumprimento das respeitantes ao encerramento e à remoção das instalações, designadamente em matéria de segurança, proteção e monitorização ambiental.
+
+6 - Sem prejuízo do cumprimento do dever de notificação nos termos gerais, a extinção da licença de produção é divulgada no sítio na Internet da DGEG e comunicada ao operador da RESP.
+
+###### Artigo 32.º — Caducidade
+
+1 - O ponto de receção e a licença de produção caducam quando ocorra uma das seguintes situações:
+
+a) Quando o titular do ponto de receção não solicitar a atribuição da licença de produção dentro dos prazos iniciais ou da prorrogação, conforme previsto no artigo 11.º;
+
+b) Quando o titular da licença de produção não apresentar a caução prevista na alínea a) do n.º 1 do artigo 19.º, nos termos e prazo nele estabelecidos;
+
+c) Quando o titular da licença de produção não obtenha parecer favorável ao relatório de conformidade do projeto de execução com a DIA, nos termos do respetivo regime jurídico, quando aplicável;
+
+d) Quando o titular da licença de produção não conclua os trabalhos de instalação do centro eletroprodutor dentro do prazo inicial ou da prorrogação, conforme previsto no artigo 20.º;
+
+e) Quando o título de utilização do domínio hídrico ou do espaço marítimo caduquem ou forem extintos, nos termos da legislação aplicável;
+
+f) Quando o titular comunicar à DGEG que cessou a exploração do centro eletroprodutor;
+
+g) Quando o seu titular renuncie ao ponto de receção ou à licença de produção, mediante declaração escrita dirigida à entidade licenciadora, com uma antecedência não inferior a seis meses relativamente à data pretendida para a renúncia produzir efeitos, salvo se aquela entidade consentir expressamente um prazo diferente;
+
+h) Em caso de transmissão da titularidade do centro eletroprodutor, sem que a transmissão do ponto de receção ou a licença de produção observe o disposto artigo 23.º;
+
+i) Em caso de dissolução, cessação da atividade ou aprovação da liquidação da sociedade em processo de insolvência e recuperação de empresas;
+
+2 - A caducidade do ponto de receção ou da licença de produção, ouvido o titular, é declarada pela entidade licenciadora.
+
+3 - A caducidade do ponto de receção ou da licença de produção nos casos previstos nas alíneas a) a e) e g) do n.º 1 implica a perda da caução prevista no n.º 11 do artigo 10.º ou do n.º 2 do artigo 19.º, conforme aplicável, salvo se, no que respeita ao caso previsto na alínea d), a referida caução já tiver sido devolvida ao titular, ao abrigo do disposto no n.º 3 do artigo 19.º, e se, no caso previsto na alínea g), e ouvido o operador da rede, a renúncia não implicar qualquer prejuízo para o SEN.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 33.º — Revogação
+
+1 - A licença de produção pode ser revogada nas seguintes situações:
+
+a) Quando o seu titular faltar ao cumprimento dos deveres relativos ao exercício da atividade, nos termos da lei, da presente portaria e da respetiva licença de produção;
+
+b) Quando o seu titular não cumprir as determinações impostas pela fiscalização, na sequência de vistoria, inspeção ou auditoria;
+
+c) Quando o seu titular não mantiver atualizado o seguro de responsabilidade civil referido no artigo 29.º do Decreto-Lei n.º 172/2006, de 23 de agosto;
+
+d) Quando o seu titular não cumprir, reiteradamente, o envio à DGEG e à ERSE das informações referidas na alínea i) do n.º 1 do artigo 20.º do Decreto-Lei n.º 172/2006, de 23 de agosto, na versão republicada pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro;
+
+e) Quando o seu titular abandonar as instalações afetas à produção de eletricidade ou interromper a atividade licenciada, em determinado ano, por um período seguido ou interpolado igual ou superior a seis meses, por razões não fundamentadas em motivos de ordem técnica;
+
+f) Quando o titular proceda a alterações do centro eletroprodutor sem que as mesmas tenham sido autorizadas ou, declaradas, ou tenham sido rejeitadas, nos termos da presente portaria.
+
+2 - A decisão de revogação não pode ser proferida sem prévia notificação do titular do ponto de receção ou da licença de produção do incumprimento que a fundamenta e formulado convite para que se pronuncie, por escrito, em prazo fixado não inferior a 10 dias.
+
+3 - A sanação do incumprimento imputado ao titular do ponto de receção ou da licença de produção até ao final do prazo fixado nos termos do número anterior ou outro aceite pela DGEG é ponderada por esta quando da decisão a proferir.
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 34.º — Taxas administrativas
+
+As taxas administrativas devidas pelos atos previstos na presente portaria são fixadas na portaria a que se refere o n.º 1 do artigo 68.º do Decreto-Lei n.º 172/2006, de 23 de agosto.
+
+###### Artigo 35.º — Centros eletroprodutores instalados ou a instalar
+
+1 - O regime previsto nos artigos 25.º a 30.º da presente portaria aplica-se subsidiariamente aos centros eletroprodutores regidos pela lei anterior, nos termos do artigo 15.º do Decreto-Lei n.º 215-B/2012, de 8 de outubro.
+
+2 - Às propostas de desconto à tarifa previstas nos artigos 25.º a 30.º são formuladas ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 33-A/2005, de 16 de fevereiro, na redação dada pelo Decreto-Lei n.º 35/2013, de 28 de fevereiro, aplica-se o disposto nos n.os 1 a 3 do artigo 25.º-A, devendo ter por referência a última tarifa publicada aplicável à tecnologia para a qual se requer a alteração.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 35.º-A — Mudança de tecnologia dos centros eletroprodutores instalados ou a instalar
+
+1 - Os centros eletroprodutores identificados no n.º 1 do artigo anterior podem solicitar a mudança de tecnologia para outra que utilize a mesma fonte primária de energia renovável, aplicando-se a este pedido o disposto no artigo 25.º-A.
+
+2 - Considera-se mudança de tecnologia a alteração para uma tecnologia de produção de eletricidade que utilize a mesma fonte primária, entendendo-se, nomeadamente, que as diferentes tecnologias de produção que utilizem biomassa e outros resíduos ou energia solar compreendem-se em cada uma das referidas fontes primárias.
+
+3 - Para efeitos do disposto no número anterior, cabe à DGEG, mediante despacho, definir e divulgar a classificação das tecnologias compreendidas em cada fonte primária.
+
+4 - Para efeitos da aplicação do disposto no n.º 2 do artigo 25.º-A, considera-se que existe benefício para o SEN quando o desconto permita aplicar à totalidade da energia injetada na RESP uma tarifa final que não ultrapasse a última publicada no Diário da República para a respetiva tecnologia, entendendo-se como tal, e se for a última publicada, a tarifa de referência vigente à data do pedido de alteração para a mesma fonte primária no âmbito do regime de remuneração garantida ou bonificado da produção em regime especial, salvo se esta inexistir para a fonte primária a que respeita a alteração ou tiver valor superior à que resultar da aplicação das regras dos n.os 1 e 3 do artigo 25.º-A.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 35.º-B — Mudança de fonte primária de energia renovável utilizada pelos centros eletroprodutores instalados ou a instalar
+
+1 - Sem prejuízo do disposto no n.º 4, os centros eletroprodutores mencionados no n.º 1 do artigo 35.º podem solicitar a mudança de fonte primária de energia renovável utilizada para a produção de eletricidade, mediante pedido dirigido ao membro do Governo responsável pela área da energia, demonstrando a impossibilidade de instalar o centro eletroprodutor associado à fonte primária inicialmente prevista, por razões não imputáveis ao promotor, nomeadamente, relacionadas com a disciplina de ordenamento do território prevalecente, da DIA ou RECAPE ou DIncA negativas, aplicando-se a este pedido o disposto no artigo 25.º-A.
+
+2 - A DGEG procede à análise do pedido referido no número anterior, avaliando a sua justificação e benefício para o SEN, nomeadamente à luz dos seguintes critérios específicos:
+
+a) A mudança não seja suscetível de implicar alterações significativas do mix energético das energias de fonte renovável, das respetivas metas nacionais e comunitárias ou dos objetivos de política energética ou de outras políticas públicas determinantes da atribuição da tecnologia inicial;
+
+b) Existência de condições técnicas de ligação no respetivo ponto de rede e a segurança e fiabilidade da RESP não serem prejudicados;
+
+c) Otimização dos investimentos associados à exploração do centro eletroprodutor e à sua interligação à RESP;
+
+d) Minimização dos impactos ambientais ou sobre o território.
+
+3 - Para efeitos da aplicação do disposto no n.º 2 do artigo 25.º-A, considera-se que existe benefício para o SEN quando o desconto permita aplicar à totalidade da energia injetada na RESP uma tarifa final que não ultrapasse a última publicada no Diário da República para a respetiva tecnologia de produção de eletricidade que utilize a mesma fonte primária, entendendo-se como tal, e se for a última publicada, a tarifa de referência vigente à data do pedido de alteração de fonte primária no âmbito do regime de remuneração garantida ou bonificado da produção em regime especial, salvo se esta inexistir para a fonte primária a que respeita a alteração ou tiver valor superior à que resultar da aplicação das regras dos n.os 1 e 3 do artigo 25.º-A.
+
+4 - Excluem-se do âmbito de aplicação do presente artigo os centros eletroprodutores que já tenham iniciado os respetivos trabalhos de instalação, as centrais dedicadas a biomassa florestal, abrangidas pelo Decreto-Lei n.º 5/2011, de 10 de janeiro, alterado pelo Decreto-Lei n.º 179/2012, de 3 de agosto, bem como, as centrais que obtiveram atribuição de capacidade de injeção de potência na rede do sistema elétrico de serviço público e pontos de receção para energia elétrica produzida em centrais eólicas nas Fases A e B do concurso público internacional denominado 'concurso para atribuição de capacidade de injeção de potência na rede do sistema elétrico de serviço público e pontos de receção associados para energia elétrica produzida em centrais eólicas', lançado nos termos do aviso publicado no Diário da República n.º 144, Série III, 2.º Suplemento, de 28 de julho de 2005.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 133/2015 - Diário da República n.º 94/2015, Série I de 2015-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/133-2015-67212154), em vigor a partir de 2015-05-18
+
+###### Artigo 36.º — Entrada em vigor
+
+A presente portaria entra em vigor no primeiro dia útil seguinte ao da sua publicação.
+
+O Secretário de Estado da Energia, Artur Álvaro Laureano Homem da Trindade, em 22 de julho de 2013.
+
+## Anexo I — (Artigos 7.º, 12.º e 21.º)
+
+## A — Elementos instrutórios do pedido de atribuição de ponto de receção para efeitos do disposto no artigo 7.º da presente portaria
+
+1 - Identificação completa do requerente, incluindo nome ou firma, morada, número de contribuinte, código de acesso à certidão permanente, se for o caso, e nome, número de telefone, telefax e endereço de correio eletrónico para contacto;
+
+2 - Memória descritiva e justificativa contendo:
+
+a) Descrição sucinta do centro eletroprodutor, da potência máxima injetável na RESP e da potência instalada bruta e líquida, em MW e MVA, a fonte de energia primária, tecnologia e combustível a utilizar, nomeadamente para arranque ou aquecimento da central, se aplicável, o destino da produção de eletricidade e sua localização mediante indicação do distrito, concelho e freguesia
+
+b) Condições técnicas de ligação à RESP conforme o disposto no Regulamento da Rede de Distribuição ou no Regulamento da Rede de Transporte, conforme aplicável, e proteções ao nível da interligação, de acordo com o especificado no Guia Técnico das Instalações de Produção Independente de Energia Elétrica e no Regulamento de Acesso às Redes.
+
+c) Planta, em escala adequada e legível, do local contendo a implantação do centro eletroprodutor e as respetivas coordenadas no sistema de referência PT-TM06/ETRS89;
+
+## B — Elementos instrutórios do pedido de atribuição da licença de produção para efeitos do disposto no artigo 12.º da presente portaria
+
+a) Identificação completa do requerente, incluindo nome ou firma, morada, número de contribuinte, código de acesso à certidão permanente, se for o caso, e nome, número de telefone, telefax e endereço de correio eletrónico para contacto;
+
+b) Indicação do despacho da DGEG que atribuiu o ponto de receção, ou cópia da respetiva notificação;
+
+c) Projeto do centro eletroprodutor, nos termos do Anexo II do Decreto-Lei n.º 172/2006, de 23 de agosto, na versão alterada e republicada pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro;
+
+d) Termo de responsabilidade pelo projeto das instalações elétricas;
+
+e) Comprovativo do direito para utilização do espaço de implantação da instalação;
+
+f) Pareceres das entidades competentes quando as instalações interferirem com os seus domínios ou atividades;
+
+g) DIA favorável ou condicionalmente favorável ou comprovativo de se ter produzido ato tácito favorável, quando exigível nos termos do respetivo regime jurídico, ou não sendo o caso, ou DIncA, quando exigível nos termos do artigo 33.º-R e seguintes do Decreto-Lei n.º 172/2006, de 23 de agosto;
+
+h) Parecer favorável sobre a localização do centro eletroprodutor emitido pela comissão de coordenação e desenvolvimento regional territorialmente competente, quando o projeto não esteja sujeito ao regime jurídico de avaliação de impacte ambiental ou de avaliação de incidências ambientais.
+
+> Retificado pelo/a [Declaração de Retificação n.º 38-A/2013 - Diário da República n.º 189/2013, 2º Suplemento, Série I de 2013-10-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-a-2013-420814), produz efeitos a partir de 2013-08-05
+
+## C — Elementos instrutórios do pedido de atribuição da licença de exploração para efeitos do disposto no artigo 21.º da presente portaria
+
+a) Identificação completa do requerente, incluindo nome ou firma, morada, número de contribuinte, código de acesso à certidão permanente, se for o caso, e nome, número de telefone, telefax e endereço de correio eletrónico para contacto;
+
+b) Identificação da licença de produção, por referência à sua data de emissão e ao centro eletroprodutor, ou cópia da notificação da mesma;
+
+c) Declaração de compromisso do titular da licença de produção atestando que a instalação do centro eletroprodutor está concluída e em condições de entrar em exploração industrial, respeitando os termos e condições da licença de produção e a legislação e regulamentação em vigor, devendo, ainda, fazer-se acompanhar de termo de responsabilidade, subscrito pelos técnicos responsáveis pelo projeto e pela execução da instalação, ou termo de entrega e conformidade passado pelo fabricante ou fornecedor, que ateste, sob compromisso de honra, que a instalação está concluída e o centro eletroprodutor preparado para operar de acordo com o projeto aprovado e em observância das condições integradas na decisão final de atribuição da respetiva licença de produção, bem como, se for caso disso, que as alterações efetuadas estão em conformidade com as normas legais e regulamentares que lhe são aplicáveis;
+
+d) Telas finais do projeto;
+
+e) Comprovativo do pagamento da taxa devida nos termos do artigo 34.º da presente portaria;
+
+f) Comprovativo da subscrição de seguro de responsabilidade civil nos termos do artigo 29.º do Decreto-Lei n.º 172/2006 de 23 de agosto, na versão republicada pelo Decreto-Lei n.º 215-B/2012, de 8 de outubro;
+
+g) Declaração de aceitação do relatório de segurança e autorização ou licença de gestão de resíduos, quando exigíveis nos termos da legislação aplicável.

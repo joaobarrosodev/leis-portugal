@@ -1,0 +1,249 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:325307:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1978-67377699",
+ "dre_path": "/dr/detalhe/lei/71-1978-325307",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1978-12-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67380310",
+    "67380311",
+    "67380312",
+    "67380313",
+    "67380314",
+    "67380315",
+    "67380316",
+    "67380317",
+    "67380318",
+    "67380319",
+    "67380320",
+    "67380321",
+    "67380322",
+    "67380323",
+    "67380324",
+    "67380325"
+   ]
+  },
+  {
+   "date": "2000-04-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:495748:por",
+     "title": "Lei n.º 4/2000",
+     "published": "2000-04-12",
+     "dre_path": "/dr/detalhe/lei/4-2000-495748"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "67380310",
+    "67380311",
+    "67380312",
+    "67380328",
+    "67380314",
+    "67380315",
+    "67380316",
+    "67380317",
+    "67380318",
+    "67380319",
+    "67380320",
+    "67380321",
+    "67380322",
+    "67380323",
+    "67380324",
+    "67380325"
+   ]
+  },
+  {
+   "date": "2015-07-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69866640:por",
+     "title": "Lei n.º 72-A/2015",
+     "published": "2015-07-23",
+     "dre_path": "/dr/detalhe/lei/72-a-2015-69866640"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "67380310",
+    "67380311",
+    "67380312",
+    "67380328",
+    "67380314",
+    "67380315",
+    "67380316",
+    "863921075",
+    "67380318",
+    "67380319",
+    "67380320",
+    "67380321",
+    "67380322",
+    "67380323",
+    "67380324",
+    "67380325"
+   ]
+  }
+ ],
+ "fragments": {
+  "67380310": {
+   "fragment_id": "67377700",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 71/78, de 27 de Dezembro\n\nComissão Nacional das Eleições\n\nA Assembleia da República decreta, nos termos da alínea d) do artigo 164.º e da alínea f) do artigo 167.º da constituição, o seguinte:"
+  },
+  "67380311": {
+   "fragment_id": "67377701",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e composição"
+  },
+  "67380312": {
+   "fragment_id": "67377702",
+   "type": 11,
+   "heading": "Artigo 1.º — (Definição e funções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Definição e funções)\n\n1 - É criada a Comissão Nacional de Eleições.\n\n2 - A Comissão Nacional de Eleições é um órgão independente e funciona junto da Assembleia da República.\n\n3 - A Comissão Nacional de Eleições exerce a sua competência relativamente a todos os actos de recenseamento e de eleições para órgãos de soberania das regiões autónomas e do poder local."
+  },
+  "67380313": {
+   "fragment_id": "67377703",
+   "type": 11,
+   "heading": "Artigo 2.º — (Composição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Composição)\n\nA Comissão Nacional de Eleições é composta por:\n\na) Um juiz conselheiro do Supremo Tribunal de Justiça, a designar pelo Conselho Superior da Magistratura, que será o presidente;\n\nb) Cinco cidadãos de reconhecida idoneidade profissional e moral, a designar pela Assembleia da República em lista completa e nominativa, sendo cada um deles proposto por cada um dos cinco partidos mais representados na Assembleia da República ou, em caso de igualdade, mais votados;\n\nc) Um técnico designado por cada um dos departamentos governamentais responsáveis pela Administração Interna, pelos Negócios Estrangeiros e pela Comunicação Social."
+  },
+  "67380314": {
+   "fragment_id": "67377704",
+   "type": 11,
+   "heading": "Artigo 3.º — (Mandato)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Mandato)\n\n1 - Os membros da Comissão Nacional de Eleições são designados até ao trigésimo dia após o início de cada legislatura e tomam posse perante o Presidente da Assembleia da República nos trinta dias posteriores ao termo do prazo de designação.\n\n2 - Os membros da Comissão Nacional de Eleições mantêm-se em funções até ao acto de posse de nova Comissão."
+  },
+  "67380315": {
+   "fragment_id": "67377705",
+   "type": 11,
+   "heading": "Artigo 4.º — (Estatuto dos membros da Comissão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Estatuto dos membros da Comissão)\n\n1 - Os membros da Comissão Nacional de Eleições são inamovíveis e independentes no exercício das suas funções.\n\n2 - Os membros da Comissão perdem o seu mandato caso se candidatem em quaisquer eleições para órgãos de soberania, das regiões autónomas ou do poder local.\n\n3 - As vagas que ocorrerem na Comissão, designadamente por morte, renúncia, impossibilidade física ou psíquica, ou perda de mandato, são preenchidas de acordo com os critérios de designação definidos no artigo 2.º, dentro dos trinta dias posteriores à vagatura.\n\n4 - Se a Assembleia da República se encontrar dissolvida no período referido no número anterior, os membros da Comissão que lhe cabe designar são substituídos até à entrada em funcionamento da nova Assembleia, por cooptação dos membros em exercício.\n\n5 - Os membros da Comissão Nacional de Eleição têm direito a uma senha de presença por cada dia de reunião correspondente a um setenta e cinco avos do subsídio mensal dos Deputados."
+  },
+  "67380316": {
+   "fragment_id": "67377706",
+   "type": 1,
+   "heading": "Capítulo II — Competência e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Competência e funcionamento"
+  },
+  "67380317": {
+   "fragment_id": "67377707",
+   "type": 11,
+   "heading": "Artigo 5.º — (Competência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Competência)\n\n1 - Compete à Comissão Nacional de Eleições:\n\na) Promover o esclarecimento objectivo dos cidadãos acerca dos actos eleitorais, designadamente através dos meios de comunicação social;\n\nb) Assegurar a igualdade de tratamento dos cidadãos em todos os actos de recenseamento e operações eleitorais;\n\nc) Registar as coligações de partidos para fins eleitorais;\n\nd) Assegurar a igualdade de oportunidades de acção e propaganda das candidaturas durante as campanhas eleitorais;\n\ne) Registar a declaração de cada órgão de imprensa relativamente à posição que assume perante as campanhas eleitorais;\n\nf) Proceder à distribuição dos tempos de antena na rádio e na televisão entre as diferentes candidaturas;\n\ng) Decidir os recursos que os mandatários das listas e os partidos interpuserem das decisões do governador civil ou, no caso das regiões autónomas, do Ministro da República, relativas à utilização das salas de espectáculos e dos recintos públicos;\n\nh) Apreciar a regularidade das receitas e despesas eleitorais;\n\ni) Elaborar o mapa dos resultados nacionais das eleições;\n\nj) Desempenhar as demais funções que lhe são atribuídas pelas leis eleitorais.\n\n2 - Para melhor exercício das suas funções, a Comissão Nacional de Eleições pode designar delegados onde o julgar necessário."
+  },
+  "67380318": {
+   "fragment_id": "67377708",
+   "type": 11,
+   "heading": "Artigo 6.º — (Calendário eleitoral)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Calendário eleitoral)\n\nMarcada a data das eleições, a Comissão Nacional de Eleições faz publicar nos órgãos de comunicação social, nos oito dias subsequentes, um mapa-calendário contendo as datas e a indicação dos actos que devem ser praticados com sujeição a prazo."
+  },
+  "67380319": {
+   "fragment_id": "67377709",
+   "type": 11,
+   "heading": "Artigo 7.º — (Ligação com a Administração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Ligação com a Administração)\n\n1 - No exercício da sua competência, a Comissão Nacional de Eleições tem sobre os órgãos e agentes da Administração os poderes necessários ao cumprimento das suas funções.\n\n2 - Para efeitos do disposto no número anterior, o departamento governamental responsável pela administração eleitoral presta à Comissão Nacional de Eleições o apoio e colaboração que esta lhe solicitar."
+  },
+  "67380320": {
+   "fragment_id": "67377710",
+   "type": 11,
+   "heading": "Artigo 8.º — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Funcionamento)\n\n1 - A Comissão Nacional de Eleições funciona em plenário com a presença da maioria dos seus membros.\n\n2 - A Comissão Nacional de Eleições delibera por maioria e o presidente tem voto de qualidade.\n\n3 - A Comissão Nacional de Eleições elabora o seu próprio regimento, que é publicado no Diário da República."
+  },
+  "67380321": {
+   "fragment_id": "67377711",
+   "type": 11,
+   "heading": "Artigo 9.º — (Orçamento e instalações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Orçamento e instalações)\n\nOs encargos com o funcionamento da Comissão Nacional de Eleições são cobertos pela dotação orçamental atribuída à Assembleia da República, à qual a Comissão pode requisitar as instalações e o apoio técnico e administrativo de que necessite para o seu funcionamento."
+  },
+  "67380322": {
+   "fragment_id": "67377712",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "67380323": {
+   "fragment_id": "67377713",
+   "type": 11,
+   "heading": "Artigo 10.º — (Primeiras designações e posse)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Primeiras designações e posse)\n\nAs primeiras designações e posse da Comissão Nacional de Eleições, constituída nos termos da presente lei, têm lugar, respectivamente, nos dez dias seguintes à entrada em vigor da presente lei e até ao décimo dia subsequente."
+  },
+  "67380324": {
+   "fragment_id": "67377714",
+   "type": 11,
+   "heading": "Artigo 11.º — (Regime transitório)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Regime transitório)\n\n1 - Até ao final de 1978, a Comissão Nacional de Eleições utiliza as dotações orçamentais que lhe estão atribuídas pelo Ministério da Administração Interna.\n\n2 - A Comissão Nacional de Eleições pode continuar a dispor das instalações, equipamento e pessoal que lhe foram afectos pelo Ministério da Administração Interna, enquanto não for transferida para instalações próprias da Assembleia da República."
+  },
+  "67380325": {
+   "fragment_id": "67377715",
+   "type": 11,
+   "heading": "Artigo 12.º — (Revogação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Revogação)\n\nFicam revogados todos os diplomas ou normas que disponham em coincidência ou em contrário do estabelecido na presente lei."
+  },
+  "67380328": {
+   "fragment_id": "67377703",
+   "type": 11,
+   "heading": "Artigo 2.º — (Composição)",
+   "in_force_from": "2000-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo Único do/a [Lei n.º 4/2000 - Diário da República n.º 87/2000, Série I-A de 2000-04-12](https://diariodarepublica.pt/dr/detalhe/lei/4-2000-495748), em vigor a partir de 2000-04-17"
+   ],
+   "markdown": "###### Artigo 2.º — (Composição)\n\nA Comissão Nacional de Eleições é composta por:\n\na) Um juiz conselheiro do Supremo Tribunal de Justiça, a designar pelo Conselho Superior da Magistratura, que será o presidente;\n\nb) Cidadãos de reconhecido mérito, a designar pela Assembleia da República, integrados em lista e propostos um por cada grupo parlamentar;\n\nc) Um técnico designado por cada um dos departamentos governamentais responsáveis pela Administração Interna, pelos Negócios Estrangeiros e pela Comunicação Social.\n\n> Alterado pelo/a Artigo Único do/a [Lei n.º 4/2000 - Diário da República n.º 87/2000, Série I-A de 2000-04-12](https://diariodarepublica.pt/dr/detalhe/lei/4-2000-495748), em vigor a partir de 2000-04-17"
+  },
+  "863921075": {
+   "fragment_id": "67377707",
+   "type": 11,
+   "heading": "Artigo 5.º — (Competência)",
+   "in_force_from": "2015-07-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Lei n.º 72-A/2015 - Diário da República n.º 142/2015, 1º Suplemento, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/lei/72-a-2015-69866640), em vigor a partir de 2015-07-24"
+   ],
+   "markdown": "###### Artigo 5.º — (Competência)\n\n1 - Compete à Comissão Nacional de Eleições:\n\na) Promover o esclarecimento objectivo dos cidadãos acerca dos actos eleitorais, designadamente através dos meios de comunicação social;\n\nb) Assegurar a igualdade de tratamento dos cidadãos em todos os actos de recenseamento e operações eleitorais;\n\nc) Registar as coligações de partidos para fins eleitorais;\n\nd) Assegurar a igualdade de oportunidades de acção e propaganda das candidaturas durante as campanhas eleitorais;\n\ne) [Revogada.]\n\nf) Proceder à distribuição dos tempos de antena na rádio e na televisão entre as diferentes candidaturas;\n\ng) Decidir os recursos que os mandatários das listas e os partidos interpuserem das decisões do governador civil ou, no caso das regiões autónomas, do Ministro da República, relativas à utilização das salas de espectáculos e dos recintos públicos;\n\nh) Apreciar a regularidade das receitas e despesas eleitorais;\n\ni) Elaborar o mapa dos resultados nacionais das eleições;\n\nj) Desempenhar as demais funções que lhe são atribuídas pelas leis eleitorais.\n\n2 - Para melhor exercício das suas funções, a Comissão Nacional de Eleições pode designar delegados onde o julgar necessário.\n\n> Alterado pelo/a Artigo 14.º do/a [Lei n.º 72-A/2015 - Diário da República n.º 142/2015, 1º Suplemento, Série I de 2015-07-23](https://diariodarepublica.pt/dr/detalhe/lei/72-a-2015-69866640), em vigor a partir de 2015-07-24"
+  }
+ }
+}

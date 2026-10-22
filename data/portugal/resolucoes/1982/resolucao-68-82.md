@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:606538:por
+title: Resolução n.º 68/82
+short_title: null
+summary: Não declara a inconstitucionalidade dos n.os 1 e 2 do artigo 12.º e do n.º 1 do artigo 13.º do Decreto-Lei n.º 267/80;
+  declara, com força obrigatória geral, a inconstitucionalidade parcial do artigo 4.º do mesmo decreto-lei, e declara, com
+  força obrigatória geral, a inconstitucionalidade do n.º 2 do artigo 3.º, do n.º 2 do artigo 6.º, dos n.os 3 e 4 do artigo
+  12.º, do n.º 2 do artigo 13.º e dos artigos 176.º, 193.º e 195.º também do referido decreto-lei
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 68/82
+official_date: null
+publication_date: '1982-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/1982, Série I de 1982-04-22
+  number: '93'
+  series: I
+  supplement: null
+  pages: 968 - 968
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/04/09300/09680968.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '606538'
+  dre_path: /dr/detalhe/resolucao/68-1982-606538
+  internal: pt:dre:606538:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/68-1982-606538
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/68-1982-606538
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-02-12T00:00:00Z'
+integrity:
+  source_sha256: e5bf4b9a5234f890b5c89b28e01f830f29619f78c039d716a52cdd3f3061725d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-68-606538.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:66487455:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 68/82
+
+Ao abrigo do disposto na alínea c) do artigo 146.º e no n.º 1 do artigo 281.º da Constituição, o Conselho da Revolução, a solicitação do Presidente da Assembleia da República e precedendo parecer da Comissão Constitucional, resolve:
+
+a) Não declarar a inconstitucionalidade dos n.os 1 e 2 do artigo 12.º e do n.º 1 do artigo 13.º do [Decreto-Lei n.º 267/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1980-470458) (Lei Eleitoral para a Assembleia Regional dos Açores).
+
+b) Declarar, com força obrigatória geral, a inconstitucionalidade parcial do artigo 4.º do [Decreto-Lei n.º 267/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1980-470458), ou seja, na medida em que, não se contentando com limitar a elegibilidade para a Assembleia Regional aos cidadãos portugueses eleitores com residência na Região, exige ainda que essa residência se prolongue habitualmente por mais de 2 anos, e, isso, por infringir o princípio constante no artigo 18.º, n.º 2, da Constituição.
+
+c) Declarar, com força obrigatória geral, a inconstitucionalidade do n.º 2 do artigo 3.º, do n.º 2 do artigo 6.º, dos n.os 3 e 4 do artigo 12.º, do n.º 2 do artigo 13.º e dos artigos 176.º, 193.º e 195.º do [Decreto-Lei n.º 267/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-1980-470458), por todos eles contrariarem o princípio da soberania popular, tal como a Constituição o configura na sua particular dimensão regional, o princípio da unidade da cidadania e o princípio da unidade do Estado e por alguns deles (n.º 2 do artigo 3.º, n.º 3 do artigo 12.º e artigos 176.º, 193.º e 195.º desse diploma) violarem ainda o princípio da igualdade contido no artigo 13.º, n.os 1 e 2, da Constituição.
+
+Aprovada em Conselho da Revolução em 7 de Abril de 1982.
+
+**O Presidente do Conselho da Revolução, António Ramalho Eanes.**

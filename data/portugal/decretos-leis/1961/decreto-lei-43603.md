@@ -1,0 +1,130 @@
+---
+schema_version: '1.0'
+id: pt:dre:558387:por
+title: Decreto-Lei n.º 43603
+short_title: null
+summary: Autoriza o Governo, sempre que seja julgado necessário para manter a ordem pública nas províncias ultramarinas, a
+  reforçar os respectivos corpos de Polícia de Segurança Pública com companhias móveis de polícia, a mobilizar da metrópole
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios do Interior, das Finanças e do Ultramar
+proposing_entity: null
+official_number: '43603'
+official_date: null
+publication_date: '1961-04-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 88/1961, Série I de 1961-04-15
+  number: '88'
+  series: I
+  supplement: null
+  pages: 433 - 434
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/04/08800/04330434.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '558387'
+  dre_path: /dr/detalhe/decreto-lei/43603-1961-558387
+  internal: pt:dre:558387:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43603-1961-558387
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43603-1961-558387
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-04-12T00:00:00Z'
+integrity:
+  source_sha256: a4ee6583f398bd8f2d64a0fc2316a434a5c2ba62ebbb54de74c05b48888b374b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1961/DRE-1961-43603-558387.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:161905:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43603
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Sempre que seja julgado necessário para manter a ordem pública nas províncias ultramarinas, é o Governo autorizado, por publicação de portarias assinadas pelos Ministros do Interior, das Finanças e do Ultramar, a reforçar os respectivos corpos de Polícia de Segurança Pública, com companhias móveis de polícia, a mobilizar da metrópole, e a fixar os respectivos quadros.
+
+###### Art. 2.º O pessoal referido no artigo anterior será recrutado nos termos do Decreto-Lei n.º 43080, de 19 de Julho de 1960. As nomeações de pessoal da metrópole serão feitas por voluntariado ou por imposição, no caso de o número de voluntários não satisfazer às necessidades.
+
+###### Art. 3.º A nomeação do pessoal para as companhias móveis de polícia é dispensada do cumprimento de quaisquer formalidades.
+
+###### Art. 4.º Quando o recrutamento se faça entre pessoal da Polícia de Segurança Pública da metrópole, este não perderá os direitos e regalias conferidos ao pessoal da corporação, em especial os de aposentação e aumento de percentagens sobre o tempo de serviço.
+
+###### Art. 5.º O pessoal da Polícia de Segurança Pública da metrópole nomeado para as companhias móveis de polícia do ultramar transita para o quadro adido da mesma corporação enquanto se mantiver em comissão de serviço. Finda esta, continuará a ser pago pelos orçamentos das respectivas províncias ultramarinas até ter vacatura para o seu regresso à Polícia de Segurança Pública.
+
+###### Art. 6.º Além dos abonos consignados no Decreto-Lei n.º 43080, de 19 de Julho de 1960, o pessoal da Polícia de Segurança Pública da metrópole integrado nas companhias móveis de polícia do ultramar terá direito a gratificação para fardamento num quantitativo a fixar por despacho dos Ministros do Interior e do Ultramar, com o acordo do das Finanças.
+
+###### Art. 7.º Por despacho dos Ministros do Interior, das Finanças e do Ultramar, a Polícia de Segurança Pública poderá convocar escolas de alistados, além dos quadros aprovados por lei, a fim de instruir pessoal destinado a constituir companhias móveis destinadas ao ultramar.
+
+§ 1.º Os encargos provenientes destas escolas de alistados serão satisfeitos por conta de dotação descrita no orçamento do Ministério do Ultramar.
+
+§ 2.º Os candidatos chamados a estas escolas de alistados, enquanto na metrópole, terão os mesmos vencimentos conferidos aos guardas provisórios da Polícia de Segurança Pública de Lisboa e iguais direitos e regalias, incluindo os de aposentação.
+
+###### Art. 8.º Para efeitos de transporte e do abono de ajudas de custo de embarque, os subchefes nomeados para as companhias móveis de polícia são equiparados à 2.ª classe.
+
+###### Art. 9.º Fica o Governo autorizado a incluir no orçamento do Ministério do Ultramar, como despesa extraordinária, a dotação indispensável à execução deste diploma na parte a suportar pela metrópole.
+
+§ 1.º O processamento das despesas por conta da dotação aludida no corpo deste artigo compete à Secretaria-Geral do Ministério do Ultramar, que porá à disposição do Comando-Geral da Polícia de Segurança Pública os fundos que forem considerados necessários.
+
+§ 2.º O Comando-Geral da Polícia de Segurança Pública enviará até ao dia 15 de cada mês à Secretaria-Geral do Ministério do Ultramar os documentos relativos às despesas efectuadas no mês anterior.
+
+§ 3.º A 9.ª Repartição da Direcção-Geral da Contabilidade Pública autorizará as folhas de levantamentos de fundos depois de serem visadas pelos Ministros das Finanças e do Ultramar e submeterá aos mesmos vistos a relação dos documentos remetidos pelo Comando-Geral da Polícia de Segurança Pública, que, a serem concedidos, legitimarão a competente prestação de contas.
+
+###### Art. 10.º A abertura do crédito no corrente ano económico para execução do preceituado no corpo do artigo 9.º será levada a efeito por decreto referendado apenas pelos Ministros do Interior, das Finanças e do Ultramar.
+
+###### Art. 11.º Este diploma entra imediatamente em vigor.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 15 de Abril de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Mário José Pereira da Silva - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Adriano José Alves Moreira - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.
+
+Para ser presente à Assembleia Nacional.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira.

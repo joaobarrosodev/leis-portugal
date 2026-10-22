@@ -1,0 +1,1149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:310798:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-185158760",
+ "dre_path": "/dr/detalhe/decreto-lei/207-1999-310798",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-06-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406334:por",
+     "title": "Declaração de Rectificação n.º 10-AU/99",
+     "published": "1999-06-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/10-au-1999-406334"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 23.º",
+    "Retifica Artigo 24.º"
+   ],
+   "fragments": [
+    "185011946",
+    "185159606",
+    "185159607",
+    "185159608",
+    "185159609",
+    "185159610",
+    "185159611",
+    "185159612",
+    "185159613",
+    "185159614",
+    "185159615",
+    "185159616",
+    "185159617",
+    "185159618",
+    "185159619",
+    "185159620",
+    "185159621",
+    "185159622",
+    "185159623",
+    "185159624",
+    "185159625",
+    "185159626",
+    "185159627",
+    "185159628",
+    "185159629",
+    "185159630",
+    "185159631",
+    "185159632",
+    "185159633",
+    "185159634",
+    "185159635",
+    "185159636",
+    "185159637",
+    "185159638",
+    "185159639",
+    "185159640",
+    "185159641",
+    "185159642",
+    "185159643",
+    "185159644",
+    "185159645",
+    "185159646",
+    "185159647",
+    "185159648",
+    "185159649",
+    "185159650",
+    "185159651",
+    "185159652",
+    "185159653",
+    "185159654",
+    "185159655",
+    "185159656",
+    "185159657",
+    "185159658",
+    "185159659"
+   ]
+  },
+  {
+   "date": "2002-12-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:438184:por",
+     "title": "Decreto-Lei n.º 283/2002",
+     "published": "2002-12-10",
+     "dre_path": "/dr/detalhe/decreto-lei/283-2002-438184"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "185011946",
+    "185011947",
+    "185011948",
+    "185011949",
+    "185011950",
+    "185011951",
+    "185011952",
+    "185011953",
+    "185011954",
+    "185011955",
+    "185011956",
+    "185011957",
+    "185011958",
+    "185011959",
+    "185011960",
+    "185011961",
+    "185011962",
+    "185011963",
+    "185011964",
+    "185011965",
+    "185011966",
+    "185011967",
+    "185011968",
+    "185011969",
+    "185011970",
+    "185011971",
+    "185011972",
+    "185011973",
+    "185011974",
+    "185220375",
+    "185220376",
+    "185220377",
+    "185220378",
+    "185220379",
+    "185220380",
+    "185220381",
+    "185220382",
+    "185220383",
+    "185220384",
+    "185220385",
+    "185220386",
+    "185220387",
+    "185220388",
+    "185220389",
+    "185220390",
+    "185220391",
+    "185220392",
+    "185220393",
+    "185220394",
+    "185220395",
+    "185220396",
+    "185220397",
+    "185220398",
+    "185220399",
+    "185220400",
+    "185220401"
+   ]
+  }
+ ],
+ "fragments": {
+  "185011946": {
+   "fragment_id": "185158761",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2002-12-11",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 207/99\n\nde 9 de Junho\n\nA melhoria da prestação de cuidados de saúde pelo Serviço Nacional de Saúde assenta, em parte, na criação de condições que possibilitem a melhor gestão das suas instituições e a melhor articulação dessas instituições entre si e com outras instituições na mesma área geográfica.\n\nPodendo este desiderato ser atingido através de várias formas consideradas mais adequadas à especificidade das várias situações e instituições, conforme possibilita o n.º 1 da base XXXVI da Lei de Bases da Saúde, entendeu-se instituir no município de Matosinhos uma experiência inovadora que se consubstanciasse, por um lado, na possibilidade de utilização dos meios próprios de uma gestão pública de tipo empresarial tal como definida no Hospital de São Sebastião através do Decreto-Lei n.º 151/98, de 5 de Junho, e, por outro, na integração numa única entidade pública dos vários serviços e instituições do Serviço Nacional de Saúde que, naquele município, prestam cuidados de saúde à população e são por ela responsáveis.\n\nLeva-se assim às últimas consequências, através da criação de uma nova figura, o espírito que presidiu à criação das unidades de saúde pelo Estatuto do Serviço Nacional de Saúde e cujo desenvolvimento nos sistemas locais de saúde actualmente se encontra em curso, ou seja, o funcionamento integrado das várias instituições.\n\nDe facto, as exigências cada vez maiores das populações em matéria de acesso e satisfação das suas necessidades em saúde, com níveis de qualidade acrescidos, impõem uma gestão integrada dos recursos existentes numa determinada circunscrição geográfica. Torna-se, por isso, indispensável proceder a uma reengenharia do sistema de saúde numa perspectiva organizacional, criando as condições de integração dos cuidados, colectivizando os problemas que hoje cada nível de cuidados enfrenta sozinho, partilhando responsabilidades e recursos.\n\nSimultaneamente, faculta-se a essa nova entidade a possibilidade de utilização dos instrumentos, técnicas e métodos flexíveis e ágeis, próprios de uma gestão de tipo empresarial, que esta entidade, como estabelecimento de carácter social, deve utilizar para a optimização da sua actividade de prestação de cuidados de saúde.\n\nForam ouvidas as entidades representativas dos profissionais do sector e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela base XXXVI da Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "185159606": {
+   "fragment_id": "185158762",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "185159607": {
+   "fragment_id": "185158763",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e regime\n\n1 - É criada a Unidade Local de Saúde de Matosinhos, adiante designada ULS, estabelecimento público dotado de personalidade jurídica, autonomia administrativa, financeira e patrimonial e natureza empresarial, que integra o Hospital de Pedro Hispano e os Centros de Saúde de Matosinhos, da Senhora da Hora, de São Mamede de Infesta e de Leça da Palmeira.\n\n2 - A ULS rege-se pelo presente diploma, pelas normas em vigor para o Serviço Nacional de Saúde que não contrariem as normas constantes do presente diploma, pelos seus regulamentos internos e, subsidiariamente, pelas normas aplicáveis às entidades que revistam natureza, forma e designação de empresa pública, não estando sujeita às normas aplicáveis aos institutos públicos que revistam a forma de serviços personalizados ou de fundos públicos."
+  },
+  "185159608": {
+   "fragment_id": "185158764",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições da ULS a prestação global de cuidados de saúde à população da sua área de influência, directamente através dos seus serviços ou indirectamente através da contratação com outras entidades, bem como assegurar as actividades de saúde pública e os meios necessários ao exercício das competências da autoridade de saúde na área geográfica abrangida."
+  },
+  "185159609": {
+   "fragment_id": "185158765",
+   "type": 11,
+   "heading": "Artigo 3.º — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tutela\n\n1 - A ULS está sujeita a tutela e superintendência dos Ministros da Saúde e das Finanças nos termos previstos nos números seguintes.\n\n2 - Compete ao Ministro da Saúde:\n\na) Definir as linhas orientadoras a que deve obedecer a preparação dos planos de actividade e dos orçamentos;\n\nb) Exigir todas as informações julgadas necessárias ao acompanhamento da actividade da ULS, bem como determinar auditorias e inspecções ao seu funcionamento;\n\nc) Definir os parâmetros da negociação colectiva a que houver lugar, nos termos da lei.\n\n3 - Aos Ministros da Saúde e das Finanças compete a tutela de natureza económica e financeira da ULS, que compreende os poderes de:\n\na) Aprovar os planos de actividade e financeiros de natureza plurianual;\n\nb) Aprovar os planos de actividade e os orçamentos de exploração e de investimento anuais, bem como as respectivas actualizações;\n\nc) Aprovar os documentos de prestação de contas;\n\nd) Aprovar as tabelas de preços a cobrar nos casos previstos na lei;\n\ne) Autorizar a aquisição e venda de bens imóveis, precedendo parecer favorável da comissão de fiscalização, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados;\n\nf) Autorizar a contracção de empréstimos, precedendo parecer favorável da comissão de fiscalização."
+  },
+  "185159610": {
+   "fragment_id": "185158766",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidade civil, penal e disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Responsabilidade civil, penal e disciplinar\n\n1 - A ULS responde civilmente perante terceiros pelos actos ou omissões dos membros do conselho de administração nos mesmos termos em que os comitentes respondem pelos actos ou omissões dos comissários, de acordo com a lei geral.\n\n2 - Os titulares de qualquer dos órgãos da ULS respondem civilmente perante esta pelos prejuízos causados pelo incumprimento dos seus deveres legais ou regulamentares.\n\n3 - O disposto nos números anteriores não prejudica a responsabilidade penal ou disciplinar em que eventualmente incorram os titulares dos mesmos órgãos."
+  },
+  "185159611": {
+   "fragment_id": "185158767",
+   "type": 1,
+   "heading": "Capítulo II — Princípios de organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Princípios de organização"
+  },
+  "185159612": {
+   "fragment_id": "185158768",
+   "type": 11,
+   "heading": "Artigo 5.º — Actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actividade\n\nA actividade da ULS necessária ao exercício das suas atribuições será desenvolvida de modo integrado, atenta a sua organização interna e as demais entidades prestadoras de cuidados de saúde da área, com base em contratos-programa por ela propostos e aprovados pela Administração Regional de Saúde do Norte, através da Agência de Acompanhamento dos Serviços de Saúde, com respeito pelas linhas orientadoras definidas nos planos estratégicos da política de saúde de nível nacional e regional."
+  },
+  "185159613": {
+   "fragment_id": "185158769",
+   "type": 11,
+   "heading": "Artigo 6.º — Estrutura da prestação de cuidados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Estrutura da prestação de cuidados\n\nA ULS deve, em regulamento interno, criar e estruturar os serviços em função das suas atribuições e das actividades programadas e objecto dos contratos-programa a que se refere o artigo 5.º, segundo critérios de especialização horizontal e vertical de funções que se mostrarem mais adequados ao bom desempenho e ao racional aproveitamento dos seus meios, devendo os serviços de prestação de cuidados de saúde ser estruturados de modo a possibilitar novas formas de integração e divisão de trabalho centradas, prioritariamente, no doente."
+  },
+  "185159614": {
+   "fragment_id": "185158770",
+   "type": 11,
+   "heading": "Artigo 7.º — Centros de responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Centros de responsabilidade\n\n1 - A ULS deverá prever em regulamento interno a sua organização em centros de responsabilidade, agrupados em função das três grandes áreas de actuação - a hospitalar, a de cuidados primários e a de saúde pública -, bem como a respectiva estrutura de gestão e competências.\n\n2 - Os centros de responsabilidade são estruturas operacionais que deverão corresponder a níveis de gestão intermédia e dispor de autonomia compatível com a unidade de acção, agrupando unidades funcionais segundo critérios que garantam a homogeneidade e ou a afinidade da respectiva actividade."
+  },
+  "185159615": {
+   "fragment_id": "185158771",
+   "type": 11,
+   "heading": "Artigo 8.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formação\n\nA ULS participa no processo de formação pré e pós-graduada de profissionais do sector mediante a celebração de acordos com as entidades competentes."
+  },
+  "185159616": {
+   "fragment_id": "185158772",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos e competências"
+  },
+  "185159617": {
+   "fragment_id": "185158773",
+   "type": 8,
+   "heading": "Secção I — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Estrutura"
+  },
+  "185159618": {
+   "fragment_id": "185158774",
+   "type": 11,
+   "heading": "Artigo 9.º — Órgãos da ULS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Órgãos da ULS\n\n1 - São órgãos da ULS o conselho geral, o conselho de administração, os órgãos de direcção técnica e a comissão de fiscalização.\n\n2 - São órgãos de direcção técnica o director clínico da área hospitalar, o director clínico da área dos cuidados de saúde primários e o enfermeiro-director."
+  },
+  "185159619": {
+   "fragment_id": "185162975",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissões de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comissões de apoio técnico\n\nPara além da comissão de ética para a saúde, constituída nos termos do Decreto-Lei n.º 97/95, de 10 de Maio, deverão ser criadas e reguladas em regulamento interno outras comissões de apoio técnico que coadjuvem os órgãos de administração e de direcção técnica nas matérias da sua competência."
+  },
+  "185159620": {
+   "fragment_id": "185162976",
+   "type": 8,
+   "heading": "Secção II — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho geral"
+  },
+  "185159621": {
+   "fragment_id": "185162977",
+   "type": 11,
+   "heading": "Artigo 11.º — Composição do conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Composição do conselho geral\n\n1 - O conselho geral é composto por representantes das entidades públicas e privadas que, no município de Matosinhos, desenvolvam actividades directa ou indirectamente relacionadas com a saúde, designadamente estabelecimentos de ensino, centros regionais de segurança social, autarquias locais e organizações não governamentais, e que acordem com a ULS a execução de programas e projectos comuns.\n\n2 - O presidente do conselho geral é eleito pelos respectivos membros, de entre eles.\n\n3 - A composição do conselho geral consta de regulamento interno da ULS."
+  },
+  "185159622": {
+   "fragment_id": "185162978",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência\n\nCompete ao conselho geral emitir parecer sobre todas as questões solicitadas pelo conselho de administração da ULS, nomeadamente sobre programas e planos de actividade e investimentos, bem como apresentar propostas para melhoria da prestação de cuidados pela ULS."
+  },
+  "185159623": {
+   "fragment_id": "185162979",
+   "type": 11,
+   "heading": "Artigo 13.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Funcionamento\n\n1 - O conselho reúne quatro vezes por ano, as suas deliberações serão tomadas por maioria simples e constarão de acta.\n\n2 - As demais regras de funcionamento do conselho geral são definidas em regulamento próprio."
+  },
+  "185159624": {
+   "fragment_id": "185162980",
+   "type": 8,
+   "heading": "Secção III — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho de administração"
+  },
+  "185159625": {
+   "fragment_id": "185162981",
+   "type": 11,
+   "heading": "Artigo 14.º — Composição do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Composição do conselho de administração\n\n1 - O conselho de administração é composto pelo presidente, por dois vogais executivos e por quatro vogais não executivos, três dos quais são por inerência o director clínico da área dos cuidados de saúde primários, o director clínico da área hospitalar e o enfermeiro-director e o quarto designado pela Câmara Municipal de Matosinhos.\n\n2 - O presidente do conselho de administração é nomeado pelo Ministro da Saúde, sob proposta da Administração Regional de Saúde do Norte.\n\n3 - Os vogais executivos são nomeados pelo Ministro da Saúde, sob proposta do presidente do conselho de administração.\n\n4 - O quarto vogal é nomeado pelo Ministro da Saúde, ouvido o presidente do conselho de administração, sob proposta da Câmara Municipal de Matosinhos.\n\n5 - Os mandatos são de três anos, sem prejuízo da cessação do mandato dos vogais com a cessação do mandato do presidente."
+  },
+  "185159626": {
+   "fragment_id": "185162982",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência\n\n1 - Compete ao conselho de administração, sem prejuízo dos poderes de tutela, o exercício dos poderes de gestão que, por disposição expressa, não estejam reservados a outros órgãos da ULS e, em especial:\n\na) Definir as directrizes que devem orientar a organização e o funcionamento da ULS;\n\nb) Aprovar a estrutura dos serviços e a sua organização em centros de responsabilidade;\n\nc) Celebrar os contratos-programa;\n\nd) Aprovar os planos de actividade e os orçamentos anuais e plurianuais;\n\ne) Aprovar os documentos de prestação de contas;\n\nf) Fixar as dotações de pessoal;\n\ng) Designar os responsáveis pelos serviços e dos centros de responsabilidade;\n\nh) Aprovar as normas relativas ao pessoal e respectivo estatuto, proceder à sua admissão, bem como exercer as competências atribuídas por lei aos órgãos máximos dos serviços e organismos da Administração Pública em matéria de pessoal;\n\ni) Aprovar os regulamentos internos;\n\nj) Celebrar convenções colectivas de trabalho;\n\nk) Cobrar as receitas e realizar as despesas;\n\nl) Contratar com outras entidades a prestação de serviços ajustada aos programas de saúde;\n\nm) Acompanhar e avaliar sistematicamente a actividade desenvolvida pela ULS, garantindo a gestão adequada e racional dos recursos;\n\nn) Responsabilizar os diferentes serviços e centros de responsabilidade pela utilização dos meios postos à sua disposição, acompanhando e gerindo as respectivas contas correntes;\n\no) Constituir mandatários com os poderes que entender convenientes.\n\n2 - O conselho de administração ouvirá os órgãos de direcção técnica e as comissões de apoio técnico de acordo com as competências destes."
+  },
+  "185159627": {
+   "fragment_id": "185162983",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão executiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão executiva\n\nO presidente do conselho de administração e os vogais executivos constituem uma comissão executiva, na qual poderão ser delegadas, com poderes de subdelegação, as competências previstas nas alíneas h), i), k), l), m), n) e o), bem como outras que entenda convenientes para assegurar a gestão corrente da ULS, sem prejuízo do direito de avocação."
+  },
+  "185159628": {
+   "fragment_id": "185162984",
+   "type": 11,
+   "heading": "Artigo 17.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funcionamento\n\n1 - O conselho de administração reunirá semanalmente e as suas deliberações serão tomadas por maioria simples e constarão de acta, tendo o presidente voto de qualidade.\n\n2 - As demais regras de funcionamento do conselho são definidas em regulamento próprio, o qual deve incluir a previsão da substituição dos seus membros em situações de falta ou impedimento."
+  },
+  "185159629": {
+   "fragment_id": "185162985",
+   "type": 11,
+   "heading": "Artigo 18.º — Exoneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Exoneração\n\n1 - Os membros do conselho de administração podem ser livremente exonerados com fundamento em mera conveniência de serviço, mediante indemnização de valor correspondente aos ordenados vincendos até ao termo do mandato, mas nunca superior ao vencimento anual, à qual será deduzido o montante do vencimento do lugar de origem que os respectivos membros tenham direito a reocupar.\n\n2 - A exoneração pode ainda fundamentar-se em falta de observância da lei ou dos regulamentos ou na violação grave dos deveres de gestor.\n\n3 - A exoneração prevista no número anterior é precedida de audiência do interessado, mas sem dependência de qualquer processo e sem que haja lugar a indemnização."
+  },
+  "185159630": {
+   "fragment_id": "185162986",
+   "type": 11,
+   "heading": "Artigo 19.º — Dissolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Dissolução\n\n1 - O Ministro da Saúde pode dissolver o conselho de administração nos seguintes casos:\n\na) Deterioração dos resultados da actividade, incluindo a qualidade dos serviços prestados;\n\nb) Desvio substancial entre os orçamentos e a respectiva execução.\n\n2 - Não haverá lugar a dissolução nos casos em que o conselho de administração tenha tomado todas as medidas para evitar a verificação dos factos referidos no número anterior."
+  },
+  "185159631": {
+   "fragment_id": "185162987",
+   "type": 11,
+   "heading": "Artigo 20.º — Estatuto de gestor público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Estatuto de gestor público\n\n1 - O estatuto de gestor público aplica-se subsidiariamente aos membros do conselho de administração, designadamente quanto ao mandato, incompatibilidades, regime de trabalho e remunerações, sendo estas fixadas em função de parâmetros a definir em despacho conjunto dos Ministros das Finanças e da Saúde e do membro do Governo que tutele a Administração Pública.\n\n2 - O vogal designado pela Câmara Municipal de Matosinhos tem direito a senhas de presença de valor fixado no despacho referido no n.º 1."
+  },
+  "185159632": {
+   "fragment_id": "185162988",
+   "type": 11,
+   "heading": "Artigo 21.º — Presidente do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Presidente do conselho de administração\n\nCompete ao presidente do conselho de administração da ULS:\n\na) Presidir ao conselho de administração e à comissão executiva e dirigir a sua acção;\n\nb) Submeter a despacho os assuntos sujeitos a tutela;\n\nc) Representar a ULS em juízo e fora dele."
+  },
+  "185159633": {
+   "fragment_id": "185162989",
+   "type": 8,
+   "heading": "Secção IV — Órgãos de direcção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Órgãos de direcção técnica"
+  },
+  "185159634": {
+   "fragment_id": "185162990",
+   "type": 11,
+   "heading": "Artigo 22.º — Função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Função\n\nOs órgãos de direcção técnica têm por função, nos níveis e nos sectores definidos no presente diploma e através da prática de todos os actos não reservados a outros órgãos, a orientação técnica de serviços ou conjuntos de serviços da ULS, com o objectivo de garantir actuações, técnica e deontologicamente correctas, num quadro de desenvolvimento qualitativo e quantitativo das prestações de saúde."
+  },
+  "185159635": {
+   "fragment_id": "185162991",
+   "type": 11,
+   "heading": "Artigo 23.º — Directores clínicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Directores clínicos\n\n1 - O director clínico da área hospitalar e o director clínico da área dos cuidados de saúde primários são nomeados pelo Ministro da Saúde, sob proposta do director da ULS.\n\n2 - Compete aos directores clínicos a direcção técnica da actividade assistencial das respectivas áreas da ULS e, em especial, da sua acção clínica.\n\n3 - Os directores clínicos respondem perante o conselho de administração pela qualidade da assistência prestada, dentro das regras da boa prática e melhor gestão de recursos, nas respectivas áreas.\n\n4 - Os directores clínicos poderão ser coadjuvados por adjuntos nos termos a fixar em regulamento interno.\n\n5 - O mandato dos directores clínicos tem a duração de três anos, sem prejuízo da sua cessação com a cessação do mandato do director da ULS."
+  },
+  "185159636": {
+   "fragment_id": "185162992",
+   "type": 11,
+   "heading": "Artigo 24.º — Enfermeiro-director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Enfermeiro-director\n\n1 - O enfermeiro-director é nomeado pelo Ministro da Saúde, sob proposta do director da ULS.\n\n2 - Compete ao enfermeiro-director a coordenação técnica da actividade de enfermagem da ULS.\n\n3 - O enfermeiro-director pode ser coadjuvado por adjuntos nos termos a fixar em regulamento interno.\n\n4 - O mandato do enfermeiro-director tem a duração de três anos, sem prejuízo da sua cessação com a cessação do mandato do director da ULS."
+  },
+  "185159637": {
+   "fragment_id": "185162993",
+   "type": 8,
+   "heading": "Secção V — Órgão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Órgão de fiscalização"
+  },
+  "185159638": {
+   "fragment_id": "185162994",
+   "type": 11,
+   "heading": "Artigo 25.º — Composição da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Composição da comissão de fiscalização\n\n1 - A comissão de fiscalização é constituída por um presidente e dois vogais.\n\n2 - O presidente e um dos vogais são designados pelo Ministro das Finanças, sendo um deles obrigatoriamente revisor oficial de contas.\n\n3 - O terceiro vogal é designado pelo Ministro da Saúde.\n\n4 - Aos membros da comissão de fiscalização serão atribuídas senhas de presença de valor a fixar por despacho dos Ministros das Finanças e da Saúde e do membro do Governo que tutele a Administração Pública."
+  },
+  "185159639": {
+   "fragment_id": "185162995",
+   "type": 11,
+   "heading": "Artigo 26.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competência\n\n1 - Compete à comissão de fiscalização da ULS velar pelo cumprimento das normas estatuídas, legais, regulamentares e contratuais, a que estiver sujeita a ULS e, designadamente:\n\na) Examinar periodicamente a contabilidade e seguir, através de informações fornecidas pelos serviços, a sua evolução;\n\nb) Acompanhar a execução dos planos de actividade e financeiros;\n\nc) Determinar a execução de verificações e conferências para o apuramento da coincidência entre os valores contabilísticos e os patrimoniais;\n\nd) Pronunciar-se sobre os critérios de avaliação de bens, de amortizações e reintegrações, de constituição de provisões, reservas e fundos e de determinação de resultados;\n\ne) Verificar a exactidão do balanço, da demonstração de resultados e da conta de exploração e emitir parecer sobre eles, bem como sobre o relatório anual;\n\nf) Preparar relatórios trimestrais e anuais, a remeter aos Ministros das Finanças e da Saúde;\n\ng) Levar ao conhecimento das autoridades competentes as irregularidades da gestão;\n\nh) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de administração ou dos seus membros executivos nos casos em que a lei ou o regulamento da ULS exijam a sua concordância.\n\n2 - Para o exercício das suas competências, a comissão de fiscalização pode:\n\na) Requerer ao conselho de administração informações sobre a actividade da ULS;\n\nb) Propor ao conselho de administração auditorias externas sempre que entenda que os objectivos a alcançar não possam ser realizados por auditoria interna;\n\nc) Obter de terceiros que tenham realizado operações com a ULS as informações convenientes para o esclarecimento das mesmas.\n\n3 - O presidente da comissão poderá, por solicitação própria ou do presidente do conselho de administração, assistir às reuniões deste órgão."
+  },
+  "185159640": {
+   "fragment_id": "185162996",
+   "type": 11,
+   "heading": "Artigo 27.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Funcionamento\n\nA actuação da comissão rege-se por normas a definir por despacho conjunto dos Ministros das Finanças e da Saúde."
+  },
+  "185159641": {
+   "fragment_id": "185162997",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão patrimonial e financeira"
+  },
+  "185159642": {
+   "fragment_id": "185162998",
+   "type": 11,
+   "heading": "Artigo 28.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Receitas\n\nSão receitas da ULS:\n\na) As dotações do Orçamento do Estado incluídas no contrato-programa;\n\nb) Outras dotações, comparticipações e subsídios do Estado ou de outras entidades;\n\nc) O pagamento de serviços prestados nos termos da legislação em vigor e dos acordos e tabelas aprovados, designadamente as respectivas taxas moderadoras;\n\nd) O rendimento de bens próprios;\n\ne) O produto da alienação de bens próprios e da constituição de direitos sobre os mesmos;\n\nf) As doações, heranças ou legados;\n\ng) Quaisquer outros rendimentos ou valores que resultem da sua actividade ou que, por lei ou contrato, lhe devam pertencer."
+  },
+  "185159643": {
+   "fragment_id": "185162999",
+   "type": 11,
+   "heading": "Artigo 29.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Património\n\n1 - O património próprio da ULS é constituído pelos bens e direitos por si adquiridos a qualquer título.\n\n2 - Integram ainda o património da ULS os bens do domínio privado do Estado que lhe tenham sido cedidos, enquanto se mantiverem afectos ao exercício das suas atribuições, bem como os bens da Administração Regional de Saúde do Norte afectos aos centros de saúde integrados.\n\n3 - A ULS pode administrar e dispor dos bens que integram o seu património, com as limitações constantes do presente diploma."
+  },
+  "185159644": {
+   "fragment_id": "185163000",
+   "type": 11,
+   "heading": "Artigo 30.º — Instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Instrumentos de gestão\n\nA gestão patrimonial e financeira da ULS rege-se pelos seguintes instrumentos de gestão previsional:\n\na) Programa anual, que inclui plano de actividades, orçamento financeiro ou de tesouraria, orçamento económico ou demonstração de resultados, balanço previsional, orçamento de investimento e outros documentos exigidos no Plano Oficial de Contas das Instituições e Serviços de Saúde;\n\nb) Programa de médio prazo, com um horizonte mínimo de três anos, que inclui os documentos referidos na alínea a) adequados àquele prazo."
+  },
+  "185159645": {
+   "fragment_id": "185163001",
+   "type": 11,
+   "heading": "Artigo 31.º — Datas de apresentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Datas de apresentação\n\nAté 31 de Julho de cada ano deverão ser apresentados o programa anual e o programa de médio prazo aos competentes órgãos do Ministério da Saúde para negociação e aprovação em sede de contrato-programa."
+  },
+  "185159646": {
+   "fragment_id": "185163002",
+   "type": 11,
+   "heading": "Artigo 32.º — Autonomia financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Autonomia financeira\n\nCompete ao conselho de administração a cobrança das receitas provenientes da actividade da ULS ou que lhe sejam facultadas nos termos do artigo 28.º deste diploma e do n.º 2 da base XXXIII e da base XXXIV da Lei n.º 48/90, de 24 de Agosto, bem como a realização de todas as despesas inerentes a prossecução das suas actividades, desde que incluídas nos orçamentos aprovados."
+  },
+  "185159647": {
+   "fragment_id": "185163003",
+   "type": 11,
+   "heading": "Artigo 33.º — Contratação de bens e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Contratação de bens e serviços\n\n1 - A contratação de bens e serviços rege-se pelas normas de direito privado, sem prejuízo da aplicação das directivas comunitárias e do Acordo sobre Mercados Públicos celebrado no âmbito da Organização Mundial do Comércio.\n\n2 - Deve o regulamento interno da ULS garantir o cumprimento do disposto no n.º 1, bem como, em qualquer caso, os princípios da publicidade, da livre concorrência e da não discriminação, da qualidade e da economicidade, de modo a alcançar a melhor gestão dos meios ao seu dispor."
+  },
+  "185159648": {
+   "fragment_id": "185163004",
+   "type": 11,
+   "heading": "Artigo 34.º — Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Contabilidade\n\nA contabilidade deve responder às necessidades de gestão e permitir um controlo orçamental permanente, bem como a fácil verificação entre os valores patrimoniais e contabilísticos, devendo ser utilizado um sistema contabilístico de acordo com o Plano Oficial de Contas das Instituições e Serviços de Saúde."
+  },
+  "185159649": {
+   "fragment_id": "185163005",
+   "type": 11,
+   "heading": "Artigo 35.º — Documentos de prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Documentos de prestação de contas\n\nA ULS deve elaborar e enviar às entidades competentes até 31 de Março do ano seguinte, com referência a 31 de Dezembro de cada ano, os documentos seguintes:\n\na) Relatório de gestão, dando conta como foram atingidos os objectivos fixados;\n\nb) Relatório anual da comissão de fiscalização;\n\nc) Balanço analítico;\n\nd) Demonstração de resultados;\n\ne) Outros documentos previstos no Plano Oficial de Contas das Instituições e Serviços de Saúde."
+  },
+  "185159650": {
+   "fragment_id": "185163006",
+   "type": 1,
+   "heading": "Capítulo V — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Do pessoal"
+  },
+  "185159651": {
+   "fragment_id": "185163007",
+   "type": 11,
+   "heading": "Artigo 36.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regime\n\n1 - O pessoal da ULS rege-se pelas normas gerais aplicáveis ao contrato individual de trabalho, podendo a ULS ser parte em instrumentos de regulamentação colectiva de trabalho.\n\n2 - Aos funcionários e agentes da Administração Pública que pretendam prestar serviço na ULS é aplicável o disposto nos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, sendo-lhes assegurada durante a licença sem vencimento:\n\na) A contagem, na categoria de origem, do tempo de serviço prestado na ULS;\n\nb) A opção pela manutenção do regime de protecção social da função pública, incidindo os descontos sobre o montante da remuneração efectivamente auferida.\n\n3 - Finda a licença sem vencimento, é ainda assegurada:\n\na) No caso de funcionário, a integração no quadro de origem, se necessário em lugar a extinguir quando vagar, ou, caso o serviço de origem do mesmo não careça, a integração em lugar vago do quadro de outro serviço mais carenciado da mesma sub-região de saúde ou, se tal não for possível, da mesma região de saúde;\n\nb) No caso de agente, a retoma do contrato administrativo de provimento que o vinculou ao serviço de origem ou, caso este do mesmo não careça, a colocação noutro estabelecimento mais carenciado da mesma sub-região de saúde ou, se tal não for possível, da mesma região de saúde, mediante transmissão do contrato.\n\n4 - Nos casos previstos nas alíneas a) e b) do n.º 3, se o serviço de origem se situar na área dos municípios de Lisboa e Porto ou na área dos seus municípios limítrofes, a colocação pode fazer-se em serviços naqueles situados, independentemente do acordo do funcionário ou agente.\n\n5 - Em qualquer dos casos previstos no n.º 3, os funcionários e agentes têm sempre direito à aplicação do regime previsto no Decreto-Lei n.º 13/97, de 17 de Janeiro."
+  },
+  "185159652": {
+   "fragment_id": "185163008",
+   "type": 11,
+   "heading": "Artigo 37.º — Dotação de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Dotação de pessoal\n\n1 - A ULS deve ter uma dotação global de pessoal, fixada anualmente através dos respectivos orçamentos e contratos-programa, considerando os planos de actividade e o desenvolvimento das carreiras.\n\n2 - A dotação global a que se refere o n.º 1 deve englobar o quadro do pessoal referido no n.º 4 do artigo 40.º"
+  },
+  "185159653": {
+   "fragment_id": "185163009",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "185159654": {
+   "fragment_id": "185163010",
+   "type": 11,
+   "heading": "Artigo 38.º — Regime experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Regime experimental\n\n1 - O regime previsto neste diploma será revisto ao fim de três anos, em função da avaliação sistemática dos resultados qualitativos e quantitativos a que a Administração Regional de Saúde do Norte e a Direcção-Geral da Saúde devem proceder, da mesma dependendo a decisão de prorrogação, cessação, alteração ou consolidação da atribuição deste estatuto.\n\n2 - Para o acompanhamento do desempenho da ULS será criada, no âmbito da Agência de Acompanhamento dos Serviços de Saúde, uma comissão constituída por um corpo técnico pluridisciplinar designado pelo conselho de administração da Administração Regional de Saúde do Norte e por representantes dos municípios, das organizações sindicais e das organizações de utentes, nos termos a definir por despacho daquele órgão.\n\n3 - No caso de cessação da atribuição deste estatuto, é garantido a todos os profissionais em regime de contrato individual de trabalho sem termo a integração no quadro de pessoal da ULS ou das instituições que lhe sucedam, na mesma categoria, sendo-lhes aplicável o regime jurídico dos funcionários da Administração Pública à data vigente no Serviço Nacional de Saúde."
+  },
+  "185159655": {
+   "fragment_id": "185163011",
+   "type": 11,
+   "heading": "Artigo 39.º — Regime transitório aplicável aos contratos individuais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Regime transitório aplicável aos contratos individuais de trabalho\n\nAté à celebração dos procedimentos de negociação colectiva, que o conselho de administração deverá iniciar no prazo de seis meses a contar da sua nomeação, a celebração dos contratos individuais de trabalho fica sujeita aos seguintes parâmetros:\n\na) As categorias e carreiras do pessoal são análogas às existentes no Serviço Nacional de Saúde, exigindo-se para ingresso e acesso as mesmas habilitações e qualificações profissionais;\n\nb) Os procedimentos de ingresso e acesso devem garantir os princípios da publicidade, da igualdade, da proporcionalidade e da prossecução do interesse público;\n\nc) As funções de chefia e direcção são desempenhadas em comissão de serviço."
+  },
+  "185159656": {
+   "fragment_id": "185163012",
+   "type": 11,
+   "heading": "Artigo 40.º — Hospital de Pedro Hispano e centros de saúde integrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Hospital de Pedro Hispano e centros de saúde integrados\n\n1 - É extinta a pessoa colectiva Hospital de Pedro Hispano, sucedendo a ULS em todos os seus direitos e obrigações.\n\n2 - Os Centros de Saúde de Matosinhos, de Nossa Senhora da Hora, de São Mamede de Infesta e de Leça da Palmeira são integrados na ULS, sucedendo a ULS em todos os direitos e obrigações da Administração Regional de Saúde do Norte a eles relativos.\n\n3 - O pessoal com relação jurídica de emprego público que se encontre a exercer funções no Hospital de Pedro Hispano e nos centros de saúde integrados transita para a ULS, sendo-lhe garantida a manutenção integral do seu estatuto jurídico, sem prejuízo do disposto nos números seguintes.\n\n4 - Os funcionários públicos pertencentes aos quadros de pessoal dos serviços referidos no n.º 3 são integrados em quadro de pessoal a criar na ULS por portaria dos Ministros das Finanças e da Saúde e do membro do Governo que tutela a Administração Pública.\n\n5 - O quadro de pessoal a que se refere o n.º 4 deve permitir o acesso dos funcionários, e o ingresso dos agentes que à data da entrada em vigor do presente diploma se encontrem vinculados às instituições integradas e não exerçam a opção prevista no n.º 6.\n\n6 - O pessoal a que se refere o n.º 3 pode optar pelo regime do contrato individual de trabalho, sendo-lhe aplicável o regime de licença sem vencimento previsto no artigo 36.º\n\n7 - Os lugares do quadro a que se refere o n.º 5 extinguir-se-ão à medida que vagarem, da base para o topo.\n\n8 - Mantêm-se válidos os concursos pendentes e os estágios em curso à data da entrada em vigor do presente diploma."
+  },
+  "185159657": {
+   "fragment_id": "185163013",
+   "type": 11,
+   "heading": "Artigo 41.º — Comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Comissões de serviço\n\nCom a entrada em vigor do presente diploma cessam as comissões de serviço do pessoal dirigente dos organismos integrados, mantendo-se em gestão até às designações a que se proceda nos termos do presente diploma."
+  },
+  "185159658": {
+   "fragment_id": "185163014",
+   "type": 11,
+   "heading": "Artigo 42.º — Contrato-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Contrato-programa\n\n1 - O conselho de administração deve apresentar à Administração Regional de Saúde do Norte, no prazo máximo de 30 dias a contar da sua nomeação, a proposta de contrato-programa.\n\n2 - Até à celebração do contrato-programa a ULS disporá da dotação de pessoal e da dotação orçamental fixadas em despacho do Ministro da Saúde."
+  },
+  "185159659": {
+   "fragment_id": "185163015",
+   "type": 11,
+   "heading": "Artigo 43.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "185011947": {
+   "fragment_id": "185158762",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011948": {
+   "fragment_id": "185158763",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e regime",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e regime\n\n1 - É criada a Unidade Local de Saúde de Matosinhos, adiante designada ULS, estabelecimento público dotado de personalidade jurídica, autonomia administrativa, financeira e patrimonial e natureza empresarial, que integra o Hospital de Pedro Hispano e os Centros de Saúde de Matosinhos, da Senhora da Hora, de São Mamede de Infesta e de Leça da Palmeira.\n\n2 - A ULS rege-se pelo presente diploma, pelas normas em vigor para o Serviço Nacional de Saúde que não contrariem as normas constantes do presente diploma, pelos seus regulamentos internos e, subsidiariamente, pelas normas aplicáveis às entidades que revistam natureza, forma e designação de empresa pública, não estando sujeita às normas aplicáveis aos institutos públicos que revistam a forma de serviços personalizados ou de fundos públicos.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011949": {
+   "fragment_id": "185158764",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições da ULS a prestação global de cuidados de saúde à população da sua área de influência, directamente através dos seus serviços ou indirectamente através da contratação com outras entidades, bem como assegurar as actividades de saúde pública e os meios necessários ao exercício das competências da autoridade de saúde na área geográfica abrangida.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011950": {
+   "fragment_id": "185158765",
+   "type": 11,
+   "heading": "Artigo 3.º — Tutela",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 3.º — Tutela\n\n1 - A ULS está sujeita a tutela e superintendência dos Ministros da Saúde e das Finanças nos termos previstos nos números seguintes.\n\n2 - Compete ao Ministro da Saúde:\n\na) Definir as linhas orientadoras a que deve obedecer a preparação dos planos de actividade e dos orçamentos;\n\nb) Exigir todas as informações julgadas necessárias ao acompanhamento da actividade da ULS, bem como determinar auditorias e inspecções ao seu funcionamento;\n\nc) Definir os parâmetros da negociação colectiva a que houver lugar, nos termos da lei.\n\n3 - Aos Ministros da Saúde e das Finanças compete a tutela de natureza económica e financeira da ULS, que compreende os poderes de:\n\na) Aprovar os planos de actividade e financeiros de natureza plurianual;\n\nb) Aprovar os planos de actividade e os orçamentos de exploração e de investimento anuais, bem como as respectivas actualizações;\n\nc) Aprovar os documentos de prestação de contas;\n\nd) Aprovar as tabelas de preços a cobrar nos casos previstos na lei;\n\ne) Autorizar a aquisição e venda de bens imóveis, precedendo parecer favorável da comissão de fiscalização, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados;\n\nf) Autorizar a contracção de empréstimos, precedendo parecer favorável da comissão de fiscalização.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011951": {
+   "fragment_id": "185158766",
+   "type": 11,
+   "heading": "Artigo 4.º — Responsabilidade civil, penal e disciplinar",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 4.º — Responsabilidade civil, penal e disciplinar\n\n1 - A ULS responde civilmente perante terceiros pelos actos ou omissões dos membros do conselho de administração nos mesmos termos em que os comitentes respondem pelos actos ou omissões dos comissários, de acordo com a lei geral.\n\n2 - Os titulares de qualquer dos órgãos da ULS respondem civilmente perante esta pelos prejuízos causados pelo incumprimento dos seus deveres legais ou regulamentares.\n\n3 - O disposto nos números anteriores não prejudica a responsabilidade penal ou disciplinar em que eventualmente incorram os titulares dos mesmos órgãos.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011952": {
+   "fragment_id": "185158767",
+   "type": 1,
+   "heading": "Capítulo II — Princípios de organização",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "### Capítulo II — Princípios de organização\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011953": {
+   "fragment_id": "185158768",
+   "type": 11,
+   "heading": "Artigo 5.º — Actividade",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 5.º — Actividade\n\nA actividade da ULS necessária ao exercício das suas atribuições será desenvolvida de modo integrado, atenta a sua organização interna e as demais entidades prestadoras de cuidados de saúde da área, com base em contratos-programa por ela propostos e aprovados pela Administração Regional de Saúde do Norte, através da Agência de Acompanhamento dos Serviços de Saúde, com respeito pelas linhas orientadoras definidas nos planos estratégicos da política de saúde de nível nacional e regional.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011954": {
+   "fragment_id": "185158769",
+   "type": 11,
+   "heading": "Artigo 6.º — Estrutura da prestação de cuidados",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 6.º — Estrutura da prestação de cuidados\n\nA ULS deve, em regulamento interno, criar e estruturar os serviços em função das suas atribuições e das actividades programadas e objecto dos contratos-programa a que se refere o artigo 5.º, segundo critérios de especialização horizontal e vertical de funções que se mostrarem mais adequados ao bom desempenho e ao racional aproveitamento dos seus meios, devendo os serviços de prestação de cuidados de saúde ser estruturados de modo a possibilitar novas formas de integração e divisão de trabalho centradas, prioritariamente, no doente.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011955": {
+   "fragment_id": "185158770",
+   "type": 11,
+   "heading": "Artigo 7.º — Centros de responsabilidade",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 7.º — Centros de responsabilidade\n\n1 - A ULS deverá prever em regulamento interno a sua organização em centros de responsabilidade, agrupados em função das três grandes áreas de actuação - a hospitalar, a de cuidados primários e a de saúde pública -, bem como a respectiva estrutura de gestão e competências.\n\n2 - Os centros de responsabilidade são estruturas operacionais que deverão corresponder a níveis de gestão intermédia e dispor de autonomia compatível com a unidade de acção, agrupando unidades funcionais segundo critérios que garantam a homogeneidade e ou a afinidade da respectiva actividade.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011956": {
+   "fragment_id": "185158771",
+   "type": 11,
+   "heading": "Artigo 8.º — Formação",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 8.º — Formação\n\nA ULS participa no processo de formação pré e pós-graduada de profissionais do sector mediante a celebração de acordos com as entidades competentes.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011957": {
+   "fragment_id": "185158772",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos e competências",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "### Capítulo III — Órgãos e competências\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011958": {
+   "fragment_id": "185158773",
+   "type": 8,
+   "heading": "Secção I — Estrutura",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "#### Secção I — Estrutura\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011959": {
+   "fragment_id": "185158774",
+   "type": 11,
+   "heading": "Artigo 9.º — Órgãos da ULS",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 9.º — Órgãos da ULS\n\n1 - São órgãos da ULS o conselho geral, o conselho de administração, os órgãos de direcção técnica e a comissão de fiscalização.\n\n2 - São órgãos de direcção técnica o director clínico da área hospitalar, o director clínico da área dos cuidados de saúde primários e o enfermeiro-director.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011960": {
+   "fragment_id": "185162975",
+   "type": 11,
+   "heading": "Artigo 10.º — Comissões de apoio técnico",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 10.º — Comissões de apoio técnico\n\nPara além da comissão de ética para a saúde, constituída nos termos do Decreto-Lei n.º 97/95, de 10 de Maio, deverão ser criadas e reguladas em regulamento interno outras comissões de apoio técnico que coadjuvem os órgãos de administração e de direcção técnica nas matérias da sua competência.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011961": {
+   "fragment_id": "185162976",
+   "type": 8,
+   "heading": "Secção II — Conselho geral",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "#### Secção II — Conselho geral\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011962": {
+   "fragment_id": "185162977",
+   "type": 11,
+   "heading": "Artigo 11.º — Composição do conselho geral",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 11.º — Composição do conselho geral\n\n1 - O conselho geral é composto por representantes das entidades públicas e privadas que, no município de Matosinhos, desenvolvam actividades directa ou indirectamente relacionadas com a saúde, designadamente estabelecimentos de ensino, centros regionais de segurança social, autarquias locais e organizações não governamentais, e que acordem com a ULS a execução de programas e projectos comuns.\n\n2 - O presidente do conselho geral é eleito pelos respectivos membros, de entre eles.\n\n3 - A composição do conselho geral consta de regulamento interno da ULS.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011963": {
+   "fragment_id": "185162978",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 12.º — Competência\n\nCompete ao conselho geral emitir parecer sobre todas as questões solicitadas pelo conselho de administração da ULS, nomeadamente sobre programas e planos de actividade e investimentos, bem como apresentar propostas para melhoria da prestação de cuidados pela ULS.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011964": {
+   "fragment_id": "185162979",
+   "type": 11,
+   "heading": "Artigo 13.º — Funcionamento",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 13.º — Funcionamento\n\n1 - O conselho reúne quatro vezes por ano, as suas deliberações serão tomadas por maioria simples e constarão de acta.\n\n2 - As demais regras de funcionamento do conselho geral são definidas em regulamento próprio.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011965": {
+   "fragment_id": "185162980",
+   "type": 8,
+   "heading": "Secção III — Conselho de administração",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "#### Secção III — Conselho de administração\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011966": {
+   "fragment_id": "185162981",
+   "type": 11,
+   "heading": "Artigo 14.º — Composição do conselho de administração",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 14.º — Composição do conselho de administração\n\n1 - O conselho de administração é composto pelo presidente, por dois vogais executivos e por quatro vogais não executivos, três dos quais são por inerência o director clínico da área dos cuidados de saúde primários, o director clínico da área hospitalar e o enfermeiro-director e o quarto designado pela Câmara Municipal de Matosinhos.\n\n2 - O presidente do conselho de administração é nomeado pelo Ministro da Saúde, sob proposta da Administração Regional de Saúde do Norte.\n\n3 - Os vogais executivos são nomeados pelo Ministro da Saúde, sob proposta do presidente do conselho de administração.\n\n4 - O quarto vogal é nomeado pelo Ministro da Saúde, ouvido o presidente do conselho de administração, sob proposta da Câmara Municipal de Matosinhos.\n\n5 - Os mandatos são de três anos, sem prejuízo da cessação do mandato dos vogais com a cessação do mandato do presidente.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011967": {
+   "fragment_id": "185162982",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 15.º — Competência\n\n1 - Compete ao conselho de administração, sem prejuízo dos poderes de tutela, o exercício dos poderes de gestão que, por disposição expressa, não estejam reservados a outros órgãos da ULS e, em especial:\n\na) Definir as directrizes que devem orientar a organização e o funcionamento da ULS;\n\nb) Aprovar a estrutura dos serviços e a sua organização em centros de responsabilidade;\n\nc) Celebrar os contratos-programa;\n\nd) Aprovar os planos de actividade e os orçamentos anuais e plurianuais;\n\ne) Aprovar os documentos de prestação de contas;\n\nf) Fixar as dotações de pessoal;\n\ng) Designar os responsáveis pelos serviços e dos centros de responsabilidade;\n\nh) Aprovar as normas relativas ao pessoal e respectivo estatuto, proceder à sua admissão, bem como exercer as competências atribuídas por lei aos órgãos máximos dos serviços e organismos da Administração Pública em matéria de pessoal;\n\ni) Aprovar os regulamentos internos;\n\nj) Celebrar convenções colectivas de trabalho;\n\nk) Cobrar as receitas e realizar as despesas;\n\nl) Contratar com outras entidades a prestação de serviços ajustada aos programas de saúde;\n\nm) Acompanhar e avaliar sistematicamente a actividade desenvolvida pela ULS, garantindo a gestão adequada e racional dos recursos;\n\nn) Responsabilizar os diferentes serviços e centros de responsabilidade pela utilização dos meios postos à sua disposição, acompanhando e gerindo as respectivas contas correntes;\n\no) Constituir mandatários com os poderes que entender convenientes.\n\n2 - O conselho de administração ouvirá os órgãos de direcção técnica e as comissões de apoio técnico de acordo com as competências destes.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011968": {
+   "fragment_id": "185162983",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão executiva",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 16.º — Comissão executiva\n\nO presidente do conselho de administração e os vogais executivos constituem uma comissão executiva, na qual poderão ser delegadas, com poderes de subdelegação, as competências previstas nas alíneas h), i), k), l), m), n) e o), bem como outras que entenda convenientes para assegurar a gestão corrente da ULS, sem prejuízo do direito de avocação.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011969": {
+   "fragment_id": "185162984",
+   "type": 11,
+   "heading": "Artigo 17.º — Funcionamento",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 17.º — Funcionamento\n\n1 - O conselho de administração reunirá semanalmente e as suas deliberações serão tomadas por maioria simples e constarão de acta, tendo o presidente voto de qualidade.\n\n2 - As demais regras de funcionamento do conselho são definidas em regulamento próprio, o qual deve incluir a previsão da substituição dos seus membros em situações de falta ou impedimento.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011970": {
+   "fragment_id": "185162985",
+   "type": 11,
+   "heading": "Artigo 18.º — Exoneração",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 18.º — Exoneração\n\n1 - Os membros do conselho de administração podem ser livremente exonerados com fundamento em mera conveniência de serviço, mediante indemnização de valor correspondente aos ordenados vincendos até ao termo do mandato, mas nunca superior ao vencimento anual, à qual será deduzido o montante do vencimento do lugar de origem que os respectivos membros tenham direito a reocupar.\n\n2 - A exoneração pode ainda fundamentar-se em falta de observância da lei ou dos regulamentos ou na violação grave dos deveres de gestor.\n\n3 - A exoneração prevista no número anterior é precedida de audiência do interessado, mas sem dependência de qualquer processo e sem que haja lugar a indemnização.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011971": {
+   "fragment_id": "185162986",
+   "type": 11,
+   "heading": "Artigo 19.º — Dissolução",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 19.º — Dissolução\n\n1 - O Ministro da Saúde pode dissolver o conselho de administração nos seguintes casos:\n\na) Deterioração dos resultados da actividade, incluindo a qualidade dos serviços prestados;\n\nb) Desvio substancial entre os orçamentos e a respectiva execução.\n\n2 - Não haverá lugar a dissolução nos casos em que o conselho de administração tenha tomado todas as medidas para evitar a verificação dos factos referidos no número anterior.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011972": {
+   "fragment_id": "185162987",
+   "type": 11,
+   "heading": "Artigo 20.º — Estatuto de gestor público",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 20.º — Estatuto de gestor público\n\n1 - O estatuto de gestor público aplica-se subsidiariamente aos membros do conselho de administração, designadamente quanto ao mandato, incompatibilidades, regime de trabalho e remunerações, sendo estas fixadas em função de parâmetros a definir em despacho conjunto dos Ministros das Finanças e da Saúde e do membro do Governo que tutele a Administração Pública.\n\n2 - O vogal designado pela Câmara Municipal de Matosinhos tem direito a senhas de presença de valor fixado no despacho referido no n.º 1.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011973": {
+   "fragment_id": "185162988",
+   "type": 11,
+   "heading": "Artigo 21.º — Presidente do conselho de administração",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 21.º — Presidente do conselho de administração\n\nCompete ao presidente do conselho de administração da ULS:\n\na) Presidir ao conselho de administração e à comissão executiva e dirigir a sua acção;\n\nb) Submeter a despacho os assuntos sujeitos a tutela;\n\nc) Representar a ULS em juízo e fora dele.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185011974": {
+   "fragment_id": "185162989",
+   "type": 8,
+   "heading": "Secção IV — Órgãos de direcção técnica",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "#### Secção IV — Órgãos de direcção técnica\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220375": {
+   "fragment_id": "185162990",
+   "type": 11,
+   "heading": "Artigo 22.º — Função",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 22.º — Função\n\nOs órgãos de direcção técnica têm por função, nos níveis e nos sectores definidos no presente diploma e através da prática de todos os actos não reservados a outros órgãos, a orientação técnica de serviços ou conjuntos de serviços da ULS, com o objectivo de garantir actuações, técnica e deontologicamente correctas, num quadro de desenvolvimento qualitativo e quantitativo das prestações de saúde.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220376": {
+   "fragment_id": "185162991",
+   "type": 11,
+   "heading": "Artigo 23.º — Directores clínicos",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11",
+    "Retificado pelo/a [Declaração de Rectificação n.º 10-AU/99 - Diário da República n.º 150/1999, 2º Suplemento, Série I-A de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-au-1999-406334), em vigor a partir de 1999-06-09"
+   ],
+   "markdown": "###### Artigo 23.º — Directores clínicos\n\n1 - O director clínico da área hospitalar e o director clínico da área dos cuidados de saúde primários são nomeados pelo Ministro da Saúde, sob proposta do presidente do conselho de administração da ULS.\n\n2 - Compete aos directores clínicos a direcção técnica da actividade assistencial das respectivas áreas da ULS e, em especial, da sua acção clínica.\n\n3 - Os directores clínicos respondem perante o conselho de administração pela qualidade da assistência prestada, dentro das regras da boa prática e melhor gestão de recursos, nas respectivas áreas.\n\n4 - Os directores clínicos poderão ser coadjuvados por adjuntos nos termos a fixar em regulamento interno.\n\n5 - O mandato dos directores clínicos tem a duração de três anos, sem prejuízo da sua cessação com a cessação do mandato do presidente do conselho de administração da ULS.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10-AU/99 - Diário da República n.º 150/1999, 2º Suplemento, Série I-A de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-au-1999-406334), em vigor a partir de 1999-06-09"
+  },
+  "185220377": {
+   "fragment_id": "185162992",
+   "type": 11,
+   "heading": "Artigo 24.º — Enfermeiro-director",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11",
+    "Retificado pelo/a [Declaração de Rectificação n.º 10-AU/99 - Diário da República n.º 150/1999, 2º Suplemento, Série I-A de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-au-1999-406334), em vigor a partir de 1999-06-09"
+   ],
+   "markdown": "###### Artigo 24.º — Enfermeiro-director\n\n1 - O enfermeiro-director é nomeado pelo Ministro da Saúde, sob proposta do presidente do conselho de administração da ULS.\n\n2 - Compete ao enfermeiro-director a coordenação técnica da actividade de enfermagem da ULS.\n\n3 - O enfermeiro-director pode ser coadjuvado por adjuntos nos termos a fixar em regulamento interno.\n\n4 - O mandato do enfermeiro-director tem a duração de três anos, sem prejuízo da sua cessação com a cessação do mandato do presidente do conselho de administração da ULS.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10-AU/99 - Diário da República n.º 150/1999, 2º Suplemento, Série I-A de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-au-1999-406334), em vigor a partir de 1999-06-09"
+  },
+  "185220378": {
+   "fragment_id": "185162993",
+   "type": 8,
+   "heading": "Secção V — Órgão de fiscalização",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "#### Secção V — Órgão de fiscalização\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220379": {
+   "fragment_id": "185162994",
+   "type": 11,
+   "heading": "Artigo 25.º — Composição da comissão de fiscalização",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 25.º — Composição da comissão de fiscalização\n\n1 - A comissão de fiscalização é constituída por um presidente e dois vogais.\n\n2 - O presidente e um dos vogais são designados pelo Ministro das Finanças, sendo um deles obrigatoriamente revisor oficial de contas.\n\n3 - O terceiro vogal é designado pelo Ministro da Saúde.\n\n4 - Aos membros da comissão de fiscalização serão atribuídas senhas de presença de valor a fixar por despacho dos Ministros das Finanças e da Saúde e do membro do Governo que tutele a Administração Pública.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220380": {
+   "fragment_id": "185162995",
+   "type": 11,
+   "heading": "Artigo 26.º — Competência",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 26.º — Competência\n\n1 - Compete à comissão de fiscalização da ULS velar pelo cumprimento das normas estatuídas, legais, regulamentares e contratuais, a que estiver sujeita a ULS e, designadamente:\n\na) Examinar periodicamente a contabilidade e seguir, através de informações fornecidas pelos serviços, a sua evolução;\n\nb) Acompanhar a execução dos planos de actividade e financeiros;\n\nc) Determinar a execução de verificações e conferências para o apuramento da coincidência entre os valores contabilísticos e os patrimoniais;\n\nd) Pronunciar-se sobre os critérios de avaliação de bens, de amortizações e reintegrações, de constituição de provisões, reservas e fundos e de determinação de resultados;\n\ne) Verificar a exactidão do balanço, da demonstração de resultados e da conta de exploração e emitir parecer sobre eles, bem como sobre o relatório anual;\n\nf) Preparar relatórios trimestrais e anuais, a remeter aos Ministros das Finanças e da Saúde;\n\ng) Levar ao conhecimento das autoridades competentes as irregularidades da gestão;\n\nh) Pronunciar-se sobre a legalidade e conveniência dos actos do conselho de administração ou dos seus membros executivos nos casos em que a lei ou o regulamento da ULS exijam a sua concordância.\n\n2 - Para o exercício das suas competências, a comissão de fiscalização pode:\n\na) Requerer ao conselho de administração informações sobre a actividade da ULS;\n\nb) Propor ao conselho de administração auditorias externas sempre que entenda que os objectivos a alcançar não possam ser realizados por auditoria interna;\n\nc) Obter de terceiros que tenham realizado operações com a ULS as informações convenientes para o esclarecimento das mesmas.\n\n3 - O presidente da comissão poderá, por solicitação própria ou do presidente do conselho de administração, assistir às reuniões deste órgão.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220381": {
+   "fragment_id": "185162996",
+   "type": 11,
+   "heading": "Artigo 27.º — Funcionamento",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 27.º — Funcionamento\n\nA actuação da comissão rege-se por normas a definir por despacho conjunto dos Ministros das Finanças e da Saúde.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220382": {
+   "fragment_id": "185162997",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão patrimonial e financeira",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "### Capítulo IV — Gestão patrimonial e financeira\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220383": {
+   "fragment_id": "185162998",
+   "type": 11,
+   "heading": "Artigo 28.º — Receitas",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 28.º — Receitas\n\nSão receitas da ULS:\n\na) As dotações do Orçamento do Estado incluídas no contrato-programa;\n\nb) Outras dotações, comparticipações e subsídios do Estado ou de outras entidades;\n\nc) O pagamento de serviços prestados nos termos da legislação em vigor e dos acordos e tabelas aprovados, designadamente as respectivas taxas moderadoras;\n\nd) O rendimento de bens próprios;\n\ne) O produto da alienação de bens próprios e da constituição de direitos sobre os mesmos;\n\nf) As doações, heranças ou legados;\n\ng) Quaisquer outros rendimentos ou valores que resultem da sua actividade ou que, por lei ou contrato, lhe devam pertencer.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220384": {
+   "fragment_id": "185162999",
+   "type": 11,
+   "heading": "Artigo 29.º — Património",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 29.º — Património\n\n1 - O património próprio da ULS é constituído pelos bens e direitos por si adquiridos a qualquer título.\n\n2 - Integram ainda o património da ULS os bens do domínio privado do Estado que lhe tenham sido cedidos, enquanto se mantiverem afectos ao exercício das suas atribuições, bem como os bens da Administração Regional de Saúde do Norte afectos aos centros de saúde integrados.\n\n3 - A ULS pode administrar e dispor dos bens que integram o seu património, com as limitações constantes do presente diploma.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220385": {
+   "fragment_id": "185163000",
+   "type": 11,
+   "heading": "Artigo 30.º — Instrumentos de gestão",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 30.º — Instrumentos de gestão\n\nA gestão patrimonial e financeira da ULS rege-se pelos seguintes instrumentos de gestão previsional:\n\na) Programa anual, que inclui plano de actividades, orçamento financeiro ou de tesouraria, orçamento económico ou demonstração de resultados, balanço previsional, orçamento de investimento e outros documentos exigidos no Plano Oficial de Contas das Instituições e Serviços de Saúde;\n\nb) Programa de médio prazo, com um horizonte mínimo de três anos, que inclui os documentos referidos na alínea a) adequados àquele prazo.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220386": {
+   "fragment_id": "185163001",
+   "type": 11,
+   "heading": "Artigo 31.º — Datas de apresentação",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 31.º — Datas de apresentação\n\nAté 31 de Julho de cada ano deverão ser apresentados o programa anual e o programa de médio prazo aos competentes órgãos do Ministério da Saúde para negociação e aprovação em sede de contrato-programa.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220387": {
+   "fragment_id": "185163002",
+   "type": 11,
+   "heading": "Artigo 32.º — Autonomia financeira",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 32.º — Autonomia financeira\n\nCompete ao conselho de administração a cobrança das receitas provenientes da actividade da ULS ou que lhe sejam facultadas nos termos do artigo 28.º deste diploma e do n.º 2 da base XXXIII e da base XXXIV da Lei n.º 48/90, de 24 de Agosto, bem como a realização de todas as despesas inerentes a prossecução das suas actividades, desde que incluídas nos orçamentos aprovados.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220388": {
+   "fragment_id": "185163003",
+   "type": 11,
+   "heading": "Artigo 33.º — Contratação de bens e serviços",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 33.º — Contratação de bens e serviços\n\n1 - A contratação de bens e serviços rege-se pelas normas de direito privado, sem prejuízo da aplicação das directivas comunitárias e do Acordo sobre Mercados Públicos celebrado no âmbito da Organização Mundial do Comércio.\n\n2 - Deve o regulamento interno da ULS garantir o cumprimento do disposto no n.º 1, bem como, em qualquer caso, os princípios da publicidade, da livre concorrência e da não discriminação, da qualidade e da economicidade, de modo a alcançar a melhor gestão dos meios ao seu dispor.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220389": {
+   "fragment_id": "185163004",
+   "type": 11,
+   "heading": "Artigo 34.º — Contabilidade",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 34.º — Contabilidade\n\nA contabilidade deve responder às necessidades de gestão e permitir um controlo orçamental permanente, bem como a fácil verificação entre os valores patrimoniais e contabilísticos, devendo ser utilizado um sistema contabilístico de acordo com o Plano Oficial de Contas das Instituições e Serviços de Saúde.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220390": {
+   "fragment_id": "185163005",
+   "type": 11,
+   "heading": "Artigo 35.º — Documentos de prestação de contas",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 35.º — Documentos de prestação de contas\n\nA ULS deve elaborar e enviar às entidades competentes até 31 de Março do ano seguinte, com referência a 31 de Dezembro de cada ano, os documentos seguintes:\n\na) Relatório de gestão, dando conta como foram atingidos os objectivos fixados;\n\nb) Relatório anual da comissão de fiscalização;\n\nc) Balanço analítico;\n\nd) Demonstração de resultados;\n\ne) Outros documentos previstos no Plano Oficial de Contas das Instituições e Serviços de Saúde.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220391": {
+   "fragment_id": "185163006",
+   "type": 1,
+   "heading": "Capítulo V — Do pessoal",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "### Capítulo V — Do pessoal\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220392": {
+   "fragment_id": "185163007",
+   "type": 11,
+   "heading": "Artigo 36.º — Regime",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 36.º — Regime\n\n1 - O pessoal da ULS rege-se pelas normas gerais aplicáveis ao contrato individual de trabalho, podendo a ULS ser parte em instrumentos de regulamentação colectiva de trabalho.\n\n2 - Aos funcionários e agentes da Administração Pública que pretendam prestar serviço na ULS é aplicável o disposto nos artigos 21.º e 22.º do Estatuto do Serviço Nacional de Saúde, sendo-lhes assegurada durante a licença sem vencimento:\n\na) A contagem, na categoria de origem, do tempo de serviço prestado na ULS;\n\nb) A opção pela manutenção do regime de protecção social da função pública, incidindo os descontos sobre o montante da remuneração efectivamente auferida.\n\n3 - Finda a licença sem vencimento, é ainda assegurada:\n\na) No caso de funcionário, a integração no quadro de origem, se necessário em lugar a extinguir quando vagar, ou, caso o serviço de origem do mesmo não careça, a integração em lugar vago do quadro de outro serviço mais carenciado da mesma sub-região de saúde ou, se tal não for possível, da mesma região de saúde;\n\nb) No caso de agente, a retoma do contrato administrativo de provimento que o vinculou ao serviço de origem ou, caso este do mesmo não careça, a colocação noutro estabelecimento mais carenciado da mesma sub-região de saúde ou, se tal não for possível, da mesma região de saúde, mediante transmissão do contrato.\n\n4 - Nos casos previstos nas alíneas a) e b) do n.º 3, se o serviço de origem se situar na área dos municípios de Lisboa e Porto ou na área dos seus municípios limítrofes, a colocação pode fazer-se em serviços naqueles situados, independentemente do acordo do funcionário ou agente.\n\n5 - Em qualquer dos casos previstos no n.º 3, os funcionários e agentes têm sempre direito à aplicação do regime previsto no Decreto-Lei n.º 13/97, de 17 de Janeiro.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220393": {
+   "fragment_id": "185163008",
+   "type": 11,
+   "heading": "Artigo 37.º — Dotação de pessoal",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 37.º — Dotação de pessoal\n\n1 - A ULS deve ter uma dotação global de pessoal, fixada anualmente através dos respectivos orçamentos e contratos-programa, considerando os planos de actividade e o desenvolvimento das carreiras.\n\n2 - A dotação global a que se refere o n.º 1 deve englobar o quadro do pessoal referido no n.º 4 do artigo 40.º\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220394": {
+   "fragment_id": "185163009",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220395": {
+   "fragment_id": "185163010",
+   "type": 11,
+   "heading": "Artigo 38.º — Regime experimental",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 38.º — Regime experimental\n\n1 - O regime previsto neste diploma será revisto ao fim de três anos, em função da avaliação sistemática dos resultados qualitativos e quantitativos a que a Administração Regional de Saúde do Norte e a Direcção-Geral da Saúde devem proceder, da mesma dependendo a decisão de prorrogação, cessação, alteração ou consolidação da atribuição deste estatuto.\n\n2 - Para o acompanhamento do desempenho da ULS será criada, no âmbito da Agência de Acompanhamento dos Serviços de Saúde, uma comissão constituída por um corpo técnico pluridisciplinar designado pelo conselho de administração da Administração Regional de Saúde do Norte e por representantes dos municípios, das organizações sindicais e das organizações de utentes, nos termos a definir por despacho daquele órgão.\n\n3 - No caso de cessação da atribuição deste estatuto, é garantido a todos os profissionais em regime de contrato individual de trabalho sem termo a integração no quadro de pessoal da ULS ou das instituições que lhe sucedam, na mesma categoria, sendo-lhes aplicável o regime jurídico dos funcionários da Administração Pública à data vigente no Serviço Nacional de Saúde.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220396": {
+   "fragment_id": "185163011",
+   "type": 11,
+   "heading": "Artigo 39.º — Regime transitório aplicável aos contratos individuais de trabalho",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 39.º — Regime transitório aplicável aos contratos individuais de trabalho\n\nAté à celebração dos procedimentos de negociação colectiva, que o conselho de administração deverá iniciar no prazo de seis meses a contar da sua nomeação, a celebração dos contratos individuais de trabalho fica sujeita aos seguintes parâmetros:\n\na) As categorias e carreiras do pessoal são análogas às existentes no Serviço Nacional de Saúde, exigindo-se para ingresso e acesso as mesmas habilitações e qualificações profissionais;\n\nb) Os procedimentos de ingresso e acesso devem garantir os princípios da publicidade, da igualdade, da proporcionalidade e da prossecução do interesse público;\n\nc) As funções de chefia e direcção são desempenhadas em comissão de serviço.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220397": {
+   "fragment_id": "185163012",
+   "type": 11,
+   "heading": "Artigo 40.º — Hospital de Pedro Hispano e centros de saúde integrados",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 40.º — Hospital de Pedro Hispano e centros de saúde integrados\n\n1 - É extinta a pessoa colectiva Hospital de Pedro Hispano, sucedendo a ULS em todos os seus direitos e obrigações.\n\n2 - Os Centros de Saúde de Matosinhos, de Nossa Senhora da Hora, de São Mamede de Infesta e de Leça da Palmeira são integrados na ULS, sucedendo a ULS em todos os direitos e obrigações da Administração Regional de Saúde do Norte a eles relativos.\n\n3 - O pessoal com relação jurídica de emprego público que se encontre a exercer funções no Hospital de Pedro Hispano e nos centros de saúde integrados transita para a ULS, sendo-lhe garantida a manutenção integral do seu estatuto jurídico, sem prejuízo do disposto nos números seguintes.\n\n4 - Os funcionários públicos pertencentes aos quadros de pessoal dos serviços referidos no n.º 3 são integrados em quadro de pessoal a criar na ULS por portaria dos Ministros das Finanças e da Saúde e do membro do Governo que tutela a Administração Pública.\n\n5 - O quadro de pessoal a que se refere o n.º 4 deve permitir o acesso dos funcionários, e o ingresso dos agentes que à data da entrada em vigor do presente diploma se encontrem vinculados às instituições integradas e não exerçam a opção prevista no n.º 6.\n\n6 - O pessoal a que se refere o n.º 3 pode optar pelo regime do contrato individual de trabalho, sendo-lhe aplicável o regime de licença sem vencimento previsto no artigo 36.º\n\n7 - Os lugares do quadro a que se refere o n.º 5 extinguir-se-ão à medida que vagarem, da base para o topo.\n\n8 - Mantêm-se válidos os concursos pendentes e os estágios em curso à data da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220398": {
+   "fragment_id": "185163013",
+   "type": 11,
+   "heading": "Artigo 41.º — Comissões de serviço",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 41.º — Comissões de serviço\n\nCom a entrada em vigor do presente diploma cessam as comissões de serviço do pessoal dirigente dos organismos integrados, mantendo-se em gestão até às designações a que se proceda nos termos do presente diploma.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220399": {
+   "fragment_id": "185163014",
+   "type": 11,
+   "heading": "Artigo 42.º — Contrato-programa",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 42.º — Contrato-programa\n\n1 - O conselho de administração deve apresentar à Administração Regional de Saúde do Norte, no prazo máximo de 30 dias a contar da sua nomeação, a proposta de contrato-programa.\n\n2 - Até à celebração do contrato-programa a ULS disporá da dotação de pessoal e da dotação orçamental fixadas em despacho do Ministro da Saúde.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220400": {
+   "fragment_id": "185163015",
+   "type": 11,
+   "heading": "Artigo 43.º — Entrada em vigor",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "###### Artigo 43.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  },
+  "185220401": {
+   "fragment_id": "185163016",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2002-12-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 18 de Março de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 25 de Maio de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Maio de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 283/2002 - Diário da República n.º 285/2002, Série I-A de 2002-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/283-2002-438184), em vigor a partir de 2002-12-11"
+  }
+ }
+}

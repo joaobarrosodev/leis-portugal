@@ -1,0 +1,229 @@
+---
+schema_version: '1.0'
+id: pt:dre:142522:por
+title: Lei Orgânica n.º 4/2005
+short_title: null
+summary: Procede à primeira alteração à Lei Orgânica n.º 15-A/98, de 3 de Abril, flexibilizando os mecanismos de realização
+  de referendos, à segunda alteração à Lei n.º 13/99, de 22 de Março, e à décima sexta alteração ao Decreto-Lei n.º 319-A/76,
+  de 3 de Maio
+jurisdiction: portugal
+territory: null
+document_type: lei-organica
+document_type_label: Lei Orgânica
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 4/2005
+official_date: null
+publication_date: '2005-09-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/2005, Série I-A de 2005-09-08
+  number: '173'
+  series: I
+  supplement: null
+  pages: 5494 - 5495
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/09/173a00/54945495.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/leiorg/4/2005/09/08/p/dre/pt/html
+  oj: null
+  dre: '142522'
+  dre_path: /dr/detalhe/lei-organica/4-2005-142522
+  internal: pt:dre:142522:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2005-142522
+  metadata_url: https://data.dre.pt/eli/leiorg/4/2005/09/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2005-142522
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-02-07T00:00:00Z'
+integrity:
+  source_sha256: dec7c1a61e505441e6dc2a73bf301b18fc202a2a88a7a68666587a6c086bca51
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-4-142522.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Eleição
+- Recenseamento Eleitoral
+- Presidente da República
+- Referendo
+relationships:
+- type: amended_by
+  target: pt:dre:840716420:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1999/03/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1999/03/22/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Lei Orgânica n.º 4/2005
+
+de 8 de Setembro
+
+Procede à primeira alteração à Lei Orgânica n.º 15-A/98, de 3 de Abril, flexibilizando os mecanismos de realização de referendos, à segunda alteração à [Lei n.º 13/99](https://diariodarepublica.pt/dr/detalhe/lei/13-1999-150518), de 22 de Março, e à décima sexta alteração ao [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916), de 3 de Maio.
+
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei orgânica seguinte:
+
+###### Artigo 1.º
+
+A presente lei tem por objecto a flexibilização dos mecanismos de realização de referendos, alterando os prazos do procedimento de referendo, de suspensão e de actualização do recenseamento eleitoral com vista a procedimento de referendo e de convocação da eleição do Presidente da República.
+
+###### Artigo 2.º
+
+Os artigos 8.º, 35.º, 40.º, 41.º, 77.º e 79.º da Lei Orgânica n.º 15-A/98, de 3 de Abril (Lei Orgânica do Regime do Referendo), passam a ter a seguinte redacção:
+
+«Artigo 8.º
+
+[...]
+
+Não pode ser praticado acto de convocação ou realizado o referendo entre a data da convocação e a da realização de eleições gerais para os órgãos de soberania, de governo próprio das Regiões Autónomas e do poder local, bem como de deputados ao Parlamento Europeu.
+
+###### Artigo 35.º — [...]
+
+1 - ...
+
+2 - O decreto integra as perguntas formuladas na proposta, o universo eleitoral da consulta e a data da realização do referendo, que tem lugar entre o 40.º e o 180.º dia a contar da publicação do decreto, excepto se o universo eleitoral abranger cidadãos residentes no estrangeiro, circunstância em que o referendo tem lugar entre o 55.º e o 180.º dia.
+
+3 - ...
+
+###### Artigo 40.º — [...]
+
+Até ao 30.º dia anterior ao da realização do referendo, os partidos legalmente constituídos ou coligações fazem entrega à Comissão Nacional de Eleições da declaração prevista no n.º 2 do artigo anterior.
+
+###### Artigo 41.º — [...]
+
+1 - Até ao 30.º dia anterior ao da realização do referendo, podem cidadãos eleitores, em número não inferior a 5000, constituir-se em grupo, tendo por fim a participação no esclarecimento das questões submetidas a referendo.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+###### Artigo 77.º — [...]
+
+1 - Até ao 30.º dia anterior ao do referendo, o presidente da câmara municipal determina o desdobramento em secções de voto, quando necessário, da assembleia de voto de cada freguesia, comunicando-o imediatamente à correspondente junta de freguesia.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 79.º — [...]
+
+1 - Compete ao presidente da câmara municipal determinar os locais de funcionamento das assembleias e das secções de voto, comunicando-os às correspondentes juntas de freguesia até ao 25.º dia anterior ao do referendo.
+
+2 - Até ao 23.º dia anterior ao do referendo as juntas de freguesia anunciam, por editais a afixar nos lugares do estilo, os locais de funcionamento das assembleias e das secções de voto.»
+
+###### Artigo 3.º
+
+O artigo 5.º da [Lei n.º 13/99](https://diariodarepublica.pt/dr/detalhe/lei/13-1999-150518), de 22 de Março (estabelece o novo regime jurídico do recenseamento eleitoral), passa a ter a seguinte redacção:
+
+«Artigo 5.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - No 60.º dia que antecede cada eleição ou referendo, ou no dia seguinte ao da convocação de referendo, se ocorrer em prazo mais curto, e até à sua realização, é suspensa a actualização do recenseamento eleitoral, sem prejuízo do disposto no número seguinte do presente artigo, no n.º 2 do artigo 35.º e nos artigos 57.º e seguintes da presente lei.
+
+4 - Caso a eleição ou referendo seja convocada com pelo menos 55 dias de antecedência, podem ainda inscrever-se até ao 55.º dia anterior ao dia da votação os cidadãos que completem 18 anos até ao dia da eleição ou referendo.»
+
+###### Artigo 4.º
+
+É aditado à [Lei n.º 13/99](https://diariodarepublica.pt/dr/detalhe/lei/13-1999-150518), de 22 de Março (estabelece o novo regime jurídico do recenseamento eleitoral), o artigo 59.º-A, com a seguinte redacção:
+
+«Artigo 59.º-A
+
+Prazos especiais
+
+Caso se trate de referendo convocado com menos de 55 dias de antecedência, os prazos referidos nos artigos anteriores são alterados da seguinte forma:
+
+a) Até ao 6.º dia posterior à convocação para a comunicação referida no n.º 1 do artigo 57.º;
+
+b) Até ao 13.º dia posterior à convocação para a extracção referida no n.º 2 do artigo 57.º;
+
+c) Do 14.º ao 16.º dia posterior à convocação para a exposição referida no n.º 3 do artigo 57.º;
+
+d) Redução a metade, arredondada por excesso, dos prazos superiores a um dia, a que se refere o n.º 4 do artigo 57.º;
+
+e) Dois dias para o envio referido no n.º 1 do artigo 58.º;
+
+f) Até ao 13.º dia posterior à convocação para a emissão de cadernos referida no n.º 3 do artigo 58.º;
+
+g) Cinco dias para o período de inalterabilidade referido no artigo 59.º»
+
+###### Artigo 5.º
+
+O artigo 11.º do [Decreto-Lei n.º 319-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/319-a-1976-655916), de 3 de Maio (regulamenta a eleição do Presidente da República), passa a ter a seguinte redacção:
+
+«Artigo 11.º
+
+[...]
+
+1 - O Presidente da República marcará a data do primeiro sufrágio para a eleição para a Presidência da República com a antecedência mínima de 60 dias.
+
+2 - ...
+
+3 - ...»
+
+###### Artigo 6.º
+
+A presente lei entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovada em 28 de Julho de 2005.
+
+**O Presidente da Assembleia da República, Jaime Gama.**
+
+**Promulgada em 26 de Agosto de 2005.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendada em 29 de Agosto de 2005.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

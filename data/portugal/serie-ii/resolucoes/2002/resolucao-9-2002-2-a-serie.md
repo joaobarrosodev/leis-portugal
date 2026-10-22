@@ -1,0 +1,149 @@
+---
+schema_version: '1.0'
+id: pt:dre:2455451:por
+title: Resolução n.º 9/2002 (2.ª série)
+short_title: null
+summary: Nomeia o encarregado de missão Prof. Doutor Gaspar Martins Pereira para o desenvolvimento do projecto "Museu do Douro"
+  e cria uma estrutura de projecto, por ele presidida, para viabilizar a concretização das atribuições definidas no artigo
+  6.º da Lei n.º 125/97, de 2 de Dezembro, que criou o Museu do Douro
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 9/2002 (2.ª série)
+official_date: null
+publication_date: '2002-02-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 27/2002, Série II de 2002-02-01
+  number: '27'
+  series: II
+  supplement: null
+  pages: 2020 - 2020
+  pdf_url: https://files.diariodarepublica.pt/2s/2002/02/027000000/0202002020.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2455451'
+  dre_path: /dr/detalhe/resolucao/9-2002-2455451
+  internal: pt:dre:2455451:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/9-2002-2455451
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/9-2002-2455451
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-02-01T00:00:00Z'
+integrity:
+  source_sha256: f1d2486881cdf2b5b5cc74fa770bd4274f8a2e76307eb59b07e382f753811e12
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-9-2455451.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 9/2002 (2.ª série)
+
+Resolução n.º 9/2002 (2.ª série). - Considerando a [Lei n.º 125/97](https://diariodarepublica.pt/dr/detalhe/lei/125-1997-406324), de 2 de Dezembro, que criou o Museu do Douro;
+
+Considerando que a comissão instaladora, constituída nos termos da mesma lei, apresentou, em devido tempo, uma proposta para a instalação da sede do Museu do Douro e para o respectivo diploma regulamentar, a qual pressupunha a criação de uma estrutura de projecto;
+
+Considerando, ainda, a recente classificação do Douro Vinhateiro, enquanto paisagem cultural evolutiva viva, como património mundial:
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear encarregado de missão o Prof. Doutor Gaspar Martins Pereira, junto do Ministro da Cultura, nos termos do artigo 37.º da [Lei n.º 49/99](https://diariodarepublica.pt/dr/detalhe/lei/49-1999-391578), de 22 de Junho, com a remuneração correspondente a director-geral, incluindo despesas de representação.
+
+2 - Compete ao encarregado de missão:
+
+a) Desenvolver o projecto "Museu do Douro";
+
+b) Promover a articulação e a coordenação entre as entidades envolvidas no projecto;
+
+c) Promover a avaliação das acções integradas no projecto;
+
+d) Proceder à gestão técnica, administrativa e financeira do projecto;
+
+e) Presidir à estrutura de projecto referida no n.º 4 da presente resolução.
+
+3 - Para além das competências previstas no número anterior, o encarregado de missão exercerá as demais competências que lhe forem delegadas pelo Ministro da Cultura, com a faculdade de subdelegação no chefe de projecto referido na alínea a) do n.º 5.
+
+4 - Junto do encarregado de missão funciona uma estrutura de projecto, nos termos do artigo 10.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+
+5 - A estrutura de projecto é constituída por:
+
+a) Um chefe de projecto, nomeado pelo Ministro da Cultura, com a remuneração correspondente à de subdirector-geral, incluindo despesas de representação;
+
+b) Uma equipa, com o máximo de três elementos, de perfis diversificados, a nomear pelo Ministro da Cultura, sob proposta do encarregado de missão.
+
+6 - O exercício de funções na estrutura de projecto poderá fazer-se nos seguintes termos:
+
+a) Comissão de serviço, requisição ou destacamento, para os casos de vínculo à função pública, a institutos públicos, a empresas públicas ou a outros organismos do sector público;
+
+b) Requisição a entidades do sector privado;
+
+c) Contrato de trabalho a termo certo, nos termos da lei geral do trabalho.
+
+7 - Os contratos previstos na alínea c) do número anterior não conferem ao particular outorgante a qualidade de agente e caducam com a extinção da estrutura de projecto.
+
+8 - Os membros da estrutura de projecto que sejam contratados a termo, nos termos da lei geral do trabalho, vencem uma remuneração base mensal fixada por referência às escalas salariais das carreiras e categorias da Administração Pública correspondentes às funções que vão desempenhar, definindo-se contratualmente os escalões e índices em que se integrarão.
+
+9 - À estrutura de projecto compete:
+
+a) Reunir, identificar, documentar, investigar, preservar, conservar e exibir ao público todas as fontes históricas e antropológicas, espirituais e materiais de todo o património cultural e natural da Região do Douro, em particular o ligado à produção, promoção e comercialização dos vinhos da Região do Douro, em especial do vinho generoso (vinho do Porto);
+
+b) Promover, apoiar, em qualquer tipo de suporte, no País e no estrangeiro, a publicação, edição, realização e exibição de materiais e de estudos de carácter científico e ou divulgativo da Região, do seu património, do Museu e das suas colecções;
+
+c) Promover exposições, congressos, conferências, seminários e outras actividades de carácter semelhante.
+
+10 - As despesas decorrentes do funcionamento da estrutura de projecto e das acções integradas no projecto serão suportadas por dotação específica inscrita no orçamento da Delegação Regional da Cultura do Norte.
+
+11 - A Delegação Regional da Cultura do Norte prestará, sempre que necessário, apoio administrativo e logístico ao funcionamento da estrutura de apoio técnico.
+
+12 - O mandato do encarregado de missão cessará em 1 de Janeiro de 2004, data em que se extinguirá a estrutura de projecto.
+
+13 - A presente resolução do Conselho de Ministros produz efeitos a partir de 1 de Janeiro de 2002.
+
+10 de Janeiro de 2002. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

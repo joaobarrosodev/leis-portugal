@@ -1,0 +1,256 @@
+---
+schema_version: '1.0'
+id: pt:dre:286337:por
+title: Decreto Regional n.º 14/77/A
+short_title: null
+summary: Altera a redacção dos artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 16.º, 17.º e 19.º do Estatuto
+  dos Deputados
+jurisdiction: regional
+territory: acores
+document_type: decreto-regional
+document_type_label: Decreto Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 14/77/A
+official_date: null
+publication_date: '1977-09-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 208/1977, Série I de 1977-09-08
+  number: '208'
+  series: I
+  supplement: null
+  pages: 2193 - 2195
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/09/20800/21932195.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '286337'
+  dre_path: /dr/detalhe/decreto-regional/14-1977-286337
+  internal: pt:dre:286337:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1977-286337
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/14-1977-286337
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-03-18T00:00:00Z'
+integrity:
+  source_sha256: c07e20b186ed39178b729692ce40ab6049abdea11288daeb6e552456a90f5256
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1977/DRE-1977-14-286337.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:412790:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regional n.º 14/77/A
+
+A experiência colhida ao longo de quase um ano de funcionamento da Assembleia Regional dos Açores aconselha a que se proceda a algumas alterações aoEstatuto dos Deputados, aprovado pelo Decreto Regional n.º 2/76, de 8 de Outubro, de molde a imprimir-lhe uma maior eficácia e procurando, sobretudo, ampliar as possibilidades de trabalho dos Deputados regionais.
+
+As alterações ora introduzidas vêm preencher algumas lacunas, tais como a possibilidade de afectação permanente de um grupo limitado e proporcional de Deputados de cada partido representado na Assembleia, o que foi, aliás, considerado indispensável para o seu bom funcionamento.
+
+Assim, a Assembleia Regional dos Açores decreta, nos termos do artigo 229.º, n.º 1, alínea a), da Constituição, o seguinte:
+
+###### Artigo 1.º Os artigos 4.º, 5.º, 6.º, 7.º, 8.º, 9.º, 10.º, 11.º, 12.º, 13.º, 16.º, 17.º e 19.º do Estatuto dos Deputados, aprovado pelo Decreto Regional n.º 2/76, de 8 de Outubro, passam a ter a seguinte redacção:
+
+###### ARTIGO 4.º — (Falta a actos ou diligências oficiais)
+
+1. A falta de Deputados, por causa de reuniões ou missões da Assembleia, a actos ou diligências oficiais a ela estranhos constitui sempre motivo justificado de adiamento destes, sem qualquer encargo.
+
+2. O Deputado não poderá invocar o fundamento previsto no número anterior mais de uma vez em qualquer acto ou diligência oficial.
+
+###### ARTIGO 5.º — (Direitos e regalias pessoais)
+
+1. Constituem direitos e regalias dos Deputados:
+
+a) Adiamento do serviço militar, de mobilização civil ou do serviço cívico, quando em substituição ou complemento do serviço militar;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Seguro de acidentes pessoais.
+
+2. O direito consagrado na alínea e) considera-se efectivo a partir de 10 de Fevereiro de 1977.
+
+###### ARTIGO 6.º — (Garantias de trabalho)
+
+1. ...
+
+2. Têm direito de dispensa de todas as actividades profissionais públicas ou privadas durante a legislatura, 30%, com arredondamento por excesso, do número legal dos Deputados que integram cada partido representado na Assembleia.
+
+3. Cada grupo parlamentar ou partido não constituído em grupo indicará mensalmente, à Mesa da Assembleia, os Deputados que ficam afectos nos termos do número anterior.
+
+4. Os Deputados que não se encontrem na situação de afectação permanente têm direito de dispensa de todas as actividades profissionais, públicas ou privadas, durante o funcionamento efectivo da Assembleia, e, bem assim, no seu círculo eleitoral, durante os cinco dias que precedem o funcionamento do Plenário da Assembleia ou a sua partida para o mesmo, e durante igual período imediato ao fim do Plenário ou do seu regresso ao círculo, respectivamente, no início ou no fim de cada período legislativo.
+
+5. Os Deputados que residam na Região, fora do seu círculo eleitoral, utilizarão o tempo total mencionado na segunda parte do número anterior para se deslocarem, no máximo de três vezes por ano, ao respectivo círculo.
+
+6. O desempenho do mandato conta como tempo de serviço para todos os efeitos, salvo para aqueles que pressuponham o exercício efectivo da actividade profissional.
+
+7. No caso da função pública temporária por virtude de lei ou de contrato, o desempenho do mandato de Deputado suspende a contagem do respectivo prazo.
+
+###### ARTIGO 7.º — (Incompatibilidade com funções públicas)
+
+1. Os Deputados que usarem da faculdade prevista no n.º 2 do artigo 6.º e que sejam funcionários do Estado ou de outras pessoas colectivas públicas não podem exercer as respectivas funções durante a legislatura.
+
+2. Os Deputados que se encontrem na situação prevista no n.º 4 do artigo 6.º e que sejam funcionários do Estado ou de outras pessoas colectivas públicas não podem exercer as respectivas funções durante o período de funcionamento efectivo da Assembleia ou das comissões a que pertençam.
+
+3. Não se considera exercício de funções públicas para o efeito dos números anteriores o exercício gratuito de funções de interesse público.
+
+###### ARTIGO 8.º — (Subsídio mensal ou diário)
+
+1. Cada Deputado tem direito a receber um subsídio mensal ou diário consoante esteja, respectivamente, afectado permanentemente ou apenas durante o funcionamento efectivo da Assembleia - em plenário ou em comissões -, e nos períodos previstos no n.º 4 do artigo 6.º, na base equivalente à letra C do funcionalismo público.
+
+2. Ao Deputado que faltar a qualquer reunião plenária ou de comissões de que faça parte, sem motivo justificado, nos termos do n.º 2 do artigo 20.º, será descontado no subsídio a importância relativa a 1/30 do subsídio, ou perderá o direito ao subsídio diário, por cada dia de falta, consoante os casos previstos no número anterior.
+
+3. Quando a justificação for apresentada por motivo de exercício de actividade remunerada, o Deputado perde igualmente o direito ao subsídio previsto no n.º 1.
+
+###### ARTIGO 9.º — (Subsídio de férias e de Natal)
+
+1. Os Deputados têm direito a dois subsídios extraordinários, cada um deles de valor igual ao do subsídio mensal, nos meses de Junho e de Dezembro.
+
+2. Os subsídios referidos no número anterior serão proporcionais ao tempo de serviço efectivamente prestado segundo as regras aplicadas ao funcionalismo público.
+
+3. Sempre que um Deputado deixe de receber, no todo ou em parte, os subsídios acima referidos, cabe à Assembleia compensá-lo do montante recebido a menos.
+
+###### ARTIGO 10.º — (Ajudas de custo)
+
+1. Os Deputados que residam fora do concelho onde funciona a Assembleia ou as comissões têm direito à ajuda de custo fixada para a categoria A do funcionalismo público, abonada por cada dia que tenham de permanecer ausentes do seu concelho por motivo de serviço da Assembleia.
+
+2. ...
+
+3. Os Deputados que, no exercício do seu mandato, se desloquem fora do concelho da sua residência têm direito a ajudas de custo correspondentes fixadas para a categoria A do funcionalismo público.
+
+###### ARTIGO 11.º — (Transportes)
+
+1. ...
+
+2. ...
+
+3. ...
+
+4. Os Deputados que residam na Região, mas fora dos círculos por que foram eleitos, têm direito a transporte até três vezes por ano entre as suas residências e aqueles círculos, para efeitos do disposto no n.º 5 do artigo 6.º
+
+5. A Mesa da Assembleia Regional programará visitas de trabalho dos Deputados às ilhas da Região.
+
+###### ARTIGO 12.º — (Utilização de serviços postais, telegráficos e telefónicos)
+
+Os Deputados têm direito a utilizar gratuitamente os serviços postais, telegráficos e telefónicos da Assembleia.
+
+###### ARTIGO 13.º — (Mesa da Assembleia Regional)
+
+1. ...
+
+2. Os restantes membros da Mesa, não afectados permanentemente, consideram-se no exercício das suas funções sempre que, fora do período de funcionamento da Assembleia, se acharem em missão desta, por substituição legal, por designação ou por delegação do Presidente.
+
+3. ...
+
+4. ...
+
+###### ARTIGO 16.º — (Suspensão do mandato)
+
+1. Determinam a suspensão do mandato:
+
+a) O deferimento do requerimento de substituição temporária por motivo relevante nos termos do artigo 17.º;
+
+b) ...
+
+c) ...
+
+d) A nomeação para funções que determinem a suspensão do mandato dos Deputados à Assembleia da República ou que, por lei, sejam declaradas incompatíveis com as de Deputado regional.
+
+2. O disposto na alínea d) não se aplica aos Deputados regionais eleitos de harmonia com a legislação eleitoral vigente à data da publicação do presente decreto regional, sem prejuízo do direito daqueles que optarem pela suspensão do mandato.
+
+###### ARTIGO 17.º — (Suspensão do mandato a pedido dos Deputados)
+
+1. Os Deputados podem pedir ao Presidente da Assembleia Regional, por motivos relevantes, a sua substituição por período não superior a um ano e não mais que uma vez na mesma sessão legislativa.
+
+2. Por motivo relevante entende-se:
+
+a) Doença grave prolongada;
+
+b) Actividade profissional inadiável;
+
+c) Exercício de funções de interesse nacional ou regional;
+
+d) Exercício de funções específicas no respectivo partido.
+
+###### ARTIGO 19.º — (Renúncia ao mandato)
+
+1. Os Deputados podem renunciar ao mandato, mediante declaração escrita apresentada pessoalmente ao Presidente da Assembleia Regional ou com assinatura notarialmente reconhecida.
+
+2. A renúncia torna-se efectiva desde a sua publicação no Diário da Assembleia Regional.
+
+###### Art. 2.º São aditados os artigos 8.º-A, 10.º-A e 2.º-A ao Estatuto dos Deputados, aprovado pelo Decreto Regional n.º 2/76, de 8 de Outubro, com a seguinte redacção:
+
+###### ARTIGO 8.º-A — (Senhas das comissões)
+
+Os Deputados membros das comissões ou que nelas ocasionalmente substituam outros Deputados têm direito a uma senha de presença, por reunião a que compareçam, correspondente a 200$00, excepto nos dias em que haja reunião plenária.
+
+###### ARTIGO 10.º-A — (Direito de opção dos funcionários)
+
+1. Os Deputados que estejam afectados permanentemente e que sejam funcionários do Estado ou de outras pessoas colectivas públicas podem optar pelos respectivos vencimentos e subsídios.
+
+2. No caso de opção, os Deputados não têm direito a senhas de comissões e a ajudas de custo.
+
+###### ARTIGO 12.º-A — (Abonos complementares)
+
+1. O Presidente da Assembleia Regional receberá um abono mensal equivalente a um sexto do respectivo subsídio, ou uma fracção deste computada proporcionalmente ao número de dias em serviço efectivo, sempre que substituído nos termos da lei.
+
+2. O Presidente da Assembleia Regional terá direito a requisitar uma viatura sempre que tal se justifique.
+
+3. Os Vice-Presidentes da Assembleia e os Secretários da Mesa, nas condições previstas no n.º 2 do artigo 13.º, receberão por cada dia de exercício de funções um abono correspondente a um décimo do respectivo subsídio diário.
+
+Aprovado pela Assembleia Regional dos Açores, na Horta, em 20 de Junho de 1977.
+
+**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+
+**Assinado em Ponta Delgada, em 12 de Julho de 1977.**
+
+**Publique-se.**
+
+**O Ministro da República, Octávio de Carvalho Galvão de Figueiredo.**

@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: pt:dre:547020:por
+title: Decreto Regulamentar Regional n.º 11/94/A
+short_title: null
+summary: Regulamenta alguns aspectos da organização e funcionamento do Instituto de Investimento e Privatizações dos Açores
+  (IIPA)
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional das Finanças, Planeamento e Administração Pública
+proposing_entity: null
+official_number: 11/94/A
+official_date: null
+publication_date: '1994-11-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 274/1994, Série I-B de 1994-11-26
+  number: '274'
+  series: I
+  supplement: null
+  pages: 7007 - 7007
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/11/274b00/70077007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/11/1994/11/26/a/dre/pt/html
+  oj: null
+  dre: '547020'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/11-1994-547020
+  internal: pt:dre:547020:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1994-547020
+  metadata_url: https://data.dre.pt/eli/decregulreg/11/1994/11/26/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1994-547020
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-11-26T00:00:00Z'
+integrity:
+  source_sha256: 288157a3f8a0cb15b49431afa14b530a4406dd70b39d88f00ad1d3db2e3923db
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1994/DRE-1994-11-547020.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Conselho de Administração
+- Definição de Competências
+- Estatuto
+- Instituto de Investimento e Privatizações dos Açores
+- Açores
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/6/1994/07/15/a/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 11/94/A
+
+O [Decreto Regulamentar Regional n.º 6/94/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1994-298837), de 15 de Julho, revogou os artigos 8.º, 12.º e 14.º do Estatuto do Instituto de Investimento e Privatizações dos Açores (IIPA), relativos à periodicidade das reuniões do conselho de administração, competências do administrador-delegado e formas de vinculação do Instituto.
+
+Na sequência dessa revogação, foram suscitadas algumas dúvidas de interpretação, quanto à aplicação do regime supletivo previsto no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho. Importa superar tais dúvidas, tendo em conta a estrutura orgânica traçada para o IIPA pelo diploma que o criou, o já citado decreto legislativo regional.
+
+Assim, em execução do disposto no n.º 1 do artigo 2.º do [Decreto Legislativo Regional n.º 10/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-1989-619936), de 25 de Julho, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - O conselho de administração do Instituto de Investimento e Privatizações dos Açores (IIPA) reúne, ordinariamente, uma vez em cada mês e, extraordinariamente, sempre que o seu presidente o convoque, por sua iniciativa ou a requerimento de qualquer dos seus membros.
+
+2 - Deverão ser sempre convocados todos os membros, sob pena de nulidade da convocação.
+
+3 - Consideram-se regularmente convocados os membros que:
+
+a) Hajam assinado o aviso convocatório;
+
+b) Tenham assistido à reunião anterior em que, na sua presença, houvessem sido fixados o dia e hora da reunião;
+
+c) Tenham sido avisados por qualquer outra forma previamente acordada;
+
+d) Compareçam à reunião.
+
+4 - Os membros consideram-se regularmente convocados para as reuniões ordinárias que se realizem em dias e horas previamente fixados.
+
+###### Art. 2.º - 1 - Compete ao administrador-delegado prosseguir os interesses do IIPA e assegurar a sua gestão e, nomeadamente:
+
+a) Elaborar e submeter à aprovação do conselho de administração os planos e orçamentos anuais e os planos estratégicos;
+
+b) Dirigir a actividade do IIPA, praticando todos os actos materiais e jurídicos inseridos no seu objecto;
+
+c) Representar o IIPA em juízo e fora dele, activa e passivamente;
+
+d) Adquirir, alienar e onerar quaisquer bens e direitos, com excepção de bens imóveis e participações financeiras;
+
+e) Exercer os poderes de direcção e disciplinar em relação aos trabalhadores do IIPA;
+
+f) Executar e fazer executar as decisões do conselho de administração que sejam da sua competência;
+
+g) Elaborar o relatório de gestão e as contas de cada exercício, que submeterá à aprovação do conselho de administração e à homologação, nos termos do artigo 20.º do [Decreto Regulamentar Regional n.º 34/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1989-549409), de 21 de Outubro;
+
+h) De uma forma geral, decidir todos os assuntos e praticar todos os actos que, segundo o presente estatuto, não caibam nas competências de outros órgãos.
+
+2 - Para além das competências exclusivas do administrador-delegado estabelecidas no número anterior, compete-lhe ainda exercer, por delegação do conselho de administração, e sem prejuízo do direito de avocação, os seguintes poderes:
+
+a) Contratar os trabalhadores do IIPA;
+
+b) Constituir mandatários do IIPA, fixando-lhes os respectivos poderes.
+
+###### Art. 3.º - 1 - O IIPA obriga-se pela assinatura conjunta de todos os membros do conselho de administração, pela do administrador-delegado, nas matérias previstas no artigo 2.º, e pela de mandatários, em actos que caibam nos respectivos poderes.
+
+2 - Nos actos que não envolvam para o IIPA a assunção de quaisquer responsabilidades, bastará a assinatura de um vogal ou de um mandatário, dentro dos seus poderes.
+
+###### Art. 4.º - 1 - As alíneas e) e f) do n.º 1 do artigo 11.º do estatuto do IIPA, aprovado pelo [Decreto Regulamentar Regional n.º 34/89/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-1989-549409), de 21 de Outubro, passam a ter a seguinte redacção:
+
+...
+
+e) Deliberar sobre a aquisição, alienação e oneração de bens imóveis e de participações financeiras;
+
+f) Aprovar o estatuto aplicável aos trabalhadores do IIPA e proceder à sua contratação;
+
+2 - Ao mesmo preceito é aditada uma nova alínea h), com a seguinte redacção:
+
+h) Constituir mandatários do IIPA, fixando-lhes os respectivos poderes.
+
+###### Art. 5.º O presente diploma entra em vigor na data da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 18 de Agosto de 1994.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 2 de Novembro de 1994.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**

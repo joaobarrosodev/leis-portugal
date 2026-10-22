@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:870598075:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/2024-870598117",
+ "dre_path": "/dr/detalhe/decreto/1-b-2024-870598075",
+ "source_lastmod": "2024-07-02",
+ "versions": [
+  {
+   "date": "2024-07-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870590517",
+    "870590518",
+    "870590519"
+   ]
+  }
+ ],
+ "fragments": {
+  "870590517": {
+   "fragment_id": "870598118",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 1-B/2024\n\nArtista multifacetado, conhecido do grande público sobretudo pela sua obra como pintor e ceramista, Manuel Cargaleiro dominou a cor e a geometria de forma marcante, imprimindo à arte contemporânea portuguesa um traço inconfundível.\n\nAo longo da sua carreira, as suas criações expressaram sempre uma visão poética do mundo, construindo um legado reconhecível por inúmeras gerações de portugueses. Sendo um homem do mundo, foi também um cidadão sensível às suas origens, tendo escolhido Castelo Branco para instalar o seu Museu e a sua coleção.\n\nRepresentado em coleções nacionais, entre elas a Coleção de Arte Contemporânea do Estado, e internacionais, o seu trabalho foi reconhecido e homenageado, tendo sido condecorado como Comendador da Ordem de Santiago da Espada de Portugal (1983), Grau de Officier des Arts et des Lettres, atribuído pelo governo francês, em 1984, Grã-Cruz da Ordem do Mérito (1989), Grã-Cruz da Ordem do Infante D. Henrique (2017), Medalha de Mérito Cultural (2019), Medalha Grand Vermeil (2019), e a Grã-Cruz da Ordem de Camões (2023).\n\nCom uma intensa atividade artística, que manteve ao longo de toda a sua vida, a sua obra representa um legado essencial para aquilo que de melhor se fez na arte portuguesa do século xx, deixando uma marca ímpar, que cruza referências e gerações.\n\nAssim:\n\nNos termos da alínea j) do n.º 1 do artigo 197.º e da alínea g) do n.º 1 do artigo 200.º da Constituição e dos n.<sup>os </sup>1 e 3 do artigo 42.º da Lei n.º 40/2006, de 25 de agosto, o Governo decreta o seguinte:"
+  },
+  "870590518": {
+   "fragment_id": "870598119",
+   "type": 11,
+   "heading": "Artigo 1.º — Luto nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Luto nacional\n\nÉ declarado o luto nacional no dia 3 de julho de 2024."
+  },
+  "870590519": {
+   "fragment_id": "870598120",
+   "type": 11,
+   "heading": "Artigo 2.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Produção de efeitos\n\nO presente decreto reporta os seus efeitos à data da sua aprovação."
+  }
+ }
+}

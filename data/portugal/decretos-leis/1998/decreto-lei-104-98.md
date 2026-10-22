@@ -1,0 +1,2950 @@
+---
+schema_version: '1.0'
+id: pt:dre:175784:por
+title: Decreto-Lei n.º 104/98
+short_title: null
+summary: Cria a Ordem dos Enfermeiros e aprova o respectivo Estatuto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 104/98
+official_date: null
+publication_date: '1998-04-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/1998, Série I-A de 1998-04-21
+  number: '93'
+  series: I
+  supplement: null
+  pages: 1739 - 1757
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/04/093a00/17391757.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-04-01'
+version_history:
+  file: decreto-lei-104-98.versoes.json
+  count: 4
+  source_lastmod: '2024-12-03'
+  versions:
+  - date: '1998-04-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-01-01'
+    amending: pt:dre:490239:por
+    amending_title: Lei n.º 111/2009
+    changes:
+    - Adita Artigo 31.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 20.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 34.º
+    - Altera Artigo 37.º
+    - Altera Artigo 40.º
+    - Altera Artigo 77.º
+    - Altera Artigo 93.º
+    - Altera Artigo 94.º
+    - Altera Artigo 98.º
+    - Altera Artigo 100.º
+    - Revoga Artigo 99.º
+  - date: '2015-10-16'
+    amending: pt:dre:70309896:por
+    amending_title: Lei n.º 156/2015
+    changes:
+    - Adita Secção I
+    - Adita Artigo 17.º-A
+    - Adita Subsecção VII
+    - Adita Subsecção VIII
+    - Adita Secção II
+    - Adita Artigo 103.º
+    - Adita Artigo 104.º
+    - Adita Artigo 105.º
+    - Adita Artigo 106.º
+    - Adita Artigo 107.º
+    - Adita Artigo 108.º
+    - Adita Artigo 109.º
+    - Adita Artigo 110.º
+    - Adita Artigo 111.º
+    - Adita Artigo 112.º
+    - Adita Artigo 113.º
+    - Adita Artigo 114.º
+    - Adita Artigo 115.º
+    - Adita Artigo 116.º
+    - Adita Artigo 117.º
+    - Adita Artigo 118.º
+    - Adita Artigo 119.º
+    - Adita Artigo 120.º
+    - Adita Artigo 121.º
+    - Adita Artigo 122.º
+    - Adita Capítulo IX
+    - Adita Artigo 123.º
+    - Adita Artigo 124.º
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Capítulo II
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+  - date: '2024-04-01'
+    amending: pt:dre:837135328:por
+    amending_title: Lei n.º 8/2024
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 6.º-B
+    - Adita Artigo 6.º-C
+    - Adita Artigo 6.º-D
+    - Adita Artigo 8.º-A
+    - Adita Artigo 17.º-B
+    - Adita Subsecção iv
+    - Adita Artigo 30.º-A
+    - Adita Artigo 30.º-B
+    - Adita Subsecção X
+    - Adita Artigo 43.º-A
+    - Adita Artigo 43.º-B
+    - Adita Artigo 123.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Subsecção I
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 30.º
+    - Altera Subsecção IV
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Subsecção V
+    - Altera Artigo 35.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/104/1998/p/cons/20240119/pt/html
+  oj: null
+  dre: '175784'
+  dre_path: /dr/detalhe/decreto-lei/104-1998-175784
+  internal: pt:dre:175784:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-1998-175784
+  metadata_url: https://data.dre.pt/eli/dec-lei/104/1998/p/cons/20240119/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-70937797
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-70937797
+  retrieved_at: '2026-10-22T13:19:53Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-12-03T00:00:00Z'
+integrity:
+  source_sha256: 4f7363e750bcf50917f56c99075b698133e9d15c0b2d313b6b37b020ad725a52
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:19:53Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-104-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comissão Instaladora
+- Definição de Competências
+- Estatuto
+- Ordem dos Enfermeiros
+- Pessoal de Enfermagem
+relationships:
+- type: amended_by
+  target: pt:dre:182256:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-s-1998-182256
+  date: '1998-07-31'
+- type: amended_by
+  target: pt:dre:490239:por
+  label: Adita Artigo 31.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 20.º; Altera Artigo 27.º; Altera Artigo 28.º;
+    Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo 31.º; Altera Artigo 34.º; Altera Artigo 37.º; Altera Artigo 40.º;
+    Altera Artigo 77.º; Altera Artigo 93.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239
+  date: '2009-09-16'
+- type: amended_by
+  target: pt:dre:70309896:por
+  label: Adita Secção I; Adita Artigo 17.º-A; Adita Subsecção VII; Adita Subsecção VIII; Adita Secção II; Adita Artigo 103.º;
+    Adita Artigo 104.º; Adita Artigo 105.º; Adita Artigo 106.º; Adita Artigo 107.º; Adita Artigo 108.º; Adita Artigo 109.º;
+    Adita Artigo 110.º; Adita Artigo 111.º; Adita Artigo 112.º; Adita Artigo 113.º; Adita Artigo 114.º; Adita Artigo 115.º;
+    Adita Artigo 116.º; Adita Artigo 117.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896
+  date: '2015-09-16'
+- type: amended_by
+  target: pt:dre:837135328:por
+  label: Adita Artigo 6.º-A; Adita Artigo 6.º-B; Adita Artigo 6.º-C; Adita Artigo 6.º-D; Adita Artigo 8.º-A; Adita Artigo
+    17.º-B; Adita Subsecção iv; Adita Artigo 30.º-A; Adita Artigo 30.º-B; Adita Subsecção X; Adita Artigo 43.º-A; Adita Artigo
+    43.º-B; Adita Artigo 123.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo
+    7.º; Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328
+  date: '2024-01-19'
+- type: cites
+  target: celex:32000L0031
+  label: null
+  source: null
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/161/1996/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/161/1996/09/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/129/1997/12/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/129/1997/12/23/p/dre
+article_structure:
+  article_count: 142
+  section_count: 38
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:19:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 104/98
+
+Decreto-Lei n.º 104/98
+
+de 21 de Abril
+
+O exercício da profissão de enfermeiro remonta, em Portugal, a finais do século XIX, sendo que, a partir da 2.ª metade do século XX, as modificações operadas nas competências exigidas aos enfermeiros e, por isso mesmo, no seu nível de formação académica e profissional têm vindo a traduzir-se no desenvolvimento de uma prática profissional cada vez mais complexa, diferenciada e exigente.
+
+Assim, os enfermeiros constituem, actualmente, uma comunidade profissional e científica da maior relevância no funcionamento do sistema de saúde e na garantia do acesso da população a cuidados de saúde de qualidade, em especial em cuidados de enfermagem.
+
+A formação dos enfermeiros, integrada no sistema educativo nacional a nível do ensino superior desde 1988, permitiu o acesso aos diferentes graus académicos e a assunção das mais elevadas responsabilidades nas áreas da concepção, organização e prestação dos cuidados de saúde proporcionados à população.
+
+De igual modo, o desenvolvimento induzido pela investigação tem facilitado a delimitação de um corpo específico de conhecimentos e a afirmação da individualização e autonomia da enfermagem na prestação de cuidados de saúde.
+
+A própria evolução da sociedade portuguesa e as suas expectativas de acesso a padrões de cuidados de enfermagem da mais elevada qualificação técnica, científica e ética para satisfazer níveis de saúde cada vez mais exigentes, assim como a organização desses cuidados em ordem a responder às solicitações da população, não só em instituições de carácter hospitalar ou centros de saúde, públicos ou privados, mas também no exercício liberal, vêm dar o maior relevo à necessidade de se proceder à regulamentação e controlo do exercício profissional dos enfermeiros.
+
+Aliás, na sequência de um longo processo de reflexão, os enfermeiros vêm, desde o fim da década de 60, pugnando pela necessidade de se proceder à criação de mecanismos conducentes à regulamentação e controlo do exercício profissional, atribuições essas que caberiam a uma associação profissional de direito público, assim como pela adopção de um código deontológico e de um estatuto disciplinar pelos quais os enfermeiros pautem a sua conduta profissional e, por esta via, garantam a qualidade dos cuidados de enfermagem.
+
+Nestes termos, entende-se ter chegado o momento de criar a Ordem dos Enfermeiros, enquanto associação profissional de direito público, o que constitui aspiração da classe, consecutivamente reiterada nos congressos nacionais realizados de 1973 a 1997, e suscita o consenso de todas as organizações profissionais representativas de enfermagem, preenchendo-se assim uma importante lacuna que tem vindo a entravar o desejável desenvolvimento e controlo do seu exercício profissional.
+
+Na verdade, reconhece o Governo que os enfermeiros, no estádio actual do desenvolvimento da enfermagem e com a plena consciência do relevante papel que desempenham no sistema de saúde, constituem um corpo institucional idóneo para assumir a devolução dos poderes que ao Estado competem no que concerne à regulamentação e controlo do exercício profissional, designadamente nos seus aspectos deontológicos e disciplinares.
+
+O presente diploma responde, assim, a um imperativo da sociedade portuguesa de ver instituída uma associação profissional de direito público, que, em Portugal, promova a regulamentação e disciplina da prática dos enfermeiros, em termos de assegurar o cumprimento das normas deontológicas que devem orientar a profissão, garantindo a prossecução do inerente interesse público e a dignidade do exercício da enfermagem.
+
+O Estatuto da Ordem dos Enfermeiros aprovado pelo presente diploma, além das respectivas atribuições e organização, integra ainda o código deontológico, pelo que se procede à revisão do Regulamento do Exercício Profissional (REPE), bem como do estatuto disciplinar.
+
+Por último, salienta-se que foram ouvidas as estruturas associativas e sindicais representativas dos enfermeiros.
+
+Assim, no uso da autorização legislativa concedida pela Lei n.º 129/97, de 23 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É criada a Ordem dos Enfermeiros e aprovado o seu Estatuto, publicado em anexo ao presente decreto-lei, do qual faz parte integrante.
+
+###### Artigo 2.º — Comissão instaladora
+
+1 - Por portaria conjunta dos Ministros das Finanças e da Saúde será nomeada a comissão instaladora da Ordem dos Enfermeiros e aprovado o seu regulamento interno.
+
+2 - A comissão instaladora referida no número anterior deve ser nomeada no prazo de 30 dias após a publicação do presente decreto-lei e tem a seguinte composição:
+
+a) Um enfermeiro de reconhecido mérito, designado pelo Ministro da Saúde, que presidirá;
+
+b) Quatro enfermeiros de reconhecido mérito, designados pelo Ministro da Saúde de entre uma lista de quatro proposta por cada uma das organizações sindicais representativas da enfermagem com implantação nacional, sendo dois escolhidos de cada uma das referidas listas;
+
+c) Quatro enfermeiros de reconhecido mérito, designados pelo Ministro da Saúde de entre uma lista de oito proposta pelas associações profissionais de enfermagem de âmbito nacional.
+
+3 - O mandato da comissão instaladora é de um ano.
+
+4 - O mandato da comissão instaladora cessa com a investidura dos órgãos nacionais da Ordem dos Enfermeiros, simbolizada pela posse do bastonário.
+
+5 - Não podem ser nomeados para a comissão instaladora enfermeiros que sejam titulares de órgãos dirigentes de sindicatos ou associações de enfermagem.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 3.º — Competência
+
+1 - Compete à comissão instaladora:
+
+a) Preparar os regulamentos internos necessários ao funcionamento da Ordem dos Enfermeiros, nomeadamente os respeitantes aos actos eleitorais;
+
+b) Promover a inscrição dos enfermeiros;
+
+c) Preparar os actos eleitorais para os órgãos nacionais e regionais da Ordem dos Enfermeiros;
+
+d) Realizar todos os actos necessários à instalação e normal funcionamento da Ordem dos Enfermeiros;
+
+e) Conferir posse ao bastonário que for eleito e prestar contas do mandato exercido.
+
+2 - Para a prossecução das suas competências, a comissão instaladora rege-se, com as necessárias adaptações, pelo regime previsto no Estatuto anexo ao presente diploma.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 4.º — Eleições
+
+As eleições dos diversos órgãos nacionais e regionais devem ser realizadas até 270 dias após a entrada em vigor do presente decreto-lei.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 5.º — Alteração
+
+Os artigos 6.º e 11.º do Decreto-Lei n.º 161/96, de 4 de Setembro, passam a ter a seguinte redacção:
+
+«Artigo 6.º
+
+Autorização do exercício
+
+O exercício da profissão de enfermagem é condicionado pela obtenção de uma cédula profissional, a emitir pela Ordem dos Enfermeiros.
+
+Artigo 11.º
+
+Dos direitos, deveres e incompatibilidades
+
+1 - Os direitos e deveres dos enfermeiros, bem como as incompatibilidades do exercício da profissão de enfermagem, são os estabelecidos no Estatuto da Ordem dos Enfermeiros.
+
+2 - Constituem ainda direitos dos enfermeiros:
+
+a) Que a entidade patronal se responsabilize pelo especial risco a que estão sujeitos no decurso da sua actividade profissional;
+
+b) Serem substituídos após cumprimento da sua jornada de trabalho;
+
+c) Beneficiarem das garantias e regalias de outros trabalhadores de saúde do sector onde exerçam a profissão, quando mais favoráveis.»
+
+###### Artigo 6.º — Revogação
+
+São revogados os artigos 12.º e 14.º do Decreto-Lei n.º 161/96, de 4 de Setembro.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação, com excepção dos artigos 5.º e 6.º, que produzem efeitos a partir da data de tomada de posse do bastonário da Ordem dos Enfermeiros.
+
+Visto e aprovado em Conselho de Ministros de 5 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Maria de Belém Roseira Martins Coelho Henriques de Pina - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa.
+
+Promulgado em 2 de Abril de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 7 de Abril de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — ESTATUTO DA ORDEM DOS ENFERMEIROS
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Natureza e regime jurídico
+
+1 - A Ordem dos Enfermeiros, adiante abreviadamente designada por Ordem, é a associação pública profissional representativa dos que, em conformidade com o presente Estatuto e as demais disposições legais aplicáveis, exercem a profissão de enfermeiro.
+
+2 - A Ordem goza de personalidade jurídica e é independente dos órgãos do Estado, sendo livre e autónoma no âmbito das suas atribuições.
+
+3 - A Ordem é uma pessoa coletiva de direito público, que se rege pela respetiva lei de criação, pela Lei n.º 2/2013, de 10 de janeiro, e pelo disposto no presente Estatuto.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 2.º — Âmbito de atuação
+
+1 - A Ordem exerce as atribuições conferidas no presente Estatuto no território nacional, tem a sua sede em Lisboa e é constituída por secções regionais.
+
+2 - As secções regionais referidas no número anterior são:
+
+a) A Secção Regional do Norte, com sede no Porto e área de atuação correspondente aos distritos de Braga, Bragança, Porto, Viana do Castelo e Vila Real;
+
+b) A Secção Regional do Centro, com sede em Coimbra e área de atuação correspondente aos distritos de Aveiro, Castelo Branco, Coimbra, Guarda, Leiria e Viseu;
+
+c) A Secção Regional do Sul, com sede em Lisboa e área de atuação correspondente aos distritos de Beja, Évora, Faro, Lisboa, Portalegre, Santarém e Setúbal;
+
+d) A Secção Regional da Região Autónoma dos Açores;
+
+e) A Secção Regional da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 3.º — Fins e atribuições
+
+1 - A Ordem tem como desígnio fundamental a defesa dos interesses gerais dos destinatários dos serviços de enfermagem e a representação e defesa dos interesses da profissão.
+
+2 - A Ordem tem por fins regular e supervisionar o acesso à profissão de enfermeiro e o seu exercício, aprovar, nos termos da lei, as normas técnicas e deontológicas respetivas, zelar pelo cumprimento das normas legais e regulamentares da profissão e exercer o poder disciplinar sobre os seus membros.
+
+3 - São atribuições da Ordem:
+
+a) Defender os interesses gerais dos destinatários dos serviços;
+
+b) Representar e defender os interesses gerais da profissão, sem prejuízo do disposto no n.º 5;
+
+c) Zelar pela função social, dignidade e prestígio da profissão de enfermeiro, promovendo a valorização profissional e científica dos seus membros;
+
+d) Assegurar o cumprimento das regras de deontologia profissional;
+
+e) Contribuir, através da elaboração de estudos e formulação de propostas, para a definição da política da saúde;
+
+f) Regular o acesso à profissão pelo reconhecimento de qualificações profissionais e o exercício da profissão em matéria disciplinar e deontológica;
+
+g) Definir o nível de qualificação profissional e regular o exercício profissional;
+
+h) Acreditar e creditar ações de formação contínua;
+
+i) Regulamentar as condições de inscrição na Ordem e do reingresso ao exercício da profissão, nos termos legalmente aplicáveis;
+
+j) Verificar a satisfação das condições de inscrição a que se referem os artigos 6.º e 7.º;
+
+k) Atribuir o título profissional de enfermeiro e de enfermeiro especialista com emissão da inerente cédula profissional;
+
+l) Elaborar e atualizar o registo dos seus membros, que sem prejuízo do Regulamento Geral sobre a Proteção de Dados (RGPD), aprovado pelo Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, deve ser público;
+
+m) Proteger o título e a profissão de enfermeiro, promovendo procedimento legal contra quem o use ou exerça a profissão ilegalmente;
+
+n) Exercer jurisdição disciplinar sobre os enfermeiros, realizando as necessárias ações de fiscalização sobre a sua atuação;
+
+o) Participar na elaboração da legislação que diga respeito à profissão de enfermeiro;
+
+p) Promover a solidariedade entre os seus membros;
+
+q) Fomentar o desenvolvimento da formação e da investigação em enfermagem e pronunciar-se sobre os modelos de formação e a estrutura geral dos cursos de enfermagem;
+
+r) Prestar a colaboração científica e técnica solicitada por qualquer entidade nacional ou estrangeira, pública ou privada, quando exista interesse público;
+
+s) Promover o intercâmbio de ideias, experiências e conhecimentos científicos entre os seus membros e entidades congéneres, nacionais ou estrangeiros, que se dediquem às áreas da saúde e da enfermagem;
+
+t) Colaborar com as organizações de classe que representam os enfermeiros em matérias de interesse comum, por iniciativa própria ou por iniciativa daquelas organizações;
+
+u) Participar nos processos oficiais de acreditação e na avaliação dos cursos que dão acesso à profissão de enfermeiro;
+
+v) Reconhecer as qualificações profissionais obtidas fora de Portugal, nos termos da lei, do direito da União Europeia ou de convenção internacional, cujos processos, sem prejuízo do RGPD, devem ser públicos;
+
+w) Garantir que o exercício da profissão observa o princípio da livre concorrência, bem como as regras de defesa da concorrência e de proteção contra a concorrência desleal;
+
+x) Quaisquer outras que lhe sejam cometidas por lei.
+
+4 - Incumbe ainda à Ordem representar os enfermeiros junto dos órgãos de soberania e colaborar com o Estado e demais entidades públicas sempre que estejam em causa matérias relacionadas com a prossecução das atribuições da Ordem, designadamente nas ações tendentes ao acesso dos cidadãos aos cuidados de saúde e aos cuidados de enfermagem.
+
+5 - A Ordem está impedida de exercer ou de participar em atividades de natureza sindical ou que se relacionem com a regulação das relações económicas ou profissionais dos seus membros.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 4.º — Cooperação e colaboração
+
+1 - A Ordem pode cooperar com quaisquer organizações, nacionais ou estrangeiras, de natureza científica, profissional ou social, que visem o exercício da profissão de enfermeiro.
+
+2 - A Ordem deve promover e intensificar a cooperação, a nível internacional, no domínio das ciências de enfermagem, nomeadamente com instituições científicas dos países de língua oficial portuguesa e Estados membros da União Europeia.
+
+3 - Para melhor prossecução das suas atribuições, a Ordem pode estabelecer acordos de cooperação com outras entidades públicas, privadas ou sociais, nacionais ou estrangeiras, com exceção das entidades de natureza sindical ou política.
+
+4 - A Ordem, no âmbito da colaboração institucional, pode solicitar informação às entidades públicas, privadas e da economia social, para a prossecução das suas atribuições, nomeadamente, no que se refere às alíneas f), l) e n) do n.º 3 do artigo anterior.
+
+5 - A Ordem pode estabelecer acordos de cooperação com os serviços de inspeção da Administração Pública para a fiscalização do cumprimento dos deveres profissionais por parte dos seus membros.
+
+6 - A Ordem pode estabelecer acordos de cooperação com os serviços de inspeção referidos no número anterior, que visem impedir o exercício ilegal da profissão, nomeadamente por quem não reúna as qualificações legalmente estabelecidas.
+
+7 - A Ordem presta e solicita às autoridades administrativas dos outros Estados-Membros da União Europeia e do Espaço Económico Europeu e à Comissão Europeia assistência mútua e toma as medidas necessárias para cooperar eficazmente, nomeadamente através do Sistema de Informação do Mercado Interno, no âmbito dos procedimentos relativos a prestadores de serviços já estabelecidos noutro Estado-Membro, nos termos dos artigos 26.º a 29.º do Decreto-Lei n.º 92/2010, de 26 de julho, que estabelece os princípios e as regras necessárias para simplificar o livre acesso e exercício das atividades de serviços, do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, e dos n.os 2 e 3 do artigo 19.º da Diretiva 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de junho de 2000, relativa a certos aspetos legais dos serviços da sociedade de informação, em especial do comércio eletrónico, no mercado interno.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 5.º — Insígnias
+
+A Ordem tem direito a usar emblema, estandarte e selos próprios, de modelo a aprovar pelo conselho nacional de enfermeiros, sob proposta do conselho diretivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+### Capítulo II — Inscrição e exercício da profissão
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+#### Secção I — Exercício da profissão, inscrição, títulos e membros
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 6.º — Exercício da profissão
+
+1 - A atribuição do título profissional de enfermeiro, o seu uso e o exercício dos atos expressamente reservados pela lei aos enfermeiros, nos termos do artigo 30.º da Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais, dependem de inscrição como membro da Ordem.
+
+2 - O exercício da profissão, independentemente do contexto em que ocorra, vincula as entidades empregadoras ao respeito pelo cumprimento dos princípios e regras deontológicas e das normas técnicas aplicáveis à profissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 6.º-A — Responsabilidade e autonomia
+
+1 - Os enfermeiros, no seu exercício profissional, adotam uma conduta responsável, ética e deontológica, atuando com a dignidade e autonomia técnico-científica da profissão.
+
+2 - No seu exercício profissional, os enfermeiros atuam com vista à promoção da saúde, prevenção da doença, tratamento, reabilitação e reinserção social dos destinatários de cuidados.
+
+3 - Os enfermeiros são responsáveis pelas decisões que tomam, pelos atos da profissão necessários para o exercício profissional que praticam e pelas tarefas que delegam.
+
+4 - Os enfermeiros, quando integrados em equipas multiprofissionais, atuam em cooperação, articulação, complementaridade e ou coordenação com outros profissionais, cuja atuação seja funcionalmente interdependente ou complementar à sua.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 6.º-B — Qualificações e competências
+
+1 - Os enfermeiros respeitam as qualificações e competências reconhecidas pela Ordem, abstendo-se de praticar atos para os quais não tenham a qualificação e as competências necessárias.
+
+2 - Os enfermeiros não podem delegar competências próprias da profissão em outros profissionais que não enfermeiros.
+
+3 - Os enfermeiros, no seu exercício profissional, podem delegar tarefas em profissionais que dele sejam funcionalmente dependentes quando se verifiquem, cumulativamente, as seguintes condições:
+
+a) Detenham a habilitação necessária à execução da tarefa delegada;
+
+b) A natureza da tarefa e a concreta situação do destinatário de cuidados o permitam;
+
+c) A tarefa delegada seja realizada sob a sua supervisão e orientação.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 6.º-C — Definição da profissão de enfermagem
+
+A enfermagem é a profissão da saúde que tem como objetivo prestar cuidados de enfermagem ao ser humano, são ou doente, ao longo do ciclo vital, e aos grupos populacionais em que está integrado, de forma a manter, melhorar e recuperar a saúde e a atingir a máxima capacidade funcional tão rapidamente quanto possível.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 6.º-D — Atos da profissão de enfermeiro
+
+1 - Os atos da profissão de enfermeiro consistem na avaliação diagnóstica e prognóstica, na prescrição de atos de enfermagem, na execução e avaliação dos resultados das intervenções, técnicas e medidas terapêuticas de enfermagem, relativas à prevenção, promoção, manutenção, reabilitação, paliação e recuperação das pessoas, grupos ou comunidades, no respeito pelos valores éticos e deontológicos da profissão.
+
+2 - Constituem ainda atos da profissão de enfermeiro as atividades técnico-científicas de ensino, formação, investigação, educação, assessoria e gestão, na promoção da saúde, prevenção e tratamento, enquadradas no âmbito da sua atividade, quando praticadas por enfermeiros.
+
+3 - O disposto nos números anteriores não prejudica o exercício dos atos neles previstos por pessoas não inscritas na Ordem, desde que legalmente autorizadas para o efeito.
+
+4 - As intervenções dos enfermeiros são autónomas ou interdependentes.
+
+5 - São autónomas as intervenções realizadas pelos enfermeiros, sob a sua única e exclusiva decisão e responsabilidade, de acordo com as respetivas qualificações profissionais, nos diferentes domínios de intervenção.
+
+6 - São interdependentes as intervenções dos enfermeiros realizadas de acordo com as respetivas qualificações profissionais, em conjunto com outros profissionais, para atingir um objetivo comum, decorrentes de planos de ação previamente definidos pelas equipas multiprofissionais em que se encontrem integrados, cabendo-lhe, no respeito pela sua autonomia, a responsabilidade de decidir sobre a sua implementação, assegurando a continuidade de cuidados e a avaliação dos resultados, de acordo com as respetivas competências e qualificações profissionais.
+
+7 - Os enfermeiros, no âmbito das suas intervenções, utilizam todas as técnicas e meios que considerem apropriados e em relação aos quais reconheçam possuir o conhecimento necessário e adequado, para a prestação das melhores intervenções, tendo como referência a prática baseada na evidência, referenciando para os recursos adequados, em função das necessidades e problemas existentes.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 7.º — Inscrição
+
+1 - A inscrição na Ordem rege-se pelo presente Estatuto.
+
+2 - (Revogado.)
+
+3 - Podem inscrever-se na Ordem:
+
+a) Os detentores de cursos superiores de enfermagem portugueses;
+
+b) Os detentores de cursos superiores de enfermagem estrangeiros, a quem tenha sido atribuído o reconhecimento de qualificações, nos termos da lei;
+
+c) Os profissionais nacionais de Estados membros da União Europeia ou do Espaço Económico Europeu, cujas qualificações tenham sido obtidas fora de Portugal, nos termos do artigo 12.º;
+
+d) Os profissionais nacionais de Estados terceiros cujas qualificações tenham sido obtidas fora de Portugal, desde que obtenham o reconhecimento de qualificações, nos termos da lei.
+
+4 - Ao exercício de forma ocasional e esporádica em território nacional da atividade de enfermeiro, em regime de livre prestação de serviços, por profissionais nacionais de Estados membros da União Europeia e do Espaço Económico Europeu, cujas qualificações tenham sido obtidas fora de Portugal, aplica-se o disposto no artigo 13.º
+
+5 - Aos candidatos que não tenham feito a sua formação em estabelecimento de ensino português é exigido, nos termos regulamentares, a sujeição a uma prova de comunicação que visa avaliar a capacidade de compreensão e comunicação, em língua portuguesa, no âmbito do exercício profissional.
+
+6 - A inscrição na Ordem rege-se pelo presente Estatuto e respetivo regulamento e reporta-se à secção regional correspondente ao distrito da residência habitual ou domicílio profissional do candidato.
+
+7 - Para efeitos de inscrição na Ordem, deve ser apresentado o documento comprovativo das habitações académicas necessárias, em original ou pública forma, ou na falta destes, documento comprovativo de que já foi requerido e está em condições de ser emitido.
+
+8 - O estágio profissional de adaptação, enquanto medida de compensação, é regido pela Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio.
+
+9 - Para efeitos da inscrição de nacionais de Estados terceiros cujas qualificações tenham sido obtidas fora de Portugal e aos quais se aplique o disposto nas alíneas c) e d) do n.º 3, a Ordem reconhece as habilitações académicas e profissionais obtidas no estrangeiro que estejam devidamente reconhecidas em Portugal ao abrigo da lei, do direito da União Europeia ou de convenção internacional, sem sujeitar os detentores dessas habilitações a provas, exames ou outro tipo de condições de acesso que não resultem expressamente das regras em vigor no momento do pedido.
+
+10 - A inscrição na Ordem só pode ser recusada com fundamento na falta de habilitações legais para o exercício da profissão, em inibição por sentença judicial transitada em julgado, em inibição de exercício profissional, ainda que temporária, em qualquer Estado, em situação de incompatibilidade para o exercício de enfermagem ou na falta de quaisquer das exigências previstas no presente artigo.
+
+11 - A Ordem não pode, por qualquer meio, seja ato ou regulamento, estabelecer restrições à liberdade de acesso e exercício da profissão em violação da lei e da Constituição, nem infringir as regras da concorrência na prestação de serviços profissionais, nos termos dos direitos nacional e da União Europeia.
+
+12 - Em casos excecionais, e por despacho do membro do Governo responsável pela área da saúde, pode ser atribuído de forma transitória o título profissional de enfermeiro a enfermeiros cuja formação tenha sido obtida num Estado terceiro, desde que reconhecida por um Estado-Membro da União Europeia, ouvida a Ordem.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 8.º — Títulos
+
+1 - O título de enfermeiro reconhece competência científica, técnica e humana para a prestação de cuidados de enfermagem gerais.
+
+2 - O título de enfermeiro é atribuído ao membro, titular de cédula profissional, inscrito na Ordem nos termos do artigo anterior.
+
+3 - O título de enfermeiro especialista reconhece competência científica, técnica e humana para prestar cuidados de enfermagem especializados nas áreas de especialidade em enfermagem, reconhecidas pela Ordem.
+
+4 - O título de enfermeiro especialista é atribuído ao detentor do título de enfermeiro, após ponderação dos processos formativos e de certificação de competências, numa área clínica de especialização, nos termos do regulamento da especialidade, aprovado pela Ordem e homologado pelo membro do Governo responsável pela área da saúde.
+
+5 - Os títulos atribuídos nos termos dos n.os 2 e 4 são inscritos na cédula profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 8.º-A — Competências acrescidas
+
+1 - A competência acrescida reconhece a diferenciação técnica e profissional dos enfermeiros.
+
+2 - A competência acrescida é atribuída aos detentores de título de enfermeiro ou de enfermeiro especialista, através de um processo de reconhecimento, validação e certificação de competências diferenciadas ou avançadas em diferentes domínios do exercício profissional e áreas de intervenção nos termos previstos em regulamento aprovado pelo conselho diretivo, mediante parecer vinculativo do conselho de supervisão, o qual apenas produz efeitos após homologação pelo membro do Governo responsável pela área da saúde.
+
+3 - As competências acrescidas atribuídas nos termos do número anterior são inscritas na cédula profissional.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 9.º — Membros
+
+1 - A Ordem tem membros efetivos, honorários e correspondentes.
+
+2 - A inscrição como membro efetivo da Ordem processa-se nos termos previstos nos artigos 7.º e 8.º, com emissão de cédula profissional.
+
+3 - A qualidade de membro honorário da Ordem pode ser atribuída a indivíduos ou coletividades que, desenvolvendo ou tendo desenvolvido atividades de reconhecido mérito e interesse público, tenham contribuído para a dignificação e prestígio da profissão de enfermeiro e sejam considerados merecedores de tal distinção.
+
+4 - Na qualidade de membros correspondentes da Ordem podem ser admitidos membros de associações congéneres estrangeiras que confiram igual tratamento aos membros da Ordem.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 10.º — Condições para o exercício
+
+1 - O exercício profissional obriga o enfermeiro a:
+
+a) Ser portador de cédula profissional válida;
+
+b) Estar inscrito na secção regional correspondente ao domicílio profissional;
+
+c) Ser titular de seguro de responsabilidade profissional, cujas condições mínimas são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde;
+
+d) Manter o pagamento das quotas à Ordem regularizado.
+
+2 - Quando não se verifique alguma das condições previstas no número anterior, o enfermeiro dispõe de um prazo de 30 dias úteis para regularizar a sua situação.
+
+3 - A cédula profissional é revalidada periodicamente, nos termos regulamentares, desde que se mantenham os pressupostos que justificaram a sua emissão.
+
+4 - Para efeitos da alínea c) do n.º 1, é observado o disposto no artigo 38.º da Lei n.º 2/2013, de 10 de janeiro.
+
+5 - As sociedades profissionais de enfermeiros e as sociedades multidisciplinares devem subscrever um seguro de responsabilidade civil profissional, cujas condições mínimas são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 11.º — Suspensão e perda da qualidade de membro da Ordem
+
+1 - É suspensa a inscrição dos membros da Ordem que:
+
+a) O requeiram;
+
+b) Tenham sido punidos com sanção disciplinar de suspensão;
+
+c) Se encontrem em situação de incompatibilidade superveniente com o exercício da profissão de enfermeiro;
+
+d) (Revogado.)
+
+e) Não tenham seguro de responsabilidade profissional em vigor.
+
+2 - É cancelada a inscrição dos membros da Ordem que:
+
+a) O requeiram;
+
+b) Tenham sido punidos com a sanção disciplinar de expulsão;
+
+c) A Ordem tiver conhecimento do seu falecimento.
+
+3 - Os casos de cancelamento previstos no número anterior implicam a perda da qualidade de membro efetivo da Ordem.
+
+4 - A cédula profissional é sempre devolvida à Ordem, pelo titular, nas situações previstas nos números anteriores.
+
+5 - A impossibilidade de devolução da cédula profissional ou o incumprimento desse dever não impede que a suspensão ou o cancelamento da inscrição se tornem efetivos.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+#### Secção II — Profissionais da União Europeia e do Espaço Económico Europeu
+
+###### Artigo 12.º — Direito de estabelecimento
+
+1 - O reconhecimento das qualificações profissionais de nacional de Estado membro da União Europeia ou do Espaço Económico Europeu obtidas fora de Portugal, para a sua inscrição como membro da Ordem, é regulado pela Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio, sem prejuízo de condições especiais de reciprocidade, caso as qualificações em causa tenham sido obtidas fora da União Europeia ou do Espaço Económico Europeu.
+
+2 - O profissional que pretenda inscrever-se na Ordem nos termos do número anterior e que preste serviços, de forma subordinada ou autónoma ou na qualidade de sócio ou que atue como gerente ou administrador no Estado membro de origem, no âmbito de organização associativa de profissionais, deve, observado o disposto no n.º 4 do artigo 37.º da Lei n.º 2/2013, de 10 de janeiro, identificar a organização em causa no pedido apresentado nos termos do artigo 47.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio.
+
+3 - Caso o facto a comunicar nos termos do número anterior ocorra após a apresentação do pedido de reconhecimento de qualificações, deve a organização associativa em causa ser identificada perante a Ordem no prazo máximo de 60 dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 13.º — Livre prestação de serviços
+
+1 - Os profissionais legalmente estabelecidos noutro Estado membro da União Europeia ou do Espaço Económico Europeu e que aí desenvolvam atividades comparáveis à atividade profissional de enfermeiro regulada pelo presente Estatuto, podem exercê-las, de forma ocasional e esporádica, em território nacional, em regime de livre prestação de serviços, nos termos da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio.
+
+2 - Os profissionais referidos no número anterior podem fazer uso do título profissional de enfermeiro e são equiparados a enfermeiro para todos os efeitos legais, exceto quando o contrário resulte das disposições em causa.
+
+3 - O profissional que preste serviços, de forma subordinada ou autónoma ou na qualidade de sócio ou que atue como gerente ou administrador no Estado membro de origem, no âmbito de organização associativa de profissionais e pretenda exercer a sua atividade profissional em território nacional nessa qualidade, em regime de livre prestação de serviços, deve identificar perante a Ordem a organização associativa por conta da qual presta serviços na declaração referida no artigo 5.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Retificado pelo/a [Declaração de Rectificação n.º 11-S/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-s-1998-182256), em vigor a partir de 1998-04-22
+
+#### Secção III — Sociedades profissionais
+
+###### Artigo 14.º — Sociedades de profissionais
+
+1 - Os enfermeiros estabelecidos em território nacional podem exercer em grupo a profissão, desde que constituam ou ingressem como sócios em sociedades profissionais de enfermeiros.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - As sociedades de enfermeiros gozam dos direitos e estão sujeitas aos deveres aplicáveis aos profissionais membros da Ordem que sejam compatíveis com a sua natureza, estando nomeadamente sujeitas aos princípios e regras deontológicos constantes do presente Estatuto.
+
+6 - (Revogado.)
+
+7 - Os membros do órgão executivo das sociedades profissionais de enfermeiros, independentemente da sua qualidade de membros da Ordem, devem respeitar os princípios e regras deontológicos, a autonomia técnica e científica e as garantias conferidas aos enfermeiros pela lei e pelo presente Estatuto.
+
+8 - As sociedades profissionais de enfermeiros podem exercer, a título secundário, quaisquer atividades que não sejam incompatíveis com a atividade de enfermeiro, em relação às quais não se verifique impedimento, nos termos do presente Estatuto, não estando essas atividades sujeitas ao controlo da Ordem.
+
+9 - (Revogado.)
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+#### Secção IV — Outras organizações de prestadores
+
+###### Artigo 15.º — Organizações associativas de profissionais de outros Estados-Membros
+
+1 - As representações permanentes em Portugal de sociedades de profissionais equiparados por lei a enfermeiros cujo capital com direito de voto caiba maioritariamente aos profissionais em causa e ou a outras organizações associativas cujo capital e direitos de voto caibam maioritariamente àqueles profissionais, constituídas noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, são equiparadas a sociedades de enfermeiros para efeitos do presente Estatuto.
+
+2 - Os requisitos de capital referidos no número anterior não são aplicáveis caso a organização associativa não disponha de capital social, aplicando-se, em seu lugar, o requisito de atribuição da maioria de direitos de voto aos profissionais ali referidos.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 16.º — Sociedades multidisciplinares e outros prestadores
+
+1 - Podem ser constituídas sociedades multidisciplinares de profissionais para exercício de enfermagem juntamente com outras profissões organizadas ou não em associações públicas profissionais, desde que:
+
+a) A sociedade garanta o cumprimento do regime de incompatibilidades e impedimentos previsto no presente Estatuto, bem como a prevenção de conflitos de interesses, devendo, na ausência de medidas que garantam a inexistência de tais conflitos, a prestação de serviços ser recusada ou cessada;
+
+b) Os responsáveis pela orientação e execução do ato do enfermeiro sejam membros da Ordem;
+
+c) Seja garantida a independência técnica, a proteção de informação de utentes e a observância dos deveres deontológicos aplicáveis à enfermagem;
+
+d) A sociedade seja dotada de um sistema interno de salvaguarda do sigilo profissional.
+
+2 - As sociedades profissionais referidas no número anterior, constituídas em Portugal, podem ser sociedades civis ou assumir qualquer forma jurídica admissível por lei para o exercício de atividades comerciais.
+
+3 - Podem ser sócios, gerentes ou administradores das sociedades referidas nos números anteriores pessoas que não possuam as qualificações profissionais exigidas para o exercício das profissões organizadas na associação pública profissional respetiva, ficando vinculados aos deveres deontológicos aplicáveis ao exercício das profissões abrangidas, designadamente aos deveres de sigilo.
+
+4 - As pessoas coletivas que prestam serviços de enfermagem não estão sujeitas a inscrição na Ordem, sem prejuízo da obrigatoriedade de inscrição dos profissionais que nelas exercem a respetiva atividade nos termos do presente Estatuto.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+### Capítulo III — Organização
+
+###### Artigo 17.º — Órgãos
+
+1 - São órgãos nacionais da Ordem:
+
+a) O conselho nacional de enfermeiros;
+
+b) O conselho diretivo;
+
+c) O bastonário;
+
+d) O conselho jurisdicional;
+
+e) O conselho fiscal;
+
+f) O conselho de enfermagem;
+
+g) Os colégios de especialidade, quando existam;
+
+h) (Revogada.)
+
+i) O conselho de supervisão;
+
+j) O provedor dos destinatários dos serviços de enfermagem;
+
+k) A mesa do conselho nacional de enfermeiros.
+
+2 - São órgãos regionais da Ordem:
+
+a) As assembleias regionais;
+
+b) Os conselhos diretivos regionais;
+
+c) Os conselhos jurisdicionais regionais;
+
+d) Os conselhos fiscais regionais;
+
+e) Os conselhos de enfermagem regionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 17.º-A — Condições de exercício dos membros dos órgãos da Ordem
+
+1 - Os membros dos órgãos executivos da Ordem que sejam trabalhadores por conta de outrem têm direito, para o exercício das suas funções no âmbito dos cargos para que foram eleitos, a:
+
+a) Licença sem vencimento, com a duração máxima do respetivo mandato, a atribuir nos termos da legislação laboral;
+
+b) Um crédito de horas correspondente a 24 dias de trabalho por ano, que podem utilizar em períodos de meio-dia, que contam, para todos os efeitos legais, como serviço efetivo.
+
+2 - Os membros dos órgãos não executivos da Ordem usufruem do direito a 24 faltas justificadas, que contam para todos os efeitos legais como serviço efetivo, salvo quanto à remuneração ou retribuição.
+
+3 - A Ordem comunica, por meios idóneos e seguros, incluindo o correio eletrónico, às entidades empregadoras das quais dependam os membros dos seus órgãos, as datas e o número de dias de que estes necessitam para o exercício das respetivas funções.
+
+4 - A comunicação prevista no número anterior é feita com uma antecedência mínima de cinco dias, ou, em caso de reuniões ou atividades de natureza extraordinária dos órgãos da Ordem, logo que as mesmas sejam convocadas.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 17.º-B — Remuneração dos órgãos sociais
+
+1 - A remuneração do provedor dos destinatários dos serviços de enfermagem é determinada por regulamento a aprovar pelo conselho de supervisão, mediante proposta aprovada em conselho nacional de enfermeiros.
+
+2 - O exercício de funções nos demais órgãos da Ordem pode ser remunerado em função do volume de trabalho, nos termos do regulamento previsto no número anterior.
+
+3 - A existência de remuneração, nos termos do número anterior, não prejudica o direito a ajudas de custo.
+
+4 - A ausência de remuneração, nos termos do n.º 2, não prejudica o direito a ajudas de custo ou senhas de presença.
+
+5 - A remuneração dos cargos do conselho de supervisão, quando aplicável, é aprovada pelo conselho nacional de enfermeiros, sob proposta da direção.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+#### Secção I — Órgãos nacionais da ordem
+
+##### Subsecção I — Do conselho nacional de enfermeiros
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 18.º — Composição
+
+1 - O conselho nacional de enfermeiros é a assembleia representativa, constituída por 100 membros, nomeadamente:
+
+a) 80 membros efetivos da Ordem com cédula profissional válida e no pleno gozo e exercício dos seus direitos, eleitos por sufrágio universal, direto, secreto e periódico;
+
+b) Os membros do conselho diretivo, por inerência;
+
+c) O presidente do conselho de enfermagem, por inerência;
+
+d) O presidente do conselho fiscal, por inerência;
+
+e) O presidente do conselho jurisdicional, por inerência;
+
+f) A mesa do conselho nacional de enfermeiros.
+
+2 - O presidente do conselho de supervisão e o provedor dos destinatários dos serviços de enfermagem têm direito a participar no conselho nacional de enfermeiros, sem direito a voto.
+
+3 - Os membros referidos na alínea a) do n.º 1 são eleitos por listas, de acordo com o sistema de representação proporcional segundo o método de Hondt, devendo as listas assegurar a representatividade regional nos termos do número seguinte.
+
+4 - As listas apresentadas nos termos do número anterior devem apresentar um número de membros efetivos e um número de membros suplentes proporcional ao número de membros inscritos em cada secção regional, nos termos a fixar no regulamento eleitoral.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 19.º — Competência
+
+1 - Compete ao conselho nacional de enfermeiros:
+
+a) Aprovar o plano de atividades e o orçamento apresentados pelo conselho diretivo;
+
+b) Aprovar o relatório e contas apresentados pelo conselho diretivo;
+
+c) Deliberar sobre as propostas de alteração do presente Estatuto;
+
+d) Deliberar sobre propostas dos órgãos nacionais e aprovar moções e recomendações de caráter profissional e associativo;
+
+e) (Revogado.)
+
+f) Fixar o valor das quotas mensais e das taxas;
+
+g) Fixar a percentagem do valor da quotização a atribuir às secções regionais;
+
+h) Aprovar os regulamentos necessários à prossecução das finalidades da Ordem, de acordo com o presente Estatuto, sem prejuízo das competências do conselho de supervisão;
+
+i) Apreciar a atividade dos órgãos nacionais e aprovar moções e recomendações de caráter profissional e associativo;
+
+j) Tomar posição sobre o exercício da profissão, estatuto e garantias dos enfermeiros;
+
+k) Pronunciar-se sobre questões de natureza científica, técnica e profissional;
+
+l) Aprovar as propostas de criação de novas especialidades;
+
+m) Deliberar a submissão a referendo, com caráter vinculativo ou consultivo, sobre assuntos de particular relevância para a Ordem, mediante proposta do conselho diretivo e após parecer favorável do conselho jurisdicional sobre a sua admissibilidade legal;
+
+n) Deliberar sobre todos os assuntos que não estejam compreendidos nas competências específicas dos restantes órgãos da Ordem;
+
+o) Aprovar o seu regimento.
+
+2 - O referendo interno a que se refere a alínea m) do número anterior é vinculativo se nele participar um número de votantes superior a metade dos membros efetivos inscritos nos cadernos eleitorais, ou se a proposta submetida a referendo obtiver mais de 66 % dos votos e a participação for superior a 40 %.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 20.º — Funcionamento
+
+1 - O conselho nacional de enfermeiros reúne, obrigatoriamente, em sessão ordinária, até 31 de março de cada ano, para exercer as competências previstas, nomeadamente, nas alíneas a) e b) do n.º 1 do artigo anterior.
+
+2 - O conselho nacional de enfermeiros reúne, obrigatoriamente, em sessão ordinária, até 30 de maio do terceiro ano do quadriénio, de preferência no Dia Internacional do Enfermeiro, nomeadamente para exercer as competências previstas nas alíneas e), f), i), j) e k) do n.º 1 do artigo anterior.
+
+3 - O conselho nacional de enfermeiros reúne em sessão extraordinária quando os superiores interesses da Ordem o justifiquem, por iniciativa:
+
+a) Do presidente da mesa do conselho nacional de enfermeiros;
+
+b) Do conselho diretivo;
+
+c) Do conselho fiscal;
+
+d) De 20 membros efetivos do próprio órgão.
+
+4 - (Revogado.)
+
+5 - Cada elemento do conselho nacional de enfermeiros não pode subscrever mais do que três pedidos de reunião extraordinária do órgão em cada ano civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 21.º — Sede de reuniões
+
+1 - As reuniões do conselho nacional de enfermeiros podem realizar-se em qualquer capital de distrito.
+
+2 - As reuniões extraordinárias do conselho nacional de enfermeiros realizam-se no Porto, em Coimbra ou em Lisboa.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 22.º — Convocação e divulgação
+
+1 - As reuniões do conselho nacional de enfermeiros são convocadas pelo presidente da mesa, por meio de comunicação eletrónica remetida a todos os membros e por publicação no sítio oficial da Internet da Ordem, com a antecedência mínima de 30 dias seguidos.
+
+2 - Os documentos a apreciar no conselho nacional de enfermeiros devem ser divulgados aos respetivos membros com a antecedência mínima de 8 dias seguidos.
+
+3 - A convocação de reuniões extraordinárias deve ser feita para um dos 15 dias seguintes à apresentação do pedido e com a antecedência mínima de 48 horas sobre a data da respetiva realização.
+
+4 - Da convocatória do conselho nacional de enfermeiros deve constar a ordem de trabalhos, o dia, a hora e o local.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 23.º — Funcionamento e validade das deliberações
+
+1 - O conselho nacional de enfermeiros tem lugar no dia, hora e local designados na convocatória, quando estejam presentes 50 % dos membros efetivos.
+
+2 - Na falta de quórum, o conselho nacional de enfermeiros tem lugar 30 minutos depois, com qualquer número de membros efetivos.
+
+3 - As deliberações do conselho nacional de enfermeiros são válidas quando forem respeitadas as formalidades da convocatória e recaírem sobre assuntos da sua competência, constantes da ordem de trabalhos.
+
+4 - A alteração da ordem de trabalhos pelo conselho nacional de enfermeiros só pode ter lugar quando estejam presentes pelo menos dois terços dos membros efetivos e tem de ser aprovada pela maioria dos membros efetivos presentes.
+
+5 - As deliberações do conselho nacional de enfermeiros sobre propostas de alteração do presente Estatuto apenas são válidas quando sufragadas por dois terços dos respetivos membros efetivos, presentes na reunião.
+
+6 - O conselho nacional de enfermeiros convocado nos termos da alínea d) do n.º 3 do artigo 20.º só tem lugar quando pelo menos dois terços dos requerentes estiverem presentes.
+
+7 - Os requerentes faltosos ficam impedidos de exercer o direito de convocação do conselho nacional de enfermeiros até final do mandato e por período não inferior a dois anos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 24.º — Mesa do conselho nacional de enfermeiros
+
+1 - A mesa do conselho nacional de enfermeiros é constituída por um presidente, um vice-presidente e quatro secretários.
+
+2 - O presidente da mesa do conselho nacional de enfermeiros é eleito por sufrágio universal, direto, secreto e periódico.
+
+3 - O vice-presidente e os secretários são os presidentes das assembleias regionais.
+
+4 - O presidente da assembleia regional em cuja secção se realize a reunião exerce as competências conferidas ao vice-presidente.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 25.º — Competência dos membros da mesa
+
+1 - Compete ao presidente convocar o conselho nacional de enfermeiros, nos termos do presente Estatuto, e dirigir as reuniões.
+
+2 - Compete ao vice-presidente substituir o presidente nas suas faltas ou impedimentos.
+
+3 - Compete aos secretários a elaboração das atas, que são lidas e aprovadas no conselho nacional de enfermeiros seguinte, e coadjuvar o presidente nos atos necessários ao normal funcionamento do conselho nacional de enfermeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+##### Subsecção II — Do conselho directivo
+
+###### Artigo 26.º — Composição
+
+1 - O conselho diretivo é constituído pelo bastonário e por 10 vogais, dos quais cinco são, por inerência, os presidentes dos conselhos diretivos regionais.
+
+2 - O bastonário, dois vice-presidentes, dois secretários e um tesoureiro são eleitos por sufrágio universal, direto, secreto e periódico.
+
+3 - O bastonário pode, quando julgar aconselhável, convocar para as reuniões do conselho diretivo os presidentes do conselho jurisdicional, do conselho fiscal, do conselho de enfermagem e das mesas dos colégios da especialidade, os quais têm, neste caso, direito de voto.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 27.º — Competência
+
+1 - Compete ao conselho diretivo:
+
+a) Dirigir a atividade nacional da Ordem, incluindo as suas linhas gerais de atuação;
+
+b) Definir a posição da Ordem perante os órgãos de soberania e da Administração Pública, em matérias que se relacionem com as suas atribuições;
+
+c) Emitir parecer sobre projetos de diplomas legislativos ou regulamentos que tenham como objeto o ensino e a formação que conferem habilitações legais para o exercício da enfermagem, quando solicitados pelo órgão com competência legislativa;
+
+d) Emitir parecer, por sua iniciativa ou a pedido das entidades oficiais competentes, sobre as diversas matérias relacionadas com o exercício da enfermagem, designadamente sobre a organização dos serviços que dela se ocupam;
+
+e) Articular as atividades entre as secções regionais, de acordo com as linhas políticas nacionais definidas;
+
+f) Elaborar e submeter ao conselho nacional de enfermeiros o plano de atividades, o orçamento, o relatório e as contas anuais;
+
+g) Propor ao conselho nacional de enfermeiros a criação de novas especialidades;
+
+h) Elaborar e propor ao conselho nacional de enfermeiros, após audição dos órgãos competentes e parecer do conselho jurisdicional, os regulamentos necessários à execução do presente Estatuto;
+
+i) Propor ao conselho nacional de enfermeiros o montante das quotas e das taxas;
+
+j) Executar as deliberações do conselho nacional de enfermeiros;
+
+k) Administrar e restruturar o património da Ordem;
+
+l) Promover a cobrança das receitas e autorizar as despesas, aceitar doações, heranças e legados feitos à Ordem;
+
+m) Deliberar sobre a aquisição ou a oneração de bens da Ordem e a contração de empréstimos, dentro dos limites de endividamento aprovados no orçamento;
+
+n) Instaurar procedimentos de execução aos enfermeiros com quotas em dívida à Ordem;
+
+o) Propor ao conselho nacional de enfermeiros, sob parecer do conselho de enfermagem, o nível de qualificação e as condições de inscrição e reingresso na Ordem;
+
+p) Participar nos processos oficiais de acreditação e na avaliação dos cursos que dão acesso à profissão;
+
+q) Elaborar e atualizar o registo dos seus membros, que, sem prejuízo do RGPD, deve ser público;
+
+r) Dirigir o funcionamento dos serviços da sede da Ordem;
+
+s) Atribuir a qualidade de membro correspondente da Ordem;
+
+t) Desenvolver as relações da Ordem com instituições nacionais ou estrangeiras da mesma natureza;
+
+u) Constituir comissões, estruturas e grupos de trabalho de caráter temporário ou permanente para a execução de tarefas ou estudos sobre assuntos de interesse da Ordem;
+
+v) Designar ou nomear enfermeiros que, em representação da Ordem, devem integrar comissões eventuais ou permanentes e grupos de trabalho;
+
+w) Promover a realização de um congresso de caráter obrigatório, no 3.º ano do mandato, preferencialmente no dia internacional do enfermeiro, tendo por objetivo a discussão sobre questões de natureza científica, técnica e profissional, bem como tomar posição sobre o exercício da profissão, o presente Estatuto e as garantias dos enfermeiros;
+
+x) Promover a realização de congressos, conferências, seminários e outras atividades científicas que visem o desenvolvimento da enfermagem, em colaboração com os conselhos diretivos regionais, podendo incluir outras organizações profissionais;
+
+y) Organizar e promover a publicação de uma revista periódica de cariz informativo;
+
+z) Promover a publicação de uma revista científica;
+
+aa) Elaborar e aprovar o seu regimento;
+
+bb) Aprovar, ouvido o conselho de enfermagem, e mediante parecer vinculativo do conselho de supervisão, o regulamento aplicável ao período de formação em contexto de exercício profissional, designado por Internato de Especialidade em Enfermagem, o qual apenas produz efeitos após homologação pelo membro do Governo responsável pela área da saúde;
+
+cc) Atribuir as competências acrescidas nos termos do Estatuto e aprovar o respetivo regulamento;
+
+dd) Exercer as demais competências que a lei ou os regulamentos lhe conferem.
+
+2 - O conselho diretivo pode delegar nos seus membros quaisquer das competências indicadas no número anterior.
+
+3 - O conselho diretivo pode constituir órgãos de apoio técnico, nomeadamente gabinetes, nos quais pode delegar competências.
+
+4 - Para efeitos do disposto na alínea cc) do n.º 1, o conselho diretivo nomeia um júri nacional a quem compete avaliar e elaborar parecer fundamentado sobre os pedidos de atribuição de competências acrescidas.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 28.º — Funcionamento
+
+1 - O conselho diretivo funciona na sede da Ordem e reúne, ordinariamente, quando convocado pelo seu presidente, pelo menos uma vez por mês.
+
+2 - O conselho diretivo reúne, extraordinariamente, por iniciativa do presidente ou por solicitação, por escrito, de um terço dos seus membros.
+
+3 - O presidente é obrigado a proceder à convocação da reunião sempre que um terço dos vogais o solicite por escrito, indicando o assunto que desejam ver tratado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+##### Subsecção III — Do bastonário
+
+###### Artigo 29.º — Bastonário da Ordem
+
+1 - O bastonário é o presidente da Ordem e, por inerência, presidente do conselho diretivo.
+
+2 - O bastonário é eleito por sufrágio universal, direto, secreto e periódico.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 30.º — Competências e obrigações do bastonário da Ordem
+
+1 - Compete ao bastonário:
+
+a) Representar a Ordem em juízo e fora dele, designadamente perante os órgãos de soberania;
+
+b) Dirigir os serviços da Ordem de âmbito nacional;
+
+c) Presidir ao conselho diretivo;
+
+d) Executar e fazer executar as deliberações do conselho diretivo;
+
+e) Despachar o expediente corrente do conselho diretivo;
+
+f) Exercer as competências de direção da Ordem, em caso de reconhecida urgência;
+
+g) Solicitar a qualquer órgão da Ordem a elaboração de pareceres relativos a matérias da sua competência;
+
+h) Assistir, querendo, às reuniões de todos os órgãos colegiais da Ordem, exceto as reuniões do conselho jurisdicional e do conselho de supervisão, só tendo direito de voto nos órgãos a que preside;
+
+i) Interpor recurso para o conselho jurisdicional das deliberações de todos os órgãos da Ordem que julgue contrárias às leis, aos regulamentos ou aos interesses da Ordem ou dos seus membros;
+
+j) Apreciar e pronunciar-se sobre os pedidos de renúncia e suspensão dos membros da Ordem eleitos e dar posse aos suplentes chamados pelo conselho jurisdicional;
+
+k) Presidir à comissão científica e ao conselho editorial das revistas da Ordem;
+
+l) Exercer as demais competências que a lei ou os regulamentos lhe conferem.
+
+2 - O bastonário pode delegar competências em qualquer um dos vice-presidentes do conselho diretivo.
+
+3 - O bastonário está sujeito ao cumprimento das obrigações declarativas previstas na Lei n.º 52/2019, de 31 de julho, que aprova o regime do exercício de funções por titulares de cargos políticos e altos cargos públicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+##### Subsecção iv — Do conselho de supervisão
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 30.º-A — Conselho de supervisão
+
+1 - O conselho de supervisão é constituído por 15 membros com direito de voto, incluindo:
+
+a) Seis representantes da profissão, inscritos na Ordem e eleitos nos termos do n.º 2;
+
+b) Seis membros oriundos dos estabelecimentos de ensino superior que habilitem academicamente o acesso à profissão de enfermeiro e que se integrem na área científica de enfermagem, não inscritos na Ordem, e eleitos nos termos do n.º 2;
+
+c) Três membros cooptados pelos membros referidos nas alíneas anteriores, por maioria absoluta, que sejam personalidades de reconhecido mérito, com conhecimentos e experiência relevantes para a atividade da Ordem, não inscritos nesta.
+
+2 - Os membros previstos nas alíneas a) e b) do número anterior são eleitos por sufrágio universal, direto, secreto e periódico pelos inscritos na Ordem e por método de representação proporcional ao número de votos obtido pelas listas candidatas.
+
+3 - Os membros do conselho de supervisão elegem o presidente de entre os membros não inscritos na Ordem.
+
+4 - O provedor dos destinatários dos serviços de enfermagem é, por inerência, membro do órgão de supervisão, sem direito de voto.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 30.º-B — Competências do conselho de supervisão
+
+1 - O conselho de supervisão é independente no exercício das suas funções, zela pela legalidade da atividade exercida pelos órgãos da Ordem e exerce poderes de controlo, nomeadamente em matéria de regulação do exercício da profissão.
+
+2 - Sem prejuízo de outras competências estabelecidas por lei, compete ao conselho de supervisão:
+
+a) Sob proposta do conselho diretivo, aprovar o regulamento de estágio, incluindo os aspetos relacionados com a formação e a fixação de qualquer taxa relativa às condições de acesso à inscrição na Ordem;
+
+b) Acompanhar regularmente a atividade do órgão disciplinar, designadamente através da apreciação anual do respetivo relatório de atividades e da emissão de recomendações genéricas sobre os seus procedimentos;
+
+c) Acompanhar regularmente a atividade formativa da Ordem, em especial a atividade de reconhecimento de competências obtidas no estrangeiro, designadamente através da apreciação anual do respetivo relatório de atividades e da emissão de recomendações genéricas sobre os seus procedimentos;
+
+d) A supervisão da legalidade e conformidade estatutária e regulamentar da atividade exercida pelos órgãos da Ordem;
+
+e) A proposta de designação do provedor dos destinatários dos serviços de enfermagem;
+
+f) A destituição do provedor dos destinatários dos serviços de enfermagem por falta grave no exercício das suas funções, ouvido o conselho diretivo;
+
+g) Participar à Ordem factos suscetíveis de constituir infração disciplinar e recorrer disciplinarmente das decisões;
+
+h) Avaliar e pronunciar-se sobre o exercício de funções nos órgãos da Ordem com a titularidade de órgãos sociais de associações de representação de interesses suscetíveis de gerar conflitos de interesses;
+
+i) Determinar a remuneração dos membros dos órgãos da Ordem, por regulamento, sob proposta do conselho nacional de enfermeiros;
+
+j) Emitir parecer vinculativo sobre a criação, composição, competências e modo de funcionamento dos colégios de especialidade.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+##### Subsecção V — Conselho jurisdicional
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 31.º — Composição
+
+1 - O conselho jurisdicional constitui o supremo órgão jurisdicional da Ordem e é constituído por um presidente e 15 vogais.
+
+2 - Sem prejuízo do disposto no número seguinte, os membros do conselho jurisdicional são eleitos por sufrágio universal, direto, secreto e periódico e por método de representação proporcional ao número de votos obtidos pelas listas candidatas.
+
+3 - Cinco vogais são, por inerência, os presidentes dos conselhos jurisdicionais das secções regionais.
+
+4 - O processo eleitoral previsto no n.º 2 deve garantir a eleição de membros inscritos na Ordem e de cinco membros que sejam personalidades de reconhecido mérito com conhecimentos e experiência relevantes para a respetiva atividade.
+
+5 - Os vogais referidos no n.º 3 não podem participar nos recursos interpostos nos processos em que tenham tido intervenção, quer proferindo a decisão recorrida, quer tomando de outro modo posição sobre questões suscitadas no recurso.
+
+6 - O conselho jurisdicional da Ordem é independente no exercício das suas funções.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 32.º — Competência
+
+1 - Compete ao conselho jurisdicional:
+
+a) Deliberar sobre os recursos interpostos das deliberações dos vários órgãos ou dos seus membros;
+
+b) Proferir decisão final sobre todos os procedimentos disciplinares;
+
+c) Deliberar sobre os requerimentos de renúncia aos cargos e de suspensão temporária de funções dos membros dos órgãos da Ordem;
+
+d) Deliberar sobre a perda de cargos na Ordem;
+
+e) Deliberar sobre a substituição dos membros dos órgãos da Ordem;
+
+f) Exercer o poder disciplinar relativamente a todos os membros da Ordem;
+
+g) Promover a reflexão ético-deontológica;
+
+h) Elaborar os pareceres que lhe sejam solicitados pelo bastonário, sobre o exercício profissional e deontológico.
+
+2 - Compete ao presidente despachar o expediente corrente do conselho jurisdicional.
+
+3 - O conselho jurisdicional é assistido por assessores jurídicos, nomeados pelo conselho diretivo.
+
+4 - O conselho jurisdicional, a funcionar em pleno, fixa os assuntos que devem ser tratados pelas secções do conselho jurisdicional.
+
+5 - Das deliberações das secções do conselho jurisdicional cabe recurso para o pleno do conselho.
+
+6 - Compete, em exclusivo, ao conselho jurisdicional, em sessão plenária:
+
+a) Proceder à substituição do bastonário, em caso de impedimento permanente, a ratificar em conselho nacional de enfermeiros, na sessão ordinária seguinte;
+
+b) Conferir, por proposta do conselho diretivo, o título de membro honorário da Ordem a enfermeiros que tenham exercido a profissão, pelo menos, durante 25 anos com assinalável mérito;
+
+c) Julgar os recursos interpostos;
+
+d) Definir os processos de reabilitação a estabelecer em regulamento para apresentação ao conselho nacional de enfermeiros, ouvido previamente o conselho de enfermagem;
+
+e) Deliberar sobre os pedidos de reabilitação dos membros da Ordem;
+
+f) Deliberar a abertura de procedimentos disciplinares, a sua instrução e a apreciação final relativamente a todos os membros efetivos dos órgãos da Ordem no exercício das suas funções, bem como em relação a bastonários e presidentes do conselho jurisdicional de mandatos anteriores;
+
+g) Elaborar propostas de alteração ao código deontológico, para apresentação ao conselho nacional de enfermeiros e posterior proposta de alteração ao presente Estatuto;
+
+h) Elaborar e propor alterações ao regulamento disciplinar, para apresentação ao conselho nacional de enfermeiros;
+
+i) Emitir parecer sobre os regimentos dos órgãos da Ordem;
+
+j) (Revogada.)
+
+k) Elaborar e aprovar o seu regimento;
+
+l) Elaborar um relatório anual de atividades a submeter à apreciação do conselho de supervisão.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 33.º — Funcionamento
+
+1 - O conselho jurisdicional funciona na sede da Ordem e reúne quando convocado pelo seu presidente.
+
+2 - Na primeira sessão de cada quadriénio, o conselho jurisdicional elege, de entre os seus membros, dois vice-presidentes e quatro secretários.
+
+3 - O conselho jurisdicional reúne em sessão plenária e por secções.
+
+4 - A composição das duas secções é fixada na primeira sessão de cada exercício, cabendo a uma secção a competência do exercício do poder disciplinar e, à outra secção, a competência de análise de questões e preparação de pareceres de natureza deontológica.
+
+5 - O presidente do conselho jurisdicional preside às sessões plenárias e às sessões da 1.ª e da 2.ª secção.
+
+6 - A 1.ª secção é constituída por quatro vogais e a 2.ª secção é constituída por seis vogais.
+
+7 - Cada secção é secretariada por um dos secretários.
+
+8 - As secções deliberam validamente quando estiverem presentes três quintos dos seus membros.
+
+9 - As deliberações são tomadas por maioria, dispondo o presidente de voto de qualidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Retificado pelo/a [Declaração de Rectificação n.º 11-S/98 - Diário da República n.º 175/1998, 5º Suplemento, Série I-A de 1998-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-s-1998-182256), em vigor a partir de 1998-04-22
+
+##### Subsecção VI — Conselho fiscal
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 34.º — Composição e competência
+
+1 - O conselho fiscal é constituído por um presidente, um vice-presidente e cinco vogais.
+
+2 - O presidente e o vice-presidente do conselho fiscal são eleitos por sufrágio universal, direto, secreto e periódico.
+
+3 - Os presidentes dos conselhos fiscais regionais são, por inerência, os vogais do conselho fiscal.
+
+4 - O conselho fiscal integra um revisor oficial de contas, nomeado pelo conselho diretivo, sem direito de voto.
+
+5 - O conselho fiscal funciona na sede da Ordem e reúne, ordinariamente, em cada trimestre e, extraordinariamente, por iniciativa do presidente.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 35.º — Competência
+
+1 - Compete ao conselho fiscal:
+
+a) Acompanhar e fiscalizar a gestão patrimonial e financeira da Ordem;
+
+b) Apreciar e emitir parecer sobre o relatório, contas e orçamento anuais, elaborados pelo conselho diretivo, para serem apresentados ao conselho nacional de enfermeiros;
+
+c) Apreciar a contabilidade de âmbito nacional da Ordem;
+
+d) Apreciar e fiscalizar as atas lavradas nas reuniões do conselho diretivo, no que respeita a deliberações inscritas na sua competência;
+
+e) Apresentar ao conselho diretivo as propostas que considere adequadas para melhorar a situação patrimonial e financeira da Ordem;
+
+f) Pronunciar-se sobre qualquer assunto que lhe seja apresentado por outro órgão nacional, relativamente a matéria cuja fiscalização lhe está cometida;
+
+g) Elaborar e aprovar o seu regimento;
+
+h) Participar, sem direito a voto, nas reuniões do conselho diretivo, sempre que este o considere conveniente.
+
+2 - O conselho fiscal deve comunicar ao conselho diretivo qualquer situação que identifique e implique desvio orçamental ou comprometa ou possa comprometer o equilíbrio contabilístico e financeiro da Ordem.
+
+3 - O conselho fiscal pode solicitar ao conselho diretivo e aos conselhos diretivos regionais informações ou documentação que considere necessária ao cumprimento das suas atribuições.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+##### Subsecção VII — Conselho de enfermagem
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 36.º — Composição
+
+1 - O conselho de enfermagem é o órgão científico e profissional da Ordem e é constituído por um presidente e 10 vogais.
+
+2 - O presidente e cinco vogais do conselho de enfermagem são eleitos por sufrágio universal, direto, secreto e periódico.
+
+3 - Os presidentes dos conselhos de enfermagem regionais são, por inerência, os restantes cinco vogais do conselho de enfermagem.
+
+4 - Os membros do conselho de enfermagem referidos no n.º 2, se forem especialistas, têm de ser titulares de diferentes especialidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 37.º — Competência
+
+Compete ao conselho de enfermagem:
+
+a) (Revogado.)
+
+b) (Revogado.)
+
+c) (Revogado.)
+
+d) Elaborar o regulamento da certificação individual de competências, a propor ao conselho diretivo;
+
+e) Elaborar o regulamento de atribuição dos títulos de enfermeiro e de enfermeiro especialista, a propor ao conselho diretivo;
+
+f) Definir os padrões de qualidade de cuidados de enfermagem, a propor ao conselho diretivo;
+
+g) Acompanhar o desenvolvimento de métodos, instrumentos e programas de melhoria contínua da qualidade dos cuidados, a nível nacional e internacional;
+
+h) Colaborar com entidades nacionais ou internacionais no âmbito da qualidade;
+
+i) Apreciar o acompanhamento do exercício profissional a nível nacional;
+
+j) Fomentar e acompanhar o desenvolvimento da formação em enfermagem;
+
+k) Fomentar a investigação em enfermagem como meio de desenvolvimento do exercício profissional;
+
+l) Promover o desenvolvimento das relações científicas e profissionais, nos diferentes domínios da enfermagem, a nível nacional e internacional;
+
+m) Proceder a estudos e emitir pareceres sobre matérias específicas de enfermagem;
+
+n) Apoiar o conselho diretivo e jurisdicional nos assuntos profissionais relativos aos cuidados de enfermagem gerais;
+
+o) Definir as condições de reconhecimento de qualificações profissionais obtidas fora do território nacional, nos termos da lei, do direito da União Europeia ou de convenção internacional;
+
+p) Definir os processos de reconhecimento de competência acrescida, a propor ao conselho diretivo;
+
+q) Definir os procedimentos de revalidação e de reabilitação, determinando as suas condições de apreciação e verificação, a propor ao conselho diretivo, após parecer do conselho jurisdicional;
+
+r) Organizar uma revista científica;
+
+s) Elaborar e aprovar o seu regimento.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 38.º — Funcionamento
+
+1 - O conselho de enfermagem funciona na sede da Ordem e reúne por convocação do seu presidente.
+
+2 - Na primeira sessão de cada quadriénio, o conselho de enfermagem elege, de entre os seus membros, dois vice-presidentes e dois secretários.
+
+3 - Apoiam o funcionamento do conselho de enfermagem a comissão de qualidade dos cuidados de enfermagem e a comissão de investigação e desenvolvimento.
+
+4 - O conselho de enfermagem elabora o regulamento das comissões, a propor ao conselho diretivo.
+
+5 - Na primeira sessão de cada quadriénio, o conselho de enfermagem designa os membros que integram cada uma das comissões e, destes, o que preside.
+
+6 - O conselho de enfermagem pode ser assessorado por peritos de reconhecida competência.
+
+7 - Os peritos referidos no número anterior são nomeados pelo conselho diretivo, sob proposta fundamentada do conselho de enfermagem.
+
+8 - No tratamento de assuntos transversais a áreas profissionais especializadas, o presidente do conselho de enfermagem deve convocar para as reuniões do conselho, os presidentes dos colégios das especialidades respetivas, os quais têm, neste caso, direito a voto.
+
+9 - As deliberações são tomadas por maioria, dispondo o presidente de voto de qualidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+##### Subsecção VIII — Colégios das especialidades e título de especialidade
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 39.º — Colégios das especialidades
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - A criação, composição, competências e modo de funcionamento dos colégios de especialidade são definidos em regulamento aprovado pelo conselho nacional de enfermeiros, mediante proposta do conselho diretivo e parecer vinculativo do conselho de supervisão, o qual apenas produz efeitos após homologação pelo membro do Governo responsável pela área da saúde.
+
+> Nota: [Acórdão n.º 373/2004 - Diário da República n.º 152/2004, Série I-A de 2004-06-30](https://diariodarepublica.pt/dr/detalhe/acordao/373-2004-517470) O Acórdão n.º 373/2004, de 30 de junho declara a inconstitucionalidade, com força obrigatória geral, da norma constante do n.º 4 do presente artigo, por violação do preceituado no artigo 165.º, n.º 1, alínea b), da Constituição da República.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 40.º — Títulos de especialidade
+
+1 - A Ordem atribui os seguintes títulos de enfermeiro especialista:
+
+a) Enfermeiro especialista em enfermagem de saúde materna e obstétrica;
+
+b) Enfermeiro especialista em enfermagem de saúde infantil e pediátrica;
+
+c) Enfermeiro especialista em enfermagem de saúde mental e psiquiátrica;
+
+d) Enfermeiro especialista em enfermagem de reabilitação;
+
+e) Enfermeiro especialista em enfermagem médico-cirúrgica;
+
+f) Enfermeiro especialista em enfermagem comunitária.
+
+2 - A obtenção do título de especialista é regida por regulamento proposto pelo conselho de enfermagem ao conselho diretivo e aprovado pela assembleia geral.
+
+3 - O regulamento a que se refere o número anterior só produz efeitos após homologação pelo membro do Governo responsável pela área da saúde.
+
+4 - A criação de novas especialidades obedece ao disposto no presente Estatuto.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 41.º — Composição e funcionamento
+
+1 - Cada colégio elege uma mesa, com um presidente e dois secretários, por sufrágio direto, secreto e periódico de entre os membros detentores da respetiva especialidade.
+
+2 - Cada colégio reúne, obrigatoriamente, uma vez por ano, até 1 de fevereiro.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 42.º — Competência
+
+1 - São competências dos colégios das especialidades:
+
+a) Promover o desenvolvimento das relações científicas e profissionais entre os membros da especialidade;
+
+b) Elaborar estudos sobre assuntos específicos da especialidade;
+
+c) Definir as competências específicas da especialidade, a propor ao conselho diretivo;
+
+d) Elaborar os programas formativos da respetiva especialidade, a propor ao conselho diretivo;
+
+e) Acompanhar o exercício profissional especializado, em articulação com os conselhos de enfermagem regionais;
+
+f) Definir padrões de qualidade de cuidados de enfermagem especializados e zelar pela sua observância no exercício profissional;
+
+g) Elaborar e aprovar o seu regimento.
+
+2 - São competências da mesa do colégio:
+
+a) Dirigir os trabalhos do colégio;
+
+b) Dar seguimento às deliberações do colégio;
+
+c) Emitir pareceres, de acordo com o estabelecido no regimento do colégio;
+
+d) Apoiar o conselho diretivo, o conselho jurisdicional e o conselho de enfermagem nos assuntos profissionais relativos aos cuidados de enfermagem especializados;
+
+e) Designar uma comissão de apoio técnico, constituída por cinco membros da especialidade respetiva, um por secção regional, destinada a prestar assessoria técnica e científica no âmbito da competência de emissão de pareceres e no acompanhamento do exercício profissional, a propor ao conselho diretivo para nomeação;
+
+f) Elaborar um relatório bienal sobre o estado do desenvolvimento da especialidade e recomendações;
+
+g) Elaborar e aprovar o seu regimento interno.
+
+3 - Os presidentes das mesas dos colégios das especialidades integram as comissões previstas no n.º 3 do artigo 38.º
+
+4 - Os presidentes das mesas dos colégios podem delegar competências em qualquer um dos secretários.
+
+5 - Os pareceres nas áreas científica e técnica são vinculativos.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+##### Subsecção X — Do provedor dos destinatários dos serviços de enfermagem
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 43.º-A — Provedor dos destinatários dos serviços de enfermagem
+
+1 - O provedor dos destinatários dos serviços de enfermagem é uma personalidade independente, não inscrita como membro na Ordem.
+
+2 - O provedor dos destinatários dos serviços de enfermagem é designado pelo bastonário sob proposta do conselho de supervisão.
+
+3 - O provedor dos destinatários dos serviços de enfermagem apenas pode ser destituído por falta grave no exercício das suas funções.
+
+4 - As funções de provedor dos destinatários dos serviços de enfermagem são remuneradas em termos a definir por regulamento.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 43.º-B — Competências do provedor dos destinatários dos serviços de enfermagem
+
+1 - Compete ao provedor dos destinatários dos serviços de enfermagem:
+
+a) Defender os interesses dos destinatários dos serviços de enfermagem;
+
+b) Analisar as queixas apresentadas pelos destinatários dos serviços de enfermagem e emitir recomendações para a sua resolução;
+
+c) Emitir recomendações para o aperfeiçoamento do desempenho da Ordem.
+
+2 - O provedor dos destinatários dos serviços de enfermagem tem legitimidade para impugnar a legalidade dos atos e regulamentos da Ordem.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+#### Secção II — Órgãos regionais
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+##### Subsecção I — A assembleia regional
+
+###### Artigo 44.º — Composição e competência
+
+1 - A assembleia regional é constituída por todos os membros efetivos da Ordem inscritos na secção regional, com cédula profissional válida e no pleno gozo e exercício dos seus direitos.
+
+2 - Compete à assembleia regional:
+
+a) Aprovar o plano de atividades e o orçamento apresentados pelo conselho diretivo regional;
+
+b) Aprovar o relatório e contas apresentados pelo conselho diretivo regional;
+
+c) Deliberar sobre assuntos de âmbito regional;
+
+d) Apreciar a atividade dos órgãos regionais e aprovar moções e recomendações de caráter profissional e associativo de âmbito regional;
+
+e) Aprovar os regulamentos necessários ao exercício das competências dos órgãos regionais;
+
+f) Pronunciar-se sobre todos os assuntos que não estejam compreendidos nas competências dos outros órgãos regionais e que lhe sejam apresentados pelo conselho diretivo regional;
+
+g) Elaborar e aprovar o seu regimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 45.º — Funcionamento
+
+1 - As assembleias regionais reúnem, ordinariamente, uma vez por ano, até 1 de março, em data anterior à data da reunião ordinária do conselho nacional de enfermeiros prevista no n.º 1 do artigo 20.º, para o exercício das competências previstas no artigo anterior, em data a definir pelo presidente da mesa da assembleia regional.
+
+2 - As assembleias regionais reúnem, extraordinariamente, quando os superiores interesses da Ordem a nível regional o aconselhem, por iniciativa do presidente da assembleia regional, do presidente do conselho diretivo regional, do presidente do conselho fiscal regional ou quando requerida nos termos da alínea d) do n.º 3 do artigo 20.º
+
+3 - As assembleias regionais são dirigidas por uma mesa constituída por um presidente e dois secretários, eleitos por sufrágio universal, direto, secreto e periódico pelos membros efetivos da Ordem inscritos na respetiva secção regional.
+
+4 - As assembleias regionais só podem deliberar validamente sobre matérias da sua competência e que se enquadrem dentro das finalidades da Ordem.
+
+5 - As deliberações das assembleias regionais têm a natureza de recomendações e não vinculam a Ordem enquanto organismo de âmbito nacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+##### Subsecção II — Conselho directivo regional
+
+###### Artigo 46.º — Composição, competência e funcionamento
+
+1 - O conselho diretivo regional das secções regionais é constituído por um presidente, um secretário, um tesoureiro e dois vogais, eleitos por sufrágio universal, direto, secreto e periódico pelos membros efetivos da Ordem inscritos na respetiva secção regional, com cédula profissional válida e no pleno gozo e exercício dos seus direitos.
+
+2 - Compete ao conselho diretivo regional:
+
+a) Promover as atividades da Ordem a nível regional, de acordo com as linhas gerais de atuação definidas pelo conselho diretivo;
+
+b) Representar a secção regional no âmbito das suas competências;
+
+c) Gerir as atividades da secção regional nos termos do presente Estatuto e respetivos regulamentos;
+
+d) Administrar os bens patrimoniais e financeiros que lhe estão confiados e celebrar os negócios jurídicos, de administração ordinária, necessários ao exercício das suas competências;
+
+e) Elaborar e submeter à aprovação da assembleia regional o plano de atividades e o orçamento para cada ano, até 1 de março do ano corrente;
+
+f) Elaborar e submeter à aprovação da assembleia regional o relatório e contas relativos ao ano civil anterior, até 1 de março do ano seguinte;
+
+g) Aceitar os pedidos de inscrição como membro efetivo da Ordem e assegurar os procedimentos regulamentares, no âmbito territorial da respetiva secção regional;
+
+h) Promover o registo dos membros efetivos da Ordem, emitir as cédulas profissionais;
+
+i) Promover a atualização do registo e dos ficheiros dos membros da Ordem;
+
+j) Garantir as condições necessárias à efetivação do processo de certificação individual de competências;
+
+k) Organizar e gerir os serviços administrativos e os recursos humanos;
+
+l) Acompanhar o exercício profissional na área da respetiva secção regional, no que respeita às condições de exercício, de dignidade e de prestígio da profissão;
+
+m) Promover ações disciplinares, através do conselho jurisdicional regional ou do conselho jurisdicional;
+
+n) Enviar anualmente ao conselho diretivo um relatório sobre o exercício profissional na respetiva região;
+
+o) Pronunciar-se sobre todos os assuntos que lhe sejam apresentados, no âmbito das suas competências;
+
+p) Cooperar com todos os órgãos regionais e nacionais na prossecução das atribuições da Ordem;
+
+q) Zelar pela dignidade do exercício profissional e assegurar o respeito pelos direitos, liberdades e garantias dos enfermeiros, a nível regional;
+
+r) Zelar pela qualidade dos cuidados de enfermagem prestados à população e promover as medidas que considere pertinentes a nível regional.
+
+3 - O funcionamento do conselho diretivo regional obedece a regimento por ele elaborado e aprovado pela assembleia regional respetiva, após parecer favorável do conselho jurisdicional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+##### Subsecção III — Conselho jurisdicional regional
+
+###### Artigo 47.º — Composição, competência e funcionamento
+
+1 - O conselho jurisdicional regional é constituído por três membros efetivos da Ordem, eleitos por sufrágio universal, direto e secreto e periódico, pelos membros efetivos da Ordem inscritos na respetiva secção regional, com cédula profissional válida e no pleno gozo e exercício dos seus direitos, sendo o primeiro o presidente.
+
+2 - Compete ao conselho jurisdicional regional instruir os procedimentos disciplinares que respeitem aos membros da respetiva secção, com exceção dos que sejam da competência do conselho jurisdicional.
+
+3 - O funcionamento do conselho jurisdicional regional obedece a regimento por ele elaborado e aprovado pela assembleia regional respetiva, após parecer favorável do conselho jurisdicional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+##### Subsecção IV — Conselho fiscal regional
+
+###### Artigo 48.º — Composição, competência e funcionamento
+
+1 - O conselho fiscal regional é constituído por três membros efetivos da Ordem, eleitos por sufrágio universal, direto, secreto e periódico pelos membros efetivos da Ordem inscritos na respetiva secção regional, com cédula profissional válida e no pleno gozo e exercício dos seus direitos, sendo o primeiro o presidente.
+
+2 - Compete ao conselho fiscal regional:
+
+a) Examinar, pelo menos trimestralmente, a gestão financeira da competência dos conselhos diretivos regionais;
+
+b) Dar parecer sobre o relatório e contas, bem como sobre a proposta de orçamento, apresentados pelos respetivos conselhos diretivos regionais;
+
+c) Participar, sem direito a voto, nas reuniões dos respetivos conselhos diretivos regionais, sempre que estes o considerem conveniente;
+
+d) Fiscalizar as atas lavradas nas reuniões dos conselhos diretivos regionais.
+
+3 - O funcionamento do conselho fiscal regional obedece a regimento por ele elaborado e aprovado pela assembleia regional respetiva, após parecer favorável do conselho jurisdicional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+##### Subsecção V — Conselho de enfermagem regional
+
+###### Artigo 49.º — Composição, competência e funcionamento
+
+1 - O conselho de enfermagem regional é constituído por um presidente e quatro vogais, sendo eleitos por sufrágio universal, direto, secreto e periódico pelos membros efetivos da Ordem inscritos na respetiva secção regional, com cédula profissional válida e no pleno gozo e exercício dos seus direitos.
+
+2 - Os membros do conselho de enfermagem regional referidos no número anterior, se forem especialistas, têm de ser titulares de diferentes especialidades.
+
+3 - Compete ao conselho de enfermagem regional:
+
+a) Promover o desenvolvimento e a valorização científica, técnica, cultural e profissional dos membros a nível regional;
+
+b) Zelar pela observância dos padrões de qualidade dos cuidados de enfermagem e pela qualidade do exercício profissional dos enfermeiros;
+
+c) Estimular a implementação de sistemas de melhoria contínua da qualidade do exercício profissional dos enfermeiros;
+
+d) Acompanhar o exercício profissional na área da respetiva secção regional, no domínio dos cuidados gerais e das especialidades, devendo, no caso destas, solicitar a presença de peritos indicados pelas mesas dos colégios competentes;
+
+e) Acompanhar o desenvolvimento da formação e investigação em enfermagem na área da secção regional;
+
+f) Acompanhar a concretização do processo de certificação individual de competências, na área da respetiva secção regional, nos termos regulamentares.
+
+4 - O funcionamento do conselho de enfermagem regional obedece a regimento por ele elaborado e aprovado pela assembleia regional respetiva, após parecer favorável do conselho jurisdicional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+##### Subsecção VI — Aplicação subsidiária
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 50.º — Norma de aplicação subsidiária
+
+Na falta de regulamentação, aplicam-se aos órgãos regionais as normas estabelecidas para os órgãos nacionais, com as devidas adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+### Capítulo IV — Eleições
+
+#### Secção I — Processo eleitoral
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 51.º — Sufrágio e elegibilidade
+
+1 - As eleições fazem-se por sufrágio universal, direto e secreto e periódico, exercido presencialmente, por correspondência, eletronicamente, ou por outros meios tecnológicos legalmente validados.
+
+2 - São eleitores e podem ser eleitos para os órgãos da Ordem os enfermeiros membros efetivos da Ordem com cédula válida e no pleno gozo e exercício dos seus direitos.
+
+3 - Sem prejuízo do disposto no número anterior, só podem ser eleitos para bastonário, para membros do conselho jurisdicional, para membros do conselho de supervisão e para membros do conselho jurisdicional regional os enfermeiros que possuam, pelo menos, 10 anos de exercício profissional e não tenham sido objeto de aplicação de qualquer sanção disciplinar.
+
+4 - Só podem ser eleitos para vogais do conselho diretivo, do conselho de enfermagem, do conselho diretivo regional e do conselho de enfermagem regional os enfermeiros que possuam, pelo menos, cinco anos de exercício profissional e não tenham sido objeto de aplicação de qualquer sanção disciplinar.
+
+5 - As listas de candidatos aos órgãos eletivos da Ordem devem promover a igualdade entre homens e mulheres, devendo ser compostas de forma que a proporção de pessoas de cada sexo não seja inferior a 40 %, exceto se no universo eleitoral existir uma percentagem de pessoas do sexo menos representado inferior a 20 %.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 52.º — Eleição do bastonário
+
+1 - É eleito bastonário o candidato que obtém metade dos votos mais um, validamente expressos, não se considerando como tal os votos em branco.
+
+2 - Se nenhum dos candidatos obtiver o número de votos referido no número anterior, procede-se a segundo sufrágio até ao 21.º dia subsequente à primeira votação.
+
+3 - Ao sufrágio referido no número anterior concorrem apenas os dois candidatos mais votados que não tenham retirado a candidatura.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 53.º — Apresentação de candidaturas
+
+1 - As candidaturas para os órgãos nacionais e regionais são apresentadas perante o presidente da mesa do conselho nacional de enfermeiros e das assembleias regionais, respetivamente.
+
+2 - As candidaturas para os órgãos nacionais e para os órgãos regionais são apresentadas em lista única.
+
+3 - As candidaturas para os órgãos nacionais e para os órgãos regionais podem ser independentes.
+
+4 - O prazo de apresentação das candidaturas decorre até 1 de outubro do último ano do respetivo mandato.
+
+5 - Cada candidatura para os órgãos nacionais e regionais deve ser subscrita por um mínimo de 250 e 100 membros da Ordem, respetivamente, para os órgãos nacionais e regionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 54.º — Data das eleições
+
+1 - As eleições para os órgãos da Ordem realizam-se entre 1 e 15 de novembro do último ano do quadriénio, na data que for designada pelo presidente do conselho nacional de enfermeiros, sob proposta do presidente do conselho diretivo, ouvidos os presidentes dos conselhos diretivos regionais.
+
+2 - As eleições para os órgãos nacionais e regionais decorrem, em simultâneo, na mesma data.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 55.º — Organização do processo eleitoral
+
+1 - A organização do processo eleitoral compete à mesa do conselho nacional de enfermeiros e às mesas das assembleias regionais, que devem, nomeadamente:
+
+a) Convocar as assembleias eleitorais;
+
+b) Organizar os cadernos eleitorais;
+
+c) Promover a constituição das comissões de fiscalização.
+
+2 - Com a marcação da data das eleições é designada, pela mesa do conselho nacional de enfermeiros, uma comissão eleitoral, constituída por cinco membros efetivos da Ordem, em representação de cada uma das secções regionais.
+
+3 - O presidente da comissão eleitoral é eleito de entre os seus membros.
+
+4 - À comissão eleitoral compete:
+
+a) Confirmar a organização dos cadernos eleitorais;
+
+b) Apreciar as reclamações sobre os cadernos eleitorais;
+
+c) Verificar a regularidade das candidaturas;
+
+d) Garantir a comunicação, por meios idóneos, de informação sobre as candidaturas, designadamente através de meios eletrónicos, nos termos regulamentares;
+
+e) Decidir as reclamações sobre o processo eleitoral;
+
+f) Decidir os recursos sobre o processo eleitoral;
+
+g) Apreciar os relatórios das comissões de fiscalização.
+
+5 - Após as deliberações finais sobre as reclamações e recursos interpostos, cessa o mandato da comissão.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 56.º — Assembleia eleitoral
+
+1 - A assembleia eleitoral funciona em secções de voto, uma em cada secção regional, assumindo as mesas das assembleias regionais funções de mesas de voto.
+
+2 - Quando tal se justifique, a comissão eleitoral pode constituir outras secções de voto, fixando a composição das mesas de voto respetivas por indicação das respetivas mesas das assembleias regionais.
+
+3 - A convocatória da assembleia eleitoral fixa o horário de funcionamento das secções de voto, por um período não inferior a 12 horas.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 57.º — Comissão de fiscalização
+
+1 - Em cada secção regional é constituída uma comissão de fiscalização, constituída pelo presidente da respetiva assembleia regional e por um representante de cada uma das listas concorrentes ou proponentes, a qual inicia funções no dia seguinte ao termo do prazo de apresentação das candidaturas.
+
+2 - Os representantes das listas concorrentes devem ser indicados com a apresentação das respetivas candidaturas.
+
+3 - Os membros das comissões de fiscalização não podem ser candidatos nas eleições nem integrar os órgãos da Ordem.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 58.º — Competência das comissões de fiscalização
+
+Compete às comissões de fiscalização:
+
+a) Fiscalizar o ato eleitoral;
+
+b) Elaborar um relatório das irregularidades detetadas, o qual deve ser enviado às assembleias regionais, e à comissão eleitoral.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 59.º — Campanha eleitoral
+
+A Ordem comparticipa nos encargos da campanha eleitoral de cada lista em montante igual para todas elas, nos termos fixados pelo conselho diretivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 60.º — Recurso
+
+1 - Pode ser deduzida reclamação do ato eleitoral, no prazo de cinco dias úteis, com fundamento em irregularidades, o qual deve ser apresentado à mesa da assembleia regional.
+
+2 - Da decisão da mesa da assembleia regional cabe recurso para a comissão eleitoral.
+
+3 - As reclamações e recursos são decididos no prazo de cinco dias úteis, a contar da data da respetiva apresentação.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 61.º — Proclamação de resultados
+
+1 - Não havendo recursos pendentes, é feita a proclamação das listas vencedoras, no prazo de 10 dias úteis.
+
+2 - São vencedoras as listas que obtenham a maioria dos votos.
+
+3 - As listas vencedoras para os órgãos nacionais são proclamadas pela mesa do conselho nacional de enfermeiros.
+
+4 - As listas vencedoras para os órgãos regionais são proclamadas pelas respetivas mesas das assembleias regionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+#### Secção II — Exercício do mandato
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 62.º — Mandato
+
+1 - Os titulares e membros dos órgãos da Ordem são eleitos para mandatos com a duração de quatro anos, a iniciar em 1 de janeiro e a terminar em 31 de dezembro.
+
+2 - Os titulares e membros dos órgãos da Ordem não podem ser eleitos por mais de dois mandatos consecutivos.
+
+3 - Sempre que se revelar necessário proceder a eleições intercalares para qualquer dos órgãos da Ordem, o respetivo mandato não pode exceder a vigência do mandato dos restantes órgãos.
+
+4 - O mandato finda com a tomada de posse dos novos órgãos eleitos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 63.º — Posse dos membros eleitos
+
+1 - O presidente cessante do conselho nacional de enfermeiros confere posse aos membros eleitos para os órgãos nacionais.
+
+2 - Os presidentes cessantes das assembleias regionais conferem posse aos membros eleitos para os órgãos regionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 64.º — Renúncia ao cargo
+
+Qualquer membro dos órgãos da Ordem pode solicitar ao presidente do conselho jurisdicional a renúncia ao cargo ou a suspensão temporária do exercício das suas funções, por motivos devidamente fundamentados, não podendo o prazo de suspensão ser superior a seis meses.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 65.º — Substituições
+
+1 - No caso de renúncia ou caducidade do mandato, por motivo disciplinar ou por morte, do presidente de qualquer órgão colegial da Ordem, este elege, na primeira reunião ordinária subsequente ao facto, de entre os seus membros, um novo presidente e entra o primeiro membro suplente da respetiva lista.
+
+2 - No caso de renúncia ou caducidade do mandato, por motivo disciplinar ou morte, de vogal de qualquer órgão colegial da Ordem, este é substituído pelo primeiro membro suplente da respetiva lista.
+
+3 - Nos casos previstos nos números anteriores, os substitutos exercem funções até ao termo do mandato em curso.
+
+4 - No caso de suspensão de presidente de qualquer órgão colegial da Ordem, é observado o regime previsto no n.º 1.
+
+5 - No caso de suspensão de vogal de qualquer órgão colegial da Ordem, este é substituído pelo primeiro membro suplente da respetiva lista.
+
+6 - Os membros substitutos dos órgãos da Ordem, quer nos casos de renúncia quer nos casos de suspensão, apenas integram o órgão respetivo e iniciam o exercício das suas funções após a sua chamada por parte do conselho jurisdicional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+### Capítulo V — Regime disciplinar
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+#### Secção I — Disposições gerais
+
+###### Artigo 66.º — Infração disciplinar
+
+1 - Considera-se infração disciplinar toda a ação ou omissão que consista em violação dos deveres consignados na lei, no presente Estatuto ou nos respetivos regulamentos.
+
+2 - A infração disciplinar é:
+
+a) Leve, quando o arguido viole de forma pouco intensa os deveres profissionais a que se encontra adstrito no exercício da profissão, não causando prejuízo ao destinatário dos cuidados nem a terceiro, nem pondo em causa o prestígio da profissão;
+
+b) Grave, quando o arguido viole de forma séria os deveres profissionais a que se encontra adstrito no exercício da profissão, causando prejuízo ao destinatário dos cuidados ou a terceiro, ou pondo em causa o prestígio da profissão, ou ainda quando o comportamento constitua crime punível com pena de prisão até três anos;
+
+c) Muito grave, quando o arguido viole os deveres profissionais a que se encontra adstrito no exercício da profissão, com lesão da vida ou grave lesão da integridade física ou saúde dos destinatários dos cuidados ou grave perigo para a saúde pública, ou ainda quando o comportamento constitua crime punível com pena de prisão superior a três anos.
+
+3 - As infrações disciplinares previstas no presente Estatuto e demais disposições legais e regulamentares aplicáveis são puníveis a título de dolo ou negligência.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 67.º — Jurisdição disciplinar
+
+1 - Os membros da Ordem estão sujeitos ao poder disciplinar dos órgãos da Ordem, nos termos previstos no presente Estatuto e no regulamento disciplinar.
+
+2 - Durante o tempo de suspensão da inscrição o membro da Ordem continua sujeito ao poder disciplinar da Ordem.
+
+3 - O cancelamento da inscrição não faz cessar a responsabilidade disciplinar por infrações anteriormente praticadas.
+
+4 - A punição com a sanção de expulsão não faz cessar a responsabilidade disciplinar do membro da Ordem relativamente às infrações por ele cometidas antes da decisão definitiva que as tenha aplicado.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 68.º — Independência da responsabilidade disciplinar dos membros da Ordem
+
+1 - A responsabilidade disciplinar é independente da responsabilidade civil e criminal decorrente da prática do mesmo facto e coexiste com qualquer outra prevista por lei.
+
+2 - A responsabilidade disciplinar perante a Ordem coexiste com qualquer outra prevista por lei.
+
+3 - Quando, com fundamento nos mesmos factos, tiver sido instaurado processo penal contra membro da Ordem e, para se conhecer da existência de uma infração disciplinar, for necessário julgar qualquer questão que não possa ser convenientemente resolvida no processo disciplinar, pode ser ordenada a suspensão do processo disciplinar durante o tempo em que, por força de decisão jurisdicional ou de apreciação jurisdicional de qualquer questão, a marcha do correspondente processo não possa começar ou continuar a ter lugar.
+
+4 - A suspensão do processo disciplinar, nos termos do número anterior, é comunicada pela Ordem à autoridade judiciária competente, a qual deve ordenar a remessa à Ordem de cópia do despacho de acusação e, se a ele houver lugar, do despacho de pronúncia.
+
+5 - Decorrido o prazo fixado nos termos do n.º 3 sem que a questão tenha sido resolvida, a questão é decidida no processo disciplinar.
+
+6 - Sempre que, em processo penal contra membro da Ordem, for designado dia para a audiência de julgamento, o tribunal deve ordenar a remessa à Ordem, preferencialmente por via eletrónica, do despacho de acusação, do despacho de pronúncia e da contestação, se tiver sido apresentada, bem como quaisquer outros elementos solicitados pela direção ou pelo bastonário.
+
+7 - A responsabilidade disciplinar dos membros perante a Ordem, decorrente da prática de infrações, é independente da responsabilidade disciplinar perante os respetivos empregadores, por violação dos deveres emergentes de relações de trabalho.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 69.º — Responsabilidade disciplinar das sociedades de profissionais e dos profissionais em livre prestação de serviços
+
+1 - As sociedades de profissionais e as sociedades multidisciplinares, bem como os respetivos sócios, estão sujeitas à jurisdição e regime disciplinares da Ordem, nos termos do presente Estatuto e da lei.
+
+2 - Os profissionais que prestam serviços em território nacional em regime de livre prestação são equiparados aos membros da Ordem para efeitos disciplinares, nos termos do n.º 2 do artigo 4.º da Lei n.º 9/2009, de 4 de março, com as especificidades constantes do n.º 10 do artigo 76.º e do regulamento disciplinar.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 70.º — Prescrição do procedimento disciplinar
+
+1 - O procedimento disciplinar extingue-se, por efeito de prescrição, logo que sobre a prática da infração tiver decorrido o prazo de três anos, salvo o disposto no número seguinte.
+
+2 - Se a infração disciplinar constituir simultaneamente infração criminal para a qual a lei estabeleça prescrição sujeita a prazo mais longo, o procedimento disciplinar apenas prescreve após o decurso deste último prazo.
+
+3 - O prazo de prescrição do procedimento disciplinar corre desde o dia em que o facto se tiver consumado.
+
+4 - O prazo de prescrição só corre:
+
+a) Nas infrações instantâneas, desde o momento da sua prática;
+
+b) Nas infrações continuadas, desde o dia da prática do último ato;
+
+c) Nas infrações permanentes, desde o dia em que cessar a consumação.
+
+5 - O procedimento disciplinar também prescreve se, desde o conhecimento pelo órgão competente para a instauração do processo disciplinar ou da participação efetuada nos termos do n.º 1 do artigo 73.º, não for iniciado o correspondente processo disciplinar, no prazo de um ano.
+
+6 - O prazo de prescrição do processo disciplinar suspende-se durante o tempo em que o processo disciplinar estiver suspenso, a aguardar despacho de acusação ou de pronúncia em processo penal.
+
+7 - O prazo de prescrição volta a correr a partir do dia em que cessar a causa da suspensão.
+
+8 - O prazo de prescrição do processo disciplinar, referido nos n.os 1 e 5, interrompe-se com a notificação ao arguido:
+
+a) Da instauração do processo de averiguações ou de processo disciplinar;
+
+b) Da acusação.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+#### Secção II — Do exercício da ação disciplinar
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 71.º — Exercício da ação disciplinar
+
+1 - Têm legitimidade para participar à Ordem factos suscetíveis de constituir infração disciplinar:
+
+a) Qualquer pessoa direta ou indiretamente afetada pelos factos participados;
+
+b) Os titulares dos órgãos da Ordem;
+
+c) O Ministério Público, nos termos do n.º 3;
+
+d) O conselho de supervisão;
+
+e) O provedor dos destinatários dos serviços de enfermagem.
+
+2 - Os tribunais e quaisquer outras autoridades devem dar conhecimento à Ordem da prática, por membros desta, de factos suscetíveis de constituírem infração disciplinar.
+
+3 - O Ministério Público e os órgãos de polícia criminal remetem à Ordem certidão das denúncias, participações ou queixas apresentadas contra membros da Ordem e que possam consubstanciar factos suscetíveis de constituir infração disciplinar.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 72.º — Desistência da participação
+
+A desistência da participação disciplinar pelo participante extingue o processo disciplinar, salvo se a infração imputada afetar a dignidade do membro da Ordem visado e, neste caso, este manifeste intenção de continuação do processo, ou o prestígio da Ordem ou da profissão, em qualquer uma das suas especialidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 73.º — Instauração do processo disciplinar
+
+1 - Qualquer órgão da Ordem, oficiosamente ou tendo por base queixa, denúncia ou participação apresentada por pessoa devidamente identificada, contendo factos suscetíveis de integrarem infração disciplinar do membro da Ordem, comunica, de imediato, os factos ao órgão competente para a instauração de processo disciplinar.
+
+2 - Quando se conclua que a participação é infundada, dela se dá conhecimento ao membro da Ordem visado e são emitidas as certidões que o mesmo entenda necessárias para a tutela dos seus direitos e interesses legítimos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 74.º — Legitimidade processual
+
+As pessoas com interesse direto, pessoal e legítimo relativamente aos factos participados, podem solicitar à Ordem a sua intervenção no processo e requerer e alegar o que tiverem por conveniente.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 75.º — Direito subsidiário
+
+Sem prejuízo do disposto no presente Estatuto, o processo disciplinar rege-se pelo regulamento disciplinar, sendo subsidiariamente aplicáveis as normas procedimentais previstas na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+#### Secção III — Das sanções disciplinares
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 76.º — Aplicação das sanções disciplinares
+
+1 - As sanções disciplinares são as seguintes:
+
+a) Advertência escrita;
+
+b) Censura escrita;
+
+c) Suspensão do exercício profissional até ao máximo de cinco anos;
+
+d) Expulsão.
+
+2 - A sanção de advertência escrita é aplicável a infrações leves, praticadas com negligência.
+
+3 - A sanção de censura escrita é aplicável a infrações leves praticadas com dolo e a infrações graves a que não corresponda sanção de suspensão.
+
+4 - A sanção de suspensão do exercício da atividade profissional até cinco anos é aplicável a infrações graves que afetem a dignidade e o prestígio da profissão, designadamente mediante a lesão da vida, grave lesão da integridade física, saúde ou outros direitos e interesses relevantes de terceiros.
+
+5 - O encobrimento do exercício ilegal da enfermagem é punido com sanção de suspensão nunca inferior a dois anos.
+
+6 - A pena de suspensão do exercício profissional é, ainda, aplicável no caso de infração disciplinar por incumprimento culposo do dever consignado na alínea m) do n.º 1 do artigo 97.º por um período superior a 12 meses.
+
+7 - A aplicação da pena de suspensão, no caso previsto no número anterior, fica prejudicada e extingue-se, por efeito do pagamento voluntário das quotas em dívida, caso tenha sido aplicada.
+
+8 - A sanção de expulsão é aplicável a infrações muito graves.
+
+9 - A aplicação e execução da sanção de suspensão do exercício profissional produz os seus efeitos de modo independente em relação a quaisquer sanções de natureza suspensiva, decorrentes dos mesmos factos que sejam aplicadas noutras sedes jurisdicionais, não sendo os seus efeitos consumidos por estas.
+
+10 - No caso de profissionais em regime de livre prestação de serviços em território nacional, as sanções previstas nos n.os 4 e 8 assumem a forma de interdição temporária ou definitiva do exercício da atividade profissional neste território, consoante os casos, aplicando-se, com as devidas adaptações, o disposto no artigo 94.º
+
+11 - A aplicação de sanção mais grave do que a de advertência escrita, a membro da Ordem que exerça algum cargo nos órgãos da Ordem, determina a imediata destituição desse cargo.
+
+12 - Sempre que a infração resulte da violação de um dever por omissão, o cumprimento das sanções aplicadas não dispensa o arguido do cumprimento daquele, se tal ainda for possível.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 77.º — Graduação
+
+1 - Na aplicação das sanções deve atender-se aos antecedentes profissionais e disciplinares do arguido, ao grau de culpa, à gravidade e às consequências da infração, à situação económica do arguido e a todas as demais circunstâncias agravantes ou atenuantes.
+
+2 - São circunstâncias atenuantes:
+
+a) O exercício efetivo da atividade profissional por um período superior a cinco anos, seguidos ou interpolados, sem a aplicação de qualquer sanção disciplinar;
+
+b) A confissão espontânea da infração ou das infrações;
+
+c) A colaboração do arguido para a descoberta da verdade;
+
+d) A reparação dos danos causados pela conduta lesiva.
+
+3 - São circunstâncias agravantes:
+
+a) A premeditação na prática da infração e na preparação da mesma;
+
+b) O conluio;
+
+c) A reincidência, considerando-se como tal a prática de infração antes de decorrido o prazo de cinco anos após o dia em que se tornar definitiva a condenação por cometimento de infração anterior;
+
+d) A acumulação de infrações, sempre que duas ou mais infrações sejam cometidas no mesmo momento ou quando outra seja cometida antes de ter sido punida a anterior;
+
+e) O facto de a infração ou infrações serem cometidas durante o cumprimento de sanção disciplinar ou no decurso do período de suspensão de sanção disciplinar;
+
+f) A produção de prejuízos de valor considerável, entendendo-se como tal sempre que exceda o valor de metade da alçada dos tribunais da relação.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 78.º — Aplicação de sanções acessórias
+
+1 - Cumulativamente com a aplicação das sanções disciplinares, podem ser aplicadas, a título de sanções acessórias:
+
+a) Perda de honorários;
+
+b) Multa;
+
+c) Publicidade da sanção;
+
+d) Impedimento à participação nas atividades da Ordem e à eleição para os respetivos órgãos.
+
+2 - A aplicação de qualquer das sanções referidas nas alíneas b), c) e d) do n.º 1 do artigo 76.º a um membro de órgão da Ordem implica a demissão do cargo.
+
+3 - A sanção acessória da perda de honorários consiste na devolução dos honorários já recebidos com origem no ato profissional objeto da infração punida ou, no caso de ainda não terem sido pagos, na perda do direito de os receber, só podendo a sanção ser aplicada cumulativamente com a sanção de suspensão até cinco anos.
+
+4 - A sanção de multa consiste no pagamento de um montante até ao máximo de 60 vezes o valor mensal de quotização, devendo ser paga no prazo de 30 dias, a contar da notificação do acórdão em que foi determinada.
+
+5 - A publicidade da sanção consiste na afixação de aviso nos estabelecimentos de saúde, ou publicação em órgãos de comunicação social, de âmbito nacional, regional ou local, da sanção aplicada.
+
+6 - As sanções acessórias podem ser cumuladas entre si.
+
+7 - Na aplicação das sanções acessórias deve atender-se aos critérios previstos no n.º 1 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 79.º — Acumulação de infrações
+
+Sem prejuízo do disposto no presente Estatuto quanto às sanções acessórias, não pode aplicar-se ao mesmo membro da Ordem mais do que uma sanção disciplinar por cada facto punível.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 80.º — Suspensão das sanções
+
+1 - Tendo em consideração o grau de culpa, o comportamento do arguido e as demais circunstâncias da prática da infração, as sanções disciplinares inferiores à expulsão podem ser suspensas por um período compreendido entre um e cinco anos.
+
+2 - Cessa a suspensão da sanção sempre que, relativamente ao membro da Ordem punido, seja proferido despacho de condenação em novo processo disciplinar.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 81.º — Aplicação das sanções de suspensão e expulsão
+
+1 - O procedimento para aplicação das sanções de suspensão superior a dois anos ou de expulsão pode ser sujeito a audiência pública, nos termos previstos no regulamento disciplinar.
+
+2 - As sanções de suspensão por período superior a dois anos ou de expulsão só podem ser aplicadas por deliberação que reúna a maioria qualificada de dois terços dos membros do órgão disciplinarmente competente.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 82.º — Execução das sanções
+
+1 - Compete ao presidente do conselho diretivo regional dar execução às decisões proferidas em sede de processo disciplinar, designadamente, praticar os atos necessários à efetiva suspensão ou ao cancelamento da inscrição dos membros da Ordem a quem sejam aplicadas as sanções de suspensão e de expulsão, respetivamente.
+
+2 - A aplicação de sanção de suspensão ou de expulsão implica a proibição temporária ou definitiva, respetivamente, da prática de qualquer ato profissional e a entrega da cédula profissional na sede da Ordem ou na secção regional em que o arguido tenha o seu domicílio profissional, nos casos aplicáveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 83.º — Início de produção de efeitos das sanções disciplinares
+
+1 - As sanções disciplinares iniciam a produção dos seus efeitos no dia seguinte àquele em que a decisão se torne definitiva.
+
+2 - Se, na data em que a decisão se torna definitiva, estiver suspensa a inscrição do arguido por motivos não disciplinares, o cumprimento da sanção disciplinar de suspensão tem início no dia seguinte ao do levantamento da suspensão.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 84.º — Prazo para pagamento da multa
+
+1 - As multas aplicadas nos termos da alínea b) do n.º 1 do artigo 78.º devem ser pagas no prazo de 30 dias, a contar do início de produção de efeitos da sanção respetiva.
+
+2 - Ao membro da Ordem que não pague a multa no prazo referido no número anterior é suspensa a sua inscrição, mediante deliberação do plenário do conselho jurisdicional, que lhe é comunicada.
+
+3 - A suspensão só pode ser levantada após o pagamento da importância em dívida.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 85.º — Comunicação e publicidade
+
+1 - A aplicação de qualquer das sanções previstas nas alíneas c) e d) do n.º 1 do artigo 76.º é comunicada pelo conselho diretivo regional à entidade empregadora, à sociedade de profissionais ou organização associativa por conta da qual o arguido prestava serviços à data dos factos.
+
+2 - A aplicação de qualquer das sanções previstas nas alíneas c) e d) do n.º 1 do artigo 76.º é comunicada pelo conselho diretivo às autoridades competentes noutro Estado membro da União Europeia ou do Espaço Económico Europeu para o controlo da atividade do arguido estabelecido nesse mesmo Estado membro.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 86.º — Prescrição das sanções disciplinares
+
+As sanções disciplinares prescrevem nos prazos seguintes, a contar da data em que a decisão se tornou inimpugnável:
+
+a) Dois anos, as de advertência e censura escrita;
+
+b) Cinco anos, as de suspensão e de expulsão.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 87.º — Condenação em processo criminal
+
+1 - Sempre que em processo criminal seja imposta a proibição de exercício da profissão durante período de tempo determinado, este é deduzido à sanção disciplinar de suspensão que, pela prática dos mesmos factos, vier a ser aplicada ao membro da Ordem.
+
+2 - A condenação de um membro da Ordem em processo criminal é comunicada a esta entidade, para efeitos de averbamento no respetivo registo disciplinar.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+#### Secção IV — Do processo
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 88.º — Obrigatoriedade
+
+A aplicação de uma sanção disciplinar é sempre precedida do apuramento dos factos e da responsabilidade disciplinar em processo próprio, nos termos previstos no presente Estatuto e no regulamento disciplinar.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 89.º — Formas do processo
+
+1 - A ação disciplinar comporta as seguintes formas:
+
+a) Processo de averiguações;
+
+b) Processo disciplinar.
+
+2 - O processo de averiguações é aplicável quando não seja possível identificar claramente a existência de uma infração disciplinar ou o respetivo infrator, impondo-se a realização de diligências sumárias para o esclarecimento ou a concretização dos factos em causa.
+
+3 - Aplica-se o processo disciplinar sempre que existam indícios de que determinado membro da Ordem praticou factos devidamente concretizados, suscetíveis de constituir infração disciplinar.
+
+4 - Depois de averiguada a identidade do infrator ou logo que se mostrem minimamente concretizados ou esclarecidos os factos participados, sendo eles suscetíveis de constituir infração disciplinar, é proposta a imediata conversão do processo de averiguações em processo disciplinar, mediante parecer sucintamente fundamentado.
+
+5 - Quando a participação seja manifestamente inviável ou infundada, deve a mesma ser liminarmente arquivada, dando-se cumprimento ao disposto no n.º 2 do artigo 73.º
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 90.º — Processo disciplinar
+
+1 - O processo disciplinar é regulado no regulamento disciplinar.
+
+2 - O processo disciplinar é composto pelas seguintes fases:
+
+a) Instrução;
+
+b) Defesa do arguido;
+
+c) Decisão;
+
+d) Execução.
+
+3 - Independentemente da fase do processo disciplinar, são asseguradas ao arguido todas as garantias de defesa, nos termos gerais de direito.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 91.º — Suspensão preventiva
+
+1 - Após a audição do arguido, ou se este, tendo sido notificado, não comparecer para ser ouvido, pode ser ordenada a sua suspensão preventiva, mediante deliberação tomada por maioria qualificada de dois terços dos membros do plenário do conselho jurisdicional.
+
+2 - A suspensão a que se refere o número anterior só pode ser decretada nos casos em que haja indícios da prática de infração disciplinar à qual corresponda uma das sanções previstas nas alíneas c) e d) do n.º 1 do artigo 76.º
+
+3 - A suspensão preventiva não pode exceder três meses e é sempre descontada na sanção de suspensão.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 92.º — Natureza secreta do processo
+
+1 - O processo é de natureza secreta até ao despacho de acusação ou de arquivamento.
+
+2 - O relator pode, todavia, autorizar a consulta do processo pelo arguido, pelo participante, ou pelos interessados, quando daí não resulte inconveniente para a instrução e sob condição de não ser divulgado o que dele conste.
+
+3 - O arguido ou o interessado, quando membro da Ordem, que não respeite a natureza secreta do processo incorre em responsabilidade disciplinar.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+#### Secção V — Das garantias
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 93.º — Deliberações recorríveis
+
+1 - Das deliberações tomadas em matéria disciplinar cabe recurso para o plenário do conselho jurisdicional, quando seja este o órgão disciplinarmente competente.
+
+2 - Das demais deliberações tomadas em matéria disciplinar, de que não caiba recurso nos termos do número anterior, cabe recurso administrativo, nos termos gerais de direito.
+
+3 - As decisões de mero expediente ou relativas à disciplina dos trabalhos não são passíveis de recurso nos termos dos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 94.º — Reabilitação profissional
+
+Os membros da Ordem aos quais tenham sido aplicada a sanção de expulsão, podem ser sujeitos a processo de reabilitação, desde que se verifiquem, cumulativamente, os seguintes requisitos:
+
+a) Tenham decorrido 10 anos sobre a data em que se tornou definitiva a decisão que aplicou a sanção de expulsão;
+
+b) O interessado formalize pedido de reabilitação ao presidente do conselho jurisdicional;
+
+c) O interessado tenha revelado uma conduta pessoal exemplar, que deve ser comprovada através dos meios de prova admissíveis em direito;
+
+d) O conselho jurisdicional emita, após o decurso do prazo previsto na alínea a), parecer quanto à honorabilidade pessoal e profissional e possibilidade do expulso ser sujeito a processo de reabilitação.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+### Capítulo VI — Deontologia profissional
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 95.º — Disposição geral
+
+Todos os enfermeiros membros da Ordem têm os direitos e os deveres decorrentes do presente Estatuto e da legislação em vigor, nos termos dos artigos seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 96.º — Direitos dos membros
+
+1 - Constituem direitos dos membros efetivos da Ordem:
+
+a) Exercer livremente a profissão, sem qualquer tipo de limitações, a não ser as decorrentes do código deontológico, das leis vigentes e do regulamento do exercício da enfermagem;
+
+b) Usar os títulos profissionais que lhe sejam atribuídos;
+
+c) Participar nas atividades da Ordem;
+
+d) Intervir nas assembleias regionais;
+
+e) Consultar as atas das assembleias regionais e do conselho nacional de enfermeiros;
+
+f) Requerer a convocação de assembleias regionais;
+
+g) Eleger e ser eleito para os órgãos da Ordem;
+
+h) Utilizar os serviços da Ordem.
+
+2 - Constituem ainda direitos dos membros efetivos da Ordem:
+
+a) Ser ouvido na elaboração e aplicação da legislação relativa à profissão;
+
+b) O respeito pelas suas convicções políticas, religiosas, ideológicas e filosóficas;
+
+c) Usufruir de condições de trabalho que garantam o respeito pela deontologia da profissão e pelo direito dos cidadãos a cuidados de enfermagem de qualidade;
+
+d) As condições de acesso à formação para atualização e aperfeiçoamento profissional;
+
+e) A objeção de consciência;
+
+f) A informação sobre os aspetos relacionados com o diagnóstico clínico, tratamento e bem-estar dos indivíduos, famílias e comunidades ao seu cuidado;
+
+g) Beneficiar da atividade editorial da Ordem;
+
+h) Reclamar e recorrer das deliberações dos órgãos da Ordem contrárias ao disposto no presente Estatuto, nos regulamentos e na demais legislação aplicável;
+
+i) Participar na vida da Ordem, nomeadamente nos seus grupos de trabalho;
+
+j) Solicitar a intervenção da Ordem na defesa dos seus direitos e interesses profissionais, para garantia da sua dignidade e da qualidade dos serviços de enfermagem.
+
+3 - Constituem direitos dos membros honorários e correspondentes da Ordem:
+
+a) Participar nas atividades da Ordem;
+
+b) Intervir, sem direito a voto, no conselho nacional de enfermeiros e nas assembleias regionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 97.º — Deveres em geral
+
+1 - Os membros efetivos da Ordem estão obrigados a:
+
+a) Exercer a profissão com os adequados conhecimentos científicos e técnicos, com o respeito pela vida, pela dignidade humana e pela saúde e bem-estar da população, adotando todas as medidas que visem melhorar a qualidade dos cuidados e serviços de enfermagem;
+
+b) Cumprir e zelar pelo cumprimento da legislação referente ao exercício da profissão;
+
+c) Guardar e zelar pelos registos de enfermagem realizados no âmbito do exercício profissional liberal, pelo período de cinco anos;
+
+d) O cumprimento das convenções e recomendações internacionais que lhes sejam aplicáveis e que tenham sido, respetivamente, ratificadas ou adotadas pelos órgãos de soberania competentes;
+
+e) Exercer os cargos para que tenham sido eleitos ou nomeados e cumprir os respetivos mandatos;
+
+f) Colaborar em todas as iniciativas que sejam de interesse e prestígio para a profissão;
+
+g) Contribuir para a dignificação da profissão;
+
+h) Participar e colaborar na prossecução das finalidades da Ordem;
+
+i) Cumprir as obrigações emergentes do presente Estatuto, do código deontológico e demais legislação aplicável;
+
+j) Comunicar os factos de que tenham conhecimento e possam comprometer a dignidade da profissão ou a saúde dos indivíduos ou sejam suscetíveis de violar as normas legais do exercício da profissão;
+
+k) Comunicar o extravio da cédula profissional, no prazo de cinco dias úteis;
+
+l) Comunicar a mudança e o novo endereço do domicílio profissional e da residência habitual, no prazo de 30 dias úteis;
+
+m) Pagar a quotização mensal e as taxas em vigor;
+
+n) Frequentar ações de qualificação profissional, a promover pela Ordem ou por esta reconhecidas, nos termos a fixar em regulamento de qualificação.
+
+2 - Os membros honorários e correspondentes da Ordem estão obrigados a:
+
+a) Cumprir as disposições do presente Estatuto e dos regulamentos estabelecidos pela Ordem;
+
+b) Participar na prossecução das finalidades da Ordem;
+
+c) Contribuir para a dignificação da Ordem e da profissão;
+
+d) Prestar a comissões e grupos de trabalho a colaboração que lhes for solicitada.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 98.º — Incompatibilidades e impedimentos
+
+1 - O exercício da profissão de enfermeiro é incompatível com a titularidade dos cargos e o exercício das atividades seguintes:
+
+a) Delegado de informação médica e de comercialização de produtos médicos ou sócio ou gerente de empresa com essa atividade;
+
+b) Farmacêutico, técnico de farmácia ou proprietário, sócio ou gerente de empresa proprietária de farmácia;
+
+c) Proprietário, sócio ou gerente de empresa proprietária de laboratório de análises clínicas, de preparação de produtos farmacêuticos ou de equipamentos técnico-sanitários;
+
+d) Proprietário, sócio ou gerente de empresa proprietária de agência funerária;
+
+e) Quaisquer outras que, por lei, sejam consideradas incompatíveis com o exercício da enfermagem.
+
+2 - É incompatível com a titularidade de membro dos órgãos da Ordem:
+
+a) O exercício de funções dirigentes na Administração Pública;
+
+b) A titularidade de cargos em órgãos sociais de sindicatos ou associações de enfermagem;
+
+c) A titularidade de cargos em órgãos sociais de associações patronais que interajam com a enfermagem;
+
+d) O exercício de quaisquer funções dirigentes superiores em estabelecimentos de ensino superior público e privado de enfermagem ou área equiparada;
+
+e) Qualquer outra função relativamente à qual se verifique manifesto conflito de interesses, a qual é avaliada pelo conselho de supervisão.
+
+3 - Constituem exceções ao disposto no número anterior, os cargos de gestão e direção de enfermagem e os cargos dirigentes em instituições de ensino superior.
+
+4 - Os membros da Ordem que fiquem em situação de incompatibilidade ou de impedimento, nos termos dos números anteriores, devem requerer a suspensão da sua inscrição no prazo máximo de 30 dias, a contar da data em que se verifique qualquer uma dessas situações.
+
+5 - Não sendo os factos comunicados à Ordem no prazo de 30 dias, pode o conselho jurisdicional regional propor a suspensão da inscrição.
+
+6 - O exercício de funções executivas, disciplinares, de fiscalização e de supervisão em órgãos da Ordem é incompatível entre si.
+
+7 - O exercício de cargo na Ordem é incompatível com o exercício de quaisquer funções dirigentes na função pública e com qualquer outra função com a qual se verifique um manifesto conflito de interesses, designadamente a titularidade de órgãos sociais em associações sindicais ou patronais do setor da saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 99.º — Princípios gerais
+
+1 - As intervenções de enfermagem são realizadas com a preocupação da defesa da liberdade e da dignidade da pessoa humana e do enfermeiro.
+
+2 - São valores universais a observar na relação profissional:
+
+a) A igualdade;
+
+b) A liberdade responsável, com a capacidade de escolha, tendo em atenção o bem comum;
+
+c) A verdade e a justiça;
+
+d) O altruísmo e a solidariedade;
+
+e) A competência e o aperfeiçoamento profissional.
+
+3 - São princípios orientadores da atividade dos enfermeiros:
+
+a) A responsabilidade inerente ao papel assumido perante a sociedade;
+
+b) O respeito pelos direitos humanos na relação com os destinatários dos cuidados;
+
+c) A excelência do exercício na profissão em geral e na relação com outros profissionais.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 100.º — Dos deveres deontológicos em geral
+
+O enfermeiro assume o dever de:
+
+a) Cumprir as normas deontológicas e as leis que regem a profissão;
+
+b) Responsabilizar-se pelas decisões que toma e pelos atos que pratica ou delega;
+
+c) Proteger e defender a pessoa humana das práticas que contrariem a lei, a ética ou o bem comum, sobretudo quando carecidas de indispensável competência profissional;
+
+d) Ser solidário com a comunidade, de modo especial, em caso de crise ou catástrofe, atuando sempre de acordo com a sua área de competência;
+
+e) Assegurar a atualização permanente dos seus conhecimentos, designadamente através da frequência de ações de qualificação profissional.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 111/2009 - Diário da República n.º 180/2009, Série I de 2009-09-16](https://diariodarepublica.pt/dr/detalhe/lei/111-2009-490239), em vigor a partir de 2010-01-01
+
+###### Artigo 101.º — Do dever para com a comunidade
+
+O enfermeiro, sendo responsável para com a comunidade na promoção da saúde e na resposta adequada às necessidades em cuidados de enfermagem, assume o dever de:
+
+a) Conhecer as necessidades da população e da comunidade em que está profissionalmente inserido;
+
+b) Participar na orientação da comunidade na busca de soluções para os problemas de saúde detetados;
+
+c) Colaborar com outros profissionais em programas que respondam às necessidades da comunidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 102.º — Dos valores humanos
+
+O enfermeiro, no seu exercício, observa os valores humanos pelos quais se regem o indivíduo e os grupos em que este se integra e assume o dever de:
+
+a) Cuidar da pessoa sem qualquer discriminação económica, social, política, étnica, ideológica ou religiosa;
+
+b) Salvaguardar os direitos das crianças, protegendo-as de qualquer forma de abuso;
+
+c) Salvaguardar os direitos da pessoa idosa, promovendo a sua independência física, psíquica e social e o autocuidado, com o objetivo de melhorar a sua qualidade de vida;
+
+d) Salvaguardar os direitos da pessoa com deficiência e colaborar ativamente na sua reinserção social;
+
+e) Abster-se de juízos de valor sobre o comportamento da pessoa e não lhe impor os seus próprios critérios e valores no âmbito da consciência e da filosofia de vida;
+
+f) Respeitar e fazer respeitar as opções políticas, culturais, morais e religiosas da pessoa e criar condições para que ela possa exercer, nestas áreas, os seus direitos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 103.º — Dos direitos à vida e à qualidade de vida
+
+O enfermeiro, no respeito do direito da pessoa à vida durante todo o ciclo vital, assume o dever de:
+
+a) Atribuir à vida de qualquer pessoa igual valor, pelo que protege e defende a vida humana em todas as circunstâncias;
+
+b) Respeitar a integridade biopsicossocial, cultural e espiritual da pessoa;
+
+c) Participar nos esforços profissionais para valorizar a vida e a qualidade de vida;
+
+d) Recusar a participação em qualquer forma de tortura, tratamento cruel, desumano ou degradante.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 104.º — Do direito ao cuidado
+
+O enfermeiro, no respeito do direito ao cuidado na saúde ou doença, assume o dever de:
+
+a) Corresponsabilizar-se pelo atendimento do indivíduo em tempo útil, de forma a não haver atrasos no diagnóstico da doença e respetivo tratamento;
+
+b) Orientar o indivíduo para o profissional de saúde adequado para responder ao problema, quando o pedido não seja da sua área de competência;
+
+c) Respeitar e possibilitar ao indivíduo a liberdade de opção de ser cuidado por outro enfermeiro, quando tal opção seja viável e não ponha em risco a sua saúde;
+
+d) Assegurar a continuidade dos cuidados, registando com rigor as observações e as intervenções realizadas;
+
+e) Manter-se no seu posto de trabalho enquanto não for substituído, quando a sua ausência interferir na continuidade de cuidados.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 105.º — Do dever de informação
+
+No respeito pelo direito à autodeterminação, o enfermeiro assume o dever de:
+
+a) Informar o indivíduo e a família no que respeita aos cuidados de enfermagem;
+
+b) Respeitar, defender e promover o direito da pessoa ao consentimento informado;
+
+c) Atender com responsabilidade e cuidado todo o pedido de informação ou explicação feito pelo indivíduo em matéria de cuidados de enfermagem;
+
+d) Informar sobre os recursos a que a pessoa pode ter acesso, bem como sobre a maneira de os obter.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 106.º — Do dever de sigilo
+
+1 - O enfermeiro está obrigado a guardar segredo profissional sobre o que toma conhecimento no exercício da sua profissão, assumindo o dever de:
+
+a) Considerar confidencial toda a informação acerca do alvo de cuidados e da família, qualquer que seja a fonte;
+
+b) Partilhar a informação pertinente só com aqueles que estão implicados no plano terapêutico, usando como critérios orientadores o bem-estar, a segurança física, emocional e social do indivíduo e família, assim como os seus direitos;
+
+c) Divulgar informação confidencial acerca do alvo de cuidados e da família só nas situações previstas na lei, devendo, para o efeito, recorrer a aconselhamento deontológico e jurídico;
+
+d) Manter o anonimato da pessoa sempre que o seu caso for usado em situações de ensino, investigação ou controlo da qualidade de cuidados.
+
+2 - Não podem fazer prova em juízo as declarações prestadas pelo enfermeiro em violação do sigilo profissional, ressalvado o disposto nos artigos 135.º do Código de Processo Penal e 417.º do Código de Processo Civil.
+
+3 - O disposto no número seguinte aplica-se, com as necessárias adaptações, às declarações prestadas pelo enfermeiro em violação do sigilo profissional fora de juízo.
+
+4 - O enfermeiro apenas pode revelar factos sobre os quais tome conhecimento no exercício da sua profissão após autorização do presidente do conselho jurisdicional, nos termos previstos no regulamento do conselho jurisdicional.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 107.º — Do respeito pela intimidade
+
+Atendendo aos sentimentos de pudor e interioridade inerentes à pessoa, o enfermeiro assume o dever de:
+
+a) Respeitar a intimidade da pessoa e protegê-la de ingerência na sua vida privada e na da sua família;
+
+b) Salvaguardar sempre, no exercício das suas funções e na supervisão das tarefas que delega, a privacidade e a intimidade da pessoa.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 108.º — Do respeito pela pessoa em situação de fim de vida
+
+O enfermeiro, ao acompanhar a pessoa nas diferentes etapas de fim de vida, assume o dever de:
+
+a) Defender e promover o direito da pessoa à escolha do local e das pessoas que deseja que o acompanhem em situação de fim de vida;
+
+b) Respeitar e fazer respeitar as manifestações de perda expressas pela pessoa em situação de fim de vida, pela família ou pessoas que lhe sejam próximas;
+
+c) Respeitar e fazer respeitar o corpo após a morte.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 109.º — Da excelência do exercício
+
+O enfermeiro procura, em todo o ato profissional, a excelência do exercício, assumindo o dever de:
+
+a) Analisar regularmente o trabalho efetuado e reconhecer eventuais falhas que mereçam mudança de atitude;
+
+b) Procurar adequar as normas de qualidade dos cuidados às necessidades concretas da pessoa;
+
+c) Manter a atualização contínua dos seus conhecimentos e utilizar de forma competente as tecnologias, sem esquecer a formação permanente e aprofundada nas ciências humanas;
+
+d) Assegurar, por todos os meios ao seu alcance, as condições de trabalho que permitam exercer a profissão com dignidade e autonomia, comunicando, através das vias competentes, as deficiências que prejudiquem a qualidade de cuidados;
+
+e) Garantir a qualidade e assegurar a continuidade dos cuidados das atividades que delegar, assumindo a responsabilidade pelos mesmos;
+
+f) Abster-se de exercer funções sob influência de substâncias suscetíveis de produzir perturbação das faculdades físicas ou mentais.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 110.º — Da humanização dos cuidados
+
+O enfermeiro, sendo responsável pela humanização dos cuidados de enfermagem, assume o dever de:
+
+a) Dar, quando presta cuidados, atenção à pessoa como uma totalidade única, inserida numa família e numa comunidade;
+
+b) Contribuir para criar o ambiente propício ao desenvolvimento das potencialidades da pessoa.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 111.º — Dos deveres para com a profissão
+
+Artigo 111.º
+
+Dos deveres para com a profissão
+
+Consciente de que a sua ação se repercute em toda a profissão, o enfermeiro assume o dever de:
+
+a) Manter no desempenho das suas atividades, em todas as circunstâncias, um padrão de conduta pessoal que dignifique a profissão;
+
+b) Ser solidário com os outros membros da profissão em ordem à elevação do nível profissional;
+
+c) Proceder com correção e urbanidade, abstendo-se de qualquer crítica pessoal ou alusão depreciativa a colegas ou a outros profissionais;
+
+d) Abster-se de receber benefícios ou gratificações além das remunerações a que tenha direito;
+
+e) Recusar a participação em atividades publicitárias de produtos farmacêuticos e equipamentos técnico-sanitários.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 112.º — Dos deveres para com outras profissões
+
+O enfermeiro assume, como membro da equipa de saúde, o dever de:
+
+a) Atuar responsavelmente na sua área de competência e reconhecer a especificidade das outras profissões de saúde, respeitando os limites impostos pela área de competência de cada uma;
+
+b) Trabalhar em articulação com os restantes profissionais de saúde;
+
+c) Integrar a equipa de saúde, em qualquer serviço em que trabalhe, colaborando, com a responsabilidade que lhe é própria, nas decisões sobre a promoção da saúde, a prevenção da doença, o tratamento e recuperação, promovendo a qualidade dos serviços.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 113.º — Da objeção de consciência
+
+1 - O enfermeiro, no exercício do seu direito de objetor de consciência, assume o dever de:
+
+a) Proceder segundo os regulamentos internos da Ordem que regem os comportamentos do objetor, de modo a não prejudicar os direitos das pessoas;
+
+b) Declarar, atempadamente, a sua qualidade de objetor de consciência, para que sejam assegurados, no mínimo indispensável, os cuidados a prestar;
+
+c) Respeitar as convicções pessoais, filosóficas, ideológicas ou religiosas da pessoa e dos outros membros da equipa de saúde.
+
+2 - O enfermeiro não pode sofrer qualquer prejuízo pessoal ou profissional pelo exercício do seu direito à objeção de consciência
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+### Capítulo VII — Receitas, despesas e fundos da Ordem
+
+###### Artigo 114.º — Autonomia patrimonial e financeira
+
+A Ordem dispõe de autonomia patrimonial e financeira.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 115.º — Receitas da Ordem a nível nacional
+
+Constituem receitas da Ordem, a nível nacional:
+
+a) A percentagem do produto das taxas de inscrição ou outras, fixada através de regulamento a aprovar pelo conselho de supervisão;
+
+b) A percentagem do montante das quotizações mensais dos seus membros, fixada através de regulamento a aprovar pelo conselho nacional de enfermeiros;
+
+c) O produto da atividade editorial;
+
+d) O produto da prestação de serviços e outras atividades;
+
+e) O produto de heranças, legados, donativos e subsídios;
+
+f) Os patrocínios;
+
+g) As multas;
+
+h) Os rendimentos dos bens que lhe estejam afetos;
+
+i) Os juros de contas de depósito;
+
+j) Quaisquer outras receitas que lhe sejam atribuídas por lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 116.º — Receitas das secções regionais
+
+Constituem receitas das secções regionais:
+
+a) A percentagem do produto das taxas de inscrição ou outras afetas à respetiva secção regional, fixada em conselho de supervisão;
+
+b) A percentagem do montante das quotizações mensais dos membros da Ordem inscritos na respetiva secção regional, fixado em conselho nacional de enfermeiros;
+
+c) O produto das atividades de âmbito regional desenvolvidas pelos respetivos serviços;
+
+d) Os patrocínios referente a atividades regionais;
+
+e) O rendimento dos bens móveis e imóveis da Ordem afetos à secção regional;
+
+f) Os juros de contas de depósito, afetas à secção regional;
+
+g) Quaisquer outras receitas que lhe sejam atribuídas por lei ou por deliberação do conselho nacional de enfermeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 117.º — Despesas da Ordem
+
+São despesas da Ordem as relativas à instalação, ao pessoal, à manutenção, ao funcionamento e todas as demais necessárias à prossecução das suas atribuições.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 118.º — Constituição do fundo de reserva
+
+1 - É constituído um fundo de reserva, representado em dinheiro depositado, correspondendo a 10 % do saldo anual das contas de gerência.
+
+2 - O fundo de reserva destina-se a fazer face a despesas extraordinárias.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 119.º — Encerramento das contas
+
+As contas da Ordem são encerradas a 31 de dezembro de cada ano.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 120.º — Cobrança de receitas
+
+A cobrança dos créditos resultantes do não pagamento de quotização e de taxas decorrentes de prestação de serviços, segue o regime jurídico do processo de execução tributária.
+
+> Revogado pelo/a Artigo 6.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+### Capítulo VIII — Balcão único e transparência da informação
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 121.º — Balcão único
+
+1 - Todos os pedidos, comunicações e notificações entre a Ordem e profissionais, sociedades de enfermeiros ou outras organizações associativas de profissionais, com exceção dos relativos a procedimentos disciplinares, são realizados por meios eletrónicos, através do balcão único eletrónico dos serviços, referido nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do sítio na Internet da Ordem.
+
+2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em apreço pode ser feita por entrega nos serviços da Ordem, por remessa pelo correio sob registo, por telecópia ou por correio eletrónico.
+
+3 - A apresentação de documentos em forma simples, nos termos dos números anteriores, dispensa a remessa dos documentos originais, autênticos, autenticados ou certificados, sem prejuízo do disposto na alínea a) do n.º 3 e nos n.os 4 e 5 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+4 - É ainda aplicável aos procedimentos referidos no presente artigo, o disposto nas alíneas d) e e) do artigo 5.º e no n.º 1 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 122.º — Informação na Internet
+
+Para além da informação prevista no artigo 23.º da Lei n.º 2/2013, de 10 de janeiro, no n.º 3 do artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no n.º 4 do artigo 19.º da Diretiva 2000/31/CE, do Parlamento Europeu e do Conselho, de 8 de junho de 2000, a Ordem deve disponibilizar ao público em geral, através do seu sítio eletrónico na Internet, as seguintes informações:
+
+a) Regime de acesso e exercício da profissão;
+
+b) Princípios e regras deontológicos e normas técnicas aplicáveis aos seus membros;
+
+c) Procedimento de apresentação de queixa ou reclamações pelos destinatários relativamente aos serviços prestados pelos profissionais no âmbito da sua atividade;
+
+d) Ofertas de emprego na Ordem;
+
+e) Registo atualizado dos membros, da qual consta:
+
+i) O nome, o domicílio profissional e o número de carteira ou cédula profissionais;
+
+ii) A designação do título e das especialidades profissionais;
+
+iii) A situação de suspensão ou interdição temporária do exercício da atividade, se for caso disso;
+
+f) Registo atualizado dos profissionais em livre prestação de serviços no território nacional, que se consideram inscritos nos termos do n.º 2 do artigo 4.º da Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, e 25/2014, de 2 de maio, que contemple:
+
+i) O nome e o domicílio profissionais e, caso exista, a designação do título profissional de origem e das respetivas especialidades;
+
+ii) A identificação da associação pública profissional no Estado membro de origem, na qual o profissional se encontre inscrito;
+
+iii) A situação de suspensão ou interdição temporária do exercício da atividade, se for caso disso;
+
+iv) (Revogada.)
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+### Capítulo IX — Disposições finais
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 123.º — Tutela administrativa
+
+Os poderes de tutela administrativa sobre a Ordem dos Enfermeiros, nos termos do artigo 45.º da Lei n.º 2/2013, de 10 de janeiro, e do presente Estatuto, são exercidos pelo membro do Governo responsável pela área da saúde.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16
+
+###### Artigo 123.º-A — Poder regulamentar
+
+1 - Os regulamentos da Ordem aplicam-se a todos os seus membros.
+
+2 - A elaboração dos regulamentos segue, com as devidas adaptações, o regime previsto no Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, incluindo o disposto quanto à consulta pública e à participação dos interessados.
+
+3 - Os regulamentos da Ordem com eficácia externa são publicados na 2.ª série do Diário da República, sem prejuízo da sua publicação na revista nacional da Ordem ou no seu sítio eletrónico.
+
+4 - Os regulamentos que disponham sobre os estágios profissionais, sobre a criação de especialidades, sobre a composição, competências e modo de funcionamento dos colégios de especialidade e as normas de orientação técnica ou organizativa que se apliquem às instituições do Sistema Nacional de Saúde só produzem efeitos após homologação do membro do Governo responsável pela área da saúde, que se considera dada se não houver decisão em contrário nos 90 dias seguintes ao da sua receção.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 8/2024 - Diário da República n.º 14/2024, Série I de 2024-01-19](https://diariodarepublica.pt/dr/detalhe/lei/8-2024-837135328), em vigor a partir de 2024-04-01
+
+###### Artigo 124.º — Controlo jurisdicional
+
+No âmbito do exercício dos poderes públicos da Ordem fica sujeita à jurisdição administrativa, nos termos dos artigos 46.º e 47.º da Lei n.º 2/2013, de 10 de janeiro.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 156/2015 - Diário da República n.º 181/2015, Série I de 2015-09-16](https://diariodarepublica.pt/dr/detalhe/lei/156-2015-70309896), em vigor a partir de 2015-10-16

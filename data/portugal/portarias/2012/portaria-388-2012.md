@@ -1,0 +1,225 @@
+---
+schema_version: '1.0'
+id: pt:dre:190611:por
+title: Portaria n.º 388/2012
+short_title: null
+summary: Fixa a estrutura nuclear da Direção-Geral da Administração da Justiça e revoga a Portaria n.º 515/2007, de 30 de
+  abril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Justiça
+proposing_entity: null
+official_number: 388/2012
+official_date: null
+publication_date: '2012-11-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 231/2012, Série I de 2012-11-29
+  number: '231'
+  series: I
+  supplement: null
+  pages: 6812 - 6813
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/11/23100/0681206813.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/388/2012/11/29/p/dre/pt/html
+  oj: null
+  dre: '190611'
+  dre_path: /dr/detalhe/portaria/388-2012-190611
+  internal: pt:dre:190611:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/388-2012-190611
+  metadata_url: https://data.dre.pt/eli/port/388/2012/11/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/388-2012-190611
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-11-29T00:00:00Z'
+integrity:
+  source_sha256: 12bcee36fc791ed77c58c420ed22d344ce9eef787aed5bd942492abe2c493e38
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-388-190611.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Orgânica
+- Direcção Geral da Administração da Justiça
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/165/2012/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/165/2012/07/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/515/2007/04/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/515/2007/04/30/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 388/2012
+
+de 29 de novembro
+
+O [Decreto-Lei n.º 165/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-2012-179285), de 31 de julho, definiu a missão, atribuições e tipo de organização interna da Direção-Geral da Administração da Justiça. Importa agora, no desenvolvimento daquele diploma, determinar a estrutura nuclear dos serviços e as competências das respetivas unidades orgânicas e estabelecer o número máximo de unidades flexíveis.
+
+Assim:
+
+Ao abrigo dos n.os 4 e 5 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, o seguinte:
+
+###### Artigo 1.º — Estrutura nuclear da Direção-Geral da Administração da Justiça
+
+1 - A Direção-Geral da Administração da Justiça, abreviadamente designada por DGAJ, estrutura-se nas seguintes unidades orgânicas nucleares:
+
+a) Direção de Serviços de Administração Judiciária;
+
+b) Direção de Serviços de Gestão Patrimonial;
+
+c) Direção de Serviços Financeiros e de Processamento de Remunerações;
+
+d) Direção de Serviços Jurídicos e Cooperação Judiciária Internacional;
+
+e) Direção de Serviços de Identificação Criminal.
+
+2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia de 1.º grau.
+
+###### Artigo 2.º — Direção de Serviços de Administração Judiciária
+
+À Direção de Serviços de Administração Judiciária, abreviadamente designada por DSAJ, compete:
+
+a) Participar na conceção e execução das medidas de organização e modernização dos tribunais;
+
+b) Monitorizar e acompanhar a atividade dos tribunais, designadamente o funcionamento e evolução dos sistemas informáticos judiciários;
+
+c) Acompanhar o movimento processual dos tribunais com vista, nomeadamente, à elaboração de propostas de criação e extinção de tribunais e de racionalização dos recursos humanos;
+
+d) Prestar apoio técnico à atividade das secretarias dos tribunais nas matérias que não sejam da competência das restantes direções de serviços;
+
+e) Colaborar com a Direção-Geral de Política de Justiça na recolha, tratamento e difusão dos elementos de informação, nomeadamente de natureza estatística, relativos aos tribunais;
+
+f) Elaborar propostas de diplomas legais e regulamentares relacionados com a atividade dos tribunais;
+
+g) Assegurar a realização das ações relativas ao recrutamento, mobilidade e avaliação dos recursos humanos dos tribunais;
+
+h) Planear, programar e executar as ações relativas à formação, inicial e subsequente, dos funcionários de justiça e do restante pessoal da Direção-Geral da Administração da Justiça.
+
+###### Artigo 3.º — Direção de Serviços de Gestão Patrimonial
+
+À Direção de Serviços de Gestão Patrimonial, abreviadamente designada por DSGP, compete:
+
+a) Programar as necessidades das instalações dos tribunais e colaborar com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), no planeamento e na execução de obras de construção, remodelação ou conservação;
+
+b) Promover e desenvolver as ações necessárias à racionalização dos recursos materiais afetos aos tribunais;
+
+c) Assegurar o fornecimento e a manutenção dos equipamentos dos tribunais, em articulação com o IGFEJ, I. P., e com a estrutura do Ministério da Justiça responsável pelas aquisições;
+
+d) Assegurar a conceção de sistemas integrados de segurança;
+
+e) Assegurar a realização dos procedimentos de aquisição de bens e serviços;
+
+f) Colaborar com os administradores dos tribunais e os secretários de justiça na conservação de instalações e equipamentos e nas aquisições de bens e serviços;
+
+g) Garantir o suporte técnico à organização e funcionamento dos arquivos dos tribunais;
+
+h) Assegurar a gestão e conservação do património e das instalações da Direção-Geral da Administração da Justiça.
+
+###### Artigo 4.º — Direção de Serviços Financeiros e de Processamento de Remunerações
+
+À Direção de Serviços Financeiros e de Processamento de Remunerações, abreviadamente designada por DSFPR, compete:
+
+a) Gerir os orçamentos da responsabilidade da Direção-Geral da Administração da Justiça;
+
+b) Coordenar a elaboração, a execução e proceder à avaliação da gestão orçamental, financeira e contabilística dos tribunais sem autonomia administrativa;
+
+c) Elaborar os documentos de gestão previsional e de prestação de contas;
+
+d) Arrecadar receitas;
+
+e) Colaborar com a DSGP na realização dos procedimentos de aquisição de bens e serviços;
+
+f) Colaborar com os serviços da Direção-Geral da Administração da Justiça, com os administradores dos tribunais e com os secretários de justiça no planeamento dos projetos e atividades e respetiva orçamentação e no estabelecimento de medidas de controlo interno;
+
+g) Assegurar o processamento de remunerações e outros abonos dos funcionários de justiça, do pessoal da Direção-Geral da Administração da Justiça e dos magistrados que exerçam funções em tribunais em que o processamento de remunerações não esteja cometido a outros serviços;
+
+h) Coligir e organizar a informação relativa aos recursos humanos, visando a sua gestão otimizada.
+
+###### Artigo 5.º — Direção de Serviços Jurídicos e Cooperação Judiciária Internacional
+
+À Direção de Serviços Jurídicos e Cooperação Judiciária Internacional, abreviadamente designada por DSJCJI, compete:
+
+a) Realizar estudos e prestar apoio técnico-jurídico, no âmbito das atribuições da Direção-Geral da Administração da Justiça e do normal desenvolvimento das respetivas atividades;
+
+b) Colaborar na elaboração de diplomas legais e regulamentares relacionados com a atividade da Direção-Geral da Administração da Justiça, propondo as alterações consideradas necessárias;
+
+c) Assegurar a resposta às reclamações e recursos hierárquicos apresentados pelos funcionários de justiça e pelos demais funcionários da Direção-Geral da Administração da Justiça;
+
+d) Preparar e acompanhar a intervenção da Direção-Geral da Administração da Justiça em processos jurisdicionais, praticando todos os atos de contencioso administrativo necessários;
+
+e) Instruir processos disciplinares, sindicâncias, inquéritos e averiguações e outros de que seja incumbida;
+
+f) Assegurar a execução do expediente relativo às cartas rogatórias e a outros atos que apresentem conexão com ordenamentos jurídicos estrangeiros, nos termos dos respetivos tratados e convenções de que a Direção-Geral da Administração da Justiça seja autoridade nacional;
+
+g) Assegurar a realização de ações de recrutamento e seleção do pessoal da Direção-Geral da Administração da Justiça.
+
+###### Artigo 6.º — Direção de Serviços de Identificação Criminal
+
+À Direção de Serviços de Identificação Criminal, abreviadamente designada por DSIC, compete:
+
+a) Assegurar a recolha, o tratamento e a conservação dos elementos de informação sujeitos a inscrição nos registos que a lei comete a seu cargo, promovendo a identificação dos titulares da informação registada;
+
+b) Assegurar a concretização das formas de acesso à informação previstas na lei;
+
+c) Exercer as demais competências que a legislação reguladora da identificação criminal lhe comete.
+
+###### Artigo 7.º — Unidades orgânicas flexíveis
+
+O número máximo de unidades orgânicas flexíveis da Direção-Geral da Administração da Justiça é fixado em treze.
+
+###### Artigo 8.º — Revogação
+
+É revogada a Portaria n.º 515/2007, de 30 de abril.
+
+###### Artigo 9.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de novembro de 2012. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 13 de novembro de 2012.**

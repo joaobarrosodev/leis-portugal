@@ -1,0 +1,67 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:516247:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-216492466",
+ "dre_path": "/dr/detalhe/portaria/1522-c-2002-516247",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "216491574"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:655913:por",
+     "title": "Declaração de Rectificação n.º 1-U/2003",
+     "published": "2003-02-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/1-u-2003-655913",
+     "date": "2002-12-25"
+    }
+   ]
+  },
+  {
+   "date": "2013-08-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499218:por",
+     "title": "Portaria n.º 261/2013",
+     "published": "2013-08-14",
+     "dre_path": "/dr/detalhe/portaria/261-2013-499218"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "216491574",
+    "216512775"
+   ]
+  }
+ ],
+ "fragments": {
+  "216491574": {
+   "fragment_id": "216492467",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2013-08-29",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1522-C/2002\n\nde 20 de Dezembro\n\nO Decreto-Lei n.º 94/2002, de 12 de Abril, que deu nova redacção ao Decreto-Lei n.º 231/98, de 22 de Julho, veio estabelecer medidas inovadoras no que respeita à segurança nos recintos desportivos.\n\nNeste âmbito, prevê-se, agora, a possibilidade de a realização de espectáculos em recintos desportivos depender do cumprimento da obrigação de adopção de um sistema de segurança privada que inclua vigilantes tecnicamente habilitados, designados por assistentes de recinto desportivo.\n\nEm portaria própria são estabelecidos as funções, a formação e os elementos de uso obrigatório dos assistentes de recinto desportivo.\n\nNeste quadro, importa fixar as situações em que é obrigatório o recurso à segurança privada nos recintos desportivos, bem como as condições do exercício de funções pelos assistentes de recinto desportivo.\n\nAssim:\n\nManda o Governo, pelos Ministros da Administração Interna e Adjunto do Primeiro-Ministro, ao abrigo do artigo 5.º, n.º 3, do Decreto-Lei n.º 231/98, de 22 de Julho, pela redacção que lhe foi introduzida pelo Decreto-Lei n.º 94/2002, de 12 de Abril, o seguinte:\n\n1.º Para efeitos do disposto na presente portaria, adoptam-se as seguintes definições:\n\na) Promotor do espectáculo desportivo - a prevista na lei que estabelece medidas preventivas e punitivas a adoptar em caso de manifestações de violência associadas ao desporto;\n\nb) Qualificação dos espectáculos de risco elevado - a prevista na lei que estabelece o regime de policiamento dos espectáculos desportivos.\n\n2.º Nas competições profissionais de futebol que decorram em recintos desportivos com lotação igual ou superior a 25000 espectadores e cujas instalações obedeçam ao Regulamento das Condições Técnicas e de Segurança dos Estádios, aprovado pelo Decreto Regulamentar n.º 10/2001, de 7 de Junho, é obrigatório o recurso a assistentes de recinto desportivo.\n\n3.º Nas restantes competições que se realizem em recintos desportivos, os promotores de espectáculos desportivos podem recorrer a assistentes de recinto desportivo.\n\n4.º O número de assistentes de recinto desportivo a exercer funções nos jogos considerados de risco elevado será de um assistente por cada 300 espectadores e, nos restantes jogos, será de um assistente para cada 400 espectadores, sem prejuízo do estabelecido no n.º 2 do n.º 5.º e no n.º 6.º\n\n5.º\n\n1 - Para efeitos do número anterior, a determinação do número de espectadores é calculada em função do número de ingressos emitidos até setenta e duas horas antes do início de cada espectáculo desportivo.\n\n2 - No caso de serem emitidos ingressos em quantidade superior a 80% da lotação do recinto desportivo, o número de assistentes estabelecido no n.º 4.º terá um acréscimo de 20%.\n\n6.º Sem prejuízo do disposto no n.º 4.º, o número mínimo de assistentes de recinto desportivo a exercer funções nos espectáculos desportivos será obrigatoriamente definido na certificação de cada um dos estádios.\n\n7.º Os assistentes de recinto desportivo funcionam na dependência operacional da estrutura de segurança do estádio e a sua actuação é da responsabilidade do promotor do espectáculo desportivo, sem prejuízo do disposto no regime jurídico que regula a actividade de segurança privada.\n\n8.º Antes da abertura do recinto desportivo ao público, a autoridade policial competente verificará se o número de assistentes de recinto desportivo está conforme o estabelecido na presente portaria, lavrando um auto, cujo duplicado será entregue ao promotor do espectáculo.\n\n9.º\n\n1 -O não cumprimento do estipulado nos n.os 4.º, 5.º e 6.º da presente portaria constitui contra-ordenação, punida com coima de (euro) 500 a (euro) 1000 por cada assistente de recinto desportivo em falta.\n\n2 - Em matéria de competência para o levantamento dos autos de contra-ordenação, instrução do processo, aplicação e destino do produto das coimas, é aplicável, com as necessárias adaptações, o estabelecido no Decreto-Lei n.º 231/98, de 22 de Julho.\n\nEm 20 de Dezembro de 2002."
+  },
+  "216512775": {
+   "fragment_id": "216492468",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2013-08-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 261/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/261-2013-499218), em vigor a partir de 2013-08-29",
+    "Retificado pelo/a [Declaração de Rectificação n.º 1-U/2003 - Diário da República n.º 50/2003, 2º Suplemento, Série I-B de 2003-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-u-2003-655913), produz efeitos a partir de 2003-12-25"
+   ],
+   "markdown": "Pelo Ministro da Administração Interna, Nuno Miguel Miranda de Magalhães, Secretário de Estado da Administração Interna. - Pelo Ministro Adjunto do Primeiro-Ministro, Hermínio José Loureiro Gonçalves, Secretário de Estado da Juventude e Desportos.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 261/2013 - Diário da República n.º 156/2013, Série I de 2013-08-14](https://diariodarepublica.pt/dr/detalhe/portaria/261-2013-499218), em vigor a partir de 2013-08-29\n\n> Retificado pelo/a [Declaração de Rectificação n.º 1-U/2003 - Diário da República n.º 50/2003, 2º Suplemento, Série I-B de 2003-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-u-2003-655913), produz efeitos a partir de 2003-12-25"
+  }
+ }
+}

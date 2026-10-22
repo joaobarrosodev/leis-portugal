@@ -1,0 +1,319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:116844477:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-900705404",
+ "dre_path": "/dr/detalhe/portaria/293-2018-116844477",
+ "source_lastmod": "2024-12-19",
+ "versions": [
+  {
+   "date": "2018-10-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "900704236",
+    "900704237",
+    "900704238",
+    "900704239",
+    "900704240",
+    "900704241",
+    "900704242",
+    "900704243",
+    "900704244",
+    "900704245",
+    "900704246",
+    "900704247",
+    "900704248",
+    "900704249",
+    "900704250",
+    "900704251",
+    "900704252",
+    "900704253",
+    "900704254",
+    "900704256",
+    "900704257",
+    "900704258"
+   ]
+  },
+  {
+   "date": "2024-12-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:900706907:por",
+     "title": "Portaria n.º 344/2024/1",
+     "published": "2024-12-19",
+     "dre_path": "/dr/detalhe/portaria/344-2024-900706907"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "900704236",
+    "900704237",
+    "900704238",
+    "900704239",
+    "900704265",
+    "900704266",
+    "900704267",
+    "900704243",
+    "900704268",
+    "900704245",
+    "900704269",
+    "900704247",
+    "900704248",
+    "900704249",
+    "900704250",
+    "900704251",
+    "900704252",
+    "900704253",
+    "900704254",
+    "900704255",
+    "900704256",
+    "900704257",
+    "900704258"
+   ]
+  }
+ ],
+ "fragments": {
+  "900704236": {
+   "fragment_id": "900705405",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 293/2018\n\nde 31 de outubro\n\nA Lei n.º 45/2018, de 10 de agosto, que aprovou o regime jurídico de acesso e exercício da atividade de transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica, remete para portaria a definição da carga horária do curso de formação rodoviária para motoristas a que alude a alínea b) do n.º 2 do artigo 10.º da supracitada lei.\n\nTorna-se, assim, necessário regulamentar as matérias respeitantes aos cursos de formação rodoviária para obtenção e renovação do certificado de motorista de transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica, os requisitos específicos das entidades formadoras autorizadas a ministrar os cursos de formação rodoviária e a organização dos referidos cursos, e bem ainda, o estabelecimento das medidas administrativas sancionatórias aplicáveis em caso de incumprimento do estabelecido na presente portaria.\n\nForam ouvidas a Associação Nacional de Parceiros das Plataformas Alternativas de Transporte (ANPPAT), Associação Portuguesa de Escolas de Condução (APEC), Associação Nacional dos Industriais do Ensino de Condução Automóvel (ANIECA) e a Associação dos Industriais do Ensino de Condução Automóvel de Portugal (ANORECA).\n\nAssim:\n\nAo abrigo do disposto no n.º 3 do artigo 10.º da Lei n.º 45/2018, 10 de agosto, manda o Governo, pelo Secretário de Estado Adjunto e da Mobilidade, o seguinte:"
+  },
+  "900704237": {
+   "fragment_id": "900705406",
+   "type": 1,
+   "heading": "Capítulo I — Disposição inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição inicial"
+  },
+  "900704238": {
+   "fragment_id": "900705407",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece os requisitos e procedimentos dos cursos de formação rodoviária destinados à emissão e renovação do certificado de motorista de transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica (CMTVDE), as condições de organização e comunicação prévia dos cursos de formação, bem como, os requisitos exigidos às entidades que pretendam ministrar os referidos cursos de formação rodoviária.\n\n2 - A presente portaria estabelece, ainda, as medidas administrativas aplicáveis às entidades que ministram cursos de formação para motoristas e candidatos a motorista de transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica (TVDE), em caso violação dos deveres a que se encontram vinculadas, bem como pelo incumprimento da ministração dos cursos de acordo com os conteúdos e organização estabelecidos."
+  },
+  "900704239": {
+   "fragment_id": "900705408",
+   "type": 1,
+   "heading": "Capítulo II — Cursos de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Cursos de formação"
+  },
+  "900704240": {
+   "fragment_id": "900705409",
+   "type": 11,
+   "heading": "Artigo 2.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Disposições gerais\n\n1 - Os cursos de formação rodoviária para emissão ou renovação de CMTVDE, a que se refere o n.º 3 do artigo 10.º da Lei n.º 45/2018, de 10 de agosto, devem ser ministrados com recurso a métodos e técnicas que garantam a qualidade da formação, e integram especificamente módulos relativos a comunicação e relações interpessoais, normas legais de condução, técnicas de condução, regulamentação da atividade e situações de emergência e primeiros socorros.\n\n2 - Os cursos de formação rodoviária devem dispor de um coordenador pedagógico possuidor de certificado de aptidão profissional de formador ou de certificado de competências pedagógicas de formador, ao qual compete, em especial:\n\na) Efetuar o acompanhamento pedagógico de cada curso de formação, o que inclui a avaliação do desempenho dos formadores;\n\nb) Assegurar a articulação com os formadores e outros agentes envolvidos no processo formativo;\n\nc) Subscrever os certificados de formação referidos na alínea b) do n.º 2 do artigo 10.º da Lei n.º 45/2018, de 10 de agosto.\n\n3 - O coordenador pedagógico referido no número anterior não pode acumular o cargo com a função de formador no mesmo curso.\n\n4 - Durante a ministração dos cursos de formação deve estar disponível na sala de formação dossier técnico pedagógico, contendo a seguinte informação:\n\na) Identificação do tipo de curso, cronograma, incluindo a identificação dos módulos a ministrar e respetivas cargas horárias;\n\nb) Identificação da entidade formadora, do coordenador pedagógico e dos formadores, com indicação das matérias que ministram no curso;\n\nc) Indicação do local da formação e descrição dos recursos pedagógicos disponíveis;\n\nd) Identificação dos formandos, contendo o nome completo, número de identificação civil e fiscal.\n\n5 - O dossier técnico pedagógico deve estar disponível para consulta durante todo o curso de formação no local onde é ministrado.\n\n6 - A entidade formadora deve conservar o dossier técnico pedagógico pelo período de 5 anos após a conclusão do curso.\n\n7 - A entidade formadora deve elaborar manual de apoio para todos os módulos de formação, o qual deve ser disponibilizado aos formandos.\n\n8 - Cada curso de formação tem o limite de frequência de 30 formandos.\n\n9 - A entidade formadora deve assegurar o controlo de presenças dos formandos durante a ministração do curso de formação, registá-las em documento próprio, que deve ser arquivado no dossier técnico pedagógico.\n\n10 - Os formadores devem possuir competências que o Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), considere adequadas às matérias que ministram e ser possuidores do certificado de aptidão pedagógica ou de certificado de competências pedagógicas de formador."
+  },
+  "900704241": {
+   "fragment_id": "900705410",
+   "type": 11,
+   "heading": "Artigo 3.º — Curso de formação inicial para obtenção de CMTVDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Curso de formação inicial para obtenção de CMTVDE\n\n1 - O curso de formação inicial para obtenção de CMTVDE tem a duração mínima de 50 horas, e comporta uma componente teórica e uma componente prática.\n\n2 - O conteúdo do curso de formação inicial deve abranger obrigatoriamente os módulos 1 a 6 do anexo I à presente portaria, que dela faz parte integrante, e proporcionar aos formandos a aquisição das competências ali referidas.\n\n3 - O curso de formação inicial pode ser ministrado em regime presencial ou com recurso a formação à distância, sendo que a formação à distância não pode exceder 50 % da carga horária prevista para a duração total do curso.\n\n4 - A componente prática do curso de formação inicial, com recurso a veículos, é ministrada por formadores habilitados há, pelo menos, cinco anos com carta de condução da categoria B.\n\n5 - Os formandos devem frequentar, no mínimo, 80 % da carga horária de cada módulo de formação inicial, sob pena de não emissão do certificado de conclusão do curso de formação.\n\n6 - Sem prejuízo da frequência efetiva da formação inicial, as entidades formadoras devem garantir a existência de uma avaliação final e um nível mínimo de aprovação."
+  },
+  "900704242": {
+   "fragment_id": "900705411",
+   "type": 11,
+   "heading": "Artigo 4.º — Curso de formação contínua para renovação de CMTVDE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Curso de formação contínua para renovação de CMTVDE\n\n1 - O curso de formação contínua para renovação do CMTVDE tem a duração de 8 horas e visa a atualização dos conhecimentos fundamentais para a função de motorista de TVDE.\n\n2 - O conteúdo do curso de formação contínua, a distribuição pelos módulos específicos 1 a 5 e as respetivas cargas horárias constam do anexo II à presente portaria, que dela faz parte integrante.\n\n3 - A formação contínua pode ser ministrada com recurso a ferramentas de ensino à distância, não podendo exceder 50 % da carga horária prevista para a duração total do curso.\n\n4 - A aprovação no curso de formação contínua depende da frequência de 100 % da respetiva carga horária."
+  },
+  "900704243": {
+   "fragment_id": "900705412",
+   "type": 11,
+   "heading": "Artigo 5.º — Formação à distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formação à distância\n\nA entidade formadora que adote formação à distância deve:\n\na) Disponibilizar o acesso diferenciado à plataforma para cada formando, no início da ação de formação;\n\nb) Assegurar que as questões e dúvidas colocadas pelos formandos na plataforma sejam respondidas pelo formador do módulo respetivo, no prazo máximo de dois dias úteis;\n\nc) Promover a avaliação formativa em cada módulo."
+  },
+  "900704244": {
+   "fragment_id": "900705413",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação prévia das ações de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicação prévia das ações de formação\n\nAs entidades formadoras devem enviar ao IMT, I. P., com a antecedência mínima de 3 dias úteis, relativamente ao início de cada ação de formação, uma comunicação com a identificação da ação de formação, o cronograma, o horário e o local de realização."
+  },
+  "900704245": {
+   "fragment_id": "900705414",
+   "type": 1,
+   "heading": "Capítulo III — Entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Entidades formadoras"
+  },
+  "900704246": {
+   "fragment_id": "900705415",
+   "type": 11,
+   "heading": "Artigo 7.º — Reconhecimento de entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Reconhecimento de entidades formadoras\n\nEncontram-se legalmente habilitadas para ministrar os cursos de formação rodoviária para candidatos e motoristas de TVDE as seguintes entidades:\n\na) Entidade Exploradora de Escola de Condução, licenciada ao abrigo da Lei n.º 14/2014, de 18 de março;\n\nb) Entidade formadora licenciada ao abrigo do Decreto-Lei n.º 126/2009, de 27 de maio, e Portaria n.º 1200/2009, de 8 de outubro;\n\nc) Entidade formadora reconhecida ao abrigo da Portaria n.º 1017/2009, de 9 de setembro;\n\nd) Entidade formadora certificada ao abrigo da Lei n.º 6/2013, de 22 de janeiro, e Portaria n.º 251-A/2015, de 18 de agosto."
+  },
+  "900704247": {
+   "fragment_id": "900705416",
+   "type": 11,
+   "heading": "Artigo 8.º — Entidades formadoras provenientes de outros Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entidades formadoras provenientes de outros Estados-Membros\n\n1 - As entidades formadoras legalmente estabelecidas, noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, para o exercício da atividade de formação equivalente à regulamentada pela presente portaria, podem ministrar, em território nacional, de forma ocasional e esporádica, ações de formação a candidatos e motoristas de TVDE, desde que observem o disposto na Lei n.º 45/2018, de 10 de agosto, na presente portaria e demais legislação em vigor.\n\n2 - As entidades formadoras referidas no número anterior devem comunicar previamente a sua intenção ao IMT, I. P., através do balcão único eletrónico dos serviços ou da plataforma eletrónica do Instituto, juntando a seguinte documentação:\n\na) Comprovativo de que é entidade formadora noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu certificada para ministrar formação a que se refere a presente portaria;\n\nb) Declaração de que dispõe de uma estrutura de gestão eficaz que garanta a qualidade da formação, de acordo com os requisitos necessários para o efeito, nomeadamente, através do exercício de funções a tempo completo de um coordenador técnico pedagógico com habilitação de nível superior, vínculo contratual, formação ou experiência profissional adequadas e de equipa formativa equilibrada;\n\nc) Declaração de que dispõe de competências técnicas e operacionais, assim como de aptidão para organizar os cursos adequados à atividade de formação;\n\nd) Declaração de que dispõe de, pelo menos, um centro de formação que satisfaça os requisitos exigidos para os centros de formação das entidades mencionadas no artigo 7.º da presente portaria, identificando a respetiva localização."
+  },
+  "900704248": {
+   "fragment_id": "900705417",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização, regime sancionatório e taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização, regime sancionatório e taxas"
+  },
+  "900704249": {
+   "fragment_id": "900705418",
+   "type": 11,
+   "heading": "Artigo 9.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fiscalização\n\n1 - A fiscalização do cumprimento do disposto na presente portaria compete ao IMT, I. P.\n\n2 - Os trabalhadores do IMT, I. P., com competência na área da fiscalização e, no exercício de funções, desde que devidamente credenciados, têm livre acesso aos locais destinados ao exercício da atividade de formação das entidades formadoras."
+  },
+  "900704250": {
+   "fragment_id": "900705419",
+   "type": 11,
+   "heading": "Artigo 10.º — Sanções administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Sanções administrativas\n\n1 - O incumprimento do disposto na presente portaria determina a aplicação, pelo conselho diretivo do IMT, I. P., às entidades formadoras certificadas, de alguma ou algumas das seguintes sanções administrativas:\n\na) Advertência escrita, pelo incumprimento do estabelecido nos n.os 4, 5, 6, 7, 8 e 9 do artigo 2.º e no artigo 5.º, todos da presente portaria;\n\nb) Não reconhecimento da validade da ação de formação e/ou do certificado do curso de formação rodoviária, pelo incumprimento do estabelecido nos n.os 1, 2, 3 e 10 do artigo 2.º, n.os 1 a 4 do artigo 3.º, n.os 1 a 3 do artigo 4.º e n.º 2 do artigo 8.º, todos da presente portaria;\n\nc) Suspensão do exercício da atividade de formação para obtenção ou renovação do CMTVDE, pelo período máximo de um ano, pelo incumprimento do estabelecido nos n.os 5 e 6 do artigo 3.º e n.º 4 do artigo 4.º\n\n2 - A acumulação de duas das sanções administrativas previstas nas alíneas a) e b) do n.º 1 tem como consequência a aplicação da sanção administrativa de suspensão do exercício da atividade de formação, para obtenção ou renovação do CMTVDE, pelo período máximo de um ano.\n\n3 - As sanções administrativas aplicadas são publicitadas no sítio da Internet do IMT, I. P."
+  },
+  "900704251": {
+   "fragment_id": "900705420",
+   "type": 11,
+   "heading": "Artigo 11.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Taxas\n\n1 - A taxa cobrada pelos atos relativos à certificação de candidatos e motoristas de TVDE é a constante do anexo III à presente portaria.\n\n2 - O produto das taxas cobradas, nos termos do número anterior, constitui receita do IMT, I. P."
+  },
+  "900704252": {
+   "fragment_id": "900705421",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "900704253": {
+   "fragment_id": "900705422",
+   "type": 11,
+   "heading": "Artigo 12.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cooperação administrativa\n\nPara efeitos da aplicação da presente portaria, as autoridades competentes participam na cooperação administrativa, no âmbito dos procedimentos relativos a profissionais e entidades provenientes de outros Estados-Membros, nos termos do disposto no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, e no capítulo VI do Decreto-Lei n.º 92/2010, de 2 de julho, nomeadamente através do sistema de Informação do Mercado Interno."
+  },
+  "900704254": {
+   "fragment_id": "900705423",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de novembro de 2018."
+  },
+  "900704256": {
+   "fragment_id": "900705425",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 3.º)\n\nCurso de formação inicial para obtenção de CMTVDE\n\nO curso inicial de formação rodoviária para obtenção de CMTVDE com a duração de 50 horas, integra os módulos e objetivos seguintes:\n\nMódulo 1 - Comunicação e relações interpessoais (10 horas)\n\nObjetivo: Pretende-se que o formando seja capaz de identificar e adotar atitudes e comportamentos que reflitam minimamente valores de cooperação, respeito, tolerância e urbanidade, numa ótica de desenvolvimento pessoal, relacional e social, potenciando, desta forma, a existência de clima favorável na relação com os passageiros e com os demais utilizadores da via pública.\n\nMódulo 2 - Normas legais de condução (10 horas)\n\nObjetivo: O formando deve ser capaz de conduzir com segurança um veículo ligeiro de passageiros, com respeito pelos sinais e regras de trânsito, adotando técnicas de condução adequadas, de forma a aperfeiçoar a operacionalização dos conhecimentos de que é detentor.\n\nMódulo 3 - Técnicas de condução (10 horas)\n\nObjetivo: Pretende-se que o formando seja capaz de fazer uma gestão racional do veículo, em termos de consumo de energia, efeitos poluentes e aspetos relativos à segurança, praticando uma condução alicerçada no conceito de condução defensiva.\n\nMódulo 4 - Regulamentação da atividade (6 horas)\n\nObjetivo: O formando deve ser capaz de conhecer os seus direitos e deveres decorrentes da legislação aplicável ao acesso e exercício da profissão de motorista de TVDE, e bem assim os aspetos mais relevantes da atividade de operador de TVDE.\n\nMódulo 5 - Situações de emergência e primeiros socorros (8 horas)\n\nObjetivo: O formando deve ser capaz de reconhecer situações de emergência, aplicar procedimentos e adotar providências adequadas.\n\nMódulo 6 - Condução individual de veículos (6 horas)\n\nObjetivo: Pretende-se o aperfeiçoamento da condução do formando baseado nas competências adquiridas durante o curso, nomeadamente através da ministração dos módulos 2 e 3.\n\nA formação prática pode ser ministrada, em parte, com o recurso à utilização de simuladores de última geração, não podendo exceder 50 % da carga horária prevista para este módulo."
+  },
+  "900704257": {
+   "fragment_id": "900705426",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 4.º)\n\nCurso de formação contínua para renovação de CMTVDE\n\nO curso de formação contínua com a duração de 8 horas tem como objetivo a atualização dos conhecimentos fundamentais para a profissão de motorista de TVDE, relativamente aos seguintes módulos:\n\nMódulo 1 - Comunicação e relações interpessoais (2 horas);\n\nMódulo 2 - Normas legais de condução (1h,30 minutos);\n\nMódulo 3 - Técnicas de condução (1h,30 minutos);\n\nMódulo 4 - Regulamentação da atividade (1h,30 minutos);\n\nMódulo 5 - Situações de emergência e primeiros socorros (1h,30 minutos)."
+  },
+  "900704258": {
+   "fragment_id": "900705427",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 11.º)\n\nTabela de taxas\n\n1 - Emissão, renovação ou substituição de CMTVDE: (euro) 30,00.\n\n111772998"
+  },
+  "900704265": {
+   "fragment_id": "900705409",
+   "type": 11,
+   "heading": "Artigo 2.º — Disposições gerais",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 344/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907), em vigor a partir de 2024-12-20"
+   ],
+   "markdown": "###### Artigo 2.º — Disposições gerais\n\n1 - Os cursos de formação rodoviária para emissão ou renovação de CMTVDE, a que se refere o n.º 3 do artigo 10.º da Lei n.º 45/2018, de 10 de agosto, devem ser ministrados com recurso a métodos e técnicas que garantam a qualidade da formação, e integram especificamente módulos relativos a comunicação e relações interpessoais, normas legais de condução, técnicas de condução, regulamentação da atividade e situações de emergência e primeiros socorros.\n\n2 - Os cursos de formação rodoviária devem dispor de um coordenador pedagógico possuidor de certificado de aptidão profissional de formador ou de certificado de competências pedagógicas de formador, ao qual compete, em especial:\n\na) Efetuar o acompanhamento pedagógico de cada curso de formação, o que inclui a avaliação do desempenho dos formadores;\n\nb) Assegurar a articulação com os formadores e outros agentes envolvidos no processo formativo;\n\nc) Subscrever os certificados de formação referidos na alínea b) do n.º 2 do artigo 10.º da Lei n.º 45/2018, de 10 de agosto.\n\n3 - O coordenador pedagógico referido no número anterior não pode acumular o cargo com a função de formador no mesmo curso.\n\n4 - Durante a ministração dos cursos de formação deve estar disponível na sala de formação dossier técnico pedagógico, contendo a seguinte informação:\n\na) Identificação do tipo de curso, cronograma, incluindo a identificação dos módulos a ministrar e respetivas cargas horárias;\n\nb) Identificação da entidade formadora, do coordenador pedagógico e dos formadores, com indicação das matérias que ministram no curso;\n\nc) Indicação do local da formação e descrição dos recursos pedagógicos disponíveis, incluindo identificação dos veículos afetos à formação;\n\nd) Identificação dos formandos, contendo o nome completo, número de identificação civil e fiscal.\n\n5 - O dossier técnico pedagógico deve estar disponível para consulta durante todo o curso de formação no local onde é ministrado.\n\n6 - A entidade formadora deve conservar o dossier técnico pedagógico pelo período de 5 anos após a conclusão do curso.\n\n7 - A entidade formadora deve elaborar manual de apoio para todos os módulos de formação, o qual deve ser disponibilizado aos formandos.\n\n8 - Cada curso de formação tem o limite de frequência de 20 formandos.\n\n9 - A entidade formadora deve assegurar o controlo de presenças dos formandos durante a ministração do curso de formação, registá-las em documento próprio, que deve ser arquivado no dossier técnico pedagógico.\n\n10 - Os formadores devem possuir competências que o Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), considere adequadas às matérias que ministram e ser possuidores do certificado de aptidão pedagógica ou de certificado de competências pedagógicas de formador.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 344/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907), em vigor a partir de 2024-12-20"
+  },
+  "900704266": {
+   "fragment_id": "900705410",
+   "type": 11,
+   "heading": "Artigo 3.º — Curso de formação inicial para obtenção de CMTVDE",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 344/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907), em vigor a partir de 2024-12-20"
+   ],
+   "markdown": "###### Artigo 3.º — Curso de formação inicial para obtenção de CMTVDE\n\n1 - O curso de formação inicial para obtenção de CMTVDE tem a duração mínima de 50 horas, e comporta uma componente teórica e uma componente prática.\n\n2 - O conteúdo do curso de formação inicial deve abranger obrigatoriamente os módulos 1 a 6 do anexo I à presente portaria, que dela faz parte integrante, e proporcionar aos formandos a aquisição das competências ali referidas.\n\n3 - O curso de formação inicial pode ser ministrado em regime presencial ou com recurso a formação à distância, sendo que a formação à distância não pode exceder 50 % da carga horária prevista para a duração total do curso.\n\n4 - A componente prática do curso de formação inicial, com recurso a veículos, é ministrada por formadores habilitados há, pelo menos, cinco anos com carta de condução da categoria B.\n\n5 - Os formandos devem frequentar, no mínimo, 80 % da carga horária de cada módulo de formação inicial, sob pena de não emissão do certificado de conclusão do curso de formação.\n\n6 - No final da formação inicial, cabe ao IMT, I. P., assegurar uma avaliação final dos formandos detentores do certificado de conclusão do curso de formação, garantindo-se um nível mínimo de aprovação.\n\n7 - A avaliação referida no número anterior, que incide sobre os conteúdos da formação, é constituída por teste de 30 perguntas de escolha múltipla, com 2 a 4 respostas possíveis, admitindo apenas uma resposta certa, com a duração de 60 minutos, a realizar no IMT, I. P., ou em centro de exames autorizado pelo IMT, I. P., nos termos a definir por deliberação do seu conselho diretivo.\n\n8 - Os formandos devem assinalar, no mínimo, 27 respostas certas para que a formação seja considerada concluída com aproveitamento.\n\n9 - Os formandos podem visualizar as questões que erraram no prazo de dois dias úteis e reclamar, no prazo de 10 dias úteis a contar da data do conhecimento do resultado.\n\n10 - Durante a avaliação não é permitida a utilização de qualquer sistema operacional ou dispositivo de comunicação ou armazenamento de informações, incluindo relógios inteligentes, dispositivos eletrónicos ou similares, devendo permanecer desligados ou fora do alcance dos formandos, sob pena de anulação imediata da avaliação.\n\n11 - O formando que reprove na avaliação final pode repetir a avaliação por uma única vez, desde que o requeira no prazo de 10 dias úteis a contar da data da reprovação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 344/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907), em vigor a partir de 2024-12-20"
+  },
+  "900704267": {
+   "fragment_id": "900705411",
+   "type": 11,
+   "heading": "Artigo 4.º — Curso de formação contínua para renovação de CMTVDE",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 344/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907), em vigor a partir de 2024-12-20"
+   ],
+   "markdown": "###### Artigo 4.º — Curso de formação contínua para renovação de CMTVDE\n\n1 - O curso de formação contínua para renovação do CMTVDE tem a duração de 8 horas e visa a atualização dos conhecimentos fundamentais para a função de motorista de TVDE.\n\n2 - O conteúdo do curso de formação contínua, a distribuição pelos módulos específicos 1 a 5 e as respetivas cargas horárias constam do anexo II à presente portaria, que dela faz parte integrante.\n\n3 - A formação contínua pode ser ministrada com recurso a ferramentas de ensino à distância, não podendo exceder 50 % da carga horária prevista para a duração total do curso.\n\n4 - A aprovação no curso de formação contínua depende da frequência de 100 % da respetiva carga horária.\n\n5 - O curso de formação contínua previsto no n.º 1 pode ser substituído pelo curso de formação contínua para renovação do certificado de motorista de táxi.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 344/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907), em vigor a partir de 2024-12-20"
+  },
+  "900704268": {
+   "fragment_id": "900705413",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação prévia das ações de formação",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 344/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907), em vigor a partir de 2024-12-20"
+   ],
+   "markdown": "###### Artigo 6.º — Comunicação prévia das ações de formação\n\nAs entidades formadoras devem enviar ao IMT, I. P., com a antecedência mínima de 5 dias úteis, relativamente ao início de cada ação de formação, uma comunicação com a identificação da ação de formação, o cronograma, o horário e o local de realização, identificação dos formadores, dos formandos e dos veículos afetos à formação prática.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 344/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907), em vigor a partir de 2024-12-20"
+  },
+  "900704269": {
+   "fragment_id": "900705415",
+   "type": 11,
+   "heading": "Artigo 7.º — Reconhecimento de entidades formadoras",
+   "in_force_from": "2024-12-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 344/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907), em vigor a partir de 2024-12-20"
+   ],
+   "markdown": "###### Artigo 7.º — Reconhecimento de entidades formadoras\n\n1 - Encontram-se legalmente habilitadas para ministrar os cursos de formação rodoviária para candidatos e motoristas de TVDE as seguintes entidades:\n\na) Entidade Exploradora de Escola de Condução, licenciada ao abrigo da Lei n.º 14/2014, de 18 de março;\n\nb) Entidade formadora licenciada ao abrigo do Decreto-Lei n.º 126/2009, de 27 de maio, e Portaria n.º 1200/2009, de 8 de outubro;\n\nc) Entidade formadora reconhecida ao abrigo da Portaria n.º 1017/2009, de 9 de setembro;\n\nd) Entidade formadora certificada ao abrigo da Lei n.º 6/2013, de 22 de janeiro, e Portaria n.º 251-A/2015, de 18 de agosto.\n\n2 - As entidades formadoras de TVDE não podem desenvolver atividade como operadores de TVDE.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 344/2024/1 - Diário da República n.º 246/2024, Série I de 2024-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/344-2024-900706907), em vigor a partir de 2024-12-20"
+  },
+  "900704255": {
+   "fragment_id": "900705424",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e da Mobilidade, José Fernando Gomes Mendes, em 25 de outubro de 2018."
+  }
+ }
+}

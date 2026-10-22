@@ -1,0 +1,484 @@
+---
+schema_version: '1.0'
+id: pt:dre:227804:por
+title: Portaria n.º 402/86
+short_title: null
+summary: Homologa a criação do Centro de Formação Profissional de Artesanato, abreviadamente designado por CEARTE
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 402/86
+official_date: null
+publication_date: '1986-07-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/1986, Série I de 1986-07-25
+  number: '169'
+  series: I
+  supplement: null
+  pages: 1835 - 1838
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/07/16900/18351838.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-04-06'
+version_history:
+  file: portaria-402-86.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1986-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-03-10'
+    amending: pt:dre:106578566:por
+    amending_title: Portaria n.º 103/2017
+    changes:
+    - Altera Capítulo I
+  - date: '2024-04-06'
+    amending: pt:dre:859517113:por
+    amending_title: Portaria n.º 149/2024/1
+    changes:
+    - Altera Secção I
+    - Altera Secção III
+    - Altera Secção IV
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/402/1986/p/cons/20240405/pt/html
+  oj: null
+  dre: '227804'
+  dre_path: /dr/detalhe/portaria/402-1986-227804
+  internal: pt:dre:227804:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/402-1986-227804
+  metadata_url: https://data.dre.pt/eli/port/402/1986/p/cons/20240405/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1986-859556947
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1986-859556947
+  retrieved_at: '2026-10-22T13:04:35Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4b69f412bc50fbb55c53a34f95681f799252ad583cfcfaade78f66668c651b03
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:04:35Z'
+  notes: 3 versão(ões); histórico completo em portaria-402-86.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Artesanato
+- Autonomia Administrativa
+- Autonomia Financeira
+- Centro de Formação Profissional do Artesanato
+- Criação de Serviços
+- Definição de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:106578566:por
+  label: Altera Capítulo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/103-2017-106578566
+  date: '2017-03-09'
+- type: amended_by
+  target: pt:dre:859517113:por
+  label: Altera Secção I; Altera Secção III; Altera Secção IV
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/149-2024-859517113
+  date: '2024-04-05'
+article_structure:
+  article_count: 0
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:04:35Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 402/86
+
+Portaria n.º 402/86
+
+de 25 de Julho
+
+Considerando que a experiência recente no domínio da formação profissional diz bem do importante papel desempenhado pela actual rede de centros protocolares espalhados por todo o País;
+
+Considerando que importa continuar a aprofundar e a alargar essa experiência como forma de dar resposta às necessidades permanentes de formação profissional;
+
+Considerando ainda a importância crescente do sector de artesanato no desenvolvimento sócio-económico e cultural das regiões onde se manifesta, quer como forma específica de saber fazer que interessa preservar e estimular, quer como potencial gerador de novas ocupações, a nível local e regional, capaz de minorar os problemas de emprego, nomeadamente dos jovens:
+
+Tendo em vista o disposto nos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de Maio:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança Social, que seja homologada a criação do Centro de Formação Profissional de Artesanato, abreviadamente designado por CEARTE, o qual se regerá pelo protocolo anexo a esta portaria.
+
+Ministério do Trabalho e Segurança Social.
+
+Assinada em 3 de Julho de 1986.
+
+O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.
+
+## Anexo — Protocolo para a criação do Centro de Formação Profissional de Artesanato
+
+Por acordo entre o Instituto do Emprego e Formação Profissional (IEFP) e a Cáritas Diocesana de Coimbra (CDC), devidamente representados para o efeito, e nos termos do Decreto-Lei n.º 165/85, de 16 de Maio, é criado um centro protocolar no sector do artesanato, o qual se regerá nos termos que seguem:
+
+### Capítulo I — Disposições gerais
+
+I
+
+(Denominação)
+
+O Centro Protocolar adota a designação de Centro de Formação Profissional para o Artesanato e Património (CEARTE).
+
+II
+
+(Natureza e atribuições)
+
+1 - O Centro de Formação Profissional para o Artesanato e Património (CEARTE), de ora avante designado por CEARTE, é um organismo dotado de personalidade jurídica de direito público, com autonomia administrativa e financeira e património próprio.
+
+2 - São atribuições do CEARTE promover atividades de formação profissional, de reconhecimento e validação de competências, de promoção do emprego, de fomento do empreendedorismo e da inovação, dirigidas a indivíduos e a unidades produtivas, microempresas e outros agentes económicos do setor social, criativo e do património cultural imaterial, em particular da área do artesanato, podendo vir a alargar a sua atividade a outros setores da economia, prosseguindo a seguinte missão:
+
+a) Valorização dos recursos humanos pela qualificação, capacitação, reconversão e aperfeiçoamento técnico dos profissionais e candidatos a profissões do âmbito da sua intervenção, particularmente os que se encontram em situação de desemprego;
+
+b) Valorização da capacidade empresarial, através do desenvolvimento de ações de consultoria e apoio técnico destinadas a empresas, associações, organizações de produtores ou outros agentes que integrem o seu âmbito de intervenção, podendo, ainda, desenvolver ações de cooperação com entidades estrangeiras, tanto na área formativa como de apoio técnico;
+
+c) Fomento do empreendedorismo e da inovação.
+
+3 - Na prossecução da respetiva missão, o Centro tem as seguintes competências:
+
+a) Contribuir para a definição de estratégias setoriais, no domínio da valorização dos recursos humanos, no que respeita ao setor social, criativo e do património cultural imaterial, em particular da área do artesanato;
+
+b) Assegurar a realização de formação profissional necessária à qualificação profissional, reconversão profissional e aprendizagem ao longo da vida;
+
+c) Realizar formação relacionada com planos de desenvolvimento regional e local, visando a criação de novas atividades e empregos;
+
+d) Proceder ao reconhecimento, validação e certificação de competências escolares e profissionais adquiridas em contextos de aprendizagem não formal e informal aos profissionais dos setores que integram o âmbito da sua atividade e outras para as quais venha a ser reconhecido;
+
+e) Contribuir para o fomento do empreendedorismo e da inovação e apoiar o desenvolvimento empresarial do setor;
+
+f) Contribuir para a organização do setor no plano do reconhecimento dos artesãos e unidades produtivas artesanais e da qualificação e certificação de produções artesanais tradicionais;
+
+g) Desenvolver outras ações consideradas relevantes para o desenvolvimento da qualificação, da formação profissional e da promoção do emprego.
+
+4 - O Centro colabora com entidades públicas ou privadas, nacionais, estrangeiras ou internacionais, com especial relevo para os países de expressão oficial portuguesa, com os quais pode celebrar convénios, protocolos, contratos ou acordos, no âmbito das suas atribuições.
+
+III
+
+(Sede e delegações)
+
+O Centro tem a sua sede em Coimbra, podendo criar as delegações que se mostrarem comprovadamente necessárias, ou proceder à sua extinção.
+
+IV
+
+(Âmbito e duração)
+
+O Centro exerce a sua competência no território nacional e durará por tempo indeterminado
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 103/2017 - Diário da República n.º 49/2017, Série I de 2017-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/103-2017-106578566), em vigor a partir de 2017-03-10
+
+### Capítulo II — Estrutura orgânica
+
+V
+
+A estrutura orgânica do CEARTE compreende os seguintes órgãos:
+
+a) O conselho de administração;
+
+b) O director;
+
+c) O conselho técnico-pedagógico;
+
+d) A comissão de fiscalização e verificação de contas.
+
+#### Secção I — Do conselho de administração
+
+VI
+
+(Composição)
+
+1 - O conselho de administração é constituído por quatro membros efetivos, todos com direito a voto quando em exercício efetivo de funções, dois dos quais em representação do IEFP, I. P., e outros dois em representação dos segundos outorgantes.
+
+2 - Além destes, existirá um membro suplente por cada outorgante.
+
+3 - A presidência do conselho de administração caberá a um dos membros que actua em representação do IEFP, podendo vir a ser substituído pelo outro membro efectivo em caso de falta ou impedimento.
+
+4 - O mandato dos membros do conselho de administração terá a duração de três anos, podendo ser renovável, sem prejuízo do que se dispõe a seguir.
+
+5 - Os membros do conselho de administração serão nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes, devendo cada um destes indicar os seus representantes no prazo de 30 dias após a publicação no Diário da República do presente protocolo.
+
+VII
+
+(Competência)
+
+1 - Compete ao conselho de administração exercer, em geral, os mais amplos poderes de gestão, praticando todos os actos tendentes à realização das atribuições do CEARTE e, em especial:
+
+a) Dirigir, orientar, coordenar e controlar toda a actividade do CEARTE;
+
+b) Definir as linhas de orientação pedagógica, técnica e científica que deverão pautar as acções de formação profissional a desenvolver;
+
+c) Submeter à aprovação dos outorgantes o plano de actividades, o orçamento ordinário, os orçamentos suplementares, quando existam, e ainda o relatório e contas do exercício;
+
+d) Contratar todo o pessoal necessário ao funcionamento do CEARTE;
+
+e) Aprovar e fazer cumprir os regulamentos de funcionamento interno;
+
+f) Propor aos outorgantes a nomeação ou exoneração do director;
+
+g) Delegar no director as competências que entender necessárias à gestão corrente do CEARTE e fiscalizar o exercício dessas competências.
+
+2 - O conselho de administração é também responsável pela gestão financeira das verbas concedidas para instalação e manutenção do Centro.
+
+VIII
+
+(Funcionamento)
+
+1 - O conselho de administração reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convoque, por iniciativa própria ou a pedido de qualquer dos seus membros ou do director do CEARTE, sendo as decisões tomadas por maioria de votos dos membros em efectividade de funções.
+
+2 - As reuniões do conselho de administração serão presididas por um presidente, que, em caso de empate, tem voto de qualidade, e poderá, por sua iniciativa ou a pedido de qualquer dos seus membros em efectividade de funções, requerer aos serviços do IEFP a assistência e exames que entender necessários às actividades do CEARTE.
+
+3 - De cada reunião será lavrada acta, que será aprovada e assinada na reunião seguinte pelos membros presentes.
+
+> Nota: [Anexo, Portaria n.º 149/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/149-2024-859517113) O adicional ao protocolo entra em vigor depois de assinado pelas entidades outorgantes e homologado pelo membro do Governo responsável pela área do trabalho, solidariedade e segurança social, ou por quem tiver competência por ele delegada.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 149/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/149-2024-859517113), em vigor a partir de 2024-04-06, produz efeitos a partir de 2024-03-21
+
+#### Secção II — Do director
+
+IX
+
+(Designação)
+
+1 - O director do CEARTE é nomeado e exonerado por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes.
+
+2 - A proposta de nomeação ou exoneração considerar-se-á aprovada se, no prazo de 30 dias após a sua apresentação ao Ministro, não houver qualquer despacho.
+
+X
+
+(Competência)
+
+1 - O director do CEARTE é o superior hierárquico de todo o pessoal do Centro e é o responsável pela execução das deliberações do conselho de administração, a cujas reuniões deve assistir, sem direito a voto, quando para o efeito for convocado pelo seu presidente, que o fará por iniciativa própria ou a pedido de algum dos membros do conselho de administração.
+
+2 - Compete ainda ao director a prática de todos os actos de gestão corrente necessários ao regular funcionamento do CEARTE, nomeadamente:
+
+a) Organizar os serviços;
+
+b) Exercer o poder disciplinar dentro dos limites fixados pela lei e pelo conselho de administração;
+
+c) Proceder ao despacho e assinatura do expediente corrente;
+
+d) Realizar a gestão do pessoal, propondo ao conselho de administração condições de trabalho, admissões e demissões;
+
+e) Elaborar e propor à aprovação do conselho de administração o projecto de regulamento de funcionamento interno;
+
+f) Propor ao conselho de administração todas as iniciativas que entenda úteis ao bom funcionamento e desenvolvimento do CEARTE;
+
+g) Exercer o controle das actividades do CEARTE e, bem assim, informar regularmente o conselho de administração sobre a situação financeira e eventuais desvios às previsões e objectivos do plano de actividades;
+
+h) Aceitar e desempenhar as competências que lhe sejam conferidas por delegação do conselho de administração;
+
+i) Presidir às reuniões do conselho técnico-pedagógico.
+
+#### Secção III — Do conselho técnico-pedagógico
+
+XI
+
+(Composição)
+
+1 - O conselho técnico-pedagógico é constituído por quatro membros, o diretor do Centro e um representante de cada outorgante.
+
+2 - A presidência do conselho técnico-pedagógico cabe ao director do CEARTE, o qual será substituído, nas suas ausências ou impedimentos, por um dos outros membros do conselho, em quem delegará os necessários poderes.
+
+3 - Os membros do conselho técnico-pedagógico são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes, devendo estes indicar os seus representantes no prazo de 30 dias após a publicação no Diário da República do presente protocolo.
+
+XII
+
+(Competência)
+
+O conselho técnico-pedagógico é um órgão consultivo, ao qual compete, nomeadamente:
+
+a) Dar parecer sobre os planos e programas de estudo;
+
+b) Estudar e propor ao conselho de administração alterações aos programas de ensino;
+
+c) Dar parecer sobre a criação ou suspensão de estágios;
+
+d) Dar parecer sobre o equipamento adequado ao ensino e métodos utilizados;
+
+e) Elaborar pareceres, relatórios e estudos que lhe sejam solicitados.
+
+XIII
+
+(Funcionamento)
+
+1 - As reuniões do conselho técnico-pedagógico, de que se lavrará acta assinada pelos presentes, serão convocadas pelo presidente, por sua iniciativa ou a pedido de algum dos seus membros.
+
+2 - O presidente do conselho técnico-pedagógico, por sua iniciativa ou a pedido de qualquer dos seus membros, poderá solicitar a presença nas reuniões, sem direito a voto, de técnicos estranhos ao conselho mas considerados úteis ao esclarecimento de qualquer assunto.
+
+3 - As deliberações do conselho técnico-pedagógico tomadas por maioria de votos dos seus membros, cabendo ao presidente, em caso de empate, voto de qualidade.
+
+> Nota: [Anexo, Portaria n.º 149/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/149-2024-859517113) O adicional ao protocolo entra em vigor depois de assinado pelas entidades outorgantes e homologado pelo membro do Governo responsável pela área do trabalho, solidariedade e segurança social, ou por quem tiver competência por ele delegada.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 149/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/149-2024-859517113), em vigor a partir de 2024-04-06, produz efeitos a partir de 2024-03-21
+
+#### Secção IV — Da comissão de fiscalização e verificação de contas
+
+XIV
+
+(Composição)
+
+1 - A comissão de fiscalização e verificação de contas é constituída por três membros, um em representação do IEFP, I. P., e os outros dois em representação dos segundos outorgantes.
+
+2 - A presidência da comissão de fiscalização e verificação de contas caberá a um dos membros que actua em representação do primeiro outorgante.
+
+3 - O mandato dos membros de fiscalização e verificação de contas terá a duração de três anos, renovável por iguais períodos, sem prejuízo do que se dispõe a seguir.
+
+4 - Os membros da comissão de fiscalização e verificação de contas serão nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes, devendo cada um destes indicar os seus representantes no prazo de 30 dias após a publicação no Diário da República do presente protocolo.
+
+XV
+
+(Competência)
+
+Compete à comissão de fiscalização e verificação de contas:
+
+a) Apreciar e dar parecer sobre os orçamentos e contas do CEARTE;
+
+b) Apreciar os relatórios de actividades e dar parecer sobre o mérito de gestão financeira desenvolvida;
+
+c) Examinar a contabilidade do Centro;
+
+d) Pronunciar-se sobre qualquer assunto de interesse para o Centro que seja submetido à sua apreciação pelo conselho de administração.
+
+XVI
+
+(Funcionamento)
+
+1 - A comissão de fiscalização e verificação, de contas reunir-se-á ordinariamente uma vez de três em três meses e extraordinariamente sempre que o presidente a convoque por sua iniciativa ou a pedido de qualquer dos seus membros.
+
+2 - A comissão de fiscalização e verificação de contas só poderá deliberar quando se encontrem presentes todos os seus membros, cabendo ao presidente voto de qualidade.
+
+3 - De todas as reuniões será lavrada acta, assinada pelos presentes.
+
+4 - A comissão de fiscalização e verificação de contas poderá fazer-se assistir, sob a sua responsabilidade, por auditores internos do Centro, se os houver, e por auditores externos contratados.
+
+5 - No exercício da sua actividade poderá a comissão de fiscalização e verificação de contas, através do seu presidente, solicitar todos os elementos de informação julgados necessários.
+
+6 - Os membros da comissão de fiscalização e verificação de contas poderão assistir, individual ou conjuntamente e sem direito a voto, às reuniões do conselho de administração sempre que o presidente deste o entenda conveniente.
+
+> Nota: [Anexo, Portaria n.º 149/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/149-2024-859517113) O adicional ao protocolo entra em vigor depois de assinado pelas entidades outorgantes e homologado pelo membro do Governo responsável pela área do trabalho, solidariedade e segurança social, ou por quem tiver competência por ele delegada.
+
+> Alterado pelo/a Anexo do/a [Portaria n.º 149/2024/1 - Diário da República n.º 68/2024, Série I de 2024-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/149-2024-859517113), em vigor a partir de 2024-04-06, produz efeitos a partir de 2024-03-21
+
+### Capítulo III — Disposições financeiras
+
+XVII
+
+(Orçamento e plano de actividades)
+
+1 - O Centro dispõe de contabilidade própria, devendo o plano de actividades e orçamento ordinário ser remetidos anualmente pelo conselho de administração aos outorgantes, até 15 de Junho do ano anterior a que digam respeito, acompanhados do parecer da comissão de fiscalização e verificação de contas.
+
+2 - O plano de actividades e o orçamento ordinário considerar-se-ão definitivamente aprovados após deliberação nesse sentido dos outorgantes.
+
+3 - O conselho de administração poderá elaborar, em cada ano civil, até dois orçamentos suplementares, sujeitos igualmente ao parecer da comissão de fiscalização e verificação de contas e à aprovação dos outorgantes.
+
+XVIII
+
+(Relatório e contos)
+
+1 - O conselho de administração deverá remeter aos outorgantes, até 31 de Março de cada ano, um exemplar do relatório e contas do exercício do ano anterior, acompanhados do parecer da comissão de fiscalização e verificação de contas.
+
+2 - As contas anuais do CEARTE considerar-se-ão aprovadas após a competente deliberação nesse sentido dos outorgantes, os quais poderão mandar verificá-las sempre que o entendam conveniente.
+
+3 - Os saldos apurados no fim do exercício transitarão para o ano seguinte.
+
+XIX
+
+(Receitas e despesas)
+
+1 - As despesas com instalações e equipamento do CEARTE serão suportadas pelo IEFP.
+
+2 - Para cobertura das despesas de funcionamento do CEARTE, o IEFP contribuirá com uma verba que não ultrapassará os 95% do total das mesmas. Os restantes 5% serão cobertos pelas receitas previstas no n.º 4 e pela comparticipação do segundo outorgante, a qual nunca poderá ser inferior a 100000$00 anuais.
+
+3 - Para as acções de formação profissional a desenvolver pelo CEARTE, e que o IEFP considere elegíveis para a apresentação ao Fundo Social Europeu ou de interesse nacional, a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas ou não por aquele Fundo comunitário, deduzidas eventuais receitas das acções.
+
+4 - Constituem ainda receitas do CEARTE, para além das comparticipações dos outorgantes anteriormente definidas, as provenientes da venda de produtos, de serviços e de donativos, bem como outras receitas que venham a resultar da actividade do CEARTE.
+
+5 - As comparticipações das entidades outorgantes serão, em princípio, processadas mensalmente em relação aos valores orçamentados, salvo as referentes às despesas com as instalações e equipamento, cujo processamento será efectuado consoante as necessidades do CEARTE.
+
+### Capítulo IV — Disposições diversas
+
+XX
+
+(Representação)
+
+O CEARTE obrigar-se-á pelas assinaturas de dois membros do conselho de administração, devendo uma delas ser obrigatoriamente a do presidente, efectivo ou substituto.
+
+XXI
+
+(Resolução unilateral)
+
+A resolução unilateral por algum dos outorgantes do presente protocolo não dá direito a qualquer indemnização, sem prejuízo do direito ao ressarcimento de eventuais danos, quando a resolução seja injustificada.
+
+XXII
+
+(Incumprimento)
+
+O incumprimento não justificado, por qualquer dos outorgantes, das obrigações assumidas no âmbito do presente protocolo pode determinar a denúncia pelas partes interessadas, produzindo efeitos depois de homologada pelo Ministro do Trabalho e Segurança Social.
+
+XXIII
+
+(Extinção)
+
+1 - Por decisão unânime do conselho de administração ou por proposta de qualquer dos outorgantes, em caso de manifesta impossibilidade de realização dos fins constitutivos, o Ministro do Trabalho e Segurança Social poderá determinar a cessação da actividade do CEARTE e a sua consequente extinção.
+
+2 - Em caso de extinção, o património do CEARTE será rateado em partes proporcionais às comparticipações financeiras dos respectivos outorgantes.
+
+XXIV
+
+(Alterações ao protocolo)
+
+O conselho de administração poderá propor aos outorgantes as necessárias alterações e aditamentos a este protocolo, devendo, em caso de acordo, celebrar-se o respectivo adicional.
+
+XXV
+
+(Adesão ao protocolo)
+
+Mediante parecer favorável e em condições a fixar pelos outorgantes, poderá o conselho de administração autorizar futuras adesões de outras entidades a este protocolo.
+
+XXVI
+
+(Legislação aplicável)
+
+Em tudo o omisso neste protocolo aplicar-se-á o disposto no Decreto-Lei n.º 165/85, de 16 de Maio.
+
+XXVII
+
+(Entrada em vigor)
+
+O presente protocolo entra em vigor depois de assinado pelas entidades outorgantes e de homologado pelo Ministro do Trabalho e Segurança Social.
+
+Coimbra, 29 de Abril de 1986. - Pelo Instituto do Emprego e Formação Profissional, Álvaro Gonçalves Martins. - Pela Cáritas Diocesana de Coimbra, (Assinatura ilegível.)
+
+Homologo. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.

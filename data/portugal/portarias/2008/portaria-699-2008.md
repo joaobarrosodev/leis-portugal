@@ -1,0 +1,283 @@
+---
+schema_version: '1.0'
+id: pt:dre:454827:por
+title: Portaria n.º 699/2008
+short_title: null
+summary: Regulamenta as derrogações previstas no Regulamento (CE) n.º 853/2004, do Parlamento Europeu e do Conselho, de 29
+  de Abril, e no Regulamento (CE) n.º 2073/2005, da Comissão, de 15 de Novembro, para determinados géneros alimentícios
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 699/2008
+official_date: null
+publication_date: '2008-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 145/2008, Série I de 2008-07-29
+  number: '145'
+  series: I
+  supplement: null
+  pages: 5046 - 5048
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/07/14500/0504605048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/699/2008/07/29/p/dre/pt/html
+  oj: null
+  dre: '454827'
+  dre_path: /dr/detalhe/portaria/699-2008-454827
+  internal: pt:dre:454827:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/699-2008-454827
+  metadata_url: https://data.dre.pt/eli/port/699/2008/07/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/699-2008-454827
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-03-20T00:00:00Z'
+integrity:
+  source_sha256: 1221861629539817f394776cbc8e6142fd8dc80e5cdd8695421d9acbfb35d628
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-699-454827.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Indústria de Carnes
+- Produto Alimentar
+- Análise Laboratorial
+- Carne
+- Carne de Caprino
+- Carne de Cavalo
+- Carne de Suíno
+- Carne de Vaca
+- Estabelecimento Comercial
+- Comércio a Retalho
+- Leite
+- CAÇA
+- Direção Geral de Veterinária
+- Estabelecimento Industrial
+- Etiquetagem
+- Carne de Ovino
+- Ave de Capoeira
+- Abate de Animais
+- MEL
+- Molusco
+- OVO
+- Produtos de Pesca
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:571960:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32002R0178
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/178/oj
+- type: cites
+  target: celex:32004R0852
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/852/oj
+- type: cites
+  target: celex:32004R0853
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/853/oj
+- type: cites
+  target: celex:32005R2073
+  label: null
+  source: http://data.europa.eu/eli/reg/2005/2073/oj
+- type: cites
+  target: celex:32006R1028
+  label: null
+  source: http://data.europa.eu/eli/reg/2006/1028/oj
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 699/2008
+
+de 29 de Julho
+
+O Regulamento (CE) n.º [852/2004](https://data.europa.eu/eli/reg/2004/852/oj?locale=pt), relativo à higiene dos géneros alimentícios, e o Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt), estabelece regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal, ambos do Parlamento Europeu e do Conselho, de 29 de Abril, não se aplicam ao fornecimento directo, pelo produtor, de pequenas quantidades de produtos primários ao consumidor final ou a estabelecimentos de comércio retalhista que abasteçam directamente o consumidor final, nem ao fornecimento directo, pelo produtor, de pequenas quantidades de carne de aves de capoeira e de lagomorfos abatidos na exploração, ao consumidor final ou a estabelecimentos de comércio retalhista que abasteçam directamente o consumidor final com esta carne.
+
+Tais actividades ficam, assim, sujeitas às regras que sejam estabelecidas por cada um dos Estados membros, pelo que importa não só fixar tais regras, como estabelecer o que integra a definição de pequena quantidade para cada um dos produtos de origem animal abrangidos pela referida derrogação.
+
+Importa, ainda, estabelecer as derrogações previstas no Regulamento (CE) n.º [2073/2005](https://data.europa.eu/eli/reg/2005/2073/oj?locale=pt), da Comissão, de 15 de Novembro, relativo a critérios microbiológicos aplicáveis aos géneros alimentícios.
+
+O Decreto-Lei n.º 113/2006, de 12 de Junho, estabelece as regras de execução, no ordenamento jurídico nacional, dos Regulamentos (CE) n.os [852/2004](https://data.europa.eu/eli/reg/2004/852/oj?locale=pt) e [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt).
+
+Este diploma prevê no seu artigo 11.º que sejam objecto de portaria conjunta dos Ministros da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas as matérias que aqueles regulamentos prevêem que sejam reguladas por normas nacionais, designadamente as derrogações aos mesmos.
+
+Assim:
+
+Manda o Governo, pelos Ministros da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 11.º do Decreto-Lei n.º 113/2006, de 12 de Junho, o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+A presente portaria regulamenta as derrogações previstas no Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Abril, e no Regulamento (CE) n.º [2073/2005](https://data.europa.eu/eli/reg/2005/2073/oj?locale=pt), da Comissão, de 15 de Novembro, para determinados géneros alimentícios.
+
+###### Artigo 2.º — Fornecimento directo ao consumidor final e ao retalho local
+
+1 - O fornecimento directo ao consumidor final ou ao comércio a retalho local que abastece directamente o consumidor final ou o fornecimento por um estabelecimento de comércio retalhista a outro estabelecimento de comércio retalhista só pode ser efectuado no concelho e concelhos limítrofes do local de produção primária, incluindo locais de caçada ou do estabelecimento retalhista de origem do género alimentício.
+
+2 - O disposto no número anterior não se aplica quando a comercialização for efectuada com fins promocionais de produtos regionais em mostras temporárias organizadas para o efeito, bem como à caça selvagem.
+
+3 - O fornecimento directo dos produtos da produção primária abrangidos pela presente portaria deve ser acompanhado do código de identificação atribuído à respectiva produção primária, quando este exista.
+
+###### Artigo 3.º — Regime aplicável
+
+1 - Às actividades e estabelecimentos previstos no n.º 1 do artigo anterior são aplicáveis as disposições específicas dos artigos 4.º e seguintes, bem como as do Regulamento (CE) n.º [852/2004](https://data.europa.eu/eli/reg/2004/852/oj?locale=pt).
+
+2 - As disposições legais do Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt) não são aplicáveis às actividades e estabelecimentos a que se refere o n.º 1 do artigo anterior.
+
+###### Artigo 4.º — Pequenas quantidades de ovos, mel e pescado a fornecer pelo produtor primário
+
+1 - O fornecimento de pequenas quantidades de ovos, mel e pescado pelo produtor primário directamente ao consumidor final ou a estabelecimentos de comércio retalhista local que abasteçam directamente o consumidor final é abrangido pelo disposto na alínea c) do n.º 3 do artigo 1.º do Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt) quando seja até às seguintes quantidades máximas:
+
+a) Ovos - 350 ovos por semana, sem prejuízo das disposições constantes do n.º 3 do artigo 4.º do Regulamento (CE) n.º [1028/2006](https://data.europa.eu/eli/reg/2006/1028/oj?locale=pt);
+
+b) Mel - 500 kg por ano;
+
+c) Produtos da pesca - 150 kg por semana, sem prejuízo das demais disposições aplicáveis relativas à primeira venda de produtos da pesca.
+
+2 - É interdito o fornecimento directo de qualquer quantidade de moluscos bivalves vivos pelo produtor ao consumidor final ou ao comércio a retalho local que fornece directamente o consumidor final.
+
+###### Artigo 5.º — Pequena quantidade de leite de vaca cru a fornecer pelo produtor primário
+
+1 - O fornecimento pelo produtor primário de leite de vaca cru directamente ao consumidor final é abrangido pelo disposto na alínea c) do n.º 3 do artigo 1.º do Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt) quando seja na quantidade máxima de 50 l por dia.
+
+2 - As explorações de proveniência do leite de vaca cru referido no número anterior devem estar oficialmente indemnes de brucelose e de tuberculose.
+
+3 - As explorações de proveniência do leite de vaca cru referido no n.º 1 devem dispor das condições estruturais e de higiene previstas nos n.os 2 e 3 do anexo iii do Decreto-Lei n.º 202/2005, de 24 de Novembro.
+
+###### Artigo 6.º — Pequena quantidade de carne de aves de capoeira, lagomorfos e aves de caça de criação, excepto avestruzes, abatidos na exploração a fornecer pelo produtor primário
+
+1 - O fornecimento de carne de aves de capoeira, lagomorfos e aves de caça de criação, excepto avestruzes, abatidos na exploração pelo produtor primário directamente ao consumidor final ou a estabelecimentos de comércio retalhista que abasteçam directamente o consumidor final é abrangido pelo disposto na alínea d) do n.º 3 do artigo 1.º do Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt) quando seja até à quantidade máxima de 200 carcaças por semana.
+
+2 - Não é permitida, além do abate, evisceração e esfola, qualquer outra operação de preparação das carcaças.
+
+3 - Os produtos referidos no n.º 1 devem ostentar a identificação do estabelecimento de produção.
+
+###### Artigo 7.º — Pequena quantidade de peças de caça e carne de caça selvagem a fornecer pelo caçador
+
+1 - O fornecimento de peças de caça selvagem pelo caçador directamente ao consumidor final ou a estabelecimentos de comércio retalhista que abasteçam directamente o consumidor final é abrangido pelo disposto na alínea e) do n.º 3 do artigo 1.º do Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt) quando seja das espécies e nas quantidades máximas de:
+
+a) Lebre - 1 por dia;
+
+b) Coelhos bravos - 10 por dia;
+
+c) Passeriformes - 15 por dia;
+
+d) Faisões e perdizes - 3 por dia;
+
+e) Columbiformes - 30 por dia;
+
+f) Ralídeos e anatídeos - 10 por dia;
+
+g) Codornizes - 5 por dia.
+
+2 - Não é permitida, além da evisceração, qualquer operação de preparação das carcaças.
+
+3 - O fornecimento pelo caçador referido deve ser efectuado no prazo máximo de doze horas após a caçada.
+
+4 - O caçador deve entregar ao consumidor final ou ao estabelecimento de comércio retalhista ao qual forneça peças de caça selvagem directamente o documento de acompanhamento de modelo a divulgar na página oficial da Internet da Direcção-Geral de Veterinária.
+
+###### Artigo 8.º
+
+Frequência de amostragem para análise bacteriológica em pequenos matadouros e em estabelecimentos de produção de carne picada ou de preparados de carne em pequenas quantidades, estabelecidas nos termos do artigo 4.º do Regulamento (CE) n.º [2073/2005](https://data.europa.eu/eli/reg/2005/2073/oj?locale=pt).
+
+1 - Os estabelecimentos que abatam anualmente até 1000 bovinos e solípedes, 5000 suínos, 20 000 leitões, 10 000 ovinos e caprinos e 20 000 borregos e cabritos, podem realizar a amostragem bacteriológica prevista reduzida a frequência mensal, se os resultados das 10 semanas imediatamente prévias forem satisfatórios na pesquisa de Enterobacteriaceae, no número de colónias aeróbias e na pesquisa de Salmonella, enquanto esses resultados satisfatórios se mantiverem.
+
+2 - Os estabelecimentos industriais que abatam anualmente até 150 000 frangos de carne ou 15 000 perus podem realizar a amostragem bacteriológica prevista reduzida a frequência mensal se os resultados das 10 semanas imediatamente prévias forem satisfatórios na pesquisa de Salmonella, enquanto esses resultados satisfatórios se mantiverem.
+
+3 - Os operadores dos estabelecimentos industriais de produção de carne picada e de preparados de carne cuja produção não ultrapasse os 1000 kg de produção semanal por produto podem realizar a amostragem bacteriológica prevista reduzida a frequência mensal de amostragem bacteriológica se os resultados das seis semanas imediatamente prévias forem satisfatórios na pesquisa de E. coli e no número de colónias aeróbias, enquanto esses resultados satisfatórios se mantiverem.
+
+4 - Os operadores dos estabelecimentos industriais que pretendam ser abrangidos pelas disposições do presente artigo não podem estar na pendência da correcção de medidas impostas pelos serviços oficiais.
+
+###### Artigo 9.º
+
+Rotulagem da carne picada, nos preparados de carne e nos produtos à base de carne abrangidos pela derrogação prevista nos termos do artigo 8.º do Regulamento (CE) n.º [2073/2005](https://data.europa.eu/eli/reg/2005/2073/oj?locale=pt) em relação à Salmonella.
+
+1 - Os operadores abrangidos pelo artigo 8.º do Regulamento (CE) n.º [2073/2005](https://data.europa.eu/eli/reg/2005/2073/oj?locale=pt), que estabelece uma derrogação transitória até 31 de Dezembro de 2009 no que respeita ao cumprimento do valor estabelecido para a presença de Salmonella na carne picada, nos preparados de carne e nos produtos à base de carne destinados a serem consumidos cozinhados, colocados no mercado nacional, devem apor nesses produtos a marca de identificação especial definida no anexo da presente portaria, da qual faz parte integrante.
+
+2 - A rotulagem dos géneros alimentícios abrangidos no n.º 1 deve ainda conter a seguinte menção de forma bem visível «Necessidade de cozedura completa antes do consumo».
+
+###### Artigo 10.º — Registos e autorizações
+
+1 - Os produtores abrangidos pelos artigos 4.º e 5.º devem proceder ao registo na Direcção-Geral de Veterinária (DGV) da actividade de fornecimento directo ao consumidor final e ao comércio retalhista que abasteça directamente o consumidor final.
+
+2 - Os produtores abrangidos pelo artigo 6.º que pretendam fornecer uma pequena quantidade de carne de aves de capoeira, lagomorfos e aves de caça de criação, excepto avestruzes, abatidos na exploração ao consumidor final e ao comércio retalhista que abasteça directamente o consumidor final nos termos da alínea d) do n.º 3 do artigo 1.º do capítulo i do Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt), de 29 de Abril, devem requerer a autorização prévia ao director-geral de Veterinária.
+
+3 - Os operadores dos estabelecimentos industriais que pretendam ser abrangidos pelas disposições do artigo 8.º relativamente à frequência de amostragem para análise bacteriológica em pequenos matadouros e em estabelecimentos de produção de carne picada ou de preparados de carne em pequenas quantidades, devem requerer a sua autorização prévia ao director-geral de Veterinária.
+
+4 - Os operadores que pretendam ser abrangidos pela derrogação estabelecida pelas disposições do artigo 9.º do Regulamento (CE) n.º [2073/2005](https://data.europa.eu/eli/reg/2005/2073/oj?locale=pt) em relação ao valor estabelecido para a presença de Salmonella na carne picada, nos preparados de carne e nos produtos à base de carne destinados a serem consumidos cozinhados, colocados no mercado nacional, devem proceder ao registo junto da DGV.
+
+###### Artigo 11.º — Fornecimento de géneros alimentícios por um estabelecimento de comércio retalhista a outro estabelecimento de comércio retalhista
+
+1 - Integram os estabelecimentos previstos na subalínea ii) da alínea b) do n.º 5 do artigo 1.º do Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt) os de comércio retalhista que forneçam géneros alimentícios a outro estabelecimento de comércio retalhista nas seguintes condições:
+
+a) A quantidade fornecida não ultrapasse 10 % da quantidade comercializada, com referência ao total anual comercializado;
+
+b) No caso dos talhos e peixarias, o limite definido na alínea anterior não deve ultrapassar 800 kg por semana, de forma não cumulativa;
+
+c) Os produtos fornecidos não podem sofrer qualquer preparação prévia e devem ostentar a marca de salubridade ou marca identificação até ao estabelecimento de destino, excepto quando se destinem a estabelecimentos de restauração, cantinas de empresas, restauração em instituições, restaurantes, ou actividade similar.
+
+2 - À actividade prevista no n.º 1 são aplicáveis as disposições do Regulamento (CE) n.º [178/2002](https://data.europa.eu/eli/reg/2002/178/oj?locale=pt), do Parlamento Europeu e do Conselho, de 28 de Janeiro, designadamente no respeitante à responsabilidade dos operadores e rastreabilidade dos géneros alimentícios.
+
+**O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho, em 21 de Julho de 2008. - O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 9 de Julho de 2008.**
+
+## ANEXO — (n.º 1 do artigo 9.º)
+
+Marca de identificação especial
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/07/14500/0504605048.pdf))](https://files.diariodarepublica.pt/1s/2008/07/14500/0504605048.pdf)
+
+Especificações:
+
+1 - Grandes embalagens:
+
+Dimensão exterior da marca inferior a 5 cm de diâmetro;
+
+Dimensões mínimas dos caracteres:
+
+Letras - 0,8 cm;
+
+Números - 1 cm.
+
+2 - Pequenas embalagens:
+
+Dimensões mínimas dos caracteres inscritos no interior do círculo - 2 cm.

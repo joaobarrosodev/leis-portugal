@@ -1,0 +1,339 @@
+---
+schema_version: '1.0'
+id: pt:dre:66896468:por
+title: Portaria n.º 98-A/2015
+short_title: null
+summary: Aprova a declaração modelo 2, o modelo do recibo eletrónico de quitação de rendas e a declaração modelo 44, previstos
+  no Código do Imposto do Selo e no Código do IRS
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 98-A/2015
+official_date: null
+publication_date: '2015-03-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 63/2015, 1º Suplemento, Série I de 2015-03-31
+  number: '63'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1728-(2) a 1728-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/03/06301/0000200011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-01-01'
+version_history:
+  file: portaria-98-a-2015.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-12-05'
+    amending: pt:dre:72765778:por
+    amending_title: Portaria n.º 414/2015
+    changes:
+    - Altera Artigo 10.º
+  - date: '2018-05-30'
+    amending: pt:dre:115407035:por
+    amending_title: Portaria n.º 156/2018
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 6.º
+    - Revoga Anexo II
+  - date: '2019-01-01'
+    amending: pt:dre:117384029:por
+    amending_title: Portaria n.º 324/2018
+    changes:
+    - Altera Artigo 1.º
+    - Revoga Anexo III
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/98-a/2015/p/cons/20181214/pt/html
+  oj: null
+  dre: '66896468'
+  dre_path: /dr/detalhe/portaria/98-a-2015-66896468
+  internal: pt:dre:66896468:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/98-a-2015-66896468
+  metadata_url: https://data.dre.pt/eli/port/98-a/2015/p/cons/20181214/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-71124567
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-71124567
+  retrieved_at: '2026-10-22T12:04:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: db4b29faa35df4c358a146248b97a84dac2dd7612bfa514c218017217a51fbdd
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:04:27Z'
+  notes: 4 versão(ões); histórico completo em portaria-98-a-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade Tributária e Aduaneira
+- Cobrança de Impostos
+- Código do Imposto do SELO
+- Código do IRS
+- Contrato
+- Arrendamento Urbano não Habitacional
+- Declaração de Rendimentos
+- Formulário Eletrónico
+- Imposto do SELO
+- Contribuições e Impostos
+- IRS
+- Documento Eletrónico
+- Página na Internet
+- Prédio Rústico
+- Renda de CASA
+- Prédio Urbano
+- Arrendamento Urbano para Habitação
+relationships:
+- type: amended_by
+  target: pt:dre:72765778:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/414-2015-72765778
+  date: '2015-11-30'
+- type: amended_by
+  target: pt:dre:115407035:por
+  label: Altera Artigo 1.º; Altera Artigo 6.º; Revoga Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/156-2018-115407035
+  date: '2018-05-29'
+- type: amended_by
+  target: pt:dre:117384029:por
+  label: Altera Artigo 1.º; Revoga Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/324-2018-117384029
+  date: '2018-12-14'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/294/2009/10/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/294/2009/10/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/150/1999/09/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/150/1999/09/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/82-e/2014/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/82-e/2014/12/31/p/dre
+article_structure:
+  article_count: 12
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:04:27Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 98-A/2015
+
+Portaria n.º 98-A/2015
+
+de 31 de março
+
+A Lei n.º 82-E/2014, de 31 de dezembro, em vigor a partir de 1 de janeiro de 2015, veio proceder à reforma da tributação das pessoas singulares, introduzindo alterações profundas no Código do Imposto sobre o Rendimento das Pessoas Singulares (adiante designado por Código do IRS), aprovado pelo Decreto-Lei n.º 442-A/88, de 30 de novembro.
+
+De entre as alterações mais relevantes consta a consagração do arrendamento como uma verdadeira atividade económica e, consequentemente, a possibilidade de dedução da maioria dos gastos que sejam efetivamente suportados e pagos pelos titulares de rendimentos prediais.
+
+Paralelamente, foi instituído no artigo 115.º deste Código a obrigatoriedade de os titulares daqueles rendimentos emitirem recibo de quitação eletrónico, em modelo oficial, de todas as importâncias recebidas dos seus inquilinos, pelo pagamento das rendas referidas nas alíneas a) a e) do n.º 2 do artigo 8.º do mesmo Código, ainda que a título de caução ou adiantamento ou entregarem à AT, até ao fim do mês de janeiro de cada ano, por referência ao ano anterior, uma declaração de modelo oficial com a discriminação desses rendimentos.
+
+Nos termos da Lei n.º 82-E/2014, de 31 de dezembro, as alterações introduzidas pela mesma ao artigo 115.º do Código do IRS produzem efeitos a partir de 1 de janeiro de 2015, devendo os recibos de quitação em papel emitidos nos meses de janeiro a abril ser passados eletronicamente conjuntamente com o recibo de quitação emitido no mês de maio do mesmo ano, o que não elimina a obrigação de entrega dos recibos de quitação em papel aos inquilinos, nos termos e nos prazos definidos na lei civil, nos meses de janeiro a abril de 2015.
+
+Por outro lado, a Lei n.º 82-B/2014, de 31 de dezembro (Lei do Orçamento do Estado para 2015), veio introduzir significativas alterações no sistema de gestão e controlo dos contratos de arrendamento e subarrendamento até aqui vigente, alterando o artigo 60.º do Código do Imposto do Selo (adiante designado por Código do IS), aprovado pela Lei n.º 150/99, de 11 de setembro, instituindo a obrigatoriedade de comunicação à Autoridade Tributária e Aduaneira (AT) dos contratos de arrendamento, subarrendamento e respetivas promessas, bem como das suas alterações e cessação.
+
+Nos termos do n.º 2 do artigo 60.º do Código do IS, na redação dada pela Lei n.º 82-B/2014, de 31 de dezembro, a comunicação anteriormente referida deve ser efetuada até ao fim do mês seguinte ao do início do arrendamento ou do subarrendamento, das alterações, da cessação ou, no caso de promessa, da disponibilização do bem locado, em declaração de modelo oficial.
+
+Com estas alterações são dados novos passos no sentido da crescente desmaterialização e simplificação no cumprimento das obrigações fiscais, sem encargos, a par com o reforço dos mecanismos de controlo, contribuindo também para a redução dos níveis de incumprimento e de evasão fiscal.
+
+A presente portaria tem, assim, como objetivo proceder à aprovação da declaração de comunicação de contratos de arrendamento prevista n.º 2 do artigo 60.º do Código do IS e, bem assim, do modelo de recibo de quitação para efeitos do disposto na alínea a) do n.º 5 do artigo 115.º do Código do IRS e da declaração de discriminação de rendimentos prediais prevista na alínea b) do n.º 5 do mesmo artigo.
+
+Assim,
+
+Manda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, nos termos do n.º 2 do artigo 1.º da Lei n.º 150/99, de 11 de setembro e do artigo 8.º do Decreto-Lei n.º 442.º-A/88, de 30 de novembro, o seguinte:
+
+### Capítulo I — Modelos oficiais
+
+###### Artigo 1.º — Objeto
+
+São aprovados os seguintes modelos oficiais que se publicam em anexo à presente portaria, da qual fazem parte integrante:
+
+a) A declaração modelo 2 do Imposto do Selo e respetivas instruções de preenchimento, a que se refere o n.º 2 do artigo 60.º do Código do IS, que constam do anexo I;
+
+b) (Revogada);
+
+c) (Revogada).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 324/2018 - Diário da República n.º 241/2018, Série I de 2018-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/324-2018-117384029), em vigor a partir de 2019-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 156/2018 - Diário da República n.º 103/2018, Série I de 2018-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/156-2018-115407035), em vigor a partir de 2018-05-30, produz efeitos a partir de 2018-01-01
+
+### Capítulo II — Comunicação de contratos
+
+###### Artigo 2.º — Formalidades da Comunicação
+
+1 - Por cada contrato de arrendamento ou subarrendamento, respetivas alterações e cessação, bem como contrato promessa com a disponibilização do bem locado, deve ser apresentada uma declaração modelo 2.
+
+2 - Sempre que se verifique a existência de mais do que um locador, sublocador ou promitente, a declaração apresentada por um deles, com a identificação dos restantes, dispensa a declaração pelos demais.
+
+###### Artigo 3.º — Entrega da declaração Modelo 2
+
+1 - A declaração modelo 2 deve ser entregue por transmissão eletrónica de dados no Portal das Finanças, no endereço eletrónico www.portaldasfinancas.gov.pt.
+
+2 - Sem prejuízo do disposto no número anterior, os sujeitos passivos referidos no n.º 2 e alínea b) do n.º 3 do artigo 5.º podem ainda cumprir a obrigação em qualquer serviço de finanças.
+
+3 - Caso haja opção nesse sentido pelo sujeito passivo, as obrigações previstas nos n.os 3 e 5 do artigo 6.º do Regime do Arrendamento Rural, estabelecido no Decreto-Lei n.º 294/2009, de 13 de outubro, podem também ser cumpridas através do modelo 2 em qualquer serviço de finanças.
+
+###### Artigo 4.º — Liquidação e pagamento do Imposto de Selo
+
+1 - A liquidação do imposto do selo, quando devido, é efetuada pela AT na sequência da submissão da declaração modelo 2.
+
+2 - No momento da liquidação do imposto é emitido documento único de cobrança que, certificado pelos meios em uso na rede de cobrança, comprova o pagamento do imposto.
+
+### Capítulo III — Recibo de renda eletrónico
+
+###### Artigo 5.º — Âmbito de aplicação
+
+1 - São obrigados à emissão do recibo de renda eletrónico os sujeitos passivos de IRS, titulares de rendimentos da categoria F, pelas rendas recebidas ou colocadas à disposição, referidas nas alíneas a) a e) do n.º 2 do artigo 8.º do Código do IRS, ainda que a título de caução ou adiantamento, quando não optem pela sua tributação no âmbito da categoria B.
+
+2 - Ficam dispensados da obrigação prevista no número anterior os sujeitos passivos que, cumulativamente:
+
+a) Não possuam, nem estejam obrigados a possuir, caixa postal eletrónica, nos termos do artigo 19.º da Lei Geral Tributária; e
+
+b) Não tenham auferido, no ano anterior, rendimentos da categoria F em montante superior a duas vezes o valor do IAS ou, não tendo auferido naquele ano qualquer rendimento desta categoria, prevejam que lhes sejam pagas ou colocadas à disposição rendas em montante não superior àquele limite.
+
+3 - Ficam igualmente dispensados da obrigação prevista no n.º 1:
+
+a) As rendas correspondentes aos contratos abrangidos pelo Regime do Arrendamento Rural, estabelecido no Decreto-Lei n.º 294/2009, de 13 de outubro; e
+
+b) Os sujeitos passivos que sejam titulares de rendimentos da categoria F e que tenham, a 31 de dezembro do ano anterior àquele a que respeitam tais rendimentos, idade igual ou superior a 65 anos.
+
+4 - Os sujeitos passivos referidos nos n.os 2 e 3 podem optar pela emissão do recibo de renda eletrónico, ficando a partir da primeira emissão deste recibo sujeitos às regras gerais de emissão por esta via, devendo, sendo caso disso, emitir na mesma data os recibos de renda eletrónicos referentes às rendas auferidas nos meses anteriores do mesmo ano.
+
+###### Artigo 6.º — Emissão do recibo de renda eletrónico
+
+1 - O preenchimento e emissão do recibo de renda eletrónico efetua-se obrigatoriamente no Portal das Finanças, no endereço eletrónico www.portaldasfinancas.gov.pt.
+
+2 - Para a emissão do recibo de renda eletrónico devem ser seguidos os procedimentos referidos no Portal das Finanças, mediante autenticação com o respetivo número de identificação fiscal e a senha de acesso.
+
+3 - O recibo de renda é emitido em duplicado, destinando-se o original a dar quitação das rendas recebidas da contraparte, ficando o duplicado para o emitente.
+
+4 - Para efeitos do disposto na alínea b) do n.º 1 do artigo 78.º-D do Código do IRS, devem os titulares do arrendamento, que reúnam os pressupostos previstos nesse artigo, registar no Portal das Finanças a indicação de que o contrato se destina ao arrendamento se de estudante deslocado, caso em que os respetivos recibos de renda eletrónicos são emitidos com a seguinte indicação, nas 'Informações Complementares', "O arrendamento/subarrendamento destina-se a 'estudante deslocado'
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 156/2018 - Diário da República n.º 103/2018, Série I de 2018-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/156-2018-115407035), em vigor a partir de 2018-05-30, produz efeitos a partir de 2018-01-01
+
+###### Artigo 7.º — Consulta e anulação de recibo de renda eletrónico
+
+1 - Os recibos de renda emitidos ficam disponíveis para consulta no Portal das Finanças, mediante autenticação individual, pelos emitentes, titulares dos rendimentos, e pelas entidades obrigadas ao pagamento, durante o período de 4 anos.
+
+2 - A informação referida no número anterior é disponibilizada para consulta imediata quando respeitante aos últimos dois anos, sendo, nos restantes casos, disponibilizada a pedido do interessado, através do Portal das Finanças.
+
+3 - A anulação dos recibos de renda previstos na alínea b) do artigo 1.º depende de pedido do emitente, a submeter obrigatoriamente no Portal das Finanças, até ao termo do prazo legal para a entrega de respetiva declaração de rendimentos do IRS.
+
+4 - No caso de anulação do recibo de renda são desconsiderados os efeitos fiscais de quitação do documento, nomeadamente os de suporte de encargos ou gastos.
+
+5 - No caso referido nos n.os 3 e 4, a AT envia comunicação informativa à entidade que conste no recibo anulado como pagadora da renda.
+
+6 - A comunicação referida no número anterior é enviada por uma das seguintes vias:
+
+a) Por transmissão eletrónica de dados para os contribuintes que possuam caixa postal eletrónica ou que tenham autorizado no Portal das Finanças o envio de correio eletrónico;
+
+b) Por simples via postal, nos restantes casos.
+
+### Capítulo IV — Comunicação anual de rendas
+
+###### Artigo 8.º — Declaração de rendas
+
+1 - Os sujeitos passivos que estejam dispensados e que não tenham optado pela emissão do recibo eletrónico de rendas, nos termos do n.º 2 e da alínea b) do n.º 3 do artigo 5.º, estão obrigados a entregar à AT a declaração a que se refere a alínea c) do artigo 1.º, com a discriminação dos rendimentos previstos nas alíneas a) a e) do n.º 2 do artigo 8.º do Código do IRS, até ao fim do mês de janeiro de cada ano, por referência ao ano anterior, nos termos do disposto na alínea b) do n.º 5 do artigo 115.º do mesmo Código.
+
+2 - A obrigação prevista no número anterior pode ser cumprida por transmissão eletrónica de dados no Portal das Finanças ou através da apresentação da declaração em suporte papel junto de qualquer serviço de finanças.
+
+3 - Estão ainda obrigadas à entrega da declaração referida no n.º 1, por transmissão eletrónica de dados, as entidades dispensadas da obrigação de emissão de fatura, fatura-recibo ou recibo a que se refere o n.º 7 do artigo 78.º-E do Código do IRS, exceto quando tais entidades emitam e comuniquem faturas.
+
+4 - Caso haja opção nesse sentido pelo sujeito passivo, as rendas correspondentes aos contratos abrangidos pelo Regime do Arrendamento Rural, estabelecido no Decreto-Lei n.º 294/2009, de 13 de outubro, podem também ser declaradas nos termos do presente artigo.
+
+### Capítulo V — Disposições comuns
+
+###### Artigo 9.º — Cumprimento das obrigações em nome do sujeito passivo
+
+1 - Os sujeitos passivos podem autorizar terceiros a cumprirem, por transmissão eletrónica de dados, as obrigações previstas na presente portaria.
+
+2 - A autorização prevista no número anterior deve ser comunicada no Portal das Finanças, de acordo com os procedimentos aí indicados.
+
+3 - Sem prejuízo do disposto nos números anteriores, o incumprimento das obrigações previstas nesta Portaria é sempre imputável ao sujeito passivo.
+
+###### Artigo 10.º — Cumprimento das obrigações por transmissão eletrónica de dados
+
+1 - O cumprimento por transmissão eletrónica de dados das obrigações previstas na presente portaria é efetuado no Portal das Finanças, após autenticação dos sujeitos passivos ou dos terceiros por eles autorizados, e de acordo com os procedimentos aí indicados.
+
+2 - A declaração modelo 2 considera-se apresentada na data em que é validada e submetida.
+
+3 - A declaração modelo 44 considera-se apresentada na data em que é submetida, podendo o sujeito passivo, no prazo de 30 dias, corrigir eventuais erros impeditivos da validação da declaração.
+
+4 - Se, findo o prazo referido no número anterior, não forem corrigidos os erros detetados, a declaração é considerada como não apresentada.
+
+5 - O impresso em suporte de papel referente à declaração modelo 44 constitui modelo exclusivo da Imprensa Nacional-Casa da Moeda, S. A., e integra original e duplicado, devendo este ser devolvido ao apresentante no momento da receção, depois de devidamente autenticado.
+
+> Alterado pelo/a Artigo único do/a [Portaria n.º 414/2015 - Diário da República n.º 234/2015, Série I de 2015-11-30](https://diariodarepublica.pt/dr/detalhe/portaria/414-2015-72765778), em vigor a partir de 2015-12-05
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 11.º — Disposição transitória
+
+1 - A obrigação de emissão do recibo de renda eletrónico aprovado pela presente portaria produz efeitos desde 1 de janeiro de 2015.
+
+2 - Em conformidade com o disposto na Lei n.º 82-E/2014, de 31 de dezembro, os recibos de quitação em papel emitidos nos meses de janeiro a abril do ano de 2015 devem ser emitidos eletronicamente conjuntamente com o recibo de renda eletrónico emitido no mês de maio do mesmo ano.
+
+###### Artigo 12.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia 1 de abril de 2015.
+
+O Secretário de Estado dos Assuntos Fiscais, Paulo de Faria Lince Núncio, em 30 de março de 2015.
+
+## Anexo I — Declaração Modelo 2 do Imposto do Selo
+
+(ver documento original)
+
+## Anexo II — RECIBO DE RENDA ELETRÓNICO INSTRUÇÕES DE PREENCHIMENTO
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 156/2018 - Diário da República n.º 103/2018, Série I de 2018-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/156-2018-115407035), em vigor a partir de 2018-05-30, produz efeitos a partir de 2018-01-01
+
+## Anexo III — DECLARAÇÃO MODELO 44 INSTRUÇÕES DE PREENCHIMENTO
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 324/2018 - Diário da República n.º 241/2018, Série I de 2018-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/324-2018-117384029), em vigor a partir de 2019-01-01

@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:416432:por
+title: Decreto-Lei n.º 873/76
+short_title: null
+summary: Autoriza a Direcção-Geral do Tesouro a emitir a obrigação geral representativa da 3.ª série do empréstimo interno,
+  amortizável, denominado «Obrigações do Tesouro, 10% - 1976», no total nominal de 3 milhões de contos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 873/76
+official_date: null
+publication_date: '1976-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 300/1976, Série I de 1976-12-28
+  number: '300'
+  series: I
+  supplement: null
+  pages: 2854 - 2855
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/12/30000/28542855.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '416432'
+  dre_path: /dr/detalhe/decreto-lei/873-1976-416432
+  internal: pt:dre:416432:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/873-1976-416432
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/873-1976-416432
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-05-08T00:00:00Z'
+integrity:
+  source_sha256: 22f4c6d5b7d83c07fbb3673efa0e41341a68b33c3851307d1238e5409f57b535
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-873-416432.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:115235757:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 873/76
+
+de 28 de Dezembro
+
+O [Decreto-Lei n.º 333-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-a-1976-171133), de 10 de Maio, autorizou a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 10% - 1976».
+
+Este diploma determinou também a imediata emissão da 1.ª série de obrigações, no total de 5 milhões de contos nominais, cuja colocação seria feita, inicialmente, por subscrição pública. Em virtude do êxito obtido nesta operação, houve necessidade de, mais tarde, pelo [Decreto n.º 506-A/76](https://diariodarepublica.pt/dr/detalhe/decreto/506-a-1976-518039), de 1 de Julho, se autorizar a emissão de uma nova série de obrigações do mesmo empréstimo - a 2.ª série -, no montante de 3 milhões de contos.
+
+Também se previu que a sua colocação seria feita por subscrição pública em condições semelhantes às estabelecidas para as obrigações da 1.ª série.
+
+Tal como acontecera na 1.ª série, também as obrigações da 2.ª se encontram praticamente esgotadas, pelo que há necessidade de se autorizar a emissão de nova obrigação geral, que corresponderá à 3.ª emissão de obrigações.
+
+Igualmente se aproveita a oportunidade, em virtude do interesse que continua a manifestar-se por parte do público, para se alargar o prazo da subscrição, o que, aliás, está previsto no Programa do Governo.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Nos termos do disposto nos artigos 1.º e 2.º e de harmonia com o n.º 2 do artigo 3.º do [Decreto-Lei n.º 333-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-a-1976-171133), de 10 de Maio, é a Direcção-Geral do Tesouro autorizada a emitir a obrigação geral representativa da 3.ª série do empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 10% - 1976», no total nominal de 3 milhões de contos.
+
+###### Art. 2.º Poderá o Ministro das Finanças contratar com as instituições de crédito nacionais a colocação, total ou parcial, dos títulos desta nova série ou fazê-la por subscrição pública ou por venda no mercado.
+
+###### Art. 3.º - 1. A colocação será feita inicialmente por subscrição pública, aberta de 16 de Agosto a 14 de Novembro de 1976, considerando-se este prazo, para efeito do valor dos juros a vencer em 15 de Novembro do mesmo ano, dividido em seis períodos.
+
+2. As obrigações da 2.ª série que ainda não estejam colocadas poderão sê-lo igualmente no prazo estabelecido no número anterior.
+
+3. As obrigações que forem colocadas por subscrição pública serão representadas, até à troca pelos correspondentes títulos definitivos, por cautelas entregues no acto do pagamento da subscrição.
+
+###### Art. 4.º São os seguintes os juros parciais, por obrigação, conferidos aos tomadores, em relação a cada um dos seis períodos referidos no n.º 1 do artigo 3.º:
+
+Período de 16 a 31 de Agosto - 25$00;
+
+Período de 1 a 15 de Setembro - 20$80;
+
+Período de 16 a 30 de Setembro - 16$60;
+
+Período de 1 a 15 de Outubro - 12$50;
+
+Período de 16 a 31 de Outubro - 8$30;
+
+Período de 1 a 14 de Novembro - 4$10.
+
+###### Art. 5.º - 1. Até à data do vencimento dos primeiros juros - 15 de Novembro de 1976 - a Junta entregará a cada uma das instituições de crédito que tenha participado na colocação uma ordem de pagamento da importância correspondente aos juros a pagar, naquela data, das obrigações que tenha colocado até 31 de Outubro.
+
+2. As ordens subscritas correspondentes aos juros das obrigações subscritas de 1 a 14 de Novembro serão entregues às instituições de crédito até 30 deste mesmo mês.
+
+###### Art. 6.º A importância total das subscrições feitas por intermédio das instituições de crédito será por estas entregue ao Tesouro nos dez dias úteis após o final de cada um dos novos seis períodos de subscrição, mediante guias a solicitar.
+
+###### Art. 7.º No mesmo prazo indicado no artigo anterior, cada uma das instituições de crédito comunicará por escrito à Junta do Crédito Público a quantidade de obrigações subscritas por seu intermédio, com discriminação dos títulos de 1, de 5 e de 10 obrigações pretendidos.
+
+###### Art. 8.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos da nova série de obrigações do empréstimo cuja emissão é agora autorizada.
+
+###### Art. 9.º As despesas com a emissão, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças, inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+
+###### Art. 10.º São aplicáveis às obrigações correspondentes a esta nova emissão as disposições contidas nos artigos 4.º, 5.º, 8.º, 10.º, 12.º e 15.º do [Decreto-Lei n.º 333-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/333-a-1976-171133).
+
+###### Art. 11.º Este decreto-lei entra em vigor na data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Henrique Medina Carreira.
+
+**Promulgado em 17 de Dezembro de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

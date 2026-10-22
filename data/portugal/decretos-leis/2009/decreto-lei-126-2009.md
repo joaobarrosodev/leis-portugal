@@ -1,0 +1,1134 @@
+---
+schema_version: '1.0'
+id: pt:dre:494212:por
+title: Decreto-Lei n.º 126/2009
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 55/2008, de 4 de Setembro, transpõe para a ordem jurídica
+  interna a Directiva n.º 2003/59/CE, do Parlamento Europeu e do Conselho, de 15 de Julho, relativa à qualificação inicial
+  e à formação contínua dos motoristas de determinados veículos rodoviários afectos ao transporte de mercadorias e de passageiros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 126/2009
+official_date: null
+publication_date: '2009-05-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 102/2009, Série I de 2009-05-27
+  number: '102'
+  series: I
+  supplement: null
+  pages: 3310 - 3319
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/05/10200/0331003319.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-01-09'
+version_history:
+  file: decreto-lei-126-2009.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-05-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-05-12'
+    amending: pt:dre:25343743:por
+    amending_title: Decreto-Lei n.º 65/2014
+    changes:
+    - Altera Anexo V
+  - date: '2021-01-09'
+    amending: pt:dre:150757539:por
+    amending_title: Decreto-Lei n.º 102-C/2020
+    changes:
+    - Adita Artigo 8.º-A
+    - Adita Artigo 11.º-A
+    - Adita Artigo 12.º-A
+    - Adita Artigo 13.º-A
+    - Adita Artigo 14.º-A
+    - Adita Artigo 17.º-A
+    - Adita Artigo 18.º-A
+    - Adita Artigo 34.º-A
+    - Adita Artigo 34.º-B
+    - Adita Artigo 34.º-C
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+    - Revoga Artigo 13.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/126/2009/p/cons/20201209/pt/html
+  oj: null
+  dre: '494212'
+  dre_path: /dr/detalhe/decreto-lei/126-2009-494212
+  internal: pt:dre:494212:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2009-494212
+  metadata_url: https://data.dre.pt/eli/dec-lei/126/2009/p/cons/20201209/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-150902855
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-150902855
+  retrieved_at: '2026-10-22T12:36:03Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6a4e91a79fb6d957df5806d3c47234adbb68490860b57b0eb183d681be0ebb5a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:36:03Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-126-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Transitária
+- PSP
+- Aproximação das Legislações
+- Crime
+- Certificado de Aptidão Profissional
+- Catálogo Nacional de Qualificações
+- Formação Profissional
+- Multa
+- Definição de Competências
+- Fiscalização
+- Formador
+- Instituto da Mobilidade e dos Transportes Terrestres
+- Licenciamento
+- GNR
+- Condutor
+- Transporte de Mercadorias
+- Programa de Formação
+- Qualificação Profissional
+- Regime Jurídico
+- Transporte de Passageiros
+relationships:
+- type: amended_by
+  target: pt:dre:25343743:por
+  label: Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2014-25343743
+  date: '2014-05-07'
+- type: amended_by
+  target: pt:dre:150757539:por
+  label: Adita Artigo 8.º-A; Adita Artigo 11.º-A; Adita Artigo 12.º-A; Adita Artigo 13.º-A; Adita Artigo 14.º-A; Adita Artigo
+    17.º-A; Adita Artigo 18.º-A; Adita Artigo 34.º-A; Adita Artigo 34.º-B; Adita Artigo 34.º-C; Altera Artigo 2.º; Altera
+    Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo
+    10.º; Altera Artigo 12.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539
+  date: '2020-12-09'
+- type: cites
+  target: celex:31985D0368
+  label: null
+  source: http://data.europa.eu/eli/dec/1985/368/oj
+- type: cites
+  target: celex:31991L0439
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/439/oj
+- type: cites
+  target: celex:32003L0059
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/59/oj
+- type: cites
+  target: celex:32004L0066
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/66/oj
+- type: cites
+  target: celex:32006L0103
+  label: null
+  source: http://data.europa.eu/eli/dir/2006/103/oj
+- type: cites
+  target: celex:32006L0126
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R1072
+  label: null
+  source: null
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/55/2008/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/55/2008/09/04/p/dre
+article_structure:
+  article_count: 45
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:36:03Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 126/2009
+
+Decreto-Lei n.º 126/2009
+
+de 27 de Maio
+
+O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0059" title="Link para Directiva da Comunidade Europeia">2003/59/CE</a>, do Parlamento Europeu e do Conselho, de 15 de Julho, alterada pela Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0066" title="Link para Directiva da Comunidade Europeia">2004/66/CE</a>, do Conselho, de 26 de Abril, e pela Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0103" title="Link para Directiva da Comunidade Europeia">2006/103/CE</a>, do Conselho, de 20 de Novembro, relativa à qualificação inicial e à formação contínua dos motoristas de determinados veículos rodoviários afectos ao transporte de mercadorias e de passageiros.
+
+Como é sabido, a referida Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0059" title="Link para Directiva da Comunidade Europeia">2003/59/CE</a> é aplicável aos motoristas por conta própria e por conta de outrem e visa assegurar a qualificação dos motoristas, tanto no acesso à actividade de condução, como durante o respectivo exercício, ao longo da sua vida activa.
+
+Trata-se de uma qualificação mais vasta do que aquela que é proporcionada pelo ensino para a obtenção da carta de condução, na medida em que contempla um amplo conjunto de especificidades da condução dos motoristas abrangidos, versando ainda sobre especificidades dos sectores do transporte rodoviário em que esses motoristas desenvolvem a sua actividade.
+
+Em termos globais, este novo sistema de qualificação visa melhorar as condições de segurança numa dupla perspectiva, incidindo quer sobre a segurança rodoviária, quer sobre a segurança dos próprios motoristas.
+
+Ponderada a conjugação do objectivo de melhoria das condições de segurança com a realidade nacional, optou-se por restringir o leque de isenções estabelecido pela Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0059" title="Link para Directiva da Comunidade Europeia">2003/59/CE</a>.
+
+Assim, quanto aos motoristas de veículos pesados de passageiros, ficam isentos do regime do presente decreto-lei os que conduzem veículos com lotação até 14 lugares, incluindo o condutor, desde que utilizados no transporte não comercial para fins privados.
+
+Quanto aos motoristas de veículos pesados de mercadorias, é estabelecida isenção para os que efectuam transportes para fins privados, ou seja, nos casos em que o transporte em veículos de peso bruto até 7500 kg não se enquadre no desenvolvimento de uma actividade comercial, bem como aqueles em que o condutor transporte materiais ou equipamentos inerentes ao desempenho da sua própria profissão, desde que essa profissão não seja, em termos principais, a de condução do veículo.
+
+Relativamente à formação, assume relevo, por exemplo, a matéria formativa respeitante à condução defensiva, cujos efeitos benéficos para a racionalização do consumo de combustível, para o sector dos transportes rodoviários e para a sociedade em geral, são igualmente de registar.
+
+Por outro lado, o adequado conhecimento das regulamentações sectoriais aplicáveis ao transporte de mercadorias e ao transporte de passageiros em autocarro, constitui igualmente um factor relevante para o aumento da qualidade destes serviços de transporte rodoviário.
+
+Esta qualificação, tanto a obtida com a formação inicial, como a decorrente da respectiva actualização através da formação contínua, em cada cinco anos, é comprovada através do certificado de aptidão para motorista (CAM), indispensável para a obtenção da carta de qualificação de motorista.
+
+Este documento em conjunto com a carta de condução habilita o motorista a conduzir de acordo com as exigências ora fixadas.
+
+A formação cabe a entidades devidamente licenciadas pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P., mediante a observância de um conjunto de requisitos específicos que têm em vista assegurar a prestação de uma formação de qualidade e apta a formar os motoristas de acordo com os padrões de exigência e os objectivos prosseguidos pelo presente decreto-lei.
+
+Para além do regime de licenciamento de entidades para ministrar formação e do reconhecimento dos respectivos cursos, o presente decreto-lei estabelece o regime sancionatório aplicável ao incumprimento das normas que institui, determina a calendarização da obrigação de obter a carta de qualificação de motorista e estabelece os conteúdos da formação.
+
+O projecto correspondente ao presente decreto-lei foi submetido a apreciação pública através de publicação na separata do Boletim do Trabalho e Emprego, n.º 4, de 26 de Novembro de 2008.
+
+Diversas associações sindicais, patronais e entidades formadoras emitiram pareceres que suscitaram algumas alterações, nomeadamente no que se refere ao regime de isenções do âmbito de aplicação do presente decreto-lei e ao requisito de capacidade financeira das entidades formadoras que não revistam a forma de sociedade comercial.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 55/2008, de 4 de Setembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei transpõe para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0059" title="Link para Directiva da Comunidade Europeia">2003/59/CE</a>, do Parlamento Europeu e do Conselho, de 15 de Julho, alterada pela Directiva n.º <a href="eurlex.asp?ano=2004&id=304L0066" title="Link para Directiva da Comunidade Europeia">2004/66/CE</a>, do Conselho, de 26 de Abril, e pela Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0103" title="Link para Directiva da Comunidade Europeia">2006/103/CE</a>, do Conselho, de 20 de Novembro, relativa à qualificação inicial e à formação contínua dos condutores de determinados veículos rodoviários de mercadorias e de passageiros, fixando o correspondente regime aplicável.
+
+###### Artigo 2.º — Âmbito
+
+1 - O presente decreto-lei é aplicável à atividade de condução exercida por:
+
+a) Nacionais de um Estado-Membro;
+
+b) Nacionais de um país terceiro empregados ou contratados por uma empresa estabelecida num Estado-Membro.
+
+2 - A condução referida no número anterior é exercida por motoristas que efetuam transporte rodoviário em estradas abertas ao público por meio de:
+
+a) Veículos para os quais seja exigida uma carta de condução das categorias C1, C1E, C ou CE;
+
+b) Veículos para os quais seja exigida uma carta de condução das categorias D1, D1E, D e DE.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 3.º — Isenções
+
+1 - Não são abrangidos pelo disposto no presente decreto-lei os motoristas dos seguintes veículos:
+
+a) Cuja velocidade máxima autorizada não ultrapasse 45 km/h;
+
+b) Ao serviço ou sob o comando das Forças Armadas, da proteção civil, dos bombeiros, das forças policiais ou dos serviços de transporte de urgência em ambulância, quando o transporte seja efetuado em resultado das tarefas atribuídas a esses serviços;
+
+c) Submetidos a ensaios de estrada para fins de aperfeiçoamento técnico, de reparação ou de manutenção, ou aos motoristas de veículos novos ou transformados que ainda não tenham sido postos em circulação;
+
+d) Para os quais seja exigida uma carta de condução da categoria D ou D1 e que sejam conduzidos, sem passageiros a bordo, por pessoal de manutenção, para ou a partir de um centro de manutenção situado nas imediações da base de manutenção mais próxima utilizada pelo operador de transportes, desde que a condução do veículo não constitua a atividade principal do motorista;
+
+e) Utilizados em situações de emergência ou afetos a missões de salvamento, incluindo veículos utilizados em operações não comerciais de transporte de ajuda humanitária;
+
+f) Utilizados em aulas ou exames de condução automóvel destinados à obtenção de carta de condução ou de certificado de aptidão de motorista (CAM), desde que não sejam utilizados para o transporte comercial de mercadorias ou de passageiros;
+
+g) Utilizados para o transporte não comercial de passageiros ou de bens;
+
+h) Que transportem material, equipamento ou máquinas destinadas a ser utilizados pelo motorista no exercício da sua profissão, desde que a condução do veículo não constitua a sua atividade principal.
+
+2 - A isenção prevista na alínea f) do número anterior não se aplica no âmbito da formação prevista no presente decreto-lei, durante a aprendizagem em contexto de trabalho, desde que o candidato esteja acompanhado por outro motorista qualificado ou por um instrutor de condução, habilitado na categoria de veículo utilizado para os fins de formação ou ensino da condução.
+
+3 - Estão igualmente isentos os motoristas de veículos que circulem em zonas rurais para abastecer a sua própria empresa, desde que não realizem serviços de transporte remunerado e o transporte seja considerado transporte ocasional sem impacto na segurança rodoviária.
+
+4 - Estão ainda isentos os motoristas de veículos utilizados ou alugados sem motorista por empresas agrícolas, hortícolas, florestais, pecuárias ou de pesca para o transporte de mercadorias como parte da sua própria atividade empresarial, exceto se a condução fizer parte da atividade principal do motorista ou exceder a distância de 100 km prevista nas alíneas a) e b) do n.º 2 da Portaria n.º 222/2008, de 5 de março, a partir do local do estabelecimento da empresa que é proprietária do veículo, o aluga ou o toma em locação.
+
+5 - São definidas por portaria dos membros do Governo responsáveis pela área dos transportes e pela respetiva área setorial as condições de verificação dos requisitos previstos nos n.os 3 e 4.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+### Capítulo II — Habilitação e qualificação
+
+###### Artigo 4.º — Qualificação de motorista
+
+1 - Sem prejuízo das isenções previstas no artigo anterior, a qualificação de motorista para o exercício da condução dos veículos das categorias referidas no n.º 2 do artigo 2.º é obrigatória, sendo titulada por:
+
+a) Carta de condução com o código 95 averbado, para motoristas residentes em território nacional;
+
+b) Carta de qualificação de motorista (CQM), para motoristas não residentes que trabalhem em Portugal e que efetuem a formação contínua em território nacional.
+
+2 - Nas situações em que é emitida CQM, esta fica condicionada à validade das categorias de veículos constantes na carta de condução e no CAM.
+
+3 - O modelo da CQM e respetivas especificações constam do anexo v do presente decreto-lei e do qual faz parte integrante.
+
+4 - O averbamento do código 95 na carta de condução ou a emissão de CQM tem a validade de cinco anos e depende da posse de um CAM, emitido de acordo com o n.º 2 do artigo seguinte.
+
+5 - O Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), é a entidade competente para emitir os documentos referidos no n.º 1.
+
+6 - Os dados da CQM podem ser disponibilizados em aplicação móvel, nos termos previstos nos n.os 1 e 4 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual.
+
+7 - Um motorista nacional de país terceiro que conduza veículos utilizados no transporte de mercadorias por estrada deve comprovar que possui a qualificação e a formação exigidas através do certificado de motorista previsto no Regulamento (CE) n.º 1072/2009, do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, desde que esse certificado apresente o código 95 na secção de observações e que o motorista tenha cumprido os requisitos de qualificação e de formação previstos no presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 5.º — Certificado de aptidão para motorista
+
+1 - O CAM comprova a qualificação inicial ou a formação contínua, a que se referem os artigos 6.º e 9.º, respectivamente.
+
+2 - A emissão do CAM depende de aprovação em exame após frequência da formação inicial ou da obtenção de aproveitamento na formação contínua.
+
+3 - A qualificação comprovada pelo CAM é válida pelo período de cinco anos, contados a partir da data do exame ou da conclusão da formação contínua, consoante o caso.
+
+4 - No decurso da formação inicial para obtenção do CAM é permitida a habilitação para a condução de veículos das categorias C1, C1E, C e CE a partir dos 18 anos e a habilitação das categorias D1, D1E, D e DE a partir dos 21 anos.
+
+5 - O CAM é emitido pelo IMT, I. P., podendo esta competência ser delegada por deliberação do conselho diretivo do IMT, I. P.
+
+6 - O modelo do CAM é fixado por deliberação do conselho diretivo do IMT, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 6.º — Qualificação inicial
+
+1 - A qualificação inicial é obrigatória e integra as seguintes modalidades:
+
+a) Qualificação inicial comum;
+
+b) Qualificação inicial acelerada.
+
+2 - A formação de qualificação inicial e a metodologia da avaliação dos motoristas são reguladas pelo disposto nos anexos ii e iii ao presente decreto-lei, do qual fazem parte integrante.
+
+###### Artigo 7.º — Qualificação inicial comum
+
+O CAM obtido na sequência da qualificação inicial comum habilita o seu titular a que seja colocado na carta de condução o código 95 nas seguintes condições:
+
+a) A partir da idade de 18 anos, veículos das categorias C e CE;
+
+b) A partir da idade de 21 anos, veículos das categorias D e DE.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 8.º — Qualificação inicial acelerada
+
+O CAM obtido na sequência da qualificação inicial acelerada habilita o seu titular a obter a anotação do código 95 na carta de condução para exercer a condução nas seguintes condições:
+
+a) A partir da idade de 18 anos, veículos das categorias C1 e C1E;
+
+b) A partir da idade de 21 anos, veículos das categorias C, CE, D1, D1E, e ainda das categorias D e DE, desde que o veículo se encontre afeto ao transporte regular de passageiros em que o percurso de linha não exceda 50 km;
+
+c) A partir da idade de 23 anos, veículos das categorias D e DE.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 8.º-A — Rede de execução
+
+1 - Os Estados-Membros devem trocar informação sobre os CAM emitidos ou cancelados e do registo da qualificação de motorista, quer o relativo ao averbamento do código 95 na carta de condução, quer o relativo às CQM emitidas.
+
+2 - Para efeitos do disposto no número anterior, é criada uma rede eletrónica donde conste informação sobre o CAM e os títulos referidos no número anterior e ainda sobre os procedimentos administrativos relacionados.
+
+3 - Os Estados-Membros devem assegurar que o tratamento dos dados pessoais seja efetuado unicamente para efeitos de verificação do cumprimento dos requisitos, nomeadamente de formação, nos termos do Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016.
+
+4 - O acesso à rede deve ser protegido e limitado à verificação do cumprimento dos requisitos associados à emissão do CAM e da qualificação do motorista, sendo o IMT, I. P., responsável pelo controlo e tratamento dos dados pessoais, nos termos da legislação aplicável.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 9.º — Formação contínua
+
+1 - A formação contínua é obrigatória e deve ser frequentada de cinco em cinco anos, antes do fim da validade do CAM, permitindo aos seus titulares atualizarem os conhecimentos fundamentais para a sua atividade, com especial destaque para a segurança rodoviária, segurança e saúde no trabalho e redução do impacto ambiental da condução.
+
+2 - No caso de caducidade, o CAM pode ainda ser renovado mediante a frequência de ação de formação contínua, no prazo máximo de cinco anos, contados do fim da validade do código 95 averbado na carta de condução ou da validade da CQM.
+
+3 - A formação é ministrada em centro de formação reconhecido e consiste em formação teórica e prática e, se disponível, em formação ministrada através de ferramentas de tecnologias de informação e de comunicação ou de simuladores.
+
+4 - Caso o motorista mude de empresa, a formação contínua já efetuada deve ser tida em consideração.
+
+5 - A formação contínua deve abranger uma variedade de matérias e incluir pelo menos uma matéria relacionada com a segurança rodoviária, não descurando a evolução da legislação e da tecnologia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 10.º — Conteúdo da formação
+
+Os conteúdos dos cursos de formação previstos nos artigos 6.º a 9.º constam de Unidades de Formação de Curta Duração (UFCD) e integram o Catálogo Nacional de Qualificações (CNQ).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 11.º — Dispensa de matérias
+
+1 - Os motoristas de veículos de mercadorias que pretendam conduzir veículos de passageiros, ou inversamente, e que sejam titulares do CAM referido nos artigos 7.º e 8.º, para efeitos de obtenção do correspondente CAM, apenas são obrigados à frequência e exame das matérias específicas da nova qualificação.
+
+2 - Os motoristas possuidores de capacidade profissional para o transporte rodoviário de mercadorias ou de capacidade profissional para o transporte rodoviário de passageiros em autocarro que pretendam adquirir a qualificação inicial prevista no presente decreto-lei ficam dispensados da frequência e exame das matérias comuns às duas formações.
+
+###### Artigo 11.º-A — Formação equiparada
+
+1 - As Forças Armadas e as forças de segurança podem ministrar a formação prevista no presente decreto-lei, sendo esta equiparada à formação ministrada pelas entidades formadoras certificadas, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da defesa, da administração interna, do trabalho e dos transportes.
+
+2 - Após a conclusão da formação e da avaliação com aproveitamento, o militar ou polícia pode requerer junto do IMT, I. P., o averbamento do código 95 na carta de condução ou a emissão da CQM caso seja titular de carta de condução militar.
+
+3 - Aquando da atribuição da carta de condução requerida pelo titular de carta de condução militar, por ocasião do termo da validade da CQM emitido nos termos do número anterior, deve ser averbado o código 95 na respetiva carta de condução.
+
+4 - As condições de manutenção e revalidação previstas no presente decreto-lei aplicam-se à qualificação obtida nos termos do n.º 2, conforme definido pela portaria referida no n.º 1.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 12.º — Acesso de motoristas estrangeiros à formação
+
+1 - Têm acesso à qualificação inicial os seguintes motoristas estrangeiros:
+
+a) Nacionais de outro Estado membro da União Europeia que tenham residência habitual no território nacional;
+
+b) Nacionais de um país terceiro que sejam detentores de autorização de permanência ou de residência no território nacional.
+
+2 - Têm acesso à formação contínua, os motoristas estrangeiros com residência habitual ou que trabalhem no território nacional.
+
+3 - A aferição de residência habitual faz-se de acordo com o disposto no artigo 12.º da Diretiva 2006/126/CE, do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, e no artigo 19.º do Regulamento da Habilitação Legal para Conduzir, aprovado pelo Decreto-Lei n.º 138/2012, de 5 de julho, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 12.º-A — Motoristas de outros Estados-Membros da União Europeia ou do Espaço Económico Europeu
+
+Os cidadãos nacionais de outro Estado-Membro da União Europeia ou do Espaço Económico Europeu, e aí legalmente estabelecidos para o exercício da profissão de motorista de veículos pesados de passageiros ou mercadorias, podem exercer a profissão em território nacional de forma permanente ou temporária e ocasional, nos termos da Lei n.º 9/2009, de 4 de março, na sua redação atual, ficando sujeitos aos requisitos de exercício da profissão estabelecidos pelo presente decreto-lei, que lhes sejam aplicáveis, e às medidas de compensação estabelecidas em portaria dos membros do Governo responsáveis pelas áreas do trabalho e dos transportes.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+### Capítulo III — Licenciamento de entidades formadoras
+
+###### Artigo 13.º — Acesso à actividade de formação
+
+1 - O licenciamento da actividade de formação prevista no presente decreto-lei compete ao IMTT, I. P., sendo titulado por alvará, emitido pelo prazo de cinco anos, renovável mediante a comprovação de que se mantêm os requisitos previstos no artigo seguinte.
+
+2 - O alvará é intransmissível a qualquer título e para qualquer efeito.
+
+3 - As condições de candidatura ao licenciamento e de renovação do alvará são fixadas por portaria do membro do governo responsável pelo sector dos transportes.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 13.º-A — Certificação de entidades formadoras de motoristas
+
+A certificação de entidades que pretendam exercer a atividade de formação prevista no presente decreto-lei compete ao IMT, I. P., segue os trâmites previstos no artigo 5.º da Portaria n.º 851/2010, de 6 de setembro, na sua redação atual, e depende de que o requerente:
+
+a) Seja uma pessoa coletiva;
+
+b) Seja uma pessoa idónea;
+
+c) Detenha capacidade técnica;
+
+d) Tenha a sua situação tributária e contributiva regularizada perante a Autoridade Tributária e Aduaneira e a segurança social, respetivamente.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 14.º — Requisitos de licenciamento
+
+São requisitos de acesso ao licenciamento:
+
+a) A constituição da entidade requerente sob a forma de pessoa colectiva, devendo o respectivo objecto social ou estatutário incluir a actividade do ensino ou da formação;
+
+b) A idoneidade;
+
+c) A capacidade financeira;
+
+d) A capacidade técnica;
+
+e) As situações tributária e contributiva perante a segurança social regularizadas.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 14.º-A — Processo de certificação de entidades formadoras
+
+1 - O requerimento de certificação de entidade formadora é decidido pelo IMT, I. P., no prazo de 15 dias, considerando-se tacitamente deferido se a decisão não for proferida dentro do prazo referido.
+
+2 - Os elementos de instrução do requerimento referido no número anterior são definidos por portaria do membro do Governo responsável pela área dos transportes, auscultados, no caso de ações que envolvam matérias relativas ao transporte de animais vivos, a Direção-Geral de Alimentação e Veterinária (DGAV), a Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) e o Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.)
+
+3 - A certificação de entidade formadora é titulada por certificado de modelo aprovado por deliberação do conselho diretivo do IMT, I. P.
+
+4 - O certificado é intransmissível, a qualquer título e para qualquer efeito.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 15.º — Idoneidade
+
+Para efeitos do disposto na alínea b) do artigo 13.º-A, a idoneidade consiste na verificação dos requisitos prévios de certificação estabelecidos na Portaria n.º 851/2010, de 6 de setembro, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 16.º — Capacidade financeira
+
+1 - A capacidade financeira consiste na posse dos recursos financeiros necessários para assegurar o início e a boa gestão de actividade de formação.
+
+2 - As entidades requerentes devem dispor de um capital social ou estatutário, ou constituir um fundo de reserva, nos montantes mínimos de (euro) 50 000 e de (euro) 25 000, conforme assumam a forma de sociedade comercial ou outra, respectivamente.
+
+3 - A comprovação do disposto na alínea a) do artigo 14.º e no número anterior é efectuada mediante disponibilização do código de acesso à certidão permanente do registo comercial, por certidão do registo comercial ou por qualquer outro meio legalmente admissível.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 17.º — Capacidade técnica
+
+1 - A capacidade técnica é aferida nos termos do disposto no anexo ii da Portaria n.º 851/2010, de 6 de setembro, na sua redação atual.
+
+2 - São estabelecidos, por portaria do membro do Governo responsável pela área dos transportes, e auscultados, no caso de ações que envolvam matérias relativas ao transporte de animais vivos, a DGAV, a DGADR e o ICNF, I. P., outros requisitos específicos necessários para assegurar a qualidade das ações de formação.
+
+3 - Na atividade formativa prevista no presente decreto-lei é obrigatória a celebração pela entidade formadora de um contrato de seguro de responsabilidade civil que cubra os danos decorrentes da atividade, incluindo a formação prática, em especial os danos resultantes de acidentes provocados pelo formando durante a formação prática, com condições a definir por portaria dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 17.º-A — Publicitação das entidades formadoras
+
+A lista de entidades formadoras certificadas é divulgada no sítio na Internet do IMT, I. P., e comunicada ao serviço central competente do ministério responsável pela área da formação profissional, no prazo de 20 dias após emissão do certificado, para efeitos de divulgação na lista geral de entidades formadoras certificadas.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 18.º — Coordenador técnico-pedagógico
+
+O coordenador técnico-pedagógico obedece ao estabelecido no âmbito do sistema de acreditação das entidades formadoras.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 18.º-A — Entidades formadoras de outros Estados-Membros da União Europeia ou do Espaço Económico Europeu
+
+As entidades formadoras legalmente estabelecidas em Estado-Membro da União Europeia ou do Espaço Económico Europeu para o exercício da atividade de formação equivalente à estabelecida no presente decreto-lei podem ministrar a formação dos motoristas referidos no artigo 2.º, de forma ocasional e esporádica, em território nacional, nos termos do n.º 3 do artigo 4.º do Decreto-Lei n.º 92/2010, de 27 de julho, na sua redação atual, mediante comunicação prévia e desde que observem o disposto no presente decreto-lei e em portaria do membro do Governo responsável pela área dos transportes.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 19.º — Dispensa de verificação das condições de acesso
+
+As entidades formadoras certificadas ao abrigo da Portaria n.º 851/2010, de 6 de setembro, na sua redação atual, são dispensadas da demonstração dos requisitos previstos no artigo 13.º, com exceção dos associados aos centros de formação e veículos afetos à formação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 20.º — Manutenção dos requisitos de certificação
+
+1 - Os requisitos de certificação são de verificação permanente, devendo as entidades formadoras comprovar o seu cumprimento sempre que lhes seja solicitado pelo IMT, I. P.
+
+2 - As entidades formadoras devem comunicar ao IMT, I. P., no prazo de 10 dias, qualquer alteração aos requisitos de certificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 21.º — Falta superveniente dos requisitos de certificação
+
+1 - A falta superveniente de qualquer dos requisitos de certificação deve ser suprida no prazo de 60 dias, contados da sua ocorrência.
+
+2 - No decurso do prazo previsto no número anterior, o IMT, I. P., pode suspender temporariamente a atividade formativa da entidade formadora, caso a falta condicione a qualidade da formação a ministrar.
+
+3 - A falta de regularização referida no n.º 1 implica a caducidade da certificação, sem prejuízo das medidas administrativas que venham a ser aplicadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 22.º — Deveres das entidades formadoras
+
+São deveres das entidades formadoras certificadas:
+
+a) Organizar e desenvolver as ações de formação em conformidade com o estabelecido no presente decreto-lei e em portaria dos membros do Governo responsáveis pelas áreas do trabalho e dos transportes;
+
+b) Observar os princípios da independência e da igualdade de tratamento de todos os candidatos à formação e formandos;
+
+c) Colaborar nas ações de acompanhamento, avaliação técnico-pedagógica e fiscalização realizadas pelo IMT, I. P.;
+
+d) Contratar o seguro de responsabilidade civil previsto no n.º 3 do artigo 17.º;
+
+e) Adaptar o conteúdo das matérias formativas às alterações ou inovações de natureza legal, técnica ou tecnológica;
+
+f) Fornecer ao IMT, I. P., os elementos relativos ao exercício da atividade, sempre que tal lhes seja solicitado;
+
+g) Manter, pelo período de cinco anos, o registo das ações de formação realizadas, bem como os processos individuais dos formandos;
+
+h) Comunicar previamente ao IMT, I. P., cada ação de formação e eventuais alterações, com a antecedência mínima de cinco e de três dias úteis, respetivamente, ou imediatamente antes da realização do módulo de formação, quando ocorra situação superveniente e não previsível, sendo a mesma obrigatoriamente justificada;
+
+i) Comunicar ao IMT, I. P., no prazo de 10 dias, quaisquer alterações aos requisitos de certificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 23.º — Centros de formação
+
+1 - O centro de formação é o espaço formativo dotado de capacidade técnica e dos demais meios necessários ao adequado exercício da atividade de formação, nos termos definidos por portaria do membro do Governo responsável pela área dos transportes.
+
+2 - Cada entidade formadora deve dispor de, pelo menos, um centro de formação autorizado pelo IMT, I. P., nos termos definidos pela portaria referida no número anterior.
+
+3 - As escolas de condução podem funcionar como centros de formação desde que cumpram as regras estabelecidas pelo presente decreto-lei e pela portaria referida no n.º 1.
+
+4 - Os requisitos que determinaram a autorização dos centros de formação são de verificação permanente, devendo as entidades formadoras comprovar o seu cumprimento sempre que tal lhes seja solicitado pelo IMT, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 24.º — Cursos de formação
+
+1 - Os cursos de formação previstos nos artigos 6.º a 9.º estão sujeitos a reconhecimento prévio pelo IMT, I. P., a conceder nos termos estabelecidos em portaria dos membros do Governo responsáveis pelas áreas da formação profissional e dos transportes.
+
+2 - As entidades formadoras devem comunicar previamente ao IMT, I. P., a realização das ações de formação, nos termos estabelecidos na portaria referida no número anterior, sob pena de não reconhecimento total ou parcial da ação realizada.
+
+3 - O IMT, I. P., efetua o acompanhamento técnico-pedagógico das ações de formação, que visa, nomeadamente, apoiar e incentivar a qualidade da formação, através do controlo efetivo da sua conformidade com as boas práticas formativas e as prescrições legais e regulamentares aplicáveis.
+
+4 - A conclusão da formação é comprovada através de um certificado de qualificações emitido no âmbito do Sistema Nacional de Qualificações, sendo as UFCD capitalizáveis para uma qualificação do CNQ.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 25.º — Medidas administrativas
+
+1 - Em função da gravidade do incumprimento pelas entidades formadoras certificadas dos deveres e procedimentos estabelecidos no presente decreto-lei e em portaria do membro do Governo responsável pela área dos transportes, e sem prejuízo do disposto no capítulo iv, podem ser aplicadas, pelo conselho diretivo do IMT, I. P., as seguintes sanções administrativas:
+
+a) Advertência escrita;
+
+b) Não reconhecimento da validade da ação de formação;
+
+c) Não reconhecimento da validade da formação ou da avaliação dos formandos;
+
+d) Suspensão da autorização do centro de formação onde foi praticado o ilícito, e respetivo encerramento, pelo período máximo de um ano;
+
+e) Cancelamento da autorização do centro de formação onde foi praticado o ilícito;
+
+f) Suspensão do exercício da atividade de formação pelo período máximo de um ano;
+
+g) Cancelamento do reconhecimento do curso de formação;
+
+h) Cancelamento da certificação da entidade formadora, com a cassação do correspondente certificado.
+
+2 - As sanções aplicadas são publicitadas no sítio na Internet do IMT, I. P.
+
+3 - A entidade formadora cuja certificação tenha sido cancelada fica interdita de requerer nova certificação pelo período de três anos, contados da data do cancelamento, podendo ser reabilitada nos termos da lei geral.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+### Capítulo IV — Regime sancionatório
+
+###### Artigo 26.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente decreto-lei compete ao IMTT, I. P., e, em relação ao cumprimento da obrigatoriedade a que se refere o n.º 1 do artigo 4.º, à Guarda Nacional Republicana e à Polícia de Segurança Pública.
+
+2 - As entidades referidas no número anterior podem proceder, junto das pessoas singulares ou colectivas que desenvolvam qualquer das actividades previstas no presente decreto-lei, às verificações e investigações necessárias para o exercício da sua competência fiscalizadora nos termos da lei.
+
+###### Artigo 27.º — Infracções
+
+1 - Constituem contraordenações puníveis com coima de (euro) 500 a (euro) 1500:
+
+a) A infração ao disposto no n.º 1 do artigo 4.º, salvo se o motorista apresentar o documento aí previsto à autoridade indicada pelo agente de fiscalização, no prazo de cinco dias, caso em que é sancionado com coima de (euro) 50 a (euro) 150;
+
+b) A condução de veículo, com violação do disposto na parte final da alínea b) do artigo 8.º
+
+2 - Constituem contra-ordenações puníveis com as seguintes coimas:
+
+a) A falta da certificação prevista no artigo 13.º-A, com coima de (euro) 10 000 a (euro) 30 000;
+
+b) A violação dos deveres estabelecidos nas alíneas a) a d), f) e g) do artigo 22.º, com coima de (euro) 500 a (euro) 1500;
+
+c) A violação dos deveres referidos nas alíneas e), h) e i) do artigo 22.º, com coima de (euro) 100 a (euro) 300.
+
+3 - A negligência é punível, sendo os limites das coimas referidas nos números anteriores reduzidos para metade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 28.º — Imputabilidade das infracções
+
+As infrações ao disposto no presente decreto-lei são da responsabilidade da entidade formadora, salvo quanto às infrações ao n.º 1 do artigo anterior, relativamente às quais são responsáveis os respetivos autores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 29.º — Pagamento voluntário
+
+1 - Se o infractor não pretender efectuar o pagamento voluntário, deve proceder ao depósito de quantia igual ao valor mínimo da coima prevista para a contra-ordenação praticada.
+
+2 - O pagamento voluntário ou o depósito referido no número anterior são efetuados no ato da verificação da contraordenação, destinando-se o depósito a garantir o pagamento da coima em que o infrator possa vir a ser condenado.
+
+3 - Se o infrator declarar que pretende pagar a coima ou efetuar o depósito, e não puder fazê-lo no ato de verificação da contraordenação, devem ser apreendidos os documentos do veículo até à efetivação do pagamento ou do depósito.
+
+4 - No caso previsto no número anterior, deve ser emitida a guia de substituição dos documentos apreendidos, com validade até ao primeiro dia útil posterior ao da infração.
+
+5 - A falta de pagamento ou do depósito nos termos dos números anteriores implica a apreensão do veículo, que se mantém até ao depósito, pagamento ou até à decisão final no processo de contraordenação.
+
+6 - O veículo apreendido responde nos mesmos termos que o depósito pelo pagamento das quantias devidas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 30.º — Imobilização do veículo
+
+Sempre que da imobilização de um veículo resultem danos para os passageiros, as mercadorias transportadas ou para o próprio veículo cabe à pessoa singular ou colectiva que realiza o transporte a responsabilidade por esses danos, sem prejuízo do direito de regresso.
+
+###### Artigo 31.º — Processamento das contraordenações e registo
+
+1 - O processamento das contraordenações previstas no presente decreto-lei compete ao IMT, I. P.
+
+2 - A aplicação das coimas compete ao presidente do conselho diretivo do IMT, I. P., com faculdade de delegar.
+
+3 - O IMT, I. P., organiza o registo das infrações nos termos do registo nacional do transportador terrestre.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 32.º — Produto das coimas
+
+A afectação do produto das coimas faz-se da seguinte forma:
+
+a) 20 % para o IMTT, I. P., constituindo receita própria;
+
+b) 20 % para a entidade fiscalizadora, constituindo receita própria;
+
+c) 60 % para o Estado.
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 33.º — Isenção da qualificação inicial e formação contínua
+
+1 - Ficam isentos da obrigação de qualificação inicial os seguintes motoristas:
+
+a) Titulares de carta de condução das categorias D e D+E e subcategorias D1 e D1+E, emitida até 9 de Setembro de 2008;
+
+b) Titulares de carta de condução das categorias C e C+E e subcategorias C1 e C1+E, emitida até 9 de Setembro de 2009.
+
+2 - Os motoristas referidos na alínea a) do número anterior devem obter a formação contínua e os correspondentes CAM e carta de qualificação de motorista, nos seguintes termos:
+
+a) Até 10 de Setembro de 2011, os que nesta data tiverem idade não superior a 30 anos;
+
+b) Até 10 de Setembro de 2012, os que nesta data tiverem idade compreendida entre 31 e 40 anos;
+
+c) Até 10 de Setembro de 2013, os que nesta data tiverem idade compreendida entre 41 e 50 anos;
+
+d) Até 10 de Setembro de 2015, os que nesta data tiverem idade superior a 50 anos.
+
+3 - Os motoristas referidos na alínea b) do n.º 1 devem obter a formação contínua e os correspondentes CAM e carta de qualificação de motorista, nos seguintes termos:
+
+a) Até 10 de Setembro de 2012, os que nesta data tiverem idade não superior a 30 anos;
+
+b) Até 10 de Setembro de 2013, os que nesta data tiverem idade compreendida entre 31 e 40 anos;
+
+c) Até 10 de Setembro de 2014, os que nesta data tiverem idade compreendida entre 41 e 50 anos;
+
+d) Até 10 de Setembro de 2016, os que nesta data tiverem idade superior a 50 anos.
+
+4 - A calendarização prevista nos n.os 2 e 3 pode ser objecto de desdobramento mediante portaria do membro do governo responsável pelo sector dos transportes.
+
+###### Artigo 34.º — Articulação com o Catálogo Nacional de Qualificações
+
+1 - A formação estabelecida pelo presente decreto-lei deve ser articulada com o Catálogo Nacional de Qualificações, nos termos da legislação aplicável, de forma a contribuir para a elevação dos níveis de qualificação.
+
+2 - A articulação prevista no número anterior é promovida pela Agência Nacional para a Qualificação, I. P., nos termos do n.º 5 do artigo 6.º do Decreto-Lei n.º 396/2007, de 31 de Dezembro, envolvendo o IMTT, I. P.
+
+###### Artigo 34.º-A — Tramitação de atos e procedimentos
+
+1 - Todos os pedidos, comunicações e notificações estabelecidos no presente decreto-lei e nas portarias nele previstas são efetuados por meios eletrónicos, através da plataforma eletrónica de informação do IMT, I. P., acessível através do portal ePortugal, que integra o balcão único eletrónico de serviços a que aludem os artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, na sua redação atual.
+
+2 - Os requerentes são dispensados da apresentação de documentos que já se encontrem na posse de organismos e serviços da Administração Pública, caso tenham dado o seu consentimento para que se proceda à sua obtenção, utilizando a plataforma de interoperabilidade da Administração Pública ou recorrendo ao mecanismo de portabilidade de dados previsto no n.º 2 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual.
+
+3 - A disponibilização de documentos no âmbito do presente decreto-lei pode ser realizada através da bolsa de documentos, acessível através do portal ePortugal.
+
+4 - O disposto no n.º 1 não prejudica a possibilidade de serem realizadas notificações para a morada única digital, através do serviço público de notificações eletrónicas, nos termos do Decreto-Lei n.º 93/2017, de 1 de agosto, na sua redação atual.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 34.º-B — Cooperação administrativa
+
+1 - Para efeitos de aplicação do presente decreto-lei, as autoridades competentes participam na cooperação administrativa, no âmbito dos procedimentos relativos a profissionais e entidades formadoras provenientes de outros Estados-Membros, nos termos do disposto no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, na sua redação atual, e no capítulo vi do Decreto-Lei n.º 92/2010, de 26 de julho, na sua redação atual, nomeadamente através do Sistema de Informação do Mercado Interno.
+
+2 - O IMT, I. P., deve disponibilizar os dados necessários para divulgação no portal ePortugal, de modo a facilitar o acesso às informações necessárias ao exercício de direitos pelos utilizadores, no âmbito do mercado interno, no domínio do reconhecimento das qualificações profissionais objeto do presente decreto-lei, incluindo o ensino e a formação profissionais, nos termos dos artigos 2.º e 4.º do Regulamento (UE) n.º 2018/1724, do Parlamento Europeu e do Conselho, de 2 de outubro de 2018.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 34.º-C — Divulgação de informação pública
+
+A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente decreto-lei, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no portal de dados abertos da Administração Pública, em www.dados.gov.pt.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+###### Artigo 35.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, salvo quanto à obrigatoriedade da posse da carta de qualificação de motorista e do CAM, previstos no n.º 1 do artigo 4.º e no n.º 1 do artigo 5.º, respectivamente, cuja vigência, sem prejuízo do disposto no artigo 33.º, tem início no dia 10 de Setembro de 2009.
+
+Visto e aprovado em Conselho de Ministros de 5 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - José Manuel dos Santos de Magalhães - Alberto Bernardes Costa - Mário Lino Soares Correia - José António Fonseca Vieira da Silva.
+
+Promulgado em 20 de Maio de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 21 de Maio de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — Conteúdo da formação a que se refere o artigo 10.º
+
+1 - Os conhecimentos a ter em consideração para a comprovação da formação inicial comum (FIC), da formação de qualificação inicial acelerada (FIA) e da formação contínua dos motoristas devem incidir, pelo menos, sobre as matérias a seguir descritas no n.º 2.
+
+O nível mínimo de qualificação deve ser comparável, pelo menos, ao nível 2 do Quadro Europeu de Qualificações, previsto no anexo II da Recomendação do Parlamento Europeu e do Conselho, de 23 de abril de 2008.
+
+2 - Matérias, módulos, objectivos e conteúdos programáticos e componente prática da formação inicial:
+
+2.1 - Aperfeiçoamento para uma condução racional baseada nas regras de segurança (FIC 63 h, FIA 28 h):
+
+2.1.1 - Mecânica e electrónica (FIC 28 h, FIA 7 h):
+
+a) Objectivo n.º 1 - conhecer as características da cadeia cinemática para optimizar a respectiva utilização.
+
+Conteúdo - curvas de binário, curvas de potência, curvas de consumo específico de um motor, zona de utilização óptima do conta-rotações, diagramas de sobreposição das relações das caixas de velocidade;
+
+b) Objetivo n.º 2 - conhecer as características técnicas e o funcionamento dos órgãos de segurança a fim de dominar o veículo, de minimizar o seu desgaste e de prevenir os seus disfuncionamentos.
+
+Conteúdo - identificação dos limites da utilização dos travões e dos retardadores, utilização combinada dos travões e do retardador, procura do melhor compromisso entre a velocidade e a relação de caixa, utilização da inércia do veículo, utilização dos meios de desaceleração e de travagem nas descidas, atitude a adotar em caso de falha, utilização de dispositivos eletrónicos e mecânicos, como por exemplo o sistema de controlo ativo de guinada (ESP), os sistemas avançados de travagem de emergência (AEBS), o sistema de travagem antibloqueio (ABS), os sistemas de controlo de tração (TCS) e os sistemas de monitorização do veículo (IVMS) e outros equipamentos, de utilização homologada, para assistência ao condutor ou de automatização.
+
+2.1.2 - Condução defensiva, económica e ambiental (FIC 35 h, FIA 21 h):
+
+a) Objetivo n.º 1 - ser capaz de otimizar o consumo de combustível.
+
+Conteúdo - otimização do consumo de combustível através da aplicação das competências correspondentes aos pontos 2.1.1, importância da antecipação do fluxo de tráfego, da distância adequada em relação a outros veículos e da utilização da inércia do veículo, velocidade controlada, estilo de condução fluida e pressão dos pneus adequada, e familiaridade com os sistemas de transporte inteligentes que melhoram a eficiência da condução e prestam assistência na planificação de trajetos;
+
+b) Objetivo n.º 2 - ser capaz de antecipar, de avaliar e de se adaptar aos riscos do tráfego.
+
+Conteúdo - estar consciente e adaptar-se a diferentes condições da via, do tráfego e meteorológicas, antecipar os acontecimentos; compreender como preparar e planear uma viagem na presença de condições meteorológicas extremas; estar familiarizado com a utilização do equipamento de segurança associado e perceber em que momento é necessário adiar ou cancelar uma viagem em virtude de condições meteorológicas extremas; adaptar-se aos riscos do tráfego, nomeadamente manobras perigosas no tráfego ou distração durante a condução (causada pela utilização de dispositivos eletrónicos, por comer, por beber, etc.); reconhecer e adaptar-se a situações perigosas e ser capaz de lidar com o stress, nomeadamente relacionado com a dimensão e a massa dos veículos e com os utentes vulneráveis da estrada, tais como peões, ciclistas e condutores de veículos a motor de duas rodas; identificar possíveis situações perigosas e interpretar corretamente de que modo elas podem transformar-se em situações em que já não é possível evitar o acidente, e selecionar e implementar medidas que aumentem as margens de segurança para um nível em que um acidente ainda possa ser evitado no caso de os potenciais perigos ocorrerem; atravessamento nas passagens de nível: cuidados especiais face às características dos veículos, em especial dimensão e peso do veículo, visibilidade, tipo e espaço de manobra e tempo de atravessamento; comportamentos a adotar em situação de emergência nas passagens de nível;
+
+c) Objetivo n.º 3 (motoristas de veículos de passageiros) - saber assegurar a segurança e o conforto dos passageiros.
+
+Conteúdo - verificação da calibragem dos movimentos longitudinais e laterais, repartição das vias, posicionamento sobre a calçada, suavidade de travagem, trabalho da consola, utilização de infraestruturas específicas (espaços públicos, vias reservadas), gestão de conflitos entre uma condução em segurança e as outras funções enquanto motorista, interação com os passageiros, especificidades do transporte de determinados grupos de passageiros (deficientes, crianças);
+
+d) Objetivo n.º 4 (motoristas de veículos de passageiros) - ser capaz de assegurar uma carga, respeitando as instruções de segurança e a boa utilização do veículo.
+
+Conteúdo - forças aplicadas aos veículos em movimento, utilização das relações da caixa de velocidades em função da carga do veículo e do perfil da estrada, utilização de sistemas de transmissão automática, cálculo da carga útil de um veículo ou de um conjunto, repartição da carga, consequências de sobrecarga nos eixos, estabilidade do veículo e centro de gravidade;
+
+e) Objetivo n.º 5 (motoristas de veículos de mercadorias) - ser capaz de assegurar uma carga, respeitando as instruções de segurança e a boa utilização do veículo.
+
+Conteúdo - forças aplicadas aos veículos em movimento, utilização das relações da caixa de velocidades em função da carga do veículo e do perfil da estrada, utilização de sistemas de transmissão automática, cálculo da carga útil de um veículo ou de um conjunto, cálculo do volume útil, repartição da carga, consequências de sobrecarga nos eixos, estabilidade do veículo e centro de gravidade, tipos de embalagens e suportes para a carga; principais categorias de mercadorias que necessitam de acondicionamento, técnicas de colocação de calços e acondicionamento, utilização de precintas de acondicionamento, verificação dos dispositivos de acondicionamento, utilização dos meios de manutenção, colocação e retirada dos toldos.
+
+2.2 - Regulamentações (FIC 49 h, FIA 21 h):
+
+2.2.1 - Regulamentação laboral (FIC 21 h, FIA 7 h):
+
+a) Objetivo n.º 1 - conhecer o ambiente social do transporte rodoviário e a sua regulamentação.
+
+Conteúdo - períodos máximos de trabalho específicos ao setor dos transportes; princípios, aplicação e consequências dos Regulamentos (CE) n.º 561/2006 e (UE) n.º 165/2014, do Parlamento Europeu e do Conselho; sanções em caso de não utilização, má utilização ou manipulação do tacógrafo; conhecimento do ambiente social do transporte rodoviário: direitos e obrigações dos motoristas em matéria de qualificação inicial e de formação contínua.
+
+2.2.2 - Regulamentação da actividade (FIC 28 h, FIA 14 h):
+
+a) Objectivo n.º 1 (motoristas de veículos de passageiros) - conhecer a regulamentação relativa ao transporte de passageiros.
+
+Conteúdo - regulamentação nacional e internacional, transporte de grupos específicos, equipamentos de segurança a bordo do autocarro, cintos de segurança, carga do veículo;
+
+b) Objectivo n.º 2 (motoristas de veículos de mercadorias) - conhecer a regulamentação relativa ao transporte de mercadorias.
+
+Conteúdo - regulamentação nacional e internacional, títulos para o exercício da actividade de transporte, obrigações dos contratos modelo de transporte de mercadorias, redacção dos documentos que constituem o contrato de transporte, autorizações de transporte internacional, obrigações da convenção relativa ao contrato de transporte internacional de mercadorias por estrada (CMR), redacção da declaração de expedição, passagem das fronteiras, transitários, documentos especiais de acompanhamento da mercadoria.
+
+2.3 - Saúde, segurança rodoviária, segurança ambiental, serviço e logística (FI 147 h, FIA 77 h):
+
+2.3.1 - Sinistralidade (FIC 21 h, FIA 14 h):
+
+a) Objectivo n.º 1 (motoristas de veículos de passageiros) - ficar sensibilizado para os riscos da estrada e os acidentes de trabalho.
+
+Conteúdo - tipologia dos acidentes de trabalho no sector dos transportes, estatísticas dos acidentes rodoviários, envolvimento dos autocarros, consequências em termos humanos, materiais e financeiros;
+
+b) Objetivo n.º 2 (motoristas de veículos de mercadorias) - conhecer a regulamentação relativa ao transporte de mercadorias.
+
+Conteúdo - títulos para o exercício da atividade de transporte, documentos de bordo, proibições de circular em determinadas vias, taxas rodoviárias, obrigações dos contratos-modelo de transporte de mercadorias, redação dos documentos que constituem o contrato de transporte, autorizações de transporte internacional, obrigações da Convenção relativa ao contrato de transporte internacional de mercadorias por estrada (CMR), redação da declaração de expedição, passagem das fronteiras, transitários, documentos especiais de acompanhamento da mercadoria.
+
+2.3.2 - Prevenção da criminalidade no transporte (FIC 7 h, FIA 7 h):
+
+a) Objectivo n.º 1 - saber prevenir a criminalidade e o tráfico de clandestinos;
+
+Conteúdo - informações gerais, consequências para os motoristas, medidas de prevenção, lista de controlo das verificações, legislação relativa à responsabilidade das empresas transportadoras.
+
+2.3.3 - Saúde, segurança e higiene no trabalho (FIC 21 h, FIA 7 h):
+
+a) Objectivo n.º 1 - saber prevenir os riscos físicos.
+
+Conteúdo - princípios de ergonomia, factores humanos na condução, factores humanos na interacção com sistemas de informação e comunicação embarcados (riscos inerentes), noções de carga de trabalho, fadiga e stress, recomendações sobre gestos e posturas de risco e gestão da fadiga e do stress;
+
+b) Objectivo n.º 2 - ter consciência da importância da aptidão física e mental.
+
+Conteúdo - princípios de uma alimentação saudável e equilibrada, efeitos do álcool, dos medicamentos e de outras substâncias susceptíveis de alterar o comportamento.
+
+2.3.4 - Situações de emergência e primeiros socorros (FIC 21 h, FIA 7 h):
+
+a) Objectivo n.º 1 - estar apto a avaliar situações de emergência e a aplicar procedimentos adequados.
+
+Conteúdo - comportamento em situação de emergência (avaliar a situação, evitar o agravamento do acidente, providenciar os socorros, socorrer os feridos e aplicar os primeiros cuidados, reacção em caso de incêndio, evacuação dos ocupantes, garantir a segurança de todos os passageiros), reacções em caso de agressão, princípios de base da declaração amigável.
+
+2.3.5 - Relações interpessoais e qualidade do serviço (FIC 35 h, FIA 14 h):
+
+a) Objectivo n.º 1 - saber adoptar comportamentos que contribuam para a valorização da imagem de marca de uma empresa de serviços de transporte.
+
+Conteúdo - atitudes do motorista e imagem de marca (importância da qualidade da prestação do motorista para a empresa, diferentes papéis do motorista, diferentes interlocutores do motorista, manutenção do veículo, organização do trabalho, consequências de um litígio nos planos comercial e financeiro).
+
+2.3.6 - Contexto económico e organização empresarial (FIC 21 h, FIA 14 h):
+
+a) Objetivo n.º 1 (motoristas de veículos de passageiros) - conhecer o contexto económico do transporte rodoviário de passageiros e a organização do mercado:
+
+Conteúdo - transporte rodoviário de passageiros em relação aos outros modos de transporte de passageiros (comboio, veículos particulares), diferentes atividades do transporte rodoviário de passageiros, sensibilização para a deficiência, travessia das fronteiras (transporte internacional), organização dos principais tipos de empresas de transporte rodoviário de passageiros;
+
+b) Objetivo n.º 2 (motoristas de veículos de mercadorias) - conhecer o contexto económico do transporte rodoviário de mercadorias e a organização do mercado:
+
+Conteúdo - o transporte rodoviário em relação aos outros modos de transporte (concorrência, carregadores), diferentes atividades do transporte rodoviário (transportes por conta de terceiros, por conta própria, atividades auxiliares do transporte), organização dos principais tipos de empresas de transportes ou das atividades auxiliares dos transportes, diferentes especializações do transporte (camiões-cisterna, temperatura controlada, mercadorias perigosas, transporte de animais, etc.), evolução dos setores (diversificação das prestações oferecidas, transporte ferroviário - transporte rodoviário, subcontratação, etc.).
+
+2.3.7 - Tecnologias de informação e comunicação (FIC 21 h, FIA 14 h):
+
+a) Objectivo n.º 1 (motoristas de veículos de passageiros) - conhecer as actuais tecnologias disponíveis para utilização no sistema de transportes e ter noção das tendências futuras.
+
+Conteúdo - sistema de apoio à exploração, telemática aplicada, bilhética sem contacto, cartões inteligentes, informação ao público (paragens electrónicas, Internet, SMS);
+
+b) Objectivo n.º 2 (motoristas de veículos de mercadorias) - conhecer as actuais tecnologias disponíveis para utilização no sistema de transportes e ter noção das tendências futuras.
+
+Conteúdo - sistema de apoio à exploração, telemática aplicada, cartões inteligentes, Internet, SMS.
+
+2.4 - Condução individual (FIC 21 h, FIA 14 h):
+
+2.4.1 - Formação prática (FIC 21 h, FIA 14 h):
+
+a) Objectivo n.º 1 (motoristas de veículos de passageiros) - aperfeiçoamento da condução racional baseada nas regras de segurança.
+
+Conteúdo - condução individual em veículo pesado de passageiros (categorias D e D+E e subcategorias D1 e D1+E), acompanhada de formador ou tutor do centro de formação, podendo o formando efectuar, no máximo, 8 (FIC) ou 4 horas (FIA) de condução individual num terreno especial ou num simulador de alta qualidade;
+
+b) Objectivo n.º 2 (motoristas de veículos de mercadorias) - aperfeiçoamento da condução racional baseada nas regras de segurança.
+
+Conteúdo - condução individual em veículo pesado de mercadorias (categorias C e C+E e subcategorias C1 e C1+E), acompanhada de formador ou tutor do centro de formação, podendo o formando efectuar, no máximo, 8 (FIC) ou 4 horas (FIA) de condução individual num terreno especial ou num simulador de alta qualidade.
+
+2.5 - Objetivo n.º 1 (motoristas de veículos de passageiros) - Formação em sensibilização para a deficiência.
+
+Conteúdo - sensibilização para as deficiências físicas, sensoriais (auditivas e visuais), ocultas ou a nível da aprendizagem, e respostas adequadas a dar aos passageiros que delas padecem, incluindo a forma de distinguir as diferentes aptidões das pessoas cujas mobilidade, capacidade de orientação ou de comunicação sejam reduzidas; obstáculos que se deparam às pessoas com deficiência e às pessoas com mobilidade reduzida, nomeadamente no plano comportamental, ambiental/físico e organizacional; cães-guias credenciados, incluindo o papel e as necessidades desses cães; tratamento de situações inesperadas; aptidões relacionais e métodos de comunicação com pessoas surdas e pessoas com deficiências auditivas, visuais, de fala ou de aprendizagem; manuseamento correto de cadeiras de rodas e de outros equipamentos auxiliares de mobilidade de modo a evitar danos.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+## Anexo II — Formação de qualificação inicial comum prevista na alínea a) do n.º 1 do artigo 6.º
+
+1 - A formação de qualificação inicial comum comporta o ensino das matérias constantes do n.º 2 do anexo i, sendo a sua duração de 280 horas.
+
+2 - O acesso à formação de qualificação inicial comum não depende da posse prévia da carta de condução correspondente.
+
+3 - Cada formando deve efetuar pelo menos 20 horas de condução individual num veículo da categoria em causa, que satisfaça no mínimo os critérios dos veículos de exame tal como estabelecidos na Diretiva 2006/126/CE, do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006.
+
+4 - Durante a condução individual, o formando é acompanhado por um instrutor, formador da entidade formadora certificada. Cada formando pode efetuar, no máximo, oito horas das 20 horas de condução individual num terreno especial ou num simulador de alta qualidade, a fim de avaliar o aperfeiçoamento em condução racional baseado nas regras de segurança, nomeadamente no que se refere ao domínio do veículo ligado às diferentes condições do piso, bem como às suas variações segundo as condições atmosféricas, durante o dia e durante a noite, assim como a aptidão para otimizar o consumo de combustível. Podem também ser utilizadas ferramentas de ensino a distância, nos termos a definir por portaria do membro do Governo responsável pelos transportes. Adicionalmente, pode ser incluída formação sobre o transporte de mercadorias perigosas, a formação relativa à sensibilização para a deficiência e a formação relativa ao transporte de animais.
+
+5 - Para os motoristas referidos no n.º 1 do artigo 11.º, a duração da qualificação inicial é de 70 horas, cinco das quais de condução individual.
+
+6 - Obtida a formação, o formando é submetido a um exame escrito ou oral, o qual inclui, pelo menos, uma questão por cada um dos objectivos das matérias a que se refere o n.º 1 do presente anexo.
+
+7 - O exame é organizado pelo IMTT, I. P., ou pelas entidades que por este forem designadas.
+
+8 - As condições de realização do exame são fixadas por despacho do presidente do conselho directivo do IMTT, I. P.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+## Anexo III — Formação de qualificação inicial acelerada prevista na alínea b) do n.º 1 do artigo 6.º
+
+1 - A formação de qualificação inicial acelerada comporta o ensino das matérias constantes do n.º 2 do anexo i, sendo a sua duração de 140 horas.
+
+2 - O acesso à formação de qualificação inicial acelerada não depende da posse prévia da carta de condução correspondente.
+
+3 - Cada formando deve efetuar pelo menos 10 horas de condução individual num veículo da categoria em causa, que satisfaça no mínimo os critérios dos veículos de exame estabelecidos na Diretiva 2006/126/CE, do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006.
+
+4 - Durante a condução individual, o formando é acompanhado por um instrutor, formador da entidade formadora certificada. Cada formando pode efetuar, no máximo, quatro horas das 10 horas de condução individual num terreno especial ou num simulador de alta qualidade, a fim de avaliar o aperfeiçoamento em condução racional baseado nas regras de segurança, o domínio do veículo ligado às diferentes condições do piso, bem como às suas variações segundo as condições atmosféricas, durante o dia e durante a noite, assim como a aptidão para otimizar o consumo de combustível. Podem também ser utilizadas ferramentas de ensino a distância, nos termos a definir por portaria do membro do Governo responsável pelos transportes.
+
+5 - Para os motoristas referidos no n.º 1 do artigo 11.º, a duração da qualificação inicial acelerada é de 35 horas, das quais duas e meia em condução individual.
+
+6 - Obtida a formação, o formando é submetido a um exame escrito ou oral, o qual inclui, pelo menos, uma questão por cada um dos objectivos das matérias a que se refere o n.º 1 do presente anexo.
+
+7 - O exame é organizado pelo IMTT, I. P., ou pelas entidades que por este forem designadas.
+
+8 - As condições de realização do exame são fixadas por despacho do presidente do conselho directivo do IMTT, I. P.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+## Anexo IV — Formação contínua a que se refere o artigo 9.º
+
+1 - A formação contínua tem como objetivo a atualização dos conhecimentos fundamentais para a atividade do motorista, nomeadamente através do aprofundar e da revisão de algumas das matérias estabelecidas no n.º 2 do anexo i, das quais são obrigatórias as matérias relativas à segurança rodoviária e à racionalização do consumo de combustível.
+
+2 - A formação contínua para efeitos do presente decreto-lei é obrigatória de cinco em cinco anos e tem a duração de 35 horas lecionadas por períodos de sete horas por dia, que podem ser repartidos por dois dias consecutivos, podendo estes períodos ser seguidos ou interpolados.
+
+3 - A formação contínua pode ser frequentada parcialmente em simuladores de alta qualidade, até ao máximo de cinco horas e com recurso a ferramentas de ensino a distância, até ao máximo de 12 horas.
+
+4 - A formação contínua para efeitos de renovação do certificado de aptidão de motorista é valida pelo período de cinco anos, contados a partir da data da respetiva conclusão, com aproveitamento.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+## Anexo V
+
+Disposições relativas às especificações e ao modelo comunitário de carta de qualificação de motorista
+
+1 - As características físicas da carta de qualificação de motorista de modelo comunitário são conformes com as normas ISO 7810 e ISO 7816-1.
+
+Os métodos de verificação das características físicas das cartas destinados a assegurar a sua conformidade com as normas internacionais são conformes com a norma ISO 10373.
+
+2 - A carta é composta por duas páginas:
+
+A página 1 contém:
+
+a) As menções «Carta de qualificação de motorista» e «República Portuguesa» impressas em carateres maiúsculos;
+
+b) A letra «P» em maiúscula, como sinal distintivo de Portugal, impressa em negativo num retângulo azul rodeado por 12 estrelas amarelas;
+
+c) As seguintes siglas distintivas dos Estados-Membros emissores:
+
+B: Bélgica;
+
+BG: Bulgária;
+
+CZ: República Checa;
+
+DK: Dinamarca;
+
+D: Alemanha;
+
+EST: Estónia;
+
+GR: Grécia;
+
+E: Espanha;
+
+F: França;
+
+HR: Croácia;
+
+IRL: Irlanda;
+
+I: Itália;
+
+CY: Chipre;
+
+LV: Letónia;
+
+LT: Lituânia;
+
+L: Luxemburgo;
+
+H: Hungria;
+
+M: Malta;
+
+NL: Países Baixos;
+
+A: Áustria;
+
+PL: Polónia;
+
+P: Portugal;
+
+RO: Roménia;
+
+SLO: Eslovénia;
+
+SK: Eslováquia;
+
+FIN: Finlândia;
+
+S: Suécia;
+
+UK: Reino Unido;
+
+d) As informações específicas da carta emitida, numeradas do seguinte modo:
+
+1 - Apelidos do titular;
+
+2 - Nome próprio do titular;
+
+3 - Data e local de nascimento do titular;
+
+4:
+
+a) Data de emissão;
+
+b) Data de caducidade;
+
+c) Designação da autoridade que emite a carta (pode ser impressa na face 2);
+
+d) Um número que não seja o número da carta de condução, útil para a gestão da carta de qualificação de motorista (menção facultativa);
+
+5:
+
+a) Número da carta de condução;
+
+b) Número de série;
+
+6 - Fotografia do titular;
+
+7 - Assinatura do titular;
+
+8 - Residência, domicílio ou endereço postal (menção facultativa);
+
+9) Categorias de veículos para as quais o motorista satisfaz as obrigações de qualificação inicial e de formação contínua;
+
+e) A menção «Modelo da União Europeia» na ou nas línguas do Estado-Membro que emite a carta e a menção «Carta de qualificação de motorista», nas restantes línguas oficiais da União, impressa a azul, a fim de constituir o pano de fundo da carta.
+
+f) Cores de referência:
+
+i) azul: pantone Reflex Blue;
+
+ii) amarelo: pantone Yellow;
+
+A página 2 contém:
+
+9) As categorias de veículos para as quais o motorista satisfaz as obrigações de qualificação inicial e de formação contínua;
+
+10) O código harmonizado «95» da União previsto no anexo i da Diretiva 2006/126/CE, do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006;
+
+11 - O código comunitário «95 - Motorista titular de um CAM que satisfaz a obrigação de aptidão profissional prevista no artigo 3.º até (por exemplo: 95.01.01. 2012)», previsto no artigo 10.º da Diretiva n.º 2003/59/CE, do Parlamento Europeu e do Conselho, de 15 de julho;
+
+12 - Um espaço reservado para a eventual inscrição das menções indispensáveis à gestão ou relativas à segurança rodoviária (menção facultativa). No caso de a menção dizer respeito a uma rubrica definida no presente anexo, essa menção deve ser precedida do número da rubrica correspondente;
+
+b) Uma explicação das rubricas numeradas que surgem nas faces 1 e 2 da carta [pelo menos as rubricas 1, 2, 3, 4a), 4b), 4c), 5a), 5b) e 10].
+
+3 - Segurança, incluindo a proteção de dados. - Os diferentes elementos constitutivos da carta destinam-se a excluir qualquer falsificação ou manipulação e a detetar qualquer tentativa deste tipo.
+
+O nível de segurança da carta é, pelo menos, comparável ao nível de segurança da carta de condução.
+
+4 - Disposições específicas. - Após consulta à Comissão, podem ser acrescentadas cores ou marcações, tais como códigos de barras, símbolos nacionais e elementos de segurança, sem prejuízo das outras disposições do presente anexo.
+
+No âmbito do reconhecimento mútuo das cartas, o código de barras não pode conter informações para além das que constam já de forma legível na carta de qualificação e de formação do motorista ou que são indispensáveis para o processo de emissão da carta.
+
+Modelo de carta de qualificação de motorista
+
+Face 1
+
+(ver documento original)
+
+Face 2
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102-C/2020 - Diário da República n.º 238/2020, 2º Suplemento, Série I de 2020-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-c-2020-150757539), em vigor a partir de 2021-01-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 65/2014 - Diário da República n.º 87/2014, Série I de 2014-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2014-25343743), em vigor a partir de 2014-05-12

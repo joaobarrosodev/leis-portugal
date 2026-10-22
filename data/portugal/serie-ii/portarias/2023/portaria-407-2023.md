@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:216323671:por
+title: Portaria n.º 407/2023
+short_title: null
+summary: Autoriza a Direção-Geral das Artes a proceder à assunção de encargos plurianuais ao abrigo dos contratos de apoio
+  financeiro à programação dos teatros e cineteatros que integram a Rede de Teatros e Cineteatros Portugueses para o período
+  de 2024-2027
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Cultura - Gabinetes do Ministro da Cultura e da Secretária de Estado do Orçamento
+proposing_entity: null
+official_number: 407/2023
+official_date: null
+publication_date: '2023-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2023, Série II de 2023-07-31
+  number: '147'
+  series: II
+  supplement: null
+  pages: 57 - 58
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/07/147000000/0005700058.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '216323671'
+  dre_path: /dr/detalhe/portaria/407-2023-216323671
+  internal: pt:dre:216323671:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/407-2023-216323671
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/407-2023-216323671
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-07-31T00:00:00Z'
+integrity:
+  source_sha256: f194edbcfdb58bca6142e01442f9fe71e518c7dab084716091e406555e8ee312
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-407-216323671.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 407/2023
+
+No âmbito das suas atribuições, compete à Direção-Geral das Artes (DGARTES) implementar e executar os programas de apoio financeiro do Estado às artes, com periodicidade regular e de acordo com as diversas modalidades consignadas na legislação aplicável, visando o desenvolvimento de programas de atividades e projetos de natureza profissional nas áreas artísticas objeto de intervenção.
+
+Nos termos da [Lei n.º 81/2019](https://diariodarepublica.pt/dr/detalhe/lei/81-2019-124346832), de 2 de setembro, que cria a Rede de Teatros e Cineteatros Portugueses (RTCP) e o programa de apoio à programação dos teatros e cineteatros que a integram, bem como o regime de credenciação dos mesmos, encontra-se previsto que o Governo deva promover a criação de um programa de apoio à programação dos teatros e cineteatros da RTCP, assegurado com uma verba específica no Orçamento do Estado.
+
+Com o [Decreto-Lei n.º 45/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2021-164712112), de 7 de junho, o Governo veio regular o apoio à programação dos teatros e cineteatros, que integrem a RTCP, após um processo de credenciação dos equipamentos culturais, estabelecendo que a fixação do montante financeiro disponível é realizada por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES, após consulta do Instituto do Cinema e do Audiovisual, I. P. e que os encargos decorrentes desse apoio são inscritos no orçamento da DGARTES.
+
+Determina-se ainda no referido diploma que a DGARTES é responsável por gerir e assegurar a concessão do apoio à programação dos teatros e cineteatros, cuja duração será de quatro anos, sendo o programa de apoio aberto, no máximo, de dois em dois anos.
+
+O montante de apoio foi objeto de fixação pelo membro do Governo responsável pela área da cultura no âmbito da declaração anual de apoios prevista no artigo 8.º do [Decreto-Lei n.º 103/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2017-108051992), de 24 de agosto, na sua redação atual, tendo sido objeto da respetiva publicitação.
+
+Nestes termos, em conformidade com o disposto no artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, e no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, nas suas redações atuais, manda o Governo, pelo Ministro da Cultura e pela Secretária de Estado do Orçamento, o seguinte:
+
+1 - Fica a Direção-Geral das Artes autorizada a proceder à assunção de encargos plurianuais referentes aos contratos de apoio à programação que venham a ser celebrados no âmbito da execução dos apoios financeiros do Estado ao abrigo dos programas de apoio à programação dos teatros e cineteatros que integrem a RTCP e que não tenham sido objeto de apoio no quadriénio 2022-2025, a abrir em 2023, até ao montante máximo global de (euro) 10.000.000,00 (dez milhões de euros).
+
+2 - Os encargos orçamentais decorrentes do número anterior não podem exceder, em cada ano económico, os seguintes montantes:
+
+2024: 2.500.000 (euro) (dois milhões e quinhentos mil euros);
+
+2025: 2.500.000 (euro) (dois milhões e quinhentos mil euros);
+
+2026: 2.500.000 (euro) (dois milhões e quinhentos mil euros);
+
+2027: 2.500.000 (euro) (dois milhões e quinhentos mil euros).
+
+3 - Os valores fixados em cada ano económico podem ser acrescidos do saldo que se apurar na execução orçamental do ano anterior.
+
+4 - Os encargos financeiros resultantes da execução da presente portaria são satisfeitos por conta das verbas a inscrever no orçamento da DGARTES.
+
+5 - A presente portaria produz efeitos a partir da data da sua assinatura.
+
+17 de julho de 2023. - O Ministro da Cultura, Pedro Adão e Silva Cardoso Pereira. - 14 de julho de 2023. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha.

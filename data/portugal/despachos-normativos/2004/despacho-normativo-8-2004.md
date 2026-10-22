@@ -1,0 +1,336 @@
+---
+schema_version: '1.0'
+id: pt:dre:580355:por
+title: Despacho Normativo n.º 8/2004
+short_title: null
+summary: Estabelece e determina o regime de ajudas no âmbito do Sistema Integrado de Gestão e Controlo. Revoga o Despacho
+  Normativo n.º 12/2003, de 11 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 8/2004
+official_date: null
+publication_date: '2004-02-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 38/2004, Série I-B de 2004-02-14
+  number: '38'
+  series: I
+  supplement: null
+  pages: 871 - 873
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/02/038b00/08710873.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/8/2004/02/14/p/dre/pt/html
+  oj: null
+  dre: '580355'
+  dre_path: /dr/detalhe/despacho-normativo/8-2004-580355
+  internal: pt:dre:580355:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2004-580355
+  metadata_url: https://data.dre.pt/eli/despnorm/8/2004/02/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/8-2004-580355
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-02-11T00:00:00Z'
+integrity:
+  source_sha256: d510c1cf48a92724622bafadd247f65df691ef64ddbf0291b8f70adce28fe129
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-8-580355.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Azeitona
+- Beterraba
+- Gado Caprino
+- Azeite
+- Citrinos
+- Tomate
+- Arroz
+- Forragem
+- Gado Bovino
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Trigo
+- Legume de Fruto
+- Leguminosas
+- Tabaco
+- Orientação Agrícola
+- Gado Ovino
+- Prémio aos Produtores de Bovinos Machos
+- Prémio aos Produtores de Vacas Aleitantes
+- Poseima
+- Prémio ao Abate
+- Produção Vegetal
+- Regulamento CE
+- Fruticultura
+- Pecuária
+- Agricultura
+- Algodão
+- Sistema Integrado de Gestão e Controlo
+- Vinha
+relationships:
+- type: amended_by
+  target: pt:dre:578543:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31966R0136
+  label: null
+  source: http://data.europa.eu/eli/reg/1966/136/oj
+- type: cites
+  target: celex:31992R3508
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/3508/oj
+- type: cites
+  target: celex:31998R1638
+  label: null
+  source: http://data.europa.eu/eli/reg/1998/1638/oj
+- type: cites
+  target: celex:31999R1254
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1254/oj
+- type: cites
+  target: celex:31999R1257
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1257/oj
+- type: cites
+  target: celex:32001R1513
+  label: null
+  source: http://data.europa.eu/eli/reg/2001/1513/oj
+- type: cites
+  target: celex:32001R2529
+  label: null
+  source: http://data.europa.eu/eli/reg/2001/2529/oj
+- type: cites
+  target: celex:32003R1782
+  label: null
+  source: http://data.europa.eu/eli/reg/2003/1782/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/12/2003/03/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/12/2003/03/10/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 8/2004
+
+O Regulamento n.º [3508/92](http://data.europa.eu/eli/reg/1992/3508/oj?locale=pt) (CEE), do Conselho, de 27 de Novembro, que instituiu o Sistema Integrado de Gestão e Controlo, prevê a apresentação de pedidos de ajudas «Superfícies» e pedidos de ajudas «Animais».
+
+Não obstante o Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro, revogar aquele Regulamento, o mesmo continua a ser aplicável em relação aos anos civis anteriores a 2005.
+
+Neste contexto, há que, na sequência de procedimentos já adoptados em campanhas anteriores, fixar, para a campanha de 2004-2005, prazos e datas para a apresentação dos respectivos pedidos de ajuda, na observância da regulamentação comunitária, em termos que permitam a disponibilização atempada de dados necessários para uma boa gestão administrativa e financeira das ajudas.
+
+Por outro lado, a optimização da gestão de várias ajudas, designadamente em termos de controlos administrativos, aconselha a que as respectivas declarações de cultura ou de superfície sejam também feitas no pedido de ajudas «Superfícies».
+
+É com esse objectivo que, no âmbito da aplicação do Regulamento (CE) n.º [1257/99](http://data.europa.eu/eli/reg/1999/1257/oj?locale=pt), do Conselho, os pedidos de apoio ao desenvolvimento rural relativos às indemnizações compensatórias e às medidas agro-ambientais são também integrados nos pedidos de ajudas previstos no Sistema Integrado de Gestão e Controlo.
+
+Ainda, e tal como já foi feito em campanhas anteriores, são abrangidos por este diploma as ajudas à produção de azeite e à produção de azeitonas de mesa.
+
+A existência de uma base de dados actualizada dos candidatos às ajudas exige também a fixação de datas e prazos para a inscrição de novos candidatos e para a alteração dos dados de identificação dos já existentes.
+
+Os pedidos de ajuda abrangidos por este despacho serão, nas datas e períodos estipulados, recepcionados por entidades credenciadas e, subsidiariamente, por outras entidades subscritoras de protocolos celebrados com o Instituto Nacional de Intervenção e Garantia Agrícola (INGA) e por outras entidades que sejam regularmente competentes.
+
+Nestes termos, importa determinar as competências, metodologia, tramitação, procedimentos e calendários de candidaturas que deverão ser respeitados e tidos em conta por todos os sujeitos abrangidos pelo Sistema Integrado de Gestão e Controlo.
+
+Assim, cumpre estabelecer e determinar o seguinte:
+
+I - Pedidos de ajuda
+
+1 - O Sistema Integrado de Gestão e Controlo abrange:
+
+1.1 - O pedido de ajudas «Superfícies» (modelo A), que inclui:
+
+a) Sistema de apoio aos produtores de determinadas culturas arvenses, instituído pelo Regulamento n.º 1251/99, do Conselho, de 17 de Maio;
+
+b) Regime de ajuda à produção de leguminosas para grão, instituído pelo Regulamento n.º 1577/96, do Conselho, de 30 de Junho;
+
+1.1.1 - No pedido de ajudas «Superfícies» deverão também ser integradas:
+
+1.1.1.1 - As declarações de cultura referentes aos seguintes regimes de ajudas:
+
+a) Ajuda à produção de forragens secas;
+
+b) Ajuda à produção de sementes certificadas;
+
+1.1.1.2 - As declarações de superfícies referentes aos seguintes regimes de ajudas:
+
+a) Prémio específico à qualidade do trigo-duro;
+
+b) Prémio às proteaginosas;
+
+c) Pagamento específico para o arroz;
+
+d) Ajudas às culturas energéticas;
+
+e) Pagamento por superfície para os frutos de casca rija;
+
+f) Ajuda à produção de tabaco em folha;
+
+g) Ajuda aos produtores de lúpulo;
+
+h) Ajuda ao algodão;
+
+i) Ajuda no sector dos produtos transformados à base de tomate;
+
+j) Ajuda no sector dos produtos transformados à base de pêra e pêssego;
+
+k) Ajuda aos produtores de determinados citrinos;
+
+l) Ajuda ao cultivo de uvas destinadas à produção de determinadas variedades de uvas secas (passas);
+
+m) Ajuda compensatória da perda de receitas de comercialização no sector das bananas;
+
+n) Ajudas por hectare no âmbito do POSEIMA;
+
+o) Ajuda à manutenção da cultura da vinha orientada para produção de VQPRD no âmbito do POSEIMA;
+
+p) Indemnizações compensatórias ao abrigo do Regulamento (CE) n.º [1257/99](http://data.europa.eu/eli/reg/1999/1257/oj?locale=pt), do Conselho, de 17 de Maio;
+
+q) Medidas agro-ambientais ao abrigo do Regulamento (CE) n.º [1257/99](http://data.europa.eu/eli/reg/1999/1257/oj?locale=pt), do Conselho, de 17 de Maio;
+
+1.1.1.3 - As declarações de superfícies forrageiras para efeitos de encabeçamento;
+
+1.1.1.4 - As declarações da cultura de beterraba sacarina (continente);
+
+1.2 - O pedido de ajudas «Animais» (modelo N), que inclui:
+
+a) Prémio especial aos bovinos machos, instituído pelo Regulamento (CE) n.º [1254/99](http://data.europa.eu/eli/reg/1999/1254/oj?locale=pt), do Conselho, de 17 de Maio;
+
+b) Prémio por vaca em aleitamento, instituído pelo Regulamento (CE) n.º [1254/99](http://data.europa.eu/eli/reg/1999/1254/oj?locale=pt), do Conselho, de 17 de Maio;
+
+c) Prémio ao abate, instituído pelo Regulamento (CE) n.º [1254/99](http://data.europa.eu/eli/reg/1999/1254/oj?locale=pt), do Conselho, de 17 de Maio;
+
+d) Prémio por ovelha e por cabra, instituído pelo Regulamento (CE) n.º [2529/2001](http://data.europa.eu/eli/reg/2001/2529/oj?locale=pt), do Conselho, de 19 de Dezembro;
+
+e) Prémio aos produtos lácteos e pagamentos complementares, instituído pelo Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro;
+
+1.3 - No âmbito do Sistema Integrado de Gestão e Controlo deverão também ser declarados no pedido de ajudas «Animais» os animais relevantes para efeito de candidatura às intervenções Indemnizações Compensatórias e ou Medidas Agro-Ambientais.
+
+2 - Ajudas à produção de azeite e azeitonas de mesa (modelo Z), instituído pelos Regulamentos n.os [136/66/CEE](http://data.europa.eu/eli/reg/1966/136/oj?locale=pt) e [1638/1998](http://data.europa.eu/eli/reg/1998/1638/oj?locale=pt), alterados pelo Regulamento (CE) n.º [1513/2001](http://data.europa.eu/eli/reg/2001/1513/oj?locale=pt), do Conselho, de 23 de Julho.
+
+II - Datas e prazos de realização das candidaturas às ajudas
+
+1 - O acto de apresentação da(s) candidatura(s) à(s) ajuda(s) referida(s), incluindo as confirmações ou modificações de compromissos relativos a indemnizações compensatórias e ou a medidas agro-ambientais no quadro da aplicação do Regulamento (CE) n.º [1257/99](http://data.europa.eu/eli/reg/1999/1257/oj?locale=pt), do Conselho, deverá efectuar-se junto das entidades credenciadas através do preenchimento dos formulários respectivos ou pela recolha informática directa do respectivo pedido e sua impressão nas seguintes datas e prazos:
+
+a) De 2 de Fevereiro a 23 de Abril de 2004, o pedido de ajudas «Superfícies» (modelo A);
+
+b) De 2 de Fevereiro a 23 de Abril de 2004, para os seguintes pedidos de ajudas «Animais» (modelo N):
+
+Prémio por vaca em aleitamento;
+
+Prémio especial aos bovinos machos (candidatura no período normal);
+
+Prémio por ovelha e por cabra;
+
+c) De 1 a 10 de cada mês, no período de Maio a Setembro, prémio especial aos bovinos machos (candidatura no período complementar - modelo N);
+
+d) De 2 de Fevereiro a 23 de Abril de 2004, pedido de ajuda à produção de azeite e ajuda à produção de azeitona de mesa (modelo Z);
+
+e) De 2 de Janeiro a 10 de Setembro de 2004, declaração de participação no prémio ao abate (modelo N).
+
+2 - Os novos requerentes às ajudas atribuídas pelo INGA ou os requerentes cujos dados identificativos tenham sofrido alteração deverão preencher um modelo de identificação do agricultor, modelo IA, o mais tardar quando realizem a sua candidatura nas datas e prazos referidos no n.º 1.
+
+3 - As candidaturas cujos modelos IA não tenham sido apresentados nos termos do número anterior poderão não ser consideradas.
+
+III - Alterações aos pedidos de ajudas «Superfícies»
+
+1 - Após a data limite para apresentação dos pedidos de ajuda «Superfícies» podem ser feitas alterações aos mesmos em conformidade com o previsto na regulamentação comunitária.
+
+2 - As alterações referidas no número anterior serão comunicadas por escrito e devem dar entrada no INGA o mais tardar em 31 de Maio.
+
+IV - Datas e prazos de candidatura à reserva nacional referente aos sectores dos bovinos e ovinos
+
+1 - Os prazos para apresentação de candidaturas à reserva nacional de direitos ao prémio de vacas em aleitamento serão fixados por despacho normativo do Ministro da Agricultura, Desenvolvimento Rural e Pescas.
+
+2 - As candidaturas à reserva nacional relativas aos direitos ao prémio por ovelha e por cabra deverão ser apresentadas de 21 de Junho até 24 de Setembro de 2004.
+
+3 - O prazo em que se devem efectuar as transferências e cedências de direitos ao prémio por vaca em aleitamento é de 1 de Fevereiro até à data de candidatura do novo titular nesse ano.
+
+4 - O prazo em que se devem efectuar as transferências e cedências de direitos do prémio por ovelha e por cabra é de 1 de Fevereiro até ao último dia do período de candidaturas.
+
+V - Prazos de entrega no INGA das candidaturas recepcionadas
+
+1 - As candidaturas às ajudas deverão ser entregues no INGA sem prejuízo do estipulado nos protocolos celebrados com as entidades credenciadas, nos seguintes prazos:
+
+a) Modelo A, 21 dias após o término do prazo fixado para a recepção deste modelo;
+
+b) Modelo N, 21 dias após a data de recepção de cada candidatura;
+
+c) Modelo N, candidatura nos períodos complementares do prémio especial aos bovinos machos, entre os dias 11 e 20 de cada mês;
+
+d) Modelo Z, 21 dias após o término do prazo fixado para a recepção deste modelo;
+
+e) Modelo IA, 21 dias após a data de recepção de cada impresso.
+
+2 - Os impressos referentes às transferências e cedências de direitos bem como as candidaturas à reserva nacional devem ser remetidos ao INGA pelas entidades credenciadas no prazo de 21 dias após o término dos períodos previstos.
+
+3 - As comunicações relativas a alterações de efectivos deverão ser efectuadas nos seguintes prazos:
+
+a) Respeitantes a ovinos/caprinos deverão ser remetidas ao INGA no prazo de 10 dias úteis a contar da data da ocorrência que motivou a redução do efectivo;
+
+b) Os dados informativos relacionados com a substituição de animais inscritos para o prémio por vacas em aleitamento deverão ser remetidos ao INGA no prazo de 10 dias úteis a contar da substituição, a qual deverá ocorrer nos 20 dias seguintes à ocorrência que implicou a substituição;
+
+c) Nos casos das Regiões Autónomas dos Açores e da Madeira os prazos a que se referem as alíneas anteriores são entendidos como prazos de entrega dos documentos comprovativos no Instituto de Alimentação e Mercados Agrícolas e na Direcção Regional de Agricultura da Madeira, respectivamente, devendo estas entidades promover o seu ulterior encaminhamento para o INGA no prazo de 21 dias.
+
+VI - Formalidades do pedido de ajuda
+
+1 - Todos os pedidos de ajuda e modelos anexos que os integram deverão conter, sob pena de não aceitação por parte do INGA, data, assinatura e carimbo da entidade receptora que procedeu à sua recolha, devendo ainda a mesma responsabilizar-se pela verificação da existência de todos os elementos constitutivos e formalmente exigidos.
+
+2 - No acto de recepção dos pedidos de ajudas «Animais» (modelo N), os números de identificação sanitária dos bovinos machos indicados pelo requerente terão de ser conferidos pelo funcionário receptor com os constantes nos boletins sanitários/passaporte que os requerentes terão obrigatoriamente de apresentar no acto de inscrição e nos quais deverá ser colocada, sob a forma de carimbo, no local específico para o efeito, a informação relativa à sua inclusão no prémio especial aos bovinos machos, na 1.ª ou 2.ª classe etária.
+
+3 - As entidades receptoras, para todos os pedidos de ajuda e declarações efectuadas em suporte magnético, deverão obrigatoriamente:
+
+a) Na situação de recolha local, isto é, na presença dos requerentes:
+
+Imprimir e submeter à apreciação dos agricultores os dados por estes fornecidos;
+
+Obter as assinaturas dos agricultores, após a aceitação por estes, dos dados impressos;
+
+Apôr o seu carimbo e assinatura;
+
+b) Na situação de recolha centralizada assegurar que os dados que constam nas candidaturas em suporte de papel assinadas pelos requerentes sejam correctamente transpostos para suporte magnético no período de 10 dias após a data de recepção daquelas candidaturas;
+
+c) A entidade receptora deverá obrigatoriamente fornecer um duplicado ou fotocópia do pedido de ajuda ao requerente, devidamente assinado e rubricado por este e pelo funcionário da entidade receptora, carimbado e datado.
+
+É revogado o Despacho Normativo n.º 12/2003, de 11 de Fevereiro, publicado no Diário da República, 1.ª série-B, n.º 58, de 10 de Março de 2003.
+
+Ministério da Agricultura, Desenvolvimento Rural e Pescas, 29 de Janeiro de 2004. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.

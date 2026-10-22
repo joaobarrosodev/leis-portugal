@@ -1,0 +1,600 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176800374:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-176884909",
+ "dre_path": "/dr/detalhe/decreto-lei/125-2021-176800374",
+ "source_lastmod": "2026-08-17",
+ "versions": [
+  {
+   "date": "2021-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176885055",
+    "176885056",
+    "176885057",
+    "176885058",
+    "176885059",
+    "176885060",
+    "176885061",
+    "176885062",
+    "176885063",
+    "176885064",
+    "176885065",
+    "176885066",
+    "176885067",
+    "176885068",
+    "176885069",
+    "176885070",
+    "176885071",
+    "176885072",
+    "176885073",
+    "176885074",
+    "176885075",
+    "176885076",
+    "176885077",
+    "176885078",
+    "176885079",
+    "176885080",
+    "176885081"
+   ]
+  },
+  {
+   "date": "2022-03-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:181066898:por",
+     "title": "Decreto-Lei n.º 28-A/2022",
+     "published": "2022-03-25",
+     "dre_path": "/dr/detalhe/decreto-lei/28-a-2022-181066898"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "176885055",
+    "176885056",
+    "176885057",
+    "176885058",
+    "176885059",
+    "176885060",
+    "176885061",
+    "176885062",
+    "176885063",
+    "176885064",
+    "176885065",
+    "176885066",
+    "176885067",
+    "176885068",
+    "176885069",
+    "176885070",
+    "176885071",
+    "176885072",
+    "176885073",
+    "176885074",
+    "176885075",
+    "176885076",
+    "181153196",
+    "176885078",
+    "176885079",
+    "176885080",
+    "176885081",
+    "176885082"
+   ]
+  },
+  {
+   "date": "2022-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185390584:por",
+     "title": "Decreto-Lei n.º 42/2022",
+     "published": "2022-06-29",
+     "dre_path": "/dr/detalhe/decreto-lei/42-2022-185390584"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A",
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "176885055",
+    "176885056",
+    "185435084",
+    "176885058",
+    "176885059",
+    "176885060",
+    "176885061",
+    "176885062",
+    "176885063",
+    "176885064",
+    "176885065",
+    "176885066",
+    "176885067",
+    "176885068",
+    "176885069",
+    "176885070",
+    "176885071",
+    "176885072",
+    "176885073",
+    "176885074",
+    "176885075",
+    "176885076",
+    "181153196",
+    "185435085",
+    "176885078",
+    "176885079",
+    "176885080",
+    "176885081",
+    "176885082"
+   ]
+  },
+  {
+   "date": "2022-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205050312:por",
+     "title": "Decreto-Lei n.º 85/2022",
+     "published": "2022-12-21",
+     "dre_path": "/dr/detalhe/decreto-lei/85-2022-205050312"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-B",
+    "Adita Artigo 16.º-C"
+   ],
+   "fragments": [
+    "176885055",
+    "176885056",
+    "185435084",
+    "176885058",
+    "176885059",
+    "176885060",
+    "176885061",
+    "176885062",
+    "176885063",
+    "176885064",
+    "176885065",
+    "176885066",
+    "176885067",
+    "176885068",
+    "176885069",
+    "176885070",
+    "176885071",
+    "176885072",
+    "176885073",
+    "176885074",
+    "176885075",
+    "176885076",
+    "181153196",
+    "185435085",
+    "205104286",
+    "205104287",
+    "176885078",
+    "176885079",
+    "176885080",
+    "176885081",
+    "176885082"
+   ]
+  },
+  {
+   "date": "2025-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:912653926:por",
+     "title": "Decreto-Lei n.º 49/2025",
+     "published": "2025-03-27",
+     "dre_path": "/dr/detalhe/decreto-lei/49-2025-912653926"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 16.º-C"
+   ],
+   "fragments": [
+    "176885055",
+    "176885056",
+    "185435084",
+    "176885058",
+    "176885059",
+    "176885060",
+    "176885061",
+    "176885062",
+    "176885063",
+    "176885064",
+    "912816534",
+    "176885066",
+    "176885067",
+    "176885068",
+    "912816535",
+    "176885070",
+    "176885071",
+    "176885072",
+    "176885073",
+    "176885074",
+    "176885075",
+    "176885076",
+    "181153196",
+    "185435085",
+    "205104286",
+    "912816536",
+    "176885078",
+    "176885079",
+    "176885080",
+    "176885081",
+    "176885082"
+   ]
+  },
+  {
+   "date": "2026-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1154275218:por",
+     "title": "Decreto-Lei n.º 161/2026",
+     "published": "2026-08-04",
+     "dre_path": "/dr/detalhe/decreto-lei/161-2026-1154275218"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "176885055",
+    "176885056",
+    "185435084",
+    "176885058",
+    "176885059",
+    "176885060",
+    "176885061",
+    "176885062",
+    "176885063",
+    "176885064",
+    "912816534",
+    "176885066",
+    "176885067",
+    "1154547475",
+    "912816535",
+    "176885070",
+    "176885071",
+    "176885072",
+    "176885073",
+    "176885074",
+    "176885075",
+    "176885076",
+    "181153196",
+    "185435085",
+    "205104286",
+    "912816536",
+    "176885078",
+    "176885079",
+    "176885080",
+    "176885081",
+    "176885082"
+   ]
+  }
+ ],
+ "fragments": {
+  "176885055": {
+   "fragment_id": "176884910",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 125/2021\n\nde 30 de dezembro\n\nSumário: Altera o regime de pagamento em prestações de tributos nas fases pré-executiva e executiva e aprova regimes excecionais de pagamento em prestações no ano de 2022.\n\nAtendendo à emergência de saúde pública de âmbito internacional causada pela pandemia da doença COVID-19, o Governo tem aprovado diversas medidas excecionais de flexibilização do cumprimento das obrigações fiscais, quer declarativas quer de pagamento, bem como de apoio às famílias e empresas, para mitigar os efeitos da mencionada pandemia da doença COVID-19.\n\nNesse âmbito, considerando a importância de que se reveste a regularização da situação tributária, designadamente no quadro da obtenção de diversos incentivos, que, no presente contexto, podem ser essenciais à subsistência das famílias e das empresas, e o necessário apoio à promoção do cumprimento voluntário, foram aprovados o Despacho n.º 8844-B/2020, publicado no Diário da República, 2.ª série, n.º 179, de 14 de setembro de 2020, e o Despacho n.º 1090-C/2021, publicado no Diário da República, 2.ª série, n.º 17, de 26 de janeiro de 2021, que determinam que a Autoridade Tributária e Aduaneira (AT) deve disponibilizar oficiosamente aos contribuintes, independentemente da apresentação do pedido, a faculdade de pagamento em prestações, sem necessidade de prestação de garantia, nos termos do Decreto-Lei n.º 492/88, de 30 de dezembro, na sua redação atual, e, no caso do Despacho n.º 1090-C/2021, publicado no Diário da República, 2.ª série, n.º 17, de 26 de janeiro de 2021, e do Código de Procedimento e de Processo Tributário, nos casos em que as dívidas já podem ser pagas sem prestação de garantia.\n\nNessa sequência, através do presente decreto-lei é aprovado um novo regime de pagamento em prestações de impostos, antes da instauração do processo de execução fiscal, e são aprovadas alterações ao regime de pagamento em prestações de impostos, no processo de execução fiscal.\n\nEm primeira linha, para a generalidade dos impostos geridos pela AT, cria-se uma verdadeira fase pré-executiva, que é um momento entre o fim do cumprimento voluntário da obrigação de pagamento e a instauração de execução fiscal, permitindo ao contribuinte que, querendo cumprir e não o podendo fazer de uma vez só, pagar a sua obrigação sem o estigma de ter pendente um processo executivo.\n\nPor outro lado, ao criar os pagamentos prestacionais oficiosos para dívidas de reduzido valor, esta solução apoia aquela franja de contribuintes que, teoricamente, terão menos apoio técnico externo para os ajudar a conhecer e encontrar soluções para garantir o cumprimento das suas obrigações fiscais, libertando ainda os cidadãos e a administração de procedimentos burocráticos, para solicitação desses planos e procedimentos de autorização.\n\nAdicionalmente, são ainda aprovadas duas medidas extraordinárias e transitórias decorrentes dos efeitos do contexto pandémico. Por um lado, o alargamento do número máximo de prestações de 36 para 60, independentemente do valor em dívida, para todas as pessoas singulares e coletivas com notória dificuldade financeira nos processos de execução fiscal instaurados em 2022 e nos processos de execução fiscal em curso - que podem igualmente requerer a mesma faculdade, reestruturando o plano prestacional até ao limite de cinco anos. Por outro lado, é aprovada a renovação da possibilidade de adesão a planos prestacionais para pagamento do imposto sobre o valor acrescentado e retenções na fonte de imposto sobre o rendimento das pessoas singulares e imposto sobre o rendimento das pessoas coletivas no 1.º semestre de 2022.\n\nFinalmente, considerando a necessidade de ajustamento dos sistemas informáticos da AT a estas novas realidades, prevê-se que as alterações estruturais aos regimes de pagamento em prestações previstas no presente decreto-lei apenas entrem em vigor a 1 de julho de 2022.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "176885056": {
+   "fragment_id": "176884911",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "176885057": {
+   "fragment_id": "176884912",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei:\n\na) Aprova um novo regime de pagamento em prestações de impostos, antes da instauração do processo de execução fiscal;\n\nb) Altera o Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro, na sua redação atual (CPPT);\n\nc) Aprova um regime excecional de pagamento em prestações para dívidas tributárias em execução fiscal; e\n\nd) Aprova um regime complementar de diferimento de obrigações fiscais a cumprir no 1.º semestre de 2022."
+  },
+  "176885058": {
+   "fragment_id": "176884913",
+   "type": 1,
+   "heading": "Capítulo II — Pagamento em prestações de impostos antes da instauração do processo de execução fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Pagamento em prestações de impostos antes da instauração do processo de execução fiscal"
+  },
+  "176885059": {
+   "fragment_id": "176884914",
+   "type": 8,
+   "heading": "Secção I — Regime regra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regime regra"
+  },
+  "176885060": {
+   "fragment_id": "176884915",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO presente regime de pagamento em prestações aplica-se às seguintes dívidas de imposto:\n\na) Imposto sobre o rendimento das pessoas singulares (IRS);\n\nb) Imposto sobre o rendimento das pessoas coletivas (IRC);\n\nc) Imposto sobre o valor acrescentado (IVA) quando a liquidação seja promovida oficiosamente pelos serviços;\n\nd) Imposto municipal sobre as transmissões onerosas de imóveis quando a liquidação seja promovida oficiosamente pelos serviços;\n\ne) Imposto único de circulação (IUC)."
+  },
+  "176885061": {
+   "fragment_id": "176884916",
+   "type": 11,
+   "heading": "Artigo 3.º — Pagamento em prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pagamento em prestações\n\n1 - As dívidas de imposto podem ser pagas em até 36 prestações de periodicidade mensal.\n\n2 - Do número de prestações autorizado não pode resultar prestação mensal inferior a um quarto da unidade de conta.\n\n3 - Para efeitos do disposto no número anterior, o valor a dividir em prestações não inclui os juros de mora."
+  },
+  "176885062": {
+   "fragment_id": "176884917",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência para autorizar as prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência para autorizar as prestações\n\nO pagamento em prestações das dívidas de imposto é autorizado pelo diretor-geral da Autoridade Tributária e Aduaneira (AT)."
+  },
+  "176885063": {
+   "fragment_id": "176884918",
+   "type": 11,
+   "heading": "Artigo 5.º — Do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Do pedido\n\n1 - Os pedidos de pagamento em prestações são apresentados por via eletrónica até 15 dias após o termo do prazo para o pagamento voluntário e devem conter a identificação do requerente, a natureza da dívida e o número de prestações pretendido.\n\n2 - Sem prejuízo do disposto no número anterior, o devedor pode requerer à AT a instauração imediata do processo de execução fiscal após o termo do prazo para o pagamento voluntário."
+  },
+  "176885064": {
+   "fragment_id": "176884919",
+   "type": 11,
+   "heading": "Artigo 6.º — Da prestação de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Da prestação de garantia\n\n1 - Sem prejuízo do disposto no n.º 5, conjuntamente com o pedido referido no artigo anterior, deve o devedor oferecer hipoteca ou garantia autónoma à primeira solicitação, designadamente garantia bancária ou seguro-caução.\n\n2 - A garantia é prestada pelo valor da dívida e juros de mora contados até ao termo do prazo do plano de pagamento concedido.\n\n3 - A garantia é constituída para cobrir todo o período de tempo que foi concedido para efetuar o pagamento, acrescido de três meses, e é apresentada no prazo de 15 dias a contar da notificação do plano prestacional, salvo no caso da hipoteca, cujo prazo pode ser ampliado até 30 dias.\n\n4 - Após o decurso do prazo referido no número anterior sem que tenha sido prestada a garantia, fica sem efeito a autorização para efetuar o pagamento da dívida em prestações, aplicando-se o disposto no n.º 3 do artigo seguinte.\n\n5 - A prestação de garantia é dispensada nas seguintes situações:\n\na) Quando a dívida de imposto seja de valor igual ou inferior a (euro) 5000,00 ou (euro) 10 000,00, consoante o obrigado seja pessoa singular ou coletiva, respetivamente; ou\n\nb) Quando o número de prestações pretendido seja igual ou inferior a 12; ou\n\nc) Para as dívidas de imposto cujo pagamento em prestações seja criado oficiosamente, nos termos da secção seguinte.\n\n6 - É competente para apreciar as garantias oferecidas nos termos do presente artigo o diretor de finanças da área do domicílio fiscal do devedor."
+  },
+  "176885065": {
+   "fragment_id": "176884920",
+   "type": 11,
+   "heading": "Artigo 7.º — Apreciação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apreciação dos pedidos\n\n1 - Deferido o pedido de pagamento em prestações, é o devedor notificado do plano prestacional aprovado através da respetiva área reservada do Portal das Finanças.\n\n2 - O total do imposto é dividido por um número de prestações mensais e iguais, acrescendo à última as frações resultantes do arredondamento de todas elas.\n\n3 - Em caso de indeferimento do pedido, é o devedor notificado nos termos do n.º 1 e extraída certidão de dívida pelos serviços competentes."
+  },
+  "176885066": {
+   "fragment_id": "176884921",
+   "type": 11,
+   "heading": "Artigo 8.º — Do pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Do pagamento\n\n1 - O documento de pagamento de cada prestação é obtido através da respetiva área reservada do Portal das Finanças.\n\n2 - O pagamento da primeira prestação deve ser efetuado até ao final do mês seguinte ao da autorização do plano prestacional e o pagamento das prestações seguintes até ao final do mês correspondente.\n\n3 - Ao valor de cada prestação acrescem os juros de mora contados sobre o respetivo montante desde o termo do prazo para pagamento voluntário até ao mês do respetivo pagamento.\n\n4 - A falta de pagamento de qualquer das prestações nos termos dos n.os 2 e 3 importa o vencimento imediato das seguintes e a emissão de certidão de dívida pelo valor em dívida, exceto se o pagamento ocorrer até à sua emissão.\n\n5 - Se o pagamento ocorrer depois da data limite de pagamento das prestações e antes da extração da certidão de dívida, serão cobrados juros de mora, até à data do pagamento, que serão incluídos na última prestação.\n\n6 - Caso exista garantia prestada, e em momento prévio à emissão da certidão de dívida, a entidade que tiver prestado a garantia é notificada para, no prazo de 15 dias, efetuar o pagamento da dívida ainda existente até ao montante da garantia prestada, sob pena de ser responsabilizada solidariamente por esse montante, facto que deve constar da certidão de dívida."
+  },
+  "176885067": {
+   "fragment_id": "176884922",
+   "type": 8,
+   "heading": "Secção II — Do pagamento em prestações a título oficioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do pagamento em prestações a título oficioso"
+  },
+  "176885068": {
+   "fragment_id": "176884923",
+   "type": 11,
+   "heading": "Artigo 9.º — Criação automática de planos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Criação automática de planos de pagamento\n\n1 - O devedor que não pague a dívida de imposto prevista no artigo 2.º dentro do prazo legal pode beneficiar do regime previsto na secção anterior, independentemente da apresentação do pedido e sem necessidade de apresentação de garantia, desde que verificadas as seguintes condições cumulativas:\n\na) A dívida se encontre em fase de cobrança voluntária;\n\nb) A dívida seja de valor igual ou inferior a (euro) 5000,00 ou a (euro) 10 000,00, consoante o obrigado seja pessoa singular ou coletiva, respetivamente;\n\nc) Não tenha apresentado pedido de pagamento em prestações nos termos da secção anterior.\n\n2 - Caso a dívida seja de IUC e no mesmo mês deva ser pago o imposto sobre dois ou mais veículos, a condição prevista na alínea b) do número anterior tem-se por verificada sempre que uma das liquidações respeite os limites nela previstos."
+  },
+  "176885069": {
+   "fragment_id": "176884924",
+   "type": 11,
+   "heading": "Artigo 10.º — Planos prestacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Planos prestacionais\n\n1 - O plano prestacional é criado pela AT quando se mostre findo o prazo para solicitar o pedido de pagamento em prestações, pelo número máximo de prestações admissíveis, até ao limite de 36, não podendo dele resultar prestação mensal inferior a um quarto da unidade de conta.\n\n2 - A criação do plano é notificada nos termos do n.º 1 do artigo 7.º e os documentos de pagamento de cada prestação são obtidos nos termos do n.º 1 do artigo 8.º"
+  },
+  "176885070": {
+   "fragment_id": "176884925",
+   "type": 11,
+   "heading": "Artigo 11.º — Situação tributária regularizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Situação tributária regularizada\n\nA situação tributária do contribuinte é considerada regularizada, nos termos e para os efeitos do artigo 177.º-A do CPPT, a partir da data de criação do plano prestacional e com o cumprimento do mesmo nos termos do n.º 4 do artigo 8.º"
+  },
+  "176885071": {
+   "fragment_id": "176884926",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito subsidiário\n\nEm tudo o que não estiver especialmente previsto na presente secção, aplica-se o disposto na secção anterior, com as necessárias adaptações."
+  },
+  "176885072": {
+   "fragment_id": "176884927",
+   "type": 1,
+   "heading": "Capítulo III — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alterações legislativas"
+  },
+  "176885073": {
+   "fragment_id": "176884928",
+   "type": 11,
+   "heading": "Artigo 13.º — Alteração ao Código de Procedimento e de Processo Tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Alteração ao Código de Procedimento e de Processo Tributário\n\nOs artigos 196.º e 198.º do CPPT passam a ter a seguinte redação:\n\n«Artigo 196.º\n\n[...]\n\n1 - As dívidas exigíveis em processo executivo podem ser pagas em prestações mensais e iguais, mediante requerimento a dirigir, até à marcação da venda, ao órgão da execução fiscal, sem prejuízo do disposto no artigo 198.º-A.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]\n\n13 - [...]\n\nArtigo 198.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - Caso o pedido de pagamento em prestações obedeça a todos os pressupostos legais, deve o mesmo ser objeto de imediata autorização pelo órgão considerado competente nos termos do artigo anterior, notificando-se o requerente desse facto e de que, caso pretenda a suspensão da execução e a regularização da sua situação tributária, deve ser constituída ou prestada garantia idónea nos termos do artigo 199.º ou, em alternativa, obter a autorização para a sua dispensa.\n\n4 - [...]\n\n5 - É dispensada a prestação de garantia para dívidas de valor inferior ou igual a (euro) 5000 para pessoas singulares, ou a (euro) 10 000 para pessoas coletivas.»"
+  },
+  "176885074": {
+   "fragment_id": "176884929",
+   "type": 11,
+   "heading": "Artigo 14.º — Aditamento ao Código de Procedimento e de Processo Tributário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Aditamento ao Código de Procedimento e de Processo Tributário\n\nÉ aditado ao CPPT o artigo 198.º-A, com a seguinte redação:\n\n«Artigo 198.º-A\n\nPlano oficioso de pagamento em prestações\n\n1 - Aquando da instauração de processos de execução fiscal para cobrança de dívidas de valor inferior ou igual a (euro) 5000 para pessoas singulares, ou a (euro) 10 000 para pessoas coletivas, é elaborado pela Autoridade Tributária e Aduaneira um plano oficioso de pagamento da dívida em prestações.\n\n2 - O plano elaborado é disponibilizado na área reservada do executado do Portal das Finanças para consulta e emissão das guias de pagamento, devendo o pagamento da primeira prestação ser efetuado no mês seguinte àquele em que for notificado o plano.\n\n3 - O disposto no número anterior não prejudica o disposto no n.º 3 do artigo 169.º, devendo a notificação do plano ocorrer apenas quando cessar a suspensão da execução.\n\n4 - As prestações são mensais, iguais e sucessivas, não podendo o seu número exceder 36 e o seu valor ser inferior a um quarto da unidade de conta.\n\n5 - A importância a dividir em prestações não compreende os juros de mora, que continuam a vencer-se em relação à dívida exequenda incluída em cada prestação e até integral pagamento, os quais serão incluídos na guia para pagamento conjuntamente com a prestação.\n\n6 - O processo de execução fiscal é suspenso e a situação tributária do contribuinte é, nos termos e para os efeitos do artigo 177.º-A, considerada regularizada a partir da data de elaboração do plano e com o cumprimento do plano prestacional.\n\n7 - A exclusão do plano ocorre automaticamente, prosseguindo o processo de execução fiscal os seus termos, com a falta de pagamento da primeira prestação, nos termos do número anterior, ou com a falta de pagamento de três prestações.\n\n8 - A exclusão do plano, nos termos do número anterior, não prejudica o acesso aos demais regimes de pagamento em prestações previstos no presente Código.\n\n9 - O pagamento em prestações ao abrigo do regime fixado no presente artigo não depende da prestação de quaisquer garantias adicionais, sem prejuízo da manutenção das garantias já constituídas.»"
+  },
+  "176885075": {
+   "fragment_id": "176884930",
+   "type": 1,
+   "heading": "Capítulo IV — Regimes excecionais de pagamento em prestações no ano de 2022",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regimes excecionais de pagamento em prestações no ano de 2022"
+  },
+  "176885076": {
+   "fragment_id": "176884931",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime excecional de pagamento em prestações para dívidas tributárias em execução fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime excecional de pagamento em prestações para dívidas tributárias em execução fiscal\n\n1 - Em consequência dos efeitos da pandemia da doença COVID-19, aos processos de execução fiscal instaurados entre 1 de janeiro e 31 de dezembro de 2022 aplica-se o disposto no n.º 5 do artigo 196.º do CPPT, independentemente do valor em dívida.\n\n2 - Os devedores com planos prestacionais em processos de execução fiscal em curso podem igualmente requerer à AT, até 31 de janeiro de 2022, a aplicação do presente regime excecional, sendo adicionadas às prestações aprovadas as prestações remanescentes até ao limite de cinco anos."
+  },
+  "176885077": {
+   "fragment_id": "176884932",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime complementar de diferimento de obrigações fiscais a cumprir no 1.º semestre de 2022",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime complementar de diferimento de obrigações fiscais a cumprir no 1.º semestre de 2022\n\n1 - No 1.º semestre de 2022 as obrigações previstas no artigo 98.º do Código do IRS, no artigo 94.º do Código do IRC e na alínea a) do n.º 1 do artigo 27.º do Código do IVA podem ser cumpridas:\n\na) Até ao termo do prazo de pagamento voluntário; ou\n\nb) Em três ou seis prestações mensais, de valor igual ou superior a (euro) 25,00, sem juros ou penalidades.\n\n2 - No 1.º semestre de 2022 a obrigação prevista na alínea b) do n.º 1 do artigo 27.º do Código do IVA pode ser cumprida:\n\na) Até ao termo do prazo de pagamento voluntário; ou\n\nb) Em três ou seis prestações mensais, de valor igual ou superior a (euro) 25,00, sem juros ou penalidades.\n\n3 - O regime previsto no n.º 1 é aplicável aos sujeitos passivos singulares ou coletivos que:\n\na) Tenham obtido em 2020 um volume de negócios até ao limite máximo da classificação como micro, pequena e média empresa, nos termos do disposto no artigo 2.º do anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, e que cumulativamente declarem e demonstrem uma diminuição da faturação comunicada através do E-Fatura de, pelo menos, 10 % da média mensal do ano civil completo de 2021 face à média mensal do ano anterior; ou\n\nb) Tenham atividade principal enquadrada na classificação de atividade económica de alojamento, restauração e similares, ou da cultura; ou\n\nc) Tenham iniciado ou reiniciado a atividade em ou após 1 de janeiro de 2021.\n\n4 - A demonstração da diminuição da faturação a que se refere o número anterior deve ser efetuada por certificação de contabilista certificado até três dias úteis após a data limite de pagamento voluntário.\n\n5 - Quando os sujeitos passivos previstos no n.º 1 não disponham nem devam dispor de contabilidade organizada, a certificação de contabilista certificado pode ser substituída, mediante declaração do requerente, sob compromisso de honra.\n\n6 - Para efeitos do disposto no n.º 3, quando a comunicação dos elementos das faturas através do E-Fatura não reflita a totalidade das operações praticadas sujeitas a IVA, ainda que isentas, relativas a transmissão de bens e prestações de serviços referentes aos períodos em análise, a aferição da quebra de faturação deve ser efetuada com referência ao volume de negócios, sendo igualmente exigível, neste caso, a respetiva certificação de contabilista certificado.\n\n7 - No cumprimento das obrigações de acordo com o disposto nos números anteriores deve observar-se o seguinte:\n\na) As prestações mensais relativas aos planos prestacionais vencem-se da seguinte forma:\n\ni) A primeira prestação, na data de cumprimento da obrigação de pagamento em causa;\n\nii) As restantes prestações mensais, na mesma data dos meses subsequentes;\n\nb) Os pedidos de pagamentos em prestações mensais a que se refere a alínea b) do n.º 1 são apresentados por via eletrónica, até ao termo do prazo de pagamento voluntário;\n\nc) Os pagamentos em prestações abrangidos pelo presente decreto-lei não dependem da prestação de quaisquer garantias;\n\nd) O sujeito passivo deve ter a sua situação tributária e contributiva regularizada;\n\ne) Em tudo o que não seja regulado no presente decreto-lei são aplicáveis as regras relativas a pagamentos em prestações previstas no Decreto-Lei n.º 492/88, de 30 de dezembro, na sua redação atual, com as necessárias adaptações;\n\nf) Para efeitos do presente artigo, o conceito de volume de negócios corresponde ao previsto no artigo 143.º do Código do IRC, quando aplicável."
+  },
+  "176885078": {
+   "fragment_id": "176884933",
+   "type": 1,
+   "heading": "Capítulo V — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições transitórias e finais"
+  },
+  "176885079": {
+   "fragment_id": "176884934",
+   "type": 11,
+   "heading": "Artigo 17.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regime transitório\n\n1 - A dispensa da prestação de garantia prevista no artigo 6.º é aplicável aos pedidos de pagamento em prestações apresentados ao abrigo do Decreto-Lei n.º 492/88, de 30 de dezembro, na sua redação atual, e que se encontrem pendentes de autorização.\n\n2 - As disposições previstas na secção ii do capítulo ii são também aplicáveis às dívidas vencidas em data anterior à entrada em vigor do presente decreto-lei, desde que verificadas as condições do artigo 9.º"
+  },
+  "176885080": {
+   "fragment_id": "176884935",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão revogados os artigos 29.º a 37.º do Decreto-Lei n.º 492/88, de 30 de dezembro, na sua redação atual."
+  },
+  "176885081": {
+   "fragment_id": "176884936",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor e produção de efeitos\n\n1 - Sem prejuízo do disposto no número seguinte quanto aos regimes excecionais de pagamento em prestações em 2022, o presente decreto-lei entra em vigor no dia 1 de julho de 2022.\n\n2 - O capítulo iv do presente decreto-lei produz efeitos a 1 de janeiro de 2022."
+  },
+  "181153196": {
+   "fragment_id": "176884932",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime complementar de diferimento de obrigações fiscais a cumprir no 1.º semestre de 2022",
+   "in_force_from": "2022-03-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 28-A/2022 - Diário da República n.º 60/2022, 1º Suplemento, Série I de 2022-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2022-181066898), em vigor a partir de 2022-03-26"
+   ],
+   "markdown": "###### Artigo 16.º — Regime complementar de diferimento de obrigações fiscais a cumprir no 1.º semestre de 2022\n\n1 - No 1.º semestre de 2022 as obrigações previstas no artigo 98.º do Código do IRS, no artigo 94.º do Código do IRC e na alínea a) do n.º 1 do artigo 27.º do Código do IVA podem ser cumpridas:\n\na) Até ao termo do prazo de pagamento voluntário; ou\n\nb) Em três ou seis prestações mensais, de valor igual ou superior a (euro) 25,00, sem juros ou penalidades.\n\n2 - No 1.º semestre de 2022 a obrigação prevista na alínea b) do n.º 1 do artigo 27.º do Código do IVA pode ser cumprida:\n\na) Até ao termo do prazo de pagamento voluntário; ou\n\nb) Em três ou seis prestações mensais, de valor igual ou superior a (euro) 25,00, sem juros ou penalidades.\n\n3 - O regime previsto no n.º 1 é aplicável aos sujeitos passivos singulares ou coletivos que:\n\na) Tenham obtido em 2020 um volume de negócios até ao limite máximo da classificação como micro, pequena e média empresa, nos termos do disposto no artigo 2.º do anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual; ou\n\nb) Tenham atividade principal enquadrada na classificação de atividade económica de alojamento, restauração e similares, dos transportes ou da cultura; ou\n\nc) Tenham iniciado ou reiniciado a atividade em ou após 1 de janeiro de 2021.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - No cumprimento das obrigações de acordo com o disposto nos números anteriores deve observar-se o seguinte:\n\na) As prestações mensais relativas aos planos prestacionais vencem-se da seguinte forma:\n\ni) A primeira prestação, na data de cumprimento da obrigação de pagamento em causa;\n\nii) As restantes prestações mensais, na mesma data dos meses subsequentes;\n\nb) Os pedidos de pagamentos em prestações mensais a que se refere a alínea b) do n.º 1 são apresentados por via eletrónica, até ao termo do prazo de pagamento voluntário;\n\nc) Os pagamentos em prestações abrangidos pelo presente decreto-lei não dependem da prestação de quaisquer garantias;\n\nd) O sujeito passivo deve ter a sua situação tributária e contributiva regularizada;\n\ne) Em tudo o que não seja regulado no presente decreto-lei são aplicáveis as regras relativas a pagamentos em prestações previstas no Decreto-Lei n.º 492/88, de 30 de dezembro, na sua redação atual, com as necessárias adaptações;\n\nf) Para efeitos do presente artigo, o conceito de volume de negócios corresponde ao previsto no artigo 143.º do Código do IRC, quando aplicável.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 28-A/2022 - Diário da República n.º 60/2022, 1º Suplemento, Série I de 2022-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2022-181066898), em vigor a partir de 2022-03-26"
+  },
+  "176885082": {
+   "fragment_id": "176884937",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de dezembro de 2021. - Pedro Gramaxo de Carvalho Siza Vieira - João Rodrigo Reis Carvalho Leão.\n\nPromulgado em 24 de dezembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 27 de dezembro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114851929"
+  },
+  "185435084": {
+   "fragment_id": "176884912",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2022-185390584), em vigor a partir de 2022-06-30"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei:\n\na) Aprova um novo regime de pagamento em prestações de impostos, antes da instauração do processo de execução fiscal;\n\nb) Altera o Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro, na sua redação atual (CPPT);\n\nc) Aprova um regime excecional de pagamento em prestações para dívidas tributárias em execução fiscal; e\n\nd) Aprova regimes complementares de diferimento de obrigações fiscais a cumprir no ano de 2022.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2022-185390584), em vigor a partir de 2022-06-30"
+  },
+  "185435085": {
+   "fragment_id": "185430092",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Regime complementar de diferimento de obrigações fiscais a cumprir no 2.º semestre de 2022",
+   "in_force_from": "2022-06-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 42/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2022-185390584), em vigor a partir de 2022-06-30"
+   ],
+   "markdown": "###### Artigo 16.º-A — Regime complementar de diferimento de obrigações fiscais a cumprir no 2.º semestre de 2022\n\n1 - No 2.º semestre de 2022, as obrigações previstas no artigo 98.º do Código do IRS, no artigo 94.º do Código do IRC e no n.º 1 do artigo 27.º do Código do IVA podem ser cumpridas:\n\na) Até ao termo do prazo de pagamento voluntário; ou\n\nb) Em prestações mensais, de valor igual ou superior a (euro) 25, sem juros ou penalidades, calculadas em função do número de meses restantes até ao final de 2022.\n\n2 - No cumprimento das obrigações de acordo com o disposto no número anterior deve observar-se o seguinte:\n\na) As prestações mensais relativas aos planos prestacionais vencem-se da seguinte forma:\n\ni) A primeira prestação, na data de cumprimento da obrigação de pagamento em causa; e\n\nii) As restantes prestações mensais, na mesma data dos meses subsequentes;\n\nb) Os pedidos de pagamentos em prestações mensais a que se refere a alínea b) do número anterior são apresentados por via eletrónica, até ao termo do prazo de pagamento voluntário;\n\nc) Os pagamentos em prestações abrangidos pelo presente regime não dependem da prestação de quaisquer garantias;\n\nd) O sujeito passivo deve ter a sua situação tributária e contributiva regularizada.\n\n3 - As regras relativas a pagamentos em prestações previstas no capítulo ii aplicam-se subsidiariamente ao presente regime, com as necessárias adaptações.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 42/2022 - Diário da República n.º 124/2022, Série I de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2022-185390584), em vigor a partir de 2022-06-30"
+  },
+  "205104286": {
+   "fragment_id": "205103257",
+   "type": 11,
+   "heading": "Artigo 16.º-B — Regime excecional de flexibilização de obrigações fiscais relativas a 2022",
+   "in_force_from": "2022-12-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22, produz efeitos a partir de 2022-11-15"
+   ],
+   "markdown": "###### Artigo 16.º-B — Regime excecional de flexibilização de obrigações fiscais relativas a 2022\n\n1 - Os sujeitos passivos qualificados como cooperativas ou como micro, pequenas e médias empresas ou como empresas de pequena-média capitalização (Small Mid Cap), nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, podem ser dispensados de metade do terceiro pagamento por conta do IRC, previsto na alínea a) do artigo 104.º do Código do IRC, relativo ao período de tributação que se inicie em ou após 1 de janeiro de 2022, sem prejuízo do disposto no artigo 107.º do referido código relativamente à parte não abrangida pela dispensa.\n\n2 - O disposto no número anterior apenas é aplicável nas entregas efetuadas pela sociedade dominante, em resultado da aplicação do regime especial de tributação de grupos de sociedades, previsto nos artigos 69.º e seguintes do Código do IRC, quando todas as sociedades que integram o grupo sejam classificadas como micro, pequenas, médias empresas ou como empresa de pequena-média capitalização, nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual.\n\n3 - Em novembro e dezembro de 2022, os sujeitos passivos previstos no n.º 1 podem cumprir a obrigação prevista no n.º 1 do artigo 27.º do Código do IVA em três ou seis prestações mensais, de valor igual ou superior a (euro) 25, sem juros.\n\n4 - Ao cumprimento das obrigações nos termos do número anterior aplica-se, com as necessárias adaptações, o disposto nos n.os 2 e 3 do artigo 16.º-A.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22, produz efeitos a partir de 2022-11-15"
+  },
+  "205104287": {
+   "fragment_id": "205103258",
+   "type": 11,
+   "heading": "Artigo 16.º-C — Regime complementar de diferimento de obrigações fiscais",
+   "in_force_from": "2022-12-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 16.º-C — Regime complementar de diferimento de obrigações fiscais\n\n1 - As obrigações previstas no n.º 1 do artigo 27.º do Código do IVA podem ser cumpridas:\n\na) Até ao termo do prazo de pagamento voluntário;\n\nb) Até três prestações mensais, de valor igual ou superior a (euro) 25, sem juros ou penalidades, relativamente às obrigações a cumprir no primeiro semestre do ano em causa; ou\n\nc) Até três prestações mensais, de valor igual ou superior a (euro) 25, sem juros ou penalidades, não podendo exceder o número de meses restantes até ao final do ano em causa, relativamente às obrigações a cumprir no segundo semestre do ano em causa.\n\n2 - No cumprimento das obrigações de acordo com o disposto no número anterior deve observar-se o seguinte:\n\na) As prestações mensais relativas aos planos prestacionais vencem-se da seguinte forma:\n\ni) A primeira prestação, na data de cumprimento da obrigação de pagamento em causa; e\n\nii) As restantes prestações mensais, na mesma data dos meses subsequentes;\n\nb) Os pedidos de pagamentos em prestações mensais a que se referem as alíneas b) e c) do número anterior são apresentados por via eletrónica, até ao termo do prazo de pagamento voluntário;\n\nc) Os pagamentos em prestações abrangidos pelo presente regime não dependem da prestação de quaisquer garantias;\n\nd) O sujeito passivo deve ter a sua situação tributária e contributiva regularizada.\n\n3 - As regras relativas a pagamentos em prestações previstas no capítulo ii aplicam-se subsidiariamente ao regime estabelecido no presente artigo, com as necessárias adaptações.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22, produz efeitos a partir de 2023-01-01"
+  },
+  "912816534": {
+   "fragment_id": "176884920",
+   "type": 11,
+   "heading": "Artigo 7.º — Apreciação dos pedidos",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), em vigor a partir de 2025-07-01"
+   ],
+   "markdown": "###### Artigo 7.º — Apreciação dos pedidos\n\n1 - O pedido de pagamento em prestações é automaticamente deferido nas situações previstas no n.º 5 do artigo anterior.\n\n2 - Deferido o pedido de pagamento em prestações, o total do imposto é dividido por um número de prestações mensais e iguais, acrescendo à última as frações resultantes do arredondamento de todas elas.\n\n3 - O plano prestacional aprovado pode ser consultado pelo devedor através da respetiva área reservada do Portal das Finanças.\n\n4 - Em caso de indeferimento do pedido, é o devedor notificado e extraída certidão de dívida pelos serviços competentes.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), em vigor a partir de 2025-07-01"
+  },
+  "912816535": {
+   "fragment_id": "176884924",
+   "type": 11,
+   "heading": "Artigo 10.º — Planos prestacionais",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), em vigor a partir de 2025-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Planos prestacionais\n\n1 - O plano prestacional é criado pela AT quando se mostre findo o prazo para solicitar o pedido de pagamento em prestações, pelo número máximo de prestações admissíveis, até ao limite de 36, não podendo dele resultar prestação mensal inferior a um quarto da unidade de conta.\n\n2 - A criação do plano é notificada ao devedor e os documentos de pagamento de cada prestação são obtidos nos termos do n.º 1 do artigo 8.º\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), em vigor a partir de 2025-07-01"
+  },
+  "912816536": {
+   "fragment_id": "205103258",
+   "type": 11,
+   "heading": "Artigo 16.º-C — Regime complementar de diferimento de obrigações fiscais",
+   "in_force_from": "2025-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), em vigor a partir de 2025-07-01",
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 16.º-C — Regime complementar de diferimento de obrigações fiscais\n\n1 - As obrigações previstas no n.º 1 do artigo 27.º do Código do IVA podem ser cumpridas:\n\na) Até ao termo do prazo de pagamento voluntário;\n\nb) Até três prestações mensais, de valor igual ou superior a (euro) 25, sem juros ou penalidades, relativamente às obrigações a cumprir no primeiro semestre do ano em causa; ou\n\nc) Até três prestações mensais, de valor igual ou superior a (euro) 25, sem juros ou penalidades, não podendo exceder o número de meses restantes até ao final do ano em causa, relativamente às obrigações a cumprir no segundo semestre do ano em causa.\n\n2 - No cumprimento das obrigações de acordo com o disposto no número anterior deve observar-se o seguinte:\n\na) As prestações mensais relativas aos planos prestacionais vencem-se da seguinte forma:\n\ni) A primeira prestação, na data de cumprimento da obrigação de pagamento em causa; e\n\nii) As restantes prestações mensais, na mesma data dos meses subsequentes;\n\nb) Os pedidos de pagamentos em prestações mensais a que se referem as alíneas b) e c) do número anterior são apresentados por via eletrónica, até ao termo do prazo de entrega das declarações periódicas;\n\nc) Os pagamentos em prestações abrangidos pelo presente regime não dependem da prestação de quaisquer garantias;\n\nd) O sujeito passivo deve ter a sua situação tributária e contributiva regularizada.\n\n3 - As regras relativas a pagamentos em prestações previstas no capítulo ii aplicam-se subsidiariamente ao regime estabelecido no presente artigo, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 49/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49-2025-912653926), em vigor a partir de 2025-07-01\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 85/2022 - Diário da República n.º 244/2022, Série I de 2022-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2022-205050312), em vigor a partir de 2022-12-22, produz efeitos a partir de 2023-01-01"
+  },
+  "1154547475": {
+   "fragment_id": "176884923",
+   "type": 11,
+   "heading": "Artigo 9.º — Criação automática de planos de pagamento",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 161/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2026-1154275218), em vigor a partir de 2026-08-05, com efeitos a partir de 2027-01-01."
+   ],
+   "markdown": "###### Artigo 9.º — Criação automática de planos de pagamento\n\n1 - O devedor que não pague a dívida de imposto prevista no artigo 2.º dentro do prazo legal pode beneficiar do regime previsto na secção anterior, independentemente da apresentação do pedido e sem necessidade de apresentação de garantia, desde que verificadas as seguintes condições cumulativas:\n\na) A dívida se encontre em fase de cobrança voluntária;\n\nb) A dívida seja de valor igual ou inferior a (euro) 5000,00 ou a (euro) 10 000,00, consoante o obrigado seja pessoa singular ou coletiva, respetivamente;\n\nc) Não tenha apresentado pedido de pagamento em prestações nos termos da secção anterior.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 161/2026 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2026-1154275218), em vigor a partir de 2026-08-05, com efeitos a partir de 2027-01-01."
+  }
+ }
+}

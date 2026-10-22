@@ -1,0 +1,336 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:483428:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-177444457",
+ "dre_path": "/dr/detalhe/portaria/1387-2009-483428",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-11-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177444571",
+    "177444572",
+    "177444573",
+    "177444574",
+    "177444575",
+    "177444576",
+    "177444577",
+    "177444578",
+    "177444579",
+    "177444580",
+    "177444581",
+    "177444582",
+    "177444583",
+    "177444584",
+    "177444585",
+    "177444586",
+    "177444587",
+    "177444588"
+   ]
+  },
+  {
+   "date": "2022-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177363478:por",
+     "title": "Portaria n.º 27/2022",
+     "published": "2022-01-10",
+     "dre_path": "/dr/detalhe/portaria/27-2022-177363478"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 12.º"
+   ],
+   "fragments": [
+    "177444571",
+    "177444572",
+    "177444573",
+    "177444574",
+    "177444589",
+    "177444590",
+    "177444591",
+    "177444592",
+    "177444593",
+    "177444594",
+    "177444595",
+    "177444596",
+    "177444599",
+    "177444584",
+    "177444597",
+    "177444598",
+    "177444587",
+    "177444588"
+   ]
+  }
+ ],
+ "fragments": {
+  "177444571": {
+   "fragment_id": "177444458",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1387/2009\n\nde 11 de Novembro\n\nEm desenvolvimento da Lei n.º 107/2001, de 8 de Setembro, que estabelece as bases da política e do regime de protecção e valorização do património cultural, foi criado o Fundo de Salvaguarda do Património Cultural pelo Decreto-Lei n.º 138/2009, de 15 de Junho, fundo público para os bens culturais constituído no âmbito do Ministério da Cultura.\n\nDando igualmente cumprimento ao disposto no Programa de Gestão do Património Imobiliário do Estado, aprovado pela Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro, e de modo a garantir uma intervenção mais eficaz, prevê-se a articulação deste fundo com outros fundos públicos nacionais no sentido de promover uma tutela integrada do património cultural.\n\nEm cumprimento dos objectivos inscritos no Programa do XVII Governo Constitucional e nas Grandes Opções do Plano para 2009, publicadas em anexo à Lei n.º 41/2008, de 13 de Agosto, foi ainda aprovado, pela Resolução do Conselho de Ministros n.º 70/2009, de 21 de Agosto, o Programa de Recuperação do Património Classificado (PRPC), também denominado Programa Cheque-Obra. Nos termos do disposto na alínea i) do n.º 1 do artigo 5.º do Decreto-Lei n.º 138/2009, de 15 de Junho, e no n.º 11 da citada resolução do Conselho de Ministros, as doações ou donativos em espécie, em obra, efectuados no âmbito do PRPC podem integrar o património do Fundo de Salvaguarda do Património Cultural.\n\nImporta agora regular os aspectos necessários ao funcionamento do Fundo de Salvaguarda do Património Cultural, relativos à realização do capital social, à gestão do Fundo e ao modo de funcionamento da comissão directiva, de forma a permitir o financiamento de medidas de protecção e valorização do património cultural imóvel, nomeadamente obras ou intervenções em bens culturais inscritos na lista do património mundial, aquisição de bens culturais para incorporação em museus nacionais, e intervenção em situações de emergência ou de calamidade pública relativas a bens culturais.\n\nAssim:\n\nEm cumprimento do disposto nos artigos 4.º e 9.º do Decreto-Lei n.º 138/2009, de 15 de Junho, e ao abrigo do disposto na alínea c) do artigo 199.º da Constituição, manda o Governo, pelos Ministros de Estado e das Finanças e da Cultura, o seguinte:"
+  },
+  "177444572": {
+   "fragment_id": "177444459",
+   "type": 11,
+   "heading": "Artigo 1.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regulamento\n\nÉ aprovado o Regulamento de Gestão do Fundo de Salvaguarda do Património Cultural e de Funcionamento da Comissão Directiva anexo à presente portaria e da qual faz parte integrante."
+  },
+  "177444573": {
+   "fragment_id": "177444460",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\nEm 24 de Setembro de 2009.\n\nO Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Cultura, José António de Melo Pinto Ribeiro.\n\nANEXO\n\nREGULAMENTO DE GESTÃO DO FUNDO DE SALVAGUARDA DO PATRIMÓNIO CULTURAL E DE FUNCIONAMENTO DA COMISSÃO DIRECTIVA\n\nArtigo 1.º\n\nObjecto\n\nO presente Regulamento aprova as regras de gestão do Fundo de Salvaguarda do Património Cultural, abreviadamente designado por Fundo de Salvaguarda, e de funcionamento da comissão directiva.\n\nArtigo 2.º\n\nCapital inicial\n\nO capital do Fundo de Salvaguarda é subscrito integralmente pelo Estado, nos seguintes termos:\n\na) 1 milhão de euros através da Secretaria-Geral do Ministério da Cultura;\n\nb) 4 milhões de euros através da Direcção-Geral do Tesouro e Finanças."
+  },
+  "177444574": {
+   "fragment_id": "177444461",
+   "type": 11,
+   "heading": "Artigo 3.º — Aumento do capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aumento do capital\n\nO capital do Fundo de Salvaguarda pode ser aumentado, sempre que necessário, por despacho conjunto dos membros do Governo responsáveis pelas áreas da cultura e das finanças."
+  },
+  "177444575": {
+   "fragment_id": "177444462",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências da comissão directiva\n\nCompete à comissão directiva assegurar a gestão do Fundo de Salvaguarda, devendo designadamente:\n\na) Submeter a aprovação do membro do Governo responsável pela área da cultura os critérios de apreciação e hierarquização dos financiamentos a conceder pelo Fundo de Salvaguarda;\n\nb) Estabelecer, em nome do Fundo de Salvaguarda, as relações institucionais que se mostrem necessárias à prossecução dos fins a que se destina o Fundo;\n\nc) Solicitar aos órgãos, organismos e serviços do Ministério da Cultura a colaboração necessária para a prossecução das suas competências;\n\nd) Solicitar ao Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P. (IGESPAR, I. P.), e demais organismos e serviços competentes do Ministério da Cultura as informações necessárias à boa execução do Programa de Recuperação do Património Classificado, aprovado pela Resolução do Conselho de Ministros n.º 70/2009, de 21 de Agosto, nomeadamente sobre os imóveis que devem ser alvo de obras ou intervenções;\n\ne) Representar o Ministério da Cultura junto dos doadores que façam ou pretendam fazer doações ou donativos em espécie na forma de prestação de facto ao abrigo do Programa de Recuperação do Património Classificado;\n\nf) Assegurar, em nome do Ministério da Cultura, a execução e gestão do Programa de Recuperação do Património Classificado;\n\ng) Decidir sobre a realização das obras ou intervenções em bens imóveis classificados, ou em vias de classificação, asseguradas, total ou parcialmente, através de doações ou donativos em espécie na forma de prestação de facto ao abrigo do Programa de Recuperação do Património Classificado;\n\nh) Acompanhar, avaliar e controlar a execução dos projectos financiados pelo Fundo de Salvaguarda, sem prejuízo do disposto no n.º 6 do artigo 12.º;\n\ni) Aprovar os contratos de financiamento;\n\nj) Praticar os actos de gestão do património necessários à realização das finalidades do Fundo de Salvaguarda;\n\nl) Proceder à aprovação da programação financeira do Fundo de Salvaguarda;\n\nm) Promover a arrecadação de receitas e autorizar a realização de despesas;\n\nn) Submeter à aprovação do membro do Governo responsável pela área da cultura, até 31 de Março de cada ano, o relatório de gestão e contas do Fundo de Salvaguarda com referência ao ano anterior, incidindo, designadamente, sobre:\n\ni) Operações de financiamento aprovadas;\n\nii) Operações de financiamento em curso;\n\niii) Aplicações do Fundo de Salvaguarda;\n\niv) Aquisição e alienação de activos;\n\nv) Balanço;\n\nvi) Demonstração de resultados;\n\nvii) Demonstração de fluxos de caixa;\n\no) Submeter, até 31 de Março de cada ano, cópia do relatório referido na alínea anterior ao membro do Governo responsável pela área das finanças;\n\np) Respeitar o modelo de rentabilização para os imóveis classificados do Estado previsto no n.º 5.2.2 do anexo da Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro;\n\nq) Estabelecer mecanismos de articulação do Fundo de Salvaguarda com o Fundo de Conservação e Reabilitação Patrimonial, criado pelo Decreto-Lei n.º 24/2009, de 21 de Janeiro, e regulado nos termos do respectivo Regulamento de Gestão aprovado pela Portaria n.º 293/2009, de 24 de Março, bem como com outros fundos públicos ou privados que promovam operações de reabilitação, conservação e restauro de bens culturais classificados ou em vias de classificação."
+  },
+  "177444576": {
+   "fragment_id": "177444463",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento da comissão directiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Funcionamento da comissão directiva\n\n1 - A comissão directiva é presidida pelo secretário-geral do Ministério da Cultura.\n\n2 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada por qualquer dos seus membros.\n\n3 - A comissão directiva solicita aos órgãos e serviços do Ministério da Cultura a colaboração necessária para a prossecução das suas competências.\n\n4 - Nos termos da lei, a Secretaria-Geral do Ministério da Cultura, através da sua Divisão de Instalações, Projectos e Obras, presta à comissão directiva do Fundo de Salvaguarda o apoio técnico, administrativo e logístico necessário ao seu funcionamento, podendo para o efeito adquirir os bens e serviços que se mostrem necessários.\n\n5 - Os montantes despendidos pela Secretaria-Geral do Ministério da Cultura nos termos do número anterior são considerados despesa do Fundo de Salvaguarda."
+  },
+  "177444577": {
+   "fragment_id": "177444464",
+   "type": 11,
+   "heading": "Artigo 6.º — Gestão financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Gestão financeira\n\n1 - Compete à Secretaria-Geral do Ministério da Cultura proceder à gestão de tesouraria e dos activos financeiros do Fundo de Salvaguarda, centralizando as receitas, processando as despesas e aplicando as disponibilidades respectivas, maximizando a sua capitalização, de acordo com a programação financeira aprovada pela comissão directiva.\n\n2 - A Secretaria-Geral do Ministério da Cultura elabora, até 31 de Janeiro de cada ano, as demonstrações financeiras do Fundo de Salvaguarda, as quais são remetidas à comissão directiva tendo em vista a sua integração no relatório de gestão e contas a que se refere a alínea n) do artigo 4.º"
+  },
+  "177444578": {
+   "fragment_id": "177444465",
+   "type": 11,
+   "heading": "Artigo 7.º — Controlo e fiscalização da gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Controlo e fiscalização da gestão\n\n1 - O controlo e a fiscalização da gestão do Fundo de Salvaguarda são exercidos pelo controlador financeiro do Ministério da Cultura, sem prejuízo das competências legalmente atribuídas a outras entidades.\n\n2 - A comissão directiva comunica ao controlador financeiro, mensalmente, as operações de financiamento aprovadas, as aplicações de activos, bem como todos os elementos relevantes sobre a gestão do Fundo de Salvaguarda.\n\n3 - O controlador financeiro, sempre que entender conveniente, pode solicitar informações complementares e assistir às reuniões da comissão directiva, bem como fazer recomendações sobre a gestão do Fundo de Salvaguarda."
+  },
+  "177444579": {
+   "fragment_id": "177444466",
+   "type": 11,
+   "heading": "Artigo 8.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Financiamento\n\n1 - Sem prejuízo do disposto no artigo 12.º, o Fundo de Salvaguarda destina-se a financiar as medidas de protecção e valorização previstas no artigo 3.º do Decreto-Lei n.º 138/2009, de 15 de Junho, de acordo com os critérios de apreciação e hierarquização aprovados nos termos do presente Regulamento.\n\n2 - O financiamento concedido ao abrigo do presente Regulamento pode ser cumulável com qualquer outro de que o bem cultural classificado venha a ser objecto, designadamente ao abrigo de programa ou instrumento financeiro de âmbito comunitário.\n\n3 - O financiamento concedido a cada projecto ao abrigo do presente Regulamento não pode ultrapassar 3 milhões de euros, sem prejuízo do disposto no n.º 5 do artigo 12.º"
+  },
+  "177444580": {
+   "fragment_id": "177444467",
+   "type": 11,
+   "heading": "Artigo 9.º — Financiamento prioritário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Financiamento prioritário\n\nSem prejuízo do disposto no artigo 12.º, é conferida prioridade ao financiamento em relação a:\n\na) Situações de emergência ou calamidade pública relativamente a bens culturais classificados ou em vias de classificação;\n\nb) Obras ou intervenções em bens culturais inscritos na lista do património mundial;\n\nc) Aquisição de bens culturais móveis nas situações referidas no artigo 64.º e no n.º 3 do artigo 66.º da Lei n.º 107/2001, de 8 de Setembro, quando pelo seu relevante interesse cultural devam ser incorporados em museus nacionais;\n\nd) Bens culturais imóveis classificados propriedade do Estado que gerem receitas afectas, total ou parcialmente, ao Fundo de Salvaguarda e que careçam de obras ou intervenções;\n\ne) Medidas provisórias ou medidas técnicas de salvaguarda em bens culturais classificados ou em vias de classificação."
+  },
+  "177444581": {
+   "fragment_id": "177444468",
+   "type": 11,
+   "heading": "Artigo 10.º — Requisitos de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Requisitos de apreciação\n\n1 - O financiamento por parte do Fundo de Salvaguarda no caso de obras ou intervenções em bens culturais classificados, ou em vias de classificação, depende da apreciação dos seguintes elementos:\n\na) Custo estimado das obras ou intervenções;\n\nb) Montante a financiar pelo Fundo de Salvaguarda;\n\nc) Calendarização e discriminação das obras ou intervenções, com referência da área objecto das operações;\n\nd) Proposta de fruição pública;\n\ne) Planos de manutenção e de conservação.\n\n2 - O financiamento da aquisição de bens culturais, exercício do direito de preferência ou expropriação, por parte do Fundo de Salvaguarda, tem em conta o interesse cultural relevante em causa, o risco de perda ou deterioração do bem e o montante a despender.\n\n3 - A comissão directiva, na apreciação das situações referidas nos números anteriores, pondera igualmente a existência de outras fontes de financiamento públicas ou privadas."
+  },
+  "177444582": {
+   "fragment_id": "177444469",
+   "type": 11,
+   "heading": "Artigo 11.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contrato de financiamento\n\n1 - O financiamento por parte do Fundo de Salvaguarda nos termos do presente Regulamento depende da celebração de contrato de financiamento.\n\n2 - O contrato de financiamento é celebrado entre a comissão directiva e a entidade gestora ou o proprietário do bem cultural beneficiário de financiamento.\n\n3 - As condições de atribuição do financiamento pelo Fundo de Salvaguarda, bem como os demais direitos e obrigações das partes, constituem o objecto do contrato de financiamento.\n\n4 - A execução do contrato de financiamento, no caso de obras ou intervenções em bens culturais classificados, ou em vias de classificação, depende da celebração dos contratos necessários à realização daquelas."
+  },
+  "177444583": {
+   "fragment_id": "177444470",
+   "type": 11,
+   "heading": "Artigo 12.º — Doações ou donativos em espécie",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Doações ou donativos em espécie\n\n1 - As doações ou donativos em espécie efectuados no âmbito do Programa de Recuperação do Património Classificado podem integrar o património do Fundo de Salvaguarda, nos termos do disposto na alínea i) do n.º 1 do artigo 5.º do Decreto-Lei n.º 138/2009, de 15 de Junho, e do n.º 11 da Resolução do Conselho de Ministros n.º 70/2009, de 21 de Agosto.\n\n2 - Os termos e condições para a realização de obras ou intervenções asseguradas, total ou parcialmente, através de doações ou donativos em espécie, na forma de prestação de facto, são objecto de contrato de doação a celebrar entre o Ministério da Cultura e o doador.\n\n3 - O membro do Governo responsável pela área da cultura pode, no despacho de nomeação dos membros da comissão directiva, delegar competências à comissão para a assinatura dos contratos de doação.\n\n4 - O valor das obras ou intervenções previstas neste artigo é fixado por acordo entre a comissão directiva e o doador, com a faculdade de, no caso de bens imóveis, serem designados, pela comissão directiva, medidores-orçamentistas do IGESPAR, I. P., ou contratados para o efeito pela Secretaria-Geral do Ministério da Cultura, que apuram o valor da obra segundo valores de mercado referenciados, por acordo, pelo Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.), que é ouvido, a título consultivo, devendo pronunciar-se no prazo de oito dias.\n\n5 - Não se aplica às obras ou intervenções asseguradas através de doações ou donativos em espécie, na forma de prestação de facto, o limite previsto no n.º 3 do artigo 8.º\n\n6 - Os bens culturais que beneficiem das obras ou intervenções previstas no presente artigo são escolhidos por acordo entre a comissão directiva e o doador, com a faculdade de, no caso de bens imóveis, serem indicados à comissão directiva por proposta do IGESPAR, I. P., ou de outros organismos ou serviços competentes do Ministério da Cultura.\n\n7 - As obras ou intervenções efectuadas em bens imóveis ao abrigo do Programa de Recuperação do Património Classificado são fiscalizadas por técnicos do IGESPAR, I. P., ou contratados para o efeito pela Secretaria-Geral do Ministério da Cultura."
+  },
+  "177444584": {
+   "fragment_id": "177444471",
+   "type": 11,
+   "heading": "Artigo 13.º — Regime jurídico das obras e intervenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regime jurídico das obras e intervenções\n\nAs obras ou intervenções realizadas no âmbito do presente Regulamento observam o regime previsto no Decreto-Lei n.º 140/2009, de 15 de Junho, que estabelece o regime jurídico dos estudos, projectos, relatórios, obras ou intervenções sobre bens culturais classificados, ou em vias de classificação, e demais legislação aplicável."
+  },
+  "177444585": {
+   "fragment_id": "177444472",
+   "type": 11,
+   "heading": "Artigo 14.º — Acompanhamento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acompanhamento e fiscalização\n\n1 - Sem prejuízo do disposto no artigo 12.º, compete à administração do património cultural competente o acompanhamento e fiscalização das obras ou intervenções realizadas no âmbito do presente Regulamento, designadamente:\n\na) Aferir do cumprimento do projecto de execução de obra ou intervenção no bem cultural;\n\nb) Informar a comissão directiva do Fundo de Salvaguarda do cumprimento das várias fases do projecto;\n\nc) Realizar a vistoria final para verificação de conformidade de obra ou intervenção com as condições estabelecidas no projecto de execução e no contrato.\n\n2 - Todas as operações materiais de fiscalização e acompanhamento de obra ou intervenção são reduzidas a auto."
+  },
+  "177444586": {
+   "fragment_id": "177444473",
+   "type": 11,
+   "heading": "Artigo 15.º — Desembolso dos montantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Desembolso dos montantes\n\n1 - A disponibilização do montante correspondente ao valor do financiamento a conceder pelo Fundo de Salvaguarda será efectuada de forma fraccionada, à medida que se encontrem executadas as várias fases do projecto apresentado, após confirmação pelos serviços competentes nos termos do artigo anterior.\n\n2 - A disponibilização da última parcela do financiamento fica condicionada à confirmação da conclusão das obras ou intervenções realizadas pelos serviços competentes nos termos do artigo anterior."
+  },
+  "177444587": {
+   "fragment_id": "177444474",
+   "type": 11,
+   "heading": "Artigo 16.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Incumprimento\n\n1 - O não cumprimento das obrigações contratadas no âmbito do presente Regulamento confere à comissão directiva o direito de suspender os pagamentos acordados.\n\n2 - Caso a entidade beneficiária venha a dar cumprimento às obrigações em falta, a comissão directiva pode retomar os pagamentos acordados.\n\n3 - O disposto nos números anteriores não prejudica o direito de a comissão directiva resolver o contrato.\n\n4 - A resolução do contrato prevista no número anterior implica a restituição das comparticipações financeiras entregues, a efectuar no prazo de 60 dias a contar da data da notificação.\n\n5 - O incumprimento das obrigações aqui previstas faz cessar os apoios e benefícios concedidos à entidade faltosa ao abrigo do presente Regulamento e impede-a de se candidatar a novos apoios enquanto não proceder ao cumprimento das obrigações em falta."
+  },
+  "177444588": {
+   "fragment_id": "177444675",
+   "type": 11,
+   "heading": "Artigo 17.º — Extinção do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Extinção do Fundo\n\nEm caso de extinção do Fundo de Salvaguarda, o destino dos meios financeiros a este afectos, apurados após a respectiva liquidação, é determinado por despacho conjunto dos membros do Governo responsáveis pelas áreas da cultura e das finanças."
+  },
+  "177444589": {
+   "fragment_id": "177444462",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências da comissão directiva",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 4.º — Competências da comissão directiva\n\n1 - Compete à comissão diretiva assegurar a gestão do Fundo de Salvaguarda, devendo designadamente:\n\na) Submeter a aprovação do membro do Governo responsável pela área da cultura os critérios de apreciação e hierarquização dos financiamentos a conceder pelo Fundo de Salvaguarda;\n\nb) Estabelecer, em nome do Fundo de Salvaguarda, as relações institucionais que se mostrem necessárias à prossecução dos fins a que se destina o Fundo;\n\nc) Solicitar aos órgãos, organismos e serviços do Ministério da Cultura a colaboração necessária para a prossecução das suas competências;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) Acompanhar, avaliar e controlar a execução dos projetos financiados pelo Fundo de Salvaguarda;\n\ni) Aprovar os contratos de financiamento;\n\nj) Praticar os actos de gestão do património necessários à realização das finalidades do Fundo de Salvaguarda;\n\nl) Proceder à aprovação da programação financeira do Fundo de Salvaguarda;\n\nm) Promover a arrecadação de receitas e autorizar a realização de despesas;\n\nn) Submeter à aprovação do membro do Governo responsável pela área da cultura, até 31 de Março de cada ano, o relatório de gestão e contas do Fundo de Salvaguarda com referência ao ano anterior, incidindo, designadamente, sobre:\n\ni) Operações de financiamento aprovadas;\n\nii) Operações de financiamento em curso;\n\niii) Aplicações do Fundo de Salvaguarda;\n\niv) Aquisição e alienação de activos;\n\nv) Balanço;\n\nvi) Demonstração de resultados;\n\nvii) Demonstração de fluxos de caixa;\n\no) Submeter, até 31 de Março de cada ano, cópia do relatório referido na alínea anterior ao membro do Governo responsável pela área das finanças;\n\np) Respeitar o modelo de rentabilização para os imóveis classificados do Estado previsto no n.º 5.2.2 do anexo da Resolução do Conselho de Ministros n.º 162/2008, de 24 de Outubro;\n\nq) Estabelecer mecanismos de articulação do Fundo de Salvaguarda com o Fundo de Conservação e Reabilitação Patrimonial, criado pelo Decreto-Lei n.º 24/2009, de 21 de Janeiro, e regulado nos termos do respectivo Regulamento de Gestão aprovado pela Portaria n.º 293/2009, de 24 de Março, bem como com outros fundos públicos ou privados que promovam operações de reabilitação, conservação e restauro de bens culturais classificados ou em vias de classificação.\n\nr) Comunicar à Direção-Geral do Tesouro e Finanças (DGTF), no final de cada trimestre, a aprovação e a realização de operações de reabilitação, conservação e restauro de imóveis classificados propriedade do Estado.\n\n2 - Compete, ainda, à comissão diretiva assegurar a gestão dos investimentos nos bens imóveis cuja requalificação está prevista no Plano de Recuperação e Resiliência e de outros investimentos que sejam qualificados como urgentes, devendo designadamente:\n\na) Nos termos do disposto nos n.os 3 e 4 da Resolução do Conselho de Ministros n.º 49/2021, de 11 de maio, e considerando a qualidade de beneficiário intermediário do Fundo de Salvaguarda a que se refere o Decreto-Lei n.º 29-B/2021, de 4 de maio, gerir a operacionalização dos investimentos nos bens imóveis cuja requalificação está prevista no Plano de Recuperação e Resiliência, bem como de outros investimentos que sejam qualificados como urgentes nos termos do disposto no n.º 1 do artigo 3.º do Decreto-Lei n.º 138/2009, de 15 de junho, na redação que lhe foi dada pelo Decreto-Lei n.º 42/2021, de 7 de junho;\n\nb) Celebrar os contratos necessários à operacionalização dos investimentos nos bens imóveis cuja requalificação está prevista no Plano de Recuperação e Resiliência, designadamente os contratos cujas contrapartes são a Estrutura de Missão 'Recuperar Portugal' e os beneficiários finais a que se refere o Decreto-Lei n.º 29-B/2021, de 4 de maio, no âmbito do modelo de governação do Plano de Recuperação e Resiliência, e monitorizar a respetiva execução.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  },
+  "177444590": {
+   "fragment_id": "177444463",
+   "type": 11,
+   "heading": "Artigo 5.º — Funcionamento da comissão directiva",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 5.º — Funcionamento da comissão directiva\n\n1 - A comissão diretiva é presidida pelo diretor-geral da Direção-Geral do Património Cultural (DGPC).\n\n2 - A comissão directiva reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada por qualquer dos seus membros.\n\n3 - A comissão directiva solicita aos órgãos e serviços do Ministério da Cultura a colaboração necessária para a prossecução das suas competências.\n\n4 - A DGPC presta à comissão diretiva do Fundo de Salvaguarda o apoio técnico, administrativo e logístico necessário ao seu funcionamento, podendo para o efeito adquirir os bens e serviços que se mostrem necessários.\n\n5 - Os montantes despendidos pela DGPC nos termos do número anterior são considerados despesa do Fundo de Salvaguarda.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  },
+  "177444591": {
+   "fragment_id": "177444464",
+   "type": 11,
+   "heading": "Artigo 6.º — Gestão financeira",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 6.º — Gestão financeira\n\n1 - Compete à DGPC proceder à gestão de tesouraria e dos ativos financeiros do Fundo de Salvaguarda, centralizando as receitas, processando as despesas e aplicando as disponibilidades respetivas, maximizando a sua capitalização, de acordo com a programação financeira aprovada pela comissão diretiva.\n\n2 - A DGPC elabora, até 31 de janeiro de cada ano, as demonstrações financeiras do Fundo de Salvaguarda, as quais são remetidas à comissão diretiva tendo em vista a sua integração no relatório de gestão e contas a que se refere a alínea n) do n.º 1 do artigo 4.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  },
+  "177444592": {
+   "fragment_id": "177444465",
+   "type": 11,
+   "heading": "Artigo 7.º — Controlo e fiscalização da gestão",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 7.º — Controlo e fiscalização da gestão\n\n1 - O controlo e a fiscalização da gestão do Fundo de Salvaguarda são exercidos pela Inspeção-Geral das Atividades Culturais (IGAC), sem prejuízo das competências legalmente atribuídas a outras entidades.\n\n2 - A comissão diretiva comunica à IGAC, semestralmente, as operações de financiamento aprovadas, as aplicações de ativos, bem como todos os elementos relevantes sobre o Fundo de Salvaguarda.\n\n3 - A IGAC, sempre que entender conveniente, pode solicitar informações complementares e assistir às reuniões da comissão diretiva, bem como fazer recomendações sobre a gestão do Fundo de Salvaguarda.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  },
+  "177444593": {
+   "fragment_id": "177444466",
+   "type": 11,
+   "heading": "Artigo 8.º — Financiamento",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 8.º — Financiamento\n\n1 - O Fundo de Salvaguarda destina-se a financiar os investimentos e medidas de proteção e valorização previstas no artigo 3.º do Decreto-Lei n.º 138/2009, de 15 de junho, na redação que lhe foi dada pelo Decreto-Lei n.º 42/2021, de 7 de junho, de acordo com os requisitos de apreciação previstos no presente Regulamento.\n\n2 - O financiamento concedido ao abrigo do presente Regulamento pode ser cumulável com qualquer outro de que o bem cultural venha a ser objeto.\n\n3 - Com exceção dos projetos financiados através do Plano de Recuperação e Resiliência, o financiamento concedido a cada projeto ao abrigo do presente Regulamento não pode ultrapassar 3 milhões de euros.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  },
+  "177444594": {
+   "fragment_id": "177444467",
+   "type": 11,
+   "heading": "Artigo 9.º — Financiamento prioritário",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 9.º — Financiamento prioritário\n\n1 - É conferida prioridade ao financiamento dos investimentos nos bens imóveis cuja requalificação está prevista no Plano de Recuperação e Resiliência e que estão elencados no anexo à Resolução do Conselho de Ministros n.º 49/2021, de 11 de maio, bem como de outros investimentos que sejam qualificados como urgentes nos termos do disposto no n.º 1 do artigo 3.º do Decreto-Lei n.º 138/2009, de 15 de junho, na redação que lhe foi dada pelo Decreto-Lei n.º 42/2021, de 7 de junho.\n\n2 - Sem prejuízo do disposto no número anterior, pode também ser conferida prioridade ao financiamento em relação a:\n\na) Imóveis, conjuntos ou sítios integrados na lista do património mundial;\n\nb) Bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público em risco de destruição ou perda;\n\nc) Situações de emergência ou calamidade pública em relação a bens culturais classificados, ou em vias de classificação, como de interesse nacional ou de interesse público.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  },
+  "177444595": {
+   "fragment_id": "177444468",
+   "type": 11,
+   "heading": "Artigo 10.º — Requisitos de apreciação",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 10.º — Requisitos de apreciação\n\n1 - O financiamento por parte do Fundo de Salvaguarda no caso de obras ou intervenções em bens culturais classificados, ou em vias de classificação, depende da apreciação dos seguintes elementos:\n\na) Custo estimado das obras ou intervenções;\n\nb) Montante a financiar pelo Fundo de Salvaguarda;\n\nc) Calendarização e discriminação das obras ou intervenções, com referência da área objecto das operações;\n\nd) Proposta de fruição pública;\n\ne) Planos de manutenção e de conservação.\n\n2 - O financiamento da aquisição de bens culturais, exercício do direito de preferência ou expropriação, por parte do Fundo de Salvaguarda, tem em conta o interesse cultural relevante em causa, o risco de perda ou deterioração do bem e o montante a despender.\n\n3 - A comissão directiva, na apreciação das situações referidas nos números anteriores, pondera igualmente a existência de outras fontes de financiamento públicas ou privadas.\n\n4 - O financiamento dos investimentos nos bens imóveis cuja requalificação está prevista no Plano de Recuperação e Resiliência obedece às condições especiais estabelecidas para a respetiva operacionalização, designadamente aos termos definidos nos contratos celebrados entre o Fundo de Salvaguarda e a Estrutura de Missão 'Recuperar Portugal' e os beneficiários finais a que se refere o Decreto-Lei n.º 29-B/2021, de 4 de maio, no âmbito do modelo de governação do Plano de Recuperação e Resiliência.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  },
+  "177444596": {
+   "fragment_id": "177444469",
+   "type": 11,
+   "heading": "Artigo 11.º — Contrato de financiamento",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 11.º — Contrato de financiamento\n\n1 - O financiamento por parte do Fundo de Salvaguarda nos termos do presente Regulamento depende da celebração de contrato de financiamento.\n\n2 - O contrato de financiamento é celebrado entre a comissão directiva e a entidade gestora ou o proprietário do bem cultural beneficiário de financiamento.\n\n3 - As condições de atribuição do financiamento pelo Fundo de Salvaguarda, bem como os demais direitos e obrigações das partes, constituem o objecto do contrato de financiamento.\n\n4 - Com exceção dos projetos financiados através do Plano de Recuperação e Resiliência, a execução do contrato de financiamento, no caso de obras ou intervenções em bens culturais classificados, ou em vias de classificação, depende da celebração dos contratos necessários à realização daquelas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  },
+  "177444599": {
+   "fragment_id": "177444470",
+   "type": 11,
+   "heading": "Artigo 12.º — Doações ou donativos em espécie",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 12.º — Doações ou donativos em espécie\n\n1 - As doações ou donativos em espécie efectuados no âmbito do Programa de Recuperação do Património Classificado podem integrar o património do Fundo de Salvaguarda, nos termos do disposto na alínea i) do n.º 1 do artigo 5.º do Decreto-Lei n.º 138/2009, de 15 de Junho, e do n.º 11 da Resolução do Conselho de Ministros n.º 70/2009, de 21 de Agosto.\n\n2 - Os termos e condições para a realização de obras ou intervenções asseguradas, total ou parcialmente, através de doações ou donativos em espécie, na forma de prestação de facto, são objecto de contrato de doação a celebrar entre o Ministério da Cultura e o doador.\n\n3 - O membro do Governo responsável pela área da cultura pode, no despacho de nomeação dos membros da comissão directiva, delegar competências à comissão para a assinatura dos contratos de doação.\n\n4 - O valor das obras ou intervenções previstas neste artigo é fixado por acordo entre a comissão directiva e o doador, com a faculdade de, no caso de bens imóveis, serem designados, pela comissão directiva, medidores-orçamentistas do IGESPAR, I. P., ou contratados para o efeito pela Secretaria-Geral do Ministério da Cultura, que apuram o valor da obra segundo valores de mercado referenciados, por acordo, pelo Instituto da Construção e do Imobiliário, I. P. (InCI, I. P.), que é ouvido, a título consultivo, devendo pronunciar-se no prazo de oito dias.\n\n5 - Não se aplica às obras ou intervenções asseguradas através de doações ou donativos em espécie, na forma de prestação de facto, o limite previsto no n.º 3 do artigo 8.º\n\n6 - Os bens culturais que beneficiem das obras ou intervenções previstas no presente artigo são escolhidos por acordo entre a comissão directiva e o doador, com a faculdade de, no caso de bens imóveis, serem indicados à comissão directiva por proposta do IGESPAR, I. P., ou de outros organismos ou serviços competentes do Ministério da Cultura.\n\n7 - As obras ou intervenções efectuadas em bens imóveis ao abrigo do Programa de Recuperação do Património Classificado são fiscalizadas por técnicos do IGESPAR, I. P., ou contratados para o efeito pela Secretaria-Geral do Ministério da Cultura.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  },
+  "177444597": {
+   "fragment_id": "177444472",
+   "type": 11,
+   "heading": "Artigo 14.º — Acompanhamento e fiscalização",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 14.º — Acompanhamento e fiscalização\n\n1 - Cabe à administração do património cultural competente o acompanhamento e fiscalização das obras ou intervenções realizadas no âmbito do presente Regulamento, designadamente:\n\na) Aferir do cumprimento do projecto de execução de obra ou intervenção no bem cultural;\n\nb) Informar a comissão directiva do Fundo de Salvaguarda do cumprimento das várias fases do projecto;\n\nc) Realizar a vistoria final para verificação de conformidade de obra ou intervenção com as condições estabelecidas no projecto de execução e no contrato.\n\n2 - Todas as operações materiais de fiscalização e acompanhamento de obra ou intervenção são reduzidas a auto.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  },
+  "177444598": {
+   "fragment_id": "177444473",
+   "type": 11,
+   "heading": "Artigo 15.º — Desembolso dos montantes",
+   "in_force_from": "2022-01-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+   ],
+   "markdown": "###### Artigo 15.º — Desembolso dos montantes\n\n1 - A disponibilização do montante correspondente ao valor do financiamento a conceder pelo Fundo de Salvaguarda será efectuada de forma fraccionada, à medida que se encontrem executadas as várias fases do projecto apresentado, após confirmação pelos serviços competentes nos termos do artigo anterior.\n\n2 - A disponibilização da última parcela do financiamento fica condicionada à confirmação da conclusão das obras ou intervenções realizadas pelos serviços competentes nos termos do artigo anterior.\n\n3 - O desembolso dos montantes de financiamento dos investimentos nos bens imóveis cuja requalificação está prevista no Plano de Recuperação e Resiliência obedece às condições especiais estabelecidas para a respetiva operacionalização, designadamente aos termos definidos nos contratos celebrados entre o Fundo de Salvaguarda e a Estrutura de Missão 'Recuperar Portugal' e os beneficiários finais a que se refere o Decreto-Lei n.º 29-B/2021, de 4 de maio, no âmbito do modelo de governação do Plano de Recuperação e Resiliência.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 27/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/27-2022-177363478), em vigor a partir de 2022-01-11"
+  }
+ }
+}

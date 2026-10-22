@@ -1,0 +1,283 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:692851:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2003-995301046",
+ "dre_path": "/dr/detalhe/decreto-lei/125-2003-692851",
+ "source_lastmod": "2026-03-12",
+ "versions": [
+  {
+   "date": "2003-06-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "996125475",
+    "996125675",
+    "996125875",
+    "996126075",
+    "996126275",
+    "1068014575",
+    "1068015075",
+    "996126475",
+    "996126675",
+    "996126875",
+    "996127075",
+    "996127275",
+    "996127475",
+    "996127675",
+    "996127875",
+    "996128075",
+    "996128275",
+    "996128475",
+    "996128675",
+    "996128875",
+    "996129075",
+    "996129275",
+    "996129475"
+   ]
+  },
+  {
+   "date": "2026-03-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1066993459:por",
+     "title": "Decreto-Lei n.º 65/2026",
+     "published": "2026-03-05",
+     "dre_path": "/dr/detalhe/decreto-lei/65-2026-1066993459"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo  3.º-B"
+   ],
+   "fragments": [
+    "996125475",
+    "996125675",
+    "996125875",
+    "996126075",
+    "996126275",
+    "1068014575",
+    "1068015075",
+    "1068015275",
+    "1068015375",
+    "996126875",
+    "996127075",
+    "996127275",
+    "996127475",
+    "996127675",
+    "996127875",
+    "996128075",
+    "996128275",
+    "996128475",
+    "996128675",
+    "996128875",
+    "996129075",
+    "996129275",
+    "996129475"
+   ]
+  }
+ ],
+ "fragments": {
+  "996125475": {
+   "fragment_id": "996125375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ao Estado compete promover, mas sobretudo acompanhar e incentivar, a produção e difusão das artes nas várias formas de expressão, nomeadamente nos campos específicos das artes cénicas, visuais e cinematográficas, visando contribuir para um maior acesso às produções artísticas e procurando esbater as desigualdades regionais que condicionam o desenvolvimento das artes do espectáculo no País e o exercício do direito dos cidadãos à criação e à fruição culturais.\n\nCom o objectivo de permitir a adopção de medidas adequadas às diversas realidades regionais, revela-se necessário que o Ministério da Cultura, através dos serviços competentes, disponha de informação fidedigna e actualizada sobre os espectáculos de natureza artística, devendo essa informação ser fornecida pelos respectivos promotores.\n\nPara tanto, é criado o sistema de gestão e controlo de bilheteiras, que permite receber e tratar a informação relativa à emissão de bilhetes e espectáculos de natureza artística, bem como a sua divulgação, nos termos legalmente permitidos, junto de serviços da Administração Pública e organismos internacionais competentes na matéria, meios de comunicação social e empresas e associações profissionais dos sectores envolvidos.\n\nO presente projecto de informatização de bilheteiras tem por objectivo a obtenção com maior rigor de dados relativos à exibição comercial em Portugal, a avaliação mais correcta dos elementos relacionados com o comportamento comercial das obras cinematográficas no processo de atribuição de apoios financeiros e a correcção de deficiência de informação, que foi resolvida noutros países europeus.\n\nCumpre recordar que o controlo das bilheteiras dos cinemas se efectivava através de acções de fiscalização e das denominadas «folhas de bilheteira», cujo modelo foi aprovado em anexo ao Decreto-Lei n.º 184/73, de 25 de Abril.\n\nO presente diploma estabelece, ainda, a forma de emissão de bilhetes nos recintos de espectáculos de natureza artística e define as condições de transmissão de dados referentes a essa emissão e aos espectáculos realizados.\n\nO regime ora instituído visa abranger todos os espectáculos de natureza artística, prevendo-se, no entanto, a sua aplicação, numa primeira fase, ao mercado de exibição cinematográfica, com posterior alargamento aos demais recintos de espectáculos.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "996125675": {
+   "fragment_id": "996125575",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "996125875": {
+   "fragment_id": "996125775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma regula a forma de emissão de bilhetes de ingresso nos recintos de espectáculos de natureza artística legalmente previstos, bem como a transmissão de dados relativos aos espectáculos neles realizados.\n\n2 - Exceptuam-se do disposto no presente diploma os espectáculos de natureza artística no âmbito da literatura, da tauromaquia e do circo."
+  },
+  "996126075": {
+   "fragment_id": "996125975",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma aplica-se aos promotores de espectáculos de natureza artística.\n\n2 - Para os efeitos do presente diploma, consideram-se promotores de espectáculos cinematográficos as entidades que desenvolvam a exibição cinematográfica como actividade económica ou como actividade sem fins lucrativos."
+  },
+  "996126275": {
+   "fragment_id": "996126175",
+   "type": 11,
+   "heading": "Artigo 3.º — Forma de emissão de bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Forma de emissão de bilhetes\n\n1 - A emissão dos bilhetes de ingresso nos espectáculos de natureza artística efectua-se através de sistema informático.\n\n2 - A emissão de bilhetes de ingresso nos recintos itinerantes ou improvisados e nos recintos de exibição cinematográfica não comercial pode ser efectuada por outros meios.\n\n3 - O custo da emissão dos bilhetes é suportado pelos promotores de espectáculos."
+  },
+  "1068014575": {
+   "fragment_id": "1068014475",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Emissão de bilhete gratuito para acompanhante de pessoa com deficiência",
+   "in_force_from": "2026-03-10",
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A — Emissão de bilhete gratuito para acompanhante de pessoa com deficiência\n\n1 - O sistema informático de emissão de bilhetes deve permitir a emissão e o registo de bilhetes gratuitos atribuídos ao abrigo do artigo 8.º-A do Decreto-Lei n.º 23/2014, de 14 de fevereiro.\n\n2 - Os bilhetes referidos no número anterior devem conter um código identificativo que possibilite a sua distinção para efeitos estatísticos e de auditoria, sem referência a dados pessoais sensíveis.\n\n3 - O tratamento e a transmissão dos dados relativos a estes bilhetes devem respeitar o Regulamento Geral sobre a Proteção de Dados e a legislação nacional aplicável.\n\n> Nota: [Artigo 8.º, Decreto-Lei n.º 65/2026 - Diário da República n.º 45/2026, Série I de 2026-03-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/65-2026-1066993459) As entidades referidas no artigo 2.º dispõem de 1 ano a partir de 10 de março de 2026 para adaptar os respetivos sistemas informáticos de bilhética às novas funcionalidades previstas no presente artigo."
+  },
+  "1068015075": {
+   "fragment_id": "1068014975",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Relatório de acessibilidade cultural",
+   "in_force_from": "2026-03-10",
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-B — Relatório de acessibilidade cultural\n\n1 - Os promotores de espetáculos de natureza artística devem transmitir à Inspeção-Geral das Atividades Culturais (IGAC) e ao Instituto Nacional para a Reabilitação, I. P. (INR, I. P.), os dados relativos à emissão dos bilhetes referidos no artigo anterior.\n\n2 - A IGAC, em articulação com o INR, I. P., elabora e publica anualmente um relatório sobre número de bilhetes emitidos a acompanhantes de pessoas com deficiência, o valor estimado da receita não cobrada e, quando possível, a caracterização do público abrangido.\n\n3 - O relatório referido no número anterior tem como objetivo a análise de dados no âmbito da acessibilidade cultural."
+  },
+  "996126475": {
+   "fragment_id": "996126375",
+   "type": 11,
+   "heading": "Artigo 4.º — Sistema informático de emissão de bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sistema informático de emissão de bilhetes\n\n1 - Os promotores de espectáculos devem emitir os respectivos bilhetes de ingresso mediante a instalação de um sistema informatizado de emissão de bilhetes e de transmissão de dados electrónicos, de modelo e programa próprios, ou mediante a utilização de um programa informático disponibilizado pelos organismos competentes do Ministério da Cultura.\n\n2 - Os custos de instalação do equipamento necessário ao sistema informático de emissão de bilhetes e transmissão de dados são considerados elegíveis no âmbito dos programas de apoio da competência dos organismos do Ministério da Cultura referidos no número anterior."
+  },
+  "996126675": {
+   "fragment_id": "996126575",
+   "type": 11,
+   "heading": "Artigo 5.º — Fases de desenvolvimento da informatização de bilheteiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fases de desenvolvimento da informatização de bilheteiras\n\n1 - O processo da informatização de bilheteiras e da transmissão de dados relativos aos espectáculos fica sujeito aos seguintes prazos:\n\na) Três meses, para os recintos de cinema dotados de bilheteiras informatizadas à data de entrada em vigor do presente diploma;\n\nb) Doze meses, para os restantes recintos de cinema.\n\n2 - As condições de transmissão de dados electrónicos referentes à emissão de bilhetes de cinema e às sessões cinematográficas realizadas constam do capítulo II do presente diploma.\n\n3 - As condições relativas à informatização de bilheteiras e à transmissão de dados electrónicos referentes à emissão dos bilhetes dos teatros nacionais e outros organismos do Estado de produção artística e dos demais recintos de espectáculos são aprovadas por decreto-lei."
+  },
+  "996126875": {
+   "fragment_id": "996126775",
+   "type": 1,
+   "heading": "Capítulo II — Emissão de bilhetes em espectáculos cinematográficos e transmissão de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Emissão de bilhetes em espectáculos cinematográficos e transmissão de informação"
+  },
+  "996127075": {
+   "fragment_id": "996126975",
+   "type": 11,
+   "heading": "Artigo 6.º — Transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transmissão de dados\n\n1 - Os promotores de espectáculos cinematográficos devem transmitir ao Instituto do Cinema, Audiovisual e Multimédia, adiante designado por ICAM, os dados relativos à emissão de bilhetes e às sessões cinematográficas realizadas.\n\n2 - Os dados transmitidos nos termos do número anterior destinam-se a tratamento para efeitos da definição e execução da política de atribuição de apoios à produção e ao desenvolvimento das actividades cinematográficas, podendo ser objecto de divulgação junto de serviços da Administração Pública e organismos internacionais competentes na matéria, meios de comunicação social e empresas e associações profissionais do sector cinematográfico, em conformidade com a legislação aplicável à divulgação de dados informatizados.\n\n3 - Os dados transmitidos nos termos do n.º 1 podem ser utilizados pela Direcção-Geral dos Impostos e por outras entidades públicas com competências no domínio da cobrança e verificação do cumprimento de obrigações fiscais, prestando o ICAM toda a colaboração necessária para esse fim."
+  },
+  "996127275": {
+   "fragment_id": "996127175",
+   "type": 11,
+   "heading": "Artigo 7.º — Forma de transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Forma de transmissão de dados\n\n1 - A transmissão de dados mencionada no artigo anterior pode ser efectuada por duas formas:\n\na) Envio de ficheiro de texto em formato XML (extensible markup language) através da aplicação de protocolo HTTPS (secure hypertext transfer protocol);\n\nb) Utilização do programa informático de gestão e controlo de exibição cinematográfico disponibilizado pelo ICAM, que permite um envio automático e contínuo dos dados.\n\n2 - O envio de dados ao ICAM é efectuado através de ligação à Internet, da responsabilidade do promotor dos espectáculos, devendo o respectivo prestador de serviços estar licenciado pelo ICP - Autoridade Nacional de Comunicações (ANACOM).\n\n3 - O custo da transmissão dos dados é suportado pelos promotores de espectáculos cinematográficos.\n\n4 - No caso da exibição cinematográfica não comercial e quando o promotor não disponha de bilheteira informatizada, a transmissão dos dados mencionados no artigo anterior é feita através de telecópia ou pelo correio."
+  },
+  "996127475": {
+   "fragment_id": "996127375",
+   "type": 11,
+   "heading": "Artigo 8.º — Transmissão de dados em formato XML",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transmissão de dados em formato XML\n\n1 - Mediante apresentação de pedido formulado pelo promotor dos espectáculos, o ICAM atribui os códigos de acesso ao sistema de envio através de ficheiros de texto em formato XML (extensible markup language) através do protocolo HTTPS (secure hypertext transfer protocol), bem como os códigos de acesso e de utilização do programa informático de gestão e controlo de exibição cinematográfica disponibilizado pelo ICAM.\n\n2 - As informações do sistema remoto relativas à aplicação informática para o envio de ficheiros de texto em formato XML, nomeadamente URL do servidor de http, bem como a porta de comunicação, são fornecidas pelo ICAM.\n\n3 - O promotor dos espectáculos deve, através da sua aplicação informática, gerar ficheiros de texto na linguagem XML, validados pelo esquema XML constante das normas técnicas referidas no artigo 13.º\n\n4 - O esquema XML referido no número anterior não pode ser alterado."
+  },
+  "996127675": {
+   "fragment_id": "996127575",
+   "type": 11,
+   "heading": "Artigo 9.º — Periodicidade da transmissão de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Periodicidade da transmissão de dados\n\n1 - A transmissão de dados relativos à exibição cinematográfica comercial efectuada através do programa informático fornecido pelo ICAM é feita a todo o tempo e automaticamente sem qualquer intervenção do exibidor.\n\n2 - A transmissão de dados relativos à exibição cinematográfica comercial realizada através da utilização de ficheiro de texto em formato XML é feita:\n\na) Com periodicidade diária, no caso de serem efectuadas quatro ou mais sessões em cada dia;\n\nb) Com periodicidade semanal, no caso de serem efectuadas três ou menos sessões diárias.\n\n3 - Tratando-se de exibição não comercial, a informação transmitida deve referir-se a uma semana de sessões.\n\n4 - Nas situações previstas nos n.os 2 e 3, a transmissão da informação deve ser efectuada até ao 2.º dia útil seguinte ao termo do período a que diz respeito a emissão de bilhetes.\n\n5 - Para os efeitos dos números anteriores, entende-se que a semana tem início à sexta-feira e termina na quinta-feira seguinte."
+  },
+  "996127875": {
+   "fragment_id": "996127775",
+   "type": 11,
+   "heading": "Artigo 10.º — Notificação da recepção dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Notificação da recepção dos dados\n\n1 - Após o envio da informação através de ficheiro de texto em formato XML, o promotor dos espectáculos recebe, por correio electrónico, notificação automática da sua recepção.\n\n2 - No caso de a informação não ser recebida, designadamente por eventuais erros no código da programação ou códigos identificativos, o promotor é contactado pelo ICAM."
+  },
+  "996128075": {
+   "fragment_id": "996127975",
+   "type": 11,
+   "heading": "Artigo 11.º — Folha de bilheteira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Folha de bilheteira\n\nTodos os promotores de espectáculos cinematográficos devem elaborar uma folha de bilheteira por cada sessão cinematográfica que contenha os seguintes elementos:\n\na) Identificação do promotor do espectáculo;\n\nb) Identificação da sala;\n\nc) Nome e código que identifique o filme, constante da licença de distribuição emitida pela Inspecção-Geral das Actividades Culturais (IGAC);\n\nd) Classificação etária do filme;\n\ne) Data, hora e lotação da sessão;\n\nf) Designação, valor e tipo do desconto;\n\ng) Preço total de vendas com e sem descontos."
+  },
+  "996128275": {
+   "fragment_id": "996128175",
+   "type": 11,
+   "heading": "Artigo 12.º — Arquivo de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Arquivo de informação\n\nOs promotores de espectáculos cinematográficos devem manter em arquivo, durante dois anos, os dados transmitidos nos termos do artigo 7.º, bem como as folhas de bilheteira a que se refere o artigo 11.º"
+  },
+  "996128475": {
+   "fragment_id": "996128375",
+   "type": 11,
+   "heading": "Artigo 13.º — Regras de emissão e protocolos de transmissão de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Regras de emissão e protocolos de transmissão de informação\n\nA informação a transmitir ao ICAM nos termos estabelecidos no presente diploma e as funcionalidades do sistema informatizado de emissão de bilhetes que garantem a segurança, a integridade e a compatibilidade técnica dos dados, assim como as regras de emissão e os protocolos de transmissão de dados em ficheiro de texto em formato XML, constam das normas técnicas a fixar por despacho do Ministro da Cultura."
+  },
+  "996128675": {
+   "fragment_id": "996128575",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contra-ordenações\n\n1 - Constituem contra-ordenações, puníveis com as seguintes coimas:\n\na) De (euro) 750 a (euro) 3000 e de (euro) 10000 a (euro) 40000, a violação do disposto no n.º 1 do artigo 6.º do presente diploma, conforme seja praticado por pessoa singular ou colectiva, respectivamente;\n\nb) De (euro) 375 a (euro) 1875 e de (euro) 5000 a (euro) 25000, a violação do disposto nos n.os 1, 2 e 3 do artigo 9.º e no artigo 11.º do presente diploma, conforme seja praticado por pessoa singular ou colectiva, respectivamente;\n\nc) De (euro) 150 a (euro) 1500 e de (euro) 2000 a (euro) 20000, a violação do disposto no artigo 12.º do presente diploma, conforme seja praticado por pessoa singular ou colectiva, respectivamente.\n\n2 - Nas contra-ordenações referidas no número anterior a negligência é punível, sendo, neste caso, os limites máximos e mínimos reduzidos a metade."
+  },
+  "996128875": {
+   "fragment_id": "996128775",
+   "type": 11,
+   "heading": "Artigo 15.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Sanções acessórias\n\n1 - Para além das coimas, podem ser aplicadas ao infractor as seguintes sanções acessórias, nos termos da lei geral:\n\na) Interdição do exercício da actividade de promotor de espectáculos;\n\nb) Encerramento do recinto;\n\nc) Suspensão total ou parcial da licença do recinto.\n\n2 - As sanções referidas no número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva."
+  },
+  "996129075": {
+   "fragment_id": "996128975",
+   "type": 11,
+   "heading": "Artigo 16.º — Competência para a instauração e aplicação de sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competência para a instauração e aplicação de sanções\n\n1 - A fiscalização do cumprimento do disposto no presente diploma e a instauração do procedimento contra-ordenacional incumbem à IGAC.\n\n2 - A aplicação das coimas e sanções acessórias compete ao inspector-geral da IGAC.\n\n3 - O produto das coimas recebidas por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado, em 20% para o ICAM e em 20% para a IGAC."
+  },
+  "996129275": {
+   "fragment_id": "996129175",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "996129475": {
+   "fragment_id": "996129375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Abril de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Celeste Ferreira Lopes Cardona - Pedro Manuel da Cruz Roseta.\n\nPromulgado em 3 de Junho de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Junho de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  },
+  "1068015275": {
+   "fragment_id": "996126375",
+   "type": 11,
+   "heading": "Artigo 4.º — Sistema informático de emissão de bilhetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sistema informático de emissão de bilhetes\n\n1 - Os promotores de espectáculos devem emitir os respectivos bilhetes de ingresso mediante a instalação de um sistema informatizado de emissão de bilhetes e de transmissão de dados electrónicos, de modelo e programa próprios, ou mediante a utilização de um programa informático disponibilizado pelos organismos competentes do Ministério da Cultura.\n\n2 - Os custos de instalação do equipamento necessário ao sistema informático de emissão de bilhetes e transmissão de dados são considerados elegíveis no âmbito dos programas de apoio da competência dos organismos do Ministério da Cultura referidos no número anterior."
+  },
+  "1068015375": {
+   "fragment_id": "996126575",
+   "type": 11,
+   "heading": "Artigo 5.º — Fases de desenvolvimento da informatização de bilheteiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fases de desenvolvimento da informatização de bilheteiras\n\n1 - O processo da informatização de bilheteiras e da transmissão de dados relativos aos espectáculos fica sujeito aos seguintes prazos:\n\na) Três meses, para os recintos de cinema dotados de bilheteiras informatizadas à data de entrada em vigor do presente diploma;\n\nb) Doze meses, para os restantes recintos de cinema.\n\n2 - As condições de transmissão de dados electrónicos referentes à emissão de bilhetes de cinema e às sessões cinematográficas realizadas constam do capítulo II do presente diploma.\n\n3 - As condições relativas à informatização de bilheteiras e à transmissão de dados electrónicos referentes à emissão dos bilhetes dos teatros nacionais e outros organismos do Estado de produção artística e dos demais recintos de espectáculos são aprovadas por decreto-lei."
+  }
+ }
+}

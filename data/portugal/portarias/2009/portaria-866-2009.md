@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:493490:por
+title: Portaria n.º 866/2009
+short_title: null
+summary: Determina que a Direcção-Geral do Consumidor disponibilize em ambiente electrónico uma rede telemática de informação
+  comum (RTIC) que assegure às entidades reguladoras e de controlo de mercado sectorialmente competentes uma plataforma para
+  a gestão das reclamações
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 866/2009
+official_date: null
+publication_date: '2009-08-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 156/2009, Série I de 2009-08-13
+  number: '156'
+  series: I
+  supplement: null
+  pages: 5267 - 5269
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/08/15600/0526705269.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/866/2009/08/13/p/dre/pt/html
+  oj: null
+  dre: '493490'
+  dre_path: /dr/detalhe/portaria/866-2009-493490
+  internal: pt:dre:493490:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/866-2009-493490
+  metadata_url: https://data.dre.pt/eli/port/866/2009/08/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/866-2009-493490
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-08-13T00:00:00Z'
+integrity:
+  source_sha256: a212cf9c0ef3ee4e0d3b203477141347b935d13f1ea696c9787cb66e34cc8e3e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-866-493490.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Audição do Utente
+- Livro de Reclamações
+- Comissão Nacional de Protecção de Dados
+- Direcção Geral do Consumidor
+- Confidencialidade
+- Proteção do Consumidor
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/118/2009/05/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/118/2009/05/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/156/2005/09/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/156/2005/09/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 866/2009
+
+de 13 de Agosto
+
+O [Decreto-Lei n.º 118/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2009-608884), de 19 de Maio, alterou o [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro, que estabelece a obrigatoriedade de existência e disponibilização do livro de reclamações, criando a rede telemática de informação comum (RTIC).
+
+Esta rede telemática destina-se ao registo e tratamento das reclamações dos utentes e consumidores constantes do livro de reclamações e visa garantir a comunicação e o intercâmbio de informação estatística em matéria de conflitualidade de consumo decorrente daquelas reclamações, assegurando o seu armazenamento e gestão por parte das entidades reguladoras e de controlo de mercado competentes nos termos daquele decreto-lei. A RTIC proporciona, ainda, aos reclamantes e reclamados o acesso à informação sobre a sua reclamação.
+
+O n.º 6 do artigo 12.º do [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 118/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2009-608884), de 19 de Maio, estabelece que o modo de funcionamento da RTIC, a forma como são registadas as reclamações, bem como o acesso das entidades reguladoras ou de controlo de mercado e dos reclamantes e reclamados à rede, são objecto de portaria do membro do Governo responsável pela área da defesa dos consumidores.
+
+Foi ouvida a Comissão Nacional de Protecção de Da-dos (CNPD):
+
+Assim, manda o Governo, pelo Ministro da Economia e da Inovação, o seguinte:
+
+1.º
+
+Rede telemática de informação comum
+
+1 - A Direcção-Geral do Consumidor disponibiliza em ambiente electrónico uma rede telemática de informação comum (RTIC) que assegura às entidades reguladoras e de controlo de mercado sectorialmente competentes, nos termos do [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro, uma plataforma para a gestão das reclamações recebidas ao abrigo do artigo 6.º deste decreto-lei.
+
+2 - A RTIC permite aos utentes que tenham efectuado uma reclamação e aos agentes económicos reclamados a informação sobre o estado dessa reclamação, quando registada na plataforma, e o acesso aos dados pessoais dela constantes, para efeitos de eventual pedido de rectificação.
+
+3 - A RTIC, enquanto sítio na Internet, assegura também a plataforma para a comunicação de informação estatística em matéria de conflitualidade de consumo.
+
+4 - A RTIC possibilita a comunicação com outros sistemas informatizados de gestão de reclamações já existentes ou que venham a ser criados após a entrada em vigor da presente portaria.
+
+5 - Quaisquer ligações da RTIC com outros sistemas informatizados de gestão de reclamações, para além dos previstos no n.º 3 do artigo 12.º do [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro, necessitam de ser autorizadas pela Comissão Nacional de Protecção de Dados.
+
+2.º
+
+Acesso
+
+1 - O acesso à RTIC realiza-se através do endereço rtic.consumidor.pt.
+
+2 - Sem prejuízo do disposto no n.º 1.º, a página rtic.consumidor.pt disponibiliza informação relacionada com o regime jurídico do livro de reclamações e dedica aos consumidores, aos operadores económicos e às entidades reguladoras e de controlo de mercado áreas específicas adiante designadas, respectivamente, por «01 Consumidores e Operadores Económicos» e por «02 Entidades Reguladoras e de Controlo».
+
+3.º
+
+Área específica reservada às entidades reguladoras e de controlo de mercado
+
+1 - A área «02 Entidades Reguladoras e de Controlo» constitui a área reservada às entidades reguladoras e de controlo de mercado sectorialmente competentes para efeitos de registo e tratamento das respectivas reclamações, recebidas ao abrigo do artigo 6.º do [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro.
+
+2 - O acesso à área «02 Entidades Reguladoras e de Controlo» realiza-se através da inserção, em campos de preenchimento existentes para o efeito, de um código de utilizador e de uma senha de acesso.
+
+3 - A Direcção-Geral do Consumidor atribui a cada uma das entidades reguladoras e de controlo de mercado os códigos de utilizador e as senhas que permitem o acesso à respectiva área de gestão.
+
+4.º
+
+Registo, tratamento e consulta
+
+1 - O registo e tratamento das reclamações bem como a consulta de dados são efectuados pelas entidades reguladoras e de controlo de mercado sectorialmente competentes na área «02 Entidades Reguladoras e de Controlo», devendo para o efeito ser utilizado um menu composto por diferentes opções consoante o procedimento a adoptar.
+
+2 - O menu, acessível a todas as entidades reguladoras e de controlo a que se refere o número anterior, é composto pelas seguintes opções de acesso:
+
+a) Introduzir uma nova reclamação;
+
+b) Alterar o estado de uma reclamação;
+
+c) Visualizar reclamações;
+
+d) Consultar dados estatísticos;
+
+e) Consultar o «Guia de Utilização».
+
+3 - As opções a), b), c) e d) pressupõem o preenchimento de diversos campos e o cumprimento das regras e princípios inscritos no «Guia de Utilização», disponível na RTIC, na área «02 Entidades Reguladoras e de Controlo».
+
+5.º
+
+Área específica reservada aos consumidores e operadores económicos
+
+1 - A área «01 Consumidores e Operadores Económicos» constitui uma área reservada aos consumidores que tiverem efectuado uma reclamação no livro de reclamações e aos operadores económicos reclamados, ambos designados no disposto no [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro, por «utentes» e por «profissionais», respectivamente.
+
+2 - O acesso, pelo consumidor ou pelo operador económico, à informação sobre o estado ou fase em que se encontra a respectiva reclamação está condicionado à inserção de determinados dados nos campos de preenchimento existentes para o efeito.
+
+3 - A inserção na área «01 Consumidores e Operadores Económicos» de dados que não correspondam aos dados que tenham sido inscritos na folha de reclamação respectiva, de acordo com o disposto no artigo 4.º do [Decreto-Lei n.º 156/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320), de 15 de Setembro, impossibilita a visualização de qualquer informação, originando mensagem de erro na RTIC.
+
+6.º
+
+Dados pessoais
+
+A RTIC assegura o armazenamento e a gestão das reclamações no estrito cumprimento das regras em vigor sobre a protecção de dados pessoais, a que se refere a [Lei n.º 67/98](https://diariodarepublica.pt/dr/detalhe/lei/67-1998-239857), de 26 de Outubro.
+
+7.º
+
+Outros sistemas de gestão de reclamações
+
+As entidades reguladoras e de controlo de mercado titulares de outros sistemas informatizados de gestão de reclamações adoptam, em coordenação com a Direcção-Geral do Consumidor, todas as medidas necessárias para concretizar a interligação entre os seus sistemas e a RTIC, para a prossecução dos objectivos previstos na presente portaria.
+
+8.º
+
+Gestão e manutenção da RTIC
+
+A gestão e a manutenção da RTIC competem à Direcção-Geral do Consumidor, sem prejuízo dos parceiros tecnológicos a que, para estes fins, esta Direcção-Geral tenha de se interligar.
+
+9.º
+
+Formalização
+
+A formalização da ligação à RTIC das entidades reguladoras e de controlo de mercado é realizada através da celebração de um protocolo com a Direcção-Geral do Consumidor, que deve respeitar os princípios de cooperação e de boa gestão e deve ser submetido à apreciação da Comissão Nacional de Protecção de Dados.
+
+###### Artigo 10.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Ministro da Economia e da Inovação, Fernando Teixeira dos Santos, em 28 de Julho de 2009.**

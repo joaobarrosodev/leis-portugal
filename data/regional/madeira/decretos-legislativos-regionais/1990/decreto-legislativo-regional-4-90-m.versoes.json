@@ -1,0 +1,383 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:333540:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1990-873920268",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/4-1990-333540",
+ "source_lastmod": "2024-07-30",
+ "versions": [
+  {
+   "date": "1990-01-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "873753663",
+    "873753645",
+    "873753646",
+    "873753647",
+    "873753648",
+    "873753649",
+    "873753650",
+    "873753651"
+   ]
+  },
+  {
+   "date": "2012-03-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553469:por",
+     "title": "Decreto Legislativo Regional n.º 1/2012/M",
+     "published": "2012-03-15",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2012-553469"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "873753654",
+    "873753655",
+    "873753656",
+    "873753657",
+    "873753658",
+    "873753659",
+    "873753660",
+    "873753661",
+    "873753662"
+   ]
+  },
+  {
+   "date": "2024-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:873755644:por",
+     "title": "Decreto Legislativo Regional n.º 6/2024/M",
+     "published": "2024-07-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2024-873755644"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Repoe em Vigor Diploma"
+   ],
+   "fragments": [
+    "873753663",
+    "873753672",
+    "873753673",
+    "873753674",
+    "874077275",
+    "874077276",
+    "873753669",
+    "873753670",
+    "873753671"
+   ]
+  },
+  {
+   "date": "2025-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:923290710:por",
+     "title": "Decreto Legislativo Regional n.º 2/2025/M",
+     "published": "2025-07-02",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2025-923290710"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "873753663",
+    "873753672",
+    "923559827",
+    "873753674",
+    "874077275",
+    "923559828",
+    "873753669",
+    "873753670",
+    "873753671"
+   ]
+  }
+ ],
+ "fragments": {
+  "873753663": {
+   "fragment_id": "873920269",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-07-30",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 4/90/M\n\nSubsídio de insularidade ao funcionalismo público de Região Autónoma de Madeira\n\nA Região Autónoma da Madeira importa mais de 75% dos bens necessários para o consumo interno, motivo determinante para que, de uma forma geral, o nível de preços seja superior ao verificado no Continente.\n\nPara o sector privado as negociações das tabelas salariais têm, em geral, contemplado esta situação, o que não se verifica para o funcionalismo público, uma vez que se aplica a mesma tabela definida para a administração central.\n\nSensíveis a esta realidade, os órgãos de governo próprio desta Região Autónoma têm desde sempre tentado encontrar uma solução que permita, se não eliminar estas diferenças económicas, pelo menos, atenuá-las.\n\nFoi nesse sentido, aliás, que o Governo Regional da Madeira, através da Resolução n.º 43/88, de 19 de Janeiro, decidiu propor à Assembleia Regional da Madeira a criação de um adicional a atribuir à administração pública regional e local.\n\nO facto de o regime agora instituído não se aplicar aos funcionários residentes na ilha do Porto Santo tem justificação no subsídio de que os mesmos já beneficiam.\n\nNestes termos:\n\nA Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição da República, decreta o seguinte:"
+  },
+  "873753645": {
+   "fragment_id": "873920270",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto legislativo regional cria o subsídio de insularidade e estabelece o seu regime."
+  },
+  "873753646": {
+   "fragment_id": "873920271",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O regime constante do presente diploma aplica-se:\n\na) Aos funcionários e agentes em efectividade de serviço na administração pública regional e local;\n\nb) Ao pessoal que se encontra na situação de desligado do serviço aguardando aposentação ou reforma.\n\n2 - Excluem-se do disposto no número anterior:\n\na) Os membros do Governo Regional, titulares de cargos autárquicos eleitos, deputados, titulares de cargos dirigentes ou equiparados e ainda aqueles cuja nomeação, assente no princípio da livre designação, se fundamente em razões de especial confiança ou responsabilidade e, como tal, sejam declarados por lei;\n\nb) Os funcionários e agentes da administração pública regional e local que exerçam funções na ilha do Porto Santo."
+  },
+  "873753647": {
+   "fragment_id": "873920272",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Montante do subsídio\n\n1 - Os funcionários e agentes abrangidos por este diploma têm direito a receber um subsídio de insularidade, que será determinado em função do diferencial das taxas de inflação entre a Região Autónoma da Madeira e o continente.\n\n2 - O diferencial das taxas de inflação referido no n.º 1 reporta-se aos 12 meses do ano anterior e é aferido pelos valores determinados pelo Serviço Regional de Estatística e pelo Instituto Nacional de Estatística.\n\n3 - Sempre que a inflação na Região Autónoma da Madeira seja inferior à verificada no continente ou, sendo superior, não ultrapasse a diferença de 2%, será este o valor a considerar para o cálculo do subsídio de insularidade.\n\n4 - Os montantes do subsídio de insularidade serão afixados anualmente pelo Governo Regional.\n\n> Nota: [Artigo 74.º, Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710) Para efeitos do disposto no n.º 4 do presente artigo, a partir de 3 de de julho de 2025 e com efeitos a 1 de janeiro de 2025, o subsídio de insularidade dos trabalhadores da administração pública da Região Autónoma da Madeira a exercer funções na ilha da Madeira é atualizado para o valor do Indexante dos Apoios Sociais definido para 2025, acrescido da taxa de referência do sobrecusto da insularidade fixada em 30 %."
+  },
+  "873753648": {
+   "fragment_id": "873920273",
+   "type": 11,
+   "heading": "Artigo 4.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Pagamento\n\n1 - O subsídio de insularidade é pago de uma só vez no mês de Março de cada ano, salvo nos casos expressamente referidos no presente diploma.\n\n2 - Nos casos de cessação definitiva de funções antes do mês de Março, o subsídio será pago com o último vencimento recebido pelo funcionário ou agente."
+  },
+  "873753649": {
+   "fragment_id": "873920274",
+   "type": 11,
+   "heading": "Artigo 5.º — Cálculo do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Cálculo do subsídio\n\n1 - O subsídio de insularidade é calculado em função do vencimento base anual a que os funcionários e agentes tenham direito nesse ano, abrangendo os subsídios de férias e de Natal.\n\n2 - No primeiro ano civil em que é prestado serviço em termos que confiram direito a atribuição do subsídio de insularidade, este será de valor correspondente a tantos duodécimos quantos os meses de serviço completos que vierem a perfazer-se até 31 de Dezembro, contando-se, para o efeito, os meses de calendário, e é pago no mês de Dezembro do mesmo ano.\n\n3 - Para efeitos do disposto no número anterior, considera-se como mês completo de serviço o período de duração superior a 15 dias que restar no conjunto, em meses, do tempo de serviço."
+  },
+  "873753650": {
+   "fragment_id": "874069675",
+   "type": 11,
+   "heading": "Artigo 6.º — Cabimento orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cabimento orçamental\n\nOs encargos resultantes da aplicação do presente diploma serão satisfeitos por conta das dotações a inscrever nos orçamentos dos respectivos serviços."
+  },
+  "873753651": {
+   "fragment_id": "874069676",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto legislativo regional entra imediatamente em vigor."
+  },
+  "873753654": {
+   "fragment_id": "873920269",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2012-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "Decreto Legislativo Regional n.º 4/90/M\n\nSubsídio de insularidade ao funcionalismo público de Região Autónoma de Madeira\n\nA Região Autónoma da Madeira importa mais de 75% dos bens necessários para o consumo interno, motivo determinante para que, de uma forma geral, o nível de preços seja superior ao verificado no Continente.\n\nPara o sector privado as negociações das tabelas salariais têm, em geral, contemplado esta situação, o que não se verifica para o funcionalismo público, uma vez que se aplica a mesma tabela definida para a administração central.\n\nSensíveis a esta realidade, os órgãos de governo próprio desta Região Autónoma têm desde sempre tentado encontrar uma solução que permita, se não eliminar estas diferenças económicas, pelo menos, atenuá-las.\n\nFoi nesse sentido, aliás, que o Governo Regional da Madeira, através da Resolução n.º 43/88, de 19 de Janeiro, decidiu propor à Assembleia Regional da Madeira a criação de um adicional a atribuir à administração pública regional e local.\n\nO facto de o regime agora instituído não se aplicar aos funcionários residentes na ilha do Porto Santo tem justificação no subsídio de que os mesmos já beneficiam.\n\nNestes termos:\n\nA Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição da República, decreta o seguinte:\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "873753655": {
+   "fragment_id": "873920270",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2012-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto legislativo regional cria o subsídio de insularidade e estabelece o seu regime.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "873753656": {
+   "fragment_id": "873920271",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2012-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O regime constante do presente diploma aplica-se:\n\na) Aos funcionários e agentes em efectividade de serviço, aos cargos de director de serviços e chefe de divisão ou equiparados e aos trabalhadores contratados da administração pública regional e local;\n\nb) Ao pessoal que se encontra na situação de desligado do serviço aguardando aposentação ou reforma.\n\n2 - Excluem-se do disposto no número anterior:\n\na) Os membros do Governo Regional, titulares de cargos autárquicos eleitos, deputados, titulares de cargos dirigentes ou equiparados, com excepção do disposto na alínea a) do número anterior, e ainda aqueles cuja nomeação, assente no princípio da livre designação, se fundamente em razões de especial confiança ou responsabilidade e, como tal, sejam declarados por lei;\n\nb) Os funcionários e agentes da administração pública regional e local que exerçam funções na ilha do Porto Santo.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+  },
+  "873753657": {
+   "fragment_id": "873920272",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante do subsídio",
+   "in_force_from": "2012-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 3.º — Montante do subsídio\n\n1 - Os funcionários e agentes abrangidos por este diploma têm direito a receber um subsídio de insularidade, que será determinado em função do diferencial das taxas de inflação entre a Região Autónoma da Madeira e o continente.\n\n2 - O diferencial das taxas de inflação referido no n.º 1 reporta-se aos 12 meses do ano anterior e é aferido pelos valores determinados pelo Serviço Regional de Estatística e pelo Instituto Nacional de Estatística.\n\n3 - Sempre que a inflação na Região Autónoma da Madeira seja inferior à verificada no continente ou, sendo superior, não ultrapasse a diferença de 2%, será este o valor a considerar para o cálculo do subsídio de insularidade.\n\n4 - Os montantes do subsídio de insularidade serão afixados anualmente pelo Governo Regional.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "873753658": {
+   "fragment_id": "873920273",
+   "type": 11,
+   "heading": "Artigo 4.º — Pagamento",
+   "in_force_from": "2012-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 4.º — Pagamento\n\n1 - O subsídio de insularidade é pago de uma só vez no mês de Março de cada ano, salvo nos casos expressamente referidos no presente diploma.\n\n2 - Nos casos de cessação definitiva de funções antes do mês de Março, o subsídio será pago com o último vencimento recebido pelo funcionário ou agente.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "873753659": {
+   "fragment_id": "873920274",
+   "type": 11,
+   "heading": "Artigo 5.º — Cálculo do subsídio",
+   "in_force_from": "2012-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Cálculo do subsídio\n\n1 - O subsídio de insularidade é calculado em função do vencimento base anual a que os funcionários e agentes tenham direito nesse ano, abrangendo os subsídios de férias e de Natal.\n\n2 - No primeiro ano civil em que é prestado serviço em termos que confiram direito a atribuição do subsídio de insularidade, este será de valor correspondente a tantos duodécimos quantos os meses de serviço completos que vierem a perfazer-se até 31 de Dezembro, contando-se, para o efeito, os meses de calendário, e é pago no mês de Dezembro do mesmo ano.\n\n3 - Para efeitos do disposto no número anterior, considera-se como mês completo de serviço o período de duração superior a 15 dias que restar no conjunto, em meses, do tempo de serviço.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+  },
+  "873753660": {
+   "fragment_id": "874069675",
+   "type": 11,
+   "heading": "Artigo 6.º — Cabimento orçamental",
+   "in_force_from": "2012-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 6.º — Cabimento orçamental\n\nOs encargos resultantes da aplicação do presente diploma serão satisfeitos por conta das dotações a inscrever nos orçamentos dos respectivos serviços.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "873753661": {
+   "fragment_id": "874069676",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": "2012-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto legislativo regional entra imediatamente em vigor.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "873753662": {
+   "fragment_id": "874069677",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2012-03-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "Aprovado em sessão plenária de 16 de Novembro de 1989.\n\nO Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 11 de Dezembro de 1989.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "873753672": {
+   "fragment_id": "873920270",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto legislativo regional cria o subsídio de insularidade para os trabalhadores com vínculo de emprego público.\n\n> Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "873753673": {
+   "fragment_id": "873920271",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O regime constante do presente diploma aplica-se:\n\na) Aos trabalhadores em funções públicas da administração pública regional e local, em efetividade de serviço, incluindo os titulares de cargos de direção intermédia ou equiparados, e os que exerçam funções de secretariado, nos termos do n.º 2 do artigo 33.º da Lei n.º 2/2004, de 15 de janeiro, na sua atual redação;\n\nb) Aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração pública regional, em regime de cedência de interesse público;\n\nc) Ao pessoal que se encontra na situação de desligado do serviço aguardando aposentação ou reforma.\n\n2 - Excluem-se do disposto no número anterior:\n\na) Os membros do Governo Regional, e respetivos membros dos seus gabinetes;\n\nb) Titulares de cargos autárquicos eleitos;\n\nc) Deputados;\n\nd) Titulares de cargos de direção superior ou equiparados;\n\ne) Pessoal cuja nomeação, assente no princípio da livre designação, se fundamente em razões de especial confiança ou responsabilidade e, como tal, sejam declarados por lei;\n\nf) Os trabalhadores em regime de funções públicas da administração pública regional e local que exerçam funções na ilha do Porto Santo.\n\n3 - O disposto no presente decreto legislativo regional é ainda aplicável, com as necessárias adaptações, aos trabalhadores que exercem funções nas empresas públicas do setor público empresarial da Região Autónoma da Madeira, que não sejam abrangidos por instrumentos de regulamentação coletiva de trabalho em vigor.\n\n> Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+  },
+  "873753674": {
+   "fragment_id": "873920272",
+   "type": 11,
+   "heading": "Artigo 3.º — Montante do subsídio",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 3.º — Montante do subsídio\n\n1 - Os trabalhadores abrangidos pelo disposto no n.º 1 do artigo anterior têm direito a receber um subsídio de insularidade no valor de 662,00 euros, sem prejuízo do disposto no artigo 5.º\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A atualização do valor do subsídio de insularidade é fixada anualmente pelo Governo Regional, através do diploma que aprova o Orçamento da Região Autónoma da Madeira para cada ano, e tem por base o valor do Indexante dos Apoios Sociais, acrescido da taxa de referência do sobrecusto da insularidade fixada em 30 %.\n\n> Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "874077275": {
+   "fragment_id": "873920273",
+   "type": 11,
+   "heading": "Artigo 4.º — Direito ao subsídio e forma de pagamento",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 4.º — Direito ao subsídio e forma de pagamento\n\n1 - O direito ao subsídio de insularidade vence-se no dia 1 de janeiro de cada ano e reporta-se ao trabalho prestado no ano civil anterior.\n\n2 - O subsídio de insularidade é pago de uma só vez no mês de Março de cada ano, salvo nos casos expressamente referidos no presente diploma.\n\n3 - Nos casos de cessação definitiva de funções antes do mês de março, o subsídio será pago com o último vencimento do trabalhador.\n\n> Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "874077276": {
+   "fragment_id": "873920274",
+   "type": 11,
+   "heading": "Artigo 5.º — Casos especiais de atribuição do subsídio",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Casos especiais de atribuição do subsídio\n\n1 - O valor do subsídio de insularidade é proporcional ao tempo de serviço prestado no ano civil a que se reporta, nas seguintes situações:\n\na) No ano de admissão do trabalhador;\n\nb) No ano da cessação do contrato;\n\nc) Em caso de suspensão do contrato por facto respeitante ao trabalhador, salvo se por motivo de doença;\n\nd) No ano do início ou da cessação das funções nos cargos a que se refere o n.º 2 do artigo 2.º, quando determinem, respetivamente a perda ou a reaquisição do direito ao subsídio.\n\n2 - Nas situações previstas no número anterior, o subsídio de insularidade corresponde a tantos duodécimos quantos os meses de serviço completos prestado até 31 de dezembro.\n\n3 - Considera-se como mês completo de serviço o período de duração superior a 15 dias que restar no conjunto, em meses, do tempo de serviço.\n\n> Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+  },
+  "873753669": {
+   "fragment_id": "874069675",
+   "type": 11,
+   "heading": "Artigo 6.º — Cabimento orçamental",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 77.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 6.º — Cabimento orçamental\n\nOs encargos resultantes da aplicação do presente diploma serão satisfeitos por conta das dotações a inscrever nos orçamentos dos respectivos serviços.\n\n> Reposto em Vigor pelo/a Artigo 77.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "873753670": {
+   "fragment_id": "874069676",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 77.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto legislativo regional entra imediatamente em vigor.\n\n> Reposto em Vigor pelo/a Artigo 77.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "873753671": {
+   "fragment_id": "874069677",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 77.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "Aprovado em sessão plenária de 16 de Novembro de 1989.\n\nO Presidente da Assembleia Legislativa Regional, Jorge Nélio Praxedes Ferraz Mendonça.\n\nAssinado em 11 de Dezembro de 1989.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\n> Reposto em Vigor pelo/a Artigo 77.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "923559827": {
+   "fragment_id": "873920271",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2025-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 92.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O regime constante do presente diploma aplica-se:\n\na) Aos trabalhadores em funções públicas da administração pública regional e local, em efetividade de serviço, incluindo os titulares de cargos de direção intermédia ou equiparados, e os que exerçam funções de secretariado, nos termos do n.º 2 do artigo 33.º da Lei n.º 2/2004, de 15 de janeiro, na sua atual redação;\n\nb) Aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração pública regional, em regime de cedência de interesse público;\n\nc) Ao pessoal que se encontra na situação de desligado do serviço aguardando aposentação ou reforma.\n\n2 - Excluem-se do disposto no número anterior:\n\na) Os membros do Governo Regional, e respetivos membros dos seus gabinetes;\n\nb) Titulares de cargos autárquicos eleitos;\n\nc) Deputados;\n\nd) Titulares de cargos de direção superior ou equiparados;\n\ne) Pessoal cuja nomeação, assente no princípio da livre designação, se fundamente em razões de especial confiança ou responsabilidade e, como tal, sejam declarados por lei;\n\nf) Os trabalhadores em regime de funções públicas da administração pública regional e local que exerçam funções na ilha do Porto Santo.\n\n3 - O disposto no presente decreto legislativo regional é igualmente aplicável, com as necessárias adaptações, aos trabalhadores que exercem funções nas empresas públicas do setor público empresarial da Região Autónoma da Madeira, que não sejam abrangidos por instrumentos de regulamentação coletiva de trabalho em vigor e aos trabalhadores do quadro privativo da Escola de Hotelaria e Turismo da Madeira.\n\n4 - O disposto no presente decreto legislativo regional é ainda aplicável aos trabalhadores que exercem funções noutras entidades integradas no universo das administrações públicas em contas nacionais.\n\n> Alterado pelo/a Artigo 92.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+  },
+  "923559828": {
+   "fragment_id": "873920274",
+   "type": 11,
+   "heading": "Artigo 5.º — Casos especiais de atribuição do subsídio",
+   "in_force_from": "2025-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 92.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Casos especiais de atribuição do subsídio\n\n1 - O valor do subsídio de insularidade é proporcional ao tempo de serviço prestado no ano civil a que se reporta, nas seguintes situações:\n\na) No ano de admissão do trabalhador;\n\nb) No ano da cessação do contrato;\n\nc) Em caso de suspensão do contrato por facto respeitante ao trabalhador, salvo se por motivo de doença;\n\nd) No ano do início ou da cessação das funções nos cargos a que se refere o n.º 2 do artigo 2.º, quando determinem, respetivamente a perda ou a reaquisição do direito ao subsídio.\n\ne) No ano do início de mobilidade ou cedência de interesse público para órgão ou serviço de organismo ou entidade não abrangido pelo âmbito de aplicação do presente diploma;\n\nf) No ano de integração em mapa ou quadro de pessoal de organismo ou entidade não abrangido pelo âmbito de aplicação do presente diploma, designadamente em resultado de procedimento concursal.\n\n2 - Nas situações previstas no número anterior, o subsídio de insularidade corresponde a tantos duodécimos quantos os meses de serviço completos prestado até 31 de dezembro.\n\n3 - Considera-se como mês completo de serviço o período de duração superior a 15 dias que restar no conjunto, em meses, do tempo de serviço.\n\n4 - Nos casos previstos no n.º 1, com exceção da sua alínea a) e das situações de cessação de funções nos cargos que determina a reaquisição do direito ao subsídio previstas na alínea d), os proporcionais do subsídio de insularidade são pagos com o último vencimento do trabalhador\n\n> Alterado pelo/a Artigo 92.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 78.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Revogado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 3/2002/M - Diário da República n.º 51/2002, Série I-A de 2002-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2002-254591), produz efeitos a partir de 2002-01-01"
+  }
+ }
+}

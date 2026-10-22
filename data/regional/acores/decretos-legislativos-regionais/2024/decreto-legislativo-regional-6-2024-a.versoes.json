@@ -1,0 +1,785 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:875899348:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2024-876045138",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2024-875899348",
+ "source_lastmod": "2024-12-30",
+ "versions": [
+  {
+   "date": "2024-08-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "876045192",
+    "876045193",
+    "876045194",
+    "876045195",
+    "876045196",
+    "876045197",
+    "876045198",
+    "876045199",
+    "876045200",
+    "876045201",
+    "876045202",
+    "876045203",
+    "876045204",
+    "876045205",
+    "876045206",
+    "876045207",
+    "876045208",
+    "876045209",
+    "876045210",
+    "876045211",
+    "876045212",
+    "876045213",
+    "876045214",
+    "876045215",
+    "876045216",
+    "876045217",
+    "876045218",
+    "876045219",
+    "876045220",
+    "876045221",
+    "876045222",
+    "876045223",
+    "876045224",
+    "876045225",
+    "876045226",
+    "876045227",
+    "876045228",
+    "876045229",
+    "876045230",
+    "876045231",
+    "876045232",
+    "876045233",
+    "876045234",
+    "876045235",
+    "876045236",
+    "876045237",
+    "876045238",
+    "876045239",
+    "876045240",
+    "876045241",
+    "876045242",
+    "876045243",
+    "876045244",
+    "876045245",
+    "876045246",
+    "876045247",
+    "876045248",
+    "876045249",
+    "876045250",
+    "876045251",
+    "876045252",
+    "876045253",
+    "876045254",
+    "876045255",
+    "876045256",
+    "876045257",
+    "876045258",
+    "876045259",
+    "876045260",
+    "876045261",
+    "876045262",
+    "876045263",
+    "876045264"
+   ]
+  },
+  {
+   "date": "2024-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901536098:por",
+     "title": "Decreto Legislativo Regional n.º 15/2024/A",
+     "published": "2024-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2024-901536098"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "876045192",
+    "876045193",
+    "876045194",
+    "876045195",
+    "876045196",
+    "876045197",
+    "901660810",
+    "876045199",
+    "876045200",
+    "876045201",
+    "876045202",
+    "876045203",
+    "876045204",
+    "876045205",
+    "876045206",
+    "876045207",
+    "876045208",
+    "876045209",
+    "876045210",
+    "876045211",
+    "876045212",
+    "876045213",
+    "876045214",
+    "876045215",
+    "876045216",
+    "876045217",
+    "876045218",
+    "876045219",
+    "876045220",
+    "876045221",
+    "876045222",
+    "876045223",
+    "876045224",
+    "876045225",
+    "876045226",
+    "876045227",
+    "876045228",
+    "876045229",
+    "876045230",
+    "876045231",
+    "876045232",
+    "876045233",
+    "876045234",
+    "876045235",
+    "876045236",
+    "876045237",
+    "876045238",
+    "876045239",
+    "876045240",
+    "876045241",
+    "876045242",
+    "876045243",
+    "876045244",
+    "876045245",
+    "876045246",
+    "876045247",
+    "876045248",
+    "876045249",
+    "876045250",
+    "876045251",
+    "876045252",
+    "876045253",
+    "876045254",
+    "876045255",
+    "876045256",
+    "876045257",
+    "876045258",
+    "876045259",
+    "876045260",
+    "876045261",
+    "876045262",
+    "876045263",
+    "876045264",
+    "876045265"
+   ]
+  }
+ ],
+ "fragments": {
+  "876045192": {
+   "fragment_id": "876045139",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 6/2024/A\n\nEstabelece o regime jurídico da cooperação técnica e financeira entre a administração regional autónoma e as freguesias e associações de freguesias dos Açores\n\nManter uma relação de efetiva cooperação entre o poder regional e o poder local constitui um dos objetivos programáticos do XIV Governo Regional dos Açores.\n\nReconhecendo-se que ambos são parceiros de um desenvolvimento comum, devem cooperar, com respeito mútuo, em benefício da mesma população que servem. Estando comprometidos com as mesmas populações, é mais proveitoso para ambos os poderes, um trabalho de interesse comum.\n\nNesse alinhamento, deve promover-se a descentralização, através de cooperação e partilha dos meios financeiros de investimento, disponíveis no orçamento regional, para municípios e freguesias. Esta partilha é baseada em critérios objetivos e equitativos, transparentes e escrutináveis, com previsibilidade e estabilidade no relacionamento financeiro do Governo Regional com os municípios e as freguesias.\n\nAs freguesias da Região Autónoma dos Açores, ao longo dos anos, têm revelado uma estreita e inegável colaboração em diversos domínios, promovendo e concretizando plena e eficazmente diversas ações que concorrem para o desenvolvimento regional.\n\nNo entanto e, não obstante a sua importância no contexto do poder autárquico local, atenta a sua proximidade aos cidadãos, bem como o aumento das suas responsabilidades no âmbito das suas atribuições e competências, as freguesias da Região apresentam uma reduzida capacidade técnica e administrativa.\n\nPorém, e atendendo a que deve ser assegurada maior estabilidade e, bem assim, maior previsibilidade e planeamento de ações às freguesias no âmbito da descentralização, através da cooperação, bem como que sejam associados os necessários recursos à sua concretização, o presente diploma procede à criação do Fundo Regional para o Desenvolvimento das Freguesias dos Açores.\n\nO diploma em apreço vem ainda responder à necessidade de ampliar e reforçar a cooperação com as freguesias bem como das respetivas áreas de colaboração com a administração regional, clarificando, ainda, o regime jurídico de cooperação, entre aquelas entidades, determinando o seu alcance e procedimentos.\n\nO regime a que obedece a cooperação técnica e financeira entre a administração regional da Região Autónoma dos Açores e as autarquias locais sediadas na Região foi aprovado em 2002, através do Decreto Legislativo Regional n.º 32/2002/A, de 8 de agosto, remetendo, com as devidas adaptações, no que se refere ao regime, fiscalização e controlo de execução dos contratos aos acordos com as freguesias, para o regime estabelecido para os contratos entre a administração regional dos Açores e a administração local (ARAAL).\n\nNo entanto, a operacionalização dos referidos contratos determina a necessidade de criar um regime jurídico de cooperação técnica e financeira autónomo, independente do regime estabelecido para os municípios, uma vez que se trata de realidades distintas, e com recursos também distintos.\n\nNeste enquadramento, o Plano Regional Anual para o ano de 2024 prevê a concretização da medida \"Conceção de um novo quadro regulamentar de enquadramento da cooperação técnica e financeira com as juntas de freguesia e associações de freguesias dos Açores\".\n\nNeste desiderato, o presente diploma vem definir os moldes do regime de cooperação técnica e financeira entre a administração regional e as freguesias da Região Autónoma dos Açores.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos das alíneas a) e m) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, do n.º 1 do artigo 37.º e do n.º 1 do artigo 49.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "876045193": {
+   "fragment_id": "876045140",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "876045194": {
+   "fragment_id": "876045141",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma estabelece o regime jurídico da cooperação técnica e financeira entre a administração regional autónoma e as freguesias e associações de freguesias da Região Autónoma dos Açores."
+  },
+  "876045195": {
+   "fragment_id": "876045142",
+   "type": 11,
+   "heading": "Artigo 2.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objeto\n\n1 - A cooperação referida no artigo anterior reveste a forma de acordo a celebrar entre a administração regional autónoma e as juntas de freguesia e as associações de freguesias da Região Autónoma dos Açores.\n\n2 - Constitui objeto do acordo referido no número anterior a execução de um projeto ou conjunto de projetos, que envolvam técnica e, ou, financeiramente uma ou mais juntas de freguesia e departamentos do Governo Regional.\n\n3 - São excluídos do âmbito dos acordos referidos no n.º 1 os investimentos que tenham sido delegados nas juntas de freguesia pelo respetivo município.\n\n4 - O regime estabelecido no presente diploma é também aplicável, com as devidas especificidades, às associações de freguesias."
+  },
+  "876045196": {
+   "fragment_id": "876045143",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologia de acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipologia de acordos\n\nOs acordos de cooperação técnica e financeira entre a administração regional autónoma e as juntas de freguesia, doravante designados por acordos, podem revestir as seguintes modalidades:\n\na) Acordos de cooperação na realização de investimentos ou de outras despesas públicas, no âmbito das competências das freguesias;\n\nb) Acordos de colaboração na realização de investimentos ou de outras despesas públicas, no âmbito das competências da administração regional autónoma;\n\nc) Acordos de coordenação na realização de investimentos ou de outras despesas públicas, que respeitem conjuntamente às competências da administração regional autónoma e das freguesias."
+  },
+  "876045197": {
+   "fragment_id": "876045144",
+   "type": 1,
+   "heading": "Capítulo II — ÂMBITO DOS ACORDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — ÂMBITO DOS ACORDOS"
+  },
+  "876045198": {
+   "fragment_id": "876045145",
+   "type": 11,
+   "heading": "Artigo 4.º — Acordos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acordos de cooperação\n\n1 - No âmbito da cooperação a que se refere a alínea a) do artigo anterior, os acordos podem ser celebrados na realização de investimentos ou de outras despesas públicas, nos seguintes domínios:\n\na) Equipamentos públicos;\n\nb) Cultura, tempos livres e desporto;\n\nc) Ação social;\n\nd) Proteção civil;\n\ne) Ambiente e salubridade;\n\nf) Aquisição, construção, reconstrução, reabilitação, requalificação ou reparação de edifícios sede de juntas de freguesia ou de associações de freguesias;\n\ng) Aquisição, construção, reconstrução, reabilitação, requalificação ou reparação de outros edifícios de juntas de freguesia ou de associações de freguesias;\n\nh) Mobiliário e equipamento destinado às sedes;\n\ni) Aquisição de viaturas ligeiras de mercadorias e de passageiros com lotação entre sete e nove lugares;\n\nj) Despesas com a organização ou com a participação em reuniões, colóquios e ações de formação;\n\nk) Despesas com consultoria e apoio técnico;\n\nl) Transição digital.\n\n2 - O disposto na alínea f) do número anterior não prejudica o regime previsto na alínea f) do n.º 1 do artigo 4.º do Decreto Legislativo Regional n.º 32/2002/A, de 8 de agosto, na sua redação atual."
+  },
+  "876045199": {
+   "fragment_id": "876045146",
+   "type": 11,
+   "heading": "Artigo 5.º — Acordos de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acordos de colaboração\n\nOs acordos a celebrar no âmbito da colaboração prevista na alínea b) do artigo 3.º podem ter por objeto a realização de investimentos, ou de outras despesas públicas, da competência dos departamentos ou serviços da administração regional, nos seguintes domínios:\n\na) Formação e educação;\n\nb) Solidariedade e ação social;\n\nc) Habitação;\n\nd) Turismo;\n\ne) Empreendedorismo e inovação;\n\nf) Transição digital;\n\ng) Cultura;\n\nh) Ambiente, recursos naturais e mitigação dos impactos das alterações climáticas, nomeadamente na manutenção das margens das lagoas e cursos de água, na instalação de sistemas de despoluição ou redução de cargas poluentes do ambiente e na proteção e conservação da natureza;\n\ni) Beneficiação, requalificação e manutenção de infraestruturas públicas sociais, rodoviárias e de saúde pública;\n\nj) Beneficiação, requalificação e manutenção de infraestruturas públicas no domínio da agricultura, designadamente no abastecimento de água às explorações agrícolas, bem como construção e melhoramento de caminhos agrícolas e infraestruturas de bem-estar animal;\n\nk) Instalação e manutenção de infraestruturas públicas no domínio das pescas, designadamente na limpeza e manutenção de portos de pesca e equipamentos associados;\n\nl) Beneficiação, requalificação, manutenção e limpeza de infraestruturas públicas associadas à náutica de recreio e atividades marítimo-turísticas;\n\nm) Campanhas de educação e sensibilização ambiental na área do lixo marinho;\n\nn) Beneficiação, requalificação, manutenção e limpeza de infraestruturas públicas na orla costeira e em zonas balneares;\n\no) Construção, beneficiação, requalificação e manutenção de infraestruturas desportivas;\n\np) Transição energética."
+  },
+  "876045200": {
+   "fragment_id": "876045147",
+   "type": 11,
+   "heading": "Artigo 6.º — Acordos de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acordos de coordenação\n\nA coordenação prevista na alínea c) do artigo 3.º concretiza-se através da celebração de acordos cujo objeto respeite à execução de projetos de investimento ou de outras despesas públicas, que envolvam competências conjuntas, legalmente previstas, da administração regional autónoma e das freguesias, em áreas respeitantes ao desenvolvimento regional e local."
+  },
+  "876045201": {
+   "fragment_id": "876045148",
+   "type": 1,
+   "heading": "Capítulo III — REGIME FINANCEIRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — REGIME FINANCEIRO"
+  },
+  "876045202": {
+   "fragment_id": "876045149",
+   "type": 8,
+   "heading": "Secção I — PLANEAMENTO FINANCEIRO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — PLANEAMENTO FINANCEIRO"
+  },
+  "876045203": {
+   "fragment_id": "876045150",
+   "type": 11,
+   "heading": "Artigo 7.º — Fundo para o Desenvolvimento das Freguesias dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fundo para o Desenvolvimento das Freguesias dos Açores\n\n1 - O presente diploma cria, na dependência do membro do Governo Regional competente em matéria de cooperação com o poder local, o Fundo para o Desenvolvimento das Freguesias dos Açores (FDFA).\n\n2 - As normas relativas à gestão e funcionamento do FDFA são aprovadas por decreto regulamentar regional."
+  },
+  "876045204": {
+   "fragment_id": "876045151",
+   "type": 11,
+   "heading": "Artigo 8.º — Previsão anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Previsão anual\n\nO montante anual da participação financeira da administração regional autónoma na execução de projetos de investimento objeto dos acordos de cooperação técnica e financeira previstos no presente diploma consta da dotação do Plano Regional Anual gerida pelo departamento do Governo Regional competente em matéria de cooperação com o poder local."
+  },
+  "876045205": {
+   "fragment_id": "876045152",
+   "type": 11,
+   "heading": "Artigo 9.º — Valores orçamentais para as diversas modalidades de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Valores orçamentais para as diversas modalidades de cooperação\n\n1 - Através de resolução do Conselho do Governo Regional, são aprovados, anualmente, os valores do FDFA alocados a cada uma das modalidades de cooperação técnica e financeira previstas no artigo 3.º\n\n2 - Os valores previstos no número anterior podem ser reafetados entre as diferentes modalidades, consoante os valores necessários para apoiar as candidaturas apresentadas e o ritmo de execução das mesmas."
+  },
+  "876045206": {
+   "fragment_id": "876045153",
+   "type": 8,
+   "heading": "Secção II — PARTICIPAÇÃO FINANCEIRA DA REGIÃO AUTÓNOMA DOS AÇORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — PARTICIPAÇÃO FINANCEIRA DA REGIÃO AUTÓNOMA DOS AÇORES"
+  },
+  "876045207": {
+   "fragment_id": "876045154",
+   "type": 11,
+   "heading": "Artigo 10.º — Natureza e limite do apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Natureza e limite do apoio financeiro\n\n1 - A participação financeira da Região Autónoma dos Açores assume a modalidade de comparticipação financeira direta e é definida de acordo com as seguintes regras:\n\na) Nos projetos nas áreas de competência das juntas de freguesia, pode atingir até 85 % da despesa elegível, com o limite máximo de 100 000,00 € (cem mil euros);\n\nb) Nos projetos nas áreas de competência da administração regional autónoma, pode atingir até 100 % da despesa elegível, com o limite máximo de 350 000,00 € (trezentos e cinquenta mil euros);\n\nc) Nos projetos nas áreas de competência conjunta, pode atingir até 85 % da despesa elegível, com o limite máximo de 250 000,00 € (duzentos e cinquenta mil euros).\n\n2 - Nos casos das alíneas b) e c) do número anterior, o montante da comparticipação a atribuir pode atingir o valor máximo de 500 000,00 € (quinhentos mil euros), no caso dos investimentos de interesse público regional."
+  },
+  "876045208": {
+   "fragment_id": "876045155",
+   "type": 11,
+   "heading": "Artigo 11.º — Comparticipação para as sedes de juntas de freguesia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Comparticipação para as sedes de juntas de freguesia\n\n1 - A comparticipação financeira direta da Região Autónoma dos Açores prevista na alínea f) do n.º 1 do artigo 4.º está sujeita a uma taxa de comparticipação até 85 % da despesa elegível, com o limite máximo correspondente a 250 000,00 € (duzentos e cinquenta mil euros).\n\n2 - Nos casos em que a sede seja parte integrante de um edifício polivalente, onde funcionem outras instituições, o custo global do projeto é dividido proporcionalmente entre as entidades envolvidas, incidindo a cooperação sobre o montante correspondente à parcela que cabe à junta de freguesia ou à associação de freguesias."
+  },
+  "876045209": {
+   "fragment_id": "876045156",
+   "type": 8,
+   "heading": "Secção III — MAJORAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — MAJORAÇÕES"
+  },
+  "876045210": {
+   "fragment_id": "876045157",
+   "type": 11,
+   "heading": "Artigo 12.º — Tipologia de majorações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Tipologia de majorações\n\n1 - Aos projetos a que se refere o artigo 2.º são atribuídas as seguintes majorações:\n\na) Os projetos que envolvam mais de uma junta de freguesia são majorados em 15 %;\n\nb) Os projetos previstos para freguesias das ilhas de Santa Maria, Graciosa, São Jorge, Pico, Faial e Flores são majorados em 15 %;\n\nc) Os projetos previstos para as freguesias das restantes ilhas da Região Autónoma dos Açores que cumpram determinados parâmetros económicos e sociais, a definir por despacho do membro do Governo Regional competente em matéria de cooperação com o poder local, são majorados em 15 %;\n\nd) Os projetos nas áreas definidas como de interesse regional são majorados em 20 %.\n\n2 - As majorações previstas no número anterior são cumulativas até aos limites máximos previstos nos artigos 10.º e 11.º"
+  },
+  "876045211": {
+   "fragment_id": "876045158",
+   "type": 11,
+   "heading": "Artigo 13.º — Interesse público regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Interesse público regional\n\nAtravés de resolução do Conselho do Governo Regional, são aprovadas, anualmente, as áreas de interesse público regional, para efeitos de cooperação técnica e financeira com as juntas de freguesia, tendo em conta os eixos prioritários dos programas europeus de financiamento, ao abrigo do quadro financeiro plurianual, adotado para o período em referência."
+  },
+  "876045212": {
+   "fragment_id": "876045159",
+   "type": 8,
+   "heading": "Secção IV — ELEGIBILIDADE E PROCESSAMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — ELEGIBILIDADE E PROCESSAMENTO"
+  },
+  "876045213": {
+   "fragment_id": "876045160",
+   "type": 11,
+   "heading": "Artigo 14.º — Valor elegível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Valor elegível\n\n1 - Sem prejuízo do disposto no número seguinte, são elegíveis à comparticipação financeira direta da Região Autónoma dos Açores os custos totais do investimento, mediante a apresentação de comprovativos de execução da despesa.\n\n2 - No caso dos investimentos que se enquadrem nas atribuições e competências das freguesias, não são elegíveis os encargos resultantes das revisões de preços.\n\n3 - Caso o investimento seja objeto de financiamento por outras fontes, além do orçamento da freguesia, constitui valor elegível apenas aquele que for efetivamente suportado por esta."
+  },
+  "876045214": {
+   "fragment_id": "876045161",
+   "type": 11,
+   "heading": "Artigo 15.º — Processamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Processamento\n\n1 - O processamento da comparticipação financeira do Governo Regional é efetuado pela adequada dotação inscrita no orçamento da direção regional competente em matéria de cooperação com o poder local, nos termos que forem definidos no acordo.\n\n2 - Sem prejuízo do disposto no número anterior, podem ser transferidos, após a publicação do acordo, montantes até 40 % do valor contratualizado, sendo o valor remanescente transferido mediante a apresentação dos respetivos documentos comprovativos de execução da despesa."
+  },
+  "876045215": {
+   "fragment_id": "876045162",
+   "type": 1,
+   "heading": "Capítulo IV — PROCEDIMENTO DE CANDIDATURAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — PROCEDIMENTO DE CANDIDATURAS"
+  },
+  "876045216": {
+   "fragment_id": "876045163",
+   "type": 8,
+   "heading": "Secção I — INICIATIVA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — INICIATIVA"
+  },
+  "876045217": {
+   "fragment_id": "876045164",
+   "type": 11,
+   "heading": "Artigo 16.º — Período de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Período de candidaturas\n\nO período para a apresentação de candidaturas por parte das entidades interessadas na celebração dos acordos de cooperação técnica e financeira decorre até 15 de fevereiro."
+  },
+  "876045218": {
+   "fragment_id": "876045165",
+   "type": 11,
+   "heading": "Artigo 17.º — Promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Promotores\n\n1 - A iniciativa de apresentação de candidaturas pode ser tomada quer pelos departamentos do Governo Regional, quer pelas juntas de freguesia ou associações de freguesias.\n\n2 - O município do Corvo, enquanto titular das competências genéricas das freguesias no respetivo território, nos termos do disposto no artigo 136.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, pode tomar a iniciativa de apresentação de candidaturas, no âmbito e para os efeitos do presente diploma, beneficiando também das majorações previstas na alínea b) do n.º 1 do artigo 12.º"
+  },
+  "876045219": {
+   "fragment_id": "876045166",
+   "type": 11,
+   "heading": "Artigo 18.º — Impedimentos à apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Impedimentos à apresentação de candidaturas\n\nA entidade promotora não pode apresentar candidaturas para celebração de acordo nas seguintes circunstâncias:\n\na) Com proposta de investimento que não corresponda às áreas legalmente definidas;\n\nb) Concorrente com investimento já aprovado e, ou, comparticipado através de contrato da Região Autónoma dos Açores com o município respetivo;\n\nc) Com objeto resultado de delegação de competências por parte do município respetivo;\n\nd) No período de candidatura seguinte ao da resolução de acordo, por motivo imputável à junta de freguesia;\n\ne) Quando, à data da apresentação da candidatura, se encontre, física ou financeiramente, concluído o projeto objeto da candidatura."
+  },
+  "876045220": {
+   "fragment_id": "876045167",
+   "type": 8,
+   "heading": "Secção II — PROPOSTAS DE CANDIDATURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — PROPOSTAS DE CANDIDATURA"
+  },
+  "876045221": {
+   "fragment_id": "876045168",
+   "type": 11,
+   "heading": "Artigo 19.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Apresentação de candidaturas\n\n1 - As propostas de candidatura da iniciativa das juntas de freguesia são apresentadas ao departamento do Governo Regional competente em matéria de cooperação com o poder local, através da plataforma eletrónica designada como Portal da Cooperação com o Poder Local, para apreciação preliminar.\n\n2 - Para efeitos de verificação do cumprimento das condições de elegibilidade das candidaturas, a direção regional competente em matéria de cooperação com o poder local, no prazo de 5 dias úteis após a apresentação das candidaturas, solicita aos departamentos regionais competentes em razão da matéria a emissão de parecer, no prazo de 15 dias úteis.\n\n3 - As propostas de candidatura à cooperação técnica e financeira relativa às alíneas f) a k) do n.º 1 do artigo 4.º são apreciadas pelo departamento do Governo Regional competente em matéria de cooperação com o poder local.\n\n4 - As propostas de candidatura da iniciativa dos departamentos do Governo Regional competentes nos domínios definidos no artigo 5.º são apresentadas ao departamento do Governo Regional competente em matéria de cooperação com o poder local, para articulação com as juntas de freguesia, avaliando, se for o caso, a exequibilidade do projeto tendo em conta as disponibilidades orçamentais da freguesia face às suas receitas próprias e aos compromissos anteriormente assumidos."
+  },
+  "876045222": {
+   "fragment_id": "876045169",
+   "type": 11,
+   "heading": "Artigo 20.º — Elementos das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Elementos das propostas\n\n1 - As propostas de candidatura devem integrar, tendo em conta a natureza do objeto do acordo em causa, os seguintes elementos:\n\na) Designação do projeto;\n\nb) Identificação da entidade proponente e da entidade responsável pela execução do projeto;\n\nc) Objetivos;\n\nd) Complementaridade em relação a outros projetos desenvolvidos ou a desenvolver;\n\ne) Memória justificativa e descritiva das soluções preconizadas;\n\nf) Planta de localização;\n\ng) Descrição da importância do projeto no contexto regional ou local;\n\nh) Calendarização da execução do projeto;\n\ni) Montante do investimento;\n\nj) Fontes de financiamento;\n\nk) Programação física e financeira indicativa;\n\nl) Proposta de modelo de financiamento, incluindo a indicação de outros apoios solicitados a outras entidades;\n\nm) Consulta efetuada ao mercado, nos termos do regime da contratação pública, quando a iniciativa da proposta seja da junta de freguesia;\n\nn) Estudos e projetos técnicos já elaborados e pareceres sobre os mesmos emitidos pelas entidades com atribuições nos domínios em causa.\n\n2 - As propostas de cooperação da iniciativa das juntas de freguesia ou associações de freguesias são acompanhadas de duas ou mais propostas de empresas fornecedoras, com discriminação dos bens a adquirir ou das obras a realizar e dos respetivos custos."
+  },
+  "876045223": {
+   "fragment_id": "876045170",
+   "type": 8,
+   "heading": "Secção III — APOIO TÉCNICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — APOIO TÉCNICO"
+  },
+  "876045224": {
+   "fragment_id": "876045171",
+   "type": 11,
+   "heading": "Artigo 21.º — Formulários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Formulários\n\n1 - O departamento do Governo Regional competente em matéria de cooperação com o poder local disponibiliza, através de plataforma eletrónica, os formulários para as candidaturas, que devem ser submetidas eletronicamente.\n\n2 - O formulário de candidatura deve conter a identificação do projeto, a entidade proponente, o departamento do Governo Regional competente na área do investimento da respetiva candidatura, a designação do projeto, os objetivos, a complementaridade em relação a outros projetos desenvolvidos ou a desenvolver, a calendarização da execução, o montante do investimento, as fontes de financiamento, o dono da obra, bem como o conjunto de elementos documentais referidos no artigo anterior."
+  },
+  "876045225": {
+   "fragment_id": "876045172",
+   "type": 11,
+   "heading": "Artigo 22.º — Apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Apoio técnico\n\nAs juntas de freguesia podem solicitar apoio técnico à administração regional autónoma, em qualquer fase da elaboração dos projetos, através da direção regional competente em matéria de cooperação com o poder local, a qual, sendo caso disso, remete os pedidos para os departamentos do Governo Regional competentes em função da área do investimento da respetiva candidatura."
+  },
+  "876045226": {
+   "fragment_id": "876045173",
+   "type": 8,
+   "heading": "Secção IV — APRECIAÇÃO DAS PROPOSTAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — APRECIAÇÃO DAS PROPOSTAS"
+  },
+  "876045227": {
+   "fragment_id": "876045174",
+   "type": 11,
+   "heading": "Artigo 23.º — Apreciação preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Apreciação preliminar\n\n1 - A apreciação preliminar das candidaturas por parte do departamento do Governo Regional competente em matéria de cooperação com o poder local compreende a verificação da existência de algum dos impedimentos à celebração de acordo.\n\n2 - A verificação da existência de algum impedimento à celebração de acordo determina a não admissão da candidatura.\n\n3 - Admitida a candidatura, o departamento do Governo Regional competente em matéria de cooperação com o poder local procede à tramitação do processo, com o respetivo encaminhamento para análise e parecer do departamento do Governo Regional competente na área do investimento da respetiva candidatura."
+  },
+  "876045228": {
+   "fragment_id": "876107175",
+   "type": 11,
+   "heading": "Artigo 24.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Análise das candidaturas\n\n1 - A análise de candidaturas da iniciativa das freguesias é efetuada pelo departamento do Governo Regional competente na área do investimento da respetiva candidatura.\n\n2 - Caso o resultado da análise referida no número anterior obtenha um valor mínimo de 50 pontos, numa escala de 0 a 100 pontos, o parecer emitido pelo departamento do Governo Regional competente na área do investimento da respetiva candidatura deve ser positivo.\n\n3 - Na análise referida no número anterior, são aplicados os seguintes critérios:\n\na) Importância do projeto para o desenvolvimento socioeconómico regional ou local;\n\nb) Dimensão e gravidade da situação que o projeto visa corrigir;\n\nc) Integração ou articulação com programas específicos da administração regional autónoma;\n\nd) Caráter complementar do projeto em relação a outros já realizados, concorrendo, assim, para soluções integradas;\n\ne) Complexidade do projeto proposto, no sentido de abranger e integrar várias soluções;\n\nf) Beneficiários do investimento;\n\ng) Distância ao equipamento similar mais próximo;\n\nh) Contributo do projeto para a melhoria da prestação do serviço público às populações;\n\ni) Razoabilidade e adequação dos custos envolvidos face aos objetivos do projeto;\n\nj) Sustentabilidade do projeto.\n\n4 - A valoração dos critérios previstos no número anterior, bem como a definição e valoração dos respetivos subcritérios, é definida pelo departamento do Governo Regional competente na área do investimento da respetiva candidatura.\n\n5 - Atenta a natureza dos investimentos, na análise a que se refere o n.º 1, podem ser solicitados, pelo departamento do Governo Regional competente na área do investimento da respetiva candidatura, elementos adicionais, designadamente estudos, projetos técnicos e pareceres sobre os mesmos, emitidos pelas entidades com atribuições nos domínios em causa.\n\n6 - Em função da matéria, as entidades regionais envolvidas podem submeter a apreciação das candidaturas, ou determinado aspeto das mesmas, a outras entidades públicas ou privadas."
+  },
+  "876045229": {
+   "fragment_id": "876107176",
+   "type": 11,
+   "heading": "Artigo 25.º — Publicitação da valoração de critérios e da definição e valoração de subcritérios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Publicitação da valoração de critérios e da definição e valoração de subcritérios\n\nA valoração dos critérios de análise das candidaturas, previstos no presente diploma, bem como a definição e valoração dos respetivos subcritérios, está sujeita a publicitação obrigatória, previamente ao período de apresentação de candidaturas, no Portal da Cooperação com o Poder Local."
+  },
+  "876045230": {
+   "fragment_id": "876107177",
+   "type": 11,
+   "heading": "Artigo 26.º — Sedes de juntas de freguesia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Sedes de juntas de freguesia\n\nNas propostas de cooperação financeira direta respeitantes a sedes de juntas de freguesia a que se refere a alínea f) do n.º 1 artigo 4.º, deve atender-se à seguinte ordem de prioridades:\n\na) Freguesias privadas de instalações específicas;\n\nb) Estado de degradação e insegurança das instalações;\n\nc) Capacidade físico-funcional das instalações face à população da freguesia;\n\nd) Valor histórico e arquitetónico dos edifícios sede a reconstruir ou beneficiar ou escolhidos para instalar as novas sedes;\n\ne) Existência de planos urbanísticos para a área do edifício sede."
+  },
+  "876045231": {
+   "fragment_id": "876107178",
+   "type": 8,
+   "heading": "Secção V — SELEÇÃO E APROVAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — SELEÇÃO E APROVAÇÃO"
+  },
+  "876045232": {
+   "fragment_id": "876107179",
+   "type": 11,
+   "heading": "Artigo 27.º — Seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Seleção das candidaturas\n\n1 - Após o parecer do departamento do Governo Regional competente na área do investimento proposto, as candidaturas são selecionadas pelo membro do Governo Regional competente em matéria de cooperação com o poder local, tendo em conta, nomeadamente, o sentido do parecer e as dotações disponíveis no Plano Regional Anual para as respetivas modalidades.\n\n2 - Em caso de sobreposição de candidaturas, ou de sobrelotação face ao montante anual disponível, são considerados critérios de prioridade, pela seguinte ordem:\n\na) Investimentos nas áreas de interesse público regional;\n\nb) Importância do projeto para o desenvolvimento socioeconómico regional ou local;\n\nc) Dimensão e gravidade da situação que o projeto visa corrigir;\n\nd) Integração ou articulação com programas específicos da administração regional autónoma;\n\ne) Caráter complementar do projeto em relação a outros já realizados, concorrendo, assim, para soluções integradas;\n\nf) Contributo do projeto para a melhoria da prestação do serviço público às populações;\n\ng) Investimentos que envolvam mais do que uma junta de freguesia."
+  },
+  "876045233": {
+   "fragment_id": "876107180",
+   "type": 11,
+   "heading": "Artigo 28.º — Aprovação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Aprovação das candidaturas\n\n1 - Até ao dia 31 de março de cada ano, as candidaturas são submetidas à aprovação do Conselho do Governo Regional, por resolução do Conselho do Governo Regional, através do membro do Governo Regional competente em matéria de cooperação com o poder local.\n\n2 - A resolução do Conselho do Governo Regional a que se refere o número anterior contém uma listagem com as candidaturas aprovadas, discriminando o projeto, as entidades envolvidas, o valor do investimento e o montante do apoio da responsabilidade da Região Autónoma dos Açores."
+  },
+  "876045234": {
+   "fragment_id": "876107181",
+   "type": 11,
+   "heading": "Artigo 29.º — Candidaturas não selecionadas ou não aprovadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Candidaturas não selecionadas ou não aprovadas\n\n1 - As candidaturas não selecionadas, ou não aprovadas, por indisponibilidade de dotação orçamental, transitam, automaticamente, para o período de candidaturas seguinte.\n\n2 - Nos casos previstos no número anterior, a resolução do Conselho do Governo Regional a que se refere o artigo anterior contém uma listagem com as candidaturas não selecionadas e não aprovadas, discriminando o projeto, a entidade promotora, o montante do apoio solicitado e o fundamento para a não seleção ou aprovação."
+  },
+  "876045235": {
+   "fragment_id": "876107182",
+   "type": 11,
+   "heading": "Artigo 30.º — Comunicação de aprovação ou não aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Comunicação de aprovação ou não aprovação\n\n1 - A direção regional competente em matéria de cooperação com o poder local comunica a decisão de aprovação ou não aprovação das candidaturas às respetivas entidades, no prazo máximo de 15 dias contado da data de publicação da resolução do Conselho do Governo Regional prevista nos artigos 28.º e 29.º\n\n2 - Em caso de aprovação, a comunicação deve discriminar o montante do apoio e os investimentos elegíveis.\n\n3 - Em caso de não aprovação, a comunicação deve informar os fundamentos dessa decisão.\n\n4 - A direção regional competente em matéria de cooperação com o poder local procede à audiência dos interessados pelo prazo de cinco dias úteis."
+  },
+  "876045236": {
+   "fragment_id": "876107183",
+   "type": 11,
+   "heading": "Artigo 31.º — Elaboração dos acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Elaboração dos acordos\n\n1 - Os acordos são celebrados após a aprovação das candidaturas no Conselho do Governo Regional, cabendo à direção regional competente em matéria de cooperação com o poder local promover as diligências junto dos departamentos competentes para elaborar as respetivas minutas.\n\n2 - A minuta do respetivo acordo é, posteriormente, apresentada à junta de freguesia, pela direção regional competente em matéria de cooperação com o poder local, em articulação com os departamentos do Governo Regional competentes na área do investimento da respetiva candidatura, sem prejuízo das negociações diretas entre estes e a junta de freguesia respetiva.\n\n3 - A validação final da minuta do acordo é da responsabilidade do membro do Governo Regional competente em matéria de cooperação com o poder local.\n\n4 - A apresentação da minuta do respetivo acordo, a que se refere o n.º 2, é efetuada no prazo máximo de 30 dias após a data da comunicação de aprovação prevista no artigo anterior."
+  },
+  "876045237": {
+   "fragment_id": "876107184",
+   "type": 1,
+   "heading": "Capítulo V — REGIME DOS ACORDOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — REGIME DOS ACORDOS"
+  },
+  "876045238": {
+   "fragment_id": "876107185",
+   "type": 8,
+   "heading": "Secção I — FORMALIZAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — FORMALIZAÇÃO"
+  },
+  "876045239": {
+   "fragment_id": "876107186",
+   "type": 11,
+   "heading": "Artigo 32.º — Acordo escrito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Acordo escrito\n\nA realização de projetos em cooperação, colaboração ou coordenação com as juntas de freguesia e associações de freguesias concretiza-se através da celebração de acordo escrito entre os departamentos do Governo Regional competentes e as entidades referidas."
+  },
+  "876045240": {
+   "fragment_id": "876107187",
+   "type": 11,
+   "heading": "Artigo 33.º — Conteúdo do acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Conteúdo do acordo\n\nOs acordos devem ter, designadamente, o seguinte conteúdo:\n\na) Partes contratantes;\n\nb) Objeto do acordo;\n\nc) Período de vigência do acordo, com as datas dos respetivos início e termo;\n\nd) Direitos e obrigações das partes contratantes;\n\ne) Titularidade dos bens patrimoniais e dos equipamentos públicos a constituir quando se trate de acordos de colaboração ou de coordenação;\n\nf) Identificação da entidade responsável pela execução do investimento;\n\ng) Prazo de execução;\n\nh) Especificação do faseamento na execução dos projetos, quando a este houver lugar;\n\ni) Quantificação das responsabilidades de financiamento de cada uma das entidades contratantes;\n\nj) Estrutura de acompanhamento e controlo da execução do acordo;\n\nk) Penalização face a situações de incumprimento por qualquer das entidades contratantes."
+  },
+  "876045241": {
+   "fragment_id": "876107188",
+   "type": 11,
+   "heading": "Artigo 34.º — Outorgantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Outorgantes\n\n1 - Os acordos são celebrados entre o membro do Governo Regional competente em matéria de cooperação com o poder local, os departamentos do Governo Regional competentes em função dos domínios de investimento abrangidos e as juntas de freguesia, ou associações de freguesias, interessadas.\n\n2 - No caso de o objeto do acordo incluir a execução de projetos que possam beneficiar outras entidades públicas e privadas, ou empresas públicas, podem estas ser admitidas como partes outorgantes."
+  },
+  "876045242": {
+   "fragment_id": "876107189",
+   "type": 11,
+   "heading": "Artigo 35.º — Documentos previsionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Documentos previsionais\n\nOs acordos só podem ser celebrados depois de os investimentos respetivos serem incluídos nos documentos previsionais das autarquias locais, e desde que a participação financeira do Governo Regional tenha devida cabimentação financeira."
+  },
+  "876045243": {
+   "fragment_id": "876107190",
+   "type": 11,
+   "heading": "Artigo 36.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Publicidade\n\n1 - Os acordos, bem como as suas alterações, são publicados no Jornal Oficial, através da direção regional competente em matéria de cooperação com o poder local, não carecendo de visto do Tribunal de Contas.\n\n2 - Os acordos, uma vez outorgados pelas partes, são publicados na íntegra no Jornal Oficial."
+  },
+  "876045244": {
+   "fragment_id": "876107191",
+   "type": 11,
+   "heading": "Artigo 37.º — Responsabilidade de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Responsabilidade de execução\n\nA responsabilidade de execução dos investimentos compete à entidade designada no respetivo acordo."
+  },
+  "876045245": {
+   "fragment_id": "876107192",
+   "type": 11,
+   "heading": "Artigo 38.º — Prazo de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Prazo de execução\n\nO prazo de execução dos projetos, anuais ou plurianuais, pode ser prorrogado por um ano, contado da data de conclusão prevista no acordo, mediante despacho do membro do Governo Regional competente em matéria de cooperação com o poder local, atendendo à dimensão ou à natureza dos projetos."
+  },
+  "876045246": {
+   "fragment_id": "876107193",
+   "type": 8,
+   "heading": "Secção II — ALTERAÇÃO, REVISÃO E RESOLUÇÃO DO ACORDO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — ALTERAÇÃO, REVISÃO E RESOLUÇÃO DO ACORDO"
+  },
+  "876045247": {
+   "fragment_id": "876107194",
+   "type": 11,
+   "heading": "Artigo 39.º — Alteração e revisão do acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Alteração e revisão do acordo\n\n1 - As alterações ao clausulado dos acordos requerem a concordância de todas as partes outorgantes, salvo disposição expressa em contrário.\n\n2 - Ocorrendo alteração anormal e imprevisível das circunstâncias que determinaram os termos do acordo, pode ser proposta a sua revisão pela parte que, nos termos do acordo, seja responsável pela execução dos investimentos ou das ações que constituem objeto do mesmo."
+  },
+  "876045248": {
+   "fragment_id": "876107195",
+   "type": 11,
+   "heading": "Artigo 40.º — Resolução do acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Resolução do acordo\n\n1 - A resolução dos acordos pode ocorrer nos termos do presente diploma, das cláusulas do acordo e, supletivamente, nos termos da lei civil.\n\n2 - A resolução de um acordo, por causa imputável à junta de freguesia, implica o reembolso do montante da comparticipação já processado, acrescido dos respetivos juros à taxa legal em vigor, e a inibição de apresentação de candidatura no período de candidatura seguinte.\n\n3 - Resolvido um acordo, as eventuais propostas de celebração de novo acordo para a realização total ou parcial dos projetos de investimento abrangidos pelo primeiro devem ser instruídas com relatório detalhado das causas que motivaram a sua resolução, bem como da responsabilidade de cada uma das partes pelo seu não cumprimento.\n\n4 - A direção regional competente em matéria de cooperação com o poder local é a entidade competente para a elaboração do relatório referido no número anterior, ficando as partes envolvidas obrigadas a fornecer a informação necessária para esse efeito."
+  },
+  "876045249": {
+   "fragment_id": "876107196",
+   "type": 1,
+   "heading": "Capítulo VI — FISCALIZAÇÃO E CONTROLO DE EXECUÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — FISCALIZAÇÃO E CONTROLO DE EXECUÇÃO"
+  },
+  "876045250": {
+   "fragment_id": "876107197",
+   "type": 11,
+   "heading": "Artigo 41.º — Controlo de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Controlo de execução\n\n1 - A entidade designada no acordo como responsável pelo acompanhamento e controlo do investimento promove a fiscalização da execução física do mesmo, podendo, para o efeito, recorrer a outras entidades, públicas ou privadas.\n\n2 - Quando, através da fiscalização a que se refere o número anterior, for detetada uma divergência, não justificada, entre os documentos de comprovação apresentados e a execução física do investimento, pode haver lugar à resolução do acordo."
+  },
+  "876045251": {
+   "fragment_id": "876107198",
+   "type": 11,
+   "heading": "Artigo 42.º — Relatórios de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Relatórios de execução\n\nA direção regional competente em matéria de cooperação com o poder local elabora relatórios anuais e finais de síntese, de cada projeto, ficando as partes envolvidas obrigadas a fornecer a informação necessária para esse efeito."
+  },
+  "876045252": {
+   "fragment_id": "876107199",
+   "type": 11,
+   "heading": "Artigo 43.º — Inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Inspeção\n\nO serviço inspetivo da administração regional autónoma competente em matéria de tutela administrativa assegura, no âmbito da respetiva atividade, a inspeção dos processos relativos aos investimentos abrangidos pelo regime estabelecido no presente diploma."
+  },
+  "876045253": {
+   "fragment_id": "876107200",
+   "type": 11,
+   "heading": "Artigo 44.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Comissão de acompanhamento\n\n1 - Sem prejuízo do disposto nos artigos anteriores, a cooperação técnica e financeira com as juntas de freguesia é objeto de acompanhamento e avaliação por uma comissão de acompanhamento, nomeada por despacho do membro Governo Regional competente em matéria de cooperação com o poder local.\n\n2 - A comissão integra dois representantes do departamento do Governo Regional competente em matéria de cooperação com o poder local, um dos quais preside, um representante do departamento do Governo Regional competente em matéria de finanças, um representante da Delegação Regional dos Açores da Associação Nacional de Freguesias - ANAFRE, a designar por esta, e um representante da Assembleia Legislativa da Região Autónoma dos Açores eleito, no período legislativo seguinte à entrada em vigor do presente diploma, pelo período do respetivo mandato, por maioria de dois terços dos deputados em efetividade de funções."
+  },
+  "876045254": {
+   "fragment_id": "876107201",
+   "type": 11,
+   "heading": "Artigo 45.º — Relatório anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Relatório anual\n\n1 - Compete à comissão de acompanhamento elaborar um relatório anual onde constem as candidaturas reprovadas e as aprovadas, a avaliação da sua execução e os resultados globais, conseguidos, anualmente, com a celebração dos acordos.\n\n2 - O relatório referido no número anterior é disponibilizado eletronicamente pela direção regional competente em matéria de cooperação com o poder local, no respetivo sítio da Internet, e remetido à Assembleia Legislativa da Região Autónoma dos Açores até 31 de março do ano seguinte ao ano a que se refere o relatório."
+  },
+  "876045255": {
+   "fragment_id": "876107202",
+   "type": 1,
+   "heading": "Capítulo VII — REGIME EXCECIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — REGIME EXCECIONAL"
+  },
+  "876045256": {
+   "fragment_id": "876107203",
+   "type": 11,
+   "heading": "Artigo 46.º — Cooperação excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Cooperação excecional\n\n1 - A cooperação técnica e financeira com as freguesias e associações de freguesias pode abranger a comparticipação por prejuízos causados pela ocorrência de intempéries, situações imprevisíveis e excecionais, que não configurem situações de calamidade pública, nomeadamente em bens incluídos no seu património ou à sua guarda ou administração.\n\n2 - À cooperação excecional aplica-se o disposto no presente diploma, tendo em conta as especificidades constantes dos números seguintes.\n\n3 - Nos casos previstos no n.º 1, as candidaturas são apresentadas pelas juntas de freguesia ao membro do Governo Regional competente em matéria de cooperação com o poder local, que as reencaminha, para parecer, aos departamentos do Governo Regional competentes em razão da matéria.\n\n4 - Cabe aos departamentos do Governo Regional competentes em razão da matéria apreciar as candidaturas, tendo em conta o grau de urgência do auxílio a prestar e, quando for caso disso, o interesse regional ou local do projeto de investimento a realizar.\n\n5 - Após a apreciação a que se refere o número anterior, é da responsabilidade do membro do Governo Regional competente em matéria de cooperação com o poder local a respetiva submissão para a aprovação em Conselho do Governo Regional, através de resolução.\n\n6 - A comparticipação financeira do Governo Regional, prevista no n.º 1, é fixada pelo Conselho do Governo Regional, por resolução, consoante a gravidade ou a necessidade das situações objeto de apoio, podendo atingir até 100 % do montante global a investir.\n\n7 - A decisão sobre as candidaturas apresentadas ao abrigo dos números anteriores consta de resolução do Conselho do Governo Regional."
+  },
+  "876045257": {
+   "fragment_id": "876107204",
+   "type": 1,
+   "heading": "Capítulo VIII — DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — DISPOSIÇÕES FINAIS E TRANSITÓRIAS"
+  },
+  "876045258": {
+   "fragment_id": "876107205",
+   "type": 11,
+   "heading": "Artigo 47.º — Transferência de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Transferência de competências\n\nA transferência de competências para as juntas de freguesia no âmbito dos acordos atualmente abrangidos pela modalidade de colaboração determina a elegibilidade dos mesmos para efeitos de cooperação."
+  },
+  "876045259": {
+   "fragment_id": "876107206",
+   "type": 11,
+   "heading": "Artigo 48.º — Publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Publicitação\n\nOs responsáveis pela execução dos projetos abrangidos pelos acordos ficam obrigados a manter afixado, em local bem visível, e durante todo o período da sua realização, um painel, com dimensões adequadas, informando que o projeto é cofinanciado pela Região Autónoma dos Açores."
+  },
+  "876045260": {
+   "fragment_id": "876107207",
+   "type": 11,
+   "heading": "Artigo 49.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Regulamentação\n\n1 - O Governo Regional deve, no prazo de 30 dias após a publicação do presente diploma, aprovar os atos normativos necessários à execução do mesmo.\n\n2 - Os formulários para apresentação de candidaturas, a que se refere o artigo 21.º, bem como o modelo do painel, a que se refere o artigo anterior, são definidos por despacho do membro do Governo Regional competente em matéria de cooperação com o poder local, a publicar no prazo de 15 dias após a entrada em vigor do presente diploma."
+  },
+  "876045261": {
+   "fragment_id": "876107208",
+   "type": 11,
+   "heading": "Artigo 50.º — Portal da Cooperação com o Poder Local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Portal da Cooperação com o Poder Local\n\nO departamento do Governo Regional competente em matéria de cooperação com o poder local disponibiliza a plataforma eletrónica a que se refere o artigo 19.º, designada como Portal da Cooperação com o Poder Local, no prazo de 30 dias após a entrada em vigor do presente diploma."
+  },
+  "876045262": {
+   "fragment_id": "876107209",
+   "type": 11,
+   "heading": "Artigo 51.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Norma transitória\n\n1 - Os acordos de cooperação, colaboração ou coordenação constituídos no âmbito do Decreto Legislativo Regional n.º 32/2002/A, de 8 de agosto, na sua redação atual, continuam a reger-se pela legislação ao abrigo da qual foram celebrados.\n\n2 - Em 2024, excecionalmente:\n\na) As candidaturas são apresentadas até 30 dias após a entrada em vigor da regulamentação do presente diploma a que se refere o n.º 1 do artigo 49.º;\n\nb) A valoração dos critérios de análise de candidaturas, bem como a definição e valoração dos respetivos subcritérios, é publicitada, previamente à data de apresentação de candidaturas, no Portal do Governo Regional, no caso de indisponibilidade do Portal da Cooperação com o Poder Local.\n\n3 - As candidaturas apresentadas em 2024 que não sejam de caráter plurianual têm um prazo máximo de execução até 30 de junho de 2025."
+  },
+  "876045263": {
+   "fragment_id": "876107210",
+   "type": 11,
+   "heading": "Artigo 52.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Norma revogatória\n\nSão revogados a alínea b) do artigo 1.º e os artigos 23.º, 24.º e 24.º-A do Decreto Legislativo Regional n.º 32/2002/A, de 8 de agosto, alterado pelos Decretos Legislativos Regionais n.<sup>os </sup>27/2005/A, de 10 de novembro, 24/2015/A, de 10 de novembro, e 5/2020/A, de 24 de janeiro."
+  },
+  "876045264": {
+   "fragment_id": "876107211",
+   "type": 11,
+   "heading": "Artigo 53.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "901660810": {
+   "fragment_id": "876045145",
+   "type": 11,
+   "heading": "Artigo 4.º — Acordos de cooperação",
+   "in_force_from": "2024-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 77.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Acordos de cooperação\n\n1 - No âmbito da cooperação a que se refere a alínea a) do artigo anterior, os acordos podem ser celebrados na realização de investimentos ou de outras despesas públicas, nos seguintes domínios:\n\na) Equipamentos públicos;\n\nb) Cultura, tempos livres e desporto;\n\nc) Ação social;\n\nd) Proteção civil;\n\ne) Ambiente e salubridade;\n\nf) Aquisição, construção, reconstrução, reabilitação, requalificação ou reparação de edifícios sede de juntas de freguesia ou de associações de freguesias;\n\ng) Aquisição, construção, reconstrução, requalificação ou reparação de outros imóveis de juntas de freguesia ou de associações de freguesia;\n\nh) Mobiliário e equipamento destinado às sedes;\n\ni) Aquisição de viaturas ligeiras de mercadorias e de passageiros com lotação entre sete e nove lugares;\n\nj) Despesas com a organização ou com a participação em reuniões, colóquios e ações de formação;\n\nk) Despesas com consultoria e apoio técnico;\n\nl) Transição digital.\n\n2 - O disposto na alínea f) do número anterior não prejudica o regime previsto na alínea f) do n.º 1 do artigo 4.º do Decreto Legislativo Regional n.º 32/2002/A, de 8 de agosto, na sua redação atual.\n\n> Alterado pelo/a Artigo 77.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+  },
+  "876045265": {
+   "fragment_id": "876107212",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de julho de 2024.\n\nO Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.\n\nAssinado em Angra do Heroísmo em 1 de agosto de 2024.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n117982514"
+  }
+ }
+}

@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:516270:por
+title: Decreto n.º 44275
+short_title: null
+summary: Atribui ao Ministro do Ultramar a gerência do património da província do Estado da Índia e, bem assim, dos patrimónios
+  dos seus serviços autónomos, em substituição dos respectivos órgãos normais de gerência
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: '44275'
+official_date: null
+publication_date: '1962-04-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 80/1962, Série I de 1962-04-10
+  number: '80'
+  series: I
+  supplement: null
+  pages: 345 - 346
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/04/08000/03450346.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '516270'
+  dre_path: /dr/detalhe/decreto/44275-1962-516270
+  internal: pt:dre:516270:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/44275-1962-516270
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/44275-1962-516270
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-04-10T00:00:00Z'
+integrity:
+  source_sha256: 177c16d4b08ace17c1a79ff51439ad3d96de5433e1f44e6335adefae1accc4fa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-44275-516270.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 44275
+
+Tornando-se indispensável e urgente dar imediata execução ao n.º 2.º da base VIII da [Lei n.º 2112](https://diariodarepublica.pt/dr/detalhe/lei/2112-1962-518996), de 17 de Fevereiro de 1962;
+
+Tendo em vista o disposto na base X da [Lei n.º 2112](https://diariodarepublica.pt/dr/detalhe/lei/2112-1962-518996), de 17 de Fevereiro de 1962;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º Enquanto não forem estabelecidos em Lisboa os órgãos de Governo da província do Estado da Índia, nos termos da [Lei n.º 2112](https://diariodarepublica.pt/dr/detalhe/lei/2112-1962-518996), de 17 de Fevereiro de 1962, o Ministro do Ultramar assume a gerência do património do mesmo Estado e, bem assim, dos patrimónios dos seus serviços autónomos, em substituição dos respectivos órgãos normais de gerência.
+
+###### Art. 2.º Desde a ocupação dos territórios da província do Estado da Índia por tropas ou autoridades estrangeiras, e enquanto ela durar, fica suspenso o exercício da função emissora para os mesmos territórios pelo Banco Nacional Ultramarino, bem como os direitos e obrigações decorrentes, sem prejuízo, porém, do disposto no artigo 6.º do presente diploma.
+
+###### Art. 3.º Até ulterior resolução do Governo é proibido às instituições de crédito, directamente ou através dos seus correspondentes:
+
+a) Cumprir ou executar obrigações contraídas por dependências suas situadas nos territórios da província do Estado da Índia;
+
+b) Pagar o valor ou contravalor de cobranças realizadas pelas suas dependências situadas nos territórios da província do Estado da Índia, ainda que essas cobranças hajam sido contratadas na sede ou dependências situadas fora desses territórios ou através dos seus correspondentes;
+
+c) Remeter valores, documentos ou mercadorias, executar transferências ou ordens de pagamento, efectuar aberturas de crédito ou outras operações de crédito activas para os referidos territórios ou satisfazer letras, livranças, cheques e quaisquer outros títulos pagáveis nesses territórios, mesmo quando em cumprimento de obrigações já assumidas;
+
+d) Executar transferências, ordens de pagamento, saques ou outras operações que lhes sejam solicitadas dos mesmos territórios e para fora deles, a não ser contra o recebimento em escudos metropolitanos ou em moeda estrangeira, na sede ou nas dependências ou correspondentes em território não indiano, das quantias para tanto necessárias.
+
+###### Art. 4.º Em casos especiais de interesse público ou por motivo de equidade, devidamente justificados, o Governo, pelo Ministério das Finanças, ouvido o do Ultramar e com o seu parecer favorável, poderá autorizar a realização de qualquer dos actos ou operações a que se refere o artigo anterior.
+
+###### Art. 5.º Os valores, documentos ou mercadorias com destino aos territórios da província do Estado da Índia em poder de instituições de crédito ficam à guarda destas, sendo-lhes permitido proceder à venda das mercadorias por intermédio de corretores. O produto da venda, deduzidas as despesas feitas com essas mercadorias e o débito porventura existente para com o estabelecimento de crédito directamente relacionado com a sua aquisição, fica à ordem do proprietário das mercadorias.
+
+###### Art. 6.º A suspensão do exercício da função emissora e dos direitos e obrigações decorrentes, determinada no artigo 2.º do presente decreto, produzirá, em relação à província do Estado da Índia, os mesmos efeitos que produziria o termo legal ou contratual do privilégio da emissão, para o fim designado na cláusula 39.ª do contrato lavrado em 16 de Junho de 1953 ao abrigo do [Decreto-Lei n.º 39221](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39221-1953-643174), de 25 de Maio de 1953.
+
+§ 1.º Os bens de que trata a referida cláusula 39.ª serão depositados pelo Banco Nacional Ultramarino na Caixa Geral do Tesouro, mediante guia a processar pela Direcção-Geral da Fazenda Pública, no prazo que for fixado por despacho conjunto dos Ministros das Finanças e do Ultramar.
+
+§ 2.º Se o restabelecimento da soberania nacional na província do Estado da Índia ocorrer dentro do prazo fixado na cláusula 1.ª do mencionado contrato, os bens depositados pelo Banco Nacional Ultramarino ser-lhe-ão restituídos, para poder restabelecer o exercício da função emissora, com os direitos e obrigações decorrentes.
+
+§ 3.º Ressalvada a hipótese prevista no parágrafo anterior, depois de 31 de Dezembro de 1982 será dado destino definitivo à importância do depósito, ficando, no entretanto, os Ministérios das Finanças e do Ultramar autorizados, por despacho conjunto, a definir a aplicação que pode ser dada à mesma importância.
+
+###### Art. 7.º As dúvidas que a execução do presente decreto suscitar serão resolvidas por despacho conjunto dos Ministros das Finanças e do Ultramar.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 10 de Abril de 1962. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Adriano José Alves Moreira.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira.

@@ -1,0 +1,294 @@
+---
+schema_version: '1.0'
+id: pt:dre:897994599:por
+title: Decreto Regulamentar Regional n.º 34/2024/M
+short_title: null
+summary: Aprova a orgânica da Direção Regional dos Arquivos, das Bibliotecas e do Livro.
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 34/2024/M
+official_date: null
+publication_date: '2024-11-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 230/2024, Série I de 2024-11-27
+  number: '230'
+  series: I
+  supplement: null
+  pages: 20 - 25
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/11/23000/0002000025.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/34/2024/11/27/m/dre/pt/html
+  oj: null
+  dre: '897994599'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/34-2024-897994599
+  internal: pt:dre:897994599:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2024-897994599
+  metadata_url: https://data.dre.pt/eli/decregulreg/34/2024/11/27/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/34-2024-897994599
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-09-26T00:00:00Z'
+integrity:
+  source_sha256: 665815c0f6cd972b81fcbb3fca4a54cd29d18dfef48e85540b452f01c3cc1b06
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2024/DRE-2024-34-897994599.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquivo Regional da Madeira
+- Pessoal Dirigente
+- Diretor Regional
+- Orgânica
+- Madeira.região Autónoma
+- SECRETARIA REGIONAL DA ECONOMIA TURISMO E CULTURA
+- Direção Regional dos Arquivos das Bibliotecas e do Livro
+relationships:
+- type: amended_by
+  target: pt:dre:936698800:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/decle
+  label: null
+  source: http://data.dre.pt/eli/decle
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declrectif/1/2008/01/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/declrectif/1/2008/01/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/22/2024/10/10/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/22/2024/10/10/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/27/2020/04/27/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/27/2020/04/27/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 10
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 34/2024/M
+
+Aprova a orgânica da Direção Regional dos Arquivos, das Bibliotecas e do Livro
+
+O [Decreto Regulamentar Regional n.º 22/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2024-890505015), de 10 de outubro, aprovou a orgânica da Secretaria Regional de Economia, Turismo e Cultura, a qual, nos termos da alínea f) do n.º 1 do respetivo artigo 7.º, integra na sua estrutura a Direção Regional dos Arquivos, das Bibliotecas e do Livro (DRABL), serviço da administração direta da Região Autónoma da Madeira.
+
+Tal como decorre do preâmbulo do mencionado diploma e do artigo 22.º do mesmo, a DRABL sucede, para todos os efeitos legais, à anterior Direção Regional do Arquivo e Biblioteca da Madeira, cuja orgânica foi aprovada pelo [Decreto Regulamentar Regional n.º 27/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2020-132514390), de 27 de abril.
+
+A DRABL compreende o Arquivo e Biblioteca da Madeira, no contexto do qual se operacionalizam funções de arquivo regional e de biblioteca pública regional, e o Centro de Estudos de História do Atlântico - Alberto Vieira, que assume funções de unidade de investigação histórica.
+
+À DRABL são cometidas atribuições nas áreas dos arquivos e do património arquivístico, das bibliotecas, do livro e da leitura, e da investigação científica no âmbito da história insular e atlântica.
+
+Assim, nos termos da alínea f) do n.º 1 do artigo 7.º, dos artigos 17.º, 22.º e 26.º do [Decreto Regulamentar Regional n.º 22/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2024-890505015), de 10 de outubro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas Leis n.<sup>os</sup> [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, retificado pela [Declaração de Retificação n.º 1/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2008-386779), de 4 de janeiro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho, o Governo Regional da Madeira decreta o seguinte:
+
+### CAPÍTULO I — NATUREZA, MISSÃO, ATRIBUIÇÕES E ÓRGÃOS
+
+###### Artigo 1.º — Natureza
+
+A Direção Regional dos Arquivos, das Bibliotecas e do Livro, abreviadamente designada por DRABL, é o serviço da administração direta da Região Autónoma da Madeira (RAM), integrado na Secretaria Regional de Economia, Turismo e Cultura (SRETC), a que se refere a alínea f) do n.º 1 do artigo 7.º do [Decreto Regulamentar Regional n.º 22/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2024-890505015), de 10 de outubro.
+
+###### Artigo 2.º — Missão
+
+A DRABL é um serviço executivo da SRETC que tem por missão a salvaguarda e a divulgação do património documental e bibliográfico da Região Autónoma da Madeira, assegurar a memória contínua da sua administração, incentivar a difusão do livro e da leitura e promover o conhecimento e a investigação científica sobre a história da Região no quadro do espaço atlântico.
+
+###### Artigo 3.º — Órgão de gestão dos arquivos
+
+A DRABL, no quadro das suas atribuições enquanto arquivo regional, é o órgão de gestão dos arquivos da RAM, nos termos e para os efeitos previstos no [Decreto Legislativo Regional n.º 9/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1998-524042), de 22 de maio.
+
+###### Artigo 4.º — Atribuições
+
+Na prossecução da sua missão, são atribuições da DRABL:
+
+a) Assegurar a integração, a proteção e a valorização do património documental regional enquanto garante da memória, da cultura e da identidade coletiva madeirenses;
+
+b) Contribuir para a definição de políticas e estratégias no âmbito da difusão do livro e da leitura na Região e promover medidas e iniciativas que favoreçam a literacia e o acesso à cultura de forma equilibrada em todo o território insular;
+
+c) Promover e produzir, através do Centro de Estudos de História do Atlântico - Alberto Vieira, investigação científica sobre a história da Madeira no quadro do espaço atlântico;
+
+d) Executar a política arquivística regional e coordenar o sistema regional de arquivos, na qualidade de órgão de gestão dos arquivos da Região, bem como assegurar, em articulação com as entidades competentes, a cooperação nacional no domínio arquivístico;
+
+e) Superintender técnica e normativamente na conservação, preservação, restauro, tratamento, comunicabilidade e divulgação do acervo documental de que é depositária;
+
+f) Reforçar a digitalização do acervo mantido à sua guarda no Arquivo e Biblioteca da Madeira, no quadro de uma estratégia integrada de preservação digital, e garantir a gestão eficiente, a segurança e a acessibilidade do acervo digital;
+
+g) Promover a qualidade dos arquivos enquanto recurso indispensável ao exercício da atividade administrativa e veículo de uma relação eficiente e transparente com o cidadão;
+
+h) Incorporar obrigatoriamente a documentação dos serviços do Governo Regional e das autarquias locais da RAM, das conservatórias dos registos e do notariado, dos tribunais, dos serviços estatais cessantes e a demais prescrita por disposição legal, e promover outras aquisições de património arquivístico de valor informativo relevante;
+
+i) Contribuir para a preservação dos sistemas de informação públicos, independentemente do seu tipo de suporte, e promover a adoção de planos de preservação digital nos órgãos da administração regional, em articulação com iniciativas e medidas no âmbito da modernização administrativa e da transição digital da administração;
+
+j) Aceitar, em nome da RAM, doações, heranças, legados, dações, depósitos, permutas e reintegrações de documentação de valor histórico e cultural reconhecido;
+
+k) Assegurar a proteção e salvaguarda de património documental regional em risco, promover a classificação de bens arquivísticos e bibliográficos e exercer, em representação da RAM, o direito de preferência na alienação de espécies documentais valiosas ou de interesse histórico-cultural, especialmente aquelas com relevância para a história da Madeira;
+
+l) Lançar averbamentos e assegurar a emissão de certidões requeridas nos termos legais;
+
+m) Assegurar o serviço de leitura pública e de referência geral do património arquivístico e bibliográfico à sua guarda;
+
+n) Exercer, em representação da RAM, os demais direitos patrimoniais relativos ao acervo de que é depositária;
+
+o) Proceder ao tratamento arquivístico da documentação à sua guarda e elaborar os respetivos instrumentos de descrição e pesquisa, promovendo o acesso eficiente aos fundos documentais de que é depositária;
+
+p) Prestar serviços de consultoria e apoio técnico no âmbito da gestão de arquivos, independentemente do formato, suporte ou idade dos documentos;
+
+q) Coordenar e gerir a Rede Regional de Bibliotecas Públicas e o catálogo coletivo de Bibliotecas da Madeira e contribuir para a valorização, a qualidade e a diferenciação da oferta de serviços das bibliotecas municipais na Região, em articulação com as autarquias, às quais compete a gestão e tutela desses equipamentos;
+
+r) Facultar o acesso da população aos diversos suportes de informação bibliográfica (impressos, audiovisuais, multimédia, eletrónicos e digitais) através de repositórios em linha, da consulta local e do empréstimo domiciliário;
+
+s) Garantir o ingresso e a conservação do depósito legal de publicações no Arquivo e Biblioteca da Madeira, assim como de outros acervos bibliográficos adquiridos noutras modalidades, designadamente compra, doação e permuta;
+
+t) Registar, catalogar, conservar e difundir as espécies bibliográficas mantidas no Arquivo e Biblioteca da Madeira e colaborar com as bibliotecas públicas da RAM no que concerne à uniformização e controlo de qualidade da respetiva informação bibliográfica disseminada através do catálogo coletivo de bibliotecas da Madeira;
+
+u) Observar os princípios do manifesto da UNESCO para as bibliotecas públicas;
+
+v) Promover o autor e a literatura madeirenses no âmbito de uma política regional para o livro e a leitura;
+
+w) Facultar um serviço de apoio a bibliotecas escolares, bem como prestar apoio técnico e logístico, ou outro, às diversas bibliotecas da RAM que o solicitem;
+
+x) Assegurar a cooperação com a Biblioteca Nacional de Portugal, contribuindo para o enriquecimento dos catálogos coletivos regional e nacional;
+
+y) Desenvolver ações e iniciativas em contexto de serviços educativos e de mediação e extensão cultural, disponibilizando informação e conteúdos para diversos públicos e quadros geracionais;
+
+z) Promover a divulgação, o conhecimento e a fruição, junto de públicos diferenciados, do património arquivístico e bibliográfico e de informação relativa à história da Região, privilegiando, para tal efeito, iniciativas de natureza expositiva e a disseminação de conteúdos digitais através de plataformas, canais virtuais e meios tecnológicos;
+
+aa) Promover encontros científicos sobre temáticas associadas à história, cultura e património insulares;
+
+bb) Realizar atividade editorial no âmbito da divulgação do património documental de que é depositária, das atividades de investigação científica desenvolvida no domínio da história insular e da promoção do livro e da leitura;
+
+cc) Executar as demais ações previstas na lei ou regulamentação nas áreas dos arquivos e bibliotecas.
+
+###### Artigo 5.º — Diretor Regional
+
+1 - A DRABL é dirigida pelo diretor regional dos Arquivos, das Bibliotecas e do Livro, adiante designado, abreviadamente, por diretor regional, cargo de direção superior de 1.º grau.
+
+2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que lhe sejam delegadas ou subdelegadas, compete, designadamente, ao diretor regional:
+
+a) Representar a DRABL;
+
+b) Coadjuvar o Secretário Regional na definição e execução da política regional no domínio dos arquivos, das bibliotecas e do livro e leitura;
+
+c) Promover a execução da política e a prossecução dos objetivos definidos pelo Governo Regional para a valorização do património arquivístico, documental e bibliográfico;
+
+d) Exercer, por inerência ou em representação da DRABL, o desempenho de funções em conselhos consultivos, comissões ou outros órgãos colegiais no âmbito das suas atribuições;
+
+e) Coordenar e dirigir os serviços da DRABL;
+
+f) Executar tudo o mais que lhe for expressamente cometido por diploma regional ou por instrumento contratual;
+
+g) Exercer as competências que lhe são conferidas no Estatuto do Pessoal Dirigente ou que decorra do normal desempenho das suas funções.
+
+3 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências em titulares de cargos de direção.
+
+4 - O diretor regional é substituído nas suas ausências, faltas e impedimentos por um titular de cargo de direção intermédia de 1.º grau a designar.
+
+### CAPÍTULO II — ESTRUTURA E FUNCIONAMENTO GERAL
+
+###### Artigo 6.º — Organização interna
+
+A organização interna da DRABL obedece ao modelo de estrutura hierarquizada, compreendendo unidades orgânicas nucleares e flexíveis e secções ou áreas de coordenação, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, retificado pela [Declaração de Retificação n.º 1/2008](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-2008-386779), de 4 de janeiro, alterado pelos Decretos Legislativos Regionais n.<sup>os</sup>[24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, e [6/2024/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), de 29 de julho.
+
+###### Artigo 7.º — Dotação de cargos de direção
+
+A dotação de cargos de direção superior e intermédia de 1.º grau consta dos mapas anexos ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 8.º — Receitas e despesas
+
+1 - A DRABL dispõe das receitas provenientes das dotações que lhe forem atribuídas no Orçamento da Região Autónoma da Madeira.
+
+2 - Constituem despesas da DRABL as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+### CAPÍTULO III — DISPOSIÇÕES FINAIS E TRANSITÓRIAS
+
+###### Artigo 9.º — Norma transitória
+
+Até à entrada em vigor dos diplomas que aprovam a organização interna referida no artigo 6.º, mantém-se em vigor a Portaria n.º 369/2020, de 16 de julho, publicada no Jornal Oficial da Região Autónoma da Madeira (JORAM), 1.ª série, n.º 133, de 16 de julho, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas ali previstas.
+
+###### Artigo 10.º — Norma revogatória
+
+É revogado o [Decreto Regulamentar Regional n.º 27/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-2020-132514390), de 27 de abril.
+
+Aprovado em Conselho do Governo Regional em 14 de novembro de 2024.
+
+**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+
+**Assinado em 22 de novembro de 2024.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+## ANEXO I — Dotação de lugares dos dirigentes superiores a que se refere o artigo 7.º
+
+|  | Dotação de lugares |
+| --- | --- |
+| Cargos de direção superior de 1.º grau | 1 |
+
+## ANEXO II — Dotação de lugares dos dirigentes intermédios a que se refere o artigo 7.º
+
+|  | Dotação de lugares |
+| --- | --- |
+| Cargos de direção intermédia de 1.º grau | 6 |

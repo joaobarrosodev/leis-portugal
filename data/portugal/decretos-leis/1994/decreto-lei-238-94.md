@@ -1,0 +1,472 @@
+---
+schema_version: '1.0'
+id: pt:dre:585426:por
+title: Decreto-Lei n.º 238/94
+short_title: null
+summary: Estabelece o novo sistema de unidades de medida legais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Indústria e Energia
+proposing_entity: null
+official_number: 238/94
+official_date: null
+publication_date: '1994-09-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/1994, Série I-A de 1994-09-19
+  number: '217'
+  series: I
+  supplement: null
+  pages: 5610 - 5614
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/09/217a00/56105614.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-09-26'
+version_history:
+  file: decreto-lei-238-94.versoes.json
+  count: 5
+  source_lastmod: '2025-06-30'
+  versions:
+  - date: '1994-09-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1995-01-31'
+    amending: pt:dre:276223:por
+    amending_title: Declaração de Rectificação n.º 2/95
+    changes:
+    - Retifica Diploma
+    - Retifica Anexo
+  - date: '2002-11-27'
+    amending: pt:dre:448753:por
+    amending_title: Decreto-Lei n.º 254/2002
+    changes:
+    - Altera Artigo 2.º
+    - Altera Anexo
+  - date: '2010-12-08'
+    amending: pt:dre:306637:por
+    amending_title: Decreto-Lei n.º 128/2010
+    changes:
+    - Adita Artigo 7.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Anexo
+  - date: '2020-09-26'
+    amending: pt:dre:143741481:por
+    amending_title: Decreto-Lei n.º 76/2020
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/238/1994/p/cons/20200925/pt/html
+  oj: null
+  dre: '585426'
+  dre_path: /dr/detalhe/decreto-lei/238-1994-585426
+  internal: pt:dre:585426:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-1994-585426
+  metadata_url: https://data.dre.pt/eli/dec-lei/238/1994/p/cons/20200925/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-143853459
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-143853459
+  retrieved_at: '2026-10-22T13:31:10Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-30T00:00:00Z'
+integrity:
+  source_sha256: 2956105475bdaea1b9deadd1f6875bda290376ed0b14023d6190440854eeee11
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:31:10Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-238-94.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Multa
+- Metrologia
+- Contra-ordenação
+- Definição de Competências
+- Direcção Regional da Indústria e Energia
+- Fiscalização
+- Instituto Português da Qualidade
+- Sistema Internacional de Medidas
+relationships:
+- type: amended_by
+  target: pt:dre:276223:por
+  label: Retifica Diploma; Retifica Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-1995-276223
+  date: '1995-01-31'
+- type: amended_by
+  target: pt:dre:448753:por
+  label: Altera Artigo 2.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2002-448753
+  date: '2002-11-22'
+- type: amended_by
+  target: pt:dre:306637:por
+  label: Adita Artigo 7.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 6.º; Altera Artigo 7.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637
+  date: '2010-12-03'
+- type: amended_by
+  target: pt:dre:143741481:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481
+  date: '2020-09-25'
+- type: cites
+  target: celex:31980L0181
+  label: null
+  source: http://data.europa.eu/eli/dir/1980/181/oj
+- type: cites
+  target: celex:31985L0001
+  label: null
+  source: http://data.europa.eu/eli/dir/1985/1/oj
+- type: cites
+  target: celex:31989L0617
+  label: null
+  source: http://data.europa.eu/eli/dir/1989/617/oj
+article_structure:
+  article_count: 9
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:31:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 238/94
+
+Decreto-Lei n.º 238/94
+
+de 19 de Setembro
+
+Portugal adoptou o sistema métrico decimal em meados do século XIX, conquanto tenham continuado a subsistir as medidas aprovadas pela Lei de Almeirim de 26 de Janeiro de 1575, que em 1814 foram adaptadas ao sistema métrico.
+
+Após a adopção do sistema métrico, tendo por base o metro legal de França, pelo Decreto de 13 de Dezembro de 1852, Portugal acompanhou os progressos daquele sistema, encontrando-se entre os 17 Estados signatários da Convenção do Metro, assinada em Paris em 20 de Maio de 1875, Convenção esta que veio a ser ratificada pela Lei de 19 de Abril de 1876.
+
+Em 19 de Abril de 1911, são determinadas como padrões legais das unidades de comprimento e massa as cópias n.º 10 dos padrões protótipos aprovados pela 1.ª Conferência Geral de Pesos e Medidas (1889) e, em 20 de Abril de 1911, definido o quadro das medidas legais. Finalmente, a Lei n.º 1850, de 5 de Março de 1926, aprova a Convenção do Metro e o regulamento anexo, entretanto alterados pela 6.ª Conferência Geral de Pesos e Medidas (1921).
+
+Desde então o sistema evoluiu para o sistema internacional de unidades estabelecido na 11.ª Conferência Geral de Pesos e Medidas (1960) e este sofreu, por sua vez, várias alterações, que, contrariamente ao que os outros Estados membros foram sucessivamente fazendo, Portugal não integrou, muito embora se tenha mantido ininterruptamente Estado membro da Conferência Geral de Pesos e Medidas.
+
+Na sequência das resoluções da 19.ª Conferência Geral de Pesos e Medidas (1991) e em harmonia com as Directivas do Conselho n.os <a href="eurlex.asp?ano=1980&id=380L0181" title="Link para Directiva da Comunidade Europeia">80/181/CEE</a>, de 20 de Dezembro de 1979, <a href="eurlex.asp?ano=1985&id=385L0001" title="Link para Directiva da Comunidade Europeia">85/1/CEE</a>, de 18 de Dezembro de 1984, e <a href="eurlex.asp?ano=1989&id=389L0617" title="Link para Directiva da Comunidade Europeia">89/617/CEE</a>, de 27 de Novembro de 1989, impõe-se agora voltar a actualizar a legislação relativa a unidades de medida, sendo, naturalmente, conveniente fazê-lo num único diploma que condense todas as disposições pelas quais esta matéria se deve reger.
+
+A experiência existente determina que seja dado sentido prático à realização física das unidades de medida, o que se articula com os instrumentos já realizados e em curso no Laboratório Central de Metrologia do Instituto Português da Qualidade. Daí a oportunidade de cometer a este organismo do Ministério da Indústria e Energia a competência para aprovar os padrões legais.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 8/94, de 26 de Abril, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Sistema de unidades de medida legais
+
+1 - O sistema de unidades de medida legais, designado pela Conferência Geral de Pesos e Medidas (CGPM) como Sistema Internacional de Unidades (SI), é aplicável em todo o território nacional.
+
+2 - Os nomes, símbolos e definições das unidades, os prefixos e símbolos dos múltiplos e submúltiplos das mesmas unidades e as recomendações para a escrita e para a utilização dos símbolos, aprovados pela CGPM, constam do anexo ao presente decreto-lei, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637), em vigor a partir de 2010-12-08
+
+###### Artigo 2.º — Indicações suplementares
+
+1 - É permitida a utilização de indicações suplementares.
+
+2 - Entende-se que existe indicação suplementar quando uma indicação expressa numa unidade constante do anexo ao presente decreto-lei é acompanhada por uma ou mais indicações expressas noutras unidades.
+
+3 - A indicação expressa numa unidade de medida constante do anexo ao presente decreto-lei prevalece sobre as indicações suplementares.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637), em vigor a partir de 2010-12-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 254/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2002-448753), em vigor a partir de 2002-11-27
+
+###### Artigo 3.º — Utilização excepcional de outras unidades de medida
+
+1 - A utilização de unidades de medida consideradas não legais é autorizada:
+
+a) Para os produtos e equipamentos colocados no mercado ou em serviço em data anterior à entrada em vigor do presente decreto-lei;
+
+b) Para as peças e partes de produtos e equipamentos que completem ou substituam as peças e partes de produtos e equipamentos previstos na alínea anterior.
+
+2 - O disposto no número anterior não se aplica aos dispositivos indicadores dos instrumentos de medição, nos quais é obrigatória a utilização de unidades de medida legais.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637), em vigor a partir de 2010-12-08
+
+###### Artigo 4.º — Domínios abrangidos
+
+1 - O disposto nos artigos anteriores abrange os instrumentos de medição, as medições efectuadas e as unidades de grandeza expressas em unidades de medida, no circuito comercial, nos domínios da saúde, da segurança pública, do ensino e nas operações de natureza administrativa e fiscal.
+
+2 - O presente decreto-lei não afecta a utilização, no domínio da navegação aérea e marítima e do tráfego por via férrea, de unidades de medida diversas das unidades de medida legais, previstas por convenções ou acordos internacionais que vinculam a União Europeia ou Portugal.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637), em vigor a partir de 2010-12-08
+
+###### Artigo 5.º — Padrões das unidades de medida legais
+
+Compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), aprovar, de acordo com o estabelecido no presente decreto-lei, os padrões que realizam as unidades de medida legais.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637), em vigor a partir de 2010-12-08
+
+###### Artigo 6.º — Fiscalização
+
+1 - Compete à Autoridade de Segurança Alimentar e Económica (ASAE) fiscalizar o cumprimento do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+2 - Das infracções verificadas é levantado auto de notícia, nos termos das disposições aplicáveis.
+
+3 - A instrução dos processos de contra-ordenação compete à ASAE, a quem devem ser enviados os autos relativos a infracções verificadas por outras entidades.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637), em vigor a partir de 2010-12-08
+
+###### Artigo 7.º — Contra-ordenações
+
+1 - A utilização de unidades de medida não autorizadas, nos termos do artigo 3.º, constitui contra-ordenação punível com coima de (euro) 25 a (euro) 2500 se o infractor for uma pessoa singular e até (euro) 30 000 se for uma pessoa colectiva.
+
+2 - A aplicação da coima prevista no número anterior compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP).
+
+3 - O produto das coimas aplicadas reverte em:
+
+a) 60 % para o Estado;
+
+b) 15 % para a ASAE;
+
+c) 15 % para o IPQ, I. P.;
+
+d) 10 % para a CACMEP.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 128/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637), em vigor a partir de 2010-12-08
+
+###### Artigo 7.º-A — Regiões Autónomas
+
+Os actos e os procedimentos necessários à execução do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira competem às entidades das respectivas administrações regionais com atribuições e competências nas matérias em causa.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 128/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637), em vigor a partir de 2010-12-08
+
+###### Artigo 8.º — Revogações
+
+São revogados os Decretos-Leis n.os 427/83, de 7 de Dezembro, 320/84, de 1 de Outubro, e 222/88 e 223/88, de 28 de Junho.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+Visto e aprovado em Conselho de Ministros de 14 de Julho de 1994. - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Luís Fernando Mira Amaral.
+
+Promulgado em 16 de Agosto de 1994.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 22 de Agosto de 1994.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+## Anexo — Unidades de medida legais referidas no artigo 1.º
+
+1 - Unidades SI e seus múltiplos e submúltiplos:
+
+1.1 - Unidades de base do SI:
+
+[...]
+
+Definições das unidades de base do SI:
+
+Unidade de comprimento (metro):
+
+[...]
+
+Unidade de massa (quilograma):
+
+[...]
+
+Unidade de tempo (segundo):
+
+[...]
+
+Unidade de corrente eléctrica (ampere):
+
+[...]
+
+Unidade de temperatura termodinâmica (kelvin):
+
+O kelvin, unidade de temperatura termodinâmica, é a fracção 1/273,16 da temperatura termodinâmica do ponto triplo da água.
+
+Esta definição diz respeito à água com composição isotópica definida pelos seguintes rácios de quantidade de matéria: 0,000 155 76 mole de (elevado a 2)H por mole de (elevado a 1)H, 0,000 379 9 mole de (elevado a 17)O por mole de (elevado a 16)O e 0,002 005 2 mole de (elevado a 18)O por mole de (elevado a 16)O.
+
+(13.ª CGPM de 1967/68 - Resolução n.º 4 e 23.ª CGPM de 2007 - Resolução n.º 10.)
+
+Unidade de quantidade de matéria (mole):
+
+1) A mole é a quantidade de matéria de um sistema contendo tantas entidades elementares quantos os átomos que existem em 0,012 kg de carbono 12; o seu símbolo é «mol».
+
+2) Quando se utiliza a mole, as entidades elementares devem ser especificadas e podem ser átomos, moléculas, iões, electrões, outras partículas ou agrupamentos especificados de tais partículas.
+
+(14.ª CGPM de 1971 - Resolução n.º 3.)
+
+Unidade de intensidade luminosa (candela):
+
+A candela é a intensidade luminosa, numa dada direcção, de uma fonte que emite uma radiação monocromática de frequência 540 x 10(elevado a 12) Hz e cuja intensidade energética nessa direcção é 1/683 W por esterradiano.
+
+(16.ª CGPM de 1979 - Resolução n.º 3.)
+
+1.1.1 - Nome e símbolo especiais da unidade SI de temperatura no caso da temperatura Celsius:
+
+[...]
+
+A temperatura Celsius, de símbolo t, é definida pela diferença t = T- T(índice 0) entre duas temperaturas termodinâmicas T e T(índice 0) com T(índice 0) = 273,15 K, ponto de congelação da água. Um intervalo ou uma diferença de temperatura podem ser expressos quer em kelvin quer em grau Celsius. A unidade grau Celsius é igual à unidade kelvin.
+
+1.2 - Unidades SI derivadas:
+
+As unidades derivadas coerentes das unidades SI de base são dadas por expressões algébricas sob a forma de produtos de potência das unidades SI de base com um factor numérico igual a 1.
+
+1.2.1 - Unidades expressas a partir das unidades de base:
+
+(ver documento original)
+
+1.2.2 - Unidades com nomes e símbolos especiais:
+
+Os nomes especiais e os símbolos particulares atribuídos a determinadas unidades derivadas permitem exprimir numa forma condensada unidades frequentemente utilizadas.
+
+(ver documento original)
+
+1.2.3 - Exemplos de unidades derivadas do SI cujo nome e símbolo contêm unidades derivadas do SI com nomes e símbolos especiais:
+
+(ver documento original)
+
+1.2.4 - Unidades das grandezas sem dimensão ou de grandezas de dimensão unitária:
+
+Determinadas grandezas são definidas pela razão de duas grandezas da mesma natureza; têm uma dimensão que pode ser expressa pelo número um. A unidade associada a tais grandezas é uma unidade derivada coerente com as outras unidades do SI e, como resulta da relação de duas unidades SI idênticas, esta unidade pode ser expressa pelo número um. Assim, a unidade SI de todas as grandezas, cuja dimensão é um produto de dimensão igual a um, é o número um.
+
+1.3 - Prefixos e símbolos de prefixos para formar os nomes e símbolos dos múltiplos e submúltiplos decimais das unidades SI:
+
+(ver documento original)
+
+1.3.1 - Regra de escrita:
+
+Os nomes dos múltiplos e submúltiplos são formados pela simples junção do prefixo ao nome da unidade.
+
+1.3.1.1 - Excepção:
+
+Entre as unidades de base do SI, a unidade de massa é a única cujo nome, por razões históricas, contém um prefixo. Os nomes e os símbolos dos múltiplos e submúltiplos decimais da unidade de massa são formados pela junção dos prefixos à palavra «grama» e os símbolos correspondentes ao símbolo «g».
+
+1.4 - Nomes e símbolos especiais autorizados de unidades não SI:
+
+1.4.1 - Nomes e símbolos especiais autorizados de múltiplos e submúltiplos decimais das unidades SI:
+
+(ver documento original)
+
+1.4.2 - Nomes e símbolos especiais autorizados de múltiplos e submúltiplos não decimais das unidades SI:
+
+(ver documento original)
+
+1.4.3 - Unidades autorizadas cujo valor em unidades SI foi obtido experimentalmente:
+
+(ver documento original)
+
+1.4.4 - Outras unidades autorizadas para uso em domínios especializados:
+
+(ver documento original)
+
+1.5 - Regras para a escrita dos nomes e símbolos das unidades SI:
+
+Os símbolos das unidades são impressos em caracteres romanos (direitos). Em geral, os símbolos das unidades são escritos em minúsculas, mas, se o nome da unidade deriva de um nome próprio, a primeira letra do símbolo é maiúscula. O nome da unidade propriamente dita começa sempre por uma minúscula, salvo se se trata do primeiro nome de uma frase ou do nome «grau Celsius».
+
+a) Os símbolos das unidades ficam invariáveis no plural.
+
+b) Os símbolos das unidades não são seguidos de um ponto, salvo se estão no fim de uma frase e o ponto tem a função habitual da pontuação.
+
+c) Quando uma unidade derivada é formada pelo produto de duas ou mais unidades, o seu símbolo pode ser indicado com os símbolos das unidades separadas por pontos a meia altura ou por um espaço.
+
+Por exemplo: N m ou N . m
+
+d) Quando uma unidade derivada é formada dividindo uma unidade por outra, o seu símbolo pode ser indicado utilizando uma barra oblíqua (/), uma barra horizontal ou também expoentes negativos.
+
+Por exemplo: m/s ou m/s ou m . s(elevado a -1)
+
+e) Nunca deve ser utilizado na mesma linha mais de uma barra oblíqua, a menos que sejam adicionados parênteses, a fim de evitar qualquer ambiguidade. Em casos complicados, devem ser utilizados expoentes negativos ou parênteses.
+
+Por exemplo: m/s(elevado a 2) ou m . s(elevado a -2) mas não: m/s/s
+
+m . kg/(s(elevado a 3) . A) ou m . kg . s(elevado a -3) . A(elevado a -1) mas não: m . kg/s(elevado a 3)/A nem m . kg/s(elevado a 3) . A
+
+f) Os símbolos dos prefixos são impressos em caracteres romanos direitos, sem espaço entre o símbolo do prefixo e o símbolo da unidade.
+
+g) O conjunto formado pela junção do símbolo de um prefixo ao símbolo de uma unidade constitui um novo símbolo inseparável, que pode ser elevado a uma potência positiva ou negativa e que pode ser combinado com outros símbolos de unidades para formar símbolos de unidades compostas.
+
+Por exemplo:
+
+1 cm3 = (10(elevado a -2) m)(elevado a 3) = 10(elevado a -6) m3
+
+1 cm(elevado a -1) = (10(elevado a -2) m)(elevado a -1) = 10(elevado a 2) m(elevado a -1)
+
+1 (mi)s(elevado a -1) = (10(elevado a -6) s)(elevado a -1) = 10(elevado a 6) s(elevado a -1)
+
+1 V/cm = (1 V)/(10(elevado a -2) m) = 10(elevado a 2) V/m
+
+h) Não são empregues prefixos compostos, ou seja, formados pela justaposição de vários prefixos.
+
+Por exemplo:
+
+1 nm mas não: 1 m (mi)m
+
+Um prefixo não pode ser usado sem uma unidade a que se refira.
+
+Por exemplo: 10(elevado a 6)/m3 mas não: M/m3
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 254/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2002-448753) O quadro previsto no n.º 1.3 do presente anexo é substituído pelo quadro previsto no Decreto-Lei n.º 254/2002.
+
+> Nota: [Declaração de Rectificação n.º 2/95 - Diário da República n.º 26/1995, 1º Suplemento, Série I-A de 1995-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-1995-276223) No presente anexo, no n.º 1.2.3, quadro, na col. «Em unidades SI de base ou suplementares», nas l. 2, 3 e 4, onde se lê: «S - 1 m. kg. S(elevado a -2) m. kg. s(elevado a -2)» deve ler-se: «s(elevado a -1) m. kg. s(elevado a -2) m2. kg. s(elevado a -2)» na última linha, onde se lê «m2. s(elevado a -8)» deve ler-se «m2. s(elevado a -2)» e na col. «Grandeza» do mesmo quadro, onde se lê: «[...] Fluxo de indução magnético. [...] Actividades (raios ionizantes). [...]» deve ler-se: «[...] Fluxo de indução magnética. [...] Actividade. [...]» Na l. 7, onde se lê «M(elevado a -1). kg. s(elevado a -1), ou N. s. m2» deve ler-se «m(elevado a -1). kg. s(elevado a -1), ou N. s. m(elevado a -2)». No n.º 1.3, quadro, na última coluna, «Símbolo», onde se lê «(eta)» deve ler-se «(ni)». No n.º 2, na última coluna, «Valor», onde se lê «(pi)» deve ler-se «(Pi)» e na l. 3, onde se lê «(pi)/648800» deve ler-se (Pi)/648000».
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 128/2010 - Diário da República n.º 234/2010, Série I de 2010-12-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2010-306637), em vigor a partir de 2010-12-08
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 254/2002 - Diário da República n.º 270/2002, Série I-A de 2002-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-2002-448753), em vigor a partir de 2002-11-27
+
+> Retificado pelo/a [Declaração de Rectificação n.º 2/95 - Diário da República n.º 26/1995, 1º Suplemento, Série I-A de 1995-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-1995-276223), em vigor a partir de 1995-01-31

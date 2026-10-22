@@ -1,0 +1,157 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:151914:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-895548033",
+ "dre_path": "/dr/detalhe/decreto-lei/184-1985-151914",
+ "source_lastmod": "2024-11-05",
+ "versions": [
+  {
+   "date": "1985-05-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "895942086",
+    "895588515",
+    "895588516"
+   ]
+  },
+  {
+   "date": "1985-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:431017:por",
+     "title": "Declaração",
+     "published": "1985-06-29",
+     "dre_path": "/dr/detalhe/declaracao/1985-431017"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º",
+    "Retifica Artigo 2.º"
+   ],
+   "fragments": [
+    "895588514",
+    "895613886",
+    "895613887",
+    "895588518"
+   ]
+  },
+  {
+   "date": "2001-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:314190:por",
+     "title": "Decreto-Lei n.º 156/2001",
+     "published": "2001-05-11",
+     "dre_path": "/dr/detalhe/decreto-lei/156-2001-314190"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "895942086",
+    "895942087",
+    "895942088",
+    "895942089"
+   ]
+  }
+ ],
+ "fragments": {
+  "895942086": {
+   "fragment_id": "895548034",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2001-05-16",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 184/85\n\nde 28 de Maio\n\nO Decreto-Lei n.º 233/83, de 30 de Maio, actualizou a estrutura e composição do conselho administrativo dos cofres do Ministério da justiça, alterando, nesse aspecto, o sistema do artigo 3.º do Decreto-Lei n.º 35483, de 2 de Fevereiro de 1946, na redacção do Decreto-Lei n.º 37353, de 26 de Março de 1949. Com efeito, passaram a fazer parte, além dos três membros anteriormente previstos, o procurador-geral da República, o secretário-geral do Ministério e o director-geral dos Serviços Judiciários.\n\nEntretanto, no tocante ao elenco de funções do conselho, limitou-se o Decreto-Lei n.º 233/83 a reproduzir, no essencial, o texto do Decreto-Lei n.º 35483, na redacção do Decreto-Lei n.º 37353.\n\nOra, entre um e outro intercalou-se o Decreto-Lei n.º 104/80, de 10 de Maio, que, dando resposta formal a uma já verificada realidade, criou no Ministério da justiça o Gabinete de Gestão Financeira, cometendo-lhe expressamente as funções de, na dependência do Ministro, gerir e administrar os cofres.\n\nHaverá, pois, vantagem em melhor caracterizar as tarefas que cabem a cada um dos órgãos: o conselho administrativo dos cofres e o Gabinete de Gestão Financeira.\n\nCerto é que, funcionando ambos os cofres «sob uma administração comum, directamente subordinada ao Ministro da Justiça» (artigo 2.º do Decreto-Lei n.º 35483), as dúvidas eventualmente surgidas poderiam ser resolvidas por despacho do próprio Ministro (artigo 6.º do Decreto-Lei n.º 104/80).\n\nDá-se, porém, o caso de haver também vantagem em tornar mais realístico o sistema de funcionamento do conselho administrativo dos cofres por forma que ele exerça uma acção efectiva e continuada. Ora, ao manter o seu regime de reuniões ordinárias quinzenais, o Decreto-Lei n.º 233/83 não atentou devidamente no tipo de atribuições para que ele foi vocacionado, ou seja, as de fiscalização da actividade do Gabinete de Gestão Financeira na administração dos cofres, na dependência do Ministro, e as de consulta deste, na mesma área.\n\nÚtil será, pois, clarificar e tornar mais produtivo o sistema existente, não apenas interpretando-o por forma autêntica como melhorando-o no que toca ao regime de reuniões do conselho administrativo.\n\nPor outro lado, importa conferir a este meios de apoio, sempre no sentido de tornar a sua intervenção efectiva e eficaz.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição o seguinte:"
+  },
+  "895588515": {
+   "fragment_id": "895548035",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 1.º e 2.º do Decreto-Lei n.º 104/80, de 10 de Maio, passam a ter a seguinte redacção:\n\nArtigo 1.º O Gabinete de Gestão Financeira do Ministério da Justiça é o órgão do mesmo Ministério ao qual, na dependência do Ministro e com a fiscalização de um conselho administrativo, cabe administrar as receitas do Cofre Geral dos Tribunais, do Cofre Geral dos Conservadores, Notários e Funcionários de Justiça e dos Serviços Sociais do Ministério da Justiça, além das outras receitas próprias dos serviços.\n\nArt. 2.º São atribuições do Gabinete referido no artigo anterior, designadamente:\n\na) Arrecadar e administrar as receitas do Cofre Geral dos Tribunais, do Cofre dos Conservadores, Notários e Funcionários de Justiça, dos Serviços Sociais do Ministério da justiça e ainda, por integração no Cofre Geral dos Tribunais, as receitas próprias dos serviços dependentes do Ministério da Justiça, podendo expedir para as entidades responsáveis pela cobrança das receitas e pagamento dos encargos, sob a orientação do Ministro, as instruções adequadas à boa execução dessas actividades;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) Autorizar e promover obras urgentes de conservação ou remodelação dos móveis e imóveis afectos aos serviços dependentes do Ministério da Justiça, com a limitação de custos que o Ministro fixar e sob a orientação deste."
+  },
+  "895588516": {
+   "fragment_id": "895548036",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 233/83, de 30 de Maio, passam a ter a seguinte redacção:\n\nArtigo 1.º\n\n(Composição)\n\nO conselho administrativo do Cofre dos Conservadores, Notários e Funcionários de justiça e do Cofre Geral dos Tribunais, previsto no artigo 3.º do Decreto-Lei n.º 35483, de 2 de Fevereiro de 1946, com a redacção do Decreto-Lei n.º 37353, de 26 de Março de 1949, é constituído pelo Presidente do Supremo Tribunal de Justiça, que a ele preside, pelo procurador-geral da República, que é o vice-presidente, pelo secretário-geral do Ministério da Justiça, pelos directores-gerais dos Serviços Judiciários e dos Registos e do Notariado e pelo director do Gabinete de Gestão Financeira do Ministério da Justiça.\n\nArtigo 2.º\n\n(Competência)\n\nCompete ao conselho administrativo:\n\na) Dar parecer sobre a política geral de actuação do Gabinete de Gestão Financeira do Ministério da Justiça definida pelo Ministro e fiscalizar a mesma actuação;\n\nb) Pronunciar-se sobre os orçamentos e contas de gerência elaborados pelo Gabinete de Gestão Financeira, submetendo-os à aprovação do Ministro da Justiça;\n\nc) Apreciar e dar parecer sobre o plano financeiro e sobre o relatório anual de actividades do Gabinete de Gestão Financeira;\n\nd) Propor, fundamentalmente, ao Ministro da Justiça as providências que repute adequadas em matéria de gestão financeira.\n\nArtigo 3.º\n\n(Funcionamento)\n\n1 - O conselho administrativo reunir-se-á ordinariamente de 2 em 2 meses e extraordinariamente quando o seu presidente o julgar necessário.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - O apoio técnico e administrativo do conselho será assegurado pela Secretaria-Geral do Ministério da Justiça ou pelo Gabinete de Gestão Financeira, conforme for proposto pelo conselho e aprovado pelo Ministro."
+  },
+  "895588514": {
+   "fragment_id": "895548034",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 184/85\n\nde 28 de Maio\n\nO Decreto-Lei n.º 233/83, de 30 de Maio, actualizou a estrutura e composição do conselho administrativo dos cofres do Ministério da justiça, alterando, nesse aspecto, o sistema do artigo 3.º do Decreto-Lei n.º 35483, de 2 de Fevereiro de 1946, na redacção do Decreto-Lei n.º 37353, de 26 de Março de 1949. Com efeito, passaram a fazer parte, além dos três membros anteriormente previstos, o procurador-geral da República, o secretário-geral do Ministério e o director-geral dos Serviços Judiciários.\n\nEntretanto, no tocante ao elenco de funções do conselho, limitou-se o Decreto-Lei n.º 233/83 a reproduzir, no essencial, o texto do Decreto-Lei n.º 35483, na redacção do Decreto-Lei n.º 37353.\n\nOra, entre um e outro intercalou-se o Decreto-Lei n.º 104/80, de 10 de Maio, que, dando resposta formal a uma já verificada realidade, criou no Ministério da justiça o Gabinete de Gestão Financeira, cometendo-lhe expressamente as funções de, na dependência do Ministro, gerir e administrar os cofres.\n\nHaverá, pois, vantagem em melhor caracterizar as tarefas que cabem a cada um dos órgãos: o conselho administrativo dos cofres e o Gabinete de Gestão Financeira.\n\nCerto é que, funcionando ambos os cofres «sob uma administração comum, directamente subordinada ao Ministro da Justiça» (artigo 2.º do Decreto-Lei n.º 35483), as dúvidas eventualmente surgidas poderiam ser resolvidas por despacho do próprio Ministro (artigo 6.º do Decreto-Lei n.º 104/80).\n\nDá-se, porém, o caso de haver também vantagem em tornar mais realístico o sistema de funcionamento do conselho administrativo dos cofres por forma que ele exerça uma acção efectiva e continuada. Ora, ao manter o seu regime de reuniões ordinárias quinzenais, o Decreto-Lei n.º 233/83 não atentou devidamente no tipo de atribuições para que ele foi vocacionado, ou seja, as de fiscalização da actividade do Gabinete de Gestão Financeira na administração dos cofres, na dependência do Ministro, e as de consulta deste, na mesma área.\n\nÚtil será, pois, clarificar e tornar mais produtivo o sistema existente, não apenas interpretando-o por forma autêntica como melhorando-o no que toca ao regime de reuniões do conselho administrativo.\n\nPor outro lado, importa conferir a este meios de apoio, sempre no sentido de tornar a sua intervenção efectiva e eficaz.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição o seguinte:"
+  },
+  "895613886": {
+   "fragment_id": "895548035",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1985-06-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29"
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 1.º e 2.º do Decreto-Lei n.º 104/80, de 10 de Maio, passam a ter a seguinte redacção:\n\nArtigo 1.º O Gabinete de Gestão Financeira do Ministério da Justiça é o órgão do mesmo Ministério ao qual, na dependência do Ministro e com a fiscalização de um conselho administrativo, cabe administrar as receitas do Cofre Geral dos Tribunais, do Cofre dos Conservadores, Notários e Funcionários de Justiça e dos Serviços Sociais do Ministério da Justiça, além das outras receitas próprias dos serviços.\n\nArt. 2.º São atribuições do Gabinete referido no artigo anterior, designadamente:\n\na) Arrecadar e administrar as receitas do Cofre Geral dos Tribunais, do Cofre dos Conservadores, Notários e Funcionários de Justiça, dos Serviços Sociais do Ministério da justiça e ainda, por integração no Cofre Geral dos Tribunais, as receitas próprias dos serviços dependentes do Ministério da Justiça, podendo expedir para as entidades responsáveis pela cobrança das receitas e pagamento dos encargos, sob a orientação do Ministro, as instruções adequadas à boa execução dessas actividades;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) Autorizar e promover obras urgentes de conservação ou remodelação dos móveis e imóveis afectos aos serviços dependentes do Ministério da Justiça, com a limitação de custos que o Ministro fixar e sob a orientação deste.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29"
+  },
+  "895613887": {
+   "fragment_id": "895548036",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1985-06-29",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 233/83, de 30 de Maio, passam a ter a seguinte redacção:\n\nArtigo 1.º\n\n(Composição)\n\nO conselho administrativo do Cofre dos Conservadores, Notários e Funcionários de justiça e do Cofre Geral dos Tribunais, previsto no artigo 3.º do Decreto-Lei n.º 35483, de 2 de Fevereiro de 1946, com a redacção do Decreto-Lei n.º 37353, de 26 de Março de 1949, é constituído pelo Presidente do Supremo Tribunal de Justiça, que a ele preside, pelo procurador-geral da República, que é o vice-presidente, pelo secretário-geral do Ministério da Justiça, pelos directores-gerais dos Serviços Judiciários, dos Registos e do Notariado e do Gabinete de Gestão Financeira do Ministério da Justiça.\n\nArtigo 2.º\n\n(Competência)\n\nCompete ao conselho administrativo:\n\na) Dar parecer sobre a política geral de actuação do Gabinete de Gestão Financeira do Ministério da Justiça definida pelo Ministro e fiscalizar a mesma actuação;\n\nb) Pronunciar-se sobre os orçamentos e contas de gerência elaborados pelo Gabinete de Gestão Financeira, submetendo-os à aprovação do Ministro da Justiça;\n\nc) Apreciar e dar parecer sobre o plano financeiro e sobre o relatório anual de actividades do Gabinete de Gestão Financeira;\n\nd) Propor, fundamentadamente, ao Ministro da Justiça as providências que repute adequadas em matéria de gestão financeira.\n\nArtigo 3.º\n\n(Funcionamento)\n\n1 - O conselho administrativo reunir-se-á ordinariamente de 2 em 2 meses e extraordinariamente quando o seu presidente o julgar necessário.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - O apoio técnico e administrativo do conselho será assegurado pela Secretaria-Geral do Ministério da Justiça ou pelo Gabinete de Gestão Financeira, conforme for proposto pelo conselho e aprovado pelo Ministro.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29"
+  },
+  "895588518": {
+   "fragment_id": "895548038",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.\n\nPromulgado em 20 de Maio de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 21 de Maio de 1985.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "895942087": {
+   "fragment_id": "895548035",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16",
+    "Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29"
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 1.º e 2.º do Decreto-Lei n.º 104/80, de 10 de Maio, passam a ter a seguinte redacção:\n\nArtigo 1.º O Gabinete de Gestão Financeira do Ministério da Justiça é o órgão do mesmo Ministério ao qual, na dependência do Ministro e com a fiscalização de um conselho administrativo, cabe administrar as receitas do Cofre Geral dos Tribunais, do Cofre dos Conservadores, Notários e Funcionários de Justiça e dos Serviços Sociais do Ministério da Justiça, além das outras receitas próprias dos serviços.\n\nArt. 2.º São atribuições do Gabinete referido no artigo anterior, designadamente:\n\na) Arrecadar e administrar as receitas do Cofre Geral dos Tribunais, do Cofre dos Conservadores, Notários e Funcionários de Justiça, dos Serviços Sociais do Ministério da justiça e ainda, por integração no Cofre Geral dos Tribunais, as receitas próprias dos serviços dependentes do Ministério da Justiça, podendo expedir para as entidades responsáveis pela cobrança das receitas e pagamento dos encargos, sob a orientação do Ministro, as instruções adequadas à boa execução dessas actividades;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) Autorizar e promover obras urgentes de conservação ou remodelação dos móveis e imóveis afectos aos serviços dependentes do Ministério da Justiça, com a limitação de custos que o Ministro fixar e sob a orientação deste.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16\n\n> Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29"
+  },
+  "895942088": {
+   "fragment_id": "895548036",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16",
+    "Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs artigos 1.º, 2.º e 3.º do Decreto-Lei n.º 233/83, de 30 de Maio, passam a ter a seguinte redacção:\n\nArtigo 1.º\n\n(Composição)\n\nO conselho administrativo do Cofre dos Conservadores, Notários e Funcionários de justiça e do Cofre Geral dos Tribunais, previsto no artigo 3.º do Decreto-Lei n.º 35483, de 2 de Fevereiro de 1946, com a redacção do Decreto-Lei n.º 37353, de 26 de Março de 1949, é constituído pelo Presidente do Supremo Tribunal de Justiça, que a ele preside, pelo procurador-geral da República, que é o vice-presidente, pelo secretário-geral do Ministério da Justiça, pelos directores-gerais dos Serviços Judiciários, dos Registos e do Notariado e do Gabinete de Gestão Financeira do Ministério da Justiça.\n\nArtigo 2.º\n\n(Competência)\n\nCompete ao conselho administrativo:\n\na) Dar parecer sobre a política geral de actuação do Gabinete de Gestão Financeira do Ministério da Justiça definida pelo Ministro e fiscalizar a mesma actuação;\n\nb) Pronunciar-se sobre os orçamentos e contas de gerência elaborados pelo Gabinete de Gestão Financeira, submetendo-os à aprovação do Ministro da Justiça;\n\nc) Apreciar e dar parecer sobre o plano financeiro e sobre o relatório anual de actividades do Gabinete de Gestão Financeira;\n\nd) Propor, fundamentadamente, ao Ministro da Justiça as providências que repute adequadas em matéria de gestão financeira.\n\nArtigo 3.º\n\n(Funcionamento)\n\n1 - O conselho administrativo reunir-se-á ordinariamente de 2 em 2 meses e extraordinariamente quando o seu presidente o julgar necessário.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - O apoio técnico e administrativo do conselho será assegurado pela Secretaria-Geral do Ministério da Justiça ou pelo Gabinete de Gestão Financeira, conforme for proposto pelo conselho e aprovado pelo Ministro.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16\n\n> Retificado pelo/a [Declaração - Diário da República n.º 147/1985, 1º Suplemento, Série I de 1985-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1985-431017), em vigor a partir de 1985-06-29"
+  },
+  "895942089": {
+   "fragment_id": "895548038",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2001-05-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Maio de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo - Ernâni Rodrigues Lopes.\n\nPromulgado em 20 de Maio de 1985.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 21 de Maio de 1985.\n\nO Primeiro-Ministro, Mário Soares.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 156/2001 - Diário da República n.º 109/2001, Série I-A de 2001-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2001-314190), em vigor a partir de 2001-05-16"
+  }
+ }
+}

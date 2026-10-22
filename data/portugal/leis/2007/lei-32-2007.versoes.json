@@ -1,0 +1,820 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:636956:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2007-70048101",
+ "dre_path": "/dr/detalhe/lei/32-2007-636956",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-08-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70048198",
+    "70048199",
+    "70048200",
+    "70048201",
+    "70048202",
+    "70048203",
+    "70048204",
+    "70048205",
+    "70048206",
+    "70048207",
+    "70048208",
+    "70048209",
+    "70048210",
+    "70048211",
+    "70048212",
+    "70048213",
+    "70048214",
+    "70048215",
+    "70048216",
+    "70048217",
+    "70048218",
+    "70048219",
+    "70048220",
+    "70048221",
+    "70048222",
+    "70048223",
+    "70048224",
+    "70048225",
+    "70048226",
+    "70048227",
+    "70048228",
+    "70048229",
+    "70048230",
+    "70048231",
+    "70048232",
+    "70048233",
+    "70048234",
+    "70048235",
+    "70048236",
+    "70048237",
+    "70048238",
+    "70048239",
+    "70048240",
+    "70048241",
+    "70048242",
+    "70048243",
+    "70048244",
+    "70048245",
+    "70048246",
+    "70048247",
+    "70048248",
+    "70048249",
+    "70048250",
+    "70048251",
+    "70048252",
+    "70048253",
+    "70048254",
+    "70048255",
+    "70048256",
+    "70048257",
+    "70048258",
+    "70048259",
+    "70048260",
+    "70048261",
+    "70048262"
+   ]
+  },
+  {
+   "date": "2015-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70007181:por",
+     "title": "Lei n.º 94/2015",
+     "published": "2015-08-13",
+     "dre_path": "/dr/detalhe/lei/94-2015-70007181"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 31.º"
+   ],
+   "fragments": [
+    "70048198",
+    "70048199",
+    "70048200",
+    "70048201",
+    "70048202",
+    "70048203",
+    "70048204",
+    "70048205",
+    "70048206",
+    "70048207",
+    "70048208",
+    "70048209",
+    "70048210",
+    "70048211",
+    "70048212",
+    "70048213",
+    "70048214",
+    "70048215",
+    "70048216",
+    "70048217",
+    "70048218",
+    "70048219",
+    "70048220",
+    "70048221",
+    "70048222",
+    "70048223",
+    "70048224",
+    "70048225",
+    "70048226",
+    "70048227",
+    "70048228",
+    "70048229",
+    "70048230",
+    "70048231",
+    "70048232",
+    "70048233",
+    "70048234",
+    "70048235",
+    "70048236",
+    "70052218",
+    "70048238",
+    "70048239",
+    "70048240",
+    "70048241",
+    "70048242",
+    "70048243",
+    "70048244",
+    "70048245",
+    "70048246",
+    "70048247",
+    "70048248",
+    "70048249",
+    "70048250",
+    "70048251",
+    "70048252",
+    "70048253",
+    "70048254",
+    "70048255",
+    "70048256",
+    "70048257",
+    "70048258",
+    "70048259",
+    "70048260",
+    "70048261",
+    "70048262",
+    "70052200"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 34.º",
+    "Altera Artigo 50.º",
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "70048198",
+    "70048199",
+    "70048200",
+    "70048201",
+    "165089848",
+    "70048203",
+    "70048204",
+    "70048205",
+    "70048206",
+    "70048207",
+    "70048208",
+    "70048209",
+    "70048210",
+    "70048211",
+    "70048212",
+    "70048213",
+    "70048214",
+    "70048215",
+    "70048216",
+    "70048217",
+    "70048218",
+    "70048219",
+    "70048220",
+    "70048221",
+    "70048222",
+    "70048223",
+    "70048224",
+    "70048225",
+    "70048226",
+    "70048227",
+    "70048228",
+    "70048229",
+    "70048230",
+    "70048231",
+    "70048232",
+    "70048233",
+    "70048234",
+    "70048235",
+    "70048236",
+    "70052218",
+    "70048238",
+    "70048239",
+    "165089847",
+    "70048241",
+    "70048242",
+    "70048243",
+    "70048244",
+    "70048245",
+    "70048246",
+    "70048247",
+    "70048248",
+    "70048249",
+    "70048250",
+    "70048251",
+    "70048252",
+    "70048253",
+    "70048254",
+    "70048255",
+    "70048256",
+    "70048257",
+    "70048258",
+    "70048259",
+    "70048260",
+    "165089849",
+    "70048262",
+    "70052200"
+   ]
+  }
+ ],
+ "fragments": {
+  "70048198": {
+   "fragment_id": "70048102",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 32/2007\n\nde 13 de Agosto\n\nRegime jurídico das associações humanitárias de bombeiros\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70048199": {
+   "fragment_id": "70048103",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "70048200": {
+   "fragment_id": "70048104",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei define o regime jurídico das associações humanitárias de bombeiros, bem como as regras da sua associação em confederação e federações."
+  },
+  "70048201": {
+   "fragment_id": "70048105",
+   "type": 11,
+   "heading": "Artigo 2.º — Associações humanitárias de bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Associações humanitárias de bombeiros\n\n1 - As associações humanitárias de bombeiros, adiante abreviadamente designadas por associações, são pessoas colectivas sem fins lucrativos que têm como escopo principal a protecção de pessoas e bens, designadamente o socorro de feridos, doentes ou náufragos, e a extinção de incêndios, detendo e mantendo em actividade, para o efeito, um corpo de bombeiros voluntários ou misto, com observância do definido no regime jurídico dos corpos de bombeiros.\n\n2 - Com estrita observância do seu fim não lucrativo e sem prejuízo do seu escopo principal, as associações podem desenvolver outras actividades, individualmente ou em associação, parceria ou por qualquer outra forma societária legalmente prevista, com outras pessoas singulares ou colectivas, desde que permitidas pelos estatutos.\n\n3 - A designação de associação humanitária de bombeiros é exclusiva das associações cujo regime jurídico é regulado pela presente lei, não podendo ser adoptada por outras entidades, ainda que com fins idênticos, mas não detentoras de corpos de bombeiros."
+  },
+  "70048202": {
+   "fragment_id": "70048106",
+   "type": 11,
+   "heading": "Artigo 3.º — Aquisição de personalidade jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aquisição de personalidade jurídica\n\nAs associações adquirem personalidade jurídica e são reconhecidas como pessoas colectivas de utilidade pública administrativa com a sua constituição."
+  },
+  "70048203": {
+   "fragment_id": "70048107",
+   "type": 11,
+   "heading": "Artigo 4.º — Acto de constituição e estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acto de constituição e estatutos\n\n1 - O acto de constituição da associação especifica os bens ou serviços com que os associados concorrem para o património social, a denominação, a sede e o fim da associação, que inclui obrigatoriamente a referência à detenção e manutenção de um corpo de bombeiros voluntários ou misto, bem como a forma do seu funcionamento.\n\n2 - Além das especificações mencionadas no número anterior, os estatutos das associações determinam a composição e competência dos órgãos sociais, a forma de designar os respectivos titulares, bem como as obrigações e a responsabilidade destes para com a associação, podendo ainda especificar os direitos e obrigações dos associados, as condições da sua admissão, saída e exclusão, bem como os termos da extinção da pessoa colectiva.\n\n3 - A denominação da associação inclui obrigatoriamente a designação «associação humanitária de bombeiros»."
+  },
+  "70048204": {
+   "fragment_id": "70048108",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma e publicidade\n\n1 - O acto de constituição da associação, os estatutos e as suas alterações devem constar de escritura pública.\n\n2 - O notário deve, oficiosamente e a expensas da associação, comunicar a constituição e estatutos, bem como as alterações deste, à Autoridade Nacional de Protecção Civil e remeter um extracto para a publicação obrigatória em dois jornais de expansão regional.\n\n3 - A Autoridade Nacional de Protecção Civil publica no seu sítio na Internet a constituição e os estatutos das associações humanitárias de bombeiros, bem como as alterações a estes, sem prejuízo do disposto no número seguinte.\n\n4 - A Autoridade Nacional de Protecção Civil deve comunicar aos serviços regionais de protecção civil dos Açores e da Madeira a constituição e os estatutos das associações humanitárias de bombeiros, bem como as alterações a estes, sempre que aquelas tenham sede nas respectivas Regiões Autónomas.\n\n5 - O acto de constituição, os estatutos das associações, assim como as suas alterações, não produzem efeitos em relação a terceiros enquanto não forem publicados."
+  },
+  "70048205": {
+   "fragment_id": "70048109",
+   "type": 11,
+   "heading": "Artigo 6.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo\n\n1 - Sem prejuízo de outras formas de registo previstas na lei, o Ministério da Administração Interna, através da Autoridade Nacional de Protecção Civil, mantém um registo actualizado das associações e das federações.\n\n2 - Para efeitos do disposto no número anterior, o Instituto dos Registos e do Notariado, I. P., fornece por via electrónica a informação necessária à Autoridade Nacional de Protecção Civil, sem custos para a associação."
+  },
+  "70048206": {
+   "fragment_id": "70048110",
+   "type": 11,
+   "heading": "Artigo 7.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Capacidade\n\nA capacidade das associações abrange todos os direitos e obrigações necessários ou convenientes à prossecução dos seus fins, com excepção dos direitos e obrigações vedados por lei ou que sejam inseparáveis da personalidade singular."
+  },
+  "70048207": {
+   "fragment_id": "70048111",
+   "type": 11,
+   "heading": "Artigo 8.º — Cooperação institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cooperação institucional\n\nA cooperação institucional da administração central, regional e local e demais pessoas colectivas públicas com as associações, federações e confederação rege-se com respeito pela liberdade associativa e visa a aceitação, valorização e apoio ao seu escopo principal, nos termos da lei."
+  },
+  "70048208": {
+   "fragment_id": "70048112",
+   "type": 11,
+   "heading": "Artigo 9.º — Responsabilidade civil das associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsabilidade civil das associações\n\nAs associações respondem civilmente pelos actos ou omissões dos seus representantes, agentes ou mandatários, nos mesmos termos em que os comitentes respondem pelos actos ou omissões dos seus comissários."
+  },
+  "70048209": {
+   "fragment_id": "70048113",
+   "type": 1,
+   "heading": "Capítulo II — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização e funcionamento"
+  },
+  "70048210": {
+   "fragment_id": "70048114",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "70048211": {
+   "fragment_id": "70048115",
+   "type": 11,
+   "heading": "Artigo 10.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Órgãos sociais\n\n1 - Em cada associação humanitária de bombeiros haverá, pelo menos, um órgão deliberativo, um órgão colegial de administração e um órgão de fiscalização, sendo os dois últimos constituídos por um número ímpar de titulares, associados da própria associação ou, quando estes são pessoas colectivas, pessoas por elas designadas, dos quais um será o presidente.\n\n2 - Aos titulares dos órgãos sociais não é permitido o desempenho simultâneo de mais de um cargo na mesma associação."
+  },
+  "70048212": {
+   "fragment_id": "70048116",
+   "type": 11,
+   "heading": "Artigo 11.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Representação\n\n1 - A representação da associação, em juízo ou fora dele, cabe a quem os estatutos determinarem ou, na falta de disposição estatutária, ao órgão de administração ou a quem por ele for designado, sem prejuízo do disposto no número seguinte.\n\n2 - Perante as entidades públicas administrativas a quem compete a fiscalização, inspecção e controlo da utilização de fundos públicos, responde, em nome da associação, o órgão de administração."
+  },
+  "70048213": {
+   "fragment_id": "70048117",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento dos órgãos\n\n1 - Salvo disposição legal ou estatutária em contrário, as deliberações dos órgãos das associações humanitárias de bombeiros são tomadas por maioria de votos dos titulares presentes, tendo o presidente voto de qualidade em caso de empate na votação.\n\n2 - Sem prejuízo da estipulação de outras situações nos estatutos das associações, as deliberações respeitantes a eleições de órgãos sociais e que respeitem a assuntos de incidência pessoal dos seus titulares são realizadas por escrutínio secreto.\n\n3 - São sempre lavradas actas das reuniões de qualquer órgão da associação, as quais são obrigatoriamente assinadas por todos os membros presentes, ou, quando respeitem a reuniões da assembleia geral, pelos membros da respectiva mesa."
+  },
+  "70048214": {
+   "fragment_id": "70048118",
+   "type": 11,
+   "heading": "Artigo 13.º — Responsabilidade dos titulares dos órgãos da associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Responsabilidade dos titulares dos órgãos da associação\n\n1 - Os titulares dos órgãos sociais são responsáveis civil e criminalmente pelas faltas ou irregularidades cometidas no exercício do mandato.\n\n2 - Os titulares dos órgãos sociais ficam exonerados de responsabilidade se:\n\na) Não tiverem tomado parte na respectiva deliberação e a reprovarem com declaração na acta da sessão imediata em que se encontrem presentes;\n\nb) Tiverem votado contra essa deliberação e o fizerem consignar na acta respectiva."
+  },
+  "70048215": {
+   "fragment_id": "70048119",
+   "type": 8,
+   "heading": "Secção II — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assembleia geral"
+  },
+  "70048216": {
+   "fragment_id": "70048120",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências\n\n1 - São, necessariamente, da competência da assembleia geral a destituição dos titulares dos órgãos da associação, a aprovação do balanço, a alteração dos estatutos, a extinção da associação e a autorização para esta demandar os titulares dos órgãos sociais por factos praticados no exercício do cargo, para além de todas as outras competências que lhe sejam estatutariamente cometidas.\n\n2 - Competem à assembleia geral todas as deliberações não compreendidas nas competências legais ou estatutárias de outros órgãos da associação."
+  },
+  "70048217": {
+   "fragment_id": "70048121",
+   "type": 11,
+   "heading": "Artigo 15.º — Convocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Convocação\n\n1 - A assembleia geral deve ser convocada pelo órgão de administração nas circunstâncias fixadas nos estatutos e, em qualquer caso, uma vez em cada ano, para aprovação do balanço, relatório e contas, plano de acção e orçamento, sem prejuízo do mais estatutariamente previsto.\n\n2 - A assembleia geral é ainda convocada sempre que a convocação seja requerida, com um fim legítimo, por um conjunto de associados não inferior à quinta parte da sua totalidade, se outro número não for estabelecido nos estatutos.\n\n3 - Se o órgão de administração não convocar a assembleia geral nos casos em que o deve fazer, a qualquer associado é lícito efectuar a convocação."
+  },
+  "70048218": {
+   "fragment_id": "70048122",
+   "type": 11,
+   "heading": "Artigo 16.º — Forma de convocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Forma de convocação\n\n1 - A assembleia geral é convocada por meio de aviso postal, expedido para cada um dos associados com a antecedência mínima de oito dias, ou através de outra forma legal e estatutariamente admissível, indicando-se no mesmo aviso o dia, hora e local da reunião e a respectiva ordem de trabalhos.\n\n2 - São anuláveis as deliberações tomadas sobre matéria estranha à ordem de trabalhos, salvo se todos os associados comparecerem à reunião e concordarem com o aditamento.\n\n3 - A comparência de todos os associados sanciona quaisquer irregularidades da convocação, desde que nenhum deles se oponha à realização da assembleia."
+  },
+  "70048219": {
+   "fragment_id": "70048123",
+   "type": 11,
+   "heading": "Artigo 17.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funcionamento\n\n1 - A assembleia geral não pode deliberar, em primeira convocação, sem a presença de, pelo menos, metade dos seus associados.\n\n2 - As deliberações sobre alterações dos estatutos exigem o voto favorável de três quartos do número de associados presentes.\n\n3 - As deliberações sobre a dissolução da associação requerem o voto favorável de três quartos do número de associados.\n\n4 - Os estatutos podem exigir um número de votos superior ao fixado nos números anteriores."
+  },
+  "70048220": {
+   "fragment_id": "70048124",
+   "type": 11,
+   "heading": "Artigo 18.º — Privação do direito de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Privação do direito de voto\n\n1 - O associado não pode votar, por si ou como representante de outrem, nas matérias em que haja conflito de interesses entre a associação e o próprio, seu cônjuge, ascendentes ou descendentes.\n\n2 - As deliberações tomadas com infracção do disposto no número anterior são anuláveis se o voto do associado impedido for essencial à existência da maioria necessária."
+  },
+  "70048221": {
+   "fragment_id": "70048125",
+   "type": 8,
+   "heading": "Secção III — Órgãos de administração e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Órgãos de administração e fiscalização"
+  },
+  "70048222": {
+   "fragment_id": "70048126",
+   "type": 11,
+   "heading": "Artigo 19.º — Competências do órgão de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competências do órgão de administração\n\n1 - Compete ao órgão de administração gerir a associação e representá-la, incumbindo-lhe, designadamente:\n\na) Garantir a prossecução do fim social;\n\nb) Garantir a efectivação dos direitos dos associados;\n\nc) Elaborar anualmente e submeter a parecer do órgão de fiscalização o relatório e contas de gerência, bem como o plano de acção e orçamento para o ano seguinte;\n\nd) Assegurar a organização e o funcionamento dos serviços, bem como a escrituração dos livros, nos termos da lei;\n\ne) Organizar o quadro de pessoal, contratar e gerir o pessoal contratado da associação;\n\nf) Representar a associação em juízo ou fora dele;\n\ng) Zelar pelo cumprimento da lei, dos estatutos e das deliberações dos órgãos da associação.\n\n2 - A função referida na alínea f) do número anterior pode ser atribuída pelos estatutos a outro órgão ou dirigentes e pode ser delegada, nos termos dos mesmos estatutos, em titulares do órgão de administração.\n\n3 - O órgão de administração pode delegar em profissionais qualificados ao serviço da instituição, ou em mandatários, alguns dos seus poderes, nos termos previstos nos estatutos ou aprovados pela assembleia geral, bem como revogar os respectivos mandatos."
+  },
+  "70048223": {
+   "fragment_id": "70048127",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências do órgão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências do órgão de fiscalização\n\nAo órgão de fiscalização compete zelar pelo cumprimento da lei e dos estatutos, incumbindo-lhe, designadamente:\n\na) Exercer a fiscalização sobre a escrituração e documentos da instituição, sempre que o julgue conveniente;\n\nb) Assistir ou fazer-se representar por um dos seus titulares às reuniões do órgão de administração, sempre que o julgue conveniente;\n\nc) Dar parecer sobre o relatório, contas e orçamento e sobre todos os assuntos que o órgão de administração submeta à sua apreciação."
+  },
+  "70048224": {
+   "fragment_id": "70048128",
+   "type": 11,
+   "heading": "Artigo 21.º — Funcionamento dos órgãos de administração e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Funcionamento dos órgãos de administração e fiscalização\n\n1 - Os órgãos de administração e fiscalização são convocados pelos respectivos presidentes e só podem deliberar com a presença da maioria dos seus titulares.\n\n2 - No silêncio dos estatutos, em caso de vacatura de um dos lugares dos órgãos colegiais da associação, este é ocupado pelo primeiro eleito como suplente, se houver.\n\n3 - Em qualquer das circunstâncias indicadas no número anterior, o membro designado para preencher o cargo apenas completa o mandato.\n\n4 - A falta de quórum deliberativo por impossibilidade de preenchimento de lugares vagos em qualquer órgão implica a convocação extraordinária de eleições para esse mesmo órgão."
+  },
+  "70048225": {
+   "fragment_id": "70048129",
+   "type": 11,
+   "heading": "Artigo 22.º — Condições de exercício dos cargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Condições de exercício dos cargos\n\n1 - O exercício de qualquer cargo nos órgãos sociais das associações é gratuito, mas pode justificar o pagamento de despesas dele derivadas.\n\n2 - Quando o volume do movimento financeiro ou a complexidade da administração das associações exijam a presença prolongada de um ou mais titulares do órgão de administração, e os estatutos o permitam, podem estes ser remunerados, sendo a remuneração determinada pela assembleia geral."
+  },
+  "70048226": {
+   "fragment_id": "70048130",
+   "type": 11,
+   "heading": "Artigo 23.º — Forma de a associação se obrigar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Forma de a associação se obrigar\n\nNo silêncio dos estatutos, a associação obriga-se com as assinaturas conjuntas de dois titulares do órgão de administração, sendo uma delas, obrigatoriamente, a do presidente ou a do tesoureiro, salvo quanto aos actos de mero expediente, em que basta a assinatura de um titular do órgão de administração."
+  },
+  "70048227": {
+   "fragment_id": "70048131",
+   "type": 1,
+   "heading": "Capítulo III — Inelegibilidades, incapacidades e impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Inelegibilidades, incapacidades e impedimentos"
+  },
+  "70048228": {
+   "fragment_id": "70048132",
+   "type": 11,
+   "heading": "Artigo 24.º — Inelegibilidade e incapacidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Inelegibilidade e incapacidades\n\n1 - Não podem ser reeleitos ou novamente designados membros dos órgãos sociais aqueles que, mediante processo disciplinar ou judicial, tenham sido declarados responsáveis por irregularidades cometidas no exercício dessas funções ou removidos dos cargos que desempenhavam.\n\n2 - O disposto no número anterior é extensível à reeleição ou nova designação para órgãos sociais da mesma ou de outra associação humanitária de bombeiros.\n\n3 - Os titulares dos órgãos sociais não podem votar em assuntos que directamente lhes digam respeito, ou nos quais sejam interessados os respectivos cônjuges, ascendentes, descendentes e afins.\n\n4 - É vedado à associação contratar directa ou indirectamente com os titulares dos órgãos sociais, seus cônjuges, ascendentes, descendentes e afins ou com sociedades em que qualquer destes tenha interesses."
+  },
+  "70048229": {
+   "fragment_id": "70048133",
+   "type": 11,
+   "heading": "Artigo 25.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Impedimentos\n\nOs presidentes da assembleia geral e dos órgãos de administração e fiscalização estão impedidos de exercer quaisquer funções no quadro de comando e no quadro activo do respectivo corpo de bombeiros."
+  },
+  "70048230": {
+   "fragment_id": "70048134",
+   "type": 1,
+   "heading": "Capítulo IV — Da extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da extinção"
+  },
+  "70048231": {
+   "fragment_id": "70048135",
+   "type": 11,
+   "heading": "Artigo 26.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Extinção\n\n1 - As associações extinguem-se:\n\na) Por deliberação da assembleia geral;\n\nb) Pela verificação de qualquer outra causa prevista no acto de constituição ou nos estatutos;\n\nc) Pelo falecimento ou desaparecimento de todos os associados;\n\nd) Por decisão judicial que declare a sua insolvência.\n\n2 - As associações extinguem-se ainda por decisão judicial:\n\na) Quando o seu fim se tenha esgotado ou se tenha tornado impossível;\n\nb) Quando o seu fim real não coincida com o fim expresso no acto de constituição ou nos estatutos;\n\nc) Quando o seu fim seja sistematicamente prosseguido por meios ilícitos ou imorais."
+  },
+  "70048232": {
+   "fragment_id": "70048136",
+   "type": 11,
+   "heading": "Artigo 27.º — Declaração de extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Declaração de extinção\n\n1 - No caso previsto na alínea b) do n.º 1 do artigo anterior, a extinção só se produz se, nos 30 dias subsequentes à data em que devia operar-se, a assembleia geral não decidir a prorrogação da associação ou a modificação dos estatutos.\n\n2 - Nos casos previstos no n.º 2 do artigo anterior, a declaração de extinção pode ser pedida em juízo pelo Ministério Público ou por qualquer interessado.\n\n3 - A extinção por virtude da declaração de insolvência dá-se em consequência da própria declaração."
+  },
+  "70048233": {
+   "fragment_id": "70048137",
+   "type": 11,
+   "heading": "Artigo 28.º — Efeitos da extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Efeitos da extinção\n\n1 - Extinta a associação, é eleita uma comissão liquidatária pela assembleia geral ou pela entidade que decretou a extinção.\n\n2 - Os poderes da comissão liquidatária ficam limitados à prática dos actos meramente conservatórios e necessários, quer à liquidação do património social, quer à ultimação dos negócios pendentes, sendo que, pelos actos restantes e pelos danos que deles advenham, à associação respondem solidariamente os titulares dos órgãos sociais que os praticarem.\n\n3 - Pelas obrigações que os titulares dos órgãos sociais contraírem, a associação só responde perante terceiros se estes estavam de boa fé e à extinção não tiver sido dada a devida publicidade."
+  },
+  "70048234": {
+   "fragment_id": "70048138",
+   "type": 11,
+   "heading": "Artigo 29.º — Destino dos bens das associações extintas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Destino dos bens das associações extintas\n\n1 - Os bens das associações humanitárias de bombeiros extintas revertem para associações com finalidades idênticas, nos termos das disposições estatutárias ou, na sua falta, mediante deliberação da assembleia geral.\n\n2 - Não havendo disposição estatutária aplicável, nem deliberação da assembleia geral, os bens são atribuídos a outras associações humanitárias de bombeiros com sede no concelho de localização dos bens ou, não existindo, à respectiva câmara municipal ou, se a associação extinta tivesse a sua sede nas Regiões Autónomas, aos respectivos serviços regionais de protecção civil, que decidirão do seu fim.\n\n3 - A atribuição a outras associações humanitárias de bombeiros dos bens da associação extinta que estejam afectos ao cumprimento de acordos de cooperação carece de concordância das entidades intervenientes no acordo.\n\n4 - Aos bens deixados ou doados com qualquer encargo ou afectados a determinados fins é dado destino, de acordo com os números anteriores, respeitando, quando possível, a intenção do encargo ou afectação.\n\n5 - O disposto no número anterior não se aplica aos bens integralmente adquiridos com subsídios de pessoas colectivas públicas, os quais revertem para estas, salvo se tiver sido previsto outro destino em acordo de cooperação."
+  },
+  "70048235": {
+   "fragment_id": "70048139",
+   "type": 11,
+   "heading": "Artigo 30.º — Sucessão das associações extintas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sucessão das associações extintas\n\nAs associações para as quais reverte o património das associações extintas sucedem-lhes nos direitos e obrigações, mas só respondem pelo pagamento das dívidas até ao valor dos bens que lhes tenham sido atribuídos."
+  },
+  "70048236": {
+   "fragment_id": "70048140",
+   "type": 1,
+   "heading": "Capítulo V — Apoio à actividade associativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Apoio à actividade associativa"
+  },
+  "70048237": {
+   "fragment_id": "70048141",
+   "type": 11,
+   "heading": "Artigo 31.º — Apoio financeiro e logístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Apoio financeiro e logístico\n\n1 - O Estado apoia financeiramente as associações com vista ao cabal cumprimento das missões dos corpos de bombeiros, para além de outras formas legalmente previstas, designadamente, através dos programas seguintes:\n\na) Programa Permanente de Cooperação (PPC), que visa apoiar, de modo regular, o desenvolvimento permanente das missões dos corpos de bombeiros;\n\nb) Programa de Apoio Infra-Estrutural (PAI), que visa apoiar o investimento em infra-estruturas que se destinem à instalação dos corpos de bombeiros;\n\nc) Programa de Apoio aos Equipamentos (PAE), que visa apoiar a manutenção da capacidade operacional dos corpos de bombeiros.\n\n2 - O regulamento dos programas de apoio financeiro é aprovado por portaria do membro do Governo responsável pela administração interna, ouvida a Liga dos Bombeiros Portugueses.\n\n3 - Sem prejuízo dos apoios referidos no n.º 1, as associações humanitárias de bombeiros podem beneficiar, por si ou em conjunto com outras associações, de outros apoios públicos, nacionais ou comunitários, no âmbito de programas, acções ou outros meios de financiamento que lhes forem concedidos.\n\n4 - O apoio logístico é proporcionado em situação de prevenção ou de resposta operacional a acidentes graves ou catástrofes e pode assumir a forma de adiantamento ou ressarcimento de despesas urgentes realizadas, ou a realizar, pelas associações humanitárias ou pelos corpos de bombeiros."
+  },
+  "70048238": {
+   "fragment_id": "70048142",
+   "type": 11,
+   "heading": "Artigo 32.º — Apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Apoio técnico\n\nA Autoridade Nacional de Protecção Civil fixa normas técnicas e desenvolve manuais práticos de gestão da vida das associações, designadamente nas áreas das comunicações, tecnologias de informação, direito, contabilidade e administração."
+  },
+  "70048239": {
+   "fragment_id": "70048143",
+   "type": 11,
+   "heading": "Artigo 33.º — Contratos de desenvolvimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Contratos de desenvolvimento\n\n1 - As pessoas colectivas públicas podem celebrar contratos de desenvolvimento com associações humanitárias de bombeiros em áreas específicas, no âmbito da prevenção e reacção a acidentes.\n\n2 - É igualmente objecto de contrato de desenvolvimento a criação e o funcionamento de equipas de intervenção permanente, como previstas no regime jurídico dos bombeiros portugueses."
+  },
+  "70048240": {
+   "fragment_id": "70048144",
+   "type": 11,
+   "heading": "Artigo 34.º — Isenções e benefícios fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Isenções e benefícios fiscais\n\n1 - As associações, as federações e a Liga dos Bombeiros Portugueses beneficiam das prerrogativas, isenções e benefícios fiscais conferidos por lei às pessoas colectivas de utilidade pública administrativa.\n\n2 - Aos donativos concedidos às associações é aplicável o disposto em matéria de benefícios relativos ao mecenato constante do Estatuto dos Benefícios Fiscais."
+  },
+  "70048241": {
+   "fragment_id": "70048145",
+   "type": 11,
+   "heading": "Artigo 35.º — Regime laboral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Regime laboral\n\nO regime jurídico dos contratos de trabalho entre as associações humanitárias de bombeiros e o pessoal integrado no quadro de comando e no quadro activo do respectivo corpo de bombeiros que exerce funções remuneradas é definido em diploma próprio, a publicar no prazo de 180 dias após a publicação da presente lei."
+  },
+  "70048242": {
+   "fragment_id": "70048146",
+   "type": 1,
+   "heading": "Capítulo VI — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Tutela"
+  },
+  "70048243": {
+   "fragment_id": "70048147",
+   "type": 8,
+   "heading": "Secção I — Garantias do interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Garantias do interesse público"
+  },
+  "70048244": {
+   "fragment_id": "70048148",
+   "type": 11,
+   "heading": "Artigo 36.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Princípio geral\n\nSempre que esteja em causa património ou fundos financeiros provenientes do Estado ou de outra instituição pública, ou tenham influência na capacidade de solvência da associação, os actos são condicionados nos termos dos artigos seguintes."
+  },
+  "70048245": {
+   "fragment_id": "70048149",
+   "type": 11,
+   "heading": "Artigo 37.º — Imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Imóveis\n\n1 - A alienação e o arrendamento de imóveis pertencentes às associações devem ser feitos em concurso público ou hasta pública, conforme determinação da assembleia geral em razão do procedimento julgado mais conveniente.\n\n2 - Podem ser celebrados arrendamentos por negociação directa, quando seja previsível que daí decorram vantagens para a associação ou por motivo de urgência, fundamentado em acta.\n\n3 - Em qualquer caso, os preços e rendas aceites não podem ser inferiores aos que vigorarem no mercado normal de arrendamento, de harmonia com os valores estabelecidos em peritagem oficial.\n\n4 - Exceptuam-se do preceituado nos números anteriores os arrendamentos para habitação, que seguem o regime geral sobre arrendamentos."
+  },
+  "70048246": {
+   "fragment_id": "70048150",
+   "type": 11,
+   "heading": "Artigo 38.º — Meios financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Meios financeiros\n\nOs meios financeiros na disposição da associação são obrigatoriamente depositados em conta da associação aberta em instituição de crédito."
+  },
+  "70048247": {
+   "fragment_id": "70048151",
+   "type": 11,
+   "heading": "Artigo 39.º — Aceitação de heranças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Aceitação de heranças\n\nA aceitação de heranças de valor superior a 20 vezes a remuneração mínima garantida só pode ser realizada a benefício de inventário."
+  },
+  "70048248": {
+   "fragment_id": "70048152",
+   "type": 11,
+   "heading": "Artigo 40.º — Actos sujeitos a comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Actos sujeitos a comunicação\n\nO relatório e as contas dos exercícios findos devem ser enviados anualmente ao Ministério da Administração Interna, através da Autoridade Nacional de Protecção Civil."
+  },
+  "70048249": {
+   "fragment_id": "70048153",
+   "type": 11,
+   "heading": "Artigo 41.º — Requisição de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Requisição de bens\n\n1 - Por despacho do membro do Governo responsável pela área da administração interna, podem ser requisitados os bens afectos às associações humanitárias de bombeiros e aos corpos de bombeiros, para serem utilizados por outras entidades ou por serviços oficiais, quando necessários para o cumprimento do preceituado na Lei de Bases de Protecção Civil.\n\n2 - Os membros dos Governos Regionais com competência em matéria de protecção civil podem determinar, nas Regiões Autónomas, a requisição dos bens afectos às associações humanitárias de bombeiros e aos corpos de bombeiros.\n\n3 - A requisição cessa quando os bens deixem de ser necessários às acções que a motivaram."
+  },
+  "70048250": {
+   "fragment_id": "70048154",
+   "type": 8,
+   "heading": "Secção II — Controlo sucessivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Controlo sucessivo"
+  },
+  "70048251": {
+   "fragment_id": "70048155",
+   "type": 11,
+   "heading": "Artigo 42.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Fiscalização\n\n1 - As associações que usufruam de algum dos apoios públicos previstos na presente lei ficam sujeitos a fiscalização pela Autoridade Nacional de Protecção Civil e demais entidades competentes, para verificação dos pressupostos da atribuição dos benefícios respectivos e do cumprimento das obrigações daí decorrentes.\n\n2 - Quando os apoios sejam concedidos pelas Regiões Autónomas, a fiscalização referida no número anterior é exercida pelos respectivos serviços regionais de protecção civil.\n\n3 - As associações devem facultar à Autoridade Nacional de Protecção Civil ou aos serviços regionais de protecção civil, no prazo por estes fixado, todos os documentos solicitados no exercício da competência prevista nos números anteriores."
+  },
+  "70048252": {
+   "fragment_id": "70048156",
+   "type": 11,
+   "heading": "Artigo 43.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Sanções\n\n1 - O incumprimento das obrigações decorrentes da presente lei e dos contratos de desenvolvimento, bem como a detecção de irregularidades na aplicação ou justificação dos apoios financeiros recebidos por uma associação implica a suspensão do programa de apoio e a devolução total dos apoios financeiros indevidamente recebidos, sem prejuízo da responsabilidade civil e criminal que ao caso couber.\n\n2 - Os titulares do órgão de administração da associação são solidariamente responsáveis pela obrigação de reposição prevista no número anterior."
+  },
+  "70048253": {
+   "fragment_id": "70048157",
+   "type": 11,
+   "heading": "Artigo 44.º — Destituição dos órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Destituição dos órgãos sociais\n\n1 - Quando se verifique a prática reiterada, pelos titulares de órgãos sociais, de actos de gestão prejudiciais aos interesses da associação, a Autoridade Nacional de Protecção Civil pode solicitar ao Ministério Público a promoção da destituição judicial dos órgãos sociais.\n\n2 - Pode ser nomeada pelo tribunal uma comissão provisória de gestão para exercer o governo da associação até à eleição dos novos órgãos sociais nos termos estatutários."
+  },
+  "70048254": {
+   "fragment_id": "70048158",
+   "type": 1,
+   "heading": "Capítulo VII — Confederação, federações e agrupamentos de associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Confederação, federações e agrupamentos de associações"
+  },
+  "70048255": {
+   "fragment_id": "70048159",
+   "type": 11,
+   "heading": "Artigo 45.º — Liga dos Bombeiros Portugueses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Liga dos Bombeiros Portugueses\n\n1 - A Liga dos Bombeiros Portugueses rege-se por estatutos próprios, integra a Comissão Nacional de Protecção Civil e o Conselho Nacional de Bombeiros e participa na definição das políticas nacionais nas áreas da protecção e socorro às populações, nomeadamente nas iniciativas legislativas respeitantes a matérias do seu interesse.\n\n2 - Para além de todas as atribuições legal e estatutariamente previstas, compete à Liga dos Bombeiros Portugueses a gestão do Fundo de Protecção Social do Bombeiro, através do qual promove e completa a protecção social dos bombeiros e seus familiares.\n\n3 - A Liga dos Bombeiros Portugueses é ouvida em sede de negociação de convenções colectivas de trabalho aplicáveis às associações humanitárias de bombeiros e aos bombeiros profissionais de corpos mistos detidos por associações humanitárias de bombeiros.\n\n4 - Os instrumentos de financiamento da Liga dos Bombeiros Portugueses são regulados por portaria do membro do Governo responsável pela área da administração interna.\n\n5 - Sempre que a Liga dos Bombeiros Portugueses usufrua de algum dos apoios públicos previstos na presente lei, fica sujeita a fiscalização pela Autoridade Nacional de Protecção Civil e demais entidades competentes, para verificação dos pressupostos dos benefícios respectivos e do cumprimento das obrigações daí decorrentes."
+  },
+  "70048256": {
+   "fragment_id": "70048160",
+   "type": 11,
+   "heading": "Artigo 46.º — Federações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Federações\n\n1 - As associações humanitárias de bombeiros podem associar-se entre si em federações com o objectivo de promoverem a articulação de objectivos e a integração de projectos e programas.\n\n2 - É reconhecido às federações o direito de audição no âmbito das políticas de protecção civil seguidas pelos governos civis."
+  },
+  "70048257": {
+   "fragment_id": "70048161",
+   "type": 11,
+   "heading": "Artigo 47.º — Agrupamentos de associações humanitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Agrupamentos de associações humanitárias\n\n1 - Nos concelhos onde exista mais de uma associação podem ser criados agrupamentos de associações humanitárias para promoverem a gestão comum das associações e dos corpos de bombeiros que estas detenham.\n\n2 - Os estatutos dos agrupamentos de associações humanitárias prevêem a forma de organização e de gestão dos corpos de bombeiros ou das forças conjuntas previstas no regime jurídico dos corpos de bombeiros.\n\n3 - Através de portaria dos membros do Governo responsáveis pelas áreas da administração interna e das finanças, podem ser estabelecidos apoios especiais para a criação e funcionamento dos agrupamentos de associações humanitárias de bombeiros."
+  },
+  "70048258": {
+   "fragment_id": "70048162",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições complementares e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições complementares e transitórias"
+  },
+  "70048259": {
+   "fragment_id": "70048163",
+   "type": 11,
+   "heading": "Artigo 48.º — Exercício de funções associativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Exercício de funções associativas\n\n1 - Os titulares de órgãos sociais das associações humanitárias de bombeiros, das suas federações e da Liga dos Bombeiros Portugueses que participem nas reuniões das Comissões de Protecção Civil ou do Conselho Nacional de Bombeiros podem, a seu pedido, ser dispensados do respectivo serviço para participarem nas referidas reuniões.\n\n2 - As dispensas previstas no número anterior vigoram pelo período indicado pela entidade convocante, acrescido do tempo necessário para as deslocações, e serão concedidas a pedido dos trabalhadores convocados, só podendo ser recusadas com fundamento em motivos inadiáveis decorrentes do funcionamento dos serviços."
+  },
+  "70048260": {
+   "fragment_id": "70048164",
+   "type": 11,
+   "heading": "Artigo 49.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Regiões Autónomas\n\nA presente lei aplica-se às Regiões Autónomas, sem prejuízo da sua adaptação às competências dos órgãos de governo próprios."
+  },
+  "70048261": {
+   "fragment_id": "70048165",
+   "type": 11,
+   "heading": "Artigo 50.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Direito subsidiário\n\n1 - Em tudo o que não se encontre especialmente regulado na presente lei, é aplicável às associações humanitárias de bombeiros o regime geral das associações.\n\n2 - As disposições do Código Administrativo relativas às pessoas colectivas de utilidade pública administrativa não são aplicáveis às associações humanitárias de bombeiros."
+  },
+  "70048262": {
+   "fragment_id": "70048166",
+   "type": 11,
+   "heading": "Artigo 51.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Norma transitória\n\nAs associações e as federações existentes à data de entrada em vigor da presente lei, bem como a Liga dos Bombeiros Portugueses, devem, no prazo de dois anos, adequar os seus estatutos ao disposto na presente lei."
+  },
+  "70052218": {
+   "fragment_id": "70048141",
+   "type": 11,
+   "heading": "Artigo 31.º — Apoio financeiro e logístico",
+   "in_force_from": "2015-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 94/2015 - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/lei/94-2015-70007181), em vigor a partir de 2015-09-01"
+   ],
+   "markdown": "###### Artigo 31.º — Apoio financeiro e logístico\n\n1 - O Estado apoia financeiramente as associações com vista ao cabal cumprimento das missões dos corpos de bombeiros, para além de outras formas legalmente previstas, designadamente, através dos programas seguintes:\n\na) Programa Permanente de Cooperação (PPC), que visa apoiar, de modo regular, o desenvolvimento permanente das missões dos corpos de bombeiros;\n\nb) Programa de Apoio Infra-Estrutural (PAI), que visa apoiar o investimento em infra-estruturas que se destinem à instalação dos corpos de bombeiros;\n\nc) Programa de Apoio aos Equipamentos (PAE), que visa apoiar a manutenção da capacidade operacional dos corpos de bombeiros.\n\n2 - O regulamento dos programas de apoio financeiro é aprovado por portaria do membro do Governo responsável pela administração interna, ouvida a Liga dos Bombeiros Portugueses.\n\n3 - Sem prejuízo dos apoios referidos no n.º 1, as associações humanitárias de bombeiros podem beneficiar, por si ou em conjunto com outras associações, de outros apoios públicos, nacionais ou comunitários, no âmbito de programas, acções ou outros meios de financiamento que lhes forem concedidos.\n\n4 - O apoio logístico é proporcionado em situação de prevenção ou de resposta operacional a acidentes graves ou catástrofes e pode assumir a forma de adiantamento ou ressarcimento de despesas urgentes realizadas, ou a realizar, pelas associações humanitárias ou pelos corpos de bombeiros.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 94/2015 - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/lei/94-2015-70007181), em vigor a partir de 2015-09-01"
+  },
+  "70052200": {
+   "fragment_id": "70052105",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de Junho de 2007.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 25 de Julho de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 2 de Agosto de 2007.\n\nPelo Primeiro-Ministro, Luís Filipe Marques Amado, Ministro de Estado e dos Negócios Estrangeiros."
+  },
+  "165089848": {
+   "fragment_id": "70048106",
+   "type": 11,
+   "heading": "Artigo 3.º — Aquisição de personalidade jurídica",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Aquisição de personalidade jurídica\n\nAs associações adquirem personalidade jurídica e são reconhecidas como pessoas colectivas de utilidade pública administrativa com a sua constituição.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165089847": {
+   "fragment_id": "70048144",
+   "type": 11,
+   "heading": "Artigo 34.º — Isenções e benefícios fiscais",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 34.º — Isenções e benefícios fiscais\n\n1 - As associações, as federações e a Liga dos Bombeiros Portugueses beneficiam de isenções e benefícios fiscais nos termos da lei.\n\n2 - Aos donativos concedidos às associações é aplicável o disposto em matéria de benefícios relativos ao mecenato constante do Estatuto dos Benefícios Fiscais.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165089849": {
+   "fragment_id": "70048165",
+   "type": 11,
+   "heading": "Artigo 50.º — Direito subsidiário",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 50.º — Direito subsidiário\n\n1 - Em tudo o que não se encontre especialmente regulado na presente lei, é aplicável às associações humanitárias de bombeiros o regime geral das associações.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  }
+ }
+}

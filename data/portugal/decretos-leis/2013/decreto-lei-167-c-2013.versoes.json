@@ -1,0 +1,559 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:164425:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-107685643",
+ "dre_path": "/dr/detalhe/decreto-lei/167-c-2013-164425",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107671253",
+    "107671254",
+    "107671255",
+    "107671256",
+    "107671257",
+    "107671258",
+    "107671259",
+    "107671260",
+    "107671261",
+    "107671262",
+    "107671263",
+    "107671264",
+    "107671265",
+    "107671266",
+    "107671267",
+    "107671268",
+    "107671269",
+    "107671270",
+    "107671271",
+    "107671272",
+    "107671273",
+    "107671274",
+    "107687375",
+    "107687376",
+    "107687377",
+    "107687378",
+    "107687379",
+    "107687380",
+    "107687381",
+    "107687382",
+    "107687383",
+    "107687384",
+    "107687385",
+    "107687386",
+    "107687387",
+    "107687388",
+    "107687389",
+    "107687390",
+    "107687391",
+    "107687392",
+    "107687393",
+    "107687394",
+    "107687395",
+    "107687396",
+    "107687397",
+    "107687399",
+    "107687400"
+   ]
+  },
+  {
+   "date": "2015-02-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66463205:por",
+     "title": "Decreto-Lei n.º 28/2015",
+     "published": "2015-02-10",
+     "dre_path": "/dr/detalhe/decreto-lei/28-2015-66463205"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 20.º-A",
+    "Altera Artigo 5.º",
+    "Altera Anexo II",
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "107671253",
+    "107671254",
+    "107671255",
+    "107671256",
+    "107671257",
+    "107671258",
+    "107671259",
+    "207757983",
+    "107671261",
+    "107671262",
+    "107671263",
+    "107671264",
+    "107671265",
+    "107671266",
+    "107671267",
+    "107671268",
+    "107671269",
+    "107671270",
+    "107671271",
+    "107671272",
+    "107671273",
+    "107671274",
+    "107687375",
+    "107687376",
+    "207757985",
+    "107687378",
+    "207757986",
+    "107687379",
+    "107687380",
+    "107687381",
+    "107687382",
+    "107687383",
+    "107687384",
+    "107687385",
+    "107687386",
+    "107687387",
+    "107687388",
+    "107687389",
+    "107687390",
+    "107687391",
+    "107687392",
+    "107687393",
+    "107687394",
+    "107687395",
+    "107687396",
+    "107687397",
+    "107687398",
+    "107687399",
+    "207757984"
+   ]
+  }
+ ],
+ "fragments": {
+  "107671253": {
+   "fragment_id": "107685644",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 167-C/2013\n\nde 31 de dezembro\n\nO Decreto-Lei n.º 86-A/2011, de 12 de julho, estabeleceu, designadamente, a estrutura e a orgânica do XIX Governo Constitucional e as competências dos respetivos membros, matérias que sofreram substanciais alterações com a entrada em vigor dos Decretos-Leis n.os 60/2013, de 9 de maio, e 119/2013, de 21 de agosto.\n\nDe entre as alterações que tiveram maior impacto na estrutura do Governo salienta-se, desde logo, a integração na Presidência do Conselho de Ministros do Instituto Financeiro para o Desenvolvimento Regional, I. P., e do Instituto de Gestão do Fundo Social Europeu, I. P., do Ministério da Economia e Emprego, do Observatório do Quadro de Referência Estratégico Nacional do Ministério das Finanças, organismos e estrutura que, através do Decreto-Lei n.º 140/2013, de 18 de outubro, foram fundidos na Agência para o Desenvolvimento e Coesão, I. P., e das Comissões de Coordenação e Desenvolvimento Regional do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território.\n\nOutro aspeto relevante prende-se com a transição das áreas do emprego e da energia do Ministério da Economia e do Emprego, respetivamente, para o Ministério da Solidariedade, Emprego e Segurança Social e para o Ministério do Ambiente, Ordenamento do Território e Energia.\n\nFinalmente, o Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território foi cindido em dois departamentos governamentais distintos, o Ministério do Ambiente, Ordenamento do Território e Energia e o Ministério da Agricultura e do Mar.\n\nAcresce que, no seguimento do compromisso para o crescimento, competitividade e emprego, celebrado em 18 de janeiro de 2012, importa ainda refletir na estrutura orgânica do Ministério da Solidariedade, Emprego e Segurança Social, as atribuições do Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P., e do Instituto de Gestão Financeira da Segurança Social, I. P., na qualidade de entidades gestoras do Fundo de Compensação do Trabalho e do Fundo de Garantia de Compensação do Trabalho.\n\nA concretização dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos impõe ainda a previsão da prestação de serviços partilhados a estabelecer, de forma gradual, entre diversos serviços do Ministério da Solidariedade, Emprego e Segurança Social, contribuindo para o processo de modernização e de otimização do funcionamento da Administração Pública.\n\nPor fim, com o objetivo de redução estrutural da despesa pública e de uma Administração Pública mais eficiente, apesar da transição da área do emprego para este Ministério, verificou-se a possibilidade, que agora se concretiza, de reduzir mais dois cargos de direção superior na respetiva estrutura.\n\nAssim:\n\nNos termos do disposto no n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "107671254": {
+   "fragment_id": "107685645",
+   "type": 1,
+   "heading": "Capítulo I — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Missão e atribuições"
+  },
+  "107671255": {
+   "fragment_id": "107685646",
+   "type": 11,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\nO Ministério da Solidariedade, Emprego e Segurança Social, abreviadamente designado por MSESS, é o departamento governamental que tem por missão a definição, promoção e execução de políticas de solidariedade e segurança social, combate à pobreza e à exclusão social, apoio à família e à natalidade, a crianças e jovens em risco, a idosos, à inclusão de pessoas com deficiência, de promoção do voluntariado e de cooperação ativa e partilha de responsabilidades com entidades da Economia Social, bem como as políticas de desenvolvimento dirigidas ao crescimento do emprego sustentável e de formação profissional e a aposta na mobilidade e modernização nas relações de trabalho."
+  },
+  "107671256": {
+   "fragment_id": "107685647",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNa prossecução da sua missão, são atribuições do MSESS:\n\na) Conceber e formular as medidas de política do sistema de segurança social, bem como os programas e ações para a sua execução;\n\nb) Exercer as funções normativas na execução do referido na alínea anterior;\n\nc) Assegurar a execução dos programas e ações decorrentes das políticas e dos regimes estabelecidos;\n\nd) Promover políticas potenciadoras da criação de emprego sustentável, da formação e qualificação profissional e da modernização do mercado de trabalho e das relações laborais;\n\ne) Assegurar o planeamento e a coordenação da aplicação de fundos estruturais europeus para o investimento nas áreas da inclusão social e emprego, bem como da ajuda a carenciados, incluindo a gestão dos respetivos programas operacionais e o controlo da aplicação dos instrumentos financeiros."
+  },
+  "107671257": {
+   "fragment_id": "107685648",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "107671258": {
+   "fragment_id": "107685649",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\nO MSESS prossegue as suas atribuições através de serviços integrados na administração direta do Estado, de organismos integrados na administração indireta do Estado, de um órgão consultivo e de outras estruturas."
+  },
+  "107671259": {
+   "fragment_id": "107685650",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração direta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Administração direta do Estado\n\nIntegram a administração direta do Estado, no âmbito do MSESS, os seguintes serviços centrais:\n\na) A Secretaria-Geral;\n\nb) A Inspeção-Geral do Ministério da Solidariedade, Emprego e Segurança Social;\n\nc) O Gabinete de Estratégia e Planeamento;\n\nd) A Autoridade para as Condições do Trabalho;\n\ne) A Direção-Geral do Emprego e das Relações de Trabalho;\n\nf) A Direção-Geral da Segurança Social."
+  },
+  "107671260": {
+   "fragment_id": "107685651",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indireta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administração indireta do Estado\n\n1 - Prosseguem atribuições do MSESS, sob superintendência e tutela do respetivo ministro, os seguintes organismos:\n\na) O Instituto da Segurança Social, I. P.;\n\nb) O Instituto de Gestão Financeira da Segurança Social, I. P.;\n\nc) O Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P.;\n\nd) O Instituto Nacional para a Reabilitação, I. P.;\n\ne) O Instituto do Emprego e da Formação Profissional, I. P.;\n\nf) A Casa Pia de Lisboa, I. P.;\n\ng) O Instituto de Informática, I. P.\n\n2 - A superintendência e tutela relativas ao Instituto de Informática, I. P., são exercidas em conjunto pelos membros responsáveis pelas áreas da solidariedade, emprego e segurança social e das finanças, para efeitos das matérias relacionadas com a coleta de contribuições."
+  },
+  "107671261": {
+   "fragment_id": "107685652",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgão consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgão consultivo\n\nÉ órgão consultivo do MSESS o Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social."
+  },
+  "107671262": {
+   "fragment_id": "107685653",
+   "type": 11,
+   "heading": "Artigo 7.º — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outras estruturas\n\n1 - O MSESS exerce tutela sobre a Santa Casa da Misericórdia de Lisboa.\n\n2 - No âmbito do MSESS funcionam ainda:\n\na) A Comissão Nacional de Proteção de Crianças e Jovens em Risco;\n\nb) A Comissão para a Igualdade no Trabalho e no Emprego;\n\nc) O Centro de Relações Laborais.\n\n3 - São entidades externalizadas do MSESS:\n\na) A Fundação Inatel;\n\nb) A Cooperativa António Sérgio para a Economia Social - Cooperativa de Interesse Público de Responsabilidade Limitada."
+  },
+  "107671263": {
+   "fragment_id": "107685654",
+   "type": 1,
+   "heading": "Capítulo III — Serviços, organismos, órgão consultivo e outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Serviços, organismos, órgão consultivo e outras estruturas"
+  },
+  "107671264": {
+   "fragment_id": "107685655",
+   "type": 8,
+   "heading": "Secção I — Serviços da administração direta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços da administração direta do Estado"
+  },
+  "107671265": {
+   "fragment_id": "107685656",
+   "type": 11,
+   "heading": "Artigo 8.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Secretaria-Geral\n\n1 - A Secretaria-Geral, abreviadamente designada por SG, tem por missão assegurar o apoio técnico e administrativo aos gabinetes dos membros do Governo integrados no MSESS e aos demais órgãos e serviços nele integrados, nos domínios da gestão dos recursos internos, do apoio técnico-jurídico e contencioso, da documentação e informação, da inovação e qualidade e da comunicação e relações públicas, bem como a prestação de serviços partilhados nos domínios dos recursos humanos, formação profissional nas matérias transversais, negociação e aquisição de bens e serviços, financeira e patrimonial.\n\n2 - A SG prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar administrativa, técnica e juridicamente os gabinetes dos membros do Governo integrados no MSESS, os órgãos, serviços, comissões e grupos de trabalho que não disponham de meios apropriados, bem como assegurar os serviços de apoio jurídico-contencioso do Ministério;\n\nb) Assegurar as atividades do MSESS no âmbito da comunicação e relações públicas;\n\nc) Assegurar a elaboração do orçamento de funcionamento do MSESS, bem como acompanhar a respetiva execução e a do orçamento de investimento;\n\nd) Gerir os contratos de prestação de serviços de suporte, na ótica de serviços partilhados, sem prejuízo das competências e atribuições do Instituto de Informática, I. P.;\n\ne) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MSESS na respetiva implementação, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de quadros de pessoal;\n\nf) Assegurar a prestação de serviços partilhados nos domínios dos recursos humanos, formação profissional nas matérias transversais, negociação e aquisição de bens e serviços, financeira e patrimonial, aos serviços da administração direta e aos organismos da administração indireta, sem autonomia financeira, integrados no MSESS;\n\ng) Assegurar as funções de unidade ministerial de compras;\n\nh) Promover boas práticas de gestão de documentos nos serviços e organismos do MSESS e proceder à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;\n\ni) Estudar, programar e coordenar a aplicação de medidas tendentes a promover a inovação, modernização e a política de qualidade, no âmbito do MSESS, sem prejuízo das atribuições cometidas por lei a outros serviços, bem como assegurar a articulação com os organismos com atribuições interministeriais nestas áreas;\n\nj) Assegurar o normal funcionamento do MSESS nas áreas que não sejam da competência específica de outros serviços.\n\n3 - A SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral adjunto, cargos de direção superior de 1.º e 2.º grau, respetivamente."
+  },
+  "107671266": {
+   "fragment_id": "107685657",
+   "type": 11,
+   "heading": "Artigo 9.º — Inspeção-Geral do Ministério da Solidariedade, Emprego e Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Inspeção-Geral do Ministério da Solidariedade, Emprego e Segurança Social\n\n1 - A Inspeção-Geral do Ministério da Solidariedade, Emprego e Segurança Social, abreviadamente designada por IGMSESS, tem por missão apreciar a legalidade e regularidade dos atos praticados pelos serviços e organismos do MSESS ou sujeitos à tutela do ministro, bem como avaliar a sua gestão e os seus resultados, através do controlo de auditoria técnica, de desempenho e financeira.\n\n2 - A IGMSESS prossegue, designadamente, as seguintes atribuições:\n\na) Apreciar a conformidade legal e regulamentar dos atos dos serviços e organismos do MSESS e avaliar o seu desempenho e gestão, através da realização de ações de inspeção e de auditoria;\n\nb) Auditar os sistemas e procedimentos de controlo interno dos serviços e organismos da área de atuação do MSESS, no quadro das responsabilidades cometidas ao Sistema de Controlo Interno da Administração Financeira do Estado pela Lei de Enquadramento Orçamental;\n\nc) Avaliar a qualidade dos serviços prestados ao cidadão.\n\n3 - A IGMSESS é dirigida por um inspetor-geral, coadjuvado por dois subinspetores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "107671267": {
+   "fragment_id": "107685658",
+   "type": 11,
+   "heading": "Artigo 10.º — Gabinete de Estratégia e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Gabinete de Estratégia e Planeamento\n\n1 - O Gabinete de Estratégia e Planeamento, abreviadamente designado por GEP, tem por missão garantir o apoio técnico à formulação de políticas e ao planeamento estratégico e operacional, em articulação com a programação financeira, assegurar, diretamente ou sob sua coordenação, as relações internacionais e a cooperação com os países de língua oficial portuguesa e acompanhar e avaliar a execução de políticas, dos instrumentos de planeamento e os resultados dos sistemas de organização e gestão, em articulação com os demais serviços do MSESS.\n\n2 - O GEP prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio técnico em matéria de definição e estruturação das políticas, prioridades e objetivos do MSESS;\n\nb) Apoiar a definição das principais opções em matéria orçamental, assegurar a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas, sem prejuízo das atribuições do Instituto de Gestão Financeira da Segurança Social, I. P., em matéria de orçamento da segurança social;\n\nc) Acompanhar e avaliar a execução das políticas e programas do MSESS;\n\nd) Elaborar, difundir e apoiar a criação de instrumentos de planeamento, de programação financeira e de avaliação das políticas e programas do MSESS;\n\ne) Garantir a produção de informação adequada, designadamente estatística, no quadro do sistema estatístico nacional, nas áreas de intervenção do MSESS;\n\nf) Coordenar a atividade do MSESS de âmbito internacional, garantindo a coerência das intervenções e a sua articulação com o Ministério dos Negócios Estrangeiros no âmbito das suas atribuições próprias;\n\ng) Propor e desenvolver atividades no âmbito da cooperação, designadamente com os países de língua oficial portuguesa.\n\n3 - O GEP é dirigido por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "107671268": {
+   "fragment_id": "107685659",
+   "type": 11,
+   "heading": "Artigo 11.º — Autoridade para as Condições de Trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Autoridade para as Condições de Trabalho\n\n1 - A Autoridade para as Condições de Trabalho, abreviadamente designada por ACT, tem por missão a promoção da melhoria das condições de trabalho, através da fiscalização do cumprimento das normas em matéria laboral e o controlo do cumprimento da legislação relativa à segurança e saúde no trabalho, bem como a promoção de políticas de prevenção dos riscos profissionais, quer no âmbito das relações laborais privadas, quer no âmbito da Administração Pública.\n\n2 - A ACT prossegue, designadamente, as seguintes atribuições:\n\na) Fiscalizar o cumprimento das disposições legais, regulamentares e convencionais respeitantes às relações de trabalho;\n\nb) Promover ações de sensibilização e prestar informações com vista ao esclarecimento dos sujeitos das relações laborais e das respetivas associações;\n\nc) Promover a execução das políticas de segurança, saúde e bem-estar no trabalho;\n\nd) Apoiar as entidades públicas e privadas na identificação dos riscos profissionais, na aplicação de medidas de prevenção e na organização de serviços de segurança, saúde e bem-estar no trabalho;\n\ne) Difundir a informação e assegurar o tratamento técnico dos processos relativos ao sistema internacional de alerta para a segurança e saúde dos trabalhadores, bem como a representação nacional em instâncias internacionais;\n\nf) Prevenir e combater o trabalho infantil, em articulação com os diversos departamentos governamentais.\n\n3 - A ACT é dirigida por um inspetor-geral, coadjuvado por dois subinspetores-gerais, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "107671269": {
+   "fragment_id": "107685660",
+   "type": 11,
+   "heading": "Artigo 12.º — Direção-Geral do Emprego e das Relações de Trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direção-Geral do Emprego e das Relações de Trabalho\n\n1 - A Direção-Geral do Emprego e das Relações de Trabalho, abreviadamente designada por DGERT, tem por missão apoiar a conceção das políticas relativas ao emprego, formação e certificação profissional e às relações profissionais, incluindo as condições de trabalho e de segurança, saúde e bem-estar no trabalho, cabendo-lhe ainda o acompanhamento e fomento da contratação coletiva e da prevenção de conflitos coletivos de trabalho.\n\n2 - A DGERT prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar a definição e execução de políticas relativas ao emprego, formação e certificação profissional, bem como às relações e condições gerais de trabalho;\n\nb) Apoiar a intervenção nacional na adoção de instrumentos normativos comunitários e internacionais em domínios especializados das áreas do emprego, formação e certificação profissional e das relações e condições de trabalho;\n\nc) Participar na definição de estratégias de desenvolvimento do emprego e de qualificação dos trabalhadores;\n\nd) Definir critérios e avaliar a qualidade dos organismos de formação, bem como promover o conhecimento desses organismos, tendo em vista o desenvolvimento equilibrado do setor da formação e a qualidade das ações por eles desenvolvidas;\n\ne) Coordenar o desenvolvimento do sistema nacional de certificação;\n\nf) Promover e acompanhar os processos de negociação coletiva;\n\ng) Garantir a produção de informação adequada, designadamente estatística, nas suas áreas de intervenção;\n\nh) Assegurar e coordenar a participação do MSESS no domínio comunitário e internacional, na área das suas atribuições.\n\n3 - A DGERT é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "107671270": {
+   "fragment_id": "107685661",
+   "type": 11,
+   "heading": "Artigo 13.º — Direção-Geral da Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direção-Geral da Segurança Social\n\n1 - A Direção-Geral da Segurança Social, abreviadamente designada por DGSS, tem por missão a conceção, coordenação e apoio nas áreas do sistema da segurança social, incluindo a proteção contra os riscos profissionais, bem como o estudo, a negociação técnica e a coordenação da aplicação dos instrumentos internacionais relativos à legislação do mencionado sistema.\n\n2 - A DGSS prossegue, designadamente, as seguintes atribuições:\n\na) Preparar medidas orientadas para o reforço da eficácia e modernização da ação destinada a efetivar o direito à segurança social;\n\nb) Propor normas relativas aos sistemas de segurança social e as medidas que visem o combate à pobreza e a promoção da inclusão social;\n\nc) Proceder ao estudo e negociação técnica dos instrumentos internacionais sobre coordenação de legislações de segurança social, bem como representar o sistema de segurança social a nível internacional;\n\nd) Assegurar a coordenação normativa da aplicação dos instrumentos internacionais de segurança social;\n\ne) Realizar estudos em matéria de riscos profissionais relacionados com as eventualidades protegidas.\n\n3 - A DGSS é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "107671271": {
+   "fragment_id": "107685662",
+   "type": 8,
+   "heading": "Secção II — Organismos da administração indireta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Organismos da administração indireta do Estado"
+  },
+  "107671272": {
+   "fragment_id": "107685663",
+   "type": 11,
+   "heading": "Artigo 14.º — Instituto da Segurança Social, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instituto da Segurança Social, I. P.\n\n1 - O Instituto da Segurança Social, I. P., abreviadamente designado por ISS, I. P., tem por missão a gestão dos regimes de segurança social, incluindo o tratamento, recuperação e reparação de doenças ou incapacidades resultantes de riscos profissionais, o reconhecimento dos direitos e o cumprimento das obrigações decorrentes dos regimes de segurança social e demais subsistemas da segurança social, incluindo o exercício da ação social, bem como assegurar a aplicação dos acordos internacionais no âmbito do sistema da segurança social.\n\n2 - O ISS, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Gerir as prestações do sistema de segurança social e dos seus subsistemas;\n\nb) Garantir a realização dos direitos e promover o cumprimento das obrigações dos beneficiários do sistema de segurança social;\n\nc) Desenvolver a cooperação com as instituições particulares de solidariedade social e exercer, nos termos da lei, a sua tutela, bem como desenvolver a cooperação com outras entidades;\n\nd) Exercer a ação fiscalizadora e aplicar coimas, quando da verificação de contraordenações relativas aos estabelecimentos de apoio social, a beneficiários e contribuintes;\n\ne) Exercer a ação fiscalizadora e aplicar coimas às contraordenações relativas aos estabelecimentos de apoio social, a beneficiários e contribuintes;\n\nf) Desenvolver e executar as políticas de ação social, bem como desenvolver medidas de combate à pobreza e de promoção da inclusão social;\n\ng) Arrecadar as receitas do sistema de segurança social, assegurando o cumprimento das obrigações contributivas;\n\nh) Assegurar, no seu âmbito de atuação, o cumprimento das obrigações decorrentes dos instrumentos internacionais;\n\ni) Participar nos trabalhos da Comissão Nacional de Revisão da Lista das Doenças Profissionais e da Comissão Permanente para a Revisão e Atualização da Tabela Nacional de Incapacidades por Acidentes de Trabalho e Doenças Profissionais e assegurar o apoio necessário ao seu funcionamento;\n\nj) Avaliar e fixar as incapacidades em matéria de doenças emergentes de riscos profissionais e assegurar a prestação dos cuidados médicos e medicamentos necessários, bem como as compensações, indemnizações e pensões por danos emergentes de riscos profissionais, por incapacidade temporária ou permanente;\n\nl) Assegurar o apoio técnico aos tribunais em matéria tutelar cível.\n\n3 - O ISS, I. P., é dirigido por um conselho diretivo, constituído por um presidente, um vice-presidente e dois vogais."
+  },
+  "107671273": {
+   "fragment_id": "107685664",
+   "type": 11,
+   "heading": "Artigo 15.º — Instituto de Gestão Financeira da Segurança Social, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Instituto de Gestão Financeira da Segurança Social, I. P.\n\n1 - O Instituto de Gestão Financeira da Segurança Social, I. P., abreviadamente designado por IGFSS, I. P., tem por missão a gestão financeira unificada dos recursos económicos consignados no orçamento da segurança social.\n\n2 - O IGFSS, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Propor as medidas de estratégia e de política financeira a adotar no âmbito do sistema de segurança social e assegurar a respetiva execução, bem como assegurar o cumprimento do princípio da unidade financeira do sistema de segurança social;\n\nb) Preparar o orçamento da segurança social, apreciando, integrando e compatibilizando os orçamentos parcelares, e assegurar, coordenar e controlar a respetiva execução;\n\nc) Elaborar a conta da segurança social;\n\nd) Analisar a evolução da dívida à segurança social, bem como acompanhar e controlar a atuação das instituições de segurança social, em matéria de regularização da dívida, e assegurar a instauração e instrução de processos de execução de dívidas à segurança social;\n\ne) Assegurar a gestão e administração dos bens e direitos de que seja titular e que constituem o património imobiliário da segurança social;\n\nf) Desempenhar as funções de tesouraria única do sistema de segurança social, assegurando e controlando os pagamentos, bem como a arrecadação das receitas e dos respetivos fundos;\n\ng) Assegurar a gestão do Fundo de Garantia Salarial, do Fundo de Socorro Social, do Fundo de Compensação do Trabalho e demais fundos englobados no Instituto;\n\nh) Assegurar as funções inerentes à gestão do Fundo de Garantia de Compensação do Trabalho, na qualidade de entidade gestora do mesmo, nos termos da Lei n.º 70/2013, de 30 de agosto.\n\n3 - O IGFSS, I. P., é dirigido por um conselho diretivo, constituído por um presidente, um vice-presidente e dois vogais."
+  },
+  "107671274": {
+   "fragment_id": "107685665",
+   "type": 11,
+   "heading": "Artigo 16.º — Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P.\n\n1 - O Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P., abreviadamente designado por IGFCSS, I. P., tem por missão a gestão de fundos de capitalização no âmbito do financiamento do sistema de segurança social do Estado e de outros sistemas previdenciais.\n\n2 - O IGFCSS, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Gerir em regime de capitalização a carteira do Fundo de Estabilização Financeira da Segurança Social e de outros fundos e as disponibilidades financeiras que lhe sejam afetas;\n\nb) Administrar o regime público de capitalização, incluindo a gestão, em regime de capitalização, dos fundos e dos planos de rendas que lhe são subjacentes;\n\nc) Assegurar as funções inerentes à gestão do Fundo de Compensação do Trabalho, na qualidade de entidade gestora do mesmo, nos termos da Lei n.º 70/2013, de 30 de agosto;\n\nd) Promover o adequado planeamento, organização, direção e controlo nas áreas de gestão das carteiras de aplicações, análise de mercados e informação estatística;\n\ne) Administrar o património imobiliário que lhe está afeto;\n\nf) Colaborar e articular-se pelas formas convenientes com os serviços e instituições do sistema de segurança social, designadamente com o IGFSS, I. P.;\n\ng) Negociar e contratar com as instituições do sistema monetário e financeiro as aplicações pertinentes;\n\nh) Realizar as transferências necessárias para assegurar a estabilização financeira da segurança social.\n\n3 - O IGFCSS, I. P., é dirigido por um conselho diretivo, constituído por um presidente, um vice-presidente e um vogal."
+  },
+  "107687375": {
+   "fragment_id": "107685666",
+   "type": 11,
+   "heading": "Artigo 17.º — Instituto Nacional para a Reabilitação, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Instituto Nacional para a Reabilitação, I. P.\n\n1 - O Instituto Nacional para a Reabilitação, I. P., abreviadamente designado por INR, I. P., tem por missão assegurar o planeamento, execução e coordenação das políticas nacionais destinadas a promover os direitos das pessoas com deficiência.\n\n2 - O INR, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Promover o acompanhamento e avaliação da execução, em articulação com os organismos setorialmente competentes, das ações necessárias à execução das políticas nacionais definidas para as pessoas com deficiência ou incapacidade;\n\nb) Contribuir para a elaboração de diretrizes de política nacional de prevenção, habilitação, reabilitação e participação das pessoas com deficiência;\n\nc) Desenvolver a formação, a investigação e a certificação ao nível científico e tecnológico na área da reabilitação;\n\nd) Arrecadar receitas resultantes do desenvolvimento da política nacional de prevenção, habilitação, reabilitação e participação das pessoas com deficiência;\n\ne) Dinamizar a cooperação com os parceiros sociais e as organizações não governamentais, bem como com outras entidades públicas e privadas com responsabilidades sociais e representativas da sociedade civil;\n\nf) Emitir pareceres sobre as normas de acessibilidade universal.\n\n3 - O INR, I. P., é dotado apenas de autonomia administrativa.\n\n4 - O INR, I. P., é dirigido por um conselho diretivo, constituído por um presidente e um vice-presidente."
+  },
+  "107687376": {
+   "fragment_id": "107685667",
+   "type": 11,
+   "heading": "Artigo 18.º — Instituto do Emprego e da Formação Profissional, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instituto do Emprego e da Formação Profissional, I. P.\n\n1 - O Instituto do Emprego e da Formação Profissional, I. P., abreviadamente designado por IEFP, I. P., é o serviço público de emprego nacional e tem por missão promover a criação e a qualidade do emprego e combater o desemprego, através da execução de políticas ativas de emprego, nomeadamente de formação profissional.\n\n2 - O IEFP, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Promover o ajustamento direto entre a oferta e a procura de emprego;\n\nb) Promover a qualificação escolar e profissional dos jovens, através da oferta de formação de dupla certificação;\n\nc) Promover a qualificação escolar e profissional da população adulta, através da oferta de formação profissional certificada, ajustada aos percursos individuais e relevante para a modernização da economia;\n\nd) Incentivar a criação e manutenção de postos de trabalho;\n\ne) Incentivar a inserção profissional dos diferentes públicos através de medidas específicas, em particular para aqueles com maior risco de exclusão do mercado de emprego;\n\nf) Promover a reabilitação profissional das pessoas com deficiência, em articulação com o Instituto Nacional para a Reabilitação, I. P.\n\n3 - A definição das orientações estratégicas e a fixação de objetivos para o IEFP, I. P., bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas do emprego e da economia.\n\n4 - O IEFP, I. P., é dirigido por um conselho diretivo, constituído por um presidente, um vice-presidente e dois vogais."
+  },
+  "107687377": {
+   "fragment_id": "107685668",
+   "type": 11,
+   "heading": "Artigo 19.º — Casa Pia de Lisboa, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Casa Pia de Lisboa, I. P.\n\n1 - A Casa Pia de Lisboa, I. P., abreviadamente designada por CPL, I. P., tem por missão integrar crianças e adolescentes, designadamente as desprovidas de meio familiar adequado, garantindo-lhes percursos educativos inclusivos, assentes, nomeadamente, numa escolaridade prolongada, num ensino profissional de qualidade e numa aposta na integração profissional e, sempre que necessário, acolhendo-as.\n\n2 - A CPL, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Integrar crianças e jovens sem meio familiar adequado, em perigo ou em risco de exclusão, considerando o acolhimento como uma resposta transitória e colocando o retorno ao ambiente familiar no centro da atividade institucional;\n\nb) Desenvolver projetos pessoais de vida para as crianças e jovens que acolhe, mediante a promoção de estratégias diversificadas, de caráter preventivo, em articulação com as respetivas famílias e outros parceiros;\n\nc) Garantir às crianças e jovens percursos educativos inclusivos, através de uma escolaridade prolongada e de um ensino profissional de qualidade;\n\nd) Desenvolver um modelo de ensino profissional que aposte, designadamente, no reforço da formação em alternância e na integração profissional;\n\ne) Desenvolver programas de reabilitação, formação e integração de crianças e jovens com deficiência, designadamente as crianças e jovens surdos e surdocegos, com vista à sua inclusão educativa, profissional e social.\n\n3 - A CPL, I. P., é dirigida por um conselho diretivo, constituído por um presidente, um vice-presidente e um vogal."
+  },
+  "107687378": {
+   "fragment_id": "107685669",
+   "type": 11,
+   "heading": "Artigo 20.º — Instituto de Informática, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Instituto de Informática, I. P.\n\n1 - O Instituto de Informática, I. P., abreviadamente designado por II, I. P., tem por missão definir e propor as políticas e estratégias de tecnologias de informação e comunicação, garantindo o planeamento, conceção, execução e avaliação das iniciativas de informatização e atualização tecnológica do MSESS.\n\n2 - O II, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Elaborar o plano estratégico de sistemas de informação do MSESS;\n\nb) Definir e controlar o cumprimento de normas e procedimentos relativos à seleção, aquisição e utilização de infraestruturas tecnológicas e sistemas de informação;\n\nc) Assegurar a construção, gestão e operação de sistemas e infraestruturas na área de atuação transversal do MSESS, em articulação com os organismos numa lógica de serviços partilhados;\n\nd) Promover a contratação e a aquisição de bens e serviços nos domínios das tecnologias de informação e comunicação (TIC), sem prejuízo das competências da SG no âmbito do Sistema Nacional de Compras Públicas;\n\ne) Promover a unificação e a racionalização de métodos, recursos, processos, infraestruturas tecnológicas e formação na área das TIC, nos organismos do MSESS;\n\nf) Conceber, planear, executar e controlar os projetos de produção e recolha de dados em sistemas centralizados de armazenamento, com vista ao seu tratamento como informação estatística oficial no âmbito do MSESS, e à sua utilização como indicadores de gestão e tomada de decisão;\n\ng) Assegurar, nas áreas das TIC, a articulação com as entidades externas, designadamente organismos com atribuições interministeriais e centralizar os necessários mecanismos de interoperabilidade.\n\n3 - O II, I. P., é dirigido por um conselho diretivo, constituído por um presidente, um vice-presidente e um vogal."
+  },
+  "107687379": {
+   "fragment_id": "107685670",
+   "type": 8,
+   "heading": "Secção III — Órgão consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Órgão consultivo"
+  },
+  "107687380": {
+   "fragment_id": "107685671",
+   "type": 11,
+   "heading": "Artigo 21.º — Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social\n\n1 - O Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social, tem por missão coadjuvar o membro do Governo responsável pela área da solidariedade e da segurança social na definição e execução das diversas políticas a prosseguir no âmbito do respetivo ministério.\n\n2 - A composição, as competências e o modo de funcionamento do Conselho são fixados em diploma próprio.\n\n3 - O Conselho funciona sob articulação dos membros do Governo responsáveis pelas áreas da solidariedade, da segurança social e da igualdade de género."
+  },
+  "107687381": {
+   "fragment_id": "107685672",
+   "type": 8,
+   "heading": "Secção IV — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Outras estruturas"
+  },
+  "107687382": {
+   "fragment_id": "107685673",
+   "type": 11,
+   "heading": "Artigo 22.º — Santa Casa da Misericórdia de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Santa Casa da Misericórdia de Lisboa\n\nA Santa Casa da Misericórdia de Lisboa tem por missão a prossecução de fins de ação social, de prestação de cuidados de saúde, de educação e cultura e de promoção da qualidade de vida, sobretudo em proveito dos mais desprotegidos, nos termos dos respetivos estatutos."
+  },
+  "107687383": {
+   "fragment_id": "107685674",
+   "type": 11,
+   "heading": "Artigo 23.º — Comissão Nacional de Proteção de Crianças e Jovens em Risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Comissão Nacional de Proteção de Crianças e Jovens em Risco\n\n1 - A Comissão Nacional de Proteção de Crianças e Jovens em Risco, abreviadamente designado por CNPCJR, tem por missão planificar a intervenção do Estado e coordenar, acompanhar e avaliar a ação dos organismos públicos e da comunidade na proteção de crianças e jovens em risco.\n\n2 - A composição, as competências e o modo de funcionamento da CNPCJR são fixados em diploma próprio."
+  },
+  "107687384": {
+   "fragment_id": "107687475",
+   "type": 11,
+   "heading": "Artigo 24.º — Comissão para a Igualdade no Trabalho e no Emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comissão para a Igualdade no Trabalho e no Emprego\n\n1 - A Comissão para a Igualdade no Trabalho e no Emprego, abreviadamente designada por CITE, tem por missão prosseguir a igualdade e a não discriminação entre homens e mulheres no trabalho, no emprego e na formação profissional e colaborar na aplicação de disposições legais e convencionais nesta matéria, bem como as relativas à proteção da parentalidade e à conciliação da atividade profissional com a vida familiar e pessoal, no setor privado, no setor público e no setor cooperativo.\n\n2 - A CITE é um órgão colegial tripartido, dotado de autonomia administrativa e personalidade jurídica.\n\n3 - A composição, as competências e o modo de funcionamento da CITE são fixados em diploma próprio.\n\n4 - A definição das orientações estratégicas e a fixação de objetivos para a CITE, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da segurança social e emprego e da igualdade de género.\n\n5 - A CITE é dirigida por um presidente, coadjuvado por um vice-presidente, cargos de direção superior de 1.º e 2.º graus, respetivamente."
+  },
+  "107687385": {
+   "fragment_id": "107687476",
+   "type": 11,
+   "heading": "Artigo 25.º — Centro de Relações Laborais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Centro de Relações Laborais\n\n1 - O Centro de Relações Laborais, abreviadamente designado por CRL, tem por missão apoiar a negociação coletiva, bem como acompanhar a evolução do emprego e da formação profissional.\n\n2 - O CRL é um órgão colegial tripartido, dotado de autonomia administrativa e personalidade jurídica e funciona na dependência do MSESS.\n\n3 - A composição, as competências e o modo de funcionamento do CRL são fixados em diploma próprio."
+  },
+  "107687386": {
+   "fragment_id": "107687477",
+   "type": 11,
+   "heading": "Artigo 26.º — Fundação Inatel",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Fundação Inatel\n\nA Fundação Inatel tem como fins principais a promoção das melhores condições para a ocupação dos tempos livres e do lazer dos trabalhadores, no ativo e reformados, desenvolvendo e valorizando o turismo social, a criação e fruição cultural, a atividade física e desportiva, a inclusão e a solidariedade social."
+  },
+  "107687387": {
+   "fragment_id": "107687478",
+   "type": 11,
+   "heading": "Artigo 27.º — Cooperativa António Sérgio para a Economia Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cooperativa António Sérgio para a Economia Social\n\nA Cooperativa António Sérgio para a Economia Social - Cooperativa de Interesse Público de Responsabilidade Limitada tem por objeto promover o fortalecimento do setor da economia social, aprofundando a cooperação entre o Estado e as organizações que o integram, tendo em vista estimular o seu potencial ao serviço da promoção do desenvolvimento socioeconómico do País."
+  },
+  "107687388": {
+   "fragment_id": "107687479",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "107687389": {
+   "fragment_id": "107687480",
+   "type": 11,
+   "heading": "Artigo 28.º — Superintendências e tutelas conjuntas e articulações no âmbito do Ministério da Solidariedade, Emprego e Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Superintendências e tutelas conjuntas e articulações no âmbito do Ministério da Solidariedade, Emprego e Segurança Social\n\nO membro do Governo responsável pela área da segurança social exerce a superintendência e tutela sobre a Agência Nacional para a Qualificação e o Ensino Profissional, I. P., em conjunto com o membro do Governo responsável pela área da educação e ciência e em articulação com o membro do Governo responsável pela área da economia."
+  },
+  "107687390": {
+   "fragment_id": "107687481",
+   "type": 11,
+   "heading": "Artigo 29.º — Mapas de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Mapas de pessoal dirigente\n\nSão aprovados os mapas de dirigentes superiores da administração direta e indireta do MSESS, constantes dos anexos I e II ao presente decreto-lei, respetivamente, do qual fazem parte integrante."
+  },
+  "107687391": {
+   "fragment_id": "107687482",
+   "type": 11,
+   "heading": "Artigo 30.º — Reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Reestruturação\n\nSão objeto de reestruturação os seguintes serviços:\n\na) A Inspeção-Geral do Ministério da Solidariedade, Emprego e Segurança Social, sendo as suas atribuições nos domínios dos recursos humanos, formação profissional nas matérias transversais, negociação e aquisição de bens e serviços, financeiro e patrimonial integradas na Secretaria-Geral;\n\nb) O Gabinete de Estratégia e Planeamento, sendo as suas atribuições nos domínios dos recursos humanos, formação profissional nas matérias transversais, negociação e aquisição de bens e serviços, financeiro e patrimonial integradas na Secretaria-Geral;\n\nc) A Autoridade para as Condições do Trabalho, sendo as suas atribuições nos domínios dos recursos humanos, formação profissional nas matérias transversais, negociação e aquisição de bens e serviços, financeiro e patrimonial integradas na Secretaria-Geral;\n\nd) A Direção-Geral do Emprego e das Relações do Trabalho, sendo as suas atribuições nos domínios dos recursos humanos, formação profissional nas matérias transversais, negociação e aquisição de bens e serviços, financeiro e patrimonial integradas na Secretaria-Geral;\n\ne) A Direção-Geral da Segurança Social, sendo as suas atribuições nos domínios dos recursos humanos, formação profissional nas matérias transversais, negociação e aquisição de bens e serviços, financeiro e patrimonial integradas na Secretaria-Geral;\n\nf) O Instituto Nacional para a Reabilitação, I. P., sendo as suas atribuições nos domínios dos recursos humanos, formação profissional nas matérias transversais, negociação e aquisição de bens e serviços, financeiro e patrimonial integradas na Secretaria-Geral."
+  },
+  "107687392": {
+   "fragment_id": "107687483",
+   "type": 11,
+   "heading": "Artigo 31.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Referências legais\n\nAs referências legais feitas aos serviços e organismos objeto de reestruturação mencionados no artigo anterior consideram-se feitas aos serviços e organismos que passam a integrar as respetivas atribuições."
+  },
+  "107687393": {
+   "fragment_id": "107687484",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma transitória\n\nA extinção do Conselho Nacional da Formação Profissional e do Conselho Nacional de Higiene e Segurança no Trabalho, bem como a extinção, por fusão, do Conselho Nacional para a Reabilitação e Integração das Pessoas com Deficiência, do Conselho Nacional de Segurança Social, do Conselho Nacional para a Promoção do Voluntariado, da Comissão Nacional do Rendimento Social de Reinserção, da Comissão para a Promoção de Políticas de Família e do Conselho Consultivo das Famílias, e a consequente integração da sua missão no Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social, a criar, devem ocorrer no prazo de 60 dias, a contar da data da entrada em vigor do presente decreto-lei."
+  },
+  "107687394": {
+   "fragment_id": "107687485",
+   "type": 11,
+   "heading": "Artigo 33.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Produção de efeitos\n\n1 - As reestruturações previstas no presente decreto-lei apenas produzem efeitos com a entrada em vigor dos respetivos diplomas orgânicos.\n\n2 - Excetua-se do disposto no número anterior, a designação dos titulares dos cargos de direção superior e dos órgãos de direção dos serviços e organismos previstos nos mapas anexos ao presente decreto-lei, a qual pode ter lugar após a sua entrada em vigor.\n\n3 - As comissões de serviço dos titulares de cargos de direção superior de serviços ou organismos cuja reestruturação tenha sido determinada pelo presente decreto-lei podem cessar, independentemente do disposto no n.º 1, por despacho fundamentado, quando, por efeito da reestruturação, exista necessidade de imprimir nova orientação à gestão dos serviços."
+  },
+  "107687395": {
+   "fragment_id": "107687486",
+   "type": 11,
+   "heading": "Artigo 34.º — Legislação orgânica complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Legislação orgânica complementar\n\n1 - Os diplomas orgânicos pelos quais se procede à reestruturação dos serviços e organismos do MSESS devem ser aprovados no prazo de 60 dias após a entrada em vigor do presente decreto-lei.\n\n2 - Até à entrada em vigor dos diplomas orgânicos a que se refere o número anterior, os serviços e organismos do MSESS continuam a reger-se pelas disposições normativas que lhes são aplicáveis."
+  },
+  "107687396": {
+   "fragment_id": "107687487",
+   "type": 11,
+   "heading": "Artigo 35.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 126/2011, de 29 de dezembro;\n\nb) A alínea d), na parte relativa à Direção-Geral do Emprego e das Relações do Trabalho, e a alínea f) do artigo 10.º do Decreto-Lei n.º 124/2012, de 20 de junho."
+  },
+  "107687397": {
+   "fragment_id": "107687488",
+   "type": 11,
+   "heading": "Artigo 36.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107687399": {
+   "fragment_id": "107687490",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 29.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 29.º)\n\nCargos de direção superior da administração direta\n\n(ver documento original)"
+  },
+  "107687400": {
+   "fragment_id": "107687491",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 29.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 29.º)\n\nDirigentes de organismos da administração indireta\n\n(ver documento original)"
+  },
+  "207757983": {
+   "fragment_id": "107685651",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indireta do Estado",
+   "in_force_from": "2015-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), em vigor a partir de 2015-02-11, produz efeitos a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Administração indireta do Estado\n\n1 - Prosseguem atribuições do MSESS, sob superintendência e tutela do respetivo ministro, os seguintes organismos:\n\na) (Revogada.)\n\nb) O Instituto de Gestão Financeira da Segurança Social, I. P.;\n\nc) O Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P.;\n\nd) O Instituto Nacional para a Reabilitação, I. P.;\n\ne) O Instituto do Emprego e da Formação Profissional, I. P.;\n\nf) A Casa Pia de Lisboa, I. P.;\n\ng) O Instituto de Informática, I. P.\n\nh) A Caixa Geral de Aposentações, I. P.\n\n2 - A superintendência e tutela relativas ao Instituto de Informática, I. P., são exercidas em conjunto pelos membros responsáveis pelas áreas da solidariedade, emprego e segurança social e das finanças, para efeitos das matérias relacionadas com a coleta de contribuições.\n\n3 - A superintendência e tutela relativas à Caixa Geral de Aposentações, I. P., são exercidas em conjunto pelos membros do Governo responsáveis pelas áreas da solidariedade, emprego e segurança social e das finanças e Administração Pública nas matérias objeto de negociação coletiva ou de participação dos trabalhadores da Administração Pública, através das suas associações sindicais, e na elaboração de legislação com incidência orçamental.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 28/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), em vigor a partir de 2015-02-11, produz efeitos a partir de 2015-01-01"
+  },
+  "207757985": {
+   "fragment_id": "107685668",
+   "type": 11,
+   "heading": "Artigo 19.º — Casa Pia de Lisboa, I. P.",
+   "in_force_from": "2015-02-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), em vigor a partir de 2015-02-11, produz efeitos a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — Casa Pia de Lisboa, I. P.\n\n1 - A Casa Pia de Lisboa, I. P., abreviadamente designada por CPL, I. P., tem por missão integrar crianças e adolescentes, designadamente as desprovidas de meio familiar adequado, garantindo-lhes percursos educativos inclusivos, assentes, nomeadamente, numa escolaridade prolongada, num ensino profissional de qualidade e numa aposta na integração profissional e, sempre que necessário, acolhendo-as.\n\n2 - A CPL, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Integrar crianças e jovens sem meio familiar adequado, em perigo ou em risco de exclusão, considerando o acolhimento como uma resposta transitória e colocando o retorno ao ambiente familiar no centro da atividade institucional;\n\nb) Desenvolver projetos pessoais de vida para as crianças e jovens que acolhe, mediante a promoção de estratégias diversificadas, de caráter preventivo, em articulação com as respetivas famílias e outros parceiros;\n\nc) Garantir às crianças e jovens percursos educativos inclusivos, através de uma escolaridade prolongada e de um ensino profissional de qualidade;\n\nd) Desenvolver um modelo de ensino profissional que aposte, designadamente, no reforço da formação em alternância e na integração profissional;\n\ne) Desenvolver programas de reabilitação, formação e integração de crianças e jovens com deficiência, designadamente as crianças e jovens surdos e surdocegos, com vista à sua inclusão educativa, profissional e social.\n\n3 - A CPL, I. P., é dirigida por um conselho diretivo, constituído por um presidente, um vice-presidente e um vogal.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 28/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), em vigor a partir de 2015-02-11, produz efeitos a partir de 2015-01-01"
+  },
+  "207757986": {
+   "fragment_id": "207759994",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Caixa Geral de Aposentações, I. P.",
+   "in_force_from": "2015-02-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 28/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), em vigor a partir de 2015-02-11, produz efeitos a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 20.º-A — Caixa Geral de Aposentações, I. P.\n\n1 - A Caixa Geral de Aposentações, I. P., abreviadamente designada por CGA, I. P., tem por missão gerir o regime de segurança social público em matéria de pensões de aposentação, de reforma, de sobrevivência e de outras de natureza especial.\n\n2 - A CGA, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Assegurar a gestão e atribuição de pensões e prestações devidas no âmbito do regime de segurança social público e de outras de natureza especial, nos termos da lei;\n\nb) Assegurar a gestão e controlo das quotas dos subscritores e das contribuições de entidades;\n\nc) Propor ou participar na elaboração de projetos de legislação da segurança social do setor público;\n\nd) Elaborar informação estatística e de gestão.\n\n3 - A CGA, I. P., é dirigida por um conselho diretivo, constituído por um presidente e dois vogais.\n\n> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 28/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), em vigor a partir de 2015-02-11, produz efeitos a partir de 2015-01-01"
+  },
+  "107687398": {
+   "fragment_id": "107687489",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de novembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - Luís Maria de Barros Serra Marques Guedes - António de Magalhães Pires de Lima - José Alberto Nunes Ferreira Gomes - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 30 de dezembro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 31 de dezembro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "207757984": {
+   "fragment_id": "107687491",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 29.º)",
+   "in_force_from": "2015-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), em vigor a partir de 2015-02-11, produz efeitos a partir de 2015-01-01"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 29.º)\n\nDirigentes de organismos da administração indireta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 28/2015 - Diário da República n.º 28/2015, Série I de 2015-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2015-66463205), em vigor a partir de 2015-02-11, produz efeitos a partir de 2015-01-01"
+  }
+ }
+}

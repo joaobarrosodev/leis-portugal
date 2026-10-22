@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67164531:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2015-114896620",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/48-2015-67164531",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-05-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "207988700",
+    "114898281",
+    "114898282",
+    "114898283",
+    "114898284"
+   ]
+  }
+ ],
+ "fragments": {
+  "207988700": {
+   "fragment_id": "114896621",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 48/2015\n\nCria o Gabinete de Controlo Orçamental Externo (quinta alteração à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro, que aprova a estrutura e competências dos serviços da Assembleia da República)\n\nA Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição da República Portuguesa, de acordo com a alínea a) do n.º 1 do artigo 15.º e em execução do n.º 2 do artigo 27.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República (LOFAR), na redação dada pela Lei n.º 28/2003, de 30 de julho, o seguinte:"
+  },
+  "114898281": {
+   "fragment_id": "114896622",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro\n\nO artigo 6.º da Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro, alterada pelas Resoluções da Assembleia da República n.os 82/2004, de 27 de dezembro, 53/2006, de 7 de agosto, 57/2010, de 23 de junho, e 60/2014, de 30 de junho, passa a ter a seguinte redação:\n\n«Artigo 6.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) O Gabinete de Controlo Orçamental Externo (GCOE);\n\ng) [Anterior alínea f ).]\n\nh) [Anterior alínea g).]\n\ni) [Anterior alínea h).]»"
+  },
+  "114898282": {
+   "fragment_id": "114896623",
+   "type": 11,
+   "heading": "Artigo 2.º — Aditamentos à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aditamentos à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro\n\nÉ aditada à Resolução n.º 20/2004, de 16 de fevereiro, uma nova secção vi, com o título «Gabinete de Controlo Orçamental Externo», que compreende o artigo 24.º-A, com a seguinte redação:\n\n«SECÇÃO VI\n\nGabinete de Controlo Orçamental Externo\n\nArtigo 24.º-A\n\nGabinete de Controlo Orçamental Externo (GCOE)\n\n1 - O GCOE acompanha e controla, sob direção do Secretário-Geral, a execução orçamental e a situação económica, financeira, patrimonial e contabilística das entidades administrativas independentes com mera autonomia administrativa que funcionam junto da Assembleia da República.\n\n2 - No desenvolvimento das suas atribuições compete ao GCOE:\n\na) Elaborar relatórios anuais de acompanhamento e controlo da execução dos orçamentos das várias entidades administrativas independentes;\n\nb) Propor e avaliar a adoção de sistemas e procedimentos internos de controlo financeiro, nos termos legais aplicáveis;\n\nc) Propor a realização de ações periódicas de auditoria para verificação do cumprimento das normas internas e da legalidade dos respetivos atos e procedimentos;\n\nd) Elaborar relatórios sobre as ações de auditoria realizadas, propondo nas suas conclusões as medidas preventivas e corretivas que se revelem necessárias e adequadas;\n\ne) Acompanhar as auditorias do Tribunal de Contas às entidades administrativas independentes;\n\nf) Elaborar os pareceres que lhe sejam superiormente solicitados no âmbito das suas competências e prestar informação sobre os diversos procedimentos em que esteja envolvido, verificando a legalidade e eficiência de procedimentos e documentos no plano financeiro e propondo as necessárias correções.\n\n3 - O GCOE é dirigido por um diretor de serviços e funciona na direta dependência do Secretário-Geral.\n\n4 - As entidades administrativas independentes com mera autonomia administrativa prestam ao GCOE toda a colaboração necessária ao exercício das suas competências, fornecendo-lhe de forma completa e atempada, os documentos e as informações solicitadas, e previamente aprovadas pelo Secretário-Geral.»"
+  },
+  "114898283": {
+   "fragment_id": "114896624",
+   "type": 11,
+   "heading": "Artigo 3.º — Alterações sistemáticas à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alterações sistemáticas à Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro\n\nAs atuais secções vi, vii, viii e ix da Resolução da Assembleia da República n.º 20/2004, de 16 de fevereiro, passam, respetivamente, a secções vii, viii, ix e x."
+  },
+  "114898284": {
+   "fragment_id": "114896625",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente Resolução entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

@@ -1,0 +1,282 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:520642:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-73045578",
+ "dre_path": "/dr/detalhe/decreto-lei/196-2007-520642",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-05-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "119662959",
+    "73045682",
+    "73045683",
+    "73045684",
+    "73045685",
+    "73045686",
+    "73045687",
+    "73045688"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174548:por",
+     "title": "Decreto-Lei n.º 197/2012",
+     "published": "2012-08-24",
+     "dre_path": "/dr/detalhe/decreto-lei/197-2012-174548"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "73045681",
+    "73045682",
+    "73045683",
+    "73045710",
+    "73045685",
+    "73045686",
+    "73045687",
+    "73045711",
+    "73045712",
+    "73045713"
+   ]
+  },
+  {
+   "date": "2019-02-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:119622094:por",
+     "title": "Decreto-Lei n.º 28/2019",
+     "published": "2019-02-15",
+     "dre_path": "/dr/detalhe/decreto-lei/28-2019-119622094"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "119662959",
+    "119662960",
+    "119662961",
+    "119662962",
+    "119662963",
+    "119662964",
+    "119662965",
+    "119662966",
+    "119662967",
+    "119662968"
+   ]
+  }
+ ],
+ "fragments": {
+  "119662959": {
+   "fragment_id": "73045579",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-02-16",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 196/2007\n\nde 15 de Maio\n\nO Decreto-Lei n.º 256/2003, de 21 de Outubro, que transpôs para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0115\" title=\"Link para Directiva da Comunidade Europeia\">2001/115/CEE</a>, do Conselho, de 20 de Dezembro, prevê a possibilidade da emissão e conservação de facturas e documentos equivalentes por via electrónica.\n\nEsta medida, que se insere no contexto mais vasto da promoção da modernização e dinamização das empresas, oferece novas oportunidades tanto para o sector económico, através da possibilidade de desmaterialização dos sistemas de facturação, como para a administração tributária, mediante a introdução de novos métodos de controlo.\n\nAs condições de emissão, conservação e armazenamento de facturas ou documentos equivalentes por via electrónica devem assentar em critérios independentes, tanto quanto possível, do ambiente tecnológico, de modo a evitar encargos excessivos para os contribuintes e a obstar à cristalização dos sistemas informáticos de apoio e consequente obsolescência prematura.\n\nEste propósito, no entanto, deve ser alcançado sem prejuízo do direito de acesso da administração tributária aos sistemas de facturação implantados em termos que permitam o exercício, sem restrições, das operações de controlo.\n\nNo que concerne aos mecanismos de certificação e controlo, optou-se por fazer uma remissão para o regime jurídico constante do Decreto-Lei n.º 290-D/99, de 2 de Agosto, que se aplica aos documentos electrónicos e da assinatura digital, na redacção que lhe foi dada pelos Decretos-Leis n.os 62/2003, de 3 de Abril, 165/2004, de 6 de Julho, e 116-A/2006, de 16 de Junho.\n\nPor último, relativamente aos sistemas de transferências electrónicas de dados (EDI), seguiu-se o ditame da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0115\" title=\"Link para Directiva da Comunidade Europeia\">2001/115/CEE</a>, do Conselho, de 20 de Dezembro, remetendo-se para o designado «Acordo tipo EDI europeu», tal como se encontra definido no artigo 2.º da Recomendação n.º <a href=\"eurlex.asp?ano=1994&id=394H0820\" title=\"Link para Recomendação da Comunidade Europeia\">1994/820/CE</a>, da Comissão, de 19 de Outubro, relativa aos aspectos jurídicos da transferência electrónica de dados.\n\nForam observados os procedimentos de notificação à Comissão Europeia previstos no Decreto-Lei n.º 58/2000, de 18 de Abril, que transpôs a Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, alterada pela Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0048\" title=\"Link para Directiva da Comunidade Europeia\">98/48/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Julho, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "73045682": {
+   "fragment_id": "73045580",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei regula as condições técnicas para a emissão, conservação e arquivamento das facturas ou documentos equivalentes emitidos por via electrónica, nos termos do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro."
+  },
+  "73045683": {
+   "fragment_id": "73045581",
+   "type": 11,
+   "heading": "Artigo 2.º — Sistemas informáticos de facturação por via electrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sistemas informáticos de facturação por via electrónica\n\n1 - Os sistemas informáticos de emissão, de recepção e de arquivamento de facturas ou documentos equivalentes em formato electrónico devem garantir as seguintes funcionalidades:\n\na) A autenticidade da origem de cada factura electrónica ou documento equivalente;\n\nb) A integridade do conteúdo da factura electrónica ou documento equivalente;\n\nc) A integridade da sequência das facturas electrónicas ou documentos equivalentes;\n\nd) A validação cronológica das mensagens emitidas como facturas electrónicas ou documentos equivalentes;\n\ne) O arquivamento, em suporte informático, das facturas ou documentos equivalentes emitidos e recebidos por via electrónica;\n\nf) A manutenção, durante o período previsto no artigo 52.º do Código do IVA, da autenticidade, integridade e disponibilidade do conteúdo original das facturas e documentos equivalentes emitidos e recebidos por via electrónica;\n\ng) O não repúdio da origem e recepção das mensagens;\n\nh) A não duplicação das facturas ou documentos equivalentes emitidos e recebidos por via electrónica;\n\ni) Mecanismos que permitam verificar que o certificado utilizado pelo emissor da factura electrónica ou documento equivalente não se encontra revogado, caduco ou suspenso na respectiva data de emissão.\n\n2 - As funcionalidades dos sistemas informáticos de emissão, de recepção e de arquivamento de facturas ou documentos equivalentes em formato electrónico podem ser asseguradas, no todo ou em parte, por terceiros em nome e por conta do sujeito passivo."
+  },
+  "73045684": {
+   "fragment_id": "73045582",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissão de factura através de meios electrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Emissão de factura através de meios electrónicos\n\nAs facturas ou documentos equivalentes podem, sob reserva de aceitação pelo destinatário, ser emitidos por via electrónica, desde que seja garantida a autenticidade da sua origem e a integridade do seu conteúdo e adoptado um dos seguintes procedimentos:\n\na) Aposição de uma assinatura electrónica avançada nos termos do Decreto-Lei n.º 290-D/99, de 2 de Agosto, na redacção que lhe foi dada pelos Decretos-Leis n.os 62/2003, de 3 de Abril, 165/2004, de 6 de Julho, e 116-A/2006, de 16 de Junho;\n\nb) Utilização de um sistema de intercâmbio electrónico de dados, desde que os respectivos emitentes e destinatários outorguem um acordo que siga as condições jurídicas do «Acordo tipo EDI europeu», aprovado pela Recomendação n.º <a href=\"eurlex.asp?ano=1994&id=394H0820\" title=\"Link para Recomendação da Comunidade Europeia\">1994/820/CE</a>, da Comissão, de 19 de Outubro."
+  },
+  "73045685": {
+   "fragment_id": "73045583",
+   "type": 11,
+   "heading": "Artigo 4.º — Conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conservação\n\n1 - As facturas e documentos equivalentes emitidos e recebidos por via electrónica devem ser conservados, sem alterações, por ordem cronológica de emissão e recepção.\n\n2 - O processamento automático efectuado pelos sistemas informáticos de facturação por via electrónica deve incluir o registo dos dados relativos aos documentos mencionados no número anterior de forma a garantir uma transferência exacta e completa dos dados para os suportes de arquivamento.\n\n3 - Para garantia do acesso sem restrições, por parte da administração tributária, às facturas e documentos equivalentes emitidos e recebidos por via electrónica, a documentação respeitante à arquitectura, às análises funcional e orgânica e exploração do sistema informático, bem como os dispositivos de arquivamento, software e algoritmos integrados no sistema de facturação electrónica são mantidos acessíveis durante o prazo previsto na lei para a conservação da documentação."
+  },
+  "73045686": {
+   "fragment_id": "73045584",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos do arquivamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos do arquivamento\n\nO arquivamento das facturas e documentos equivalentes emitidos e recebidos por via electrónica é efectuado de forma a assegurar:\n\na) A execução de controlos que assegurem a integridade, exactidão e fiabilidade do arquivamento;\n\nb) A execução de funcionalidades destinadas a prevenir a criação indevida e a detectar qualquer alteração, destruição ou deterioração dos registos arquivados;\n\nc) A recuperação dos dados em caso de incidente;\n\nd) A reprodução de cópias legíveis e inteligíveis dos dados registados."
+  },
+  "73045687": {
+   "fragment_id": "73045585",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\n1 - A administração tributária pode comprovar nas instalações dos sujeitos passivos, bem como nas de outras entidades que prestem serviços de facturação electrónica ou de recepção, registo e arquivamento de facturas ou documentos equivalentes emitidos e recebidos por via electrónica, a conformidade do sistema utilizado com os requisitos legalmente exigidos, nos termos estabelecidos no Regime Complementar do Procedimento da Inspecção Tributária, aprovado pelo Decreto-Lei n.º 413/98, de 31 de Dezembro, com a redacção que lhe foi dada pela Lei n.º 50/2005, de 30 de Agosto.\n\n2 - Para efeitos do número anterior, as acções da administração tributária podem revestir a seguinte forma:\n\na) Acesso directo ao sistema informático de apoio à facturação para consulta dos dados com relevância fiscal, utilizando o seu próprio hardware e software, o do sujeito passivo ou o de entidade terceira;\n\nb) Solicitação ao sujeito passivo para que forneça os dados relevantes num suporte digital em formato standard;\n\nc) Cópia dos dados para suporte lógico de arquivamento.\n\n3 - No caso de a exploração do sistema informático ou o arquivamento dos dados se efectuar fora do País, o sujeito passivo inspeccionado é obrigado a facultar o acesso previsto no número anterior a partir do território nacional.\n\n4 - Em qualquer das acções mencionadas no número anterior, o sujeito passivo apoia a administração tributária no exercício do direito de acesso à informação, designadamente através da instrução sobre os procedimentos a adoptar para aceder ao sistema informático de apoio à facturação e para consultar os dados arquivados.\n\n5 - Nos casos em que se mostre exigível, para efeitos do cumprimento do regime de bens em circulação objecto de transacções entre sujeitos passivos de IVA, aprovado pelo Decreto-Lei n.º 147/2003, de 11 de Julho, alterado pelo Decreto-Lei n.º 238/2000, de 20 de Dezembro, deve ser garantida a reprodução em suporte de papel das facturas ou documentos equivalentes emitidos por via electrónica."
+  },
+  "73045688": {
+   "fragment_id": "73045586",
+   "type": 11,
+   "heading": "Artigo 7.º — Acordos e documentação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acordos e documentação técnica\n\nOs acordos celebrados entre os emitentes e os destinatários de facturas ou documentos equivalentes emitidos por via electrónica, bem como a documentação técnica de apoio ao utilizador dos sistemas informáticos de facturação por via electrónica, devem estar actualizados e disponíveis para consulta pela administração tributária."
+  },
+  "73045681": {
+   "fragment_id": "73045579",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 196/2007\n\nde 15 de Maio\n\nO Decreto-Lei n.º 256/2003, de 21 de Outubro, que transpôs para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0115\" title=\"Link para Directiva da Comunidade Europeia\">2001/115/CEE</a>, do Conselho, de 20 de Dezembro, prevê a possibilidade da emissão e conservação de facturas e documentos equivalentes por via electrónica.\n\nEsta medida, que se insere no contexto mais vasto da promoção da modernização e dinamização das empresas, oferece novas oportunidades tanto para o sector económico, através da possibilidade de desmaterialização dos sistemas de facturação, como para a administração tributária, mediante a introdução de novos métodos de controlo.\n\nAs condições de emissão, conservação e armazenamento de facturas ou documentos equivalentes por via electrónica devem assentar em critérios independentes, tanto quanto possível, do ambiente tecnológico, de modo a evitar encargos excessivos para os contribuintes e a obstar à cristalização dos sistemas informáticos de apoio e consequente obsolescência prematura.\n\nEste propósito, no entanto, deve ser alcançado sem prejuízo do direito de acesso da administração tributária aos sistemas de facturação implantados em termos que permitam o exercício, sem restrições, das operações de controlo.\n\nNo que concerne aos mecanismos de certificação e controlo, optou-se por fazer uma remissão para o regime jurídico constante do Decreto-Lei n.º 290-D/99, de 2 de Agosto, que se aplica aos documentos electrónicos e da assinatura digital, na redacção que lhe foi dada pelos Decretos-Leis n.os 62/2003, de 3 de Abril, 165/2004, de 6 de Julho, e 116-A/2006, de 16 de Junho.\n\nPor último, relativamente aos sistemas de transferências electrónicas de dados (EDI), seguiu-se o ditame da Directiva n.º <a href=\"eurlex.asp?ano=2001&id=301L0115\" title=\"Link para Directiva da Comunidade Europeia\">2001/115/CEE</a>, do Conselho, de 20 de Dezembro, remetendo-se para o designado «Acordo tipo EDI europeu», tal como se encontra definido no artigo 2.º da Recomendação n.º <a href=\"eurlex.asp?ano=1994&id=394H0820\" title=\"Link para Recomendação da Comunidade Europeia\">1994/820/CE</a>, da Comissão, de 19 de Outubro, relativa aos aspectos jurídicos da transferência electrónica de dados.\n\nForam observados os procedimentos de notificação à Comissão Europeia previstos no Decreto-Lei n.º 58/2000, de 18 de Abril, que transpôs a Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho, alterada pela Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0048\" title=\"Link para Directiva da Comunidade Europeia\">98/48/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Julho, relativa a um procedimento de informação no domínio das normas e regulamentações técnicas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "73045710": {
+   "fragment_id": "73045582",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissão de factura através de meios electrónicos",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Emissão de factura através de meios electrónicos\n\n1 - As faturas podem, sob reserva de aceitação pelo destinatário, ser emitidas por via eletrónica desde que seja garantida a autenticidade da sua origem, a integridade do seu conteúdo e a sua legibilidade.\n\n2 - Para efeitos do número anterior, entende-se por:\n\na) 'Fatura eletrónica' uma fatura que contenha os elementos referidos nos artigos 36.º ou 40.º, n.º 2, do Código do IVA e que tenha sido emitida e recebida em formato eletrónico;\n\nb) 'Autenticidade da origem' a comprovação da identidade do fornecedor ou prestador ou do emitente da fatura;\n\nc) 'Integridade do conteúdo' o facto de o conteúdo da fatura não ter sido alterado.\n\n3 - A garantia da autenticidade da origem e a integridade do conteúdo podem ser asseguradas mediante quaisquer controlos de gestão que criem uma pista de auditoria fiável entre as faturas e as transmissões de bens ou prestações de serviços.\n\n4 - Considera-se garantida a autenticidade da origem e a integridade do conteúdo das faturas eletrónicas se adotado, nomeadamente, um dos seguintes procedimentos:\n\na) Aposição de uma assinatura eletrónica avançada nos termos do Decreto-Lei n.º 290-D/99, de 2 de agosto, alterado pelos Decretos-Leis n.os 62/2003, de 3 de abril, 165/2004, de 6 de julho, 116-A/2006, de 16 de junho, e 88/2009, de 9 de abril;\n\nb) Utilização de um sistema de intercâmbio eletrónico de dados, desde que os respetivos emitentes e destinatários outorguem um acordo que siga as condições jurídicas do 'Acordo tipo EDI europeu', aprovado pela Recomendação n.º 1994/820/CE, da Comissão, de 19 de outubro.\n\n5 - No caso de lotes que compreendam várias faturas eletrónicas transmitidas ou disponibilizadas ao mesmo destinatário, as menções comuns às várias faturas podem ser feitas apenas uma vez, na medida em que, para cada fatura, esteja acessível a totalidade da informação.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01"
+  },
+  "73045711": {
+   "fragment_id": "73045609",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Direito de acesso das autoridades competentes dos Estados membros",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Direito de acesso das autoridades competentes dos Estados membros\n\n1 - A Autoridade Tributária e Aduaneira tem direito ao acesso em linha, ao carregamento e à utilização dos dados constantes das faturas emitidas e recebidas por via eletrónica por:\n\na) Sujeitos passivos que disponham de sede, estabelecimento estável ou domicílio em território nacional;\n\nb) Sujeitos passivos que disponham de sede, estabelecimento estável ou domicílio em outro Estado membro, relativamente às faturas em que o IVA seja devido em território nacional.\n\n2 - A autoridade competente de outro Estado membro tem direito ao acesso em linha, ao carregamento e à utilização dos dados constantes das faturas emitidas e recebidas por via eletrónica por sujeitos passivos que disponham de sede, estabelecimento estável ou domicílio em território nacional, relativamente às faturas em que o IVA seja devido nesse Estado membro.\n\n> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01"
+  },
+  "73045712": {
+   "fragment_id": "73045586",
+   "type": 11,
+   "heading": "Artigo 7.º — Acordos e documentação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acordos e documentação técnica\n\nOs acordos celebrados entre os emitentes e os destinatários de facturas ou documentos equivalentes emitidos por via electrónica, bem como a documentação técnica de apoio ao utilizador dos sistemas informáticos de facturação por via electrónica, devem estar actualizados e disponíveis para consulta pela administração tributária."
+  },
+  "73045713": {
+   "fragment_id": "73045587",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Manuel António Gomes de Almeida de Pinho - José Mariano Rebelo Pires Gago.\n\nPromulgado em 3 de Maio de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 4 de Maio de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "119662960": {
+   "fragment_id": "73045580",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2019-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei regula as condições técnicas para a emissão, conservação e arquivamento das facturas ou documentos equivalentes emitidos por via electrónica, nos termos do Código do Imposto sobre o Valor Acrescentado, aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro.\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+  },
+  "119662961": {
+   "fragment_id": "73045581",
+   "type": 11,
+   "heading": "Artigo 2.º — Sistemas informáticos de facturação por via electrónica",
+   "in_force_from": "2019-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+   ],
+   "markdown": "###### Artigo 2.º — Sistemas informáticos de facturação por via electrónica\n\n1 - Os sistemas informáticos de emissão, de recepção e de arquivamento de facturas ou documentos equivalentes em formato electrónico devem garantir as seguintes funcionalidades:\n\na) A autenticidade da origem de cada factura electrónica ou documento equivalente;\n\nb) A integridade do conteúdo da factura electrónica ou documento equivalente;\n\nc) A integridade da sequência das facturas electrónicas ou documentos equivalentes;\n\nd) A validação cronológica das mensagens emitidas como facturas electrónicas ou documentos equivalentes;\n\ne) O arquivamento, em suporte informático, das facturas ou documentos equivalentes emitidos e recebidos por via electrónica;\n\nf) A manutenção, durante o período previsto no artigo 52.º do Código do IVA, da autenticidade, integridade e disponibilidade do conteúdo original das facturas e documentos equivalentes emitidos e recebidos por via electrónica;\n\ng) O não repúdio da origem e recepção das mensagens;\n\nh) A não duplicação das facturas ou documentos equivalentes emitidos e recebidos por via electrónica;\n\ni) Mecanismos que permitam verificar que o certificado utilizado pelo emissor da factura electrónica ou documento equivalente não se encontra revogado, caduco ou suspenso na respectiva data de emissão.\n\n2 - As funcionalidades dos sistemas informáticos de emissão, de recepção e de arquivamento de facturas ou documentos equivalentes em formato electrónico podem ser asseguradas, no todo ou em parte, por terceiros em nome e por conta do sujeito passivo.\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+  },
+  "119662962": {
+   "fragment_id": "73045582",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissão de factura através de meios electrónicos",
+   "in_force_from": "2019-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Emissão de factura através de meios electrónicos\n\n1 - As faturas podem, sob reserva de aceitação pelo destinatário, ser emitidas por via eletrónica desde que seja garantida a autenticidade da sua origem, a integridade do seu conteúdo e a sua legibilidade.\n\n2 - Para efeitos do número anterior, entende-se por:\n\na) 'Fatura eletrónica' uma fatura que contenha os elementos referidos nos artigos 36.º ou 40.º, n.º 2, do Código do IVA e que tenha sido emitida e recebida em formato eletrónico;\n\nb) 'Autenticidade da origem' a comprovação da identidade do fornecedor ou prestador ou do emitente da fatura;\n\nc) 'Integridade do conteúdo' o facto de o conteúdo da fatura não ter sido alterado.\n\n3 - A garantia da autenticidade da origem e a integridade do conteúdo podem ser asseguradas mediante quaisquer controlos de gestão que criem uma pista de auditoria fiável entre as faturas e as transmissões de bens ou prestações de serviços.\n\n4 - Considera-se garantida a autenticidade da origem e a integridade do conteúdo das faturas eletrónicas se adotado, nomeadamente, um dos seguintes procedimentos:\n\na) Aposição de uma assinatura eletrónica avançada nos termos do Decreto-Lei n.º 290-D/99, de 2 de agosto, alterado pelos Decretos-Leis n.os 62/2003, de 3 de abril, 165/2004, de 6 de julho, 116-A/2006, de 16 de junho, e 88/2009, de 9 de abril;\n\nb) Utilização de um sistema de intercâmbio eletrónico de dados, desde que os respetivos emitentes e destinatários outorguem um acordo que siga as condições jurídicas do 'Acordo tipo EDI europeu', aprovado pela Recomendação n.º 1994/820/CE, da Comissão, de 19 de outubro.\n\n5 - No caso de lotes que compreendam várias faturas eletrónicas transmitidas ou disponibilizadas ao mesmo destinatário, as menções comuns às várias faturas podem ser feitas apenas uma vez, na medida em que, para cada fatura, esteja acessível a totalidade da informação.\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01"
+  },
+  "119662963": {
+   "fragment_id": "73045583",
+   "type": 11,
+   "heading": "Artigo 4.º — Conservação",
+   "in_force_from": "2019-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+   ],
+   "markdown": "###### Artigo 4.º — Conservação\n\n1 - As facturas e documentos equivalentes emitidos e recebidos por via electrónica devem ser conservados, sem alterações, por ordem cronológica de emissão e recepção.\n\n2 - O processamento automático efectuado pelos sistemas informáticos de facturação por via electrónica deve incluir o registo dos dados relativos aos documentos mencionados no número anterior de forma a garantir uma transferência exacta e completa dos dados para os suportes de arquivamento.\n\n3 - Para garantia do acesso sem restrições, por parte da administração tributária, às facturas e documentos equivalentes emitidos e recebidos por via electrónica, a documentação respeitante à arquitectura, às análises funcional e orgânica e exploração do sistema informático, bem como os dispositivos de arquivamento, software e algoritmos integrados no sistema de facturação electrónica são mantidos acessíveis durante o prazo previsto na lei para a conservação da documentação.\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+  },
+  "119662964": {
+   "fragment_id": "73045584",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos do arquivamento",
+   "in_force_from": "2019-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos do arquivamento\n\nO arquivamento das facturas e documentos equivalentes emitidos e recebidos por via electrónica é efectuado de forma a assegurar:\n\na) A execução de controlos que assegurem a integridade, exactidão e fiabilidade do arquivamento;\n\nb) A execução de funcionalidades destinadas a prevenir a criação indevida e a detectar qualquer alteração, destruição ou deterioração dos registos arquivados;\n\nc) A recuperação dos dados em caso de incidente;\n\nd) A reprodução de cópias legíveis e inteligíveis dos dados registados.\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+  },
+  "119662965": {
+   "fragment_id": "73045585",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": "2019-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+   ],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\n1 - A administração tributária pode comprovar nas instalações dos sujeitos passivos, bem como nas de outras entidades que prestem serviços de facturação electrónica ou de recepção, registo e arquivamento de facturas ou documentos equivalentes emitidos e recebidos por via electrónica, a conformidade do sistema utilizado com os requisitos legalmente exigidos, nos termos estabelecidos no Regime Complementar do Procedimento da Inspecção Tributária, aprovado pelo Decreto-Lei n.º 413/98, de 31 de Dezembro, com a redacção que lhe foi dada pela Lei n.º 50/2005, de 30 de Agosto.\n\n2 - Para efeitos do número anterior, as acções da administração tributária podem revestir a seguinte forma:\n\na) Acesso directo ao sistema informático de apoio à facturação para consulta dos dados com relevância fiscal, utilizando o seu próprio hardware e software, o do sujeito passivo ou o de entidade terceira;\n\nb) Solicitação ao sujeito passivo para que forneça os dados relevantes num suporte digital em formato standard;\n\nc) Cópia dos dados para suporte lógico de arquivamento.\n\n3 - No caso de a exploração do sistema informático ou o arquivamento dos dados se efectuar fora do País, o sujeito passivo inspeccionado é obrigado a facultar o acesso previsto no número anterior a partir do território nacional.\n\n4 - Em qualquer das acções mencionadas no número anterior, o sujeito passivo apoia a administração tributária no exercício do direito de acesso à informação, designadamente através da instrução sobre os procedimentos a adoptar para aceder ao sistema informático de apoio à facturação e para consultar os dados arquivados.\n\n5 - Nos casos em que se mostre exigível, para efeitos do cumprimento do regime de bens em circulação objecto de transacções entre sujeitos passivos de IVA, aprovado pelo Decreto-Lei n.º 147/2003, de 11 de Julho, alterado pelo Decreto-Lei n.º 238/2000, de 20 de Dezembro, deve ser garantida a reprodução em suporte de papel das facturas ou documentos equivalentes emitidos por via electrónica.\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+  },
+  "119662966": {
+   "fragment_id": "73045609",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Direito de acesso das autoridades competentes dos Estados membros",
+   "in_force_from": "2019-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16",
+    "Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Direito de acesso das autoridades competentes dos Estados membros\n\n1 - A Autoridade Tributária e Aduaneira tem direito ao acesso em linha, ao carregamento e à utilização dos dados constantes das faturas emitidas e recebidas por via eletrónica por:\n\na) Sujeitos passivos que disponham de sede, estabelecimento estável ou domicílio em território nacional;\n\nb) Sujeitos passivos que disponham de sede, estabelecimento estável ou domicílio em outro Estado membro, relativamente às faturas em que o IVA seja devido em território nacional.\n\n2 - A autoridade competente de outro Estado membro tem direito ao acesso em linha, ao carregamento e à utilização dos dados constantes das faturas emitidas e recebidas por via eletrónica por sujeitos passivos que disponham de sede, estabelecimento estável ou domicílio em território nacional, relativamente às faturas em que o IVA seja devido nesse Estado membro.\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16\n\n> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01"
+  },
+  "119662967": {
+   "fragment_id": "73045586",
+   "type": 11,
+   "heading": "Artigo 7.º — Acordos e documentação técnica",
+   "in_force_from": "2019-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+   ],
+   "markdown": "###### Artigo 7.º — Acordos e documentação técnica\n\nOs acordos celebrados entre os emitentes e os destinatários de facturas ou documentos equivalentes emitidos por via electrónica, bem como a documentação técnica de apoio ao utilizador dos sistemas informáticos de facturação por via electrónica, devem estar actualizados e disponíveis para consulta pela administração tributária.\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+  },
+  "119662968": {
+   "fragment_id": "73045587",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina - Manuel António Gomes de Almeida de Pinho - José Mariano Rebelo Pires Gago.\n\nPromulgado em 3 de Maio de 2007.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 4 de Maio de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 44.º do/a [Decreto-Lei n.º 28/2019 - Diário da República n.º 33/2019, Série I de 2019-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2019-119622094), em vigor a partir de 2019-02-16"
+  }
+ }
+}

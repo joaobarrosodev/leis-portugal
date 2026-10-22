@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:399633:por
+title: Decreto-Lei n.º 310/84
+short_title: null
+summary: Esclarece alguns aspectos, duvidosos ou omissos, do Decreto-Lei n.º 312/83, de 1 de Julho (gratificações aos membros
+  dos órgãos directivos dos estabelecimentos de ensino preparatório, secundário e médio)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e da Educação
+proposing_entity: null
+official_number: 310/84
+official_date: null
+publication_date: '1984-09-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 223/1984, Série I de 1984-09-25
+  number: '223'
+  series: I
+  supplement: null
+  pages: 2934 - 2934
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/09/22300/29342934.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '399633'
+  dre_path: /dr/detalhe/decreto-lei/310-1984-399633
+  internal: pt:dre:399633:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1984-399633
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1984-399633
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: 130d5cea22cf3c452e67aef5249b13f68f3691301124c5b3838cb540cedcab20
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-310-399633.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 310/84
+
+de 25 de Setembro
+
+Considerando que o [Decreto-Lei n.º 312/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1983-452689), de 1 de Julho, atribuiu uma gratificação aos directores das escolas do magistério primário e de educadores de infância, nada estabelecendo quanto ao cálculo da gratificação auferida pelos mesmos enquanto professores daqueles estabelecimentos de ensino, e que, por tal motivo, surgem dúvidas na execução do [Decreto-Lei n.º 78/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1982-599949), de 9 de Março;
+
+Considerando que o [Decreto-Lei n.º 312/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1983-452689), de 1 de Julho, é omisso no que se refere a compensações a atribuir aos professores provisórios não profissionalizados que exerceram funções em órgãos directivos de estabelecimentos oficiais de ensino no período que mediou entre 1 de Janeiro de 1980 e a data de entrada em vigor do [Decreto-Lei n.º 312/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1983-452689);
+
+Considerando ainda que têm surgido dúvidas na aplicação do disposto no mencionado [Decreto-Lei n.º 312/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1983-452689) aos conselhos directivos, quando estes se situam fora das localidades dos estabelecimentos de ensino;
+
+Considerando que estas dúvidas e omissões exigem a adopção das adequadas medidas legais, por forma a alcançar a desejável uniformização de procedimento:
+
+Assim:
+
+O Governo decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - O montante da gratificação a atribuir aos directores das escolas do magistério primário e das escolas normais de educadores de infância pelo exercício de funções docentes será calculado de harmonia com o disposto no n.º 2 do artigo 7.º do [Decreto-Lei n.º 78/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1982-599949), de 9 de Março.
+
+2 - Para efeitos do disposto no número anterior será apenas considerado o número de horas lectivas constantes do respectivo horário.
+
+###### Art. 2.º - 1 - No período que mediou entre 1 de Janeiro de 1980 e a data de entrada em vigor do [Decreto-Lei n.º 312/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1983-452689), de 1 de Julho, o tempo de serviço prestado em órgãos directivos de estabelecimentos oficiais de ensino por professores provisórios não profissionalizados será bonificado pelo factor 0,25 para efeitos de atribuição de fases.
+
+2 - A bonificação referida no número anterior só produzirá efeitos quando os professores reúnam as condições exigidas por lei para beneficiarem de concessão de fases.
+
+###### Art. 3.º - 1 - Aos membros docentes dos conselhos directivos das secções dos estabelecimentos de ensino preparatório e secundário é atribuída uma gratificação mensal de 4000$00, sendo-lhes aplicável o regime constante do [Decreto-Lei n.º 312/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1983-452689), de 1 de Julho.
+
+###### Art. 4.º É revogado o artigo 2.º do [Decreto-Lei n.º 102/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-1973-684231), de 13 de Março, sem prejuízo da manutenção das situações criadas ao abrigo daquele diploma legal.
+
+Visto e aprovado em Conselho de Ministros de 28 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - José Augusto Seabra.
+
+**Promulgado em 14 de Setembro de 1984.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 17 de Setembro de 1984.**
+
+**O Primeiro-Ministro, Mário Soares.**

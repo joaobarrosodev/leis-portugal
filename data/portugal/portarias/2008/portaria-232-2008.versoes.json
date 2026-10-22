@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:247027:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-856783545",
+ "dre_path": "/dr/detalhe/portaria/232-2008-247027",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-03-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "856887078"
+   ]
+  }
+ ],
+ "fragments": {
+  "856887078": {
+   "fragment_id": "856783546",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 232/2008\n\nde 11 de Março\n\nA Lei n.º 60/2007, de 4 de Setembro, que alterou o regime jurídico da urbanização e da edificação, remete a indicação dos elementos instrutores dos pedidos de realização de operações urbanísticas para portaria, tal como fazia a redacção actual desse mesmo regime.\n\nDeste modo, reúne-se num único diploma regulamentar a enunciação de todos os elementos que devem instruir aqueles pedidos, tendo-se optado por uma estruturação baseada na forma de procedimento adoptada, de modo a facilitar a sua consulta e actualizando os elementos que contavam da Portaria n.º 1110/2001, de 19 de Setembro.\n\nAssim:\n\nAo abrigo do disposto no n.º 4 do artigo 9.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, na redacção que lhe foi conferida pela Lei n.º 60/2007, de 4 de Setembro:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações e pelo Secretário de Estado do Ordenamento do Território e das Cidades, o seguinte:"
+  }
+ }
+}

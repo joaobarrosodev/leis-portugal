@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:392011:por
+title: Despacho Normativo n.º 83/82
+short_title: null
+summary: Atribui um subsídio ao leite pasteurizado de fabrico açoriano para consumo no continente
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Agricultura, Comércio e Pescas - Secretarias de Estado do Orçamento e do Comércio
+proposing_entity: null
+official_number: 83/82
+official_date: null
+publication_date: '1982-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/1982, Série I de 1982-05-29
+  number: '122'
+  series: I
+  supplement: null
+  pages: 1469 - 1469
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/05/12200/14691469.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '392011'
+  dre_path: /dr/detalhe/despacho-normativo/83-1982-392011
+  internal: pt:dre:392011:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/83-1982-392011
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/83-1982-392011
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-05-29T00:00:00Z'
+integrity:
+  source_sha256: 72b0d7ebd67ec01e978052166ed488ce5f0f8fdfe8b865b6853c970e0c81c90d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-83-392011.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 83/82
+
+Não tendo sido possível coordenar simultaneamente as políticas continental e açoriana para o sector do leite e lacticínios, a publicação da [Portaria n.º 1135/81](https://diariodarepublica.pt/dr/detalhe/portaria/1135-1981-144403), de 31 de Dezembro, veio criar um vazio na comercialização do leite ultrapasteurizado de fabrico açoriano para consumo no continente.
+
+Uma vez que o leite em natureza se encontra ainda fortemente subsidiado, apesar de novo aumento ao consumidor se ter verificado e não sendo possível estabelecer regimes diversos para leites do mesmo tipo, sob pena de se provocarem distorções que aquela situação desencadearia.
+
+Determina-se:
+
+1 - Ao leite ultrapasteurizado de fabrico açoriano para consumo no continente serão atribuídos os seguintes subsídios por litro:
+
+De 1 de Janeiro a 28 de Fevereiro de 1982 - 3$20.
+
+A partir de 1 de Março de 1982 - 4$85.
+
+2 - À Empresa de Lacticínios da Ilha Terceira (LIT) será atribuído um subsídio de $60 por litro de leite transportado para o Algarve, com destino à União de Cooperativas de Produtores de Leite do Algarve e aos armazenistas distribuidores, para um quantitativo médio semanal de 37500 l.
+
+Este subsídio será liquidado pela Junta Nacional dos Produtos Pecuários, mediante documentação comprovativa a apresentar pelas entidades interessadas.
+
+3 - Os subsídios referidos nos n.os 1 e 2 serão suportados pelo Fundo de Abastecimento.
+
+Secretarias de Estado do Orçamento e do Comércio, 18 de Março de 1982. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias. - O Secretário de Estado do Comércio, António Escaja Gonçalves.

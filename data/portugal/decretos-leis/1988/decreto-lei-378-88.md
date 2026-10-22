@@ -1,0 +1,196 @@
+---
+schema_version: '1.0'
+id: pt:dre:354138:por
+title: Decreto-Lei n.º 378/88
+short_title: null
+summary: Cria uma linha de crédito especial para recuperação e relançamento da actividade das empresas agrícolas e pecuárias
+  prejudicadas pelo efeito das condições atmosféricas anormais verficadas nos meses de Maio a Julho de 1988
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 378/88
+official_date: null
+publication_date: '1988-10-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 246/1988, Série I de 1988-10-24
+  number: '246'
+  series: I
+  supplement: null
+  pages: 4313 - 4316
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/10/24600/43134316.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '354138'
+  dre_path: /dr/detalhe/decreto-lei/378-1988-354138
+  internal: pt:dre:354138:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1988-354138
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/378-1988-354138
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-10-24T00:00:00Z'
+integrity:
+  source_sha256: 9d4b50e59780871f685f681f54648f3211d2835c15bf80417e26562b8040942c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-378-354138.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 378/88
+
+de 24 de Outubro
+
+As condições atmosféricas anormais verificadas nos últimos meses de Maio a Julho afectaram significativamente a agricultura em todas as regiões do continente.
+
+A quebra acentuada da produção e dos consequentes rendimentos veio acarretar dificuldades económicas graves às empresas agro-pecuárias que importa minimizar.
+
+Com a criação da linha especial de crédito prevista no presente diploma visa-se facultar recursos para financiamento do capital fixo e circulante das unidades produtivas do sector, com o objectivo de reparar os prejuízos causados, através da reposição dos rendimentos e da capacidade produtiva das empresas, da satisfação das responsabilidades assumidas por financiamentos anteriores e da viabilização de novas operações de crédito no âmbito da regulamentação comunitária.
+
+Pretende-se, desta maneira, evitar a paralisação do esforço de modernização da agricultura e da respectiva capacidade de resposta face ao desafio da integração europeia.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É criada uma linha de crédito especial com o objectivo de recuperação e relançamento da actividade das empresas agrícolas e pecuárias prejudicadas por efeito das condições atmosféricas anormais verificadas nos meses de Maio a Julho de 1988.
+
+###### Artigo 2.º — Acesso
+
+1 - Têm acesso à linha de crédito os titulares de unidades produtivas do sector agro-pecuário cujas explorações afectadas se localizam no território continental relativamente às actividades constantes do anexo n.º 1 a este diploma, que dele faz parte integrante.
+
+2 - O acesso à linha de crédito é limitado, porém, consoante as regiões, ao seguinte número máximo das actividades referidas no número anterior:
+
+a) Algarve, duas actividades;
+
+b) Entre Douro e Minho, Beira Litoral, Alentejo e Ribatejo Oeste, três actividades;
+
+c) Beira Interior e Trás-os-Montes, quatro actividades.
+
+3 - Para efeitos deste diploma, a produção de cereais de espécies diversas e a pecuária são consideradas, cada uma, como uma única actividade, independentemente do número de espécies ou de animais a que respeitem.
+
+###### Artigo 3.º — Montante
+
+O crédito é concedido pelas instituições de crédito sob a forma de empréstimo reembolsável, não podendo exceder, por cada actividade, o produto das áreas respectivas ou do número de animais pelos valores constantes do anexo n.º 2 a este diploma, que dele faz parte integrante.
+
+###### Artigo 4.º — Utilização, prazo e condições financeiras
+
+1 - Os empréstimos são concedidos pelo prazo máximo de seis anos e amortizáveis anualmente, em prestações de igual montante, até ao máximo de seis anuidades, vencendo-se a primeira amortização um ano após a data do contrato.
+
+2 - A utilização dos empréstimos é realizada no prazo máximo de seis meses após a data do contrato, podendo efectuar-se até três utilizações por operação.
+
+3 - Os empréstimos vencem juros, contados dia a dia sobre o capital efectivamente utilizado, à taxa de juro anual contratada. Os juros são liquidados e pagos anualmente.
+
+4 - Os juros são pagos pelos mutuários de acordo com as seguintes percentagens da taxa contratual ou da que vigorar à data do início do correspondente período de contagem, se esta for inferior:
+
+a) 1.º e 2.º anos, 50%;
+
+b) 3.º ano, 60%;
+
+c) 4.º ano, 70%;
+
+d) 5.º ano, 80%;
+
+e) 6.º ano, 100%.
+
+5 - A bonificação, correspondente à diferença entre a taxa contratual e as percentagens estabelecidas no anterior n.º 4, é suportada pelo Orçamento do Estado e paga às instituições de crédito na data do vencimento dos juros a que respeitam, através do Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).
+
+6 - Qualquer alteração da bonificação resultante do aumento da taxa de juro inicial contratada depende da prévia concordância do IFADAP quanto àquele aumento.
+
+###### Artigo 5.º — Condições de bonificação
+
+1 - A bonificação dos juros é processada enquanto se verificar o pontual cumprimento das obrigações contratualmente assumidas pelos mutuários.
+
+2 - O incumprimento de qualquer destas obrigações deve ser prontamente comunicado pelas instituições de crédito ao IFADAP e acarreta a cessação das bonificações.
+
+3 - A cessação das bonificações importa, para o mutuário, o pagamento dos juros à taxa contratual, desde a data da última contagem de responsabilidades anterior à data do incumprimento.
+
+###### Artigo 6.º — Prazo para apresentação das propostas e decisão
+
+1 - As propostas são apresentadas às instituições de crédito até 31 de Janeiro de 1989, devendo a decisão de crédito ser tomada até 31 de Março do mesmo ano e comunicada ao IFADAP até 30 de Abril de 1989.
+
+2 - A contratação dos empréstimos entre as instituições de crédito e os beneficiários deverá efectuar-se até 30 de Setembro de 1989, devendo os contratos ser enviados para o IFADAP nos 30 dias seguintes ao da data da sua celebração.
+
+###### Artigo 7.º — Formalização
+
+Os contratos são formalizados por contratos-tipo, escritos, a definir pelo IFADAP.
+
+###### Artigo 8.º — Outras condições
+
+1 - Compete ao IFADAP adaptar as normas de funcionamento da linha de crédito necessárias para a boa execução deste diploma.
+
+2 - As instituições de crédito fornecerão pontualmente ao IFADAP todas as informações por este solicitadas relativamente à aplicação do disposto no presente diploma.
+
+###### Artigo 9.º — Retribuição do IFADAP
+
+Pelos serviços prestados no âmbito do presente diploma o IFADAP perceberá uma remuneração em termos e condições a definir por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação e a suportar pelas verbas inscritas no Orçamento do Estado para financiamento da linha de crédito agora criada.
+
+###### Artigo 10.º — Inscrição orçamental
+
+Para a execução das disposições financeiras referentes à bonificação da taxa de juro dos empréstimos e remuneração do IFADAP, a Direcção-Geral do Tesouro fica autorizada a fazer inscrever no Orçamento do Estado as verbas necessárias.
+
+###### Artigo 11.º — Publicação
+
+O IFADAP promoverá a publicação de lista dos beneficiários da linha de crédito criada por este decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 15 de Setembro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Álvaro Roque de Pinho Bissaia Barreto.
+
+**Promulgado em 10 de Outubro de 1988.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 12 de Outubro de 1988.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+## Anexo n.º 1 — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/24600/43134316.pdf))](https://files.diariodarepublica.pt/1s/1988/10/24600/43134316.pdf)
+
+## Anexo n.º 2 — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/24600/43134316.pdf))](https://files.diariodarepublica.pt/1s/1988/10/24600/43134316.pdf)

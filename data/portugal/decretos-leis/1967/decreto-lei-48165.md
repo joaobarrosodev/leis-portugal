@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:401510:por
+title: Decreto-Lei n.º 48165
+short_title: null
+summary: Cria na Direcção-Geral dos Serviços Florestais e Aquícolas o Serviço de Inspecção da Caça e Pesca e define a sua
+  competência e funcionamento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Florestais e Aquícolas
+proposing_entity: null
+official_number: '48165'
+official_date: null
+publication_date: '1967-12-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 299/1967, Série I de 1967-12-27
+  number: '299'
+  series: I
+  supplement: null
+  pages: 2509 - 2510
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/12/29900/25092510.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '401510'
+  dre_path: /dr/detalhe/decreto-lei/48165-1967-401510
+  internal: pt:dre:401510:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48165-1967-401510
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48165-1967-401510
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1967-12-27T00:00:00Z'
+integrity:
+  source_sha256: 4348a5f9c517965883a9355fd3050d828c7dc33a27d4ea43f1cfa3544693c6ac
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1967/DRE-1967-48165-401510.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48165
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º É criado na Direcção-Geral dos Serviços Florestais e Aquícolas o Serviço de Inspecção da Caça e Pesca, ao qual compete, sob a imediata dependência do respectivo director-geral:
+
+a) Estudar todos os assuntos relativos à caça, pesca nas águas interiores, protecção da natureza e sujeição da propriedade privada ao regime florestal parcial;
+
+b) Organizar, instruir e informar os processos relativos a estas matérias;
+
+c) Orientar e inspeccionar as actividades técnicas das comissões venatórias e as suas actividades administrativas sujeitas à orientação e fiscalização da Direcção-Geral dos Serviços Florestais e Aquícolas;
+
+d) Orientar a polícia e fiscalização da caça e da pesca nas águas interiores;
+
+e) Organizar e manter actualizado o cadastro dos caçadores e pescadores e o registo das entidades que exerçam funções com interesse em matérias venatórias e aquícolas;
+
+f) Propor superiormente as providências convenientes sobre as matérias a que se refere a alínea a);
+
+g) Pronunciar-se sobre todos os assuntos que superiormente sejam submetidos à sua apreciação.
+
+###### Art. 2.º - 1. O Serviço de Inspecção da Caça e Pesca disporá do pessoal cujas categorias constam do mapa anexo ao presente diploma.
+
+2. O referido pessoal será contratado ou destacado dos quadros da Direcção-Geral dos Serviços Florestais e Aquícolas, por despacho do Secretário de Estado da Agricultura, para qualquer das categorias do referido mapa.
+
+3. Em relação ao pessoal destacado, aplicar-se-ão as disposições contidas nos §§ 1.º e 2.º do artigo 57.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956.
+
+4. O pessoal a contratar deverá possuir as habilitações literárias indicadas no mapa 2 a que se refere o artigo 43.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956, para as categorias correspondentes ou, quando essa correspondência não possa ser estabelecida, aquelas que forem reconhecidas suficientes por despacho do Secretário de Estado da Agricultura, sem prejuízo das normas legais em vigor.
+
+5. O pessoal contratado ocupará inicialmente, no quadro anexo ao presente diploma, a categoria menos elevada dentro de cada classe onde se possa estabelecer uma hierarquia, podendo ascender às categorias seguintes mediante concurso a realizar nas condições aplicáveis ao pessoal da Direcção-Geral dos Serviços Florestais e Aquícolas.
+
+6. Poderá, no entanto, a admissão fazer-se pela 2.ª classe, em relação, respectivamente, aos técnicos e técnicos auxiliares, quando se trate de indivíduos que já estejam prestando serviço à Direcção-Geral dos Serviços Florestais e Aquícolas, na situação de contratados ou qualquer outra, há pelo menos três anos.
+
+7. O número de unidades não indicado no quadro anexo ao presente diploma será fixado, para cada categoria, por despacho do Secretário de Estado da Agricultura e com o acordo do Ministro das Finanças, tendo em vista as necessidades do serviço e as disponibilidades do Fundo Especial da Caça e Pesca.
+
+###### Art. 3.º Poderá ser assalariado pessoal quando as necessidades do serviço o justifiquem e as disponibilidades do Fundo Especial da Caça e Pesca o permitam.
+
+###### Art. 4.º - 1. A partir do início do ano de 1968, as despesas a efectuar pelo Serviço de Inspecção da Caça e Pesca em execução das suas atribuições serão suportadas em conta de dotação expressamente inscrita no Orçamento Geral do Estado, dentro do capítulo correspondente à Direcção-Geral dos Serviços Florestais e Aquícolas, com contrapartida nos depósitos efectuados pelo Fundo Especial da Caça e Pesca, em conta de «Operações de tesouraria», os quais serão transferidos para receita efectiva do Estado à medida que for sendo necessário.
+
+2. No ano em curso, as despesas a que se alude no número anterior continuarão a ser satisfeitas pelas verbas adequadas actualmente atribuídas à Direcção-Geral dos Serviços Florestais e Aquícolas no orçamento do Ministério da Economia, considerando-se legitimadas as que hajam sido realizadas nas mesmas condições desde a entrada em vigor da [Lei n.º 2132](https://diariodarepublica.pt/dr/detalhe/lei/2132-1967-312807), de 26 de Maio de 1967.
+
+3. As importâncias provenientes das receitas que servem de contrapartida às dotações de despesa referidas no número anterior não escrituradas em receitas do Estado em conta do ano económico de 1967 pertencerão ao Fundo Especial da Caça e Pesca.
+
+###### Art. 5.º As importâncias das receitas do Fundo Especial da Caça e Pesca serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência e movimentadas directamente através de cheques nominativos assinados pelo presidente da comissão administrativa e por um vogal, mas a sua aplicação não poderá ser feita sem prévia inscrição em orçamento privativo e de harmonia com as normas da contabilidade pública.
+
+###### Art. 6.º - 1. Os membros do Conselho Superior da Caça e da comissão administrativa do Fundo Especial da Caça e Pesca têm direito:
+
+a) A senhas de presença por cada sessão a que assistam, de quantitativo a fixar pelo Secretário de Estado da Agricultura, com o acordo do Ministro das Finanças;
+
+b) A ajudas de custo correspondentes aos vencimentos, que se situam entre as letras C e F do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), quando outros mais elevados não lhes competirem como funcionários, e a transportes nas condições legais em vigor.
+
+2. Os direitos atribuídos neste artigo são extensivos aos suplentes que substituam os vogais efectivos em qualquer reunião.
+
+3. As importâncias respeitantes às senhas de presença são acumuláveis com os abonos percebidos pelo exercício de quaisquer funções no Estado, nos corpos administrativos, nas pessoas colectivas de utilidade pública administrativa e nos organismos de coordenação económica, com sujeição ao «limite de vencimentos» legalmente estabelecido.
+
+###### Art. 7.º - 1. O director do Serviço de Inspecção da Caça e Pesca passa a fazer parte dos conselhos de administração e técnico da Direcção-Geral dos Serviços Florestais e Aquícolas, referidos nos artigos 12.º e 16.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956.
+
+2. Aos membros destes conselhos ou aos representantes de entidades nesses mesmos conselhos, quando não sejam servidores da Direcção-Geral dos Serviços Florestais e Aquícolas, serão abonadas senhas de presença, ajudas de custo e transportes nas mesmas condições referidas no artigo anterior.
+
+###### Art. 8.º O chefe dos serviços administrativos do Serviço de Inspecção da Caça e Pesca receberá pelo exercício das funções de secretário do Conselho Superior da Caça e do Fundo Especial da Caça e Pesca a gratificação que for fixada pelo Secretário de Estado da Agricultura, de acordo com o Ministro das Finanças.
+
+###### Art. 9.º O Fundo de Fomento Florestal e Aquícola, regulado pelo Decreto-Lei n.º 45795, de 6 de Julho de 1964, deixa de ter quaisquer interferências nos sectores aquícola e cinegético, passando a designar-se por Fundo de Fomento Florestal.
+
+###### Art. 10.º As dúvidas que se suscitem acerca da execução e interpretação do presente diploma serão resolvidas por despacho do Secretário de Estado da Agricultura, com acordo do Ministro das Finanças, quando se trate de matéria de natureza financeira.
+
+###### Art. 11.º Este decreto-lei entra imediatamente em vigor.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 27 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires.
+
+Para ser presente à Assembleia Nacional.
+
+Quadro das categorias do pessoal do Serviço de Inspecção da Caça e Pesca
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29900/25092510.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29900/25092510.pdf)
+
+Ministérios das Finanças e da Economia, 27 de Dezembro de 1967. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.

@@ -1,0 +1,901 @@
+---
+schema_version: '1.0'
+id: pt:dre:143320:por
+title: Decreto-Lei n.º 156/2005
+short_title: null
+summary: Estabelece a obrigatoriedade de disponibilização do livro de reclamações a todos os fornecedores de bens ou prestadores
+  de serviços que tenham contacto com o público em geral
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 156/2005
+official_date: null
+publication_date: '2005-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/2005, Série I-A de 2005-09-15
+  number: '178'
+  series: I
+  supplement: null
+  pages: 5580 - 5585
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/09/178a00/55805585.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-05-27'
+version_history:
+  file: decreto-lei-156-2005.versoes.json
+  count: 12
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2005-09-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-05'
+    amending: pt:dre:629445:por
+    amending_title: Decreto-Lei n.º 371/2007
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Anexo I
+    - Altera Anexo II
+    - Entrada Vigor Diploma
+  - date: '2009-08-17'
+    amending: pt:dre:608884:por
+    amending_title: Decreto-Lei n.º 118/2009
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+  - date: '2009-11-01'
+    amending: pt:dre:483411:por
+    amending_title: Decreto-Lei n.º 317/2009
+    changes:
+    - Altera Anexo I
+    - Entrada Vigor Diploma
+  - date: '2012-11-08'
+    amending: pt:dre:191534:por
+    amending_title: Decreto-Lei n.º 242/2012
+    changes:
+    - Altera Anexo I
+  - date: '2017-07-01'
+    amending: pt:dre:107541411:por
+    amending_title: Decreto-Lei n.º 74/2017
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Capítulo III
+    - Adita Artigo 5.º-B
+    - Adita Artigo 5.º-C
+    - Adita Capítulo IV
+    - Adita Capítulo VII
+    - Adita Artigo 12.º-A
+    - Adita Artigo 13.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Capítulo II
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Capítulo III
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Capítulo IV
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Capítulo VI
+    - Altera Anexo I
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+  - date: '2018-01-01'
+    amending: pt:dre:107648947:por
+    amending_title: Decreto-Lei n.º 81-C/2017
+    changes:
+    - Altera Anexo I
+  - date: '2020-03-11'
+    amending: pt:dre:130070740:por
+    amending_title: Decreto-Lei n.º 9/2020
+    changes:
+    - Adita Artigo 9.º-A
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 9.º-A
+    - Altera Artigo 11.º
+  - date: '2025-12-10'
+    amending: pt:dre:935004232:por
+    amending_title: Decreto-Lei n.º 103/2025
+    changes:
+    - Altera Artigo 11.º
+    - Altera Anexo I
+  - date: '2025-12-27'
+    amending: pt:dre:992098939:por
+    amending_title: Lei n.º 69/2025
+    changes:
+    - Altera Anexo
+  - date: '2026-05-27'
+    amending: pt:dre:1125313601:por
+    amending_title: Decreto-Lei n.º 102/2026
+    changes:
+    - Altera Anexo I
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/156/2005/p/cons/20260522/pt/html
+  oj: null
+  dre: '143320'
+  dre_path: /dr/detalhe/decreto-lei/156-2005-143320
+  internal: pt:dre:143320:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/156-2005-143320
+  metadata_url: https://data.dre.pt/eli/dec-lei/156/2005/p/cons/20260522/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34431675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-34431675
+  retrieved_at: '2026-10-22T11:41:12Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b98b75efd45ec9e87620bbfa1a05740847f735255655f22c092f3138d28fc726
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:41:12Z'
+  notes: 12 versão(ões); histórico completo em decreto-lei-156-2005.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atendimento Personalizado
+- Livro de Reclamações
+- Centro Distrital de Segurança Social
+- Inspecção Geral das Actividades Culturais
+- Infarmed
+- Ministério da Educação
+- Contra-ordenação
+- Qualidade dos Serviços
+- Fiscalização
+- Banco de Portugal
+- Inspecção Geral das Actividades Económicas
+- Instituto do Desporto de Portugal
+- Dados Estatísticos
+- Instituto de Seguros de Portugal
+- Instituto do Consumidor
+- Direito à Informação
+- Direitos do Indivíduo
+- Informação do Consumidor
+- Serviço Público
+- Prestação de Serviços
+- Proteção do Consumidor
+- Reclamação
+- Sanção
+- Setor Privado
+- Direitos do Utente
+- Atendimento Público
+relationships:
+- type: amended_by
+  target: pt:dre:629445:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º;
+    Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Anexo I; Altera Anexo II; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445
+  date: '2007-11-06'
+- type: amended_by
+  target: pt:dre:608884:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º;
+    Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Anexo I; Altera Anexo II; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2009-608884
+  date: '2009-05-19'
+- type: amended_by
+  target: pt:dre:483411:por
+  label: Altera Anexo I; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411
+  date: '2009-10-30'
+- type: amended_by
+  target: pt:dre:191534:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534
+  date: '2012-11-07'
+- type: amended_by
+  target: pt:dre:107541411:por
+  label: Adita Artigo 5.º-A; Adita Capítulo III; Adita Artigo 5.º-B; Adita Artigo 5.º-C; Adita Capítulo IV; Adita Capítulo
+    VII; Adita Artigo 12.º-A; Adita Artigo 13.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Capítulo II; Altera Artigo
+    3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Capítulo III; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Capítulo IV; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411
+  date: '2017-06-21'
+- type: amended_by
+  target: pt:dre:107648947:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-c-2017-107648947
+  date: '2017-07-07'
+- type: amended_by
+  target: pt:dre:130070740:por
+  label: Adita Artigo 9.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2020-130070740
+  date: '2020-03-10'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 9.º; Altera Artigo 9.º-A; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:935004232:por
+  label: Altera Artigo 11.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232
+  date: '2025-09-11'
+- type: amended_by
+  target: pt:dre:992098939:por
+  label: Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/lei/69-2025-992098939
+  date: '2025-12-22'
+- type: amended_by
+  target: pt:dre:1125313601:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601
+  date: '2026-05-22'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/135/1999/04/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/135/1999/04/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2004/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1996/07/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1996/07/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/24/1996/07/31/p/dre
+article_structure:
+  article_count: 22
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:41:12Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 156/2005
+
+O livro de reclamações constitui um dos instrumentos que tornam mais acessível o exercício do direito de queixa, ao proporcionar ao consumidor a possibilidade de reclamar no local onde o conflito ocorreu.
+
+A criação deste livro teve por base a preocupação com um melhor exercício da cidadania através da exigência do respeito dos direitos dos consumidores.
+
+A justificação da medida, inicialmente vocacionada para o sector do turismo e para os estabelecimentos hoteleiros, de restauração e bebidas em particular, prendeu-se com a necessidade de tornar mais célere a resolução de conflitos entre os cidadãos consumidores e os agentes económicos, bem como de permitir a identificação, através de um formulário normalizado, de condutas contrárias à lei. É por este motivo que é necessário incentivar e encorajar a sua utilização, introduzindo mecanismos que o tornem mais eficaz enquanto instrumento de defesa dos direitos dos consumidores e utentes de forma a alcançar a igualdade material dos intervenientes a que se refere o artigo 9.º da Lei n.º 24/96, de 31 de Julho.
+
+Actualmente, o livro de reclamações é obrigatório nos serviços e organismos da Administração Pública em que seja efectuado atendimento ao público, nos estabelecimentos de restauração ou de bebidas, nos empreendimentos turísticos, que incluem os estabelecimentos hoteleiros, os meios complementares de alojamento turístico, os parques de campismo públicos e privativos e os conjuntos hoteleiros, nas agências de viagens e turismo, nas casas de natureza, nos empreendimentos de turismo no espaço rural, nos estabelecimentos termais, nas empresas de animação turística, nos recintos com diversões aquáticas, nas entidades organizadoras de campos de férias, nos operadores sujeitos à actividade reguladora da Entidade Reguladora da Saúde, nas unidades privadas que actuem na área do tratamento ou da recuperação de toxicodependentes, nas unidades de saúde privadas que utilizem, com fins de diagnóstico, de terapêutica e de prevenção, radiações ionizantes, ultra-sons ou campos magnéticos, nas unidades privadas de diálise que prossigam actividades terapêuticas no âmbito da hemodiálise e técnicas de depuração extracorporal afins ou da diálise peritoneal crónica, nas unidades privadas de saúde, entendendo-se como tal «os estabelecimentos não integrados no Serviço Nacional de Saúde que tenham por objecto a prestação de quaisquer serviços médicos ou de enfermagem, com internamento ou sala de recobro» nas unidades de saúde privadas de medicina física, de reabilitação, de diagnóstico, terapêutica e prevenção e de reinserção familiar e sócio-profissional, nas clínicas e nos consultórios dentários privados, nos laboratórios privados que prossigam actividades de diagnóstico, de monitorização terapêutica e de prevenção no domínio da patologia humana, independentemente da forma jurídica adoptada, nos estabelecimentos em que sejam exercidas actividades de apoio social no âmbito da segurança social relativas a crianças, jovens, pessoas idosas ou pessoas com deficiência, bem como os destinados à prevenção e reparação de situações de carência, de disfunção e de marginalização social, nas entidades responsáveis pelo serviço de apoio domiciliário, nos estabelecimentos em que seja exercida a actividade de mediação imobiliária ou de angariação imobiliária, nas escolas de condução, nos centros de inspecções técnicas periódicas de automóveis, nas agências funerárias e nos postos consulares.
+
+Não obstante esta extensa lista, existem sectores de actividade que não estão abrangidos por esta obrigação, não se justificando que assim seja, sobretudo no que diz respeito à prestação dos serviços públicos essenciais.
+
+O Programa do XVII Governo Constitucional estabelece no capítulo III, alínea V), a necessidade de alargar a obrigatoriedade de existência do livro de reclamações a mais sectores. É este o principal objectivo deste diploma: tornar obrigatória a existência do livro de reclamações a todos os fornecedores de bens e prestadores de serviços que tenham contacto com o público, com excepção dos serviços e organismos da Administração Pública, que continuam a reger-se pelo disposto no artigo 38.º do Decreto-Lei n.º 135/99, de 22 de Abril.
+
+No desenvolvimento desta obrigação, aproveita-se para se proceder à uniformização do regime do livro de reclamações, incluindo neste diploma todas as entidades e estabelecimentos aos quais se aplica presentemente a obrigação de possuir aquele livro.
+
+O presente diploma dispõe que o dever de remeter a queixa recai sobre o prestador de serviços ou o fornecedor do bem. No entanto, com o objectivo de assegurar que a reclamação chega, de facto, à entidade competente, o diploma permite que o consumidor envie ele próprio também a reclamação. Para tanto, é reforçado o direito à informação do consumidor, quer através da identificação no letreiro da entidade competente quer na própria folha de reclamação que contém explicitamente informação sobre aquela faculdade.
+
+São, assim, reforçadas as garantias de eficácia do livro de reclamações, enquanto instrumento de prevenção de conflitos, contribuindo para a melhoria da qualidade do serviço prestado e dos bens vendidos.
+
+Foram consultados os membros do Conselho Nacional do Consumo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Do objeto e do âmbito de aplicação
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei visa reforçar os procedimentos de defesa dos direitos dos consumidores e utentes no âmbito do fornecimento de bens e prestação de serviços.
+
+2 - O presente decreto-lei institui a obrigatoriedade de existência e disponibilização do livro de reclamações, nos formatos físico e eletrónico.
+
+3 - Os fornecedores de bens e os prestadores de serviços podem disponibilizar no seu sítio na Internet instrumentos destinados à resolução de problemas dos consumidores ou utentes, desde que assegurem uma clara distinção entre aqueles e o livro de reclamações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), em vigor a partir de 2008-01-05
+
+###### Artigo 2.º — Âmbito
+
+1 - São abrangidos pela obrigação de disponibilização do formato físico do livro de reclamações todos os fornecedores de bens e prestadores de serviços, designadamente os identificados no anexo ao presente decreto-lei, do qual faz parte integrante, em todos os estabelecimentos que:
+
+a) Se encontrem instalados com carácter fixo ou permanente, e neles seja exercida, exclusiva ou principalmente, de modo habitual e profissional, a atividade; e
+
+b) Tenham contacto com o público, designadamente através de serviços de atendimento ao público destinado à oferta de produtos e serviços ou de manutenção das relações de clientela.
+
+2 - São abrangidos pela obrigação de disponibilização do formato eletrónico do livro de reclamações todos os fornecedores de bens e prestadores de serviços designadamente os identificados no anexo ao presente decreto-lei, quer desenvolvam a atividade em estabelecimento que cumpra os requisitos previstos no número anterior ou através de meios digitais.
+
+3 - O regime previsto neste decreto-lei não se aplica aos serviços e organismos da Administração Pública a que se referem os artigos 35.º-A e 38.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, 73/2014, de 15 de maio, e 58/2016, de 29 de agosto.
+
+4 - São abrangidas pela obrigação de disponibilização do livro de reclamações as associações sem fins lucrativos que exerçam atividades idênticas às dos estabelecimentos identificados no anexo ao presente decreto-lei.
+
+5 - O livro de reclamações pode ser utilizado por qualquer consumidor ou utente nas situações e nos termos previstos no presente decreto-lei.
+
+6 - Excetuam-se do disposto no n.º 3 os serviços e organismos da Administração Pública encarregues da prestação dos serviços de abastecimento público de água, de saneamento de águas residuais e de gestão de resíduos urbanos que passam a estar sujeitos às obrigações constantes deste decreto-lei.
+
+7 - Sem prejuízo do disposto no n.º 3, compete aos fornecedores de bens e aos prestadores de serviços cuja atividade esteja sujeita a regulação por entidade reguladora do setor ou entidade de controlo de mercado competente assegurar o cumprimento das obrigações previstas no presente decreto-lei nos casos em que os fornecimentos de bens e as prestações de serviços sejam efetuados, ainda que de forma não exclusiva ou principal, nos locais dos serviços e organismos da Administração Pública que tenham contacto com o público.
+
+8 - A reclamação apresentada no livro de reclamações em formato eletrónico tem a mesma validade da reclamação apresentada no livro de reclamações em formato físico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), em vigor a partir de 2008-01-05
+
+### Capítulo II — Do formato físico do livro de reclamações e do procedimento do fornecedor de bens ou prestador de serviços
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 3.º — Obrigações do fornecedor de bens ou prestador de serviços
+
+1 - O fornecedor de bens ou prestador de serviços é obrigado a:
+
+a) Possuir o livro de reclamações nos estabelecimentos a que respeita a atividade;
+
+b) Facultar imediata e gratuitamente ao consumidor ou utente o livro de reclamações sempre que por este tal lhe seja solicitado, sem prejuízo de serem observadas as regras da ordem de atendimento previstas no estabelecimento comercial, com respeito pelo regime de atendimento prioritário;
+
+c) Afixar no seu estabelecimento, em local bem visível e com caracteres facilmente legíveis pelo consumidor ou utente, a seguinte informação:
+
+i) «Este estabelecimento dispõe de livro de reclamações»;
+
+ii) «Entidade competente para apreciar a reclamação: [identificação e morada completas da entidade]».
+
+d) Manter, por um período mínimo de três anos, um arquivo organizado dos livros de reclamações que tenha encerrado;
+
+e) Proceder ao envio dos originais das folhas de reclamação e documentos a que se refere o n.º 2 do artigo 5.º
+
+2 - O fornecedor de bens ou prestador de serviços não pode, em caso algum, justificar a falta de livro de reclamações no estabelecimento onde o consumidor ou utente o solicita pelo facto de o mesmo se encontrar disponível noutros estabelecimentos, dependências ou sucursais, ou pelo facto de disponibilizar o formato eletrónico do livro de reclamações.
+
+3 - O fornecedor de bens ou o prestador de serviços não pode impor qualquer meio alternativo de formalização da reclamação antes de ter disponibilizado o livro de reclamações, nem condicionar a apresentação da reclamação, designadamente, à necessidade de identificação do consumidor ou utente.
+
+4 - Quando o livro de reclamações não for imediatamente facultado ao consumidor ou utente, este pode requerer a presença da autoridade policial a fim de remover essa recusa ou de que essa autoridade tome nota da ocorrência e a faça chegar à entidade competente para fiscalizar o setor em causa.
+
+5 - O prestador de serviço público essencial, a que se refere a Lei n.º 23/96, de 26 de julho, alterada pelas Leis n.os 12/2008, de 26 de fevereiro, 24/2008, de 2 de junho, 6/2011, de 10 de março, 44/2011, de 22 de junho, e 10/2013, de 28 de janeiro, é obrigado a responder ao consumidor e utente no prazo máximo de 15 dias úteis a contar da data da reclamação lavrada no livro de reclamações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 4.º — Formulação da reclamação
+
+1 - A reclamação é formulada através do preenchimento da folha de reclamação no livro de reclamações.
+
+2 - Na formulação da reclamação, o consumidor ou utente deve respeitar as regras de preenchimento previstas na folha de instruções e na folha de reclamação, devendo em especial:
+
+a) Preencher de forma correta e completa todos os campos relativos à sua identificação e endereço;
+
+b) Preencher de forma correta a identificação e o local do fornecedor de bens ou prestador do serviço;
+
+c) Descrever de forma clara e completa os factos que motivam a reclamação, respeitando o espaço que se destina à respetiva descrição;
+
+d) Apor a data da reclamação.
+
+3 - Para efeitos do disposto na alínea b) do número anterior, o fornecedor de bens ou o prestador de serviços deve fornecer todos os elementos necessários ao correto preenchimento dos campos relativos à sua identificação, devendo ainda confirmar que o consumidor ou utente os preencheu corretamente.
+
+4 - Quando os consumidores ou utentes estejam impossibilitados de preencher a folha de reclamação por razões de analfabetismo ou incapacidade física, o fornecedor de bens, o prestador dos serviços ou qualquer responsável pelo atendimento deve, no momento da apresentação da reclamação e a pedido do consumidor ou utente, efetuar o respetivo preenchimento nos termos descritos oralmente por este.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), em vigor a partir de 2008-01-05
+
+###### Artigo 5.º — Envio da folha de reclamação
+
+1 - Após o preenchimento da folha de reclamação, o fornecedor do bem, o prestador de serviços ou o funcionário do estabelecimento, deve, no prazo de 15 dias úteis, salvo se for estabelecido prazo distinto em lei especial, remeter o original da folha do livro de reclamações, consoante o caso:
+
+a) À entidade de controlo de mercado competente ou à entidade reguladora do setor identificada no artigo 11.º;
+
+b) À entidade de controlo de mercado competente ou à entidade reguladora do setor, tratando-se de fornecedor de bens ou de prestador de serviços não identificado no anexo ao presente decreto-lei;
+
+c) À entidade que, nos termos da lei, emite a respetiva acreditação, na ausência de entidade reguladora do setor ou de entidade de controlo de mercado competente, tratando-se de fornecedor de bens ou de prestador de serviços não identificado no anexo ao presente decreto-lei e sujeito a processo de acreditação;
+
+d) À Autoridade de Segurança Alimentar e Económica (ASAE), caso não exista entidade competente nos termos das alíneas anteriores.
+
+2 - Para efeitos do disposto nos números anteriores, a remessa do original da folha de reclamação deve ser acompanhada dos seguintes elementos:
+
+a) A resposta já enviada ao consumidor ou utente em virtude da reclamação formulada, quando aplicável;
+
+b) O exemplar da mensagem publicitária, através de suporte físico ou digital, quando o objeto da reclamação incidir sobre publicidade.
+
+3 - A remessa do original da folha de reclamação pode, ainda, ser acompanhada dos esclarecimentos sobre a situação objeto de reclamação, incluindo informação sobre o seguimento que tenha sido dado à mesma.
+
+4 - Após o preenchimento da folha de reclamação, o fornecedor do bem, o prestador de serviços ou o funcionário do estabelecimento tem ainda a obrigação de entregar o duplicado da reclamação ao consumidor ou utente, conservando em seu poder o triplicado, que faz parte integrante do livro de reclamações e que dele não pode ser retirado.
+
+5 - Caso o consumidor ou utente recuse receber o duplicado da reclamação, o fornecedor do bem ou prestador de serviço deve proceder ao arquivo do duplicado, com a menção desta recusa.
+
+6 - Sem prejuízo do disposto nos números anteriores, o consumidor ou utente pode também remeter o duplicado da folha de reclamação à entidade de controlo de mercado competente ou à entidade reguladora do setor, de acordo com as instruções constantes da mesma, ou, tratando-se de fornecedor de bens ou de prestador de serviços não identificado no anexo ao presente decreto-lei e não havendo uma e outra destas entidades, à entidade que nos termos da lei é competente para emitir a respetiva acreditação ou, na ausência desta, à ASAE.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), em vigor a partir de 2008-01-05
+
+###### Artigo 5.º-A — Envio digital das folhas do livro de reclamações em formato físico
+
+1 - As entidades reguladoras sectoriais e as entidades de controlo de mercado competentes podem determinar a obrigatoriedade da remessa da folha de reclamação e dos elementos referidos no n.º 2 do artigo 5.º por via eletrónica.
+
+2 - Sem prejuízo do disposto no número anterior, o fornecedor de bens ou prestador de serviços pode enviar por via eletrónica a folha de reclamação e demais elementos à entidade reguladora do setor ou entidade de controlo de mercado competente.
+
+3 - O fornecedor de bens ou o prestador de serviços deve manter, por um período de três anos, um arquivo devidamente organizado dos documentos originais e dos comprovativos da respetiva remessa no formato eletrónico, salvo se prazo superior for fixado em legislação especial.
+
+4 - Para efeitos do disposto nos n.os 1 e 2, a entidade reguladora do setor ou a entidade de controlo de mercado competente deve, pela mesma via, acusar a receção das folhas de reclamação e demais elementos documentais.
+
+5 - Quando, por motivos de indisponibilidade técnica, não for possível o cumprimento do disposto nos n.os 1 e 2, o fornecedor de bens ou o prestador de serviços procede ao envio do original da folha de reclamação em papel no prazo previsto no n.º 1 do artigo 5.º
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+### Capítulo III — Do formato eletrónico do livro de reclamações e do procedimento
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 5.º-B — Obrigações do fornecedor de bens e do prestador de serviços relativas ao formato eletrónico do livro de reclamações
+
+1 - O fornecedor de bens ou prestador de serviços é obrigado a possuir o formato eletrónico do livro de reclamações, nos termos previstos nos n.os 2 e 3 do artigo 9.º
+
+2 - Os fornecedores de bens e prestadores de serviços devem divulgar nos respetivos sítios na Internet, em local visível e de forma destacada, o acesso à Plataforma Digital.
+
+3 - Os fornecedores de bens e prestadores de serviços que não disponham de sítios na Internet devem ser titulares de endereço de correio eletrónico para efeitos de receção das reclamações submetidas através da Plataforma Digital.
+
+4 - O fornecedor de bens ou prestador de serviços deve responder ao consumidor ou utente no prazo máximo de 15 dias úteis a contar da data da reclamação, salvo se for estabelecido prazo inferior em lei especial, para o endereço de correio eletrónico indicado no formulário, informando-o, quando aplicável, sobre as medidas adotadas na sequência da mesma.
+
+5 - O disposto no n.º 2 do artigo 5.º aplica-se, com as devidas adaptações, às reclamações do formato eletrónico do livro de reclamações.
+
+6 - A existência e disponibilização do formato eletrónico do livro de reclamações não afasta a obrigatoriedade de disponibilização, em simultâneo, do formato físico do livro de reclamações, nos estabelecimentos a que se refere o n.º 1 do artigo 2.º
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 5.º-C — Apresentação da reclamação em formato eletrónico
+
+1 - O consumidor ou utente pode formular a reclamação em formato eletrónico através da Plataforma Digital.
+
+2 - O disposto no n.º 4 do artigo 4.º aplica-se, com as devidas adaptações, à formulação da reclamação em formato eletrónico, caso tal seja solicitado pelo consumidor ou utente, sem que isso implique a obrigação de disponibilizar meio de acesso à Plataforma Digital.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+### Capítulo IV — Do procedimento das entidades competentes
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 6.º — Procedimento da entidade de controlo de mercado competente e da entidade reguladora do setor
+
+1 - Para efeitos de aplicação do presente decreto-lei, cabe à entidade de controlo de mercado competente ou à entidade reguladora do setor:
+
+a) Receber as reclamações em formato físico ou eletrónico, acompanhadas da resposta já enviada ao consumidor ou utente, quando aplicável, e demais elementos adicionais que lhe sejam enviados pelo fornecedor de bens ou pelo prestador de serviços, designadamente os respetivos esclarecimentos e informação sobre os seguimentos que tenham sido dados às reclamações;
+
+b) Solicitar a prestação de esclarecimentos sobre a situação objeto de reclamação, incluindo informação sobre o seguimento que tenha sido dado à mesma, quando considere necessário;
+
+c) Analisar as reclamações, a documentação apresentada pelo fornecedor de bens ou prestador de serviços e instaurar o procedimento adequado se os factos resultantes da reclamação indiciarem a prática de contraordenação ao disposto no presente decreto-lei ou em norma específica aplicável à matéria objeto da reclamação.
+
+2 - A entidade de controlo de mercado competente ou a entidade reguladora do setor deve ainda, em função do conteúdo da reclamação formulada pelo consumidor ou utente e dos esclarecimentos apresentados pelo fornecedor de bens ou pelo prestador de serviços, tomar as medidas que entenda adequadas, de acordo com as atribuições que lhe estão conferidas por lei.
+
+3 - A entidade de controlo de mercado competente ou a entidade reguladora do setor, no âmbito das atribuições que lhe estão conferidas por lei, pode, através de comunicação escrita, informar o reclamante sobre o procedimento ou sobre as medidas que tenham sido ou que venham a ser adotadas na sequência da reclamação formulada.
+
+4 - Sempre que da reclamação resultar uma situação de litígio, a entidade de controlo de mercado competente ou a entidade reguladora do setor, no âmbito das atribuições que lhe estão conferidas por lei, deve, através de comunicação escrita e após concluídas todas as diligências necessárias à reposição legal da situação, informar o reclamante sobre o procedimento ou as medidas que tenham sido ou venham a ser adotadas na sequência da reclamação formulada e, quando se trate de litígio de consumo não resolvido pelo fornecedor de bens ou prestador de serviços, informa, ainda, o consumidor ou utente sobre a possibilidade de recurso aos meios alternativos de resolução de litígios.
+
+5 - Sem prejuízo do disposto nos números anteriores, quando da folha de reclamação resultem apenas sugestões, elogios ou comentários que não configurem uma reclamação, deve a entidade reguladora do setor ou a entidade de controlo de mercado competente proceder ao arquivamento da reclamação.
+
+6 - Para efeitos de aplicação do regime constante no presente diploma, o fornecedor de bens e o prestador de serviços devem prestar a colaboração requerida pela entidade de controlo de mercado competente ou entidade reguladora do setor, nomeadamente garantindo o acesso direto às informações e apresentando os documentos ou registos solicitados.
+
+7 - Para efeitos do disposto no capítulo anterior, as entidades reguladoras e as entidades de controlo de mercado competentes disponibilizam e divulgam, em lugar de destaque, nos respetivos sítios na Internet, o acesso à plataforma digital que disponibiliza o formato eletrónico do livro de reclamações, doravante designada como Plataforma Digital.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), em vigor a partir de 2008-01-05
+
+### Capítulo V — Da edição e venda do livro de reclamações
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 7.º — Modelo de livro de reclamações
+
+São aprovados por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, das finanças e da defesa do consumidor:
+
+a) O modelo do formato físico do livro de reclamações, bem como as regras relativas à sua edição e venda;
+
+b) O modelo de formulário, edição, preço, fornecimento e distribuição do formato eletrónico do livro de reclamações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 8.º — Aquisição de novo livro de reclamações em formato físico
+
+1 - O encerramento, perda ou extravio do livro de reclamações obriga o fornecedor de bens ou o prestador de serviços a adquirir um novo livro.
+
+2 - A perda ou extravio do livro de reclamações obriga o fornecedor de bens ou o prestador de serviços a comunicar por escrito esse facto à entidade reguladora do setor ou à entidade de controlo de mercado competente, no prazo máximo de cinco dias úteis.
+
+3 - Em caso de encerramento, perda ou extravio do livro de reclamações deve ainda o fornecedor de bens ou prestador de serviços, durante o período de tempo em que não disponha do livro, informar o consumidor ou utente sobre a entidade reguladora do setor ou de controlo de mercado competente para apresentar reclamação.
+
+4 - A mudança de morada do estabelecimento, a alteração da atividade ou do respetivo CAE, ou a alteração da designação do estabelecimento não obriga à aquisição de um novo livro de reclamações.
+
+5 - Nos casos previstos no número anterior o fornecedor de bens ou prestador de serviços deve comunicar eletronicamente, à Imprensa Nacional-Casa da Moeda, S. A., a alteração efetuada, para efeitos de averbamento no livro de reclamações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+### Capítulo VI — Da fiscalização e regime contraordenacional
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 9.º — Contraordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), a violação ao disposto nas alíneas a), b) e e) do n.º 1 do artigo 3.º, nos n.os 1 e 2 do artigo 5.º , no n.º 3 do artigo 5.º-A, nos n.os 1 a 3 do artigo 5.º-B e nos n.os 1 e 3 do artigo 8.º
+
+2 - Constitui contraordenação económica leve, punível nos termos do RJCE, a violação ao disposto no n.º 3 do artigo 1.º, nas alíneas c) e d) do n.º 1 e nos n.os 2, 3 e 5 do artigo 3.º, nos n.os 3 e 4 do artigo 4.º, nos n.os 4 e 5 do artigo 5.º, no n.º 4 do artigo 5.º-B, no n.º 6 do artigo 6.º e nos n.os 2 e 5 do artigo 8.º
+
+3 - A violação do disposto na alínea b) do n.º 1 do artigo 3.º, acrescida da ocorrência da situação prevista no n.º 4 do mesmo artigo, constitui contraordenação económica muito grave, punível nos termos do RJCE.
+
+4 - A negligência é punível nos termos do RJCE.
+
+> Alterado pelo/a Artigo 61.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), em vigor a partir de 2008-01-05
+
+###### Artigo 9.º-A — Advertência
+
+1 - Para além dos casos previstos no RJCE, a instauração de procedimento contraordenacional por violação do disposto nos n.os 1 a 3 do artigo 5.º-B é precedida de notificação de advertência ao infrator para a adoção das medidas necessárias ao cumprimento das obrigações previstas naquelas disposições, no prazo de 90 dias consecutivos.
+
+2 - A entidade competente para a fiscalização e instrução dos processos de contraordenação determina o arquivamento dos autos ou a instauração do processo de contraordenação, consoante o infrator cumpra ou não o disposto no número anterior.
+
+3 - O disposto nos números anteriores não é aplicável aos prestadores de serviços públicos essenciais.
+
+> Alterado pelo/a Artigo 61.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/2020 - Diário da República n.º 49/2020, Série I de 2020-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2020-130070740), em vigor a partir de 2020-03-11
+
+###### Artigo 10.º — Sanções acessórias
+
+1 - Quando a gravidade da infração o justifique podem ainda ser aplicadas sanções acessórias, nos termos do regime geral das contraordenações.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 11.º — Fiscalização e instrução dos processos de contraordenação
+
+1 - A fiscalização do cumprimento do disposto no presente decreto-lei, bem como a instrução dos processos e a aplicação das coimas e sanções acessórias relativa às contraordenações previstas no n.º 1 do artigo 9.º compete:
+
+a) À ASAE, quando praticadas em estabelecimentos de fornecimento de bens e de prestação de serviços mencionados nas alíneas a) a k) do n.º 1, nas alíneas a) a f) do n.º 3 e no n.os 5 do anexo ao presente decreto-lei;
+
+b) À Inspeção-Geral das Atividades Culturais, quando praticadas em estabelecimentos mencionados na alínea m) do n.º 1 e no n.º 4 do anexo ao presente decreto-lei;
+
+c) Ao Instituto dos Registos e do Notariado, I. P., quando praticadas em estabelecimentos mencionados na alínea n) do n.º 1 do anexo ao presente decreto-lei;
+
+d) À Autoridade da Mobilidade e dos Transportes, quando praticadas em estabelecimentos mencionados na alínea l) do n.º 1, no n.º 6 e nas alíneas a) a d) do n.º 11 do anexo ao presente decreto-lei;
+
+e) Ao Instituto dos Mercados Públicos, do Imobiliário e da Construção, I. P., quando praticadas em estabelecimentos mencionados nas alíneas a) a i) do n.º 2 do anexo ao presente decreto-lei;
+
+f) Às respetivas capitanias, quando praticadas em estabelecimentos mencionados na alínea h) do n.º 3 do anexo ao presente decreto-lei;
+
+g) Ao Serviço de Regulação e Inspeção de Jogos do Turismo de Portugal, I. P., quando praticadas em estabelecimentos mencionados no n.º 8 do anexo ao presente decreto-lei;
+
+h) À Ordem dos Médicos Veterinários, quando praticadas em estabelecimentos mencionados no n.º 9 do anexo ao presente decreto-lei;
+
+i) À Entidade Reguladora dos Serviços Energéticos, quando praticadas em estabelecimentos dos prestadores de serviços mencionados no n.º 7 e nas alíneas b) e c) do n.º 10 do anexo ao presente decreto-lei;
+
+j) À Autoridade Nacional de Comunicações, quando praticadas em estabelecimentos dos prestadores de serviços mencionados nas alíneas d) e e) do n.º 10 do anexo ao presente decreto-lei;
+
+k) À Entidade Reguladora dos Serviços de Águas e Resíduos, quando praticadas em estabelecimentos dos prestadores de serviços mencionados nas alíneas a), f) e g) do n.º 10 do anexo ao presente decreto-lei;
+
+l) À Autoridade Nacional de Aviação Civil, quando praticadas em estabelecimentos mencionados na alínea e) do n.º 11 do anexo ao presente decreto-lei;
+
+m) Ao Instituto da Segurança Social, I. P., e respetivos centros distritais da segurança social quando praticadas em estabelecimentos mencionados no n.º 12 do anexo ao presente decreto-lei;
+
+n) Ao Banco de Portugal, quando praticadas nos estabelecimentos previstos no n.º 13 do anexo ao presente decreto-lei ou por um fornecedor de bens ou prestador de serviços constante desse anexo que seja um cessionário para efeitos do regime da cessão e gestão de créditos bancários, que consta do anexo i do Decreto-Lei n.º 103/2025, de 11 de setembro (RCGCB), e estiver em causa matéria relativa ao cumprimento do disposto nesse regime;
+
+o) À Autoridade de Supervisão de Seguros e Fundos de Pensões, quando praticadas em estabelecimentos mencionados no n.º 14 do anexo ao presente decreto-lei;
+
+p) À Comissão do Mercado de Valores Mobiliários, quando praticadas em estabelecimentos mencionados no n.º 15 do anexo ao presente decreto-lei;
+
+q) À Inspeção-Geral da Educação e Ciência, quando praticadas em estabelecimentos mencionados nos n.os 16 e 17 do anexo ao presente decreto-lei;
+
+r) À Entidade Reguladora da Saúde, quando praticadas em estabelecimentos mencionados na alínea g) do n.º 3 e no n.º 18 do anexo ao presente decreto-lei;
+
+s) Ao INFARMED - Autoridade Nacional do Medicamento e dos Produtos de Saúde, I. P., quando praticadas em estabelecimentos mencionados no n.º 19 do anexo ao presente decreto-lei.
+
+2 - Nos casos em que as entidades a que se refere o número anterior não têm competências sancionatórias, a aplicação das respetivas coimas e sanções acessórias compete:
+
+a) À Inspeção-Geral dos Serviços de Justiça, quando a fiscalização e a instrução dos processos é efetuada pela entidade referida na alínea c);
+
+b) À ASAE, quando a fiscalização e a instrução dos processos é efetuada pela entidade referida na alínea h).
+
+3 - Compete à ASAE a fiscalização, a instrução dos processos e a aplicação de coimas e sanções acessórias relativas às contraordenações previstas no n.º 1 do artigo 9.º quando praticadas em estabelecimentos de fornecimento de bens e de prestação de serviços não mencionados no anexo ao presente decreto-lei e quando não exista entidade de controlo de mercado competente e entidade reguladora do setor.
+
+4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+> Alterado pelo/a Artigo 61.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118/2009 - Diário da República n.º 96/2009, Série I de 2009-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2009-608884), em vigor a partir de 2009-08-17, produz efeitos a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445)
+
+### Capítulo VII — Outras disposições
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 12.º — Rede telemática de informação comum
+
+1 - A rede telemática de informação comum (RTIC), criada pela Direção-Geral do Consumidor para registo e tratamento das reclamações dos consumidores e utentes constantes do livro de reclamações, integra-se na Plataforma Digital a que se refere o n.º 1 do artigo 12.º-A.
+
+2 - A RTIC visa garantir a comunicação e o intercâmbio de informação estatística em matéria de conflitualidade de consumo decorrente das reclamações e assegura o seu armazenamento e gestão por parte das entidades reguladoras e de controlo de mercado competentes, proporcionando aos reclamantes e reclamados o acesso à informação sobre a sua reclamação, com observância do disposto na Lei n.º 67/98, de 26 de outubro.
+
+3 - As entidades reguladoras e de controlo de mercado competentes estão obrigadas a registar e a tratar diretamente as reclamações recebidas através do formato físico do livro de reclamações na RTIC ou a providenciar ligações entre esta rede e a sua própria rede que permitam a comunicação de dados entre ambas, de forma a cumprir os objetivos previstos no número anterior.
+
+4 - A participação da entidade reguladora ou de controlo de mercado competente na RTIC formaliza-se através de protocolo a celebrar com a Direção-Geral do Consumidor, devendo respeitar os princípios de cooperação e boa gestão.
+
+5 - O consumidor ou utente reclamante bem como o profissional reclamado têm acesso à RTIC para consulta da fase em que se encontra a sua reclamação.
+
+6 - O modo de funcionamento da RTIC, a forma como são registadas as reclamações, bem como o acesso das entidades reguladoras ou de controlo de mercado e dos reclamantes e reclamados à rede, são objeto de portaria do membro do Governo responsável pela área da defesa dos consumidores, a emitir no prazo de 30 dias a contar da data da publicação do presente decreto-lei.
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118/2009 - Diário da República n.º 96/2009, Série I de 2009-05-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-2009-608884), em vigor a partir de 2009-08-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), em vigor a partir de 2008-01-05
+
+###### Artigo 12.º-A — Plataforma Digital
+
+1 - A Plataforma Digital visa, com observância do disposto na Lei n.º 67/98, de 26 de outubro, alterada pela Lei n.º 103/2015, de 24 de agosto, possibilitar a apresentação de reclamações em formato eletrónico, bem como a submissão de pedidos de informação relacionados com a defesa do consumidor ou utente.
+
+2 - O funcionamento da Plataforma Digital é aprovado por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e da defesa do consumidor.
+
+3 - Sem prejuízo do disposto no número anterior, o formulário eletrónico da reclamação deve cumprir as regras de acessibilidade digital, por forma a permitir a apresentação autónoma de reclamações por consumidores ou utentes com deficiência visual.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 13.º — Outros meios de reclamação
+
+1 - A formulação da reclamação nos termos previstos no presente decreto-lei não exclui a possibilidade de o consumidor ou utente apresentar reclamações por quaisquer outros meios e não limita o exercício de quaisquer direitos constitucional ou legalmente consagrados.
+
+2 - Sem prejuízo dos procedimentos previstos no presente decreto-lei, as entidades reguladoras do setor e entidades de controlo de mercado competentes podem estabelecer mecanismos internos, no âmbito das suas competências, que permitam uma resolução célere, designadamente o tratamento conjunto de reclamações do mesmo consumidor ou utente e com o mesmo objeto, e que não diminuam as garantias de defesa das partes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), em vigor a partir de 2008-01-05
+
+###### Artigo 13.º-A — Relatório sobre conflitualidade no consumo
+
+A Direção-Geral do Consumidor elabora, anualmente, um relatório estatístico global sobre a conflitualidade no consumo, podendo para este efeito solicitar a cooperação das entidades reguladoras do setor e das entidades de controlo de mercado competentes envolvidas na aplicação do presente decreto-lei.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 14.º — Avaliação da execução do diploma
+
+No final do 1.º ano a contar da data de entrada em vigor do presente decreto-lei, e bianualmente nos anos subsequentes, a Direcção-Geral do Consumidor elabora um relatório de avaliação sobre a aplicação e execução do mesmo, devendo remetê-lo ao membro do Governo responsável pela área da defesa do consumidor.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), em vigor a partir de 2008-01-05
+
+###### Artigo 15.º — Uniformização de regime e revogação
+
+1 - O regime previsto no presente diploma aplica-se igualmente aos fornecedores de bens, prestadores de serviços e estabelecimentos constantes no anexo II a este diploma, que dele faz parte integrante, sendo revogadas quaisquer outras normas que contrariem o disposto neste decreto-lei.
+
+2 - A fiscalização, a instrução dos processos e a aplicação das coimas e sanções acessórias previstas no presente diploma aos fornecedores de bens, prestadores de serviços e estabelecimentos constantes do anexo II cabem às entidades que, nos termos da legislação específica existente que estabelece a obrigatoriedade do livro de reclamações, são competentes para o efeito.
+
+3 - O disposto no presente artigo não prejudica a manutenção do livro de reclamações do modelo que, à data da entrada em vigor deste diploma, estiver a ser utilizado até ao respectivo encerramento.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+### Capítulo VIII — Entrada em vigor
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de Janeiro de 2006.
+
+## Anexo I — (a que se referem os n.ºs 1, 2 e 4 do artigo 2.º, os n.ºs 1 e 6 do artigo 5.º e os n.ºs 1 e 3 do artigo 11.º)
+
+1 - Estabelecimentos de venda ao público e de prestação de serviços de:
+
+a) Comércio a retalho e conjuntos comerciais, bem como estabelecimentos de comércio por grosso com revenda ao consumidor final;
+
+b) Comércio, manutenção e reparação de velocípedes, ciclomotores, motociclos e veículos automóveis novos e usados;
+
+c) Restauração ou bebidas;
+
+d) Lavandaria, limpeza a seco e engomadoria;
+
+e) Cabeleireiro, beleza ou outros de natureza similar;
+
+f) Tatuagens e colocação de piercings;
+
+g) Manutenção física, independentemente da designação adotada;
+
+h) Reparação de bens pessoais e domésticos;
+
+i) Estudos e de explicações;
+
+j) Funerários;
+
+k) Prestamistas;
+
+l) Aluguer de velocípedes, de motociclos e de veículos automóveis;
+
+m) Aluguer de videogramas;
+
+n) Notários privados.
+
+2 - Estabelecimento de empresas na área da construção e do imobiliário:
+
+a) Construção civil;
+
+b) Promoção imobiliária;
+
+c) Administração de condomínios;
+
+d) Avaliação imobiliária;
+
+e) Arrendamento, compra e venda de bens imobiliários;
+
+f) Administração de imóveis por conta de outrem;
+
+g) Mediação imobiliária;
+
+h) Consultadoria e mediação de obras;
+
+i) Gestão, planeamento e fiscalização de obras.
+
+3 - Estabelecimentos de prestação de serviços na área do turismo:
+
+a) Empreendimentos turísticos;
+
+b) Alojamento local;
+
+c) Agências de viagens e turismo;
+
+d) Empresas de animação turística;
+
+e) Recintos com diversões aquáticas;
+
+f) Campos de férias;
+
+g) Estabelecimentos termais;
+
+h) Marinas.
+
+4 - Recintos de espetáculos de natureza artística.
+
+5 - Parques de estacionamento subterrâneo ou de superfície.
+
+6 - Centros de inspeção automóvel, escolas de condução e centros de exames de condução.
+
+7 - Postos de abastecimento de combustíveis.
+
+8 - Casinos, salas de máquinas, salas de jogo do bingo.
+
+9 - Centros de Atendimento Médico-Veterinários.
+
+10 - Estabelecimento de prestadores de serviços públicos essenciais:
+
+a) Fornecimento de água;
+
+b) Fornecimento de energia elétrica;
+
+c) Fornecimento de gás natural e gases de petróleo liquefeitos canalizados;
+
+d) Comunicações eletrónicas;
+
+e) Postais;
+
+f) Recolha e tratamento de águas residuais;
+
+g) Gestão de resíduos sólidos urbanos.
+
+11 - Estabelecimento de prestadores de serviços de transporte:
+
+a) Rodoviário;
+
+b) Ferroviário;
+
+c) Marítimo;
+
+d) Fluvial;
+
+e) Aéreo, designadamente, entidades gestoras dos aeroportos e aeródromos nacionais, entidades coordenadoras do processo de atribuição e de facilitação de faixas horárias nos aeroportos nacionais, prestadores de serviços de navegação aérea com exceção dos prestadores de serviços de meteorologia aeronáutica, operadores de transporte aéreo e operadores de trabalho aéreo, entidades prestadoras de serviços de apoio ao transporte aéreo e prestadores de serviços de assistência em escala.
+
+12 - Estabelecimentos das Instituições Particulares de Segurança Social ou equiparadas, bem como estabelecimentos das Instituições em relação às quais existam acordos de cooperação ou protocolos celebrados com os Centros Distritais de Segurança Social, I. P.:
+
+a) No âmbito do apoio às crianças e jovens: creches, creche familiar, estabelecimento de educação pré-escolar, centros de atividades de tempos livres, centros de apoio familiar e aconselhamento parental, lares de infância e juventude e apartamentos de autonomização, casas de acolhimento temporário;
+
+b) No âmbito do apoio a pessoas idosas: centros de convívio, centros de dia, centros de noite, estruturas residenciais para pessoas idosas e acolhimento familiar para pessoas idosas;
+
+c) No âmbito do apoio a pessoas com deficiência: centros de atividades ocupacionais, lares residenciais, residências autónomas, centros de atendimento, acompanhamento e animação de pessoas com deficiência;
+
+d) No âmbito do apoio a pessoas com doenças do foro mental ou psiquiátrico: fóruns socio-ocupacionais, unidades de vida protegida, autónoma e apoiada;
+
+e) No âmbito do apoio a outros grupos: apartamentos de reinserção social, residências para pessoas com VIH/sida, centros de alojamento temporário e comunidades de inserção;
+
+f) No âmbito do apoio à família e comunidade: serviço de atendimento e acompanhamento social, centros comunitários, cantinas sociais, casas de abrigo, centro de apoio à vida e serviços de apoio domiciliário;
+
+g) No âmbito do apoio social: estabelecimentos em que sejam desenvolvidas atividades similares às referidas nas alíneas anteriores ainda que sob designação diferente.
+
+13 - Instituições de crédito, sociedades financeiras, instituições de pagamento, instituições de moeda eletrónica, prestadores de serviços postais no que se refere à prestação de serviços de pagamento, intermediários de crédito, gestores de créditos, emitentes de criptofichas referenciadas a ativos e emitentes de criptofichas de moeda eletrónica.
+
+14 - Estabelecimentos das empresas de seguros, bem como os estabelecimentos de mediadores de seguros e de sociedades gestoras de fundos de pensões.
+
+15 - Empresas de Investimento e prestadores de serviços de criptoativos.
+
+16 - Estabelecimentos particulares e cooperativos de educação pré-escolar e dos ensinos básico e secundário.
+
+17 - Estabelecimentos do ensino superior particular e cooperativo.
+
+18 - Estabelecimentos dos prestadores de cuidados na área da saúde:
+
+a) Unidades privadas de saúde com internamento ou sala de recobro;
+
+b) Unidades privadas de saúde com atividade específica, designadamente laboratórios; unidades com fins de diagnóstico, terapêutica e de prevenção de radiações ionizantes, ultrassons ou campos magnéticos; unidades privadas de diálise; clínicas e consultórios dentários e unidades de medicina física e de reabilitação;
+
+c) Outros operadores sujeitos à atividade reguladora da Entidade Reguladora da Saúde;
+
+d) Unidades privadas de prestação de cuidados de saúde na área da toxicodependência.
+
+19 - Farmácias.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2026 - Diário da República n.º 99/2026, Série I de 2026-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2026-1125313601), em vigor a partir de 2026-05-27.
+
+> Alterado pelo/a Artigo 28.º do/a [Lei n.º 69/2025 - Diário da República n.º 245/2025, Série I de 2025-12-22](https://diariodarepublica.pt/dr/detalhe/lei/69-2025-992098939), em vigor a partir de 2025-12-27
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 103/2025 - Diário da República n.º 175/2025, Série I de 2025-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2025-935004232), em vigor a partir de 2025-12-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81-C/2017 - Diário da República n.º 130/2017, 2º Suplemento, Série I de 2017-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-c-2017-107648947), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 74/2017 - Diário da República n.º 118/2017, Série I de 2017-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2017-107541411), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 242/2012 - Diário da República n.º 215/2012, Série I de 2012-11-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2012-191534), em vigor a partir de 2012-11-08
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 317/2009 - Diário da República n.º 211/2009, Série I de 2009-10-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/317-2009-483411), em vigor a partir de 2009-11-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 371/2007 - Diário da República n.º 213/2007, Série I de 2007-11-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/371-2007-629445), em vigor a partir de 2008-01-05
+
+Visto e aprovado em Conselho de Ministros de 29 de Julho de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - José Manuel Vieira Conde Rodrigues - António José de Castro Guerra - José António Fonseca Vieira da Silva - Francisco Ventura Ramos - Maria de Lurdes Reis Rodrigues - Mário Vieira de Carvalho.
+
+Promulgado em 14 de Agosto de 2005.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 1 de Setembro de 2005.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

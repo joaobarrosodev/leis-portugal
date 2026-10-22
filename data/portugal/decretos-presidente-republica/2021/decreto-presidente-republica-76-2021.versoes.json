@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:173732848:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2021-174126193",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/76-2021-173732848",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174165784"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:174126178:por",
+     "title": "Declaração de Retificação n.º 38/2021",
+     "published": "2021-11-10",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/38-2021-174126178",
+     "date": "2021-11-08"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "174165784": {
+   "fragment_id": "174126194",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-11-08",
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 76/2021\n\nde 3 de novembro\n\nSumário:Nomeia para o cargo de Mission Force Commander da Missão de Treino da União Europeia na República de Moçambique (European Union Training Mission in Mozambique - EUTM MOZ) e do Contingente Nacional que integra a EUTM MOZ do Brigadeiro-General Nuno Correia Barrento de Lemos Pires, pelo período de um ano, contado a partir de 12 de setembro de 2021."
+  }
+ }
+}

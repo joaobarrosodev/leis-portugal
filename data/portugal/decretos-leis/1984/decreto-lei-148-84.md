@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:385049:por
+title: Decreto-Lei n.º 148/84
+short_title: null
+summary: Possibilita a atribuição de abono de família e de outras prestações por encargos familiares a beneficiários do regime
+  da segurança social candidatos a adoptantes, pelo facto de lhes terem sido confiados, de direito ou de facto, adoptandos
+  que passem a estar a seu cargo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 148/84
+official_date: null
+publication_date: '1984-05-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/1984, Série I de 1984-05-10
+  number: '108'
+  series: I
+  supplement: null
+  pages: 1513 - 1514
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/05/10800/15131514.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '385049'
+  dre_path: /dr/detalhe/decreto-lei/148-1984-385049
+  internal: pt:dre:385049:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1984-385049
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-1984-385049
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: cddf78dccd88d53b743a4bacba67b09503ad520770910223a9b87c38bee67e29
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-148-385049.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 148/84
+
+de 10 de Maio
+
+Sendo a adopção definida em termos da lei civil como o «vínculo que, à semelhança da filiação natural, mas independentemente dos laços de sangue, se estabelece entre duas pessoas», natural é que, para efeitos de protecção social aos cidadãos, a segurança social equipare os adoptados aos filhos.
+
+Verifica-se, contudo, a existência de um hiato nessa protecção relativamente aos candidatos a adoptantes, designadamente durante o período que decorre entre o início do processo de adopção e a constituição do respectivo vínculo por sentença judicial.
+
+Com efeito, o processo de adopção é um processo naturalmente complexo e demorado, dada a necessidade de acautelar os interesses da criança, quer através de inquéritos elaborados pelos serviços competentes, quer mediante um período mínimo de convivência com os candidatos a adoptantes que permita avaliar das reais vantagens que advêm para o adoptado da constituição do vínculo.
+
+O [Decreto-Lei n.º 274/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1980-470629), de 13 de Agosto, veio, nesta sequência, determinar que qualquer pessoa que queira adoptar um menor deverá comunicar essa intenção ao organismo de segurança social da área da sua residência, ainda mesmo quando o adoptando já esteja a residir consigo e a seu cargo.
+
+Considerou-se assim que a partir desse momento se cia, por um lado, uma legítima expectativa quanto à constituição do vínculo de adopção e, por outro, que essa situação determina um acréscimo de encargos para a família que pretende adoptar, encargos esses que deverão ser objecto da devida compensação por parte da segurança social.
+
+Nesta perspectiva, parece ser de elementar justiça equiparar os menores nas referidas condições aos descendentes do beneficiário ou do cônjuge para efeitos de atribuição das prestações por encargos familiares.
+
+Nestes termos, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. O artigo 4.º do [Decreto-Lei n.º 197/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1977-252069), de 17 de Maio, passa a ter a seguinte redacção:
+
+###### Artigo 4.º
+
+1 - ...
+
+a) ...
+
+b) Os menores que pretendam adoptar, desde que tenham procedido à comunicação prevista no n.º 1 do artigo 1.º do [Decreto-Lei n.º 274/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/274-1980-470629), de 13 de Agosto, e os mesmos lhes estejam confiados, de direito ou de facto, e a seu cargo.
+
+Visto e aprovado em Conselho de Ministros de 5 de Abril de 1984. - Mário Soares - António de Almeida Santos - Ernâni Rodrigues Lopes - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+**Promulgado em 23 de Abril de 1984.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 26 de Abril de 1984.**
+
+**O Primeiro-Ministro, Mário Soares.**

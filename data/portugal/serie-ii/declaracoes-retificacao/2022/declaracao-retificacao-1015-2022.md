@@ -1,0 +1,95 @@
+---
+schema_version: '1.0'
+id: pt:dre:204338666:por
+title: Declaração de Retificação n.º 1015/2022
+short_title: null
+summary: Retifica o Edital n.º 1779/2022, de 25 de novembro
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Universidade de Lisboa - Faculdade de Farmácia
+proposing_entity: null
+official_number: 1015/2022
+official_date: null
+publication_date: '2022-12-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 234/2022, Série II de 2022-12-06
+  number: '234'
+  series: II
+  supplement: null
+  pages: 95 - 95
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/12/234000000/0009500095.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '204338666'
+  dre_path: /dr/detalhe/declaracao-retificacao/1015-2022-204338666
+  internal: pt:dre:204338666:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1015-2022-204338666
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1015-2022-204338666
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-12-06T00:00:00Z'
+integrity:
+  source_sha256: 1318ca4b01fb48403a66241d5f85228c0699bc1303a48969f6bebc7f4214d8ef
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-1015-204338666.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 1015/2022
+
+Para os devidos efeitos se declara que [Edital n.º 1779/2022](https://diariodarepublica.pt/dr/detalhe/edital/1779-2022-203928433), sobre a abertura de concurso documental interno de promoção na modalidade de contrato de trabalho em funções públicas, para uma vaga de professor associado, na área disciplinar de Farmacocinética e Biogalénica do Departamento de Farmácia, Farmacologia e Tecnologias em Saúde da Universidade de Lisboa, publicado no Diário da República, 2.ª série, n.º 228, de 25 de novembro de 2022, saiu com as seguintes inexatidões, que assim se retificam:
+
+No ponto V, «Parâmetros de avaliação e seriação em mérito relativo, respetiva ponderação e sistema de valoração final», onde se lê:
+
+«O currículo dos candidatos admitidos em mérito absoluto é avaliado nas seguintes vertentes: desempenho científico, capacidade pedagógica e desempenho noutras atividades relevantes para a missão da instituição de ensino superior que hajam sido desenvolvidas pelo candidato, compatíveis com a área disciplinar de Bioquímica Clínica e Farmacológica, e adequados à categoria de professor associado, dando-se particular importância à relevância, qualidade e atualidade do curriculum vitae do candidato e aos contributos académicos mais relevantes e de maior impacto selecionados pelo candidato e identificados no curriculum vitae, em bioquímica, biologia molecular e genética humana de processos metabólicos aplicadas à investigação analítica e clínica de doenças raras e ao desenvolvimento de estratégias terapêuticas.»
+
+deve ler-se:
+
+«O currículo dos candidatos admitidos em mérito absoluto é avaliado nas seguintes vertentes: desempenho científico, capacidade pedagógica e desempenho noutras atividades relevantes para a missão da instituição de ensino superior que hajam sido desenvolvidas pelo candidato, compatíveis com a área disciplinar em que é aberto o concurso, e adequados à categoria de professor associado, dando-se particular importância à relevância, qualidade e atualidade do curriculum vitae do candidato e às contribuições académicas mais relevantes e de maior impacto selecionadas pelo candidato e identificadas no curriculum vitae.»
+
+28 de novembro de 2022. - A Diretora, Prof.ª Doutora Maria Beatriz da Silva Lima.

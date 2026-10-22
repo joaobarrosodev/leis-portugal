@@ -1,0 +1,764 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67579532:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-122649675",
+ "dre_path": "/dr/detalhe/portaria/187-2015-67579532",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-06-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122649775",
+    "122649776",
+    "122649777",
+    "122649778",
+    "122649779",
+    "122649780",
+    "122649781",
+    "122649782",
+    "122649784",
+    "122649785",
+    "122649786",
+    "122649787",
+    "122649788",
+    "122649789",
+    "122649790",
+    "122649791",
+    "122649792",
+    "122649793",
+    "122649795",
+    "122649796",
+    "122649797",
+    "122649798",
+    "122649799",
+    "122649800",
+    "122649801",
+    "122649802",
+    "122649803",
+    "122649804",
+    "122649805",
+    "122649806",
+    "122649807",
+    "122649808",
+    "122649809"
+   ]
+  },
+  {
+   "date": "2017-06-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107524711:por",
+     "title": "Portaria n.º 192/2017",
+     "published": "2017-06-19",
+     "dre_path": "/dr/detalhe/portaria/192-2017-107524711"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "122649775",
+    "122649776",
+    "122649777",
+    "122649778",
+    "122649779",
+    "122649780",
+    "122649781",
+    "122649782",
+    "122649783",
+    "122649784",
+    "122649785",
+    "122649786",
+    "122649787",
+    "122649788",
+    "122649789",
+    "122649790",
+    "122649791",
+    "122649792",
+    "122649793",
+    "122649794",
+    "122649795",
+    "122649796",
+    "122649797",
+    "122649798",
+    "122652381",
+    "122649800",
+    "122649801",
+    "122649802",
+    "122649803",
+    "122649804",
+    "122649805",
+    "122649806",
+    "122649807",
+    "122649808",
+    "122649809"
+   ]
+  },
+  {
+   "date": "2019-06-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122627512:por",
+     "title": "Portaria n.º 189/2019",
+     "published": "2019-06-21",
+     "dre_path": "/dr/detalhe/portaria/189-2019-122627512"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "122649775",
+    "122649776",
+    "122649777",
+    "122649778",
+    "122649779",
+    "122649780",
+    "122649781",
+    "122649782",
+    "122649783",
+    "122649784",
+    "122649785",
+    "122649786",
+    "122652387",
+    "122649788",
+    "122649789",
+    "122649790",
+    "122649791",
+    "122649792",
+    "122652388",
+    "122649794",
+    "122652389",
+    "122649796",
+    "122649797",
+    "122649798",
+    "122652381",
+    "122649800",
+    "122649801",
+    "122649802",
+    "122649803",
+    "122649804",
+    "122649805",
+    "122649806",
+    "122649807",
+    "122649808",
+    "122649809"
+   ]
+  },
+  {
+   "date": "2023-04-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211844897:por",
+     "title": "Portaria n.º 106/2023",
+     "published": "2023-04-17",
+     "dre_path": "/dr/detalhe/portaria/106-2023-211844897"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Elimina Artigo 10.º"
+   ],
+   "fragments": [
+    "122649775",
+    "122649776",
+    "122649777",
+    "122649778",
+    "122649779",
+    "122649780",
+    "122649781",
+    "122649782",
+    "122649783",
+    "122649784",
+    "213437880",
+    "122649786",
+    "213437881",
+    "213437883",
+    "213437882",
+    "122649790",
+    "213437884",
+    "122649792",
+    "213437885",
+    "213437886",
+    "213437887",
+    "213437894",
+    "213437895",
+    "213437888",
+    "213437896",
+    "213437889",
+    "213437897",
+    "213437898",
+    "213437899",
+    "213437890",
+    "213437891",
+    "213437900",
+    "213437901",
+    "213437892"
+   ]
+  }
+ ],
+ "fragments": {
+  "122649775": {
+   "fragment_id": "122649676",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 187/2015\n\nde 24 de junho\n\nA requerimento do Instituto Politécnico de Lisboa;\n\nColhido o parecer favorável da Comissão Nacional de Acesso ao Ensino Superior;\n\nAo abrigo do disposto nos n.os 3 e 4 do artigo 27.º do Decreto-Lei n.º 296 A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho;\n\nNo uso das competências delegadas pelo Ministro da Educação e Ciência através do Despacho n.º 10 368/2013 (2.ª série), de 8 de agosto;\n\nManda o Governo, pelo Secretário de Estado do Ensino Superior, o seguinte:"
+  },
+  "122649776": {
+   "fragment_id": "122649677",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação de Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação de Regulamento\n\nÉ aprovado o Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Teatro da Escola Superior de Teatro e Cinema do Instituto Politécnico de Lisboa, cujo texto se publica em anexo a esta portaria."
+  },
+  "122649777": {
+   "fragment_id": "122649678",
+   "type": 11,
+   "heading": "Artigo 2.º — Texto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Texto\n\nO texto referido no artigo anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria."
+  },
+  "122649778": {
+   "fragment_id": "122649679",
+   "type": 11,
+   "heading": "Artigo 3.º — Concursos especiais e regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Concursos especiais e regimes especiais\n\n1 - O ingresso no curso dos estudantes abrangidos pelos concursos especiais de acesso realiza-se nos termos do artigo 19.º do Decreto-Lei n.º 113/2014, de 16 de julho.\n\n2 - O ingresso no curso dos estudantes abrangidos pelo estatuto do estudante internacional realiza-se nos termos do artigo 6.º do Decreto-Lei n.º 36/2014, de 10 de março.\n\n3 - O ingresso no curso dos estudantes abrangidos pelos regimes especiais de acesso realiza-se nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 393-A/99, de 2 de outubro, alterado pelo Decreto-Lei n.º 272/2009, de 1 de outubro."
+  },
+  "122649779": {
+   "fragment_id": "122649680",
+   "type": 11,
+   "heading": "Artigo 4.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alterações\n\nTodas as alterações ao Regulamento são nele incorporadas através de nova redação dos seus artigos ou de aditamento de novos artigos."
+  },
+  "122649780": {
+   "fragment_id": "122649681",
+   "type": 11,
+   "heading": "Artigo 5.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aplicação\n\nO Regulamento anexo à presente portaria aplica-se a partir da candidatura à matrícula e inscrição no ano letivo de 2015-2016, inclusive."
+  },
+  "122649781": {
+   "fragment_id": "122649682",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposição revogatória\n\nÉ revogada a Portaria n.º 57/2013, de 7 de fevereiro."
+  },
+  "122649782": {
+   "fragment_id": "122649683",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "122649784": {
+   "fragment_id": "122649685",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nRegulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Teatro da Escola Superior de Teatro e Cinema do Instituto Politécnico de Lisboa."
+  },
+  "122649785": {
+   "fragment_id": "122649686",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nO presente Regulamento disciplina o concurso local de acesso para a matrícula e inscrição no curso de licenciatura em Teatro, nos ramos de Atores, de Design de Cena e de Produção, ministrado pela Escola Superior de Teatro e Cinema do Instituto Politécnico de Lisboa, adiante designados, respetivamente, curso e Escola."
+  },
+  "122649786": {
+   "fragment_id": "122649687",
+   "type": 11,
+   "heading": "Artigo 2.º — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Avaliação da capacidade para a frequência\n\nA avaliação da capacidade para a frequência do curso realiza-se numa única fase de seleção."
+  },
+  "122649787": {
+   "fragment_id": "122649688",
+   "type": 11,
+   "heading": "Artigo 3.º — Fase de seleção do ramo de Atores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fase de seleção do ramo de Atores\n\n1 - A fase de seleção do ramo de Atores tem por objetivo verificar as qualidades de disciplina, assiduidade e prontidão de resposta às solicitações do trabalho profissional, bem como a capacidade de trabalho em grupo.\n\n2 - A fase de seleção do ramo de Atores decorre em dois dias e é constituída por quatro provas:\n\na) Prova de interpretação teatral;\n\nb) Prova de corpo;\n\nc) Prova de voz;\n\nd) Prova de teoria.\n\n3 - A prova de interpretação teatral (Pi) é realizada em dois dias, sendo constituída:\n\na) No primeiro dia, pela apresentação de um monólogo, de escolha pessoal, teatralmente preparado, com a duração máxima de três minutos;\n\nb) No segundo dia, pela interpretação de um diálogo de um excerto de uma peça indicado previamente pela Escola, devidamente decorado, trabalhado de uma forma improvisada, por pares de candidatos, de acordo com as diretrizes fornecidas pelo júri no momento da prova.\n\n4 - A prova de corpo (Pc) é realizada em grupos, nos dois dias de provas, sendo propostos aos candidatos exercícios distintos, numa dinâmica de progressão e continuidade, com o objetivo de avaliar:\n\na) A capacidade de incorporação de exercícios ligados às distintas qualidades dinâmicas do movimento, e seus efeitos na comunicação;\n\nb) O grau de adaptabilidade a exercícios de perceção e concentração que potenciem a consciência percetiva do movimento;\n\nc) A evolução global do candidato ao longo da prova.\n\n5 - A prova de voz (Pv) decorre em dois dias, avaliando as capacidades vocais dos candidatos através de um conjunto de exercícios de grupo e individuais nos seguintes domínios:\n\na) Grau de clareza da dicção;\n\nb) Qualidade da voz;\n\nc) Controlo da respiração;\n\nd) Diversidade na intensidade e projeção da voz;\n\ne) Capacidade de ouvir e reproduzir sons musicais e não musicais;\n\nf) Sentido rítmico, coordenação e afinação, memória auditiva e musical;\n\ng) Interpretação de uma canção, escolhida e preparada previamente pelo candidato de entre um conjunto de canções indicado pela Escola.\n\n6 - A criatividade e capacidade de adaptação vocal às situações de desenvolvimento do trabalho proposto pelo júri são observadas ao longo dos dois dias de provas em contexto teatral.\n\n7 - A prova de teoria (Pt) é realizada através de duas entrevistas, realizadas em cada um dos dias de provas, durante as quais os candidatos são avaliados em relação aos seguintes parâmetros:\n\na) Cultura geral;\n\nb) Capacidade de raciocínio e atenção;\n\nc) Qualidades de observação;\n\nd) Sensibilidade para o facto teatral;\n\ne) Motivações artísticas e profissionais;\n\nf) Escolhas dramatúrgicas e cénicas feitas durante a apresentação do monólogo e diálogo.\n\n8 - No final de cada um dos dias de provas é atribuída aos candidatos uma avaliação parcelar, na escala inteira de 0 a 20, que é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:\n\nCFDn = Pc x 0,2 + Pv x 0,2 + Pi x 0,4 + Pt x 0,2\n\nEm que:\n\nCFDn = classificação final do dia n;\n\nPc = classificação da prova de corpo;\n\nPv = classificação da prova de voz;\n\nPi = classificação da prova de interpretação teatral;\n\nPt = classificação da prova de teoria.\n\n9 - A classificação final da fase de seleção é atribuída na escala inteira de 0 a 20, e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:\n\nCFS = CFD(índice 1) x 0,5 + CFD(índice 2) x 0,5\n\nEm que:\n\nCFS = classificação final da seleção;\n\nCFD(índice 1) = classificação final do dia 1;\n\nCFD(índice 2) = Classificação final do dia 2."
+  },
+  "122649788": {
+   "fragment_id": "122649689",
+   "type": 11,
+   "heading": "Artigo 4.º — Fase de seleção do ramo de Design de Cena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fase de seleção do ramo de Design de Cena\n\n1 - A fase de seleção do ramo de Design de Cena é constituída por:\n\na) Uma prova prática de desenho de representação que se destina a avaliar as capacidades de observação, de representação e de expressão dos candidatos;\n\nb) A apresentação de uma seleção de trabalhos, em formato A3 ou A4, até ao máximo de 10, que tenham sido realizados pelo candidato, relevantes e relacionados com os estudos em artes visuais;\n\nc) Uma entrevista, através da qual se pretende avaliar, através da análise de uma ficha de inquérito, as competências e motivações artísticas adquiridas no percurso escolar e ou profissional que levam o candidato a escolher este curso.\n\n2 - A classificação final da fase de seleção é atribuída na escala inteira de 0 a 20, e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:\n\nCFS = Pdr x 0,65 + At x 0,05 + E x 0,30\n\nEm que:\n\nCFS = classificação final da seleção;\n\nPdr = classificação da prova prática de desenho de representação;\n\nAt = classificação da apresentação da seleção de trabalhos;\n\nE = classificação da entrevista."
+  },
+  "122649789": {
+   "fragment_id": "122649690",
+   "type": 11,
+   "heading": "Artigo 5.º — Fase de seleção do ramo de Produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fase de seleção do ramo de Produção\n\n1 - A fase de seleção do ramo de Produção é constituída por uma entrevista e por uma prova escrita.\n\n2 - Na entrevista é analisada a ficha de inquérito do candidato, bem como as motivações que o levaram a escolher este curso e as características que possui para o desempenho da função de produtor.\n\n3 - A prova escrita é constituída por questões relacionadas com a produção, montagem e exibição de um espetáculo, e visa detetar os anteriores conhecimentos e o perfil que o candidato demonstra possuir para exercer as tarefas inerentes ao ramo de Produção.\n\n4 - A classificação final da fase de seleção é atribuída na escala inteira de 0 a 20, e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:\n\nCFS = E x 0,35 + Pe x 0,65\n\nEm que:\n\nCFS = classificação final da seleção;\n\nE = classificação da entrevista;\n\nPe = classificação da prova escrita."
+  },
+  "122649790": {
+   "fragment_id": "122649691",
+   "type": 11,
+   "heading": "Artigo 6.º — Validade das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Validade das provas\n\nAs provas são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam."
+  },
+  "122649791": {
+   "fragment_id": "122649692",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições para a candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições para a candidatura\n\n1 - Podem apresentar-se ao concurso os candidatos que reúnam as seguintes condições:\n\na) Ser titular de um curso de ensino secundário ou de habilitação legalmente equivalente;\n\nb) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: Português, Inglês, História da Cultura e das Artes, Geometria Descritiva, Matemática ou Literatura Portuguesa;\n\nc) Realizar os pré-requisitos, quando aplicável.\n\n2 - A prova de ingresso pode ser substituída nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho."
+  },
+  "122649792": {
+   "fragment_id": "122649693",
+   "type": 11,
+   "heading": "Artigo 8.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vagas\n\nA matrícula e inscrição em cada ramo do curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, sucessivamente alterado, e publicadas no sítio da Internet da Direção-Geral do Ensino Superior."
+  },
+  "122649793": {
+   "fragment_id": "122649694",
+   "type": 11,
+   "heading": "Artigo 9.º — Local de apresentação de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Local de apresentação de candidatura\n\n1 - O requerimento de candidatura é apresentado na Escola.\n\n2 - O prazo para entrega do requerimento de candidatura é fixado nos termos do artigo 25.º"
+  },
+  "122649795": {
+   "fragment_id": "122649696",
+   "type": 11,
+   "heading": "Artigo 11.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura deve ser instruído com:\n\na) Requerimento, em impresso de modelo fornecido pela Escola;\n\nb) Ficha ENES válida no ano letivo de candidatura ou, quando aplicável, certificado de equivalência de curso estrangeiro ao ensino secundário português;\n\nc) Certificado comprovativo de que realizou uma das provas de ingresso fixadas na alínea b) do artigo 7.º quando tal não conste expressamente no documento a que se refere a alínea anterior, ou de substituição daquela, acompanhado de documento comprovativo da decisão do diretor-geral do Ensino Superior, relativamente ao pedido de substituição de provas de ingresso, nos termos do disposto no artigo 20.º-A do Decreto-Lei n.º 296 A/98, de 25 de setembro, sucessivamente alterado;\n\nd) Ficha de inquérito, em impresso de modelo fornecido pela Escola, que se destina à recolha de informações genéricas sobre o perfil académico e cultural e as motivações vocacionais do candidato;\n\ne) Outros documentos referidos no edital a que se refere o artigo 14.º\n\n2 - Os documentos referidos nas alíneas b) e c) do número anterior podem ser substituídos, no ato de candidatura, por uma declaração de compromisso em que se assuma a sua entrega até ao termo do prazo fixado nos termos do artigo 25.º\n\n3 - Os documentos referidos nas alíneas a) e d) podem ser substituídos por formulários eletrónicos disponibilizados pela Escola no respetivo sítio da Internet.\n\n4 - A entrega do processo de candidatura pode ser realizada por um dos seguintes modos:\n\na) Em envelope fechado, nos Serviços Administrativos da Escola;\n\nb) Pelo correio."
+  },
+  "122649796": {
+   "fragment_id": "122649697",
+   "type": 11,
+   "heading": "Artigo 12.º — Indeferimento liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Indeferimento liminar\n\n1 - São liminarmente indeferidos os requerimentos que:\n\na) Sejam apresentados fora de prazo;\n\nb) Expressamente infrinjam alguma das regras fixadas pelo presente Regulamento.\n\n2 - O indeferimento liminar é da competência do presidente da Escola e deve ser fundamentado."
+  },
+  "122649797": {
+   "fragment_id": "122649698",
+   "type": 11,
+   "heading": "Artigo 13.º — Júri das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Júri das provas\n\n1 - A organização das provas é da competência de um júri designado pelo presidente da Escola, ouvidas a direção e a comissão técnico-científica do Departamento de Teatro.\n\n2 - Compete ao júri, designadamente:\n\na) Dar execução às provas e proceder à sua apreciação de acordo com as normas e critérios de avaliação fixados no presente Regulamento;\n\nb) Proceder às operações de seleção e seriação dos candidatos."
+  },
+  "122649798": {
+   "fragment_id": "122649699",
+   "type": 11,
+   "heading": "Artigo 14.º — Edital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Edital\n\nPor edital do presidente da Escola, publicado no sítio desta na Internet, são divulgados, designadamente:\n\na) O calendário do concurso;\n\nb) O horário de realização das provas;\n\nc) A composição do júri de cada uma das provas;\n\nd) As vagas por ramo;\n\ne) A informação sobre a instrução de processos de candidatura;\n\nf) A informação sobre a instrução de processos de reclamação;\n\ng) Os emolumentos devidos."
+  },
+  "122649799": {
+   "fragment_id": "122649700",
+   "type": 11,
+   "heading": "Artigo 15.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Seriação\n\n1 - A seriação dos candidatos à matrícula e inscrição em cada um dos ramos do curso é realizada com base numa nota de candidatura.\n\n2 - A nota de candidatura é a resultante do cálculo da seguinte expressão:\n\nNc = CFS x 0,9 + Ha x 0,1\n\nEm que:\n\nNc = nota de candidatura;\n\nCFS = classificação da fase de seleção;\n\nHa = classificação da habilitação com que se candidata.\n\n3 - O cálculo da expressão a que se refere o número anterior é arredondado às décimas.\n\n4 - Os candidatos com nota de candidatura inferior a 10,0 valores são excluídos."
+  },
+  "122649800": {
+   "fragment_id": "122649701",
+   "type": 11,
+   "heading": "Artigo 16.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Colocação\n\nA colocação dos candidatos nas vagas fixadas para cada ramo é feita por ordem decrescente das listas seriadas elaboradas nos termos do artigo anterior."
+  },
+  "122649801": {
+   "fragment_id": "122649702",
+   "type": 11,
+   "heading": "Artigo 17.º — Desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate resultante da aplicação dos critérios de seriação a que se refere o artigo 15.º disputem a última vaga ou o último conjunto de vagas de um ramo, são abertas tantas vagas adicionais quanto as necessárias para os admitir."
+  },
+  "122649802": {
+   "fragment_id": "122649703",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência\n\nAs decisões sobre a candidatura a que se refere o presente Regulamento são da competência do presidente da Escola."
+  },
+  "122649803": {
+   "fragment_id": "122649704",
+   "type": 11,
+   "heading": "Artigo 19.º — Resultado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Resultado final\n\n1 - O resultado final exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído.\n\n2 - As menções de Não colocado e Excluído são acompanhadas da respetiva fundamentação."
+  },
+  "122649804": {
+   "fragment_id": "122649705",
+   "type": 11,
+   "heading": "Artigo 20.º — Comunicação do resultado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comunicação do resultado final\n\n1 - O resultado final é divulgado através de edital afixado na Escola e publicado no respetivo sítio da Internet no prazo fixado nos termos do artigo 25.º\n\n2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso, os seguintes elementos:\n\na) Nome;\n\nb) Número de documento de identificação;\n\nc) Nota de candidatura a que se refere o artigo 15.º e valores das suas componentes;\n\nd) Resultado final."
+  },
+  "122649805": {
+   "fragment_id": "122649706",
+   "type": 11,
+   "heading": "Artigo 21.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reclamações\n\n1 - Do resultado final, podem os candidatos apresentar reclamação fundamentada, no prazo fixado nos termos do artigo 25.º, mediante exposição dirigida ao presidente da Escola.\n\n2 - A reclamação deve ser entregue no local onde o reclamante apresentou a candidatura.\n\n3 - Ao procedimento relativo à apresentação e decisão da reclamação aplica-se o disposto no Código do Procedimento Administrativo.\n\n4 - As decisões sobre as reclamações são notificadas aos reclamantes por via eletrónica."
+  },
+  "122649806": {
+   "fragment_id": "122649707",
+   "type": 11,
+   "heading": "Artigo 22.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm o direito a proceder à matrícula e inscrição no prazo fixado nos termos do artigo 25.º\n\n2 - A colocação apenas tem efeito para o ano letivo a que se refere, pelo que o direito à matrícula e inscrição caduca com o seu não exercício dentro do prazo fixado.\n\n3 - No caso de algum candidato colocado desistir expressamente da matrícula e inscrição, ou não comparecer a realizar a mesma, os serviços académicos da Escola, no prazo de dois dias úteis após o termo do período de matrícula e inscrição, convocam, por via eletrónica, para a matrícula e inscrição, o(s) candidato(s) não colocado(s) na lista ordenada, por ordem decrescente de classificação, até esgotar as vagas ou os candidatos.\n\n4 - Os candidatos a que se refere o número anterior têm um prazo improrrogável de dois dias úteis após a receção da notificação para procederem à matrícula e inscrição."
+  },
+  "122649807": {
+   "fragment_id": "122649708",
+   "type": 11,
+   "heading": "Artigo 23.º — Exclusão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Exclusão dos candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Atuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objetivos daquelas.\n\n2 - A decisão a que se refere o número anterior é da competência do presidente da Escola e deve ser fundamentada."
+  },
+  "122649808": {
+   "fragment_id": "122649709",
+   "type": 11,
+   "heading": "Artigo 24.º — Comunicação à Direção-Geral do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comunicação à Direção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, a Escola envia à Direção-Geral do Ensino Superior, nos termos e nos prazos por esta fixados, uma lista onde constem todos os candidatos que procederam à mesma, com a indicação do nome, número do documento de identificação e data de nascimento."
+  },
+  "122649809": {
+   "fragment_id": "122649710",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Prazos\n\nOs prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo presidente da Escola e divulgados através do edital a que se refere o artigo 14.º"
+  },
+  "122649783": {
+   "fragment_id": "122649684",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ensino Superior, José Alberto Nunes Ferreira Gomes, em 5 de junho de 2015."
+  },
+  "122649794": {
+   "fragment_id": "122649695",
+   "type": 11,
+   "heading": "Artigo 10.º — Legitimidade para apresentação de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Legitimidade para apresentação de candidatura\n\nTem legitimidade para subscrever o requerimento de candidatura:\n\na) O candidato;\n\nb) Um seu procurador bastante;\n\nc) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar."
+  },
+  "122652381": {
+   "fragment_id": "122649700",
+   "type": 11,
+   "heading": "Artigo 15.º — Seriação",
+   "in_force_from": "2017-06-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 192/2017 - Diário da República n.º 116/2017, Série I de 2017-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/192-2017-107524711), em vigor a partir de 2017-06-20"
+   ],
+   "markdown": "###### Artigo 15.º — Seriação\n\n1 - A seriação dos candidatos à matrícula e inscrição em cada um dos ramos do curso é realizada com base numa nota de candidatura.\n\n2 - A nota de candidatura é a resultante do cálculo da seguinte expressão:\n\nNc = CFS x 0,9 + Ha x 0,1\n\nEm que:\n\nNc = nota de candidatura;\n\nCFS = classificação da fase de seleção;\n\nHa = classificação da habilitação com que se candidata.\n\n3 - O cálculo da expressão a que se refere o número anterior é arredondado às centésimas.\n\n4 - Os candidatos com nota de candidatura inferior a 10,00 valores são excluídos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 192/2017 - Diário da República n.º 116/2017, Série I de 2017-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/192-2017-107524711), em vigor a partir de 2017-06-20"
+  },
+  "122652387": {
+   "fragment_id": "122649688",
+   "type": 11,
+   "heading": "Artigo 3.º — Fase de seleção do ramo de Atores",
+   "in_force_from": "2019-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+   ],
+   "markdown": "###### Artigo 3.º — Fase de seleção do ramo de Atores\n\n1 - A fase de seleção do ramo de Atores tem por objetivo verificar as qualidades de disciplina, assiduidade e prontidão de resposta às solicitações do trabalho profissional, bem como a capacidade de trabalho em grupo.\n\n2 - A fase de seleção do ramo de Atores decorre num único dia, na parte da manhã e tarde, sendo constituída por quatro provas:\n\na) Prova de interpretação teatral;\n\nb) Prova de corpo;\n\nc) Prova de voz;\n\nd) Prova de teoria.\n\n3 - A prova de interpretação teatral (Pi) é realizada na manhã do dia selecionado, sendo constituída:\n\na) Pela apresentação de um monólogo, de escolha pessoal, teatralmente preparado, com a duração máxima de três minutos;\n\nb) Pela improvisação, a partir de um diálogo de um excerto de uma peça indicado previamente pela Escola, devidamente decorado, trabalhado de uma forma improvisada no dia, por pares de candidatos, de acordo com as diretrizes fornecidas pelo júri no momento da prova.\n\n4 - A prova de corpo (Pc) é realizada na manhã do dia selecionado, em grupos, sendo propostos aos candidatos exercícios distintos, numa dinâmica de progressão e continuidade, com o objetivo de avaliar:\n\na) A capacidade de incorporação de exercícios ligados às distintas qualidades dinâmicas do movimento, e seus efeitos na comunicação;\n\nb) O grau de adaptabilidade a exercícios de perceção e concentração que potenciem a consciência percetiva do movimento;\n\nc) A evolução global do candidato ao longo da prova.\n\n5 - A prova de voz (Pv) é realizada na manhã do dia selecionado, avaliando as capacidades vocais dos candidatos através de um conjunto de exercícios de grupo e individuais nos seguintes domínios:\n\na) Grau de clareza da dicção;\n\nb) Qualidade da voz;\n\nc) Controlo da respiração;\n\nd) Diversidade na intensidade e projeção da voz;\n\ne) Capacidade de ouvir e reproduzir sons musicais e não musicais;\n\nf) Sentido rítmico, coordenação e afinação, memória auditiva e musical;\n\ng) Interpretação de uma canção, escolhida e preparada previamente pelo candidato de entre um conjunto de canções indicado pela Escola.\n\n6 - A criatividade e capacidade de adaptação vocal às situações de desenvolvimento do trabalho proposto pelo júri são observadas ao longo da manhã do dia selecionado nas provas em contexto teatral.\n\n7 - A prova de teoria (Pt) é realizada na tarde do dia selecionado através de uma entrevista, durante a qual os candidatos são avaliados em relação aos seguintes parâmetros:\n\na) Cultura geral;\n\nb) Capacidade de raciocínio e atenção;\n\nc) Qualidades de observação;\n\nd) Sensibilidade para o facto teatral;\n\ne) Motivações artísticas e profissionais;\n\nf) Escolhas dramatúrgicas e cénicas feitas durante a apresentação do monólogo e diálogo.\n\n8 - A classificação final da fase de seleção é atribuída na escala inteira de 0 a 20, e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:\n\nCFS = Pc x 0,2 + Pv x 0,2 + Pi x 0,4 + Pt x 0,2\n\nem que:\n\nCFS = classificação final da seleção;\n\nPc = classificação da prova de corpo;\n\nPv = classificação da prova de voz;\n\nPi = classificação da prova de interpretação teatral;\n\nPt = classificação da prova de teoria.\n\n9 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+  },
+  "122652388": {
+   "fragment_id": "122649694",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação da candidatura",
+   "in_force_from": "2019-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+   ],
+   "markdown": "###### Artigo 9.º — Apresentação da candidatura\n\n1 - A candidatura ao concurso local é apresentada, exclusivamente, através de um portal de candidaturas da Escola na internet.\n\n2 - O prazo para submissão da candidatura é fixado nos termos do artigo 25.º\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+  },
+  "122652389": {
+   "fragment_id": "122649696",
+   "type": 11,
+   "heading": "Artigo 11.º — Instrução do processo de candidatura",
+   "in_force_from": "2019-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+   ],
+   "markdown": "###### Artigo 11.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura deve ser instruído com:\n\na) Certificado comprovativo da titularidade da habilitação com que se candidata;\n\nb) Certificado comprovativo de que realizou uma das provas de ingresso fixadas na alínea b) do n.º 1 do artigo 7.º, quando aplicável, e quando tal não conste expressamente no documento a que se refere a alínea anterior;\n\nc) Ficha de inquérito, em impresso de modelo fornecido pela Escola, que se destina à recolha de informações genéricas sobre o perfil académico e cultural e as motivações vocacionais do candidato;\n\nd) Outros documentos referidos no edital a que se refere o artigo 14.º\n\n2 - Os documentos referidos nas alíneas a) e b) do número anterior podem ser substituídos, na submissão da candidatura, por uma declaração de compromisso em que se assuma a sua entrega até ao termo do prazo fixado nos termos do artigo 25.º\n\n3 - (Revogado).\n\n4 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+  },
+  "213437880": {
+   "fragment_id": "122649686",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nO presente Regulamento regula o concurso local de acesso para a matrícula e inscrição no curso de licenciatura em Teatro, nos ramos de Atores, de Design de Cena e de Produção, ministrado pela Escola Superior de Teatro e Cinema do Instituto Politécnico de Lisboa, adiante designados, respetivamente, curso e Escola.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437881": {
+   "fragment_id": "122649688",
+   "type": 11,
+   "heading": "Artigo 3.º — Fase de seleção do ramo de Atores",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+   ],
+   "markdown": "###### Artigo 3.º — Fase de seleção do ramo de Atores\n\n1 - A fase de seleção é constituída por quatro provas e tem por objetivo apreciar as qualidades e aptidões dos candidatos, no sentido de verificar a sua adequação à frequência do curso.\n\n2 - As provas que constam da fase de seleção são:\n\na) Prova de corpo;\n\nb) Prova de voz;\n\nc) Prova de teoria;\n\nd) Prova de interpretação teatral.\n\n3 - A prova de corpo (Pc) propõe exercícios individuais e de grupo que visam observar, numa dinâmica evolutiva, o grau de adaptabilidade e abertura dos candidatos a diferentes aspetos da relação com o corpo e o movimento. Avaliam-se:\n\na) Grau de adaptabilidade do candidato a exercícios de perceção baseados na relação do corpo com o espaço e o tempo;\n\nb) Grau de adaptabilidade do candidato a propostas corporais de composição espontânea;\n\nc) Qualidades de escuta, abertura e participação nos exercícios improvisados;\n\nd) A evolução do candidato ao longo da prova.\n\n4 - A prova de voz (Pv) avalia as capacidades vocais dos candidatos através de um conjunto de exercícios, individuais e de grupo, nos seguintes domínios:\n\na) Grau de clareza da dicção;\n\nb) Controlo da respiração;\n\nc) Diversidade na intensidade e projeção da voz;\n\nd) Sentido rítmico, coordenação e afinação, memória auditiva e musical;\n\ne) Capacidade de adaptação vocal e criativa às premissas de experimentação propostas pelo júri.\n\nA prova de voz contempla ainda a interpretação de uma canção (sem acompanhamento instrumental), escolhida e preparada previamente pelo candidato, de entre as indicadas pelo júri.\n\n5 - A prova de teoria (Pt), sob a forma de entrevista individual, pretende aferir aptidões comunicacionais e reflexivas através dos seguintes parâmetros de avaliação:\n\na) Elementos de cultura geral e de gosto pelo conhecimento;\n\nb) Qualidades de raciocínio e observação crítica;\n\nc) Sensibilidade para o fenómeno teatral;\n\nd) Motivações de teor artístico e profissional;\n\ne) Escolha dramatúrgica do monólogo e propostas cénicas elaboradas para a sua apresentação.\n\n6 - A prova de interpretação teatral (Pi) é constituída por:\n\na) Conceção e construção de uma cena teatral a partir de um monólogo, previamente memorizado na íntegra, escolhido de entre os textos propostos;\n\nb) Um exercício de improvisação teatral, proposto no momento, recorrendo de novo ao monólogo escolhido, em conformidade com as diretrizes cénicas propostas pelo júri;\n\nc) Demonstração de aptidão em relacionar dramaturgicamente o monólogo escolhido com o texto completo de onde este foi extraído, bem como com a proposta cénica apresentada.\n\nA prova de interpretação teatral pretende testar:\n\na) As potencialidades interpretativas, assim como as respeitantes à conceção e à recriação cénica do monólogo escolhido;\n\nb) O grau de adaptabilidade, imaginário e capacidade de resposta do candidato a diferentes propostas de jogo teatral no exercício de improvisação;\n\nc) Qualidades de participação, abertura e prontidão manifestadas no decurso da prova.\n\nO júri pode interromper ou dar por concluída a prova quando achar conveniente, seja por ter considerado suficiente o que observou para fins de avaliação, seja com o intuito de colocar questões ao candidato que considere oportunas. Este procedimento é aplicável a qualquer uma das quatro provas que constituem a seleção.\n\nOs textos para a prova de interpretação teatral, bem como as canções para a prova de voz, são disponibilizados, em cada ano, no sítio de Internet da Escola (www.estc.ipl.pt).\n\n7 - A classificação final da fase de seleção é atribuída na escala inteira de 0 a 20, e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:\n\nCFS = Pc x 0,2 + Pv x 0,2 + Pi x 0,4 + Pt x 0,2\n\nem que:\n\nCFS = classificação final da seleção;\n\nPc = classificação da prova de corpo;\n\nPv = classificação da prova de voz;\n\nPi = classificação da prova de interpretação teatral;\n\nPt = classificação da prova de teoria.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+  },
+  "213437883": {
+   "fragment_id": "122649689",
+   "type": 11,
+   "heading": "Artigo 4.º — Fase de seleção do ramo de Design de Cena",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 4.º — Fase de seleção do ramo de Design de Cena\n\n1 - A fase de seleção do ramo de Design de Cena é constituída por:\n\na) Uma prova prática de desenho de representação que se destina a avaliar as capacidades de observação, de representação e de expressão dos candidatos;\n\nb) A apresentação de uma seleção de trabalhos, até ao máximo de 10, que tenham sido realizados pelo candidato, relevantes e relacionados com os estudos em artes visuais;\n\nc) Uma entrevista, através da qual se pretende avaliar, através da análise de uma ficha de inquérito, as competências e motivações artísticas adquiridas no percurso escolar e ou profissional que levam o candidato a escolher este curso.\n\n2 - A classificação final da fase de seleção é atribuída na escala inteira de 0 a 20, e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:\n\nCFS = Pdr x 0,65 + At x 0,05 + E x 0,30\n\nem que:\n\nCFS = classificação final da seleção;\n\nPdr = classificação da prova prática de desenho de representação;\n\nAt = classificação da apresentação da seleção de trabalhos;\n\nE = classificação da entrevista.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437882": {
+   "fragment_id": "122649690",
+   "type": 11,
+   "heading": "Artigo 5.º — Fase de seleção do ramo de Produção",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 5.º — Fase de seleção do ramo de Produção\n\n1 - A fase de seleção do ramo de Produção é constituída por uma entrevista e por uma prova escrita.\n\n2 - Na entrevista é analisada a ficha de inquérito do candidato, bem como as motivações que o levaram a escolher este curso.\n\n3 - A prova escrita é constituída por questões relacionadas com a produção, montagem e exibição de um espetáculo, e visa detetar o perfil que o candidato demonstra possuir para exercer as tarefas inerentes ao ramo de Produção.\n\n4 - A classificação final da fase de seleção é atribuída na escala inteira de 0 a 20, e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:\n\nCFS = E x 0,35 + Pe x 0,65\n\nem que:\n\nCFS = classificação final da seleção;\n\nE = classificação da entrevista;\n\nPe = classificação da prova escrita.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437884": {
+   "fragment_id": "122649692",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições para a candidatura",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 7.º — Condições para a candidatura\n\n1 - Podem apresentar-se ao concurso os candidatos que reúnam as seguintes condições:\n\na) Ser titular de um curso de ensino secundário ou de habilitação legalmente equivalente;\n\nb) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: Português, Inglês, História da Cultura e das Artes, Geometria Descritiva, Matemática ou Literatura Portuguesa.\n\n2 - A prova de ingresso pode ser substituída nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho.\n\n3 - Podem, ainda, apresentar-se ao concurso os candidatos que reúnam os requisitos exigidos para o acesso e ingresso através dos regimes especiais previstos no Decreto-Lei n.º 393-A/99, de 2 de outubro, alterado pelo Decreto-Lei n.º 272/2009, de 1 de outubro, dos concursos especiais de acesso previstos no Decreto-Lei n.º 113/2014, de 16 de julho, e do regime de mudança de par instituição/curso previsto na Portaria n.º 181-D/2015, de 19 de junho, alterada pelas Portarias n.os 305/2016, de 6 de dezembro, e 249-A/2019, de 5 de agosto, cujas condições de candidatura se regem por regulamentos próprios.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437885": {
+   "fragment_id": "122649694",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação da candidatura",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+   ],
+   "markdown": "###### Artigo 9.º — Apresentação da candidatura\n\n1 - A candidatura ao concurso local é apresentada, exclusivamente, através de um portal de candidaturas da Escola na Internet.\n\n2 - O prazo para submissão da candidatura é fixado nos termos do artigo 24.º\n\n> Alterado pelo/a Artigo 9.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+  },
+  "213437886": {
+   "fragment_id": "122649696",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrução do processo de candidatura",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+   ],
+   "markdown": "###### Artigo 10.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura deve ser instruído com:\n\na) Certificado comprovativo da titularidade da habilitação com que se candidata;\n\nb) Certificado comprovativo de que realizou uma das provas de ingresso fixadas na alínea b) do n.º 1 do artigo 7.º, quando aplicável, e quando tal não conste expressamente no documento a que se refere a alínea anterior;\n\nc) Ficha de inquérito, em impresso de modelo fornecido pela Escola, que se destina à recolha de informações genéricas sobre o perfil académico e cultural e as motivações vocacionais do candidato;\n\nd) Outros documentos referidos no edital a que se refere o artigo 13.º\n\n2 - Os documentos referidos nas alíneas a) e b) do número anterior, podem ser substituídos, na submissão da candidatura, por uma declaração de compromisso em que se assuma a sua entrega até ao termo do prazo fixado nos termos do artigo 24.º\n\n> Alterado pelo/a Artigo 10.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 189/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/189-2019-122627512), em vigor a partir de 2019-06-22"
+  },
+  "213437887": {
+   "fragment_id": "122649697",
+   "type": 11,
+   "heading": "Artigo 11.º — Indeferimento liminar",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 11.º — Indeferimento liminar\n\n1 - São liminarmente indeferidas as candidaturas que:\n\na) Sejam apresentadas fora de prazo;\n\nb) Expressamente infrinjam alguma das regras fixadas pelo presente Regulamento.\n\n2 - O indeferimento liminar é da competência do presidente da Escola e deve ser fundamentado.\n\n> Alterado pelo/a Artigo 11.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437894": {
+   "fragment_id": "122649698",
+   "type": 11,
+   "heading": "Artigo 12.º — Júri das provas",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 12.º — Júri das provas\n\n1 - A organização das provas é da competência de um júri designado pelo presidente da Escola, ouvidas a direção e a comissão técnico-científica do Departamento de Teatro.\n\n2 - Compete ao júri, designadamente:\n\na) Dar execução às provas e proceder à sua apreciação de acordo com as normas e critérios de avaliação fixados no presente Regulamento;\n\nb) Proceder às operações de seleção e seriação dos candidatos.\n\n> Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437895": {
+   "fragment_id": "122649699",
+   "type": 11,
+   "heading": "Artigo 13.º — Edital",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 13.º — Edital\n\nPor edital do presidente da Escola, publicado no sítio desta na Internet, são divulgados, designadamente:\n\na) O calendário do concurso;\n\nb) O horário de realização das provas;\n\nc) A composição do júri de cada uma das provas;\n\nd) As vagas por ramo;\n\ne) A informação sobre a instrução de processos de candidatura;\n\nf) A informação sobre a instrução de processos de reclamação;\n\ng) Os emolumentos devidos.\n\n> Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437888": {
+   "fragment_id": "122649700",
+   "type": 11,
+   "heading": "Artigo 14.º — Seriação",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 192/2017 - Diário da República n.º 116/2017, Série I de 2017-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/192-2017-107524711), em vigor a partir de 2017-06-20"
+   ],
+   "markdown": "###### Artigo 14.º — Seriação\n\n1 - A seriação dos candidatos à matrícula e inscrição em cada um dos ramos do curso é realizada com base numa nota de candidatura.\n\n2 - A nota de candidatura é a resultante do cálculo da seguinte expressão:\n\nNc = CFS x 0,9 + Ha x 0,1\n\nem que:\n\nNc = nota de candidatura;\n\nCFS = classificação da fase de seleção;\n\nHa = classificação da habilitação com que se candidata.\n\n3 - O cálculo da expressão a que se refere o número anterior é arredondado às centésimas.\n\n4 - Os candidatos com nota de candidatura inferior a 10 valores, ou que não tenham realizado a totalidade das provas, são excluídos.\n\n5 - A classificação da habilitação de acesso (Ha) dos candidatos do regime geral e mudança de curso é a resultante do cálculo da seguinte expressão, arredondado às décimas, considerando como décima a fração não inferior a cinco centésimas, da seguinte expressão:\n\nHa = ES x 0,65 + EN x 0,35\n\nem que:\n\nHa = habilitação de acesso;\n\nES = média do ensino secundário para efeitos de acesso ao ensino superior;\n\nEN = exame nacional correspondente a prova de ingresso no ensino superior.\n\n6 - A habilitação de acesso dos candidatos titulares de outros cursos superiores corresponde à classificação/média final obtida no curso com que se candidatam, quando corresponder a um curso completo.\n\n7 - A habilitação de acesso dos candidatos aprovados nas provas especialmente adequadas a avaliar a capacidade para a frequência da licenciatura em Teatro aos maiores de 23 anos de idade corresponde à classificação final obtida nessas provas.\n\n> Alterado pelo/a Artigo 14.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 192/2017 - Diário da República n.º 116/2017, Série I de 2017-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/192-2017-107524711), em vigor a partir de 2017-06-20"
+  },
+  "213437896": {
+   "fragment_id": "122649701",
+   "type": 11,
+   "heading": "Artigo 15.º — Colocação",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 15.º — Colocação\n\nA colocação dos candidatos nas vagas fixadas para cada ramo é feita por ordem decrescente das listas seriadas elaboradas nos termos do artigo anterior.\n\n> Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437889": {
+   "fragment_id": "122649702",
+   "type": 11,
+   "heading": "Artigo 16.º — Desempate",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 16.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate resultante da aplicação dos critérios de seriação a que se refere o artigo 14.º disputem a última vaga ou o último conjunto de vagas de um ramo, são abertas tantas vagas adicionais quanto as necessárias para os admitir.\n\n> Alterado pelo/a Artigo 16.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437897": {
+   "fragment_id": "122649703",
+   "type": 11,
+   "heading": "Artigo 17.º — Competência",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 17.º — Competência\n\nAs decisões sobre a candidatura a que se refere o presente Regulamento são da competência do presidente da Escola.\n\n> Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437898": {
+   "fragment_id": "122649704",
+   "type": 11,
+   "heading": "Artigo 18.º — Resultado final",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 18.º — Resultado final\n\n1 - O resultado final exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído.\n\n2 - As menções de Não colocado e Excluído são acompanhadas da respetiva fundamentação.\n\n> Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437899": {
+   "fragment_id": "122649705",
+   "type": 11,
+   "heading": "Artigo 19.º — Comunicação do resultado final",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 19.º — Comunicação do resultado final\n\n1 - O resultado final é divulgado através de edital afixado na Escola e publicado no respetivo sítio da Internet no prazo fixado nos termos do artigo 24.º\n\n2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso, os seguintes elementos:\n\na) Nome;\n\nb) Nota de candidatura a que se refere o artigo 15.º e valores das suas componentes;\n\nc) Resultado final.\n\n> Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437890": {
+   "fragment_id": "122649706",
+   "type": 11,
+   "heading": "Artigo 20.º — Reclamações",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 20.º — Reclamações\n\n1 - Do resultado final, podem os candidatos apresentar reclamação fundamentada, no prazo fixado nos termos do artigo 24.º, mediante exposição dirigida ao presidente da Escola.\n\n2 - A reclamação deve ser entregue no local onde o reclamante apresentou a candidatura.\n\n3 - Ao procedimento relativo à apresentação e decisão da reclamação aplica-se o disposto no Código do Procedimento Administrativo.\n\n4 - As decisões sobre as reclamações são notificadas aos reclamantes por via eletrónica.\n\n> Alterado pelo/a Artigo 20.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437891": {
+   "fragment_id": "122649707",
+   "type": 11,
+   "heading": "Artigo 21.º — Matrícula e inscrição",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 21.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm o direito a proceder à matrícula e inscrição no prazo fixado nos termos do artigo 24.º\n\n2 - A colocação apenas tem efeito para o ano letivo a que se refere, pelo que o direito à matrícula e inscrição caduca com o seu não exercício dentro do prazo fixado.\n\n3 - No caso de algum candidato colocado desistir expressamente da matrícula e inscrição, ou não comparecer a realizar a mesma, os serviços académicos da Escola, no prazo de dois dias úteis após o termo do período de matrícula e inscrição, convocam, por via eletrónica, para a matrícula e inscrição, o(s) candidato(s) não colocado(s) na lista ordenada, por ordem decrescente de classificação até esgotar as vagas ou os candidatos.\n\n4 - Os candidatos a que se refere o número anterior têm um prazo improrrogável de dois dias úteis após a receção da notificação para procederem à matrícula e inscrição.\n\n> Alterado pelo/a Artigo 21.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437900": {
+   "fragment_id": "122649708",
+   "type": 11,
+   "heading": "Artigo 22.º — Exclusão dos candidatos",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 22.º — Exclusão dos candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Atuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objetivos daquelas.\n\n2 - A decisão a que se refere o número anterior é da competência do presidente da Escola e deve ser fundamentada.\n\n> Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437901": {
+   "fragment_id": "122649709",
+   "type": 11,
+   "heading": "Artigo 23.º — Comunicação à Direção-Geral do Ensino Superior",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 23.º — Comunicação à Direção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, a Escola envia à Direção-Geral do Ensino Superior, nos termos e nos prazos por esta fixados, uma lista onde constem todos os candidatos que procederam à mesma, com a indicação do nome, número do documento de identificação e data de nascimento.\n\n> Alterado pelo/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  },
+  "213437892": {
+   "fragment_id": "122649710",
+   "type": 11,
+   "heading": "Artigo 24.º — Prazos",
+   "in_force_from": "2023-04-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+   ],
+   "markdown": "###### Artigo 24.º — Prazos\n\nOs prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo presidente da Escola e divulgados através do edital a que se refere o artigo 13.º\n\n> Alterado pelo/a Artigo 24.º do/a [Portaria n.º 106/2023 - Diário da República n.º 75/2023, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/portaria/106-2023-211844897), em vigor a partir de 2023-04-18"
+  }
+ }
+}

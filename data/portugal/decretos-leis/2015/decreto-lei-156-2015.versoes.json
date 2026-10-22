@@ -1,0 +1,1040 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:69977686:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-119397761",
+ "dre_path": "/dr/detalhe/decreto-lei/156-2015-69977686",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-08-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "835808426",
+    "119405448",
+    "119405449",
+    "119405451",
+    "119405452",
+    "119405453",
+    "119405454",
+    "119405455",
+    "119405456",
+    "119405457",
+    "119405458",
+    "119405459",
+    "119405460",
+    "119405461",
+    "119405462",
+    "119405463",
+    "119405464",
+    "119405465",
+    "119405466",
+    "119405467",
+    "119405468",
+    "119405469",
+    "119405470",
+    "119405471",
+    "119405472",
+    "119405473",
+    "119405474",
+    "119475075",
+    "119475076",
+    "119475077",
+    "119475078",
+    "119475079",
+    "119475080",
+    "119475081",
+    "119475082",
+    "119475083",
+    "119475084",
+    "119475085",
+    "119475086",
+    "119475087",
+    "119475088",
+    "119405450"
+   ]
+  },
+  {
+   "date": "2019-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:121987030:por",
+     "title": "Declaração de Retificação n.º 11/2019",
+     "published": "2019-04-04",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/11-2019-121987030"
+    },
+    {
+     "id": "pt:dre:119397715:por",
+     "title": "Lei n.º 13/2019",
+     "published": "2019-02-12",
+     "dre_path": "/dr/detalhe/lei/13-2019-119397715"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º",
+    "Retifica Artigo 5.º",
+    "Retifica Artigo 7.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 32.º"
+   ],
+   "fragments": [
+    "119405447",
+    "121924692",
+    "121924693",
+    "119405451",
+    "119405452",
+    "121924699",
+    "119405454",
+    "119405455",
+    "121924694",
+    "119405457",
+    "121924695",
+    "119405459",
+    "121924696",
+    "119405461",
+    "119405462",
+    "119405463",
+    "121924697",
+    "119405465",
+    "119405466",
+    "119405467",
+    "119405468",
+    "119405469",
+    "119405470",
+    "119405471",
+    "119405472",
+    "119405473",
+    "119405474",
+    "119475075",
+    "119475076",
+    "119475077",
+    "119475078",
+    "119475079",
+    "119475080",
+    "119475081",
+    "119475082",
+    "119475083",
+    "119475084",
+    "119475085",
+    "119475086",
+    "119475087",
+    "121924698",
+    "119405450"
+   ]
+  },
+  {
+   "date": "2023-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835712411:por",
+     "title": "Decreto-Lei n.º 132/2023",
+     "published": "2023-12-27",
+     "dre_path": "/dr/detalhe/decreto-lei/132-2023-835712411"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "835808426",
+    "835808427",
+    "835808428",
+    "835808429",
+    "835808430",
+    "835808431",
+    "835808432",
+    "835808433",
+    "835808434",
+    "835808435",
+    "835808436",
+    "835808437",
+    "835808438",
+    "835808439",
+    "835808440",
+    "835808441",
+    "835808442",
+    "835808443",
+    "835808444",
+    "835808445",
+    "835808446",
+    "835808447",
+    "835808448",
+    "835808449",
+    "835808450",
+    "835808451",
+    "835808452",
+    "835808453",
+    "835808454",
+    "835808455",
+    "835808456",
+    "835808457",
+    "835808458",
+    "835808459",
+    "835808460",
+    "835808461",
+    "835808462",
+    "835808463",
+    "835808464",
+    "835808465",
+    "835808466",
+    "835808467"
+   ]
+  }
+ ],
+ "fragments": {
+  "835808426": {
+   "fragment_id": "119397762",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-12-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 156/2015\n\nde 10 de agosto\n\nNo âmbito da reforma do arrendamento promovida em 2012, com a alteração do Novo Regime do Arrendamento Urbano, foi estabelecido o regime aplicável à atribuição de subsídio de renda aos arrendatários, com contratos de arrendamentos para fim habitacional anteriores a 18 de novembro de 1990, e que se encontrassem, àquela data, em processo de atualização faseada de renda, ao abrigo do Novo Regime do Arrendamento Urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de fevereiro.\n\nO referido regime de subsídio de renda foi regulamentado pelo Decreto-Lei n.º 158/2006, de 8 de agosto, alterado pelo Decreto-Lei n.º 266-C/2012, de 31 de dezembro, o qual previu, desde logo, que seriam definidos em diploma próprio os termos e as condições da resposta social a atribuir pelo Estado aos arrendatários habitacionais que entrassem em processo de atualização da renda nos termos da reforma do arrendamento de 2012, após o período transitório de cinco anos conforme já resultava, também, do n.º 10 do artigo 36.º do NRAU, aprovado pela Lei n.º 6/2006, de 27 de fevereiro, alterado pela Lei n.º 31/2012, de 14 de agosto.\n\nFoi estabelecido, ainda, que essa resposta social, no caso de arrendatários com idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %, seria efetivada, preferencialmente através da atribuição de subsídio de renda correspondente à diferença entre o valor da renda que for devida em função do RABC do agregado familiar e o valor da renda atualizada após o final do período transitório.\n\nO presente decreto-lei vem estabelecer a resposta social que se encontrava legalmente assumida, definindo o regime de subsídio de renda que passa a ser aplicável a todos os arrendatários habitacionais, com contratos anteriores a 18 de novembro de 1990, após o período transitório de cinco anos definido atualmente no NRAU ou após o período de faseamento de renda de 10 anos, estabelecido na versão originária do NRAU, e que invocaram, perante o senhorio, no âmbito do processo de atualização da renda, rendimentos do respetivo agregado familiar inferiores a cinco retribuições mínimas nacionais garantidas.\n\nCom efeito, de acordo com os artigos 35.º e 36.º do NRAU, aprovado pela Lei n.º 6/2006, de 27 de fevereiro, alterado pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, os arrendatários podem invocar circunstâncias perante o senhorio, no processo de atualização da renda, concretamente uma idade igual ou superior a 65 anos, uma deficiência com grau de incapacidade igual ou superior a 60 % ou uma situação de debilidade económica, correspondente a um rendimento anual inferior a cinco retribuições mínimas nacionais garantidas.\n\nNos casos de debilidade económica, a lei já previa que, durante um período transitório de cinco anos, as rendas seriam limitadas em função dos rendimentos dos arrendatários que invocassem uma situação de debilidade económica, fixando-se, agora, pelo presente decreto-lei, o apoio social de que estes arrendatários podem beneficiar, no final do referido período transitório.\n\nAssim, promove-se uma resposta social para todos os arrendatários cujo período transitório está a decorrer, mas também para aqueles que ainda podem iniciar este período, na sequência de um processo de transição para o regime do NRAU que seja despoletado pelo senhorio. Em qualquer caso, o novo regime só tem aplicação no final do período transitório, o que não ocorrerá antes de 2017.\n\nO regime contempla um subsídio de renda que pode assumir duas modalidades, podendo traduzir-se num subsídio para arrendamento em vigor, o qual permite aos arrendatários manter o contrato de arrendamento e a sua residência atual, ou em alternativa optar, se assim o desejarem, por um subsídio para um novo contrato de arrendamento.\n\nO apoio, na modalidade de subsídio para arrendamento em vigor, corresponde ao diferencial entre a renda fixada para o período transitório, atualizada em face dos rendimentos que o agregado familiar aufere no final deste período, e o valor da renda atualizada, que pode ascender, na falta de acordo das partes, a um máximo de 1/15 do valor patrimonial tributário do locado. Com efeito, o presente decreto-lei estabelece o subsídio corresponde, em todas as situações, à totalidade do valor da renda que ultrapasse o valor que o agregado pode suportar em função do seu RABC.\n\nO direito ao subsídio não é reconhecido aos arrendatários que sejam proprietários de outra habitação no mesmo concelho da situação do locado ou em concelho limítrofe ou, ainda, na mesma área metropolitana do locado, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo.\n\nPor outro lado, a faculdade que é atribuída ao arrendatário, de mudar de residência e utilizar o subsídio num novo contrato de arrendamento, permite-lhe escolher a habitação que melhor se adapta às necessidades do seu agregado familiar e que melhores condições de habitabilidade apresenta, contribuindo, assim, para a dinamização do mercado de arrendamento e para incentivar a reabilitação dos imóveis que estiveram sujeitos a rendas antigas, em particular nos centros urbanos.\n\nO arrendatário pode, ainda, a qualquer momento, optar por mudar entre uma das modalidades de subsídio de renda e pode, inclusivamente, solicitar a atribuição de uma habitação em regime de arrendamento apoiado, no município do locado ou noutro município para onde pretenda mudar a sua residência.\n\nO regime e a diversificação das modalidades do subsídio de renda procura responder às especificidades das famílias abrangidas. Contudo, tendo em atenção as especiais dificuldades que se colocam à população mais idosa ou com deficiência, nomeadamente perante uma eventual mudança do local onde residem, a resposta social é no sentido de permitir a manutenção da atual residência sempre que essa seja a opção dos arrendatários.\n\nForam ouvidos os órgãos de governo próprios das regiões autónomas, a Associação Nacional de Municípios Portugueses e a Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "119405448": {
+   "fragment_id": "119397763",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei estabelece o regime do subsídio de renda a atribuir aos arrendatários com contratos de arrendamento para habitação, celebrados antes de 18 de novembro de 1990 e que se encontrem em processo de atualização de renda.\n\n2 - O presente decreto-lei estabelece, ainda, o regime de determinação do rendimento anual bruto corrigido (RABC), para efeitos de aplicação do disposto nos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pela Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, e de comprovação das condições de acesso ou de manutenção do subsídio de renda."
+  },
+  "119405449": {
+   "fragment_id": "119397764",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente decreto-lei, considera-se:\n\na) «Retribuição mínima nacional anual» ou «RMNA», o valor da retribuição mínima mensal garantida (RMMG) referida no n.º 1 do artigo 273.º do Código do Trabalho, multiplicado por 14 meses;\n\nb) «Agregado familiar», o conjunto de pessoas constituído pelo arrendatário e pelos seguintes indivíduos que tenham residência no locado:\n\ni) Cônjuge, ainda que separado judicialmente de pessoas e bens;\n\nii) Ex-cônjuge, em situações de nulidade, anulação ou dissolução do casamento, ou pessoa que viva com o arrendatário em união de facto nos termos estabelecidos na Lei n.º 7/2001 de 11 de maio, alterada pela Lei n.º 23/2010, de 30 de agosto;\n\niii) Dependentes ou ascendentes do arrendatário, do seu cônjuge ou do seu ex-cônjuge ou da pessoa que com ele viva em união de facto;\n\niv) Outras pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nc) «Dependentes», as pessoas que sejam:\n\ni) Filhos, adotados e enteados menores não emancipados, bem como os menores sob tutela;\n\nii) Filhos, adotados e enteados maiores, bem como aqueles que até à maioridade estiveram sujeitos à tutela de qualquer dos sujeitos do agregado familiar que, não tendo mais de 25 anos e não auferindo anualmente rendimentos superiores à retribuição mínima mensal garantida, frequentem estabelecimento de ensino; e\n\niii) Filhos, adotados, enteados e os sujeitos a tutela, maiores, inaptos para o trabalho e para angariar meios de subsistência, quando não aufiram rendimentos superiores à retribuição mínima mensal garantida;\n\niv) Os ascendentes cujo rendimento mensal seja inferior a uma retribuição mínima mensal garantida;\n\nd) «Renda», o valor mensal da retribuição devida pelo arrendatário ao senhorio pelo gozo da habitação;\n\ne) «Nova renda», a renda devida nos termos legais, após o fim do período transitório de 5 anos previsto nos artigos 35.º e 36.º da Lei n.º 6/2006, alterada pela Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, ou após o período de 10 anos estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária.\n\n2 - Para efeitos da alínea b) do número anterior, quando o arrendatário não resida no locado, temporária ou permanentemente, por motivos de doença ou internamento em estabelecimentos de apoio social ou equiparados, considera-se agregado familiar do arrendatário o conjunto de pessoas referidas nos números anteriores que residam em permanência no local arrendado.\n\n3 - O agregado familiar, a RMNA e os demais elementos relevantes para efeitos de determinação do RABC, são relativos ao ano civil anterior ao ato a cuja instrução a declaração de RABC se destina, sem prejuízo de, no caso de esta ser necessária para fazer prova do RABC em momento anterior, a informação se possa reportar a ano civil diferente."
+  },
+  "119405451": {
+   "fragment_id": "119397766",
+   "type": 1,
+   "heading": "Capítulo I — Rendimento anual bruto corrigido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Rendimento anual bruto corrigido"
+  },
+  "119405452": {
+   "fragment_id": "119397767",
+   "type": 11,
+   "heading": "Artigo 3.º — Rendimento anual bruto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Rendimento anual bruto\n\n1 - Considera-se rendimento anual bruto (RAB) o quantitativo que resulta da soma dos rendimentos anuais ilíquidos, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), auferidos por todos os elementos do agregado familiar do arrendatário.\n\n2 - Tratando-se de rendimentos da categoria B do CIRS enquadrados no regime simplificado, considera-se rendimento bruto o resultante da aplicação dos coeficientes previstos no n.º 2 do artigo 31.º do CIRS.\n\n3 - O disposto no número anterior não prejudica a aplicação das restantes regras de determinação do rendimento da categoria B previstas no CIRS, no âmbito do regime simplificado.\n\n4 - Tratando-se de rendimentos de categoria B, nos termos do CIRS, enquadrados no regime de contabilidade organizada, considera-se rendimento bruto o resultante do lucro apurado."
+  },
+  "119405453": {
+   "fragment_id": "119397768",
+   "type": 11,
+   "heading": "Artigo 4.º — Rendimento anual bruto corrigido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Rendimento anual bruto corrigido\n\n1 - O RABC é o quantitativo que resulta da soma dos rendimentos anuais ilíquidos auferidos por todos os elementos do agregado familiar do arrendatário, corrigido pelos seguintes fatores:\n\na) Total dos rendimentos anuais ilíquidos, nos termos do artigo anterior, auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nb) Número de dependentes do agregado familiar do arrendatário e das pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nc) Número de pessoas do agregado familiar portadoras de deficiência com grau comprovado de incapacidade igual ou superior a 60 %.\n\n2 - O RAB do agregado familiar do arrendatário é corrigido através da soma dos rendimentos anuais ilíquidos, nos termos previstos no artigo anterior, auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano.\n\n3 - A correção do RAB do agregado familiar do arrendatário em função do número de dependentes é feita através da dedução ao RAB do agregado familiar do arrendatário corrigido nos termos do número anterior do valor correspondente a 0,5 da RMNA, por cada dependente.\n\n4 - Se no agregado familiar existir pessoa portadora de deficiência com grau comprovado de incapacidade igual ou superior a 60 %, é deduzido ao RAB corrigido nos termos do n.º 2 o valor correspondente a 0,5 da RMNA, cumulável com a correção prevista no número anterior, por cada indivíduo nestas condições.\n\n5 - Sem prejuízo do disposto no n.º 7, a declaração da qual conste o valor do RABC do agregado familiar do arrendatário é emitida pelo serviço de finanças competente, a pedido do arrendatário, para os efeitos previstos nos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pela Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro.\n\n6 - A emissão da declaração prevista no número anterior depende da apresentação, pelo requerente, de autorização dos membros do agregado familiar e das pessoas a que se refere a alínea a) do n.º 1.\n\n7 - Nas situações em curso de atualização faseada de renda, previstas nos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, o serviço de finanças competente emite, a pedido do senhorio ou do arrendatário, declaração de que o RABC do agregado familiar do arrendatário é ou não superior a 3, 5 ou 15 RMNA.\n\n8 - Sem prejuízo do disposto nos n.os 5 e 7, as declarações aí previstas não podem, em caso algum, revelar dados relativos à situação tributária protegidos pelo dever de confidencialidade estabelecido na Lei Geral Tributária, designadamente através da discriminação dos rendimentos pelos respetivos titulares.\n\n9 - Os modelos dos pedidos e das declarações previstos nos n.os 5 e 7 são aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da habitação."
+  },
+  "119405454": {
+   "fragment_id": "119397769",
+   "type": 1,
+   "heading": "Capítulo II — Subsídio de renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Subsídio de renda"
+  },
+  "119405455": {
+   "fragment_id": "119397770",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "119405456": {
+   "fragment_id": "119397771",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso\n\n1 - Têm direito à atribuição de subsídio de renda, ao abrigo do presente decreto-lei, os arrendatários com contratos de arrendamento para habitação celebrados antes de 18 de novembro de 1990, em processo de atualização de renda, nos termos dos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, ou em processo de atualização faseada do valor da renda, nos termos previstos no artigo 41.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, e no artigo 11.º da Lei n.º 31/2012, de 14 de agosto, relativamente aos quais se verifiquem ainda, cumulativamente, os seguintes requisitos:\n\na) Em resposta à comunicação efetuada pelo senhorio, para efeito de atualização da renda no âmbito da Lei n.º 6/2006, alterada pela Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, tenham invocado um RABC do respetivo agregado familiar inferior a cinco RMNA;\n\nb) Tenha decorrido o período transitório previsto nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, ou tenha decorrido o prazo de 10 anos estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária; e\n\nc) Invoquem e comprovem, para efeitos de pedido de atribuição de subsídio, um RABC do respetivo agregado familiar inferior a cinco RMNA, através de declaração emitida há menos de um ano pelos serviços de finanças.\n\n2 - O presente decreto-lei não é aplicável nos casos de atualização de renda efetuada nos termos do artigo 45.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária."
+  },
+  "119405457": {
+   "fragment_id": "119397772",
+   "type": 11,
+   "heading": "Artigo 6.º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exclusões\n\n1 - Sem prejuízo de outras causas de exclusão específicas das modalidades do subsídio de renda previstas no presente decreto-lei, não tem direito a aceder à atribuição de subsídio de renda o arrendatário que se encontre numa das seguintes situações:\n\na) Os elementos do agregado familiar, cujos rendimentos são relevantes para o cálculo do respetivo RABC, não concedam a autorização necessária para acesso aos seus dados fiscais ou relativos ao processamento de pensões;\n\nb) Não tenha no locado a sua residência permanente, sem prejuízo do disposto no n.º 2 do artigo 2.º;\n\nc) Subarrende ou ceda o locado a qualquer outro título oneroso, total ou parcialmente, ainda que tenha autorização do senhorio para o efeito;\n\nd) O próprio arrendatário ou algum dos elementos do respetivo agregado familiar referidos nas subalíneas i), ii) e iii) da alínea b) do n.º 1 do artigo 2.º seja proprietário, usufrutuário ou arrendatário de imóvel destinado a habitação, no mesmo concelho da situação do locado ou em concelho limítrofe ou na mesma área metropolitana do locado, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo;\n\ne) Aufira qualquer outro apoio para fins habitacionais.\n\n2 - No caso da alínea d) do número anterior, o arrendatário deve demonstrar que o imóvel não é adequado a satisfazer o fim habitacional do agregado familiar ou não está em condições mínimas de habitabilidade, preferencialmente através de documento emitido pelos serviços públicos competentes em função do território e da matéria, nomeadamente os serviços municipais."
+  },
+  "119405458": {
+   "fragment_id": "119397773",
+   "type": 11,
+   "heading": "Artigo 7.º — Requerimento e procedimento de atribuição do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requerimento e procedimento de atribuição do subsídio\n\n1 - Cabe ao arrendatário requerer junto dos serviços de segurança social da área do locado ou através da Internet, a atribuição do subsídio de renda de acordo com a modalidade pretendida, devendo o requerimento ser devidamente instruído com os documentos obrigatórios e necessários à respetiva avaliação.\n\n2 - O modelo dos requerimentos, a sua forma de entrega, os documentos instrutórios necessários e os procedimentos relativos à receção, análise e avaliação dos pedidos são estabelecidos por portaria dos membros do Governo responsáveis pelas áreas da habitação e da segurança social.\n\n3 - O pedido do subsídio de renda pode ser apresentado nos seis meses que antecedem o termo do prazo de cinco anos previsto nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, ou que antecedem o termo do prazo de 10 anos estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, na sua redação originária, ou decorridos estes prazos.\n\n4 - Os serviços de segurança social criam o processo correspondente a cada requerimento de atribuição do subsídio de renda e, no prazo de 15 dias a contar da data da apresentação do mesmo ou, se não estiver devidamente instruído, da data de entrega do último dos elementos necessários à respetiva instrução, enviam ao Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), a informação relevante para a tomada de decisão final do pedido.\n\n5 - O IHRU, I. P., decide o pedido de subsídio de renda no prazo de 15 dias a contar da data do envio do requerimento pelos serviços de segurança social.\n\n6 - A decisão do pedido de subsídio de renda é notificada, pelo IHRU, I. P., ao requerente e ao senhorio."
+  },
+  "119405459": {
+   "fragment_id": "119397774",
+   "type": 11,
+   "heading": "Artigo 8.º — Decisão do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Decisão do pedido\n\n1 - Sem prejuízo de outros factos que determinem o indeferimento nos termos legais, há lugar ao indeferimento do pedido de subsídio de renda, nas seguintes situações:\n\na) Não seja comprovada alguma das condições de acesso a que se refere o artigo 5.º;\n\nb) Exista uma causa de exclusão nos termos do artigo 6.º\n\n2 - O pedido é deferido de acordo com os limites do subsídio a atribuir, definidos nos artigos 12.º e 21.º\n\n3 - O deferimento do pedido de subsídio de renda produz efeitos desde o primeiro dia do mês subsequente ao termo do prazo para decisão do pedido de subsídio de renda, se a renda atualizada a essa data já for devida, ou no primeiro dia do mês em que o seja.\n\n4 - Nas situações de subsídio para novo arrendamento, o deferimento do pedido de subsídio só produz efeitos com a celebração do novo contrato de arrendamento."
+  },
+  "119405460": {
+   "fragment_id": "119474975",
+   "type": 11,
+   "heading": "Artigo 9.º — Efeitos da apresentação do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Efeitos da apresentação do pedido\n\n1 - O arrendatário deve comunicar ao senhorio, por escrito, que apresentou um pedido de subsídio de renda, com indicação da modalidade adotada, e enviar, ainda, o comprovativo da apresentação do pedido de subsídio.\n\n2 - A atualização da renda pelo senhorio, decorrido o período transitório de cinco anos, previsto nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, ou decorrido o prazo de 10 anos estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, na sua redação originária, fica suspensa a partir do primeiro dia do mês seguinte à notificação a que se refere o número anterior ou, quando a atualização da renda ainda não seja exigível, a partir da data em que for devida.\n\n3 - A notificação da decisão do pedido de subsídio de renda ao arrendatário determina o fim da suspensão da atualização da renda prevista no número anterior."
+  },
+  "119405461": {
+   "fragment_id": "119474976",
+   "type": 11,
+   "heading": "Artigo 10.º — Modalidades do subsídio de renda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Modalidades do subsídio de renda\n\n1 - Qualquer dos arrendatários com direito a subsídio de renda pode requerer a sua atribuição numa das seguintes modalidades:\n\na) Subsídio para arrendamento em vigor;\n\nb) Subsídio para novo arrendamento.\n\n2 - A opção pela modalidade de subsídio para arrendamento em vigor não impede a alteração para a opção de subsídio para novo arrendamento.\n\n3 - Além das modalidades de subsídio de renda identificadas no n.º 1, os arrendatários que reúnam as condições legais para atribuição daquele subsídio podem optar pela atribuição de habitação em regime de arrendamento apoiado."
+  },
+  "119405462": {
+   "fragment_id": "119474977",
+   "type": 8,
+   "heading": "Secção II — Subsídio para arrendamento em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Subsídio para arrendamento em vigor"
+  },
+  "119405463": {
+   "fragment_id": "119474978",
+   "type": 11,
+   "heading": "Artigo 11.º — Subsídio para arrendamento em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Subsídio para arrendamento em vigor\n\nO subsídio para arrendamento em vigor é um apoio financeiro, concedido ao arrendatário sob a forma de uma subvenção mensal não reembolsável, relativo ao montante da nova renda e destinada a apoiá-lo a manter a sua residência permanente no locado."
+  },
+  "119405464": {
+   "fragment_id": "119474979",
+   "type": 11,
+   "heading": "Artigo 12.º — Montante do subsídio para arrendamento em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Montante do subsídio para arrendamento em vigor\n\n1 - O montante do subsídio para arrendamento em vigor é igual à diferença entre o valor da nova renda e o valor de renda que pode ser suportada pelo arrendatário de acordo com o n.º 2 do artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, com base no RABC do agregado familiar do arrendatário.\n\n2 - Para efeitos do número anterior, é considerado o RABC do agregado familiar do arrendatário relativo ao ano civil anterior ao pedido de subsídio para arrendamento em vigor.\n\n3 - Se à data da apresentação do pedido de subsídio para arrendamento em vigor ainda não estiverem apurados os rendimentos a que se referem os artigos 3.º e 4.º, é considerado o RABC do agregado familiar relativo ao segundo ano civil que antecede o pedido de subsídio."
+  },
+  "119405465": {
+   "fragment_id": "119474980",
+   "type": 11,
+   "heading": "Artigo 13.º — Valor mínimo do subsídio para arrendamento em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Valor mínimo do subsídio para arrendamento em vigor\n\nO subsídio para arrendamento em vigor é atribuído no valor correspondente a 5 % de um indexante de apoios sociais (IAS), instituído pela Lei n.º 53-B/2006, de 29 de dezembro, sempre que o respetivo cálculo determinar um valor inferior."
+  },
+  "119405466": {
+   "fragment_id": "119474981",
+   "type": 11,
+   "heading": "Artigo 14.º — Duração do subsídio para arrendamento em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Duração do subsídio para arrendamento em vigor\n\n1 - O subsídio para arrendamento em vigor é atribuído por um período de 24 meses, renovável por períodos iguais e sucessivos, desde que, antes do termo desse período, o arrendatário faça prova, através da entrega do comprovativo do RABC do seu agregado familiar, de que se mantêm os pressupostos da atribuição do subsídio e desde que não tenha ocorrido qualquer causa determinante da sua extinção.\n\n2 - A primeira prestação do subsídio para arrendamento em vigor é devida a partir da data em que a decisão do pedido produz efeitos, nos termos dos n.os 3 e 4 do artigo 8.º ou, em caso de renovação, a partir do primeiro dia do mês subsequente ao termo do período anterior.\n\n3 - Nas situações em que as prestações sejam pagas após as datas referidas no número anterior, o arrendatário tem direito à recuperação dos montantes de subsídio atribuído, que entretanto não tiverem sido pagos."
+  },
+  "119405467": {
+   "fragment_id": "119474982",
+   "type": 11,
+   "heading": "Artigo 15.º — Alteração do montante do subsídio para arrendamento em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Alteração do montante do subsídio para arrendamento em vigor\n\n1 - O montante do subsídio para arrendamento em vigor pode ser atualizado, em cada momento, em função da alteração dos pressupostos da respetiva atribuição, designadamente nos seguintes casos:\n\na) Variação do RABC do agregado familiar do arrendatário igual ou superior a 5 %;\n\nb) Variação do RABC em virtude de alteração da composição do agregado familiar e ou da situação determinante da aplicação de um ou mais dos fatores de correção previstos no artigo 4.º\n\n2 - No caso do número anterior, cabe ao titular do direito ao subsídio de renda comunicar aos serviços da segurança social as alterações verificadas, no prazo máximo de 15 dias a contar da data da respetiva ocorrência, devendo a comunicação ser instruída com a informação e os documentos que se revelem necessários à verificação dos factos.\n\n3 - Os serviços da segurança social registam a comunicação de alteração de circunstâncias no correspondente processo e enviam-na ao IHRU, I. P., com as informações e os elementos relevantes para a respetiva apreciação, no prazo máximo de 15 dias a contar da data da sua receção.\n\n4 - O IHRU, I. P., decide a alteração do subsídio, no prazo de 15 dias a contar da data do envio da comunicação referida no número anterior.\n\n5 - A decisão a que se refere o número anterior produz efeitos a partir do mês seguinte ao da data da respetiva notificação ao titular do subsídio."
+  },
+  "119405468": {
+   "fragment_id": "119474983",
+   "type": 11,
+   "heading": "Artigo 16.º — Manutenção do direito ao subsídio para arrendamento em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Manutenção do direito ao subsídio para arrendamento em vigor\n\n1 - A morte do arrendatário ao qual foi atribuído o subsídio para arrendamento em vigor não prejudica a manutenção do direito a esse subsídio por parte da pessoa a quem o arrendamento se transmita nos termos dos artigos 57.º e 58.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, desde que o transmissário reúna os pressupostos para a manutenção do subsídio.\n\n2 - Para efeito do disposto no número anterior, o transmissário deve comunicar a ocorrência e requerer a manutenção do subsídio de renda aos serviços de segurança social da área da habitação arrendada, no prazo máximo de 60 dias a contar da data do óbito do arrendatário, sob pena de caducidade do direito ao subsídio.\n\n3 - A decisão sobre o pedido de manutenção do subsídio produz efeitos a partir do mês seguinte ao da data do óbito do arrendatário."
+  },
+  "119405469": {
+   "fragment_id": "119474984",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação do subsídio para arrendamento em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cessação do subsídio para arrendamento em vigor\n\nO subsídio para arrendamento em vigor cessa antes do termo de qualquer dos períodos de duração indicados no artigo 14.º sempre que:\n\na) O contrato de arrendamento cuja renda é objeto de subsídio cesse a sua vigência pela verificação de qualquer causa determinante da sua extinção;\n\nb) Se verifique a caducidade do direito ao subsídio por morte do arrendatário sem que lhe suceda pessoa com direito à manutenção do subsídio, nos termos do artigo anterior, ou o decurso dos prazos estabelecidos no presente decreto-lei para a realização de comunicações obrigatórias;\n\nc) Cessem os pressupostos da atribuição do subsídio, nomeadamente quando o RABC do agregado familiar do arrendatário seja igual ou superior a cinco RMNA."
+  },
+  "119405470": {
+   "fragment_id": "119474985",
+   "type": 8,
+   "heading": "Secção III — Subsídio para novo arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Subsídio para novo arrendamento"
+  },
+  "119405471": {
+   "fragment_id": "119474986",
+   "type": 11,
+   "heading": "Artigo 18.º — Subsídio para novo arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Subsídio para novo arrendamento\n\nO subsídio para novo arrendamento é um apoio financeiro, concedido ao arrendatário, sob a forma de uma subvenção mensal não reembolsável, relativo ao montante da renda devida nos termos de um novo contrato de arrendamento e destinado a apoiá-lo a mudar a sua residência permanente para outra habitação adequada ao agregado familiar."
+  },
+  "119405472": {
+   "fragment_id": "119474987",
+   "type": 11,
+   "heading": "Artigo 19.º — Pressupostos da opção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Pressupostos da opção\n\n1 - A opção pela modalidade de subsídio para novo arrendamento implica a denúncia do contrato de arrendamento pelo arrendatário, após a notificação do deferimento do pedido.\n\n2 - No caso de deferimento do pedido de subsídio para novo arrendamento, o valor mensal das rendas que forem devidas pelo arrendatário até à desocupação e entrega do locado é igual ao da última renda praticada antes da atualização para a nova renda, devendo o arrendatário desocupar o locado no prazo máximo de 90 dias."
+  },
+  "119405473": {
+   "fragment_id": "119474988",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições do subsídio para novo arrendamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições do subsídio para novo arrendamento\n\n1 - São aplicáveis ao subsídio para novo arrendamento as normas relativas ao subsídio para arrendamento em vigor, com as adaptações necessárias.\n\n2 - O fogo objeto do novo arrendamento deve corresponder à tipologia adequada à dimensão do agregado familiar do arrendatário, conforme consta do anexo ao presente decreto-lei, que dele faz parte integrante."
+  },
+  "119405474": {
+   "fragment_id": "119474989",
+   "type": 11,
+   "heading": "Artigo 21.º — Valor do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Valor do subsídio\n\nO valor do subsídio de renda para novo arrendamento não pode ser superior ao valor do subsídio a que o arrendatário teria direito se não denunciasse o contrato de arrendamento abrangido pelo artigo 5.º"
+  },
+  "119475075": {
+   "fragment_id": "119474990",
+   "type": 8,
+   "heading": "Secção IV — Regime de arrendamento apoiado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Regime de arrendamento apoiado"
+  },
+  "119475076": {
+   "fragment_id": "119474991",
+   "type": 11,
+   "heading": "Artigo 22.º — Condições do pedido de arrendamento apoiado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Condições do pedido de arrendamento apoiado\n\n1 - O arrendatário que reúna as condições para atribuição de subsídio de renda pode optar pela mudança da sua residência permanente do atual locado para uma habitação de propriedade pública, atribuída em regime de arrendamento apoiado, nos termos da Lei n.º 81/2014, de 19 de dezembro.\n\n2 - A nova habitação deve situar-se no município da localização da habitação arrendada, salvo se o arrendatário requerer a atribuição de habitação localizada noutro município."
+  },
+  "119475077": {
+   "fragment_id": "119474992",
+   "type": 11,
+   "heading": "Artigo 23.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Requerimento\n\n1 - Cabe ao IHRU, I. P., no prazo máximo de 30 dias, a contar da data do requerimento do subsídio na modalidade referida no artigo anterior, obter das entidades públicas proprietárias de habitações destinadas a atribuição em regime de arrendamento apoiado, a informação sobre a existência de uma habitação disponível e adequada à composição do agregado familiar do arrendatário.\n\n2 - Ao requerimento para atribuição de habitação em arrendamento apoiado aplica-se o disposto nos n.os 1 e 2 do artigo 7.º e no artigo 9.º, com as necessárias adaptações."
+  },
+  "119475078": {
+   "fragment_id": "119474993",
+   "type": 11,
+   "heading": "Artigo 24.º — Contrato de arrendamento apoiado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contrato de arrendamento apoiado\n\n1 - A atribuição ao arrendatário de uma habitação em regime de arrendamento apoiado é efetuada mediante a celebração de um contrato de arrendamento com a entidade proprietária da habitação, sujeito ao regime do arrendamento apoiado, aprovado pela Lei n.º 81/2014, de 19 de dezembro.\n\n2 - A celebração do contrato referido no número anterior deve coincidir com a data da produção de efeitos da denúncia, pelo arrendatário, do anterior contrato de arrendamento."
+  },
+  "119475079": {
+   "fragment_id": "119474994",
+   "type": 8,
+   "heading": "Secção V — Incumprimento e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Incumprimento e fiscalização"
+  },
+  "119475080": {
+   "fragment_id": "119474995",
+   "type": 11,
+   "heading": "Artigo 25.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Incumprimento\n\nO não cumprimento por parte do beneficiário do subsídio de renda de quaisquer obrigações relativas ao acesso e manutenção do subsídio, nomeadamente a não entrega de elementos probatórios legalmente exigíveis, solicitados pelos serviços de segurança social ou pelo IHRU, I. P., no prazo que lhe for fixado para o efeito, ou o incumprimento do contrato subjacente à concessão do subsídio, determina a imediata cessação do pagamento do subsídio e a obrigação de restituição dos montantes indevidamente recebidos, sem prejuízo de outras sanções legais ou contratuais aplicáveis ao caso."
+  },
+  "119475081": {
+   "fragment_id": "119474996",
+   "type": 11,
+   "heading": "Artigo 26.º — Responsabilidade penal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Responsabilidade penal\n\nA prestação de falsas declarações, as omissões ou outros atos praticados por parte do beneficiário do subsídio de renda, com a intenção de obter ou manter ilicitamente o subsídio de renda, determinam a cessação imediata do respetivo pagamento e a obrigação de restituição das prestações do subsídio indevidamente recebidas, sem prejuízo de outras sanções aplicáveis, designadamente de natureza criminal."
+  },
+  "119475082": {
+   "fragment_id": "119474997",
+   "type": 11,
+   "heading": "Artigo 27.º — Fiscalização e reavaliação oficiosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Fiscalização e reavaliação oficiosa\n\n1 - Compete ao IHRU, I. P., a fiscalização do cumprimento do disposto no presente decreto-lei pelos beneficiários do subsídio.\n\n2 - O IHRU, I. P., procede à reavaliação, de dois em dois anos, dos pressupostos de manutenção do subsídio de renda."
+  },
+  "119475083": {
+   "fragment_id": "119474998",
+   "type": 11,
+   "heading": "Artigo 28.º — Gestão e cooperação entre entidades públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Gestão e cooperação entre entidades públicas\n\n1 - Compete ao IHRU, I. P., a gestão da atribuição dos subsídios de renda, incluindo a análise e decisão sobre os pedidos de atribuição e renovação do subsídio ou de alteração da respetiva modalidade, sendo as comunicações com os outros serviços públicos nesse âmbito efetuadas preferencialmente através de comunicação eletrónica.\n\n2 - No âmbito e para efeito do disposto no número anterior, o IHRU, I. P., promove a articulação com as entidades e serviços públicos competentes para comprovar as condições de que depende a atribuição, a manutenção ou a alteração do subsídio de renda, podendo aceder à informação da administração fiscal e das entidades processadoras de pensões relevante para o efeito, designadamente para verificar se o RABC do agregado familiar do arrendatário é superior a cinco RMNA.\n\n3 - O acesso e a troca de informações, nomeadamente a confirmação e a informação sobre os dados referidos no número anterior, são efetuados através do recurso aos meios informáticos, assegurando-se sempre a proteção dos dados em causa."
+  },
+  "119475084": {
+   "fragment_id": "119474999",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais e transitórias"
+  },
+  "119475085": {
+   "fragment_id": "119475000",
+   "type": 11,
+   "heading": "Artigo 29.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Encargos\n\n1 - Cabe ao Estado, através do IHRU, I. P., assegurar a gestão e a concessão dos apoios financeiros previstos no presente decreto-lei, mediante dotação orçamental a inscrever anualmente no capítulo 60 do orçamento do Ministério das Finanças sobre proposta do IHRU, I. P.\n\n2 - As verbas necessárias ao pagamento mensal dos apoios financeiros previstos no presente decreto-lei são transferidas, mensalmente, pela Direção-Geral do Tesouro e Finanças para a conta a indicar pelo IRHU, I. P., mediante previsão desta entidade, que efetua as transferências das verbas correspondentes ao referido apoio financeiro para a conta bancária identificada pelos beneficiários, até ao dia 8 do mês a que respeita."
+  },
+  "119475086": {
+   "fragment_id": "119475001",
+   "type": 11,
+   "heading": "Artigo 30.º — Acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Acesso aos dados\n\nA atribuição, a renovação e a manutenção do subsídio de renda depende da autorização do requerente e dos membros do agregado familiar, para o acesso por parte do IHRU, I. P., à informação da administração fiscal e das entidades processadoras de pensões que seja relevante para efeitos de atribuição do subsídio."
+  },
+  "119475087": {
+   "fragment_id": "119475002",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 158/2006, de 8 de agosto, alterado pelo Decreto-Lei n.º 266-C/2012, de 31 de dezembro, sem prejuízo do disposto no n.º 2 do artigo seguinte."
+  },
+  "119475088": {
+   "fragment_id": "119475003",
+   "type": 11,
+   "heading": "Artigo 32.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Produção de efeitos\n\n1 - O disposto no presente decreto-lei aplica-se aos pedidos de subsídio apresentados após a data da sua entrada em vigor.\n\n2 - Os subsídios de renda já atribuídos ao abrigo do Decreto-Lei n.º 158/2006, de 8 de agosto, alterado pelo Decreto-Lei n.º 266-C/2012, de 31 de dezembro, mantêm-se e podem ser renovados nos termos do mesmo decreto-lei, até ao termo do período de atualização faseada de renda, exceto se os arrendatários optarem por requerer o subsídio de renda nos termos do presente decreto-lei.\n\nVisto e aprovado em Conselho de Ministros de 25 de junho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Pedro Alexandre Vicente de Araújo Lomba - Jorge Manuel Lopes Moreira da Silva - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 4 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 6 de agosto de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "119405450": {
+   "fragment_id": "119397765",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "119405447": {
+   "fragment_id": "119397762",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 156/2015\n\nde 10 de agosto\n\nNo âmbito da reforma do arrendamento promovida em 2012, com a alteração do Novo Regime do Arrendamento Urbano, foi estabelecido o regime aplicável à atribuição de subsídio de renda aos arrendatários, com contratos de arrendamentos para fim habitacional anteriores a 18 de novembro de 1990, e que se encontrassem, àquela data, em processo de atualização faseada de renda, ao abrigo do Novo Regime do Arrendamento Urbano (NRAU), aprovado pela Lei n.º 6/2006, de 27 de fevereiro.\n\nO referido regime de subsídio de renda foi regulamentado pelo Decreto-Lei n.º 158/2006, de 8 de agosto, alterado pelo Decreto-Lei n.º 266-C/2012, de 31 de dezembro, o qual previu, desde logo, que seriam definidos em diploma próprio os termos e as condições da resposta social a atribuir pelo Estado aos arrendatários habitacionais que entrassem em processo de atualização da renda nos termos da reforma do arrendamento de 2012, após o período transitório de cinco anos conforme já resultava, também, do n.º 10 do artigo 36.º do NRAU, aprovado pela Lei n.º 6/2006, de 27 de fevereiro, alterado pela Lei n.º 31/2012, de 14 de agosto.\n\nFoi estabelecido, ainda, que essa resposta social, no caso de arrendatários com idade igual ou superior a 65 anos ou deficiência com grau comprovado de incapacidade igual ou superior a 60 %, seria efetivada, preferencialmente através da atribuição de subsídio de renda correspondente à diferença entre o valor da renda que for devida em função do RABC do agregado familiar e o valor da renda atualizada após o final do período transitório.\n\nO presente decreto-lei vem estabelecer a resposta social que se encontrava legalmente assumida, definindo o regime de subsídio de renda que passa a ser aplicável a todos os arrendatários habitacionais, com contratos anteriores a 18 de novembro de 1990, após o período transitório de cinco anos definido atualmente no NRAU ou após o período de faseamento de renda de 10 anos, estabelecido na versão originária do NRAU, e que invocaram, perante o senhorio, no âmbito do processo de atualização da renda, rendimentos do respetivo agregado familiar inferiores a cinco retribuições mínimas nacionais garantidas.\n\nCom efeito, de acordo com os artigos 35.º e 36.º do NRAU, aprovado pela Lei n.º 6/2006, de 27 de fevereiro, alterado pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, os arrendatários podem invocar circunstâncias perante o senhorio, no processo de atualização da renda, concretamente uma idade igual ou superior a 65 anos, uma deficiência com grau de incapacidade igual ou superior a 60 % ou uma situação de debilidade económica, correspondente a um rendimento anual inferior a cinco retribuições mínimas nacionais garantidas.\n\nNos casos de debilidade económica, a lei já previa que, durante um período transitório de cinco anos, as rendas seriam limitadas em função dos rendimentos dos arrendatários que invocassem uma situação de debilidade económica, fixando-se, agora, pelo presente decreto-lei, o apoio social de que estes arrendatários podem beneficiar, no final do referido período transitório.\n\nAssim, promove-se uma resposta social para todos os arrendatários cujo período transitório está a decorrer, mas também para aqueles que ainda podem iniciar este período, na sequência de um processo de transição para o regime do NRAU que seja despoletado pelo senhorio. Em qualquer caso, o novo regime só tem aplicação no final do período transitório, o que não ocorrerá antes de 2017.\n\nO regime contempla um subsídio de renda que pode assumir duas modalidades, podendo traduzir-se num subsídio para arrendamento em vigor, o qual permite aos arrendatários manter o contrato de arrendamento e a sua residência atual, ou em alternativa optar, se assim o desejarem, por um subsídio para um novo contrato de arrendamento.\n\nO apoio, na modalidade de subsídio para arrendamento em vigor, corresponde ao diferencial entre a renda fixada para o período transitório, atualizada em face dos rendimentos que o agregado familiar aufere no final deste período, e o valor da renda atualizada, que pode ascender, na falta de acordo das partes, a um máximo de 1/15 do valor patrimonial tributário do locado. Com efeito, o presente decreto-lei estabelece o subsídio corresponde, em todas as situações, à totalidade do valor da renda que ultrapasse o valor que o agregado pode suportar em função do seu RABC.\n\nO direito ao subsídio não é reconhecido aos arrendatários que sejam proprietários de outra habitação no mesmo concelho da situação do locado ou em concelho limítrofe ou, ainda, na mesma área metropolitana do locado, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo.\n\nPor outro lado, a faculdade que é atribuída ao arrendatário, de mudar de residência e utilizar o subsídio num novo contrato de arrendamento, permite-lhe escolher a habitação que melhor se adapta às necessidades do seu agregado familiar e que melhores condições de habitabilidade apresenta, contribuindo, assim, para a dinamização do mercado de arrendamento e para incentivar a reabilitação dos imóveis que estiveram sujeitos a rendas antigas, em particular nos centros urbanos.\n\nO arrendatário pode, ainda, a qualquer momento, optar por mudar entre uma das modalidades de subsídio de renda e pode, inclusivamente, solicitar a atribuição de uma habitação em regime de arrendamento apoiado, no município do locado ou noutro município para onde pretenda mudar a sua residência.\n\nO regime e a diversificação das modalidades do subsídio de renda procura responder às especificidades das famílias abrangidas. Contudo, tendo em atenção as especiais dificuldades que se colocam à população mais idosa ou com deficiência, nomeadamente perante uma eventual mudança do local onde residem, a resposta social é no sentido de permitir a manutenção da atual residência sempre que essa seja a opção dos arrendatários.\n\nForam ouvidos os órgãos de governo próprios das regiões autónomas, a Associação Nacional de Municípios Portugueses e a Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "121924692": {
+   "fragment_id": "119397763",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2019-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei estabelece o regime do subsídio de renda a atribuir aos arrendatários com contratos de arrendamento para habitação, celebrados antes de 18 de novembro de 1990 e que se encontrem em processo de atualização de renda, bem como aos contratos objeto de atualização extraordinária de renda a que se refere o n.º 11 do artigo 36.º do Novo Regime do Arrendamento Urbano.\n\n2 - O presente decreto-lei estabelece, ainda, o regime de determinação do rendimento anual bruto corrigido (RABC), para efeitos de aplicação do disposto nos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pela Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, e de comprovação das condições de acesso ou de manutenção do subsídio de renda.\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "121924693": {
+   "fragment_id": "119397764",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2019-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente decreto-lei, considera-se:\n\na) «Retribuição mínima nacional anual» ou «RMNA», o valor da retribuição mínima mensal garantida (RMMG) referida no n.º 1 do artigo 273.º do Código do Trabalho, multiplicado por 14 meses;\n\nb) «Agregado familiar», o conjunto de pessoas constituído pelo arrendatário e pelos seguintes indivíduos que tenham residência no locado:\n\ni) Cônjuge, ainda que separado judicialmente de pessoas e bens;\n\nii) Ex-cônjuge, em situações de nulidade, anulação ou dissolução do casamento, ou pessoa que viva com o arrendatário em união de facto nos termos estabelecidos na Lei n.º 7/2001 de 11 de maio, alterada pela Lei n.º 23/2010, de 30 de agosto;\n\niii) Dependentes ou ascendentes do arrendatário, do seu cônjuge ou do seu ex-cônjuge ou da pessoa que com ele viva em união de facto;\n\niv) Outras pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nc) «Dependentes», as pessoas que sejam:\n\ni) Filhos, adotados e enteados menores não emancipados, bem como os menores sob tutela;\n\nii) Filhos, adotados e enteados maiores, bem como aqueles que até à maioridade estiveram sujeitos à tutela de qualquer dos sujeitos do agregado familiar que, não tendo mais de 25 anos e não auferindo anualmente rendimentos superiores à retribuição mínima mensal garantida, frequentem estabelecimento de ensino; e\n\niii) Filhos, adotados, enteados e os sujeitos a tutela, maiores, inaptos para o trabalho e para angariar meios de subsistência, quando não aufiram rendimentos superiores à retribuição mínima mensal garantida;\n\niv) Os ascendentes cujo rendimento mensal seja inferior a uma retribuição mínima mensal garantida;\n\nd) «Renda», o valor mensal da retribuição devida pelo arrendatário ao senhorio pelo gozo da habitação;\n\ne) «Nova renda», a renda devida após:\n\ni) O fim dos períodos transitórios de 10 e 8 anos previstos nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, com a redação dada pela presente lei.\n\nii) O período de 10 anos estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária;\n\niii) A atualização extraordinária de renda aplicada nos termos do n.º 11 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, com a redação dada pela presente lei.\n\n2 - Para efeitos da alínea b) do número anterior, quando o arrendatário não resida no locado, temporária ou permanentemente, por motivos de doença ou internamento em estabelecimentos de apoio social ou equiparados, considera-se agregado familiar do arrendatário o conjunto de pessoas referidas nos números anteriores que residam em permanência no local arrendado.\n\n3 - O agregado familiar, a RMNA e os demais elementos relevantes para efeitos de determinação do RABC, são relativos ao ano civil anterior ao ato a cuja instrução a declaração de RABC se destina, sem prejuízo de, no caso de esta ser necessária para fazer prova do RABC em momento anterior, a informação se possa reportar a ano civil diferente.\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "121924699": {
+   "fragment_id": "119397768",
+   "type": 11,
+   "heading": "Artigo 4.º — Rendimento anual bruto corrigido",
+   "in_force_from": "2019-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 4.º — Rendimento anual bruto corrigido\n\n1 - O RABC é o quantitativo que resulta da soma dos rendimentos anuais ilíquidos auferidos por todos os elementos do agregado familiar do arrendatário, corrigido pelos seguintes fatores:\n\na) Total dos rendimentos anuais ilíquidos, nos termos do artigo anterior, auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nb) Número de dependentes do agregado familiar do arrendatário e das pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nc) Número de pessoas do agregado familiar portadoras de deficiência com grau comprovado de incapacidade igual ou superior a 60 %.\n\n2 - O RAB do agregado familiar do arrendatário é corrigido através da soma dos rendimentos anuais ilíquidos, nos termos previstos no artigo anterior, auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano.\n\n3 - A correção do RAB do agregado familiar do arrendatário em função do número de dependentes é feita através da dedução ao RAB do agregado familiar do arrendatário corrigido nos termos do número anterior do valor correspondente a 0,5 da RMNA, por cada dependente.\n\n4 - Se no agregado familiar existir pessoa portadora de deficiência com grau comprovado de incapacidade igual ou superior a 60 %, é deduzido ao RAB corrigido nos termos do n.º 2 o valor correspondente a 0,5 da RMNA, cumulável com a correção prevista no número anterior, por cada indivíduo nestas condições.\n\n5 - Sem prejuízo do disposto no n.º 7, a declaração da qual conste o valor do RABC do agregado familiar do arrendatário é emitida pelo serviço de finanças competente, a pedido do arrendatário, para os efeitos previstos nos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pela Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro.\n\n6 - A emissão da declaração prevista no número anterior depende da apresentação, pelo requerente, de autorização dos membros do agregado familiar e das pessoas a que se refere a alínea a) do n.º 1.\n\n7 - Nas situações em curso de atualização faseada de renda, previstas nos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, o serviço de finanças competente emite, a pedido do senhorio ou do arrendatário, declaração de que o RABC do agregado familiar do arrendatário é ou não superior a 3, 5 ou 15 RMNA.\n\n8 - Sem prejuízo do disposto nos n.os 5 e 7, as declarações aí previstas não podem, em caso algum, revelar dados relativos à situação tributária protegidos pelo dever de confidencialidade estabelecido na Lei Geral Tributária, designadamente através da discriminação dos rendimentos pelos respetivos titulares.\n\n9 - (Revogado).\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "121924694": {
+   "fragment_id": "119397771",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso",
+   "in_force_from": "2019-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 5.º — Condições de acesso\n\n1 - Têm direito à atribuição de subsídio de renda, ao abrigo do presente decreto-lei, os arrendatários com contratos de arrendamento para habitação celebrados antes de 18 de novembro de 1990, objeto de atualização de renda nos termos dos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação atual, ou em processo de atualização faseada do valor da renda previsto no artigo 41.º da Lei n.º 6/2006, de 27 de fevereiro, e no artigo 11.º da Lei n.º 31/2012, de 14 de agosto, bem como os contratos de arrendamento objeto da atualização extraordinária de renda prevista no n.º 11 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, com a redação dada pela presente lei, relativamente aos quais se verifiquem os seguintes requisitos:\n\na) Em resposta à comunicação efetuada pelo senhorio, para efeito de atualização da renda no âmbito da Lei n.º 6/2006, alterada pela Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, tenham invocado um RABC do respetivo agregado familiar inferior a cinco RMNA; e\n\nb) Tenha decorrido o período transitório previsto nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, de 27 de fevereiro, na sua redação atual, ou tenha decorrido o prazo de 10 anos estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, de 27 de fevereiro; ou\n\nc) Tenha havido lugar à atualização extraordinária de renda prevista no n.º 11 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, com a redação dada pela presente lei;\n\nd) Desde que, em qualquer dos casos previstos nas alíneas anteriores, invoquem e comprovem, para efeitos de pedido de atribuição de subsídio, um RABC do respetivo agregado familiar inferior a cinco RMNA, através de declaração emitida há menos de um ano pelos serviços de finanças.\n\n2 - O presente decreto-lei não é aplicável nos casos de atualização de renda efetuada nos termos do artigo 45.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária.\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "121924695": {
+   "fragment_id": "119397773",
+   "type": 11,
+   "heading": "Artigo 7.º — Requerimento e procedimento de atribuição do subsídio",
+   "in_force_from": "2019-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 7.º — Requerimento e procedimento de atribuição do subsídio\n\n1 - Cabe ao arrendatário requerer junto dos serviços de segurança social da área do locado ou através da Internet, a atribuição do subsídio de renda de acordo com a modalidade pretendida, devendo o requerimento ser devidamente instruído com os documentos obrigatórios e necessários à respetiva avaliação.\n\n2 - O modelo dos requerimentos, a sua forma de entrega, os documentos instrutórios necessários e os procedimentos relativos à receção, análise e avaliação dos pedidos são estabelecidos por portaria dos membros do Governo responsáveis pelas áreas da habitação e da segurança social.\n\n3 - O pedido do subsídio de renda pode ser apresentado nos seis meses que antecedem o termo do prazo de cinco anos previsto nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, ou que antecedem o termo do prazo de 10 anos estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, na sua redação originária, ou decorridos estes prazos:\n\na) Nos seis meses que antecedem o termo dos prazos previstos no n.º 1 do artigo 35.º e na alínea b) do n.º 7 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação atual;\n\nb) Nos seis meses que antecedem o termo do prazo estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária; ou\n\nc) Nos seis meses que antecedem a renovação do contrato, nos casos previstos no n.º 11 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, com a redação introduzida pela presente lei.\n\n4 - Os serviços de segurança social criam o processo correspondente a cada requerimento de atribuição do subsídio de renda e, no prazo de 15 dias a contar da data da apresentação do mesmo ou, se não estiver devidamente instruído, da data de entrega do último dos elementos necessários à respetiva instrução, enviam ao Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), a informação relevante para a tomada de decisão final do pedido.\n\n5 - O IHRU, I. P., decide o pedido de subsídio de renda no prazo de 15 dias a contar da data do envio do requerimento pelos serviços de segurança social.\n\n6 - A decisão do pedido de subsídio de renda é notificada, pelo IHRU, I. P., ao requerente e ao senhorio.\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "121924696": {
+   "fragment_id": "119474975",
+   "type": 11,
+   "heading": "Artigo 9.º — Efeitos da apresentação do pedido",
+   "in_force_from": "2019-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 9.º — Efeitos da apresentação do pedido\n\n1 - O arrendatário deve comunicar ao senhorio, por escrito, que apresentou um pedido de subsídio de renda, com indicação da modalidade adotada, e enviar, ainda, o comprovativo da apresentação do pedido de subsídio.\n\n2 - A atualização da renda pelo senhorio, nos casos previstos no n.º 1 do artigo 5.º, fica suspensa a partir do primeiro dia do mês seguinte à notificação a que se refere o número anterior ou, quando a atualização da renda ainda não seja exigível, a partir da data em que for devida.\n\n3 - A notificação da decisão do pedido de subsídio de renda ao arrendatário determina o fim da suspensão da atualização da renda prevista no número anterior.\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "121924697": {
+   "fragment_id": "119474979",
+   "type": 11,
+   "heading": "Artigo 12.º — Montante do subsídio para arrendamento em vigor",
+   "in_force_from": "2019-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 12.º — Montante do subsídio para arrendamento em vigor\n\n1 - O montante do subsídio para arrendamento em vigor é igual à diferença entre o valor da nova renda e o valor de renda que pode ser suportada pelo arrendatário de acordo com o n.º 2 do artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação atual, com base no RABC do agregado familiar do arrendatário, sem prejuízo do disposto no n.º 4.\n\n2 - Para efeitos do número anterior, é considerado o RABC do agregado familiar do arrendatário relativo ao ano civil anterior ao pedido de subsídio para arrendamento em vigor.\n\n3 - Se à data da apresentação do pedido de subsídio para arrendamento em vigor ainda não estiverem apurados os rendimentos a que se referem os artigos 3.º e 4.º, é considerado o RABC do agregado familiar relativo ao segundo ano civil que antecede o pedido de subsídio.\n\n4 - No caso previsto no n.º 11 do artigo 36.º do NRAU, o montante máximo do subsídio é igual à diferença entre a nova renda e a renda anterior à atualização extraordinária ali prevista.\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "121924698": {
+   "fragment_id": "119475003",
+   "type": 11,
+   "heading": "Artigo 32.º — Produção de efeitos",
+   "in_force_from": "2019-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 32.º — Produção de efeitos\n\n1 - O disposto no presente decreto-lei aplica-se aos pedidos de subsídio apresentados após a data da sua entrada em vigor.\n\n2 - Os subsídios de renda já atribuídos ao abrigo do Decreto-Lei n.º 158/2006, de 8 de agosto, alterado pelo Decreto-Lei n.º 266-C/2012, de 31 de dezembro, mantêm-se e podem ser renovados nos termos do mesmo decreto-lei, até ao termo do período de atualização faseada de renda, cabendo à Direção-Geral do Tesouro e Finanças transferir, mensalmente, para a conta a indicar pelo IHRU, I. P., as verbas necessárias ao pagamento mensal desses apoios financeiros para que este efetue as necessárias transferências para as contas bancárias identificadas pelos beneficiários, até ao dia 8 de cada mês, exceto se os arrendatários optarem por requerer o subsídio de renda nos termos do presente decreto-lei.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 6 de agosto de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "835808427": {
+   "fragment_id": "119397763",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei estabelece o regime do subsídio de renda a atribuir aos arrendatários com contratos de arrendamento para habitação, celebrados antes de 18 de novembro de 1990 e que se encontrem em processo de atualização de renda, bem como aos contratos objeto de atualização extraordinária de renda a que se refere o n.º 11 do artigo 36.º do Novo Regime do Arrendamento Urbano.\n\n2 - O presente decreto-lei estabelece, ainda, o regime de determinação do rendimento anual bruto corrigido (RABC), para efeitos de aplicação do disposto nos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pela Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, e de comprovação das condições de acesso ou de manutenção do subsídio de renda.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "835808428": {
+   "fragment_id": "119397764",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 11/2019 - Diário da República n.º 67/2019, Série I de 2019-04-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2019-121987030), em vigor a partir de 2019-02-13",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente decreto-lei, considera-se:\n\na) «Retribuição mínima nacional anual» ou «RMNA», o valor da retribuição mínima mensal garantida (RMMG) referida no n.º 1 do artigo 273.º do Código do Trabalho, multiplicado por 14 meses;\n\nb) «Agregado familiar», o conjunto de pessoas constituído pelo arrendatário e pelos seguintes indivíduos que tenham residência no locado:\n\ni) Cônjuge, ainda que separado judicialmente de pessoas e bens;\n\nii) Ex-cônjuge, em situações de nulidade, anulação ou dissolução do casamento, ou pessoa que viva com o arrendatário em união de facto nos termos estabelecidos na Lei n.º 7/2001 de 11 de maio, alterada pela Lei n.º 23/2010, de 30 de agosto;\n\niii) Dependentes ou ascendentes do arrendatário, do seu cônjuge ou do seu ex-cônjuge ou da pessoa que com ele viva em união de facto;\n\niv) Outras pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nc) «Dependentes», as pessoas que sejam:\n\ni) Filhos, adotados e enteados menores não emancipados, bem como os menores sob tutela;\n\nii) Filhos, adotados e enteados maiores, bem como aqueles que até à maioridade estiveram sujeitos à tutela de qualquer dos sujeitos do agregado familiar que, não tendo mais de 25 anos e não auferindo anualmente rendimentos superiores à retribuição mínima mensal garantida, frequentem estabelecimento de ensino; e\n\niii) Filhos, adotados, enteados e os sujeitos a tutela, maiores, inaptos para o trabalho e para angariar meios de subsistência, quando não aufiram rendimentos superiores à retribuição mínima mensal garantida;\n\niv) Os ascendentes cujo rendimento mensal seja inferior a uma retribuição mínima mensal garantida;\n\nd) «Renda», o valor mensal da retribuição devida pelo arrendatário ao senhorio pelo gozo da habitação;\n\ne) 'Nova renda', a renda devida após:\n\ni) O período de 10 anos estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária;\n\nii) O fim dos períodos transitórios de 8 e 10 anos previstos nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, com a redação dada pela Lei n.º 43/2017, de 14 de junho;\n\niii) A atualização extraordinária de renda aplicada nos termos do n.º 11 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, na redação atual.\n\n2 - Para efeitos da alínea b) do número anterior, quando o arrendatário não resida no locado, temporária ou permanentemente, por motivos de doença ou internamento em estabelecimentos de apoio social ou equiparados, considera-se agregado familiar do arrendatário o conjunto de pessoas referidas nos números anteriores que residam em permanência no local arrendado.\n\n3 - O agregado familiar, a RMNA e os demais elementos relevantes para efeitos de determinação do RABC, são relativos ao ano civil anterior ao ato a cuja instrução a declaração de RABC se destina, sem prejuízo de, no caso de esta ser necessária para fazer prova do RABC em momento anterior, a informação se possa reportar a ano civil diferente.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 11/2019 - Diário da República n.º 67/2019, Série I de 2019-04-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2019-121987030), em vigor a partir de 2019-02-13\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "835808429": {
+   "fragment_id": "119397766",
+   "type": 1,
+   "heading": "Capítulo I — Rendimento anual bruto corrigido",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "### Capítulo I — Rendimento anual bruto corrigido\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808430": {
+   "fragment_id": "119397767",
+   "type": 11,
+   "heading": "Artigo 3.º — Rendimento anual bruto",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 3.º — Rendimento anual bruto\n\n1 - Considera-se rendimento anual bruto (RAB) o quantitativo que resulta da soma dos rendimentos anuais ilíquidos, nos termos do Código do Imposto sobre o Rendimento das Pessoas Singulares (CIRS), auferidos por todos os elementos do agregado familiar do arrendatário.\n\n2 - Tratando-se de rendimentos da categoria B do CIRS enquadrados no regime simplificado, considera-se rendimento bruto o resultante da aplicação dos coeficientes previstos no n.º 2 do artigo 31.º do CIRS.\n\n3 - O disposto no número anterior não prejudica a aplicação das restantes regras de determinação do rendimento da categoria B previstas no CIRS, no âmbito do regime simplificado.\n\n4 - Tratando-se de rendimentos de categoria B, nos termos do CIRS, enquadrados no regime de contabilidade organizada, considera-se rendimento bruto o resultante do lucro apurado.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808431": {
+   "fragment_id": "119397768",
+   "type": 11,
+   "heading": "Artigo 4.º — Rendimento anual bruto corrigido",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01",
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 4.º — Rendimento anual bruto corrigido\n\n1 - O RABC é o quantitativo que resulta da soma dos rendimentos anuais ilíquidos auferidos por todos os elementos do agregado familiar do arrendatário, corrigido pelos seguintes fatores:\n\na) Total dos rendimentos anuais ilíquidos, nos termos do artigo anterior, auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nb) Número de dependentes do agregado familiar do arrendatário e das pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano;\n\nc) Número de pessoas do agregado familiar portadoras de deficiência com grau comprovado de incapacidade igual ou superior a 60 %.\n\n2 - O RAB do agregado familiar do arrendatário é corrigido através da soma dos rendimentos anuais ilíquidos, nos termos previstos no artigo anterior, auferidos pelas pessoas que vivam em comunhão de habitação com o arrendatário há mais de um ano.\n\n3 - A correção do RAB do agregado familiar do arrendatário em função do número de dependentes é feita através da dedução ao RAB do agregado familiar do arrendatário corrigido nos termos do número anterior do valor correspondente a 0,5 da RMNA, por cada dependente.\n\n4 - Se no agregado familiar existir pessoa portadora de deficiência com grau comprovado de incapacidade igual ou superior a 60 %, é deduzido ao RAB corrigido nos termos do n.º 2 o valor correspondente a 0,5 da RMNA, cumulável com a correção prevista no número anterior, por cada indivíduo nestas condições.\n\n5 - Sem prejuízo do disposto no n.º 7, a declaração da qual conste o valor do RABC do agregado familiar do arrendatário é emitida pelo serviço de finanças competente, a pedido do arrendatário, para os efeitos previstos nos artigos 30.º a 37.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pela Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro.\n\n6 - A emissão da declaração prevista no número anterior depende da apresentação, pelo requerente, de autorização dos membros do agregado familiar e das pessoas a que se refere a alínea a) do n.º 1.\n\n7 - Nas situações em curso de atualização faseada de renda, previstas nos artigos 30.º a 49.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, o serviço de finanças competente emite, a pedido do senhorio ou do arrendatário, declaração de que o RABC do agregado familiar do arrendatário é ou não superior a 3, 5 ou 15 RMNA.\n\n8 - Sem prejuízo do disposto nos n.os 5 e 7, as declarações aí previstas não podem, em caso algum, revelar dados relativos à situação tributária protegidos pelo dever de confidencialidade estabelecido na Lei Geral Tributária, designadamente através da discriminação dos rendimentos pelos respetivos titulares.\n\n9 - (Revogado).\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "835808432": {
+   "fragment_id": "119397769",
+   "type": 1,
+   "heading": "Capítulo II — Subsídio de renda",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "### Capítulo II — Subsídio de renda\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808433": {
+   "fragment_id": "119397770",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808434": {
+   "fragment_id": "119397771",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 11/2019 - Diário da República n.º 67/2019, Série I de 2019-04-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2019-121987030), em vigor a partir de 2019-02-13",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 5.º — Condições de acesso\n\n1 - Têm direito à atribuição de subsídio de renda, ao abrigo do presente decreto-lei, os arrendatários com contratos de arrendamento para habitação celebrados antes de 18 de novembro de 1990, objeto de atualização de renda nos termos dos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, com a redação dada pela Lei n.º 43/2017, de 14 de junho, ou em processo de atualização faseada do valor da renda previsto no artigo 41.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária, e no artigo 11.º da Lei n.º 31/2012, de 14 de agosto, bem como os contratos de arrendamento objeto da atualização extraordinária de renda prevista no n.º 11 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, na redação atual, relativamente aos quais se verifiquem os seguintes requisitos:\n\na) Em resposta à comunicação efetuada pelo senhorio, para efeito de atualização da renda no âmbito da Lei n.º 6/2006, alterada pela Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, tenham invocado um RABC do respetivo agregado familiar inferior a cinco RMNA; e\n\nb) Tenha decorrido o período transitório previsto nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, com a redação dada pela Lei n.º 43/2017, de 14 de junho, ou tenha decorrido o prazo de 10 anos estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária; ou\n\nc) Tenha havido lugar à atualização extraordinária de renda prevista no n.º 11 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, na redação atual;\n\nd) Desde que, em qualquer dos casos previstos nas alíneas anteriores, invoquem e comprovem, para efeitos de pedido de atribuição de subsídio, um RABC do respetivo agregado familiar inferior a cinco RMNA, através de declaração emitida há menos de um ano pelos serviços de finanças.\n\n2 - O presente decreto-lei não é aplicável nos casos de atualização de renda efetuada nos termos do artigo 45.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 11/2019 - Diário da República n.º 67/2019, Série I de 2019-04-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2019-121987030), em vigor a partir de 2019-02-13\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "835808435": {
+   "fragment_id": "119397772",
+   "type": 11,
+   "heading": "Artigo 6.º — Exclusões",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 6.º — Exclusões\n\n1 - Sem prejuízo de outras causas de exclusão específicas das modalidades do subsídio de renda previstas no presente decreto-lei, não tem direito a aceder à atribuição de subsídio de renda o arrendatário que se encontre numa das seguintes situações:\n\na) Os elementos do agregado familiar, cujos rendimentos são relevantes para o cálculo do respetivo RABC, não concedam a autorização necessária para acesso aos seus dados fiscais ou relativos ao processamento de pensões;\n\nb) Não tenha no locado a sua residência permanente, sem prejuízo do disposto no n.º 2 do artigo 2.º;\n\nc) Subarrende ou ceda o locado a qualquer outro título oneroso, total ou parcialmente, ainda que tenha autorização do senhorio para o efeito;\n\nd) O próprio arrendatário ou algum dos elementos do respetivo agregado familiar referidos nas subalíneas i), ii) e iii) da alínea b) do n.º 1 do artigo 2.º seja proprietário, usufrutuário ou arrendatário de imóvel destinado a habitação, no mesmo concelho da situação do locado ou em concelho limítrofe ou na mesma área metropolitana do locado, desde que o imóvel seja adequado a satisfazer o fim habitacional do agregado e não constitua residência permanente de terceiros com direitos legais ou contratuais sobre o mesmo;\n\ne) Aufira qualquer outro apoio para fins habitacionais.\n\n2 - No caso da alínea d) do número anterior, o arrendatário deve demonstrar que o imóvel não é adequado a satisfazer o fim habitacional do agregado familiar ou não está em condições mínimas de habitabilidade, preferencialmente através de documento emitido pelos serviços públicos competentes em função do território e da matéria, nomeadamente os serviços municipais.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808436": {
+   "fragment_id": "119397773",
+   "type": 11,
+   "heading": "Artigo 7.º — Requerimento e procedimento de atribuição do subsídio",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 11/2019 - Diário da República n.º 67/2019, Série I de 2019-04-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2019-121987030), em vigor a partir de 2019-02-13",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 7.º — Requerimento e procedimento de atribuição do subsídio\n\n1 - Cabe ao arrendatário requerer junto dos serviços de segurança social da área do locado ou através da Internet, a atribuição do subsídio de renda de acordo com a modalidade pretendida, devendo o requerimento ser devidamente instruído com os documentos obrigatórios e necessários à respetiva avaliação.\n\n2 - O modelo dos requerimentos, a sua forma de entrega, os documentos instrutórios necessários e os procedimentos relativos à receção, análise e avaliação dos pedidos são estabelecidos por portaria dos membros do Governo responsáveis pelas áreas da habitação e da segurança social.\n\n3 - O pedido do subsídio de renda pode ser apresentado nos seis meses que antecedem o termo do prazo de cinco anos previsto nos artigos 35.º e 36.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, ou que antecedem o termo do prazo de 10 anos estabelecido no n.º 3 do artigo 38.º da Lei n.º 6/2006, na sua redação originária, ou decorridos estes prazos:\n\na) Nos seis meses que antecedem o termo dos prazos previstos no n.º 1 do artigo 35.º e na alínea b) do n.º 7 do artigo 36.º da Lei n.º 6/2006, de 27 de fevereiro, com a redação dada pela Lei n.º 43/2017, de 14 de junho;\n\nb) Nos seis meses que antecedem o termo do prazo estabelecido no n.º 3 do artigo 38.º na Lei n.º 6/2006, de 27 de fevereiro, na sua redação originária; ou\n\nc) Nos seis meses que antecedem a renovação do contrato, nos casos previstos no n.º 11 do artigo 36.º na Lei n.º 6/2006, de 27 de fevereiro, na redação atual\n\n4 - Os serviços de segurança social criam o processo correspondente a cada requerimento de atribuição do subsídio de renda e, no prazo de 15 dias a contar da data da apresentação do mesmo ou, se não estiver devidamente instruído, da data de entrega do último dos elementos necessários à respetiva instrução, enviam ao Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), a informação relevante para a tomada de decisão final do pedido.\n\n5 - O IHRU, I. P., decide o pedido de subsídio de renda no prazo de 15 dias a contar da data do envio do requerimento pelos serviços de segurança social.\n\n6 - A decisão do pedido de subsídio de renda é notificada, pelo IHRU, I. P., ao requerente e ao senhorio.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 11/2019 - Diário da República n.º 67/2019, Série I de 2019-04-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2019-121987030), em vigor a partir de 2019-02-13\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "835808437": {
+   "fragment_id": "119397774",
+   "type": 11,
+   "heading": "Artigo 8.º — Decisão do pedido",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 8.º — Decisão do pedido\n\n1 - Sem prejuízo de outros factos que determinem o indeferimento nos termos legais, há lugar ao indeferimento do pedido de subsídio de renda, nas seguintes situações:\n\na) Não seja comprovada alguma das condições de acesso a que se refere o artigo 5.º;\n\nb) Exista uma causa de exclusão nos termos do artigo 6.º\n\n2 - O pedido é deferido de acordo com os limites do subsídio a atribuir, definidos nos artigos 12.º e 21.º\n\n3 - O deferimento do pedido de subsídio de renda produz efeitos desde o primeiro dia do mês subsequente ao termo do prazo para decisão do pedido de subsídio de renda, se a renda atualizada a essa data já for devida, ou no primeiro dia do mês em que o seja.\n\n4 - Nas situações de subsídio para novo arrendamento, o deferimento do pedido de subsídio só produz efeitos com a celebração do novo contrato de arrendamento.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808438": {
+   "fragment_id": "119474975",
+   "type": 11,
+   "heading": "Artigo 9.º — Efeitos da apresentação do pedido",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 9.º — Efeitos da apresentação do pedido\n\n1 - O arrendatário deve comunicar ao senhorio, por escrito, que apresentou um pedido de subsídio de renda, com indicação da modalidade adotada, e enviar, ainda, o comprovativo da apresentação do pedido de subsídio.\n\n2 - A atualização da renda pelo senhorio, nos casos previstos no n.º 1 do artigo 5.º, fica suspensa a partir do primeiro dia do mês seguinte à notificação a que se refere o número anterior ou, quando a atualização da renda ainda não seja exigível, a partir da data em que for devida.\n\n3 - A notificação da decisão do pedido de subsídio de renda ao arrendatário determina o fim da suspensão da atualização da renda prevista no número anterior.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "835808439": {
+   "fragment_id": "119474976",
+   "type": 11,
+   "heading": "Artigo 10.º — Modalidades do subsídio de renda",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Modalidades do subsídio de renda\n\n1 - Qualquer dos arrendatários com direito a subsídio de renda pode requerer a sua atribuição numa das seguintes modalidades:\n\na) Subsídio para arrendamento em vigor;\n\nb) Subsídio para novo arrendamento.\n\n2 - A opção pela modalidade de subsídio para arrendamento em vigor não impede a alteração para a opção de subsídio para novo arrendamento.\n\n3 - Além das modalidades de subsídio de renda identificadas no n.º 1, os arrendatários que reúnam as condições legais para atribuição daquele subsídio podem optar pela atribuição de habitação em regime de arrendamento apoiado.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808440": {
+   "fragment_id": "119474977",
+   "type": 8,
+   "heading": "Secção II — Subsídio para arrendamento em vigor",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "#### Secção II — Subsídio para arrendamento em vigor\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808441": {
+   "fragment_id": "119474978",
+   "type": 11,
+   "heading": "Artigo 11.º — Subsídio para arrendamento em vigor",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 11.º — Subsídio para arrendamento em vigor\n\nO subsídio para arrendamento em vigor é um apoio financeiro, concedido ao arrendatário sob a forma de uma subvenção mensal não reembolsável, relativo ao montante da nova renda e destinada a apoiá-lo a manter a sua residência permanente no locado.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808442": {
+   "fragment_id": "119474979",
+   "type": 11,
+   "heading": "Artigo 12.º — Montante do subsídio para arrendamento em vigor",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 12.º — Montante do subsídio para arrendamento em vigor\n\n1 - O montante do subsídio para arrendamento em vigor é igual à diferença entre o valor da nova renda e o valor de renda que pode ser suportada pelo arrendatário de acordo com o n.º 2 do artigo 35.º da Lei n.º 6/2006, de 27 de fevereiro, na sua redação atual, com base no RABC do agregado familiar do arrendatário, sem prejuízo do disposto no n.º 4.\n\n2 - Para efeitos do número anterior, é considerado o RABC do agregado familiar do arrendatário relativo ao ano civil anterior ao pedido de subsídio para arrendamento em vigor.\n\n3 - Se à data da apresentação do pedido de subsídio para arrendamento em vigor ainda não estiverem apurados os rendimentos a que se referem os artigos 3.º e 4.º, é considerado o RABC do agregado familiar relativo ao segundo ano civil que antecede o pedido de subsídio.\n\n4 - No caso previsto no n.º 11 do artigo 36.º do NRAU, o montante máximo do subsídio é igual à diferença entre a nova renda e a renda anterior à atualização extraordinária ali prevista.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "835808443": {
+   "fragment_id": "119474980",
+   "type": 11,
+   "heading": "Artigo 13.º — Valor mínimo do subsídio para arrendamento em vigor",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 13.º — Valor mínimo do subsídio para arrendamento em vigor\n\nO subsídio para arrendamento em vigor é atribuído no valor correspondente a 5 % de um indexante de apoios sociais (IAS), instituído pela Lei n.º 53-B/2006, de 29 de dezembro, sempre que o respetivo cálculo determinar um valor inferior.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808444": {
+   "fragment_id": "119474981",
+   "type": 11,
+   "heading": "Artigo 14.º — Duração do subsídio para arrendamento em vigor",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 14.º — Duração do subsídio para arrendamento em vigor\n\n1 - O subsídio para arrendamento em vigor é atribuído por um período de 24 meses, renovável por períodos iguais e sucessivos, desde que, antes do termo desse período, o arrendatário faça prova, através da entrega do comprovativo do RABC do seu agregado familiar, de que se mantêm os pressupostos da atribuição do subsídio e desde que não tenha ocorrido qualquer causa determinante da sua extinção.\n\n2 - A primeira prestação do subsídio para arrendamento em vigor é devida a partir da data em que a decisão do pedido produz efeitos, nos termos dos n.os 3 e 4 do artigo 8.º ou, em caso de renovação, a partir do primeiro dia do mês subsequente ao termo do período anterior.\n\n3 - Nas situações em que as prestações sejam pagas após as datas referidas no número anterior, o arrendatário tem direito à recuperação dos montantes de subsídio atribuído, que entretanto não tiverem sido pagos.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808445": {
+   "fragment_id": "119474982",
+   "type": 11,
+   "heading": "Artigo 15.º — Alteração do montante do subsídio para arrendamento em vigor",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 15.º — Alteração do montante do subsídio para arrendamento em vigor\n\n1 - O montante do subsídio para arrendamento em vigor pode ser atualizado, em cada momento, em função da alteração dos pressupostos da respetiva atribuição, designadamente nos seguintes casos:\n\na) Variação do RABC do agregado familiar do arrendatário igual ou superior a 5 %;\n\nb) Variação do RABC em virtude de alteração da composição do agregado familiar e ou da situação determinante da aplicação de um ou mais dos fatores de correção previstos no artigo 4.º\n\n2 - No caso do número anterior, cabe ao titular do direito ao subsídio de renda comunicar aos serviços da segurança social as alterações verificadas, no prazo máximo de 15 dias a contar da data da respetiva ocorrência, devendo a comunicação ser instruída com a informação e os documentos que se revelem necessários à verificação dos factos.\n\n3 - Os serviços da segurança social registam a comunicação de alteração de circunstâncias no correspondente processo e enviam-na ao IHRU, I. P., com as informações e os elementos relevantes para a respetiva apreciação, no prazo máximo de 15 dias a contar da data da sua receção.\n\n4 - O IHRU, I. P., decide a alteração do subsídio, no prazo de 15 dias a contar da data do envio da comunicação referida no número anterior.\n\n5 - A decisão a que se refere o número anterior produz efeitos a partir do mês seguinte ao da data da respetiva notificação ao titular do subsídio.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808446": {
+   "fragment_id": "119474983",
+   "type": 11,
+   "heading": "Artigo 16.º — Manutenção do direito ao subsídio para arrendamento em vigor",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 16.º — Manutenção do direito ao subsídio para arrendamento em vigor\n\n1 - A morte do arrendatário ao qual foi atribuído o subsídio para arrendamento em vigor não prejudica a manutenção do direito a esse subsídio por parte da pessoa a quem o arrendamento se transmita nos termos dos artigos 57.º e 58.º da Lei n.º 6/2006, de 27 de fevereiro, alterada pelas Leis n.os 31/2012, de 14 de agosto, e 79/2014, de 19 de dezembro, desde que o transmissário reúna os pressupostos para a manutenção do subsídio.\n\n2 - Para efeito do disposto no número anterior, o transmissário deve comunicar a ocorrência e requerer a manutenção do subsídio de renda aos serviços de segurança social da área da habitação arrendada, no prazo máximo de 60 dias a contar da data do óbito do arrendatário, sob pena de caducidade do direito ao subsídio.\n\n3 - A decisão sobre o pedido de manutenção do subsídio produz efeitos a partir do mês seguinte ao da data do óbito do arrendatário.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808447": {
+   "fragment_id": "119474984",
+   "type": 11,
+   "heading": "Artigo 17.º — Cessação do subsídio para arrendamento em vigor",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 17.º — Cessação do subsídio para arrendamento em vigor\n\nO subsídio para arrendamento em vigor cessa antes do termo de qualquer dos períodos de duração indicados no artigo 14.º sempre que:\n\na) O contrato de arrendamento cuja renda é objeto de subsídio cesse a sua vigência pela verificação de qualquer causa determinante da sua extinção;\n\nb) Se verifique a caducidade do direito ao subsídio por morte do arrendatário sem que lhe suceda pessoa com direito à manutenção do subsídio, nos termos do artigo anterior, ou o decurso dos prazos estabelecidos no presente decreto-lei para a realização de comunicações obrigatórias;\n\nc) Cessem os pressupostos da atribuição do subsídio, nomeadamente quando o RABC do agregado familiar do arrendatário seja igual ou superior a cinco RMNA.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808448": {
+   "fragment_id": "119474985",
+   "type": 8,
+   "heading": "Secção III — Subsídio para novo arrendamento",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "#### Secção III — Subsídio para novo arrendamento\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808449": {
+   "fragment_id": "119474986",
+   "type": 11,
+   "heading": "Artigo 18.º — Subsídio para novo arrendamento",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 18.º — Subsídio para novo arrendamento\n\nO subsídio para novo arrendamento é um apoio financeiro, concedido ao arrendatário, sob a forma de uma subvenção mensal não reembolsável, relativo ao montante da renda devida nos termos de um novo contrato de arrendamento e destinado a apoiá-lo a mudar a sua residência permanente para outra habitação adequada ao agregado familiar.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808450": {
+   "fragment_id": "119474987",
+   "type": 11,
+   "heading": "Artigo 19.º — Pressupostos da opção",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 19.º — Pressupostos da opção\n\n1 - A opção pela modalidade de subsídio para novo arrendamento implica a denúncia do contrato de arrendamento pelo arrendatário, após a notificação do deferimento do pedido.\n\n2 - No caso de deferimento do pedido de subsídio para novo arrendamento, o valor mensal das rendas que forem devidas pelo arrendatário até à desocupação e entrega do locado é igual ao da última renda praticada antes da atualização para a nova renda, devendo o arrendatário desocupar o locado no prazo máximo de 90 dias.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808451": {
+   "fragment_id": "119474988",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições do subsídio para novo arrendamento",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 20.º — Condições do subsídio para novo arrendamento\n\n1 - São aplicáveis ao subsídio para novo arrendamento as normas relativas ao subsídio para arrendamento em vigor, com as adaptações necessárias.\n\n2 - O fogo objeto do novo arrendamento deve corresponder à tipologia adequada à dimensão do agregado familiar do arrendatário, conforme consta do anexo ao presente decreto-lei, que dele faz parte integrante.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808452": {
+   "fragment_id": "119474989",
+   "type": 11,
+   "heading": "Artigo 21.º — Valor do subsídio",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 21.º — Valor do subsídio\n\nO valor do subsídio de renda para novo arrendamento não pode ser superior ao valor do subsídio a que o arrendatário teria direito se não denunciasse o contrato de arrendamento abrangido pelo artigo 5.º\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808453": {
+   "fragment_id": "119474990",
+   "type": 8,
+   "heading": "Secção IV — Regime de arrendamento apoiado",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "#### Secção IV — Regime de arrendamento apoiado\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808454": {
+   "fragment_id": "119474991",
+   "type": 11,
+   "heading": "Artigo 22.º — Condições do pedido de arrendamento apoiado",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 22.º — Condições do pedido de arrendamento apoiado\n\n1 - O arrendatário que reúna as condições para atribuição de subsídio de renda pode optar pela mudança da sua residência permanente do atual locado para uma habitação de propriedade pública, atribuída em regime de arrendamento apoiado, nos termos da Lei n.º 81/2014, de 19 de dezembro.\n\n2 - A nova habitação deve situar-se no município da localização da habitação arrendada, salvo se o arrendatário requerer a atribuição de habitação localizada noutro município.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808455": {
+   "fragment_id": "119474992",
+   "type": 11,
+   "heading": "Artigo 23.º — Requerimento",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 23.º — Requerimento\n\n1 - Cabe ao IHRU, I. P., no prazo máximo de 30 dias, a contar da data do requerimento do subsídio na modalidade referida no artigo anterior, obter das entidades públicas proprietárias de habitações destinadas a atribuição em regime de arrendamento apoiado, a informação sobre a existência de uma habitação disponível e adequada à composição do agregado familiar do arrendatário.\n\n2 - Ao requerimento para atribuição de habitação em arrendamento apoiado aplica-se o disposto nos n.os 1 e 2 do artigo 7.º e no artigo 9.º, com as necessárias adaptações.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808456": {
+   "fragment_id": "119474993",
+   "type": 11,
+   "heading": "Artigo 24.º — Contrato de arrendamento apoiado",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 24.º — Contrato de arrendamento apoiado\n\n1 - A atribuição ao arrendatário de uma habitação em regime de arrendamento apoiado é efetuada mediante a celebração de um contrato de arrendamento com a entidade proprietária da habitação, sujeito ao regime do arrendamento apoiado, aprovado pela Lei n.º 81/2014, de 19 de dezembro.\n\n2 - A celebração do contrato referido no número anterior deve coincidir com a data da produção de efeitos da denúncia, pelo arrendatário, do anterior contrato de arrendamento.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808457": {
+   "fragment_id": "119474994",
+   "type": 8,
+   "heading": "Secção V — Incumprimento e fiscalização",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "#### Secção V — Incumprimento e fiscalização\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808458": {
+   "fragment_id": "119474995",
+   "type": 11,
+   "heading": "Artigo 25.º — Incumprimento",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 25.º — Incumprimento\n\nO não cumprimento por parte do beneficiário do subsídio de renda de quaisquer obrigações relativas ao acesso e manutenção do subsídio, nomeadamente a não entrega de elementos probatórios legalmente exigíveis, solicitados pelos serviços de segurança social ou pelo IHRU, I. P., no prazo que lhe for fixado para o efeito, ou o incumprimento do contrato subjacente à concessão do subsídio, determina a imediata cessação do pagamento do subsídio e a obrigação de restituição dos montantes indevidamente recebidos, sem prejuízo de outras sanções legais ou contratuais aplicáveis ao caso.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808459": {
+   "fragment_id": "119474996",
+   "type": 11,
+   "heading": "Artigo 26.º — Responsabilidade penal",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 26.º — Responsabilidade penal\n\nA prestação de falsas declarações, as omissões ou outros atos praticados por parte do beneficiário do subsídio de renda, com a intenção de obter ou manter ilicitamente o subsídio de renda, determinam a cessação imediata do respetivo pagamento e a obrigação de restituição das prestações do subsídio indevidamente recebidas, sem prejuízo de outras sanções aplicáveis, designadamente de natureza criminal.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808460": {
+   "fragment_id": "119474997",
+   "type": 11,
+   "heading": "Artigo 27.º — Fiscalização e reavaliação oficiosa",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 27.º — Fiscalização e reavaliação oficiosa\n\n1 - Compete ao IHRU, I. P., a fiscalização do cumprimento do disposto no presente decreto-lei pelos beneficiários do subsídio.\n\n2 - O IHRU, I. P., procede à reavaliação, de dois em dois anos, dos pressupostos de manutenção do subsídio de renda.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808461": {
+   "fragment_id": "119474998",
+   "type": 11,
+   "heading": "Artigo 28.º — Gestão e cooperação entre entidades públicas",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 28.º — Gestão e cooperação entre entidades públicas\n\n1 - Compete ao IHRU, I. P., a gestão da atribuição dos subsídios de renda, incluindo a análise e decisão sobre os pedidos de atribuição e renovação do subsídio ou de alteração da respetiva modalidade, sendo as comunicações com os outros serviços públicos nesse âmbito efetuadas preferencialmente através de comunicação eletrónica.\n\n2 - No âmbito e para efeito do disposto no número anterior, o IHRU, I. P., promove a articulação com as entidades e serviços públicos competentes para comprovar as condições de que depende a atribuição, a manutenção ou a alteração do subsídio de renda, podendo aceder à informação da administração fiscal e das entidades processadoras de pensões relevante para o efeito, designadamente para verificar se o RABC do agregado familiar do arrendatário é superior a cinco RMNA.\n\n3 - O acesso e a troca de informações, nomeadamente a confirmação e a informação sobre os dados referidos no número anterior, são efetuados através do recurso aos meios informáticos, assegurando-se sempre a proteção dos dados em causa.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808462": {
+   "fragment_id": "119474999",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais e transitórias",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "### Capítulo III — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808463": {
+   "fragment_id": "119475000",
+   "type": 11,
+   "heading": "Artigo 29.º — Encargos",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 29.º — Encargos\n\n1 - Cabe ao Estado, através do IHRU, I. P., assegurar a gestão e a concessão dos apoios financeiros previstos no presente decreto-lei, mediante dotação orçamental a inscrever anualmente no capítulo 60 do orçamento do Ministério das Finanças sobre proposta do IHRU, I. P.\n\n2 - As verbas necessárias ao pagamento mensal dos apoios financeiros previstos no presente decreto-lei são transferidas, mensalmente, pela Direção-Geral do Tesouro e Finanças para a conta a indicar pelo IRHU, I. P., mediante previsão desta entidade, que efetua as transferências das verbas correspondentes ao referido apoio financeiro para a conta bancária identificada pelos beneficiários, até ao dia 8 do mês a que respeita.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808464": {
+   "fragment_id": "119475001",
+   "type": 11,
+   "heading": "Artigo 30.º — Acesso aos dados",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 30.º — Acesso aos dados\n\nA atribuição, a renovação e a manutenção do subsídio de renda depende da autorização do requerente e dos membros do agregado familiar, para o acesso por parte do IHRU, I. P., à informação da administração fiscal e das entidades processadoras de pensões que seja relevante para efeitos de atribuição do subsídio.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808465": {
+   "fragment_id": "119475002",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 158/2006, de 8 de agosto, alterado pelo Decreto-Lei n.º 266-C/2012, de 31 de dezembro, sem prejuízo do disposto no n.º 2 do artigo seguinte.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  },
+  "835808466": {
+   "fragment_id": "119475003",
+   "type": 11,
+   "heading": "Artigo 32.º — Produção de efeitos",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+   ],
+   "markdown": "###### Artigo 32.º — Produção de efeitos\n\n1 - O disposto no presente decreto-lei aplica-se aos pedidos de subsídio apresentados após a data da sua entrada em vigor.\n\n2 - Os subsídios de renda já atribuídos ao abrigo do Decreto-Lei n.º 158/2006, de 8 de agosto, alterado pelo Decreto-Lei n.º 266-C/2012, de 31 de dezembro, mantêm-se e podem ser renovados nos termos do mesmo decreto-lei, até ao termo do período de atualização faseada de renda, cabendo à Direção-Geral do Tesouro e Finanças transferir, mensalmente, para a conta a indicar pelo IHRU, I. P., as verbas necessárias ao pagamento mensal desses apoios financeiros para que este efetue as necessárias transferências para as contas bancárias identificadas pelos beneficiários, até ao dia 8 de cada mês, exceto se os arrendatários optarem por requerer o subsídio de renda nos termos do presente decreto-lei.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 6 de agosto de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 13/2019 - Diário da República n.º 30/2019, Série I de 2019-02-12](https://diariodarepublica.pt/dr/detalhe/lei/13-2019-119397715), em vigor a partir de 2019-02-13"
+  },
+  "835808467": {
+   "fragment_id": "119397765",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2023-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+   ],
+   "markdown": "## Anexo\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 132/2023 - Diário da República n.º 248/2023, Série I de 2023-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2023-835712411), em vigor a partir de 2023-12-28, produz efeitos a partir de 2024-07-01"
+  }
+ }
+}

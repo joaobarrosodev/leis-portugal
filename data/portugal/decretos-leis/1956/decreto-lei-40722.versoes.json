@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:232502:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1956-67377927",
+ "dre_path": "/dr/detalhe/decreto-lei/40722-1956-232502",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1956-08-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67377854",
+    "67377855",
+    "67377856",
+    "67377857",
+    "67377858",
+    "67377859",
+    "67377860"
+   ]
+  },
+  {
+   "date": "1976-06-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:427162:por",
+     "title": "Decreto-Lei n.º 446/76",
+     "published": "1976-06-05",
+     "dre_path": "/dr/detalhe/decreto-lei/446-1976-427162"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "67377854",
+    "67377855",
+    "67377856",
+    "67377857",
+    "215855541",
+    "67377859",
+    "67377860",
+    "67377861"
+   ]
+  }
+ ],
+ "fragments": {
+  "67377854": {
+   "fragment_id": "67377928",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O desenvolvimento das redes públicas de distribuição de energia eléctrica cria ao Estado a necessidade de assumir novos encargos financeiros, que se traduzem não só no auxílio directo a prestar à pequena distribuição, nos termos da Lei n.º 2075, de 21 de Maio de 1955, mas também na indispensável ampliação dos quadros e reforços de dotações dos serviços oficiais encarregados da prestação daquele auxílio e do licenciamento e fiscalização das instalações eléctricas.\n\nAfigura-se justo e razoável procurar para estes últimos encargos, que vão reflectir-se directamente no aumento das despesas ordinárias do Estado, uma compensação parcial, por meio de uma ligeira actualização de certas taxas de fiscalização eléctrica e de outras receitas de igual natureza cobradas pela Direcção-Geral dos Serviços Eléctricos.\n\nEmbora se reconheça, tendo em atenção as épocas em que essas taxas foram fixadas, que poderia justificar-se uma actualização mais ampla, o Governo entende, por um lado, que deve reduzir ao mínimo o agravamento na parte que pode afectar as instalações de distribuição, cujo desenvolvimento pretende impulsionar fortemente e, por outro lado, que tem de evitar-se qualquer aumento de encargos, directo ou indirecto, para os consumidores ligados às redes de baixa tensão.\n\nSimplificando o serviço da cobrança das taxas de licença de estabelecimento e suprimindo os emolumentos previstos no artigo 7.º do Decreto n.º 12 445, de 29 de Setembro de 1926, aliviam-se os serviços de algum expediente inútil e oferece-se às entidades que com eles têm de manter relações oficiais uma compensação, não tanto em valor, como principalmente na comodidade e simplicidade dessas mesmas relações.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "67377855": {
+   "fragment_id": "67377929",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs fórmulas estabelecidas nos artigos 5.º e 8.º do Decreto-Lei n.º 31 226, de 21 de Abril de 1941, para o cálculo das taxas de estabelecimento e de exploração, são substituídas pelas seguintes:\n\nI) Taxas de estabelecimento:\n\na) Para máquinas geradoras:\n\n(ver documento original)\n\nb) Para postos de transformação e subestações:\n\n(ver documento original)\n\nc) Para linhas de alta tensão:\n\n(ver documento original)\n\nd) Para linhas de tracção:\n\n(ver documento original)\n\nII) Taxas de exploração:\n\na) Instalações de 1.ª classe:\n\n(ver documento original)\n\nb) Instalações de 2.ª classe:\n\n(ver documento original)"
+  },
+  "67377856": {
+   "fragment_id": "67377930",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs valores da taxa suplementar, criada pelo artigo 23.º do Regulamento de Licenças para Instalações Eléctricas, aprovado pelo Decreto-Lei n.º 26 852, de 30 de Julho de 1936, e da taxa de licença de estabelecimento, a que se refere o artigo 37.º do mesmo regulamento, são substituídos pelos seguintes:\n\nI) Instalações de serviço público:\n\nPara novas centrais ou ampliação da potência mecânica ou eléctrica de centrais já existentes - 800$00.\n\nPara linhas ou ramais de alta tensão ou modificação de linhas já existentes - 200$00.\n\nPara postos de transformação ou de seccionamento ou aumento de potência de postos de transformação já existentes - 150$00.\n\nPara redes de baixa tensão ou suas ampliações e linhas ou ramais de tracção eléctrica - 300$00.\n\nPara instalações de telecomunicações destinadas ao serviço de exploração - 400$00.\n\nPara quaisquer outras instalações - 100$00.\n\nII) Instalações de serviço particular de 1.ª categoria:\n\nPara as instalações compreendidas na alínea a) - 400$00.\n\nPara as instalações compreendidas na alínea b) - 100$00.\n\nPara as instalações compreendidas na alínea c) - t = 10 P, sendo t a taxa em escudos e P a potência a instalar em kVA, com um mínimo de 10."
+  },
+  "67377857": {
+   "fragment_id": "67377931",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ suprimida a cobrança dos emolumentos a que se refere o artigo 7.º do Decreto n.º 12 445, de 29 de Setembro de 1926."
+  },
+  "67377858": {
+   "fragment_id": "67377932",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSão elevados em 50 por cento os valores de todas as multas e respectivos limites fixados no Regulamento de Licenças para Instalações Eléctricas e no Decreto-Lei n.º 31 226, de 21 de Abril de 1941."
+  },
+  "67377859": {
+   "fragment_id": "67377933",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nFicam revogados o § 2.º do artigo 23.º, o § 3.º do artigo 37.º e o § único do artigo 41.º do Regulamento de Licenças para Instalações Eléctricas."
+  },
+  "67377860": {
+   "fragment_id": "67377934",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente diploma entrará em vigor em 1 de Outubro de 1956, mas as novas taxas de exploração, calculadas segundo o disposto no artigo 1.º, só terão aplicação a partir do ano de 1957."
+  },
+  "215855541": {
+   "fragment_id": "67377932",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1976-06-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10"
+   ],
+   "markdown": "###### Artigo 4.º\n\nSão elevados em 50 por cento os valores de todas as multas e respectivos limites fixados no Regulamento de Licenças para Instalações Eléctricas e no Decreto-Lei n.º 31 226, de 21 de Abril de 1941.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 446/76 - Diário da República n.º 132/1976, Série I de 1976-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1976-427162), em vigor a partir de 1976-06-10"
+  },
+  "67377861": {
+   "fragment_id": "67377935",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Publique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 2 de Agosto de 1956. - FRANCISCO HIGINO CRAVEIRO LOPES - António de Oliveira Salazar - Marcello Caetano - Fernando dos Santos Costa - Joaquim Trigo de Negreiros - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Américo Deus Rodrigues Thomaz - Paulo Arsénio Viríssimo Cunha - Eduardo de Arantes e Oliveira - Raul Jorge Rodrigues Ventura - Francisco de Paula Leite Pinto - Ulisses Cruz de Aguiar Cortês - Manuel Gomes de Araújo - Henrique Veiga de Macedo."
+  }
+ }
+}

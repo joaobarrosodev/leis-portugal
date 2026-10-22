@@ -1,0 +1,234 @@
+---
+schema_version: '1.0'
+id: pt:dre:533381:por
+title: Decreto-Lei n.º 266/2000
+short_title: null
+summary: Altera o Decreto-Lei n.º 199/98, de 10 de Julho, que aprovou o Regulamento sobre Construção e Modificação das Embarcações
+  de Pesca de Comprimento entre Perpendiculares Inferior a 12 m
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento Social
+proposing_entity: null
+official_number: 266/2000
+official_date: null
+publication_date: '2000-10-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 242/2000, Série I-A de 2000-10-19
+  number: '242'
+  series: I
+  supplement: null
+  pages: 5917 - 5919
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/10/242a00/59175919.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/266/2000/10/19/p/dre/pt/html
+  oj: null
+  dre: '533381'
+  dre_path: /dr/detalhe/decreto-lei/266-2000-533381
+  internal: pt:dre:533381:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2000-533381
+  metadata_url: https://data.dre.pt/eli/dec-lei/266/2000/10/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/266-2000-533381
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-10-19T00:00:00Z'
+integrity:
+  source_sha256: 4c40587e325c3aa0a63a2b68bdff3c83f86f6acd03d3883c7fe3b67e83c5d8ec
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-266-533381.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Normas de Construção
+- Regulamento
+- Embarcação de Pesca
+- Regulamento sobre Construção e Modificação das Embarcações de Pesca de Comprimento entre Perpendiculares Inferior a 12 M
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/199/1998/07/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/199/1998/07/10/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 266/2000
+
+de 19 de Outubro
+
+Pelo [Decreto-Lei n.º 199/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1998-485053), de 10 de Julho, foi aprovado o Regulamento sobre Construção e Modificação das Embarcações de Pesca de Comprimento entre Perpendiculares Inferior a 12 m.
+
+Tendo-se constatado a necessidade de proceder a algumas alterações ao texto publicado, são as mesmas levadas a efeito, através do presente diploma.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo único
+
+Pelo presente diploma são alterados o n.º 5 do artigo 21.º, o n.º 2 do artigo 40.º, o n.º 12 do artigo 57.º e o apêndice n.º 2, simbologia, do Regulamento sobre Construção e Modificação das Embarcações de Pesca de Comprimento entre Perpendiculares Inferior a 12 m, aprovado pelo [Decreto-Lei n.º 199/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1998-485053), de 10 de Julho, os quais passam a ter a seguinte redacção:
+
+«Artigo 21.º
+
+Uso das artes de arrasto e estabilidade
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - A potência propulsora não deve ultrapassar o valor, expresso em quilowatts, resultante da seguinte fórmula:
+
+P =< 11,76(Delta)/(0,41d + 0,47h + 0,32B(índice L) + 0,22P(índice c))
+
+sendo nesta fórmula:
+
+(Delta) - o deslocamento, em toneladas, na condição de embarcação carregada definida no artigo 15.º;
+
+P - a potência do motor ou motores propulsores da embarcação, expressa em quilowatts;
+
+d - a distância, em metros, do ponto donde parte o cabo ao plano de mediania;
+
+h - a altura, em metros, do convés ao ponto donde partem os cabos;
+
+B(índice L) - o bordo livre a meio navio, expresso em metros;
+
+P(índice c) - o pontal de construção da embarcação, expresso em metros.
+
+6 - ...
+
+###### Artigo 40.º — Veios propulsores e intermédios
+
+1 - ...
+
+2 - O diâmetro do veio propulsor deve estar de acordo com as instruções fornecidas pelo fabricante do motor e o seu valor, em milímetros, não deve ser inferior ao calculado pela fórmula:
+
+[(ver fórmula no documento original)](https://files.diariodarepublica.pt/1s/2000/10/242a00/59175919.pdf)
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+###### Artigo 57.º
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+12 - As baterias a utilizar nas embarcações devem ser certificadas pelos respectivos fabricantes, sendo a certificação para aplicação marítima obrigatória apenas para baterias destinadas a servir como fonte de energia de emergência.
+
+## APÊNDICE N.º 2
+
+Dimensionamento do aparelho de governo
+
+Simbologia:
+
+K - ...
+
+P - ...
+
+A - ...
+
+v - ...
+
+s(índice a) - ...
+
+S(índice b) - ...
+
+S(índice v) - ...
+
+M(índice eq) - momento equivalente, newtons milímetro;
+
+d - ...
+
+C(índice pp) - ...
+
+B - ...
+
+P(índice c) - ...
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...»
+
+Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2000. - António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes Pina Moura - Luís Manuel Capoulas Santos.
+
+**Promulgado em 4 de Outubro de 2000.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 12 de Outubro de 2000.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

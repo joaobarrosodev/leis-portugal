@@ -1,0 +1,272 @@
+---
+schema_version: '1.0'
+id: pt:dre:453793:por
+title: Decreto Regulamentar n.º 69/83
+short_title: null
+summary: Regulamenta o regime de licenciamento e funcionamento dos estabelecimentos com fins lucrativos que prossigam actividades
+  de apoio social a crianças, jovens, deficientes e idosos estabelecido pelo Decreto-Lei n.º 350/81, de 23 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério dos Assuntos Sociais
+proposing_entity: null
+official_number: 69/83
+official_date: null
+publication_date: '1983-07-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1983, Série I de 1983-07-16
+  number: '162'
+  series: I
+  supplement: null
+  pages: 2610 - 2612
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/07/16200/26102612.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '453793'
+  dre_path: /dr/detalhe/decreto-regulamentar/69-1983-453793
+  internal: pt:dre:453793:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1983-453793
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/69-1983-453793
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-01-24T00:00:00Z'
+integrity:
+  source_sha256: 996cbf9caac95d48abb63b0e1a95fb6e368db067f0408bb8cb44664451653431
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-69-453793.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:610898:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 16
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 69/83
+
+de 16 de Julho
+
+O presente diploma regulamenta o [Decreto-Lei n.º 350/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1981-566992), de 23 de Dezembro, que veio reformular o regime de licenciamento e funcionamento dos estabelecimentos com fins lucrativos que possigam actividades de apoio social a crianças, jovens, deficientes e idosos.
+
+Assim, dispõe sobre as formalidades a cumprir para abertura do estabelecimento, bem como, e atenta a natureza dos interesses em causa, sobre a graduação das coimas a aplicar em caso de violação das disposições legais que visam protegê-los, remetendo a sua aplicação para o regime previsto no [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+
+Assim:
+
+Ao abrigo do disposto no artigo 16.º do [Decreto-Lei n.º 350/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1981-566992), de 23 de Dezembro:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — (Âmbito)
+
+1 - Consideram-se abrangidos pelo disposto no [Decreto-Lei n.º 350/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1981-566992), de 23 de Dezembro, os estabelecimentos com fins lucrativos que tenham por objectivo o desenvolvimento de actividades de apoio social, como infantários, jardins-de-infância, lares para crianças e jovens privados de meio familiar normal, lares para idosos e lares para deficientes.
+
+2 - São ainda abrangidas pelo número anterior as entidades de fins lucrativos que, embora com outra designação, prossigam objectivos semelhantes ao dos referidos estabelecimentos.
+
+###### Artigo 2.º — (Caracterização dos equipamentos)
+
+1 - Designam-se por infantários os estabelecimentos destinados a acolher, durante o dia, crianças de idade compreendida entre os 3 meses e os 3 anos, com o objectivo de lhes proporcionar condições adequadas ao seu desenvolvimento.
+
+2 - Designam-se por jardins-de-infância os estabelecimentos destinados a acolher, durante o dia, crianças de idade compreendida entre os 3 anos e a idade legal de ingresso no ensino primário, com o objectivo de lhes proporcionar condições adequadas ao seu desenvolvimento e à sua adaptação à próxima fase educativa.
+
+3 - Designam-se por lares para crianças e jovens privados de meio familiar normal os estabelecimentos destinados a recolher crianças e jovens, com o objectivo de lhes proporcionar condições de vida semelhantes e substitutivas da estrutura familiar.
+
+4 - Designam-se por lares para idosos os estabelecimentos destinados ao alojamento colectivo e à prestação permanente de serviços a idosos, com vista a garantir-lhes o indispensável bem-estar social.
+
+5 - Designam-se por lares para deficientes os estabelecimentos destinados a dar apoio e residência aos deficientes que careçam de atendimento específico.
+
+### CAPÍTULO II — Do licenciamento dos estabelecimentos
+
+###### Artigo 3.º — (Pedido de alvará)
+
+1 - Os pedidos de alvará para a abertura de estabelecimentos devem ser dirigidos ao centro regional de segurança social da área da sua localização, em requerimento redigido em papel selado, com a assinatura do requerente reconhecida notarialmente ou mediante exibição do bilhete de identidade do signatário.
+
+2 - Os alvarás podem ser requeridos por pessoas singulares ou colectivas.
+
+###### Artigo 4.º — (Requisitos dos requerimentos)
+
+1 - Deve constar, obrigatoriamente, dos requerimentos:
+
+a) O nome, firma ou denominação social do requerente;
+
+b) A residência ou sede do requerente;
+
+c) O número de contribuinte do requerente;
+
+d) A localização do estabelecimento e a respectiva denominação, a qual não deverá confundir-se com outra já existente;
+
+e) As actividades que se propõe desenvolver;
+
+f) A lotação do estabelecimento.
+
+2 - Tratando-se de pessoa singular, o requerente deve indicar ainda a filiação, idade, estado civil, nacionalidade, profissão, habilitações literárias e número, data e local de emissão do bilhete de identidade.
+
+###### Artigo 5.º — (Instrução do requerimento)
+
+Os requerimentos devem ser acompanhados dos seguintes documentos:
+
+a) Certidão de habilitações literárias, tratando-se de pessoa singular;
+
+b) Certificado do registo criminal, caso o requerente seja uma pessoa singular;
+
+c) Certidão do acto constitutivo e respectivos estatutos, se se tratar de pessoa colectiva;
+
+d) Planta das instalações, com indicação da parte ou fracção do edifício afecta ao estabelecimento;
+
+e) Relação do pessoal técnico e auxiliar previsto para o equipamento;
+
+f) Cópia do preçário a vigorar para o primeiro ano de funcionamento do estabelecimento.
+
+###### Artigo 6.º — (Concessão)
+
+1 - A concessão do alvará depende da verificação das condições de instalação e funcionamento legalmente previstas.
+
+2 - O alvará é passado em impresso de modelo próprio, aprovado por despacho do Ministro dos Assuntos Sociais, assinado pelo presidente do conselho directivo do centro regional e autenticado com o selo branco deste organismo.
+
+3 - O proprietário do estabelecimento promoverá, no prazo de 30 dias após a data da concessão do alvará, a sua publicação no Diário da República.
+
+###### Artigo 7.º — (Recusa de licenciamento ou de passagem de novo alvará)
+
+1 - A recusa da concessão do alvará pode fundamentar-se quer na falta de condições técnicas mínimas indispensáveis ao exercício da actividade quer na falta de idoneidade do requerente.
+
+2 - O requerente considera-se inidóneo se tiver sido condenado por crime cuja natureza possa pôr em causa a integridade física ou moral dos utentes dos estabelecimentos.
+
+3 - Em caso de recusa de alvará, o centro regional notificará o requerente por carta registada com aviso de recepção, indicando os fundamentos da mesma.
+
+###### Artigo 8.º — (Autorização para funcionamento provisório)
+
+1 - No caso de não se encontrarem reunidas todas as condições técnicas exigidas para a concessão do alvará, mas seja seguramente previsível que possam ser satisfeitas, poderá ser concedida uma autorização para funcionamento provisório, válida por um ano, prorrogável uma só vez por igual período.
+
+2 - A autorização para funcionamento provisório será acompanhada da especificação das condições a satisfazer, bem como do prazo fixado para o seu cumprimento.
+
+3 - Findo o prazo de funcionamento provisório, se as deficiências não se encontrarem supridas, o proprietário do estabelecimento incorre nas sanções legalmente previstas.
+
+###### Artigo 9.º — (Recurso)
+
+Em caso de recusa do alvará pode a entidade interessada recorrer para os tribunais da deliberação do centro regional de segurança social.
+
+###### Artigo 10.º — (Deveres dos proprietários e responsáveis dos estabelecimentos)
+
+Além das demais obrigações especialmente previstas, os proprietários e responsáveis dos estabelecimentos são obrigados:
+
+a) A facultar aos serviços dos centras regionais da respectiva área o acesso a todas as dependências do estabelecimento, bem como a fornecer-lhes as informações indispensáveis à avaliação do respectivo funcionamento;
+
+b) Remeter aos centros, até 31 de Março de cada ano, os mapas estatísticos dos utentes e a relação do pessoal existente no estabelecimento.
+
+### CAPÍTULO III — Das sanções
+
+###### Artigo 11.º — (Coimas aplicáveis)
+
+É punível com coima de 10000$00 a 20000$00 a falta de afixação, em lugar bem visível do público, da fotocópia autenticada do alvará, do horário de funcionamento, do horário do pessoal ao serviço do estabelecimento, bem como de cópia do preçário.
+
+2 - É punível com coima de 10000$00 a 50000$00:
+
+a) A abertura ou funcionamento do estabelecimento sem alvará;
+
+b) O excesso de lotação do estabelecimento até 50% da sua capacidade;
+
+c) A inexistência injustificada do pessoal técnico e auxiliar previsto para o estabelecimento;
+
+d) O impedimento da realização da fiscalização pelos centros regionais.
+
+3 - As entidades proprietárias de estabelecimentos que desrespeitem as normas relativas ao licenciamento, funcionamento e demais obrigações legais ficam sujeitas às seguintes sanções:
+
+a) Coima de 10000$00 a 100000$00;
+
+b) Encerramento temporário ou definitivo do estabelecimento.
+
+4 - É punível com coima de 50000$00 a 100000$00 o excesso de lotação do estabelecimento igual ou superior a 50%.
+
+###### Artigo 12.º — (Graduação e acumulação das coimas)
+
+1 - As coimas previstas no artigo anterior são graduadas pelo centro regional de segurança social entre os respectivos limites mínimo e máximo em função da gravidade da infracção, dos prejuízos causados aos utentes e ainda do benefício económico que possa advir para o proprietário dos estabelecimentos pelo incumprimento das obrigações legais.
+
+2 - No caso de acumulação de infracções verificar-se-á a acumulação de coimas.
+
+3 - Os limites mínimo e máximo das coimas são elevados para o dobro em caso de reincidência.
+
+###### Artigo 13.º — (Aplicação das coimas)
+
+1 - O processamento das contra-ordenações e a aplicação das coimas far-se-á nos termos previstos pelo [Decreto-Lei n.º 433/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/433-1982-376273), de 27 de Outubro.
+
+2 - A aplicação das sanções previstas no número anterior é da competência dos centros regionais de segurança social.
+
+3 - Em caso de primeira infracção, os centros regionais de segurança social poderão substituir as coimas por advertência.
+
+4 - O pagamento da coima não dispensa a entidade proprietária do estabelecimento de dar cumprimento às determinações transmitidas pelo centro regional de segurança social no prazo que lhe for fixado.
+
+###### Artigo 14.º — (Receitas de coimas)
+
+O produto das coimas, que constitui receita dos centros regionais de segurança social, destina-se, prioritariamente, à ajuda a famílias e pessoas em situação de carência.
+
+### CAPÍTULO IV — Disposições transitórias e finais
+
+###### Artigo 15.º — (Estabelecimentos a funcionar sem alvará)
+
+1 - Aos estabelecimentos a funcionar sem alvará e que o não requeiram no prazo de 90 dias a partir da data da publicação deste diploma é aplicável o disposto no artigo 11.º
+
+2 - Face a graves situações de instalação e funcionamento, podem os centros regionais de segurança social, independentemente do prazo referido no número anterior, notificar as entidades proprietárias dos estabelecimentos para tomada urgente de medidas adequadas.
+
+###### Artigo 16.º — (Autorização para funcionamento provisório)
+
+1 - Aos estabelecimentos que se encontrem em funcionamento à data da entrada em vigor do [Decreto-Lei n.º 350/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1981-566992) e que, até ao termo do prazo previsto no n.º 1 do artigo anterior, não satisfaçam as condições exigidas para a concessão do alvará poderá ser concedida uma autorização para funcionamento provisório, válida por 6 meses, prorrogável por igual período, desde que seja previsível que até ao seu termo tais condições se dêem por verificadas.
+
+2 - A autorização para funcionamento será acompanhada da especificação das condições e requisitos a satisfazer, bem como do prazo fixado para o seu cumprimento.
+
+3 - Findo o prazo de funcionamento provisório, se as deficiências não se encontrarem supridas, proceder-se-á à aplicação das sanções legalmente previstas.
+
+Francisco José Pereira Pinto Balsemão - António José de Castro Bagão Félix.
+
+**Promulgado em 8 de Junho de 1983.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 23 de Junho de 1983.**
+
+**O Primeiro-Ministro, Mário Soares.**

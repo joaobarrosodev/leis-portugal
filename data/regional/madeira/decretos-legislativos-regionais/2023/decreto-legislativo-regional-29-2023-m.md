@@ -1,0 +1,230 @@
+---
+schema_version: '1.0'
+id: pt:dre:216188326:por
+title: Decreto Legislativo Regional n.º 29/2023/M
+short_title: null
+summary: Altera o Decreto Legislativo Regional n.º 13/2021/M, de 9 de junho, que estabelece o regime jurídico do pessoal não
+  docente das organizações escolares da rede pública da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 29/2023/M
+official_date: null
+publication_date: '2023-07-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 144/2023, Série I de 2023-07-26
+  number: '144'
+  series: I
+  supplement: null
+  pages: 102 - 104
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/07/14400/0010200104.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/29/2023/07/26/m/dre/pt/html
+  oj: null
+  dre: '216188326'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/29-2023-216188326
+  internal: pt:dre:216188326:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-216188326
+  metadata_url: https://data.dre.pt/eli/declegreg/29/2023/07/26/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2023-216188326
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-07-26T00:00:00Z'
+integrity:
+  source_sha256: a54a3f7e8dcffa3a4051e422bf4841d259da854fcb44b23af22232ed2678b2e6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2023/DRE-2023-29-216188326.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Modernização Administrativa
+- Conselho Executivo
+- Coordenador
+- Coordenador Regional
+- Definição de Competências
+- Direcção Regional da Administração Escolar
+- Ensino Oficial
+- Carreira Profissional
+- Remuneração Acessória
+- Pessoal não Docente
+- Estabelecimento de Ensino
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Carreira Especial de Técnico de Apoio à Infância
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/121/200
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/121/200
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/11/2018/08/03/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/11/2018/08/03/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/13/2021/06/09/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/13/2021/06/09/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/21/2006/06/21/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/21/2006/06/21/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/29/2006/07/19/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/29/2006/07/19/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/4/2000/01/31/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/4/2000/01/31/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 29/2023/M
+
+Altera o [Decreto Legislativo Regional n.º 13/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2021-164870239), de 9 de junho, que estabelece o regime jurídico do pessoal não docente das organizações escolares da rede pública da Região Autónoma da Madeira
+
+O [Decreto Legislativo Regional n.º 13/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2021-164870239), de 9 de junho, estabeleceu o regime jurídico do pessoal não docente das organizações escolares da rede pública da Região Autónoma da Madeira, revogando o anterior regime que se encontrava plasmado no [Decreto Legislativo Regional n.º 29/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2006-537576), de 19 de julho.
+
+Sucede, contudo, que após a entrada em vigor deste diploma e atendendo à multiplicidade de funções a que estão adstritos os responsáveis pelos serviços administrativos das organizações escolares, designadamente no que concerne às áreas da gestão de recursos humanos, de gestão financeira e patrimonial, aquisições, gestão do expediente e arquivo, as quais implicam uma maior disponibilidade e responsabilidade, constatou-se a necessidade de prever o cargo de coordenador dos serviços administrativos escolares, por forma a valorizar o desempenho destas funções, nesta área de fulcral importância para as organizações escolares. A nomeação para tal cargo deverá ser efetuada, mediante comissão de serviço, pelo presidente do conselho executivo ou diretor, no âmbito da autonomia dos estabelecimentos de ensino, consagrada no artigo 48.º da Lei de Bases do Sistema Educativo e do artigo 3.º do [Decreto Legislativo Regional n.º 4/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-2000-405961), de 31 de janeiro, alterado pelo [Decreto Legislativo Regional n.º 21/2006/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-2006-371038), de 21 de junho, diploma que aprovou o regime de autonomia, administração e gestão dos estabelecimentos de educação e de ensino públicos da Região Autónoma da Madeira.
+
+Por outro lado, importa, também, proceder à valorização remuneratória da carreira de técnico de apoio à infância, atendendo às recentes medidas legislativas tomadas pelo Governo da República que, em sede de aprovação de medidas de valorização dos trabalhadores em funções públicas, procedeu à alteração da estrutura remuneratória das carreiras.
+
+Foram observados os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, adaptada à Região Autónoma da Madeira pelo [Decreto Legislativo Regional n.º 11/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), de 3 de agosto, ambos na sua redação atual.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 228.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, das alíneas o), nn) e qq) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma altera o [Decreto Legislativo Regional n.º 13/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2021-164870239), de 9 de junho, que aprovou o regime jurídico do pessoal não docente das organizações escolares da rede pública da Região Autónoma da Madeira.
+
+###### Artigo 2.º — Alteração do [Decreto Legislativo Regional n.º 13/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2021-164870239), de 9 de junho
+
+O artigo 11.º do [Decreto Legislativo Regional n.º 13/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2021-164870239), de 9 de junho, passa a ter a seguinte redação:
+
+«Artigo 11.º
+
+[...]
+
+1 - [...]
+
+2 - Para além das carreiras referidas no n.º 1, integram o mapa de pessoal as carreiras e categorias não revistas, as consideradas subsistentes nos termos previstos no [Decreto-Lei n.º 121/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561), de 11 de julho, a carreira especial de técnico de apoio à infância e, ainda, o cargo de coordenador dos serviços administrativos escolares.
+
+3 - [...]»
+
+###### Artigo 3.º — Aditamento ao [Decreto Legislativo Regional n.º 13/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2021-164870239), de 9 de junho
+
+São aditados ao [Decreto Legislativo Regional n.º 13/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2021-164870239), de 9 de junho, os artigos 13.º-A e 13.º-B, com a seguinte redação:
+
+«Artigo 13.º-A
+
+Coordenador dos serviços administrativos escolares
+
+1 - Os serviços administrativos das organizações escolares, com exceção das escolas do 1.º ciclo, com ou sem unidades de pré-escolar e ou valência creche, são coordenados por um coordenador dos serviços administrativos escolares, cargo de nomeação em comissão de serviço, pelo presidente do conselho executivo ou diretor, pelo período de um ano escolar, renovável por iguais períodos, de entre os trabalhadores das carreiras de assistente técnico e técnico superior, cessando por decisão fundamentada do presidente do conselho executivo ou diretor, mediante comunicação com a antecedência mínima de 60 dias, ou a requerimento do interessado em igual prazo.
+
+2 - O coordenador dos serviços administrativos escolares tem direito a um suplemento remuneratório num montante pecuniário fixado em 45 % do valor da base remuneratória da Administração Pública, sendo devido e pago 12 meses por ano.
+
+3 - A dotação máxima é de um coordenador dos serviços administrativos escolares por organização escolar.
+
+4 - Nas suas faltas ou impedimentos, o coordenador dos serviços administrativos escolares é substituído por um trabalhador designado pelo presidente do conselho executivo ou diretor, o qual passa a auferir o suplemento remuneratório previsto no número anterior.
+
+5 - Nos termos do n.º 2 do artigo 11.º, mantêm-se em funções os trabalhadores das carreiras de chefe de departamento ou chefe de serviços de administração escolar, até que tais lugares fiquem vagos.
+
+###### Artigo 13.º-B — Competências do coordenador dos serviços administrativos escolares
+
+1 - Ao coordenador dos serviços administrativos escolares compete participar no conselho administrativo e, na dependência do conselho executivo da escola, coordenar toda a atividade administrativa nas áreas da gestão de recursos humanos, de gestão financeira, patrimonial e de aquisições e da gestão do expediente e arquivo.
+
+2 - Ao coordenador dos serviços administrativos escolares compete ainda:
+
+a) Dirigir e orientar o pessoal afeto ao serviço administrativo no exercício diário das suas tarefas;
+
+b) Propor as medidas tendentes à modernização e eficiência e eficácia dos serviços de apoio administrativo;
+
+c) Preparar e submeter a despacho do presidente do conselho executivo ou diretor todos os assuntos respeitantes ao funcionamento da escola;
+
+d) Assegurar a elaboração do projeto de orçamento de acordo com as linhas traçadas pelo conselho executivo ou diretor;
+
+e) Coordenar, de acordo com as orientações do conselho administrativo, a elaboração do relatório de conta de gerência;
+
+f) Outras competências cometidas pelo regulamento interno da escola ou por outros diplomas legais.»
+
+###### Artigo 4.º — Alteração ao anexo ii
+
+O anexo ii do [Decreto Legislativo Regional n.º 13/2021/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2021-164870239), de 9 de junho, a que se refere o n.º 5 do artigo 12.º do referido diploma, passa a ter a seguinte redação:
+
+«ANEXO II
+
+Carreira de técnico de apoio à infância
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/07/14400/0010200104.pdf))](https://files.diariodarepublica.pt/1s/2023/07/14400/0010200104.pdf)
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 13 de julho de 2023.
+
+**O Presidente da Assembleia Legislativa, José Manuel de Sousa Rodrigues.**
+
+**Assinado em 24 de julho de 2023.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

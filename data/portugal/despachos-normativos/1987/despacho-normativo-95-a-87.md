@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:631188:por
+title: Despacho Normativo n.º 95-A/87
+short_title: null
+summary: Determina que o Banco de Portugal entregue até ao dia 31 de Dezembro do ano em curso, como antecipação dos lucros
+  relativos ao exercício de 1987 e sem prejuízo das correcções que se entenda dever efectuar após o apuramento definitivo
+  dos resultados do referido exercício, o montante de 10000000 de contos
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 95-A/87
+official_date: null
+publication_date: '1987-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 297/1987, 2º Suplemento, Série I de 1987-12-28
+  number: '297'
+  series: I
+  supplement: 2º Suplemento
+  pages: 4416-(4) a 4416-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29702/00040004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '631188'
+  dre_path: /dr/detalhe/despacho-normativo/95-a-1987-631188
+  internal: pt:dre:631188:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-a-1987-631188
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/95-a-1987-631188
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-12-28T00:00:00Z'
+integrity:
+  source_sha256: 984218dd8398c6116fee4d1a21f35fa0e9fe59bfc17537f4cce2e494c24656a8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-95-A-631188.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 95-A/87
+
+O artigo 69.º da Lei Orgânica do Banco de Portugal, aprovada pelo [Decreto-Lei n.º 644/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/644-1975-310378), de 15 de Novembro, prescreve que os lucros líquidos do exercício são apurados e distribuídos pela forma que vier a ser aprovada em diploma regulamentar do Ministério das Finanças, ouvido o conselho de administração.
+
+Considerando justificar-se, tendo presente os objectivos de política orçamental, proceder, desde já, a uma entrega ao Estado por conta dos lucros a apurar relativamente ao exercício de 1987, conforme, aliás, tem sido prática em exercícios passados;
+
+Considerando, porém, não haver sido aprovada até ao momento a legislação regulamentadora prevista no acima mencionado artigo 69.º da Lei Orgânica do Banco de Portugal;
+
+Convindo adoptar um prudente critério de determinação do montante em apreço, atenta a provisoriedade das estimativas disponíveis:
+
+Determino que, a título excepcional, o Banco de Portugal entregue até ao dia 31 de Dezembro do ano em curso, como antecipação dos lucros relativos ao exercício de 1987 e sem prejuízo das correcções que se entenda dever efectuar após o apuramento definitivo dos resultados do referido exercício, o montante de 10000000 de contos.
+
+Ministério das Finanças, 28 de Dezembro de 1987. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:571445:por
+title: Decreto-Lei n.º 157/90
+short_title: null
+summary: Altera o regime de celebração de contratos-programa de natureza sectorial ou plurissectorial no âmbito da cooperação
+  técnica e financeira entre a administração central e um ou mais municípios. Altera o Decreto-Lei n.º 384/87, de 24 de Dezembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 157/90
+official_date: null
+publication_date: '1990-05-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/1990, Série I de 1990-05-17
+  number: '113'
+  series: I
+  supplement: null
+  pages: 2253 - 2253
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/05/11300/22532253.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '571445'
+  dre_path: /dr/detalhe/decreto-lei/157-1990-571445
+  internal: pt:dre:571445:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1990-571445
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1990-571445
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-09-03T00:00:00Z'
+integrity:
+  source_sha256: c11f4ce830cd9aa9d35be59352bb0bf6e1439cba34c2c242f2f4b258b7b6ef66
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-157-571445.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:509235:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 157/90
+
+de 17 de Maio
+
+Reconhecendo-se haver interesse em que outros sectores possam também ser objecto da realização de investimentos no âmbito da celebração de contratos-programa segundo o regime estabelecido pelo [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro;
+
+Ouvida a Associação Nacional dos Municípios Portugueses:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. O artigo 3.º do [Decreto-Lei n.º 384/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-1987-499480), de 24 de Dezembro, passa a ter a seguinte redacção:
+
+###### Artigo 3.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) Educação, ensino e formação profissional;
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+m) Saúde e Segurança Social.
+
+Visto e aprovado em Conselho de Ministros de 29 de Março de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.
+
+**Promulgado em 4 de Maio de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 8 de Maio de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

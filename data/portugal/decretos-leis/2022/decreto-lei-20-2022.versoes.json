@@ -1,0 +1,686 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:178264070:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-178360575",
+ "dre_path": "/dr/detalhe/decreto-lei/20-2022-178264070",
+ "source_lastmod": "2025-03-19",
+ "versions": [
+  {
+   "date": "2022-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "178350512",
+    "178350513",
+    "178350514",
+    "178350515",
+    "178350516",
+    "178350517",
+    "178350518",
+    "178350519",
+    "178350520",
+    "178350521",
+    "178350522",
+    "178350523",
+    "178350524",
+    "178350525",
+    "178350526",
+    "178350527",
+    "178350528",
+    "178350529",
+    "178350530",
+    "178350531",
+    "178350532",
+    "178350533",
+    "178350534",
+    "178350535",
+    "178350536",
+    "178350537",
+    "178350538",
+    "178350539",
+    "178350540",
+    "178350541",
+    "178350542",
+    "178350543",
+    "178350544",
+    "178350545",
+    "178350546",
+    "178350548"
+   ]
+  },
+  {
+   "date": "2025-03-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:911488699:por",
+     "title": "Decreto-Lei n.º 22/2025",
+     "published": "2025-03-19",
+     "dre_path": "/dr/detalhe/decreto-lei/22-2025-911488699"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo I",
+    "Revoga Capítulo II"
+   ],
+   "fragments": [
+    "178350512",
+    "911627267",
+    "911627268",
+    "911627269",
+    "911627270",
+    "911627271",
+    "911627272",
+    "911627273",
+    "911627274",
+    "911628075",
+    "911628076",
+    "911628077",
+    "911628078",
+    "911628079",
+    "911628080",
+    "911628081",
+    "911628082",
+    "911628083",
+    "911628084",
+    "911628085",
+    "911628086",
+    "911628087",
+    "911628088",
+    "911628089",
+    "911628090",
+    "911628091",
+    "911628092",
+    "911628093",
+    "911628094",
+    "178350541",
+    "178350542",
+    "178350543",
+    "178350544",
+    "178350545",
+    "178350546",
+    "178350547",
+    "178350548"
+   ]
+  }
+ ],
+ "fragments": {
+  "178350512": {
+   "fragment_id": "178360576",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 20/2022\n\nde 28 de janeiro\n\nSumário: Aprova os procedimentos para identificação, designação, proteção e aumento da resiliência das infraestruturas críticas nacionais e europeias.\n\nO enquadramento legal relativo à identificação e proteção de infraestruturas essenciais para a saúde, a segurança e o bem-estar económico e social da sociedade nos setores da energia e transportes encontra-se estabelecido no Decreto-Lei n.º 62/2011, de 9 de maio, que transpôs para a ordem jurídica interna a Diretiva 2008/114/CE, do Conselho, de 8 de dezembro de 2008, relativa à identificação e designação das infraestruturas críticas europeias e à avaliação da necessidade de melhorar a sua proteção.\n\nDecorrida mais de uma década sobre a entrada em vigor daquele ato legislativo afigura-se necessária a sua revisão, tendo por base a experiência adquirida na sua aplicação. Procura-se, por esta via, retificar lapsos entretanto detetados, mas sobretudo agilizar a aplicação do regime jurídico, alinhando o seu conteúdo com as práticas que vêm sendo adotadas por outros Estados-Membros da União Europeia.\n\nDeste modo, procura-se clarificar o âmbito de aplicação do referido enquadramento legal, enfatizando a sua natureza transetorial e conferindo às entidades representativas de cada setor um papel mais ativo no processo de identificação das respetivas infraestruturas críticas nacionais. Por outro lado, ajustam-se os prazos previstos para assegurar a adoção das medidas e ações de proteção e aumento da resiliência a aplicar às infraestruturas identificadas.\n\nA revisão ora operada constitui, igualmente, uma oportunidade para reforçar o caráter holístico da proteção de infraestruturas críticas, alinhando o teor do presente decreto-lei com o disposto noutros normativos de caráter transversal, como a Lei de Segurança Interna, a Estratégia Nacional de Combate ao Terrorismo, a Estratégia Nacional de Segurança no Ciberespaço, o Regime Jurídico da Segurança do Ciberespaço, o Conceito Estratégico de Defesa Nacional e o Sistema Nacional de Planeamento Civil de Emergência, assim como em diversa legislação setorial específica.\n\nPor outro lado, procede-se à alteração da orgânica do Centro de Gestão da Rede Informática do Governo (CEGER) com vista a adequá-lo para responder aos desafios vindouros, nomeadamente, e em especial, os que resultam da execução do Plano de Recuperação e Resiliência (PRR) ou da Estratégia para a Inovação e Modernização do Estado e da Administração Pública 2020-2023, bem como do Plano de Ação para a Transição Digital de Portugal.\n\nCom efeito, na sequência da pandemia da doença COVID-19 e da necessidade de robustecer os mecanismos de resiliência dos países da União Europeia, foi elaborado o PRR, que prevê investimentos e metas a executar até 2026, tendo o previsto no PRR sido refletido, entre outros, na Estratégia supra identificada e naquele Plano de Ação.\n\nDeste modo, é alterada a orgânica do CEGER, serviço responsável pela gestão da rede informática do Governo (RING) e pela prestação de apoio nos domínios das tecnologias de informação e de comunicações e dos sistemas de informação, sendo, por isso, um serviço fundamental ao bom funcionamento do Governo.\n\nEm face da constante e rápida evolução e desenvolvimento das tecnologias de informação e da utilização de meios eletrónicos - circunstância que foi ainda mais evidente na sequência da pandemia da doença COVID-19 - , é necessário assegurar que o CEGER tem meios humanos adequados para assegurar a segurança da RING, ao que acresce terem sido aprovadas, no âmbito da «componente 19 - Administração Pública - Capacitação, Digitalização, Interoperabilidade e Cibersegurança» do PRR, diversas iniciativas que têm como objetivos gerais o robustecimento da RING, a capacitação dos recursos humanos e a implementação de um sistema seguro de comunicações móveis.\n\nCom efeito, torna-se essencial dotar o CEGER dos meios necessários para assegurar as suas atribuições, capacitando-o para uma melhor resposta às exigências tecnológicas atuais, ao desenvolvimento de soluções relacionadas com a desmaterialização de processos, com a mobilidade de acessos ou com a manutenção de infraestruturas de rede, sempre sem descurar os aspetos relacionados com a segurança.\n\nForam ouvidos o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários, a Autoridade de Supervisão de Seguros e Fundos de Pensões, a Associação Nacional de Municípios Portugueses, a Autoridade Nacional de Comunicações e a Autoridade Nacional da Aviação Civil.\n\nAssim:\n\nNos termos do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, e na alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "178350513": {
+   "fragment_id": "178360577",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "178350514": {
+   "fragment_id": "178360578",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei:\n\na) Estabelece os procedimentos para identificação, designação, proteção e aumento da resiliência das infraestruturas críticas nacionais e europeias, procedendo à consolidação no direito nacional da transposição da Diretiva 2008/114/CE, do Conselho, de 8 de dezembro de 2008;\n\nb) Procede à segunda alteração ao Decreto-Lei n.º 163/2007, de 3 de maio, alterado pelo Decreto-Lei n.º 16/2012, de 26 de janeiro, que aprova a orgânica do Centro de Gestão da Rede Informática do Governo."
+  },
+  "178350515": {
+   "fragment_id": "178360579",
+   "type": 1,
+   "heading": "Capítulo II — Procedimentos para identificação, designação, proteção e aumento da resiliência das infraestruturas críticas nacionais e europeias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimentos para identificação, designação, proteção e aumento da resiliência das infraestruturas críticas nacionais e europeias"
+  },
+  "178350516": {
+   "fragment_id": "178360580",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Área de segurança», o espaço físico localizado no interior de uma infraestrutura crítica, dotado de medidas de segurança adequadas ao grau de classificação da informação aí processada e dos sistemas instalados, considerados essenciais para o seu funcionamento;\n\nb) «Entidade setorial», a entidade com funções de regulação, controlo ou fiscalização de cada setor e subsetor relevante;\n\nc) «Informações sensíveis», os factos, dados e informação relacionados com a segurança de uma infraestrutura crítica, que são considerados informação classificada nos termos previstos do artigo 5.º, nomeadamente a sua designação, os respetivos planos de segurança, assim como outros elementos que, se divulgados, podem ser utilizados para planear e agir com o objetivo de provocar a perturbação do funcionamento ou a destruição da infraestrutura crítica;\n\nd) «Infraestrutura crítica», a componente, sistema ou parte deste que é essencial para a manutenção de funções vitais para a sociedade, a saúde, a segurança e o bem-estar económico ou social, e cuja perturbação do funcionamento ou destruição teria um impacto significativo, dada a impossibilidade de continuar a assegurar essas funções;\n\ne) «Infraestrutura crítica europeia», a infraestrutura crítica nacional cuja perturbação do funcionamento ou destruição teria um impacto significativo em, pelo menos, mais um Estado-Membro da União Europeia;\n\nf) «Infraestrutura crítica nacional», a infraestrutura crítica situada em território português cuja perturbação do funcionamento ou destruição teria um impacto significativo à escala nacional;\n\ng) «Operador», o proprietário ou a entidade responsável pelo funcionamento de uma infraestrutura crítica, nacional ou europeia;\n\nh) «Plano de segurança de infraestrutura crítica», o documento, elaborado pelo operador, destinado a identificar os elementos essenciais e as vulnerabilidades da infraestrutura crítica, bem como as medidas e ações a executar para assegurar a sua proteção e aumentar a sua resiliência."
+  },
+  "178350517": {
+   "fragment_id": "178360581",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se à identificação, designação, proteção e aumento da resiliência das:\n\na) Infraestruturas críticas nacionais dos setores constantes do seu anexo e do qual faz parte integrante;\n\nb) Infraestruturas críticas europeias dos setores da energia e dos transportes, nos termos do anexo referido na alínea anterior."
+  },
+  "178350518": {
+   "fragment_id": "178360582",
+   "type": 11,
+   "heading": "Artigo 4.º — Deveres de proteção e de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Deveres de proteção e de colaboração\n\n1 - Os operadores devem zelar pela proteção, aumento da resiliência e manutenção das funções e serviços das respetivas infraestruturas críticas.\n\n2 - Sem prejuízo do disposto no número anterior, as entidades setoriais devem, no âmbito das respetivas competências, colaborar com os operadores na proteção, aumento da resiliência e manutenção das funções e serviços das infraestruturas críticas.\n\n3 - As entidades com competências próprias no âmbito do presente decreto-lei devem:\n\na) Colaborar entre si, através da partilha de informações relevantes à proteção e aumento da resiliência das infraestruturas críticas, bem como no procedimento de identificação e de designação das mesmas;\n\nb) Facultar aos operadores, através dos respetivos agentes de ligação de segurança, o acesso às melhores práticas e metodologias disponíveis, bem como, sempre que possível, informação sobre os novos avanços técnicos relacionados com a proteção das infraestruturas críticas.\n\n4 - Caso os operadores estejam sujeitos a deveres especiais de proteção, previstos em legislação setorial nacional ou europeia, que tenham, pelo menos, efeitos equivalentes às obrigações previstas no presente decreto-lei, o seu cumprimento substitui os deveres de proteção previstos no presente decreto-lei."
+  },
+  "178350519": {
+   "fragment_id": "178360583",
+   "type": 11,
+   "heading": "Artigo 5.º — Informações sensíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informações sensíveis\n\n1 - As informações sensíveis relacionadas com a designação, a proteção e o aumento da resiliência das infraestruturas críticas são objeto de classificação de segurança, nos termos da legislação sobre informação classificada.\n\n2 - Sem prejuízo do disposto no número anterior, a designação das infraestruturas críticas, nacionais ou europeias, tem o grau de classificação de segurança mínimo de «reservado».\n\n3 - Os agentes de ligação de segurança, os elementos de contacto da infraestrutura e as demais pessoas que, por força do presente decreto-lei, tratem informação classificada, são sujeitos a um processo de credenciação de segurança, no grau adequado, pela Autoridade Nacional de Segurança.\n\n4 - As entidades envolvidas na execução do presente decreto-lei asseguram o cumprimento dos normativos aplicáveis à proteção e ao manuseamento da informação classificada e que as informações classificadas referidas no n.º 1 não são utilizadas para fins distintos da proteção das infraestruturas críticas.\n\n5 - O disposto no presente artigo aplica-se igualmente às informações não escritas trocadas durante reuniões em que sejam debatidos assuntos sensíveis."
+  },
+  "178350520": {
+   "fragment_id": "178360584",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência\n\n1 - A identificação e a designação das infraestruturas críticas são efetuadas pelo Conselho Nacional de Planeamento Civil de Emergência (CNPCE).\n\n2 - O CNPCE aprova, igualmente, os critérios de identificação das infraestruturas críticas, mediante proposta das respetivas entidades setoriais.\n\n3 - O CNPCE pode solicitar parecer a outras entidades que considere relevantes, para efeitos do disposto no número anterior."
+  },
+  "178350521": {
+   "fragment_id": "178360585",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades setoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entidades setoriais\n\n1 - As entidades setoriais são identificadas no anexo ao presente decreto-lei e do qual faz parte integrante.\n\n2 - As entidades setoriais podem solicitar a colaboração de outras entidades consideradas relevantes, no âmbito das respetivas atribuições."
+  },
+  "178350522": {
+   "fragment_id": "178360586",
+   "type": 11,
+   "heading": "Artigo 8.º — Identificação das infraestruturas críticas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Identificação das infraestruturas críticas nacionais\n\n1 - As entidades setoriais elaboram uma lista das infraestruturas do respetivo setor com potencial para serem designadas como infraestruturas críticas nacionais, efetuando uma apreciação qualitativa das consequências provocadas pela inoperacionalidade de cada infraestrutura, nomeadamente:\n\na) O impacto económico, estimado em termos de importância dos prejuízos económicos e da degradação de bens ou serviços, incluindo também os potenciais efeitos ambientais;\n\nb) O impacto na sociedade, avaliado em termos de impacto na soberania nacional, na confiança das populações e na perturbação da vida quotidiana, incluindo a perda de serviços essenciais;\n\nc) A possibilidade de ocorrência de acidentes, avaliada em termos de número potencial de feridos ou vítimas mortais.\n\n2 - As entidades setoriais selecionam as infraestruturas que, constando da lista referida no número anterior, consideram dever ser designadas como críticas no respetivo setor, aplicando os critérios de identificação fixados pelo CNPCE, tendo em especial consideração:\n\na) O tipo de bens produzidos ou serviços prestados pela infraestrutura crítica;\n\nb) As alternativas disponíveis no fornecimento dos bens produzidos ou serviços prestados pela infraestrutura crítica;\n\nc) A população e área geográfica afetada por uma eventual perturbação do funcionamento ou destruição da infraestrutura crítica;\n\nd) A duração de uma eventual perturbação do funcionamento da infraestrutura crítica e o tempo previsível para a sua recuperação.\n\n3 - Com base na seleção referida no número anterior, as entidades setoriais ordenam as infraestruturas críticas do respetivo setor e submetem ao CNPCE uma proposta fundamentada quanto às que devem ser identificadas como infraestruturas críticas nacionais.\n\n4 - O CNPCE avalia a proposta das entidades setoriais e aprova a identificação das infraestruturas críticas nacionais em cada setor.\n\n5 - O CNPCE pode identificar infraestruturas críticas diferentes das propostas pelas entidades setoriais quando:\n\na) Seja detentor de indicadores distintos dos aplicados pelas entidades setoriais;\n\nb) Sejam conexas com outras infraestruturas críticas nacionais, do mesmo ou de outro setor, nomeadamente por as poderem afetar em caso de perturbação do funcionamento ou destruição.\n\n6 - O CNPCE comunica a identificação de uma infraestrutura crítica nacional ao respetivo operador, notificando-o para, querendo, se pronunciar sobre a referida identificação, fixando um prazo não inferior a dez dias para o efeito."
+  },
+  "178350523": {
+   "fragment_id": "178360587",
+   "type": 11,
+   "heading": "Artigo 9.º — Designação das infraestruturas críticas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Designação das infraestruturas críticas nacionais\n\n1 - O CNPCE procede à designação das infraestruturas críticas nacionais e notifica-a ao operador, dando conhecimento à respetiva entidade setorial, ao Secretário-Geral do Sistema de Segurança Interna (SSI) e ao presidente da Câmara Municipal territorialmente competente.\n\n2 - A designação prevista no número anterior pode ser alterada ou revogada pelo CNPCE, na sequência de proposta fundamentada:\n\na) Da respetiva entidade setorial;\n\nb) Do operador, com a concordância da respetiva entidade setorial.\n\n3 - No caso previsto no número anterior, a alteração ou revogação são notificadas ao operador, sendo dado conhecimento à respetiva entidade setorial, ao Secretário-Geral do SSI e aos presidentes das Câmaras Municipais territorialmente competentes."
+  },
+  "178350524": {
+   "fragment_id": "178360588",
+   "type": 11,
+   "heading": "Artigo 10.º — Identificação de infraestruturas críticas europeias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Identificação de infraestruturas críticas europeias\n\n1 - As entidades setoriais selecionam, com base nos critérios previstos nos n.os 1 e 2 do artigo 8.º, as infraestruturas críticas nacionais com potencial para serem designadas como infraestruturas críticas europeias.\n\n2 - As entidades setoriais submetem ao CNPCE uma proposta fundamentada quanto às infraestruturas críticas nacionais que devem também ser identificadas como infraestruturas críticas europeias.\n\n3 - Sem prejuízo do disposto nos números anteriores, o CNPCE pode identificar infraestruturas críticas nacionais diferentes das propostas pelas entidades setoriais para serem designadas como infraestrutura crítica europeia quando verificar que aquelas apresentam as características e requisitos necessários ou quando sejam propostas pela Comissão Europeia ou por outro Estado-Membro da União Europeia.\n\n4 - O CNPCE comunica a identificação de uma potencial infraestrutura crítica europeia ao respetivo operador, notificando-o para, querendo, se pronunciar sobre a referida identificação, fixando um prazo não inferior a 10 dias para o efeito.\n\n5 - O CNPCE pode solicitar a colaboração da Comissão Europeia ou de outros Estados-Membros da União Europeia na identificação das infraestruturas críticas europeias ou na avaliação do impacto, nos respetivos territórios, da sua perturbação do funcionamento ou destruição."
+  },
+  "178350525": {
+   "fragment_id": "178360589",
+   "type": 11,
+   "heading": "Artigo 11.º — Designação de infraestruturas críticas europeias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Designação de infraestruturas críticas europeias\n\n1 - O CNPCE informa a entidade congénere do Estado-Membro da União Europeia suscetível de ser afetado pela perturbação do funcionamento ou destruição da potencial infraestrutura crítica europeia, identificando a infraestrutura em causa e expondo os motivos para a sua eventual designação, solicitando o seu acordo.\n\n2 - Para efeitos do disposto no número anterior, o CNPCE pode solicitar o apoio técnico ou diplomático de outras entidades nacionais.\n\n3 - O CNPCE procede à designação da infraestrutura crítica europeia após ter obtido o acordo referido no n.º 1.\n\n4 - A designação prevista no número anterior pode ser alterada ou revogada pelo CNPCE, oficiosamente ou mediante proposta fundamentada da respetiva entidade setorial ou do operador, com a concordância da respetiva entidade setorial, na sequência da:\n\na) Alteração ou revogação da designação da infraestrutura como infraestrutura crítica nacional;\n\nb) Cessação dos pressupostos que conduziram à identificação da infraestrutura como infraestrutura crítica europeia;\n\nc) Cessação do acordo referido no n.º 1.\n\n5 - Para efeitos do disposto na alínea b) do número anterior, o CNPCE deve obter o acordo das entidades congéneres dos Estados-Membros da União Europeia que possam ser afetados de forma significativa pela infraestrutura crítica europeia em questão.\n\n6 - O CNPCE:\n\na) Notifica o operador da infraestrutura, dando conhecimento à respetiva entidade setorial, ao Secretário-Geral do SSI e aos presidentes das Câmaras Municipais territorialmente competentes da designação da infraestrutura como infraestrutura crítica europeia, bem como da eventual alteração ou revogação dessa designação;\n\nb) Informa anualmente a Comissão Europeia do número e identidade das infraestruturas críticas europeias designadas em cada sector e subsetor, bem como do número de Estados-Membros da União Europeia relacionados com cada infraestrutura crítica europeia.\n\n7 - A identidade de uma infraestrutura crítica europeia apenas deve ser do conhecimento da Comissão Europeia e dos Estados-Membros da União Europeia que por ela possam ser afetados de forma significativa."
+  },
+  "178350526": {
+   "fragment_id": "178360590",
+   "type": 11,
+   "heading": "Artigo 12.º — Iniciativa de designação por outro Estado-Membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Iniciativa de designação por outro Estado-Membro\n\nO CNPCE pode informar a Comissão Europeia de que pretende iniciar debates bilaterais ou multilaterais sobre a designação de uma infraestrutura localizada noutro Estado-Membro da União Europeia como infraestrutura crítica europeia, caso considere que o Estado português pode por ela ser afetado de forma significativa e o Estado-Membro em cujo território se situe não a tenha designado como infraestrutura crítica europeia."
+  },
+  "178350527": {
+   "fragment_id": "178360591",
+   "type": 11,
+   "heading": "Artigo 13.º — Planos de segurança das infraestruturas críticas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Planos de segurança das infraestruturas críticas nacionais\n\n1 - Cada infraestrutura crítica nacional deve dispor de um plano de segurança, o qual inclui:\n\na) A identificação dos elementos críticos;\n\nb) A delimitação das áreas de segurança;\n\nc) Uma análise do risco baseada em cenários de ameaça grave, na vulnerabilidade de cada elemento e nos impactos potenciais;\n\nd) A identificação, seleção e prioridade de contramedidas e procedimentos de segurança permanentes;\n\ne) A identificação, seleção e prioridade de contramedidas e procedimentos de segurança progressivos a ativar consoante o grau de ameaça aplicável ou o estado de segurança decretado.\n\n2 - As contramedidas e procedimentos de segurança permanentes previstos na alínea d) do número anterior incluem:\n\na) A instalação de equipamentos de deteção, controlo de acesso, proteção e prevenção, sem prejuízo do cumprimento das normas relativas à segurança física e digital da informação classificada;\n\nb) Procedimentos de alerta e gestão de crises;\n\nc) Normas de controlo de acesso e de verificação de segurança;\n\nd) Ações de comunicação, sensibilização e formação;\n\ne) Soluções em matéria de cibersegurança, nos termos previstos nos artigos 9.º e 10.º do Decreto-Lei n.º 65/2021, de 30 de julho;\n\nf) Medidas de minimização dos danos e impactos e de reposição da normalidade.\n\n3 - O Secretário-Geral do SSI elabora e divulga orientações para a elaboração dos planos de segurança, mediante parecer das entidades setoriais, das forças e serviços de segurança, da Autoridade Nacional de Emergência e Proteção Civil (ANEPC) e do Centro Nacional de Cibersegurança."
+  },
+  "178350528": {
+   "fragment_id": "178360592",
+   "type": 11,
+   "heading": "Artigo 14.º — Elaboração, aprovação e revisão dos planos de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Elaboração, aprovação e revisão dos planos de segurança\n\n1 - Os operadores das infraestruturas críticas nacionais elaboram o respetivo plano de segurança e submetem-no à aprovação do Secretário-Geral do SSI.\n\n2 - A aprovação do plano de segurança carece dos pareceres, emitidos a pedido do Secretário-Geral do SSI, das forças de segurança territorialmente competentes, da ANEPC, da respectiva entidade setorial e do Centro Nacional de Cibersegurança, bem como de outras entidades com competência em razão da matéria.\n\n3 - As entidades referidas no número anterior podem solicitar a colaboração de outras entidades públicas, bem como efetuar visitas técnicas à infraestrutura crítica para análise das medidas previstas no plano de segurança.\n\n4 - A pedido do operador e mediante parecer das forças de segurança territorialmente competentes, da ANEPC, da respetiva entidade setorial e do Centro Nacional de Cibersegurança, o Secretário-Geral do SSI pode dispensar a elaboração do plano de segurança ou de algum dos seus componentes, caso o respetivo conteúdo se encontre previsto em instrumentos setoriais específicos.\n\n5 - O plano de segurança é elaborado e submetido a aprovação no prazo de um ano após a designação da infraestrutura crítica nacional.\n\n6 - O plano de segurança é revisto no prazo máximo de cinco anos a contar da sua aprovação, ou sempre que se justifique, nomeadamente em caso de:\n\na) Perturbação grave do normal funcionamento da infraestrutura crítica;\n\nb) Alterações significativas na infraestrutura crítica;\n\nc) Existência de novos conhecimentos, resultantes de simulacros e exercícios ou decorrentes da evolução da ciência e da técnica.\n\n7 - Face a circunstâncias excecionais devidamente fundamentadas, o operador pode solicitar ao Secretário-Geral do SSI a prorrogação do prazo de entrega do plano de segurança, sendo o deferimento notificado ao requerente e ao CNPCE."
+  },
+  "178350529": {
+   "fragment_id": "178360593",
+   "type": 11,
+   "heading": "Artigo 15.º — Planos de segurança das infraestruturas críticas europeias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Planos de segurança das infraestruturas críticas europeias\n\n1 - Cada infraestrutura crítica europeia situada em território nacional deve dispor de um plano de segurança.\n\n2 - O plano de segurança das infraestruturas críticas europeias é elaborado e submetido à aprovação do Secretário-Geral do SSI no prazo de um ano após a designação da infraestrutura crítica europeia e revisto no prazo máximo de cinco anos, ou sempre que se justifique.\n\n3 - Face a circunstâncias excecionais devidamente fundamentadas, o operador pode solicitar ao Secretário-Geral do SSI a prorrogação do prazo de entrega do plano de segurança, sendo o deferimento notificado ao requerente, ao CNPCE e à Comissão Europeia.\n\n4 - O disposto no artigo 13.º e nos n.os 1 a 4 do artigo anterior é aplicável aos planos de segurança das infraestruturas críticas europeias."
+  },
+  "178350530": {
+   "fragment_id": "178360594",
+   "type": 11,
+   "heading": "Artigo 16.º — Articulação do plano de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Articulação do plano de segurança\n\nO plano de segurança da infraestrutura crítica articula-se com o plano de proteção e intervenção elaborado pelas forças de segurança territorialmente competentes, com o plano de emergência de proteção civil elaborado pela autoridade de proteção civil territorialmente competente e, quando apropriado, com instrumentos setoriais específicos."
+  },
+  "178350531": {
+   "fragment_id": "178360595",
+   "type": 11,
+   "heading": "Artigo 17.º — Agentes de ligação de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Agentes de ligação de segurança\n\n1 - Os operadores de infraestruturas críticas nacionais ou europeias designam como agente de ligação de segurança uma pessoa responsável pela articulação institucional, ao nível da segurança, entre o operador de uma infraestrutura crítica e as entidades previstas no presente decreto-lei, e comunicam-no ao Secretário-Geral do SSI, à ANEPC, ao Gabinete Nacional de Segurança e à respetiva entidade setorial, no prazo de 10 dias após a designação da infraestrutura crítica nacional.\n\n2 - Ao agente de ligação de segurança compete:\n\na) Assegurar a ligação com o Secretário-Geral do SSI e com as forças de segurança territorialmente competentes para obtenção de informações sobre níveis de ameaça e para comunicação de informações provenientes das infraestruturas críticas do respetivo operador, nomeadamente sobre as situações anómalas que ocorram nas respetivas instalações e que possam ter impacto na segurança das infraestruturas críticas e dos seus trabalhadores;\n\nb) Assegurar a ligação com a ANEPC para obtenção de informações sobre os estados de alerta especial no âmbito do Sistema Integrado de Operações de Proteção e Socorro;\n\nc) Definir e efetuar a gestão da política de segurança da informação classificada, em articulação com o Gabinete Nacional de Segurança.\n\n3 - O Secretário-Geral do SSI deve promover, diretamente ou através dos demais órgãos e entidades que integram o Sistema de Segurança Interna, a troca de informações pertinentes relativas às ameaças e riscos para as infraestruturas críticas com os respetivos agentes de ligação de segurança, sem prejuízo dos regimes do segredo de Estado e do segredo de justiça.\n\n4 - As entidades referidas no número anterior devem facultar aos agentes de ligação de segurança o acesso às melhores práticas e metodologias disponíveis, bem como partilhar informação sobre os avanços científicos e técnicos relacionados com a proteção, segurança e aumento da resiliência das infraestruturas críticas."
+  },
+  "178350532": {
+   "fragment_id": "178360596",
+   "type": 11,
+   "heading": "Artigo 18.º — Elementos de contacto da infraestrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Elementos de contacto da infraestrutura\n\n1 - Os operadores de infraestruturas críticas designam como elemento de contacto da infraestrutura uma pessoa que, relativamente a cada infraestrutura crítica, é responsável pela comunicação com as forças de segurança e os serviços de proteção civil territorialmente competentes, e comunicam-no ao Secretário-Geral do SSI, à ANEPC e às forças de segurança e aos serviços de proteção civil territorialmente competentes, no prazo de 10 dias após a designação da infraestrutura crítica nacional.\n\n2 - Ao elemento de contacto da infraestrutura compete:\n\na) Verificar as condições de proteção e segurança da respetiva infraestrutura crítica e a eficácia dos dispositivos de segurança instalados;\n\nb) Implementar medidas e ações de acordo com o previsto no plano de segurança;\n\nc) Agilizar os contactos e a articulação com as estruturas locais das forças de segurança territorialmente competentes e com os serviços municipais de proteção civil;\n\nd) Comunicar e acompanhar situações de risco que envolvam os trabalhadores ou pessoas com acesso a elementos sensíveis ou críticos da infraestrutura, de acordo com indícios técnicos previamente fixados pelas entidades competentes;\n\ne) Comunicar as situações anómalas registadas nas infraestruturas críticas ou em que estejam envolvidos os seus trabalhadores.\n\n3 - Pode ser designado o mesmo elemento de contacto da infraestrutura para várias infraestruturas críticas, desde que fiquem asseguradas as funções previstas no número anterior, bem como a disponibilidade de contacto em caso de incidente.\n\n4 - Em casos devidamente fundamentados, o agente de ligação de segurança pode constituir-se simultaneamente como elemento de contacto da infraestrutura de uma ou várias infraestruturas críticas, nomeadamente quando a elevada complexidade e dimensão das infraestruturas o recomende ou as funções referidas no n.º 2 requeiram especiais competências e conhecimentos técnicos das infraestruturas e do seu funcionamento."
+  },
+  "178350533": {
+   "fragment_id": "178360597",
+   "type": 11,
+   "heading": "Artigo 19.º — Avaliação de ameaça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Avaliação de ameaça\n\n1 - O Secretário-Geral do SSI, em articulação com as forças e serviços de segurança competentes, procede à avaliação das ameaças que, a cada momento, impendem sobre as infraestruturas críticas e os respetivos setores.\n\n2 - O Secretário-Geral do SSI transmite à Comissão Europeia um resumo bienal de dados gerais sobre os tipos de riscos, ameaças e vulnerabilidades com que se depara cada um dos setores das infraestruturas críticas europeias situadas em território nacional.\n\n3 - Os relatórios referidos no número anterior são classificados com o grau de segurança considerado adequado, nos termos do artigo 5.º"
+  },
+  "178350534": {
+   "fragment_id": "178360598",
+   "type": 11,
+   "heading": "Artigo 20.º — Verificações de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Verificações de segurança\n\n1 - O Secretário-Geral do SSI pode proceder à avaliação da execução do plano de segurança da infraestrutura crítica.\n\n2 - A identificação de medidas e ações a suprir ou a corrigir é notificada ao operador da infraestrutura crítica, assim como do prazo para a sua implementação.\n\n3 - O Secretário-Geral do SSI pode promover, através da Autoridade Nacional de Segurança, realização de verificações de segurança a qualquer pessoa que deva ter acesso às áreas sensíveis e críticas da infraestrutura, até ao grau de reservado, ou a sua credenciação de segurança no grau necessário de confidencial ou superior, exceto quando a mesma já possua uma credenciação de segurança válida no grau igual ou superior ao necessário.\n\n4 - À verificação prevista no número anterior são aplicáveis os critérios constantes do anexo i da Decisão n.º 2013/488/UE, do Conselho, de 23 de setembro de 2003, relativa às regras de segurança aplicáveis à proteção das informações classificadas da União Europeia.\n\n5 - Para os efeitos previstos no n.º 3, os operadores fornecem os dados e informações solicitados pelo Secretário-Geral do SSI.\n\n6 - Caso o Secretário-Geral do SSI conclua pela falta de idoneidade da pessoa sobre a qual recaiu a verificação de segurança, comunica o facto ao agente de ligação de segurança, o qual assegura o não acesso da pessoa a áreas sensíveis ou críticas."
+  },
+  "178350535": {
+   "fragment_id": "178360599",
+   "type": 11,
+   "heading": "Artigo 21.º — Simulacros e exercícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Simulacros e exercícios\n\n1 - O operador deve realizar simulacros de segurança em cada infraestrutura crítica, no mínimo de dois em dois anos, com o envolvimento das forças de segurança e do serviço municipal de proteção civil territorialmente competente, bem como de outras entidades consideradas relevantes para o efeito, visando testar a adequação das medidas e ações constantes dos planos de segurança, assim como dos seus aspetos procedimentais.\n\n2 - O Secretário-Geral do SSI e o CNPCE podem promover a realização de exercícios estratégicos de tomada de decisão, envolvendo os respetivos operadores, as entidades setoriais e outras entidades relevantes em razão da matéria, assim como, quando pertinente, as entidades de outros Estados-Membros da União Europeia."
+  },
+  "178350536": {
+   "fragment_id": "178360600",
+   "type": 11,
+   "heading": "Artigo 22.º — Plataforma de Registo de Informação de Infraestruturas Críticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Plataforma de Registo de Informação de Infraestruturas Críticas\n\n1 - O Secretário-Geral do SSI deve criar e manter atualizada uma Plataforma de Registo de Informação de Infraestruturas Críticas (Plataforma de Registo), acreditada pela Autoridade Nacional de Segurança.\n\n2 - A Plataforma de Registo compreende:\n\na) A catalogação das infraestruturas críticas nacionais ou europeias localizadas em território nacional, incluindo a sua georreferenciação;\n\nb) Os contactos dos agentes de ligação de segurança e dos elementos de contacto da infraestrutura, relativos a cada infraestrutura crítica, nacional ou europeia.\n\n3 - A Plataforma visa facilitar:\n\na) A disponibilização e troca de informação relativas a avaliações de ameaça e de risco;\n\nb) A promoção de medidas, recomendações e boas práticas, destinadas a aumentar a resiliência das infraestruturas críticas;\n\nc) A disponibilização de dados que permitam decidir sobre o planeamento e a priorização das intervenções de reforço da segurança;\n\nd) A monitorização, o registo e a gestão de acidentes e incidentes que sejam considerados relevantes para efeitos do presente decreto-lei.\n\n4 - Os operadores e as entidades que compõem o CNPCE comunicam ao Secretário-Geral do SSI quaisquer informações relevantes para os objetivos da Plataforma de Registo.\n\n5 - Sem prejuízo do disposto no número anterior, é obrigatória a comunicação ao Secretário-Geral do SSI de incidentes de segurança registados nas infraestruturas críticas, nacionais ou europeias.\n\n6 - A Plataforma de Registo operacionaliza o registo central previsto no ponto vi) da alínea c) do n.º 4 da Estratégia Nacional de Combate ao Terrorismo, aprovada pela Resolução do Conselho de Ministros n.º 7-A/2015, de 20 de fevereiro.\n\n7 - O acesso à Plataforma de Registo é realizado preferencialmente mediante autenticação eletrónica através do Cartão de Cidadão ou da Chave Móvel Digital, com recurso ao Sistema de Certificação de Atributos Profissionais."
+  },
+  "178350537": {
+   "fragment_id": "178360601",
+   "type": 11,
+   "heading": "Artigo 23.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Fiscalização\n\nA fiscalização do cumprimento do presente decreto-lei compete ao Secretário-Geral do SSI."
+  },
+  "178350538": {
+   "fragment_id": "178360602",
+   "type": 11,
+   "heading": "Artigo 24.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contraordenações\n\nConstitui contraordenação a violação dos deveres previstos nos n.os 5 e 6 do artigo 14.º, no n.º 2 do artigo 15.º, no n.º 1 do artigo 17.º, no n.º 1 do artigo 18.º e no n.º 1 do artigo 21.º, sancionada com coima de (euro) 2000,00 a (euro) 10 000,00."
+  },
+  "178350539": {
+   "fragment_id": "178360603",
+   "type": 11,
+   "heading": "Artigo 25.º — Processamento e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Processamento e aplicação das coimas\n\n1 - O processamento das contraordenações e a aplicação das coimas compete ao Secretário-Geral do SSI.\n\n2 - O produto das coimas é repartido da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 20 % para o Secretário-Geral do SSI;\n\nc) 20 % para a ANEPC."
+  },
+  "178350540": {
+   "fragment_id": "178360604",
+   "type": 11,
+   "heading": "Artigo 26.º — Pontos de contacto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Pontos de contacto\n\nSão pontos de contacto com a Comissão Europeia para a proteção das infraestruturas críticas europeias:\n\na) O CNPCE, nas matérias relativas à identificação e designação;\n\nb) O Secretário-Geral do SSI, nas matérias relativas à segurança, proteção e resiliência."
+  },
+  "178350541": {
+   "fragment_id": "178360605",
+   "type": 1,
+   "heading": "Capítulo III — Centro de Gestão da Rede Informática do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Centro de Gestão da Rede Informática do Governo"
+  },
+  "178350542": {
+   "fragment_id": "178360606",
+   "type": 11,
+   "heading": "Artigo 27.º — Alteração ao Decreto-Lei n.º 163/2007, de 3 de maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Alteração ao Decreto-Lei n.º 163/2007, de 3 de maio\n\nO artigo 5.º do Decreto-Lei n.º 163/2007, de 3 de maio, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - O número de lugares do quadro do pessoal do CEGER destinado a elementos sem vínculo ao Estado nomeados em regime de comissão de serviço não pode exceder 70 % do número total de lugares providos.\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].»"
+  },
+  "178350543": {
+   "fragment_id": "178360607",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "178350544": {
+   "fragment_id": "178360608",
+   "type": 11,
+   "heading": "Artigo 28.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Disposições transitórias\n\n1 - As designações de infraestruturas críticas nacionais ou europeias efetuadas ao abrigo Decreto-Lei n.º 62/2011, de 9 de maio, mantêm-se válidas.\n\n2 - Os planos de segurança dos operadores, submetidos à apreciação das entidades competentes ao abrigo do Decreto-Lei n.º 62/2011, de 9 de maio, mantêm-se válidos até à concretização do respetivo processo de aprovação nos termos dos artigos 14.º e 15.º\n\n3 - Os planos de segurança dos operadores validados ao abrigo do Decreto-Lei n.º 62/2011, de 9 de maio, mantêm-se válidos até à revisão a operar nos termos previstos no n.º 6 do artigo 14.º e no n.º 2 do artigo 15.º"
+  },
+  "178350545": {
+   "fragment_id": "178360609",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 62/2011, de 9 de maio."
+  },
+  "178350546": {
+   "fragment_id": "178360610",
+   "type": 11,
+   "heading": "Artigo 30.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação."
+  },
+  "178350548": {
+   "fragment_id": "178360612",
+   "type": 14,
+   "heading": "Anexo — [a que se referem as alíneas a) e b) do artigo 3.º e o n.º 1 do artigo 7.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — [a que se referem as alíneas a) e b) do artigo 3.º e o n.º 1 do artigo 7.º]\n\nSetores e subsetores de infraestruturas críticas e respetivas entidades setoriais\n\n(ver documento original)\n\n114951201"
+  },
+  "911627267": {
+   "fragment_id": "178360577",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "### Capítulo I — Disposição geral\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911627268": {
+   "fragment_id": "178360578",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei:\n\na) Estabelece os procedimentos para identificação, designação, proteção e aumento da resiliência das infraestruturas críticas nacionais e europeias, procedendo à consolidação no direito nacional da transposição da Diretiva 2008/114/CE, do Conselho, de 8 de dezembro de 2008;\n\nb) Procede à segunda alteração ao Decreto-Lei n.º 163/2007, de 3 de maio, alterado pelo Decreto-Lei n.º 16/2012, de 26 de janeiro, que aprova a orgânica do Centro de Gestão da Rede Informática do Governo.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911627269": {
+   "fragment_id": "178360579",
+   "type": 1,
+   "heading": "Capítulo II — Procedimentos para identificação, designação, proteção e aumento da resiliência das infraestruturas críticas nacionais e europeias",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "### Capítulo II — Procedimentos para identificação, designação, proteção e aumento da resiliência das infraestruturas críticas nacionais e europeias\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911627270": {
+   "fragment_id": "178360580",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Área de segurança», o espaço físico localizado no interior de uma infraestrutura crítica, dotado de medidas de segurança adequadas ao grau de classificação da informação aí processada e dos sistemas instalados, considerados essenciais para o seu funcionamento;\n\nb) «Entidade setorial», a entidade com funções de regulação, controlo ou fiscalização de cada setor e subsetor relevante;\n\nc) «Informações sensíveis», os factos, dados e informação relacionados com a segurança de uma infraestrutura crítica, que são considerados informação classificada nos termos previstos do artigo 5.º, nomeadamente a sua designação, os respetivos planos de segurança, assim como outros elementos que, se divulgados, podem ser utilizados para planear e agir com o objetivo de provocar a perturbação do funcionamento ou a destruição da infraestrutura crítica;\n\nd) «Infraestrutura crítica», a componente, sistema ou parte deste que é essencial para a manutenção de funções vitais para a sociedade, a saúde, a segurança e o bem-estar económico ou social, e cuja perturbação do funcionamento ou destruição teria um impacto significativo, dada a impossibilidade de continuar a assegurar essas funções;\n\ne) «Infraestrutura crítica europeia», a infraestrutura crítica nacional cuja perturbação do funcionamento ou destruição teria um impacto significativo em, pelo menos, mais um Estado-Membro da União Europeia;\n\nf) «Infraestrutura crítica nacional», a infraestrutura crítica situada em território português cuja perturbação do funcionamento ou destruição teria um impacto significativo à escala nacional;\n\ng) «Operador», o proprietário ou a entidade responsável pelo funcionamento de uma infraestrutura crítica, nacional ou europeia;\n\nh) «Plano de segurança de infraestrutura crítica», o documento, elaborado pelo operador, destinado a identificar os elementos essenciais e as vulnerabilidades da infraestrutura crítica, bem como as medidas e ações a executar para assegurar a sua proteção e aumentar a sua resiliência.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911627271": {
+   "fragment_id": "178360581",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se à identificação, designação, proteção e aumento da resiliência das:\n\na) Infraestruturas críticas nacionais dos setores constantes do seu anexo e do qual faz parte integrante;\n\nb) Infraestruturas críticas europeias dos setores da energia e dos transportes, nos termos do anexo referido na alínea anterior.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911627272": {
+   "fragment_id": "178360582",
+   "type": 11,
+   "heading": "Artigo 4.º — Deveres de proteção e de colaboração",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 4.º — Deveres de proteção e de colaboração\n\n1 - Os operadores devem zelar pela proteção, aumento da resiliência e manutenção das funções e serviços das respetivas infraestruturas críticas.\n\n2 - Sem prejuízo do disposto no número anterior, as entidades setoriais devem, no âmbito das respetivas competências, colaborar com os operadores na proteção, aumento da resiliência e manutenção das funções e serviços das infraestruturas críticas.\n\n3 - As entidades com competências próprias no âmbito do presente decreto-lei devem:\n\na) Colaborar entre si, através da partilha de informações relevantes à proteção e aumento da resiliência das infraestruturas críticas, bem como no procedimento de identificação e de designação das mesmas;\n\nb) Facultar aos operadores, através dos respetivos agentes de ligação de segurança, o acesso às melhores práticas e metodologias disponíveis, bem como, sempre que possível, informação sobre os novos avanços técnicos relacionados com a proteção das infraestruturas críticas.\n\n4 - Caso os operadores estejam sujeitos a deveres especiais de proteção, previstos em legislação setorial nacional ou europeia, que tenham, pelo menos, efeitos equivalentes às obrigações previstas no presente decreto-lei, o seu cumprimento substitui os deveres de proteção previstos no presente decreto-lei.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911627273": {
+   "fragment_id": "178360583",
+   "type": 11,
+   "heading": "Artigo 5.º — Informações sensíveis",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 5.º — Informações sensíveis\n\n1 - As informações sensíveis relacionadas com a designação, a proteção e o aumento da resiliência das infraestruturas críticas são objeto de classificação de segurança, nos termos da legislação sobre informação classificada.\n\n2 - Sem prejuízo do disposto no número anterior, a designação das infraestruturas críticas, nacionais ou europeias, tem o grau de classificação de segurança mínimo de «reservado».\n\n3 - Os agentes de ligação de segurança, os elementos de contacto da infraestrutura e as demais pessoas que, por força do presente decreto-lei, tratem informação classificada, são sujeitos a um processo de credenciação de segurança, no grau adequado, pela Autoridade Nacional de Segurança.\n\n4 - As entidades envolvidas na execução do presente decreto-lei asseguram o cumprimento dos normativos aplicáveis à proteção e ao manuseamento da informação classificada e que as informações classificadas referidas no n.º 1 não são utilizadas para fins distintos da proteção das infraestruturas críticas.\n\n5 - O disposto no presente artigo aplica-se igualmente às informações não escritas trocadas durante reuniões em que sejam debatidos assuntos sensíveis.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911627274": {
+   "fragment_id": "178360584",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 6.º — Competência\n\n1 - A identificação e a designação das infraestruturas críticas são efetuadas pelo Conselho Nacional de Planeamento Civil de Emergência (CNPCE).\n\n2 - O CNPCE aprova, igualmente, os critérios de identificação das infraestruturas críticas, mediante proposta das respetivas entidades setoriais.\n\n3 - O CNPCE pode solicitar parecer a outras entidades que considere relevantes, para efeitos do disposto no número anterior.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628075": {
+   "fragment_id": "178360585",
+   "type": 11,
+   "heading": "Artigo 7.º — Entidades setoriais",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 7.º — Entidades setoriais\n\n1 - As entidades setoriais são identificadas no anexo ao presente decreto-lei e do qual faz parte integrante.\n\n2 - As entidades setoriais podem solicitar a colaboração de outras entidades consideradas relevantes, no âmbito das respetivas atribuições.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628076": {
+   "fragment_id": "178360586",
+   "type": 11,
+   "heading": "Artigo 8.º — Identificação das infraestruturas críticas nacionais",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 8.º — Identificação das infraestruturas críticas nacionais\n\n1 - As entidades setoriais elaboram uma lista das infraestruturas do respetivo setor com potencial para serem designadas como infraestruturas críticas nacionais, efetuando uma apreciação qualitativa das consequências provocadas pela inoperacionalidade de cada infraestrutura, nomeadamente:\n\na) O impacto económico, estimado em termos de importância dos prejuízos económicos e da degradação de bens ou serviços, incluindo também os potenciais efeitos ambientais;\n\nb) O impacto na sociedade, avaliado em termos de impacto na soberania nacional, na confiança das populações e na perturbação da vida quotidiana, incluindo a perda de serviços essenciais;\n\nc) A possibilidade de ocorrência de acidentes, avaliada em termos de número potencial de feridos ou vítimas mortais.\n\n2 - As entidades setoriais selecionam as infraestruturas que, constando da lista referida no número anterior, consideram dever ser designadas como críticas no respetivo setor, aplicando os critérios de identificação fixados pelo CNPCE, tendo em especial consideração:\n\na) O tipo de bens produzidos ou serviços prestados pela infraestrutura crítica;\n\nb) As alternativas disponíveis no fornecimento dos bens produzidos ou serviços prestados pela infraestrutura crítica;\n\nc) A população e área geográfica afetada por uma eventual perturbação do funcionamento ou destruição da infraestrutura crítica;\n\nd) A duração de uma eventual perturbação do funcionamento da infraestrutura crítica e o tempo previsível para a sua recuperação.\n\n3 - Com base na seleção referida no número anterior, as entidades setoriais ordenam as infraestruturas críticas do respetivo setor e submetem ao CNPCE uma proposta fundamentada quanto às que devem ser identificadas como infraestruturas críticas nacionais.\n\n4 - O CNPCE avalia a proposta das entidades setoriais e aprova a identificação das infraestruturas críticas nacionais em cada setor.\n\n5 - O CNPCE pode identificar infraestruturas críticas diferentes das propostas pelas entidades setoriais quando:\n\na) Seja detentor de indicadores distintos dos aplicados pelas entidades setoriais;\n\nb) Sejam conexas com outras infraestruturas críticas nacionais, do mesmo ou de outro setor, nomeadamente por as poderem afetar em caso de perturbação do funcionamento ou destruição.\n\n6 - O CNPCE comunica a identificação de uma infraestrutura crítica nacional ao respetivo operador, notificando-o para, querendo, se pronunciar sobre a referida identificação, fixando um prazo não inferior a dez dias para o efeito.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628077": {
+   "fragment_id": "178360587",
+   "type": 11,
+   "heading": "Artigo 9.º — Designação das infraestruturas críticas nacionais",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 9.º — Designação das infraestruturas críticas nacionais\n\n1 - O CNPCE procede à designação das infraestruturas críticas nacionais e notifica-a ao operador, dando conhecimento à respetiva entidade setorial, ao Secretário-Geral do Sistema de Segurança Interna (SSI) e ao presidente da Câmara Municipal territorialmente competente.\n\n2 - A designação prevista no número anterior pode ser alterada ou revogada pelo CNPCE, na sequência de proposta fundamentada:\n\na) Da respetiva entidade setorial;\n\nb) Do operador, com a concordância da respetiva entidade setorial.\n\n3 - No caso previsto no número anterior, a alteração ou revogação são notificadas ao operador, sendo dado conhecimento à respetiva entidade setorial, ao Secretário-Geral do SSI e aos presidentes das Câmaras Municipais territorialmente competentes.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628078": {
+   "fragment_id": "178360588",
+   "type": 11,
+   "heading": "Artigo 10.º — Identificação de infraestruturas críticas europeias",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 10.º — Identificação de infraestruturas críticas europeias\n\n1 - As entidades setoriais selecionam, com base nos critérios previstos nos n.os 1 e 2 do artigo 8.º, as infraestruturas críticas nacionais com potencial para serem designadas como infraestruturas críticas europeias.\n\n2 - As entidades setoriais submetem ao CNPCE uma proposta fundamentada quanto às infraestruturas críticas nacionais que devem também ser identificadas como infraestruturas críticas europeias.\n\n3 - Sem prejuízo do disposto nos números anteriores, o CNPCE pode identificar infraestruturas críticas nacionais diferentes das propostas pelas entidades setoriais para serem designadas como infraestrutura crítica europeia quando verificar que aquelas apresentam as características e requisitos necessários ou quando sejam propostas pela Comissão Europeia ou por outro Estado-Membro da União Europeia.\n\n4 - O CNPCE comunica a identificação de uma potencial infraestrutura crítica europeia ao respetivo operador, notificando-o para, querendo, se pronunciar sobre a referida identificação, fixando um prazo não inferior a 10 dias para o efeito.\n\n5 - O CNPCE pode solicitar a colaboração da Comissão Europeia ou de outros Estados-Membros da União Europeia na identificação das infraestruturas críticas europeias ou na avaliação do impacto, nos respetivos territórios, da sua perturbação do funcionamento ou destruição.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628079": {
+   "fragment_id": "178360589",
+   "type": 11,
+   "heading": "Artigo 11.º — Designação de infraestruturas críticas europeias",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 11.º — Designação de infraestruturas críticas europeias\n\n1 - O CNPCE informa a entidade congénere do Estado-Membro da União Europeia suscetível de ser afetado pela perturbação do funcionamento ou destruição da potencial infraestrutura crítica europeia, identificando a infraestrutura em causa e expondo os motivos para a sua eventual designação, solicitando o seu acordo.\n\n2 - Para efeitos do disposto no número anterior, o CNPCE pode solicitar o apoio técnico ou diplomático de outras entidades nacionais.\n\n3 - O CNPCE procede à designação da infraestrutura crítica europeia após ter obtido o acordo referido no n.º 1.\n\n4 - A designação prevista no número anterior pode ser alterada ou revogada pelo CNPCE, oficiosamente ou mediante proposta fundamentada da respetiva entidade setorial ou do operador, com a concordância da respetiva entidade setorial, na sequência da:\n\na) Alteração ou revogação da designação da infraestrutura como infraestrutura crítica nacional;\n\nb) Cessação dos pressupostos que conduziram à identificação da infraestrutura como infraestrutura crítica europeia;\n\nc) Cessação do acordo referido no n.º 1.\n\n5 - Para efeitos do disposto na alínea b) do número anterior, o CNPCE deve obter o acordo das entidades congéneres dos Estados-Membros da União Europeia que possam ser afetados de forma significativa pela infraestrutura crítica europeia em questão.\n\n6 - O CNPCE:\n\na) Notifica o operador da infraestrutura, dando conhecimento à respetiva entidade setorial, ao Secretário-Geral do SSI e aos presidentes das Câmaras Municipais territorialmente competentes da designação da infraestrutura como infraestrutura crítica europeia, bem como da eventual alteração ou revogação dessa designação;\n\nb) Informa anualmente a Comissão Europeia do número e identidade das infraestruturas críticas europeias designadas em cada sector e subsetor, bem como do número de Estados-Membros da União Europeia relacionados com cada infraestrutura crítica europeia.\n\n7 - A identidade de uma infraestrutura crítica europeia apenas deve ser do conhecimento da Comissão Europeia e dos Estados-Membros da União Europeia que por ela possam ser afetados de forma significativa.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628080": {
+   "fragment_id": "178360590",
+   "type": 11,
+   "heading": "Artigo 12.º — Iniciativa de designação por outro Estado-Membro",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 12.º — Iniciativa de designação por outro Estado-Membro\n\nO CNPCE pode informar a Comissão Europeia de que pretende iniciar debates bilaterais ou multilaterais sobre a designação de uma infraestrutura localizada noutro Estado-Membro da União Europeia como infraestrutura crítica europeia, caso considere que o Estado português pode por ela ser afetado de forma significativa e o Estado-Membro em cujo território se situe não a tenha designado como infraestrutura crítica europeia.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628081": {
+   "fragment_id": "178360591",
+   "type": 11,
+   "heading": "Artigo 13.º — Planos de segurança das infraestruturas críticas nacionais",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 13.º — Planos de segurança das infraestruturas críticas nacionais\n\n1 - Cada infraestrutura crítica nacional deve dispor de um plano de segurança, o qual inclui:\n\na) A identificação dos elementos críticos;\n\nb) A delimitação das áreas de segurança;\n\nc) Uma análise do risco baseada em cenários de ameaça grave, na vulnerabilidade de cada elemento e nos impactos potenciais;\n\nd) A identificação, seleção e prioridade de contramedidas e procedimentos de segurança permanentes;\n\ne) A identificação, seleção e prioridade de contramedidas e procedimentos de segurança progressivos a ativar consoante o grau de ameaça aplicável ou o estado de segurança decretado.\n\n2 - As contramedidas e procedimentos de segurança permanentes previstos na alínea d) do número anterior incluem:\n\na) A instalação de equipamentos de deteção, controlo de acesso, proteção e prevenção, sem prejuízo do cumprimento das normas relativas à segurança física e digital da informação classificada;\n\nb) Procedimentos de alerta e gestão de crises;\n\nc) Normas de controlo de acesso e de verificação de segurança;\n\nd) Ações de comunicação, sensibilização e formação;\n\ne) Soluções em matéria de cibersegurança, nos termos previstos nos artigos 9.º e 10.º do Decreto-Lei n.º 65/2021, de 30 de julho;\n\nf) Medidas de minimização dos danos e impactos e de reposição da normalidade.\n\n3 - O Secretário-Geral do SSI elabora e divulga orientações para a elaboração dos planos de segurança, mediante parecer das entidades setoriais, das forças e serviços de segurança, da Autoridade Nacional de Emergência e Proteção Civil (ANEPC) e do Centro Nacional de Cibersegurança.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628082": {
+   "fragment_id": "178360592",
+   "type": 11,
+   "heading": "Artigo 14.º — Elaboração, aprovação e revisão dos planos de segurança",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 14.º — Elaboração, aprovação e revisão dos planos de segurança\n\n1 - Os operadores das infraestruturas críticas nacionais elaboram o respetivo plano de segurança e submetem-no à aprovação do Secretário-Geral do SSI.\n\n2 - A aprovação do plano de segurança carece dos pareceres, emitidos a pedido do Secretário-Geral do SSI, das forças de segurança territorialmente competentes, da ANEPC, da respectiva entidade setorial e do Centro Nacional de Cibersegurança, bem como de outras entidades com competência em razão da matéria.\n\n3 - As entidades referidas no número anterior podem solicitar a colaboração de outras entidades públicas, bem como efetuar visitas técnicas à infraestrutura crítica para análise das medidas previstas no plano de segurança.\n\n4 - A pedido do operador e mediante parecer das forças de segurança territorialmente competentes, da ANEPC, da respetiva entidade setorial e do Centro Nacional de Cibersegurança, o Secretário-Geral do SSI pode dispensar a elaboração do plano de segurança ou de algum dos seus componentes, caso o respetivo conteúdo se encontre previsto em instrumentos setoriais específicos.\n\n5 - O plano de segurança é elaborado e submetido a aprovação no prazo de um ano após a designação da infraestrutura crítica nacional.\n\n6 - O plano de segurança é revisto no prazo máximo de cinco anos a contar da sua aprovação, ou sempre que se justifique, nomeadamente em caso de:\n\na) Perturbação grave do normal funcionamento da infraestrutura crítica;\n\nb) Alterações significativas na infraestrutura crítica;\n\nc) Existência de novos conhecimentos, resultantes de simulacros e exercícios ou decorrentes da evolução da ciência e da técnica.\n\n7 - Face a circunstâncias excecionais devidamente fundamentadas, o operador pode solicitar ao Secretário-Geral do SSI a prorrogação do prazo de entrega do plano de segurança, sendo o deferimento notificado ao requerente e ao CNPCE.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628083": {
+   "fragment_id": "178360593",
+   "type": 11,
+   "heading": "Artigo 15.º — Planos de segurança das infraestruturas críticas europeias",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 15.º — Planos de segurança das infraestruturas críticas europeias\n\n1 - Cada infraestrutura crítica europeia situada em território nacional deve dispor de um plano de segurança.\n\n2 - O plano de segurança das infraestruturas críticas europeias é elaborado e submetido à aprovação do Secretário-Geral do SSI no prazo de um ano após a designação da infraestrutura crítica europeia e revisto no prazo máximo de cinco anos, ou sempre que se justifique.\n\n3 - Face a circunstâncias excecionais devidamente fundamentadas, o operador pode solicitar ao Secretário-Geral do SSI a prorrogação do prazo de entrega do plano de segurança, sendo o deferimento notificado ao requerente, ao CNPCE e à Comissão Europeia.\n\n4 - O disposto no artigo 13.º e nos n.os 1 a 4 do artigo anterior é aplicável aos planos de segurança das infraestruturas críticas europeias.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628084": {
+   "fragment_id": "178360594",
+   "type": 11,
+   "heading": "Artigo 16.º — Articulação do plano de segurança",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 16.º — Articulação do plano de segurança\n\nO plano de segurança da infraestrutura crítica articula-se com o plano de proteção e intervenção elaborado pelas forças de segurança territorialmente competentes, com o plano de emergência de proteção civil elaborado pela autoridade de proteção civil territorialmente competente e, quando apropriado, com instrumentos setoriais específicos.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628085": {
+   "fragment_id": "178360595",
+   "type": 11,
+   "heading": "Artigo 17.º — Agentes de ligação de segurança",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 17.º — Agentes de ligação de segurança\n\n1 - Os operadores de infraestruturas críticas nacionais ou europeias designam como agente de ligação de segurança uma pessoa responsável pela articulação institucional, ao nível da segurança, entre o operador de uma infraestrutura crítica e as entidades previstas no presente decreto-lei, e comunicam-no ao Secretário-Geral do SSI, à ANEPC, ao Gabinete Nacional de Segurança e à respetiva entidade setorial, no prazo de 10 dias após a designação da infraestrutura crítica nacional.\n\n2 - Ao agente de ligação de segurança compete:\n\na) Assegurar a ligação com o Secretário-Geral do SSI e com as forças de segurança territorialmente competentes para obtenção de informações sobre níveis de ameaça e para comunicação de informações provenientes das infraestruturas críticas do respetivo operador, nomeadamente sobre as situações anómalas que ocorram nas respetivas instalações e que possam ter impacto na segurança das infraestruturas críticas e dos seus trabalhadores;\n\nb) Assegurar a ligação com a ANEPC para obtenção de informações sobre os estados de alerta especial no âmbito do Sistema Integrado de Operações de Proteção e Socorro;\n\nc) Definir e efetuar a gestão da política de segurança da informação classificada, em articulação com o Gabinete Nacional de Segurança.\n\n3 - O Secretário-Geral do SSI deve promover, diretamente ou através dos demais órgãos e entidades que integram o Sistema de Segurança Interna, a troca de informações pertinentes relativas às ameaças e riscos para as infraestruturas críticas com os respetivos agentes de ligação de segurança, sem prejuízo dos regimes do segredo de Estado e do segredo de justiça.\n\n4 - As entidades referidas no número anterior devem facultar aos agentes de ligação de segurança o acesso às melhores práticas e metodologias disponíveis, bem como partilhar informação sobre os avanços científicos e técnicos relacionados com a proteção, segurança e aumento da resiliência das infraestruturas críticas.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628086": {
+   "fragment_id": "178360596",
+   "type": 11,
+   "heading": "Artigo 18.º — Elementos de contacto da infraestrutura",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 18.º — Elementos de contacto da infraestrutura\n\n1 - Os operadores de infraestruturas críticas designam como elemento de contacto da infraestrutura uma pessoa que, relativamente a cada infraestrutura crítica, é responsável pela comunicação com as forças de segurança e os serviços de proteção civil territorialmente competentes, e comunicam-no ao Secretário-Geral do SSI, à ANEPC e às forças de segurança e aos serviços de proteção civil territorialmente competentes, no prazo de 10 dias após a designação da infraestrutura crítica nacional.\n\n2 - Ao elemento de contacto da infraestrutura compete:\n\na) Verificar as condições de proteção e segurança da respetiva infraestrutura crítica e a eficácia dos dispositivos de segurança instalados;\n\nb) Implementar medidas e ações de acordo com o previsto no plano de segurança;\n\nc) Agilizar os contactos e a articulação com as estruturas locais das forças de segurança territorialmente competentes e com os serviços municipais de proteção civil;\n\nd) Comunicar e acompanhar situações de risco que envolvam os trabalhadores ou pessoas com acesso a elementos sensíveis ou críticos da infraestrutura, de acordo com indícios técnicos previamente fixados pelas entidades competentes;\n\ne) Comunicar as situações anómalas registadas nas infraestruturas críticas ou em que estejam envolvidos os seus trabalhadores.\n\n3 - Pode ser designado o mesmo elemento de contacto da infraestrutura para várias infraestruturas críticas, desde que fiquem asseguradas as funções previstas no número anterior, bem como a disponibilidade de contacto em caso de incidente.\n\n4 - Em casos devidamente fundamentados, o agente de ligação de segurança pode constituir-se simultaneamente como elemento de contacto da infraestrutura de uma ou várias infraestruturas críticas, nomeadamente quando a elevada complexidade e dimensão das infraestruturas o recomende ou as funções referidas no n.º 2 requeiram especiais competências e conhecimentos técnicos das infraestruturas e do seu funcionamento.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628087": {
+   "fragment_id": "178360597",
+   "type": 11,
+   "heading": "Artigo 19.º — Avaliação de ameaça",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 19.º — Avaliação de ameaça\n\n1 - O Secretário-Geral do SSI, em articulação com as forças e serviços de segurança competentes, procede à avaliação das ameaças que, a cada momento, impendem sobre as infraestruturas críticas e os respetivos setores.\n\n2 - O Secretário-Geral do SSI transmite à Comissão Europeia um resumo bienal de dados gerais sobre os tipos de riscos, ameaças e vulnerabilidades com que se depara cada um dos setores das infraestruturas críticas europeias situadas em território nacional.\n\n3 - Os relatórios referidos no número anterior são classificados com o grau de segurança considerado adequado, nos termos do artigo 5.º\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628088": {
+   "fragment_id": "178360598",
+   "type": 11,
+   "heading": "Artigo 20.º — Verificações de segurança",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 20.º — Verificações de segurança\n\n1 - O Secretário-Geral do SSI pode proceder à avaliação da execução do plano de segurança da infraestrutura crítica.\n\n2 - A identificação de medidas e ações a suprir ou a corrigir é notificada ao operador da infraestrutura crítica, assim como do prazo para a sua implementação.\n\n3 - O Secretário-Geral do SSI pode promover, através da Autoridade Nacional de Segurança, realização de verificações de segurança a qualquer pessoa que deva ter acesso às áreas sensíveis e críticas da infraestrutura, até ao grau de reservado, ou a sua credenciação de segurança no grau necessário de confidencial ou superior, exceto quando a mesma já possua uma credenciação de segurança válida no grau igual ou superior ao necessário.\n\n4 - À verificação prevista no número anterior são aplicáveis os critérios constantes do anexo i da Decisão n.º 2013/488/UE, do Conselho, de 23 de setembro de 2003, relativa às regras de segurança aplicáveis à proteção das informações classificadas da União Europeia.\n\n5 - Para os efeitos previstos no n.º 3, os operadores fornecem os dados e informações solicitados pelo Secretário-Geral do SSI.\n\n6 - Caso o Secretário-Geral do SSI conclua pela falta de idoneidade da pessoa sobre a qual recaiu a verificação de segurança, comunica o facto ao agente de ligação de segurança, o qual assegura o não acesso da pessoa a áreas sensíveis ou críticas.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628089": {
+   "fragment_id": "178360599",
+   "type": 11,
+   "heading": "Artigo 21.º — Simulacros e exercícios",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 21.º — Simulacros e exercícios\n\n1 - O operador deve realizar simulacros de segurança em cada infraestrutura crítica, no mínimo de dois em dois anos, com o envolvimento das forças de segurança e do serviço municipal de proteção civil territorialmente competente, bem como de outras entidades consideradas relevantes para o efeito, visando testar a adequação das medidas e ações constantes dos planos de segurança, assim como dos seus aspetos procedimentais.\n\n2 - O Secretário-Geral do SSI e o CNPCE podem promover a realização de exercícios estratégicos de tomada de decisão, envolvendo os respetivos operadores, as entidades setoriais e outras entidades relevantes em razão da matéria, assim como, quando pertinente, as entidades de outros Estados-Membros da União Europeia.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628090": {
+   "fragment_id": "178360600",
+   "type": 11,
+   "heading": "Artigo 22.º — Plataforma de Registo de Informação de Infraestruturas Críticas",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 22.º — Plataforma de Registo de Informação de Infraestruturas Críticas\n\n1 - O Secretário-Geral do SSI deve criar e manter atualizada uma Plataforma de Registo de Informação de Infraestruturas Críticas (Plataforma de Registo), acreditada pela Autoridade Nacional de Segurança.\n\n2 - A Plataforma de Registo compreende:\n\na) A catalogação das infraestruturas críticas nacionais ou europeias localizadas em território nacional, incluindo a sua georreferenciação;\n\nb) Os contactos dos agentes de ligação de segurança e dos elementos de contacto da infraestrutura, relativos a cada infraestrutura crítica, nacional ou europeia.\n\n3 - A Plataforma visa facilitar:\n\na) A disponibilização e troca de informação relativas a avaliações de ameaça e de risco;\n\nb) A promoção de medidas, recomendações e boas práticas, destinadas a aumentar a resiliência das infraestruturas críticas;\n\nc) A disponibilização de dados que permitam decidir sobre o planeamento e a priorização das intervenções de reforço da segurança;\n\nd) A monitorização, o registo e a gestão de acidentes e incidentes que sejam considerados relevantes para efeitos do presente decreto-lei.\n\n4 - Os operadores e as entidades que compõem o CNPCE comunicam ao Secretário-Geral do SSI quaisquer informações relevantes para os objetivos da Plataforma de Registo.\n\n5 - Sem prejuízo do disposto no número anterior, é obrigatória a comunicação ao Secretário-Geral do SSI de incidentes de segurança registados nas infraestruturas críticas, nacionais ou europeias.\n\n6 - A Plataforma de Registo operacionaliza o registo central previsto no ponto vi) da alínea c) do n.º 4 da Estratégia Nacional de Combate ao Terrorismo, aprovada pela Resolução do Conselho de Ministros n.º 7-A/2015, de 20 de fevereiro.\n\n7 - O acesso à Plataforma de Registo é realizado preferencialmente mediante autenticação eletrónica através do Cartão de Cidadão ou da Chave Móvel Digital, com recurso ao Sistema de Certificação de Atributos Profissionais.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628091": {
+   "fragment_id": "178360601",
+   "type": 11,
+   "heading": "Artigo 23.º — Fiscalização",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 23.º — Fiscalização\n\nA fiscalização do cumprimento do presente decreto-lei compete ao Secretário-Geral do SSI.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628092": {
+   "fragment_id": "178360602",
+   "type": 11,
+   "heading": "Artigo 24.º — Contraordenações",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 24.º — Contraordenações\n\nConstitui contraordenação a violação dos deveres previstos nos n.os 5 e 6 do artigo 14.º, no n.º 2 do artigo 15.º, no n.º 1 do artigo 17.º, no n.º 1 do artigo 18.º e no n.º 1 do artigo 21.º, sancionada com coima de (euro) 2000,00 a (euro) 10 000,00.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628093": {
+   "fragment_id": "178360603",
+   "type": 11,
+   "heading": "Artigo 25.º — Processamento e aplicação das coimas",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 25.º — Processamento e aplicação das coimas\n\n1 - O processamento das contraordenações e a aplicação das coimas compete ao Secretário-Geral do SSI.\n\n2 - O produto das coimas é repartido da seguinte forma:\n\na) 60 % para o Estado;\n\nb) 20 % para o Secretário-Geral do SSI;\n\nc) 20 % para a ANEPC.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "911628094": {
+   "fragment_id": "178360604",
+   "type": 11,
+   "heading": "Artigo 26.º — Pontos de contacto",
+   "in_force_from": "2025-03-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+   ],
+   "markdown": "###### Artigo 26.º — Pontos de contacto\n\nSão pontos de contacto com a Comissão Europeia para a proteção das infraestruturas críticas europeias:\n\na) O CNPCE, nas matérias relativas à identificação e designação;\n\nb) O Secretário-Geral do SSI, nas matérias relativas à segurança, proteção e resiliência.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 22/2025 - Diário da República n.º 55/2025, Série I de 2025-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2025-911488699), em vigor a partir de 2025-03-24"
+  },
+  "178350547": {
+   "fragment_id": "178360611",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de janeiro de 2022. - Pedro Gramaxo de Carvalho Siza Vieira - Pedro Gramaxo de Carvalho Siza Vieira - Augusto Ernesto Santos Silva - Mariana Guimarães Vieira da Silva - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Marta Alexandra Fartura Braga Temido de Almeida Simões - João Pedro Soeiro de Matos Fernandes - Jorge Moreno Delgado - Maria do Céu de Oliveira Antunes.\n\nPromulgado em 26 de janeiro de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de janeiro de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

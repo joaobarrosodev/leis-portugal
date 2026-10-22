@@ -1,0 +1,187 @@
+---
+schema_version: '1.0'
+id: pt:dre:292123:por
+title: Despacho Normativo n.º 122/92
+short_title: null
+summary: Aprova o Regulamento de Estágios do Instituto do Emprego e Formação Profissional para ingresso nas carreiras de pessoal
+  técnico superior e de pessoal técnico
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 122/92
+official_date: null
+publication_date: '1992-07-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 164/1992, Série I-B de 1992-07-18
+  number: '164'
+  series: I
+  supplement: null
+  pages: 3366 - 3368
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/07/164b00/33663368.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/122/1992/07/18/p/dre/pt/html
+  oj: null
+  dre: '292123'
+  dre_path: /dr/detalhe/despacho-normativo/122-1992-292123
+  internal: pt:dre:292123:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/122-1992-292123
+  metadata_url: https://data.dre.pt/eli/despnorm/122/1992/07/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/122-1992-292123
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-07-18T00:00:00Z'
+integrity:
+  source_sha256: 31678e4a7cdd20c92acd4a8185a242724ac62761e50355c9acffbf0a82223a37
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-122-292123.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto do Emprego e Formação Profissional
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Estágio de Formação
+- Regulamento de Estágio
+relationships: []
+article_structure:
+  article_count: 14
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 122/92
+
+Considerando o disposto nos n.os 9 e 10 do artigo 26.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, bem como o estabelecido no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, determina-se o seguinte:
+
+1 - É aprovado o Regulamento de Estágios do Instituto do Emprego e Formação Profissional para ingresso nas carreiras de pessoal técnico superior e de pessoal técnico, tendo em vista o provimento definitivo nas respectivas carreiras.
+
+2 - O Regulamento, anexo a este despacho e que dele faz parte integrante, entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério do Emprego e da Segurança Social, 16 de Junho de 1992. - O Secretário de Estado do Emprego e Formação Profissional, António Morgado Pinto Cardoso.
+
+## ANEXO — Regulamento de Estágios do Instituto do Emprego e Formação Profissional
+
+### CAPÍTULO I — Âmbito de aplicação e objectivos do estágio
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se a todos os estagiários para ingresso nas carreiras técnica superior e técnica do quadro de pessoal do Instituto do Emprego e Formação Profissional.
+
+###### Artigo 2.º — Objectivos do estágio
+
+O estágio tem por fim transmitir aos estagiários os conhecimentos necessários à sua preparação e formação para o desempenho do cargo para que foram recrutados.
+
+### CAPÍTULO II — Plano dos estágios
+
+###### Artigo 3.º — Competência
+
+Compete à Direcção de Serviços de Formação do Departamento dos Recursos Humanos do Instituto do Emprego e Formação Profissional a organização e elaboração do plano dos estágios.
+
+###### Artigo 4.º — Duração do estágio
+
+O estágio terá a duração de 12 meses.
+
+###### Artigo 5.º — Júri do estádio
+
+1 - O júri do estágio é constituído por um presidente, dois vogais efectivos e dois vogais suplentes, nomeados para o efeito pela comissão executiva do Instituto do Emprego e Formação Profissional.
+
+2 - O júri integrará sempre, pelo menos um elemento da Direcção de Serviços de Formação do Departamento dos Recursos Humanos do Instituto do Emprego e Formação Profissional.
+
+###### Artigo 6.º — Programas do estágio
+
+1 - O programa do estágio englobará uma fase de sensibilização e outra teórico-prática.
+
+2 - A fase de sensibilização destina-se sobretudo a transmitir aos estagiários uma ideia global dos serviços e, bem assim, do seu funcionamento e das atribuições que lhes são inerentes.
+
+3 - A fase teórico-prática tem por fim adaptar os estagiários à função, proporcionando-lhes uma visão detalhada das acções a desenvolver, das metodologias de trabalho aconselháveis e da própria articulação com os demais serviços do Instituto do Emprego e Formação Profissional e outros.
+
+4 - A organização do programa será coordenada pela Direcção de Serviços de Formação do Departamento dos Recursos Humanos do Instituto do Emprego e Formação Profissional, competindo aos responsáveis dos serviços onde serão colocados os estagiários a apresentação das propostas dos projectos dos programas a desenvolver.
+
+###### Artigo 7.º — Matéria do estágio
+
+A matéria do etágio abrangerá toda a área funcional para a qual o concurso foi aberto.
+
+###### Artigo 8.º — Coordenação, e orientação do estágio
+
+1 - É atribuição do júri nomeado para o efeito a coordenação do estágio, em colaboração com os responsáveis pelos serviços matiz serão colocados os estagiários.
+
+2 - Aos responsáveis pelos serviços onde os estagiários desenvolverão as suas actividades caberá a orientação do estágio, fornecer-lhes as informações adequadas, proceder às devidas correcções, avaliar os resultados decorrentes e atribuir-lhes a respectiva classificação.
+
+3 - Emitidos pareceres pelos responsáveis dos serviços em questão, é da competência exclusiva do júri a atribuição da classificação final.
+
+###### Artigo 9.º — Frequência do estádio
+
+1 - Os estagiários não podem exceder um número de ausências de 12 dias interpolados em cada período de seis meses de estágio.
+
+2 - Os dias de ausência por gozo de férias a que o funcionário tiver direito não entram no cômputo das ausências referidas o número anterior.
+
+###### Artigo 10.º — Relatório do estágio
+
+1 - No prazo de 10 dias úteis a contar do final do estágio, cada estagiário procederá à apresentação ao júri do respectivo relatório, que versará essencialmente os temas abordadas no decorrer do estágio.
+
+2 - O relatório é apreciado pelo júri que o discutirá com o estagiário, tendo em vista avaliar a experiência e conhecimentos profissionais adquiridos.
+
+3 - A pontuação do relatório atribuída vai de 0 a 20 valores.
+
+4 - O júri considerará como factores de ponderação obrigatória na avaliação do relatório do estágio a apresentação, a forma clara e correcta de expor, a capacidade de apreensão, análise e síntese, o seu conteúdo e estruturação, bem como a capacidade e facilidade de argumentação e discussão oral e escrita.
+
+### CAPÍTULO III — Avaliação e classificação final
+
+###### Artigo 11.º — Factores de avaliação
+
+Na avaliação e classificação final será tomado em consideração o relatório apresentado pelo estagiário e a classificação obtida durante o decurso do período do estágio.
+
+###### Artigo 12.º — Classificação final
+
+1 - Nos termos do disposto na alínea b) do n.º 3 do artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, será atribuída uma classificação final.
+
+2 - A classificação final a atribuir estará de acordo com as regras previstas na lei geral.
+
+3 - Compete ao júri estabelecer critérios de desempate sempre que se verifique igualdade de classificação final.
+
+###### Artigo 13.º — Ordenação final
+
+1 - A nota final obtida é o resultado da média aritmética simples ou ponderada das notas obtidas na classificação e no relatório de estágio.
+
+2 - Os estagiários são ordenados pelo júri de acordo com a classificação final do estágio, não se considerando aprovados os que tiverem classificação inferior a Bom (14 valores).
+
+###### Artigo 14.º — Homologação, publicitação e recurso da lista de classificação final
+
+Em matéria de homologação, publicitação e recurso da lista de classificação final aplicam-se as regras previstas sobre o assunto no [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.

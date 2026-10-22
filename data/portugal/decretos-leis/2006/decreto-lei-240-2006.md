@@ -1,0 +1,213 @@
+---
+schema_version: '1.0'
+id: pt:dre:552290:por
+title: Decreto-Lei n.º 240/2006
+short_title: null
+summary: Estabelece as regras a que deve obedecer o arredondamento da taxa de juro quando aplicada aos contratos de crédito
+  para aquisição, construção e realização de obras em habitação própria permanente, secundária ou para arrendamento e para
+  aquisição de terrenos para construção de habitação própria celebrados entre as instituições de crédito e os seus clientes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 240/2006
+official_date: null
+publication_date: '2006-12-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 245/2006, Série I de 2006-12-22
+  number: '245'
+  series: I
+  supplement: null
+  pages: 8537 - 8539
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/12/24500/85378539.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/240/2006/12/22/p/dre/pt/html
+  oj: null
+  dre: '552290'
+  dre_path: /dr/detalhe/decreto-lei/240-2006-552290
+  internal: pt:dre:552290:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2006-552290
+  metadata_url: https://data.dre.pt/eli/dec-lei/240/2006/12/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2006-552290
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-06-23T00:00:00Z'
+integrity:
+  source_sha256: 0c5be9a5123af7c6c5e5a87cb72370e1642c9ad2d6cd893e6a23fe178aafe769
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-240-552290.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Imóveis
+- Instituição de Crédito
+- Publicidade
+- Multa
+- Obras Particulares
+- Contra-ordenação
+- Contrato de Mútuo
+- Crédito à Habitação
+- Definição de Competências
+- Fiscalização
+- Banco de Portugal
+- Instituto do Consumidor
+- Informação do Consumidor
+- Receita Própria
+- Habitação
+- TAXA de JURO
+relationships:
+- type: amended_by
+  target: pt:dre:107561581:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31993L0013
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/13/oj
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 240/2006
+
+de 22 de Dezembro
+
+Com a abertura progressiva do mercado do crédito à habitação no início da década de 80 e com a liberalização das taxas de juro, hoje livremente negociadas entre as instituições de crédito e os seus clientes, o crédito à habitação tornou-se uma área do mercado especialmente atractiva para aquelas instituições.
+
+O mercado do crédito à habitação é hoje uma área de forte concorrência entre as instituições de crédito, procurando cada uma delas captar o maior universo de clientes.
+
+Por este motivo, a publicidade, enquanto instrumento da concorrência, tornou-se mais criativa, agressiva e apelativa para os consumidores.
+
+Neste contexto de forte concorrência, a margem praticada por cada instituição face ao crédito que concede (spread) tornou-se o objecto principal da mensagem publicitária, o instrumento pelo qual as instituições competem entre si, alterando o seu valor como forma de atraírem os clientes. Do mesmo modo, o spread tornou-se o lado visível de um contrato que tem outras variáveis com igual repercussão sobre o montante final a pagar pelos consumidores, mas que são menos conhecidas por estes, entre elas o indexante, o cross-selling, as comissões, as despesas pelo reembolso antecipado e os arredondamentos.
+
+O arredondamento da taxa de juro é uma prática relativamente recente que se encontra intrinsecamente ligada ao valor do spread oferecido pelas instituições de crédito aos seus clientes. Os arredondamentos em alta têm permitido fixar em escalões superiores a taxa anual nominal aplicada aos contratos de crédito à habitação. Com as regras estabelecidas no presente diploma, o arredondamento da taxa de juro é obrigatoriamente feito à milésima, por excesso ou por defeito, quer para os contratos de crédito à habitação que venham a ser celebrados quer para aqueles que se encontram em execução à data da sua entrada em vigor, aplicando-se nestes casos uma refixação do arredondamento da taxa de juro.
+
+As disposições que agora se introduzem estão em sintonia com a Directiva n.º [93/13/CE](http://data.europa.eu/eli/dir/1993/13/oj?locale=pt), do Conselho, de 5 de Abril, relativa às cláusulas abusivas nos contratos celebrados com os consumidores, transposta para o ordenamento jurídico português pelo Decreto-Lei n.º 220/95, de 31 de Janeiro, que altera o Decreto-Lei n.º 446/85, de 25 de Outubro.
+
+O disposto no presente decreto-lei salvaguarda as disposições legais atinentes aos direitos dos consumidores e aplica-se aos contratos de crédito acima referidos que venham a ser celebrados após a sua entrada em vigor e aos contratos em execução, a partir da refixação da taxa de juro, para efeitos de arredondamento, que deve ocorrer logo após o mencionado início de vigência.
+
+O crédito para aquisição ou construção de habitação própria é, em Portugal, a principal causa de endividamento das famílias e constitui um motivo de preocupação na prevenção do sobreendividamento, pelo que o Governo decide legislar no sentido de conferir aos contratos de crédito para aquisição, construção e realização de obras em habitação própria permanente, secundária ou para arrendamento, bem como para aquisição de terrenos para construção de habitação própria, e à publicidade aos mesmos um maior grau de transparência, atribuindo ao arredondamento a mesma visibilidade que é dada ao spread pelas instituições de crédito.
+
+Para além deste aspecto, o Governo decide legislar no sentido de uniformizar os critérios utilizados no arredondamento e no indexante da taxa de juro.
+
+Deste modo, é criada a obrigatoriedade de arredondamento da taxa de juro à milésima, é reforçado o direito à informação dos consumidores, devendo estes ser informados, de forma clara e expressa, do arredondamento efectuado, da taxa de juro aplicada e do respectivo indexante, e são estabelecidas regras sobre a publicidade ao crédito à habitação.
+
+Foi ouvido o Banco de Portugal.
+
+Foi promovida a consulta ao Conselho Nacional do Consumo e à Associação Portuguesa de Consumidores e Utilizadores de Serviços Financeiros (SEFIN).
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece as regras a que deve obedecer o arredondamento da taxa de juro quando aplicado aos contratos de crédito para aquisição, construção e realização de obras em habitação própria permanente, secundária ou para arrendamento e para aquisição de terrenos para construção de habitação própria celebrados entre as instituições de crédito e os seus clientes.
+
+###### Artigo 2.º — Âmbito
+
+O disposto no presente decreto-lei aplica-se aos contratos de crédito referidos no artigo anterior que venham a ser celebrados após a sua entrada em vigor e aos contratos em execução, a partir da refixação da taxa de juro, para efeitos de arredondamento, que deve ocorrer logo após o mencionado início de vigência.
+
+###### Artigo 3.º — Taxa de juro
+
+Quando a taxa de juro aplicada aos contratos de crédito abrangidos pelo disposto no presente decreto-lei for indexada a um determinado índice de referência, deve a mesma resultar da média aritmética simples das cotações diárias do mês anterior ao período de contagem de juros.
+
+###### Artigo 4.º — Arredondamento da taxa de juro
+
+1 - O arredondamento da taxa de juro deve obrigatoriamente ser feito à milésima da seguinte forma:
+
+a) Quando a 4.ª casa decimal é igual ou superior a cinco, o arredondamento é feito por excesso;
+
+b) Quando a 4.ª casa decimal é inferior a cinco, o arredondamento é feito por defeito.
+
+2 - O arredondamento deve incidir apenas sobre a taxa de juro, sem adição da margem (spread) aplicada pela instituição de crédito sobre uma taxa de referência ou indexante.
+
+###### Artigo 5.º — Dever de informação
+
+1 - A instituição de crédito deve informar clara e expressamente os seus clientes sobre o arredondamento a que se refere o artigo anterior, a taxa de juro aplicada e o respectivo indexante a que se refere o artigo 3.º
+
+2 - As simulações disponibilizadas pelas instituições de crédito no seu sítio da Internet devem mencionar de forma clara e expressa as informações referidas no número anterior.
+
+###### Artigo 6.º — Publicidade
+
+Na publicidade ao crédito para aquisição, construção e realização de obras em habitação própria permanente, secundária ou para arrendamento, bem como para aquisição de terrenos para construção de habitação própria, e em todas as comunicações comerciais que tenham por objectivo, directo ou indirecto, a sua promoção com vista à comercialização deve ser feita referência expressa à taxa de juro aplicada e respectivo indexante e ao arredondamento.
+
+###### Artigo 7.º — Contra-ordenações
+
+1 - A violação do disposto nos artigos 3.º a 5.º constitui contra-ordenação punível nos termos da alínea i) do artigo 210.º e do artigo 212.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, sem prejuízo da aplicação das demais disposições em matéria contra-ordenacional aí previstas.
+
+2 - A violação do disposto no artigo 6.º constitui contra-ordenação punível com coima de (euro) 20000 a (euro) 44000.
+
+3 - A tentativa e a negligência são sempre puníveis.
+
+###### Artigo 8.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto nos artigos 3.º a 5.º do presente decreto-lei, bem como a aplicação das correspondentes coimas e sanções acessórias, é da competência do Banco de Portugal, sendo aplicável o Regime Geral das Instituições de Crédito e Sociedades Financeiras.
+
+2 - Compete ao Instituto do Consumidor, nos termos do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro, a fiscalização do disposto no artigo 6.º, bem como a instrução dos processos de contra-ordenação resultantes da sua violação, cabendo à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade (CACMEP) a aplicação das sanções devidas.
+
+###### Artigo 9.º — Produto das coimas
+
+O produto das coimas decorrentes da violação do disposto no artigo 6.º reverte em:
+
+a) 40% para o Instituto do Consumidor;
+
+b) 60% para o Estado.
+
+###### Artigo 10.º — Avaliação da execução do diploma
+
+No final do 1.º ano a contar da data de entrada em vigor do presente decreto-lei, o Banco de Portugal elabora e divulga um relatório de avaliação do impacte da aplicação do mesmo.
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 2 de Novembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho.
+
+**Promulgado em 15 de Dezembro de 2006.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 18 de Dezembro de 2006.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

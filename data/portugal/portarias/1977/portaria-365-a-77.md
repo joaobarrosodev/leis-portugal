@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: pt:dre:240989:por
+title: Portaria n.º 365-A/77
+short_title: null
+summary: Dá nova redacção ao n.º 4.º da Portaria n.º 99-A/77, de 28 de Fevereiro (sujeita a contingentação, durante o ano
+  de 1977, as importações de diversos bens de consumo)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo
+proposing_entity: null
+official_number: 365-A/77
+official_date: null
+publication_date: '1977-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 139/1977, 1º Suplemento, Série I de 1977-06-18
+  number: '139'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1492-(1) a 1492-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/06/13901/00010002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '240989'
+  dre_path: /dr/detalhe/portaria/365-a-1977-240989
+  internal: pt:dre:240989:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/365-a-1977-240989
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/365-a-1977-240989
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-06-18T00:00:00Z'
+integrity:
+  source_sha256: 19fd205b631015cf702369ef04c9f149d082f69bb44f62e3eb8ef2829cc70d95
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-365-A-240989.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 365-A/77
+
+de 18 de Junho
+
+Manda o Governo da República Portuguesa, pelos Ministros do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo:
+
+O n.º 4.º da [Portaria n.º 99-A/77](https://diariodarepublica.pt/dr/detalhe/portaria/99-a-1977-509029), de 28 de Fevereiro, passa a ter a seguinte redacção:
+
+4.º Para além dos contingentes fixados na lista anexa, poderão ser autorizadas, sob condicionalismo a estabelecer por despacho ministerial, importações, em valor que não exceda o valor nacional adicionado nas mercadorias exportadas, que o importador tenha fabricado em Portugal, ou de mercadorias portuguesas que tenham sido exportadas com destino ao fabricante estrangeiro do produto cuja importação se pretenda realizar, destinadas à utilização industrial por esses fabricantes.
+
+Ministérios do Plano e Coordenação Económica, das Finanças e do Comércio e Turismo, 17 de Junho de 1977. - Pelo Ministro do Plano e Coordenação Económica, Maria Manuela da Silva, Secretário de Estado do Planeamento. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.
+
+Lista anexa
+
+... Contingentes até 31 de Dezembro de 1977 - Valor em milhares de escudos
+
+ex 08.01:
+
+Bananas ... 200000
+
+09.01:
+
+Café, mesmo torrado ou descafeinado; cascas e películas de café; sucedâneos do café, mas que contenham café em qualquer proporção ... 800000
+
+21.02:
+
+Extractos ou essências de café, chá e mate; preparados que tenham por base estes extractos ou essências ... 10000
+
+21.05:
+
+Preparados para a obtenção de caldos ou sopas; caldos ou sopas, preparados; preparados alimentares compostos homogeneizados ... 30000
+
+39.07.03, 04 e 05:
+
+Obras das matérias abrangidas pelos n.os 39.01 a 39.06: tapetes de casa; obras não especificadas, mesmo com dizeres ... 100000
+
+48.11:
+
+Papel para forrar casas, lincrusta e papel para vitrais ... 30000
+
+59.10:
+
+Linóleos para qualquer uso, em peça ou cortados; tapetes de casa e outros artefactos para usos similares de matérias têxteis com revestimento, em peça ou cortados ... 30000
+
+73.36:
+
+Caloríferos, fogões de sala e de cozinha comprendendo os que possam ser utilizados acessoriamente no aquecimento central), fogareiros, caldeiras com fornalha e aparelhos semelhantes para aquecimento, do tipo dos de uso doméstico, não eléctricos, bem como as respectivas partes e peças separadas, de ferro fundido, ferro macio ou aço ... 40000
+
+84.15.02:
+
+Material, máquinas e aparelhos para produção de frio, mesmo equipados electricamente: armários e outros móveis importados com o respectivo aparelho produtor de frio, pesando até 200 kg cada um ... 300000
+
+84.17.01:
+
+Aquecedores de água de circulação ou de acumulação para uso doméstico ... 40000
+
+84.19.01:
+
+Aparelhos para lavar e secar louça ... 60000
+
+ex 84.40.03:
+
+Máquinas de lavar roupa domésticas ... 250000
+
+84.41.01:
+
+Máquinas de costura para uso doméstico ... 45000
+
+85.03.01:
+
+Pilhas eléctricas secas ... 30000
+
+85.06:
+
+Aparelhos electromecânicos de uso doméstico, com motor incorporado ... 200000
+
+85.12.01:
+
+Aquecedores eléctricos de água, compreendendo os de imersão; aparelhos eléctricos para aquecimento das casas e usos semelhantes; aparelhos electrotérmicos para cabeleireiros (tais como secadores, frisadores e aquecedores de ferro de frisar); ferros eléctricos de engomar; aparelhos electrotérmicos para uso doméstico; resistências para aquecimento, com excepção das incluídas no n.º 85,24: aquecedores de água e aparelhos para aquecimento de casa ... 30000
+
+85.12.03:
+
+Idem, fogareiros, fogões, fornos e aparelhos similares de cozinha para uso doméstico ... 40000
+
+85.12.06:
+
+Idem, aparelhos não especificados ... 40000
+
+85.15.01:
+
+Aparelhos receptores para radiodifusão ... 120000
+
+85.15.02:
+
+Aparelhos receptores para televisão ... 120000
+
+87.14:
+
+Outros veículos não automóveis, incluindo os reboques; respectivas partes e peças separadas ... 30000
+
+92.11.02:
+
+Gramofones, máquinas de ditar e outros aparelhos de gravação e de reprodução de som, compreendendo os gira-discos e dispositivos semelhantes, com ou sem leitor de som; aparelhos utilizados em televisão para registo e reprodução de imagens e de som, por processo magnético: artefactos não especificados ... 50000
+
+92.12.01:
+
+Suportes de som preparados para gravação, fios, fitas e tiras ... 40000
+
+93.04 e 05:
+
+Armas de fogo não mencionadas nos n.os 93.02 e 93.03, compreendendo os engenhos semelhantes que utilizem a deflagração de pólvora, tais como pistolas, lança-foguetes, pistolas e revólveres, para tiro sem bala, canhões contra o granizo e canhões lança-amarras; outras armas, compreendendo as espingardas, carabinas e pistolas, de mola, ar comprimido ou gás ... 50000
+
+97.01 e 02:
+
+Veículos de rodas para recreio de crianças, tais como velocípedes, trottinettes, cavalos mecânicos, automóveis de pedais, carros para bonecas e semelhantes; bonecas de qualquer espécie ... 20000
+
+97.03:
+
+Outros brinquedos, modelos reduzidos para recreio ... 90000
+
+97.04 e 05:
+
+Jogos, compreendendo os jogos mecânicos para recintos públicos, o ténis de mesa, os bilhares e as mesas especiais para jogos de casino; artigos para divertimentos e festas, marcas de cotilhão e surpresas; objectos para enfeitar árvores de Natal e artefactos semelhantes para festas de Natal (tais como árvores de Natal artificiais, presépios, guarnecidos ou não, figuras e animais para presépios) ... 10000
+
+Pelo Ministro do Plano e Coordenação Económica, Maria Manuela da Silva, Secretário de Estado do Planeamento. - O Ministro das Finanças, Henrique Medina Carreira. - O Ministro do Comércio e Turismo, Carlos Alberto da Mota Pinto.

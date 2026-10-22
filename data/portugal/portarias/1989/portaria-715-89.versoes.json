@@ -1,0 +1,813 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:618501:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1989-886163812",
+ "dre_path": "/dr/detalhe/portaria/715-1989-618501",
+ "source_lastmod": "2024-08-29",
+ "versions": [
+  {
+   "date": "1989-08-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886206094",
+    "886206095",
+    "886206096",
+    "886206097",
+    "886206098",
+    "886206099",
+    "886206100",
+    "886206101",
+    "886206102",
+    "886206103",
+    "886206104",
+    "886206105",
+    "886206106",
+    "886206107",
+    "886206108",
+    "886206109",
+    "886206110",
+    "886206111",
+    "886206112",
+    "886206113",
+    "886206114",
+    "886206115",
+    "886206116",
+    "886206117",
+    "886206118",
+    "886206119",
+    "886206120",
+    "886206121",
+    "886206122",
+    "886206123",
+    "886206124",
+    "886206125",
+    "886206126",
+    "886206127",
+    "886206128",
+    "886206129",
+    "886206130",
+    "886206131",
+    "886206132",
+    "886206133",
+    "886206134",
+    "886206135",
+    "886206136",
+    "886206137",
+    "886206138",
+    "886206139",
+    "886206140",
+    "886206141",
+    "886206142",
+    "886206143",
+    "886206144",
+    "886206145",
+    "886206146"
+   ]
+  },
+  {
+   "date": "2003-12-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:423922:por",
+     "title": "Decreto-Lei n.º 321/2003",
+     "published": "2003-12-23",
+     "dre_path": "/dr/detalhe/decreto-lei/321-2003-423922"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "886206094",
+    "886206148",
+    "886206152",
+    "886206095",
+    "886206096",
+    "886206097",
+    "886206098",
+    "886206099",
+    "886206100",
+    "886206101",
+    "886206102",
+    "886206103",
+    "886206104",
+    "886206105",
+    "886206106",
+    "886206107",
+    "886206108",
+    "886206109",
+    "886206154",
+    "886206155",
+    "886206112",
+    "886206156",
+    "886206157",
+    "886206115",
+    "886206158",
+    "886206117",
+    "886206118",
+    "886206119",
+    "886206120",
+    "886206121",
+    "886206122",
+    "886206123",
+    "886206124",
+    "886206125",
+    "886206126",
+    "886206127",
+    "886206128",
+    "886206129",
+    "886206130",
+    "886206131",
+    "886206132",
+    "886206133",
+    "886206134",
+    "886206135",
+    "886206136",
+    "886206137",
+    "886206138",
+    "886206139",
+    "886206140",
+    "886206141",
+    "886206142",
+    "886206143",
+    "886206144",
+    "886206145",
+    "886206146"
+   ]
+  },
+  {
+   "date": "2007-02-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:518258:por",
+     "title": "Decreto-Lei n.º 23/2007",
+     "published": "2007-02-01",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2007-518258"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "886206094",
+    "886206148",
+    "886206152",
+    "886206095",
+    "886206096",
+    "886206097",
+    "886206098",
+    "886206099",
+    "886206100",
+    "886206101",
+    "886206102",
+    "886206103",
+    "886206159",
+    "886206105",
+    "886206106",
+    "886206107",
+    "886206108",
+    "886206109",
+    "886206154",
+    "886206155",
+    "886206112",
+    "886206156",
+    "886206157",
+    "886206115",
+    "886206158",
+    "886206117",
+    "886206118",
+    "886206119",
+    "886206120",
+    "886206121",
+    "886206122",
+    "886206123",
+    "886206124",
+    "886206125",
+    "886206126",
+    "886206127",
+    "886206128",
+    "886206129",
+    "886206130",
+    "886206131",
+    "886206132",
+    "886206133",
+    "886206134",
+    "886206135",
+    "886206136",
+    "886206137",
+    "886206138",
+    "886206139",
+    "886206140",
+    "886206141",
+    "886206142",
+    "886206143",
+    "886206144",
+    "886206145",
+    "886206146"
+   ]
+  },
+  {
+   "date": "2025-03-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910888302:por",
+     "title": "Portaria n.º 114/2025/1",
+     "published": "2025-03-14",
+     "dre_path": "/dr/detalhe/portaria/114-2025-910888302"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "886206094",
+    "886206148",
+    "886206152",
+    "886206095",
+    "886206096",
+    "886206097",
+    "886206098",
+    "910930173",
+    "910930174",
+    "886206101",
+    "886206102",
+    "886206103",
+    "886206159",
+    "886206105",
+    "886206106",
+    "886206107",
+    "886206108",
+    "886206109",
+    "886206154",
+    "886206155",
+    "886206112",
+    "886206156",
+    "886206157",
+    "886206115",
+    "886206158",
+    "886206117",
+    "886206118",
+    "886206119",
+    "886206120",
+    "886206121",
+    "886206122",
+    "886206123",
+    "886206124",
+    "886206125",
+    "886206126",
+    "886206127",
+    "886206128",
+    "886206129",
+    "886206130",
+    "886206131",
+    "886206132",
+    "886206133",
+    "886206134",
+    "886206135",
+    "886206136",
+    "886206137",
+    "886206138",
+    "886206139",
+    "886206140",
+    "886206141",
+    "886206142",
+    "886206143",
+    "886206144",
+    "886206145",
+    "886206146"
+   ]
+  }
+ ],
+ "fragments": {
+  "886206094": {
+   "fragment_id": "886163813",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 715/89\n\nde 23 de Agosto\n\nCom a publicação do Decreto-Lei n.º 96/89, de 28 de Março, foi instituído, na Zona Franca da Região Autónoma da Madeira, o Registo Internacional de Navios da Madeira (MAR), prevendo-se desde logo a necessidade de se proceder à regulamentação de diversas matérias inerentes e necessárias a tal Registo.\n\nNeste contexto, e considerando que os navios a registar no MAR arvorarão a Bandeira Portuguesa, há que providenciar para que tais navios obedeçam aos requisitos técnicos de segurança, de prevenção da poluição do mar e de habitabilidade estabelecidos pelas normas em vigor no ordenamento jurídico português e não operem com deficiências, mormente em relação às Convenções Internacionais sobre Segurança Marítima, Poluição do Mar e Bem-Estar a Bordo, de que Portugal é parte.\n\nPara o efeito torna-se necessário, sem alienação de responsabilidades, recorrer aos serviços de sociedades de classificação de navios reconhecidas pelo Governo Português, tanto mais que os navios registados no MAR podem exercer a sua actividade em quaisquer portos e águas internacionais.\n\nReconhecendo que se torna conveniente harmonizar os actos visando o registo e certificação dos navios do MAR com os das restantes entidades nacionais que efectuam os mesmos actos;\n\nAtendendo a que é conveniente que todos os navios nacionais naveguem com documentação semelhante, tendo em vista facilitar o seu controlo pelo Estado do porto;\n\nTornando-se necessário dotar o MAR de um quadro regulador indispensável ao cabal desempenho das suas funções:\n\nFace ao constante dos artigos 2.º, 7.º, 15.º, n.os 1 e 2, 21.º, n.º 1, e 23.º do Decreto-Lei n.º 96/89, de 28 de Maio, e ao abrigo do disposto no artigo 202.º, alínea c), da Constituição:\n\nManda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:\n\n1.º É aprovado o regulamento anexo à presente portaria, que dela faz parte integrante.\n\n2.º A presente portaria entra imediatamente em vigor."
+  },
+  "886206095": {
+   "fragment_id": "886163814",
+   "type": 8,
+   "heading": "Secção I — Do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do registo"
+  },
+  "886206096": {
+   "fragment_id": "886163815",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nCom o pedido inicial de registo no MAR deverá ser entregue a documentação e informação disponível relativa ao navio, nomeadamente:\n\na) Proprietário(s) e ou afretador(es), contratos, hipotecas ou outros ónus que incidam sobre o navio;\n\nb) Nome pretendido;\n\nc) Pedido de atribuição do indicativo de chamada, acompanhado de descrição dos equipamentos de comunicações;\n\nd) Elementos sobre a arqueação do navio;\n\ne) Indicação da sociedade de classificação;\n\nf) Características do navio e da sua instalação propulsora;\n\ng) Estaleiro construtor do navio e ano de construção;\n\nh) Cópia dos certificados do navio, incluindo os da sociedade de classificação."
+  },
+  "886206097": {
+   "fragment_id": "886163816",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA comissão técnica pode recusar o registo de um navio no MAR, tendo em consideração o tipo, actividade comercial ou idade do navio, com vista a garantir a qualidade e dignidade do registo."
+  },
+  "886206098": {
+   "fragment_id": "886163817",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO MAR, de acordo com a Inspecção-Geral de Navios (IGN), publicará, através de editais ou circulares, os formulários a preencher e a documentação necessária para o registo do navio, quer de propriedade quer temporário."
+  },
+  "886206099": {
+   "fragment_id": "886163818",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Para o registo no MAR será necessário apresentar o relatório de vistoria inicial de registo feito por perito da IGN ou por ela reconhecido ou por perito de sociedade de classificação reconhecida em Portugal, no caso de o navio estar nela classificado.\n\n2 - Esta vistoria tem por finalidade verificar que o navio obedece aos requisitos técnicos de segurança, de prevenção da poluição do mar e de habitabilidade e bem-estar a bordo em vigor no ordenamento jurídico português."
+  },
+  "886206100": {
+   "fragment_id": "886163819",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nPara o registo no MAR, um navio pode encontrar-se surto em qualquer porto nacional ou estrangeiro onde possa ser feita a vistoria inicial para o registo."
+  },
+  "886206101": {
+   "fragment_id": "886163820",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - A arqueação dos navios registados no MAR e a emissão dos respectivos certificados pelas:\n\na) Regras nacionais (equivalentes às do Reino Unido);\n\nb) Regras do canal do Panamá;\n\nc) Regras do canal de Suez;\n\nd) Convenção Internacional sobre Arqueação de Navios, de Londres de 1969;\n\nsão feitas pela IGN ou por sociedade de classificação reconhecida em Portugal, no caso de o navio nela se encontrar classificado.\n\n2 - As sociedades de classificação, sempre que verifiquem a necessidade de uma interpretação em relação a qualquer regra de arqueação, deverão solicitá-la à IGN.\n\n3 - A IGN informará todas as sociedades de classificação do resultado dessa interpretação, visando harmonizar os processos de medição da arqueação dos navios nacionais.\n\n4 - As sociedades de classificação enviarão à IGN cópia dos cálculos detalhados de arqueação, sempre que tal lhes for solicitado."
+  },
+  "886206102": {
+   "fragment_id": "886163821",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNo caso de se pretender mudar o nome a um navio registado no MAR que esteja hipotecado com preferência a credores, tal só poderá ser autorizado com a anuência expressa dos mesmos."
+  },
+  "886206103": {
+   "fragment_id": "886163822",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - A atribuição no indicativo de chamada da estação de radiocomunicações do navio e de outros tipos de identificação, o estabelecimento do código da entidade responsável pela liquidação das contas de radiocomunicações, a consignação de frequências e a emissão da respectiva licença de estação de navio são da responsabilidade da IGN.\n\n2 - O MAR, no uso das suas competências, de acordo com a IGN, determinará os procedimentos a seguir em conformidade com o disposto no número anterior."
+  },
+  "886206104": {
+   "fragment_id": "886163823",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nConsoante a situação do registo do navio, o MAR, por delegação da IGN, emitirá o passaporte provisório ou definitivo do navio."
+  },
+  "886206105": {
+   "fragment_id": "886163824",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nOs navios registados no MAR terão as inscrições regulamentares que são exigidas para a identificação dos navios nacionais, sendo a letra designativa do porto de registo do Registo Internacional de Navios - MAR - Zona Franca da Madeira a letra M e o porto de registo do MAR a ser inscrito na popa sob o nome do navio «MADEIRA»."
+  },
+  "886206106": {
+   "fragment_id": "886163825",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA classificação dos navios registados no MAR, quanto à área de navegação, terá em conta o porto ou águas em que operam e o tráfego que efectuem, não se lhe aplicando os limites das áreas de navegação definidas para as restantes embarcações nacionais."
+  },
+  "886206107": {
+   "fragment_id": "886163826",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - O número de registo é o que for atribuído pelo MAR no auto de registo.\n\n2 - Para as embarcações de comércio, com excepção das de tráfego local, utilizar-se-á a série de números inteiros consecutivos de 1000 a 1300."
+  },
+  "886206108": {
+   "fragment_id": "886163827",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs vistorias a efectuar aos navios nacionais quer em portos nacionais quer estrangeiros, visando o seu registo e certificação pelo MAR, incluindo as vistorias de construção ou modificação, de registo, de manutenção, de avarias e suplementares, serão feitas por peritos a indicar pela IGN ou, no caso de navios classificados em sociedades de classificação reconhecidas em Portugal, por peritos destas."
+  },
+  "886206109": {
+   "fragment_id": "886163828",
+   "type": 8,
+   "heading": "Secção II — Das sociedades de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das sociedades de classificação"
+  },
+  "886206110": {
+   "fragment_id": "886163829",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - As sociedades de classificação reconhecidas em Portugal e credenciadas para o exercício das suas funções no MAR são as seguintes:\n\nLloyd's Register of Shipping (LRS);\n\nBureau Veritas (BV);\n\nDet Norske Veritas (DNV);\n\nRegistro Italiano Navale (RINA);\n\nAmerican Bureau of Shipping (ABS);\n\nGermanischer Lloyd (GL);\n\nRinave Portuguesa (RINAVE);\n\nNippon Kaiji Kyokai (NKK).\n\n2 - Serão incluídas no número anterior outras sociedades de classificação que venham a ser reconhecidas pelo Governo Português."
+  },
+  "886206111": {
+   "fragment_id": "886163830",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nPara os navios classificados nas sociedades de classificação reconhecidas em Portugal, e registados no MAR, o MAR delegará nessas sociedades as vistorias, a aprovação do caderno de estabilidade, carga de grão, plano de segurança e outros documentos, bem como a emissão dos certificados internacionais relativos às convenções e resoluções da Organização Marítima Internacional (IMO) e as convenções da OIT a que Portugal se encontra vinculado, nomeadamente:\n\na) Convenção Internacional sobre a Salvaguarda da Vida Humana no Mar, de 1974, Protocolo de 1978 e respectivas emendas em vigor;\n\nb) Convenção Internacional de Linhas de Carga, de 1966;\n\nc) Convenção Internacional para Evitar Abalroamentos no Mar;\n\nd) Convenção Internacional para a Prevenção da Poluição pelos Navios, de 1973, e seu Protocolo de 1988;\n\ne) Resolução da IMO relativa às plataformas;\n\nf) Resolução da IMO relativa aos navios-tanques químicos existentes;\n\ng) Resolução da IMO relativa aos navios-tanques de gases liquefeitos existentes;\n\nh) Convenção n.º 32 da OIT - Aparelho de carga;\n\ni) Convenção n.º 92 da OIT - Alojamentos da tripulação."
+  },
+  "886206112": {
+   "fragment_id": "886163831",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nNo caso de um navio registado no MAR estar classificado por sociedade de classificação reconhecida pelo Governo Português, as letras designativas dessa sociedade deverão ser inscritas no costado, no disco relativo às linhas de carga da respectiva convenção internacional."
+  },
+  "886206113": {
+   "fragment_id": "886163832",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO MAR, ouvida a IGN, estabelecerá com as sociedade de classificação reconhecidas a informação, bem como a sua periodicidade, a ser fornecida por estas relativa às vistorias e certificados."
+  },
+  "886206114": {
+   "fragment_id": "886163833",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nQualquer sociedade de classificação reconhecida está obrigada, relativamente aos navios registados no MAR por si classificados, a informar de imediato o Registo nos seguintes casos:\n\na) Deficiências encontradas a bordo em relação às convenções internacionais de que Portugal, é parte;\n\nb) Avarias que afectem as condições de navegabilidade do navio;\n\nc) Acidentes ocorridos com o navio;\n\nd) Perda de classificação do navio na sociedade de classificação."
+  },
+  "886206115": {
+   "fragment_id": "886163834",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs navios registados no MAR não abrangidos pelas disposições das convenções internacionais de que Portugal é parte navegarão com certificados nacionais emitidos pelo MAR ou pela IGN ou com certificados equivalentes das sociedades de classificação reconhecidas em Portugal."
+  },
+  "886206116": {
+   "fragment_id": "886163835",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO MAR, ouvida a IGN, providenciará junto das sociedades de classificação no sentido de harmonizar todos os certificados e restantes impressos a utilizar nas vistorias e certificação dos navios que arvorem a Bandeira Nacional."
+  },
+  "886206117": {
+   "fragment_id": "886163836",
+   "type": 8,
+   "heading": "Secção III — Das ocorrências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Das ocorrências"
+  },
+  "886206118": {
+   "fragment_id": "886163837",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO armador ou o capitão de um navio registado no MAR que tenha um acidente ou sinistro com o seu navio deverá imediatamente comunicar esse facto ao MAR, assinalando no respectivo relatório a sua causa provável, nomeadamente:\n\na) Avarias e sinistros causados ao navio ou à carga que afectem as suas condições de navegabilidade;\n\nb) Abalroamento, encalhe ou toque no fundo;\n\nc) Perda de vidas humanas;\n\nd) Actos de poluição."
+  },
+  "886206119": {
+   "fragment_id": "886163838",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nO armador, o seu legal representante ou o capitão de um navio registado no MAR que pretenda efectuar qualquer alteração ou modificação no navio que possa afectar a sua classificação, dimensões principais, arqueação ou bordo livre deverá obter prévia autorização do MAR."
+  },
+  "886206120": {
+   "fragment_id": "886163839",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1 - No caso de um navio registado no MAR escalar porto nacional com avaria no navio ou na carga e se verifique ser necessário proceder a vistoria, esta será efectuada por perito da IGN ou por ela reconhecido ou por perito de sociedade de classificação reconhecida, no caso de o navio estar nela classificado.\n\n2 - O relatório de mar a elaborar pelo capitão do navio nos termos legais será enviado ao Registo no prazo de quarenta e oito horas, depois de devidamente visado pelo representante da IGN no MAR ou da sociedade de classificação."
+  },
+  "886206121": {
+   "fragment_id": "886163840",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nPara o desembaraço de um navio registado no MAR que tenha entrado em porto nacional com avaria no navio ou na carga e desde que se tenha procedido a vistoria nos termos do artigo anterior, bastará apresentar, para além dos necessários papéis de bordo, o relatório do perito relativo às condições de segurança para que o navio possa seguir viagem."
+  },
+  "886206122": {
+   "fragment_id": "886163841",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nNo caso de um navio registado no MAR ter sido submetido ao controlo exercido pelo Estado do porto, nomeadamente ao abrigo das disposições do Memorando de Paris, e lhe terem sido encontradas deficiências em relação às Convenções Internacionais sobre Segurança Marítima, Poluição do Mar e Bem-Estar a Bordo, o capitão deve dar de imediato conhecimento ao MAR das citadas deficiências."
+  },
+  "886206123": {
+   "fragment_id": "886163842",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs aspectos técnicos de qualquer inquérito a efectuar referente a acidente ocorrido com navio registado no MAR deverão ter a coordenação da IGN, tendo em vista a aplicação da regra 21 do capítulo I, parte C da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, de 1974, e do seu Protocolo de 1978."
+  },
+  "886206124": {
+   "fragment_id": "886163843",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1 - Os navios registados no MAR deverão ter a bordo os livros exigidos pela legislação nacional e internacional, devidamente autenticados pelo MAR, IGN ou sociedade de classificação reconhecida em Portugal, no caso de navio nela classificado.\n\n2 - No Diário Náutico deverão ser registados os calados do navio à vante e à ré e a posição relativa das marcas de bordo livre em relação à linha de água de flutuação à partida e à chegada aos portos.\n\n3 - Os diários dos serviços de bordo, bem como os livros de registo obrigatórios, exigidos pelas convenções internacionais aplicáveis, devem ser conservados a bordo por um período mínimo de dois anos, por forma a permitir obter elementos caso seja necessário instaurar inquérito a bordo."
+  },
+  "886206125": {
+   "fragment_id": "886163844",
+   "type": 8,
+   "heading": "Secção IV — Das inspecções, controlo, cancelamento e transferência de registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Das inspecções, controlo, cancelamento e transferência de registos"
+  },
+  "886206126": {
+   "fragment_id": "886163845",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1 - Para garantir a segurança dos navios, das pessoas e das cargas neles embarcadas os navios registados no MAR estão sujeitos a uma inspecção, sempre que possível anual, a realizar por membros da comissão técnica do MAR ou por peritos indicados pela IGN.\n\n2 - Não pode ser impedida a entrada a bordo aos inspectores, devendo o armador, capitão do navio e seus agentes prestar toda a colaboração durante a inspecção."
+  },
+  "886206127": {
+   "fragment_id": "886163846",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nÀ comissão técnica do MAR compete assinar, visar, rubricar, ratificar ou autenticar, conforme os casos e sempre que necessário, os livros, autos, termos, certidões, cópias e certificados ou outros documentos."
+  },
+  "886206128": {
+   "fragment_id": "886163847",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nO MAR pode proceder ao cancelamento de um registo, tomando para o efeito as necessárias providências, quando se verifiquem circunstâncias que o justifiquem, designadamente:\n\na) Alterações na propriedade do navio;\n\nb) Falta de cumprimento do proprietário ou operador em relação aos requisitos para poder operar na Zona Franca da Madeira;\n\nc) Apresentar o navio deficiências graves em relação às normas das Convenções Internacionais sobre a Segurança Marítima, Prevenção da Poluição do Mar e Bem-Estar a Bordo dos Navios."
+  },
+  "886206129": {
+   "fragment_id": "886163848",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nO proprietário, ou o seu legal representante, pode solicitar o cancelamento do registo de propriedade no MAR por motivo de:\n\na) Venda do navio para registo em país de outra bandeira;\n\nb) Venda do navio para fins de sucata;\n\nc) Perda do navio por naufrágio;\n\nd) Presunção de perda e falta de notícias do navio após saída do último porto escalado ao fim de 180 dias."
+  },
+  "886206130": {
+   "fragment_id": "886163849",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nAs certidões ou outros documentos a emitir pelo MAR relativos e necessários ao cancelamento dos registos só poderão ser entregues depois de satisfeitos os pagamentos e outros compromissos do navio, proprietário ou operador para com a Zona Franca da Madeira."
+  },
+  "886206131": {
+   "fragment_id": "886163850",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1 - O cancelamento definitivo do registo de propriedade de um navio no MAR por motivo de venda para o estrangeiro só pode ser efectuado após o navio ter sido registado sob a bandeira desse país, devendo ser indicado ao MAR o novo nome do navio e o respectivo porto de registo.\n\n2 - Não ficam abrangidos por estas disposições os navios vendidos para fins de sucata."
+  },
+  "886206132": {
+   "fragment_id": "886163851",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1 - Qualquer navio nacional com registo definitivo ou temporário que o transfira de um porto nacional para o MAR, ou vice-versa, não ficará sujeito a vistorias para o efeito, incluindo as previstas nos artigos 7.º e 12.º do regulamento.\n\n2 - A transferência de registo será comunicada pela entidade que o efectuou à entidade que detinha o registo anterior e à IGN."
+  },
+  "886206133": {
+   "fragment_id": "886163852",
+   "type": 8,
+   "heading": "Secção V — Da certificação dos marítimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Da certificação dos marítimos"
+  },
+  "886206134": {
+   "fragment_id": "886163853",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nA certificação dos inscritos marítimos embarcados em navios registados no MAR rege-se pelas disposições da Convenção Internacional sobre Normas de Formação de Certificação e de Serviços de Quartos para os Marítimos, de 1978 (STCW 1978)."
+  },
+  "886206135": {
+   "fragment_id": "886163854",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1 - O MAR poderá emitir certificados de dispensa nos termos da Convenção STCW 1978, de modelo idêntico aos que estão em vigor na ordem jurídica portuguesa, assim como os relativos a navios químicos, de gases liquefeitos e petroleiros, dando do facto conhecimento à Direcção-Geral do Pessoal do Mar e Estudos Náuticos (DGPMEN).\n\n2 - Para os efeitos do número anterior devem os interessados fazer prova de habilitação profissional ou de aptidão legalmente exigidos."
+  },
+  "886206136": {
+   "fragment_id": "886163855",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nA comissão técnica do MAR providenciará junto das entidades nacionais ou estrangeiras competentes no sentido de harmonizar os procedimentos a seguir no que respeita ao rol de tripulação, às lotações e ao reconhecimento dos certificados de profissionais dos marítimos estrangeiros."
+  },
+  "886206137": {
+   "fragment_id": "886163856",
+   "type": 8,
+   "heading": "Secção VI — Das lotações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Das lotações"
+  },
+  "886206138": {
+   "fragment_id": "886163857",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1 - Nenhum navio registado no MAR está autorizado a navegar com tripulação em qualidade e número inferior à fixada como lotação de segurança.\n\n2 - Exceptuam-se as situações decorrentes de morte ou incapacidade de tripulante ocorrida com o navio em viagem ou ainda em casos de reconhecia necessidade, devendo, neste caso, a falta ser preenchida no primeiro porto que o navio escale."
+  },
+  "886206139": {
+   "fragment_id": "886163858",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nEntende-se por lotação de segurança, adiante designada por lotação, o número de tripulantes, distribuído por funções, com que o navio está autorizado a navegar, de molde a garantir a segurança da navegação, das pessoas e bens, bem como a protecção do meio marinho."
+  },
+  "886206140": {
+   "fragment_id": "886163859",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1 - O armador, ou o seu legal representante, pode requerer a fixação da lotação do navio já registado ou a registar no MAR.\n\n2 - O requerimento deve ser acompanhado dos seguintes documentos:\n\na) Resenha identificativa do navio, da qual constem as suas características técnicas, os equipamentos de que dispõe e a área de tráfego em que irá operar;\n\nb) Plano geral do navio;\n\nc) Indicação dos meios de salvação existentes a bordo;\n\nd) Outros elementos que o requerente considere de interesse para o efeito;\n\ne) Proposta de lotação devidamente fundamentada.\n\n3 - A lotação é fixada no prazo de três dias úteis contados a partir da data de apresentação do requerimento e terá em conta o disposto nas convenções internacionais sobre a matéria vigentes na ordem jrídica portuguesa."
+  },
+  "886206141": {
+   "fragment_id": "886163860",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1 - Fixada a lotação, o MAR emite o respectivo certificado.\n\n2 - Da lotação fixada cabe recurso para o ministro responsável pela marinha de comércio."
+  },
+  "886206142": {
+   "fragment_id": "886163861",
+   "type": 8,
+   "heading": "Secção VII — Dos tripulantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Dos tripulantes"
+  },
+  "886206143": {
+   "fragment_id": "886163862",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nA relação nominal de todos os tripulantes que constituem a tripulação de um navio registado no MAR toma a designação de «Rol de tripulação»."
+  },
+  "886206144": {
+   "fragment_id": "886163863",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1 - O contrato de trabalho, se for a termo, a celebrar com os tripulantes terá a forma escrita e dele devem constar obrigatoriamente os seguintes elementos:\n\na) Identificação das partes;\n\nb) Nome do navio;\n\nc) Categoria ou funções a exercer;\n\nd) Natureza do contrato;\n\ne) Data de admissão;\n\nf) Vencimentos;\n\ng) Data do seu termo.\n\n2 - O contrato individual de trabalho não deve conter qualquer disposição que contrarie as convenções internacionais ratificadas por Portugal no âmbito da OIT."
+  },
+  "886206145": {
+   "fragment_id": "886163864",
+   "type": 8,
+   "heading": "Secção VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Disposições finais"
+  },
+  "886206146": {
+   "fragment_id": "886163865",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nA comissão técnica do MAR, na sua acção fiscalizadora e sempre que tiver conhecimento de uma transgressão marítima praticada na operação de um navio registado no MAR, pode promover o levantamento de um auto e ou desenvolver as acções adequadas junto das entidades competentes."
+  },
+  "886206148": {
+   "fragment_id": "886163868",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério das Obras Públicas, Transportes e Comunicações.\n\nAssinada em 28 de Julho de 1989.\n\nO Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins."
+  },
+  "886206152": {
+   "fragment_id": "886305275",
+   "type": 14,
+   "heading": "Anexo — Regulamento Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento Anexo"
+  },
+  "886206154": {
+   "fragment_id": "886163829",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2003-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+   ],
+   "markdown": "###### Artigo 14.º\n\n1 - As sociedades de classificação reconhecidas em Portugal e credenciadas para o exercício das suas funções no MAR são as seguintes:\n\nLloyd's Register of Shipping (LRS);\n\nBureau Veritas (BV);\n\nDet Norske Veritas (DNV);\n\nRegistro Italiano Navale (RINA);\n\nAmerican Bureau of Shipping (ABS);\n\nGermanischer Lloyd (GL);\n\nRinave Portuguesa (RINAVE);\n\nNippon Kaiji Kyokai (NKK).\n\n2 - Serão incluídas no número anterior outras sociedades de classificação que venham a ser reconhecidas pelo Governo Português.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+  },
+  "886206155": {
+   "fragment_id": "886163830",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2003-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+   ],
+   "markdown": "###### Artigo 15.º\n\nPara os navios classificados nas sociedades de classificação reconhecidas em Portugal, e registados no MAR, o MAR delegará nessas sociedades as vistorias, a aprovação do caderno de estabilidade, carga de grão, plano de segurança e outros documentos, bem como a emissão dos certificados internacionais relativos às convenções e resoluções da Organização Marítima Internacional (IMO) e as convenções da OIT a que Portugal se encontra vinculado, nomeadamente:\n\na) Convenção Internacional sobre a Salvaguarda da Vida Humana no Mar, de 1974, Protocolo de 1978 e respectivas emendas em vigor;\n\nb) Convenção Internacional de Linhas de Carga, de 1966;\n\nc) Convenção Internacional para Evitar Abalroamentos no Mar;\n\nd) Convenção Internacional para a Prevenção da Poluição pelos Navios, de 1973, e seu Protocolo de 1988;\n\ne) Resolução da IMO relativa às plataformas;\n\nf) Resolução da IMO relativa aos navios-tanques químicos existentes;\n\ng) Resolução da IMO relativa aos navios-tanques de gases liquefeitos existentes;\n\nh) Convenção n.º 32 da OIT - Aparelho de carga;\n\ni) Convenção n.º 92 da OIT - Alojamentos da tripulação.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+  },
+  "886206156": {
+   "fragment_id": "886163832",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "2003-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+   ],
+   "markdown": "###### Artigo 17.º\n\nO MAR, ouvida a IGN, estabelecerá com as sociedade de classificação reconhecidas a informação, bem como a sua periodicidade, a ser fornecida por estas relativa às vistorias e certificados.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+  },
+  "886206157": {
+   "fragment_id": "886163833",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2003-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+   ],
+   "markdown": "###### Artigo 18.º\n\nQualquer sociedade de classificação reconhecida está obrigada, relativamente aos navios registados no MAR por si classificados, a informar de imediato o Registo nos seguintes casos:\n\na) Deficiências encontradas a bordo em relação às convenções internacionais de que Portugal, é parte;\n\nb) Avarias que afectem as condições de navegabilidade do navio;\n\nc) Acidentes ocorridos com o navio;\n\nd) Perda de classificação do navio na sociedade de classificação.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+  },
+  "886206158": {
+   "fragment_id": "886163835",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2003-12-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+   ],
+   "markdown": "###### Artigo 20.º\n\nO MAR, ouvida a IGN, providenciará junto das sociedades de classificação no sentido de harmonizar todos os certificados e restantes impressos a utilizar nas vistorias e certificação dos navios que arvorem a Bandeira Nacional.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28"
+  },
+  "886206159": {
+   "fragment_id": "886163823",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2007-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2007 - Diário da República n.º 23/2007, Série I de 2007-02-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2007-518258), em vigor a partir de 2007-02-02"
+   ],
+   "markdown": "###### Artigo 9.º\n\nConsoante a situação do registo do navio, o MAR, por delegação da IGN, emitirá o passaporte provisório ou definitivo do navio.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2007 - Diário da República n.º 23/2007, Série I de 2007-02-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2007-518258), em vigor a partir de 2007-02-02"
+  },
+  "910930173": {
+   "fragment_id": "886163818",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2025-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2025/1 - Diário da República n.º 52/2025, Série I de 2025-03-14](https://diariodarepublica.pt/dr/detalhe/portaria/114-2025-910888302), em vigor a partir de 2025-03-15"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Para o registo no MAR será necessário apresentar o relatório de vistoria inicial de registo, feito por perito a indicar pela DGRM ou por ela reconhecido ou por perito de sociedade de classificação reconhecida em Portugal, no caso de o navio estar nela classificado, em modelo previsto no acordo celebrado entre a DGRM e as organizações reconhecidas ou, caso não esteja ainda previsto nesse acordo, em modelo aprovado pela DGRM.\n\n2 - Esta vistoria tem por finalidade verificar a conformidade do navio com o disposto nas convenções internacionais e na legislação europeia vigentes no ordenamento jurídico português.\n\n3 - Será necessária a realização da vistoria prevista no n.º 1, para o navio proposto e aceite para registo pela comissão técnica do MAR, sempre que se enquadre em pelo menos uma das seguintes situações:\n\na) Efetuou no último ano, ou pretende efetuar em simultâneo com a mudança de bandeira, alteração de classificação, proveniente de uma sociedade de classificação não reconhecida pela Administração Marítima Portuguesa;\n\nb) A idade do navio excede o patamar base do intervalo de idades, definido no critério de extensão de idades, em conformidade com os critérios de elegibilidade definidos pela comissão técnica do MAR, por cada tipologia de navio;\n\nc) Por determinação da comissão técnica do MAR, em situações excecionais e devidamente fundamentadas, sempre que estejam em causa o desempenho da companhia, o histórico e a condição do navio no que respeita à certificação de classe e certificação estatutária.\n\n4 - Nas situações não abrangidas pelo número anterior, o relatório de vistoria inicial de registo, referido no n.º 1, pode ser substituído por declaração de conformidade, emitida pelas organizações reconhecidas, com acordo celebrado com a DGRM, em modelo previsto no mesmo, ou, caso não esteja ainda previsto nesse acordo, em modelo aprovado pela DGRM.\n\n5 - Após o registo do navio, no caso daquele ter sido alvo de vistoria inicial referida no n.º 1 ou de declaração de conformidade emitida pela sociedade de classificação, referida no n.º 4, as anomalias, limitações, condições pendentes, isenções e equivalências identificadas na declaração são tratadas no âmbito da certificação estatutária do navio, que ocorre imediatamente após o registo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2025/1 - Diário da República n.º 52/2025, Série I de 2025-03-14](https://diariodarepublica.pt/dr/detalhe/portaria/114-2025-910888302), em vigor a partir de 2025-03-15"
+  },
+  "910930174": {
+   "fragment_id": "886163819",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2025-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2025/1 - Diário da República n.º 52/2025, Série I de 2025-03-14](https://diariodarepublica.pt/dr/detalhe/portaria/114-2025-910888302), em vigor a partir de 2025-03-15"
+   ],
+   "markdown": "###### Artigo 5.º\n\nPara o registo no MAR, um navio pode encontrar-se surto em qualquer porto nacional ou estrangeiro onde possa ser feita a vistoria inicial para o registo, quando haja lugar à realização da mesma.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2025/1 - Diário da República n.º 52/2025, Série I de 2025-03-14](https://diariodarepublica.pt/dr/detalhe/portaria/114-2025-910888302), em vigor a partir de 2025-03-15"
+  }
+ }
+}

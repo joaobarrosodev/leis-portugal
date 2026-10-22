@@ -1,0 +1,240 @@
+---
+schema_version: '1.0'
+id: pt:dre:564799:por
+title: Decreto n.º 51/90
+short_title: null
+summary: Aprova o Acordo Geral de Cooperação Técnico-Económica entre o Governo da República Portuguesa e o Governo da República
+  da Zâmbia
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 51/90
+official_date: null
+publication_date: '1990-11-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 274/1990, Série I de 1990-11-27
+  number: '274'
+  series: I
+  supplement: null
+  pages: 4844 - 4846
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/11/27400/48444846.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '564799'
+  dre_path: /dr/detalhe/decreto/51-1990-564799
+  internal: pt:dre:564799:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/51-1990-564799
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/51-1990-564799
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-11-27T00:00:00Z'
+integrity:
+  source_sha256: c7b39ac5ad656d176d434b25203b2df6cfdc41a65ddaba32cfdddd36290c6d7f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-51-564799.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 51/90
+
+de 27 de Novembro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado, para ratificação, o Acordo Geral de Cooperação Técnico-Económica entre o Governo da República Portuguesa e o Governo da República da Zâmbia, feito em Lusaka, em 2 de Fevereiro de 1990, cuja versão original nas línguas portuguesa e inglesa segue em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1990. - Aníbal António Cavaco Silva - João de Deus Rogado Salvador Pinheiro.
+
+Ratificado em 10 de Novembro de 1990.
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 14 de Novembro de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+ACORDO GERAL DE COOPERAÇÃO TÉCNICO-ECONÓMICA ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA ZÂMBIA.
+
+O Governo da República Portuguesa e o Governo da República da Zâmbia:
+
+Tendo presentes os fins e o espírito da Carta das Nações Unidas;
+
+Reconhecendo o dever e a vontade de reforçar e consolidar as relações futuras económicas e sociais existentes entre os seus países;
+
+No desejo de desenvolver entre si uma cooperação alargada com base nos princípios de absoluta igualdade e de benefícios mútuos e tendo em vista a melhoria dos níveis de vida dos respectivos povos;
+
+acordam no seguinte:
+
+###### Artigo 1.º — Estabelecimento da Comissão Mista
+
+1 - Fica estabelecida entre os Governos Português e Zambiano uma Comissão Mista Permanente (adiante designada por Comissão).
+
+2 - A Comissão será composta por membros do Governo e peritos dos dois Governos com responsabilidades nas áreas de cooperação acordadas.
+
+###### Artigo 2.º — Objectivos
+
+Constitui objectivo do presente Acordo permitir aos dois Governos fixarem programas de cooperação e promoverem o desenvolvimento dos respectivos países.
+
+###### Artigo 3.º — Funções da Comissão
+
+1 - A Comissão terá como responsabilidades:
+
+a) Planear e preparar para adopção pelos Governos da República Portuguesa e da Zâmbia o programa de cooperação bilateral (adiante designado por Programa de Cooperação) necessário à execução dos objectivos do presente Acordo;
+
+b) A execução do Programa de Cooperação adoptado pelos dois Governos, nos termos da alínea anterior;
+
+c) Levar a cabo estudos e análises com vista a definir as fórmulas e os tipos mais apropriados de cooperação a estabelecer nos vários domínios, nomeadamente nos que se relacionam com o desenvolvimento económico de ambos os países, com especial ênfase nos sectores das indústrias, agricultura, transportes e comunicações.
+
+2 - Com vista à execução do presente Acordo, a Comissão poderá vir a utilizar os serviços de instituições técnicas, organizações, empresas e pessoas individuais com o objectivo de recolher informações, levar a cabo estudos e elaborar análises, nos termos do presente Acordo.
+
+3 - A Comissão poderá propor aos dois Governos a celebração de outros acordos com vista ao desenvolvimento da cooperação bilateral.
+
+4 - Compete à Comissão promover a revisão dos acordos referidos no número anterior e transmitir regularmente aos dois Governos as suas recomendações, à luz das novas necessidades que venham a decorrer de experiência prática.
+
+###### Artigo 4.º — Reuniões e funcionamento da Comissão
+
+1 - A Comissão organizará uma reunião ordinária cada dois anos, em datas a acordar. Poderão, no entanto, ter lugar sessões extraordinárias da Comissão quando tal for entendido como necessário pelas Partes.
+
+2 - As reuniões da Comissão terão alternadamente lugar em Portugal e na Zâmbia.
+
+3 - A Comissão definirá o seu próprio regime de funcionamento.
+
+###### Artigo 5.º — Diversos
+
+1 - Na definição do Programa de Cooperação, a Comissão terá em conta os eventuais compromissos de Portugal e da Zâmbia com terceiros em matéria de cooperação.
+
+2 - O presente Acordo entrará em vigor na data da troca de notas diplomáticas, em conformidade com os procedimentos constitucionais de cada Parte.
+
+3 - O presente Acordo poderá ser modificado através de trocas de notas, a pedido de uma das Partes.
+
+Feito em Lusaka, aos 2 de Fevereiro de 1990.
+
+Pelo Governo da República Portuguesa:
+
+José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
+
+Pelo Governo da República da Zâmbia:
+
+Gibson Chigaga, Ministro das Finanças.
+
+THE GENERAL AGREEMENT ON ECONOMIC AND TECHNICAL COOPERATION BETWEEN THE GOVERNMENT OF THE REPUBLIC OF ZAMBIA AND THE GOVERNMENT OF PORTUGAL.
+
+The Government of the Republic of Zambia and the Government of Portugal:
+
+Bearing in mind the aims and spirit of the Charter of the United Nations Organization;
+
+Recognizing their duty and desire to strengthen and consolidate the existing political, economic and social relations; and
+
+Anxious to develop between themselves comprehensive cooperation based on the principles of absolute equality and mutual benefit with the aim of raising the living standards of their people as rapidly as possible;
+
+have agreed as follows:
+
+Article I
+
+Establishment of the commission
+
+1 - There is hereby established, between the Government of the Republic of Zambia and the Government of Portugal, a Permanent Commission of Cooperation (hereinafter referred to as the Commission).
+
+2 - The Commission shall be composed of Ministers and experts from the two Governments with responsibilities in the agreed areas of cooperation.
+
+Article II
+
+Objective
+
+The objective of this agreement is to enable the two Governments to embark on a bilateral programme of cooperation aimed at encoureaging and promoting the development of the two countries.
+
+Article III
+
+Functions of the commission
+
+1 - The Commission shall be responsible for:
+
+a) Planning and recommending to, and for adoption by the Government of the Republic of Zambia and the Gouvernment of Portugal such bilateral programme of cooperation, hereinafter referred to as the «Programme of Cooperation» as may be necessary for the accomplishment of the objective of this Agreement;
+
+b) The implementation of the Programme of Cooperation adopted by the two Governments under paragraph a) of this clause;
+
+c) The undertaking of studies and investigations leading to the determination of the most appropriate form and type of cooperation to be established in various fields with special emphasis on manufacturing, agriculture and tourism, transport and communications.
+
+2 - For the purpose of implementing this Agreement, the Commission may engage the services of technical institutions, organizations, companies or individuals to gather information, to conduct studies and to make investigations in accordance with the provisions of this Agreement.
+
+3 - The Commission may propose to the two Governments agreements for the promotion of the necessary cooperation between them.
+
+4 - The Commission may review these agreements and any of its recommendations to the two Governments from time to time in the light of new needs arising out of practical experience.
+
+Article IV
+
+Meetings venues and procedures
+
+1 - The Commission shall hold ordinary meetings once every two years and on dates convenient to it. It may, however, hold extra-ordinary sessions whenever necessary.
+
+2 - The venue of the meetings of the Commission shall retate regularly between the Republic of Zambia and Portugal.
+
+3 - The Commission shall determine its own procedure.
+
+Article V
+
+Miscellaneous
+
+1 - In drawing up the Programme of Cooperation the Commission shall take cognizance of the possibility that other countries may wish to cooperate with the Republic of Zambia and the Government of Portugal in mutually advantageous undertakings.
+
+2 - This Agreement shall enter into force upon the exchange of notes following the completion of the constitutional procedures of either Party.
+
+3 - This Agreement may be amended by an exchange of diplomatic notes upon the request of either Party.
+
+Done at Lusaka in the Republic of Zambia on this 2nd day of February one thousand nine hundred and ninety in both the English and Portuguese languages.
+
+For the Government of the Republic of Zambia:
+
+Gibson Chigaga.
+
+For the Government of Portugal:
+
+José Manuel Durão Barroso.

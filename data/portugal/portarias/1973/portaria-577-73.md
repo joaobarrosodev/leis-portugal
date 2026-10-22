@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:419673:por
+title: Portaria n.º 577/73
+short_title: null
+summary: Estabelece a data da entrada em vigor do quadro constante da tabela B, da Secretaria-Geral do Ministério da Saúde
+  e Assistência, anexo ao Decreto-Lei n.º 413/71, de 27 de Setembro, e alterado pelo Decreto-Lei n.º 331/72, de 22 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Saúde e Assistência
+proposing_entity: null
+official_number: 577/73
+official_date: null
+publication_date: '1973-08-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 197/1973, Série I de 1973-08-23
+  number: '197'
+  series: I
+  supplement: null
+  pages: 1480 - 1480
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/08/19700/14801480.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '419673'
+  dre_path: /dr/detalhe/portaria/577-1973-419673
+  internal: pt:dre:419673:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-1973-419673
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/577-1973-419673
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1973-08-23T00:00:00Z'
+integrity:
+  source_sha256: 1cbb5a69af05c045db8119a37a3bc50e3a286c5ef306b63423918fab517df976
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-577-419673.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 577/73
+
+de 23 de Agosto
+
+Nos termos do n.º 3 do artigo 64.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Saúde e Assistência:
+
+1.º O quadro constante da tabela B, da Secretaria-Geral do Ministério da Saúde e Assistência, anexo ao [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 331/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1972-676628), de 22 de Agosto, entra em vigor no primeiro dia do mês seguinte ao da publicação desta portaria.
+
+2.º No corrente ano económico os encargos resultantes da entrada em vigor da nova tabela do quadro serão suportados pelos excedentes das verbas de pessoal da Secretaria-Geral.
+
+3.º O primeiro provimento dos novos lugares será feito de harmonia com o disposto no artigo 65.º do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738).
+
+Ministérios das Finanças e da Saúde e Assistência, 1 de Agosto de 1973. - Pelo Ministro das Finanças, Augusto Victor Coelho, Secretário de Estado do Orçamento. - Pelo Ministro da Saúde e Assistência, Alfredo Jorge Assis dos Santos, Secretário de Estado da Saúde e Assistência.

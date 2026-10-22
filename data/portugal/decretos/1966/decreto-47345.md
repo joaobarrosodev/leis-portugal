@@ -1,0 +1,130 @@
+---
+schema_version: '1.0'
+id: pt:dre:477351:por
+title: Decreto n.º 47345
+short_title: null
+summary: Autoriza o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contratos
+  para a execução da obra de construção do aquartelamento para a F. A. P. na base aérea n.º 11 (Beja)
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho - Secretaria de Estado da Aeronáutica
+proposing_entity: null
+official_number: '47345'
+official_date: null
+publication_date: '1966-11-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 275/1966, Série I de 1966-11-26
+  number: '275'
+  series: I
+  supplement: null
+  pages: 2087 - 2088
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/11/27500/20872088.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '477351'
+  dre_path: /dr/detalhe/decreto/47345-1966-477351
+  internal: pt:dre:477351:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/47345-1966-477351
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47345-1966-477351
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-11-26T00:00:00Z'
+integrity:
+  source_sha256: b8b2b47f2d601f2ad09db7d3add87d376902738d4fcd8e4763a90dd519726805
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-47345-477351.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 47345
+
+Considerando que foi adjudicada às firmas Sociedade de Empreitadas Moniz da Maia e Vaz Guedes, Lda. (Somague), AEG Lusitana de Electricidade, S. A. R. L., e João Jacinto Tomé a execução da obra de construção do aquartelamento para a F. A. P. na base aérea n.º 11 (Beja);
+
+Considerando que o prazo de execução de tal obra abrange os anos económicos de 1966 e 1967 e parte do de 1968;
+
+Tendo em conta o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar os seguintes contratos para a execução da obra de construção do aquartelamento para a F. A. P. na base aérea n.º 11 (Beja):
+
+Com a firma Sociedade de Empreitadas Moniz da Maia e Vaz Guedes, Lda. (Somague), para a execução dos edifícios destinados às instalações logísticas, pela importância de 19050875$50;
+
+Com a firma AEG Lusitana de Electricidade, S. A. R. L., para a execução do posto de transformação, pela importância de 1071000$00;
+
+Com a firma João Jacinto Tomé, para a execução da rede de cabos de iluminação exterior, pela importância de 446645$80.
+
+###### Art. 2.º O encargo com esta obra, no montante de 20568521$30, a custear por conta do orçamento suplementar de defesa, será liquidado pelo referido conselho administrativo da seguinte forma:
+
+Em 1966 - 12500000$00 pela verba do capítulo 4.º, artigo 14.º, n.º 2), alínea c), do orçamento suplementar de defesa, assim distribuída:
+
+À firma Sociedade de Empreitadas Moniz da Maia e Vaz Guedes, Lda. (Somague) - 11950000$00;
+
+À firma AEG Lusitana de Electricidade, S. A. R. L. - 300000$00;
+
+À firma João Jacinto Tomé - 250000$00.
+
+Em 1967 - 4038521$30, e o que se apurar como saldo em 1966, pela verba adequada do orçamento suplementar de defesa a publicar, assim distribuída:
+
+À firma Sociedade de Empreitadas Moniz da Maia e Vaz Guedes, Lda. (Somague) - 3220875$50;
+
+À firma AEG Lusitana de Electricidade, S. A. R. L. - 671000$00;
+
+À firma João Jacinto Tomé - 146645$80.
+
+Em 1968 - 4030000$00, e o que se apurar como saldo em 1967, pela verba adequada do orçamento suplementar de defesa a publicar, assim distribuída:
+
+À firma Sociedade de Empreitadas Moniz da Maia e Vaz Guedes, Lda. (Somague) - 3880000$00;
+
+À firma AEG Lusitana de Electricidade, S. A. R. L. - 100000$00;
+
+À firma João Jacinto Tomé - 50000$00.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 26 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Francisco António das Chagas.

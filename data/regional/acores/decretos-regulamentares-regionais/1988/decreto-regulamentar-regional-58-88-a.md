@@ -1,0 +1,169 @@
+---
+schema_version: '1.0'
+id: pt:dre:354275:por
+title: Decreto Regulamentar Regional n.º 58/88/A
+short_title: null
+summary: Altera o quadro de pessoal do Centro de Saúde de Angra do Heroísmo
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional dos Assuntos Sociais - Direcção Regional de Saúde
+proposing_entity: null
+official_number: 58/88/A
+official_date: null
+publication_date: '1988-10-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 243/1988, Série I de 1988-10-20
+  number: '243'
+  series: I
+  supplement: null
+  pages: 4282 - 4284
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/10/24300/42824284.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '354275'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/58-1988-354275
+  internal: pt:dre:354275:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/58-1988-354275
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/58-1988-354275
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-12-15T00:00:00Z'
+integrity:
+  source_sha256: 43cdd7d53e3bfb8e6228d4b0175bf007b5c25e3ce37d2eb0078248c3af75c41f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1988/DRE-1988-58-354275.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:145593:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 58/88/A
+
+Considerando que o [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro, que aprovou o Regulamento dos Centros de Saúde, determina no seu artigo 52.º, n.º 1, que os quadros de pessoal dos centros de saúde serão aprovados por decreto regulamentar regional;
+
+Considerando que os quadros de pessoal dos serviços a integrar nos centros de saúde, ao longo do seu período de vigência, deixaram de corresponder às suas reais necessidades;
+
+Considerando que se revelou indispensável à manutenção das condições mínimas de funcionamento do serviço o recurso à contratação além do quadro;
+
+Considerando de justiça regularizar a situação do pessoal contratado além dos quadros que tem vindo a assegurar satisfatoriamente o funcionamento do serviço;
+
+Considerando o princípio de que os quadros de pessoal devem ser estruturados de acordo com as necessidades permanentes dos serviços, as quais devem ser supridas mediante o recurso ao pessoal dos quadros;
+
+Considerando, contudo, a política vigente de contenção de crescimento do pessoal e as condicionantes legais relativas a dotações:
+
+Assim, em cumprimento dos artigos 52.º, n.º 1, 62.º e 73.º, n.º 2, do [Decreto Regulamentar Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1986-194799), de 24 de Janeiro, o Governo Regional decreta, nos termos da alínea d) do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º O quadro de pessoal do Centro de Saúde de Angra do Heroísmo é o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+###### Art. 2.º O Centro de Saúde de Angra do Heroísmo integra os Serviços Médico-Sociais, a Inspecção de Saúde, o Dispensário de Luta Antituberculosa e o Dispensário do Instituto Maternal, actuantes no concelho de Angra do Heroísmo.
+
+###### Art. 3.º São extintos os serviços de saúde referidos no artigo anterior e revogados os seguintes diplomas, concernentes aos respectivos quadros de pessoal: Decretos Regulamentares Regionais n.os [5/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1978-448715), 15/81/A, [54/81/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/54-1981-567883), [18/83/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/18-1983-311469), [2/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1986-191817), [6/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1986-193441) e [31/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/31-1986-220116), de 3 de Fevereiro, 24 de Fevereiro, 4 de Dezembro, 27 de Abril, 22 de Janeiro, 10 de Março e 10 de Setembro, respectivamente.
+
+###### Art. 4.º A colocação do pessoal que exerce funções nos serviços referidos no artigo 2.º nos novos lugares agora criados é feita nos termos da lei geral.
+
+###### Art. 5.º O pessoal que, sendo agente, desempenhe funções em regime de tempo completo, se encontre sujeito à disciplina, hierarquia e horário dos serviços a integrar no Centro de Saúde de Angra do Heroísmo, conte mais de três anos de serviço ininterrupto e tenha sido admitido com observância dos requisitos habilitacionais pode ser integrado directamente em lugares do novo quadro em categoria correspondente às funções que actualmente desempenha.
+
+###### Art. 6.º Como órgãos de execução dos serviços de carácter administrativo do Centro de Saúde de Angra do Heroísmo constituem-se duas repartições.
+
+###### Art. 7.º - 1 - A 1.ª Repartição compreende duas secções.
+
+2 - À 1.ª Secção compete:
+
+a) Administração de pessoal, expediente e arquivo;
+
+b) Contabilidade;
+
+c) Aquisições;
+
+d) Armazém;
+
+e) Apoio geral;
+
+f) Reprografia;
+
+g) Parque auto.
+
+3 - À 2.ª Secção compete:
+
+a) Conferência de facturas;
+
+b) Processamento de reembolsos e estadas.
+
+###### Art. 8.º - 1 - A 2.ª Repartição compreende duas secções.
+
+2 - À 1.ª Secção compete:
+
+a) Apoio aos postos clínicos;
+
+b) Serviço de vacinas;
+
+c) Controle de viaturas nos postos;
+
+d) Lavandaria e esterilização.
+
+3 - À 2.ª Secção compete:
+
+a) Serviço administrativo;
+
+b) Apoio ao serviço médico e de enfermagem;
+
+c) Marcação de consultas.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 28 de Julho de 1988.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 26 de Setembro de 1988.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/24300/42824284.pdf))](https://files.diariodarepublica.pt/1s/1988/10/24300/42824284.pdf)

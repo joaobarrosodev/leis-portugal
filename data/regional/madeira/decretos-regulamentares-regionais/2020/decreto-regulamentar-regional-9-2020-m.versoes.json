@@ -1,0 +1,835 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:128277509:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2020-179804348",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/9-2020-128277509",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-01-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "852763815",
+    "179875909",
+    "179875910",
+    "179875911",
+    "179875912",
+    "179875913",
+    "179875914",
+    "179875915",
+    "179875916",
+    "179875917",
+    "179875918",
+    "179875919",
+    "179875920",
+    "179875921",
+    "179875922",
+    "179875923",
+    "179875924",
+    "179875925",
+    "179875926",
+    "179875927",
+    "179875928",
+    "179875929",
+    "179875930",
+    "179875931",
+    "179875932",
+    "179875933",
+    "179875934",
+    "179875935",
+    "179875936",
+    "179875937",
+    "179875938",
+    "179875940",
+    "179875941"
+   ]
+  },
+  {
+   "date": "2022-03-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179804278:por",
+     "title": "Decreto Regulamentar Regional n.º 3/2022/M",
+     "published": "2022-03-02",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "179875908",
+    "179875909",
+    "179875942",
+    "179875911",
+    "179875943",
+    "179875913",
+    "179875914",
+    "179875915",
+    "179875944",
+    "179875917",
+    "179875918",
+    "179875945",
+    "179875920",
+    "179875921",
+    "179875922",
+    "179875946",
+    "179875924",
+    "179875947",
+    "179875926",
+    "179875927",
+    "179875928",
+    "179875929",
+    "179875930",
+    "179875931",
+    "179875932",
+    "179875933",
+    "179875934",
+    "179875935",
+    "179875936",
+    "179875937",
+    "179875938",
+    "179875939",
+    "179875940",
+    "179875941"
+   ]
+  },
+  {
+   "date": "2024-02-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:848804212:por",
+     "title": "Decreto Regulamentar Regional n.º 11/2024/M",
+     "published": "2024-02-14",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "852763815",
+    "852763816",
+    "852763817",
+    "852763818",
+    "852763819",
+    "852763820",
+    "852763821",
+    "852763822",
+    "852763823",
+    "852763824",
+    "852763825",
+    "852763826",
+    "852763827",
+    "852763828",
+    "852763829",
+    "852763830",
+    "852763831",
+    "852763832",
+    "852763833",
+    "852763834",
+    "852763835",
+    "852763836",
+    "852763837",
+    "852763838",
+    "852763839",
+    "852763840",
+    "852763841",
+    "852763842",
+    "852763843",
+    "852763844",
+    "852763845",
+    "852763846",
+    "852763847",
+    "852763848"
+   ]
+  }
+ ],
+ "fragments": {
+  "852763815": {
+   "fragment_id": "179804349",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-02-15",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 9/2020/M\n\nSumário: Aprova a orgânica da Secretaria Regional de Equipamentos e Infraestruturas.\n\nAprova a orgânica da Secretaria Regional de Equipamentos e Infraestruturas\n\nO Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, que aprova a organização e funcionamento do XIII Governo Regional da Madeira e revoga o Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, integra, na alínea k) do seu artigo 1.º, a Secretaria Regional de Equipamentos e Infraestruturas na respetiva estrutura orgânica.\n\nA este departamento governamental foram cometidas as atribuições nos setores dos edifícios, infraestruturas e equipamentos públicos, estradas regionais, obras públicas, hidráulica fluvial, barragens, e investigação e monitorização de obras, bem como a tutela sobre as entidades elencadas no n.º 2 do artigo 12.º do mencionado diploma, e ainda as competências e definição das orientações na Concessionária de Estradas - VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A.\n\nA presente orgânica observa os princípios e normas respeitantes à organização da administração direta e indireta da Região Autónoma da Madeira, constantes da atual redação do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro.\n\nCom efeito, e de forma a conferir uma dinâmica mais adequada às novas exigências que se colocam a esta Secretaria Regional, é criada a Unidade de Acompanhamento da Construção do Hospital Central da Madeira, que permitirá responder aos novos desígnios da política do Governo Regional na matéria, racionalizando-se meios, recursos e competências na atuação administrativa, mantendo-se todos os demais serviços da administração direta e indireta na estrutura orgânica deste departamento do Governo Regional.\n\nNeste enquadramento, importa aprovar a orgânica da Secretaria Regional de Equipamentos e Infraestruturas, dotando-a de uma estrutura organizacional que, num contexto de modernização administrativa e de uma administração pública regional eficiente e eficaz, assegure o cumprimento da sua missão e a prossecução das funções que lhe foram atribuídas.\n\nAssim, nos termos do disposto no n.º 1 do artigo 14.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, do n.º 3 do artigo 56.º, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e do artigo 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "179875909": {
+   "fragment_id": "179804350",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, missão, atribuições e competências"
+  },
+  "179875910": {
+   "fragment_id": "179804351",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\nA Secretaria Regional de Equipamentos e Infraestruturas, designada abreviadamente por SREI, é o departamento do Governo Regional da Madeira a que se referem a alínea k) do artigo 1.º e o artigo 12.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, que tem por missão definir, promover, coordenar e executar a política regional nos setores dos edifícios, infraestruturas e equipamentos públicos, estradas regionais, obras públicas, hidráulica fluvial, barragens, e investigação e monitorização de obras."
+  },
+  "179875911": {
+   "fragment_id": "179804352",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNa prossecução da sua missão, constituem atribuições da SREI:\n\na) Promover a execução das políticas definidas para os setores que lhe estão adstritos;\n\nb) Elaborar, no quadro dos planos de orientação estratégica regionais, de médio e longo prazo, os planos setoriais relativos aos seus domínios de atuação;\n\nc) Assegurar o desenvolvimento integrado das ações conducentes à satisfação das necessidades coletivas nos setores do seu âmbito;\n\nd) Promover formas de cooperação com entidades regionais, nacionais e internacionais, no âmbito das suas áreas de atuação;\n\ne) Assegurar a observância das disposições reguladoras das tarefas que lhe são cometidas, sem prejuízo das atribuições e competências conferidas por lei a outras entidades;\n\nf) Superintender e realizar a gestão dos meios humanos e materiais para a efetivação das atribuições enunciadas nas alíneas anteriores."
+  },
+  "179875912": {
+   "fragment_id": "179804353",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - A SREI é superiormente representada e dirigida pelo Secretário Regional de Equipamentos e Infraestruturas, designado abreviadamente no presente diploma por Secretário Regional, ao qual são genericamente cometidas as seguintes competências:\n\na) Estudar, definir e orientar a política da Região Autónoma da Madeira nos setores de atividade referidos no artigo 1.º, elaborando os respetivos planos setoriais, a serem integrados nos planos estratégicos de âmbito regional;\n\nb) Promover, controlar e coordenar as ações tendentes à execução e cumprimento dos planos estabelecidos para os mencionados setores de atividade;\n\nc) Superintender e coordenar a ação dos vários órgãos e serviços da Secretaria Regional de Equipamentos e Infraestruturas;\n\nd) Elaborar os projetos e propostas de decretos legislativos e regulamentares regionais que se revelarem necessários à prossecução e desenvolvimento dos setores de atividade que na Região estão afetos à Secretaria Regional de Equipamentos e Infraestruturas;\n\ne) Aprovar ou submeter à aprovação do Conselho de Governo, conforme a lei vigente, os projetos de obras respeitantes aos setores que lhe estão afetos;\n\nf) Autorizar ou submeter à autorização do Conselho do Governo a adjudicação e a celebração de quaisquer contratos no âmbito do regime jurídico vigente para a contratação pública;\n\ng) Aprovar portarias, despachos, circulares e instruções em matéria da sua competência;\n\nh) Praticar todos os atos concernentes ao provimento, movimento e disciplina dos trabalhadores e demais agentes da Secretaria Regional de Equipamentos e Infraestruturas;\n\ni) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe sejam delegadas pelo Presidente ou pelo Conselho do Governo Regional.\n\n2 - Compete ao Secretário Regional exercer a tutela sobre as entidades previstas no n.º 2 do artigo 12.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro.\n\n3 - São ainda cometidas ao Secretário Regional as competências e definição das orientações nas empresas participadas mencionadas no n.º 3 do artigo 12.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro.\n\n4 - O Secretário Regional poderá delegar, com faculdade de subdelegação, nos termos da lei, no Chefe do Gabinete, no pessoal afeto ao seu gabinete ou nos responsáveis pelos diversos departamentos, as competências que julgar convenientes.\n\n5 - O Secretário Regional poderá, igualmente, avocar as competências dos responsáveis pelos organismos e serviços da SREI."
+  },
+  "179875913": {
+   "fragment_id": "179804354",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "179875914": {
+   "fragment_id": "179804355",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Estrutura geral\n\nA SREI prossegue as suas atribuições através de serviços integrados na administração direta e de entidades integradas no setor empresarial da Região Autónoma da Madeira."
+  },
+  "179875915": {
+   "fragment_id": "179804356",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Serviços da administração direta\n\n1 - Integram a administração direta da Região Autónoma da Madeira, no âmbito da SREI, as seguintes estruturas ou serviços centrais:\n\na) Gabinete do Secretário Regional;\n\nb) Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas;\n\nc) Direção Regional do Equipamento Social e Conservação;\n\nd) Direção Regional de Estradas;\n\ne) Laboratório Regional de Engenharia Civil;\n\nf) Unidade de Acompanhamento da Construção do Hospital Central da Madeira.\n\n2 - A estrutura referida na alínea a) do n.º 1 assegura o apoio técnico e administrativo necessário ao exercício das competências do Secretário Regional.\n\n3 - Os serviços referidos nas alíneas b) a f) do n.º 1 são serviços executivos que garantem a prossecução das políticas referidas no artigo 1.º do presente diploma.\n\n4 - Os serviços referidos nas alíneas b) a d) são dirigidos por um diretor regional, cargo de direção superior de 1.º grau.\n\n5 - Os serviços referidos nas alíneas e) e f) são dirigidos por um diretor, equiparado para todos os efeitos legais a cargo de direção superior de 1.º grau."
+  },
+  "179875916": {
+   "fragment_id": "179804357",
+   "type": 11,
+   "heading": "Artigo 6.º — Setor empresarial da Região Autónoma da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Setor empresarial da Região Autónoma da Madeira\n\n1 - A SREI exerce a tutela sobre as seguintes entidades:\n\na) PATRIRAM - Titularidade e Gestão do Património Público Regional, S. A.;\n\nb) Sociedade de Desenvolvimento do Norte da Madeira, S. A.;\n\nc) Sociedade de Desenvolvimento do Porto Santo, S. A.;\n\nd) Sociedade Metropolitana de Desenvolvimento, S. A.;\n\ne) Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S. A.\n\n2 - As competências e definição das orientações na Concessionária de Estradas - VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira, são cometidas à SREI."
+  },
+  "179875917": {
+   "fragment_id": "179804358",
+   "type": 1,
+   "heading": "Capítulo III — Dos serviços da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos serviços da administração direta"
+  },
+  "179875918": {
+   "fragment_id": "179804359",
+   "type": 8,
+   "heading": "Secção I — Missão, atribuições e organização do Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Missão, atribuições e organização do Gabinete do Secretário Regional"
+  },
+  "179875919": {
+   "fragment_id": "179804360",
+   "type": 11,
+   "heading": "Artigo 7.º — Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gabinete do Secretário Regional\n\n1 - O Gabinete do Secretário Regional, abreviadamente designado por Gabinete, tem por missão coadjuvá-lo no exercício das suas funções, assegurando o planeamento e o apoio técnico, estratégico, jurídico, financeiro, administrativo e logístico, bem como no domínio da gestão dos recursos humanos, necessários ao exercício das suas competências.\n\n2 - O Gabinete é composto por um Chefe do Gabinete, um máximo de três adjuntos, dois secretários pessoais e dois motoristas, de acordo com o disposto no n.º 2 do artigo 13.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, a designar por despacho do Secretário Regional, compreendendo ainda as unidades orgânicas que funcionam sob a sua direta dependência.\n\n3 - São atribuições do Gabinete:\n\na) Prestar apoio técnico, estratégico, jurídico, financeiro, administrativo e logístico, bem como no domínio da gestão dos recursos humanos, ao Secretário Regional;\n\nb) Garantir o funcionamento harmonioso e concertado dos órgãos e serviços que integram a SREI;\n\nc) Assegurar o expediente do Gabinete, nomeadamente a interligação desta Secretaria Regional com os demais departamentos do Governo Regional;\n\nd) Preparar e coordenar os assuntos a submeter a despacho do Secretário Regional;\n\ne) Analisar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade no âmbito do Gabinete e assegurar a articulação com os serviços da SREI com competências nestas áreas;\n\nf) Assegurar o desenvolvimento das atribuições conferidas às unidades de gestão, a que se refere o n.º 3 do artigo 14.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro;\n\ng) Exercer as demais funções que lhe sejam cometidas e ou delegadas pelo Secretário Regional.\n\n4 - O Gabinete é coordenado e dirigido pelo Chefe do Gabinete, que representa o Secretário Regional, exceto nos atos de caráter oficial, e que exerce ainda as competências delegadas por despacho do Secretário Regional.\n\n5 - Nas suas ausências e impedimentos, o Chefe do Gabinete é substituído por um adjunto ou por outro membro do Gabinete designado, para o efeito, pelo Secretário Regional."
+  },
+  "179875920": {
+   "fragment_id": "179804361",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna do Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna do Gabinete do Secretário Regional\n\nA organização interna do Gabinete compreende unidades orgânicas nucleares e flexíveis e obedece ao modelo de estrutura hierarquizada, sendo aprovada nos termos do disposto no artigo 21.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro."
+  },
+  "179875921": {
+   "fragment_id": "179804362",
+   "type": 8,
+   "heading": "Secção II — Missão dos serviços executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Missão dos serviços executivos"
+  },
+  "179875922": {
+   "fragment_id": "179804363",
+   "type": 11,
+   "heading": "Artigo 9.º — Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas\n\nA Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas tem por missão assegurar as funções de apoio técnico e logístico ao Gabinete do Secretário Regional e à Direção Regional do Equipamento Social e Conservação, nos domínios da contratação pública, da programação e planeamento estratégico e do controlo e gestão orçamental, bem como coordenar a utilização, gestão e manutenção dos equipamentos, viaturas e materiais ao serviço do Governo Regional."
+  },
+  "179875923": {
+   "fragment_id": "179804364",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção Regional do Equipamento Social e Conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direção Regional do Equipamento Social e Conservação\n\n1 - A Direção Regional do Equipamento Social e Conservação tem por missão assegurar a manutenção, a conservação e a reabilitação de edifícios, equipamentos e infraestruturas públicas, bem como a concretização de obras públicas, que lhe sejam cometidas, por forma a garantir a execução de políticas do Governo Regional para o setor.\n\n2 - A Direção Regional do Equipamento Social e Conservação tem por missão especial promover as ações conducentes à concretização da estratégia definida no âmbito das barragens e do domínio público hídrico fluvial da Região, a cargo do setor."
+  },
+  "179875924": {
+   "fragment_id": "179804365",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção Regional de Estradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direção Regional de Estradas\n\nA Direção Regional de Estradas tem por missão assegurar a execução política do planeamento, da concretização e da gestão das infraestruturas rodoviárias da rede regional que não estejam afetas às concessões rodoviárias, bem como promover e assegurar o apoio técnico às competências previstas no n.º 3 do artigo 3.º e no n.º 2 do artigo 6.º do presente diploma."
+  },
+  "179875925": {
+   "fragment_id": "179804366",
+   "type": 11,
+   "heading": "Artigo 12.º — Laboratório Regional de Engenharia Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Laboratório Regional de Engenharia Civil\n\nO Laboratório Regional de Engenharia Civil tem por missão realizar, coordenar e promover a investigação científica e o desenvolvimento tecnológico, bem como outras atividades científicas e técnicas necessárias ao progresso e à boa prática da engenharia civil, exercendo a sua ação, fundamentalmente, nos domínios da construção e obras públicas, da habitação e urbanismo, do ambiente, da indústria dos materiais, componentes e outros produtos para a construção e em áreas afins, visando a sua atividade, no essencial, a qualidade e a segurança das obras, a proteção e a reabilitação do património natural e construído, bem como a modernização e inovação tecnológicas do setor da construção."
+  },
+  "179875926": {
+   "fragment_id": "179804367",
+   "type": 11,
+   "heading": "Artigo 13.º — Unidade de Acompanhamento da Construção do Hospital Central da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Unidade de Acompanhamento da Construção do Hospital Central da Madeira\n\nA Unidade de Acompanhamento da Construção do Hospital Central da Madeira tem por missão proceder à coordenação e acompanhamento da execução de todos os procedimentos e trabalhos respeitantes à construção da obra do Hospital Central da Madeira, e dos demais contratos associados, bem como promover e assegurar a interligação entre todas as entidades e organismos públicos e privados envolvidos."
+  },
+  "179875927": {
+   "fragment_id": "179804368",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "179875928": {
+   "fragment_id": "179804369",
+   "type": 11,
+   "heading": "Artigo 14.º — Sistema de gestão de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sistema de gestão de pessoal\n\n1 - A gestão de pessoal dos serviços da administração direta da SREI rege-se pelo sistema centralizado de gestão, estabelecido nos artigos 6.º a 9.º do Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto.\n\n2 - O sistema centralizado de gestão de recursos humanos referido no número anterior consiste na concentração na Secretaria Regional dos trabalhadores com relação jurídica de emprego público constituída por tempo indeterminado, integrados nas carreiras gerais e nas carreiras e categorias subsistentes, e posterior afetação aos órgãos e serviços da sua administração direta, de acordo com as necessidades verificadas por despacho do Secretário Regional.\n\n3 - Os trabalhadores referidos no número anterior são integrados no sistema centralizado da SREI, através de lista nominativa aprovada por despacho do Secretário Regional publicada na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.\n\n4 - O sistema centralizado de gestão obedece, designadamente, aos seguintes princípios:\n\na) A afetação determina a competência do dirigente máximo do respetivo serviço para praticar todos os atos no âmbito da gestão dos recursos humanos, nomeadamente avaliação de desempenho, marcação de férias e de faltas e registo de assiduidade;\n\nb) Por despacho do Secretário Regional, e sem prejuízo dos direitos e garantias dos trabalhadores, pode ser revista a afetação, sempre que se verifique a alteração de circunstâncias ou quando o plano de atividades dos serviços o justificar;\n\nc) O recrutamento de trabalhadores para postos de trabalho que se encontrem abrangidos pelo sistema centralizado de gestão é feito para a SREI, sem prejuízo de ser determinado no aviso de abertura do procedimento concursal ou no pedido de utilização de reservas de recrutamento o órgão ou serviço ao qual o trabalhador ficará afeto, através de referência ao respetivo mapa de pessoal onde o posto de trabalho se encontra previsto;\n\nd) A lista nominativa referida no n.º 3 será atualizada de acordo com o disposto no artigo 9.º do Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, bem como sempre que haja saída definitiva de trabalhadores abrangidos no regime centralizado da SREI, procedendo-se, neste caso, à sua eliminação da referida lista."
+  },
+  "179875929": {
+   "fragment_id": "179804370",
+   "type": 11,
+   "heading": "Artigo 15.º — Carreiras subsistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Carreiras subsistentes\n\n1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador e de chefe de departamento é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de agosto, objeto da Declaração de Retificação n.º 15-I/99, publicada no Diário da República, 1.ª série-A, n.º 299, 2.º suplemento, de 30 de setembro, sendo-lhes aplicável o disposto no artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66/2012 e 66-B/2012, ambas de 31 de dezembro, e pelo Decreto-Lei n.º 47/2013, de 5 de abril.\n\n2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro.\n\n3 - Os postos de trabalho relativos à carreira de chefe de departamento são extintos à medida que vagarem."
+  },
+  "179875930": {
+   "fragment_id": "179804371",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "179875931": {
+   "fragment_id": "179804372",
+   "type": 11,
+   "heading": "Artigo 16.º — Dotação de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Dotação de cargos de direção\n\n1 - A dotação de cargos de direção superior da administração direta da SREI consta do anexo i ao presente diploma, do qual faz parte integrante.\n\n2 - A dotação de lugares de direção intermédia de 1.º grau das unidades orgânicas que funcionam sob a direta dependência do Gabinete do Secretário Regional consta do anexo ii ao presente diploma, do qual faz parte integrante."
+  },
+  "179875932": {
+   "fragment_id": "179804373",
+   "type": 11,
+   "heading": "Artigo 17.º — Manutenção de serviços e de comissões de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Manutenção de serviços e de comissões de serviços\n\n1 - Até à aprovação da organização interna do Gabinete do Secretário Regional, a que se refere o artigo 8.º, as unidades orgânicas constantes da Portaria n.º 352/2019, de 14 de junho, da Vice-Presidência do Governo Regional e da Secretaria Regional dos Equipamentos e Infraestruturas, do Despacho n.º 141/2018, de 18 de abril, alterado pelo Despacho n.º 169/2019, de 23 de julho, e do Despacho n.º 204/2019, de 26 de agosto, todos do Secretário Regional dos Equipamentos e Infraestruturas, mantêm a mesma natureza jurídica, mantendo-se as comissões de serviço dos respetivos titulares de cargos dirigentes.\n\n2 - Mantêm-se as atribuições, a orgânica, o funcionamento e o pessoal de cada um dos órgãos e serviços executivos referidos nas alíneas b) a e) do n.º 1 do artigo 5.º, constantes dos Decretos Regulamentares Regionais n.os 20/2016/M, de 25 de agosto, 4/2016/M, de 28 de janeiro, 21/2016/M, de 30 de setembro, alterado pelo Decreto Regulamentar Regional n.º 7/2019/M, de 18 de setembro, e 17/2016/M, de 5 de julho, alterado pelo Decreto Regulamentar Regional n.º 11/2018/M, de 24 de setembro, respetivamente, bem como os demais diplomas orgânicos dos mesmos decorrentes."
+  },
+  "179875933": {
+   "fragment_id": "179804374",
+   "type": 11,
+   "heading": "Artigo 18.º — Criação de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Criação de serviço\n\nÉ criada a Unidade de Acompanhamento da Construção do Hospital Central da Madeira."
+  },
+  "179875934": {
+   "fragment_id": "179875975",
+   "type": 11,
+   "heading": "Artigo 19.º — Lista nominativa e afetação de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Lista nominativa e afetação de pessoal\n\nA lista nominativa do pessoal abrangido pelo sistema centralizado de gestão da SREI é objeto de atualização e publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira e publicitação na página eletrónica da SREI, sendo revista a afetação do pessoal abrangido pelo sistema centralizado de gestão aos serviços da administração direta."
+  },
+  "179875935": {
+   "fragment_id": "179875976",
+   "type": 11,
+   "heading": "Artigo 20.º — Procedimentos concursais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Procedimentos concursais\n\nNos termos legais aplicáveis, mantêm-se os procedimentos concursais de recrutamento de pessoal pendentes à data da entrada em vigor do presente diploma."
+  },
+  "179875936": {
+   "fragment_id": "179875977",
+   "type": 11,
+   "heading": "Artigo 21.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Referências\n\nTodas as referências legais, regulamentares ou contratuais feitas à Secretaria Regional dos Equipamentos e Infraestruturas devem considerar-se reportadas à Secretaria Regional de Equipamentos e Infraestruturas."
+  },
+  "179875937": {
+   "fragment_id": "179875978",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar Regional n.º 2/2018/M, de 24 de janeiro, alterado e republicado pelo Decreto Regulamentar Regional n.º 1/2019/M, de 15 de fevereiro."
+  },
+  "179875938": {
+   "fragment_id": "179875979",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor e produção de efeitos\n\n1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte.\n\n2 - A criação do serviço previsto na alínea f) do n.º 1 do artigo 5.º e nos artigos 13.º e 18.º apenas produz efeitos com a data da entrada em vigor do diploma que aprovar a sua organização e funcionamento."
+  },
+  "179875940": {
+   "fragment_id": "179875981",
+   "type": 14,
+   "heading": "Anexo I — Cargos de direção superior da administração direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Cargos de direção superior da administração direta\n\n(ver documento original)"
+  },
+  "179875941": {
+   "fragment_id": "179875982",
+   "type": 14,
+   "heading": "Anexo II — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional\n\n(ver documento original)\n\n112909621"
+  },
+  "179875908": {
+   "fragment_id": "179804349",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 9/2020/M\n\nSumário: Aprova a orgânica da Secretaria Regional de Equipamentos e Infraestruturas.\n\nAprova a orgânica da Secretaria Regional de Equipamentos e Infraestruturas\n\nO Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, que aprova a organização e funcionamento do XIII Governo Regional da Madeira e revoga o Decreto Regulamentar Regional n.º 13/2017/M, de 7 de novembro, integra, na alínea k) do seu artigo 1.º, a Secretaria Regional de Equipamentos e Infraestruturas na respetiva estrutura orgânica.\n\nA este departamento governamental foram cometidas as atribuições nos setores dos edifícios, infraestruturas e equipamentos públicos, estradas regionais, obras públicas, hidráulica fluvial, barragens, e investigação e monitorização de obras, bem como a tutela sobre as entidades elencadas no n.º 2 do artigo 12.º do mencionado diploma, e ainda as competências e definição das orientações na Concessionária de Estradas - VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A.\n\nA presente orgânica observa os princípios e normas respeitantes à organização da administração direta e indireta da Região Autónoma da Madeira, constantes da atual redação do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro.\n\nCom efeito, e de forma a conferir uma dinâmica mais adequada às novas exigências que se colocam a esta Secretaria Regional, é criada a Unidade de Acompanhamento da Construção do Hospital Central da Madeira, que permitirá responder aos novos desígnios da política do Governo Regional na matéria, racionalizando-se meios, recursos e competências na atuação administrativa, mantendo-se todos os demais serviços da administração direta e indireta na estrutura orgânica deste departamento do Governo Regional.\n\nNeste enquadramento, importa aprovar a orgânica da Secretaria Regional de Equipamentos e Infraestruturas, dotando-a de uma estrutura organizacional que, num contexto de modernização administrativa e de uma administração pública regional eficiente e eficaz, assegure o cumprimento da sua missão e a prossecução das funções que lhe foram atribuídas.\n\nAssim, nos termos do disposto no n.º 1 do artigo 14.º do Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, do n.º 3 do artigo 56.º, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e do artigo 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "179875942": {
+   "fragment_id": "179804351",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": "2022-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\nA Secretaria Regional de Equipamentos e Infraestruturas, designada abreviadamente por SREI, é o departamento do Governo Regional da Madeira a que se referem a alínea k) do artigo 1.º e o artigo 12.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, que tem por missão definir, promover, coordenar e executar a política regional nos setores dos edifícios, infraestruturas e equipamentos públicos, estradas regionais, obras públicas, hidráulica fluvial, barragens, investigação e monitorização de obras, produção e fornecimento de energia e habitação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "179875943": {
+   "fragment_id": "179804353",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": "2022-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - A SREI é superiormente representada e dirigida pelo Secretário Regional de Equipamentos e Infraestruturas, designado abreviadamente no presente diploma por Secretário Regional, ao qual são genericamente cometidas as seguintes competências:\n\na) Estudar, definir e orientar a política da Região Autónoma da Madeira nos setores de atividade referidos no artigo 1.º, elaborando os respetivos planos setoriais, a serem integrados nos planos estratégicos de âmbito regional;\n\nb) Promover, controlar e coordenar as ações tendentes à execução e cumprimento dos planos estabelecidos para os mencionados setores de atividade;\n\nc) Superintender e coordenar a ação dos vários órgãos e serviços da Secretaria Regional de Equipamentos e Infraestruturas;\n\nd) Elaborar os projetos e propostas de decretos legislativos e regulamentares regionais que se revelarem necessários à prossecução e desenvolvimento dos setores de atividade que na Região estão afetos à Secretaria Regional de Equipamentos e Infraestruturas;\n\ne) Aprovar ou submeter à aprovação do Conselho de Governo, conforme a lei vigente, os projetos de obras respeitantes aos setores que lhe estão afetos;\n\nf) Autorizar ou submeter à autorização do Conselho do Governo a adjudicação e a celebração de quaisquer contratos no âmbito do regime jurídico vigente para a contratação pública;\n\ng) Aprovar portarias, despachos, circulares e instruções em matéria da sua competência;\n\nh) Praticar todos os atos concernentes ao provimento, movimento e disciplina dos trabalhadores e demais agentes da Secretaria Regional de Equipamentos e Infraestruturas;\n\ni) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe sejam delegadas pelo Presidente ou pelo Conselho do Governo Regional.\n\n2 - Compete ao Secretário Regional exercer a tutela sobre as entidades previstas no n.º 2 do artigo 12.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto.\n\n3 - São ainda cometidas ao Secretário Regional as competências e definição das orientações nas empresas participadas mencionadas no n.º 3 do artigo 12.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto.\n\n4 - O Secretário Regional poderá delegar, com faculdade de subdelegação, nos termos da lei, no Chefe do Gabinete, no pessoal afeto ao seu gabinete ou nos responsáveis pelos diversos departamentos, as competências que julgar convenientes.\n\n5 - O Secretário Regional poderá, igualmente, avocar as competências dos responsáveis pelos organismos e serviços da SREI.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "179875944": {
+   "fragment_id": "179804357",
+   "type": 11,
+   "heading": "Artigo 6.º — Setor empresarial da Região Autónoma da Madeira",
+   "in_force_from": "2022-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 6.º — Setor empresarial da Região Autónoma da Madeira\n\n1 - A SREI exerce a tutela sobre as seguintes entidades:\n\na) (Revogada.)\n\nb) EEM - Empresa de Eletricidade da Madeira, S. A.;\n\nc) IHM - Investimentos Habitacionais da Madeira, EPERAM;\n\nd) Sociedade de Desenvolvimento do Norte da Madeira, S. A.;\n\ne) Sociedade de Desenvolvimento do Porto Santo, S. A.;\n\nf) Sociedade Metropolitana de Desenvolvimento, S. A.;\n\ng) Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S. A.\n\n2 - As competências e definição das orientações na Concessionária de Estradas - VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira, são cometidas à SREI.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "179875945": {
+   "fragment_id": "179804360",
+   "type": 11,
+   "heading": "Artigo 7.º — Gabinete do Secretário Regional",
+   "in_force_from": "2022-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 7.º — Gabinete do Secretário Regional\n\n1 - O Gabinete do Secretário Regional, abreviadamente designado por Gabinete, tem por missão coadjuvá-lo no exercício das suas funções, assegurando o planeamento e o apoio técnico, estratégico, jurídico, financeiro, administrativo e logístico, bem como no domínio da gestão dos recursos humanos, necessários ao exercício das suas competências.\n\n2 - O Gabinete é composto por um Chefe do Gabinete, um máximo de três adjuntos, dois secretários pessoais e dois motoristas, de acordo com o disposto no n.º 2 do artigo 13.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, a designar por despacho do Secretário Regional, compreendendo ainda as unidades orgânicas que funcionam sob a sua direta dependência.\n\n3 - São atribuições do Gabinete:\n\na) Prestar apoio técnico, estratégico, jurídico, financeiro, administrativo e logístico, bem como no domínio da gestão dos recursos humanos, ao Secretário Regional;\n\nb) Garantir o funcionamento harmonioso e concertado dos órgãos e serviços que integram a SREI;\n\nc) Assegurar o expediente do Gabinete, nomeadamente a interligação desta Secretaria Regional com os demais departamentos do Governo Regional;\n\nd) Preparar e coordenar os assuntos a submeter a despacho do Secretário Regional;\n\ne) Analisar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade no âmbito do Gabinete e assegurar a articulação com os serviços da SREI com competências nestas áreas;\n\nf) Assegurar o desenvolvimento das atribuições conferidas às unidades de gestão, a que se refere o n.º 3 do artigo 14.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto;\n\ng) Exercer as demais funções que lhe sejam cometidas e ou delegadas pelo Secretário Regional.\n\n4 - O Gabinete é coordenado e dirigido pelo Chefe do Gabinete, que representa o Secretário Regional, exceto nos atos de caráter oficial, e que exerce ainda as competências delegadas por despacho do Secretário Regional.\n\n5 - Nas suas ausências e impedimentos, o Chefe do Gabinete é substituído por um adjunto ou por outro membro do Gabinete designado, para o efeito, pelo Secretário Regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "179875946": {
+   "fragment_id": "179804364",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção Regional do Equipamento Social e Conservação",
+   "in_force_from": "2022-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 10.º — Direção Regional do Equipamento Social e Conservação\n\n1 - A Direção Regional do Equipamento Social e Conservação tem por missão assegurar a manutenção, a conservação e a reabilitação de edifícios, equipamentos e infraestruturas públicas, bem como a concretização de obras públicas, que lhe sejam cometidas, por forma a garantir a execução de políticas do Governo Regional para o setor.\n\n2 - A Direção Regional do Equipamento Social e Conservação tem por missão especial promover as ações conducentes à concretização da estratégia definida no âmbito da hidráulica fluvial, a cargo do setor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "179875947": {
+   "fragment_id": "179804366",
+   "type": 11,
+   "heading": "Artigo 12.º — Laboratório Regional de Engenharia Civil",
+   "in_force_from": "2022-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 12.º — Laboratório Regional de Engenharia Civil\n\nO Laboratório Regional de Engenharia Civil tem por missão realizar, coordenar e promover a investigação científica, o desenvolvimento tecnológico e as demais atividades necessárias ao progresso, inovação e boa prática da engenharia civil, exercendo a sua ação, fundamentalmente, no domínio do estudo, da monitorização, do ensaio, da análise comportamental das estruturas, infraestruturas em geral e edificações, das barragens e obras em terra, da geotecnia, da hidráulica, do ambiente e riscos naturais, dos materiais, respetivos componentes e produtos para construção, visando a qualidade, o bom desempenho e a segurança das construções e das obras públicas, a reabilitação e a proteção do património edificado e natural.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "179875939": {
+   "fragment_id": "179875980",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 21 de novembro de 2019.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 11 de dezembro de 2019.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  },
+  "852763816": {
+   "fragment_id": "179804350",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, missão, atribuições e competências",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "### Capítulo I — Natureza, missão, atribuições e competências\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763817": {
+   "fragment_id": "179804351",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e missão",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e missão\n\nA Secretaria Regional de Equipamentos e Infraestruturas, designada abreviadamente por SREI, é o departamento do Governo Regional da Madeira a que se referem a alínea k) do artigo 1.º e o artigo 12.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, que tem por missão definir, promover, coordenar e executar a política regional nos setores dos edifícios, infraestruturas e equipamentos públicos, estradas regionais, obras públicas, hidráulica fluvial, barragens, investigação e monitorização de obras, produção e fornecimento de energia e habitação.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "852763818": {
+   "fragment_id": "179804352",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nNa prossecução da sua missão, constituem atribuições da SREI:\n\na) Promover a execução das políticas definidas para os setores que lhe estão adstritos;\n\nb) Elaborar, no quadro dos planos de orientação estratégica regionais, de médio e longo prazo, os planos setoriais relativos aos seus domínios de atuação;\n\nc) Assegurar o desenvolvimento integrado das ações conducentes à satisfação das necessidades coletivas nos setores do seu âmbito;\n\nd) Promover formas de cooperação com entidades regionais, nacionais e internacionais, no âmbito das suas áreas de atuação;\n\ne) Assegurar a observância das disposições reguladoras das tarefas que lhe são cometidas, sem prejuízo das atribuições e competências conferidas por lei a outras entidades;\n\nf) Superintender e realizar a gestão dos meios humanos e materiais para a efetivação das atribuições enunciadas nas alíneas anteriores.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763819": {
+   "fragment_id": "179804353",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - A SREI é superiormente representada e dirigida pelo Secretário Regional de Equipamentos e Infraestruturas, designado abreviadamente no presente diploma por Secretário Regional, ao qual são genericamente cometidas as seguintes competências:\n\na) Estudar, definir e orientar a política da Região Autónoma da Madeira nos setores de atividade referidos no artigo 1.º, elaborando os respetivos planos setoriais, a serem integrados nos planos estratégicos de âmbito regional;\n\nb) Promover, controlar e coordenar as ações tendentes à execução e cumprimento dos planos estabelecidos para os mencionados setores de atividade;\n\nc) Superintender e coordenar a ação dos vários órgãos e serviços da Secretaria Regional de Equipamentos e Infraestruturas;\n\nd) Elaborar os projetos e propostas de decretos legislativos e regulamentares regionais que se revelarem necessários à prossecução e desenvolvimento dos setores de atividade que na Região estão afetos à Secretaria Regional de Equipamentos e Infraestruturas;\n\ne) Aprovar ou submeter à aprovação do Conselho de Governo, conforme a lei vigente, os projetos de obras respeitantes aos setores que lhe estão afetos;\n\nf) Autorizar ou submeter à autorização do Conselho do Governo a adjudicação e a celebração de quaisquer contratos no âmbito do regime jurídico vigente para a contratação pública;\n\ng) Aprovar portarias, despachos, circulares e instruções em matéria da sua competência;\n\nh) Praticar todos os atos concernentes ao provimento, movimento e disciplina dos trabalhadores e demais agentes da Secretaria Regional de Equipamentos e Infraestruturas;\n\ni) Exercer as demais competências que lhe sejam cometidas por lei ou que lhe sejam delegadas pelo Presidente ou pelo Conselho do Governo Regional.\n\n2 - Compete ao Secretário Regional exercer a tutela sobre as entidades previstas no n.º 2 do artigo 12.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto.\n\n3 - São ainda cometidas ao Secretário Regional as competências e definição das orientações nas empresas participadas mencionadas no n.º 3 do artigo 12.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto.\n\n4 - O Secretário Regional poderá delegar, com faculdade de subdelegação, nos termos da lei, no Chefe do Gabinete, no pessoal afeto ao seu gabinete ou nos responsáveis pelos diversos departamentos, as competências que julgar convenientes.\n\n5 - O Secretário Regional poderá, igualmente, avocar as competências dos responsáveis pelos organismos e serviços da SREI.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "852763820": {
+   "fragment_id": "179804354",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "### Capítulo II — Estrutura orgânica\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763821": {
+   "fragment_id": "179804355",
+   "type": 11,
+   "heading": "Artigo 4.º — Estrutura geral",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 4.º — Estrutura geral\n\nA SREI prossegue as suas atribuições através de serviços integrados na administração direta e de entidades integradas no setor empresarial da Região Autónoma da Madeira.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763822": {
+   "fragment_id": "179804356",
+   "type": 11,
+   "heading": "Artigo 5.º — Serviços da administração direta",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 5.º — Serviços da administração direta\n\n1 - Integram a administração direta da Região Autónoma da Madeira, no âmbito da SREI, as seguintes estruturas ou serviços centrais:\n\na) Gabinete do Secretário Regional;\n\nb) Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas;\n\nc) Direção Regional do Equipamento Social e Conservação;\n\nd) Direção Regional de Estradas;\n\ne) Laboratório Regional de Engenharia Civil;\n\nf) Unidade de Acompanhamento da Construção do Hospital Central da Madeira.\n\n2 - A estrutura referida na alínea a) do n.º 1 assegura o apoio técnico e administrativo necessário ao exercício das competências do Secretário Regional.\n\n3 - Os serviços referidos nas alíneas b) a f) do n.º 1 são serviços executivos que garantem a prossecução das políticas referidas no artigo 1.º do presente diploma.\n\n4 - Os serviços referidos nas alíneas b) a d) são dirigidos por um diretor regional, cargo de direção superior de 1.º grau.\n\n5 - Os serviços referidos nas alíneas e) e f) são dirigidos por um diretor, equiparado para todos os efeitos legais a cargo de direção superior de 1.º grau.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763823": {
+   "fragment_id": "179804357",
+   "type": 11,
+   "heading": "Artigo 6.º — Setor empresarial da Região Autónoma da Madeira",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 6.º — Setor empresarial da Região Autónoma da Madeira\n\n1 - A SREI exerce a tutela sobre as seguintes entidades:\n\na) (Revogada.)\n\nb) EEM - Empresa de Eletricidade da Madeira, S. A.;\n\nc) IHM - Investimentos Habitacionais da Madeira, EPERAM;\n\nd) Sociedade de Desenvolvimento do Norte da Madeira, S. A.;\n\ne) Sociedade de Desenvolvimento do Porto Santo, S. A.;\n\nf) Sociedade Metropolitana de Desenvolvimento, S. A.;\n\ng) Ponta do Oeste - Sociedade de Promoção e Desenvolvimento da Zona Oeste da Madeira, S. A.\n\n2 - As competências e definição das orientações na Concessionária de Estradas - VIAEXPRESSO da Madeira, S. A., e na VIALITORAL - Concessões Rodoviárias da Madeira, S. A., empresas participadas integradas no setor empresarial da Região Autónoma da Madeira, são cometidas à SREI.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "852763824": {
+   "fragment_id": "179804358",
+   "type": 1,
+   "heading": "Capítulo III — Dos serviços da administração direta",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "### Capítulo III — Dos serviços da administração direta\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763825": {
+   "fragment_id": "179804359",
+   "type": 8,
+   "heading": "Secção I — Missão, atribuições e organização do Gabinete do Secretário Regional",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "#### Secção I — Missão, atribuições e organização do Gabinete do Secretário Regional\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763826": {
+   "fragment_id": "179804360",
+   "type": 11,
+   "heading": "Artigo 7.º — Gabinete do Secretário Regional",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 7.º — Gabinete do Secretário Regional\n\n1 - O Gabinete do Secretário Regional, abreviadamente designado por Gabinete, tem por missão coadjuvá-lo no exercício das suas funções, assegurando o planeamento e o apoio técnico, estratégico, jurídico, financeiro, administrativo e logístico, bem como no domínio da gestão dos recursos humanos, necessários ao exercício das suas competências.\n\n2 - O Gabinete é composto por um Chefe do Gabinete, um máximo de três adjuntos, dois secretários pessoais e dois motoristas, de acordo com o disposto no n.º 2 do artigo 13.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto, a designar por despacho do Secretário Regional, compreendendo ainda as unidades orgânicas que funcionam sob a sua direta dependência.\n\n3 - São atribuições do Gabinete:\n\na) Prestar apoio técnico, estratégico, jurídico, financeiro, administrativo e logístico, bem como no domínio da gestão dos recursos humanos, ao Secretário Regional;\n\nb) Garantir o funcionamento harmonioso e concertado dos órgãos e serviços que integram a SREI;\n\nc) Assegurar o expediente do Gabinete, nomeadamente a interligação desta Secretaria Regional com os demais departamentos do Governo Regional;\n\nd) Preparar e coordenar os assuntos a submeter a despacho do Secretário Regional;\n\ne) Analisar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade no âmbito do Gabinete e assegurar a articulação com os serviços da SREI com competências nestas áreas;\n\nf) Assegurar o desenvolvimento das atribuições conferidas às unidades de gestão, a que se refere o n.º 3 do artigo 14.º do Decreto Regulamentar Regional n.º 9/2021/M, de 27 de agosto;\n\ng) Exercer as demais funções que lhe sejam cometidas e ou delegadas pelo Secretário Regional.\n\n4 - O Gabinete é coordenado e dirigido pelo Chefe do Gabinete, que representa o Secretário Regional, exceto nos atos de caráter oficial, e que exerce ainda as competências delegadas por despacho do Secretário Regional.\n\n5 - Nas suas ausências e impedimentos, o Chefe do Gabinete é substituído por um adjunto ou por outro membro do Gabinete designado, para o efeito, pelo Secretário Regional.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "852763827": {
+   "fragment_id": "179804361",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna do Gabinete do Secretário Regional",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 8.º — Organização interna do Gabinete do Secretário Regional\n\nA organização interna do Gabinete compreende unidades orgânicas nucleares e flexíveis e obedece ao modelo de estrutura hierarquizada, sendo aprovada nos termos do disposto no artigo 21.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763828": {
+   "fragment_id": "179804362",
+   "type": 8,
+   "heading": "Secção II — Missão dos serviços executivos",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "#### Secção II — Missão dos serviços executivos\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763829": {
+   "fragment_id": "179804363",
+   "type": 11,
+   "heading": "Artigo 9.º — Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 9.º — Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas\n\nA Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas tem por missão assegurar as funções de apoio técnico e logístico ao Gabinete do Secretário Regional e à Direção Regional do Equipamento Social e Conservação, nos domínios da contratação pública, da programação e planeamento estratégico e do controlo e gestão orçamental, bem como coordenar a utilização, gestão e manutenção dos equipamentos, viaturas e materiais ao serviço do Governo Regional.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763830": {
+   "fragment_id": "179804364",
+   "type": 11,
+   "heading": "Artigo 10.º — Direção Regional do Equipamento Social e Conservação",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 10.º — Direção Regional do Equipamento Social e Conservação\n\n1 - A Direção Regional do Equipamento Social e Conservação tem por missão assegurar a manutenção, a conservação e a reabilitação de edifícios, equipamentos e infraestruturas públicas, bem como a concretização de obras públicas, que lhe sejam cometidas, por forma a garantir a execução de políticas do Governo Regional para o setor.\n\n2 - A Direção Regional do Equipamento Social e Conservação tem por missão especial promover as ações conducentes à concretização da estratégia definida no âmbito da hidráulica fluvial, a cargo do setor.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "852763831": {
+   "fragment_id": "179804365",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção Regional de Estradas",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 11.º — Direção Regional de Estradas\n\nA Direção Regional de Estradas tem por missão assegurar a execução política do planeamento, da concretização e da gestão das infraestruturas rodoviárias da rede regional que não estejam afetas às concessões rodoviárias, bem como promover e assegurar o apoio técnico às competências previstas no n.º 3 do artigo 3.º e no n.º 2 do artigo 6.º do presente diploma.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763832": {
+   "fragment_id": "179804366",
+   "type": 11,
+   "heading": "Artigo 12.º — Laboratório Regional de Engenharia Civil",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+   ],
+   "markdown": "###### Artigo 12.º — Laboratório Regional de Engenharia Civil\n\nO Laboratório Regional de Engenharia Civil tem por missão realizar, coordenar e promover a investigação científica, o desenvolvimento tecnológico e as demais atividades necessárias ao progresso, inovação e boa prática da engenharia civil, exercendo a sua ação, fundamentalmente, no domínio do estudo, da monitorização, do ensaio, da análise comportamental das estruturas, infraestruturas em geral e edificações, das barragens e obras em terra, da geotecnia, da hidráulica, do ambiente e riscos naturais, dos materiais, respetivos componentes e produtos para construção, visando a qualidade, o bom desempenho e a segurança das construções e das obras públicas, a reabilitação e a proteção do património edificado e natural.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 3/2022/M - Diário da República n.º 43/2022, Série I de 2022-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-2022-179804278), em vigor a partir de 2022-03-03"
+  },
+  "852763833": {
+   "fragment_id": "179804367",
+   "type": 11,
+   "heading": "Artigo 13.º — Unidade de Acompanhamento da Construção do Hospital Central da Madeira",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 13.º — Unidade de Acompanhamento da Construção do Hospital Central da Madeira\n\nA Unidade de Acompanhamento da Construção do Hospital Central da Madeira tem por missão proceder à coordenação e acompanhamento da execução de todos os procedimentos e trabalhos respeitantes à construção da obra do Hospital Central da Madeira, e dos demais contratos associados, bem como promover e assegurar a interligação entre todas as entidades e organismos públicos e privados envolvidos.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763834": {
+   "fragment_id": "179804368",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "### Capítulo IV — Pessoal\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763835": {
+   "fragment_id": "179804369",
+   "type": 11,
+   "heading": "Artigo 14.º — Sistema de gestão de pessoal",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 14.º — Sistema de gestão de pessoal\n\n1 - A gestão de pessoal dos serviços da administração direta da SREI rege-se pelo sistema centralizado de gestão, estabelecido nos artigos 6.º a 9.º do Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto.\n\n2 - O sistema centralizado de gestão de recursos humanos referido no número anterior consiste na concentração na Secretaria Regional dos trabalhadores com relação jurídica de emprego público constituída por tempo indeterminado, integrados nas carreiras gerais e nas carreiras e categorias subsistentes, e posterior afetação aos órgãos e serviços da sua administração direta, de acordo com as necessidades verificadas por despacho do Secretário Regional.\n\n3 - Os trabalhadores referidos no número anterior são integrados no sistema centralizado da SREI, através de lista nominativa aprovada por despacho do Secretário Regional publicada na 2.ª série do Jornal Oficial da Região Autónoma da Madeira.\n\n4 - O sistema centralizado de gestão obedece, designadamente, aos seguintes princípios:\n\na) A afetação determina a competência do dirigente máximo do respetivo serviço para praticar todos os atos no âmbito da gestão dos recursos humanos, nomeadamente avaliação de desempenho, marcação de férias e de faltas e registo de assiduidade;\n\nb) Por despacho do Secretário Regional, e sem prejuízo dos direitos e garantias dos trabalhadores, pode ser revista a afetação, sempre que se verifique a alteração de circunstâncias ou quando o plano de atividades dos serviços o justificar;\n\nc) O recrutamento de trabalhadores para postos de trabalho que se encontrem abrangidos pelo sistema centralizado de gestão é feito para a SREI, sem prejuízo de ser determinado no aviso de abertura do procedimento concursal ou no pedido de utilização de reservas de recrutamento o órgão ou serviço ao qual o trabalhador ficará afeto, através de referência ao respetivo mapa de pessoal onde o posto de trabalho se encontra previsto;\n\nd) A lista nominativa referida no n.º 3 será atualizada de acordo com o disposto no artigo 9.º do Decreto Legislativo Regional n.º 11/2018/M, de 3 de agosto, bem como sempre que haja saída definitiva de trabalhadores abrangidos no regime centralizado da SREI, procedendo-se, neste caso, à sua eliminação da referida lista.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763836": {
+   "fragment_id": "179804370",
+   "type": 11,
+   "heading": "Artigo 15.º — Carreiras subsistentes",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 15.º — Carreiras subsistentes\n\n1 - O desenvolvimento indiciário das carreiras subsistentes de coordenador e de chefe de departamento é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de agosto, objeto da Declaração de Retificação n.º 15-I/99, publicada no Diário da República, 1.ª série-A, n.º 299, 2.º suplemento, de 30 de setembro, sendo-lhes aplicável o disposto no artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, 66/2012 e 66-B/2012, ambas de 31 de dezembro, e pelo Decreto-Lei n.º 47/2013, de 5 de abril.\n\n2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro.\n\n3 - Os postos de trabalho relativos à carreira de chefe de departamento são extintos à medida que vagarem.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763837": {
+   "fragment_id": "179804371",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763838": {
+   "fragment_id": "179804372",
+   "type": 11,
+   "heading": "Artigo 16.º — Dotação de cargos de direção",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 16.º — Dotação de cargos de direção\n\n1 - A dotação de cargos de direção superior da administração direta da SREI consta do anexo i ao presente diploma, do qual faz parte integrante.\n\n2 - A dotação de lugares de direção intermédia de 1.º grau das unidades orgânicas que funcionam sob a direta dependência do Gabinete do Secretário Regional consta do anexo ii ao presente diploma, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763839": {
+   "fragment_id": "179804373",
+   "type": 11,
+   "heading": "Artigo 17.º — Manutenção de serviços e de comissões de serviços",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 17.º — Manutenção de serviços e de comissões de serviços\n\n1 - Até à aprovação da organização interna do Gabinete do Secretário Regional, a que se refere o artigo 8.º, as unidades orgânicas constantes da Portaria n.º 352/2019, de 14 de junho, da Vice-Presidência do Governo Regional e da Secretaria Regional dos Equipamentos e Infraestruturas, do Despacho n.º 141/2018, de 18 de abril, alterado pelo Despacho n.º 169/2019, de 23 de julho, e do Despacho n.º 204/2019, de 26 de agosto, todos do Secretário Regional dos Equipamentos e Infraestruturas, mantêm a mesma natureza jurídica, mantendo-se as comissões de serviço dos respetivos titulares de cargos dirigentes.\n\n2 - Mantêm-se as atribuições, a orgânica, o funcionamento e o pessoal de cada um dos órgãos e serviços executivos referidos nas alíneas b) a e) do n.º 1 do artigo 5.º, constantes dos Decretos Regulamentares Regionais n.os 20/2016/M, de 25 de agosto, 4/2016/M, de 28 de janeiro, 21/2016/M, de 30 de setembro, alterado pelo Decreto Regulamentar Regional n.º 7/2019/M, de 18 de setembro, e 17/2016/M, de 5 de julho, alterado pelo Decreto Regulamentar Regional n.º 11/2018/M, de 24 de setembro, respetivamente, bem como os demais diplomas orgânicos dos mesmos decorrentes.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763840": {
+   "fragment_id": "179804374",
+   "type": 11,
+   "heading": "Artigo 18.º — Criação de serviço",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 18.º — Criação de serviço\n\nÉ criada a Unidade de Acompanhamento da Construção do Hospital Central da Madeira.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763841": {
+   "fragment_id": "179875975",
+   "type": 11,
+   "heading": "Artigo 19.º — Lista nominativa e afetação de pessoal",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 19.º — Lista nominativa e afetação de pessoal\n\nA lista nominativa do pessoal abrangido pelo sistema centralizado de gestão da SREI é objeto de atualização e publicação na 2.ª série do Jornal Oficial da Região Autónoma da Madeira e publicitação na página eletrónica da SREI, sendo revista a afetação do pessoal abrangido pelo sistema centralizado de gestão aos serviços da administração direta.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763842": {
+   "fragment_id": "179875976",
+   "type": 11,
+   "heading": "Artigo 20.º — Procedimentos concursais",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 20.º — Procedimentos concursais\n\nNos termos legais aplicáveis, mantêm-se os procedimentos concursais de recrutamento de pessoal pendentes à data da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763843": {
+   "fragment_id": "179875977",
+   "type": 11,
+   "heading": "Artigo 21.º — Referências",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 21.º — Referências\n\nTodas as referências legais, regulamentares ou contratuais feitas à Secretaria Regional dos Equipamentos e Infraestruturas devem considerar-se reportadas à Secretaria Regional de Equipamentos e Infraestruturas.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763844": {
+   "fragment_id": "179875978",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar Regional n.º 2/2018/M, de 24 de janeiro, alterado e republicado pelo Decreto Regulamentar Regional n.º 1/2019/M, de 15 de fevereiro.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763845": {
+   "fragment_id": "179875979",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "###### Artigo 23.º — Entrada em vigor e produção de efeitos\n\n1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte.\n\n2 - A criação do serviço previsto na alínea f) do n.º 1 do artigo 5.º e nos artigos 13.º e 18.º apenas produz efeitos com a data da entrada em vigor do diploma que aprovar a sua organização e funcionamento.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763846": {
+   "fragment_id": "179875980",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional em 21 de novembro de 2019.\n\nO Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.\n\nAssinado em 11 de dezembro de 2019.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763847": {
+   "fragment_id": "179875981",
+   "type": 14,
+   "heading": "Anexo I — Cargos de direção superior da administração direta",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "## Anexo I — Cargos de direção superior da administração direta\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  },
+  "852763848": {
+   "fragment_id": "179875982",
+   "type": 14,
+   "heading": "Anexo II — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional",
+   "in_force_from": "2024-02-15",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+   ],
+   "markdown": "## Anexo II — Dotação de lugares dos dirigentes intermédios dos serviços dependentes do Gabinete do Secretário Regional\n\n(ver documento original)\n\n112909621\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 11/2024/M - Diário da República n.º 32/2024, Série I de 2024-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2024-848804212), em vigor a partir de 2024-02-15"
+  }
+ }
+}

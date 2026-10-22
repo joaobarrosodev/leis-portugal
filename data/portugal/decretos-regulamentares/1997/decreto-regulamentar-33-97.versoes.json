@@ -1,0 +1,729 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:649483:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/1997-865018497",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/33-1997-649483",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-09-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "904363057",
+    "865018236",
+    "865018237",
+    "865018238",
+    "865018239",
+    "865018240",
+    "865018241",
+    "865018242",
+    "865018243",
+    "865018244",
+    "865018245",
+    "865018246",
+    "865018247",
+    "865018248",
+    "865018249",
+    "865018250",
+    "865018251",
+    "865018252",
+    "865018253",
+    "865018254",
+    "865018255",
+    "865018256",
+    "865018257",
+    "865018258",
+    "865018259",
+    "865018260",
+    "865018261",
+    "865018262",
+    "865018263",
+    "865018264",
+    "865018265",
+    "865018266",
+    "865018267",
+    "865018268",
+    "865018269",
+    "865018270",
+    "865018271",
+    "865018272"
+   ]
+  },
+  {
+   "date": "2002-03-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:265518:por",
+     "title": "Decreto Regulamentar n.º 14/2002",
+     "published": "2002-03-12",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/14-2002-265518"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "865018235",
+    "865018236",
+    "865018773",
+    "865018774",
+    "865018875",
+    "865018876",
+    "865018877",
+    "865018878",
+    "865018879",
+    "865018880",
+    "865018245",
+    "865018881",
+    "865018899",
+    "865018882",
+    "865018883",
+    "865018250",
+    "865018884",
+    "865018885",
+    "865018886",
+    "865018887",
+    "865018255",
+    "865018888",
+    "865018889",
+    "865018890",
+    "865018891",
+    "865018892",
+    "865018261",
+    "865018893",
+    "865018263",
+    "865018894",
+    "865018895",
+    "865018896",
+    "865018267",
+    "865018897",
+    "865018898",
+    "865018270",
+    "865018271",
+    "865018272",
+    "865018273"
+   ]
+  }
+ ],
+ "fragments": {
+  "904363057": {
+   "fragment_id": "865018498",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 33/97\n\nde 17 de Setembro\n\nAo abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 167/97, de 4 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:\n\n> Nota: [Artigo 77.º, Decreto-Lei n.º 39/2008 - Diário da República n.º 48/2008, Série I de 2008-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248) O presente diploma é revogado pelo Decreto-Lei n.º 39/2008, de 7 de março, com a entrada em vigor das portarias , nele previstas"
+  },
+  "865018236": {
+   "fragment_id": "865018499",
+   "type": 1,
+   "heading": "Capítulo I — Requisitos das instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Requisitos das instalações"
+  },
+  "865018237": {
+   "fragment_id": "865018500",
+   "type": 11,
+   "heading": "Artigo 1.º — Localização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Localização\n\n1 - Os parques de campismo públicos devem situar-se em locais adequados aos fins a que se destinam, devendo os respectivos terrenos possuir as seguintes características:\n\na) Não serem pantanosos nem excessivamente húmidos;\n\nb) Não estarem situados em zona de atmosfera poluída;\n\nc) Estarem distanciados 1000 m, pelo menos, dos locais em que exista indústria insalubre, incómoda, tóxica ou perigosa;\n\nd) Não estarem situados em zonas de áreas de infiltração máxima e outras captações de água e de condutas de água potável ou de combustíveis;\n\ne) Não estarem situados em leitos de cheia ou leitos secos de rios;\n\nf) Serem suficientemente drenados para facilitar o escoamento das águas pluviais;\n\ng) Ficarem afastados 1000 m, pelo menos, de condutas abertas de esgotos, de lixeiras ou de aterros;\n\nh) Estarem afastados das grandes vias de comunicação ou suficientemente isolados delas.\n\n2 - Os terrenos devem ainda ser arborizados e dispor de boas sombras, podendo prever-se, quando o não sejam ou a arborização existente se mostre deficiente, a criação de sombras por processos artificiais, sobretudo nas zonas destinadas a convívio."
+  },
+  "865018238": {
+   "fragment_id": "865018501",
+   "type": 11,
+   "heading": "Artigo 2.º — Acesso à via pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acesso à via pública\n\nOs terrenos dos parques de campismo públicos devem ter fácil ligação à via pública para automóveis e veículos automóveis com reboques."
+  },
+  "865018239": {
+   "fragment_id": "865018502",
+   "type": 11,
+   "heading": "Artigo 3.º — Delimitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Delimitação\n\n1 - O terreno dos parques deve ser vedado, por forma a preservar a segurança e tranquilidade dos campistas.\n\n2 - Nas vedações devem existir portões de saída em número suficiente, devidamente sinalizados, para utilização em situações de emergência."
+  },
+  "865018240": {
+   "fragment_id": "865018503",
+   "type": 11,
+   "heading": "Artigo 4.º — Vias de circulação interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Vias de circulação interna\n\n1 - Os parques de campismo públicos devem dispor de vias de circulação interna que permitam o trânsito de automóveis e veículos automóveis com reboques.\n\n2 - As vias de circulação interna devem ter a largura mínima de 3 m ou 5 m, conforme sejam de sentido único ou duplo.\n\n3 - Entre a vedação do parque e a área destinada ao campismo deve existir uma via de circulação, com a largura mínima de 3 m, que permita a intervenção de veículos dos bombeiros em caso de incêndio.\n\n4 - É interdito o estacionamento de quaisquer veículos ou equipamentos nas vias de circulação interna que impossibilitem ou dificultem o trânsito de veículos, em especial dos de emergência ou socorro."
+  },
+  "865018241": {
+   "fragment_id": "865018504",
+   "type": 11,
+   "heading": "Artigo 5.º — Rede de energia eléctrica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Rede de energia eléctrica\n\n1 - Os parques de campismo públicos devem dispor de uma rede interna, aérea ou subterrânea, de distribuição de energia eléctrica que assegure o fornecimento de electricidade aos campistas e a iluminação geral do parque.\n\n2 - O estabelecimento e a exploração das instalações eléctricas dos parques de campismo devem obedecer às disposições constantes do Regulamento de Segurança de Instalações Eléctricas de Parques de Campismo e de Marinas (RPCM), aprovado pelo Decreto-Lei n.º 393/85, de 9 de Outubro.\n\n3 - Os parques devem dispor de um sistema de iluminação de emergência, nomeadamente junto das entradas do parque e dos blocos onde se situem as instalações sanitárias.\n\n4 - Nos parques em que sejam admitidas caravanas ou auto-caravanas devem existir nos locais a elas destinados dispositivos que lhes assegurem o fornecimento de energia eléctrica."
+  },
+  "865018242": {
+   "fragment_id": "865018505",
+   "type": 11,
+   "heading": "Artigo 6.º — Abastecimento de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Abastecimento de água\n\n1 - Os parques de campismo devem ser dotados de água corrente potável.\n\n2 - Nos parques deve ser assegurado o fornecimento de pelo menos 40 l de água por dia e por campista.\n\n3 - Nos parques devem existir pelo menos três locais de distribuição de água canalizada por cada hectare de área destinada ao campismo.\n\n4 - Os locais de distribuição de água devem estar revestidos com materiais impermeabilizados e assegurar a drenagem das águas residuais.\n\n5 - Se não existir rede pública de abastecimento de água aos parques, estes devem dispor de reservatórios de água próprios, com capacidade suficiente para satisfazer as necessidades mínimas, de acordo com o estabelecido no n.º 2.\n\n6 - Nos locais onde não exista rede pública de abastecimento de água, o parque deve ser dotado de um sistema de abastecimento privativo, com origem devidamente controlada.\n\n7 - Para efeitos do disposto no número anterior, a captação de água deve possuir as adequadas condições de protecção sanitária, e o sistema ser dotado dos processos de tratamento requeridos para potabilização da água ou para a manutenção dessa potabilização, de acordo com as normas de qualidade da água em vigor, devendo para o efeito ser efectuadas análises físico-químicas e ou microbiológicas."
+  },
+  "865018243": {
+   "fragment_id": "865018506",
+   "type": 11,
+   "heading": "Artigo 7.º — Condição geral de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condição geral de instalação\n\nA instalação das infra-estruturas e, de um modo geral, de todo o equipamento necessário ao funcionamento dos parques deve efectuar-se de modo que não se produzam ruídos, vibrações, fumos ou cheiros susceptíveis de perturbar ou de, por qualquer modo, afectar o ambiente dos parques e a tranquilidade e a segurança dos campistas."
+  },
+  "865018244": {
+   "fragment_id": "865018507",
+   "type": 11,
+   "heading": "Artigo 8.º — Instalações sanitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Instalações sanitárias\n\n1 - Os parques de campismo devem possuir instalações sanitárias de utilização comum dotadas de água corrente.\n\n2 - As instalações sanitárias devem ser separadas por sexos e dotadas de retretes em cabinas separadas, chuveiros individuais, com antecâmara para vestiário dotada de banco e cabide, de materiais adequados, lavatórios com espelho e ponto de luz e tomadas de corrente com indicação da voltagem.\n\n3 - As instalações sanitárias devem estar equipadas para a sua utilização por crianças.\n\n4 - Pelo menos um dos blocos de instalações sanitárias deve permitir o acesso e estar equipado para a sua utilização por campistas com deficiências motoras.\n\n5 - As instalações sanitárias devem possuir comunicação directa para o exterior ou serem dotadas de dispositivos de ventilação artificial, com contínua renovação do ar, adequados à sua dimensão.\n\n6 - As instalações sanitárias devem ser ligadas a uma rede interna de esgotos que conduzam as águas residuais a sistemas adequados ao seu escoamento, nomeadamente através da rede pública, ou se esta não existir, de um sistema de recolha e tratamento adequado ao volume e natureza dessas águas, de acordo com a legislação em vigor.\n\n7 - As instalações sanitárias não podem situar-se junto das zonas destinadas a preparar e cozinhar alimentos ou a tomar refeições.\n\n8 - As paredes, pavimentos e tectos das instalações sanitárias devem ser revestidos de materiais resistentes, impermeáveis e de fácil limpeza."
+  },
+  "865018245": {
+   "fragment_id": "865018508",
+   "type": 11,
+   "heading": "Artigo 9.º — Localização das instalações sanitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Localização das instalações sanitárias\n\nAs instalações sanitárias devem estar distribuídas em blocos pelo parque de campismo, de forma a permitir a sua fácil utilização pelos campistas, devendo existir, em qualquer caso, um bloco por cada 3 ha de área destinada ao campismo, sem prejuízo do disposto na alínea f) do n.º 1 do artigo 27.º"
+  },
+  "865018246": {
+   "fragment_id": "865018509",
+   "type": 11,
+   "heading": "Artigo 10.º — Equipamentos de utilização comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Equipamentos de utilização comum\n\n1 - Todos os parques devem ter pelo menos os seguintes equipamentos de utilização comum pelos campistas:\n\na) Lavadouros de louça e pias para despejo de águas residuais;\n\nb) Tanques de lavagem de roupa e zona de secagem;\n\nc) Tábuas de passar a ferro;\n\nd) Parque infantil;\n\ne) Área para a prática de desportos ao ar livre.\n\n2 - Os lavadouros de loiça e os tanques para lavar roupa, dotados de água corrente e ligados, por meio de sifão, ao sistema de esgoto, podem ser ao ar livre, devendo, no entanto, ser resguardados do sol e da chuva."
+  },
+  "865018247": {
+   "fragment_id": "865018510",
+   "type": 11,
+   "heading": "Artigo 11.º — Recipientes para o lixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Recipientes para o lixo\n\n1 - Os parques de campismo devem dispor de recipientes para o lixo, com tampa, colocados em locais de fácil acesso e devidamente sinalizados, na proporção de um por cada 40 campistas, com capacidade adequada e não distando entre si mais de 75 m.\n\n2 - Os parques de campismo devem também ser dotados de um local apropriado para a instalação de contentores de maior dimensão, que recebam os resíduos dos contentores menores utilizados pelos campistas.\n\n3 - A lavagem e manutenção dos contentores é obrigatória, devendo prever-se um local para esta actividade junto das instalações de serviço previstas no artigo 12.º"
+  },
+  "865018248": {
+   "fragment_id": "865018511",
+   "type": 11,
+   "heading": "Artigo 12.º — Instalações de serviço para caravanas e auto-caravanas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instalações de serviço para caravanas e auto-caravanas\n\n1 - Nos parques de campismo em que sejam admitidas caravanas ou auto-caravanas devem existir instalações de serviço na proporção de uma instalação para cada 50 unidades.\n\n2 - As instalações referidas no número anterior destinam-se ao abastecimento de água às caravanas e auto-caravanas e aos respectivos despejos e devem ser dotadas do equipamento necessário para o efeito.\n\n3 - Os locais das instalações referidas no n.º l devem estar revestidos com materiais impermeabilizados e assegurar a drenagem das águas residuais."
+  },
+  "865018249": {
+   "fragment_id": "865018512",
+   "type": 11,
+   "heading": "Artigo 13.º — Instalações de alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Instalações de alojamento\n\n1 - Nos parques de campismo podem existir instalações de carácter complementar destinadas a alojamento, desde que não ultrapassem 25% da área total do parque destinada aos campistas.\n\n2 - Cada uma das instalações referidas no número anterior não pode ter mais de dois pisos nem ocupar uma superfície superior a 75 m2.\n\n3 - Em cada uma das instalações referidas no n.º 1 só podem existir dois quartos, devendo, porém, ser dotadas de casa de banho privativa, com retrete, chuveiro e lavatório com espelho e ponto de luz.\n\n4 - A área dos quartos não pode ser inferior a 8 m2, 12 m2 ou 16 m2, consoante se trate de quartos com uma, duas ou três camas individuais."
+  },
+  "865018250": {
+   "fragment_id": "865018513",
+   "type": 1,
+   "heading": "Capítulo II — Requisitos de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Requisitos de funcionamento"
+  },
+  "865018251": {
+   "fragment_id": "865018514",
+   "type": 11,
+   "heading": "Artigo 14.º — Placa identificativa da classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Placa identificativa da classificação\n\nNos parques de campismo públicos é obrigatória a afixação no exterior, junto à entrada principal, de uma placa identificativa da classificação do parque, cujo modelo é aprovado por portaria do membro do Governo responsável pela área do turismo."
+  },
+  "865018252": {
+   "fragment_id": "865018515",
+   "type": 11,
+   "heading": "Artigo 15.º — Capacidade dos parques",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Capacidade dos parques\n\nA capacidade dos parques de campismo públicos é determinada pela área útil destinada a cada campista, de acordo com o estabelecido para cada categoria."
+  },
+  "865018253": {
+   "fragment_id": "865018516",
+   "type": 11,
+   "heading": "Artigo 16.º — Recepção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Recepção\n\n1 - Os parques de campismo públicos devem ter uma recepção instalada junto à entrada principal.\n\n2 - A recepção deve prestar, pelo menos, os seguintes serviços:\n\na) Encarregar-se do registo de entradas e saídas dos campistas;\n\nb) Receber, guardar e entregar aos campistas a correspondência, bem como os objectos que lhes sejam destinados;\n\nc) Anotar e dar conhecimento aos campistas, logo que possível, das chamadas telefónicas e mensagens para eles recebidas.\n\n3 - A recepção deve ainda prestar aos campistas as informações respeitantes ao funcionamento do parque, designadamente sobre os serviços que o mesmo preste e as suas normas de funcionamento privativas.\n\n4 - Na recepção deve haver uma caixa de correio e telefone ligado à rede pública.\n\n5 - Na recepção devem afixar-se, por forma bem visível, em português, inglês e outra língua estrangeira, as seguintes indicações:\n\na) O nome e a categoria do parque;\n\nb) O horário de funcionamento da recepção;\n\nc) Os preços dos serviços;\n\nd) O período de funcionamento do parque;\n\ne) Os períodos de silêncio;\n\nf) A planta do parque, assinalando as instalações de utilização comum, a área destinada aos campistas e as saídas de emergência;\n\ng) A existência de regulamento interno;\n\nh) A existência de livro de reclamações à disposição dos campistas.\n\n6 - Quando a lotação estiver esgotada, deve ser indicada à entrada, por forma bem visível do exterior, a inexistência de lugares vagos."
+  },
+  "865018254": {
+   "fragment_id": "865018517",
+   "type": 11,
+   "heading": "Artigo 17.º — Primeiros socorros e equipamento de salvação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Primeiros socorros e equipamento de salvação\n\n1 - Os parques de campismo públicos devem ter disponível, vinte e quatro horas por dia, equipamento de primeiros socorros ou um posto médico para a prestação de assistência, devidamente sinalizados.\n\n2 - Os parques localizados em zonas que disponham de acesso directo a praias fluviais ou marítimas, lagoas ou barragens sem serviços de socorros a náufragos devem dispor de equipamento de salvação."
+  },
+  "865018255": {
+   "fragment_id": "865018518",
+   "type": 11,
+   "heading": "Artigo 18.º — Iluminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Iluminação\n\nTodas as entradas dos parques de campismo, bem como as vias de circulação e as instalações sanitárias, devem estar iluminadas durante a noite."
+  },
+  "865018256": {
+   "fragment_id": "865018519",
+   "type": 11,
+   "heading": "Artigo 19.º — Serviço de limpeza e remoção do lixo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Serviço de limpeza e remoção do lixo\n\n1 - Todas as instalações comuns dos parques de campismo, incluindo as sanitárias, bem como os recipientes de lixo, devem ser limpos e desinfectados diariamente.\n\n2 - O lixo e demais resíduos devem ser removidos diariamente para fora do parque, para recipientes destinados à sua recolha pelos serviços públicos ou outros."
+  },
+  "865018257": {
+   "fragment_id": "865018520",
+   "type": 11,
+   "heading": "Artigo 20.º — Serviço de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Serviço de vigilância\n\nl - Nos parques de campismo públicos deve existir um serviço permanente de vigilância.\n\n2 - O pessoal referido no número anterior deve usar farda própria e estar devidamente identificado."
+  },
+  "865018258": {
+   "fragment_id": "865018521",
+   "type": 11,
+   "heading": "Artigo 21.º — Deveres dos campistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Deveres dos campistas\n\n1 - Durante a sua estada nos parques de campismo, os campistas devem pautar o seu comportamento pelas regras da boa vizinhança.\n\n2 - Os campistas devem ainda, em especial, cumprir as seguintes regras:\n\na) Acatar dentro do parque a autoridade do responsável pelo seu funcionamento;\n\nb) Cumprir os preceitos de higiene adoptados no parque, especialmente os referentes ao destino do lixo e das águas sujas, à lavagem e secagem de roupas, à admissão de animais e à prevenção de doenças contagiosas;\n\nc) Instalar o seu equipamento de modo a guardar a distância obrigatória de 2 m em relação ao dos outros campistas;\n\nd) Abster-se de quaisquer actos susceptíveis de incomodar os demais campistas, designadamente de fazer ruído e de utilizar aparelhos receptores de radiodifusão durante o período que for fixado no regulamento interno do parque;\n\ne) Não acender fogo, salvo nos locais para tal destinados, e cumprir as demais regras de segurança contra riscos de incêndios em vigor no parque;\n\nf) Cumprir a sinalização do parque e as indicações do responsável pelo seu funcionamento no que respeita à circulação e ao estacionamento de veículos e à instalação do equipamento de campismo;\n\ng) Não introduzir pessoas no parque sem autorização do responsável pelo seu funcionamento;\n\nh) Abandonar o parque no fim do período previamente estabelecido para a sua estada;\n\ni) Pagar o preço dos serviços utilizados, de acordo com a tabela em vigor no parque;\n\nj) Abster-se de limitar qualquer zona interior ou exterior à área que lhe for destinada para acampar, para além da sua instalação;\n\nl) Abster-se de implantar estruturas fixas ou proceder à pavimentação do solo."
+  },
+  "865018259": {
+   "fragment_id": "865018522",
+   "type": 11,
+   "heading": "Artigo 22.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regulamento interno\n\n1 - Todos os parques de campismo públicos devem ter um regulamento interno, elaborado pela respectiva entidade exploradora e aprovado pela câmara municipal competente.\n\n2 - O regulamento interno deve estar afixado, por forma bem visível, na recepção dos parques, em português, inglês e outra língua estrangeira.\n\n3 - O regulamento interno dos parques de campismo públicos deve estabelecer as normas relativas à utilização e ao funcionamento dos mesmos, nomeadamente sobre:\n\na) As condições em que são autorizadas as visitas aos campistas;\n\nb) A admissão de animais que acompanham os campistas;\n\nc) As condições em que é permitida a permanência no parque de material de campismo desocupado;\n\nd) Os deveres dos campistas."
+  },
+  "865018260": {
+   "fragment_id": "865018523",
+   "type": 11,
+   "heading": "Artigo 23.º — Recusa de permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Recusa de permanência\n\nPode ser recusada a permanência nos parques de campismo públicos aos campistas que desrespeitem os preceitos do regulamento interno e não cumpram os deveres previstos no artigo 21.º"
+  },
+  "865018261": {
+   "fragment_id": "865018524",
+   "type": 1,
+   "heading": "Capítulo III — Da classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da classificação"
+  },
+  "865018262": {
+   "fragment_id": "865018525",
+   "type": 11,
+   "heading": "Artigo 24.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Categorias\n\n1 - Os parques de campismo públicos classificam-se, atendendo à sua localização e à qualidade das suas instalações e equipamentos e dos serviços que ofereçam, nas categorias de quatro, três, duas e uma estrelas e ainda como parques de campismo rural.\n\n2 - A classificação dos parques de campismo públicos como parques de campismo rural é feita de acordo com o estabelecido em diploma próprio."
+  },
+  "865018263": {
+   "fragment_id": "865018526",
+   "type": 11,
+   "heading": "Artigo 25.º — Parques de campismo de uma estrela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Parques de campismo de uma estrela\n\n1 - Para que um parque de campismo público possa ser classificado de uma estrela deve dispor ainda de:\n\na) Bar;\n\nb) Lavadouros de louça e tanques para lavar roupa e respectivos secadouros, na proporção de um para cada 50 campistas.\n\n2 - As instalações sanitárias devem dispor de:\n\na) Chuveiros individuais na proporção de um para cada 35 campistas;\n\nb) Lavatórios na proporção de um para cada 20 campistas;\n\nc) Retretes, dotadas de descarga automática de água, na proporção de uma para cada 30 homens e uma para cada 20 senhoras, podendo até 25% das retretes dos homens ser substituídas por urinóis;\n\nd) Tomadas de corrente na proporção de uma para cada 40 campistas.\n\n3 - A área útil destinada a cada campista é de 13 m2."
+  },
+  "865018264": {
+   "fragment_id": "865018527",
+   "type": 11,
+   "heading": "Artigo 26.º — Parques de campismo de duas estrelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Parques de campismo de duas estrelas\n\n1 - Para que um parque de campismo público possa ser classificado de duas estrelas deve dispor ainda, além dos equipamentos referidos no n.º 1 do artigo anterior, de:\n\na) Supermercado;\n\nb) Sala de convívio.\n\n2 - As instalações sanitárias devem dispor, além dos equipamentos referidos no n.º 2 do artigo anterior, de pelo menos um chuveiro de água quente nas instalações do sexo masculino e um nas instalações do sexo feminino.\n\n3 - A área útil destinada a cada campista é de 15 m2."
+  },
+  "865018265": {
+   "fragment_id": "865018528",
+   "type": 11,
+   "heading": "Artigo 27.º — Parques de campismo de três estrelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Parques de campismo de três estrelas\n\n1 - Para que um parque de campismo público possa ser classificado de três estrelas deve situar-se em terreno arborizado e dispor ainda, além dos equipamentos referidos no n.º 1 do artigo 25.º e no n.º 1 do artigo anterior, de:\n\na) Restaurante-bar;\n\nb) Sala de convívio com televisão;\n\nc) Sala de jogos;\n\nd) Mesas e bancos para refeições ao ar livre;\n\ne) Espaços ajardinados;\n\nf) Um bloco de instalações sanitárias por cada 2 ha de área destinada ao campismo.\n\n2 - As instalações sanitárias devem dispor de:\n\na) Chuveiros individuais na proporção de um para cada 30 campistas, devendo um terço, pelo menos, dispor de água quente;\n\nb) Lavatórios dotados de água quente na proporção de um para cada 30 campistas;\n\nc) Retretes e tomadas de corrente, de acordo com o disposto nas alíneas c) e d) do n.º 2 do artigo 25.º\n\n3 - A área útil destinada a cada campista é de 18 m2."
+  },
+  "865018266": {
+   "fragment_id": "865018529",
+   "type": 11,
+   "heading": "Artigo 28.º — Parques de campismo de quatro estrelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Parques de campismo de quatro estrelas\n\n1 - Para que um parque de campismo público possa ser classificado de quatro estrelas deve situar-se em terreno muito arborizado e ajardinado e dispor ainda, além dos equipamentos referidos no n.º 1 do artigo 25.º, no n.º 1 do artigo 26.º e no n.º 1 do artigo anterior, de:\n\na) Parque de estacionamento;\n\nb) Tabacaria;\n\nc) Cabinas telefónicas;\n\nd) Máquinas de lavar roupa e ferros eléctricos de engomar;\n\ne) Equipamento de cozinha para preparação de refeições;\n\nf) Piscinas, para adultos e para crianças;\n\ng) Campo de jogos vedado;\n\nh) Serviço de guarda de valores na recepção;\n\ni) Posto médico.\n\n2 - As instalações sanitárias devem dispor de:\n\na) Chuveiros individuais, dotados de água quente, na proporção de um para cada 25 campistas;\n\nb) Lavatórios, dotados de água quente, na proporção de um para cada 10 campistas;\n\nc) Retretes, dotadas de descarga automática de água, na proporção de uma para cada 20 homens e uma para cada 15 senhoras, podendo até 25% das retretes dos homens ser substituídas por urinóis;\n\nd) Tomadas de corrente na proporção de uma para cada 30 campistas.\n\n3 - Nos parques de campismo públicos de quatro estrelas devem existir cinco locais de distribuição de água canalizada por cada hectare de área destinada ao campismo.\n\n4 - A área útil destinada a cada campista é de 22 m2.\n\n5 - As piscinas devem ter equipamentos que garantam as características das águas e obedeçam aos parâmetros definidos pelo Decreto-Lei n.º 74/90, de 7 de Março, e pelo Decreto Regulamentar n.º 5/97, de 31 de Março."
+  },
+  "865018267": {
+   "fragment_id": "865018530",
+   "type": 1,
+   "heading": "Capítulo IV — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Contra-ordenações"
+  },
+  "865018268": {
+   "fragment_id": "865018531",
+   "type": 11,
+   "heading": "Artigo 29.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Contra-ordenações\n\n1 - Constituem contra-ordenações:\n\na) A falta ou o não cumprimento de qualquer dos requisitos comuns exigidos nos artigos 2.º a 14.º e 16.º a 20.º;\n\nb) A inexistência de regulamento interno aprovado pela câmara municipal competente;\n\nc) A falta ou o não cumprimento dos requisitos especiais exigidos nos artigos 25.º a 28.º\n\n2 - As contra-ordenações previstas nas alíneas do número anterior são puníveis com coima de 10000$00 a 500000$00, no caso de se tratar de pessoa singular, e de 25000$00 a 3000000$00, no caso de se tratar de pessoa colectiva.\n\n3 - A fixação em concreto da coima aplicável faz-se tendo em conta a gravidade do comportamento e a classificação do parque.\n\n4 - A tentativa e a negligência são puníveis."
+  },
+  "865018269": {
+   "fragment_id": "865018532",
+   "type": 11,
+   "heading": "Artigo 30.º — Sanção acessória de encerramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sanção acessória de encerramento\n\nO encerramento do parque e a suspensão do respectivo alvará de licença de utilização turística só podem ser determinados como sanção acessória das contra-ordenações resultantes da violação do disposto nos artigos 5.º, 6.º, 18.º e 19.º"
+  },
+  "865018270": {
+   "fragment_id": "865018533",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "865018271": {
+   "fragment_id": "865018534",
+   "type": 11,
+   "heading": "Artigo 31.º — Parques de campismo públicos existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Parques de campismo públicos existentes\n\n1 - Os parques de campismo públicos existentes à data da entrada em vigor do presente diploma devem satisfazer os requisitos nele previstos para a respectiva categoria, devendo as suas entidades exploradoras proceder à realização das obras e à instalação dos equipamentos necessários para esse efeito no prazo de dois anos a contar daquela data.\n\n2 - A requerimento dos interessados, a câmara municipal pode reconhecer que a realização de algumas das obras referidas no número anterior se revela materialmente impossível ou excessivamente onerosa, para efeitos da sua dispensa.\n\n3 - O não cumprimento do disposto no n.º 1 implica a revisão da classificação do parque de campismo para a categoria que corresponder ao seu estado, salvo quando se verifique que o estabelecimento não reúne os requisitos mínimos para poder ser classificado em qualquer grupo e categoria, caso em que deve ser determinado o seu encerramento e apreendido o respectivo alvará."
+  },
+  "865018272": {
+   "fragment_id": "865018535",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediatamente a seguir ao da sua publicação."
+  },
+  "865018235": {
+   "fragment_id": "865018498",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 33/97\n\nde 17 de Setembro\n\nAo abrigo do disposto no n.º 3 do artigo 1.º do Decreto-Lei n.º 167/97, de 4 de Julho, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "865018773": {
+   "fragment_id": "865018500",
+   "type": 11,
+   "heading": "Artigo 1.º — Localização",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 1.º — Localização\n\n1 - Os parques de campismo devem situar-se em locais adequados aos fins a que se destinam, devendo os respectivos terrenos possuir as seguintes características:\n\na) Não serem pantanosos nem excessivamente húmidos;\n\nb) Não estarem situados em zona de atmosfera poluída;\n\nc) Estarem distanciados 1000 m, pelo menos, dos locais em que exista indústria insalubre, incómoda, tóxica ou perigosa;\n\nd) Não estarem situados em zonas de áreas de máxima infiltração, zonas de protecção de nascentes e outras captações de água e de condutas de água potável ou de combustíveis;\n\ne) Não estarem situados em leitos de cheia ou leitos secos de rios;\n\nf) Serem suficientemente drenados para facilitar o escoamento das águas pluviais;\n\ng) Ficarem afastados 1000 m, pelo menos, de condutas abertas de esgotos, de lixeiras ou de aterros sanitários;\n\nh) Estarem afastados das grandes vias de comunicação ou suficientemente isolados delas, mas disporem de acessos fáceis aos utentes.\n\n2 - Os terrenos devem ainda ser arborizados e dispor de boas sombras, devendo criar-se nova arborização quando a mesma não exista ou for insuficiente.\n\n3 - Enquanto não for possível dar cumprimento ao disposto no número anterior, devem ser criadas sombras por processos artificiais, sobretudo nas zonas destinadas a convívio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018774": {
+   "fragment_id": "865018501",
+   "type": 11,
+   "heading": "Artigo 2.º — Acesso à via pública",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 2.º — Acesso à via pública\n\nOs terrenos dos parques de campismo devem ter fácil ligação à via pública para qualquer tipo de veículos automóveis com e sem reboques, designadamente para veículos de socorro ou emergência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018875": {
+   "fragment_id": "865018502",
+   "type": 11,
+   "heading": "Artigo 3.º — Delimitação",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 3.º — Delimitação\n\n1 - O terreno dos parques de campismo deve ser vedado, por forma a preservar a segurança e a tranquilidade dos campistas.\n\n2 - Nas vedações devem existir portões de entrada e saída em número suficiente e devidamente sinalizados, com a largura mínima de 3,5 m, para possibilitar o acesso ao parque de campismo de veículos de socorro e emergência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018876": {
+   "fragment_id": "865018503",
+   "type": 11,
+   "heading": "Artigo 4.º — Vias de circulação interna",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 4.º — Vias de circulação interna\n\n1 - Os parques de campismo devem dispor de vias de circulação interna que permitam o trânsito de qualquer tipo de veículos automóveis com ou sem reboques, designadamente veículos de socorro ou de emergência.\n\n2 - As vias de circulação interna devem ter a largura mínima de 3 m ou 5 m, conforme sejam, respectivamente, de um ou dois sentidos.\n\n3 - As vias de circulação interna devem ser mantidas em bom estado de conservação e estar, a todo o tempo, totalmente desobstruídas.\n\n4 - Entre a vedação do parque de campismo e a área destinada às instalações e equipamentos dos campistas deve existir uma via de circulação, com a largura mínima de 3 m, de modo a permitir a intervenção de quaisquer veículos de socorro ou emergência.\n\n5 - É interdito o estacionamento de quaisquer veículos ou equipamentos nas vias de circulação interna que impossibilitem ou dificultem o trânsito de veículos, em especial dos de emergência ou socorro.\n\n6 - Apenas é permitido o estacionamento de veículos automóveis dentro dos parques de campismo nas áreas expressamente previstas para o efeito.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018877": {
+   "fragment_id": "865018504",
+   "type": 11,
+   "heading": "Artigo 5.º — Rede de energia eléctrica",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 5.º — Rede de energia eléctrica\n\n1 - Os parques de campismo devem dispor de uma rede interna, aérea ou subterrânea, de distribuição de energia eléctrica que assegure o fornecimento de electricidade aos campistas e a iluminação geral do parque.\n\n2 - O estabelecimento e a exploração das instalações eléctricas dos parques de campismo devem obedecer às disposições constantes do Regulamento de Segurança de Instalações Eléctricas de Parques de Campismo e de Marinas (RPCM), aprovado pelo Decreto-Lei n.º 393/85, de 9 de Outubro.\n\n3 - Junto às tomadas de corrente destinadas aos utentes do parque de campismo deve ser indicada a respectiva tensão.\n\n4 - Os parques de campismo devem dispor de um sistema de iluminação de emergência, nomeadamente junto das entradas e saídas do parque, dos blocos onde se situem as instalações sanitárias e das vias de comunicação.\n\n5 - Sem prejuízo do disposto no Decreto-Lei n.º 393/85, de 9 de Outubro, nos parques de campismo em que sejam admitidas caravanas ou autocaravanas devem existir locais com dispositivos que lhes assegurem o fornecimento de energia eléctrica.\n\n6 - Durante os períodos de silêncio deve haver luz permanente junto às entradas e saídas do parque do parque de campismo, bem como das instalações sanitárias, devendo no interior destas a luz ser accionável através de interruptores que tenham a necessária protecção.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018878": {
+   "fragment_id": "865018505",
+   "type": 11,
+   "heading": "Artigo 6.º — Abastecimento de água",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 6.º — Abastecimento de água\n\n1 - Os parques de campismo devem ser dotados de água de abastecimento para consumo humano, nos termos previstos nas normas relativas à qualidade da água destinada ao consumo humano.\n\n2 - Nos parques de campismo deve ser assegurado o fornecimento de pelo menos 80 l de água por dia e por campista.\n\n3 - Nos parques de campismo devem existir, pelo menos, três locais de distribuição de água canalizada por cada hectare de área destinada ao campismo.\n\n4 - Os locais de distribuição de água devem estar revestidos com materiais impermeabilizados e assegurar a drenagem das águas residuais.\n\n5 - Se não existir rede pública de abastecimento de água para consumo humano nos parques de campismo, estes devem dispor de reservatórios de água próprios, com capacidade suficiente para satisfazer as necessidades mínimas diárias, de acordo com o estabelecido no n.º 2 e ainda uma reserva de emergência cuja dimensão e características devem ser estabelecidas pelo Serviço Nacional de Bombeiros, em função do respectivo grau de risco.\n\n6 - Para efeitos do disposto no número anterior a captação de água destinada a abastecimento para consumo humano deve possuir as adequadas condições de protecção sanitária, e o sistema ser dotado dos processos de tratamento requeridos para a potabilização da água ou para a manutenção dessa potabilização, de acordo com as normas de qualidade da água em vigor, devendo para o efeito ser efectuadas análises físico-químicas e microbiológicas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018879": {
+   "fragment_id": "865018506",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições gerais de instalação",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 7.º — Condições gerais de instalação\n\n1 - A instalação das infra-estruturas e, de um modo geral, de todo o equipamento necessário ao funcionamento dos parques de campismo deve efectuar-se de modo que não se produzam ruídos, vibrações, fumos ou cheiros susceptíveis de perturbar ou de, por qualquer modo, afectar o ambiente dos parques de campismo e a tranquilidade e a segurança dos campistas.\n\n2 - É interdita a instalação de coberturas laterais utilizadas como protecção dos equipamentos dos campistas.\n\n3 - Apenas é permitida a instalação de coberturas superiores colocadas sobre os equipamentos destinados aos campistas quando as mesmas preencherem, cumulativamente, os seguintes requisitos:\n\na) A reacção ao fogo dos materiais utilizados nas coberturas superiores deve ser, no mínimo, da classe M2;\n\nb) As coberturas superiores devem possuir condições de resistência mínima aos agentes atmosféricos de modo a garantir a segurança das pessoas e dos equipamentos;\n\nc) As coberturas superiores apenas devem cobrir as tendas e caravanas ou autocaravanas dos campistas e não a totalidade dos espaços a eles destinados;\n\nd) As coberturas superiores não podem apresentar soluções de continuidade entre si;\n\ne) As coberturas superiores não podem provocar impactos negativos relativamente ao meio ambiente envolvente;\n\nf) As coberturas superiores devem ser fixadas ao solo de modo que não constituam um elemento inamovível.\n\n4 - É interdita a instalação de muros artificiais à volta das tendas ou outros equipamentos similares utilizados pelos campistas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018880": {
+   "fragment_id": "865018507",
+   "type": 11,
+   "heading": "Artigo 8.º — Instalações sanitárias",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 8.º — Instalações sanitárias\n\n1 - Os parques de campismo devem possuir instalações sanitárias de utilização comum dotadas de água corrente.\n\n2 - As instalações sanitárias devem ser separadas por sexos e dispor de:\n\na) Chuveiros individuais na proporção de um para cada 35 campistas, com antecâmara para vestiário dotada de banco e cabide;\n\nb) Lavatórios com espelho na proporção de um para cada 20 campistas;\n\nc) Retretes, dotadas de descarga automática de água, na proporção de um para cada 30 homens e uma para cada 20 mulheres, podendo até 25% das retretes dos homens ser substituídas por urinóis;\n\nd) Máquinas automáticas de venda de preservativos e de pensos higiénicos;\n\ne) Tomadas de corrente na proporção de uma para cada 40 campistas.\n\n3 - As instalações sanitárias devem estar equipadas para a sua utilização por crianças, incluindo fraldários situados em áreas especificamente destinadas para esse efeito ou, em alternativa, situados quer nas instalações sanitárias destinadas às mulheres quer nas instalações sanitárias destinadas aos homens.\n\n4 - Pelo menos um dos blocos de instalações sanitárias deve permitir o acesso e estar equipado para a sua utilização por campistas com deficiências motoras.\n\n5 - As instalações sanitárias devem possuir comunicação directa para o exterior ou serem dotadas de dispositivos de ventilação artificial, com contínua renovação do ar, adequados à sua dimensão.\n\n6 - As instalações sanitárias devem ser ligadas a uma rede interna de esgotos que conduzam as águas residuais a sistemas adequados ao seu escoamento, nomeadamente através da rede pública, ou se esta não existir, de um sistema de recolha e tratamento adequado ao volume e natureza dessas águas, de acordo com a legislação em vigor.\n\n7 - As instalações sanitárias não podem situar-se junto das zonas destinadas a preparar e cozinhar alimentos ou a tomar refeições.\n\n8 - As paredes, pavimentos e tectos das instalações sanitárias devem ser revestidas de materiais resistentes, impermeáveis, não inflamáveis e de fácil limpeza.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018881": {
+   "fragment_id": "865018509",
+   "type": 11,
+   "heading": "Artigo 10.º — Equipamentos de utilização comum",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 10.º — Equipamentos de utilização comum\n\n1 - Os parques de campismo devem ter, pelo menos, os seguintes equipamentos de utilização comum pelos campistas:\n\na) Recepção, situada junto à entrada principal do parque de campismo;\n\nb) Lavadouros de louça e pias para despejo de águas residuais, na proporção de um para cada 50 campistas;\n\nc) Tanques de lavagem de roupa e zona de secagem;\n\nd) Tábuas de engomar;\n\ne) Parque infantil;\n\nf) Área para a prática de desportos ao ar livre.\n\n2 - Os lavadouros de louça, as pias para despejo de águas residuais e os tanques para lavar roupa, dotados de água corrente e ligados, por meio de sifão, ao sistema de esgoto, podem ser ao ar livre, devendo, no entanto, ser resguardados do sol e da chuva.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018899": {
+   "fragment_id": "865018510",
+   "type": 11,
+   "heading": "Artigo 11.º — Recipientes para o lixo",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 11.º — Recipientes para o lixo\n\n1 - Os parques de campismo devem dispor de recipientes para o lixo com tampa, colocados em locais de fácil acesso e devidamente sinalizados, na proporção de um por cada 30 campistas, com capacidade adequada e não distando entre si mais de 50 m.\n\n2 - Os recipientes para o lixo devem ter divisórias em função do tipo de lixo por forma a permitir a sua reciclagem.\n\n3 - Os parques de campismo devem também ser dotados de um local apropriado para a instalação de contentores de maior dimensão, que recebam os resíduos dos contentores menores, utilizados pelos campistas.\n\n4 - A lavagem e manutenção dos contentores é obrigatória, devendo prever-se um local para esta actividade devidamente isolado das zonas destinadas aos campistas, devendo o mesmo ser claramente identificado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018882": {
+   "fragment_id": "865018511",
+   "type": 11,
+   "heading": "Artigo 12.º — Instalações de serviço para caravanas e autocaravanas",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 12.º — Instalações de serviço para caravanas e autocaravanas\n\n1 - Nos parques de campismo em que sejam admitidas caravanas ou autocaravanas devem existir instalações de serviço na proporção de uma instalação para cada 30 unidades.\n\n2 - As instalações referidas no número anterior destinam-se ao abastecimento de água às caravanas e auto-caravanas e aos respectivos despejos e devem ser dotadas do equipamento necessário para o efeito.\n\n3 - Os locais das instalações referidas no n.º 1 devem estar revestidos com materiais impermeabilizados, de modo a assegurar a drenagem das águas residuais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018883": {
+   "fragment_id": "865018512",
+   "type": 11,
+   "heading": "Artigo 13.º — Instalações de alojamento",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 13.º — Instalações de alojamento\n\n1 - Nos parques de campismo podem existir instalações de carácter complementar destinadas a alojamento, desde que não ultrapassem 25% da área total do parque destinada aos campistas.\n\n2 - Cada uma das instalações referidas no número anterior não pode ter mais de dois pisos nem ocupar uma superfície superior a 75 m2.\n\n3 - Em cada uma das instalações referidas no n.º 1 só podem existir dois quartos, devendo, porém, ser dotadas de casa de banho privativa, com retrete, chuveiro e lavatório com espelho e ponto de luz.\n\n4 - Sem prejuízo do disposto no número seguinte, a área dos quartos das instalações destinadas a alojamento não pode ser inferior a 8 m2, 12 m2 ou 16 m2, consoante se trate de quartos com uma, duas ou três camas individuais.\n\n5 - Quando as instalações destinadas a alojamento forem pré-fabricadas e tiverem um carácter amovível, a área dos quartos pode ser reduzida para 5 m2 e 8 m2, consoante se trate, respectivamente, de quartos com uma cama individual ou com duas camas individuais ou uma de casal.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018884": {
+   "fragment_id": "865018514",
+   "type": 11,
+   "heading": "Artigo 14.º — Placa identificativa da classificação e qualificação",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 14.º — Placa identificativa da classificação e qualificação\n\n1 - Nos parques de campismo públicos e nos parques de campismo privativos previstos no n.º 4 do artigo 24.º, é obrigatória a afixação no exterior, junto à entrada principal, de uma placa identificativa da classificação do parque, cujo modelo é aprovado por portaria do membro do Governo responsável pela área do turismo.\n\n2 - Nos parques de campismo privativos é obrigatória a afixação no exterior, junto à entrada principal, de uma placa que identifique o parque como privativo, devendo, no caso dos parques previstos no n.º 3 do artigo 4.º do Decreto-Lei n.º 167/97, de 4 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 55/2002, de 11 de Março, o mesmo ser identificado como associativo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018885": {
+   "fragment_id": "865018515",
+   "type": 11,
+   "heading": "Artigo 15.º — Capacidade dos parques",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 15.º — Capacidade dos parques\n\n1 - A capacidade dos parques de campismo públicos é determinada pela área útil destinada a cada campista, de acordo com o estabelecido no presente regulamento para as respectivas categorias.\n\n2 - A capacidade dos parques de campismo privativos é determinada pela área útil destinada a cada campista.\n\n3 - Para efeito do disposto no número anterior, a área útil mínima destinada a cada campista nos parques de campismo privativos é de 13 m2.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018886": {
+   "fragment_id": "865018516",
+   "type": 11,
+   "heading": "Artigo 16.º — Recepção",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 16.º — Recepção\n\n1 - Os parques de campismo devem ter uma recepção instalada junto da sua entrada principal.\n\n2 - A recepção deve prestar, pelo menos, os seguintes serviços:\n\na) Encarregar-se do registo de entradas e saídas dos campistas;\n\nb) Receber, guardar e entregar aos campistas a correspondência, bem como os objectos que lhes sejam destinados;\n\nc) Anotar e dar conhecimento aos campistas, logo que possível, das chamadas telefónicas e mensagens a eles destinadas.\n\n3 - A recepção deve ainda prestar aos campistas as informações respeitantes ao funcionamento do parque de campismo, designadamente sobre os serviços que o mesmo preste e as suas normas de funcionamento privativas.\n\n4 - Na recepção deve haver uma caixa de correio, um telefone e um aparelho de telecópia ligados à rede fixa.\n\n5 - Na recepção deve afixar-se, por forma bem visível, em português, inglês e outra língua estrangeira, as seguintes indicações:\n\na) O nome, tipo e categoria do parque de campismo;\n\nb) O horário de funcionamento da recepção;\n\nc) Os preços dos serviços;\n\nd) O período de funcionamento do parque de campismo;\n\ne) A lotação do parque de campismo;\n\nf) Os períodos de silêncio;\n\ng) A planta do parque de campismo, assinalando as instalações de utilização comum, a área destinada aos campistas, a localização dos extintores e das saídas de emergência;\n\nh) A existência de regulamento interno;\n\ni) A existência do livro de reclamações à disposição dos campistas;\n\nj) A indicação da morada e do telefone do centro de saúde e do hospital mais próximos do parque de campismo;\n\nl) A morada e o telefone da farmácia mais próxima do parque de campismo;\n\nm) A indicação do posto de correio mais próximo do parque de campismo.\n\n6 - Quando a lotação estiver esgotada, deve ser indicada à entrada, por forma bem visível do exterior, a inexistência de lugares vagos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018887": {
+   "fragment_id": "865018517",
+   "type": 11,
+   "heading": "Artigo 17.º — Primeiros socorros e equipamento de salvação",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 17.º — Primeiros socorros e equipamento de salvação\n\n1 - Os parques de campismo devem ter disponível, vinte e quatro horas por dia, equipamento de primeiros socorros ou um posto médico para a prestação de assistência, devidamente sinalizado.\n\n2 - Sem prejuízo do disposto no Decreto-Lei n.º 236/98, de 1 de Agosto, os parques de campismo localizados em zonas que disponham de acesso directo a águas balneares situadas junto a praias fluviais ou marítimas, lagoas ou barragens sem serviços de socorros a náufragos, devem dispor de equipamento e meios de salvação para banhistas junto desses acessos e pessoal preparado para actuar em caso de emergência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018888": {
+   "fragment_id": "865018519",
+   "type": 11,
+   "heading": "Artigo 19.º — Serviço de limpeza e remoção do lixo",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 19.º — Serviço de limpeza e remoção do lixo\n\n1 - Todas as instalações comuns dos parques de campismo, incluindo as sanitárias, bem como os recipientes de lixo, devem ser limpos e desinfectados diariamente.\n\n2 - O lixo e demais resíduos recolhidos na área destinada ao campismo devem ser removidos diariamente para o local previsto no n.º 2 do artigo 11.º, onde serão recolhidos pelos serviços públicos ou, na falta destes, por outros idênticos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018889": {
+   "fragment_id": "865018520",
+   "type": 11,
+   "heading": "Artigo 20.º — Serviço de vigilância",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 20.º — Serviço de vigilância\n\n1 - Nos parques de campismo deve existir um serviço permanente de vigilância.\n\n2 - O pessoal referido no número anterior deve usar farda própria e estar devidamente identificado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018890": {
+   "fragment_id": "865018521",
+   "type": 11,
+   "heading": "Artigo 21.º — Deveres dos campistas",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 21.º — Deveres dos campistas\n\n1 - Durante a sua estada nos parques de campismo, os campistas devem pautar o seu comportamento pelas regras da boa vizinhança.\n\n2 - Os campistas devem ainda, em especial, cumprir as seguintes regras:\n\na) Acatar dentro do parque de campismo a autoridade do responsável pelo seu funcionamento;\n\nb) Cumprir as regras do regulamento interno do parque de campismo;\n\nc) Cumprir os preceitos de higiene adoptados no parque de campismo, especialmente os referentes ao destino do lixo e das águas sujas, à lavagem e secagem de roupas, à admissão de animais e à prevenção de doenças contagiosas;\n\nd) Manter o respectivo espaço destinado a acampamento e os equipamentos nele instalados em bom estado de conservação, higiene e limpeza;\n\ne) Instalar o seu equipamento nos espaços destinados aos campistas, de modo a guardar a distância mínima de 2 m em relação aos dos outros campistas;\n\nf) Abster-se de quaisquer actos susceptíveis de incomodar os demais campistas, designadamente de fazer ruído e de utilizar aparelhos receptores de radiodifusão durante o período de silêncio que for fixado no regulamento interno do parque de campismo;\n\ng) Não acender fogo, excepto quando forem utilizados equipamentos para cozinhar alimentos autorizados para o efeito pelo regulamento interno do parque de campismo, e cumprir as demais regras de segurança contra riscos de incêndio em vigor no mesmo;\n\nh) Cumprir a sinalização do parque de campismo e as indicações do responsável pelo seu funcionamento no que respeita à circulação e ao estacionamento de veículos e à instalação do equipamento de campismo;\n\ni) Não introduzir pessoas no parque de campismo sem autorização do responsável pelo seu funcionamento;\n\nj) Abandonar o parque de campismo no fim do período previamente estabelecido para a sua estada;\n\nl) Pagar o preço dos serviços utilizados, de acordo com a tabela em vigor no parque de campismo;\n\nm) Não limitar qualquer zona interior ou exterior à área que lhe for destinada para acampar, para além da sua instalação;\n\nn) Não implantar estruturas fixas ou proceder à pavimentação do solo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018891": {
+   "fragment_id": "865018522",
+   "type": 11,
+   "heading": "Artigo 22.º — Regulamento interno",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 22.º — Regulamento interno\n\n1 - Sem prejuízo do disposto no número seguinte, os parques de campismo devem ter um regulamento interno elaborado pela respectiva entidade exploradora e aprovado pela câmara municipal competente.\n\n2 - Nos parques de campismo previstos no n.º 3 do artigo 4.º do Decreto-Lei n.º 167/97, de 4 de Julho, com a redacção que lhe foi dada pelo Decreto-Lei n.º 55/2002, de 11 de Março, o regulamento interno é aprovado pela Federação Portuguesa de Campismo, devendo o mesmo ser enviado para conhecimento à câmara municipal competente, sem prejuízo de o mesmo ter de obedecer a todos os requisitos legalmente estabelecidos.\n\n3 - O regulamento interno deve estar afixado, por forma bem visível, na recepção dos parques de campismo, em português, inglês e outra língua estrangeira.\n\n4 - O regulamento interno dos parques de campismo deve estabelecer as normas relativas à utilização e ao funcionamento dos mesmos, nomeadamente sobre:\n\na) As condições em que são autorizadas as visitas aos campistas;\n\nb) A admissão de animais que acompanham os campistas;\n\nc) As condições em que é permitida a permanência no parque de material de campismo desocupado;\n\nd) Os deveres dos campistas;\n\ne) O período de funcionamento do parque de campismo;\n\nf) Os períodos de silêncio;\n\ng) Os equipamentos de queima autorizados pela entidade exploradora do parque de campismo para a confecção de alimentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018892": {
+   "fragment_id": "865018523",
+   "type": 11,
+   "heading": "Artigo 23.º — Recusa de permanência",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 23.º — Recusa de permanência\n\nPode ser recusada a permanência nos parques de campismo aos campistas que desrespeitem os preceitos do regulamento interno e não cumpram os deveres previstos no artigo 21.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018893": {
+   "fragment_id": "865018525",
+   "type": 11,
+   "heading": "Artigo 24.º — Categorias",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 24.º — Categorias\n\n1 - Os parques de campismo públicos classificam-se, atendendo à sua localização, à qualidade das suas instalações e equipamentos e dos serviços que ofereçam, nas categorias de 4, 3, 2 e 1 estrelas.\n\n2 - Os parques de campismo públicos podem ainda ser classificados como parques de campismo rural.\n\n3 - A classificação dos parques de campismo previstos no número anterior é feita de acordo com o estabelecido em diploma próprio.\n\n4 - Os parques de campismo privativos podem ser classificados em qualquer das categorias previstas para os parques de campismo públicos, desde que preencham os respectivos requisitos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018894": {
+   "fragment_id": "865018527",
+   "type": 11,
+   "heading": "Artigo 26.º — Parques de campismo de 2 estrelas",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 26.º — Parques de campismo de 2 estrelas\n\n1 - Para que um parque de campismo público possa ser classificado de duas estrelas deve dispor ainda, além dos equipamentos referidos no n.º 1 do artigo anterior, de:\n\na) Supermercado;\n\nb) Sala de convívio.\n\n2 - As instalações sanitárias devem dispor, além dos equipamentos referidos no n.º 2 do artigo anterior de, pelo menos, um chuveiro de água quente quer nas instalações do sexo masculino quer nas instalações do sexo feminino.\n\n3 - A área útil destinada a cada campista é de 15 m2.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018895": {
+   "fragment_id": "865018528",
+   "type": 11,
+   "heading": "Artigo 27.º — Parques de campismo de 3 estrelas",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 27.º — Parques de campismo de 3 estrelas\n\n1 - Para que um parque de campismo público possa ser classificado de três estrelas deve situar-se em terreno arborizado e dispor ainda, além dos equipamentos referidos no n.º 1 do artigo 25.º e no n.º 1 do artigo anterior, de:\n\na) Restaurante-bar;\n\nb) Sala de convívio com televisão;\n\nc) Sala de jogos;\n\nd) Mesas e bancos para refeições ao ar livre;\n\ne) Espaços ajardinados;\n\nf) Um bloco de instalações sanitárias por cada 2 ha de área destinada ao campismo.\n\n2 - As instalações sanitárias devem dispor de:\n\na) Chuveiros individuais na proporção de um para cada 30 campistas, devendo um terço, pelo menos, dispor de água quente;\n\nb) Lavatórios dotados de água quente na proporção de um para cada 30 campistas;\n\nc) Retretes e tomadas de corrente, de acordo com o disposto nas alíneas c) e d) do n.º 2 do artigo 25.º\n\nd) Coberturas descartáveis para retretes e recipientes específicos para depositar material higiénico descartável.\n\n3 - A área útil destinada a cada campista é de 18 m2.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018896": {
+   "fragment_id": "865018529",
+   "type": 11,
+   "heading": "Artigo 28.º — Parques de campismo de 4 estrelas",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 28.º — Parques de campismo de 4 estrelas\n\n1 - Para que um parque de campismo público possa ser classificado de quatro estrelas deve situar-se em terreno muito arborizado e ajardinado e dispor ainda, além dos equipamentos referidos no n.º 1 do artigo 25.º, no n.º 1 do artigo 26.º e no n.º 1 do artigo anterior, de:\n\na) Parque de estacionamento;\n\nb) Tabacaria;\n\nc) Cabinas telefónicas;\n\nd) Máquinas de lavar roupa e ferros eléctricos de engomar;\n\ne) Equipamento de cozinha para preparação de refeições;\n\nf) Piscinas, para adultos e para crianças;\n\ng) Campo de jogos vedado;\n\nh) Serviço de guarda de valores na recepção;\n\ni) Posto médico.\n\n2 - As instalações sanitárias devem dispor de:\n\na) Chuveiros individuais, dotados de água quente, na proporção de um para cada 25 campistas;\n\nb) Lavatórios, dotados de água quente, na proporção de um para cada 10 campistas;\n\nc) Retretes, dotadas de descarga automática de água, na proporção de uma para cada 20 homens e uma para cada 15 senhoras, podendo até 25% das retretes dos homens ser substituídas por urinóis;\n\nd) Coberturas descartáveis para retretes e recipientes específicos para depositar material higiénico descartável;\n\ne) Tomadas de corrente na proporção de uma para cada 30 campistas.\n\n3 - Nos parques de campismo públicos de quatro estrelas devem existir cinco locais de distribuição de água canalizada por cada hectare de área destinada ao campismo.\n\n4 - A área útil destinada a cada campista é de 22 m2.\n\n5 - As piscinas devem ter equipamentos que garantam as características das águas e obedeçam aos parâmetros definidos pelo Decreto-Lei n.º 236/98, de 1 de Agosto e respectivos regulamentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018897": {
+   "fragment_id": "865018531",
+   "type": 11,
+   "heading": "Artigo 29.º — Contra-ordenações",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 29.º — Contra-ordenações\n\n1 - Constituem contra-ordenações:\n\na) A falta ou o não cumprimento de qualquer dos requisitos comuns exigidos nos artigos 2.º a 20.º;\n\nb) A instalação de equipamentos para o campismo, em violação do disposto na alínea e) do n.º 2 do artigo 21.º;\n\nc) A inexistência de regulamento interno aprovado;\n\nd) A falta ou o não cumprimento dos requisitos especiais exigidos nos artigos 25.º a 28.º\n\n2 - As contra-ordenações previstas no número anterior são puníveis com coima de (euro) 500 ou 100241$00 a (euro) 3740,90 ou 750000$00 no caso de se tratar de pessoa singular e de (euro) 2500 ou 501205$00 a (euro) 30000 ou 6001460$00 no caso de se tratar de pessoa colectiva.\n\n3 - A fixação em concreto da coima aplicável faz-se tendo em conta a gravidade do comportamento e a classificação do parque.\n\n4 - A tentativa e a negligência são puníveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018898": {
+   "fragment_id": "865018532",
+   "type": 11,
+   "heading": "Artigo 30.º — Sanção acessória de encerramento",
+   "in_force_from": "2002-03-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+   ],
+   "markdown": "###### Artigo 30.º — Sanção acessória de encerramento\n\nO encerramento ou a suspensão do parque de campismo e a consequente cassação do respectivo alvará de licença de utilização turística só podem ser determinados como sanção acessória das contra-ordenações resultantes da violação do disposto nos artigos 3.º, 5.º, 6.º, 15.º, 18.º e 19.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 14/2002 - Diário da República n.º 60/2002, Série I-B de 2002-03-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2002-265518), em vigor a partir de 2002-03-13"
+  },
+  "865018273": {
+   "fragment_id": "865018536",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 15 de Maio de 1997.\n\nAntónio Manuel de Carvalho Ferreira Vitorino - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - António Bernardes Costa - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Manuel Maria Ferreira Carrilho.\n\nPromulgado em 25 de Agosto de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 28 de Agosto de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

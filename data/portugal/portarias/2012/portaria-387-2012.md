@@ -1,0 +1,312 @@
+---
+schema_version: '1.0'
+id: pt:dre:190607:por
+title: Portaria n.º 387/2012
+short_title: null
+summary: Aprova os Estatutos do Instituto dos Registos e do Notariado, I. P., e revoga a Portaria n.º 520/2007, de 30 de abril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Justiça
+proposing_entity: null
+official_number: 387/2012
+official_date: null
+publication_date: '2012-11-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 231/2012, Série I de 2012-11-29
+  number: '231'
+  series: I
+  supplement: null
+  pages: 6809 - 6811
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/11/23100/0680906811.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/387/2012/11/29/p/dre/pt/html
+  oj: null
+  dre: '190607'
+  dre_path: /dr/detalhe/portaria/387-2012-190607
+  internal: pt:dre:190607:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-2012-190607
+  metadata_url: https://data.dre.pt/eli/port/387/2012/11/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/387-2012-190607
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-11-29T00:00:00Z'
+integrity:
+  source_sha256: 54bbccca5ad3a98912c3273cce1266c39e2dc65a85141626c429c9f6d6c22d1d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-387-190607.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto dos Registos e do Notariado
+- Definição de Competências
+- Estatuto
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/148/2012/07/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/148/2012/07/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/520/2007/04/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/520/2007/04/30/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 387/2012
+
+de 29 de novembro
+
+O [Decreto-Lei n.º 148/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2012-179775), de 12 de julho, definiu a missão e as atribuições do Instituto dos Registos e do Notariado, I. P. Importa, agora, no desenvolvimento daquele decreto-lei, determinar a sua organização interna.
+
+Assim:
+
+Ao abrigo do artigo 12.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+São aprovados, em anexo à presente portaria e da qual fazem parte integrante, os Estatutos do Instituto dos Registos e do Notariado, I. P., abreviadamente designado por IRN, I. P.
+
+###### Artigo 2.º — Revogação
+
+É revogada a Portaria n.º 520/2007, de 30 de abril.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 19 de novembro de 2012. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 9 de novembro de 2012.**
+
+## ANEXO — ESTATUTOS DO INSTITUTO DOS REGISTOS E DO NOTARIADO, I. P.
+
+###### Artigo 1.º — Estrutura
+
+1 - A organização interna dos serviços do IRN, I. P., é constituída pelas seguintes unidades orgânicas:
+
+a) Departamento de Gestão e Apoio Técnico Jurídico aos Serviços de Registo;
+
+b) Departamento de Recursos Humanos;
+
+c) Departamento Financeiro;
+
+d) Departamento de Identificação Civil;
+
+e) Departamento Patrimonial.
+
+2 - Por deliberação do conselho diretivo do IRN, I. P., publicada no Diário da República, podem ser criadas, modificadas ou extintas unidades flexíveis, designadas por gabinetes e sectores, cujo número não pode exceder o limite máximo de onze, integrando-se os sectores em departamentos e sendo os gabinetes diretamente dependentes do conselho diretivo.
+
+###### Artigo 2.º — Cargos dirigentes intermédios
+
+1 - Os departamentos referidos no n.º 1 do artigo anterior são dirigidos por diretores, cargos de direção intermédia de 1.º grau.
+
+2 - Os gabinetes e os sectores são dirigidos por coordenadores, cargos de direção intermédia de 2.º grau.
+
+###### Artigo 3.º — Departamento de Gestão e Apoio Técnico Jurídico aos Serviços de Registo
+
+Ao Departamento de Gestão e Apoio Técnico Jurídico aos Serviços de Registo, abreviadamente designado por DGATJ, compete:
+
+a) Mapear e manter atualizada a rede de distribuição de serviços de registos e de identificação civil, estes últimos em articulação com o Departamento de Identificação Civil;
+
+b) Apoiar o conselho diretivo na definição prospetiva das necessidades de recursos e os princípios para a alocação e realocação de serviços;
+
+c) Promover e apoiar tecnicamente a elaboração de manuais de procedimentos, em matéria de certificação da qualidade;
+
+d) Colaborar na definição do modelo de implantação da rede de distribuição de serviços desconcentrados e dos critérios de avaliação das oportunidades de expansão, reorganização ou contração da mesma;
+
+e) Avaliar e emitir parecer sobre localizações para a abertura de novos balcões;
+
+f) Garantir a integração, numa lógica multicanal, da coerência dos serviços prestados nos vários canais propondo soluções para a sua otimização;
+
+g) Coordenar os helpdesks de serviço ao cidadão e de apoio aos serviços desconcentrados, em articulação com o Departamento de Identificação Civil;
+
+h) Assegurar a articulação com os serviços desconcentrados para a produção integrada de dados estatísticos;
+
+i) Estudar e propor alternativas para a rentabilização dos espaços afetos aos serviços desconcentrados e identificar oportunidades para o estabelecimento de parcerias para a otimização dos mesmos;
+
+j) Colaborar no lançamento de novos projetos, garantindo a coerência com os critérios definidos pelo modelo de implantação da rede, planeamento e calendarização das ações inspetivas;
+
+k) Verificar o cumprimento das disposições legais, dos regulamentos e orientações de serviço nos serviços desconcentrados do IRN, I. P.;
+
+l) Exercer poderes de fiscalização e disciplina da atividade notarial;
+
+m) Analisar e responder às reclamações sobre os serviços do IRN, I. P.;
+
+n) Propor a instauração de processos disciplinares, acompanhar e assegurar a respetiva instrução, salvo quando forem determinados ou avocados pelo membro do Governo responsável pela área da justiça, bem como dos processos de averiguações, de inquérito, de sindicância e de inspeção, a que haja lugar no âmbito das suas competências e com conhecimento à Inspeção-Geral dos Serviços de Justiça;
+
+o) Colaborar na definição dos objetivos no âmbito do sistema integrado de gestão e avaliação do desempenho;
+
+p) Assegurar, no âmbito do sistema integrado de gestão e avaliação do desempenho, a avaliação dos serviços, dirigentes e demais trabalhadores do IRN, I. P., diagnosticar e promover as adequações e desenvolver as ações necessárias à integração da avaliação individual no ciclo de gestão garantindo a coerência com os objetivos constantes da carta de missão;
+
+q) Garantir, em articulação com os demais serviços, e em resultado da avaliação do IRN, I. P., a formulação das opções estratégicas a inscrever, mediante atualização do Quadro de Avaliação e Responsabilização (QUAR), no ciclo anual de gestão seguinte;
+
+r) Elaborar estudos, emitir pareceres e prestar apoio de natureza técnico-jurídica aos órgãos e unidades orgânicas do IRN, I. P.;
+
+s) Informar e emitir pareceres em processo de recurso hierárquico das decisões relativas a atos e processos de registo;
+
+t) Preparar e acompanhar a intervenção do IRN, I. P., em processos jurisdicionais;
+
+u) Colaborar na feitura de legislação e propor as alterações legislativas que considere adequadas;
+
+v) Responder às consultas formuladas por entidades públicas relativamente à interpretação e aplicação da legislação relacionada com os serviços de registo;
+
+w) Prestar apoio aos cidadãos e às empresas através da divulgação de orientações genéricas ou do adequado encaminhamento das suas pretensões de caráter técnico-jurídico;
+
+x) Propor a audição do conselho técnico.
+
+###### Artigo 4.º — Departamento de Recursos Humanos
+
+Ao Departamento de Recursos Humanos, abreviadamente designado por DRH, compete:
+
+a) Propor as linhas estratégicas da política de gestão e administração dos recursos humanos do IRN, I. P. e definir e executar as ações de recrutamento, desenvolvimento profissional e de mobilidade;
+
+b) Conceber, programar e executar, no quadro da cooperação nacional e estrangeira, planos de formação inicial e permanente orientados para a valorização profissional e adequação às novas tecnologias da informação do pessoal do IRN, I. P.;
+
+c) Assegurar a preparação do balanço social do IRN, I. P.;
+
+d) Emitir parecer, elaborar informações e proceder a estudos sobre quaisquer assuntos relativos ao regime jurídico do pessoal do IRN, I. P., que lhe sejam submetidos;
+
+e) Preparar e acompanhar a intervenção do IRN, I. P., em processos jurisdicionais sobre o respetivo pessoal.
+
+###### Artigo 5.º — Departamento Financeiro
+
+Ao Departamento Financeiro, abreviadamente designado por DF, compete:
+
+a) Coordenar a recolha de elementos para a elaboração da proposta de orçamento dos serviços de registo, com vista à sua integração no projeto de orçamento anual do IRN, I. P.;
+
+b) Preparar a proposta dos orçamentos de funcionamento e de investimento;
+
+c) Acompanhar e controlar a execução orçamental e propor as medidas necessárias;
+
+d) Preparar os planos anuais e plurianuais de atividades do IRN, I. P., e acompanhar a respetiva execução;
+
+e) Desenvolver sistemas de contabilidade e de gestão orçamental dos serviços de registo e controlar a sua aplicação;
+
+f) Avaliar as necessidades de fundo de maneio dos serviços desconcentrados e propor os necessários ajustamentos à otimização da gestão de tesouraria;
+
+g) Controlar a composição e reconstituição das contas do fundo de maneio;
+
+h) Elaborar a conta de gerência e preparar o projeto do respetivo relatório;
+
+i) Assegurar o acompanhamento da execução material e financeira do PIDDAC, bem como dos projetos conexos;
+
+j) Garantir a arrecadação e otimização da gestão da receita dos serviços desconcentrados de registo, assim como as restituições devidas;
+
+k) Assegurar a arrecadação e a contabilização das receitas dos serviços centrais;
+
+l) Controlar os movimentos e as disponibilidades financeiras e de tesouraria;
+
+m) Garantir o processamento, a contabilização e o pagamento das despesas do IRN, I. P.;
+
+n) Assegurar a reconciliação das contas afetas aos serviços centrais;
+
+o) Controlar as transferências bancárias;
+
+p) Assegurar os pagamentos a fornecedores;
+
+q) Preparar informação financeira e contabilística para prestação de contas às entidades externas e de coordenação ministerial.
+
+###### Artigo 6.º — Departamento de Identificação Civil
+
+Ao Departamento de Identificação Civil, abreviadamente designado por DIC, compete:
+
+a) Recolher, tratar e conservar os elementos identificadores de cada cidadão com o fim de estabelecer a sua identificação civil, nos termos da lei;
+
+b) Colaborar com a Direção-Geral da Política de Justiça na recolha, tratamento e difusão dos elementos de informação estatística relativos à identificação civil;
+
+c) Prestar o apoio necessário aos serviços de receção dos pedidos de emissão, substituição e cancelamento do cartão de cidadão;
+
+d) Organizar e manter atualizado o ficheiro central da identificação civil;
+
+e) Conduzir as operações relativas à emissão, substituição e cancelamento do cartão de cidadão assim como, nos casos previsto por lei, à emissão de bilhetes de identidade provisórios;
+
+f) Acompanhar a implementação e o nível de serviço prestado pelos serviços externos do IRN, I. P. e pelos organismos públicos e privados intermediários no processo de receção dos pedidos;
+
+g) Garantir que as operações relativas à personalização do cartão de cidadão são executadas com observância dos requisitos técnicos e de segurança aplicáveis;
+
+h) Assegurar a receção e confirmação dos elementos necessários dos pedidos de passaporte eletrónico português comum e respetivo encaminhamento para os serviços competentes;
+
+i) Garantir a entregar do passaporte eletrónico português comum;
+
+j) Assegurar o funcionamento de um serviço de apoio ao cidadão para disponibilização e divulgação de informação relativa ao pedido, ao processo de emissão e às condições da respetiva utilização, substituição e cancelamento do cartão de cidadão e do passaporte eletrónico português;
+
+k) Colaborar em matéria de Planeamento e Relações Externas, no âmbito de identificação civil.
+
+###### Artigo 7.º — Departamento Patrimonial
+
+Ao Departamento Patrimonial, abreviadamente designado por DP, compete:
+
+a) Identificar e planear as necessidades dos serviços de registo no domínio das instalações necessárias ao seu eficaz funcionamento, em articulação com o Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.);
+
+b) Promover, em articulação com o IGFEJ, I. P., a execução de obras de construção, remodelação, adaptação e conservação dos serviços de registo;
+
+c) Promover a fiscalização e o controle da execução das empreitadas recorrendo, nomeadamente, à prestação de serviços externos;
+
+d) Proceder ao levantamento e análise das situações de carência em equipamentos e serviços nos serviços do IRN, I. P.;
+
+e) Planear e proceder à definição técnica dos equipamentos, promovendo as aquisições de equipamentos, bens e serviços para os serviços do IRN, I. P., em articulação com o IGFEJ, I. P., e a unidade de compras do Ministério da Justiça;
+
+f) Promover as ações tendentes à adequada gestão, conservação, manutenção e funcionamento dos equipamentos adquiridos para os serviços do IRN, I. P.;
+
+g) Promover a gestão das instalações dos serviços centrais do IRN, I. P., e das viaturas;
+
+h) Assegurar a inventariação dos bens afetos aos serviços de registo e zelar pelos recursos patrimoniais dos serviços centrais do IRN, I. P.;
+
+i) Acompanhar e coordenar a conceção e o desenvolvimento dos projetos de informatização dos serviços de registo, sem prejuízo das competências próprias do IGFEJ, I. P.;
+
+j) Colaborar com as demais unidades orgânicas no âmbito de novos projetos que envolvam a implementação ou utilização de soluções informáticas e telecomunicações;
+
+k) Promover a elaboração de estudos e propostas com vista à definição dos meios informáticos mais adequados aos serviços;
+
+l) Estudar e acompanhar a aplicação de normas de controlo, de coordenação e de interligação dos sistemas informáticos existentes ou a criar nos serviços de registo;
+
+m) Dinamizar a comunicação e partilha de informação através da intranet e da página eletrónica do IRN, I. P.
+
+###### Artigo 8.º — Serviços de registo
+
+1 - Os serviços de registo são regulados em diploma próprio.
+
+2 - Por decisão do conselho diretivo do IRN, I. P., podem ser criados, junto de entidades públicas ou privadas, balcões de registos, enquanto estruturas multifuncionais onde sejam disponibilizados um ou mais serviços próprios do IRN, I. P.
+
+3 - Os serviços previstos nos números anteriores podem ser prestados em espaços físicos partilhados, organizados sob uma direção e gestão únicas, sempre que o conselho diretivo do IRN, I. P., o considerar conveniente.

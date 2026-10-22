@@ -1,0 +1,163 @@
+---
+schema_version: '1.0'
+id: pt:dre:647294:por
+title: Portaria n.º 816-C/87
+short_title: null
+summary: Determina que a concessão da carta de caçador fique dependente de exame
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 816-C/87
+official_date: null
+publication_date: '1987-09-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 225/1987, 1º Suplemento, Série I de 1987-09-30
+  number: '225'
+  series: I
+  supplement: 1º Suplemento
+  pages: 3688-(4) a 3688-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/09/22501/00040005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '647294'
+  dre_path: /dr/detalhe/portaria/816-c-1987-647294
+  internal: pt:dre:647294:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/816-c-1987-647294
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/816-c-1987-647294
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-04-09T00:00:00Z'
+integrity:
+  source_sha256: 1b2a192811422edb3ae50e53db36f20126efbe6c0623611d0b3c346589f433ee
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-816-C-647294.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:332044:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 816-C/87
+
+de 30 de Setembro
+
+A carta de caçador é um documento necessário para a prática do acto venatório, e alguns aspectos regulamentares referentes a este documento constam nos artigos 4.º a 13.º do [Decreto-Lei n.º 311/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1987-417646), de 10 de Agosto, e nos artigos 6.º a 8.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto.
+
+Com o presente diploma regulamentam-se formas processuais de admissão dos candidatos aos exames para obtenção da carta de caçador e define-se a periodicidade e os locais onde os mesmos decorrerão, bem como o valor da taxa devida para inscrição e prestação das provas de exame.
+
+Assim, com fundamento no disposto no artigo 7.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e nos artigos 8.º a 10.º do [Decreto-Lei n.º 311/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1987-417646), de 10 de Agosto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e Alimentação, o seguinte:
+
+1.º - 1 - A concessão da carta de caçador fica dependente de exame.
+
+2 - Fica igualmente dependente de exame a manutenção da carta de caçador quando o seu titular seja condenado, por sentença transitada em julgado, em interdição do direito de caçar, ainda que a pena tenha sido suspensa.
+
+2.º - 1 - O exame consiste na prestação de provas teóricas, que constarão de testes escritos sobre as seguintes matérias:
+
+Biologia e ordenamento das espécies cinegéticas, cães de caça, munições, armas e seu manejo e legislação da caça.
+
+2 - Poderá o Ministro da Agricultura, Pescas e Alimentação, por simples despacho, estabelecer a data a partir da qual é obrigatória a prestação complementar de provas práticas de tiro, manejo de armas de caça e identificação de espécies cinegéticas.
+
+3.º A estruturação de testes escritos e a realização dos exames são da competência da Direcção-Geral das Florestas (DGF).
+
+4.º Os exames serão feitos em localidades onde estão situadas sedes das circunscrições florestais ou sedes de distritos.
+
+5.º - 1 - Haverá anualmente duas épocas de exame, sendo uma em Janeiro e outra em Junho.
+
+2 - Os candidatos cujos requerimentos entrem na sede da DGF, em Lisboa, depois de 31 de Março e até 31 de Outubro prestam provas de exame no mês de Janeiro seguinte.
+
+3 - Os candidatos cujos requerimentos entrem na sede da DGF, em Lisboa, depois de 31 de Outubro e até 31 de Março prestam provas de exame no mês de Junho seguinte.
+
+4 - Para garantia do controle de entrada, em devido tempo, dos requerimentos dos candidatos a exame, podem os interessados proceder ao seu envio à sede da DGF, Serviço de Caça, através de carta registada com aviso de recepção, remetendo juntamente os documentos referidos nos números seguintes, bem como um cheque ou um vale de correio, em nome do tesoureiro da DGF, no valor de 5000$00, para pagamento da taxa de exame.
+
+6.º - 1 - O exame para carta de caçador deve ser solicitado à DGF, mediante requerimento, em impresso próprio.
+
+2 - O requerente deverá juntar ao requerimento uma fotocópia do bilhete de identidade e um envelope com o seu nome e endereço.
+
+3 - O requerente deverá possuir as condições legais que permitem obter a carta de caçador, devendo declarar no requerimento conhecer essas condições.
+
+7.º No acto de entrega do requerimento será paga a taxa de exame, no valor de 5000$00, ou remetida em cheque ou em vale de correio, quando for adoptado o processo de envio directo à DGF.
+
+8.º - 1 - O examinando será convocado para prestar as suas provas, utilizando a DGF, para o efeito, o envelope referido no n.º 2 do n.º 6.º deste diploma.
+
+2 - Da convocatória constarão o dia, a hora e o local do exame.
+
+9.º - 1 - Para prestar as provas de exame é obrigatória a prévia identificação dos examinandos, mediante a exibição do bilhete de identidade ou passaporte.
+
+2 - Antes do exame, o examinando deve também apresentar o documento de convocatória que lhe foi enviado.
+
+3 - A falta de exibição ou de apresentação de qualquer dos documentos referidos nos dois números anteriores implica a impossibilidade de prestar provas de exame, sendo-lhe aplicável o disposto no n.º 1 do n.º 15.º deste diploma.
+
+10.º - 1 - As provas de exame serão realizadas perante um júri de três membros, a designar pelo director-geral das Florestas.
+
+2 - Às provas de exame pode ainda assistir um delegado regional de caçadores da área onde a mesma se realize.
+
+11.º Será impedido de prosseguir a prova e eliminado o examinando que perturbe a ordem ou que cometa ou tente cometer qualquer fraude.
+
+12.º O requerente que haja sido submetido a exame e relativamente ao qual se venha a verificar não preencher as condições legais referidas no n.º 3 do n.º 6.º não adquire qualquer direito a que lhe seja concedida carta de caçador, independentemente de ter ou não sido aprovado; igualmente não lhe serão devolvidos os documentos ou os valores que haja entregue para a realização do exame ou passagem da carta.
+
+13.º - 1 - Da decisão que impedir a prestação de provas de exame cabe recurso para o Ministro da Agricultura, Pescas e Alimentação, a interpor no prazo de quinze dias contados da data do seu conhecimento.
+
+2 - Da decisão do júri cabe recurso, no prazo de quinze dias a contar da data do seu conhecimento, para o director-geral das Florestas.
+
+3 - O director-geral das Florestas pode, oficiosamente, alterar a decisão do júri com fundamento em erro material ou em ilegalidade, cabendo recurso do interessado, no prazo de quinze dias a contar da data do seu conhecimento, para o Ministro da Agricultura, Pescas e Alimentação.
+
+14.º Os candidatos que faltem à prestação das provas de exame não têm direito à devolução do valor da taxa paga nem de quaisquer documentos que hajam entregue.
+
+15.º - 1 - Os candidatos que faltem aos exames para que foram convocados nos quinze dias imediatos à data do exame podem requerer ao director-geral das Florestas a sua admissão às provas da época de exames seguinte, sendo dispensados do pagamento de nova taxa.
+
+2 - Os candidatos que, usando da faculdade prevista anteriormente, faltem ao segundo exame são definitivamente excluídos e perdem o direito a qualquer reembolso, devendo, para fazer exame, iniciar novo processo.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+**Assinada em 24 de Setembro de 1987.**
+
+**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**

@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553581:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-200254667",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2012-553581",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-03-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "200248716",
+    "200248717",
+    "200248718",
+    "200248719",
+    "200248720",
+    "200248721",
+    "200248722",
+    "200248723",
+    "200248724",
+    "200248725",
+    "200248726",
+    "200248727",
+    "200248728",
+    "200248729",
+    "200248730",
+    "200248731",
+    "200248732",
+    "200248733",
+    "200248734",
+    "200248735",
+    "200248736",
+    "200248737",
+    "200248738",
+    "200248739",
+    "200248740",
+    "200248741"
+   ]
+  },
+  {
+   "date": "2015-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:72909748:por",
+     "title": "Decreto Legislativo Regional n.º 25/2015/A",
+     "published": "2015-12-17",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/25-2015-72909748"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "200248716",
+    "200248717",
+    "200248718",
+    "200248719",
+    "200248720",
+    "200248721",
+    "200248722",
+    "200248723",
+    "200248724",
+    "200248725",
+    "200248726",
+    "200248727",
+    "200248728",
+    "200248729",
+    "200248730",
+    "200248731",
+    "200248732",
+    "200248743",
+    "200248734",
+    "200248735",
+    "200248736",
+    "200248737",
+    "200248738",
+    "200248739",
+    "200248740",
+    "200248744",
+    "200248742"
+   ]
+  }
+ ],
+ "fragments": {
+  "200248716": {
+   "fragment_id": "200254668",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 8/2012/A\n\nEducação para a saúde\n\nUm dos meios para promover a adoção de comportamentos saudáveis e a modificação de condutas prejudiciais à saúde de forma sustentada é a educação para a saúde. A investigação tem demonstrado que a maior parte dos problemas de saúde e dos comportamentos de risco, associados ao ambiente e aos estilos de vida, pode ser prevenida ou significativamente reduzida através de um programa de saúde escolar efetivo.\n\nNesse sentido, a Organização Mundial da Saúde e a Organização das Nações Unidas para a Educação, a Ciência e a Cultura recomendam que a saúde se deve aprender nos estabelecimentos de ensino, ou seja, assim como o aluno aprende na escola os conhecimentos científicos e os hábitos sociais que lhe permitirão enfrentar os problemas da vida na comunidade, também deve aprender e adquirir os conhecimentos e os hábitos de saúde que lhe permitirão alcançar o maior grau possível de saúde, física, mental e social.\n\nEm contexto escolar, Educar para a Saúde consiste em dotar as crianças e os jovens de conhecimentos, atitudes e valores que os ajudem a fazer opções e a tomar decisões adequadas à sua saúde e ao seu bem-estar físico, social e mental, bem como à saúde dos que os rodeiam, conferindo-lhes assim um papel interventivo.\n\nNeste contexto, e reconhecendo que a educação afetivo-sexual é uma das dimensões da educação para a saúde, a Assembleia da República fez aprovar em 2009, através da Lei n.º 60/2009, de 6 de agosto, um conjunto de princípios e regras, em matéria de educação afetivo-sexual, prevendo, desde logo, a implementação, nos estabelecimentos do ensino básico e secundário, de um programa de educação afetivo-sexual e a inclusão da promoção da saúde nos projetos educativos, projetos curriculares e planos de atividades das unidades orgânicas do Sistema Educativo.\n\nDado que com este diploma, aquilo que se pretende é promover a educação para a saúde em meio escolar, processo para o qual contribuem os setores da educação e da saúde, assim como contribuir, em última instância, para a adoção por parte das escolas de políticas e práticas condizentes com a Promoção da Saúde, nomeadamente no que se refere à prevenção de comportamentos de risco, aproveita-se o ensejo para introduzir no presente diploma a matéria referente à evicção escolar.\n\nFace a essa realidade, interessa proceder à alteração das orientações previstas no Decreto Legislativo Regional n.º 18/2000/A, de 8 de agosto, nomeadamente no que respeita às orientações específicas dirigidas ao Sistema Educativo Regional para a efetiva concretização dos objetivos de informação, formação e implementação da educação afetivo-sexual em meio escolar.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "200248717": {
+   "fragment_id": "200254669",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "200248718": {
+   "fragment_id": "200254670",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente diploma fixa o regime da educação para a saúde em meio escolar.\n\n2 - O presente diploma aplica-se às unidades orgânicas da rede pública, assim como aos estabelecimentos de educação e de ensino dos setores particular, cooperativo e solidário que funcionem em regime de paralelismo pedagógico, incluindo as escolas profissionais."
+  },
+  "200248719": {
+   "fragment_id": "200254671",
+   "type": 1,
+   "heading": "Capítulo II — Educação para a saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Educação para a saúde"
+  },
+  "200248720": {
+   "fragment_id": "200254672",
+   "type": 11,
+   "heading": "Artigo 2.º — Finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Finalidades\n\nConstituem finalidades da educação para a saúde:\n\na) Promover a saúde e prevenir a doença na comunidade educativa;\n\nb) Apoiar a inclusão escolar de crianças com necessidades de saúde e educativas especiais;\n\nc) Desenvolver competências de autonomia, responsabilidade e sentido crítico, indispensáveis à opção e adoção de comportamentos e estilos de vida saudáveis;\n\nd) Promover a valorização da afetividade nas relações humanas e de uma sexualidade responsável e informada;\n\ne) Promover um ambiente escolar seguro e saudável;\n\nf) Reforçar os fatores de proteção relacionados com os estilos de vida saudáveis;\n\ng) Articular as ações dos estabelecimentos de educação e ensino da Região Autónoma dos Açores com as do Plano Regional de Saúde."
+  },
+  "200248721": {
+   "fragment_id": "200254673",
+   "type": 11,
+   "heading": "Artigo 3.º — Áreas de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Áreas de intervenção\n\nO programa de educação para a saúde em meio escolar desenvolve atividades no âmbito da vigilância e proteção da saúde e da aquisição de conhecimentos, capacidades e competências em promoção da saúde, em articulação com a rede de serviços de saúde, públicos e privados."
+  },
+  "200248722": {
+   "fragment_id": "200254674",
+   "type": 11,
+   "heading": "Artigo 4.º — Áreas da educação para a saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Áreas da educação para a saúde\n\n1 - Constituem áreas prioritárias para a promoção de estilos de vida saudáveis:\n\na) A alimentação saudável;\n\nb) A saúde oral;\n\nc) A saúde mental;\n\nd) A saúde afetivo-sexual e reprodutiva;\n\ne) A atividade física;\n\nf) O ambiente e saúde;\n\ng) A segurança individual e coletiva, prevenção de acidentes e suporte básico de vida;\n\nh) A prevenção dos consumos nocivos e comportamentos de risco;\n\ni) A prevenção da violência em meio escolar.\n\n2 - Sem prejuízo do disposto no capítulo iv, a promoção de estilos de vida saudáveis é complementada com orientações definidas por portaria dos membros do Governo Regional competentes em matéria de educação e de saúde."
+  },
+  "200248723": {
+   "fragment_id": "200269775",
+   "type": 1,
+   "heading": "Capítulo III — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização e funcionamento"
+  },
+  "200248724": {
+   "fragment_id": "200269776",
+   "type": 11,
+   "heading": "Artigo 5.º — Conteúdos curriculares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conteúdos curriculares\n\n1 - O projeto educativo de cada unidade orgânica deve integrar temáticas e estratégias conexas com a promoção da saúde escolar, tanto no desenvolvimento do currículo, como na organização de atividades de enriquecimento curricular, favorecendo a articulação escola-família, fomentando a participação da comunidade escolar e dinamizando parcerias com entidades externas à escola, nomeadamente com a rede de serviços de saúde, públicos e privados, da respetiva área.\n\n2 - O projeto curricular de escola define as orientações metodológicas para a implementação da educação para a saúde em cada nível ou modalidade de ensino, ano e área curricular, indicando os temas e conteúdos, devendo privilegiar a transversalidade e a articulação curricular.\n\n3 - As orientações curriculares para a educação afetivo-sexual e educação para a saúde adequadas aos diferentes ciclos da educação básica e do ensino secundário são definidas por portaria do membro do Governo Regional competente em matéria de educação.\n\n4 - As atividades e projetos relativos à promoção da educação para a saúde integram o Plano Anual de Atividades da unidade orgânica e contemplam os seguintes aspetos:\n\na) Objetivos;\n\nb) Atividades ou projetos a desenvolver;\n\nc) Formas de organização e gestão;\n\nd) Condições de frequência e participação dos alunos;\n\ne) Recursos humanos e materiais;\n\nf) Formas de acompanhamento e avaliação do projeto.\n\n5 - O plano de atividades da educação para a saúde é elaborado pela equipa de educação para a saúde, competindo-lhe, sob a supervisão do coordenador da equipa, acompanhar e avaliar as atividades ou projetos.\n\n6 - Na educação pré-escolar, nos ensinos básico, secundário e profissional a educação para a saúde integra-se nas áreas curriculares, nos termos estabelecidos no projeto curricular de escola.\n\n7 - O docente da educação pré-escolar, o professor titular de turma do 1.º ciclo, o professor tutor ou o diretor de turma nos restantes níveis de ensino, bem como todos os professores envolvidos em trabalho direto com os alunos devem verificar a adequação das orientações do projeto curricular de escola à turma, adaptando, se necessário, essas orientações às necessidades e às expectativas dos alunos.\n\n8 - Cabe aos docentes referidos no número anterior a responsabilidade pela implementação da educação para a saúde na respetiva turma, exceto quando, no 2.º ou 3.º ciclo e ensino secundário, haja outro docente no conselho de turma com formação ou experiência específica na área e seja designado pelo conselho executivo para o efeito.\n\n9 - Sem prejuízo do disposto nos números anteriores, as equipas de educação para a saúde dos estabelecimentos de educação e ensino desenvolvem atividades de complemento curricular no âmbito da promoção da educação para a saúde, integradas no plano anual de atividades da unidade orgânica."
+  },
+  "200248725": {
+   "fragment_id": "200269777",
+   "type": 11,
+   "heading": "Artigo 6.º — Equipa de educação para a saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Equipa de educação para a saúde\n\n1 - Cada unidade orgânica cria uma equipa interdisciplinar de educação para a saúde, com uma dimensão adequada ao número de turmas existentes, nos termos do respetivo regulamento interno.\n\n2 - À equipa de educação para a saúde compete:\n\na) Elaborar o plano de atividades da educação para a saúde em conformidade com o programa regional de saúde escolar e o respetivo relatório anual em articulação com equipa de saúde escolar do centro de saúde ou unidade de saúde de ilha da sua área de residência;\n\nb) Gerir o gabinete de apoio e promoção da saúde da unidade orgânica;\n\nc) Assegurar a aplicação das orientações e conteúdos curriculares no âmbito da promoção da saúde escolar;\n\nd) Apoiar os docentes responsáveis pela implementação do programa de educação para a saúde em cada turma;\n\ne) Garantir o envolvimento da comunidade educativa, nomeadamente dos pais e encarregados de educação;\n\nf) Organizar as iniciativas extracurriculares ou de enriquecimento do currículo.\n\n3 - A equipa de educação para a saúde é coordenada por um docente designado pelo conselho executivo, tendo em conta a sua formação bem como a experiência no desenvolvimento de projetos e atividades no âmbito da educação para a saúde, competindo-lhe promover a articulação com o conselho executivo, os membros da comunidade educativa e o gestor do programa regional de saúde escolar.\n\n4 - Ao coordenador da equipa de educação para a saúde compete ainda:\n\na) Integrar a equipa de saúde escolar, criada ao abrigo do programa regional de saúde escolar;\n\nb) Coordenar a implementação do programa da educação para a saúde no âmbito da unidade orgânica;\n\nc) Acompanhar e propor as medidas consideradas necessárias à correta aplicação da educação para a saúde em articulação com o conselho executivo, o gestor do programa regional de saúde escolar e elementos nomeados pela unidade de saúde concelhia.\n\n5 - Ao coordenador do programa de educação para a saúde não devem ser distribuídas tarefas no âmbito da respetiva componente não letiva de estabelecimento, podendo os coordenadores da educação pré-escolar e do 1.º ciclo do ensino básico optar por exercer funções de apoio educativo, tendo direito a uma redução de duas horas, na componente letiva por cada 500 alunos, consoante beneficiem ou não de redução da componente letiva nos termos do artigo 124.º do Estatuto da Carreira Docente, não podendo a componente letiva ser inferior a vinte e uma horas semanais no caso de docentes da educação pré-escolar e do 1.º ciclo do ensino básico e a dezoito horas nos restantes ciclos e níveis de ensino.\n\n6 - Aos docentes que integrem as equipas de educação para a saúde não são distribuídas tarefas no âmbito da respetiva componente não letiva de estabelecimento até ao máximo de quatro horas.\n\n7 - As ações de formação realizadas por docentes no âmbito da educação para a saúde e educação afetivo-sexual são consideradas, para todos os efeitos, como efetuadas na área correspondente ao seu grupo de recrutamento."
+  },
+  "200248726": {
+   "fragment_id": "200269778",
+   "type": 11,
+   "heading": "Artigo 7.º — Parcerias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Parcerias\n\n1 - Sem prejuízo do disposto no artigo anterior, a educação para a saúde nas escolas tem o acompanhamento dos profissionais de saúde, no âmbito das equipas multidisciplinares de saúde escolar criadas ao abrigo do Programa Regional de Saúde Escolar.\n\n2 - Os departamentos do Governo Regional competentes em matéria de saúde e educação asseguram as condições de cooperação das unidades de saúde com as unidades orgânicas do sistema educativo regional, conforme estabelecido no Programa Regional de Saúde Escolar.\n\n3 - As unidades orgânicas podem, no âmbito da autonomia pedagógica, estabelecer parcerias com outras instituições e associações, desde que salvaguardados a qualidade e o rigor científico e pedagógico das respetivas intervenções."
+  },
+  "200248727": {
+   "fragment_id": "200269779",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinetes de apoio e promoção da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinetes de apoio e promoção da saúde\n\n1 - As escolas sede das unidades orgânicas do sistema educativo regional disponibilizam um espaço condigno para funcionamento de um gabinete de apoio e promoção da saúde, no âmbito da educação para a saúde, organizado com a participação dos alunos, que garanta a confidencialidade aos seus utilizadores.\n\n2 - Os gabinetes de apoio e promoção da educação são consagrados nos projetos educativos das unidades orgânicas e objeto de regulamentação nos respetivos regulamentos internos.\n\n3 - O atendimento e funcionamento do gabinete são assegurados pelos elementos da equipa da educação para a saúde e por técnicos da área da saúde, no âmbito das equipas de saúde escolar.\n\n4 - O gabinete de apoio e promoção da saúde articula a sua atividade com as respetivas unidades de saúde da comunidade local.\n\n5 - O gabinete de apoio e promoção da saúde funciona obrigatoriamente pelo menos uma manhã e uma tarde por semana.\n\n6 - O gabinete de apoio e promoção da saúde deve garantir um espaço na Internet com informação que assegure, prontamente, resposta às questões colocadas pelos alunos e pais ou encarregados de educação.\n\n7 - O gabinete de apoio e promoção da saúde assegura aos alunos os meios, de disponibilização gratuita, adequados à promoção das áreas prioritárias definidas no n.º 1 do artigo 4.º do presente diploma."
+  },
+  "200248728": {
+   "fragment_id": "200269780",
+   "type": 11,
+   "heading": "Artigo 9.º — Participação da comunidade escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Participação da comunidade escolar\n\n1 - Os pais e encarregados de educação, os alunos e as respetivas estruturas representativas devem ter um papel ativo na prossecução e concretização das finalidades do presente diploma.\n\n2 - Sem prejuízo do disposto no número anterior, os pais e encarregados de educação e respetivas estruturas representativas devem ser informados sobre todas as atividades curriculares e não curriculares desenvolvidas no âmbito da educação para a saúde, sendo-lhes facultada a consulta dos documentos orientadores sobre a matéria."
+  },
+  "200248729": {
+   "fragment_id": "200269781",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação, acompanhamento e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação, acompanhamento e monitorização\n\n1 - No final do ano letivo, o presidente do conselho executivo da unidade orgânica envia à direção regional competente em matéria de educação a avaliação dos projetos desenvolvidos no âmbito do presente diploma, da qual resulta um relatório que contemple:\n\na) Objetivos;\n\nb) População alvo;\n\nc) Recursos mobilizados;\n\nd) Modalidades adotadas;\n\ne) Resultados alcançados.\n\n2 - A direção regional competente em matéria de educação assegura o acompanhamento, a monitorização e a avaliação da implementação da educação para a saúde nas unidades orgânicas do sistema educativo regional."
+  },
+  "200248730": {
+   "fragment_id": "200269782",
+   "type": 1,
+   "heading": "Capítulo IV — Promoção da saúde afetivo-sexual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Promoção da saúde afetivo-sexual"
+  },
+  "200248731": {
+   "fragment_id": "200269783",
+   "type": 11,
+   "heading": "Artigo 11.º — Educação afetivo-sexual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Educação afetivo-sexual\n\nA educação afetivo-sexual nas escolas tem caráter obrigatório, desenvolve-se em todas as turmas de todos os níveis e ciclos dos ensinos básico, secundário e profissional e pretende que, de uma forma estruturada e sustentada, os alunos desenvolvam conhecimentos e adquiram competências, atitudes e comportamentos adequados face à saúde afetivo-sexual e reprodutiva, de forma a contribuir para a diminuição dos comportamentos de risco e para o aumento dos fatores de proteção em relação à sexualidade."
+  },
+  "200248732": {
+   "fragment_id": "200269784",
+   "type": 11,
+   "heading": "Artigo 12.º — Finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Finalidades\n\nAs atividades a desenvolver no âmbito da educação afetivo-sexual visam atingir, de forma faseada e adequada, as seguintes finalidades:\n\na) Integrar a sexualidade e a afetividade no desenvolvimento individual;\n\nb) Desenvolver competências pessoais e sociais nos jovens que permitam escolhas informadas e seguras no campo da sexualidade;\n\nc) Melhorar os relacionamentos afetivo-sexuais dos jovens;\n\nd) Prevenir comportamentos sexuais de risco e suas consequências, nomeadamente a gravidez precoce e as infeções sexualmente transmissíveis;\n\ne) Capacitar para a proteção face a todas as formas de exploração e de abuso sexuais;\n\nf) Promover o respeito pela diferença entre as pessoas e pelas diferentes orientações sexuais;\n\ng) Defender uma sexualidade responsável e informada;\n\nh) Promover a igualdade de género;\n\ni) Envolver os pais, encarregados de educação e toda a comunidade educativa de forma responsável;\n\nj) Informar sobre as disfunções sexuais e a problemática genética associada à sexualidade;\n\nk) Eliminar comportamentos baseados na discriminação sexual ou na violência em função do género ou orientação sexual."
+  },
+  "200248733": {
+   "fragment_id": "200269785",
+   "type": 11,
+   "heading": "Artigo 13.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Organização\n\n1 - Compete aos órgãos de administração e gestão de cada unidade orgânica promover a concretização da educação afetivo-sexual bem como assegurar a respetiva orientação pedagógica, sem prejuízo do disposto nos números seguintes do presente artigo.\n\n2 - Ao docente da educação pré-escolar, professor titular de turma do 1.º ciclo ou conselho de turma nos restantes níveis de ensino, compete elaborar no início do ano escolar o projeto de educação afetivo-sexual da turma em articulação com a equipa de educação para a saúde e de acordo com o estipulado no referencial que suporta o currículo regional.\n\n3 - Do projeto referido no número anterior, devem constar os conteúdos e temas a abordar, as iniciativas e visitas a realizar, as entidades, técnicos e especialistas a participar, incluindo externos.\n\n4 - Os projetos de educação afetivo-sexual são apresentados ao conselho pedagógico para aprovação e inclusão no plano anual de atividades, de acordo com os objetivos e prioridades da escola e em conformidade com as orientações definidas por diploma do membro do Governo Regional competente em matéria de educação.\n\n5 - Compete aos conselhos pedagógicos das unidades orgânicas proceder ao acompanhamento e à avaliação dos projetos de educação afetivo-sexual em articulação com os coordenadores de cada ano, ciclo ou curso e a equipa de educação para a saúde."
+  },
+  "200248734": {
+   "fragment_id": "200269786",
+   "type": 1,
+   "heading": "Capítulo V — Doenças infetocontagiosas, evicção e suspensão da atividade escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Doenças infetocontagiosas, evicção e suspensão da atividade escolar"
+  },
+  "200248735": {
+   "fragment_id": "200269787",
+   "type": 11,
+   "heading": "Artigo 14.º — Evicção escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Evicção escolar\n\n1 - São afastados da frequência escolar e demais atividades desenvolvidas nos estabelecimentos de educação e de ensino, pelos prazos adiante fixados, os discentes, pessoal docente e não docente quando atingidos pelas seguintes doenças:\n\na) Difteria - o afastamento deve manter-se até à apresentação de duas análises negativas dos exsudados nasal e faríngeo, feitas com o mínimo de vinte e quatro horas de intervalo e após vinte e quatro horas de suspensão do tratamento antimicrobiano;\n\nb) Escarlatina e outras infeções naso-faríngeas por estreptococo hemolítico do grupo A - o afastamento deve manter-se até à cura clínica, devendo, contudo, terminar após a apresentação de análise do exsudado naso-faríngeo negativa para o estreptococo hemolítico do grupo A, exceto no caso de início de antibioticoterapia correta, comprovada por declaração médica, em que o afastamento termina vinte e quatro horas após o início do tratamento;\n\nc) Febre tifoide e paratifoide - o afastamento deve manter-se pelo menos durante quatro semanas após o início da doença e até à apresentação de três análises de fezes negativas, colhidas com um mínimo de vinte e quatro horas de intervalo e não antes de quarenta e oito horas após a interrupção da terapêutica antibiótica; se as análises se mantiverem positivas, o afastamento pode ser suspenso de acordo com a apresentação de declaração comprovativa da autoridade de saúde concelhia;\n\nd) Hepatite A - o afastamento deve manter-se pelo menos durante sete dias após o início da doença ou até ao desaparecimento da icterícia, quando presente;\n\ne) Hepatite B - o afastamento deve manter-se nos casos de doença aguda e até à cura clínica; nos portadores crónicos com ou sem doença hepática ativa deve manter-se também o afastamento quando se verifiquem dermatoses exsudativas ou coagulopatias com tradução clínica e em fase de hemorragia ativa;\n\nf) Impétigo - o afastamento deve manter-se até à cura clínica ou até à apresentação de declaração médica comprovativa da não existência de risco de contágio;\n\ng) Infeções meningocócicas - meningite e sepsis - o afastamento deve manter-se até à cura clínica;\n\nh) Parotidite epidémica - o afastamento deve manter-se por um período mínimo de nove dias após o aparecimento da tumefação glandular;\n\ni) Poliomielite - o afastamento deve manter-se até ao desaparecimento dos vírus nas fezes, comprovado através de análise;\n\nj) Rubéola - o afastamento deve manter-se pelo perío-do mínimo de sete dias após o início do exantema; em função do risco de contágio deve proceder-se ao afastamento das mulheres grávidas com menos de 20 semanas de gestação, até ao esclarecimento dos resultados serológicos para o vírus da rubéola, e quando estas não se encontrem imunologicamente protegidas;\n\nk) Sarampo - o afastamento deve manter-se pelo período mínimo de quatro dias após o início do exantema;\n\nl) Tinha - o afastamento deve manter-se nos casos de tinha do couro cabeludo até à apresentação de declaração médica comprovativa de que o doente está a efetuar o tratamento adequado. No caso de tinha dos pés, unhas e outras localizações cutâneas é obrigatória a exclusão de atividades ou de locais de maior perigo de contágio, nomeadamente piscinas e balneários, até à cura clínica ou até à apresentação de declaração médica comprovativa de ausência de risco de contágio;\n\nm) Tosse convulsa - o afastamento deve manter-se durante 5 dias após o início da antibioticoterapia correta. Na ausência de tratamento deve manter-se o afastamento pelo período de 21 dias após o estabelecimento dos acessos paroxísticos de tosse;\n\nn) Tuberculose pulmonar - o afastamento deve manter-se até à apresentação de declaração médica comprovativa de ausência de risco de contágio passada com base no exame bacteriológico;\n\no) Varicela - o afastamento deve manter-se durante um período de cinco dias após o início de erupção.\n\n2 - São afastados da frequência escolar e demais atividades desenvolvidas nos estabelecimentos de educação e de ensino, pelo prazo adiante fixado, os discentes, pessoal docente e não docente nas situações em que coabitem ou tenham contactos com indivíduos atingidos pelas seguintes doenças:\n\na) Difteria - o afastamento deve manter-se durante sete dias, podendo, contudo, terminar antes desse prazo, mediante a apresentação de duas análises negativas dos exsudados nasal e faríngeo colhidas com, pelo menos, vinte e quatro horas de intervalo;\n\nb) Poliomielite - o afastamento deve manter-se até à comprovação de ausência de vírus nas fezes nos indivíduos não corretamente vacinados;\n\nc) Tosse convulsa - o afastamento deve manter-se durante um período mínimo de cinco dias após o início da antibioticoterapia profilática adequada, nos indivíduos com menos de 7 anos de idade e não corretamente vacinados;\n\nd) Infeções meningocócicas - meningite e sepsis - o afastamento deve manter-se até à apresentação de declaração médica comprovativa do início da quimioprofilaxia adequada.\n\n3 - A ocorrência de qualquer outra doença transmissível além das mencionadas nos números anteriores pode determinar o afastamento obrigatório dos atingidos ou dos «contactos», sendo a sua duração fixada pelo delegado de saúde concelhio, com base na legislação sanitária em vigor, em instruções emanadas pela direção regional competente em matéria de saúde ou em recomendações da Organização Mundial de Saúde."
+  },
+  "200248736": {
+   "fragment_id": "200269788",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência para determinar a evicção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência para determinar a evicção\n\n1 - Compete ao delegado de saúde concelhio, nos termos da regulamentação específica, determinar a evicção dos alunos, pessoal docente e não docente dos estabelecimentos de educação e de ensino, em caso de suspeita de estarem atingidos por algumas das doenças referidas no artigo anterior.\n\n2 - A evicção escolar cessa mediante declaração médica de cura clínica ou de inexistência de doença, sem prejuízo dos prazos referidos no artigo anterior.\n\n3 - Os profissionais de saúde estão obrigados a comunicar ao delegado de saúde concelhio todos os casos de que tenham conhecimento no exercício da sua atividade e que relevem para efeitos de aplicação do presente diploma.\n\n4 - Os médicos que no exercício da sua profissão suspeitem ou confirmem a existência entre os discentes, pessoal docente e não docente dos estabelecimentos de educação e de ensino de qualquer das doenças mencionadas no artigo anterior devem comunicá-lo, no prazo máximo de quarenta e oito horas, ao delegado de saúde concelhio."
+  },
+  "200248737": {
+   "fragment_id": "200269789",
+   "type": 11,
+   "heading": "Artigo 16.º — Despiste, comunicação e suspensão da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Despiste, comunicação e suspensão da atividade\n\n1 - O órgão executivo da unidade orgânica sempre que conheça ou suspeite da existência de uma doença infetocontagiosa entre os alunos ou entre o pessoal docente e não docente deve afastar provisoriamente o portador da doença e comunicar de imediato o facto ao delegado de saúde concelhio, a fim de que possam ser tomadas as providências necessárias.\n\n2 - O delegado de saúde concelhio pode determinar o afastamento do indivíduo ou indivíduos afetados em caso de suspeita de serem portadores de alguma das doenças contagiosas mencionadas no presente diploma, terminando esse afastamento logo que não se confirme a existência da doença.\n\n3 - Sem prejuízo das competências atribuídas nos termos da regulamentação específica às autoridades de saúde, cabe à direção regional competente em matéria de administração educativa, ouvido o delegado de saúde concelhio, determinar a suspensão da atividade escolar nos estabelecimentos de educação ou ensino onde se conheça ou suspeite a existência de foco de doença infetocontagiosa."
+  },
+  "200248738": {
+   "fragment_id": "200269790",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "200248739": {
+   "fragment_id": "200269791",
+   "type": 11,
+   "heading": "Artigo 17.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Regulamentação\n\nO presente diploma é objeto de regulamentação no prazo de 90 dias contados a partir da data da sua publicação."
+  },
+  "200248740": {
+   "fragment_id": "200269792",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nO presente diploma revoga o capítulo iii do Decreto Legislativo Regional n.º 18/2000/A, de 8 de agosto, e os artigos 53.º a 55.º do Decreto Legislativo Regional n.º 18/2007/A, de 19 de julho."
+  },
+  "200248741": {
+   "fragment_id": "200269793",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "200248743": {
+   "fragment_id": "200269785",
+   "type": 11,
+   "heading": "Artigo 13.º — Organização",
+   "in_force_from": "2015-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 25/2015/A - Diário da República n.º 246/2015, Série I de 2015-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2015-72909748), em vigor a partir de 2015-12-18"
+   ],
+   "markdown": "###### Artigo 13.º — Organização\n\n1 - Compete aos órgãos de administração e gestão de cada unidade orgânica promover a concretização da educação afetivo-sexual bem como assegurar a respetiva orientação pedagógica, sem prejuízo do disposto nos números seguintes do presente artigo.\n\n2 - O projeto de educação afetivo-sexual é elaborado pela equipa de saúde escolar e faz parte do projeto curricular de escola.\n\n3 - Do projeto referido no número anterior devem constar as competências a desenvolver, os conteúdos e temas a abordar por ano de escolaridade, bem como propostas de iniciativas e de parcerias com entidades externas, técnicos e especialistas.\n\n4 - O docente da educação pré-escolar, o professor titular de turma do 1.º ciclo do ensino básico, ou o diretor de turma nos restantes ciclos do ensino básico e no ensino secundário, bem como todos os professores envolvidos em trabalho direto com os alunos, devem verificar a adequação das orientações do projeto curricular de escola à turma, adaptando, se necessário, essas orientações às necessidades e às expectativas dos alunos.\n\n5 - Compete aos conselhos pedagógicos das unidades orgânicas proceder ao acompanhamento e à avaliação dos projetos de educação afetivo-sexual em articulação com os coordenadores de cada ano, ciclo ou curso e a equipa de educação para a saúde.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 25/2015/A - Diário da República n.º 246/2015, Série I de 2015-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2015-72909748), em vigor a partir de 2015-12-18"
+  },
+  "200248744": {
+   "fragment_id": "200269793",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": "2015-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 25/2015/A - Diário da República n.º 246/2015, Série I de 2015-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2015-72909748), em vigor a partir de 2015-12-18"
+   ],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos para o ano escolar de 2015/2016.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto Legislativo Regional n.º 25/2015/A - Diário da República n.º 246/2015, Série I de 2015-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-2015-72909748), em vigor a partir de 2015-12-18"
+  },
+  "200248742": {
+   "fragment_id": "200269794",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 26 de janeiro de 2012.\n\nO Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.\n\nAssinado em Angra do Heroísmo em 29 de fevereiro de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  }
+ }
+}

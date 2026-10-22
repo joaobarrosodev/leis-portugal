@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:485635:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-114472681",
+ "dre_path": "/dr/detalhe/decreto-lei/8-2011-485635",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114468124",
+    "114468125",
+    "114468126",
+    "114468127",
+    "114468128",
+    "114468129",
+    "114468130",
+    "114468131",
+    "114468132",
+    "114468134"
+   ]
+  },
+  {
+   "date": "2011-08-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406525:por",
+     "title": "Portaria n.º 260-A/2011",
+     "published": "2011-08-05",
+     "dre_path": "/dr/detalhe/portaria/260-a-2011-406525"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "114468124",
+    "114468125",
+    "114468126",
+    "114468127",
+    "114468128",
+    "114468129",
+    "114468130",
+    "114468131",
+    "114468132",
+    "114468133",
+    "184873639"
+   ]
+  },
+  {
+   "date": "2012-05-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:551985:por",
+     "title": "Decreto-Lei n.º 106/2012",
+     "published": "2012-05-17",
+     "dre_path": "/dr/detalhe/decreto-lei/106-2012-551985"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "114468124",
+    "114468125",
+    "114468126",
+    "114468127",
+    "114468128",
+    "184873647",
+    "114468130",
+    "114468131",
+    "114468132",
+    "114468133",
+    "184873648"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "114468124",
+    "114468125",
+    "114468126",
+    "114468127",
+    "114468128",
+    "184873647",
+    "114468130",
+    "114468131",
+    "114468132",
+    "114468133",
+    "184873649"
+   ]
+  }
+ ],
+ "fragments": {
+  "114468124": {
+   "fragment_id": "114472682",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 8/2011\n\nde 11 de Janeiro\n\nA alteração do perfil de saúde e doença da população verificada nas últimas décadas determinou a reestruturação dos serviços de saúde pública, bem como a redefinição das atribuições das autoridades de saúde, nos termos dos Decretos-Leis n.os 81/2009 e 82/2009, ambos de 2 de Abril.\n\nNeste sentido importa rever os actos e valores das respectivas taxas, devidas pelo pagamento dos serviços prestados no âmbito da saúde pública, que foram na sua quase totalidade estabelecidos na década de vinte do século passado.\n\nEstes valores foram objecto de actualização através do Decreto-Lei n.º 48 322, de 6 de Abril de 1968, das Portarias n.os 23 298, de 6 de Abril de 1968, e 23 707, de 13 de Novembro de 1968, e do Decreto-Lei n.º 667/76, de 5 de Agosto. O Decreto-Lei n.º 131/82, de 23 de Abril, procedeu à sua última actualização, tendo fixado um novo coeficiente, que permaneceu inalterado até ao presente.\n\nAs taxas em causa respeitam a uma diversidade ampla de actos praticados pelas autoridades de saúde e outros profissionais de saúde pública, incluindo a emissão de atestados médicos, a realização de vistorias, e as actividades desenvolvidas no âmbito da sanidade marítima e da vacinação internacional, dispersos por vários diplomas legais.\n\nOs serviços prestados para a emissão das taxas sofreram alterações ao longo do tempo que não foram sendo reflectidas nos respectivos valores, tornando-se agora necessário proceder ao seu ajustamento, considerando o aumento dos custos associados e a inflação verificada.\n\nAcresce que entretanto caíram em desuso alguns actos relativos a serviços prestados no âmbito da saúde pública e, por outro lado, surgiram outros actos que foram criados ex novo, nomeadamente com a entrada em vigor do Regulamento Sanitário Internacional (2005), tornando-se hoje muito difícil para o cidadão e instituições saber quais os diplomas em vigor, quais as taxas extintas e quais os respectivos valores praticados.\n\nAssim, torna-se, pois, necessário, por uma questão de segurança jurídica e fácil acesso dos cidadãos aos serviços prestados e aos valores praticados, proceder a uma publicação única dos actos sujeitos a taxas e seus valores.\n\nActualizam-se igualmente os valores das multas previstos no Decreto-Lei n.º 48 009, de 27 de Outubro de 1967, devidas pela violação de normas atinentes às condições sanitárias de navios ou embarcações que entrem nos portos de Portugal continental, da Região Autónoma dos Açores e da Madeira.\n\nPor fim, identificam-se as situações em que os serviços prestados pelas autoridades de saúde e outros profissionais de saúde pública estão isentos de pagamento e revogam-se os diplomas legais que não contêm normas de carácter genérico, nem de teor substantivo que devam manter-se em vigor.\n\nCom o presente decreto-lei pretende-se alcançar o objectivo de máxima simplificação, reduzir a carga burocrática imposta pelo sistema anteriormente em vigor e garantir a máxima eficácia e controlo financeiro do valor das taxas cobradas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição o Governo decreta o seguinte:"
+  },
+  "114468125": {
+   "fragment_id": "114472683",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nSão actualizados os valores devidos pelo pagamento de actos das autoridades de saúde e de serviços prestados por outros profissionais de saúde pública."
+  },
+  "114468126": {
+   "fragment_id": "114472684",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei aplica-se aos actos praticados pelas autoridades de saúde e outros profissionais de saúde pública, nas respectivas áreas geográficas e administrativas de nível nacional, regional e municipal."
+  },
+  "114468127": {
+   "fragment_id": "114472685",
+   "type": 11,
+   "heading": "Artigo 3.º — Valores de actos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valores de actos e serviços\n\nOs valores devidos pelo pagamento de actos das autoridades de saúde e de serviços prestados por outros profissionais de saúde pública são definidos no anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "114468128": {
+   "fragment_id": "114472686",
+   "type": 11,
+   "heading": "Artigo 4.º — Actualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Actualização\n\nOs valores previstos no artigo anterior são actualizados anualmente, de acordo com o índice correspondente à taxa da inflação do ano anterior publicado pelo Instituto Nacional de Estatística (INE), arredondado até ao valor da unidade euro."
+  },
+  "114468129": {
+   "fragment_id": "114472687",
+   "type": 11,
+   "heading": "Artigo 5.º — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Isenções\n\nEstão isentos de pagamento os seguintes actos:\n\na) Emissão de declaração de isolamento profiláctico de aluno do ensino não superior, por doença infecto-contagiosa de pessoa que com ele coabite;\n\nb) Emissão ou confirmação de atestado médico comprovativo de incapacidade total e permanente ou doença prolongada de descendentes de beneficiários da ADSE, que obstem à angariação de meios de subsistência a partir da maioridade, para efeitos de manutenção do estatuto de beneficiário familiar;\n\nc) Emissão de certificado médico ou atestado comprovativo da vacinação antidiftérica e ou antitetânica;\n\nd) Emissão de atestado médico comprovativo de doença ou impossibilidade física que impeça o cidadão eleitor de ser membro da mesa da assembleia de voto, em actos eleitorais;\n\ne) Emissão de atestado médico comprovativo de doença ou deficiência física do cidadão eleitor, com vista ao seu acompanhamento por outro eleitor por si escolhido, em actos eleitorais;\n\nf) Emissão de mandado de condução à urgência psiquiátrica de portador de anomalia psíquica grave que crie, por força dela, uma situação de perigo para bens jurídicos de relevante valor, próprios ou alheios, de natureza pessoal ou patrimonial, e recuse submeter-se ao necessário tratamento médico;\n\ng) Instrução de processo de avaliação de incapacidade de pessoas com deficiência, para acesso a benefícios fiscais e de outra natureza;\n\nh) Verificação de óbito e emissão do respectivo certificado;\n\ni) Emissão de declaração de evicção relativa a alunos, pessoal docente, administrativo e auxiliar, bem como dos que com eles coabitem ou tenham contactado, no que diz respeito aos estabelecimentos escolares."
+  },
+  "114468130": {
+   "fragment_id": "114472688",
+   "type": 11,
+   "heading": "Artigo 6.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Revisão\n\nO valor das taxas devidas pelo pagamento de actos das autoridades de saúde e de serviços prestados por outros profissionais de saúde pública previstos no artigo 3.º e no anexo ao presente decreto-lei, do qual faz parte integrante, é revisto por portaria do membro do Governo responsável pela área da saúde, atendendo aos princípios da adequação e da proporcionalidade e quando motivos excepcionais relativos aos custos efectivos dos actos e dos serviços prestados o justifiquem."
+  },
+  "114468131": {
+   "fragment_id": "114472689",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração ao Decreto-Lei n.º 48 009, de 27 de Outubro de 1967",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração ao Decreto-Lei n.º 48 009, de 27 de Outubro de 1967\n\nO artigo 8.º do Decreto-Lei n.º 48 009, de 27 de Outubro de 1967, passa a ter a seguinte redacção:\n\n«Artigo 8.º\n\n1 - ...\n\n2 - Estas multas são aplicadas aos seguintes casos:\n\na) A falta de remessa de mensagem avisando da existência a bordo de um caso de doença suspeita de ser contagiosa, com multa de (euro) 2000 a (euro) 3000;\n\nb) As falsas declarações tendentes a dissimular ou ocultar casos de doença suspeita de ser contagiosa que houve durante viagem ou haja a bordo, ou óbitos que não fossem por acidente, com multa de (euro) 2500 a (euro) 3740;\n\nc) A falta de remessa ou de entrega à autoridade de saúde dos documentos especificadamente indicados no Regulamento Sanitário Internacional (2005), com multa de (euro) 300 a (euro) 600;\n\nd) A falta de apresentação não justificada de documentos de bordo, quando a autoridade de saúde, ou quem a represente, os tenha pedido para consulta, com multa de (euro) 1000 a (euro) 2000;\n\ne) A inobservância de determinações da autoridade de saúde com fundamento em leis, regulamentos e em instruções sanitárias quando estas últimas tenham sido comunicadas por escrito, com multa de (euro) 2000 a (euro) 3000.\n\n3 - ...»"
+  },
+  "114468132": {
+   "fragment_id": "114472690",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 48 322, de 6 de Abril de 1968;\n\nb) O Decreto n.º 9645, de 6 de Maio de 1924;\n\nc) O Decreto n.º 16 736, de 12 de Abril de 1929;\n\nd) A Portaria n.º 23 298, de 6 de Abril 1968;\n\ne) A Portaria n.º 23 707, de 13 de Novembro de 1968."
+  },
+  "114468134": {
+   "fragment_id": "114472692",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\n(ver documento original)\n\n> Nota: [Artigo 295.º, Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586) A Alteração produzida pela Lei n.º 114/2017 ao presente decreto-lei, tem o seguinte teor: O capítulo II passa a ter a seguinte redação: «Juntas médicas 2.1 - Atestado multiúso de incapacidade em junta médica: (euro) 12,50; 2.2 - Atestado em junta médica de recurso: (euro) 25; 2.3 - Renovação do atestado médico de incapacidade multiúso em processo de revisão ou reavaliação do grau de incapacidade: 5 2.4 - Renovação do atestado médico de incapacidade multiúso em processo de revisão ou reavaliação do grau de incapacidade em junta médica de recurso: 5»\n\n> Nota: [Artigo 136.º, Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672) A Alteração produzida pela Lei n.º 42/2016 ao presente decreto-lei, tem o seguinte teor: O capítulo II passa a ter a seguinte redação: «Juntas médicas 2.1 - Atestado multiúso de incapacidade em junta médica: 25 2.2 - Atestado em junta médica de recurso: 50 2.3 - Renovação do atestado médico de incapacidade multiúso em processo de revisão ou reavaliação do grau de incapacidade: 5 2.4 - Renovação do atestado médico de incapacidade multiúso em processo de revisão ou reavaliação do grau de incapacidade em junta médica de recurso: 5»"
+  },
+  "114468133": {
+   "fragment_id": "114472691",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 14 de Outubro de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Ana Maria Teodoro Jorge.\n\nPromulgado em 24 de Dezembro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 3 de Janeiro de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "184873639": {
+   "fragment_id": "114472692",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": "2011-08-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260-A/2011 - Diário da República n.º 150/2011, 1º Suplemento, Série I de 2011-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/260-a-2011-406525), em vigor a partir de 2011-08-06"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260-A/2011 - Diário da República n.º 150/2011, 1º Suplemento, Série I de 2011-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/260-a-2011-406525), em vigor a partir de 2011-08-06"
+  },
+  "184873647": {
+   "fragment_id": "114472687",
+   "type": 11,
+   "heading": "Artigo 5.º — Isenções",
+   "in_force_from": "2012-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2012-551985), em vigor a partir de 2012-05-18"
+   ],
+   "markdown": "###### Artigo 5.º — Isenções\n\nEstão isentos de pagamento os seguintes actos:\n\na) Emissão de declaração de isolamento profiláctico de aluno do ensino não superior, por doença infecto-contagiosa de pessoa que com ele coabite;\n\nb) Emissão ou confirmação de atestado médico comprovativo de incapacidade total e permanente ou doença prolongada de descendentes de beneficiários da ADSE, que obstem à angariação de meios de subsistência a partir da maioridade, para efeitos de manutenção do estatuto de beneficiário familiar;\n\nc) Emissão de certificado médico ou atestado comprovativo da vacinação antidiftérica e ou antitetânica;\n\nd) Emissão de atestado médico comprovativo de doença ou impossibilidade física que impeça o cidadão eleitor de ser membro da mesa da assembleia de voto, em actos eleitorais;\n\ne) Emissão de atestado médico comprovativo de doença ou deficiência física do cidadão eleitor, com vista ao seu acompanhamento por outro eleitor por si escolhido, em actos eleitorais;\n\nf) Emissão de mandado de condução à urgência psiquiátrica de portador de anomalia psíquica grave que crie, por força dela, uma situação de perigo para bens jurídicos de relevante valor, próprios ou alheios, de natureza pessoal ou patrimonial, e recuse submeter-se ao necessário tratamento médico;\n\ng) Instrução de processo de avaliação de incapacidade de pessoas com deficiência, para acesso a benefícios fiscais e de outra natureza;\n\nh) Verificação de óbito e emissão do respectivo certificado;\n\ni) Emissão de declaração de evicção relativa a alunos, pessoal docente, administrativo e auxiliar, bem como dos que com eles coabitem ou tenham contactado, no que diz respeito aos estabelecimentos escolares.\n\nj) Renovação de atestado médico de incapacidade multiúso, nas situações de incapacidade permanente, não reversível mediante intervenção médica ou cirúrgica.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2012-551985), em vigor a partir de 2012-05-18"
+  },
+  "184873648": {
+   "fragment_id": "114472692",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": "2012-05-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2012-551985), em vigor a partir de 2012-05-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260-A/2011 - Diário da República n.º 150/2011, 1º Suplemento, Série I de 2011-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/260-a-2011-406525), em vigor a partir de 2011-08-06"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2012-551985), em vigor a partir de 2012-05-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260-A/2011 - Diário da República n.º 150/2011, 1º Suplemento, Série I de 2011-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/260-a-2011-406525), em vigor a partir de 2011-08-06"
+  },
+  "184873649": {
+   "fragment_id": "114472692",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 3.º)",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 295.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2012-551985), em vigor a partir de 2012-05-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260-A/2011 - Diário da República n.º 150/2011, 1º Suplemento, Série I de 2011-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/260-a-2011-406525), em vigor a partir de 2011-08-06"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 3.º)\n\n(ver documento original)\n\n> Nota: [Artigo 295.º, Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586) A Alteração produzida pela Lei n.º 114/2017 ao presente decreto-lei, tem o seguinte teor: O capítulo II passa a ter a seguinte redação: «Juntas médicas 2.1 - Atestado multiúso de incapacidade em junta médica: (euro) 12,50; 2.2 - Atestado em junta médica de recurso: (euro) 25; 2.3 - Renovação do atestado médico de incapacidade multiúso em processo de revisão ou reavaliação do grau de incapacidade: 5 2.4 - Renovação do atestado médico de incapacidade multiúso em processo de revisão ou reavaliação do grau de incapacidade em junta médica de recurso: 5»\n\n> Nota: [Artigo 136.º, Lei n.º 42/2016 - Diário da República n.º 248/2016, Série I de 2016-12-28](https://diariodarepublica.pt/dr/detalhe/lei/42-2016-105637672) A Alteração produzida pela Lei n.º 42/2016 ao presente decreto-lei, tem o seguinte teor: O capítulo II passa a ter a seguinte redação: «Juntas médicas 2.1 - Atestado multiúso de incapacidade em junta médica: 25 2.2 - Atestado em junta médica de recurso: 50 2.3 - Renovação do atestado médico de incapacidade multiúso em processo de revisão ou reavaliação do grau de incapacidade: 5 2.4 - Renovação do atestado médico de incapacidade multiúso em processo de revisão ou reavaliação do grau de incapacidade em junta médica de recurso: 5»\n\n> Alterado pelo/a Artigo 295.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 106/2012 - Diário da República n.º 96/2012, Série I de 2012-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2012-551985), em vigor a partir de 2012-05-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260-A/2011 - Diário da República n.º 150/2011, 1º Suplemento, Série I de 2011-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/260-a-2011-406525), em vigor a partir de 2011-08-06"
+  }
+ }
+}

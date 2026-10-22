@@ -1,0 +1,928 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:131193440:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-131228375",
+ "dre_path": "/dr/detalhe/lei/4-b-2020-131193440",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215193345",
+    "131228000",
+    "131228001",
+    "131228002",
+    "131228003",
+    "131228004",
+    "131228005",
+    "131228006",
+    "131228007",
+    "131228008",
+    "131228009",
+    "131228011",
+    "131228012",
+    "131228013",
+    "131228014",
+    "131228015",
+    "131228016",
+    "131228017",
+    "131228018",
+    "131228019",
+    "131228020",
+    "131228021",
+    "131228022",
+    "131228023",
+    "131228024",
+    "131228025"
+   ]
+  },
+  {
+   "date": "2020-05-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:133250480:por",
+     "title": "Lei n.º 12/2020",
+     "published": "2020-05-07",
+     "dre_path": "/dr/detalhe/lei/12-2020-133250480"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 3.º-B",
+    "Adita Artigo 3.º-C"
+   ],
+   "fragments": [
+    "131227999",
+    "131228000",
+    "131228001",
+    "133227368",
+    "133227338",
+    "133227348",
+    "133227358",
+    "133227359",
+    "133227360",
+    "133227361",
+    "133227362",
+    "133227363",
+    "133227364",
+    "133227365",
+    "133227366",
+    "133227367",
+    "131228012",
+    "131228013",
+    "131228014",
+    "131228015",
+    "131228016",
+    "131228017",
+    "131228018",
+    "131228019",
+    "131228020",
+    "131228021",
+    "131228022",
+    "131228023",
+    "131228024",
+    "131228025"
+   ]
+  },
+  {
+   "date": "2020-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140210518:por",
+     "title": "Lei n.º 35/2020",
+     "published": "2020-08-13",
+     "dre_path": "/dr/detalhe/lei/35-2020-140210518"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º-A",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "131227999",
+    "131228000",
+    "131228001",
+    "133227368",
+    "140052151",
+    "133227348",
+    "133227358",
+    "133227359",
+    "140052152",
+    "133227361",
+    "133227362",
+    "133227363",
+    "133227364",
+    "140052153",
+    "133227366",
+    "133227367",
+    "131228012",
+    "131228013",
+    "131228014",
+    "131228015",
+    "131228016",
+    "131228017",
+    "131228018",
+    "131228019",
+    "131228020",
+    "131228021",
+    "131228022",
+    "131228023",
+    "131228024",
+    "131228025"
+   ]
+  },
+  {
+   "date": "2021-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:154202311:por",
+     "title": "Decreto-Lei n.º 6-D/2021",
+     "published": "2021-01-15",
+     "dre_path": "/dr/detalhe/decreto-lei/6-d-2021-154202311"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º-B",
+    "Altera Artigo 3.º-C",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "131227999",
+    "131228000",
+    "131228001",
+    "133227368",
+    "140052151",
+    "154325691",
+    "154325692",
+    "133227359",
+    "140052152",
+    "133227361",
+    "133227362",
+    "133227363",
+    "133227364",
+    "154325693",
+    "133227366",
+    "133227367",
+    "131228012",
+    "131228013",
+    "131228014",
+    "131228015",
+    "131228016",
+    "131228017",
+    "131228018",
+    "131228019",
+    "131228020",
+    "131228021",
+    "131228022",
+    "131228023",
+    "131228024",
+    "131228025"
+   ]
+  },
+  {
+   "date": "2023-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215097639:por",
+     "title": "Lei n.º 31/2023",
+     "published": "2023-07-04",
+     "dre_path": "/dr/detalhe/lei/31-2023-215097639"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215193345",
+    "215193346",
+    "215193347",
+    "215193348",
+    "215193349",
+    "215193350",
+    "215193351",
+    "215193352",
+    "215193353",
+    "215193354",
+    "215193355",
+    "215193356",
+    "215193357",
+    "215193358",
+    "215193359",
+    "215193360",
+    "215193361",
+    "215193362",
+    "215193363",
+    "215193364",
+    "215193365",
+    "215193366",
+    "215193367",
+    "215193368",
+    "215193369",
+    "215193370",
+    "215193371",
+    "215193372",
+    "215193373",
+    "215193374"
+   ]
+  }
+ ],
+ "fragments": {
+  "215193345": {
+   "fragment_id": "131228376",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-05",
+   "changed_by": [],
+   "markdown": "Lei n.º 4-B/2020\n\nde 6 de abril\n\nSumário: Estabelece um regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal e de endividamento das autarquias locais, no âmbito da pandemia da doença COVID-19, e procede à segunda alteração à Lei n.º 1-A/2020, de 19 de março.\n\nEstabelece um regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal e de endividamento das autarquias locais, no âmbito da pandemia da doença COVID-19, e procede à segunda alteração à Lei n.º 1-A/2020, de 19 de março\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "131228000": {
+   "fragment_id": "131228377",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova um regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal (PAM) e de endividamento quando esteja em causa a realização de despesas com apoios sociais, aquisição de equipamentos de saúde e outras medidas de combate aos efeitos da pandemia da COVID-19 e procede à segunda alteração à Lei n.º 1-A/2020, de 19 de março."
+  },
+  "131228001": {
+   "fragment_id": "131228378",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal\n\n1 - As medidas contratualizadas nos PAM, em concreto as decorrentes da aplicação das alíneas d), e), f), i), k) e l) do n.º 1 do artigo 35.º da Lei n.º 53/2014, de 25 de agosto, na sua redação atual, ficam suspensas durante a vigência da presente lei quanto à obrigatoriedade prevista no n.º 3 do mesmo artigo, nos termos dos números seguintes.\n\n2 - O disposto no número anterior aplica-se apenas quando estejam em causa despesas destinadas à promoção de apoios sociais aos munícipes afetados pelo surto da COVID-19, de atribuição de apoios sociais, à aquisição de bens e serviços relativos à proteção da saúde pública, bem como a outras medidas de combate aos efeitos da pandemia da COVID-19, desde que devidamente fundamentados.\n\n3 - Consideram-se despesas que se enquadram na previsão do número anterior as que tenham em vista, designadamente:\n\na) A criação ou reforço dos fundos sociais de emergência;\n\nb) A isenção de juros de mora nos pagamentos em atraso;\n\nc) A isenção ou aplicação de descontos nas tarifas da água e saneamento;\n\nd) A alteração dos prazos legais ou concessão de isenções temporárias de cobrança de taxas, tarifas e licenças relacionadas com a atividade económica;\n\ne) A redução na tarifa de resíduos aplicada às empresas do concelho, tendo em consideração a diminuição dos rendimentos destas;\n\nf) O apoio ao setor social e solidário e a pessoas em situação de vulnerabilidade;\n\ng) A redefinição de prazos de pagamento das rendas mensais de habitação social;\n\nh) A criação de redes solidárias para apoio à população em situações práticas como a realização de compras, entrega de refeições, recolha e entrega de medicamentos ou passeio de animais domésticos;\n\ni) O reforço da higienização dos transportes coletivos e garantia de estacionamento gratuito para os seus utilizadores;\n\nj) A criação de linhas locais para apoio psicológico;\n\nk) Proporcionar condições para a efetivação do ensino à distância para todos os alunos, sem restrições materiais ou de cobertura de rede;\n\nl) O apoio social aos grupos mais vulneráveis ou que ficaram sem nenhum rendimento.\n\n4 - O disposto nos números anteriores não prejudica a apresentação de outras medidas pontuais de apoio por parte dos municípios junto do Fundo de Apoio Municipal, ficando a direção executiva autorizada a pronunciar-se sobre a aplicabilidade da medida proposta."
+  },
+  "131228002": {
+   "fragment_id": "131228379",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nRegime excecional de cumprimento dos limites quantitativos estipulados no Programa de Ajustamento Municipal\n\n1 - Os municípios com PAM que implementem medidas ao abrigo do artigo anterior reportam à direção executiva uma estimativa do impacto das mesmas.\n\n2 - A eventual não observância dos limites quantitativos estabelecidos no PAM, decorrente da adoção de medidas de apoio nos termos do artigo anterior, fica excluída da aplicação do regime previsto no n.º 4 do artigo 47.º e no artigo 49.º da Lei n.º 53/2014, de 25 de agosto."
+  },
+  "131228003": {
+   "fragment_id": "131228380",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime excecional para outros mecanismos de apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime excecional para outros mecanismos de apoio financeiro\n\nO disposto nos artigos 2.º e 3.º aplica-se, com as devidas adaptações, a todos os municípios que tenham contratos de saneamento ou reequilíbrio que ainda estejam em vigor, ao abrigo de regimes jurídicos anteriores, ou outros mecanismos de apoio financeiro semelhantes."
+  },
+  "131228004": {
+   "fragment_id": "131228381",
+   "type": 11,
+   "heading": "Artigo 5.º — Limite ao endividamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limite ao endividamento\n\n1 - A não observância do limite de endividamento previsto no n.º 1 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, decorrente de despesas destinadas à promoção de apoios sociais aos munícipes afetados pelo surto da COVID-19, à aquisição de bens e serviços relativos à proteção da saúde pública, bem como a outras medidas de combate aos efeitos da pandemia da COVID-19, fica excluída do regime de responsabilidade financeira previsto no n.º 4 daquele artigo.\n\n2 - O montante de despesa que resulte das medidas identificadas no número anterior é reportado à Direção-Geral das Autarquias Locais no período de três meses após o término da vigência da presente lei.\n\n3 - O valor reportado no número anterior não releva para a aplicação do previsto no n.º 3 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro."
+  },
+  "131228005": {
+   "fragment_id": "131228382",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma interpretativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma interpretativa\n\nPara efeitos do disposto no n.º 10 do artigo 128.º do Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, às autarquias locais que a 31 de dezembro de 2019 tenham reconhecidas nas suas contas as dívidas objeto de acordos de regularização de dívidas a celebrar em 2020, pode ser excecionalmente autorizada, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e do ambiente e da ação climática, a ultrapassagem ou o agravamento do respetivo incumprimento do limite previsto no n.º 1 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro, incluindo a dívida de serviços municipalizados ou intermunicipalizados e de empresas municipais ou intermunicipais."
+  },
+  "131228006": {
+   "fragment_id": "131228383",
+   "type": 11,
+   "heading": "Artigo 7.º — Aditamento à Lei n.º 1-A/2020, de 19 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aditamento à Lei n.º 1-A/2020, de 19 de março\n\nSão aditados à Lei n.º 1-A/2020, de 19 de março, que aprova medidas excecionais e temporárias de resposta à situação epidemiológica provocada pelo coronavírus SARS-CoV-2 e da doença COVID-19, os artigos 3.º-A e 3.º-B, com a seguinte redação:\n\n«Artigo 3.º-A\n\nSaldo de gerência dos órgãos das autarquias locais\n\nA introdução do saldo de gerência dos órgãos das autarquias locais pode ocorrer logo que a conta de gerência seja aprovada pelo órgão executivo ou seja aprovado o mapa de fluxo de caixa, nos termos do artigo 129.º do Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, sem prejuízo da revisão vir a ser ratificada aquando da realização da primeira reunião do órgão deliberativo.\n\nArtigo 3.º-B\n\nAntecipação de um duodécimo da participação nos impostos do Estado\n\n1 - Em 2020 é autorizada a antecipação da transferência de um duodécimo relativo à participação das autarquias locais nos impostos do Estado.\n\n2 - Para os efeitos do número anterior, a autarquia local deve solicitar, junto da Direção-Geral das Autarquias Locais, a antecipação do duodécimo até ao final do mês anterior àquele em que se pretenda a transferência.»"
+  },
+  "131228007": {
+   "fragment_id": "131228384",
+   "type": 11,
+   "heading": "Artigo 8.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Republicação\n\nÉ republicada em anexo à presente lei, da qual faz parte integrante, a Lei n.º 1-A/2020, de 19 de março, com a redação introduzida pela presente lei."
+  },
+  "131228008": {
+   "fragment_id": "131228385",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nA presente lei produz efeitos a dia 12 de março de 2020."
+  },
+  "131228009": {
+   "fragment_id": "131228386",
+   "type": 11,
+   "heading": "Artigo 10.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vigência\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2020."
+  },
+  "131228011": {
+   "fragment_id": "131228388",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 8.º)\n\nRepublicação da Lei n.º 1-A/2020, de 19 de março"
+  },
+  "131228012": {
+   "fragment_id": "131228389",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à:\n\na) Ratificação dos efeitos do Decreto-Lei n.º 10-A/2020, de 13 de março;\n\nb) Aprovação de medidas excecionais e temporárias de resposta à situação epidemiológica provocada pelo coronavírus SARS-CoV-2, agente causador da doença COVID-19."
+  },
+  "131228013": {
+   "fragment_id": "131228390",
+   "type": 11,
+   "heading": "Artigo 2.º — Ratificação de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ratificação de efeitos\n\nO conteúdo do Decreto-Lei n.º 10-A/2020, de 13 de março, é parte integrante da presente lei, produzindo efeitos desde a data de produção de efeitos do referido decreto-lei."
+  },
+  "131228014": {
+   "fragment_id": "131228391",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos do poder local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos do poder local\n\n1 - As reuniões ordinárias dos órgãos deliberativos e executivos das autarquias locais e das entidades intermunicipais previstas para os meses de abril e maio podem realizar-se até 30 de junho de 2020.\n\n2 - A obrigatoriedade de realização pública das reuniões dos órgãos deliberativos e executivos dos municípios e das freguesias e dos órgãos deliberativos das entidades intermunicipais, conforme previsto nos artigos 49.º, 70.º e 89.º do regime jurídico das autarquias locais, aprovado em anexo à Lei n.º 75/2013, de 12 de setembro, fica suspensa até ao dia 30 de junho de 2020, sem prejuízo da sua gravação e colocação no sítio eletrónico da autarquia sempre que tecnicamente viável.\n\n3 - Sem prejuízo do disposto nos números anteriores, até dia 30 de junho de 2020, podem ser realizadas por videoconferência, ou outro meio digital, as reuniões dos órgãos deliberativos e executivos das autarquias locais e das entidades intermunicipais, desde que haja condições técnicas para o efeito."
+  },
+  "131228015": {
+   "fragment_id": "131228392",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Saldo de gerência dos órgãos das autarquias locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A — Saldo de gerência dos órgãos das autarquias locais\n\nA introdução do saldo de gerência dos órgãos das autarquias locais pode ocorrer logo que a conta de gerência seja aprovada pelo órgão executivo ou seja aprovado o mapa de fluxo de caixa, nos termos do artigo 129.º do Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, sem prejuízo da revisão vir a ser ratificada aquando da realização da primeira reunião do órgão deliberativo."
+  },
+  "131228016": {
+   "fragment_id": "131228393",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Antecipação de um duodécimo da participação nos impostos do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-B — Antecipação de um duodécimo da participação nos impostos do Estado\n\n1 - Em 2020 é autorizada a antecipação da transferência de um duodécimo relativo à participação das autarquias locais nos impostos do Estado.\n\n2 - Para os efeitos do número anterior, a autarquia local deve solicitar, junto da Direção-Geral das Autarquias Locais, a antecipação do duodécimo até ao final do mês anterior àquele em que se pretenda a transferência."
+  },
+  "131228017": {
+   "fragment_id": "131228394",
+   "type": 11,
+   "heading": "Artigo 4.º — Aprovação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aprovação de contas\n\n1 - As entidades previstas nos n.os 1 e 2 do artigo 51.º da Lei n.º 97/98, de 26 de agosto, cuja aprovação de contas dependa de deliberação de um órgão colegial podem remetê-las ao Tribunal de Contas até 30 de junho de 2020, em substituição do prazo referido no n.º 4 do artigo 52.º, sem prejuízo do disposto nos restantes números desse artigo.\n\n2 - As entidades abrangidas pelo artigo 18.º do Decreto-Lei n.º 10-A/2020, de 13 de março, podem remeter as contas aprovadas ao Tribunal de Contas até 15 de julho de 2020."
+  },
+  "131228018": {
+   "fragment_id": "131228395",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos colegiais e prestação de provas públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos colegiais e prestação de provas públicas\n\n1 - A participação por meios telemáticos, designadamente vídeo ou teleconferência de membros de órgãos colegiais de entidades públicas ou privadas nas respetivas reuniões, não obsta ao regular funcionamento do órgão, designadamente no que respeita a quórum e a deliberações, devendo, contudo, ficar registado na respetiva ata a forma de participação.\n\n2 - A prestação de provas públicas previstas em regimes gerais ou especiais pode ser realizada por videoconferência, desde que haja acordo entre o júri e o respetivo candidato e as condições técnicas para o efeito."
+  },
+  "131228019": {
+   "fragment_id": "131228396",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização preventiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização preventiva\n\n1 - Sem prejuízo dos regimes de fiscalização concomitante e de fiscalização sucessiva previstos na Lei n.º 98/97, de 26 de agosto, ficam isentos da fiscalização prévia do Tribunal de Contas os contratos abrangidos pelo Decreto-Lei n.º 10-A/2020, de 13 de março, bem como outros contratos celebrados pelas entidades referidas no artigo 7.º do Decreto-Lei n.º 10-A/2020, de 13 de março, durante o período de vigência da presente lei.\n\n2 - Os contratos referidos no número anterior devem ser remetidos ao Tribunal de Contas, para conhecimento, até 30 dias após a respetiva celebração.\n\n3 - Não são suspensos os prazos relativos a processos de fiscalização prévia pendentes ou que devam ser remetidos ao Tribunal de Contas durante o período de vigência da presente lei."
+  },
+  "131228020": {
+   "fragment_id": "131228397",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazos e diligências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Prazos e diligências\n\n1 - Sem prejuízo do disposto nos números seguintes, todos os prazos para a prática de atos processuais e procedimentais que devam ser praticados no âmbito dos processos e procedimentos que corram termos nos tribunais judiciais, tribunais administrativos e fiscais, Tribunal Constitucional, Tribunal de Contas e demais órgãos jurisdicionais, tribunais arbitrais, Ministério Público, julgados de paz, entidades de resolução alternativa de litígios e órgãos de execução fiscal, ficam suspensos até à cessação da situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19, a decretar nos termos do número seguinte.\n\n2 - O regime previsto no presente artigo cessa em data a definir por decreto-lei, no qual se declara o termo da situação excecional.\n\n3 - A situação excecional constitui igualmente causa de suspensão dos prazos de prescrição e de caducidade relativos a todos os tipos de processos e procedimentos.\n\n4 - O disposto no número anterior prevalece sobre quaisquer regimes que estabeleçam prazos máximos imperativos de prescrição ou caducidade, sendo os mesmos alargados pelo período de tempo em que vigorar a situação excecional.\n\n5 - O disposto no n.º 1 não obsta:\n\na) À tramitação dos processos e à prática de atos presenciais e não presenciais não urgentes quando todas as partes entendam ter condições para assegurar a sua prática através das plataformas informáticas que possibilitam a sua realização por via eletrónica ou através de meios de comunicação à distância adequados, designadamente teleconferência, videochamada ou outro equivalente;\n\nb) A que seja proferida decisão final nos processos em relação aos quais o tribunal e demais entidades entendam não ser necessária a realização de novas diligências.\n\n6 - Ficam também suspensos:\n\na) O prazo de apresentação do devedor à insolvência, previsto no n.º 1 do artigo 18.º do Código da Insolvência e da Recuperação de Empresas;\n\nb) Quaisquer atos a realizar em sede de processo executivo, designadamente os referentes a vendas, concurso de credores, entregas judiciais de imóveis e diligências de penhora e seus atos preparatórios, com exceção daqueles que causem prejuízo grave à subsistência do exequente ou cuja não realização lhe provoque prejuízo irreparável, nos termos previstos no n.º 2 do artigo 137.º do Código de Processo Civil, prejuízo esse que depende de prévia decisão judicial.\n\n7 - Os processos urgentes continuam a ser tramitados, sem suspensão ou interrupção de prazos, atos ou diligências, observando-se quanto a estes o seguinte:\n\na) Nas diligências que requeiram a presença física das partes, dos seus mandatários ou de outros intervenientes processuais, a prática de quaisquer atos processuais e procedimentais realiza-se através de meios de comunicação à distância adequados, designadamente teleconferência, videochamada ou outro equivalente;\n\nb) Quando não for possível a realização das diligências que requeiram a presença física das partes, dos seus mandatários ou de outros intervenientes processuais, nos termos da alínea anterior, e esteja em causa a vida, a integridade física, a saúde mental, a liberdade ou a subsistência imediata dos intervenientes, pode realizar-se presencialmente a diligência desde que a mesma não implique a presença de um número de pessoas superior ao previsto pelas recomendações das autoridades de saúde e de acordo com as orientações fixadas pelos conselhos superiores competentes;\n\nc) Caso não seja possível, nem adequado, assegurar a prática de atos ou a realização de diligências nos termos previstos nas alíneas anteriores, aplica-se também a esses processos o regime de suspensão referido no n.º 1.\n\n8 - Consideram-se também urgentes, para o efeito referido no número anterior:\n\na) Os processos e procedimentos para defesa dos direitos, liberdades e garantias lesados ou ameaçados de lesão por quaisquer providências inconstitucionais ou ilegais, referidas no artigo 6.º da Lei n.º 44/86, de 30 de setembro, na sua redação atual;\n\nb) O serviço urgente previsto no n.º 1 do artigo 53.º do Decreto-Lei n.º 49/2014, de 27 de março, na sua redação atual;\n\nc) Os processos, procedimentos, atos e diligências que se revelem necessários a evitar dano irreparável, designadamente os processos relativos a menores em risco ou a processos tutelares educativos de natureza urgente e as diligências e julgamentos de arguidos presos.\n\n9 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, aos prazos para a prática de atos em:\n\na) Procedimentos que corram termos em cartórios notariais e conservatórias;\n\nb) Procedimentos contraordenacionais, sancionatórios e disciplinares, incluindo os atos de impugnação judicial de decisões finais ou interlocutórias, que corram termos em serviços da administração direta, indireta, regional e autárquica, e demais entidades administrativas, designadamente entidades administrativas independentes, incluindo a Autoridade da Concorrência, a Autoridade de Supervisão de Seguros e Fundos de Pensões, o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários, bem como os que corram termos em associações públicas profissionais;\n\nc) Procedimentos administrativos e tributários no que respeita à prática de atos por particulares.\n\n10 - A suspensão dos prazos em procedimentos tributários, referida na alínea c) do número anterior, abrange apenas os atos de interposição de impugnação judicial, reclamação graciosa, recurso hierárquico, ou outros procedimentos de idêntica natureza, bem como os atos processuais ou procedimentais subsequentes àqueles.\n\n11 - Durante a situação excecional referida no n.º 1, são suspensas as ações de despejo, os procedimentos especiais de despejo e os processos para entrega de coisa imóvel arrendada, quando o arrendatário, por força da decisão judicial final a proferir, possa ser colocado em situação de fragilidade por falta de habitação própria ou por outra razão social imperiosa.\n\n12 - Não são suspensos os prazos relativos à prática de atos realizados exclusivamente por via eletrónica no âmbito das atribuições do Instituto Nacional da Propriedade Industrial, I. P.\n\n13 - Após a data da cessação da situação excecional referida no n.º 1, a Assembleia da República procede à adaptação, em diploma próprio, dos períodos de férias judiciais a vigorar em 2020."
+  },
+  "131228021": {
+   "fragment_id": "131228398",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Contratação pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º-A — Contratação pública\n\n1 - A suspensão de prazos prevista no n.º 1 do artigo anterior não se aplica ao contencioso pré-contratual previsto no Código de Processo nos Tribunais Administrativos.\n\n2 - A suspensão dos prazos administrativos previstos na alínea c) do n.º 9 do artigo anterior não é aplicável aos prazos relativos a procedimentos de contratação pública, designadamente os constantes do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro.\n\n3 - Os prazos procedimentais no âmbito do Código dos Contratos Públicos que estiveram suspensos por força dos artigos 7.º e 10.º da presente lei, na sua redação inicial, retomam a sua contagem na data da entrada em vigor da Lei n.º 4-B/2020, de 6 de abril."
+  },
+  "131228022": {
+   "fragment_id": "131228399",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime extraordinário e transitório de proteção dos arrendatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regime extraordinário e transitório de proteção dos arrendatários\n\nDurante a vigência das medidas de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19, conforme determinada pela autoridade de saúde pública e até sessenta dias após a cessação de tais medidas nos termos do n.º 2 do artigo 7.º da presente lei, ficam suspensos:\n\na) A produção de efeitos das denúncias de contratos de arrendamento habitacional e não habitacional efetuadas pelo senhorio;\n\nb) A caducidade dos contratos de arrendamento habitacionais e não habitacionais, salvo se o arrendatário não se opuser à cessação;\n\nc) A produção de efeitos da revogação, da oposição à renovação de contratos de arrendamento habitacional e não habitacional efetuadas pelo senhorio;\n\nd) O prazo indicado no artigo 1053.º do Código Civil, se o término desse prazo ocorrer durante o período de tempo em que vigorarem as referidas medidas;\n\ne) A execução de hipoteca sobre imóvel que constitua habitação própria e permanente do executado."
+  },
+  "131228023": {
+   "fragment_id": "131228400",
+   "type": 11,
+   "heading": "Artigo 9.º — Prevalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Prevalência\n\n1 - Sem prejuízo das competências atribuídas pela Constituição e pela lei a órgãos de soberania de caráter eletivo, o disposto na presente lei, bem como no Decreto-Lei n.º 10-A/2020, de 13 de março, prevalece sobre normas legais, gerais e especiais que disponham em sentido contrário, designadamente as constantes da lei do Orçamento do Estado.\n\n2 - Aos trabalhadores com vínculo de emprego público continua a aplicar-se o disposto na alínea j) do n.º 2 do artigo 134.º da Lei Geral do Trabalho em Funções Públicos, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual."
+  },
+  "131228024": {
+   "fragment_id": "131228401",
+   "type": 11,
+   "heading": "Artigo 10.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Produção de efeitos\n\nA presente lei produz efeitos à data da produção de efeitos do Decreto-Lei n.º 10-A/2020, de 13 de março."
+  },
+  "131228025": {
+   "fragment_id": "131228402",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n113167988"
+  },
+  "131227999": {
+   "fragment_id": "131228376",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 4-B/2020\n\nde 6 de abril\n\nSumário: Estabelece um regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal e de endividamento das autarquias locais, no âmbito da pandemia da doença COVID-19, e procede à segunda alteração à Lei n.º 1-A/2020, de 19 de março.\n\nEstabelece um regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal e de endividamento das autarquias locais, no âmbito da pandemia da doença COVID-19, e procede à segunda alteração à Lei n.º 1-A/2020, de 19 de março\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "133227368": {
+   "fragment_id": "131228379",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime excecional de cumprimento dos limites quantitativos estipulados no Programa de Ajustamento Municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime excecional de cumprimento dos limites quantitativos estipulados no Programa de Ajustamento Municipal\n\n1 - Os municípios com PAM que implementem medidas ao abrigo do artigo anterior reportam à direção executiva uma estimativa do impacto das mesmas.\n\n2 - A eventual não observância dos limites quantitativos estabelecidos no PAM, decorrente da adoção de medidas de apoio nos termos do artigo anterior, fica excluída da aplicação do regime previsto no n.º 4 do artigo 47.º e no artigo 49.º da Lei n.º 53/2014, de 25 de agosto."
+  },
+  "133227338": {
+   "fragment_id": "133250513",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Fundo Social Municipal",
+   "in_force_from": "2020-05-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+   ],
+   "markdown": "###### Artigo 3.º-A — Fundo Social Municipal\n\nPara os efeitos previstos na Lei n.º 73/2013, de 3 de setembro, na sua redação atual, as despesas com equipamentos, bens e serviços de combate aos efeitos da pandemia da doença COVID-19, realizadas entre 12 de março e 30 de junho de 2020, são elegíveis para financiamento através do Fundo Social Municipal.\n\n> Nota: [Artigo 7.º, Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480) A presente lei vigora até dia 30 de junho de 2020.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+  },
+  "133227348": {
+   "fragment_id": "133250514",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Realização do capital social do Fundo de Apoio Municipal",
+   "in_force_from": "2020-05-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+   ],
+   "markdown": "###### Artigo 3.º-B — Realização do capital social do Fundo de Apoio Municipal\n\n1 - É facultada aos municípios uma moratória de 12 meses das prestações do capital a realizar em 2020 nos termos do n.º 1 do artigo 19.º da Lei n.º 53/2014, de 25 de agosto, conjugado com o n.º 5 do mesmo artigo.\n\n2 - Ao reembolso do empréstimo garantido pelo Estado, por via da Direção-Geral do Tesouro e Finanças, nos termos do n.º 2 do artigo 19.º da Lei n.º 53/2014, de 25 de agosto, é aplicada uma moratória de 12 meses nas prestações a vencer em 2020.\n\n3 - As prestações de capital a realizar pelos municípios em 2020 são deduzidas do montante da remuneração prevista no n.º 5 do artigo 18.º da Lei n.º 53/2014, de 25 de agosto, salvo manifestação de vontade em sentido contrário por parte do município.\n\n> Nota: [Artigo 7.º, Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480) A presente lei vigora até dia 30 de junho de 2020.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+  },
+  "133227358": {
+   "fragment_id": "133250515",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Amortização dos contratos de empréstimo",
+   "in_force_from": "2020-05-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+   ],
+   "markdown": "###### Artigo 3.º-C — Amortização dos contratos de empréstimo\n\n1 - É facultada aos municípios com empréstimos de assistência financeira a decorrer, nos termos dos artigos 45.º e 46.º da Lei n.º 53/2014, de 25 de agosto, a possibilidade de beneficiarem de uma moratória de 12 meses na amortização do capital vincendo até ao final de 2020.\n\n2 - A aplicação do disposto no número anterior determina a distribuição do montante da moratória pelas prestações de capital remanescentes do empréstimo.\n\n> Nota: [Artigo 7.º, Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480) A presente lei vigora até dia 30 de junho de 2020.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+  },
+  "133227359": {
+   "fragment_id": "131228380",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime excecional para outros mecanismos de apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime excecional para outros mecanismos de apoio financeiro\n\nO disposto nos artigos 2.º e 3.º aplica-se, com as devidas adaptações, a todos os municípios que tenham contratos de saneamento ou reequilíbrio que ainda estejam em vigor, ao abrigo de regimes jurídicos anteriores, ou outros mecanismos de apoio financeiro semelhantes."
+  },
+  "133227360": {
+   "fragment_id": "131228381",
+   "type": 11,
+   "heading": "Artigo 5.º — Limite ao endividamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Limite ao endividamento\n\n1 - A não observância do limite de endividamento previsto no n.º 1 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, decorrente de despesas destinadas à promoção de apoios sociais aos munícipes afetados pelo surto da COVID-19, à aquisição de bens e serviços relativos à proteção da saúde pública, bem como a outras medidas de combate aos efeitos da pandemia da COVID-19, fica excluída do regime de responsabilidade financeira previsto no n.º 4 daquele artigo.\n\n2 - O montante de despesa que resulte das medidas identificadas no número anterior é reportado à Direção-Geral das Autarquias Locais no período de três meses após o término da vigência da presente lei.\n\n3 - O valor reportado no número anterior não releva para a aplicação do previsto no n.º 3 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro."
+  },
+  "133227361": {
+   "fragment_id": "131228382",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma interpretativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma interpretativa\n\nPara efeitos do disposto no n.º 10 do artigo 128.º do Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, às autarquias locais que a 31 de dezembro de 2019 tenham reconhecidas nas suas contas as dívidas objeto de acordos de regularização de dívidas a celebrar em 2020, pode ser excecionalmente autorizada, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e do ambiente e da ação climática, a ultrapassagem ou o agravamento do respetivo incumprimento do limite previsto no n.º 1 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro, incluindo a dívida de serviços municipalizados ou intermunicipalizados e de empresas municipais ou intermunicipais."
+  },
+  "133227362": {
+   "fragment_id": "131228383",
+   "type": 11,
+   "heading": "Artigo 7.º — Aditamento à Lei n.º 1-A/2020, de 19 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aditamento à Lei n.º 1-A/2020, de 19 de março\n\nSão aditados à Lei n.º 1-A/2020, de 19 de março, que aprova medidas excecionais e temporárias de resposta à situação epidemiológica provocada pelo coronavírus SARS-CoV-2 e da doença COVID-19, os artigos 3.º-A e 3.º-B, com a seguinte redação:\n\n«Artigo 3.º-A\n\nSaldo de gerência dos órgãos das autarquias locais\n\nA introdução do saldo de gerência dos órgãos das autarquias locais pode ocorrer logo que a conta de gerência seja aprovada pelo órgão executivo ou seja aprovado o mapa de fluxo de caixa, nos termos do artigo 129.º do Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, sem prejuízo da revisão vir a ser ratificada aquando da realização da primeira reunião do órgão deliberativo.\n\nArtigo 3.º-B\n\nAntecipação de um duodécimo da participação nos impostos do Estado\n\n1 - Em 2020 é autorizada a antecipação da transferência de um duodécimo relativo à participação das autarquias locais nos impostos do Estado.\n\n2 - Para os efeitos do número anterior, a autarquia local deve solicitar, junto da Direção-Geral das Autarquias Locais, a antecipação do duodécimo até ao final do mês anterior àquele em que se pretenda a transferência.»"
+  },
+  "133227363": {
+   "fragment_id": "131228384",
+   "type": 11,
+   "heading": "Artigo 8.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Republicação\n\nÉ republicada em anexo à presente lei, da qual faz parte integrante, a Lei n.º 1-A/2020, de 19 de março, com a redação introduzida pela presente lei."
+  },
+  "133227364": {
+   "fragment_id": "131228385",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nA presente lei produz efeitos a dia 12 de março de 2020."
+  },
+  "133227365": {
+   "fragment_id": "131228386",
+   "type": 11,
+   "heading": "Artigo 10.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vigência\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2020."
+  },
+  "133227366": {
+   "fragment_id": "131228387",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 2 de abril de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 3 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 3 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "133227367": {
+   "fragment_id": "131228388",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 8.º)\n\nRepublicação da Lei n.º 1-A/2020, de 19 de março"
+  },
+  "140052151": {
+   "fragment_id": "133250513",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Fundo Social Municipal",
+   "in_force_from": "2020-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+   ],
+   "markdown": "###### Artigo 3.º-A — Fundo Social Municipal\n\nPara os efeitos previstos na Lei n.º 73/2013, de 3 de setembro, na sua redação atual, as despesas com equipamentos, bens e serviços de combate aos efeitos da pandemia da doença COVID-19, realizadas entre 12 de março e 31 de dezembro de 2020, são elegíveis para financiamento através do Fundo Social Municipal.\n\n> Nota: [Artigo 7.º, Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480) A presente lei vigora até dia 30 de junho de 2020.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+  },
+  "140052152": {
+   "fragment_id": "131228381",
+   "type": 11,
+   "heading": "Artigo 5.º — Limite ao endividamento",
+   "in_force_from": "2020-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14"
+   ],
+   "markdown": "###### Artigo 5.º — Limite ao endividamento\n\n1 - A não observância do limite de endividamento previsto no n.º 1 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, decorrente de despesas destinadas à promoção de apoios sociais aos munícipes afetados pelo surto da COVID-19, à aquisição de bens e serviços relativos à proteção da saúde pública, bem como a outras medidas de combate aos efeitos da pandemia da COVID-19, fica excluída do regime de responsabilidade financeira previsto no n.º 4 daquele artigo.\n\n2 - O montante de despesa que resulte das medidas identificadas no número anterior é reportado à Direção-Geral das Autarquias Locais no período de três meses após o término da vigência da presente lei.\n\n3 - O valor reportado no número anterior não releva para a aplicação do previsto nos n.os 1 e 3 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro, na sua redação atual.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14"
+  },
+  "140052153": {
+   "fragment_id": "131228386",
+   "type": 11,
+   "heading": "Artigo 10.º — Vigência",
+   "in_force_from": "2020-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14"
+   ],
+   "markdown": "###### Artigo 10.º — Vigência\n\n1- A presente lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2020.\n\n2 - O disposto nos artigos 2.º a 6.º vigora até 31 de dezembro de 2020.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14"
+  },
+  "154325691": {
+   "fragment_id": "133250514",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Realização do capital social do Fundo de Apoio Municipal",
+   "in_force_from": "2021-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+   ],
+   "markdown": "###### Artigo 3.º-B — Realização do capital social do Fundo de Apoio Municipal\n\n1 - É facultada aos municípios uma moratória, até 31 de dezembro de 2021, das prestações do capital a realizar em 2020 e em 2021, nos termos do n.º 1 do artigo 19.º da Lei n.º 53/2014, de 25 de agosto, conjugado com o n.º 5 do mesmo artigo.\n\n2 - Ao reembolso do empréstimo garantido pelo Estado, por via da Direção-Geral do Tesouro e Finanças, nos termos do n.º 2 do artigo 19.º da Lei n.º 53/2014, de 25 de agosto, é aplicada uma moratória até 31 de dezembro de 2021, nas prestações a vencer em 2021.\n\n3 - As prestações de capital a realizar pelos municípios em 2020 são deduzidas do montante da remuneração prevista no n.º 5 do artigo 18.º da Lei n.º 53/2014, de 25 de agosto, salvo manifestação de vontade em sentido contrário por parte do município.\n\n> Nota: [Artigo 7.º, Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480) A presente lei vigora até dia 30 de junho de 2020.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+  },
+  "154325692": {
+   "fragment_id": "133250515",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Amortização dos contratos de empréstimo",
+   "in_force_from": "2021-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+   ],
+   "markdown": "###### Artigo 3.º-C — Amortização dos contratos de empréstimo\n\n1 - É facultada aos municípios com empréstimos de assistência financeira a decorrer, nos termos dos artigos 45.º e 46.º da Lei n.º 53/2014, de 25 de agosto, a possibilidade de beneficiarem de uma moratória, até 31 de dezembro de 2021, da amortização do capital vencido e vincendo em 2020 e 2021.\n\n2 - A aplicação do disposto no número anterior determina a distribuição do montante da moratória pelas prestações de capital remanescentes do empréstimo.\n\n> Nota: [Artigo 7.º, Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480) A presente lei vigora até dia 30 de junho de 2020.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+  },
+  "154325693": {
+   "fragment_id": "131228386",
+   "type": 11,
+   "heading": "Artigo 10.º — Vigência",
+   "in_force_from": "2021-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14"
+   ],
+   "markdown": "###### Artigo 10.º — Vigência\n\n1- A presente lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2020.\n\n2 - O disposto nos artigos 2.º, 3.º, 4.º e 5.º vigora até 31 de dezembro de 2021.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14"
+  },
+  "215193346": {
+   "fragment_id": "131228377",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova um regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal (PAM) e de endividamento quando esteja em causa a realização de despesas com apoios sociais, aquisição de equipamentos de saúde e outras medidas de combate aos efeitos da pandemia da COVID-19 e procede à segunda alteração à Lei n.º 1-A/2020, de 19 de março.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193347": {
+   "fragment_id": "131228378",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal\n\n1 - As medidas contratualizadas nos PAM, em concreto as decorrentes da aplicação das alíneas d), e), f), i), k) e l) do n.º 1 do artigo 35.º da Lei n.º 53/2014, de 25 de agosto, na sua redação atual, ficam suspensas durante a vigência da presente lei quanto à obrigatoriedade prevista no n.º 3 do mesmo artigo, nos termos dos números seguintes.\n\n2 - O disposto no número anterior aplica-se apenas quando estejam em causa despesas destinadas à promoção de apoios sociais aos munícipes afetados pelo surto da COVID-19, de atribuição de apoios sociais, à aquisição de bens e serviços relativos à proteção da saúde pública, bem como a outras medidas de combate aos efeitos da pandemia da COVID-19, desde que devidamente fundamentados.\n\n3 - Consideram-se despesas que se enquadram na previsão do número anterior as que tenham em vista, designadamente:\n\na) A criação ou reforço dos fundos sociais de emergência;\n\nb) A isenção de juros de mora nos pagamentos em atraso;\n\nc) A isenção ou aplicação de descontos nas tarifas da água e saneamento;\n\nd) A alteração dos prazos legais ou concessão de isenções temporárias de cobrança de taxas, tarifas e licenças relacionadas com a atividade económica;\n\ne) A redução na tarifa de resíduos aplicada às empresas do concelho, tendo em consideração a diminuição dos rendimentos destas;\n\nf) O apoio ao setor social e solidário e a pessoas em situação de vulnerabilidade;\n\ng) A redefinição de prazos de pagamento das rendas mensais de habitação social;\n\nh) A criação de redes solidárias para apoio à população em situações práticas como a realização de compras, entrega de refeições, recolha e entrega de medicamentos ou passeio de animais domésticos;\n\ni) O reforço da higienização dos transportes coletivos e garantia de estacionamento gratuito para os seus utilizadores;\n\nj) A criação de linhas locais para apoio psicológico;\n\nk) Proporcionar condições para a efetivação do ensino à distância para todos os alunos, sem restrições materiais ou de cobertura de rede;\n\nl) O apoio social aos grupos mais vulneráveis ou que ficaram sem nenhum rendimento.\n\n4 - O disposto nos números anteriores não prejudica a apresentação de outras medidas pontuais de apoio por parte dos municípios junto do Fundo de Apoio Municipal, ficando a direção executiva autorizada a pronunciar-se sobre a aplicabilidade da medida proposta.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193348": {
+   "fragment_id": "131228379",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime excecional de cumprimento dos limites quantitativos estipulados no Programa de Ajustamento Municipal",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Regime excecional de cumprimento dos limites quantitativos estipulados no Programa de Ajustamento Municipal\n\n1 - Os municípios com PAM que implementem medidas ao abrigo do artigo anterior reportam à direção executiva uma estimativa do impacto das mesmas.\n\n2 - A eventual não observância dos limites quantitativos estabelecidos no PAM, decorrente da adoção de medidas de apoio nos termos do artigo anterior, fica excluída da aplicação do regime previsto no n.º 4 do artigo 47.º e no artigo 49.º da Lei n.º 53/2014, de 25 de agosto.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193349": {
+   "fragment_id": "133250513",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Fundo Social Municipal",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+   ],
+   "markdown": "###### Artigo 3.º-A — Fundo Social Municipal\n\nPara os efeitos previstos na Lei n.º 73/2013, de 3 de setembro, na sua redação atual, as despesas com equipamentos, bens e serviços de combate aos efeitos da pandemia da doença COVID-19, realizadas entre 12 de março e 31 de dezembro de 2020, são elegíveis para financiamento através do Fundo Social Municipal.\n\n> Nota: [Artigo 7.º, Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480) A presente lei vigora até dia 30 de junho de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+  },
+  "215193350": {
+   "fragment_id": "133250514",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Realização do capital social do Fundo de Apoio Municipal",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+   ],
+   "markdown": "###### Artigo 3.º-B — Realização do capital social do Fundo de Apoio Municipal\n\n1 - É facultada aos municípios uma moratória, até 31 de dezembro de 2021, das prestações do capital a realizar em 2020 e em 2021, nos termos do n.º 1 do artigo 19.º da Lei n.º 53/2014, de 25 de agosto, conjugado com o n.º 5 do mesmo artigo.\n\n2 - Ao reembolso do empréstimo garantido pelo Estado, por via da Direção-Geral do Tesouro e Finanças, nos termos do n.º 2 do artigo 19.º da Lei n.º 53/2014, de 25 de agosto, é aplicada uma moratória até 31 de dezembro de 2021, nas prestações a vencer em 2021.\n\n3 - As prestações de capital a realizar pelos municípios em 2020 são deduzidas do montante da remuneração prevista no n.º 5 do artigo 18.º da Lei n.º 53/2014, de 25 de agosto, salvo manifestação de vontade em sentido contrário por parte do município.\n\n> Nota: [Artigo 7.º, Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480) A presente lei vigora até dia 30 de junho de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+  },
+  "215193351": {
+   "fragment_id": "133250515",
+   "type": 11,
+   "heading": "Artigo 3.º-C — Amortização dos contratos de empréstimo",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+   ],
+   "markdown": "###### Artigo 3.º-C — Amortização dos contratos de empréstimo\n\n1 - É facultada aos municípios com empréstimos de assistência financeira a decorrer, nos termos dos artigos 45.º e 46.º da Lei n.º 53/2014, de 25 de agosto, a possibilidade de beneficiarem de uma moratória, até 31 de dezembro de 2021, da amortização do capital vencido e vincendo em 2020 e 2021.\n\n2 - A aplicação do disposto no número anterior determina a distribuição do montante da moratória pelas prestações de capital remanescentes do empréstimo.\n\n> Nota: [Artigo 7.º, Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480) A presente lei vigora até dia 30 de junho de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 12/2020 - Diário da República n.º 89/2020, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/lei/12-2020-133250480), em vigor a partir de 2020-05-08, produz efeitos a partir de 2020-03-12"
+  },
+  "215193352": {
+   "fragment_id": "131228380",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime excecional para outros mecanismos de apoio financeiro",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 4.º — Regime excecional para outros mecanismos de apoio financeiro\n\nO disposto nos artigos 2.º e 3.º aplica-se, com as devidas adaptações, a todos os municípios que tenham contratos de saneamento ou reequilíbrio que ainda estejam em vigor, ao abrigo de regimes jurídicos anteriores, ou outros mecanismos de apoio financeiro semelhantes.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193353": {
+   "fragment_id": "131228381",
+   "type": 11,
+   "heading": "Artigo 5.º — Limite ao endividamento",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14"
+   ],
+   "markdown": "###### Artigo 5.º — Limite ao endividamento\n\n1 - A não observância do limite de endividamento previsto no n.º 1 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, decorrente de despesas destinadas à promoção de apoios sociais aos munícipes afetados pelo surto da COVID-19, à aquisição de bens e serviços relativos à proteção da saúde pública, bem como a outras medidas de combate aos efeitos da pandemia da COVID-19, fica excluída do regime de responsabilidade financeira previsto no n.º 4 daquele artigo.\n\n2 - O montante de despesa que resulte das medidas identificadas no número anterior é reportado à Direção-Geral das Autarquias Locais no período de três meses após o término da vigência da presente lei.\n\n3 - O valor reportado no número anterior não releva para a aplicação do previsto nos n.os 1 e 3 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14"
+  },
+  "215193354": {
+   "fragment_id": "131228382",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma interpretativa",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 6.º — Norma interpretativa\n\nPara efeitos do disposto no n.º 10 do artigo 128.º do Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, às autarquias locais que a 31 de dezembro de 2019 tenham reconhecidas nas suas contas as dívidas objeto de acordos de regularização de dívidas a celebrar em 2020, pode ser excecionalmente autorizada, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e do ambiente e da ação climática, a ultrapassagem ou o agravamento do respetivo incumprimento do limite previsto no n.º 1 do artigo 52.º da Lei n.º 73/2013, de 3 de setembro, incluindo a dívida de serviços municipalizados ou intermunicipalizados e de empresas municipais ou intermunicipais.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193355": {
+   "fragment_id": "131228383",
+   "type": 11,
+   "heading": "Artigo 7.º — Aditamento à Lei n.º 1-A/2020, de 19 de março",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 7.º — Aditamento à Lei n.º 1-A/2020, de 19 de março\n\nSão aditados à Lei n.º 1-A/2020, de 19 de março, que aprova medidas excecionais e temporárias de resposta à situação epidemiológica provocada pelo coronavírus SARS-CoV-2 e da doença COVID-19, os artigos 3.º-A e 3.º-B, com a seguinte redação:\n\n«Artigo 3.º-A\n\nSaldo de gerência dos órgãos das autarquias locais\n\nA introdução do saldo de gerência dos órgãos das autarquias locais pode ocorrer logo que a conta de gerência seja aprovada pelo órgão executivo ou seja aprovado o mapa de fluxo de caixa, nos termos do artigo 129.º do Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, sem prejuízo da revisão vir a ser ratificada aquando da realização da primeira reunião do órgão deliberativo.\n\nArtigo 3.º-B\n\nAntecipação de um duodécimo da participação nos impostos do Estado\n\n1 - Em 2020 é autorizada a antecipação da transferência de um duodécimo relativo à participação das autarquias locais nos impostos do Estado.\n\n2 - Para os efeitos do número anterior, a autarquia local deve solicitar, junto da Direção-Geral das Autarquias Locais, a antecipação do duodécimo até ao final do mês anterior àquele em que se pretenda a transferência.»\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193356": {
+   "fragment_id": "131228384",
+   "type": 11,
+   "heading": "Artigo 8.º — Republicação",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 8.º — Republicação\n\nÉ republicada em anexo à presente lei, da qual faz parte integrante, a Lei n.º 1-A/2020, de 19 de março, com a redação introduzida pela presente lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193357": {
+   "fragment_id": "131228385",
+   "type": 11,
+   "heading": "Artigo 9.º — Produção de efeitos",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 9.º — Produção de efeitos\n\nA presente lei produz efeitos a dia 12 de março de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193358": {
+   "fragment_id": "131228386",
+   "type": 11,
+   "heading": "Artigo 10.º — Vigência",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14"
+   ],
+   "markdown": "###### Artigo 10.º — Vigência\n\n1- A presente lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2020.\n\n2 - O disposto nos artigos 2.º, 3.º, 4.º e 5.º vigora até 31 de dezembro de 2021.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 35/2020 - Diário da República n.º 157/2020, Série I de 2020-08-13](https://diariodarepublica.pt/dr/detalhe/lei/35-2020-140210518), em vigor a partir de 2020-08-14"
+  },
+  "215193359": {
+   "fragment_id": "131228387",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "Aprovada em 2 de abril de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 3 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 3 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193360": {
+   "fragment_id": "131228388",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 8.º)",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "## Anexo — (a que se refere o artigo 8.º)\n\nRepublicação da Lei n.º 1-A/2020, de 19 de março\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193361": {
+   "fragment_id": "131228389",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à:\n\na) Ratificação dos efeitos do Decreto-Lei n.º 10-A/2020, de 13 de março;\n\nb) Aprovação de medidas excecionais e temporárias de resposta à situação epidemiológica provocada pelo coronavírus SARS-CoV-2, agente causador da doença COVID-19.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193362": {
+   "fragment_id": "131228390",
+   "type": 11,
+   "heading": "Artigo 2.º — Ratificação de efeitos",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Ratificação de efeitos\n\nO conteúdo do Decreto-Lei n.º 10-A/2020, de 13 de março, é parte integrante da presente lei, produzindo efeitos desde a data de produção de efeitos do referido decreto-lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193363": {
+   "fragment_id": "131228391",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos do poder local",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos do poder local\n\n1 - As reuniões ordinárias dos órgãos deliberativos e executivos das autarquias locais e das entidades intermunicipais previstas para os meses de abril e maio podem realizar-se até 30 de junho de 2020.\n\n2 - A obrigatoriedade de realização pública das reuniões dos órgãos deliberativos e executivos dos municípios e das freguesias e dos órgãos deliberativos das entidades intermunicipais, conforme previsto nos artigos 49.º, 70.º e 89.º do regime jurídico das autarquias locais, aprovado em anexo à Lei n.º 75/2013, de 12 de setembro, fica suspensa até ao dia 30 de junho de 2020, sem prejuízo da sua gravação e colocação no sítio eletrónico da autarquia sempre que tecnicamente viável.\n\n3 - Sem prejuízo do disposto nos números anteriores, até dia 30 de junho de 2020, podem ser realizadas por videoconferência, ou outro meio digital, as reuniões dos órgãos deliberativos e executivos das autarquias locais e das entidades intermunicipais, desde que haja condições técnicas para o efeito.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193364": {
+   "fragment_id": "131228392",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Saldo de gerência dos órgãos das autarquias locais",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 3.º-A — Saldo de gerência dos órgãos das autarquias locais\n\nA introdução do saldo de gerência dos órgãos das autarquias locais pode ocorrer logo que a conta de gerência seja aprovada pelo órgão executivo ou seja aprovado o mapa de fluxo de caixa, nos termos do artigo 129.º do Orçamento do Estado para 2020, aprovado pela Lei n.º 2/2020, de 31 de março, sem prejuízo da revisão vir a ser ratificada aquando da realização da primeira reunião do órgão deliberativo.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193365": {
+   "fragment_id": "131228393",
+   "type": 11,
+   "heading": "Artigo 3.º-B — Antecipação de um duodécimo da participação nos impostos do Estado",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 3.º-B — Antecipação de um duodécimo da participação nos impostos do Estado\n\n1 - Em 2020 é autorizada a antecipação da transferência de um duodécimo relativo à participação das autarquias locais nos impostos do Estado.\n\n2 - Para os efeitos do número anterior, a autarquia local deve solicitar, junto da Direção-Geral das Autarquias Locais, a antecipação do duodécimo até ao final do mês anterior àquele em que se pretenda a transferência.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193366": {
+   "fragment_id": "131228394",
+   "type": 11,
+   "heading": "Artigo 4.º — Aprovação de contas",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 4.º — Aprovação de contas\n\n1 - As entidades previstas nos n.os 1 e 2 do artigo 51.º da Lei n.º 97/98, de 26 de agosto, cuja aprovação de contas dependa de deliberação de um órgão colegial podem remetê-las ao Tribunal de Contas até 30 de junho de 2020, em substituição do prazo referido no n.º 4 do artigo 52.º, sem prejuízo do disposto nos restantes números desse artigo.\n\n2 - As entidades abrangidas pelo artigo 18.º do Decreto-Lei n.º 10-A/2020, de 13 de março, podem remeter as contas aprovadas ao Tribunal de Contas até 15 de julho de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193367": {
+   "fragment_id": "131228395",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos colegiais e prestação de provas públicas",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 5.º — Órgãos colegiais e prestação de provas públicas\n\n1 - A participação por meios telemáticos, designadamente vídeo ou teleconferência de membros de órgãos colegiais de entidades públicas ou privadas nas respetivas reuniões, não obsta ao regular funcionamento do órgão, designadamente no que respeita a quórum e a deliberações, devendo, contudo, ficar registado na respetiva ata a forma de participação.\n\n2 - A prestação de provas públicas previstas em regimes gerais ou especiais pode ser realizada por videoconferência, desde que haja acordo entre o júri e o respetivo candidato e as condições técnicas para o efeito.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193368": {
+   "fragment_id": "131228396",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização preventiva",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 6.º — Fiscalização preventiva\n\n1 - Sem prejuízo dos regimes de fiscalização concomitante e de fiscalização sucessiva previstos na Lei n.º 98/97, de 26 de agosto, ficam isentos da fiscalização prévia do Tribunal de Contas os contratos abrangidos pelo Decreto-Lei n.º 10-A/2020, de 13 de março, bem como outros contratos celebrados pelas entidades referidas no artigo 7.º do Decreto-Lei n.º 10-A/2020, de 13 de março, durante o período de vigência da presente lei.\n\n2 - Os contratos referidos no número anterior devem ser remetidos ao Tribunal de Contas, para conhecimento, até 30 dias após a respetiva celebração.\n\n3 - Não são suspensos os prazos relativos a processos de fiscalização prévia pendentes ou que devam ser remetidos ao Tribunal de Contas durante o período de vigência da presente lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193369": {
+   "fragment_id": "131228397",
+   "type": 11,
+   "heading": "Artigo 7.º — Prazos e diligências",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 7.º — Prazos e diligências\n\n1 - Sem prejuízo do disposto nos números seguintes, todos os prazos para a prática de atos processuais e procedimentais que devam ser praticados no âmbito dos processos e procedimentos que corram termos nos tribunais judiciais, tribunais administrativos e fiscais, Tribunal Constitucional, Tribunal de Contas e demais órgãos jurisdicionais, tribunais arbitrais, Ministério Público, julgados de paz, entidades de resolução alternativa de litígios e órgãos de execução fiscal, ficam suspensos até à cessação da situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19, a decretar nos termos do número seguinte.\n\n2 - O regime previsto no presente artigo cessa em data a definir por decreto-lei, no qual se declara o termo da situação excecional.\n\n3 - A situação excecional constitui igualmente causa de suspensão dos prazos de prescrição e de caducidade relativos a todos os tipos de processos e procedimentos.\n\n4 - O disposto no número anterior prevalece sobre quaisquer regimes que estabeleçam prazos máximos imperativos de prescrição ou caducidade, sendo os mesmos alargados pelo período de tempo em que vigorar a situação excecional.\n\n5 - O disposto no n.º 1 não obsta:\n\na) À tramitação dos processos e à prática de atos presenciais e não presenciais não urgentes quando todas as partes entendam ter condições para assegurar a sua prática através das plataformas informáticas que possibilitam a sua realização por via eletrónica ou através de meios de comunicação à distância adequados, designadamente teleconferência, videochamada ou outro equivalente;\n\nb) A que seja proferida decisão final nos processos em relação aos quais o tribunal e demais entidades entendam não ser necessária a realização de novas diligências.\n\n6 - Ficam também suspensos:\n\na) O prazo de apresentação do devedor à insolvência, previsto no n.º 1 do artigo 18.º do Código da Insolvência e da Recuperação de Empresas;\n\nb) Quaisquer atos a realizar em sede de processo executivo, designadamente os referentes a vendas, concurso de credores, entregas judiciais de imóveis e diligências de penhora e seus atos preparatórios, com exceção daqueles que causem prejuízo grave à subsistência do exequente ou cuja não realização lhe provoque prejuízo irreparável, nos termos previstos no n.º 2 do artigo 137.º do Código de Processo Civil, prejuízo esse que depende de prévia decisão judicial.\n\n7 - Os processos urgentes continuam a ser tramitados, sem suspensão ou interrupção de prazos, atos ou diligências, observando-se quanto a estes o seguinte:\n\na) Nas diligências que requeiram a presença física das partes, dos seus mandatários ou de outros intervenientes processuais, a prática de quaisquer atos processuais e procedimentais realiza-se através de meios de comunicação à distância adequados, designadamente teleconferência, videochamada ou outro equivalente;\n\nb) Quando não for possível a realização das diligências que requeiram a presença física das partes, dos seus mandatários ou de outros intervenientes processuais, nos termos da alínea anterior, e esteja em causa a vida, a integridade física, a saúde mental, a liberdade ou a subsistência imediata dos intervenientes, pode realizar-se presencialmente a diligência desde que a mesma não implique a presença de um número de pessoas superior ao previsto pelas recomendações das autoridades de saúde e de acordo com as orientações fixadas pelos conselhos superiores competentes;\n\nc) Caso não seja possível, nem adequado, assegurar a prática de atos ou a realização de diligências nos termos previstos nas alíneas anteriores, aplica-se também a esses processos o regime de suspensão referido no n.º 1.\n\n8 - Consideram-se também urgentes, para o efeito referido no número anterior:\n\na) Os processos e procedimentos para defesa dos direitos, liberdades e garantias lesados ou ameaçados de lesão por quaisquer providências inconstitucionais ou ilegais, referidas no artigo 6.º da Lei n.º 44/86, de 30 de setembro, na sua redação atual;\n\nb) O serviço urgente previsto no n.º 1 do artigo 53.º do Decreto-Lei n.º 49/2014, de 27 de março, na sua redação atual;\n\nc) Os processos, procedimentos, atos e diligências que se revelem necessários a evitar dano irreparável, designadamente os processos relativos a menores em risco ou a processos tutelares educativos de natureza urgente e as diligências e julgamentos de arguidos presos.\n\n9 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, aos prazos para a prática de atos em:\n\na) Procedimentos que corram termos em cartórios notariais e conservatórias;\n\nb) Procedimentos contraordenacionais, sancionatórios e disciplinares, incluindo os atos de impugnação judicial de decisões finais ou interlocutórias, que corram termos em serviços da administração direta, indireta, regional e autárquica, e demais entidades administrativas, designadamente entidades administrativas independentes, incluindo a Autoridade da Concorrência, a Autoridade de Supervisão de Seguros e Fundos de Pensões, o Banco de Portugal e a Comissão do Mercado de Valores Mobiliários, bem como os que corram termos em associações públicas profissionais;\n\nc) Procedimentos administrativos e tributários no que respeita à prática de atos por particulares.\n\n10 - A suspensão dos prazos em procedimentos tributários, referida na alínea c) do número anterior, abrange apenas os atos de interposição de impugnação judicial, reclamação graciosa, recurso hierárquico, ou outros procedimentos de idêntica natureza, bem como os atos processuais ou procedimentais subsequentes àqueles.\n\n11 - Durante a situação excecional referida no n.º 1, são suspensas as ações de despejo, os procedimentos especiais de despejo e os processos para entrega de coisa imóvel arrendada, quando o arrendatário, por força da decisão judicial final a proferir, possa ser colocado em situação de fragilidade por falta de habitação própria ou por outra razão social imperiosa.\n\n12 - Não são suspensos os prazos relativos à prática de atos realizados exclusivamente por via eletrónica no âmbito das atribuições do Instituto Nacional da Propriedade Industrial, I. P.\n\n13 - Após a data da cessação da situação excecional referida no n.º 1, a Assembleia da República procede à adaptação, em diploma próprio, dos períodos de férias judiciais a vigorar em 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193370": {
+   "fragment_id": "131228398",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Contratação pública",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 7.º-A — Contratação pública\n\n1 - A suspensão de prazos prevista no n.º 1 do artigo anterior não se aplica ao contencioso pré-contratual previsto no Código de Processo nos Tribunais Administrativos.\n\n2 - A suspensão dos prazos administrativos previstos na alínea c) do n.º 9 do artigo anterior não é aplicável aos prazos relativos a procedimentos de contratação pública, designadamente os constantes do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro.\n\n3 - Os prazos procedimentais no âmbito do Código dos Contratos Públicos que estiveram suspensos por força dos artigos 7.º e 10.º da presente lei, na sua redação inicial, retomam a sua contagem na data da entrada em vigor da Lei n.º 4-B/2020, de 6 de abril.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193371": {
+   "fragment_id": "131228399",
+   "type": 11,
+   "heading": "Artigo 8.º — Regime extraordinário e transitório de proteção dos arrendatários",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 8.º — Regime extraordinário e transitório de proteção dos arrendatários\n\nDurante a vigência das medidas de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19, conforme determinada pela autoridade de saúde pública e até sessenta dias após a cessação de tais medidas nos termos do n.º 2 do artigo 7.º da presente lei, ficam suspensos:\n\na) A produção de efeitos das denúncias de contratos de arrendamento habitacional e não habitacional efetuadas pelo senhorio;\n\nb) A caducidade dos contratos de arrendamento habitacionais e não habitacionais, salvo se o arrendatário não se opuser à cessação;\n\nc) A produção de efeitos da revogação, da oposição à renovação de contratos de arrendamento habitacional e não habitacional efetuadas pelo senhorio;\n\nd) O prazo indicado no artigo 1053.º do Código Civil, se o término desse prazo ocorrer durante o período de tempo em que vigorarem as referidas medidas;\n\ne) A execução de hipoteca sobre imóvel que constitua habitação própria e permanente do executado.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193372": {
+   "fragment_id": "131228400",
+   "type": 11,
+   "heading": "Artigo 9.º — Prevalência",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 9.º — Prevalência\n\n1 - Sem prejuízo das competências atribuídas pela Constituição e pela lei a órgãos de soberania de caráter eletivo, o disposto na presente lei, bem como no Decreto-Lei n.º 10-A/2020, de 13 de março, prevalece sobre normas legais, gerais e especiais que disponham em sentido contrário, designadamente as constantes da lei do Orçamento do Estado.\n\n2 - Aos trabalhadores com vínculo de emprego público continua a aplicar-se o disposto na alínea j) do n.º 2 do artigo 134.º da Lei Geral do Trabalho em Funções Públicos, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193373": {
+   "fragment_id": "131228401",
+   "type": 11,
+   "heading": "Artigo 10.º — Produção de efeitos",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 10.º — Produção de efeitos\n\nA presente lei produz efeitos à data da produção de efeitos do Decreto-Lei n.º 10-A/2020, de 13 de março.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215193374": {
+   "fragment_id": "131228402",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n113167988\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  }
+ }
+}

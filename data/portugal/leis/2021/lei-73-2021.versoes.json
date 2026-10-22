@@ -1,0 +1,512 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174244808:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-174279054",
+ "dre_path": "/dr/detalhe/lei/73-2021-174244808",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174302773",
+    "174302774",
+    "174332675",
+    "174332676",
+    "174332677",
+    "174332678",
+    "174332679",
+    "174332680",
+    "174332681",
+    "174332682",
+    "174332683",
+    "174332684",
+    "174332685",
+    "174332686",
+    "174332687",
+    "174332688"
+   ]
+  },
+  {
+   "date": "2021-12-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175983727:por",
+     "title": "Lei n.º 89/2021",
+     "published": "2021-12-16",
+     "dre_path": "/dr/detalhe/lei/89-2021-175983727"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "174302773",
+    "174302774",
+    "174332675",
+    "175984720",
+    "174332677",
+    "174332678",
+    "174332679",
+    "174332680",
+    "174332681",
+    "174332682",
+    "174332683",
+    "174332684",
+    "174332685",
+    "174332686",
+    "174332687",
+    "175984721",
+    "174332689"
+   ]
+  },
+  {
+   "date": "2022-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:183079160:por",
+     "title": "Lei n.º 11/2022",
+     "published": "2022-05-06",
+     "dre_path": "/dr/detalhe/lei/11-2022-183079160"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "174302773",
+    "174302774",
+    "174332675",
+    "183150682",
+    "174332677",
+    "174332678",
+    "174332679",
+    "174332680",
+    "174332681",
+    "174332682",
+    "174332683",
+    "174332684",
+    "174332685",
+    "174332686",
+    "174332687",
+    "183150683",
+    "183150684",
+    "183150685"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221100276:por",
+     "title": "Lei n.º 53/2023",
+     "published": "2023-08-31",
+     "dre_path": "/dr/detalhe/lei/53-2023-221100276"
+    },
+    {
+     "id": "pt:dre:213881448:por",
+     "title": "Decreto-Lei n.º 41/2023",
+     "published": "2023-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2023-213881448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "174302773",
+    "174302774",
+    "221053349",
+    "213936931",
+    "174332677",
+    "174332678",
+    "174332679",
+    "174332680",
+    "174332681",
+    "174332682",
+    "174332683",
+    "174332684",
+    "174332685",
+    "174332686",
+    "174332687",
+    "183150683",
+    "183150684",
+    "183150685"
+   ]
+  },
+  {
+   "date": "2024-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:870297959:por",
+     "title": "Decreto-Lei n.º 41-A/2024",
+     "published": "2024-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/41-a-2024-870297959"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "174302773",
+    "174302774",
+    "221053349",
+    "870590475",
+    "174332677",
+    "174332678",
+    "174332679",
+    "174332680",
+    "174332681",
+    "174332682",
+    "174332683",
+    "174332684",
+    "174332685",
+    "174332686",
+    "174332687",
+    "183150683",
+    "183150684",
+    "183150685"
+   ]
+  },
+  {
+   "date": "2024-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:886311870:por",
+     "title": "Decreto-Lei n.º 53/2024",
+     "published": "2024-08-30",
+     "dre_path": "/dr/detalhe/decreto-lei/53-2024-886311870"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "174302773",
+    "174302774",
+    "221053349",
+    "886381123",
+    "174332677",
+    "174332678",
+    "174332679",
+    "174332680",
+    "174332681",
+    "174332682",
+    "174332683",
+    "174332684",
+    "174332685",
+    "174332686",
+    "174332687",
+    "183150683",
+    "183150684",
+    "183150685"
+   ]
+  },
+  {
+   "date": "2025-12-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:962603402:por",
+     "title": "Decreto-Lei n.º 126/2025",
+     "published": "2025-12-04",
+     "dre_path": "/dr/detalhe/decreto-lei/126-2025-962603402"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "174302773",
+    "174302774",
+    "221053349",
+    "960548112",
+    "174332677",
+    "174332678",
+    "174332679",
+    "174332680",
+    "174332681",
+    "174332682",
+    "174332683",
+    "174332684",
+    "174332685",
+    "174332686",
+    "174332687",
+    "183150683",
+    "183150684",
+    "183150685"
+   ]
+  }
+ ],
+ "fragments": {
+  "174302773": {
+   "fragment_id": "174279055",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 73/2021\n\nde 12 de novembro\n\nSumário: Aprova a reestruturação do sistema português de controlo de fronteiras, procedendo à reformulação do regime das forças e serviços que exercem a atividade de segurança interna e fixando outras regras de reafetação de competências e recursos do Serviço de Estrangeiros e Fronteiras, alterando as Leis n.os 53/2008, de 29 de agosto, 53/2007, de 31 de agosto, 63/2007, de 6 de novembro, e 49/2008, de 27 de agosto, e revogando o Decreto-Lei n.º 252/2000, de 16 de outubro.\n\nAprova a reestruturação do sistema português de controlo de fronteiras, procedendo à reformulação do regime das forças e serviços que exercem a atividade de segurança interna e fixando outras regras de reafetação de competências e recursos do Serviço de Estrangeiros e Fronteiras, alterando as Leis n.os 53/2008, de 29 de agosto, 53/2007, de 31 de agosto, 63/2007, de 6 de novembro, e 49/2008, de 27 de agosto, e revogando o Decreto-Lei n.º 252/2000, de 16 de outubro.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "174302774": {
+   "fragment_id": "174279056",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei aprova a reestruturação do sistema português de controlo de fronteiras, procedendo à reformulação do regime das forças e serviços que exercem a atividade de segurança interna, aprovando a quarta alteração à Lei n.º 53/2008, de 29 de agosto, que aprova a Lei de Segurança Interna, alterada pela Lei n.º 59/2015, de 24 de junho, pelo Decreto-Lei n.º 49/2017, de 24 de maio, e pela Lei n.º 21/2019, de 25 de fevereiro.\n\n2 - A presente lei procede, ainda, à:\n\na) Primeira alteração da Lei n.º 53/2007, de 31 de agosto, que aprova a orgânica da Polícia de Segurança Pública;\n\nb) Segunda alteração da Lei n.º 63/2007, de 6 de novembro, que aprova a orgânica da Guarda Nacional Republicana, alterada pelo Decreto-Lei n.º 113/2018, de 18 de dezembro;\n\nc) Quarta alteração à Lei n.º 49/2008, de 27 de agosto, que aprova a Lei de Organização da Investigação Criminal, alterada pelas Leis n.os 34/2013, de 16 de maio, 38/2015, de 11 de maio, e 57/2015, de 23 de junho;\n\nd) Fixação de regras necessárias à reafetação de meios e recursos humanos do Serviço de Estrangeiros e Fronteiras e à melhoria dos mecanismos e procedimentos que asseguram o respeito pelos direitos humanos em todo o sistema de controlo de fronteiras."
+  },
+  "174332675": {
+   "fragment_id": "174279057",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições em matéria de segurança interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições em matéria de segurança interna\n\nAs atribuições de natureza policial do Serviço de Estrangeiros e Fronteiras (SEF) são transferidas para os seguintes órgãos de polícia criminal:\n\na) Para a Guarda Nacional Republicana (GNR):\n\ni) A vigilância, fiscalização e controlo das fronteiras marítima e terrestre;\n\nii) A execução do cumprimento das decisões de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros nas suas áreas de jurisdição;\n\niii) A realização dos controlos móveis e de operações conjuntas com forças e serviços de segurança nacionais e congéneres estrangeiras, nas suas áreas de jurisdição;\n\nb) Para a Polícia de Segurança Pública (PSP):\n\ni) A vigilância, fiscalização e controlo das fronteiras aeroportuárias;\n\nii) A vigilância, fiscalização e controlo dos terminais de cruzeiro, nas suas áreas de jurisdição;\n\niii) A execução do cumprimento das decisões de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros nas suas áreas de jurisdição;\n\niv) A realização dos controlos móveis e de operações conjuntas com forças e serviços de segurança nacionais e congéneres estrangeiras, nas suas áreas de jurisdição;\n\nc) Para a Polícia Judiciária (PJ), a investigação dos crimes de auxílio à imigração ilegal, associação de auxílio à imigração ilegal, tráfico de pessoas e de outros com estes conexos."
+  },
+  "174332676": {
+   "fragment_id": "174279058",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições em matéria administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições em matéria administrativa\n\n1 - As atuais atribuições em matéria administrativa do SEF relativamente a cidadãos estrangeiros passam a ser exercidas:\n\na) Pela Agência Portuguesa para as Migrações e Asilo (APMA), serviço de natureza administrativa com atribuições específicas, a criar por decreto-lei, no prazo de 60 dias a contar da data de publicação da presente lei;\n\nb) Pelo Instituto dos Registos e do Notariado, I. P. (IRN), no que respeita aos cidadãos estrangeiros titulares de autorização de residência, nos termos a definir em diploma próprio a aprovar pelo Governo, bem como no que se refere à emissão de passaportes, aplicando-se, com as devidas adaptações, as normas em vigor.\n\n2 - A APMA é um serviço da administração indireta do Estado, com a missão de concretizar as políticas públicas em matéria migratória e de asilo, nomeadamente a de regularização da entrada e permanência de cidadãos estrangeiros em território nacional, emitir pareceres sobre os pedidos de vistos, de asilo e de instalação de refugiados, assim como participar na execução da política de cooperação internacional do Estado português no âmbito das migrações e asilo.\n\n3 - Até à entrada em vigor do diploma referido na alínea a) do n.º 1, são mantidas em vigor as normas que regulam os sistemas informáticos e de comunicações do SEF, incluindo as relativas à parte nacional do Sistema de Informação Schengen e outros existentes no âmbito do controlo da circulação de pessoas, passando a sua gestão a ser assegurada por uma unidade de tecnologias de informação de segurança, nos termos fixados por decreto-lei.\n\n4 - Junto da APMA funciona um órgão consultivo em matéria migratória e de asilo, assegurando a representação de departamentos governamentais e de organizações não-governamentais, como tal reconhecidas nos termos da lei, cujo objeto estatutário se destine primordialmente à defesa dos direitos das pessoas migrantes, refugiadas e requerentes de asilo, à defesa dos direitos humanos ou ao combate ao racismo e xenofobia, competindo-lhe, designadamente, emitir pareceres, recomendações e sugestões."
+  },
+  "174332677": {
+   "fragment_id": "174279059",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração à Lei n.º 53/2008, de 29 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração à Lei n.º 53/2008, de 29 de agosto\n\nOs artigos 12.º e 23.º-A da Lei n.º 53/2008, de 29 de agosto, passam a ter a seguinte redação:\n\n«Artigo 12.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) Os comandantes-gerais da Guarda Nacional Republicana e da Polícia Marítima, os diretores nacionais da Polícia de Segurança Pública e da Polícia Judiciária e os diretores do Serviço de Informações Estratégicas de Defesa e do Serviço de Informações de Segurança;\n\ni) [...];\n\nj) [...];\n\nk) [...];\n\nl) [...];\n\nm) [...];\n\nn) [...];\n\no) [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\nArtigo 23.º-A\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - O PUC-CPI tem um Gabinete de Gestão constituído por elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública e da Polícia Judiciária, designadas/os coordenadoras/es de gabinete.\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - [...].»"
+  },
+  "174332678": {
+   "fragment_id": "174279060",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração à Lei n.º 53/2007, de 31 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração à Lei n.º 53/2007, de 31 de agosto\n\nOs artigos 3.º, 18.º e 21.º da Lei n.º 53/2007, de 31 de agosto, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nl) [...];\n\nm) [...];\n\nn) [...];\n\no) [...];\n\np) [...];\n\nq) Vigiar, fiscalizar e controlar as fronteiras aeroportuárias, assim como a circulação de pessoas nestes postos de fronteira;\n\nr) Vigiar, fiscalizar e controlar os terminais de cruzeiro, nas suas áreas de jurisdição, assim como a circulação de pessoas nestes postos de fronteira;\n\ns) Atribuir vistos na fronteira, nos termos da lei, nas suas áreas de jurisdição;\n\nt) A execução do cumprimento das decisões prévias da entidade competente de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros nas suas áreas de jurisdição;\n\nu) Assegurar a execução dos processos de readmissão e assegurar a sua execução, nas suas áreas da jurisdição;\n\nv) Assegurar a realização de controlos móveis e de operações conjuntas com serviços ou forças de segurança congéneres, nacionais ou estrangeiros, nas suas áreas de jurisdição;\n\nx) Gerir os espaços equiparados de instalação temporária nas suas áreas de jurisdição;\n\nz) [Anterior alínea q).]\n\n3 - [...].\n\nArtigo 18.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) As unidades orgânicas de operações e segurança, de segurança aeroportuária e controlo fronteiriço, de recursos humanos e de logística e finanças.\n\n2 - [...].\n\nArtigo 21.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - O diretor nacional é coadjuvado por quatro diretores nacionais-adjuntos, que dirigem, respetivamente, as unidades orgânicas de operações e segurança, de segurança aeroportuária e controlo fronteiriço, de recursos humanos e de logística e finanças.\n\n6 - [...].»"
+  },
+  "174332679": {
+   "fragment_id": "174279061",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração à Lei n.º 63/2007, de 6 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração à Lei n.º 63/2007, de 6 de novembro\n\nOs artigos 3.º, 22.º e 40.º da Lei n.º 63/2007, de 6 de novembro, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nl) [...];\n\nm) [...];\n\nn) [...];\n\no) [...];\n\np) [...];\n\nq) Vigiar, fiscalizar e controlar as fronteiras marítimas e terrestres, assim como a circulação de pessoas nos postos de fronteira autorizados;\n\nr) Atribuir vistos na fronteira, nos termos da lei, nas áreas da sua jurisdição;\n\ns) A execução do cumprimento das decisões prévias da entidade competente de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros nas suas áreas de jurisdição;\n\nt) Assegurar a execução de processos de readmissão, nas áreas da sua jurisdição;\n\nu) Assegurar a realização de controlos móveis e de operações conjuntas com serviços ou forças de segurança congéneres, nacionais ou estrangeiros, nas suas áreas de jurisdição;\n\nv) Gerir os espaços equiparados de instalação temporária nas suas áreas de jurisdição;\n\nx) [Anterior alínea q).]\n\n2 - [...].\n\nArtigo 22.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) Especializadas, a Unidade de Controlo Costeiro e de Fronteiras (UCCF), a Unidade de Ação Fiscal (UAF) e a Unidade Nacional de Trânsito (UNT);\n\nd) [...];\n\ne) [...].\n\n2 - [...].\n\n3 - [...].\n\nArtigo 40.º\n\nUnidade de Controlo Costeiro e de Fronteiras\n\n1 - A UCCF é a unidade especializada responsável pelo cumprimento da missão da Guarda relativamente às fronteiras marítimas e terrestres, nomeadamente:\n\na) A vigilância, patrulhamento e interceção terrestre ou marítima em toda a costa e mar territorial, bem como nas fronteiras marítimas do continente e das regiões autónomas;\n\nb) A gestão e operação do Sistema Integrado de Vigilância, Comando e Controlo (SIVICC), distribuído ao longo da orla marítima.\n\n2 - A UCCF é constituída por destacamentos.\n\n3 - O comandante da UCCF tem o posto de major-general, sendo coadjuvado por um 2.º comandante.»"
+  },
+  "174332680": {
+   "fragment_id": "174279062",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração à Lei n.º 49/2008, de 27 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração à Lei n.º 49/2008, de 27 de agosto\n\nOs artigos 7.º e 13.º da Lei n.º 49/2008, de 27 de agosto, passam a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Compete também à Polícia Judiciária, sem prejuízo das competências da Unidade de Ação Fiscal da Guarda Nacional Republicana e da Comissão do Mercado de Valores Mobiliários, a investigação dos seguintes crimes:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...].\n\n5 - [...].\n\n6 - [...].\n\nArtigo 13.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) O Comandante-Geral da Guarda Nacional Republicana e os diretores nacionais da Polícia de Segurança Pública e da Polícia Judiciária;\n\nc) [...];\n\nd) [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].»"
+  },
+  "174332681": {
+   "fragment_id": "174279063",
+   "type": 11,
+   "heading": "Artigo 8.º — Aditamento à Lei n.º 53/2007, de 31 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aditamento à Lei n.º 53/2007, de 31 de agosto\n\nÉ aditado o artigo 29.º-A à Lei n.º 53/2007, de 31 de agosto, com a seguinte redação:\n\n«Artigo 29.º-A\n\nSegurança aeroportuária e controlo fronteiriço\n\nA unidade orgânica de segurança aeroportuária e controlo fronteiriço compreende as áreas do controlo de entrada e saída de pessoas do território nacional e da segurança das fronteiras aeroportuárias e dos terminais de cruzeiros.»"
+  },
+  "174332682": {
+   "fragment_id": "174279064",
+   "type": 11,
+   "heading": "Artigo 9.º — Recursos administrativos e judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Recursos administrativos e judiciais\n\nA legislação relativa à entrada, permanência, saída e afastamento de estrangeiros do território nacional estabelece os mecanismos de recurso das decisões de recusa de entrada em território nacional, obrigatoriamente fundamentadas e limitadas no tempo."
+  },
+  "174332683": {
+   "fragment_id": "174279065",
+   "type": 11,
+   "heading": "Artigo 10.º — Coordenação das competências entre a Guarda Nacional Republicana, a Polícia de Segurança Pública e a Polícia Judiciária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Coordenação das competências entre a Guarda Nacional Republicana, a Polícia de Segurança Pública e a Polícia Judiciária\n\nO plano de coordenação, controlo e comando operacional das forças e serviços de segurança é atualizado em face das novas competências que transitam para a GNR, PSP e PJ."
+  },
+  "174332684": {
+   "fragment_id": "174279066",
+   "type": 11,
+   "heading": "Artigo 11.º — Transição de trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Transição de trabalhadores\n\n1 - A transição do pessoal da carreira de investigação e fiscalização para outras forças de segurança ou serviços, assim como dos trabalhadores da carreira geral, não pode implicar a redução das respetivas categoria, antiguidade e índice remuneratório, sendo assegurada a contagem de todo o tempo de serviço prestado no SEF, designadamente para efeitos de promoção, disponibilidade e aposentação.\n\n2 - A transição do pessoal da carreira de investigação e fiscalização para outras entidades deve ter em conta os conteúdos funcionais e a natureza das funções exercidas anteriormente pelo trabalhador nos últimos três anos."
+  },
+  "174332685": {
+   "fragment_id": "174279067",
+   "type": 11,
+   "heading": "Artigo 12.º — Formação dos efetivos da Polícia de Segurança Pública, da Guarda Nacional Republicana, da Polícia Judiciária e dos funcionários do Instituto dos Registos e Notariado, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Formação dos efetivos da Polícia de Segurança Pública, da Guarda Nacional Republicana, da Polícia Judiciária e dos funcionários do Instituto dos Registos e Notariado, I. P.\n\nÉ assegurada a formação regular e continuada dos efetivos da PSP, GNR e PJ, bem como dos funcionários do IRN, em matérias de direitos humanos, direito das migrações, direito de asilo e em outras matérias relacionadas com as suas novas atribuições."
+  },
+  "174332686": {
+   "fragment_id": "174279068",
+   "type": 11,
+   "heading": "Artigo 13.º — Apoio ao migrante e ao requerente de asilo nas zonas internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apoio ao migrante e ao requerente de asilo nas zonas internacionais\n\n1 - O Governo assegura a prestação de apoio jurídico, através de parceria com a Ordem dos Advogados e com organizações representativas de migrantes e requerentes de asilo, assim como apoio humanitário, linguístico, médico e psicológico ao migrante e ao requerente de asilo nas zonas internacionais.\n\n2 - O atendimento ao migrante é realizado preferencialmente por profissionais com formação em direito migratório e sempre de forma a garantir a sua privacidade e confidencialidade."
+  },
+  "174332687": {
+   "fragment_id": "174279069",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nSão revogados:\n\na) A alínea d) do n.º 2 do artigo 25.º da Lei n.º 53/2008, de 29 de agosto;\n\nb) O Decreto-Lei n.º 252/2000, de 16 de outubro."
+  },
+  "174332688": {
+   "fragment_id": "174279070",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente lei entra em vigor 60 dias após a sua publicação."
+  },
+  "175984720": {
+   "fragment_id": "174279058",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições em matéria administrativa",
+   "in_force_from": "2021-12-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições em matéria administrativa\n\n1 - As atuais atribuições em matéria administrativa do SEF relativamente a cidadãos estrangeiros passam a ser exercidas:\n\na) Pela Agência Portuguesa para as Migrações e Asilo (APMA), serviço de natureza administrativa com atribuições específicas, a criar por decreto-lei, no prazo de 180 dias a contar da data de publicação da presente lei;\n\nb) Pelo Instituto dos Registos e do Notariado, I. P. (IRN), no que respeita aos cidadãos estrangeiros titulares de autorização de residência, nos termos a definir em diploma próprio a aprovar pelo Governo, bem como no que se refere à emissão de passaportes, aplicando-se, com as devidas adaptações, as normas em vigor.\n\n2 - A APMA é um serviço da administração indireta do Estado, com a missão de concretizar as políticas públicas em matéria migratória e de asilo, nomeadamente a de regularização da entrada e permanência de cidadãos estrangeiros em território nacional, emitir pareceres sobre os pedidos de vistos, de asilo e de instalação de refugiados, assim como participar na execução da política de cooperação internacional do Estado português no âmbito das migrações e asilo.\n\n3 - Até à entrada em vigor do diploma referido na alínea a) do n.º 1, são mantidas em vigor as normas que regulam os sistemas informáticos e de comunicações do SEF, incluindo as relativas à parte nacional do Sistema de Informação Schengen e outros existentes no âmbito do controlo da circulação de pessoas, passando a sua gestão a ser assegurada por uma unidade de tecnologias de informação de segurança, nos termos fixados por decreto-lei.\n\n4 - Junto da APMA funciona um órgão consultivo em matéria migratória e de asilo, assegurando a representação de departamentos governamentais e de organizações não-governamentais, como tal reconhecidas nos termos da lei, cujo objeto estatutário se destine primordialmente à defesa dos direitos das pessoas migrantes, refugiadas e requerentes de asilo, à defesa dos direitos humanos ou ao combate ao racismo e xenofobia, competindo-lhe, designadamente, emitir pareceres, recomendações e sugestões.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+  },
+  "175984721": {
+   "fragment_id": "174279070",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": "2021-12-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente lei entra em vigor 180 dias após a sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+  },
+  "174332689": {
+   "fragment_id": "174279071",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 22 de outubro de 2021.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 6 de novembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 9 de novembro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114721412"
+  },
+  "183150682": {
+   "fragment_id": "174279058",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições em matéria administrativa",
+   "in_force_from": "2022-05-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições em matéria administrativa\n\n1 - As atuais atribuições em matéria administrativa do SEF relativamente a cidadãos estrangeiros passam a ser exercidas:\n\na) Pela Agência Portuguesa para as Migrações e Asilo (APMA), serviço de natureza administrativa com atribuições específicas, a criar por decreto-lei;\n\nb) Pelo Instituto dos Registos e do Notariado, I. P. (IRN), no que respeita aos cidadãos estrangeiros titulares de autorização de residência, nos termos a definir em diploma próprio a aprovar pelo Governo, bem como no que se refere à emissão de passaportes, aplicando-se, com as devidas adaptações, as normas em vigor.\n\n2 - A APMA é um serviço da administração indireta do Estado, com a missão de concretizar as políticas públicas em matéria migratória e de asilo, nomeadamente a de regularização da entrada e permanência de cidadãos estrangeiros em território nacional, emitir pareceres sobre os pedidos de vistos, de asilo e de instalação de refugiados, assim como participar na execução da política de cooperação internacional do Estado português no âmbito das migrações e asilo.\n\n3 - Até à entrada em vigor do diploma referido na alínea a) do n.º 1, são mantidas em vigor as normas que regulam os sistemas informáticos e de comunicações do SEF, incluindo as relativas à parte nacional do Sistema de Informação Schengen e outros existentes no âmbito do controlo da circulação de pessoas, passando a sua gestão a ser assegurada por uma unidade de tecnologias de informação de segurança, nos termos fixados por decreto-lei.\n\n4 - Junto da APMA funciona um órgão consultivo em matéria migratória e de asilo, assegurando a representação de departamentos governamentais e de organizações não-governamentais, como tal reconhecidas nos termos da lei, cujo objeto estatutário se destine primordialmente à defesa dos direitos das pessoas migrantes, refugiadas e requerentes de asilo, à defesa dos direitos humanos ou ao combate ao racismo e xenofobia, competindo-lhe, designadamente, emitir pareceres, recomendações e sugestões.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+  },
+  "183150683": {
+   "fragment_id": "183099996",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Produção de efeitos",
+   "in_force_from": "2022-05-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07"
+   ],
+   "markdown": "###### Artigo 14.º-A — Produção de efeitos\n\nA presente lei produz efeitos na data de entrada em vigor do decreto-lei a que se refere a alínea a) do n.º 1 do artigo 3.º\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07"
+  },
+  "183150684": {
+   "fragment_id": "174279070",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente lei entra em vigor 180 dias após a sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+  },
+  "183150685": {
+   "fragment_id": "174279071",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 22 de outubro de 2021.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 6 de novembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 9 de novembro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114721412"
+  },
+  "221053349": {
+   "fragment_id": "174279057",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições em matéria de segurança interna",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 53/2023 - Diário da República n.º 169/2023, Série I de 2023-08-31](https://diariodarepublica.pt/dr/detalhe/lei/53-2023-221100276), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições em matéria de segurança interna\n\nAs atribuições de natureza policial do Serviço de Estrangeiros e Fronteiras (SEF) são transferidas para os seguintes órgãos de polícia criminal:\n\na) Para a Guarda Nacional Republicana (GNR):\n\ni) A vigilância, fiscalização e controlo das fronteiras marítima, incluindo os terminais de cruzeiro, e das fronteiras terrestres;\n\nii) A execução do cumprimento das decisões de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros nas suas áreas de jurisdição;\n\niii) A realização dos controlos móveis e de operações conjuntas com forças e serviços de segurança nacionais e congéneres estrangeiras, nas suas áreas de jurisdição;\n\nb) Para a Polícia de Segurança Pública (PSP):\n\ni) A vigilância, fiscalização e controlo das fronteiras aeroportuárias;\n\nii) (Revogada.)\n\niii) A execução do cumprimento das decisões de afastamento coercivo e das decisões judiciais de expulsão de cidadãos estrangeiros nas suas áreas de jurisdição;\n\niv) A realização dos controlos móveis e de operações conjuntas com forças e serviços de segurança nacionais e congéneres estrangeiras, nas suas áreas de jurisdição;\n\nc) Para a Polícia Judiciária (PJ), a investigação dos crimes de auxílio à imigração ilegal, associação de auxílio à imigração ilegal, tráfico de pessoas e de outros com estes conexos.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 53/2023 - Diário da República n.º 169/2023, Série I de 2023-08-31](https://diariodarepublica.pt/dr/detalhe/lei/53-2023-221100276), em vigor a partir de 2023-10-29"
+  },
+  "213936931": {
+   "fragment_id": "174279058",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições em matéria administrativa",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições em matéria administrativa\n\n1 - As atuais atribuições em matéria administrativa do SEF relativamente a cidadãos estrangeiros passam a ser exercidas:\n\na) Pela Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), serviço de natureza administrativa com atribuições específicas, a criar por decreto-lei;\n\nb) Pelo Instituto dos Registos e do Notariado, I. P. (IRN), no que respeita aos cidadãos estrangeiros titulares de autorização de residência, nos termos a definir em diploma próprio a aprovar pelo Governo, bem como no que se refere à emissão de passaportes, aplicando-se, com as devidas adaptações, as normas em vigor.\n\n2 - A AIMA, I. P., é um serviço da administração indireta do Estado, com a missão de concretizar as políticas públicas em matéria migratória e de asilo, nomeadamente a de regularização da entrada e permanência de cidadãos estrangeiros em território nacional, emitir pareceres sobre os pedidos de vistos, de asilo e de instalação de refugiados, assim como participar na execução da política de cooperação internacional do Estado português no âmbito das migrações e asilo.\n\n3 - Até à entrada em vigor do diploma referido na alínea a) do n.º 1, são mantidas em vigor as normas que regulam os sistemas informáticos e de comunicações do SEF, incluindo as relativas à parte nacional do Sistema de Informação Schengen e outros existentes no âmbito do controlo da circulação de pessoas, passando a sua gestão a ser assegurada por uma unidade de tecnologias de informação de segurança, nos termos fixados por decreto-lei.\n\n4 - Junto da AIMA, I. P., funciona um órgão consultivo em matéria migratória e de asilo, assegurando a representação de departamentos governamentais e de organizações não-governamentais, como tal reconhecidas nos termos da lei, cujo objeto estatutário se destine primordialmente à defesa dos direitos das pessoas migrantes, refugiadas e requerentes de asilo, à defesa dos direitos humanos ou ao combate ao racismo e xenofobia, competindo-lhe, designadamente, emitir pareceres, recomendações e sugestões.\n\n> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+  },
+  "870590475": {
+   "fragment_id": "174279058",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições em matéria administrativa",
+   "in_force_from": "2024-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41-A/2024 - Diário da República n.º 124/2024, Suplemento, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959), em vigor a partir de 2024-06-29",
+    "Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições em matéria administrativa\n\n1 - As atuais atribuições em matéria administrativa do SEF relativamente a cidadãos estrangeiros passam a ser exercidas:\n\na) Pela Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), serviço de natureza administrativa com atribuições específicas, a criar por decreto-lei;\n\nb) Pelo Instituto dos Registos e do Notariado, I. P. (IRN), no que respeita aos cidadãos estrangeiros titulares de autorização de residência, nos termos a definir em diploma próprio a aprovar pelo Governo, bem como no que se refere à emissão de passaportes, aplicando-se, com as devidas adaptações, as normas em vigor.\n\n2 - A AIMA, I. P., é um serviço da administração indireta do Estado, com a missão de concretizar as políticas públicas em matéria migratória e de asilo, nomeadamente a de regularização da entrada e permanência de cidadãos estrangeiros em território nacional, emitir pareceres sobre os pedidos de vistos, de asilo e de instalação de refugiados, assim como participar na execução da política de cooperação internacional do Estado português no âmbito das migrações e asilo.\n\n3 - Até à entrada em vigor do diploma referido na alínea a) do n.º 1, são mantidas em vigor as normas que regulam os sistemas informáticos e de comunicações do SEF, incluindo as relativas à parte nacional do Sistema de Informação Schengen e outros existentes no âmbito do controlo da circulação de pessoas, passando a sua gestão a ser assegurada por uma unidade de tecnologias de informação de segurança, nos termos fixados por decreto-lei.\n\n4 - Junto da AIMA, I. P., funciona um órgão consultivo em matéria migratória e de asilo, assegurando a representação de departamentos governamentais e de organizações não-governamentais, como tal reconhecidas nos termos da lei, cujo objeto estatutário se destine primordialmente à defesa dos direitos das pessoas migrantes, refugiadas e requerentes de asilo, à defesa dos direitos humanos ou ao combate ao racismo e xenofobia, competindo-lhe, designadamente, emitir pareceres, recomendações e sugestões.\n\n5 - Junto da AIMA, I. P., funciona um observatório que tem por missão a produção, recolha, tratamento e difusão de informação e conhecimento respeitante ao fenómeno das migrações.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41-A/2024 - Diário da República n.º 124/2024, Suplemento, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959), em vigor a partir de 2024-06-29\n\n> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+  },
+  "886381123": {
+   "fragment_id": "174279058",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições em matéria administrativa",
+   "in_force_from": "2024-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 53/2024 - Diário da República n.º 168/2024, Série I de 2024-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2024-886311870), em vigor a partir de 2024-09-04",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41-A/2024 - Diário da República n.º 124/2024, Suplemento, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959), em vigor a partir de 2024-06-29",
+    "Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições em matéria administrativa\n\n1 - As atuais atribuições em matéria administrativa do SEF relativamente a cidadãos estrangeiros passam a ser exercidas:\n\na) Pela Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), serviço de natureza administrativa com atribuições específicas, a criar por decreto-lei;\n\nb) Pelo Instituto dos Registos e do Notariado, I. P. (IRN), no que respeita aos cidadãos estrangeiros titulares de autorização de residência, nos termos a definir em diploma próprio a aprovar pelo Governo, bem como no que se refere à emissão de passaportes, aplicando-se, com as devidas adaptações, as normas em vigor.\n\n2 - A AIMA, I. P., é um serviço da administração indireta do Estado, com a missão de concretizar as políticas públicas em matéria migratória e de asilo, nomeadamente a de regularização da entrada e permanência de cidadãos estrangeiros em território nacional, emitir pareceres sobre os pedidos de vistos, de asilo e de instalação de refugiados, assim como participar na execução da política de cooperação internacional do Estado português no âmbito das migrações e asilo.\n\n3 - Até à entrada em vigor do diploma referido na alínea a) do n.º 1, são mantidas em vigor as normas que regulam os sistemas informáticos e de comunicações do SEF, incluindo as relativas à parte nacional do Sistema de Informação Schengen e outros existentes no âmbito do controlo da circulação de pessoas, passando a sua gestão a ser assegurada por uma unidade de tecnologias de informação de segurança, nos termos fixados por decreto-lei.\n\n4 - Funciona, junto do membro do Governo responsável pela área das migrações, o Conselho Nacional para as Migrações e Asilo, que é o órgão consultivo do Governo no domínio da política nacional de migrações e asilo, que assegura a participação e colaboração de entidades públicas e privadas na discussão estratégica e na definição e execução da referida política.\n\n5 - Junto da AIMA, I. P., funciona um observatório que tem por missão a produção, recolha, tratamento e difusão de informação e conhecimento respeitante ao fenómeno das migrações.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 53/2024 - Diário da República n.º 168/2024, Série I de 2024-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2024-886311870), em vigor a partir de 2024-09-04\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41-A/2024 - Diário da República n.º 124/2024, Suplemento, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959), em vigor a partir de 2024-06-29\n\n> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+  },
+  "960548112": {
+   "fragment_id": "174279058",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições em matéria administrativa",
+   "in_force_from": "2025-12-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2025 - Diário da República n.º 234/2025, Série I de 2025-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2025-962603402), em vigor a partir de 2025-12-05",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 53/2024 - Diário da República n.º 168/2024, Série I de 2024-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2024-886311870), em vigor a partir de 2024-09-04",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41-A/2024 - Diário da República n.º 124/2024, Suplemento, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959), em vigor a partir de 2024-06-29",
+    "Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições em matéria administrativa\n\n1 - As atuais atribuições em matéria administrativa do SEF relativamente a cidadãos estrangeiros passam a ser exercidas:\n\na) Pela Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), serviço de natureza administrativa com atribuições específicas, a criar por decreto-lei;\n\nb) Pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), no que respeita à emissão de passaportes, aplicando-se, com as devidas adaptações, as normas em vigor.\n\n2 - A AIMA, I. P., é um serviço da administração indireta do Estado, com a missão de concretizar as políticas públicas em matéria migratória e de asilo, nomeadamente a de regularização da entrada e permanência de cidadãos estrangeiros em território nacional, emitir pareceres sobre os pedidos de vistos, de asilo e de instalação de refugiados, assim como participar na execução da política de cooperação internacional do Estado português no âmbito das migrações e asilo.\n\n3 - Até à entrada em vigor do diploma referido na alínea a) do n.º 1, são mantidas em vigor as normas que regulam os sistemas informáticos e de comunicações do SEF, incluindo as relativas à parte nacional do Sistema de Informação Schengen e outros existentes no âmbito do controlo da circulação de pessoas, passando a sua gestão a ser assegurada por uma unidade de tecnologias de informação de segurança, nos termos fixados por decreto-lei.\n\n4 - Funciona, junto do membro do Governo responsável pela área das migrações, o Conselho Nacional para as Migrações e Asilo, que é o órgão consultivo do Governo no domínio da política nacional de migrações e asilo, que assegura a participação e colaboração de entidades públicas e privadas na discussão estratégica e na definição e execução da referida política.\n\n5 - Junto da AIMA, I. P., funciona um observatório que tem por missão a produção, recolha, tratamento e difusão de informação e conhecimento respeitante ao fenómeno das migrações.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126/2025 - Diário da República n.º 234/2025, Série I de 2025-12-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-2025-962603402), em vigor a partir de 2025-12-05\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 53/2024 - Diário da República n.º 168/2024, Série I de 2024-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2024-886311870), em vigor a partir de 2024-09-04\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41-A/2024 - Diário da República n.º 124/2024, Suplemento, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959), em vigor a partir de 2024-06-29\n\n> Alterado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 11/2022 - Diário da República n.º 88/2022, Série I de 2022-05-06](https://diariodarepublica.pt/dr/detalhe/lei/11-2022-183079160), em vigor a partir de 2022-05-07\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 89/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/89-2021-175983727), em vigor a partir de 2021-12-17"
+  }
+ }
+}

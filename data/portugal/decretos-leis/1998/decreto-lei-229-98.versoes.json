@@ -1,0 +1,1012 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:425290:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-73266571",
+ "dre_path": "/dr/detalhe/decreto-lei/229-1998-425290",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-07-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73301075",
+    "73301076",
+    "73301077",
+    "73301078",
+    "73301079",
+    "73301080",
+    "73301081",
+    "73301082",
+    "73301083",
+    "73301084",
+    "73301085",
+    "73301086",
+    "73301087",
+    "73301088",
+    "73301089",
+    "73301090",
+    "73301091",
+    "73301092",
+    "73301093",
+    "73301094",
+    "73301095",
+    "73301096",
+    "73301097"
+   ]
+  },
+  {
+   "date": "2013-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:259965:por",
+     "title": "Decreto-Lei n.º 46/2013",
+     "published": "2013-04-05",
+     "dre_path": "/dr/detalhe/decreto-lei/46-2013-259965"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "73301075",
+    "73301076",
+    "73301100",
+    "73301078",
+    "73301079",
+    "73301080",
+    "73301081",
+    "73301082",
+    "73301083",
+    "73301084",
+    "73301085",
+    "73301086",
+    "73301087",
+    "73301088",
+    "73301089",
+    "73301090",
+    "73301091",
+    "73301092",
+    "73301093",
+    "73301094",
+    "73301095",
+    "73301096",
+    "73301097",
+    "73301098"
+   ]
+  },
+  {
+   "date": "2017-03-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106549661:por",
+     "title": "Decreto-Lei n.º 25/2017",
+     "published": "2017-03-03",
+     "dre_path": "/dr/detalhe/decreto-lei/25-2017-106549661"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "73301075",
+    "73301076",
+    "73301100",
+    "73301078",
+    "73301079",
+    "73301080",
+    "73301081",
+    "73301082",
+    "73301083",
+    "152423356",
+    "73301085",
+    "73301086",
+    "73301087",
+    "73301088",
+    "73301089",
+    "73301090",
+    "73301091",
+    "73301092",
+    "73301093",
+    "73301094",
+    "73301095",
+    "73301096",
+    "73301097",
+    "73301098"
+   ]
+  },
+  {
+   "date": "2018-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115312061:por",
+     "title": "Decreto-Lei n.º 33/2018",
+     "published": "2018-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2018-115312061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "73301075",
+    "73301076",
+    "73301100",
+    "73301078",
+    "73301079",
+    "73301080",
+    "73301081",
+    "73301082",
+    "73301083",
+    "152423357",
+    "73301085",
+    "73301086",
+    "73301087",
+    "73301088",
+    "73301089",
+    "73301090",
+    "73301091",
+    "73301092",
+    "73301093",
+    "73301094",
+    "73301095",
+    "73301096",
+    "73301097",
+    "73301098"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "73301075",
+    "73301076",
+    "152423358",
+    "73301078",
+    "73301079",
+    "73301080",
+    "73301081",
+    "73301082",
+    "73301083",
+    "152423357",
+    "73301085",
+    "73301086",
+    "73301087",
+    "73301088",
+    "73301089",
+    "73301090",
+    "73301091",
+    "73301092",
+    "73301093",
+    "73301094",
+    "73301095",
+    "73301096",
+    "73301097",
+    "73301098"
+   ]
+  },
+  {
+   "date": "2022-01-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177528433:por",
+     "title": "Decreto-Lei n.º 12/2022",
+     "published": "2022-01-12",
+     "dre_path": "/dr/detalhe/decreto-lei/12-2022-177528433"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 15.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "73301075",
+    "73301076",
+    "177564394",
+    "73301078",
+    "177564395",
+    "73301080",
+    "177564396",
+    "177564397",
+    "177564398",
+    "152423357",
+    "177564399",
+    "73301086",
+    "177564400",
+    "177532673",
+    "177532674",
+    "177564375",
+    "177564376",
+    "177564385",
+    "177564401",
+    "177564387",
+    "177564402",
+    "177564403",
+    "177564390",
+    "177564391",
+    "177564392",
+    "177564393"
+   ]
+  },
+  {
+   "date": "2026-02-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1039064234:por",
+     "title": "Decreto-Lei n.º 31-A/2026",
+     "published": "2026-02-05",
+     "dre_path": "/dr/detalhe/decreto-lei/31-a-2026-1039064234"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A"
+   ],
+   "fragments": [
+    "73301075",
+    "73301076",
+    "177564394",
+    "1038914259",
+    "1038914260",
+    "1038914261",
+    "1038914262",
+    "1038914263",
+    "1038914264",
+    "1038914265",
+    "1038914266",
+    "1038914267",
+    "1038914268",
+    "1038914269",
+    "1038914270",
+    "1038914271",
+    "1038914272",
+    "1038914273",
+    "1038914274",
+    "1039350575",
+    "1039350576",
+    "1039350577",
+    "1039350578",
+    "1039350579",
+    "1039350580",
+    "1039350581",
+    "1039350582"
+   ]
+  },
+  {
+   "date": "2026-06-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1129514951:por",
+     "title": "Decreto-Lei n.º 111/2026",
+     "published": "2026-06-05",
+     "dre_path": "/dr/detalhe/decreto-lei/111-2026-1129514951"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Revoga Artigo 2.º-A"
+   ],
+   "fragments": [
+    "73301075",
+    "73301076",
+    "1130016275",
+    "1130016475",
+    "1038914260",
+    "1038914261",
+    "1038914262",
+    "1038914263",
+    "1038914264",
+    "1038914265",
+    "1038914266",
+    "1038914267",
+    "1038914268",
+    "1038914269",
+    "1038914270",
+    "1038914271",
+    "1038914272",
+    "1038914273",
+    "1038914274",
+    "1039350575",
+    "1039350576",
+    "1039350577",
+    "1039350578",
+    "1039350579",
+    "1039350580",
+    "1039350581",
+    "1039350582"
+   ]
+  }
+ ],
+ "fragments": {
+  "73301075": {
+   "fragment_id": "73266572",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 229/98\n\nde 22 de Julho\n\nA criação de um sistema de caucionamento mútuo em Portugal permitirá às pequenas e médias empresas e às microempresas a utilização de um instrumento que em outros países da União Europeia tem demonstrado ser de grande interesse. Fundamentalmente pela influência que permite registar na capacidade negocial das pequenas e médias empresas e das microempresas com o sistema financeiro, determinando a consequente redução dos custos financeiros das empresas.\n\nÉ, deste modo, criado o Fundo de Contragarantia Mútuo, contribuindo para a necessária solvabilidade do sistema e para o seu desenvolvimento equilibrado.\n\nForam ouvidos o Banco de Portugal, o Instituto de Apoio às Pequenas e Médias Empresas e ao Investimento e a SPGM - Sociedade de Investimento, S. A.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "73301076": {
+   "fragment_id": "73266573",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nÉ criado o Fundo de Contragarantia Mútuo, adiante designado apenas por Fundo, pessoa colectiva pública dotada de autonomia administrativa e financeira."
+  },
+  "73301077": {
+   "fragment_id": "73266574",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - O Fundo tem por objecto garantir o cumprimento das obrigações assumidas pelas sociedades de garantia mútua, no exercício, por estas, da actividade referida na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 211/98, de 16 de Julho de 1998.\n\n2 - Com vista à defesa do sistema nacional de caucionamento mútuo, compete ao Fundo e promover e realizar as acções necessárias para assegurar a solvabilidade das sociedades de garantia mútua, nomeadamente fixar, em função dos capitais próprios destas, o montante máximo, em cada momento, do saldo vivo da carteira de garantias concedidas.\n\n3 - Para efeitos do cômputo do ratio de solvabilidade das entidades beneficiárias da contragarantia, as contragarantias prestadas pelo Fundo são ponderadas nos mesmos termos que as garantias prestadas por instituições de crédito da zona A."
+  },
+  "73301078": {
+   "fragment_id": "73301175",
+   "type": 11,
+   "heading": "Artigo 3.º — Participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Participantes\n\nParticipam no sistema nacional de caucionamento mútuo o Fundo e todas as sociedades de garantia mútua, as quais ficam sujeitas às normas que o regulam."
+  },
+  "73301079": {
+   "fragment_id": "73301176",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Administração do Fundo\n\n1 - O Fundo é administrado por uma sociedade gestora, à qual compete, tendo em vista a prossecução do objecto daquele e enquanto sua legal representante, praticar todos os actos e operações necessários ou convenientes à sua boa administração e exercer todos os direitos relacionados com os bens do Fundo, incluindo as acções de fiscalização e assistência previstas neste diploma.\n\n2 - Cabe à sociedade gestora do Fundo promover e incentivar a criação de sociedades de garantia mútua.\n\n3 - A sociedade gestora do Fundo poderá adquirir participações iniciais em sociedades de garantia mútua na qualidade de accionista promotor, podendo designar um elemento para integrar os órgãos sociais dessas sociedades.\n\n4 - A sociedade gestora do Fundo é a SPGM - Sociedade de Investimento, S. A."
+  },
+  "73301080": {
+   "fragment_id": "73301177",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração da sociedade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Remuneração da sociedade gestora\n\nO montante da comissão de gestão devido à sociedade gestora do Fundo é fixado por portaria do Ministro das Finanças, ouvido o conselho geral."
+  },
+  "73301081": {
+   "fragment_id": "73301178",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho geral\n\n1 - O Fundo tem um conselho geral, o qual é composto por um representante do Ministro das Finanças, que preside e tem voto de qualidade, um representante de cada um dos ministérios que tutelam os sectores representados, um representante da sociedade gestora do fundo e um representante das sociedades de garantia mútua.\n\n2 - Os membros do conselho geral exercem as suas funções por períodos de três anos, renováveis."
+  },
+  "73301082": {
+   "fragment_id": "73301179",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuições do conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atribuições do conselho geral\n\nCompete ao conselho geral do Fundo:\n\na) Aprovar, sob proposta da sociedade gestora do Fundo, os factores de agravamento que, aplicados à taxa de base, permitam definir o quantitativo das comissões devidas ao Fundo pela contragarantia do saldo vivo da carteira das sociedades de garantia mútua, podendo estabelecer escalões da contribuição anual, atendendo, nomeadamente, ao montante, prazo e sinistralidade histórica da carteira;\n\nb) Apreciar, para efeitos do disposto no artigo 12.º, quaisquer propostas de regulamentos relativos à actividade do Fundo, elaboradas pela sociedade gestora;\n\nc) Deliberar sobre a tomada pelo Fundo de participações sociais em sociedades de garantia mútua, quando as circunstâncias o justifiquem, no sentido de promover a liquidez das acções por aquelas emitidas, e em poder de accionistas beneficiários, fixando, em função da situação de cada sociedade de garantia mútua, o valor a atribuir às acções."
+  },
+  "73301083": {
+   "fragment_id": "73301180",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n1 - O conselho geral reúne anualmente, após a aprovação das contas do Fundo, para deliberar sobre o previsto na alínea a) do artigo anterior, bem como sobre todos os assuntos que lhe sejam submetidos pela sociedade gestora do Fundo.\n\n2 - O conselho geral reúne ainda, a convocação do seu presidente, sempre que se justifique."
+  },
+  "73301084": {
+   "fragment_id": "73301181",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas\n\nO Fundo dispõe das seguintes receitas:\n\na) Contribuições, periódicas e especiais, das sociedades de garantia mútua;\n\nb) Empréstimos contraídos junto de instituições de crédito;\n\nc) Rendimentos provenientes das aplicações dos seus recursos;\n\nd) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos."
+  },
+  "73301085": {
+   "fragment_id": "73301182",
+   "type": 11,
+   "heading": "Artigo 10.º — Contribuições periódicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contribuições periódicas\n\n1 - A taxa de base das contribuições periódicas, previstas na alínea a) do artigo 7.º, é fixada por portaria do Ministro das Finanças, sob proposta da sociedade gestora do Fundo, aprovada pelo conselho geral.\n\n2 - O valor da contribuição periódica de cada sociedade de garantia mútua é determinado em função do valor médio dos saldos mensais das responsabilidades do período anterior.\n\n3 - A contribuição periódica das sociedades de garantia mútua participantes, devida anualmente, deve ser entregue ao Fundo até ao último dia útil do mês de Abril do ano a que diga respeito."
+  },
+  "73301086": {
+   "fragment_id": "73301183",
+   "type": 11,
+   "heading": "Artigo 11.º — Contribuições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contribuições especiais\n\n1 - Quando os recursos do Fundo se revelarem insuficientes para assegurar o cumprimento dos ratios de solvabilidade, determinados pelo Banco de Portugal, o Ministro das Finanças poderá, mediante portaria, ouvidos o Banco de Portugal e o conselho geral do Fundo, determinar que as sociedades de garantia mútua participantes efectuem contribuições especiais e definir os montantes, prestações, prazos e demais termos dessas contribuições.\n\n2 - O valor global das contribuições especiais de uma sociedade de garantia mútua não pode exceder, em cada período de exercício do Fundo, o valor da respectiva contribuição anual."
+  },
+  "73301087": {
+   "fragment_id": "73301184",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regulamentos\n\nO Ministro das Finanças aprovará, por portaria, sob proposta da sociedade gestora do Fundo, aprovada pelo conselho geral, ouvido o Banco de Portugal, os regulamentos que se revelem necessários ao funcionamento do Fundo."
+  },
+  "73301088": {
+   "fragment_id": "73301185",
+   "type": 11,
+   "heading": "Artigo 13.º — Dever de cooperação e sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dever de cooperação e sigilo\n\n1 - As sociedades de garantia mútua participantes devem facultar ao Fundo a consulta dos documentos e fornecer-lhe os elementos informativos necessários à realização do seu objecto.\n\n2 - São aplicáveis à actividade dos funcionários e agentes do Fundo e da sociedade gestora enquanto no exercício de tais funções as normas reguladoras do sigilo bancário."
+  },
+  "73301089": {
+   "fragment_id": "73301186",
+   "type": 11,
+   "heading": "Artigo 14.º — Regras de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regras de assistência\n\n1 - O Fundo poderá notificar qualquer sociedade de garantia mútua para que adopte as medidas necessárias ao restabelecimento da sua situação patrimonial, quando considerar que se encontram em perigo o normal funcionamento ou a solvabilidade da sociedade de garantia mútua em causa.\n\n2 - O Fundo pode conceder subsídios ou empréstimos às sociedades de garantia mútua, prestar garantias a favor destas e adquirir valores do seu activo extrapatrimonial, sempre que tal se revele necessário ou útil à realização do seu objecto.\n\n3 - O Fundo pode fazer depender a sua assistência a qualquer sociedade de garantia mútua da aceitação expressa, por esta, de regras de gestão, ou de outra natureza, que entenda necessárias à correcção das situações referidas no n.º 1."
+  },
+  "73301090": {
+   "fragment_id": "73301187",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação dos recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação dos recursos\n\nO Fundo pode aplicar os seus recursos disponíveis na constituição de depósitos em instituições de crédito, em operações nos mercados monetário interbancário e interbancário de títulos ou ainda em outras operações financeiras, nas condições que venham a ser definidas pelo Banco de Portugal."
+  },
+  "73301091": {
+   "fragment_id": "73301188",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\nO funcionamento do Fundo é acompanhado pelo conselho de auditoria do Banco de Portugal, o qual fiscaliza o cumprimento das leis e regulamentos que lhe são aplicáveis e emite parecer sobre as suas contas anuais."
+  },
+  "73301092": {
+   "fragment_id": "73301189",
+   "type": 11,
+   "heading": "Artigo 17.º — Período de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Período de exercício\n\nO período de exercício do Fundo corresponde ao ano civil."
+  },
+  "73301093": {
+   "fragment_id": "73301190",
+   "type": 11,
+   "heading": "Artigo 18.º — Plano de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Plano de contas\n\nSão aplicáveis ao Fundo, com as necessárias adaptações, as regras do Plano de Contas do Sector Bancário que permitam a escrituração das operações realizadas pelo Fundo e que identifiquem claramente a sua estrutura patrimonial e modo de funcionamento."
+  },
+  "73301094": {
+   "fragment_id": "73301191",
+   "type": 11,
+   "heading": "Artigo 19.º — Relatório e aprovação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Relatório e aprovação de contas\n\n1 - A sociedade gestora elabora, até 31 de Março de cada ano, o relatório e contas da actividade do Fundo.\n\n2 - O relatório e contas referidos no número anterior são submetidos à apreciação do Ministro das Finanças, acompanhados dos seguintes elementos:\n\na) Parecer do conselho de auditoria do Banco de Portugal;\n\nb) Proposta de aplicação dos resultados tidos por excedentários.\n\n3 - A proposta de aplicação dos resultados referida na alínea b) do número anterior poderá contemplar o eventual retorno dos recursos às sociedades de garantia mútua participantes, na proporção das suas contribuições."
+  },
+  "73301095": {
+   "fragment_id": "73301192",
+   "type": 11,
+   "heading": "Artigo 20.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Extinção\n\nEm caso de extinção do Fundo, o produto da sua liquidação reverterá para as instituições contribuintes, na proporção das respectivas contribuições, qualquer que seja a natureza destas."
+  },
+  "73301096": {
+   "fragment_id": "73301193",
+   "type": 11,
+   "heading": "Artigo 21.º — Legislação em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Legislação em vigor\n\nO disposto no presente decreto-lei em nada prejudica as regras de solvabilidade e liquidez aplicáveis às sociedades de garantia mútua, assim como as funções de supervisão e controlo previstas na legislação em vigor."
+  },
+  "73301097": {
+   "fragment_id": "73301194",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia imediato ao da sua publicação."
+  },
+  "73301100": {
+   "fragment_id": "73266574",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2013-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2013 - Diário da República n.º 67/2013, Série I de 2013-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2013-259965), em vigor a partir de 2013-04-06"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - O Fundo tem por objecto garantir o cumprimento das obrigações assumidas pelas sociedades de garantia mútua, no exercício, por estas, da actividade referida na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 211/98, de 16 de Julho de 1998.\n\n2 - Com vista à defesa do sistema nacional de caucionamento mútuo, compete ao Fundo e promover e realizar as acções necessárias para assegurar a solvabilidade das sociedades de garantia mútua, nomeadamente fixar, em função dos capitais próprios destas, o montante máximo, em cada momento, do saldo vivo da carteira de garantias concedidas.\n\n3 - Para efeitos de determinação de requisitos mínimos de fundos próprios das entidades beneficiárias da contragarantia, compete ao Banco de Portugal definir a ponderação a atribuir às posições em risco com contragarantias prestadas pelo Fundo de Contragarantia Mútuo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2013 - Diário da República n.º 67/2013, Série I de 2013-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2013-259965), em vigor a partir de 2013-04-06"
+  },
+  "73301098": {
+   "fragment_id": "73301195",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 8 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "152423356": {
+   "fragment_id": "73301181",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": "2017-03-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+   ],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O Fundo dispõe das seguintes receitas:\n\na) Contribuições, periódicas e especiais, das sociedades de garantia mútua;\n\nb) Empréstimos contraídos junto de instituições de crédito;\n\nc) Rendimentos provenientes das aplicações dos seus recursos;\n\nd) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos.\n\n2 - É aplicável ao Fundo, com as devidas adaptações, o disposto no n.º 6 do artigo 36.º da Lei n.º 3/2004, de 15 de janeiro.\n\n> Alterado pelo/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+  },
+  "152423357": {
+   "fragment_id": "73301181",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16",
+    "Alterado pelo/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+   ],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O Fundo dispõe das seguintes receitas:\n\na) Contribuições, periódicas e especiais, das sociedades de garantia mútua;\n\nb) Empréstimos contraídos junto de instituições de crédito;\n\nc) Rendimentos provenientes das aplicações dos seus recursos;\n\nd) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos.\n\n2 - [Revogado].\n\n3 - Caso o Fundo entre em mora perante os seus credores, podem estes demandar o Estado pelas obrigações em falta.\n\n4 - A responsabilidade do Estado não pode ser exigida antes de decorridos 30 dias sobre a constituição em mora do Fundo.\n\n5 - Não pode mover-se execução contra o Estado com base em título exequível contra o Fundo.\n\n> Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16\n\n> Alterado pelo/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+  },
+  "152423358": {
+   "fragment_id": "73266574",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 163.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2013 - Diário da República n.º 67/2013, Série I de 2013-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2013-259965), em vigor a partir de 2013-04-06"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - O Fundo tem por objeto a garantia do cumprimento:\n\na) Das obrigações assumidas pelas sociedades de garantia mútua, no exercício, por estas, da atividade referida na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 211/98, de 16 de julho;\n\nb) De emissões de instrumentos financeiros representativos de dívida, apenas quando a emissão envolva mais que um emitente no âmbito da mesma operação de financiamento;\n\nc) De linhas de crédito especiais, destinadas a pequenas e médias empresas e MidCaps, mediante a emissão de garantias de carteira, desde que exista o reconhecimento, pelo conselho geral, do seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação.\n\n2 - Com vista à defesa do sistema nacional de caucionamento mútuo, compete ao Fundo e promover e realizar as acções necessárias para assegurar a solvabilidade das sociedades de garantia mútua, nomeadamente fixar, em função dos capitais próprios destas, o montante máximo, em cada momento, do saldo vivo da carteira de garantias concedidas.\n\n3 - Para efeitos de determinação de requisitos mínimos de fundos próprios das entidades beneficiárias da contragarantia, compete ao Banco de Portugal definir a ponderação a atribuir às posições em risco com contragarantias prestadas pelo Fundo de Contragarantia Mútuo.\n\n4 - O total dos montantes garantidos nos termos das alíneas b) e c) do n.º 1 nunca podem exceder um valor correspondente a 15 % do montante total de garantias prestadas, no âmbito do Sistema Nacional de Garantia Mútua, que se encontrem por amortizar no final do ano transato.\n\n5 - O montante garantido por operação não pode exceder 30 % do valor do respetivo financiamento nos casos previstos na alínea b) do n.º 1, e 20 % nas situações previstas na alínea c) do mesmo número.\n\n> Alterado pelo/a Artigo 163.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2013 - Diário da República n.º 67/2013, Série I de 2013-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2013-259965), em vigor a partir de 2013-04-06"
+  },
+  "177564394": {
+   "fragment_id": "73266574",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13",
+    "Alterado pelo/a Artigo 163.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2013 - Diário da República n.º 67/2013, Série I de 2013-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2013-259965), em vigor a partir de 2013-04-06"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - O Fundo tem por objeto a garantia do cumprimento:\n\na) Das obrigações assumidas pelas sociedades de garantia mútua, no exercício, por estas, da atividade referida na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 211/98, de 16 de julho;\n\nb) De emissões de instrumentos financeiros representativos de dívida, enquadradas em regimes abertos ou medidas não individuais propostos pela sociedade gestora, podendo as respetivas emissões envolver um ou mais emitentes no âmbito da mesma operação de financiamento;\n\nc) De linhas de crédito especiais, destinadas a micro, pequenas e médias empresas e Mid Cap, mediante a emissão de garantias de carteira, sob proposta da sociedade gestora que ateste o seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação;\n\nd) De linhas de crédito destinadas a Small Mid Cap e Mid Cap, mediante a emissão de garantias individuais, sob proposta da sociedade gestora que ateste o seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação.\n\n2 - Com vista à defesa do sistema nacional de caucionamento mútuo, compete ao Fundo e promover e realizar as acções necessárias para assegurar a solvabilidade das sociedades de garantia mútua, nomeadamente fixar, em função dos capitais próprios destas, o montante máximo, em cada momento, do saldo vivo da carteira de garantias concedidas.\n\n3 - (Revogado.)\n\n4 - O total dos montantes anualmente garantidos nos termos das alíneas b), c) e d) do n.º 1 não pode exceder um valor superior a 30 % do montante total das garantias prestadas pelo Fundo nos termos do n.º 1 no ano transato, sem prejuízo do disposto no número seguinte.\n\n5 - Em qualquer caso, o valor acumulado de garantias por amortizar ao abrigo das alíneas b), c) e d) do n.º 1 não pode exceder o correspondente a 20 % do valor acumulado de garantias prestadas, e ainda não amortizadas, pelo Fundo, nos termos da alínea a) do n.º 1.\n\n6 - O disposto nos n.os 4, 5 e 8 não afeta, a cada momento, as garantias já prestadas, ainda que impossibilite a emissão de novas garantias para efeitos das alíneas b), c) e d) do n.º 1.\n\n7 - As operações a realizar pelo Fundo ao abrigo das alíneas b), c) e d) do n.º 1 apenas podem ser realizadas em benefício de entidades que não se encontrem em dificuldades financeiras de acordo com a legislação europeia em matéria de auxílios de Estado aplicável à operação, e, em relação à alínea b), deve ser promovida uma avaliação de notação de risco de crédito dos emitentes por entidade independente.\n\n8 - O montante garantido por operação não pode exceder 50 % do valor dos instrumentos previstos na alínea b) e na alínea d) do n.º 1 e 40 % do valor do instrumento previsto na alínea c) do n.º 1.\n\n9 - Para efeitos de concessão de garantias pelo Fundo, consideram-se 'empresas' qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado, sendo, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar, as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica, sendo a categoria de micro, pequenas e médias empresas definida no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, e a categoria de Small Mid Cap e de Mid Cap definida no Decreto-Lei n.º 81/2017, de 30 de junho, na sua redação atual.\n\n10 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo 2.º, as operações a realizar pelo Fundo não podem garantir o cumprimento de obrigações de empresas que façam parte do setor financeiro, designadamente, instituições de crédito, sociedades financeiras, instituições de pagamento, instituições de moeda eletrónica, empresas de investimento, organismos de investimento coletivo, capital de risco, fundos de pensões, fundos de titularização, respetivas sociedades gestoras, sociedades de titularização, organismos de investimento alternativo especializado de créditos, sociedades de capital de risco, fundos de capital de risco e empresas de seguros e resseguros, nem de fundos autónomos.\n\n11 - As operações a realizar pelo Fundo são precedidas de uma análise de risco, a realizar pela sociedade gestora, dos elementos essenciais da operação, designadamente o respetivo montante, prazo, definição das entidades beneficiárias da operação a garantir, condições da garantia a conceder e respetiva sinistralidade estimada numa base plurianual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13\n\n> Alterado pelo/a Artigo 163.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2013 - Diário da República n.º 67/2013, Série I de 2013-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2013-259965), em vigor a partir de 2013-04-06"
+  },
+  "177564395": {
+   "fragment_id": "73301176",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração do Fundo",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 4.º — Administração do Fundo\n\n1 - O Fundo é administrado por uma sociedade gestora, à qual compete, tendo em vista a prossecução do objecto daquele e enquanto sua legal representante, praticar todos os actos e operações necessários ou convenientes à sua boa administração e exercer todos os direitos relacionados com os bens do Fundo, incluindo as acções de fiscalização e assistência previstas neste diploma.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A sociedade gestora do Fundo é o Banco Português de Fomento, S. A.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177564396": {
+   "fragment_id": "73301178",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho geral",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho geral\n\n1 - O Fundo tem um conselho geral, presidido pelo responsável máximo da Direção-Geral do Tesouro e Finanças, que tem voto de qualidade, por um representante da Direção-Geral do Orçamento, por um representante do IAPMEI - Agência para a Competitividade e Inovação, I. P., por um representante do Instituto do Turismo de Portugal, I. P., por um representante da sociedade gestora do fundo e um representante das sociedades de garantia mútua.\n\n2 - Os membros do conselho geral exercem as suas funções por períodos de três anos, renováveis.\n\n3 - Sem prejuízo do n.º 1, o presidente pode convocar para cada reunião outras entidades em razão da matéria a discutir, as quais não são titulares de direito de voto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177564397": {
+   "fragment_id": "73301179",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuições do conselho geral",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 7.º — Atribuições do conselho geral\n\n1 - Compete ao conselho geral do Fundo:\n\na) Pronunciar-se, sob proposta da sociedade gestora, sobre os fatores de agravamento que, aplicados à taxa de base, permitam definir o quantitativo das comissões devidas ao Fundo pela contragarantia do saldo vivo da carteira das sociedades de garantia mútua, podendo estabelecer escalões da contribuição anual, atendendo, nomeadamente, ao montante, prazo e sinistralidade histórica da carteira;\n\nb) Pronunciar-se, para efeitos do disposto no artigo 12.º, sobre quaisquer propostas de regulamentos relativos à atividade do Fundo, elaboradas pela sociedade gestora;\n\nc) Pronunciar-se sobre a tomada pelo Fundo de participações sociais em sociedades de garantia mútua, quando as circunstâncias o justifiquem, no sentido de promover a liquidez das ações por aquelas emitidas, fixando, em função da situação de cada sociedade de garantia mútua, o valor a atribuir às ações;\n\nd) Pronunciar-se sobre o relatório e contas da atividade do Fundo;\n\ne) Pronunciar-se sobre qualquer outra matéria relativa ao objeto e atividades do Fundo.\n\n2 - Os pareceres do conselho geral previstos no presente decreto-lei não têm caráter vinculativo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177564398": {
+   "fragment_id": "73301180",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n1 - O conselho geral reúne anualmente, após a aprovação das contas do Fundo, para se pronunciar sobre o previsto na alínea a) do n.º 1 do artigo anterior, bem como sobre todos os assuntos que lhe sejam submetidos pela sociedade gestora do Fundo.\n\n2 - O conselho geral reúne ainda, a convocação do seu presidente, sempre que se justifique.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177564399": {
+   "fragment_id": "73301182",
+   "type": 11,
+   "heading": "Artigo 10.º — Contribuições periódicas",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 10.º — Contribuições periódicas\n\n1 - A taxa base das contribuições periódicas, previstas na alínea a) do n.º 1 do artigo 7.º é fixada por portaria do membro do Governo responsável pela área das finanças, sob proposta da sociedade gestora do Fundo, que é apresentada após parecer do conselho geral do Fundo.\n\n2 - O valor da contribuição periódica de cada sociedade de garantia mútua é determinado em função do valor médio dos saldos mensais das responsabilidades do período anterior.\n\n3 - A contribuição periódica das sociedades de garantia mútua participantes, devida anualmente, deve ser entregue ao Fundo até ao último dia útil do mês de Abril do ano a que diga respeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177564400": {
+   "fragment_id": "73301184",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentos",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 12.º — Regulamentos\n\nOs membros do Governo responsáveis pelas áreas da economia e das finanças aprovam, por portaria, sob proposta da sociedade gestora do Fundo, que é apresentada após parecer do conselho geral do Fundo, ouvido o Banco de Portugal, os regulamentos que se revelem necessários ao funcionamento e a uma gestão sã e prudente do Fundo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177532673": {
+   "fragment_id": "177564286",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Dever de reporte e sistema de informação",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 12.º-A — Dever de reporte e sistema de informação\n\n1 - A sociedade gestora do Fundo remete aos membros do conselho geral, até ao fim do mês seguinte ao termo de cada semestre de calendário, um reporte que inclua, designadamente:\n\na) As operações realizadas e não amortizadas, à data, pelo Fundo, detalhadas por linha ou regime, incluindo informação relativa ao número, tipologia, classe de dimensão empresarial e setores de atividade de empresas beneficiárias, montantes financiados, garantias e contragarantias prestadas pelas sociedades de garantia mútua e pelo Fundo, quando aplicável;\n\nb) A sinistralidade incorrida e estimada, numa base plurianual, com o detalhe de informação previsto na alínea anterior.\n\n2 - O Banco de Portugal pode solicitar à sociedade gestora do Fundo a informação relevante relativa ao cumprimento da legislação prudencial aplicável às técnicas de mitigação do risco de crédito.\n\n3 - A sociedade gestora do Fundo deve assegurar a existência de um sistema de informação atualizado que permita, a qualquer momento, disponibilizar a informação prevista nos números anteriores, ou outra que lhe seja exigível.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177532674": {
+   "fragment_id": "73301185",
+   "type": 11,
+   "heading": "Artigo 13.º — Dever de cooperação e sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dever de cooperação e sigilo\n\n1 - As sociedades de garantia mútua participantes devem facultar ao Fundo a consulta dos documentos e fornecer-lhe os elementos informativos necessários à realização do seu objecto.\n\n2 - São aplicáveis à actividade dos funcionários e agentes do Fundo e da sociedade gestora enquanto no exercício de tais funções as normas reguladoras do sigilo bancário."
+  },
+  "177564375": {
+   "fragment_id": "73301186",
+   "type": 11,
+   "heading": "Artigo 14.º — Regras de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regras de assistência\n\n1 - O Fundo poderá notificar qualquer sociedade de garantia mútua para que adopte as medidas necessárias ao restabelecimento da sua situação patrimonial, quando considerar que se encontram em perigo o normal funcionamento ou a solvabilidade da sociedade de garantia mútua em causa.\n\n2 - O Fundo pode conceder subsídios ou empréstimos às sociedades de garantia mútua, prestar garantias a favor destas e adquirir valores do seu activo extrapatrimonial, sempre que tal se revele necessário ou útil à realização do seu objecto.\n\n3 - O Fundo pode fazer depender a sua assistência a qualquer sociedade de garantia mútua da aceitação expressa, por esta, de regras de gestão, ou de outra natureza, que entenda necessárias à correcção das situações referidas no n.º 1."
+  },
+  "177564376": {
+   "fragment_id": "73301187",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação dos recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação dos recursos\n\nO Fundo pode aplicar os seus recursos disponíveis na constituição de depósitos em instituições de crédito, em operações nos mercados monetário interbancário e interbancário de títulos ou ainda em outras operações financeiras, nas condições que venham a ser definidas pelo Banco de Portugal."
+  },
+  "177564385": {
+   "fragment_id": "177564287",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Revisor oficial de contas",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 15.º-A — Revisor oficial de contas\n\n1 - O Fundo tem as suas contas certificadas por um revisor oficial de contas (ROC).\n\n2 - O ROC é designado pela sociedade gestora e não pode desempenhar as mesmas funções na respetiva sociedade gestora ou pertencer ao mesmo grupo do ROC da sociedade gestora.\n\n3 - As despesas relativas ao ROC são suportadas pelo Fundo.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177564401": {
+   "fragment_id": "73301188",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - A fiscalização do Fundo, para além das funções exercidas pelo ROC, é exercida também pela Inspeção-Geral de Finanças, que fiscaliza o seu funcionamento, o cumprimento das leis e dos regulamentos que lhe são aplicáveis e emite parecer sobre as suas contas anuais.\n\n2 - Como suporte à atividade de fiscalização, a sociedade gestora pode solicitar a intervenção de auditores externos no processo de apreciação de contas anuais, sendo as despesas suportadas pelo Fundo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177564387": {
+   "fragment_id": "73301189",
+   "type": 11,
+   "heading": "Artigo 17.º — Período de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Período de exercício\n\nO período de exercício do Fundo corresponde ao ano civil."
+  },
+  "177564402": {
+   "fragment_id": "73301190",
+   "type": 11,
+   "heading": "Artigo 18.º — Plano de contas",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 18.º — Plano de contas\n\nSão aplicáveis ao Fundo, com as necessárias adaptações, as Normas Internacionais de Contabilidade/Normas Internacionais de Relato Financeiro (NIC/NIRF), tal como adotadas, em cada momento, por Regulamento da União Europeia e respeitando a estrutura conceptual para a preparação de demonstrações financeiras que enquadra aquelas normas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177564403": {
+   "fragment_id": "73301191",
+   "type": 11,
+   "heading": "Artigo 19.º — Relatório e aprovação de contas",
+   "in_force_from": "2022-01-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 19.º — Relatório e aprovação de contas\n\n1 - A sociedade gestora elabora, até 31 de Março de cada ano, o relatório e contas da actividade do Fundo.\n\n2 - A sociedade gestora do fundo envia, para aprovação, aos membros do Governo responsáveis pelas áreas da economia e das finanças o relatório e contas, ouvido o conselho geral, no prazo máximo de 30 dias a contar da sua aprovação, incluindo uma proposta de aplicação de resultados.\n\n3 - A proposta de aplicação dos resultados referida no número anterior pode contemplar o eventual retorno dos recursos às sociedades de garantia mútua participantes, na proporção das suas contribuições.\n\n4 - A aprovação pelos membros do Governo responsáveis pelas áreas da economia e das finanças prevista no n.º 2 é concedida no prazo máximo de 30 dias a contar do envio pela sociedade gestora.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "177564390": {
+   "fragment_id": "73301192",
+   "type": 11,
+   "heading": "Artigo 20.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Extinção\n\nEm caso de extinção do Fundo, o produto da sua liquidação reverterá para as instituições contribuintes, na proporção das respectivas contribuições, qualquer que seja a natureza destas."
+  },
+  "177564391": {
+   "fragment_id": "73301193",
+   "type": 11,
+   "heading": "Artigo 21.º — Legislação em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Legislação em vigor\n\nO disposto no presente decreto-lei em nada prejudica as regras de solvabilidade e liquidez aplicáveis às sociedades de garantia mútua, assim como as funções de supervisão e controlo previstas na legislação em vigor."
+  },
+  "177564392": {
+   "fragment_id": "73301194",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia imediato ao da sua publicação."
+  },
+  "177564393": {
+   "fragment_id": "73301195",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 8 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1038914259": {
+   "fragment_id": "1039350181",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Prestação de garantias no âmbito das «Linhas de Apoio à Reconstrução»",
+   "in_force_from": "2026-02-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31-A/2026 - Diário da República n.º 25/2026, Suplemento, Série I de 2026-02-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2026-1039064234), em vigor a partir de 2026-02-06, produz efeitos a partir de 2026-02-04"
+   ],
+   "markdown": "###### Artigo 2.º-A — Prestação de garantias no âmbito das «Linhas de Apoio à Reconstrução»\n\n1 - No âmbito dos apoios concedidos ao abrigo das ‘Linhas de Apoio à Reconstrução’ destinadas a apoiar as empresas e outras pessoas coletivas, bem como entidades públicas de âmbito regional ou local, abrangidas pela situação de calamidade decretada nos termos das Resoluções do Conselho de Ministros n.os 15-B/2026, de 30 de janeiro, e 15-C/2026, de 1 de fevereiro, e eventuais prorrogações ou alterações, o Fundo tem ainda por objeto a garantia do cumprimento:\n\na) De linhas de crédito especiais, destinadas a micro, pequenas e médias empresas, Small Mid Cap, Mid Cap, e grandes empresas, mediante a emissão de garantias de carteira, sob proposta da sociedade gestora;\n\nb) Das obrigações assumidas por pessoas coletivas, públicas ou privadas, mediante a emissão de garantias de carteira ou garantias individuais, no âmbito de programas ou medidas de apoio de natureza económica, social, territorial ou de resposta a situações de calamidade declarada.\n\n2 - Os montantes garantidos nos termos do número anterior não são considerados para efeitos dos limites previstos nos n.os 4 e 5 do artigo 2.º do presente decreto-lei.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31-A/2026 - Diário da República n.º 25/2026, Suplemento, Série I de 2026-02-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2026-1039064234), em vigor a partir de 2026-02-06, produz efeitos a partir de 2026-02-04"
+  },
+  "1038914260": {
+   "fragment_id": "73301175",
+   "type": 11,
+   "heading": "Artigo 3.º — Participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Participantes\n\nParticipam no sistema nacional de caucionamento mútuo o Fundo e todas as sociedades de garantia mútua, as quais ficam sujeitas às normas que o regulam."
+  },
+  "1038914261": {
+   "fragment_id": "73301176",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração do Fundo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 4.º — Administração do Fundo\n\n1 - O Fundo é administrado por uma sociedade gestora, à qual compete, tendo em vista a prossecução do objecto daquele e enquanto sua legal representante, praticar todos os actos e operações necessários ou convenientes à sua boa administração e exercer todos os direitos relacionados com os bens do Fundo, incluindo as acções de fiscalização e assistência previstas neste diploma.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A sociedade gestora do Fundo é o Banco Português de Fomento, S. A.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1038914262": {
+   "fragment_id": "73301177",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração da sociedade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Remuneração da sociedade gestora\n\nO montante da comissão de gestão devido à sociedade gestora do Fundo é fixado por portaria do Ministro das Finanças, ouvido o conselho geral."
+  },
+  "1038914263": {
+   "fragment_id": "73301178",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 6.º — Conselho geral\n\n1 - O Fundo tem um conselho geral, presidido pelo responsável máximo da Direção-Geral do Tesouro e Finanças, que tem voto de qualidade, por um representante da Direção-Geral do Orçamento, por um representante do IAPMEI - Agência para a Competitividade e Inovação, I. P., por um representante do Instituto do Turismo de Portugal, I. P., por um representante da sociedade gestora do fundo e um representante das sociedades de garantia mútua.\n\n2 - Os membros do conselho geral exercem as suas funções por períodos de três anos, renováveis.\n\n3 - Sem prejuízo do n.º 1, o presidente pode convocar para cada reunião outras entidades em razão da matéria a discutir, as quais não são titulares de direito de voto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1038914264": {
+   "fragment_id": "73301179",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuições do conselho geral",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 7.º — Atribuições do conselho geral\n\n1 - Compete ao conselho geral do Fundo:\n\na) Pronunciar-se, sob proposta da sociedade gestora, sobre os fatores de agravamento que, aplicados à taxa de base, permitam definir o quantitativo das comissões devidas ao Fundo pela contragarantia do saldo vivo da carteira das sociedades de garantia mútua, podendo estabelecer escalões da contribuição anual, atendendo, nomeadamente, ao montante, prazo e sinistralidade histórica da carteira;\n\nb) Pronunciar-se, para efeitos do disposto no artigo 12.º, sobre quaisquer propostas de regulamentos relativos à atividade do Fundo, elaboradas pela sociedade gestora;\n\nc) Pronunciar-se sobre a tomada pelo Fundo de participações sociais em sociedades de garantia mútua, quando as circunstâncias o justifiquem, no sentido de promover a liquidez das ações por aquelas emitidas, fixando, em função da situação de cada sociedade de garantia mútua, o valor a atribuir às ações;\n\nd) Pronunciar-se sobre o relatório e contas da atividade do Fundo;\n\ne) Pronunciar-se sobre qualquer outra matéria relativa ao objeto e atividades do Fundo.\n\n2 - Os pareceres do conselho geral previstos no presente decreto-lei não têm caráter vinculativo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1038914265": {
+   "fragment_id": "73301180",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n1 - O conselho geral reúne anualmente, após a aprovação das contas do Fundo, para se pronunciar sobre o previsto na alínea a) do n.º 1 do artigo anterior, bem como sobre todos os assuntos que lhe sejam submetidos pela sociedade gestora do Fundo.\n\n2 - O conselho geral reúne ainda, a convocação do seu presidente, sempre que se justifique.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1038914266": {
+   "fragment_id": "73301181",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16",
+    "Alterado pelo/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+   ],
+   "markdown": "###### Artigo 9.º — Receitas\n\n1 - O Fundo dispõe das seguintes receitas:\n\na) Contribuições, periódicas e especiais, das sociedades de garantia mútua;\n\nb) Empréstimos contraídos junto de instituições de crédito;\n\nc) Rendimentos provenientes das aplicações dos seus recursos;\n\nd) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos.\n\n2 - [Revogado].\n\n3 - Caso o Fundo entre em mora perante os seus credores, podem estes demandar o Estado pelas obrigações em falta.\n\n4 - A responsabilidade do Estado não pode ser exigida antes de decorridos 30 dias sobre a constituição em mora do Fundo.\n\n5 - Não pode mover-se execução contra o Estado com base em título exequível contra o Fundo.\n\n> Alterado pelo/a Artigo 152.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16\n\n> Alterado pelo/a [Decreto-Lei n.º 25/2017 - Diário da República n.º 45/2017, Série I de 2017-03-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2017-106549661), em vigor a partir de 2017-03-04"
+  },
+  "1038914267": {
+   "fragment_id": "73301182",
+   "type": 11,
+   "heading": "Artigo 10.º — Contribuições periódicas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 10.º — Contribuições periódicas\n\n1 - A taxa base das contribuições periódicas, previstas na alínea a) do n.º 1 do artigo 7.º é fixada por portaria do membro do Governo responsável pela área das finanças, sob proposta da sociedade gestora do Fundo, que é apresentada após parecer do conselho geral do Fundo.\n\n2 - O valor da contribuição periódica de cada sociedade de garantia mútua é determinado em função do valor médio dos saldos mensais das responsabilidades do período anterior.\n\n3 - A contribuição periódica das sociedades de garantia mútua participantes, devida anualmente, deve ser entregue ao Fundo até ao último dia útil do mês de Abril do ano a que diga respeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1038914268": {
+   "fragment_id": "73301183",
+   "type": 11,
+   "heading": "Artigo 11.º — Contribuições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contribuições especiais\n\n1 - Quando os recursos do Fundo se revelarem insuficientes para assegurar o cumprimento dos ratios de solvabilidade, determinados pelo Banco de Portugal, o Ministro das Finanças poderá, mediante portaria, ouvidos o Banco de Portugal e o conselho geral do Fundo, determinar que as sociedades de garantia mútua participantes efectuem contribuições especiais e definir os montantes, prestações, prazos e demais termos dessas contribuições.\n\n2 - O valor global das contribuições especiais de uma sociedade de garantia mútua não pode exceder, em cada período de exercício do Fundo, o valor da respectiva contribuição anual."
+  },
+  "1038914269": {
+   "fragment_id": "73301184",
+   "type": 11,
+   "heading": "Artigo 12.º — Regulamentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 12.º — Regulamentos\n\nOs membros do Governo responsáveis pelas áreas da economia e das finanças aprovam, por portaria, sob proposta da sociedade gestora do Fundo, que é apresentada após parecer do conselho geral do Fundo, ouvido o Banco de Portugal, os regulamentos que se revelem necessários ao funcionamento e a uma gestão sã e prudente do Fundo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1038914270": {
+   "fragment_id": "177564286",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Dever de reporte e sistema de informação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 12.º-A — Dever de reporte e sistema de informação\n\n1 - A sociedade gestora do Fundo remete aos membros do conselho geral, até ao fim do mês seguinte ao termo de cada semestre de calendário, um reporte que inclua, designadamente:\n\na) As operações realizadas e não amortizadas, à data, pelo Fundo, detalhadas por linha ou regime, incluindo informação relativa ao número, tipologia, classe de dimensão empresarial e setores de atividade de empresas beneficiárias, montantes financiados, garantias e contragarantias prestadas pelas sociedades de garantia mútua e pelo Fundo, quando aplicável;\n\nb) A sinistralidade incorrida e estimada, numa base plurianual, com o detalhe de informação previsto na alínea anterior.\n\n2 - O Banco de Portugal pode solicitar à sociedade gestora do Fundo a informação relevante relativa ao cumprimento da legislação prudencial aplicável às técnicas de mitigação do risco de crédito.\n\n3 - A sociedade gestora do Fundo deve assegurar a existência de um sistema de informação atualizado que permita, a qualquer momento, disponibilizar a informação prevista nos números anteriores, ou outra que lhe seja exigível.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1038914271": {
+   "fragment_id": "73301185",
+   "type": 11,
+   "heading": "Artigo 13.º — Dever de cooperação e sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dever de cooperação e sigilo\n\n1 - As sociedades de garantia mútua participantes devem facultar ao Fundo a consulta dos documentos e fornecer-lhe os elementos informativos necessários à realização do seu objecto.\n\n2 - São aplicáveis à actividade dos funcionários e agentes do Fundo e da sociedade gestora enquanto no exercício de tais funções as normas reguladoras do sigilo bancário."
+  },
+  "1038914272": {
+   "fragment_id": "73301186",
+   "type": 11,
+   "heading": "Artigo 14.º — Regras de assistência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regras de assistência\n\n1 - O Fundo poderá notificar qualquer sociedade de garantia mútua para que adopte as medidas necessárias ao restabelecimento da sua situação patrimonial, quando considerar que se encontram em perigo o normal funcionamento ou a solvabilidade da sociedade de garantia mútua em causa.\n\n2 - O Fundo pode conceder subsídios ou empréstimos às sociedades de garantia mútua, prestar garantias a favor destas e adquirir valores do seu activo extrapatrimonial, sempre que tal se revele necessário ou útil à realização do seu objecto.\n\n3 - O Fundo pode fazer depender a sua assistência a qualquer sociedade de garantia mútua da aceitação expressa, por esta, de regras de gestão, ou de outra natureza, que entenda necessárias à correcção das situações referidas no n.º 1."
+  },
+  "1038914273": {
+   "fragment_id": "73301187",
+   "type": 11,
+   "heading": "Artigo 15.º — Aplicação dos recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aplicação dos recursos\n\nO Fundo pode aplicar os seus recursos disponíveis na constituição de depósitos em instituições de crédito, em operações nos mercados monetário interbancário e interbancário de títulos ou ainda em outras operações financeiras, nas condições que venham a ser definidas pelo Banco de Portugal."
+  },
+  "1038914274": {
+   "fragment_id": "177564287",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Revisor oficial de contas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 15.º-A — Revisor oficial de contas\n\n1 - O Fundo tem as suas contas certificadas por um revisor oficial de contas (ROC).\n\n2 - O ROC é designado pela sociedade gestora e não pode desempenhar as mesmas funções na respetiva sociedade gestora ou pertencer ao mesmo grupo do ROC da sociedade gestora.\n\n3 - As despesas relativas ao ROC são suportadas pelo Fundo.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1039350575": {
+   "fragment_id": "73301188",
+   "type": 11,
+   "heading": "Artigo 16.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 16.º — Fiscalização\n\n1 - A fiscalização do Fundo, para além das funções exercidas pelo ROC, é exercida também pela Inspeção-Geral de Finanças, que fiscaliza o seu funcionamento, o cumprimento das leis e dos regulamentos que lhe são aplicáveis e emite parecer sobre as suas contas anuais.\n\n2 - Como suporte à atividade de fiscalização, a sociedade gestora pode solicitar a intervenção de auditores externos no processo de apreciação de contas anuais, sendo as despesas suportadas pelo Fundo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1039350576": {
+   "fragment_id": "73301189",
+   "type": 11,
+   "heading": "Artigo 17.º — Período de exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Período de exercício\n\nO período de exercício do Fundo corresponde ao ano civil."
+  },
+  "1039350577": {
+   "fragment_id": "73301190",
+   "type": 11,
+   "heading": "Artigo 18.º — Plano de contas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 18.º — Plano de contas\n\nSão aplicáveis ao Fundo, com as necessárias adaptações, as Normas Internacionais de Contabilidade/Normas Internacionais de Relato Financeiro (NIC/NIRF), tal como adotadas, em cada momento, por Regulamento da União Europeia e respeitando a estrutura conceptual para a preparação de demonstrações financeiras que enquadra aquelas normas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1039350578": {
+   "fragment_id": "73301191",
+   "type": 11,
+   "heading": "Artigo 19.º — Relatório e aprovação de contas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+   ],
+   "markdown": "###### Artigo 19.º — Relatório e aprovação de contas\n\n1 - A sociedade gestora elabora, até 31 de Março de cada ano, o relatório e contas da actividade do Fundo.\n\n2 - A sociedade gestora do fundo envia, para aprovação, aos membros do Governo responsáveis pelas áreas da economia e das finanças o relatório e contas, ouvido o conselho geral, no prazo máximo de 30 dias a contar da sua aprovação, incluindo uma proposta de aplicação de resultados.\n\n3 - A proposta de aplicação dos resultados referida no número anterior pode contemplar o eventual retorno dos recursos às sociedades de garantia mútua participantes, na proporção das suas contribuições.\n\n4 - A aprovação pelos membros do Governo responsáveis pelas áreas da economia e das finanças prevista no n.º 2 é concedida no prazo máximo de 30 dias a contar do envio pela sociedade gestora.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13"
+  },
+  "1039350579": {
+   "fragment_id": "73301192",
+   "type": 11,
+   "heading": "Artigo 20.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Extinção\n\nEm caso de extinção do Fundo, o produto da sua liquidação reverterá para as instituições contribuintes, na proporção das respectivas contribuições, qualquer que seja a natureza destas."
+  },
+  "1039350580": {
+   "fragment_id": "73301193",
+   "type": 11,
+   "heading": "Artigo 21.º — Legislação em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Legislação em vigor\n\nO disposto no presente decreto-lei em nada prejudica as regras de solvabilidade e liquidez aplicáveis às sociedades de garantia mútua, assim como as funções de supervisão e controlo previstas na legislação em vigor."
+  },
+  "1039350581": {
+   "fragment_id": "73301194",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia imediato ao da sua publicação."
+  },
+  "1039350582": {
+   "fragment_id": "73301195",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Junho de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 8 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Julho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1130016275": {
+   "fragment_id": "73266574",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2026-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 111/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2026-1129514951), em vigor a partir de 2026-06-06.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13",
+    "Alterado pelo/a Artigo 163.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2013 - Diário da República n.º 67/2013, Série I de 2013-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2013-259965), em vigor a partir de 2013-04-06"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - O Fundo tem por objeto a garantia do cumprimento:\n\na) Das obrigações assumidas pelas sociedades de garantia mútua, no exercício, por estas, da atividade referida na alínea a) do n.º 1 do artigo 2.º do Decreto-Lei n.º 211/98, de 16 de julho;\n\nb) De emissões de instrumentos financeiros representativos de dívida, enquadradas em regimes abertos ou medidas não individuais propostos pela sociedade gestora, podendo as respetivas emissões envolver um ou mais emitentes no âmbito da mesma operação de financiamento;\n\nc) De linhas de crédito especiais, destinadas a micro, pequenas e médias empresas e Mid Cap, mediante a emissão de garantias de carteira, sob proposta da sociedade gestora que ateste o seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação;\n\nd) De linhas de crédito destinadas a Small Mid Cap e Mid Cap, mediante a emissão de garantias individuais, sob proposta da sociedade gestora que ateste o seu relevante interesse para o desenvolvimento económico e científico ou para o fomento da inovação.\n\ne) De linhas de crédito, mediante emissão de garantias individuais ou de carteira, ao abrigo de apoios criados por resolução do conselho de ministros, destinadas a apoiar empresas, incluindo grandes empresas, e outras pessoas coletivas ou entidades públicas, no contexto de situações excecionais, designadamente, catástrofes naturais, incêndios, crises de saúde pública e crises energéticas.\n\n2 - Com vista à defesa do sistema nacional de caucionamento mútuo, compete ao Fundo e promover e realizar as acções necessárias para assegurar a solvabilidade das sociedades de garantia mútua, nomeadamente fixar, em função dos capitais próprios destas, o montante máximo, em cada momento, do saldo vivo da carteira de garantias concedidas.\n\n3 - (Revogado.)\n\n4 - O total dos montantes anualmente garantidos nos termos das alíneas b), c) e d) do n.º 1 não pode exceder um valor superior a 30 % do montante total das garantias prestadas pelo Fundo nos termos do n.º 1 no ano transato, sem prejuízo do disposto no número seguinte.\n\n5 - Em qualquer caso, o valor acumulado de garantias por amortizar ao abrigo das alíneas b), c) e d) do n.º 1 não pode exceder o correspondente a 20 % do valor acumulado de garantias prestadas, e ainda não amortizadas, pelo Fundo, nos termos da alínea a) do n.º 1.\n\n6 - O disposto nos n.os 4, 5 e 8 não afeta, a cada momento, as garantias já prestadas, ainda que impossibilite a emissão de novas garantias para efeitos das alíneas b), c) e d) do n.º 1.\n\n7 - As operações a realizar pelo Fundo ao abrigo das alíneas b), c) e d) do n.º 1 apenas podem ser realizadas em benefício de entidades que não se encontrem em dificuldades financeiras de acordo com a legislação europeia em matéria de auxílios de Estado aplicável à operação, e, em relação à alínea b), deve ser promovida uma avaliação de notação de risco de crédito dos emitentes por entidade independente.\n\n8 - O montante garantido por operação não pode exceder 50 % do valor dos instrumentos previstos na alínea b) e na alínea d) do n.º 1 e 40 % do valor do instrumento previsto na alínea c) do n.º 1.\n\n9 - Para efeitos de concessão de garantias pelo Fundo, consideram-se 'empresas' qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado, sendo, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar, as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica, sendo a categoria de micro, pequenas e médias empresas definida no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, e a categoria de Small Mid Cap e de Mid Cap definida no Decreto-Lei n.º 81/2017, de 30 de junho, na sua redação atual.\n\n10 - Sem prejuízo do disposto na alínea a) do n.º 1 do artigo 2.º, as operações a realizar pelo Fundo não podem garantir o cumprimento de obrigações de empresas que façam parte do setor financeiro, designadamente, instituições de crédito, sociedades financeiras, instituições de pagamento, instituições de moeda eletrónica, empresas de investimento, organismos de investimento coletivo, capital de risco, fundos de pensões, fundos de titularização, respetivas sociedades gestoras, sociedades de titularização, organismos de investimento alternativo especializado de créditos, sociedades de capital de risco, fundos de capital de risco e empresas de seguros e resseguros, nem de fundos autónomos.\n\n11 - As operações a realizar pelo Fundo são precedidas de uma análise de risco, a realizar pela sociedade gestora, dos elementos essenciais da operação, designadamente o respetivo montante, prazo, definição das entidades beneficiárias da operação a garantir, condições da garantia a conceder e respetiva sinistralidade estimada numa base plurianual.\n\n12 - Os montantes garantidos nos termos da alínea e) do n.º 1 não são considerados para efeitos dos limites previstos nos n.os 4 e 5.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 111/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2026-1129514951), em vigor a partir de 2026-06-06.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2022 - Diário da República n.º 8/2022, Série I de 2022-01-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2022-177528433), em vigor a partir de 2022-01-13\n\n> Alterado pelo/a Artigo 163.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 46/2013 - Diário da República n.º 67/2013, Série I de 2013-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2013-259965), em vigor a partir de 2013-04-06"
+  },
+  "1130016475": {
+   "fragment_id": "1039350181",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Prestação de garantias no âmbito das «Linhas de Apoio à Reconstrução»",
+   "in_force_from": "2026-06-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 111/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2026-1129514951), em vigor a partir de 2026-06-06.",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31-A/2026 - Diário da República n.º 25/2026, Suplemento, Série I de 2026-02-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2026-1039064234), em vigor a partir de 2026-02-06, produz efeitos a partir de 2026-02-04"
+   ],
+   "markdown": "###### Artigo 2.º-A — Prestação de garantias no âmbito das «Linhas de Apoio à Reconstrução»\n\n1 - No âmbito dos apoios concedidos ao abrigo das ‘Linhas de Apoio à Reconstrução’ destinadas a apoiar as empresas e outras pessoas coletivas, bem como entidades públicas de âmbito regional ou local, abrangidas pela situação de calamidade decretada nos termos das Resoluções do Conselho de Ministros n.os 15-B/2026, de 30 de janeiro, e 15-C/2026, de 1 de fevereiro, e eventuais prorrogações ou alterações, o Fundo tem ainda por objeto a garantia do cumprimento:\n\na) De linhas de crédito especiais, destinadas a micro, pequenas e médias empresas, Small Mid Cap, Mid Cap, e grandes empresas, mediante a emissão de garantias de carteira, sob proposta da sociedade gestora;\n\nb) Das obrigações assumidas por pessoas coletivas, públicas ou privadas, mediante a emissão de garantias de carteira ou garantias individuais, no âmbito de programas ou medidas de apoio de natureza económica, social, territorial ou de resposta a situações de calamidade declarada.\n\n2 - Os montantes garantidos nos termos do número anterior não são considerados para efeitos dos limites previstos nos n.os 4 e 5 do artigo 2.º do presente decreto-lei.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 111/2026 - Diário da República n.º 108/2026, Série I de 2026-06-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2026-1129514951), em vigor a partir de 2026-06-06.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 31-A/2026 - Diário da República n.º 25/2026, Suplemento, Série I de 2026-02-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-a-2026-1039064234), em vigor a partir de 2026-02-06, produz efeitos a partir de 2026-02-04"
+  }
+ }
+}

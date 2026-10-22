@@ -1,0 +1,156 @@
+---
+schema_version: '1.0'
+id: pt:dre:353935:por
+title: Decreto-Lei n.º 100/2006
+short_title: null
+summary: Cria um regime excepcional para a contratação de empreitadas de obras públicas, fornecimento de bens e aquisição
+  de serviços destinados ao desenvolvimento das experiências piloto em execução e cumprimento dos objectivos da Coordenação
+  Nacional para a Saúde das Pessoas Idosas e Cidadãos em Situação de Dependência, que funciona junto do Alto Comissariado
+  da Saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 100/2006
+official_date: null
+publication_date: '2006-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/2006, Série I-A de 2006-06-06
+  number: '109'
+  series: I
+  supplement: null
+  pages: 3855 - 3856
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/06/109a00/38553856.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/100/2006/06/06/p/dre/pt/html
+  oj: null
+  dre: '353935'
+  dre_path: /dr/detalhe/decreto-lei/100-2006-353935
+  internal: pt:dre:353935:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2006-353935
+  metadata_url: https://data.dre.pt/eli/dec-lei/100/2006/06/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2006-353935
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-01-08T00:00:00Z'
+integrity:
+  source_sha256: 4587911c38e3ce467c7ade372d6be3d55d0130ba0fe886378bf21570974d84dc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-100-353935.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Terceira Idade
+- Contrato
+- Pessoa em Situação de Dependência
+- Empreitada de Obras Públicas
+- Locação Financeira
+- ALTO Comissariado da Saúde
+- Comissão para o Desenvolvimento dos Cuidados de Saúde às Pessoas Idosas e às Pessoas em Situação de Dependência
+- Plano Nacional de Saúde
+- Cuidados Médicos
+- REDE de Prestação de Cuidados de Saúde
+- Estabelecimento Hospitalar
+relationships:
+- type: amended_by
+  target: pt:dre:262091:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/213/2005/12/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/213/2005/12/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/7/2005/08/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/7/2005/08/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/84/2005/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/84/2005/04/27/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 100/2006
+
+de 6 de Junho
+
+O [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), de 10 de Agosto, criou o Alto Comissariado da Saúde, enquanto serviço de coordenação intraministerial, para a articulação das políticas públicas de preparação e execução do Plano Nacional de Saúde e de programas específicos de âmbito nacional que o integram. Ficou de imediato prevista a existência de coordenadores nacionais, responsáveis por alguns programas considerados prioritários porque permitem consideráveis ganhos em saúde, já que cada uma das áreas escolhidas se encontra associada a elevados custos económicos e sociais, podendo a acção pública ser muito eficaz na mitigação dos seus efeitos e, consequentemente, destes custos. Uma das áreas escolhidas para actuação de um coordenador nacional foi a da saúde das pessoas idosas e dos cidadãos em situação de dependência.
+
+Nos termos do despacho n.º 23035/2005 (2.ª série), de 17 de Outubro, do Ministro da Saúde, publicado no Diário da República, 2.ª série, n.º 214, de 8 de Novembro de 2005, a Coordenação Nacional para a Saúde das Pessoas Idosas e dos Cidadãos em Situação de Dependência irá dar seguimento ao trabalho desenvolvido pela Comissão para o Desenvolvimento dos Cuidados de Saúde às Pessoas Idosas e às Pessoas em Situação de Dependência, criada pela [Resolução do Conselho de Ministros n.º 84/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-2005-533215), de 27 de Abril.
+
+Acresce que o desenvolvimento de um sistema de cuidados continuados às pessoas idosas e às pessoas dependentes é uma das prioridades inscritas no Programa do XVII Governo Constitucional e no Plano Nacional de Saúde, implicando a implementação de uma rede nacional de cuidados continuados. Esta rede visa apoiar e reforçar as respostas já existentes, alargando as redes comunitárias de apoio para a prática integrada desses cuidados, através da promoção da necessária articulação entre centros de saúde, hospitais, unidades especificamente dedicadas aos cuidados continuados e paliativos, serviços e instituições de apoio social.
+
+Assim, é o próprio Programa do XVII Governo Constitucional que, tendo em conta as situações de exclusão e de desigualdade social em saúde existentes no País, exige a reorganização do sistema de saúde a vários níveis.
+
+No âmbito dos cuidados continuados integrados, urge proceder à adaptação e reorganização das instituições do Serviço Nacional de Saúde com vista a proporcionar cuidados globais de saúde, o que envolve a rede de cuidados hospitalares, a rede de cuidados primários e a criação da rede de cuidados continuados.
+
+Neste contexto, o desenvolvimento de iniciativas transversais aos serviços de saúde, como são os casos das experiências piloto, essenciais para testar o modelo definido e para recolher informação necessária à adaptação desse modelo às diferentes realidades (geográficas, demográficas, epidemiológicas), assim garantindo um melhor aproveitamento e rentabilização dos recursos existentes, envolve a realização de um conjunto amplo e diversificado de actividades e despesas que passam por obras de adaptação, pela aquisição de equipamentos, de unidades móveis, de viaturas não medicalizadas de transporte colectivo de doentes, pessoas carenciadas, pessoas idosas e cidadãos em situação de dependência, de infra-estruturas informáticas, de telecomunicações, de serviços de consultoria e de apoio ao desenvolvimento e operacionalização dos vários sistemas de informação a instalar.
+
+A transversalidade e dimensão destes projectos tornam os procedimentos de adjudicação mais complexos e, portanto, mais morosos, uma vez que estão vários organismos envolvidos, cada um com as suas especificidades.
+
+Em 2005, apenas foi possível agilizar uma pequena parte das experiências piloto que concretizam a implementação progressiva da rede nacional de cuidados continuados, por força das datas de aprovação e publicação do [Decreto-Lei n.º 213/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-2005-491207), de 9 de Dezembro, cujo regime urge alargar agora à actividade da Coordenação Nacional para a Saúde das Pessoas Idosas e dos Cidadãos em Situação de Dependência.
+
+Neste contexto, torna-se conveniente adoptar, até final do ano económico de 2006, um regime de contratação de empreitadas de obras públicas e de aquisição de bens e serviços que combine a celeridade procedimental exigida pela concretização dos referidos projectos com a defesa dos interesses do Estado e a rigorosa transparência nos gastos.
+
+Este regime especial, já adoptado noutras situações, irá permitir o cumprimento dos objectivos calendarizados destas iniciativas estruturantes que terão de estar cumpridos no final de 2006.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único — Regime excepcional e transitório
+
+A contratação de empreitadas de obras públicas e a aquisição ou locação, sob qualquer regime, de bens e serviços destinados ao desenvolvimento das experiências piloto em execução e cumprimento dos objectivos da Coordenação Nacional para a Saúde das Pessoas Idosas e Cidadãos em Situação de Dependência, criada pelo despacho n.º 23035/2005 (2.ª série), de 17 de Outubro, do Ministro da Saúde, publicado no Diário da República, 2.ª série, n.º 214, de 8 de Novembro de 2005, que funciona junto do Alto Comissariado para a Saúde, criado pelo [Decreto Regulamentar n.º 7/2005](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2005-241792), de 10 de Agosto, cuja estimativa de custo global por contrato, não considerando o IVA, seja inferior aos limiares previstos para aplicação das directivas comunitárias sobre contratação pública podem realizar-se, durante o presente ano económico, com recurso aos procedimentos por negociação, consulta prévia ou ajuste directo.
+
+Visto e aprovado em Conselho de Ministros de 6 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António Fernando Correia de Campos.
+
+**Promulgado em 19 de Maio de 2006.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 22 de Maio de 2006.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

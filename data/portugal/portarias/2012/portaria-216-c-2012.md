@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:656134:por
+title: Portaria n.º 216-C/2012
+short_title: null
+summary: Primeira alteração à Portaria n.º 1100/2010, de 22 de outubro, que aprova o programa de formação em competências
+  básicas em cursos de educação e formação de adultos ou em processos de reconhecimento, validação e certificação de competências
+  de nível básico
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e do Emprego e da Educação e Ciência
+proposing_entity: null
+official_number: 216-C/2012
+official_date: null
+publication_date: '2012-07-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/2012, 1º Suplemento, Série I de 2012-07-18
+  number: '138'
+  series: I
+  supplement: 1º Suplemento
+  pages: 3822-(3) a 3822-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13801/0000300003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/216-c/2012/07/18/p/dre/pt/html
+  oj: null
+  dre: '656134'
+  dre_path: /dr/detalhe/portaria/216-c-2012-656134
+  internal: pt:dre:656134:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-c-2012-656134
+  metadata_url: https://data.dre.pt/eli/port/216-c/2012/07/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/216-c-2012-656134
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-07-18T00:00:00Z'
+integrity:
+  source_sha256: 476112aad3012396f319c8b99087028bd34a26a6397e8e48359bf9e513ea972d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-216-C-656134.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Certificado de Aptidão Profissional
+- Instituto do Emprego e Formação Profissional
+- Centro de Formação Profissional
+- Plano de Estudos
+- Ensino Oficial
+- Formador
+- Habilitações Literárias
+- Educação dos Adultos
+- Sistema Nacional de Qualificações
+- Estabelecimento de Ensino
+- Programa de Formação em Competências Basicas
+- Qualificação Profissional
+- Ensino Básico
+- Avaliação de Conhecimentos
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/396/2007/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1100/2010/10/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1100/2010/10/22/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 216-C/2012
+
+de 18 de julho
+
+A Portaria n.º 1100/2010, de 22 de outubro, definiu as condições de operacionalização de um programa formativo dirigido à promoção de competências básicas de leitura, escrita, cálculo e uso das tecnologias de informação e comunicação, estruturado em unidades de formação e destinado a adultos que pretendam elevar a sua qualificação. A necessidade de uma melhor e mais racional gestão dos recursos públicos vem agora recomendar um ajustamento nas regras de constituição dos grupos de formação destas ações.
+
+Assim, nos termos do disposto no artigo 9.º do [Decreto-Lei n.º 396/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/396-2007-628017), de 31 de dezembro, manda o Governo, pelos Secretários de Estado do Emprego e do Ensino Básico e Secundário, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria introduz a primeira alteração à Portaria n.º 1100/2010, de 22 de outubro, que aprova o programa de formação em competências básicas e visa a aquisição, por parte dos adultos, de competências básicas de leitura, escrita, cálculo e uso de tecnologias de informação e comunicação.
+
+###### Artigo 2.º — Alteração à Portaria n.º 1100/2010, de 22 de outubro
+
+É alterado o artigo 6.º da Portaria n.º 1100/2010, de 22 de outubro, que passa a ter a seguinte redação:
+
+«Artigo 6.º
+
+[...]
+
+1 - ...
+
+2 - O número de formandos necessário para a organização de uma ação no âmbito do programa pode variar de acordo com a sua natureza, não podendo, no entanto, cada grupo de formação ter um número de formandos inferior a 26 nem superior a 30.
+
+3 - Pode ser autorizada, a título excecional, pelos membros do Governo competentes, a constituição de grupos de formação com um número de formandos inferior ou superior aos limites previstos no número anterior, sob proposta do serviço territorialmente competente, fundamentada em critérios de cobertura geográfica.»
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia a seguir ao da sua publicação.
+
+**O Secretário de Estado do Emprego, Pedro Miguel Rodrigues da Silva Martins, em 17 de julho de 2012. - A Secretária de Estado do Ensino Básico e Secundário, Isabel Maria Cabrita de Araújo Leite dos Santos Silva, em 16 de julho de 2012.**

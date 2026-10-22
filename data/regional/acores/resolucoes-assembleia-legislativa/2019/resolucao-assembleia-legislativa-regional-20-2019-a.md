@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:126275478:por
+title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 20/2019/A
+short_title: null
+summary: Acompanhamento pela Comissão Permanente de Economia do processo de revisão do subsídio social de mobilidade em curso
+  entre o Governo Regional dos Açores e o Governo da República
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 20/2019/A
+official_date: null
+publication_date: '2019-11-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 221/2019, Série I de 2019-11-18
+  number: '221'
+  series: I
+  supplement: null
+  pages: 3 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/11/22100/0000300004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalraa/20/2019/11/18/a/dre/pt/html
+  oj: null
+  dre: '126275478'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/20-2019-126275478
+  internal: pt:dre:126275478:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/20-2019-126275478
+  metadata_url: https://data.dre.pt/eli/resolalraa/20/2019/11/18/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/20-2019-126275478
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-11-18T00:00:00Z'
+integrity:
+  source_sha256: 9d65532c956f71bd4ad9b5359048e01314b97f8e87632429e75ba66a3243e966
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2019/DRE-2019-20-126275478.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Transporte Marítimo
+- Comissão Permanente
+- Transporte Aéreo
+- Governo Regional
+- Assembleia Legislativa
+- Recomendação
+- Açores
+- Subsídio Social de Mobilidade
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 20/2019/A
+
+Acompanhamento pela Comissão Permanente de Economia do processo de revisão do subsídio social de mobilidade em curso entre o Governo Regional dos Açores e o Governo da República
+
+O modelo atualmente vigente de acessibilidades aéreas no território nacional de e para os Açores integra, como peça central, a agenda do grupo de trabalho estabelecido entre o Governo da República e o Governo Regional dos Açores.
+
+No estudo do referido grupo de trabalho, o qual se encontra ainda em curso e, por consequência, sem conclusões ou resultados, consta, necessariamente, a questão do subsídio social de mobilidade.
+
+O subsídio social de mobilidade, como é do conhecimento geral, é atribuído aos passageiros residentes, equiparados a residentes e estudantes das Regiões Autónomas, pelas viagens realizadas entre o continente e as Regiões Autónomas da Madeira e Açores, e entre a Região Autónoma da Madeira e a Região Autónoma dos Açores, implicando o pagamento e a utilização efetiva do bilhete.
+
+Anos decorridos de aplicação do referido subsídio demonstram que este carece de melhorias e aperfeiçoamentos, nomeadamente, ao nível da redução da carga burocrática a que sujeita o passageiro residente para obtenção do reembolso do bilhete, bem como da correção de regras do modelo que possibilitam a existência de valores exorbitantes e por vezes pouco transparentes dos preços dos bilhetes.
+
+Acresce que, e também é público, o valor orçamentado para este subsídio tem sido, ano após ano, exíguo face à realidade.
+
+Importa ainda realçar que no último ano, apesar do valor investido pelo Governo da República ter vindo a aumentar exponencialmente, o número de usufrutuários do subsídio tem vindo a decrescer, o que demonstra a necessidade de melhorar o atual sistema.
+
+Neste sentido, nunca esquecendo a importância de garantir a atratividade das rotas para o mercado e a competitividade entre operadores, impõe-se proceder à respetiva revisão, tendo esta que respeitar integralmente os direitos dos residentes nos Açores.
+
+Nenhuma revisão pode, por isso, colocar em causa o direito à mobilidade das Açorianas e Açorianos.
+
+Nenhuma revisão, pode priorizar questões económicas e financeiras face a direitos fundamentais das Açorianas e Açorianos.
+
+Nenhuma revisão pode, em suma, ser concretizada contra os Açores.
+
+Neste sentido, entende-se assim que a Assembleia Legislativa da Região Autónoma dos Açores, de forma concertada com o Governo Regional, assumindo cada um o seu papel, exerça o seu papel de acompanhamento e fiscalização do processo de revisão do subsídio social de mobilidade.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos regimentais aplicáveis e ao abrigo do disposto no n.º 3 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+1 - Que a Comissão Permanente de Economia da Assembleia Legislativa da Região Autónoma dos Açores, no exercício das suas competências e atribuições, acompanhe, até à respetiva conclusão, o processo de revisão do subsídio social de mobilidade atualmente em curso entre o Governo Regional dos Açores e o Governo da República;
+
+2 - Que a Comissão Permanente de Economia, no cumprimento da missão referida no número anterior, paute a sua atuação pela defesa intransigente dos legítimos interesses dos Açores, designadamente, através da realização de audições trimestrais com o membro do Governo Regional dos Açores com a tutela dos transportes, solicitação de documentos relevantes, bem como de outras diligências que a Comissão entenda por bem levar a cabo com o intuito de cumprir os objetivos da presente resolução;
+
+3 - Que a Comissão Permanente de Economia dê nota periódica do trabalho de acompanhamento desenvolvido, nomeadamente através da elaboração de relatórios semestrais, até à conclusão do presente processo de revisão do subsídio social de mobilidade.
+
+Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de outubro de 2019.
+
+**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**

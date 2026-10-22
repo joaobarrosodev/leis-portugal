@@ -1,0 +1,186 @@
+---
+schema_version: '1.0'
+id: pt:dre:627196:por
+title: Resolução do Conselho de Ministros n.º 125/94
+short_title: null
+summary: Autoriza a reprivatização de acções da Companhia de Seguros Garantia, S. A., e fusão desta com a Aliança Seguradora,
+  S. A., e a UAP Portugal - Companhia de Seguros, S. A.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 125/94
+official_date: null
+publication_date: '1994-12-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 295/1994, 1º Suplemento, Série I-B de 1994-12-23
+  number: '295'
+  series: I
+  supplement: 1º Suplemento
+  pages: 7340-(2) a 7340-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/12/295b01/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/125/1994/12/23/p/dre/pt/html
+  oj: null
+  dre: '627196'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/125-1994-627196
+  internal: pt:dre:627196:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/125-1994-627196
+  metadata_url: https://data.dre.pt/eli/resolconsmin/125/1994/12/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/125-1994-627196
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-12-31T00:00:00Z'
+integrity:
+  source_sha256: 531a77fd1d20763da00f193d70d5a9836e5179794df5e8f020d9ca74311dc753
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-125-627196.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de Acções
+- Sociedade Anónima
+- Caderno de Encargos
+- Capital Social
+- Fusão de Empresas
+- Setor Empresarial do Estado
+- IPE
+- Privatização
+- Transferência Patrimonial
+- UAP Portugal-companhia de Seguros
+- Aliança Seguradora
+- Companhia de Seguros Garantia
+relationships:
+- type: amended_by
+  target: pt:dre:244935:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/41/1991/09/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/41/1991/09/27/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 125/94
+
+Considerando o disposto na [Lei n.º 11/90](https://diariodarepublica.pt/dr/detalhe/lei/11-1990-332183), de 5 de Abril, designadamente no seu artigo 25.º, relativa à reprivatização da titularidade ou do direito de exploração dos meios de produção e outros bens nacionalizados depois de 25 de Abril de 1974;
+
+Considerando que, atentos os termos daquela lei, o [Decreto-Lei n.º 406/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/406-1990-242053), de 26 de Dezembro, previu a privatização de 50,75% do capital social da Companhia de Seguros Garantia, S. A., de que a IPE - Investimentos e Participações Empresariais, S. A., é titular, autorizando a IPE a alienar essas acções por venda directa, total ou parcial, ou aplicando-as na realização de capital social de nova sociedade;
+
+Considerando o interesse, por razões estratégicas de reestruturação sectorial, de integrar essa participação num grupo segurador de primeiro plano a nível nacional que agrupe diversas seguradoras;
+
+Considerando:
+
+Que já a [Resolução do Conselho de Ministros n.º 41/91](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-1991-292928), de 18 de Julho, autorizara a IPE a alienar as suas acções da Companhia de Seguros Garantia, S. A., a uma sociedade gestora de participações sociais, em cujo capital iria participar e que, visando a constituição do referido grupo segurador, viria a deter também acções da Aliança Seguradora, S. A., da Aliança UAP - Companhia de Seguros de Vida, S. A., e da UAP Portugal - Companhia de Seguros, S. A.;
+
+Que o projecto de constituição do referido grupo segurador visava a transformação das quatro seguradoras em apenas duas, uma para os ramos «Vida» e outra para os ramos «Não Vida»;
+
+Que os procedimentos negociados e aprovados para a constituição do grupo segurador vieram a ser considerados pela Comissão do Mercado de Valores Mobiliários como incompatíveis com algumas disposições do Código do Mercado de Valores Mobiliários, que entretanto entrou em vigor;
+
+Que se mantém o interesse em que a reprivatização das acções da Companhia de Seguros Garantia, S. A., detidas pela IPE se faça no quadro da constituição do referido grupo segurador, por uma forma adaptada às novas circunstâncias;
+
+Que, por esse motivo, na reunião do Conselho de Ministros de 26 de Agosto de 1993 foi deliberado autorizar a IPE a aprovar a participação da Companhia de Seguros Garantia, S. A., na elaboração de um projecto de fusão com a Aliança Seguradora, S. A., e, eventualmente, com a UAP Portugal - Companhia de Seguros, S. A.;
+
+Que, sem prejuízo da avaliação da empresa por duas entidades independentes constantes da lista aprovada pelo Ministério das Finanças, já efectuada, os processos de fusão de sociedades se regem pelas normas do Código das Sociedades Comerciais, incluindo pareceres de revisores oficiais de contas sobre o projecto de fusão e aprovação da fusão pelas assembleias gerais das sociedades envolvidas;
+
+Que a Companhia de Seguros Garantia, S. A., é uma sociedade cujo capital nunca foi totalmente nacionalizado e que nunca assumiu, pois, a natureza de empresa pública;
+
+Considerando a competência atribuída à IPE, os termos do projecto de fusão já elaborado e registado e o parecer da Comissão de Acompanhamento das Privatizações:
+
+Assim:
+
+Nos termos das alíneas d) e g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+
+1 - Autorizar a reprivatização das 282186 acções da Companhia de Seguros Garantia, S. A., que foram directamente nacionalizadas e são detidas pela IPE - Investimentos e Participações Empresariais, S. A., e consequentemente autorizar a IPE - Investimentos e Participações Empresariais, S. A., a votar favoravelmente em assembleia geral da Companhia de Seguros Garantia, S. A., o projecto de fusão dessa sociedade com a Aliança Seguradora, S. A., e a UAP Portugal - Companhia de Seguros, S. A., registado nas respectivas conservatórias do registo comercial.
+
+2 - Aprovar o caderno de encargos ao qual obedecerá a fusão da Companhia de Seguros Garantia, S. A., com a Aliança Seguradora, S. A., e a UAP Portugal - Companhia de Seguros, S. A.
+
+3 - De acordo com a relação de troca das acções das três sociedades a fundir constante do referido projecto, por cada acção da Companhia de Seguros Garantia, S. A., serão atribuídas 3,47875986 acções da nova sociedade resultante da fusão.
+
+4 - Das acções que a IPE ficará a deter na sociedade resultante da fusão é reservado para aquisição pelos trabalhadores da Companhia de Seguros Garantia, S. A., bem como por aqueles que hajam mantido vínculo laboral durante mais de três anos com ela, a realizar mediante subscrição pública, um montante global de 98000 acções, devendo as ordens de compra ser expressas em múltiplos de 20, até ao limite de 400 acções por cada adquirente.
+
+5 - Das acções que a IPE ficará a deter na sociedade resultante da fusão é reservado para aquisição por pequenos subscritores, a realizar mediante subscrição pública, um montante global de 60000 acções, devendo as ordens de compra ser expressas em múltiplos de 20 até ao limite de 200 acções por cada adquirente.
+
+6 - A cada trabalhador será reservado um lote de acções não inferior ao maior inteiro contido no quociente entre as acções a atribuir e o número de trabalhadores, sendo as acções remanescentes distribuídas proporcionalmente à procura não satisfeita.
+
+7 - As acções referidas nos n.os 4 e 6 serão vendidas pelo preço, por acção, de 80% da média das cotações das últimas 10 sessões anteriores à realização da oferta pública de subscrição, pago em duas prestações semestrais sucessivas, de 50% cada uma, vencendo-se a primeira no dia da celebração do contrato e a segunda até 180 dias depois.
+
+8 - As acções referidas no n.º 5 serão vendidas pelo preço, por acção, de 90% da média das cotações das últimas 10 sessões anteriores à realização da oferta pública de subscrição.
+
+9 - A cada subscritor será reservado um lote de acções não inferior ao maior inteiro contido no quociente entre as acções a atribuir e o número de subscritores, sendo as acções remanescentes distribuídas proporcionalmente à procura não satisfeita.
+
+10 - A subscrição pública e a alienação de acções referidas nos n.os 4 e 5 serão efectuadas em sessão especial de Bolsa, de acordo com o previsto nos artigos 395.º e seguintes do Código do Mercado de Valores Mobiliários e no [Regulamento n.º 91/8](https://diariodarepublica.pt/dr/detalhe/regulamento/91-1991-1876917) da Comissão do Mercado de Valores Mobiliários.
+
+11 - As acções adquiridas ao abrigo dos n.os 4 e 5 não podem ser oneradas nem objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da respectiva aquisição, sob pena de nulidade do referido negócio.
+
+Presidência do Conselho de Ministros, 22 de Dezembro de 1994. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Caderno de encargos
+
+1 - Fusão entre a Companhia de Seguros Garantia, S. A., a UAP Portugal - Companhia de Seguros, S. A., e a Aliança Seguradora, S. A. - A fusão será efectuada mediante a constituição de uma nova sociedade designada Aliança UAP - Companhia de Seguros, S. A., que terá sede na Rua de Gonçalo Sampaio, 39, no Porto, com o capital social de 6908000000$00, para a qual se transferem globalmente os patrimónios das sociedades fundidas: Companhia de Seguros Garantia, S. A., UAP Portugal - Companhia de Seguros, S. A., e Aliança Seguradora, S. A., observando-se os valores contabilísticos apurados nos balanços de 31 de Dezembro de 1993.
+
+2 - Sociedades intervenientes:
+
+2.1 - Aliança Seguradora, S. A. - sociedade anónima constituída em 31 de Dezembro de 1979, contribuinte n.º 500967776, com sede na Rua de Gonçalo Sampaio, 39, Porto, registada na 1.ª Conservatória do Registo Comercial do Porto em 1 de Abril de 1980, sob o n.º 1296, com o capital social de 6000000000$00, representado por 6000000 acções nominativas, do valor nominal de 1000$00 cada (doravante designada por Aliança).
+
+2.2 - Companhia de Seguros Garantia, S. A. - sociedade anónima constituída em 25 de Junho de 1853, contribuinte n.º 500069441, com sede na Avenida dos Aliados, 211, no Porto, registada na 2.ª Conservatória do Registo Comercial do Porto em 21 de Agosto de 1958, sob o n.º 1619, com o capital social de 558000000$00, representado por 558000 acções ao portador, do valor nominal de 1000$00 cada (doravante designada por Garantia).
+
+2.3 - UAP Portugal - Companhia de Seguros, S. A. - sociedade anónima constituída em 26 de Junho de 1989, contribuinte n.º 502219114, com sede na Praça do Marquês de Pombal, 14, freguesia do Coração de Jesus, em Lisboa, registada na Conservatória do Registo Comercial de Lisboa em 15 de Setembro de 1989, sob o n.º 00901, com o capital social de 350000000$00, representado por 70000 acções do valor nominal de 5000$00 cada, nominativas e ou ao portador (doravante designada por UAP).
+
+3 - Acções a atribuir aos accionistas da Aliança Seguradora, da Garantia e da UAP - o capital social da Aliança UAP - Companhia de Seguros, S. A., será representado por 6908000 acções do valor nominal de 1000$00 cada uma, sendo a respectiva distribuição efectuada com base nos termos de troca a seguir indicados:
+
+a) Aliança Seguradora: por cada acção representativa do capital social desta sociedade, com o valor nominal de 1000$00, serão atribuídas 0,625174 acções da Aliança UAP - Companhia de Seguros, S. A.;
+
+b) Garantia: por cada acção representativa do capital social desta sociedade com o valor nominal de 1000$00, serão atribuídas 3,47875986 acções da Aliança UAP - Companhia de Seguros, S. A.;
+
+c) UAP: por cada acção representativa do capital social desta sociedade com o valor nominal de 5000$00, serão atribuídas 17,36868571 acções da Aliança UAP - Companhia de Seguros, S. A.
+
+Os accionistas das sociedades a fundir que, em virtude do número de acções representativas do capital social das sociedades a fundir por si detidas, não tenham direito a receber, pelo menos, uma acção inteira ficarão titulares de um direito parcial, o qual poderá ser autonomamente alienado e adquirido. Este direito não pode ser exercido enquanto se mantiver parcial, pelo que o respectivo titular não terá, nomeadamente, direito aos lucros do exercício nem direito a voto.
+
+4 - Acções atribuídas à IPE e tratamento das acções destinadas a trabalhadores - de acordo com a relação de troca das acções das três sociedades a fundir constantes do referido projecto, a IPE receberá 1070740 acções da nova sociedade resultante da fusão.
+
+Os trabalhadores da Companhia de Seguros Garantia, S. A., bem como aqueles que hajam mantido vínculo laboral durante mais de três anos, poderão adquirir à IPE até 98000 acções da sociedade resultante da fusão. Estas acções serão vendidas pelo preço, por acção, de 80% da média das cotações das primeiras 10 sessões em que ocorram transacções, pago em duas prestações semestrais sucessivas de 50% cada uma, vencendo-se a primeira no dia da celebração do contrato e a segunda até 180 dias depois, e não poderão ser alienadas enquanto não estiver paga a totalidade do preço.
+
+5 - Participadas qualificadas - após a concretização da presente fusão, o Grupo UAP (representado pela UAP Internacional, UAP Vie e UAP IARD) passará a deter 1904459 acções representativas do capital social da Aliança UAP - Companhia de Seguros, S. A. (27,568893%), a que corresponderão 19044 votos (27,568893%).
+
+6 - Data da cessação e início de actividades - a Aliança, a Garantia e a UAP cessarão toda a sua actividade a partir da data do registo definitivo da escritura de fusão, data a partir da qual se iniciam as actividades da nova sociedade.

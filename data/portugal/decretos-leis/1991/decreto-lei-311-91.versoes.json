@@ -1,0 +1,197 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:674434:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-888843556",
+ "dre_path": "/dr/detalhe/decreto-lei/311-1991-674434",
+ "source_lastmod": "2024-09-24",
+ "versions": [
+  {
+   "date": "1991-08-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888843105",
+    "888843106",
+    "888843107",
+    "888843108",
+    "888843109",
+    "888843110",
+    "888843111",
+    "888843112",
+    "888843113",
+    "888843114",
+    "888843115",
+    "888843116"
+   ]
+  },
+  {
+   "date": "2004-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:480517:por",
+     "title": "Decreto-Lei n.º 208/2004",
+     "published": "2004-08-19",
+     "dre_path": "/dr/detalhe/decreto-lei/208-2004-480517"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "888843105",
+    "888843106",
+    "888843107",
+    "888843108",
+    "888843109",
+    "888843110",
+    "888843111",
+    "888843119",
+    "888843113",
+    "888843118",
+    "888843120",
+    "888843116",
+    "888843117"
+   ]
+  }
+ ],
+ "fragments": {
+  "888843105": {
+   "fragment_id": "888843557",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 311/91\n\nde 17 de Agosto\n\nO sector do transporte aéreo tem vindo a ser objecto de reformulação, quer no plano internacional, quer, em particular, no plano comunitário.\n\nA política de preços é um dos aspectos da questão em que se tem verificado uma maior busca de soluções novas, estando, por isso, em permanente mutação.\n\nImporta, assim, continuar a dar às empresas portuguesas as condições para poderem responder eficazmente às condições de mercado, limitando-se a actuação da Administração aos casos de relevância e incidência social, desburocratizando e simplificando o quadro em que se movem.\n\nO mesmo princípio é de aplicar quer às ligações internacionais quer às ligações domésticas, envolvendo as Regiões Autónomas, em que as actualizações de preços têm estado sujeitas a um complexo e moroso processo que urge flexibilizar. Em virtude do regime de exclusivo actualmente aplicável a tais ligações, consagra-se, neste caso, um regime de tarifas máximas, no qual não podem ser excedidas, em média, as tarifas praticadas em mercados internacionais sujeitos a um regime de concorrência, como garantia dos interesses dos utentes. Mantém-se igualmente uma fixação administrativa de preços sociais aplicáveis a certas categorias de utentes, nomeadamente os residentes nas regiões insulares.\n\nProcede-se também a uma actualização do regime vigente de contra-ordenações.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "888843106": {
+   "fragment_id": "888843558",
+   "type": 11,
+   "heading": "Artigo 1.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Conceitos\n\nPara efeitos deste diploma, entende-se por:\n\na) Transporte aéreo regular - séries de voos comerciais operados para transporte entre dois ou mais pontos, com uma frequência regular, conforme com um horário estabelecido e publicado, e cujos lugares estejam disponíveis para compra individual pelo público à transportadora aérea ou seus agentes;\n\nb) Tarifa - preço do transporte de passageiros, bagagens e mercadorias e as condições em que se aplica, assim como os preços e condições referentes aos serviços de agência e outros serviços auxiliares, bem como a concessão ao passageiro de quaisquer benefícios com fins promocionais, com excepção das remunerações e condições relativas ao transporte de correio;\n\nc) Tarifa normal de classe económica - tarifa flexível quanto à sua utilização, aplicável a viagens no compartimento de uma aeronave destinado a classe de serviço económico ou turístico."
+  },
+  "888843107": {
+   "fragment_id": "888843559",
+   "type": 11,
+   "heading": "Artigo 2.º — Fixação de tarifas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fixação de tarifas\n\n1 - São fixadas pelos transportadores:\n\na) As tarifas de transporte aéreo regular a aplicar em serviços internacionais envolvendo o território nacional, salvo disposição em contrário constante de acordos ou convenções de que Portugal é a parte ou do Regulamento n.º 2342/CEE, do Conselho, de 24 de Julho de 1990;\n\nb) As tarifas a aplicar nos serviços domésticos no interior do continente;\n\nc) Sem prejuízo do disposto no artigo seguinte, as tarifas de transporte aéreo regular a aplicar em serviços domésticos entre o continente e as Regiões Autónomas dos Açores e da Madeira e entre estas Regiões.\n\n2 - As tarifas de residente e estudante, bem como as da comitiva de membros de equipas das Regiões Autónomas em viagens ao continente para participação em provas desportivas de calendários nacionais, aprovados pela Direcção-Geral dos Desportos, referentes aos serviços previstos no número anterior são regulamentadas na sua especificidade por portaria do membro do Governo que tutela o sector dos transportes, sendo os preços máximos fixados por portaria conjunta nos termos dos Decretos-Leis n.os 329-A/74, de 10 de Julho, e 75-Q/77, de 28 de Fevereiro, ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\n3 - Salvo o disposto no número seguinte, a aprovação das tarifas a aplicar nos serviços aéreos regulares dentro de cada Região Autónoma é da competência dos respectivos órgãos de governo próprio.\n\n4 - As tarifas a aplicar nos serviços aéreos regulares entre o Aeroporto do Funchal e o Aeroporto do Porto Santo ficam sujeitas ao regime estabelecido no n.º 2, enquanto aqueles serviços forem explorados pela TAP - Air Portugal, E. P."
+  },
+  "888843108": {
+   "fragment_id": "888843560",
+   "type": 11,
+   "heading": "Artigo 3.º — Tarifas e prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tarifas e prazos\n\n1 - Os critérios a utilizar pelos transportadores na elaboração das tarifas referidas na alínea c) do n.º 1 do artigo anterior são fixados por portaria conjunta dos Ministros das Finanças, Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, ouvidas os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\n2 - Os transportadores devem comunicar à Direcção-Geral da Aviação Civil, abreviadamente designada DGAC, as tarifas a praticar, nos prazos a estabelecer por despacho do Ministro das Obras Públicas, Transportes e Comunicações, publicado no Diário da República."
+  },
+  "888843109": {
+   "fragment_id": "888843561",
+   "type": 11,
+   "heading": "Artigo 4.º — Prestação dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prestação dos serviços\n\nNenhum serviço de transporte aéreo regular pode ser prestado a tarifas que não tenham sido previamente aprovadas ou estabelecidas nos termos do presente diploma."
+  },
+  "888843110": {
+   "fragment_id": "888843562",
+   "type": 11,
+   "heading": "Artigo 5.º — Títulos de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Títulos de transporte\n\n1 - Os títulos de transporte aéreo regular devem conter indicação expressa do preço pago pelo transporte, salvo nos casos em que a tarifa se refira a um preço de transporte necessariamente incluído num complexo de serviços mais alargado - «viagens com tudo incluído».\n\n2 - Os transportadores devem dar prévio conhecimento à DGAC dos códigos utilizados no preenchimento dos títulos de transporte, os quais identificarão claramente a tarifa aplicada."
+  },
+  "888843111": {
+   "fragment_id": "888843563",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscalização\n\n1 - A fiscalização do disposto neste diploma é da competência da DGAC.\n\n2 - Os transportadores e seus agentes são obrigados a prestar toda a colaboração e a exibirem os documentos requeridos pelos fiscais da DCAC, devidamente identificados, no exercício das acções fiscalizadoras."
+  },
+  "888843112": {
+   "fragment_id": "888843564",
+   "type": 11,
+   "heading": "Artigo 7.º — Instrução de processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instrução de processos\n\n1 - A DGAC é a entidade competente para a instrução dos processos contra-ordenacionais instaurados ao abrigo do disposto no presente diploma.\n\n2 - A aplicação das coimas previstas no presente diploma é da competência do director-geral da Aviação Civil."
+  },
+  "888843113": {
+   "fragment_id": "888843565",
+   "type": 11,
+   "heading": "Artigo 8.º — Responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Responsabilidade\n\nAs punições previstas neste diploma aplicam-se ao transportador, quer tenha actuado directamente, quer por intermédio dos seus agentes."
+  },
+  "888843114": {
+   "fragment_id": "888843566",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de 100000$00 a 1000000$00:\n\na) A emissão de títulos de transporte que não obedeçam ao disposto no artigo 5.º;\n\nb) A infracção ao disposto no n.º 2 do artigo 6.º;\n\nc) O não fornecimento de bens ou serviços previstos nas condições de aplicação da tarifa;\n\nd) O não cumprimento das condições associadas aos respectivos preços.\n\n2 - Constitui contra-ordenação punível com coima de 200000$00 a 2000000$00 a prática de tarifas em violação do disposto no artigo 4.º"
+  },
+  "888843115": {
+   "fragment_id": "888843567",
+   "type": 11,
+   "heading": "Artigo 10.º — Destino das verbas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Destino das verbas\n\nO produto das coimas aplicadas terá a seguinte distribuição:\n\na) 40% para a DGAC;\n\nb) 60% para o Estado."
+  },
+  "888843116": {
+   "fragment_id": "888843568",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatório\n\nÉ revogado o Decreto-Lei n.º 276/87, de 4 de Julho."
+  },
+  "888843119": {
+   "fragment_id": "888843564",
+   "type": 11,
+   "heading": "Artigo 7.º — Instrução de processos",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 7.º — Instrução de processos\n\n1 - A DGAC é a entidade competente para a instrução dos processos contra-ordenacionais instaurados ao abrigo do disposto no presente diploma.\n\n2 - A aplicação das coimas previstas no presente diploma é da competência do director-geral da Aviação Civil.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "888843118": {
+   "fragment_id": "888843566",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações muito graves:\n\na) O não fornecimento de bens ou serviços previstos nas condições de aplicação da tarifa;\n\nb) O não cumprimento das condições associadas aos respectivos preços.\n\nc) A prática de tarifas em violação do artigo 4.º;\n\nd) (Revogada.)\n\n2 - Para efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações graves:\n\na) A emissão de títulos de transporte que não obedeçam ao disposto no n.º 1 do artigo 5.º;\n\nb) A infracção ao disposto no n.º 2 do artigo 6.º\n\n3 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do Decreto-Lei n.º 10/2004, de 9 de Janeiro.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "888843120": {
+   "fragment_id": "888843567",
+   "type": 11,
+   "heading": "Artigo 10.º — Destino das verbas",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 10.º — Destino das verbas\n\nO produto das coimas aplicadas terá a seguinte distribuição:\n\na) 40% para a DGAC;\n\nb) 60% para o Estado.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "888843117": {
+   "fragment_id": "888843569",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Junho de 1991. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Joaquim Martins Fereira do Amaral - Fernando Manuel Barbosa Faria de Oliveira.\n\nPromulgado em 26 de Julho de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 30 de Julho de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

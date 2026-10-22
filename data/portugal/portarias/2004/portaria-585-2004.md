@@ -1,0 +1,187 @@
+---
+schema_version: '1.0'
+id: pt:dre:261168:por
+title: Portaria n.º 585/2004
+short_title: null
+summary: Define o capital mínimo e outros critérios qualitativos necessários para a celebração do contrato de seguro referido
+  no artigo 13.º do Decreto-Lei n.º 312/2003, de 17 de Dezembro, que aprovou as normas da detenção de animais perigosos e
+  potencialmente perigosos enquanto animais de companhia
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 585/2004
+official_date: null
+publication_date: '2004-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 126/2004, Série I-B de 2004-05-29
+  number: '126'
+  series: I
+  supplement: null
+  pages: 3403 - 3405
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/05/126b00/34033405.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/585/2004/05/29/p/dre/pt/html
+  oj: null
+  dre: '261168'
+  dre_path: /dr/detalhe/portaria/585-2004-261168
+  internal: pt:dre:261168:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/585-2004-261168
+  metadata_url: https://data.dre.pt/eli/port/585/2004/05/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/585-2004-261168
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-10-29T00:00:00Z'
+integrity:
+  source_sha256: 3ee431fbae4a66e4bc915a22649eb5b3cbb109b86a26914d7d99e4acd150a7e7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-585-261168.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Animal Doméstico
+- Animal Perigoso
+- Contrato de Seguro
+- Direito de Regresso
+- Seguro
+- Responsabilidade Civil
+relationships:
+- type: amended_by
+  target: pt:dre:483402:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/312/2003/12/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/312/2003/12/17/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 585/2004
+
+de 29 de Maio
+
+O [Decreto-Lei n.º 312/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2003-432861), de 17 de Dezembro, aprovou as normas de detenção de animais perigosos e potencialmente perigosos enquanto animais de companhia.
+
+De acordo com o disposto no artigo 13.º do referido diploma, o detentor daqueles animais fica obrigado a possuir um seguro de responsabilidade civil em relação aos mesmos.
+
+Para que o referido requisito seja cumprido é necessário definir o capital mínimo a acordar, bem como outros critérios qualitativos, de importância primordial quando da celebração do contrato de seguro.
+
+Assim:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas, ouvidos o Instituto de Seguros de Portugal e a Associação Portuguesa de Seguradores, ao abrigo do disposto no artigo 13.º do [Decreto-Lei n.º 312/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2003-432861), de 17 de Dezembro, o seguinte:
+
+1.º
+
+Objecto do contrato de seguro
+
+1 - O contrato de seguro de responsabilidade civil tem por objecto a garantia de responsabilidade civil dos detentores de qualquer animal perigoso e potencialmente perigoso.
+
+2 - A obrigatoriedade de celebrar o contrato de seguro regulado pelo presente diploma não é aplicável aos detentores de animais utilizados em espectáculos circenses.
+
+3 - As garantias do contrato não abrangem os animais objecto do seguro durante a sua participação em espectáculos, competições, concursos, exposições, publicidade e manifestações similares.
+
+2.º
+
+Âmbito temporal da cobertura
+
+O contrato de seguro cobrirá os danos causados por eventos ocorridos durante a vigência da apólice, desde que reclamados até um ano após a cessação do contrato.
+
+3.º
+
+Capital seguro
+
+O contrato de seguro terá um capital mínimo de (euro) 50000 e respeita a cada anuidade, independentemente do número de sinistros ocorridos e do número de lesados envolvidos.
+
+4.º
+
+Franquia
+
+O contrato de seguro pode incluir uma franquia não oponível a terceiros lesados ou aos seus herdeiros.
+
+5.º
+
+Âmbito territorial
+
+O contrato de seguro apenas produz efeitos em relação a eventos ocorridos em Portugal continental e Regiões Autónomas dos Açores e da Madeira.
+
+6.º
+
+Direito de regresso
+
+O contrato de seguro pode prever o direito de regresso da seguradora contra o civilmente responsável, nos seguintes casos:
+
+a) Responsabilidade por danos decorrentes de actos ou omissões dolosas do segurado, da pessoal por quem ele seja civilmente responsável ou do detentor do animal;
+
+b) Quando a responsabilidade decorrer de actos e omissões praticados pelo segurado ou por pessoa por quem ele seja civilmente responsável, ou pelo detentor do animal, quando praticados em estado de demência ou sob a influência do álcool, de estupefacientes ou outras drogas ou produtos tóxicos.
+
+7.º
+
+Exclusões
+
+O contrato de seguro pode excluir os danos:
+
+a) Causados aos empregados, assalariados ou mandatários do segurado, quando ao serviço deste, desde que tais danos resultem de acidente enquadrável na legislação de acidentes de trabalho;
+
+b) Causados aos sócios, gerentes, legais representantes ou agentes da pessoa colectiva cuja responsabilidade se garanta;
+
+c) Causados a quaisquer pessoas cuja responsabilidade esteja garantida por este contrato, bem como ao cônjuge, pessoa que viva em união de facto com o segurado, ascendentes e descendentes ou pessoas que com eles coabitem ou vivam a seu cargo, assim como ao detentor, vigilante ou utilizador do animal;
+
+d) Causados pelos animais quando na prática da caça, que, nos termos da lei, devem ser objecto de seguro obrigatório de responsabilidade civil;
+
+e) Devidos a responsabilidade por acidentes ocorridos com veículos que, nos termos da lei, devem ser objecto de seguro obrigatório de responsabilidade civil;
+
+f) Decorrentes de custas e quaisquer outras despesas provenientes de procedimento criminal, fianças, coimas, multas, taxas ou outros encargos de idêntica natureza;
+
+g) Causados pela inobservância das disposições legais em vigor que regulamentem a detenção de animais de companhia;
+
+h) Causados pelo transporte de animais em veículos não apropriados para o efeito, assim como os causados aos veículos transportadores de animais;
+
+i) Causados a outros animais da mesma espécie;
+
+j) Decorrentes da inobservância de medidas higiénicas, profilácticas e terapêuticas recomendáveis em caso de doenças infecto-contagiosas ou parasitárias;
+
+l) Ocorridos em consequência de guerra, greve, lock-out, tumultos, comoções civis, assaltos, sabotagem, terrorismo, actos de vandalismo, insurreições civis ou militares ou decisões de autoridades ou de forças usurpando a autoridade, assaltos e pirataria aérea.
+
+Em 29 de Abril de 2004.
+
+**A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.**

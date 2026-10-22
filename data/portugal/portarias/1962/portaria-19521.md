@@ -1,0 +1,94 @@
+---
+schema_version: '1.0'
+id: pt:dre:155581:por
+title: Portaria n.º 19521
+short_title: null
+summary: Determina que o Instituto Superior de Estudos Ultramarinos passe a designar-se «Instituto Superior de Ciências Sociais
+  e Política Ultramarina»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Ultramar e da Educação Nacional - Direcção-Geral do Ensino Superior e das Belas-Artes
+proposing_entity: null
+official_number: '19521'
+official_date: null
+publication_date: '1962-11-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 271/1962, Série I de 1962-11-24
+  number: '271'
+  series: I
+  supplement: null
+  pages: 1576 - 1576
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/11/27100/15761576.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '155581'
+  dre_path: /dr/detalhe/portaria/19521-1962-155581
+  internal: pt:dre:155581:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19521-1962-155581
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19521-1962-155581
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-11-24T00:00:00Z'
+integrity:
+  source_sha256: 69b9c51366b6770ca734be6ca197f2318e0973baf91c91661a07118a0ce452ae
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-19521-155581.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19521
+
+Visto o disposto no artigo 4.º do [Decreto-Lei n.º 38300](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38300-1951-583578), de 15 de Junho de 1951, e tendo sido publicada a remodelação aprovada pelo [Decreto n.º 43957](https://diariodarepublica.pt/dr/detalhe/decreto/43957-1961-183599), de 9 de Outubro de 1961;
+
+Visto o disposto no artigo 4.º do [Decreto n.º 44644](https://diariodarepublica.pt/dr/detalhe/decreto/44644-1962-156596), de 24 de Outubro de 1962:
+
+Manda o Governo da República Portuguesa, pelos Ministros do Ultramar e da Educação Nacional, o seguinte:
+
+O Instituto Superior de Estudos Ultramarinos passa a designar-se «Instituto Superior de Ciências Sociais e Política Ultramarina».
+
+Ministérios do Ultramar e da Educação Nacional, 24 de Novembro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira. - O Ministro da Educação Nacional, Manuel Lopes de Almeida.

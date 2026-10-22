@@ -1,0 +1,1204 @@
+---
+schema_version: '1.0'
+id: pt:dre:492428:por
+title: Decreto-Lei n.º 158/2009
+short_title: null
+summary: Aprova o Sistema de Normalização Contabilística e revoga o Plano Oficial de Contabilidade, aprovado pelo Decreto-Lei
+  n.º 47/77, de 7 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 158/2009
+official_date: null
+publication_date: '2009-07-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 133/2009, Série I de 2009-07-13
+  number: '133'
+  series: I
+  supplement: null
+  pages: 4375 - 4384
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13300/0437504384.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-12-06'
+version_history:
+  file: decreto-lei-158-2009.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-24'
+    amending: pt:dre:343473:por
+    amending_title: Lei n.º 20/2010
+    changes:
+    - Altera Artigo 9.º
+  - date: '2011-03-10'
+    amending: pt:dre:647296:por
+    amending_title: Decreto-Lei n.º 36-A/2011
+    changes:
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2013-01-01'
+    amending: pt:dre:632448:por
+    amending_title: Lei n.º 66-B/2012
+    changes:
+    - Altera Artigo 3.º
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Altera Artigo 10.º
+  - date: '2023-08-24'
+    amending: pt:dre:220219336:por
+    amending_title: Decreto-Lei n.º 73/2023
+    changes:
+    - Adita Artigo 11.º-A
+    - Adita Artigo 11.º-B
+    - Adita Artigo 11.º-C
+    - Adita Artigo 11.º-D
+    - Adita Artigo 11.º-E
+    - Adita Artigo 11.º-F
+    - Adita Artigo 11.º-G
+    - Adita Artigo 11.º-H
+    - Adita Artigo 11.º-I
+    - Altera Artigo 2.º
+    - Altera Artigo 14.º
+  - date: '2025-12-06'
+    amending: pt:dre:964514221:por
+    amending_title: Decreto-Lei n.º 126-B/2025
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 9.º-B
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/158/2009/p/cons/20251205/pt/html
+  oj: null
+  dre: '492428'
+  dre_path: /dr/detalhe/decreto-lei/158-2009-492428
+  internal: pt:dre:492428:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2009-492428
+  metadata_url: https://data.dre.pt/eli/dec-lei/158/2009/p/cons/20251205/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34517175
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34517175
+  retrieved_at: '2026-10-22T11:48:17Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e33a7642b04f508ee1d2084dc694062f57f92ab0d5fb9ad50de4e3661f5039c1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:48:17Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-158-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agrupamento Complementar de Empresas
+- Agrupamento Europeu de Interesse Económico
+- Empresa
+- Sociedade Comercial
+- Contabilidade
+- Multa
+- Comissão de Normalização Contabilística
+- Definição de Competências
+- Empresa Pública
+- Cooperativa
+- Banco de Portugal
+- Ilícito de MERA Ordenação Social
+- Instituto de Seguros de Portugal
+- Sistema de Normalização Contabilística
+- Normas Internacionais de Contabilidade
+- Plano Oficial de Contabilidade
+- Prestação de Contas
+- Pequenas e Médias Empresas
+- Regulamento CE
+- PME
+- CMVM
+- Normalização
+relationships:
+- type: amended_by
+  target: pt:dre:343473:por
+  label: Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/20-2010-343473
+  date: '2010-08-23'
+- type: amended_by
+  target: pt:dre:647296:por
+  label: Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-a-2011-647296
+  date: '2011-03-09'
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448
+  date: '2012-12-31'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: amended_by
+  target: pt:dre:220219336:por
+  label: Adita Artigo 11.º-A; Adita Artigo 11.º-B; Adita Artigo 11.º-C; Adita Artigo 11.º-D; Adita Artigo 11.º-E; Adita Artigo
+    11.º-F; Adita Artigo 11.º-G; Adita Artigo 11.º-H; Adita Artigo 11.º-I; Altera Artigo 2.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336
+  date: '2023-08-23'
+- type: amended_by
+  target: pt:dre:964514221:por
+  label: Altera Artigo 9.º; Altera Artigo 9.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2025-964514221
+  date: '2025-12-05'
+- type: cites
+  target: celex:31978L0660
+  label: null
+  source: http://data.europa.eu/eli/dir/1978/660/oj
+- type: cites
+  target: celex:31983L0349
+  label: null
+  source: http://data.europa.eu/eli/dir/1983/349/oj
+- type: cites
+  target: celex:31986L0365
+  label: null
+  source: http://data.europa.eu/eli/dir/1986/365/oj
+- type: cites
+  target: celex:31991L0674
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/674/oj
+- type: cites
+  target: celex:32001L0065
+  label: null
+  source: http://data.europa.eu/eli/dir/2001/65/oj
+- type: cites
+  target: celex:32002R1606
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/1606/oj
+- type: cites
+  target: celex:32003L0051
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/51/oj
+- type: cites
+  target: celex:32013L0034
+  label: null
+  source: null
+- type: cites
+  target: celex:32021L2101
+  label: null
+  source: null
+article_structure:
+  article_count: 30
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:48:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 158/2009
+
+O actual modelo nacional de normalização contabilística para as empresas comerciais e industriais e outras entidades foi instituído com a publicação do Decreto-Lei n.º 47/77, de 7 de Fevereiro, que aprovou o Plano Oficial de Contabilidade (POC) e criou a Comissão de Normalização Contabilística (CNC).
+
+O POC foi, entretanto, objecto de sucessivas alterações, essencialmente motivadas pela necessidade de adaptação do modelo contabilístico nacional a instrumentos jurídicos comunitários. Assim:
+
+A adesão de Portugal à Comunidade Económica Europeia, em 1986, implicou, em relação às matérias contabilísticas, a obrigatoriedade de ajustamento dos nossos normativos à Directiva n.º <a href="eurlex.asp?ano=1978&id=378L0660" title="Link para Directiva da Comunidade Europeia">78/660/CEE</a> (Quarta Directiva), pelo que foi publicado, em 1989, o Decreto-Lei n.º 410/89, de 21 de Novembro, que procedeu a diversos ajustamentos e melhorias ao Plano Oficial de Contabilidade de 1977.
+
+Dois anos mais tarde, foi publicado o Decreto-Lei n.º 238/91, de 2 de Julho, que transpôs para a ordem jurídica interna o tratamento contabilístico de consolidação de contas, em consonância com o estabelecido na Directiva n.º <a href="eurlex.asp?ano=1983&id=383L0349" title="Link para Directiva da Comunidade Europeia">83/349/CEE</a> (Sétima Directiva) e introduziu novos ajustamentos ao POC de 1989, que consistiram em algumas modificações e no aditamento dos capítulos 13 e 14, respeitantes a normas de consolidação de contas e demonstrações financeiras consolidadas, respectivamente.
+
+Outras alterações relevantes ao POC de 1989 foram introduzidas pelo Decreto-Lei n.º 44/99, de 12 de Fevereiro, que acolheu o sistema de inventário permanente e a demonstração dos resultados por funções, e pelo Decreto-Lei n.º 79/2003, de 23 de Abril, que introduziu a demonstração dos fluxos de caixa, pelo Decreto-Lei n.º 88/2004, de 20 de Abril, que estabeleceu as condições de aplicação do justo valor, transpondo para a ordem jurídica nacional a Directiva n.º <a href="eurlex.asp?ano=2001&id=301L0065" title="Link para Directiva da Comunidade Europeia">2001/65/CE</a>, do Parlamento Europeu e do Conselho, de 27 de Setembro.
+
+O Decreto-Lei n.º 35/2005, de 17 de Fevereiro, transpôs para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0051" title="Link para Directiva da Comunidade Europeia">2003/51/CE</a>, do Parlamento Europeu e do Conselho, de 18 de Junho, relativa à modernização das directivas contabilísticas, que alterou as Directivas n.os <a href="eurlex.asp?ano=1978&id=378L0660" title="Link para Directiva da Comunidade Europeia">78/660/CEE</a>, <a href="eurlex.asp?ano=1983&id=383L0349" title="Link para Directiva da Comunidade Europeia">83/349/CEE</a>, <a href="eurlex.asp?ano=1986&id=386L0365" title="Link para Directiva da Comunidade Europeia">86/365/CEE</a> e <a href="eurlex.asp?ano=1991&id=391L0674" title="Link para Directiva da Comunidade Europeia">91/674/CEE</a>, do Conselho, relativas às contas anuais e às contas consolidadas de certas formas de sociedades, bancos e outras instituições financeiras e empresas de seguros visando assegurar a coerência entre a legislação contabilística comunitária e as normas internacionais de contabilidade (NIC), em vigor desde 1 de Maio de 2002. Através deste decreto-lei, o Estado Português exerceu a opção prevista no artigo 5.º do Regulamento (CE) n.º <a href="eurlex.asp?ano=2002&id=302R1606" title="Link para Regulamento da Comunidade Europeia">1606/2002</a>, do Parlamento Europeu e do Conselho, de 19 de Julho, com respeito à aplicação das normas internacionais de contabilidade.
+
+No presente decreto-lei reafirma-se tal opção, agora no quadro do Sistema de Normalização Contabilística.
+
+O Regulamento (CE) n.º <a href="eurlex.asp?ano=2002&id=302R1606" title="Link para Regulamento da Comunidade Europeia">1606/2002</a> veio estabelecer a adopção e a utilização, na Comunidade, das normas internacionais de contabilidade - International Accounting Standards (IAS) e International Financial Reporting Standards (IFRS) e interpretações conexas - International Financial Reporting Interpretations Committee (SIC/IFRIC), dando, assim, resposta às crescentes necessidades em matéria de relato financeiro no contexto das profundas alterações ocorridas nos últimos anos na conjuntura económica e financeira e que se traduzem, designadamente, por:
+
+Concentração de actividades empresariais a nível nacional, europeu e mundial;
+
+Desenvolvimento de grandes espaços económicos - «União Europeia», «Nafta», «Mercosul», «Sudeste Asiático»;
+
+Regionalização e globalização dos mercados financeiros e das bolsas de valores;
+
+Liberalização do comércio e globalização da economia;
+
+Internacionalização das empresas, criação de subsidiárias, fusões, aquisições, empreendimentos conjuntos e alianças estratégicas.
+
+Assim, e por força da orientação estratégica em matéria contabilística da União Europeia esboçada com a apresentação, pela Comissão Europeia, em Novembro de 1995, do documento «Harmonização contabilística - uma nova estratégia relativamente à harmonização internacional» e do subsequente impulso político dado no Conselho de Lisboa, em Março de 2000, que estabeleceu a criação de serviços financeiros plenamente integrados, a União Europeia (UE) decidiu adoptar as normas internacionais de contabilidade do International Accounting Standards Board (IASB).
+
+Tendo desempenhado durante anos um papel fundamental no panorama nacional, o POC tem-se revelado, desde há algum tempo, insuficiente para as entidades com maiores exigências qualitativas de relato financeiro, para além de carecer de revisão técnica no que concerne, nomeadamente, a aspectos conceptuais, critérios de reconhecimento e mensuração, conceito de resultados, bem como em relação aos modelos das demonstrações financeiras individuais e consolidadas.
+
+Entende-se, assim, facilmente, que à luz das profundas alterações verificadas nos últimos 25 anos, os princípios contabilísticos geralmente aceites em Portugal, que nos domínios conceptual e instrumental transitam de 1977, já não respondem adequadamente às exigências contemporâneas e que por, conseguinte, importa proceder à sua modificação.
+
+Adicionalmente, o acompanhamento da dinâmica de adopção, pela UE, das normas internacionais de contabilidade, tendo em vista a sua absorção no quadro contabilístico nacional, que se pretende actualizado, apela a que se adoptem procedimentos normativos suficientemente flexíveis.
+
+Assim, a normalização contabilística nacional deverá aproximar-se, tanto quanto possível, dos novos padrões comunitários, por forma a proporcionar ao nosso país o alinhamento com as directivas e regulamentos em matéria contabilística da UE, sem ignorar, porém, as características e necessidades específicas do tecido empresarial português.
+
+Consequentemente, procede-se à revogação do POC e legislação complementar criando-se o Sistema de Normalização Contabilística (SNC), que vem na linha da modernização contabilística ocorrida na UE que é constituído pelos elementos fundamentais que se enunciam em seguida.
+
+A «Estrutura conceptual», que segue de muito perto a «Estrutura conceptual de preparação e apresentação de demonstrações financeiras» do IASB, assumida e publicada pela UE. Trata-se de um conjunto de conceitos contabilísticos estruturantes que, não constituindo uma norma propriamente dita, se assume como referencial que subjaz a todo o Sistema.
+
+As «Bases para a apresentação de demonstrações financeiras», nas quais se enunciam as regras sobre o que constitui e a que princípios essenciais deve obedecer um conjunto completo de demonstrações financeiras.
+
+Os «Modelos de demonstrações financeiras», nos quais se consagram a necessidade de existência de formatos padronizados, mas flexíveis, para as demonstrações de balanço, de resultados (por funções e por naturezas), de alterações no capital próprio e dos fluxos de caixa, assim como um modelo orientador para o anexo.
+
+O «Código de contas», traduzido numa estrutura codificada e uniforme de contas, que visa acautelar as necessidades dos distintos utentes, privados e públicos, e alimentar o desenvolvimento de plataformas e bases de dados particulares e oficiais.
+
+As «Normas contabilísticas e de relato financeiro» (NCRF), núcleo central do SNC, adaptadas a partir das normas internacionais de contabilidade adoptadas pela UE, cada uma delas constituindo um instrumento de normalização onde, de modo desenvolvido, se prescrevem os vários tratamentos técnicos a adoptar em matéria de reconhecimento, de mensuração, de apresentação e de divulgação das realidades económicas e financeiras das entidades.
+
+A «Norma contabilística e de relato financeiro para pequenas entidades» (NCRF-PE), que, de forma unitária e simplificada, contempla os tratamentos de reconhecimento, de mensuração, de apresentação e de divulgação que, do cômputo dos consagrados nas NCRF, são considerados como os pertinentes e mínimos a ser adoptados por entidades cuja dimensão não ultrapasse dois dos três limites seguintes: a) total do balanço: (euro) 500 000; b) total de vendas líquidas e outros rendimentos: (euro) 1 000 000; c) número de trabalhadores empregados em média durante o exercício: 20.
+
+Conceptualmente, o SNC caracteriza-se pelas linhas mestras essenciais adiante explicitadas.
+
+Trata-se de um corpo de normas coerente com as normas internacionais de contabilidade em vigor na UE e, por outro lado, com as actuais versões das quarta e sétima directivas comunitárias sobre contas, respectivamente, de entidades individuais e grupos de sociedades.
+
+Em conexão com o primeiro aspecto indicado, o SNC é um instrumento moderno ao serviço daquelas empresas portuguesas que, não tendo valores mobiliários admitidos à negociação num mercado regulamentado, têm uma dimensão, uma estrutura de capitais ou uma presença em determinadas actividades que as colocam em pleno ambiente globalizado de negócios, parceiros e fontes de financiamento. Com capitais públicos ou privados, existe um significativo universo de grandes e médias empresas e grupos nacionais que carecem de produzir e divulgar demonstrações financeiras adequadas aos vários mercados onde operam ou onde se financiam.
+
+Tendo em conta as entidades a que se destina o SNC, no processo de adaptação das normas internacionais de contabilidade houve a preocupação de, sem distorcer a homogeneidade, a qualidade e a coerência globais, eliminar tratamentos pouco ou nada aplicáveis à realidade nacional e evitar níveis de exigência informativa porventura excessivos.
+
+Por outro lado, é criada uma norma especificamente destinada às entidades de menor dimensão que, assente na mesma filosofia de conceitos e orientada pelos mesmos requisitos técnicos de referência, permite delimitar e simplificar num único documento, mais acessível e de mais fácil aplicação, as exigências contabilísticas mais comuns a esse universo.
+
+Assegura-se, assim, inteira compatibilidade e coerência entre os normativos aplicáveis aos seguintes três grandes grupos de entidades que operam em Portugal:
+
+Empresas com valores cotados que aplicam directamente as normas internacionais de contabilidade;
+
+Restantes empresas dos sectores não financeiros, que aplicarão as NCRF;
+
+Empresas de menor dimensão que aplicarão a NCRF-PE.
+
+É criada, deste modo, uma estrutura que pretende assegurar a coerência horizontal entre as normas, e, quanto às entidades a que se aplica, viabilizar uma fácil comunicabilidade vertical sempre que alterações na sua dimensão impliquem diferentes exigências de relato.
+
+Com a preocupação de integrar no SNC a problemática da consolidação de contas, inclui-se no presente decreto-lei a respectiva disciplina jurídica e normativa, estabelecendo os requisitos relativos à obrigatoriedade de certas entidades terem de preparar e apresentar demonstrações financeiras consolidadas, bem como à sua dispensa e exclusão.
+
+Foi ouvida a Comissão de Normalização Contabilística.
+
+Foram ouvidos, a título facultativo, a Comissão do Mercado dos Valores Mobiliários, o Banco de Portugal e o Instituto de Seguros de Portugal.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Declaração de Rectificação n.º 67-B/2009 - Diário da República n.º 177/2009, 1º Suplemento, Série I de 2009-09-11](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/67-b-2009-239469) No sumário do presente diploma deve ler-se «(...) e revoga o Plano Oficial de Contabilidade, aprovado pelo Decreto-Lei n.º 410/89, de 21 de Novembro.».
+
+###### Artigo 1.º — Objecto
+
+É aprovado o Sistema de Normalização Contabilística, doravante designado por SNC, anexo ao presente decreto-lei e que dele faz parte integrante.
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente decreto-lei, considera-se:
+
+a) «Controlo» o poder de gerir as políticas financeiras e operacionais de uma entidade ou de uma actividade económica a fim de obter benefícios da mesma;
+
+b) 'Demonstrações financeiras consolidadas' as demonstrações financeiras de um grupo, elaboradas pela empresa-mãe, nas quais os ativos, os passivos, os capitais próprios, os rendimentos e os gastos são apresentados como se respeitassem a uma única entidade económica;
+
+c) «Empresa mãe» uma entidade que detém uma ou mais subsidiárias;
+
+d) 'Empresa-mãe final' a entidade que elabora as demonstrações financeiras consolidadas do maior conjunto de entidades;
+
+e) 'Empresa associada', uma empresa na qual outra empresa tem uma participação e sobre cuja gestão política e financeira essa outra empresa exerce uma influência significativa, a qual se presume sempre que essa outra empresa detenha 20 % ou mais dos direitos de voto dos acionistas ou sócios da primeira;
+
+f) 'Empresa autónoma' uma empresa que não faz parte de um grupo tal como definido na alínea i);
+
+g) 'Empresas coligadas', duas ou mais empresas em relação de grupo;
+
+h) 'Entidades de interesse público', as entidades como tal definidas no artigo 2.º do Decreto-Lei n.º 225/2008, de 20 de novembro, alterado pelo Decreto-Lei n.º 71/2010, de 18 de junho;
+
+i) 'Grupo', uma empresa-mãe e todas as suas empresas subsidiárias;
+
+j) 'Jurisdição fiscal' uma jurisdição estatal ou não estatal, autónoma em matéria fiscal no que diz respeito ao imposto sobre o rendimento das empresas;
+
+k) 'Relatório de informações relativas ao imposto sobre o rendimento' relatório com o conteúdo previsto no artigo 11.º-E;
+
+l) 'Subsidiária', uma entidade, ainda que não constituída sob a forma de sociedade, que é controlada por uma outra entidade, designada por empresa-mãe, incluindo qualquer subsidiária da empresa-mãe de que essa empresa depende em última instância;
+
+m) 'Volume de negócios líquido', o montante que resulta da venda dos produtos e da prestação de serviços, após dedução dos descontos e abatimentos sobre vendas, do imposto sobre o valor acrescentado e de outros impostos diretamente ligados ao volume de negócios.
+
+2 - Para efeitos do disposto no presente decreto-lei, tratando-se de entidade para a qual o volume de negócios líquido, tal como definido na alínea m) do número anterior, não seja por si só significativo da atividade desenvolvida, o que se presume quando o volume de negócios líquido for inferior a 75/prct. do total dos rendimentos da entidade, devem-lhe ser adicionados ainda os rendimentos da entidade provenientes de outras fontes, desde que os mesmos resultem de transações realizadas com terceiros no âmbito da atividade operacional da entidade.
+
+3 - Para efeitos dos artigos 11.º-A a 11.º-C, entende-se por 'rédito':
+
+a) O 'volume de negócios líquido', tal como definido nos números anteriores, para as entidades que não aplicam as normas internacionais de contabilidade adotadas com base no Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002; ou
+
+b) O 'rédito', tal como definido na estrutura conceptual de relato financeiro, ou na aceção desta, com base na qual são elaboradas as demonstrações financeiras, para as restantes entidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 3.º — Âmbito
+
+1 - Sem prejuízo do disposto nos artigos 4.º e 5.º, o SNC é obrigatoriamente aplicável às seguintes entidades:
+
+a) Entidades abrangidas pelo Código das Sociedades Comerciais;
+
+b) Empresas individuais reguladas pelo Código Comercial;
+
+c) Estabelecimentos individuais de responsabilidade limitada;
+
+d) Empresas públicas que não se encontrem abrangidos pelo Sistema de Normalização Contabilística para as Administrações Públicas;
+
+e) Cooperativas, exceto aquelas cujo ramo específico não permita sob qualquer forma, direta ou indireta, a distribuição de excedentes, designadamente as cooperativas de solidariedade social, previstas na alínea m) do n.º 1 do artigo 4.º da Lei n.º 51/96, de 7 de setembro, alterado pelos Decretos-Leis n.os 343/98, de 6 de novembro, 131/99, de 21 de abril, 108/2001, de 6 de abril, 204/2004, de 19 de agosto, e 76-A/2006, de 29 de março, equiparadas a instituições particulares de solidariedade social e, nessa qualidade, registadas na Direção-Geral da Segurança Social, relativamente às quais a aplicação do SNC opera nos termos da alínea g);
+
+f) Agrupamentos complementares de empresas e agrupamentos europeus de interesse económico.
+
+g) Entidades do setor não lucrativo (ESNL), entendendo-se como tal as entidades que prossigam a título principal uma atividade sem fins lucrativos e que não possam distribuir aos seus membros ou contribuintes qualquer ganho económico ou financeiro direto, designadamente associações, fundações e pessoas coletivas públicas de tipo associativo, devendo a aplicação do SNC a estas entidades sofrer as adaptações decorrentes da sua especificidade.
+
+2 - (Revogado.)
+
+3 - O disposto nos artigos 6.º a 8.º não prejudica o regime constante do Decreto-Lei n.º 147/94, de 25 de Maio, e não se aplica às entidades abrangidas pelo n.º 1 do artigo 2.º do Decreto-Lei n.º 36/92, de 28 de Março.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 192/2015 - Diário da República n.º 178/2015, Série I de 2015-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 257.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01
+
+###### Artigo 4.º — Aplicação das normas internacionais de contabilidade
+
+1 - As entidades, de entre as referidas no artigo anterior, cujos valores mobiliários estejam admitidos à negociação num mercado regulamentado devem, nos termos do artigo 4.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002, elaborar as suas demonstrações financeiras consolidadas em conformidade com as normas internacionais de contabilidade adotadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002.
+
+2 - As entidades, de entre as referidas no artigo anterior, que não sejam abrangidas pelo disposto no número anterior, podem optar por elaborar as respetivas demonstrações financeiras consolidadas em conformidade com as normas internacionais de contabilidade adotadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002, desde que as suas demonstrações financeiras sejam objeto de certificação legal das demonstrações financeiras.
+
+3 - As entidades, de entre as referidas no artigo anterior, que estejam incluídas no âmbito da consolidação de entidades abrangidas pelo disposto no n.º 1 podem elaborar as respetivas demonstrações financeiras individuais em conformidade com as normas internacionais de contabilidade adotadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002, ficando as suas demonstrações financeiras sujeitas a certificação legal das demonstrações financeiras.
+
+4 - As entidades, de entre as referidas no artigo anterior, mas que estejam incluídas no âmbito da consolidação de entidades abrangidas pelo n.º 2, podem optar por elaborar as respetivas demonstrações financeiras individuais em conformidade com as normas internacionais de contabilidade adotadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002, ficando as suas demonstrações financeiras sujeitas a certificação legal das demonstrações financeiras.
+
+5 - A possibilidade referida no n.º 3 é extensível às entidades subsidiárias de uma empresa-mãe regida pela legislação de um Estado membro da União Europeia cujas demonstrações financeiras sejam consolidadas nos termos dos artigos 4.º e 5.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002.
+
+6 - As opções referidas nos n.os 2 a 5 devem ser globais, mantendo-se por um mínimo de três exercícios.
+
+7 - O período referido no número anterior não se aplica às entidades que, tendo optado pela aplicação de normas internacionais de contabilidade, passem a estar incluídas no âmbito da consolidação de entidades que não as adoptem.
+
+8 - A aplicação das normas internacionais de contabilidade a que se refere o presente artigo não prejudica que, para além das informações e divulgações inerentes a estas normas, as entidades abrangidas sejam obrigadas a divulgar outras informações previstas na legislação nacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 67-B/2009 - Diário da República n.º 177/2009, 1º Suplemento, Série I de 2009-09-11](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/67-b-2009-239469), produz efeitos a partir de 2010-01-01
+
+###### Artigo 5.º — Competência das entidades de supervisão do sector financeiro
+
+1 - Sem prejuízo do disposto no n.º 1 do artigo 4.º, é da competência:
+
+a) Do Banco de Portugal e da Autoridade de Supervisão de Seguros e Fundos de Pensões a definição do âmbito subjetivo de aplicação das normas internacionais de contabilidade, bem como a definição das normas contabilísticas aplicáveis às demonstrações financeiras consolidadas, relativamente às entidades sujeitas à respetiva supervisão;
+
+b) Da Comissão do Mercado de Valores Mobiliários a definição do âmbito subjectivo de aplicação das normas internacionais de contabilidade relativamente às entidades sujeitas à respectiva supervisão.
+
+2 - O disposto no presente decreto-lei não prejudica a competência do Banco de Portugal e da Autoridade de Supervisão de Seguros e Fundos de Pensões para definir:
+
+a) As normas contabilísticas aplicáveis às demonstrações financeiras individuais das entidades sujeitas à respetiva supervisão;
+
+b) Os requisitos prudenciais aplicáveis às entidades sujeitas à respectiva supervisão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 6.º — Obrigatoriedade de elaborar demonstrações financeiras consolidadas
+
+1 - Qualquer empresa-mãe sujeita ao direito nacional é obrigada a elaborar demonstrações financeiras consolidadas do grupo constituído por ela própria e por todas as subsidiárias, independentemente do local onde esteja situada a sede estatutária destas, sobre as quais:
+
+a) Independentemente da titularidade do capital, se verifique que, em alternativa:
+
+i) Possa exercer, ou exerça efectivamente, influência dominante ou controlo;
+
+ii) Exerça a gestão como se as duas constituíssem uma única entidade;
+
+b) Sendo titular de capital, quando ocorra uma das seguintes situações:
+
+i) Tenha a maioria dos direitos de voto, excepto se for demonstrado que esses direitos não conferem o controlo;
+
+ii) Tenha o direito de designar ou de destituir a maioria dos titulares do órgão de gestão de uma entidade com poderes para gerir as políticas financeiras e operacionais dessa entidade;
+
+iii) Exerça uma influência dominante sobre uma entidade, por força de um contrato celebrado com esta ou de uma outra cláusula do contrato social desta;
+
+iv) Detenha pelo menos 20 % dos direitos de voto e a maioria dos titulares do órgão de gestão de uma entidade com poderes para gerir as políticas financeiras e operacionais dessa entidade, que tenham estado em funções durante o exercício a que se reportam as demonstrações financeiras consolidadas, bem como, no exercício precedente e até ao momento em que estas sejam elaboradas, tenham sido exclusivamente designados como consequência do exercício dos seus direitos de voto;
+
+v) Disponha, por si só ou por força de um acordo com outros titulares do capital desta entidade, da maioria dos direitos de voto dos titulares do capital da mesma.
+
+2 - Para efeitos do disposto nas subalíneas i), ii), iv) e v) da alínea b) do número anterior, aos direitos de voto, de designação e de destituição da empresa mãe devem ser adicionados os direitos de qualquer outra subsidiária e os das subsidiárias desta, bem como os de qualquer pessoa agindo em seu próprio nome, mas por conta da empresa mãe ou de qualquer outra subsidiária.
+
+3 - Para os mesmos efeitos, aos direitos indicados no número anterior devem ser deduzidos os direitos relativos:
+
+a) Às partes de capital detidas por conta de uma entidade que não seja a empresa mãe ou uma subsidiária; ou
+
+b) Às partes de capital detidas como garantia, desde que os direitos em causa sejam exercidos em conformidade com as instruções recebidas ou que a posse destas partes seja para a entidade detentora uma operação decorrente das suas actividades normais, em matéria de empréstimos, com a condição de que os direitos de voto sejam exercidos no interesse do prestador da garantia.
+
+4 - Ainda para os efeitos do disposto nas subalíneas i), iv) e v) da alínea b) do n.º 1, à totalidade dos direitos de voto dos titulares do capital da entidade subsidiária devem deduzir-se os direitos de voto relativos às partes de capital detidas por essa entidade, por uma subsidiária desta ou por uma pessoa que actue no seu próprio nome, mas por conta destas entidades.
+
+5 - O disposto na subalínea iv) da alínea b) do n.º 1 não é aplicável caso um terceiro tenha, em relação à mesma entidade, os direitos a que se referem as subalíneas i), ii) e iii) da mesma alínea do mesmo número.
+
+6 - As entidades do setor não lucrativo ficam obrigadas a elaborar demonstrações financeiras consolidadas nos termos do presente artigo, com as necessárias adaptações.
+
+7 - Para efeitos do disposto no número anterior, a existência de controlo entre entidades deve ser analisada casuisticamente, em função das circunstâncias concretas, tomando por referência a condição de poder e a condição de resultado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 7.º — Dispensa da elaboração de demonstrações financeiras consolidadas
+
+1 - Uma empresa-mãe de um pequeno grupo, tal como definido no artigo 9.º-B, fica dispensada de elaborar as demonstrações financeiras consolidadas.
+
+2 - (Revogado.)
+
+3 - Não obstante o disposto no n.º 1, é ainda dispensada da obrigação de elaborar demonstrações financeiras consolidadas qualquer empresa-mãe que seja também uma subsidiária, incluindo uma entidade de interesse público, salvo quando esteja abrangida pela alínea a) do artigo 2.º do Decreto-Lei n.º 225/2008, de 20 de novembro, alterado pelo Decreto-Lei n.º 71/2010, de 18 de junho, quando a sua própria empresa-mãe esteja subordinada à legislação de um Estado membro da União Europeia e:
+
+a) Seja titular de todas as partes de capital da entidade dispensada, não sendo tidas em consideração as partes de capital desta entidade detidas por membro dos seus órgãos de administração, de direcção, de gerência ou de fiscalização, por força de uma obrigação legal ou de cláusulas do contrato de sociedade; ou
+
+b) Detenha 90 %, ou mais, das partes de capital da entidade dispensada da obrigação e os restantes titulares do capital desta entidade não tenham solicitado a elaboração de demonstrações financeiras consolidadas pelo menos seis meses antes do fim do período.
+
+4 - A dispensa referida no número anterior depende da verificação das seguintes condições:
+
+a) A entidade dispensada, bem como todas as suas subsidiárias, serem consolidadas nas demonstrações financeiras de um conjunto mais vasto de entidades cuja empresa mãe esteja sujeita à legislação de um Estado membro da União Europeia;
+
+b) As demonstrações financeiras consolidadas referidas na alínea anterior bem como o relatório consolidado de gestão do conjunto mais vasto de entidades serem elaborados pela empresa-mãe deste conjunto e sujeitos a revisão legal segundo a legislação do Estado membro a que ela esteja sujeita;
+
+c) As demonstrações financeiras consolidadas referidas na alínea a) e o relatório consolidado de gestão referido na alínea anterior, bem como o documento de revisão legal dessas contas, serem objecto de publicidade por parte da empresa dispensada, em língua portuguesa;
+
+5 - As dispensas referidas nos números anteriores não se aplicam caso uma das entidades a consolidar seja uma sociedade cujos valores mobiliários tenham sido admitidos ou estejam em processo de vir a ser admitidos à negociação num mercado regulamentado de qualquer Estado membro da União Europeia ou uma entidade de interesse público.
+
+6 - É ainda dispensada de elaborar demonstrações financeiras consolidadas:
+
+a) A empresa-mãe, incluindo uma entidade de interesse público, que apenas possua subsidiárias que não sejam materialmente relevantes para que as demonstrações financeiras reflitam verdadeira e apropriadamente a posição financeira, do desempenho financeiro e dos fluxos de caixa do conjunto das entidades compreendidas na consolidação, tanto individualmente quanto no seu conjunto;
+
+b) A empresa-mãe, incluindo uma entidade de interesse público, em que todas as suas subsidiárias possam ser excluídas da consolidação por força do artigo seguinte.
+
+7 - A entidade mãe do setor não lucrativo fica dispensada de elaborar as demonstrações financeiras consolidadas quando, na data do seu balanço, o conjunto das entidades a consolidar, com base nas suas últimas demonstrações financeiras individuais aprovadas, não ultrapasse dois dos três limites referidos no artigo 9.º-B.
+
+8 - À dispensa de elaboração de demonstrações financeiras consolidadas pelas entidades do setor não lucrativo aplica-se ainda o disposto nos n.os 2 a 6, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 36-A/2011 - Diário da República n.º 48/2011, 1º Suplemento, Série I de 2011-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-a-2011-647296), em vigor a partir de 2011-03-10
+
+###### Artigo 8.º — Exclusões da consolidação
+
+1 - Uma entidade pode ser excluída da consolidação quando não seja materialmente relevante para a realização do objectivo de as demonstrações financeiras darem uma imagem verdadeira e apropriada da posição financeira, do desempenho financeiro e dos fluxos de caixa do conjunto das entidades compreendidas na consolidação.
+
+2 - Quando duas ou mais entidades estejam nas circunstâncias referidas no número anterior, mas sejam, no seu conjunto, materialmente relevantes para o mesmo objectivo devem ser incluídas na consolidação.
+
+3 - Uma entidade pode também ser excluída da consolidação sempre que:
+
+a) Restrições severas e duradouras prejudiquem substancialmente o exercício pela empresa mãe dos seus direitos sobre o património ou a gestão dessa entidade;
+
+b) As partes de capital desta entidade tenham sido adquiridas exclusivamente tendo em vista a sua cessão posterior, e enquanto se mantenham classificadas como detidas para venda.
+
+c) Se trate de um caso em que as informações necessárias para elaborar as demonstrações financeiras consolidadas não podem ser obtidas sem custos desproporcionados ou sem demora injustificada.
+
+4 - Uma subsidiária não é excluída da consolidação pelo simples facto de as suas actividades empresariais serem dissemelhantes das actividades das outras entidades do grupo.
+
+5 - O disposto nos números anteriores não se aplica quando as demonstrações financeiras consolidadas sejam preparadas de acordo com as normas internacionais de contabilidade adoptadas pela UE.
+
+6 - Nos casos previstos na alínea c) do n.º 3, a entidade excluída da consolidação deve estar em condições de comprovar os factos aí previstos, bem como a realização de diligências para a obtenção das informações aí referidas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 36-A/2011 - Diário da República n.º 48/2011, 1º Suplemento, Série I de 2011-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36-a-2011-647296), em vigor a partir de 2011-03-10
+
+###### Artigo 9.º — Categorias de entidades
+
+1 - Consideram-se microentidades aquelas que, de entre as referidas no artigo 3.º, à data do balanço, não ultrapassem dois dos três limites seguintes:
+
+a) Total do balanço: (euro) 450 000;
+
+b) Volume de negócios líquido: (euro) 900 000;
+
+c) Número médio de empregados durante o período: 10.
+
+2 - Consideram-se pequenas entidades aquelas que, de entre as referidas no artigo 3.º, excluindo as situações referidas no número anterior, à data do balanço, não ultrapassem dois dos três limites seguintes:
+
+a) Total do balanço: (euro) 5 000 000;
+
+b) Volume de negócios líquido: (euro) 10 000 000;
+
+c) Número médio de empregados durante o período: 50.
+
+3 - Consideram-se médias entidades aquelas que, de entre as referidas no artigo 3.º, excluindo as situações referidas nos números anteriores, à data do balanço, não ultrapassem dois dos três limites seguintes:
+
+a) Total do balanço: (euro) 25 000 000;
+
+b) Volume de negócios líquido: (euro) 50 000 000;
+
+c) Número médio de empregados durante o período: 250.
+
+4 - Grandes entidades são as entidades que, à data do balanço, ultrapassem dois dos três limites referidos no número anterior.
+
+5 - Para efeitos do presente decreto-lei, as entidades de interesse público são consideradas grandes entidades, independentemente do respetivo volume de negócios líquido, do total do balanço ou do número médio de empregados do período.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 126-B/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2025-964514221) As alterações são aplicáveis às demonstrações financeiras relativas a exercícios com início em, ou após, 1 de janeiro de 2026.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-B/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2025-964514221), em vigor a partir de 2025-12-06
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 20/2010 - Diário da República n.º 163/2010, Série I de 2010-08-23](https://diariodarepublica.pt/dr/detalhe/lei/20-2010-343473), em vigor a partir de 2010-08-24
+
+###### Artigo 9.º-A — Forma de apuramento das categorias de entidades
+
+Os limites previstos no artigo anterior reportam-se ao período imediatamente anterior, devendo, quando aplicável, observar-se as seguintes regras:
+
+a) Sempre que em dois períodos consecutivos imediatamente anteriores sejam ultrapassados dois dos três limites enunciados nos n.os 1 a 3 do artigo anterior, as entidades deixam de poder ser consideradas na respetiva categoria, a partir do terceiro período, inclusive, para efeitos do presente decreto-lei;
+
+b) As entidades podem novamente ser consideradas nessa categoria, para efeitos do presente decreto-lei, caso deixem de ultrapassar dois dos três limites enunciados para a respetiva categoria nos dois períodos consecutivos imediatamente anteriores.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 9.º-B — Grupos
+
+1 - Pequenos grupos são grupos constituídos pela empresa-mãe e pelas empresas subsidiárias a incluir na consolidação e que, em base consolidada e à data do balanço da empresa-mãe, não ultrapassem dois dos três limites seguintes:
+
+a) Total do balanço: (euro) 7 500 000;
+
+b) Volume de negócios líquido: (euro) 15 000 000;
+
+c) Número médio de empregados durante o período: 50.
+
+2 - Grupos médios são grupos que não sejam pequenos grupos e que sejam constituídos pela empresa-mãe e pelas empresas subsidiárias a incluir na consolidação e que, em base consolidada e à data do balanço da empresa-mãe, não ultrapassem dois dos três limites seguintes:
+
+a) Total do balanço: (euro) 25 000 000;
+
+b) Volume de negócios líquido: (euro) 50 000 000;
+
+c) Número médio de empregados durante o período: 250.
+
+3 - Grandes grupos são grupos constituídos pela empresa-mãe e pelas empresas subsidiárias a incluir na consolidação e que, em base consolidada e à data do balanço da empresa-mãe, ultrapassem dois dos três limites referidos no número anterior.
+
+4 - Os limites do total do balanço e do volume de negócios líquido são majorados em 20 % se:
+
+a) Os valores contabilísticos das ações ou quotas das entidades incluídas na consolidação não forem compensados pela fração que representam do capital e reservas dessas entidades; e
+
+b) Se não forem eliminados das demonstrações financeiras consolidadas as dívidas e os créditos entre as entidades, os gastos e rendimentos relativos às operações efetuadas entre entidades e os resultados de operações efetuadas entre entidades, quando incluídos na quantia escriturada do ativo.
+
+5 - Os limites previstos no presente artigo operam nos termos previstos no artigo anterior, com as devidas adaptações.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 126-B/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2025-964514221) As alterações são aplicáveis às demonstrações financeiras relativas a exercícios com início em, ou após, 1 de janeiro de 2026.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 126-B/2025 - Diário da República n.º 235/2025, Suplemento, Série I de 2025-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-b-2025-964514221), em vigor a partir de 2025-12-06
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 9.º-C — Pequenas entidades
+
+A 'norma contabilística e de relato financeiro para pequenas entidades' (NCRF-PE), compreendida no SNC, apenas pode ser adotada, em alternativa ao restante normativo, pelas entidades a que se refere o n.º 2 do artigo 9.º
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 9.º-D — Microentidades
+
+1 - As entidades a que se refere o n.º 1 do artigo 9.º devem aplicar a 'norma Contabilística para Microentidades' (NC-ME), compreendida no SNC.
+
+2 - Sem prejuízo do disposto no número anterior, as entidades aí referidas podem optar pela aplicação das 'normas Contabilísticas e de Relato Financeiro' (NCRF) ou da NCRF-PE, devendo tal opção ser identificada na declaração a que se refere a alínea b) do n.º 1 do artigo 117.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 9.º-E — Entidades do setor não lucrativo
+
+Às entidades do setor não lucrativo aplica-se a Norma contabilística e de relato financeiro para entidades do setor não lucrativo (NCRF-ESNL), podendo estas entidades optar pela aplicação do conjunto das normas contabilísticas e de relato financeiro compreendidas no SNC, com as necessárias adaptações, ou pela aplicação das normas internacionais de contabilidade adotadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002, desde que observado o disposto no artigo 4.º.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 10.º — Dispensa de aplicação
+
+1 - Ficam dispensadas do disposto no artigo 3.º as pessoas singulares que, exercendo a título individual qualquer atividade comercial, industrial ou agrícola, não realizem na média dos últimos três anos um volume de negócios líquido superior a (euro) 200 000.
+
+2 - Ficam dispensadas do disposto no artigo 3.º as entidades do setor não lucrativo cujo volume de negócios líquido não exceda (euro) 150 000 em nenhum dos dois períodos anteriores, salvo quando integrem o perímetro de consolidação de uma entidade que apresente demonstrações financeiras consolidadas ou estejam obrigadas à apresentação de qualquer das demonstrações financeiras referidas no n.º 1 do artigo seguinte, por disposição legal ou estatutária ou por exigência das entidades públicas financiadoras.
+
+3 - No período do início de atividade, os limites referidos nos números anteriores reportam-se ao valor anualizado estimado.
+
+4 - As entidades do setor não lucrativo dispensadas da aplicação do SNC, nos termos do disposto nos números anteriores, e que não optem pela sua aplicação ficam obrigadas à prestação de contas em regime de caixa.
+
+5 - Cessa a dispensa a que se referem os n.os 1 e 2 quando forem ultrapassados os limites neles referidos, ficando a entidade obrigada a partir do período seguinte, inclusive, a aplicar o SNC.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+> Alterado pelo/a Artigo 179.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 11.º — Demonstrações financeiras
+
+1 - As entidades sujeitas ao SNC são obrigadas a apresentar as seguintes demonstrações financeiras:
+
+a) Balanço;
+
+b) Demonstração dos resultados por naturezas;
+
+c) Demonstração das alterações no capital próprio;
+
+d) Demonstração dos fluxos de caixa pelo método directo;
+
+e) Anexo.
+
+2 - Adicionalmente, pode ser apresentada uma demonstração dos resultados por funções.
+
+3 - As entidades a que se referem os n.os 1 e 2 do artigo 9.º são dispensadas de apresentar a demonstração das alterações no capital próprio e a demonstração dos fluxos de caixa, podendo apresentar modelos reduzidos relativamente às restantes demonstrações financeiras.
+
+4 - As entidades a que se refere o n.º 1 do artigo 9.º são dispensadas de apresentar o anexo a que se refere a alínea e) do n.º 1, desde que, quando aplicável, procedam à divulgação das seguintes informações no final do balanço:
+
+a) Montante total dos compromissos financeiros, garantias ou ativos e passivos contingentes que não estejam incluídos no balanço e uma indicação da natureza e forma das garantias reais que tenham sido prestadas e, separadamente, compromissos existentes em matéria de pensões, bem como compromissos face a empresas coligadas ou associadas;
+
+b) Montante dos adiantamentos e dos créditos concedidos aos membros dos órgãos de administração, de direção ou de supervisão, com indicação das taxas de juro, das condições principais e dos montantes eventualmente reembolsados, amortizados ou objeto de renúncia, assim como os compromissos assumidos em seu nome a título de garantias de qualquer natureza, com indicação do montante global para cada categoria;
+
+c) As informações referidas na alínea d) do n.º 5 do artigo 66.º do Código das Sociedades Comerciais, quando aplicável.
+
+5 - A demonstração a que se refere a alínea c) do n.º 1 não se aplica às entidades do setor não lucrativo, apresentando estas, por opção ou por exigência de entidades públicas financiadoras, uma demonstração das alterações nos fundos patrimoniais.
+
+6 - As entidades do setor não lucrativo obrigadas à apresentação de contas em regime de caixa nos termos do disposto no n.º 4 do artigo anterior divulgam a seguinte informação:
+
+a) Pagamentos e recebimentos;
+
+b) Património fixo;
+
+c) Direitos e compromissos futuros.
+
+7 - As entidades públicas financiadoras podem exigir às entidades do setor não lucrativo outras informações, designadamente para efeitos de controlo orçamental, devendo o conteúdo e a extensão da informação exigida restringir-se ao estritamente necessário para os efeitos pretendidos com a sua obtenção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 11.º-A — Empresa-mãe final e empresa autónoma
+
+1 - O relatório anual de informações relativas ao imposto sobre o rendimento é elaborado, publicado e tornado acessível pelas seguintes entidades:
+
+a) Empresa-mãe final, abrangida pelo âmbito de aplicação dos artigos 3.º, 4.º ou 5.º, que no período a que se reporta o relatório e no período anterior tenha um rédito consolidado, à data do seu balanço, tal como refletido nas suas demonstrações financeiras consolidadas, igual ou superior a (euro) 750 000 000;
+
+b) Empresa autónoma, abrangida pelo âmbito de aplicação dos artigos 3.º, 4.º ou 5.º, que no período a que se reporta o relatório e no período anterior tenha um rédito, à data do seu balanço, tal como refletido nas suas demonstrações financeiras individuais, igual ou superior a (euro) 750 000 000.
+
+2 - A obrigação prevista no número anterior não é aplicável:
+
+a) A uma empresa autónoma ou a uma empresa-mãe final e respetivas subsidiárias quando estas empresas, incluindo as respetivas sucursais, estejam estabelecidas, ou tenham uma instalação fixa ou uma representação permanente, apenas em Portugal e em nenhuma outra jurisdição fiscal;
+
+b) A uma empresa autónoma ou a uma empresa-mãe final, quando estas empresas ou as suas subsidiárias divulguem um relatório, nos termos do artigo 2.º do Decreto-Lei n.º 157/2014, de 24 de outubro, que inclua informações sobre todas as suas atividades e, no caso da empresa-mãe final, sobre todas as atividades de todas as empresas subsidiárias incluídas nas demonstrações financeiras consolidadas.
+
+3 - Quando no período a que se reportaria o relatório e no período anterior o rédito for inferior a (euro) 750 000 000, as entidades referidas no n.º 1 deixam de estar sujeitas à obrigação aí prevista.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+###### Artigo 11.º-B — Média e grande empresa subsidiária
+
+1 - As empresas subsidiárias, abrangidas pelo âmbito de aplicação dos artigos 3.º, 4.º ou 5.º, que, sendo consideradas como médias entidades ou grandes entidades nos termos do artigo 9.º, sejam controladas por uma empresa-mãe final que não se rege pelo direito de um Estado-Membro e esta tenha um rédito consolidado, à data do seu balanço, tal como refletido nas suas demonstrações financeiras consolidadas, que, quer no período quer no período anterior, seja igual ou superior a (euro) 750 000 000, são obrigadas a publicar e tornar acessível um relatório de informações relativas ao imposto sobre o rendimento da empresa-mãe final no que respeita ao mais recente desses dois períodos consecutivos.
+
+2 - A empresa subsidiária, caso as informações ou relatório não estejam disponíveis, deve solicitar à empresa-mãe final que lhe faculte as informações exigidas para que possa cumprir a obrigação prevista no número anterior, e, caso não lhe sejam facultadas todas as informações exigidas, deverá elaborar, publicar e tornar acessível:
+
+a) Um relatório de informações relativas ao imposto sobre o rendimento com todas as informações de que disponha, obtenha ou adquira; e
+
+b) Uma declaração a indicar que a empresa-mãe final não disponibilizou as informações necessárias.
+
+3 - Quando no período a que se reportaria o relatório e no período anterior o rédito consolidado da empresa-mãe final, tal como refletido nas demonstrações financeiras consolidadas, for inferior a (euro) 750 000 000, as empresas subsidiárias referidas no n.º 1 deixam de estar sujeitas à obrigação aí prevista.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+###### Artigo 11.º-C — Sucursal
+
+1 - As sucursais, abrangidas pelo âmbito de aplicação dos artigos 3.º, 4.º ou 5.º, abertas em território português por empresas que não se regem pelo direito de um Estado-Membro, e que, quer no período quer no período anterior, tenham apurado um volume de negócios líquido que exceda o limiar previsto na alínea b) do n.º 2 do artigo 9.º, são obrigadas a publicar e tornar acessível, no que respeita ao mais recente desses dois períodos consecutivos, um relatório de informações relativas ao imposto sobre o rendimento da empresa-mãe final ou da empresa autónoma, consoante o aplicável, caso estejam preenchidos os seguintes requisitos:
+
+a) A empresa que abriu a sucursal é uma empresa de um grupo cuja empresa-mãe final não se rege pelo direito de um Estado-Membro e cujo rédito consolidado, à data do seu balanço, tal como refletido nas suas demonstrações financeiras consolidadas, seja igual ou superior, em cada um dos dois últimos períodos consecutivos, a (euro) 750 000 000, ou é uma empresa autónoma cujo rédito, à data do seu balanço, tal como refletido nas suas demonstrações financeiras individuais, seja igual ou superior, em cada um dos dois últimos períodos consecutivos, a (euro) 750 000 000; e
+
+b) A empresa-mãe final referida na alínea anterior não possui uma empresa subsidiária considerada como média entidade ou grande entidade nos termos do n.º 1 do artigo 11.º-B.
+
+2 - A pessoa ou pessoas designadas para proceder às formalidades de divulgação a que se refere o artigo 11.º-H, caso as informações ou relatório não estejam disponíveis, devem solicitar à empresa-mãe final ou à empresa autónoma a que se refere a alínea a) do número anterior que lhes facultem todas as informações necessárias, a fim de cumprir as suas obrigações, e, caso não lhes sejam facultadas todas as informações exigidas, a sucursal deverá elaborar, publicar e tornar acessível:
+
+a) Um relatório de informações relativas ao imposto sobre o rendimento com todas as informações de que disponha, obtenha ou adquira; e
+
+b) Uma declaração a indicar que a empresa-mãe final ou a empresa autónoma não disponibilizou as informações necessárias.
+
+3 - As sucursais deixam de estar obrigadas ao previsto no n.º 1, quando:
+
+a) Em cada um dos dois últimos períodos consecutivos o seu volume de negócios líquido seja inferior ao limiar previsto na alínea b) do n.º 2 do artigo 9.º; ou
+
+b) O critério previsto na alínea a) do n.º 1 deixe de ser preenchido em dois períodos consecutivos.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+###### Artigo 11.º-D — Dispensas de aplicação
+
+1 - As obrigações previstas nos artigos 11.º-B e 11.º-C não são aplicáveis, caso uma empresa-mãe final ou uma empresa autónoma que não se rege pelo direito de um Estado-Membro elabore um relatório de informações relativas ao imposto sobre o rendimento de forma coerente com o artigo 11.º-E e se encontrem preenchidos, cumulativamente, os seguintes requisitos:
+
+a) É tornado acessível ao público, gratuitamente e num formato eletrónico de comunicação de informação legível por máquina:
+
+i) No sítio Web dessa empresa-mãe final ou dessa empresa autónoma;
+
+ii) Em pelo menos uma das línguas oficiais da União Europeia;
+
+iii) No prazo máximo de 12 meses após a data do balanço do período a que se reporta o relatório; e
+
+b) Identifica a denominação ou firma e a sede estatutária da empresa subsidiária, ou a denominação ou firma e a morada da sucursal, que se rege pelo direito de um Estado-Membro, que tenha publicado um relatório nos termos do artigo 11.º-G.
+
+2 - As empresas subsidiárias ou sucursais, ainda que não abrangidas pelo previsto nos artigos 11.º-B e 11.º-C, que não tenham outro objetivo que não seja o de contornar o cumprimento das obrigações de prestação de informações previstas nos artigos 11.º-A a 11.º-C e nos artigos 11.º-E a 11.º-I, são obrigadas a publicar e a tornar acessível um relatório de informações relativas ao imposto sobre o rendimento.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+###### Artigo 11.º-E — Conteúdo do relatório de informações relativas ao imposto sobre o rendimento
+
+1 - O relatório de informações relativas ao imposto sobre o rendimento exigido pelos artigos 11.º-A a 11.º-D inclui informações relacionadas com todas as atividades da empresa autónoma ou da empresa-mãe final, incluindo as de todas as empresas coligadas consolidadas nas demonstrações financeiras, relativas ao período a que se reporta o relatório.
+
+2 - As informações referidas no número anterior são as seguintes:
+
+a) A denominação ou firma da empresa-mãe final ou da empresa autónoma, o período de relato em causa, a moeda utilizada para a apresentação do relatório e, se aplicável, uma lista de todas as subsidiárias consolidadas nas demonstrações financeiras da empresa-mãe final, no que diz respeito ao período a que se reporta o relatório, estabelecidas num Estado-Membro da União Europeia ou em jurisdições fiscais incluídas nos anexos i e ii das Conclusões do Conselho sobre a lista revista da União Europeia de jurisdições não cooperantes para efeitos fiscais;
+
+b) Uma breve descrição da natureza das suas atividades;
+
+c) O número de trabalhadores numa base equivalente a tempo inteiro;
+
+d) O rendimento, que deve ser calculado como:
+
+i) A soma das vendas e serviços prestados, dos subsídios à exploração, dos outros rendimentos, dos ganhos imputados de subsidiárias, associadas e empreendimentos conjuntos, excluindo dividendos recebidos de coligadas, e dos juros e rendimentos similares obtidos, conforme enumerados na Demonstração dos Resultados por Naturezas apresentada no anexo 2 da Portaria n.º 220/2015, de 24 de julho, na sua redação atual; ou
+
+ii) Os rendimentos tal como definidos na estrutura conceptual de relato financeiro, com base na qual são elaboradas as demonstrações financeiras, excluindo os ajustamentos de valor e os dividendos recebidos de empresas coligadas;
+
+e) O montante dos resultados antes de impostos sobre o rendimento;
+
+f) O montante do imposto sobre o rendimento reconhecido no período de relato em causa, que deve ser calculado como os gastos de impostos correntes reconhecidos relativamente aos resultados tributáveis do período pelas empresas e sucursais na jurisdição fiscal relevante;
+
+g) O montante do imposto sobre o rendimento pago, que deve ser calculado como o montante do imposto sobre o rendimento pago durante o período em causa pelas empresas e sucursais na jurisdição fiscal relevante; e,
+
+h) O montante dos resultados retidos no final do período de relato em causa.
+
+3 - Para efeito da aplicação do número anterior:
+
+a) O rendimento referido na alínea d) deve incluir as transações com partes relacionadas;
+
+b) Os gastos de impostos correntes referidos na alínea f) são apenas os relacionados com as atividades de uma empresa no período de relato em causa e não incluem impostos diferidos nem provisões para obrigações fiscais incertas;
+
+c) Os impostos pagos referidos na alínea g) incluem as retenções na fonte efetuadas por outras empresas relativamente aos pagamentos concretizados às empresas e sucursais de um grupo;
+
+d) Os resultados retidos referidos na alínea h) correspondem à soma dos resultados transitados de anos anteriores e do resultado líquido do período cuja distribuição não tenha sido deliberada;
+
+e) No que respeita às sucursais, os resultados retidos referidos na alínea h) são os da empresa que abriu a sucursal.
+
+4 - As informações enumeradas no n.º 2 podem ser apresentadas com base nas instruções constantes na Portaria n.º 383-A/2017, de 21 de dezembro.
+
+5 - As informações a que se referem os n.os 2 e 4 são apresentadas num modelo comum e em formatos de reporte eletrónicos que sejam legíveis por máquina, os quais são estabelecidos pela Comissão Europeia, através de atos de execução, conforme previsto no parágrafo 4 do artigo 48.º-C da Diretiva (UE) 2021/2101, do Parlamento Europeu e do Conselho, de 24 de novembro de 2021, que altera a Diretiva 2013/34/UE no que respeita à divulgação de informações relativas ao imposto sobre o rendimento por determinadas empresas e sucursais.
+
+6 - O relatório de informações relativas ao imposto sobre o rendimento apresenta as informações a que se refere o n.º 2 ou o n.º 4:
+
+a) Separadamente para cada Estado-Membro, sendo que caso um Estado-Membro englobe diversas jurisdições fiscais, as informações são agregadas a nível do Estado-Membro;
+
+b) Separadamente para cada jurisdição fiscal que, em 1 de março do período de relato em relação ao qual o relatório deve ser elaborado, esteja incluída na lista do anexo i das Conclusões do Conselho sobre a lista revista da União Europeia de jurisdições não cooperantes para efeitos fiscais, e deve prestar essas informações separadamente para cada jurisdição fiscal que, em 1 de março do período de relato em relação ao qual o relatório deve ser elaborado e em 1 de março do período de relato anterior, tenha sido referida no anexo ii das Conclusões do Conselho sobre a lista revista da União Europeia de jurisdições não cooperantes para efeitos fiscais; e
+
+c) De forma agregada para as outras jurisdições fiscais.
+
+7 - Para efeitos da aplicação do número anterior, considera-se que:
+
+a) As informações são atribuídas a cada jurisdição fiscal relevante em função do estabelecimento, da existência de uma instalação fixa ou de uma representação permanente que, atendendo às atividades do grupo ou da empresa autónoma, possa estar sujeita ao imposto sobre o rendimento nessa jurisdição fiscal;
+
+b) Caso as atividades de diversas empresas coligadas possam estar sujeitas ao imposto sobre o rendimento numa única jurisdição fiscal, as informações atribuídas a essa jurisdição fiscal representam a soma das informações relativas a essas atividades de cada empresa coligada e das respetivas sucursais naquela jurisdição fiscal; e
+
+c) As informações sobre uma atividade específica não podem ser simultaneamente atribuídas a mais do que uma jurisdição fiscal.
+
+8 - O relatório de informações relativas ao imposto sobre o rendimento pode incluir, se for aplicável a nível do grupo, uma descrição geral que forneça explicações sobre quaisquer discrepâncias materiais verificadas entre os montantes divulgados nos termos das alíneas f) e g) do n.º 2, tendo em conta, se apropriado, os montantes correspondentes relativos a períodos de relato anteriores.
+
+9 - A moeda utilizada no relatório de informações relativas ao imposto sobre o rendimento é a moeda na qual são apresentadas as demonstrações financeiras consolidadas da empresa-mãe final ou as demonstrações financeiras individuais da empresa autónoma.
+
+10 - Sem prejuízo do referido no número anterior, no caso a que se refere o artigo 11.º-B, a moeda utilizada no relatório de informações relativas ao imposto sobre o rendimento é a moeda em que a subsidiária apresenta as suas demonstrações financeiras.
+
+11 - O relatório de informações relativas ao imposto sobre o rendimento deve especificar se o mesmo foi elaborado nos termos do n.º 2 ou nos termos do n.º 4.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+###### Artigo 11.º-F — Omissões temporárias
+
+1 - Um ou mais elementos específicos das informações de divulgação obrigatória nos termos do n.º 2 ou do n.º 4 do artigo anterior podem ser omitidos temporariamente do relatório se a sua divulgação puder prejudicar gravemente a posição comercial das empresas às quais o relatório diz respeito, sendo as omissões claramente indicadas no relatório juntamente com uma explicação devidamente fundamentada sobre as respetivas razões.
+
+2 - As informações respeitantes às jurisdições fiscais incluídas nos anexos i e ii das Conclusões do Conselho sobre a lista revista da União Europeia de jurisdições não cooperantes para efeitos fiscais, a que se refere a alínea b) do n.º 6 do artigo anterior, nunca podem ser omitidas.
+
+3 - As informações omitidas nos termos do n.º 1 serão posteriormente tornadas públicas, num relatório de informações relativas ao imposto sobre o rendimento a publicar e tornar acessível no prazo máximo de cinco anos a contar da data da omissão inicial.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+###### Artigo 11.º-G — Publicação e acessibilidade
+
+1 - O relatório de informações relativas ao imposto sobre o rendimento e, quando aplicável, a declaração a que se referem os artigos 11.º-B e 11.º-C, são publicados no prazo máximo de 12 meses após a data do balanço do período a que se reporta o relatório.
+
+2 - O relatório de informações relativas ao imposto sobre o rendimento e a declaração publicados pelas empresas nos termos do n.º 1 devem ser disponibilizados aos interessados na língua em que são apresentadas as demonstrações financeiras e em, pelo menos, uma das línguas oficiais da União, sem encargos, no prazo máximo de 12 meses após a data do balanço do período em relação ao qual o relatório é elaborado, no sítio Web:
+
+a) Da empresa, caso seja aplicável o artigo 11.º-A;
+
+b) Da empresa subsidiária ou de uma empresa coligada, caso seja aplicável o artigo 11.º-B; ou
+
+c) Da sucursal, da empresa que abriu a sucursal ou de uma empresa coligada, caso seja aplicável o artigo 11.º-C.
+
+3 - O relatório de informações relativas ao imposto sobre o rendimento e, quando aplicável, a declaração a que se refere a alínea b) do n.º 2 do artigo 11.º-B e a alínea b) do n.º 2 do artigo 11.º-C ficam acessíveis no sítio Web aplicável durante, pelo menos, cinco anos consecutivos.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+###### Artigo 11.º-H — Responsabilidade pela elaboração, publicação e acessibilidade do relatório de informações relativas ao imposto sobre o rendimento
+
+1 - Os membros dos órgãos de administração, de direção, de gerência e de fiscalização da empresa-mãe final ou das empresas autónomas a que se refere o artigo 11.º-A assumem coletivamente a responsabilidade por garantir que o relatório de informações relativas ao imposto sobre o rendimento é elaborado, publicado e tornado acessível nos termos previstos nos artigos 11.º-A a 11.º-G.
+
+2 - Os membros dos órgãos de administração, de direção, de gerência e de fiscalização das empresas subsidiárias a que se refere o artigo 11.º-B, bem como a pessoa ou as pessoas designadas para proceder às formalidades de divulgação por conta das sucursais a que se refere o artigo 11.º-C, assumem coletivamente a responsabilidade por garantir que, tanto quanto seja do seu conhecimento e esteja ao seu alcance, o relatório de informações relativas ao imposto sobre o rendimento é elaborado de forma coerente ou de acordo com os artigos 11.º-A a 11.º-F e é publicado e fica acessível nos termos do artigo 11.º-G.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+###### Artigo 11.º-I — Declaração do revisor oficial de contas
+
+A certificação legal das contas ou o relatório de auditoria das entidades cujas demonstrações financeiras sejam sujeitas a revisão legal das contas declara se a empresa está obrigada, nos termos dos artigos 11.º-A a 11.º-F, a publicar um relatório sobre as informações relativas ao imposto sobre o rendimento para o período anterior ao período em relação ao qual as declarações financeiras auditadas foram elaboradas, e, em caso afirmativo, se o relatório foi publicado nos termos do artigo 11.º-G.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+###### Artigo 12.º — Inventário permanente
+
+1 - As entidades a que seja aplicável o SNC ou as normas internacionais de contabilidade adoptadas pela UE ficam obrigadas a adoptar o sistema de inventário permanente na contabilização dos inventários, nos seguintes termos:
+
+a) Proceder às contagens físicas dos inventários com referência ao final do período, ou, ao longo do período, de forma rotativa, de modo a que cada bem seja contado, pelo menos, uma vez em cada período;
+
+b) Identificar os bens quanto à sua natureza, quantidade e custos unitários e globais, por forma a permitir a verificação, a todo o momento, da correspondência entre as contagens físicas e os respectivos registos contabilísticos.
+
+2 - A obrigação prevista no número anterior não se aplica às entidades previstas no n.º 1 do artigo 9.º
+
+3 - (Revogado.)
+
+4 - Ficam também dispensadas do estabelecido no n.º 1 as entidades nele referidas relativamente às seguintes actividades:
+
+a) Agricultura, produção animal, apicultura e caça;
+
+b) Silvicultura e exploração florestal;
+
+c) Indústria piscatória e aquicultura;
+
+d) Pontos de vendas a retalho que, no seu conjunto, não apresentem, no período de um exercício, vendas superiores a (euro) 300 000 nem a 10 % das vendas globais da respectiva entidade.
+
+5 - Ficam ainda dispensadas do estabelecido no n.º 1 as entidades nele referidas cuja actividade predominante consista na prestação de serviços, considerando-se como tais, para efeitos deste artigo, as que apresentem, no período de um exercício, um custo das mercadorias vendidas e das matérias consumidas que não exceda (euro) 300 000 nem 20 % dos respectivos custos operacionais.
+
+6 - As dispensas previstas na alínea d) do n.º 4 e no número anterior mantêm-se até ao termo do período seguinte àquele em que, respetivamente, as atividades e as entidades neles referidas tenham ultrapassado os limites que as originaram.
+
+7 - Não obstante o disposto no número anterior, podem voltar a beneficiar das dispensas previstas na alínea d) do n.º 4 e no n.º 5 as atividades e as entidades neles referidas em relação às quais deixem de se verificar, durante dois períodos consecutivos, os requisitos estabelecidos para a concessão da dispensa, produzindo efeitos a partir do período seguinte ao termo daquele período.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 13.º — Referências ao Plano Oficial de Contabilidade
+
+Todas as referências ao Plano Oficial de Contabilidade previstas em anteriores diplomas devem passar a ser entendidas como referências ao SNC.
+
+###### Artigo 14.º — Ilícitos de mera ordenação social
+
+1 - A entidade sujeita ao SNC que não aplique qualquer das disposições constantes nas normas contabilísticas e ou de relato financeiro cuja aplicação lhe seja exigível e que distorça com tal prática as demonstrações financeiras individuais ou consolidadas que seja, por lei, obrigada a apresentar, é punida com coima de (euro) 1500 a (euro) 30 000.
+
+2 - A entidade sujeita ao SNC que efetue a supressão de lacunas de modo diverso do aí previsto e que distorça com tal prática as demonstrações financeiras individuais ou consolidadas que seja, por lei, obrigada a apresentar, é punida com coima de (euro) 1500 a (euro) 30 000.
+
+3 - A entidade sujeita ao SNC que não apresente qualquer das demonstrações financeiras que seja, por lei, obrigada a apresentar, é punida com coima de (euro) 1500 a (euro) 30 000.
+
+4 - A falta de elaboração, publicação ou disponibilização no sítio Web, nos termos previstos no artigo 11.º-G, do relatório de informações relativas ao imposto sobre o rendimento, ou, quando aplicável, da declaração a que se refere a alínea b) do n.º 2 do artigo 11.º-B e a alínea b) do n.º 2 do artigo 11.º-C, é punível com coima de (euro) 1500 a (euro) 30 000.
+
+5 - Caso as infracções referidas nos números anteriores sejam praticadas a título de negligência, as coimas são reduzidas a metade.
+
+6 - Na graduação da coima são tidos em conta os valores dos capitais próprios ou dos fundos patrimoniais e do total de rendimentos das entidades, os valores associados à infração e a condição económica dos infratores.
+
+7 - A organização do processo e a decisão sobre aplicação da coima competem ao presidente da Comissão de Normalização Contabilística, com possibilidade de delegação.
+
+8 - O produto das coimas reverte nas seguintes proporções:
+
+a) 60 % para o Estado;
+
+b) 40 % para a Comissão de Normalização Contabilística.
+
+9 - Aos ilícitos de mera ordenação social previstos no presente decreto-lei é subsidiariamente aplicável o regime geral do ilícito de mera ordenação social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2023 - Diário da República n.º 163/2023, Série I de 2023-08-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2023-220219336), em vigor a partir de 2023-08-24, produz efeitos a partir de 2024-06-22
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+###### Artigo 15.º — Norma revogatória
+
+1 - São revogados:
+
+a) O Decreto-Lei n.º 410/89, de 21 de Novembro;
+
+b) O Decreto-Lei n.º 238/91, de 2 de Julho;
+
+c) O Decreto-Lei n.º 29/93, de 12 de Fevereiro;
+
+d) O Decreto-Lei n.º 127/95, de 1 de Junho;
+
+e) O Decreto-Lei n.º 44/99, de 12 de Fevereiro, alterado pelo Decreto-Lei n.º 79/2003, de 23 de Abril;
+
+f) O Decreto-Lei n.º 88/2004, de 20 de Abril;
+
+g) Os artigos 4.º, 7.º e 11.º a 15.º do Decreto-Lei n.º 35/2005, de 17 de Fevereiro.
+
+2 - São revogadas as directrizes contabilísticas n.os 1 a 29 emitidas pela Comissão de Normalização Contabilística.
+
+###### Artigo 16.º — Produção de efeitos
+
+O presente decreto-lei entra em vigor no primeiro exercício que se inicie em ou após 1 de Janeiro de 2010.
+
+Visto e aprovado em Conselho de Ministros de 23 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
+
+Promulgado em 26 de Junho de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 1 de Julho de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo — Sistema de Normalização Contabilística
+
+1 - Apresentação
+
+1.1 - O novo modelo de normalização contabilística, que agora é criado, sucede ao Plano Oficial de Contabilidade (POC) e é designado por Sistema de Normalização Contabilística (SNC). Este Sistema, à semelhança do POC, não é de aplicação geral, conforme decorre dos artigos 4.º e 5.º do presente decreto-lei. Às microentidades (ME), às pequenas entidades (PE) e às entidades do setor não lucrativo (ESNL) aplica-se o SNC com as especificidades constantes do presente decreto-lei, em particular no que se refere às características próprias das ESNL, conforme explicitado no ponto 1.5 e seguintes.
+
+1.2 - Trata-se de um modelo de normalização assente mais em princípios do que em regras explícitas e que se pretende em sintonia com as normas internacionais de contabilidade emitidas pelo International Accounting Standards Board (IASB) e adotadas na União Europeia (UE), bem como coerente com a Diretiva n.º 2013/34/UE, do Parlamento Europeu e do Conselho, de 26 de junho de 2013 (Diretiva Contabilística), que constituem os principais instrumentos de harmonização no domínio contabilístico na UE.
+
+1.3 - O SNC, que assimila a transposição da Diretiva Contabilística da UE, é composto pelos seguintes instrumentos:
+
+Bases para a apresentação de demonstrações financeiras (BADF)
+
+Modelos de demonstrações financeiras (MDF)
+
+Códigos de contas (CC)
+
+Normas contabilísticas e de relato financeiro (NCRF)
+
+Norma contabilística e de relato financeiro para pequenas entidades (NCRF-PE)
+
+Norma contabilística e de relato financeiro para entidades do setor não lucrativo (NCRF-ESNL)
+
+Norma contabilística para microentidades (NC-ME)
+
+Normas interpretativas (NI)
+
+A Estrutura conceptual baseada no anexo 5 das «Observações relativas a certas disposições do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002», publicado pela Comissão Europeia em novembro de 2003, que enquadra aqueles instrumentos, constitui um documento autónomo a publicar por aviso do membro do Governo com responsabilidade própria ou delegada pela área das finanças, no Diário da República.
+
+1.4 - Sempre que o SNC não responda a aspetos particulares de transações ou situações, que se coloquem a dada entidade em matéria de contabilização ou relato financeiro, ou a lacuna em causa seja de tal modo relevante que o seu não preenchimento impeça o objetivo de ser prestada informação que apresente, de forma verdadeira e apropriada, a posição financeira numa certa data e o desempenho para o período abrangido, fica desde já estabelecido, tendo em vista tão somente a superação dessa lacuna, o recurso, supletivamente e pela ordem indicada:
+
+Às normas internacionais de contabilidade (NIC), adotadas ao abrigo do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002;
+
+Às normas internacionais de contabilidade (IAS) e normas internacionais de relato financeiro (IFRS), emitidas pelo IASB, e respetivas interpretações SIC-IFRIC.
+
+1.5 - A disseminação de ESNL e o importante papel e peso que desempenham na economia justificam que se reforcem as exigências de transparência relativamente às atividades que realizam e aos recursos que utilizam, nomeadamente através da obrigação de prestarem informação fidedigna sobre a gestão dos recursos que lhes são confiados, bem como sobre os resultados alcançados no desenvolvimento das suas atividades.
+
+1.6 - As ESNL apresentam três características básicas distintivas relativamente às entidades com finalidades lucrativas:
+
+a) O seu financiamento pode resultar do seu próprio património ou de recursos atribuídos por pessoas singulares ou coletivas. Em caso algum os recursos atribuídos estão sujeitos ou condicionados a contraprestações derivadas da obtenção de benefícios por parte da entidade;
+
+b) Respondem a finalidades de interesse geral que transcendem a atividade produtiva e a venda de produtos ou prestação de serviços, o que se traduz numa interpretação não económica do conceito «benefício»;
+
+c) Ausência de títulos de propriedade-controlo que possam ser comprados, cedidos, trocados ou de que se espere algum tipo de contraprestação económica no caso de a entidade cessar as suas atividades e ser objeto de liquidação;
+
+d) Acresce que estas entidades contam, com frequência, com o trabalho de voluntários, sem que, por esse facto, surja qualquer relação laboral entre eles e a entidade.
+
+1.7 - Nas ESNL, os utilizadores da informação financeira são as entidades que entregam recursos (quotas, legados, donativos), os credores, as pessoas que realizam prestações gratuitas (assistência ou trabalhos de voluntariado), o Governo e a Administração Pública entre outros. Nesta conformidade:
+
+a) Os doadores/financiadores/associados pretendem conhecer o grau de cumprimento dos objetivos desenvolvidos;
+
+b) Os credores pretendem obter informação acerca da capacidade da entidade solver os seus compromissos;
+
+c) Os membros das ESNL pretendem conhecer o modo como os donativos e outros fundos são aplicados nas atividades;
+
+d) Os voluntários pretendem conhecer os resultados da sua dedicação, bem como os programas realizados e as necessidades de recursos;
+
+e) O Estado, na medida em que proporciona os recursos para a atividade de diversas entidades do setor não lucrativo, tem necessidade de controlar os fluxos/meios que permitam cumprir os fins sem diminuir o património;
+
+f) O público em geral, de entre os quais cumpre referir os contribuintes, grupos de interesse ou pressão, associações de defesa do consumidor e todos os interessados, direta ou indiretamente, no futuro da atividade da ESNL. Este grupo deve ter a possibilidade de avaliar o contributo da entidade no seu bem-estar ou no desenvolvimento económico do setor em que se insere.
+
+2 - Bases para a apresentação de demonstrações financeiras (BADF)
+
+2.1 - Âmbito, finalidade e componentes
+
+2.1.1 - As BADF de finalidades gerais estabelecem os requisitos globais que permitem assegurar a comparabilidade quer com as demonstrações financeiras de períodos anteriores da mesma entidade quer com as demonstrações financeiras de outras entidades. O reconhecimento, a mensuração, a divulgação e aspetos particulares de apresentação de transações específicas e outros acontecimentos são tratados, consoante os casos, nas NCRF, na NCRF-PE, na NCRF-ESNL ou na NC-ME.
+
+2.1.2 - As demonstrações financeiras de finalidades gerais são as que se destinam a satisfazer as necessidades de utentes que não estejam em posição de exigir relatórios elaborados especificamente para ir ao encontro das suas necessidades particulares de informação. As demonstrações financeiras de finalidades gerais incluem as que são apresentadas isoladamente ou incluídas num outro documento para o público, tal como um relatório anual ou um prospeto.
+
+2.1.3 - As demonstrações financeiras são uma representação estruturada da posição financeira e do desempenho financeiro de uma entidade. O objetivo das demonstrações financeiras de finalidades gerais é o de proporcionar informação acerca da posição financeira, do desempenho financeiro e dos fluxos de caixa de uma entidade que seja útil a uma vasta gama de utentes na tomada de decisões económicas. As demonstrações financeiras também mostram os resultados da condução por parte do órgão de gestão dos recursos a ele confiados. Para satisfazer este objetivo, as demonstrações financeiras proporcionam informação de uma entidade acerca do seguinte:
+
+a) Ativos;
+
+b) Passivos;
+
+c) Capital próprio ou fundos patrimoniais;
+
+d) Rendimentos (réditos e ganhos);
+
+e) Gastos (gastos e perdas);
+
+f) Outras alterações no capital próprio ou nos fundos patrimoniais; e
+
+g) Fluxos de caixa.
+
+2.1.4 - Um conjunto completo de demonstrações financeiras inclui:
+
+a) Um balanço;
+
+b) Uma demonstração dos resultados;
+
+c) Uma demonstração das alterações no capital próprio;
+
+d) Uma demonstração dos fluxos de caixa; e
+
+e) Um anexo em que se divulguem as bases de preparação e políticas contabilísticas adotadas e outras divulgações.
+
+2.1.5 - As demonstrações financeiras devem apresentar apropriadamente a posição financeira, o desempenho financeiro e os fluxos de caixa de uma entidade. A apresentação apropriada exige a representação fidedigna dos efeitos das transações, outros acontecimentos e condições, de acordo com as definições e critérios de reconhecimento para ativos, passivos, rendimentos e gastos estabelecidos na estrutura conceptual. Presume-se que a aplicação adequada das normas contabilísticas, com divulgação adicional quando necessária, resulta em demonstrações financeiras que alcançam uma apresentação apropriada.
+
+2.1.6 - Na generalidade das circunstâncias, uma apresentação apropriada é conseguida pela conformidade com as normas contabilísticas aplicáveis. Uma apresentação apropriada também exige que uma entidade:
+
+a) Selecione e adote políticas contabilísticas de acordo com a norma contabilística aplicável;
+
+b) Apresente a informação, incluindo as políticas contabilísticas adotadas de uma forma que proporcione a disponibilização de informação relevante, fiável, comparável e compreensível;
+
+c) Proporcione divulgações adicionais quando o cumprimento dos requisitos específicos contidos nas normas contabilísticas possa ser insuficiente para permitir a sua compreensão pelos utentes.
+
+2.1.7 - As políticas contabilísticas inapropriadas não deixam de o ser pelo facto de serem divulgadas ou assumidas, em notas ou material explicativo.
+
+2.1.8 - A informação acerca dos fluxos de caixa de uma entidade, quando usada juntamente com as restantes demonstrações financeiras, é útil ao proporcionar aos utentes das mesmas uma base para determinar a capacidade da entidade para gerar dinheiro e equivalentes e determinar as necessidades da entidade de utilizar esses fluxos de caixa. As decisões económicas que sejam tomadas pelos utentes exigem uma avaliação da capacidade de uma entidade de gerar dinheiro e seus equivalentes e a tempestividade e certeza da sua geração.
+
+2.2 - Continuidade:
+
+2.2.1 - Aquando da preparação de demonstrações financeiras, o órgão de gestão deve fazer uma avaliação da capacidade da entidade de prosseguir encarando-a como uma entidade em continuidade. As demonstrações financeiras devem ser preparadas no pressuposto da entidade em continuidade, a menos que o órgão de gestão pretenda liquidar a entidade ou cessar de negociar, ou não tenha alternativa realista a não ser adotar uma dessas alternativas, ou ainda, no caso das ESNL existam circunstâncias anormais em que se deva considerar um horizonte temporal para a entidade, caso em que no anexo se indica tal facto, assim como os critérios utilizados na elaboração da informação financeira. No entanto, nas ESNL, este princípio não corresponde a um conceito económico ou financeiro puro, mas antes à manutenção da atividade de prestação de serviços ou à capacidade da entidade cumprir os fins propostos. O órgão de gestão deve, em geral, divulgar as incertezas materiais relacionadas com acontecimentos ou condições que possam lançar dúvidas significativas acerca da capacidade da entidade em prosseguir como uma entidade em continuidade. Quando as demonstrações financeiras não sejam preparadas no pressuposto da continuidade, esse facto deve ser divulgado, juntamente com os fundamentos pelos quais as demonstrações financeiras foram preparadas e a razão por que a entidade não é considerada como estando em continuidade.
+
+2.2.2 - Ao avaliar se o pressuposto da entidade em continuidade é apropriado, o órgão de gestão toma em consideração toda a informação disponível sobre o futuro, que é considerado pelo menos, mas sem limitação, doze meses a partir da data do balanço. O grau de consideração depende dos factos de cada caso. Quando uma entidade tiver uma história de operações lucrativas e acesso pronto a recursos financeiros, pode concluir-se, sem necessidade de uma análise pormenorizada, que a base de contabilidade de entidade em continuidade é apropriada. Noutros casos, o órgão de gestão pode necessitar de considerar um vasto leque de fatores relacionados com a rentabilidade corrente e esperada, com esquemas de reembolso de dívidas e potenciais fontes de financiamentos de substituição, para poder preencher de forma apropriada o pressuposto da entidade em continuidade.
+
+2.3 - Regime de acréscimo (periodização económica):
+
+2.3.1 - Uma entidade deve preparar as suas demonstrações financeiras, exceto para informação de fluxos de caixa, utilizando o regime contabilístico de acréscimo (periodização económica).
+
+2.3.2 - Ao ser usado o regime contabilístico de acréscimo (periodização económica), os itens são reconhecidos como ativos, passivos, capital próprio ou fundos patrimoniais, rendimentos e gastos quando satisfaçam as definições e os critérios de reconhecimento para esses elementos contidos na estrutura conceptual.
+
+2.4 - Consistência de apresentação:
+
+2.4.1 - A apresentação e a classificação de itens nas demonstrações financeiras deve ser mantida de um período para outro, a menos que:
+
+a) Seja percetível, após uma alteração significativa na natureza das operações da entidade ou uma revisão das respetivas demonstrações financeiras, que outra apresentação ou classificação é mais apropriada, tendo em consideração os critérios para a seleção e aplicação de políticas contabilísticas contidas nas normas contabilísticas aplicáveis; ou
+
+b) Uma norma contabilística estabeleça uma alteração na apresentação.
+
+2.4.2 - Uma entidade deve alterar a apresentação das suas demonstrações financeiras apenas se a apresentação alterada proporcionar informação fiável e mais relevante para os utentes das demonstrações financeiras e se for provável que a estrutura revista continue a ser adotada, de modo a que a comparabilidade não seja prejudicada. Ao efetuar tais alterações na apresentação, uma entidade reclassifica a sua informação comparativa de acordo com o referido no ponto 2.7. Informação comparativa.
+
+2.5 - Materialidade e agregação:
+
+2.5.1 - Cada classe material de itens semelhantes deve ser apresentada separadamente nas demonstrações financeiras. Os itens de natureza ou função dissemelhante devem ser apresentados separadamente, a menos que sejam imateriais. Considera-se que as omissões ou declarações incorretas de itens são materiais se podem, individual ou coletivamente, influenciar as decisões económicas dos utentes tomadas com base nas demonstrações financeiras. A materialidade depende da dimensão e da natureza da omissão ou erro, ajuizados nas circunstâncias que os rodeiam. A dimensão ou a natureza do item, ou uma combinação de ambas, pode ser o fator determinante.
+
+2.5.2 - As demonstrações financeiras resultam do processamento de grandes números de transações ou outros acontecimentos que são agregados em classes de acordo com a sua natureza ou função. A fase final do processo de agregação e classificação é a apresentação de dados condensados e classificados que formam linhas de itens na face do balanço, na demonstração dos resultados, na demonstração de alterações no capital próprio ou fundos patrimoniais e na demonstração de fluxos de caixa ou no anexo. Se uma linha de item não for individualmente material, ela é agregada a outros itens seja na face dessas demonstrações seja nas notas do anexo. Um item que não seja suficientemente material para justificar a sua apresentação separada na face dessas demonstrações pode, porém, ser suficientemente material para que seja apresentado separadamente nas notas do anexo.
+
+2.5.3 - Aplicar o conceito de materialidade significa que um requisito específico de apresentação ou divulgação, decorrente de uma norma contabilística, não necessita de ser satisfeito se a informação não for materialmente relevante.
+
+2.6 - Compensação
+
+2.6.1 - Os ativos e passivos, e os rendimentos e gastos, são mensurados separadamente e não devem ser compensados exceto quando tal for exigido ou permitido por uma norma contabilística.
+
+2.6.2 - É importante que os ativos e passivos, e os rendimentos e gastos, sejam separadamente relatados. A compensação quer na demonstração dos resultados quer no balanço, exceto quando a mesma reflita a substância da transação ou outro acontecimento, prejudica a capacidade dos utentes em compreender as transações, outros acontecimentos e condições que tenham ocorrido e de avaliar os futuros fluxos de caixa da entidade. A mensuração de ativos líquidos de deduções de valorização, por exemplo, deduções de obsolescência nos inventários e deduções de dívidas duvidosas nas contas a receber, não é considerada uma compensação.
+
+2.6.3 - O rédito deve ser mensurado tomando em consideração a quantia de quaisquer descontos comerciais e abatimentos de volume concedidos pela entidade. Uma entidade empreende, no decurso das suas atividades ordinárias, outras transações que não geram rédito mas que são inerentes às principais atividades que o geram. Os resultados de tais transações são apresentados, quando esta apresentação reflita a substância da transação ou outro acontecimento, compensando qualquer rendimento com os gastos relacionados resultantes da mesma transação. Por exemplo:
+
+a) Os ganhos e perdas na alienação de ativos não correntes, incluindo investimentos e ativos operacionais, são relatados, deduzindo ao produto da alienação a quantia escriturada do ativo e os gastos de venda relacionados; e
+
+b) Os dispêndios relacionados com uma provisão reconhecida de acordo com a norma contabilística respetiva e reembolsada segundo um acordo contratual com terceiros (por exemplo, um acordo de garantia de um fornecedor) podem ser compensados com o reembolso relacionado.
+
+2.6.4 - Adicionalmente, os ganhos e perdas provenientes de um grupo de transações semelhantes são relatados numa base líquida, por exemplo, ganhos e perdas de diferenças cambiais ou ganhos e perdas provenientes de instrumentos financeiros detidos para negociação. Estes ganhos e perdas são, contudo, relatados separadamente se forem materiais.
+
+2.7 - Informação comparativa:
+
+2.7.1 - O balanço de abertura de um período corresponde ao balanço de encerramento do período anterior. A menos que uma norma contabilística o permita ou exija de outra forma, deve ser divulgada informação comparativa com respeito ao período anterior para todas as quantias relatadas nas demonstrações financeiras. A informação comparativa deve ser incluída para a informação narrativa e descritiva quando for relevante para uma compreensão das demonstrações financeiras do período corrente.
+
+2.7.2 - Em alguns casos, a informação narrativa proporcionada nas demonstrações financeiras relativa(s) ao(s) período(s) anterior(es) continua a ser relevante no período corrente. Por exemplo, os pormenores de uma disputa legal, cujo desfecho era incerto à data do último balanço e esteja ainda para ser resolvida, são divulgados no período corrente. Os utentes beneficiam da informação de que a incerteza existia à data do último balanço e da informação acerca das medidas adotadas durante o período para resolver a incerteza.
+
+2.7.3 - Quando a apresentação e classificação de itens nas demonstrações financeiras sejam emendadas, as quantias comparativas devem ser reclassificadas, a menos que seja impraticável. Considera-se que a aplicação de um requisito é impraticável quando a entidade não o possa aplicar depois de ter feito todos os esforços razoáveis para o conseguir.
+
+2.7.4 - Quando as quantias comparativas sejam reclassificadas, uma entidade deve divulgar:
+
+a) A natureza da reclassificação;
+
+b) A quantia de cada item ou classe de itens que tenha sido reclassificada; e
+
+c) A razão para a reclassificação.
+
+2.7.5 - Quando for impraticável reclassificar quantias comparativas, uma entidade deve divulgar:
+
+a) A razão para não as reclassificar, e
+
+b) A natureza dos ajustamentos que teriam sido feitos se as quantias tivessem sido reclassificadas.
+
+2.7.6 - Aperfeiçoar a comparabilidade de informação interperíodos ajuda os utentes a tomar decisões económicas, sobretudo porque lhes permite avaliar as tendências na informação financeira para finalidades de previsão. Em algumas circunstâncias, torna-se impraticável reclassificar informação comparativa para um período em particular para conseguir comparabilidade com o período corrente. Por exemplo, podem não ter sido coligidos dados no(s) período(s) anterior(es) de modo a permitir a reclassificação e, por isso, pode não ser praticável recriar a informação.
+
+2.8 - Mensuração:
+
+2.8.1 - As rubricas reconhecidas nas demonstrações financeiras são mensuradas ao custo de aquisição ou ao custo de produção, tal como explicitado nos pontos seguintes, exceto se uma NCRF dispuser diferentemente.
+
+2.8.2 - Considera-se custo de aquisição o preço a pagar e as despesas acessórias, uma vez deduzidas as reduções acessórias.
+
+2.8.3 - Considera-se custo de produção o custo de aquisição das matérias-primas e dos consumíveis, os custos diretamente atribuíveis ao produto em questão, bem como os custos gerais fixos e variáveis indiretamente atribuíveis aos produtos em questão, na medida em que digam respeito ao período de produção. Não são incluídos no custo de produção os custos de distribuição.
+
+2.8.4 - Consideram-se ajustamentos de valor os ajustamentos destinados a ter em conta a alteração, definitiva ou não, da quantia pela qual os elementos do ativo se encontrem mensurados à data do balanço.
+
+3 - Modelos de Demonstrações Financeiras:
+
+3.1 - São publicados através de portaria do membro do Governo responsável pela área das finanças, com a faculdade de delegar, os modelos para as demonstrações financeiras referidas no artigo 11.º do presente decreto-lei.
+
+3.2 - Os referidos modelos obedecem, em particular, ao disposto no ponto 2, podendo, também, ser utilizados pelas entidades que se encontrem obrigadas ou tenham usado a opção de aplicar as normas internacionais de contabilidade adotadas na UE, nos termos do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002.
+
+3.3 - (Revogado.)
+
+4 - Códigos de contas (CC)
+
+4.1 - É publicado através de portaria do membro do Governo responsável pela área das finanças, com a faculdade de delegar, o Código de Contas de utilização generalizada, o Código de Contas específico das ESNL e o Código de Contas específico das microentidades, que se pretende sejam documentos não exaustivos, contendo no essencial:
+
+a) O quadro síntese de contas;
+
+b) O código de contas (lista codificada de contas); e
+
+c) Notas de enquadramento.
+
+4.2 - O CC de utilização generalizada pode ser utilizado pelas entidades que se encontrem obrigadas ou tenham a opção de aplicar as normas internacionais de contabilidade adotadas na UE, nos termos do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002.
+
+4.3 - No CC para as ESNL, a lista codificada de contas e as notas de enquadramento apenas incluem as especificidades inerentes a essas entidades. O CC, com as especificidades relativas às ESNL, pode ser utilizado pelas entidades, de entre estas, que se encontrem obrigadas ou tenham a opção de aplicar as normas internacionais de contabilidade adotadas na UE, nos termos do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002.
+
+5 - Normas contabilísticas e de relato financeiro (NCRF):
+
+5.1 - As NCRF constituem uma adaptação das normas internacionais de contabilidade, adotadas na UE, tendo em conta o tecido empresarial português e o facto de algumas entidades se encontrarem obrigadas ou terem a opção de aplicar as citadas normas internacionais, nos termos do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002. Acolhem, igualmente, e no contexto das opções dadas aos Estados membros, as disposições constantes da Diretiva n.º 2013/34/UE, do Parlamento Europeu e do Conselho, de 26 de junho de 2013. Assim, o conjunto das NCRF pode não contemplar algumas normas internacionais e as NCRF podem dispensar a aplicação de determinados procedimentos e divulgações exigidos nas correspondentes normas internacionais, embora garantindo, no essencial, os critérios de reconhecimento e de mensuração contidos nestas normas.
+
+5.2 - As NCRF são propostas pela CNC e publicadas através de avisos no Diário da República, depois de homologadas pelo membro do Governo responsável pela área das finanças, com a faculdade de delegar, sendo de aplicação obrigatória a partir da data de entrada em vigor indicada em cada uma delas.
+
+6 - Norma Contabilística e de Relato Financeiro para Pequenas Entidades e Norma Contabilística e de Relato Financeiro para Entidades do Setor Não Lucrativo
+
+6.1 - Para as entidades que cumpram os requisitos previstos no n.º 2 do artigo 9.º do presente decreto-lei e para as entidades referidas nas alíneas e) e g) do n.º 1 do artigo 3.º do mesmo diploma, são propostas pela CNC e publicada através de aviso no Diário da República, depois de homologada pelo membro do Governo responsável pela área das finanças, com a faculdade de delegar, respetivamente, a «Norma Contabilística e de Relato Financeiro para Pequenas Entidades» (NCRF-PE) e a «Norma Contabilística e de Relato Financeiro para Entidades do Setor Não Lucrativo» (NCRF-ESNL). Estas normas são de aplicação obrigatória para as entidades que, de entre aquelas, não optem pela aplicação do conjunto das NCRF, com as necessárias adaptações, no caso das entidades do setor não lucrativo, ou das normas internacionais de contabilidade adotadas nos termos do artigo 3.º do Regulamento (CE) n.º 1606/2002, do Parlamento Europeu e do Conselho, de 19 de julho de 2002. Quando uma entidade optar pela aplicação do conjunto das NCRF, deve utilizar os modelos de demonstrações financeiras previstos para as entidades sujeitas ao conjunto das NCRF, com as necessárias adaptações, no caso das entidades do setor não lucrativo.
+
+6.2 - A NCRF-PE e a NCRF-ESNL condensam os principais aspetos de reconhecimento e mensuração, extraídos das NCRF, tidos como os requisitos mínimos aplicáveis às referidas entidades.
+
+6.3 - Sempre que a NCRF-PE ou a NCRF-ESNL não respondam a aspetos particulares de transações ou situações, que se coloquem a dada entidade em matéria de contabilização ou relato financeiro, ou a lacuna em causa seja de tal modo relevante que o seu não preenchimento impeça o objetivo de ser prestada informação que, de forma verdadeira e apropriada, traduza a posição financeira numa certa data e o desempenho para o período abrangido, fica desde já estabelecido, tendo em vista tão somente a superação dessa lacuna, o recurso, supletivamente e pela ordem indicada:
+
+Às NCRF e NI;
+
+Às NIC, adotadas ao abrigo do Regulamento (CE) n.º 1606/02 do Parlamento Europeu e do Conselho, de 19 de julho de 2002;
+
+Às normas internacionais de contabilidade (IAS) e normas internacionais de relato financeiro (IFRS), emitidas pelo IASB, e respetivas interpretações SIC-IFRIC.
+
+7 - Norma Contabilística para Microentidades (NC-ME)
+
+7.1 - Esta norma é de aplicação obrigatória para as microentidades. Sem prejuízo do disposto anteriormente, as microentidades podem optar pela aplicação das NCRF ou da NCRF-PE.
+
+A NC-ME estabelece os aspetos de reconhecimento e mensuração tidos como requisitos contabilísticos simplificados aplicáveis às referidas entidades.
+
+7.2 - A NC-ME é proposta pela CNC e publicada através de aviso no Diário da República, depois de homologada pelo membro do Governo responsável pela área das finanças, com a faculdade de delegar.
+
+8 - Normas interpretativas (NI):
+
+8.1 - Sempre que as circunstâncias o justifiquem e para esclarecimento e, ou para orientação sobre o conteúdo dos restantes instrumentos que integram o SNC serão produzidas normas interpretativas (NI).
+
+8.2 - As NI são propostas pela CNC e publicadas através de aviso no Diário da República, depois de homologadas pelo membro do Governo responsável pela área das finanças, com a faculdade de delegar, sendo de aplicação obrigatória a partir da data de entrada em vigor indicada em cada uma delas.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 98/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2015-67356342), produz efeitos a partir de 2016-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 67-B/2009 - Diário da República n.º 177/2009, 1º Suplemento, Série I de 2009-09-11](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/67-b-2009-239469), produz efeitos a partir de 2010-01-01

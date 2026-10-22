@@ -1,0 +1,1374 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:357348:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2006-69814813",
+ "dre_path": "/dr/detalhe/lei/25-2006-357348",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-06-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69821083",
+    "69821084",
+    "69821085",
+    "69821086",
+    "69821087",
+    "69821088",
+    "69821089",
+    "69821090",
+    "69821091",
+    "69821092",
+    "69821093",
+    "69821094",
+    "69821095",
+    "69821096",
+    "69821097",
+    "69821098",
+    "69821099",
+    "69821100",
+    "69821101",
+    "69821102",
+    "69821103",
+    "69821104",
+    "69821105",
+    "69821106",
+    "69821107",
+    "69821108",
+    "69821109"
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:529450:por",
+     "title": "Lei n.º 67-A/2007",
+     "published": "2007-12-31",
+     "dre_path": "/dr/detalhe/lei/67-a-2007-529450"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A",
+    "Adita Artigo 16.º-B",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "69821083",
+    "69821084",
+    "69821085",
+    "69821086",
+    "69821087",
+    "69821088",
+    "69821089",
+    "69821090",
+    "69821091",
+    "69821092",
+    "69821093",
+    "69821094",
+    "69821095",
+    "69821096",
+    "69821097",
+    "69821119",
+    "69821099",
+    "69821100",
+    "69821120",
+    "69821121",
+    "69821113",
+    "69821116",
+    "69821122",
+    "69821118",
+    "69821105",
+    "69821106",
+    "69821107",
+    "69821108",
+    "69821109",
+    "69821110"
+   ]
+  },
+  {
+   "date": "2009-05-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:608696:por",
+     "title": "Decreto-Lei n.º 113/2009",
+     "published": "2009-05-18",
+     "dre_path": "/dr/detalhe/decreto-lei/113-2009-608696"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "69821083",
+    "69821084",
+    "69821085",
+    "69821086",
+    "69821087",
+    "69821159",
+    "69821160",
+    "69821090",
+    "69821161",
+    "69821092",
+    "69821162",
+    "69821163",
+    "69821164",
+    "69821165",
+    "69821166",
+    "69821167",
+    "69821168",
+    "69821100",
+    "69821169",
+    "69821170",
+    "69821113",
+    "69821116",
+    "69821171",
+    "69821118",
+    "69821105",
+    "69821106",
+    "69821107",
+    "69821108",
+    "69821109",
+    "69821110"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:344242:por",
+     "title": "Lei n.º 46/2010",
+     "published": "2010-09-07",
+     "dre_path": "/dr/detalhe/lei/46-2010-344242",
+     "date": "2009-09-10"
+    }
+   ]
+  },
+  {
+   "date": "2010-09-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344242:por",
+     "title": "Lei n.º 46/2010",
+     "published": "2010-09-07",
+     "dre_path": "/dr/detalhe/lei/46-2010-344242"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "69821083",
+    "69821084",
+    "69821085",
+    "69821086",
+    "69821087",
+    "69821159",
+    "69821160",
+    "69821090",
+    "69829082",
+    "69821092",
+    "69821162",
+    "69821163",
+    "69821164",
+    "69821165",
+    "69829083",
+    "69821167",
+    "69821168",
+    "69821100",
+    "69821169",
+    "69821170",
+    "69821113",
+    "69821116",
+    "69821171",
+    "69821118",
+    "69821105",
+    "69821106",
+    "69821107",
+    "69821108",
+    "69821109",
+    "69821110"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344942:por",
+     "title": "Lei n.º 55-A/2010",
+     "published": "2010-12-31",
+     "dre_path": "/dr/detalhe/lei/55-a-2010-344942"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 17.º-A",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "69821083",
+    "69821084",
+    "69821085",
+    "69821086",
+    "69821087",
+    "69821159",
+    "69821160",
+    "69821090",
+    "69829082",
+    "69821092",
+    "69821162",
+    "69821163",
+    "69821164",
+    "69821165",
+    "69829083",
+    "69821167",
+    "69821168",
+    "69821100",
+    "69829086",
+    "69821170",
+    "69821113",
+    "69821116",
+    "69829087",
+    "69829084",
+    "69829085",
+    "69821105",
+    "69821106",
+    "69821107",
+    "69821108",
+    "69821109",
+    "69821110"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146220:por",
+     "title": "Lei Orgânica n.º 1/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/lei-organica/1-2011-146220"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "69821083",
+    "69821084",
+    "69821085",
+    "69821086",
+    "69821087",
+    "69839524",
+    "69821160",
+    "69821090",
+    "69829082",
+    "69821092",
+    "69821162",
+    "69821163",
+    "69821164",
+    "69821165",
+    "69829083",
+    "69821167",
+    "69821168",
+    "69821100",
+    "69829086",
+    "69821170",
+    "69821113",
+    "69821116",
+    "69829087",
+    "69829084",
+    "69829085",
+    "69821105",
+    "69821106",
+    "69821107",
+    "69821108",
+    "69821109",
+    "69821110"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243769:por",
+     "title": "Lei n.º 64-B/2011",
+     "published": "2011-12-30",
+     "dre_path": "/dr/detalhe/lei/64-b-2011-243769"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 17.º-A",
+    "Altera Artigo 18.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 16.º-A",
+    "Revoga Artigo 16.º-B"
+   ],
+   "fragments": [
+    "69821083",
+    "69821084",
+    "69821085",
+    "69821086",
+    "69821087",
+    "69829123",
+    "69829124",
+    "69821090",
+    "69829082",
+    "69821092",
+    "69829146",
+    "69829148",
+    "69829151",
+    "69829152",
+    "69829153",
+    "69829163",
+    "69829164",
+    "69829154",
+    "69829155",
+    "69829165",
+    "69829166",
+    "69829167",
+    "69829156",
+    "69829157",
+    "69829159",
+    "69821105",
+    "69821106",
+    "69821107",
+    "69821108",
+    "69821109",
+    "69821110"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 17.º-A"
+   ],
+   "fragments": [
+    "69821083",
+    "69821084",
+    "69821085",
+    "69821086",
+    "69821087",
+    "69829168",
+    "69829124",
+    "69821090",
+    "69829082",
+    "69821092",
+    "69829169",
+    "69829148",
+    "69829151",
+    "69829170",
+    "69829171",
+    "69829163",
+    "69829164",
+    "69829154",
+    "69829155",
+    "69829165",
+    "69829166",
+    "69829167",
+    "69829173",
+    "69829172",
+    "69829159",
+    "69821105",
+    "69821106",
+    "69821107",
+    "69821108",
+    "69821109",
+    "69821110"
+   ]
+  },
+  {
+   "date": "2015-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67409561:por",
+     "title": "Lei n.º 51/2015",
+     "published": "2015-06-08",
+     "dre_path": "/dr/detalhe/lei/51-2015-67409561"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º-A"
+   ],
+   "fragments": [
+    "69821083",
+    "69821084",
+    "69821085",
+    "69821086",
+    "69821087",
+    "69829168",
+    "69829124",
+    "69821090",
+    "69829082",
+    "69821092",
+    "69867816",
+    "69829148",
+    "69867817",
+    "69867818",
+    "69829171",
+    "69829163",
+    "69829164",
+    "69867819",
+    "69829155",
+    "69829165",
+    "69829166",
+    "69829167",
+    "69829173",
+    "69867820",
+    "69829159",
+    "69821105",
+    "69821106",
+    "69821107",
+    "69821108",
+    "69821109",
+    "69821110"
+   ]
+  },
+  {
+   "date": "2021-05-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:162159139:por",
+     "title": "Acórdão do Tribunal Constitucional n.º 172/2021",
+     "published": "2021-04-27",
+     "dre_path": "/dr/detalhe/acordao-tribunal-constitucional/172-2021-162159139"
+    }
+   ],
+   "changes": [
+    "Declara Inconstitucionalidade Artigo 10.º"
+   ],
+   "fragments": [
+    "69821083",
+    "69821084",
+    "69821085",
+    "69821086",
+    "69821087",
+    "69829168",
+    "69829124",
+    "69821090",
+    "69829082",
+    "69821092",
+    "69867816",
+    "69829148",
+    "69867817",
+    "162159336",
+    "69829171",
+    "69829163",
+    "69829164",
+    "69867819",
+    "69829155",
+    "69829165",
+    "69829166",
+    "69829167",
+    "69829173",
+    "69867820",
+    "69829159",
+    "69821105",
+    "69821106",
+    "69821107",
+    "69821108",
+    "69821109",
+    "69821110"
+   ]
+  }
+ ],
+ "fragments": {
+  "69821083": {
+   "fragment_id": "69814814",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 25/2006\n\nde 30 de Junho\n\nAprova o regime sancionatório aplicável às transgressões ocorridas em matéria de infra-estruturas rodoviárias onde seja devido o pagamento de taxas de portagem.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "69821084": {
+   "fragment_id": "69814815",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "69821085": {
+   "fragment_id": "69814816",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei determina que as infracções que resultam do não pagamento ou do pagamento viciado de taxas de portagem em infra-estruturas rodoviárias, anteriormente à sua entrada em vigor, previstas e punidas como contravenções e transgressões, passem a assumir a natureza de contra-ordenações."
+  },
+  "69821086": {
+   "fragment_id": "69814817",
+   "type": 11,
+   "heading": "Artigo 2.º — Utilização das infra-estruturas rodoviárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Utilização das infra-estruturas rodoviárias\n\nAs condições de utilização de títulos de trânsito em infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, que sejam objecto de contratos de concessão são definidas nos termos previstos na lei e nos referidos contratos."
+  },
+  "69821087": {
+   "fragment_id": "69814818",
+   "type": 1,
+   "heading": "Capítulo II — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Fiscalização"
+  },
+  "69821088": {
+   "fragment_id": "69814819",
+   "type": 11,
+   "heading": "Artigo 3.º — Agentes de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Agentes de fiscalização\n\n1 - A fiscalização do cumprimento das normas referentes aos títulos de trânsito em infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, é efectuada, na respectiva área de actuação, por agentes representantes das empresas concessionárias com funções de fiscalização, designadamente por portageiros.\n\n2 - Os agentes de fiscalização referidos no número anterior e todos aqueles que desempenhem funções de fiscalização em nome e no interesse das empresas concessionárias são devidamente ajuramentados e credenciados."
+  },
+  "69821089": {
+   "fragment_id": "69814820",
+   "type": 11,
+   "heading": "Artigo 4.º — Identificação do agente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Identificação do agente\n\n1 - Os agentes de fiscalização podem, no exercício das suas funções e quando tal se mostre necessário, exigir ao agente de uma contra-ordenação a respectiva identificação e solicitar a intervenção da autoridade policial.\n\n2 - A identificação é feita mediante a apresentação do bilhete de identidade ou outro documento autêntico que a permita ou ainda, na sua falta, através de uma testemunha identificada nos mesmos termos."
+  },
+  "69821090": {
+   "fragment_id": "69814821",
+   "type": 1,
+   "heading": "Capítulo III — Regime contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regime contra-ordenacional"
+  },
+  "69821091": {
+   "fragment_id": "69814822",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações praticadas no âmbito do sistema de cobrança electrónica de portagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contra-ordenações praticadas no âmbito do sistema de cobrança electrónica de portagens\n\nConstitui contra-ordenação, punível com coima, nos termos da presente lei, o não pagamento de taxas de portagem resultante:\n\na) Da transposição de uma barreira de portagem através de uma via reservada a um sistema electrónico de cobrança de portagens sem que o veículo em causa se encontre associado, por força de um contrato de adesão, ao respectivo sistema;\n\nb) Da transposição de uma barreira de portagem através de uma via reservada a um sistema electrónico de cobrança de portagens em incumprimento das condições de utilização previstas no contrato de adesão ao respectivo sistema, designadamente por falta ou deficiente colocação do equipamento no veículo, por falta de validação do equipamento nos termos contratualmente acordados, por falta de associação de meio de pagamento válido ao equipamento ou por falta de saldo bancário que permita a liquidação da taxa de portagem devida."
+  },
+  "69821092": {
+   "fragment_id": "69814823",
+   "type": 11,
+   "heading": "Artigo 6.º — Contra-ordenações praticadas no âmbito do sistema de cobrança manual de portagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contra-ordenações praticadas no âmbito do sistema de cobrança manual de portagens\n\nConstitui contra-ordenação, punível com coima, o não pagamento de qualquer taxa de portagem devida pela utilização de auto-estradas e pontes sujeitas ao regime de portagem, designadamente em consequência:\n\na) De recusa do utente em proceder ao pagamento devido;\n\nb) Do não pagamento da taxa em dívida no prazo que lhe for concedido para o efeito;\n\nc) Da passagem em via de barreira de portagem sem paragem;\n\nd) Do não pagamento do montante correspondente ao dobro do valor máximo cobrável numa determinada barreira de portagem, importância devida sempre que o utente ali se apresente sem ser portador de título de trânsito válido, nos termos da Portaria n.º 762/93, de 27 de Agosto, aplicável a todas as concessões com portagens nos termos da Portaria n.º 218/2000, de 13 de Abril."
+  },
+  "69821093": {
+   "fragment_id": "69814824",
+   "type": 11,
+   "heading": "Artigo 7.º — Determinação da coima aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Determinação da coima aplicável\n\n1 - As contra-ordenações previstas nos artigos 5.º e 6.º são punidas com coima de valor mínimo correspondente a 10 vezes o valor da respectiva taxa de portagem, mas nunca inferior a (euro) 25, e de valor máximo correspondente a 50 vezes o valor da referida taxa, com o respeito pelos limites máximos previstos no artigo 17.º do regime geral do ilícito de mera ordenação social e respectivo processo, constante do Decreto-Lei n.º 433/82, de 27 de Outubro, alterado pelos Decretos-Leis n.os 356/89, de 17 de Outubro, 244/95, de 14 de Setembro, e 323/2001, de 17 de Dezembro, e pela Lei n.º 109/2001, de 24 de Dezembro.\n\n2 - Para efeitos do disposto no número anterior, sempre que for variável a determinação da taxa de portagem em função do percurso percorrido e não for possível, no caso concreto, a sua determinação, deve considerar-se o valor máximo cobrável na respectiva barreira de portagem.\n\n3 - A negligência é punível, sendo reduzido de um terço o limite máximo da coima aplicável nos termos do presente artigo.\n\n> Nota: [Artigo 5.º, Lei n.º 27/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/27-2023-215097635) As alterações ao presente artigo entram em vigor com o Orçamento do Estado para 2024."
+  },
+  "69821094": {
+   "fragment_id": "69814825",
+   "type": 11,
+   "heading": "Artigo 8.º — Detecção da prática de contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Detecção da prática de contra-ordenações\n\n1 - A prática das contra-ordenações previstas nos artigos 5.º e 6.º pode ser detectada por qualquer agente de autoridade ou agente de fiscalização no exercício das suas funções, bem como através de equipamentos adequados, designadamente dos que registem a imagem do veículo com o qual a infracção foi praticada, nos termos da legislação aplicável à instalação e utilização de sistemas de vigilância electrónica para a prevenção e segurança em infra-estruturas rodoviárias.\n\n2 - Os equipamentos a utilizar para o fim mencionado no número anterior devem ser aprovados nos termos legais e regulamentares."
+  },
+  "69821095": {
+   "fragment_id": "69814826",
+   "type": 11,
+   "heading": "Artigo 9.º — Auto de notícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Auto de notícia\n\n1 - Quando o agente de fiscalização, no exercício das suas funções, presenciar a prática das contra-ordenações previstas nos artigos 5.º e 6.º lavra auto de notícia, do qual deve constar:\n\na) A descrição dos factos constitutivos da infracção;\n\nb) O dia, a hora e o local onde foi verificada a infracção;\n\nc) A identificação do arguido, com a menção do nome, da morada e de outros elementos necessários;\n\nd) A identificação de circunstâncias respeitantes ao arguido e à infracção que possam influir na decisão;\n\ne) A indicação das disposições legais que prevêem a infracção e a respectiva sanção aplicável;\n\nf) O prazo concedido para a apresentação de defesa e o local onde esta deve ser entregue;\n\ng) A indicação da possibilidade de pagamento voluntário da coima pelo mínimo, bem como o prazo e o local para o efeito e as consequências do não pagamento;\n\nh) Sempre que possível, a identificação de testemunhas que possam depor sobre os factos;\n\ni) A assinatura do agente que o levantou e, quando possível, de testemunhas.\n\n2 - O auto de notícia lavrado nos termos do número anterior faz fé sobre os factos presenciados pelo autuante até prova em contrário.\n\n3 - O disposto no número anterior aplica-se aos meios de prova obtidos através dos equipamentos referidos no artigo anterior.\n\n4 - O auto de notícia não deixa de ser lavrado ainda que o autuante repute a infracção como não punível, devendo, no entanto, fazer menção da circunstância.\n\n5 - O arguido é notificado da infracção que lhe é imputada e da sanção em que incorre no momento da autuação mediante a entrega do aviso de pagamento da coima.\n\n6 - A recusa de recepção do aviso de pagamento da coima não prejudica a tramitação do processo."
+  },
+  "69821096": {
+   "fragment_id": "69814827",
+   "type": 11,
+   "heading": "Artigo 10.º — Responsabilidade pelo pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Responsabilidade pelo pagamento\n\n1 - Sempre que não for possível identificar o condutor do veículo no momento da prática da contra-ordenação, é notificado o titular do documento de identificação do veículo para que este, no prazo de 15 dias úteis, proceda a essa identificação.\n\n2 - O titular do documento de identificação do veículo deve proceder à identificação do condutor, salvo se provar a utilização abusiva do veículo.\n\n3 - Na falta de cumprimento do disposto nos números anteriores, é responsável pelo pagamento das coimas a aplicar e das taxas de portagem em dívida, consoante os casos, o proprietário, o adquirente com reserva de propriedade, o usufrutuário, o locatário em regime de locação financeira ou o detentor do veículo.\n\n> Nota: [Artigo 5.º, Lei n.º 27/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/27-2023-215097635) As alterações ao presente artigo entram em vigor com o Orçamento do Estado para 2024.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 172/2021 - Diário da República n.º 81/2021, Série I de 2021-04-27](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/172-2021-162159139) Declara a inconstitucionalidade, com força obrigatória geral, da norma contida no n.º 6 do artigo 10.º da Lei n.º 25/2006, de 30 de junho, quando interpretada no sentido de estabelecer uma presunção inilidível em relação ao autor da contraordenação, independentemente da prova que sobre a autoria for feita em processo judicial."
+  },
+  "69821097": {
+   "fragment_id": "69814828",
+   "type": 11,
+   "heading": "Artigo 11.º — Acesso a dados por parte das entidades gestoras dos sistemas electrónicos de portagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acesso a dados por parte das entidades gestoras dos sistemas electrónicos de portagem\n\nPara efeitos da aplicação do disposto no artigo anterior, as concessionárias e as entidades gestoras de sistemas electrónicos de cobrança de portagens podem solicitar, com base na matrícula dos veículos, à Guarda Nacional Republicana a identificação do proprietário ou do locatário em regime de locação financeira.\n\n> Nota: [Artigo 5.º, Lei n.º 27/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/27-2023-215097635) As alterações ao presente artigo entram em vigor com o Orçamento do Estado para 2024."
+  },
+  "69821098": {
+   "fragment_id": "69814829",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamento voluntário da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento voluntário da coima\n\n1 - As concessionárias, ou as entidades incumbidas da cobrança de taxas, notificam o agente da contra-ordenação para, no prazo de 15 dias úteis, proceder ao pagamento voluntário da coima, que é liquidada pelo mínimo reduzido em 50%, e da taxa de portagem em dívida.\n\n2 - Caso o arguido não use da faculdade conferida pelo número anterior, as concessionárias ou as entidades por estas incumbidas da cobrança das taxas de portagem devidas enviam o auto de notícia à Direcção-Geral de Viação, que instaura, no âmbito da competência prevista na presente lei, o correspondente processo de contra-ordenação e notifica o arguido, juntando à notificação o duplicado do auto de notícia.\n\n3 - O arguido pode, no prazo de 15 dias úteis a contar da notificação referida no número antecedente, proceder ao pagamento voluntário da coima, que é liquidada pelo mínimo, e da taxa de portagem em dívida.\n\n4 - Em qualquer caso, o pagamento voluntário da coima só pode ser efectuado se simultaneamente for liquidada a taxa de portagem em dívida.\n\n5 - O pagamento das coimas e das taxas de portagem devidas perante as entidades referidas no n.º 1 é feito contra a entrega de recibo ou, em caso de pagamento por via electrónica, de documento equivalente.\n\n6 - O pagamento voluntário da coima nos termos dos números anteriores determina o arquivamento do processo."
+  },
+  "69821099": {
+   "fragment_id": "69814830",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito de audição e de defesa do arguido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direito de audição e de defesa do arguido\n\nO arguido pode, no prazo de 15 dias úteis a contar da notificação prevista no n.º 2 do artigo anterior, apresentar a sua defesa por escrito, com a indicação de testemunhas, até ao limite de três, bem como juntar outros meios de prova."
+  },
+  "69821100": {
+   "fragment_id": "69814831",
+   "type": 11,
+   "heading": "Artigo 14.º — Notificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Notificações\n\n1 - As notificações efectuam-se por carta registada com aviso de recepção, expedida para o domicílio ou sede do notificando.\n\n2 - Se, por qualquer motivo, as cartas previstas no número anterior forem devolvidas à entidade remetente, as notificações são reenviadas para o domicílio ou sede do notificado através de carta simples.\n\n3 - No caso previsto no número anterior, o funcionário da entidade competente lavra uma cota no processo com a indicação da data de expedição da carta e do domicílio para o qual foi enviada, considerando-se a notificação efectuada no 5.º dia posterior à data indicada, cominação que deverá constar do acto de notificação.\n\n4 - Se o notificando se recusar a receber ou a assinar a notificação, o funcionário dos serviços postais certifica a recusa, considerando-se efectuada a notificação.\n\n5 - Quando se verifique a existência de várias infracções cometidas pelo mesmo agente ou com a utilização do mesmo veículo pode efectuar-se uma única notificação."
+  },
+  "69821101": {
+   "fragment_id": "69814832",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência para o processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência para o processo\n\nA Direcção-Geral de Viação é a entidade competente para a instauração e instrução dos processos de contra-ordenação a que se refere a presente lei, bem como para a decisão de aplicação das respectivas coimas.\n\n> Nota: [Artigo 5.º, Lei n.º 27/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/27-2023-215097635) As alterações ao presente artigo entram em vigor com o Orçamento do Estado para 2024."
+  },
+  "69821102": {
+   "fragment_id": "69814833",
+   "type": 11,
+   "heading": "Artigo 16.º — Cumprimento da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cumprimento da decisão\n\nA coima e a taxa de portagem devidas devem ser pagas no prazo de 15 dias úteis a contar da data em que a decisão se tornar definitiva, devendo o pagamento efectuar-se perante a Direcção-Geral de Viação e nas modalidades que vierem a ser fixadas em regulamento."
+  },
+  "69821103": {
+   "fragment_id": "69814834",
+   "type": 11,
+   "heading": "Artigo 17.º — Distribuição do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Distribuição do produto das coimas\n\n1 - Caso a coima seja paga directamente à empresa exploradora do serviço em questão, o produto da coima é distribuído da seguinte forma:\n\na) 60% para o Estado;\n\nb) 20% para a EP - Estradas de Portugal, E. P. E.;\n\nc) 20% para a empresa exploradora do serviço em questão.\n\n2 - As concessionárias devem proceder à entrega trimestral nos cofres do Tesouro dos quantitativos que, das coimas cobradas, constituem receita do Estado.\n\n3 - Caso a coima seja paga após a instauração do processo contra-ordenacional pela Direcção-Geral de Viação, o produto da coima é distribuído da seguinte forma:\n\na) 20% para a empresa exploradora do serviço em questão;\n\nb) 20% para a Direcção-Geral de Viação;\n\nc) 20% para a EP - Estradas de Portugal, E. P. E.;\n\nd) 40% para o Estado.\n\n4 - A Direcção-Geral de Viação deve proceder à entrega trimestral às concessionárias das importâncias relativas às taxas de portagem cobradas, bem como dos quantitativos que, das coimas cobradas no âmbito dos processos de contra-ordenação, nos termos da presente lei, àquelas pertencem."
+  },
+  "69821104": {
+   "fragment_id": "69814835",
+   "type": 11,
+   "heading": "Artigo 18.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direito subsidiário\n\nÀs contra-ordenações previstas na presente lei, e em tudo quanto nela se não encontre expressamente regulado, são subsidiariamente aplicáveis as disposições do regime geral do ilícito de mera ordenação social e respectivo processo."
+  },
+  "69821105": {
+   "fragment_id": "69814836",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "69821106": {
+   "fragment_id": "69814837",
+   "type": 11,
+   "heading": "Artigo 19.º — Adequação dos contratos e das bases das concessões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Adequação dos contratos e das bases das concessões\n\n1 - Os contratos de concessão em vigor devem adequar-se ao disposto na presente lei no prazo de 120 dias a contar da sua publicação.\n\n2 - A falta de adequação dos contratos de concessão no prazo referido não prejudica a aplicação do regime previsto na presente lei."
+  },
+  "69821107": {
+   "fragment_id": "69814838",
+   "type": 11,
+   "heading": "Artigo 20.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Regime transitório\n\n1 - As contravenções e transgressões praticadas antes da data da entrada em vigor da presente lei são sancionadas como contra-ordenações, sem prejuízo da aplicação do regime que concretamente se mostrar mais favorável ao agente, nomeadamente quanto à medida das sanções aplicáveis.\n\n2 - Os processos por factos praticados antes da data da entrada em vigor da presente lei pendentes em tribunal nessa data continuam a correr os seus termos perante os tribunais em que se encontrem, sendo-lhes aplicável, até ao trânsito em julgado da decisão que lhes ponha termo, a legislação processual relativa às contravenções e transgressões.\n\n3 - Os processos por factos praticados antes da data da entrada em vigor da presente lei cuja instauração seja efectuada em momento posterior correm os seus termos perante as autoridades administrativas competentes.\n\n4 - Das decisões proferidas pelas entidades administrativas, nos termos do número anterior, cabe recurso nos termos gerais."
+  },
+  "69821108": {
+   "fragment_id": "69814839",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\n1 - Com a entrada em vigor da presente lei, são revogados os Decretos-Leis n.os 130/93, de 22 de Abril, e 39/97, de 6 de Fevereiro.\n\n2 - Mantêm-se em vigor as Portarias n.os 762/93, de 27 de Agosto, e 218/2000, de 13 de Abril."
+  },
+  "69821109": {
+   "fragment_id": "69814840",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente lei entra em vigor 120 dias após a sua publicação, excepto o artigo 19.º, que entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "69821119": {
+   "fragment_id": "69814829",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamento voluntário da coima",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Pagamento voluntário da coima\n\n1 - As concessionárias, ou as entidades incumbidas da cobrança de taxas, notificam o agente da contra-ordenação para, no prazo de 15 dias úteis, proceder ao pagamento voluntário da coima, que é liquidada pelo mínimo reduzido em 50%, e da taxa de portagem em dívida.\n\n2 - Caso o arguido não use da faculdade conferida pelo número anterior, as concessionárias ou as entidades por estas incumbidas da cobrança das taxas de portagem devidas enviam o auto de notícia ao Instituto de Infra-Estruturas Rodoviárias, I. P., que instaura, no âmbito da competência prevista na presente lei, o correspondente processo de contra-ordenação e notifica o arguido, juntando à notificação o duplicado do auto de notícia.\n\n3 - O arguido pode, no prazo de 15 dias úteis a contar da notificação referida no número antecedente, proceder ao pagamento voluntário da coima, que é liquidada pelo mínimo, e da taxa de portagem em dívida.\n\n4 - Em qualquer caso, o pagamento voluntário da coima só pode ser efectuado se simultaneamente for liquidada a taxa de portagem em dívida.\n\n5 - O pagamento das coimas e das taxas de portagem devidas perante as entidades referidas no n.º 1 é feito contra a entrega de recibo ou, em caso de pagamento por via electrónica, de documento equivalente.\n\n6 - O pagamento voluntário da coima nos termos dos números anteriores determina o arquivamento do processo.\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69821120": {
+   "fragment_id": "69814832",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência para o processo",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Competência para o processo\n\nO Instituto de Infra-Estruturas Rodoviárias, I. P., é a entidade competente para a instauração e instrução dos processos de contra-ordenação a que se refere a presente lei, bem como para a decisão de aplicação das respectivas coimas.\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69821121": {
+   "fragment_id": "69814833",
+   "type": 11,
+   "heading": "Artigo 16.º — Cumprimento da decisão",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Cumprimento da decisão\n\nA coima e a taxa de portagem devidas devem ser pagas no prazo de 15 dias úteis a contar da data em que a decisão se tornar definitiva, devendo o pagamento efectuar-se perante o Instituto de Infra-Estruturas Rodoviárias, I. P., e nas modalidades que vierem a ser fixadas em regulamento.\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69821113": {
+   "fragment_id": "69814850",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Prescrição do procedimento",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 140.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 16.º-A — Prescrição do procedimento\n\nOs procedimentos por contra-ordenação previstos na presente lei extinguem-se por efeito de prescrição logo que, sobre a prática da contra-ordenação, tenham decorrido dois anos.\n\n> Aditado pelo/a Artigo 140.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69821116": {
+   "fragment_id": "69814851",
+   "type": 11,
+   "heading": "Artigo 16.º-B — Prescrição das coimas e das sanções acessórias",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 140.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 16.º-B — Prescrição das coimas e das sanções acessórias\n\nPrescrição das coimas e das sanções acessórias\n\nAs coimas e sanções acessórias previstas na presente lei prescrevem no prazo de dois anos.\n\n> Aditado pelo/a Artigo 140.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69821122": {
+   "fragment_id": "69814834",
+   "type": 11,
+   "heading": "Artigo 17.º — Distribuição do produto das coimas",
+   "in_force_from": "2008-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Distribuição do produto das coimas\n\n1 - Caso a coima seja paga directamente à empresa exploradora do serviço em questão, o produto da coima é distribuído da seguinte forma:\n\na) 60% para o Estado;\n\nb) 20% para a EP - Estradas de Portugal, E. P. E.;\n\nc) 20% para a empresa exploradora do serviço em questão.\n\n2 - As concessionárias devem proceder à entrega trimestral nos cofres do Tesouro dos quantitativos que, das coimas cobradas, constituem receita do Estado.\n\n3 - Caso a coima seja paga após a instauração do processo contra-ordenacional pela Direcção-Geral de Viação, o produto da coima é distribuído da seguinte forma:\n\na) 20% para a empresa exploradora do serviço em questão;\n\nb) 20 % para o Instituto de Infra-Estruturas Rodoviárias, I. P.;\n\nc) 20% para a EP - Estradas de Portugal, E. P. E.;\n\nd) 40% para o Estado.\n\n4 - A Direcção-Geral de Viação deve proceder à entrega trimestral às concessionárias das importâncias relativas às taxas de portagem cobradas, bem como dos quantitativos que, das coimas cobradas no âmbito dos processos de contra-ordenação, nos termos da presente lei, àquelas pertencem.\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69821118": {
+   "fragment_id": "69814835",
+   "type": 11,
+   "heading": "Artigo 18.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direito subsidiário\n\nÀs contra-ordenações previstas na presente lei, e em tudo quanto nela se não encontre expressamente regulado, são subsidiariamente aplicáveis as disposições do regime geral do ilícito de mera ordenação social e respectivo processo."
+  },
+  "69821110": {
+   "fragment_id": "69814841",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 11 de Maio de 2006.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 14 de Junho de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 16 de Junho de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "69821159": {
+   "fragment_id": "69814819",
+   "type": 11,
+   "heading": "Artigo 3.º — Agentes de fiscalização",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 3.º — Agentes de fiscalização\n\n1 - Sem prejuízo das atribuições cometidas às autoridades policiais, a fiscalização do cumprimento das normas referentes à cobrança de portagens em infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, é efectuada, na respectiva área de actuação, por agentes representantes das empresas concessionárias ou subconcessionárias, com funções de fiscalização, designadamente por portageiros.\n\n2 - Os agentes de fiscalização referidos no número anterior são devidamente ajuramentados e credenciados pelo governador civil do distrito da sede da empresa, devendo este manter um registo permanente e actualizado de tais agentes de fiscalização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69821160": {
+   "fragment_id": "69814820",
+   "type": 11,
+   "heading": "Artigo 4.º — Poderes dos agentes de fiscalização",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 4.º — Poderes dos agentes de fiscalização\n\n1 - Os agentes de fiscalização podem, no exercício das suas funções e quando tal se mostre necessário, exigir ao agente de uma contra-ordenação a respectiva identificação e solicitar, se necessário, a intervenção da autoridade policial.\n\n2 - A identificação é feita mediante a apresentação do bilhete de identidade ou outro documento autêntico que a permita ou ainda, na sua falta, através de uma testemunha identificada nos mesmos termos.\n\n3 - No caso de ser detectada a prática dos factos constitutivos de uma contra-ordenação prevista na presente lei, os agentes de fiscalização podem mandar interromper a marcha do veículo em causa, pelo tempo estritamente necessário para lavrar o correspondente auto de notícia nos termos do artigo 9.º\n\n4 - Para efeitos do número anterior, os agentes de fiscalização devem obrigatoriamente usar uniforme e cartão de identificação aposto visivelmente e devem deslocar-se em veículo devidamente identificado como estando ao serviço de funções de fiscalização.\n\n5 - As concessionárias ou subconcessionárias submetem à aprovação do ministro responsável pela área da administração interna, os modelos de uniforme e dos veículos utilizados pelos agentes de fiscalização, os quais devem respeitar características mínimas obrigatórias a definir por portaria do referido ministro.\n\n6 - Os modelos homologados devem ser publicitados nos sítios da Internet do Instituto de Infra-Estruturas Rodoviárias, I. P., da Autoridade Nacional de Segurança Rodoviária, I. P., bem como no da concessionária ou subconcessionária respectiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69821161": {
+   "fragment_id": "69814822",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações praticadas no âmbito do sistema de cobrança electrónica de portagens",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 5.º — Contra-ordenações praticadas no âmbito do sistema de cobrança electrónica de portagens\n\n1 - Constitui contra-ordenação, punível com coima, nos termos da presente lei, o não pagamento de taxas de portagem resultante:\n\na) Da transposição de uma barreira de portagem através de uma via reservada a um sistema electrónico de cobrança de portagens sem que o veículo em causa se encontre associado, por força de um contrato de adesão, ao respectivo sistema;\n\nb) Da transposição de uma barreira de portagem através de uma via reservada a um sistema electrónico de cobrança de portagens em incumprimento das condições de utilização previstas no contrato de adesão ao respectivo sistema, designadamente por falta ou deficiente colocação do equipamento no veículo, por falta de validação do equipamento nos termos contratualmente acordados, por falta de associação de meio de pagamento válido ao equipamento ou por falta de saldo bancário que permita a liquidação da taxa de portagem devida.\n\n2 - Sem prejuízo do disposto no número seguinte, constitui, ainda, contra-ordenação, punível com coima, nos termos da presente lei, o não pagamento de taxas de portagem resultante da transposição de um local de detecção de veículos, para efeitos de cobrança electrónica de portagens, no caso de infra-estruturas rodoviárias onde seja devido o pagamento de portagens e que apenas disponham de um sistema de cobrança electrónica das mesmas, designadamente auto-estradas e pontes:\n\na) Sem que no veículo se encontre instalado, a partir do momento em que for legalmente obrigatório, o dispositivo electrónico de matrícula, ou sem que este se encontre instalado correctamente e ou a funcionar devidamente;\n\nb) Sem que o dispositivo electrónico de matrícula instalado no veículo em causa se encontre validamente associado a um sistema de pagamento;\n\nc) Em incumprimento das condições de utilização do sistema de pagamento a que foi associado o dispositivo electrónico de matrícula, designadamente por falta de saldo monetário disponível que permita a cobrança da taxa de portagem devida ou, de um modo geral, por qualquer acção ou omissão de que resulte a falta de pagamento efectivo da taxa de portagem devida.\n\n3 - Nas situações previstas no número anterior, apenas existe contra-ordenação quando não seja realizado o pagamento da taxa de portagem e dos custos administrativos associados no prazo de cinco dias úteis a contar do evento.\n\n4 - Em todos os casos em que, nos termos da presente lei, sejam devidos custos administrativos, são os mesmos fixados por portaria do membro do Governo responsável pelo sector das infra-estruturas rodoviárias.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69821162": {
+   "fragment_id": "69814824",
+   "type": 11,
+   "heading": "Artigo 7.º — Determinação da coima aplicável",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 7.º — Determinação da coima aplicável\n\n1 - As contra-ordenações previstas na presente lei são punidas com coima de valor mínimo correspondente a 10 vezes o valor da respectiva taxa de portagem, mas nunca inferior a (euro) 25, e de valor máximo correspondente ao quíntuplo do valor mínimo da coima, com respeito pelos limites máximos previstos no artigo 17.º do regime geral do ilícito de mera ordenação social.\n\n2 - Para efeitos do disposto no número anterior, sempre que for variável a determinação da taxa de portagem em função do percurso percorrido e não for possível, no caso concreto, a sua determinação, é considerado o valor máximo cobrável na respectiva barreira de portagem ou, no caso de infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, onde seja devido o pagamento de portagens e que apenas disponham de um sistema de cobrança electrónica das mesmas, no respectivo local de detecção de veículos para efeitos de cobrança electrónica de portagens.\n\n3 - A negligência é punível, sendo reduzido de um terço o limite máximo da coima aplicável nos termos do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69821163": {
+   "fragment_id": "69814825",
+   "type": 11,
+   "heading": "Artigo 8.º — Detecção da prática de contra-ordenações",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 8.º — Detecção da prática de contra-ordenações\n\n1 - A prática das contra-ordenações previstas nos artigos 5.º e 6.º pode ser detectada por qualquer agente de autoridade ou agente de fiscalização no exercício das suas funções, bem como através de equipamentos adequados, designadamente que registem a imagem ou detectem o dispositivo electrónico de matrícula do veículo com o qual a infracção foi praticada, nos termos da legislação aplicável à instalação e utilização de sistemas de vigilância electrónica para a prevenção e segurança em infra-estruturas rodoviárias ou da legislação aplicável ao dispositivo electrónico de matrícula.\n\n2 - Os equipamentos a utilizar para o fim mencionado no número anterior devem ser aprovados nos termos legais e regulamentares.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69821164": {
+   "fragment_id": "69814826",
+   "type": 11,
+   "heading": "Artigo 9.º — Auto de notícia",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 9.º — Auto de notícia\n\n1 - Quando o agente de fiscalização, no exercício das suas funções, detectar a prática ou a ocorrência de contra-ordenações previstas nos artigos 5.º e 6.º lavra auto de notícia, do qual deve constar:\n\na) A descrição dos factos constitutivos da infracção;\n\nb) O dia, a hora e o local onde foi verificada a infracção;\n\nc) A identificação do arguido, com a menção do nome, da morada e de outros elementos necessários;\n\nd) A identificação de circunstâncias respeitantes ao arguido e à infracção que possam influir na decisão;\n\ne) A indicação das disposições legais que prevêem a infracção e a respectiva sanção aplicável;\n\nf) O prazo concedido para a apresentação de defesa e o local onde esta deve ser entregue;\n\ng) A indicação da possibilidade de realizar o pagamento voluntário da taxa de portagem devida, dos custos administrativos associados, e da coima liquidada nos termos do n.º 2 do artigo 12.º, bem como o prazo e o local para o efeito e as consequências do não pagamento nesse prazo;\n\nh) Sempre que possível, a identificação de testemunhas que possam depor sobre os factos;\n\ni) A assinatura do agente que o levantou, que poderá ser efectuada por chancela, assinatura digitalizada ou outro meio de reprodução devidamente autorizado e, quando possível, de testemunhas.\n\n2 - O auto de notícia lavrado nos termos do número anterior faz fé sobre os factos detectados pelo autuante até prova em contrário.\n\n3 - O disposto no número anterior aplica-se aos meios de prova obtidos através dos equipamentos referidos no artigo anterior.\n\n4 - (Revogado.)\n\n5 - O arguido é notificado da infracção que lhe é imputada e da sanção em que incorre no momento da autuação mediante a entrega do aviso de pagamento da coima.\n\n6 - A recusa de recepção do aviso de pagamento da coima não prejudica a tramitação do processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69821165": {
+   "fragment_id": "69814827",
+   "type": 11,
+   "heading": "Artigo 10.º — Responsabilidade pelo pagamento",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 10.º — Responsabilidade pelo pagamento\n\n1 - Sempre que não for possível identificar o condutor do veículo no momento da prática da contra-ordenação, é notificado o titular do documento de identificação do veículo para que este, no prazo de 15 dias úteis, proceda a essa identificação ou pague o valor da taxa de portagem e os custos administrativos associados, salvo se provar a utilização abusiva do veículo por terceiros.\n\n2 - Na falta de cumprimento do disposto no número anterior, é responsável pelo pagamento das coimas a aplicar, das taxas de portagem e dos custos administrativos em dívida, consoante os casos, o proprietário, o adquirente com reserva de propriedade, o usufrutuário, o locatário em regime de locação financeira ou o detentor do veículo.\n\n3 - Quando, nos termos do n.º 1, seja identificado o agente da contra-ordenação, é este notificado para, no prazo de 15 dias, proceder ao pagamento da taxa de portagem e dos custos administrativos associados.\n\n4 - Caso o agente da contra-ordenação não proceda ao pagamento referido no número anterior, é lavrado auto de notícia, aplicando-se o disposto nos artigos 12.º e 13.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69821166": {
+   "fragment_id": "69814828",
+   "type": 11,
+   "heading": "Artigo 11.º — Acesso a dados por parte das entidades gestoras dos sistemas electrónicos de portagem",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 11.º — Acesso a dados por parte das entidades gestoras dos sistemas electrónicos de portagem\n\n1 - Para efeitos da aplicação do disposto no artigo anterior, as autoridades policiais, as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem e as entidades gestoras de sistemas electrónicos de cobrança de portagens, podem solicitar à Conservatória do Registo Automóvel, com base na matrícula dos veículos, a identificação das entidades referidas no n.º 2 do artigo 10.º\n\n2 - Os termos, condições e custos de disponibilização da informação referida no número anterior são definidos por protocolo a celebrar entre aquelas entidades, o Instituto dos Registos e Notariado, I. P., e o Instituto das Tecnologias de Informação da Justiça, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69821167": {
+   "fragment_id": "69814829",
+   "type": 11,
+   "heading": "Artigo 12.º — Processo de contra-ordenação",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Processo de contra-ordenação\n\n1 - As entidades referidas no artigo 11.º, cujo agente de fiscalização tenha lavrado o auto de notícia, notificam o auto de notícia ao agente da contra-ordenação.\n\n2 - No prazo de 15 dias úteis contados da data da recepção da notificação do auto de notícia, o agente da contra-ordenação pode proceder ao pagamento voluntário da coima, que é liquidada pelo mínimo reduzido em 50 %, da taxa de portagem em dívida e dos custos administrativos associados ou, em alternativa, apresentar defesa nos termos do n.º 1 do artigo seguinte.\n\n3 - Ainda que o agente da contra-ordenação não use a faculdade conferida no número anterior, e desde que a coima máxima prevista para a infracção não ultrapasse (euro) 1000, aquele pode proceder ao pagamento voluntário da coima, liquidada pelo mínimo, em qualquer momento do processo, mas sempre antes da respectiva decisão.\n\n4 - Em qualquer caso, o pagamento voluntário da coima só pode ser efectuado se simultaneamente for liquidada a taxa de portagem em dívida e os custos administrativos associados.\n\n5 - O pagamento das coimas, das taxas de portagem devidas e dos custos administrativos é feito contra a entrega de recibo ou, em caso de pagamento por via electrónica, de documento equivalente.\n\n6 - O pagamento voluntário da coima nos termos dos números anteriores determina o arquivamento do processo, devendo a entidade referida no artigo 11.º, cujo agente de fiscalização tenha lavrado o auto, informar o Instituto de Infra-Estruturas Rodoviárias, I. P., desse facto.\n\n7 - Se no prazo de sete meses contados da data da prática da infracção, o duplicado do auto de notícia não for remetido ao Instituto de Infra-Estruturas Rodoviárias, I. P., nos termos do n.º 1, o montante dos custos administrativos associados, devidos às entidades referidas no artigo 11.º, reverte na sua totalidade para o Instituto de Infra-Estruturas Rodoviárias, I. P.\n\n8 - As entidades referidas no artigo 11.º devem enviar mensalmente ao Instituto de Infra-Estruturas Rodoviárias, I. P., duplicado dos autos de notícia relativamente aos quais o agente da contra-ordenação não tenha procedido ao pagamento nos termos do n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69821168": {
+   "fragment_id": "69814830",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito de audição e de defesa do arguido",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 13.º — Direito de audição e de defesa do arguido\n\nA apresentação de defesa nos termos do n.º 2 do artigo anterior é realizada junto do Instituto de Infra-Estruturas Rodoviárias, I. P., com a indicação das testemunhas, até ao limite de três, podendo o agente da contra-ordenação juntar outros meios de prova.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69821169": {
+   "fragment_id": "69814832",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência para o processo",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Competência para o processo\n\n1 - As entidades referidas no artigo 11.º são as entidades competentes para a instauração dos processos de contra-ordenação a que se refere a presente lei.\n\n2 - A instrução dos processos e a decisão de aplicação das respectivas coimas compete ao Instituto de Infra-Estruturas Rodoviárias, I. P.\n\n3 - Sem prejuízo do disposto no presente diploma, nas contra-ordenações previstas na presente lei é aplicável o regime previsto no artigo 174.º do Código da Estrada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69821170": {
+   "fragment_id": "69814833",
+   "type": 11,
+   "heading": "Artigo 16.º — Cumprimento da decisão",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Cumprimento da decisão\n\nA coima, a taxa de portagem e os custos administrativos devidos devem ser pagos no prazo de 15 dias úteis a contar da data em que a decisão se tornar definitiva, devendo o pagamento efectuar-se perante o Instituto de Infra-Estruturas Rodoviárias, I. P., e nas modalidades que vierem a ser fixadas em regulamento aprovado por esta entidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69821171": {
+   "fragment_id": "69814834",
+   "type": 11,
+   "heading": "Artigo 17.º — Distribuição do produto das coimas",
+   "in_force_from": "2009-05-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Distribuição do produto das coimas\n\n1 - Caso a coima seja paga, nos termos do n.º 2 do artigo 12.º, o produto da mesma é distribuído da seguinte forma:\n\na) 60% para o Estado;\n\nb) 40 % para a entidade referida no artigo 11.º cujo agente de fiscalização tenha lavrado o auto de notícia;\n\nc) (Revogado.)\n\n2 - Caso a coima paga se refira a contra-ordenação constante de auto de notícia enviado ao Instituto de Infra-Estruturas Rodoviárias, I. P., nos termos do n.º 8 do artigo 12.º, o produto da mesma é distribuído da seguinte forma:\n\na) 15 % para a entidade referida no artigo 11.º cujo agente de fiscalização tenha lavrado o auto de notícia;\n\nb) 25 % para o Instituto de Infra-Estruturas Rodoviárias, I. P.;\n\nc) 20 % para a entidade que realizar a respectiva cobrança;\n\nd) 40 % para o Estado.\n\n3 - A entidade que realizar a cobrança das coimas referidas nos números anteriores deve entregar mensalmente, às entidades ali referidas, os quantitativos das coimas, as taxas de portagens e os custos administrativos que àquelas pertençam.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69829082": {
+   "fragment_id": "69814822",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações praticadas no âmbito do sistema de cobrança electrónica de portagens",
+   "in_force_from": "2010-09-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 5.º — Contra-ordenações praticadas no âmbito do sistema de cobrança electrónica de portagens\n\n1 - Constitui contra-ordenação, punível com coima, nos termos da presente lei, o não pagamento de taxas de portagem resultante:\n\na) Da transposição de uma barreira de portagem através de uma via reservada a um sistema electrónico de cobrança de portagens sem que o veículo em causa se encontre associado, por força de um contrato de adesão, ao respectivo sistema;\n\nb) Da transposição de uma barreira de portagem através de uma via reservada a um sistema electrónico de cobrança de portagens em incumprimento das condições de utilização previstas no contrato de adesão ao respectivo sistema, designadamente por falta ou deficiente colocação do equipamento no veículo, por falta de validação do equipamento nos termos contratualmente acordados, por falta de associação de meio de pagamento válido ao equipamento ou por falta de saldo bancário que permita a liquidação da taxa de portagem devida.\n\n2 - Constitui, ainda, contra-ordenação, punível com coima, nos termos da presente lei, o não pagamento de taxas de portagem resultante da transposição, numa infra-estrutura rodoviária que apenas disponha de um sistema de cobrança electrónica de portagens, de um local de detecção de veículos sem que o agente proceda ao pagamento da taxa devida nos termos legalmente estabelecidos.\n\n3 - (Revogado.)\n\n4 - Em todos os casos em que sejam devidos custos administrativos são os mesmos fixados por portaria do membro do Governo responsável pelo sector das infra-estruturas rodoviárias.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2010-09-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829083": {
+   "fragment_id": "69814828",
+   "type": 11,
+   "heading": "Artigo 11.º — Acesso a dados por parte das entidades gestoras dos sistemas electrónicos de portagem",
+   "in_force_from": "2009-09-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2009-09-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 11.º — Acesso a dados por parte das entidades gestoras dos sistemas electrónicos de portagem\n\n1 - Para efeitos da aplicação do disposto no artigo anterior, as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem e as entidades gestoras de sistemas electrónicos de cobrança de portagens, podem solicitar à Conservatória do Registo Automóvel, com base na matrícula dos veículos, a identificação das entidades referidas no n.º 2 do artigo 10.º\n\n2 - Os termos, condições e custos de disponibilização da informação referida no número anterior são definidos por protocolo a celebrar entre aquelas entidades, o Instituto dos Registos e Notariado, I. P., e o Instituto das Tecnologias de Informação da Justiça, I. P.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2009-09-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829086": {
+   "fragment_id": "69814832",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência para o processo",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Competência para o processo\n\n1 - As entidades referidas no artigo 11.º são competentes para a instauração e instrução dos processos de contra-ordenação a que se refere a presente lei, incluindo a análise da defesa, a elaboração da proposta de decisão, a notificação da decisão administrativa, bem como a preparação do título executivo.\n\n2 - A decisão administrativa a proferir nos processos mencionados no número anterior compete ao Instituto de Infra-Estruturas Rodoviárias, I. P.\n\n3 - Sem prejuízo do disposto no presente diploma, nas contra-ordenações previstas na presente lei é aplicável o regime previsto no artigo 174.º do Código da Estrada.\n\n4 - O Instituto de Infra-Estruturas, I. P., pode aplicar a sanção acessória de apreensão dos documentos de identificação do veículo, com carácter provisório e até efectivo cumprimento da decisão, notificando o arguido para proceder à entrega dos documentos na autoridade policial da área de residência no prazo de 15 dias a contar da data em que aquela decisão se tornar definitiva.\n\n5 - Para efeitos do disposto no número anterior, o Instituto de Infra-Estruturas Rodoviárias, I. P., comunica às autoridades policiais e às conservatórias do registo automóvel a identificação actualizada das matrículas dos veículos em causa.\n\n> Alterado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69829087": {
+   "fragment_id": "69814834",
+   "type": 11,
+   "heading": "Artigo 17.º — Distribuição do produto das coimas",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Distribuição do produto das coimas\n\n1 - Caso a coima seja paga até ao envio do processo de contra-ordenação para o Instituto de Infra-estruturas Rodoviárias, I. P., o produto da coima reverte:\n\na) 60 % para o Estado;\n\nb) 40 % para a entidade que realizar a respectiva cobrança.\n\n2 - Caso a coima seja paga após o envio do processo de contra-ordenação para o Instituto de Infra-estruturas Rodoviárias, I. P., o produto da coima reverte:\n\na) 25 % para a entidade referida no n.º 1 do artigo 11.º que tenha instruído o respectivo processo;\n\nb) 15 % para o Instituto de Infra-Estruturas Rodoviárias, I. P.;\n\nc) 20 % para a entidade que realizar a respectiva cobrança;\n\nd) 40 % para o Estado.\n\n3 - Caso a coima seja paga após a remessa ao Instituto de Infra-Estruturas Rodoviárias, I. P., do documento referido no n.º 2 do artigo 17.º-A, o produto da coima reverte:\n\na) 25 % para a entidade referida no n.º 1 do artigo 11.º que tenha instaurado e instruído o processo de contra-ordenação;\n\nb) 20 % para o Instituto de Infra-Estruturas Rodoviárias, I. P.;\n\nc) 15 % para a entidade que realizar a respectiva cobrança;\n\nd) 40 % para o Estado.\n\n4 - A entidade que realizar a cobrança deve entregar mensalmente, ao Instituto de Infra-Estruturas Rodoviárias, I. P., os quantitativos das taxas de portagens, coimas e custos administrativos para que este proceda à sua distribuição pelas entidades a que pertençam.\n\n> Alterado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69829084": {
+   "fragment_id": "69828926",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Natureza e execução dos créditos",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 17.º-A — Natureza e execução dos créditos\n\n1 - Compete ao Instituto de Infra-Estruturas Rodoviárias, I. P., adoptar as medidas necessárias para que, quando ocorra o não pagamento em conformidade com o disposto no artigo 16.º, haja lugar à execução do crédito composto pela taxa de portagem, coima e custos administrativos, a qual segue, com as necessárias adaptações, os termos dos artigos 148.º e seguintes do Código do Procedimento e de Processo Tributário.\n\n2 - As entidades referidas no n.º 1 do artigo 11.º da presente lei preparam e remetem, para emissão, o título executivo ao Instituto de Infra-Estruturas Rodoviárias, I. P., que exerce as funções de órgão de execução, a quem compete promover a cobrança coerciva dos créditos referidos no número anterior.\n\n3 - Cabe ao Instituto de Infra-Estruturas Rodoviárias, I. P., implementar mecanismos de troca de informação e acesso às bases de dados da Direcção-Geral dos Impostos, mediante celebração de protocolo que vise a recolha e verificação da informação indispensável ao desempenho eficaz das suas competências.\n\n4 - Equiparam-se a créditos do Estado aqueles a que se refere o n.º 1.\n\n> Aditado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+  },
+  "69829085": {
+   "fragment_id": "69814835",
+   "type": 11,
+   "heading": "Artigo 18.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direito subsidiário\n\nÀs contra-ordenações previstas na presente lei, e em tudo quanto nela se não encontre expressamente regulado, são subsidiariamente aplicáveis as disposições do regime geral do ilícito de mera ordenação social e respectivo processo."
+  },
+  "69839524": {
+   "fragment_id": "69814819",
+   "type": 11,
+   "heading": "Artigo 3.º — Agentes de fiscalização",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 3.º — Agentes de fiscalização\n\n1 - Sem prejuízo das atribuições cometidas às autoridades policiais, a fiscalização do cumprimento das normas referentes à cobrança de portagens em infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, é efectuada, na respectiva área de actuação, por agentes representantes das empresas concessionárias ou subconcessionárias, com funções de fiscalização, designadamente por portageiros.\n\n2 - Os agentes de fiscalização referidos no número anterior são devidamente ajuramentados e credenciados pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P. (IMTT, I. P.), devendo este manter um registo permanente e actualizado de tais agentes de fiscalização.\n\n3 - Os procedimentos para ajuramentação de agentes de fiscalização são definidos por deliberação do conselho directivo do IMTT, I. P.\n\n> Alterado pelo/a Artigo 14.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829123": {
+   "fragment_id": "69814819",
+   "type": 11,
+   "heading": "Artigo 3.º — Agentes de fiscalização",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 3.º — Agentes de fiscalização\n\n1 - Sem prejuízo das atribuições cometidas às autoridades policiais, a fiscalização do cumprimento das normas referentes à cobrança de portagens em infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, é efectuada, na respectiva área de actuação, por agentes representantes das empresas concessionárias ou subconcessionárias, com funções de fiscalização, designadamente por portageiros.\n\n2 - Os agentes de fiscalização referidos no número anterior são devidamente ajuramentados e credenciados pelas entidades competentes da área onde desempenham as respectivas funções, devendo estas manter um registo permanente e actualizado de tais agentes de fiscalização.\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829124": {
+   "fragment_id": "69814820",
+   "type": 11,
+   "heading": "Artigo 4.º — Poderes dos agentes de fiscalização",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 4.º — Poderes dos agentes de fiscalização\n\n1 - Os agentes de fiscalização podem, no exercício das suas funções e quando tal se mostre necessário, exigir ao agente de uma contra-ordenação a respectiva identificação e solicitar, se necessário, a intervenção da autoridade policial.\n\n2 - A identificação é feita mediante a apresentação do bilhete de identidade ou outro documento autêntico que a permita ou ainda, na sua falta, através de uma testemunha identificada nos mesmos termos.\n\n3 - No caso de ser detectada a prática dos factos constitutivos de uma contra-ordenação prevista na presente lei, os agentes de fiscalização podem, com a intervenção da autoridade policial, mandar interromper a marcha do veículo em causa, tendo em vista o pagamento imediato do valor da taxa de portagem devida e dos custos administrativos associados.\n\n4 - Se o infractor recusar efectuar o pagamento voluntário de imediato nos termos do número anterior, o agente de fiscalização lavra o correspondente auto de notícia nos termos do artigo 9.º, entregando-lhe cópia do mesmo.\n\n5 - Para efeitos do número anterior, os agentes de fiscalização devem obrigatoriamente usar uniforme e cartão de identificação aposto visivelmente e devem deslocar-se em veículo devidamente identificado como estando ao serviço de funções de fiscalização.\n\n6 - As concessionárias ou subconcessionárias submetem à aprovação do ministro responsável pela área da administração interna, os modelos de uniforme e dos veículos utilizados pelos agentes de fiscalização, os quais devem respeitar características mínimas obrigatórias a definir por portaria do referido ministro.\n\n7 - Os modelos homologados devem ser publicitados nos sítios da Internet do Instituto de Infra-Estruturas Rodoviárias, I. P., da Autoridade Nacional de Segurança Rodoviária, I. P., bem como no da concessionária ou subconcessionária respectiva.\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829146": {
+   "fragment_id": "69814824",
+   "type": 11,
+   "heading": "Artigo 7.º — Determinação da coima aplicável",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 7.º — Determinação da coima aplicável\n\n1 - As contra-ordenações previstas na presente lei são punidas com coima de valor mínimo correspondente a 10 vezes o valor da respectiva taxa de portagem, mas nunca inferior a (euro) 25, e de valor máximo correspondente ao quíntuplo do valor mínimo da coima, com respeito pelos limites máximos previstos no Regime Geral das Infracções Tributárias.\n\n2 - Para efeitos do disposto no número anterior, sempre que for variável a determinação da taxa de portagem em função do percurso percorrido e não for possível, no caso concreto, a sua determinação, é considerado o valor máximo cobrável na respectiva barreira de portagem ou, no caso de infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, onde seja devido o pagamento de portagens e que apenas disponham de um sistema de cobrança electrónica das mesmas, no sublanço ou conjunto de sublanços abrangido pelo respectivo local de detecção de veículos para efeitos de cobrança electrónica de portagens.\n\n3 - A negligência é punível, sendo reduzido de um terço o limite máximo da coima aplicável nos termos do presente artigo.\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829148": {
+   "fragment_id": "69814825",
+   "type": 11,
+   "heading": "Artigo 8.º — Detecção da prática de contra-ordenações",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 8.º — Detecção da prática de contra-ordenações\n\n1 - A prática das contra-ordenações previstas nos artigos 5.º e 6.º pode ser detectada por qualquer agente de autoridade ou agente de fiscalização no exercício das suas funções, bem como através de equipamentos adequados, designadamente que registem a imagem ou detectem o dispositivo electrónico do veículo.\n\n2 - Os equipamentos a utilizar para o fim mencionado no número anterior devem ser aprovados nos termos legais e regulamentares.\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829151": {
+   "fragment_id": "69814826",
+   "type": 11,
+   "heading": "Artigo 9.º — Auto de notícia",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 9.º — Auto de notícia\n\n1 - Quando o agente de fiscalização, no exercício das suas funções, detectar a prática ou a ocorrência de contra-ordenações previstas nos artigos 5.º e 6.º, lavra auto de notícia, nos termos do Regime Geral das Infracções Tributárias, e remete-o imediatamente à entidade competente para instaurar e instruir o processo.\n\n2 - O auto de notícia lavrado nos termos do número anterior faz fé sobre os factos detectados pelo autuante até prova em contrário.\n\n3 - O disposto no número anterior aplica-se aos meios de prova obtidos através dos equipamentos referidos no artigo anterior.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829152": {
+   "fragment_id": "69814827",
+   "type": 11,
+   "heading": "Artigo 10.º — Responsabilidade pelo pagamento",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 10.º — Responsabilidade pelo pagamento\n\n1 - Sempre que não for possível identificar o condutor do veículo no momento da prática da contra-ordenação, as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem ou as entidades gestoras de sistemas electrónicos de cobrança de portagens, consoante os casos, notificam o titular do documento de identificação do veículo para que este, no prazo de 15 dias úteis, proceda a essa identificação ou pague o valor da taxa de portagem e os custos administrativos associados, salvo se provar, no mesmo prazo, a utilização abusiva do veículo por terceiros.\n\n2 - A identificação referida no número anterior deve, sob pena de não produzir efeitos, indicar, cumulativamente:\n\na) Nome completo;\n\nb) Residência completa;\n\nc) Número de identificação fiscal.\n\n3 - Na falta de cumprimento do disposto nos números anteriores, é responsável pelo pagamento das coimas a aplicar, das taxas de portagem e dos custos administrativos em dívida, consoante os casos, o proprietário, o adquirente com reserva de propriedade, o usufrutuário, o locatário em regime de locação financeira ou o detentor do veículo.\n\n4 - Quando, nos termos do n.º 1, seja identificado o agente da contra-ordenação, é este notificado para, no prazo de 15 dias, proceder ao pagamento da taxa de portagem e dos custos administrativos associados.\n\n5 - Caso o agente da contra-ordenação não proceda ao pagamento referido no número anterior, é lavrado auto de notícia, aplicando-se o disposto no artigo 9.º do presente diploma.\n\n6 - O direito de ilidir a presunção de responsabilidade prevista no n.º 3, considera-se definitivamente precludido caso não seja exercido no prazo referido no n.º 1.\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829153": {
+   "fragment_id": "69814828",
+   "type": 11,
+   "heading": "Artigo 11.º — Acesso a dados por parte das entidades gestoras dos sistemas electrónicos de portagem",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2009-09-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 11.º — Acesso a dados por parte das entidades gestoras dos sistemas electrónicos de portagem\n\n1 - Para efeitos da emissão do auto de notícia quando não for possível identificar o condutor do veículo no momento da prática da contra-ordenação, as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem e as entidades gestoras de sistemas electrónicos de cobrança de portagens podem solicitar à Conservatória do Registo Automóvel os dados referidos no n.º 2 do artigo anterior relativamente às entidades identificadas no n.º 3 do mesmo artigo.\n\n2 - Os termos e condições de disponibilização da informação referida no n.º 1 são definidos por protocolo a celebrar entre as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem e as entidades gestoras de sistemas electrónicos de cobrança de portagens e o Instituto dos Registos e do Notariado, I. P.\n\n3 - Compete às respectivas concessionárias, subconcessionárias, às entidades de cobrança das taxas de portagem e às entidades gestoras de sistemas electrónicos de cobrança de portagens efectuar as notificações e, ou, requerer as autorizações necessárias junto da Comissão Nacional de Protecção de Dados.\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2009-09-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829163": {
+   "fragment_id": "69814829",
+   "type": 11,
+   "heading": "Artigo 12.º — Processo de contra-ordenação",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Processo de contra-ordenação\n\n1 - As entidades referidas no artigo 11.º, cujo agente de fiscalização tenha lavrado o auto de notícia, notificam o auto de notícia ao agente da contra-ordenação.\n\n2 - No prazo de 15 dias úteis contados da data da recepção da notificação do auto de notícia, o agente da contra-ordenação pode proceder ao pagamento voluntário da coima, que é liquidada pelo mínimo reduzido em 50 %, da taxa de portagem em dívida e dos custos administrativos associados ou, em alternativa, apresentar defesa nos termos do n.º 1 do artigo seguinte.\n\n3 - Ainda que o agente da contra-ordenação não use a faculdade conferida no número anterior, e desde que a coima máxima prevista para a infracção não ultrapasse (euro) 1000, aquele pode proceder ao pagamento voluntário da coima, liquidada pelo mínimo, em qualquer momento do processo, mas sempre antes da respectiva decisão.\n\n4 - Em qualquer caso, o pagamento voluntário da coima só pode ser efectuado se simultaneamente for liquidada a taxa de portagem em dívida e os custos administrativos associados.\n\n5 - O pagamento das coimas, das taxas de portagem devidas e dos custos administrativos é feito contra a entrega de recibo ou, em caso de pagamento por via electrónica, de documento equivalente.\n\n6 - O pagamento voluntário da coima nos termos dos números anteriores determina o arquivamento do processo, devendo a entidade referida no artigo 11.º, cujo agente de fiscalização tenha lavrado o auto, informar o Instituto de Infra-Estruturas Rodoviárias, I. P., desse facto.\n\n7 - Se no prazo de sete meses contados da data da prática da infracção, o duplicado do auto de notícia não for remetido ao Instituto de Infra-Estruturas Rodoviárias, I. P., nos termos do n.º 1, o montante dos custos administrativos associados, devidos às entidades referidas no artigo 11.º, reverte na sua totalidade para o Instituto de Infra-Estruturas Rodoviárias, I. P.\n\n8 - As entidades referidas no artigo 11.º devem enviar mensalmente ao Instituto de Infra-Estruturas Rodoviárias, I. P., duplicado dos autos de notícia relativamente aos quais o agente da contra-ordenação não tenha procedido ao pagamento nos termos do n.º 2.\n\n> Revogado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69829164": {
+   "fragment_id": "69814830",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito de audição e de defesa do arguido",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 13.º — Direito de audição e de defesa do arguido\n\nA apresentação de defesa nos termos do n.º 2 do artigo anterior é realizada junto do Instituto de Infra-Estruturas Rodoviárias, I. P., com a indicação das testemunhas, até ao limite de três, podendo o agente da contra-ordenação juntar outros meios de prova.\n\n> Revogado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829154": {
+   "fragment_id": "69814831",
+   "type": 11,
+   "heading": "Artigo 14.º — Notificações",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Notificações\n\n1 - As notificações previstas no artigo 10.º efectuam-se por carta registada com aviso de recepção, expedida para o domicílio ou sede do notificando.\n\n2 - Se, por qualquer motivo, as cartas previstas no número anterior forem devolvidas à entidade remetente, as notificações são reenviadas para o domicílio ou sede do notificado através de carta simples.\n\n3 - No caso previsto no número anterior, o funcionário da entidade competente lavra uma cota no processo com a indicação da data de expedição da carta e do domicílio para o qual foi enviada, considerando-se a notificação efectuada no 5.º dia posterior à data indicada, cominação que deverá constar do acto de notificação.\n\n4 - Se o notificando se recusar a receber ou a assinar a notificação, o funcionário dos serviços postais certifica a recusa, considerando-se efectuada a notificação.\n\n5 - Quando se verifique a existência de várias infracções cometidas pelo mesmo agente ou com a utilização do mesmo veículo pode efectuar-se uma única notificação.\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "69829155": {
+   "fragment_id": "69814832",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência para o processo",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Competência para o processo\n\n1 - O serviço de finanças da área do domicílio fiscal do agente de contra-ordenação é competente para a instauração e instrução dos processos de contra-ordenação a que se refere a presente lei, bem como para aplicação das respectivas coimas.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69829165": {
+   "fragment_id": "69814833",
+   "type": 11,
+   "heading": "Artigo 16.º — Cumprimento da decisão",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Cumprimento da decisão\n\nA coima, a taxa de portagem e os custos administrativos devidos devem ser pagos no prazo de 15 dias úteis a contar da data em que a decisão se tornar definitiva, devendo o pagamento efectuar-se perante o Instituto de Infra-Estruturas Rodoviárias, I. P., e nas modalidades que vierem a ser fixadas em regulamento aprovado por esta entidade.\n\n> Revogado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69829166": {
+   "fragment_id": "69814850",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Prescrição do procedimento",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Aditado pelo/a Artigo 140.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 16.º-A — Prescrição do procedimento\n\nOs procedimentos por contra-ordenação previstos na presente lei extinguem-se por efeito de prescrição logo que, sobre a prática da contra-ordenação, tenham decorrido dois anos.\n\n> Revogado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Aditado pelo/a Artigo 140.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69829167": {
+   "fragment_id": "69814851",
+   "type": 11,
+   "heading": "Artigo 16.º-B — Prescrição das coimas e das sanções acessórias",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Aditado pelo/a Artigo 140.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 16.º-B — Prescrição das coimas e das sanções acessórias\n\nPrescrição das coimas e das sanções acessórias\n\nAs coimas e sanções acessórias previstas na presente lei prescrevem no prazo de dois anos.\n\n> Revogado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Aditado pelo/a Artigo 140.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69829156": {
+   "fragment_id": "69814834",
+   "type": 11,
+   "heading": "Artigo 17.º — Distribuição do produto das coimas",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Distribuição do produto das coimas\n\n1 - O produto da coima cobrado na sequência de processo de contra-ordenação reverte:\n\na) 40 % para o Estado;\n\nb) 35 % para a Direcção-Geral dos Impostos (DGCI);\n\nc) 10 % para o InIR - Instituto de Infra-Estruturas Rodoviárias, I. P.;\n\nd) 15 % para as entidades a que se refere o artigo 11.º\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A Direcção-Geral dos Impostos (DGCI) entrega mensalmente os quantitativos das taxas de portagem, das coimas e das custas administrativas às entidades a que pertencem.\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69829157": {
+   "fragment_id": "69828926",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Natureza e execução dos créditos",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Aditado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 17.º-A — Natureza e execução dos créditos\n\n1 - Compete à administração tributária promover, nos termos do Código de Procedimento e Processo Tributário, a cobrança coerciva dos créditos compostos pela taxa de portagem, coima e custos administrativos e dos juros de mora devidos.\n\n2 - Os créditos previstos no número anterior gozam de privilégio mobiliário especial sobre os veículos com os quais hajam sido praticadas as infracções a que se refere a presente lei, quando propriedade do arguido à data daquela prática.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Aditado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+  },
+  "69829159": {
+   "fragment_id": "69814835",
+   "type": 11,
+   "heading": "Artigo 18.º — Direito subsidiário",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Direito subsidiário\n\nÀs contra-ordenações previstas na presente lei, e em tudo o que nela não se encontre expressamente regulado, é aplicável o Regime Geral das Infracções Tributárias.\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "69829168": {
+   "fragment_id": "69814819",
+   "type": 11,
+   "heading": "Artigo 3.º — Agentes de fiscalização",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 3.º — Agentes de fiscalização\n\n1 - Sem prejuízo das atribuições cometidas às autoridades policiais, a fiscalização do cumprimento das normas referentes à cobrança de portagens em infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, é efectuada, na respectiva área de actuação, por agentes representantes das empresas concessionárias ou subconcessionárias, com funções de fiscalização, designadamente por portageiros.\n\n2 - Os agentes de fiscalização referidos no número anterior são devidamente ajuramentados e credenciados pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), devendo estas manter um registo permanente e atualizado de tais agentes de fiscalização.\n\n3 - Os procedimentos para a ajuramentação de agentes de fiscalização são definidos por deliberação do conselho diretivo do IMT, I. P.\n\n> Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Lei Orgânica n.º 1/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2011-146220), em vigor a partir de 2011-12-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829169": {
+   "fragment_id": "69814824",
+   "type": 11,
+   "heading": "Artigo 7.º — Determinação da coima aplicável",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 7.º — Determinação da coima aplicável\n\n1 - As contra-ordenações previstas na presente lei são punidas com coima de valor mínimo correspondente a 10 vezes o valor da respectiva taxa de portagem, mas nunca inferior a (euro) 25, e de valor máximo correspondente ao quíntuplo do valor mínimo da coima, com respeito pelos limites máximos previstos no Regime Geral das Infracções Tributárias.\n\n2 - Para efeitos do disposto no número anterior, sempre que for variável a determinação da taxa de portagem em função do percurso percorrido e não for possível, no caso concreto, a sua determinação, é considerado o valor máximo cobrável na respectiva barreira de portagem ou, no caso de infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, onde seja devido o pagamento de portagens e que apenas disponham de um sistema de cobrança electrónica das mesmas, no sublanço ou conjunto de sublanços abrangido pelo respectivo local de detecção de veículos para efeitos de cobrança electrónica de portagens.\n\n3 - As infrações previstas nos artigos 5.º e 6.º são puníveis a título de negligência.\n\n> Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829170": {
+   "fragment_id": "69814827",
+   "type": 11,
+   "heading": "Artigo 10.º — Responsabilidade pelo pagamento",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 10.º — Responsabilidade pelo pagamento\n\n1 - Sempre que não for possível identificar o condutor do veículo no momento da prática da contra-ordenação, as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem ou as entidades gestoras de sistemas electrónicos de cobrança de portagens, consoante os casos, notificam o titular do documento de identificação do veículo para que este, no prazo de 15 dias úteis, proceda a essa identificação ou pague o valor da taxa de portagem e os custos administrativos associados, salvo se provar, no mesmo prazo, a utilização abusiva do veículo por terceiros.\n\n2 - A identificação referida no número anterior deve, sob pena de não produzir efeitos, indicar, cumulativamente:\n\na) Nome completo;\n\nb) Residência completa;\n\nc) Número de identificação fiscal, salvo se se tratar de cidadão estrangeiro que o não tenha, caso em que deverá ser indicado o número da carta de condução.\n\n3 - Na falta de cumprimento do disposto nos números anteriores, é responsável pelo pagamento das coimas a aplicar, das taxas de portagem e dos custos administrativos em dívida, consoante os casos, o proprietário, o adquirente com reserva de propriedade, o usufrutuário, o locatário em regime de locação financeira ou o detentor do veículo.\n\n4 - Quando, nos termos do n.º 1, seja identificado o agente da contra-ordenação, é este notificado para, no prazo de 15 dias, proceder ao pagamento da taxa de portagem e dos custos administrativos associados.\n\n5 - Caso o agente da contraordenação não proceda ao pagamento referido no número anterior, é lavrado auto de notícia, aplicando-se o disposto no artigo 9.º do presente diploma e extraída, pelas entidades referidas no n.º 1 do artigo 11.º, a certidão de dívida composta pelas taxas de portagem e custos administrativos associados, que são remetidos à entidade competente.\n\n6 - O direito de ilidir a presunção de responsabilidade prevista no n.º 3, considera-se definitivamente precludido caso não seja exercido no prazo referido no n.º 1.\n\n> Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829171": {
+   "fragment_id": "69814828",
+   "type": 11,
+   "heading": "Artigo 11.º — Acesso a dados por parte das entidades gestoras dos sistemas electrónicos de portagem",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2009-09-10",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 11.º — Acesso a dados por parte das entidades gestoras dos sistemas electrónicos de portagem\n\n1 - Para efeitos da emissão do auto de notícia quando não for possível identificar o condutor do veículo no momento da prática da contra-ordenação, as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem e as entidades gestoras de sistemas electrónicos de cobrança de portagens podem solicitar à Conservatória do Registo Automóvel os dados referidos no n.º 2 do artigo anterior relativamente às entidades identificadas no n.º 3 do mesmo artigo.\n\n2 - Os termos e condições de disponibilização da informação referida no número anterior são definidos por protocolo a celebrar entre as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem e as entidades gestoras de sistemas eletrónicos de cobrança de portagens e o Instituto dos Registos e do Notariado, I. P., podendo esta entidade solicitar à Autoridade Tributária e Aduaneira o número de identificação fiscal do sujeito passivo do imposto único de circulação, no ano da prática da infração.\n\n3 - Compete às respectivas concessionárias, subconcessionárias, às entidades de cobrança das taxas de portagem e às entidades gestoras de sistemas electrónicos de cobrança de portagens efectuar as notificações e, ou, requerer as autorizações necessárias junto da Comissão Nacional de Protecção de Dados.\n\n> Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 46/2010 - Diário da República n.º 174/2010, Série I de 2010-09-07](https://diariodarepublica.pt/dr/detalhe/lei/46-2010-344242), em vigor a partir de 2009-09-10\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69829173": {
+   "fragment_id": "69814834",
+   "type": 11,
+   "heading": "Artigo 17.º — Distribuição do produto das coimas",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19",
+    "Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — Distribuição do produto das coimas\n\n1 - O produto da coima cobrado na sequência de processo de contra-ordenação reverte:\n\na) 40 % para o Estado;\n\nb) 35 % para a Direcção-Geral dos Impostos (DGCI);\n\nc) 10 % para o InIR - Instituto de Infra-Estruturas Rodoviárias, I. P.;\n\nd) 15 % para as entidades a que se refere o artigo 11.º\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A Autoridade Tributária e Aduaneira entrega mensalmente os quantitativos das taxas de portagem, das coimas e das custas administrativas às entidades a que pertencem, de acordo com o n.º 1.\n\n5 - Se por efeito de arguição de alguma nulidade processual, por preterição ou erro na execução de alguma das formalidades essenciais previstas na presente lei, se vier a decretar a anulação do processado, tanto no âmbito dos processos de contraordenação, como nos processos de execução, a entidade que tiver dado azo à referida nulidade suportará os encargos efetuados com a tramitação dos respetivos processos, procedendo para o efeito a Autoridade Tributária e Aduaneira ao correspondente acerto nas entregas mensais dos quantitativos cobrados.\n\n> Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19\n\n> Alterado pelo/a Artigo 139.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01"
+  },
+  "69829172": {
+   "fragment_id": "69828926",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Natureza e execução dos créditos",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Aditado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 17.º-A — Natureza e execução dos créditos\n\n1 - Compete à administração tributária, nos termos do Código de Procedimento e de Processo Tributário, promover a cobrança coerciva dos créditos relativos à taxa de portagem, dos custos administrativos e dos juros de mora devidos, bem como da coima e respetivos encargos.\n\n2 - Os créditos previstos no número anterior gozam de privilégio mobiliário especial sobre os veículos com os quais hajam sido praticadas as infracções a que se refere a presente lei, quando propriedade do arguido à data daquela prática.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Aditado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+  },
+  "69867816": {
+   "fragment_id": "69814824",
+   "type": 11,
+   "heading": "Artigo 7.º — Determinação da coima aplicável e custas processuais",
+   "in_force_from": "2015-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01",
+    "Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 7.º — Determinação da coima aplicável e custas processuais\n\n1 - As contraordenações previstas na presente lei são punidas com coima de valor mínimo correspondente a 7,5 vezes o valor da respetiva taxa de portagem, mas nunca inferior a (euro) 25 e de valor máximo correspondente ao quadruplo do valor mínimo da coima, com respeito pelos limites máximos previstos no Regime Geral das Infrações Tributárias.\n\n2 - Para efeitos do disposto no número anterior, sempre que for variável a determinação da taxa de portagem em função do percurso percorrido e não for possível, no caso concreto, a sua determinação, é considerado o valor máximo cobrável na respectiva barreira de portagem ou, no caso de infra-estruturas rodoviárias, designadamente em auto-estradas e pontes, onde seja devido o pagamento de portagens e que apenas disponham de um sistema de cobrança electrónica das mesmas, no sublanço ou conjunto de sublanços abrangido pelo respectivo local de detecção de veículos para efeitos de cobrança electrónica de portagens.\n\n3 - As infrações previstas nos artigos 5.º e 6.º são puníveis a título de negligência.\n\n4 - Constitui uma única contraordenação as infrações previstas na presente lei que sejam praticadas pelo mesmo agente, no mesmo dia, através da utilização do mesmo veículo e que ocorram na mesma infraestrutura rodoviária, sendo o valor mínimo a que se refere o n.º 1 o correspondente ao cúmulo das taxas de portagem.\n\n5 - Para efeitos do disposto no número anterior, entende-se que as infrações são praticadas na mesma infraestrutura rodoviária quando as mesmas ocorrem em estrada cuja exploração está concessionada ou subconcessionada à mesma entidade.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01\n\n> Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69867817": {
+   "fragment_id": "69814826",
+   "type": 11,
+   "heading": "Artigo 9.º — Auto de notícia",
+   "in_force_from": "2015-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 9.º — Auto de notícia\n\n1 - Quando o agente de fiscalização, no exercício das suas funções, detetar a prática ou a ocorrência de contraordenações previstas nos artigos 5.º e 6.º, lavra auto de notícia, nos termos do Regime Geral das Infrações Tributárias, e remete-o à entidade competente para instaurar e instruir o processo.\n\n2 - O auto de notícia lavrado nos termos do número anterior faz fé sobre os factos detectados pelo autuante até prova em contrário.\n\n3 - O disposto no número anterior aplica-se aos meios de prova obtidos através dos equipamentos referidos no artigo anterior.\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n7 - É apenas lavrado um auto de notícia com as infrações praticadas em cada mês.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69867818": {
+   "fragment_id": "69814827",
+   "type": 11,
+   "heading": "Artigo 10.º — Responsabilidade pelo pagamento",
+   "in_force_from": "2015-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01",
+    "Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 10.º — Responsabilidade pelo pagamento\n\n1 - Sempre que não for possível identificar o condutor do veículo no momento da prática da contraordenação, as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem ou as entidades gestoras de sistemas eletrónicos de cobrança de portagens, consoante os casos, notificam o titular do documento de identificação do veículo para que este, no prazo de 30 dias úteis, proceda a essa identificação ou pague voluntariamente o valor da taxa de portagem e os custos administrativos associados.\n\n2 - A identificação referida no número anterior deve, sob pena de não produzir efeitos, indicar, cumulativamente:\n\na) Nome completo;\n\nb) Residência completa;\n\nc) Número de identificação fiscal, salvo se se tratar de cidadão estrangeiro que o não tenha, caso em que deverá ser indicado o número da carta de condução.\n\n3 - Na falta de cumprimento do disposto nos números anteriores, é responsável pelo pagamento das coimas a aplicar, das taxas de portagem e dos custos administrativos em dívida, consoante os casos, o proprietário, o adquirente com reserva de propriedade, o usufrutuário, o locatário em regime de locação financeira ou o detentor do veículo.\n\n4 - Quando, nos termos do n.º 1, seja identificado o agente da contraordenação, é este notificado para, no prazo de 30 dias úteis, proceder ao pagamento da taxa de portagem e dos custos administrativos associados.\n\n5 - Caso o agente da contraordenação não proceda ao pagamento referido no número anterior, é lavrado auto de notícia, aplicando-se o disposto no artigo 9.º da presente lei e extraída, pelas entidades referidas no n.º 1 do artigo 11.º, a certidão de dívida composta pelas taxas de portagem e custos administrativos associados correspondentes a cada mês, que são remetidos à entidade competente.\n\n6 - O direito de ilidir a presunção de responsabilidade prevista no n.º 3, considera-se definitivamente precludido caso não seja exercido no prazo referido no n.º 1.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01\n\n> Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  },
+  "69867819": {
+   "fragment_id": "69814831",
+   "type": 11,
+   "heading": "Artigo 14.º — Notificações",
+   "in_force_from": "2015-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Notificações\n\n1 - As notificações previstas no artigo 10.º efectuam-se por carta registada com aviso de recepção, expedida para o domicílio ou sede do notificando.\n\n2 - Se, por qualquer motivo, as cartas previstas no número anterior forem devolvidas à entidade remetente, as notificações são reenviadas para o domicílio ou sede do notificado através de carta simples.\n\n3 - No caso previsto no número anterior, o funcionário da entidade competente lavra uma cota no processo com a indicação da data de expedição da carta e do domicílio para o qual foi enviada, considerando-se a notificação efectuada no 5.º dia posterior à data indicada, cominação que deverá constar do acto de notificação.\n\n4 - Se o notificando se recusar a receber ou a assinar a notificação, o funcionário dos serviços postais certifica a recusa, considerando-se efectuada a notificação.\n\n5 - Quando se verifique a existência de várias infracções cometidas pelo mesmo agente ou com a utilização do mesmo veículo pode efectuar-se uma única notificação.\n\n6 - Caso uma única notificação se revelar insuficiente para listar a totalidade das infrações cometidas em determinado período pelo agente, pode a administração tributária disponibilizar a informação relevante no Portal das Finanças, remetendo sempre segunda carta contendo a listagem das infrações cometidas.\n\n7 - Nos casos previstos no número anterior, a notificação deve conter:\n\na) A indicação de que as infrações podem ser consultadas no Portal das Finanças; e\n\nb) A referência de que o agente pode consultar a listagem das infrações cometidas na segunda carta que receber.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01"
+  },
+  "69867820": {
+   "fragment_id": "69828926",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Natureza e execução dos créditos",
+   "in_force_from": "2015-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01",
+    "Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Aditado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 17.º-A — Natureza e execução dos créditos\n\n1 - Compete à administração tributária, nos termos do Código de Procedimento e de Processo Tributário, promover a cobrança coerciva dos créditos relativos à taxa de portagem, dos custos administrativos e dos juros de mora devidos, bem como da coima e respetivos encargos.\n\n2 - Os créditos previstos no número anterior gozam de privilégio mobiliário especial sobre os veículos com os quais hajam sido praticadas as infracções a que se refere a presente lei, quando propriedade do arguido à data daquela prática.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - A administração tributária instaura um único processo executivo pelas taxas de portagem e custos administrativos associados correspondentes a cada mês, por referência a cada agente e a cada entidade concessionária ou subconcessionária.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01\n\n> Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Aditado pelo/a Artigo 175.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+  },
+  "162159336": {
+   "fragment_id": "69814827",
+   "type": 11,
+   "heading": "Artigo 10.º — Responsabilidade pelo pagamento",
+   "in_force_from": "2021-05-02",
+   "changed_by": [
+    "Declarada Inconstitucionalidade pelo/a [Acórdão do Tribunal Constitucional n.º 172/2021 - Diário da República n.º 81/2021, Série I de 2021-04-27](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/172-2021-162159139), em vigor a partir de 2021-05-02",
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01",
+    "Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01",
+    "Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+   ],
+   "markdown": "###### Artigo 10.º — Responsabilidade pelo pagamento\n\n1 - Sempre que não for possível identificar o condutor do veículo no momento da prática da contraordenação, as concessionárias, as subconcessionárias, as entidades de cobrança das taxas de portagem ou as entidades gestoras de sistemas eletrónicos de cobrança de portagens, consoante os casos, notificam o titular do documento de identificação do veículo para que este, no prazo de 30 dias úteis, proceda a essa identificação ou pague voluntariamente o valor da taxa de portagem e os custos administrativos associados.\n\n2 - A identificação referida no número anterior deve, sob pena de não produzir efeitos, indicar, cumulativamente:\n\na) Nome completo;\n\nb) Residência completa;\n\nc) Número de identificação fiscal, salvo se se tratar de cidadão estrangeiro que o não tenha, caso em que deverá ser indicado o número da carta de condução.\n\n3 - Na falta de cumprimento do disposto nos números anteriores, é responsável pelo pagamento das coimas a aplicar, das taxas de portagem e dos custos administrativos em dívida, consoante os casos, o proprietário, o adquirente com reserva de propriedade, o usufrutuário, o locatário em regime de locação financeira ou o detentor do veículo.\n\n4 - Quando, nos termos do n.º 1, seja identificado o agente da contraordenação, é este notificado para, no prazo de 30 dias úteis, proceder ao pagamento da taxa de portagem e dos custos administrativos associados.\n\n5 - Caso o agente da contraordenação não proceda ao pagamento referido no número anterior, é lavrado auto de notícia, aplicando-se o disposto no artigo 9.º da presente lei e extraída, pelas entidades referidas no n.º 1 do artigo 11.º, a certidão de dívida composta pelas taxas de portagem e custos administrativos associados correspondentes a cada mês, que são remetidos à entidade competente.\n\n6 - O direito de ilidir a presunção de responsabilidade prevista no n.º 3, considera-se definitivamente precludido caso não seja exercido no prazo referido no n.º 1.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 172/2021 - Diário da República n.º 81/2021, Série I de 2021-04-27](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/172-2021-162159139) Declara a inconstitucionalidade, com força obrigatória geral, da norma contida no n.º 6 do artigo 10.º da Lei n.º 25/2006, de 30 de junho, quando interpretada no sentido de estabelecer uma presunção inilidível em relação ao autor da contraordenação, independentemente da prova que sobre a autoria for feita em processo judicial.\n\n> Declarada Inconstitucionalidade pelo/a [Acórdão do Tribunal Constitucional n.º 172/2021 - Diário da República n.º 81/2021, Série I de 2021-04-27](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/172-2021-162159139), em vigor a partir de 2021-05-02\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 51/2015 - Diário da República n.º 110/2015, Série I de 2015-06-08](https://diariodarepublica.pt/dr/detalhe/lei/51-2015-67409561), em vigor a partir de 2015-08-01\n\n> Alterado pelo/a Artigo 259.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01\n\n> Alterado pelo/a Artigo 177.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 113/2009 - Diário da República n.º 95/2009, Série I de 2009-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/113-2009-608696), em vigor a partir de 2009-05-19"
+  }
+ }
+}

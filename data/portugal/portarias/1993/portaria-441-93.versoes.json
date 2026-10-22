@@ -1,0 +1,96 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:665969:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1993-944759220",
+ "dre_path": "/dr/detalhe/portaria/441-1993-665969",
+ "source_lastmod": "2025-11-06",
+ "versions": [
+  {
+   "date": "1993-04-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944872076"
+   ]
+  },
+  {
+   "date": "1993-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:593687:por",
+     "title": "Declaração de Rectificação n.º 94/93",
+     "published": "1993-05-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/94-1993-593687"
+    }
+   ],
+   "changes": [
+    "Retifica 1.º",
+    "Retifica 2.º"
+   ],
+   "fragments": [
+    "944872076",
+    "944872084",
+    "944872085",
+    "944872077",
+    "944872079",
+    "944872078"
+   ]
+  }
+ ],
+ "fragments": {
+  "944872076": {
+   "fragment_id": "944759221",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 441/93\n\nO Decreto-Lei n.º 247/92, de 7 de Novembro, estabelece medidas que visam a racionalização e o pleno emprego dos recursos humanos da administração pública, através de mecanismos de mobilidade de pessoal e de descongestionamento de efectivos a aplicar aos funcionários e agentes que venham a ser considerados disponíveis.\n\nIdentifica o mesmo diploma as situações que podem dar origem à disponibilização do pessoal, sendo uma delas a alteração de quadros de pessoal em resultado do seu desajustamento qualitativo e ou quantitativo relativamente às necessidades permanentes dos serviços.\n\nÉ este o alcance primordial da presente portaria.\n\nEfectuados os estudos conducentes à melhoria da qualidade dos serviços, através do aumento da eficiência da gestão dos meios humanos e financeiros disponíveis no Instituto de Gestão Financeira da Segurança Social é alterado o respectivo quadro de pessoal, no que respeita às carreiras de fiscal técnico de obras, desenhador de construção civil, fiscal administrativo, encadernador, fotógrafo de fotolitografia, estucador, pedreiro, pintor, jardineiro, telefonista, auxiliar administrativo e servente.\n\nAo abrigo do disposto no artigo 1.º, n.º 2, do Decreto-Lei n.º 59/76, de 23 de Janeiro, e do n.º 1, alínea c), do artigo 2.º do Decreto-Lei n.º 247/92, de 7 de Novembro:\n\nManda o Governo, pelos Ministros das Finanças e do Emprego e da Segurança Social, o seguinte:"
+  },
+  "944872084": {
+   "fragment_id": "944759226",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "1993-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 94/93 - Diário da República n.º 126/1993, 4º Suplemento, Série I-B de 1993-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/94-1993-593687), em vigor a partir de 1993-05-31"
+   ],
+   "markdown": "###### 1.º\n\nAo quadro de pessoal do Instituto de Gestão Financeira da Segurança Social, aprovado pelas Portarias n.os 4/88, de 6 de Janeiro, e 168/88, de 19 de Março, com as alterações decorrentes das Portarias n.os 75/89, de 2 de Fevereiro, 484/90, de 29 de Junho, e 246/91, de 25 de Março, e dos Decretos-Leis n.os 258/91, de 18 de Julho, 106/92, de 30 de Maio, e 110/92, de 2 de Junho, são abatidos os lugares referidos no mapa I, anexo à presente portaria, de acordo com as correspondentes observações, passando o mesmo quadro, no que respeita às carreiras e categorias naquele contempladas, a ser o constante do mapa II, anexo à mesma portaria desde o dia seguinte ao da sua publicação.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 94/93 - Diário da República n.º 126/1993, 4º Suplemento, Série I-B de 1993-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/94-1993-593687), em vigor a partir de 1993-05-31"
+  },
+  "944872085": {
+   "fragment_id": "944759225",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "1993-05-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 94/93 - Diário da República n.º 126/1993, 4º Suplemento, Série I-B de 1993-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/94-1993-593687), em vigor a partir de 1993-05-31"
+   ],
+   "markdown": "###### 2.º\n\nSem prejuízo do que dispõe o número anterior, a extinção dos lugares prevista no mapa I da presente portaria reporta-se à data da conclusão do processo de destino do pessoal identificado como disponível.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 94/93 - Diário da República n.º 126/1993, 4º Suplemento, Série I-B de 1993-05-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/94-1993-593687), em vigor a partir de 1993-05-31"
+  },
+  "944872077": {
+   "fragment_id": "944759222",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 2 de Abril de 1993.\n\nPelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro do Emprego e da Segurança Social, José Luís Campos Vieira de Castro, Secretário de Estado da Segurança Social."
+  },
+  "944872079": {
+   "fragment_id": "944759224",
+   "type": 14,
+   "heading": "Mapa I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa I\n\n(ver documento original)"
+  },
+  "944872078": {
+   "fragment_id": "944759223",
+   "type": 14,
+   "heading": "Mapa II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa II\n\n(ver documento original)"
+  }
+ }
+}

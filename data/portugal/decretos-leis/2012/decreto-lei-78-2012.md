@@ -1,0 +1,225 @@
+---
+schema_version: '1.0'
+id: pt:dre:553957:por
+title: Decreto-Lei n.º 78/2012
+short_title: null
+summary: Aprova a orgânica da Biblioteca Nacional de Portugal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 78/2012
+official_date: null
+publication_date: '2012-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2012, Série I de 2012-03-27
+  number: '62'
+  series: I
+  supplement: null
+  pages: 1467 - 1468
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06200/0146701468.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/78/2012/03/27/p/dre/pt/html
+  oj: null
+  dre: '553957'
+  dre_path: /dr/detalhe/decreto-lei/78-2012-553957
+  internal: pt:dre:553957:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2012-553957
+  metadata_url: https://data.dre.pt/eli/dec-lei/78/2012/03/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2012-553957
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-07-25T00:00:00Z'
+integrity:
+  source_sha256: 47e176dc0ab280792d68344699eea8bd3a112120b7a28f608ead4099ded41801
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-78-553957.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Definição de Competências
+- Diretor Geral
+- Biblioteca Nacional de Portugal
+- Orgânica
+- Subdirector Geral
+relationships:
+- type: amended_by
+  target: pt:dre:926483751:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/90/2007/03/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/90/2007/03/29/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 78/2012
+
+de 27 de março
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e da melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar maior coerência e capacidade de resposta no desempenho de funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Neste contexto, o presente decreto-lei representa um contributo para a concretização da política enunciada, através da reorganização interna da estrutura orgânica da Biblioteca Nacional de Portugal, em consonância com o disposto na orgânica da Presidência do Conselho de Ministros, no que respeita aos serviços e organismos para a área da cultura, e que, entre outros aspetos, passa a integrar a Biblioteca Pública de Évora.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Biblioteca Nacional de Portugal, abreviadamente designada por BNP, é um serviço central da administração direta do Estado, dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A BNP tem por missão proceder à recolha, tratamento e conservação do património documental português, em língua portuguesa e sobre Portugal, nos vários tipos de suporte em que este se apresente, bem como assegurar o seu estudo, divulgação e as condições para a sua fruição e garantir a classificação e inventariação do património bibliográfico nacional.
+
+2 - A BNP prossegue as seguintes atribuições:
+
+a) Receber, processar, conservar e facultar ao acesso público quer a documentação abrangida por depósito legal, quer outra, adquirida a diversos títulos, considerada de interesse para a língua portuguesa, a cultura e o conhecimento científico do País, de modo a enriquecer, em todos os campos do saber, o património nacional;
+
+b) Assegurar as funções de Agência Bibliográfica Nacional, registando e difundindo a bibliografia nacional corrente e retrospetiva, bem como assegurar a gestão do Catálogo Coletivo Nacional consubstanciado na PORBASE - Base Nacional de Dados Bibliográficos;
+
+c) Funcionar como organismo de normalização sectorial no domínio da informação e documentação no País, mantendo uma atualização e uma relação permanente com as organizações desse âmbito a nível internacional;
+
+d) Definir estratégias e desenvolver atividades de preservação e conservação dos acervos à sua guarda, incluindo uma ativa política de transferência de suportes;
+
+e) Promover e participar em projetos de cooperação nacionais e internacionais, visando o desenvolvimento de novos serviços comuns e partilhados, nomeadamente no âmbito da informação digital, em articulação com o Gabinete de Estratégia, Planeamento e Avaliação Culturais;
+
+f) Propor a classificação de bens culturais do património bibliográfico como de interesse público ou de interesse nacional;
+
+g) Exercer, em representação do Estado, o direito de preferência em caso de alienação, designadamente, em hasta pública ou leilão, de espécies e coleções bibliográficas, fundos bibliográficos e espólios documentais, independentemente da sua classificação ou inventariação;
+
+h) Assegurar, nos termos da lei e do direito europeu, os procedimentos relativos à exportação, expedição e circulação de bens do património bibliográfico.
+
+###### Artigo 3.º — Órgãos
+
+A BNP é dirigida por um diretor-geral, coadjuvado por um subdiretor-geral, cargos de direção superior do 1.º e do 2.º graus, respetivamente.
+
+###### Artigo 4.º — Diretor-geral
+
+1 - O diretor-geral exerce as competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas.
+
+2 - O subdiretor-geral exerce as competências que lhe sejam delegadas ou subdelegadas pelo diretor-geral, competindo-lhe substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Tipo de organização interna
+
+A organização interna da BNP obedece ao modelo de estrutura hierarquizada.
+
+###### Artigo 6.º — Receitas
+
+1 - A BNP dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A BNP dispõe ainda das seguintes receitas próprias:
+
+a) As quantias cobradas pelos serviços prestados a entidades públicas ou privadas, por si ou pelos serviços dependentes;
+
+b) As quantias cobradas pela venda das publicações que edite ou de outras que revelem interesse para o público, assim como de outros produtos de idêntica natureza;
+
+c) As quantias cobradas pela venda dos bens do património móvel no respeito pelos procedimentos legais;
+
+d) Os rendimentos dos espaços, dependências e bens próprios e daqueles que a qualquer título fruir;
+
+e) O produto da alienação ou cedência de direitos do seu património, ou dos serviços dependentes, nomeadamente do direito de reprodução, nos termos da lei;
+
+f) Os valores cobrados pela inscrição e frequência das ações de formação promovidas pela BNP no âmbito das suas atribuições;
+
+g) O valor das penalizações que se encontrem estatuídas por infração às normas relativas ao depósito legal;
+
+h) As doações, heranças, legados, subvenções, subsídios e comparticipações que lhe forem atribuídos;
+
+i) O produto de apoios que lhe forem concedidos ao abrigo do Estatuto do Mecenato para projetos de manifesto interesse cultural;
+
+j) Quaisquer outras receitas que, por lei, contrato ou qualquer outro título, lhe sejam atribuídas.
+
+3 - As quantias cobradas pela BNP são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
+
+4 - As receitas previstas no número anterior obedecem ao regime de tesouraria do Estado e são consignadas à realização de despesas da BNP durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos previstos no decreto-lei de execução orçamental anual.
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da BNP as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 8.º — Mapa de cargos de direção
+
+Os lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+
+###### Artigo 9.º — Poderes de autoridade
+
+Os dirigentes e o pessoal da BNP gozam dos poderes de autoridade do Estado constantes das disposições da lei de bases da política e do regime de proteção e valorização do património cultural e demais legislação regulamentar, nomeadamente no que respeita ao património bibliográfico, quando em serviço e sempre que tal se demonstre necessário à aplicação dos respetivos regimes jurídicos.
+
+###### Artigo 10.º — Sucessão
+
+A BNP sucede nas atribuições da Direção-Geral do Livro e das Bibliotecas relativas à Biblioteca Pública de Évora.
+
+###### Artigo 11.º — Critérios de seleção de pessoal
+
+É fixado como critério geral e abstrato de seleção de pessoal o desempenho de funções na Biblioteca Pública de Évora.
+
+###### Artigo 12.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 90/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2007-520436), de 29 de março.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 16 de fevereiro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
+
+**Promulgado em 21 de março de 2012.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 22 de março de 2012.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**
+
+## ANEXO — Mapa a que se refere o artigo 8.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06200/0146701468.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06200/0146701468.pdf)

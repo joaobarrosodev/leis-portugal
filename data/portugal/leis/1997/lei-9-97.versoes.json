@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:385207:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1997-131330694",
+ "dre_path": "/dr/detalhe/lei/9-1997-385207",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-05-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "131330655",
+    "131330656",
+    "131330657",
+    "131330658",
+    "131330659",
+    "131330660",
+    "131330661",
+    "131330662",
+    "131330663",
+    "131330664",
+    "131330665"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130893436:por",
+     "title": "Lei n.º 2/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/lei/2-2020-130893436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "131330655",
+    "131330656",
+    "131330657",
+    "131330658",
+    "131330659",
+    "131330660",
+    "131330667",
+    "131330662",
+    "131330663",
+    "131330664",
+    "131330665",
+    "131330666"
+   ]
+  }
+ ],
+ "fragments": {
+  "131330655": {
+   "fragment_id": "131330695",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 9/97\n\nde 12 de Maio\n\nAssociações de família\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea h), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "131330656": {
+   "fragment_id": "131330696",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece a constituição e os direitos e deveres das associações representativas das famílias."
+  },
+  "131330657": {
+   "fragment_id": "131330697",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nPara efeitos da presente lei, consideram-se associações de família as instituições dotadas de personalidade jurídica, sem fins lucrativos, de âmbito nacional, regional ou local, constituídas nos termos da lei geral e que tenham por objectivos prosseguir, nomeadamente, os seguintes fins:\n\na) Defender e promover os direitos e interesses da família, qualquer que seja a sua forma, em tudo quanto respeite à sua valorização, de modo a permitir a realização pessoal dos seus membros;\n\nb) Desenvolver acções de apoio às famílias com vista à melhoria efectiva das suas condições de vida;\n\nc) Criar condições necessárias para que a família desempenhe a sua função educativa no respeito pela dignidade da pessoa humana e em ordem ao desenvolvimento da solidariedade familiar e entre gerações;\n\nd) Fortalecer a família e estimular as capacidades próprias de iniciativa na promoção dos seus direitos e liberdades fundamentais;\n\ne) Promover a intervenção da família como elemento fundamental da sociedade na vida das comunidades em que se insere."
+  },
+  "131330658": {
+   "fragment_id": "131330698",
+   "type": 11,
+   "heading": "Artigo 3.º — Independência e autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Independência e autonomia\n\nAs associações de família são independentes do Estado e dos partidos políticos e têm o direito de livremente elaborar, aprovar e modificar os seus estatutos, eleger os seus corpos sociais, aprovar os seus planos de actividade e administrar o seu património."
+  },
+  "131330659": {
+   "fragment_id": "131330699",
+   "type": 11,
+   "heading": "Artigo 4.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reconhecimento\n\n1 - Às associações de família, que gozam de representatividade genérica, é reconhecido o estatuto de parceiro social.\n\n2 - Compete à entidade governamental responsável pelas questões da igualdade e da família o reconhecimento da representatividade genérica, a requerimento das associações interessadas, nos termos a regulamentar.\n\n3 - Para efeitos do número anterior deve ser remetido ao Alto-Comissário para as Questões da Promoção da Igualdade e da Família uma cópia dos estatutos das associações de família, programas de actividades e outros elementos julgados necessários com vista à apreciação dos requerimentos."
+  },
+  "131330660": {
+   "fragment_id": "131330700",
+   "type": 11,
+   "heading": "Artigo 5.º — Organizações federativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Organizações federativas\n\nAs associações de família são livres de se agrupar ou filiar em uniões, federações ou confederações, de âmbito local, regional ou internacional, com os mesmos fins ou análogos."
+  },
+  "131330661": {
+   "fragment_id": "131330701",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direitos\n\n1 - As associações de família com representatividade genérica gozam dos seguintes direitos:\n\na) Participar na definição da política de família;\n\nb) Participar no processo de elaboração da respectiva legislação;\n\nc) Estatuto de parceiro social, traduzido na indicação de representantes para órgãos de consulta ou concertação que se ocupem da matéria;\n\nd) Exercer a acção popular em defesa dos direitos da família;\n\ne) Solicitar às entidades competentes as informações que lhes permitam acompanhar a definição e execução das políticas de família;\n\nf) Direito de antena na rádio e televisão, em termos a regulamentar;\n\ng) Isenção do pagamento de custas, preparos e de imposto do selo;\n\nh) Benefícios fiscais e emolumentares legalmente atribuídos às pessoas colectivas de utilidade pública;\n\ni) Apoio do Estado, através da administração central, regional e local, para a prossecução dos seus fins, em termos a regulamentar.\n\n2 - As demais associações de família gozam dos direitos definidos nas alíneas e), g), h) e i) do número anterior."
+  },
+  "131330662": {
+   "fragment_id": "131330702",
+   "type": 11,
+   "heading": "Artigo 7.º — Mecenato associativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mecenato associativo\n\nÀs pessoas, individuais ou colectivas, que financiarem actividades ou projectos de associações de família poderão ser atribuídas deduções ou isenções fiscais, nos termos a definir."
+  },
+  "131330663": {
+   "fragment_id": "131330703",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direito aplicável\n\nAs associações de família regem-se pelos respectivos estatutos, pelo presente diploma e, subsidiriamente, pela lei geral sobre o direito de associação."
+  },
+  "131330664": {
+   "fragment_id": "131330704",
+   "type": 11,
+   "heading": "Artigo 9.º — Associações já constituídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Associações já constituídas\n\nAs associações de família legalmente constituídas à data de entrada em vigor do presente diploma que pretendam beneficiar dos direitos nele consagrados devem proceder ao depósito da cópia dos respectivos estatutos, em conformidade com o disposto neste diploma."
+  },
+  "131330665": {
+   "fragment_id": "131330705",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\n1 - A presente lei entra em vigor sem prejuízo do disposto no número seguinte.\n\n2 - O disposto nas alíneas g) e h) do n.º 1 do artigo 6.º da presente lei entra em vigor com a publicação da Lei do Orçamento do Estado posterior à sua aprovação."
+  },
+  "131330667": {
+   "fragment_id": "131330701",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 386.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+   ],
+   "markdown": "###### Artigo 6.º — Direitos\n\n1 - As associações de família com representatividade genérica gozam dos seguintes direitos:\n\na) Participar na definição da política de família;\n\nb) Participar no processo de elaboração da respectiva legislação;\n\nc) Estatuto de parceiro social, traduzido na indicação de representantes para órgãos de consulta ou concertação que se ocupem da matéria;\n\nd) Exercer a acção popular em defesa dos direitos da família;\n\ne) Solicitar às entidades competentes as informações que lhes permitam acompanhar a definição e execução das políticas de família;\n\nf) Direito de antena na rádio e televisão, em termos a regulamentar;\n\ng) Isenção do pagamento de custas, preparos e de imposto do selo;\n\nh) (Revogada);\n\ni) Apoio do Estado, através da administração central, regional e local, para a prossecução dos seus fins, em termos a regulamentar.\n\n2 - As demais associações de família gozam dos direitos definidos nas alíneas e), g), h) e i) do número anterior.\n\n> Alterado pelo/a Artigo 386.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01"
+  },
+  "131330666": {
+   "fragment_id": "131330706",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 6 de Março.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 17 de Abril de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 21 de Abril de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

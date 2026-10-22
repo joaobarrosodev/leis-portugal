@@ -1,0 +1,1637 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:239857:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-34450175",
+ "dre_path": "/dr/detalhe/lei/67-1998-239857",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-10-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123795847",
+    "43475475",
+    "43475575",
+    "43475675",
+    "43475775",
+    "43475875",
+    "43475975",
+    "43476075",
+    "43476175",
+    "43476275",
+    "43476375",
+    "43476475",
+    "43476575",
+    "43476675",
+    "43476775",
+    "43476875",
+    "43476975",
+    "43477075",
+    "43477175",
+    "43477275",
+    "43477375",
+    "43477475",
+    "43477575",
+    "43477675",
+    "43477775",
+    "43477875",
+    "43477975",
+    "43478075",
+    "43478175",
+    "43478275",
+    "43478375",
+    "43478475",
+    "43478575",
+    "43478675",
+    "43478775",
+    "43478875",
+    "43478975",
+    "43479075",
+    "43479175",
+    "43479275",
+    "43479375",
+    "43479475",
+    "43479575",
+    "43479675",
+    "43479775",
+    "43479875",
+    "43479975",
+    "43480075",
+    "43480175",
+    "43480275",
+    "43480375",
+    "43480475",
+    "43480575",
+    "43480675",
+    "43480775",
+    "43480875",
+    "43480975",
+    "43481075",
+    "43481175",
+    "43481275",
+    "43481375",
+    "43481475",
+    "43481575",
+    "43481675",
+    "43481775",
+    "43481875",
+    "43481975",
+    "43482075",
+    "43482175",
+    "43482275",
+    "43482375"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:210469:por",
+     "title": "Declaração de Rectificação n.º 22/98",
+     "published": "1998-11-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/22-1998-210469",
+     "date": "1998-10-27"
+    }
+   ]
+  },
+  {
+   "date": "2015-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70086390:por",
+     "title": "Lei n.º 103/2015",
+     "published": "2015-08-24",
+     "dre_path": "/dr/detalhe/lei/103-2015-70086390"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 45.º-A"
+   ],
+   "fragments": [
+    "43475375",
+    "43475475",
+    "43475575",
+    "43475675",
+    "43475775",
+    "43475875",
+    "43475975",
+    "43476075",
+    "43476175",
+    "43476275",
+    "43476375",
+    "43476475",
+    "43476575",
+    "43476675",
+    "43476775",
+    "43476875",
+    "43476975",
+    "43477075",
+    "43477175",
+    "43477275",
+    "43477375",
+    "43477475",
+    "43477575",
+    "43477675",
+    "43477775",
+    "43477875",
+    "43477975",
+    "43478075",
+    "43478175",
+    "43478275",
+    "43478375",
+    "43478475",
+    "43478575",
+    "43478675",
+    "43478775",
+    "43478875",
+    "43478975",
+    "43479075",
+    "43479175",
+    "75044343",
+    "43479375",
+    "43479475",
+    "43479575",
+    "43479675",
+    "43479775",
+    "43479875",
+    "43479975",
+    "43480075",
+    "43480175",
+    "43480275",
+    "43480375",
+    "43480475",
+    "43480575",
+    "43480675",
+    "43480775",
+    "43480875",
+    "43480975",
+    "43481075",
+    "43481175",
+    "43481275",
+    "43481375",
+    "43481475",
+    "43481575",
+    "75044347",
+    "75044348",
+    "75044349",
+    "75044350",
+    "75044351",
+    "43482075",
+    "43482175",
+    "43482275",
+    "43482375",
+    "43482575"
+   ]
+  },
+  {
+   "date": "2019-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123815982:por",
+     "title": "Lei n.º 58/2019",
+     "published": "2019-08-08",
+     "dre_path": "/dr/detalhe/lei/58-2019-123815982"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "123795847",
+    "123795848",
+    "123795849",
+    "123795850",
+    "123795851",
+    "123795852",
+    "123795853",
+    "123795854",
+    "123795855",
+    "123795856",
+    "123795857",
+    "123795858",
+    "123795859",
+    "123795860",
+    "123795861",
+    "123795862",
+    "123795863",
+    "123795864",
+    "123795865",
+    "123795866",
+    "123795867",
+    "123795868",
+    "123795869",
+    "123795870",
+    "123795871",
+    "123795872",
+    "123795873",
+    "123795874",
+    "123879575",
+    "123879576",
+    "123879577",
+    "123879578",
+    "123879579",
+    "123879580",
+    "123879581",
+    "123879582",
+    "123879583",
+    "123879584",
+    "123879585",
+    "123879586",
+    "123879587",
+    "123879588",
+    "123879589",
+    "123879590",
+    "123879591",
+    "123879592",
+    "123879593",
+    "123879594",
+    "123879595",
+    "123879596",
+    "123879597",
+    "123879598",
+    "123879599",
+    "123879600",
+    "123879601",
+    "123879602",
+    "123879603",
+    "123879604",
+    "123879605",
+    "123879606",
+    "123879607",
+    "123879608",
+    "123879609",
+    "123879610",
+    "123879611",
+    "123879612",
+    "123879613",
+    "123879614",
+    "123879615",
+    "123879616",
+    "123879617",
+    "123879618",
+    "123879619"
+   ]
+  }
+ ],
+ "fragments": {
+  "123795847": {
+   "fragment_id": "35069975",
+   "type": 15,
+   "heading": "Diploma — Lei da Protecção de Dados Pessoais (transpõe para a ordem jurídica portuguesa a Directiva n.º >95/46/CE, do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento dos dados pessoais e à livre circulação desses dados).",
+   "in_force_from": "2019-08-09",
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º, das alíneas b) e c) do n.º 1 do artigo 165.º e do n.º 3 do artigo 166.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "43475475": {
+   "fragment_id": "35209075",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "43475575": {
+   "fragment_id": "36309975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1995&id=395L0046\" title=\"Link para Directiva da Comunidade Europeia\">95/46/CE</a>, do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados."
+  },
+  "43475675": {
+   "fragment_id": "36310075",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípio geral\n\nO tratamento de dados pessoais deve processar-se de forma transparente e no estrito respeito pela reserva da vida privada, bem como pelos direitos, liberdades e garantias fundamentais."
+  },
+  "43475775": {
+   "fragment_id": "36310175",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Dados pessoais»: qualquer informação, de qualquer natureza e independentemente do respectivo suporte, incluindo som e imagem, relativa a uma pessoa singular identificada ou identificável («titular dos dados»); é considerada identificável a pessoa que possa ser identificada directa ou indirectamente, designadamente por referência a um número de identificação ou a um ou mais elementos específicos da sua identidade física, fisiológica, psíquica, económica, cultural ou social;\n\nb) «Tratamento de dados pessoais» («tratamento»): qualquer operação ou conjunto de operações sobre dados pessoais, efectuadas com ou sem meios automatizados, tais como a recolha, o registo, a organização, a conservação, a adaptação ou alteração, a recuperação, a consulta, a utilização, a comunicação por transmissão, por difusão ou por qualquer outra forma de colocação à disposição, com comparação ou interconexão, bem como o bloqueio, apagamento ou destruição;\n\nc) «Ficheiro de dados pessoais» («ficheiro»): qualquer conjunto estruturado de dados pessoais, acessível segundo critérios determinados, quer seja centralizado, descentralizado ou repartido de modo funcional ou geográfico;\n\nd) «Responsável pelo tratamento»: a pessoa singular ou colectiva, a autoridade pública, o serviço ou qualquer outro organismo que, individualmente ou em conjunto com outrem, determine as finalidades e os meios de tratamento dos dados pessoais; sempre que as finalidades e os meios do tratamento sejam determinados por disposições legislativas ou regulamentares, o responsável pelo tratamento deve ser indicado na lei de organização e funcionamento ou no estatuto da entidade legal ou estatutariamente competente para tratar os dados pessoais em causa;\n\ne) «Subcontratante»: a pessoa singular ou colectiva, a autoridade pública, o serviço ou qualquer outro organismo que trate os dados pessoais por conta do responsável pelo tratamento;\n\nf) «Terceiro»: a pessoa singular ou colectiva, a autoridade pública, o serviço ou qualquer outro organismo que, não sendo o titular dos dados, o responsável pelo tratamento, o subcontratante ou outra pessoa sob autoridade directa do responsável pelo tratamento ou do subcontratante, esteja habilitado a tratar os dados;\n\ng) «Destinatário»: a pessoa singular ou colectiva, a autoridade pública, o serviço ou qualquer outro organismo a quem sejam comunicados dados pessoais, independentemente de se tratar ou não de um terceiro, sem prejuízo de não serem consideradas destinatários as autoridades a quem sejam comunicados dados no âmbito de uma disposição legal;\n\nh) «Consentimento do titular dos dados»: qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados pessoais sejam objecto de tratamento;\n\ni) «Interconexão de dados»: forma de tratamento que consiste na possibilidade de relacionamento dos dados de um ficheiro com os dados de um ficheiro ou ficheiros mantidos por outro ou outros responsáveis, ou mantidos pelo mesmo responsável com outra finalidade."
+  },
+  "43475875": {
+   "fragment_id": "36310275",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito de aplicação\n\n1 - A presente lei aplica-se ao tratamento de dados pessoais por meios total ou parcialmente automatizados, bem como ao tratamento por meios não automatizados de dados pessoais contidos em ficheiros manuais ou a estes destinados.\n\n2 - A presente lei não se aplica ao tratamento de dados pessoais efectuado por pessoa singular no exercício de actividades exclusivamente pessoais ou domésticas.\n\n3 - A presente lei aplica-se ao tratamento de dados pessoais efectuado:\n\na) No âmbito das actividades de estabelecimento do responsável do tratamento situado em território português;\n\nb) Fora do território nacional, em local onde a legislação portuguesa seja aplicável por força do direito internacional;\n\nc) Por responsável que, não estando estabelecido no território da União Europeia, recorra, para tratamento de dados pessoais, a meios, automatizados ou não, situados no território português, salvo se esses meios só forem utilizados para trânsito através do território da União Europeia.\n\n4 - A presente lei aplica-se à videovigilância e outras formas de captação, tratamento e difusão de sons e imagens que permitam identificar pessoas sempre que o responsável pelo tratamento esteja domiciliado ou sediado em Portugal ou utilize um fornecedor de acesso a redes informáticas e telemáticas estabelecido em território português.\n\n5 - No caso referido na alínea c) do n.º 3, o responsável pelo tratamento deve designar, mediante comunicação à Comissão Nacional de Protecção de Dados (CNPD), um representante estabelecido em Portugal, que se lhe substitua em todos os seus direitos e obrigações, sem prejuízo da sua própria responsabilidade.\n\n6 - O disposto no número anterior aplica-se no caso de o responsável pelo tratamento estar abrangido por estatuto de extraterritorialidade, de imunidade ou por qualquer outro que impeça o procedimento criminal.\n\n7 - A presente lei aplica-se ao tratamento de dados pessoais que tenham por objectivo a segurança pública, a defesa nacional e a segurança do Estado, sem prejuízo do disposto em normas especiais constantes de instrumentos de direito internacional a que Portugal se vincule e de legislação específica atinente aos respectivos sectores."
+  },
+  "43475975": {
+   "fragment_id": "35209175",
+   "type": 1,
+   "heading": "Capítulo II — Tratamento de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Tratamento de dados pessoais"
+  },
+  "43476075": {
+   "fragment_id": "36310375",
+   "type": 8,
+   "heading": "Secção I — Qualidade dos dados e legitimidade do seu tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Qualidade dos dados e legitimidade do seu tratamento"
+  },
+  "43476175": {
+   "fragment_id": "37896575",
+   "type": 11,
+   "heading": "Artigo 5.º — Qualidade dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Qualidade dos dados\n\n1 - Os dados pessoais devem ser:\n\na) Tratados de forma lícita e com respeito pelo princípio da boa fé;\n\nb) Recolhidos para finalidades determinadas, explícitas e legítimas, não podendo ser posteriormente tratados de forma incompatível com essas finalidades;\n\nc) Adequados, pertinentes e não excessivos relativamente às finalidades para que são recolhidos e posteriormente tratados;\n\nd) Exactos e, se necessário, actualizados, devendo ser tomadas as medidas adequadas para assegurar que sejam apagados ou rectificados os dados inexactos ou incompletos, tendo em conta as finalidades para que foram recolhidos ou para que são tratados posteriormente;\n\ne) Conservados de forma a permitir a identificação dos seus titulares apenas durante o período necessário para a prossecução das finalidades da recolha ou do tratamento posterior.\n\n2 - Mediante requerimento do responsável pelo tratamento, e caso haja interesse legítimo, a CNPD pode autorizar a conservação de dados para fins históricos, estatísticos ou científicos por período superior ao referido na alínea e) do número anterior.\n\n3 - Cabe ao responsável pelo tratamento assegurar a observância do disposto nos números anteriores."
+  },
+  "43476275": {
+   "fragment_id": "37896675",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de legitimidade do tratamento de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de legitimidade do tratamento de dados\n\nO tratamento de dados pessoais só pode ser efectuado se o seu titular tiver dado de forma inequívoca o seu consentimento ou se o tratamento for necessário para:\n\na) Execução de contrato ou contratos em que o titular dos dados seja parte ou de diligências prévias à formação do contrato ou declaração da vontade negocial efectuadas a seu pedido;\n\nb) Cumprimento de obrigação legal a que o responsável pelo tratamento esteja sujeito;\n\nc) Protecção de interesses vitais do titular dos dados, se este estiver física ou legalmente incapaz de dar o seu consentimento;\n\nd) Execução de uma missão de interesse público ou no exercício de autoridade pública em que esteja investido o responsável pelo tratamento ou um terceiro a quem os dados sejam comunicados;\n\ne) Prossecução de interesses legítimos do responsável pelo tratamento ou de terceiro a quem os dados sejam comunicados, desde que não devam prevalecer os interesses ou os direitos, liberdades e garantias do titular dos dados."
+  },
+  "43476375": {
+   "fragment_id": "37896775",
+   "type": 11,
+   "heading": "Artigo 7.º — Tratamento de dados sensíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Tratamento de dados sensíveis\n\n1 - É proibido o tratamento de dados pessoais referentes a convicções filosóficas ou políticas, filiação partidária ou sindical, fé religiosa, vida privada e origem racial ou étnica, bem como o tratamento de dados relativos à saúde e à vida sexual, incluindo os dados genéticos.\n\n2 - Mediante disposição legal ou autorização da CNPD, pode ser permitido o tratamento dos dados referidos no número anterior quando por motivos de interesse público importante esse tratamento for indispensável ao exercício das atribuições legais ou estatutárias do seu responsável, ou quando o titular dos dados tiver dado o seu consentimento expresso para esse tratamento, em ambos os casos com garantias de não discriminação e com as medidas de segurança previstas no artigo 15.º\n\n3 - O tratamento dos dados referidos no n.º 1 é ainda permitido quando se verificar uma das seguintes condições:\n\na) Ser necessário para proteger interesses vitais do titular dos dados ou de uma outra pessoa e o titular dos dados estiver física ou legalmente incapaz de dar o seu consentimento;\n\nb) Ser efectuado, com o consentimento do titular, por fundação, associação ou organismo sem fins lucrativos de carácter político, filosófico, religioso ou sindical, no âmbito das suas actividades legítimas, sob condição de o tratamento respeitar apenas aos membros desse organismo ou às pessoas que com ele mantenham contactos periódicos ligados às suas finalidades, e de os dados não serem comunicados a terceiros sem consentimento dos seus titulares;\n\nc) Dizer respeito a dados manifestamente tornados públicos pelo seu titular, desde que se possa legitimamente deduzir das suas declarações o consentimento para o tratamento dos mesmos;\n\nd) Ser necessário à declaração, exercício ou defesa de um direito em processo judicial e for efectuado exclusivamente com essa finalidade.\n\n4 - O tratamento dos dados referentes à saúde e à vida sexual, incluindo os dados genéticos, é permitido quando for necessário para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, desde que o tratamento desses dados seja efectuado por um profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional, seja notificado à CNPD, nos termos do artigo 27.º, e sejam garantidas medidas adequadas de segurança da informação."
+  },
+  "43476475": {
+   "fragment_id": "37896875",
+   "type": 11,
+   "heading": "Artigo 8.º — Suspeitas de actividades ilícitas, infracções penais e contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Suspeitas de actividades ilícitas, infracções penais e contra-ordenações\n\n1 - A criação e a manutenção de registos centrais relativos a pessoas suspeitas de actividades ilícitas, infracções penais, contra-ordenações e decisões que apliquem penas, medidas de segurança, coimas e sanções acessórias só podem ser mantidas por serviços públicos com competência específica prevista na respectiva lei de organização e funcionamento, observando normas procedimentais e de protecção de dados previstas em diploma legal, com prévio parecer da CNPD.\n\n2 - O tratamento de dados pessoais relativos a suspeitas de actividades ilícitas, infracções penais, contra-ordenações e decisões que apliquem penas, medidas de segurança, coimas e sanções acessórias pode ser autorizado pela CNPD, observadas as normas de protecção de dados e de segurança da informação, quando tal tratamento for necessário à execução de finalidades legítimas do seu responsável, desde que não prevaleçam os direitos, liberdades e garantias do titular dos dados.\n\n3 - O tratamento de dados pessoais para fins de investigação policial deve limitar-se ao necessário para a prevenção de um perigo concreto ou repressão de uma infracção determinada, para o exercício de competências previstas no respectivo estatuto orgânico ou noutra disposição legal e ainda nos termos de acordo ou convenção internacional de que Portugal seja parte."
+  },
+  "43476575": {
+   "fragment_id": "37896975",
+   "type": 11,
+   "heading": "Artigo 9.º — Interconexão de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Interconexão de dados pessoais\n\n1 - A interconexão de dados pessoais que não esteja prevista em disposição legal está sujeita a autorização da CNPD solicitada pelo responsável ou em conjunto pelos correspondentes responsáveis dos tratamentos, nos termos previstos no artigo 27.º\n\n2 - A interconexão de dados pessoais deve ser adequada à prossecução das finalidades legais ou estatutárias e de interesses legítimos dos responsáveis dos tratamentos, não implicar discriminação ou diminuição dos direitos, liberdades e garantias dos titulares dos dados, ser rodeada de adequadas medidas de segurança e ter em conta o tipo de dados objecto de interconexão."
+  },
+  "43476675": {
+   "fragment_id": "36310475",
+   "type": 8,
+   "heading": "Secção II — Direitos do titular dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direitos do titular dos dados"
+  },
+  "43476775": {
+   "fragment_id": "37897075",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito de informação\n\n1 - Quando recolher dados pessoais directamente do seu titular, o responsável pelo tratamento ou o seu representante deve prestar-lhe, salvo se já dele forem conhecidas, as seguintes informações:\n\na) Identidade do responsável pelo tratamento e, se for caso disso, do seu representante;\n\nb) Finalidades do tratamento;\n\nc) Outras informações, tais como:\n\nOs destinatários ou categorias de destinatários dos dados;\n\nO carácter obrigatório ou facultativo da resposta, bem como as possíveis consequências se não responder;\n\nA existência e as condições do direito de acesso e de rectificação, desde que sejam necessárias, tendo em conta as circunstâncias específicas da recolha dos dados, para garantir ao seu titular um tratamento leal dos mesmos.\n\n2 - Os documentos que sirvam de base à recolha de dados pessoais devem conter as informações constantes do número anterior.\n\n3 - Se os dados não forem recolhidos junto do seu titular, e salvo se dele já forem conhecidas, o responsável pelo tratamento, ou o seu representante, deve prestar-lhe as informações previstas no n.º 1 no momento do registo dos dados ou, se estiver prevista a comunicação a terceiros, o mais tardar aquando da primeira comunicação desses dados.\n\n4 - No caso de recolha de dados em redes abertas, o titular dos dados deve ser informado, salvo se disso já tiver conhecimento, de que os seus dados pessoais podem circular na rede sem condições de segurança, correndo o risco de serem vistos e utilizados por terceiros não autorizados.\n\n5 - A obrigação de informação pode ser dispensada, mediante disposição legal ou deliberação da CNPD, por motivos de segurança do Estado e prevenção ou investigação criminal, e, bem assim, quando, nomeadamente no caso do tratamento de dados com finalidades estatísticas, históricas ou de investigação científica, a informação do titular dos dados se revelar impossível ou implicar esforços desproporcionados ou ainda quando a lei determinar expressamente o registo dos dados ou a sua divulgação.\n\n6 - A obrigação de informação, nos termos previstos no presente artigo, não se aplica ao tratamento de dados efectuado para fins exclusivamente jornalísticos ou de expressão artística ou literária."
+  },
+  "43476875": {
+   "fragment_id": "37897175",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direito de acesso\n\n1 - O titular dos dados tem o direito de obter do responsável pelo tratamento, livremente e sem restrições, com periodicidade razoável e sem demoras ou custos excessivos:\n\na) A confirmação de serem ou não tratados dados que lhe digam respeito, bem como informação sobre as finalidades desse tratamento, as categorias de dados sobre que incide e os destinatários ou categorias de destinatários a quem são comunicados os dados;\n\nb) A comunicação, sob forma inteligível, dos seus dados sujeitos a tratamento e de quaisquer informações disponíveis sobre a origem desses dados;\n\nc) O conhecimento da lógica subjacente ao tratamento automatizado dos dados que lhe digam respeito;\n\nd) A rectificação, o apagamento ou o bloqueio dos dados cujo tratamento não cumpra o disposto na presente lei, nomeadamente devido ao carácter incompleto ou inexacto desses dados;\n\ne) A notificação aos terceiros a quem os dados tenham sido comunicados de qualquer rectificação, apagamento ou bloqueio efectuado nos termos da alínea d), salvo se isso for comprovadamente impossível.\n\n2 - No caso de tratamento de dados pessoais relativos à segurança do Estado e à prevenção ou investigação criminal, o direito de acesso é exercido através da CNPD ou de outra autoridade independente a quem a lei atribua a verificação do cumprimento da legislação de protecção de dados pessoais.\n\n3 - No caso previsto no n.º 6 do artigo anterior, o direito de acesso é exercido através da CNPD com salvaguarda das normas constitucionais aplicáveis, designadamente as que garantem a liberdade de expressão e informação, a liberdade de imprensa e a independência e sigilo profissionais dos jornalistas.\n\n4 - Nos casos previstos nos n.os 2 e 3, se a comunicação dos dados ao seu titular puder prejudicar a segurança do Estado, a prevenção ou a investigação criminal ou ainda a liberdade de expressão e informação ou a liberdade de imprensa, a CNPD limita-se a informar o titular dos dados das diligências efectuadas.\n\n5 - O direito de acesso à informação relativa a dados da saúde, incluindo os dados genéticos, é exercido por intermédio de médico escolhido pelo titular dos dados.\n\n6 - No caso de os dados não serem utilizados para tomar medidas ou decisões em relação a pessoas determinadas, a lei pode restringir o direito de acesso nos casos em que manifestamente não exista qualquer perigo de violação dos direitos, liberdades e garantias do titular dos dados, designadamente do direito à vida privada, e os referidos dados forem exclusivamente utilizados para fins de investigação científica ou conservados sob forma de dados pessoais durante um período que não exceda o necessário à finalidade exclusiva de elaborar estatísticas."
+  },
+  "43476975": {
+   "fragment_id": "37897275",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito de oposição do titular dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito de oposição do titular dos dados\n\nO titular dos dados tem o direito de:\n\na) Salvo disposição legal em contrário, e pelo menos nos casos referidos nas alíneas d) e e) do artigo 6.º, se opor em qualquer altura, por razões ponderosas e legítimas relacionadas com a sua situação particular, a que os dados que lhe digam respeito sejam objecto de tratamento, devendo, em caso de oposição justificada, o tratamento efectuado pelo responsável deixar de poder incidir sobre esses dados;\n\nb) Se opor, a seu pedido e gratuitamente, ao tratamento dos dados pessoais que lhe digam respeito previsto pelo responsável pelo tratamento para efeitos de marketing directo ou qualquer outra forma de prospecção, ou de ser informado, antes de os dados pessoais serem comunicados pela primeira vez a terceiros para fins de marketing directo ou utilizados por conta de terceiros, e de lhe ser expressamente facultado o direito de se opor, sem despesas, a tais comunicações ou utilizações."
+  },
+  "43477075": {
+   "fragment_id": "37897375",
+   "type": 11,
+   "heading": "Artigo 13.º — Decisões individuais automatizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Decisões individuais automatizadas\n\n1 - Qualquer pessoa tem o direito de não ficar sujeita a uma decisão que produza efeitos na sua esfera jurídica ou que a afecte de modo significativo, tomada exclusivamente com base num tratamento automatizado de dados destinado a avaliar determinados aspectos da sua personalidade, designadamente a sua capacidade profissional, o seu crédito, a confiança de que é merecedora ou o seu comportamento.\n\n2 - Sem prejuízo do cumprimento das restantes disposições da presente lei, uma pessoa pode ficar sujeita a uma decisão tomada nos termos do n.º 1, desde que tal ocorra no âmbito da celebração ou da execução de um contrato, e sob condição de o seu pedido de celebração ou execução do contrato ter sido satisfeito, ou de existirem medidas adequadas que garantam a defesa dos seus interesses legítimos, designadamente o seu direito de representação e expressão.\n\n3 - Pode ainda ser permitida a tomada de uma decisão nos termos do n.º 1 quando a CNPD o autorize, definindo medidas de garantia da defesa dos interesses legítimos do titular dos dados."
+  },
+  "43477175": {
+   "fragment_id": "36310575",
+   "type": 8,
+   "heading": "Secção III — Segurança e confidencialidade do tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Segurança e confidencialidade do tratamento"
+  },
+  "43477275": {
+   "fragment_id": "37897475",
+   "type": 11,
+   "heading": "Artigo 14.º — Segurança do tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Segurança do tratamento\n\n1 - O responsável pelo tratamento deve pôr em prática as medidas técnicas e organizativas adequadas para proteger os dados pessoais contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizados, nomeadamente quando o tratamento implicar a sua transmissão por rede, e contra qualquer outra forma de tratamento ilícito; estas medidas devem assegurar, atendendo aos conhecimentos técnicos disponíveis e aos custos resultantes da sua aplicação, um nível de segurança adequado em relação aos riscos que o tratamento apresenta e à natureza dos dados a proteger.\n\n2 - O responsável pelo tratamento, em caso de tratamento por sua conta, deverá escolher um subcontratante que ofereça garantias suficientes em relação às medidas de segurança técnica e de organização do tratamento a efectuar, e deverá zelar pelo cumprimento dessas medidas.\n\n3 - A realização de operações de tratamento em subcontratação deve ser regida por um contrato ou acto jurídico que vincule o subcontratante ao responsável pelo tratamento e que estipule, designadamente, que o subcontratante apenas actua mediante instruções do responsável pelo tratamento e que lhe incumbe igualmente o cumprimento das obrigações referidas no n.º 1.\n\n4 - Os elementos de prova da declaração negocial, do contrato ou do acto jurídico relativos à protecção dos dados, bem como as exigências relativas às medidas referidas no n.º 1, são consignados por escrito em documento em suporte com valor probatório legalmente reconhecido."
+  },
+  "43477375": {
+   "fragment_id": "37897575",
+   "type": 11,
+   "heading": "Artigo 15.º — Medidas especiais de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Medidas especiais de segurança\n\n1 - Os responsáveis pelo tratamento dos dados referidos no n.º 2 do artigo 7.º e no n.º 1 do artigo 8.º devem tomar as medidas adequadas para:\n\na) Impedir o acesso de pessoa não autorizada às instalações utilizadas para o tratamento desses dados (controlo da entrada nas instalações);\n\nb) Impedir que suportes de dados possam ser lidos, copiados, alterados ou retirados por pessoa não autorizada (controlo dos suportes de dados);\n\nc) Impedir a introdução não autorizada, bem como a tomada de conhecimento, a alteração ou a eliminação não autorizadas de dados pessoais inseridos (controlo da inserção);\n\nd) Impedir que sistemas de tratamento automatizados de dados possam ser utilizados por pessoas não autorizadas através de instalações de transmissão de dados (controlo da utilização);\n\ne) Garantir que as pessoas autorizadas só possam ter acesso aos dados abrangidos pela autorização (controlo de acesso);\n\nf) Garantir a verificação das entidades a quem possam ser transmitidos os dados pessoais através das instalações de transmissão de dados (controlo da transmissão);\n\ng) Garantir que possa verificar-se a posteriori, em prazo adequado à natureza do tratamento, a fixar na regulamentação aplicável a cada sector, quais os dados pessoais introduzidos quando e por quem (controlo da introdução);\n\nh) Impedir que, na transmissão de dados pessoais, bem como no transporte do seu suporte, os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada (controlo do transporte).\n\n2 - Tendo em conta a natureza das entidades responsáveis pelo tratamento e o tipo das instalações em que é efectuado, a CNPD pode dispensar a existência de certas medidas de segurança, garantido que se mostre o respeito pelos direitos, liberdades e garantias dos titulares dos dados.\n\n3 - Os sistemas devem garantir a separação lógica entre os dados referentes à saúde e à vida sexual, incluindo os genéticos, dos restantes dados pessoais.\n\n4 - A CNPD pode determinar que, nos casos em que a circulação em rede de dados pessoais referidos nos artigos 7.º e 8.º possa pôr em risco direitos, liberdades e garantias dos respectivos titulares, a transmissão seja cifrada."
+  },
+  "43477475": {
+   "fragment_id": "37897675",
+   "type": 11,
+   "heading": "Artigo 16.º — Tratamento por subcontratante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Tratamento por subcontratante\n\nQualquer pessoa que, agindo sob a autoridade do responsável pelo tratamento ou do subcontratante, bem como o próprio subcontratante, tenha acesso a dados pessoais não pode proceder ao seu tratamento sem instruções do responsável pelo tratamento, salvo por força de obrigações legais."
+  },
+  "43477575": {
+   "fragment_id": "37897775",
+   "type": 11,
+   "heading": "Artigo 17.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sigilo profissional\n\n1 - Os responsáveis do tratamento de dados pessoais, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais tratados, ficam obrigados a sigilo profissional, mesmo após o termo das suas funções.\n\n2 - Igual obrigação recai sobre os membros da CNPD, mesmo após o termo do mandato.\n\n3 - O disposto nos números anteriores não exclui o dever do fornecimento das informações obrigatórias, nos termos legais, excepto quando constem de ficheiros organizados para fins estatísticos.\n\n4 - Os funcionários, agentes ou técnicos que exerçam funções de assessoria à CNPD ou aos seus vogais estão sujeitos à mesma obrigação de sigilo profissional."
+  },
+  "43477675": {
+   "fragment_id": "35209275",
+   "type": 1,
+   "heading": "Capítulo III — Transferência de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Transferência de dados pessoais"
+  },
+  "43477775": {
+   "fragment_id": "36310675",
+   "type": 8,
+   "heading": "Secção I — Transferência de dados pessoais na União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Transferência de dados pessoais na União Europeia"
+  },
+  "43477875": {
+   "fragment_id": "37897875",
+   "type": 11,
+   "heading": "Artigo 18.º — Princípio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Princípio\n\nÉ livre a circulação de dados pessoais entre Estados membros da União Europeia, sem prejuízo do disposto nos actos comunitários de natureza fiscal e aduaneira."
+  },
+  "43477975": {
+   "fragment_id": "36310775",
+   "type": 8,
+   "heading": "Secção II — Transferência de dados pessoais para fora da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Transferência de dados pessoais para fora da União Europeia"
+  },
+  "43478075": {
+   "fragment_id": "37897975",
+   "type": 11,
+   "heading": "Artigo 19.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Princípios\n\n1 - Sem prejuízo do disposto no artigo seguinte, a transferência, para um Estado que não pertença à União Europeia, de dados pessoais que sejam objecto de tratamento ou que se destinem a sê-lo só pode realizar-se com o respeito das disposições da presente lei e se o Estado para onde são transferidos assegurar um nível de protecção adequado.\n\n2 - A adequação do nível de protecção num Estado que não pertença à União Europeia é apreciada em função de todas as circunstâncias que rodeiem a transferência ou o conjunto de transferências de dados; em especial, devem ser tidas em consideração a natureza dos dados, a finalidade e a duração do tratamento ou tratamentos projectados, os países de origem e de destino final, as regras de direito, gerais ou sectoriais, em vigor no Estado em causa, bem como as regras profissionais e as medidas de segurança que são respeitadas nesse Estado.\n\n3 - Cabe à CNPD decidir se um Estado que não pertença à União Europeia assegura um nível de protecção adequado.\n\n4 - A CNPD comunica, através do Ministério dos Negócios Estrangeiros, à Comissão Europeia os casos em que tenha considerado que um Estado não assegura um nível de protecção adequado.\n\n5 - Não é permitida a transferência de dados pessoais de natureza idêntica aos que a Comissão Europeia tiver considerado que não gozam de protecção adequada no Estado a que se destinam."
+  },
+  "43478175": {
+   "fragment_id": "37898075",
+   "type": 11,
+   "heading": "Artigo 20.º — Derrogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Derrogações\n\n1 - A transferência de dados pessoais para um Estado que não assegure um nível de protecção adequado na acepção do n.º 2 do artigo 19.º pode ser permitida pela CNPD se o titular dos dados tiver dado de forma inequívoca o seu consentimento à transferência ou se essa transferência:\n\na) For necessária para a execução de um contrato entre o titular dos dados e o responsável pelo tratamento ou de diligências prévias à formação do contrato decididas a pedido do titular dos dados;\n\nb) For necessária para a execução ou celebração de um contrato celebrado ou a celebrar, no interesse do titular dos dados, entre o responsável pelo tratamento e um terceiro; ou\n\nc) For necessária ou legalmente exigida para a protecção de um interesse público importante, ou para a declaração, o exercício ou a defesa de um direito num processo judicial; ou\n\nd) For necessária para proteger os interesses vitais do titular dos dados; ou\n\ne) For realizada a partir de um registo público que, nos termos de disposições legislativas ou regulamentares, se destine à informação do público e se encontre aberto à consulta do público em geral ou de qualquer pessoa que possa provar um interesse legítimo, desde que as condições estabelecidas na lei para a consulta sejam cumpridas no caso concreto.\n\n2 - Sem prejuízo do disposto no n.º 1, a CNPD pode autorizar uma transferência ou um conjunto de transferências de dados pessoais para um Estado que não assegure um nível de protecção adequado na acepção do n.º 2 do artigo 19.º desde que o responsável pelo tratamento assegure mecanismos suficientes de garantia de protecção da vida privada e dos direitos e liberdades fundamentais das pessoas, bem como do seu exercício, designadamente, mediante cláusulas contratuais adequadas.\n\n3 - A CNPD informa a Comissão Europeia, através do Ministério dos Negócios Estrangeiros, bem como as autoridades competentes dos restantes Estados da União Europeia, das autorizações que conceder nos termos do n.º 2.\n\n4 - A concessão ou derrogação das autorizações previstas no n.º 2 efectua-se pela CNPD nos termos de processo próprio e de acordo com as decisões da Comissão Europeia.\n\n5 - Sempre que existam cláusulas contratuais tipo aprovadas pela Comissão Europeia, segundo procedimento próprio, por oferecerem as garantias suficientes referidas no n.º 2, a CNPD autoriza a transferência de dados pessoais que se efectue ao abrigo de tais cláusulas.\n\n6 - A transferência de dados pessoais que constitua medida necessária à protecção da segurança do Estado, da defesa, da segurança pública e da prevenção, investigação e repressão das infracções penais é regida por disposições legais específicas ou pelas convenções e acordos internacionais em que Portugal é parte."
+  },
+  "43478275": {
+   "fragment_id": "35209375",
+   "type": 1,
+   "heading": "Capítulo IV — Comissão Nacional de Protecção de Dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Comissão Nacional de Protecção de Dados"
+  },
+  "43478375": {
+   "fragment_id": "36310875",
+   "type": 8,
+   "heading": "Secção I — Natureza, atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Natureza, atribuições e competências"
+  },
+  "43478475": {
+   "fragment_id": "37898175",
+   "type": 11,
+   "heading": "Artigo 21.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Natureza\n\n1 - A CNPD é uma entidade administrativa independente, com poderes de autoridade, que funciona junto da Assembleia da República.\n\n2 - A CNPD, independentemente do direito nacional aplicável a cada tratamento de dados em concreto, exerce as suas competências em todo o território nacional.\n\n3 - A CNPD pode ser solicitada a exercer os seus poderes por uma autoridade de controlo de protecção de dados de outro Estado membro da União Europeia ou do Conselho da Europa.\n\n4 - A CNPD coopera com as autoridades de controlo de protecção de dados de outros Estados na difusão do direito e das regulamentações nacionais em matéria de protecção de dados pessoais, bem como na defesa e no exercício dos direitos de pessoas residentes no estrangeiro."
+  },
+  "43478575": {
+   "fragment_id": "37898275",
+   "type": 11,
+   "heading": "Artigo 22.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Atribuições\n\n1 - A CNPD é a autoridade nacional que tem como atribuição controlar e fiscalizar o cumprimento das disposições legais e regulamentares em matéria de protecção de dados pessoais, em rigoroso respeito pelos direitos do homem e pelas liberdades e garantias consagradas na Constituição e na lei.\n\n2 - A CNPD deve ser consultada sobre quaisquer disposições legais, bem como sobre instrumentos jurídicos em preparação em instituições comunitárias ou internacionais, relativos ao tratamento de dados pessoais.\n\n3 - A CNPD dispõe:\n\na) De poderes de investigação e de inquérito, podendo aceder aos dados objecto de tratamento e recolher todas as informações necessárias ao desempenho das suas funções de controlo;\n\nb) De poderes de autoridade, designadamente o de ordenar o bloqueio, apagamento ou destruição dos dados, bem como o de proibir, temporária ou definitivamente, o tratamento de dados pessoais, ainda que incluídos em redes abertas de transmissão de dados a partir de servidores situados em território português;\n\nc) Do poder de emitir pareceres prévios ao tratamento de dados pessoais, assegurando a sua publicitação.\n\n4 - Em caso de reiterado não cumprimento das disposições legais em matéria de dados pessoais, a CNPD pode advertir ou censurar publicamente o responsável pelo tratamento, bem como suscitar a questão, de acordo com as respectivas competências, à Assembleia da República, ao Governo ou a outros órgãos ou autoridades.\n\n5 - A CNPD tem legitimidade para intervir em processos judiciais no caso de violação das disposições da presente lei e deve denunciar ao Ministério Público as infracções penais de que tiver conhecimento, no exercício das suas funções e por causa delas, bem como praticar os actos cautelares necessários e urgentes para assegurar os meios de prova.\n\n6 - A CNPD é representada em juízo pelo Ministério Público e está isenta de custas nos processos em que intervenha."
+  },
+  "43478675": {
+   "fragment_id": "37898375",
+   "type": 11,
+   "heading": "Artigo 23.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Competências\n\n1 - Compete em especial à CNPD:\n\na) Emitir parecer sobre disposições legais, bem como sobre instrumentos jurídicos em preparação em instituições comunitárias e internacionais, relativos ao tratamento de dados pessoais;\n\nb) Autorizar ou registar, consoante os casos, os tratamentos de dados pessoais;\n\nc) Autorizar excepcionalmente a utilização de dados pessoais para finalidades não determinantes da recolha, com respeito pelos princípios definidos no artigo 5.º;\n\nd) Autorizar, nos casos previstos no artigo 9.º, a interconexão de tratamentos automatizados de dados pessoais;\n\ne) Autorizar a transferência de dados pessoais nos casos previstos no artigo 20.º;\n\nf) Fixar o tempo da conservação dos dados pessoais em função da finalidade, podendo emitir directivas para determinados sectores de actividade;\n\ng) Fazer assegurar o direito de acesso à informação, bem como do exercício do direito de rectificação e actualização;\n\nh) Autorizar a fixação de custos ou de periodicidade para o exercício do direito de acesso, bem como fixar os prazos máximos de cumprimento, em cada sector de actividade, das obrigações que, por força dos artigos 11.º a 13.º, incumbem aos responsáveis pelo tratamento de dados pessoais;\n\ni) Dar seguimento ao pedido efectuado por qualquer pessoa, ou por associação que a represente, para protecção dos seus direitos e liberdades no que diz respeito ao tratamento de dados pessoais e informá-la do resultado;\n\nj) Efectuar, a pedido de qualquer pessoa, a verificação de licitude de um tratamento de dados, sempre que esse tratamento esteja sujeito a restrições de acesso ou de informação, e informá-la da realização da verificação;\n\nk) Apreciar as reclamações, queixas ou petições dos particulares;\n\nl) Dispensar a execução de medidas de segurança, nos termos previstos no n.º 2 do artigo 15.º, podendo emitir directivas para determinados sectores de actividade;\n\nm) Assegurar a representação junto de instâncias comuns de controlo e em reuniões comunitárias e internacionais de entidades independentes de controlo da protecção de dados pessoais, bem como participar em reuniões internacionais no âmbito das suas competências, designadamente exercer funções de representação e fiscalização no âmbito dos sistemas Schengen e Europol, nos termos das disposições aplicáveis;\n\nn) Deliberar sobre a aplicação de coimas;\n\no) Promover e apreciar códigos de conduta;\n\np) Promover a divulgação e esclarecimento dos direitos relativos à protecção de dados e dar publicidade periódica à sua actividade, nomeadamente através da publicação de um relatório anual;\n\nq) Exercer outras competências legalmente previstas.\n\n2 - No exercício das suas competências de emissão de directivas ou de apreciação de códigos de conduta, a CNPD deve promover a audição das associações de defesa dos interesses em causa.\n\n3 - No exercício das suas funções, a CNPD profere decisões com força obrigatória, passíveis de reclamação e de recurso para o Tribunal Central Administrativo.\n\n4 - A CNPD pode sugerir à Assembleia da República as providências que entender úteis à prossecução das suas atribuições e ao exercício das suas competências."
+  },
+  "43478775": {
+   "fragment_id": "37898475",
+   "type": 11,
+   "heading": "Artigo 24.º — Dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Dever de colaboração\n\n1 - As entidades públicas e privadas devem prestar a sua colaboração à CNPD, facultando-lhe todas as informações que por esta, no exercício das suas competências, lhes forem solicitadas.\n\n2 - O dever de colaboração é assegurado, designadamente, quando a CNPD tiver necessidade, para o cabal exercício das suas funções, de examinar o sistema informático e os ficheiros de dados pessoais, bem como toda a documentação relativa ao tratamento e transmissão de dados pessoais.\n\n3 - A CNPD ou os seus vogais, bem como os técnicos por ela mandatados, têm direito de acesso aos sistemas informáticos que sirvam de suporte ao tratamento dos dados, bem como à documentação referida no número anterior, no âmbito das suas atribuições e competências."
+  },
+  "43478875": {
+   "fragment_id": "36310975",
+   "type": 8,
+   "heading": "Secção II — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Composição e funcionamento"
+  },
+  "43478975": {
+   "fragment_id": "37898575",
+   "type": 11,
+   "heading": "Artigo 25.º — Composição e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Composição e mandato\n\n1 - A CNPD é composta por sete membros de integridade e mérito reconhecidos, dos quais o presidente e dois dos vogais são eleitos pela Assembleia da República segundo o método da média mais alta de Hondt.\n\n2 - Os restantes vogais são:\n\na) Dois magistrados com mais de 10 anos de carreira, sendo um magistrado judicial, designado pelo Conselho Superior da Magistratura, e um magistrado do Ministério Público, designado pelo Conselho Superior do Ministério Público;\n\nb) Duas personalidades de reconhecida competência designadas pelo Governo.\n\n3 - O mandato dos membros da CNPD é de cinco anos e cessa com a posse dos novos membros.\n\n4 - Os membros da CNPD constam de lista publicada na 1.ª série do Diário da República.\n\n5 - Os membros da CNPD tomam posse perante o Presidente da Assembleia da República nos 10 dias seguintes à publicação da lista referida no número anterior."
+  },
+  "43479075": {
+   "fragment_id": "37898675",
+   "type": 11,
+   "heading": "Artigo 26.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Funcionamento\n\n1 - São aprovados por lei da Assembleia da República:\n\na) A lei orgânica e o quadro de pessoal da CNPD;\n\nb) O regime de incompatibilidades, de impedimentos, de suspeições e de perda de mandato, bem como o estatuto remuneratório dos membros da CNPD.\n\n2 - O estatuto dos membros da CNPD garante a independência do exercício das suas funções.\n\n3 - A Comissão dispõe de quadro próprio para apoio técnico e administrativo, beneficiando os seus funcionários e agentes do estatuto e regalias do pessoal da Assembleia da República."
+  },
+  "43479175": {
+   "fragment_id": "36311075",
+   "type": 8,
+   "heading": "Secção III — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Notificação"
+  },
+  "43479275": {
+   "fragment_id": "37898775",
+   "type": 11,
+   "heading": "Artigo 27.º — Obrigação de notificação à CNPD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Obrigação de notificação à CNPD\n\n1 - O responsável pelo tratamento ou, se for caso disso, o seu representante deve notificar a CNPD antes da realização de um tratamento ou conjunto de tratamentos, total ou parcialmente autorizados, destinados à prossecução de uma ou mais finalidades interligadas.\n\n2 - A CNPD pode autorizar a simplificação ou a isenção da notificação para determinadas categorias de tratamentos que, tendendo aos dados a tratar, não sejam susceptíveis de pôr em causa os direitos e liberdades dos titulares dos dados e tenham em conta critérios de celeridade, economia e eficiência.\n\n3 - A autorização, que está sujeita a publicação no Diário da República, deve especificar as finalidades do tratamento, os dados ou categorias de dados a tratar, a categoria ou categorias de titulares dos dados, os destinatários ou categorias de destinatários a quem podem ser comunicados os dados e o período de conservação dos dados.\n\n4 - Estão isentos de notificação os tratamentos cuja única finalidade seja a manutenção de registos que, nos termos de disposições legislativas ou regulamentares, se destinem a informação do público e possam ser consultados pelo público em geral ou por qualquer pessoa que provar um interesse legítimo.\n\n5 - Os tratamentos não automatizados dos dados pessoais previstos no n.º 1 do artigo 7.º estão sujeitos a notificação quando tratados ao abrigo da alínea a) do n.º 3 do mesmo artigo."
+  },
+  "43479375": {
+   "fragment_id": "37898875",
+   "type": 11,
+   "heading": "Artigo 28.º — Controlo prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Controlo prévio\n\n1 - Carecem de autorização da CNPD:\n\na) O tratamento dos dados pessoais a que se referem o n.º 2 do artigo 7.º e o n.º 2 do artigo 8.º;\n\nb) O tratamento dos dados pessoais relativos ao crédito e à solvabilidade dos seus titulares;\n\nc) A interconexão de dados pessoais prevista no artigo 9.º;\n\nd) A utilização de dados pessoais para fins não determinantes da recolha.\n\n2 - Os tratamentos a que se refere o número anterior podem ser autorizados por diploma legal, não carecendo neste caso de autorização da CNPD."
+  },
+  "43479475": {
+   "fragment_id": "37898975",
+   "type": 11,
+   "heading": "Artigo 29.º — Conteúdo dos pedidos de parecer ou de autorização e da notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Conteúdo dos pedidos de parecer ou de autorização e da notificação\n\nOs pedidos de parecer ou de autorização, bem como as notificações, remetidos à CNPD devem conter as seguintes informações:\n\na) Nome e endereço do responsável pelo tratamento e, se for o caso, do seu representante;\n\nb) As finalidades do tratamento;\n\nc) Descrição da ou das categorias de titulares dos dados e dos dados ou categorias de dados pessoais que lhes respeitem;\n\nd) Destinatários ou categorias de destinatários a quem os dados podem ser comunicados e em que condições;\n\ne) Entidade encarregada do processamento da informação, se não for o próprio responsável do tratamento;\n\nf) Eventuais interconexões de tratamentos de dados pessoais;\n\ng) Tempo de conservação dos dados pessoais;\n\nh) Forma e condições como os titulares dos dados podem ter conhecimento ou fazer corrigir os dados pessoais que lhes respeitem;\n\ni) Transferências de dados previstas para países terceiros;\n\nj) Descrição geral que permita avaliar de forma preliminar a adequação das medidas tomadas para garantir a segurança do tratamento em aplicação dos artigos 14.º e 15.º"
+  },
+  "43479575": {
+   "fragment_id": "37899075",
+   "type": 11,
+   "heading": "Artigo 30.º — Indicações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Indicações obrigatórias\n\n1 - Os diplomas legais referidos no n.º 2 do artigo 7.º e no n.º 1 do artigo 8.º, bem como as autorizações da CNPD e os registos de tratamentos de dados pessoais, devem, pelo menos, indicar:\n\na) O responsável do ficheiro e, se for caso disso, o seu representante;\n\nb) As categorias de dados pessoais tratados;\n\nc) As finalidades a que se destinam os dados e as categorias de entidades a quem podem ser transmitidos;\n\nd) A forma de exercício do direito de acesso e de rectificação;\n\ne) Eventuais interconexões de tratamentos de dados pessoais;\n\nf) Transferências de dados previstas para países terceiros.\n\n2 - Qualquer alteração das indicações constantes do n.º 1 está sujeita aos procedimentos previstos nos artigos 27.º e 28.º"
+  },
+  "43479675": {
+   "fragment_id": "37899175",
+   "type": 11,
+   "heading": "Artigo 31.º — Publicidade dos tratamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Publicidade dos tratamentos\n\n1 - O tratamento dos dados pessoais, quando não for objecto de diploma legal e dever ser autorizado ou notificado, consta de registo na CNPD, aberto à consulta por qualquer pessoa.\n\n2 - O registo contém as informações enumeradas nas alíneas a) a d) e i) do artigo 29.º\n\n3 - O responsável por tratamento de dados não sujeito a notificação está obrigado a prestar, de forma adequada, a qualquer pessoa que lho solicite, pelo menos as informações referidas no n.º 1 do artigo 30.º\n\n4 - O disposto no presente artigo não se aplica a tratamentos cuja única finalidade seja a manutenção de registos que, nos termos de disposições legislativas ou regulamentares, se destinem à informação do público e se encontrem abertos à consulta do público em geral ou de qualquer pessoa que possa provar um interesse legítimo.\n\n5 - A CNPD deve publicar no seu relatório anual todos os pareceres e autorizações elaborados ou concedidas ao abrigo da presente lei, designadamente as autorizações previstas no n.º 2 do artigo 7.º e no n.º 2 do artigo 9.º"
+  },
+  "43479775": {
+   "fragment_id": "35209475",
+   "type": 1,
+   "heading": "Capítulo V — Códigos de conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Códigos de conduta"
+  },
+  "43479875": {
+   "fragment_id": "36311175",
+   "type": 11,
+   "heading": "Artigo 32.º — Códigos de conduta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Códigos de conduta\n\n1 - A CNPD apoia a elaboração de códigos de conduta destinados a contribuir, em função das características dos diferentes sectores, para a boa execução das disposições da presente lei.\n\n2 - As associações profissionais e outras organizações representativas de categorias de responsáveis pelo tratamento de dados que tenham elaborado projectos de códigos de conduta podem submetê-los à apreciação da CNPD.\n\n3 - A CNPD pode declarar a conformidade dos projectos com as disposições legais e regulamentares vigentes em matéria de protecção de dados pessoais."
+  },
+  "43479975": {
+   "fragment_id": "35209575",
+   "type": 1,
+   "heading": "Capítulo VI — Tutela administrativa e jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Tutela administrativa e jurisdicional"
+  },
+  "43480075": {
+   "fragment_id": "36311275",
+   "type": 8,
+   "heading": "Secção I — Tutela administrativa e jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Tutela administrativa e jurisdicional"
+  },
+  "43480175": {
+   "fragment_id": "37899275",
+   "type": 11,
+   "heading": "Artigo 33.º — Tutela administrativa e jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Tutela administrativa e jurisdicional\n\nSem prejuízo do direito de apresentação de queixa à CNPD, qualquer pessoa pode, nos termos da lei, recorrer a meios administrativos ou jurisdicionais para garantir o cumprimento das disposições legais em matéria de protecção de dados pessoais."
+  },
+  "43480275": {
+   "fragment_id": "37899375",
+   "type": 11,
+   "heading": "Artigo 34.º — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Responsabilidade civil\n\n1 - Qualquer pessoa que tiver sofrido um prejuízo devido ao tratamento ilícito de dados ou a qualquer outro acto que viole disposições legais em matéria de protecção de dados pessoais tem o direito de obter do responsável a reparação pelo prejuízo sofrido.\n\n2 - O responsável pelo tratamento pode ser parcial ou totalmente exonerado desta responsabilidade se provar que o facto que causou o dano lhe não é imputável."
+  },
+  "43480375": {
+   "fragment_id": "36311375",
+   "type": 8,
+   "heading": "Secção II — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Contra-ordenações"
+  },
+  "43480475": {
+   "fragment_id": "37899475",
+   "type": 11,
+   "heading": "Artigo 35.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Legislação subsidiária\n\nÀs infracções previstas na presente secção é subsidiariamente aplicável o regime geral das contra-ordenações, com as adaptações constantes dos artigos seguintes."
+  },
+  "43480575": {
+   "fragment_id": "37899575",
+   "type": 11,
+   "heading": "Artigo 36.º — Cumprimento do dever omitido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Cumprimento do dever omitido\n\nSempre que a contra-ordenação resulte de omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensam o infractor do seu cumprimento, se este ainda for possível."
+  },
+  "43480675": {
+   "fragment_id": "37899675",
+   "type": 11,
+   "heading": "Artigo 37.º — Omissão ou defeituoso cumprimento de obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Omissão ou defeituoso cumprimento de obrigações\n\n1 - As entidades que, por negligência, não cumpram a obrigação de notificação à CNPD do tratamento de dados pessoais a que se referem os n.os 1 e 5 do artigo 27.º, prestem falsas informações ou cumpram a obrigação de notificação com inobservância dos termos previstos no artigo 29.º, ou ainda quando, depois de notificadas pela CNPD, mantiverem o acesso às redes abertas de transmissão de dados a responsáveis por tratamento de dados pessoais que não cumpram as disposições da presente lei, praticam contra-ordenação punível com as seguintes coimas:\n\na) Tratando-se de pessoa singular, no mínimo de 50000$00 e no máximo de 500000$00;\n\nb) Tratando-se de pessoa colectiva ou de entidade sem personalidade jurídica, no mínimo de 300000$00 e no máximo de 3000000$00.\n\n2 - A coima é agravada para o dobro dos seus limites quando se trate de dados sujeitos a controlo prévio, nos termos do artigo 28.º"
+  },
+  "43480775": {
+   "fragment_id": "37899775",
+   "type": 11,
+   "heading": "Artigo 38.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Contra-ordenações\n\n1 - Praticam contra-ordenação punível com a coima mínima de 100000$00 e máxima de 1000000$00, as entidades que não cumprirem alguma das seguintes disposições da presente lei:\n\na) Designar representante nos termos previstos no n.º 5 do artigo 4.º;\n\nb) Observar as obrigações estabelecidas nos artigos 5.º, 10.º, 11.º, 12.º, 13.º, 15.º, 16.º e 31.º, n.º 3.\n\n2 - A pena é agravada para o dobro dos seus limites quando não forem cumpridas as obrigações constantes dos artigos 6.º, 7.º, 8.º, 9.º, 19.º e 20.º"
+  },
+  "43480875": {
+   "fragment_id": "37899875",
+   "type": 11,
+   "heading": "Artigo 39.º — Concurso de infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Concurso de infracções\n\n1 - Se o mesmo facto constituir, simultaneamente, crime e contra-ordenação, o agente é punido sempre a título de crime.\n\n2 - As sanções aplicadas às contra-ordenações em concurso são sempre cumuladas materialmente."
+  },
+  "43480975": {
+   "fragment_id": "37899975",
+   "type": 11,
+   "heading": "Artigo 40.º — Punição de negligência e da tentativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Punição de negligência e da tentativa\n\n1 - A negligência é sempre punida nas contra-ordenações previstas no artigo 38.º\n\n2 - A tentativa é sempre punível nas contra-ordenações previstas nos artigos 37.º e 38.º"
+  },
+  "43481075": {
+   "fragment_id": "37900075",
+   "type": 11,
+   "heading": "Artigo 41.º — Aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Aplicação das coimas\n\n1 - A aplicação das coimas previstas na presente lei compete ao presidente da CNPD, sob prévia deliberação da Comissão.\n\n2 - A deliberação da CNPD, depois de homologada pelo presidente, constitui título executivo, no caso de não ser impugnada no prazo legal."
+  },
+  "43481175": {
+   "fragment_id": "37900175",
+   "type": 11,
+   "heading": "Artigo 42.º — Destino das receitas cobradas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Destino das receitas cobradas\n\nO montante das importâncias cobradas, em resultado da aplicação das coimas, reverte, em partes iguais, para o Estado e para a CNPD."
+  },
+  "43481275": {
+   "fragment_id": "36311475",
+   "type": 8,
+   "heading": "Secção III — Crimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Crimes"
+  },
+  "43481375": {
+   "fragment_id": "37900275",
+   "type": 11,
+   "heading": "Artigo 43.º — Não cumprimento de obrigações relativas a protecção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Não cumprimento de obrigações relativas a protecção de dados\n\n1 - É punido com prisão até um ano ou multa até 120 dias quem intencionalmente:\n\na) Omitir a notificação ou o pedido de autorização a que se referem os artigos 27.º e 28.º;\n\nb) Fornecer falsas informações na notificação ou nos pedidos de autorização para o tratamento de dados pessoais ou neste proceder a modificações não consentidas pelo instrumento de legalização;\n\nc) Desviar ou utilizar dados pessoais, de forma incompatível com a finalidade determinante da recolha ou com o instrumento de legalização;\n\nd) Promover ou efectuar uma interconexão ilegal de dados pessoais;\n\ne) Depois de ultrapassado o prazo que lhes tiver sido fixado pela CNPD para cumprimento das obrigações previstas na presente lei ou em outra legislação de protecção de dados, as não cumprir;\n\nf) Depois de notificado pela CNPD para o não fazer, mantiver o acesso a redes abertas de transmissão de dados a responsáveis pelo tratamento de dados pessoais que não cumpram as disposições da presente lei.\n\n2 - A pena é agravada para o dobro dos seus limites quando se tratar de dados pessoais a que se referem os artigos 7.º e 8.º"
+  },
+  "43481475": {
+   "fragment_id": "37900375",
+   "type": 11,
+   "heading": "Artigo 44.º — Acesso indevido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Acesso indevido\n\n1 - Quem, sem a devida autorização, por qualquer modo, aceder a dados pessoais cujo acesso lhe está vedado é punido com prisão até um ano ou multa até 120 dias.\n\n2 - A pena é agravada para o dobro dos seus limites quando o acesso:\n\na) For conseguido através de violação de regras técnicas de segurança;\n\nb) Tiver possibilitado ao agente ou a terceiros o conhecimento de dados pessoais;\n\nc) Tiver proporcionado ao agente ou a terceiros benefício ou vantagem patrimonial.\n\n3 - No caso do n.º 1 o procedimento criminal depende de queixa."
+  },
+  "43481575": {
+   "fragment_id": "37900475",
+   "type": 11,
+   "heading": "Artigo 45.º — Viciação ou destruição de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Viciação ou destruição de dados pessoais\n\n1 - Quem, sem a devida autorização, apagar, destruir, danificar, suprimir ou modificar dados pessoais, tornando-os inutilizáveis ou afectando a sua capacidade de uso, é punido com prisão até dois anos ou multa até 240 dias.\n\n2 - A pena é agravada para o dobro nos seus limites se o dano produzido for particularmente grave.\n\n3 - Se o agente actuar com negligência, a pena é, em ambos os casos, de prisão até um ano ou multa até 120 dias."
+  },
+  "43481675": {
+   "fragment_id": "37900575",
+   "type": 11,
+   "heading": "Artigo 46.º — Desobediência qualificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Desobediência qualificada\n\n1 - Quem, depois de notificado para o efeito, não interromper, cessar ou bloquear o tratamento de dados pessoais é punido com a pena correspondente ao crime de desobediência qualificada.\n\n2 - Na mesma pena incorre quem, depois de notificado:\n\na) Recusar, sem justa causa, a colaboração que concretamente lhe for exigida nos termos do artigo 24.º;\n\nb) Não proceder ao apagamento, destruição total ou parcial de dados pessoais;\n\nc) Não proceder à destruição de dados pessoais, findo o prazo de conservação previsto no artigo 5.º"
+  },
+  "43481775": {
+   "fragment_id": "37900675",
+   "type": 11,
+   "heading": "Artigo 47.º — Violação do dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Violação do dever de sigilo\n\n1 - Quem, obrigado a sigilo profissional, nos termos da lei, sem justa causa e sem o devido consentimento, revelar ou divulgar no todo ou em parte dados pessoais é punido com prisão até dois anos ou multa até 240 dias.\n\n2 - A pena é agravada de metade dos seus limites se o agente:\n\na) For funcionário público ou equiparado, nos termos da lei penal;\n\nb) For determinado pela intenção de obter qualquer vantagem patrimonial ou outro benefício ilegítimo;\n\nc) Puser em perigo a reputação, a honra e consideração ou a intimidade da vida privada de outrem.\n\n3 - A negligência é punível com prisão até seis meses ou multa até 120 dias.\n\n4 - Fora dos casos previstos no n.º 2, o procedimento criminal depende de queixa."
+  },
+  "43481875": {
+   "fragment_id": "37900775",
+   "type": 11,
+   "heading": "Artigo 48.º — Punição da tentativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Punição da tentativa\n\nNos crimes previstos nas disposições anteriores, a tentativa é sempre punível."
+  },
+  "43481975": {
+   "fragment_id": "37900875",
+   "type": 11,
+   "heading": "Artigo 49.º — Pena acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Pena acessória\n\n1 - Conjuntamente com as coimas e penas aplicadas pode, acessoriamente, ser ordenada:\n\na) A proibição temporária ou definitiva do tratamento, o bloqueio, o apagamento ou a destruição total ou parcial dos dados;\n\nb) A publicidade da sentença condenatória;\n\nc) A advertência ou censura públicas do responsável pelo tratamento, nos termos do n.º 4 do artigo 22.º\n\n2 - A publicidade da decisão condenatória faz-se a expensas do condenado, na publicação periódica de maior expansão editada na área da comarca da prática da infracção ou, na sua falta, em publicação periódica da comarca mais próxima, bem como através da afixação de edital em suporte adequado, por período não inferior a 30 dias.\n\n3 - A publicação é feita por extracto de que constem os elementos da infracção e as sanções aplicadas, bem como a identificação do agente."
+  },
+  "43482075": {
+   "fragment_id": "35209675",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "43482175": {
+   "fragment_id": "36311575",
+   "type": 11,
+   "heading": "Artigo 50.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Disposição transitória\n\n1 - Os tratamentos de dados existentes em ficheiros manuais à data da entrada em vigor da presente lei devem cumprir o disposto nos artigos 7.º, 8.º, 10.º e 11.º no prazo de cinco anos.\n\n2 - Em qualquer caso, o titular dos dados pode obter, a seu pedido e, nomeadamente, aquando do exercício do direito de acesso, a rectificação, o apagamento ou o bloqueio dos dados incompletos, inexactos ou conservados de modo incompatível com os fins legítimos prosseguidos pelo responsável pelo tratamento.\n\n3 - A CNPD pode autorizar que os dados existentes em ficheiros manuais e conservados unicamente com finalidades de investigação histórica não tenham que cumprir os artigos 7.º, 8.º e 9.º, desde que não sejam em nenhum caso reutilizados para finalidade diferente."
+  },
+  "43482275": {
+   "fragment_id": "36311675",
+   "type": 11,
+   "heading": "Artigo 51.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Disposição revogatória\n\nSão revogadas as Leis n.os 10/91, de 29 de Abril, e 28/94, de 29 de Agosto."
+  },
+  "43482375": {
+   "fragment_id": "36311775",
+   "type": 11,
+   "heading": "Artigo 52.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "43475375": {
+   "fragment_id": "35069975",
+   "type": 15,
+   "heading": "Diploma — Lei da Protecção de Dados Pessoais (transpõe para a ordem jurídica portuguesa a Directiva n.º >95/46/CE, do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento dos dados pessoais e à livre circulação desses dados).",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º, das alíneas b) e c) do n.º 1 do artigo 165.º e do n.º 3 do artigo 166.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "75044343": {
+   "fragment_id": "37898775",
+   "type": 11,
+   "heading": "Artigo 27.º — Obrigação de notificação à CNPD",
+   "in_force_from": "1998-10-27",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 22/98 - Diário da República n.º 276/1998, Série I-A de 1998-11-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-1998-210469), em vigor a partir de 1998-10-27"
+   ],
+   "markdown": "###### Artigo 27.º — Obrigação de notificação à CNPD\n\n1 - O responsável pelo tratamento ou, se for caso disso, o seu representante deve notificar a CNPD antes da realização de um tratamento ou conjunto de tratamentos, total ou parcialmente automatizados, destinados à prossecução de uma ou mais finalidades interligadas.\n\n2 - A CNPD pode autorizar a simplificação ou a isenção da notificação para determinadas categorias de tratamentos que, atendendo aos dados a tratar,, não sejam susceptíveis de pôr em causa os direitos e liberdades dos titulares dos dados e tenham em conta critérios de celeridade, economia e eficiência.\n\n3 - A autorização, que está sujeita a publicação no Diário da República, deve especificar as finalidades do tratamento, os dados ou categorias de dados a tratar, a categoria ou categorias de titulares dos dados, os destinatários ou categorias de destinatários a quem podem ser comunicados os dados e o período de conservação dos dados.\n\n4 - Estão isentos de notificação os tratamentos cuja única finalidade seja a manutenção de registos que, nos termos de disposições legislativas ou regulamentares, se destinem a informação do público e possam ser consultados pelo público em geral ou por qualquer pessoa que provar um interesse legítimo.\n\n5 - Os tratamentos não automatizados dos dados pessoais previstos no n.º 1 do artigo 7.º estão sujeitos a notificação quando tratados ao abrigo da alínea a) do n.º 3 do mesmo artigo.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 22/98 - Diário da República n.º 276/1998, Série I-A de 1998-11-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-1998-210469), em vigor a partir de 1998-10-27"
+  },
+  "75044347": {
+   "fragment_id": "75066611",
+   "type": 11,
+   "heading": "Artigo 45.º-A — Inserção de dados falsos",
+   "in_force_from": "2015-09-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+   ],
+   "markdown": "###### Artigo 45.º-A — Inserção de dados falsos\n\n1 - Quem inserir ou facilitar a inserção de dados pessoais falsos, com a intenção de obter vantagem indevida para si ou para outrem ou para causar prejuízo, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.\n\n2 - A pena é agravada para o dobro se da alteração referida no número anterior resultar efetivo prejuízo para uma pessoa.\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+  },
+  "75044348": {
+   "fragment_id": "37900575",
+   "type": 11,
+   "heading": "Artigo 46.º — Desobediência qualificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Desobediência qualificada\n\n1 - Quem, depois de notificado para o efeito, não interromper, cessar ou bloquear o tratamento de dados pessoais é punido com a pena correspondente ao crime de desobediência qualificada.\n\n2 - Na mesma pena incorre quem, depois de notificado:\n\na) Recusar, sem justa causa, a colaboração que concretamente lhe for exigida nos termos do artigo 24.º;\n\nb) Não proceder ao apagamento, destruição total ou parcial de dados pessoais;\n\nc) Não proceder à destruição de dados pessoais, findo o prazo de conservação previsto no artigo 5.º"
+  },
+  "75044349": {
+   "fragment_id": "37900675",
+   "type": 11,
+   "heading": "Artigo 47.º — Violação do dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Violação do dever de sigilo\n\n1 - Quem, obrigado a sigilo profissional, nos termos da lei, sem justa causa e sem o devido consentimento, revelar ou divulgar no todo ou em parte dados pessoais é punido com prisão até dois anos ou multa até 240 dias.\n\n2 - A pena é agravada de metade dos seus limites se o agente:\n\na) For funcionário público ou equiparado, nos termos da lei penal;\n\nb) For determinado pela intenção de obter qualquer vantagem patrimonial ou outro benefício ilegítimo;\n\nc) Puser em perigo a reputação, a honra e consideração ou a intimidade da vida privada de outrem.\n\n3 - A negligência é punível com prisão até seis meses ou multa até 120 dias.\n\n4 - Fora dos casos previstos no n.º 2, o procedimento criminal depende de queixa."
+  },
+  "75044350": {
+   "fragment_id": "37900775",
+   "type": 11,
+   "heading": "Artigo 48.º — Punição da tentativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Punição da tentativa\n\nNos crimes previstos nas disposições anteriores, a tentativa é sempre punível."
+  },
+  "75044351": {
+   "fragment_id": "37900875",
+   "type": 11,
+   "heading": "Artigo 49.º — Pena acessória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Pena acessória\n\n1 - Conjuntamente com as coimas e penas aplicadas pode, acessoriamente, ser ordenada:\n\na) A proibição temporária ou definitiva do tratamento, o bloqueio, o apagamento ou a destruição total ou parcial dos dados;\n\nb) A publicidade da sentença condenatória;\n\nc) A advertência ou censura públicas do responsável pelo tratamento, nos termos do n.º 4 do artigo 22.º\n\n2 - A publicidade da decisão condenatória faz-se a expensas do condenado, na publicação periódica de maior expansão editada na área da comarca da prática da infracção ou, na sua falta, em publicação periódica da comarca mais próxima, bem como através da afixação de edital em suporte adequado, por período não inferior a 30 dias.\n\n3 - A publicação é feita por extracto de que constem os elementos da infracção e as sanções aplicadas, bem como a identificação do agente."
+  },
+  "43482575": {
+   "fragment_id": "35209775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 24 de Setembro de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 7 de Outubro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 14 de Outubro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "123795848": {
+   "fragment_id": "35209075",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795849": {
+   "fragment_id": "36309975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei transpõe para a ordem jurídica interna a Directiva n.º <a href=\"eurlex.asp?ano=1995&id=395L0046\" title=\"Link para Directiva da Comunidade Europeia\">95/46/CE</a>, do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795850": {
+   "fragment_id": "36310075",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípio geral",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 2.º — Princípio geral\n\nO tratamento de dados pessoais deve processar-se de forma transparente e no estrito respeito pela reserva da vida privada, bem como pelos direitos, liberdades e garantias fundamentais.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795851": {
+   "fragment_id": "36310175",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Dados pessoais»: qualquer informação, de qualquer natureza e independentemente do respectivo suporte, incluindo som e imagem, relativa a uma pessoa singular identificada ou identificável («titular dos dados»); é considerada identificável a pessoa que possa ser identificada directa ou indirectamente, designadamente por referência a um número de identificação ou a um ou mais elementos específicos da sua identidade física, fisiológica, psíquica, económica, cultural ou social;\n\nb) «Tratamento de dados pessoais» («tratamento»): qualquer operação ou conjunto de operações sobre dados pessoais, efectuadas com ou sem meios automatizados, tais como a recolha, o registo, a organização, a conservação, a adaptação ou alteração, a recuperação, a consulta, a utilização, a comunicação por transmissão, por difusão ou por qualquer outra forma de colocação à disposição, com comparação ou interconexão, bem como o bloqueio, apagamento ou destruição;\n\nc) «Ficheiro de dados pessoais» («ficheiro»): qualquer conjunto estruturado de dados pessoais, acessível segundo critérios determinados, quer seja centralizado, descentralizado ou repartido de modo funcional ou geográfico;\n\nd) «Responsável pelo tratamento»: a pessoa singular ou colectiva, a autoridade pública, o serviço ou qualquer outro organismo que, individualmente ou em conjunto com outrem, determine as finalidades e os meios de tratamento dos dados pessoais; sempre que as finalidades e os meios do tratamento sejam determinados por disposições legislativas ou regulamentares, o responsável pelo tratamento deve ser indicado na lei de organização e funcionamento ou no estatuto da entidade legal ou estatutariamente competente para tratar os dados pessoais em causa;\n\ne) «Subcontratante»: a pessoa singular ou colectiva, a autoridade pública, o serviço ou qualquer outro organismo que trate os dados pessoais por conta do responsável pelo tratamento;\n\nf) «Terceiro»: a pessoa singular ou colectiva, a autoridade pública, o serviço ou qualquer outro organismo que, não sendo o titular dos dados, o responsável pelo tratamento, o subcontratante ou outra pessoa sob autoridade directa do responsável pelo tratamento ou do subcontratante, esteja habilitado a tratar os dados;\n\ng) «Destinatário»: a pessoa singular ou colectiva, a autoridade pública, o serviço ou qualquer outro organismo a quem sejam comunicados dados pessoais, independentemente de se tratar ou não de um terceiro, sem prejuízo de não serem consideradas destinatários as autoridades a quem sejam comunicados dados no âmbito de uma disposição legal;\n\nh) «Consentimento do titular dos dados»: qualquer manifestação de vontade, livre, específica e informada, nos termos da qual o titular aceita que os seus dados pessoais sejam objecto de tratamento;\n\ni) «Interconexão de dados»: forma de tratamento que consiste na possibilidade de relacionamento dos dados de um ficheiro com os dados de um ficheiro ou ficheiros mantidos por outro ou outros responsáveis, ou mantidos pelo mesmo responsável com outra finalidade.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795852": {
+   "fragment_id": "36310275",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito de aplicação",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 4.º — Âmbito de aplicação\n\n1 - A presente lei aplica-se ao tratamento de dados pessoais por meios total ou parcialmente automatizados, bem como ao tratamento por meios não automatizados de dados pessoais contidos em ficheiros manuais ou a estes destinados.\n\n2 - A presente lei não se aplica ao tratamento de dados pessoais efectuado por pessoa singular no exercício de actividades exclusivamente pessoais ou domésticas.\n\n3 - A presente lei aplica-se ao tratamento de dados pessoais efectuado:\n\na) No âmbito das actividades de estabelecimento do responsável do tratamento situado em território português;\n\nb) Fora do território nacional, em local onde a legislação portuguesa seja aplicável por força do direito internacional;\n\nc) Por responsável que, não estando estabelecido no território da União Europeia, recorra, para tratamento de dados pessoais, a meios, automatizados ou não, situados no território português, salvo se esses meios só forem utilizados para trânsito através do território da União Europeia.\n\n4 - A presente lei aplica-se à videovigilância e outras formas de captação, tratamento e difusão de sons e imagens que permitam identificar pessoas sempre que o responsável pelo tratamento esteja domiciliado ou sediado em Portugal ou utilize um fornecedor de acesso a redes informáticas e telemáticas estabelecido em território português.\n\n5 - No caso referido na alínea c) do n.º 3, o responsável pelo tratamento deve designar, mediante comunicação à Comissão Nacional de Protecção de Dados (CNPD), um representante estabelecido em Portugal, que se lhe substitua em todos os seus direitos e obrigações, sem prejuízo da sua própria responsabilidade.\n\n6 - O disposto no número anterior aplica-se no caso de o responsável pelo tratamento estar abrangido por estatuto de extraterritorialidade, de imunidade ou por qualquer outro que impeça o procedimento criminal.\n\n7 - A presente lei aplica-se ao tratamento de dados pessoais que tenham por objectivo a segurança pública, a defesa nacional e a segurança do Estado, sem prejuízo do disposto em normas especiais constantes de instrumentos de direito internacional a que Portugal se vincule e de legislação específica atinente aos respectivos sectores.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795853": {
+   "fragment_id": "35209175",
+   "type": 1,
+   "heading": "Capítulo II — Tratamento de dados pessoais",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "### Capítulo II — Tratamento de dados pessoais\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795854": {
+   "fragment_id": "36310375",
+   "type": 8,
+   "heading": "Secção I — Qualidade dos dados e legitimidade do seu tratamento",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção I — Qualidade dos dados e legitimidade do seu tratamento\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795855": {
+   "fragment_id": "37896575",
+   "type": 11,
+   "heading": "Artigo 5.º — Qualidade dos dados",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 5.º — Qualidade dos dados\n\n1 - Os dados pessoais devem ser:\n\na) Tratados de forma lícita e com respeito pelo princípio da boa fé;\n\nb) Recolhidos para finalidades determinadas, explícitas e legítimas, não podendo ser posteriormente tratados de forma incompatível com essas finalidades;\n\nc) Adequados, pertinentes e não excessivos relativamente às finalidades para que são recolhidos e posteriormente tratados;\n\nd) Exactos e, se necessário, actualizados, devendo ser tomadas as medidas adequadas para assegurar que sejam apagados ou rectificados os dados inexactos ou incompletos, tendo em conta as finalidades para que foram recolhidos ou para que são tratados posteriormente;\n\ne) Conservados de forma a permitir a identificação dos seus titulares apenas durante o período necessário para a prossecução das finalidades da recolha ou do tratamento posterior.\n\n2 - Mediante requerimento do responsável pelo tratamento, e caso haja interesse legítimo, a CNPD pode autorizar a conservação de dados para fins históricos, estatísticos ou científicos por período superior ao referido na alínea e) do número anterior.\n\n3 - Cabe ao responsável pelo tratamento assegurar a observância do disposto nos números anteriores.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795856": {
+   "fragment_id": "37896675",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de legitimidade do tratamento de dados",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 6.º — Condições de legitimidade do tratamento de dados\n\nO tratamento de dados pessoais só pode ser efectuado se o seu titular tiver dado de forma inequívoca o seu consentimento ou se o tratamento for necessário para:\n\na) Execução de contrato ou contratos em que o titular dos dados seja parte ou de diligências prévias à formação do contrato ou declaração da vontade negocial efectuadas a seu pedido;\n\nb) Cumprimento de obrigação legal a que o responsável pelo tratamento esteja sujeito;\n\nc) Protecção de interesses vitais do titular dos dados, se este estiver física ou legalmente incapaz de dar o seu consentimento;\n\nd) Execução de uma missão de interesse público ou no exercício de autoridade pública em que esteja investido o responsável pelo tratamento ou um terceiro a quem os dados sejam comunicados;\n\ne) Prossecução de interesses legítimos do responsável pelo tratamento ou de terceiro a quem os dados sejam comunicados, desde que não devam prevalecer os interesses ou os direitos, liberdades e garantias do titular dos dados.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795857": {
+   "fragment_id": "37896775",
+   "type": 11,
+   "heading": "Artigo 7.º — Tratamento de dados sensíveis",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 7.º — Tratamento de dados sensíveis\n\n1 - É proibido o tratamento de dados pessoais referentes a convicções filosóficas ou políticas, filiação partidária ou sindical, fé religiosa, vida privada e origem racial ou étnica, bem como o tratamento de dados relativos à saúde e à vida sexual, incluindo os dados genéticos.\n\n2 - Mediante disposição legal ou autorização da CNPD, pode ser permitido o tratamento dos dados referidos no número anterior quando por motivos de interesse público importante esse tratamento for indispensável ao exercício das atribuições legais ou estatutárias do seu responsável, ou quando o titular dos dados tiver dado o seu consentimento expresso para esse tratamento, em ambos os casos com garantias de não discriminação e com as medidas de segurança previstas no artigo 15.º\n\n3 - O tratamento dos dados referidos no n.º 1 é ainda permitido quando se verificar uma das seguintes condições:\n\na) Ser necessário para proteger interesses vitais do titular dos dados ou de uma outra pessoa e o titular dos dados estiver física ou legalmente incapaz de dar o seu consentimento;\n\nb) Ser efectuado, com o consentimento do titular, por fundação, associação ou organismo sem fins lucrativos de carácter político, filosófico, religioso ou sindical, no âmbito das suas actividades legítimas, sob condição de o tratamento respeitar apenas aos membros desse organismo ou às pessoas que com ele mantenham contactos periódicos ligados às suas finalidades, e de os dados não serem comunicados a terceiros sem consentimento dos seus titulares;\n\nc) Dizer respeito a dados manifestamente tornados públicos pelo seu titular, desde que se possa legitimamente deduzir das suas declarações o consentimento para o tratamento dos mesmos;\n\nd) Ser necessário à declaração, exercício ou defesa de um direito em processo judicial e for efectuado exclusivamente com essa finalidade.\n\n4 - O tratamento dos dados referentes à saúde e à vida sexual, incluindo os dados genéticos, é permitido quando for necessário para efeitos de medicina preventiva, de diagnóstico médico, de prestação de cuidados ou tratamentos médicos ou de gestão de serviços de saúde, desde que o tratamento desses dados seja efectuado por um profissional de saúde obrigado a sigilo ou por outra pessoa sujeita igualmente a segredo profissional, seja notificado à CNPD, nos termos do artigo 27.º, e sejam garantidas medidas adequadas de segurança da informação.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795858": {
+   "fragment_id": "37896875",
+   "type": 11,
+   "heading": "Artigo 8.º — Suspeitas de actividades ilícitas, infracções penais e contra-ordenações",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 8.º — Suspeitas de actividades ilícitas, infracções penais e contra-ordenações\n\n1 - A criação e a manutenção de registos centrais relativos a pessoas suspeitas de actividades ilícitas, infracções penais, contra-ordenações e decisões que apliquem penas, medidas de segurança, coimas e sanções acessórias só podem ser mantidas por serviços públicos com competência específica prevista na respectiva lei de organização e funcionamento, observando normas procedimentais e de protecção de dados previstas em diploma legal, com prévio parecer da CNPD.\n\n2 - O tratamento de dados pessoais relativos a suspeitas de actividades ilícitas, infracções penais, contra-ordenações e decisões que apliquem penas, medidas de segurança, coimas e sanções acessórias pode ser autorizado pela CNPD, observadas as normas de protecção de dados e de segurança da informação, quando tal tratamento for necessário à execução de finalidades legítimas do seu responsável, desde que não prevaleçam os direitos, liberdades e garantias do titular dos dados.\n\n3 - O tratamento de dados pessoais para fins de investigação policial deve limitar-se ao necessário para a prevenção de um perigo concreto ou repressão de uma infracção determinada, para o exercício de competências previstas no respectivo estatuto orgânico ou noutra disposição legal e ainda nos termos de acordo ou convenção internacional de que Portugal seja parte.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795859": {
+   "fragment_id": "37896975",
+   "type": 11,
+   "heading": "Artigo 9.º — Interconexão de dados pessoais",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 9.º — Interconexão de dados pessoais\n\n1 - A interconexão de dados pessoais que não esteja prevista em disposição legal está sujeita a autorização da CNPD solicitada pelo responsável ou em conjunto pelos correspondentes responsáveis dos tratamentos, nos termos previstos no artigo 27.º\n\n2 - A interconexão de dados pessoais deve ser adequada à prossecução das finalidades legais ou estatutárias e de interesses legítimos dos responsáveis dos tratamentos, não implicar discriminação ou diminuição dos direitos, liberdades e garantias dos titulares dos dados, ser rodeada de adequadas medidas de segurança e ter em conta o tipo de dados objecto de interconexão.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795860": {
+   "fragment_id": "36310475",
+   "type": 8,
+   "heading": "Secção II — Direitos do titular dos dados",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção II — Direitos do titular dos dados\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795861": {
+   "fragment_id": "37897075",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito de informação",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 10.º — Direito de informação\n\n1 - Quando recolher dados pessoais directamente do seu titular, o responsável pelo tratamento ou o seu representante deve prestar-lhe, salvo se já dele forem conhecidas, as seguintes informações:\n\na) Identidade do responsável pelo tratamento e, se for caso disso, do seu representante;\n\nb) Finalidades do tratamento;\n\nc) Outras informações, tais como:\n\nOs destinatários ou categorias de destinatários dos dados;\n\nO carácter obrigatório ou facultativo da resposta, bem como as possíveis consequências se não responder;\n\nA existência e as condições do direito de acesso e de rectificação, desde que sejam necessárias, tendo em conta as circunstâncias específicas da recolha dos dados, para garantir ao seu titular um tratamento leal dos mesmos.\n\n2 - Os documentos que sirvam de base à recolha de dados pessoais devem conter as informações constantes do número anterior.\n\n3 - Se os dados não forem recolhidos junto do seu titular, e salvo se dele já forem conhecidas, o responsável pelo tratamento, ou o seu representante, deve prestar-lhe as informações previstas no n.º 1 no momento do registo dos dados ou, se estiver prevista a comunicação a terceiros, o mais tardar aquando da primeira comunicação desses dados.\n\n4 - No caso de recolha de dados em redes abertas, o titular dos dados deve ser informado, salvo se disso já tiver conhecimento, de que os seus dados pessoais podem circular na rede sem condições de segurança, correndo o risco de serem vistos e utilizados por terceiros não autorizados.\n\n5 - A obrigação de informação pode ser dispensada, mediante disposição legal ou deliberação da CNPD, por motivos de segurança do Estado e prevenção ou investigação criminal, e, bem assim, quando, nomeadamente no caso do tratamento de dados com finalidades estatísticas, históricas ou de investigação científica, a informação do titular dos dados se revelar impossível ou implicar esforços desproporcionados ou ainda quando a lei determinar expressamente o registo dos dados ou a sua divulgação.\n\n6 - A obrigação de informação, nos termos previstos no presente artigo, não se aplica ao tratamento de dados efectuado para fins exclusivamente jornalísticos ou de expressão artística ou literária.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795862": {
+   "fragment_id": "37897175",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito de acesso",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 11.º — Direito de acesso\n\n1 - O titular dos dados tem o direito de obter do responsável pelo tratamento, livremente e sem restrições, com periodicidade razoável e sem demoras ou custos excessivos:\n\na) A confirmação de serem ou não tratados dados que lhe digam respeito, bem como informação sobre as finalidades desse tratamento, as categorias de dados sobre que incide e os destinatários ou categorias de destinatários a quem são comunicados os dados;\n\nb) A comunicação, sob forma inteligível, dos seus dados sujeitos a tratamento e de quaisquer informações disponíveis sobre a origem desses dados;\n\nc) O conhecimento da lógica subjacente ao tratamento automatizado dos dados que lhe digam respeito;\n\nd) A rectificação, o apagamento ou o bloqueio dos dados cujo tratamento não cumpra o disposto na presente lei, nomeadamente devido ao carácter incompleto ou inexacto desses dados;\n\ne) A notificação aos terceiros a quem os dados tenham sido comunicados de qualquer rectificação, apagamento ou bloqueio efectuado nos termos da alínea d), salvo se isso for comprovadamente impossível.\n\n2 - No caso de tratamento de dados pessoais relativos à segurança do Estado e à prevenção ou investigação criminal, o direito de acesso é exercido através da CNPD ou de outra autoridade independente a quem a lei atribua a verificação do cumprimento da legislação de protecção de dados pessoais.\n\n3 - No caso previsto no n.º 6 do artigo anterior, o direito de acesso é exercido através da CNPD com salvaguarda das normas constitucionais aplicáveis, designadamente as que garantem a liberdade de expressão e informação, a liberdade de imprensa e a independência e sigilo profissionais dos jornalistas.\n\n4 - Nos casos previstos nos n.os 2 e 3, se a comunicação dos dados ao seu titular puder prejudicar a segurança do Estado, a prevenção ou a investigação criminal ou ainda a liberdade de expressão e informação ou a liberdade de imprensa, a CNPD limita-se a informar o titular dos dados das diligências efectuadas.\n\n5 - O direito de acesso à informação relativa a dados da saúde, incluindo os dados genéticos, é exercido por intermédio de médico escolhido pelo titular dos dados.\n\n6 - No caso de os dados não serem utilizados para tomar medidas ou decisões em relação a pessoas determinadas, a lei pode restringir o direito de acesso nos casos em que manifestamente não exista qualquer perigo de violação dos direitos, liberdades e garantias do titular dos dados, designadamente do direito à vida privada, e os referidos dados forem exclusivamente utilizados para fins de investigação científica ou conservados sob forma de dados pessoais durante um período que não exceda o necessário à finalidade exclusiva de elaborar estatísticas.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795863": {
+   "fragment_id": "37897275",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito de oposição do titular dos dados",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 12.º — Direito de oposição do titular dos dados\n\nO titular dos dados tem o direito de:\n\na) Salvo disposição legal em contrário, e pelo menos nos casos referidos nas alíneas d) e e) do artigo 6.º, se opor em qualquer altura, por razões ponderosas e legítimas relacionadas com a sua situação particular, a que os dados que lhe digam respeito sejam objecto de tratamento, devendo, em caso de oposição justificada, o tratamento efectuado pelo responsável deixar de poder incidir sobre esses dados;\n\nb) Se opor, a seu pedido e gratuitamente, ao tratamento dos dados pessoais que lhe digam respeito previsto pelo responsável pelo tratamento para efeitos de marketing directo ou qualquer outra forma de prospecção, ou de ser informado, antes de os dados pessoais serem comunicados pela primeira vez a terceiros para fins de marketing directo ou utilizados por conta de terceiros, e de lhe ser expressamente facultado o direito de se opor, sem despesas, a tais comunicações ou utilizações.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795864": {
+   "fragment_id": "37897375",
+   "type": 11,
+   "heading": "Artigo 13.º — Decisões individuais automatizadas",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 13.º — Decisões individuais automatizadas\n\n1 - Qualquer pessoa tem o direito de não ficar sujeita a uma decisão que produza efeitos na sua esfera jurídica ou que a afecte de modo significativo, tomada exclusivamente com base num tratamento automatizado de dados destinado a avaliar determinados aspectos da sua personalidade, designadamente a sua capacidade profissional, o seu crédito, a confiança de que é merecedora ou o seu comportamento.\n\n2 - Sem prejuízo do cumprimento das restantes disposições da presente lei, uma pessoa pode ficar sujeita a uma decisão tomada nos termos do n.º 1, desde que tal ocorra no âmbito da celebração ou da execução de um contrato, e sob condição de o seu pedido de celebração ou execução do contrato ter sido satisfeito, ou de existirem medidas adequadas que garantam a defesa dos seus interesses legítimos, designadamente o seu direito de representação e expressão.\n\n3 - Pode ainda ser permitida a tomada de uma decisão nos termos do n.º 1 quando a CNPD o autorize, definindo medidas de garantia da defesa dos interesses legítimos do titular dos dados.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795865": {
+   "fragment_id": "36310575",
+   "type": 8,
+   "heading": "Secção III — Segurança e confidencialidade do tratamento",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção III — Segurança e confidencialidade do tratamento\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795866": {
+   "fragment_id": "37897475",
+   "type": 11,
+   "heading": "Artigo 14.º — Segurança do tratamento",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 14.º — Segurança do tratamento\n\n1 - O responsável pelo tratamento deve pôr em prática as medidas técnicas e organizativas adequadas para proteger os dados pessoais contra a destruição, acidental ou ilícita, a perda acidental, a alteração, a difusão ou o acesso não autorizados, nomeadamente quando o tratamento implicar a sua transmissão por rede, e contra qualquer outra forma de tratamento ilícito; estas medidas devem assegurar, atendendo aos conhecimentos técnicos disponíveis e aos custos resultantes da sua aplicação, um nível de segurança adequado em relação aos riscos que o tratamento apresenta e à natureza dos dados a proteger.\n\n2 - O responsável pelo tratamento, em caso de tratamento por sua conta, deverá escolher um subcontratante que ofereça garantias suficientes em relação às medidas de segurança técnica e de organização do tratamento a efectuar, e deverá zelar pelo cumprimento dessas medidas.\n\n3 - A realização de operações de tratamento em subcontratação deve ser regida por um contrato ou acto jurídico que vincule o subcontratante ao responsável pelo tratamento e que estipule, designadamente, que o subcontratante apenas actua mediante instruções do responsável pelo tratamento e que lhe incumbe igualmente o cumprimento das obrigações referidas no n.º 1.\n\n4 - Os elementos de prova da declaração negocial, do contrato ou do acto jurídico relativos à protecção dos dados, bem como as exigências relativas às medidas referidas no n.º 1, são consignados por escrito em documento em suporte com valor probatório legalmente reconhecido.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795867": {
+   "fragment_id": "37897575",
+   "type": 11,
+   "heading": "Artigo 15.º — Medidas especiais de segurança",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 15.º — Medidas especiais de segurança\n\n1 - Os responsáveis pelo tratamento dos dados referidos no n.º 2 do artigo 7.º e no n.º 1 do artigo 8.º devem tomar as medidas adequadas para:\n\na) Impedir o acesso de pessoa não autorizada às instalações utilizadas para o tratamento desses dados (controlo da entrada nas instalações);\n\nb) Impedir que suportes de dados possam ser lidos, copiados, alterados ou retirados por pessoa não autorizada (controlo dos suportes de dados);\n\nc) Impedir a introdução não autorizada, bem como a tomada de conhecimento, a alteração ou a eliminação não autorizadas de dados pessoais inseridos (controlo da inserção);\n\nd) Impedir que sistemas de tratamento automatizados de dados possam ser utilizados por pessoas não autorizadas através de instalações de transmissão de dados (controlo da utilização);\n\ne) Garantir que as pessoas autorizadas só possam ter acesso aos dados abrangidos pela autorização (controlo de acesso);\n\nf) Garantir a verificação das entidades a quem possam ser transmitidos os dados pessoais através das instalações de transmissão de dados (controlo da transmissão);\n\ng) Garantir que possa verificar-se a posteriori, em prazo adequado à natureza do tratamento, a fixar na regulamentação aplicável a cada sector, quais os dados pessoais introduzidos quando e por quem (controlo da introdução);\n\nh) Impedir que, na transmissão de dados pessoais, bem como no transporte do seu suporte, os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada (controlo do transporte).\n\n2 - Tendo em conta a natureza das entidades responsáveis pelo tratamento e o tipo das instalações em que é efectuado, a CNPD pode dispensar a existência de certas medidas de segurança, garantido que se mostre o respeito pelos direitos, liberdades e garantias dos titulares dos dados.\n\n3 - Os sistemas devem garantir a separação lógica entre os dados referentes à saúde e à vida sexual, incluindo os genéticos, dos restantes dados pessoais.\n\n4 - A CNPD pode determinar que, nos casos em que a circulação em rede de dados pessoais referidos nos artigos 7.º e 8.º possa pôr em risco direitos, liberdades e garantias dos respectivos titulares, a transmissão seja cifrada.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795868": {
+   "fragment_id": "37897675",
+   "type": 11,
+   "heading": "Artigo 16.º — Tratamento por subcontratante",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 16.º — Tratamento por subcontratante\n\nQualquer pessoa que, agindo sob a autoridade do responsável pelo tratamento ou do subcontratante, bem como o próprio subcontratante, tenha acesso a dados pessoais não pode proceder ao seu tratamento sem instruções do responsável pelo tratamento, salvo por força de obrigações legais.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795869": {
+   "fragment_id": "37897775",
+   "type": 11,
+   "heading": "Artigo 17.º — Sigilo profissional",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 17.º — Sigilo profissional\n\n1 - Os responsáveis do tratamento de dados pessoais, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais tratados, ficam obrigados a sigilo profissional, mesmo após o termo das suas funções.\n\n2 - Igual obrigação recai sobre os membros da CNPD, mesmo após o termo do mandato.\n\n3 - O disposto nos números anteriores não exclui o dever do fornecimento das informações obrigatórias, nos termos legais, excepto quando constem de ficheiros organizados para fins estatísticos.\n\n4 - Os funcionários, agentes ou técnicos que exerçam funções de assessoria à CNPD ou aos seus vogais estão sujeitos à mesma obrigação de sigilo profissional.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795870": {
+   "fragment_id": "35209275",
+   "type": 1,
+   "heading": "Capítulo III — Transferência de dados pessoais",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "### Capítulo III — Transferência de dados pessoais\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795871": {
+   "fragment_id": "36310675",
+   "type": 8,
+   "heading": "Secção I — Transferência de dados pessoais na União Europeia",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção I — Transferência de dados pessoais na União Europeia\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795872": {
+   "fragment_id": "37897875",
+   "type": 11,
+   "heading": "Artigo 18.º — Princípio",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 18.º — Princípio\n\nÉ livre a circulação de dados pessoais entre Estados membros da União Europeia, sem prejuízo do disposto nos actos comunitários de natureza fiscal e aduaneira.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795873": {
+   "fragment_id": "36310775",
+   "type": 8,
+   "heading": "Secção II — Transferência de dados pessoais para fora da União Europeia",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção II — Transferência de dados pessoais para fora da União Europeia\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123795874": {
+   "fragment_id": "37897975",
+   "type": 11,
+   "heading": "Artigo 19.º — Princípios",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 19.º — Princípios\n\n1 - Sem prejuízo do disposto no artigo seguinte, a transferência, para um Estado que não pertença à União Europeia, de dados pessoais que sejam objecto de tratamento ou que se destinem a sê-lo só pode realizar-se com o respeito das disposições da presente lei e se o Estado para onde são transferidos assegurar um nível de protecção adequado.\n\n2 - A adequação do nível de protecção num Estado que não pertença à União Europeia é apreciada em função de todas as circunstâncias que rodeiem a transferência ou o conjunto de transferências de dados; em especial, devem ser tidas em consideração a natureza dos dados, a finalidade e a duração do tratamento ou tratamentos projectados, os países de origem e de destino final, as regras de direito, gerais ou sectoriais, em vigor no Estado em causa, bem como as regras profissionais e as medidas de segurança que são respeitadas nesse Estado.\n\n3 - Cabe à CNPD decidir se um Estado que não pertença à União Europeia assegura um nível de protecção adequado.\n\n4 - A CNPD comunica, através do Ministério dos Negócios Estrangeiros, à Comissão Europeia os casos em que tenha considerado que um Estado não assegura um nível de protecção adequado.\n\n5 - Não é permitida a transferência de dados pessoais de natureza idêntica aos que a Comissão Europeia tiver considerado que não gozam de protecção adequada no Estado a que se destinam.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879575": {
+   "fragment_id": "37898075",
+   "type": 11,
+   "heading": "Artigo 20.º — Derrogações",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 20.º — Derrogações\n\n1 - A transferência de dados pessoais para um Estado que não assegure um nível de protecção adequado na acepção do n.º 2 do artigo 19.º pode ser permitida pela CNPD se o titular dos dados tiver dado de forma inequívoca o seu consentimento à transferência ou se essa transferência:\n\na) For necessária para a execução de um contrato entre o titular dos dados e o responsável pelo tratamento ou de diligências prévias à formação do contrato decididas a pedido do titular dos dados;\n\nb) For necessária para a execução ou celebração de um contrato celebrado ou a celebrar, no interesse do titular dos dados, entre o responsável pelo tratamento e um terceiro; ou\n\nc) For necessária ou legalmente exigida para a protecção de um interesse público importante, ou para a declaração, o exercício ou a defesa de um direito num processo judicial; ou\n\nd) For necessária para proteger os interesses vitais do titular dos dados; ou\n\ne) For realizada a partir de um registo público que, nos termos de disposições legislativas ou regulamentares, se destine à informação do público e se encontre aberto à consulta do público em geral ou de qualquer pessoa que possa provar um interesse legítimo, desde que as condições estabelecidas na lei para a consulta sejam cumpridas no caso concreto.\n\n2 - Sem prejuízo do disposto no n.º 1, a CNPD pode autorizar uma transferência ou um conjunto de transferências de dados pessoais para um Estado que não assegure um nível de protecção adequado na acepção do n.º 2 do artigo 19.º desde que o responsável pelo tratamento assegure mecanismos suficientes de garantia de protecção da vida privada e dos direitos e liberdades fundamentais das pessoas, bem como do seu exercício, designadamente, mediante cláusulas contratuais adequadas.\n\n3 - A CNPD informa a Comissão Europeia, através do Ministério dos Negócios Estrangeiros, bem como as autoridades competentes dos restantes Estados da União Europeia, das autorizações que conceder nos termos do n.º 2.\n\n4 - A concessão ou derrogação das autorizações previstas no n.º 2 efectua-se pela CNPD nos termos de processo próprio e de acordo com as decisões da Comissão Europeia.\n\n5 - Sempre que existam cláusulas contratuais tipo aprovadas pela Comissão Europeia, segundo procedimento próprio, por oferecerem as garantias suficientes referidas no n.º 2, a CNPD autoriza a transferência de dados pessoais que se efectue ao abrigo de tais cláusulas.\n\n6 - A transferência de dados pessoais que constitua medida necessária à protecção da segurança do Estado, da defesa, da segurança pública e da prevenção, investigação e repressão das infracções penais é regida por disposições legais específicas ou pelas convenções e acordos internacionais em que Portugal é parte.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879576": {
+   "fragment_id": "35209375",
+   "type": 1,
+   "heading": "Capítulo IV — Comissão Nacional de Protecção de Dados",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "### Capítulo IV — Comissão Nacional de Protecção de Dados\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879577": {
+   "fragment_id": "36310875",
+   "type": 8,
+   "heading": "Secção I — Natureza, atribuições e competências",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção I — Natureza, atribuições e competências\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879578": {
+   "fragment_id": "37898175",
+   "type": 11,
+   "heading": "Artigo 21.º — Natureza",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 21.º — Natureza\n\n1 - A CNPD é uma entidade administrativa independente, com poderes de autoridade, que funciona junto da Assembleia da República.\n\n2 - A CNPD, independentemente do direito nacional aplicável a cada tratamento de dados em concreto, exerce as suas competências em todo o território nacional.\n\n3 - A CNPD pode ser solicitada a exercer os seus poderes por uma autoridade de controlo de protecção de dados de outro Estado membro da União Europeia ou do Conselho da Europa.\n\n4 - A CNPD coopera com as autoridades de controlo de protecção de dados de outros Estados na difusão do direito e das regulamentações nacionais em matéria de protecção de dados pessoais, bem como na defesa e no exercício dos direitos de pessoas residentes no estrangeiro.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879579": {
+   "fragment_id": "37898275",
+   "type": 11,
+   "heading": "Artigo 22.º — Atribuições",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 22.º — Atribuições\n\n1 - A CNPD é a autoridade nacional que tem como atribuição controlar e fiscalizar o cumprimento das disposições legais e regulamentares em matéria de protecção de dados pessoais, em rigoroso respeito pelos direitos do homem e pelas liberdades e garantias consagradas na Constituição e na lei.\n\n2 - A CNPD deve ser consultada sobre quaisquer disposições legais, bem como sobre instrumentos jurídicos em preparação em instituições comunitárias ou internacionais, relativos ao tratamento de dados pessoais.\n\n3 - A CNPD dispõe:\n\na) De poderes de investigação e de inquérito, podendo aceder aos dados objecto de tratamento e recolher todas as informações necessárias ao desempenho das suas funções de controlo;\n\nb) De poderes de autoridade, designadamente o de ordenar o bloqueio, apagamento ou destruição dos dados, bem como o de proibir, temporária ou definitivamente, o tratamento de dados pessoais, ainda que incluídos em redes abertas de transmissão de dados a partir de servidores situados em território português;\n\nc) Do poder de emitir pareceres prévios ao tratamento de dados pessoais, assegurando a sua publicitação.\n\n4 - Em caso de reiterado não cumprimento das disposições legais em matéria de dados pessoais, a CNPD pode advertir ou censurar publicamente o responsável pelo tratamento, bem como suscitar a questão, de acordo com as respectivas competências, à Assembleia da República, ao Governo ou a outros órgãos ou autoridades.\n\n5 - A CNPD tem legitimidade para intervir em processos judiciais no caso de violação das disposições da presente lei e deve denunciar ao Ministério Público as infracções penais de que tiver conhecimento, no exercício das suas funções e por causa delas, bem como praticar os actos cautelares necessários e urgentes para assegurar os meios de prova.\n\n6 - A CNPD é representada em juízo pelo Ministério Público e está isenta de custas nos processos em que intervenha.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879580": {
+   "fragment_id": "37898375",
+   "type": 11,
+   "heading": "Artigo 23.º — Competências",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 23.º — Competências\n\n1 - Compete em especial à CNPD:\n\na) Emitir parecer sobre disposições legais, bem como sobre instrumentos jurídicos em preparação em instituições comunitárias e internacionais, relativos ao tratamento de dados pessoais;\n\nb) Autorizar ou registar, consoante os casos, os tratamentos de dados pessoais;\n\nc) Autorizar excepcionalmente a utilização de dados pessoais para finalidades não determinantes da recolha, com respeito pelos princípios definidos no artigo 5.º;\n\nd) Autorizar, nos casos previstos no artigo 9.º, a interconexão de tratamentos automatizados de dados pessoais;\n\ne) Autorizar a transferência de dados pessoais nos casos previstos no artigo 20.º;\n\nf) Fixar o tempo da conservação dos dados pessoais em função da finalidade, podendo emitir directivas para determinados sectores de actividade;\n\ng) Fazer assegurar o direito de acesso à informação, bem como do exercício do direito de rectificação e actualização;\n\nh) Autorizar a fixação de custos ou de periodicidade para o exercício do direito de acesso, bem como fixar os prazos máximos de cumprimento, em cada sector de actividade, das obrigações que, por força dos artigos 11.º a 13.º, incumbem aos responsáveis pelo tratamento de dados pessoais;\n\ni) Dar seguimento ao pedido efectuado por qualquer pessoa, ou por associação que a represente, para protecção dos seus direitos e liberdades no que diz respeito ao tratamento de dados pessoais e informá-la do resultado;\n\nj) Efectuar, a pedido de qualquer pessoa, a verificação de licitude de um tratamento de dados, sempre que esse tratamento esteja sujeito a restrições de acesso ou de informação, e informá-la da realização da verificação;\n\nk) Apreciar as reclamações, queixas ou petições dos particulares;\n\nl) Dispensar a execução de medidas de segurança, nos termos previstos no n.º 2 do artigo 15.º, podendo emitir directivas para determinados sectores de actividade;\n\nm) Assegurar a representação junto de instâncias comuns de controlo e em reuniões comunitárias e internacionais de entidades independentes de controlo da protecção de dados pessoais, bem como participar em reuniões internacionais no âmbito das suas competências, designadamente exercer funções de representação e fiscalização no âmbito dos sistemas Schengen e Europol, nos termos das disposições aplicáveis;\n\nn) Deliberar sobre a aplicação de coimas;\n\no) Promover e apreciar códigos de conduta;\n\np) Promover a divulgação e esclarecimento dos direitos relativos à protecção de dados e dar publicidade periódica à sua actividade, nomeadamente através da publicação de um relatório anual;\n\nq) Exercer outras competências legalmente previstas.\n\n2 - No exercício das suas competências de emissão de directivas ou de apreciação de códigos de conduta, a CNPD deve promover a audição das associações de defesa dos interesses em causa.\n\n3 - No exercício das suas funções, a CNPD profere decisões com força obrigatória, passíveis de reclamação e de recurso para o Tribunal Central Administrativo.\n\n4 - A CNPD pode sugerir à Assembleia da República as providências que entender úteis à prossecução das suas atribuições e ao exercício das suas competências.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879581": {
+   "fragment_id": "37898475",
+   "type": 11,
+   "heading": "Artigo 24.º — Dever de colaboração",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 24.º — Dever de colaboração\n\n1 - As entidades públicas e privadas devem prestar a sua colaboração à CNPD, facultando-lhe todas as informações que por esta, no exercício das suas competências, lhes forem solicitadas.\n\n2 - O dever de colaboração é assegurado, designadamente, quando a CNPD tiver necessidade, para o cabal exercício das suas funções, de examinar o sistema informático e os ficheiros de dados pessoais, bem como toda a documentação relativa ao tratamento e transmissão de dados pessoais.\n\n3 - A CNPD ou os seus vogais, bem como os técnicos por ela mandatados, têm direito de acesso aos sistemas informáticos que sirvam de suporte ao tratamento dos dados, bem como à documentação referida no número anterior, no âmbito das suas atribuições e competências.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879582": {
+   "fragment_id": "36310975",
+   "type": 8,
+   "heading": "Secção II — Composição e funcionamento",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção II — Composição e funcionamento\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879583": {
+   "fragment_id": "37898575",
+   "type": 11,
+   "heading": "Artigo 25.º — Composição e mandato",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 25.º — Composição e mandato\n\n1 - A CNPD é composta por sete membros de integridade e mérito reconhecidos, dos quais o presidente e dois dos vogais são eleitos pela Assembleia da República segundo o método da média mais alta de Hondt.\n\n2 - Os restantes vogais são:\n\na) Dois magistrados com mais de 10 anos de carreira, sendo um magistrado judicial, designado pelo Conselho Superior da Magistratura, e um magistrado do Ministério Público, designado pelo Conselho Superior do Ministério Público;\n\nb) Duas personalidades de reconhecida competência designadas pelo Governo.\n\n3 - O mandato dos membros da CNPD é de cinco anos e cessa com a posse dos novos membros.\n\n4 - Os membros da CNPD constam de lista publicada na 1.ª série do Diário da República.\n\n5 - Os membros da CNPD tomam posse perante o Presidente da Assembleia da República nos 10 dias seguintes à publicação da lista referida no número anterior.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879584": {
+   "fragment_id": "37898675",
+   "type": 11,
+   "heading": "Artigo 26.º — Funcionamento",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 26.º — Funcionamento\n\n1 - São aprovados por lei da Assembleia da República:\n\na) A lei orgânica e o quadro de pessoal da CNPD;\n\nb) O regime de incompatibilidades, de impedimentos, de suspeições e de perda de mandato, bem como o estatuto remuneratório dos membros da CNPD.\n\n2 - O estatuto dos membros da CNPD garante a independência do exercício das suas funções.\n\n3 - A Comissão dispõe de quadro próprio para apoio técnico e administrativo, beneficiando os seus funcionários e agentes do estatuto e regalias do pessoal da Assembleia da República.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879585": {
+   "fragment_id": "36311075",
+   "type": 8,
+   "heading": "Secção III — Notificação",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção III — Notificação\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879586": {
+   "fragment_id": "37898775",
+   "type": 11,
+   "heading": "Artigo 27.º — Obrigação de notificação à CNPD",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 22/98 - Diário da República n.º 276/1998, Série I-A de 1998-11-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-1998-210469), em vigor a partir de 1998-10-27"
+   ],
+   "markdown": "###### Artigo 27.º — Obrigação de notificação à CNPD\n\n1 - O responsável pelo tratamento ou, se for caso disso, o seu representante deve notificar a CNPD antes da realização de um tratamento ou conjunto de tratamentos, total ou parcialmente automatizados, destinados à prossecução de uma ou mais finalidades interligadas.\n\n2 - A CNPD pode autorizar a simplificação ou a isenção da notificação para determinadas categorias de tratamentos que, atendendo aos dados a tratar,, não sejam susceptíveis de pôr em causa os direitos e liberdades dos titulares dos dados e tenham em conta critérios de celeridade, economia e eficiência.\n\n3 - A autorização, que está sujeita a publicação no Diário da República, deve especificar as finalidades do tratamento, os dados ou categorias de dados a tratar, a categoria ou categorias de titulares dos dados, os destinatários ou categorias de destinatários a quem podem ser comunicados os dados e o período de conservação dos dados.\n\n4 - Estão isentos de notificação os tratamentos cuja única finalidade seja a manutenção de registos que, nos termos de disposições legislativas ou regulamentares, se destinem a informação do público e possam ser consultados pelo público em geral ou por qualquer pessoa que provar um interesse legítimo.\n\n5 - Os tratamentos não automatizados dos dados pessoais previstos no n.º 1 do artigo 7.º estão sujeitos a notificação quando tratados ao abrigo da alínea a) do n.º 3 do mesmo artigo.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 22/98 - Diário da República n.º 276/1998, Série I-A de 1998-11-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/22-1998-210469), em vigor a partir de 1998-10-27"
+  },
+  "123879587": {
+   "fragment_id": "37898875",
+   "type": 11,
+   "heading": "Artigo 28.º — Controlo prévio",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 28.º — Controlo prévio\n\n1 - Carecem de autorização da CNPD:\n\na) O tratamento dos dados pessoais a que se referem o n.º 2 do artigo 7.º e o n.º 2 do artigo 8.º;\n\nb) O tratamento dos dados pessoais relativos ao crédito e à solvabilidade dos seus titulares;\n\nc) A interconexão de dados pessoais prevista no artigo 9.º;\n\nd) A utilização de dados pessoais para fins não determinantes da recolha.\n\n2 - Os tratamentos a que se refere o número anterior podem ser autorizados por diploma legal, não carecendo neste caso de autorização da CNPD.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879588": {
+   "fragment_id": "37898975",
+   "type": 11,
+   "heading": "Artigo 29.º — Conteúdo dos pedidos de parecer ou de autorização e da notificação",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 29.º — Conteúdo dos pedidos de parecer ou de autorização e da notificação\n\nOs pedidos de parecer ou de autorização, bem como as notificações, remetidos à CNPD devem conter as seguintes informações:\n\na) Nome e endereço do responsável pelo tratamento e, se for o caso, do seu representante;\n\nb) As finalidades do tratamento;\n\nc) Descrição da ou das categorias de titulares dos dados e dos dados ou categorias de dados pessoais que lhes respeitem;\n\nd) Destinatários ou categorias de destinatários a quem os dados podem ser comunicados e em que condições;\n\ne) Entidade encarregada do processamento da informação, se não for o próprio responsável do tratamento;\n\nf) Eventuais interconexões de tratamentos de dados pessoais;\n\ng) Tempo de conservação dos dados pessoais;\n\nh) Forma e condições como os titulares dos dados podem ter conhecimento ou fazer corrigir os dados pessoais que lhes respeitem;\n\ni) Transferências de dados previstas para países terceiros;\n\nj) Descrição geral que permita avaliar de forma preliminar a adequação das medidas tomadas para garantir a segurança do tratamento em aplicação dos artigos 14.º e 15.º\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879589": {
+   "fragment_id": "37899075",
+   "type": 11,
+   "heading": "Artigo 30.º — Indicações obrigatórias",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 30.º — Indicações obrigatórias\n\n1 - Os diplomas legais referidos no n.º 2 do artigo 7.º e no n.º 1 do artigo 8.º, bem como as autorizações da CNPD e os registos de tratamentos de dados pessoais, devem, pelo menos, indicar:\n\na) O responsável do ficheiro e, se for caso disso, o seu representante;\n\nb) As categorias de dados pessoais tratados;\n\nc) As finalidades a que se destinam os dados e as categorias de entidades a quem podem ser transmitidos;\n\nd) A forma de exercício do direito de acesso e de rectificação;\n\ne) Eventuais interconexões de tratamentos de dados pessoais;\n\nf) Transferências de dados previstas para países terceiros.\n\n2 - Qualquer alteração das indicações constantes do n.º 1 está sujeita aos procedimentos previstos nos artigos 27.º e 28.º\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879590": {
+   "fragment_id": "37899175",
+   "type": 11,
+   "heading": "Artigo 31.º — Publicidade dos tratamentos",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 31.º — Publicidade dos tratamentos\n\n1 - O tratamento dos dados pessoais, quando não for objecto de diploma legal e dever ser autorizado ou notificado, consta de registo na CNPD, aberto à consulta por qualquer pessoa.\n\n2 - O registo contém as informações enumeradas nas alíneas a) a d) e i) do artigo 29.º\n\n3 - O responsável por tratamento de dados não sujeito a notificação está obrigado a prestar, de forma adequada, a qualquer pessoa que lho solicite, pelo menos as informações referidas no n.º 1 do artigo 30.º\n\n4 - O disposto no presente artigo não se aplica a tratamentos cuja única finalidade seja a manutenção de registos que, nos termos de disposições legislativas ou regulamentares, se destinem à informação do público e se encontrem abertos à consulta do público em geral ou de qualquer pessoa que possa provar um interesse legítimo.\n\n5 - A CNPD deve publicar no seu relatório anual todos os pareceres e autorizações elaborados ou concedidas ao abrigo da presente lei, designadamente as autorizações previstas no n.º 2 do artigo 7.º e no n.º 2 do artigo 9.º\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879591": {
+   "fragment_id": "35209475",
+   "type": 1,
+   "heading": "Capítulo V — Códigos de conduta",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "### Capítulo V — Códigos de conduta\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879592": {
+   "fragment_id": "36311175",
+   "type": 11,
+   "heading": "Artigo 32.º — Códigos de conduta",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 32.º — Códigos de conduta\n\n1 - A CNPD apoia a elaboração de códigos de conduta destinados a contribuir, em função das características dos diferentes sectores, para a boa execução das disposições da presente lei.\n\n2 - As associações profissionais e outras organizações representativas de categorias de responsáveis pelo tratamento de dados que tenham elaborado projectos de códigos de conduta podem submetê-los à apreciação da CNPD.\n\n3 - A CNPD pode declarar a conformidade dos projectos com as disposições legais e regulamentares vigentes em matéria de protecção de dados pessoais.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879593": {
+   "fragment_id": "35209575",
+   "type": 1,
+   "heading": "Capítulo VI — Tutela administrativa e jurisdicional",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "### Capítulo VI — Tutela administrativa e jurisdicional\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879594": {
+   "fragment_id": "36311275",
+   "type": 8,
+   "heading": "Secção I — Tutela administrativa e jurisdicional",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção I — Tutela administrativa e jurisdicional\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879595": {
+   "fragment_id": "37899275",
+   "type": 11,
+   "heading": "Artigo 33.º — Tutela administrativa e jurisdicional",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 33.º — Tutela administrativa e jurisdicional\n\nSem prejuízo do direito de apresentação de queixa à CNPD, qualquer pessoa pode, nos termos da lei, recorrer a meios administrativos ou jurisdicionais para garantir o cumprimento das disposições legais em matéria de protecção de dados pessoais.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879596": {
+   "fragment_id": "37899375",
+   "type": 11,
+   "heading": "Artigo 34.º — Responsabilidade civil",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 34.º — Responsabilidade civil\n\n1 - Qualquer pessoa que tiver sofrido um prejuízo devido ao tratamento ilícito de dados ou a qualquer outro acto que viole disposições legais em matéria de protecção de dados pessoais tem o direito de obter do responsável a reparação pelo prejuízo sofrido.\n\n2 - O responsável pelo tratamento pode ser parcial ou totalmente exonerado desta responsabilidade se provar que o facto que causou o dano lhe não é imputável.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879597": {
+   "fragment_id": "36311375",
+   "type": 8,
+   "heading": "Secção II — Contra-ordenações",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção II — Contra-ordenações\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879598": {
+   "fragment_id": "37899475",
+   "type": 11,
+   "heading": "Artigo 35.º — Legislação subsidiária",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 35.º — Legislação subsidiária\n\nÀs infracções previstas na presente secção é subsidiariamente aplicável o regime geral das contra-ordenações, com as adaptações constantes dos artigos seguintes.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879599": {
+   "fragment_id": "37899575",
+   "type": 11,
+   "heading": "Artigo 36.º — Cumprimento do dever omitido",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 36.º — Cumprimento do dever omitido\n\nSempre que a contra-ordenação resulte de omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensam o infractor do seu cumprimento, se este ainda for possível.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879600": {
+   "fragment_id": "37899675",
+   "type": 11,
+   "heading": "Artigo 37.º — Omissão ou defeituoso cumprimento de obrigações",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 37.º — Omissão ou defeituoso cumprimento de obrigações\n\n1 - As entidades que, por negligência, não cumpram a obrigação de notificação à CNPD do tratamento de dados pessoais a que se referem os n.os 1 e 5 do artigo 27.º, prestem falsas informações ou cumpram a obrigação de notificação com inobservância dos termos previstos no artigo 29.º, ou ainda quando, depois de notificadas pela CNPD, mantiverem o acesso às redes abertas de transmissão de dados a responsáveis por tratamento de dados pessoais que não cumpram as disposições da presente lei, praticam contra-ordenação punível com as seguintes coimas:\n\na) Tratando-se de pessoa singular, no mínimo de 50000$00 e no máximo de 500000$00;\n\nb) Tratando-se de pessoa colectiva ou de entidade sem personalidade jurídica, no mínimo de 300000$00 e no máximo de 3000000$00.\n\n2 - A coima é agravada para o dobro dos seus limites quando se trate de dados sujeitos a controlo prévio, nos termos do artigo 28.º\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879601": {
+   "fragment_id": "37899775",
+   "type": 11,
+   "heading": "Artigo 38.º — Contra-ordenações",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 38.º — Contra-ordenações\n\n1 - Praticam contra-ordenação punível com a coima mínima de 100000$00 e máxima de 1000000$00, as entidades que não cumprirem alguma das seguintes disposições da presente lei:\n\na) Designar representante nos termos previstos no n.º 5 do artigo 4.º;\n\nb) Observar as obrigações estabelecidas nos artigos 5.º, 10.º, 11.º, 12.º, 13.º, 15.º, 16.º e 31.º, n.º 3.\n\n2 - A pena é agravada para o dobro dos seus limites quando não forem cumpridas as obrigações constantes dos artigos 6.º, 7.º, 8.º, 9.º, 19.º e 20.º\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879602": {
+   "fragment_id": "37899875",
+   "type": 11,
+   "heading": "Artigo 39.º — Concurso de infracções",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 39.º — Concurso de infracções\n\n1 - Se o mesmo facto constituir, simultaneamente, crime e contra-ordenação, o agente é punido sempre a título de crime.\n\n2 - As sanções aplicadas às contra-ordenações em concurso são sempre cumuladas materialmente.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879603": {
+   "fragment_id": "37899975",
+   "type": 11,
+   "heading": "Artigo 40.º — Punição de negligência e da tentativa",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 40.º — Punição de negligência e da tentativa\n\n1 - A negligência é sempre punida nas contra-ordenações previstas no artigo 38.º\n\n2 - A tentativa é sempre punível nas contra-ordenações previstas nos artigos 37.º e 38.º\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879604": {
+   "fragment_id": "37900075",
+   "type": 11,
+   "heading": "Artigo 41.º — Aplicação das coimas",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 41.º — Aplicação das coimas\n\n1 - A aplicação das coimas previstas na presente lei compete ao presidente da CNPD, sob prévia deliberação da Comissão.\n\n2 - A deliberação da CNPD, depois de homologada pelo presidente, constitui título executivo, no caso de não ser impugnada no prazo legal.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879605": {
+   "fragment_id": "37900175",
+   "type": 11,
+   "heading": "Artigo 42.º — Destino das receitas cobradas",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 42.º — Destino das receitas cobradas\n\nO montante das importâncias cobradas, em resultado da aplicação das coimas, reverte, em partes iguais, para o Estado e para a CNPD.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879606": {
+   "fragment_id": "36311475",
+   "type": 8,
+   "heading": "Secção III — Crimes",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "#### Secção III — Crimes\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879607": {
+   "fragment_id": "37900275",
+   "type": 11,
+   "heading": "Artigo 43.º — Não cumprimento de obrigações relativas a protecção de dados",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 43.º — Não cumprimento de obrigações relativas a protecção de dados\n\n1 - É punido com prisão até um ano ou multa até 120 dias quem intencionalmente:\n\na) Omitir a notificação ou o pedido de autorização a que se referem os artigos 27.º e 28.º;\n\nb) Fornecer falsas informações na notificação ou nos pedidos de autorização para o tratamento de dados pessoais ou neste proceder a modificações não consentidas pelo instrumento de legalização;\n\nc) Desviar ou utilizar dados pessoais, de forma incompatível com a finalidade determinante da recolha ou com o instrumento de legalização;\n\nd) Promover ou efectuar uma interconexão ilegal de dados pessoais;\n\ne) Depois de ultrapassado o prazo que lhes tiver sido fixado pela CNPD para cumprimento das obrigações previstas na presente lei ou em outra legislação de protecção de dados, as não cumprir;\n\nf) Depois de notificado pela CNPD para o não fazer, mantiver o acesso a redes abertas de transmissão de dados a responsáveis pelo tratamento de dados pessoais que não cumpram as disposições da presente lei.\n\n2 - A pena é agravada para o dobro dos seus limites quando se tratar de dados pessoais a que se referem os artigos 7.º e 8.º\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879608": {
+   "fragment_id": "37900375",
+   "type": 11,
+   "heading": "Artigo 44.º — Acesso indevido",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 44.º — Acesso indevido\n\n1 - Quem, sem a devida autorização, por qualquer modo, aceder a dados pessoais cujo acesso lhe está vedado é punido com prisão até um ano ou multa até 120 dias.\n\n2 - A pena é agravada para o dobro dos seus limites quando o acesso:\n\na) For conseguido através de violação de regras técnicas de segurança;\n\nb) Tiver possibilitado ao agente ou a terceiros o conhecimento de dados pessoais;\n\nc) Tiver proporcionado ao agente ou a terceiros benefício ou vantagem patrimonial.\n\n3 - No caso do n.º 1 o procedimento criminal depende de queixa.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879609": {
+   "fragment_id": "37900475",
+   "type": 11,
+   "heading": "Artigo 45.º — Viciação ou destruição de dados pessoais",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 45.º — Viciação ou destruição de dados pessoais\n\n1 - Quem, sem a devida autorização, apagar, destruir, danificar, suprimir ou modificar dados pessoais, tornando-os inutilizáveis ou afectando a sua capacidade de uso, é punido com prisão até dois anos ou multa até 240 dias.\n\n2 - A pena é agravada para o dobro nos seus limites se o dano produzido for particularmente grave.\n\n3 - Se o agente actuar com negligência, a pena é, em ambos os casos, de prisão até um ano ou multa até 120 dias.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879610": {
+   "fragment_id": "75066611",
+   "type": 11,
+   "heading": "Artigo 45.º-A — Inserção de dados falsos",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09",
+    "Aditado pelo/a Artigo 7.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+   ],
+   "markdown": "###### Artigo 45.º-A — Inserção de dados falsos\n\n1 - Quem inserir ou facilitar a inserção de dados pessoais falsos, com a intenção de obter vantagem indevida para si ou para outrem ou para causar prejuízo, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.\n\n2 - A pena é agravada para o dobro se da alteração referida no número anterior resultar efetivo prejuízo para uma pessoa.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09\n\n> Aditado pelo/a Artigo 7.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+  },
+  "123879611": {
+   "fragment_id": "37900575",
+   "type": 11,
+   "heading": "Artigo 46.º — Desobediência qualificada",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 46.º — Desobediência qualificada\n\n1 - Quem, depois de notificado para o efeito, não interromper, cessar ou bloquear o tratamento de dados pessoais é punido com a pena correspondente ao crime de desobediência qualificada.\n\n2 - Na mesma pena incorre quem, depois de notificado:\n\na) Recusar, sem justa causa, a colaboração que concretamente lhe for exigida nos termos do artigo 24.º;\n\nb) Não proceder ao apagamento, destruição total ou parcial de dados pessoais;\n\nc) Não proceder à destruição de dados pessoais, findo o prazo de conservação previsto no artigo 5.º\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879612": {
+   "fragment_id": "37900675",
+   "type": 11,
+   "heading": "Artigo 47.º — Violação do dever de sigilo",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 47.º — Violação do dever de sigilo\n\n1 - Quem, obrigado a sigilo profissional, nos termos da lei, sem justa causa e sem o devido consentimento, revelar ou divulgar no todo ou em parte dados pessoais é punido com prisão até dois anos ou multa até 240 dias.\n\n2 - A pena é agravada de metade dos seus limites se o agente:\n\na) For funcionário público ou equiparado, nos termos da lei penal;\n\nb) For determinado pela intenção de obter qualquer vantagem patrimonial ou outro benefício ilegítimo;\n\nc) Puser em perigo a reputação, a honra e consideração ou a intimidade da vida privada de outrem.\n\n3 - A negligência é punível com prisão até seis meses ou multa até 120 dias.\n\n4 - Fora dos casos previstos no n.º 2, o procedimento criminal depende de queixa.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879613": {
+   "fragment_id": "37900775",
+   "type": 11,
+   "heading": "Artigo 48.º — Punição da tentativa",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 48.º — Punição da tentativa\n\nNos crimes previstos nas disposições anteriores, a tentativa é sempre punível.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879614": {
+   "fragment_id": "37900875",
+   "type": 11,
+   "heading": "Artigo 49.º — Pena acessória",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 49.º — Pena acessória\n\n1 - Conjuntamente com as coimas e penas aplicadas pode, acessoriamente, ser ordenada:\n\na) A proibição temporária ou definitiva do tratamento, o bloqueio, o apagamento ou a destruição total ou parcial dos dados;\n\nb) A publicidade da sentença condenatória;\n\nc) A advertência ou censura públicas do responsável pelo tratamento, nos termos do n.º 4 do artigo 22.º\n\n2 - A publicidade da decisão condenatória faz-se a expensas do condenado, na publicação periódica de maior expansão editada na área da comarca da prática da infracção ou, na sua falta, em publicação periódica da comarca mais próxima, bem como através da afixação de edital em suporte adequado, por período não inferior a 30 dias.\n\n3 - A publicação é feita por extracto de que constem os elementos da infracção e as sanções aplicadas, bem como a identificação do agente.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879615": {
+   "fragment_id": "35209675",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "### Capítulo VII — Disposições finais\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879616": {
+   "fragment_id": "36311575",
+   "type": 11,
+   "heading": "Artigo 50.º — Disposição transitória",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 50.º — Disposição transitória\n\n1 - Os tratamentos de dados existentes em ficheiros manuais à data da entrada em vigor da presente lei devem cumprir o disposto nos artigos 7.º, 8.º, 10.º e 11.º no prazo de cinco anos.\n\n2 - Em qualquer caso, o titular dos dados pode obter, a seu pedido e, nomeadamente, aquando do exercício do direito de acesso, a rectificação, o apagamento ou o bloqueio dos dados incompletos, inexactos ou conservados de modo incompatível com os fins legítimos prosseguidos pelo responsável pelo tratamento.\n\n3 - A CNPD pode autorizar que os dados existentes em ficheiros manuais e conservados unicamente com finalidades de investigação histórica não tenham que cumprir os artigos 7.º, 8.º e 9.º, desde que não sejam em nenhum caso reutilizados para finalidade diferente.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879617": {
+   "fragment_id": "36311675",
+   "type": 11,
+   "heading": "Artigo 51.º — Disposição revogatória",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 51.º — Disposição revogatória\n\nSão revogadas as Leis n.os 10/91, de 29 de Abril, e 28/94, de 29 de Agosto.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879618": {
+   "fragment_id": "36311775",
+   "type": 11,
+   "heading": "Artigo 52.º — Entrada em vigor",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "###### Artigo 52.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  },
+  "123879619": {
+   "fragment_id": "35209775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+   ],
+   "markdown": "Aprovada em 24 de Setembro de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 7 de Outubro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 14 de Outubro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 66.º do/a [Lei n.º 58/2019 - Diário da República n.º 151/2019, Série I de 2019-08-08](https://diariodarepublica.pt/dr/detalhe/lei/58-2019-123815982), em vigor a partir de 2019-08-09"
+  }
+ }
+}

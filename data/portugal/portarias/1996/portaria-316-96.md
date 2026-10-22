@@ -1,0 +1,296 @@
+---
+schema_version: '1.0'
+id: pt:dre:408504:por
+title: Portaria n.º 316/96
+short_title: null
+summary: Aprova o Regulamento de Apoio Financeiro à Produção Cinematográfica de Curtas Metragens de Ficção. Revoga o Despacho
+  Normativo n.º 188/91, de 4 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 316/96
+official_date: null
+publication_date: '1996-07-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 174/1996, Série I-B de 1996-07-29
+  number: '174'
+  series: I
+  supplement: null
+  pages: 2160 - 2163
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/07/174b00/21602163.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/316/1996/07/29/p/dre/pt/html
+  oj: null
+  dre: '408504'
+  dre_path: /dr/detalhe/portaria/316-1996-408504
+  internal: pt:dre:408504:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/316-1996-408504
+  metadata_url: https://data.dre.pt/eli/port/316/1996/07/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/316-1996-408504
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-10-04T00:00:00Z'
+integrity:
+  source_sha256: 9d6f6625fba8630dfca6d166e4e8cbf327e0ada0a87aa92a26b820d16871ac86
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-316-408504.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Curta Metragem
+- Concurso
+- Produção Cinematográfica
+- Instituto Português da ARTE Cinematográfica e Audiovisual
+- Regulamento
+- Cinema
+- Indústria Cinematográfica
+- Subsídio
+- Subsídio não Reembolsável
+relationships:
+- type: amended_by
+  target: pt:dre:621143:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/350/1993/10/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/188/1991/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/188/1991/09/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/86/1996/03/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/86/1996/03/18/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 316/96
+
+de 29 de Julho
+
+Em paralelo com os regulamentos agora aprovados para os demais sistemas de apoio financeiro à actividade cinematográfica, o presente diploma tem por objectivo dar corpo a algumas das novas linhas de orientação do actual Governo no que se refere à produção de filmes de ficção de curta metragem. Além de se concentrar os apoios na modalidade de subsídio a fundo perdido e de se abrir a possibilidade de candidatura aos realizadores dos filmes, houve especial cuidado em definir os critérios que devem presidir à apreciação dos projectos, que vão desde os méritos intrínsecos da obra até à sua credibilidade financeira, passando pelo perfil curricular do produtor e do realizador. Todos estes aspectos serão objecto de deliberação de um júri independente, embora a responsabilidade final da decisão, como sucede com os outros sistemas de apoio, pertença ao Instituto Português da Arte Cinematográfica e Audiovisual e ao Ministro da Cultura.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 6.º do [Decreto-Lei n.º 350/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1993-645305), de 7 de Outubro, manda o Governo, pelo Ministro da Cultura, o seguinte:
+
+1.º É aprovado o Regulamento de Apoio Financeiro à Produção Cinematográfica de Curtas Metragens de Ficção, publicado em anexo à presente portaria.
+
+2.º É revogado o [Despacho Normativo n.º 188/91](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/188-1991-305061), de 4 de Setembro.
+
+Ministério da Cultura.
+
+**Assinada em 17 de Junho de 1996.**
+
+**O Ministro da Cultura, Manuel Maria Ferreira Carrilho.**
+
+REGULAMENTO DE APOIO FINANCEIRO À PRODUÇÃO CINEMATOGRÁFICA DE CURTAS METRAGENS DE FICÇÃO
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento abrange os apoios financeiros à produção cinematográfica de filmes de ficção de curta metragem, em qualquer suporte, a conceder pelo Instituto Português da Arte Cinematográfica e Audiovisual (IPACA ou Instituto).
+
+###### Artigo 2.º — Modalidade de apoio financeiro
+
+O financiamento a conceder pelo IPACA reveste unicamente a forma de subsídio a fundo perdido.
+
+###### Artigo 3.º — Limites do apoio financeiro
+
+1 - O apoio financeiro a conceder ao abrigo do presente Regulamento é fixado anualmente em quantia global por despacho do Ministro da Cultura.
+
+2 - Serão igualmente fixados por despacho do Ministro da Cultura os limites máximos do apoio a conceder a cada produção, tanto em valor absoluto como em percentagem do respectivo custo total.
+
+###### Artigo 4.º — Forma de concessão do apoio directo
+
+1 - Os apoios financeiros previstos no presente Regulamento são atribuídos mediante concurso.
+
+2 - Compete ao Ministro da Cultura determinar o número de concursos a realizar anualmente.
+
+###### Artigo 5.º — Beneficiários
+
+1 - Podem candidatar-se ao apoio financeiro a conceder nos termos do presente Regulamento os produtores das obras cinematográficas referidas no artigo 1.º que se encontrem devidamente inscritos no IPACA, assim como os respectivos realizadores.
+
+2 - Quando se tratar de uma co-produção, o apoio financeiro será atribuído ao produtor ou produtores nacionais da obra cinematográfica.
+
+3 - As obras apresentadas deverão obedecer aos requisitos enunciados no artigo 13.º do [Decreto-Lei n.º 350/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1993-645305), de 7 de Outubro.
+
+###### Artigo 6.º — Publicitação do concurso
+
+1 - Compete ao IPACA anunciar a abertura do concurso, por aviso afixado na sua sede e publicado, simultaneamente, em dois jornais de grande expansão nacional.
+
+2 - O aviso fará obrigatoriamente menção dos seguintes valores e do despacho que os aprovou:
+
+a) Montante global dos apoios a conceder;
+
+b) Percentagem mínima de financiamento exterior a que se refere o artigo 3.º, n.º 2;
+
+c) Limites a que se refere o artigo 3.º, n.º 2.
+
+3 - O aviso estabelecerá igualmente o prazo de apresentação das candidaturas, que não poderá ser inferior a 20 dias.
+
+###### Artigo 7.º — Júri
+
+1 - As candidaturas são apreciadas por um júri de selecção constituído por três ou cinco personalidades de reconhecida competência, nomeadas pelo Ministro da Cultura, sob proposta do IPACA.
+
+2 - No despacho de nomeação é igualmente designado o presidente do júri.
+
+3 - A composição do júri e o despacho de nomeação são igualmente divulgados no aviso de abertura do concurso.
+
+4 - Um dos vice-presidentes do IPACA, designado pelo seu presidente, estará presente nas reuniões do júri sem direito a voto, cabendo-lhe assegurar todo o apoio técnico e administrativo que o júri solicitar do Instituto.
+
+###### Artigo 8.º — Apresentação das candidaturas
+
+1 - O pedido de concessão de financiamento à produção cinematográfica deve ser apresentado no IPACA, mediante requerimento, do qual constem:
+
+a) A identificação completa e o domicílio ou sede dos requerentes;
+
+b) Número de telefone ou telefax;
+
+c) Título do projecto concorrente;
+
+d) O montante do apoio financeiro pretendido.
+
+2 - O requerimento a que se refere o número anterior deve ser instruído com os seguintes documentos:
+
+a) Certidão do registo comercial da entidade ou entidades produtoras e, relativamente aos produtores estrangeiros, documento equiparável que identifique os seus titulares e administradores;
+
+b) Currículo do realizador, com menção dos prémios e distinções que tenha recebido e dos festivais em que obras suas tenham participado;
+
+c) Currículo do produtor ou co-produtores;
+
+d) Argumento cinematográfico e demais elementos que o produtor considere relevantes para a apreciação do projecto;
+
+e) Sinopse;
+
+f) Formação e suporte;
+
+g) Duração prevista;
+
+h) Locais de filmagem e décors;
+
+i) Datas previstas de rodagem e de entrega da cópia síncrona;
+
+j) Autorizações do realizador, do argumentista e do autor de obra preexistente, prestadas nos termos do Código do Direito de Autor e dos Direitos Conexos;
+
+l) Registo do argumento cinematográfico na Direcção-Geral dos Espectáculos;
+
+m) Previsão orçamental, segundo modelo do IPACA;
+
+n) Previsão justificada da montagem financeira do projecto, com indicação dos financiamentos exteriores garantidos, se os houver;
+
+o) Declarações comprovativas da inexistência de obrigações por cumprir perante a administração fiscal e a segurança social.
+
+3 - Quando o pedido for apresentado por um realizador, é dispensada a apresentação dos documentos referidos nas alíneas a), c) e o).
+
+###### Artigo 9.º — Admissão das candidaturas
+
+1 - No prazo de 10 dias a contar do termo do prazo para a apresentação das candidaturas, o IPACA verifica se os pedidos se encontram instruídos com as menções e os documentos referidos no artigo anterior e notifica os candidatos para, no prazo de cinco dias, suprirem eventuais omissões e deficiências.
+
+2 - Os pedidos que não forem completados ou corrigidos nos termos da parte final do número anterior serão liminarmente rejeitados pelo IPACA.
+
+3 - Serão igualmente rejeitadas as candidaturas dos produtores que não tenham cumprido obrigações anteriores para com o IPACA.
+
+4 - Da rejeição liminar cabe reclamação, no prazo de cinco dias, para a direcção do IPACA, que decide definitivamente em idêntico prazo.
+
+5 - A rejeição liminar e a decisão da reclamação são notificadas aos interessados, juntamente com os respectivos fundamentos, nos termos do Código do Procedimento Administrativo.
+
+6 - Decididas as reclamações ou terminados os prazos para a sua apresentação, o IPACA torna pública a lista das candidaturas admitidas mediante aviso comunicado aos concorrentes e afixado na sua sede.
+
+###### Artigo 10.º — Deliberação do júri
+
+1 - O júri aprecia os projectos e delibera sobre a sua classificação no prazo de 15 dias após a afixação do aviso de admissão das candidaturas.
+
+2 - A selecção dos projectos a apoiar é feita com base nos seguintes critérios:
+
+a) Qualidade artística e cultural do argumento cinematográfico;
+
+b) Potencialidades do projecto do ponto de vista da sua capacidade de inovação e de comunicação;
+
+c) Importância da componente nacional da obra, do ponto de vista técnico, cultural e artístico;
+
+d) Currículo do realizador em obras anteriores de qualquer natureza, incluindo o número e qualidade dos prémios ou distinções obtidos e os festivais, nacionais ou internacionais, em que tenham participado obras suas;
+
+e) Consistência da previsão orçamental;
+
+f) Credibilidade e importância dos financiamentos exteriores, se os houver;
+
+g) Currículo do produtor ou produtores da obra.
+
+3 - O júri, sempre que o julgue conveniente, pode notificar os concorrentes para a prestação de esclarecimentos complementares, com vista à apreciação do seu projecto, bem como solicitar ao IPACA o apoio técnico de que necessitar.
+
+4 - A deliberação do júri deve conter uma proposta dos apoios financeiros a atribuir, com base numa lista de candidaturas ordenada e fundamentada de acordo com os critérios enunciados no n.º 2.
+
+5 - Na deliberação a que se refere o número anterior deverão igualmente ser justificadas as diferenças existentes entre os montantes solicitados e os apoios propostos, se as houver.
+
+###### Artigo 11.º — Decisão final
+
+1 - Depois de homologada pelo IPACA, no prazo de 10 dias a contar da deliberação referida no artigo anterior, a proposta do júri será submetida à apreciação do Ministro da Cultura, que em idêntico prazo decidirá definitivamente sobre a atribuição dos apoios financeiros.
+
+2 - O IPACA torna pública a lista dos apoios concedidos mediante aviso comunicado aos concorrentes e afixado na sua sede.
+
+3 - Se o projecto tiver sido apresentado por um realizador, tem este o prazo de 30 dias, a contar da comunicação a que se refere o número anterior, para indicar ao IPACA o produtor ou produtores do filme, devidamente inscritos no Instituto, sem o que a atribuição do apoio financeiro ficará sem efeito e se procederá nos termos do artigo 13.º, n.º 2.
+
+4 - Juntamente com a indicação do produtor ou produtores do filme devem ser apresentados os elementos referidos no n.º 3 do artigo 8.º
+
+###### Artigo 12.º — Acordos de apoio financeiro
+
+1 - Comunicada a decisão referida no artigo anterior, o IPACA celebra com os produtores beneficiários um acordo de apoio financeiro e um acordo de desenvolvimento do apoio financeiro, nos termos que se encontram previstos nos artigos 11.º a 15.º do regulamento aprovado pela [Portaria n.º 86/96](https://diariodarepublica.pt/dr/detalhe/portaria/86-1996-534039), de 18 de Março, com as adaptações constantes nos números seguintes.
+
+2 - O prazo máximo a que se refere o n.º 3 do artigo 11.º é de seis meses.
+
+3 - A primeira prestação a que se refere o n.º 2 do artigo 15.º terá o valor de 10% do montante total do apoio concedido pelo IPACA e será entregue ao produtor no momento da celebração do acordo de apoio financeiro.
+
+4 - A última prestação a que se refere o n.º 3 do artigo 15.º não está vinculada ao fim aí previsto e será paga após a entrega dos elementos previstos nas alíneas a), b) e c) do mesmo número e do adequado material promocional (cartazes, dépliants e fotografias da rodagem). Quando se tratar de projectos em vídeo, o material a entregar deverá ter qualidade de emissão (broadcast).
+
+###### Artigo 13.º — Desistência
+
+1 - Os beneficiários podem desistir do apoio concedido até ao momento da celebração do acordo de apoio financeiro referido no artigo 12.º
+
+2 - Em caso de desistência, o apoio financeiro reverte a favor do candidato ordenado imediatamente a seguir na lista final aprovada.
+
+###### Artigo 14.º — Sanções
+
+A falta de cumprimento das obrigações assumidas pelo beneficiário e a prestação de falsas declarações são punidas, independentemente de outros procedimentos aplicáveis, com as sanções previstas nos artigos 16.º e 17.º do regulamento aprovado pela [Portaria n.º 86/96](https://diariodarepublica.pt/dr/detalhe/portaria/86-1996-534039), de 18 de Março.

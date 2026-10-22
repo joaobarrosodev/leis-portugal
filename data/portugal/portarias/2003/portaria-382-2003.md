@@ -1,0 +1,190 @@
+---
+schema_version: '1.0'
+id: pt:dre:532434:por
+title: Portaria n.º 382/2003
+short_title: null
+summary: Requisita oficiosamente o equipamento desportivo denominado «Campo de Futebol de Chã das Padeiras», sito no campo
+  Emílio Infante da Câmara, em Santarém
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 382/2003
+official_date: null
+publication_date: '2003-05-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2003, Série I-B de 2003-05-14
+  number: '111'
+  series: I
+  supplement: null
+  pages: 3069 - 3071
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/05/111b00/30693071.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/382/2003/05/14/p/dre/pt/html
+  oj: null
+  dre: '532434'
+  dre_path: /dr/detalhe/portaria/382-2003-532434
+  internal: pt:dre:532434:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/382-2003-532434
+  metadata_url: https://data.dre.pt/eli/port/382/2003/05/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/382-2003-532434
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-05-14T00:00:00Z'
+integrity:
+  source_sha256: 5fad62d769c175946ecfbb71d8053fe1feee9ab6f2a60315b044a397ab10030d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-382-532434.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Equipamento Desportivo
+- Indemnização
+- Câmara Municipal
+- Requisição de Infra-estruturas Desportivas
+- Santarém
+- Desporto
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/111/1995/10/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/111/1995/10/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/123/1997/07/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/123/1997/07/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/38/2003/03/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/38/2003/03/13/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 382/2003
+
+de 14 de Maio
+
+Nos termos do artigo 79.º da Constituição da República Portuguesa, todos têm direito à cultura física e ao desporto, incumbindo ao Estado, em colaboração com as associações e colectividades desportivas, promover, estimular, orientar e apoiar a prática do desporto.
+
+Dispõe a alínea g) do artigo 199.º da mesma Constituição da República que «compete ao Governo, no exercício de funções administrativas [...] praticar todos os actos e tomar todas as providências necessárias à promoção do desenvolvimento económico-social e à satisfação das necessidades colectivas».
+
+Tem-se presente a [Lei n.º 1/90](https://diariodarepublica.pt/dr/detalhe/lei/1-1990-333524), de 13 de Janeiro, que regula em toda a matéria relevante quanto ao desporto e, também, quanto ao caso concreto.
+
+Paralelamente, conforme estipula a [Lei n.º 159/99](https://diariodarepublica.pt/dr/detalhe/lei/159-1999-570562), de 14 de Setembro, os municípios dispõem de atribuições nos domínios dos tempos livres e desporto, sendo da competência dos órgãos municipais apoiar actividades desportivas e recreativas de interesse municipal, bem como apoiar a construção e conservação de equipamentos desportivos e recreativos de âmbito local.
+
+O município de Santarém é uma pessoa colectiva pública territorial, dotada de órgãos representativos que visam a prossecução de interesses próprios das populações respectivas.
+
+O Campo de Futebol de Chã das Padeiras, propriedade de Berta de Jesus dos Santos Vinagre e marido, Francisco Nunes Galinha, é o único recinto desportivo permanente existente na cidade e capital do distrito de Santarém em condições legais e regulamentares adequadas à prática de futebol, nele se disputando o Campeonato Distrital de Futebol da 1.ª Divisão e os Campeonatos Distritais de Futebol de Escolas, de Iniciados, de Juvenis e de Juniores, bem como uma série de acções de formação, torneios e outros campeonatos de natureza distrital, nacional e, mesmo, internacional, todos na modalidade de futebol.
+
+O Plano Director Municipal de Santarém, ratificado pela [Resolução do Conselho de Ministros n.º 111/95](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/111-1995-668164), de 14 de Setembro, com as alterações previstas na [Resolução do Conselho de Ministros n.º 123/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/123-1997-144635), de 10 de Julho, prevê e destina o espaço em causa a equipamento desportivo.
+
+Este equipamento desportivo foi utilizado, ao longo dos últimos anos, pela União Desportiva de Santarém, ao abrigo de contrato de arrendamento de 4 de Janeiro de 1954, sendo que, de acordo com sentença do Tribunal da Comarca de Santarém de 24 de Abril de 2000, confirmada por Acórdão do Tribunal da Relação de Évora de 29 de Setembro de 2001, foi declarada a resolução desse contrato e consequente despejo.
+
+O município de Santarém desenvolveu, oportunamente, durante anos, contactos e diligências junto dos proprietários tendentes à aquisição da parcela de terreno ocupada pelo Campo de Futebol, cuja área total é actualmente de 26705,56 m2.
+
+O Campo de Futebol de Chã das Padeiras passou a ser utilizado ao abrigo de um contrato de comodato outorgado em 24 de Janeiro de 2002, entre a Câmara Municipal de Santarém e os proprietários, e cujo termo ocorreu em 31 de Julho de 2002.
+
+Presentemente, o equipamento está a ser utilizado e gerido pela Câmara Municipal de Santarém, por força do mesmo contrato de comodato e sujeito ao pagamento da cláusula penal aí prevista de (euro) 250 por dia.
+
+Os proprietários declaram expressamente a sua vontade de não renovar aquele contrato.
+
+Donde que, a requisição, verificados os seus pressupostos, é a única medida possível, no imediato, para salvaguardar o interesse público e nacional subjacente.
+
+Assim, em 18 de Outubro de 2001, o executivo camarário deliberou, por unanimidade, no quadro das suas competências, promover a requisição do Campo de Futebol de Chã das Padeiras.
+
+Nos vários meses já decorridos, procurou reiteradamente a administração central chegar a um acordo, designadamente no plano desportivo, com os proprietários do Campo, que, salvaguardando devidamente o interesse público e nacional pertinente, evitasse a necessidade de recurso ao instituto da requisição ou ao da expropriação, nos termos próprios de cada legislação respectivamente aplicável.
+
+Tais diligências, desenvolvidas pelo Instituto Nacional do Desporto, frustraram-se e não atingiram solução positiva e favorável, em tempo útil, quanto à matéria sub judice.
+
+Há clara e inequívoca utilidade pública e, nomeada e especificamente, manifesto interesse público e nacional na requisição.
+
+Esta verificação resulta tanto da implícita qualificação do interesse em que não se inviabilize o campeonato distrital de uma modalidade desportiva publicamente reconhecida e protegida como, por maioria de razão, do prestígio, público e nacional, associado a uma competição desportiva com o relevo e a projecção que o futebol tem em todo o País.
+
+O município de Santarém, entidade a favor da qual é feita a requisição, é também, ele próprio, como já referido, pessoa colectiva pública territorial que visa a prossecução de interesses próprios das populações respectivas, nos termos definidos no n.º 2 do artigo 235.º da Constituição.
+
+Verifica-se manifesta urgência.
+
+A indemnização a atribuir aos proprietários pela requisição do equipamento e infra-estruturas em apreço está assegurada, nomeadamente nos termos da proposta fundamentada do Instituto Nacional do Desporto e para os efeitos do n.º 4 do artigo 5.º do [Decreto-Lei n.º 153-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-a-1990-566830), de 16 de Maio, e não tendo podido haver, também aqui, acordo bilateral.
+
+Os legítimos direitos dos proprietários estão justa, escrupulosa e devidamente acautelados nos termos da Constituição e da lei.
+
+Assim:
+
+Procedendo a [Resolução do Conselho de Ministros n.º 38/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/38-2003-214956), de 13 de Março;
+
+Nos termos do n.º 1 do artigo 1.º, do n.º 1 do artigo 2.º e dos n.os 2 e 3 do artigo 3.º do [Decreto-Lei n.º 153-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-a-1990-566830), de 16 de Maio:
+
+Manda o Governo, pelo Secretário de Estado da Juventude e Desportos, o seguinte:
+
+1.º - 1 - É requisitado oficiosamente, nos termos e para os efeitos do n.º 8 do artigo 36.º da [Lei n.º 1/90](https://diariodarepublica.pt/dr/detalhe/lei/1-1990-333524), de 13 de Janeiro, e do [Decreto-Lei n.º 153-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-a-1990-566830), de 16 de Maio, o equipamento desportivo denominado «Campo de Futebol de Chã das Padeiras», sito no Campo Emílio Infante da Câmara, em Santarém, propriedade de Berta de Jesus dos Santos Vinagre e marido, Francisco Nunes Galinha, residentes na Quinta de Santa Cruz, Fontainhas, 2000 Santarém, nele se incluindo o campo relvado e terrenos imediatamente adjacentes, bancadas e respectivas cadeiras, balneários, arrecadações e torres de iluminação, assim como todas as suas restantes áreas desportivas e os edifícios que lhes são inerentes, e ainda os bens móveis que nele se encontrem e que a este pertençam de modo indispensável ao respectivo funcionamento.
+
+2 - A parcela de terreno sob que incide a requisição tem a área total de 26705,56 m2 e pertence ao prédio rústico sito no Pingo, em Santarém, inscrito na matriz cadastral rústica da freguesia de Marvila sob o n.º 5, secção R, com a área total de 79480 m2.
+
+2.º A requisição dura pelo período de 12 meses, contados a partir da data de publicação da presente portaria.
+
+3.º Nos termos dos n.os 2, 3 e 4 do artigo 5.º do [Decreto-Lei n.º 153-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-a-1990-566830), de 16 de Maio, a indemnização é fixada em (euro) 3780, sendo paga em 12 prestações mensais e sucessivas de (euro) 315 cada, através de depósito bancário na Caixa Geral de Depósitos à ordem de Berta de Jesus dos Santos Vinagre e marido, Francisco Nunes Galinha, a cargo da Câmara Municipal de Santarém, conforme o disposto na alínea a) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 153-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-a-1990-566830), de 16 de Maio.
+
+4.º - 1 - Durante a vigência da requisição, o uso e a inerente administração do Campo de Futebol de Chã das Padeiras são integralmente remetidos, nos termos e para os efeitos do n.º 1 do artigo 2.º e do artigo 6.º do [Decreto-Lei n.º 153-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-a-1990-566830), de 16 de Maio, à Câmara Municipal de Santarém.
+
+2 - A Câmara Municipal de Santarém deve, no mesmo período, documentar todos os actos de gestão relativos ao Campo de Futebol de Chã das Padeiras e manter, quanto à mesma, escrita autónoma regular.
+
+3 - A Câmara Municipal de Santarém, suportando os respectivos custos, deve providenciar à conveniente guarda dos bens móveis incluídos no n.º 1 do n.º 1.º da presente portaria.
+
+5.º Fica a Câmara Municipal de Santarém mandatada para, no referido período, autorizar a realização ou organizar todas as provas que se incluam na respectiva área de jurisdição e que devam realizar-se no Campo de Futebol de Chã das Padeiras, para além das referidas no n.º 8.º da presente portaria.
+
+6.º No termo da requisição, as contas relativas à administração do Campo de Futebol de Chã das Padeiras no período em que vigorou a requisição são submetidas ao Instituto Nacional do Desporto.
+
+7.º Na vigência da requisição, a contratação de publicidade no Campo de Futebol de Chã das Padeiras directamente conexa com a realização de eventos desportivos é da responsabilidade da Câmara Municipal de Santarém.
+
+8.º Durante a vigência da requisição, são respeitados todos os compromissos contraídos para com terceiros pela União Desportiva de Santarém em matéria de provas desportivas a realizar dentro do Campo de Futebol.
+
+9.º Fica a Câmara Municipal de Santarém autorizada, no período da requisição, a realizar no Campo de Futebol de Chã das Padeiras todas as obras de adaptação e beneficiação necessárias a adequar o referido recinto desportivo à realização das provas que se incluem na respectiva área de competência.
+
+10.º - 1 - Nos termos do n.º 2 do artigo 7.º do [Decreto-Lei n.º 153-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-a-1990-566830), de 16 de Maio, o Campo de Futebol de Chã das Padeiras entra na posse da Câmara Municipal de Santarém na data de publicação da presente portaria, devendo lavrar-se o competente auto na presença, designadamente, de representante credenciado do Instituto Nacional do Desporto.
+
+2 - A posse referida no número anterior cessa com o termo da requisição, devendo lavrar-se o respectivo auto.
+
+**O Secretário de Estado da Juventude e Desportos, Hermínio José Loureiro Gonçalves, em 7 de Abril de 2003.**

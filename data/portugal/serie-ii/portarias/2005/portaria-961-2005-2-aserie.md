@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:1895232:por
+title: Portaria n.º 961/2005(2.ªsérie)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública, do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+  e da Agricultura, do Desenvolvimento Rural e das Pescas.
+proposing_entity: null
+official_number: 961/2005(2.ªsérie)
+official_date: null
+publication_date: '2005-09-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 183/2005, Série II de 2005-09-22
+  number: '183'
+  series: II
+  supplement: null
+  pages: 13716 - 13716
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/09/183000000/1371613716.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1895232'
+  dre_path: /dr/detalhe/portaria/961-2005-1895232
+  internal: pt:dre:1895232:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/961-2005-1895232
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/961-2005-1895232
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-09-22T00:00:00Z'
+integrity:
+  source_sha256: b7be722d31c7e9acf7c76b25ad4c50ed0edba763f1531a8023e99dd23fd8a1af
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-961-1895232.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 961/2005(2.ªsérie)
+
+Portaria n.º 961/2005 (2.ª série). - O [Decreto-Lei n.º 59/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2003-232364), de 1 de Abril, que estabelece as normas para a manutenção e o bem-estar dos animais da fauna selvagem em parques zoológicos, fixa as condições a que estes devem obedecer, sem as quais não podem ser licenciados.
+
+Tendo como objectivo um controlo rigoroso daquelas condições, aquele mesmo diploma determina que os parques zoológicos devem estar licenciados e registados na Direcção-Geral de Veterinária, mediante o pagamento de uma taxa pelo licenciamento das estruturas em questão.
+
+Como forma de garantir a manutenção das condições dos parques zoológicos licenciados, as licenças de funcionamento têm a validade de seis anos, devendo os directores dos parques zoológicos, no prazo de 180 dias antes do termo de validade das licenças referidas, requerer a sua renovação, que está sujeita a processo administrativo em tudo idêntico ao da sua concessão.
+
+O processo de licenciamento e registo na actividade dos parques zoológicos bem como o de renovação da licença de funcionamento obrigam à realização, pelos médicos veterinários municipais, de vistoria às estruturas em questão, para a verificação das condições de manutenção e do bem-estar dos animais nelas alojados ou a alojar, e à emissão do parecer a que se refere a alínea e) do n.º 4 do artigo 5.º do [Decreto-Lei n.º 59/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2003-232364), de 1 de Abril, sendo que tais actos acarretam custos acrescidos para a administração local.
+
+O processo de licenciamento representa também um custo administrativo para a direcção regional de agricultura onde é apresentado o pedido de licenciamento e que procede à apreciação inicial do processo, bem como para a Direcção-Geral de Veterinária e o Instituto da Conservação da Natureza, que, por sua vez, também procedem à apreciação do processo em curso e, todos, à inspecção do local a licenciar, aos registos administrativos e, por fim, à emissão da licença.
+
+Importa, por isso, fixar o valor da referida taxa, nela se incluindo todos os mencionados custos administrativos.
+
+Assim:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças, do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional e da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no n.º 3 do artigo 26.º do [Decreto-Lei n.º 59/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2003-232364), de 1 de Abril, o seguinte:
+
+A taxa devida pela emissão da licença de funcionamento de um parque zoológico e suas renovações é fixada do seguinte modo:
+
+a) Parques com uma colecção com menos de 150 animais ou uma colecção até 1000 peixes e ou invertebrados - Euro 1000;
+
+b) Parques com uma colecção com mais de 150 e menos de 1500 animais ou uma colecção entre 1000 e 5000 peixes e ou invertebrados - Euro 2000;
+
+c) Parques com uma colecção com mais de 1500 animais ou uma colecção com mais de 5000 mil peixes e ou invertebrados - Euro 3000.
+
+5 de Setembro de 2005. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional, Francisco Carlos da Graça Nunes Correia. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas.

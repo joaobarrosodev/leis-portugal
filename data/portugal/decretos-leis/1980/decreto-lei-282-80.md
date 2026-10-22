@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:470806:por
+title: Decreto-Lei n.º 282/80
+short_title: null
+summary: Introduz alterações ao Decreto-Lei n.º 1/75, de 2 de Janeiro (contas de depósito)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 282/80
+official_date: null
+publication_date: '1980-08-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 187/1980, Série I de 1980-08-14
+  number: '187'
+  series: I
+  supplement: null
+  pages: 2192 - 2192
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/08/18700/21922192.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '470806'
+  dre_path: /dr/detalhe/decreto-lei/282-1980-470806
+  internal: pt:dre:470806:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1980-470806
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1980-470806
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-08-14T00:00:00Z'
+integrity:
+  source_sha256: e14c9b6d81f8ea07ded04f2830aca498f34b49ccb02546cb3aaa0b0d730c793b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-282-470806.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 282/80
+
+de 14 de Agosto
+
+O [Decreto-Lei n.º 1/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1975-300811), de 2 de Janeiro, quer na versão original, quer na reformulação parcial que mais tarde lhe foi dada pelo [Decreto-Lei n.º 544/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/544-1977-276620), de 31 de Dezembro, procurou ajustar a capacidade dos bancos de investimento para abrir contas de depósito à evolução do mercado respectivo, por um lado, e, por outro, às novas realidades institucionais, designadamente à obrigatoriedade de constituição de disponibilidades de caixa.
+
+A experiência entretanto recolhida veio demonstrar a oportunidade daquelas medidas, que vieram, de resto, conferir maior equilíbrio entre recursos e aplicações às contas daquelas instituições de crédito.
+
+Facilitada a prática dos depósitos à ordem por parte dos bancos de investimento, tudo parece aconselhar que idêntica evolução se produza nas contas de depósitos a prazo e com pré-aviso, facultando-se assim melhor cobertura das necessidades e preferências do aforrador.
+
+Nestes termos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo único. Os n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 1/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-1975-300811), de 2 de Janeiro, passam a ter a seguinte redacção:
+
+###### Artigo 1.º - 1 - Os bancos de investimento financiarão as suas operações com o respectivo capital social e reservas e, ainda, com recursos provenientes de:
+
+a) Emissão de obrigações a médio e a longo prazo;
+
+b) Depósitos a prazo e com pré-aviso;
+
+c) Fundos obtidos mediante operações efectuadas com o banco emissor, institutos de crédito do Estado, bancos comerciais, estabelecimentos especiais de crédito e, ainda, com institutos de crédito estrangeiros ou internacionais.
+
+2 - Os depósitos a que se refere a alínea b) do número anterior poderão assumir qualquer das formas, modalidades e prazos previstos na lei.
+
+Visto e aprovado em Conselho de Ministros de 23 de Julho de 1980. - Francisco Sá Carneiro.
+
+**Promulgado em 4 de Agosto de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

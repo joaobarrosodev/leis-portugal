@@ -1,0 +1,244 @@
+---
+schema_version: '1.0'
+id: pt:dre:265086:por
+title: Decreto-Lei n.º 137-B/99
+short_title: null
+summary: Altera o Decreto-Lei n.º 349/98, de 11 de Novembro, que estabelece o regime jurídico de concessão de crédito à habitação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 137-B/99
+official_date: null
+publication_date: '1999-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 94/1999, 1º Suplemento, Série I-A de 1999-04-22
+  number: '94'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2160-(5) a 2160-(7)
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/04/094a01/00050007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/137-b/1999/04/22/p/dre/pt/html
+  oj: null
+  dre: '265086'
+  dre_path: /dr/detalhe/decreto-lei/137-b-1999-265086
+  internal: pt:dre:265086:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-b-1999-265086
+  metadata_url: https://data.dre.pt/eli/dec-lei/137-b/1999/04/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-b-1999-265086
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-12-31T00:00:00Z'
+integrity:
+  source_sha256: 95237bd8b35b98cd8cce50ef5dddf007151144219464141634c5839ecd4ea0b3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-137-B-265086.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crédito à Habitação
+- Crédito Bonificado
+- Jovem
+- JURO Bonificado
+- Crédito
+- Política de Crédito
+- Habitação
+relationships:
+- type: amended_by
+  target: pt:dre:632448:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/349/1998/11/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/349/1998/11/11/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 137-B/99
+
+de 22 de Abril
+
+O [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, veio aprovar o regime de concessão de crédito à habitação, construção, realização de obras de conservação ordinária, extraordinária e de beneficiação de habitação própria, secundária ou de arrendamento, nos regimes geral de crédito, crédito bonificado e crédito jovem bonificado.
+
+Com o referido diploma foram introduzidas, designadamente, novas regras no sentido de uma aplicação mais rigorosa dos regimes de crédito bonificado, reequacionando-se também o sistema de concessão de bonificações de forma que o mesmo se adequasse às necessidades de apoio ao acesso à habitação pelos agregados familiares que efectivamente dele carecem.
+
+Assim, importa referir também a previsão de medidas tendentes a flexibilizar a mudança de regime e de instituição de crédito, medidas que vieram a reforçar o quadro concorrencial no sector do crédito bancário, repercutindo-se, em especial, na oferta de condições de concessão de crédito mais favoráveis para os mutuários.
+
+Afigura-se agora necessário prosseguir no sentido do aperfeiçoamento das soluções legais ora vigentes para a concessão de crédito bonificado à habitação, nomeadamente no que respeita às condições de acesso e âmbito dos regimes de crédito bonificado, tendo em atenção a necessidade de, por um lado, contribuir para a redução do endividamento excessivo das famílias e, por outro lado, consolidar mecanismos tendentes a assegurar uma maior transparência no mercado do sector.
+
+Justifica-se ainda proceder à prorrogação do prazo transitório previsto no artigo 35.º do [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318) para a concessão de isenções emolumentares às operações de mudança de regime de crédito e de instituição de crédito, quer isoladamente quer em simultâneo, explicitando-se a referida previsão legal e facultando-se a um maior número de mutuários a possibilidade de renegociação dos seus contratos de empréstimo em ordem a obter condições de crédito mais vantajosas.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 8.º, 11.º, 12.º, 26.º e 31.º do [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, passam a ter a seguinte redacção:
+
+«Artigo 8.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Os empréstimos para aquisição ou construção de fogo previstos no n.º 1 podem abranger, respectivamente, a aquisição ou construção de garagem individual ou ainda de um lugar de parqueamento em garagem colectiva coberta, desde que a garagem ou parqueamento não constituam uma fracção autónoma distinta, mediante condições a regulamentar na portaria a que se refere o n.º 1 do artigo 11.º
+
+5 - O acesso ao regime de crédito bonificado implica para os titulares do empréstimo, sem prejuízo das excepções expressamente previstas no presente diploma:
+
+a) A impossibilidade de contracção de quaisquer outros empréstimos para a mesma finalidade em qualquer outro regime de crédito; e
+
+b) Dar como garantia o imóvel, antes de decorrido o prazo de cinco anos a contar da data da celebração do contrato de empréstimo à aquisição ou construção de habitação em regime de crédito bonificado, para efeitos de empréstimo com finalidade distinta.
+
+###### Artigo 11.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - O acesso ao regime de crédito bonificado depende cumulativamente:
+
+a) De requerimento a apresentar na instituição de crédito, devendo ser instruído com a última nota demonstrativa de liquidação do imposto sobre o rendimento das pessoas singulares, acompanhada da declaração de rendimentos que lhe diga respeito ou, no caso de o mutuário estar dispensado da sua apresentação, de outros elementos oficiais comprovativos emitidos pela respectiva repartição de finanças;
+
+b) De declaração dos interessados, sob compromisso de honra, em como não são titulares de outro empréstimo em qualquer regime de crédito regulado no presente diploma, salvo as excepções neste previstas, bem como em que autorizam as entidades competentes para o acompanhamento, verificação e fiscalização do cumprimento do disposto no presente diploma a acederem às informações necessárias para o efeito.
+
+9 - ...
+
+10 - ...
+
+###### Artigo 12.º — [...]
+
+1 - ...
+
+2 - Em caso de alienação do fogo antes de decorrer o prazo fixado no número anterior, os mutuários, na data da alienação, ficam obrigados a reembolsar a instituição de crédito do montante das bonificações entretanto usufruídas, acrescido de 20%.
+
+3 - A instituição de crédito fará reverter para o Estado o reembolso do montante das bonificações e respectivo acréscimo a que se refere o número anterior.
+
+4 - ...
+
+a) ...
+
+b) ...
+
+5 - Por portaria dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território serão regulamentadas as demais condições que se mostrem necessárias à aplicação do disposto no presente artigo.
+
+###### Artigo 26.º — [...]
+
+1 - ...
+
+2 - ...
+
+###### Artigo 31.º — [...]
+
+1 - Até 31 de Dezembro de 1999, ficam isentos de quaisquer taxas ou emolumentos todos os actos notariais e registrais decorrentes quer da mudança de regime de crédito, quer de instituição de crédito mutuante, quer ainda de mudança simultânea de regime e de instituição de crédito mutuante.
+
+2 - ...»
+
+###### Artigo 2.º
+
+É aditado ao [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, o artigo 26.º-A, com a seguinte redacção:
+
+«Artigo 26.º-A
+
+Acompanhamento, verificação e obrigações de informação
+
+1 - Para efeitos do n.º 1 do artigo anterior, a Direcção-Geral do Tesouro acompanha e verifica o cumprimento pelas instituições de crédito mutuantes das obrigações subjacentes à atribuição de crédito bonificado no âmbito do presente diploma, em articulação com a Direcção-Geral dos Impostos.
+
+2 - As instituições de crédito remeterão às Direcções-Gerais do Tesouro e dos Impostos todos os elementos por estas considerados necessários ao exercício da competência conferida nos termos do número anterior.
+
+3 - A solicitação do Ministro das Finanças, a Inspecção-Geral de Finanças promoverá inspecções regulares e por amostragem para verificação do cumprimento do disposto no presente diploma e respectiva regulamentação
+
+4 - Por despacho normativo dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território será fixado o modelo da informação a prestar pelas instituições de crédito relativamente a cada um dos contratos celebrados.
+
+5 - A Direcção-Geral do Tesouro promove a publicação na 2.ª série do Diário da República de relatórios trimestrais contendo informação estatística sobre as operações de crédito contratadas ao abrigo do presente diploma e respectiva análise detalhada.
+
+6 - As competências conferidas à Direcção-Geral do Tesouro nos termos dos n.os 1 e 2 do presente artigo são exercidas quanto a crédito bonificado concedido nos territórios das Regiões Autónomas dos Açores e da Madeira pelas respectivas entidades pagadoras das bonificações.»
+
+###### Artigo 3.º — Tratamento de dados
+
+O tratamento e interconexão de dados necessários em matéria de acompanhamento, verificação e fiscalização de execução do disposto no [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, serão objecto de diploma específico.
+
+###### Artigo 4.º — Disposições transitórias
+
+1 - Os mutuários em qualquer dos regimes de crédito bonificado contraídos ao abrigo dos Decretos-Leis n.os [328-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-b-1986-148780), de 30 de Setembro, e [349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, ou que para estes tenham transitado, ficam obrigados, até dois meses antes da data do início do próximo período anual do empréstimo, a assinar declaração em como autorizam as entidades competentes para acompanhamento, verificação e fiscalização do cumprimento do disposto nos referidos regimes de crédito a acederem às informações relevantes, para efeitos do necessário à prossecução das respectivas atribuições.
+
+2 - O incumprimento do disposto no número anterior, no prazo aí fixado, determina como consequência a perda das bonificações a que o mutuário teria direito na anuidade ou anuidades seguintes até ao termo da anuidade em que o empréstimo se encontre aquando da apresentação da autorização em falta.
+
+###### Artigo 5.º — Produção de efeitos
+
+1 - O disposto no n.º 5 do artigo 8.º do [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, com a redacção introduzida pelo presente diploma, apenas começa a produzir efeitos decorrido o prazo de 60 dias após a entrada em vigor do presente decreto-lei.
+
+2 - O disposto na alínea b) do n.º 8 do artigo 11.º do [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, na redacção atribuída pelo presente diploma, e o estabelecido nos n.os 1 e 2 do artigo anterior apenas produzem efeitos a partir da data da entrada em vigor do diploma a que se refere o artigo 3.º
+
+3 - O estabelecido no n.º 1 do artigo 31.º do [Decreto-Lei n.º 349/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1998-234318), de 11 de Novembro, na redacção atribuída pelo presente diploma, produz efeitos desde 1 de Abril do ano em curso.
+
+4 - As importâncias liquidadas pelos interessados a título de taxas ou emolumentos pela prática de actos notariais e registrais decorrentes das operações a que alude a disposição mencionada no número anterior, no período compreendido entre 1 de Abril e a data da entrada em vigor do presente diploma, poderão ser objecto de reembolso, devendo para o efeito os interessados proceder à apresentação dos correspondentes documentos comprovativos de liquidação junto da entidade onde as importâncias foram cobradas.
+
+Visto e aprovado em Conselho de Ministros de 25 de Março de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim.
+
+**Promulgado em 16 de Abril de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 21 de Abril de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

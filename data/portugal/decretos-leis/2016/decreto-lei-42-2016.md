@@ -1,0 +1,274 @@
+---
+schema_version: '1.0'
+id: pt:dre:75069303:por
+title: Decreto-Lei n.º 42/2016
+short_title: null
+summary: Altera as normas respeitantes à monitorização dos elementos de qualidade das águas superficiais, das águas subterrâneas
+  e das zonas protegidas relativos ao estado ecológico, procedendo à segunda alteração ao Decreto-Lei n.º 77/2006, de 30 de
+  março, e transpondo a Diretiva 2014/101/UE da Comissão, de 30 de outubro de 2014, que altera a Diretiva 2000/60/CE do Parlamento
+  Europeu e do Conselho, de 23 de outubro de 2000
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ambiente
+proposing_entity: null
+official_number: 42/2016
+official_date: null
+publication_date: '2016-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 146/2016, Série I de 2016-08-01
+  number: '146'
+  series: I
+  supplement: null
+  pages: 2578 - 2581
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/08/14600/0257802581.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/42/2016/08/01/p/dre/pt/html
+  oj: null
+  dre: '75069303'
+  dre_path: /dr/detalhe/decreto-lei/42-2016-75069303
+  internal: pt:dre:75069303:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2016-75069303
+  metadata_url: https://data.dre.pt/eli/dec-lei/42/2016/08/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2016-75069303
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-03-24T00:00:00Z'
+integrity:
+  source_sha256: ed18a334690cb00d830a3207dacfdff5dcfd73d4526fd64621baf8dd0f0c138f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2016/DRE-2016-42-75069303.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ÁGUA Superficial
+- Aproximação das Legislações
+- Controlo de Qualidade
+- Recursos Hídricos
+- Proteção do Ambiente
+- Bacia Hidrográfica
+- Poluição da água
+- Águas Subterrâneas
+relationships:
+- type: amended_by
+  target: pt:dre:106654351:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32000L0060
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/60/oj
+- type: cites
+  target: celex:32014L0101
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/101/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/103/2010/09/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103/2010/09/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/130/2012/06/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/130/2012/06/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/245/2009/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/245/2009/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/60/2012/03/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/60/2012/03/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/77/2006/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/77/2006/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 42/2016
+
+de 1 de agosto
+
+Na monitorização dos parâmetros de qualidade das águas superficiais, das águas subterrâneas e das zonas protegidas relativos ao estado ecológico, prevista no artigo 54.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, alterada pelos [Decretos-Leis n.os 245/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2009-490409), de 22 de setembro, [60/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2012-553447), de 14 de março, e [130/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2012-178512), de 22 de junho, exige-se a garantia da qualidade e a comparabilidade dos métodos utilizados.
+
+Desde a publicação da Diretiva [2000/60/CE](https://data.europa.eu/eli/dir/2000/60/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, designada Diretiva Quadro da Água, transposta pela [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, e pelo [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março, alterado pelo [Decreto-Lei n.º 103/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2010-342131), de 24 de setembro, o Comité Europeu de Normalização (CEN) publicou novas normas, algumas das quais conjuntamente com a Organização Internacional de Normalização (ISO), referentes à recolha biológica de amostras de fitoplâncton, macrófitos e fitobentos, invertebrados bentónicos, peixes e características hidromorfológicas.
+
+O n.º 4 do anexo VI do [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março, de 30 de março, alterado pelo [Decreto-Lei n.º 103/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2010-342131), de 24 de setembro, exige que os métodos utilizados para a monitorização dos parâmetros-tipo respeitem as normas internacionais nele indicadas ou outras normas nacionais ou internacionais equiparáveis que assegurem a obtenção de dados comparáveis e de qualidade científica equivalente. As normas internacionais enumeradas no referido anexo eram as disponíveis na altura da publicação do referido diploma.
+
+Em resultado do processo contínuo de elaboração de novas normas e de atualização das existentes, algumas das normas enumeradas no referido n.º 4 do anexo VI do [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março, alterado pelo [Decreto-Lei n.º 103/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2010-342131), de 24 de setembro, deixaram de ser publicadas pelos organismos que são membros do CEN, devendo, por conseguinte, ser suprimidas.
+
+Por outro lado, as normas EN ISO 8689-1:1999 e EN ISO 8689-2:1999 9, incluídas na lista do n.º 4 do indicado anexo VI do [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março, alterado pelo [Decreto-Lei n.º 103/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2010-342131), de 24 de setembro, diziam respeito à classificação biológica e não à monitorização. Estas normas foram posteriormente tidas em conta na elaboração de protocolos para estabelecer os limites das classes no quadro da estratégia comum de aplicação da diretiva, pelo que vão agora ser suprimidas.
+
+O presente decreto-lei procede assim à transposição da Diretiva [2014/101/UE](https://data.europa.eu/eli/dir/2014/101/oj?locale=pt) da Comissão, de 30 de outubro de 2014, que altera a Diretiva [2000/60/CE](https://data.europa.eu/eli/dir/2000/60/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, alterando o n.º 4 do anexo VI do [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março, alterado pelo [Decreto-Lei n.º 103/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2010-342131), de 24 de setembro, aproveitando-se ainda a oportunidade para lhe conferir uma melhor legibilidade.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à segunda alteração ao [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março, alterado pelo [Decreto-Lei n.º 103/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2010-342131), de 24 de setembro, transpondo para a ordem jurídica interna a Diretiva [2014/101/UE](https://data.europa.eu/eli/dir/2014/101/oj?locale=pt) da Comissão, de 30 de outubro de 2014, que altera a Diretiva [2000/60/CE](https://data.europa.eu/eli/dir/2000/60/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, no que respeita às normas para a monitorização dos elementos de qualidade.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março
+
+O artigo 1.º do [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março, alterado pelo [Decreto-Lei n.º 103/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2010-342131), de 24 de setembro, passa a ter a seguinte redação:
+
+«Artigo 1.º
+
+[...]
+
+O presente decreto-lei transpõe a Diretiva [2014/101/UE](https://data.europa.eu/eli/dir/2014/101/oj?locale=pt) da Comissão, de 30 de outubro de 2014, que alterou a Diretiva [2000/60/CE](https://data.europa.eu/eli/dir/2000/60/oj?locale=pt) do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, que estabelece um quadro de ação comunitária no domínio da política da água, em desenvolvimento do regime fixado na [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, alterada pelos [Decretos-Leis n.os 245/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2009-490409), de 22 de setembro, [60/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2012-553447), de 14 de março, e [130/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2012-178512), de 22 de junho.»
+
+###### Artigo 3.º — Alteração ao anexo VI do [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março
+
+O anexo VI do [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março, alterado pelo [Decreto-Lei n.º 103/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2010-342131), de 24 de setembro, é alterado com a redação constante do anexo ao presente decreto-lei, do qual faz parte integrante.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de junho de 2016. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Carolina Maria Gomes Ferra - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
+
+**Promulgado em 22 de julho de 2016.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 26 de julho de 2016.**
+
+Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.
+
+## ANEXO — (a que se refere o artigo 3.º)
+
+«ANEXO VI
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - Conceção da monitorização de investigação. - Objetivos. - A monitorização de investigação é efetuada:
+
+Quando não se conhecer o motivo de eventuais excessos;
+
+Quando a monitorização de vigilância indicar que é provável que não venham a ser atingidos os objetivos especificados nos artigos 46.º e 48.º da [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, alterada pelos [Decretos-Leis n.os 245/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/245-2009-490409), de 22 de setembro, [60/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2012-553447), de 14 de março, e [130/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2012-178512), de 22 de junho, para uma massa de água, e não tiver ainda sido efetuada a monitorização operacional, a fim de determinar as causas que fazem que uma ou mais massas de água não atinjam os objetivos ambientais; ou
+
+Para avaliar a magnitude e o impacte da poluição acidental;
+
+e origina o estabelecimento de um programa de medidas para o cumprimento dos objetivos ambientais e de medidas específicas necessárias para corrigir os efeitos da poluição acidental.
+
+4.1 - Frequência de monitorização.(1) - Durante o período de monitorização de vigilância aplicam-se, para a monitorização dos parâmetros indicativos dos elementos de qualidade físico-química, as frequências previstas no quadro seguinte, a não ser que os conhecimentos técnicos e o parecer dos peritos justifiquem intervalos maiores. Para os elementos de qualidade biológica ou hidromorfológica, a monitorização é efetuada pelo menos uma vez durante o período de monitorização de vigilância.
+
+Para a monitorização operacional, a frequência de monitorização necessária para cada parâmetro é determinada pelos Estados membros de modo a fornecer dados suficientes para uma avaliação fiável do estado do elemento de qualidade pertinente. A título de orientação, a monitorização deve realizar-se a intervalos não superiores aos indicados no quadro abaixo, a não ser que os conhecimentos técnicos e o parecer dos peritos justifiquem intervalos maiores.
+
+As frequências são escolhidas de modo que se atinja um nível de fiabilidade e precisão aceitável. O plano de gestão de região hidrográfica deve conter estimativas da fiabilidade e precisão alcançadas pelo sistema de monitorização.
+
+São selecionadas frequências de monitorização que tenham em conta a variabilidade dos parâmetros resultante tanto das condições naturais como das condições antropogénicas. Os momentos para a realização da monitorização são selecionados de modo a minimizar o impacte das variações sazonais nos resultados, garantindo assim que estes reflitam as alterações registadas na massa de água, em resultado de pressões antropogénicas. Para atingir este objetivo deve-se, quando necessário, realizar a monitorização suplementar em estações diferentes do mesmo ano.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2016/08/14600/0257802581.pdf))](https://files.diariodarepublica.pt/1s/2016/08/14600/0257802581.pdf)
+
+4.2 - Normas para a monitorização dos elementos de qualidade.(2) - Os métodos utilizados para a monitorização dos parâmetros tipo devem respeitar as normas internacionais a seguir indicadas na medida em que estas abranjam a monitorização, ou quaisquer outras normas nacionais ou internacionais que assegurem a obtenção de dados igualmente comparáveis e de qualidade científica equivalente, devendo sempre ser consideradas as suas versões mais atualizadas.
+
+As normas a utilizar para a monitorização dos elementos de qualidade biológica incluem a combinação de métodos genéricos indicados em 'EN ISO 5667-3:2012 - Water quality - Sampling - Part 3: Preservation and handling of sample', com os métodos específicos indicados nas normas relativas aos seguintes elementos da qualidade biológica:
+
+Normas para a monitorização do fitoplâncton:
+
+EN 15204 - Water quality - Guidance standard on the enumeration of phytoplankton using inverted microscopy (Utermöhl technique);
+
+EN 15972 - Water quality - Guidance on quantitative and qualitative investigations of marine phytoplankton;
+
+ISO 10260 - Water quality - Measurement of biochemical parameters - Spectrometric determination of the chlorophyll-a concentration.
+
+Normas para a monitorização de macrófitos e fitobentos:
+
+EN 15460 - Water quality - Guidance standard for the surveying of macrophytes in lakes;
+
+EN 14184 - Water quality - Guidance for the surveying of aquatic macrophytes in running waters;
+
+EN 15708 - Water quality - Guidance standard for the surveying, sampling and laboratory analysis of phytobenthos in shallow running water;
+
+EN 13946 - Water quality - Guidance for the routine sampling and preparation of benthic diatoms from rivers and lakes;
+
+EN 14407 - Water quality - Guidance for the identification and enumeration of benthic diatom samples from rivers and lakes.
+
+Normas para a monitorização de invertebrados bentónicos:
+
+EN ISO 10870 - Water quality - Guidelines for the selection of sampling methods and devices for benthic macroinvertebrates in fresh waters;
+
+EN 15196 - Water quality - Guidance on sampling and processing of the pupal exuviae of Chironomidae (Order Diptera) for ecological assessment;
+
+EN 16150 - Water quality - Guidance on pro-rata Multi-Habitat sampling of benthic macro-invertebrates from wadeable rivers;
+
+EN ISO 19493 - Water quality - Guidance on marine biological surveys of hard-substrate communities;
+
+EN ISO 16665 - Water quality - Guidelines for quantitative sampling and sample processing of marine soft-bottom macro-fauna.
+
+Normas para a monitorização de peixes:
+
+EN 14962 - Water quality - Guidance on the scope and selection of fish sampling methods;
+
+EN 14011 - Water quality - Sampling of fish with electricity;
+
+EN 15910 - Water quality - Guidance on the estimation of fish abundance with mobile hydroacoustic methods;
+
+EN 14757 - Water quality - Sampling of fish with multi-mesh gillnets.
+
+Normas para a monitorização dos parâmetros hidromorfológicos:
+
+EN 14614 - Water quality - Guidance standard for assessing the hydromorphological features of rivers;
+
+EN 16039 - Water quality - Guidance standard on assessing the hydromorphological features of lakes.
+
+Normas para a monitorização dos parâmetros físico-químicos - Quaisquer normas CEN/ISO pertinentes.
+
+5 - [...]»
+
+(1) O disposto neste ponto 4.1 aplica-se igualmente à monitorização de vigilância e à monitorização operacional.
+
+(2) O disposto neste ponto 4.2 aplica-se igualmente à monitorização de vigilância e à monitorização operacional.

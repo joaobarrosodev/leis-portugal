@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:161887:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/1997-992176427",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/99-1997-161887",
+ "source_lastmod": "2025-12-19",
+ "versions": [
+  {
+   "date": "1997-06-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "992180911"
+   ]
+  },
+  {
+   "date": "1997-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:468793:por",
+     "title": "Declaração de Rectificação n.º 15-O/97",
+     "published": "1997-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/15-o-1997-468793"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "992180911",
+    "992180908"
+   ]
+  }
+ ],
+ "fragments": {
+  "992180911": {
+   "fragment_id": "992176428",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1997-09-30",
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 99/97\n\nAs misericórdias, pela amplitude dos objectivos e pelo carácter universalista, não têm igual em todo o mundo e são bem uma criação do espírito português.\n\nIndissoluvelmente ligadas à vida e história de Portugal, rapidamente se expandiram por todo o País, desempenhando uma importantíssima função social. Por outro lado, através dos Descobrimentos, germinaram e difundiram-se por todos os continentes, cumprindo ainda hoje, com especial expressão nos países de língua portuguesa e nas comunidades portuguesas espalhadas pelo mundo, a sua ímpar acção solidária e fraterna.\n\nA Misericórdia de Lisboa, fundada pela rainha D. Leonor, fará 500 anos em 1998. Neste mesmo ano e nos seguintes muitas outras santas casas comemoram o 5.º centenário da sua fundação.\n\nDado o grande valor da obra desenvolvida por estas instituições, decidiu o Governo associar-se às respectivas comemorações.\n\nAssim:\n\nNos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:\n\n1 - Criar a Comissão para as Comemorações dos 500 Anos das Misericórdias, adiante designada por Comissão, com o objectivo de preparar e organizar as celebrações daquela efeméride, que decorrerão nos anos de 1998, 1999 e 2000.\n\n2 - A Comissão é composta por um representante dos seguintes ministérios e instituições:\n\na) Ministério dos Negócios Estrangeiros;\n\nb) Ministério da Saúde;\n\nc) Ministério da Solidariedade e Segurança Social, que presidirá;\n\nd) Ministério da Cultura;\n\ne) Governo Regional da Região Autónoma dos Açores;\n\nf) Governo Regional da Região Autónoma da Madeira;\n\ng) Confederação Internacional das Misericórdias;\n\nh) União das Misericórdias Portuguesas;\n\ni) Santa Casa da Misericórdia de Lisboa;\n\nj) Academia Portuguesa da História;\n\nl) Associação Nacional de Municípios Portugueses;\n\nm) Conferência Episcopal Portuguesa;\n\nn) Comunidade de Países de Língua Portuguesa;\n\no) Comissão Nacional para as Comemorações dos Descobrimentos Portugueses;\n\np) Comissariado para a Exposição Internacional de Lisboa de 1998 (EXPO 98).\n\n3 - São competências da Comissão:\n\na) Definir as linhas gerais para as comemorações;\n\nb) Apreciar e aprovar os planos de actividades e os relatórios anuais elaborados pelo comité executivo e fiscalizar a sua execução;\n\nc) Apreciar e aprovar as propostas de orçamento e as contas de gerência elaboradas pelo comité executivo;\n\nd) Pronunciar-se sobre todos os assuntos que lhe sejam submetidos.\n\n4 - A Comissão reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.\n\n5 - Na sua primeira reunião, que terá lugar no prazo máximo de 60 dias a contar da entrada em vigor da presente resolução, a Comissão definirá as linhas gerais das comemorações, tendo especialmente em conta:\n\na) A diversidade da obra realizada, com particular incidência nos campos social, cultural e da saúde;\n\nb) A ligação aos Descobrimentos portugueses, que espalharam a ideia e as realizações pelo mundo;\n\nc) A portugalidade bem expressa na existência de misericórdias actuantes onde vivem ou permaneceram portugueses.\n\n6 - Junto da Comissão funciona o comité executivo, coordenado pelo presidente da Comissão e integrado pelos membros referidos nas alíneas b), d), h) e i) do n.º 2.\n\n7 - São competências do comité executivo:\n\na) Elaborar e submeter à apreciação da Comissão os planos de actividades anuais de acordo com as linhas gerais para as comemorações;\n\nb) Elaborar e submeter à apreciação da Comissão as propostas de orçamento e as contas de gerência;\n\nc) Promover a execução dos planos de actividades e demais deliberações aprovadas pela Comissão;\n\nd) Elaborar e submeter à apreciação da Comissão os relatórios anuais de actividades.\n\n8 - O comité executivo reúne sempre que convocado pelo coordenador, por sua iniciativa ou a solicitação de qualquer dos seus membros.\n\n9 - O comité executivo elaborará as propostas de orçamento por forma que as despesas a cargo dos ministérios representados na Comissão sejam cobertas por verbas inscritas no Orçamento do Estado para aqueles ministérios, sem encargo adicional para o Orçamento do Estado.\n\n10 - Na dependência do comité executivo podem ser criadas equipas de projecto para a execução de programas aprovados no âmbito dos planos de actividades.\n\n11 - O apoio técnico e administrativo à Comissão e ao comité executivo é prestado pelos serviços dos ministérios neles representados.\n\n12 - Os membros da Comissão e do comité executivo exercem essas funções a título gracioso, sem prejuízo do reembolso das despesas de deslocação, transporte e representação e efectuadas no desempenho das funções que lhes forem cometidas."
+  },
+  "992180908": {
+   "fragment_id": "992176429",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 8 de Maio de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

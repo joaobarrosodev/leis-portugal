@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:680442:por
+title: Decreto n.º 45494
+short_title: null
+summary: Abre um crédito no Ministério das Finanças da quantia de 157500000$00, devendo a mesma importância constituir o artigo
+  300.º-C, capítulo 21.º, do orçamento em vigor no mesmo Ministério
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '45494'
+official_date: null
+publication_date: '1963-12-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 305/1963, Série I de 1963-12-30
+  number: '305'
+  series: I
+  supplement: null
+  pages: 2174 - 2175
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/12/30500/21742175.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '680442'
+  dre_path: /dr/detalhe/decreto/45494-1963-680442
+  internal: pt:dre:680442:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45494-1963-680442
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45494-1963-680442
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1963-12-30T00:00:00Z'
+integrity:
+  source_sha256: 9c71911d386d61220f8e311642bce532894ca166d93ebf2ca1fcdab2e82d1d5f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-45494-680442.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45494
+
+Com fundamento no artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, mediante proposta aprovada pelo Ministro das Finanças, nos termos do mencionado artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659);
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º É aberto no Ministério das Finanças, a favor do mesmo Ministério, um crédito especial da quantia de 157500000$00, devendo a mesma importância constituir o artigo 300.º-C, do capítulo 21.º, do orçamento em vigor no aludido Ministério, sob a rubrica »Participação no capital do Banco de Fomento Nacional, nos termos da alínea b) do artigo 6.º do [Decreto-Lei n.º 41957](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41957-1958-339997), de 13 de Novembro de 1958, e de conformidade com os estatutos do referido Banco, publicados no Diário do Governo, 3.ª série, de 12 de Dezembro de 1959».
+
+###### Art. 2.º Como contrapartida do crédito aberto pelo artigo anterior, é adicionada a quantia de 50000000$00 à verba descrita no capítulo 5.º, artigo 110.º «Venda e amortização de títulos de crédito na posse da Fazenda», do actual orçamento das receitas e inscrita a importância de 107500000$00 no capítulo 9.º «Receita extraordinária», artigo 278.º-A «Produto da emissão de títulos, nos termos do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960», do mesmo orçamento.
+
+Este crédito foi registado na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 30 de Dezembro de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes de Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

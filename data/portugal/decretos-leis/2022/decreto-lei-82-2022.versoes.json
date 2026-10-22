@@ -1,0 +1,523 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:204379872:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-206867079",
+ "dre_path": "/dr/detalhe/decreto-lei/82-2022-204379872",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-12-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206896633",
+    "206896577",
+    "206896578",
+    "206896579",
+    "206896580",
+    "206896581",
+    "206896582",
+    "206896583",
+    "206896584",
+    "206896585",
+    "206896586",
+    "206896587",
+    "206896588",
+    "206896589",
+    "206896590",
+    "206896591",
+    "206896592",
+    "206896593",
+    "206896594",
+    "206896595",
+    "206896596",
+    "206896597",
+    "206896598",
+    "206896599",
+    "206896600",
+    "206896601",
+    "206896602",
+    "206896603",
+    "206896604",
+    "206896605",
+    "206896606",
+    "206896607",
+    "206896608",
+    "206896609",
+    "206896610",
+    "206896611",
+    "206896612",
+    "206896613",
+    "206896614",
+    "206896615",
+    "206896616",
+    "206896617",
+    "206896618",
+    "206896619",
+    "206896620",
+    "206896621",
+    "206896622",
+    "206896623",
+    "206896624",
+    "206896625",
+    "206896626",
+    "206896627",
+    "206896628",
+    "206896629",
+    "206896631",
+    "206896632"
+   ]
+  }
+ ],
+ "fragments": {
+  "206896633": {
+   "fragment_id": "206867080",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 82/2022\n\nde 6 de dezembro\n\nSumário: Transpõe a Diretiva (UE) 2019/882, relativa aos requisitos de acessibilidade de produtos e serviços.\n\nA Convenção sobre os Direitos das Pessoas com Deficiência, adotada na Assembleia Geral das Nações Unidas, em Nova Iorque, no dia 30 de março de 2007, aprovada pela Resolução da Assembleia da República n.º 56/2009, de 30 de julho, e ratificada pelo Decreto do Presidente da República n.º 71/2009, de 30 de julho, exige dos Estados subscritores um compromisso com políticas públicas que garantam medidas apropriadas para assegurar que pessoas com deficiência tenham acesso, em condições de igualdade com os demais, ao ambiente físico, aos transportes, à informação e às comunicações, incluindo as tecnologias e os sistemas de informação e comunicação, e a outras instalações e serviços abertos ou prestados ao público, tanto nas áreas urbanas como nas áreas rurais.\n\nO presente decreto-lei procede à transposição da Diretiva (UE) 2019/882 do Parlamento Europeu e do Conselho, de 17 de abril de 2019, relativa aos requisitos de acessibilidade dos produtos e serviços, que visa harmonizar os requisitos aplicáveis a determinados produtos e serviços [Diretiva (UE) 2019/882], de modo a garantir o correto funcionamento do mercado interno da União Europeia, eliminando e impedindo quaisquer barreiras à livre circulação - que distorcem a concorrência efetiva no mercado interno - que possam existir decorrentes de legislações nacionais divergentes.\n\nO intuito da Diretiva (UE) 2019/882 é o de tornar os produtos e serviços mais acessíveis em benefício das empresas, pessoas com deficiência e pessoas com limitações funcionais, entendidas como as pessoas com incapacidades físicas, mentais, intelectuais ou sensoriais, incapacidades relacionadas com a idade ou com qualquer outra limitação das funções do corpo humano, permanentes ou temporárias, que, em interação com diversas barreiras, se encontram limitadas no acesso aos produtos e serviços e implicam a adaptação desses produtos e serviços às suas necessidades específicas, tais como as pessoas idosas, as mulheres grávidas ou as pessoas que viajam com bagagem.\n\nNeste contexto, é expetável que o presente decreto-lei contribua para o aumento da disponibilidade de produtos e serviços acessíveis no mercado interno e, também, que melhore a acessibilidade à informação relevante, influenciando e permitindo uma sociedade mais inclusiva e facilitadora da autonomia das pessoas com deficiência. Isto, porquanto, por um lado, a reduzida concorrência entre fornecedores de produtos e serviços acessíveis e de tecnologias de apoio confrontam os consumidores com preços elevados. Por outro lado, a fragmentação da legislação europeia reduz as potenciais vantagens da partilha com congéneres nacionais e internacionais de experiências relativas à resposta à evolução social e tecnológica, induzindo a uma fragmentação do mercado dos produtos e serviços acessíveis.\n\nUrge, assim, fomentar o bom funcionamento do mercado interno pela harmonização do mercado de produtos e serviços acessíveis, facilitando o comércio e a mobilidade além-fronteiras e ajudar os operadores económicos a concentrarem os recursos na inovação, em vez de os utilizarem para custear as despesas decorrentes da fragmentação da legislação, cuja concretização se observa na perspetiva de um investimento, atenta a potencialidade da criação de economias de escala e o expetável incremento de consumidores.\n\nEstão em causa critérios de desempenho funcional relacionados com o modo de funcionamento dos produtos e serviços previstos no presente decreto-lei, que permitam o seu fabrico, disponibilização e utilização de um modo mais percetível, operável e compreensível, alinhados e adaptados com níveis sensoriais e de motricidade adequados, nomeadamente em convergência com os diversos tipos de deficiência e incapacidade existentes, capazes de corresponder às expetativas das pessoas que dele(a)s padecem, facilitando a sua autonomia e autodeterminação, melhorando a sua qualidade de vida e, em uníssono, o equilíbrio do próprio mercado interno.\n\nOs requisitos de acessibilidade previstos no presente decreto-lei recaem na seguinte tipologia de produtos: i) equipamentos informáticos para uso geral e sistemas operativos, designadamente computadores, telemóveis inteligentes - smartphones - tabletes; terminais de autosserviço, tais como terminais de pagamento, caixas automáticos, máquinas de emissão de bilhetes, máquinas de registo automático; equipamentos terminais com capacidades informáticas interativas para serviços de comunicações eletrónicas - tais como routers e modems - e para acesso a serviços de comunicação social audiovisual, como são os casos de equipamentos de televisão que envolvam serviços de televisão digital; e leitores de livros eletrónicos, e ii) serviços de comunicações eletrónicas, tais como serviços de telefonia; de acesso aos serviços de comunicação social audiovisual, nomeadamente as aplicações integradas em descodificadores (set-top-box), aplicações móveis; bancários, incluindo serviços de pagamento; livros eletrónicos e programas informáticos dedicados; comércio eletrónico e o atendimento de chamadas de emergência para o número único europeu «112».\n\nA procura de produtos e serviços acessíveis é grande. Estima-se que cerca de 87 milhões de pessoas possuem uma deficiência na União Europeia, sendo previsível que este número aumente significativamente. Acresce o envelhecimento da população europeia - com particular destaque para a população portuguesa -, o que confere aos Estados mais e maiores responsabilidades e desafios, e a uma necessidade de políticas públicas que convirjam numa adaptabilidade generalizada ao espaço da União Europeia, ajustada com os princípios subjacentes à materialização de uma sociedade que se deseja cada vez mais inclusiva, igualitária, justa, democrática, livre, solidária e humanitária.\n\nSão vários os exemplos dos compromissos assumidos a nível europeu que promovem os direitos das pessoas com deficiência. Desde logo, a Carta dos Direitos Fundamentais da União Europeia, que reconhece e respeita o direito das pessoas com deficiência a beneficiarem de medidas destinadas a assegurar a sua autonomia, a sua integração social e profissional e a sua participação na vida da comunidade. Também a Estratégia Europeia das Pessoas com Deficiência 2021-2030, que promove a acessibilidade aos ambientes construídos e virtuais, às tecnologias da informação e comunicação, aos bens e serviços, incluindo os transportes e as infraestruturas, como um elemento facilitador dos direitos e um pré-requisito para a plena participação das pessoas com deficiência em condições de igualdade com as demais, sem prejuízo das orientações emanadas por outros documentos estratégicos europeus, como a Estratégia da Deficiência do Conselho da Europa 2017-2023, que prioriza a temática das acessibilidades evocando o conceito do design universal e a promoção do desenvolvimento de tecnologias de apoio, dispositivos e serviços acessíveis destinados a remover as barreiras existentes; bem como do Pilar Europeu dos Direitos Sociais, que oferece orientações fundamentais em matéria de proteção e inclusão das pessoas com deficiência, nomeadamente a faculdade do direito à igualdade de tratamento e de oportunidades em matéria de acesso a bens e serviços disponíveis ao público.\n\nA nível nacional, realça-se, por um lado, a Lei n.º 38/2004, de 18 de agosto, lei-quadro que define as bases gerais do regime jurídico da prevenção, habilitação, reabilitação e participação da pessoa com deficiência, que permite a adoção de medidas específicas necessárias, nomeadamente para assegurar os direitos de consumidor das pessoas com deficiência, incluindo o direito à informação sobre os serviços e recursos que lhes são dirigidos, em formatos acessíveis e em modelos sensoriais vários. Por outro lado, destaca-se a Estratégia Nacional para a Inclusão das Pessoas com Deficiência 2021-2025, que prevê um conjunto alargado, heterogéneo e holístico de mais de 180 medidas e ações a desenvolver neste período, que procuraram desenvolver soluções atinentes à promoção da autonomia, da participação e da autodeterminação das pessoas com deficiência, com implicações transversais em todas as áreas das políticas públicas, prevendo o progresso de objetivos gerais e específicos dedicados à promoção de um ambiente inclusivo em respeito ao universo da acessibilidade, incluindo ao nível da informação e comunicação.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, o Conselho Nacional do Consumo, a Associação Nacional de Municípios Portugueses, a Autoridade Nacional de Comunicações, a Entidade Reguladora para a Comunicação Social, a Autoridade da Mobilidade e dos Transportes, a Autoridade Nacional da Aviação Civil, o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários, a Comissão de Políticas de Inclusão das Pessoas com Deficiência e o mecanismo nacional de monitorização da implementação da Convenção sobre os Direitos das Pessoas com Deficiência.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "206896577": {
+   "fragment_id": "206867081",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "206896578": {
+   "fragment_id": "206867082",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei transpõe para a ordem jurídica interna a Diretiva (UE) 2019/882 do Parlamento Europeu e do Conselho, de 17 de abril de 2019, relativa aos requisitos de acessibilidade de produtos e serviços, estabelecendo as disposições aplicáveis para garantir a sua adequação em território nacional, de modo a contribuir para o bom funcionamento do mercado interno e facilitar a resposta às necessidades específicas das pessoas com deficiência, e pessoas com limitações funcionais."
+  },
+  "206896579": {
+   "fragment_id": "206867083",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - Sem prejuízo do disposto no artigo 39.º, o presente decreto-lei aplica-se aos seguintes produtos:\n\na) Equipamentos informáticos para uso geral dos consumidores e sistemas operativos para esses equipamentos informáticos;\n\nb) Terminais de autosserviço:\n\ni) Terminais de pagamento;\n\nii) Caixas automáticos;\n\niii) Máquinas de emissão de bilhetes;\n\niv) Máquinas de registo automático;\n\nv) Terminais de autosserviço interativos que prestam informações, excluindo terminais instalados como parte integrante de veículos, aeronaves, navios ou material circulante;\n\nc) Equipamentos terminais com capacidades informáticas interativas para uso dos consumidores, utilizados para serviços de comunicações eletrónicas;\n\nd) Equipamentos terminais com capacidades informáticas interativas para uso dos consumidores, utilizados para aceder a serviços de comunicação social audiovisual, cuja principal finalidade seja facultar o acesso a estes serviços;\n\ne) Leitores de livros eletrónicos.\n\n2 - Os terminais de autosserviço identificados nas subalíneas ii) a v) da alínea b) do número anterior referem-se aos destinados à prestação de serviços abrangidos pelo presente decreto-lei.\n\n3 - Sem prejuízo do disposto nos artigos 38.º e 39.º, o presente decreto-lei é aplicável aos seguintes serviços:\n\na) Serviços de comunicações eletrónicas, com exceção dos serviços de transmissão utilizados para a prestação de serviços máquina a máquina;\n\nb) Serviços que fornecem acesso a serviços de comunicação social audiovisual;\n\nc) Aos seguintes elementos de serviços de transporte aéreo, de autocarro, ferroviário, marítimo e por vias navegáveis interiores de passageiros:\n\ni) Sítios web;\n\nii) Serviços integrados em dispositivos móveis, incluindo aplicações móveis;\n\niii) Bilhetes eletrónicos e serviços de bilhética eletrónica;\n\niv) Prestação de informações sobre o serviço de transporte, incluindo informações de viagem em tempo real, sendo que, ao nível dos ecrãs de informação, apenas são abrangidos os ecrãs interativos;\n\nd) Aos terminais de autosserviços interativos dos serviços de transporte urbano e suburbano, e dos serviços de transporte regional, exceto os instalados como parte integrante de veículos, aeronaves, navios ou material circulante utilizados na prestação de qualquer parte de tais serviços de transporte de passageiros;\n\ne) Os seguintes serviços bancários e financeiros destinados aos consumidores:\n\ni) Contratos de crédito abrangidos pelo Decreto-Lei n.º 133/2009, de 2 de junho, na sua redação atual, que transpõe para a ordem jurídica interna a Diretiva 2008/48/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2008, ou pelo Decreto-Lei n.º 74-A/2017, de 23 de junho, que transpõe para a ordem jurídica interna a Diretiva 2014/17/UE do Parlamento Europeu e do Conselho, de 4 de fevereiro de 2014;\n\nii) Serviços e atividades de investimento e serviços auxiliares previstos nas alíneas a), b), c) e f) do n.º 1 do artigo 290.º e nas alíneas a), b), c) e f) do artigo 291.º do Código dos Valores Mobiliários;\n\niii) Serviços de pagamento na aceção do Decreto-Lei n.º 91/2018, de 12 de novembro, que transpõe para a ordem jurídica interna a Diretiva (UE) 2015/2366 do Parlamento Europeu e do Conselho, de 25 de novembro de 2015;\n\niv) Serviços associados às contas de pagamento, na aceção do Decreto-Lei n.º 107/2017, de 30 de agosto, que transpõe para a ordem jurídica interna a Diretiva 2014/92/UE do Parlamento Europeu e do Conselho, de 23 de julho de 2014;\n\nv) Moeda eletrónica, na aceção do Regime Jurídico dos Serviços de Pagamento e da Moeda Eletrónica, aprovado pelo Decreto-Lei n.º 91/2018, de 12 de novembro, na sua redação atual, que transpõe para a ordem jurídica interna a Diretiva (UE) 2015/2366 do Parlamento Europeu e do Conselho, de 25 de novembro de 2015;\n\nf) Livros eletrónicos e programas informáticos dedicados;\n\ng) Serviços de comércio eletrónico.\n\n4 - O presente decreto-lei aplica-se ao atendimento e tratamento das comunicações de emergência para o número único europeu de emergência «112».\n\n5 - O presente decreto-lei não se aplica:\n\na) Aos seguintes conteúdos dos sítios web e das aplicações móveis:\n\ni) Conteúdos pré-gravados em multimédia dinâmica publicados antes da data de produção de efeitos do presente decreto-lei;\n\nii) Formatos de ficheiros de escritório publicados antes da data de produção de efeitos do presente decreto-lei;\n\niii) Mapas e serviços de cartografia por via eletrónica, se a informação essencial for fornecida de forma digital acessível no que diz respeito aos mapas destinados à navegação;\n\niv) Conteúdos de terceiros não financiados nem desenvolvidos ou controlados pelo operador económico em causa;\n\nv) Conteúdos dos sítios web e das aplicações móveis qualificados que apenas contenham conteúdos que não sejam atualizados nem editados após a data de produção de efeitos do presente decreto-lei;\n\nb) Às microempresas que prestam os serviços previstos no n.º 3.\n\n6 - O presente decreto-lei não prejudica a aplicação dos seguintes normativos:\n\na) Lei n.º 92/2019, de 4 de setembro, que transpõe para a ordem jurídica interna a Diretiva (UE) 2017/1564 do Parlamento Europeu e do Conselho, de 13 de setembro de 2017;\n\nb) Regulamento (UE) 2017/1563 do Parlamento Europeu e do Conselho, de 13 de setembro de 2017;\n\nc) Decreto-Lei n.º 163/2006, de 8 de agosto, na sua redação atual;\n\nd) Lei n.º 46/2006, de 28 de agosto, na sua redação atual;\n\ne) Decreto-Lei n.º 83/2018, de 19 de outubro;\n\nf) Decreto-Lei n.º 83/2018, de 19 de outubro, que transpõe para a ordem jurídica interna a Diretiva (UE) 2016/2102 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016."
+  },
+  "206896580": {
+   "fragment_id": "206867084",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, consideram-se as definições decorrentes da Diretiva (UE) 2019/882 do Parlamento Europeu e do Conselho, de 17 de abril de 2019, relativa aos requisitos de acessibilidade de produtos e serviços."
+  },
+  "206896581": {
+   "fragment_id": "206867085",
+   "type": 1,
+   "heading": "Capítulo II — Requisitos de acessibilidade e livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Requisitos de acessibilidade e livre circulação"
+  },
+  "206896582": {
+   "fragment_id": "206867086",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de acessibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de acessibilidade\n\n1 - Os operadores económicos apenas devem colocar no mercado produtos e garantir a prestação de serviços, incluindo o atendimento e o tratamento das comunicações de emergência dirigidas ao número único europeu de emergência «112», que cumpram os respetivos requisitos de acessibilidade previstos no presente decreto-lei, sem prejuízo do disposto nos artigos 14.º e 37.º\n\n2 - As entidades responsáveis pela fiscalização fornecem orientações às microempresas para facilitar a aplicação das medidas nacionais e procedem à sua elaboração em consulta com as partes interessadas relevantes."
+  },
+  "206896583": {
+   "fragment_id": "206867087",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito da União Europeia em vigor no domínio do transporte de passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito da União Europeia em vigor no domínio do transporte de passageiros\n\n1 - Considera-se que os serviços que cumprem os requisitos relativos à disponibilização de informações acessíveis e de informações sobre acessibilidade previstos nos Regulamentos (CE) n.º 261/2004 do Parlamento Europeu e do Conselho, de 11 de fevereiro de 2004, (CE) n.º 1107/2006 do Parlamento Europeu e do Conselho, de 5 de julho de 2006, (CE) n.º 1371/2007 do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, (UE) n.º 1177/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, e (UE) n.º 181/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, e nos atos aplicáveis, adotados com base na Diretiva 2008/57/CE do Parlamento Europeu e do Conselho, de 17 de junho de 2008, transposta para o ordenamento jurídico interno pelo Decreto-Lei n.º 27/2011, de 17 de fevereiro, na sua redação atual, cumprem os requisitos correspondentes previstos no presente decreto-lei.\n\n2 - Sem prejuízo do disposto na alínea c) do n.º 3 do artigo 2.º, as autoridades de transportes competentes podem optar por implementar os requisitos a que se refere o número anterior em contratos de serviço público, nos termos da Lei n.º 52/2015, de 9 de junho, na sua redação atual.\n\n3 - O disposto no n.º 1 não prejudica a necessidade de cumprimento dos requisitos adicionais previstos no presente decreto-lei."
+  },
+  "206896584": {
+   "fragment_id": "206867088",
+   "type": 11,
+   "heading": "Artigo 6.º — Livre circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Livre circulação\n\nAos operadores económicos não devem ser levantados obstáculos, por motivos relacionados com os requisitos de acessibilidade, à disponibilização de produtos no mercado nem à prestação de serviços em território nacional que cumpram o disposto no presente decreto-lei."
+  },
+  "206896585": {
+   "fragment_id": "206867089",
+   "type": 1,
+   "heading": "Capítulo III — Obrigações dos operadores económicos no setor dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Obrigações dos operadores económicos no setor dos produtos"
+  },
+  "206896586": {
+   "fragment_id": "206867090",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações dos fabricantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações dos fabricantes\n\n1 - Os fabricantes devem garantir que os produtos que colocam no mercado são concebidos e fabricados de acordo com os requisitos de acessibilidade aplicáveis previstos no presente decreto-lei.\n\n2 - Para efeitos do número anterior, os fabricantes devem:\n\na) Elaborar a documentação técnica e aplicar ou fazer aplicar o procedimento de avaliação da conformidade, ambas conforme previsto no anexo i do presente decreto-lei e do qual faz parte integrante;\n\nb) Elaborar, em consonância com o disposto no capítulo vii, uma declaração UE de conformidade e apor no produto a marcação «CE», sempre que a conformidade de um produto com os requisitos de acessibilidade aplicáveis tiver sido demonstrada através do procedimento previsto na alínea anterior;\n\nc) Conservar a documentação técnica e a declaração UE de conformidade durante cinco anos após a colocação do produto no mercado;\n\nd) Assegurar a existência de procedimentos para manter a conformidade da produção em série, tendo em consideração as alterações da conceção ou das características do produto e as alterações das normas harmonizadas ou das especificações técnicas que constituíram a referência para a declaração da conformidade de um produto;\n\ne) Certificar-se que os seus produtos exibem um número de tipo, de lote ou de série, ou outros elementos que permitam a respetiva identificação, ou, se as dimensões ou a natureza do produto não o permitirem, que a informação exigida consta da embalagem ou de um documento que acompanhe o produto;\n\nf) Indicar, nomeadamente em língua portuguesa, o seu nome, a sua firma ou marca registadas e o endereço de contacto no produto, ou, se tal não for possível, na embalagem ou num documento que acompanhe o produto;\n\ng) Assegurar que o produto e a respetiva rotulagem são acompanhados de instruções e de informações de segurança, de versões em língua portuguesa, e que as mesmas são claras, compreensíveis e inteligíveis;\n\nh) Caso coloquem no mercado um produto que não se encontre em conformidade com o presente decreto-lei, assegurar a tomada de medidas corretivas necessárias para garantir a sua conformidade ou para o retirar do mercado, consoante o caso, informando desse facto as autoridades nacionais competentes dos Estados-Membros em que disponibilizaram o produto, fornecendo-lhes as informações necessárias, nomeadamente no que se refere à não conformidade e às medidas corretivas aplicadas, mantendo um registo dos produtos que não cumprem os requisitos de acessibilidade aplicáveis e das queixas correspondentes;\n\ni) Fornecer às entidades responsáveis pela fiscalização, quando fundamentadamente solicitado, toda a informação e documentação, nomeadamente em língua portuguesa, necessária para demonstrar a conformidade do produto;\n\nj) Cooperar com as entidades responsáveis pela fiscalização em qualquer ação destinada a suprir o incumprimento dos requisitos de acessibilidade aplicáveis aos produtos que tenham colocado no mercado, designadamente colocando os produtos em conformidade com os respetivos requisitos."
+  },
+  "206896587": {
+   "fragment_id": "206867091",
+   "type": 11,
+   "heading": "Artigo 8.º — Mandatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Mandatários\n\n1 - Os fabricantes podem nomear mandatários por escrito.\n\n2 - O mandatário deve praticar os atos definidos no mandato pelo fabricante, o qual o autoriza a, pelo menos:\n\na) Manter à disposição das entidades responsáveis pela fiscalização, durante cinco anos, a declaração UE de conformidade e a documentação técnica;\n\nb) Facultar todas as informações e a documentação necessárias para demonstrar a conformidade do produto, mediante pedido fundamentado de uma autoridade nacional competente;\n\nc) Cooperar com as entidades responsáveis pela fiscalização, a pedido destas, no que se refere às ações destinadas a suprir o incumprimento dos requisitos de acessibilidade aplicáveis aos produtos abrangidos pelo seu mandato.\n\n3 - Excluem-se das obrigações do mandatário as previstas no n.º 1 do artigo anterior e a elaboração da documentação técnica prevista na alínea a) do n.º 2 do mesmo artigo."
+  },
+  "206896588": {
+   "fragment_id": "206867092",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos importadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações dos importadores\n\n1 - Os importadores apenas devem colocar no mercado os produtos cujos requisitos de acessibilidade estejam em conformidade com o previsto no presente decreto-lei.\n\n2 - Antes de colocarem um produto no mercado, os importadores devem assegurar que:\n\na) O fabricante aplicou o procedimento de avaliação da conformidade previsto no anexo i do presente decreto-lei;\n\nb) O fabricante elaborou a documentação técnica exigida e que o produto ostenta a marcação CE, que vem acompanhado dos documentos necessários, e que o fabricante respeitou os requisitos previstos nas alíneas e) e f) do n.º 2 do artigo 7.º;\n\nc) Os produtos indicam, nomeadamente em língua portuguesa, o seu nome, a sua firma ou marca registadas e o endereço de contacto no produto ou, se tal não for possível, na sua embalagem ou num documento que acompanhe o produto;\n\nd) O produto é acompanhado de versões em língua portuguesa de instruções e de informações de segurança;\n\ne) Enquanto um produto estiver sob a sua responsabilidade, as condições de armazenamento ou de transporte não prejudicam o cumprimento dos requisitos de acessibilidade aplicáveis;\n\nf) Mantêm à disposição das autoridades de fiscalização do mercado, durante um período de cinco anos, uma cópia da declaração UE de conformidade e que a documentação técnica pode ser facultada a essas autoridades mediante pedido.\n\n3 - Os importadores devem abster-se de colocar no mercado produtos que não cumpram os requisitos de acessibilidade aplicáveis previstos no presente decreto-lei, até que esteja assegurada a sua conformidade, informando desse facto o fabricante e as autoridades de fiscalização do mercado.\n\n4 - Aos importadores é igualmente aplicável o previsto nas alíneas h) e j) do n.º 2 do artigo 7.º"
+  },
+  "206896589": {
+   "fragment_id": "206867093",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigações dos distribuidores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigações dos distribuidores\n\nAntes de disponibilizarem um produto no mercado, os distribuidores devem:\n\na) Verificar se este ostenta a marcação CE;\n\nb) Certificar-se que este vem acompanhado de versões em língua portuguesa dos documentos necessários e de instruções e informações de segurança;\n\nc) Certificar-se que o fabricante cumpriu os requisitos previstos nas alíneas e) e f) do n.º 2 do artigo 7.º e se o importador cumpriu a alínea c) do n.º 2 do artigo anterior;\n\nd) Assegurar que, enquanto este estiver sob a sua responsabilidade, as condições de armazenamento ou de transporte não prejudicam o cumprimento dos requisitos de acessibilidade aplicáveis;\n\ne) Abster-se de colocar no mercado um produto que não cumpre os requisitos de acessibilidade aplicáveis previstos no presente decreto-lei, até que esteja assegurada a sua conformidade, informando desse facto o fabricante ou o importador e as autoridades de fiscalização do mercado;\n\nf) Caso coloquem no mercado um produto que não se encontre em conformidade com o presente decreto-lei, assegurar a tomada de medidas corretivas necessárias para assegurar a sua conformidade ou para o retirar do mercado, consoante o caso, informando desse facto as autoridades nacionais competentes dos Estados-Membros em que disponibilizaram o produto, fornecendo-lhes as informações necessárias, nomeadamente no que se refere à não conformidade e às medidas corretivas aplicadas;\n\ng) Fornecer às entidades responsáveis pela fiscalização, quando fundamentadamente solicitado, toda a informação e documentação, nomeadamente em língua portuguesa, necessária para demonstrar a conformidade do produto;\n\nh) Cooperar com as entidades responsáveis pela fiscalização em qualquer ação destinada a suprir o incumprimento dos requisitos de acessibilidade aplicáveis aos produtos que tenham colocado no mercado."
+  },
+  "206896590": {
+   "fragment_id": "206867094",
+   "type": 11,
+   "heading": "Artigo 11.º — Extensão de deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Extensão de deveres\n\nOs importadores e distribuidores que coloquem no mercado produtos sob o seu nome ou marca, ou modifiquem os produtos já colocados no mercado de tal forma que a conformidade com as disposições previstas no presente decreto-lei possa ser afetada, são considerados fabricantes e ficam sujeitos às mesmas obrigações que impendem sobre estes, nos termos do artigo 7.º"
+  },
+  "206896591": {
+   "fragment_id": "206867095",
+   "type": 11,
+   "heading": "Artigo 12.º — Identificação dos operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Identificação dos operadores económicos\n\nA pedido das entidades de fiscalização do mercado, os operadores económicos previstos no presente capítulo devem identificar, relativamente a um período de, pelo menos, cinco anos:\n\na) Outros operadores económicos que lhes tenham fornecido determinado produto;\n\nb) Outros operadores económicos a quem tenham fornecido determinado produto."
+  },
+  "206896592": {
+   "fragment_id": "206867096",
+   "type": 1,
+   "heading": "Capítulo IV — Obrigações dos prestadores de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Obrigações dos prestadores de serviços"
+  },
+  "206896593": {
+   "fragment_id": "206867097",
+   "type": 11,
+   "heading": "Artigo 13.º — Obrigações dos prestadores de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigações dos prestadores de serviços\n\n1 - Os prestadores de serviços asseguram que os serviços que concebem e prestam cumprem os requisitos de acessibilidade previstos no presente decreto-lei.\n\n2 - Para efeitos do número anterior, os prestadores de serviços devem:\n\na) Elaborar as informações necessárias nos termos do anexo ii do presente decreto-lei e do qual faz parte integrante;\n\nb) Explicar de que forma os serviços cumprem os requisitos de acessibilidade aplicáveis, devendo tais informações ser disponibilizadas ao público por escrito e oralmente, de maneira acessível a pessoas com deficiência, e mantidas enquanto o serviço estiver disponível;\n\nc) Assegurar, sem prejuízo do artigo 38.º, a existência de procedimentos para que a prestação de serviços se mantenha conforme os requisitos de acessibilidade aplicáveis, tendo em conta as alterações das características da prestação de serviço, as alterações dos requisitos de acessibilidade aplicáveis e as alterações das normas harmonizadas ou das especificações técnicas de referência para declarar que o serviço cumpre os requisitos de acessibilidade;\n\nd) Caso o serviço não cumpra a conformidade exigida no presente decreto-lei, adotar as medidas corretivas necessárias para garantir a sua conformidade, informando desse facto as autoridades nacionais competentes dos Estados-Membros em que prestam o serviço, fornecendo-lhes as informações necessárias, nomeadamente no que se refere à não conformidade e às medidas corretivas aplicadas;\n\ne) Fornecer às entidades responsáveis pela fiscalização, quando solicitado e fundamentado, toda a informação e documentação, nomeadamente em língua portuguesa, necessária para demonstrar a conformidade do serviço;\n\nf) Cooperar com as entidades responsáveis pela fiscalização em qualquer ação destinada a suprir o incumprimento dos requisitos de acessibilidade aplicáveis aos serviços."
+  },
+  "206896594": {
+   "fragment_id": "206867098",
+   "type": 1,
+   "heading": "Capítulo V — Alteração fundamental de produtos ou serviços e encargos desproporcionados para os operadores económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Alteração fundamental de produtos ou serviços e encargos desproporcionados para os operadores económicos"
+  },
+  "206896595": {
+   "fragment_id": "206867099",
+   "type": 11,
+   "heading": "Artigo 14.º — Alteração fundamental e encargos desproporcionados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração fundamental e encargos desproporcionados\n\n1 - Os requisitos de acessibilidade a que se refere o artigo 4.º são aplicáveis apenas na medida em que o seu cumprimento:\n\na) Não implique uma alteração significativa de um produto ou serviço que tenha como resultado a alteração fundamental da sua natureza de base; ou\n\nb) Não resulte na imposição de encargos desproporcionados aos operadores económicos.\n\n2 - Para efeitos do número anterior, e sempre que não pretendam aplicar os requisitos de acessibilidade a que se refere o artigo 4.º, os operadores económicos efetuam uma avaliação para verificar se o cumprimento dos requisitos de acessibilidade implica uma alteração fundamental da sua natureza de base ou se determinam encargos desproporcionados, sem prejuízo do artigo 37.º\n\n3 - Os operadores económicos devem documentar a avaliação a que se refere o número anterior e conservar os respetivos resultados durante um período de cinco anos a contar da última vez que o produto ou o serviço foi disponibilizado no mercado, conforme aplicável, fornecendo, mediante pedido das autoridades de fiscalização do mercado ou das autoridades responsáveis pela verificação da conformidade dos serviços, uma cópia da mesma.\n\n4 - A documentação da avaliação revista no número anterior não se aplica às microempresas do setor dos produtos, sem prejuízo do disposto no número seguinte.\n\n5 - As microempresas do setor dos produtos que invoquem o n.º 1 devem, mediante pedido das entidades responsáveis pela fiscalização do mercado, instruir e fornecer a informação relevante que esteve na base da avaliação prevista no n.º 2.\n\n6 - Os prestadores de serviços que invoquem o disposto na alínea b) do n.º 1 devem atualizar a avaliação da natureza desproporcionada dos encargos relativamente a cada categoria ou tipo de serviço:\n\na) Sempre que o serviço disponibilizado for alterado; ou\n\nb) Sempre que as autoridades responsáveis pela verificação da conformidade dos serviços o solicitarem; e\n\nc) Em qualquer caso, pelo menos, de cinco em cinco anos.\n\n7 - Os operadores económicos que recebam financiamento proveniente de outras fontes que não de recursos próprios, sejam estas públicas ou privadas, disponibilizado para melhorar a acessibilidade, estão impedidos de invocar o previsto na alínea b) do n.º 1.\n\n8 - Sempre que invoquem o disposto no n.º 1 para um produto ou serviço específico, os operadores económicos devem informar desse facto as entidades responsáveis pela fiscalização do mercado ou as autoridades responsáveis pela verificação da conformidade dos serviços competentes do Estado-Membro onde o produto específico tiver sido colocado no mercado ou onde o serviço específico tiver sido prestado.\n\n9 - O disposto no número anterior não é aplicável às microempresas do setor dos produtos."
+  },
+  "206896596": {
+   "fragment_id": "206867100",
+   "type": 1,
+   "heading": "Capítulo VI — Normas harmonizadas e especificações técnicas dos produtos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Normas harmonizadas e especificações técnicas dos produtos e serviços"
+  },
+  "206896597": {
+   "fragment_id": "206867101",
+   "type": 11,
+   "heading": "Artigo 15.º — Presunção da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Presunção da conformidade\n\nPara efeitos do presente decreto-lei, presume-se que os produtos e serviços que cumprem as normas harmonizadas, ou partes destas, cujas referências tenham sido publicadas no Jornal Oficial da União Europeia e que respeitem as especificações técnicas ou partes dessas, cumprem os requisitos de acessibilidade, desde que as referidas normas ou partes delas abranjam esses requisitos."
+  },
+  "206896598": {
+   "fragment_id": "206867102",
+   "type": 1,
+   "heading": "Capítulo VII — Conformidade de produtos e marcação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Conformidade de produtos e marcação CE"
+  },
+  "206896599": {
+   "fragment_id": "206867103",
+   "type": 11,
+   "heading": "Artigo 16.º — Declaração UE de conformidade dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Declaração UE de conformidade dos produtos\n\n1 - A declaração UE de conformidade garante que foi demonstrado o cumprimento dos requisitos de acessibilidade aplicáveis, sendo que, nos casos em que, a título de exceção, se invoque o artigo 14.º, a declaração UE de conformidade deve indicar que os requisitos de acessibilidade estão sujeitos à exceção em causa.\n\n2 - A declaração UE de conformidade respeita o modelo que consta do anexo iii da Decisão n.º 768/2008/CE do Parlamento Europeu e do Conselho, de 9 julho de 2008, e deve conter os elementos constantes do anexo i do presente decreto-lei, ser permanentemente atualizada e traduzida, nomeadamente para a língua portuguesa.\n\n3 - Os requisitos relativos à documentação técnica devem evitar a imposição de encargos indevidos às microempresas e às PME.\n\n4 - Caso um produto esteja abrangido por mais do que um ato da União Europeia que exija uma declaração UE de conformidade, é elaborada uma única declaração UE de conformidade, devendo mencionar o título dos atos em causa, incluindo as respetivas referências de publicação.\n\n5 - Ao elaborar a declaração UE de conformidade para um determinado produto, o fabricante assume a responsabilidade pelo cumprimento dos requisitos previstos no presente decreto-lei."
+  },
+  "206896600": {
+   "fragment_id": "206867104",
+   "type": 11,
+   "heading": "Artigo 17.º — Princípios gerais da marcação CE dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Princípios gerais da marcação CE dos produtos\n\nA marcação CE está sujeita aos princípios gerais enunciados no artigo 30.º do Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho, de 9 de julho de 2008, sem prejuízo do disposto no Decreto-Lei n.º 23/2011, de 11 de fevereiro, na sua redação atual."
+  },
+  "206896601": {
+   "fragment_id": "206867105",
+   "type": 11,
+   "heading": "Artigo 18.º — Regras e condições para a aposição da marcação CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regras e condições para a aposição da marcação CE\n\n1 - A marcação CE é aposta de modo visível, legível e indelével no produto ou na respetiva placa de identificação, em momento prévio à colocação de determinado produto no mercado.\n\n2 - Caso a natureza do produto não o permita ou não o justifique, a marcação CE é aposta na embalagem e nos documentos que o acompanham.\n\n3 - A entidade responsável pela fiscalização da marcação CE baseia-se nos mecanismos existentes para assegurar a correta aplicação do regime de marcação CE e toma as medidas adequadas em caso de utilização indevida dessa marcação."
+  },
+  "206896602": {
+   "fragment_id": "206867106",
+   "type": 1,
+   "heading": "Capítulo VIII — Fiscalização do mercado de produtos e procedimento de salvaguarda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Fiscalização do mercado de produtos e procedimento de salvaguarda"
+  },
+  "206896603": {
+   "fragment_id": "206867107",
+   "type": 11,
+   "heading": "Artigo 19.º — Fiscalização do mercado de produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Fiscalização do mercado de produtos\n\n1 - Para efeitos de fiscalização, são aplicáveis aos produtos as seguintes disposições do Regulamento (CE) n.º 2019/1020 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, que altera o Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho, de 9 de julho de 2008:\n\na) N.º 3 do artigo 2.º;\n\nb) N.os 1, 2, 5 e 6 do artigo 11.º;\n\nc) Artigo 13.º;\n\nd) N.os 1 e 2 e alíneas a), b), e) e j) do n.º 4 do artigo 14.º;\n\ne) Alínea g) do n.º 3 e n.º 5 do artigo 16.º;\n\nf) Artigos 17.º, 18.º e 22.º;\n\ng) N.os 2, 3 e 4 do artigo 25.º;\n\nh) N.os 1 e 2 do artigo 26.º;\n\ni) Artigo 27.º;\n\nj) N.os 2 e 3 do artigo 28.º;\n\nk) Alíneas f), g), m) e o) do n.º 2 do artigo 31.º;\n\nl) Alíneas i) e k) do n.º 1 do artigo 33.º;\n\nm) N.º 1, alínea a) do n.º 3 e n.º 4 do artigo 34.º\n\n2 - Caso o operador económico invoque o disposto no n.º 1 do artigo 14.º, as entidades responsáveis pela fiscalização devem:\n\na) Verificar se a avaliação a que se refere o artigo 14.º foi realizada pelo operador económico;\n\nb) Analisar a avaliação e os seus resultados, incluindo a correta utilização dos critérios para a avaliação do caráter desproporcionado de um encargo, quando aplicável, e sem prejuízo do artigo 37.º;\n\nc) Proceder à verificação do cumprimento dos requisitos de acessibilidade aplicáveis.\n\n3 - As informações na posse das entidades responsáveis pela fiscalização do mercado sobre o cumprimento, pelos operadores económicos, dos requisitos de acessibilidade aplicáveis previstos no presente decreto-lei e da avaliação prevista no artigo 14.º são disponibilizadas aos consumidores e às associações representativas dos seus interesses, a pedido destes, e em formato acessível, salvo quando se trate de informações confidenciais, nos termos do disposto no artigo 17.º do Regulamento (UE) n.º 2019/1020 do Parlamento Europeu e do Conselho, de 20 de junho de 2019."
+  },
+  "206896604": {
+   "fragment_id": "206867108",
+   "type": 11,
+   "heading": "Artigo 20.º — Procedimento aplicável para os produtos que não cumprem os requisitos de acessibilidade aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Procedimento aplicável para os produtos que não cumprem os requisitos de acessibilidade aplicáveis\n\n1 - Caso tenham motivos suficientes para crer que um produto abrangido pelo presente decreto-lei não cumpre os requisitos de acessibilidade aplicáveis, as entidades responsáveis pela fiscalização do mercado devem proceder a uma avaliação do produto relativamente a todos os requisitos previstos no presente decreto-lei.\n\n2 - Os operadores económicos devem cooperar com as entidades responsáveis pela fiscalização, nomeadamente facultando o acesso às suas instalações, e fornecer toda a informação necessária.\n\n3 - Se, no decurso da avaliação, verificarem que o produto não cumpre os requisitos previstos no presente decreto-lei, as entidades responsáveis pela fiscalização do mercado devem impor imediatamente ao operador económico em causa, num prazo proporcional à natureza do incumprimento, que adote as medidas corretivas necessárias para assegurar que o produto cumpre os requisitos respetivos.\n\n4 - Caso o operador económico não adote as medidas corretivas adequadas no prazo determinado nos termos do número anterior, as entidades responsáveis pela fiscalização do mercado podem exigir ao operador económico em causa que retire o produto do mercado, num prazo adicional razoável."
+  },
+  "206896605": {
+   "fragment_id": "206867109",
+   "type": 11,
+   "heading": "Artigo 21.º — Medidas corretivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Medidas corretivas\n\n1 - Às medidas corretivas referidas nos n.os 3 e 4 do artigo anterior é aplicável o disposto no artigo 18.º do Regulamento (UE) n.º 2019/1020 do Parlamento Europeu e do Conselho, de 20 de junho de 2019.\n\n2 - Caso considerem que a não conformidade não se limita a território nacional, as entidades responsáveis pela fiscalização do mercado devem informar a Comissão Europeia e as suas congéneres dos outros Estados-Membros dos resultados da avaliação e as medidas exigidas ao operador económico.\n\n3 - Caso o operador económico em causa não adote as medidas corretivas necessárias no prazo referido no n.º 3 do artigo anterior, as entidades responsáveis pela fiscalização do mercado devem adotar todas as medidas provisórias adequadas de proibição e restrição da disponibilização do produto no mercado, de retirada do mercado ou de recolha dos produtos."
+  },
+  "206896606": {
+   "fragment_id": "206867110",
+   "type": 11,
+   "heading": "Artigo 22.º — Elementos da informação a prestar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Elementos da informação a prestar\n\n1 - A informação prevista no n.º 2 do artigo anterior deve incluir todos os elementos disponíveis, nomeadamente:\n\na) Os dados necessários à identificação do produto não conforme;\n\nb) A origem do produto;\n\nc) A natureza da alegada não conformidade e os requisitos de acessibilidade que o produto não cumpre;\n\nd) A natureza e a duração das medidas nacionais tomadas;\n\ne) As observações e fundamentação do operador económico em causa.\n\n2 - As entidades responsáveis pela fiscalização do mercado devem indicar se a não conformidade resulta de:\n\na) O produto não cumprir os requisitos de acessibilidade aplicáveis; ou\n\nb) Lacunas das normas harmonizadas ou das especificações técnicas referidas no artigo 15.º\n\n3 - No caso de o procedimento ter sido desencadeado noutro Estado-Membro, as entidades responsáveis pela fiscalização devem informar imediatamente a Comissão Europeia e as suas congéneres dos outros Estados-Membros das medidas adotadas dos dados complementares de que dispõe relativamente à não conformidade do produto em causa e, em caso de desacordo com a medida nacional notificada, das suas objeções.\n\n4 - A medida provisória adotada pelo Estado-Membro em causa é considerada justificada se, decorridos três meses a contar da receção da informação referida no n.º 1, a Comissão Europeia ou outro Estado-Membro não levantarem objeções à mesma."
+  },
+  "206896607": {
+   "fragment_id": "206867111",
+   "type": 11,
+   "heading": "Artigo 23.º — Não conformidade formal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Não conformidade formal\n\n1 - Sem prejuízo do disposto nos artigos 20.º a 22.º, a entidade de fiscalização do mercado deve exigir ao operador económico que ponha termo à não conformidade constatada sempre que se verifique, pelo menos, uma das seguintes situações:\n\na) A aposição de marcação CE em violação do artigo 30.º do Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho, de 9 de julho de 2008, ou do artigo 18.º;\n\nb) A não aposição de marcação CE;\n\nc) A ausência de declaração UE de conformidade;\n\nd) A presença de incorreções na declaração UE de conformidade;\n\ne) A inexistência de documentação técnica, a não disponibilização de documentação técnica ou a disponibilização incompleta;\n\nf) As informações referidas na alínea f) do n.º 2 do artigo 7.º ou na alínea c) do n.º 2 do artigo 9.º serem inexistentes, falsas ou incompletas;\n\ng) O incumprimento de outros requisitos administrativos previstos no artigo 7.º ou no artigo 9.º\n\n2 - Se a não conformidade referida no número anterior persistir, as entidades responsáveis pela fiscalização do mercado devem adotar medidas adequadas de restrição ou de proibição da disponibilização no mercado do produto, ou assegurar que o mesmo é recolhido ou retirado do mercado."
+  },
+  "206896608": {
+   "fragment_id": "206867112",
+   "type": 11,
+   "heading": "Artigo 24.º — Procedimento de salvaguarda da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Procedimento de salvaguarda da União Europeia\n\n1 - Se, na sequência do procedimento previsto no n.º 3 do artigo 21.º, forem levantadas objeções a uma medida adotada ou a Comissão Europeia considerar que a mesma é contrária à legislação da União Europeia, aplica-se o disposto nos números seguintes.\n\n2 - Se a medida for considerada justificada pela Comissão Europeia, a autoridade de fiscalização do mercado deve adotar as medidas necessárias para assegurar que o produto não conforme é retirado do mercado e informar a Comissão Europeia desse facto, sendo que:\n\na) No caso de a não conformidade do produto resultar de lacunas das normas harmonizadas nos termos da alínea b) do n.º 2 do artigo 22.º, a Comissão Europeia aplica o procedimento previsto no artigo 11.º do Regulamento (UE) n.º 1025/2012 do Parlamento Europeu e do Conselho, de 25 de outubro de 2012;\n\nb) No caso de a não conformidade do produto resultar de lacunas das especificações técnicas nos termos da alínea b) do n.º 2 do artigo 22.º, a Comissão Europeia adota atos de execução que alterem ou revoguem a especificação técnica em causa.\n\n3 - Se a medida for considerada injustificada pela Comissão Europeia, a autoridade de fiscalização do mercado deve proceder à sua revogação."
+  },
+  "206896609": {
+   "fragment_id": "206867113",
+   "type": 1,
+   "heading": "Capítulo IX — Conformidade dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Conformidade dos serviços"
+  },
+  "206896610": {
+   "fragment_id": "206867114",
+   "type": 11,
+   "heading": "Artigo 25.º — Conformidade dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Conformidade dos serviços\n\n1 - As entidades responsáveis pela fiscalização devem aplicar e atualizar periodicamente os procedimentos adequados a fim de:\n\na) Verificar que os serviços cumprem os requisitos previstos no presente decreto-lei, incluindo a avaliação a que se refere o artigo 14.º, caso o operador económico invoque o disposto no n.º 1 desse artigo, à qual se aplica, com as necessárias adaptações, o disposto no n.º 2 do artigo 19.º;\n\nb) Garantir o tratamento das reclamações, queixas ou das comunicações sobre questões relacionadas com a não conformidade dos serviços com os requisitos de acessibilidade previstos no presente decreto-lei, sem prejuízo do disposto no Decreto-Lei n.º 156/2005, de 15 de setembro, na sua redação atual;\n\nc) Verificar se o operador económico adotou as medidas corretivas necessárias.\n\n2 - Sem prejuízo do disposto no número anterior, as entidades responsáveis pela fiscalização devem assegurar a informação pertinente aos consumidores e às associações representativas dos seus interesses, nomeadamente nos seus sítios eletrónicos institucionais, incluindo a alusiva às suas competências e decisões tomadas no que respeita à conformidade dos serviços, disponibilizando, a pedido, as referidas informações em formatos acessíveis."
+  },
+  "206896611": {
+   "fragment_id": "206867115",
+   "type": 1,
+   "heading": "Capítulo X — Requisitos de acessibilidade noutros atos da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Requisitos de acessibilidade noutros atos da União Europeia"
+  },
+  "206896612": {
+   "fragment_id": "206867116",
+   "type": 11,
+   "heading": "Artigo 26.º — Acessibilidade prevista noutros atos da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Acessibilidade prevista noutros atos da União Europeia\n\n1 - Sem prejuízo do disposto no artigo 37.º, os requisitos de acessibilidade decorrentes do presente decreto-lei, relativamente aos produtos e serviços referidos no artigo 2.º, constituem requisitos de acessibilidade obrigatórios na aceção dos n.os 1 a 3 do artigo 49.º e do artigo 49.º-A do Decreto-Lei n.º 111-B/2017, de 31 de agosto, na sua redação atual, que transpõe para a ordem jurídica interna as Diretivas 2014/24/UE e 2014/25/UE, ambas do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014.\n\n2 - Presume-se que os produtos ou serviços cujas características, elementos ou funções cumprem os requisitos de acessibilidade previstos no presente decreto-lei cumprem as obrigações aplicáveis relativas à acessibilidade estabelecidas noutros atos da União Europeia no que respeita a essas características, elementos ou funções, salvo disposição em contrário identificada nesses atos."
+  },
+  "206896613": {
+   "fragment_id": "206867117",
+   "type": 11,
+   "heading": "Artigo 27.º — Normas harmonizadas e especificações técnicas para outros atos da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Normas harmonizadas e especificações técnicas para outros atos da União Europeia\n\nA conformidade com as normas harmonizadas e as especificações técnicas ou partes das mesmas adotadas nos termos do artigo 15.º confere a presunção de conformidade com o artigo anterior, na medida em que as referidas normas e especificações técnicas ou partes das mesmas satisfaçam os requisitos de acessibilidade previstos no presente decreto-lei."
+  },
+  "206896614": {
+   "fragment_id": "206867118",
+   "type": 1,
+   "heading": "Capítulo XI — Entidades responsáveis pela fiscalização e regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Entidades responsáveis pela fiscalização e regime contraordenacional"
+  },
+  "206896615": {
+   "fragment_id": "206867119",
+   "type": 11,
+   "heading": "Artigo 28.º — Entidades responsáveis pela fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Entidades responsáveis pela fiscalização\n\n1 - Sem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento das normas constantes do presente decreto-lei compete, atentas as suas atribuições, às seguintes entidades:\n\na) À Autoridade Nacional de Comunicações (ANACOM), no que respeita aos produtos identificados na alínea a), apenas relativamente aos equipamentos informáticos que funcionem via rádio ou que constituam equipamentos de comunicações eletrónicas, excluindo-se os sistemas operativos para estes equipamentos; nas alíneas c) e e), apenas no que concerne aos equipamentos eletrónicos que funcionem via rádio ou que constituam equipamentos de comunicações eletrónicas, todas do n.º 1 do artigo 2.º; e aos serviços identificados nas alíneas a) e g) do n.º 3 e ao previsto no n.º 4 do artigo 2.º;\n\nb) À Entidade Reguladora para a Comunicação Social (ERC), no que respeita aos serviços identificados na alínea b) do n.º 3 do artigo 2.º;\n\nc) À Autoridade da Mobilidade e dos Transportes e à Autoridade Nacional da Aviação Civil (ANAC), no que respeita aos serviços identificados na alínea c) do n.º 3 do artigo 2.º;\n\nd) Ao Instituto da Mobilidade e dos Transportes, I. P., no que respeita aos serviços identificados na alínea d) do n.º 3 do artigo 2.º;\n\ne) Ao Banco de Portugal, no que respeita aos serviços identificados nas subalíneas i), ii), iii) e v) da alínea e) do n.º 3 do artigo 2.º;\n\nf) À Comissão do Mercado de Valores Mobiliários, no que respeita aos serviços identificados na subalínea ii) da alínea e) do n.º 3 do artigo 2.º;\n\ng) À Autoridade de Segurança Alimentar e Económica (ASAE), no que respeita aos produtos identificados na alínea a) do n.º 1 do artigo 2.º, apenas no que se refere aos equipamentos informáticos que não funcionem via rádio ou que não sejam equipamentos de comunicações eletrónicas, incluindo os sistemas operativos para estes equipamentos, bem como os sistemas operativos que respeitam aos equipamentos informáticos que funcionem via rádio ou que constituam equipamentos de comunicações eletrónicas identificados na alínea a) do presente número; e nas subalíneas i), iii), iv) e v) da alínea b) e nas alíneas d) e e), apenas no que concerne aos equipamentos eletrónicos que não funcionem via rádio ou que não constituam equipamentos de comunicações eletrónicas, todas do n.º 1 do artigo 2.º;\n\nh) Aos municípios, no que respeita ao produto identificado na subalínea ii) da alínea b) do n.º 1 do artigo 2.º, sem prejuízo do levantamento do auto pelas forças de segurança;\n\ni) À Inspeção-Geral das Atividades Culturais, no que respeita ao serviço identificado na alínea f) do n.º 3 do artigo 2.º\n\n2 - No exercício das suas funções, compete ainda à ASAE:\n\na) A verificação do cumprimento da marcação «CE» e da declaração UE, nos termos do Decreto-Lei n.º 23/2011, de 11 de fevereiro, na sua redação atual, e da legislação específica aplicável, atento o disposto nos capítulos vii e viii;\n\nb) Garantir o cumprimento do disposto no Decreto-Lei n.º 92/2010, de 26 de julho, na sua redação atual, que estabelece os princípios e as regras necessárias para simplificar o livre acesso e exercício das atividades de serviços realizadas em território nacional.\n\n3 - No exercício das suas atividades de fiscalização, as entidades a que se referem os números anteriores podem solicitar o auxílio das autoridades policiais, ou de quaisquer outras autoridades, sempre que o julguem necessário à execução das suas funções.\n\n4 - Para efeitos do disposto no artigo 36.º, as entidades responsáveis pela fiscalização cooperam com o Instituto Nacional para a Reabilitação, I. P. (INR, I. P.), facultando toda a informação necessária.\n\n5 - Nas Regiões Autónomas, as competências conferidas à ASAE na alínea g) do n.º 1 e no n.º 2 são exercidas pelos serviços e organismos regionais que exerçam competências análogas."
+  },
+  "206896616": {
+   "fragment_id": "206867120",
+   "type": 11,
+   "heading": "Artigo 29.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Contraordenações\n\n1 - Constituem contraordenações puníveis com coima, sem prejuízo da eventual responsabilidade civil ou da aplicação de outra sanção que ao caso couber:\n\na) A disponibilização no mercado, por qualquer operador económico, de produtos e serviços que não satisfaçam os requisitos de acessibilidade constantes do presente decreto-lei, em violação do artigo 4.º;\n\nb) A ausência da avaliação, por qualquer operador económico, prevista no artigo 14.º;\n\nc) As praticadas pelos fabricantes, nos seguintes termos:\n\ni) A não elaboração da documentação técnica, em violação do previsto na alínea a) do n.º 2 do artigo 7.º;\n\nii) A não aplicação do procedimento de avaliação de conformidade, em violação do previsto na alínea a) do n.º 2 do artigo 7.º;\n\niii) A não elaboração da declaração UE de conformidade, em violação do previsto na alínea b) do n.º 2 do artigo 7.º;\n\niv) A não aposição num produto da marcação CE, em violação do previsto na alínea b) do n.º 2 do artigo 7.º;\n\nv) A não conservação, pelo fabricante, da documentação técnica, durante cinco anos após a colocação do produto no mercado, em violação do previsto na alínea c) do n.º 2 do artigo 7.º;\n\nvi) A não conservação da declaração UE de conformidade, durante cinco anos após a colocação do produto no mercado, em violação do previsto na alínea c) do n.º 2 do artigo 7.º;\n\nvii) Não ser assegurada a existência de procedimentos para manter a conformidade da produção em série, em violação do previsto na alínea d) do n.º 2 do artigo 7.º;\n\nviii) A não aposição no produto do número de tipo, de lote ou de série ou de outros elementos que permitam a identificação, ou, se as dimensões ou a natureza do produto não o permitirem, a aposição desses elementos na embalagem ou num documento que o acompanhe, em violação do previsto na alínea e) do n.º 2 do artigo 7.º;\n\nix) A não aposição no produto e em língua portuguesa do seu nome, da sua firma ou marca registadas e do seu endereço de contacto, ou, se tal não for possível, na embalagem ou num documento que o acompanhe, em violação do previsto na alínea f) do n.º 2 do artigo 7.º;\n\nx) A comercialização de produtos e respetivas rotulagens sem que se encontrem acompanhados de versões em língua portuguesa, claras, compreensíveis e inteligíveis, das instruções e de informações de segurança, em violação do previsto na alínea g) do n.º 2 do artigo 7.º;\n\nxi) A não adoção das medidas corretivas necessárias para garantir a conformidade de um produto ou para o retirar do mercado, informando desse facto as autoridades nacionais competentes e fornecendo-lhes as informações necessárias, em violação do previsto na alínea h) do n.º 2 do artigo 7.º;\n\nxii) A não manutenção de um registo dos produtos que não cumprem os requisitos de acessibilidade aplicáveis e das queixas correspondentes, em violação do previsto na alínea h) do n.º 2 do artigo 7.º;\n\nxiii) A não disponibilização às autoridades competentes quando solicitado e fundamentado, e no prazo fixado para o efeito, de toda a informação e documentação, nomeadamente em língua portuguesa, necessária para demonstrar a conformidade do produto, em violação do disposto na alínea i) do n.º 2 do artigo 7.º;\n\nxiv) A falta de cooperação com as entidades responsáveis pela fiscalização em qualquer ação destinada a suprir o incumprimento dos requisitos de acessibilidade aplicáveis aos produtos que tenham colocado no mercado, em violação do disposto na alínea j) do n.º 2 do artigo 7.º;\n\nd) As praticadas pelos importadores, nos seguintes termos:\n\ni) A disponibilização no mercado de produtos em que não tenha sido aplicado o procedimento de avaliação de conformidade, em violação do disposto na alínea a) do n.º 2 do artigo 9.º;\n\nii) A disponibilização no mercado de produtos sem que se tenha certificado que o fabricante elaborou a documentação técnica exigida, em violação do disposto na alínea b) do n.º 2 do artigo 9.º;\n\niii) A disponibilização no mercado de produtos nos quais não se encontre aposta a marcação CE, em violação do disposto na alínea b) do n.º 2 do artigo 9.º;\n\niv) A disponibilização no mercado de produtos sem que estejam acompanhados da declaração UE de conformidade, em violação do previsto na alínea b) do n.º 2 do artigo 9.º;\n\nv) A disponibilização no mercado de produtos em que não esteja aposto o número de tipo, de lote ou de série ou de outros elementos que permitam a identificação, ou, se as dimensões ou a natureza do produto não o permitirem, a aposição desses elementos na embalagem ou num documento que o acompanhe, em violação do previsto na alínea b) do n.º 2 do artigo 9.º;\n\nvi) A disponibilização no mercado de produtos em que não esteja aposto o nome, a firma ou marca registadas e o endereço de contacto do fabricante, ou, se tal não for possível, na embalagem ou num documento que o acompanhe, em violação do previsto na alínea b) do n.º 2 do artigo 9.º;\n\nvii) A disponibilização no mercado de produtos em que não esteja aposto o seu nome, a sua firma ou marca registadas e o seu endereço de contacto, ou, se tal não for possível, na embalagem ou num documento que o acompanhe, em violação do previsto na alínea c) do n.º 2 do artigo 9.º;\n\nviii) A disponibilização no mercado de produtos sem que se encontrem acompanhados de versões em língua portuguesa das instruções e de informações de segurança, em violação do previsto na alínea d) do n.º 2 do artigo 9.º;\n\nix) O incumprimento dos requisitos de acessibilidade aplicáveis, derivado das condições de armazenamento ou de transporte, em violação do previsto na alínea e) do n.º 2 do artigo 9.º;\n\nx) A não disponibilização às autoridades competentes quando solicitado e fundamentado, e no prazo fixado para o efeito, da declaração UE de conformidade, durante cinco anos após a colocação do produto no mercado, em violação do disposto na alínea f) do n.º 2 do artigo 9.º;\n\nxi) A não disponibilização às autoridades competentes quando solicitado e fundamentado da documentação técnica, durante cinco anos após a colocação do produto no mercado, em violação do disposto na alínea f) do n.º 2 do artigo 9.º;\n\nxii) A disponibilização no mercado de um produto que não cumpre os requisitos de acessibilidade aplicáveis previstos no presente decreto-lei, até que seja assegurada a sua conformidade, ou a falta de informação desse facto ao fabricante e às autoridades de fiscalização do mercado, em violação do disposto no n.º 3 do artigo 9.º;\n\nxiii) A não adoção das medidas corretivas necessárias para garantir a conformidade de um produto ou para o retirar no mercado, informando desse facto as autoridades nacionais competentes e fornecendo-lhes as informações necessárias, em violação do previsto no n.º 3 do artigo 9.º;\n\nxiv) A falta de cooperação com as entidades responsáveis pela fiscalização em qualquer ação destinada a suprir o incumprimento dos requisitos de acessibilidade aplicáveis aos produtos que tenham colocado no mercado, em violação do disposto no n.º 3 do artigo 9.º;\n\ne) As praticadas pelos distribuidores, nos seguintes termos:\n\ni) A disponibilização no mercado de produtos nos quais não se encontre aposta a marcação CE, em violação do disposto na alínea a) do artigo 10.º;\n\nii) A disponibilização no mercado de produtos sem que estejam acompanhados da declaração UE de conformidade, em violação do previsto na alínea b) do artigo 10.º;\n\niii) A disponibilização no mercado de produtos sem que se encontrem acompanhados de versões em língua portuguesa das instruções e de informações de segurança, em violação do previsto na alínea b) do artigo 10.º;\n\niv) A disponibilização no mercado de produtos em que não esteja aposto o número de tipo, de lote ou de série ou de outros elementos que permitam a identificação, ou, se as dimensões ou a natureza do produto não o permitirem, a aposição desses elementos na embalagem ou num documento que o acompanhe, em violação do previsto na alínea c) do artigo 10.º;\n\nv) A disponibilização no mercado de produtos em que não esteja aposto o nome, a firma ou marca registadas e o endereço de contacto do fabricante, ou, se tal não for possível, na embalagem ou num documento que o acompanhe, em violação do previsto na alínea c) do artigo 10.º;\n\nvi) A disponibilização no mercado de produtos em que não esteja aposto o nome, a firma ou marca registadas e o endereço de contacto do importador, ou, se tal não for possível, na embalagem ou num documento que o acompanhe, em violação do previsto na alínea c) do artigo 10.º;\n\nvii) O incumprimento dos requisitos de acessibilidade aplicáveis, derivado das condições de armazenamento ou de transporte, em violação do previsto na alínea d) do artigo 10.º;\n\nviii) A disponibilização no mercado de um produto que não cumpre os requisitos de acessibilidade aplicáveis previstos no presente decreto-lei, até que seja assegurada a sua conformidade, ou a falta de informação desse facto ao fabricante, ao importador e às autoridades de fiscalização do mercado, em violação do disposto na alínea e) do artigo 10.º;\n\nix) A não adoção das medidas corretivas necessárias para garantir a conformidade de um produto ou para o retirar do mercado, informando desse facto as autoridades nacionais competentes e fornecendo-lhes as informações necessárias, em violação do disposto na alínea f) do artigo 10.º;\n\nx) A não disponibilização às autoridades competentes quando solicitado e fundamentado, e no prazo fixado para o efeito, de toda a informação e documentação, nomeadamente em língua portuguesa, necessária para demonstrar a conformidade do produto, durante cinco anos após a colocação do produto no mercado, em violação do disposto na alínea i) do artigo 10.º;\n\nxi) A falta de cooperação com as entidades responsáveis pela fiscalização em qualquer ação destinada a suprir o incumprimento dos requisitos de acessibilidade aplicáveis aos produtos disponibilizados no mercado, em violação do disposto na alínea j) do artigo 10.º\n\nf) As praticadas pelos prestadores de serviços, nos seguintes termos:\n\ni) A não elaboração das informações e explicações, incluindo a forma de disponibilização das mesmas, em violação do disposto na alínea a) do n.º 2 do artigo 13.º;\n\nii) A não consecução da existência de procedimentos para que a prestação de serviços se mantenha conforme com os requisitos de acessibilidade aplicáveis, em violação do disposto na alínea b) do n.º 2 do artigo 13.º;\n\niii) A não adoção das medidas corretivas necessárias para garantir a conformidade de um serviço, informando desse facto as autoridades nacionais competentes e fornecendo-lhes as informações necessárias, em violação do previsto na alínea c) do n.º 2 do artigo 13.º;\n\niv) A não disponibilização às entidades responsáveis pela fiscalização quando solicitado e fundamentado, e no prazo fixado para o efeito, de toda a informação e documentação, nomeadamente em língua portuguesa, necessária para demonstrar a conformidade do serviço, em violação do disposto na alínea d) do n.º 2 do artigo 13.º;\n\nv) A falta de cooperação com as entidades responsáveis pela fiscalização em qualquer ação destinada a suprir o incumprimento dos requisitos de acessibilidade aplicáveis aos serviços que tenham disponibilizado no mercado, em violação do disposto na alínea e) do n.º 2 do artigo 13.º\n\n2 - A cada escalão classificativo de gravidade das infrações corresponde uma coima aplicável de acordo com os seguintes critérios:\n\na) Contraordenação grave:\n\ni) Tratando-se de pessoa singular, de (euro) 650 a (euro) 1500;\n\nii) Tratando-se de pessoa coletiva, de (euro) 12 000 a (euro) 24 000;\n\nb) Contraordenação muito grave:\n\ni) Tratando-se de pessoa singular, de (euro) 2000 até ao limiar máximo previsto no Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual;\n\nii) Tratando-se de pessoa coletiva, de (euro) 24 000 até ao limiar máximo previsto no Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual.\n\n3 - Constituem contraordenações graves as infrações previstas no n.º 1, salvo as que se referem no número seguinte.\n\n4 - Constituem contraordenações muito graves as infrações previstas:\n\na) Nas alíneas a) e b) do n.º 1;\n\nb) Nas subalíneas i), ii), iii), v), vi), vii), xi), xii), xiii) e xiv) da alínea c) do n.º 1;\n\nc) Nas subalíneas i), ii), ix), x), xi), xii), xiii) e xiv) da alínea d) do n.º 1;\n\nd) Nas subalíneas vii), viii), ix), x) e xi) da alínea e) do n.º 1;\n\ne) Nas subalíneas iii), iv) e v) da alínea f) do n.º 1.\n\n5 - A reincidência, o número de unidades de produtos ou serviços não conformes com os requisitos de acessibilidade, incluindo o número de pessoas afetadas, são considerados para efeitos da fixação da medida concreta da coima.\n\n6 - A tentativa e a negligência são puníveis, sendo os limites mínimo e máximo reduzidos para metade.\n\n7 - Caso a contraordenação resulte da omissão de um dever, o pagamento da coima e a aplicação da sanção não dispensam o infrator do seu cumprimento, se este ainda for possível.\n\n8 - Simultaneamente com a coima, e em função da gravidade da infração e da culpa do agente, podem ser aplicadas sanções acessórias nos termos do Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual.\n\n9 - Sem prejuízo da natureza da ou das sanções acessórias a aplicar em cada caso, há sempre lugar à publicidade da decisão condenatória, a expensas do infrator, designadamente em dois jornais de âmbito nacional."
+  },
+  "206896617": {
+   "fragment_id": "206867121",
+   "type": 11,
+   "heading": "Artigo 30.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Direito subsidiário\n\nEm tudo o que não estiver especialmente regulado no regime contraordenacional previsto no presente capítulo é subsidiariamente aplicável o Decreto-Lei n.º 433/82, de 27 de outubro, na sua redação atual."
+  },
+  "206896618": {
+   "fragment_id": "206867122",
+   "type": 11,
+   "heading": "Artigo 31.º — Instrução e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Instrução e aplicação das coimas\n\n1 - A instrução dos processos de contraordenação previstos no presente decreto-lei compete às entidades responsáveis pela fiscalização, nos termos das suas atribuições.\n\n2 - Na falta de disposição estatutária ou previsão expressa em regime legal próprio, a aplicação das coimas e sanções acessórias compete aos dirigentes ou órgãos máximos das entidades responsáveis pela fiscalização."
+  },
+  "206896619": {
+   "fragment_id": "206867123",
+   "type": 11,
+   "heading": "Artigo 32.º — Destino das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Destino das coimas\n\n1 - O produto das coimas aplicadas pela prática das contraordenações previstas no presente decreto-lei é repartido da seguinte forma:\n\na) 40 % para o Estado;\n\nb) 10 % para a entidade que levanta o auto;\n\nc) 30 % para as entidades responsáveis pela instrução dos processos de contraordenação;\n\nd) 10 % para o INR, I. P.;\n\ne) 10 % para o fundo de apoio à pessoa com deficiência.\n\n2 - O produto das coimas cobradas nas Regiões Autónomas no âmbito da aplicação do presente decreto-lei, na percentagem correspondente ao Estado, constitui receita própria das Regiões Autónomas."
+  },
+  "206896620": {
+   "fragment_id": "206867124",
+   "type": 11,
+   "heading": "Artigo 33.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Registo\n\n1 - As entidades competentes para a decisão dos processos de contraordenação organizam e mantêm o registo de decisões condenatórias definitivas ou transitadas em julgado, com menção das respetivas coimas e sanções acessórias aplicadas.\n\n2 - O registo deve processar-se no estrito respeito pelos princípios da legalidade, veracidade e segurança das informações recolhidas."
+  },
+  "206896621": {
+   "fragment_id": "206867125",
+   "type": 11,
+   "heading": "Artigo 34.º — Denúncia por incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Denúncia por incumprimento\n\nSem prejuízo do disposto no Decreto-Lei n.º 156/2005, de 15 de setembro, na sua redação atual, e do acesso aos meios judiciais competentes, os consumidores dos produtos e serviços abrangidos pelo presente decreto-lei, individualmente ou em conjunto com as associações e organizações representativas dos interesses dos consumidores ou de pessoas com deficiência, ou essas associações e organizações em seu nome, podem apresentar queixa às entidades identificadas no artigo 28.º, com fundamento no incumprimento das disposições previstas no presente decreto-lei, na falta de resposta atempada e fundamentada às reclamações previamente apresentadas ou na falta de resolução satisfatória destas."
+  },
+  "206896622": {
+   "fragment_id": "206867126",
+   "type": 11,
+   "heading": "Artigo 35.º — Exceção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Exceção\n\nSem prejuízo do disposto no capítulo x, o disposto no presente capítulo não é aplicável a procedimentos de adjudicação abrangidos pelo Decreto-Lei n.º 111-B/2017, de 31 de outubro, na sua redação atual, que transpõe para a ordem jurídica interna as Diretivas 2014/24/UE e 2014/25/UE, ambas do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, aplicando-se, nesta sede, as disposições nele previstas."
+  },
+  "206896623": {
+   "fragment_id": "206867127",
+   "type": 1,
+   "heading": "Capítulo XII — Acompanhamento e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Acompanhamento e monitorização"
+  },
+  "206896624": {
+   "fragment_id": "206867128",
+   "type": 11,
+   "heading": "Artigo 36.º — Acompanhamento e monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Acompanhamento e monitorização\n\n1 - O INR, I. P., é o organismo responsável pelo acompanhamento da aplicação do regime previsto no presente decreto-lei, e respetiva monitorização.\n\n2 - Compete ao INR, I. P.:\n\na) Garantir o encaminhamento das queixas e reclamações às entidades referidas no artigo 28.º, quando lhes dirigidas diretamente;\n\nb) Divulgar informação pertinente relativa aos requisitos de acessibilidade dos produtos e serviços previstos no presente decreto-lei, nomeadamente para suporte dos consumidores, a publicar no seu sítio eletrónico institucional;\n\nc) Colaborar com as entidades responsáveis pela fiscalização, nomeadamente pela emissão de pareceres não vinculativos acerca da definição dos requisitos de acessibilidade dos produtos e serviços visados pelo presente decreto-lei, sempre que no exercício das suas funções aqueles organismos o solicitem, tendo por base, nomeadamente, a informação prestada por aquelas, podendo, para o efeito, recorrer a entidades com conhecimento técnico na matéria;\n\nd) Cooperar e garantir a articulação de informação pertinente junto das entidades responsáveis pela fiscalização;\n\ne) Emitir, a partir de 2026, até 31 de março de cada ano civil, um relatório anual relativo à aplicação do presente decreto-lei, com base nos dados e informações fornecidos pelas entidades responsáveis pela fiscalização, a publicar no respetivo sítio eletrónico institucional, e do qual devem constar, nomeadamente:\n\ni) Os operadores económicos que não respeitaram os requisitos de acessibilidade;\n\nii) Impacto das alterações fundamentais de produtos e serviços e encargos desproporcionados para os operadores económicos, incluindo a quantificação e identificação daqueles que invocaram a exceção prevista no artigo 14.º;\n\niii) Natureza e quantitativo de queixas e reclamações registadas e estado das mesmas, por entidades visadas;\n\niv) Natureza e quantitativo de processos de contraordenação registados, incluindo valores, bem como as sanções acessórias registadas pelas entidades visadas;\n\nv) Quantitativo de unidades de produtos ou serviços não conformes com os requisitos de acessibilidade, bem como o número de consumidores afetados;\n\nvi) Número de pareceres não vinculativos emitidos, por entidades visadas;\n\nvii) Análise geral das incidências;\n\nviii) Conclusões e recomendações."
+  },
+  "206896625": {
+   "fragment_id": "206867129",
+   "type": 1,
+   "heading": "Capítulo XIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIII — Disposições finais e transitórias"
+  },
+  "206896626": {
+   "fragment_id": "206867130",
+   "type": 11,
+   "heading": "Artigo 37.º — Atos normativos conexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Atos normativos conexos\n\nNo prazo de 90 dias após a publicação do presente decreto-lei, os membros do Governo responsáveis pelas áreas das finanças, da economia e do mar, da cultura, do trabalho, solidariedade e segurança social, das infraestruturas e da habitação e da coesão territorial definem, através de portaria:\n\na) Os requisitos de acessibilidade dos produtos e serviços, incluindo exemplos indicativos de soluções possíveis que contribuam para o cumprimento dos requisitos de acessibilidade respetivos a que se referem os artigos 4.º e 26.º;\n\nb) Os critérios para a avaliação do caráter desproporcionado de encargo a que se refere os artigos 14.º e 19.º"
+  },
+  "206896627": {
+   "fragment_id": "206867131",
+   "type": 11,
+   "heading": "Artigo 38.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Disposições transitórias\n\n1 - Sem prejuízo do disposto no n.º 4, os prestadores de serviços cujas instalações se encontrem legalmente em uso até à data de produção de efeitos do presente decreto-lei podem continuar a prestar os serviços nele abrangidos, utilizando produtos por eles licitamente utilizados para prestar serviços semelhantes, até 28 de junho de 2030.\n\n2 - O disposto no presente decreto-lei não é aplicável aos contratos de prestação de serviços celebrados antes da sua entrada em vigor, sem prejuízo do disposto no número seguinte.\n\n3 - A vigência dos contratos a que alude o número anterior não pode ultrapassar a data de 28 de junho de 2030.\n\n4 - Os terminais de autosserviço utilizados por prestadores de serviços na prestação de serviços antes da data de produção de efeitos do presente decreto-lei podem continuar a ser utilizados na prestação desses serviços até ao final da sua duração de vida útil económica, não podendo esse período ser superior a 20 anos após a sua entrada em serviço."
+  },
+  "206896628": {
+   "fragment_id": "206867132",
+   "type": 11,
+   "heading": "Artigo 39.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos a partir de 28 de junho de 2025 relativamente aos produtos colocados no mercado e aos serviços prestados aos consumidores a partir desta data, sem prejuízo do disposto no número seguinte.\n\n2 - As obrigações previstas no artigo 4.º, relativas ao atendimento e tratamento das comunicações de emergência dirigidas ao número único europeu de emergência «112» pelo ponto de atendimento de segurança pública mais adequado, produzem efeitos a partir de 28 de junho de 2027."
+  },
+  "206896629": {
+   "fragment_id": "206867133",
+   "type": 11,
+   "heading": "Artigo 40.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte à sua publicação."
+  },
+  "206896631": {
+   "fragment_id": "206867135",
+   "type": 14,
+   "heading": "Anexo I — (a que se referem os artigos 7.º, 9.º e 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se referem os artigos 7.º, 9.º e 16.º)\n\nProcedimento de avaliação da conformidade - Produtos\n\n1 - Controlo interno da produção:\n\nProcedimento de avaliação da conformidade através do qual o fabricante cumpre as obrigações previstas nos n.os 2, 3 e 4 do presente anexo e garante e declara, sob a sua exclusiva responsabilidade, que o produto em causa cumpre os requisitos previstos no presente decreto-lei.\n\n2 - Documentação técnica:\n\n2.1 - É elaborada pelo fabricante.\n\n2.2 - Permite avaliar a conformidade do produto com os requisitos de acessibilidade aplicáveis referidos no artigo 4.º, bem como, no caso de o fabricante invocar o artigo 14.º, demonstrar que o cumprimento dos requisitos de acessibilidade aplicáveis implicaria uma alteração fundamental ou imporia um encargo desproporcionado.\n\n2.3 - Especifica apenas os requisitos aplicáveis e abrange, na medida em que tal seja necessário para a avaliação, a conceção, o fabrico e o funcionamento do produto.\n\n2.4 - A documentação técnica inclui, se for esse o caso, pelo menos os seguintes elementos:\n\na) Uma descrição geral do produto;\n\nb) Uma lista das normas harmonizadas e de especificações técnicas cujas referências tenham sido publicadas no Jornal Oficial da União Europeia, aplicadas total ou parcialmente, e descrições das soluções adotadas para cumprir os requisitos de acessibilidade aplicáveis referidos no artigo 4.º, caso essas normas harmonizadas ou especificações técnicas não tenham sido aplicadas; no caso de terem sido parcialmente aplicadas normas harmonizadas ou especificações técnicas, a documentação técnica deve especificar as partes que foram aplicadas.\n\n3 - Fabrico:\n\nO fabricante adota as medidas necessárias para que o processo de fabrico e o respetivo controlo garantam a conformidade dos produtos com a documentação técnica mencionada no n.º 2 do presente anexo e com os requisitos de acessibilidade previstos no presente decreto-lei.\n\n4 - Marcação CE de conformidade e declaração UE de conformidade:\n\n4.1 - O fabricante apõe a marcação CE individualmente em cada produto que cumpra os requisitos previstos no presente decreto-lei que lhe são aplicáveis.\n\n4.2 - O fabricante elabora uma declaração UE de conformidade escrita para um modelo de produtos. A declaração UE de conformidade especifica o produto para o qual foi elaborada.\n\n4.3 - É fornecida às autoridades competentes, a seu pedido, uma cópia da declaração UE de conformidade.\n\n5 - Mandatário:\n\nAs obrigações do fabricante enunciadas no n.º 4 podem ser cumpridas, em seu nome e sob a sua responsabilidade, pelo respetivo mandatário, desde que se encontrem especificadas no seu mandato."
+  },
+  "206896632": {
+   "fragment_id": "206867136",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 13.º)\n\nInformações sobre serviços que satisfazem os requisitos de acessibilidade\n\n1 - O prestador de serviços deve fornecer as informações que permitem avaliar a forma como o serviço cumpre os requisitos de acessibilidade previstos no artigo 4.º, incluindo-as nos termos e condições gerais ou em documento equivalente.\n\n2 - As informações descrevem os requisitos aplicáveis e abrangem, na medida em que tal seja necessário para a avaliação, a conceção e o funcionamento do serviço. Para além das informações aos consumidores exigidas nos termos do Decreto-Lei n.º 24/2014, de 14 de fevereiro, na sua redação atual, que transpôs para a ordem jurídica interna a Diretiva 2011/83/UE do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, essas informações incluem, se aplicável, os seguintes elementos:\n\na) Uma descrição geral do serviço em formatos acessíveis;\n\nb) As descrições e explicações necessárias para compreender o funcionamento do serviço;\n\nc) Uma descrição da forma como o serviço cumpre os requisitos de acessibilidade definidos no anexo i.\n\n3 - Para dar cumprimento ao n.º 1 do presente anexo, o prestador de serviços pode aplicar, na totalidade ou em parte, as normas harmonizadas e as especificações técnicas cujas referências tenham sido publicadas no Jornal Oficial da União Europeia.\n\n4 - O prestador do serviço deve fornecer informações que demonstrem que o processo de prestação do serviço e o respetivo controlo garantem que o serviço cumpre o disposto no n.º 1 do presente anexo e os requisitos previstos no presente decreto-lei que lhe são aplicáveis.\n\n115935936"
+  }
+ }
+}

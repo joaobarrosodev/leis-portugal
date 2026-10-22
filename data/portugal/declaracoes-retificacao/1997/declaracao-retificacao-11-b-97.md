@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:149605:por
+title: Declaração de Rectificação n.º 11-B/97
+short_title: null
+summary: De ter sido rectificado o Decreto-Lei n.º 165/97, do Ministério da Cultura, que aprova o estatuto da Cinemateca Portuguesa-Museu
+  do Cinema, do Ministério da Cultura, publicado no Diário da República, 1.ª série, n.º 147, de 28 de Junho de 1997
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 11-B/97
+official_date: null
+publication_date: '1997-06-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/1997, 5º Suplemento, Série I-A de 1997-06-30
+  number: '148'
+  series: I
+  supplement: 5º Suplemento
+  pages: 3190-(14) a 3190-(14)
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/06/148a05/00140014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/11-b/1997/06/30/p/dre/pt/html
+  oj: null
+  dre: '149605'
+  dre_path: /dr/detalhe/declaracao-rectificacao/11-b-1997-149605
+  internal: pt:dre:149605:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-b-1997-149605
+  metadata_url: https://data.dre.pt/eli/declrectif/11-b/1997/06/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-b-1997-149605
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-06-30T00:00:00Z'
+integrity:
+  source_sha256: 8e4fb1031b785ed67126e8655e2bd11712d5ecea98bd00cdabd765cfa2613344
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-11-B-149605.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autonomia Administrativa
+- Autonomia Financeira
+- Contrato Individual de Trabalho
+- Empresa Pública
+- Património Cultural
+- Produção Cinematográfica
+- Cinemateca Portuguesa-Museu do Cinema
+- Fiscalização
+- Ministro da Cultura
+- Orgânica
+- Plano Oficial de Contabilidade
+- Prestação de Serviços
+- Receita Própria
+- Regime Jurídico
+- Cinema
+- Indústria Cinematográfica
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/165/1997/06/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/165/1997/06/28/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 11-B/97
+
+Para os devidos efeitos se declara que o [Decreto-Lei n.º 165/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/165-1997-161479), publicado no Diário da República, 1.ª série, n.º 147, de 28 de Junho de 1997, cujo original foi submetido a promulgação e se encontra arquivado nesta Secretaria-Geral, saiu com inexactidões no artigo 34.º, pelo que se procede à republicação deste artigo:
+
+«Artigo 34.º
+
+Sucessão e integração de imóveis
+
+1 - A Cinemateca Portuguesa-Museu do Cinema sucede na universalidade dos direitos e obrigações da Cinemateca Portuguesa.
+
+2 - A sucessão opera-se por força do presente diploma, o qual constitui título bastante para todos os efeitos legais, incluindo os de registo.
+
+3 - Por efeito deste diploma, e sem dependência de outras formalidades, são ainda integrados no património da Cinemateca Portuguesa-Museu do Cinema os seguintes imóveis acompanhados de todas as partes integrantes e coisas acessórias:
+
+a) Edifício n.º 39, Rua de Barata Salgueiro, sede da Cinemateca Portuguesa desde 1980, descrito na 5.ª Conservatória do Registo Predial de Lisboa sob o n.º 5007 e inscrito na respectiva matriz sob o artigo 667;
+
+b) O prédio rústico Quinta da Cerca, sito no Freixial, freguesia de Bucelas, concelho de Loures, com todos os edifícios nele implantados, e onde está instalado o Departamento de Arquivo Nacional das Imagens em Movimento desde a sua criação, descrito na 2.ª Conservatória do Registo Predial de Loures sob o n.º 9422 e inscrito na matriz sob o artigo 28 da secção Y.
+
+4 - O presente diploma é título bastante para a comprovação do estatuído no número anterior, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos.»
+
+Secretaria-Geral da Presidência do Conselho de Ministros, 30 de Junho de 1997. - O Secretário-Geral, Alexandre Figueiredo.

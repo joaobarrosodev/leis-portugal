@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: pt:dre:138548:por
+title: Portaria n.º 111/95
+short_title: null
+summary: Estabelece disposições relativas ao controlo de circulação dos produtos do sector vitivinícola ao abrigo das disposições
+  conjugadas do Regulamento (CEE) n.º 2238/93, da Comissão, de 26 de Julho, e do Decreto-Lei n.º 102/93, de 26 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura
+proposing_entity: null
+official_number: 111/95
+official_date: null
+publication_date: '1995-02-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/1995, Série I-B de 1995-02-03
+  number: '29'
+  series: I
+  supplement: null
+  pages: 670 - 671
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/02/029b00/06700671.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/111/1995/02/03/p/dre/pt/html
+  oj: null
+  dre: '138548'
+  dre_path: /dr/detalhe/portaria/111-1995-138548
+  internal: pt:dre:138548:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-1995-138548
+  metadata_url: https://data.dre.pt/eli/port/111/1995/02/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-1995-138548
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-09-30T00:00:00Z'
+integrity:
+  source_sha256: ffde31ff8dc1ed9ea4628cea7c8e23040e3fde07ddd250ea526828d04befc2d9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-111-138548.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bebida Alcoólica
+- CEE
+- Vinho
+- Circulação de Mercadorias
+- Política Agrícola Comum
+- Regulamento CE
+- Produto Vitivinícola
+relationships:
+- type: amended_by
+  target: pt:dre:516569:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31987R3929
+  label: null
+  source: http://data.europa.eu/eli/reg/1987/3929/oj
+- type: cites
+  target: celex:31992L0011
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/11/oj
+- type: cites
+  target: celex:31992R2719
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2719/oj
+- type: cites
+  target: celex:31992R3649
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/3649/oj
+- type: cites
+  target: celex:31993R2238
+  label: null
+  source: http://data.europa.eu/eli/reg/1993/2238/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 111/95
+
+de 3 de Fevereiro
+
+O estabelecimento do mercado único, com a consequente abolição das fronteiras entre os Estados membros, obrigou à harmonização fiscal na Comunidade e à instituição do novo regime de impostos especiais sobre o consumo de bebidas alcoólicas.
+
+Através dos Decretos-Leis n.os 52/93, de 26 de Fevereiro, e 104/93, de 5 de Abril, procedeu-se à transposição desta matéria para a ordem jurídica interna, transferindo-se para o domínio fiscal o controlo da circulação de parte dos produtos do sector vitivinícola.
+
+Impõe, todavia, o Regulamento (CEE) n.º [2238/93](https://data.europa.eu/eli/reg/1993/2238/oj?locale=pt), da Comissão, de 26 de Julho, que as instâncias nacionais responsáveis pela verificação da obediência ao conjunto das regras da organização comum do mercado vitivinícola controlem, igualmente, os documentos que acompanham o trânsito dos produtos do sector, bem como os registos mantidos pelas pessoas singulares ou colectivas que detenham esses produtos.
+
+Deste modo, usando da flexibilidade que o referido Regulamento permite, torna-se agora necessário adaptá-lo às realidades institucional e produtiva nacionais.
+
+Assim, ao abrigo das disposições conjugadas do Regulamento (CEE) n.º [2238/93](https://data.europa.eu/eli/reg/1993/2238/oj?locale=pt) e do Decreto-Lei n.º 102/93, de 26 de Novembro, e ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira:
+
+Manda o Governo, pelos Ministros das Finanças e da Agricultura, o seguinte:
+
+1.º São instâncias vitivinícolas competentes para aplicação do Regulamento (CEE) n.º [2238/93](https://data.europa.eu/eli/reg/1993/2238/oj?locale=pt), da Comissão, de 26 de Julho, os seguintes organismos:
+
+a) O Instituto da Vinha e do Vinho (IVV), para todos os produtos do sector vitivinícola, incluindo as aguardentes e alcoóis vínicos produzidos, armazenados ou que circulem no território nacional;
+
+b) O Instituto do Vinho do Porto (IVP), para o vinho do Porto, bem como para os produtos utilizados ou susceptíveis de ser utilizados na sua laboração, armazenados ou em circulação na região demarcada do Douro, no entreposto de Gaia ou entre eles;
+
+c) As comissões vitivinícolas regionais (CVR), para os produtos vínicos que lhes compete controlar, bem como para os produtos utilizados na sua laboração;
+
+d) O Instituto do Vinho da Madeira (IVM), para todos os produtos do sector vitivinícola, incluindo aguardentes e alcoóis vínicos, produzidos, armazenados ou em circulação na Região Autónoma da Madeira;
+
+e) A Direcção Regional de Desenvolvimento Agrário (DRDA), da Secretaria Regional de Agricultura e Pescas, para todos os produtos do sector vitivinícola, incluindo aguardentes e alcoóis vínicos, produzidos, armazenados ou em circulação na Região Autónoma dos Açores.
+
+2.º O documento de acompanhamento previsto no n.º 3 do artigo 3.º do Regulamento (CEE) n.º [2238/93](https://data.europa.eu/eli/reg/1993/2238/oj?locale=pt), cujo modelo consta do seu anexo III, é obrigatoriamente utilizado nos transportes que se iniciem em território nacional de:
+
+a) Produtos não sujeitos a impostos especiais de consumo, nomeadamente uvas, sumos de uvas, mostos de uvas, borras de vinho e bagaços de uvas;
+
+b) Vinhos de produtores que produzam em média menos de 1000 hl por ano;
+
+c) Vinho do Porto não sujeito às formalidades de circulação previstas na Directiva n.º [92/11/CEE](https://data.europa.eu/eli/dir/1992/11/oj?locale=pt) , do Conselho, de 25 de Fevereiro.
+
+3.º Os documentos a que se referem os Regulamentos (CEE) da Comissão n.os [2719/92](https://data.europa.eu/eli/reg/1992/2719/oj?locale=pt), de 11 de Setembro, e [3649/92](https://data.europa.eu/eli/reg/1992/3649/oj?locale=pt), de 17 de Dezembro, e o anexo III do Regulamento (CEE) n.º [2238/93](https://data.europa.eu/eli/reg/1993/2238/oj?locale=pt), que acompanham o transporte de um produto vitivinícola a granel, que se inicie em território nacional, só se consideram devidamente preenchidos quando previamente validados, em cada transporte, pelo visto da instância vitivinícola competente que deve reter uma cópia do mesmo e que, no caso de o local de destino se situar fora da sua área geográfica de actuação, deve informar, consoante o caso, o IVV, o IVP, o IVM ou a DRDA, até ao 1.º dia útil seguinte à validação.
+
+4.º Após o pagamento às instâncias vitivinícolas competentes das taxas legalmente estabelecidas, o trânsito com início e termo em território nacional dos vinhos tributados com imposto especial de consumo com taxa zero, embalados em recipientes com um volume nominal inferior ou igual a 10 l, rotulados e munidos de dispositivo de fecho não recuperável, pode ser acompanhado por guias de remessa ou documentos equivalentes, emitidos pelo expedidor, que contenham a informação requerida nos campos 1 a 9 do anexo III do Regulamento (CEE) n.º [2238/93](https://data.europa.eu/eli/reg/1993/2238/oj?locale=pt).
+
+5.º Na utilização de qualquer dos documentos de acompanhamento referidos no n.º 4.º do presente diploma, para além das regras previstas no artigo 8.º do Regulamento (CEE) n.º [2238/93](https://data.europa.eu/eli/reg/1993/2238/oj?locale=pt), e em prejuízo do disposto no número anterior, é obrigatório que:
+
+a) O expedidor envie, consoante o caso, ao IVV, ao IVP, ao IVM ou à DRDA, até ao 1.º dia útil seguinte ao da expedição, cópia do documento de acompanhamento utilizado para o transporte, com origem em território nacional, de produtos vitivinícolas contidos em recipientes com um volume nominal inferior ou igual a 10 l, devidamente rotulados;
+
+b) O destinatário envie, consoante o caso, ao IVV, ao IVP, ao IVM ou a DRDA, até ao 1.º dia útil seguinte ao da recepção, cópia do documento de acompanhamento utilizado para o transporte de produtos vitivinícolas com origem noutro Estado membro ou num país terceiro e que terminem em território nacional.
+
+6.º No transporte de uvas, esmagadas ou não, mesmo que se verifique mudança da sua titularidade, não é exigido qualquer documento de acompanhamento desde que o trânsito se efectue no interior de uma região controlada pela mesma instância vitivinícola competente, ate à distância máxima de 40 km, com excepção do transporte de uvas no interior da Região Demarcada do Douro, caso em que poderá ser exigido o documento de acompanhamento, nos termos a estabelecer pelo IVP.
+
+7.º No transporte de produtos vitivinícolas aptos a darem origem a um vinho de qualidade produzido numa região determinada ou a um vinho de mesa regional, a respectiva instância vitivinícola competente deve certificar tal aptidão no espaço do documento de acompanhamento reservado para o efeito.
+
+8.º A Direcção-Geral das Alfândegas, o IVV, o IVP, o IVM e a DRDA estabelecerão os sistemas de cooperação administrativa necessários à correcta aplicação da presente portaria.
+
+9.º O IVV, o IVP, o IVM e a DRDA ficam autorizados a atribuir o número de referência pré-impresso aos documentos citados no n.º 3.º e proceder à respectiva venda, bem como a determinar as indicações que devem constar dos mesmos.
+
+10.º As instâncias vitivinícolas competentes podem autorizar os produtores que não ultrapassem uma produção anual média de 100 hl de vinho a estabelecerem os registos mediante anotações inscritas no verso das declarações de colheita, de produção ou de existências, previstas no Regulamento (CEE) n.º [3929/87](https://data.europa.eu/eli/reg/1987/3929/oj?locale=pt), da Comissão, de 17 de Dezembro.
+
+11.º O IVV, o IVP, o IVM ou a DRDA são as instâncias vitivinícolas competentes para aplicar o procedimento previsto no n.º 1 do artigo 5.º, nos n.os 5 e 6 do artigo 6.º e no n.º 2 do artigo 17.º do Regulamento (CEE) n.º [2238/93](https://data.europa.eu/eli/reg/1993/2238/oj?locale=pt), nomeadamente para:
+
+a) Recusar o visto ao documento de acompanhamento de um produto vitivinícola ou condicionar a sua utilização ulterior sempre que se verifique que foi cometida uma infracção grave às normas comunitárias ou às normas nacionais adoptadas em conformidade com as mesmas ou se o transporte de um produto vitivinícola se efectuar sem o documento de acompanhamento a que está obrigado ou ainda se este contiver indicações falsas, erradas ou incompletas;
+
+b) Determinar, nos casos supramencionados, que os registos a manter pelo agente económico infractor sejam preenchidos pela instância vitivinícola competente ou por um organismo habilitado para o efeito;
+
+c) Suspender ou impedir a efectivação do transporte de um produto vitivinícola, caso não seja possível regularizar o documento que o acompanha.
+
+12.º Os documentos de acompanhamento a que se refere o n.º 3.º substituem, para os efeitos referidos na presente portaria, as guias de trânsito instituídas pela Portaria n.º 21010, de 25 de Dezembro de 1964, e previstas na Portaria n.º 769/86, de 30 de Dezembro.
+
+Ministérios das Finanças e da Agricultura.
+
+**Assinada em 11 de Janeiro de 1995.**
+
+Pelo Ministro das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais. - Pelo Ministro da Agricultura, Luís António Damásio Capoulas, Secretário de Estado dos Mercados Agrícolas e Qualidade Alimentar.

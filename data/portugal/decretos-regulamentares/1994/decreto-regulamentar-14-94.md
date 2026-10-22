@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:304552:por
+title: Decreto Regulamentar n.º 14/94
+short_title: null
+summary: Altera a Área Crítica de Recuperação e Reconversão Urbanística do Concelho do Porto
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 14/94
+official_date: null
+publication_date: '1994-06-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/1994, Série I-B de 1994-06-17
+  number: '138'
+  series: I
+  supplement: null
+  pages: 3171 - 3171
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/06/138b00/31713171.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/14/1994/06/17/p/dre/pt/html
+  oj: null
+  dre: '304552'
+  dre_path: /dr/detalhe/decreto-regulamentar/14-1994-304552
+  internal: pt:dre:304552:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1994-304552
+  metadata_url: https://data.dre.pt/eli/decregul/14/1994/06/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-1994-304552
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-06-17T00:00:00Z'
+integrity:
+  source_sha256: 052ce9de642e152121f6f42b6246028dbc15bc8f224c43e3fd9bc29ee5f736ec
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-14-304552.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ÁREA Crítica de Recuperação e Reconversão Urbanística
+- Porto
+- ZONA Degradada
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 14/94
+
+de 17 de Junho
+
+O [Decreto Regulamentar n.º 54/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1985-180400), de 12 de Agosto, declarou como áreas de recuperação e reconversão urbanística oito zonas do Centro Histórico da Cidade do Porto.
+
+A Câmara Municipal do Porto solicitou posteriormente ao Governo a ampliação da área fixada no referido diploma, por forma a fazer coincidir a Área Crítica de Recuperação e Reconversão Urbanística com a zona de intervenção do Comissariado para a Reconversão Urbana da Área Ribeiro-Barredo.
+
+Assim:
+
+Nos termos da alínea c) do artigo 202.º da Constituição e ao abrigo do artigo 41.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, o Governo decreta o seguinte:
+
+###### Artigo único - 1 - É alterada a Área Crítica de Recuperação e Reconversão Urbanística do Concelho do Porto.
+
+2 - A Área referida no número anterior encontra-se limitada do seguinte modo:
+
+a) A norte, pela Rua da Restauração, Rua do Professor Vicente José de Carvalho, Rua do Carmo, Praça de Gomes Teixeira, Rua das Carmelitas, Rua dos Clérigos, Praça da Liberdade, Rua de 31 de Janeiro, Praça da Batalha, Rua de Alexandre Herculano e Alameda das Fontainhas;
+
+b) A sul, pelo rio Douro.
+
+3 - Cabe à Câmara Municipal do Porto promover, ouvida a Administração dos Portos do Douro e Leixões, em colaboração com as demais entidades interessadas, o processo de recuperação e reconversão urbanística das referidas áreas.
+
+4 - É revogado o [Decreto Regulamentar n.º 54/85](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/54-1985-180400), de 12 de Agosto.
+
+Presidência do Conselho de Ministros, 18 de Abril de 1994.
+
+Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira.
+
+**Promulgado em 18 de Maio de 1994.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 23 de Maio de 1994.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/06/138b00/31713171.pdf))](https://files.diariodarepublica.pt/1s/1994/06/138b00/31713171.pdf)

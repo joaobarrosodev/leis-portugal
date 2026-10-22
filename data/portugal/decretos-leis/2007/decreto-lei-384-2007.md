@@ -1,0 +1,381 @@
+---
+schema_version: '1.0'
+id: pt:dre:628369:por
+title: Decreto-Lei n.º 384/2007
+short_title: null
+summary: Cria o dever de informação do segurador ao beneficiário dos contratos de seguros de vida, de acidentes pessoais e
+  das operações de capitalização com beneficiário em caso de morte, bem como cria um registo central destes contratos de seguro
+  e operações de capitalização
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 384/2007
+official_date: null
+publication_date: '2007-11-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 222/2007, Série I de 2007-11-19
+  number: '222'
+  series: I
+  supplement: null
+  pages: 8535 - 8538
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/11/22200/0853508538.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-05-02'
+version_history:
+  file: decreto-lei-384-2007.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-11-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-08-07'
+    amending: pt:dre:498479:por
+    amending_title: Decreto-Lei n.º 112/2013
+    changes:
+    - Adita Artigo 9.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+  - date: '2026-05-02'
+    amending: pt:dre:1092323202:por
+    amending_title: Lei n.º 14/2026
+    changes:
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/384/2007/p/cons/20260427/pt/html
+  oj: null
+  dre: '628369'
+  dre_path: /dr/detalhe/decreto-lei/384-2007-628369
+  internal: pt:dre:628369:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/384-2007-628369
+  metadata_url: https://data.dre.pt/eli/dec-lei/384/2007/p/cons/20260427/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-137784371
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-137784371
+  retrieved_at: '2026-10-22T12:33:17Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a7e6bab9babc6f84095f8ffb8bc68a9035bb61f85b1d82e897624fe22d60d929
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:33:17Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-384-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contrato de Seguro
+- Beneficiário
+- Contra-ordenação
+- Fiscalização
+- Seguro
+- Instituto de Seguros de Portugal
+- Operação de Capitalização
+- Informação do Consumidor
+- Companhia de Seguros
+- Seguro de Acidentes Pessoais
+- Seguro de VIDA
+- Óbito
+relationships:
+- type: amended_by
+  target: pt:dre:498479:por
+  label: Adita Artigo 9.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 8.º;
+    Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2013-498479
+  date: '2013-08-06'
+- type: amended_by
+  target: pt:dre:1092323202:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/14-2026-1092323202
+  date: '2026-04-27'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/176/1995/07/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/176/1995/07/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/94-b/1998/04/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+article_structure:
+  article_count: 17
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:33:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 384/2007
+
+Decreto-Lei n.º 384/2007
+
+de 19 de Novembro
+
+O Governo aprovou um decreto-lei que estabelece normas de informação aos beneficiários de seguros de vida e de acidentes pessoais, ou de operações de capitalização, bem como um registo central destes seguros. A contratualização pelos consumidores de um conjunto de serviços com o sistema segurador, nomeadamente no domínio dos seguros e operações do ramo «Vida» e dos seguros de acidentes pessoais é, por vezes, apenas do conhecimento das partes contratantes, ou seja, do tomador do seguro, do segurado, caso não coincidam na mesma pessoa, ou do subscritor e do segurador.
+
+Neste contexto, após o falecimento do segurado ou do subscritor, as importâncias devidas pela ocorrência deste facto não podem ser reclamadas pelos beneficiários, em virtude de os mesmos desconhecerem a existência do contrato de seguro ou da operação de capitalização, ou a sua qualidade de beneficiário.
+
+Actualmente, apesar de os seguradores terem o dever de identificar os beneficiários dos seguros que contratam, de forma a realizarem o pagamento nos termos contratados, não existe um dever legal de os seguradores informarem os beneficiários aquando da morte do segurado ou do subscritor, nos casos em que não foi acautelada esta situação.
+
+Neste sentido, com vista à defesa dos interesses dos consumidores nos contratos de seguro, nas operações de capitalização do ramo «Vida» e nos contratos de seguro de acidentes pessoais, bem como à promoção do acesso à informação e à transparência no cumprimento destes contratos e operações, o Governo entendeu ser necessário reforçar a posição dos beneficiários de seguros de vida e de acidentes pessoais, bem como de operações de capitalização, de modo a facultar o acesso a informação relevante para o pagamento das importâncias devidas pelos seguradores pela ocorrência da morte do segurado ou do subscritor.
+
+Deste modo, e sem prejuízo do disposto no artigo 131.º do Decreto-Lei n.º 94-B/98, de 17 de Abril, o presente decreto-lei estabelece um conjunto mínimo de informações sobre o beneficiário do contrato de seguro que deve constar da apólice, ainda que a cláusula beneficiária do contrato de seguro possa ser alterada durante a vigência do contrato. Comete-se, além disso, aos seguradores um conjunto de obrigações que visam atingir o objectivo proposto pelo decreto-lei.
+
+Por outro lado, cria-se um registo central de contratos de seguro e de operações de capitalização, com beneficiário em caso de morte do segurado ou do subscritor junto do Instituto de Seguros de Portugal, que poderá ser consultado, apenas em caso de morte ou de declaração de morte presumida do segurado ou do subscritor, através de pedido devidamente fundamentado e documentado, pelo próprio detentor da expectativa de ser beneficiário no ou nos contratos de seguro ou operações de capitalização que aquele haja celebrado, ou pelo seu representante legal no caso dos menores ou de outras pessoas incapazes nos termos da lei.
+
+Nos contratos em que o beneficiário não esteja identificado far-se-á menção desse ponto no respectivo certificado. Existindo discrepância entre a informação constante do registo central e as disposições contratuais, estas últimas prevalecem em qualquer caso.
+
+É ainda consagrado um dever de as entidades ou os serviços consultarem o registo sempre que celebrem actos de adjudicação ou partilha de bens adquiridos por sucessão, devendo fazer menção do resultado da consulta realizada no acto público celebrado.
+
+É atribuída ao Instituto de Seguros de Portugal a fiscalização da aplicação do presente decreto-lei.
+
+Foi ouvida a Comissão Nacional de Protecção de Dados.
+
+Foi promovida a audição ao Conselho Nacional do Consumo e à Ordem dos Notários.
+
+Foram ouvidos, a título facultativo, o Instituto de Seguros de Portugal e a Associação Portuguesa de Seguradores.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei visa reforçar a posição do beneficiário de contratos de seguro de vida, de acidentes pessoais e das operações de capitalização, bem como prever a criação de um registo central desses contratos e operações com beneficiários em caso de morte do segurado ou do subscritor e, ainda, estabelecer o direito de acesso à informação nele constante.
+
+###### Artigo 2.º — Âmbito
+
+1 - Estão abrangidos pelo presente decreto-lei os contratos de seguro de vida, de acidentes pessoais e as operações de capitalização, com beneficiários em caso de morte do segurado ou do subscritor, que se encontrem a produzir efeitos à data da sua entrada em vigor, ou que venham a ser celebrados após esta data.
+
+2 - Ficam excluídos do âmbito do presente decreto-lei:
+
+a) Os contratos de seguro de vida e os contratos de seguro de acidentes pessoais celebrados por prazos iguais ou inferiores a dois meses;
+
+b) Os contratos de seguro de vida, os contratos de seguro de acidentes pessoais e as operações de capitalização, durante os prazos de livre resolução previstos no artigo 118.º do regime jurídico do contrato de seguro, aprovado pelo Decreto-Lei n.º 72/2008, de 16 de abril, ou concedidos ao abrigo de outras disposições legais;
+
+c) Os contratos de seguro associados a contratos de crédito, em que existe total e permanente identidade entre o capital seguro e o capital em dívida, sendo, assim, a instituição mutuante a única e exclusiva beneficiária.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2013 - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2013-498479), em vigor a partir de 2013-08-07
+
+### Capítulo II — Protecção de beneficiários em caso de morte do segurado ou do subscritor
+
+###### Artigo 3.º — Identificação do beneficiário
+
+1 - Sem prejuízo do disposto no regime jurídico do contrato de seguro, aprovado pelo Decreto-Lei n.º 72/2008, de 16 de abril, a apólice deve ainda conter os elementos que permitam identificar o beneficiário, caso não seja o ou os herdeiros legais ou quando a cláusula de designação beneficiária não seja genérica, designadamente o nome ou a denominação completos, o domicílio ou a sede, os números de identificação civil e fiscal, sem prejuízo do dispostos nos n.os 1 e 2 do artigo seguinte.
+
+2 - No caso de o tomador do seguro ou o segurado, consoante aquele que disponha do direito, pretender alterar o beneficiário durante a vigência do contrato, deve comunicar por escrito ao segurador essa sua intenção, bem como os elementos referidos no número anterior relativamente ao novo beneficiário.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2013 - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2013-498479), em vigor a partir de 2013-08-07
+
+###### Artigo 4.º — Dever de informação ao tomador do seguro, ao segurado e ao subscritor
+
+1 - Sem prejuízo do disposto no artigo 10.º da Lei n.º 67/98, de 26 de Outubro, o segurador deve informar clara e expressamente o tomador do seguro e o segurado, no caso de não coincidirem na mesma pessoa, sobre os efeitos da falta de indicação do beneficiário e da incorrecção dos elementos de identificação deste.
+
+2 - O segurador está obrigado a disponibilizar no seu sítio da Internet toda a informação referida no número anterior.
+
+3 - [Revogado]
+
+4 - [Revogado]
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2013 - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2013-498479), em vigor a partir de 2013-08-07
+
+###### Artigo 5 — Dever de informação ao beneficiário
+
+1 - O segurador tem o dever de informar o beneficiário, por escrito, da existência do contrato de seguro ou da operação de capitalização, da sua qualidade de beneficiário e do seu direito às importâncias devidas pelo contrato de seguro ou pela operação de capitalização, sempre que tenha conhecimento da morte do segurado ou do subscritor, no prazo de 30 dias após a data do conhecimento.
+
+2 - No caso de impossibilidade comprovada de contacto durante um ano seguido com o tomador do seguro e com o segurado, no caso de não coincidirem na mesma pessoa, ou com o subscritor, o segurador deve informar o beneficiário, no prazo de 30 dias após a última comunicação dirigida àqueles, desde que qualquer deles tenha autorizado expressamente a prestação dessa informação.
+
+3 - O dever de informação previsto no número anterior é igualmente aplicável nas situações em que, decorrido um ano após a data do termo do contrato de seguro ou da operação de capitalização, o tomador do seguro ou o segurado, no caso de não coincidirem na mesma pessoa, ou o subscritor, não exerçam o direito de resgate ou de reembolso do montante que lhes é devido.
+
+4 - O disposto no número anterior não se aplica às situações de denúncia ou de renúncia do contrato.
+
+5 - A comunicação a que o segurador está obrigado nos termos do n.os 1, 2 e 3 destina-se a alertar o beneficiário para os factos aí referidos, bem como para solicitar a fundamentação dos pressupostos da ocorrência do risco coberto pelo seguro.
+
+6 - Após o beneficiário ter comprovado a respectiva qualidade e a ocorrência do risco coberto pelo seguro, o segurador deve diligenciar de imediato todos os procedimentos necessários para o pagamento das importâncias devidas.
+
+7 - Para efeitos do disposto no presente artigo, e atento o prazo estabelecido no n.º 1, o Instituto dos Registos e do Notariado, IP, comunica oficiosamente à Autoridade de Supervisão de Seguros e Fundos de Pensões ou às associações setoriais representativas dos seguradores, mediante protocolo para interconexão de dados, a emissão de certificado de óbito dos seus potenciais segurados ou subscritores.
+
+8 - O protocolo de interconexão de dados previsto no número anterior deve ser definido pelos organismos públicos competentes sob orientação da Agência para a Reforma Tecnológica do Estado, IP, tendo em conta o registo central de contratos de seguros de vida, previsto na Norma Regulamentar do Instituto de Seguros de Portugal n.º 14/2010-R, de 27 de outubro, e com recurso à Plataforma de Interoperabilidade na Administração Pública (iAP), ao abrigo do n.º 13 da Resolução do Conselho de Ministros n.º 42/2015, de 19 de junho.
+
+9 - O protocolo previsto no número anterior é sujeito a parecer prévio da Comissão Nacional de Proteção de Dados.
+
+> Alterado pelo/a Artigo 4.º do/a , em vigor a partir de 2026-05-02.
+
+### Capítulo III
+
+Registo central de contratos de seguro de vida, de acidentes pessoais e de operações de capitalização
+
+###### Artigo 6.º — Criação, natureza e finalidade
+
+1 - É criado o registo central de contratos de seguro de vida, de acidentes pessoais e de operações de capitalização com beneficiários em caso de morte do segurado ou do subscritor.
+
+2 - Sem prejuízo do disposto no artigo 9.º, o registo central previsto no número anterior tem a natureza de registo eletrónico e tem por finalidade possibilitar a obtenção de informação sobre a existência de contrato de seguro de vida, de contrato de seguro de acidentes pessoais ou de operação de capitalização com beneficiário em caso de morte, e sobre a identificação do respetivo segurado ou subscritor e do segurador.
+
+3 - O registo central a que se refere o presente artigo está sujeito a notificação à Comissão Nacional de Protecção de Dados, nos termos do disposto no artigo 27.º da Lei n.º 67/98, de 26 de Outubro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2013 - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2013-498479), em vigor a partir de 2013-08-07
+
+###### Artigo 7.º — Responsável pelo registo central
+
+O Instituto de Seguros de Portugal é a entidade responsável pela criação, manutenção e actualização do registo central previsto no artigo anterior.
+
+###### Artigo 8.º — Informações para efeitos do registo central
+
+Os seguradores que celebrem contratos de seguro de vida, de acidentes pessoais ou operações de capitalização com beneficiários em caso de morte do segurado ou do subscritor, em que Portugal seja o Estado membro do compromisso, devem transmitir ao Instituto de Seguros de Portugal as seguintes informações relativas a cada contrato:
+
+a) Identificação do segurado:
+
+i) Nome;
+
+ii) Número de identificação civil ou de outro documento de identificação, se distinto;
+
+iii) Número de identificação fiscal;
+
+b) Identificação do segurador:
+
+i) Denominação social;
+
+ii) Código estatístico do segurador;
+
+iii) Estado membro a partir do qual foi celebrado;
+
+c) Identificação do contrato de seguro ou da operação de capitalização:
+
+i) Tipo de contrato;
+
+ii) Número ou código de identificação do contrato.
+
+d) [Revogada]
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 112/2013 - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2013-498479), em vigor a partir de 2013-08-07
+
+###### Artigo 9.º — Acesso e divulgação da informação constante do registo central
+
+1 - Qualquer interessado pode obter informação constante do registo central quanto à existência de contrato de seguro ou operação de capitalização em que seja segurado ou subscritor uma pessoa determinada e sobre o segurador com o qual foi contratado.
+
+2 - Para efeitos da obtenção da informação referida no número anterior, o interessado deve apresentar pedido devidamente fundamentado e documentado, em caso de morte ou de declaração de morte presumida do segurado ou do subscritor, comprovada mediante apresentação da correspondente certidão ou declaração.
+
+3 - [Revogado].
+
+4 - O disposto nos n.os 1 e 2 não prejudica o direito de acesso do titular aos seus dados pessoais, nos termos da Lei n.º 67/98, de 26 de outubro.
+
+5 - A informação prevista no artigo anterior está disponível durante a vigência do contrato de seguro ou da operação de capitalização e até à data em que exista qualquer prestação a satisfazer por parte do segurador ao abrigo do contrato de seguro ou da operação de capitalização.
+
+6 - Na sequência do pedido de informação, o Instituto de Seguros de Portugal emite certificado de teor tendo por objecto os dados constantes do registo.
+
+7 - As disposições contratuais prevalecem sobre a informação constante do registo central.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 112/2013 - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2013-498479), em vigor a partir de 2013-08-07
+
+###### Artigo 9.º-A — Informação a solicitação do interessado
+
+1 - Cabe ao interessado que tenha obtido, nos termos do artigo anterior, informação quanto à existência de contrato de seguro ou operação de capitalização em que seja segurado ou subscritor uma pessoa determinada, e mediante a apresentação do respetivo certificado de teor emitido pelo Instituto de Seguros de Portugal, solicitar à empresa de seguros com a qual foi contratado informação sobre a sua qualidade de beneficiário.
+
+2 - O disposto no número anterior não prejudica a possibilidade de o interessado solicitar, a todo o momento, informação a qualquer empresa de seguros sobre a sua qualidade de beneficiário.
+
+3 - No caso de o interessado deter a qualidade de beneficiário, deve a empresa de seguros facultar-lhe a informação necessária para que possa exercer os direitos correspondentes.
+
+4 - No caso de o interessado não deter a qualidade de beneficiário, deve a empresa de seguros limitar-se a transmitir-lhe essa informação.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 112/2013 - Diário da República n.º 150/2013, Série I de 2013-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/112-2013-498479), em vigor a partir de 2013-08-07
+
+###### Artigo 10.º — Dever de informação dos serviços e entidades
+
+Os serviços e entidades que celebrem actos de partilha ou de adjudicação de bens adquiridos por sucessão devem aceder, por meios informáticos e nos termos que venham a ser regulamentados por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça, ao registo central de contratos de seguro de vida, de acidentes pessoais e de operações de capitalização com beneficiários em caso de morte, devendo fazer menção do resultado da referida consulta no acto público celebrado.
+
+### Capítulo IV — Regime contra-ordenacional e fiscalização
+
+###### Artigo 11.º — Contra-ordenações
+
+O incumprimento dos deveres de informação previstos no artigo 4.º, nos n.os 1, 2 e 3 do artigo 5.º e no artigo 8.º constitui contra-ordenação punível nos termos do capítulo ii do título vi do Decreto-Lei n.º 94-B/98, de 17 de Abril.
+
+###### Artigo 12.º — Fiscalização
+
+A fiscalização do disposto no presente decreto-lei e a instrução dos respectivos processos de contra-ordenação é da competência do Instituto de Seguros de Portugal.
+
+### Capítulo V — Disposições finais e transitórias
+
+###### Artigo 13.º — Contratos de seguro e operações de capitalização vigentes
+
+1 - No que se refere aos contratos de seguro e às operações de capitalização referidos no artigo 2.º, os seguradores dispõem de um prazo de 90 dias após a publicação da norma regulamentar referida no artigo 15.º para darem cumprimento ao disposto no artigo 8.º
+
+2 - Em relação aos contratos de seguro que se encontrem a produzir efeitos, e para obtenção do consentimento expresso previsto no n.º 2 do artigo 5.º, devem os seguradores solicitar esse consentimento, por escrito, em sistema de resposta gratuita (RSF), aos tomadores dos seguros, no prazo de 90 dias a partir da data da sua entrada em vigor.
+
+###### Artigo 14.º — Avaliação da execução
+
+No final do primeiro ano após a data de entrada em vigor do presente decreto-lei, e anualmente nos anos subsequentes, o Instituto de Seguros de Portugal elabora e divulga um relatório de avaliação do impacte da sua aplicação, devendo remetê-lo aos membros do Governo responsáveis pelas áreas das finanças e da defesa do consumidor.
+
+###### Artigo 15.º — Regulamentação
+
+1 - Cabe ao Instituto de Seguros de Portugal estabelecer por norma regulamentar:
+
+a) A periodicidade, a forma e os termos exigidos a cada segurador para a transmissão das informações previstas no artigo 8.º;
+
+b) As regras para actualizar a informação constante do registo central;
+
+c) O modelo do certificado previsto no n.º 5 do artigo 9.º;
+
+d) A forma e os termos do cumprimento do disposto no n.º 2 do artigo 13.º, exigíveis a cada segurador;
+
+e) A forma, os termos e os custos de acesso à informação prevista no artigo 9.º
+
+2 - Na regulamentação referida no número anterior deve, sempre que adequado e sem prejuízo do disposto no n.º 2 do artigo 9.º, ser privilegiado o recurso às tecnologias de informação e a utilização de documentos electrónicos.
+
+###### Artigo 16.º — Entrada em vigor
+
+1 - O presente decreto-lei entra em vigor 180 dias após a data da sua publicação.
+
+2 - O artigo anterior entra em vigor no dia seguinte ao da publicação do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 26 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - António José de Castro Guerra - Alberto Bernardes Costa.
+
+Promulgado em 31 de Outubro de 2007.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 5 de Novembro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

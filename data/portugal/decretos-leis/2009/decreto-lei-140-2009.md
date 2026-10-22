@@ -1,0 +1,619 @@
+---
+schema_version: '1.0'
+id: pt:dre:494543:por
+title: Decreto-Lei n.º 140/2009
+short_title: null
+summary: Estabelece o regime jurídico dos estudos, projectos, relatórios, obras ou intervenções sobre bens culturais classificados,
+  ou em vias de classificação, de interesse nacional, de interesse público ou de interesse municipal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 140/2009
+official_date: null
+publication_date: '2009-06-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/2009, Série I de 2009-06-15
+  number: '113'
+  series: I
+  supplement: null
+  pages: 3653 - 3659
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11300/0365303659.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-11-23'
+version_history:
+  file: decreto-lei-140-2009.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-06-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-02-11'
+    amending: pt:dre:207272800:por
+    amending_title: Decreto-Lei n.º 11/2023
+    changes:
+    - Altera Artigo 1.º
+  - date: '2024-11-23'
+    amending: pt:dre:897548401:por
+    amending_title: Decreto-Lei n.º 90/2024
+    changes:
+    - Adita Artigo 15.º-A
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 36.º
+    - Altera Artigo 38.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/140/2009/p/cons/20241122/pt/html
+  oj: null
+  dre: '494543'
+  dre_path: /dr/detalhe/decreto-lei/140-2009-494543
+  internal: pt:dre:494543:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/140-2009-494543
+  metadata_url: https://data.dre.pt/eli/dec-lei/140/2009/p/cons/20241122/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-207631928
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-207631928
+  retrieved_at: '2026-10-22T12:55:29Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b76168b6cf9af36033a3d646f55736431bbd78a3b97cee216ddadeee47dfda9d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:55:29Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-140-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquivo
+- BEM Móvel
+- BENS Classificados
+- Imóvel Classificado
+- Contra-ordenação
+- Património Cultural
+- Fiscalização
+- Interesse Público
+- Cooperação Científica
+- Protecção do Património
+- Regime Jurídico
+- Vistoria
+relationships:
+- type: amended_by
+  target: pt:dre:207272800:por
+  label: Alterado, com efeitos a 01.03.2023, o art. 1.º do do presente diploma, pelo(a) Decreto-Lei n.º 11/2023 - Diário da
+    República n.º 30/2023, Série I de 2023-02-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/11-2023-207272800
+  date: '2023-02-10'
+- type: amended_by
+  target: pt:dre:897548401:por
+  label: Alterados a partir de 23 de novembro de 2024 os artigos 17.º, 18.º, 20.º, 22.º, 24.º, 26.º e 27.º, 36.º e 38.º e
+    aditado na mesma data o artigo 15.º-A pelo(a) Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22,
+    que o republica em anexo
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/90-2024-897548401
+  date: '2024-11-22'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/442/1991/11/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/107/2001/09/08/p/dre
+- type: cites
+  target: pt:dre:316935:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:629790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:655682:por
+  label: null
+  source: null
+article_structure:
+  article_count: 43
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:55:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 140/2009
+
+Decreto-Lei n.º 140/2009
+
+de 15 de Junho
+
+A Lei n.º 107/2001, de 8 de Setembro, que estabeleceu as bases da política e do regime de protecção e valorização do património cultural, introduz um mecanismo de controlo prévio e de responsabilização em relação a todas as obras ou intervenções no património cultural.
+
+O desenvolvimento do regime jurídico relativo aos estudos, projectos, obras ou intervenções em bens culturais classificados, ou em vias de classificação, pressupõe necessariamente a existência de um relatório prévio, elaborado por técnicos legalmente qualificados, em relação às obras ou intervenções, bem como o acompanhamento destas pela administração do património cultural competente e ainda a entrega de um relatório final.
+
+As imposições normativas decorrentes dos artigos 45.º e 59.º da referida lei são objecto de concretização no presente diploma, com respeito pelas particularidades próprias da natureza dos bens. Assim, complementam-se as regras já existentes para os bens imóveis e cria-se um procedimento para os bens móveis protegidos.
+
+As intervenções em bens imóveis obedecem às regras procedimentais do regime jurídico da urbanização e edificação, razão pela qual o presente diploma adapta aquelas regras às especificidades do património cultural imóvel de forma a facilitar a apreciação, por parte da administração autárquica e da administração central, da necessidade, pertinência e adequação das propostas de obras ou intervenções.
+
+A obrigatoriedade do relatório prévio tem a virtualidade de promover a qualificação das obras ou intervenções e estimular o crescimento e especialização de vários sectores profissionais responsáveis pela sua elaboração, ao mesmo tempo que introduz um mecanismo de controlo prévio na realização de operações urbanísticas em relação aos bens culturais imóveis. Permite igualmente à câmara municipal e às entidades externas com participação no procedimento urbanístico uma ponderação mais célere das pretensões dos particulares.
+
+Procura-se, deste modo, evitar os casos de decisões desfavoráveis por falta de elementos instrutórios necessários à apreciação dos riscos e benefícios das obras ou intervenções nos bens culturais protegidos e, simultaneamente, promover a indicação dos termos em que as decisões podem ser favoráveis, sempre que possível em função do cumprimento das orientações de valorização e de salvaguarda do património cultural.
+
+Neste sentido, prevê-se também o mecanismo de prestação de informações complementares sempre que se revelem necessárias para a devida apreciação dos pedidos. Convida-se, deste modo, o proponente a suprir eventuais faltas do pedido que sejam relevantes à boa tomada de decisão, ainda numa fase prévia e sem desaproveitar o esforço empreendido para a abertura de um procedimento para a realização de obras ou intervenções em bens culturais. Procedimento este que se institui inovatoriamente em relação aos bens móveis, cumprindo-se assim o desígnio de efectiva salvaguarda de uma realidade diversificada de bens que espelham uma pluralidade de formas de expressão cultural.
+
+É, aliás, esta inevitável diversidade que aconselha um razoável grau de discricionariedade administrativa na aferição das qualificações adequadas à realização de obras ou intervenções em bens que merecem uma tutela especial em função do seu reconhecido valor cultural. De facto, em muitas situações, só a consideração casuística das qualificações adquiridas, formalmente ou por experiência profissional, permite a análise adequada das propostas de obras ou intervenções no que respeita à conservação e restauro consoante a natureza dos bens.
+
+O acompanhamento obrigatório das obras ou intervenções em bens culturais protegidos tem em conta o princípio da prevenção que norteia este diploma e as particularidades da realidade que conforma, face ao risco e à dificuldade inerentes aos trabalhos nos domínios da conservação e do restauro. Risco e dificuldades que crescem exponencialmente em função da grandeza ou complexidade das obras ou intervenções, razão pela qual se prevê a possibilidade de a Administração poder exigir um relatório intercalar nestas situações.
+
+Sublinhe-se a importância atribuída pelo legislador ao relatório final, que sintetiza o processo seguido nas obras ou intervenções em bens culturais imóveis e móveis. Este relatório permitirá à Administração Pública dispor de registos permanentes e consultáveis sobre as técnicas e metodologias utilizadas e estabelecer comparações e fundamentar decisões em função de experiências concretas.
+
+Desta forma, supre-se uma importante lacuna em relação ao registo e arquivo das técnicas, das metodologias e dos tratamentos utilizados ao longo do tempo na salvaguarda do património cultural. Espera-se que o cumprimento do dever de elaboração do relatório final e o respectivo arquivo, por regra digitalizado, contribua para constituir a indispensável memória dos trabalhos de protecção e valorização do património cultural. Importa, por fim, realçar a importância do acervo documental a constituir para a investigação e desenvolvimento científicos nestes domínios.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 107/2001, de 8 de Setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente decreto-lei estabelece o regime jurídico dos estudos, projectos, relatórios, obras ou intervenções sobre bens culturais classificados, ou em vias de classificação, de interesse nacional, de interesse público ou de interesse municipal.
+
+2 - O regime jurídico referido no número anterior abrange:
+
+a) Os bens culturais imóveis;
+
+b) Os bens culturais móveis;
+
+c) O património móvel integrado em bens culturais imóveis e identificado como tal no respectivo acto de classificação ou no acto de abertura do procedimento de classificação.
+
+3 - Quando a obra ou intervenção sobre bens culturais classificados, ou em vias de classificação, esteja sujeita a procedimento de avaliação de impacte ambiental ou de avaliação de incidências ambientais em fase de projeto de execução ou de verificação da conformidade ambiental do projeto de execução, o relatório prévio, o relatório intercalar, o resultado da vistoria prévia e a autorização previstos no presente decreto-lei são obrigatoriamente incluídos no parecer da administração do património cultural competente no âmbito desse procedimento, não se realizando posteriormente.
+
+> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01
+
+###### Artigo 2.º — Princípios gerais
+
+1 - Os estudos, projectos, relatórios, obras ou intervenções sobre bens culturais obedecem aos seguintes princípios:
+
+a) Prevenção, garantindo como regra o carácter prévio e sistemático da apreciação, acompanhamento e ponderação das obras ou intervenções e actos susceptíveis de afectar a integridade de bens culturais de forma a impedir a sua fragmentação, desfiguração, degradação, perda física ou de autenticidade;
+
+b) Planeamento, assegurando prévia, adequada e rigorosa programação, por técnicos qualificados para o efeito, dos trabalhos a desenvolver em bens culturais, respectivas técnicas, metodologias e recursos a empregar em sede de execução;
+
+c) Graduabilidade, fazendo corresponder o nível de exigências e requisitos a fixar para as obras ou intervenções em bens culturais ao seu valor cultural e à forma de protecção de que são objecto;
+
+d) Fiscalização, promovendo o controlo das obras ou intervenções em bens culturais de acordo com os estudos e projectos aprovados;
+
+e) Informação, através da divulgação sistemática e padronizada de dados sobre as obras ou intervenções realizadas em bens culturais para fins histórico-documentais, de investigação e estatísticos.
+
+2 - A aplicação dos princípios referidos no número anterior subordina-se e articula-se com os princípios gerais da política e do regime de protecção e valorização do património cultural previstos na Lei n.º 107/2001, de 8 de Setembro.
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Administração do património cultural competente» a entidade responsável pela abertura do procedimento de classificação;
+
+b) «Bens culturais» os bens móveis e imóveis classificados, ou em vias de classificação, de interesse nacional, de interesse público ou de interesse municipal, nos termos da Lei n.º 107/2001, de 8 de Setembro, bem como o património móvel integrado;
+
+c) «Relatório prévio» o relatório sobre a importância e a avaliação das obras ou intervenções cuja realização seja proposta em relação a bens culturais;
+
+d) «Relatório intercalar» o relatório descritivo dos trabalhos efectuados, em curso e a realizar, fundamentando, nomeadamente, eventuais alterações no planeamento, técnicas, metodologias e execução em relação ao previsto em relatório prévio ou outros factos relevantes no âmbito das obras ou intervenções;
+
+e) «Relatório final» o relatório de onde conste a natureza das obras ou intervenções realizadas, os exames e análise efectuados, as técnicas, as metodologias, os materiais e tratamentos aplicados, bem como documentação gráfica, fotográfica, videográfica ou outra sobre o processo seguido e o respectivo resultado;
+
+f) «Património móvel integrado» os bens móveis de interesse cultural relevante ligados materialmente e com carácter de permanência a bem cultural imóvel, bem como os bens móveis que estejam afectos de forma duradoura ao seu serviço ou ornamentação.
+
+### Capítulo II — Disposições comuns
+
+###### Artigo 4.º — Relatório prévio
+
+Para efeitos de apreciação de pedidos de parecer, aprovação ou autorização para obras ou intervenções em bens culturais é obrigatória a entrega do relatório prévio, sem prejuízo dos demais elementos previstos no âmbito do presente decreto-lei.
+
+###### Artigo 5.º — Autoria do relatório prévio
+
+1 - O relatório prévio é da responsabilidade de um técnico habilitado com formação superior adequada e cinco anos de experiência profissional após a obtenção do título académico.
+
+2 - A formação superior e a experiência profissional referidas no número anterior devem ser relevantes na respectiva área de especialidade e no âmbito das obras ou intervenções em causa.
+
+3 - Na elaboração do relatório prévio participam igualmente os técnicos especialistas competentes em função da natureza do bem cultural e do tipo de obras ou intervenções a realizar.
+
+###### Artigo 6.º — Informações complementares
+
+1 - A administração do património cultural competente pode solicitar informações complementares, apresentação de documentos ou de outros elementos para a apreciação do pedido de parecer, aprovação ou autorização, no prazo de 10 dias após a recepção do respectivo pedido.
+
+2 - O pedido de informações complementares pela administração do património cultural competente suspende o prazo de decisão sobre pedido de parecer, aprovação ou autorização até à data da prestação daquelas.
+
+3 - O interessado pode requerer a continuação do procedimento em alternativa à prestação das informações complementares prevista no número anterior.
+
+###### Artigo 7.º — Vistoria prévia
+
+1 - A administração do património cultural competente realiza vistoria prévia em relação ao bem cultural objecto de pedido de parecer, aprovação ou autorização sempre que o considerar necessário para aferir da necessidade e adequação das obras ou intervenções, no prazo de 15 dias após a recepção do relatório prévio.
+
+2 - A vistoria é obrigatória e realizada no prazo de 20 dias após a recepção do relatório prévio quando as obras ou intervenções tenham por objecto bens culturais classificados de interesse nacional.
+
+3 - A vistoria é realizada dentro do prazo previsto para a decisão do pedido de parecer, aprovação ou autorização de obras ou intervenções.
+
+4 - A vistoria deve ser realizada, sempre que possível, por técnico com qualificações, no mínimo, equivalentes às exigidas para a autoria do relatório prévio.
+
+5 - A omissão de vistoria prévia prevista nos números anteriores não dispensa a apreciação, pela administração do património cultural competente, do pedido de parecer, aprovação ou autorização realizado ao abrigo do regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro.
+
+###### Artigo 8.º — Acompanhamento
+
+1 - As obras ou intervenções em bens culturais são objecto de acompanhamento pelos serviços da administração do património cultural competente.
+
+2 - O acompanhamento compreende as diligências necessárias, podendo consistir na realização de exames, vistorias, fiscalização técnica, avaliações ou peritagens.
+
+3 - Para efeitos do número anterior, o proprietário, o possuidor e demais detentores de direitos reais, bem como o responsável pela direcção das obras ou intervenções, devem facultar o acesso aos bens sempre que a administração do património cultural competente o solicite.
+
+###### Artigo 9.º — Relatório intercalar
+
+1 - A administração do património cultural competente determina a elaboração de relatório intercalar e indica o prazo para a respectiva entrega, quando:
+
+a) As diligências realizadas no âmbito do acompanhamento referido no artigo anterior o justifiquem;
+
+b) Obras ou intervenções de grande dimensão ou complexidade o aconselhem.
+
+2 - O relatório intercalar é elaborado pelo responsável pela direcção das respectivas obras ou intervenções.
+
+###### Artigo 10.º — Relatório final
+
+1 - O relatório final é obrigatório relativamente às obras ou intervenções em bens culturais.
+
+2 - O responsável pela direcção das obras ou intervenções deve elaborar e enviar o relatório final à administração do património cultural competente no prazo de 30 dias após a conclusão dos trabalhos.
+
+###### Artigo 11.º — Elementos do relatório final
+
+1 - O relatório final contém:
+
+a) Os elementos do relatório prévio;
+
+b) A justificação dos desvios verificados em sede de execução;
+
+c) A avaliação dos impactes das obras ou intervenções realizadas no bem cultural;
+
+d) Os exames e análises realizados, as técnicas, metodologias, materiais e tratamentos aplicados;
+
+e) Levantamento fotográfico ou videográfico geral, de conjunto e de detalhe, do processo seguido e do resultado final dos trabalhos;
+
+f) Plano de monitorização, inspecção e manutenção a realizar em relação ao bem cultural objecto das obras ou intervenções.
+
+2 - A administração do património cultural competente pode solicitar, sempre que necessário, elementos adicionais a integrar o relatório final, no prazo de 20 dias.
+
+3 - O responsável pela direcção das obras ou intervenções envia os elementos referidos no número anterior à administração do património cultural competente no prazo de 30 dias após a recepção do respectivo pedido.
+
+###### Artigo 12.º — Arquivo
+
+1 - O arquivo, tratamento e disponibilização da informação relativa às obras ou intervenções realizadas é da responsabilidade da administração do património cultural competente.
+
+2 - O sistema de arquivo, tratamento e disponibilização da informação referida no número anterior é fixado por despacho normativo do membro do Governo responsável pela área da cultura, em função da natureza e do tipo dos bens culturais.
+
+### Capítulo III — Bens culturais imóveis
+
+###### Artigo 13.º — Relatório prévio para bens culturais imóveis
+
+O pedido de informação prévia, de licença ou a consulta prévia previstos no regime jurídico da urbanização e edificação em relação a obras de reconstrução, ampliação, alteração e conservação de bens culturais imóveis incluem obrigatoriamente o relatório prévio.
+
+###### Artigo 14.º — Autoria do relatório prévio para bens culturais imóveis
+
+Aplica-se à autoria do relatório prévio relativo a obras ou intervenções em bens culturais imóveis o disposto no artigo 5.º, sem prejuízo das habilitações académicas específicas previstas em legislação própria.
+
+###### Artigo 15.º — Elementos do relatório prévio para bens culturais imóveis
+
+O relatório prévio incide, nomeadamente, sobre os seguintes aspectos:
+
+a) Critérios que fundamentem as obras ou intervenções de reconstrução, ampliação, alteração e conservação propostas;
+
+b) Adequação das obras ou intervenções em relação às características do imóvel, tendo em conta o grau de classificação de interesse nacional, de interesse público ou de interesse municipal, bem como o interesse cultural que a fundamenta, designadamente o interesse histórico, arquitectónico, artístico, científico, social ou técnico;
+
+c) Compatibilidade dos sistemas e materiais propostos em relação aos existentes;
+
+d) Avaliação dos benefícios e riscos das obras ou intervenções propostas;
+
+e) Consequências das obras ou intervenções no património arqueológico;
+
+f) A utilização proposta para o imóvel;
+
+g) Bibliografia e fontes documentais relevantes no âmbito das obras ou intervenções propostas;
+
+h) Levantamento fotográfico ou videográfico geral, de conjunto e de detalhe do interior e do exterior.
+
+###### Artigo 15.º-A — Obras e intervenções de conservação e restauro em imóveis classificados
+
+1 - A coordenação e a execução de obras ou intervenções identificadas como de conservação e restauro em bens culturais imóveis, bem como em património móvel integrado, são da responsabilidade de técnicos com qualificação legalmente reconhecida e experiência adequada na respetiva área de especialidade, em conformidade com o disposto no artigo 22.º
+
+2 - O relatório prévio, previsto no artigo 15.º, relativo a obras ou intervenções referidas no número anterior deve incluir a caraterização histórico-artística do bem e o diagnóstico do respetivo estado de conservação.
+
+3 - As especificidades das intervenções de conservação e restauro podem requerer excecionalmente a colaboração de outros profissionais qualificados em função das áreas de especialidade, que devem atuar sob a supervisão e coordenação direta de conservadores-restauradores.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401), em vigor a partir de 2024-11-23
+
+### Capítulo IV — Bens culturais móveis
+
+###### Artigo 16.º — Autorização
+
+As obras ou intervenções em bens culturais móveis, bem como em património móvel integrado, são obrigatoriamente sujeitas à autorização da administração do património cultural competente.
+
+###### Artigo 17.º — Pedido de autorização
+
+O pedido de autorização é instruído com os seguintes elementos:
+
+a) Identificação do proprietário, do possuidor e demais detentores de direitos reais sobre o bem objecto das obras ou intervenções;
+
+b) Relatório prévio;
+
+c) Comprovativo das qualificações e currículo profissional do responsável pela direção e coordenação das obras ou intervenções;
+
+d) Composição, comprovativos das qualificações e currículos profissionais dos elementos da equipa técnica;
+
+e) Prazo de execução e orçamento previstos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401), em vigor a partir de 2024-11-23
+
+###### Artigo 18.º — Autoria do relatório prévio para bens culturais móveis
+
+1 - O relatório prévio relativo a obras ou intervenções de conservação e restauro em bens culturais móveis e património móvel integrado é da responsabilidade de um técnico com qualificação legalmente reconhecida e com cinco anos de experiência profissional após obtenção do título académico.
+
+2 - Entende-se por técnicos com qualificação legalmente reconhecida os conservadores-restauradores com licenciatura e mestrado pós-Bolonha em conservação e restauro, e os demais conservadores-restauradores com as seguintes qualificações:
+
+a) Licenciatura em Conservação e Restauro anterior ao processo de Bolonha;
+
+b) Bacharelato em Conservação e Restauro com ingresso até 1997;
+
+c) Cursos superiores em Conservação e Restauro ministrados por estabelecimento de ensino superior estrangeiro reconhecidos por uma instituição pública de ensino superior nacional, nos termos dos artigos 20.º a 22.º do Decreto-Lei n.º 66/2018, de 16 de agosto.
+
+3 - A formação superior referida no número anterior e a experiência profissional devem ser relevantes na respetiva área de especialidade e no âmbito das obras ou intervenções em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401), em vigor a partir de 2024-11-23
+
+###### Artigo 19.º — Elementos do relatório prévio para bens culturais móveis
+
+1 - O relatório prévio incide, nomeadamente, sobre os seguintes aspectos:
+
+a) Identificação e localização do bem;
+
+b) Histórico de obras ou intervenções no bem;
+
+c) Diagnóstico do estado de conservação;
+
+d) Âmbito e objectivos das obras ou intervenções;
+
+e) Adequação das obras ou intervenções em relação às características do móvel, ou património móvel integrado, tendo em conta o grau de classificação de interesse nacional, de interesse público ou de interesse municipal, bem como o interesse cultural que a fundamenta;
+
+f) Caracterização das técnicas, metodologias e tratamentos propostos, bem como dos materiais a utilizar, e compatibilidade com os materiais existentes;
+
+g) Avaliação dos benefícios e riscos das obras ou intervenções propostas;
+
+h) Bibliografia e fontes documentais relevantes no âmbito das obras ou intervenções propostas;
+
+i) Levantamento fotográfico ou videográfico geral, de conjunto e de detalhe.
+
+2 - Para além dos elementos previstos no número anterior, são fixados por portaria do membro do Governo responsável pela área da cultura outros elementos que se revelem necessários, designadamente em relação aos patrimónios arqueológico, arquivístico, audiovisual, bibliográfico, fonográfico e fotográfico.
+
+###### Artigo 20.º — Decisão
+
+1 - A administração do património cultural competente decide o pedido de autorização no prazo de 20 dias, fundamentada, sempre que possível, em parecer técnico da responsabilidade de um técnico com qualificação legalmente reconhecida, segundo o disposto no artigo 18.º
+
+2 - O prazo referido no número anterior é prorrogável, por igual período e por uma só vez, nos casos de obras ou intervenções de grande dimensão ou complexidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401), em vigor a partir de 2024-11-23
+
+###### Artigo 21.º — Indeferimento
+
+1 - O pedido de autorização é indeferido quando:
+
+a) O requerente instrua o pedido sem os elementos previstos no artigo 17.º e não supra as deficiências no prazo determinado para o efeito, nunca inferior a 10 dias;
+
+b) A administração do património cultural competente considere insuficientes ou inadequadas as qualificações ou a experiência profissional do responsável pela direcção das obras ou intervenções ou da respectiva equipa técnica.
+
+2 - Nas situações de indeferimento com base no disposto na alínea b) do número anterior, o requerente pode propor a substituição do responsável pela direcção das obras ou intervenções, ou da respectiva equipa técnica, aproveitando-se neste caso os demais elementos entregues com o pedido.
+
+###### Artigo 22.º — Direcção e execução
+
+1 - À direção e coordenação de obras ou intervenções de conservação e restauro em bens culturais móveis e património móvel integrado é aplicável o disposto no artigo 18.º
+
+2 - A execução das obras ou intervenções é realizada por técnicos com qualificação legalmente reconhecida e experiência adequada na respetiva área de especialidade, em conformidade com o disposto nos n.os 2 e 3 do artigo 18.º
+
+3 - As especificidades das intervenções de conservação e restauro podem requerer excecionalmente a colaboração de outros profissionais qualificados em função das áreas de especialidade, que devem atuar sob a supervisão e coordenação direta dos conservadores-restauradores.
+
+4 - A alteração do director das obras ou intervenções autorizadas depende de prévio parecer favorável da administração do património cultural competente.
+
+5 - Para efeitos do número anterior, a administração do património cultural competente pronuncia-se no prazo de 15 dias a contar da data de entrada do pedido.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401), em vigor a partir de 2024-11-23
+
+###### Artigo 23.º — Alterações supervenientes
+
+As alterações não previstas nos estudos e projectos de obras ou intervenções autorizados devem ser de imediato comunicadas à administração do património cultural competente.
+
+###### Artigo 24.º — Suspensão dos trabalhos
+
+1 - Sempre que se verifiquem na execução dos trabalhos situações que desvirtuem ou prejudiquem de alguma forma os bens culturais móveis ou património móvel integrado, estes devem ser imediatamente suspensos pelo responsável pela direção das obras ou intervenções.
+
+2 - A suspensão dos trabalhos é comunicada pelo responsável pela direcção das obras ou intervenções à administração do património cultural competente no prazo de 48 horas.
+
+3 - A administração do património cultural competente deve determinar o prosseguimento dos trabalhos autorizados logo que cessem as razões que justificaram a sua suspensão.
+
+4 - O proprietário, possuidor ou demais detentores de direitos reais sobre o bem cultural objecto de obras ou intervenções pode solicitar o prosseguimento dos trabalhos nos termos do disposto no número anterior mediante pedido fundamentado.
+
+5 - A administração do património cultural competente decide sobre o prosseguimento dos trabalhos no prazo de 20 dias após a recepção do pedido.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401), em vigor a partir de 2024-11-23
+
+###### Artigo 25.º — Medidas provisórias
+
+A administração do património cultural competente pode ainda determinar as medidas provisórias necessárias quando, durante a execução das obras ou intervenções, se revele risco para a salvaguarda dos bens culturais móveis.
+
+###### Artigo 26.º — Revogação da autorização
+
+1 - A autorização deve ser revogada sempre que se detetem alterações aos estudos e projetos autorizados ou erros graves na direção ou execução dos trabalhos que comprometam a salvaguarda do bem cultural móvel ou móvel integrado, ou quando não se verifique a suspensão dos trabalhos determinada nos termos do artigo 24.º
+
+2 - A autorização pode ser revogada a todo o tempo quando por motivos supervenientes, devidamente fundamentados, o prosseguimento das obras ou intervenções se revele manifestamente prejudicial à salvaguarda do bem cultural.
+
+3 - A alteração do responsável pela direcção da obra ou intervenção sem autorização prévia da administração do património cultural competente pode determinar a revogação da autorização de obras ou intervenções concedida no âmbito do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401), em vigor a partir de 2024-11-23
+
+###### Artigo 27.º — Obras ou intervenções coercivas
+
+1 - A administração do património cultural competente pode determinar a execução de obras ou intervenções em bens culturais móveis ou móveis integrados que se revelem indispensáveis para assegurar a sua integridade e evitar a sua perda, destruição ou deterioração.
+
+2 - Quando o proprietário, possuidor ou demais detentores de direitos reais não iniciar as obras ou intervenções que lhe sejam determinadas, ou não as realizar nas condições ou no prazo que lhe forem fixados, a administração do património cultural competente pode determinar o depósito coercivo do bem, em instituição adequada em função da sua natureza, e proceder à execução daquelas obras ou intervenções.
+
+3 - As quantias relativas às despesas realizadas nos termos do número anterior são da responsabilidade do infractor.
+
+4 - Quando aquelas quantias não forem pagas voluntariamente no prazo de 30 dias a contar da notificação para o efeito, são cobradas judicialmente em processo de execução fiscal, servindo de título executivo certidão, passada pelos serviços competentes, comprovativa das despesas efectuadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401), em vigor a partir de 2024-11-23
+
+### Capítulo V — Regime sancionatório
+
+###### Artigo 28.º — Contra-ordenações e coimas
+
+Constitui contra-ordenação punível com a coima de (euro) 500 a (euro) 3500 e de (euro) 3500 a (euro) 25 000, conforme se trate de pessoas singulares ou de pessoas colectivas, respectivamente:
+
+a) A omissão injustificada de entrega do relatório previsto no artigo 9.º;
+
+b) A omissão injustificada de entrega do relatório final previsto no artigo 10.º;
+
+c) A omissão injustificada de entrega dos elementos referidos no n.º 3 do artigo 11.º;
+
+d) A omissão injustificada das comunicações referidas no artigo 23.º e no n.º 2 do artigo 24.º;
+
+e) O incumprimento do disposto no n.º 2 do artigo 22.º;
+
+f) O incumprimento do disposto no n.º 1 do artigo 24.º
+
+###### Artigo 29.º — Sanções acessórias
+
+Em simultâneo com as coimas previstas no artigo anterior pode ser determinada a privação dos direitos a subsídios ou benefícios outorgados por entidades ou serviços públicos.
+
+###### Artigo 30.º — Processamento
+
+A instrução do processo contra-ordenacional e a aplicação das coimas incumbem à administração do património cultural competente.
+
+###### Artigo 31.º — Destino das coimas
+
+O valor das coimas aplicadas às contra-ordenações previstas no presente decreto-lei reverte em:
+
+a) 60 % para o Estado;
+
+b) 40 % para a administração do património cultural competente.
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 32.º — Obras ou intervenções realizadas pela administração
+
+1 - As obras ou intervenções realizadas, directa ou indirectamente, pela administração do património cultural competente estão sujeitas à elaboração dos relatórios previstos no presente decreto-lei.
+
+2 - Pode ser dispensada a elaboração do relatório prévio e do relatório intercalar por despacho fundamentado do dirigente máximo do serviço competente.
+
+###### Artigo 33.º — Dispensa de relatório intercalar
+
+1 - Nas situações de obras de demolição, reconstrução, ampliação, alteração ou conservação de bens culturais imóveis anteriormente previstas em programa de intervenção, aprovado por resolução do Conselho de Ministros, não há lugar à apresentação de relatório intercalar.
+
+2 - A dispensa do relatório intercalar aplica-se igualmente nas situações de alteração superveniente relativas a obras referidas no número anterior.
+
+###### Artigo 34.º — Obras ou intervenções urgentes
+
+1 - A administração do património cultural competente, por iniciativa própria ou mediante requerimento fundamentado de qualquer interessado, pode excepcionalmente dispensar o relatório prévio e proceder a vistoria prévia quando as obras ou intervenções revelem carácter urgente em função do risco de destruição, perda ou deterioração iminente do bem cultural.
+
+2 - O auto de vistoria, referido no número anterior, substitui o relatório prévio.
+
+###### Artigo 35.º — Trabalhos arqueológicos
+
+As obras ou intervenções em bens culturais que revistam a natureza de trabalhos arqueológicos observam as regras previstas em legislação própria.
+
+###### Artigo 36.º — Informação
+
+A administração do património cultural competente publica anualmente, na respetiva página eletrónica, os dados estatísticos referentes às obras ou intervenções realizadas ao abrigo do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401), em vigor a partir de 2024-11-23
+
+###### Artigo 37.º — Confidencialidade
+
+1 - A divulgação pública de dados referentes aos bens culturais objecto de obras ou intervenções no âmbito do presente decreto-lei deve ser restringida, por iniciativa da administração do património cultural competente ou a pedido do proprietário, possuidor ou detentor de outros direitos reais, quando da mesma resulte perigo para a segurança daqueles bens.
+
+2 - A restrição de divulgação pública de dados referida no número anterior pode também ser requerida pelos respectivos proprietários, possuidores ou detentores de outros direitos reais com fundamento na incompatibilidade, no caso concreto, com direitos, liberdades e garantias pessoais, ou com outro motivo atendível devidamente fundamentado, nomeadamente respeitante a dados abrangidos por segredo comercial ou industrial, propriedade artística ou científica ou sujeitos a outras regras de confidencialidade, nos termos do Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 442/91, de 15 de Novembro.
+
+###### Artigo 38.º — Procedimento informatizado
+
+1 - A instrução dos pedidos referentes a obras ou intervenções em bens culturais imóveis, móveis ou património móvel integrado é realizada por via eletrónica através de plataformas adequadas a que os municípios tenham acesso ou da página eletrónica da administração do património cultural competente, sem prejuízo do previsto no artigo 8.º-A do regime jurídico da urbanização e edificação.
+
+2 - A página electrónica deve disponibilizar um manual de procedimentos relativo à instrução de pedidos para obras ou intervenções.
+
+3 - Até à entrada em funcionamento do procedimento informatizado previsto neste artigo, os pedidos de autorização são apresentados, por escrito, junto da administração do património cultural competente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2024 - Diário da República n.º 227/2024, Série I de 2024-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2024-897548401), em vigor a partir de 2024-11-23
+
+###### Artigo 39.º — Contratualização
+
+1 - A administração do património cultural competente pode recorrer à contratação de entidades especializadas quando tal se revele estritamente necessário para o cumprimento das obrigações relativas à apreciação dos estudos, projectos e relatórios, ou para o acompanhamento ou realização das obras ou intervenções em bens culturais.
+
+2 - Sem prejuízo do disposto nos artigos 44.º a 51.º do Código do Procedimento Administrativo, é vedada a contratação de entidades especializadas, públicas ou privadas, que suscitem conflitos de interesses na apreciação dos estudos, projectos e relatórios ou no acompanhamento ou realização das obras ou intervenções em bens culturais.
+
+###### Artigo 40.º — Cooperação científica e com o ensino
+
+1 - A administração do património cultural competente estabelece formas de cooperação com entidades vocacionadas para o ensino e a investigação, designadamente estabelecimentos de investigação e de ensino superior no âmbito da salvaguarda dos bens culturais.
+
+2 - A administração do património cultural competente deve facultar aos estabelecimentos de ensino que ministrem cursos nas áreas da conservação e restauro oportunidades de prática e formação profissional, mediante protocolos que estabeleçam a forma de colaboração, as obrigações e prestações mútuas, a repartição de encargos financeiros e os resultados da colaboração.
+
+###### Artigo 41.º — Anteriores actos de classificação e inventariação
+
+O regime do presente decreto-lei aplica-se aos bens culturais móveis e imóveis independentemente das conversões para as novas formas de protecção e designação previstas na Lei n.º 107/2001, de 8 de Setembro.
+
+###### Artigo 42.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 180 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Bernardo Luís Amador Trindade - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia - Manuel Frederico Tojal de Valsassina Heitor - José António de Melo Pinto Ribeiro.
+
+Promulgado em 4 de Junho de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 8 de Junho de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:516913:por
+title: Decreto Regulamentar n.º 7/98
+short_title: null
+summary: Estabelece normas relativas a dispositivos limitadores de velocidade e define o relevo dos desenhos dos pisos dos
+  pneus
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 7/98
+official_date: null
+publication_date: '1998-05-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/1998, Série I-B de 1998-05-06
+  number: '104'
+  series: I
+  supplement: null
+  pages: 2069 - 2071
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/05/104b00/20692071.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/7/1998/05/06/p/dre/pt/html
+  oj: null
+  dre: '516913'
+  dre_path: /dr/detalhe/decreto-regulamentar/7-1998-516913
+  internal: pt:dre:516913:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1998-516913
+  metadata_url: https://data.dre.pt/eli/decregul/7/1998/05/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-1998-516913
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-02-23T00:00:00Z'
+integrity:
+  source_sha256: ca9e8a2c7c8ef59a6b9a9ac4e25f95e1c7fa629af845b7e2f49011737e133c46
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-7-516913.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Código da Estrada
+- Multa
+- Veículo
+- Limite de Velocidade
+- Segurança Rodoviária
+relationships:
+- type: amended_by
+  target: pt:dre:608745:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31992L0094
+  label: null
+  source: http://data.europa.eu/eli/dir/1992/94/oj
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 7/98
+
+de 6 de Maio
+
+A revisão do Código da Estrada, operada através do Decreto-Lei n.º 2/98, de 3 de Janeiro, com introdução, no texto daquele Código, de matérias contempladas, até ao presente, em legislação avulsa, e a revogação expressa dos decretos-leis que as continham, impõe que se proceda à publicação de regulamentação necessária para a execução do regime legal daquele mesmo diploma em matéria de dispositivos limitadores de velocidade e de pneus.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 6.º do Decreto-Lei n.º 114/94, de 3 de Maio, com a redacção dada pelo artigo 6.º do Decreto-Lei n.º 2/98, de 3 de Janeiro, bem como no n.º 3 do artigo 28.º e no n.º 1 do artigo 114.º, ambos do Código da Estrada, com a redacção dada pelo artigo 2.º do Decreto-Lei n.º 2/98, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+1 - Os automóveis pesados de mercadorias com peso bruto superior a 12000 kg e os automóveis pesados de passageiros com peso bruto superior a 10000 kg, matriculados a partir de 1 de Janeiro de 1988, devem estar equipados com um dispositivo limitador de velocidade regulado para uma velocidade máxima de, respectivamente, 85 km/h e 100 km/h, sem prejuízo do disposto no número seguinte.
+
+2 - Os dispositivos limitadores de velocidade de elevada precisão instalados nos veículos automóveis pesados de mercadorias com peso bruto superior a 12000 kg podem ser regulados para velocidade superior a 85 km/h, desde que garantam que não será excedida a velocidade máxima de 90 km/h.
+
+###### Artigo 2.º
+
+Estão dispensados da instalação de limitadores de velocidade:
+
+a) Os veículos das Forças Armadas, da protecção civil, dos serviços de bombeiros e das forças responsáveis pela manutenção da ordem pública;
+
+b) Os veículos que, por construção, não possam ultrapassar as velocidades previstas no artigo anterior;
+
+c) Os veículos utilizados para ensaios científicos em estrada;
+
+d) Os veículos unicamente utilizados para serviços públicos em áreas urbanas.
+
+###### Artigo 3.º
+
+Todos os limitadores de velocidade devem ostentar, em local facilmente acessível, marca de homologação conforme a Directiva n.º [92/94/CEE](http://data.europa.eu/eli/dir/1992/94/oj?locale=pt), de 31 de Março de 1992, devendo essa marca ser claramente legível e indelével.
+
+###### Artigo 4.º
+
+Os veículos equipados com dispositivos limitadores de velocidade devem possuir, em local visível, na cabina, uma placa informativa da instalação daquele dispositivo, de modelo a aprovar por despacho do director-geral de Viação.
+
+###### Artigo 5.º
+
+1 - Os dispositivos limitadores de velocidade só podem ser instalados por entidades reconhecidas pelo Ministério da Economia, no âmbito do Sistema Português da Qualidade, ou por organismo congénere de outro Estado membro da União Europeia.
+
+2 - Os requisitos a observar pelas entidades referidas no número anterior para efeitos do reconhecimento, bem como a localização das selagens e a marca do instalador, são definidos por portaria do Ministro da Economia.
+
+3 - Em relação aos limitadores de velocidade instalados antes de 18 de Novembro de 1994 deve ser apresentado certificado de verificação emitido pela Direcção-Geral de Viação.
+
+###### Artigo 6.º
+
+1 - Os automóveis ligeiros e os reboques de peso bruto não superior a 3500 kg não podem transitar na via pública sem que o piso de todos os seus pneus, incluindo o de reserva, quando obrigatório, apresente em toda a circunferência da zona de rolagem desenhos com uma altura de, pelo menos, 1,6 mm nos relevos principais.
+
+2 - Os motociclos, bem como os automóveis e os reboques não abrangidos pelo disposto no número anterior, não podem transitar na via pública sem que o piso de todos os seus pneus, incluindo o de reserva, quando obrigatório, apresente em toda a circunferência da zona de rolagem desenhos com uma altura de, pelo menos, 1 mm nos relevos principais.
+
+3 - Entende-se por relevos principais os relevos largos situados na zona central da superfície de rolagem, a qual cobre cerca de três quartos da largura desta superfície.
+
+4 - Considera-se zona de rolagem a zona de pneu que, a pressão normal e em alinhamento recto e em patamar, toque o solo.
+
+###### Artigo 7.º
+
+1 - Nos veículos a que se refere o artigo anterior nenhum pneu, incluindo o de reserva, quando obrigatório, pode apresentar no piso ou nas partes laterais lesões que atinjam a tela ou a ponham a descoberto.
+
+2 - São excluídas as lesões meramente puncturais ou de pouca importância.
+
+###### Artigo 8.º
+
+1 - É proibido reabrir nos pneus os desenhos originais, abrir novos desenhos para além da base daqueles, bem como transaccionar por qualquer forma, aplicar e utilizar pneus nestas condições ou consentir na sua utilização.
+
+2 - O disposto no número anterior não é aplicável aos pneus destinados aos automóveis e reboques que estejam nas condições fixadas no n.º 3.1.8 do Regulamento n.º 54/CEE/ONU, anexo ao Decreto n.º 14/89, de 18 de Abril.
+
+###### Artigo 9.º
+
+1 - O disposto nos artigos 6.º e 8.º não é aplicável aos veículos que, por fabrico ou imposição legal, não possam exceder a velocidade de 20 km/h, nem aos reboques que lhes estejam atrelados.
+
+2 - No entanto, nos veículos a que se refere o número anterior não podem os respectivos pneus apresentar à vista qualquer parte das telas.
+
+###### Artigo 10.º
+
+1 - Quando for encontrado a transitar qualquer veículo em desrespeito do disposto nos artigos 6.º e 8.º do presente diploma deve ser apreendido o respectivo livrete, sem prejuízo das sanções aplicáveis.
+
+2 - Em substituição do livrete, deve ser emitida guia com validade apenas para o percurso até ao local de destino do condutor e ao centro de inspecções de veículos mais próximo daquele local, onde o veículo deve ser sujeito a inspecção, nos termos do n.º 2 do artigo 116.º do Código da Estrada.
+
+3 - A guia referida no número anterior deve indicar a localidade e o centro de inspecções referidos no mesmo número, bem como a data de chegada àquela e o percurso a utilizar, o qual não pode incluir qualquer auto-estrada ou outra via pública onde seja permitida velocidade superior a 90 km/h.
+
+4 - O condutor de veículo nas condições dos n.os 2 e 3 deve seguir em velocidade moderada.
+
+5 - Não é aplicável o disposto nos números anteriores se o condutor remediar completa e imediatamente a falta verificada, podendo utilizar, para o efeito, o pneu de reserva.
+
+###### Artigo 11.º
+
+1 - Constituem contra-ordenações, sancionadas com as seguintes coimas:
+
+a) De 5000$00 a 25000$00:
+
+1.º A falta ou ilegibilidade da marca de homologação do limitador de velocidade;
+
+2.º A colocação irregular da placa informativa da instalação do limitador de velocidade ou a sua falta;
+
+3.º A ausência da marca do instalador nas selagens do limitador de velocidade;
+
+b) De 10000$00 a 50000$00:
+
+1.º A utilização de limitador de velocidade avariado ou não conforme com o modelo aprovado;
+
+2.º A utilização de limitador de velocidade com marca de homologação não conforme com o modelo aprovado;
+
+3.º A utilização de limitador de velocidade não homologado;
+
+4.º A viciação do funcionamento do limitador de velocidade;
+
+5.º A violação da selagem do limitador de velocidade;
+
+6.º A não instalação de limitador de velocidade, quando devida;
+
+7.º O trânsito de motociclo, automóvel ligeiro ou reboque de peso bruto não superior a 3500 kg em infracção ao disposto nos artigos 6.º, 7.º e 9.º, n.º 2;
+
+8.º A utilização em motociclo, automóvel ligeiro ou reboque de peso bruto não superior a 3500 kg de um ou mais pneus com reabertura dos desenhos originais ou abertura de novos desenhos para além da base daquele;
+
+c) De 20000$00 a 100000$00:
+
+1.º O trânsito de automóvel pesado ou reboque de peso bruto superior a 3500 kg em infracção ao disposto nos artigos 6.º, 7.º e 9.º, n.º 2;
+
+2.º A utilização em automóvel pesado ou reboque de peso bruto superior a 3500 kg de um ou mais pneus com reabertura dos desenhos originais ou abertura de novos desenhos para além da base daquele;
+
+3.º O incumprimento das condições de trânsito prescritas na guia a que se referem os n.os 2 e 3 do artigo 10.º
+
+2 - A reabertura, por fabricante, dos desenhos originais dos pneus, ou a abertura de novos desenhos para além da base daqueles, bem como a colocação no mercado, por vendedor, de pneus naquelas condições, são sancionadas nos termos do n.º 4 do artigo 114.º do Código da Estrada.
+
+###### Artigo 12.º
+
+O presente diploma entra em vigor no dia 31 de Março de 1998.
+
+Presidência do Conselho de Ministros, 11 de Março de 1998.
+
+António Manuel de Oliveira Guterres - Jorge Paulo Sacadura Almeida Coelho - Joaquim Augusto Nunes de Pina Moura.
+
+**Promulgado em 17 de Abril de 1998.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 23 de Abril de 1998.**
+
+Pelo Primeiro-Ministro, José Veiga Simão, Ministro da Defesa Nacional.

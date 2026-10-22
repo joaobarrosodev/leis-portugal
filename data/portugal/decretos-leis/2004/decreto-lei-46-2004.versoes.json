@@ -1,0 +1,596 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:551644:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-989855162",
+ "dre_path": "/dr/detalhe/decreto-lei/46-2004-551644",
+ "source_lastmod": "2026-10-12",
+ "versions": [
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:473500:por",
+     "title": "Decreto-Lei n.º 237/2005",
+     "published": "2005-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/237-2005-473500"
+    },
+    {
+     "id": "pt:dre:469069:por",
+     "title": "Decreto-Lei n.º 229/2005",
+     "published": "2005-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/229-2005-469069"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma",
+    "Revoga Artigo 33.º"
+   ],
+   "fragments": [
+    "1178587475",
+    "1178587675",
+    "1178587775",
+    "1178587875",
+    "1178587975",
+    "1178588075",
+    "1178588175",
+    "1178590275",
+    "1178590375",
+    "1178590475",
+    "1178590575",
+    "1178590675",
+    "1178590775",
+    "1178590875",
+    "1178590975",
+    "1178591075",
+    "1178591175",
+    "1178591275",
+    "1178591375",
+    "1178591475",
+    "1178591575",
+    "1178591675",
+    "1178591775",
+    "1178591875",
+    "1178591975",
+    "1178592075",
+    "1178592175",
+    "1178592275",
+    "1178592375",
+    "1178592475",
+    "1178592575",
+    "1178592675",
+    "1178592775",
+    "1178592875",
+    "1178592975",
+    "1178593075",
+    "1178593175",
+    "1178593275",
+    "1177966975",
+    "1178593375",
+    "1178593475",
+    "1178593575",
+    "1178593675",
+    "1178593775",
+    "1178593875",
+    "1178593975",
+    "1178594075",
+    "1178594175",
+    "1178594275",
+    "1178594375",
+    "1178594475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1178587475": {
+   "fragment_id": "990944175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "O Estado, na sua função reguladora, produz, aplica e fiscaliza leis e regulamentos que visam determinados objectivos de natureza pública. No domínio económico, Portugal dispõe genericamente de um vasto e actualizado conjunto de legislação reguladora.\n\nUrge, no entanto, reforçar de forma inequívoca a capacidade da Administração Pública para fiscalizar o cumprimento das leis existentes. Por este motivo, o Ministério da Economia tem vindo a conferir atenção particular aos organismos de fiscalização sob a sua tutela. Uma maior capacidade de fiscalização da aplicação das normas torna mais eficazes os seus objectivos. É nesta perspectiva que a função fiscalizadora é assumida pelo Ministério da Economia, privilegiando a salvaguarda das regras do mercado e prevenindo, fiscalizando e reprimindo, quando necessário, o incumprimento das leis e das normas regulamentares.\n\nNeste contexto de importância acrescida que a política do Ministério da Economia atribui ao reforço da capacidade da Administração Pública no domínio da fiscalização, a Inspecção-Geral das Actividades Económicas (IGAE) surge como o organismo central nesta função.\n\nDo actual modelo de organização e funcionamento da IGAE ressaltam dois problemas estruturantes: a excessiva pulverização do modelo de desconcentração e a ausência de sectores de especialização onde as matérias respeitantes ao vastíssimo leque de competências da IGAE sejam agrupadas em função das suas afinidades técnicas, normativas e procedimentais.\n\nNo quadro da reestruturação dos serviços do Ministério da Economia, as soluções ora propostas visam ultrapassar bloqueamentos organizativos, de modo a conseguir uma estrutura que permita melhorar os níveis de eficiência e eficácia.\n\nMantendo-se as três direcções regionais existentes, são extintas as 18 delegações distritais e é enunciada a possibilidade de criação de delegações das direcções regionais, com uma implantação territorial equilibrada e coerente com a presença do Ministério da Economia nas regiões.\n\nTal permitirá uma actuação concertada, uma melhor gestão dos recursos humanos e a criação de sectores especializados de intervenção, confinando a sua acção a áreas específicas onde terão um maior domínio das matérias com que lidarão.\n\nFruto destas medidas reorganizativas, da adequação do modelo de intervenção à nova realidade do tecido económico, da simplificação de procedimentos e do aligeiramento da sua dimensão burocrática através do recurso às novas tecnologias da informação, torna-se possível uma significativa redução dos quadros, sem prejuízo da sua eficácia.\n\nO presente modelo, de acordo com a orientação geral preconizada na Lei Orgânica do Ministério da Economia, aprovada pelo Decreto-Lei n.º 186/2003, de 20 de Agosto, contempla ainda a transferência para a IGAE das competências de fiscalização até agora cometidas às direcções regionais da economia e à Direcção-Geral do Turismo, com o objectivo de separação das funções de regulamentação e de dinamização das funções de supervisão, bem como a separação de poderes, cabendo à IGAE as funções operacionais e conceptuais de fiscalização e a concomitante aplicação de sanções a outras entidades, designadamente à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178587675": {
+   "fragment_id": "990944375",
+   "type": 1,
+   "heading": "Capítulo I",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "### Capítulo I\n\nNatureza, atribuições e âmbito\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178587775": {
+   "fragment_id": "990944575",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 1.º\n\nNatureza e missão\n\n1 - A Inspecção-Geral das Actividades Económicas, adiante designada por IGAE, é o serviço do Ministério da Economia, adiante designado por Ministério, dotado de autonomia administrativa que visa garantir a legalidade da actuação dos agentes económicos, defender a saúde pública e a segurança dos consumidores, velando pelo cumprimento das normas legais que disciplinam as actividades económicas, através de uma actuação fiscalizadora e preventiva.\n\n2 - A IGAE é órgão de polícia criminal, nos termos do Código de Processo Penal.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178587875": {
+   "fragment_id": "990944775",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 2.º\n\nSede e competência territorial\n\nA IGAE tem sede em Lisboa e exerce a sua actividade em todo o território do continente, dispondo de serviços centrais e desconcentrados.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178587975": {
+   "fragment_id": "990944975",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 3.º\n\nAtribuições\n\nSão atribuições da IGAE:\n\na) Prevenir e reprimir infracções antieconómicas e contra a saúde pública, sem prejuízo das atribuições de outros organismos nesta matéria, entendendo-se por infracção antieconómica toda a conduta que, por acção ou omissão, ainda que com mera culpa, implique a violação das normas jurídicas que visam proteger interesses económicos do Estado ou de terceiros;\n\nb) Fiscalizar a oferta de produtos e serviços nos termos legalmente previstos e, quando for caso disso, proceder à investigação e instrução de processos por contra-ordenação;\n\nc) Fiscalizar o cumprimento das obrigações legais dos agentes económicos para com o Ministério, assegurando a instrução dos respectivos processos de contra-ordenação, salvaguardando o exercício de funções de fiscalização e verificação, controlo e acompanhamento técnicos das direcções regionais da economia nas suas respectivas áreas de actuação;\n\nd) Coadjuvar as autoridades judiciárias nos termos do disposto no Código de Processo Penal, procedendo à investigação dos crimes cuja competência lhe esteja especificamente atribuída na lei;\n\ne) Desempenhar quaisquer outras atribuições que lhe sejam cometidas por lei.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178588075": {
+   "fragment_id": "990945175",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 4.º\n\nCompetências genéricas\n\n1 - No âmbito das atribuições previstas no artigo anterior, compete à IGAE, designadamente:\n\na) Proceder à fiscalização das unidades e estabelecimentos de produção, armazenagem, transporte, comercialização e fornecimento de bens e de prestação de serviços, sem prejuízo das competências atribuídas por lei a outras entidades;\n\nb) Executar, em colaboração com outros organismos competentes, as medidas destinadas a assegurar o abastecimento do País em bens e serviços considerados essenciais, tendo em vista prevenir situações de açambarcamento;\n\nc) Arquivar os processos de contra-ordenação cuja competência instrutória lhe esteja legalmente atribuída, sempre que se verificar que os factos que constam dos autos não constituem infracção ou não existam elementos de prova susceptíveis de imputar a prática da infracção a um determinado agente;\n\nd) Promover e colaborar na divulgação da legislação sobre o exercício dos diferentes sectores da economia cuja fiscalização lhe esteja atribuída, junto das associações de consumidores, associações empresariais, organizações sindicais e agentes económicos.\n\n2 - Na prossecução das suas atribuições, compete à IGAE a fiscalização de todos os locais onde se exerça qualquer actividade económica, designadamente unidades produtoras, armazéns, escritórios, estabelecimentos comerciais, meios de transporte, empreendimentos turísticos, estabelecimentos de restauração e bebidas, recintos de diversão ou de espectáculos, portos, gares e aerogares, sem prejuízo das competências atribuídas por lei a outras entidades.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178588175": {
+   "fragment_id": "990945375",
+   "type": 1,
+   "heading": "Capítulo II",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "### Capítulo II\n\nÓrgãos, serviços e competências\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178590275": {
+   "fragment_id": "990945575",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 5.º\n\nÓrgãos e serviços\n\n1 - O inspector-geral é o dirigente máximo e órgão da IGAE.\n\n2 - São serviços centrais da IGAE:\n\na) A Direcção de Serviços de Planeamento e Controlo Operacional (DSPCO);\n\nb) O Gabinete de Apoio Técnico (GAT);\n\nc) A Divisão de Informação e Expediente Geral (DIEG).\n\n3 - São serviços desconcentrados da IGAE:\n\na) A Direcção Regional do Norte;\n\nb) A Direcção Regional do Centro;\n\nc) A Direcção Regional do Sul.\n\n4 - No âmbito das direcções regionais funcionam as seguintes delegações:\n\na) Delegação de Vila Real, integrada na Direcção Regional do Norte;\n\nb) Delegação da Guarda, integrada na Direcção Regional do Centro;\n\nc) Delegações de Santarém, de Portalegre, de Beja e de Faro, integradas na Direcção Regional do Sul.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178590375": {
+   "fragment_id": "990945775",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 6.º\n\nInspector-geral\n\n1 - A IGAE é dirigida por um inspector-geral, coadjuvado por dois subinspectores-gerais, equiparados, para todos os efeitos legais, respectivamente, a director-geral e a subdirector-geral.\n\n2 - Para além do exercício das competências que lhe estão conferidas por lei, delegadas ou subdelegadas, compete em especial ao inspector-geral:\n\na) Representar a IGAE junto de quaisquer instituições ou organismos nacionais ou internacionais;\n\nb) Dirigir, coordenar e orientar os serviços, bem como aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;\n\nc) Aprovar e apresentar superiormente o plano e o relatório de actividades anuais da IGAE;\n\nd) Submeter à aprovação das entidades competentes o orçamento e as contas anuais da IGAE;\n\ne) Decidir e propor a locação e aquisição de bens e serviços no âmbito das suas competências.\n\n3 - Os subinspectores-gerais exercem as competências que neles forem delegadas ou subdelegadas pelo inspector-geral.\n\n4 - Nas suas ausências e impedimentos, o inspector-geral é substituído pelo subinspector-geral que para o efeito designar.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178590475": {
+   "fragment_id": "990945975",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 7.º\n\nDirecção de Serviços de Planeamento e Controlo Operacional\n\n1 - À DSPCO compete, designadamente:\n\na) Efectuar estudos sobre a actividade operacional da IGAE e promover a realização de projectos com interesse para os serviços;\n\nb) Recolher, analisar e tratar toda a informação de natureza operacional, com vista à realização das acções de inspecção, fiscalização ou de investigação;\n\nc) Promover o planeamento das acções nas diferentes áreas de especialização e de intervenção, em articulação com as direcções regionais da IGAE;\n\nd) Elaborar o plano estratégico de médio prazo e o plano e relatório de actividades anuais;\n\ne) Prestar apoio à coordenação da actividade operacional da IGAE, desenvolvida pelos sectores de fiscalização e investigação e técnico-periciais, propondo as acções mais adequadas;\n\nf) Conceber e optimizar metodologias de actuação visando a prevenção e a repressão das infracções antieconómicas;\n\ng) Elaborar instruções e procedimentos visando a eficaz execução da actividade da IGAE;\n\nh) Assegurar a articulação com outros organismos nacionais e promover relações de cooperação com organismos homólogos internacionais.\n\n2 - Para a execução dos procedimentos e desenvolvimento das tarefas materiais inerentes às actividades da IGAE, a DSPCO pode estruturar-se em divisões cujas competências são definidas por despacho do inspector-geral, a publicar no Diário da República.\n\n3 - O número de lugares de chefe de divisão referido no número anterior não pode ser superior a três.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178590575": {
+   "fragment_id": "990946175",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 8.º\n\nGabinete de Apoio Técnico\n\n1 - Ao GAT compete, designadamente:\n\na) Proceder à investigação de fontes documentais nacionais e estrangeiras com interesse específico para a actividade desenvolvida pela IGAE;\n\nb) Recolher, organizar, difundir e manter actualizada a legislação específica e a informação inerente à actividade da IGAE;\n\nc) Apoiar outros serviços na selecção de documentação científica e técnica de interesse para a IGAE;\n\nd) Preparar e analisar protocolos e outros instrumentos contratuais, nos quais a IGAE participe;\n\ne) Colaborar com os serviços ou organismos do Ministério na elaboração de procedimentos com vista à implementação de um sistema de gestão da qualidade;\n\nf) Elaborar os conteúdos programáticos, preparar os respectivos manuais e assegurar a realização das acções de formação interna e específica destinada ao pessoal das carreiras de inspecção.\n\n2 - O GAT é dirigido por um chefe de divisão.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178590675": {
+   "fragment_id": "990946375",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 9.º\n\nDivisão de Informação e Expediente Geral\n\nÀ DIEG compete, designadamente:\n\na) Elaborar e difundir ordens e notas de serviço superiormente definidas;\n\nb) Articular com os serviços competentes do Ministério, em matéria de actualização e manutenção da informação da IGAE disponível no site da Internet;\n\nc) Prestar informação sobre legislação e outros instrumentos legais disciplinadores do exercício das actividades económicas;\n\nd) Assegurar a recepção, classificação, registo e distribuição de toda a documentação em suporte de papel entrada na sede da IGAE, bem como a numeração, classificação e difusão da documentação digitalizada recebida;\n\ne) Assegurar o arquivo de documentos em microfilme e em suporte electrónico, garantido a sua reprodutibilidade;\n\nf) Organizar e gerir o arquivo corrente;\n\ng) Assegurar o envio da documentação a expedir pela IGAE;\n\nh) Assegurar as funções de reprografia e de telecópia.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178590775": {
+   "fragment_id": "990946575",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 10.º\n\nDirecções regionais\n\n1 - No âmbito da respectiva área geográfica de actuação, as direcções regionais são serviços que têm por finalidade desenvolver as diligências necessárias e adequadas ao cumprimento das atribuições previstas no presente diploma, competindo-lhes, designadamente, assegurar a fiscalização do cumprimento das normas legais que disciplinam as actividades económicas.\n\n2 - As direcções regionais da IGAE têm por área geográfica de actuação o continente, na configuração definida pelo nível II da nomenclatura de unidades territoriais (NUTS), abarcando a Direcção Regional do Sul, as unidades de Lisboa e Vale do Tejo, Alentejo e Algarve, sem prejuízo de eventuais ajustamentos que se revelem necessários, mediante despacho do Ministro da Economia.\n\n3 - As direcções regionais são dirigidas por directores regionais que dependem directamente do inspector-geral, equiparados a directores de serviços.\n\n4 - Compete aos directores regionais, no âmbito da respectiva área geográfica:\n\na) Representar o inspector-geral;\n\nb) Assegurar o cumprimento de todas as atribuições da IGAE;\n\nc) Zelar pelo cumprimento das orientações do inspector-geral;\n\nd) Coadjuvar as autoridades judiciárias;\n\ne) Controlar a legalidade e adequação nos actos de intervenção da IGAE.\n\n5 - As direcções regionais compreendem os seguintes sectores especializados de intervenção:\n\na) Sectores de fiscalização e investigação (SFI), até um máximo de seis;\n\nb) Sector técnico-pericial (STP).\n\n6 - Cada direcção regional dispõe de um núcleo de apoio (NA).\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178590875": {
+   "fragment_id": "990946775",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 11.º\n\nSectores de fiscalização e investigação\n\n1 - Aos SFI compete desenvolver as atribuições da IGAE no domínio da fiscalização e investigação do cumprimento das obrigações legais que disciplinam as actividades económicas.\n\n2 - Os SFI são coordenados por funcionários das carreiras de inspecção, preferencialmente da carreira de inspector superior, designados por despacho do inspector-geral, sob proposta dos respectivos directores regionais, de quem dependem directamente.\n\n3 - Quando dirijam no mínimo duas brigadas, constituídas cada uma por dois funcionários das carreiras de inspecção, os respectivos coordenadores são remunerados pelo índice correspondente à respectiva carreira e escalão, majorado de um impulso de 55 pontos, tendo como limite a remuneração base de chefe de divisão.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178590975": {
+   "fragment_id": "990946975",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 12.º\n\nSectores técnico-periciais\n\n1 - Sem prejuízo do disposto na Lei n.º 21/2000, de 10 de Agosto, compete aos STP prestar assessoria técnica aos SFI, através da realização de estudos, perícias, concepção, adaptação e aplicação de métodos e processos técnico-científicos.\n\n2 - Os STP são coordenados por funcionários das carreiras de inspecção, preferencialmente da carreira de inspector superior, designados por despacho do inspector-geral, sob proposta dos respectivos directores regionais, de quem dependem directamente.\n\n3 - Quando os STP tiverem um mínimo de quatro funcionários das carreiras de inspecção ou técnicas, os respectivos coordenadores são remunerados pelo índice correspondente à respectiva carreira e escalão, majorado de um impulso de 55 pontos, tendo como limite a remuneração base de chefe de divisão.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178591075": {
+   "fragment_id": "990947175",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 13.º\n\nNúcleo de apoio\n\n1 - Compete ao NA de cada direcção regional:\n\na) Proceder à recepção, classificação, registo, distribuição e envio da correspondência em suporte de papel e digital;\n\nb) Assegurar as funções de reprografia e telecópia;\n\nc) Garantir o apoio processual aos SFI;\n\nd) Apoiar o director regional e os sectores operacionais no registo e na sistematização de dados decorrentes da actividade operacional;\n\ne) Proceder à identificação e armazenagem de mercadorias apreendidas.\n\n2 - O NA é coordenado por um funcionário da carreira técnico-profissional ou administrativo, designado por despacho do inspector-geral, sob proposta do respectivo director regional, de quem depende directamente.\n\n3 - Os coordenadores dos NA são remunerados pelo índice imediatamente superior ao que detêm ou, caso estejam posicionados no último escalão, por um índice correspondente a um acréscimo de 10 pontos.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178591175": {
+   "fragment_id": "990947375",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 14.º\n\nDelegações das direcções regionais\n\n1 - As delegações das direcções regionais são unidades orgânicas desconcentradas que prosseguem as finalidades das respectivas direcções regionais na área geográfica que lhes for atribuída, bem como as competências que lhes forem delegadas pelo respectivo director regional.\n\n2 - Sem prejuízo do disposto no n.º 4 do artigo 5.º, as delegações das direcções regionais são criadas ou extintas mediante despacho conjunto dos Ministros das Finanças e da Economia.\n\n3 - As delegações das direcções regionais são coordenadas por funcionários das carreiras de inspecção, preferencialmente da carreira de inspector superior, designados por despacho do inspector-geral, sob proposta dos respectivos directores regionais, de quem dependem directamente.\n\n4 - As delegações das direcções regionais podem dispor de um núcleo de apoio reduzido, com funções análogas às das direcções regionais.\n\n5 - Os coordenadores das delegações regionais são remunerados pelo índice correspondente ao da sua carreira e escalão, majorado de um impulso de 55 pontos, tendo como limite a remuneração base de chefe de divisão.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178591275": {
+   "fragment_id": "990947575",
+   "type": 1,
+   "heading": "Capítulo III",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "### Capítulo III\n\nOrganização e funcionamento\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178591375": {
+   "fragment_id": "990947775",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 15.º\n\nFlexibilidade estrutural\n\nO funcionamento e a gestão da IGAE assentam numa estrutura flexível e baseia-se no modelo de gestão participada e integrada na definição e realização dos objectivos de controlo e avaliação sistemática dos resultados.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178591475": {
+   "fragment_id": "990947975",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 16.º\n\nPrincípios de gestão\n\n1 - O funcionamento da IGAE assenta na estrutura definida no presente diploma e na articulação com os serviços centrais, com vista à realização dos objectivos comuns do Ministério.\n\n2 - A gestão da IGAE orienta-se por objectivos previamente definidos e pelo adequado controlo de resultados e dos respectivos custos financeiros.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178591575": {
+   "fragment_id": "990948175",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 17.º\n\nInstrumentos de gestão\n\nA actividade da IGAE obedece às normas gerais estabelecidas para o regime financeiro dos serviços dotados de autonomia administrativa, sendo utilizados os seguintes instrumentos de gestão:\n\na) Plano estratégico de médio prazo, actualizado anualmente, contemplando as linhas de orientação da IGAE;\n\nb) Plano anual de actividades;\n\nc) Orçamento anual, elaborado com base no plano de actividades, e suas actualizações;\n\nd) Relatório anual de actividades;\n\ne) Conta de gerência anual;\n\nf) Balanço social;\n\ng) Outros documentos de acompanhamento regular da actividade e da execução orçamental.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178591675": {
+   "fragment_id": "990948375",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 18.º\n\nReceitas\n\nConstituem receitas da IGAE:\n\na) As dotações provenientes do Orçamento do Estado;\n\nb) O produto de serviços prestados;\n\nc) O produto da venda de publicações;\n\nd) Quaisquer outras receitas que por lei, contrato ou a qualquer outro título lhe sejam atribuídas.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178591775": {
+   "fragment_id": "990948575",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 19.º\n\nDespesas\n\nConstituem despesas da IGAE as que resultem dos encargos e responsabilidades decorrentes da prossecução das suas actividades.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178591875": {
+   "fragment_id": "990948775",
+   "type": 1,
+   "heading": "Capítulo IV",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "### Capítulo IV\n\nPrincípios e prerrogativas de actuação\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178591975": {
+   "fragment_id": "990948975",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 20.º\n\nAutoridades de polícia criminal\n\nSão autoridades de polícia criminal, nos termos e para os efeitos do Código de Processo Penal:\n\na) O inspector-geral;\n\nb) Os subinspectores-gerais;\n\nc) Os directores regionais;\n\nd) Os funcionários integrados nas carreiras de inspecção da IGAE.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178592075": {
+   "fragment_id": "990949175",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 21.º\n\nDependência funcional em processo penal\n\nNo âmbito do processo penal, a IGAE actua sob a direcção das autoridades judiciárias e na sua dependência funcional, sem prejuízo da sua inserção orgânica no Ministério.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178592175": {
+   "fragment_id": "990949375",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 22.º\n\nCooperação com outras entidades\n\n1 - A IGAE e os demais serviços, organismos ou entidades com funções de prevenção e repressão criminal ou contra-ordenacional ou com funções de autoridade administrativa devem cooperar no exercício das respectivas atribuições, utilizando os mecanismos legalmente adequados.\n\n2 - A IGAE pode solicitar aos serviços e organismos do Ministério os elementos de informação e a colaboração de recursos humanos qualificados que se mostrem necessários ao desenvolvimento de projectos específicos.\n\n3 - Os organismos públicos devem prestar à IGAE a colaboração que lhes for solicitada, designadamente na área técnico-pericial.\n\n4 - Em articulação com o Ministério dos Negócios Estrangeiros, a IGAE pode estabelecer relações de cooperação com organismos similares de outros países ou com organizações internacionais, sem prejuízo do disposto na Lei n.º 21/2000, de 10 de Agosto.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178592275": {
+   "fragment_id": "990949575",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 23.º\n\nPrerrogativas de fiscalização e investigação\n\n1 - Sem prejuízo do disposto na legislação processual penal, os funcionários do quadro de pessoal das carreiras de inspecção da IGAE podem, no exercício das suas funções, proceder à recolha de elementos de prova, nomeadamente por recurso a meios fotográficos e áudio-visuais.\n\n2 - Perante ordem emanada de funcionário integrado na carreira de inspecção da IGAE, devidamente identificado e no exercício das suas funções, os proprietários, administradores, gerentes, directores, encarregados ou representantes dos estabelecimentos, unidades e demais locais sujeitos a fiscalização e investigação estão obrigados a:\n\na) Facultar a entrada nos locais sujeitos a inspecção ou fiscalização e investigação, bem como a assegurar a sua permanência pelo tempo que for necessário à conclusão daquelas acções;\n\nb) Apresentar, independentemente do suporte em que se encontrem inseridos, toda a documentação, livros de contabilidade, registos e quaisquer outros elementos que lhes forem exigidos e prestar as informações solicitadas;\n\nc) Fornecer a sua completa identificação.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178592375": {
+   "fragment_id": "990949775",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 24.º\n\nLivre trânsito, uso e porte de arma e crachá\n\n1 - O pessoal indicado no artigo 20.º goza, além dos que são atribuídos aos restantes funcionários públicos, dos seguintes direitos:\n\na) Uso de cartão de livre trânsito, de modelo a aprovar por portaria do Ministro da Economia;\n\nb) Uso e porte de arma de defesa, de qualquer modelo, distribuída pelo Estado, independentemente de licença.\n\n2 - Ao pessoal referido no artigo 20.º não pode ser impedida a entrada nos lugares a que se refere o n.º 2 do artigo 4.º, desde que identificado pela exibição do cartão de livre trânsito.\n\n3 - O uso do cartão de livre trânsito para fins alheios ao exercício das funções do respectivo titular é considerado falta grave.\n\n4 - Para além do cartão de livre trânsito, a identificação dos funcionários das carreiras de inspecção pode ainda fazer-se pela exibição de crachá, cujo modelo é aprovado por portaria do Ministro da Economia.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178592475": {
+   "fragment_id": "990949975",
+   "type": 1,
+   "heading": "Capítulo V",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "### Capítulo V\n\nPessoal\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178592575": {
+   "fragment_id": "990950175",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 25.º\n\nQuadro de pessoal\n\n1 - Os lugares do quadro de pessoal dirigente da IGAE constam do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - O quadro de pessoal da IGAE é aprovado por portaria conjunta dos Ministros das Finanças e da Economia.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178592675": {
+   "fragment_id": "990950375",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 26.º\n\nRegime de duração do trabalho\n\n1 - Ao pessoal da IGAE é aplicado o regime de duração do trabalho estabelecido para a função pública, salvo o disposto no número seguinte.\n\n2 - O serviço prestado pelo pessoal das carreiras de inspecção é de carácter permanente, o que implica a obrigatoriedade da sua prestação durante o dia ou à noite, incluindo os dias de descanso e feriados, consoante as necessidades de serviço.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178592775": {
+   "fragment_id": "990951975",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 27.º\n\nSigilo profissional e segredo de justiça\n\nOs funcionários da IGAE estão sujeitos às disposições legais em vigor sobre segredo de justiça e obrigação de sigilo profissional, não podendo, nomeadamente, revelar segredos relacionados com a actividade económica de que tomem conhecimento no exercício das suas funções e o conteúdo das reclamações, queixas ou denúncias que lhes sejam apresentadas, incluindo a identificação dos seus autores.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178592875": {
+   "fragment_id": "990952175",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 28.º\n\nIncompatibilidades e acumulações\n\nO pessoal das carreiras de inspecção em serviço efectivo não pode exercer cargos de gerência, administração ou quaisquer outras funções, sejam ou não remuneradas, ao serviço de quaisquer entidades cuja actividade esteja sujeita à fiscalização da IGAE.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178592975": {
+   "fragment_id": "990952375",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 29.º\n\nFormação\n\nA IGAE promove a organização de acções de aperfeiçoamento e reciclagem profissionais e de cursos de formação profissional destinados à preparação, especialização e aperfeiçoamento dos funcionários do seu quadro, podendo fazê-lo em colaboração com outras entidades.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178593075": {
+   "fragment_id": "990952575",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 30.º\n\nMobilidade geográfica\n\n1 - A mobilidade do pessoal do quadro da IGAE para localidade diferente daquela onde exerce funções pode fazer-se a seu pedido ou na sequência de promoção, nos termos do respectivo concurso.\n\n2 - O pessoal das carreiras de inspecção pode, por conveniência de serviço, ser colocado temporariamente, sem a sua anuência, em localidade diferente daquela onde exerce funções, nos termos do número seguinte.\n\n3 - A colocação a que se refere o número anterior, para a qual serão escolhidos prioritária e rotativamente os funcionários mais modernos na respectiva categoria, deve obedecer aos requisitos abaixo indicados:\n\na) Ser objecto de despacho fundamentado do inspector-geral;\n\nb) Operar-se dentro da área territorial da direcção regional onde o funcionário se encontre colocado ou para um distrito limítrofe daquela área;\n\nc) Não ultrapassar período superior a um ano, o qual pode ser prorrogado, excepcionalmente, por mais um ano, por despacho do Ministro da Economia, sob proposta do inspector-geral.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178593175": {
+   "fragment_id": "990952775",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 31.º\n\nSubsídio de deslocação e de residência\n\n1 - Os funcionários das carreiras de inspecção colocados, por promoção ou conveniência de serviço, em localidades diferentes daquela onde exercem funções têm direito, por ocasião da deslocação, a um período de tempo de instalação de cinco dias e um subsídio fixo correspondente a 30 dias de ajudas de custo a que teriam direito por deslocações da sua residência habitual e ao transporte, por conta do Estado, do respectivo mobiliário.\n\n2 - Enquanto não houver habitações fornecidas pelo Estado, os funcionários da IGAE que tenham de mudar de residência por motivos de nomeação para cargos dirigentes, promoção e conveniência de serviço têm direito a um subsídio de residência.\n\n3 - Sem prejuízo do disposto no n.º 1, o subsídio de residência não é acumulável com o abono de ajudas de custo ou com qualquer outro abono que vise compensar despesas de alojamento nem é, de igual modo, atribuído aos funcionários:\n\na) Que possuam habitação própria ou do cônjuge, condigna e disponível, a menos de 30 km da nova colocação;\n\nb) Cujo cônjuge beneficie de subsídio idêntico e dele não prescinda e esteja colocado a menos de 30 km da residência;\n\nc) Cuja mudança não dê origem a uma deslocação superior a 30 km.\n\n4 - O subsídio de residência é fixado no montante de (euro) 116,72 mensais, actualizado anualmente na mesma percentagem em que for o índice 100 da tabela salarial do regime geral da função pública.\n\n5 - A atribuição do subsídio de residência referido no número anterior cessa ao fim de cinco anos ou em momento anterior se o funcionário ou o cônjuge adquirirem habitação própria em localidade onde o funcionário presta serviço.\n\n6 - Quando se verificarem os factos determinantes da cessação do subsídio de residência, os funcionários devem declará-los no prazo de 30 dias após a sua ocorrência.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178593275": {
+   "fragment_id": "990952975",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 32.º\n\nTransporte de funcionários\n\n1 - Os funcionários da IGAE têm direito a transporte por conta do Estado:\n\na) Quando transferidos;\n\nb) Quando colocados, para efeitos de promoção ou comissão de serviço, em localidade diferente daquela em que exerciam as suas funções;\n\nc) Quando deslocados temporariamente por motivos de serviço;\n\nd) Quando deslocados para efeitos de prestação de provas de selecção e de frequência de cursos ou outras acções de formação e aperfeiçoamento profissionais.\n\n2 - Nos casos referidos no número anterior deve utilizar-se transporte público, de acordo com o estabelecido na lei geral, salvo quando a sua urgência ou a necessidade de serviço, superiormente reconhecidas, exigirem outro tipo de transporte, cujo custo será reembolsado mediante apresentação do respectivo documento de despesa.\n\n3 - Se o funcionário utilizar transporte próprio, aplicar-se-á o disposto na lei geral.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1177966975": {
+   "fragment_id": "990953175",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 33.º\n\nAposentação\n\n1 - O pessoal das carreiras de inspecção atinge o limite de idade aos 60 anos.\n\n2 - O pessoal a que se refere o número anterior beneficia do acréscimo de 20% do tempo de serviço, para efeitos de aposentação por limite de idade ou invalidez.\n\n3 - O limite de idade fixado no n.º 1 não se aplica ao pessoal das carreiras de inspecção enquanto exerça, em comissão de serviço, funções dirigentes, excepto se o requerer.\n\n4 - O tempo de serviço prestado na IGAE no exercício dos cargos de inspector-geral, subinspector-geral e director regional beneficia do acréscimo de 20% para efeitos de aposentação por limite de idade ou por invalidez.\n\n5 - Desde que conte com pelo menos cinco anos de serviço nas carreiras de inspecção, o respectivo pessoal pode, se o requerer, aposentar-se com menos de 60 anos e a idade mínima de 55 anos, não lhe sendo, nestes casos, aplicáveis quer o disposto no n.º 2, quer os factores e taxa global de redução usados no cálculo do valor da pensão de aposentação antecipada nos termos da lei.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 229/2005 - Diário da República n.º 249/2005, Série I-A de 2005-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-2005-469069), em vigor a partir de 2006-01-01."
+  },
+  "1178593375": {
+   "fragment_id": "990953375",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 34.º\n\nPatrocínio judiciário\n\n1 - Os funcionários da IGAE que sejam arguidos em processo contra-ordenacional, disciplinar ou judicial por actos cometidos ou ocorridos no exercício e por causa das suas funções têm direito a ser assistidos por advogado retribuído a expensas do Estado, através da IGAE, bem como a transporte e ajudas de custo, quando a localização do tribunal ou das entidades policiais o justifique.\n\n2 - O disposto no número anterior não afasta a obrigação de ressarcir o Estado em todas as despesas suportadas, sempre que o funcionário venha a ser condenado em qualquer dos processos referidos no número anterior, logo que a decisão ou a sentença judicial tenha transitado em julgado.\n\n3 - O advogado referido no n.º 1 é indicado pela IGAE, ouvido o interessado.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178593475": {
+   "fragment_id": "990953575",
+   "type": 1,
+   "heading": "Capítulo VI",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "### Capítulo VI\n\nDisposições finais e transitórias\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178593575": {
+   "fragment_id": "990953775",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 35.º\n\nTransferência de competências\n\n1 - Com a entrada em vigor do presente diploma, consideram-se transferidas para a IGAE as competências em matéria de fiscalização e instrução processual, cometidas às direcções regionais da economia e à Direcção-Geral do Turismo, sem prejuízo do disposto no n.º 5.\n\n2 - A transferência prevista no número anterior é efectuada sem prejuízo das competências das direcções regionais da economia e da Direcção-Geral do Turismo, em matéria de verificação e acompanhamento técnico nas respectivas áreas de actuação.\n\n3 - Incumbe à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade decidir sobre os processos de contra-ordenação a que se refere o n.º 1, com a aplicação das respectivas coimas e sanções acessórias.\n\n4 - As receitas provenientes da aplicação de coimas a que se refere o número anterior revertem em 40% para a IGAE e em 60% para o Estado.\n\n5 - Os processos de contra-ordenação instruídos pelas direcções regionais da economia e pela Direcção-Geral do Turismo que se encontrem a correr termos até à data da entrada em vigor do presente diploma ou que se encontrem fundamentados em auto de notícia ou reclamação com data do registo ou de entrada até à mesma data mantêm-se na competência destes organismos.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178593675": {
+   "fragment_id": "990953975",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 36.º\n\nExtinção de serviços\n\nSão extintas as delegações distritais previstas no Decreto-Lei n.º 269-A/95, de 19 de Outubro, aplicando-se aos respectivos funcionários o disposto no Decreto-Lei n.º 193/2002, de 25 de Setembro.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178593775": {
+   "fragment_id": "990954175",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 37.º\n\nTransição do pessoal da IGAE\n\nCom excepção do pessoal que actualmente desempenha funções que passam a integrar as competências da Secretaria-Geral ou do Gabinete de Gestão do Ministério e que transita para estes organismos nos termos do Decreto-Lei n.º 186/2003, de 20 de Agosto, a transição do pessoal do quadro da IGAE faz-se para o novo quadro de pessoal da IGAE, a que se refere o n.º 2 do artigo 25.º, nos termos do Decreto-Lei n.º 193/2002, de 25 de Setembro.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178593875": {
+   "fragment_id": "990954375",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 38.º\n\nConcursos e estágios pendentes\n\n1 - Mantêm-se válidos os concursos de pessoal abertos anteriormente à data de entrada em vigor do presente diploma.\n\n2 - O pessoal que à data de entrada em vigor do presente diploma se encontre em regime de estágio mantém-se nesta situação até à conclusão do mesmo, devendo, consoante os casos, e se necessário, ser nomeado novo júri ou elementos do júri, o qual procede à respectiva avaliação e classificação final.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178593975": {
+   "fragment_id": "990954575",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 39.º\n\nComissões de serviço\n\nCom a entrada em vigor do presente diploma cessam as comissões de serviço dos directores de serviço e chefes de divisão da IGAE, podendo manter-se por despacho do inspector-geral, em regime de gestão corrente até à nomeação dos novos titulares.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178594075": {
+   "fragment_id": "990954775",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 40.º\n\nSituações especiais\n\n1 - Os funcionários do quadro da IGAE que se encontrem a exercer funções em outros serviços ou organismos em regime de destacamento, requisição ou comissão de serviço mantêm essa situação até ao termo do respectivo prazo.\n\n2 - O pessoal que se encontre na situação de licença de longa duração mantém os direitos de que era titular à data do início da respectiva licença, sendo-lhe aplicado o regime correspondente previsto no Decreto-Lei n.º 100/99, de 31 de Março.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178594175": {
+   "fragment_id": "990954975",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 41.º\n\nReferências legais\n\nAs disposições legais que remetem para preceitos de anteriores diplomas orgânicos da IGAE consideram-se feitas para as correspondentes disposições do presente diploma.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178594275": {
+   "fragment_id": "990955175",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "###### Artigo 42.º\n\nNorma revogatória\n\nÉ revogado o Decreto-Lei n.º 269-A/95, de 19 de Outubro.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178594375": {
+   "fragment_id": "990955375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Carlos Manuel Tavares da Silva - Armando José Cordeiro Sevinate Pinto - Luís Filipe Pereira - António Pedro de Nobre Carmona Rodrigues.\n\nPromulgado em 18 de Fevereiro de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Fevereiro de 2004.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  },
+  "1178594475": {
+   "fragment_id": "990955575",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+   ],
+   "markdown": "## Anexo\n\nMapa a que se refere o n.º 1 do artigo 25.º\n\n(ver mapa no documento original)\n\n> Revogado pelo/a Artigo 53.º do/a [Decreto-Lei n.º 237/2005 - Diário da República n.º 250/2005, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/237-2005-473500), em vigor a partir de 2006-01-01."
+  }
+ }
+}

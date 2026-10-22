@@ -1,0 +1,303 @@
+---
+schema_version: '1.0'
+id: pt:dre:69920320:por
+title: Decreto Regulamentar n.º 8/2015
+short_title: null
+summary: Aprova a orgânica da Direção-Geral de Recursos da Defesa Nacional
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 8/2015
+official_date: null
+publication_date: '2015-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 148/2015, Série I de 2015-07-31
+  number: '148'
+  series: I
+  supplement: null
+  pages: 5195 - 5198
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/07/14800/0519505198.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/8/2015/07/31/p/dre/pt/html
+  oj: null
+  dre: '69920320'
+  dre_path: /dr/detalhe/decreto-regulamentar/8-2015-69920320
+  internal: pt:dre:69920320:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2015-69920320
+  metadata_url: https://data.dre.pt/eli/decregul/8/2015/07/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-2015-69920320
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-07-25T00:00:00Z'
+integrity:
+  source_sha256: 12463a12ddd9592d2eba5e4c2996d0768c97e2bb749426c12b6c00d9ebb7ef5e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2015/DRE-2015-8-69920320.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Definição de Competências
+- Orgânica
+- Direção Geral de Recursos da Defesa Nacional
+relationships:
+- type: amended_by
+  target: pt:dre:926311142:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/183/2014/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/183/2014/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/184/2014/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/184/2014/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/5/2012/01/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/5/2012/01/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/6/2012/01/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/6/2012/01/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/19/2013/04/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2013/04/19/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 8/2015
+
+de 31 de julho
+
+A [Resolução do Conselho de Ministros n.º 19/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/19-2013-259967), de 5 de abril, que aprovou o Conceito Estratégico de Defesa Nacional, e a subsequente [Resolução do Conselho de Ministros n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/26-2013-260395), de 11 de abril, que aprovou a Reforma «Defesa 2020», definiram as orientações políticas para a implementação da reforma estrutural na defesa nacional e nas Forças Armadas.
+
+No âmbito desta reforma, o [Decreto-Lei n.º 183/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2014-65983260), de 29 de dezembro, aprovou a nova orgânica do Ministério da Defesa Nacional (MDN), tendo em vista a simplificação e otimização dos serviços, ajustando-os em função das boas práticas, mantendo como referencial a racionalização das estruturas orgânicas da Administração Pública e do seu modo de funcionamento, à luz dos objetivos de modernização administrativa, melhoria de funcionamento, economia de meios e redução da despesa pública.
+
+Foi então preconizado o aprofundamento da reorganização dos serviços centrais, através da criação da Direção-Geral de Recursos da Defesa Nacional, resultante da fusão da Direção-Geral de Pessoal e Recrutamento Militar com a Direção-Geral de Armamento e Infraestruturas de Defesa, e o reforço das atribuições da Direção-Geral de Política de Defesa Nacional e da Secretaria-Geral do MDN.
+
+A Direção-Geral de Recursos da Defesa Nacional congrega um leque de atribuições muito vasto que importa relacionar e estruturar de forma harmoniosa, procurando-se uma verdadeira integração ao invés de um mero somatório das atribuições das duas direções-gerais extintas.
+
+O presente decreto regulamentar estabelece a missão, as atribuições e o tipo de organização interna da Direção-Geral de Recursos da Defesa Nacional, definindo ainda a dotação de lugares de direção superior e de direção intermédia de 1.º grau e o estatuto remuneratório dos chefes das equipas multidisciplinares.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 24.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Direção-Geral de Recursos da Defesa Nacional, abreviadamente designada por DGRDN, é um serviço central da administração direta do Estado dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DGRDN tem por missão conceber, desenvolver, coordenar e executar as políticas de recursos humanos, armamento, equipamentos, património e infraestruturas necessários à defesa nacional.
+
+2 - A DGRDN prossegue as seguintes atribuições:
+
+a) Estudar, propor e emitir pareceres e monitorizar a execução das medidas de política de recursos humanos - militares, militarizados e civis -, nomeadamente as relativas a estatutos, vínculos, carreiras e remunerações;
+
+b) Apoiar o Ministro da Defesa Nacional na direção da atividade interministerial de execução da política de defesa nacional e das Forças Armadas, em articulação com o Estado-Maior-General das Forças Armadas (EMGFA) e a Direção-Geral de Política de Defesa Nacional (DGPDN), nomeadamente quanto à mobilização e requisição;
+
+c) Exercer as competências de órgão central de recrutamento e divulgação, planeando, dirigindo e coordenando os processos estruturantes da profissionalização do serviço militar, nos termos da Lei do Serviço Militar, respetivo regulamento e demais legislação complementar;
+
+d) Planear, dirigir e coordenar as atividades relativas ao recenseamento militar e ao Dia da Defesa Nacional;
+
+e) Estudar, propor e monitorizar a execução de medidas de política de ensino, investigação e desenvolvimento e inovação, formação e qualificação profissional, assegurando a devida articulação com os sistemas nacionais;
+
+f) Estudar, propor e monitorizar a execução de medidas de política de saúde militar, assegurando a devida articulação com o sistema nacional;
+
+g) Estudar, propor e monitorizar a execução de medidas de política no âmbito do apoio social;
+
+h) Estudar, propor e monitorizar a execução de medidas de política de apoio e reabilitação dos deficientes militares, assegurando a devida articulação com o sistema nacional;
+
+i) Propor, avaliar e executar as políticas de apoio aos antigos combatentes;
+
+j) Conceber, desenvolver, coordenar e executar as políticas de armamento, bens, equipamentos, infraestruturas e investigação e desenvolvimento necessárias às Forças Armadas e à defesa nacional;
+
+k) Conceber, desenvolver, coordenar e executar a política ambiental da defesa nacional;
+
+l) Participar no processo de planeamento de forças e de edificação de capacidades militares, coordenando a formulação dos planos de armamento e de infraestruturas enquanto instrumentos de planeamento, com vista à elaboração das propostas de lei de programação militar;
+
+m) Coordenar a elaboração das propostas de lei de programação militar e de programação das infraestruturas militares, de acordo com o ciclo de planeamento de defesa, assegurando a respetiva execução e controlo;
+
+n) Planear, coordenar e executar as atividades relativas à gestão do ciclo de vida logístico do armamento, bens e equipamentos, no que se refere aos processos de aquisição, manutenção, alienação e desmilitarização;
+
+o) Propor a concessão de autorizações para acesso e exercício das atividades de indústria e ou comércio de bens e tecnologias militares e proceder à supervisão da atividade das empresas do setor da defesa e ao controlo das importações e exportações de bens e tecnologias militares;
+
+p) Planear, coordenar e executar as atividades relativas à aquisição, arrendamento, construção, manutenção, disposição e rentabilização das infraestruturas e demais património imobiliário afeto à defesa nacional, assegurando, designadamente, as competências legais da Unidade de Gestão Patrimonial do Ministério da Defesa Nacional (MDN);
+
+q) Participar, coordenando a posição do MDN, na definição e execução das políticas de ordenamento do território e urbanismo, garantindo a salvaguarda dos interesses da defesa nacional em sede de produção, alteração, revisão e execução dos instrumentos de gestão territorial;
+
+r) Participar na preparação e execução de medidas que envolvam a requisição, aos particulares, de coisas ou serviços;
+
+s) Assegurar, no âmbito das suas atribuições e em articulação com a DGPDN, a representação em organizações e entidades internacionais e nacionais, definindo, propondo, coordenando e desenvolvendo protocolos, projetos e outras atividades de cooperação nos domínios dos recursos humanos, do armamento, dos equipamentos, do património e das infraestruturas da defesa nacional;
+
+t) Assegurar, no âmbito das suas atribuições, a representação em organizações e entidades nacionais e internacionais, propondo, coordenando e desenvolvendo atividades de cooperação internacional na execução das políticas de defesa no domínio do armamento, equipamentos, infraestruturas e património;
+
+u) Planear, coordenar e monitorizar, em articulação com os serviços e organismos do MDN, os ramos das Forças Armadas e outras entidades, as atividades relativas ao turismo militar, assegurando uma visão integrada do património da defesa nacional, apresentando e executando propostas de caráter educativo e formativo que valorizem a história e cultura portuguesas.
+
+###### Artigo 3.º — Órgãos
+
+1 - A DGRDN é dirigida por um diretor-geral, coadjuvado por dois subdiretores-gerais, cargos de direção superior de 1.º e 2.º grau, respetivamente.
+
+2 - Junto da DGRDN funcionam a Capelania Mor do Serviço de Assistência Religiosa das Forças Armadas e das Forças de Segurança e o gabinete do oficial de ligação junto da Agência OTAN de Apoio Logístico.
+
+###### Artigo 4.º — Diretor-geral
+
+1 - Compete ao diretor-geral dirigir e orientar a ação dos órgãos e serviços da DGRDN, nos termos das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas.
+
+2 - Compete ainda ao diretor-geral exercer as funções de Diretor Nacional de Armamento.
+
+3 - Os subdiretores-gerais exercem as competências que lhes sejam delegadas ou subdelegadas pelo diretor-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Tipo de organização interna
+
+A organização interna da DGRDN obedece ao seguinte modelo estrutural misto:
+
+a) Nas áreas de atividades cuja natureza, complexidade ou transversalidade aconselhe o seu desenvolvimento por projetos, designadamente planeamento e gestão estratégica, gestão de informação, relações externas e cooperação internacional, modernização administrativa, qualidade, inovação e investigação e desenvolvimento, o modelo de estrutura matricial;
+
+b) Nas restantes áreas, o modelo de estrutura hierarquizada.
+
+###### Artigo 6.º — Receitas
+
+1 - A DGRDN dispõe das receitas provenientes de dotações que lhe sejam atribuídas no Orçamento do Estado.
+
+2 - A DGRDN dispõe ainda das seguintes receitas próprias:
+
+a) As verbas provenientes da venda das peças dos procedimentos de formação de contratos públicos;
+
+b) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;
+
+c) O produto da venda de publicações e de trabalhos por si editados;
+
+d) Os subsídios, subvenções, comparticipações, doações e legados de entidades públicas e privadas, nacionais, estrangeiras ou internacionais;
+
+e) O rendimento dos bens que possua a qualquer título;
+
+f) As verbas provenientes das contribuições de fundos comuns resultantes do acordo entre Portugal e a Organização do Tratado do Atlântico Norte (OTAN) destinadas às infraestruturas;
+
+g) As verbas provenientes da contribuição de Portugal destinadas a suprirem as despesas de interesse nacional que excedam os requisitos militares mínimos definidos pela OTAN;
+
+h) As verbas provenientes de acordos de utilização, concessão de exploração, aluguer de capacidades sobrantes ou outros referentes à disponibilização das infraestruturas sedeadas em Portugal, devidamente autorizados e pertencentes ao inventário OTAN;
+
+i) As verbas provenientes do produto das receitas geradas pela rentabilização do património imobiliário afeto à defesa nacional;
+
+j) Quaisquer outras receitas que por lei, contrato ou a outro título lhe sejam atribuídas.
+
+3 - As quantias cobradas pela DGRDN são fixadas e periodicamente atualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indiretos de funcionamento.
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da DGRDN as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 8.º — Mapa de cargos de direção
+
+Os lugares de direção superior de 1.º e 2.º grau e de direção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 9.º — Estatuto remuneratório dos chefes das equipas multidisciplinares
+
+Aos chefes das equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a diretor de serviços ou a chefe de divisão, em função da natureza e complexidade das funções, não podendo o estatuto equiparado a diretor de serviços ser atribuído a mais de uma chefia de equipa.
+
+###### Artigo 10.º — Sucessão
+
+A DGRDN sucede nas atribuições e competências da Direção-Geral de Pessoal e Recrutamento Militar e da Direção-Geral de Armamento e Infraestruturas de Defesa.
+
+###### Artigo 11.º — Reafetação do pessoal militar
+
+O pessoal militar a exercer funções na Direção-Geral de Pessoal e Recrutamento Militar e na Direção-Geral de Armamento e Infraestruturas de Defesa transita para a DGRDN.
+
+###### Artigo 12.º — Critérios de seleção do pessoal civil
+
+São fixados como critérios gerais e abstratos de identificação do universo de trabalhadores civis necessários à prossecução das atribuições e ao exercício das competências na DGRDN, o desempenho de funções na Direção-Geral de Pessoal e Recrutamento Militar e na Direção-Geral de Armamento e Infraestruturas de Defesa nas áreas das atribuições transferidas nos termos do n.º 2 do artigo 26.º do [Decreto-Lei n.º 183/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2014-65983260), de 29 de dezembro.
+
+###### Artigo 13.º — Reafetação de outros recursos
+
+Os recursos financeiros, os bens móveis e imóveis, os veículos e os restantes recursos afetos à Direção-Geral de Pessoal e Recrutamento Militar e à Direção-Geral de Armamento e Infraestruturas de Defesa são transferidos para a DGRDN, nos termos previstos no [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro.
+
+###### Artigo 14.º — Regime transitório
+
+Até à entrada em vigor da regulamentação a que se refere o artigo 52.º do [Decreto-Lei n.º 184/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-2014-65983261), de 29 de dezembro, compete à DGRDN:
+
+a) Estudar e propor os atos e procedimentos relativos à constituição, modificação e extinção de servidões militares e de outras restrições de utilidade pública e emitir pareceres e autorizações sobre licenciamentos, nos termos da legislação aplicável;
+
+b) Manter sob a sua dependência administrativa e financeira a Estação Ibéria NATO e a Comissão de Educação Física e Desporto Militar.
+
+###### Artigo 15.º — Norma revogatória
+
+São revogados os [Decretos Regulamentares n.os 5/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2012-544411) e [6/2012](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/6-2012-544417), ambos de 18 de janeiro.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 25 de junho de 2015. - Paulo Sacadura Cabral Portas - Hélder Manuel Gomes dos Reis - Berta Maria Correia de Almeida de Melo Cabral - Jorge Manuel Lopes Moreira da Silva.
+
+**Promulgado em 26 de julho de 2015.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 28 de julho de 2015.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**
+
+## ANEXO — (a que se refere o artigo 8.º)
+
+Mapa de pessoal dirigente
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2015/07/14800/0519505198.pdf))](https://files.diariodarepublica.pt/1s/2015/07/14800/0519505198.pdf)

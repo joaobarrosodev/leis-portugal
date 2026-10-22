@@ -1,0 +1,263 @@
+---
+schema_version: '1.0'
+id: pt:dre:1462772:por
+title: Portaria n.º 839/2008
+short_title: null
+summary: Adaptação do SIADAP à carreira de investigação (CIF) do SEF
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Administração Interna
+proposing_entity: null
+official_number: 839/2008
+official_date: null
+publication_date: '2008-10-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/2008, Série II de 2008-10-15
+  number: '200'
+  series: II
+  supplement: null
+  pages: 42111 - 42113
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/10/200000000/4211142113.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1462772'
+  dre_path: /dr/detalhe/portaria/839-2008-1462772
+  internal: pt:dre:1462772:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/839-2008-1462772
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/839-2008-1462772
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-10-15T00:00:00Z'
+integrity:
+  source_sha256: 4f40dcd137d7a69ba4b654544803f7a1de78e3d0bdc60431138b8b6bbeb5fa2d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-839-1462772.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 839/2008
+
+A [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro, veio instituir o sistema integrado de gestão e avaliação do desempenho na Administração Pública, designado por SIADAP, aplicável ao desempenho dos serviços, dos dirigentes e dos trabalhadores da Administração Pública, independentemente da modalidade de constituição da relação jurídica de emprego público.
+
+Prevê o n.º 3 do artigo 3.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro, a possibilidade de adaptação do regime nela consignado em razão das atribuições e organização dos serviços, das carreiras do seu pessoal ou das necessidades da sua gestão, desde que respeitados os princípios, objectivos e subsistemas do SIADAP, a avaliação do desempenho baseada no confronto entre objectivos fixados e resultados obtidos, bem como as competências demonstradas e a desenvolver, no caso de dirigentes e trabalhadores, e ainda a diferenciação do desempenho, ou seja, o número mínimo de menções de avaliação e o valor das percentagens máximas.
+
+O Serviço de Estrangeiros e Fronteiras (SEF) é um serviço de segurança que nos termos da Lei de Segurança Interna concorre, com outros serviços e forças de segurança, para garantir a segurança interna, tendo por objectivos fundamentais controlar a circulação de pessoas nas fronteiras, a permanência e a actividade dos cidadãos estrangeiros em todo o território nacional, bem como estudar, promover, coordenar e executar as medidas e as acções relacionadas com aquelas actividades e com os movimentos migratórios. Enquanto órgão de polícia criminal, compete ao SEF proceder à investigação dos crimes de auxílio à imigração ilegal e de angariação de mãode-obra ilegal, bem como de outros com aqueles conexos, sendo o pessoal da carreira de investigação e fiscalização, carreira que nos termos da lei constitui um corpo especial, considerado autoridade de polícia criminal ou agente de autoridade.
+
+A especificidade das missões do SEF fundamenta e pressupõe a adaptação do regime de avaliação geral instituído pela [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro, no que concerne à carreira de investigação e fiscalização daquele Serviço.
+
+Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.
+
+Assim:
+
+Ao abrigo do disposto no n.º 3 do artigo 3.º da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro, manda Governo, pelos Ministros de Estado e das Finanças e da Administração Interna, o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+A presente portaria adapta o subsistema de avaliação do desempenho dos trabalhadores da Administração Pública (SIADAP 3), aprovado pela [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro, ao pessoal da carreira de investigação e fiscalização (CIF) do SEF.
+
+###### Artigo 2.º — Objectivos
+
+1 - Os objectivos a definir no âmbito do parâmetro de avaliação «Resultados» devem ser fixados de entre objectivos de eficácia, de eficiência e de qualidade.
+
+2 - São objectivos de eficácia:
+
+a) Garantir a resposta atempada aos processos;
+
+b) Garantir a satisfação dos utilizadores do Serviço;
+
+c) Optimizar as receitas geradas.
+
+3 - São objectivos de eficiência:
+
+a) Garantir a produtividade dos recursos disponíveis;
+
+b) Garantir a racionalização da despesa;
+
+c) Assegurar a correcta execução de procedimentos.
+
+4 - São objectivos de qualidade:
+
+a) Promover um elevado nível de qualidade nos serviços prestados;
+
+b) Garantir a qualidade técnica na execução das funções;
+
+c) Promover medidas de aumento da qualidade global dos serviços.
+
+###### Artigo 3.º — Competências
+
+1 - No parâmetro de avaliação «Competências», as competências a acordar entre avaliador e avaliado, nos termos da lei, são escolhidas da lista constante do número seguinte.
+
+2 - Lista de competências:
+
+a) Orientação para resultados: capacidade para concretizar com eficácia e eficiência os objectivos acordados e as tarefas que lhe são solicitadas, traduzida nos seguintes comportamentos:
+
+i) Estabelece prioridades na sua acção, centrando-se nas actividades com maior valor para o serviço (actividades-chave);
+
+ii) Antecipa obstáculos e define estratégias para suplantar os mesmos;
+
+iii) Compromete-se com objectivos exigentes e é perseverante no alcançar das metas definidas;
+
+iv) Realiza com empenho e rigor as tarefas ou projectos que lhe são distribuídos;
+
+v) Gere adequadamente o seu tempo de trabalho, preocupando-se em cumprir os objectivos e dentro dos prazos definidos;
+
+b) Orientação para o serviço público: capacidade para orientar a sua actividade respeitando os valores éticos e deontológicos do serviço público e da área de actuação em que se insere, traduzida, nomeadamente, nos seguintes comportamentos:
+
+i) Demonstra compromisso pessoal com os valores do serviço público através dos seus actos e aplicação dos princípios éticos de serviço público;
+
+ii) Identifica claramente os utentes do serviço e as suas necessidades e presta um serviço de qualidade de forma a satisfazê-las;
+
+iii) Demonstra capacidade de esforço no desenvolvimento da actividade operacional;
+
+iv) Demonstra respeito pelos valores da transparência, integridade e imparcialidade;
+
+v) No desempenho das suas actividades garante um tratamento justo e imparcial a todos os cidadãos e respeitando os princípios da neutralidade e da igualdade;
+
+c) Compromisso com o serviço: capacidade para compreender e integrar o contributo da sua actividade no sentido da missão e objectivos do serviço, exercendo-a de forma disponível e diligente, traduzida, nomeadamente, nos seguintes comportamentos:
+
+i) Reconhece o seu papel na prossecução da missão e concretização dos objectivos do serviço;
+
+ii) Procura responder a todas as solicitações que, no âmbito do seu posto de trabalho, lhe são colocadas;
+
+iii) Responde com prontidão e disponibilidade às exigências profissionais, nomeadamente perante a necessidade de um esforço suplementar;
+
+iv) Assume os valores e regras da organização, actuando com brio profissional e promovendo uma imagem de qualidade do serviço público;
+
+v) É cumpridor das regras regulamentares relativas ao funcionamento do serviço, nomeadamente da actividade operacional, horários de trabalho e reuniões;
+
+d) Representação e colaboração institucional: capacidade para representar o serviço ou a organização, em grupos de trabalho, reuniões ou eventos, de âmbito nacional ou internacional, designadamente os relacionados com a vertente operacional, traduzida, nomeadamente, nos seguintes comportamentos:
+
+i) Aceita facilmente participar em projectos ou actividades;
+
+ii) Comunica com à vontade e confiança perante o público;
+
+iii) Representa o serviço em grupos de trabalho, reuniões e outros eventos inerentes à área de actuação;
+
+iv) Consegue transmitir uma imagem de credibilidade do serviço que representa;
+
+v) Apresenta propostas ou sugestões de melhoria da actuação do serviço;
+
+e) Trabalho de equipa e cooperação: capacidade para se integrar em equipas de trabalho de constituição variada e gerar sinergias através de participação activa, traduzida, nomeadamente, nos seguintes comportamentos:
+
+i) Integra-se bem em equipas de constituição variada, dentro e fora do seu contexto habitual de trabalho;
+
+ii) Tem um papel activo e cooperante nas equipas e grupos de trabalho em que participa;
+
+iii) Partilha informações e conhecimentos com os colegas e disponibiliza-se para os apoiar quando solicitado;
+
+iv) Valoriza as contribuições dos outros, reconhecendo a diversidade de opiniões e de experiências como uma mais valia para o trabalho do grupo e promove discussões claras e abertas;
+
+v) Contribui para o desenvolvimento ou manutenção de um bom ambiente de trabalho e fortalecimento do espírito de grupo;
+
+f) Iniciativa e adaptação: capacidade para conceber novas soluções e assumir desafios e oportunidades, traduzida, nomeadamente, nos seguintes comportamentos;
+
+i) Aborda o trabalho com atitude positiva e flexível;
+
+ii) Resolve com criatividade problemas não previstos;
+
+iii) Propõe soluções inovadoras ao nível dos sistemas de planeamento interno, métodos e processos de trabalho;
+
+iv) Revela interesse e disponibilidade para o desenvolvimento de projectos de investigação com valor para a organização e eventual impacto a nível externo;
+
+v) Adere às inovações e tecnologias com valor significativo para a melhoria do funcionamento do seu serviço e para o seu desempenho individual;
+
+g) Sentido de responsabilidade: capacidade para exercer a sua actividade de forma diligente e eficaz, traduzida, nomeadamente, nos seguintes comportamentos:
+
+i) Apresenta persistência e determinação, mesmo em situações de manifesta contrariedade e complexidade;
+
+ii) Comunica resultados ou problemas de forma assertiva e pró-activa;
+
+iii) Cumpre com rigor as ordens de serviço transmitidas pelos seus superiores hierárquicos;
+
+iv) Apresenta disponibilidade para cooperar na resolução de problemas;
+
+v) Gere com rigor a informação classificada a que tem acesso, de acordo com as regras jurídicas, éticas e deontológicas do serviço;
+
+h) Proficiência técnica: capacidade para se manter actualizado e desenvolver capacidades, traduzida nos seguintes comportamentos:
+
+i) Mantém-se actualizado, nomeadamente no que respeita à legislação, informando superiormente sempre que relevante;
+
+ii) Revela possuir os conhecimentos técnicos necessários da sua área de actuação e utiliza-os de forma adequada;
+
+iii) Emite pareceres fundamentados sempre que lhe é superiormente solicitado;
+
+iv) Procura oportunidades de desenvolvimento e alargamento dos seus conhecimentos em matérias relevantes para a sua actividade;
+
+v) Utiliza de forma eficiente os conhecimentos adquiridos, contribuindo activamente para a melhoria contínua do serviço.
+
+i) Tolerância à pressão e contrariedades: capacidade para lidar com situações de pressão de forma adequada e profissional, traduzida, nomeadamente, nos seguintes comportamentos:
+
+i) Mantém-se produtivo mesmo em ambiente de acentuada pressão;
+
+ii) Perante situações difíceis mantém o controlo emocional e discernimento profissional;
+
+iii) Gere de forma equilibrada as exigências profissionais e pessoais;
+
+iv) Reage positivamente às críticas e contrariedades, encarando-as como momentos de aprendizagem;
+
+j) Relacionamento interpessoal: capacidade para interagir adequadamente com pessoas com diferentes características e em contextos sociais e profissionais distintos, tendo uma atitude facilitadora do relacionamento e gerindo as dificuldades e eventuais conflitos de forma ajustada, traduzida, nomeadamente, nos seguintes comportamentos:
+
+i) Tem um trato cordial e afável com colegas, superiores e utentes do serviço, sem prejuízo do cumprimento da lei;
+
+ii) Trabalha facilmente com pessoas com diferentes características;
+
+iii) Resolve com correcção e diplomacia os potenciais conflitos, utilizando estratégias que revelam bom senso e respeito pelos outros;
+
+iv) Perante conflitos mantém um comportamento estável e uma postura profissional consentânea com a função de autoridade;
+
+v) Denota autoconfiança no relacionamento e integra-se adequadamente em vários contextos socioprofissionais.
+
+###### Artigo 4.º — Legislação subsidiária
+
+Em tudo o que não estiver regulado na presente portaria é aplicável à avaliação do desempenho do pessoal da CIF do SEF o regime constante da [Lei n.º 66-B/2007](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2007-227271), de 28 de Dezembro.
+
+###### Artigo 5.º — Norma revogatória
+
+É revogada a [Portaria n.º 10/2001](https://diariodarepublica.pt/dr/detalhe/portaria/10-2001-239014), de 9 de Janeiro.
+
+23 de Setembro de 2008. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Administração Interna, Rui Carlos Pereira.

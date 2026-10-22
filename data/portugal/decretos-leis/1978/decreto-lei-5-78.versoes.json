@@ -1,0 +1,2603 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448080:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1978-69982745",
+ "dre_path": "/dr/detalhe/decreto-lei/5-1978-448080",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1978-01-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69964926",
+    "69964927",
+    "69964928",
+    "69964929",
+    "69964930",
+    "69964931",
+    "69964932",
+    "69964933",
+    "69964934",
+    "69964935",
+    "69964936",
+    "69964937",
+    "69964938",
+    "69964939",
+    "69964940",
+    "69964941",
+    "69964942",
+    "69964943",
+    "69964944",
+    "69964945",
+    "69964946",
+    "69964947",
+    "69964948",
+    "69964949",
+    "69964950",
+    "69964951",
+    "69964952",
+    "69964953",
+    "69964954",
+    "69964955",
+    "69964956",
+    "69964957",
+    "69964958",
+    "69964959",
+    "69964960",
+    "69964961",
+    "69964962",
+    "69964963",
+    "69964964",
+    "69964965",
+    "69964966",
+    "69964967",
+    "69964968",
+    "69964969",
+    "69964970",
+    "69964971",
+    "69964972",
+    "69964973",
+    "69964974",
+    "69992375",
+    "69992376",
+    "69992377",
+    "69992378",
+    "69992379",
+    "69992380",
+    "69992381",
+    "69992382",
+    "69992383",
+    "69992384",
+    "69992385",
+    "69992386",
+    "69992387",
+    "69992388",
+    "69992389",
+    "69992390",
+    "69992391",
+    "69992392",
+    "69992393",
+    "69992394",
+    "69992395",
+    "69992396",
+    "69992397",
+    "69992398",
+    "69992399",
+    "69992400",
+    "69992401",
+    "69992402",
+    "69992403",
+    "69992404",
+    "69992405",
+    "69992406",
+    "69992407",
+    "69992408",
+    "69992409"
+   ]
+  },
+  {
+   "date": "1987-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406124:por",
+     "title": "Decreto-Lei n.º 390/87",
+     "published": "1987-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/390-1987-406124"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "69964926",
+    "69964927",
+    "69964928",
+    "69964929",
+    "69964930",
+    "69964931",
+    "69964932",
+    "69964933",
+    "69964934",
+    "69964935",
+    "69964936",
+    "69964937",
+    "69964938",
+    "69964939",
+    "69964940",
+    "69964941",
+    "69964942",
+    "69964943",
+    "69964944",
+    "69964945",
+    "69964946",
+    "69964947",
+    "69964948",
+    "69964949",
+    "69964950",
+    "69964951",
+    "69964952",
+    "69964953",
+    "69964954",
+    "69964955",
+    "69964956",
+    "69964957",
+    "69964958",
+    "69964959",
+    "69964960",
+    "69964961",
+    "69964962",
+    "69964963",
+    "69964964",
+    "69964965",
+    "69964966",
+    "69964967",
+    "69964968",
+    "69964969",
+    "69964970",
+    "69964971",
+    "69964972",
+    "69964973",
+    "69964974",
+    "69992375",
+    "69992376",
+    "69992377",
+    "69992378",
+    "69992379",
+    "69992380",
+    "69992381",
+    "69992382",
+    "69992383",
+    "69992384",
+    "69992385",
+    "69992386",
+    "69992387",
+    "69992388",
+    "69992389",
+    "69992390",
+    "70054491",
+    "69992392",
+    "69992393",
+    "69992394",
+    "69992395",
+    "69992396",
+    "69992397",
+    "69992398",
+    "69992399",
+    "69992400",
+    "69992401",
+    "69992402",
+    "69992403",
+    "69992404",
+    "69992405",
+    "69992406",
+    "69992407",
+    "69992408",
+    "69992409",
+    "70054487"
+   ]
+  },
+  {
+   "date": "1996-09-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:214974:por",
+     "title": "Decreto-Lei n.º 179/96",
+     "published": "1996-09-24",
+     "dre_path": "/dr/detalhe/decreto-lei/179-1996-214974"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 25.º-A",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 49.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º"
+   ],
+   "fragments": [
+    "69964926",
+    "69964927",
+    "69964928",
+    "69964929",
+    "69964930",
+    "69964931",
+    "69964932",
+    "69964933",
+    "69964934",
+    "69964935",
+    "70054496",
+    "70070348",
+    "69964938",
+    "69964939",
+    "70070349",
+    "69964941",
+    "69964942",
+    "69964943",
+    "69964944",
+    "69964945",
+    "70070358",
+    "69964947",
+    "70054500",
+    "70054501",
+    "69964950",
+    "69964951",
+    "69964952",
+    "69964953",
+    "70070350",
+    "70070327",
+    "70070328",
+    "70070351",
+    "70070352",
+    "70070353",
+    "70070332",
+    "70070333",
+    "70070334",
+    "70070354",
+    "70070336",
+    "70070337",
+    "70070338",
+    "70070339",
+    "70070359",
+    "70070360",
+    "70070342",
+    "70070343",
+    "70070344",
+    "70070345",
+    "70070346",
+    "70070347",
+    "69992375",
+    "69992376",
+    "69992377",
+    "69992378",
+    "70070355",
+    "69992380",
+    "69992381",
+    "69992382",
+    "69992383",
+    "70070357",
+    "69992385",
+    "69992386",
+    "69992387",
+    "69992388",
+    "69992389",
+    "69992390",
+    "70054491",
+    "69992392",
+    "69992393",
+    "69992394",
+    "69992395",
+    "69992396",
+    "69992397",
+    "69992398",
+    "69992399",
+    "69992400",
+    "69992401",
+    "69992402",
+    "69992403",
+    "69992404",
+    "69992405",
+    "69992406",
+    "69992407",
+    "69992408",
+    "69992409",
+    "70054487"
+   ]
+  },
+  {
+   "date": "2002-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:251977:por",
+     "title": "Decreto-Lei n.º 53/2002",
+     "published": "2002-03-02",
+     "dre_path": "/dr/detalhe/decreto-lei/53-2002-251977"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "69964926",
+    "69964927",
+    "70070361",
+    "69964929",
+    "69964930",
+    "69964931",
+    "69964932",
+    "69964933",
+    "69964934",
+    "69964935",
+    "70054496",
+    "70070348",
+    "69964938",
+    "69964939",
+    "70070349",
+    "69964941",
+    "69964942",
+    "69964943",
+    "69964944",
+    "69964945",
+    "70070358",
+    "69964947",
+    "70054500",
+    "70054501",
+    "69964950",
+    "69964951",
+    "69964952",
+    "69964953",
+    "70070350",
+    "70070327",
+    "70070328",
+    "70070351",
+    "70070352",
+    "70070353",
+    "70070332",
+    "70070333",
+    "70070334",
+    "70070354",
+    "70070336",
+    "70070337",
+    "70070338",
+    "70070339",
+    "70070359",
+    "70070360",
+    "70070342",
+    "70070343",
+    "70070344",
+    "70070345",
+    "70070346",
+    "70070347",
+    "69992375",
+    "69992376",
+    "69992377",
+    "69992378",
+    "70070355",
+    "69992380",
+    "69992381",
+    "69992382",
+    "69992383",
+    "70070357",
+    "69992385",
+    "69992386",
+    "69992387",
+    "69992388",
+    "69992389",
+    "69992390",
+    "70054491",
+    "69992392",
+    "69992393",
+    "69992394",
+    "69992395",
+    "69992396",
+    "69992397",
+    "69992398",
+    "69992399",
+    "69992400",
+    "69992401",
+    "69992402",
+    "69992403",
+    "69992404",
+    "69992405",
+    "69992406",
+    "69992407",
+    "69992408",
+    "69992409",
+    "70054487"
+   ]
+  },
+  {
+   "date": "2005-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220170:por",
+     "title": "Decreto-Lei n.º 90/2005",
+     "published": "2005-06-03",
+     "dre_path": "/dr/detalhe/decreto-lei/90-2005-220170"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "69964926",
+    "69964927",
+    "70070361",
+    "69964929",
+    "69964930",
+    "69964931",
+    "69964932",
+    "69964933",
+    "69964934",
+    "69964935",
+    "70054496",
+    "70070362",
+    "69964938",
+    "69964939",
+    "70070349",
+    "69964941",
+    "69964942",
+    "69964943",
+    "69964944",
+    "69964945",
+    "70070358",
+    "69964947",
+    "70054500",
+    "70054501",
+    "69964950",
+    "69964951",
+    "69964952",
+    "69964953",
+    "70070350",
+    "70070327",
+    "70070328",
+    "70070351",
+    "70070352",
+    "70070353",
+    "70070332",
+    "70070333",
+    "70070334",
+    "70070354",
+    "70070336",
+    "70070337",
+    "70070338",
+    "70070339",
+    "70070359",
+    "70070360",
+    "70070342",
+    "70070343",
+    "70070344",
+    "70070345",
+    "70070346",
+    "70070347",
+    "69992375",
+    "69992376",
+    "69992377",
+    "69992378",
+    "70070355",
+    "69992380",
+    "69992381",
+    "69992382",
+    "69992383",
+    "70070357",
+    "69992385",
+    "69992386",
+    "69992387",
+    "69992388",
+    "69992389",
+    "69992390",
+    "70054491",
+    "69992392",
+    "69992393",
+    "69992394",
+    "69992395",
+    "69992396",
+    "69992397",
+    "69992398",
+    "69992399",
+    "69992400",
+    "69992401",
+    "69992402",
+    "69992403",
+    "69992404",
+    "69992405",
+    "69992406",
+    "69992407",
+    "69992408",
+    "69992409",
+    "70054487"
+   ]
+  },
+  {
+   "date": "2015-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69977687:por",
+     "title": "Decreto-Lei n.º 157/2015",
+     "published": "2015-08-10",
+     "dre_path": "/dr/detalhe/decreto-lei/157-2015-69977687"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 56.º",
+    "Altera Artigo 59.º",
+    "Altera Artigo 62.º",
+    "Altera Artigo 66.º",
+    "Altera Artigo 77.º"
+   ],
+   "fragments": [
+    "69964926",
+    "69964927",
+    "70070361",
+    "69964929",
+    "69964930",
+    "69964931",
+    "69964932",
+    "69964933",
+    "69964934",
+    "69964935",
+    "70054496",
+    "70070362",
+    "69964938",
+    "69964939",
+    "70070349",
+    "69964941",
+    "69964942",
+    "69964943",
+    "69964944",
+    "69964945",
+    "70070358",
+    "69964947",
+    "70054500",
+    "70054501",
+    "69964950",
+    "70070363",
+    "69964952",
+    "69964953",
+    "70070350",
+    "70070327",
+    "70070328",
+    "70070351",
+    "70070352",
+    "70070353",
+    "70070332",
+    "70070333",
+    "70070334",
+    "70070354",
+    "70070336",
+    "70070337",
+    "70070338",
+    "70070339",
+    "70070359",
+    "70070360",
+    "70070342",
+    "70070343",
+    "70070344",
+    "70070345",
+    "70070364",
+    "70070347",
+    "69992375",
+    "69992376",
+    "69992377",
+    "69992378",
+    "70070365",
+    "69992380",
+    "69992381",
+    "69992382",
+    "69992383",
+    "70070357",
+    "69992385",
+    "70070366",
+    "69992387",
+    "69992388",
+    "70070367",
+    "69992390",
+    "70054491",
+    "70070368",
+    "69992393",
+    "69992394",
+    "69992395",
+    "70070369",
+    "69992397",
+    "69992398",
+    "69992399",
+    "69992400",
+    "69992401",
+    "69992402",
+    "69992403",
+    "69992404",
+    "69992405",
+    "69992406",
+    "69992407",
+    "69992408",
+    "70070370",
+    "70054487"
+   ]
+  },
+  {
+   "date": "2022-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177847668:por",
+     "title": "Decreto-Lei n.º 18/2022",
+     "published": "2022-01-19",
+     "dre_path": "/dr/detalhe/decreto-lei/18-2022-177847668"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Adita Artigo 27.º-A",
+    "Adita Artigo 60.º-A",
+    "Adita Artigo 75.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 40.º",
+    "Altera Artigo 41.º",
+    "Altera Artigo 44.º",
+    "Altera Artigo 46.º",
+    "Altera Artigo 47.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 49.º",
+    "Altera Artigo 50.º",
+    "Altera Artigo 51.º",
+    "Altera Artigo 52.º",
+    "Altera Artigo 56.º",
+    "Altera Artigo 59.º",
+    "Altera Artigo 61.º",
+    "Altera Artigo 74.º",
+    "Altera Artigo 75.º",
+    "Altera Artigo 76.º",
+    "Altera Artigo 77.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 53.º"
+   ],
+   "fragments": [
+    "69964926",
+    "69964927",
+    "177900293",
+    "177900294",
+    "177900295",
+    "177900296",
+    "177900297",
+    "177900298",
+    "69964934",
+    "177900161",
+    "69964935",
+    "177900299",
+    "177900300",
+    "177900301",
+    "177900302",
+    "70070349",
+    "69964941",
+    "69964942",
+    "69964943",
+    "177900303",
+    "69964945",
+    "70070358",
+    "69964947",
+    "177900304",
+    "177900305",
+    "177900306",
+    "177900307",
+    "69964952",
+    "69964953",
+    "70070350",
+    "70070327",
+    "177900308",
+    "177900309",
+    "177900162",
+    "177900310",
+    "177900333",
+    "177900165",
+    "177900311",
+    "177900312",
+    "177900313",
+    "177900169",
+    "177900170",
+    "177900314",
+    "177900315",
+    "177900173",
+    "177900174",
+    "177900316",
+    "177900317",
+    "177900277",
+    "177900278",
+    "177900318",
+    "177900280",
+    "69992375",
+    "177900319",
+    "177900320",
+    "177900321",
+    "177900322",
+    "177900323",
+    "177900324",
+    "177900325",
+    "177900334",
+    "70070357",
+    "69992385",
+    "177900326",
+    "69992387",
+    "69992388",
+    "177900327",
+    "69992390",
+    "177900281",
+    "177900328",
+    "177900283",
+    "177900284",
+    "177900285",
+    "177900286",
+    "177900287",
+    "177900288",
+    "177900289",
+    "69992399",
+    "69992400",
+    "69992401",
+    "69992402",
+    "69992403",
+    "69992404",
+    "69992405",
+    "177900329",
+    "177900330",
+    "177900290",
+    "177900331",
+    "177900332",
+    "70054487"
+   ]
+  },
+  {
+   "date": "2023-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216771969:por",
+     "title": "Decreto-Lei n.º 67/2023",
+     "published": "2023-08-08",
+     "dre_path": "/dr/detalhe/decreto-lei/67-2023-216771969"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "69964926",
+    "69964927",
+    "177900293",
+    "177900294",
+    "177900295",
+    "177900296",
+    "177900297",
+    "177900298",
+    "69964934",
+    "177900161",
+    "69964935",
+    "177900299",
+    "177900300",
+    "177900301",
+    "177900302",
+    "70070349",
+    "69964941",
+    "69964942",
+    "69964943",
+    "177900303",
+    "69964945",
+    "70070358",
+    "69964947",
+    "177900304",
+    "177900305",
+    "177900306",
+    "887843055",
+    "887843056",
+    "69964953",
+    "70070350",
+    "70070327",
+    "177900308",
+    "177900309",
+    "177900162",
+    "177900310",
+    "177900333",
+    "177900165",
+    "177900311",
+    "177900312",
+    "177900313",
+    "177900169",
+    "177900170",
+    "177900314",
+    "177900315",
+    "177900173",
+    "177900174",
+    "177900316",
+    "177900317",
+    "177900277",
+    "177900278",
+    "177900318",
+    "177900280",
+    "69992375",
+    "177900319",
+    "177900320",
+    "177900321",
+    "177900322",
+    "177900323",
+    "177900324",
+    "177900325",
+    "177900334",
+    "70070357",
+    "69992385",
+    "177900326",
+    "69992387",
+    "69992388",
+    "177900327",
+    "69992390",
+    "177900281",
+    "177900328",
+    "177900283",
+    "177900284",
+    "177900285",
+    "177900286",
+    "177900287",
+    "177900288",
+    "177900289",
+    "69992399",
+    "69992400",
+    "69992401",
+    "69992402",
+    "69992403",
+    "69992404",
+    "69992405",
+    "177900329",
+    "177900330",
+    "177900290",
+    "177900331",
+    "177900332",
+    "70054487"
+   ]
+  }
+ ],
+ "fragments": {
+  "69964926": {
+   "fragment_id": "69982746",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 5/78\n\nde 12 de Janeiro\n\nÀ Academia das Ciências de Lisboa compete desempenhar valiosa acção nos domínios da investigação, enriquecimento e estudo do pensamento, literatura, língua e demais formas da cultura nacional.\n\nPara que tal acção possa corresponder aos seus objectivos, é necessário que a Academia das Ciências de Lisboa disponha de normas estatutárias actualizadas e adaptadas às condições renovadas do meio cultural português.\n\nOs estatutos actualmente em vigor, aprovados pelo Decreto-Lei n.º 35090, de 31 de Outubro de 1945, encontram-se, em grande parte, desactualizados e carecidos de reforma. Mas entende-se que tal reforma deverá incorporar os resultados da vigência experimental da nova legislação académica.\n\nPrevê-se, assim, a sua revisão no termo de um triénio, em data que coincide com a comemoração do segundo centenário da Academia.\n\nNestes termos, de acordo com o que lhe foi proposto pela Academia das Ciências de Lisboa:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\nArtigo único. São aprovados os Estatutos da Academia das Ciências de Lisboa, anexos ao presente diploma."
+  },
+  "69964927": {
+   "fragment_id": "69982747",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, sede e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, sede e fins"
+  },
+  "69964928": {
+   "fragment_id": "69982748",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Academia das Ciências de Lisboa é uma instituição científica de utilidade pública, dotada de personalidade jurídica e de autonomia administrativa."
+  },
+  "69964929": {
+   "fragment_id": "69982749",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Academia tem a sua sede no edifício da Rua da Academia das Ciências, 19, em Lisboa.\n\n§ único. Pode a Academia, para a realização dos seus objectivos, instalar serviços ou dependências em qualquer parte do território nacional."
+  },
+  "69964930": {
+   "fragment_id": "69982750",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA actividade da Academia exerce-se em todo o território português e pode ser alargada aos países estrangeiros, designadamente os de expressão portuguesa, nas formas previstas ou permitidas pelos acordos, convénios culturais e demais normas de cooperação internacional."
+  },
+  "69964931": {
+   "fragment_id": "69982751",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSão finalidades da Academia:\n\na) Praticar e incentivar a investigação científica, sempre que possível e necessário de forma interdisciplinar, e tornar públicos os resultados dessa investigação;\n\nb) Estimular o enriquecimento e o estudo do pensamento, da literatura, da língua e demais formas de cultura nacional;\n\nc) Promover o estudo da história portuguesa e suas relações com a dos outros povos e investigar e publicar as repectivas fontes documentais;\n\nd) Colaborar em actividades de educação e ensino e fomentar a sua difusão e aperfeiçoamento;\n\ne) Elaborar os pareceres que o Governo e outros serviços nacionais lhe solicitarem;\n\nf) Participar no intercâmbio cultural com os países estrangeiros em espírito de aberta cooperação;\n\ng) Contribuir, através da investigação, da extensão cultural e da discussão de ideias, para a valorização do povo português em todos os aspectos."
+  },
+  "69964932": {
+   "fragment_id": "69982752",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Academia e o órgão consultivo do Governo Português em matéria linguística."
+  },
+  "69964933": {
+   "fragment_id": "69982753",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNo que respeita à unidade e expansão da língua portuguesa, a Academia procura coordenar a sua acção com a Academia Brasileira de Letras e com as instituições culturais dos outros países de língua portuguesa e dos núcleos portugueses no estrangeiro.\n\n§ único. À Academia compete propor ao Governo ou a quaisquer instituições científicas e serviços culturais as medidas que considerar convenientes para assegurar e promover a unidade e expansão do idioma português."
+  },
+  "69964934": {
+   "fragment_id": "69982754",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA extensão cultural da Academia será exercida pelas formas seguintes, além de outras que venham a revelar-se adequadas:\n\na) Lições e cursos regulares ou livres;\n\nb) Sessões culturais públicas, seminários e núcleos de investigação com objectivos determinados;\n\nc) Edição de livros e publicações periódicas;\n\nd) Cooperação com outras instituições de cultura, nacionais, estrangeiras e internacionais;\n\ne) Apoio, orientação e estímulo aos núcleos de cultura local."
+  },
+  "69964935": {
+   "fragment_id": "69982755",
+   "type": 1,
+   "heading": "Capítulo II — Composição da Academia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Composição da Academia"
+  },
+  "69964936": {
+   "fragment_id": "69982756",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA Academia é constituída por duas classes académicas, denominadas classe de Letras e classe de Ciências, e compreende o Instituto de Altos Estudos e os serviços académicos referidos nos presentes Estatutos."
+  },
+  "69964937": {
+   "fragment_id": "69982757",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCada uma das classes académicas é constituída por vinte sócios efectivos ou de número, quarenta sócios correspondentes e académicos associados e por sócios correspondentes estrangeiros até ao limite de oitenta."
+  },
+  "69964938": {
+   "fragment_id": "69982758",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs classes organizam-se em secções. As secções académicas são as seguintes:\n\nClasse de Ciências:\n\n1.ª Secção - Matemática;\n\n2.ª Secção - Física;\n\n3.ª Secção - Química;\n\n4.ª Secção - Ciências Naturais;\n\n5.ª Secção - Ciências Médicas;\n\n6.ª Secção - Ciências Aplicadas e História das Ciências.\n\nClasse de Letras:\n\n1.ª Secção - Literatura;\n\n2.ª Secção - Estudos Literários e Linguísticos;\n\n3.ª Secção - Filosofia e Pedagogia;\n\n4.ª Secção - História e Geografia;\n\n5.ª Secção - Direito e Sociologia;\n\n6.ª Secção - Economia Política."
+  },
+  "69964939": {
+   "fragment_id": "69982759",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nCada classe tem um presidente e um vice-presidente, um secretário e um vice-secretário.\n\n§ 1.º O presidente e o vice-presidente, o secretário-geral e o vice-secretário-geral da Academia são, por inerência e respectivamente, presidentes e secretários das classes a que pertencerem.\n\n§ 2.º Os vice-presidentes e vice-secretários das classes são eleitos anualmente por escrutínio secreto realizado entre os sócios efectivos da classe respectiva, sendo permitida a reeleição."
+  },
+  "69964940": {
+   "fragment_id": "69982760",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nCompete ao presidente da classe:\n\na) Representar a classe junto da presidência da Academia;\n\nb) Presidir a todas as sessões da classe;\n\nc) Planear, ouvida a classe, as respectivas actividades académicas e assegurar a regularidade dos trabalhos;\n\nd) Coordenar as actividades das sessões;\n\ne) Propor periodicamente, em reunião de classe, o número de académicos efectivos, correspondentes e associados de cada secção, nos termos do artigo 18.º\n\nf) Convocar as sessões da classe;\n\ng) Elaborar e submeter à votação da classe as propostas relativas às mudanças de situação académica dos respectivos sócios."
+  },
+  "69964941": {
+   "fragment_id": "69982761",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nCompete ao vice-presidente da classe substituir o presidente nas suas faltas, exercer as respectivas funções nos seus impedimentos e coadjuvá-lo no desempenho das mesmas."
+  },
+  "69964942": {
+   "fragment_id": "69982762",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nCompete ao secretário da classe:\n\na) Elaborar as actas das sessões da classe;\n\nb) Apresentar à classe as publicações e expediente de maior interesse recebidos pela Academia no intervalo de cada sessão;\n\nc) Assegurar a correspondência da classe;\n\nd) Organizar as memórias da classe e fazê-las presentes ao serviço de publicações."
+  },
+  "69964943": {
+   "fragment_id": "69982763",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nCompete ao vice-secretário da classe substituir o secretário nas suas faltas e impedimentos e coadjuvá-lo no exercício das respectivas funções."
+  },
+  "69964944": {
+   "fragment_id": "69982764",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nCada classe reúne em sessão ordinária duas vezes por mês e em sessão extraordinária quando para isso for convocada nos termos do Regulamento da Academia."
+  },
+  "69964945": {
+   "fragment_id": "69982765",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nAs sessões das classes académicas têm por objecto:\n\na) A discussão de quaisquer propostas relativas aos trabalhos da classe ou das actividades da Academia;\n\nb) A leitura e exame de comunicações e outras produções literárias e científicas apresentadas pelos seus membros;\n\nc) A discussão de pareceres e de relatórios sobre consultas feitas à Academia e sobre trabalhos submetidos à sua apreciação;\n\nd) A eleição de novos sócios, ou sua mudança de categoria ou situação;\n\ne) Quaisquer outros assuntos que o presidente da classe, por iniciativa sua, por solicitação do presidente da Academia, ou de qualquer dos membros da classe, entenda dever submeter à discussão."
+  },
+  "69964946": {
+   "fragment_id": "69982766",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nCada secção é formada por académicos efectivos em número não inferior a três nem superior a quatro e por sócios correspondentes e académicos associados em número não inferior a cinco nem superior a sete. O número de correspondentes estrangeiros não é limitado por secção, mas o seu conjunto na classe não excederá o limite fixado no artigo 9.º"
+  },
+  "69964947": {
+   "fragment_id": "69982767",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nCompete às secções:\n\na) Contribuir para a realização das finalidades da Academia dentro da área de actividade da secção;\n\nb) Nomear, por incumbência do presidente da classe, os relatores dos trabalhos que a Academia deva julgar, ou das consultas a que a Academia deva responder;\n\nc) Elaborar e submeter à aprovação da classe quaisquer projectos tendentes ao progresso do ramo científico ou literário que representam;\n\nd) Constituir grupos de trabalho para a realização de tarefas de carácter científico ou literário."
+  },
+  "69964948": {
+   "fragment_id": "69982768",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nDa Academia faz parte o Instituto de Altos Estudos, ao qual compete promover conferências, lições, colóquios, reuniões científicas e outras manifestações de extensão cultural ao mais elevado nível."
+  },
+  "69964949": {
+   "fragment_id": "69982769",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nNas actividades do Instituto de Altos Estudos podem ser chamadas a colaborar, além dos académicos, individualidades nacionais e estrangeiras que se hajam distinguido nas letras ou nas ciências, ou se tenham notabilizado pela contribuição prestada ao estudo de problemas relacionados com a história ou cultura portuguesa, podendo ser concedidos, tanto àqueles como a estas, subsídios destinados a custear despesas ligadas à referida colaboração."
+  },
+  "69964950": {
+   "fragment_id": "69982770",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA Academia pode instituir e organizar centros de investigação e produção científica, cuja direcção lhe competirá ou será por ela designada."
+  },
+  "69964951": {
+   "fragment_id": "69982771",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nSão serviços da Academia:\n\na) A biblioteca;\n\nb) O museu;\n\nc) O serviço de publicações;\n\nd) O serviço do património;\n\ne) O serviço administrativo."
+  },
+  "69964952": {
+   "fragment_id": "69982772",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nA direcção e competência dos serviços é a fixada no Regulamento da Academia."
+  },
+  "69964953": {
+   "fragment_id": "69982773",
+   "type": 1,
+   "heading": "Capítulo III — Sócios da Academia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Sócios da Academia"
+  },
+  "69964954": {
+   "fragment_id": "69982774",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nSão as seguintes as categorias dos sócios da Academia:\n\na) Eméritos;\n\nb) Efectivos ou de número;\n\nc) Correspondentes;\n\nd) Académicos associados;\n\ne) Correspondentes estrangeiros."
+  },
+  "69964955": {
+   "fragment_id": "69992275",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs sócios eméritos são aqueles que, tendo sido sócios efectivos e havendo, nessa qualidade, prestado serviços excepcionalmente relevantes às ciências, às letras e à Academia, se encontrem impedidos definitivamente de exercer os deveres decorrentes da efectividade e sejam eleitos nos termos do Regulamento da Academia."
+  },
+  "69964956": {
+   "fragment_id": "69992276",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nOs sócios das categorias referidas nas alíneas b), c) e d) do artigo 25.º são escolhidos de entre os cidadãos de nacionalidade portuguesa, originária ou adquirida, que tenham produzido obra literária ou científica de reconhecido mérito e se encontrem em condições de prestar à Academia colaboração efectiva."
+  },
+  "69964957": {
+   "fragment_id": "69992277",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs sócios efectivos são em número de quarenta, vinte em cada classe, correspondendo a cada um deles uma cadeira numerada na sala das sessões da Academia."
+  },
+  "69964958": {
+   "fragment_id": "69992278",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO número de sócios correspondentes e de académicos associados é de oitenta, quarenta por cada classe.\n\n§ único. As categorias de correspondente e académico associado são consideradas iguais para efeitos de direitos, honras e dignidades académicas."
+  },
+  "69964959": {
+   "fragment_id": "69992279",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nOs sócios correspondentes estrangeiros são escolhidos entre as personalidades não portuguesas que se hajam notabilizado internacionalmente pela contribuição prestada às ciências ou às letras, ou por estudos de excepcional merecimento sobre questões relacionadas com a história ou a cultura portuguesa."
+  },
+  "69964960": {
+   "fragment_id": "69992280",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nA eleição dos académicos é feita nos termos do Regulamento da Academia."
+  },
+  "69964961": {
+   "fragment_id": "69992281",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nOs sócios da Academia que, por período superior a dois anos consecutivos, não cumpram sem justificação os deveres académicos passam à situação de académicos supranumerários, nos termos e com as consequências fixadas no Regulamento da Academia."
+  },
+  "69964962": {
+   "fragment_id": "69992282",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nAs eleições dos sócios efectivos, correspondentes e académicos associados consideram-se confirmadas pela participação regular em actos académicos ou colaboração em actividades da Academia no período de dois anos a contar da data da eleição.\n\n§ único. Decorrido que seja este prazo sem que o eleito coopere na realização dos objectivos da Academia e sem que justifique a sua ausência, o presidente da classe dará conhecimento da situação ao presidente da Academia e a eleição é considerada nula e de nenhum efeito, reabrindo-se o processo eleitoral para o preenchimento da vaga respectiva."
+  },
+  "69964963": {
+   "fragment_id": "69992283",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nNão são permitidas: a eleição por aclamação; a dispensa de quaisquer condições ou formalidades previstas no presente Regulamento para a eleição dos sócios; o ingresso directo na categoria de efectivo; a concessão de honras, títulos ou actos de homenagem que os Estatutos e o Regulamento da Academia não prevejam."
+  },
+  "69964964": {
+   "fragment_id": "69992284",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nTodos os sócios da Academia são iguais em direitos e deveres dentro da categoria a que pertençam."
+  },
+  "69964965": {
+   "fragment_id": "69992285",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nSão deveres dos sócios efectivos:\n\na) Dirigir a actividade científica, literária e administrativa da Academia;\n\nb) Eleger e ser eleito para os cargos académicos;\n\nc) Comparecer nas sessões plenárias e da classe a que pertençam;\n\nd) Tomar parte nos trabalhos da Academia, desempenhar as funções e comissões académicas para as quais hajam sido designados ou eleitos por deliberação da Academia ou da classe a que pertençam, nos termos dos estatutos e regulamentos em vigor;\n\ne) Incrementar as actividades das secções a que pertençam;\n\nf) Apresentar comunicações próprias, memórias, relatórios, propostas, projectos e sugestões de trabalhos e bem assim fazer presentes à Academia comunicações de personalidades que dela não façam parte e cujo conteúdo seja valioso para o progresso das letras ou das ciências;\n\ng) Proferir o «elogio histórico» dos académicos em cuja cadeira sucedem, ou quando para isso sejam designados pela classe a que pertencem."
+  },
+  "69964966": {
+   "fragment_id": "69992286",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nSão deveres dos sócios correspondentes os referidos nas alíneas c), d) e e) e primeira parte da alínea f) do artigo 36.º\n\nPodem ser-lhes atribuídos, no caso de viverem fora de Lisboa e para intervenção directa nas sessões, subsídios de deslocamento e estadia, a suportar pelas adequadas verbas que forem atribuídas à Academia no Orçamento Geral do Estado."
+  },
+  "69964967": {
+   "fragment_id": "69992287",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nOs académicos associados têm os mesmos deveres e direitos que os sócios correspondentes, mas estão dispensados da comparência pessoal nos actos da Academia."
+  },
+  "69964968": {
+   "fragment_id": "69992288",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nAos académicos associados compete, em especial, exercer e fomentar a acção cultural nas áreas onde tiverem a sua residência, de acordo com programas que deverão antecipadamente submeter à aprovação da classe respectiva.\n\nCompete-lhes igualmente comunicar à Academia quaisquer factos relacionados com o fomento, a protecção da cultura na área onde tiverem residência, e propor as acções que com tal fomento e protecção se relacionem.\n\n§ único. Quando residirem em país estrangeiro, deverão ainda contribuir para o intercâmbio cultural, quer entre Portugal e esse país, quer entre Portugal e os núcleos portugueses que naquele existam."
+  },
+  "69964969": {
+   "fragment_id": "69992289",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nOs sócios correspondentes estrangeiros estão dispensados dos deveres de comparência efectiva e de colaboração permanente, e o seu contacto com a Academia será feito por meio de correspondência, designadamente pelo envio de comunicações académicas."
+  },
+  "69964970": {
+   "fragment_id": "69992290",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nOs sócios correspondentes de nacionalidade brasileira, quando se encontrarem em território português, gozarão de direitos iguais aos dos sócios efectivos, não se contando, porém, a sua presença nas sessões a que comparecerem para efeitos de quórum."
+  },
+  "69964971": {
+   "fragment_id": "69992291",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nOs sócios da Academia têm livre entrada, sem sujeição a quaisquer formalidades e com dispensa do pagamento de quaisquer taxas, mediante a exibição do cartão de identidade académica, em todas as bibliotecas, museus, arquivos e estações de investigação do Estado e corpos administrativos, incluindo secções de reservados e depósitos não destinados à exposição pública, devendo ser-lhes reservado, quando disso careçam, gabinete para os seus estudos e investigações, e mais facilidades que para tal solicitem."
+  },
+  "69964972": {
+   "fragment_id": "69992292",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nOs sócios da Academia podem, através da secretaria-geral e depois de despacho favorável do presidente da classe, solicitar dos serviços públicos, bibliotecas e arquivos informações e elementos necessários às suas investigações, desde que assumam a responsabilidade pela satisfação dos respectivos encargos."
+  },
+  "69964973": {
+   "fragment_id": "69992293",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nA Academia poderá requisitar, quer para os seus serviços, quer para a execução de trabalhos especiais, servidores da função pública, que manterão, enquanto prestarem serviço na Academia, os mesmos direitos que teriam se estivessem em exercício nos seus quadros.\n\n§ 1.º Os funcionários referidos no número anterior consideram-se para todos os efeitos em exercício de funções a partir da data do despacho que os tiver nomeado, com dispensa de visto do Tribunal de Contas e independentemente de publicação no Diário da República.\n\n§ 2.º Quando os providos sejam membros das forças armadas, funcionários ou agentes da administração central, local e regional, ou de institutos públicos, exercerão os seus cargos em comissão de serviço ou em regime de requisição, conforme os casos, com a faculdade de optar pelas remunerações correspondentes aos cargos de origem.\n\n§ 3.º Nos casos previstos no artigo anterior, e sempre que o funcionário provenha das forças armadas, de outro departamento governamental ou da administração autárquica, a sua nomeação será precedida, respectivamente, da concordância do Chefe do Estado-Maior competente, do Ministro de que dependa, do presidente da câmara ou da comissão administrativa da federação de municípios."
+  },
+  "69964974": {
+   "fragment_id": "69992294",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nAo exercício dos cargos académicos não são aplicáveis as disposições legais relativas ao limite de idade."
+  },
+  "69992375": {
+   "fragment_id": "69992295",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos da Academia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Órgãos da Academia"
+  },
+  "69992376": {
+   "fragment_id": "69992296",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nOs órgãos da Academia são os seguintes:\n\na) Plenário;\n\nb) Presidência;\n\nc) Conselho administrativo;\n\nd) Secretaria-Geral."
+  },
+  "69992377": {
+   "fragment_id": "69992297",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nO plenário é o órgão ao qual compete enunciar a vontade da Academia.\n\n§ único. O plenário denomina-se plenário da Academia, ou plenário geral, quando constituído por todos os sócios da Academia, e plenário de efectivos, quando constituído pelos sócios efectivos de ambas as classes."
+  },
+  "69992378": {
+   "fragment_id": "69992298",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\nCompete ao plenário da Academia:\n\na) Eleger o presidente e o vice-presidente da Academia;\n\nb) Apreciar a actividade geral da Academia;\n\nc) Aprovar os projectos dos estatutos e Regulamento da Academia e pronunciar-se sobre quaisquer propostas de alteração ou emenda a esses textos;\n\nd) Pronunciar-se sobre assuntos de excepcional importância para a vida da Academia, quando para isso seja convocado pelo presidente da Academia;\n\ne) Exercer as demais competências que lhe sejam atribuídas pelos estatutos, pelo Regulamento ou pela lei."
+  },
+  "69992379": {
+   "fragment_id": "69992299",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nCompete ao plenário de efectivos:\n\na) A eleição para os cargos de secretário-geral, vice-secretário-geral, tesoureiro, inspector da biblioteca, director do museu e directores dos demais serviços;\n\nb) O planeamento e programação das actividades da Academia e a apreciação da forma como essas actividades são realizadas;\n\nc) A discussão e aprovação do orçamento privativo e dos projectos dos orçamentos e das contas anuais;\n\nd) A atribuição de prémios e palmas académicas;\n\ne) A eleição para a categoria de sócio emérito;\n\nf) Indicar, anualmente, os sócios que passam à situação de supranumerários;\n\ng) Indicar, anualmente, quais as eleições de sócios que devem ser anuladas, nos termos do artigo 33.º destes Estatutos;\n\nh) A apreciação de quaisquer assuntos que lhe sejam propostos pelo presidente da Academia, pelos presidentes das classes, ou por comissões constituídas por, pelo menos, três sócios efectivos."
+  },
+  "69992380": {
+   "fragment_id": "69992300",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nO plenário da Academia reúne-se em sessão ordinária uma vez por ano, no início de cada ano académico, para exercer a competência referida nas alíneas a) e b) do artigo 48.º destes Estatutos, e em sessão extraordinária quando o presidente, ouvido o plenário de efectivos, assim o determinar."
+  },
+  "69992381": {
+   "fragment_id": "69992301",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nO presidente da Academia pode convocar para o plenário geral o pessoal em serviço na Academia, devendo fazê-lo quando sejam submetidos à discussão assuntos do seu interesse como funcionários, ou que afectem a sua situação.\n\n§ único. No caso previsto no corpo deste artigo, a sessão será expressamente convocada, constando apenas da ordem do dia assuntos relativos ao pessoal."
+  },
+  "69992382": {
+   "fragment_id": "69992302",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nO plenário de efectivos reúne em sessão ordinária uma vez em cada mês e em sessão extraordinária nos casos seguintes:\n\na) Quando o presidente da Academia o convocar por iniciativa sua;\n\nb) Quando o conselho administrativo, por maioria dos seus membros, o requerer ao presidente da Academia;\n\nc) Quando pelo menos cinco sócios efectivos o requererem ao presidente da Academia."
+  },
+  "69992383": {
+   "fragment_id": "69992303",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\nOs sócios eméritos não são convocados para as sessões do plenário de efectivos, mas sempre que compareçam, nele terão assento como se efectivos fossem, com direito a voto."
+  },
+  "69992384": {
+   "fragment_id": "69992304",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\nOs sócios correspondentes e académicos associados podem assistir às reuniões do plenário de efectivos quando para elas forem convocados, e nelas poderão tomar parte em todos os debates e votar sobre questões literárias e científicas, mas não sobre assuntos económicos e disciplinares nem sobre a admissão de novos sócios."
+  },
+  "69992385": {
+   "fragment_id": "69992305",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nA presidência da Academia é constituída pelo presidente e vice-presidente."
+  },
+  "69992386": {
+   "fragment_id": "69992306",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\nO presidente e o vice-presidente da Academia são eleitos anualmente, em plenário da Academia, só podendo a eleição recair sobre académicos efectivos que se encontrem há pelo menos dois anos nessa categoria."
+  },
+  "69992387": {
+   "fragment_id": "69992307",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\nO presidente e o vice-presidente devem pertencer a classes diferentes."
+  },
+  "69992388": {
+   "fragment_id": "69992308",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nO presidente não pode ser eleito entre os membros da classe à qual pertencer o presidente cessante."
+  },
+  "69992389": {
+   "fragment_id": "69992309",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nCompete ao presidente da Academia:\n\na) Representar a Academia em geral, e em especial nas relações com o Governo, com os corpos administrativos, com as demais corporações científicas e literárias, nacionais e estrangeiras, e com os tribunais;\n\nb) Manter a unidade e continuidade das actividades académicas, de acordo com as decisões das sessões plenárias e das classes;\n\nc) Presidir às sessões plenárias da Academia, às reuniões do conselho administrativo e a todas as sessões solenes da Academia;\n\nd) Nomear júris, delegações académicas e comissões de estudo, conforme as deliberações das classes da Academia;\n\ne) Propor ao Governo o provimento dos lugares dos quadros do pessoal administrativo, técnico e auxiliar;\n\nf) Assinar todos os diplomas expedidos em nome da Academia e delegar esta competência nos casos em que o considerar conveniente;\n\ng) Designar as datas dos plenários da Academia e dos plenários de efectivos, fixando a ordem dos trabalhos;\n\nh) Assegurar a observância dos Estatutos e do Regulamento."
+  },
+  "69992390": {
+   "fragment_id": "69992310",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nCompete ao vice-presidente da Academia substituir o presidente da Academia nas suas faltas e impedimentos e prestar-lhe toda a colaboração que lhe for por ele solicitada."
+  },
+  "69992391": {
+   "fragment_id": "69992311",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nA administração da Academia é exercida por um conselho administrativo constituído pelo presidente, pelo secretário-geral, pelo vice-secretário-geral e pelo tesoureiro da Academia."
+  },
+  "69992392": {
+   "fragment_id": "69992312",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nCompete ao conselho administrativo:\n\na) Administrar as verbas atribuídas à Academia no Orçamento Geral do Estado;\n\nb) Arrecadar e administrar as receitas próprias da Academia, as provenientes de doações e legados e quaisquer outros subsídios ou verbas que lhe sejam atribuídos;\n\nc) Superintender na conservação do edifício da sede da Academia e quaisquer bens, móveis ou imóveis, que sejam sua propriedade ou estejam na sua dependência;\n\nd) Elaborar o projecto de orçamento da Academia, a submeter à apreciação do plenário de efectivos;\n\ne) Apreciar os orçamentos privativos de quaisquer serviços da Academia;\n\nf) Pronunciar-se sobre o provimento de lugares dos quadros do pessoal administrativo, técnico e auxiliar da Academia;\n\ng) Fixar as remunerações a abonar aos titulares dos cargos retribuídos e aos colaboradores das actividades da Academia;\n\nh) Atribuir subsídios ou bolsas de estudo a nacionais e estrangeiros para a realização de investigações ou missões nos domínios científicos a que correspondem as classes da Academia, e bem assim subsídios de representação aos académicos designados para representar a Academia no estrangeiro, quando necessário;\n\ni) Apreciar, aceitar ou rejeitar as doações e legados feitos à Academia com cláusulas modais ou condicionais;\n\nj) Fazer escriturar, em harmonia com as disposições legais, as receitas e despesas da Academia."
+  },
+  "69992393": {
+   "fragment_id": "69992313",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nCompete ao tesoureiro da Academia, por delegação do conselho administrativo e de acordo com as suas decisões, exercer as atribuições referidas nas alíneas a), b), d) e h) do artigo 62.º"
+  },
+  "69992394": {
+   "fragment_id": "69992314",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\nO tesoureiro da Academia é eleito trienalmente pelo plenário de efectivos, sendo permitida a reeleição."
+  },
+  "69992395": {
+   "fragment_id": "69992315",
+   "type": 11,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\nO conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convocar."
+  },
+  "69992396": {
+   "fragment_id": "69992316",
+   "type": 11,
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º\n\nO secretário-geral e o vice-secretário-geral são eleitos em plenário de efectivos por escrutínio secreto, por períodos de cinco anos, podendo ser reeleitos, uma ou mais vezes, por períodos de dois anos."
+  },
+  "69992397": {
+   "fragment_id": "69992317",
+   "type": 11,
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\nO secretário-geral e o vice-secretário-geral devem pertencer a classes diferentes."
+  },
+  "69992398": {
+   "fragment_id": "69992318",
+   "type": 11,
+   "heading": "Artigo 68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º\n\nCompete ao secretário-geral:\n\na) Elaborar as actas das sessões plenárias;\n\nb) Dar andamento às resoluções dos órgãos académicos e das classes;\n\nc) Orientar e dirigir as comunicações da Academia com outras entidades;\n\nd) Legalizar certidões ou extractos documentais solicitados à Academia;\n\ne) Mandar elaborar e manter actualizado o inventário de todos os bens da Academia e fazer elaborar os inventários especiais de vários serviços;\n\nf) Dar execução às decisões do conselho administrativo;\n\ng) Superintender em todos os assuntos do pessoal;\n\nh) Velar pela ordem e segurança e assegurar a eficiência de todos os serviços."
+  },
+  "69992399": {
+   "fragment_id": "69992319",
+   "type": 1,
+   "heading": "Capítulo V — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime financeiro"
+  },
+  "69992400": {
+   "fragment_id": "69992320",
+   "type": 11,
+   "heading": "Artigo 69.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º\n\nSão receitas da Academia:\n\na) As dotações que lhe forem atribuídas no Orçamento Geral do Estado;\n\nb) As receitas de bens próprios;\n\nc) O produto da venda das suas publicações;\n\nd) Quaisquer subsídios, doações, heranças e legados que a Academia delibere aceitar."
+  },
+  "69992401": {
+   "fragment_id": "69992321",
+   "type": 11,
+   "heading": "Artigo 70.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º\n\nA Academia pode aceitar heranças, legados e doações, puros ou condicionais, de bens móveis ou imóveis, dependendo sempre a aceitação de deliberação do plenário de efectivos, sob proposta devidamente fundamentada do conselho administrativo.\n\n§ único. Não é permitida a aceitação de heranças ou legados cujas condições ou encargos modais se não harmonizam com a letra e o espírito das superiores finalidades da Academia."
+  },
+  "69992402": {
+   "fragment_id": "69992322",
+   "type": 11,
+   "heading": "Artigo 71.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º\n\nAs despesas da Academia regem-se pelas normas gerais de contabilidade pública, ficando, porém, dispensadas da realização de concurso, limitado ou público, e de contrato escrito as despesas resultantes da elaboração de trabalhos originais, preparação de edições e reedições e da impressão das obras editadas pela Academia."
+  },
+  "69992403": {
+   "fragment_id": "69992323",
+   "type": 1,
+   "heading": "Capítulo VI — Distinções e disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Distinções e disposições gerais"
+  },
+  "69992404": {
+   "fragment_id": "69992324",
+   "type": 11,
+   "heading": "Artigo 72.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º\n\nAs distinções concedidas pela Academia são as palmas académicas e os prémios científicos e literários, cuja atribuição se faz de acordo com o Regulamento da Academia."
+  },
+  "69992405": {
+   "fragment_id": "69992325",
+   "type": 11,
+   "heading": "Artigo 73.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º\n\nA Academia pode instituir prémios por força de legados, para o efeito recebidos, devendo cada um desses prémios ter regulamento especial, no qual se respeitará a vontade do autor do legado, em harmonia com as finalidades definidas no artigo 4.º destes Estatutos."
+  },
+  "69992406": {
+   "fragment_id": "69992326",
+   "type": 11,
+   "heading": "Artigo 74.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º\n\nA utilização das instalações académicas é reservada às actividades da Academia, sendo expressamente proibido o seu emprego para quaisquer outros fins."
+  },
+  "69992407": {
+   "fragment_id": "69992327",
+   "type": 11,
+   "heading": "Artigo 75.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º\n\nO preenchimento das secções criadas pelos presentes Estatutos será feito no período de três anos a contar da sua vigência, podendo para o efeito ser transferidos de outras secções académicos que para isso dêem o seu assentimento, os quais conservarão todos os direitos anteriormente adquiridos na Academia."
+  },
+  "69992408": {
+   "fragment_id": "69992328",
+   "type": 11,
+   "heading": "Artigo 76.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º\n\nOs presentes Estatutos devem ser revistos no prazo de três anos após a sua entrada em vigor, podendo as classes, ou qualquer dos seus membros, dirigir ao secretário-geral da Academia todas as propostas e sugestões relativas à sua correcção e aperfeiçoamento.\n\n§ único. A Academia fica autorizada a pôr em vigor, em regime experimental e provisório, as normas e disposições regulamentares que considerar mais aptas à eficiência dos seus serviços."
+  },
+  "69992409": {
+   "fragment_id": "69992329",
+   "type": 11,
+   "heading": "Artigo 77.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º\n\nAo pessoal administrativo, técnico e auxiliar da Academia é aplicável o estatuto da função pública, devendo ser estabelecidos por decreto-lei os seus quadros, os requisitos para o respectivo provimento e as condições em que os funcionários actualmente em serviço na Academia poderão transitar para os lugares constantes dos novos quadros.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "70054491": {
+   "fragment_id": "69992311",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Rectificado pelo/a Artigo 61.º do/a [Declaração - Diário da República n.º 32/1978, Série I de 1978-02-08](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-448536)"
+   ],
+   "markdown": "###### Artigo 61.º\n\nA administração da Academia é exercida por um conselho administrativo constituído pelo presidente, pelo vice-presidente, pelo secretário-geral, pelo vice-secretário-geral e pelo tesoureiro.\n\n> Rectificado pelo/a Artigo 61.º do/a [Declaração - Diário da República n.º 32/1978, Série I de 1978-02-08](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-448536)"
+  },
+  "70054487": {
+   "fragment_id": "70054393",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Mário Soares - Henrique Teixeira Queirós de Barros - Joaquim Jorge de Pinho Campinos - Henrique Medina Carreira.\n\nPromulgado em 27 de Dezembro de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nESTATUTOS DA ACADEMIA DAS CIÊNCIAS DE LISBOA"
+  },
+  "70054496": {
+   "fragment_id": "69982756",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "1987-01-05",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 8.º\n\nA Academia das Ciências de Lisboa é constituída por duas classes académicas, denominadas «Classe de Ciências» e «Classe de Letras», e compreende o Instituto de Altos Estudos, o Instituto de Lexicologia e Lexicografia da Língua Portuguesa e os serviços académicos referidos nos presentes Estatutos.\n\n> Alterado pelo/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "70070348": {
+   "fragment_id": "69982757",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 9.º\n\nCada uma das classes académicas é constituída por 30 sócios efectivos ou de número e por 60 sócios correspondentes, distribuídos pelas secções, nos termos, respectivamente, dos artigos 28.º e 29.º, e ainda por sócios correspondentes estrangeiros, até ao limite de 60, não sendo o seu número limitado por secção.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "70070349": {
+   "fragment_id": "69982760",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 12.º\n\nCompete ao presidente da classe:\n\na) Representar a classe junto da presidência da Academia;\n\nb) Presidir a todas as sessões da classe;\n\nc) Planear, ouvida a classe, as respectivas actividades académicas e assegurar a regularidade dos trabalhos;\n\nd) Coordenar as actividades das sessões;\n\ne) Propor periodicamente, em reunião de classe, o número de académicos efectivos, correspondentes e associados de cada secção, nos termos do artigo 18.º\n\nf) Convocar as sessões da classe;\n\ng) Elaborar e submeter à votação da classe as propostas relativas às mudanças de situação académica dos respectivos sócios.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "70070358": {
+   "fragment_id": "69982766",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 18.º\n\n1 - Cada secção é formada por quatro sócios efectivos e por oito sócios correspondentes ou associados.\n\n2 - O número máximo de correspondentes estrangeiros por classe é de 24, não havendo delimitações por secção.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "70054500": {
+   "fragment_id": "69982768",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1987-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 20.º\n\n1 - Da Academia das Ciências de Lisboa fazem parte o Instituto de Altos Estudos e o Instituto de Lexicologia e Lexicografia da Língua Portuguesa.\n\n2 - Ao Instituto de Altos Estudos compete promover conferências, lições e colóquios, reuniões científicas e outras manifestações de extensão cultural ao mais elevado nível.\n\n3 - Ao Instituto de Lexicologia e Lexicografia da Língua Portuguesa compete promover a criação e apoiar a actividade de núcleos de estudos necessários para a defesa e enriquecimento do léxico da língua portuguesa e promover a realização de colóquios e seminários, dentro das áreas da lexicologia e da lexicografia do português.\n\n4 - O Instituto de Lexicologia e Lexicografia da Língua Portuguesa poderá criar centros adequados para a realização dos seus objectivos.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "70054501": {
+   "fragment_id": "69982769",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1987-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 21.º\n\nNas actividades do Instituto de Altos Estudos e do Instituto de Lexicologia e Lexicografia da Língua Portuguesa podem ser chamadas a colaborar, além dos académicos, individualidades nacionais e estrangeiras que se hajam distinguido nas letras ou nas ciências, ou se tenham notabilizado pela contribuição prestada ao estudo de problemas relacionados com a história ou cultura portuguesa, podendo ser concedidos, tanto àqueles como a estas, subsídios destinados a custear despesas ligadas à referida colaboração.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "70070350": {
+   "fragment_id": "69982774",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 25.º\n\nSão as seguintes as categorias dos sócios da Academia:\n\na) Eméritos;\n\nb) Efectivos ou de número;\n\nc) Correspondentes;\n\nd) Académicos associados;\n\ne) Correspondentes estrangeiros.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "70070327": {
+   "fragment_id": "70070240",
+   "type": 11,
+   "heading": "Artigo 25.º-A",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 25.º-A\n\nA Academia das Ciências pode eleger como sócios honorários personalidades nacionais ou estrangeiras de elevado prestígio ou que lhe tenham prestado serviços insignes.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "70070328": {
+   "fragment_id": "69992275",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs sócios eméritos são aqueles que, tendo sido sócios efectivos e havendo, nessa qualidade, prestado serviços excepcionalmente relevantes às ciências, às letras e à Academia, se encontrem impedidos definitivamente de exercer os deveres decorrentes da efectividade e sejam eleitos nos termos do Regulamento da Academia."
+  },
+  "70070351": {
+   "fragment_id": "69992276",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 27.º\n\nOs sócios das categorias referidas nas alíneas c) e d) são escolhidos de entre cidadãos de nacionalidade portuguesa, originária ou adquirida, que tenham produzido obra literária ou científica de reconhecido mérito e se encontrem em condições de prestar à Academia colaboração efectiva.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "70070352": {
+   "fragment_id": "69992277",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 28.º\n\nIntegram cada uma das secções cinco sócios efectivos, correspondendo a cada um deles uma cadeira numerada na sala das sessões da Academia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "70070353": {
+   "fragment_id": "69992278",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 29.º\n\nIntegram cada uma das secções 10 sócios correspondentes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "70070332": {
+   "fragment_id": "69992279",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nOs sócios correspondentes estrangeiros são escolhidos entre as personalidades não portuguesas que se hajam notabilizado internacionalmente pela contribuição prestada às ciências ou às letras, ou por estudos de excepcional merecimento sobre questões relacionadas com a história ou a cultura portuguesa."
+  },
+  "70070333": {
+   "fragment_id": "69992280",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nA eleição dos académicos é feita nos termos do Regulamento da Academia."
+  },
+  "70070334": {
+   "fragment_id": "69992281",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nOs sócios da Academia que, por período superior a dois anos consecutivos, não cumpram sem justificação os deveres académicos passam à situação de académicos supranumerários, nos termos e com as consequências fixadas no Regulamento da Academia."
+  },
+  "70070354": {
+   "fragment_id": "69992282",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 33.º\n\nAs eleições de sócios efectivos e correspondentes consideram-se confirmadas pela participação regular em actos académicos ou colaboração em actividades da Academia no período de dois anos a contar da data da eleição.\n\n§ único. Decorrido que seja este prazo sem que o eleito coopere na realização dos objectivos da Academia e sem que justifique a sua ausência, o presidente da classe dará conhecimento da situação ao presidente da Academia e a eleição é considerada nula e de nenhum efeito, reabrindo-se o processo eleitoral para o preenchimento da vaga respectiva.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "70070336": {
+   "fragment_id": "69992283",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nNão são permitidas: a eleição por aclamação; a dispensa de quaisquer condições ou formalidades previstas no presente Regulamento para a eleição dos sócios; o ingresso directo na categoria de efectivo; a concessão de honras, títulos ou actos de homenagem que os Estatutos e o Regulamento da Academia não prevejam."
+  },
+  "70070337": {
+   "fragment_id": "69992284",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nTodos os sócios da Academia são iguais em direitos e deveres dentro da categoria a que pertençam."
+  },
+  "70070338": {
+   "fragment_id": "69992285",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nSão deveres dos sócios efectivos:\n\na) Dirigir a actividade científica, literária e administrativa da Academia;\n\nb) Eleger e ser eleito para os cargos académicos;\n\nc) Comparecer nas sessões plenárias e da classe a que pertençam;\n\nd) Tomar parte nos trabalhos da Academia, desempenhar as funções e comissões académicas para as quais hajam sido designados ou eleitos por deliberação da Academia ou da classe a que pertençam, nos termos dos estatutos e regulamentos em vigor;\n\ne) Incrementar as actividades das secções a que pertençam;\n\nf) Apresentar comunicações próprias, memórias, relatórios, propostas, projectos e sugestões de trabalhos e bem assim fazer presentes à Academia comunicações de personalidades que dela não façam parte e cujo conteúdo seja valioso para o progresso das letras ou das ciências;\n\ng) Proferir o «elogio histórico» dos académicos em cuja cadeira sucedem, ou quando para isso sejam designados pela classe a que pertencem."
+  },
+  "70070339": {
+   "fragment_id": "69992286",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nSão deveres dos sócios correspondentes os referidos nas alíneas c), d) e e) e primeira parte da alínea f) do artigo 36.º\n\nPodem ser-lhes atribuídos, no caso de viverem fora de Lisboa e para intervenção directa nas sessões, subsídios de deslocamento e estadia, a suportar pelas adequadas verbas que forem atribuídas à Academia no Orçamento Geral do Estado."
+  },
+  "70070359": {
+   "fragment_id": "69992287",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 38.º\n\nOs académicos associados têm os mesmos deveres e direitos que os sócios correspondentes, mas estão dispensados da comparência pessoal nos actos da Academia.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "70070360": {
+   "fragment_id": "69992288",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 39.º\n\nAos académicos associados compete, em especial, exercer e fomentar a acção cultural nas áreas onde tiverem a sua residência, de acordo com programas que deverão antecipadamente submeter à aprovação da classe respectiva.\n\nCompete-lhes igualmente comunicar à Academia quaisquer factos relacionados com o fomento, a protecção da cultura na área onde tiverem residência, e propor as acções que com tal fomento e protecção se relacionem.\n\n§ único. Quando residirem em país estrangeiro, deverão ainda contribuir para o intercâmbio cultural, quer entre Portugal e esse país, quer entre Portugal e os núcleos portugueses que naquele existam.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "70070342": {
+   "fragment_id": "69992289",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nOs sócios correspondentes estrangeiros estão dispensados dos deveres de comparência efectiva e de colaboração permanente, e o seu contacto com a Academia será feito por meio de correspondência, designadamente pelo envio de comunicações académicas."
+  },
+  "70070343": {
+   "fragment_id": "69992290",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nOs sócios correspondentes de nacionalidade brasileira, quando se encontrarem em território português, gozarão de direitos iguais aos dos sócios efectivos, não se contando, porém, a sua presença nas sessões a que comparecerem para efeitos de quórum."
+  },
+  "70070344": {
+   "fragment_id": "69992291",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nOs sócios da Academia têm livre entrada, sem sujeição a quaisquer formalidades e com dispensa do pagamento de quaisquer taxas, mediante a exibição do cartão de identidade académica, em todas as bibliotecas, museus, arquivos e estações de investigação do Estado e corpos administrativos, incluindo secções de reservados e depósitos não destinados à exposição pública, devendo ser-lhes reservado, quando disso careçam, gabinete para os seus estudos e investigações, e mais facilidades que para tal solicitem."
+  },
+  "70070345": {
+   "fragment_id": "69992292",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nOs sócios da Academia podem, através da secretaria-geral e depois de despacho favorável do presidente da classe, solicitar dos serviços públicos, bibliotecas e arquivos informações e elementos necessários às suas investigações, desde que assumam a responsabilidade pela satisfação dos respectivos encargos."
+  },
+  "70070346": {
+   "fragment_id": "69992293",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nA Academia poderá requisitar, quer para os seus serviços, quer para a execução de trabalhos especiais, servidores da função pública, que manterão, enquanto prestarem serviço na Academia, os mesmos direitos que teriam se estivessem em exercício nos seus quadros.\n\n§ 1.º Os funcionários referidos no número anterior consideram-se para todos os efeitos em exercício de funções a partir da data do despacho que os tiver nomeado, com dispensa de visto do Tribunal de Contas e independentemente de publicação no Diário da República.\n\n§ 2.º Quando os providos sejam membros das forças armadas, funcionários ou agentes da administração central, local e regional, ou de institutos públicos, exercerão os seus cargos em comissão de serviço ou em regime de requisição, conforme os casos, com a faculdade de optar pelas remunerações correspondentes aos cargos de origem.\n\n§ 3.º Nos casos previstos no artigo anterior, e sempre que o funcionário provenha das forças armadas, de outro departamento governamental ou da administração autárquica, a sua nomeação será precedida, respectivamente, da concordância do Chefe do Estado-Maior competente, do Ministro de que dependa, do presidente da câmara ou da comissão administrativa da federação de municípios."
+  },
+  "70070347": {
+   "fragment_id": "69992294",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nAo exercício dos cargos académicos não são aplicáveis as disposições legais relativas ao limite de idade."
+  },
+  "70070355": {
+   "fragment_id": "69992299",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "1996-09-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 49.º\n\nCompete ao plenário de efectivos:\n\na) A eleição para os cargos de secretário-geral, vice-secretário-geral, tesoureiro, inspector da biblioteca, director do museu e directores dos demais serviços;\n\nb) O planeamento e programação das actividades da Academia e a apreciação da forma como essas actividades são realizadas;\n\nc) A discussão e aprovação do orçamento privativo e dos projectos dos orçamentos e das contas anuais;\n\nd) A atribuição de prémios e palmas académicas;\n\ne) A eleição para a categoria de sócio emérito;\n\nf) Indicar, anualmente, os sócios que passam à situação de supranumerários;\n\ng) Indicar, anualmente, quais as eleições de sócios que devem ser anuladas, nos termos do artigo 33.º destes Estatutos;\n\nh) A apreciação de quaisquer assuntos que lhe sejam propostos pelo presidente da Academia, pelos presidentes das classes, ou por comissões constituídas por, pelo menos, três sócios efectivos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "70070357": {
+   "fragment_id": "69992304",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974)"
+   ],
+   "markdown": "###### Artigo 54.º\n\nOs sócios correspondentes podem assistir às reuniões do plenário de efectivos quando para elas forem convocados e nelas poderão tomar parte em todos os debates e votar sobre questões literárias e científicas, mas não sobre assuntos económicos e disciplinares nem sobre a admissão de novos sócios.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974)"
+  },
+  "70070361": {
+   "fragment_id": "69982748",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2002-03-07",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 53/2002 - Diário da República n.º 52/2002, Série I-A de 2002-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2002-251977), em vigor a partir de 2002-03-07"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A Academia das Ciências de Lisboa é uma instituição científica de utilidade pública, dotada de personalidade jurídica e de autonomia administrativa.\n\n2 - Exclusivamente para efeitos de candidatura e de gestão das verbas atribuídas no âmbito de programas nacionais, comunitários e internacionais, a Academia das Ciências de Lisboa é dotada de autonomia administrativa e financeira.\n\n> Alterado pelo/a [Decreto-Lei n.º 53/2002 - Diário da República n.º 52/2002, Série I-A de 2002-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2002-251977), em vigor a partir de 2002-03-07"
+  },
+  "70070362": {
+   "fragment_id": "69982757",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2005-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2005 - Diário da República n.º 107/2005, Série I-A de 2005-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2005-220170), em vigor a partir de 2005-06-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 9.º\n\nCada uma das classes académicas é constituída pelo número de sócios efectivos (ou de número) e de sócios correspondentes, distribuídos pelas secções, nos termos, respectivamente, dos artigos 10.º, 28.º e 29.º, e ainda por sócios correspondentes estrangeiros, até ao limite de 70, não sendo o seu número limitado por secção.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2005 - Diário da República n.º 107/2005, Série I-A de 2005-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2005-220170), em vigor a partir de 2005-06-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "70070363": {
+   "fragment_id": "69982771",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2015-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 23.º\n\nSão serviços da Academia:\n\na) A biblioteca;\n\nb) O museu;\n\nc) O serviço de publicações;\n\nd) O serviço do património;\n\ne) O serviço administrativo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "70070364": {
+   "fragment_id": "69992293",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": "2015-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 44.º\n\nOs instrumentos de mobilidade previstos na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, são aplicáveis à Academia e aos seus trabalhadores.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "70070365": {
+   "fragment_id": "69992299",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "2015-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 49.º\n\nCompete ao plenário de efectivos:\n\na) A eleição para os cargos de secretário-geral, vice-secretário-geral, tesoureiro, inspector da biblioteca, director do museu e directores dos demais serviços;\n\nb) O planeamento e programação das actividades da Academia e a apreciação da forma como essas actividades são realizadas;\n\nc) A discussão e aprovação do orçamento privativo e dos projectos dos orçamentos e das contas anuais;\n\nd) A atribuição de prémios e palmas académicas;\n\ne) A eleição para a categoria de sócio emérito;\n\nf) Indicar, anualmente, os sócios que passam à situação de supranumerários;\n\ng) Indicar, anualmente, quais as eleições de sócios que devem ser anuladas, nos termos do artigo 33.º destes Estatutos;\n\nh) A apreciação de quaisquer assuntos que lhe sejam propostos pelo presidente da Academia, pelos presidentes das classes, ou por comissões constituídas por, pelo menos, três sócios efectivos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "70070366": {
+   "fragment_id": "69992306",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": "2015-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 56.º\n\n1 - O presidente e o vice-presidente da Academia são eleitos por um período de três anos, em plenário, só podendo a eleição recair sobre os académicos efetivos que se encontrem há pelo menos dois anos nessa categoria.\n\n2 - Os titulares do mandato cessante não podem ser reeleitos para o mandato imediatamente posterior, tendo aqueles mandatos o seu início e o seu termo na mesma data.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "70070367": {
+   "fragment_id": "69992309",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": "2015-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 59.º\n\nCompete ao presidente da Academia:\n\na) Representar a Academia em geral, e em especial nas relações com o Governo, com os corpos administrativos, com as demais corporações científicas e literárias, nacionais e estrangeiras, e com os tribunais;\n\nb) Manter a unidade e continuidade das actividades académicas, de acordo com as decisões das sessões plenárias e das classes;\n\nc) Presidir às sessões plenárias da Academia, às reuniões do conselho administrativo e a todas as sessões solenes da Academia;\n\nd) Nomear júris, delegações académicas e comissões de estudo, conforme as deliberações das classes da Academia;\n\ne) Propor ao Governo o provimento dos lugares dos quadros do pessoal administrativo, técnico e auxiliar;\n\nf) Assinar todos os diplomas expedidos em nome da Academia e delegar esta competência nos casos em que o considerar conveniente;\n\ng) Designar as datas dos plenários da Academia e dos plenários de efectivos, fixando a ordem dos trabalhos;\n\nh) Assegurar a observância dos Estatutos e do Regulamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "70070368": {
+   "fragment_id": "69992312",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": "2015-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 62.º\n\nCompete ao conselho administrativo:\n\na) Administrar as verbas atribuídas à Academia no Orçamento Geral do Estado;\n\nb) Arrecadar e administrar as receitas próprias da Academia, as provenientes de doações e legados e quaisquer outros subsídios ou verbas que lhe sejam atribuídos;\n\nc) Superintender na conservação do edifício da sede da Academia e quaisquer bens, móveis ou imóveis, que sejam sua propriedade ou estejam na sua dependência;\n\nd) Elaborar o projecto de orçamento da Academia, a submeter à apreciação do plenário de efectivos;\n\ne) Apreciar os orçamentos privativos de quaisquer serviços da Academia;\n\nf) Pronunciar-se sobre o provimento de lugares dos quadros do pessoal administrativo, técnico e auxiliar da Academia;\n\ng) Fixar as remunerações a abonar aos titulares dos cargos retribuídos e aos colaboradores das actividades da Academia;\n\nh) Atribuir subsídios ou bolsas de estudo a nacionais e estrangeiros para a realização de investigações ou missões nos domínios científicos a que correspondem as classes da Academia, e bem assim subsídios de representação aos académicos designados para representar a Academia no estrangeiro, quando necessário;\n\ni) Apreciar, aceitar ou rejeitar as doações e legados feitos à Academia com cláusulas modais ou condicionais;\n\nj) Fazer escriturar, em harmonia com as disposições legais, as receitas e despesas da Academia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "70070369": {
+   "fragment_id": "69992316",
+   "type": 11,
+   "heading": "Artigo 66.º",
+   "in_force_from": "2015-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 66.º\n\nO secretário-geral e o vice-secretário-geral são eleitos em plenário de efetivos, por escrutínio secreto e por períodos de três anos, podendo ser reeleitos, uma ou mais vezes, por idêntico período.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "70070370": {
+   "fragment_id": "69992329",
+   "type": 11,
+   "heading": "Artigo 77.º",
+   "in_force_from": "2015-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 77.º\n\nAos trabalhadores dos serviços da Academia é aplicável a Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pela Lei n.º 82-B/2014, de 31 de dezembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "177900293": {
+   "fragment_id": "69982748",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a [Decreto-Lei n.º 53/2002 - Diário da República n.º 52/2002, Série I-A de 2002-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2002-251977), em vigor a partir de 2002-03-07"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - A Academia das Ciências de Lisboa, adiante designada por Academia, é uma instituição científica de utilidade pública, dotada de personalidade jurídica e de autonomia administrativa.\n\n2 - Exclusivamente para efeitos de gestão de verbas próprias e de candidatura e gestão das atribuídas no âmbito de programas nacionais, comunitários e internacionais, a Academia é dotada de autonomia administrativa e financeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a [Decreto-Lei n.º 53/2002 - Diário da República n.º 52/2002, Série I-A de 2002-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2002-251977), em vigor a partir de 2002-03-07"
+  },
+  "177900294": {
+   "fragment_id": "69982749",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA Academia tem a sua sede no edifício da Rua da Academia das Ciências, 19, em Lisboa.\n\n§ único. Pode a Academia, para a realização dos seus objectivos, instalar serviços ou dependências em qualquer parte do território nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900295": {
+   "fragment_id": "69982750",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 3.º\n\nA atividade da Academia exerce-se em todo o território português e pode ser alargada aos países estrangeiros, designadamente aos países em que o português é língua oficial, nas formas previstas ou permitidas pelos acordos, convénios culturais e demais normas de cooperação internacional\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900296": {
+   "fragment_id": "69982751",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 4.º\n\nSão finalidades da Academia:\n\na) Praticar e incentivar a investigação científica, sempre que possível e necessário de forma interdisciplinar, e tornar públicos os resultados dessa investigação;\n\nb) Estimular o enriquecimento e o estudo do pensamento, da literatura, da língua e demais formas de cultura nacional;\n\nc) Promover o estudo da história portuguesa e suas relações com a dos outros povos e investigar e publicar as repectivas fontes documentais;\n\nd) Colaborar em actividades de educação e ensino e fomentar a sua difusão e aperfeiçoamento;\n\ne) Elaborar os pareceres que o Governo e outros serviços nacionais lhe solicitarem;\n\nf) Participar no intercâmbio cultural com os países estrangeiros em espírito de aberta cooperação;\n\ng) Contribuir, através da investigação, da extensão cultural e da discussão de ideias, para a valorização do povo português em todos os aspectos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900297": {
+   "fragment_id": "69982752",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 5.º\n\nA Academia e o órgão consultivo do Governo Português em matéria linguística.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900298": {
+   "fragment_id": "69982753",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - No que respeita à unidade e expansão da língua portuguesa, a Academia procura coordenar a sua ação com outras academias congéneres em que o português é língua oficial e com as dos núcleos portugueses no estrangeiro.\n\n2 - À Academia compete propor ao Governo ou a quaisquer instituições científicas e serviços culturais as medidas que considerar convenientes para assegurar e promover a unidade e expansão do idioma português.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900161": {
+   "fragment_id": "177900215",
+   "type": 11,
+   "heading": "Artigo 7.º-A",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 7.º-A\n\n1 - A Academia comemora, na 1.ª quinta-feira do mês de julho, o dia da Academia das Ciências de Lisboa.\n\n2 - As comemorações integram a realização, na sede, de uma cerimónia, aberta ao público e à comunicação social, na qual, além do mais, a Academia divulga as ações e projetos em curso, procede à receção dos novos académicos e publicita as distinções atribuídas.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900299": {
+   "fragment_id": "69982756",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 8.º\n\nA Academia é constituída por duas classes académicas, denominadas 'Classe de Ciências' e 'Classe de Letras', e compreende os institutos e os serviços referidos nos presentes Estatutos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "177900300": {
+   "fragment_id": "69982757",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2005 - Diário da República n.º 107/2005, Série I-A de 2005-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2005-220170), em vigor a partir de 2005-06-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 9.º\n\nCada uma das classes académicas é constituída por sócios eméritos, sócios efetivos (ou de número), sócios correspondentes e sócios supranumerários, distribuídos pelas secções, nos termos, respetivamente, dos artigos 10.º e 28.º, e ainda por sócios correspondentes estrangeiros, em número não limitado por secções e não superior a metade do total dos sócios correspondentes da respetiva classe.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 90/2005 - Diário da República n.º 107/2005, Série I-A de 2005-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2005-220170), em vigor a partir de 2005-06-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "177900301": {
+   "fragment_id": "69982758",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 10.º\n\nAs classes agrupam-se em secções. As secções académicas são as seguintes:\n\nClasse de Ciências:\n\n1.ª Secção - Matemática;\n\n2.ª Secção - Física;\n\n3.ª Secção - Química;\n\n4.ª Secção - Ciências Naturais;\n\n5.ª Secção - Ciências Médicas;\n\n6.ª secção - Ciências Médicas e da Saúde;\n\n7.ª secção - Ciências da Engenharia;\n\n8.ª secção - Ciências e Tecnologias da Informação;\n\n9.ª secção - Tecnologias, Conhecimento e Sociedade;\n\nClasse de Letras:\n\n1.ª Secção - Literatura;\n\n2.ª Secção - Estudos Literários e Linguísticos;\n\n3.ª Secção - Filosofia e Pedagogia;\n\n4.ª secção - História;\n\n5.ª secção - Direito;\n\n6.ª Secção - Economia Política.\n\n7.ª secção - Ciências Sociais e Políticas;\n\n8.ª secção - Geografia e Ordenamento do Território;\n\n9.ª secção - Comunicação e Artes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900302": {
+   "fragment_id": "69982759",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 11.º\n\nCada classe tem um presidente e um vice-presidente, um secretário e um vice-secretário.\n\n§ 1.º O presidente e o vice-presidente, o secretário-geral e o vice-secretário-geral da Academia são, por inerência e respectivamente, presidentes e secretários das classes a que pertencerem.\n\n§ 2.º Os vice-presidentes e vice-secretários das classes são eleitos anualmente por escrutínio secreto realizado entre os sócios efectivos da classe respectiva, sendo permitida a reeleição.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900303": {
+   "fragment_id": "69982764",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 16.º\n\nCada classe reúne em sessão plenária duas vezes por ano e, em sessão extraordinária, quando para isso for convocada nos termos do Regulamento da Academia, podendo as sessões ser antecedidas de reunião de sócios efetivos e sócios eméritos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900304": {
+   "fragment_id": "69982768",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 20.º\n\n1 - Da Academia fazem parte o Instituto de Altos Estudos, o Instituto de Lexicologia e Lexicografia da Língua Portuguesa e o Seminário de Jovens Cientistas.\n\n2 - Ao Instituto de Altos Estudos compete promover conferências, lições e colóquios, reuniões científicas e outras manifestações de extensão científica e cultural.\n\n3 - Sempre que as atividades mencionadas no número anterior tiverem duração plurianual, a Academia pode criar adequadas estruturas organizativas para facilitar a sua realização.\n\n4 - Ao Instituto de Lexicologia e Lexicografia da Língua Portuguesa compete promover a criação e apoiar a atividade de núcleos de estudo necessários para a defesa e enriquecimento do léxico da língua portuguesa e promover a realização de colóquios e seminários, dentro das áreas da lexicologia e da lexicografia do português, podendo criar grupos de trabalho para a realização dos seus objetivos.\n\n5 - Através do Seminário de Jovens Cientistas, a Academia promove as novas gerações de cientistas, fomenta o discurso científico e a cooperação interdisciplinar e incentiva iniciativas de ligação entre a ciência e a sociedade.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "177900305": {
+   "fragment_id": "69982769",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 21.º\n\nNas atividades do Instituto de Altos Estudos, do Instituto de Lexicologia e Lexicografia da Língua Portuguesa e do Seminário de Jovens Cientistas podem ser chamadas a colaborar, além dos académicos, individualidades nacionais e estrangeiras que se hajam distinguido nas letras ou nas ciências, ou se tenham notabilizado pela contribuição prestada ao estudo de problemas relacionados com história, cultura portuguesa, ciência ou tecnologia, podendo ser elaborados projetos de candidatura a financiamentos para custear as despesas ligadas à referida colaboração.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "177900306": {
+   "fragment_id": "69982770",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 22.º\n\nA Academia pode instituir e organizar centros de investigação científica, cuja direção lhe competirá ou será por ela designada.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900307": {
+   "fragment_id": "69982771",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 23.º\n\nSão serviços da Academia:\n\na) A biblioteca;\n\nb) O museu;\n\nc) O serviço de publicações;\n\nd) O serviço do património;\n\ne) O serviço administrativo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "177900308": {
+   "fragment_id": "69992275",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 26.º\n\nOs sócios eméritos são aqueles que, tendo sido sócios efetivos e havendo, nessa qualidade, prestado serviços excecionalmente relevantes às ciências, às letras e à Academia, sejam eleitos nos termos do Regulamento da Academia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900309": {
+   "fragment_id": "69992276",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 27.º\n\nOs sócios efetivos são eleitos de entre os sócios correspondentes com mais de cinco anos na categoria, em razão do mérito científico e do trabalho efetivamente desenvolvido enquanto académicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "177900162": {
+   "fragment_id": "177900216",
+   "type": 11,
+   "heading": "Artigo 27.º-A",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 27.º-A\n\nOs sócios correspondentes são escolhidos de entre cidadãos portugueses de nacionalidade portuguesa, originária ou adquirida, que tenham produzido obra literária ou científica de reconhecido mérito e se encontrem em condições de prestar à Academia colaboração efetiva.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900310": {
+   "fragment_id": "69992277",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 28.º\n\nIntegram cada uma das secções os sócios eméritos, 7 sócios efetivos, correspondendo a cada um deles uma cadeira numerada na sala das sessões da Academia, e 14 sócios correspondentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "177900333": {
+   "fragment_id": "69992278",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+   ],
+   "markdown": "###### Artigo 29.º\n\nIntegram cada uma das secções 10 sócios correspondentes.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 390/87 - Diário da República n.º 300/1987, 2º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/390-1987-406124), em vigor a partir de 1987-01-05"
+  },
+  "177900165": {
+   "fragment_id": "69992279",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nOs sócios correspondentes estrangeiros são escolhidos entre as personalidades não portuguesas que se hajam notabilizado internacionalmente pela contribuição prestada às ciências ou às letras, ou por estudos de excepcional merecimento sobre questões relacionadas com a história ou a cultura portuguesa."
+  },
+  "177900311": {
+   "fragment_id": "69992280",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 31.º\n\nA eleição dos académicos é feita nos termos do Regulamento da Academia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900312": {
+   "fragment_id": "69992281",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 32.º\n\nOs sócios efetivos e os sócios correspondentes que, por período superior a dois anos consecutivos, não cumpram sem justificação os deveres dos académicos passam à situação de académicos supranumerários, nos termos e com as consequências fixadas no Regulamento da Academia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900313": {
+   "fragment_id": "69992282",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 33.º\n\n1 - As eleições de sócios efetivos e correspondentes consideram-se confirmadas pela participação regular em atos académicos ou colaboração em atividades da Academia no período de dois anos a contar da data da eleição.\n\n2 - A ausência injustificada em metade das sessões e reuniões de comissões académicas para que os sócios tenham sido convocados é considerada participação não regular e a eleição é considerada nula e de nenhum efeito, de acordo com o procedimento previsto no Regulamento da Academia, reabrindo-se o processo eleitoral para o preenchimento da vaga respetiva.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "177900169": {
+   "fragment_id": "69992283",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nNão são permitidas: a eleição por aclamação; a dispensa de quaisquer condições ou formalidades previstas no presente Regulamento para a eleição dos sócios; o ingresso directo na categoria de efectivo; a concessão de honras, títulos ou actos de homenagem que os Estatutos e o Regulamento da Academia não prevejam."
+  },
+  "177900170": {
+   "fragment_id": "69992284",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nTodos os sócios da Academia são iguais em direitos e deveres dentro da categoria a que pertençam."
+  },
+  "177900314": {
+   "fragment_id": "69992285",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 36.º\n\nSão deveres dos sócios efectivos:\n\na) Dirigir a actividade científica, literária e administrativa da Academia;\n\nb) Eleger e ser eleito para os cargos académicos;\n\nc) Comparecer nas sessões plenárias e da classe a que pertençam;\n\nd) Tomar parte nos trabalhos da Academia, desempenhar as funções e comissões académicas para as quais hajam sido designados ou eleitos por deliberação da Academia ou da classe a que pertençam, nos termos dos estatutos e regulamentos em vigor;\n\ne) Incrementar as actividades das secções a que pertençam;\n\nf) Apresentar comunicações próprias, memórias, relatórios, propostas, projectos e sugestões de trabalhos e bem assim fazer presentes à Academia comunicações de personalidades que dela não façam parte e cujo conteúdo seja valioso para o progresso das letras ou das ciências;\n\ng) Proferir o «elogio histórico» dos académicos em cuja cadeira sucedem, ou quando para isso sejam designados pela classe a que pertencem.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900315": {
+   "fragment_id": "69992286",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 37.º\n\n1 - São deveres dos sócios correspondentes os referidos nas alíneas c), d) e e) e na primeira parte da alínea f) do n.º 1 do artigo 36.º\n\n2 - No cumprimento dos deveres referidos no número anterior podem ser utilizados os meios de comunicação eletrónica disponíveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900173": {
+   "fragment_id": "69992287",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 38.º\n\nOs académicos associados têm os mesmos deveres e direitos que os sócios correspondentes, mas estão dispensados da comparência pessoal nos actos da Academia.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "177900174": {
+   "fragment_id": "69992288",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 39.º\n\nAos académicos associados compete, em especial, exercer e fomentar a acção cultural nas áreas onde tiverem a sua residência, de acordo com programas que deverão antecipadamente submeter à aprovação da classe respectiva.\n\nCompete-lhes igualmente comunicar à Academia quaisquer factos relacionados com o fomento, a protecção da cultura na área onde tiverem residência, e propor as acções que com tal fomento e protecção se relacionem.\n\n§ único. Quando residirem em país estrangeiro, deverão ainda contribuir para o intercâmbio cultural, quer entre Portugal e esse país, quer entre Portugal e os núcleos portugueses que naquele existam.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "177900316": {
+   "fragment_id": "69992289",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 40.º\n\nOs sócios correspondentes estrangeiros estão dispensados dos deveres de participação e de colaboração permanentes e o seu contacto com a Academia é, em regra, feito pelo envio de comunicações académicas, designadamente através dos meios de comunicação eletrónica disponíveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900317": {
+   "fragment_id": "69992290",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 41.º\n\nOs sócios correspondentes estrangeiros, quando se encontrem em território português, gozam de direitos iguais aos dos sócios correspondentes, não contando, porém, a sua presença para efeitos de quórum nas sessões em que comparecerem.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900277": {
+   "fragment_id": "69992291",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nOs sócios da Academia têm livre entrada, sem sujeição a quaisquer formalidades e com dispensa do pagamento de quaisquer taxas, mediante a exibição do cartão de identidade académica, em todas as bibliotecas, museus, arquivos e estações de investigação do Estado e corpos administrativos, incluindo secções de reservados e depósitos não destinados à exposição pública, devendo ser-lhes reservado, quando disso careçam, gabinete para os seus estudos e investigações, e mais facilidades que para tal solicitem."
+  },
+  "177900278": {
+   "fragment_id": "69992292",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nOs sócios da Academia podem, através da secretaria-geral e depois de despacho favorável do presidente da classe, solicitar dos serviços públicos, bibliotecas e arquivos informações e elementos necessários às suas investigações, desde que assumam a responsabilidade pela satisfação dos respectivos encargos."
+  },
+  "177900318": {
+   "fragment_id": "69992293",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 44.º\n\nOs instrumentos de mobilidade previstos na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual, são aplicáveis à Academia e aos seus trabalhadores.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "177900280": {
+   "fragment_id": "69992294",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nAo exercício dos cargos académicos não são aplicáveis as disposições legais relativas ao limite de idade."
+  },
+  "177900319": {
+   "fragment_id": "69992296",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 46.º\n\nOs órgãos da Academia são os seguintes:\n\na) Plenário;\n\nb) Presidência;\n\nc) Conselho administrativo;\n\nd) Secretaria-Geral.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900320": {
+   "fragment_id": "69992297",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 47.º\n\nO plenário é o órgão ao qual compete enunciar a vontade da Academia.\n\n§ único. O plenário denomina-se plenário da Academia, ou plenário geral, quando constituído por todos os sócios da Academia, e plenário de efectivos, quando constituído pelos sócios efectivos de ambas as classes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900321": {
+   "fragment_id": "69992298",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 48.º\n\nCompete ao plenário da Academia:\n\na) Eleger o presidente e o vice-presidente da Academia;\n\nb) Apreciar a actividade geral da Academia;\n\nc) Aprovar os projectos dos estatutos e Regulamento da Academia e pronunciar-se sobre quaisquer propostas de alteração ou emenda a esses textos;\n\nd) Pronunciar-se sobre assuntos de excepcional importância para a vida da Academia, quando para isso seja convocado pelo presidente da Academia;\n\ne) Exercer as demais competências que lhe sejam atribuídas pelos estatutos, pelo Regulamento ou pela lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900322": {
+   "fragment_id": "69992299",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+   ],
+   "markdown": "###### Artigo 49.º\n\nCompete ao plenário de efectivos:\n\na) A eleição para os cargos de secretário-geral, vice-secretário-geral, tesoureiro, inspector da biblioteca, director do museu e directores dos demais serviços;\n\nb) O planeamento e programação das actividades da Academia e a apreciação da forma como essas actividades são realizadas;\n\nc) A discussão e aprovação do orçamento privativo e dos projectos dos orçamentos e das contas anuais;\n\nd) A atribuição de prémios e palmas académicas;\n\ne) A eleição para a categoria de sócio emérito;\n\nf) Indicar, anualmente, os sócios que passam à situação de supranumerários;\n\ng) Indicar, anualmente, quais as eleições de sócios que devem ser anuladas, nos termos do artigo 33.º destes Estatutos;\n\nh) A apreciação de quaisquer assuntos que lhe sejam propostos pelo presidente da Academia, pelos presidentes das classes, ou por comissões constituídas por, pelo menos, três sócios efectivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 179/96 - Diário da República n.º 222/1996, Série I-A de 1996-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-1996-214974), em vigor a partir de 1996-09-29"
+  },
+  "177900323": {
+   "fragment_id": "69992300",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 50.º\n\n1 - O plenário da Academia reúne em sessão ordinária uma vez por ano, no início de cada ano académico, para exercer a competência referida nas alíneas a), b) e c) do n.º 1 do artigo 48.º, e em sessão extraordinária quando o presidente, ouvido o plenário de efetivos, assim o determinar.\n\n2 - O plenário da Academia só pode funcionar com a presença de, pelo menos, um quinto do número de sócios.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900324": {
+   "fragment_id": "69992301",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 51.º\n\n1 - O presidente da Academia pode convocar para o plenário geral o pessoal em serviço na Academia, devendo fazê-lo quando sejam submetidos à discussão assuntos do seu interesse como funcionários, ou que afetem a sua situação.\n\n2 - No caso previsto no presente artigo, a sessão é expressamente convocada, constando apenas da ordem do dia assuntos relativos ao pessoal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900325": {
+   "fragment_id": "69992302",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 52.º\n\n1 - O plenário de efetivos reúne em sessão ordinária uma vez por ano e em sessão extraordinária nos casos seguintes:\n\na) Quando o presidente da Academia o convocar por iniciativa sua;\n\nb) Quando o conselho administrativo, por maioria dos seus membros, o requerer ao presidente da Academia;\n\nc) Quando pelo menos 10 sócios efetivos o requererem ao presidente da Academia.\n\n2 - O plenário de efetivos só pode funcionar com a presença de, pelo menos, um quinto do número de sócios.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900334": {
+   "fragment_id": "69992303",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 53.º\n\nOs sócios eméritos não são convocados para as sessões do plenário de efectivos, mas sempre que compareçam, nele terão assento como se efectivos fossem, com direito a voto.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900326": {
+   "fragment_id": "69992306",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 56.º\n\n1 - O presidente e o vice-presidente da Academia são eleitos por um período de dois anos, só podendo a eleição recair sobre os académicos efetivos que se encontrem há, pelo menos, dois anos nessa categoria.\n\n2 - O presidente e o vice-presidente cessantes não podem, nessa qualidade, ser eleitos para os mandatos imediatamente posteriores.\n\n3 - Os mandatos do presidente e do vice-presidente têm o seu início e o seu termo na mesma data.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "177900327": {
+   "fragment_id": "69992309",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 59.º\n\nCompete ao presidente da Academia:\n\na) Representar a Academia em geral, e em especial nas relações com o Governo, com os corpos administrativos, com as demais corporações científicas e literárias, nacionais e estrangeiras, e com os tribunais;\n\nb) Manter a unidade e continuidade das actividades académicas, de acordo com as decisões das sessões plenárias e das classes;\n\nc) Presidir às sessões plenárias da Academia, às reuniões do conselho administrativo e a todas as sessões solenes da Academia;\n\nd) Nomear júris, delegações académicas e comissões de estudo, conforme as deliberações das classes da Academia;\n\ne) Propor ao Governo o provimento dos lugares dos quadros do pessoal administrativo, técnico e auxiliar;\n\nf) Assinar todos os diplomas expedidos em nome da Academia e delegar esta competência nos casos em que o considerar conveniente;\n\ng) Designar as datas dos plenários da Academia e dos plenários de efectivos, fixando a ordem dos trabalhos;\n\nh) Assegurar a observância dos Estatutos e do Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "177900281": {
+   "fragment_id": "177900217",
+   "type": 11,
+   "heading": "Artigo 60.º-A",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 60.º-A\n\n1 - O conselho científico é constituído por sócios eleitos bienalmente pelo plenário da Academia, um por cada secção.\n\n2 - Compete ao conselho científico coadjuvar o presidente da Academia na elaboração dos planos e programas de atividades e dos relatórios a apresentar ao plenário da Academia.\n\n3 - A eleição, competência e funcionamento do conselho científico são definidos no Regulamento da Academia.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900328": {
+   "fragment_id": "69992311",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Rectificado pelo/a Artigo 61.º do/a [Declaração - Diário da República n.º 32/1978, Série I de 1978-02-08](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-448536)"
+   ],
+   "markdown": "###### Artigo 61.º\n\nA administração da Academia é exercida por um conselho administrativo constituído pelo presidente, pelo vice-presidente, pelo secretário-geral, pelo vice-secretário-geral e pelo tesoureiro da Academia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Rectificado pelo/a Artigo 61.º do/a [Declaração - Diário da República n.º 32/1978, Série I de 1978-02-08](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-448536)"
+  },
+  "177900283": {
+   "fragment_id": "69992312",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 62.º\n\nCompete ao conselho administrativo:\n\na) Administrar as verbas atribuídas à Academia no Orçamento Geral do Estado;\n\nb) Arrecadar e administrar as receitas próprias da Academia, as provenientes de doações e legados e quaisquer outros subsídios ou verbas que lhe sejam atribuídos;\n\nc) Superintender na conservação do edifício da sede da Academia e quaisquer bens, móveis ou imóveis, que sejam sua propriedade ou estejam na sua dependência;\n\nd) Elaborar o projecto de orçamento da Academia, a submeter à apreciação do plenário de efectivos;\n\ne) Apreciar os orçamentos privativos de quaisquer serviços da Academia;\n\nf) Pronunciar-se sobre o provimento de lugares dos quadros do pessoal administrativo, técnico e auxiliar da Academia;\n\ng) Fixar as remunerações a abonar aos titulares dos cargos retribuídos e aos colaboradores das actividades da Academia;\n\nh) Atribuir subsídios ou bolsas de estudo a nacionais e estrangeiros para a realização de investigações ou missões nos domínios científicos a que correspondem as classes da Academia, e bem assim subsídios de representação aos académicos designados para representar a Academia no estrangeiro, quando necessário;\n\ni) Apreciar, aceitar ou rejeitar as doações e legados feitos à Academia com cláusulas modais ou condicionais;\n\nj) Fazer escriturar, em harmonia com as disposições legais, as receitas e despesas da Academia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "177900284": {
+   "fragment_id": "69992313",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nCompete ao tesoureiro da Academia, por delegação do conselho administrativo e de acordo com as suas decisões, exercer as atribuições referidas nas alíneas a), b), d) e h) do artigo 62.º"
+  },
+  "177900285": {
+   "fragment_id": "69992314",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\nO tesoureiro da Academia é eleito trienalmente pelo plenário de efectivos, sendo permitida a reeleição."
+  },
+  "177900286": {
+   "fragment_id": "69992315",
+   "type": 11,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\nO conselho administrativo reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convocar."
+  },
+  "177900287": {
+   "fragment_id": "69992316",
+   "type": 11,
+   "heading": "Artigo 66.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 66.º\n\nO secretário-geral e o vice-secretário-geral são eleitos em plenário de efetivos, por escrutínio secreto e por períodos de três anos, podendo ser reeleitos, uma ou mais vezes, por idêntico período.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "177900288": {
+   "fragment_id": "69992317",
+   "type": 11,
+   "heading": "Artigo 67.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º\n\nO secretário-geral e o vice-secretário-geral devem pertencer a classes diferentes."
+  },
+  "177900289": {
+   "fragment_id": "69992318",
+   "type": 11,
+   "heading": "Artigo 68.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º\n\nCompete ao secretário-geral:\n\na) Elaborar as actas das sessões plenárias;\n\nb) Dar andamento às resoluções dos órgãos académicos e das classes;\n\nc) Orientar e dirigir as comunicações da Academia com outras entidades;\n\nd) Legalizar certidões ou extractos documentais solicitados à Academia;\n\ne) Mandar elaborar e manter actualizado o inventário de todos os bens da Academia e fazer elaborar os inventários especiais de vários serviços;\n\nf) Dar execução às decisões do conselho administrativo;\n\ng) Superintender em todos os assuntos do pessoal;\n\nh) Velar pela ordem e segurança e assegurar a eficiência de todos os serviços."
+  },
+  "177900329": {
+   "fragment_id": "69992326",
+   "type": 11,
+   "heading": "Artigo 74.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 74.º\n\n1 - A utilização das instalações académicas é reservada às atividades da Academia.\n\n2 - Em casos justificados, o conselho administrativo pode autorizar a utilização das instalações da Academia para outras atividades compatíveis com a missão da Academia, nomeadamente de caráter científico ou cultural, nos termos do Regulamento de cedência e utilização de espaços aprovado pelo presidente da Academia com o parecer favorável do conselho administrativo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900330": {
+   "fragment_id": "69992327",
+   "type": 11,
+   "heading": "Artigo 75.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 75.º\n\nSem prejuízo do disposto no artigo 31.º, o preenchimento das secções 8.ª e 9.ª de cada classe é feito no período de cinco anos a contar da entrada em vigor dos presentes Estatutos, podendo para o efeito ser transferidos de outras secções académicos que para isso deem o seu assentimento, os quais conservam todos os direitos anteriormente adquiridos na Academia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900290": {
+   "fragment_id": "177900218",
+   "type": 11,
+   "heading": "Artigo 75.º-A",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 75.º-A\n\nOs sócios honorários que antes tiverem sido efetivos integram as classes académicas nas respetivas secções e têm os mesmos direitos e deveres dos sócios efetivos.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900331": {
+   "fragment_id": "69992328",
+   "type": 11,
+   "heading": "Artigo 76.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+   ],
+   "markdown": "###### Artigo 76.º\n\n1 - Os presentes Estatutos devem ser revistos no prazo de 10 anos após a sua entrada em vigor.\n\n2 - A Academia fica autorizada a pôr em vigor, em regime experimental e provisório, as normas e disposições regulamentares que considerar mais aptas à eficiência dos seus serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20"
+  },
+  "177900332": {
+   "fragment_id": "69992329",
+   "type": 11,
+   "heading": "Artigo 77.º",
+   "in_force_from": "2022-01-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 77.º\n\nAos trabalhadores dos serviços da Academia é aplicável a Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "887843055": {
+   "fragment_id": "69982771",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2023-216771969), em vigor a partir de 2023-08-09",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+   ],
+   "markdown": "###### Artigo 23.º\n\nOs serviços da Academia são definidos no Regulamento da Academia.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2023-216771969), em vigor a partir de 2023-08-09\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2022 - Diário da República n.º 13/2022, Série I de 2022-01-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2022-177847668), em vigor a partir de 2022-01-20\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 157/2015 - Diário da República n.º 154/2015, Série I de 2015-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2015-69977687), em vigor a partir de 2015-08-11"
+  },
+  "887843056": {
+   "fragment_id": "69982772",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2023-216771969), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 24.º\n\n1 - A direcção e competência dos serviços é a fixada no Regulamento da Academia.\n\n2 - Os serviços da Academia podem ser dirigidos por titulares de cargos de direção intermédia de 2.º grau, nos termos do estatuto do pessoal dirigente dos serviços e órgãos da administração central, local e regional do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro, na sua redação atual, até ao limite a definir por portaria dos membros do Governo responsáveis pelas áreas da administração pública, das finanças e da ciência.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 67/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/67-2023-216771969), em vigor a partir de 2023-08-09"
+  }
+ }
+}

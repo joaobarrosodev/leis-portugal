@@ -1,0 +1,226 @@
+---
+schema_version: '1.0'
+id: pt:dre:600484:por
+title: Despacho Normativo n.º 703/94
+short_title: null
+summary: Aprova o regime do SIPESCA - Sistema de Incentivos à Pesca para os anos de 1994 e 1995
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Mar
+proposing_entity: null
+official_number: 703/94
+official_date: null
+publication_date: '1994-10-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/1994, Série I-B de 1994-10-03
+  number: '229'
+  series: I
+  supplement: null
+  pages: 6062 - 6063
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/10/229b00/60626063.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/703/1994/10/03/p/dre/pt/html
+  oj: null
+  dre: '600484'
+  dre_path: /dr/detalhe/despacho-normativo/703-1994-600484
+  internal: pt:dre:600484:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/703-1994-600484
+  metadata_url: https://data.dre.pt/eli/despnorm/703/1994/10/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/703-1994-600484
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-12-05T00:00:00Z'
+integrity:
+  source_sha256: 4252d268e7aa85f3dfdca70a76f05741f8161cc13c627f32bd71b185e804b09d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-703-600484.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Programa para o Desenvolvimento Económico do Sector das Pescas
+- Regulamento
+- Sipesca
+relationships:
+- type: amended_by
+  target: pt:dre:305581:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/75/1993/12/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 703/94
+
+No âmbito da política de renovação e reestruturação do sector das pescas e como complemento das ajudas financeiras previstas no PROPESCA - Programa de Apoio ao Desenvolvimento Económico do Sector das Pescas, estão previstas no PIDDAC verbas que se destinam a apoiar projectos de construção de embarcações de pesca cujo montante de investimento não atinge o mínimo necessário para enquadramento naquele Programa, projectos de modernização de custo menos significativo, bem como outras acções que visem especificamente as comunidades piscatórias ou que revistam um carácter excepcional.
+
+Assim, tendo em consideração as orientações contidas no ponto «Pesca» das Grandes Opções do Plano para 1994, em anexo à [Lei n.º 75/93](https://diariodarepublica.pt/dr/detalhe/lei/75-1993-311209), de 20 de Dezembro:
+
+Determino o seguinte:
+
+1 - É aprovado o regime do SIPESCA - Sistema de Incentivos Pesca para os anos de 1994 e 1995.
+
+2 - O SIPESCA - Sistema de Incentivos à Pesca, anexo ao presente despacho e que dele faz parte integrante, entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério do Mar, 19 de Setembro de 1994. - O Ministro do Mar, Eduardo Eugénio Castro de Azevedo Soares.
+
+Sistema de Incentivos à Pesca
+
+Considerando o interesse existente na renovação e reestruturação da frota de pesca por forma que integre embarcações mais modernas, melhor equipadas e com adequadas condições de trabalho, higiene e segurança a bordo;
+
+Considerando que estas embarcações devem proporcionar uma exploração rentável e garantir a produção de pescado de qualidade;
+
+Considerando que o aumento da rentabilidade das embarcações deve ter por base um exploração criteriosa dos recursos e assegurar a sua preservação, através do uso de artes permitidas e mais selectivas;
+
+Considerando a necessidade de definir os tipos de investimento elegíveis no âmbito das acções abrangidas pelo SIPESCA e de estabelecer critérios uniformes para a selecção dos projectos;
+
+Considerando que o montante global dos apoios não pode exceder, em termos percentuais, os valores fixados no âmbito das "Linhas Directrizes da Comissão da CE para o Exame dos Auxílios Nacionais no Sector das Pescas":
+
+É estabelecido o seguinte regime para o Sistema de Incentivos à Pesca:
+
+1 - Objectivos - o SIPESCA tem como objectivo:
+
+Apoiar a construção, por substituição, de pequenas embarcações de pesca melhor adaptadas à actividade e de custo total inferior a 7500 contos;
+
+Apoiar a modernização de embarcações de pesca, de custo total superior a 100 contos e inferior a 5500 contos, que visem a melhoria das condições de segurança, trabalho, acondicionamento e conservação do pescado a bordo;
+
+Apoiar acções que visem especificamente comunidades piscatórias ou que revistam um carácter excepcional.
+
+2 - Condições de acesso - os projectos de investimento são apresentados pelos proprietários de embarcações de pesca, devendo estas reunir as seguintes condições:
+
+Licença de pesca referente ao ano da apresentação do projecto;
+
+Actividade comprovada pelo movimento de descargas em lota. A ausência ou as baixas descargas em lota devem ser devidamente justificadas.
+
+A construção de novas embarcações para substituição de embarcações naufragadas pode ser considerada nos termos previstos no [Decreto-Lei n.º 41579](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41579-1958-305015), de 2 de Abril de 1958.
+
+3 - Critérios de selecção - para efeitos de concessão de apoio financeiro, será dada prioridade:
+
+1) Às candidaturas que satisfaçam as seguintes condições:
+
+Apresentem, como contrapartida às novas construções, embarcações com idade superior a 10 anos;
+
+Digam respeito à modernização de embarcações de pesca com idade inferior a 10 anos;
+
+Impliquem, quer em relação a novas construções quer em relação a obras de modernização, aumentos pouco significativos de tonelagem de arqueação bruta e de potência propulsora;
+
+Prevejam a reconversão de unidades existentes para a pesca com artes mais selectivas, como o anzol, ou digam respeito à construção de unidades destinadas a actuar com esta arte;
+
+Determinem a melhoria das condições de conservação e estiva do pescado a bordo;
+
+Visem a aquisição de aparelhos de linhas e anzóis, passando a embarcação a actuar exclusivamente com estas artes;
+
+2) Às acções que revistam um carácter excepcional.
+
+4 - Despesas não elegíveis - não são elegíveis para efeitos de concessão de apoio financeiro:
+
+Construções de embarcações que se encontrem concluídas à data de apresentação do projecto;
+
+Equipamentos adquiridos e obras realizadas antes da apresentação do projecto de modernização;
+
+Obras de manutenção corrente (pintura, manutenção periódica do motor ou sua reparação, manutenção periódica do casco, ou outras intervenções de natureza semelhante...) efectuadas separadamente de trabalhos de modernização;
+
+Material em segunda mão e respectiva montagem.
+
+Tratando-se da reinstalação numa nova unidade de equipamentos recuperados da unidade anterior, são elegíveis as despesas de instalação a bordo;
+
+Equipamentos considerados dispensáveis para a navegação, segurança do navio, actividade de pesca e condições de vida a bordo;
+
+Artes de pesca cujo custo exceda 15% do montante de investimento previsto para os restantes custos da nova construção.
+
+Nos projectos de modernização não é elegível a aquisição de artes de pesca, excepto no caso de se tratar de uma alteração global da actividade.
+
+A quantidade de artes apoiadas em caso algum poderá exceder as quantidades máximas fixadas na legislação em vigor;
+
+Motores fora-de-borda destinados a embarcações que actuam em zonas onde existem infra-estruturas de apoio à actividade da pesca que permitem uma reconversão adequada à introdução de motores fixos.
+
+5 - Análise dos projectos - para efeitos de análise dos projectos consideram-se baixas descargas aquelas cujo valor médio se situa abaixo do valor médio das descargas efectuadas no ano anterior ao da análise da candidatura, para embarcações com dimensionamento idêntico, actuando na mesma zona, sendo ponderado o valor médio que essas embarcações realizam a nível nacional.
+
+Por equipamento de segurança entende-se: extintores, bóias de sinalização, sinais de pára-quedas, jangadas, coletes, fachos de luz, balsas, etc.
+
+6 - Montantes dos apoios - os níveis de comparticipação do Estado nos custos elegíveis dos projectos são em função do tipo de artes utilizadas ou a utilizar pelas novas embarcações, da seguinte forma:
+
+Aparelhos de linhas e anzol, exclusivamente - 60%;
+
+Outras artes de pesca - 50%;
+
+Em nenhum caso o valor total dos subsídios poderá ultrapassar o limite máximo da taxa de comparticipação sobre o montante de investimento previsto nas "Linhas Directrizes da Comissão da CE para Exame dos Auxílios Nacionais no Sector da Pesca".
+
+7 - Outras acções - neste Sistema de Incentivos podem ser enquadradas acções que se destinem a resolver problemas específicos das comunidades piscatórias ou que, pela sua natureza, revistam um carácter excepcional.
+
+Estas acções serão objecto de proposta específica e fundamentada da Direcção-Geral das Pescas a ser presente ao Ministro do Mar.
+
+Para as ajudas a conceder no âmbito destas acções não é obrigatório um investimento mínimo de 100 contos.
+
+8 - Apresentação de candidatura - é fixada a data de 30 de Setembro como limite da entrega de candidaturas à Direcção-Geral das Pescas.
+
+As candidaturas entregues até 30 de Abril serão objecto de decisão até 15 de Setembro e as entregues entre 30 de Abril e 30 de Setembro, até 31 de Dezembro.
+
+9 - Prazos para a concretização dos projectos - para a conclusão dos projectos são estabelecidos os seguintes prazos, contados a partir da comunicação ao beneficiário da concessão de apoio:
+
+Projectos de construção - um ano;
+
+Projectos de modernização - oito meses.
+
+10 - Atribuição dos apoios - o apoio atribuído é entregue ao beneficiário mediante a realização de uma vistoria pela Direcção-Geral das Pescas para confirmação da execução material do projecto e da apresentação pelo beneficiário de documentos de despesa definitivos que comprovem o investimento realizado.
+
+A entrega do subsídio concedido antes da conclusão material e financeira do projecto só poderá verificar-se contra a apresentação de garantia bancária ou seguro de caução, válidos pelo período de um ano, contado a partir da notificação da aprovação do projecto, prestada pelo armador, estaleiro, casas fornecedoras ou associações de armadores.
+
+A libertação da garantia bancária ou do seguro de caução terá lugar após a confirmação pela Direcção-Geral das Pescas de que o projecto se encontra material e financeiramente concluído.
+
+O beneficiário comparticipará nas despesas inerentes ao acompanhamento técnico dos projectos por parte da Direcção-Geral das Pescas com o valor de 1% sobre o montante do subsídio ilíquido atribuído.
+
+A não utilização, sem justificação superiormente aceite, dos subsídios concedidos através do SIPESCA determina o impedimento de apresentação de nova candidatura a apoio financeiro no âmbito deste Sistema de Incentivos.
+
+Nos casos em que se tenha verificado a libertação de subsídios do SIPESCA e incumprimento dos projectos por parte dos beneficiários, deverão os mesmos repor nos cofres do Estado a parte do subsídio não aplicado, acrescido dos respectivos juros legais, nos termos do disposto no artigo 559.º do Código Civil.
+
+A entrega destas verbas deverá efectuar-se num prazo máximo de 15 dias úteis após a notificação do beneficiário explicitando a quantia a devolver.
+
+A não reposição deste montante no prazo indicado implicará o envio do processo à repartição de finanças dessa área, para efeitos de execução.
+
+11 - Disposições transitórias - no ano de 1994 os processos de candidatura poderão ser apresentados até 30 de Outubro, sendo objecto de decisão até 31 de Dezembro.
+
+Os processos de candidatura apresentados desde o dia 1 de Janeiro de 1994, no âmbito do Programa de Apoio e de Desenvolvimento da Pesca Artesanal (PADPA), serão enquadrados no presente Sistema de Incentivos.
+
+Os processos de candidatura apresentados até 31 de Dezembro de 1993 e transitados para o ano económico seguinte por despacho do Ministro do Mar são enquadrados no presente Sistema de Incentivos.

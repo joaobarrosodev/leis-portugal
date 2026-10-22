@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:279995:por
+title: Assento n.º 3
+short_title: null
+summary: Processo n.º 66066. - Autos de recurso para o tribunal pleno, em que são recorrentes Sociedade A. Silva Tavares,
+  Lda., e outros e recorrido António Silva Tavares
+jurisdiction: portugal
+territory: null
+document_type: assento
+document_type_label: Assento
+issuing_authority:
+- Supremo Tribunal de Justiça
+proposing_entity: null
+official_number: '3'
+official_date: null
+publication_date: '1977-12-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 298/1977, Série I de 1977-12-27
+  number: '298'
+  series: I
+  supplement: null
+  pages: 3064 - 3065
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/12/29800/30643065.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '279995'
+  dre_path: /dr/detalhe/assento/3-1977-279995
+  internal: pt:dre:279995:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/assento/3-1977-279995
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/assento/3-1977-279995
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-12-27T00:00:00Z'
+integrity:
+  source_sha256: 3041de5ff19d0c6618b87596bf29dd76424c102ee8e37b489f66041509b75ad6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-3-279995.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Assento n.º 3
+
+Processo n.º 66066
+
+Autos de recurso para tribunal pleno, em que são recorrentes a Sociedade A. Silva Tavares, Lda., e outros e recorrido António Silva Tavares.
+
+Acordam no Supremo, em tribunal pleno:
+
+A Sociedade A. Silva Tavares, Lda., José Claudino Jardim Rodrigues e Manuel Ferreira Marques recorreram para o tribunal pleno do Acórdão deste Supremo Tribunal de 9 de Maio de 1975 (Bol., 247.º, 190), invocando oposição sobre a mesma questão de direito com o de 18 de Abril de 1967 (Bol., 166.º, 424).
+
+Entendeu-se no acórdão a fl. 19, em que intervieram os juízes da 1.ª secção, que se verificavam os pressupostos do n.º 1 do artigo 763.º do Código de Processo Civil para o efeito do seguimento do recurso.
+
+Aqui ratificamos o que no mesmo aresto se decidiu.
+
+O problema consiste em decidir se pelo mero facto de um sócio de uma sociedade por quotas ser nomeado gerente no pacto social pode apenas ser destituído do cargo por deliberação de três quartas partes dos votos correspondentes ao capital social (maioria qualificada) ou se, pelo contrário, o pode ser por maioria simples.
+
+A primeira solução é a do acórdão recorrido; a segunda, a do invocado pelos recorrentes.
+
+O recorrido, António Silva Tavares, defende a doutrina do acórdão de 1975.
+
+O Exmo. Magistrado do Ministério Público opina no seu douto parecer a fls. 34 e seguintes pela possibilidade da destituição do gerente nomeado no pacto, por maioria simples dos votos correspondentes ao capital social, desde que essa nomeação não importe a concessão de direito especial e se não tenha pactuado expressa ou implicitamente a exigência de maioria qualificada.
+
+Tudo ponderado:
+
+1) Tratando-se da destituição da gerência de um sócio de uma sociedade por quotas, há que ter em vista a Lei de 11 de Abril de 1901, que nos artigos 26.º a 28.º regula a nomeação de gerente e a revogação do mandato.
+
+Não há, pois, que recorrer ao Código Civil, ou mesmo ao Código Comercial, de aplicação subsidiária, desnecessária neste caso.
+
+2) Nada encontramos nos preceitos que acabámos de citar sobre a diferença do regime da revogação da gerência quando a designação tenha sido efectuada no pacto social ou posteriormente, sendo certo que o artigo 27.º prevê as duas hipóteses, sem qualquer restrição.
+
+Nestas circunstâncias, não vemos como a destituição de um gerente nomeado no pacto, salvo havendo expressa ou implicitamente algo que o não permita, o que se não verifica no caso em apreço, pode implicar a alteração do mesmo.
+
+Era, aliás, esta a posição dominante da jurisprudência deste Supremo Tribunal, como se vê dos Acórdãos de 15 de Fevereiro de 1949 (Bol., 11.º, 208), 3 de Julho de 1954 (Bol., 44.º, 434), 30 de Março de 1962 (Bol., 115.º, 169), 18 de Abril de 1967 (Bol., 166.º, 424) e 23 de Abril de 1974 (Bol., 236.º, 173).
+
+Temos, é certo, em sentido contrário, além do acórdão recorrido, os de 19 de Julho de 1974 (Bol., 239.º, 230), 1 de Julho de 1975 (Bol., 249.º, 502) e 2 de Dezembro de 1975 (Bol., 252.º, 171).
+
+3) Estes últimos arestos invocam o artigo 41.º da Lei de 1901 e no acórdão recorrido diz-se que a solução nele defendida é a que melhor se ajusta à doutrina do Assento de 26 de Maio de 1961 (Bol., 107.º, 352), quando no de 2 de Novembro de 1975 se afasta a aplicação do assento à hipótese nele versada.
+
+Porém, o que de nenhum dos doutos arestos se deduz é uma razão decisiva no sentido de se afirmar que a destituição de um gerente nomeado no pacto social de uma sociedade por quotas constitui a alteração desse pacto.
+
+Se essa premissa estivesse certa, indubitável seria o acerto da conclusão.
+
+4) Mas, salvo o devido respeito, não se nos afigura que a premissa esteja de acordo com a lei.
+
+Importa observar antes de tudo que se não trata de uma sociedade em que predomina o elemento pessoal, como nas sociedades em nome colectivo.
+
+Nestas últimas, o regime de administração passou a reger-se pelo disposto nos artigos 985.º a 987.º do Código Civil (artigo 7.º do [Decreto-Lei n.º 363/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1977-286509), de 2 de Setembro - Diário da República, 1.ª série, n.º 203). E, tendo o legislador, certamente, conhecimento da divergência jurisprudencial quanto à gerência das sociedades por quotas, não tomou nesse diploma posição em relação ao problema, deixando-o sujeito ao regime especial estabelecido pela falada Lei de 1901.
+
+Ora, repetimos, nada vemos na aludida lei que limite a revogação do mandato do gerente por ele ser nomeado no pacto social, e, antes, dos artigos 27.º e 28.º extrai-se conclusão oposta.
+
+No sentido da revogabilidade do mandato do gerente por simples pluralidade de votos, mesmo que nomeado no pacto social, não existindo nele cláusula que lhe confira um direito especial, também se pronunciaram Vaz Serra (Revista de Legislação e Jurisprudência, 104.º, 73 e seguintes, em anotação ao Acórdão do Supremo de 20 de Fevereiro de 1970, in Bol., 194.º, 253, e 108.º, 167 e seguintes, em anotação do Acórdão de 23 de Abril de 1974, atrás citado) e António Agostinho Caeiro (Rev. Dir. Est. Soc., XV, 422 e seguintes, em anotação ao Acórdão da Relação de Lisboa de 31 de Maio de 1967).
+
+Temos, assim, a apoiar-nos também esclarecida doutrina.
+
+5) Pelo exposto, revoga-se o aliás douto acórdão recorrido, confirmando-se o da Relação, com custas pelo recorrido; e tira-se o seguinte assento:
+
+O gerente de uma sociedade por quotas nomeado no pacto social pode ser destituído por maioria simples dos votos correspondentes ao capital social, desde que a nomeação não importe concessão de um direito especial.
+
+Lisboa, 9 de Novembro de 1977. - Bruto da Costa (relator) - Daniel Ferreira - José Montenegro - Eduardo Botelho de Sousa - Miguel Caeiro - Avelino da Costa Ferreira Júnior - António Acácio de Oliveira Carvalho (com a declaração de que um maior estudo do problema leva-me a perfilhar a doutrina defendida no projecto do assento) - Abel de Campos - Manuel dos Santos Vítor - Costa Soares - Alves Pinto - Octávio Dias Garcia - Hernâni de Lencastre - Artur Moreira da Fonseca - Aníbal Aquilino Ribeiro - Rodrigues Bastos [vencido, pelas razões expostas no Acórdão de 19 de Julho de 1977 (Boletim do Ministério da Justiça, 239.º, 230), de que fui relator] - José Garcia da Fonseca (vencido pelos mesmos motivos do voto anterior) - João Moura (vencido pelos mesmos fundamentos) - Adriano Vera Jardim (vencido pelos mesmos fundamentos).
+
+Está conforme.
+
+Supremo Tribunal de Justiça, 23 de Novembro de 1977. - O Secretário, Manuel Fernandes Júnior.

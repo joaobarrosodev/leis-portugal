@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:203285138:por
+title: Portaria n.º 753/2022
+short_title: null
+summary: Autoriza o Chefe do Estado-Maior-General das Forças Armadas a empenhar quatro aeronaves F-16M, como contributo nacional
+  para apoio da missão Iceland Air Policing, da OTAN, em 2022
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Defesa Nacional - Gabinete da Ministra
+proposing_entity: null
+official_number: 753/2022
+official_date: null
+publication_date: '2022-11-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 218/2022, Série II de 2022-11-11
+  number: '218'
+  series: II
+  supplement: null
+  pages: 58 - 58
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/11/218000000/0005800058.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '203285138'
+  dre_path: /dr/detalhe/portaria/753-2022-203285138
+  internal: pt:dre:203285138:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/753-2022-203285138
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/753-2022-203285138
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-11-11T00:00:00Z'
+integrity:
+  source_sha256: 4bea4e20eb3b4c94026e0cf9c1a7dedaa6eb77c3d821881d79692e51cd69cf24
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-753-203285138.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 753/2022
+
+A Organização do Tratado do Atlântico Norte (OTAN) tem vindo a aprimorar a sua missão de policiamento aéreo no âmbito do Sistema Integrado de Defesa Aérea e de Mísseis da OTAN (NATO Integrated Air and Missile Defence System), salvaguardando e protegendo o território, as populações e as forças da Aliança contra ameaças e ataques aéreos e de mísseis, contribuindo para a segurança e integridade do espaço aéreo dos Estados-Membros.
+
+A OTAN protege o espaço aéreo da Islândia desde 2008, assegurando, em regime de rotatividade, o Policiamento Aéreo deste território através do empenhamento de aeronaves na Base Aérea de Keflavik. Portugal, enquanto Estado fundador da OTAN, mantém o seu empenho no cumprimento dos compromissos assumidos por esta organização, contribuindo com os meios necessários para garantir a segurança coletiva.
+
+O estatuto dos militares das Forças Armadas envolvidos em missões humanitárias e de paz, fora do território nacional, no quadro dos compromissos internacionais assumidos por Portugal, está definido no [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de dezembro, na sua redação atual, e aplica-se aos militares das Forças Armadas envolvidos nesta missão.
+
+O Conselho Superior de Defesa Nacional emitiu parecer favorável sobre a participação de Portugal na referida operação, nos termos da alínea g) do n.º 1 do artigo 17.º da Lei de Defesa Nacional, aprovada pela [Lei Orgânica n.º 1-B/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/52-2009-492378), de 7 de julho, na sua redação atual.
+
+A presente decisão do Governo foi comunicada à Assembleia da República, nos termos do artigo 3.º da [Lei n.º 46/2003](https://diariodarepublica.pt/dr/detalhe/lei/46-2003-656130), de 22 de agosto.
+
+Assim, nos termos do n.º 1 do artigo 12.º e das alíneas f) e n) do n.º 3 do artigo 14.º da Lei de Defesa Nacional, aprovada pela [Lei Orgânica n.º 1-B/2009](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/52-2009-492378), de 7 de julho, na sua redação atual, e nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de dezembro, na sua redação atual, manda o Governo, pela Ministra da Defesa Nacional, o seguinte:
+
+1 - Autorizo o Chefe do Estado-Maior-General das Forças Armadas a empenhar, como contributo nacional para o apoio da missão Iceland Air Policing, da OTAN, em 2022, quatro aeronaves F-16M, durante dois meses, com 260 HV (excluindo trânsitos) e com um efetivo de até 95 (noventa e cinco) militares.
+
+2 - A participação nacional identificada no número anterior fica na dependência direta do Chefe do Estado-Maior-General das Forças Armadas.
+
+3 - Nos termos do n.º 5 da [Portaria n.º 87/99](https://diariodarepublica.pt/dr/detalhe/portaria/87-1999-184957), de 30 de dezembro de 1998, publicada no Diário da República, 2.ª série, n.º 23, de 28 de janeiro de 1999, os militares que integram a participação nacional estabelecida no n.º 1 desempenham funções em território considerado de classe C.
+
+4 - Os encargos decorrentes da participação nacional nesta missão são suportados pela dotação orçamental inscrita para as Forças Nacionais Destacadas de 2022.
+
+5 - A presente portaria produz efeitos desde 1 de janeiro de 2022.
+
+7 de novembro de 2022. - A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras.

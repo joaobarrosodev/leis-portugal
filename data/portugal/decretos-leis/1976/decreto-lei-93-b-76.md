@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:144448:por
+title: Decreto-Lei n.º 93-B/76
+short_title: null
+summary: Lei Eleitoral (Parte II) - Comissão Nacional das Eleições
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna - Secretariado Técnico dos Assuntos Políticos e Eleitorais
+proposing_entity: null
+official_number: 93-B/76
+official_date: null
+publication_date: '1976-01-29'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 24/1976, 1º Suplemento, Série I de 1976-01-29
+  number: '24'
+  series: I
+  supplement: 1º Suplemento
+  pages: 228-(3) a 228-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/01/02401/00030004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '144448'
+  dre_path: /dr/detalhe/decreto-lei/93-b-1976-144448
+  internal: pt:dre:144448:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-b-1976-144448
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-b-1976-144448
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: 88701b98b0d8a0169e537c1f2686605e47ff578e1daa4bec29989bbe99943abb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-93-B-144448.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 93-B/76
+
+de 29 de Janeiro
+
+Incluída que foi, para a eleição da Assembleia Constituinte, no âmbito da Lei Eleitoral propriamente dita - o [Decreto-Lei n.º 621-C/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/621-c-1974-309936), de 15 de Novembro -, a matéria respeitante à Comissão Nacional das Eleições surge agora, com algumas adaptações e pequenas inovações, em diploma separado, por imperativos de celeridade e operacionalidade, tendo em conta a realização muito próxima da actualização do recenseamento eleitoral.
+
+Efectivamente, tendo sido consagrado ex novo na lei a intervenção da Comissão Nacional das Eleições no processo de recenseamento, a razão de ser do aparecimento deste diploma está à vista.
+
+As alterações ora introduzidas, aliadas ao alargamento do período de tempo do seu funcionamento, apontam para o futuro desejável da Comissão Nacional das Eleições dentro do sistema legislativo eleitoral português que seria o da sua transformação em autêntico tribunal eleitoral.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### ARTIGO 1.º
+
+(Comissão Nacional das Eleições)
+
+Até cinco dias antes da data da abertura das operações de actualização do recenseamento eleitoral o Governo nomeará, por decreto, a Comissão Nacional das Eleições, que exercerá a sua competência relativamente a todos os actos de recenseamento e eleitorais que venham a realizar-se.
+
+###### ARTIGO 2.º
+
+(Composição e designação dos membros)
+
+1. A Comissão Nacional das Eleições será composta por:
+
+a) Um juiz conselheiro do Supremo Tribunal de Justiça, que será o presidente;
+
+b) Três representantes das forças armadas;
+
+c) Um representante de cada um dos seguintes Ministérios: Administração Interna, Cooperação, Negócios Estrangeiros e Comunicação Social;
+
+d) Cinco técnicos de reconhecida idoneidade profissional e moral.
+
+2. Os membros da Comissão indicados nas alíneas a), c) e d) são da livre escolha do Governo; os indicados na alínea b) são designados pelo Conselho da Revolução.
+
+###### ARTIGO 3.º
+
+(Duração)
+
+A Comissão Nacional das Eleições tomará posse perante o Primeiro-Ministro imediatamente após a publicação do decreto de nomeação e ficará dissolvida trinta dias antes da data da abertura das operações do recenseamento eleitoral do ano em que se realizem novas eleições para a Assembleia Legislativa.
+
+###### ARTIGO 4.º
+
+(Competência)
+
+Compete à Comissão Nacional das Eleições:
+
+a) Promover o esclarecimento objectivo dos cidadãos, através dos meios de comunicação social, acerca dos actos eleitorais;
+
+b) Assegurar e fiscalizar, por meios informais e expeditos, a igualdade de tratamento dos cidadãos em todos os actos de recenseamento eleitoral, bem como a liberdade e igualdade de funcionamento das comissões de recenseamento, tendo em vista a seriedade de todas as operações;
+
+c) Registar as coligações e frentes de partidos para fins eleitorais;
+
+d) Assegurar a igualdade efectiva de oportunidades de acção e propaganda das candidaturas durante as campanhas eleitorais;
+
+e) Registar a declaração de cada órgão de imprensa relativamente à posição que assume perante as campanhas eleitorais;
+
+f) Designar delegados em qualquer ponto do território eleitoral onde o julgue necessário;
+
+g) Propor ao Governo a distribuição dos tempos de emissão na rádio e televisão entre os diferentes partidos;
+
+h) Decidir os recursos que os mandatários das listas e os partidos interpuserem das decisões do governador civil, relativas à utilização das salas de espectáculos e recintos públicos;
+
+i) Apreciar a regularidade das receitas e despesas eleitorais;
+
+j) Elaborar os mapas dos resultados nacionais das eleições.
+
+###### ARTIGO 5.º
+
+(Ligação com a Administração)
+
+No exercício da competência que lhe é conferida pelo artigo anterior, a Comissão Nacional das Eleições terá sobre os órgãos e agentes da Administração os poderes necessários ao cumprimento das suas funções.
+
+###### ARTIGO 6.º
+
+(Funcionamento)
+
+1. A Comissão Nacional das Eleições funcionará em plenário e as suas deliberações serão tomadas pela maioria dos membros presentes, sendo exigível um quórum mínimo de 50%, tendo o presidente voto de qualidade.
+
+2. A Comissão Nacional das Eleições poderá elaborar o seu próprio regimento, bem como propor ao Governo a legislação adequada ao desempenho das suas funções.
+
+3. A Comissão Nacional das Eleições disporá de verba própria, atribuída dentro do orçamento do Ministério da Administração Interna, que lhe facultará os meios necessários para o seu funcionamento.
+
+###### ARTIGO 7.º
+
+(Estatuto dos membros da Comissão)
+
+1. Os membros da Comissão Nacional das Eleições serão inamovíveis e independentes do Governo no exercício das suas funções.
+
+2. Os membros da Comissão não poderão ser candidatos a Deputados à Assembleia Legislativa.
+
+3. As vagas que ocorrerem na Comissão, por morte ou outra impossibilidade permanente, serão preenchidas de acordo com os critérios de designação definidos no artigo 2.º
+
+###### ARTIGO 8.º
+
+(Entrada em vigor)
+
+Este diploma entra em vigor na data da publicação.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Vítor Manuel Trigueiros Crespo - Manuel Ferreira de Lima - João de Deus Pinheiro Farinha - Ernesto Augusto de Melo Antunes - António de Almeida Santos.
+
+**Promulgado em 29 de Janeiro de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES**

@@ -1,0 +1,220 @@
+---
+schema_version: '1.0'
+id: pt:dre:227586:por
+title: Portaria n.º 206/86
+short_title: null
+summary: Estabelece as tolerâncias admissíveis no peso líquido dos alimentos compostos para animais e o respectivo método
+  de verificação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 206/86
+official_date: null
+publication_date: '1986-05-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/1986, Série I de 1986-05-12
+  number: '108'
+  series: I
+  supplement: null
+  pages: 1106 - 1107
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '227586'
+  dre_path: /dr/detalhe/portaria/206-1986-227586
+  internal: pt:dre:227586:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/206-1986-227586
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/206-1986-227586
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-05-12T00:00:00Z'
+integrity:
+  source_sha256: c1a3efb2dbe850d91ae438d69b9d850ef1aeaaae6f96185f680b55a3e5ab7d71
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-206-227586.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 206/86
+
+de 12 de Maio
+
+O n.º 1 do artigo 5.º do [Decreto-Lei n.º 221/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1983-451821), de 26 de Maio, determina que nas embalagens ou nos rótulos, dísticos, etiquetas ou guias de remessa que acompanhem os alimentos compostos para animais deva constar, obrigatoriamente, a indicação do peso líquido.
+
+Estabelecida esta condição, torna-se necessário fixar o erro máximo tolerado sobre o produto contido nas embalagens, bem como definir um método apropriado para verificação do peso líquido declarado.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e Alimentação, sob proposta da Comissão de Alimentação Animal, ao abrigo do disposto no artigo 10.º do [Decreto-Lei n.º 221/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/221-1983-451821), de 26 de Maio, aprovar o seguinte:
+
+1.º A presente portaria destina-se a estabelecer as tolerâncias admissíveis no peso líquido dos alimentos compostos para animais e o respectivo método de verificação.
+
+2.º Para efeitos do disposto nesta portaria entende-se por:
+
+a) Lote - quantidade definida de alimento composto para animais, acondicionado de igual forma, todo do mesmo fabrico, obtido em condições uniformes ou supostas uniformes, designadamente quanto ao tipo, presente à inspecção de uma só vez e em iguais condições de situação e ambiente;
+
+b) Efectivo do lote - número de unidades (emlagens) que constitui o lote;
+
+c) Amostra - conjunto de unidades representativo do lote;
+
+d) Efectivo da amostra - número de unidades da amostra;
+
+e) Peso líquido nominal - peso líquido indicado no rótulo da embalagem;
+
+f) Conteúdo efectivo - quantidade de alimento composto para animais efectivamente existente na embalagem;
+
+g) Erro máximo tolerado - maior diferença admissível entre o peso líquido nominal e o conteúdo efectivo;
+
+h) Conteúdo mínimo tolerado - conteúdo efectivo abaixo do qual a unidade é defeituosa;
+
+i) Unidades defeituosas - unidades da amostra com conteúdo efectivo inferior ao conteúdo mínimo tolerado;
+
+j) Limite de aceitação - número máximo de unidades defeituosas existentes no efectivo da amostra que não implicam a rejeição do respectivo lote;
+
+l) Limite de rejeição - número mínimo de unidades defeituosas no efectivo da amostra que implicam a rejeição do respectivo lote;
+
+m) Ensaio não destrutivo - verificação do conteúdo efectivo nas embalagens intactas;
+
+n) Ensaio destrutivo - verificação do conteúdo efectivo retirado das embalagens.
+
+3.º O erro máximo tolerado é de 1,5%.
+
+4.º A normalidade de um lote quanto ao peso líquido será apreciada através da verificação do conteúdo efectivo das unidades do lote e da verificação da média dos conteúdos efectivos, sendo considerado normal quando satisfaça simultaneamente as duas verificações.
+
+Verificação do conteúdo efectivo
+
+5.º:
+
+a) Para verificação do conteúdo efectivo das unidades de um lote constituem-se as amostras a seguir indicadas em função do efectivo do lote e colhidas ao acaso:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf)
+
+b) A verificação do conteúdo efectivo de um lote com efectivo inferior a 100 unidades será feita em todas as unidades que constituem esse lote.
+
+c) Quando a verificação do conteúdo efectivo de um lote for efectuada no fim de uma linha de empacotamento, considera-se o efectivo do lote igual ao valor da produção horária máxima de empacotamento dessa linha, não sendo neste caso aplicável o efectivo máximo referido na alínea c) do quadro anterior.
+
+6.º As unidades que constituem o efectivo da amostra serão pesadas individualmente e intactas, ou seja, conjuntamente a embalagem e o conteúdo.
+
+7.º Procede-se à pesagem de um número de embalagens vazias idêntico ao efectivo da amostra para determinação do valor médio da tara que, descontado aos valores obtidos nas pesagens individuais, permite calcular o conteúdo líquido de cada unidade da amostra.
+
+8.º:
+
+a) Em função do efectivo do lote, serão utilizados os seguintes limites de aceitação e rejeição:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf))](https://files.diariodarepublica.pt/1s/1986/05/10800/11061107.pdf)
+
+b) Para efectivos do lote inferiores a 100, o limite de aceitação será 1 e o de rejeição 2.
+
+9.º Procede-se à pesagem das unidades que constituem a primeira amostra:
+
+a) Se o número de unidades defeituosas for igual ou inferior ao limite de aceitação respectivo, o lote será considerado normal quanto à verificação do conteúdo efectivo;
+
+b) Se o número de unidades defeituosas for igual ou superior ao limite de rejeição, o lote será considerado anormal;
+
+c) Se o número de unidades defeituosas estiver compreendido entre o limite de aceitação e o limite de rejeição, procede-se à pesagem das unidades da segunda amostra.
+
+10.º Quando se verifique a situação prevista na alínea c) do número anterior, procede-se à pesagem das unidades que constituem a segunda amostra, sendo os respectivos resultados acumulados com os da primeira amostra:
+
+a) Se o número acumulado de unidades defeituosas for igual ou inferior ao limite de aceitação respectivo, o lote será considerado normal quanto à verificação do conteúdo efectivo;
+
+b) Se o número acumulado de unidades defeituosas for igual ou superior ao limite de rejeição respectivo, o lote será considerado anormal.
+
+11.º:
+
+a) Sempre que as condições de verificação do conteúdo efectivo o justifiquem, nomeadamente quando não seja possível determinar o peso da tara, de acordo com o disposto no n.º 7.º, será feito um ensaio destrutivo, ou seja, os conteúdos serão pesados sem as respectivas embalagens.
+
+b) Independentemente do efectivo do lote, será constituída uma amostra de vinte unidades, sendo o limite de aceitação igual a 1 e o limite de rejeição igual a 2.
+
+Verificação da média dos conteúdos efectivos
+
+12.º A verificação da média dos conteúdos efectivos será feita através do cálculo do desvio padrão (s), utilizando para o efeito os resultados das pesagens obtidos na verificação anterior.
+
+13.º O lote será considerado normal quanto à média dos conteúdos efectivos quando o peso médio das unidades que constituem a amostra for superior ou igual a:
+
+Peso líquido nominal - 0,503 x s
+
+para efectivos do lote compreendidos entre 100 e 500, ou superior ou igual a:
+
+Peso líquido nominal - 0,379 x s
+
+para efectivos de lote superiores a 500.
+
+14.º Em anexo à presente portaria é descrito o processo de cálculo do desvio padrão (s).
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+**Assinada em 16 de Abril de 1986.**
+
+**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+
+## Anexo à Portaria n.º 206/86
+
+Cálculo do desvio padrão
+
+a) Registo das pesagens individuais do efectivo da amostra.
+
+b) Registo do número de pesagens efectuado.
+
+c) Soma das pesagens.
+
+d) Cálculo do peso médio, dividindo c) por b).
+
+e) Cálculo do quadrado da soma das pesagens, multiplicando c) por c).
+
+f) Cálculo do quadrado das pesagens individuais, multiplicando cada valor obtido em a) por si próprio.
+
+g) Soma dos quadrados das pesagens individuais.
+
+h) Cálculo do factor de correcção, dividindo e) por b).
+
+i) Cálculo da soma corrigida, subtraindo a g) h).
+
+j) Cálculo da variância, dividindo i) por b) subtraído de l).
+
+l) Cálculo do desvio padrão, calculando a raiz quadrada de j).

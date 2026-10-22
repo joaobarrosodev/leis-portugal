@@ -1,0 +1,473 @@
+---
+schema_version: '1.0'
+id: pt:dre:533661:por
+title: Portaria n.º 264/2004
+short_title: null
+summary: Cria na Escola Náutica Infante D. Henrique o curso bietápico de licenciatura em Gestão de Transportes, Intermodalidade
+  e Logística
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Ciência e do Ensino Superior e das Obras Públicas, Transportes e Habitação
+proposing_entity: null
+official_number: 264/2004
+official_date: null
+publication_date: '2004-03-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/2004, Série I-B de 2004-03-12
+  number: '61'
+  series: I
+  supplement: null
+  pages: 1336 - 1342
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/264/2004/03/12/p/dre/pt/html
+  oj: null
+  dre: '533661'
+  dre_path: /dr/detalhe/portaria/264-2004-533661
+  internal: pt:dre:533661:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-2004-533661
+  metadata_url: https://data.dre.pt/eli/port/264/2004/03/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/264-2004-533661
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-03-12T00:00:00Z'
+integrity:
+  source_sha256: 5e2a63fb35beadc3fb36cbe443d8f10db71f2169c71ab0739bacc30f54bf093e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-264-533661.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bacharelato
+- Plano de Estudos
+- Escola Náutica Infante Dom Henrique
+- Licenciatura
+- Ensino Superior
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/2002/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/2002/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/453/1999/06/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/453/1999/06/22/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 264/2004
+
+de 12 de Março
+
+Sob proposta da Escola Náutica Infante D. Henrique;
+
+Ao abrigo do disposto na alínea b) do n.º 3 do artigo 5.º do [Decreto-Lei n.º 16/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2002-276032), de 29 de Janeiro, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+
+Manda o Governo, pelos Ministros da Ciência e do Ensino Superior e das Obras Públicas, Transportes e Habitação, o seguinte:
+
+1.º
+
+Criação
+
+A Escola Náutica Infante D. Henrique é autorizada a conferir os graus de bacharel e de licenciado em Gestão de Transportes, Intermodalidade e Logística, ministrando, em consequência, o respectivo curso bietápico.
+
+2.º
+
+Estrutura e duração do curso
+
+O curso organiza-se em dois ciclos, conduzindo o primeiro ao grau de bacharel e o segundo ao grau de licenciado, com a seguinte duração:
+
+a) 1.º ciclo - seis semestres lectivos;
+
+b) 2.º ciclo - dois semestres lectivos.
+
+3.º
+
+Opções
+
+O 1.º ciclo do curso desdobra-se nas opções:
+
+a) Marítima e Portuária;
+
+b) Rodoviária de Mercadorias.
+
+4.º
+
+Ramos
+
+O 2.º ciclo do curso desdobra-se nos ramos:
+
+a) Marítimo e Portuário;
+
+b) Rodoviário de Mercadorias.
+
+5.º
+
+Plano de estudos
+
+O plano de estudos do curso é o fixado nos termos dos anexos a esta portaria.
+
+6.º
+
+Semestre lectivo
+
+O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.
+
+7.º
+
+Regimes escolares
+
+Os regimes de frequência, avaliação de conhecimentos, transição de ano, precedência e prescrição do direito à inscrição são fixados pelo director da Escola, sob proposta do conselho científico.
+
+8.º
+
+Grau de bacharel
+
+Aos alunos que obtenham aprovação na totalidade das unidades curriculares que integram o plano de estudos do 1.º ciclo do curso é conferido, conforme os casos, o grau de bacharel em:
+
+a) Gestão de Transportes, Intermodalidade e Logística, opção Marítima e Portuária;
+
+b) Gestão de Transportes, Intermodalidade e Logística, opção Rodoviária de Mercadorias.
+
+9.º
+
+Grau de licenciado
+
+Aos alunos que obtenham aprovação na totalidade das unidades curriculares que integram o plano de estudos do 2.º ciclo do curso é conferido, conforme os casos, o grau de licenciado em:
+
+a) Gestão de Transportes, Intermodalidade e Logística, ramo Marítimo e Portuário;
+
+b) Gestão de Transportes, Intermodalidade e Logística, ramo Rodoviário de Mercadorias.
+
+10.º
+
+Classificação final
+
+1 - A classificação final do grau de bacharel é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram o plano de estudos do 1.º ciclo do curso.
+
+2 - A classificação final do grau de licenciado é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das unidades curriculares que integram os planos de estudos dos 1.º e 2.º ciclos do curso.
+
+3 - Os coeficientes de ponderação são os constantes do anexo à presente portaria.
+
+11.º
+
+Inscrição no 2.º ciclo
+
+1 - A inscrição no 2.º ciclo do curso de Gestão de Transportes, Intermodalidade e Logística é:
+
+a) Sem limitações quantitativas, para os estudantes que tenham concluído o 1.º ciclo do curso de Gestão de Transportes, Intermodalidade e Logística na Escola Náutica Infante D. Henrique no ano lectivo imediatamente anterior;
+
+b) Sujeita a limitações quantitativas:
+
+b.1) Para os estudantes que tenham concluído o 1.º ciclo do curso de Gestão de Transportes, Intermodalidade e Logística na Escola noutros anos lectivos;
+
+b.2) Para os estudantes que tenham obtido um grau de bacharel na área do curso cujo plano de estudos garanta, globalmente, uma formação correspondente à do 1.º ciclo do curso de Gestão de Transportes, Intermodalidade e Logística.
+
+2 - Compete ao júri a que se refere o n.º 15.º verificar se os cursos a que se refere a subalínea b.2) do n.º 1 satisfazem a condição nela expressa.
+
+12.º
+
+Limitações quantitativas
+
+1 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se refere a subalínea b.1) do n.º 11.º são fixadas pelo director da Escola, sob proposta do conselho científico, e comunicadas à Direcção-Geral do Ensino Superior, através do Ministério das Obras Públicas, Transportes e Habitação, até 15 de Março de cada ano.
+
+2 - As vagas para a candidatura à matrícula e inscrição dos estudantes a que se refere a subalínea b.2) do n.º 11.º são fixadas, até 15 de Junho de cada ano, por portaria conjunta dos Ministros da Ciência e do Ensino Superior e das Obras Públicas, Transportes e Habitação, sob proposta da Escola, remetida à Direcção-Geral do Ensino Superior, através do Ministério das Obras Públicas, Transportes e Habitação, até 15 de Março de cada ano.
+
+13.º
+
+Concurso
+
+1 - O preenchimento das vagas a que se refere o número anterior é feito através de um concurso de acesso.
+
+2 - O concurso é válido apenas para a matrícula e inscrição no ano lectivo a que diz respeito.
+
+3 - As vagas sobrantes do concurso não são utilizáveis de qualquer outra forma ou para qualquer outro fim.
+
+14.º
+
+Regras e critérios de selecção e seriação
+
+1 - As regras e os critérios de selecção e seriação dos candidatos são fixados pelo director da Escola, sob proposta do conselho científico.
+
+2 - A selecção e seriação dos candidatos pode incluir a realização de provas de avaliação em domínios considerados necessários ao ingresso no curso, bem como a realização de entrevistas.
+
+15.º
+
+Júri
+
+1 - A aplicação das regras de selecção e seriação é da competência de um júri constituído por professores da Escola e nomeado pelo director da mesma, sob proposta do conselho científico.
+
+2 - A deliberação final do júri está sujeita a homologação do director da Escola.
+
+16.º
+
+Candidatura
+
+1 - A candidatura à matrícula e inscrição é formulada em requerimento dirigido ao director da Escola.
+
+2 - Os elementos a mencionar obrigatoriamente no requerimento, bem como as vagas a que se refere o n.º 1 do n.º 12.º, e os critérios de selecção e seriação a que se refere o n.º 14.º são divulgados através de edital subscrito pelo director da Escola e afixado nas instalações da mesma.
+
+3 - O requerimento pode ser substituído por impresso de modelo a fixar pelo director da Escola.
+
+17.º
+
+Documentos
+
+1 - O requerimento de candidatura deve ser obrigatoriamente acompanhado dos seguintes documentos:
+
+a) Certidão comprovativa da titularidade do curso com que o requerente se candidata, indicando a respectiva classificação final;
+
+b) Currículo profissional e académico do requerente.
+
+2 - O edital a que se refere o n.º 2 do n.º 16.º pode ainda estabelecer a obrigatoriedade de entrega de outros documentos.
+
+3 - Os candidatos juntam ao currículo os documentos que entendam relevantes para apreciação do mesmo.
+
+4 - O júri a que se refere o n.º 15.º pode solicitar a comprovação documental das declarações constantes do currículo dos candidatos.
+
+5 - Os candidatos a que se refere a subalínea b.1) do n.º 11.º estão dispensados de apresentar a certidão referida na alínea a) do n.º 1.
+
+18.º
+
+Rejeição liminar
+
+1 - As candidaturas que não satisfaçam o disposto na presente portaria são rejeitadas liminarmente.
+
+2 - A rejeição liminar é da competência do director da Escola.
+
+3 - Dos candidatos rejeitados liminarmente é organizada uma lista, tornada pública através de edital a afixar na Escola, donde constem os fundamentos da rejeição.
+
+19.º
+
+Resultado da selecção e seriação
+
+Os resultados do processo de selecção e seriação são tornados públicos através de edital, donde conste:
+
+a) A lista dos candidatos não seleccionados;
+
+b) A lista ordenada dos candidatos seleccionados, indicando:
+
+b.1) Os candidatos admitidos à matricula e inscrição;
+
+b.2) Os candidatos não admitidos à matrícula e inscrição.
+
+20.º
+
+Reclamações
+
+1 - Do resultado final da candidatura, divulgado nos termos do n.º 19.º, podem os candidatos apresentar reclamação, devidamente fundamentada, dirigida ao director da Escola, no prazo fixado nos termos do n.º 22.º
+
+2 - São liminarmente indeferidas as reclamações não fundamentadas, bem como as entregues fora do prazo.
+
+3 - Quando, na sequência do provimento de uma reclamação, um candidato não colocado venha a ficar situado na lista ordenada em posição de colocado, tem direito à colocação, mesmo que para tal seja necessário criar vaga adicional.
+
+4 - A rectificação da colocação abrange apenas o candidato cuja reclamação foi provida, não tendo qualquer efeito sobre os restantes candidatos, colocados ou não.
+
+21.º
+
+Matrícula e inscrição
+
+1 - Os candidatos admitidos devem proceder à matrícula e inscrição no prazo fixado nos termos do n.º 22.º
+
+2 - Caso algum candidato admitido desista expressamente da matrícula e inscrição, ou não compareça a realizar a mesma, o director da Escola, no dia imediato ao do fim do prazo da matrícula e inscrição, através de carta registada com aviso de recepção, convoca para a matrícula e inscrição o candidato seguinte na lista ordenada, até esgotar as vagas.
+
+3 - Os candidatos a que se refere a parte final do número anterior têm um prazo improrrogável de três dias úteis após a recepção da notificação para procederem à sua matrícula e inscrição.
+
+22.º
+
+Prazos
+
+1 - Os prazos para a candidatura, selecção, seriação, matrícula, inscrição e reclamação são fixados anualmente por despacho do director da Escola, sob proposta do conselho científico.
+
+2 - O despacho a que se refere o número anterior só pode ser proferido após a publicação da portaria a que se refere o n.º 2 do n.º 12.º
+
+3 - O despacho a que se refere o n.º 1 é objecto de afixação pública nas instalações da Escola, bem como de publicação na 2.ª série do Diário da República, antes do início dos prazos a que o mesmo se refere.
+
+23.º
+
+Entrada em funcionamento
+
+O curso pode entrar em funcionamento a partir do ano lectivo de 2004-2005, inclusive.
+
+24.º
+
+Transição
+
+Os alunos do curso bietápico de Gestão de Transportes Marítimos, Portos e Logística, criado pela [Portaria n.º 453/99](https://diariodarepublica.pt/dr/detalhe/portaria/453-1999-391602), de 22 de Junho, transitam para o curso de Gestão de Transportes, Intermodalidade e Logística, criado pela presente portaria, de acordo com as regras a aprovar pelo director da Escola, sob proposta do conselho científico.
+
+25.º
+
+Revogação
+
+Concluído o processo a que se refere o n.º 24.º, é revogada a [Portaria n.º 453/99](https://diariodarepublica.pt/dr/detalhe/portaria/453-1999-391602), de 22 de Junho, que criou o curso de Gestão de Transportes Marítimos, Portos e Logística.
+
+Em 6 de Fevereiro de 2004.
+
+**A Ministra da Ciência e do Ensino Superior, Maria da Graça Martins da Silva Carvalho. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.**
+
+## ANEXO I — Escola Náutica Infante D. Henrique
+
+Curso de Gestão de Transportes, Intermodalidade e Logística
+
+1.º ciclo
+
+Grau de bacharel
+
+Opção: Marítima e Portuária
+
+QUADRO N.º 1
+
+1.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 2
+
+2.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 3
+
+3.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 4
+
+4.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 5
+
+5.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 6
+
+6.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+2.º ciclo
+
+Grau de licenciado
+
+Ramo: Marítimo e Portuário
+
+QUADRO N.º 7
+
+1.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 8
+
+2.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+## ANEXO II — Escola Náutica Infante D. Henrique
+
+Curso de Gestão de Transportes, Intermodalidade e Logística
+
+1.º ciclo
+
+Grau de bacharel
+
+Opção: Rodoviária de Mercadorias
+
+QUADRO N.º 1
+
+1.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 2
+
+2.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 3
+
+3.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 4
+
+4.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 5
+
+5.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 6
+
+6.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+2.º ciclo
+
+Grau de licenciado
+
+Ramo: Rodoviário de Mercadorias
+
+QUADRO N.º 7
+
+1.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)
+
+QUADRO N.º 8
+
+2.º semestre
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2004/03/061b00/13361342.pdf)

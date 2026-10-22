@@ -1,0 +1,95 @@
+---
+schema_version: '1.0'
+id: pt:dre:886310432:por
+title: Declaração de Retificação n.º 705/2024/2
+short_title: null
+summary: Retifica o Aviso n.º 14523/2024/2, publicado no Diário da República, 2.ª série, n.º 136, de 16 de julho de 2024.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Montemor-o-Novo
+proposing_entity: null
+official_number: 705/2024/2
+official_date: null
+publication_date: '2024-08-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 168/2024, Série II de 2024-08-30
+  number: '168'
+  series: II
+  supplement: null
+  pages: 862 - 862
+  pdf_url: https://files.diariodarepublica.pt/2s/2024/08/168000000/0086200862.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '886310432'
+  dre_path: /dr/detalhe/declaracao-retificacao/705-2024-886310432
+  internal: pt:dre:886310432:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/705-2024-886310432
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/705-2024-886310432
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-08-30T00:00:00Z'
+integrity:
+  source_sha256: f4731795033e7a0cb9faa488dcff637d5105cc28e546b54e83970a7ff65b2af5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-705-886310432.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 705/2024/2
+
+Pelo presente se procede à retificação do [Aviso n.º 14523/2024/2](https://diariodarepublica.pt/dr/detalhe/aviso/14523-2024-872108150), publicado no Diário da República, 2.ª série, n.º 136, de 16 de julho, relativo à consolidação definitiva de mobilidade intercarreiras do trabalhador Rui Duarte Risso Pereira.
+
+Onde se lê
+
+"[...] foi autorizada a consolidação da mobilidade intercarreiras, por meu despacho de 07 de junho de 2024, do/a trabalhador/a Rui Duarte Risso Pereira na carreira e categoria de Fiscal, na 2.ª posição remuneratória e nível remuneratório 8 da assistente técnico, a partir de 01 de julho de 2024."
+
+deve ler-se:
+
+"[...] foi autorizada a consolidação da mobilidade intercarreiras, por meu despacho de 07 de junho de 2024, do/a trabalhador/a Rui Duarte Risso Pereira na carreira e categoria de Fiscal, na 2.ª posição remuneratória e nível remuneratório 8 da carreira de fiscal, a partir de 01 de julho de 2024."
+
+7 de agosto de 2024. - O Presidente da Câmara, Olímpio Manuel Vidigal Galvão.

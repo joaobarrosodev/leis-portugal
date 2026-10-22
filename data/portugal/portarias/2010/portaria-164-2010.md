@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:611935:por
+title: Portaria n.º 164/2010
+short_title: null
+summary: Aprova a lista das zonas vulneráveis e as cartas das zonas vulneráveis do continente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 164/2010
+official_date: null
+publication_date: '2010-03-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 52/2010, Série I de 2010-03-16
+  number: '52'
+  series: I
+  supplement: null
+  pages: 817 - 820
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/164/2010/03/16/p/dre/pt/html
+  oj: null
+  dre: '611935'
+  dre_path: /dr/detalhe/portaria/164-2010-611935
+  internal: pt:dre:611935:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/164-2010-611935
+  metadata_url: https://data.dre.pt/eli/port/164/2010/03/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/164-2010-611935
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-03-16T00:00:00Z'
+integrity:
+  source_sha256: f1a983baf71a7ef15a66e90c3760080121c18772f363b1d2868cd5aaf8b66ba1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-164-611935.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Agrícola
+- Instituto da ÁGUA
+- Aveiro
+- Ordenamento do Território
+- Direção Geral da Agricultura e Desenvolvimento Rural
+- Elvas
+- Lista
+- MIRA
+- Política de Solos
+- Poluição da água
+- Pesticida
+relationships:
+- type: cites
+  target: celex:31991L0676
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/676/oj
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 164/2010
+
+de 16 de Março
+
+O Decreto-Lei n.º 235/97, de 3 de Setembro, alterado pelo Decreto-Lei n.º 68/99, de 11 de Março, estabelece o regime legal destinado a proteger as águas contra a poluição causada por nitratos de origem agrícola, transpondo para o direito interno a Directiva n.º [91/676/CEE](https://data.europa.eu/eli/dir/1991/676/oj?locale=pt), do Conselho, de 12 de Dezembro.
+
+Dispõe o n.º 1 do artigo 4.º do mencionado decreto-lei que a identificação, por lista, das águas poluídas por nitratos de origem agrícola e das águas susceptíveis de o virem a ser, bem como das áreas que drenam para aquelas águas, designadas por «zonas vulneráveis», é realizada por portaria dos Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, sob proposta do Instituto da Água, I. P. Em cumprimento dessa mesma disposição foram aprovadas as Portarias n.os 1100/2004, de 3 de Setembro, 833/2005, de 16 de Setembro, 1433/2006, de 27 de Dezembro, e 1366/2007, de 18 de Outubro.
+
+O n.º 2 do artigo 4.º do citado diploma legal estabelece, ainda, que a referida lista de zonas vulneráveis deverá ser analisada e, se necessário, revista ou aumentada em tempo oportuno de modo a ter em conta alterações e factores imprevistos por ocasião da primeira designação.
+
+Ora, as circunstâncias vieram demonstrar que importa realizar uma rectificação dos limites das zonas vulneráveis n.os 2 e 4, Aveiro e Mira respectivamente, alargando-as e unindo-as, bem como alargar os limites da zona vulnerável n.º 7, Elvas-Vila Boim integrando o sistema aquífero Elvas-Campo Maior.
+
+Paralelamente, importa proceder à definição e delimitação de duas novas zonas vulneráveis, que são aditadas à lista existente, a saber, Estarreja-Murtosa e Estremoz-Cano.
+
+Por outro lado, em resultado da união, por rectificação dos seus limites, das zonas vulneráveis n.os 2 (Aveiro) e 4 (Mira), com reflexos na identificação numérica do conjunto das zonas definidas, considera-se oportuno suprimir a identificação por numeração das zonas vulneráveis existentes, passando as mesmas a ser designadas apenas pela respectiva denominação.
+
+Assim:
+
+Considerando o disposto nos n.os 1 e 2 do artigo 4.º do Decreto-Lei n.º 235/97, de 3 de Setembro, na redacção conferida pelo Decreto-Lei n.º 68/99, de 11 de Março:
+
+Manda o Governo, pelos Ministros da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território, o seguinte:
+
+###### Artigo 1.º
+
+São aprovadas a lista das zonas vulneráveis e as cartas das zonas vulneráveis do continente constantes, respectivamente, dos anexos i e ii à presente portaria, da qual fazem parte integrante.
+
+###### Artigo 2.º
+
+Os originais das cartas contendo a delimitação das áreas territoriais a que alude o artigo anterior estão depositados no Instituto da Água, I. P., e na Direcção-Geral da Agricultura e Desenvolvimento Rural.
+
+###### Artigo 3.º
+
+Os limites das zonas vulneráveis Aveiro e Mira, definidos pela Portaria n.º 1100/2004, de 3 de Setembro, e, em resultado da sua união, doravante designada como zona vulnerável Litoral Centro, e os limites da zona vulnerável Elvas-Vila Boim, definidos pela Portaria n.º 833/2005, de 16 de Setembro, doravante designada como zona vulnerável Elvas, passam a ser os constantes do anexo i à presente portaria.
+
+Em 8 de Março de 2010.
+
+**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, António Manuel Soares Serrano. - A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro.**
+
+## ANEXO I — Zonas vulneráveis
+
+Continente
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf))](https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf)
+
+## ANEXO II — Zonas vulneráveis - Cartas
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf))](https://files.diariodarepublica.pt/1s/2010/03/05200/0081700820.pdf)

@@ -1,0 +1,226 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:544174:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-889686336",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/8-2012-544174",
+ "source_lastmod": "2024-10-02",
+ "versions": [
+  {
+   "date": "2012-01-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889761276",
+    "889761277",
+    "889761278",
+    "889761279",
+    "889761280",
+    "889761281",
+    "889761282",
+    "889761283",
+    "889761284",
+    "889761285",
+    "889761286",
+    "889761287",
+    "889761288",
+    "889761289",
+    "889761290",
+    "889761292"
+   ]
+  },
+  {
+   "date": "2013-03-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:259762:por",
+     "title": "Decreto Regulamentar n.º 1/2013",
+     "published": "2013-03-14",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/1-2013-259762"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "889761276",
+    "889761316",
+    "889761278",
+    "889761279",
+    "889761280",
+    "889761281",
+    "889761317",
+    "889761283",
+    "889761284",
+    "889761285",
+    "889761286",
+    "889761287",
+    "889761288",
+    "889761289",
+    "889761290",
+    "889761291",
+    "889761292"
+   ]
+  }
+ ],
+ "fragments": {
+  "889761276": {
+   "fragment_id": "889686337",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 8/2012\n\nde 19 de janeiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNo quadro da nova Lei Orgânica do Ministério dos Negócios Estrangeiros, aprovada pelo Decreto-Lei n.º 121/2011, de 29 de Dezembro, a Inspecção-Geral Diplomática e Consular tem por missão verificar o cumprimento das normas reguladoras do funcionamento dos serviços internos e dos serviços periféricos externos, bem como assegurar a acção disciplinar e a auditoria de gestão, diplomática e consular.\n\nApesar de, através da presente reestruturação orgânica, se aumentarem as atribuições da Inspecção, mantém-se o mesmo número de lugares de quadro, inclusive do quadro dirigente.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "889761277": {
+   "fragment_id": "889686338",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Inspecção-Geral Diplomática e Consular, abreviadamente designada por IGDC, é um serviço central da administração directa do Estado dotado de autonomia administrativa."
+  },
+  "889761278": {
+   "fragment_id": "889686339",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A IGDC tem por missão verificar o cumprimento das normas reguladoras do funcionamento dos serviços internos e dos serviços periféricos externos do Ministério dos Negócios Estrangeiros (MNE), bem como assegurar a acção disciplinar e a auditoria de gestão, diplomática e consular.\n\n2 - A IGDC prossegue as seguintes atribuições:\n\na) Apreciar a conformidade legal e regulamentar dos actos dos serviços e organismos do MNE ou sujeitos à tutela do respectivo ministro e avaliar o seu desempenho e gestão, através da realização de acções de inspecção e de auditoria;\n\nb) Proceder à avaliação de indícios de irregularidades e incumprimento de normas por parte dos serviços;\n\nc) Auditar os sistemas e procedimentos de controlo interno dos serviços;\n\nd) Avaliar a qualidade dos sistemas de informação de gestão, incluindo os indicadores de desempenho;\n\ne) Assegurar a realização de auditorias, inquéritos, sindicâncias, peritagens ou outras acções de carácter inspectivo, procedendo à avaliação de indícios de irregularidades, incumprimento de normas e deficiências no funcionamento dos serviços e organismos do MNE;\n\nf) Elaborar relatórios que resultem das acções previstas na alínea anterior e apresentar recomendações e propostas que contribuam para a melhoria do funcionamento dos serviços;\n\ng) Propor e instruir os processos disciplinares resultantes da actividade de inspecção e fiscalização, bem como os que lhe forem superiormente determinados;\n\nh) Garantir a avaliação e o controlo sobre os níveis de acção e desempenho de cada organismo, recomendando alterações e melhorias e acompanhando a sua introdução;\n\ni) Promover a divulgação das normas em vigor, propondo, designadamente, a realização de acções de comunicação e de formação adequadas."
+  },
+  "889761279": {
+   "fragment_id": "889686340",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nA IGDC é dirigida por um inspector-geral, cargo de direcção superior de 1.º grau."
+  },
+  "889761280": {
+   "fragment_id": "889686341",
+   "type": 11,
+   "heading": "Artigo 4.º — Inspector-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Inspector-geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao inspector-geral:\n\na) Assegurar o cumprimento das orientações e prioridades definidas pelo Ministro dos Negócios Estrangeiros;\n\nb) Dirigir, orientar, coordenar e fiscalizar a actividade da IGDC e emitir as directivas, ordens e instruções necessárias ao seu funcionamento;\n\nc) Elaborar os planos e relatórios de actividades da IGDC e submetê-los à aprovação do Ministro dos Negócios Estrangeiros;\n\nd) Promover a realização das acções inspectivas, de auditoria e de avaliação previstas no plano de actividades, bem como outras que lhe sejam cometidas;\n\ne) Ordenar averiguações e inquéritos previstos no plano de actividades, bem como conduzir outros procedimentos que sejam superiormente determinados;\n\nf) Instaurar ou propor a instauração de processos disciplinares e de inquérito;\n\ng) Nomear os instrutores dos processos disciplinares e de inquérito;\n\nh) Representar a IGDC nas organizações nacionais e internacionais, que integram serviços similares.\n\n2 - O inspector-geral é substituído, nas suas faltas e impedimentos, pelo chefe de equipa multidisciplinar que o mesmo designar."
+  },
+  "889761281": {
+   "fragment_id": "889686342",
+   "type": 11,
+   "heading": "Artigo 5.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tipo de organização interna\n\nA organização interna da IGDC obedece ao modelo de estrutura matricial."
+  },
+  "889761282": {
+   "fragment_id": "889686343",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime administrativo e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime administrativo e financeiro\n\n1 - O apoio em matéria administrativa e financeira da IGDC cabe ao Departamento Geral de Administração da Secretaria-Geral do MNE, a cujo director compete preparar e executar as decisões inerentes à autorização de despesas, sem prejuízo de a IGDC se encontrar sujeita às regras financeiras específicas dos serviços com autonomia administrativa.\n\n2 - A IGDC envia ao Departamento Geral de Administração da Secretaria-Geral do MNE toda a informação necessária ao exercício das competências que lhe são atribuídas."
+  },
+  "889761283": {
+   "fragment_id": "889686344",
+   "type": 11,
+   "heading": "Artigo 7.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Receitas\n\n1 - A IGDC dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A gestão das receitas da IGDC é assegurada pelo Departamento Geral de Administração da Secretaria-Geral do MNE."
+  },
+  "889761284": {
+   "fragment_id": "889686345",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas\n\n1 - Constituem despesas da IGDC as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n2 - As despesas da IGDC são centralizadas no Departamento Geral de Administração da Secretaria-Geral do MNE."
+  },
+  "889761285": {
+   "fragment_id": "889686346",
+   "type": 11,
+   "heading": "Artigo 9.º — Designação dos titulares dos cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Designação dos titulares dos cargos dirigentes\n\nNos termos do n.º 6 do artigo 20.º do Decreto-Lei n.º 121/2011, de 29 de Dezembro, pode ser designado, nos termos da lei geral, o cargo de direcção superior da IGDC."
+  },
+  "889761286": {
+   "fragment_id": "889686347",
+   "type": 11,
+   "heading": "Artigo 10.º — Afectação de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Afectação de pessoal\n\nA afectação à IGDC do pessoal do mapa do MNE é feita por despacho do secretário-geral do MNE, ouvido o inspector-geral."
+  },
+  "889761287": {
+   "fragment_id": "889686348",
+   "type": 11,
+   "heading": "Artigo 11.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Mapa de cargos de direcção\n\nO lugar de direcção superior de 1.º grau consta do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante."
+  },
+  "889761288": {
+   "fragment_id": "889686349",
+   "type": 11,
+   "heading": "Artigo 12.º — Estatuto remuneratório dos chefes de equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Estatuto remuneratório dos chefes de equipas multidisciplinares\n\nAos chefes das equipas multidisciplinares é atribuído, em função da natureza e complexidade das funções, um estatuto remuneratório equiparado a cargo de direcção intermédia de 1.º grau ou a cargo de direcção intermédia de 2.º grau, não podendo o estatuto equiparado a cargo de direcção intermédia de 1.º grau ser atribuído a mais de uma chefia de equipa."
+  },
+  "889761289": {
+   "fragment_id": "889686350",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar n.º 77/2007, de 30 de Junho."
+  },
+  "889761290": {
+   "fragment_id": "889686351",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "889761292": {
+   "fragment_id": "889686353",
+   "type": 14,
+   "heading": "Anexo — Mapa de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa de pessoal dirigente\n\n(a que se refere o artigo 11.º)\n\n(ver documento original)"
+  },
+  "889761316": {
+   "fragment_id": "889686338",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2013-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Inspeção-Geral Diplomática e Consular, abreviadamente designada por IGDC, é um serviço central da administração direta do Estado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+  },
+  "889761317": {
+   "fragment_id": "889686343",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime administrativo e financeiro",
+   "in_force_from": "2013-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+   ],
+   "markdown": "###### Artigo 6.º — Regime administrativo e financeiro\n\n1 - O apoio em matéria administrativa e financeira da IGDC cabe ao Departamento Geral de Administração da Secretaria-Geral do MNE, a cujo diretor compete a autorização e pagamento de despesas.\n\n2 - A IGDC envia ao Departamento Geral de Administração da Secretaria-Geral do MNE toda a informação necessária ao exercício das competências que lhe são atribuídas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 1/2013 - Diário da República n.º 52/2013, Série I de 2013-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-2013-259762), em vigor a partir de 2013-03-19"
+  },
+  "889761291": {
+   "fragment_id": "889686352",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo de Sacadura Cabral Portas.\n\nPromulgado em 10 de Janeiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 12 de Janeiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

@@ -1,0 +1,517 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:518043:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-125499836",
+ "dre_path": "/dr/detalhe/portaria/139-2007-518043",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-01-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "125277273",
+    "125277274",
+    "125505475",
+    "125505476",
+    "125505478",
+    "125505479",
+    "125505480",
+    "125505481",
+    "125505482",
+    "125505483",
+    "125505484",
+    "125505485",
+    "125505486",
+    "125505487",
+    "125505488",
+    "125505489",
+    "125505490",
+    "125505491",
+    "125505492",
+    "125505493",
+    "125505494",
+    "125505495",
+    "125505496",
+    "125505497",
+    "125505498",
+    "125505499",
+    "125505500",
+    "125505501",
+    "125505502",
+    "125505503",
+    "125505504",
+    "125505505",
+    "125505506",
+    "125505507",
+    "125505508",
+    "125505509",
+    "125505510",
+    "125505511",
+    "125505512",
+    "125505513",
+    "125505514",
+    "125505515",
+    "125505516",
+    "125505517"
+   ]
+  },
+  {
+   "date": "2019-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125468549:por",
+     "title": "Portaria n.º 380/2019",
+     "published": "2019-10-18",
+     "dre_path": "/dr/detalhe/portaria/380-2019-125468549"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "125277273",
+    "125277274",
+    "125505475",
+    "125505476",
+    "125505477",
+    "125505478",
+    "125505479",
+    "125505480",
+    "125505481",
+    "125505482",
+    "125505483",
+    "125505484",
+    "125505485",
+    "125505486",
+    "125505487",
+    "125505488",
+    "125505489",
+    "125505490",
+    "125505491",
+    "125505492",
+    "125505493",
+    "125505494",
+    "125505495",
+    "125505496",
+    "125505497",
+    "125505498",
+    "125505499",
+    "125505500",
+    "125505501",
+    "125505502",
+    "125505523",
+    "125505524",
+    "125505525",
+    "125505506",
+    "125505507",
+    "125505508",
+    "125505509",
+    "125505510",
+    "125505511",
+    "125505512",
+    "125505513",
+    "125505514",
+    "125505515",
+    "125505516",
+    "125505517"
+   ]
+  }
+ ],
+ "fragments": {
+  "125277273": {
+   "fragment_id": "125499837",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 139/2007\n\nde 29 de Janeiro\n\nO Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo Decreto-Lei n.º 119/83, de 25 de Fevereiro, com as alterações introduzidas pelos Decretos-Leis n.os 89/85, de 1 de Abril, 402/85, de 11 de Outubro, e 29/86, de 19 de Fevereiro, prevê, no artigo 7.º, a organização pelos ministérios da tutela de um registo das instituições do respectivo âmbito que será criado e regulamentado por portaria do respectivo ministro.\n\nAssim, foi organizado o registo das instituições particulares de solidariedade social do âmbito da segurança social, que presentemente obedece ao Regulamento aprovado pela Portaria n.º 778/83, de 23 de Julho. Este Regulamento encontra-se manifestamente desactualizado e a sua alteração tem estado dependente da alteração do citado Estatuto, cujos trabalhos preparatórios têm vindo a ser realizados.\n\nAtendendo a que a alteração daquele Estatuto é um projecto de maior complexidade, que carece ainda de ser articulado com outros projectos também em curso, como sejam os que respeitam à simplificação da constituição das associações em geral, considerou-se prioritária, ainda que como medida intercalar, a alteração do referido Regulamento. Visa-se, assim, permitir, no imediato, a modernização dos instrumentos de efectivação e publicitação dos actos de registo e a clarificação de procedimentos, conforme previsto no Programa de Simplificação Administrativa e Legislativa «Simplex».\n\nNo que respeita à clarificação de procedimentos delimitaram-se melhor os requisitos gerais dos actos de registo e os requisitos especiais da inscrição da constituição das instituições. Considerando que a inscrição confere às mesmas instituições o reconhecimento da utilidade pública e o acesso aos benefícios e apoios previstos na lei, houve que concretizar melhor os respectivos requisitos em função daqueles efeitos. A avaliação destes requisitos, sendo mais complexa, justifica também a fixação de prazos mais alargados do que os estabelecidos para os actos de registo em geral.\n\nA aprovação do novo Regulamento não prejudica, naturalmente, a sua posterior adaptação às alterações que vierem a ser introduzidas ao referido Estatuto, aproveitando-se então a oportunidade para desenvolver as medidas de modernização agora iniciadas, em função da avaliação da experiência da aplicação dos novos instrumentos previstos.\n\nAssim:\n\nManda o Governo, pelo Ministro do Trabalho e da Solidariedade Social, tendo em conta o disposto no n.º 2 do artigo 7.º do Decreto-Lei n.º 119/83, de 25 de Fevereiro, com a redacção dada pelo Decreto-Lei n.º 402/85, de 11 de Outubro:"
+  },
+  "125277274": {
+   "fragment_id": "125499838",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ aprovado o Regulamento de Registo das Instituições Particulares de Solidariedade Social do Âmbito da Acção Social do Sistema de Segurança Social, em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "125505475": {
+   "fragment_id": "125499839",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 778/83, de 23 de Julho."
+  },
+  "125505476": {
+   "fragment_id": "125499840",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor 30 dias após a sua publicação."
+  },
+  "125505478": {
+   "fragment_id": "125499842",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "125505479": {
+   "fragment_id": "125499843",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "125505480": {
+   "fragment_id": "125499844",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivos e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos e âmbito de aplicação\n\n1 - O presente Regulamento define as regras a que obedece o registo respeitante às instituições particulares de solidariedade social, abrangidas pelo respectivo Estatuto, aprovado pelo Decreto-Lei n.º 119/83, de 25 de Fevereiro, que prossigam, exclusiva ou principalmente, os seguintes objectivos do âmbito da acção social do sistema de segurança social:\n\na) Apoio a crianças e jovens;\n\nb) Apoio à família;\n\nc) Protecção aos grupos mais vulneráveis, nomeadamente pessoas com deficiência e idosos;\n\nd) Integração e promoção comunitária das pessoas e desenvolvimento das respectivas capacidades;\n\ne) Prevenção e reparação de situações de carência e desigualdade sócio-económica, de dependência, de disfunção, exclusão ou vulnerabilidade sociais.\n\n2 - As instituições particulares de solidariedade social são, no presente Regulamento, designadas abreviadamente por instituições."
+  },
+  "125505481": {
+   "fragment_id": "125499845",
+   "type": 11,
+   "heading": "Artigo 2.º — Finalidades do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Finalidades do registo\n\nO registo tem essencialmente por finalidades:\n\na) Comprovar a natureza e os fins das instituições;\n\nb) Comprovar os factos jurídicos especificados neste diploma;\n\nc) Reconhecer a utilidade pública das instituições;\n\nd) Facultar o acesso às formas de apoio e cooperação previstas na lei."
+  },
+  "125505482": {
+   "fragment_id": "125499846",
+   "type": 11,
+   "heading": "Artigo 3.º — Competência para o registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competência para o registo\n\nA realização dos actos de registo compete à Direcção-Geral da Segurança Social (DGSS)."
+  },
+  "125505483": {
+   "fragment_id": "125499847",
+   "type": 11,
+   "heading": "Artigo 4.º — Gratuitidade do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gratuitidade do registo\n\nOs actos de registo referidos neste diploma são gratuitos."
+  },
+  "125505484": {
+   "fragment_id": "125499848",
+   "type": 1,
+   "heading": "Capítulo II — Do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do registo"
+  },
+  "125505485": {
+   "fragment_id": "125499849",
+   "type": 11,
+   "heading": "Artigo 5.º — Actos sujeitos a registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actos sujeitos a registo\n\n1 - Estão sujeitos a registo os seguintes actos:\n\na) A constituição das instituições, os respectivos estatutos e suas alterações;\n\nb) A integração, a fusão e a cisão das instituições;\n\nc) A extinção das instituições e a atribuição dos respectivos bens;\n\nd) As acções de declaração de nulidade ou anulação dos actos de constituição ou de fundação das instituições;\n\ne) A eleição, designação e recondução dos membros dos corpos gerentes das instituições;\n\nf) As acções de declaração de nulidade ou anulação de deliberações sociais e de destituição dos membros dos corpos gerentes das instituições, bem como os procedimentos cautelares relativos às mesmas acções;\n\ng) As decisões finais, com trânsito em julgado, proferidas nas acções e procedimentos cautelares referidos nas alíneas d) e f).\n\n2 - Para efeitos de registo, é equiparada a acto de constituição ou de fundação a alteração dos estatutos de associações ou fundações que passem a reunir as condições estabelecidas no artigo 1.º"
+  },
+  "125505486": {
+   "fragment_id": "125499850",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos do registo\n\n1 - Só podem ser registados os actos constantes dos documentos que legalmente os comprovem.\n\n2 - O registo dos actos de constituição e dos estatutos das instituições depende de:\n\na) Regularidade do acto de constituição;\n\nb) Verificação dos requisitos respeitantes à qualificação e aos objectivos das instituições definidos no artigo 1.º;\n\nc) Conformidade dos estatutos com o regime jurídico do Estatuto das Instituições Particulares de Solidariedade Social;\n\nd) Viabilidade e interesse social dos fins estatutários.\n\n3 - A avaliação da viabilidade e interesse social dos fins estatutários terá em consideração:\n\na) A adequação das actividades projectadas à satisfação das necessidades das comunidades a que se dirigem e às condições legalmente estabelecidas para o seu exercício;\n\nb) A existência de meios humanos e materiais suficientes e adequados à realização dos fins estatutários ou a verificação de capacidade para os adquirir."
+  },
+  "125505487": {
+   "fragment_id": "125499851",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrições e averbamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inscrições e averbamentos\n\n1 - O registo compreende a inscrição e os averbamentos.\n\n2 - São registados por inscrição:\n\na) Os actos constitutivos das instituições;\n\nb) Os estatutos das antigas pessoas colectivas de utilidade pública administrativa, reformulados nos termos do n.º 2 do artigo 94.º do Estatuto das Instituições Particulares de Solidariedade Social.\n\n3 - São registados por averbamento à correspondente inscrição:\n\na) Os demais actos referidos no artigo 5.º;\n\nb) A conversão do registo provisório em definitivo;\n\nc) A caducidade e cancelamento do registo;\n\nd) A rectificação de registos inexactos ou indevidamente lavrados.\n\n4 - As alterações de estatutos cujo registo seja efectuado simultaneamente com o registo do acto de constituição são incluídas na respectiva inscrição."
+  },
+  "125505488": {
+   "fragment_id": "125499852",
+   "type": 11,
+   "heading": "Artigo 8.º — Termos em que são lavrados os registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Termos em que são lavrados os registos\n\n1 - O registo é lavrado, por extracto, em suporte informático, nos termos a definir por despacho do Ministro do Trabalho e da Solidariedade Social.\n\n2 - Das inscrições devem constar as seguintes rubricas:\n\na) Número de inscrição;\n\nb) Natureza do registo;\n\nc) Denominação da instituição;\n\nd) Sede;\n\ne) Âmbito de acção;\n\nf) Objectivos principais;\n\ng) Objectivos secundários;\n\nh) Data da recepção do requerimento de registo;\n\ni) Despacho que autoriza o registo;\n\nj) Documentos.\n\n3 - Dos averbamentos deve constar a natureza do registo e despacho que o autoriza, a indicação dos factos registados e a identificação dos documentos que serviram de base ao registo."
+  },
+  "125505489": {
+   "fragment_id": "125499853",
+   "type": 11,
+   "heading": "Artigo 9.º — Efectivação do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Efectivação do registo\n\n1 - O registo é efectuado mediante despacho do director-geral da Segurança Social que defira o requerimento de registo.\n\n2 - O registo do acto de constituição considera-se efectuado na data da recepção do respectivo requerimento, ou na data da recepção dos documentos pedidos nos termos do n.º 1 do artigo 23.º quando as instituições os não apresentem no prazo de 60 dias.\n\n3 - O registo dos actos respeitantes às fundações de solidariedade social que carecem de intervenção da entidade tutelar, nos termos do Estatuto das Instituições Particulares de Solidariedade Social, considera-se efectuado na data da decisão que lhes respeite.\n\n4 - O registo dos demais actos considera-se efectuado na data do despacho que defira o pedido de registo."
+  },
+  "125505490": {
+   "fragment_id": "125499854",
+   "type": 11,
+   "heading": "Artigo 10.º — Recusa do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Recusa do registo\n\nO registo é recusado nos seguintes casos:\n\na) Quando não se encontrem reunidos os requisitos previstos no artigo 6.º;\n\nb) Quando se verifique qualquer ilegalidade nos actos sujeitos a registo;\n\nc) Quando se verifique que o acto não está sujeito a registo."
+  },
+  "125505491": {
+   "fragment_id": "125499855",
+   "type": 11,
+   "heading": "Artigo 11.º — Registo provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registo provisório\n\n1 - O registo pode ser efectuado provisoriamente quando se suscitem dúvidas sobre a verificação do requisito referido na alínea d) do n.º 2 do artigo 6.º\n\n2 - O registo é efectuado provisoriamente quando, suscitando-se dúvidas sobre a verificação das circunstâncias referidas nas alíneas a) e b) do artigo 10.º, não tiver sido feita qualquer notificação à instituição requerente no prazo de 120 dias após a recepção do requerimento no centro distrital de segurança social (CDSS).\n\n3 - As instituições são notificadas das diligências necessárias à conversão do registo provisório em definitivo."
+  },
+  "125505492": {
+   "fragment_id": "125499856",
+   "type": 11,
+   "heading": "Artigo 12.º — Caducidade do registo provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Caducidade do registo provisório\n\n1 - O registo provisório por dúvidas caduca se não forem apresentados os elementos necessários à conversão do registo em definitivo no prazo de 120 dias a contar da data da notificação referida no n.º 2 do artigo 11.º\n\n2 - Em casos devidamente fundamentados o prazo referido no número anterior pode ser prorrogado por mais 120 dias.\n\n3 - Verificando-se a caducidade do registo, este só pode ser renovado mediante a apresentação de novo requerimento, sendo dispensada a entrega de documentos que tenham instruído o requerimento inicial, mas não poderá ser efectuado novo registo provisório."
+  },
+  "125505493": {
+   "fragment_id": "125499857",
+   "type": 11,
+   "heading": "Artigo 13.º — Cancelamento do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Cancelamento do registo\n\n1 - O registo é cancelado a todo o tempo, oficiosamente, sempre que se verifique:\n\na) A superveniência de situações que integrem os fundamentos de recusa de registo;\n\nb) O não exercício, durante um período de dois anos, das actividades necessárias à realização dos objectivos da acção social.\n\n2 - Em casos devidamente fundamentados o prazo referido na alínea b) do número anterior pode ser prorrogado por mais um ano.\n\n3 - Na situação referida na alínea b) do n.º 1 o cancelamento do registo é precedido de parecer das entidades representativas das instituições."
+  },
+  "125505494": {
+   "fragment_id": "125499858",
+   "type": 11,
+   "heading": "Artigo 14.º — Eficácia do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Eficácia do registo\n\nO registo é condição de eficácia:\n\na) Dos estatutos e suas alterações quando não revistam a forma de escritura pública;\n\nb) Da extinção das associações, quando resultante do falecimento ou desaparecimento de todos os associados, nos termos do n.º 2 do artigo 67.º do Estatuto das Instituições Particulares de Solidariedade Social."
+  },
+  "125505495": {
+   "fragment_id": "125499859",
+   "type": 11,
+   "heading": "Artigo 15.º — Reclamação e recurso hierárquico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reclamação e recurso hierárquico\n\nDo acto administrativo que recuse o registo podem as instituições reclamar para a entidade que o proferiu e interpor recurso hierárquico facultativo para o Ministro do Trabalho e da Solidariedade Social nos termos do Código do Procedimento Administrativo."
+  },
+  "125505496": {
+   "fragment_id": "125499860",
+   "type": 1,
+   "heading": "Capítulo III — Da instrução e decisão dos processos de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da instrução e decisão dos processos de registo"
+  },
+  "125505497": {
+   "fragment_id": "125499861",
+   "type": 11,
+   "heading": "Artigo 16.º — Iniciativa do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Iniciativa do registo\n\n1 - O registo dos actos referidos neste Regulamento efectua-se a pedido das instituições mediante requerimento sujeito a modelo aprovado pelo director-geral da Segurança Social, sem prejuízo do disposto no número seguinte.\n\n2 - São registados oficiosamente:\n\na) Os actos respeitantes às fundações de solidariedade social que sejam objecto de decisão da entidade tutelar nos termos dos artigos 79.º a 85.º do Estatuto das Instituições Particulares de Solidariedade Social;\n\nb) A extinção das associações, quando não dependa de deliberação da assembleia geral ou de decisão judicial;\n\nc) As acções e decisões judiciais comunicadas pelos tribunais;\n\nd) A caducidade e o cancelamento de registo;\n\ne) A rectificação de registos inexactos ou indevidamente lavrados que não seja susceptível de prejudicar direitos das instituições inscritas."
+  },
+  "125505498": {
+   "fragment_id": "125499862",
+   "type": 11,
+   "heading": "Artigo 17.º — Requerimento de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Requerimento de registo\n\n1 - O requerimento de registo é dirigido ao centro distrital de segurança social do Instituto de Segurança Social, I. P., da área da sede da instituição, no prazo de 60 dias a contar da data da verificação dos actos sujeitos a registo.\n\n2 - O requerimento de registo do acto de constituição de associações de solidariedade social deve ser assinado por associados em número não inferior ao dobro dos membros previstos para os corpos gerentes das mesmas associações."
+  },
+  "125505499": {
+   "fragment_id": "125499863",
+   "type": 11,
+   "heading": "Artigo 18.º — Instrução dos requerimentos de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Instrução dos requerimentos de registo\n\n1 - Os requerimentos de registo são instruídos com os documentos que legalmente comprovem os actos sujeitos a registo.\n\n2 - Os documentos apresentados que constituam cópia de outros documentos devem ser autenticados nos termos legais, ou conferidos com os originais ou documentos autenticados perante o funcionário que os receba."
+  },
+  "125505500": {
+   "fragment_id": "125499864",
+   "type": 11,
+   "heading": "Artigo 19.º — Prova documental específica para o registo de constituição das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Prova documental específica para o registo de constituição das instituições\n\nO requerimento de registo do acto de constituição e estatutos das instituições é acompanhado dos seguintes documentos:\n\na) Cópia do acto de constituição;\n\nb) Estatutos;\n\nc) Plano de acção da instituição;\n\nd) Fotocópia do cartão de pessoa colectiva."
+  },
+  "125505501": {
+   "fragment_id": "125499865",
+   "type": 11,
+   "heading": "Artigo 20.º — Prova documental específica para o registo da alteração de estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Prova documental específica para o registo da alteração de estatutos\n\nO requerimento de registo da alteração de estatutos é acompanhado dos seguintes documentos:\n\na) Acta da deliberação do órgão competente que aprovou a alteração de estatutos;\n\nb) Fotocópia do certificado de admissibilidade da denominação sempre que a alteração envolva modificação da denominação, do concelho da sede ou do objecto social;\n\nc) Texto completo dos estatutos de harmonia com as alterações introduzidas."
+  },
+  "125505502": {
+   "fragment_id": "125499866",
+   "type": 11,
+   "heading": "Artigo 21.º — Dispensa de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Dispensa de documentos\n\n1 - A apresentação do cartão de pessoa colectiva pode ser substituída por certificado de admissibilidade da denominação no caso daquele não ter sido ainda obtido.\n\n2 - É dispensada a apresentação do cartão de pessoa colectiva e do certificado de admissibilidade da denominação quando o acto a registar conste do título comprovativo do mesmo, que mencione a exibição de qualquer daqueles documentos."
+  },
+  "125505503": {
+   "fragment_id": "125499867",
+   "type": 11,
+   "heading": "Artigo 22.º — Parecer dos CDSS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Parecer dos CDSS\n\n1 - Aos CDSS compete emitir parecer sobre a viabilidade do registo de todos os actos previstos neste Regulamento verificando designadamente:\n\na) A regularidade da instrução dos processos;\n\nb) A legalidade dos actos sujeitos a registo;\n\nc) A verificação dos demais requisitos estabelecidos no artigo 6.º, quando o parecer respeite ao registo da constituição das instituições.\n\n2 - O parecer deve indicar o pedido da instituição, referir os procedimentos efectuados e enunciar as razões de facto e de direito que fundamentam as conclusões do parecer.\n\n3 - O CDSS remete à DGSS o requerimento da instituição, acompanhado dos documentos comprovativos do acto a registar e do parecer referido no n.º 2."
+  },
+  "125505504": {
+   "fragment_id": "125499868",
+   "type": 11,
+   "heading": "Artigo 23.º — Suprimento de deficiências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Suprimento de deficiências\n\n1 - Sempre que se verifique a falta de apresentação de documentos comprovativos do acto a registar, os CDSS notificam as instituições para o fazerem no prazo de 60 dias, sob pena de não ser dado seguimento ao procedimento.\n\n2 - Os CDSS podem igualmente solicitar às instituições outros elementos indispensáveis à avaliação dos requisitos estabelecidos no artigo 6.º"
+  },
+  "125505505": {
+   "fragment_id": "125499869",
+   "type": 11,
+   "heading": "Artigo 24.º — Decisão dos pedidos de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Decisão dos pedidos de registo\n\nApós a recepção na DGSS do parecer referido no artigo 22.º, deve ser proferida a decisão sobre o pedido de registo, ou solicitados os aperfeiçoamentos que forem considerados indispensáveis à regularização da instrução do processo."
+  },
+  "125505506": {
+   "fragment_id": "125499870",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Prazos\n\n1 - O parecer referido no artigo 22.º e a decisão referida no artigo 24.º devem ser emitidos no prazo de 30 dias após a recepção, respectivamente, do requerimento no CDSS e do parecer na DGSS, sem prejuízo do disposto no número seguinte.\n\n2 - O prazo para a emissão do parecer ou da decisão do pedido é de 60 dias quando respeitem ao registo do acto de constituição.\n\n3 - Os prazos referidos nos números anteriores interrompem-se quando sejam solicitados os elementos ou aperfeiçoamentos referidos nos artigos 23.º e 24.º, ou sejam solicitados pareceres a outras entidades necessários à apreciação do pedido, bem como quando o acto sujeito a registo seja submetido a decisão do ministro da tutela."
+  },
+  "125505507": {
+   "fragment_id": "125499871",
+   "type": 1,
+   "heading": "Capítulo IV — Da divulgação e prova dos actos de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da divulgação e prova dos actos de registo"
+  },
+  "125505508": {
+   "fragment_id": "125499872",
+   "type": 11,
+   "heading": "Artigo 26.º — Divulgação dos actos de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Divulgação dos actos de registo\n\n1 - A efectivação ou recusa dos actos de registo é comunicada aos CDSS e às instituições interessadas, sendo a comunicação acompanhada de cópia de cada documento que serviu de base ao registo.\n\n2 - A DGSS deve também proceder à divulgação do registo das alterações dos estatutos não sujeitas a escritura pública, nos termos do n.º 2 do artigo 168.º do Código Civil, quando respeitem a instituições constituídas nos termos do mesmo Código."
+  },
+  "125505509": {
+   "fragment_id": "125499873",
+   "type": 11,
+   "heading": "Artigo 27.º — Publicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Publicações\n\n1 - O registo definitivo dos actos referidos nas alíneas a), b) e c) do artigo 5.º, bem como o averbamento do cancelamento do registo, são publicados, por extracto, no sítio na Internet da segurança social.\n\n2 - A DGSS pode proceder à publicação, nos termos do número anterior, de outros dados de acesso público, respeitantes aos actos de registo efectuados."
+  },
+  "125505510": {
+   "fragment_id": "125499874",
+   "type": 11,
+   "heading": "Artigo 28.º — Prova dos actos de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Prova dos actos de registo\n\nCompete aos CDSS emitir declarações comprovativas dos actos de registo cuja efectivação lhes tenha sido comunicada pela DGSS."
+  },
+  "125505511": {
+   "fragment_id": "125505575",
+   "type": 1,
+   "heading": "Capítulo V — Disposições especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições especiais"
+  },
+  "125505512": {
+   "fragment_id": "125505576",
+   "type": 11,
+   "heading": "Artigo 29.º — Registo das instituições canonicamente erectas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Registo das instituições canonicamente erectas\n\n1 - Os actos de registo respeitantes às instituições canonicamente erectas obedecem ao disposto no presente diploma com as adaptações constantes dos números seguintes.\n\n2 - Para efeito de reconhecimento da personalidade jurídica, nos termos do artigo 45.º do Estatuto das Instituições Particulares de Solidariedade Social, a participação da erecção canónica de instituições que prossigam exclusiva ou principalmente objectivos do âmbito da segurança social, é feita pelo Ordinário Diocesano competente ao CDSS da área da sede das instituições.\n\n3 - As instituições que tenham adquirido personalidade jurídica nos termos do número anterior devem requerer o respectivo registo e apresentar os documentos referidos no artigo 19.º com excepção da cópia do acto de constituição.\n\n4 - O disposto na alínea a) do artigo 14.º não se aplica às alterações dos estatutos das instituições canonicamente erectas que sejam aprovadas pela autoridade eclesiástica competente."
+  },
+  "125505513": {
+   "fragment_id": "125505577",
+   "type": 11,
+   "heading": "Artigo 30.º — Registo das uniões, federações e confederações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Registo das uniões, federações e confederações\n\n1 - Os actos de registo respeitantes às uniões, federações e confederações de âmbito nacional obedecem ao regime previsto no presente diploma com as adaptações constantes dos números seguintes.\n\n2 - Os requerimentos de registo são dirigidos à DGSS e devem ser assinados pelo número mínimo de três instituições fundadoras.\n\n3 - Os requerimentos não carecem de informação dos CDSS, salvo se esta for solicitada pela DGSS.\n\n4 - As declarações comprovativas dos registos respeitantes às mesmas instituições são emitidas pela DGSS."
+  },
+  "125505514": {
+   "fragment_id": "125505578",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "125505515": {
+   "fragment_id": "125505579",
+   "type": 11,
+   "heading": "Artigo 31.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Protocolos\n\nA DGSS pode celebrar protocolos com outros organismos da Administração Pública com vista à simplificação de procedimentos relacionados com a comunicação de dados de acesso público, que sejam relevantes para o registo das instituições."
+  },
+  "125505516": {
+   "fragment_id": "125505580",
+   "type": 11,
+   "heading": "Artigo 32.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Comissão de acompanhamento\n\n1 - Será constituída uma comissão de acompanhamento e avaliação do presente Regulamento, com o objectivo de aperfeiçoar a articulação entre os serviços envolvidos na sua aplicação, criar ou adaptar os instrumentos no mesmo previstos e de contribuir para a desmaterialização dos procedimentos.\n\n2 - A comissão será constituída por representantes da DGSS, que a coordenará, do Instituto da Segurança Social, I. P., e do Instituto de Informática, I. P.\n\n3 - A comissão poderá ainda ser integrada por representantes dos ministérios da tutela a que se refere o artigo 7.º do Estatuto das Instituições Particulares de Solidariedade Social, a designar por despacho conjunto dos ministros competentes, tendo em vista o alargamento do âmbito de aplicação do presente Regulamento a todas as instituições particulares de solidariedade social."
+  },
+  "125505517": {
+   "fragment_id": "125505581",
+   "type": 11,
+   "heading": "Artigo 33.º — Suportes do registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Suportes do registo\n\n1 - Enquanto não se verificar a informatização dos serviços de registo, os actos de registo continuam a ser lavrados nos livros referidos no Regulamento aprovado pela Portaria n.º 778/83, de 23 de Julho.\n\n2 - Sem prejuízo da obrigação das instituições comunicarem aos CDSS a eleição, designação e recondução dos respectivos corpos gerentes e de enviarem os documentos comprovativos destes actos, o registo dos mesmos apenas será efectuado após a informatização referida no número anterior."
+  },
+  "125505477": {
+   "fragment_id": "125499841",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social, em 29 de Dezembro de 2006.\n\nREGULAMENTO DO REGISTO DAS INSTITUIÇÕES PARTICULARES DE SOLIDARIEDADE SOCIAL DO ÂMBITO DA ACÇÃO SOCIAL DO SISTEMA DA SEGURANÇA SOCIAL"
+  },
+  "125505523": {
+   "fragment_id": "125499867",
+   "type": 11,
+   "heading": "Artigo 22.º — Parecer dos CDSS",
+   "in_force_from": "2019-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 380/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18](https://diariodarepublica.pt/dr/detalhe/portaria/380-2019-125468549), em vigor a partir de 2019-11-01"
+   ],
+   "markdown": "###### Artigo 22.º — Parecer dos CDSS\n\n1 - Aos CDSS compete emitir parecer sobre a viabilidade do registo de todos os actos previstos neste Regulamento verificando designadamente:\n\na) A regularidade da instrução dos processos;\n\nb) A legalidade dos actos sujeitos a registo;\n\nc) A verificação dos demais requisitos estabelecidos nas alíneas a), b) e d) do n.º 2 do artigo 6.º, quando o parecer respeite ao registo da constituição das instituições, dos estatutos e suas alterações.\n\n2 - O parecer deve indicar o pedido da instituição, referir os procedimentos efectuados e enunciar as razões de facto e de direito que fundamentam as conclusões do parecer.\n\n3 - O CDSS remete à DGSS o requerimento da instituição, acompanhado dos documentos comprovativos do acto a registar e do parecer referido no n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 380/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18](https://diariodarepublica.pt/dr/detalhe/portaria/380-2019-125468549), em vigor a partir de 2019-11-01"
+  },
+  "125505524": {
+   "fragment_id": "125499868",
+   "type": 11,
+   "heading": "Artigo 23.º — Suprimento de deficiências",
+   "in_force_from": "2019-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 380/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18](https://diariodarepublica.pt/dr/detalhe/portaria/380-2019-125468549), em vigor a partir de 2019-11-01"
+   ],
+   "markdown": "###### Artigo 23.º — Suprimento de deficiências\n\n1 - Sempre que se verifique a falta de apresentação de documentos comprovativos do acto a registar, os CDSS notificam as instituições para o fazerem no prazo de 60 dias, sob pena de não ser dado seguimento ao procedimento.\n\n2 - Os CDSS podem igualmente solicitar às instituições outros elementos indispensáveis à avaliação dos requisitos estabelecidos no n.º 1 e nas alíneas a), b) e d) do n.º 2 e no n.º 3 do artigo 6.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 380/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18](https://diariodarepublica.pt/dr/detalhe/portaria/380-2019-125468549), em vigor a partir de 2019-11-01"
+  },
+  "125505525": {
+   "fragment_id": "125499869",
+   "type": 11,
+   "heading": "Artigo 24.º — Decisão dos pedidos de registo",
+   "in_force_from": "2019-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 380/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18](https://diariodarepublica.pt/dr/detalhe/portaria/380-2019-125468549), em vigor a partir de 2019-11-01"
+   ],
+   "markdown": "###### Artigo 24.º — Decisão dos pedidos de registo\n\nApós a receção na DGSS do parecer referido no artigo 22.º, é efetuada, designadamente, a verificação da conformidade dos estatutos das instituições com o regime jurídico do Estatuto das Instituições Particulares de Solidariedade Social, devendo ser proferida a decisão sobre o pedido de registo, ou solicitados os elementos que forem considerados necessários, bem como os aperfeiçoamentos tidos por indispensáveis à regularização da instrução do processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 380/2019 - Diário da República n.º 201/2019, Série I de 2019-10-18](https://diariodarepublica.pt/dr/detalhe/portaria/380-2019-125468549), em vigor a partir de 2019-11-01"
+  }
+ }
+}

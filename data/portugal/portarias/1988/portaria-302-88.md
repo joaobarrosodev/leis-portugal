@@ -1,0 +1,130 @@
+---
+schema_version: '1.0'
+id: pt:dre:374863:por
+title: Portaria n.º 302/88
+short_title: null
+summary: Concede empréstimos para projectos de equipamento social integrados em empreendimentos de habitação a custos controlados
+  de promoção cooperativa pelo Instituto Nacional de Habitação
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 302/88
+official_date: null
+publication_date: '1988-05-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 110/1988, Série I de 1988-05-12
+  number: '110'
+  series: I
+  supplement: null
+  pages: 1999 - 1999
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11000/19991999.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '374863'
+  dre_path: /dr/detalhe/portaria/302-1988-374863
+  internal: pt:dre:374863:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/302-1988-374863
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/302-1988-374863
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-06-06T00:00:00Z'
+integrity:
+  source_sha256: 40ef8507b747afcd3f556e246d9affb20a017c962a4cd023a31a9456d7e55960
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-302-374863.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:361888:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 302/88
+
+de 12 de Maio
+
+A habitação social, e em particular a promoção cooperativa, tem vindo a afirmar-se cada vez mais no contexto da política global de habitação, por se tratar de uma alternativa credível, com qualidade, a preços compatíveis, que resulta de uma solidariedade social conseguida na conjugação permanente de esforços e de interesses.
+
+Potencializar esta característica intrínseca do movimento cooperativo para melhorar a qualidade de vida e de serviços a que a população envolvida pode ter acesso constitui um objectivo de relevante interesse social.
+
+Nestes termos, criar condições para a concretização, no âmbito da promoção cooperativa, de projectos de equipamento social, totalmente a cargo dos respectivos cooperantes, sem qualquer encargo para o Estado e dentro de limites que não condicionem a capacidade de intervenção do Instituto Nacional de Habitação, é o objectivo da presente portaria.
+
+Assim, tendo em vista o disposto na alínea a) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, o seguinte:
+
+1.º - a) Nos termos da alínea a) do n.º 2 do artigo 3.º do [Decreto-Lei n.º 202-B/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416), de 22 de Julho, o Instituto Nacional de Habitação (INH) pode conceder empréstimos para projectos de equipamento social integrados em empreendimentos de habitações a custos controlados de promoção cooperativa.
+
+b) O INH dará preferência aos projectos que envolvam mais de uma cooperativa, desde que integradas na mesma área urbanística.
+
+2.º O valor máximo do equipamento social a financiar nos termos do número anterior não pode ser superior a 5% do valor total do empreendimento a que se destina, avaliado de acordo com os parâmetros estabelecidos para habitação social.
+
+3.º - a) Têm acesso aos financiamentos para equipamento social integrado em empreendimentos em curso ou a iniciar as cooperativas de habitação e construção que integrem nos preços de venda praticados uma percentagem para reserva de construção de pelo menos 2,5%.
+
+b) O limite definido na alínea anterior não condiciona o financiamento do equipamento social relativo a empreendimentos já concluídos ou em amortização à data da publicação da presente portaria.
+
+4.º Os empréstimos a conceder pelo INH para efeitos do disposto nos números anteriores ficam sujeitos às seguintes condições:
+
+a) Montante máximo até 50% do valor do equipamento social, determinado de acordo com o disposto no n.º 2.º;
+
+b) A taxa de juro é a máxima legal aplicável em cada momento em vigor para operações de prazo idêntico;
+
+c) Prazo máximo de 36 meses;
+
+d) Regime de amortização a definir por livre negociação entre as partes.
+
+5.º Os meios financeiros a afectar pelo INH a estes empréstimos não podem ultrapassar, em cada momento, 2,5% da sua estrutura de capitais permanentes.
+
+6.º Os empréstimos concedidos ao abrigo desta portaria serão garantidos preferencialmente por hipoteca constituída sobre os terrenos e as edificações.
+
+Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+**Assinada em 2 de Maio de 1988.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.**

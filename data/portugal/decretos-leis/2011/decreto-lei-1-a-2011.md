@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:406906:por
+title: Decreto-Lei n.º 1-A/2011
+short_title: null
+summary: Integra no regime geral de segurança social os trabalhadores bancários e outros trabalhadores inscritos na Caixa
+  de Abono de Família dos Empregados Bancários para efeitos de protecção nas eventualidades de maternidade, paternidade e
+  adopção e velhice e extingue a Caixa de Abono de Família dos Empregados Bancários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 1-A/2011
+official_date: null
+publication_date: '2011-01-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 1/2011, 1º Suplemento, Série I de 2011-01-03
+  number: '1'
+  series: I
+  supplement: 1º Suplemento
+  pages: 8-(2) a 8-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/01/00101/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/1-a/2011/01/03/p/dre/pt/html
+  oj: null
+  dre: '406906'
+  dre_path: /dr/detalhe/decreto-lei/1-a-2011-406906
+  internal: pt:dre:406906:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-a-2011-406906
+  metadata_url: https://data.dre.pt/eli/dec-lei/1-a/2011/01/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-a-2011-406906
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-01-03T00:00:00Z'
+integrity:
+  source_sha256: d44a46dc9780b3734678761b1ce78d213368e0a7eb8ba5f883ddbe42304ed6a3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-1-A-406906.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adopção
+- Instituto da Segurança Social
+- Caixa de Abono de Família dos Empregados Bancários
+- Cálculo de Pensões
+- Contribuições da Segurança Social
+- Empregado Bancário
+- Extinção de Serviços
+- Pagamento
+- Integração de Serviços
+- Integração de Trabalhadores
+- Maternidade
+- Paternidade
+- Pensão de Velhice
+- Doença Profissional
+- Prazo de Garantia
+- Prestações da Segurança Social
+- Desemprego
+- Regime Geral da Segurança Social
+- Segurança Social
+- Subsídio de Adopção
+- Subsídio de Desemprego
+- Subsídio de Doença
+- Subsídio de Maternidade
+- Subsídio de Paternidade
+- TAXA Contributiva
+- Transferência de Competências
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/2006/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/54/2009/03/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/54/2009/03/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/110/2009/09/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/119/2009/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/119/2009/12/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/55-a/2010/12/31/p/dre
+article_structure:
+  article_count: 12
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 1-A/2011
+
+de 3 de Janeiro
+
+O [Decreto-Lei n.º 54/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2009-604649), de 2 de Março, determinou a inscrição dos novos trabalhadores bancários no regime geral de segurança social, dando um passo decisivo na concretização da integração no sistema previdencial dos grupos socioprofissionais parcialmente abrangidos pelo sistema de segurança social.
+
+O presente decreto-lei vem aprofundar o processo de integração dos trabalhadores do sector bancário no regime geral de segurança social, concretizando o acordo celebrado entre o Governo, através do Ministério do Trabalho e da Solidariedade Social, a Associação Portuguesa de Bancos, em representação das instituições de crédito, e a FEBASE - Federação do Sector Financeiro, a 20 de Outubro de 2010.
+
+Assim, o presente decreto-lei estabelece que os trabalhadores bancários, actualmente abrangidos pela Caixa de Abono de Família dos Empregados Bancários (CAFEB), passam a estar abrangidos pelo regime geral de segurança social para efeitos de protecção nas eventualidades de maternidade, paternidade e adopção e na velhice.
+
+O regime substitutivo de protecção social previsto nos instrumentos de regulação colectiva de trabalho aplicáveis no sector bancário continua a desempenhar um papel extremamente relevante na protecção social dos trabalhadores para efeitos de protecção nas eventualidades de doença, invalidez, sobrevivência e morte. Assim, mantêm-se as regras constantes dos instrumentos de regulação colectiva de trabalho aplicáveis no sector bancário de forma complementar ao regime geral de segurança social nas eventualidades ainda não integradas.
+
+Na sequência da integração agora operada dos trabalhadores do sector no regime geral de segurança social dos trabalhadores por conta de outrem, e no cumprimento do n.º 3 do artigo 36.º do [Decreto-Lei n.º 211/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2006-545639), de 27 de Outubro, procede-se à extinção da CAFEB.
+
+Foram ouvidas as estruturas patronais e sindicais representativas do sector.
+
+Assim:
+
+No desenvolvimento da [Lei n.º 4/2007](https://diariodarepublica.pt/dr/detalhe/lei/4-2007-522781), de 16 de Janeiro, do artigo 3.º-A da [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de Setembro, alterada pela [Lei n.º 119/2009](https://diariodarepublica.pt/dr/detalhe/lei/119-2009-482143), de 30 de Dezembro, e pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro, que aprova o Orçamento do Estado para 2011, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Disposição geral
+
+###### Artigo 1.º — Objecto
+
+1 - O presente decreto-lei regula a integração no regime geral de segurança social (regime geral) dos trabalhadores bancários e outros trabalhadores no activo (trabalhadores bancários) abrangidos por regime de segurança social substitutivo constante de instrumento de regulamentação colectiva de trabalho vigente no sector bancário (IRCT vigente no sector).
+
+2 - O presente decreto-lei procede ainda à extinção da Caixa de Abono de Família dos Empregados Bancários (CAFEB).
+
+### CAPÍTULO II — Integração dos trabalhadores no regime geral
+
+###### Artigo 2.º — Âmbito pessoal
+
+Integram o âmbito pessoal deste decreto-lei, os trabalhadores bancários e outros trabalhadores no activo abrangidos por regime de segurança social substitutivo constante de IRCT vigente no sector que, à data da sua entrada em vigor, se encontrem no activo e sejam beneficiários da CAFEB.
+
+###### Artigo 3.º — Integração no regime geral da segurança social
+
+1 - Os trabalhadores bancários a que se refere o artigo anterior passam a estar protegidos pelo regime geral nas seguintes eventualidades:
+
+a) Maternidade, paternidade e adopção;
+
+b) Velhice.
+
+2 - Os trabalhadores bancários mantêm a protecção garantida pelo regime geral nas seguintes eventualidades:
+
+a) Desemprego;
+
+b) Doenças profissionais.
+
+###### Artigo 4.º — Obrigações contributivas
+
+As taxas contributivas são as fixadas no artigo 3.º-A da [Lei n.º 110/2009](https://diariodarepublica.pt/dr/detalhe/lei/110-2009-490249), de 16 de Setembro, alterada pela [Lei n.º 119/2009](https://diariodarepublica.pt/dr/detalhe/lei/119-2009-482143), de 30 de Dezembro, e pela [Lei n.º 55-A/2010](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), de 31 de Dezembro, que aprova o Orçamento do Estado para 2011.
+
+###### Artigo 5.º — Equivalência à entrada de contribuições
+
+1 - Os períodos de doença que determinem o pagamento de prestações ou de compensações remuneratórias, no âmbito de regime de segurança social substitutivo constantes de IRCT vigente no sector, dão lugar ao registo de remunerações no regime geral.
+
+2 - O registo de remunerações a que se refere o número anterior efectua-se por equivalência à entrada de contribuições e de quotizações, pelo valor da remuneração de referência que serviria de base ao cálculo do subsídio de doença no âmbito do regime geral.
+
+###### Artigo 6.º — Totalização de períodos contributivos para efeitos de protecção na eventualidade de velhice
+
+1 - Para efeitos de preenchimento do prazo de garantia são relevantes os períodos contributivos registados no regime de segurança social substitutivo constante de IRCT vigente no sector, na parte em que não se sobreponham aos do regime geral.
+
+2 - Os anos civis com registo de remunerações no âmbito do regime de segurança social substitutivo constantes de IRCT vigente no sector relevam para efeitos do cumprimento das condições de acesso à pensão de velhice antecipada ou bonificada, atribuída ao abrigo do regime de flexibilização da idade de pensão e do regime de antecipação nas situações de desemprego involuntário de longa duração, assim como para determinar o factor de redução ou de bonificação correspondente ao cálculo da carreira contributiva.
+
+###### Artigo 7.º — Remuneração de referência
+
+1 - Nas situações em que seja efectuada a totalização para efeitos de prazo de garantia, previstos no n.º 1 do artigo anterior, são também relevantes para o apuramento da remuneração de referência a ter em conta no cálculo da pensão de velhice a atribuir pelo regime geral as remunerações registadas em nome dos trabalhadores na CAFEB relativas a períodos anteriores à entrada em vigor do presente decreto-lei, revalorizadas nos termos previstos no regime jurídico das pensões do regime geral.
+
+2 - Para efeitos do disposto no número anterior, apenas são consideradas as últimas remunerações anuais registadas, necessárias para completar o preenchimento do prazo de garantia.
+
+###### Artigo 8.º — Totalização de períodos contributivos para efeitos de protecção na eventualidade de maternidade, paternidade e adopção
+
+1 - Nas situações em que ocorra a eventualidade de maternidade, paternidade e adopção, o período de trabalho prestado, ou equivalente, imediatamente anterior ao início de vigência deste decreto-lei, é considerado para efeitos do cumprimento do prazo de garantia, e para atribuição dos subsídios de parentalidade.
+
+2 - A remuneração total relevante, para efeitos de apuramento da remuneração de referência, é completada com o valor das remunerações registadas em nome dos trabalhadores na CAFEB relativas a períodos anteriores ao início de vigência deste decreto-lei, sempre que as remunerações registadas no regime geral após a entrada em vigor deste decreto-lei não sejam suficientes.
+
+3 - A concessão das prestações referidas no n.º 1 é garantida de forma imediata aos respectivos beneficiários, ficando as respectivas entidades empregadoras responsabilizadas perante os serviços competentes da segurança social pelo pagamento retroactivo das contribuições correspondentes ao número de meses contabilizados, anteriores ao início de vigência do presente decreto-lei.
+
+4 - Nas situações em que a transição de regime de protecção social ocorra durante o período em que se encontre a ser concedida protecção na eventualidade de maternidade, paternidade e adopção, o direito à protecção social mantém-se nos termos do regime aplicável à data em que se verificou a transição, devendo a entidade empregadora proceder aos respectivos pagamentos.
+
+5 - Os períodos pagos pela entidade empregadora a que se refere o número anterior são considerados como equivalentes à entrada de contribuições e quotizações para os efeitos previstos nos n.os 1 a 3.
+
+### CAPÍTULO III — Caixa de Abono de Família dos Empregados Bancários
+
+###### Artigo 9.º — Extinção da CAFEB
+
+1 - A CAFEB, anteriormente denominada Caixa de Abono de Família dos Empregados Bancários do Continente Português, constituída nos termos do artigo 10.º do [Decreto-Lei n.º 32192](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32192-1942-315169), de 13 de Agosto de 1942, regendo-se actualmente pelo regulamento aprovado por alvará de 25 de Novembro de 1942, publicado no Boletim do Instituto Nacional do Trabalho e Previdência, ano ix, n.º 23, de 15 de Dezembro de 1942, é extinta por integração no Instituto da Segurança Social (ISS, I. P.), que lhe sucede nas atribuições, direitos e obrigações.
+
+2 - O processo de extinção é regulamentado por instrumento normativo adequado.
+
+### CAPÍTULO IV — Disposições finais
+
+###### Artigo 10.º — Regime subsidiário
+
+Em tudo quanto não esteja especialmente regulado no presente decreto-lei é subsidiariamente aplicável o regime geral das obrigações contributivas e das eventualidades referidas no artigo 3.º
+
+###### Artigo 11.º — Aplicação no tempo
+
+1 - A protecção na eventualidade de maternidade, paternidade e adopção pelo regime geral só se verifica relativamente aos factos determinantes da protecção que ocorram após a entrada em vigor do presente decreto-lei.
+
+2 - O presente decreto-lei produz efeitos a 1 de Janeiro de 2011.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte à sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Dezembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Bernardo Luís Amador Trindade - Valter Victorino Lemos.
+
+**Promulgado em 29 de Dezembro de 2010.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 30 de Dezembro de 2010.**
+
+Pelo Primeiro-Ministro, Manuel Pedro Cunha da Silva Pereira, Ministro da Presidência.

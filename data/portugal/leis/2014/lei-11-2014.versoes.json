@@ -1,0 +1,310 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:572144:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2014-34584175",
+ "dre_path": "/dr/detalhe/lei/11-2014-572144",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-03-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "53342875",
+    "53342975",
+    "53343075",
+    "53343175",
+    "53343275",
+    "53343375",
+    "53343475",
+    "53343575",
+    "53343675",
+    "53343775"
+   ]
+  },
+  {
+   "date": "2014-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25676932:por",
+     "title": "Lei n.º 35/2014",
+     "published": "2014-06-20",
+     "dre_path": "/dr/detalhe/lei/35-2014-25676932"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "53342875",
+    "53342975",
+    "53343075",
+    "53343175",
+    "53343275",
+    "1078137675",
+    "53343475",
+    "53343575",
+    "53343675",
+    "53343775",
+    "53343875"
+   ]
+  },
+  {
+   "date": "2014-09-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56384931:por",
+     "title": "Lei n.º 71/2014",
+     "published": "2014-09-01",
+     "dre_path": "/dr/detalhe/lei/71-2014-56384931"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "53342875",
+    "53342975",
+    "53343075",
+    "53343175",
+    "53343275",
+    "1078137675",
+    "53343475",
+    "53343575",
+    "1078279775",
+    "53343775",
+    "53343875"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Repoe em Vigor Artigo 5.º"
+   ],
+   "fragments": [
+    "53342875",
+    "53342975",
+    "53343075",
+    "53343175",
+    "53343275",
+    "1078819375",
+    "53343475",
+    "53343575",
+    "1078279775",
+    "53343775",
+    "53343875"
+   ]
+  },
+  {
+   "date": "2017-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107094720:por",
+     "title": "Lei n.º 25/2017",
+     "published": "2017-05-30",
+     "dre_path": "/dr/detalhe/lei/25-2017-107094720"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "53342875",
+    "53342975",
+    "53343075",
+    "53343175",
+    "1080131075",
+    "1078819375",
+    "53343475",
+    "53343575",
+    "1078279775",
+    "53343775",
+    "53343875"
+   ]
+  },
+  {
+   "date": "2019-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117754017:por",
+     "title": "Decreto-Lei n.º 6/2019",
+     "published": "2019-01-14",
+     "dre_path": "/dr/detalhe/decreto-lei/6-2019-117754017"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "53342875",
+    "53342975",
+    "53343075",
+    "53343175",
+    "1080131075",
+    "1082557775",
+    "53343475",
+    "53343575",
+    "1078279775",
+    "53343775",
+    "53343875"
+   ]
+  }
+ ],
+ "fragments": {
+  "53342875": {
+   "fragment_id": "35203975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 11/2014\n\nde 6 de março\n\nEstabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social, procedendo à quarta alteração à Lei n.º 60/2005, de 29 de dezembro, à terceira alteração ao Decreto-Lei n.º 503/99, de 20 de novembro, e à alteração do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, e revogando normas que estabelecem acréscimos de tempo de serviço para efeitos de aposentação no âmbito da Caixa Geral de Aposentações.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "53342975": {
+   "fragment_id": "36294275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social.\n\n2 - A presente lei procede também:\n\na) À quarta alteração à Lei n.º 60/2005, de 29 de dezembro, alterada pelas Leis n.os 52/2007, de 31 de agosto, 11/2008, de 20 de fevereiro, e 66-B/2012, de 31 de dezembro, que estabelece mecanismos de convergência do regime de proteção social da função pública com o regime geral da segurança social no que respeita às condições de aposentação e cálculo das pensões;\n\nb) À terceira alteração ao Decreto-Lei n.º 503/99, de 20 de novembro, alterado pelas Leis n.os 59/2008, de 11 de setembro, e 64-A/2008, de 31 de dezembro, que aprova o novo regime jurídico dos acidentes em serviço e das doenças profissionais no âmbito da Administração Pública;\n\nc) À alteração do Decreto-Lei n.º 498/72, de 9 de dezembro, que aprova o Estatuto da Aposentação.\n\n3 - A presente lei revoga ainda as normas que estabelecem acréscimos de tempo de serviço para efeitos de aposentação no âmbito da Caixa Geral de Aposentações (CGA) e normas do Decreto-Lei n.º 137/2010, de 28 de dezembro, alterado pela Lei n.º 60-A/2011, de 30 de novembro, pelo Decreto-Lei n.º 32/2012, de 13 de fevereiro, pela Lei n.º 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 36/2013, de 11 de março, relativas ao exercício de funções públicas por aposentados."
+  },
+  "53343075": {
+   "fragment_id": "36294375",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 60/2005, de 29 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 60/2005, de 29 de dezembro\n\nO artigo 5.º da Lei n.º 60/2005, de 29 de dezembro, alterada pelas Leis n.os 52/2007, de 31 de agosto, 11/2008, de 20 de fevereiro, e 66-B/2012, de 31 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\n1 - ...\n\na) A primeira parcela, designada 'P1', correspondente ao tempo de serviço prestado até 31 de dezembro de 2005, é calculada com base na seguinte fórmula:\n\nR x T1/40\n\nem que:\n\nR é 80 % da remuneração mensal relevante nos termos do Estatuto da Aposentação, com um limite máximo correspondente a 12 vezes o valor do indexante dos apoios sociais (IAS), percebida até 31 de dezembro de 2005; e\n\nT1 é a expressão em anos do número de meses de serviço prestado até 31 de dezembro de 2005, com o limite máximo de 40 anos;\n\nb) ...\n\n2 - A Caixa Geral de Aposentações aplica o fator de sustentabilidade correspondente ao ano da aposentação de acordo com o regime que sucessivamente vigorar para o fator de sustentabilidade das pensões de velhice do sistema previdencial do regime geral de segurança social.\n\n3 - ...\n\n4 - Os valores das remunerações a considerar no cálculo da primeira parcela das pensões referidas no n.º 1 são atualizados por aplicação àquelas remunerações anuais de um coeficiente correspondente ao índice geral de preços no consumidor sem habitação verificado entre o ano a que respeitam as remunerações e o ano da aposentação.\n\n5 - ...»"
+  },
+  "53343175": {
+   "fragment_id": "36294475",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento à Lei n.º 60/2005, de 29 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento à Lei n.º 60/2005, de 29 de dezembro\n\nÉ aditado à Lei n.º 60/2005, de 29 de dezembro, alterada pelas Leis n.os 52/2007, de 31 de agosto, 11/2008, de 20 de fevereiro, e 66-B/2012, de 31 de dezembro, o artigo 3.º-A, com a seguinte redação:\n\n«Artigo 3.º-A\n\nCondições de aposentação ordinária\n\nPodem aposentar-se os subscritores que contem o prazo de garantia e a idade normal de acesso à pensão de velhice que sucessivamente estiverem estabelecidos no sistema previdencial do regime geral de segurança social.»"
+  },
+  "53343275": {
+   "fragment_id": "36294575",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 498/72, de 9 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 498/72, de 9 de dezembro\n\n1 - Os artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 78.º\n\n[...]\n\n1 - Os aposentados, reformados, reservistas fora de efetividade e equiparados não podem exercer funções públicas para quaisquer serviços da administração central, regional e autárquica, empresas públicas, entidades públicas empresariais, entidades que integram o setor empresarial regional e municipal e demais pessoas coletivas públicas, exceto quando haja lei especial que o permita ou quando, por razões de interesse público excecional, sejam autorizados pelos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.\n\n2 - ...\n\na) Os aposentados e reformados que se tenham aposentado ou reformado com fundamento em incapacidade;\n\nb) Os aposentados e reformados por força de aplicação da pena disciplinar de aposentação ou reforma compulsiva.\n\n3 - ...\n\na) Todos os tipos de atividade e de serviços, independentemente da sua duração, regularidade e, quando onerosos, forma de remuneração;\n\nb) ...\n\n4 - ...\n\n5 - ...\n\n6 - (Revogado).\n\n7 - ...\n\nArtigo 79.º\n\nSuspensão da pensão\n\n1 - No período que durar o exercício das funções públicas autorizadas os aposentados, reformados, reservistas fora de efetividade e equiparados não recebem pensão ou remuneração de reserva ou equiparada.\n\n2 - Cessado o exercício de funções públicas, o pagamento da pensão ou da remuneração de reserva ou equiparada, com valor atualizado nos termos gerais, é retomado.\n\n3 - ...\n\n4 - ...\n\n5 - ...»\n\n2 - O disposto nos artigos 78.º e 79.º do Decreto-Lei n.º 498/72, de 9 de dezembro, tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou especiais, em contrário, sem prejuízo do disposto nos números seguintes.\n\n3 - Ficam ressalvados do disposto no número anterior os aposentados, reformados, reservistas ou equiparados, contratados ou nomeados, para:\n\na) Integrarem as equipas de vigilância às escolas previstas no Decreto-Lei n.º 117/2009, de 18 de maio, alterado pelo Decreto-Lei n.º 14/2012, de 20 de janeiro;\n\nb) Trabalharem como pilotos, controladores de tráfego aéreo, técnicos de manutenção aeronáutica, investigadores de acidentes na aviação civil ou pessoal aeronáutico especializado, ao abrigo do Decreto-Lei n.º 145/2007, de 27 de abril e do Decreto-Lei n.º 80/2012, de 27 de março;\n\nc) Exercerem funções como médicos em serviços e estabelecimentos do Serviço Nacional de Saúde, nos termos do Decreto-Lei n.º 89/2010, de 21 de julho, durante o período da sua vigência, prorrogada pelo Decreto-Lei n.º 94/2013, de 18 de julho, até 31 de julho de 2015;\n\nd) Prestarem formação profissional promovida pelo Instituto de Emprego e Formação Profissional, I. P., na qualidade de pilotos, controladores de tráfego aéreo, técnicos de manutenção aeronáutica e outro pessoal aeronáutico especializado, desde que a formação esteja circunscrita aos compromissos assumidos pelo Estado Português relativos ao desenvolvimento da indústria aeronáutica e com prévia informação ao membro do Governo responsável pela área da Administração Pública;\n\ne) Intervirem, como árbitros presidentes na arbitragem a que se refere o artigo 375.º do anexo I da Lei n.º 59/2008, de 11 de setembro, alterada pela Lei n.º 3-B/2010, de 28 de abril, pelo Decreto-Lei n.º 124/2010, de 17 de novembro, e pelas Leis n.os 64-B/2011, de 30 de dezembro, 66/2012, de 31 de dezembro, e 68/2013, de 29 de agosto.\n\n4 - Os aposentados, reformados, reservistas ou equiparados abrangidos pelo número anterior optam obrigatoriamente entre perceber a totalidade da pensão ou da remuneração na reserva e uma terça parte da remuneração base que competir às funções exercidas ou receber a totalidade desta e uma terça parte da pensão ou da remuneração na reserva, com exceção dos médicos, aos quais continuam a aplicar-se os regimes de acumulação parcial e de suspensão da pensão previstos no Decreto-Lei n.º 89/2010, de 21 de julho.\n\n5 - As entidades nas quais as funções são exercidas comunicam à CGA a opção do pensionista, nos termos e com as cominações estabelecidas no Estatuto da Aposentação."
+  },
+  "53343375": {
+   "fragment_id": "36294675",
+   "type": 11,
+   "heading": "Artigo 5.º — Exercício de funções públicas por beneficiários de pensões de reforma pagas pela segurança social ou por outras entidades gestoras de fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Exercício de funções públicas por beneficiários de pensões de reforma pagas pela segurança social ou por outras entidades gestoras de fundos\n\n1 - O regime de exercício de funções públicas previsto nos artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, é aplicável aos beneficiários de pensões de reforma da segurança social e de pensões, de base ou complementares, pagas por quaisquer entidades públicas, independentemente da respetiva natureza institucional, associativa ou empresarial, do seu âmbito territorial, nacional, regional ou municipal, e do grau de independência ou autonomia, incluindo entidades reguladoras, de supervisão ou controlo, diretamente ou por intermédio de terceiros, nomeadamente seguradoras e entidades gestoras de fundos de pensões ou planos de pensões, a quem venha a ser autorizada ou renovada a situação de exercício de funções públicas.\n\n2 - No prazo de 10 dias, a contar da data de início de funções, os beneficiários a que se refere o número anterior devem comunicar ao serviço processador da pensão aquele início de funções.\n\n3 - Quando se verifiquem situações de exercício de funções nos termos do n.º 1, o serviço processador da pensão suspende o respetivo pagamento.\n\n4 - O disposto no presente artigo não é aplicável aos reformados por invalidez ou por incapacidade para o trabalho cuja pensão total seja inferior a uma vez e meia o valor do indexante dos apoios sociais (IAS).\n\n5 - As entidades referidas no n.º 1, que paguem pensões, subvenções ou outras prestações pecuniárias da mesma natureza, de base ou complementares, são obrigadas a comunicar à CGA, até ao dia 20 de cada mês, os montantes abonados nesse mês por beneficiário.\n\n6 - O incumprimento pontual do dever de comunicação previsto no número anterior constitui o dirigente máximo da entidade pública, pessoal e solidariamente responsável, juntamente com o beneficiário, pelo reembolso à CGA, das importâncias que esta venha a abonar indevidamente em consequência daquela omissão.\n\n7 - É ainda aplicável aos beneficiários a que se refere o n.º 1 o disposto nos n.os 3 a 5 do artigo anterior.\n\n8 - O regime fixado no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou especiais, em contrário.\n\n> Nota: [Artigo 6.º, Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932) O artigo 6.º da Lei n.º 35/2014, de 20 de junho substitui o presente artigo, revogando-o de forma tácita."
+  },
+  "53343475": {
+   "fragment_id": "36294775",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Decreto-Lei n.º 503/99, de 20 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Decreto-Lei n.º 503/99, de 20 de novembro\n\nO artigo 41.º do Decreto-Lei n.º 503/99, de 20 de novembro, alterado pela Lei n.º 59/2008, de 11 de setembro, e pela Lei n.º 64-A/2008, de 31 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 41.º\n\n[...]\n\n1 - ...\n\na) Com remuneração correspondente ao exercício da mesma atividade, em caso de incapacidade permanente absoluta resultante de acidente ou doença profissional;\n\nb) Com a parcela da remuneração correspondente à percentagem de redução permanente da capacidade geral de ganho do trabalhador, em caso de incapacidade permanente parcial resultante de acidente ou doença profissional;\n\nc) [Anterior alínea b)].\n\n2 - O incumprimento do disposto no número anterior determina a perda das prestações periódicas correspondentes ao período do exercício da atividade, sem prejuízo de revisão do grau de incapacidade nos termos do presente diploma.\n\n3 - São acumuláveis, sem prejuízo das regras de acumulação próprias dos respetivos regimes de proteção social obrigatórios, as prestações periódicas por incapacidade permanente com a pensão de aposentação ou de reforma e a pensão por morte com a pensão de sobrevivência, na parte em que estas excedam aquelas.\n\n4 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, às indemnizações em capital, cujo valor fica limitado à parcela da prestação periódica a remir que houvesse de ser paga de acordo com as regras de acumulação do presente artigo.»"
+  },
+  "53343575": {
+   "fragment_id": "36294875",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\n1 - São revogadas todas as normas que estabelecem acréscimos de tempo de serviço para efeitos de aposentação no âmbito da CGA, sem prejuízo da aplicação dos acréscimos previstos ao tempo de serviço prestado anteriormente à data de entrada em vigor da presente lei e do regime de bonificação aplicável aos militares das Forças Armadas, previsto em legislação especial, que se encontra atualmente em revisão.\n\n2 - São revogados o n.º 2 do artigo 89.º e o artigo 118.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, passando o direito a prestações da CGA atribuídas com fundamento em incapacidade a depender da confirmação dessa incapacidade pela junta médica da CGA.\n\n3 - O disposto no número anterior abrange:\n\na) Todas as pensões e prestações pecuniárias pagas pela CGA que tenham como condição de atribuição, entre outras, a incapacidade do seu beneficiário;\n\nb) A incapacidade permanente parcial, qualquer que seja o grau, e a incapacidade permanente absoluta, independentemente da relação daquelas incapacidades com o serviço ou as funções desempenhadas;\n\nc) Todas as situações em que a incapacidade é, previamente ao envio do processo à CGA, declarada por outra entidade, nomeadamente com base em parecer ou decisão de junta ou serviço médico privativo.\n\n4 - São revogados o n.º 4 do artigo 37.º-A e o n.º 6 do artigo 78.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro.\n\n5 - São revogados os n.os 2 a 6 do artigo 6.º do Decreto-Lei n.º 137/2010, de 28 de dezembro, alterado pela Lei n.º 60-A/2011, de 30 de novembro, pelo Decreto-Lei n.º 32/2012, de 13 de fevereiro, pela Lei n.º 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 36/2013, de 11 de março."
+  },
+  "53343675": {
+   "fragment_id": "36294975",
+   "type": 11,
+   "heading": "Artigo 8.º — Prevalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prevalência\n\n1 - O disposto no artigo anterior tem caráter excecional e imperativo, prevalecendo sobre quaisquer outras normas, gerais ou especiais, contrárias e sobre instrumentos de regulamentação coletiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado pelos mesmos, com exceção:\n\na) Do regime de acidentes de trabalho e doenças profissionais estabelecido no Decreto-Lei n.º 503/99, de 20 de novembro, alterado pelas Leis n.os 59/2008, de 11 de setembro, e 64-A/2008, de 31 de dezembro;\n\nb) Do regime previsto no Decreto-Lei n.º 43/76, de 20 de janeiro, relativamente aos militares qualificados deficientes das Forças Armadas ao abrigo daquele diploma.\n\n2 - O disposto no artigo 3.º-A da Lei n.º 60/2005, de 29 de dezembro, na redação dada pela presente lei, tem caráter excecional e imperativo, prevalecendo sobre quaisquer outras normas, gerais ou especiais, contrárias e sobre instrumentos de regulamentação coletiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado pelos mesmos, com exceção dos regimes não transitórios previstos no Decreto-Lei n.º 229/2005, de 29 de dezembro, e dos regimes estatutariamente previstos para:\n\na) Os militares das Forças Armadas, da Guarda Nacional Republicana, da Polícia Marítima e outro pessoal militarizado;\n\nb) O pessoal com funções policiais da Polícia de Segurança Pública;\n\nc) O pessoal de investigação criminal da Polícia Judiciária;\n\nd) O pessoal do corpo da guarda prisional.\n\n3 - O regime de suspensão da pensão previsto no artigo 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, na redação dada pela presente lei, bem como o disposto no artigo 5.º, aplica-se às situações de exercício de funções constituídas ou renovadas a partir da entrada em vigor da presente lei."
+  },
+  "53343775": {
+   "fragment_id": "36295075",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "1078137675": {
+   "fragment_id": "36294675",
+   "type": 11,
+   "heading": "Artigo 5.º — Exercício de funções públicas por beneficiários de pensões de reforma pagas pela segurança social ou por outras entidades gestoras de fundos",
+   "in_force_from": "2014-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 5.º — Exercício de funções públicas por beneficiários de pensões de reforma pagas pela segurança social ou por outras entidades gestoras de fundos\n\n1 - O regime de exercício de funções públicas previsto nos artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, é aplicável aos beneficiários de pensões de reforma da segurança social e de pensões, de base ou complementares, pagas por quaisquer entidades públicas, independentemente da respetiva natureza institucional, associativa ou empresarial, do seu âmbito territorial, nacional, regional ou municipal, e do grau de independência ou autonomia, incluindo entidades reguladoras, de supervisão ou controlo, diretamente ou por intermédio de terceiros, nomeadamente seguradoras e entidades gestoras de fundos de pensões ou planos de pensões, a quem venha a ser autorizada ou renovada a situação de exercício de funções públicas.\n\n2 - No prazo de 10 dias, a contar da data de início de funções, os beneficiários a que se refere o número anterior devem comunicar ao serviço processador da pensão aquele início de funções.\n\n3 - Quando se verifiquem situações de exercício de funções nos termos do n.º 1, o serviço processador da pensão suspende o respetivo pagamento.\n\n4 - O disposto no presente artigo não é aplicável aos reformados por invalidez ou por incapacidade para o trabalho cuja pensão total seja inferior a uma vez e meia o valor do indexante dos apoios sociais (IAS).\n\n5 - As entidades referidas no n.º 1, que paguem pensões, subvenções ou outras prestações pecuniárias da mesma natureza, de base ou complementares, são obrigadas a comunicar à CGA, até ao dia 20 de cada mês, os montantes abonados nesse mês por beneficiário.\n\n6 - O incumprimento pontual do dever de comunicação previsto no número anterior constitui o dirigente máximo da entidade pública, pessoal e solidariamente responsável, juntamente com o beneficiário, pelo reembolso à CGA, das importâncias que esta venha a abonar indevidamente em consequência daquela omissão.\n\n7 - É ainda aplicável aos beneficiários a que se refere o n.º 1 o disposto nos n.os 3 a 5 do artigo anterior.\n\n8 - O regime fixado no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou especiais, em contrário.\n\n> Nota: [Artigo 6.º, Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932) O artigo 6.º da Lei n.º 35/2014, de 20 de junho substitui o presente artigo, revogando-o de forma tácita.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "53343875": {
+   "fragment_id": "36295175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 24 de janeiro de 2014.\n\nO Presidente da Assembleia da República, em exercício, Guilherme Silva.\n\nPromulgada em 21 de fevereiro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 25 de fevereiro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "1078279775": {
+   "fragment_id": "36294975",
+   "type": 11,
+   "heading": "Artigo 8.º — Prevalência",
+   "in_force_from": "2014-09-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 71/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei/71-2014-56384931), em vigor a partir de 2014-09-02, com efeitos a partir de 2014-03-07."
+   ],
+   "markdown": "###### Artigo 8.º — Prevalência\n\n1 - O disposto no artigo anterior tem caráter excecional e imperativo, prevalecendo sobre quaisquer outras normas, gerais ou especiais, contrárias e sobre instrumentos de regulamentação coletiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado pelos mesmos, com exceção:\n\na) Do regime de acidentes de trabalho e doenças profissionais estabelecido no Decreto-Lei n.º 503/99, de 20 de novembro, alterado pelas Leis n.os 59/2008, de 11 de setembro, e 64-A/2008, de 31 de dezembro;\n\nb) Do regime previsto no Decreto-Lei n.º 43/76, de 20 de janeiro, relativamente aos militares qualificados deficientes das Forças Armadas ao abrigo daquele diploma.\n\n2 - O disposto no artigo 3.º-A da Lei n.º 60/2005, de 29 de dezembro, na redação dada pela presente lei, tem caráter excecional e imperativo, prevalecendo sobre quaisquer outras normas, gerais ou especiais, contrárias e sobre instrumentos de regulamentação coletiva de trabalho e contratos de trabalho, não podendo ser afastado ou modificado pelos mesmos, com exceção dos regimes não transitórios previstos no Decreto-Lei n.º 229/2005, de 29 de dezembro, do regime especial de aposentação previsto no artigo 2.º da Lei n.º 77/2009, de 13 de agosto, e dos regimes estatutariamente previstos para:\n\na) Os militares das Forças Armadas, da Guarda Nacional Republicana, da Polícia Marítima e outro pessoal militarizado;\n\nb) O pessoal com funções policiais da Polícia de Segurança Pública;\n\nc) O pessoal de investigação criminal da Polícia Judiciária;\n\nd) O pessoal do corpo da guarda prisional.\n\n3 - O regime de suspensão da pensão previsto no artigo 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, na redação dada pela presente lei, bem como o disposto no artigo 5.º, aplica-se às situações de exercício de funções constituídas ou renovadas a partir da entrada em vigor da presente lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 71/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei/71-2014-56384931), em vigor a partir de 2014-09-02, com efeitos a partir de 2014-03-07."
+  },
+  "1078819375": {
+   "fragment_id": "36294675",
+   "type": 11,
+   "heading": "Artigo 5.º — Exercício de funções públicas por beneficiários de pensões de reforma pagas pela segurança social ou por outras entidades gestoras de fundos",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 260.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01.",
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 5.º — Exercício de funções públicas por beneficiários de pensões de reforma pagas pela segurança social ou por outras entidades gestoras de fundos\n\n1 - O regime de exercício de funções públicas previsto nos artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, é aplicável aos beneficiários de pensões de reforma da segurança social e de pensões, de base ou complementares, pagas por quaisquer entidades públicas, independentemente da respetiva natureza institucional, associativa ou empresarial, do seu âmbito territorial, nacional, regional ou municipal, e do grau de independência ou autonomia, incluindo entidades reguladoras, de supervisão ou controlo, diretamente ou por intermédio de terceiros, nomeadamente seguradoras e entidades gestoras de fundos de pensões ou planos de pensões, a quem venha a ser autorizada ou renovada a situação de exercício de funções públicas.\n\n2 - No prazo de 10 dias, a contar da data de início de funções, os beneficiários a que se refere o número anterior devem comunicar ao serviço processador da pensão aquele início de funções.\n\n3 - Quando se verifiquem situações de exercício de funções nos termos do n.º 1, o serviço processador da pensão suspende o respetivo pagamento.\n\n4 - O disposto no presente artigo não é aplicável aos reformados por invalidez ou por incapacidade para o trabalho cuja pensão total seja inferior a uma vez e meia o valor do indexante dos apoios sociais (IAS).\n\n5 - As entidades referidas no n.º 1, que paguem pensões, subvenções ou outras prestações pecuniárias da mesma natureza, de base ou complementares, são obrigadas a comunicar à CGA, até ao dia 20 de cada mês, os montantes abonados nesse mês por beneficiário.\n\n6 - O incumprimento pontual do dever de comunicação previsto no número anterior constitui o dirigente máximo da entidade pública, pessoal e solidariamente responsável, juntamente com o beneficiário, pelo reembolso à CGA, das importâncias que esta venha a abonar indevidamente em consequência daquela omissão.\n\n7 - É ainda aplicável aos beneficiários a que se refere o n.º 1 o disposto nos n.os 3 a 5 do artigo anterior.\n\n8 - O regime fixado no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou especiais, em contrário.\n\n> Nota: [Artigo 6.º, Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932) O artigo 6.º da Lei n.º 35/2014, de 20 de junho substitui o presente artigo, revogando-o de forma tácita.\n\n> Reposto em Vigor pelo/a Artigo 260.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  },
+  "1080131075": {
+   "fragment_id": "36294575",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 498/72, de 9 de dezembro",
+   "in_force_from": "2017-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 25/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/25-2017-107094720), em vigor a partir de 2017-06-01."
+   ],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 498/72, de 9 de dezembro\n\n1 - Os artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 78.º\n\n[...]\n\n1 - Os aposentados, reformados, reservistas fora de efetividade e equiparados não podem exercer funções públicas para quaisquer serviços da administração central, regional e autárquica, empresas públicas, entidades públicas empresariais, entidades que integram o setor empresarial regional e municipal e demais pessoas coletivas públicas, exceto quando haja lei especial que o permita ou quando, por razões de interesse público excecional, sejam autorizados pelos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública.\n\n2 - ...\n\na) Os aposentados e reformados que se tenham aposentado ou reformado com fundamento em incapacidade;\n\nb) Os aposentados e reformados por força de aplicação da pena disciplinar de aposentação ou reforma compulsiva.\n\n3 - ...\n\na) Todos os tipos de atividade e de serviços, independentemente da sua duração, regularidade e, quando onerosos, forma de remuneração;\n\nb) ...\n\n4 - ...\n\n5 - ...\n\n6 - (Revogado).\n\n7 - ...\n\nArtigo 79.º\n\nSuspensão da pensão\n\n1 - No período que durar o exercício das funções públicas autorizadas os aposentados, reformados, reservistas fora de efetividade e equiparados não recebem pensão ou remuneração de reserva ou equiparada.\n\n2 - Cessado o exercício de funções públicas, o pagamento da pensão ou da remuneração de reserva ou equiparada, com valor atualizado nos termos gerais, é retomado.\n\n3 - ...\n\n4 - ...\n\n5 - ...»\n\n2 - O disposto nos artigos 78.º e 79.º do Decreto-Lei n.º 498/72, de 9 de dezembro, tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou especiais, em contrário, sem prejuízo do disposto nos números seguintes.\n\n3 - Ficam ressalvados do disposto no número anterior os aposentados, reformados, reservistas ou equiparados, contratados ou nomeados, para:\n\na) Integrarem as equipas de vigilância às escolas previstas no Decreto-Lei n.º 117/2009, de 18 de maio, alterado pelo Decreto-Lei n.º 14/2012, de 20 de janeiro;\n\nb) Trabalharem como pilotos, controladores de tráfego aéreo, técnicos de manutenção aeronáutica, investigadores de acidentes na aviação civil ou pessoal aeronáutico especializado, ao abrigo do Decreto-Lei n.º 145/2007, de 27 de abril e do Decreto-Lei n.º 80/2012, de 27 de março;\n\nc) Exercerem funções como médicos em serviços e estabelecimentos do Serviço Nacional de Saúde, nos termos do Decreto-Lei n.º 89/2010, de 21 de julho, durante o período da sua vigência, prorrogada pelo Decreto-Lei n.º 94/2013, de 18 de julho, até 31 de julho de 2015;\n\nd) Prestarem formação profissional promovida pelo Instituto de Emprego e Formação Profissional, I. P., na qualidade de pilotos, controladores de tráfego aéreo, técnicos de manutenção aeronáutica e outro pessoal aeronáutico especializado, desde que a formação esteja circunscrita aos compromissos assumidos pelo Estado Português relativos ao desenvolvimento da indústria aeronáutica e com prévia informação ao membro do Governo responsável pela área da Administração Pública;\n\ne) [Revogada.]\n\n4 - Os aposentados, reformados, reservistas ou equiparados abrangidos pelo número anterior optam obrigatoriamente entre perceber a totalidade da pensão ou da remuneração na reserva e uma terça parte da remuneração base que competir às funções exercidas ou receber a totalidade desta e uma terça parte da pensão ou da remuneração na reserva, com exceção dos médicos, aos quais continuam a aplicar-se os regimes de acumulação parcial e de suspensão da pensão previstos no Decreto-Lei n.º 89/2010, de 21 de julho.\n\n5 - As entidades nas quais as funções são exercidas comunicam à CGA a opção do pensionista, nos termos e com as cominações estabelecidas no Estatuto da Aposentação.\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 25/2017 - Diário da República n.º 104/2017, Série I de 2017-05-30](https://diariodarepublica.pt/dr/detalhe/lei/25-2017-107094720), em vigor a partir de 2017-06-01."
+  },
+  "1082557775": {
+   "fragment_id": "36294675",
+   "type": 11,
+   "heading": "Artigo 5.º — Exercício de funções públicas por beneficiários de pensões de reforma pagas pela segurança social ou por outras entidades gestoras de fundos",
+   "in_force_from": "2019-02-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 6/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2019-117754017), em vigor a partir de 2019-02-01.",
+    "Reposto em Vigor pelo/a Artigo 260.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01.",
+    "Revogado pelo/a Artigo 6.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+   ],
+   "markdown": "###### Artigo 5.º — Exercício de funções públicas por beneficiários de pensões de reforma pagas pela segurança social ou por outras entidades gestoras de fundos\n\n1 - O regime de exercício de funções públicas previsto nos artigos 78.º e 79.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, é aplicável aos beneficiários de pensões de reforma da segurança social e de pensões, de base ou complementares, pagas por quaisquer entidades públicas, independentemente da respetiva natureza institucional, associativa ou empresarial, do seu âmbito territorial, nacional, regional ou municipal, e do grau de independência ou autonomia, incluindo entidades reguladoras, de supervisão ou controlo, diretamente ou por intermédio de terceiros, nomeadamente seguradoras e entidades gestoras de fundos de pensões ou planos de pensões, a quem venha a ser autorizada ou renovada a situação de exercício de funções públicas.\n\n2 - No prazo de 10 dias, a contar da data de início de funções, os beneficiários a que se refere o número anterior devem comunicar ao serviço processador da pensão aquele início de funções e a remuneração a auferir.\n\n3 - São ainda obrigatoriamente comunicadas as alterações de remuneração no âmbito do exercício das funções públicas.\n\n4 - Quando se verifiquem situações de exercício de funções nos termos do n.º 1, o serviço processador da pensão suspende a pensão ou efetua o pagamento da pensão no montante correspondente à diferença entre a remuneração e a pensão.\n\n5 - O disposto no presente artigo não é aplicável aos reformados por invalidez ou por incapacidade para o trabalho cuja pensão total seja inferior a uma vez e meia o valor do indexante dos apoios sociais (IAS).\n\n6 - As entidades referidas no n.º 1, que paguem pensões, subvenções ou outras prestações pecuniárias da mesma natureza, de base ou complementares, são obrigadas a comunicar ao serviço processador de pensões, até ao dia 20 de cada mês, os montantes abonados nesse mês por beneficiário.\n\n7 - O incumprimento pontual do dever de comunicação previsto nos números anteriores constitui o dirigente máximo da entidade pública pessoal e solidariamente responsável, juntamente com o beneficiário, pelo reembolso ao serviço processador da pensão, das importâncias que este venha a abonar indevidamente em consequência daquela omissão.\n\n8 - É ainda aplicável aos beneficiários a que se refere o n.º 1 o disposto nos n.ºs 3 a 5 do artigo anterior.\n\n9 - O regime fixado no presente artigo tem natureza imperativa, prevalecendo sobre quaisquer outras normas, gerais ou especiais, em contrário.\n\n> Nota: [Artigo 6.º, Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932) O artigo 6.º da Lei n.º 35/2014, de 20 de junho substitui o presente artigo, revogando-o de forma tácita.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 6/2019 - Diário da República n.º 9/2019, Série I de 2019-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2019-117754017), em vigor a partir de 2019-02-01.\n\n> Reposto em Vigor pelo/a Artigo 260.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01.\n\n> Revogado pelo/a Artigo 6.º do/a [Lei n.º 35/2014 - Diário da República n.º 117/2014, Série I de 2014-06-20](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), em vigor a partir de 2014-08-01."
+  }
+ }
+}

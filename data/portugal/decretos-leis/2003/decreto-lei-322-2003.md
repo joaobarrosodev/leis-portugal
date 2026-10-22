@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:423653:por
+title: Decreto-Lei n.º 322/2003
+short_title: null
+summary: Transpõe para a ordem jurídica nacional a Directiva n.º 2003/7/CE, da Comissão, de 24 de Janeiro, que altera as condições
+  de autorização da cantaxantina nos alimentos para animais, em conformidade com a Directiva n.º 70/524/CEE, do Conselho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 322/2003
+official_date: null
+publication_date: '2003-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 296/2003, Série I-A de 2003-12-24
+  number: '296'
+  series: I
+  supplement: null
+  pages: 8675 - 8679
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/12/296a00/86758679.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/322/2003/12/24/p/dre/pt/html
+  oj: null
+  dre: '423653'
+  dre_path: /dr/detalhe/decreto-lei/322-2003-423653
+  internal: pt:dre:423653:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-2003-423653
+  metadata_url: https://data.dre.pt/eli/dec-lei/322/2003/12/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/322-2003-423653
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-12-24T00:00:00Z'
+integrity:
+  source_sha256: b66a336d5f2bf42096502908475c19eb1195f2b6f4fa3cae766b448cac4de0ba
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-322-423653.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Aditivo Alimentar
+- Alimento para Animais
+relationships:
+- type: cites
+  target: celex:31970L0524
+  label: null
+  source: http://data.europa.eu/eli/dir/1970/524/oj
+- type: cites
+  target: celex:31996L0051
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/51/oj
+- type: cites
+  target: celex:31998L0092
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/92/oj
+- type: cites
+  target: celex:31999L0020
+  label: null
+  source: http://data.europa.eu/eli/dir/1999/20/oj
+- type: cites
+  target: celex:32003L0007
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/7/oj
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 322/2003
+
+de 24 de Dezembro
+
+O Decreto-Lei n.º 289/99, de 29 de Julho, transpôs para a ordem jurídica interna a Directiva n.º [96/51/CE](https://data.europa.eu/eli/dir/1996/51/oj?locale=pt), do Conselho, de 23 de Julho, com as alterações que lhe foram introduzidas pelas Directivas n.os [98/92/CE](https://data.europa.eu/eli/dir/1998/92/oj?locale=pt), do Conselho, de 14 de Dezembro, e [1999/20/CE](https://data.europa.eu/eli/dir/1999/20/oj?locale=pt), do Conselho, de 22 de Março, que estabelece os princípios relativos à aprovação, colocação em circulação e utilização de aditivos nos alimentos para animais.
+
+Ao abrigo daquele diploma legal, o aditivo cantaxantina, como corante nos alimentos para animais, é autorizado em determinadas condições.
+
+Em 1997, o Comité Científico da Alimentação Humana da União Europeia (CCAH) concluiu que, para o ser humano, se poderia estabelecer uma dose diária admissível (DDA) de 0,03 mg de cantaxantina por quilograma de peso corporal.
+
+Atendendo à revisão da DDA feita pelo CCAH, o Comité Científico da Alimentação Animal (CCAA) reanalisou os níveis de cantaxantina em alimentos destinados a salmonídeos, frangos e galinhas poedeiras de modo a garantir a segurança dos consumidores, tendo declarado que esta estaria assegurada com a fixação de concentrações máximas de cantaxantina de 25 mg/kg de alimentos para salmonídeos e frangos e de 8 mg/kg de alimentos para galinhas poedeiras.
+
+Com este fundamento, a Directiva n.º [2003/7/CE](https://data.europa.eu/eli/dir/2003/7/oj?locale=pt), da Comissão, de 24 de Janeiro, veio alterar as condições de autorização da cantaxantina nos alimentos para animais previstas na legislação comunitária acima citada, pelo que importa proceder à alteração do Decreto-Lei n.º 289/99, de 29 de Julho, introduzindo-lhe as novas condições de autorização daquele aditivo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Transposição de directiva
+
+O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º [2003/7/CE](https://data.europa.eu/eli/dir/2003/7/oj?locale=pt), da Comissão, de 24 de Janeiro, que altera as condições de autorização da cantaxantina nos alimentos para animais, em conformidade com a Directiva n.º [70/524/CEE](https://data.europa.eu/eli/dir/1970/524/oj?locale=pt), do Conselho.
+
+###### Artigo 2.º — Alteração do Decreto-Lei n.º 289/99, de 29 de Julho
+
+O anexo C, parte II, grupo F, «Corantes, incluindo os pigmentos», do Decreto-Lei n.º 289/99, de 29 de Julho, no que se refere às condições de autorização da cantaxantina, passa a ter a redacção que lhe é dada pelo anexo do presente diploma, que dele faz parte integrante.
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 12 de Novembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Maria Teresa Pinto Basto Gouveia - Maria Celeste Ferreira Lopes Cardona - Armando José Cordeiro Sevinate Pinto.
+
+**Promulgado em 5 de Dezembro de 2003.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 10 de Dezembro de 2003.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**
+
+## ANEXO — (alteração ao anexo C, parte II, grupo F, «Corantes, incluindo os pigmentos», do Decreto-Lei n.º 289/99, de 29 de Julho)
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/12/296a00/86758679.pdf)

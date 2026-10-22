@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:452743:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-presidente-republica/2008-920134064",
+ "dre_path": "/dr/detalhe/decreto-presidente-republica/114-2008-452743",
+ "source_lastmod": "2025-05-30",
+ "versions": [
+  {
+   "date": "2008-10-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920157498"
+   ]
+  }
+ ],
+ "fragments": {
+  "920157498": {
+   "fragment_id": "920134065",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto do Presidente da República n.º 114/2008\n\nde 13 de Outubro\n\nO Presidente da República decreta, nos termos do artigo 135.º, alínea a), da Constituição, o seguinte:\n\nÉ exonerado, sob proposta do Governo, o ministro plenipotenciário de 1.ª classe António Manuel Moreira Tânger Corrêa do cargo de Embaixador de Portugal em Vilnius."
+  }
+ }
+}

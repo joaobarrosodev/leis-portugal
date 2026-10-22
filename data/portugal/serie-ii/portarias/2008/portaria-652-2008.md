@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:866416:por
+title: Portaria n.º 652/2008
+short_title: null
+summary: Condecoração do major-general Rui Mora de Oliveira
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 652/2008
+official_date: null
+publication_date: '2008-07-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 136/2008, Série II de 2008-07-16
+  number: '136'
+  series: II
+  supplement: null
+  pages: 31446 - 31446
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/07/136000000/3144631446.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '866416'
+  dre_path: /dr/detalhe/portaria/652-2008-866416
+  internal: pt:dre:866416:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/652-2008-866416
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/652-2008-866416
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-07-16T00:00:00Z'
+integrity:
+  source_sha256: 109433e9e0c0cd432c90ff48e5bccef0e90f05619d54ede34c8a5d98d96f18b0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-652-866416.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 652/2008
+
+Louvo o major-general PILAV 018478-A, Rui Mora de Oliveira, pelo elevado profissionalismo, extraordinária dedicação e relevante desempenho, evidenciados durante a sua comissão de serviço como subdirector e director do Departamento de Ensino do Instituto de Estudos Superiores Militares (IESM).
+
+Oficial de excepcional craveira e dotado de um assinalável espírito de iniciativa, o major-general Mora de Oliveira assumiu uma postura permanentemente dinâmica e metódica na realização e acompanhamento das actividades sob a sua alçada, e esteio de reconhecido valor durante todo o processo de transição do ensino superior militar dos antigos institutos superiores dos ramos para o IESM.
+
+Participou na revisão dos currículos escolares, na elaboração da múltipla legislação de apoio à nova realidade assente na estrutura de um novo Instituto conjunto, na preparação dos anos lectivos e na implementação, com detalhe e rigor, dos conteúdos programáticos constantes dos diversos planos de estudos dos cursos ministrados no IESM, tendo a qualidade das suas intervenções sido amplamente reconhecidas.
+
+Com a sua exemplar dedicação ao serviço, sentido pragmático, capacidade de trabalho e determinação em ultrapassar os obstáculos com que se deparou, o major-general Mora de Oliveira constituiu-se como uma referência interna de coesão e mobilização, conferindo um assinalável impulso e incentivo ao corpo docente sob as suas ordens, prosseguindo o objectivo central do IESM, orientado para o prestígio e excelência do Instituto.
+
+Soube ainda, de forma esclarecida e muito empenhada, contribuir, designadamente junto do ramo a que pertence, para a consolidação e sucesso do novo paradigma de ensino superior militar conjunto, de que resultou um inestimável apoio à Direcção do IESM.
+
+Pelo excepcional conjunto de qualidades evidenciadas pelo major-general Mora de Oliveira, de que se destacam: o brio profissional, exigência da prática da disciplina e sentido do dever, espírito de missão, lealdade e camaradagem, e também a forma como granjeou o respeito e admiração de todos quantos com ele serviram, devem os serviços por si prestados ser considerados relevantes, extraordinários e distintos, tendo contribuído significativamente para o prestígio, honra e lustre do Instituto de Estudos Superiores Militares e para as Forças Armadas Portuguesas.
+
+Assim, nos termos da competência que me é conferida pelo n.º 1 do artigo 34.º e atento o disposto nos artigos 13.º e 16.º do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de Dezembro, concedo a medalha de serviços distintos, grau prata, ao major-general PILAV 018478-A, Rui Mora de Oliveira.
+
+26 de Junho de 2008. - O Ministro da Defesa Nacional, Henrique Nuno Pires Severiano Teixeira.

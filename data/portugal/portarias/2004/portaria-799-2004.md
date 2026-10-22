@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:526800:por
+title: Portaria n.º 799/2004
+short_title: null
+summary: Alarga competências relativamente a consulados honorários de Portugal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 799/2004
+official_date: null
+publication_date: '2004-07-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 163/2004, Série I-B de 2004-07-13
+  number: '163'
+  series: I
+  supplement: null
+  pages: 4231 - 4232
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/07/163b00/42314232.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/799/2004/07/13/p/dre/pt/html
+  oj: null
+  dre: '526800'
+  dre_path: /dr/detalhe/portaria/799-2004-526800
+  internal: pt:dre:526800:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/799-2004-526800
+  metadata_url: https://data.dre.pt/eli/port/799/2004/07/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/799-2004-526800
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-07-13T00:00:00Z'
+integrity:
+  source_sha256: c0d777a34fcbd2e536a64b42984c5f6c1e2979c4f44a41d5b7cd823e49071bc3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-799-526800.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- República Centro-africana
+- Recenseamento Eleitoral
+- Definição de Competências
+- Registos e Notariado
+- Brasil
+- Cabo Verde
+- Registo Civil
+- Canadá
+- Passaporte
+- França
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/75/1998/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/75/1998/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/350/1998/06/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/350/1998/06/22/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 799/2004
+
+de 13 de Julho
+
+Na sequência da criação e da reestruturação de alguns consulados honorários, e à semelhança do que já acontece relativamente a outros postos consulares honorários, referidos na [Portaria n.º 350/98](https://diariodarepublica.pt/dr/detalhe/portaria/350-1998-480099), de 22 de Junho, afigura-se conveniente alargar algumas competências próprias dos vice-cônsules dos consulados de carreira a cônsules honorários, de forma a melhorar o serviço público prestado.
+
+Assim:
+
+Manda o Governo, pela Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas, ao abrigo dos n.os 2 e 3 do artigo 1.º do [Decreto-Lei n.º 75/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-1998-198116), de 27 de Março, o seguinte:
+
+1.º O Consulado Honorário de Portugal no Mindelo fica autorizado a praticar actos de registo civil, de notariado e de recenseamento eleitoral e a emitir documentos de viagem.
+
+2.º Os Consulados Honorários de Portugal em Bangui, Fortaleza, Halifax, Kingston, Leamington, London, Niteroi e Rouen ficam autorizados a praticar actos de registo civil, de notariado e de recenseamento eleitoral.
+
+**A Ministra dos Negócios Estrangeiros e das Comunidades Portuguesas, Maria Teresa Pinto Basto Gouveia, em 1 de Junho de 2004.**

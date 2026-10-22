@@ -1,0 +1,247 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:452751:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-971791768",
+ "dre_path": "/dr/detalhe/portaria/1143-2008-452751",
+ "source_lastmod": "2026-02-05",
+ "versions": [
+  {
+   "date": "2008-10-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "972724275",
+    "972724475",
+    "972724875",
+    "972725075",
+    "972725275",
+    "972725475",
+    "972725675",
+    "972725875",
+    "972726075",
+    "972726275",
+    "972726475",
+    "972726675",
+    "972726875"
+   ]
+  },
+  {
+   "date": "2009-01-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:602750:por",
+     "title": "Portaria n.º 61/2009",
+     "published": "2009-01-21",
+     "dre_path": "/dr/detalhe/portaria/61-2009-602750"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "972724275",
+    "1034878074",
+    "1037761375",
+    "972724475",
+    "972724675",
+    "972724875",
+    "972725075",
+    "972725275",
+    "972725475",
+    "972725675",
+    "1037761376",
+    "972726075",
+    "972726275",
+    "972726475",
+    "972726675",
+    "972726875"
+   ]
+  },
+  {
+   "date": "2013-10-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:503058:por",
+     "title": "Portaria n.º 307/2013",
+     "published": "2013-10-21",
+     "dre_path": "/dr/detalhe/portaria/307-2013-503058"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "972724275",
+    "1034878074",
+    "1037761375",
+    "972724475",
+    "972724675",
+    "972724875",
+    "972725075",
+    "972725275",
+    "972725475",
+    "972725675",
+    "1037796127",
+    "972726075",
+    "972726275",
+    "972726475",
+    "972726675",
+    "972726875"
+   ]
+  }
+ ],
+ "fragments": {
+  "972724275": {
+   "fragment_id": "972724175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 81/2008, de 16 de Maio, que estabelece o enquadramento nacional dos apoios a conceder ao sector da pesca no âmbito do Programa Operacional Pesca 2007-2013 (PROMAR), no quadro do Fundo Europeu das Pescas (FEP), estabelece, na alínea a) do n.º 2 do artigo 3.º, que, para o continente, as diversas medidas nele previstas são objecto de regulamentação através de portaria do membro do Governo responsável pelo sector das pescas.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo da alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 81/2008, de 16 de Maio, o seguinte:"
+  },
+  "972724475": {
+   "fragment_id": "972724375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 2 de Outubro de 2008."
+  },
+  "972724875": {
+   "fragment_id": "972724775",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito e objecto\n\nO presente Regulamento estabelece um regime de apoio aos pescadores e proprietários de embarcações de pesca registadas nos portos do continente, licenciadas para a captura de bivalves com arte de ganchorra, que cessem temporariamente a sua actividade em virtude da interdição de captura de bivalves, por motivos de saúde pública, determinada pelo Instituto Nacional de Recursos Biológicos, I. P. (INRB, I. P.) na sequência da monitorização dos moluscos bivalves, nos termos do anexo ii do Regulamento (CE) n.º 854/2004, do Parlamento Europeu e do Conselho, de 29 de Abril, e da Portaria n.º 1421/2006, de 21 de Dezembro."
+  },
+  "972725075": {
+   "fragment_id": "972724975",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários\n\n1 - São beneficiários dos apoios previstos no presente regime os proprietários e pescadores das embarcações de pesca abrangidas pelo presente Regulamento.\n\n2 - Para efeitos do presente Regulamento, entende-se por:\n\na) «Proprietário» aquele que detém a propriedade de uma embarcação ou título que habilita à respectiva exploração;\n\nb) «Pescador» o tripulante incluído no rol de tripulação da embarcação cuja actividade profissional se exerça a bordo da mesma e seja residente no território comunitário."
+  },
+  "972725275": {
+   "fragment_id": "972725175",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições específicas de acesso\n\n1 - Sem prejuízo das condições gerais de acesso previstas no artigo 4.º do Decreto-Lei n.º 81/2008, de 16 de Maio, são condições específicas de acesso ao presente regime:\n\na) A interdição de captura deve ter uma duração mínima de 30 dias consecutivos;\n\nb) A embarcação deve:\n\ni) Estar licenciada, à data do início da interdição, para a arte de ganchorra;\n\nii) Ter cessado a sua actividade em virtude de interdição da captura de bivalves;\n\niii) A espécie ou espécies de bivalves cuja captura tenha sido interdita devem representar, pelo menos, 50 % das capturas efectuadas pela embarcação no mês anterior à data da interdição, a menos que a interdição de captura seja para a totalidade das espécies de bivalves;\n\niv) Ter permanecido, pelo menos, 50 dias no mar nos últimos 12 meses, à data de apresentação da candidatura.\n\n2 - Para além das condições anteriormente estabelecidas, devem ainda, relativamente aos pescadores verificar-se as seguintes:\n\na) Estarem inscritos no rol de tripulação da embarcação à data do início da interdição e durante o período mínimo de 30 dias após tal data;\n\nb) Encontrarem-se inscritos na segurança social;\n\nc) Não exercerem qualquer actividade profissional durante o período de cessação temporária de actividade.\n\n3 - Para efeitos do presente Regulamento, enquanto durar a imobilização da embarcação decorrente da interdição de captura de bivalves, considera-se suspensa a respectiva licença de pesca, sem prejuízo da faculdade prevista na alínea c) do artigo 14.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro, na redacção dada pela Portaria n.º 254/2008, de 7 de Abril."
+  },
+  "972725475": {
+   "fragment_id": "972725375",
+   "type": 11,
+   "heading": "Artigo 4.º — Período elegível da cessação temporária da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Período elegível da cessação temporária da actividade\n\n1 - Para efeitos dos apoios previstos no presente Regulamento, o período máximo elegível da cessação temporária da actividade é de 30 dias, em cada ano civil.\n\n2 - O início do período elegível coincide com o início da interdição de captura determinada pelo INRB, I. P., referida no artigo 1.º"
+  },
+  "972725675": {
+   "fragment_id": "972725575",
+   "type": 11,
+   "heading": "Artigo 5.º — Natureza e montante do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Natureza e montante do apoio\n\nOs apoios a conceder são pagos aos beneficiários, revestem a forma de subsídio a fundo perdido e são fixados nos seguintes termos:\n\na) Uma compensação financeira cujo beneficiário é o proprietário, atribuída em função da arqueação bruta (GT) da embarcação de pesca respectiva, nos termos do quadro i do anexo ao presente Regulamento;\n\nb) Uma compensação salarial destinada aos tripulantes durante o período de imobilização temporária da embarcação, nos termos do quadro ii do anexo ao presente Regulamento."
+  },
+  "972725875": {
+   "fragment_id": "972725775",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Candidaturas\n\n1 - As candidaturas são apresentadas pelos pescadores e proprietários nas respectivas direcções regionais de agricultura e pescas, adiante designadas por DRAP, no prazo de 25 dias, cujo início de contagem ocorre no 30.º dia do período de interdição, com excepção das interdições iniciadas entre a data de 15 de Julho e a data de entrada em vigor da presente portaria, cujo prazo para apresentação de candidaturas é de 25 dias após a entrada em vigor da presente portaria.\n\n2 - Após a recepção das candidaturas, podem ser solicitados pelas DRAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 10 dias, se outro prazo não for fixado, findo o qual, na ausência de resposta, o processo será arquivado."
+  },
+  "972726075": {
+   "fragment_id": "972725975",
+   "type": 11,
+   "heading": "Artigo 7.º — Decisão e contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Decisão e contratação\n\n1 - A decisão das candidaturas compete ao gestor.\n\n2 - As candidaturas seleccionadas são ordenadas em dois grupos, consoante o porto de registo da embarcação se localize na região de Lisboa ou nas restantes regiões do continente, para efeitos de decisão, tendo em vista as dotações financeiras a fixar por despacho do membro do Governo responsável pelo sector das pescas.\n\n3 - As candidaturas devem estar decididas no prazo máximo de 25 dias a contar da data da sua apresentação nas DRAP, desde que o processo esteja completo, considerando-se aquele prazo suspenso sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.\n\n4 - O Instituto de Financiamento da Agricultura e Pescas, I. P., adiante designado por IFAP, I. P., notifica os promotores, no prazo de 10 dias, após o seu conhecimento, da decisão final de concessão do apoio, remetendo o contrato para assinatura, ou informando o local onde o mesmo pode ser assinado."
+  },
+  "972726275": {
+   "fragment_id": "972726175",
+   "type": 11,
+   "heading": "Artigo 8.º — Pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pagamento dos apoios\n\nO pagamento dos apoios é efectuado pelo IFAP, I. P., mediante transferência bancária, no prazo de 20 dias após a celebração do respectivo contrato."
+  },
+  "972726475": {
+   "fragment_id": "972726375",
+   "type": 11,
+   "heading": "Artigo 9.º — Acumulação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acumulação dos apoios\n\n1 - Sem prejuízo dos impedimentos previstos no artigo 16.º do Decreto-Lei n.º 81/2008, de 16 de Maio, os apoios concedidos ao abrigo do presente Regulamento não são cumuláveis com quaisquer prestações da segurança social por motivo de doença, nem com quaisquer outros apoios públicos com idêntica finalidade de compensação pela interdição de pescar, designadamente os pagos através do Fundo de Compensação Salarial.\n\n2 - Os apoios são reembolsados pro rata temporis se, durante o período de paragem, ocorrerem situações que dêem lugar ao recebimento de quaisquer prestações referidas no número anterior."
+  },
+  "972726675": {
+   "fragment_id": "972726575",
+   "type": 11,
+   "heading": "Artigo 10.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cobertura orçamental\n\nOs encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelas Medidas de Adaptação da Frota de Pesca do PIDDAC - Programa de Investimentos e Despesas de Desenvolvimento da Administração Central, inscrito no IFAP, I. P."
+  },
+  "972726875": {
+   "fragment_id": "972726775",
+   "type": 14,
+   "heading": "Anexo — Montante das compensações aos pescadores e proprietários das embarcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Montante das compensações aos pescadores e proprietários das embarcações\n\nA compensação financeira a que se refere a alínea a) do artigo 5.º é calculada em função da arqueação da embarcação, de acordo com o quadro i:\n\nQUADRO I\n\n(ver documento original)\n\nN - número de dias elegível de acordo com o artigo 4.º\n\nAs compensações salariais a que se refere a alínea b) do artigo 5.º correspondem aos montantes dos apoios indicados no quadro ii:\n\nQUADRO II\n\n(ver documento original)\n\nm - rendimento mínimo garantido fixado nos termos do artigo 266.º do Código do Trabalho, aprovado pela Lei n.º 99/2003, de 27 de Agosto.\n\nN - número de dias elegível de acordo com o artigo 4.º"
+  },
+  "1034878074": {
+   "fragment_id": "1037694976",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento do Regime de Apoio à Cessação Temporária das Actividades de Pesca por Motivos de Saúde Pública, previsto na Medida de Cessação Temporária das Actividades de Pesca, do eixo prioritário n.º 1 do Programa Operacional Pesca 2007-2013 (PROMAR), de acordo com a subalínea ii) da alínea a) do n.º 1 do artigo 3.º do Decreto-Lei n.º 81/2008, de 16 de Maio, e que faz parte integrante da presente portaria."
+  },
+  "1037761375": {
+   "fragment_id": "1037694977",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA presente portaria produz efeitos desde 15 de Julho de 2008."
+  },
+  "972724675": {
+   "fragment_id": "972724575",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DO REGIME DE APOIO À CESSAÇÃO TEMPORÁRIA DAS ACTIVIDADES DE PESCA POR MOTIVOS DE SAÚDE PÚBLICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DO REGIME DE APOIO À CESSAÇÃO TEMPORÁRIA DAS ACTIVIDADES DE PESCA POR MOTIVOS DE SAÚDE PÚBLICA"
+  },
+  "1037761376": {
+   "fragment_id": "972725775",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidaturas",
+   "in_force_from": "2009-01-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 61/2009 - Diário da República n.º 14/2009, Série I de 2009-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/61-2009-602750), em vigor a partir de 2009-01-26, produz efeitos a partir de 2008-10-15"
+   ],
+   "markdown": "###### Artigo 6.º — Candidaturas\n\n1 - As candidaturas são apresentadas pelos pescadores e proprietários nas respectivas direcções regionais de agricultura e pescas, adiante designadas por DRAP, no prazo de 25 dias, cujo início de contagem ocorre no 30.º dia do período de interdição, com excepção das interdições iniciadas entre a data de 15 de Julho e a data de entrada em vigor da presente portaria, cujo prazo para apresentação de candidaturas é de 45 dias após a entrada em vigor da presente portaria.\n\n2 - Após a recepção das candidaturas, podem ser solicitados pelas DRAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 10 dias, se outro prazo não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 61/2009 - Diário da República n.º 14/2009, Série I de 2009-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/61-2009-602750), em vigor a partir de 2009-01-26, produz efeitos a partir de 2008-10-15"
+  },
+  "1037796127": {
+   "fragment_id": "972725775",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidaturas",
+   "in_force_from": "2013-10-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 307/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/307-2013-503058), em vigor a partir de 2013-10-22",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 61/2009 - Diário da República n.º 14/2009, Série I de 2009-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/61-2009-602750), em vigor a partir de 2009-01-26, produz efeitos a partir de 2008-10-15"
+   ],
+   "markdown": "###### Artigo 6.º — Candidaturas\n\n1 - As candidaturas são apresentadas pelos pescadores e proprietários nas respectivas direcções regionais de agricultura e pescas, adiante designadas por DRAP, no prazo de 25 dias, cujo início de contagem ocorre no 30.º dia do período de interdição, com excepção das interdições iniciadas entre a data de 15 de Julho e a data de entrada em vigor da presente portaria, cujo prazo para apresentação de candidaturas é de 45 dias após a entrada em vigor da presente portaria.\n\n2 - Após a recepção das candidaturas, podem ser solicitados pelas DRAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 10 dias, se outro prazo não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.\n\n3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 307/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/307-2013-503058), em vigor a partir de 2013-10-22\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 61/2009 - Diário da República n.º 14/2009, Série I de 2009-01-21](https://diariodarepublica.pt/dr/detalhe/portaria/61-2009-602750), em vigor a partir de 2009-01-26, produz efeitos a partir de 2008-10-15"
+  }
+ }
+}

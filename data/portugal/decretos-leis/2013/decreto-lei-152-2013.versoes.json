@@ -1,0 +1,1292 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:504756:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-165096501",
+ "dre_path": "/dr/detalhe/decreto-lei/152-2013-504756",
+ "source_lastmod": "2025-04-15",
+ "versions": [
+  {
+   "date": "2013-11-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164921203",
+    "164921204",
+    "164921205",
+    "164921206",
+    "164921207",
+    "164921208",
+    "164921209",
+    "164921210",
+    "164921211",
+    "164921213",
+    "164921214",
+    "164921215",
+    "164921216",
+    "164921217",
+    "164921218",
+    "164921219",
+    "164921220",
+    "164921221",
+    "164921222",
+    "164921223",
+    "164921224",
+    "164921225",
+    "164921226",
+    "164921227",
+    "164921228",
+    "164921229",
+    "164921230",
+    "164921231",
+    "164921232",
+    "164921233",
+    "164921234",
+    "164921235",
+    "164921236",
+    "164921237",
+    "164921238",
+    "164921239",
+    "164921240",
+    "164921241",
+    "164921242",
+    "164921243",
+    "164921244",
+    "164921245",
+    "164921246",
+    "164921247",
+    "164921248",
+    "164921249",
+    "164921250",
+    "164921251",
+    "164921252",
+    "164921253",
+    "164921254",
+    "164921255",
+    "164921256",
+    "164921257",
+    "164921258",
+    "164921259",
+    "164921260",
+    "164921261",
+    "164921262",
+    "164921263",
+    "164921264",
+    "164921265",
+    "164921266",
+    "164921267",
+    "164921268",
+    "164921269",
+    "164921270",
+    "164921271",
+    "164921272",
+    "164921273",
+    "164921274",
+    "165103675",
+    "165103676",
+    "165103677",
+    "165103678",
+    "165103679",
+    "165103680",
+    "165103681",
+    "165103682",
+    "165103683",
+    "165103684",
+    "165103685",
+    "165103686",
+    "165103687",
+    "165103688",
+    "165103689",
+    "165103690",
+    "165103691",
+    "165103692",
+    "165103693",
+    "165103694",
+    "165103695",
+    "165103696",
+    "165103697",
+    "165103698",
+    "165103699",
+    "165103700",
+    "165103701",
+    "165103702",
+    "165103703",
+    "165103704",
+    "165103705",
+    "165103706",
+    "165103707",
+    "165103708",
+    "165103709",
+    "165103710",
+    "165103711",
+    "165103712",
+    "165103713",
+    "165103714",
+    "165103715",
+    "165103716",
+    "165103717",
+    "165103718",
+    "165103719",
+    "165103720",
+    "165103721",
+    "165103722"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 32.º",
+    "Revoga Artigo 33.º"
+   ],
+   "fragments": [
+    "164921203",
+    "164921204",
+    "164921205",
+    "164921206",
+    "164921207",
+    "164921208",
+    "164921209",
+    "164921210",
+    "164921211",
+    "164921212",
+    "164921213",
+    "164921214",
+    "164921215",
+    "164921216",
+    "164921217",
+    "164921218",
+    "164921219",
+    "164921220",
+    "164921221",
+    "164921222",
+    "164921223",
+    "164921224",
+    "164921225",
+    "164921226",
+    "915059153",
+    "915059154",
+    "915059155",
+    "915059156",
+    "164921227",
+    "164921228",
+    "164921229",
+    "164921230",
+    "164921231",
+    "164921232",
+    "164921233",
+    "164921234",
+    "164921235",
+    "164921236",
+    "164921237",
+    "164921238",
+    "164921239",
+    "164921240",
+    "164921241",
+    "164921242",
+    "164921243",
+    "164921244",
+    "164921245",
+    "164921246",
+    "164921247",
+    "164921248",
+    "164921249",
+    "164921250",
+    "164921251",
+    "164921252",
+    "164921253",
+    "164921254",
+    "164921255",
+    "915059158",
+    "915059157",
+    "164921258",
+    "164921259",
+    "164921260",
+    "164921261",
+    "164921262",
+    "164921263",
+    "164921264",
+    "164921265",
+    "164921266",
+    "164921267",
+    "164921268",
+    "164921269",
+    "164921270",
+    "164921271",
+    "164921272",
+    "164921273",
+    "164921274",
+    "165103675",
+    "165103676",
+    "165103677",
+    "165103678",
+    "165103679",
+    "165103680",
+    "165103681",
+    "165103682",
+    "165103683",
+    "165103684",
+    "165103685",
+    "165103686",
+    "165103687",
+    "165103688",
+    "165103689",
+    "165103690",
+    "165103691",
+    "165103692",
+    "165103693",
+    "165103694",
+    "165103695",
+    "165103696",
+    "165103697",
+    "165103698",
+    "165103699",
+    "165103700",
+    "165103701",
+    "165103702",
+    "165103703",
+    "165103704",
+    "165103705",
+    "165103706",
+    "165103707",
+    "165103708",
+    "165103709",
+    "165103710",
+    "165103711",
+    "165103712",
+    "165103713",
+    "165103714",
+    "165103715",
+    "165103716",
+    "165103717",
+    "165103718",
+    "165103719",
+    "165103720",
+    "165103721",
+    "165103722"
+   ]
+  }
+ ],
+ "fragments": {
+  "164921203": {
+   "fragment_id": "165096502",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 152/2013\n\nde 4 de novembro\n\nA Constituição de 1976 inscreveu no seu normativo as primeiras normas que viriam a dar suporte aos grandes pilares do, agora, chamado ensino particular e cooperativo, sendo que a Lei de Bases do Ensino Particular e Cooperativo, aprovada pela Lei n.º 9/79, de 19 de março, alterada pela Lei n.º 33/2012, de 23 de agosto, marca o início de todo esse processo. O ensino particular e cooperativo é uma componente essencial do sistema educativo português, constituindo um instrumento para a dinamização da inovação em educação.\n\nContudo, o Estatuto do Ensino Particular e Cooperativo de nível não superior, aprovado pelo Decreto-Lei n.º 553/80, de 21 de novembro, vigente há mais de 30 anos e objeto de sucessivas alterações, carece de uma atualização que regulamente e discipline a realidade atual do universo do ensino privado, historicamente denominado «Ensino Particular e Cooperativo».\n\nO referido Decreto-Lei n.º 553/80, de 21 de novembro, assentou num modelo de estrutura pedagógica muito dependente do sistema público de ensino. Corolário dessa realidade foi a consagração da figura do paralelismo pedagógico para os estabelecimentos que, por razões conjunturais, não dispunham de meios para organizarem o seu expediente interno e os seus serviços administrativos, designadamente em matéria de validação e certificação da avaliação final dos seus alunos, e que lhes impunha a necessidade de se socorrerem das escolas públicas com vista a esse fim.\n\nNeste contexto, o Estatuto do Ensino Particular e Cooperativo aprovado em anexo ao presente decreto-lei (Estatuto) pretende consagrar um modelo que, nessa matéria, rompe com o passado e abre caminho a uma nova realidade de uma autonomia semelhante à das escolas públicas com contrato de autonomia, que se pretende que seja progressivamente alargada à generalidade das escolas, cabendo ao Ministério da Educação e Ciência um papel cada vez mais focado na regulação e fiscalização do sistema educativo.\n\nO Estatuto agora aprovado alicerça-se nos princípios estruturantes que foram, nos últimos anos, objeto de debate e negociação com as entidades representativas do sector, e expurga os anacronismos ainda vigentes, em especial no que respeita às relações entre as escolas particulares e a tutela.\n\nEsta aspiração desenvolve-se em torno de cinco grandes vetores estruturantes, que estão em linha com a última alteração legislativa efetuada ao Decreto-Lei n.º 553/80, de 21 de novembro, através da Lei n.º 33/2012, de 23 de agosto, por força da necessidade de o adaptar à Diretiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de dezembro, relativa aos serviços no mercado interno. São eles, em primeiro lugar, a liberdade de ensino e a inerente liberdade de criação de escolas particulares, e o consequente compromisso de acompanhamento e supervisão do Estado, tendo por referência a tipologia de contratos existentes e a nova nomenclatura que, entretanto, foi sendo consolidada na ordem jurídica.\n\nPretende-se, assim, partindo do modelo existente, aprofundar e concretizar o princípio da integração na rede de oferta pública de educação, numa lógica de articulação de toda a rede de ensino, de forma a melhor atender às necessidades dos alunos, a otimizar o investimento público e aproveitar as capacidades instaladas, não constituindo prioridade do Estado a construção de equipamentos escolares nas zonas onde existe oferta.\n\nAlém dos contratos de associação, de patrocínio e dos contratos simples de apoio à família, são agora incorporados os contratos de desenvolvimento, destinados à promoção da educação pré-escolar e os contratos de cooperação, destinados a apoiar a escolarização de alunos com necessidades educativas especiais.\n\nEm segundo lugar, o Estatuto aperfeiçoa o modelo de financiamento criado pelo Decreto-Lei n.º 138-C/2010, de 28 de dezembro, e até aqui existente para os contratos de associação. Os contratos de associação, a regular por portaria, integram a rede de oferta pública de ensino, fazendo parte das opções oferecidas às famílias no âmbito da sua liberdade de escolha no ensino do seu educando.\n\nEm terceiro lugar, o Estatuto prevê a necessidade de aprovação de um novo modelo que discipline as condições de criação e funcionamento destes estabelecimentos, reconhecendo ao mesmo tempo o princípio da plena autonomia das escolas particulares e cooperativas nas suas várias vertentes, em especial na da autonomia pedagógica através da consagração da flexibilidade na gestão do currículo.\n\nPermite-se, assim, de acordo com o respetivo projeto educativo e tal como o consagram alguns contratos de autonomia das escolas públicas, que as escolas do ensino particular e cooperativo possam gerir, sem pôr em causa o cumprimento do número total de horas curriculares legalmente estabelecidas para cada ano, nível e modalidade de educação e ensino, uma percentagem significativa das horas definidas nas matrizes curriculares nacionais, conferindo-lhes o direito, entre outros, de criar e aplicar planos curriculares próprios ou de oferecer disciplinas de enriquecimento ou complemento do currículo.\n\nAinda no âmbito da autonomia assim concedida, torna-se verdadeiramente livre a transferência de alunos entre escolas independentemente da sua natureza jurídica. No mesmo sentido, como já se referiu, põe-se definitivamente fim à figura do paralelismo pedagógico, e em consequência à dependência relativamente às escolas públicas, ao mesmo tempo que se exige que as escolas do ensino particular e cooperativo sejam autónomas e autossuficientes.\n\nA autonomia pedagógica atribui a cada escola a liberdade de se organizar internamente de acordo com o seu projeto educativo. Neste sentido, aponta ainda o Estatuto para uma verdadeira liberdade de contratação de docentes, independência no tratamento das questões disciplinares e do correlativo poder disciplinar sobre esses mesmos docentes, excecionando a matéria relativa à avaliação externa dos alunos.\n\nEm quarto lugar, o presente decreto-lei agiliza a transmissibilidade da autorização de funcionamento, mediante o cumprimento de certas condições, a fixar, com rigor e precisão, tais como o cumprimento das condições legalmente exigíveis e a verificação dos requisitos legais relativos à entidade titular, para apenas referir as mais relevantes.\n\nEm quinto lugar, clarificam-se os princípios da divulgação da informação, da transparência, da contratualização e da avaliação de resultados educativos e de execução para a renovação dos contratos e atribuição de apoios, o que se pretende tanto na oferta do Estado como na oferta do ensino particular e cooperativo.\n\nForam ouvidas as associações representativas do ensino particular e cooperativo e as organizações sindicais da área da educação.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pelo n.º 2 do artigo 57.º da Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, alterada pelas Leis n.os 115/97, de 19 de setembro, 49/2005, de 30 de agosto, e 85/2009, de 27 de agosto, bem como do disposto no artigo 17.º da Lei de Bases do Ensino Particular e Cooperativo, aprovada pela Lei n.º 9/79, de 19 de março, alterada pela Lei n.º 33/2012, de 23 de agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "164921204": {
+   "fragment_id": "165096503",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei aprova o Estatuto do Ensino Particular e Cooperativo de nível não superior."
+  },
+  "164921205": {
+   "fragment_id": "165096504",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação do Estatuto do Ensino Particular e Cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação do Estatuto do Ensino Particular e Cooperativo\n\nÉ aprovado, em anexo ao presente decreto-lei, que dele faz parte integrante, o Estatuto do Ensino Particular e Cooperativo de nível não superior, doravante designado por Estatuto."
+  },
+  "164921206": {
+   "fragment_id": "165096505",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\nO Estatuto consagra o regime jurídico aplicável aos estabelecimentos de ensino particular e cooperativo de nível não superior."
+  },
+  "164921207": {
+   "fragment_id": "165096506",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípio da desburocratização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípio da desburocratização\n\n1 - Nos termos da alínea a) do n.º 1 do artigo 11.º do Decreto-Lei n.º 92/2010, de 26 de julho, não pode haver duplicação entre os pressupostos, requisitos ou condições de acesso à atividade de ensino particular e cooperativo em estabelecimento, e os requisitos e controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido em Portugal, ou noutro Estado membro.\n\n2 - O disposto no número anterior não é aplicável no que respeita ao cumprimento das condições diretamente referentes às instalações físicas localizadas em território nacional, nem aos respetivos controlos por autoridade competente.\n\n3 - Sem prejuízo do disposto nos números anteriores, o reconhecimento mútuo de requisitos relativos a qualificações rege-se pelo disposto na Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto."
+  },
+  "164921208": {
+   "fragment_id": "165096507",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípio da cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípio da cooperação administrativa\n\nAs autoridades competentes, nos termos do presente decreto-lei, participam na cooperação administrativa, no âmbito dos procedimentos relativos a prestadores de serviços provenientes de outro Estado membro, nos termos do disposto nos artigos 26.º a 29.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, nomeadamente através do sistema de informação do mercado interno."
+  },
+  "164921209": {
+   "fragment_id": "165096508",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma transitória\n\n1 - À data de entrada em vigor do presente decreto-lei, os educadores e professores das escolas do ensino particular e cooperativo mantêm todos os direitos que lhes foram reconhecidos ao abrigo de diplomas legais anteriores, nos exatos termos conferidos por esse reconhecimento.\n\n2 - Os apoios socioeducativos a que se refere o artigo 64.º do Estatuto aprovado em anexo ao presente decreto-lei aplicam-se aos alunos das escolas do ensino particular e cooperativo com contrato de associação, estendendo-se, progressivamente, aos alunos das restantes escolas do ensino particular e cooperativo, em função das disponibilidades orçamentais do Estado.\n\n3 - Até à aprovação de nova regulamentação no prazo de 180 dias, mantém-se em vigor a regulamentação aprovada na vigência da legislação anterior, em tudo aquilo que não seja contrariado pelo Estatuto ora aprovado.\n\n4 - Até à aprovação de um novo regime sancionatório, mantêm-se em vigor as disposições dos artigos 99.º a 99.º-M do Decreto-Lei n.º 553/80, de 21 de novembro, na redação dada pela Lei n.º 33/2012, de 23 de agosto, considerando-se feitas para as normas do Estatuto aprovado em anexo ao presente decreto-lei que tratem da mesma matéria as remissões para diplomas revogados."
+  },
+  "164921210": {
+   "fragment_id": "165096509",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma revogatória\n\nSem prejuízo do disposto no n.º 4 do artigo anterior, é revogado o Decreto-Lei n.º 553/80, de 21 de novembro."
+  },
+  "164921211": {
+   "fragment_id": "165096510",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no primeiro dia útil seguinte ao da sua publicação."
+  },
+  "164921213": {
+   "fragment_id": "165096512",
+   "type": 14,
+   "heading": "Anexo — Estatuto do Ensino Particular e Cooperativo de nível não superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatuto do Ensino Particular e Cooperativo de nível não superior\n\n(a que se refere o artigo 2.º)"
+  },
+  "164921214": {
+   "fragment_id": "165096513",
+   "type": 13,
+   "heading": "Título I — Princípios gerais e ação do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Princípios gerais e ação do Estado"
+  },
+  "164921215": {
+   "fragment_id": "165096514",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "164921216": {
+   "fragment_id": "165096515",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Estatuto do Ensino Particular e Cooperativo, doravante designado por Estatuto, rege, nos termos da Lei n.º 9/79, de 19 de março, alterada pela Lei n.º 33/2012, de 23 de agosto, a constituição, a organização e o funcionamento dos estabelecimentos de ensino particular e cooperativo de nível não superior."
+  },
+  "164921217": {
+   "fragment_id": "165096516",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente Estatuto aplica-se a todas as escolas do ensino particular e cooperativo de nível não superior com as exceções previstas no número seguinte.\n\n2 - O presente Estatuto não se aplica a:\n\na) Estabelecimentos de formação e cultura eclesiástica, cujo regime está previsto na Concordata entre a Santa Sé e o Estado Português, nem aos estabelecimentos de ensino destinados à formação de ministros pertencentes a outras confissões religiosas;\n\nb) Estabelecimentos de ensino que, exercendo a sua atividade no País, tenham sido regularmente instituídos, sejam mantidos por Estados estrangeiros e não adotem o sistema educativo português;\n\nc) Escolas de formação de quadros de partidos ou outras organizações políticas;\n\nd) Escolas profissionais privadas;\n\ne) Estabelecimentos em que se ministre ensino intensivo, o simples adestramento em qualquer técnica ou arte, o ensino prático das línguas ou a extensão cultural.\n\n3 - O presente Estatuto não se aplica ainda ao ensino individual e ao ensino doméstico.\n\n4 - A não aplicabilidade do presente Estatuto aos estabelecimentos e modalidades a que se referem os números anteriores não prejudica a sua aplicação subsidiária, com as necessárias adaptações, aos referidos estabelecimentos e modalidades, sempre que a regulamentação específica expressamente a preveja ou a não exclua."
+  },
+  "164921218": {
+   "fragment_id": "165096517",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\n1 - Para efeitos do disposto no presente Estatuto, consideram-se «estabelecimentos de ensino particular e cooperativo» as instituições criadas por pessoas singulares ou coletivas, com ou sem finalidade lucrativa, em que se ministre ensino coletivo a mais de cinco alunos ou em que se desenvolvam atividades regulares de carácter educativo ou formativo.\n\n2 - Para efeitos do disposto no n.º 3 do artigo anterior, considera-se:\n\na) «Ensino individual», aquele que é ministrado por um professor habilitado a um único aluno fora de um estabelecimento de ensino;\n\nb) «Ensino doméstico», aquele que é lecionado, no domicílio do aluno, por um familiar ou por pessoa que com ele habite."
+  },
+  "164921219": {
+   "fragment_id": "165096518",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios fundamentais\n\n1 - O Estado reconhece a liberdade de aprender e de ensinar, incluindo o direito dos pais à escolha e à orientação do processo educativo dos filhos.\n\n2 - O exercício da liberdade de ensino só pode ser restringido com fundamento em interesses públicos constitucionalmente protegidos e regulados por lei, concretizados em finalidades gerais da ação educativa.\n\n3 - É dever do Estado, no âmbito da política de apoio à família, instituir apoios financeiros destinados a custear as despesas com a educação dos filhos."
+  },
+  "164921220": {
+   "fragment_id": "165096519",
+   "type": 1,
+   "heading": "Capítulo II — Ação do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Ação do Estado"
+  },
+  "164921221": {
+   "fragment_id": "165096520",
+   "type": 8,
+   "heading": "Secção I — Atribuições e competência do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Atribuições e competência do Estado"
+  },
+  "164921222": {
+   "fragment_id": "165096521",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuições do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuições do Estado\n\nCabe ao Estado, no domínio do ensino particular e cooperativo de nível não superior:\n\na) Garantir a liberdade de criação e de funcionamento de estabelecimentos de ensino particular e cooperativo;\n\nb) Garantir a qualidade pedagógica e científica do ensino;\n\nc) Apoiar o acesso das famílias às escolas particulares e cooperativas, no âmbito da livre escolha."
+  },
+  "164921223": {
+   "fragment_id": "165096522",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências do Ministério da Educação e Ciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências do Ministério da Educação e Ciência\n\nPara a prossecução das atribuições estabelecidas no artigo anterior e sem prejuízo de outras competências legalmente previstas, compete ao Ministério da Educação e Ciência:\n\na) Apoiar as famílias no exercício dos seus direitos e no cumprimento dos seus deveres, relativamente aos seus educandos;\n\nb) Homologar a criação de estabelecimentos de ensino particular e cooperativo e autorizar o seu funcionamento;\n\nc) Fiscalizar o regular funcionamento dos estabelecimentos de ensino particular e cooperativo;\n\nd) Avaliar a qualidade pedagógica e científica do ensino;\n\ne) Incentivar a qualificação dos docentes e a sua formação contínua;\n\nf) Fomentar e apoiar o desenvolvimento da melhoria pedagógica nos estabelecimentos de ensino particular e cooperativo com vista ao sucesso dos alunos;\n\ng) Acompanhar a realização de experiências pedagógicas e a criação de cursos com currículos e planos de estudo próprios;\n\nh) Proporcionar apoio técnico e pedagógico aos estabelecimentos de ensino particular e cooperativo, quando solicitado;\n\ni) Permitir o acesso das famílias às escolas particulares e cooperativas, através da celebração de contratos e da concessão de apoios financeiros, bem como zelar pela sua correta aplicação, permitindo progressivamente o acesso às escolas particulares em condições idênticas às das escolas públicas;\n\nj) Fiscalizar o cumprimento da lei e aplicar as sanções nela previstas em caso de infração."
+  },
+  "164921224": {
+   "fragment_id": "165096523",
+   "type": 8,
+   "heading": "Secção II — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Fiscalização"
+  },
+  "164921225": {
+   "fragment_id": "165096524",
+   "type": 11,
+   "heading": "Artigo 7.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fiscalização\n\n1 - As escolas particulares e cooperativas estão sujeitas à fiscalização do Ministério da Educação e Ciência (MEC).\n\n2 - Sem prejuízo do disposto no n.º 9 do artigo 10.º, a Inspeção-Geral da Educação e Ciência (IGEC) procede regularmente a ações de fiscalização às escolas particulares e cooperativas.\n\n3 - Para efeitos das ações de fiscalização referidas no número anterior, a IGEC exerce, com as necessárias adaptações, as mesmas competências que lhe estão cometidas em relação às escolas públicas."
+  },
+  "164921226": {
+   "fragment_id": "165096525",
+   "type": 8,
+   "heading": "Secção III — Contratos e apoio à família",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Contratos e apoio à família"
+  },
+  "164921227": {
+   "fragment_id": "165096526",
+   "type": 3,
+   "heading": "Subsecção I — Contratos de apoio à família",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Contratos de apoio à família"
+  },
+  "164921228": {
+   "fragment_id": "165096527",
+   "type": 11,
+   "heading": "Artigo 12.º — Contratos simples de apoio à família",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contratos simples de apoio à família\n\n1 - No exercício do direito de opção educativa das famílias, os contratos simples de apoio à família têm por objetivo permitir condições de frequência em escolas do ensino particular e cooperativo, por parte dos alunos do ensino básico e do ensino secundário não abrangidos por outros contratos.\n\n2 - O apoio financeiro a conceder pelo Estado é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n3 - A portaria a que se refere o número anterior deve:\n\na) Estabelecer os critérios para a atribuição dos apoios financeiros às famílias;\n\nb) Fixar o valor do apoio financeiro, com base no princípio do financiamento anual por aluno, tendo em consideração os custos correspondentes das escolas públicas de nível e grau equivalentes e a diferenciação do financiamento de acordo com a condição económica do agregado familiar;\n\nc) Estabelecer, quanto a novos contratos plurianuais a celebrar ou a renovar para um novo ciclo de formação, as formalidades e os prazos dos processos de candidatura, bem como os prazos de comunicação dos dados relevantes para o apuramento do apoio financeiro a conceder, tendo em conta os calendários do ano letivo, devendo as comunicações realizar-se preferencialmente por meios eletrónicos;\n\nd) Estabelecer, quanto aos contratos em execução, o procedimento e o prazo para a sua renovação, bem como para a comunicação dos dados relevantes para o apuramento do apoio financeiro a conceder, designadamente o número de alunos abrangidos, devendo as comunicações realizar-se preferencialmente por meios eletrónicos;\n\ne) Estabelecer os termos em que o apoio financeiro é processado às escolas titulares de contrato, designadamente quanto à periodicidade e ao meio de pagamento do mesmo.\n\n4 - O Estado assegura o apoio financeiro concedido ao abrigo do contrato simples de apoio à família enquanto o aluno se mantiver na escola e até à conclusão do ciclo de ensino pelos alunos por ele abrangidos."
+  },
+  "164921229": {
+   "fragment_id": "165096528",
+   "type": 11,
+   "heading": "Artigo 13.º — Obrigações dos estabelecimentos relativas aos contratos simples de apoio à família",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigações dos estabelecimentos relativas aos contratos simples de apoio à família\n\n1 - Além das obrigações estabelecidas no artigo 11.º, as escolas que beneficiarem de contratos simples de apoio à família obrigam-se a divulgar o regime de contrato, a estabelecer as propinas e mensalidades nos termos acordados.\n\n2 - As entidades beneficiárias obrigam-se, ainda, a:\n\na) Facultar a frequência do estabelecimento de ensino aos alunos com direito a redução das mensalidades, nos termos acordados com o Estado;\n\nb) Enviar aos serviços competentes do Ministério da Educação e Ciência todos os elementos solicitados, de acordo com a legislação em vigor ao tempo da vigência do contrato, com vista à organização dos processos de concessão do apoio financeiro decorrente da celebração do mesmo;\n\nc) Fazer prova das verbas concedidas pelo Ministério da Educação e Ciência, mediante a apresentação de documento assinado pelo encarregado de educação beneficiário, condição necessária para a renovação dos contratos;\n\nd) Comunicar, no prazo máximo de 10 dias úteis, aos serviços competentes do Ministério da Educação e Ciência a desistência de algum aluno beneficiário de apoio financeiro;\n\ne) Cumprir os planos de estudo autorizados pelo Ministério da Educação e Ciência;\n\nf) Ter em vigor o seguro escolar que cubra os alunos beneficiários do contrato;\n\ng) Cumprir as demais obrigações contratualmente assumidas."
+  },
+  "164921230": {
+   "fragment_id": "165096529",
+   "type": 11,
+   "heading": "Artigo 14.º — Contratos de desenvolvimento de apoio à família",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Contratos de desenvolvimento de apoio à família\n\n1 - Os contratos de desenvolvimento de apoio à família destinam-se à promoção da educação pré-escolar e têm por objetivo o apoio às famílias, através da concessão de apoios financeiros.\n\n2 - O apoio financeiro a conceder pelo Estado é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n3 - A portaria a que se refere o número anterior deve:\n\na) Estabelecer os critérios para a atribuição dos apoios financeiros às famílias;\n\nb) Fixar o valor do apoio financeiro, com base no princípio do financiamento anual por criança, tendo em consideração os custos correspondentes das escolas públicas de nível e grau equivalentes e a diferenciação do financiamento de acordo com a condição económica do agregado familiar;\n\nc) Estabelecer, quanto a novos contratos plurianuais a celebrar ou a renovar para um novo ciclo de formação, as formalidades e os prazos dos processos de candidatura, bem como os prazos de comunicação dos dados relevantes para o apuramento do apoio financeiro a conceder, tendo em conta os calendários do ano letivo, devendo as comunicações realizar-se preferencialmente por meios eletrónicos;\n\nd) Estabelecer, quanto aos contratos em execução, o procedimento e o prazo para a sua renovação, bem como para a comunicação dos dados relevantes para o apuramento do apoio financeiro a conceder, designadamente o número de crianças abrangidas, devendo as comunicações realizar-se preferencialmente por meios eletrónicos;\n\ne) Estabelecer os termos em que o apoio financeiro é processado às escolas titulares de contrato, designadamente quanto à periodicidade e ao meio de pagamento do mesmo."
+  },
+  "164921231": {
+   "fragment_id": "165096530",
+   "type": 11,
+   "heading": "Artigo 15.º — Obrigações dos estabelecimentos relativas aos contratos de desenvolvimento de apoio à família",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Obrigações dos estabelecimentos relativas aos contratos de desenvolvimento de apoio à família\n\n1 - Os estabelecimentos titulares de contratos de desenvolvimento de apoio à família ficam obrigados a divulgar o regime do contrato e a prestar esclarecimentos aos encarregados de educação sobre os critérios de apoio financeiro a atribuir.\n\n2 - Os estabelecimentos titulares de contratos de desenvolvimento de apoio à família ficam, ainda, obrigados a entregar, de imediato, aos encarregados de educação beneficiários do apoio financeiro concedido os montantes recebidos dos serviços competentes do Ministério da Educação e Ciência logo após a sua receção.\n\n3 - Os estabelecimentos titulares de contratos de desenvolvimento de apoio à família obrigam-se, ainda, a:\n\na) Facultar a frequência do estabelecimento de educação pré-escolar aos educandos com direito a redução das mensalidades, nos termos acordados com o Estado;\n\nb) Enviar aos serviços competentes do Ministério da Educação e Ciência todos os elementos solicitados, de acordo com a legislação em vigor ao tempo da vigência do contrato, com vista à organização dos processos de concessão do apoio financeiro decorrente da celebração do mesmo;\n\nc) Fazer prova das verbas concedidas pelo Ministério da Educação e Ciência, mediante a apresentação de documento assinado pelo encarregado de educação beneficiário, com vista à renovação do contrato;\n\nd) Comunicar, no prazo máximo de 10 dias úteis, aos serviços competentes do Ministério da Educação e Ciência a desistência de alguma criança beneficiária de apoio financeiro;\n\ne) Assegurar e garantir o seguro escolar das crianças;\n\nf) Cumprir as demais obrigações contratualmente assumidas."
+  },
+  "164921232": {
+   "fragment_id": "165096531",
+   "type": 3,
+   "heading": "Subsecção II — Contratos de associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Contratos de associação"
+  },
+  "164921233": {
+   "fragment_id": "165096532",
+   "type": 11,
+   "heading": "Artigo 16.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Natureza jurídica\n\n1 - Os contratos de associação têm por fim possibilitar a frequência das escolas do ensino particular e cooperativo em condições idênticas às do ensino ministrado nas escolas públicas, no respeito pela especificidade do respetivo projeto educativo.\n\n2 - Os contratos de associação são celebrados com escolas particulares ou cooperativas, com vista à criação de oferta pública de ensino, ficando estes estabelecimentos de ensino obrigados a aceitar a matrícula de todos os alunos até ao limite da sua lotação, seguindo as prioridades idênticas às estabelecidas para as escolas públicas.\n\n3 - Os contratos e as inerentes condições de frequência previstos no presente artigo podem abranger apenas uma parte da lotação da escola."
+  },
+  "164921234": {
+   "fragment_id": "165096533",
+   "type": 11,
+   "heading": "Artigo 17.º — Modalidades de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Modalidades de apoio\n\n1 - O Estado concede às escolas que celebrem contratos de associação um apoio financeiro, que consiste na atribuição de uma verba, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n2 - O Estado assegura a manutenção do contrato até à conclusão do ciclo de ensino pelas turmas ou alunos por ele abrangidas.\n\n3 - A portaria a que se refere o n.º 1 deve:\n\na) Estabelecer os critérios para a atribuição dos apoios financeiros;\n\nb) Fixar o valor do apoio financeiro, com base no princípio do financiamento anual por aluno, tendo em consideração os custos das escolas públicas de nível, grau e modalidade de educação e formação equivalentes;\n\nc) Estabelecer, quanto a novos contratos plurianuais a celebrar ou quanto à extensão dos contratos existentes a um novo ciclo de ensino, as formalidades e os prazos dos processos de candidatura, bem como os prazos de comunicação dos dados relevantes para o apuramento do apoio financeiro a conceder, tendo em conta os calendários do ano letivo, devendo as comunicações realizar-se preferencialmente por meios eletrónicos;\n\nd) Estabelecer, quanto aos contratos em execução, o procedimento e o prazo para a sua renovação, bem como para a comunicação dos dados relevantes para o apuramento do apoio financeiro a conceder, designadamente o número de alunos e turmas constituídas, devendo as comunicações realizar-se preferencialmente por meios eletrónicos;\n\ne) Estabelecer os termos em que o apoio financeiro é processado às escolas beneficiárias de contrato, designadamente quanto à periodicidade e ao meio de pagamento do mesmo."
+  },
+  "164921235": {
+   "fragment_id": "165096534",
+   "type": 11,
+   "heading": "Artigo 18.º — Obrigações dos estabelecimentos relativas aos contratos de associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigações dos estabelecimentos relativas aos contratos de associação\n\nOs contratos de associação obrigam as escolas a:\n\na) Garantir a frequência do ensino a todas as crianças e jovens em idade escolar, em condições idênticas às das escolas públicas;\n\nb) Divulgar o regime de contrato e a modalidade do ensino ministrado;\n\nc) Garantir a matrícula aos interessados até ao limite da lotação do estabelecido no respetivo contrato de associação, de acordo com as preferências definidas no despacho sobre matrículas;\n\nd) Cumprir os planos de estudos e demais regulamentação aplicável, nos termos previstos no presente Estatuto;\n\ne) Aceitar, a título condicional, as matrículas que ultrapassem a sua capacidade, comunicando-as aos serviços competentes do Ministério da Educação e Ciência;\n\nf) Entregar aos serviços competentes do Ministério da Educação e Ciência o balanço e contas anuais do ano anterior depois de aprovados pelo órgão social competente;\n\ng) Cumprir as demais obrigações contratualmente assumidas."
+  },
+  "164921236": {
+   "fragment_id": "165096535",
+   "type": 3,
+   "heading": "Subsecção III — Contratos de patrocínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Contratos de patrocínio"
+  },
+  "164921237": {
+   "fragment_id": "165096536",
+   "type": 11,
+   "heading": "Artigo 19.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Natureza jurídica\n\n1 - O Estado pode celebrar com as entidades proprietárias de estabelecimentos de ensino particular contratos de patrocínio, quando a ação pedagógica, o interesse pelos cursos, o nível dos programas, os métodos e os meios de ensino ou a qualidade do pessoal docente o justifiquem.\n\n2 - Os contratos de patrocínio têm por fim estimular e apoiar o ensino em domínios não abrangidos, ou insuficientemente abrangidos, pela rede pública, a criação de cursos com planos próprios e a melhoria pedagógica.\n\n3 - Os contratos de patrocínio destinam-se ainda a promover a articulação entre diferentes modalidades de ensino especializado, designadamente artístico, desportivo ou tecnológico e o ensino regular, nomeadamente ao nível da gestão curricular e do modelo de funcionamento, tendo em vista a respetiva otimização."
+  },
+  "164921238": {
+   "fragment_id": "165096537",
+   "type": 11,
+   "heading": "Artigo 20.º — Apoio do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Apoio do Estado\n\n1 - Nos contratos de patrocínio, o Estado obriga-se a conceder um apoio financeiro, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação, e a acompanhar a ação pedagógica das escolas.\n\n2 - Nas situações previstas no n.º 3 do artigo anterior, o contrato prevê ainda:\n\na) O reconhecimento do valor oficial aos títulos e diplomas passados por essas escolas;\n\nb) A equivalência dos cursos ministrados, tendo por referência os percursos formativos nacionais;\n\nc) As regras de transferência dos alunos destes cursos para cursos com diferentes planos de estudos;\n\nd) Regras relativas à definição e cobrança de propinas, taxas ou outros valores, nos termos previstos no presente Estatuto.\n\n3 - O Estado assegura que o contrato de patrocínio é mantido até à conclusão do ciclo de ensino pelas turmas e pelos alunos por ele abrangidos.\n\n4 - A portaria a que se refere o n.º 1 deve:\n\na) Fixar o valor do apoio financeiro, com base no princípio do financiamento anual por turma ou por aluno;\n\nb) Estabelecer, quanto a novos contratos plurianuais a celebrar ou a renovar para um novo ciclo de ensino, as formalidades e os prazos dos processos de candidatura, bem como os prazos de comunicação dos dados relevantes para o apuramento do apoio financeiro a conceder, tendo em conta os calendários do ano letivo, devendo as comunicações realizar-se preferencialmente por meios eletrónicos;\n\nc) Estabelecer, quanto aos contratos em execução, o procedimento e o prazo para a sua renovação, bem como para a comunicação dos dados relevantes para o apuramento do apoio financeiro a conceder, designadamente o número de alunos abrangidos ou de turmas constituídas, devendo as comunicações realizar-se preferencialmente por meios eletrónicos;\n\nd) Estabelecer os termos em que o apoio financeiro concedido é processado às escolas beneficiárias de contrato, designadamente quanto à periodicidade e ao meio de pagamento do mesmo."
+  },
+  "164921239": {
+   "fragment_id": "165096538",
+   "type": 11,
+   "heading": "Artigo 21.º — Obrigações dos estabelecimentos relativas aos contratos de patrocínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Obrigações dos estabelecimentos relativas aos contratos de patrocínio\n\n1 - Os contratos de patrocínio obrigam os estabelecimentos de ensino a divulgar, com carácter obrigatório e permanente, o regime de contrato, a estabelecer as propinas e mensalidades nos termos acordados e a entregar nos serviços competentes do Ministério da Educação e Ciência o balanço e contas anuais, depois de aprovados pelo órgão social competente.\n\n2 - No ato da matrícula, os estabelecimentos de ensino beneficiários dos contratos de patrocínio estão obrigados a informar por escrito os encarregados de educação sobre as condições de participação assumidas pelo Ministério da Educação e Ciência, no financiamento dos cursos e regimes de frequência."
+  },
+  "164921240": {
+   "fragment_id": "165096539",
+   "type": 3,
+   "heading": "Subsecção IV — Contratos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Contratos de cooperação"
+  },
+  "164921241": {
+   "fragment_id": "165096540",
+   "type": 11,
+   "heading": "Artigo 22.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Âmbito de aplicação\n\nOs contratos de cooperação são celebrados com os estabelecimentos de ensino particular e cooperativo que se dedicam à escolarização de alunos com necessidades educativas especiais decorrentes de deficiências graves ou completas, as quais, comprovadamente, requerem respostas inexistentes nas escolas do ensino regular."
+  },
+  "164921242": {
+   "fragment_id": "165096541",
+   "type": 11,
+   "heading": "Artigo 23.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Natureza jurídica\n\nOs contratos de cooperação consistem na concessão e atribuição do apoio financeiro necessário com vista a assegurar a escolarização de alunos com necessidades educativas especiais nos termos do disposto no artigo anterior."
+  },
+  "164921243": {
+   "fragment_id": "165096542",
+   "type": 11,
+   "heading": "Artigo 24.º — Apoios do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Apoios do Estado\n\n1 - O Estado fixa as condições de concessão e atribuição do apoio financeiro aos estabelecimentos de ensino particular e cooperativo de educação especial, em portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n2 - O apoio financeiro destina-se a:\n\na) Satisfazer encargos com os vencimentos de pessoal;\n\nb) Comparticipação nas despesas de funcionamento com os alunos, incluindo o seguro escolar;\n\nc) Complementar os apoios da ação social escolar nas despesas com alimentação, transporte e material didático e escolar.\n\n3 - A portaria a publicar nos termos do n.º 1 define as condições de comparticipação do Estado com vista a garantir a gratuitidade de ensino aos alunos dentro da escolaridade obrigatória."
+  },
+  "164921244": {
+   "fragment_id": "165096543",
+   "type": 13,
+   "heading": "Título II — Estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Estabelecimentos"
+  },
+  "164921245": {
+   "fragment_id": "165096544",
+   "type": 1,
+   "heading": "Capítulo I — Criação e funcionamento dos estabelecimentos de ensino particular e cooperativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Criação e funcionamento dos estabelecimentos de ensino particular e cooperativo"
+  },
+  "164921246": {
+   "fragment_id": "165096545",
+   "type": 8,
+   "heading": "Secção I — Requisitos para a criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Requisitos para a criação"
+  },
+  "164921247": {
+   "fragment_id": "165096546",
+   "type": 11,
+   "heading": "Artigo 25.º — Liberdade de criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Liberdade de criação\n\n1 - É livre a criação de escolas do ensino particular e cooperativo por pessoas singulares ou coletivas, nos termos previstos no presente Estatuto.\n\n2 - Cada escola de ensino particular ou cooperativo pode destinar-se a um ou vários níveis de ensino, constituindo cada um deles um ciclo de estudos completo.\n\n3 - É permitida a abertura de escolas só com o primeiro ou primeiros anos de um ciclo ou curso, sob compromisso de imediata continuidade dos anos subsequentes.\n\n4 - Cada escola pode funcionar num único edifício ou num edifício sede e secções, polos ou delegações."
+  },
+  "164921248": {
+   "fragment_id": "165096547",
+   "type": 11,
+   "heading": "Artigo 26.º — Requisitos de idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Requisitos de idoneidade\n\n1 - As pessoas singulares que, nos termos do presente Estatuto, requeiram a criação de escolas do ensino particular ou cooperativo devem provar a idoneidade civil pela junção de certificado de registo criminal, ou respetiva cópia certificada, devidamente traduzido de forma certificada, caso o seu teor não esteja redigido em língua portuguesa ou inglesa.\n\n2 - As pessoas coletivas que, nos termos previstos no presente Estatuto, requeiram a criação de escolas do ensino particular ou cooperativo devem fornecer o código de consulta da certidão permanente de registo comercial, bem como o certificado de registo criminal de todos os membros da sua administração.\n\n3 - Em caso de transmissão da autorização por ato entre vivos, o adquirente ou os novos detentores do capital social, sejam ou não administradores, devem provar igualmente a idoneidade civil nos termos exigidos no n.º 1 para as pessoas singulares."
+  },
+  "164921249": {
+   "fragment_id": "165096548",
+   "type": 11,
+   "heading": "Artigo 27.º — Pressupostos de autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pressupostos de autorização de funcionamento\n\n1 - A concessão da autorização de funcionamento de estabelecimentos de ensino particular e cooperativo, além do preenchimento das condições para o exercício das autonomias, designadamente a pedagógica, estabelecida no artigo 36.º, exige ainda o cumprimento dos seguintes pressupostos:\n\na) Projeto educativo próprio e regulamento interno;\n\nb) Instalações, equipamento e material didático adequados ao número de alunos, disciplinas, percursos e modalidades educativas e formativas a oferecer, de acordo com os requisitos mínimos de referência para as situações em causa;\n\nc) Direção pedagógica, constituída nos termos dos artigos 38.º e seguintes;\n\nd) Cumprimento do presente Estatuto, no respeitante aos alunos e pessoal docente;\n\ne) Existência de serviços administrativos adequados;\n\nf) Ser garantido o elevado nível pedagógico e científico do estabelecimento.\n\n2 - O projeto educativo, o regulamento interno e suas alterações devem estar acessíveis publicamente e ser devidamente informados aos encarregados de educação e aos alunos, quando maiores de idade, em especial, no momento da matrícula ou da sua renovação, devendo ainda ser enviados, para conhecimento, aos serviços competentes do Ministério da Educação e Ciência.\n\n3 - Os polos, secções ou delegações obedecem aos requisitos de instalações, equipamento e material didático definidos na alínea b) do n.º 1."
+  },
+  "164921250": {
+   "fragment_id": "165096549",
+   "type": 8,
+   "heading": "Secção II — Denominação e homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Denominação e homologação"
+  },
+  "164921251": {
+   "fragment_id": "165096550",
+   "type": 11,
+   "heading": "Artigo 28.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Denominação\n\n1 - Cada escola deve adotar uma denominação que permita individualizá-la e evite a confusão com outras escolas públicas ou particulares.\n\n2 - As secções, polos ou delegações devem identificar claramente esse estatuto.\n\n3 - As alterações de denominação dos estabelecimentos de ensino particular ou cooperativo carecem de autorização, a conceder por despacho do membro do Governo responsável pela área da educação, no prazo de 20 dias a contar da apresentação regular do respetivo requerimento, após o que se considera o pedido tacitamente deferido."
+  },
+  "164921252": {
+   "fragment_id": "165096551",
+   "type": 11,
+   "heading": "Artigo 29.º — Homologação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Homologação\n\nA criação de estabelecimentos de ensino particular e cooperativo carece de despacho de homologação do membro do Governo responsável pela área da educação."
+  },
+  "164921253": {
+   "fragment_id": "165096552",
+   "type": 8,
+   "heading": "Secção III — Autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Autorização de funcionamento"
+  },
+  "164921254": {
+   "fragment_id": "165096553",
+   "type": 11,
+   "heading": "Artigo 30.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Prazos\n\n1 - A autorização de funcionamento deve ser requerida aos serviços competentes do MEC até 28 de fevereiro de cada ano, com vista ao ano escolar seguinte.\n\n2 - O pedido de autorização referido no número anterior deve ser decidido e comunicado no prazo de 60 dias, findo o qual se considera o mesmo tacitamente deferido, devendo, neste caso, o requerente comunicar à autoridade competente o início de funcionamento do estabelecimento em causa.\n\n3 - A autorização de funcionamento só pode ser recusada com fundamento na inadequação das condições materiais ou pedagógicas, nomeadamente o cumprimento dos pressupostos previstos no artigo 27.º"
+  },
+  "164921255": {
+   "fragment_id": "165096554",
+   "type": 11,
+   "heading": "Artigo 31.º — Comunicações oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Comunicações oficiais\n\n1 - Todos os pedidos, comunicações e notificações relacionados com a atividade de ensino particular entre os interessados e outros intervenientes nos procedimentos previstos no presente Estatuto devem ser efetuados através do balcão único eletrónico dos serviços ou de outras plataformas eletrónicas disponibilizadas para o efeito.\n\n2 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível."
+  },
+  "164921256": {
+   "fragment_id": "165096555",
+   "type": 11,
+   "heading": "Artigo 32.º — Modalidades de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Modalidades de autorização\n\n1 - A autorização de funcionamento de uma escola particular especifica a denominação da escola, as modalidades e níveis de educação e formação, os edifícios e localidades onde é ministrado, o nome da entidade requerente e o diretor pedagógico ou presidente da direção pedagógica, bem como a lotação global e a outorga das prerrogativas das pessoas coletivas de utilidade pública, nos termos do disposto no artigo seguinte.\n\n2 - A autorização das escolas com cursos ou planos próprios deve conter os requisitos dos cursos e respetivos currículos e programas, bem como a respetiva equivalência aos percursos escolares nacionais.\n\n3 - A autorização pode ser provisória ou definitiva.\n\n4 - A autorização é provisória quando for necessário corrigir deficiências das condições técnicas e pedagógicas.\n\n5 - A autorização provisória é válida por um ano, pode ser renovada por três vezes e deve especificar as condições e requisitos a satisfazer bem os respetivos prazos.\n\n6 - Se, após o prazo referido no número anterior, as deficiências não se mostrarem sanadas, o serviço competente propõe ao membro do Governo responsável pela área da educação o encerramento da escola ou estabelecimento.\n\n7 - A autorização é definitiva sempre que estejam preenchidos os requisitos e verificadas as condições exigíveis.\n\n8 - As escolas particulares autorizadas nos termos do presente Estatuto integram a rede de entidades formadoras do Sistema Nacional de Qualificações, nos termos do n.º 1 do artigo 16.º do Decreto-Lei n.º 396/2007, de 31 de dezembro."
+  },
+  "164921257": {
+   "fragment_id": "165096556",
+   "type": 11,
+   "heading": "Artigo 33.º — Reconhecimento de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Reconhecimento de interesse público\n\nAs escolas particulares e cooperativas que se enquadrem nos objetivos do sistema educativo e formativo português e se encontrem em situação de regular funcionamento nos termos do presente Estatuto, bem como as sociedades, associações ou fundações que tenham como finalidade dominante a criação ou manutenção de estabelecimentos de ensino particular e cooperativo, podem gozar, nos termos da legislação aplicável, das prerrogativas das pessoas coletivas de utilidade pública, beneficiando dos direitos e deveres inerentes àquele reconhecimento, previstos na lei."
+  },
+  "164921258": {
+   "fragment_id": "165096557",
+   "type": 11,
+   "heading": "Artigo 34.º — Início de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Início de funcionamento\n\nNenhum estabelecimento de ensino particular pode iniciar o funcionamento antes de lhe ser comunicada a autorização ou, caso não o seja, antes do decurso do prazo referido no n.º 2 do artigo 30.º"
+  },
+  "164921259": {
+   "fragment_id": "165096558",
+   "type": 8,
+   "heading": "Secção IV — Transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Transmissão"
+  },
+  "164921260": {
+   "fragment_id": "165096559",
+   "type": 11,
+   "heading": "Artigo 35.º — Transmissibilidade da autorização de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transmissibilidade da autorização de funcionamento\n\n1 - A transmissão da autorização por ato entre vivos é possível desde que se encontrem reunidos os seguintes requisitos:\n\na) Apresentação dos requisitos materiais, pedagógicos e humanos, bem como de todas as condições legalmente exigíveis para a concessão da autorização de funcionamento;\n\nb) Verificação dos requisitos legais relativos à entidade titular, nomeadamente os pressupostos previstos no artigo 27.º\n\n2 - A autorização é transmissível por morte, desde que o herdeiro ou legatário reúna os requisitos necessários para a requerer ou ofereça quem os reúna.\n\n3 - No caso do número anterior, o herdeiro ou legatário deve requerer a autorização em seu nome, no prazo de 90 dias após a morte do titular."
+  },
+  "164921261": {
+   "fragment_id": "165096560",
+   "type": 8,
+   "heading": "Secção V — Autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Autonomia"
+  },
+  "164921262": {
+   "fragment_id": "165096561",
+   "type": 11,
+   "heading": "Artigo 36.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Âmbito\n\nNo âmbito do seu projeto educativo, as escolas do ensino particular e cooperativo gozam de autonomia pedagógica, administrativa e financeira."
+  },
+  "164921263": {
+   "fragment_id": "165096562",
+   "type": 11,
+   "heading": "Artigo 37.º — Autonomia pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Autonomia pedagógica\n\n1 - A autonomia pedagógica consiste no direito reconhecido às escolas de tomar decisões próprias nos domínios da organização e funcionamento pedagógicos, designadamente da oferta formativa, da gestão de currículos, programas e atividades educativas, da avaliação, orientação e acompanhamento dos alunos, constituição de turmas, gestão dos espaços e tempos escolares e da gestão do pessoal docente.\n\n2 - A autonomia pedagógica reconhecida às escolas particulares e cooperativas inclui, nos termos e com os limites previstos no presente Estatuto e nos contratos celebrados com o Estado, representado pelo Ministério da Educação e Ciência, a competência para decidir quanto a:\n\na) Aprovação de projeto educativo e regulamento interno próprios;\n\nb) Organização interna, nomeadamente ao nível dos órgãos de direção e gestão pedagógica, sem prejuízo das regras imperativas previstas no presente Estatuto;\n\nc) Organização e funcionamento pedagógico, quanto a projeto curricular, planos de estudo e conteúdos programáticos;\n\nd) Avaliação de conhecimentos, no respeito pelas regras definidas a nível nacional quanto à avaliação externa e avaliação final de cursos, graus, níveis e modalidades de educação, ensino e formação;\n\ne) Orientação metodológica e adoção de instrumentos escolares;\n\nf) Matrícula, emissão de diplomas e certificados de matrícula, de aproveitamento e de habilitações;\n\ng) Calendário escolar e organização dos tempos e horário escolar.\n\n3 - No âmbito da respetiva autonomia, e sem prejuízo do cumprimento integral das cargas letivas totais definidas na lei para cada ano, ciclo, nível e modalidade de educação e formação, é permitido às escolas do ensino particular e cooperativo, em condições idênticas às escolas públicas com contrato de autonomia, a gestão flexível do currículo, nos termos a fixar em portaria do membro do Governo responsável pela área da educação.\n\n4 - As escolas do ensino particular e cooperativo devem assegurar a informação prévia anual dos encarregados de educação sobre as opções tomadas nos termos do número anterior.\n\n5 - Os regulamentos das escolas com cursos e planos próprios devem conter as regras a que obedece a inscrição ou admissão de alunos, a idade mínima para a frequência, as normas de assiduidade e os critérios de avaliação.\n\n6 - O projeto educativo, o regulamento e as suas alterações devem ser enviados, para conhecimento, aos serviços competentes do Ministério da Educação e Ciência."
+  },
+  "164921264": {
+   "fragment_id": "165096563",
+   "type": 1,
+   "heading": "Capítulo II — Entidade titular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Entidade titular"
+  },
+  "164921265": {
+   "fragment_id": "165096564",
+   "type": 8,
+   "heading": "Secção I — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direitos e deveres"
+  },
+  "164921266": {
+   "fragment_id": "165096565",
+   "type": 11,
+   "heading": "Artigo 38.º — Competências da entidade titular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Competências da entidade titular\n\n1 - Às entidades titulares de autorização de funcionamento de escolas do ensino particular e cooperativo compete:\n\na) Definir orientações gerais para a escola;\n\nb) Assegurar os investimentos necessários ao normal funcionamento do estabelecimento;\n\nc) Representar a escola em todos os assuntos de natureza administrativa e financeira;\n\nd) Responder pela correta aplicação dos apoios financeiros recebidos;\n\ne) Estabelecer a organização administrativa e as condições de funcionamento da escola;\n\nf) Assegurar a contratação e a gestão do pessoal;\n\ng) Prestar ao Ministério da Educação e Ciência as informações que este, nos termos da lei, solicitar;\n\nh) Assegurar a divulgação pública do projeto educativo, das condições de ensino e os resultados académicos obtidos pela escola, nomeadamente nas provas e exames nacionais, e tornar públicas as demais informações necessárias a uma escolha informada a ser feita pelas famílias e pelos alunos;\n\ni) Manter registos escolares dos alunos, em condições de autenticidade e segurança;\n\nj) Cumprir as demais obrigações impostas por lei.\n\n2 - As competências previstas no número anterior podem ser exercidas diretamente pelas entidades titulares, ou através de representante ou representantes por elas designados, nos termos dos respetivos estatutos.\n\n3 - O incumprimento do disposto no presente artigo é punível nos termos do n.º 4 do artigo 6.º do decreto-lei que aprova o presente Estatuto."
+  },
+  "164921267": {
+   "fragment_id": "165096566",
+   "type": 11,
+   "heading": "Artigo 39.º — Transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Transparência\n\n1 - A publicidade das escolas do ensino particular e cooperativo deve respeitar a ética e a dignidade da ação educativa, visando uma informação correta da sua atividade e dos seus resultados com escrupuloso respeito pela verdade.\n\n2 - As escolas do ensino particular e cooperativo devem disponibilizar no seu sítio na Internet ou por outro meio que permita a divulgação pública informação rigorosa e suficiente sobre os seguintes aspetos:\n\na) Autorização de funcionamento;\n\nb) Projeto educativo da escola e o respetivo regulamento interno;\n\nc) Modalidades e níveis de ensino ministrados e oferta formativa;\n\nd) Órgãos de direção da escola;\n\ne) Corpo docente;\n\nf) Direitos e deveres dos alunos, incluindo as mensalidades e demais encargos devidos pelos alunos."
+  },
+  "164921268": {
+   "fragment_id": "165096567",
+   "type": 8,
+   "heading": "Secção II — Direção pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direção pedagógica"
+  },
+  "164921269": {
+   "fragment_id": "165096568",
+   "type": 11,
+   "heading": "Artigo 40.º — Natureza e função",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Natureza e função\n\n1 - Em cada escola de ensino particular ou cooperativo tem que existir uma direção pedagógica, designada pela entidade titular da autorização.\n\n2 - A direção pedagógica pode ser singular ou colegial.\n\n3 - A direção pedagógica é colegial sempre que, além da sede, a escola funcione também em secções, polos ou delegações.\n\n4 - Para os efeitos previstos no n.º 1, considera-se a mesma escola aquela que, independentemente do número de edifícios e localidades onde funciona, se rege pelo mesmo projeto educativo e é detentora de uma única autorização de funcionamento.\n\n5 - O exercício do cargo de diretor pedagógico ou de presidente da direção pedagógica é incompatível com o exercício do mesmo cargo numa outra escola.\n\n6 - Ao diretor pedagógico ou ao presidente da direção pedagógica são exigidas qualificações académicas de nível superior e habilitações profissionais adequadas ou, em substituição destas últimas, experiência pedagógica de, pelo menos, três anos.\n\n7 - O exercício de funções de direção pedagógica é equiparável, para todos os efeitos legais, à função docente."
+  },
+  "164921270": {
+   "fragment_id": "165096569",
+   "type": 11,
+   "heading": "Artigo 41.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Competências\n\nCompete à direção pedagógica a orientação da ação educativa da escola e, designadamente:\n\na) Representar a escola junto do Ministério da Educação e Ciência em todos os assuntos de natureza pedagógica;\n\nb) Planificar e superintender nas atividades curriculares e culturais;\n\nc) Promover o cumprimento dos planos e programas de estudos;\n\nd) Velar pela qualidade do ensino;\n\ne) Zelar pela educação e disciplina dos alunos."
+  },
+  "164921271": {
+   "fragment_id": "165096570",
+   "type": 1,
+   "heading": "Capítulo III — Docentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Docentes"
+  },
+  "164921272": {
+   "fragment_id": "165096571",
+   "type": 8,
+   "heading": "Secção I — Condições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Condições gerais"
+  },
+  "164921273": {
+   "fragment_id": "165096572",
+   "type": 11,
+   "heading": "Artigo 42.º — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Direitos e deveres\n\n1 - Os educadores e os docentes das escolas do ensino particular e cooperativo têm os direitos e estão sujeitos aos deveres fixados na legislação do trabalho aplicável.\n\n2 - As convenções coletivas e os contratos individuais de trabalho dos educadores e docentes das escolas do ensino particular e cooperativo devem ter em conta a especial relevância para o interesse público da função que desempenham."
+  },
+  "164921274": {
+   "fragment_id": "165096573",
+   "type": 11,
+   "heading": "Artigo 43.º — Condições para o exercício da docência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Condições para o exercício da docência\n\nOs docentes das escolas do ensino particular e cooperativo devem possuir a robustez física e o perfil psíquico exigidos para o exercício das funções docentes, nas condições definidas para a escola pública, devendo fazer prova da reunião destes requisitos, nos termos das disposições legais aplicáveis."
+  },
+  "165103675": {
+   "fragment_id": "165096574",
+   "type": 11,
+   "heading": "Artigo 44.º — Docentes estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Docentes estrangeiros\n\n1 - As escolas particulares podem admitir docentes estrangeiros nas mesmas condições dos nacionais, nos termos da legislação aplicável.\n\n2 - O disposto no número anterior não se aplica à admissão de professores nacionais de Estados membros da União Europeia ou do Espaço Económico Europeu, com qualificações obtidas fora de Portugal, estando estes apenas sujeitos ao cumprimento da Lei n.º 9/2009, de 4 de março, alterada pela Lei n.º 41/2012, de 28 de agosto, e respetiva legislação complementar.\n\n3 - Os docentes estrangeiros devem fazer prova de suficiente conhecimento da língua portuguesa, sempre que ela seja indispensável para as disciplinas que se propõem lecionar."
+  },
+  "165103676": {
+   "fragment_id": "165103775",
+   "type": 11,
+   "heading": "Artigo 45.º — Habilitações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Habilitações\n\n1 - As habilitações académicas e profissionais para a docência no ensino particular e cooperativo são as requeridas para a lecionação das disciplinas, ou áreas disciplinares correspondentes, nas escolas públicas.\n\n2 - As habilitações académicas a exigir aos docentes das escolas com cursos ou planos próprios são estabelecidas, caso a caso e quando necessário, por despacho do membro do Governo responsável pela área da educação."
+  },
+  "165103677": {
+   "fragment_id": "165103776",
+   "type": 11,
+   "heading": "Artigo 46.º — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Impedimentos\n\n1 - São impedidos de exercer funções docentes nos estabelecimentos de ensino particular e cooperativo os indivíduos inibidos, por sentença transitada em julgado, do exercício de funções públicas ou de trabalho com crianças e jovens.\n\n2 - No momento da contratação, e sempre que a entidade titular o requeira, devem os candidatos à docência ou os docentes em exercício fazer prova da idoneidade para o exercício da função através do respetivo certificado de registo criminal."
+  },
+  "165103678": {
+   "fragment_id": "165103777",
+   "type": 11,
+   "heading": "Artigo 47.º — Obrigações acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Obrigações acessórias\n\n1 - Entre 15 de setembro e 31 de outubro de cada ano, as escolas do ensino particular e cooperativo fornecem aos serviços competentes do Ministério da Educação e Ciência a relação discriminada dos docentes ao seu serviço, através da plataforma eletrónica disponibilizada para o efeito.\n\n2 - Quando os professores são contratados após o dia 31 de outubro, os elementos referidos no número anterior são enviados no prazo de 15 dias após a celebração do contrato."
+  },
+  "165103679": {
+   "fragment_id": "165103778",
+   "type": 8,
+   "heading": "Secção II — Processo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Processo individual"
+  },
+  "165103680": {
+   "fragment_id": "165103779",
+   "type": 11,
+   "heading": "Artigo 48.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Organização\n\n1 - Os estabelecimentos de ensino particular e cooperativo são obrigados a manter organizado e atualizado o processo individual de cada docente que se encontre ao seu serviço.\n\n2 - O original do processo individual acompanha o docente sempre que este mudar de estabelecimento de ensino.\n\n3 - Os estabelecimentos de ensino particular e cooperativo estão obrigados a disponibilizar aos serviços competentes do Ministério da Educação e Ciência, nos prazos e pelos meios estabelecidos, todos os elementos previstos no presente Estatuto relativos aos docentes ao seu serviço, bem como as demais informações que lhes sejam solicitadas por aqueles, designadamente:\n\na) O controlo efetivo diário e registo mensal do serviço, tendo como referência as normas sobre a assiduidade constantes de convenção coletiva aplicável ou de contrato individual de trabalho;\n\nb) O envio, ao serviço competente do Ministério da Educação e Ciência, de mapa global relativo a cada docente e a cada ano escolar anterior, de onde conste a discriminação de tempo de serviço prestado, nas datas estabelecidas e sempre que tal seja solicitado.\n\n4 - Os dados constantes do processo individual dos docentes devem ser mantidos em absoluta confidencialidade por todos aqueles que aos mesmos tenham acesso no exercício das respetivas funções."
+  },
+  "165103681": {
+   "fragment_id": "165103780",
+   "type": 8,
+   "heading": "Secção III — Acumulação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Acumulação de funções"
+  },
+  "165103682": {
+   "fragment_id": "165103781",
+   "type": 11,
+   "heading": "Artigo 49.º — Acumulação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Acumulação de funções\n\nA acumulação de funções docentes em escolas do ensino particular e cooperativo não pode exceder as 33 horas letivas semanais."
+  },
+  "165103683": {
+   "fragment_id": "165103782",
+   "type": 8,
+   "heading": "Secção IV — Do trânsito entre o ensino particular e cooperativo e o ensino público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Do trânsito entre o ensino particular e cooperativo e o ensino público"
+  },
+  "165103684": {
+   "fragment_id": "165103783",
+   "type": 11,
+   "heading": "Artigo 50.º — Condições de verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Condições de verificação\n\n1 - Desde que reúnam as condições previstas no Estatuto da Carreira Docente, aos docentes dos estabelecimentos de ensino particular e cooperativo que pretendam ser opositores aos concursos de seleção e recrutamento para o exercício de funções nos estabelecimentos do Ministério da Educação e Ciência, é contado o tempo de serviço prestado no ensino particular e cooperativo, desde que se verifiquem cumulativamente as seguintes condições:\n\na) O tempo de serviço tenha sido prestado em escolas devidamente autorizadas;\n\nb) Os docentes se encontrem devidamente habilitados à data da prestação do serviço;\n\nc) O serviço não tenha sido prestado em acumulação de serviço com a função pública ou em escolas públicas.\n\n2 - A prova do tempo de serviço pode fazer-se por declaração da escola onde o mesmo foi prestado ou por certidão emitida pelos serviços competentes do Ministério da Educação e Ciência, com a assinatura reconhecida ou autenticada com o selo branco em uso no estabelecimento de ensino ou serviço emissor.\n\n3 - No caso de não ser possível fazer a prova do tempo de serviço por recurso aos meios previstos no número anterior, são admissíveis outros meios de prova idóneos e a definir pelo Ministério da Educação e Ciência."
+  },
+  "165103685": {
+   "fragment_id": "165103784",
+   "type": 8,
+   "heading": "Secção V — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Responsabilidade disciplinar"
+  },
+  "165103686": {
+   "fragment_id": "165103785",
+   "type": 11,
+   "heading": "Artigo 51.º — Remissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Remissão\n\n1 - Compete à entidade proprietária do estabelecimento de ensino o exercício do poder disciplinar sobre os docentes, nos termos da legislação disciplinar laboral aplicável.\n\n2 - Sem prejuízo do disposto no número anterior, compete à IGEC o exercício do poder disciplinar no âmbito da avaliação externa dos alunos."
+  },
+  "165103687": {
+   "fragment_id": "165103786",
+   "type": 1,
+   "heading": "Capítulo IV — Alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Alunos"
+  },
+  "165103688": {
+   "fragment_id": "165103787",
+   "type": 8,
+   "heading": "Secção I — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Direitos e deveres"
+  },
+  "165103689": {
+   "fragment_id": "165103788",
+   "type": 11,
+   "heading": "Artigo 52.º — Direitos e deveres dos alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Direitos e deveres dos alunos\n\nOs alunos das escolas particulares e cooperativas têm os direitos e os deveres previstos nos respetivos regulamentos internos, cuja elaboração tem como referência os direitos e deveres consagrados no Estatuto do Aluno e Ética Escolar, aprovado pela Lei n.º 51/2012, de 5 de setembro."
+  },
+  "165103690": {
+   "fragment_id": "165103789",
+   "type": 8,
+   "heading": "Secção II — Matrículas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Matrículas"
+  },
+  "165103691": {
+   "fragment_id": "165103790",
+   "type": 11,
+   "heading": "Artigo 53.º — Matrícula e renovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Matrícula e renovação\n\n1 - A matrícula realiza-se quando as crianças ou os alunos ingressam pela primeira vez no estabelecimento.\n\n2 - A renovação da matrícula realiza-se nos anos subsequentes ao da matrícula, para prosseguimento de estudos ou repetição de frequência.\n\n3 - Nos níveis de educação, ensino e formação por ela abrangidas, são válidas e plenamente reconhecidas as matrículas e a renovação de matrículas em escolas do ensino particular e cooperativo."
+  },
+  "165103692": {
+   "fragment_id": "165103791",
+   "type": 11,
+   "heading": "Artigo 54.º — Limite de idade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Limite de idade\n\n1 - As crianças e alunos do ensino particular e cooperativo estão sujeitos aos limites de idade previstos para o ensino público.\n\n2 - Não é permitido ministrar o ensino nas escolas do ensino particular e cooperativo nem admitir a exame alunos sujeitos a matrícula, sem que esta tenha sido efetuada."
+  },
+  "165103693": {
+   "fragment_id": "165103792",
+   "type": 11,
+   "heading": "Artigo 55.º — Outros limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Outros limites\n\n1 - Não é permitida a matrícula simultânea em mais de uma escola, aos alunos que pretendam frequentar o mesmo ano de escolaridade ou disciplina em mais de uma escola.\n\n2 - As matrículas e a renovação de matrículas nas escolas do ensino particular e cooperativo efetuam-se até ao limite dos prazos e com observância dos requisitos em vigor para as escolas do sistema público do mesmo nível de ensino.\n\n3 - O estabelecido no número anterior não prejudica o direito das escolas particulares de definirem as suas próprias regras de prioridade na admissão de alunos, sempre que as obrigações decorrentes do tipo de contrato celebrado com o Estado não imponham a observância das regras aplicáveis às escolas públicas."
+  },
+  "165103694": {
+   "fragment_id": "165103793",
+   "type": 8,
+   "heading": "Secção III — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Inscrição"
+  },
+  "165103695": {
+   "fragment_id": "165103794",
+   "type": 11,
+   "heading": "Artigo 56.º — Processo individual do aluno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Processo individual do aluno\n\n1 - Compete às escolas do ensino particular e cooperativo a organização e conservação dos processos individuais das crianças e alunos que as frequentam.\n\n2 - Os processos individuais das crianças ou dos alunos acompanham os respetivos percursos educativos e formativos, sendo obrigatoriamente remetidos pela escola de origem, ou depositária, ao novo estabelecimento de educação ou ensino a frequentar, no momento em que ocorra a transferência ou mudança de estabelecimento."
+  },
+  "165103696": {
+   "fragment_id": "165103795",
+   "type": 8,
+   "heading": "Secção IV — Propinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Propinas"
+  },
+  "165103697": {
+   "fragment_id": "165103796",
+   "type": 11,
+   "heading": "Artigo 57.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Regime\n\n1 - Os alunos das escolas do ensino particular e cooperativo podem estar sujeitos ao pagamento de propinas de matrícula e frequência previstas no regulamento interno.\n\n2 - Os alunos podem ter direito a isenção ou redução de propinas, de acordo com os apoios financeiros recebidos pelas escolas, nos termos previstos no presente Estatuto.\n\n3 - Independentemente da situação concreta dos alunos quanto aos regimes de propinas previstos nos números anteriores, podem as escolas proceder à cobrança de valores adequados referentes à prestação de serviços não abrangidos pelas propinas ou pelo apoio financeiro concedido pelo Estado, desde que claramente previstos no respetivo regulamento interno, devidamente publicitado."
+  },
+  "165103698": {
+   "fragment_id": "165103797",
+   "type": 8,
+   "heading": "Secção V — Transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Transferência"
+  },
+  "165103699": {
+   "fragment_id": "165103798",
+   "type": 11,
+   "heading": "Artigo 58.º — Admissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Admissibilidade\n\n1 - É livre a transferência de alunos entre escolas do ensino particular e cooperativo, entre escolas públicas e de ensino particular e cooperativo e entre estas e as escolas públicas.\n\n2 - Se a transferência envolver uma escola pública são-lhe aplicáveis os prazos e requisitos estabelecidos para as transferências entre escolas públicas.\n\n3 - Ocorrendo a mudança de escola, para efeitos de frequência do mesmo curso ou em situação de reorientação do percurso formativo, a nova escola deve reconhecer previamente as disciplinas ou áreas disciplinares concluídas pelo aluno, através do processo de equivalências ou equiparação, em termos análogos aos estabelecidos para as escolas públicas.\n\n4 - O disposto no número anterior é aplicável às situações em que o aluno, na escola anterior, tenha frequentado programas próprios ou oferta formativa própria."
+  },
+  "165103700": {
+   "fragment_id": "165103799",
+   "type": 8,
+   "heading": "Secção VI — Assiduidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Assiduidade"
+  },
+  "165103701": {
+   "fragment_id": "165103800",
+   "type": 11,
+   "heading": "Artigo 59.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Regime\n\n1 - Os alunos das escolas do ensino particular e cooperativo estão sujeitos ao regime de assiduidade previsto no respetivo regulamento interno, tendo por referência os mínimos legalmente estabelecidos para os alunos que frequentam as escolas públicas.\n\n2 - O regime de faltas dos alunos de cursos com planos de estudo próprios é o constante do respetivo regulamento interno, tendo por referência o regime definido no Estatuto do Aluno e Ética Escolar, aprovado pela Lei n.º 51/2012, de 5 de setembro, para percursos formativos congéneres.\n\n3 - Na omissão do regulamento interno, o regime de faltas é o aplicável aos alunos das escolas públicas."
+  },
+  "165103702": {
+   "fragment_id": "165103801",
+   "type": 11,
+   "heading": "Artigo 60.º — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Comunicações\n\n1 - A direção pedagógica das escolas do ensino particular e cooperativo deve comunicar aos encarregados de educação as faltas dadas pelos seus educandos.\n\n2 - A comunicação é obrigatória e deve ser efetuada sempre que a falta de assiduidade o justifique, nos termos do regulamento interno."
+  },
+  "165103703": {
+   "fragment_id": "165103802",
+   "type": 11,
+   "heading": "Artigo 61.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Registo\n\n1 - As faltas dadas pelos alunos são registadas em suportes próprios, com discriminação das justificadas e não justificadas.\n\n2 - As faltas devem constar, igualmente, de todos os mapas e pautas de apuramento de frequência ou de publicitação de classificações."
+  },
+  "165103704": {
+   "fragment_id": "165103803",
+   "type": 8,
+   "heading": "Secção VII — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Avaliação"
+  },
+  "165103705": {
+   "fragment_id": "165103804",
+   "type": 11,
+   "heading": "Artigo 62.º — Critérios e processos próprios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Critérios e processos próprios\n\n1 - As escolas do ensino particular e cooperativo podem adotar critérios e processos de avaliação próprios, designadamente, os relativos aos cursos com planos próprios, constam do respetivo regulamento interno.\n\n2 - Os critérios e processos de avaliação próprios das escolas do ensino particular e cooperativo, que não constem obrigatoriamente do processo de pedido de autorização de funcionamento, nos termos do presente Estatuto, devem ser comunicados ao Ministério da Educação e Ciência, sempre que solicitados ou sempre que sofram alterações.\n\n3 - Após cada período escolar, as escolas do ensino particular e cooperativo devem tornar públicas as classificações obtidas pelos alunos."
+  },
+  "165103706": {
+   "fragment_id": "165103805",
+   "type": 11,
+   "heading": "Artigo 63.º — Avaliação externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Avaliação externa\n\nOs alunos que frequentem os ensinos básico e secundário das escolas do ensino particular e cooperativo estão sujeitos ao regime de avaliação externa estabelecido para os alunos das escolas públicas."
+  },
+  "165103707": {
+   "fragment_id": "165103806",
+   "type": 8,
+   "heading": "Secção VIII — Ação social e seguro escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Ação social e seguro escolar"
+  },
+  "165103708": {
+   "fragment_id": "165103807",
+   "type": 11,
+   "heading": "Artigo 64.º — Extensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Extensão\n\n1 - Os apoios sócio educativos concedidos no âmbito da ação social escolar são extensivos aos alunos das escolas particulares e cooperativas, nas condições previstas para os alunos das escolas públicas.\n\n2 - As crianças e os alunos das escolas do ensino particular e cooperativo são, obrigatoriamente, abrangidos por um seguro que, no mínimo, cubra os riscos de acidentes pessoais ocorridos no perímetro escolar e no trajeto casa-escola e respetivo regresso.\n\n3 - Os alunos das escolas do ensino particular e cooperativo cujos contratos com o Estado o prevejam são abrangidos pelo seguro escolar aplicável aos alunos que frequentam as escolas públicas, com os direitos e deveres daí decorrentes."
+  },
+  "165103709": {
+   "fragment_id": "165103808",
+   "type": 8,
+   "heading": "Secção IX — Ação disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Ação disciplinar"
+  },
+  "165103710": {
+   "fragment_id": "165103809",
+   "type": 11,
+   "heading": "Artigo 65.º — Exercício da ação disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Exercício da ação disciplinar\n\nA ação disciplinar relativa aos alunos das escolas do ensino particular e cooperativo é da competência dos docentes e da direção pedagógica do respetivo estabelecimento de ensino, nos termos definidos no regulamento interno."
+  },
+  "165103711": {
+   "fragment_id": "165103810",
+   "type": 8,
+   "heading": "Secção X — Certificados e diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção X — Certificados e diplomas"
+  },
+  "165103712": {
+   "fragment_id": "165103811",
+   "type": 11,
+   "heading": "Artigo 66.º — Emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Emissão\n\nOs certificados de matrícula, de aproveitamento, de habilitações, bem como os diplomas de conclusão de curso dos alunos das escolas do ensino particular e cooperativo são emitidos pelas próprias escolas."
+  },
+  "165103713": {
+   "fragment_id": "165103812",
+   "type": 1,
+   "heading": "Capítulo V — Pais e encarregados de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Pais e encarregados de educação"
+  },
+  "165103714": {
+   "fragment_id": "165103813",
+   "type": 11,
+   "heading": "Artigo 67.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Estatuto\n\n1 - Os pais e encarregados de educação têm os direitos e deveres inerentes à sua condição de educadores, nos termos da legislação em vigor e de acordo com o estabelecido no regulamento interno das escolas.\n\n2 - Para os efeitos do disposto no presente Estatuto entende-se por encarregado de educação todo aquele que reunir os requisitos constantes do Estatuto do Aluno e Ética Escolar, aprovado pela Lei n.º 51/2012, de 5 de setembro."
+  },
+  "165103715": {
+   "fragment_id": "165103814",
+   "type": 1,
+   "heading": "Capítulo VI — Vicissitudes da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Vicissitudes da atividade"
+  },
+  "165103716": {
+   "fragment_id": "165103815",
+   "type": 11,
+   "heading": "Artigo 68.º — Cessação do funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Cessação do funcionamento\n\n1 - O encerramento das escolas do ensino particular e cooperativo pode ser requerido pelos titulares da autorização de funcionamento.\n\n2 - As escolas do ensino particular e cooperativo podem também requerer a substituição de níveis de ensino ou de cursos, bem como a sua extensão, substituição ou cessação.\n\n3 - Os requerimentos a que se referem os números anteriores devem dar entrada no serviço competente do Ministério da Educação e Ciência até ao dia 28 de fevereiro de cada ano, com vista ao ano escolar seguinte.\n\n4 - Nos requerimentos referidos nos números anteriores, devem ser indicadas as medidas a cargo dos titulares da autorização de funcionamento, adequadas a proteger os interesses dos alunos matriculados nas escolas em questão.\n\n5 - A falta de decisão sobre o pedido, no prazo de 60 dias, confere à requerente a faculdade de presumir deferida a sua pretensão, devendo, neste caso, comunicar ao serviço competente do Ministério da Educação e Ciência o ano escolar a partir do qual se produzem os efeitos requeridos."
+  },
+  "165103717": {
+   "fragment_id": "165103816",
+   "type": 11,
+   "heading": "Artigo 69.º — Suspensão do funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Suspensão do funcionamento\n\n1 - As escolas do ensino particular e cooperativo não podem suspender o seu funcionamento, salvo em casos devidamente fundamentados.\n\n2 - A intenção e o período pretendido de suspensão, nos termos do número anterior, é comunicado até ao dia 28 de fevereiro de cada ano ao serviço competente do Ministério da Educação e Ciência que, em caso de deferimento, lhe fixa o início e o termo."
+  },
+  "165103718": {
+   "fragment_id": "165103817",
+   "type": 11,
+   "heading": "Artigo 70.º — Encerramento da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Encerramento da atividade\n\n1 - Quando, independentemente do motivo, uma escola de ensino particular ou cooperativo encerre a sua atividade, sem prejuízo do cumprimento das demais obrigações, deve entregar, no prazo máximo de 30 dias, a sua documentação fundamental no estabelecimento de ensino indicado pelo serviço competente do Ministério da Educação e Ciência.\n\n2 - Para efeitos do número anterior, entende-se por «documentação fundamental» a respeitante a livros de matrícula ou inscrição, pautas, atas e demais registos de avaliação dos alunos, processos individuais de alunos, docentes e pessoal administrativo e auxiliar, contratos e demais escrituração relevante das áreas administrativa, pedagógica e financeira da escola."
+  },
+  "165103719": {
+   "fragment_id": "165103818",
+   "type": 11,
+   "heading": "Artigo 71.º — Remessa da documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Remessa da documentação\n\nA documentação referida no artigo anterior, designadamente a relativa aos processos individuais dos alunos, é remetida pela escola depositária à nova escola, a requerimento do encarregado de educação ou do aluno maior de idade ou a pedido do diretor da nova escola."
+  },
+  "165103720": {
+   "fragment_id": "165103819",
+   "type": 11,
+   "heading": "Artigo 72.º — Encerramento compulsivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Encerramento compulsivo\n\n1 - Constituem causas de encerramento compulsivo de estabelecimentos de ensino particular e cooperativo:\n\na) A não existência de autorização de funcionamento nos termos previstos no presente Estatuto;\n\nb) O funcionamento em condições de grave degradação institucional ou pedagógica.\n\n2 - O procedimento de encerramento compulsivo é instruído pela IGEC e tem lugar por despacho fundamentado do membro do Governo responsável pela área da educação, o qual fixa as condições e os prazos em que o mesmo pode ocorrer.\n\n3 - A competência referida no número anterior pode ser delegada.\n\n4 - A decisão de encerramento compulsivo é precedida da audição da entidade proprietária do estabelecimento de ensino particular e cooperativo, sob pena de nulidade.\n\n5 - O encerramento compulsivo dos estabelecimentos de ensino particular e cooperativo pode ser solicitado às autoridades administrativas e policiais, com comunicação do despacho correspondente."
+  },
+  "165103721": {
+   "fragment_id": "165103820",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "165103722": {
+   "fragment_id": "165103821",
+   "type": 11,
+   "heading": "Artigo 73.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Direito subsidiário\n\nEm tudo o que não esteja especialmente regulado e não contrarie o disposto no presente Estatuto e respetiva legislação complementar, são aplicáveis, com as devidas adaptações, as disposições constantes na legislação educativa e laboral."
+  },
+  "164921212": {
+   "fragment_id": "165096511",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de setembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Fernando Manuel de Almeida Alexandre - António de Magalhães Pires de Lima - Nuno Paulo de Sousa Arrobas Crato.\n\nPromulgado em 29 de outubro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 30 de outubro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "915059153": {
+   "fragment_id": "915099416",
+   "type": 11,
+   "heading": "Artigo 8.º — Âmbito e finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Âmbito e finalidade\n\nNo âmbito e em cumprimento das respetivas atribuições e competências, nomeadamente, de promoção e garantia da liberdade de escolha e da qualidade da educação e formação, de cooperação e de apoio às famílias, designadamente as menos favorecidas economicamente, bem como de apoio à educação pré-escolar, ao ensino artístico especializado, desportivo ou tecnológico e ao ensino de alunos com necessidades educativas especiais, o Estado celebra contratos de diversos tipos com as entidades titulares de estabelecimentos de ensino particular e cooperativo, nos termos previstos no artigo seguinte."
+  },
+  "915059154": {
+   "fragment_id": "915099417",
+   "type": 11,
+   "heading": "Artigo 9.º — Modalidades de contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Modalidades de contratos\n\n1 - Os contratos a celebrar entre o Estado e as escolas particulares podem revestir as seguintes modalidades:\n\na) Contratos simples de apoio à família;\n\nb) Contratos de desenvolvimento de apoio à família;\n\nc) Contratos de associação;\n\nd) Contratos de patrocínio;\n\ne) Contratos de cooperação.\n\n2 - Os contratos têm por base os anos letivos e são de âmbito anual ou plurianual, sem prejuízo do ajuste do montante de financiamento em cada ano letivo em função da alteração do número de alunos ou de turmas a financiar, podendo ser renovados por acordo das partes.\n\n3 - Os contratos podem abranger alguns ou todos os graus ou modalidades de ensino ministrados na escola, não podendo o mesmo aluno ser abrangido por diferentes tipos de contrato.\n\n4 - O Governo estabelece a regulamentação adequada para a celebração dos contratos e concessão dos apoios financeiros legalmente previstos, com especificação dos compromissos a assumir por ambas as partes, bem como a fiscalização do respetivo cumprimento, ouvidas as estruturas representativas das entidades titulares do sector."
+  },
+  "915059155": {
+   "fragment_id": "915099418",
+   "type": 11,
+   "heading": "Artigo 10.º — Princípios da contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Princípios da contratação\n\n1 - O apoio do Estado aos estabelecimentos de ensino particular e cooperativo obedece aos princípios de transparência, equidade, objetividade e publicidade.\n\n2 - O Estado celebra contratos com escolas particulares e cooperativas integradas nos objetivos do sistema educativo.\n\n3 - A celebração destes contratos tem como objetivo a promoção e a qualidade da escolaridade obrigatória e o acesso dos alunos ao ensino em igualdade de condições.\n\n4 - Na celebração destes contratos, o Estado tem em conta as necessidades existentes e a qualidade da oferta, salvaguardado o princípio da concorrência.\n\n5 - Sem prejuízo dos demais critérios estabelecidos, a renovação dos contratos entre o Estado e as escolas do ensino particular e cooperativo deve ter em conta os resultados obtidos pelos alunos.\n\n6 - Os contratos destinados à criação da oferta pública de ensino, adiante designados como contratos de associação, são sujeitos às regras concursais definidas em portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n7 - O Estado pode celebrar contratos com estabelecimentos de ensino que se proponham criar cursos com planos próprios e com estabelecimentos de ensino em que sejam ministrados cursos vocacionais, ensino especializado e experiências pedagógicas inovadoras.\n\n8 - Os contratos devem:\n\na) Especificar os direitos e as obrigações assumidas pelas escolas e pelo Estado;\n\nb) Respeitar a minuta aprovada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n9 - As escolas particulares que celebrarem contratos com o Estado ficam sujeitas às inspeções administrativas e financeiras dos serviços competentes do Ministério da Educação e Ciência que se mostrem necessárias em função das obrigações contratuais assumidas."
+  },
+  "915059156": {
+   "fragment_id": "915099419",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações das entidades titulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações das entidades titulares\n\nA celebração de contratos entre o Estado e as escolas do ensino particular e cooperativo obriga as respetivas entidades titulares, nos termos da legislação aplicável, a disponibilizar aos serviços competentes do Ministério da Educação e Ciência os dados relativos à sua situação fiscal e à segurança social e a informação empresarial simplificada."
+  },
+  "915059158": {
+   "fragment_id": "165096555",
+   "type": 11,
+   "heading": "Artigo 32.º — Modalidades de autorização",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 32.º — Modalidades de autorização\n\n1 - A autorização de funcionamento de uma escola particular especifica a denominação da escola, as modalidades e níveis de educação e formação, os edifícios e localidades onde é ministrado o ensino, o nome da entidade requerente e o diretor pedagógico ou presidente da direção pedagógica, bem como a lotação global.\n\n2 - A autorização das escolas com cursos ou planos próprios deve conter os requisitos dos cursos e respetivos currículos e programas, bem como a respetiva equivalência aos percursos escolares nacionais.\n\n3 - A autorização pode ser provisória ou definitiva.\n\n4 - A autorização é provisória quando for necessário corrigir deficiências das condições técnicas e pedagógicas.\n\n5 - A autorização provisória é válida por um ano, pode ser renovada por três vezes e deve especificar as condições e requisitos a satisfazer bem os respetivos prazos.\n\n6 - Se, após o prazo referido no número anterior, as deficiências não se mostrarem sanadas, o serviço competente propõe ao membro do Governo responsável pela área da educação o encerramento da escola ou estabelecimento.\n\n7 - A autorização é definitiva sempre que estejam preenchidos os requisitos e verificadas as condições exigíveis.\n\n8 - As escolas particulares autorizadas nos termos do presente Estatuto integram a rede de entidades formadoras do Sistema Nacional de Qualificações, nos termos do n.º 1 do artigo 16.º do Decreto-Lei n.º 396/2007, de 31 de dezembro.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "915059157": {
+   "fragment_id": "165096556",
+   "type": 11,
+   "heading": "Artigo 33.º — Reconhecimento de interesse público",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 33.º — Reconhecimento de interesse público\n\nAs escolas particulares e cooperativas que se enquadrem nos objetivos do sistema educativo e formativo português e se encontrem em situação de regular funcionamento nos termos do presente Estatuto, bem como as sociedades, associações ou fundações que tenham como finalidade dominante a criação ou manutenção de estabelecimentos de ensino particular e cooperativo, podem gozar, nos termos da legislação aplicável, das prerrogativas das pessoas coletivas de utilidade pública, beneficiando dos direitos e deveres inerentes àquele reconhecimento, previstos na lei.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  }
+ }
+}

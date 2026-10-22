@@ -1,0 +1,254 @@
+---
+schema_version: '1.0'
+id: pt:dre:571246:por
+title: Portaria n.º 341/90
+short_title: null
+summary: Aprova as normas regulamentares sobre prevenção, detecção e combate dos fogos florestais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Planeamento e da Administração do Território, da Administração Interna, da Agricultura, Pescas e Alimentação
+  e do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 341/90
+official_date: null
+publication_date: '1990-05-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 104/1990, Série I de 1990-05-07
+  number: '104'
+  series: I
+  supplement: null
+  pages: 2115 - 2117
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/05/10400/21152117.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '571246'
+  dre_path: /dr/detalhe/portaria/341-1990-571246
+  internal: pt:dre:571246:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/341-1990-571246
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/341-1990-571246
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-05-07T00:00:00Z'
+integrity:
+  source_sha256: dc68bee663b132e1b1829a5cc0ba396f2c5de8017e591a9cdc33b6edd55900c3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-341-571246.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 13
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 341/90
+
+de 7 de Maio
+
+Por despacho conjunto publicado no Diário da República, 2.ª série, de 6 de Novembro de 1987, foi criado um grupo de trabalho para estudar uma ligação mais perfeita entre os vários organismos intervenientes na prevenção, detecção e combate dos fogos florestais.
+
+Desse grupo e da colaboração entre o coordenador das acções de fogos florestais, o Serviço Nacional de Protecção Civil, a Direcção-Geral das Florestas, o Serviço Nacional de Bombeiros e o Serviço Nacional de Parques, Reservas e Conservação da Natureza resultou uma proposta de várias medidas que complementam os procedimentos previstos no [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, concretizando as competências e responsabilidades dos diversos organismos. Pretende-se, assim, facilitar a actuação e coordenação das diferentes entidades, conferindo-lhes maior eficácia.
+
+Assim, considerando o disposto no [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro:
+
+Manda o Governo, pelos Ministros do Planeamento e da Administração do Território, da Administração Interna, da Agricultura, Pescas e Alimentação e do Ambiente e Recursos Naturais, o seguinte:
+
+1.º As normas regulamentares anexas, que visam conseguir maior rapidez e eficiência nas acções de prevenção, detecção, vigilância e combate dos fogos florestais, através de uma ligação e colaboração mais perfeita entre os órgãos e serviços para tal vocacionados, e que foram postas em prática, em regime experimental, com bastante êxito, nas épocas de fogos de 1988 e 1989, são aprovadas por esta portaria e dela fazem parte integrante.
+
+2.º Decorridos dois anos sobre a sua aplicação, contados a partir da data da portaria, serão obrigatoriamente revistas para seu aperfeiçoamento, decorrente da experiência obtida.
+
+Ministérios do Planeamento e da Administração do Território, da Administração Interna, da Agricultura, Pescas e Alimentação e do Ambiente e Recursos Naturais.
+
+**Assinada em 31 de Janeiro de 1990.**
+
+**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Administração Interna, Manuel Pereira. - O Ministro da Agricultura, Pescas e Alimentação, Arlindo Marques da Cunha. - O Ministro do Ambiente e Recursos Naturais, Fernando Nunes Ferreira Real.**
+
+NORMAS REGULAMENTARES SOBRE PREVENÇÃO, DETECÇÃO E COMBATE DOS FOGOS FLORESTAIS
+
+### CAPÍTULO I — Postos de vigia
+
+###### Artigo 1.º — Localização
+
+1 - A instalação da rede nacional de postos de vigia (RNPV) deverá efectuar-se nos locais indicados pela Direcção-Geral das Florestas (DGF) e pelo Serviço Nacional de Parques, Reservas e Conservação da Natureza (SNPRCN), no que concerne às áreas protegidas.
+
+2 - Qualquer entidade pública ou privada poderá candidatar-se a integrar, com um ou mais postos de vigia, a RNPV, devendo para tal sujeitar-se às orientações técnicas da DGF, nomeadamente às que dizem respeito aos respectivos sistemas de detecção e comunicação.
+
+3 - As áreas prioritárias onde deverá ser completada a rede de postos de vigia são as «zonas críticas», definidas pelo artigo 12.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, e as zonas de áreas protegidas.
+
+4 - Sem prejuízo do disposto nos números anteriores, o SNPRCN ou qualquer outra entidade poderá estabelecer uma rede privada de postos de vigia (RPPV) destinada à vigilância especial de áreas sob a sua responsabilidade.
+
+5 - As RPPVs articular-se-ão, ao nível das comunicações, com a RNPV no local ou locais da RNPV que convierem à DGF e à entidade gestora da RPPV em causa.
+
+6 - A DGF comunicará obrigatoriamente ao Serviço Nacional de Bombeiros (SNB) a localização dos postos de vigia integrados na RNPV e as alterações que se verifiquem.
+
+###### Artigo 2.º — Constituição e equipamento
+
+1 - Além da plataforma do posto de vigia, a estrutura de apoio deverá considerar locais de permanência e de descanso do pessoal que o guarnece.
+
+2 - O posto de vigia deverá dispor de equipamento óptico capaz de, com rigor, fornecer elementos para a localização do foco de incêndio.
+
+3 - O equipamento já existente que não possua as características referidas no número anterior será progressivamente substituído, de acordo com os recursos para tal disponíveis.
+
+###### Artigo 3.º — Pessoal
+
+1 - O pessoal dos postos de vigia deverá actuar por turnos e guarnecê-los-á desde o primeiro ao último dia da época normal de fogos. No caso de a época de estiagem se prolongar por Outubro, deverá esse facto ser encarado para continuação dos trabalhos.
+
+2 - O recrutamento do pessoal deverá estar completado até 15 de Maio de cada ano, devendo a sua preparação e instrução ficar concluída no dia 31 do mesmo mês.
+
+###### Artigo 4.º — Ligações
+
+1 - Em cada zona e em função da localização dos postos de vigia devem ser estudadas e concretizadas as ligações que, com maior eficácia, possibilitem o alerta imediato da estrutura dos bombeiros mais próxima.
+
+2 - As ligações previstas no número anterior terão suporte rádio, telefónico ou outro mais adequado às condições da zona, atendendo às características das estruturas da DGF, da entidade titular do posto de vigia e dos bombeiros, já existentes ou a criar.
+
+3 - As ligações deverão ser feitas, de preferência, simultaneamente dos postos de vigia para os centros de prevenção e detecção da DGF e para os centros de coordenação de meios aéreos (CCMAs) do SNB, consoante acordo a estabelecer entre as duas entidades (DGF e SNB).
+
+4 - As inspecções regionais de bombeiros fornecerão mensalmente às circunscrições florestais da DGF a relação dos incêndios ocorridos nas respectivas áreas de intervenção.
+
+### CAPÍTULO II — Brigadas móveis de fiscalização, prevenção e vigilância
+
+###### Artigo 5.º — Tipo e constituição das brigadas
+
+1 - A DGF constituirá nas zonas públicas e privadas brigadas de vigilância, fiscalização, detecção e primeira intervenção, que integrarão um ou mais elementos da polícia florestal.
+
+2 - O SNPRCN constituirá brigadas móveis de vigilância nas áreas protegidas.
+
+3 - O SNB, através dos corpos de bombeiros, constituirá grupos especiais de intervenção nos locais e épocas de maior risco de incêndio.
+
+4 - A Guarda Nacional Republicana (GNR) reforçará o seu patrulhamento rural nos locais e épocas de maior risco de incêndio.
+
+###### Artigo 6.º — Funcionamento e equipamento
+
+1 - As brigadas móveis funcionarão sob a responsabilidade e coordenação da respectiva hierarquia, devendo os itinerários das brigadas previstas nos n.os 1 e 2 do artigo anterior ser comunicados ao comando regional da GNR.
+
+2 - As brigadas serão devidamente identificadas e equipadas para desenvolver ou proporcionar uma intervenção rápida e adequada.
+
+### CAPÍTULO III — Posto de comando operacional
+
+###### Artigo 7.º — Constituição
+
+1 - Os comandos operacionais previstos no artigo 17.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, desenvolvem a sua acção no terreno com base num posto de comando operacional (PCO), criado, caso a caso, para o efeito.
+
+2 - O PCO deverá constituir-se no caso de o incêndio poder vir a tomar ou ter tomado proporções tais que o combate exija meios que excedam os do corpo de bombeiros sediado na área afectada.
+
+3 - Além dos elementos dos bombeiros já constantes das normas e directivas existentes, são integrados no PCO:
+
+a) Um representante da DGF ou do SNPRCN, consoante se trate, respectivamente, de floresta pública e privada ou de áreas protegidas, ou de ambos, no caso de as áreas em perigo se interligarem;
+
+b) O presidente da câmara municipal ou seu representante;
+
+c) O comando da GNR ou da PSP da área ou seus representantes.
+
+###### Artigo 8.º — Funcionamento
+
+1 - A responsabilidade da coordenação das acções de combate compete ao comando do corpo de bombeiros em cuja área de intervenção se situa o sinistro, sem prejuízo da aplicação das normas e directivas emanadas pelo SNB (sistema de comando operacional), sempre que o incidente atinja proporções que o justifiquem.
+
+2 - O comandante operacional dos bombeiros, para a elaboração ou actualização do plano de combate, ouvirá sempre a CEFF ou as CEFFs municipais, caso haja populações em perigo.
+
+3 - A CEFF ou as CEFFs com responsabilidade na área de ocorrência do sinistro apoiam o PCO em permanência.
+
+4 - Deverá constituir-se uma rede rádio com o posto directo no PCO e postos no quartel dos bombeiros local e na sede (ou sedes) das CEFFs, além da ligação com o centro de coordenação operacional da zona.
+
+### CAPÍTULO IV — Centros de coordenação
+
+###### Artigo 9.º — Constituição e atribuições dos centros de coordenação operacional
+
+1 - As centrais de comunicação previstas no n.º 5 do artigo 17.º do [Decreto Regulamentar n.º 55/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/55-1981-567043), de 18 de Dezembro, designam-se por centros de coordenação operacional (CCOs) e abrangem áreas de intervenção de diversos corpos de bombeiros, integrados em zonas operacionais.
+
+2 - A localização dos CCOs, bem como as respectivas áreas de cobertura, são obrigatoriamente fornecidas pelo SNB à DGF (e ao SNPRCN, quando aplicável) sempre que entrem em funcionamento ou sofram qualquer alteração.
+
+3 - No combate aos fogos florestais, os CCOs dão apoio aos PCOs, em termos de mobilização e logística e de recolha e fornecimento de informações.
+
+4 - Compete ainda aos CCOs manter actualizados os planos prévios de intervenção para as zonas críticas florestais, com a colaboração técnica da DGF (e do SNPRCN, quando aplicável).
+
+5 - Os CCOs devem ser instalados pelo SNB de modo a cobrirem todo o País no mais curto período possível.
+
+###### Artigo 10.º — Centros de coordenação de meios aéreos
+
+1 - Entre o primeiro e último dia da época normal de fogos de cada ano serão feitos pelo SNB contratos para intervenção de meios aéreos.
+
+2 - Os centros de coordenação de meios aéreos (CCMAs) serão constituídos pelas seguintes entidades:
+
+a) Um delegado do SNB, que chefia o CCMA;
+
+b) Um delegado da DGF.
+
+3 - O delegado da DGF deverá estar em permanência nos CCMAs com aviões e helicópteros, ou naqueles que forem considerados base em relação a outros centros, devendo nos CCMAs dotados apenas com helicópteros ser garantida a possibilidade de o delegado acorrer em tempo mínimo, a fim de ser ouvido, quando a intervenção do meio ou meios aéreos o justifique.
+
+###### Artigo 11.º — Ligações
+
+1 - Deverão ser estabelecidas ligações rádio ou telefónicas entre os CCOs, os quartéis de bombeiros e os CCMAs, com as estruturas da DGF (ou do SNPRCN, quando aplicável), e as sedes das CEFFs, concelhias da área.
+
+2 - Sempre que for constituído um PCO, deverá ser estabelecida uma ligação rádio entre este e o CCO da zona.
+
+3 - Deverá existir sempre uma ligação entre o CCMA e o centro de prevenção e de detecção da DGF (bem como com o SNPRCN, quando tal se justifique).
+
+4 - A rede rádio deverá permitir uma ligação pronta entre o CCMA, o meio aéreo e o PCO.
+
+### CAPÍTULO V — Desenvolvimento das operações no terreno
+
+###### Artigo 12.º
+
+Cooperação conjunta entre os bombeiros, a Direcção-Geral das Florestas e o Serviço Nacional de Parques, Reservas e Conservação da Natureza.
+
+1 - A mais alta hierarquia regional da DGF com autonomia de decisão reunir-se-á com o comandante operacional dos bombeiros para acordarem a forma de actuação.
+
+2 - O mesmo se aplica ao SNPRCN quando o incêndio lavrar em área sob a gestão do SNPRCN.
+
+3 - Para facilitar essa actuação devem ser elaborados planos prévios de intervenção entre aqueles serviços e a estrutura dos bombeiros.
+
+4 - Para o caso de ser considerado necessário o apoio das estruturas daqueles serviços em incêndios, devem ser elaborados planos prévios de mobilização de meios humanos e materiais.
+
+5 - As ordens para o pessoal da DGF e do SNPRCN são veiculadas pelos representantes desses serviços.
+
+6 - Os meios postos à disposição pela CEFF, com vista ao combate ao incêndio, apresentam-se ao comandante dos bombeiros para lhes serem atribuídas missões.
+
+### CAPÍTULO VI — Rescaldo
+
+###### Artigo 13.º — Competência
+
+1 - Compete ao comandante operacional dos bombeiros assegurar o rescaldo dos incêndios, podendo para tal solicitar a cooperação da CEFF, da DGF ou do SNPRCN, conforme a entidade que detenha a jurisdição sobre a área.
+
+2 - Quando se tornar necessária a colaboração das forças armadas para operações de rescaldo e vigilância, serão observadas as normas e directivas estabelecidas pelas entidades competentes.
+
+3 - É obrigatória a presença do pessoal dos corpos de bombeiros no local de incêndio após a sua extinção e rescaldo durante o tempo necessário para precaver o seu reacendimento, decorrendo sob a sua orientação e responsabilidade as operações referidas.

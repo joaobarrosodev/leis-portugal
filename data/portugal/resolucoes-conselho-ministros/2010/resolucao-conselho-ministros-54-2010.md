@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:333506:por
+title: Resolução do Conselho de Ministros n.º 54/2010
+short_title: null
+summary: Resolve aprovar medidas de implementação da produção descentralizada de energia através de miniprodução de electricidade
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 54/2010
+official_date: null
+publication_date: '2010-08-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/2010, Série I de 2010-08-04
+  number: '150'
+  series: I
+  supplement: null
+  pages: 3193 - 3194
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/15000/0319303194.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/54/2010/08/04/p/dre/pt/html
+  oj: null
+  dre: '333506'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/54-2010-333506
+  internal: pt:dre:333506:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-2010-333506
+  metadata_url: https://data.dre.pt/eli/resolconsmin/54/2010/08/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/54-2010-333506
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-08-04T00:00:00Z'
+integrity:
+  source_sha256: c1ad647ea436daf5ccf87750ddd5ab0175d0b7009886b18d5b8ff8a80b23cc7b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-54-333506.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Energia Elétrica
+- Produção de Energia Elétrica
+- Eficiência Energética
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/29/2010/04/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 54/2010
+
+O programa do XVIII Governo Constitucional determina que Portugal deve «liderar a revolução energética» através de diversas metas, entre quais «assegurar a posição de Portugal entre os cinco líderes europeus ao nível dos objectivos em matéria de energias renováveis em 2020 e afirmar Portugal na liderança global na fileira industrial das energias renováveis, de forte capacidade exportadora».
+
+Para cumprir esses objectivos, foi aprovada a [Resolução do Conselho de Ministros n.º 29/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/29-2010-613675), de 15 de Abril, que aprova a Estratégia Nacional para a Energia 2020 (ENE 2020). A ENE 2020 tem como principais objectivos (i) reduzir a dependência energética do País face ao exterior através do aumento da produção de energia a partir de recursos endógenos; (ii) garantir o cumprimento dos compromissos assumidos por Portugal no contexto das políticas europeias de combate às alterações climáticas; (iii) reduzir em 25 % o saldo importador energético com a energia produzida a partir de fontes endógenas; (iv) criar riqueza e consolidar um cluster energético no sector das energias renováveis em Portugal; e (v) desenvolver um cluster industrial associado à promoção da eficiência energética.
+
+De entre os eixos em que a ENE 2020 assenta, assume especial importância o desenvolvimento da utilização das energias renováveis, vector cuja contribuição é fundamental para a resolução dos problemas criados por uma sociedade com cada vez maiores consumos energéticos, quer pelo potencial de diminuição das importações de petróleo e de gás natural que isso representa quer pelo contributo para o combate às alterações climáticas.
+
+A produção descentralizada de energia eléctrica a partir de diversas fontes de energia renovável, baseada tanto em unidades de microprodução, para potências que variam entre 3,68 kW e 11,04 kW, como em unidades de miniprodução, para potências até 250 kW, constitui um segmento das energias renováveis que deve ser incrementado e incentivado. Aliás, as vantagens da produção descentralizada são inequívocas: (i) contribui para os objectivos fixados na ENE 2020; (ii) diminui o trânsito de energia na rede pública com a consequente redução das perdas associadas, e (iii) constitui uma forma de investimento equilibrado em todo território nacional e reduz o investimento na rede pública de energia eléctrica.
+
+O programa da microprodução obteve um sucesso assinalável com ampla aceitação junto dos promotores e impacto favorável na indústria. A experiência acumulada com esse programa demonstrou que, em linha com as metas definidas na ENE 2020, a utilização da microprodução deve ser incentivada. O decreto-lei que estabelece o regime jurídico da microprodução criou as condições para que este tipo de produção de electricidade se faça de forma mais simples, mais transparente e em condições mais favoráveis.
+
+A microprodução destina-se sobretudo à produção de energia por particulares. Assim, é necessário alargar o acesso à produção descentralizada de energia a pequenas e médias indústrias, através da aprovação do regime jurídico da miniprodução.
+
+A presente resolução determina um conjunto de medidas que visam criar um enquadramento para a actividade de miniprodução descentralizada de energia, de modo que esta forma de produção de energia, à semelhança da microgeração, constitua um significativo contributo para o cumprimento das metas estabelecidas na ENE 2020.
+
+De entre as diversas medidas que compõem a resolução deve destacar-se o lançamento de programas específicos de miniprodução para permitir que determinadas entidades como as escolas, os mercados abastecedores, o sector público estatal, as autarquias, as instituições particulares de solidariedade social, possam produzir energia de forma descentralizada, e que esta forma de produção de energia atinja, progressivamente, uma quota de produção de 500 MW até 2020.
+
+A presente resolução está de acordo com as necessidades de sustentabilidade das finanças públicas e de crescimento sustentado.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar, na vertente da miniprodução, no prazo de 60 dias um decreto-lei que estabeleça o regime jurídico do acesso e do desenvolvimento da actividade de miniprodução, em moldes similares aos previstos para a microprodução, nomeadamente no respeitante à simplificação e desmaterialização dos procedimentos e à existência de um regime remuneratório bonificado que se mantenha em linha com a realidade e evolução dos custos associados à instalação de equipamentos de miniprodução.
+
+2 - Estabelecer uma metodologia para a determinação da remuneração que, mediante um processo competitivo, reflicta os preços de mercado a cada momento e repercuta os avanços de eficiência tecnológica.
+
+3 - Estabelecer, como critério ou condição de atribuição do direito ao acesso ao regime bonificado, a aplicação de medidas de eficiência energética e a existência de consumos relevantes no local da instalação da unidade de miniprodução.
+
+4 - Prever um regime de acesso aberto, permitindo o exercício da actividade não só aos titulares de contratos como consumidores de energia mas também a outras entidades terceiras que prestem serviços na área da energia (ESCO), que estabeleçam com os consumidores contratos de implementação das medidas de eficiência energética previstas no número anterior.
+
+5 - Criar condições para o lançamento de programas específicos de miniprodução dirigidos a segmentos especiais, como escolas, mercados abastecedores, autarquias, instituições particulares de solidariedade social, entre outros.
+
+6 - Criar condições para o lançamento de programas específicos de instalações de miniprodução com objectivos de pesquisa e desenvolvimento de novas tecnologias.
+
+7 - Determinar que ao programa de miniprodução deve ser atribuída uma potência de 500 MW até 2020.
+
+Presidência do Conselho de Ministros, 8 de Julho de 2010. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

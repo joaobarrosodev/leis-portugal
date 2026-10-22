@@ -1,0 +1,209 @@
+---
+schema_version: '1.0'
+id: pt:dre:664552:por
+title: Decreto-Lei n.º 366/93
+short_title: null
+summary: Extingue o Gabinete de Estudos e Planeamento da Administração do Território (GEPAT) e cria o Gabinete para os Assuntos
+  Europeus e Relações Externas (GAERE)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 366/93
+official_date: null
+publication_date: '1993-10-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 253/1993, Série I-A de 1993-10-28
+  number: '253'
+  series: I
+  supplement: null
+  pages: 6076 - 6077
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/10/253a00/60766077.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/366/1993/10/28/p/dre/pt/html
+  oj: null
+  dre: '664552'
+  dre_path: /dr/detalhe/decreto-lei/366-1993-664552
+  internal: pt:dre:664552:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1993-664552
+  metadata_url: https://data.dre.pt/eli/dec-lei/366/1993/10/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-1993-664552
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-05-31T00:00:00Z'
+integrity:
+  source_sha256: 8dcd2cc0aadc20f50907b5bebf19015c65725f61ee0b4d6e8baa39ad0fa522ac
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-366-664552.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Criação de Serviços
+- Extinção de Serviços
+- Ministério do Planeamento e da Administração do Território
+- Gabinete de Estudos e Planeamento da Administração do Território
+- Gabinete para os Assuntos Europeus e Relações Externas
+- Integração de Trabalhadores
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:352174:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/265/1992/11/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/265/1992/11/24/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 366/93
+
+de 28 de Outubro
+
+O facto de Portugal ser membro da Comunidade Europeia aconselha a que, nos ministérios com maiores responsabilidades nas questões europeias, haja um adequado acompanhamento de todos os aspectos técnicos, administrativos e logísticos, bem como de todas as questões emergentes de relações internacionais, em geral.
+
+Por outro lado, há que dar cumprimento à deliberação do Conselho de Ministros de 18 de Janeiro de 1990, que propugna a necessidade da instituição de um gabinete de assuntos europeus nos ministérios mais envolvidos nas questões comunitárias.
+
+Em conformidade com o exposto, o presente decreto-lei vem alterar o [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, com as alterações introduzidas pelos Decretos-Leis n.os [23/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1990-333557), de 16 de Janeiro, [409/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/409-1990-543710), de 31 de Dezembro, e [265/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1992-598157), de 24 de Novembro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+O Gabinete para os Assuntos Europeus e Relações Externas, adiante abreviadamente designado por GAERE, é o serviço central de coordenação e apoio técnico do Ministério do Planeamento e da Administração do Território, no âmbito comunitário, em matérias de planeamento e da administração do território.
+
+###### Artigo 2.º — Director
+
+1 - O GAERE é dirigido por um director, coadjuvado por um subdirector, equiparados, para todos os efeitos legais, a director-geral e subdirector-geral, respectivamente.
+
+2 - Compete, em especial, ao director representar o Ministério do Planeamento e da Administração do Território na Comissão Interministerial para as Comunidades Europeias.
+
+###### Artigo 3.º — Competências
+
+1 - São competências do GAERE:
+
+a) Contribuir, no âmbito de actuação do Ministério do Planeamento e da Administração do Território, para a formulação das medidas de política em matéria de relações internacionais;
+
+b) Coordenar e apoiar as actividades do Ministério do Planeamento e da Administração do Território inerentes à situação de Portugal como membro das Comunidades Europeias;
+
+c) Desenvolver, coordenar e apoiar as actividades do Ministério do Planeamento e da Administração do Território no âmbito de outras relações internacionais, de natureza multilateral ou bilateral;
+
+d) Apoiar os membros do Governo da área do Ministério do Planeamento e da Administração do Território no âmbito dos assuntos comunitários e quanto à respectiva intervenção nos Conselhos de Ministros da Comunidade Europeia;
+
+e) Assegurar a representação do Ministério do Planeamento e da Administração do Território na Comissão Interministerial para as Comunidades Europeias (CICE) e na Comissão Interministerial para a Cooperação;
+
+f) Analisar e emitir parecer sobre questões europeias e sobre propostas e projectos de legislação comunitária;
+
+g) Assegurar a obtenção, o tratamento e a divulgação, em tempo útil, junto dos serviços e organismos do Ministério, da documentação e de todo o tipo de informação técnica referente a questões comunitárias;
+
+h) Assegurar a articulação, no âmbito das suas atribuições, com as estruturas competentes do Ministério dos Negócios Estrangeiros, dos demais departamentos da Administração Pública ou de outras entidades;
+
+i) Promover e colaborar na elaboração de estudos técnicos, em articulação com outras entidades.
+
+2 - As competências referidas no número anterior são exercidas pelo GAERE, sem prejuízo das competências da Direcção-Geral do Desenvolvimento Regional (DGDR) no âmbito do desenvolvimento regional e dos fundos estruturais.
+
+###### Artigo 4.º — Funcionamento
+
+1 - O GAERE funciona por áreas e núcleos de actividade, coordenados por técnicos superiores, cuja estruturação interna é objecto de portaria do Ministro do Planeamento e da Administração do Território, que fixará os respectivos objectivos e composição.
+
+2 - O apoio administrativo ao GAERE é prestado pela Secretaria-Geral do Ministério do Planeamento e da Administração do Território.
+
+###### Artigo 5.º — Venda de publicações
+
+O GAERE pode proceder à venda de publicações e outros trabalhos por si realizados e editados, nos termos do artigo 73.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, constituindo o respectivo produto receita própria, servindo de contrapartida à inscrição de dotações com compensação em receita.
+
+###### Artigo 6.º — Cooperação com outros serviços
+
+O GAERE desenvolve a sua actividade em conjugação com os demais serviços do Ministério do Planeamento e da Administração do Território e, bem assim, com os serviços competentes do Ministério dos Negócios Estrangeiros e de outros departamentos da Administração Pública.
+
+###### Artigo 7.º — Quadro de pessoal
+
+1 - O quadro de pessoal do GAERE é aprovado por portaria conjunta dos Ministros das Finanças e do Planeamento e da Administração do Território.
+
+2 - Os lugares de director e de subdirector do GAERE constam do mapa anexo ao presente diploma, que dele faz parte integrante.
+
+###### Artigo 8.º — Extinção de serviços
+
+É extinto o Gabinete de Estudos e Planeamento da Administração do Território, adiante abreviadamente designado por GEPAT, criado pelo [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho.
+
+###### Artigo 9.º — Transição de pessoal
+
+1 - O pessoal do quadro do serviço extinto de acordo com o artigo anterior transita, nos termos da lei geral, para o novo quadro de pessoal do GAERE.
+
+2 - Os funcionários que se encontrem a exercer funções no GEPAT em regime de requisição ou de destacamento cessam as mesmas com a entrada em vigor do presente diploma.
+
+3 - Os concursos e estágios de pessoal concluídos até à entrada em vigor do presente diploma mantêm a sua validade para os correspondentes lugares do quadro de pessoal do GAERE.
+
+4 - Os funcionários afectos à direcção de Serviços para o Ordenamento do Território do extinto GEPAT transitam para o quadro de pessoal da Direcção-Geral do Ordenamento do Território, adiante designada por DGOT, que, para este efeito, deverá ser adequado em conformidade.
+
+5 - Até à conclusão do processo de transição de pessoal, o pagamento dos vencimentos e demais abonos será suportado por verbas do GAERE.
+
+###### Artigo 10.º — Transferência de património e de verbas orçamentais
+
+1 - Os direitos e obrigações constituídos na esfera jurídica do GEPAT transferem-se para o GAERE, sem dependência de quaisquer formalidades.
+
+2 - Os bens, móveis e imóveis, afectos ao GEPAT transferem-se para o GAERE e para a DGOT, nos termos a definir por despacho do Ministro do Planeamento e da Administração do Território.
+
+3 - O saldo das verbas orçamentais que estavam consignadas ao GEPAT fica afecto ao GAERE e à DGOT, nos termos a definir por despacho do Ministro do Planeamento e da Administração do Território.
+
+###### Artigo 11.º — Norma revogatória
+
+São revogados a alínea c) do n.º 1 do artigo 1.º e os artigos 8.º a 10.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, e o [Decreto Regulamentar n.º 9/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1987-663297), de 29 de Janeiro.
+
+Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Isabel Maria de Lucena Vasconcelos Cruz de Almeida Mota.
+
+**Promulgado em 12 de Outubro de 1993.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 14 de Outubro de 1993.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+Mapa anexo a que se refere o n.º 2 do artigo 7.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1993/10/253a00/60766077.pdf))](https://files.diariodarepublica.pt/1s/1993/10/253a00/60766077.pdf)

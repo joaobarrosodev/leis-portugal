@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:195216:por
+title: Despacho Normativo n.º 50/97
+short_title: null
+summary: Altera o Despacho Normativo n.º 51/96, de 6 de Dezembro (aprova o Regulamento de Apoios à Criação e Produção Coreográfica
+  de Carácter Profissional e de Iniciativa não Governamental)
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 50/97
+official_date: null
+publication_date: '1997-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/1997, Série I-B de 1997-08-19
+  number: '190'
+  series: I
+  supplement: null
+  pages: 4284 - 4284
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/08/190b00/42844284.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/50/1997/08/19/p/dre/pt/html
+  oj: null
+  dre: '195216'
+  dre_path: /dr/detalhe/despacho-normativo/50-1997-195216
+  internal: pt:dre:195216:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-1997-195216
+  metadata_url: https://data.dre.pt/eli/despnorm/50/1997/08/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-1997-195216
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-08-05T00:00:00Z'
+integrity:
+  source_sha256: 57b370ddf4ae5a4737ec231b44cfaeacd2bcc07fd72cb3a4acc8d2b0900ef189
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-50-195216.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Profissão Artística
+- Financiamento
+- Bailado
+- Concurso
+- Ministério da Cultura
+- Iniciativa Privada
+- Instituto Português das Artes do Espectáculo
+- Projeto
+- Regulamento
+- Subsídio
+relationships:
+- type: amended_by
+  target: pt:dre:566635:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42/1996/05/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/51/1996/12/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/51/1996/12/06/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 50/97
+
+Nos termos da alínea c) do artigo 202.º da Constituição e ao abrigo do artigo 1.º do [Decreto-Lei n.º 42/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-1996-469652), de 7 de Maio, e ainda nos termos do Despacho n.º 58/95, de 13 de Dezembro, do Ministro da Cultura:
+
+1 - É alterado o artigo 10.º do Regulamento de Apoio à Criação e Produção Coreográfica de Carácter Profissional e de Iniciativa não Governamental, aprovado pelo [Despacho Normativo n.º 51/96](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/51-1996-186303), do Secretário de Estado da Cultura, publicado no Diário da República, 1.ª série-B, de 6 de Dezembro de 1996, passando o referido artigo a ter a seguinte redacção:
+
+«Artigo 10.º
+
+Prazo de apresentação das candidaturas
+
+O prazo de apresentação das candidaturas decorrerá entre 1 de Setembro e 15 de Outubro, devendo o júri pronunciar-se até 30 de Novembro.»
+
+2 - É aditado ao referido Regulamento o artigo 24.º-A, com a redacção seguinte:
+
+«Artigo 24.º-A
+
+Relatório sobre os públicos
+
+1 - Os responsáveis pelas companhias e pelas estruturas de produção apoiadas nos termos do presente Regulamento deverão enviar aos serviços do IPAE, em Abril, Julho, Outubro e Janeiro, uma relação circunstanciada dos públicos que fruíram dos espectáculos, de acordo com as folhas de bilheteira que, para o efeito, deverão ser conservadas.
+
+2 - Os responsáveis pelos projectos pontuais de criação deverão proceder, no final da exploração dos mesmos, do modo indicado no número anterior.»
+
+3 - No caso de, à data dos concursos relativos ao ano de 1998, não se encontrar ainda concluída a institucionalização do IPAE, a composição do júri previsto no artigo 24.º do Regulamento será idêntica à indicada no artigo 27.º do mesmo diploma.
+
+4 - O presente despacho normativo produz efeitos desde 1 de Agosto de 1997.
+
+Ministério da Cultura, 31 de Julho de 1997. - O Secretário de Estado da Cultura, Rui Vieira Nery.

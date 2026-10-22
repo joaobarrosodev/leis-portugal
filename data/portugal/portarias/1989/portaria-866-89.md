@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:548784:por
+title: Portaria n.º 866/89
+short_title: null
+summary: Autoriza a Federação Portuguesa de Transportes a realizar arbitragens voluntárias institucionalizadas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 866/89
+official_date: null
+publication_date: '1989-10-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 231/1989, Série I de 1989-10-07
+  number: '231'
+  series: I
+  supplement: null
+  pages: 4383 - 4383
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/10/23100/43834383.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '548784'
+  dre_path: /dr/detalhe/portaria/866-1989-548784
+  internal: pt:dre:548784:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/866-1989-548784
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/866-1989-548784
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-10-07T00:00:00Z'
+integrity:
+  source_sha256: 475b30e6cb3921fda1022740247ab4110416a15de75b037d936ebaa6f2026101
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-866-548784.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 866/89
+
+de 7 de Outubro
+
+Em aditamento à lista de entidades autorizadas a realizar arbitragens voluntárias institucionalizadas contida na [Portaria n.º 211/89](https://diariodarepublica.pt/dr/detalhe/portaria/211-1989-613700), de 13 de Março:
+
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 425/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/425-1986-210810), de 27 de Dezembro, fazer constar que se encontra autorizada a realizar arbitragens voluntárias institucionalizadas a seguinte entidade:
+
+8) Federação Portuguesa de Transportes, titular do cartão de pessoa colectiva n.º 501608214, com sede na Rua de Viriato, 5, 1.º, em Lisboa, constituída por escritura pública de 31 de Julho de 1985, lavrada no 23.º Cartório Notarial de Lisboa, autorizada, pelo despacho ministerial n.º 56/89, de 20 de Setembro de 1989, a criar um centro de arbitragem. O centro, de carácter especializado, actuará no âmbito dos litígios de natureza marítima, de transportes e de seguros, cobrirá todo o território nacional e tem a sua sede na cidade de Lisboa.
+
+Ministério da Justiça.
+
+**Assinada em 20 de Setembro de 1989.**
+
+**O Ministro da Justiça, Joaquim Fernando Nogueira.**

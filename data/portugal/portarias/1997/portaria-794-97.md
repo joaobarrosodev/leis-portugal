@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:642536:por
+title: Portaria n.º 794/97
+short_title: null
+summary: Altera o quadro de pessoal da Comissão de Coordenação da Região do Alentejo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 794/97
+official_date: null
+publication_date: '1997-09-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 201/1997, Série I-B de 1997-09-01
+  number: '201'
+  series: I
+  supplement: null
+  pages: 4564 - 4564
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/09/201b00/45644564.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/794/1997/09/01/p/dre/pt/html
+  oj: null
+  dre: '642536'
+  dre_path: /dr/detalhe/portaria/794-1997-642536
+  internal: pt:dre:642536:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/794-1997-642536
+  metadata_url: https://data.dre.pt/eli/port/794/1997/09/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/794-1997-642536
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-09-01T00:00:00Z'
+integrity:
+  source_sha256: 7450c0a2bfd552950a312036adcfa67ac3072c14487606d4371e5f7929170c43
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-794-642536.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Regional de Saúde do Alentejo
+- Pessoal Operário
+- Pessoal Administrativo
+- Pessoal de Informática
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/272/1991/08/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/501/1992/06/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/501/1992/06/19/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 794/97
+
+de 1 de Setembro
+
+Os princípios gerais de gestão, orientados pelo rigor e dimensionamento dos quadros de pessoal face aos objectivos e necessidades permanentes, visando a eficiente e eficaz resposta dos serviços às atribuições que lhes estão cometidas, determinam medidas de actualização que possibilitem uma conveniente adequação entre estes.
+
+Assim, manda o Governo, pelos Ministros das Finanças, do Equipamento, do Planeamento e da Administração do Território e Adjunto, ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, que o quadro de pessoal da Comissão de Coordenação da Região do Alentejo, aprovado pelo mapa anexo XIX ao [Decreto-Lei n.º 272/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1991-681593), de 7 de Agosto, e alterado pela [Portaria n.º 501/92](https://diariodarepublica.pt/dr/detalhe/portaria/501-1992-301428), de 19 de Junho, passe a ser, no que respeita às carreiras de operador de sistemas, de mecânico e de auxiliar administrativo, o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.
+
+**Assinada em 18 de Agosto de 1997.**
+
+Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/201b00/45644564.pdf))](https://files.diariodarepublica.pt/1s/1997/09/201b00/45644564.pdf)

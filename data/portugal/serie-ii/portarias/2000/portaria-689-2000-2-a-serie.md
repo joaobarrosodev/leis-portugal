@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:2238398:por
+title: Portaria n.º 689/2000 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Defesa Nacional - Força Aérea - Comando de Pessoal da Força Aérea
+proposing_entity: null
+official_number: 689/2000 (2.ª série)
+official_date: null
+publication_date: '2000-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/2000, Série II de 2000-04-22
+  number: '95'
+  series: II
+  supplement: null
+  pages: 7286 - 7287
+  pdf_url: https://files.diariodarepublica.pt/2s/2000/04/095000000/0728607287.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2238398'
+  dre_path: /dr/detalhe/portaria/689-2000-2238398
+  internal: pt:dre:2238398:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/689-2000-2238398
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/689-2000-2238398
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-04-22T00:00:00Z'
+integrity:
+  source_sha256: df92fb8f649ccaa23ed66fd95017218bc2dff6d28ea7b9b209089b3afd10b757
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-689-2238398.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 689/2000 (2.ª série)
+
+Portaria n.º 689/2000 (2.ª série). - Manda o Chefe do Estado-Maior da Força Aérea que os militares destinados ao regime de contrato em seguida mencionados sejam promovidos ao posto de ASPOF, nos termos da alínea a) do n.º 1 do artigo 371.º do Estatuto dos Militares das Forças Armadas (EMFAR), aprovado pelo [Decreto-Lei n.º 34-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-a-1990-626423), de 24 de Janeiro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 157/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-1992-275443), de 31 de Julho:
+
+a) PIL:
+
+SOLCAD PIL SEN 128730 D, Vítor Jorge Paiva Alves - CFMTFA.
+
+SOLCAD PIL SEN 129224 C, Thor de Seixas Pereira Lauvstad - CFMTFA.
+
+SOLCAD PIL SEN 125831 G, Sérgio Miguel da Costa Nicolau - CFMTFA.
+
+SOLCAD PIL SEN 129227 H, Tiago Bruno Cristo da Conceição Madeira - CFMTFA.
+
+SOLCAD PIL SEN 129232 D, Paulo Jorge Cameirão Romero - CFMTFA.
+
+SOLCAD PIL SEN 129228 F, Diogo João Vidal Ramires da Silva - CFMTFA.
+
+SOLCAD PIL SEN 129245 F, Ana Cristina Nascimento Santos - CFMTFA.
+
+SOLCAD PIL SEN 129244 H, Rafael Jorge Matos Duarte Silva - CFMTFA.
+
+SOLCAD PIL SEN 129242 A, Jean Carlos Oliveira Ramos - CFMTFA.
+
+SOLCAD PIL SEN 129225 A, Hugo Daniel de Andrade da Silva Rente - CFMTFA.
+
+SOLCAD PIL SEN 129243 K, Pedro Nuno Mondego de Palhares Falcão - CFMTFA.
+
+SOLCAD PIL SEN 129226 K, Gualter Márcio Lopes Medeiros - CFMTFA.
+
+SOLCAD PIL SEN 129238 C, Bruno Isaac de Morais - CFMTFA.
+
+SOLCAD PIL SEN 125552 F, Tiago Emmanuel Pascoal Jesus Gonçalves - CFMTFA.
+
+SOLCAD PIL SEN 129230 H, Hugo Filipe Monteiro Madeira - CFMTFA.
+
+b) NAV:
+
+SOLCAD NAV SEN 129190 E, Nuno Alexandre de Oliveira Pinto - CFMTFA.
+
+SOLCAD NAV SEN 129246 D, Inácio Joaquim da Silva Pinto - CFMTFA.
+
+SOLCAD NAV SEN 129215 D, Renata Maria de Almeida Sampaio Pereira - CFMTFA.
+
+SOLCAD NAV SEN 129211 A, Sara Janine Vilela Ferreira Morgado - CFMTFA.
+
+c) TINF:
+
+SOLCAD TINF SEN 128646 D, Carlos Eduardo Correia de Passos - CFMTFA.
+
+SOLCAD TINF SEN 129233 B, Nuno Alberto Pires Nunes Teixeira Gomes - CFMTFA.
+
+SOLCAD TINF SEN 129216 B, Ricardo Filipe Monteiro da Silva Ferreira - CFMTFA.
+
+SOLCAD TINF SEN 129239 A, Bruno Miguel Mergulhão da Silva Santos - CFMTFA.
+
+SOLCAD TINF SEN 129241 C, Pedro Filipe Ribeiro Pereira - CFMTFA.
+
+SOLCAD TINF SEN 129237 E, Eugénia Maria Monteiro de Sousa - CFMTFA.
+
+SOLCAD TINF SEN 129212 K, Vanessa Sofia Barroca dos Reis - CFMTFA.
+
+d) TOCART:
+
+SOLCAD TOCART SEN 129217 L, Óscar Luís Soeiro Frias - CFMTFA.
+
+SOLCAD TOCART SEN 129235 J, André Alexandre Barros Casimiro - CFMTFA.
+
+SOLCAD TOCART SEN 129223 E, Nuno Ricardo Moreira Garcês - CFMTFA.
+
+SOLCAD TOCART SEN 129222 G, Hélder Miguel Godinho Pinto Lopes da Silva - CFMTFA.
+
+SOLCAD TOCART SEN 129214 F, Alexandre José dos Santos Moco - CFMTFA.
+
+SOLCAD TOCART SEN 129231 F, Rui Filipe Gomes Rodrigues - CFMTFA.
+
+SOLCAD TOCART SEN 129234 L, Bruno Emanuel de Magalhães Diogo - CFMTFA.
+
+SOLCAD TOCART SEN 128828 J, Sandra Raquel Rodrigues Correia - CFMTFA.
+
+Contam a antiguidade e os efeitos administrativos desde 15 de Março de 2000.
+
+27 de Março de 2000. - Por delegação do Chefe do Estado-Maior da Força Aérea, o Comandante do Pessoal, em exercício, Pedro Manuel Pacheco Jorge Barreiros, major-general/MED.

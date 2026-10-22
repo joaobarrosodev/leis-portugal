@@ -1,0 +1,106 @@
+---
+schema_version: '1.0'
+id: pt:dre:582004:por
+title: Portaria n.º 19/80
+short_title: null
+summary: Altera o n.º 2.º, 1, da Portaria n.º 173/79, de 11 de Abril, que fixa os preços máximos de venda no armazém do fabricante
+  ou do consignatário e de venda ao público dos produtos dietéticos derivados do leite e destinados a alimentação infantil
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo - Secretaria de Estado do Comércio Interno
+proposing_entity: null
+official_number: 19/80
+official_date: null
+publication_date: '1980-01-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/1980, Série I de 1980-01-08
+  number: '6'
+  series: I
+  supplement: null
+  pages: 22 - 22
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00600/00220022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '582004'
+  dre_path: /dr/detalhe/portaria/19-1980-582004
+  internal: pt:dre:582004:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-1980-582004
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19-1980-582004
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-11-26T00:00:00Z'
+integrity:
+  source_sha256: 7f14f6b56b2423c8424bdf42e75c64bce4ce63551a0f7c6c9ef0956c78220c42
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-19-582004.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:459006:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19/80
+
+de 8 de Janeiro
+
+Ao abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, no artigo 5.º do [Decreto-Lei n.º 314/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/314-1972-676446), de 17 de Agosto, e no n.º 1 do artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio Interno:
+
+1.º O n.º 2.º, 1, da [Portaria n.º 173/79](https://diariodarepublica.pt/dr/detalhe/portaria/173-1979-515836), de 11 de Abril, passa a ter a seguinte redacção:
+
+2.º - 1 - Os preços máximos de venda no armazém do fabricante ou do consignatário e de venda ao público são os seguintes, por quilograma:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/01/00600/00220022.pdf))](https://files.diariodarepublica.pt/1s/1980/01/00600/00220022.pdf)
+
+2.º É revogado o n.º 7.º da [Portaria n.º 173/79](https://diariodarepublica.pt/dr/detalhe/portaria/173-1979-515836), de 11 de Abril.
+
+3.º Esta portaria entra em vigor no dia seguinte ao da sua publicação, excepto quanto aos produtos que se encontrem nos armazenistas, retalhistas ou equiparados, que manterão os preços de venda ao público devidamente impressos nas respectivas embalagens, bem como as margens prescritas na [Portaria n.º 173/79](https://diariodarepublica.pt/dr/detalhe/portaria/173-1979-515836), de 11 de Abril.
+
+Secretaria de Estado do Comércio Interno, 12 de Dezembro de 1979. - O Secretário de Estado do Comércio Interno, Manuel Duarte Pereira.

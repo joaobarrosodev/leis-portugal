@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:470028:por
+title: Decreto n.º 45600
+short_title: null
+summary: Autoriza o Ministério da Marinha, por intermédio do conselho administrativo da Direcção do Serviço de Administração
+  Naval, a celebrar contrato para o fornecimento de equipamento mecanográfico no corrente ano e de manutenção do regime de
+  aluguer do referido equipamento nos anos económicos de 1965 e seguintes
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Marinha - Superintendência dos Serviços da Armada
+proposing_entity: null
+official_number: '45600'
+official_date: null
+publication_date: '1964-03-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 57/1964, Série I de 1964-03-07
+  number: '57'
+  series: I
+  supplement: null
+  pages: 395 - 396
+  pdf_url: https://files.diariodarepublica.pt/1s/1964/03/05700/03950396.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '470028'
+  dre_path: /dr/detalhe/decreto/45600-1964-470028
+  internal: pt:dre:470028:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45600-1964-470028
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45600-1964-470028
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1964-03-07T00:00:00Z'
+integrity:
+  source_sha256: 6b27e6c42b078c43bd077f2a2b6acc8cb66d9b66260270d7e7d36197e701ddc5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1964/DRE-1964-45600-470028.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45600
+
+Considerando que foi adjudicada à Companhia I. B. M. Portuguesa, representante em Portugal da firma I. B. M. World Trade Corporation, o fornecimento, em regime de aluguer, do equipamento indispensável ao funcionamento do Serviço Mecanográfico da Armada, criado pelo [Decreto n.º 44521](https://diariodarepublica.pt/dr/detalhe/decreto/44521-1962-163215), de 18 de Agosto de 1962;
+
+Considerando que esse equipamento mecanográfico tem de ser encomendado com antecedência, a fim de permitir a sua entrega ao serviço utente, parte no ano corrente, parte no próximo ano económico, ficando completo no ano de 1966;
+
+Tendo em vista o disposto no artigo 181.º e seu § 1.º do Regulamento de Administração da Fazenda Naval, aprovado pelo [Decreto n.º 31859](https://diariodarepublica.pt/dr/detalhe/decreto/31859-1942-167631), de 17 de Janeiro de 1942, e as alterações que lhe foram introduzidas pelo [Decreto n.º 42983](https://diariodarepublica.pt/dr/detalhe/decreto/42983-1960-505055), de 21 de Maio de 1960;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º É autorizado o Ministério da Marinha, por intermédio do conselho administrativo da Direcção do Serviço de Administração Naval, a celebrar contrato com a Companhia I. B. M. Portuguesa para o fornecimento de equipamento mecanográfico, na importância de 309024$00, no corrente ano económico de 1964.
+
+§ único. A quantia mencionada no corpo deste artigo corresponde ao aluguer do equipamento a entregar no ano corrente e à aquisição de fios e painéis de ligação.
+
+###### Art. 2.º É igualmente autorizada a manutenção do regime de aluguer do referido equipamento nos anos económicos de 1965 e seguintes, até ao montante anual de 1664340$00, não podendo a despesa exceder 1574598$00 em 1965.
+
+§ único. Fica o Ministério da Marinha autorizado a inscrever anualmente no seu orçamento próprio o crédito necessário para a execução do disposto neste diploma.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 7 de Março de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Fernando Quintanilha Mendonça Dias.

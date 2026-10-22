@@ -1,0 +1,373 @@
+---
+schema_version: '1.0'
+id: eu:celex:32007L0058:por
+title: Directiva 2007/58/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2007
+short_title: null
+summary: Directiva 2007/58/CE do Parlamento Europeu e do Conselho, de 23 de Outubro de 2007 , que altera a Directiva 91/440/CEE
+  do Conselho relativa ao desenvolvimento dos caminhos-de-ferro comunitários e a Directiva 2001/14/CE relativa à repartição
+  de capacidade da infra-estrutura ferroviária e à aplicação de taxas de utilização da infra-estrutura ferroviária
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+- Parlamento Europeu
+proposing_entity: null
+official_number: 2007/58
+official_date: null
+publication_date: '2007-12-03'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 315 de 3.12.2007
+  number: '315'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.01/DOC_1
+entry_into_force_dates:
+- '2007-12-04'
+end_of_validity_date: '2015-06-16'
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32007L0058
+  eli: http://data.europa.eu/eli/dir/2007/58/oj
+  oj: oj:JOL_2007_315_R_0044_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32007L0058:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32007L0058
+  metadata_url: http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018
+  content_url: http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T02:58:37Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-12-03T21:57:19.788+01:00'
+integrity:
+  source_sha256: 385e8e87528754b356ad2572297c925f6d096881acdce62838c0c0d5fafbbc4b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:58:37Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- capacidade de transporte
+- infraestrutura do transporte
+- licença de transporte
+- mercado único
+- rede ferroviária
+- taxa de infraestrutura
+- transporte intra-UE
+relationships:
+- type: amended_by
+  target: celex:32012L0034
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0a4ee661-4433-11e2-9b3b-01aa75ed71a1
+  date: '2012-11-21'
+- type: amends
+  target: celex:31991L0440
+  label: null
+  source: http://publications.europa.eu/resource/cellar/58f78593-77f7-422b-8472-269d9c038528
+  date: '1991-07-29'
+- type: amends
+  target: celex:32001L0014
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f8486558-bd00-47ef-955e-591d05481147
+  date: '2001-03-19'
+- type: based_on
+  target: celex:12006E071
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3c2396f8-4e08-490e-bd76-848b1beb2b6a
+  date: '2007-01-31'
+- type: based_on
+  target: celex:12006E251
+  label: null
+  source: http://publications.europa.eu/resource/cellar/171e521a-3ffe-46ac-90eb-ed97dbb7dcd2
+  date: '2007-01-31'
+- type: cited_by
+  target: pt:dre:114394826:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:611311:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31999D0468
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f9830283-df4c-4576-b043-875dce0385ce
+- type: cites
+  target: celex:32001L0012
+  label: null
+  source: http://publications.europa.eu/resource/cellar/62c066e8-6d92-4127-a8c8-871b57817e3d
+- type: cites
+  target: celex:32001L0013
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d8585941-acb9-421f-96b2-aaebdd1bb38b
+- type: cites
+  target: celex:32003Q1231(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7b999342-40f9-4b00-9a7c-c5185db1f34c
+- type: cites
+  target: celex:32004L0049
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f709b117-368d-4e6f-82a2-0834af9a4e3c
+- type: cites
+  target: celex:32004L0051
+  label: null
+  source: http://publications.europa.eu/resource/cellar/db46080f-a7d4-4406-a720-102026611b0e
+- type: cites
+  target: celex:32007R1370
+  label: null
+  source: http://publications.europa.eu/resource/cellar/b363bd7c-700b-4360-a9af-82156c6be71a
+- type: corrected_by
+  target: celex:32007L0058R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c4a7b2d2-420d-4330-8198-d4427f722138
+  date: '2008-03-18'
+- type: repealed_by
+  target: celex:32012L0034
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0a4ee661-4433-11e2-9b3b-01aa75ed71a1
+  date: '2012-11-21'
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:58:37Z'
+  warnings:
+  - Versão consolidada 02007L0058-20071204 indisponível (Sem expressão na língua por para CELEX 02007L0058-20071204.); usado
+    o texto do JO.
+  errors: []
+---
+
+# DIRECTIVA 2007/58/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+
+de 23 de Outubro de 2007
+
+que altera a Directiva 91/440/CEE do Conselho relativa ao desenvolvimento dos caminhos-de-ferro comunitários e a Directiva 2001/14/CE relativa à repartição de capacidade da infra-estrutura ferroviária e à aplicação de taxas de utilização da infra-estrutura ferroviária
+
+O PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,
+
+Tendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 71.º,
+
+Tendo em conta a proposta da Comissão,
+
+Tendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr1-L_2007315PT.01004401-E0001),
+
+Tendo em conta o parecer do Comité das Regiões [([^2])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr2-L_2007315PT.01004401-E0002),
+
+Deliberando nos termos do artigo 251.º do Tratado, tendo em conta o projecto comum aprovado em 31 de Julho de 2007 pelo Comité de Conciliação [([^3])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr3-L_2007315PT.01004401-E0003),
+
+Considerando o seguinte:
+
+(1) A Directiva 91/440/CEE do Conselho, de 29 de Julho de 1991, relativa ao desenvolvimento dos caminhos-de-ferro comunitários [([^4])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr4-L_2007315PT.01004401-E0004), tem por objectivo facilitar a adaptação dos caminhos-de-ferro comunitários às exigências do mercado único e aumentar a sua eficiência.
+
+(2) A Directiva 2001/14/CE do Parlamento Europeu e do Conselho, de 26 de Fevereiro de 2001, relativa à repartição de capacidade da infra-estrutura ferroviária e à aplicação de taxas de utilização da infra-estrutura ferroviária [([^5])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr5-L_2007315PT.01004401-E0005), diz respeito aos princípios e aos procedimentos a aplicar na definição e cobrança das taxas de utilização da infra-estrutura ferroviária e na repartição das capacidades da infra-estrutura ferroviária.
+
+(3) No livro branco «A política europeia de transportes no horizonte 2010: a hora das opções», a Comissão comunicou a sua intenção de avançar na realização do mercado interno de serviços ferroviários, propondo a abertura do mercado dos serviços internacionais de transporte de passageiros.
+
+(4) A presente directiva tem como objectivo a abertura do mercado dos serviços internacionais de transporte ferroviário de passageiros no interior da Comunidade e, por conseguinte, não deverá cobrir serviços entre um Estado-Membro e um país terceiro. Além disso, os Estados-Membros deverão poder excluir do âmbito da presente directiva os serviços com trânsito pela Comunidade.
+
+(5) A actual situação dos serviços ferroviários internacionais apresenta realidades diversas. Por um lado, os serviços de longo curso (nomeadamente, os comboios nocturnos) atravessam momentos difíceis, tendo vários deles sido recentemente suprimidos pelas empresas ferroviárias que os operavam com o objectivo de limitar os prejuízos. Por outro lado, o mercado dos serviços internacionais de alta velocidade registou um forte crescimento, que se irá acentuar com a extensão e a interligação da rede transeuropeia de alta velocidade no horizonte de 2010. Todavia, em ambos os casos, a pressão da concorrência das transportadoras aéreas de custos reduzidos é muito forte. Consequentemente, é indispensável incentivar novas iniciativas, promovendo a concorrência entre empresas ferroviárias.
+
+(6) A abertura do mercado dos serviços internacionais de transporte de passageiros não é possível sem disposições detalhadas sobre o acesso à infra-estrutura, avanços importantes no domínio da interoperabilidade e um enquadramento rigoroso da segurança ferroviária à escala nacional e europeia. Estas condições estão agora reunidas com a transposição da Directiva 2001/12/CE do Parlamento Europeu e do Conselho, de 26 de Fevereiro de 2001, que altera a Directiva 91/440/CEE do Conselho [([^6])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr6-L_2007315PT.01004401-E0006), da Directiva 2004/51/CE do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, que altera a Directiva 91/440/CEE do Conselho [([^7])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr7-L_2007315PT.01004401-E0007), da Directiva 2001/13/CE do Parlamento Europeu e do Conselho, de 26 de Fevereiro de 2001, que altera a Directiva 95/18/CE do Conselho [([^8])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr8-L_2007315PT.01004401-E0008), da Directiva 2001/14/CE e da Directiva 2004/49/CE do Parlamento Europeu e do Conselho, de 29 de Abril de 2004, relativa à segurança dos caminhos-de-ferro da Comunidade [([^9])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr9-L_2007315PT.01004401-E0009). Este novo quadro regulador deverá basear-se numa prática devidamente estabelecida e consolidada na data proposta para a abertura do mercado dos serviços internacionais de transporte de passageiros. Para tal, será necessário tempo. Por esse motivo, a data limite para a abertura do mercado deverá ser 1 de Janeiro de 2010.
+
+(7) O número de serviços ferroviários sem paragens intermédias é muito reduzido. No caso dos trajectos com paragens intermédias, é indispensável autorizar os novos operadores no mercado a embarcar e desembarcar passageiros durante a viagem para assegurar uma possibilidade realista de estas operações terem viabilidade económica e evitar colocar os potenciais concorrentes em desvantagem relativamente aos operadores já estabelecidos, que têm o direito de o fazer. Este direito deverá aplicar-se sem prejuízo da regulamentação comunitária e nacional em matéria de política de concorrência.
+
+(8) A introdução de novos serviços internacionais liberalizados com paragens intermédias não deverá ser utilizada para abrir o mercado dos serviços nacionais de passageiros, concentrando-se apenas nas paragens que servem o trajecto internacional. Assim, a sua introdução deverá dizer respeito aos serviços cujo objectivo principal seja transportar passageiros em viagens internacionais. Para determinar se é esse o objectivo principal do serviço, serão tidos em conta critérios como a proporção das receitas e do volume do transporte nacional e internacional de passageiros, e a extensão do percurso do serviço. Essa determinação deverá ser feita pelas entidades reguladoras nacionais em causa, a pedido de uma parte interessada.
+
+(9) O Regulamento (CE) n.º 1370/2007 do Parlamento Europeu e do Conselho [([^10])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr10-L_2007315PT.01004401-E0010) relativo aos serviços públicos de transporte ferroviário e rodoviário de passageiros prevê a possibilidade de os Estados-Membros e as autoridades locais adjudicarem contratos de serviço público. Esses contratos podem incluir direitos exclusivos de exploração de determinados serviços. Logo, é necessário assegurar a coerência entre as disposições do referido regulamento e o princípio da abertura à concorrência dos serviços internacionais de transporte de passageiros.
+
+(10) A abertura à concorrência dos serviços internacionais de transporte de passageiros, que inclui o direito de embarcar e desembarcar passageiros em qualquer estação situada no trajecto de um serviço internacional, incluindo as estações situadas no mesmo Estado-Membro, pode ter repercussões na organização e no financiamento dos serviços de transporte ferroviário de passageiros prestados no âmbito de um contrato de serviço público. Os Estados-Membros deverão ter a possibilidade de limitar o direito de acesso ao mercado sempre que este comprometa o equilíbrio económico desses contratos de serviço público e que a entidade reguladora relevante a que se refere o artigo 30.º da Directiva 2001/14/CE aprove a limitação, com base numa análise económica objectiva, a pedido das autoridades competentes que tenham adjudicado o contrato de serviço público.
+
+(11) Alguns Estados-Membros já tomaram medidas para a abertura do mercado do transporte ferroviário de passageiros, através de concursos públicos transparentes e abertos à concorrência para a prestação de alguns desses serviços. Não deverão ter de prever a plena abertura do mercado dos serviços internacionais de transporte de passageiros, uma vez que tal concurso para o direito de utilizar determinados eixos ferroviários já constituiu um teste suficiente do valor de mercado da exploração desses serviços.
+
+(12) A avaliação dos riscos para o equilíbrio económico dos contratos de serviço público deverá ter em conta critérios pré-estabelecidos, tais como o impacto na rentabilidade de quaisquer serviços incluídos no contrato de serviço público, incluindo os impactos em cadeia no custo líquido para as autoridades públicas que tenham adjudicado o contrato de serviço público, a procura por parte dos passageiros, o preço dos bilhetes, as modalidades de emissão de bilhetes, a localização e o número das estações de ambos os lados da fronteira, bem como os horários e a frequência do novo serviço proposto. Respeitando essa avaliação e a decisão da entidade reguladora relevante, os Estados-Membros poderão autorizar, alterar ou recusar o direito de acesso ao serviço internacional de transporte de passageiros solicitado, e aplicar uma taxa ao operador de um novo serviço internacional de transporte de passageiros, em função da análise económica e em conformidade com o direito comunitário e com os princípios de igualdade e não discriminação.
+
+(13) Tendo em vista contribuir para a exploração de serviços de transporte de passageiros nas linhas que cumpram uma obrigação de serviço público, os Estados-Membros deverão poder autorizar as autoridades responsáveis por esses serviços a cobrar uma taxa pelos serviços de passageiros da competência dessas autoridades. Esta taxa deverá constituir um contributo para o financiamento das obrigações de serviço público fixadas pelos contratos de serviço público adjudicados nos termos do direito comunitário. A taxa deverá ser aplicada em conformidade com o direito comunitário, em particular com os princípios de equidade, transparência, não discriminação e proporcionalidade.
+
+(14) A entidade reguladora deverá funcionar de forma a evitar conflitos de interesses e eventuais envolvimentos na adjudicação do contrato de serviço público em causa. Em especial, se, para efeitos organizativos ou jurídicos, estiver estreitamente associada à autoridade competente para a adjudicação do contrato de serviço público em causa, a sua independência funcional não deverá ser afectada. A competência da entidade reguladora deverá ser alargada por forma a que possa avaliar o objectivo de um serviço internacional e, se for caso disso, o impacto económico potencial nos contratos de serviço público existentes.
+
+(15) A presente directiva constitui uma nova fase da abertura do mercado ferroviário. Alguns Estados-Membros já procederam à abertura do mercado dos serviços internacionais de transporte de passageiros no seu território. Neste contexto, a presente directiva não deverá entender-se como geradora da obrigação, para esses Estados-Membros, de conceder, antes de 1 de Janeiro de 2010, direitos de acesso a empresas ferroviárias licenciadas num Estado-Membro onde não sejam concedidos direitos semelhantes.
+
+(16) Por forma a encorajar o investimento em serviços que utilizem infra-estruturas especializadas como, por exemplo, ligações de alta velocidade, os candidatos necessitam de poder planificar e precisam de dispor de segurança jurídica correspondente à importância dos avultados investimentos de longo prazo necessários. Por esse motivo, deverá ser dada a essas empresas a possibilidade de celebrarem normalmente acordos-quadro com uma duração até quinze anos.
+
+(17) As entidades reguladoras nacionais deverão, com base no artigo 31.º da Directiva 2001/14/CE, trocar informações e, se necessário, em casos pontuais, coordenar os princípios e a prática de avaliação dos riscos para o equilíbrio económico de um contrato de serviço público. Essas entidades deverão definir progressivamente orientações com base na sua experiência.
+
+(18) A aplicação da presente directiva deverá ser avaliada com base num relatório da Comissão, a apresentar dois anos após a data de abertura do mercado de serviços internacionais de transporte de passageiros. Este relatório deverá examinar também o desenvolvimento do mercado, incluindo o estado de adiantamento da preparação para uma maior abertura do mercado dos serviços de transporte ferroviário de passageiros. Nesse relatório, a Comissão deverá ainda examinar os diferentes modelos de organização deste mercado e o impacto da presente directiva sobre os contratos de serviço público e o seu financiamento. Ao fazê lo, a Comissão deverá ter em conta a aplicação do Regulamento (CE) n.º 1370/2007 e as diferenças intrínsecas existentes entre os Estados-Membros (densidade das redes, número de passageiros, distância média dos percursos). No seu relatório, a Comissão deverá, se necessário, propor medidas complementares destinadas a facilitar a realização desta abertura e examinar o impacto de tais medidas.
+
+(19) As medidas necessárias à execução das Directivas 91/440/CEE e 2001/14/CE devem ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^11])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr11-L_2007315PT.01004401-E0011).
+
+(20) Em especial, deverá ser atribuída competência à Comissão para adaptar os anexos das referidas directivas. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais dessas directivas, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.
+
+(21) Seria desproporcionado e inútil impor aos Estados-Membros que não disponham de um sistema ferroviário, nem tenham perspectivas da criação de tal sistema no futuro imediato, a obrigação de transpor e aplicar as Directivas 91/440/CEE e 2001/14/CE. Por conseguinte, esses Estados-Membros deverão ser dispensados da obrigação de transpor e aplicar as referidas directivas, enquanto não dispuserem de um sistema ferroviário.
+
+(22) Atendendo a que o objectivo da presente directiva, a saber o desenvolvimento dos caminhos-de-ferro comunitários, não pode ser suficientemente realizado pelos Estados-Membros devido à necessidade de assegurar condições equitativas e não discriminatórias de acesso à infra-estrutura e de ter em conta a dimensão manifestamente internacional do funcionamento de importantes componentes das redes de caminho-de-ferro, bem como à necessidade de uma acção transnacional coordenada, e pode, pois, ser mais bem alcançado a nível comunitário, a Comunidade pode tomar medidas em conformidade com o princípio da subsidiariedade consagrado no artigo 5.º do Tratado. Em conformidade com o princípio da proporcionalidade consagrado no mesmo artigo, a presente directiva não excede o necessário para atingir aquele objectivo.
+
+(23) Em conformidade com o ponto 34 do Acordo Interinstitucional «Legislar Melhor» [([^12])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr12-L_2007315PT.01004401-E0012), os Estados-Membros são incentivados a elaborar, para si próprios e no interesse da Comunidade, os seus próprios quadros, que ilustrem, na medida do possível, a concordância entre a presente directiva e as medidas de transposição, e a publicá-los.
+
+(24) As Directivas 91/440/CEE e 2001/14/CE deverão, pois, ser alteradas em conformidade,
+
+APROVARAM A PRESENTE DIRECTIVA:
+
+###### Artigo 1.º
+
+A Directiva 91/440/CEE é alterada do seguinte modo:
+
+1. Ao artigo 2.º, é aditado o seguinte número: «4. Os Estados-Membros podem excluir do âmbito de aplicação da presente directiva os serviços ferroviários efectuados em trânsito através da Comunidade cujo início e fim sejam fora do território da Comunidade.».
+
+2. É suprimido o quarto travessão do artigo 3.º
+
+3. No artigo 3.º, após o quinto travessão, é inserido o seguinte travessão: «— “serviço internacional de transporte de passageiros”, um serviço de transporte de passageiros em que o comboio atravessa pelo menos uma fronteira de um Estado-Membro e cujo objectivo principal é transportar passageiros entre estações situadas em Estados-Membros diferentes; a composição pode ser aumentada e/ou diminuída e as diferentes secções que a constituem podem ter proveniências e destinos diferentes, desde que todas as carruagens atravessem pelo menos uma fronteira,».
+
+«— “serviço internacional de transporte de passageiros”, um serviço de transporte de passageiros em que o comboio atravessa pelo menos uma fronteira de um Estado-Membro e cujo objectivo principal é transportar passageiros entre estações situadas em Estados-Membros diferentes; a composição pode ser aumentada e/ou diminuída e as diferentes secções que a constituem podem ter proveniências e destinos diferentes, desde que todas as carruagens atravessem pelo menos uma fronteira,».
+
+4. No artigo 3.º, após o sexto travessão, é inserido o seguinte travessão: «— “trânsito”, a travessia do território comunitário sem embarque nem desembarque de mercadorias e/ou sem embarque nem desembarque de passageiros nesse território,».
+
+«— “trânsito”, a travessia do território comunitário sem embarque nem desembarque de mercadorias e/ou sem embarque nem desembarque de passageiros nesse território,».
+
+5. É suprimido o primeiro travessão do n.º 3 do artigo 5.º
+
+6. No primeiro parágrafo do artigo 8.º, são suprimidas as palavras «e pelos agrupamentos internacionais».
+
+7. É suprimido o n.º 1 do artigo 10.º
+
+8. No artigo 10.º, são inseridos os seguintes números: «3-A. Até 1 de Janeiro de 2010, as empresas ferroviárias abrangidas pelo artigo 2.º passam a beneficiar do direito de acesso à infra-estrutura de todos os Estados-Membros para a exploração de serviços internacionais de transporte de passageiros. No decurso de um serviço internacional de transporte de passageiros, as empresas ferroviárias podem embarcar e desembarcar passageiros em qualquer estação situada no trajecto internacional, incluindo as estações situadas no mesmo Estado-Membro. O direito de acesso à infra-estrutura dos Estados-Membros para os quais a quota de transporte ferroviário internacional de passageiros constitui mais de metade do volume de passageiros das empresas ferroviárias nesse Estado-Membro é concedido até 1 de Janeiro de 2012. Cabe à entidade ou entidades reguladoras relevantes, a que se refere o artigo 30.º da Directiva 2001/14/CE, determinar se o objectivo principal do serviço é o transporte de passageiros entre estações situadas em Estados-Membros diferentes, a pedido das autoridades competentes e/ou das empresas de transportes ferroviários interessadas. 3-B. Os Estados-Membros podem limitar o direito de acesso previsto no n.º 3-A nos serviços entre um local de partida e um local de destino que sejam objecto de um ou vários contratos de serviço público nos termos da legislação comunitária em vigor. Tal limitação não pode criar restrições ao direito de embarcar e desembarcar passageiros em qualquer estação situada no trajecto de um serviço internacional, nomeadamente em estações situadas no mesmo Estado-Membro, salvo se o exercício desse direito comprometer o equilíbrio económico de um contrato de serviço público. Os riscos para o equilíbrio económico são determinados pela entidade ou entidades reguladoras relevantes, a que se refere o artigo 30.º da Directiva 2001/14/CE, com base numa análise económica objectiva, baseada em critérios pré-definidos, a pedido: — da autoridade ou autoridades competentes que tenham adjudicado o contrato de serviço público, — de qualquer outra autoridade competente interessada que tenha o direito de limitar o acesso ao abrigo do presente artigo, — do gestor da infra-estrutura, ou — da empresa ferroviária que executa o contrato de serviço público. As autoridades competentes e as empresas ferroviárias que prestam os serviços públicos fornecem à entidade ou entidades reguladoras relevantes as informações de que estas possam razoavelmente necessitar para tomar uma decisão. A entidade reguladora analisa as informações fornecidas, consultando, se necessário, todas as partes relevantes e informa-as da sua decisão fundamentada num prazo razoável pré-estabelecido que não pode exceder dois meses a contar da data de recepção de todas as informações pertinentes. A entidade reguladora fundamenta a sua decisão e especifica o prazo e as condições em que: — a autoridade ou as autoridades competentes, — o gestor da infra-estrutura, — a empresa ferroviária que executa o contrato de serviço público, ou — a empresa ferroviária que solicita o acesso, podem requerer a reapreciação da decisão. 3-C. Os Estados-Membros podem também limitar o direito de embarque e desembarque de passageiros em estações do mesmo Estado-Membro no trajecto de um serviço internacional de passageiros caso tenham sido concedidos direitos exclusivos de transporte de passageiros entre essas estações ao abrigo de um contrato de concessão adjudicado antes de 4 de Dezembro de 2007, com base num concurso público justo e aberto à concorrência e em conformidade com os princípios aplicáveis do direito comunitário. Esta limitação pode continuar a aplicar-se durante a validade inicial do contrato ou durante quinze anos, consoante o período mais curto. 3-D. As disposições da presente directiva não obrigam os Estados-Membros a conceder, antes de 1 de Janeiro de 2010, o direito de acesso referido no n.º 3-A às empresas ferroviárias e às sucursais por elas directa ou indirectamente controladas, licenciadas num Estado-Membro em que não sejam conferidos direitos de acesso de natureza semelhante. 3-E. Os Estados-Membros adoptam as medidas necessárias para assegurar que as decisões a que se referem os n.^os^ 3-B, 3-C e 3-D sejam submetidas a controlo jurisdicional. 3-F. Sem prejuízo do n.º 3-B, os Estados-Membros podem, nas condições fixadas no presente artigo, autorizar a autoridade responsável pelos serviços de transporte ferroviário de passageiros a cobrar às empresas ferroviárias que asseguram um serviço de passageiros uma taxa aplicável à exploração de ligações da competência dessa autoridade e que sejam efectuadas entre duas estações desse Estado Membro. Nesse caso, as empresas ferroviárias que asseguram serviços de transporte nacional ou internacional de passageiros estão sujeitas ao pagamento da mesma taxa pela exploração das ligações da competência dessa autoridade. A taxa destina-se a compensar essa autoridade pelas obrigações de serviço público no contexto de contratos de serviço público adjudicados nos termos do direito comunitário. O produto resultante da aplicação dessa taxa e pago a título de compensação não pode exceder o necessário para cobrir a totalidade ou parte das despesas incorridas devido ao cumprimento das obrigações de serviço público relevantes, tendo em consideração os recibos pertinentes e um lucro razoável pelo cumprimento dessas obrigações. A taxa deve ser conforme com o direito comunitário e respeitar, em particular, os princípios da equidade, da transparência, da não discriminação e da proporcionalidade, nomeadamente entre o preço médio do serviço prestado ao passageiro e o nível da taxa. A totalidade das taxas aplicadas nos termos do presente parágrafo não deve pôr em risco a viabilidade económica do serviço de transporte ferroviário de passageiros relativamente ao qual as taxas são cobradas. As autoridades competentes devem conservar as informações necessárias para assegurar a possibilidade de rastrear a origem das taxas e a utilização que lhes é dada. Os Estados-Membros comunicam estas informações à Comissão.».
+
+— da autoridade ou autoridades competentes que tenham adjudicado o contrato de serviço público,
+
+— de qualquer outra autoridade competente interessada que tenha o direito de limitar o acesso ao abrigo do presente artigo,
+
+— do gestor da infra-estrutura, ou
+
+— da empresa ferroviária que executa o contrato de serviço público.
+
+— a autoridade ou as autoridades competentes,
+
+— o gestor da infra-estrutura,
+
+— a empresa ferroviária que executa o contrato de serviço público, ou
+
+— a empresa ferroviária que solicita o acesso,
+
+9. O n.º 8 do artigo 10.º passa a ter a seguinte redacção: «8. Até 1 de Janeiro de 2009, a Comissão apresenta ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões um relatório sobre a aplicação da presente directiva. Esse relatório deve referir-se: — à aplicação da presente directiva nos Estados-Membros, em particular ao seu impacto nos Estados-Membros a que se refere o segundo parágrafo do n.º 3-A, e ao funcionamento efectivo dos diferentes organismos envolvidos, — à evolução do mercado, nomeadamente às tendências do tráfego internacional e às actividades e quotas de mercado de todos os intervenientes no mercado, incluindo os novos participantes.».
+
+— à aplicação da presente directiva nos Estados-Membros, em particular ao seu impacto nos Estados-Membros a que se refere o segundo parágrafo do n.º 3-A, e ao funcionamento efectivo dos diferentes organismos envolvidos,
+
+— à evolução do mercado, nomeadamente às tendências do tráfego internacional e às actividades e quotas de mercado de todos os intervenientes no mercado, incluindo os novos participantes.».
+
+10. Ao artigo 10.º, é aditado o seguinte número: «9. Até 31 de Dezembro de 2012, a Comissão apresenta ao Parlamento Europeu, ao Conselho, ao Comité Económico e Social Europeu e ao Comité das Regiões um relatório sobre a aplicação das disposições dos n.^os^ 3-A a 3-F. A execução da presente directiva deve ser avaliada com base num relatório a apresentar pela Comissão dois anos após a abertura do mercado dos serviços internacionais de transporte ferroviário de passageiros. Este relatório deve examinar também o desenvolvimento do mercado, incluindo o estado de adiantamento da preparação para uma maior abertura do mercado dos serviços de transporte ferroviário. No seu relatório, a Comissão deve ainda examinar os diferentes modelos de organização deste mercado e o impacto da presente directiva nos contratos de serviço público e o seu financiamento. Ao fazê-lo, a Comissão deve ter em conta a aplicação do Regulamento (CE) n.º 1370/2007 do Parlamento Europeu e do Conselho[([^*1])](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntr*1-L_2007315PT.01004401-E0013) e as diferenças intrínsecas existentes entre os Estados-Membros (densidade das redes, número de passageiros, distância média dos percursos). No seu relatório, a Comissão deve, se necessário, propor medidas complementares destinadas a facilitar a realização desta abertura e examinar o impacto de tais medidas. [(^*1^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc*1-L_2007315PT.01004401-E0013) [JO L 315 de 3.12.2007, p. 1](http://publications.europa.eu/resource/oj/JOL_2007_315_R_TOC).» "
+
+11. O n.º 2 do artigo 11.º passa a ter a seguinte redacção: «2. As medidas que têm por objecto alterar elementos não essenciais da presente directiva relativas à adaptação dos seus anexos são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 11.º-A.».
+
+12. O n.º 3 do artigo 11.º-A passa a ter a seguinte redacção: «3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º».
+
+13. Ao artigo 15.º, é aditado o seguinte parágrafo: «As obrigações de transposição e aplicação da presente directiva não se aplicam a Chipre e Malta enquanto estes países não dispuserem de um sistema ferroviário no seu território.».
+
+###### Artigo 2.º
+
+A Directiva 2001/14/CE é alterada do seguinte modo:
+
+1. Ao n.º 3 do artigo 1.º, é aditada a seguinte alínea: «e) As operações de transporte sob a forma de serviços ferroviários efectuadas em trânsito através da Comunidade.».
+
+«e) As operações de transporte sob a forma de serviços ferroviários efectuadas em trânsito através da Comunidade.».
+
+2. Ao artigo 2.º, é aditada a seguinte alínea: «n) “Trânsito”, a travessia do território comunitário sem embarque nem desembarque de mercadorias e/ou sem embarque nem desembarque de passageiros nesse território.».
+
+«n) “Trânsito”, a travessia do território comunitário sem embarque nem desembarque de mercadorias e/ou sem embarque nem desembarque de passageiros nesse território.».
+
+3. Ao artigo 13.º, é aditado o seguinte número: «4. Sempre que um candidato tenha a intenção de solicitar capacidades de infra-estrutura com vista à exploração de um serviço internacional de passageiros na acepção do artigo 3.º da Directiva 91/440/CEE, deve informar os gestores da infra-estrutura e as entidades reguladoras competentes. A fim de poderem avaliar se o objectivo de um serviço internacional é o transporte de passageiros entre estações situadas em Estados-Membros diferentes, bem como o eventual impacto económico nos contratos de serviço público existentes, as entidades reguladoras devem assegurar a informação de todas as autoridades competentes que tenham adjudicado um serviço de transporte ferroviário de passageiros definido num contrato de serviço público, de todas as outras autoridades competentes interessadas que tenham o direito de limitar o acesso ao abrigo do n.º 3-B do artigo 10.º da Directiva 91/440/CEE e de todas as empresas ferroviárias que executam o contrato de serviço público no trajecto desse serviço de transporte internacional de passageiros.».
+
+4. O n.º 5 do artigo 17.º é substituído pelo seguinte texto: «5. Os acordos-quadro devem, em princípio, ter uma duração de cinco anos, renovável por períodos iguais à duração inicial. Em casos específicos, o gestor da infra-estrutura pode aceitar um período de duração inferior ou superior. Qualquer período superior a cinco anos deve ser justificado pela existência de contratos comerciais ou investimentos ou riscos específicos. 5-A. No caso de serviços que utilizem uma infra-estrutura especializada referida no artigo 24.º e que requeiram investimentos substanciais de longo prazo, devidamente fundamentados pelo candidato, podem ser celebrados acordos-quadro com uma duração de quinze anos. Só em casos excepcionais é possível um período de duração superior a quinze anos, nomeadamente no caso de investimentos substanciais de longo prazo, e especialmente quando estes sejam objecto de compromissos contratuais que incluam um plano de amortização plurianual. Neste caso, o candidato pode solicitar uma definição pormenorizada das características das capacidades — nomeadamente a frequência, o volume e a qualidade dos traçados — que lhe serão fornecidas durante o período de duração do acordo-quadro. O gestor da infra-estrutura pode reduzir a capacidade reservada que, durante um período mínimo de um mês, tenha sido menos utilizada do que a quota-limiar prevista no artigo 27.º A partir de 1 de Janeiro de 2010, pode ser elaborado um acordo-quadro inicial com uma duração de cinco anos, renovável uma vez, com base nas características da capacidade utilizada pelos candidatos que exploravam os serviços antes de 1 de Janeiro de 2010, a fim de ter em conta investimentos especializados ou a existência de contratos comerciais. A entidade reguladora a que se refere o artigo 30.º é responsável por autorizar a entrada em vigor de tal acordo.».
+
+5. No n.º 1 do artigo 30.º, é inserida a seguinte frase antes do último período: «Será também funcionalmente independente de qualquer autoridade competente envolvida na adjudicação de um contrato de serviço público.».
+
+6. O n.º 3 do artigo 34.º passa a ter a seguinte redacção: «3. As medidas que têm por objecto alterar elementos não essenciais da presente directiva relativas à adaptação dos seus anexos são aprovadas pelo procedimento de regulamentação com controlo a que se refere o n.º 3 do artigo 35.º».
+
+7. O n.º 3 do artigo 35.º passa a ter a seguinte redacção: «3. Sempre que se faça referência ao presente número, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º».
+
+8. Ao artigo 38.º, é aditado o seguinte parágrafo: «As obrigações de transposição e aplicação da presente directiva não se aplicam a Chipre e a Malta enquanto estes países não dispuserem de um sistema ferroviário no seu território.».
+
+###### Artigo 3.º
+
+1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente directiva antes de 4 de Junho de 2009 e comunicar imediatamente à Comissão o texto dessas disposições.
+
+Quando os Estados-Membros aprovarem essas disposições, estas devem incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades dessa referência são estabelecidas pelos Estados-Membros.
+
+2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que aprovarem nas matérias reguladas pela presente directiva.
+
+3. As disposições dos pontos 2, 5, 6 e 7 do artigo 1.º são aplicáveis a partir de 1 de Janeiro de 2010.
+
+###### Artigo 4.º
+
+A presente directiva entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+###### Artigo 5.º
+
+Os Estados-Membros são os destinatários da presente directiva.
+
+Feito em Estrasburgo, em 23 de Outubro de 2007.
+
+***Pelo Parlamento Europeu,***
+
+***O Presidente***
+
+**H.-G. PÖTTERING**
+
+***Pelo Conselho,***
+
+***O Presidente***
+
+**M. LOBO ANTUNES**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc1-L_2007315PT.01004401-E0001) [JO C 221 de 8.9.2005, p. 56](http://publications.europa.eu/resource/oj/JOC_2005_221_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc2-L_2007315PT.01004401-E0002) [JO C 71 de 22.3.2005, p. 26](http://publications.europa.eu/resource/oj/JOC_2005_071_R_TOC).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc3-L_2007315PT.01004401-E0003) Parecer do Parlamento Europeu de 28 de Setembro de 2005 ([JO C 227 E de 21.9.2006, p. 460](http://publications.europa.eu/resource/oj/JOC_2006_227_E_TOC)), posição comum do Conselho de 24 de Julho de 2006 ([JO C 289 E de 28.11.2006, p. 30](http://publications.europa.eu/resource/oj/JOC_2006_289_E_TOC)), posição do Parlamento Europeu de 18 de Janeiro de 2007 (ainda não publicada no Jornal Oficial), resolução legislativa do Parlamento Europeu de 25 de Setembro de 2007 e decisão do Conselho de 26 de Setembro de 2007.
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc4-L_2007315PT.01004401-E0004) [JO L 237 de 24.8.1991, p. 25](http://publications.europa.eu/resource/oj/JOL_1991_237_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2006/103/CE ([JO L 363 de 20.12.2006, p. 344](http://publications.europa.eu/resource/oj/JOL_2006_363_R_TOC)).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc5-L_2007315PT.01004401-E0005) [JO L 75 de 15.3.2001, p. 29](http://publications.europa.eu/resource/oj/JOL_2001_075_R_TOC). Directiva com a última redacção que lhe foi dada pela Directiva 2004/49/CE ([JO L 164 de 30.4.2004, p. 44](http://publications.europa.eu/resource/oj/JOL_2004_164_R_TOC)). Rectificação no [JO L 220 de 21.6.2004, p. 16](http://publications.europa.eu/resource/oj/JOL_2004_220_R_TOC).
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc6-L_2007315PT.01004401-E0006) [JO L 75 de 15.3.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_075_R_TOC).
+
+> [(^7^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc7-L_2007315PT.01004401-E0007) [JO L 164 de 30.4.2004, p. 164](http://publications.europa.eu/resource/oj/JOL_2004_164_R_TOC). Rectificação no [JO L 220 de 21.6.2004, p. 58](http://publications.europa.eu/resource/oj/JOL_2004_220_R_TOC).
+
+> [(^8^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc8-L_2007315PT.01004401-E0008) [JO L 75 de 15.3.2001, p. 26](http://publications.europa.eu/resource/oj/JOL_2001_075_R_TOC).
+
+> [(^9^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc9-L_2007315PT.01004401-E0009) [JO L 164 de 30.4.2004, p. 44](http://publications.europa.eu/resource/oj/JOL_2004_164_R_TOC). Rectificação no [JO L 220 de 21.6.2004, p. 16](http://publications.europa.eu/resource/oj/JOL_2004_220_R_TOC).
+
+> [(^10^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc10-L_2007315PT.01004401-E0010) Ver a página 1 do presente Jornal Oficial.
+
+> [(^11^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc11-L_2007315PT.01004401-E0011) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC) (rectificação no [JO L 269 de 19.10.1999, p. 45](http://publications.europa.eu/resource/oj/JOL_1999_269_R_TOC)). Decisão com a redacção que lhe foi dada pela Decisão 2006/512/CE ([JO L 200 de 22.7.2006, p. 11](http://publications.europa.eu/resource/oj/JOL_2006_200_R_TOC)).
+
+> [(^12^)](http://publications.europa.eu/resource/cellar/ecb39ec3-93c8-434f-b274-4b07962865c0.0018.02/DOC_1#ntc12-L_2007315PT.01004401-E0012) [JO C 321 de 31.12.2003, p. 1](http://publications.europa.eu/resource/oj/JOC_2003_321_R_TOC).

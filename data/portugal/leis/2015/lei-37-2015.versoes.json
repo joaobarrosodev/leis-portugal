@@ -1,0 +1,701 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67142147:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-67485188",
+ "dre_path": "/dr/detalhe/lei/37-2015-67142147",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-05-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67476186",
+    "67476187",
+    "67476188",
+    "67476189",
+    "67476190",
+    "67476191",
+    "67476192",
+    "67476193",
+    "67476194",
+    "67476195",
+    "67476196",
+    "67476197",
+    "67476198",
+    "67476199",
+    "67476200",
+    "67476201",
+    "67476202",
+    "67476203",
+    "67476204",
+    "67476205",
+    "67476206",
+    "67476207",
+    "67476208",
+    "67476209",
+    "67476210",
+    "67476211",
+    "67476212",
+    "67476213",
+    "67476214",
+    "67476215",
+    "67476216",
+    "67476217",
+    "67476218",
+    "67476219",
+    "67476220",
+    "67476221",
+    "67476222",
+    "67476223",
+    "67476224",
+    "67476225",
+    "67476226",
+    "67476227",
+    "67476228",
+    "67476229",
+    "67476230",
+    "67476231",
+    "67476232",
+    "67476233",
+    "67476234",
+    "67476235",
+    "67476236",
+    "67476237",
+    "67476238",
+    "67476239",
+    "67476240"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:67477874:por",
+     "title": "Declaração de Retificação n.º 28/2015",
+     "published": "2015-06-15",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/28-2015-67477874",
+     "date": "2015-05-10"
+    }
+   ]
+  },
+  {
+   "date": "2022-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:186949306:por",
+     "title": "Lei n.º 14/2022",
+     "published": "2022-08-02",
+     "dre_path": "/dr/detalhe/lei/14-2022-186949306"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 42.º",
+    "Altera Artigo 43.º"
+   ],
+   "fragments": [
+    "67476186",
+    "67476187",
+    "67476188",
+    "187008519",
+    "67476190",
+    "67476191",
+    "67476192",
+    "67476193",
+    "67476194",
+    "67476195",
+    "67476196",
+    "67476197",
+    "67476198",
+    "67476199",
+    "67476200",
+    "67476201",
+    "67476202",
+    "67476248",
+    "67476204",
+    "67476205",
+    "67476206",
+    "67476207",
+    "67476208",
+    "67476209",
+    "67476210",
+    "67476211",
+    "67476212",
+    "67476213",
+    "67476214",
+    "67476215",
+    "67476216",
+    "67476217",
+    "67476218",
+    "67476219",
+    "187008520",
+    "67476221",
+    "187008521",
+    "187008522",
+    "67476224",
+    "187008523",
+    "67476226",
+    "67476227",
+    "67476228",
+    "67476229",
+    "67476230",
+    "187008524",
+    "67476232",
+    "67476233",
+    "67476234",
+    "187008525",
+    "187008526",
+    "67476237",
+    "67476238",
+    "67476239",
+    "67476240",
+    "67476241"
+   ]
+  }
+ ],
+ "fragments": {
+  "67476186": {
+   "fragment_id": "67485189",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 37/2015\n\nde 5 de maio\n\nEstabelece os princípios gerais que regem a organização e o funcionamento da identificação criminal, transpondo para a ordem jurídica interna a Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009, relativa à organização e ao conteúdo do intercâmbio de informações extraídas do registo criminal entre os Estados membros, e revoga a Lei n.º 57/98, de 18 de agosto.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:\n\nLei da identificação criminal"
+  },
+  "67476187": {
+   "fragment_id": "67485190",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "67476188": {
+   "fragment_id": "67485191",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece o regime jurídico da identificação criminal e transpõe para a ordem jurídica interna a Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009, relativa à organização e ao conteúdo do intercâmbio de informações extraídas do registo criminal entre os Estados membros."
+  },
+  "67476189": {
+   "fragment_id": "67485192",
+   "type": 11,
+   "heading": "Artigo 2.º — Identificação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Identificação criminal\n\n1 - A identificação criminal tem por objeto a recolha, o tratamento e a conservação de extratos de decisões judiciais e dos demais elementos a elas respeitantes sujeitos a inscrição no registo criminal e no registo de contumazes, promovendo a identificação dos titulares dessa informação, a fim de permitir o conhecimento dos antecedentes criminais das pessoas condenadas e das decisões de contumácia vigentes.\n\n2 - São também objeto de recolha, como meio complementar de identificação, as impressões digitais das pessoas singulares condenadas."
+  },
+  "67476190": {
+   "fragment_id": "67485193",
+   "type": 11,
+   "heading": "Artigo 3.º — Serviços de identificação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviços de identificação criminal\n\n1 - A organização e o funcionamento dos registos referidos no n.º 1 do artigo anterior são da competência dos serviços de identificação criminal.\n\n2 - São, também, da competência dos serviços de identificação criminal a organização e o funcionamento dos seguintes registos:\n\na) Do ficheiro dactiloscópico de arguidos condenados;\n\nb) Do registo especial de decisões comunicadas nos termos da Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009.\n\n3 - É ainda da competência dos serviços de identificação criminal a organização e o funcionamento do registo de medidas tutelares educativas, nos termos constantes do título VI da Lei Tutelar Educativa, aprovada pela Lei n.º 166/99, de 14 de setembro, e alterada pela Lei n.º 4/2015, de 1 de janeiro."
+  },
+  "67476191": {
+   "fragment_id": "67485194",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios\n\n1 - A identificação criminal deve processar-se no estrito respeito pelo princípio da legalidade e, bem assim, pelos princípios da autenticidade, veracidade, univocidade e segurança dos elementos identificativos.\n\n2 - Os princípios referidos no número anterior aplicam-se, com as devidas adaptações, a todos os registos previstos no n.º 2 do artigo anterior."
+  },
+  "67476192": {
+   "fragment_id": "67485195",
+   "type": 1,
+   "heading": "Capítulo II — Registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Registo criminal"
+  },
+  "67476193": {
+   "fragment_id": "67485196",
+   "type": 11,
+   "heading": "Artigo 5.º — Organização e constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Organização e constituição\n\n1 - O registo criminal organiza-se em ficheiro central informatizado, constituído por elementos de identificação dos arguidos, comunicados pelos tribunais e pelas demais entidades remetentes da informação ou recolhidos pelos serviços de identificação criminal, e por extratos das decisões criminais sujeitas a inscrição no registo criminal àqueles respeitantes.\n\n2 - A identificação do arguido abrange:\n\na) Tratando-se de pessoa singular, nome, sexo, filiação, naturalidade, data de nascimento, nacionalidade, estado civil, residência, número de identificação civil ou, na sua falta, do passaporte ou de outro documento de identificação idóneo e, quando se trate de decisão condenatória, estando presente o arguido no julgamento, as suas impressões digitais e assinatura;\n\nb) Tratando-se de pessoa coletiva ou entidade equiparada, denominação, sede e número de identificação de pessoa coletiva e, quando aquela tenha resultado da fusão ou cisão de outra pessoa coletiva ou equiparada, os dados correspetivos a esta atinentes.\n\n3 - Os extratos das decisões a inscrever no registo criminal contêm a indicação:\n\na) Do tribunal que proferiu a decisão e do número do processo;\n\nb) Da data e forma da decisão, e da data do respetivo trânsito em julgado;\n\nc) Do conteúdo da decisão e das disposições legais aplicadas;\n\nd) Tratando-se de decisão condenatória, da designação, data e local da prática do crime, das disposições legais violadas e das penas principais, de substituição e acessórias ou das medidas de segurança aplicadas."
+  },
+  "67476194": {
+   "fragment_id": "67485197",
+   "type": 11,
+   "heading": "Artigo 6.º — Âmbito do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Âmbito do registo criminal\n\nEstão sujeitas a inscrição no registo criminal as seguintes decisões:\n\na) Que apliquem penas e medidas de segurança, determinem o seu reexame, substituição, suspensão, prorrogação da suspensão, revogação e declarem a sua extinção;\n\nb) Que concedam, prorroguem ou revoguem a liberdade condicional ou a liberdade para prova;\n\nc) De dispensa de pena;\n\nd) Que determinem a reabilitação de pessoa coletiva ou entidade equiparada;\n\ne) Que determinem ou revoguem o cancelamento provisório no registo;\n\nf) Que apliquem perdões ou amnistias, ou que concedam indultos;\n\ng) Que determinem a não transcrição em certificados do registo criminal de condenações que tenham aplicado;\n\nh) Os acórdãos proferidos em recurso extraordinário de revisão;\n\ni) Os acórdãos de revisão e confirmação de decisões condenatórias estrangeiras."
+  },
+  "67476195": {
+   "fragment_id": "67485198",
+   "type": 11,
+   "heading": "Artigo 7.º — Elementos inscritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elementos inscritos\n\n1 - São inscritos no registo criminal:\n\na) Extratos das decisões criminais proferidas por tribunais portugueses que apliquem penas e medidas de segurança, determinem o seu reexame, substituição, suspensão, prorrogação da suspensão, revogação e declarem a sua extinção;\n\nb) Extratos das condenações proferidas por tribunais de Estados membros da União Europeia relativamente a portugueses maiores de 16 anos, desde que se refiram a factos previstos como crime na lei portuguesa e permitam a identificação da pessoa a que se referem, bem como das demais decisões subsequentes, comunicadas a Portugal nos termos da Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009;\n\nc) Extratos das condenações proferidas por outros tribunais estrangeiros relativamente a portugueses e a estrangeiros residentes em Portugal, maiores de 16 anos e a pessoas coletivas ou entidades equiparadas que tenham em Portugal a sua sede, administração efetiva ou representação permanente, que sejam comunicadas a Portugal nos termos de convenção ou acordo internacional vigente, desde que se refiram a factos previstos como crime na lei portuguesa e permitam a identificação da pessoa a que se referem.\n\n2 - Apenas são inscritos no registo criminal extratos de decisões transitadas em julgado."
+  },
+  "67476196": {
+   "fragment_id": "67485199",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso à informação\n\n1 - Tem acesso à informação do registo criminal o titular da informação ou quem prove efetuar o pedido em nome ou no interesse daquele.\n\n2 - Podem ainda aceder à informação do registo criminal, exclusivamente para as finalidades previstas para cada uma delas, as seguintes entidades:\n\na) Os magistrados judiciais e do Ministério Público, para fins de investigação criminal, de instrução de processos criminais e de execução de penas, de decisão sobre adoção, tutela, curatela, acolhimento familiar, apadrinhamento civil, entrega, guarda ou confiança de crianças ou regulação do exercício de responsabilidades parentais e de decisão do incidente de exoneração do passivo restante do devedor no processo de insolvência de pessoas singulares;\n\nb) As entidades que, nos termos da lei processual penal, recebam delegação para a prática de atos de inquérito ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade, no âmbito dessas competências;\n\nc) As entidades com competência legal para a instrução dos processos individuais dos reclusos, para este fim;\n\nd) Os serviços de reinserção social, no âmbito da prossecução dos seus fins;\n\ne) As entidades com competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de atos que, pela sua natureza, possam alterar ou destruir o Estado de direito constitucionalmente estabelecido, exclusivamente no âmbito da prossecução dos seus fins;\n\nf) As entidades oficiais não abrangidas pelas alíneas anteriores, para a prossecução de fins públicos a seu cargo quando os certificados não possam ser obtidos dos titulares, mediante autorização do membro do Governo responsável pela área da justiça e, tratando-se de informação relativa a pessoa coletiva ou equiparada, entidades públicas encarregadas da supervisão da atividade económica por aquela desenvolvida, na medida do estritamente necessário para o exercício dessa supervisão e mediante autorização do membro do Governo responsável pela área da justiça;\n\ng) As autoridades centrais de Estados membros da União Europeia designadas nos termos e para os efeitos da Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009, no âmbito do exercício das suas competências conferidas por esta Decisão-Quadro;\n\nh) Autoridades ou entidades estrangeiras, mediante autorização do membro do Governo responsável pela área da justiça e nas mesmas condições das correspondentes autoridades nacionais, para a instrução de processos criminais;\n\ni) As entidades oficiais de Estados membros da União Europeia, nas mesmas condições das correspondentes entidades nacionais, para os fins constantes do n.º 5 do artigo 22.º da Lei n.º 37/2006, de 9 de agosto, bem como as entidades de outro Estado, nos termos estabelecidos em convenção ou acordo internacional vigente, assegurado que seja tratamento recíproco às entidades nacionais;\n\nj) As entidades autorizadas pelo membro do Governo responsável pela área da justiça para a prossecução de fins de investigação científica ou estatísticos.\n\n3 - As entidades públicas competentes para a instrução de procedimentos administrativos dos quais dependa a concessão de emprego ou a obtenção de licença, autorização ou registo de carácter público, ou de procedimentos administrativos de contratação pública de empreitadas, ou de locação ou aquisição de bens e serviços, de concessão ou do estabelecimento de parcerias público-privadas, podem aceder à informação necessária ao cumprimento de exigência legal de apresentação de certificado do registo criminal aplicável ao procedimento administrativo em causa desde que o titular da informação, no caso de pessoas singulares, ou um representante legal, no caso de pessoas coletivas ou entidades equiparadas, autorize previamente esse acesso no âmbito do procedimento administrativo."
+  },
+  "67476197": {
+   "fragment_id": "67485200",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma de acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Forma de acesso à informação\n\n1 - O conhecimento da informação constante do registo criminal, ou da sua ausência, concretiza-se com a emissão de um certificado do registo criminal.\n\n2 - O certificado do registo criminal é emitido eletronicamente pelos serviços de identificação criminal."
+  },
+  "67476198": {
+   "fragment_id": "67485201",
+   "type": 11,
+   "heading": "Artigo 10.º — Conteúdo dos certificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conteúdo dos certificados\n\n1 - O certificado do registo criminal identifica a pessoa a quem se refere e certifica os antecedentes criminais vigentes no registo dessa pessoa, ou a sua ausência, de acordo com a finalidade a que se destina o certificado, a qual também é expressamente mencionada.\n\n2 - Não pode constar do certificado do registo criminal qualquer indicação ou referência donde se possa depreender a existência no registo de outros elementos para além dos que devam ser expressamente certificados nos termos da lei, nem qualquer outra menção não contida nos ficheiros centrais do registo criminal e de contumazes.\n\n3 - Os certificados do registo criminal requisitados pelas entidades referidas nas alíneas a) a f), h) e i) do n.º 2 do artigo 8.º para as finalidades aí previstas contêm a transcrição integral do registo criminal vigente.\n\n4 - Os certificados do registo criminal pedidos por autoridades centrais estrangeiras têm o conteúdo previsto no artigo 30.º\n\n5 - Sem prejuízo do disposto no número seguinte, os certificados do registo criminal requeridos por pessoas singulares para fins de emprego, público ou privado, ou para o exercício de profissão ou atividade em Portugal, devem conter apenas:\n\na) As decisões de tribunais portugueses que decretem a demissão da função pública, proíbam o exercício de função pública, profissão ou atividade ou interditem esse exercício;\n\nb) As decisões que sejam consequência, complemento ou execução das indicadas na alínea anterior e não tenham como efeito o cancelamento do registo;\n\nc) As decisões com o conteúdo aludido nas alíneas a) e b) proferidas por tribunais de outro Estado membro ou de Estados terceiros, comunicadas pelas respetivas autoridades centrais, sem as reservas legalmente admissíveis.\n\n6 - Os certificados do registo criminal requeridos por pessoas singulares para o exercício de qualquer profissão ou atividade para cujo exercício seja legalmente exigida a ausência, total ou parcial, de antecedentes criminais ou a avaliação da idoneidade da pessoa, ou que sejam requeridos para qualquer outra finalidade, contêm todas as decisões de tribunais portugueses vigentes, com exceção das decisões canceladas provisoriamente nos termos do artigo 12.º ou que não devam ser transcritas nos termos do artigo 13.º, bem como a revogação, a anulação ou a extinção da decisão de cancelamento, e ainda as decisões proferidas por tribunais de outro Estado membro ou de Estados terceiros, nas mesmas condições, devendo o requerente especificar a profissão ou atividade a exercer ou a outra finalidade para que o certificado é requerido.\n\n7 - Os certificados do registo criminal requeridos por pessoas coletivas ou entidades equiparadas contêm todas as decisões de tribunais portugueses vigentes.\n\n8 - Aos certificados do registo criminal pedidos por entidades públicas nos termos do n.º 3 do artigo 8.º é aplicável o disposto nos n.os 5 a 7.\n\n9 - O acesso à informação para a prossecução de fins de investigação científica ou estatísticos processa-se e tem o conteúdo determinado no despacho de autorização, não podendo abranger elementos que permitam identificar qualquer registo individual."
+  },
+  "67476199": {
+   "fragment_id": "67485202",
+   "type": 11,
+   "heading": "Artigo 11.º — Cancelamento definitivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cancelamento definitivo\n\n1 - As decisões inscritas cessam a sua vigência no registo criminal nos seguintes prazos:\n\na) Decisões que tenham aplicado pena de prisão ou medida de segurança, com ressalva dos prazos de cancelamento previstos na Lei n.º 113/2009, de 17 de setembro, com respeito aos crimes previstos no capítulo V do título I do livro II do Código Penal, decorridos 5, 7 ou 10 anos sobre a extinção da pena ou medida de segurança, se a sua duração tiver sido inferior a 5 anos, entre 5 e 8 anos ou superior a 8 anos, respetivamente, e desde que, entretanto, não tenha ocorrido nova condenação por crime de qualquer natureza;\n\nb) Decisões que tenham aplicado pena de multa principal a pessoa singular, com ressalva dos prazos de cancelamento previstos na Lei n.º 113/2009, de 17 de setembro, com respeito aos crimes previstos no capítulo V do título I do livro II do Código Penal, decorridos 5 anos sobre a extinção da pena e desde que, entretanto, não tenha ocorrido nova condenação por crime de qualquer natureza;\n\nc) Decisões que tenham aplicado pena de multa a pessoa coletiva ou entidade equiparada, com ressalva dos prazos de cancelamento previstos na Lei n.º 113/2009, de 17 de setembro, com respeito aos crimes previstos no capítulo V do título I do livro II do Código Penal, decorridos 5, 7 ou 10 anos sobre a extinção da pena, consoante a multa tenha sido fixada em menos de 600 dias, entre 600 e 900 dias ou em mais de 900 dias, respetivamente, e desde que, entretanto, não tenha ocorrido nova condenação por crime de qualquer natureza;\n\nd) Decisões que tenham aplicado pena de dissolução a pessoa coletiva ou entidade equiparada, decorridos 10 anos sobre o trânsito em julgado;\n\ne) Decisões que tenham aplicado pena substitutiva da pena principal, com ressalva daquelas que respeitem aos crimes previstos no capítulo V do título I do livro II do Código Penal, decorridos 5 anos sobre a extinção da pena e desde que, entretanto, não tenha ocorrido nova condenação por crime de qualquer natureza;\n\nf) Decisões de dispensa de pena ou que apliquem pena de admoestação, decorridos 5 anos sobre o trânsito em julgado ou sobre a execução, respetivamente;\n\ng) Decisões que tenham aplicado pena acessória, após o decurso do prazo para esta fixado na respetiva sentença condenatória ou, tratando-se de pena acessória sem prazo, após a decisão de reabilitação.\n\n2 - Quando a decisão tenha aplicado pena principal e pena acessória, os prazos previstos no número anterior contam-se a partir da extinção da pena de maior duração.\n\n3 - Tratando-se de decisões que tenham aplicado pena de prisão suspensa na sua execução os prazos previstos na alínea e) do n.º 1 contam-se, uma vez ocorrida a respetiva extinção, do termo do período da suspensão.\n\n4 - Cessam também a sua vigência no registo criminal:\n\na) As decisões que sejam consequência, complemento ou execução de decisões cuja vigência haja cessado nos termos do n.º 1;\n\nb) As decisões respeitantes a pessoa singular, após o seu falecimento;\n\nc) As decisões respeitantes a pessoa coletiva ou entidade equiparada, após a sua extinção, exceto quando esta tenha resultado de fusão ou cisão, caso em que as decisões passam a integrar o registo criminal das pessoas coletivas ou equiparadas que tiverem resultado da cisão ou em que a fusão se tiver efetivado;\n\nd) As decisões consideradas sem efeito por disposição legal.\n\n5 - A cessação da vigência das decisões não aproveita ao condenado quanto às perdas definitivas que lhe resultarem da condenação, não prejudica os direitos que desta advierem para o ofendido ou para terceiros nem sana, por si só, a nulidade dos atos praticados pelo condenado durante a incapacidade.\n\n6 - As decisões cuja vigência haja cessado são mantidas em ficheiro informático próprio durante um período máximo de 3 anos, o qual apenas pode ser acedido pelos serviços de identificação criminal para efeito de reposição de registo indevidamente cancelado ou retirado, e findo aquele prazo máximo são canceladas de forma irrevogável."
+  },
+  "67476200": {
+   "fragment_id": "67485203",
+   "type": 11,
+   "heading": "Artigo 12.º — Cancelamento provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cancelamento provisório\n\nSem prejuízo do disposto na Lei n.º 113/2009, de 17 de setembro, estando em causa qualquer dos fins a que se destina o certificado requerido nos termos dos n.os 5 e 6 do artigo 10.º pode o tribunal de execução das penas determinar o cancelamento, total ou parcial, das decisões que dele deveriam constar, desde que:\n\na) Já tenham sido extintas as penas aplicadas;\n\nb) O interessado se tiver comportado de forma que seja razoável supor encontrar-se readaptado; e\n\nc) O interessado haja cumprido a obrigação de indemnizar o ofendido, justificado a sua extinção por qualquer meio legal ou provado a impossibilidade do seu cumprimento."
+  },
+  "67476201": {
+   "fragment_id": "67485204",
+   "type": 11,
+   "heading": "Artigo 13.º — Decisões de não transcrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Decisões de não transcrição\n\n1 - Sem prejuízo do disposto na Lei n.º 113/2009, de 17 de setembro, com respeito aos crimes previstos no artigo 152.º, no artigo 152.º-A e no capítulo V do título I do livro II do Código Penal, os tribunais que condenem pessoa singular em pena de prisão até 1 ano ou em pena não privativa da liberdade podem determinar na sentença ou em despacho posterior, se o arguido não tiver sofrido condenação anterior por crime da mesma natureza e sempre que das circunstâncias que acompanharam o crime não se puder induzir perigo de prática de novos crimes, a não transcrição da respetiva sentença nos certificados a que se referem os n.os 5 e 6 do artigo 10.º\n\n2 - No caso de ter sido aplicada qualquer interdição, apenas é observado o disposto no número anterior findo o prazo da mesma.\n\n3 - O cancelamento previsto no n.º 1 é revogado automaticamente, ou não produz efeitos, no caso de o interessado incorrer, ou já houver incorrido, em nova condenação por crime doloso posterior à condenação onde haja sido proferida a decisão."
+  },
+  "67476202": {
+   "fragment_id": "67485205",
+   "type": 1,
+   "heading": "Capítulo III — Registo de contumazes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Registo de contumazes"
+  },
+  "67476203": {
+   "fragment_id": "67485206",
+   "type": 11,
+   "heading": "Artigo 14.º — Organização e constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Organização e constituição\n\n1 - O registo de contumazes organiza-se em ficheiro central informatizado, constituído por elementos de identificação dos arguidos, comunicados pelos tribunais ou recolhidos pelos serviços de identificação criminal, e por extratos das decisões criminais que, nos termos da lei de processo penal, declarem a contumácia, alterem essa declaração ou a façam cessar.\n\n2 - A identificação do arguido abrange:\n\na) Tratando-se de pessoa singular, nome, sexo, filiação, naturalidade, data de nascimento, nacionalidade, estado civil, residência, número de identificação civil ou, na sua falta, do passaporte ou de outro documento de identificação idóneo e, quando se trate de decisão condenatória, estando presente o arguido no julgamento, as suas impressões digitais e assinatura;\n\nb) Tratando-se de pessoa coletiva ou entidade equiparada, denominação, sede e número de identificação de pessoa coletiva e, quando aquela tenha resultado da fusão ou cisão de outra pessoa coletiva ou equiparada, os dados correspetivos a esta atinentes;\n\nc) Do crime que é imputado ao arguido;\n\nd) Do conteúdo da decisão e das disposições legais aplicadas;\n\ne) Dos efeitos especiais da declaração de contumácia.\n\n3 - Os extratos das decisões a inscrever no registo de contumazes contêm a indicação:\n\na) Do tribunal que proferiu a decisão e do número do processo;\n\nb) Da data da decisão, e da data do respetivo trânsito em julgado;\n\nc) Do crime que é imputado ao arguido;\n\nd) Do conteúdo da decisão e das disposições legais aplicadas;\n\ne) Dos efeitos especiais da declaração de contumácia."
+  },
+  "67476204": {
+   "fragment_id": "67485207",
+   "type": 11,
+   "heading": "Artigo 15.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acesso à informação\n\n1 - Tem acesso à informação do registo de contumazes o titular da informação ou quem prove efetuar o pedido em nome ou no interesse daquele.\n\n2 - Podem ainda aceder à informação do registo de contumazes:\n\na) As entidades referidas nas alíneas a) a f) do n.º 2 do artigo 8.º;\n\nb) As entidades públicas a quem incumba assegurar a execução dos efeitos da contumácia;\n\nc) Os terceiros que provem efetuar o pedido com a finalidade de acautelarem interesses ligados à celebração de negócio jurídico com contumaz ou para instruir processo da sua anulação, sendo, neste caso, a informação restrita ao despacho que declarar a contumácia."
+  },
+  "67476205": {
+   "fragment_id": "67485208",
+   "type": 11,
+   "heading": "Artigo 16.º — Forma de acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Forma de acesso à informação\n\n1 - O conhecimento da informação constante do registo de contumazes, ou da sua ausência, concretiza-se com a emissão de um certificado de contumácia.\n\n2 - O certificado de contumácia é emitido eletronicamente pelos serviços de identificação criminal.\n\n3 - A emissão de certificados do registo criminal requisitados nos termos das alíneas a) a f) do n.º 2 do artigo 8.º é acompanhada da emissão de certificado de contumácia sempre que exista informação vigente neste registo relativamente ao mesmo titular."
+  },
+  "67476206": {
+   "fragment_id": "67485209",
+   "type": 11,
+   "heading": "Artigo 17.º — Conteúdo do certificado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conteúdo do certificado\n\nO certificado de contumácia identifica a pessoa a quem se refere e certifica as declarações de contumácia dessa pessoa vigentes no registo, bem como os respetivos efeitos, ou a ausência de declarações vigentes."
+  },
+  "67476207": {
+   "fragment_id": "67485210",
+   "type": 11,
+   "heading": "Artigo 18.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Vigência\n\n1 - Cessam a vigência no registo de contumazes as declarações e alterações de contumácia sobre as quais seja registada decisão de cessação.\n\n2 - O registo de contumaz cessa a sua vigência quando forem cessadas todas as declarações de contumácia respeitantes ao mesmo titular.\n\n3 - Os registos cuja vigência tenha cessado são mantidos em ficheiro informático próprio durante um período máximo de 3 anos, o qual apenas pode ser acedido pelos serviços de identificação criminal para efeito de reposição de registo indevidamente cancelado ou retirado."
+  },
+  "67476208": {
+   "fragment_id": "67485211",
+   "type": 1,
+   "heading": "Capítulo IV — Ficheiro dactiloscópico de arguidos condenados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Ficheiro dactiloscópico de arguidos condenados"
+  },
+  "67476209": {
+   "fragment_id": "67485212",
+   "type": 11,
+   "heading": "Artigo 19.º — Organização e constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Organização e constituição\n\nAs impressões digitais de arguidos condenados remetidas aos serviços de identificação criminal são arquivadas com referência ao registo criminal da pessoa a que respeitam, constituindo o ficheiro dactiloscópico de arguidos condenados."
+  },
+  "67476210": {
+   "fragment_id": "67485213",
+   "type": 11,
+   "heading": "Artigo 20.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acesso à informação\n\nTêm acesso à informação do ficheiro dactiloscópico de arguidos condenados as entidades referidas nas alíneas a) a e) do n.º 2 do artigo 8.º no âmbito da prossecução das finalidades referidas a cada uma delas."
+  },
+  "67476211": {
+   "fragment_id": "67485214",
+   "type": 11,
+   "heading": "Artigo 21.º — Forma de acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Forma de acesso à informação\n\n1 - O acesso à informação do ficheiro dactiloscópico de arguidos condenados concretiza-se com a emissão de uma informação dactiloscópica.\n\n2 - A informação dactiloscópica é emitida eletronicamente pelos serviços de identificação criminal.\n\n3 - Por exigências técnicas relativas ao processo de comparação dactiloscópica a informação dactiloscópica pode ser emitida em suporte papel."
+  },
+  "67476212": {
+   "fragment_id": "67485215",
+   "type": 11,
+   "heading": "Artigo 22.º — Conteúdo da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Conteúdo da informação\n\nA informação dactiloscópica contém a identificação da pessoa a cujo registo está associada e a imagem das impressões digitais arquivadas, com indicação do processo em que as mesmas hajam sido recolhidas."
+  },
+  "67476213": {
+   "fragment_id": "67485216",
+   "type": 11,
+   "heading": "Artigo 23.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Vigência\n\n1 - A informação contida no ficheiro dactiloscópico de arguidos condenados mantém-se em registo durante a vigência do registo criminal a que está associada.\n\n2 - Cessada a vigência do registo criminal a que está associada a informação dactiloscópica, esta mantém-se em ficheiro informático próprio durante um período máximo de cinco anos, podendo ser acedida pelos serviços de identificação criminal para efeito de reposição de registo indevidamente cancelado ou retirado, ou por autoridade judicial ou policial no âmbito de investigação criminal ou de instrução de processo criminal."
+  },
+  "67476214": {
+   "fragment_id": "67485217",
+   "type": 11,
+   "heading": "Artigo 24.º — Transmissão ao sistema de informação criminal da Polícia Judiciária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Transmissão ao sistema de informação criminal da Polícia Judiciária\n\nAs impressões digitais recolhidas aos arguidos condenados e inscritas no ficheiro dactiloscópico podem ser integradas no sistema de informação criminal da Polícia Judiciária em termos a regular em diploma próprio."
+  },
+  "67476215": {
+   "fragment_id": "67485218",
+   "type": 1,
+   "heading": "Capítulo V — Troca de informação sobre condenações proferidas por tribunais de Estados membros da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Troca de informação sobre condenações proferidas por tribunais de Estados membros da União Europeia"
+  },
+  "67476216": {
+   "fragment_id": "67485219",
+   "type": 11,
+   "heading": "Artigo 25.º — Autoridade central portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Autoridade central portuguesa\n\nOs serviços de identificação criminal são a autoridade central portuguesa para efeitos do cumprimento das obrigações previstas na Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009."
+  },
+  "67476217": {
+   "fragment_id": "67485220",
+   "type": 11,
+   "heading": "Artigo 26.º — Registo especial de decisões comunicadas nos termos da Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Registo especial de decisões comunicadas nos termos da Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009\n\n1 - As condenações e demais decisões subsequentes proferidas por tribunais de Estados membros da União Europeia comunicadas a Portugal nos termos da Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009, são registadas num registo especial de decisões proferidas por Tribunais de outros Estados membros da União Europeia, abreviadamente designado como registo especial de decisões estrangeiras, com o objetivo exclusivo de garantir a possibilidade da sua retransmissão aos Estados membros que solicitem informação nos termos da mesma Decisão-Quadro.\n\n2 - Compete aos serviços de identificação criminal organizar e manter atualizado o registo especial de decisões estrangeiras, por forma a assegurar o cumprimento das obrigações decorrentes da Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009."
+  },
+  "67476218": {
+   "fragment_id": "67485221",
+   "type": 11,
+   "heading": "Artigo 27.º — Tratamento das decisões estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Tratamento das decisões estrangeiras\n\n1 - As decisões que constem do registo especial de decisões estrangeiras mantêm-se vigentes neste registo em conformidade com as comunicações recebidas do Estado membro da condenação e até ser recebida a informação da respetiva supressão ou cancelamento no registo criminal desse Estado membro.\n\n2 - As decisões registadas no registo especial de decisões estrangeiras que respeitem a maiores de 16 anos são igualmente registadas no registo criminal, desde que se refiram a factos previstos como crime na lei portuguesa e permitam a identificação da pessoa a que se referem, ficando sujeitas às regras e aos prazos de conservação estabelecidos para o registo criminal, sem prejuízo do disposto nos números seguintes.\n\n3 - Os prazos de conservação das decisões estrangeiras inscritas no registo criminal português contam-se nos termos do artigo 11.º\n\n4 - Se até ao termo dos prazos previstos no artigo 11.º não for transmitida informação sobre a extinção da pena, esses prazos contam-se nos seguintes termos:\n\na) No caso de decisões que apliquem penas de multa ou outras penas não privativas de liberdade, o prazo para cancelamento da decisão no registo criminal conta-se a partir da data do trânsito em julgado da decisão condenatória;\n\nb) No caso de decisões que apliquem penas privativas de liberdade, o prazo para cancelamento da decisão no registo criminal conta-se a partir da data do trânsito em julgado da decisão condenatória acrescido do período de tempo correspondente à pena aplicada ou, sendo suspensa a execução da pena, a partir do termo do prazo da suspensão;\n\nc) Em qualquer caso, sendo recebida uma decisão subsequente alterando a pena ou os termos do cumprimento da pena, os prazos referidos nas alíneas anteriores contam-se em conformidade com a alteração efetuada.\n\n5 - Nos casos em que o Estado membro da condenação comunique a supressão ou cancelamento no seu registo criminal de decisão anteriormente remetida antes de decorrido o prazo de conservação estabelecido para o registo criminal português, essa decisão deve ser imediatamente cancelada neste registo."
+  },
+  "67476219": {
+   "fragment_id": "67485222",
+   "type": 11,
+   "heading": "Artigo 28.º — Comunicação de condenações ao Estado membro da nacionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Comunicação de condenações ao Estado membro da nacionalidade\n\n1 - São comunicadas pelos serviços de identificação criminal às autoridades centrais do Estado membro da nacionalidade do arguido todas as decisões proferidas por tribunais portugueses e inscritas no registo criminal português que apliquem penas e medidas de segurança a cidadãos nacionais de Estados membros da União Europeia, bem como as decisões subsequentes relevantes que se reportem àquelas decisões e, ainda, o respetivo cancelamento no registo criminal.\n\n2 - A comunicação a que se refere o número anterior é acompanhada da informação de não poder ser retransmitida para outros fins que não sejam relativos a processo penal."
+  },
+  "67476220": {
+   "fragment_id": "67485223",
+   "type": 11,
+   "heading": "Artigo 29.º — Dos pedidos de informação a dirigir às autoridades centrais estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Dos pedidos de informação a dirigir às autoridades centrais estrangeiras\n\n1 - Sempre que for dirigido aos serviços de identificação criminal, por uma autoridade portuguesa, um pedido de emissão de certificado do registo criminal para instrução de processo criminal em que seja arguido um nacional de um Estado membro da União Europeia, aqueles serviços devem dirigir à autoridade central do Estado membro da nacionalidade do arguido um pedido de emissão de certificado do registo criminal, a fim de facultarem as informações recebidas juntamente com o certificado do registo criminal português.\n\n2 - As entidades públicas portuguesas a quem a lei atribua legitimidade para pedirem a emissão de certificados do registo criminal para finalidades diferentes da instrução de processo criminal, quando solicitem a emissão de um certificado do registo criminal relativa a um nacional de um Estado membro da União Europeia, podem requerer aos serviços de identificação criminal que seja igualmente pedida a emissão do certificado do registo criminal à autoridade central do Estado membro da nacionalidade, a fim de que sejam facultadas as informações recebidas juntamente com o certificado do registo criminal português.\n\n3 - Sempre que um cidadão nacional de outro Estado membro da União Europeia apresente em Portugal um pedido de emissão do seu certificado do registo criminal, os serviços de identificação criminal devem dirigir à autoridade central do Estado membro da nacionalidade do requerente um pedido de emissão de certificado do registo criminal, a fim de facultarem as informações recebidas juntamente com o certificado do registo criminal português.\n\n4 - Os portugueses que são ou foram residentes noutro Estado membro da União Europeia e os cidadãos não nacionais de Estados membros que são ou foram residentes noutro Estado membro, quando solicitem a emissão de um certificado do registo criminal português, podem requerer aos serviços de identificação criminal que seja igualmente pedida a emissão do certificado do registo criminal à autoridade central do Estado membro onde sejam ou hajam sido residentes, a fim de que sejam facultadas as informações recebidas juntamente com o certificado do registo criminal português.\n\n5 - O disposto nos n.os 3 e 4 aplica-se aos pedidos de emissão de certificados apresentados por entidades públicas no âmbito da instrução de procedimentos administrativos precedendo autorização do titular da informação."
+  },
+  "67476221": {
+   "fragment_id": "67485224",
+   "type": 11,
+   "heading": "Artigo 30.º — Certificados emitidos com informação pedida a autoridades centrais estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Certificados emitidos com informação pedida a autoridades centrais estrangeiras\n\nOs certificados do registo criminal português emitidos nas condições referidas no artigo anterior contêm o certificado do registo criminal do Estado membro a quem haja sido solicitada essa emissão, ou a informação da data em que foi solicitada essa emissão."
+  },
+  "67476222": {
+   "fragment_id": "67485225",
+   "type": 11,
+   "heading": "Artigo 31.º — Dos pedidos de informação apresentados por autoridades centrais estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Dos pedidos de informação apresentados por autoridades centrais estrangeiras\n\n1 - As autoridades centrais dos Estados membros da União Europeia podem dirigir aos serviços de identificação criminal pedidos de emissão de certificados de antecedentes criminais nos seguintes casos:\n\na) Para a instrução de processos criminais;\n\nb) Para complemento de pedido de emissão de certificado do registo criminal apresentado nessa autoridade central por um português, por um cidadão que haja sido nacional português, ou por um cidadão que seja ou haja sido residente em Portugal;\n\nc) Para satisfação de pedido dirigido a essa autoridade central por uma autoridade pública em nome e no interesse de cidadão português ou que tenha sido nacional português, ou por um cidadão que seja ou tenha sido residente em Portugal, precedendo autorização do próprio.\n\n2 - A emissão a que se refere a alínea b) do número anterior só pode ocorrer se o pedido tiver sido apresentado à autoridade central pelo titular da informação, ou por um terceiro expressamente mandatado para o efeito pelo titular, e se os elementos de identificação declarados tiverem sido verificados através de documento de identificação idóneo.\n\n3 - A emissão a que se refere a alínea c) do n.º 1 só pode ocorrer se a autoridade central requerente confirmar ter existido prévia autorização do titular e se os elementos de identificação declarados tiverem sido verificados através de documento de identificação idóneo.\n\n4 - Os pedidos de emissão de certificados de antecedentes criminais apresentados pelas autoridades centrais dos Estados membros da União Europeia para outras finalidades ou em outras condições não podem ser satisfeitos."
+  },
+  "67476223": {
+   "fragment_id": "67485226",
+   "type": 11,
+   "heading": "Artigo 32.º — Conteúdo das respostas aos pedidos de informação das autoridades centrais estrangeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Conteúdo das respostas aos pedidos de informação das autoridades centrais estrangeiras\n\n1 - Os certificados do registo criminal emitidos em resposta a pedidos apresentados por autoridades centrais de outros Estados membros para a instrução de processos criminais devem conter:\n\na) As decisões vigentes no registo criminal;\n\nb) Outras decisões comunicadas pelos Estados membros ou por países terceiros que constem vigentes no registo especial de decisões estrangeiras.\n\n2 - Os certificados emitidos em resposta a pedidos apresentados por autoridades centrais de outros Estados membros para complemento de pedido de emissão de certificado do registo criminal aí apresentado por um particular ou àquelas dirigido por autoridade pública, são emitidos de acordo com as normas legais aplicáveis à emissão de certificados do registo criminal requeridos por particulares, com referência:\n\na) Às decisões de tribunais portugueses vigentes no registo criminal;\n\nb) Às decisões de tribunais estrangeiros vigentes no registo criminal que apliquem penas ou medidas de segurança por crimes equivalentes aos crimes de violência doméstica, de maus tratos ou contra a liberdade e autodeterminação sexual, nos casos em que a finalidade a que se destina o certificado envolva contacto regular com menores."
+  },
+  "67476224": {
+   "fragment_id": "67485227",
+   "type": 11,
+   "heading": "Artigo 33.º — Pedido de cópia de decisões nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Pedido de cópia de decisões nacionais\n\nOs serviços de identificação criminal podem solicitar aos tribunais cópia de decisões judiciais por estes transmitidas e registadas no registo criminal, nomeadamente para efeitos de remessa às autoridades centrais de outros Estados membros."
+  },
+  "67476225": {
+   "fragment_id": "67485228",
+   "type": 11,
+   "heading": "Artigo 34.º — Suporte da transmissão de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Suporte da transmissão de informações\n\nA transmissão de informações entre os serviços de identificação criminal e as autoridades centrais dos restantes Estados membros da União Europeia é efetuada por via eletrónica, através do sistema de informação de suporte ao funcionamento do registo criminal ou através do sistema de informação disponibilizado para o efeito pelas instituições europeias competentes, sem prejuízo da possibilidade de ser efetuada por qualquer meio suscetível de deixar registo escrito nas situações de ausência de meios técnicos aptos à transmissão eletrónica."
+  },
+  "67476226": {
+   "fragment_id": "67485229",
+   "type": 11,
+   "heading": "Artigo 35.º — Relação com outros instrumentos jurídicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Relação com outros instrumentos jurídicos\n\n1 - Nas relações entre Estados membros da União Europeia as disposições legais que concretizam a transposição da Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009, completam o disposto no artigo 13.º da Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal e seus Protocolos Adicionais, bem como a Convenção Relativa ao Auxílio Judiciário Mútuo em Matéria Penal entre os Estados membros da União Europeia e seu Protocolo, renunciando Portugal a invocar nessas relações as reservas que haja formulado relativamente àquela norma.\n\n2 - Nas relações entre Estados membros da União Europeia as disposições que concretizam a transposição da Decisão-Quadro 2009/315/JAI, do Conselho, de 26 de fevereiro de 2009, substituem o disposto no artigo 22.º da Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal."
+  },
+  "67476227": {
+   "fragment_id": "67485230",
+   "type": 1,
+   "heading": "Capítulo VI — Troca de informações com Estados que não sejam membros da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Troca de informações com Estados que não sejam membros da União Europeia"
+  },
+  "67476228": {
+   "fragment_id": "67485231",
+   "type": 11,
+   "heading": "Artigo 36.º — Comunicação de condenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Comunicação de condenações\n\n1 - As decisões condenatórias de cidadãos estrangeiros nacionais de Estados que não sejam membros da União Europeia proferidas por tribunais portugueses podem ser comunicadas pelos serviços de identificação criminal às autoridades centrais desses Estados nos termos estabelecidos em convenção ou acordo internacional vigente, assegurado que seja tratamento recíproco relativamente à comunicação de condenações de portugueses nesse Estado.\n\n2 - As decisões condenatórias de cidadãos portugueses maiores de 16 anos proferidas por tribunais de Estados que não sejam membros da União Europeia que sejam comunicadas a Portugal nos termos estabelecidos em convenção ou acordo internacional vigente, são inscritas no registo criminal desde que se refiram a factos previstos como crime na lei portuguesa e permitam a identificação da pessoa a que se referem, aplicando-se-lhes o disposto nos n.os 3 e 4 do artigo 27.º"
+  },
+  "67476229": {
+   "fragment_id": "67485232",
+   "type": 11,
+   "heading": "Artigo 37.º — Troca de informações sobre antecedentes criminais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Troca de informações sobre antecedentes criminais\n\n1 - Os pedidos de informação sobre antecedentes criminais dirigidos aos serviços de identificação criminal por entidades de Estado que não seja membro da União Europeia são satisfeitos nos termos estabelecidos em convenção ou acordo internacional vigente que o preveja, ou de acordo com o determinado no despacho de autorização do membro do Governo responsável pela área da justiça, assegurado que seja tratamento recíproco às entidades nacionais, aplicando-se-lhes subsidiariamente as disposições da presente lei que regulam a satisfação dos pedidos de entidades nacionais para fins de instrução de processos criminais.\n\n2 - Os serviços de identificação criminal podem dirigir pedidos de informação sobre antecedentes criminais a Estados que não sejam membros da União Europeia, nos termos estabelecidos em convenção ou acordo internacional vigente que o preveja, sempre que tal seja solicitado por uma das entidades referidas nas alíneas a) a f) do n.º 2 do artigo 8.º"
+  },
+  "67476230": {
+   "fragment_id": "67485233",
+   "type": 1,
+   "heading": "Capítulo VII — Proteção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Proteção de dados pessoais"
+  },
+  "67476231": {
+   "fragment_id": "67485234",
+   "type": 11,
+   "heading": "Artigo 38.º — Entidade responsável pelas bases de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entidade responsável pelas bases de dados\n\n1 - O diretor-geral da Administração da Justiça é o responsável pelas bases de dados de identificação criminal, nos termos e para os efeitos definidos na Lei n.º 67/98, de 26 de outubro.\n\n2 - Cabe ao diretor-geral da Administração da Justiça assegurar o direito de informação e de acesso aos dados pelos respetivos titulares, a correção de inexatidões, o completamento de omissões, a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou da comunicação da informação."
+  },
+  "67476232": {
+   "fragment_id": "67485235",
+   "type": 11,
+   "heading": "Artigo 39.º — Condições de utilização dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Condições de utilização dos dados\n\n1 - Os dados pessoais recebidos das autoridades centrais de outros Estados membros em respostas a pedidos dos serviços de identificação criminal para fins relativos a processos penais apenas podem ser utilizados para os fins para que foram solicitados, exceto em situações de ameaça iminente e grave para a segurança pública.\n\n2 - Os dados pessoais recebidos das autoridades centrais de outros Estados membros em respostas a pedidos dos serviços de identificação criminal para fins que não sejam relativos a processos penais apenas podem ser utilizados para os fins para que foram solicitados, exceto em situações de ameaça iminente e grave para a segurança pública.\n\n3 - Na transmissão de informação a países terceiros os serviços de identificação criminal devem tomar as medidas necessárias para assegurar que os dados pessoais recebidos de outros Estados membros são submetidos a limites de utilização idênticos aos aplicáveis à transmissão de dados a Estados membros da União Europeia."
+  },
+  "67476233": {
+   "fragment_id": "67485236",
+   "type": 11,
+   "heading": "Artigo 40.º — Acesso à informação pelo titular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Acesso à informação pelo titular\n\n1 - O titular da informação, ou quem prove efetuar o pedido em seu nome, tem o direito de tomar conhecimento dos dados que ao mesmo disserem respeito constantes dos registos da competência dos serviços de identificação criminal, podendo exigir a sua retificação e atualização ou a supressão de dados indevidamente registados.\n\n2 - O conhecimento da informação constante de qualquer dos registos da competência dos serviços de identificação criminal concretiza-se com a emissão de um certificado de acesso ao registo, o qual certifica o conteúdo integral do registo dessa pessoa, ou a ausência de informação em registo sobre esse pessoa, não podendo ser utilizado para nenhum outro efeito."
+  },
+  "67476234": {
+   "fragment_id": "67485237",
+   "type": 11,
+   "heading": "Artigo 41.º — Dados incorreta ou indevidamente registados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Dados incorreta ou indevidamente registados\n\n1 - São dados incorreta ou indevidamente registados os que se não mostrem conformes com o teor da comunicação efetuada pelos tribunais ou pelas autoridades centrais aos serviços de identificação criminal.\n\n2 - Sendo invocada desconformidade entre o teor da comunicação efetuada pelos tribunais ou pelas autoridades centrais aos serviços de identificação criminal e a situação processual, os serviços de identificação criminal comunicam a situação à entidade remetente da informação para que esta promova as alterações que entenda necessárias."
+  },
+  "67476235": {
+   "fragment_id": "67485238",
+   "type": 11,
+   "heading": "Artigo 42.º — Reclamações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Reclamações e recursos\n\n1 - Compete ao diretor-geral da Administração da Justiça decidir sobre as reclamações respeitantes ao acesso à informação em matéria de identificação criminal e seu conteúdo, cabendo recurso da sua decisão.\n\n2 - O recurso sobre a legalidade do conteúdo dos certificados do registo criminal é interposto para o tribunal de execução das penas."
+  },
+  "67476236": {
+   "fragment_id": "67485239",
+   "type": 11,
+   "heading": "Artigo 43.º — Violação de normas relativas a ficheiros e impressos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Violação de normas relativas a ficheiros e impressos\n\n1 - A violação das normas relativas a ficheiros informatizados de identificação criminal ou de contumazes é punida nos termos do disposto na secção III do capítulo VI da Lei n.º 67/98, de 26 de outubro.\n\n2 - A falsificação dos modelos oficiais de certificados do registo criminal e de contumácia, o uso destes documentos falsificados e a falsificação de outros impressos de modelo oficial da identificação criminal constituem crime punível nos termos do artigo 256.º do Código Penal."
+  },
+  "67476237": {
+   "fragment_id": "67485240",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "67476238": {
+   "fragment_id": "67485241",
+   "type": 11,
+   "heading": "Artigo 44.º — Parecer prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Parecer prévio\n\nA elaboração de diplomas legais em que se preveja a ausência de antecedentes criminais para o exercício de determinada profissão ou atividade por pessoa singular é precedida, necessariamente, de parecer da Direção-Geral de Reinserção e Serviços Prisionais."
+  },
+  "67476239": {
+   "fragment_id": "67485242",
+   "type": 11,
+   "heading": "Artigo 45.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Regulamentação\n\nA presente lei é regulamentada no prazo de 90 dias a contar da sua publicação."
+  },
+  "67476240": {
+   "fragment_id": "67485243",
+   "type": 11,
+   "heading": "Artigo 46.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Norma revogatória\n\n1 - É revogada a Lei n.º 57/98, de 18 de agosto, alterada pelo Decreto-Lei n.º 323/2001, de 17 de dezembro, e pelas Leis n.os 113/2009, de 17 de setembro, 114/2009, de 22 de setembro, e 115/2009, de 12 de outubro.\n\n2 - O Decreto-Lei n.º 381/98, de 27 de novembro, alterado pelos Decretos-Leis n.os 20/2007, de 23 de janeiro, e 288/2009, de 8 de outubro, mantém-se em vigor até à publicação da regulamentação referida no artigo anterior."
+  },
+  "187008519": {
+   "fragment_id": "67485192",
+   "type": 11,
+   "heading": "Artigo 2.º — Identificação criminal",
+   "in_force_from": "2022-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+   ],
+   "markdown": "###### Artigo 2.º — Identificação criminal\n\n1 - A identificação criminal tem por objeto a recolha, o tratamento e a conservação de extratos de decisões judiciais e dos demais elementos a elas respeitantes sujeitos a inscrição no registo criminal e no registo de contumazes, promovendo a identificação dos titulares dessa informação, a fim de permitir o conhecimento dos antecedentes criminais das pessoas condenadas e das decisões de contumácia vigentes.\n\n2 - São também objeto de recolha, como meio complementar de identificação, as impressões digitais das pessoas singulares condenadas, incluindo as pessoas inimputáveis a quem tenha sido aplicada medida de segurança.\n\n3 - A recolha das impressões digitais incide sobre:\n\na) Cada um dos dedos das mãos, em duas séries, uma com os dedos na posição pousada e a outra na posição rolada; e\n\nb) Cada uma das palmas das mãos, na posição pousada e na posição de escritor.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+  },
+  "67476248": {
+   "fragment_id": "67485206",
+   "type": 11,
+   "heading": "Artigo 14.º — Organização e constituição",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Retificação n.º 28/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/28-2015-67477874), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 14.º — Organização e constituição\n\n1 - O registo de contumazes organiza-se em ficheiro central informatizado, constituído por elementos de identificação dos arguidos, comunicados pelos tribunais ou recolhidos pelos serviços de identificação criminal, e por extratos das decisões criminais que, nos termos da lei de processo penal, declarem a contumácia, alterem essa declaração ou a façam cessar.\n\n2 - A identificação do arguido abrange:\n\na) Tratando-se de pessoa singular, nome, sexo, filiação, naturalidade, data de nascimento, nacionalidade, estado civil, residência, número de identificação civil ou, na sua falta, do passaporte ou de outro documento de identificação idóneo e, quando se trate de decisão condenatória, estando presente o arguido no julgamento, as suas impressões digitais e assinatura;\n\nb) Tratando-se de pessoa coletiva ou entidade equiparada, denominação, sede e número de identificação de pessoa coletiva e, quando aquela tenha resultado da fusão ou cisão de outra pessoa coletiva ou equiparada, os dados correspetivos a esta atinentes.\n\n> Rectificado pelo/a [Declaração de Retificação n.º 28/2015 - Diário da República n.º 114/2015, Série I de 2015-06-15](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/28-2015-67477874), em vigor a partir de 2015-05-10"
+  },
+  "187008520": {
+   "fragment_id": "67485223",
+   "type": 11,
+   "heading": "Artigo 29.º — Dos pedidos de informação a dirigir às autoridades centrais estrangeiras",
+   "in_force_from": "2022-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+   ],
+   "markdown": "###### Artigo 29.º — Dos pedidos de informação a dirigir às autoridades centrais estrangeiras\n\n1 - Sempre que for dirigido aos serviços de identificação criminal, por uma autoridade portuguesa, um pedido de emissão de certificado do registo criminal para instrução de processo criminal em que seja arguido um nacional de um Estado membro da União Europeia, aqueles serviços devem dirigir à autoridade central do Estado membro da nacionalidade do arguido um pedido de emissão de certificado do registo criminal, a fim de facultarem as informações recebidas juntamente com o certificado do registo criminal português.\n\n2 - No caso em que o arguido seja nacional de um Estado que não seja membro da União Europeia ou uma pessoa apátrida ou de nacionalidade desconhecida, o pedido dos serviços a que se refere o número anterior deve ser dirigido às autoridades centrais dos Estados-Membros que disponham de informações sobre o registo criminal do arguido, a fim de serem facultadas as informações recebidas juntamente com o certificado do registo criminal português.\n\n3 - As entidades públicas portuguesas a quem a lei atribua legitimidade para pedirem a emissão de certificados do registo criminal para finalidades diferentes da instrução de processo criminal, quando solicitem a emissão de um certificado do registo criminal relativa a um nacional de um Estado membro da União Europeia, podem requerer aos serviços de identificação criminal que seja igualmente pedida a emissão do certificado do registo criminal à autoridade central do Estado membro da nacionalidade, a fim de que sejam facultadas as informações recebidas juntamente com o certificado do registo criminal português.\n\n4 - No caso em que o pedido de emissão seja relativo a nacional de um Estado que não seja membro da União Europeia ou a pessoa apátrida ou de nacionalidade desconhecida, o pedido dos serviços a que se refere o número anterior deve ser dirigido às autoridades centrais dos Estados-Membros que disponham de informações sobre o registo criminal dessa pessoa, a fim de serem facultadas as informações recebidas juntamente com o certificado do registo criminal português.\n\n5 - Sempre que um cidadão nacional de outro Estado membro da União Europeia apresente em Portugal um pedido de emissão do seu certificado do registo criminal, os serviços de identificação criminal devem dirigir à autoridade central do Estado membro da nacionalidade do requerente um pedido de emissão de certificado do registo criminal, a fim de facultarem as informações recebidas juntamente com o certificado do registo criminal português.\n\n6 - No caso em que o pedido de emissão seja apresentado por um cidadão nacional de um Estado que não seja membro da União Europeia ou uma pessoa apátrida ou de nacionalidade desconhecida, o pedido dos serviços a que se refere o número anterior deve ser dirigido às autoridades centrais dos Estados-Membros que disponham de informações sobre o registo criminal do requerente, a fim de serem facultadas as informações recebidas juntamente com o certificado do registo criminal português.\n\n7 - Os portugueses, os cidadãos não nacionais de Estados-Membros da União Europeia e as pessoas apátridas ou de nacionalidade desconhecida que são ou foram residentes noutro Estado-Membro, bem como os portugueses que foram nacionais de outro Estado-Membro, quando solicitem a emissão de um certificado do registo criminal português, podem requerer aos serviços de identificação criminal que seja igualmente pedida a emissão do certificado do registo criminal à autoridade central do Estado-Membro onde sejam ou tenham sido residentes ou do Estado-Membro de que foram nacionais, consoante o caso, a fim de que sejam facultadas as informações recebidas juntamente com o certificado do registo criminal português.\n\n8 - O disposto nos n.os 5 a 7 aplica-se aos pedidos de emissão de certificados apresentados por entidades públicas no âmbito da instrução de procedimentos administrativos precedendo autorização do titular da informação.\n\n9 - A identificação das autoridades centrais dos Estados-Membros que disponham de informações sobre o registo criminal de cidadãos nacionais de Estados que não sejam membros da União Europeia ou de pessoas apátridas ou de nacionalidade desconhecida é feita através do sistema previsto no Regulamento (UE) 2019/816 do Parlamento Europeu e do Conselho, de 17 de abril de 2019, que cria um sistema centralizado para a determinação dos Estados-Membros que possuem informações sobre condenações de nacionais de países terceiros e de apátridas (ECRIS-TCN) tendo em vista completar o Sistema Europeu de Informação sobre Registos Criminais e que altera o Regulamento (UE) 2018/1726.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+  },
+  "187008521": {
+   "fragment_id": "67485225",
+   "type": 11,
+   "heading": "Artigo 31.º — Dos pedidos de informação apresentados por autoridades centrais estrangeiras",
+   "in_force_from": "2022-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+   ],
+   "markdown": "###### Artigo 31.º — Dos pedidos de informação apresentados por autoridades centrais estrangeiras\n\n1 - As autoridades centrais dos Estados membros da União Europeia podem dirigir aos serviços de identificação criminal pedidos de emissão de certificados de antecedentes criminais nos seguintes casos:\n\na) Para a instrução de processos criminais;\n\nb) Para complemento de pedido de emissão de certificado do registo criminal apresentado nessa autoridade central por um português, por um cidadão que tenha sido nacional português, por um cidadão que seja ou tenha sido residente em Portugal, ou por um cidadão nacional de um Estado que não seja membro da União Europeia ou pessoa apátrida ou de nacionalidade desconhecida, mesmo que nunca tenham residido em Portugal;\n\nc) Para satisfação de pedido dirigido a essa autoridade central por uma autoridade pública em nome e no interesse de cidadão português ou que tenha sido nacional português, de cidadão que seja ou tenha sido residente em Portugal ou de cidadão nacional de um Estado que não seja membro da União Europeia ou pessoa apátrida ou de nacionalidade desconhecida, mesmo que nunca tenham residido em Portugal, precedendo autorização do mesmo.\n\n2 - A emissão a que se refere a alínea b) do número anterior só pode ocorrer se o pedido tiver sido apresentado à autoridade central pelo titular da informação, ou por um terceiro expressamente mandatado para o efeito pelo titular, e se os elementos de identificação declarados tiverem sido verificados através de documento de identificação idóneo.\n\n3 - A emissão a que se refere a alínea c) do n.º 1 só pode ocorrer se a autoridade central requerente confirmar ter existido prévia autorização do titular e se os elementos de identificação declarados tiverem sido verificados através de documento de identificação idóneo.\n\n4 - Os pedidos de emissão de certificados de antecedentes criminais apresentados pelas autoridades centrais dos Estados membros da União Europeia para outras finalidades ou em outras condições não podem ser satisfeitos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+  },
+  "187008522": {
+   "fragment_id": "67485226",
+   "type": 11,
+   "heading": "Artigo 32.º — Conteúdo e prazo das respostas aos pedidos de informação das autoridades centrais estrangeiras",
+   "in_force_from": "2022-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+   ],
+   "markdown": "###### Artigo 32.º — Conteúdo e prazo das respostas aos pedidos de informação das autoridades centrais estrangeiras\n\n1 - Os certificados do registo criminal emitidos em resposta a pedidos apresentados por autoridades centrais de outros Estados membros para a instrução de processos criminais devem conter:\n\na) As decisões vigentes no registo criminal;\n\nb) Outras decisões comunicadas pelos Estados membros ou por países terceiros que constem vigentes no registo especial de decisões estrangeiras.\n\n2 - Os certificados emitidos em resposta a pedidos apresentados por autoridades centrais de outros Estados membros para complemento de pedido de emissão de certificado do registo criminal aí apresentado por um particular ou àquelas dirigido por autoridade pública, são emitidos de acordo com as normas legais aplicáveis à emissão de certificados do registo criminal requeridos por particulares, com referência:\n\na) Às decisões de tribunais portugueses vigentes no registo criminal;\n\nb) Às decisões de tribunais estrangeiros vigentes no registo criminal que apliquem penas ou medidas de segurança por crimes equivalentes aos crimes de violência doméstica, de maus tratos ou contra a liberdade e autodeterminação sexual, nos casos em que a finalidade a que se destina o certificado envolva contacto regular com menores.\n\n3 - O prazo de resposta é de 10 dias úteis, exceto quando o pedido da autoridade central de outro Estado-Membro for motivado por um pedido de emissão de certificado do registo criminal apresentado por particular, em que o prazo é de 20 dias úteis.\n\n4 - Se o prazo de 10 dias úteis não for suficiente para identificar a pessoa em causa, os serviços de identificação criminal devem solicitar de imediato informações adicionais à autoridade central de outro Estado-Membro, dispondo de um novo prazo de 10 dias úteis para responder, a contar da data da receção das informações solicitadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+  },
+  "187008523": {
+   "fragment_id": "67485228",
+   "type": 11,
+   "heading": "Artigo 34.º — Suporte da transmissão de informações",
+   "in_force_from": "2022-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+   ],
+   "markdown": "###### Artigo 34.º — Suporte da transmissão de informações\n\n1 - A transmissão de informações entre os serviços de identificação criminal e as autoridades centrais dos restantes Estados-Membros da União Europeia é efetuada por via eletrónica, através do sistema europeu de informação sobre os registos criminais (ECRIS), previsto na Decisão-Quadro 2009/315/JAI do Conselho, de 26 de fevereiro de 2009, relativa à organização e ao conteúdo do intercâmbio de informações extraídas do registo criminal entre os Estados-Membros.\n\n2 - Caso o sistema referido no número anterior não esteja disponível, a transmissão de informações é efetuada, ponderando a segurança da transmissão, por qualquer meio suscetível de deixar registo escrito, em condições que permitam à autoridade central do Estado-Membro da receção verificar a sua autenticidade e garantir a confidencialidade e integridade dos dados pessoais a transmitir.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+  },
+  "187008524": {
+   "fragment_id": "67485234",
+   "type": 11,
+   "heading": "Artigo 38.º — Entidade responsável pelas bases de dados",
+   "in_force_from": "2022-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+   ],
+   "markdown": "###### Artigo 38.º — Entidade responsável pelas bases de dados\n\n1 - A Direção-Geral da Administração da Justiça é a entidade responsável pelas bases de dados de identificação criminal, nos termos e para os efeitos definidos no Regulamento (UE) 2016/679 do Parlamento e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados, na Lei n.º 58/2019, de 8 de agosto, e na Lei n.º 59/2019, de 8 de agosto.\n\n2 - Cabe à Direção-Geral da Administração da Justiça assegurar o direito de informação e de acesso aos dados pelos respetivos titulares, a correção de inexatidões, o suprimento de omissões, a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou da comunicação da informação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+  },
+  "187008525": {
+   "fragment_id": "67485238",
+   "type": 11,
+   "heading": "Artigo 42.º — Reclamações e recursos",
+   "in_force_from": "2022-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+   ],
+   "markdown": "###### Artigo 42.º — Reclamações e recursos\n\n1 - As reclamações respeitantes ao acesso à informação em matéria de identificação criminal e ao seu conteúdo devem ser apresentadas no prazo de 60 dias contados da prática do ato de que se reclama.\n\n2 - O diretor-geral da Administração da Justiça decide, no prazo máximo de 30 dias, sobre as reclamações respeitantes ao acesso à informação em matéria de identificação criminal e ao seu conteúdo, cabendo recurso da decisão.\n\n3 - O recurso sobre a legalidade do conteúdo dos certificados do registo criminal é interposto pelo interessado, no prazo de 30 dias contados da data da respetiva emissão, sendo competente para a sua apreciação o tribunal de execução das penas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+  },
+  "187008526": {
+   "fragment_id": "67485239",
+   "type": 11,
+   "heading": "Artigo 43.º — Violação de normas relativas a ficheiros e impressos",
+   "in_force_from": "2022-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+   ],
+   "markdown": "###### Artigo 43.º — Violação de normas relativas a ficheiros e impressos\n\n1 - A violação das normas relativas a ficheiros informatizados de identificação criminal ou de contumazes é punida nos termos do disposto:\n\na) No capítulo vii da Lei n.º 58/2019, de 8 de agosto; ou\n\nb) Nos capítulos vii e viii da Lei n.º 59/2019, de 8 de agosto, quando esteja em causa o tratamento de dados pessoais para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, incluindo a salvaguarda e a prevenção de ameaças à segurança pública.\n\n2 - A falsificação dos modelos oficiais de certificados do registo criminal e de contumácia, o uso destes documentos falsificados e a falsificação de outros impressos de modelo oficial da identificação criminal constituem crime punível nos termos do artigo 256.º do Código Penal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 14/2022 - Diário da República n.º 148/2022, Série I de 2022-08-02](https://diariodarepublica.pt/dr/detalhe/lei/14-2022-186949306), em vigor a partir de 2022-10-31"
+  },
+  "67476241": {
+   "fragment_id": "67485244",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de março de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 22 de abril de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 23 de abril de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

@@ -1,0 +1,411 @@
+---
+schema_version: '1.0'
+id: pt:dre:177992988:por
+title: Decreto Regulamentar Regional n.º 1/2022/A
+short_title: null
+summary: Estabelece o regime de atribuição de incentivos à fixação, aplicável ao pessoal médico, na Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 1/2022/A
+official_date: null
+publication_date: '2022-01-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 15/2022, Série I de 2022-01-21
+  number: '15'
+  series: I
+  supplement: null
+  pages: 6 - 10
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/01/01500/0000600010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-03-27'
+version_history:
+  file: decreto-regulamentar-regional-1-2022-a.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2022-01-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-06-23'
+    amending: pt:dre:185043375:por
+    amending_title: Decreto Regulamentar Regional n.º 8/2022/A
+    changes:
+    - Altera Artigo 1.º
+  - date: '2023-11-24'
+    amending: pt:dre:224661319:por
+    amending_title: Decreto Regulamentar Regional n.º 33/2023/A
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+  - date: '2024-07-05'
+    amending: pt:dre:870891839:por
+    amending_title: Decreto Regulamentar Regional n.º 9/2024/A
+    changes:
+    - Adita Artigo 5.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+  - date: '2026-03-27'
+    amending: pt:dre:1077350809:por
+    amending_title: Decreto Regulamentar Regional n.º 4/2026/A
+    changes:
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/1/2022/a/cons/20260326/pt/html
+  oj: null
+  dre: '177992988'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/1-2022-177992988
+  internal: pt:dre:177992988:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-2022-177992988
+  metadata_url: https://data.dre.pt/eli/decregulreg/1/2022/a/cons/20260326/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2022-178046747
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2022-178046747
+  retrieved_at: '2026-10-22T12:48:52Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e38b609f3446dde0b44a4d355d9cc42e66c409236869e5d29b6e83f4a7939c5f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:48:52Z'
+  notes: 5 versão(ões); histórico completo em decreto-regulamentar-regional-1-2022-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Função Pública
+- Médico
+- Colocação de Médicos
+- Governo Regional
+- Incentivo Profissional
+- Incentivos à Deslocação
+- Mobilidade de Pessoal
+- Serviço Regional de Saúde
+- Açores
+- Subsídio
+- Subsídio de Fixação
+relationships:
+- type: amended_by
+  target: pt:dre:185043375:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375
+  date: '2022-06-22'
+- type: amended_by
+  target: pt:dre:224661319:por
+  label: Altera Artigo 1.º; Altera Artigo 5.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319
+  date: '2023-11-23'
+- type: amended_by
+  target: pt:dre:870891839:por
+  label: Adita Artigo 5.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839
+  date: '2024-07-04'
+- type: amended_by
+  target: pt:dre:1077350809:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2026-1077350809
+  date: '2026-03-26'
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/1/2010/01/04/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/1/2010/01/04/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/15-a/2021/05/31/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/15-a/2021/05/31/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/2/2007/01/24/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2007/01/24/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/28/1999/07/31/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/28/1999/07/31/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/4/2020/01/22/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/4/2020/01/22/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/5/2014/02/17/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/5/2014/02/17/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:48:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 1/2022/A
+
+Decreto Regulamentar Regional n.º 1/2022/A
+
+Sumário: Estabelece o regime de atribuição de incentivos à fixação, aplicável ao pessoal médico, na Região Autónoma dos Açores.
+
+O programa do XIII Governo Regional dos Açores estabelece, como prioritária, a aposta nos cuidados de saúde, desde logo, através do melhoramento dos estímulos à fixação de profissionais, particularmente em ilhas sem hospital, ultrapassando os estímulos financeiros e juntando-lhes o apoio à sua própria formação.
+
+Neste sentido, e por forma a dar cumprimento a este objetivo estrutural do programa do Governo Regional, o Decreto Legislativo Regional n.º 15-A/2021/A, de 31 de maio, que aprova o Orçamento da Região Autónoma dos Açores para o ano de 2021, estabelece, no seu artigo 71.º, os requisitos à atribuição dos incentivos à fixação no Serviço Regional de Saúde.
+
+Nos termos do citado artigo, o valor do incentivo pecuniário é definido em função das carências sentidas nas respetivas ilhas, por zonas, assegurando, assim, a equidade no acesso a cuidados de saúde de qualidade em todo o arquipélago e contrariando as especificidades e contingências de cada uma das suas ilhas, promovendo a correção de assimetrias e o fortalecimento do Serviço Regional de Saúde.
+
+Contudo, um eficaz quadro de incentivos à fixação de profissionais de saúde, nomeadamente de médicos, das diversas especialidades, cujas carências nas várias ilhas são evidentes, não se pode esgotar nos incentivos de natureza pecuniária, sendo necessário ir além destes.
+
+O Decreto Legislativo Regional n.º 28/99/A, de 31 de julho, alterado pelos Decretos Legislativos Regionais n.os 2/2007/A, de 24 de janeiro, 1/2010/A, de 4 de janeiro, e 4/2020/A, de 22 de janeiro, que aprova o Estatuto do Serviço Regional de Saúde dos Açores (estabelece a organização e o funcionamento dos serviços de saúde da Região Autónoma dos Açores), prevê, no respetivo artigo 24.º, que, com o objetivo de promover o recrutamento e a fixação de profissionais de saúde qualificados, pode o Governo Regional definir, por decreto regulamentar regional, esquemas de incentivos de carácter remuneratório e não remuneratório.
+
+Desta forma, atendendo ao facto de que já se passaram sete anos desde a entrada em vigor do Decreto Regulamentar Regional n.º 5/2014/A, de 17 de fevereiro, que estabelece o regime de atribuição de incentivos e apoios à fixação aplicável ao pessoal médico na Região Autónoma dos Açores, e que o mesmo se encontra ultrapassado no que se refere à realidade e às necessidades que pretende suprir, importa rever e aperfeiçoar o regime de incentivos criado pelo referido diploma.
+
+Foram observados os procedimentos de negociação coletiva, bem como de participação na legislação laboral, decorrentes da Lei Geral de Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação em vigor.
+
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, da alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do artigo 24.º do Decreto Legislativo Regional n.º 28/99/A, de 31 de julho, alterado pelos Decretos Legislativos Regionais n.os 2/2007/A, de 24 de janeiro, 1/2010/A, de 4 de janeiro, e 4/2020/A, de 22 de janeiro, o Governo Regional decreta o seguinte:
+
+> Nota: [Artigo 4.º, Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839) Os trabalhadores médicos a quem tenha sido atribuído incentivo pecuniário na vigência do Decreto Regulamentar Regional n.º 5/2014/A de 17 de fevereiro, ou ao abrigo do presente diploma, pelo período de três anos, independentemente do regime aplicado, podem requerer a prorrogação do mesmo até ao limite total de cinco anos. Para efeitos da prorrogação referida no n.º 1 do artigo 4.º do Decreto Regulamentar Regional n.º 9/2024/A, os três anos iniciais de incentivo são contabilizados no cômputo total do limite dos cincos anos ali referidos.
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente diploma estabelece o regime de atribuição de incentivos à fixação, aplicável ao pessoal médico, na Região Autónoma dos Açores.
+
+2 - O conjunto de incentivos referidos no número anterior é aplicável a todos os trabalhadores médicos admitidos, independentemente da respetiva modalidade da relação jurídica.
+
+3 - O disposto no n.º 1 é ainda aplicável aos trabalhadores em situação de mobilidade definitiva ou temporária, desde que esta última tenha uma duração igual ou superior a um ano.
+
+4 - A atribuição dos incentivos e apoios previstos nos artigos 4.º e 5.º-A do presente diploma dependem de despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de saúde.
+
+5 - Não podem beneficiar dos incentivos e apoios previstos no presente diploma os médicos que tenham usufruído de qualquer modalidade de bolsa, atribuída pela Direção Regional da Saúde, ou outro serviço integrado no Serviço Regional de Saúde, e, consequentemente, assumido o compromisso de prestar serviço na Região Autónoma dos Açores, por um determinado período de tempo, enquanto este decorrer.
+
+6 - Sem prejuízo do disposto no número anterior, podem os despachos a que se referem o n.º 3 do presente artigo, o artigo 2.º e o n.º 2 do artigo 5.º determinar, a título excecional e devidamente fundamentado, e em alternativa, o seguinte:
+
+a) Diferimento, total ou parcial, do cumprimento da moratória a que se refere o número anterior, precedido de proposta fundamentada da unidade de saúde interessada, designadamente em situações em que comprovadamente possa ser colocada em causa a abertura ou o funcionamento do serviço respetivo;
+
+b) Atribuição de um adicional de 20 % aos incentivos pecuniários previstos e atribuídos ao abrigo do artigo 5.º, concluído o compromisso a que se refere o n.º 4 do presente artigo, precedido de proposta fundamentada da unidade de saúde interessada, designadamente em que comprovadamente possa ser colocada em causa a abertura ou o funcionamento do serviço respetivo.
+
+7 - Nas situações a que se refere a alínea a) do número anterior, o cumprimento dos compromissos decorrentes das situações de bolseiros e de beneficiários de incentivos, ao abrigo do presente diploma, são obrigatoriamente cumpridos pelos interessados, de forma temporalmente sequencial.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), em vigor a partir de 2024-07-05, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 33/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), em vigor a partir de 2023-11-24, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 8/2022/A - Diário da República n.º 119/2022, Série I de 2022-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2022-185043375), em vigor a partir de 2022-06-23, produz efeitos a partir de 2022-01-22
+
+###### Artigo 2.º — Unidades de saúde especialmente carenciadas
+
+A identificação, por especialidade médica, das instituições e serviços da Região Autónoma dos Açores especialmente carenciados, bem como o respetivo contingente, são estabelecidos, anualmente, de acordo com as necessidades manifestadas pelos mesmos, por despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de saúde, de acordo com os seguintes fatores:
+
+a) Distância geográfica de outras unidades de saúde;
+
+b) Inexistência de unidade hospitalar na ilha em causa;
+
+c) Nível de cobertura de utentes com médico de medicina geral e familiar;
+
+d) Níveis de desempenho assistencial, de produtividade e de acesso, nomeadamente das listas de espera cirúrgica e para primeira consulta;
+
+e) Capacidade formativa dos serviços e estabelecimentos de saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), em vigor a partir de 2024-07-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 3.º — Tipo de incentivos
+
+1 - Os incentivos a atribuir nos termos do presente diploma podem ter natureza pecuniária e não pecuniária.
+
+2 - Aos trabalhadores médicos abrangidos pelo presente diploma, são atribuídos os seguintes incentivos de natureza pecuniária:
+
+a) Compensação das despesas de deslocação e transporte;
+
+b) Acréscimo remuneratório.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), em vigor a partir de 2024-07-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 4.º — Compensação das despesas de deslocação e transporte
+
+1 - Aos trabalhadores médicos abrangidos pelo presente diploma, deslocados do exterior da Região Autónoma dos Açores, ou de ilha diferente da ilha onde se situa a unidade de saúde de destino, são atribuídos os seguintes incentivos de natureza pecuniária, a título de compensação das despesas resultantes da sua deslocação e transporte:
+
+a) Valor despendido no transporte, por via aérea, para o médico e respetivo agregado familiar, para a ilha do novo local de trabalho, incluindo animais de companhia;
+
+b) Transporte de bens, por via marítima, até ao limite de 10 m3, para todo o agregado familiar;
+
+c) Transporte de um veículo automóvel ligeiro, desde que este se verifique nos 90 dias anteriores ou imediatos ao início de funções;
+
+d) Três passagens aéreas por ano para o trabalhador médico, em tarifa económica, mediante a apresentação dos respetivos recibos junto da unidade de saúde;
+
+e) Pagamento do valor correspondente a uma passagem aérea por ano, em tarifa económica, para cônjuge ou pessoa com quem viva em união de facto, e filhos dependentes até aos 25 anos, no caso de os mesmos não residirem na Região Autónoma dos Açores com o trabalhador médico, mediante a apresentação dos respetivos recibos do valor despendido, junto da unidade de saúde.
+
+2 - O pagamento das compensações referidas no presente artigo é da responsabilidade da unidade de saúde de destino.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), em vigor a partir de 2024-07-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 5.º — Acréscimo remuneratório
+
+1 - Os trabalhadores médicos a contratar, independentemente do tipo de vínculo, pelo Serviço Regional de Saúde, em especialidades consideradas especialmente carenciadas, têm direito a incentivos de natureza pecuniária, na modalidade de acréscimo remuneratório.
+
+2 - Para efeitos do disposto no número anterior, as áreas carenciadas são definidas por despacho conjunto dos membros do Governo Regional com competência em matéria de finanças e de saúde.
+
+3 - O valor do incentivo pecuniário é fixado em função das carências sentidas nas respetivas ilhas, por zonas, em percentagem relativa à remuneração base correspondente à primeira posição remuneratória da categoria de assistente, das carreiras médica e especial médica, nos termos seguintes:
+
+a) Zona A (São Miguel) - 35 %;
+
+b) Zona B (Terceira) - 40 %;
+
+c) Zona C (Santa Maria, São Jorge, Corvo) - 45 %;
+
+d) Zona D (Faial) - 50 %;
+
+e) Zona E (Graciosa, Pico, Flores) - 55 %.
+
+4 - Nas situações de exercício de funções em regime de mobilidade temporária, nos termos do n.º 3 do artigo 1.º, as percentagens estabelecidas nas alíneas a) a d), do número anterior, são reduzidas em 10 %.
+
+5 - O incentivo pecuniário previsto no presente artigo tem a duração máxima de cinco anos, contados após a celebração do contrato de trabalho com os serviços e estabelecimentos de saúde do Serviço Regional de Saúde, ou do início da mobilidade, por referência às especialidades identificadas, anualmente, nos termos do disposto no artigo 2.º, e cessa decorrido esse prazo, não sendo passível de prorrogação ou renovação.
+
+6 - Sempre que ocorra a consolidação da mobilidade ou a passagem da mesma a definitiva, aos incentivos pecuniários devidos ao trabalhador médico, nos termos do previsto no n.º 3, é acrescido um montante correspondente a 10 % da percentagem em específico aplicável.
+
+7 - O acréscimo a que se refere o número anterior é atribuído mensalmente, por um período igual ao da duração da mobilidade temporária, não podendo, contudo, ultrapassar o limite de cinco anos previsto no n.º 5.
+
+8 - No caso de médico nomeado para a direção clínica da respetiva unidade de saúde de ilha, o valor do incentivo pecuniário previsto na alínea e) do n.º 3 do presente artigo é também calculado sobre a respetiva remuneração devida pelo exercício das funções de direção clínica.
+
+> Nota: [Artigo 4.º, Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839) Aos trabalhadores médicos que requeiram a prorrogação prevista no n.º 1 do artigo 4.º do Decreto Regulamentar Regional n.º 9/2024/A, aplica-se o disposto no presente artigo, deduzindo-se os montantes percebidos nos anos anteriores, referentes a acréscimos remuneratórios pagos a título de incentivo à fixação. A prorrogação do incentivo pecuniário é acompanhada da prorrogação do respetivo do compromisso, nos termos do n.º 1 do artigo 7.º do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2026/A - Diário da República n.º 60/2026, Série I de 2026-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2026-1077350809), em vigor a partir de 2026-03-27, com efeitos a partir de 2026-01-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), em vigor a partir de 2024-07-05, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 33/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), em vigor a partir de 2023-11-24, produz efeitos a partir de 2023-01-01
+
+###### Artigo 5.º-A — Subsídio de renda
+
+1 - Os trabalhadores médicos deslocados do exterior da Região Autónoma dos Açores, ou de ilha diferente da ilha onde se situa a unidade de saúde de destino, têm direito a um subsídio, correspondente ao valor de 1 (um) IAS (Indexante de Apoios Sociais), para apoio ao arrendamento para habitação.
+
+2 - O incentivo previsto no número anterior é objeto de regulamentação através de despacho conjunto dos membros do Governo Regional com competências nas áreas das finanças e da saúde.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), em vigor a partir de 2024-07-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 6.º — Incentivos de natureza não pecuniária
+
+1 - Aos trabalhadores médicos beneficiários do regime previsto no presente diploma, são atribuídos os seguintes incentivos de natureza não pecuniária:
+
+a) Direito a trabalhar em regime de horário de trabalho flexível, com vista a facilitar ao trabalhador médico a conciliação da atividade profissional com a vida familiar;
+
+b) Direito a trabalhar a tempo parcial;
+
+c) O direito a dispensa de serviço, até 10 dias úteis, no período imediato ao início de funções no posto de trabalho onde é colocado, que é considerada, para todos os efeitos, como prestação efetiva de trabalho;
+
+d) Sem prejuízo de situações excecionais que possam comprometer a prestação de cuidados de saúde, o gozo de 11 dias úteis consecutivos do período de férias a que legalmente tem direito, durante as férias escolares dos seus filhos, ou dos filhos do cônjuge, ou pessoa com quem viva em união de facto, que façam parte do seu agregado familiar;
+
+e) Sem prejuízo de situações excecionais que possam comprometer a prestação de cuidados de saúde, o gozo do período de férias a que legalmente tem direito, em simultâneo com o cônjuge, ou pessoa com quem viva em união de facto;
+
+f) A garantia de transferência escolar dos filhos de qualquer dos cônjuges, ou de pessoa com quem viva em união de facto;
+
+g) A preferência pelo cônjuge, ou pela pessoa com quem viva em união de facto, na lista de ordenação final de candidatos, em caso de igualdade de classificação, nos procedimentos concursais de recrutamento publicitados ao abrigo e nos termos do artigo 30.º da Lei Geral de Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação em vigor, para ocupação de posto de trabalho em serviço ou organismo da administração direta e indireta da Região Autónoma dos Açores, desde que se trate de trabalhador com vínculo de emprego público constituído por tempo indeterminado;
+
+h) Participação em atividades de investigação ou desenvolvimento das correspondentes competências e qualificações profissionais, mediante exercício de funções em serviços ou estabelecimentos de saúde à sua escolha, e com prévia autorização destes, situados em território nacional, pelo período máximo de 15 dias, por ano, seguido ou interpolado, com direito a ajudas de custo e transporte, nos termos legais;
+
+i) Direito a exercer a atividade em regime de teletrabalho, quando este seja compatível com a atividade desempenhada pelo trabalhador médico e a entidade a que se encontre vinculado disponha dos recursos e meios para o efeito;
+
+j) Preferência, caso o trabalhador se candidate, nos termos legais, a procedimento concursal de recrutamento para preenchimento de postos de trabalho na categoria de assistente graduado sénior, na lista de ordenação final dos candidatos, em caso de igualdade de classificação final dos candidatos, desde que o trabalhador médico tenha sido colocado, e permaneça, em unidade de saúde qualificada como especialmente carenciada, e que os outros candidatos não estejam vinculados ao Serviço Regional de Saúde.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), em vigor a partir de 2024-07-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 7.º — Compromisso
+
+1 - A atribuição dos incentivos objeto do presente diploma depende, em todas as situações, da assunção do compromisso por parte do trabalhador médico de prestar serviço no local onde foi admitido, pelo período de cinco anos.
+
+2 - Nas situações em que a mobilidade temporária se torna definitiva é considerado para o cômputo do período a que se refere o número anterior, a duração da mobilidade temporária.
+
+3 - Não é aplicável o período de cinco anos previsto no n.º 1 sempre que a mobilidade temporária for superior a um ano e inferior a cinco anos, situação em que a assunção do compromisso corresponde ao período de duração da mobilidade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), em vigor a partir de 2024-07-05, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 33/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/33-2023-224661319), em vigor a partir de 2023-11-24, produz efeitos a partir de 2023-01-01
+
+###### Artigo 8.º — Incumprimento
+
+1 - Os incumprimentos das obrigações previstas no presente diploma, por factos imputáveis ao trabalhador médico, implicam a devolução dos valores recebidos, a título de incentivos pecuniários, acrescidos de juros devidos à taxa legal em vigor.
+
+2 - O pagamento a que se refere o número anterior deve ser efetuado no prazo de 60 dias a contar do facto que lhe deu origem.
+
+3 - Caso o trabalhador médico invoque e comprove que a sua situação económica não lhe permite proceder ao pagamento dentro do prazo referido no número anterior, pode o mesmo ser prorrogado até o limite de um ano e/ou, autorizado o pagamento em prestações.
+
+4 - A autorização e prorrogação referidas no número anterior dependem de requerimento dirigido ao membro do Governo Regional com competência na área da saúde, mediante parecer prévio do membro do Governo Regional com competência na área das finanças.
+
+5 - Em casos devidamente fundamentados, pode ser excecionado o pagamento previsto no presente artigo, mediante autorização do membro do Governo Regional com competência na área das finanças.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), em vigor a partir de 2024-07-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 9.º — Encargos
+
+Os encargos decorrentes da aplicação do presente diploma são suportados pelo orçamento das respetivas entidades pertencentes ao Serviço Regional de Saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2024/A - Diário da República n.º 128/2024, Série I de 2024-07-04](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2024-870891839), em vigor a partir de 2024-07-05, produz efeitos a partir de 2024-01-01
+
+###### Artigo 10.º — Norma transitória
+
+1 - Os profissionais de saúde abrangidos pelo regime previsto no Decreto Regulamentar Regional n.º 5/2014/A, de 17 de fevereiro, continuam a beneficiar do regime instituído naquele diploma, nos termos nele fixados.
+
+2 - Os profissionais de saúde referidos no número anterior, que iniciem funções noutra ilha, após a entrada em vigor do presente diploma, beneficiam do regime nele previsto, desde que cumpridas as disposições nele contempladas.
+
+###### Artigo 11.º — Norma revogatória
+
+É revogado o Decreto Regulamentar Regional n.º 5/2014/A, de 17 de fevereiro, sem prejuízo do disposto no n.º 1 do artigo anterior, bem como dos direitos e obrigações emergentes da respetiva vigência.
+
+###### Artigo 12.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+2 - Sem prejuízo do disposto no número anterior, o regime de incentivos previsto no presente diploma só se efetiva após a celebração do contrato de trabalho entre o pessoal médico e os serviços e estabelecimentos de saúde do Serviço Regional de Saúde, ou após o início do processo de mobilidade.
+
+Aprovado em Conselho do Governo Regional, na Madalena do Pico, em 9 de novembro de 2021.
+
+O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.
+
+Assinado em Angra do Heroísmo em 14 de janeiro de 2022.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+114899582

@@ -1,0 +1,411 @@
+---
+schema_version: '1.0'
+id: pt:dre:207026149:por
+title: Portaria n.º 38-A/2023
+short_title: null
+summary: Estabelece os termos e condições em que é efetuada a articulação interinstitucional, para efeitos de referenciação
+  e acompanhamento de pessoas que, por motivos sociais, permanecem internadas após a alta clínica, em hospital do Serviço
+  Nacional de Saúde (SNS), através do recurso a um acolhimento temporário e transitório em resposta social
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social e Saúde
+proposing_entity: null
+official_number: 38-A/2023
+official_date: null
+publication_date: '2023-02-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/2023, 1º Suplemento, Série I de 2023-02-02
+  number: '24'
+  series: I
+  supplement: 1º Suplemento
+  pages: 5-(2) a 5-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/02/02401/0000200006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-01-21'
+version_history:
+  file: portaria-38-a-2023.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2023-02-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-08-11'
+    amending: pt:dre:217571944:por
+    amending_title: Portaria n.º 256/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+  - date: '2026-01-21'
+    amending: pt:dre:1016097567:por
+    amending_title: Portaria n.º 20/2026/1
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Artigo 5.º-B
+    - Adita Artigo 7.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/38-a/2023/p/cons/20260120/pt/html
+  oj: null
+  dre: '207026149'
+  dre_path: /dr/detalhe/portaria/38-a-2023-207026149
+  internal: pt:dre:207026149:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/38-a-2023-207026149
+  metadata_url: https://data.dre.pt/eli/port/38-a/2023/p/cons/20260120/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-219826044
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-219826044
+  retrieved_at: '2026-10-22T12:58:43Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 84e05d9506dda4066ec5f5bc8c7c44fe1606d9f280ec6948369e531d962cc7e9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:58:43Z'
+  notes: 3 versão(ões); histórico completo em portaria-38-a-2023.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acordo
+- Financiamento
+- Comparticipação
+- Cooperação
+- Saúde
+- Regulamentação de Atos Legislativos
+- Comparticipação Familiar
+- Serviço Nacional de Saúde
+- IPSS
+- Residência
+- Estabelecimento Hospitalar
+- Segurança Social
+- Transporte de Doentes
+relationships:
+- type: amended_by
+  target: pt:dre:217571944:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/256-2023-217571944
+  date: '2023-08-10'
+- type: amended_by
+  target: pt:dre:1016097567:por
+  label: Adita Artigo 5.º-A; Adita Artigo 5.º-B; Adita Artigo 7.º-A; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º;
+    Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567
+  date: '2026-01-20'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/120/2015/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/120/2015/06/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/196-a/2015/07/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/196-a/2015/07/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/59/2015/03/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/59/2015/03/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/67/2012/03/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/67/2012/03/21/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:58:43Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 38-A/2023
+
+Portaria n.º 38-A/2023
+
+de 2 de fevereiro
+
+Sumário: Estabelece os termos e condições em que é efetuada a articulação interinstitucional, para efeitos de referenciação e acompanhamento de pessoas que, por motivos sociais, permanecem internadas após a alta clínica, em hospital do Serviço Nacional de Saúde (SNS), através do recurso a um acolhimento temporário e transitório em resposta social.
+
+O planeamento da alta hospitalar representa um momento crucial para o sucesso da continuação e tratamento da recuperação dos cidadãos, seja através do regresso ao domicílio ou, sempre que a situação de dependência e ou incapacidade não o permita, e por razões sociais, nomeadamente por insuficiente ou inexistente apoio familiar ou de rede formal de suporte, com recurso ao acolhimento em resposta social.
+
+Uma intervenção concertada e articulada, entre os profissionais, os doentes e as famílias, num contexto de planeamento da alta hospitalar é um fator determinante para que seja bem-sucedida a recuperação e a reintegração no período de pós-alta.
+
+Considerando que os serviços e respostas sociais devem ser expandidos para satisfazer as necessidades atuais e futuras da população e alinhado com o 18.º princípio do Pilar Europeu dos Direitos Sociais e com a Estratégia Europeia de Cuidados, o Governo pretende apostar na diversificação de medidas de cuidados de longa duração, cujo modelo de intervenção seja centrado nas pessoas e no reconhecimento das suas competências e capacidades, incluindo as relativas à tomada de decisão.
+
+Conforme preconizado no Manual de Articulação - Saúde + Segurança Social - para o planeamento das altas hospitalares, a preparação das altas hospitalares com base numa intervenção multidisciplinar que tenha em consideração um planeamento personalizado e sistemático traduz-se, indubitavelmente, numa maior satisfação das pessoas com efeitos muito positivos na sua recuperação e incentivo ao desenvolvimento do autocuidado e de uma vida saudável. Nesta linha, deve preparar-se a alta hospitalar através de um trabalho em equipa multidisciplinar, integrando os profissionais da saúde e da segurança social e das instituições de acolhimento, com planeamento estruturado e personalizado, o que corresponderá melhor às necessidades das pessoas potenciando o sucesso da ação e diminuindo a incidência de internamentos sucessivos.
+
+É neste contexto, nomeadamente nos recursos da comunidade a serem ativados, que as entidades do setor social e solidário presentes por todo o território nacional constituem um pilar fundamental na resposta aos cidadãos, em particular aos mais vulneráveis, pela sua proximidade, bem como pela maior capacidade de resposta às situações de carência ou de desigualdade social.
+
+Deste modo, o Governo pretende reforçar a relação de parceria existente entre o Estado e as entidades do setor social e solidário, através da sistemática partilha de obrigações e responsabilidades na prossecução dos fins de ação social.
+
+A adenda extraordinária ao Compromisso de Cooperação para o Setor Social e Solidário, para o biénio 2019-2020, de 13 de novembro de 2020, foi assinada estritamente para estabelecimento dos termos de articulação interinstitucional na sinalização de pessoas para estruturas residenciais para pessoas idosas (ERPI) após as altas hospitalares.
+
+Com efeito, em determinadas situações, apesar de a pessoa ter alta hospitalar, a alta clínica nem sempre resulta na sua saída efetiva do hospital, ou seja, embora não apresente condicionantes do âmbito clínico para ali permanecer, em determinadas situações sociais existe um protelamento do internamento hospitalar quando a pessoa não tem condições para regressar ou permanecer na sua residência, quer seja por ausência de autonomia, por dificuldade ou ausência de capacidade de autocuidado ou por razões pessoais e ou insuficiente ou inexistente suporte familiar ou rede formal de apoio.
+
+A realidade atual gera, assim, constrangimentos vários determinando a adoção de medidas que enquadrem a definição e criação de estratégias articuladas, integradas e concertadas para a redução dos protelamentos de alta hospitalar, pelo que urge assegurar uma avaliação social adequada com vista ao regresso ao domicílio ou, na sua manifesta impossibilidade, o acolhimento da pessoa com alta hospitalar, através da disponibilização pelo setor social de vagas em respostas sociais adequadas, ERPI ou lares residenciais, garantindo no pós-alta a sua segurança e proteção social, contribuindo para a libertação de camas dos hospitais do Serviço Nacional de Saúde (SNS), de forma que estes possam focar-se na sua missão e assim responder efetivamente às necessidades de internamento hospitalar.
+
+O Governo, reconhecendo as dificuldades presentemente sentidas nos hospitais do SNS, entende promover a articulação entre os serviços dos hospitais e os serviços do Instituto da Segurança Social, I. P., para a concretização desta medida de caráter extraordinário e temporário, que importa regulamentar.
+
+Foram ouvidas a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a Confederação Cooperativa Portuguesa, CCRL.
+
+Assim, ao abrigo do artigo 5.º, do n.º 6 do artigo 10.º e do artigo 11.º do Decreto-Lei n.º 120/2015, de 30 de junho, na sua redação atual, manda o Governo, pela Secretária de Estado da Inclusão e pelo Secretário de Estado da Saúde, ambos no uso de competência delegada, ao abrigo, respetivamente, do Despacho n.º 7910/2022, publicado no Diário da República, 2.ª série, n.º 123, de 28 de junho de 2022, e do Despacho n.º 12167/2022, publicado no Diário da República, 2.ª série, n.º 201, de 18 de outubro de 2022, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria estabelece os termos e condições da articulação interinstitucional para efeitos de avaliação, encaminhamento, acolhimento e acompanhamento de pessoas que, após alta clínica, permanecem internadas em unidade hospitalar do Serviço Nacional de Saúde (SNS) por motivos de natureza social e não reúnam os critérios para integração em unidade de cuidados continuados.
+
+2 - O regime previsto na presente portaria visa assegurar respostas socialmente adequadas às situações de ‘protelamento de alta por motivos sociais’, privilegiando, sempre que possível, o regresso da pessoa ao domicílio com os apoios necessários ou, quando tal não seja viável em razão da sua condição de dependência, incapacidade, insuficiência ou inexistência de suporte familiar ou social, o acolhimento em resposta social adequada.
+
+3 - Para efeitos do disposto no número anterior, o acolhimento pode ocorrer, designadamente, em estruturas residenciais para pessoas idosas (ERPI), lares residenciais (LR) com acordo de cooperação celebrado entre as instituições particulares de solidariedade social ou legalmente equiparadas e o Instituto da Segurança Social, I. P. (ISS, I. P.), ou quando venha a ser celebrado novo acordo, ambas as situações ao abrigo da Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual, mediante reserva de novos lugares dentro da capacidade instalada da resposta social, apoio domiciliário, ou outras respostas sociais adequadas.
+
+4 - O acolhimento pode ainda ocorrer, a título subsidiário e de forma transitória, em unidades intermédias ou camas intermédias e em entidades de acolhimento com características adequadas às altas hospitalares ou em estruturas públicas, privadas com ou sem fins lucrativos, do setor social e solidário ou da Santa Casa da Misericórdia de Lisboa, nos termos da presente portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 20/2026/1 - Diário da República n.º 13/2026, Série I de 2026-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567), em vigor a partir de 2026-01-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 256/2023 - Diário da República n.º 155/2023, Série I de 2023-08-10](https://diariodarepublica.pt/dr/detalhe/portaria/256-2023-217571944), em vigor a partir de 2023-08-11
+
+###### Artigo 2.º — Âmbito
+
+1 - A presente portaria aplica-se a todas as pessoas que, cumulativamente:
+
+a) Permaneçam, por motivos sociais, internadas nos hospitais do SNS, em situação de pós-alta clínica;
+
+b) Se encontrem impossibilitadas de regressar ou permanecer na sua própria residência, em virtude de não reunirem condições de autonomia ou não disporem de rede de suporte familiar ou outra para prestar os cuidados necessários, ou, na sua existência, esta se manifeste insuficiente;
+
+c) Careçam comprovadamente de uma resposta de acolhimento residencial, após avaliação do perfil pessoal, social e das condições de saúde;
+
+d) Prestem o seu consentimento escrito, direto ou, quando tal não seja possível, o mesmo seja prestado pelo seu representante legal, sempre que aplicável.
+
+2 - Estão excluídas do âmbito de aplicação da presente portaria, as pessoas:
+
+a) Que reúnam os critérios para integrar uma das tipologias de resposta da Rede Nacional de Cuidados Continuados Integrados (RNCCI), de ações ou cuidados paliativos, bem como as pessoas com doença mental grave;
+
+b) Com úlceras de pressão de grau 2 ou superior ou outras situações de saúde complexas, associadas a situações graves de caráter degenerativo que requeiram a existência de uma equipa médica em permanência.
+
+###### Artigo 3.º — Referenciação, avaliação, admissão e acompanhamento
+
+1 - A referenciação, avaliação, admissão e acompanhamento das situações abrangidas pela presente portaria obedecem aos procedimentos previstos na regulamentação em vigor, assentando numa avaliação articulada entre os serviços do ISS, I. P., a Direção Executiva do SNS, I. P., e o serviço social do hospital do SNS.
+
+2 - A avaliação referida no número anterior deve fundamentar a proposta de encaminhamento mais adequada à situação específica da pessoa, tendo em conta a promoção da sua autonomia, segurança, proteção social e continuidade de cuidados, devendo, para o efeito:
+
+a) Identificar a condição social e a condição clínica da pessoa;
+
+b) Determinar o encaminhamento para a resposta social mais adequada, designadamente para ERPI, LR, apoio domiciliário, ou outras estruturas de acolhimento públicas, privadas com ou sem fins lucrativos, incluindo a Santa Casa da Misericórdia de Lisboa.
+
+3 - Na ausência de vaga disponível na resposta considerada mais adequada nos termos da alínea b) do número anterior, a pessoa é encaminhada para uma unidade intermédia ou cama intermédia, a título transitório, nos termos previstos na presente portaria.
+
+4 - O encaminhamento e a referenciação para acolhimento são assegurados pelo ISS, I. P., em articulação com a Direção Executiva do SNS, I. P., e com o serviço social do hospital do SNS, junto da entidade ou resposta identificada, garantindo a prestação de cuidados adequados às necessidades específicas da pessoa.
+
+5 - Os serviços do ISS, I. P., diligenciam junto da pessoa e, quando aplicável, da respetiva família ou do seu representante legal, a definição da forma de pagamento da comparticipação familiar, devendo, nos casos em que esta não se encontre a ser assegurada, ser promovidos os procedimentos necessários para que a pessoa disponha dos respetivos rendimentos na entidade de acolhimento.
+
+6 - O acompanhamento das situações abrangidas pela presente portaria é assegurado pelos serviços do ISS, I. P., em articulação com a equipa técnica da entidade de acolhimento e, sempre que aplicável, com o serviço social do hospital do SNS ou dos cuidados de saúde primários, de forma sistemática e contínua ao longo de todo o processo, incluindo após a admissão, e deve privilegiar, sempre que possível, a transição para cuidados em contexto domiciliário.
+
+7 - A admissão e o acompanhamento são efetuados em estreita articulação com as equipas técnicas das entidades do setor social e solidário ou das estruturas de acolhimento públicas, privadas com ou sem fins lucrativos, incluindo a Santa Casa da Misericórdia de Lisboa, e, quando aplicável, com a família ou outras pessoas significativas para a pessoa.
+
+8 - O acompanhamento previsto nos números anteriores não dispensa a realização de nova avaliação social sempre que tal se revele necessário, designadamente para fundamentar a manutenção do encaminhamento definido ou, deixando de se verificar os pressupostos que lhe deram origem, para assegurar a transição para outra resposta social ou o regresso ao domicílio.
+
+9 - Sempre que a pessoa com alta clínica resida no concelho de Lisboa, as competências da segurança social previstas no presente artigo são asseguradas por profissionais da Santa Casa da Misericórdia de Lisboa.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 20/2026/1 - Diário da República n.º 13/2026, Série I de 2026-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567), em vigor a partir de 2026-01-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 256/2023 - Diário da República n.º 155/2023, Série I de 2023-08-10](https://diariodarepublica.pt/dr/detalhe/portaria/256-2023-217571944), em vigor a partir de 2023-08-11
+
+###### Artigo 4.º — Proteção da informação e dados pessoais
+
+1 - A informação partilhada no âmbito do processo de articulação interinstitucional a efetivar ao abrigo da presente portaria destina-se a ser utilizada no estrito exercício das respetivas atividades e atribuições por todos os intervenientes, encontrando-se os mesmos vinculados ao cumprimento da legislação aplicável em matéria de proteção de informação e de dados pessoais.
+
+2 - Os intervenientes no processo estão obrigados a guardar sigilo da informação cujo conhecimento lhes advenha pelas atividades inerentes às ações estabelecidas no âmbito da presente portaria, mesmo após o termo das suas funções.
+
+###### Artigo 5.º — Gestão de vagas e transporte
+
+1 - As vagas em respostas sociais abrangidas pela presente portaria são disponibilizadas mediante instrumentos de cooperação celebrados nos termos legalmente aplicáveis, designadamente através de adenda ao acordo de cooperação, de novo acordo, de protocolo de cooperação ou de contrato-programa, consoante a natureza da entidade e da resposta.
+
+2 - As vagas referidas no número anterior são preenchidas por indicação dos serviços do ISS, I. P., após articulação com o serviço social dos hospitais do SNS e com a Direção Executiva do SNS, I. P, no âmbito do processo de referenciação e encaminhamento previsto no artigo 3.º
+
+3 - O encaminhamento para respostas sociais, designadamente ERPI, LR, ou apoio domiciliário não dispensa a reavaliação periódica da situação da pessoa nos termos previstos na presente portaria e na legislação aplicável, para efeitos da verificação da manutenção dos pressupostos que justificaram o encaminhamento para a resposta em causa e eventual necessidade de reencaminhamento da pessoa para outra resposta mais adequada
+
+4 - O recurso a vagas do setor privado apenas é admissível quando se encontrem esgotadas as vagas contratualizadas com o setor social e solidário e não exista vaga disponível em unidade intermédia, devendo, em qualquer caso, atender a critérios de adequação da resposta à situação da pessoa e de proximidade geográfica, nos termos da regulamentação aplicável.
+
+5 - O recurso a unidades intermédias ou camas intermédias tem carácter subsidiário e estritamente transitório, apenas sendo admissível quando não exista vaga permanente disponível na resposta social considerada mais adequada, nos termos do artigo 3.º e ao abrigo do artigo 5.º-B da presente portaria.
+
+6 - Com vista à integração da pessoa em vaga de acolhimento em resposta social, contratualizada ao abrigo da presente portaria, os serviços do ISS, I. P., devem facultar, por escrito, à instituição do setor social e solidário ou à estrutura pública, privada com ou sem fins lucrativos, incluindo a Santa Casa da Misericórdia de Lisboa, toda a informação necessária relativa à pessoa a acolher, bem como à comparticipação aplicável.
+
+7 - Após a partilha de todos os elementos identificados no número anterior, a instituição do setor social e solidário ou a estrutura de acolhimento pública, privada com ou sem fins lucrativos, incluindo a SCML, dispõe de um prazo máximo de dois dias úteis para responder à referenciação dos serviços competentes do ISS, I. P.
+
+8 - O transporte inicial das pessoas para a resposta social é assegurado pelo hospital do SNS que efetuou a referenciação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 20/2026/1 - Diário da República n.º 13/2026, Série I de 2026-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567), em vigor a partir de 2026-01-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 256/2023 - Diário da República n.º 155/2023, Série I de 2023-08-10](https://diariodarepublica.pt/dr/detalhe/portaria/256-2023-217571944), em vigor a partir de 2023-08-11
+
+###### Artigo 5.º-A — Proibição de contratualização direta e autorização excecional
+
+1 - É proibida a celebração e a renovação, pelas unidades locais de saúde e pelos hospitais do SNS, de contratos, protocolos ou outros instrumentos legais com instituições do setor social e solidário ou com entidades do setor privado, para efeitos de acolhimento de pessoas abrangidas pela presente portaria, em ERPI, LR, estruturas de acolhimento para altas hospitalares ou outras unidades destinadas a esse fim.
+
+2 - Excecionalmente, quando se comprove a inexistência total de vagas na resposta considerada mais adequada e em unidades intermédias, pode ser autorizada a contratualização direta, mediante despacho conjunto do ISS, I. P., e da Direção Executiva do SNS, I. P.
+
+3 - O despacho referido no número anterior deve especificar o número de camas, as condições financeiras, a duração previsível e as regras de acompanhamento e monitorização.
+
+4 - A autorização prevista no n.º 2 tem natureza extraordinária e temporária, não podendo ser fundamento para a renovação de instrumentos contratuais preexistentes.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 20/2026/1 - Diário da República n.º 13/2026, Série I de 2026-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567), em vigor a partir de 2026-01-21
+
+###### Artigo 5.º-B — Unidades intermédias e camas intermédias
+
+1 - Para efeitos da presente portaria, as unidades intermédias destinam-se ao acolhimento de natureza estritamente transitória de pessoas com alta clínica que, por motivos de natureza social, não possam ser de imediato encaminhadas para a resposta social permanente mais adequada à sua situação, constituindo uma solução subsidiária e excecional destinada a evitar a sua permanência indevida em estabelecimento hospitalar.
+
+2 - As unidades intermédias podem ser criadas pelas entidades do setor social e solidário mencionadas nos n.os 3 e 4 do artigo 1.º, quer como unidades autónomas especificamente destinadas a esse fim, quer mediante a afetação de camas dedicadas em respostas sociais pré-existentes, designadas camas intermédias, não podendo, em qualquer caso, assumir natureza estrutural nem substituir as respostas sociais definitivas previstas na presente portaria.
+
+3 - As unidades intermédias e as camas intermédias devem cumprir os seguintes requisitos mínimos de natureza estrutural, funcional e organizacional, de forma cumulativa:
+
+a) As áreas funcionais das unidades intermédias devem obedecer aos requisitos específicos que constam do anexo à presente portaria, que dela faz parte integrante;
+
+b) Os recursos humanos devem cumprir o quadro de pessoal exigido para uma ERPI (Portaria n.º 67/2012, de 21 de março) com capacidade para 20 utentes;
+
+c) Quando o número de utentes seja superior a 20, o quadro de pessoal deve ser ajustado proporcionalmente.
+
+4 - As entidades do setor social e solidário que pretendam participar no regime previsto na presente portaria mencionadas no n.º 2, podem requerer ao ISS, I. P.:
+
+a) A constituição de unidades intermédias autónomas, especificamente destinadas ao acolhimento das pessoas abrangidas pela presente portaria; ou
+
+b) A conversão de vagas de respostas sociais, de que já disponham, em camas intermédias.
+
+5 - O requerimento referido no número anterior deve indicar expressamente a opção adotada, o número de vagas a afetar e fazer prova da existência de condições estruturais, funcionais e organizacionais da resposta, nos termos previstos no anexo referido no n.º 3 e na demais regulamentação aplicável.
+
+6 - O funcionamento das unidades intermédias e das camas intermédias depende de autorização prévia do ISS, I. P., a conceder na sequência da apreciação do requerimento apresentado, devendo a decisão final ser proferida no prazo máximo de 15 dias contados da data da respetiva receção.
+
+7 - A formalização da disponibilização de unidades intermédias ou camas intermédias é efetuada mediante adenda ao acordo de cooperação, novo acordo ou protocolo de cooperação ou contrato-programa, consoante o modelo aplicável, assegurando-se a articulação com a Direção Executiva do SNS, I. P.
+
+8 - O financiamento das unidades intermédias e camas intermédias obedece ao disposto no artigo 6.º
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 20/2026/1 - Diário da República n.º 13/2026, Série I de 2026-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567), em vigor a partir de 2026-01-21
+
+###### Artigo 6.º — Comparticipação financeira
+
+1 - À ocupação das vagas reguladas pela presente portaria corresponde uma comparticipação financeira do ISS, I. P., calculada com base no custo médio real da resposta social ERPI, convencionada no Compromisso de Cooperação para o Setor Social e Solidário em vigor, sem prejuízo das deduções previstas no artigo 7.º
+
+2 - O valor referido no número anterior é atualizado anualmente nos termos previstos no Compromisso de Cooperação para o Setor Social e Solidário e respetivas adendas.
+
+3 - No prazo de três meses a contar da entrada em vigor da presente portaria, as entidades do setor social e solidário que disponham de vagas integradas em respostas sociais contratualizadas podem requerer ao ISS, I. P., a afetação dessas vagas a um dos seguintes regimes:
+
+a) Constituição de unidades intermédias autónomas, nos termos do artigo 5.º-B, ficando sujeitas ao regime de financiamento especificamente aplicável às unidades intermédias ou camas intermédias, conforme estabelecido na presente portaria;
+
+b) Conversão das vagas existentes em camas intermédias, nos termos do artigo 5.º-B, ficando sujeitas ao regime de financiamento especificamente aplicável às unidades intermédias ou camas intermédias, conforme estabelecido na presente portaria.
+
+4 - As vagas contratualizadas com o setor social e solidário, que sejam convertidas em unidades intermédias ou camas intermédias, ainda que não estejam a ser utilizadas, devem manter-se reservadas, havendo lugar ao pagamento de 40 % do valor da comparticipação financeira previsto na presente portaria, por um período de seis meses.
+
+5 - Havendo vaga, as instituições não podem recusar o acolhimento, sob pena de perderem a comparticipação financeira referida no número anterior.
+
+6 - Decorrido o período referido no n.º 4, caso não se verifique o preenchimento da vaga, aplica-se, com as devidas adaptações, o disposto na cláusula do Compromisso de Cooperação aplicável à liberdade de admissão de utentes.
+
+7 - O valor da comparticipação financeira referido no n.º 1 inclui as despesas com fraldas e todas as atividades e serviços previstos na Portaria n.º 67/2012, de 21 de março, ou na Portaria n.º 59/2015, de 2 de março, na sua redação atual.
+
+8 - A despesa com medicamentos é assegurada pela pessoa ou pela sua família, nos termos do regime de comparticipação do Estado no preço dos medicamentos, ou pelo hospital do SNS que procede à referenciação, nos casos em que a pessoa não disponha de suporte familiar significativo ou de rendimento mínimo suficiente para suportar a referida despesa, sem prejuízo do regime específico aplicável às unidades intermédias ou camas intermédias previstas no número seguinte.
+
+9 - Para o financiamento das vagas em unidades intermédias ou camas intermédias concorrem as seguintes fontes:
+
+a) A segurança social, através de comparticipação financeira correspondente ao custo médio real aplicável à resposta social ERPI, acrescida de majoração, nos termos do Compromisso de Cooperação para o Setor Social e Solidário;
+
+b) O beneficiário da vaga, através da comparticipação familiar prevista no artigo seguinte;
+
+c) O SNS, quanto aos cuidados de saúde adicionais que possam ser necessários, nos termos do número seguinte.
+
+10 - Os cuidados de saúde adicionais referidos na alínea c) do número anterior, designadamente cuidados médicos e de enfermagem que se revelem necessários em função do plano individual de cuidados de saúde prescrito pelo SNS, de acordo com a avaliação prevista no artigo 3.º, são faturados autonomamente à respetiva unidade local de saúde, constituindo encargo do SNS, mediante faturação detalhada e de acordo com as tabelas de preços em vigor e com as condições previamente acordadas no instrumento contratual aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 20/2026/1 - Diário da República n.º 13/2026, Série I de 2026-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567), em vigor a partir de 2026-01-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 256/2023 - Diário da República n.º 155/2023, Série I de 2023-08-10](https://diariodarepublica.pt/dr/detalhe/portaria/256-2023-217571944), em vigor a partir de 2023-08-11
+
+###### Artigo 7.º — Comparticipação familiar
+
+1 - O valor da comparticipação familiar mensal devida pela utilização das vagas reguladas pela presente portaria é determinado de acordo com as regras aplicáveis à resposta social ERPI, conforme o anexo à Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual.
+
+2 - O valor apurado nos termos do número anterior é deduzido ao montante da comparticipação financeira da segurança social prevista no n.º 1 do artigo 6.º, sem prejuízo do disposto nos números seguintes.
+
+3 - No caso de acolhimento em unidades intermédias ou camas intermédias, o valor da comparticipação familiar é apurado nos termos do n.º 1 e deduzido à comparticipação financeira da segurança social referida na alínea a) do n.º 9 do artigo 6.º, sem prejuízo do financiamento pelo SNS dos cuidados de saúde adicionais, nos termos da alínea c) do n.º 9 e do n.º 10 do artigo 6.º
+
+4 - O apuramento da comparticipação familiar é efetuado pela entidade de acolhimento e comunicado aos serviços do ISS, I. P., para efeitos da dedução prevista nos n.os 2 e 3 e do disposto no n.º 5 do artigo 3.º
+
+5 - A comparticipação familiar é devida desde a data de admissão e durante o período de ocupação da vaga, sem prejuízo das regras aplicáveis em matéria de isenção, redução ou revisão do valor apurado, nos termos gerais aplicáveis às respostas sociais referidas no n.º 1.
+
+6 - Sempre que a dedução prevista nos n.os 2 e 3 não seja efetivada por via da comparticipação familiar, os serviços do ISS, I. P., asseguram, a título provisório, o respetivo montante em falta, nos termos a definir pelos serviços competentes, procedendo à respetiva cobrança ulterior junto da pessoa acolhida.
+
+7 - A cobrança referida no número anterior pode, mediante autorização expressa da pessoa acolhida ou, quando tal não seja possível, a mesma seja prestada pelo seu representante legal, sempre que aplicável, e sem prejuízo dos limites de penhorabilidade parcial das prestações de segurança social e demais rendimentos previstos na lei, ser efetuada através da afetação de parte das prestações pecuniárias que lhe sejam atribuídas pelos regimes do sistema previdencial ou do sistema de proteção social de cidadania.
+
+8 - Sem prejuízo dos números anteriores, a cobrança junto da pessoa acolhida é suspensa enquanto se verifique que o devedor tem rendimentos mensais inferiores ao valor da retribuição mínima mensal garantida (RMMG).
+
+9 - A suspensão não é aplicada caso o devedor pretenda proceder aos pagamentos ou caso o devedor tenha património superior ao que a segurança social tenha conhecimento, com exclusão da casa de morada de família.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 20/2026/1 - Diário da República n.º 13/2026, Série I de 2026-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567), em vigor a partir de 2026-01-21
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 256/2023 - Diário da República n.º 155/2023, Série I de 2023-08-10](https://diariodarepublica.pt/dr/detalhe/portaria/256-2023-217571944), em vigor a partir de 2023-08-11
+
+###### Artigo 7.º-A — Aplicação do regime Ponto Parceiro do SNS
+
+Aplica-se às unidades intermédias e camas intermédias o disposto na Portaria n.º 322-B/2024/1, de 10 de dezembro, que estabelece o Regime Ponto Parceiro SNS (PP-SNS) para ERPI e para LR.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 20/2026/1 - Diário da República n.º 13/2026, Série I de 2026-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567), em vigor a partir de 2026-01-21
+
+###### Artigo 8.º — Duração da permanência em unidades intermédias ou camas intermédias
+
+1 - O acolhimento em unidade intermédia ou cama intermédia tem a duração máxima de seis meses, podendo ser renovável, em casos excecionais, por mais seis meses.
+
+2 - Durante o período de acolhimento em unidade intermédia ou cama intermédia e, no limite, no mês imediatamente anterior ao termo do prazo máximo de permanência, os serviços do ISS, I. P., em articulação com o beneficiário da vaga ou o respetivo representante legal, determinam a solução mais adequada com vista ao encaminhamento da pessoa para uma resposta social de carácter permanente.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 20/2026/1 - Diário da República n.º 13/2026, Série I de 2026-01-20](https://diariodarepublica.pt/dr/detalhe/portaria/20-2026-1016097567), em vigor a partir de 2026-01-21
+
+###### Artigo 9.º — Monitorização
+
+1 - A monitorização da ocupação das vagas previstas na presente portaria é efetuada pelos serviços do ISS, I. P., da Direção Executiva do SNS, I. P., e das organizações representativas do setor social e solidário ou da SCML, quando aplicável.
+
+2 - Trimestralmente, até ao dia 10 do mês seguinte àquele a que a informação reporta, as entidades referidas no número anterior enviam, aos membros do Governo responsáveis pelas áreas do trabalho, solidariedade e segurança social e saúde, um relatório com a execução da presente portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 256/2023 - Diário da República n.º 155/2023, Série I de 2023-08-10](https://diariodarepublica.pt/dr/detalhe/portaria/256-2023-217571944), em vigor a partir de 2023-08-11
+
+###### Artigo 10.º — Entrada em vigor e produção de efeitos
+
+A presente portaria entra em vigor na data da sua assinatura e produz efeitos a 1 de janeiro de 2023.
+
+Em 1 de fevereiro de 2023.
+
+A Secretária de Estado da Inclusão, Ana Sofia Pedroso Lopes Antunes. - O Secretário de Estado da Saúde, Ricardo Jorge Almeida Perdigão Seleiro Mestre.
+
+116132481

@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:1014184:por
+title: Portaria n.º 1283/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Administração Interna e das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 1283/2005 (2.ª série)
+official_date: null
+publication_date: '2005-12-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 245/2005, Série II de 2005-12-23
+  number: '245'
+  series: II
+  supplement: null
+  pages: 17865 - 17865
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/12/245000000/1786517865.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1014184'
+  dre_path: /dr/detalhe/portaria/1283-2005-1014184
+  internal: pt:dre:1014184:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1283-2005-1014184
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1283-2005-1014184
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-12-23T00:00:00Z'
+integrity:
+  source_sha256: 1a931e599c201c44830e1ce950b9b04f0f9ee92b101bf240f051806251357013
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-1283-1014184.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1283/2005 (2.ª série)
+
+Portaria n.º 1283/2005 (2.ª série). - O Estado, no âmbito das medidas de prevenção e combate aos incêndios florestais, pretende reformular a política de contratação de meios aéreos, nomeadamente com a contratação plurianual da prestação de serviços que, nas épocas de maior risco de incêndios florestais, assegura a operação dos meios aéreos afectos ao respectivo combate.
+
+Nesse sentido, o Conselho de Ministros, através da [Resolução do Conselho de Ministros n.º 182/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/182-2005-481904), de 22 de Novembro, autorizou, nomeadamente, a realização da despesa inerente à celebração dos contratos de prestação de serviços, com duração máxima de cinco anos, no âmbito da emergência e da prevenção e combate a incêndios florestais, de um conjunto de 16 helicópteros ligeiros, de um conjunto de 4 helicópteros médios e de um conjunto de 14 aviões médios e ligeiros.
+
+Complementarmente, e para obviar aos dilatados prazos de fabrico de aviões pesados que integrarão o dispositivo permanente do Estado, serão contratados para a época de maior risco, em condições e com finalidades semelhantes, dois aviões anfíbios pesados para os anos de 2006 e 2007.
+
+Nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, a abertura do procedimento relativo à celebração dos contratos referidos carece de prévia autorização conferida através de portaria, uma vez que as respectivas despesas irão dar lugar a encargo orçamental em mais de um ano económico.
+
+Nestes termos, e em conformidade com o disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, manda o Governo, pelo Ministro de Estado e da Administração Interna e pelo Ministro de Estado e das Finanças, o seguinte:
+
+1.º Os encargos orçamentais decorrentes dos contratos de prestação de serviços de fornecimento e operação de meios aéreos de combate a incêndios florestais acima referidos não podem exceder, em cada ano, as seguintes importâncias, sem IVA:
+
+2006 - 18,5 milhões de euros;
+
+2007 - 18,5 milhões de euros;
+
+2008 - 15 milhões de euros;
+
+2009 - 15 milhões de euros;
+
+2010 - 15 milhões de euros.
+
+2.º Os encargos financeiros resultantes da execução dos contratos serão satisfeitos por verba adequada a inscrever no orçamento do Ministério da Administração Interna.
+
+3.º As importâncias fixadas no n.º 1.º da presente portaria para cada um dos anos serão acrescidas dos saldos que se apurarem na execução dos anos económicos anteriores.
+
+4.º A presente portaria produz efeitos desde a data da sua assinatura.
+
+28 de Novembro de 2005. - O Ministro de Estado e da Administração Interna, António Luís Santos Costa. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos.

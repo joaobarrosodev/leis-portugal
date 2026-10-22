@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:143189682:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/acordao-tribunal-constitucional/2020-919524216",
+ "dre_path": "/dr/detalhe/acordao-tribunal-constitucional/299-2020-143189682",
+ "source_lastmod": "2025-05-26",
+ "versions": [
+  {
+   "date": "2020-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919377110"
+   ]
+  }
+ ],
+ "fragments": {
+  "919377110": {
+   "fragment_id": "919524217",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Acórdão do Tribunal Constitucional n.º 299/2020\n\nSumário: Declara, com força obrigatória geral, a inconstitucionalidade da norma constante do n.º 8 do artigo 1091.º do Código Civil, na redação dada pela Lei n.º 64/2018, de 29 de outubro.\n\nProcesso n.º 984/2018\n\nPlenário"
+  }
+ }
+}

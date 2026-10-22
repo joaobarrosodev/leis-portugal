@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:198925:por
+title: Portaria n.º 24216
+short_title: null
+summary: Aprova as instruções para a instalação e funcionamento de estabelecimentos com fins lucrativos destinados a receber,
+  em regime de semi-internato, crianças até 7 anos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde e Assistência - Gabinete do Ministro
+proposing_entity: null
+official_number: '24216'
+official_date: null
+publication_date: '1969-08-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 179/1969, Série I de 1969-08-01
+  number: '179'
+  series: I
+  supplement: null
+  pages: 945 - 946
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/08/17900/09450946.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '198925'
+  dre_path: /dr/detalhe/portaria/24216-1969-198925
+  internal: pt:dre:198925:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/24216-1969-198925
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/24216-1969-198925
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1969-08-01T00:00:00Z'
+integrity:
+  source_sha256: 8534ca2fa8550970ec20f8ad72b25ce8df2f4e6a84001bb10151d2a8d9cebdc3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1969/DRE-1969-24216-198925.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 24216
+
+Para cumprimento do disposto no artigo 12.º do [Decreto-Lei n.º 48580](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48580-1968-264897), de 14 de Setembro de 1968:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, aprovar as seguintes instruções para a instalação e funcionamento de estabelecimentos com fins lucrativos destinados a receber, em regime de semi-internato, crianças até aos 7 anos.
+
+I) Natureza e finalidades dos estabelecimentos
+
+1.º São abrangidos no âmbito desta portaria os estabelecimentos com fins lucrativos destinados a receber, em regime de semi-internato, crianças até aos 7 anos de idade.
+
+2.º Estes estabelecimentos devem ter por fim auxiliar as famílias na promoção da saúde e na educação das crianças que não podem ser mantidas no meio familiar durante o dia.
+
+3.º - 1. Consideram-se creches os semi-internatos para crianças até aos 3 anos.
+
+2. Consideram-se jardins de infância os semi-internatos para crianças dos 3 aos 7 anos.
+
+4.º São obrigações específicas destes estabelecimentos:
+
+a) Promover o desenvolvimento integral da criança;
+
+b) Promover o convívio entre as crianças como forma de integração social;
+
+c) Colaborar com as famílias na promoção da saúde e na formação das crianças.
+
+5.º Os estabelecimentos referidos nos números anteriores ficam sujeitos à fiscalização da Direcção-Geral da Assistência, através dos serviços técnicos competentes.
+
+II) Do licenciamento
+
+6.º - 1. Os pedidos de alvará para abertura destes estabelecimentos deverão ser dirigidos à Direcção-Geral da Assistência, em requerimento redigido em papel selado e com a assinatura do requerente reconhecida notarialmente.
+
+2. Os alvarás podem ser requeridos por pessoas singulares ou colectivas.
+
+7.º - 1. No requerimento especificar-se-ão:
+
+a) O nome ou firma do requerente, sua residência ou sede;
+
+b) Tratando-se de pessoa singular deverá indicar-se ainda a idade, estado, nacionalidade, profissão e número, data e local da emissão do bilhete de identidade;
+
+c) A denominação do estabelecimento, localização, finalidade que se propõe e lotação.
+
+2. O requerimento deverá ser acompanhado da seguinte documentação:
+
+a) Planta das instalações, indicando se se trata de todo ou de parte de um edifício;
+
+b) Bilhete de identidade do requerente (a restituir depois de conferido no acto da entrega) e certificado do registo criminal; certidão dos estatutos e da sua aprovação legal, se se tratar de pessoa colectiva de fim não lucrativo, ou certidão de matrícula comercial de gerência, se se tratar de sociedade comercial.
+
+8.º A passagem do alvará só terá lugar depois de preenchidas as seguintes condições:
+
+a) Comprovação da idoneidade do requerente;
+
+b) Apresentação do preçário para efeito do disposto no artigo 7.º do [Decreto-Lei n.º 48580](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48580-1968-264897), relação do pessoal técnico, com indicação das respectivas habilitações, e normas de admissão e funcionamento;
+
+c) Vistoria do estabelecimento, em que serão apreciadas as instalações, a suficiência e qualidade do apetrechamento e os requisitos de organização interna.
+
+9.º - 1. A vistoria será requerida pelos interessados com a antecedência de sessenta dias da data prevista para a abertura do estabelecimento.
+
+2. Da vistoria será lavrado auto, do qual constarão os elementos referidos na alínea c) do número anterior.
+
+10.º O alvará será passado em impresso próprio, conforme o modelo anexo, assinado pelo director-geral da Assistência e autenticado com o selo branco da Direcção-Geral da Assistência.
+
+11.º A alteração de qualquer dos elementos constantes do alvará, nos termos do n.º 1 do artigo 2.º do [Decreto-Lei n.º 48580](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48580-1968-264897), obrigará o titular do mesmo a requerer novo alvará.
+
+III) Da fiscalização
+
+12.º As visitas de inspecção e as vistorias serão feitas por técnicos da Direcção-Geral da Assistência, aos quais deve ser facultado o acesso a todas as dependências, bem como os livros de registo das crianças e de contabilidade.
+
+13.º Os estabelecimentos deverão ainda prestar, sempre que tal lhes seja solicitado, todas as informações e elementos de ordem estatística acerca do seu funcionamento.
+
+14.º Verificada no decurso da visita de inspecção a falta de observância das normas relativas ao licenciamento e funcionamento, será levrado um auto, seguindo-se a aplicação do disposto nos artigos 8.º e 9.º do [Decreto-Lei n.º 48580](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48580-1968-264897).
+
+IV) Das instalações
+
+15.º Os estabelecimentos podem ocupar todo um edifício ou apenas uma parte, desde que haja independência em relação aos outros ocupantes e a natureza das demais actividades exercidas no edifício o não contra-indique.
+
+16.º As creches e os jardins de infância deverão dispor das instalações consideradas necessárias, na medida do possível, dentro dos programas aprovados pelo director-geral da Assistência para os estabelecimentos congéneres das instituições da assistência particular.
+
+V) Do pessoal
+
+17.º Cada creche terá como responsável técnica pelo respectivo funcionamento uma enfermeira, de preferência com preparação complementar em saúde pública ou em pediatria.
+
+18.º - 1. Haverá uma enfermeira de serviço permanente durante o período de funcionamento do estabelecimento, que poderá ser a responsável técnica referida no artigo anterior.
+
+2. Por cada dez crianças haverá uma unidade auxiliar, de preferência com o curso de auxiliar de enfermagem.
+
+19.º - 1. Cada jardim de infância terá como responsável técnica pelo seu funcionamento uma educadora de infância diplomada.
+
+2. Haverá ainda, por cada vinte e cinco crianças, uma unidade auxiliar, de preferência com o curso de auxiliar de educação de infância.
+
+20.º Além do pessoal técnico, cada estabelecimento deverá ter o pessoal doméstico em número suficiente para assegurar o seu funcionamento em condições satisfatórias.
+
+21.º - 1. A relação do pessoal deverá estar afixada em local visível, de preferência no vestíbulo.
+
+2. As alterações à relação do pessoal técnico devem ser comunicadas à Direcção-Geral da Assistência.
+
+VI) Do funcionamento
+
+22.º - 1. As normas de funcionamento a que se refere a alínea b) do n.º 8.º devem estar afixadas em local visível.
+
+2. Quaisquer alterações a essas normas devem ser comunicadas à Direcção-Geral da Assistência.
+
+23.º Cada estabelecimento deverá possuir um registo actualizado das crianças que o frequentam, com indicação da data de admissão e sua completa identificação.
+
+24.º Os preçários a que se refere o artigo 7.º do [Decreto-Lei n.º 48580](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48580-1968-264897), de 14 de Setembro de 1968, devem estar patentes em local visível, de preferência no vestíbulo do estabelecimento.
+
+VI) disposições diversas e transitórias
+
+26.º Todos os estabelecimentos em funcionamento à data da publicação desta portaria deverão requerer, no prazo máximo de um mês, à Direcção-Geral da Assistência o respectivo alvará, nos termos dos n.os 3.º e seguintes desta portaria, sob pena de aplicação da multa a que se refere o artigo 8.º do [Decreto-Lei n.º 48580](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48580-1968-264897).
+
+Ministério da Saúde e Assistência, 1 de Agosto de 1969. - O Ministro da Saúde e Assistência, Lopo de Carvalho Cancella de Abreu.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1969/08/17900/09450946.pdf))](https://files.diariodarepublica.pt/1s/1969/08/17900/09450946.pdf)

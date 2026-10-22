@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:578126:por
+title: Declaração de Rectificação n.º 28-A/2006
+short_title: null
+summary: De ter sido rectificada a Resolução do Conselho de Ministros n.º 28/2006, que determina a elaboração do Plano Regional
+  de Ordenamento do Território para o Alentejo, publicada no Diário da República, 1.ª série, n.º 59, de 23 de Março de 2006
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 28-A/2006
+official_date: null
+publication_date: '2006-05-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 97/2006, 2º Suplemento, Série I-B de 2006-05-19
+  number: '97'
+  series: I
+  supplement: 2º Suplemento
+  pages: 3446-(6) a 3446-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/05/097b02/00060006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/28-a/2006/05/19/p/dre/pt/html
+  oj: null
+  dre: '578126'
+  dre_path: /dr/detalhe/declaracao-rectificacao/28-a-2006-578126
+  internal: pt:dre:578126:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-a-2006-578126
+  metadata_url: https://data.dre.pt/eli/declrectif/28-a/2006/05/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-a-2006-578126
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-05-19T00:00:00Z'
+integrity:
+  source_sha256: 76010ca2289116915c203818fe3e5c7d09e289a75410e5186db84183631074d9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-28-A-578126.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Comissão Mista de Coordenação
+- Definição de Competências
+- Comissão de Coordenação e Desenvolvimento Regional
+- Política de Solos
+- Alentejo
+- Plano Regional de Ordenamento do Território
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/28/2006/03/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/28/2006/03/23/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 28-A/2006
+
+Para os devidos efeitos se declara que a [Resolução do Conselho de Ministros n.º 28/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/28-2006-667544), publicada no Diário da República, 1.ª série, n.º 59, de 23 de Março de 2006, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+
+Na alínea u) do n.º 5, onde se lê «Um representante de cada uma das associações de municípios da região: Associação dos Municípios dos Distritos do Baixo Alentejo e Alentejo Litoral, Associação dos Municípios do Distrito de Évora, Associação dos Municípios do Norte Alentejano e Associação dos Municípios da Margem Esquerda do Guadiana» deve ler-se «Um representante de cada uma das associações de municípios da região: Associação de Municípios do Baixo Alentejo e Alentejo Litoral, Associação dos Municípios do Litoral Alentejano, Associação de Municípios do Distrito de Évora, Associação de Municípios do Norte Alentejano e Associação de Municípios da Margem Esquerda do Guadiana».
+
+Secretaria-Geral da Presidência do Conselho de Ministros, 17 de Maio de 2006. - O Secretário-Geral, José M. Sousa Rego.

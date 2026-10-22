@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:839799724:por
+title: Portaria n.º 36/2024
+short_title: null
+summary: Fixa o perímetro de proteção da água mineral natural a que corresponde o número de cadastro HM-30 e a denominação
+  «Areal»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente e Ação Climática
+proposing_entity: null
+official_number: 36/2024
+official_date: null
+publication_date: '2024-01-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 22/2024, Série I de 2024-01-31
+  number: '22'
+  series: I
+  supplement: null
+  pages: 30 - 32
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/01/02200/0003000032.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/36/2024/01/31/p/dre/pt/html
+  oj: null
+  dre: '839799724'
+  dre_path: /dr/detalhe/portaria/36-2024-839799724
+  internal: pt:dre:839799724:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-2024-839799724
+  metadata_url: https://data.dre.pt/eli/port/36/2024/01/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/36-2024-839799724
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-01-31T00:00:00Z'
+integrity:
+  source_sha256: 79e10fa6434d21e8a0a1e7238889a5fb3b654dc04a60e877d6247e95ef6cfa7f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-36-839799724.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Água
+- Água Mineral
+- Chaves
+- Recursos Hídricos
+- Regulamentação de Atos Legislativos
+- Zona de Proteção
+- Vila Real
+- Águas Subterrâneas
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/54/2015/06/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/54/2015/06/22/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 36/2024
+
+de 31 de janeiro
+
+A [Lei n.º 54/2015](https://diariodarepublica.pt/dr/detalhe/lei/54-2015-67552498), de 22 de junho, que estabelece as bases do regime jurídico da revelação e do aproveitamento dos recursos geológicos existentes no território nacional, incluindo os localizados no espaço marítimo nacional, determina, no seu artigo 46.º que, nos casos de exploração de águas minerais naturais, deve ser fixado, com fundamento em estudo hidrogeológico, um perímetro de proteção para garantir a disponibilidade e características da água, bem como as condições para uma adequada exploração.
+
+O perímetro de proteção abrange três zonas - imediata, intermédia e alargada - em relação às quais os artigos 47.º a 49.º da [Lei n.º 54/2015](https://diariodarepublica.pt/dr/detalhe/lei/54-2015-67552498), de 22 de junho, estabelecem e permitem estabelecer proibições ou condicionantes de exercício de certas atividades.
+
+Ao abrigo dos n.os 1 e 2 do artigo 27.º do [Decreto-Lei n.º 86/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1990-333159), de 16 de março, a VMPS Águas e Turismo, S. A., titular do contrato de concessão de exploração da água mineral natural com o número de cadastro HM-30 e a denominação «Areal», sita no concelho de Chaves, distrito de Vila Real, veio propor a delimitação do perímetro de proteção, apresentando para o efeito uma proposta fundamentada em estudo hidrogeológico e uma planta topográfica com a indicação das zonas imediata, intermédia e alargada.
+
+A referida proposta foi aprovada nos termos do n.º 3 do artigo 27.º do [Decreto-Lei n.º 86/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1990-333159), de 16 de março, ao que importa dar execução.
+
+Assim:
+
+Manda o Governo, pela Secretária de Estado da Energia e Clima, ao abrigo do [Despacho n.º 2291/2023](https://diariodarepublica.pt/dr/detalhe/despacho/2291-2023-207539630), de 16 de fevereiro, do Ministro do Ambiente e da Ação Climática, publicado no Diário da República, 2.ª série, n.º 34, de 16 de fevereiro de 2023, na sua redação atual, e para efeitos do disposto no n.º 1 do artigo 27.º do [Decreto-Lei n.º 86/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1990-333159), de 16 de março, e dos artigos 46.º a 49.º da [Lei n.º 54/2015](https://diariodarepublica.pt/dr/detalhe/lei/54-2015-67552498), de 22 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria tem por objeto a fixação do perímetro de proteção da água mineral natural a que corresponde o número de cadastro HM-30 e a denominação «Areal».
+
+###### Artigo 2.º — Perímetro de proteção
+
+1 - É fixado o perímetro de proteção da água mineral natural referida no artigo anterior, conforme planta com a indicação dos vértices das zonas imediata, intermédia e alargada, constante do anexo I à presente portaria, que dela faz parte integrante.
+
+2 - O perímetro de proteção da água mineral natural fixado pela presente portaria compreende as seguintes zonas, cujos limites se indicam em coordenadas no sistema ETRS89/PT-TM06:
+
+a) «Zona imediata», delimitada por três círculos com 10 metros, 3 metros e 2,5 metros de raio centrado nas captações denominadas, respetivamente, «Pedras Salgadas A3», «Areal» e «Vila Verde» com as coordenadas previstas na tabela I do anexo II à presente portaria, que dela faz parte integrante;
+
+b) «Zona intermédia», delimitada pelo polígono 1-2-3-4-5-6, cujos vértices têm as coordenadas previstas na tabela II do anexo II à presente portaria;
+
+c) «Zona alargada», delimitada pelo polígono 7-8-9-10-11-12-13-14, cujos vértices têm as coordenadas previstas na tabela III do anexo II à presente portaria.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**A Secretária de Estado da Energia e Clima, Ana Cláudia Fontoura Gouveia, em 15 de janeiro de 2024.**
+
+## ANEXO I — (a que se refere o n.º 1 do artigo 2.º)
+
+Base cartográfica do Centro de Informação Geoespacial do Exército
+
+![](https://files.diariodarepublica.pt/images/839799724/839801107.png)
+
+## ANEXO II — (a que se refere o n.º 2 do artigo 2.º)
+
+TABELA I
+
+Coordenadas dos vértices da zona imediata
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Vértice | X (m) | Y (m) | Raio (m) |
+| Pedras Salgadas A3... | 48 508 | 2017 212 | 10,0 |
+| Areal... | 48 382 | 2017 222 | 3,0 |
+| Vila Verde... | 48 594 | 217 155 | 2,5 |
+
+TABELA II
+
+Coordenadas dos vértices da zona intermédia
+
+|  |  |  |
+| --- | --- | --- |
+| Vértice | X (m) | Y (m) |
+| 1... | 48 860 | 217 556 |
+| 2... | 48 929 | 216 961 |
+| 3... | 48 515 | 216 903 |
+| 4... | 48 115 | 216 783 |
+| 5... | 48 036 | 217 379 |
+| 6... | 48 446 | 217 499 |
+
+TABELA III
+
+Coordenadas dos vértices da zona alargada
+
+|  |  |  |
+| --- | --- | --- |
+| Vértice | X (m) | Y (m) |
+| 7... | 49 545 | 218 599 |
+| 8... | 50 246 | 216 479 |
+| 9... | 49 396 | 215 599 |
+| 10... | 47 516 | 214 279 |
+| 11... | 46 446 | 214 679 |
+| 12... | 46 776 | 215 499 |
+| 13... | 47 256 | 217 139 |
+| 14... | 47 276 | 218 999 |

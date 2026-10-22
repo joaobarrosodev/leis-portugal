@@ -1,0 +1,916 @@
+---
+schema_version: '1.0'
+id: pt:dre:933044064:por
+title: Decreto-Lei n.º 98-A/2025
+short_title: null
+summary: Estabelece medidas de apoio e mitigação do impacto de incêndios rurais.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Economia e Coesão Territorial
+official_number: 98-A/2025
+official_date: null
+publication_date: '2025-08-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161-A/2025, Série I de 2025-08-24
+  number: '161'
+  series: I
+  supplement: null
+  pages: 2 - 17
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/08/161a00/0000200017.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-01-07'
+version_history:
+  file: decreto-lei-98-a-2025.versoes.json
+  count: 3
+  source_lastmod: '2025-09-25'
+  versions:
+  - date: '2025-08-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-09-25'
+    amending: pt:dre:936209745:por
+    amending_title: Lei n.º 57-A/2025
+    changes:
+    - Adita Artigo 15.º-A
+    - Adita Artigo 29.º-A
+  - date: '2026-01-07'
+    amending: pt:dre:996007052:por
+    amending_title: Lei n.º 1/2026
+    changes:
+    - Adita Artigo 18.º-A
+    - Adita Artigo 26.º-A
+    - Adita Artigo 26.º-B
+    - Adita Artigo 29.º-B
+    - Adita Artigo 30.º-A
+    - Adita Artigo 33.º-A
+    - Adita Capítulo IV
+    - Adita Artigo 34.º-A
+    - Adita Artigo 34.º-B
+    - Adita Artigo 34.º-C
+    - Adita Artigo 34.º-D
+    - Adita Artigo 34.º-E
+    - Adita Capítulo V
+    - Adita Capítulo VI
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 10.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 41.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/98-a/2025/p/cons/20260106/pt/html
+  oj: null
+  dre: '933044064'
+  dre_path: /dr/detalhe/decreto-lei/98-a-2025-933044064
+  internal: pt:dre:933044064:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-a-2025-933044064
+  metadata_url: https://data.dre.pt/eli/dec-lei/98-a/2025/p/cons/20260106/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-934788655
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2025-934788655
+  retrieved_at: '2026-10-22T13:34:00Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-09-25T00:00:00Z'
+integrity:
+  source_sha256: 3b22676d2ee33b8c591d741b6b07f3ece4908a0fda8f11f893d3d911a863ddff
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:34:00Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-98-a-2025.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proteção Civil
+- Incêndio
+- Financiamento
+- Serviço Nacional de Saúde
+- Catástrofe
+- Comissão de Coordenação e Desenvolvimento Regional
+- Agricultor
+- Emprego
+- Regime de Apoio
+- Habitação
+- Agricultura
+- Autarquia Local
+- Prejuízo Financeiro
+relationships:
+- type: amended_by
+  target: pt:dre:936209745:por
+  label: Adita Artigo 15.º-A; Adita Artigo 29.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/57-a-2025-936209745
+  date: '2025-09-24'
+- type: amended_by
+  target: pt:dre:996007052:por
+  label: Adita Artigo 18.º-A; Adita Artigo 26.º-A; Adita Artigo 26.º-B; Adita Artigo 29.º-B; Adita Artigo 30.º-A; Adita Artigo
+    33.º-A; Adita Capítulo IV; Adita Artigo 34.º-A; Adita Artigo 34.º-B; Adita Artigo 34.º-C; Adita Artigo 34.º-D; Adita Artigo
+    34.º-E; Adita Capítulo V; Adita Capítulo VI; Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 10.º; Altera Artigo 17.º;
+    Altera Artigo 20.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052
+  date: '2026-01-06'
+- type: cites
+  target: celex:32014L0024
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/24/oj
+- type: cites
+  target: celex:32021R2116
+  label: null
+  source: http://data.europa.eu/eli/reg/2021/2116/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/13-a/2025/03/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/13-a/2025/03/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/29/2018/05/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/2018/05/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/37/2018/06/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/37/2018/06/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/59-a/2024/09/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/59-a/2024/09/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/8/2017/01/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/8/2017/01/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/82/2021/10/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+article_structure:
+  article_count: 58
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:34:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 98-A/2025
+
+Os incêndios rurais são uma realidade trágica que assola Portugal.
+
+Sem prejuízo das prioridades da ação do Governo, que deve incidir, primariamente, sobre a prevenção, mitigação e repressão destes flagelos, a experiência ensina que, não raras vezes, é também necessário estabelecer medidas de apoio e mitigação do seu impacto, nas pessoas e empresas afetadas.
+
+As necessidades sentidas, comuns a experiências trágicas passadas, exigem frequentemente a execução de medidas de apoio a pessoas afetadas, incluindo as famílias das vítimas que perderam a vida ou sofreram lesões incapacitantes em consequência dos incêndios. Estes apoios têm em vista, designadamente, a reconstrução de habitações, a retoma da atividade económica, o auxílio dos agricultores, a reparação de infraestruturas e de equipamentos, a recuperação dos ecossistemas e da biodiversidade, a reflorestação e recuperação de florestas e a contenção de impactos ambientais, entre outros.
+
+Para evitar que as medidas de apoio ao impacto dos incêndios tenham de ser precedidas de declarações de alerta ou calamidade, o presente decreto-lei aprova o regime jurídico que rege as medidas apoio a aplicar, no tempo e espaço a definir a cada momento, mediante uma resolução do Conselho de Ministros.
+
+Através do presente decreto-lei, o Governo estabelece um quadro normativo de alcance e versatilidade setorial assinaláveis, apto a responder, com maior celeridade e eficácia, às carências que se venham a verificar, em decorrência de incêndios rurais, o qual pode ser adaptado e utilizado em função das necessidades específicas.
+
+Este quadro normativo, inspirado pelo Decreto-Lei n.º 59-A/2024, de 27 de setembro, aprovado pelo XXIV Governo Constitucional, aquando dos incêndios de setembro de 2024, divide-se pelas seguintes áreas temáticas, complementares e articuláveis entre si, e sem prejuízo da competência de cada área governativa: (i) pessoas; (ii) habitação; (iii) atividades económicas; (iv) agricultura; (v) ambiente, conservação da natureza e florestas; e (vi) infraestruturas e equipamentos.
+
+Adicionalmente, considerando a urgência na execução das medidas para a recuperação das regiões afetadas, torna-se necessário e urgente prever um regime excecional de contratação de empreitadas de obras públicas, de locação ou aquisição de bens e de serviços que concilie a celeridade procedimental exigida pela gravidade dos danos causados com a defesa do interesse público e a transparência na afetação de fundos públicos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1 - O presente decreto-lei estabelece:
+
+a) Medidas de apoio e mitigação do impacto de incêndios rurais relacionadas com a habitação, saúde, prestações sociais de caráter excecional, perda de rendimentos e reposição do potencial produtivo, assegurando a adequada articulação entre entidades e instituições envolvidas, incluindo medidas de resposta de emergência, de prevenção e de relançamento da economia;
+
+b) Medidas excecionais de contratação pública aplicáveis aos procedimentos de ajuste direto e consulta prévia destinados à formação de contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços relacionados com os danos causados por incêndios rurais.
+
+2 - As medidas previstas no presente decreto-lei aplicam-se a incêndios rurais de elevada dimensão ou gravidade, conforme definido por resolução do Conselho de Ministros que fixa os respetivos âmbitos temporal e geográfico.
+
+3 - Para fundamentação da deliberação prevista no número anterior, os membros do Governo responsáveis pelas áreas da proteção civil e das florestas solicitam à Autoridade Nacional de Emergência e Proteção Civil e ao Instituto da Conservação da Natureza e das Florestas, IP (ICNF, IP), o apuramento dos âmbitos temporal e geográfico concretos, segundo os critérios de elevada dimensão ou gravidade transmitidos pelo Governo.
+
+4 - As medidas previstas no presente decreto-lei não excluem a responsabilidade civil e criminal decorrente de ações praticadas por agentes que tenham iniciado, facilitado, propagado ou de alguma forma contribuído para os incêndios, relativamente aos quais o Estado tem direito de regresso.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 2.º — Apuramento de danos e avaliação
+
+1 - As autarquias locais recolhem, registam e reportam à Comissão de Coordenação e Desenvolvimento Regional, IP (CCDR, IP), territorialmente competente os dados relativamente aos danos apurados, nos termos do disposto na alínea p) do n.º 1 do artigo 17.º do Decreto-Lei n.º 82/2021, de 13 de outubro, na sua redação atual.
+
+2 - Em vistoria conjunta, os técnicos dos municípios e da CCDR, IP, territorialmente competente definem a estimativa do valor dos danos decorrentes dos incêndios, sem prejuízo das metodologias próprias de estimativa de danos que, em função da especificidade das situações ou objetivos do mecanismo de apoio, possam vir a ser definidas na regulamentação própria de cada apoio.
+
+3 - Os organismos do Estado setorialmente competentes colaboram na avaliação a que se refere o número anterior, quando solicitados.
+
+4 - Concluído o apuramento e a avaliação de danos, a CCDR, IP, comunica ao Ministério Público o respetivo resultado, para efeitos de eventual promoção de ações judiciais de natureza cível ou criminal.
+
+5 - No caso das medidas previstas no artigo 26.º, o ICNF, IP, recolhe e regista os dados necessários à elaboração dos relatórios de estabilização de emergência e informa a entidade competente para aprovação das candidaturas, quando aplicável.
+
+### Capítulo II — MEDIDAS DE APOIO E MITIGAÇÃO DO IMPACTO DOS INCÊNDIOS
+
+#### Secção I — PESSOAS
+
+###### Artigo 3.º — Acompanhamento pelo Serviço Nacional de Saúde
+
+1 - O presente artigo estabelece os serviços e o acompanhamento a ser prestados pelo Serviço Nacional de Saúde (SNS) a todas as vítimas dos incêndios.
+
+2 - Os serviços e o acompanhamento a que se refere o número anterior são promovidos, nomeadamente, através:
+
+a) Do reforço do acesso aos cuidados de saúde primários, bem como às consultas de especialidade consideradas necessárias, garantindo intervenções na resposta à doença aguda, gestão da doença crónica e eventuais descompensações, no âmbito das Unidades Locais de Saúde (ULS);
+
+b) Do reforço das intervenções de apoio em saúde mental às populações, por parte das unidades de cuidados de saúde primários ou serviços de saúde mental, no âmbito das ULS.
+
+3 - O reforço do acesso aos cuidados de saúde previstos nas alíneas do número anterior é igualmente garantido aos profissionais das forças e serviços de segurança, dos bombeiros, da proteção civil e de quaisquer outras entidades envolvidas no combate aos incêndios e ao socorro e auxílio às populações, assegurado pelas ULS das respetivas áreas de residência.
+
+4 - Os serviços de saúde pública das ULS referidas na alínea a) do n.º 2, asseguram:
+
+a) O reforço da vigilância epidemiológica, particularmente de doenças respiratórias;
+
+b) A vigilância ambiental da qualidade do ar, das águas, e dos solos, em articulação com a Agência Portuguesa do Ambiente, IP, e as CCDR na vertente da qualidade do ar, e com as entidades gestoras dos serviços das águas e resíduos territorialmente competentes;
+
+c) A avaliação do risco e a execução das necessárias medidas de controlo, em articulação com as autoridades de saúde regionais, sob coordenação da Direção-Geral da Saúde;
+
+d) As medidas necessárias a mitigar o impacto deste evento na saúde, nomeadamente nos mais vulneráveis, como as crianças, as grávidas, os idosos e os doentes com patologias crónicas, assegurando o acompanhamento e prestação de cuidados necessários, sob coordenação da Direção Executiva do Serviço Nacional de Saúde, IP.
+
+5 - Para efeitos do reforço do acesso à prestação de cuidados de saúde nos termos previstos no presente artigo, ficam as ULS autorizadas, se necessário, a recorrer à realização de atividade adicional, dentro do contratualizado, nas áreas referidas.
+
+6 - As várias ULS, em especial as identificadas na alínea b) do n.º 2, adotam todas as medidas que permitam a conclusão, com a máxima urgência, dos respetivos procedimentos de recrutamento de psicólogos para o SNS.
+
+7 - Os cuidados de saúde prestados no âmbito do presente artigo são gratuitos e abrangem, designadamente:
+
+a) A isenção de taxas moderadoras, quando aplicáveis de acordo com a legislação em vigor;
+
+b) A dispensa gratuita de medicamentos, produtos tópicos e ajudas técnicas, pelas unidades de saúde do SNS;
+
+c) A gratuitidade do transporte de doentes para a deslocação a consultas, tratamentos e meios complementares de diagnóstico e terapêutica.
+
+###### Artigo 4.º — Apoios às famílias em situação de carência ou de perda de rendimento
+
+1 - São concedidos apoios às famílias que se encontrem em situação de carência ou perda de rendimentos e que necessitem de proceder à realização de despesas necessárias à sua subsistência, à aquisição de bens imediatos e inadiáveis, à manutenção das suas condições de vida e à satisfação dos seus encargos normais e regulares, através da atribuição de subsídios de caráter eventual, de concessão única ou de manutenção.
+
+2 - Os apoios às famílias previstos no número anterior devem contemplar, designadamente:
+
+a) Um apoio imediato, de prestação única e de caráter excecional, a atribuir às famílias que perderam as suas fontes de rendimento;
+
+b) Um subsídio mensal complementar, a atribuir aos pensionistas que perderam as suas fontes complementares de rendimento;
+
+c) Outros apoios sociais eventuais e de caráter excecional, de natureza pecuniária ou em espécie, a atribuir nas situações de comprovada carência económica.
+
+3 - A atribuição dos apoios sociais referidos nos números anteriores deve ter em consideração:
+
+a) A necessidade de compensar a perda total ou parcial de fontes de rendimento, primárias ou complementares, em resultado dos incêndios;
+
+b) A possibilidade de conjugação de diferentes prestações sociais, com ou sem natureza contributiva;
+
+c) A possibilidade de serem concedidos complementos específicos nos casos em que já sejam atribuídas outras prestações sociais;
+
+d) A definição de prazos de atribuição adequados às necessidades dos beneficiários, sem prejuízo de eventuais prorrogações.
+
+4 - Os apoios previstos no presente artigo têm a duração mínima de um ano, devendo ser prorrogados pelo período considerado necessário mediante avaliação da situação económica e social dos seus beneficiários.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 5.º — Apoios aos agricultores para aquisição de bens imediatos
+
+Sem prejuízo do disposto nos artigos 20.º a 24.º, são concedidos apoios aos agricultores afetados diretamente pelos incêndios rurais para:
+
+a) Aquisição de bens imediatos e inadiáveis;
+
+b) Aquisição de alimentação animal;
+
+c) Recuperação da economia de subsistência e perda de rendimentos por motivo diretamente causado pelos incêndios.
+
+###### Artigo 6.º — Isenção de pagamento de contribuições à segurança social
+
+É criado um regime excecional e temporário de isenção, total ou parcial, do pagamento de contribuições à segurança social, não cumulável com outras medidas extraordinárias que assegurem o mesmo fim, a atribuir nos seguintes termos:
+
+a) Isenção total do pagamento de contribuições para a segurança social, durante um período de até seis meses, prorrogável até ao máximo de igual período, mediante avaliação, para as empresas, cooperativas e trabalhadores independentes cuja atividade tenha sido diretamente afetada pelos incêndios;
+
+b) Isenção parcial de 50 % do pagamento de contribuições para a segurança social a cargo do empregador durante um período de um ano para as empresas e cooperativas que contratem trabalhadores em situação de desemprego diretamente causado pelos incêndios.
+
+###### Artigo 7.º — Apoios a instituições particulares de solidariedade social e equiparadas
+
+São concedidos apoios às instituições particulares de solidariedade social e equiparadas que levem a cabo ações de solidariedade dirigidas aos territórios e populações afetadas pelos incêndios rurais.
+
+###### Artigo 8.º — Reforço de técnicos da ação social e do Instituto da Segurança Social, IP, e constituição de equipas específicas
+
+1 - São reforçados os técnicos da ação social dos serviços do Instituto da Segurança Social, IP (ISS, IP), e são constituídas equipas específicas e temporárias dirigidas ao atendimento e acompanhamento da população afetada pelos incêndios, incluindo com o objetivo de acelerar os processos de atribuição das prestações sociais de apoio ao rendimento.
+
+2 - Os técnicos da ação social dos serviços do ISS, IP, colaboram com os técnicos das autarquias locais e da CCDR, IP, territorialmente competente, assegurando um acompanhamento multidisciplinar e de proximidade.
+
+###### Artigo 9.º — Avisos para financiamento
+
+São lançados avisos para financiamento:
+
+a) Dedicados ao financiamento de equipamentos sociais situados nos territórios afetados pelos incêndios, para efeitos de financiamento específico;
+
+b) Dedicados a infraestruturas e bens móveis sinistrados de pessoas coletivas de direito privado sem fins lucrativos situados nos territórios abrangidos, para efeitos de financiamento específico.
+
+###### Artigo 10.º — Incentivo financeiro extraordinário à manutenção de postos de trabalho
+
+1 - É concedido um incentivo financeiro extraordinário, pelo período de três meses, com possibilidade de prorrogação, mediante avaliação pelo Instituto do Emprego e Formação Profissional, IP (IEFP, IP), às empresas e cooperativas que demonstrem a necessidade do apoio para assegurar a manutenção dos postos de trabalho cuja viabilidade económica se estime vir a ser afetada pelos incêndios, de forma a atuar preventivamente sobre o desemprego.
+
+2 - O incentivo referido no número anterior destina-se, exclusivamente, a apoiar o cumprimento das obrigações retributivas até ao montante da retribuição normal ilíquida do trabalhador, deduzida a contribuição para a segurança social, não podendo ultrapassar o valor de duas vezes a retribuição mínima mensal garantida, acrescido de apoio à alimentação e de apoio ao transporte.
+
+3 - O incentivo não suspende o contrato de trabalho, exceto nos casos de crise empresarial, definidos no artigo 14.º, podendo o empregador encarregar o trabalhador de exercer temporariamente funções não compreendidas na atividade contratada para prevenir ou reparar prejuízo grave para a empresa e cooperativa ou para a sua viabilidade, em resultado dos incêndios rurais.
+
+4 - O não pagamento pontual de todas as obrigações retributivas ao trabalhador determina a suspensão imediata da concessão do incentivo financeiro previsto no presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 11.º — Incentivo financeiro extraordinário aos trabalhadores independentes
+
+É concedido um incentivo financeiro extraordinário, por um período de até três meses, com possibilidade de prorrogação, mediante avaliação pelo IEFP, IP, aos trabalhadores independentes, na medida em que o seu rendimento tenha sido diretamente afetado pelos incêndios.
+
+> Retificado pelo/a [Declaração de Retificação n.º 41/2025/1 - Diário da República n.º 205/2025, Série I de 2025-10-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/41-2025-941702858), produz efeitos a partir de 2025-08-25
+
+###### Artigo 12.º — Prioridade nas medidas ativas de emprego
+
+Os trabalhadores afetados pelos incêndios rurais têm prioridade na seleção e encaminhamento nas medidas ativas de emprego.
+
+###### Artigo 13.º — Ações de formação profissional
+
+São desenvolvidas, sob coordenação do membro do Governo responsável pela área do trabalho, da solidariedade e da segurança social, ações de formação profissional que proporcionem a valorização profissional, a melhoria das competências profissionais e o reforço dos níveis de empregabilidade das pessoas em situação de desemprego nos territórios afetados pelos incêndios rurais.
+
+###### Artigo 14.º — Regime simplificado de redução ou suspensão em situação de crise empresarial
+
+1 - O empregador que comprovadamente se encontre na situação de crise empresarial, em consequência dos incêndios, pode recorrer ao regime de redução ou suspensão dos contratos de trabalho, previsto nos artigos 298.º e seguintes do Código do Trabalho, com dispensa das obrigações previstas nos artigos 299.º e 300.º do mesmo Código.
+
+2 - A comprovação da situação de crise empresarial referida no número anterior é feita mediante requerimento do empregador pelos serviços competentes, nomeadamente o IEFP, IP.
+
+3 - No requerimento previsto no número anterior, o empregador indica os seguintes elementos:
+
+a) Fundamentos económicos, financeiros ou técnicos da medida;
+
+b) Quadro de pessoal, discriminado por secções;
+
+c) Critérios para seleção dos trabalhadores a abranger;
+
+d) Número e categorias profissionais dos trabalhadores a abranger.
+
+###### Artigo 15.º — Cumprimento de obrigações contributivas e fiscais
+
+1 - Os prazos de cumprimento das obrigações contributivas e fiscais, incluindo a obrigação de pagamento prevista nas alíneas b) e c) do n.º 1 do artigo 120.º do Código do Imposto Municipal sobre Imóveis, podem ser excecionalmente alargados por despacho do membro do Governo responsável pela área das finanças ou da segurança social, consoante a matéria.
+
+2 - Os despachos referidos no número anterior estabelecem o novo prazo para cumprimento das obrigações, bem como a dispensa de acréscimos e penalidades, desde que cumpridos esses prazos.
+
+3 - O disposto nos números anteriores é aplicável aos contribuintes que tenham residência ou domicílio fiscal nas freguesias abrangidas pelo âmbito territorial delimitado nos termos da resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 1.º
+
+###### Artigo 15.º-A — Isenção temporária de imposto sobre o valor acrescentado
+
+1 - Estão isentas de IVA, no prazo de seis meses contados desde o início do período temporal fixado na resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 1.º, as transmissões a título gratuito de produtos próprios para alimentação de gado, de aves e outros animais exclusiva ou principalmente destinados ao trabalho agrícola, ao abate ou à reprodução, efetuadas a sujeitos passivos que exerçam uma atividade de produção agrícola e tenham residência ou domicílio fiscal nas zonas abrangidas.
+
+2 - As operações referidas no número anterior não prejudicam o direito à dedução nos termos do artigo 20.º do Código do IVA.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 57-A/2025 - Diário da República n.º 184/2025, Suplemento, Série I de 2025-09-24](https://diariodarepublica.pt/dr/detalhe/lei/57-a-2025-936209745), em vigor a partir de 2025-09-25, produz efeitos a partir de 2025-07-01
+
+###### Artigo 16.º — Trabalho suplementar prestado no contexto de incêndios
+
+1 - O trabalho suplementar dos trabalhadores da administração pública (direta, indireta e autónoma), bem como dos trabalhadores do setor privado que integrem o Dispositivo Especial de Combate a Incêndios Rurais (DECIR), que seja prestado no contexto destes incêndios, qualifica-se como trabalho suplementar em caso de força maior, para efeitos de não estar sujeito aos limites legais de duração do trabalho suplementar, designadamente os previstos no n.º 2 do artigo 120.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e no n.º 1 do artigo 211.º, aplicável por força da remissão conjugada do n.º 4 do artigo 228.º, com o n.º 2 do artigo 227.º, do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.
+
+2 - A isenção dos limites do trabalho suplementar prestado nos termos do número anterior, vigora pelo período temporal fixado na resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 1.º, bem como nos 15 dias seguintes a esta data.
+
+#### Secção II — HABITAÇÃO
+
+###### Artigo 17.º — Apoios à reconstrução ou reabilitação de habitações permanentes e alojamento urgente e temporário
+
+1 - Os apoios a conceder no âmbito do presente artigo abrangem a construção, reconstrução, reabilitação, ampliação, demolição, aquisição e arrendamento de imóveis destinados a habitação própria e permanente, afetados pelos incêndios, assim como o seu apetrechamento, bem como o fornecimento dos equipamentos necessários aos referidos imóveis, incluindo mobiliário básico, eletrodomésticos essenciais e utensílios domésticos indispensáveis para a habitabilidade, bem como o alojamento urgente e temporário, nos termos previstos nos números seguintes.
+
+2 - Os apoios a que se refere o número anterior abrangem habitações legalizadas urbanisticamente ou suscetíveis de legalização.
+
+3 - No caso dos imóveis afetados pelos incêndios que, antes da ocorrência dos danos causados pelos mesmos, não eram suscetíveis de legalização, é concedido um apoio nos termos do previsto no n.º 15, com as devidas adaptações.
+
+4 - Para os efeitos do presente artigo, a prova de que o imóvel afetado pelo incêndio se destina à sua habitação própria e permanente é efetuada através dos seguintes documentos:
+
+a) Certidão de registo predial ou caderneta predial do imóvel, na qual o beneficiário conste como proprietário, e comprovativo do domicílio fiscal do proprietário;
+
+b) Em caso de impossibilidade de apresentação de certidão do registo predial ou caderneta predial, o beneficiário do apoio deverá apresentar-se perante conservador ou notário, acompanhado de três testemunhas que atestem a referida propriedade, exarando-se essas declarações em documento autêntico e sendo dado conhecimento ao beneficiário e às testemunhas de que poderão incorrer no crime de falsas declarações, nos termos do disposto no artigo 348.º-A do Código Penal;
+
+c) A prova da residência habitual pode ser feita através da certidão de domicílio fiscal, contrato de arrendamento para habitação no qual o beneficiário conste como locatário e comprovativo do domicílio fiscal ou da confirmação por três testemunhas residentes na localidade, prestada nos mesmos termos da alínea anterior.
+
+5 - O documento autêntico lavrado na sequência do procedimento a que respeita a alínea b) do número anterior é suficiente para a concessão dos apoios previstos no n.º 1, desde que seja objeto de ampla divulgação no município a que respeita a habitação, através de edital em lugares de estilo e online, no site do respetivo município.
+
+6 - A construção, reconstrução, reabilitação, ampliação, aquisição ou arrendamento das habitações destinadas a residência própria e permanente afetada pelos incêndios é efetuada, nos termos do presente artigo, pelas autarquias locais ou pelos respetivos proprietários, no prazo de dois anos a contar da data da notificação da aprovação da candidatura pela CCDR, IP, territorialmente competente, salvo se o incumprimento não for imputável ao beneficiário do apoio.
+
+7 - Os apoios a que se refere o n.º 1 obedecem aos seguintes termos, sem prejuízo de regulamentação pelo membro do Governo responsável pela área da habitação:
+
+a) Comparticipação a 100 % até ao montante de € 250 000,00, nos termos da avaliação a que se reporta o n.º 2 do artigo 2.º;
+
+b) Comparticipação a 85 % no montante que exceda o referido na alínea anterior, nos termos da avaliação a que se reporta o n.º 2 do artigo 2.º;
+
+c) Comparticipação a 100 % para arrendamento, considerando a diferença entre a renda praticada no mês anterior à ocorrência dos incêndios e a renda a comparticipar, limitada pelo valor da mediana das rendas praticadas no concelho onde se insere a habitação, no trimestre anterior à ocorrência dos incêndios.
+
+8 - Para efeitos do disposto nas alíneas a) e b) do número anterior, o pagamento do apoio efetua-se da seguinte forma:
+
+a) 50 % do montante é entregue ao respetivo proprietário ou ao município, caso o último seja responsável pela execução da obra, mediante a celebração do contrato de comparticipação;
+
+b) 40 % do montante é entregue após a apresentação dos recibos que comprovem despesas que excedam o montante previsto na alínea anterior;
+
+c) 10 % do montante é entregue no final da obra, com a apresentação de relatório conjunto a elaborar pela CCDR, IP, territorialmente competente e pelo município, e do comprovativo do qual resulte o registo da propriedade do imóvel a favor do beneficiário do apoio.
+
+9 - É admitida a ampliação até 10 % da área de construção e da altura da fachada da edificação original, desde que, no projeto, fique demonstrada a necessidade da mesma para assegurar a correção de más condições de segurança, salubridade, eficiência térmica ou acessibilidades da edificação, sem prejuízo dos instrumentos de gestão territorial diretamente aplicáveis.
+
+10 - Aos apoios a conceder no âmbito do presente artigo é aplicável o procedimento especial simplificado, previsto no artigo 20.º-A do Decreto-Lei n.º 29/2018, de 4 de maio.
+
+11 - A avaliação a que se reporta o n.º 2 do artigo 2.º inclui uma estimativa sobre o valor necessário ao fornecimento dos equipamentos necessários às habitações abrangidas pelos números anteriores, incluindo mobiliário básico, eletrodomésticos essenciais e utensílios domésticos indispensáveis para a habitabilidade, considerando a reposição dos bens nela existentes imediatamente antes da ocorrência dos incêndios.
+
+12 - Ao valor referido nas alíneas a) e c) do n.º 8 do presente artigo acresce o valor necessário ao fornecimento de equipamentos referidos no número anterior, conforme avaliado nos termos do n.º 2 do artigo 2.º
+
+13 - A disponibilização do montante referido na alínea c) do n.º 8 depende da apresentação de apólice de seguro válida que incida sobre o respetivo imóvel e que cubra o risco de danos provocados por incêndios.
+
+14 - Em caso de inviabilidade da reconstrução ou manutenção da habitação própria e permanente dos beneficiários no mesmo local, nomeadamente por razões de tutela de legalidade urbanística e de controlo especial de riscos, incluindo quando os imóveis antes da ocorrência dos danos causados pelos incêndios não eram suscetíveis de legalização, é concedido um apoio de montante igual aos referidos nas alíneas a) e b) do n.º 8, para a aquisição de nova habitação ou, caso tal se revele inviável, para a construção de nova habitação no mesmo concelho.
+
+15 - Aplicando-se o disposto no número anterior, as habitações próprias e permanentes danificadas situadas em locais que violem as regras urbanísticas aplicáveis e que não sejam suscetíveis de legalização são demolidas pelos municípios territorialmente competentes, correndo os respetivos custos por conta do orçamento afeto à execução do presente apoio.
+
+16 - A comparticipação mensal referida na alínea c) do n.º 8 é concedida por um prazo máximo de cinco anos, sem prejuízo de, no caso de a pessoa ou de o agregado não ter alternativa habitacional subsequente, a sua situação poder ser sinalizada pelo município como especialmente vulnerável para efeito de acesso a uma solução habitacional ao abrigo do 1.º Direito - Programa de Apoio ao Acesso à Habitação, criado pelo Decreto-Lei n.º 37/2018, de 4 de junho, na sua redação atual, desde que preencha os demais requisitos de elegibilidade.
+
+17 - O apoio financeiro para alojamento urgente e temporário é concedido em situações de necessidade de alojamento imediato e provisório definido e atribuído pela Segurança Social, assumindo-se como uma solução intercalar face à solução habitacional definitiva a concretizar por via dos apoios e nos prazos estabelecidos no presente decreto-lei:
+
+a) O alojamento temporário deve ser assegurado em condições adequadas à preservação das relações familiares e sociais e ao restabelecimento da normalidade do quotidiano das pessoas afetadas pelos incêndios.
+
+b) O alojamento temporário é da responsabilidade da Segurança Social, assegurando a adequada articulação com as entidades públicas, cooperativas ou sociais.
+
+18 - Têm direito a apoio para a reconstrução de casas de segunda habitação, as vítimas que tenham efetiva ligação às localidades onde estas estavam implantadas, num montante de pelo menos 50 %, até um máximo de € 100 000, podendo o restante ser suportado por uma linha de crédito com garantia estatal e taxa de juro máximo de 3 %.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+#### Secção III — ATIVIDADES ECONÓMICAS
+
+###### Artigo 18.º — Linhas e sistemas de apoio a empresas e cooperativas
+
+São criadas as seguintes linhas e sistemas de apoio a empresas:
+
+a) Linha de apoio à tesouraria para as empresas e cooperativas, direta ou indiretamente afetadas pelos incêndios, destinada a financiar as necessidades de tesouraria ou de fundo de maneio associadas ao relançamento da sua atividade;
+
+b) Sistema de apoio à reposição das capacidades produtivas e da competitividade económica das empresas e cooperativas afetadas que vise repor a sua capacidade produtiva, exceto nos setores da agricultura e floresta, que são objeto de apoios específicos;
+
+c) Linha de apoio à regeneração, valorização turística e promoção dos territórios atingidos pelos incêndios, destinada a financiar entidades públicas e entidades privadas sem fins lucrativos afetadas, direta ou indiretamente, pelos incêndios.
+
+###### Artigo 18.º-A — Restabelecimento do potencial produtivo no âmbito das atividades económicas
+
+1 - O Governo determina os programas que, no âmbito do Portugal 2030, devem assegurar os recursos financeiros destinados à reposição das atividades industriais, comerciais e de serviços, total ou parcialmente, afetados pelos incêndios florestais.
+
+2 - O apoio público destina-se, preferencialmente:
+
+a) À reconstrução de edifícios e outras infraestruturas;
+
+b) Aos reequipamentos necessários à retoma das atividades; e
+
+c) A assegurar que a entidade patronal possa continuar a assumir as suas responsabilidades para com os trabalhadores.
+
+3 - O valor do apoio é calculado pelo diferencial entre o valor total do prejuízo verificado e o valor da indemnização devida pelas companhias de seguros.
+
+4 - Em caso de ausência de seguros contratados, as empresas recebem um apoio de valor semelhante, sendo deduzido ao valor total do prejuízo o valor da provável indemnização, caso existisse contrato de seguro.
+
+5 - A empresa que receber o apoio previsto no número anterior fica obrigada à contratação de seguro na retoma da atividade, havendo obrigação de devolução do apoio ao Estado no caso de não efetivação do referido contrato de seguro.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 19.º — Valor máximo de apoios a fundo perdido
+
+1 - Quando não exista contrato de seguro, e o mesmo não resulte de obrigação legal, o valor do apoio tem o valor máximo de 25 % do prejuízo verificado.
+
+2 - Quando existir contrato de seguro, o valor máximo do apoio corresponde a 50 % da diferença entre o prejuízo verificado e a indemnização atribuída pela seguradora, não podendo o apoio, salvo na situação prevista no número seguinte, exceder o valor da indemnização atribuída pela seguradora.
+
+3 - Quando o valor da indemnização atribuída pela seguradora for inferior a 25 % do prejuízo verificado, prevalece o cálculo estabelecido no n.º 1.
+
+4 - Não há lugar à concessão de apoios financeiros públicos nas situações em que exista, por lei, obrigação de celebração de contrato de seguro que cubra os danos resultantes de incêndios e a mesma não seja cumprida pelo beneficiário.
+
+#### Secção IV — AGRICULTURA
+
+###### Artigo 20.º — Restabelecimento do potencial produtivo agrícola
+
+1 - O membro do Governo responsável pela área da agricultura e florestas determina a abertura de concursos para apoio ao restabelecimento do potencial produtivo agrícola, incluindo a reposição de animais, plantações plurianuais, aquisição de máquinas, equipamentos agrícolas, estufas, armazéns e outras construções de apoio à atividade agrícola, assegurando um regime especial para culturas permanentes de longo período de restabelecimento do potencial produtivo, designadamente, castanheiros, sobreiros ou olival tradicional.
+
+2 - As candidaturas para cada um destes apoios são abertas no prazo de 15 dias após a publicação da Lei n.º 1/2026, de 6 de janeiro, devendo ser analisadas no prazo de 15 dias após a sua submissão.
+
+3 - Os contratos definitivos são disponibilizados aos beneficiários no prazo de três dias após aceitação da decisão pelos mesmos.
+
+4 - A entidade gestora destes apoios disponibiliza, por meio bancário, 30 % do valor do apoio até 15 dias depois de assinado o contrato, sendo o restante valor pago mediante entrega das faturas pelos beneficiários, até 85 % do valor total, momento a partir do qual é paga, contra recibo, a totalidade das despesas remanescentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 21.º — Apoio extraordinário a produtores pecuários e a apicultores
+
+1 - É concedido um apoio extraordinário para aquisição de alimentação animal aos produtores pecuários afetados pelos incêndios que sejam detentores de explorações agrícolas com efetivos das espécies de bovinos, ovinos e caprinos.
+
+2 - É concedido um apoio extraordinário aos apicultores cujos apiários foram diretamente ou indiretamente afetados pelos incêndios, para assegurar a aquisição de alimentação das colónias de abelhas afetadas pelos incêndios.
+
+###### Artigo 22.º — Apoio excecional aos agricultores
+
+1 - É atribuído um apoio excecional aos agricultores, para compensação de prejuízos, mesmo que indocumentados, até ao valor de 15 000 €, na sequência de vistoria conjunta dos técnicos dos municípios e da CCDR, IP, territorialmente competente.
+
+2 - Consideram-se elegíveis os prejuízos que se reportem a danos referentes a animais, culturas anuais, plantações plurianuais, máquinas, equipamentos e espaços de apoio à atividade agrícola.
+
+3 - O apoio previsto no presente artigo assume a natureza de prestação única de carácter excecional.
+
+4 - O montante mínimo de despesa elegível para apoio é de 100 €.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 23.º — Recurso aos apoios
+
+É possível o recurso simultâneo aos apoios previstos:
+
+a) Nos artigos 20.º e 22.º, desde que o requerente justifique que servem para fazer face a despesas distintas na sua utilização;
+
+b) No artigo 21.º, com outros previstos no presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 24.º — Apoio ao rendimento perdido nas explorações agroflorestais
+
+1 - Os produtores têm direito a apoio pelo rendimento perdido nas explorações agroflorestais com vista a compensar:
+
+a) A destruição de colheitas do ano da ocorrência;
+
+b) A impossibilidade de colheita nos próximos anos agrícolas pela destruição ou degradação da produção agroflorestal;
+
+c) A perda de animais;
+
+d) A impossibilidade ou redução de recria de animais.
+
+2 - O apoio previsto no presente artigo reveste-se de uma prestação única, com carácter pecuniário, a atribuir após candidatura a regulamentar pelo Governo.
+
+###### Artigo 25.º — Casos de força maior e derrogações
+
+1 - A ocorrência de incêndios rurais constitui caso de força maior, nos termos previstos no artigo 3.º do Regulamento (UE) 2021/2116, Parlamento Europeu e do Conselho, de 2 de dezembro de 2021, para efeitos de incumprimento das condições de elegibilidade e compromissos dos beneficiários no âmbito das medidas de superfície e dos compromissos agroambientais, que daqueles diretamente decorra, ficando os agricultores afetados dispensados de requerer a não aplicação de penalização e de fazer meio de prova da situação em causa.
+
+2 - São igualmente adotadas, em regulamentação específica, as derrogações ou adaptações que se revelem necessárias para garantir que os agricultores afetados possam ser beneficiários destes apoios nos anos seguintes.
+
+#### Secção V — AMBIENTE, CONSERVAÇÃO DA NATUREZA E FLORESTAS
+
+###### Artigo 26.º — Restabelecimento dos ecossistemas e da floresta
+
+1 - Os membros do Governo responsáveis pelas áreas do ambiente e energia e agricultura e florestas, asseguram, no âmbito das respetivas competências, a adoção de medidas com vista à recuperação de áreas protegidas e de infraestruturas afetadas, o controlo de erosão, tratamento e proteção de encostas, a prevenção da contaminação, assoreamento e recuperação de linhas de água, a prevenção de riscos para a conservação da natureza e biodiversidade e de promover estruturas de suporte à manutenção da vida selvagem.
+
+2 - É concedido um apoio extraordinário para a substituição ou reparação de máquinas e equipamentos florestais, armazéns e outras construções de apoio às atividades florestais afetadas pelos incêndios.
+
+3 - É concedido um apoio extraordinário às entidades gestoras de zonas de caça que foram diretamente afetadas pelos incêndios, para assegurar a realização de ações de recuperação de habitat, recuperação da sinalização ardida e de infraestruturas afetadas diretamente relacionadas com a gestão das zonas de caça.
+
+4 - As entidades gestoras de zonas de caça cujos territórios cinegéticos tenham sido afetados pelos incêndios são isentas do pagamento das taxas anuais relativas ao ano em que se verificaram os incêndios, assim como ao ano subsequente.
+
+5 - É concedido um apoio extraordinário às comissões de cogestão de áreas protegidas para implementarem medidas de recuperação de linhas de água, infraestruturas danificadas, contenção de solos e restauro ecológico.
+
+6 - É concedido um apoio extraordinário às entidades gestoras de baldios que foram diretamente afetadas pelos incêndios, para assegurar a realização de ações de recuperação da biodiversidade, reflorestação e recuperação de infraestruturas.
+
+7 - Os baldios podem proceder a melhoramentos relativamente à estimativa prevista no n.º 2 do artigo 2.º, tendo direito ao correspondente apoio, até ao limite de 200 %.
+
+8 - O Governo abre, em 2026, concursos específicos para apoios à reflorestação nas áreas abrangidas pelo presente decreto-lei.
+
+9 - Os concursos previstos no número anterior devem garantir prioridade à reflorestação com espécies autóctones.
+
+10 - As organizações de produtores florestais ou entidades gestoras de áreas florestais atingidas têm direito a candidatar-se a todos os apoios referidos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 26.º-A — Parques de receção de salvados
+
+1 - O Ministério da Agricultura e Mar, através do Instituto da Conservação da Natureza e das Florestas, IP (ICNF, IP) e em colaboração com as estruturas de produtores florestais locais e os municípios afetados pelos incêndios, promove a constituição de parques de receção de produção lenhosa afetada pelos incêndios, suscetível de aproveitamento industrial ou outro, no sentido da proceder à sua recolha, incluindo o corte e o transporte, com vista à sua comercialização e consequente redução dos prejuízos verificados.
+
+2 - O Ministério da Agricultura e Mar, através dos seus serviços locais e do ICNF, IP, estabelece um preço base para a madeira recolhida correspondente aos preços médios praticados na região à data do incêndio, corrigido por fatores a estabelecer e que reflitam adequadamente a sua desvalorização comercial.
+
+3 - O Ministério da Agricultura e Mar acompanha e promove a comercialização da madeira recolhida nos termos previstos no número anterior, através da publicitação de lotes e preços dos salvados recolhidos em jornais regionais, da afixação de editais e de uma plataforma eletrónica do sítio do Ministério criada para o efeito.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 26.º-B — Criação de equipas de sapadores florestais
+
+1 - O Governo apresenta à Assembleia da República, no prazo de 30 dias após a entrada em vigor da Lei n.º 1/2026, de 6 de janeiro, a apreciação das necessidades de cada concelho e o plano de criação das equipas de sapadores florestais para garantir, no prazo de um ano, o suprimento dessas carências.
+
+2 - A criação de equipas de sapadores florestais é apoiada pelo Fundo Florestal Permanente.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 27.º — Prestação adicional de serviço público
+
+Dada a necessidade excecional de aumentar o número de dias de serviço público que as equipas de sapadores florestais estão obrigadas a cumprir, nos termos do n.º 5 do artigo 19.º do Decreto-Lei n.º 8/2017, de 9 de janeiro, na sua redação atual, o ICNF, IP, pode, através do Fundo Ambiental, aumentar o apoio ao respetivo funcionamento, em função do número de dias em que as equipas de sapadores florestais foram acionadas para efetuar, em particular, a fiscalização e primeira intervenção nos incêndios, pelo período temporal fixado na resolução do Conselho de Ministros, a que se refere o n.º 2 do artigo 1.º do presente decreto-lei.
+
+#### Secção VI — INFRAESTRUTURAS E EQUIPAMENTOS
+
+###### Artigo 28.º — Apoios à reposição e reparação de infraestruturas e equipamentos públicos das autarquias locais e setor público empresarial
+
+1 - O membro do Governo responsável pela área das autarquias locais determina, no prazo de cinco dias a contar da data da publicação da resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 1.º, a abertura de candidaturas ao Fundo de Emergência Municipal, para apoio à reposição e reparação de infraestruturas e equipamentos públicos das autarquias locais e das comunidades intermunicipais de suporte às populações que tenham sido destruídos pelos incêndios rurais.
+
+2 - Os apoios referidos no número anterior são objeto de contrato de auxílio financeiro e a participação financeira da administração central pode atingir 100 % dos respetivos custos totais, não se aplicando o limite constante no n.º 3 do artigo 6.º do Decreto-Lei n.º 384/87, de 24 de dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 29.º — Resiliência do território e aquisição e substituição de meios operacionais
+
+1 - O Governo adota as medidas necessárias para assegurar a tramitação célere e o apoio às ações com vista a incrementar a resiliência territorial a fenómenos erosivos de incêndios rurais.
+
+2 - Os apoios referidos no número anterior destinam-se, designadamente:
+
+a) A trabalhos que visem a demolição, contenção ou quaisquer obras de segurança, bem como à remoção de escombros em área ardida;
+
+b) À aquisição e substituição de meios operacionais sinistrados, incluindo equipamentos e meios de apoio ao combate aos incêndios que sejam propriedade das autarquias locais, e das entidades gestoras de equipas e brigadas de sapadores florestais, desde que não integrados no DECIR, que goza de regulamentação própria.
+
+###### Artigo 29.º-A — Auxílio financeiro e celebração de contratos ou protocolos entre municípios e Comissões de Coordenação e Desenvolvimento Regional, I. P.
+
+1 - Excetua-se da autorização prevista no n.º 5 do artigo 22.º da Lei n.º 73/2013, de 3 de setembro, na sua redação atual, a concessão de qualquer auxílio financeiro e a celebração de contrato ou protocolo entre as autarquias locais e as CCDR, I. P., que visem a atribuição e gestão dos apoios que sejam concedidos ao abrigo do presente decreto-lei.
+
+2 - O disposto no número anterior aplica-se durante os três meses contados desde o início do período temporal fixado na resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 1.º
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 57-A/2025 - Diário da República n.º 184/2025, Suplemento, Série I de 2025-09-24](https://diariodarepublica.pt/dr/detalhe/lei/57-a-2025-936209745), em vigor a partir de 2025-09-25, produz efeitos a partir de 2025-07-01
+
+###### Artigo 29.º-B — Contratos Locais de Desenvolvimento Social
+
+1 - O Governo promove a celebração de Contratos Locais de Desenvolvimento Social (CLDS), com vista a assegurar resposta aos problemas estruturais em territórios afetados pelos incêndios referidos no n.º 2 do artigo 1.º, abrangendo os diferentes serviços da administração direta do Estado, municípios, estruturas de agricultores e de empresários, e as organizações sociais e cooperativas.
+
+2 - Os CLDS previstos no número anterior identificam todas as necessidades sociais e económicas que, direta ou indiretamente, foram expostas com os incêndios, partindo da identificação já efetuada de prejuízos, a completar ou atualizar sempre que necessário.
+
+3 - O Governo cria os mecanismos necessários para assegurar o financiamento a 100 % dos projetos inseridos nos CLDS, no âmbito da lei de Orçamento do Estado, do Portugal 2020, do PDR 2020 ou do Portugal 2030.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+### Capítulo III — OPERACIONALIZAÇÃO DAS MEDIDAS DE APOIO
+
+###### Artigo 30.º — Entidade competente para a atribuição dos apoios
+
+1 - Os apoios previstos no presente decreto-lei são concedidos pela CCDR, IP, territorialmente competente, quando não se preveja expressamente a sua concessão por outra entidade específica.
+
+2 - Compete à CCDR, IP, territorialmente competente a responsabilidade pela gestão e coordenação global da aplicação dos apoios previstos no presente decreto-lei, incluindo, designadamente, a condução dos procedimentos necessários à sua atribuição, bem como a gestão das disponibilidades financeiras, sem prejuízo da responsabilidade direta das autarquias locais.
+
+3 - Para a atribuição e gestão dos apoios a conceder são celebrados protocolos de colaboração entre as CCDR, IP, e as autarquias locais ou empresas do setor público empresarial, no âmbito das suas atribuições.
+
+4 - Para a prossecução dos apoios, as CCDR, IP, dispõem das seguintes receitas:
+
+a) Verbas provenientes do Orçamento do Estado, a título de adiantamento de comparticipação a obter dos fundos europeus que, a cada ano, sejam alocados a este objetivo;
+
+b) Outras receitas que, por lei, contrato, ato ou regulamento, venham a ser afetas às CCDR, IP.
+
+5 - As medidas necessárias à mobilização das verbas previstas na alínea a) do número anterior são adotadas por despacho do membro do Governo responsável pela área das finanças, com recurso à dotação do Ministério das Finanças.
+
+6 - As receitas referidas na alínea b) do n.º 4 ficam consignadas ao pagamento dos apoios concedidos no âmbito do presente decreto-lei.
+
+7 - O disposto no n.º 4 não exclui a possibilidade de aplicação de verbas provenientes de financiamento com recurso a fundos europeus, em função da sua elegibilidade.
+
+###### Artigo 30.º-A — Reforço de profissionais nos serviços públicos
+
+1 - O Governo reforça o número de profissionais afetos aos serviços públicos necessários para a concretização das medidas de apoio previstas no presente decreto-lei.
+
+2 - Sem prejuízo da afetação de profissionais provenientes de outros serviços, nos serviços públicos dos municípios abrangidos pela resolução do Conselho de Ministros, referida no n.º 2 do artigo 1.º, devem ser tomadas as medidas de contratação de profissionais adequadas à execução do presente decreto-lei.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 31.º — Despesas elegíveis
+
+1 - São consideradas elegíveis as despesas efetuadas ao abrigo da resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 1.º, desde que devidamente documentadas através de fatura.
+
+2 - Salvaguarda-se a possibilidade de estarem previstas outras formas de comprovação de despesas elegíveis, em regulamentação específica que determine as condições para atribuição dos apoios previstos no presente decreto-lei, nomeadamente no que concerne a apoios geridos por outras entidades.
+
+###### Artigo 32.º — Prazos para candidaturas
+
+Podem candidatar-se à concessão dos apoios previstos no presente decreto-lei os beneficiários elegíveis, nos termos específicos de cada apoio, durante 8 meses contados desde o início do período temporal fixado na resolução do Conselho de Ministros a que se refere o n.º 2 do artigo 1.º
+
+###### Artigo 33.º — Balcão de apoio
+
+1 - As estruturas desconcentradas das CCDR, IP, dispõem de um balcão de apoio às vítimas dos incêndios, requerentes dos apoios previstos no presente decreto-lei.
+
+2 - O Governo garante a criação de uma rede de balcões com uma base concelhia.
+
+3 - Os municípios abrangidos pelo âmbito territorial da resolução do Conselho de Ministros, a que se refere o n.º 2 do artigo 1.º, podem celebrar protocolos com a CCDR, IP, competente para a criação de balcões próprios, em articulação com as respetivas freguesias.
+
+4 - Os balcões de apoio previstos no número anterior disponibilizam formulários de acesso, sendo a CCDR, IP, territorialmente competente, responsável por auxiliar os requerentes no seu correto preenchimento.
+
+5 - Os formulários de acesso aos apoios, a disponibilizar pela CCDR, IP, territorialmente competente, são redigidos em linguagem clara e que permita o seu fácil preenchimento.
+
+6 - A ausência ou incorreção de dados nos formulários que não sejam considerados essenciais à concessão do apoio não determina a sua rejeição pela entidade competente, estando a última obrigada a contactar o requerente e auxiliar a sanar eventuais irregularidades existentes, quando possível, de forma a instruir o procedimento de forma correta e célere.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 33.º-A — Financiamento
+
+O Governo adota, anualmente, as medidas necessárias à utilização do Fundo de Socorro Social e à dotação provisional do Ministério das Finanças, devendo igualmente desencadear os procedimentos necessários à mobilização do Fundo de Solidariedade da União Europeia, para financiar os encargos gerados com os apoios previstos no presente decreto-lei, sem prejuízo do recurso aos mecanismos identificados em artigos anteriores.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 34.º — Avaliação e disponibilização de informação online
+
+1 - Sem prejuízo de outras medidas de avaliação, o Governo deve proceder à publicitação semestral de relatórios de progresso, com o grau de concretização dos apoios atribuídos.
+
+2 - Os formulários de acesso, a informação referente aos apoios e os relatórios de progresso são disponibilizados online.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+### Capítulo IV — Procedimentos pós-incêndios
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 34.º-A — Definição de procedimentos pós-incêndios
+
+1 - O Governo desenvolve, imediatamente após o rescaldo dos incêndios de grandes dimensões, as seguintes medidas de recuperação e salvaguarda dos terrenos afetados e de reposição das respetivas condições de produção:
+
+a) Estabilização dos solos e estabilidade de vertentes;
+
+b) Retirada do material lenhoso ardido e armazenamento da madeira em condições adequadas de segurança e de manutenção do seu estado;
+
+c) Alimentação, abeberamento e cuidado geral com os animais selvagens sobreviventes, identificando zonas críticas e reforçando o financiamento dos centros de recuperação;
+
+d) Reposição da cobertura vegetal do solo;
+
+e) Controlo de infestantes e espécies exóticas e prevenção da regeneração descontrolada de espécies florestais indesejadas;
+
+f) Proteção e estabilização das margens dos cursos de água, promovendo a recuperação de galerias ripícolas;
+
+g) Intervenção de emergência para a apicultura, se aplicável;
+
+h) Reflorestação das áreas afetadas.
+
+2 - O Governo define, através de decreto regulamentar, protocolos de execução das medidas identificadas no número anterior, assegurando a consulta das organizações representativas dos produtores florestais e dos agricultores.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 34.º-B — Entidades envolvidas
+
+O Governo define as entidades responsáveis pela execução das medidas e ações constantes do decreto regulamentar previsto no n.º 2 do artigo anterior e assegura, sempre que necessário, a contratação de serviços para garantir essa execução.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 34.º-C — Divulgação de procedimentos pós-incêndios
+
+Após a publicação do decreto regulamentar previsto no n.º 2 do artigo 34.º-A, o Governo promove a realização de uma campanha a nível nacional, de divulgação dos procedimentos a adotar em situações de pós-incêndios e dos apoios disponíveis para a sua concretização.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 34.º-D — Mecanismos próprios de intervenção
+
+O Governo garante a existência de mecanismos próprios para a intervenção de emergência nos territórios afetados por grandes incêndios florestais, sem prejuízo do direito de retorno.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 34.º-E — Apoios para as áreas ardidas de menor dimensão
+
+O Governo assegura medidas de apoio específicas para a realização de trabalhos de estabilização de emergência nos solos das áreas ardidas de menor dimensão.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+### Capítulo IV — MEDIDAS EXCECIONAIS DE CONTRATAÇÃO PÚBLICA
+
+### Capítulo V
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 35.º — Âmbito das medidas excecionais de contratação pública
+
+1 - Os procedimentos de contratação pública adotados ao abrigo das medidas excecionais previstas neste capítulo são aplicáveis às intervenções necessárias à recuperação dos danos causados nas áreas afetadas pelos incêndios rurais, incluindo os ambientais.
+
+2 - As medidas excecionais, visando exclusivamente prosseguir as finalidades previstas no número anterior, são aplicáveis aos procedimentos de contratação pública da responsabilidade:
+
+a) Da administração direta e indireta do Estado, incluindo o setor público empresarial, com respeito pelo disposto no artigo 37.º;
+
+b) Da administração local.
+
+###### Artigo 36.º — Regime dos procedimentos de ajuste direto e consulta prévia
+
+1 - A escolha do ajuste direto ou consulta prévia permite a celebração de contratos de empreitada de obras públicas de valor inferior ao referido na alínea a) do artigo 4.º da Diretiva 2014/24/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, independentemente da natureza da entidade adjudicante.
+
+2 - Sem prejuízo do disposto na alínea b) do artigo 4.º da Diretiva 2014/24/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, a escolha do ajuste direto nos termos do n.º 1 do artigo anterior permite a celebração de contratos de locação ou aquisição de bens móveis e de aquisição de serviços de valor inferior ao referido na alínea c) do artigo 4.º da Diretiva 2014/24/UE, do Parlamento Europeu e do Conselho, de 26 de fevereiro de 2014, independentemente da natureza da entidade adjudicante.
+
+3 - O disposto no presente artigo não prejudica o disposto nos artigos 23.º a 27.º do Código dos Contratos Públicos (CCP), aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.
+
+###### Artigo 37.º — Escolha das entidades convidadas
+
+1 - Aos procedimentos abrangidos pelo presente decreto-lei não se aplicam as limitações constantes dos n.<sup>os </sup>2 a 5 do artigo 113.º do CCP.
+
+2 - Sem prejuízo do disposto nos números anteriores, por cada ajuste direto que respeite a contratos de empreitada de obras públicas:
+
+a) As entidades adjudicantes encontram-se limitadas a realizar até 5 ajustes diretos por adjudicatário; e
+
+b) Cada ajuste direto só pode incluir até ao máximo de 20 fogos objeto de reconstrução ou reabilitação.
+
+###### Artigo 37.º-A — Qualificação como urgência imperiosa
+
+Os atos e contratos celebrados ao abrigo do regime excecional de contratação pública previsto no presente decreto-lei qualificam-se como de urgência imperiosa resultante de acontecimentos imprevisíveis pela entidade adjudicante, para os efeitos do disposto no n.º 5 do artigo 45.º da Lei n.º 98/97, de 26 de agosto, na sua redação atual, isentando-os de visto prévio do Tribunal de Contas.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 57-A/2025 - Diário da República n.º 184/2025, Suplemento, Série I de 2025-09-24](https://diariodarepublica.pt/dr/detalhe/lei/57-a-2025-936209745)
+
+###### Artigo 38.º — Regime excecional de autorização da despesa
+
+1 - As despesas plurianuais que resultam do presente decreto-lei encontram-se tacitamente deferidas após apresentação de portaria de extensão de encargos junto do Ministério das Finanças, desde que sob o mesmo não recaia despacho de indeferimento no prazo de 10 dias, competindo ao Ministério das Finanças os normais procedimentos de publicação.
+
+2 - As alterações orçamentais que envolvam reforço, por contrapartida de outras rubricas de despesa efetiva, do agrupamento 02 a que se refere a alínea c) do n.º 1 do artigo 11.º do Decreto-Lei n.º 13-A/2025, de 10 de março, na sua redação atual, ou aquele que lhe venha a suceder, ou em alínea que a venha a substituir na lei de Orçamento do Estado a cada ano, são autorizados pelo membro do Governo responsável pela respetiva área setorial.
+
+3 - A autorização prevista no número anterior não se aplica aos reforços do agrupamento 02 por contrapartida do agrupamento 01 - Despesas com pessoal.
+
+4 - Nos casos devidamente justificados, quando seja necessária a descativação de verbas para o cumprimento dos objetivos do presente decreto-lei, a mesma será tacitamente deferida 10 dias após a respetiva apresentação do pedido.
+
+5 - Os valores resultantes do regime excecional de autorização de despesa não podem exceder o valor máximo de € 5 000 000,00 por ministério.
+
+###### Artigo 39.º — Regime excecional de autorização administrativa
+
+1 - Às aquisições realizadas ao abrigo do presente decreto-lei aplicam-se, a título excecional, as seguintes regras de autorização administrativa:
+
+a) A decisão de contratar a aquisição de serviços cujo objeto sejam estudos, pareceres, projetos e serviços de consultoria, bem como quaisquer trabalhos especializados, é da competência do membro do Governo responsável pela respetiva área setorial;
+
+b) Os pareceres necessários à decisão de contratar são tacitamente deferidos 10 dias após a sua receção pela respetiva entidade administrativa com competência para o efeito, quando a mesma não se oponha.
+
+2 - Os valores resultantes do regime excecional de autorização administrativa não podem exceder o valor de € 5 000 000,00 por ministério.
+
+###### Artigo 40.º — Aplicação subsidiária do Código dos Contratos Públicos
+
+Em tudo o que não esteja especialmente previsto no presente capítulo é aplicável subsidiariamente o disposto no CCP.
+
+### Capítulo V — DISPOSIÇÕES COMPLEMENTARES E FINAIS
+
+### Capítulo VI
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 41.º — Proibição de cumulação de apoios
+
+1 - Os apoios atribuídos ao abrigo do presente decreto-lei não são cumuláveis com outros apoios públicos de idêntica natureza e fim, exceto quando expressamente permitido.
+
+2 - O montante correspondente a indemnizações, recebidas para cobrir, total ou parcialmente, os danos causados pela ocorrência dos incêndios, é deduzido ao valor dos apoios.
+
+3 - Os apoios atribuídos ao abrigo do presente decreto-lei são imediatamente suspensos pela entidade que os atribuiu, em caso de prática, por ação ou omissão, de factos indiciadores de situações irregulares, designadamente de cumulação indevida de apoios.
+
+4 - A prática dos factos previstos no número anterior implica, pelo organismo público que identificar a cumulação de apoios, a obrigação de comunicação dos factos de que tenha conhecimento ao Ministério Público, para o apuramento de eventuais responsabilidades cíveis ou criminais, sem prejuízo da comunicação à Autoridade Tributária e Aduaneira, nos termos e para os efeitos previstos nos n.<sup>os </sup>3 e 4 do artigo seguinte.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2026 - Diário da República n.º 3/2026, Série I de 2026-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2026-996007052), em vigor a partir de 2026-01-07
+
+###### Artigo 42.º — Incumprimento
+
+1 - O incumprimento pelos beneficiários das obrigações relativas à entrega das informações e documentação necessárias à verificação da aplicação regular dos apoios concedidos ao abrigo do presente decreto-lei, bem como as omissões ou a prestação de falsas declarações ou outros atos ilícitos relativos a condições determinantes da atribuição de apoio determinam a suspensão dos pagamentos e a devolução das quantias indevidamente recebidas.
+
+2 - A devolução das quantias indevidamente recebidas abrange os juros de mora à taxa legal, contados desde a data da disponibilização dos apoios.
+
+3 - Compete à Autoridade Tributária e Aduaneira, nos termos do Código de Procedimento e de Processo Tributário, promover a cobrança coerciva dos montantes previstos nos números anteriores que não forem devolvidos voluntariamente, bem como dos custos administrativos e dos juros de mora devidos.
+
+4 - Para efeitos do número anterior, a Autoridade Tributária e Aduaneira instaura um processo de execução fiscal, após prévia comunicação das CCDR, IP, mediante a emissão do respetivo título executivo, nos termos dos artigos 163.º e 164.º do Código de Procedimento e de Processo Tributário.
+
+###### Artigo 43.º — Regulamentação
+
+As condições dos apoios previstos no presente decreto-lei são objeto de regulamentação, por portaria ou despacho, conforme aplicável, dos membros do Governo responsáveis pelas áreas em que se incluam os respetivos apoios, designadamente, e sem prejuízo da demais regulamentação prevista ou daquela que se revele necessária, no prazo máximo de 5 dias a contar da data da publicação do presente decreto-lei:
+
+a) Da área da saúde, relativamente ao previsto no n.º 5 do artigo 3.º;
+
+b) Da área do trabalho e segurança social, relativamente ao previsto nos artigos 4.º, 6.º, 7.º e 9.º, no n.º 2 do artigo 10.º e, em conjunto o membro do Governo responsável pela área das finanças, no artigo 11.º;
+
+c) Da área da economia, relativamente ao previsto no artigo 18.º;
+
+d) Da área da agricultura e florestas, relativamente ao previsto nos artigos 5.º, 21.º e, no âmbito da sua competência, o artigo 26.º;
+
+e) Da área do ambiente e energia, relativamente ao previsto no artigo 26.º, no âmbito da sua competência;
+
+f) Da área da administração local, relativamente ao previsto no artigo 28.º
+
+###### Artigo 44.º — Entrada em vigor e produção de efeitos
+
+1 - Sem prejuízo do disposto no número seguinte, o presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+2 - O presente decreto-lei produz efeitos a partir do dia 1 de julho de 2025.
+
+Visto e aprovado em Conselho de Ministros de 21 de agosto de 2025. - Luís Montenegro - José Maria Gonçalves Pereira Brandão de Brito - Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz - Maria Lúcia da Conceição Abrantes Amaral - Ana Paula Martins - Adriano Rafael Sousa Moreira - João Manuel do Amaral Esteves - José Manuel Fernandes.
+
+Promulgado em 23 de agosto de 2025.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 23 de agosto de 2025.
+
+O Primeiro-Ministro, Luís Montenegro.

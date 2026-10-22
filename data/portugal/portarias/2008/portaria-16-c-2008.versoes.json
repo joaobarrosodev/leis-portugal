@@ -1,0 +1,84 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:242876:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-169825553",
+ "dre_path": "/dr/detalhe/portaria/16-c-2008-242876",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-01-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169829906"
+   ]
+  },
+  {
+   "date": "2010-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:343081:por",
+     "title": "Portaria n.º 653/2010",
+     "published": "2010-08-11",
+     "dre_path": "/dr/detalhe/portaria/653-2010-343081"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "169829899",
+    "169829887"
+   ]
+  },
+  {
+   "date": "2016-02-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73576685:por",
+     "title": "Portaria n.º 24-A/2016",
+     "published": "2016-02-11",
+     "dre_path": "/dr/detalhe/portaria/24-a-2016-73576685"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "169829906",
+    "169829887"
+   ]
+  }
+ ],
+ "fragments": {
+  "169829906": {
+   "fragment_id": "169825554",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2016-02-12",
+   "changed_by": [],
+   "markdown": "Portaria n.º 16-C/2008\n\nde 9 de Janeiro\n\nA Lei n.º 55/2007, de 31 de Agosto, criou a contribuição de serviço rodoviário (CSR), visando financiar a rede rodoviária nacional a cargo da EP - Estradas de Portugal, S. A., tendo igualmente estabelecido as condições da sua aplicação.\n\nEm consequência, tendo em consideração a incidência e o valor da CSR e o princípio da neutralidade fiscal previsto na referida lei, torna-se necessário baixar as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) incidentes sobre a gasolina e o gasóleo rodoviário, no exacto montante do valor da CSR, fixado para aqueles produtos.\n\nPor outro lado, dando continuidade ao processo de harmonização progressiva da taxa do ISP aplicável ao gasóleo de aquecimento com a do gasóleo rodoviário, medida que decorre do Programa Nacional para as Alterações Climáticas, importa alterar igualmente a taxa do referido produto.\n\nAssim, no quadro do disposto nos n.os 1 e 2 do artigo 64.º da Lei n.º 67-A/2007, de 31 de Dezembro, que determina o modo de fixação dos valores das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos aplicáveis no continente às gasolinas e aos gasóleos, procede-se à alteração das taxas unitárias do ISP incidentes sobre a gasolina sem chumbo, sobre o gasóleo rodoviário e sobre o gasóleo de aquecimento, mantendo-se em vigor o adicional às taxas do ISP incidentes sobre a gasolina sem chumbo e o gasóleo rodoviário, nos termos previstos nos n.os 1 e 2 do artigo 65.º da Lei n.º 67-A/2007, de 31 de Dezembro.\n\nNestes termos:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Economia e da Inovação, em cumprimento do estabelecido nos n.os1 e 2 artigo 64.º da Lei n.º 67-A/2007, de 31 de Dezembro, e nos n.os 1 e 8 do artigo 73.º do Código dos Impostos Especiais sobre o Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, o seguinte:\n\n1.º (Revogado.)\n\n2.º (Revogado.)\n\n3.º (Revogado.)\n\n4.º São revogados os n.os 8.º e 9.º da Portaria n.º 510/2005, de 9 de Junho, e as Portarias n.os 30A/2007, de 5 de Janeiro, e 211/2007, de 22 de Fevereiro.\n\n5.º A presente portaria produz efeitos a partir de 1 de Janeiro de 2008, salvo no que respeita ao disposto no n.º 3.º, bem como à revogação da Portaria n.º 211/2007, de 22 de Fevereiro, a que se refere a parte final do n.º 4.º, que apenas produzem efeitos no dia seguinte ao da sua publicação.\n\nEm 2 de Janeiro de 2008."
+  },
+  "169829899": {
+   "fragment_id": "169825554",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2010-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 653/2010 - Diário da República n.º 155/2010, Série I de 2010-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/653-2010-343081), em vigor a partir de 2010-09-01"
+   ],
+   "markdown": "Portaria n.º 16-C/2008\n\nde 9 de Janeiro\n\nA Lei n.º 55/2007, de 31 de Agosto, criou a contribuição de serviço rodoviário (CSR), visando financiar a rede rodoviária nacional a cargo da EP - Estradas de Portugal, S. A., tendo igualmente estabelecido as condições da sua aplicação.\n\nEm consequência, tendo em consideração a incidência e o valor da CSR e o princípio da neutralidade fiscal previsto na referida lei, torna-se necessário baixar as taxas unitárias do imposto sobre os produtos petrolíferos e energéticos (ISP) incidentes sobre a gasolina e o gasóleo rodoviário, no exacto montante do valor da CSR, fixado para aqueles produtos.\n\nPor outro lado, dando continuidade ao processo de harmonização progressiva da taxa do ISP aplicável ao gasóleo de aquecimento com a do gasóleo rodoviário, medida que decorre do Programa Nacional para as Alterações Climáticas, importa alterar igualmente a taxa do referido produto.\n\nAssim, no quadro do disposto nos n.os 1 e 2 do artigo 64.º da Lei n.º 67-A/2007, de 31 de Dezembro, que determina o modo de fixação dos valores das taxas unitárias do imposto sobre os produtos petrolíferos e energéticos aplicáveis no continente às gasolinas e aos gasóleos, procede-se à alteração das taxas unitárias do ISP incidentes sobre a gasolina sem chumbo, sobre o gasóleo rodoviário e sobre o gasóleo de aquecimento, mantendo-se em vigor o adicional às taxas do ISP incidentes sobre a gasolina sem chumbo e o gasóleo rodoviário, nos termos previstos nos n.os 1 e 2 do artigo 65.º da Lei n.º 67-A/2007, de 31 de Dezembro.\n\nNestes termos:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Economia e da Inovação, em cumprimento do estabelecido nos n.os1 e 2 artigo 64.º da Lei n.º 67-A/2007, de 31 de Dezembro, e nos n.os 1 e 8 do artigo 73.º do Código dos Impostos Especiais sobre o Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, o seguinte:\n\n1.º A taxa do imposto sobre os produtos petrolíferos e energéticos (ISP) aplicável à gasolina com teor de chumbo igual ou inferior a 0,013 g por litro, classificada pelos códigos NC 2710 11 41 a 2710 11 49, é de (euro) 518,95 por 1000 l.\n\n2.º A taxa do ISP aplicável ao gasóleo, classificado pelos códigos NC 2710 19 41 a 2710 19 49, é de (euro) 278,41 por 1000 l.\n\n3.º (Revogado.)\n\n4.º São revogados os n.os 8.º e 9.º da Portaria n.º 510/2005, de 9 de Junho, e as Portarias n.os 30A/2007, de 5 de Janeiro, e 211/2007, de 22 de Fevereiro.\n\n5.º A presente portaria produz efeitos a partir de 1 de Janeiro de 2008, salvo no que respeita ao disposto no n.º 3.º, bem como à revogação da Portaria n.º 211/2007, de 22 de Fevereiro, a que se refere a parte final do n.º 4.º, que apenas produzem efeitos no dia seguinte ao da sua publicação.\n\nEm 2 de Janeiro de 2008.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 653/2010 - Diário da República n.º 155/2010, Série I de 2010-08-11](https://diariodarepublica.pt/dr/detalhe/portaria/653-2010-343081), em vigor a partir de 2010-09-01"
+  },
+  "169829887": {
+   "fragment_id": "169825555",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho."
+  }
+ }
+}

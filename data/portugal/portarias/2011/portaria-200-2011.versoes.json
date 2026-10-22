@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:287775:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-116458532",
+ "dre_path": "/dr/detalhe/portaria/200-2011-287775",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-05-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116458608",
+    "116458609",
+    "116458610",
+    "116458611",
+    "116458612",
+    "116458613",
+    "116458614",
+    "116458615",
+    "116458616"
+   ]
+  },
+  {
+   "date": "2018-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116433035:por",
+     "title": "Portaria n.º 267/2018",
+     "published": "2018-09-20",
+     "dre_path": "/dr/detalhe/portaria/267-2018-116433035"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "116458608",
+    "116458668",
+    "116458610",
+    "116458611",
+    "116458612",
+    "116458613",
+    "116458614",
+    "116458615",
+    "116458616",
+    "116458617"
+   ]
+  }
+ ],
+ "fragments": {
+  "116458608": {
+   "fragment_id": "116458533",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 200/2011\n\nde 20 de Maio\n\nNo âmbito do objectivo central de simplificação constante do plano do Governo de combate à complexidade dos processos e de redução do volume dos documentos e da rigidez das práticas administrativas e partindo do alerta para alguns problemas concretos na aplicação do Código das Custas Judiciais e para alguns aspectos disfuncionais do respectivo regime, procedeu-se a uma ampla reforma, cujas linhas de orientação foram, fundamentalmente, as seguintes:\n\na) Repartição mais justa e adequada dos custos da justiça;\n\nb) Moralização e racionalização do recurso aos tribunais, com o tratamento diferenciado dos litigantes em massa;\n\nc) Adopção de critérios de tributação mais claros e objectivos;\n\nd) Reavaliação do sistema de isenção de custas;\n\ne) Simplificação da estrutura jurídica do sistema de custas processuais e unificação da respectiva regulamentação;\n\nf) Redução do número de execuções por custas.\n\nUm dos factores que em muito contribui para o congestionamento do sistema judicial é a «colonização» dos tribunais por parte de um conjunto de empresas cuja actividade representa uma fonte, constante e ilimitada, de processos de cobrança de dívidas de pequeno valor. Estas acções de cobrança e respectivas execuções, que representam mais de metade de toda a pendência processual, ilustram um panorama de recurso abusivo aos meios judiciais sem consideração pelos meios de justiça preventiva.\n\nNeste âmbito, introduziram-se medidas penalizadoras da «litigância em massa», mediante a fixação de uma taxa de justiça especial para as pessoas colectivas comerciais que tenham um volume anual de entradas, em tribunal, no ano anterior, superior a 200 acções, procedimentos ou execuções.\n\nO processo de acompanhamento da implementação do novo regime das custas processuais teve como resultado, por exemplo, a promoção do desenvolvimento de uma aplicação informática de custas judiciais que, com o mínimo esforço de adaptação, e com o aproveitamento de todo o trabalho já efectuado nos sistemas informáticos existentes (SICJ e SICPRO), permitindo uma gestão mais eficaz do processo de liquidação, cobrança e registo das receitas próprias dos tribunais.\n\nCom esse esforço de desenvolvimento informático há hoje melhores condições e maior capacidade de operacionalização do regime da taxa de justiça agravada com maior eficácia e celeridade.\n\nAssim:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, ao abrigo do disposto no artigo 13.º do Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de Fevereiro, alterado pela Lei n.º 43/2008, de 27 de Agosto, pelo Decreto-Lei n.º 181/2008, de 28 de Agosto, e pela Lei n.º 64-A/2008, de 31 de Dezembro:"
+  },
+  "116458609": {
+   "fragment_id": "116458534",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nDeterminação das sociedades comerciais a que se aplica as tabelas I-C e II-B do Regulamento das Custas Processuais\n\n1 - Para efeitos de aplicação da taxa de justiça prevista nas tabelas I-C e II-B do Regulamento das Custas Processuais, de acordo com o n.º 3 do artigo 13.º do RCP:\n\na) Até ao dia 15 de Janeiro de cada ano civil, é elaborada pela Direcção-Geral da Administração da Justiça, em colaboração com o Instituto das Tecnologias de Informação na Justiça, I. P., e com o Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P., uma lista de sociedades comerciais que durante o ano civil anterior tenham intentado mais de 200 acções, procedimentos ou execuções;\n\nb) Até ao dia 25 de Janeiro de cada ano civil são notificadas todas as sociedades constantes da lista referida na alínea anterior, para a morada da sede constante no registo comercial, por carta registada com aviso de recepção, com indicação de terem intentado entre 200 e 500 ou mais de 500 acções, procedimentos ou execuções.\n\n2 - As sociedades comerciais que tenham sido notificadas nos termos do número anterior como tendo intentado entre 200 e 300 acções, procedimentos ou execuções podem, no prazo de 10 dias a contar da notificação prevista na alínea b) do número anterior, reclamar, fundadamente, junto da Direcção-Geral da Administração da Justiça, apresentando uma relação dos processos intentados no ano civil anterior, ordenada por comarca e número de processo.\n\n3 - A reclamação efectuada nos termos do número anterior impede a aplicação da taxa de justiça prevista nas tabelas I-C e II-B do Regulamento das Custas Processuais até à notificação da decisão da Direcção-Geral da Administração da Justiça, aplicando-se, durante esse prazo, o regime a que o reclamante estava sujeito no ano imediatamente anterior, nos casos em que a decisão não seja a de deferimento do recurso.\n\n4 - Os pedidos civis deduzidos em processo penal não são contabilizados nem agravados para efeitos da penalização do n.º 3 do artigo 13.º do RCP.\n\n5 - É publicada no sítio da Internet http://www.citius.mj.pt, no dia 15 de Fevereiro de cada ano civil, a lista de sociedades comerciais que durante o ano civil anterior tenham intentado mais de 200 acções, procedimentos ou execuções, ordenada de forma decrescente por número de acções, procedimentos ou execuções intentadas, mas sem identificação do número, e que não tenham reclamado ou às quais tenha já sido notificada a decisão da Direcção-Geral da Administração da Justiça nos termos do n.º 3.\n\n6 - A lista referida no número anterior é actualizada sempre que seja notificada uma decisão da Direcção-Geral da Administração da Justiça, nos termos do n.º 3, após o dia 15 de Fevereiro."
+  },
+  "116458610": {
+   "fragment_id": "116458535",
+   "type": 11,
+   "heading": "Artigo 2.º — Autoliquidação da taxa de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Autoliquidação da taxa de justiça\n\nAs sociedades comerciais constantes da lista referida no n.º 5 do artigo anterior ficam obrigadas, até 15 de Fevereiro do ano seguinte, a efectuarem a autoliquidação da taxa de justiça nos termos das tabelas I-C e II-B do Regulamento das Custas Processuais, em todas as acções, procedimentos ou execuções."
+  },
+  "116458611": {
+   "fragment_id": "116458536",
+   "type": 11,
+   "heading": "Artigo 3.º — Verificação automática da autoliquidação correcta da taxa de justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Verificação automática da autoliquidação correcta da taxa de justiça\n\nSempre que for intentada uma acção, procedimento ou execução através do sistema informático CITIUS, é efectuada uma verificação automática da necessidade de autoliquidar a taxa de justiça nos termos das tabelas I-C e II-B do Regulamento das Custas Processuais através do preenchimento do número fiscal do autor ou requerente, sendo disponibilizado um aviso sempre que a sociedade comercial autora ou requerente se encontre mencionada na lista referida no artigo 1.º"
+  },
+  "116458612": {
+   "fragment_id": "116458537",
+   "type": 11,
+   "heading": "Artigo 4.º — Verificação da autoliquidação correcta da taxa de justiça no tribunal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Verificação da autoliquidação correcta da taxa de justiça no tribunal\n\n1 - O sistema informático de suporte à actividade dos oficiais de justiça disponibiliza às secretarias dos tribunais um aviso automático sempre que seja registada no sistema, como autora ou requerente, uma sociedade comercial que se encontre mencionada na lista referida no artigo 1.º\n\n2 - Sempre que a secretaria verifique que a autoliquidação da taxa de justiça não foi efectuada nos termos das tabelas I-C e II-B do Regulamento das Custas Processuais, notifica o sujeito passivo para, em 10 dias, proceder ao pagamento do remanescente, sob pena de não se considerar paga a taxa de justiça.\n\n3 - Mesmo que seja efectuado o pagamento do remanescente nos termos do número anterior pode o juiz, no primeiro momento em que analisar o processo, apreciar a omissão nos termos do artigo 456.º do Código de Processo Civil."
+  },
+  "116458613": {
+   "fragment_id": "116458538",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime transitório aplicável durante o ano de 2011",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime transitório aplicável durante o ano de 2011\n\nA presente portaria aplica-se a processos intentados após o 30.º dia a contar da publicação da presente portaria até 16 de Fevereiro de 2012, com as seguintes adaptações:\n\na) Até ao 5.º dia após a publicação da presente portaria é elaborada pela Direcção-Geral da Administração da Justiça, em colaboração com o Instituto das Tecnologias de Informação na Justiça, I. P., e com o Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P., uma lista de sociedades comerciais que durante 2010 tenham intentado mais de 200 acções, procedimentos ou execuções;\n\nb) Até ao 15.º dia após a publicação da presente portaria são notificadas todas as sociedades constantes da lista referida na alínea anterior, para a morada da sede constante no registo comercial, por carta registada com aviso de recepção, com indicação de terem intentado entre 200 e 500 ou mais de 500 acções, procedimentos ou execuções;\n\nc) As sociedades comerciais que tenham sido notificadas nos termos do número anterior como tendo intentado entre 200 e 500 acções, procedimentos ou execuções podem, no prazo de 10 dias a contar da notificação, prevista na alínea anterior, reclamar, fundadamente, junto da Direcção-Geral da Administração da Justiça, apresentando uma relação dos processos intentados em 2010, ordenada por número de processo;\n\nd) É publicada no sítio da Internet http://www.citius.mj.pt, no 25.º dia após a publicação da presente portaria, a lista de sociedades comerciais que durante o ano civil anterior tenham intentado mais de 200 acções, procedimentos ou execuções, ordenada de forma decrescente, e que não tenham reclamado ou às quais tenha já sido notificada a decisão da Direcção-Geral da Administração da Justiça nos termos do n.º 3 do artigo 1.º;\n\ne) Após o 30.º dia a contar da publicação da presente portaria as sociedades comerciais constantes da lista referida no número anterior ficam obrigadas, até 16 de Fevereiro de 2012, a efectuarem a autoliquidação da taxa de justiça nos termos das tabelas I-C e II-B do Regulamento das Custas Processuais, em todas as acções, procedimentos ou execuções."
+  },
+  "116458614": {
+   "fragment_id": "116458539",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração à Portaria n.º 419-A/2009, de 17 de Abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração à Portaria n.º 419-A/2009, de 17 de Abril\n\nO artigo 7.º da Portaria n.º 419-A/2009, de 17 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\nConta definitiva\n\n1 - ...\n\n2 - ...\n\n3 - A conta é finalizada sempre que:\n\na) Nos processos de insolvência não existe qualquer verba na massa insolvente para processamento do pagamento das custas;\n\nb) Nos processos de execução em que o agente de execução não é oficial de justiça nada exista para contar; e\n\nc) Nos processos em que o responsável pelas custas tem apoio judiciário esse apoio seja numa modalidade que o dispense do pagamento de taxa de justiça e demais encargos.\n\n4 - Sempre que a conta seja finalizada nos termos do número anterior, dão-se por concluídos todos os procedimentos, devendo a secretaria apenas documentar no processo a verificação dos pressupostos do presente artigo.\n\n5 - (Anterior n.º 3.)»"
+  },
+  "116458615": {
+   "fragment_id": "116458540",
+   "type": 11,
+   "heading": "Artigo 7.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revogação\n\nÉ revogado o artigo 14.º da Portaria n.º 419-A/2009, de 17 de Abril."
+  },
+  "116458616": {
+   "fragment_id": "116458541",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nA presente portaria produz efeitos a partir do dia 13 de Maio de 2011."
+  },
+  "116458668": {
+   "fragment_id": "116458534",
+   "type": 11,
+   "heading": "Artigo 1.º — Determinação das sociedades comerciais a que se aplica as tabelas I-C e II-B do Regulamento das Custas Processuais",
+   "in_force_from": "2018-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 1.º — Determinação das sociedades comerciais a que se aplica as tabelas I-C e II-B do Regulamento das Custas Processuais\n\n1 - Para efeitos de aplicação da taxa de justiça prevista nas tabelas I-C e II-B do Regulamento das Custas Processuais, de acordo com o n.º 3 do artigo 13.º do RCP:\n\na) Até ao dia 15 de Janeiro de cada ano civil, é elaborada pela Direcção-Geral da Administração da Justiça, em colaboração com o Instituto das Tecnologias de Informação na Justiça, I. P., e com o Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P., uma lista de sociedades comerciais que durante o ano civil anterior tenham intentado mais de 200 acções, procedimentos ou execuções;\n\nb) Até ao dia 25 de Janeiro de cada ano civil são notificadas todas as sociedades constantes da lista referida na alínea anterior, para a morada da sede constante no registo comercial, por carta registada com aviso de recepção, com indicação de terem intentado entre 200 e 500 ou mais de 500 acções, procedimentos ou execuções.\n\n2 - As sociedades comerciais que tenham sido notificadas nos termos do número anterior como tendo intentado entre 200 e 300 acções, procedimentos ou execuções podem, no prazo de 10 dias a contar da notificação prevista na alínea b) do número anterior, reclamar, fundadamente, junto da Direcção-Geral da Administração da Justiça, apresentando uma relação dos processos intentados no ano civil anterior, ordenada por comarca e número de processo.\n\n3 - A reclamação efectuada nos termos do número anterior impede a aplicação da taxa de justiça prevista nas tabelas I-C e II-B do Regulamento das Custas Processuais até à notificação da decisão da Direcção-Geral da Administração da Justiça, aplicando-se, durante esse prazo, o regime a que o reclamante estava sujeito no ano imediatamente anterior, nos casos em que a decisão não seja a de deferimento do recurso.\n\n4 - Os pedidos civis deduzidos em processo penal não são contabilizados nem agravados para efeitos da penalização do n.º 3 do artigo 13.º do RCP.\n\n5 - É publicada na Área de Serviços Digitais dos Tribunais, acessível no endereço eletrónico https://tribunais.org.pt, no dia 15 de fevereiro de cada ano civil, a lista de sociedades comerciais que durante o ano civil anterior tenham intentado mais de 200 ações, procedimentos ou execuções, ordenada de forma decrescente por número de ações, procedimentos ou execuções intentadas, mas sem identificação do número, e que não tenham reclamado ou às quais tenha já sido notificada a decisão da Direção-Geral da Administração da Justiça nos termos do n.º 3.\n\n6 - A lista referida no número anterior é actualizada sempre que seja notificada uma decisão da Direcção-Geral da Administração da Justiça, nos termos do n.º 3, após o dia 15 de Fevereiro.\n\n> Alterado pelo/a Artigo 14.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30, produz efeitos a partir de 2018-11-27"
+  },
+  "116458617": {
+   "fragment_id": "116458542",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 13 de Maio de 2011. - O Ministro da Justiça, Alberto de Sousa Martins, em 12 de Maio de 2011."
+  }
+ }
+}

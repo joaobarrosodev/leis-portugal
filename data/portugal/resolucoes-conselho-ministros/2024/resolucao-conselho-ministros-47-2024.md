@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:857110190:por
+title: Resolução do Conselho de Ministros n.º 47/2024
+short_title: null
+summary: Seleciona a proposta de aquisição das ações da sociedade Banco Comercial do Atlântico, S. A.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 47/2024
+official_date: null
+publication_date: '2024-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2024, Série I de 2024-03-25
+  number: '60'
+  series: I
+  supplement: null
+  pages: 11 - 12
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06000/0001100012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/47/2024/03/25/p/dre/pt/html
+  oj: null
+  dre: '857110190'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/47-2024-857110190
+  internal: pt:dre:857110190:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/47-2024-857110190
+  metadata_url: https://data.dre.pt/eli/resolconsmin/47/2024/03/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/47-2024-857110190
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-03-25T00:00:00Z'
+integrity:
+  source_sha256: 4fab903fc572d5017eae60029e0a764d8665f61f36c54764893109f336651a28
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-47-857110190.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alienação de Acções
+- Banco Comercial
+- Caixa Geral de Depósitos
+- Capital Social
+- Regulamentação de Atos Legislativos
+- Venda Directa
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/146/2019/09/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/146/2019/09/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/108/2023/09/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/108/2023/09/19/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 47/2024
+
+O [Decreto-Lei n.º 146/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2019-125009061), de 27 de setembro, aprovou a alienação da totalidade ou parte das ações detidas, direta e indiretamente, através do Banco Interatlântico, S. A., pela Caixa Geral de Depósitos, S. A. (CGD), representativas de 59,81 % do capital social da sociedade Banco Comercial do Atlântico, S. A. (BCA), sociedade de direito cabo-verdiano, e indiretamente da totalidade ou parte do capital social das sociedades que esta detenha, direta ou indiretamente, e da totalidade ou parte dos respetivos ativos.
+
+A [Resolução do Conselho de Ministros n.º 108/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/108-2023-221797720), de 19 de setembro, selecionou os potenciais investidores a participar no processo de alienação das referidas ações e aprovou o respetivo caderno de encargos.
+
+Nos termos do disposto no n.º 1 do artigo 11.º do caderno de encargos, os três potenciais investidores selecionados pela referida Resolução do Conselho de Ministros apresentaram, dentro do prazo que foi fixado para o efeito, as respetivas propostas vinculativas de aquisição.
+
+Como previsto no artigo 13.º do caderno de encargos, após a receção das propostas vinculativas, a CGD elaborou um relatório fundamentado, datado de 10 de janeiro de 2024, de apreciação dos proponentes e das respetivas propostas vinculativas, as quais têm prazo de validade.
+
+A análise do relatório apresentado pela CGD, com a apreciação dos proponentes e das respetivas propostas vinculativas, em face dos critérios de seleção estabelecidos no artigo 5.º do caderno de encargos, conduz à seleção de um dos proponentes, atento o mérito da respetiva proposta, em especial no que respeita às condições financeiras, que permitem uma adequada salvaguarda do interesse patrimonial e financeiro das entidades alienantes, à minimização de condicionantes jurídicas, laborais, regulatórias e económico-financeiras para a concretização da aquisição e à qualidade e adequação do projeto estratégico apresentado.
+
+Dado a proposta selecionada ser válida apenas até ao dia 14 de abril de 2024, sendo ainda necessário permitir que a CGD execute atempadamente os procedimentos devidos, torna-se, assim, inadiável e urgente a aprovação da presente resolução.
+
+De modo a assegurar a transparência do processo de alienação, após a sua conclusão são colocados à disposição do Tribunal de Contas todos os elementos informativos respeitantes ao mesmo.
+
+Assim:
+
+Nos termos do n.º 3 do artigo 4.º do [Decreto-Lei n.º 146/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2019-125009061), de 27 de setembro, da [Resolução do Conselho de Ministros n.º 108/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/108-2023-221797720), de 19 de setembro, e das alíneas c) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Selecionar o proponente Coris Holding, S. A., para proceder à aquisição de 792 352 ações representativas de 59,81 % do capital social do Banco Comercial do Atlântico, S. A. (BCA), detidas direta e indiretamente pela Caixa Geral de Depósitos, S. A. (CGD), que constitui a totalidade do objeto da venda direta relativa ao processo de alienação do BCA, atendendo ao maior mérito da respetiva proposta vinculativa em relação às restantes propostas recebidas, tendo em conta a observância dos critérios de seleção previstos no artigo 5.º do caderno de encargos, aprovado em anexo à [Resolução do Conselho de Ministros n.º 108/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/108-2023-221797720), de 19 de setembro.
+
+2 - Aprovar a minuta do acordo de venda direta a celebrar entre a CGD, o Banco Interatlântico, S. A., e a Coris Holding, S. A. (proponente), proponente selecionado nos termos do número anterior, que fica arquivada na Direção-Geral do Tesouro e Finanças.
+
+3 - Determinar que a CGD proceda ao envio para o proponente da minuta do instrumento jurídico referido no número anterior, para confirmação da respetiva aceitação, notificando ainda o proponente para comprovar, até à data da celebração desse instrumento, a realização do pagamento da prestação pecuniária inicial, fixada em € 3 000 000 no [Despacho n.º 12251/2023](https://diariodarepublica.pt/dr/detalhe/despacho/12251-2023-225044439), publicado no Diário da República, 2.ª série, n.º 232, de 30 de novembro de 2023, e a prestação de garantia bancária à primeira solicitação, ou outro instrumento considerado adequado a servir a mesma finalidade, em valor correspondente à diferença entre o montante global do preço oferecido e o montante da prestação pecuniária inicial, ambos nos termos e para os efeitos previstos no referido despacho.
+
+4 - Autorizar a CGD e o Banco Interatlântico, S. A., a celebrar com o proponente selecionado, nos termos do n.º 1, o instrumento jurídico a que se refere o n.º 2, ficando o respetivo original arquivado na CGD.
+
+5 - Estabelecer, para efeitos do disposto no n.º 5 do artigo 15.º do caderno de encargos, que as condições a que fica subordinada a produção de efeitos do acordo de venda direta a celebrar pela CGD e pelo Banco Interatlântico, S. A., com o proponente selecionado se devem verificar até 12 meses após a assinatura do mesmo, nos termos e com as exceções previstos na respetiva minuta aprovada nos termos do n.º 2, sendo o pagamento integral do correspondente preço da alienação deduzido do montante da prestação pecuniária inicial a que se refere o n.º 3, efetuado uma vez preenchidas as referidas condições e nos termos previstos naquela minuta.
+
+6 - Determinar que são colocados à disposição do Tribunal de Contas todos os elementos informativos respeitantes ao processo de alienação da participação social no BCA e arquivados na CGD.
+
+7 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 14 de março de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.

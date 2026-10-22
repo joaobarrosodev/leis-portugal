@@ -1,0 +1,337 @@
+---
+schema_version: '1.0'
+id: pt:dre:513979:por
+title: Decreto n.º 43207
+short_title: null
+summary: Aprova o Regulamento de Balizagem dos Portos do Continente, Ilhas Adjacentes e Províncias Ultramarinas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério da Marinha - Direcção-Geral da Marinha
+proposing_entity: null
+official_number: '43207'
+official_date: null
+publication_date: '1960-10-08'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 234/1960, Série I de 1960-10-08
+  number: '234'
+  series: I
+  supplement: null
+  pages: 2228 - 2233
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/10/23400/22282233.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '513979'
+  dre_path: /dr/detalhe/decreto/43207-1960-513979
+  internal: pt:dre:513979:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/43207-1960-513979
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43207-1960-513979
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-12-19T00:00:00Z'
+integrity:
+  source_sha256: 349dec361664df6c760e10b0ba1d375d84eede0c68a82253c0d93ca36e8395b5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-43207-513979.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:623855:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 43207
+
+Considerando que a importância e a extensão da balizagem marítima vêm de há muito reclamando um conjunto de medidas atinentes ao seu aperfeiçoamento e uniformização;
+
+Considerando que mal se compreenderia que a respectiva regulamentação se não generalizasse a todo o conjunto do território nacional;
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo único. É aprovado o Regulamento de Balizagem dos Portos do Continente, Ilhas Adjacentes e Províncias Ultramarinas, que faz parte integrante do presente diploma e baixa assinado pelos Ministros da Marinha, das Obras Públicas, do Ultramar e das Comunicações.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 8 de Outubro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Carlos Gomes da Silva Ribeiro.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.
+
+Regulamento de Balizagem dos Portos do Continente, Ilhas Adjacentes e Províncias Ultramarinas
+
+Definições
+
+Os sinais aos quais se aplicam as regras de balizagem que adiante se indicam compreendem, à excepção dos faróis, todas as marcas fixas e flutuantes que servem para indicar:
+
+a) Os limites laterais e os eixos dos canais navegáveis;
+
+b) Os perigos naturais;
+
+c) Os barcos naufragados e outros obstáculos;
+
+d) Os pontos de aterragem e outros de interesse para o navegante.
+
+Estes sinais podem ser bóias e balizas.
+
+As balizas podem apresentar formas e estruturas variadas, como pequenas torres, marcos de madeira ou alvenaria, suportes de luzes, etc.
+
+Sistema empregado
+
+Em Portugal continental, ilhas adjacentes e províncias ultramarinas emprega-se exclusivamente o sistema lateral de balizagem.
+
+Formas características das marcas
+
+As características dos principais tipos de marcas fixas ou flutuantes são dadas quer pela forma da parte superior do próprio corpo da marca, quer pela forma de uma superstrutura ou alvo ligado a esta.
+
+Sistema lateral
+
+A) Posição das marcas
+
+A posição das marcas no sistema lateral é determinada segundo a direcção geral seguida pelo navegante, vindo do largo e que se dirige para um porto, rio ou canal navegável.
+
+A palavra «estibordo» indica a margem direita do navegante que vem do mar e a palavra «bombordo» a margem esquerda.
+
+B) Principais tipos de marcas
+
+Os principais tipos de marcas usados no sistema lateral são os seguintes:
+
+Cónico, cilíndrico, esférico, de antena e de fuso.
+
+C) Forma dos alvos
+
+Os alvos, a respeito dos quais o presente e regulamento contém disposições precisas, apresentam os contornos aparentes seguintes: cone, cilindro, esfera, cones unidos pelas bases ou pelos vértices, cruz de S. Jorge e T.
+
+D) Sinais ou marcas nas margens dos canais
+
+Os sinais ou marcas nas margens dos canais são caracterizados do seguinte modo:
+
+Sinais ou marcas de estibordo:
+
+Forma ou tipo: cónica ou de antena.
+
+Cor: preta ou, no caso de marcas cónicas, xadrez preto e branco; nas marcas de antena, preta, com a parte superior branca.
+
+Alvo: um cone com a ponta para cima, pintado de preto, ou dois cones unidos pela base, salvo na entrada de um canal. Nas marcas de antena pode utilizar-se uma vassoura, com a aparência de um cone, com o vértice para cima.
+
+Sinais ou marcas de bombordo:
+
+Forma ou tipo: cilíndrica ou de antena.
+
+Cor: vermelha ou, no caso de marcas cilíndricas, xadrez vermelho e branco.
+
+Alvo: um cilindro pintado de vermelho ou um T, salvo na entrada de um canal. Nas marcas de antena pode utilizar-se uma vassoura, com a aparência de cone, com o vértice para baixo.
+
+E) Aposição de números e letras
+
+Se os sinais ou marcas das margens de um canal tiverem números ou letras pintados, a numeração ou a ordem alfabética das letras deve começar a partir do mar, ficando os números ímpares a estibordo e os números pares a bombordo. Se a diferenciação for feita por letras, a letra A deve corresponder à primeira bóia ou marca a estibordo, vindo do mar.
+
+F) Luzes
+
+As luzes nos sinais ou marcas das margens de um canal deverão distinguir-se pela sua cor, ou pelo seu ritmo, ou também por uma combinação de cor e de ritmo:
+
+a) A estibordo: luz verde fixa, de relâmpagos, ou de ocultações, ou luz branca de um ou três relâmpagos ou ocultações, ou simultâneamente luzes verdes e brancas com as características acima mencionadas;
+
+b) A bombordo: luz vermelha fixa, de relâmpagos ou de ocultações, ou luz branca com dois ou quatro relâmpagos ou ocultações ou simultâneamente luzes vermelhas e brancas com as características acima mencionadas.
+
+G) Sinais ou marcas de bifurcação e de confluência
+
+Os sinais ou marcas de bifurcação e de confluência têm as seguintes características:
+
+Forma ou tipo: esférica ou de antena.
+
+Cor: faixas horizontais vermelhas e brancas quando o canal principal está à direita ou quando os dois canais têm igual importância; faixas horizontais pretas e brancas quando o canal principal está à esquerda.
+
+Alvos:
+
+a) Canal principal à direita:
+
+Bifurcação: um cilindro (pintado de vermelho).
+
+Confluência: um T (pintado de vermelho).
+
+b) Canal principal à esquerda:
+
+Bifurcação: um cone com o vértice para cima (pintado de preto).
+
+Confluência: dois cones unidos pela base (pintados de preto).
+
+c) Canais de igual importância:
+
+Bifurcação: uma esfera (pintada de vermelho).
+
+Confluência: uma cruz de S. Jorge (pintada de vermelho).
+
+Nota. - Se o sinal ou marca for de antena, colocar-se-á um alvo esférico por baixo de cada um dos alvos indicados nas alíneas a), b) e c).
+
+Luzes: as características das luzes montadas nestas marcas ou sinais devem ser o mais possível distintas das luzes próximas, de modo que não possa haver quaisquer dúvidas quanto ao bordo em que a marca deve ser deixada.
+
+H) Sinais ou marcas de meio canal
+
+Os sinais ou marcas situadas no meio de um canal utilizam-se para indicar a parte profunda de um canal navegável. Podem ser deixadas por um bordo ou por outro, mas de preferência devem ser deixadas a bombordo. Estas marcas apresentam as seguintes características:
+
+Forma: deve ser quanto possível conspícua e diferente das principais formas e características já indicadas - cónica, cilíndrica ou esférica.
+
+Cor: faixas verticais alternadamente pretas e brancas, ou vermelhas e brancas.
+
+Alvos: formas conspícuas, não devendo, portanto, ser o cone de ponta para cima, o cilindro ou a esfera.
+
+Luzes: com características diferentes das luzes vizinhas das marcas das margens do canal.
+
+I) Sinais ou marcas de perigo isolado
+
+Quando se quiser utilizar uma marca especial para um perigo que é possível assinalar com uma marca única e que se pode deixar por um ou outro bordo, a marca terá as características seguintes:
+
+Forma ou tipo: esférica ou de antena.
+
+Cor: largas faixas horizontais pretas ou vermelhas separadas por uma faixa estreita branca.
+
+Alvo: uma esfera pintada de preto ou vermelho, ou nas duas cores preta e vermelha, separadas por uma linha horizontal.
+
+Luz: de relâmpagos ou de grupos de relâmpagos brancos ou vermelhos.
+
+J) Sinais ou marcas de aterragem
+
+As marcas de aterragem, que são marcas em águas navegáveis indicando a aproximação de um porto ou da foz de um rio, têm as características seguintes:
+
+Forma: conspícua, podendo ser de fuso alongado ou com torreta.
+
+Cor: faixas verticais, alternadamente pretas e brancas, ou vermelhas e brancas.
+
+Alvos: à escolha.
+
+Luz: branca, de relâmpagos.
+
+K) Naufrágios
+
+Disposições gerais
+
+Os sinais indicativos de navio naufragado são pintados de verde, levando a letra W e a palavra «Naufrágio» pintadas a branco.
+
+Sendo possível, pintar-se-á também neles a silhueta de um barco naufragado, tal como este é representado nas cartas hidrográficas.
+
+Características: cor verde, incluindo o alvo.
+
+a) Caso em que o sinal deve ser deixado por estibordo:
+
+Forma ou tipo: cónica ou de antena.
+
+Alvo: cónico.
+
+Luz: verde, com três relâmpagos.
+
+b) Caso em que o sinal deve ser deixado por bombordo:
+
+Forma ou tipo: cilíndrica ou de antena.
+
+Alvo: cilíndrico.
+
+Luz: verde, com dois relâmpagos.
+
+c) Caso em que o sinal pode ser deixado por qualquer dos bordos:
+
+Forma ou tipo: esférica ou de antena.
+
+Alvo: esférico.
+
+Luz: verde de ocultações, sendo o período da luz nìtidamente maior do que o da obscuridade.
+
+Quando o navio naufragado for assinalado por várias marcas luminosas, as luzes devem ser diferenciadas por períodos diferentes, respeitando-se as prescrições anteriores.
+
+Marcas diversas
+
+L) Fundeadouro de quarentena
+
+Forma: qualquer, desde que não dê origem a confufusão com as prescrições anteriores.
+
+Cor: amarela.
+
+Luz: não tem.
+
+M) Marcas, indicando colectores, canalizações, depósitos de dragados e outros materiais
+
+Forma: qualquer, desde que não dê origem a confusão com as prescrições anteriores.
+
+Cor: amarela em cima e preta em baixo.
+
+Luz: qualquer, tendo-se em consideração as características dos sinais luminosos das proximidades.
+
+N) Zonas utilizadas para exercícios e operações de forças da Marinha, do Exército ou da Aviação
+
+Forma: qualquer, desde que não dê origem a confusão com as prescrições anteriores.
+
+Cor: branca com duas faixas azuis, cruzando-se em ângulo recto na extremidade superior do eixo vertical do corpo da marca, descendo até ao nível da água e representando, vista de cima, uma cruz azul sobre fundo branco, nos quais se pode inscrever as letras Z. P., indicando a zona perigosa.
+
+Disposições diversas
+
+O) Alvos
+
+Os alvos podem ser repetidos por sobreposição sobre o mesmo sinal para facilitar a diferenciação, quando haja muitas marcas próximas e parecidas.
+
+P) Enfiamentos e alinhamentos
+
+As marcas para definirem a parte profunda de um canal devem ter as seguintes características:
+
+Forma: qualquer.
+
+Cor: branca.
+
+Luzes: ritmadas, de características diferentes nos enfiamentos.
+
+Q) Suportes fixos das luzes
+
+Devem ser pintados da cor que caracteriza a sua posição; não podendo ser pintados com esta cor, não deve ser empregada a cor característica oposta.
+
+R) Luzes fixas
+
+O emprego de luzes fixas, especialmente de luzes fixas ou flutuantes brancas, deve ser evitado.
+
+Ministério da Marinha, 8 de Outubro de 1960. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira. - O Ministro do Ultramar, Vasco Lopes Alves. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
+
+Diagramas ilustrando as marcas de balizagem definidas no regulamento
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1960/10/23400/22282233.pdf))](https://files.diariodarepublica.pt/1s/1960/10/23400/22282233.pdf)
+
+Ministério da Marinha, 8 de Outubro de 1960. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira. - O Ministro do Ultramar, Vasco Lopes Alves. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

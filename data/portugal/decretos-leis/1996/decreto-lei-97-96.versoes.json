@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:413776:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-944396256",
+ "dre_path": "/dr/detalhe/decreto-lei/97-1996-413776",
+ "source_lastmod": "2025-11-04",
+ "versions": [
+  {
+   "date": "1996-07-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944396285",
+    "944396286",
+    "944396287",
+    "944396288",
+    "944396289"
+   ]
+  },
+  {
+   "date": "1996-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:578083:por",
+     "title": "Declaração de Rectificação n.º 11-O/96",
+     "published": "1996-07-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/11-o-1996-578083"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º"
+   ],
+   "fragments": [
+    "944396285",
+    "944396286",
+    "944396287",
+    "944396293",
+    "944396289",
+    "944396290"
+   ]
+  }
+ ],
+ "fragments": {
+  "944396285": {
+   "fragment_id": "944396257",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 97/96\n\nde 18 de Julho\n\nA legislação relativa à atribuição de pensões por serviços excepcionais ou relevantes prestados ao País tem sido objecto, desde 1985, de algumas alterações que tiveram em vista o aperfeiçoamento do respectivo regime. Foi o caso dos Decretos-Leis n.os 413/85, de 18 de Outubro, 140/87, de 20 de Março, 215/87, de 29 de Maio, 43/88, de 8 de Fevereiro, 266/88, de 28 de Julho, e 136/92, de 16 de Julho, os quais vieram introduzir alterações ao Decreto-Lei n.º 404/82, de 24 de Setembro, o diploma básico da regulamentação da concessão das referidas pensões.\n\nCom o presente diploma pretende rever-se a redacção dos artigos 3.º e 28.º do Decreto-Lei n.º 404/82.\n\nSão do conhecimento público as graves consequências dos incêndios florestais que, todos os anos, e essencialmente na época do Verão, têm ocorrido em vastas zonas do País.\n\nA par de elevados prejuízos materiais, tem sido de lamentar o número considerável de vítimas verificado por ocasião e durante o cumprimento da missão de combate a tais sinistros.\n\nOs bombeiros, demais pessoal integrado em corpos ou serviços destacados para o combate aos fogos e simples cidadãos que tombaram ou se incapacitaram em consequência da luta travada em defesa de vidas e bens ameaçados merecem o respeito e o reconhecimento da comunidade, a qual não pode ficar indiferente perante essas delicadas situações pessoais e familiares.\n\nAssim, para além da admiração e da homenagem que toda a comunidade lhes possa tributar, é justo que o Estado compense materialmente quem se incapacitou nessa nobre actuação, bem como as famílias daqueles que então pereceram.\n\nO Decreto-Lei n.º 413/85, de 18 de Outubro, introduziu alterações ao Decreto-Lei n.º 404/82, de 24 de Setembro, por forma a abranger as situações atrás descritas, através da possibilidade de concessão, quer da pensão de preço de sangue, quer da pensão por serviços excepcionais ou relevantes.\n\nPor outro lado, a concessão das pensões por serviços excepcionais ou relevantes prestados ao País é precedida, nos termos do artigo 28.º do Decreto-Lei n.º 404/82 (na redacção dada pelo Decreto-Lei n.º 140/87, de 20 de Março), de parecer favorável do Supremo Tribunal Militar, quando o facto justificativo da pensão seja a prática de actos realizados em teatro de guerra, e de parecer da Procuradoria-Geral da República nos demais casos.\n\nSucede, porém, que o Supremo Tribunal Administrativo tem recusado a aplicação do citado artigo 28.º do Decreto-Lei n.º 404/82 com fundamento na sua inconstitucionalidade, decorrente da violação do artigo 215.º da Constituição da República Portuguesa.\n\nTambém o Tribunal Constitucional, em sede de fiscalização concreta, já decidiu ser aquela disposição legal (na parte em que atribui ao Supremo Tribunal Militar competência para emitir parecer) inconstitucional, por violação dos artigos 113.º, n.º 2, e 215.º da Constituição.\n\nImporta, assim, corrigir a situação, cometendo à Procuradoria-Geral da República a competência para a emissão de parecer relativamente a todos os casos.\n\nCom o presente diploma pretende-se ainda aditar um artigo ao Decreto-Lei n.º 404/82, de 24 de Setembro, de forma a permitir que o Conselho de Ministros possa atribuir a pensão de preço de sangue, onde tal se imponha por razões humanitárias, pelo falecimento de cidadãos portugueses no desempenho de missões no estrangeiro ao serviço do Estado Português.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "944396286": {
+   "fragment_id": "944396258",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO artigo 3.º do Decreto-Lei n.º 404/82, de 24 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\n1 - ...\n\na) ...\n\nb) A prática, por qualquer cidadão, de acto humanitário ou de dedicação à causa pública de que resulte a incapacidade física ou o falecimento do seu autor.\n\n2 - ...»"
+  },
+  "944396287": {
+   "fragment_id": "944396259",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO artigo 28.º do Decreto-Lei n.º 404/82, de 24 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 28.º\n\nA concessão de pensões prevista no artigo anterior é efectuada por despacho conjunto do Primeiro-Ministro e do Ministro das Finanças, precedendo parecer favorável da Procuradoria-Geral da República.»"
+  },
+  "944396288": {
+   "fragment_id": "944396260",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ aditado o artigo 3.º-A ao Decreto-Lei n.º 404/82, de 24 de Setembro.\n\n«Artigo 3.º-A\n\n1 - O Conselho de Ministros poderá, mediante resolução, quando razões humanitárias o justifiquem, conceder a pensão de preço de sangue pelo falecimento de cidadão português, nas condições referidas no artigo 2.º, no desempenho de missão no estrangeiro ao serviço do Estado Português.\n\n2 - Os beneficiários da pensão atribuída nos termos do número anterior serão os expressamente designados pela resolução do Conselho de Ministros no respeito pelo disposto no artigo 4.º\n\n3 - A pensão atribuída nos termos do n.º 1 será calculada e paga conforme o disposto nos artigos 9.º e 13.º\n\n4 - O beneficiário não pode acumular a pensão atribuída nos termos do n.º 1 deste artigo com qualquer outra pensão atribuída em consequência dos mesmos factos.»"
+  },
+  "944396289": {
+   "fragment_id": "944396261",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nEste diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "944396293": {
+   "fragment_id": "944396260",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1996-07-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 11-O/96 - Diário da República n.º 176/1996, 2º Suplemento, Série I-A de 1996-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-o-1996-578083), em vigor a partir de 1996-07-31"
+   ],
+   "markdown": "###### Artigo 3.º\n\nÉ aditado o artigo 3.º-A ao Decreto-Lei n.º 404/82, de 24 de Setembro.\n\n«Artigo 3.º-A\n\n1 - O Conselho de Ministros poderá, mediante resolução, quando razões humanitárias o justifiquem, conceder a pensão de preço de sangue pelo falecimento de cidadão português, nas condições referidas no artigo 2.º, no desempenho de missão no estrangeiro ao serviço do Estado Português.\n\n2 - Os beneficiários da pensão atribuída nos termos do número anterior serão os expressamente designados pela resolução do Conselho de Ministros no respeito pelo disposto no artigo 4.º\n\n3 - A pensão atribuída nos termos do n.º 1 será calculada e paga conforme o disposto nos artigos 9.º e 13.º\n\n4 - O beneficiário não pode acumular a pensão atribuída nos termos do n.º 1 deste artigo com qualquer outra pensão atribuída em consequência dos mesmos factos.»\n\n> Retificado pelo/a [Declaração de Rectificação n.º 11-O/96 - Diário da República n.º 176/1996, 2º Suplemento, Série I-A de 1996-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/11-o-1996-578083), em vigor a partir de 1996-07-31"
+  },
+  "944396290": {
+   "fragment_id": "944396262",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Junho de 1996. - António Manuel de Oliveira Guterres - José Júlio Pereira Gomes - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 5 de Julho de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Julho de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

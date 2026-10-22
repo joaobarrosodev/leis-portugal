@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:59231563:por
+title: Resolução do Conselho de Ministros n.º 71/2014
+short_title: null
+summary: Cria o Grupo de Acompanhamento para a Salvaguarda e Promoção da Dieta Mediterrânica
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 71/2014
+official_date: null
+publication_date: '2014-12-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 232/2014, Série I de 2014-12-01
+  number: '232'
+  series: I
+  supplement: null
+  pages: 6015 - 6016
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/12/23200/0601506016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/71/2014/12/01/p/dre/pt/html
+  oj: null
+  dre: '59231563'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/71-2014-59231563
+  internal: pt:dre:59231563:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/71-2014-59231563
+  metadata_url: https://data.dre.pt/eli/resolconsmin/71/2014/12/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/71-2014-59231563
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-12-01T00:00:00Z'
+integrity:
+  source_sha256: 170fc75f2ccaa488a2563d4a414351f858e430b4394ed2dcb1f8536d823c9d32
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2014/DRE-2014-71-59231563.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Património Cultural Imaterial
+- Unesco
+- Gastronomia
+- Conselho de Ministros
+- Portugal
+- ONU
+- Grupo de Trabalho
+- Prazo
+- Agricultura
+- Relatório
+- Tavira
+- DIETA MEDITERRÂNICA
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 71/2014
+
+A inscrição da «Dieta Mediterrânica» como património cultural e imaterial da humanidade da Organização das Nações Unidas para a Educação, Ciência e Cultura (UNESCO) envolveu sete países. Quatro desses países obtiveram este reconhecimento em 2010 (Grécia, Itália, Marrocos e Espanha), sendo que o reconhecimento de Portugal, Croácia e Chipre ocorreu em 2013. Aquando do primeiro reconhecimento de 2010, a estratégia seguida pela primeira candidatura, que foi replicada pela mais recente, passou por identificar uma comunidade representativa por país que, pela sua herança patrimonial, natural e cultural, traduzisse de forma clara os valores da «Dieta Mediterrânica». Em Portugal, a comunidade local representativa da inscrição é a cidade de Tavira.
+
+Os sete países mencionados apresentaram ao Comité Intergovernamental para a Salvaguarda do Património Cultural e Imaterial da UNESCO uma nova candidatura, cujo processo foi coordenado por Portugal, que veio a ser aprovada pelo referido Comité, por unanimidade e sem quaisquer recomendações adicionais, em 4 de dezembro de 2013, em Baku, no Azerbaijão. Esta candidatura correspondeu a um profícuo trabalho de três anos, materializado na coordenação dos países envolvidos e na promoção e valorização da «Dieta Mediterrânica», que foi dinamizado por um grupo de trabalho informal coordenado pelo Ministério da Agricultura e do Mar (MAM) e composto por representantes de instituições públicas integradas no próprio MAM (Gabinete de Planeamento e Políticas, Instituto Nacional de Investigação Agrária e Veterinária, I. P., e Direção Regional de Agricultura e Pescas do Algarve), na Presidência do Conselho de Ministros (Direção-Geral do Património Cultural e Comissão de Coordenação e Desenvolvimento Regional do Algarve), no Ministério dos Negócios Estrangeiros (Comissão Nacional da UNESCO), no Ministério da Economia (Turismo de Portugal, I. P.) e no Ministério da Saúde (Direção-Geral de Saúde) e, bem assim, pelo Município de Tavira, pela Ordem dos Nutricionistas e por instituições da sociedade civil, designadamente a Fundação Portuguesa de Cardiologia.
+
+Ao longo de três anos, o referido grupo de trabalho reuniu mensalmente, tendo em vista a apresentação da candidatura da «Dieta Mediterrânica» como património cultural e imaterial da humanidade da UNESCO, e o seu trabalho ficou marcado pela integridade profissional e cívica dos seus representantes, pelo rigor técnico-científico e pelo carácter residual da despesa pública envolvida.
+
+Atualmente, e na sequência da inscrição da «Dieta Mediterrânica» como património cultural e imaterial da humanidade da UNESCO, o grupo de trabalho tem sido chamado a prosseguir o trabalho de salvaguarda e de promoção deste património cultural, responsabilidade que terá de continuar a assumir nos anos vindouros, de modo a conservar esta importante distinção para Portugal.
+
+Outro domínio que presentemente assume grande relevância diz respeito à coordenação entre os Países que possuem esta inscrição, o que se consubstanciou, desde logo, na primeira reunião de coordenação entre os sete países, que teve lugar em 28 e 29 de abril de 2014, em Chipre, na qual a delegação portuguesa, constituída pelos representantes do MAM e da Câmara Municipal de Tavira, consensualizou com os restantes países inscritos uma estratégia de cooperação e coordenação da rede para os próximos dois anos, também ela fundamental perante a UNESCO.
+
+Assim, tendo em consideração o acréscimo da responsabilidade que impende sobre Portugal e atenta a necessidade de proceder ao reconhecimento oficial do trabalho desenvolvido pelo referido grupo de trabalho, cumpre formalizar a sua existência, o qual se passará a denominar Grupo de Acompanhamento para a Salvaguarda e Promoção da Dieta Mediterrânica (GADM). No GADM têm assento os representantes das entidades públicas e privadas que constituíram o grupo de trabalho informal e, bem assim, um representante do Ministério da Educação e Ciência, cuja presença demonstra a importância que revestem a promoção e a divulgação da Dieta Mediterrânica junto dos mais jovens, designadamente ao nível dos curricula e nas cantinas escolares, assim partilhando com a população estudantil os benefícios para a saúde e para o bem-estar que a Dieta Mediterrânica propicia. Afigura-se, por fim, útil que exista a devida articulação entre o GADM e o grupo de trabalho para a divulgação da gastronomia portuguesa, criado pelo [Despacho n.º 5642/2014](https://diariodarepublica.pt/dr/detalhe/despacho/5642-2014-25685739), de 1 de abril, publicado no Diário da República, 2.ª série, n.º 82, de 29 de abril de 2014.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar o Grupo de Acompanhamento para a Salvaguarda e Promoção da Dieta Mediterrânica (GADM).
+
+2 - Estabelecer que o GADM tem por missão:
+
+a) Contribuir para o conhecimento, salvaguarda e promoção da Dieta Mediterrânica (DM) em Portugal;
+
+b) Divulgar o conceito de DM e sensibilizar para a importância desta manifestação do património cultural imaterial, atendendo ao disposto nas Diretrizes Operativas para a Aplicação da Convenção para a Salvaguarda do Património Cultural Imaterial;
+
+c) Prestar as informações sobre a DM em resposta a solicitações de entidades públicas ou privadas, incluindo a comunicação social;
+
+d) Acompanhar a implementação a nível nacional do Plano de Salvaguarda proposto em sede de candidatura da DM à Lista Representativa do Património Cultural Imaterial da Humanidade da UNESCO;
+
+e) Representar Portugal ao nível da coordenação internacional entre os países que partilham com Portugal o reconhecimento conferido pela UNESCO.
+
+3 - Determinar que o GADM é composto por um representante de cada uma das seguintes entidades:
+
+a) Ministério da Agricultura e do Mar, através do Gabinete da Ministra da Agricultura e do Mar;
+
+b) Comissão Nacional da UNESCO;
+
+c) Comissão de Coordenação e Desenvolvimento Regional do Algarve;
+
+d) Direção-Geral do Património Cultural;
+
+e) Turismo de Portugal, I. P.;
+
+f) Gabinete de Planeamento, Políticas e Administração Geral do Ministério da Agricultura e do Mar;
+
+g) Direção Regional de Agricultura e Pescas do Algarve;
+
+h) Instituto Nacional de Investigação Agrária e Veterinária, I. P.;
+
+i) Direção-Geral da Saúde;
+
+j) Direção-Geral da Educação;
+
+k) Instituto de Estudos de Literatura Tradicional - Patrimónios, Artes e Culturas, Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa;
+
+l) Ordem dos Nutricionistas;
+
+m) Fundação Portuguesa de Cardiologia;
+
+n) Movimento Mulheres de Vermelho;
+
+o) Projeto Memóriamedia;
+
+p) Representantes de outras entidades que se revelem importantes na prossecução dos objetivos de divulgação e promoção da DM e que sejam designadas por decisão unânime do GADM.
+
+4 - Determinar que o GADM é composto ainda por dois representantes da Câmara Municipal de Tavira.
+
+5 - Determinar que a coordenação do GADM é assegurada pelo membro que para o efeito for designado pelo membro do Governo responsável pela área da agricultura e que compete ao Gabinete de Planeamento, Políticas e Administração Geral prestar o apoio técnico e de secretariado necessários ao funcionamento do GADM.
+
+6 - Determinar que as ações desenvolvidas pelo GADM são suportadas pelo orçamento das entidades que compõem o GADM, de acordo e na medida da intervenção das entidades nas referidas ações, podendo ainda ser suportadas por fundos comunitários, patrocínios e mecenato.
+
+7 - Determinar que a participação nas reuniões ou em quaisquer outras atividades do GADM não confere aos seus membros, ainda que na qualidade de suplentes, nem aos seus convidados o direito a qualquer prestação, independentemente da respetiva natureza, designadamente a título de remuneração, compensação, subsídio, senha de presença ou ajudas de custo.
+
+8 - Estabelecer que o GADM reporta anualmente ao membro de Governo responsável pela área da agricultura as atividades por si desenvolvidas.
+
+9 - Determinar que o GADM aprova o seu regulamento interno, estabelecendo, designadamente, a possibilidade de constituição de subcomissões com missões específicas ou com carácter sectorial, e suas regras de funcionamento, a forma e a antecedência da convocatória para as reuniões, o regime de funcionamento destas e o modo e a forma das decisões, o qual é homologado pelo membro de Governo responsável pela área da agricultura.
+
+10 - Estabelecer que, no prazo de 10 dias a contar da data da entrada em vigor da presente resolução, as entidades referidas nos n.os 3 e 4 indicam ao membro do Governo responsável pela área da agricultura os seus representantes.
+
+11 - Determinar que a missão do GADM cessa em 31 de dezembro de 2017, data até à qual este grupo de acompanhamento apresenta ao Conselho de Ministros um relatório fundamentado relativo ao cumprimento das ações por si desenvolvidas, a fim de ser avaliada a necessidade de eventual prosseguimento da sua missão.
+
+12 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 13 de novembro de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.

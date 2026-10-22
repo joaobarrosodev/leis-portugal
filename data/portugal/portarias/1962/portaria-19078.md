@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:518240:por
+title: Portaria n.º 19078
+short_title: null
+summary: Estabelece certos preceitos destinados a facilitar a fiscalização sanitária dos produtos medicamentosos importados
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde e Assistência - Direcção-Geral de Saúde
+proposing_entity: null
+official_number: '19078'
+official_date: null
+publication_date: '1962-03-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 58/1962, Série I de 1962-03-15
+  number: '58'
+  series: I
+  supplement: null
+  pages: 238 - 238
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/03/05800/02380238.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '518240'
+  dre_path: /dr/detalhe/portaria/19078-1962-518240
+  internal: pt:dre:518240:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19078-1962-518240
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19078-1962-518240
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-03-15T00:00:00Z'
+integrity:
+  source_sha256: b86ef4eade5bae95ffd38b0174b9461bad258324078c0ddd4b1db688bb2f3690
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-19078-518240.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19078
+
+Devendo começar em breve a ser distribuído o 1.º suplemento à Farmacopeia Portuguesa, nas condições expressas no [Decreto-Lei n.º 42824](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42824-1960-279262), de 28 de Janeiro de 1960, é oportuno reforçar com novas providências a garantia de que as substâncias medicinais chegam ao público em boas condições de pureza e actividade.
+
+Embora, na verdade, pertença ao farmacêutico assumir a responsabilidade relativamente à qualidade dos produtos que fornece, não se afigura demasiada cautela estabelecer certas práticas destinadas a facilitar a fiscalização sanitária, em ordem a estender essa responsabilidade a outros intervenientes no ciclo económico dos produtos, quando for caso disso.
+
+Nestes termos, de harmonia com o disposto no § único do artigo 24.º do [Decreto n.º 17636](https://diariodarepublica.pt/dr/detalhe/decreto/17636-1929-290255), de 19 de Novembro de 1929:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, o seguinte:
+
+1.º Os produtos medicamentosos importados a granel para serem fraccionados pelo importador deverão ser acondicionados em instalações convenientes e sob vigilância técnica adequada, usando embalagens apropriadas às suas condições de conservação.
+
+2.º Dos rótulos dessas embalagens deverão constar:
+
+a) A indicação do importador que procedeu ao fraccionamento;
+
+b) A declaração de que o produto satisfaz às características da Farmacopeia Portuguesa ou é próprio para usos farmacêuticos, quando nela não venha inscrito;
+
+c) O número do boletim referente à análise feita ao produto.
+
+3.º Fica proibido colocar em Portugal rótulos fornecidos por fabricante estrangeiro.
+
+4.º Os produtos medicamentosos importados em embalagens originais do fabricante para serem entregues intactas ao consumidor devem ser acompanhados de certificados de análise do produto efectuada na origem, fazendo-se dela expressa menção no respectivo rótulo.
+
+§ único. Poderá o importador, por etiqueta ou marca, indicar na embalagem destes produtos que estes também foram analisados em Portugal.
+
+5.º Nos fornecimentos do produtos medicamentosos em quantidades inferiores ao conteúdo das menores embalagens usuais deve o armazenista, além do rótulo, indicar, por etiqueta ou marca, que o produto satisfaz à Farmacopeia Portuguesa ou é próprio para usos farmacêuticos, quando nela não venha inscrito.
+
+Ministério da Saúde e Assistência 15 de Março de 1962. - O Ministro da Assistência, Henrique de Miranda Vasconcelos Martins de Carvalho.

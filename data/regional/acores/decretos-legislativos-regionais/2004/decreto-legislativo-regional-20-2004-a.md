@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:281203:por
+title: Decreto Legislativo Regional n.º 20/2004/A
+short_title: null
+summary: Primeira alteração ao Decreto Legislativo Regional n.º 9/2003/A, de 12 de Março, que cria o Conselho Regional de
+  Concertação Estratégica
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 20/2004/A
+official_date: null
+publication_date: '2004-06-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 130/2004, Série I-A de 2004-06-03
+  number: '130'
+  series: I
+  supplement: null
+  pages: 3501 - 3502
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/06/130a00/35013502.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/20/2004/06/03/a/dre/pt/html
+  oj: null
+  dre: '281203'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/20-2004-281203
+  internal: pt:dre:281203:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2004-281203
+  metadata_url: https://data.dre.pt/eli/declegreg/20/2004/06/03/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2004-281203
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-07-05T00:00:00Z'
+integrity:
+  source_sha256: 7a62229d8c07696a5ef026f2227234a723da11166dafda9cfb5cebd1009d34c8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2004/DRE-2004-20-281203.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Regional de Concertação Estratégica
+- Orgânica
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:115645080:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/9/2003/03/12/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/9/2003/03/12/a/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 20/2004/A
+
+Primeira alteração ao [Decreto Legislativo Regional n.º 9/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2003-214716), de 12 de Março (cria o Conselho Regional de Concertação Estratégica).
+
+O sector da construção civil e obras públicas tem vindo a ganhar uma forte importância no contexto regional, como o denotam os últimos indicadores disponíveis, que colocam o sector em causa como o primeiro em volume de emprego.
+
+A cada vez maior complexidade deste forte segmento da economia, aliada ao seu crescimento, fez surgir na sociedade açoriana uma organização autónoma de empresários ligados a este ramo de actividade, a Associação dos Industriais de Construção e Obras Públicas dos Açores (AICOPA), à qual importa dar a expressão que merece no contexto regional.
+
+Destinando-se o Conselho Regional de Concertação Estratégica a promover um conjunto de iniciativas determinantes para a definição das principais linhas de actuação da Região nos domínios económico, social e ambiental, a riqueza do debate interno e a clareza das opções assumidas robuster-se-á com a integração da referida associação neste órgão de consulta e concertação.
+
+A Assembleia Legislativa Regional decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:
+
+###### Artigo 1.º — Alteração
+
+O artigo 3.º do [Decreto Legislativo Regional n.º 9/2003/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2003-214716), de 12 de Março, passa a ter a seguinte redacção:
+
+«Artigo 3.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) Nove representantes dos empregadores, sendo três a designar pela Câmara de Comércio e Indústria dos Açores, um a designar pela Associação dos Industriais de Construção e Obras Públicas dos Açores (AICOPA), três a designar pela Federação Agrícola dos Açores, um a designar pela Associação de Jovens Empresários dos Açores e um das organizações patronais da pesca;
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+i) ...
+
+j) ...
+
+k) ...
+
+l) ...
+
+m) ...
+
+2 - ...
+
+3 - ...»
+
+###### Artigo 2.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 20 de Abril de 2004.
+
+**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+
+**Assinado em Angra do Heroísmo em 12 de Maio de 2004.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Álvaro José Brilhante Laborinho Lúcio.**

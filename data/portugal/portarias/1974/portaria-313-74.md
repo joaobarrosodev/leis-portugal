@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:266125:por
+title: Portaria n.º 313/74
+short_title: null
+summary: Cria na Escola Náutica «Infante D. Henrique» vários cursos de aperfeiçoamento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Gabinete do Ministro
+proposing_entity: null
+official_number: 313/74
+official_date: null
+publication_date: '1974-04-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 96/1974, 1º Suplemento, Série I de 1974-04-24
+  number: '96'
+  series: I
+  supplement: 1º Suplemento
+  pages: 580-(17) a 580-(17)
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/04/09601/00170017.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '266125'
+  dre_path: /dr/detalhe/portaria/313-1974-266125
+  internal: pt:dre:266125:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-1974-266125
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/313-1974-266125
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1974-04-24T00:00:00Z'
+integrity:
+  source_sha256: 562a20f865f81e2e0a30c5ee379e3086c4bf178502333c3ecf4b3a48fddde656
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1974/DRE-1974-313-266125.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 313/74
+
+de 24 de Abril
+
+Considerando-se de toda a vantagem melhorar os conhecimentos técnicos dos oficiais de pilotagem da marinha mercante e de algumas categorias de marítimos da classe de mestrança na técnica de navegação por radar;
+
+Ao abrigo do disposto no artigo 46.º e nos n.os 2 e 3 do artigo 84.º do Regulamento da Escola Náutica «Infante D. Henrique», aprovado e posto em execução pelo [Decreto n.º 348/72](https://diariodarepublica.pt/dr/detalhe/decreto/348-1972-688606), de 5 de Setembro, e nos artigos 30.º e 84.º do Regulamento da Escola de Mestrança e Marinhagem, aprovado e posto em execução pelo [Decreto n.º 345/72](https://diariodarepublica.pt/dr/detalhe/decreto/345-1972-688589), de 30 de Agosto:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+
+1.º São criados na Escola Náutica «Infante D. Henrique» os seguintes cursos de aperfeiçoamento:
+
+a) Curso de navegação por radar para oficiais;
+
+b) Curso de navegação por radar para mestrança.
+
+2.º O curso de navegação por radar para oficiais destina-se a melhorar os conhecimentos dos oficiais de pilotagem da marinha mercante no sector da técnica de navegação por radar.
+
+3.º O curso de navegação por radar para mestrança destina-se a melhorar os conhecimentos de certas categorias de marítimos da classe de mestrança no sector da técnica de navegação por radar.
+
+4.º Os cursos citados nos números anteriores terão a duração que for fixada por despacho do Ministro da Marinha, mediante proposta do director da Escola.
+
+5.º Os certificados dos referidos cursos são do modelo anexo a este diploma.
+
+Ministério da Marinha, 22 de Abril de 1974. - O Ministro da Marinha, Manuel Pereira Crespo.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1974/04/09601/00170017.pdf))](https://files.diariodarepublica.pt/1s/1974/04/09601/00170017.pdf)
+
+**O Ministro da Marinha, Manuel Pereira Crespo.**

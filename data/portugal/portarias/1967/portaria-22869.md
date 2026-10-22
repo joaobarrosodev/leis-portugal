@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:390587:por
+title: Portaria n.º 22869
+short_title: null
+summary: Torna extensivo às províncias ultramarinas, observadas as disposições constantes da presente portaria, o novo Código
+  Civil, aprovado pelo Decreto-Lei n.º 47344
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Justiça
+proposing_entity: null
+official_number: '22869'
+official_date: null
+publication_date: '1967-09-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 206/1967, Série I de 1967-09-04
+  number: '206'
+  series: I
+  supplement: null
+  pages: 1582 - 1583
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/09/20600/15821583.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390587'
+  dre_path: /dr/detalhe/portaria/22869-1967-390587
+  internal: pt:dre:390587:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22869-1967-390587
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22869-1967-390587
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1974-04-24T00:00:00Z'
+integrity:
+  source_sha256: 50d09c87535d9de04d6a6cdb1ff549b9faaa5f383e9a156c5e0399662d345c0e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1967/DRE-1967-22869-390587.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:266129:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22869
+
+Com a publicação na metrópole do novo Código Civil, aprovado pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de Novembro de 1966, torna-se necessária a sua aplicação ao ultramar português, não só como afirmação política da unidade nacional, mas também pela conveniência de regular uniformemente as múltiplas relações de direito privado de todos os portugueses, qualquer que seja o local do território nacional onde se encontrem, com excepção apenas dos que ainda se regem pelos usos e costumes legalmente reconhecidos e só na medida em que a lei admite a sua observância. Mas mesmo a estes o novo Código é aplicável sempre que optem pela lei geral ou quando entrem em relação com pessoas de diferente estatuto pessoal e não exista lei especial a prevenir a hipótese, nem tenha sido escolhida outra lei reguladora dessas relações.
+
+Por outro lado, há ainda que ressalvar a diversa legislação privativa de natureza civil das províncias ultramarinas, quando traduza interesses superiores, situações enraizadas nas tradições locais ou condicionalismos próprios que convém respeitar.
+
+Nestes termos:
+
+Ouvido o Conselho Ultramarino, usando da faculdade conferida pelo n.º III da base LXXXIII da Lei Orgânica do Ultramar Português:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+
+1.º É tornado extensivo às províncias ultramarinas o novo Código Civil, aprovado pelo [Decreto-Lei n.º 47344](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47344-1966-477358), de 25 de Novembro de 1966.
+
+2.º - 1. O Código Civil entra em vigor em todo o território ultramarino no dia 1 de Janeiro de 1968, à excepção do disposto nos artigos 1841.º a 1850.º, que começará a vigorar sòmente em 1 de Agosto do mesmo ano.
+
+2. O Código não é, porém, aplicável às acções que estejam pendentes nos tribunais no dia da sua entrada em vigor, salvo o disposto nos artigos 15.º e 19.º da presente portaria.
+
+3.º - 1. Desde que principie a vigorar o Código Civil, fica revogada toda a legislação civil relativa às matérias por ele abrangidas.
+
+2. É, porém, ressalvada a legislação privativa de natureza civil, emanada dos órgãos legislativos metropolitanos ou provinciais, que vigorar em cada província ultramarina.
+
+4.º Todas as remissões para a Código Civil de 1867, constantes de preceitos legais, consideram-se feitas para as disposições correspondentes do Código.
+
+5.º A aplicação das disposições do Código a factos passados fica subordinada às regras do artigo 12.º do mesmo diploma, com as modificações e os esclarecimentos constantes dos números seguintes.
+
+6.º As disposições dos artigos 157.º a 194.º do Código Civil não prejudicam as normas de direito público contidas em leis administrativas.
+
+7.º Os dementes, surdos-mudos ou pródigos que tinham sido total ou parcialmente interditos do exercício de direitos, ou venham a sê-lo em acções pendentes, mantêm o grau de incapacidade que lhes tiver sido ou vier a ser fixado na sentença ou que resultar da lei anterior.
+
+8.º - 1. Não são reconhecidos para o futuro, salvo em acções pendentes, os privilégios e hipotecas legais que não sejam concedidos no Código Civil, mesmo quando conferidos em legislação especial.
+
+2. Exceptuam-se os privilégios e hipotecas legais concedidos ao Estado ou a outras pessoas colectivas públicas, quando se não destinem à garantia de débitos fiscais.
+
+9.º Às sociedades universais e familiares constituídas até 31 de Dezembro de 1967 serão aplicáveis, até à sua extinção, respectivamente, as disposições dos artigos 1243.º a 1248.º e 1281.º a 1297.º do Código Civil de 1867.
+
+10.º Ao contrato de parceria agrícola são aplicáveis, para o futuro, as disposições que regulam o arrendamento rural.
+
+11.º - 1. Os casamentos civis celebrados até 31 de Dezembro de 1967 não podem ser declarados nulos ou anulados, se para tal não houver fundamento reconhecido tanto pela lei antiga como pela nova lei civil, a não ser que esteja pendente, naquela data, a respectiva acção.
+
+2. O disposto nos artigos 1639.º a 1646.º do Código é aplicável às acções que forem intentadas depois de 31 de Dezembro de 1967, sem prejuízo do que, relativamente aos prazos, prescreve o artigo 297.º do mesmo diploma.
+
+12.º O disposto nos artigos 1671.º a 1697.o do Código é aplicável aos casamentos celebrados até 31 de Dezembro de 1967, mas em caso algum serão anulados os actos praticados pelos cônjuges na vigência da lei antiga, se em face desta não estiverem viciados.
+
+13.º O preceituado nos artigos 1717.º a 1752.º só é aplicável aos casamentos celebrados até 31 de Dezembro de 1967 na medida em que for considerado como interpretativo do direito vigente, salvo pelo que respeita ao n.º 2 do artigo 1739.º
+
+14.º - 1. Sem prejuízo da regra estabelecida no n.º 2 do n.º 2.º desta portaria, são aplicáveis aos casamentos celebrados até 31 de Dezembro de 1967 as disposições do Código Civil relativas à caducidade das doações para casamento, às doações entre casados, à separação dos cônjuges ou dos seus bens e ao divórcio.
+
+2. Não pode, no entanto, ser decretada a separação judicial de pessoas e bens ou o divórcio de cônjuges casados até 31 de Dezembro de 1967 com fundamento em facto que não seja relevante segundo a lei vigente à data da sua verificação.
+
+15.º O disposto no artigo 1793.º é aplicável nas acções pendentes e nos processos findos à data da entrada em vigor do Código Civil.
+
+16.º - 1. Até 31 de Maio de 1968 pode o marido da mãe intentar acção de impugnação da paternidade, com fundamento em qualquer dos factos referidos nas alíneas c) e d) do artigo 1817.º do Código Civil, relativamente ao filho nascido antes da entrada em vigor deste diploma, com prejuízo do disposto no artigo 1818.º
+
+2. Dentro do mesmo prazo serão recebidos nos tribunais de menores os requerimentos a que se refere o artigo 1820.º, seguindo-se os demais termos da impugnação oficiosa, desde que o filho tenha menos de catorze anos de idade à data da apresentação do requerimento.
+
+17.º O facto de se ter esgotado o período a que se refere o n.º 1 do artigo 1854.º não impede que as acções de investigação de maternidade ou paternidade ilegítima sejam propostas até 31 de Dezembro de 1968, desde que não tenha caducado antes, em face da legislação anterior, o direito de as propor.
+
+18.º Os assentos secretos de perfilhação de filhos adulterinos, vàlidamente lavrados ao abrigo da legislação vigente, tornar-se-ão públicos mediante averbamento oficioso, sempre que sejam passadas certidões do respectivo registo de nascimento.
+
+19.º As disposições do Código Civil relativas à tutela e à curatela são aplacáveis às tutelas e curatelas instauradas até 31 de Dezembro de 1967; porém, os tutores e os curadores já nomeados manter-se-ão nos seus cargos enquanto deles não se escusarem ou enquanto não forem removidos ou exonerados.
+
+20.º Os testamentos anteriores a 31 de Dezembro de 1967 e as disposições testamentárias neles contidas não podem ser declarados nulos ou anulados, por vício substancial ou de forma, se o respectivo fundamento for também reconhecido pelo Código Civil, salvo se a acção já estiver pendente naquela data.
+
+21.º As atribuições do testamenteiro são as que lhe forem fixadas pela lei vigente à data da feitura do testamento.
+
+22.º A referência ao território continental ou das ilhas adjacentes considera-se sempre feita ao território da província respectiva.
+
+23.º Todas as disposições do Código Civil cuja execução depender da existência de serviços determinados só serão obrigatórias desde que tais serviços funcionem.
+
+Ministério do Ultramar, 4 de Setembro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - J. da Silva Cunha.

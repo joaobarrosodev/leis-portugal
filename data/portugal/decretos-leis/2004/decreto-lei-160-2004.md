@@ -1,0 +1,260 @@
+---
+schema_version: '1.0'
+id: pt:dre:517417:por
+title: Decreto-Lei n.º 160/2004
+short_title: null
+summary: Regulamenta a Lei n.º 9/2002, de 11 de Fevereiro, relativa ao regime jurídico dos períodos de prestação de serviço
+  militar de antigos combatentes para efeitos de aposentação e reforma
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 160/2004
+official_date: null
+publication_date: '2004-07-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 154/2004, Série I-A de 2004-07-02
+  number: '154'
+  series: I
+  supplement: null
+  pages: 4040 - 4042
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/07/154a00/40404042.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/160/2004/07/02/p/dre/pt/html
+  oj: null
+  dre: '517417'
+  dre_path: /dr/detalhe/decreto-lei/160-2004-517417
+  internal: pt:dre:517417:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2004-517417
+  metadata_url: https://data.dre.pt/eli/dec-lei/160/2004/07/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2004-517417
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-01-13T00:00:00Z'
+integrity:
+  source_sha256: 8da7a896b4ca4ba701197e5e13b9c49dd32bcd97434c412f01bbf91e41d92abe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-160-517417.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Tempo de Serviço
+- Aposentação
+- Bonificação de Pensões
+- Cálculo de Pensões
+- Complemento Especial de Pensão
+- Despesas Públicas
+- Caixa Geral de Aposentações
+- Serviço Militar
+- Fundo dos Antigos Combatentes
+- Interpretação do Direito
+- Forças Armadas
+- Pensão de Aposentação
+- Pensão de Reforma
+- Pensões
+- Prestações da Segurança Social
+- Reforma
+- Regime Contributivo da Segurança Social
+- Regime Jurídico
+- Militar
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:397297:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/311/1997/11/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/311/1997/11/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/329/1993/09/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/438/1999/10/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/438/1999/10/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/107-b/2003/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/107-b/2003/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/9/2002/02/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/9/2002/02/11/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 160/2004
+
+de 2 de Julho
+
+A [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, introduziu significativas alterações no regime aplicável à contagem do tempo de serviço militar dos antigos combatentes, prestado em condições de dificuldade ou perigo, definidas em legislação especial, importando proceder à sua regulamentação, por forma a permitir a sua pronta e eficaz aplicação.
+
+Com o presente diploma, consagra-se a existência de um complemento especial de pensão, a pagar numa única prestação, em cada ano civil, com carácter vitalício, calculado em função do tempo de serviço no ultramar, correspondendo, por cada ano, a 3,5% da pensão social.
+
+Por outro lado, a ponderação e o reconhecimento da importância que reveste a prestação de serviço militar à Pátria como antigo combatente aconselha que o presente regime seja aplicado sem quaisquer encargos para os antigos combatentes, na esteira do princípio consubstanciado no artigo 4.º da [Lei n.º 107-B/2003](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), de 31 de Dezembro.
+
+Em obediência ao mesmo princípio, acautela-se, na presente regulamentação, os termos em que se efectua o acréscimo vitalício de pensão devido aos antigos combatentes que, ao abrigo de legislação anterior, procederam ao pagamento de contribuições para a bonificação das respectivas pensões no âmbito dos regimes de protecção social, estabelecendo-se regras que clarificam a aplicação do regime a todas as situações previstas.
+
+Os antigos combatentes são, desta forma, tratados de modo mais justo, na medida em que nenhum deles é excluído dos benefícios previstos, para além de que se considera, igualmente, o serviço militar prestado a Portugal, nestas condições, por todos e cada um dos antigos combatentes, e não as situações económicas ou os percursos profissionais de cada um.
+
+Assim:
+
+Ao abrigo do artigo 12.º da [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma regula os efeitos jurídicos dos períodos de prestação de serviço militar de antigos combatentes para efeitos de atribuição de benefícios no âmbito dos regimes de protecção social.
+
+###### Artigo 2.º — Âmbito de aplicação pessoal
+
+1 - As medidas previstas na [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, aplicam-se aos antigos combatentes que sejam beneficiários dos subsistemas previdencial e de solidariedade no âmbito do sistema público de segurança social, bem como aos que sejam subscritores ou aposentados no âmbito da Caixa Geral de Aposentações (CGA).
+
+2 - A bonificação da contagem de tempo prevista no artigo 3.º da [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, aplica-se aos cônjuges sobrevivos, pensionistas de sobrevivência dos antigos combatentes.
+
+###### Artigo 3.º — Legislação especial aplicável
+
+O tempo de serviço militar prestado em condições de dificuldade ou perigo a que se refere a [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, é contado nos termos definidos no artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, e demais legislação complementar.
+
+###### Artigo 4.º — Bonificação do tempo de serviço militar
+
+1 - A bonificação do tempo de serviço militar prestado por antigos combatentes em condições especiais de dificuldade ou perigo, pensionistas ou beneficiários activos do subsistema previdencial em 1 de Janeiro de 2004, que não estejam abrangidos pelo artigo 7.º da [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, determina a atribuição de um complemento especial de pensão de valor igual a 3,5% do valor da pensão social por cada ano de bonificação ou duodécimo daquele valor por cada mês de bonificação.
+
+2 - A bonificação do tempo de serviço militar prestado por antigos combatentes em condições especiais de dificuldade ou perigo, beneficiários activos do subsistema previdencial em 1 de Janeiro de 2004, releva para o cumprimento do prazo de garantia e determinação da taxa de formação da pensão, nos termos do disposto no número seguinte.
+
+3 - O montante do complemento especial de pensão correspondente aos efeitos da bonificação do tempo de serviço militar na taxa de formação da pensão é igual a 3,5% do valor da pensão social por cada ano de bonificação ou duodécimo daquele valor por cada mês de bonificação.
+
+4 - O complemento especial de pensão é pago numa única prestação, em cada ano civil, correspondendo a 14 mensalidades.
+
+###### Artigo 5.º — Contagem do tempo de serviço militar no âmbito da CGA
+
+1 - A contagem do tempo de serviço militar efectivo, bem como das respectivas percentagens de acréscimo de serviço prestado em condições especiais de dificuldade ou perigo, a que se refere o n.º 1 do artigo 3.º da [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, releva para o cálculo das pensões nos termos estabelecidos no Estatuto da Aposentação e legislação complementar.
+
+2 - A bonificação do tempo de serviço militar prestado por antigos combatentes em condições especiais de dificuldade ou perigo, pensionistas da CGA em 1 de Janeiro de 2004, que não estejam abrangidos pelo artigo 7.º da [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, nem pelo artigo 12.º do presente diploma, determina a atribuição de um complemento especial de pensão de valor igual a 3,5% do valor da pensão social por cada ano de bonificação ou duodécimo daquele valor por cada mês de bonificação.
+
+3 - O complemento especial de pensão é pago numa única prestação, em cada ano civil, correspondendo a 14 mensalidades.
+
+###### Artigo 6.º — Beneficiários do regime não contributivo e equiparados
+
+1 - O complemento especial de pensão, previsto no artigo 6.º da [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, é atribuído aos beneficiários do regime não contributivo e dos regimes a este equiparados.
+
+2 - O complemento especial de pensão é pago numa única prestação, em cada ano civil, correspondendo a 14 mensalidades.
+
+###### Artigo 7.º — Acréscimo vitalício de pensão
+
+1 - O acréscimo vitalício de pensão, previsto no artigo 7.º da [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, é atribuído aos antigos combatentes abrangidos pelo regime previsto no [Decreto-Lei n.º 311/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1997-687466), de 13 de Novembro, na redacção dada pelo [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), de 29 de Outubro.
+
+2 - No âmbito da CGA, o acréscimo referido no número anterior é atribuído aos antigos combatentes que tenham prestado serviço militar em condições especiais de dificuldade ou perigo nos termos do artigo 6.º do [Decreto-Lei n.º 28404](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28404-1937-668690), de 31 de Dezembro de 1937, e demais legislação complementar, e cuja contagem tenha sido efectuada até à data da entrada em vigor do presente diploma.
+
+3 - O montante do acréscimo vitalício mensal de pensão previsto no número anterior não pode ser inferior a 3,5% do valor da pensão social por cada ano de bonificação do tempo de serviço militar prestado em condições especiais de dificuldade ou perigo, ou duodécimo daquele valor por cada mês de bonificação.
+
+4 - O acréscimo vitalício de pensão tem natureza indemnizatória e é acumulável com quaisquer prestações de segurança social a que o antigo combatente tenha ou venha a ter direito.
+
+###### Artigo 8.º — Cálculo e pagamento do acréscimo vitalício de pensão
+
+1 - O acréscimo vitalício mensal de pensão é calculado segundo a fórmula seguinte:
+
+AV = Coeficiente actuarial x C
+
+em que:
+
+AV - acréscimo vitalício mensal de pensão;
+
+Coeficiente actuarial - correspondente à idade do beneficiário à data do início de atribuição da pensão ou à data da produção de efeitos do presente diploma, tratando-se de antigos combatentes já pensionistas, que consta da tabela anexa ao presente diploma e que dele faz parte integrante;
+
+C - corresponde, no âmbito da segurança social, ao montante das contribuições pagas ao abrigo do [Decreto-Lei n.º 311/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1997-687466), de 13 de Novembro, devidamente actualizadas nos termos do [Decreto-Lei n.º 329/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1993-653127), de 25 de Setembro;
+
+C - corresponde, no âmbito da CGA, à parte a suportar pelo Estado do montante que seria devido pela contagem, na data a que se reporta o início do direito ao acréscimo vitalício de pensão, da bonificação do tempo de serviço militar prestado em condições especiais de dificuldade ou perigo, mediante aplicação das regras estabelecidas no Estatuto da Aposentação e com base na pensão auferida nessa data.
+
+2 - O acréscimo vitalício de pensão é pago numa única prestação em cada ano civil, correspondendo a 12 mensalidades.
+
+###### Artigo 9.º — Entidades competentes no âmbito do sistema público de segurança social
+
+A instrução do processo de contagem do tempo de serviço militar, para efeitos do presente diploma, compete ao Instituto de Solidariedade e Segurança Social, através do Centro Nacional de Pensões e dos centros distritais de solidariedade e segurança social, às caixas de actividade, às caixas de empresa e às entidades das administrações regionais autónomas no âmbito das respectivas competências.
+
+###### Artigo 10.º — Cessação do pagamento de contribuições
+
+1 - A partir da entrada em vigor do presente diploma, cessa o pagamento das contribuições em curso, ao abrigo do [Decreto-Lei n.º 311/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1997-687466), de 13 de Novembro, na redacção dada pelo [Decreto-Lei n.º 438/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/438-1999-692183), de 22 de Outubro, relativamente aos antigos combatentes que se encontrem abrangidos pela [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro.
+
+2 - A partir da entrada em vigor do presente diploma, as contagens, no âmbito da CGA, do tempo de serviço efectivo e das respectivas percentagens de acréscimo, ao abrigo da [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, serão efectuadas com dispensa do pagamento de quotas.
+
+###### Artigo 11.º — Apuramento da idade
+
+Para efeitos de aplicação da tabela publicada em anexo ao presente diploma, que é parte integrante do mesmo, o apuramento da idade dos antigos combatentes é feito nos termos seguintes:
+
+a) Em 1 de Janeiro de 2004, para os antigos combatentes que sejam pensionistas à data da produção de efeitos do presente diploma;
+
+b) Na data do início da pensão, para as demais situações.
+
+###### Artigo 12.º — Norma interpretativa
+
+Nas situações previstas na parte final do artigo 8.º da [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, o período de prestação do serviço militar de antigos combatentes releva para efeitos de aposentação ou reforma, ainda que tenha sido considerado para efeitos de fixação da pensão de invalidez ou reforma extraordinária.
+
+###### Artigo 13.º — Aplicação a situações especiais
+
+É objecto de regulamentação própria a contagem do tempo de serviço militar prestado por antigos combatentes emigrantes, bem como aqueles que não sejam subscritores da CGA nem beneficiários do regime de pensões do sistema público de segurança social, designadamente bancários, advogados e solicitadores, que venham a ser abrangidos pelo regime previsto na [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro.
+
+###### Artigo 14.º — Satisfação de encargos
+
+A responsabilidade pela satisfação de encargos cometida ao Fundo dos Antigos Combatentes pelo artigo 4.º da [Lei n.º 107-B/2003](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), de 31 de Dezembro, inclui todos os encargos decorrentes da aplicação da [Lei n.º 9/2002](https://diariodarepublica.pt/dr/detalhe/lei/9-2002-273420), de 11 de Fevereiro, e do presente diploma.
+
+###### Artigo 15.º — Entrada em vigor e produção de efeitos
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde 1 de Janeiro de 2004.
+
+Visto e aprovado em Conselho de Ministros de 22 de Abril de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Paulo Sacadura Cabral Portas - António José de Castro Bagão Félix.
+
+**Promulgado em 22 de Junho de 2004.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 24 de Junho de 2004.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**
+
+## ANEXO — Tabela a que se refere o artigo 8.º do presente diploma
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/07/154a00/40404042.pdf)

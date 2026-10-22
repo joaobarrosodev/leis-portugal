@@ -1,0 +1,675 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:390219:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-864846569",
+ "dre_path": "/dr/detalhe/portaria/201-2001-390219",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "865018743"
+   ]
+  },
+  {
+   "date": "2007-03-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:518615:por",
+     "title": "Portaria n.º 286/2007",
+     "published": "2007-03-16",
+     "dre_path": "/dr/detalhe/portaria/286-2007-518615"
+    }
+   ],
+   "changes": [
+    "Adita 22.º-A",
+    "Altera 4.º",
+    "Altera 7.º",
+    "Altera 9.º",
+    "Altera 10.º",
+    "Altera 22.º"
+   ],
+   "fragments": [
+    "864822464",
+    "865018216",
+    "865018217",
+    "865018218",
+    "865018219",
+    "864822465",
+    "865018220",
+    "865018226",
+    "865018227",
+    "865018228",
+    "865018737",
+    "865018230",
+    "865018231",
+    "865018738",
+    "865018233",
+    "865018739",
+    "865018740",
+    "865018675",
+    "865018676",
+    "865018677",
+    "865018678",
+    "865018679",
+    "865018725",
+    "865018726",
+    "865018727",
+    "865018728",
+    "865018729",
+    "865018730",
+    "865018741",
+    "865018742"
+   ]
+  },
+  {
+   "date": "2013-06-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:496885:por",
+     "title": "Portaria n.º 205/2013",
+     "published": "2013-06-19",
+     "dre_path": "/dr/detalhe/portaria/205-2013-496885"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "865018743",
+    "865018744",
+    "865018745",
+    "865018746",
+    "865018747",
+    "865018748",
+    "865018749",
+    "865018750",
+    "865018751",
+    "865018752",
+    "865018753",
+    "865018754",
+    "865018755",
+    "865018756",
+    "865018757",
+    "865018758",
+    "865018759",
+    "865018760",
+    "865018761",
+    "865018762",
+    "865018763",
+    "865018764",
+    "865018765",
+    "865018766",
+    "865018767",
+    "865018768",
+    "865018769",
+    "865018770",
+    "865018771",
+    "865018772"
+   ]
+  }
+ ],
+ "fragments": {
+  "865018743": {
+   "fragment_id": "864846570",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2013-06-20",
+   "changed_by": [],
+   "markdown": "Portaria n.º 201/2001\n\nde 13 de Março\n\nConsiderando que a ocupação saudável dos tempos livres constitui um contributo inequívoco para a formação e desenvolvimento dos jovens, constituindo ainda uma das medidas mais eficazes na prevenção de comportamentos de risco;\n\nConsiderando que o Programa de Ocupação de Tempos Livres (OTL) visa estimular o contacto directo dos jovens com a natureza e melhorar o conhecimento da realidade onde se inserem, designadamente nas suas vertentes histórica, cultural e social;\n\nConsiderando que o Programa OTL procura incutir nos jovens os valores de entreajuda e disponibilidade para com os outros, criando além disso condições para minorar os riscos a que os jovens estão normalmente sujeitos;\n\nConsiderando, finalmente, as atribuições do Instituto Português da Juventude no que respeita à criação, promoção e desenvolvimento de programas para jovens na área da ocupação de tempos livres, conforme o disposto na alínea h) do n.º 1 do artigo 2.º do Decreto-Lei n.º 70/96, de 4 de Junho:\n\nManda o Governo, pelo Ministro da Juventude e do Desporto, ao abrigo do n.º 2 do artigo 2.º do Decreto-Lei n.º 70/96, de 4 de Junho, atendendo ao estabelecido no Decreto-Lei n.º 198/96, de 17 de Outubro, o seguinte:"
+  },
+  "864822464": {
+   "fragment_id": "864846570",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 201/2001\n\nde 13 de Março\n\nConsiderando que a ocupação saudável dos tempos livres constitui um contributo inequívoco para a formação e desenvolvimento dos jovens, constituindo ainda uma das medidas mais eficazes na prevenção de comportamentos de risco;\n\nConsiderando que o Programa de Ocupação de Tempos Livres (OTL) visa estimular o contacto directo dos jovens com a natureza e melhorar o conhecimento da realidade onde se inserem, designadamente nas suas vertentes histórica, cultural e social;\n\nConsiderando que o Programa OTL procura incutir nos jovens os valores de entreajuda e disponibilidade para com os outros, criando além disso condições para minorar os riscos a que os jovens estão normalmente sujeitos;\n\nConsiderando, finalmente, as atribuições do Instituto Português da Juventude no que respeita à criação, promoção e desenvolvimento de programas para jovens na área da ocupação de tempos livres, conforme o disposto na alínea h) do n.º 1 do artigo 2.º do Decreto-Lei n.º 70/96, de 4 de Junho:\n\nManda o Governo, pelo Ministro da Juventude e do Desporto, ao abrigo do n.º 2 do artigo 2.º do Decreto-Lei n.º 70/96, de 4 de Junho, atendendo ao estabelecido no Decreto-Lei n.º 198/96, de 17 de Outubro, o seguinte:"
+  },
+  "865018216": {
+   "fragment_id": "865018476",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento do Programa de Ocupação de Tempos Livres (OTL), que faz parte integrante da presente portaria."
+  },
+  "865018217": {
+   "fragment_id": "865018477",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nÉ atribuída a gestão do Programa OTL ao Instituto Português da Juventude (IPJ)."
+  },
+  "865018218": {
+   "fragment_id": "865018478",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nÉ revogada a Portaria n.º 745-J/96, de 18 de Dezembro."
+  },
+  "865018219": {
+   "fragment_id": "865018479",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º\n\nA presente portaria entra em vigor em 1 de Fevereiro de 2001."
+  },
+  "864822465": {
+   "fragment_id": "864846571",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Juventude e do Desporto, Luís Miguel de Oliveira Fontes, Secretário de Estado da Juvenrude e do Desporto, em 31 de Janeiro de 2001."
+  },
+  "865018220": {
+   "fragment_id": "865018480",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO PROGRAMA DE OCUPAÇÃO DE TEMPOS LIVRES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO PROGRAMA DE OCUPAÇÃO DE TEMPOS LIVRES"
+  },
+  "865018226": {
+   "fragment_id": "865018488",
+   "type": 11,
+   "heading": "1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Objecto\n\nO Programa de Ocupação de Tempos Livres (OTL) visa promover a ocupação saudável dos tempos livres dos jovens, orientando-os para o desempenho de actividades ocupacionais que proporcionem a conquista de hábitos de voluntariado, que permitam o contacto experimental com algumas actividades profissionais e que potenciem a capacidade de intervenção e participação social e cívica dos jovens, contribuindo para o processo de educação não formal."
+  },
+  "865018227": {
+   "fragment_id": "865018489",
+   "type": 11,
+   "heading": "2.º — Natureza dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º — Natureza dos projectos\n\n1 - No Programa OTL os jovens são ocupados em actividades desenvolvidas por entidades promotoras, nas seguintes áreas:\n\na) Ambiente e ou protecção civil;\n\nb) Apoio a idosos e ou crianças;\n\nc) Cultura e ou património;\n\nd) Combate à exclusão social;\n\ne) Saúde;\n\nf) Outras de reconhecido interesse social.\n\n2 - Independentemente da área de ocupação, os jovens não podem desempenhar tarefas de cariz predominantemente administrativo nem outras habitualmente exercidas por funcionários ou profissionais sob a orientação e direcção da entidade promotora."
+  },
+  "865018228": {
+   "fragment_id": "865018490",
+   "type": 11,
+   "heading": "3.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — Destinatários\n\nPodem participar no Programa OTL todos os jovens residentes em Portugal, comprovadamente integrados no sistema de ensino ou no sistema de formação profissional, com idades compreendidas entre os 12 e os 25 anos."
+  },
+  "865018737": {
+   "fragment_id": "865018491",
+   "type": 11,
+   "heading": "4.º — Tipo de ocupação",
+   "in_force_from": "2007-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 4.º — Tipo de ocupação\n\n1 - Os projectos a desenvolver são de longa ou curta duração, referindo-se cada um deles a períodos e escalões etários diferentes, nos termos do disposto nos números seguintes.\n\n2 - O Programa OTL em projectos de longa duração pretende ser um complemento à formação pessoal do jovem, podendo ser realizado em período de actividades escolares, embora fora do horário lectivo do jovem. Decorre de 1 de Abril a 31 de Dezembro de cada ano e destina-se a jovens possuidores da escolaridade mínima obrigatória com idades entre os 15 e os 25 anos.\n\n3 - O Programa OTL em projectos de curta duração pretende ocupar os tempos livres dos jovens aquando das férias escolares do Verão, decorre de 1 de Julho a 15 de Setembro de cada ano e destina-se a jovens com idades compreendidas entre os 12 e os 25 anos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018230": {
+   "fragment_id": "865018492",
+   "type": 11,
+   "heading": "5.º — Entidades promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Entidades promotoras\n\nPodem candidatar-se ao desenvolvimento de projectos, de longa e curta duração, as entidades seguintes:\n\na) Associações inscritas no Registo Nacional das Associações Juvenis (RNAJ);\n\nb) Clubes desportivos, associações de modalidade e federações desportivas;\n\nc) Organizações nacionais não governamentais;\n\nd) Instituições particulares de solidariedade social, misericórdias e mutualidades;\n\ne) Câmaras municipais e juntas de freguesia;\n\nf) Outras entidades privadas sem fins lucrativos."
+  },
+  "865018231": {
+   "fragment_id": "865018493",
+   "type": 11,
+   "heading": "6.º — Duração dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º — Duração dos projectos\n\n1 - Os projectos de longa duração têm uma duração mínima de dois meses e podem prolongar-se até ao máximo de nove meses.\n\n2 - Os projectos de curta duração têm uma duração mínima de duas semanas e podem ter uma duração máxima de 1 de Julho a 15 de Setembro."
+  },
+  "865018738": {
+   "fragment_id": "865018494",
+   "type": 11,
+   "heading": "7.º — Apresentação e entrega de projectos",
+   "in_force_from": "2007-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 7.º — Apresentação e entrega de projectos\n\n1 - Os projectos devem ser apresentados via Internet ou em formulário próprio a fornecer pelo IPJ contendo todos os elementos solicitados no formulário de candidatura, nomeadamente:\n\na) Área de ocupação, atento o disposto no artigo 2.º do presente Regulamento;\n\nb) Designação e descrição do projecto e das actividades a desenvolver;\n\nc) Duração do projecto e horário das actividades;\n\nd) Número mínimo e máximo de jovens a envolver;\n\ne) Local da realização do projecto;\n\nf) Comparticipação da entidade promotora na bolsa horária a entregar ao jovem;\n\ng) Designação do gestor do projecto responsável pela respectiva execução e acompanhamento dos jovens, bem como pelo relacionamento com o IPJ.\n\n2 - Os projectos são entregues nos serviços desconcentrados do IPJ ou nos serviços centrais, dentro dos seguintes prazos:\n\na) Projectos de longa duração - de 2 de Janeiro a 23 de Fevereiro de cada ano;\n\nb) Projectos de curta duração - de 2 de Fevereiro a 15 de Maio de cada ano.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018233": {
+   "fragment_id": "865018495",
+   "type": 11,
+   "heading": "8.º — Critérios de apreciação dos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º — Critérios de apreciação dos projectos\n\n1 - Os projectos são apreciados pelo IPJ, designadamente segundo os critérios seguintes:\n\na) Relevância do projecto face aos objectivos do Programa;\n\nb) Contribuição para o processo de educação não formal do jovem;\n\nc) Envolvimento de jovens na concepção e desenvolvimento do projecto;\n\nd) Estabelecimento de parcerias para o desenvolvimento do projecto.\n\n2 - As áreas prioritárias de ocupação são também, anualmente, objecto de definição e majoração através de despacho da comissão executiva do IPJ.\n\n3 - Os projectos aprovados e desenvolvidos no semestre imediatamente anterior são preteridos em função da apresentação de novos projectos de qualidade e impacte semelhante, dentro do mesmo concelho e da mesma área de ocupação.\n\n4 - Na apreciação dos projectos é atribuída maior pontuação aos que sejam apresentados por entidades cujos gestores de projecto tenham previamente frequentado formação promovida pelo IPJ."
+  },
+  "865018739": {
+   "fragment_id": "865018496",
+   "type": 11,
+   "heading": "9.º — Aprovação dos projectos",
+   "in_force_from": "2007-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 9.º — Aprovação dos projectos\n\nO IPJ comunica às entidades promotoras a aprovação ou o indeferimento do projecto candidato, dentro dos seguintes prazos:\n\na) Até 9 de Março de cada ano, no caso de projectos de longa duração;\n\nb) Até 15 de Junho de cada ano, no caso de projectos de curta duração.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018740": {
+   "fragment_id": "865018537",
+   "type": 11,
+   "heading": "10.º — Candidatura dos jovens",
+   "in_force_from": "2007-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 10.º — Candidatura dos jovens\n\n1 - Os jovens interessados em participar no Programa OTL devem candidatar-se, através da Internet ou de formulário a fornecer pelo IPJ, nos seguintes prazos:\n\na) Longa duração - até 23 de Março de cada ano, devendo indicar o projecto, a área de actividade e o concelho a que se candidatam;\n\nb) Curta duração - de 15 de Maio a 15 de Junho de cada ano, devendo indicar a área de actividade e o concelho a que se candidatam.\n\n2 - Independentemente do prazo para inscrição dos jovens em projectos de longa duração, definido na alínea a) do número anterior, os jovens podem inscrever-se no Programa a todo o tempo, passando a integrar uma bolsa de inscritos à qual os serviços podem recorrer para alocar jovens a projectos.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018675": {
+   "fragment_id": "865018538",
+   "type": 11,
+   "heading": "11.º — Participação dos jovens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º — Participação dos jovens\n\n1 - O período de ocupação diária dos jovens não pode exceder as cinco horas diárias em projectos de curta duração e as três horas diárias nos projectos de longa duração, sendo que nestes últimos as actividades só podem ser desenvolvidas num único período do dia, durante a manhã ou durante a tarde.\n\n2 - Nos projectos de curta duração o período de participação do jovem é limitado a quatro semanas."
+  },
+  "865018676": {
+   "fragment_id": "865018539",
+   "type": 11,
+   "heading": "12.º — Selecção dos jovens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 12.º — Selecção dos jovens\n\nOs jovens são seleccionados pelo IPJ em colaboração com as entidades promotoras dos projectos aprovados, em função dos seguintes critérios:\n\n1) Em projectos de longa duração:\n\na) Interesse manifestado por um projecto específico;\n\nb) Interesse manifestado por uma determinada área de ocupação;\n\nc) Proximidade da residência do jovem relativamente ao local de realização do projecto;\n\nd) Data da candidatura;\n\n2) Em projectos de curta duração:\n\na) Proximidade da residência do jovem relativamente ao local de realização do projecto;\n\nb) Interesse manifestado por uma determinada área de ocupação;\n\nc) Data da candidatura."
+  },
+  "865018677": {
+   "fragment_id": "865018540",
+   "type": 11,
+   "heading": "13.º — Colocação dos jovens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 13.º — Colocação dos jovens\n\nApós a selecção, o IPJ comunica a cada jovem qual o projecto onde foi colocado, bem como o período de ocupação, o local, o horário, o nome da entidade promotora e do gestor do projecto e as actividades a desenvolver, devendo o jovem confirmar junto da entidade promotora a sua aceitação de inclusão naquele projecto até cinco dias antes do respectivo início."
+  },
+  "865018678": {
+   "fragment_id": "865018541",
+   "type": 11,
+   "heading": "14.º — Apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 14.º — Apoios\n\n1 - O jovem participante no Programa OTL tem direito, durante o período de ocupação no projecto:\n\na) A um seguro de acidentes pessoais, da responsabilidade do IPJ;\n\nb) A uma bolsa horária de montante a definir anualmente por despacho da comissão executiva do IPJ.\n\n2 - A bolsa é paga ao jovem pelo IPJ no prazo de cinco dias úteis após a recepção do mapa de assiduidade enviado pela entidade promotora.\n\n3 - O pagamento é feito através de transferência bancária para uma conta indicada pelo jovem no acto da inscrição e da qual seja um dos titulares.\n\n4 - As entidades promotoras podem participar no financiamento de bolsas aos jovens participantes nos respectivos projectos."
+  },
+  "865018679": {
+   "fragment_id": "865018542",
+   "type": 11,
+   "heading": "15.º — Deveres da entidade promotora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 15.º — Deveres da entidade promotora\n\n1 - Constituem deveres da entidade promotora:\n\na) Proceder à boa execução do projecto no sentido do estrito cumprimento das propostas apresentadas em fase de candidatura, através do gestor do projecto;\n\nb) Proceder ao pagamento ao IPJ da respectiva comparticipação nas bolsas diárias a pagar aos jovens participantes, se nisso tiver acordado;\n\nc) Dar conhecimento ao IPJ das alterações à planificação ou de outras eventualidades ocorridas no decurso do projecto;\n\nd) Enviar ao IPJ, no prazo de três dias após o final do período de ocupação dos jovens, o mapa de assiduidade dos participantes;\n\ne) Anexar ao mapa de assiduidade o cheque ou talão de depósito ou cópia da ordem de transferência bancária, com a quantia correspondente à comparticipação da entidade promotora na bolsa diária a pagar aos jovens referente àquele período, conforme o acordado entre as partes aquando da aprovação do projecto;\n\nf) Elaborar e apresentar ao IPJ, através do gestor do projecto, o relatório final;\n\ng) Publicitar, de acordo com as orientações gerais definidas pelo IPJ, o apoio do Programa OTL e do IPJ ao projecto.\n\n2 - O prazo para apresentação ao IPJ do relatório final a que se refere a alínea f) do número anterior é de 20 dias úteis após a conclusão do projecto."
+  },
+  "865018725": {
+   "fragment_id": "865018789",
+   "type": 11,
+   "heading": "16.º — Deveres do gestor do projecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 16.º — Deveres do gestor do projecto\n\nConstituem deveres do gestor do projecto:\n\na) A frequência de uma acção de formação a promover pelo IPJ;\n\nb) O efectivo cumprimento das orientações definidas no projecto apresentado pela entidade promotora, bem como assegurar as condições adequadas para a realização das actividades previstas no projecto;\n\nc) O acompanhamento dos jovens na execução das tarefas, apoiando a sua acção e contribuindo para uma efectiva ocupação dos seus tempos livres;\n\nd) A utilização de um elemento identificativo do Programa OTL fornecido pelo IPJ;\n\ne) A aceitação das condições definidas pelo presente Regulamento;\n\nf) A cedência de elementos relacionados com o projecto quando solicitados pelo IPJ;\n\ng) Responsabilizar-se pessoalmente pelos procedimentos administrativos relacionados com a assiduidade dos jovens e com a comparticipação da entidade promotora na bolsa dos jovens, caso a esta haja lugar."
+  },
+  "865018726": {
+   "fragment_id": "865018790",
+   "type": 11,
+   "heading": "17.º — Deveres dos jovens participantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 17.º — Deveres dos jovens participantes\n\n1 - Constituem deveres dos jovens participantes no Programa OTL:\n\na) A assiduidade;\n\nb) O cumprimento dos horários e orientações definidos pela entidade promotora no quadro das actividades previstas no projecto;\n\nc) A utilização de um elemento identificativo do Programa OTL, fornecido pelo lPJ;\n\nd) A aceitação das demais condições do presente Regulamento.\n\n2 - O não cumprimento injustificado do dever de assiduidade, nomeadamente a ausência injustificada em três dias consecutivos ou cinco interpolados, conduz à exclusão do jovem do projecto, sem direito a qualquer bolsa."
+  },
+  "865018727": {
+   "fragment_id": "865018791",
+   "type": 11,
+   "heading": "18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 18.º\n\nDeveres do Instituto Português da Juventude\n\nConstituem deveres do IPJ:\n\na) A divulgação do Programa OTL;\n\nb) O fornecimento dos formulários previstos no presente Regulamento;\n\nc) A promoção de acções de formação para gestores de projecto;\n\nd) A prestação das informações relativas ao Programa que lhe sejam solicitadas;\n\ne) O esclarecimento e decisão sobre eventuais omissões do presente Regulamento;\n\nf) O pagamento das bolsas devidas aos jovens participantes;\n\ng) O fornecimento às entidades promotoras e aos jovens dos certificados de participação."
+  },
+  "865018728": {
+   "fragment_id": "865018792",
+   "type": 11,
+   "heading": "19.º — Certificados de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 19.º — Certificados de participação\n\n1 - Após a entrega do relatório final a entidade promotora recebe um certificado do IPJ comprovativo da realização do projecto, identificando a área, as actividades desenvolvidas, o número de jovens e o período de realização.\n\n2 - Os jovens recebem no final da realização do projecto um certificado da sua participação no Programa OTL, o qual identifica o projecto, a área e as actividades desenvolvidas, a entidade promotora e o período de ocupação."
+  },
+  "865018729": {
+   "fragment_id": "865018793",
+   "type": 11,
+   "heading": "20.º — Penalizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 20.º — Penalizações\n\n1 - A existência de quaisquer irregularidades na aplicação das verbas concedidas, nomeadamente a sua utilização para fins diferentes dos estabelecidos ou acordados, implica a imediata suspensão do processamento das mesmas, ficando a entidade impedida de beneficiar de qualquer apoio do IPJ nos dois anos subsequentes.\n\n2 - A não apresentação por parte da entidade promotora do relatório nos termos referidos na alínea f) do n.º 1 e no n.º 2 do artigo 15.º do presente Regulamento implica a reposição das verbas já transferidas, bem como origina o impedimento de novos apoios do IPJ por um prazo não inferior a dois anos.\n\n3 - O não envio do mapa de assiduidade e do respectivo valor da comparticipação na bolsa diária dos jovens implica a imediata suspensão do projecto e a recuperação dos montantes em dívida e devidos aos jovens participantes, implicando ainda a inelegibilidade de qualquer projecto apresentado ao IPJ durante um período de dois anos."
+  },
+  "865018730": {
+   "fragment_id": "865018794",
+   "type": 11,
+   "heading": "21.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 21.º — Financiamento\n\nA aprovação dos projectos apresentados fica condicionada à dotação orçamental para o Programa OTL."
+  },
+  "865018741": {
+   "fragment_id": "865018795",
+   "type": 11,
+   "heading": "22.º — Duração",
+   "in_force_from": "2007-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 22.º — Duração\n\nO Programa, no que se refere a projectos de longa duração, decorre até 31 de Dezembro de cada ano, devendo as acções ser realizadas até essa data.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018742": {
+   "fragment_id": "865018796",
+   "type": 11,
+   "heading": "22.º-A — Disposições transitórias",
+   "in_force_from": "2007-03-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 22.º-A — Disposições transitórias\n\n1 - Para o corrente ano, os projectos de longa duração podem ser apresentados pelas entidades promotoras até 30 de Março.\n\n2 - A apreciação dos projectos referidos no número anterior é efectuada pelo IPJ no período compreendido entre 1 e 20 de Abril.\n\n3 - Os jovens candidatos em participar no Programa OTL ao abrigo destes projectos podem apresentar as suas candidaturas entre 2 e 31 de Maio.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018744": {
+   "fragment_id": "865018476",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento do Programa de Ocupação de Tempos Livres (OTL), que faz parte integrante da presente portaria.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018745": {
+   "fragment_id": "865018477",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 2.º\n\nÉ atribuída a gestão do Programa OTL ao Instituto Português da Juventude (IPJ).\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018746": {
+   "fragment_id": "865018478",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 3.º\n\nÉ revogada a Portaria n.º 745-J/96, de 18 de Dezembro.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018747": {
+   "fragment_id": "865018479",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 4.º\n\nA presente portaria entra em vigor em 1 de Fevereiro de 2001.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018748": {
+   "fragment_id": "864846571",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "Pelo Ministro da Juventude e do Desporto, Luís Miguel de Oliveira Fontes, Secretário de Estado da Juvenrude e do Desporto, em 31 de Janeiro de 2001.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018749": {
+   "fragment_id": "865018480",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO PROGRAMA DE OCUPAÇÃO DE TEMPOS LIVRES",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "## Anexo — REGULAMENTO DO PROGRAMA DE OCUPAÇÃO DE TEMPOS LIVRES\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018750": {
+   "fragment_id": "865018488",
+   "type": 11,
+   "heading": "1.º — Objecto",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 1.º — Objecto\n\nO Programa de Ocupação de Tempos Livres (OTL) visa promover a ocupação saudável dos tempos livres dos jovens, orientando-os para o desempenho de actividades ocupacionais que proporcionem a conquista de hábitos de voluntariado, que permitam o contacto experimental com algumas actividades profissionais e que potenciem a capacidade de intervenção e participação social e cívica dos jovens, contribuindo para o processo de educação não formal.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018751": {
+   "fragment_id": "865018489",
+   "type": 11,
+   "heading": "2.º — Natureza dos projectos",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 2.º — Natureza dos projectos\n\n1 - No Programa OTL os jovens são ocupados em actividades desenvolvidas por entidades promotoras, nas seguintes áreas:\n\na) Ambiente e ou protecção civil;\n\nb) Apoio a idosos e ou crianças;\n\nc) Cultura e ou património;\n\nd) Combate à exclusão social;\n\ne) Saúde;\n\nf) Outras de reconhecido interesse social.\n\n2 - Independentemente da área de ocupação, os jovens não podem desempenhar tarefas de cariz predominantemente administrativo nem outras habitualmente exercidas por funcionários ou profissionais sob a orientação e direcção da entidade promotora.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018752": {
+   "fragment_id": "865018490",
+   "type": 11,
+   "heading": "3.º — Destinatários",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 3.º — Destinatários\n\nPodem participar no Programa OTL todos os jovens residentes em Portugal, comprovadamente integrados no sistema de ensino ou no sistema de formação profissional, com idades compreendidas entre os 12 e os 25 anos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018753": {
+   "fragment_id": "865018491",
+   "type": 11,
+   "heading": "4.º — Tipo de ocupação",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 4.º — Tipo de ocupação\n\n1 - Os projectos a desenvolver são de longa ou curta duração, referindo-se cada um deles a períodos e escalões etários diferentes, nos termos do disposto nos números seguintes.\n\n2 - O Programa OTL em projectos de longa duração pretende ser um complemento à formação pessoal do jovem, podendo ser realizado em período de actividades escolares, embora fora do horário lectivo do jovem. Decorre de 1 de Abril a 31 de Dezembro de cada ano e destina-se a jovens possuidores da escolaridade mínima obrigatória com idades entre os 15 e os 25 anos.\n\n3 - O Programa OTL em projectos de curta duração pretende ocupar os tempos livres dos jovens aquando das férias escolares do Verão, decorre de 1 de Julho a 15 de Setembro de cada ano e destina-se a jovens com idades compreendidas entre os 12 e os 25 anos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018754": {
+   "fragment_id": "865018492",
+   "type": 11,
+   "heading": "5.º — Entidades promotoras",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 5.º — Entidades promotoras\n\nPodem candidatar-se ao desenvolvimento de projectos, de longa e curta duração, as entidades seguintes:\n\na) Associações inscritas no Registo Nacional das Associações Juvenis (RNAJ);\n\nb) Clubes desportivos, associações de modalidade e federações desportivas;\n\nc) Organizações nacionais não governamentais;\n\nd) Instituições particulares de solidariedade social, misericórdias e mutualidades;\n\ne) Câmaras municipais e juntas de freguesia;\n\nf) Outras entidades privadas sem fins lucrativos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018755": {
+   "fragment_id": "865018493",
+   "type": 11,
+   "heading": "6.º — Duração dos projectos",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 6.º — Duração dos projectos\n\n1 - Os projectos de longa duração têm uma duração mínima de dois meses e podem prolongar-se até ao máximo de nove meses.\n\n2 - Os projectos de curta duração têm uma duração mínima de duas semanas e podem ter uma duração máxima de 1 de Julho a 15 de Setembro.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018756": {
+   "fragment_id": "865018494",
+   "type": 11,
+   "heading": "7.º — Apresentação e entrega de projectos",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 7.º — Apresentação e entrega de projectos\n\n1 - Os projectos devem ser apresentados via Internet ou em formulário próprio a fornecer pelo IPJ contendo todos os elementos solicitados no formulário de candidatura, nomeadamente:\n\na) Área de ocupação, atento o disposto no artigo 2.º do presente Regulamento;\n\nb) Designação e descrição do projecto e das actividades a desenvolver;\n\nc) Duração do projecto e horário das actividades;\n\nd) Número mínimo e máximo de jovens a envolver;\n\ne) Local da realização do projecto;\n\nf) Comparticipação da entidade promotora na bolsa horária a entregar ao jovem;\n\ng) Designação do gestor do projecto responsável pela respectiva execução e acompanhamento dos jovens, bem como pelo relacionamento com o IPJ.\n\n2 - Os projectos são entregues nos serviços desconcentrados do IPJ ou nos serviços centrais, dentro dos seguintes prazos:\n\na) Projectos de longa duração - de 2 de Janeiro a 23 de Fevereiro de cada ano;\n\nb) Projectos de curta duração - de 2 de Fevereiro a 15 de Maio de cada ano.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018757": {
+   "fragment_id": "865018495",
+   "type": 11,
+   "heading": "8.º — Critérios de apreciação dos projectos",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 8.º — Critérios de apreciação dos projectos\n\n1 - Os projectos são apreciados pelo IPJ, designadamente segundo os critérios seguintes:\n\na) Relevância do projecto face aos objectivos do Programa;\n\nb) Contribuição para o processo de educação não formal do jovem;\n\nc) Envolvimento de jovens na concepção e desenvolvimento do projecto;\n\nd) Estabelecimento de parcerias para o desenvolvimento do projecto.\n\n2 - As áreas prioritárias de ocupação são também, anualmente, objecto de definição e majoração através de despacho da comissão executiva do IPJ.\n\n3 - Os projectos aprovados e desenvolvidos no semestre imediatamente anterior são preteridos em função da apresentação de novos projectos de qualidade e impacte semelhante, dentro do mesmo concelho e da mesma área de ocupação.\n\n4 - Na apreciação dos projectos é atribuída maior pontuação aos que sejam apresentados por entidades cujos gestores de projecto tenham previamente frequentado formação promovida pelo IPJ.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018758": {
+   "fragment_id": "865018496",
+   "type": 11,
+   "heading": "9.º — Aprovação dos projectos",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 9.º — Aprovação dos projectos\n\nO IPJ comunica às entidades promotoras a aprovação ou o indeferimento do projecto candidato, dentro dos seguintes prazos:\n\na) Até 9 de Março de cada ano, no caso de projectos de longa duração;\n\nb) Até 15 de Junho de cada ano, no caso de projectos de curta duração.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018759": {
+   "fragment_id": "865018537",
+   "type": 11,
+   "heading": "10.º — Candidatura dos jovens",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 10.º — Candidatura dos jovens\n\n1 - Os jovens interessados em participar no Programa OTL devem candidatar-se, através da Internet ou de formulário a fornecer pelo IPJ, nos seguintes prazos:\n\na) Longa duração - até 23 de Março de cada ano, devendo indicar o projecto, a área de actividade e o concelho a que se candidatam;\n\nb) Curta duração - de 15 de Maio a 15 de Junho de cada ano, devendo indicar a área de actividade e o concelho a que se candidatam.\n\n2 - Independentemente do prazo para inscrição dos jovens em projectos de longa duração, definido na alínea a) do número anterior, os jovens podem inscrever-se no Programa a todo o tempo, passando a integrar uma bolsa de inscritos à qual os serviços podem recorrer para alocar jovens a projectos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018760": {
+   "fragment_id": "865018538",
+   "type": 11,
+   "heading": "11.º — Participação dos jovens",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 11.º — Participação dos jovens\n\n1 - O período de ocupação diária dos jovens não pode exceder as cinco horas diárias em projectos de curta duração e as três horas diárias nos projectos de longa duração, sendo que nestes últimos as actividades só podem ser desenvolvidas num único período do dia, durante a manhã ou durante a tarde.\n\n2 - Nos projectos de curta duração o período de participação do jovem é limitado a quatro semanas.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018761": {
+   "fragment_id": "865018539",
+   "type": 11,
+   "heading": "12.º — Selecção dos jovens",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 12.º — Selecção dos jovens\n\nOs jovens são seleccionados pelo IPJ em colaboração com as entidades promotoras dos projectos aprovados, em função dos seguintes critérios:\n\n1) Em projectos de longa duração:\n\na) Interesse manifestado por um projecto específico;\n\nb) Interesse manifestado por uma determinada área de ocupação;\n\nc) Proximidade da residência do jovem relativamente ao local de realização do projecto;\n\nd) Data da candidatura;\n\n2) Em projectos de curta duração:\n\na) Proximidade da residência do jovem relativamente ao local de realização do projecto;\n\nb) Interesse manifestado por uma determinada área de ocupação;\n\nc) Data da candidatura.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018762": {
+   "fragment_id": "865018540",
+   "type": 11,
+   "heading": "13.º — Colocação dos jovens",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 13.º — Colocação dos jovens\n\nApós a selecção, o IPJ comunica a cada jovem qual o projecto onde foi colocado, bem como o período de ocupação, o local, o horário, o nome da entidade promotora e do gestor do projecto e as actividades a desenvolver, devendo o jovem confirmar junto da entidade promotora a sua aceitação de inclusão naquele projecto até cinco dias antes do respectivo início.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018763": {
+   "fragment_id": "865018541",
+   "type": 11,
+   "heading": "14.º — Apoios",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 14.º — Apoios\n\n1 - O jovem participante no Programa OTL tem direito, durante o período de ocupação no projecto:\n\na) A um seguro de acidentes pessoais, da responsabilidade do IPJ;\n\nb) A uma bolsa horária de montante a definir anualmente por despacho da comissão executiva do IPJ.\n\n2 - A bolsa é paga ao jovem pelo IPJ no prazo de cinco dias úteis após a recepção do mapa de assiduidade enviado pela entidade promotora.\n\n3 - O pagamento é feito através de transferência bancária para uma conta indicada pelo jovem no acto da inscrição e da qual seja um dos titulares.\n\n4 - As entidades promotoras podem participar no financiamento de bolsas aos jovens participantes nos respectivos projectos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018764": {
+   "fragment_id": "865018542",
+   "type": 11,
+   "heading": "15.º — Deveres da entidade promotora",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 15.º — Deveres da entidade promotora\n\n1 - Constituem deveres da entidade promotora:\n\na) Proceder à boa execução do projecto no sentido do estrito cumprimento das propostas apresentadas em fase de candidatura, através do gestor do projecto;\n\nb) Proceder ao pagamento ao IPJ da respectiva comparticipação nas bolsas diárias a pagar aos jovens participantes, se nisso tiver acordado;\n\nc) Dar conhecimento ao IPJ das alterações à planificação ou de outras eventualidades ocorridas no decurso do projecto;\n\nd) Enviar ao IPJ, no prazo de três dias após o final do período de ocupação dos jovens, o mapa de assiduidade dos participantes;\n\ne) Anexar ao mapa de assiduidade o cheque ou talão de depósito ou cópia da ordem de transferência bancária, com a quantia correspondente à comparticipação da entidade promotora na bolsa diária a pagar aos jovens referente àquele período, conforme o acordado entre as partes aquando da aprovação do projecto;\n\nf) Elaborar e apresentar ao IPJ, através do gestor do projecto, o relatório final;\n\ng) Publicitar, de acordo com as orientações gerais definidas pelo IPJ, o apoio do Programa OTL e do IPJ ao projecto.\n\n2 - O prazo para apresentação ao IPJ do relatório final a que se refere a alínea f) do número anterior é de 20 dias úteis após a conclusão do projecto.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018765": {
+   "fragment_id": "865018789",
+   "type": 11,
+   "heading": "16.º — Deveres do gestor do projecto",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 16.º — Deveres do gestor do projecto\n\nConstituem deveres do gestor do projecto:\n\na) A frequência de uma acção de formação a promover pelo IPJ;\n\nb) O efectivo cumprimento das orientações definidas no projecto apresentado pela entidade promotora, bem como assegurar as condições adequadas para a realização das actividades previstas no projecto;\n\nc) O acompanhamento dos jovens na execução das tarefas, apoiando a sua acção e contribuindo para uma efectiva ocupação dos seus tempos livres;\n\nd) A utilização de um elemento identificativo do Programa OTL fornecido pelo IPJ;\n\ne) A aceitação das condições definidas pelo presente Regulamento;\n\nf) A cedência de elementos relacionados com o projecto quando solicitados pelo IPJ;\n\ng) Responsabilizar-se pessoalmente pelos procedimentos administrativos relacionados com a assiduidade dos jovens e com a comparticipação da entidade promotora na bolsa dos jovens, caso a esta haja lugar.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018766": {
+   "fragment_id": "865018790",
+   "type": 11,
+   "heading": "17.º — Deveres dos jovens participantes",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 17.º — Deveres dos jovens participantes\n\n1 - Constituem deveres dos jovens participantes no Programa OTL:\n\na) A assiduidade;\n\nb) O cumprimento dos horários e orientações definidos pela entidade promotora no quadro das actividades previstas no projecto;\n\nc) A utilização de um elemento identificativo do Programa OTL, fornecido pelo lPJ;\n\nd) A aceitação das demais condições do presente Regulamento.\n\n2 - O não cumprimento injustificado do dever de assiduidade, nomeadamente a ausência injustificada em três dias consecutivos ou cinco interpolados, conduz à exclusão do jovem do projecto, sem direito a qualquer bolsa.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018767": {
+   "fragment_id": "865018791",
+   "type": 11,
+   "heading": "18.º",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 18.º\n\nDeveres do Instituto Português da Juventude\n\nConstituem deveres do IPJ:\n\na) A divulgação do Programa OTL;\n\nb) O fornecimento dos formulários previstos no presente Regulamento;\n\nc) A promoção de acções de formação para gestores de projecto;\n\nd) A prestação das informações relativas ao Programa que lhe sejam solicitadas;\n\ne) O esclarecimento e decisão sobre eventuais omissões do presente Regulamento;\n\nf) O pagamento das bolsas devidas aos jovens participantes;\n\ng) O fornecimento às entidades promotoras e aos jovens dos certificados de participação.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018768": {
+   "fragment_id": "865018792",
+   "type": 11,
+   "heading": "19.º — Certificados de participação",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 19.º — Certificados de participação\n\n1 - Após a entrega do relatório final a entidade promotora recebe um certificado do IPJ comprovativo da realização do projecto, identificando a área, as actividades desenvolvidas, o número de jovens e o período de realização.\n\n2 - Os jovens recebem no final da realização do projecto um certificado da sua participação no Programa OTL, o qual identifica o projecto, a área e as actividades desenvolvidas, a entidade promotora e o período de ocupação.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018769": {
+   "fragment_id": "865018793",
+   "type": 11,
+   "heading": "20.º — Penalizações",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 20.º — Penalizações\n\n1 - A existência de quaisquer irregularidades na aplicação das verbas concedidas, nomeadamente a sua utilização para fins diferentes dos estabelecidos ou acordados, implica a imediata suspensão do processamento das mesmas, ficando a entidade impedida de beneficiar de qualquer apoio do IPJ nos dois anos subsequentes.\n\n2 - A não apresentação por parte da entidade promotora do relatório nos termos referidos na alínea f) do n.º 1 e no n.º 2 do artigo 15.º do presente Regulamento implica a reposição das verbas já transferidas, bem como origina o impedimento de novos apoios do IPJ por um prazo não inferior a dois anos.\n\n3 - O não envio do mapa de assiduidade e do respectivo valor da comparticipação na bolsa diária dos jovens implica a imediata suspensão do projecto e a recuperação dos montantes em dívida e devidos aos jovens participantes, implicando ainda a inelegibilidade de qualquer projecto apresentado ao IPJ durante um período de dois anos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018770": {
+   "fragment_id": "865018794",
+   "type": 11,
+   "heading": "21.º — Financiamento",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+   ],
+   "markdown": "###### 21.º — Financiamento\n\nA aprovação dos projectos apresentados fica condicionada à dotação orçamental para o Programa OTL.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20"
+  },
+  "865018771": {
+   "fragment_id": "865018795",
+   "type": 11,
+   "heading": "22.º — Duração",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 22.º — Duração\n\nO Programa, no que se refere a projectos de longa duração, decorre até 31 de Dezembro de cada ano, devendo as acções ser realizadas até essa data.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  },
+  "865018772": {
+   "fragment_id": "865018796",
+   "type": 11,
+   "heading": "22.º-A — Disposições transitórias",
+   "in_force_from": "2013-06-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+   ],
+   "markdown": "###### 22.º-A — Disposições transitórias\n\n1 - Para o corrente ano, os projectos de longa duração podem ser apresentados pelas entidades promotoras até 30 de Março.\n\n2 - A apreciação dos projectos referidos no número anterior é efectuada pelo IPJ no período compreendido entre 1 e 20 de Abril.\n\n3 - Os jovens candidatos em participar no Programa OTL ao abrigo destes projectos podem apresentar as suas candidaturas entre 2 e 31 de Maio.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 205/2013 - Diário da República n.º 116/2013, Série I de 2013-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/205-2013-496885), em vigor a partir de 2013-06-20\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 286/2007 - Diário da República n.º 54/2007, Série I de 2007-03-16](https://diariodarepublica.pt/dr/detalhe/portaria/286-2007-518615), em vigor a partir de 2007-03-17"
+  }
+ }
+}

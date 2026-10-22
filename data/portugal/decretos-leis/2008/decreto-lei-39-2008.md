@@ -1,0 +1,1869 @@
+---
+schema_version: '1.0'
+id: pt:dre:247248:por
+title: Decreto-Lei n.º 39/2008
+short_title: null
+summary: Aprova o regime jurídico da instalação, exploração e funcionamento dos empreendimentos turísticos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 39/2008
+official_date: null
+publication_date: '2008-03-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 48/2008, Série I de 2008-03-07
+  number: '48'
+  series: I
+  supplement: null
+  pages: 1440 - 1456
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/03/04800/0144001456.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-39-2008.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-03-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-15'
+    amending: pt:dre:489771:por
+    amending_title: Decreto-Lei n.º 228/2009
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 24.º
+    - Altera Artigo 30.º
+    - Altera Artigo 41.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 59.º
+    - Altera Artigo 64.º
+    - Altera Artigo 75.º
+    - Entrada Vigor Diploma
+  - date: '2014-01-28'
+    amending: pt:dre:70179162:por
+    amending_title: Decreto-Lei n.º 186/2015; Declaração de Retificação n.º 19/2014; Decreto-Lei n.º 15/2014
+    changes:
+    - Altera Artigo 30.º
+    - Entrada Vigor Diploma
+    - Retifica Artigo 39.º
+    - Retifica Artigo 75.º
+    - Adita Artigo 69.º-A
+    - Altera Capítulo II
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Secção II
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Secção X
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Secção IV
+    - Altera Artigo 29.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 44.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 51.º
+    - Altera Artigo 54.º
+  - date: '2014-11-27'
+    amending: pt:dre:56384880:por
+    amending_title: Decreto-Lei n.º 128/2014
+    changes:
+    - Altera Artigo 22.º
+    - Altera Artigo 67.º
+    - Altera Artigo 70.º
+    - Altera Artigo 73.º
+    - Entrada Vigor Diploma
+    - Revoga Artigo 3.º
+  - date: '2015-09-04'
+    amending: pt:dre:70179162:por
+    amending_title: Decreto-Lei n.º 186/2015
+    changes:
+    - Adita Artigo 20.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 11.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 26.º
+    - Altera Artigo 34.º
+    - Altera Artigo 36.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 54.º
+    - Altera Artigo 70.º
+    - Altera Artigo 74.º
+  - date: '2017-07-01'
+    amending: pt:dre:107596685:por
+    amending_title: Decreto-Lei n.º 80/2017
+    changes:
+    - Adita Artigo 23.º-A
+    - Adita Artigo 25.º-A
+    - Adita Artigo 25.º-B
+    - Adita Artigo 25.º-C
+    - Adita Artigo 29.º-A
+    - Adita Artigo 31.º-A
+    - Adita Artigo 42.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 32.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera Artigo 67.º
+    - Revoga Artigo 20.º-A
+    - Revoga Artigo 50.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 67.º
+    - Altera Artigo 69.º-A
+    - Altera Artigo 71.º
+    - Revoga Artigo 69.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/39/2008/p/cons/20210129/pt/html
+  oj: null
+  dre: '247248'
+  dre_path: /dr/detalhe/decreto-lei/39-2008-247248
+  internal: pt:dre:247248:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2008-247248
+  metadata_url: https://data.dre.pt/eli/dec-lei/39/2008/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34454775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-34454775
+  retrieved_at: '2026-10-22T11:42:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3e3ea4b8c77fe498c1eb1be315b42748183eb84a536570bf5f5ae641f9a09396
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:42:57Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-39-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Turismo no Espaço Rural
+- Alvará
+- Animação Ambiental
+- Apartamento Turístico
+- Livro de Reclamações
+- Garantia
+- Campo de Golfe
+- Estabelecimento de Jogos
+- Turismo
+- Multa
+- Estabelecimento Comercial
+- Reserva Ecológica Nacional
+- Contra-ordenação
+- Definição de Competências
+- Direcção Geral do Consumidor
+- Embargo
+- Enatur
+- Estabelecimento de Restauração
+- Estabelecimento Hoteleiro
+- Segurança Pública
+- Fiscalização
+- Instituto de Turismo de Portugal
+- Interesse para o Turismo
+- ASAE
+- Licenciamento
+- Licenciamento de Obras
+- Marina
+- Moradia Turística
+- Aldeamento Turístico
+- Prestação de Serviços
+- Madeira.região Autónoma
+- Comissão de Aplicação de Coimas em Matéria de Publicidade
+- Instituto da Conservação da Natureza e da Biodiversidade
+- Câmara Municipal
+- Regime Jurídico
+- Registo Nacional de Empreendimentos Turísticos
+- Conjunto Turístico
+- Açores
+- Taxa
+- Estabelecimento Termal
+- Agro-turismo
+- CASA de Campo
+- Hotel Rural
+- Parque de Campismo Rural
+- Turismo de Aldeia
+- Turismo de Habitação
+- Turismo Rural
+- Infraestrutura Turística
+relationships:
+- type: amended_by
+  target: pt:dre:249538:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2008-249538
+  date: '2008-05-06'
+- type: amended_by
+  target: pt:dre:489771:por
+  label: Altera Artigo 8.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 24.º; Altera Artigo
+    30.º; Altera Artigo 41.º; Altera Artigo 54.º; Altera Artigo 55.º; Altera Artigo 56.º; Altera Artigo 59.º; Altera Artigo
+    64.º; Altera Artigo 75.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771
+  date: '2009-09-14'
+- type: amended_by
+  target: pt:dre:571048:por
+  label: Altera Artigo 30.º; Entrada Vigor Diploma; Retifica Artigo 39.º; Retifica Artigo 75.º; Adita Artigo 69.º-A; Altera
+    Capítulo II; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Secção II; Altera Artigo 10.º; Altera Artigo
+    12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Secção
+    X; Altera Artigo 20.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048
+  date: '2014-01-23'
+- type: amended_by
+  target: pt:dre:572121:por
+  label: Altera Artigo 30.º; Entrada Vigor Diploma; Retifica Artigo 39.º; Retifica Artigo 75.º; Adita Artigo 69.º-A; Altera
+    Capítulo II; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Secção II; Altera Artigo 10.º; Altera Artigo
+    12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Secção
+    X; Altera Artigo 20.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2014-572121
+  date: '2014-03-24'
+- type: amended_by
+  target: pt:dre:56384880:por
+  label: Altera Artigo 22.º; Altera Artigo 67.º; Altera Artigo 70.º; Altera Artigo 73.º; Entrada Vigor Diploma; Revoga Artigo
+    3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880
+  date: '2014-08-29'
+- type: amended_by
+  target: pt:dre:70179162:por
+  label: Altera Artigo 30.º; Entrada Vigor Diploma; Retifica Artigo 39.º; Retifica Artigo 75.º; Adita Artigo 69.º-A; Altera
+    Capítulo II; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Secção II; Altera Artigo 10.º; Altera Artigo
+    12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Secção
+    X; Altera Artigo 20.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162
+  date: '2015-09-03'
+- type: amended_by
+  target: pt:dre:107596685:por
+  label: Adita Artigo 23.º-A; Adita Artigo 25.º-A; Adita Artigo 25.º-B; Adita Artigo 25.º-C; Adita Artigo 29.º-A; Adita Artigo
+    31.º-A; Adita Artigo 42.º-A; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo
+    18.º; Altera Artigo 19.º; Altera Artigo 21.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo
+    26.º; Altera Artigo 29.º; Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685
+  date: '2017-06-30'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 67.º; Altera Artigo 69.º-A; Altera Artigo 71.º; Revoga Artigo 69.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/156/2005/09/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/156/2005/09/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/163/2006/08/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/163/2006/08/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/167/1997/07/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/167/1997/07/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/371/2007/11/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/371/2007/11/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/47/1999/02/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/47/1999/02/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/54/2002/03/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/54/2002/03/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/55
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/55
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/53-e/2006/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/53-e/2006/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/60/2007/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/60/2007/09/04/p/dre
+article_structure:
+  article_count: 88
+  section_count: 26
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:42:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 39/2008
+
+O presente decreto-lei consagra o novo regime jurídico da instalação, exploração e funcionamento dos empreendimentos turísticos, procedendo à revogação dos diversos diplomas que actualmente regulam esta matéria e reunindo num único decreto-lei as disposições comuns a todos os empreendimentos, de modo a tornar mais fácil o acesso às normas reguladoras da actividade.
+
+Através da presente iniciativa legislativa, que vem dar cumprimento a uma das medidas do Programa de Simplificação Administrativa e Legislativa - SIMPLEX 2007 com maior impacto na relação entre a Administração Pública e as empresas, e em estreita articulação com o regime jurídico da urbanização e edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, recentemente alterado pela Lei n.º 60/2007, de 4 de Setembro, dá-se cumprimento às orientações fixadas no Programa do Governo no sentido de ser reapreciado o actual quadro legislativo da actividade turística e agilizado o procedimento de licenciamento dos empreendimentos turísticos.
+
+Esta agilização do licenciamento traduz uma simplificação dos procedimentos, acompanhada de uma maior responsabilização dos promotores e de uma melhor fiscalização por parte das entidades públicas.
+
+No que respeita à classificação dos empreendimentos turísticos, optou-se por uma significativa diminuição das tipologias e sub-tipologias existentes e introduziu-se um sistema uniforme de graduação assente na atribuição das categorias de uma a cinco estrelas, com excepção dos empreendimentos de turismo de habitação e de turismo no espaço rural cujas características não justificam o seu escalonamento.
+
+Por outro lado, e tendo como objectivo a promoção da qualificação da oferta, em todas as suas vertentes, de forma a atingir elevados níveis de satisfação dos turistas que nos procuram, a classificação deixa de atender sobretudo aos requisitos físicos das instalações, como acontecia até agora, para passar a reflectir igualmente a qualidade dos serviços prestados.
+
+Opta-se ainda por um sistema de classificação mais flexível que impõe um conjunto de requisitos mínimos para cada categoria e que enumera um conjunto de requisitos opcionais, cujo somatório permite alcançar a pontuação necessária para a obtenção de determinada categoria.
+
+Simultaneamente, e tendo em vista a manutenção dos níveis de qualidade da oferta turística, introduz-se a obrigatoriedade de revisão periódica da classificação atribuída, prevendo-se que este controlo de qualidade possa ser realizado não só pelos serviços e organismos do turismo como por entidades acreditadas para o efeito.
+
+Cria-se o Registo Nacional dos Empreendimentos Turísticos, organizado pelo Turismo de Portugal, I. P., que deve conter a relação actualizada de todos os empreendimentos turísticos e que será disponibilizado ao público.
+
+No capítulo da exploração e funcionamento, consagra-se um novo paradigma de exploração dos empreendimentos turísticos, assente na unidade e continuidade da exploração por parte da entidade exploradora e na permanente afectação à exploração turística de todas as unidades de alojamento que compõem o empreendimento, independentemente do regime de propriedade em que assentam e da possibilidade de utilização das mesmas pelos respectivos proprietários. A aferição deste modelo de exploração turística passa, desde logo, pelo dever da entidade exploradora assegurar que as unidades de alojamento se encontram permanentemente em condições de serem locadas para alojamento a turistas e que nela são prestados os serviços obrigatórios da categoria atribuída ao empreendimento turístico.
+
+Fixam-se igualmente um conjunto de regras que regulam a relação entre a entidade exploradora do empreendimento e o respectivo utilizador, reforçando-se os deveres da primeira, nomeadamente quanto à obrigatoriedade de publicitação de preços e de informação dos utentes relativamente às condições dos serviços prestados.
+
+No que concerne aos empreendimentos turísticos em propriedade plural, determina-se a aplicação subsidiária do regime da propriedade horizontal no relacionamento entre a entidade exploradora e administradora do empreendimento e os proprietários das unidades de alojamento que o compõem, sem prejuízo do estabelecimento de um importante conjunto de normas específicas, resultantes da natureza turística do empreendimento.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e as associações representativas do sector.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime jurídico da instalação, exploração e funcionamento dos empreendimentos turísticos.
+
+### Capítulo II — Empreendimentos turísticos e alojamento local
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+#### Secção I — Noção e tipologias
+
+###### Artigo 2.º — Noção de empreendimentos turísticos
+
+1 - Consideram-se empreendimentos turísticos os estabelecimentos que se destinam a prestar serviços de alojamento, mediante remuneração, dispondo, para o seu funcionamento, de um adequado conjunto de estruturas, equipamentos e serviços complementares.
+
+2 - Não se consideram empreendimentos turísticos para efeitos do presente decreto-lei:
+
+a) As instalações ou os estabelecimentos que, embora destinados a proporcionar alojamento, sejam explorados sem intuito lucrativo ou para fins exclusivamente de solidariedade social e cuja frequência seja restrita a grupos limitados;
+
+b) As instalações ou os estabelecimentos que, embora destinados a proporcionar alojamento temporário com fins lucrativos, não reúnam os requisitos para serem considerados empreendimentos turísticos.
+
+3 - As instalações e os estabelecimentos referidos na alínea b) do número anterior revestem a natureza de alojamento local e são regulados por decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 3.º — Noção de alojamento local
+
+1 - Consideram-se estabelecimentos de alojamento local as moradias, apartamentos e estabelecimentos de hospedagem que, dispondo de autorização de utilização, prestem serviços de alojamento temporário, mediante remuneração, mas não reúnam os requisitos para serem considerados empreendimentos turísticos.
+
+2 - Os estabelecimentos de alojamento local devem respeitar os requisitos mínimos de segurança e higiene definidos por portaria dos membros do Governo responsáveis pelas áreas do turismo e da administração local.
+
+3 - Os estabelecimentos de alojamento local que reúnam os requisitos previstos no presente artigo estão sujeitos a registo na câmara municipal territorialmente competente, na sequência de mera comunicação prévia, nos termos da portaria referida no número anterior.
+
+4 - Apenas os estabelecimentos de alojamento local que tenham realizado a mera comunicação prévia referida no número anterior ou que tenham sido reconvertidos automaticamente nos termos dos n.os 5 e 7 do artigo 75.º, e não tenham visto o seu registo cancelado por incumprimento dos demais requisitos aplicáveis, podem ser comercializados para fins turísticos.
+
+5 - As câmaras municipais devem facultar ao Turismo de Portugal, I. P., o acesso informático ao registo do alojamento local.
+
+6 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, as câmaras municipais devem proceder à comunicação por qualquer outro meio legalmente admissível, e com uma periodicidade mensal, dos registos efetuados.
+
+7 - Os estabelecimentos referidos no presente artigo devem identificar-se como alojamento local, não podendo, em caso algum, utilizar a qualificação turismo e ou turístico, nem qualquer sistema de classificação.
+
+8 - Em todos os estabelecimentos de alojamento local é obrigatória a afixação, no exterior, junto à entrada principal, de placa identificativa, cujo modelo é aprovado na portaria referida no n.º 2, e da qual consta o respetivo número de registo na câmara municipal, no prazo máximo de 10 dias após a atribuição do registo por esta.
+
+9 - Nos estabelecimentos de alojamento local podem instalar-se estabelecimentos comerciais e de prestação de serviços, incluindo os de restauração e de bebidas, sem prejuízo do cumprimento dos requisitos específicos previstos na legislação aplicável a estes estabelecimentos.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 128/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), em vigor a partir de 2014-11-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 4.º — Tipologias de empreendimentos turísticos
+
+1 - Os empreendimentos turísticos podem ser integrados num dos seguintes tipos:
+
+a) Estabelecimentos hoteleiros;
+
+b) Aldeamentos turísticos;
+
+c) Apartamentos turísticos;
+
+d) Conjuntos turísticos (resorts);
+
+e) Empreendimentos de turismo de habitação;
+
+f) Empreendimentos de turismo no espaço rural;
+
+g) Parques de campismo e de caravanismo;
+
+h)  [Revogada].
+
+2 - Os requisitos específicos da instalação, classificação e funcionamento de cada tipo de empreendimento turístico referido no número anterior são definidos:
+
+a) Por portaria dos membros do Governo responsáveis pelas áreas do turismo e do ordenamento do território, nos casos das alíneas a) a d);
+
+b) Por portaria dos membros do Governo responsáveis pelas áreas do turismo, da administração local e da agricultura e do desenvolvimento rural, no caso das alíneas e) a g).
+
+3 - As tipologias de empreendimentos turísticos identificados no n.º 1 podem ser reconhecidas como turismo de natureza, nos termos do artigo 20.º, ou associadas a marcas nacionais, como o sistema nacional de áreas classificadas (SNAC) ou o natural.pt.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+#### Secção II — «Requisitos comuns dos empreendimentos turísticos»
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 5.º — Requisitos gerais de instalação
+
+1 - A instalação de empreendimentos turísticos deve cumprir as normas constantes do regime jurídico da urbanização e edificação, bem como as normas técnicas de construção aplicáveis às edificações em geral, designadamente em matéria de segurança contra incêndio, saúde, higiene, ruído e eficiência energética, sem prejuízo do disposto no presente decreto-lei e respetiva regulamentação.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 25/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2008-249538), em vigor a partir de 2008-04-06
+
+###### Artigo 6.º — Condições de acessibilidade
+
+1 - As condições de acessibilidade a satisfazer no projecto e na construção dos empreendimentos turísticos devem cumprir as normas técnicas previstas no Decreto-Lei n.º 163/2006, de 8 de Agosto.
+
+2 - Sem prejuízo do disposto no número anterior, todos os empreendimentos turísticos, com excepção dos previstos na alínea e) e f) do n.º 1 do artigo 4.º, devem dispor de instalações, equipamentos e, pelo menos, de uma unidade de alojamento, que permitam a sua utilização por utentes com mobilidade condicionada.
+
+###### Artigo 7.º — Unidades de alojamento
+
+1 - Unidade de alojamento é o espaço delimitado destinado ao uso exclusivo e privativo do utente do empreendimento turístico.
+
+2 - As unidades de alojamento podem ser quartos, suítes, apartamentos ou moradias, consoante o tipo de empreendimento turístico.
+
+3 - Todas as unidades de alojamento devem ser identificadas no exterior da respectiva porta de entrada em local bem visível.
+
+4 - As portas de entrada das unidades de alojamento devem possuir um sistema de segurança que apenas permita o acesso ao utente e ao pessoal do estabelecimento.
+
+5 - As unidades de alojamento devem ser insonorizadas e devem ter janelas ou portadas em comunicação directa com o exterior.
+
+###### Artigo 8.º — Capacidade
+
+1 - Para o único efeito da exploração turística, e com excepção do disposto no n.º 4, a capacidade dos empreendimentos turísticos é determinada pelo correspondente número de camas fixas instaladas nas unidades de alojamento.
+
+2 - Nas unidades de alojamento podem ser instaladas camas convertíveis desde que não excedam o número das camas fixas.
+
+3 - Nas unidades de alojamento podem ser instaladas camas suplementares amovíveis.
+
+4 - A capacidade dos parques de campismo e de caravanismo é determinada pela área útil destinada a cada utilizador, de acordo com o estabelecido na portaria prevista na alínea b) do n.º 2 do artigo 4.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+###### Artigo 9.º — Equipamentos de uso comum
+
+1 - Os requisitos dos equipamentos de uso comum que integram os empreendimentos turísticos, com excepção dos requisitos de segurança, são definidos por portaria do membro do Governo responsável pela área do turismo.
+
+2 - Nas piscinas de empreendimentos turísticos, quando utilizadas exclusivamente pelos seus hóspedes e convidados, tem de ser assegurada vigilância e mantido disponível material e equipamento de informação e salvamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 25/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2008-249538), em vigor a partir de 2008-04-06
+
+###### Artigo 10.º — Estabelecimentos comerciais ou de prestação de serviços
+
+Nos empreendimentos turísticos podem instalar-se estabelecimentos comerciais e de prestação de serviços, incluindo os de restauração e de bebidas, sem prejuízo do cumprimento dos requisitos específicos previstos na legislação aplicável a estes estabelecimentos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+#### Secção III — Estabelecimentos hoteleiros
+
+###### Artigo 11.º — Noção de estabelecimento hoteleiro
+
+1 - São estabelecimentos hoteleiros os empreendimentos turísticos destinados a proporcionar alojamento temporário e outros serviços acessórios ou de apoio, com ou sem fornecimento de refeições, e vocacionados a uma locação diária.
+
+2 - Os estabelecimentos hoteleiros podem ser classificados nos seguintes grupos:
+
+a) Hotéis;
+
+b) Hotéis-apartamentos (aparthotéis), quando a maioria das unidades de alojamento é constituída por apartamentos e/ou moradias;
+
+c) Pousadas, quando explorados diretamente pela ENATUR - Empresa Nacional de Turismo, S. A., ou por terceiros mediante celebração de contratos de franquia ou de cessão de exploração, e instalados em imóveis classificados como de interesse nacional, de interesse público ou de interesse municipal ou em edifícios que, pela sua antiguidade, valor arquitetónico e histórico, sejam representativos de uma determinada época.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+###### Artigo 12.º — Condições de instalação
+
+1 - Os estabelecimentos hoteleiros devem dispor, no mínimo, de 10 unidades de alojamento.
+
+2 - Os estabelecimentos hoteleiros podem ocupar a totalidade ou uma parte independente, constituída por pisos completos, de um ou mais edifícios, desde que os edifícios em causa constituam, entre eles, um conjunto de espaços contíguos, ou desde que, entre eles, exista uma área de utilização comum.
+
+3 - Num mesmo edifício podem ser instalados estabelecimentos hoteleiros de diferentes grupos ou categorias.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 25/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2008-249538), em vigor a partir de 2008-04-06
+
+#### Secção IV — Aldeamentos turísticos
+
+###### Artigo 13.º — Noção de aldeamento turístico
+
+1 - São aldeamentos turísticos os empreendimentos turísticos constituídos por um conjunto de instalações funcionalmente interdependentes com expressão arquitetónica coerente, com unidades de alojamento, situadas em espaços com continuidade territorial, com vias de circulação interna que permitam o trânsito de veículos de emergência, ainda que atravessadas por estradas municipais e caminhos municipais já existentes, linhas de água e faixas de terreno afetas a funções de proteção e conservação de recursos naturais, destinados a proporcionar alojamento e serviços complementares de apoio a turistas.
+
+2 - Os edifícios que integram os aldeamentos turísticos não podem exceder três pisos, incluindo o rés-do-chão, sem prejuízo do disposto em instrumentos de gestão territorial aplicáveis ou alvarás de loteamento válidos e eficazes nos termos da lei, quando estes estipularem número inferior de pisos.
+
+3 - Os aldeamentos turísticos devem dispor, no mínimo, de 10 unidades de alojamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 25/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2008-249538), em vigor a partir de 2008-04-06
+
+#### Secção V — Apartamentos turísticos
+
+###### Artigo 14.º — Noção de apartamento turístico
+
+1 - São apartamentos turísticos os empreendimentos turísticos constituídos por um conjunto coerente de unidades de alojamento, do tipo apartamento, entendendo-se estas como parte de um edifício à qual se acede através de espaços comuns, nomeadamente átrio, corredor, galeria ou patamar de escada, que se destinem a proporcionar alojamento e outros serviços complementares de apoio a turistas.
+
+2 - Os apartamentos turísticos podem ocupar a totalidade ou parte independente, constituída por pisos completos, de um ou mais edifícios, desde que os edifícios em causa constituam, entre eles, um conjunto de espaços contíguos, ou desde que, entre eles, exista uma área de utilização comum.
+
+3 - Os apartamentos turísticos devem dispor, no mínimo, de 10 unidades de alojamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+#### Secção VI — Conjuntos turísticos (resorts)
+
+###### Artigo 15.º — Noção de conjunto turístico (resort)
+
+1 - São conjuntos turísticos (resorts) os empreendimentos turísticos constituídos por núcleos de instalações funcionalmente interdependentes, situados em espaços com continuidade territorial, ainda que atravessados por estradas municipais e caminhos municipais já existentes, linhas de água e faixas de terreno afetas a funções de proteção e conservação de recursos naturais, destinados a proporcionar alojamento e serviços complementares de apoio a turistas, sujeitos a uma administração comum de serviços partilhados e de equipamentos de utilização comum, que integrem pelo menos dois empreendimentos turísticos de um dos tipos previstos no n.º 1 do artigo 4.º, sendo obrigatoriamente um deles um estabelecimento hoteleiro.
+
+2 - [Revogado].
+
+3 - [Revogado].
+
+4 - Sem prejuízo do disposto no artigo 10.º, nos conjuntos turísticos (resorts) só podem instalar-se empreendimentos turísticos, ainda que de diferentes categorias.
+
+5 - [Revogado].
+
+6 - Quando instalados em conjuntos turísticos (resorts), os aldeamentos turísticos consideram-se sempre situados em espaços com continuidade territorial.
+
+7 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+###### Artigo 16.º — Requisitos mínimos dos conjuntos turísticos (resorts)
+
+Os conjuntos turísticos (resorts) devem possuir, no mínimo, e para além dos requisitos gerais de instalação, as seguintes infra-estruturas e equipamentos:
+
+a) Vias de circulação internas que permitam o trânsito de veículos de emergência;
+
+b) Vias de circulação interna com uma largura mínima de 3 m ou 5 m, conforme sejam de sentido único ou duplo, quando seja permitido o trânsito de veículos automóveis, salvo quando admitidos limites mínimos inferiores em plano municipal de ordenamento do território aplicável;
+
+c) Áreas de estacionamento de uso comum;
+
+d) Espaços e áreas verdes exteriores envolventes para uso comum;
+
+e) Portaria;
+
+f) Piscina de utilização comum;
+
+g) Equipamentos de desporto e lazer.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+#### Secção VII — Empreendimentos de turismo de habitação
+
+###### Artigo 17.º — Noção de empreendimentos de turismo de habitação
+
+1 - São empreendimentos de turismo de habitação os estabelecimentos de natureza familiar instalados em imóveis antigos particulares que, pelo seu valor arquitectónico, histórico ou artístico, sejam representativos de uma determinada época, nomeadamente palácios e solares, podendo localizar-se em espaços rurais ou urbanos.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+#### Secção VIII — Empreendimentos de turismo no espaço rural
+
+###### Artigo 18.º — Noção de empreendimentos no espaço rural
+
+1 - São empreendimentos de turismo no espaço rural os estabelecimentos que se destinam a prestar, em espaços rurais, serviços de alojamento a turistas, preservando, recuperando e valorizando o património arquitetónico, histórico, natural e paisagístico dos respetivos locais e regiões onde se situam, através da reconstrução, reabilitação ou ampliação de construções existentes, de modo a ser assegurada a sua integração na envolvente.
+
+2 - [Revogado].
+
+3 - Os empreendimentos de turismo no espaço rural podem ser classificados nos seguintes grupos:
+
+a) Casas de campo;
+
+b) Agro-turismo;
+
+c) Hotéis rurais.
+
+4 - São casas de campo os imóveis situados em aldeias e espaços rurais que se integrem, pela sua traça, materiais de construção e demais características, na arquitectura típica local.
+
+5 - Quando as casas de campo se situem em aldeias e sejam exploradas de uma forma integrada, por uma única entidade, são consideradas como turismo de aldeia.
+
+6 - São empreendimentos de agro-turismo os imóveis situados em explorações agrícolas que permitam aos hóspedes o acompanhamento e conhecimento da actividade agrícola, ou a participação nos trabalhos aí desenvolvidos, de acordo com as regras estabelecidas pelo seu responsável.
+
+7 - São hotéis rurais os estabelecimentos hoteleiros que cumpram os requisitos de classificação aplicáveis a esta tipologia, bem como o disposto no n.º 1, podendo instalar-se em edifícios existentes ou construídos de raiz.
+
+8 - [Revogado].
+
+9 - Às obras em empreendimentos referidos no n.º 1 aplica-se o princípio da garantia do existente constante do artigo 60.º do regime jurídico da urbanização e da edificação e do artigo 51.º do Decreto-Lei n.º 307/2009, de 23 de outubro, alterado pela Lei n.º 32/2012, de 14 de agosto, que estabelece o regime jurídico da reabilitação urbana em áreas de reabilitação urbana.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+#### Secção IX — Parques de campismo e de caravanismo
+
+###### Artigo 19.º — Noção de parques de campismo e de caravanismo
+
+1 - São parques de campismo e de caravanismo os empreendimentos instalados em terrenos devidamente delimitados e dotados de estruturas destinadas a permitir a instalação de tendas, reboques, caravanas, autocaravanas ou outras instalações de alojamento amovível e demais material e equipamento necessários à prática do campismo e do caravanismo.
+
+2 - Os parques de campismo e de caravanismo podem ser públicos ou privativos, consoante se destinem ao público em geral ou apenas aos associados ou beneficiários das respectivas entidades proprietárias ou exploradoras.
+
+3 - Os parques de campismo e de caravanismo podem destinar-se exclusivamente à instalação de um dos tipos de equipamento referidos no n.º 1, adoptando a correspondente designação.
+
+4 - Nos parques de campismo e de caravanismo podem existir instalações destinadas a alojamento, nomeadamente bungalows, mobile homes, glamping, e realidades afins, na proporção e nos termos a regulamentar na portaria prevista na alínea b) do n.º 2 do artigo 4.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+#### Secção X — Turismo de natureza
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 20.º — Turismo de natureza
+
+1 - [Revogado].
+
+2 - (Revogado).
+
+3 - [Revogado].
+
+4 - O reconhecimento de empreendimentos turísticos como turismo de natureza compete ao Instituto de Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), nos termos definidos por portaria dos membros do Governo responsáveis pelas áreas da conservação da natureza e do turismo.
+
+5 - (Revogado).
+
+6 -  (Revogado).
+
+7 - O reconhecimento de empreendimentos turísticos como turismo de natureza está isento de qualquer taxa.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 20.º-A — Marca nacional de áreas integradas no sistema nacional de áreas classificadas
+
+1 - Os empreendimentos turísticos podem aderir a uma marca nacional de produtos e serviços das áreas integradas no SNAC.
+
+2 - A aprovação da adesão dos empreendimentos turísticos à marca nacional mencionada no número anterior compete ao ICNF, I. P., e depende do cumprimento dos critérios definidos por regulamento específico deste instituto.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+### Capítulo III — Competências
+
+###### Artigo 21.º — Competências do Turismo de Portugal, I. P.
+
+1 - [Revogado].
+
+2 - Compete ao Turismo de Portugal, I. P., no âmbito das suas atribuições:
+
+a) Intervir, nos termos da lei, na elaboração dos instrumentos de gestão territorial;
+
+b) Emitir parecer obrigatório sobre as operações de loteamento que contemplem a instalação de empreendimentos turísticos, limitado à área destes, exceto quando tais operações se localizem em zona abrangida por plano de pormenor em que tenha tido intervenção;
+
+c) Fixar a capacidade máxima e atribuir a classificação dos empreendimentos turísticos referidos nas alíneas a) a d) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º;
+
+d) Enquadrar nas tipologias de empreendimentos turísticos novas realidades de alojamento que surjam no mercado, identificando as regras do presente decreto-lei e respetiva regulamentação que lhes sejam aplicáveis, publicitando o enquadramento no sítio da internet do Turismo de Portugal, I. P.
+
+3 - (Revogado).
+
+4 - Para efeitos da instalação de empreendimentos turísticos, os contratos que tenham por objeto a elaboração de um projeto de plano, sua alteração ou revisão, previsto no n.º 2 do artigo 6.º e no artigo 79.º do regime jurídico dos instrumentos de gestão territorial, podem ser celebrados também com o Turismo de Portugal, I. P., e com as demais entidades públicas representativas de interesses a ponderar no procedimento relativo ao futuro plano.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+###### Artigo 22.º — Competências dos órgãos municipais
+
+1 - No âmbito da instalação dos empreendimentos turísticos, compete aos órgãos municipais exercer as competências atribuídas pelo regime jurídico da urbanização e da edificação com as especificidades constantes do presente decreto-lei.
+
+2 - Compete ainda à câmara municipal exercer as seguintes competências especialmente previstas no presente decreto-lei:
+
+a) Fixar a capacidade máxima e atribuir a classificação dos empreendimentos de turismo de habitação;
+
+b) Fixar a capacidade máxima e atribuir a classificação dos empreendimentos de turismo no espaço rural, com excepção dos hotéis rurais;
+
+c) Fixar a capacidade máxima e atribuir a classificação dos parques de campismo e de caravanismo;
+
+d) (Revogada).
+
+> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 128/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), em vigor a partir de 2014-11-27
+
+### Capítulo IV — Instalação dos empreendimentos turísticos
+
+#### Secção I — Disposições gerais
+
+###### Artigo 23.º — Regime aplicável
+
+1 - O procedimento respeitante à instalação dos empreendimentos turísticos segue o regime previsto no presente decreto-lei e está submetido ao regime jurídico da urbanização e da edificação, com as especificidades constantes do presente regime e respectiva regulamentação, sempre que envolva a realização das operações urbanísticas ali previstas.
+
+2 - Aplica-se à edificação de empreendimentos turísticos o procedimento de comunicação prévia com prazo previsto no artigo 23.º-A ou, quando aplicável, a comunicação prévia nos termos do regime jurídico da urbanização e edificação, podendo, em qualquer caso, o promotor optar pelo procedimento de licenciamento.
+
+3 - O procedimento deve ser instruído nos termos do regime jurídico da urbanização e da edificação, e respetiva regulamentação, acompanhado dos elementos constantes de portaria dos membros do Governo responsáveis pelas áreas do turismo e do ordenamento do território, devendo o interessado indicar a classificação pretendida para o empreendimento turístico.
+
+4 - [Revogado].
+
+5 - A câmara municipal pode contratualizar com o Turismo de Portugal, I. P., o acompanhamento do procedimento de instalação dos empreendimentos turísticos referidos nas alíneas a) a d) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º, para efeitos de dinamização do procedimento, designadamente para promoção de reuniões de concertação entre as entidades consultadas ou entre estas, a câmara municipal e o requerente.
+
+6 - Nos casos em que decorra em simultâneo a avaliação ambiental de instrumento de gestão territorial e a avaliação de impacto ambiental de projectos de empreendimentos turísticos enquadrados de forma detalhada naquele instrumento, pode realizar-se uma única consulta pública, sem prejuízo de exercício das competências próprias das entidades intervenientes.
+
+7 - Para os projetos relativos a empreendimentos turísticos que sejam submetidos a procedimento de avaliação de impacte ambiental e que se localizem, total ou parcialmente, em áreas incluídas na Reserva Ecológica Nacional, estabelecida no Decreto-Lei n.º 166/2008, de 22 de agosto, alterado pelos Decretos-Leis n.os 239/2012, de 1 de novembro, e 96/2013, de 19 de julho, a pronúncia da comissão de coordenação e desenvolvimento regional competente no âmbito daquela avaliação compreende, também, a sua pronúncia nos termos previstos na legislação aplicável.
+
+8 - Quando os projetos relativos a empreendimentos turísticos sejam submetidos a procedimento de análise de incidências ambientais e se localizem, total ou parcialmente, em áreas incluídas na Reserva Ecológica Nacional, a pronúncia da comissão de coordenação e desenvolvimento regional competente compreende também a pronúncia nos termos do regime jurídico da Reserva Ecológica Nacional, aprovado pelo Decreto-Lei n.º 166/2008, de 22 de agosto, alterado pelos Decretos-Leis n.os 239/2012, de 1 de novembro, e 96/2013, de 19 de julho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 23.º-A — Comunicação prévia com prazo
+
+1 - A edificação de empreendimentos turísticos está sujeita à apresentação de comunicação prévia com prazo, sem prejuízo da aplicação dos critérios de apreciação e de indeferimento dos procedimentos previstos no regime jurídico da urbanização e edificação.
+
+2 - No prazo de 20 dias a contar da entrega da comunicação e demais elementos a que se refere o n.º 3 do artigo 11.º do regime jurídico da urbanização e da edificação, o presidente da câmara municipal, com faculdade de delegação, decide sobre o pedido, devendo indeferir a comunicação quando verifique que a obra viola as normas legais e regulamentares aplicáveis, designadamente as constantes de plano municipal de ordenamento do território, de alvará de loteamento, as normas técnicas de construção em vigor, ou os termos de informação prévia existente.
+
+3 - O prazo previsto no número anterior é de 60 dias quando haja lugar a consulta a entidades externas.
+
+4 - Decorridos os prazos previstos nos números anteriores, consoante os casos, sem que a comunicação prévia tenha sido rejeitada ou o pedido indeferido, é disponibilizada, no sistema informático através do qual são tramitados os procedimentos urbanísticos, a informação de que a comunicação prévia não foi rejeitada, o que equivale à sua admissão.
+
+5 - Quando o presidente da câmara municipal defira o pedido ou não se pronuncie no prazo previsto no n.º 2 ou no n.º 3, consoante o caso, o interessado pode dar início às obras, efetuando previamente o pagamento das taxas devidas através de autoliquidação.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+###### Artigo 24.º — Estabelecimentos comerciais e de restauração e bebidas
+
+1 - As disposições do presente decreto-lei relativas à instalação dos empreendimentos turísticos são aplicáveis aos estabelecimentos comerciais e de restauração ou de bebidas que deles sejam partes integrantes.
+
+2 - O disposto no número anterior não dispensa o cumprimento dos requisitos específicos relativos a instalações e funcionamento previstos na demais legislação aplicável.
+
+3 - Sem prejuízo do disposto no número anterior, a emissão do alvará de autorização de utilização para fins turísticos ou a comunicação de abertura de um empreendimento turístico substitui a permissão de funcionamento de todas as suas partes integrantes, incluindo os estabelecimentos de restauração ou de bebidas.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+#### Secção II — Informação prévia
+
+###### Artigo 25.º — Pedido de informação prévia
+
+1 - Qualquer interessado pode requerer à câmara municipal informação prévia sobre a possibilidade de instalar um empreendimento turístico e quais as respetivas condicionantes urbanísticas, nos termos previstos no regime jurídico da urbanização e edificação.
+
+2 - O pedido de informação prévia relativo à possibilidade de instalação de um conjunto turístico (resort) abrange a totalidade dos empreendimentos, estabelecimentos e equipamentos que o integram.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+###### Artigo 25.º-A — Pedido de informação prévia em solo rústico
+
+1 - Qualquer interessado pode pedir à câmara municipal, a título prévio, informação sobre a viabilidade de determinada operação urbanística de que dependa a instalação de empreendimento turístico em solo rústico, bem como sobre os respetivos condicionamentos legais ou regulamentares, nomeadamente relativos a infraestruturas, servidões administrativas e restrições de utilidade pública, índices urbanísticos, cérceas, afastamentos e demais parâmetros aplicáveis à pretensão, com os efeitos previstos no presente artigo.
+
+2 - O pedido de informação prévia referido no número anterior deve ser instruído com os seguintes elementos:
+
+a) Código de acesso à certidão permanente ou certidão da descrição e de todas as inscrições em vigor emitida pela conservatória do registo predial referente ao prédio ou prédios abrangidos, ou, quando omissa a inscrição do prédio no registo, a respetiva certidão negativa, acompanhada da caderneta predial onde constem os correspondentes artigos matriciais;
+
+b) Delimitação da área objeto da operação e sua área de enquadramento em planta de localização fornecida pela câmara municipal ou planta de localização à escala 1:1.000, com indicação das coordenadas geográficas dos limites da área da operação urbanística, no sistema de coordenadas geográficas utilizado pelo município;
+
+c) Levantamento topográfico, sempre que haja alteração da topografia ou da implantação das construções, à escala de 1:200 ou de 1:500 no caso de loteamentos, devidamente cotado, que identifique o prédio e a respetiva área, assim como o espaço público envolvente;
+
+d) Planta de implantação, desenhada sobre o levantamento topográfico, quando este for exigível, indicando os polígonos de implantação das construções;
+
+e) Memória descritiva contendo:
+
+i) Área objeto do pedido;
+
+ii) Caracterização da operação urbanística;
+
+iii) Enquadramento da pretensão nos planos territoriais aplicáveis;
+
+iv) Justificação das opções técnicas e da integração urbana e paisagística da operação;
+
+v) Indicação das condicionantes para um adequado relacionamento formal e funcional com a envolvente, incluindo com a via pública e as infraestruturas ou equipamentos aí existentes;
+
+vi) Programa de utilização das edificações, quando for o caso, incluindo a área a afetar aos diversos usos;
+
+vii) Áreas destinadas a infraestruturas, equipamentos, espaços verdes e outros espaços de utilização coletiva e respetivos arranjos, quando estejam previstos;
+
+viii) Quadro sinóptico identificando a superfície total do terreno objeto da operação e, em função da operação urbanística em causa, a área total de implantação, a área de implantação do edifício, a área total de construção, a área de construção do edifício, o número de pisos, a altura da fachada, as áreas a afetar aos usos pretendidos e as áreas de cedência, assim como a demonstração do cumprimento de outros parâmetros constantes de normas legais e regulamentares aplicáveis;
+
+ix) Identificação e características genéricas dos espaços verdes e de utilização comum;
+
+x) Especificação da classificação (tipologia e categoria do empreendimento turístico) pretendida;
+
+xi) Especificação do número e tipologia das unidades de alojamento e do número máximo de camas fixas/utentes;
+
+xii) Especificação do número de lugares de estacionamento afetos ao empreendimento turístico;
+
+f) Quando a edificação esteja abrangida por operação de loteamento, indicação do respetivo procedimento administrativo;
+
+g) Elementos desenhados, nomeadamente incluindo plantas à escala 1:1000 ou superior que caraterizem a intervenção pretendida definindo a volumetria, alinhamento, altura da fachada e implantação da edificação e das construções anexas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+###### Artigo 25.º-B — Procedimento
+
+1 - O presente artigo estabelece um procedimento específico de pedido de informação prévia em solo rústico ou parcialmente rústico, o qual não altera as condições materiais de decisão subjacentes à viabilidade do pedido.
+
+2 - Recebido o pedido de informação prévia em solo rústico ou parcialmente rústico e sem prejuízo do disposto no artigo 11.º do regime jurídico de urbanização e edificação, o presidente da câmara municipal convoca, no prazo de 10 dias, uma comissão constituída pelas entidades cujos pareceres, autorizações ou aprovações condicionem, nos termos da lei, a decisão a proferir, remetendo a pretensão apresentada.
+
+3 - Não há lugar à convocação da comissão referida no número anterior, sempre que a câmara municipal delibere no sentido de rejeitar o pedido de informação prévia em solo rústico, com o fundamento na inexistência de interesse público municipal na instalação do empreendimento turístico em causa.
+
+4 - O prazo previsto no n.º 2 suspende-se, pelo período máximo de cinco dias, sempre que o presidente da câmara municipal notifique os requerentes para apresentação de elementos adicionais que permitam completar ou corrigir o pedido, que deverão ser entregues no prazo máximo de 5 dias, contados da respetiva notificação.
+
+5 - A comissão é presidida pelo presidente da câmara municipal ou por quem tenha competências delegadas para o efeito e reúne no prazo de 15 dias a contar da data da disponibilização do processo para que cada entidade manifeste a sua posição sobre a pretensão formulada.
+
+6 - A posição manifestada pelos representantes na comissão substitui os pareceres que as entidades devem emitir sobre a pretensão, nos termos legais e regulamentares.
+
+7 - Considera-se inexistir oposição, por parte de entidade convocada para integrar a comissão, sempre que o respetivo representante não manifeste fundamentadamente a sua discordância com o pedido ou, quando apesar de convocada, a entidade não compareça à reunião nem manifeste posição até à data da reunião.
+
+8 - A manifestação de posição a que se refere a segunda parte do número anterior deve constar de suporte escrito e pode ser disponibilizado à presidência da comissão até ao início da reunião decisória.
+
+9 - No caso de haver uma apreciação desfavorável por parte de uma ou mais entidades que integram a comissão, o presidente da câmara municipal pode convocar, no prazo de 5 dias após a data da primeira reunião, uma reunião adicional da comissão com vista à concertação de uma solução que permita ultrapassar as objeções formuladas, devendo a reunião ter lugar nos 15 dias seguintes à convocação.
+
+10 - A inexistência de uma solução concertada das entidades com competência para a emissão de pareceres de natureza obrigatória e vinculativa determina a extinção do procedimento.
+
+11 - A existência de pareceres ou posições desfavoráveis de natureza não vinculativa não obsta a uma decisão final favorável.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+###### Artigo 25.º-C — Decisão
+
+1 - A câmara municipal comunica a decisão relativa ao pedido de informação prévia no prazo de 60 dias contados a partir da data da receção do pedido de informação prévia, ou dos elementos solicitados para completar ou corrigir o pedido, podendo decidir desfavoravelmente à viabilidade do empreendimento turístico.
+
+2 - A decisão final é obrigatoriamente notificada ao requerente juntamente com as atas das reuniões da comissão, referidas no artigo anterior, que dela fazem parte integrante.
+
+3 - Sendo a decisão final desfavorável, dela deve constar a indicação dos termos em que a mesma, sempre que possível, possa ser revista, dando cumprimento às normas legais e regulamentares aplicáveis.
+
+4 - Compete às entidades que integram a comissão referida no n.º 2 do artigo 25.º-B, consoante as respetivas competências próprias, adotar e tramitar:
+
+a) No prazo máximo de 120 dias, os atos administrativos e as operações materiais legalmente necessárias para autorizar ou permitir a edificação e instalação do empreendimento, nomeadamente condicionantes e delimitações de RAN, REN, servidões ou outras restrições de utilidade pública;
+
+b) No prazo máximo de 180 dias, os atos administrativos e as operações materiais legalmente necessárias para autorizar ou permitir a edificação e instalação do empreendimento, nomeadamente alterações a instrumentos de gestão territorial.
+
+5 - A tramitação prevista no número anterior não prejudica ou condiciona qualquer ato a praticar por membros do Governo no âmbito de competências próprias decorrentes dos regimes jurídicos aplicáveis.
+
+6 - A informação prévia favorável vincula as entidades competentes na decisão sobre um pedido de licenciamento ou de apresentação de comunicação prévia subsequente, no prazo de um ano, após essa decisão ou após a alteração das condicionantes aplicáveis nos termos do n.º 4 do presente artigo e dispensa a realização de novas consultas a entidades exteriores ao município.
+
+7 - Decorrido o prazo fixado no número anterior, o particular pode requerer ao presidente da câmara municipal informação confirmativa de que se mantêm os pressupostos de facto e de direito que levaram à decisão favorável, devendo o mesmo decidir no prazo de 20 dias e, em caso afirmativo ou de ausência de resposta no termo do referido prazo, reinicia-se novo prazo de um ano para apresentar os pedidos de comunicação prévia ou de licenciamento.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+#### Secção III — Licenciamento ou comunicação prévia de operações urbanísticas
+
+###### Artigo 26.º — Parecer do Turismo de Portugal, I. P.
+
+1 - Qualquer interessado pode requerer ao Turismo de Portugal, I. P., a emissão de parecer relativamente:
+
+a) [Revogada];
+
+b) Ao pedido de informação prévia, à admissão de comunicação prévia ou de comunicação prévia com prazo e a pedido de licenciamento para realização de obras de edificação referentes aos empreendimentos turísticos previstos nas alíneas a) a d) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º
+
+2 - O parecer referido no número anterior destina-se a verificar o cumprimento das normas estabelecidas no presente decreto-lei e respetiva regulamentação, designadamente a adequação do empreendimento turístico previsto ao uso e tipologia pretendidos e implica, quando aplicável, a apreciação do projeto de arquitetura do empreendimento turístico, e a decisão relativa à dispensa de requisitos a que se referem os n.os 2 a 4 do artigo 39.º, quando tenha sido formulada.
+
+3 - O parecer referido nos números anteriores não é vinculativo e é comunicado pelo Turismo de Portugal, I. P., à câmara municipal territorialmente competente.
+
+4 - [Revogado].
+
+5 - No âmbito de pedidos de licenciamento ou de comunicações prévias para a realização de obras de edificação, em fase de projeto, juntamente com o parecer, quando a ele haja lugar, deve ser indicada a capacidade máxima do empreendimento e a respetiva tipologia de acordo com o projeto apresentado.
+
+6 - As câmaras municipais notificam o Turismo de Portugal, I. P., através da plataforma eletrónica prevista no artigo 74.º dos pedidos a que se refere o n.º 1 do presente artigo e respetiva decisão, acompanhado do projeto de arquitetura, quando aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 27.º — Alvará de licença ou admissão da comunicação prévia
+
+No caso dos parques de campismo e de caravanismo e dos empreendimentos de turismo de habitação e de turismo no espaço rural, com exceção dos hotéis rurais, a câmara municipal, juntamente com a emissão do alvará de licença ou a admissão expressa da comunicação prévia para a realização de obras de edificação, fixa a capacidade máxima e atribui a classificação de acordo com o projeto apresentado, a confirmar nos termos previstos no artigo 36.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 28.º — Instalação de conjuntos turísticos (resorts)
+
+Sem prejuízo do disposto no n.º 2 do artigo 25.º, a entidade promotora do empreendimento pode optar por submeter conjuntamente a licenciamento ou comunicação prévia as operações urbanísticas referentes à instalação da totalidade dos componentes de um conjunto turístico (resort), ou, alternativamente, submeter tais operações a licenciamento ou comunicação prévia separadamente, relativamente a cada um dos componentes ou a distintas fases de instalação.
+
+#### Secção IV — Obras isentas de controlo prévio
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 29.º — Comunicação ao Turismo de Portugal, I. P
+
+As obras realizadas nos empreendimentos turísticos referidos nas alíneas a) a d) do n.º 1 do artigo 4.º, e na alínea c) do n.º 3 do artigo 18.º que, nos termos do regime jurídico da urbanização e da edificação, estejam isentas de controlo prévio, são declaradas ao Turismo de Portugal, I. P., para os efeitos previstos no artigo 38.º, acompanhadas das respetivas peças desenhadas, caso existam, mediante formulário a disponibilizar na página na Internet daquela entidade, no prazo de 30 dias após a sua conclusão, desde que:
+
+a) Tenham por efeito a alteração da classificação ou da capacidade máxima do empreendimento;
+
+b) Sejam susceptíveis de prejudicar os requisitos mínimos exigidos para a classificação do empreendimento, nos termos do presente decreto-lei e da respectiva regulamentação.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 29.º-A — Procedimento
+
+1 - Após a realização das obras referidas no artigo anterior e, caso seja necessária a alteração de uso para fins turísticos, aplica-se o regime previsto no presente artigo.
+
+2 - O pedido da autorização de utilização para fins turísticos deve ser instruído com os seguintes elementos:
+
+a) Alvará de autorização de utilização do edifício existente ou certidão comprovativa da respetiva inexistência, caso se trate de edifício anterior a 1951;
+
+b) Documento emitido pelo Turismo de Portugal, I. P., relativo a dispensa de requisitos de instalação e funcionamento, quando aplicável;
+
+c) Termo de responsabilidade subscrito pelo diretor da obra ou diretor da fiscalização assegurando a conformidade da edificação ou da sua fração autónoma com os fins a que se destina e o respeito pelas normas legais e regulamentares aplicáveis tendo em conta o uso e a classificação pretendida, atestando ainda que as alterações introduzidas são isentas de controlo prévio nos termos das alíneas a), b) ou c) do n.º 1 do artigo 6.º do regime jurídico da urbanização e da edificação, juntando a memória descritiva e as telas finais respetivas.
+
+3 - Sem prejuízo do disposto nos artigos 64.º e 65.º do regime jurídico da urbanização e edificação, com o comprovativo do pedido de autorização de utilização para fins turísticos e do pagamento da taxa devida através de autoliquidação, pode iniciar-se a atividade.
+
+4 - Caso se venha a verificar grave ou significativa desconformidade do empreendimento em funcionamento com as normas aplicáveis, o subscritor do termo de responsabilidade a que se refere a alínea c) do n.º 2 responde solidariamente com a entidade exploradora do empreendimento pelos danos causados por força da desconformidade em causa, sem prejuízo das demais sanções aplicáveis.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+#### Secção V — Autorização ou comunicação de utilização para fins turísticos
+
+###### Artigo 30.º — Autorização de utilização para fins turísticos e emissão de alvará
+
+1 - Concluída a obra, o interessado requer a concessão de autorização de utilização para fins turísticos, nos termos do artigo 62.º e seguintes do regime jurídico da urbanização e edificação, com as especificidades previstas na presente secção.
+
+2 - O pedido de concessão de autorização de utilização para fins turísticos, instruído nos termos do regime jurídico da urbanização e da edificação e respetiva regulamentação, deve ser submetido à câmara municipal territorialmente competente, devendo a autarquia dele dar conhecimento ao Turismo de Portugal, I. P., através dos meios previstos no artigo 74.º
+
+3 - O prazo para decisão sobre a concessão de autorização de utilização para fins turísticos e a emissão do respetivo alvará é de 10 dias a contar da data de apresentação do requerimento, salvo quando haja lugar à vistoria prevista no artigo 65.º do regime jurídico da urbanização e da edificação, em que o prazo de decisão é de cinco dias após a realização da vistoria.
+
+4 - O alvará de autorização de utilização para fins turísticos, único para a totalidade do empreendimento, deve conter os elementos referidos no n.º 5 do artigo 77.º do regime jurídico da urbanização e edificação e referência expressa à capacidade máxima e à tipologia.
+
+5 - Do alvará referido no número anterior é dado conhecimento ao Turismo de Portugal, I. P., através dos meios previstos no artigo 74.º
+
+6 - [Revogado].
+
+7 - Os conjuntos turísticos (resorts) dispõem de um único alvará de autorização de utilização para fins turísticos quando se tenha optado por submeter conjuntamente a licenciamento ou comunicação prévia as operações urbanísticas referentes à instalação da totalidade dos componentes de um conjunto turístico.
+
+8 - [Revogado].
+
+9 - Fora do caso previsto no n.º 7, cada empreendimento turístico, estabelecimento e equipamento integrados em conjuntos turísticos (resorts) devem dispor de alvará de autorização de utilização próprio, de natureza turística ou para outro fim a que se destinem.
+
+10 - A instalação dos empreendimentos turísticos pode ser autorizada por fases, aplicando-se a cada uma delas o disposto na presente secção, sendo a autorização de utilização de cada fase averbada ao alvará referido no n.º 4.
+
+11 - Aos procedimentos previstos no presente artigo é aplicável o disposto no artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+###### Artigo 31.º — Comunicação de abertura em caso de ausência de autorização de utilização para fins turísticos
+
+1 - Decorrido o prazo previsto no n.º 3 do artigo 30.º ou decorridos os prazos previstos do artigo 65.º do regime jurídico da urbanização e da edificação, quando tenha sido determinada a realização da vistoria, sem que tenha sido concedida a autorização de utilização para fins turísticos ou emitido o respectivo alvará, o interessado pode comunicar à câmara municipal a sua decisão de abrir ao público, com conhecimento ao Turismo de Portugal, I. P., entregando os seguintes elementos:
+
+a) Termos de responsabilidade a que se referem as alíneas a) a c) do n.º 2 do artigo 30.º, caso ainda não tenham sido entregues com o pedido aí referido;
+
+b) Termo de responsabilidade subscrito pelo promotor da edificação, assegurando a idoneidade e correctas acessibilidades do edifício ou sua fracção autónoma para os fins a que se destina e que o mesmo respeita as normas legais e regulamentares aplicáveis, tendo em conta o uso e classificação previstos;
+
+c) Auto de vistoria de teor favorável à abertura do estabelecimento elaborado pelas entidades que tenham realizado a vistoria prevista nos artigos 64.º e 65.º do regime jurídico da urbanização e da edificação, quando esta tenha ocorrido;
+
+d) No caso de a vistoria ter imposto condicionantes, termo de responsabilidade assinado pelo responsável da direcção técnica da obra, assegurando que as mesmas foram respeitadas.
+
+2 - No prazo de 30 dias a contar da recepção da comunicação prevista no número anterior, deve o presidente da câmara municipal proceder à emissão do alvará de autorização de utilização para fins turísticos, o qual deve ser notificado ao requerente no prazo de oito dias.
+
+3 - Decorrido o prazo referido no número anterior, o interessado na obtenção de alvará de utilização para fins turísticos pode recorrer ao mecanismo da intimação judicial para a prática de acto legalmente devido previsto no artigo 112.º do regime jurídico da urbanização e da edificação.
+
+4 - Caso se venha a verificar grave ou significativa desconformidade do empreendimento em funcionamento com o projecto aprovado, os subscritores dos termos de responsabilidade a que se referem as alíneas a), b) e d) do n.º 1 respondem solidariamente com a entidade exploradora do empreendimento, pelos danos causados por força da desconformidade em causa, sem prejuízo das demais sanções aplicáveis.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 31.º-A — Comunicação de abertura em caso de ausência de emissão de autorização de utilização para fins turísticos
+
+1 - Decorridos os prazos previstos no n.º 3 do artigo 30.º sem que tenha sido proferida decisão expressa ou emitido o alvará de autorização de utilização para fins turísticos, o interessado pode comunicar à câmara municipal, com conhecimento ao Turismo de Portugal, I. P., a sua decisão de abrir ao público.
+
+2 - Caso se venha a verificar grave ou significativa desconformidade do empreendimento em funcionamento com o projeto aprovado, os subscritores dos termos de responsabilidade entregues na câmara municipal respondem solidariamente com a entidade exploradora do empreendimento, pelos danos causados por força da desconformidade em causa, sem prejuízo das demais sanções aplicáveis.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+###### Artigo 32.º — Título de abertura
+
+Constitui título válido de abertura do empreendimento qualquer dos seguintes documentos:
+
+a) Alvará de autorização de utilização para fins turísticos do empreendimento;
+
+b) Comprovativos de ter efetuado a comunicação prevista no n.º 1 do artigo anterior e da regular submissão do requerimento de concessão de autorização para fins turísticos prevista no artigo 30.º, bem como do comprovativo do pagamento da taxa devida através de autoliquidação;
+
+c) [Revogada].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 33.º — Caducidade da autorização de utilização para fins turísticos
+
+1 - A autorização de utilização para fins turísticos caduca:
+
+a) Se o empreendimento não iniciar o seu funcionamento no prazo de um ano a contar da data da emissão do alvará de autorização de utilização para fins turísticos ou do termo do prazo para a sua emissão;
+
+b) [Revogada];
+
+c) Quando seja dada ao empreendimento uma utilização diferente da prevista no respectivo alvará;
+
+d) Quando, por qualquer motivo, o empreendimento não puder ser classificado ou manter a classificação de empreendimento turístico.
+
+2 - Caducada a autorização de utilização para fins turísticos, o respetivo título válido de abertura é cassado e apreendido pela câmara municipal, por iniciativa própria, no caso dos parques de campismo e de caravanismo, dos empreendimentos de turismo de habitação e dos empreendimentos de turismo no espaço rural, com exceção dos hotéis rurais, ou a pedido do Turismo de Portugal, I. P., nos restantes casos, sendo o facto comunicado à Autoridade de Segurança Alimentar e Económica (ASAE).
+
+3 - A caducidade da autorização determina o encerramento do empreendimento, após notificação da respectiva entidade exploradora.
+
+4 - Sem prejuízo do disposto nos números anteriores, podem ser adoptadas as medidas de tutela de legalidade urbanística que se mostrem fundadamente adequadas, nos termos do disposto no regime jurídico da urbanização e da edificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+### Capítulo V — Classificação
+
+###### Artigo 34.º — Noção e natureza
+
+A classificação destina-se a atribuir, confirmar ou alterar a tipologia e, quando aplicável, o grupo e a categoria dos empreendimentos turísticos e tem natureza obrigatória.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+###### Artigo 35.º — Categorias
+
+1 - Os empreendimentos turísticos referidos nas alíneas a) a c) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º, classificam-se nas categorias de uma a cinco estrelas, atendendo à qualidade do serviço e das instalações, de acordo com os requisitos a definir pela portaria prevista na alínea a) do n.º 2 do artigo 4.º
+
+2 - Tais requisitos devem incidir sobre:
+
+a) Características das instalações e equipamentos;
+
+b) Serviço de recepção e portaria;
+
+c) Serviço de limpeza e lavandaria;
+
+d) Serviço de alimentação e bebidas;
+
+e) Serviços complementares.
+
+3 - A portaria a que se refere o n.º 1 distingue entre os requisitos mínimos e os requisitos opcionais, cujo somatório permite alcançar a pontuação necessária para a obtenção de determinada classificação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 36.º — Processo de classificação
+
+1 - O Turismo de Portugal, I. P., no caso dos empreendimentos turísticos referidos nas alíneas a) a d) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º, ou o presidente da câmara municipal, no caso dos parques de campismo e de caravanismo, dos empreendimentos de turismo de habitação e dos empreendimentos de turismo no espaço rural, determina a realização de uma auditoria de classificação do empreendimento turístico no prazo de 60 dias a contar da data da disponibilização da informação relativa ao título válido de abertura do empreendimento, no balcão previsto no artigo 74.º ou da data do conhecimento, por qualquer outra forma, da existência daquele título.
+
+2 - Até à disponibilização do balcão referido no artigo 74.º deve o interessado comunicar ao Turismo de Portugal, I. P., a existência de título válido de abertura do empreendimento no prazo de 10 dias após a sua obtenção.
+
+3 - A auditoria de classificação é realizada pelo Turismo de Portugal, I. P., com isenção de taxa, ou pela câmara municipal, consoante os casos, ou ainda por entidade acreditada para o efeito, nos termos a definir por portaria do membro do Governo responsável pela área do turismo.
+
+4 - Nos casos em que, por motivos que sejam imputáveis ao interessado, a auditoria de classificação não se realize na data marcada ou tenha de ser repetida, uma nova auditoria fica sujeita ao pagamento de taxa destinada exclusivamente a suportar as despesas inerentes, nos termos definidos em portaria dos membros do Governo responsáveis pelas áreas das finanças e do turismo.
+
+5 - Após a realização da auditoria, o Turismo de Portugal, I. P., ou o presidente da câmara municipal, consoante os casos, fixa a classificação do empreendimento turístico.
+
+6 - No caso dos parques de campismo e de caravanismo, dos empreendimentos de turismo de habitação e dos empreendimentos de turismo no espaço rural, com exceção dos hotéis rurais, a classificação é fixada juntamente com a autorização de utilização para fins turísticos quando tenha sido realizada vistoria nos termos do artigo 65.º do regime jurídico da urbanização e da edificação, caso em que não há lugar a auditoria de classificação.
+
+7 - Em todos os empreendimentos turísticos é obrigatória a afixação no exterior, junto à entrada principal, da placa identificativa da respetiva classificação, no prazo máximo de 10 dias após a notificação ao interessado da classificação atribuída, nos termos do presente artigo.
+
+8 - Os modelos da placa identificativa da classificação são aprovados por portaria do membro do Governo responsável pela área do turismo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 37.º — Taxa
+
+1 - Pela realização de auditorias de classificação efectuadas pelo Turismo de Portugal, I. P., é devida uma taxa, nos termos a fixar por portaria dos membros do Governo responsáveis pelas áreas das finanças e do turismo, destinada a suportar as despesas inerentes.
+
+2 - Sem prejuízo do disposto no número anterior, pela realização de auditorias de classificação efectuadas pelas câmaras municipais é igualmente devida uma taxa, nos termos a fixar em regulamento aprovado pelo órgão deliberativo do respectivo município, nos termos da Lei n.º 53-E/2006, de 29 de Dezembro.
+
+> Republicado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 38.º — Revisão da classificação
+
+1 - A classificação dos empreendimentos turísticos deve ser oficiosamente revista de cinco em cinco anos.
+
+2 - [Revogado].
+
+3 - A revisão da classificação prevista no n.º 1 é precedida de uma auditoria de classificação efetuada pelo Turismo de Portugal, I. P., pela câmara municipal, ou por entidade acreditada, consoante os casos.
+
+4 - A auditoria de classificação referida no número anterior, realizada pelo Turismo de Portugal, I. P., está isenta de qualquer taxa, sem prejuízo do disposto no n.º 4 do artigo 36.º
+
+5 - A classificação pode, ainda, ser revista a todo o tempo, oficiosamente ou a pedido do interessado.
+
+6 - Sem prejuízo do disposto no número anterior, o Turismo de Portugal, I. P., deve proceder à revisão da classificação sempre que receba a declaração prevista no artigo 29.º
+
+7 - Pela realização de auditorias de revisão de classificação efetuadas pelo Turismo de Portugal, I. P., a pedido do interessado, nos termos do n.º 5, é devida uma taxa destinada exclusivamente a suportar as despesas inerentes, nos termos a fixar na portaria referida no n.º 4 do artigo 36.º
+
+8 - Pode ser cobrada uma taxa pela realização de auditorias de classificação efetuadas pelas câmaras municipais, a afixar em regulamento aprovado pelo órgão deliberativo do respetivo município, nos termos do regime geral das autarquias locais, aprovado pela Lei n.º 53-E/2006, de 29 de dezembro, alterada pela Lei n.º 64-A/2008, de 31 de dezembro, e pelo Decreto-Lei n.º 117/2009, de 29 de dezembro.
+
+9 - Do resultado das auditorias de classificação referidas no número anterior é dado conhecimento ao Turismo de Portugal, I. P., no prazo de 10 dias, através dos meios previstos no artigo 74.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 39.º — Dispensa
+
+1 - A dispensa de requisitos exigidos para a fixação da classificação pode ser concedida, nos termos previstos nos n.os 2 a 6:
+
+a) Pelo Turismo de Portugal, I. P., no caso dos empreendimentos turísticos referidos nas alíneas a) a d) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º; ou
+
+b) Pela câmara municipal, nos demais casos.
+
+2 - Os requisitos exigidos para a fixação da classificação podem ser dispensados, oficiosamente ou a requerimento, quando a sua estrita observância for suscetível de:
+
+a) Afetar as características arquitetónicas ou estruturais de:
+
+i) Edifícios que estejam classificados ou em vias de classificação como de interesse nacional, de interesse público ou de interesse municipal;
+
+ii) Edifícios que se situem em conjuntos ou sítios classificados ou em vias de classificação como de interesse nacional, de interesse público ou de interesse municipal;
+
+iii) Edifícios que se situem dentro de zonas de proteção de monumentos, conjuntos ou sítios classificados ou em vias de classificação como de interesse nacional, de interesse público ou de interesse municipal; ou
+
+iv) Edifícios que possuam valor histórico, arquitetónico, artístico ou cultural;
+
+b) Afetar vestígios arqueológicos existentes ou que venham a ser descobertos durante a instalação do empreendimento turístico;
+
+c) Prejudicar ou impedir a classificação de projetos inovadores e valorizantes da oferta turística.
+
+3 - No caso dos conjuntos turísticos (resorts), podem ser dispensados alguns dos requisitos exigidos para a atribuição de classificação para as instalações e equipamentos, quando o conjunto turístico (resort) integrar um ou mais empreendimentos que disponham de tais instalações e equipamentos ou que o próprio conjunto turístico disponha dos mesmos e desde que possam servir ou ser utilizados pelos utentes de todos os empreendimentos integrados no conjunto.
+
+4 - A dispensa de requisitos requerida com a apresentação da comunicação prévia de obra é concedida tacitamente sempre que não haja lugar a rejeição da mesma, pela câmara municipal, nem a decisão expressa especificamente relativa à dispensa de requisitos no prazo legal de reação à comunicação prévia previsto no artigo 36.º do regime jurídico da urbanização e edificação, proferida pela câmara municipal ou pelo Turismo de Portugal, I. P., neste caso no âmbito do parecer a que se refere o artigo 26.º
+
+5 - A dispensa de requisitos requerida à câmara municipal com o pedido de concessão de autorização de utilização para fins turísticos é concedida tacitamente sempre que não seja proferida decisão expressa especificamente relativa à dispensa de requisitos, nos prazos referidos no n.º 3 do artigo 30.º
+
+6 - Excetuados os pedidos de dispensa referidos no n.º 2 do artigo 26.º no âmbito da instalação dos empreendimentos turísticos, as dispensas de requisitos requeridas ao Turismo de Portugal, I. P., são tacitamente deferidas caso este não determine a realização de auditoria de classificação no prazo referido no n.º 1 do artigo 36.º
+
+7 -(Revogado).
+
+8 - (Revogado).
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+> Rectificado pelo/a [Declaração de Retificação n.º 19/2014 - Diário da República n.º 58/2014, Série I de 2014-03-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2014-572121), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+### Capítulo VI — Registo Nacional de Empreendimentos Turísticos
+
+###### Artigo 40.º — Registo Nacional de Empreendimentos Turísticos
+
+1 - O Turismo de Portugal, I. P., disponibiliza no seu sítio na Internet o Registo Nacional dos Empreendimentos Turísticos (RNET), constituído pela relação atualizada dos empreendimentos turísticos com título de abertura válido, da qual consta o nome, a classificação, a capacidade, a localização do empreendimento, as respetivas coordenadas geográficas, a morada e os períodos de funcionamento, bem como a identificação da respetiva entidade exploradora.
+
+2 - Quaisquer factos que constituam alteração ao nome, à morada, aos períodos de funcionamento e à identificação da entidade exploradora dos empreendimentos turísticos devem ser comunicados por esta entidade ao Turismo de Portugal, I. P., no prazo de 10 dias sobre a sua verificação, mediante registo efetuado diretamente no RNET.
+
+3 - A caducidade da autorização de utilização para fins turísticos nos termos do artigo 33.º determina o cancelamento da inscrição do empreendimento turístico no RNET.
+
+4 - [Revogado].
+
+5 - O RNET deve ser indexado no sistema de pesquisa online de informação pública previsto no artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 25/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2008-249538), em vigor a partir de 2008-04-06
+
+### Capítulo VII — Exploração e funcionamento
+
+###### Artigo 41.º — Nomes
+
+1 - Os nomes dos empreendimentos turísticos não podem sugerir uma tipologia, grupo, categoria ou características que os mesmos não possuam.
+
+2 - As denominações simples ou compostas que utilizem o termo «hotel» só podem ser utilizadas pelos empreendimentos turísticos previstos na alínea a) do n.º 1 do artigo 4.º e na alínea c) do n.º 3 do artigo 18.º
+
+3 - Os empreendimentos turísticos que disponham das infra-estruturas e equipamentos exigidos no artigo 16.º para os conjuntos turísticos (resorts) podem, para fins comerciais, usar conjuntamente com o nome a expressão resort.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+###### Artigo 42.º — Publicidade
+
+1 - A publicidade, documentação comercial e merchandising dos empreendimentos turísticos devem indicar o respetivo nome ou logótipo, não podendo sugerir uma tipologia, grupo, categoria ou características que o empreendimento não possua.
+
+2 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 42.º-A — Divulgação e comercialização
+
+As plataformas eletrónicas que disponibilizem, divulguem ou comercializem alojamento nos termos do n.º 1 e da alínea b) do n.º 2 do artigo 2.º, devem exigir e exibir na plataforma o respetivo número de Registo Nacional de Turismo.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+###### Artigo 43.º — Oferta de alojamento turístico
+
+1 - Com excepção do alojamento local, apenas os empreendimentos turísticos previstos no presente decreto-lei podem prestar serviços de alojamento turístico.
+
+2 - Presume-se existir prestação de serviços de alojamento turístico quando um imóvel ou fracção deste esteja mobilado e equipado e sejam oferecidos ao público em geral, além de dormida, serviços de limpeza e recepção, por períodos inferiores a 30 dias.
+
+###### Artigo 44.º — Exploração dos empreendimentos turísticos
+
+1 - Cada empreendimento turístico deve ser explorado por uma única entidade, responsável pelo seu integral funcionamento e nível de serviço e pelo cumprimento das disposições legais e regulamentares aplicáveis.
+
+2 - [Revogado].
+
+3 - Nos conjuntos turísticos (resorts), os empreendimentos turísticos que o integram podem ser explorados por diferentes entidades, que respondem directamente pelo cumprimento das disposições legais e regulamentares.
+
+4 - Nos conjuntos turísticos (resorts), o funcionamento das instalações e equipamentos e os serviços de utilização comum obrigatórios, nos termos da classificação atribuída e do título constitutivo, são da responsabilidade da entidade administradora do conjunto turístico (resort).
+
+5 - Caso o empreendimento turístico integre estabelecimentos comerciais ou de prestação de serviços, incluindo os estabelecimentos de restauração ou de bebidas, as respetivas entidades exploradoras respondem diretamente pelo cumprimento das disposições legais e regulamentares.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 45.º — Exploração turística das unidades de alojamento
+
+1 - Sem prejuízo do disposto no artigo 49.º, as unidades de alojamento estão permanentemente em regime de exploração turística, devendo a entidade exploradora assumir a exploração continuada da totalidade das mesmas, ainda que ocupadas pelos respectivos proprietários.
+
+2 - A entidade exploradora deve assegurar que as unidades de alojamento permanecem a todo o tempo mobiladas e equipadas em plenas condições de serem locadas para alojamento a turistas e que nelas são prestados os serviços obrigatórios da categoria atribuída ao empreendimento turístico.
+
+3 - Quando a propriedade e a exploração turística não pertençam à mesma entidade ou quando o empreendimento se encontre em regime de propriedade plural, a entidade exploradora deve obter de todos os proprietários um título jurídico que a habilite à exploração da totalidade das unidades de alojamento.
+
+4 - O título referido no número anterior deve prever os termos da exploração turística das unidades de alojamento, a participação dos proprietários nos resultados da exploração da unidade de alojamento, bem como as condições da utilização desta pelo respectivo proprietário.
+
+5 - Os proprietários das unidades de alojamento, quando ocupam as mesmas, usufruem dos serviços obrigatórios da categoria do empreendimento, os quais estão abrangidos pela prestação periódica prevista no artigo 56.º
+
+6 - As unidades de alojamento previstas no n.º 3 não podem ser exploradas directamente pelos seus proprietários, nem podem ser objecto de contratos que comprometam o uso turístico das mesmas, designadamente, contratos de arrendamento ou constituição de direitos de uso e habitação.
+
+###### Artigo 46.º — Deveres da entidade exploradora
+
+São deveres da entidade exploradora:
+
+a) Publicitar os preços de tabela dos serviços de alojamento oferecidos, mantê-los sempre à disposição dos utentes e, relativamente aos demais serviços, disponibilizar aos utentes os respetivos preços;
+
+b) Informar os utentes sobre as condições de prestação dos serviços e preços, previamente à respectiva contratação;
+
+c) Manter em bom estado de funcionamento todas as instalações e equipamentos do empreendimento, incluindo as unidades de alojamento, efetuando as obras de conservação ou de melhoramento necessárias, tendo em vista o cumprimento dos requisitos gerais de instalação, bem como os requisitos obrigatórios comuns exigidos para a respetiva classificação em matéria de segurança, higiene e saúde pública, sem prejuízo do disposto no título constitutivo de empreendimentos em propriedade plural quanto à responsabilização pela realização de obras em unidades de alojamento;
+
+d) Garantir que o empreendimento turístico mantém as condições e requisitos necessários que lhe permitiram obter a classificação que possui;
+
+e) Facilitar às autoridades competentes o acesso ao empreendimento e o exame de documentos, livros e registos directamente relacionadas com a actividade turística;
+
+f) Cumprir as normas legais, regulamentares e contratuais relativas à exploração e administração do empreendimento turístico.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 47.º — Responsabilidade operacional
+
+1 - Em todos os empreendimentos turísticos deve haver um responsável, nomeado pela entidade exploradora, a quem cabe zelar pelo seu funcionamento e nível de serviço.
+
+2 - O responsável operacional dos empreendimentos turísticos de cinco, quatro e três estrelas designa-se por diretor de hotel.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 48.º — Acesso aos empreendimentos turísticos
+
+1 - É livre o acesso aos empreendimentos turísticos, salvo o disposto nos números seguintes.
+
+2 - A entidade exploradora ou o responsável pelo empreendimento turístico podem recusar o acesso ao mesmo, a quem perturbe o seu funcionamento normal.
+
+3 - O disposto no n.º 1 não prejudica, desde que devidamente publicitadas:
+
+a) A possibilidade de afectação total ou parcial dos empreendimentos turísticos à utilização exclusiva por associados ou beneficiários das entidades proprietárias ou da entidade exploradora;
+
+b) A reserva temporária de parte ou da totalidade do empreendimento turístico.
+
+4 - A entidade exploradora dos empreendimentos turísticos pode reservar para os utentes neles alojados e seus acompanhantes o acesso e a utilização dos serviços, equipamentos e instalações do empreendimento.
+
+5 - As normas de funcionamento e de acesso ao empreendimento devem ser devidamente publicitadas pela entidade exploradora.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 49.º — Período de funcionamento
+
+1 - Sem prejuízo de disposição legal ou contratual, nomeadamente no tocante à atribuição de utilidade turística ou de financiamentos públicos, os empreendimentos turísticos podem estabelecer livremente os seus períodos de funcionamento.
+
+2 - Os empreendimentos turísticos em propriedade plural podem encerrar por decisão da maioria dos seus proprietários.
+
+3 - O período de funcionamento dos empreendimentos turísticos deve ser devidamente publicitado e afixado em local visível ao público do exterior, exceto quando o empreendimento esteja aberto todos os dias do ano.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 50.º — Sinais normalizados
+
+Nas informações de carácter geral relativas aos empreendimentos turísticos e aos serviços que neles são oferecidos devem ser usados os sinais normalizados constantes de tabela a aprovar por portaria do membro do Governo responsável pela área do turismo.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+###### Artigo 51.º — Livro de reclamações
+
+1 - Os empreendimentos turísticos devem dispor de livro de reclamações, nos termos e condições estabelecidos na legislação aplicável.
+
+2 - O original da folha de reclamação deve ser enviado à ASAE, entidade competente para fiscalizar e instruir os processos de contraordenação previstos na legislação referida no número anterior.
+
+3 - A ASAE deve facultar ao Turismo de Portugal, I. P., acesso às reclamações dos empreendimentos turísticos, nos termos de protocolo a celebrar entre os dois organismos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+### Capítulo VIII — Propriedade plural em empreendimentos turísticos
+
+###### Artigo 52.º — Noção
+
+1 - Consideram-se empreendimentos turísticos em propriedade plural aqueles que compreendem lotes e ou fracções autónomas de um ou mais edifícios.
+
+2 - As unidades de alojamento dos empreendimentos turísticos podem constituir-se como fracções autónomas nos termos da lei geral.
+
+###### Artigo 53.º — Regime aplicável
+
+Às relações entre os proprietários dos empreendimentos turísticos em propriedade plural é aplicável o disposto no presente decreto-lei e, subsidiariamente, o regime da propriedade horizontal.
+
+###### Artigo 54.º — Título constitutivo
+
+1 - Os empreendimentos turísticos em propriedade plural regem-se por um título constitutivo elaborado e aprovado nos termos do presente decreto-lei.
+
+2 - O título constitutivo a que se refere o número anterior não pode conter disposições incompatíveis com o estabelecido em alvará de loteamento ou título constitutivo da propriedade horizontal respeitantes aos imóveis que integram o empreendimento turístico.
+
+3 - O título constitutivo de empreendimento turístico que se encontre instalado em edifício ou edifícios implantados num único lote consubstancia o título constitutivo da propriedade horizontal do empreendimento, quando esta não tenha sido previamente constituída, desde que conste de escritura pública, de documento particular autenticado por entidade habilitada a fazê-lo nos termos da lei ou de outro título de constituição da propriedade horizontal, e abranja todas as fracções do edifício ou edifícios onde está instalado o empreendimento turístico, independentemente do uso a que sejam afectas.
+
+4 - O título constitutivo é elaborado pelo promotor da operação urbanística relativa à instalação do empreendimento ou pelo titular da autorização de utilização para fins turísticos.
+
+5 - [Revogado].
+
+6 - O título constitutivo é registado nos serviços do registo predial previamente à celebração de qualquer contrato de transmissão ou contrato-promessa de transmissão dos lotes ou frações autónomas, após verificação pelo conservador dos requisitos constantes do artigo seguinte, e é oficiosamente comunicado, preferencialmente por via eletrónica, ao Turismo de Portugal, I. P.
+
+7 - Deve fazer parte integrante dos contratos-promessa de transmissão, bem como dos contratos de transmissão de propriedade de lotes ou frações autónomas que integrem o empreendimento turístico em propriedade plural, uma cópia simples do título constitutivo devidamente registado, cópia simples do título referido no n.º 3 do artigo 45.º, bem como a indicação do valor da prestação periódica devida pelo titular daqueles lotes ou frações autónomas no primeiro ano, nos termos do título constitutivo, sob pena de nulidade do contrato.
+
+8 - O adquirente do direito sobre lote ou de fracção autónoma em empreendimento turístico, com base no qual tenha sido conferido à entidade exploradora do empreendimento o título referido no n.º 3 do artigo 45.º, sucede nos direitos e obrigações do transmitente daquele direito perante a entidade exploradora.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+###### Artigo 55.º — Menções do título constitutivo
+
+1 - O título constitutivo deve conter obrigatoriamente as seguintes menções:
+
+a) A identificação da entidade exploradora do empreendimento;
+
+b) A identificação e descrição física e registral das várias fracções autónomas ou lotes, por forma a que fiquem perfeitamente individualizadas;
+
+c) O valor relativo de cada fracção autónoma ou lote, expresso em percentagem ou permilagem do valor total do empreendimento;
+
+d) O fim a que se destina cada uma das fracções autónomas ou lotes;
+
+e) A identificação e descrição das instalações e equipamentos do empreendimento;
+
+f) A identificação dos serviços de utilização comum;
+
+g) A identificação das infra-estruturas urbanísticas que servem o empreendimento, o regime de titularidade das mesmas e a referência ao contrato de urbanização estabelecido com a câmara municipal, quando exista;
+
+h) A menção das diversas fases de construção do empreendimento, quando for o caso;
+
+i) O critério de fixação e actualização da prestação periódica devida pelos proprietários e a percentagem desta que se destina a remunerar a entidade responsável pela administração do empreendimento, bem como a enumeração dos encargos cobertos por tal prestação periódica;
+
+j) Os deveres dos proprietários, designadamente os relacionados com o tempo, o lugar e a forma de pagamento da prestação periódica;
+
+l) Os deveres da entidade responsável pela administração do empreendimento, nomeadamente em matéria de conservação do empreendimento;
+
+m) Os meios de resolução dos conflitos de interesses.
+
+2 - Do título constitutivo de um conjunto turístico (resort) constam a identificação da entidade administradora do conjunto turístico (resort), a identificação e descrição dos vários empreendimentos turísticos, dos estabelecimentos ou instalações e equipamentos de exploração turística que o integram, por forma a que fiquem perfeitamente individualizados, o valor relativo de cada um desses elementos componentes do conjunto turístico (resort), expresso em percentagem ou permilagem do valor total do empreendimento, o fim a que se destina cada um dos referidos empreendimentos turísticos, estabelecimentos e instalações ou equipamentos de exploração turística, bem como as menções a que se referem as alíneas d) a l) do número anterior, com as devidas adaptações.
+
+3 - Do título constitutivo deve fazer também parte integrante um regulamento de administração do empreendimento, o qual deve reger, designadamente, a conservação, a fruição e o funcionamento das unidades de alojamento, das instalações e equipamentos de utilização comum e dos serviços de utilização comum.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+###### Artigo 56.º — Prestação periódica
+
+1 - O proprietário de um lote ou fracção autónoma de um empreendimento turístico em propriedade plural deve pagar à entidade administradora do empreendimento a prestação periódica fixada de acordo com o critério determinado no título constitutivo.
+
+2 - A prestação periódica destina-se a fazer face às despesas de manutenção, conservação e funcionamento do empreendimento, incluindo as das unidades de alojamento, das instalações e equipamentos comuns e dos serviços de utilização comuns do empreendimento, bem como a remunerar a prestação dos serviços de recepção permanente, de segurança e de limpeza das unidades de alojamento e das partes comuns do empreendimento.
+
+3 - Além do disposto no número anterior, a prestação periódica destina-se a remunerar os serviços do revisor oficial de contas e a entidade administradora do empreendimento, podendo suportar outras despesas desde que previstas no título constitutivo.
+
+4 - Consideram-se equipamentos comuns e serviços de utilização comum do empreendimento os que são exigidos para a respetiva categoria, ou os que venham a ser definidos na portaria prevista na alínea a) do n.º 2 do artigo 4.º
+
+5 - [Revogado].
+
+6 - Consideram-se instalações, serviços e equipamentos de exploração turística os que são colocados à disposição dos utentes do empreendimento pela respetiva entidade exploradora mediante retribuição específica.
+
+7 - Nos conjuntos turísticos (resorts), cada um dos empreendimentos turísticos, estabelecimentos ou instalações e equipamentos de exploração turística que integram o empreendimento contribuem para os encargos comuns do conjunto turístico (resort) na proporção do respectivo valor relativo fixado no título constitutivo do empreendimento, nos termos previstos no n.º 2 do artigo 55.º
+
+8 - Os créditos relativos a prestações periódicas, bem como aos respectivos juros moratórios, gozam do privilégio creditório imobiliário sobre a respectiva fracção, graduado após os mencionados nos artigos 746.º e 748.º do Código Civil e aos demais previstos em legislação especial.
+
+9 - Uma percentagem não inferior a 4  % da prestação periódica deve ser afecta à constituição de um fundo de reserva destinado exclusivamente à realização de obras de reparação e conservação das instalações e equipamentos de uso comum e de outras despesas expressamente previstas no título constitutivo.
+
+10 - Independentemente do critério de fixação da prestação periódica estabelecido no título constitutivo, aquela pode ser alterada por proposta do revisor oficial de contas inserida no respectivo parecer, sempre que se revele excessiva ou insuficiente relativamente aos encargos que se destina e desde que a alteração seja aprovada em assembleia convocada para o efeito.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+###### Artigo 57.º — Deveres do proprietário
+
+1 - Os proprietários de lotes ou fracções autónomas em empreendimentos turísticos em propriedade plural não podem:
+
+a) Dar-lhes utilização diversa da prevista no título constitutivo;
+
+b) Alterar a sua volumetria ou a configuração arquitectónica exterior;
+
+c) Praticar quaisquer actos ou realizar obras, incluindo pinturas, que afectem a continuidade ou unidade urbanística, ou paisagística, do empreendimento, ou que prejudiquem o funcionamento ou utilização de instalações e equipamentos de utilização comum;
+
+d) Praticar quaisquer actos ou realizar obras que afectem a tipologia ou categoria do empreendimento;
+
+e) Impedir a realização de obras de manutenção ou conservação da respectiva unidade de alojamento, por parte da entidade exploradora.
+
+2 - A realização de obras pelos proprietários de lotes ou fracções autónomas, mesmo quando realizadas no interior destes, carece de autorização prévia da entidade administradora do empreendimento, sob pena de esta poder repor a situação a expensas do respectivo proprietário.
+
+3 - A entidade exploradora do empreendimento deve ter acesso às unidades de alojamento do empreendimento, a fim de proceder à respectiva exploração turística, prestar os serviços de utilização comum e outros previstos no título constitutivo, proceder às vistorias convenientes para efeitos de conservação ou de executar obras de conservação ou reposição.
+
+4 - Os créditos resultantes da realização de obras decorrentes do disposto no presente decreto-lei ou no título constitutivo, por parte da entidade exploradora do empreendimento, bem como os respectivos juros moratórios, gozam do privilégio creditório imobiliário sobre o respectivo lote ou fracção, graduado após os mencionados nos artigos 746.º e 748.º do Código Civil e os previstos em legislação especial.
+
+###### Artigo 58.º — Administração
+
+1 - A administração dos empreendimentos turísticos em propriedade plural incumbe à entidade exploradora, salvo quando esta seja destituída das suas funções, nos termos do artigo 62.º
+
+2 - A administração dos conjuntos turísticos (resorts) incumbe a uma entidade administradora única, designada no título constitutivo do conjunto turístico (resort).
+
+3 - A entidade administradora do empreendimento exerce as funções que cabem ao administrador do condomínio, nos termos do regime da propriedade horizontal, e é responsável pela administração global do empreendimento, incumbindo-lhe, nomeadamente, assegurar o funcionamento e a conservação das instalações e equipamentos de utilização comum e dos serviços de utilização comum previstos no título constitutivo, bem como a manutenção e conservação dos espaços verdes de utilização colectiva, das infra-estruturas viárias e das demais instalações e equipamentos de utilização colectiva integrantes do empreendimento, quando tenham natureza privada.
+
+###### Artigo 59.º — Caução de boa administração e conservação
+
+1 - Nos empreendimentos em propriedade plural, a entidade administradora do empreendimento deve prestar caução de boa administração e conservação a favor dos proprietários das fracções autónomas ou lotes, através de depósito bancário, seguro ou garantia bancária, emitida por uma entidade seguradora ou financeira da União Europeia, devendo o respectivo título ser depositado no Turismo de Portugal, I. P.
+
+2 - O montante da caução corresponde ao valor anual do conjunto das prestações periódicas devidas pelos proprietários das fracções autónomas ou lotes que integrem o empreendimento, podendo ser alterado por portaria do membro do Governo responsável pela área do turismo.
+
+3 - A caução só pode ser accionada por deliberação da assembleia geral de proprietários.
+
+4 - A caução deve ser constituída antes da celebração dos contratos de transmissão da propriedade dos lotes ou das fracções autónomas que integrem o empreendimento, sob pena de nulidade dos mesmos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+###### Artigo 60.º — Prestação de contas
+
+1 - A entidade administradora do empreendimento deve organizar anualmente as contas respeitantes à utilização das prestações periódicas e submetê-las à apreciação de um revisor oficial de contas.
+
+2 - O relatório de gestão e as contas a que se refere o número anterior são enviados a cada proprietário, juntamente com a convocatória da assembleia geral ordinária, acompanhados do parecer do revisor oficial de contas.
+
+3 - Os proprietários têm o direito de consultar os elementos justificativos das contas e do relatório de gestão a apresentar na assembleia geral.
+
+4 - A entidade administradora deve ainda facultar aos proprietários, na assembleia geral destinada a aprovar o relatório de gestão e as contas respeitantes à utilização das prestações periódicas, a análise das contas de exploração, bem como dos respectivos elementos justificativos.
+
+###### Artigo 61.º — Programa de administração
+
+1 - A entidade administradora dos empreendimentos turísticos em propriedade plural deve elaborar um programa de administração e de conservação do empreendimento para cada ano.
+
+2 - O programa deve ser enviado a cada proprietário juntamente com a convocatória da assembleia geral ordinária em que se procede à respectiva aprovação para o ano seguinte.
+
+###### Artigo 62.º — Destituição da entidade administradora
+
+1 - Se a entidade administradora do empreendimento não cumprir as obrigações previstas no presente decreto-lei, a assembleia geral de proprietários pode destituí-la das suas funções de administração.
+
+2 - A destituição só é eficaz se, no mesmo acto, for nomeada uma nova entidade administradora e se a mesma vier a prestar a caução prevista no artigo 59.º no prazo de 15 dias.
+
+###### Artigo 63.º — Assembleia geral de proprietários
+
+1 - A assembleia geral de proprietários integra todos os proprietários dos lotes ou fracções que constituem o empreendimento.
+
+2 - Compete à assembleia geral:
+
+a) Eleger o presidente de entre os seus membros;
+
+b) Aprovar o relatório de gestão e as contas respeitantes à utilização das prestações periódicas;
+
+c) Aprovar o programa de administração e conservação do empreendimento;
+
+d) Aprovar, sob proposta do revisor oficial de contas, a alteração da prestação periódica, nos casos previstos no n.º 9 do artigo 56.º;
+
+e) Accionar a caução de boa administração;
+
+f) Destituir a entidade administradora do empreendimento, nos casos previstos no artigo 62.º;
+
+g) Deliberar sobre qualquer outro assunto que lhe seja submetido pela entidade administradora do empreendimento.
+
+3 - A assembleia geral é convocada pela entidade responsável pela administração do empreendimento.
+
+4 - A assembleia geral deve ser convocada por carta registada, enviada pelo menos 30 dias de calendário antes da data prevista para a reunião, no 1.º trimestre de cada ano.
+
+5 - A assembleia geral pode ser convocada pelo respectivo presidente sob proposta de proprietários que representem 10  % dos votos correspondentes ao valor total do empreendimento.
+
+6 - São aplicáveis à assembleia geral as regras sobre quórum deliberativo previstas no regime da propriedade horizontal.
+
+7 - As deliberações são tomadas por maioria simples dos votos dos proprietários presentes ou representados, salvo:
+
+a) Quando esteja em causa accionar a caução de boa administração ou destituir a entidade administradora do empreendimento, caso em que a deliberação deve ser tomada pela maioria dos votos correspondentes ao valor total do empreendimento;
+
+b) Nos outros casos previstos no regime da propriedade horizontal.
+
+###### Artigo 64.º — Títulos constitutivos de empreendimentos existentes
+
+1 - As normas do presente capítulo não se aplicam aos empreendimentos turísticos em propriedade plural cujo título constitutivo já se encontre aceite em depósito à data de entrada em vigor do presente decreto-lei, sendo-lhes aplicável o disposto no Decreto-Lei n.º 167/97, de 4 de julho, alterado pelos Decretos-Leis n.os 305/99, de 6 de agosto, 55/2002, de 11 de março, e 217/2006, de 31 de outubro, e seus regulamentos.
+
+2 - As entidades exploradoras de empreendimentos turísticos em propriedade plural que se encontram em funcionamento à data da entrada em vigor do presente decreto-lei mas que não disponham de título constitutivo devem proceder à respectiva elaboração e promoção da respectiva aprovação em assembleia geral de proprietários até 31 de Dezembro de 2010.
+
+3 - A assembleia de proprietários é convocada nos termos do artigo anterior, devendo a convocatória ser acompanhada dos documentos a aprovar.
+
+4 - A assembleia geral pode deliberar desde que estejam presentes proprietários que representem um quarto do valor total do empreendimento, sendo as deliberações tomadas por maioria dos votos dos proprietários presentes.
+
+5 - O título constitutivo a que se referem os números anteriores deve integrar o regulamento de administração e ser registado na conservatória do registo predial nos termos do disposto no n.º 6 do artigo 54.º
+
+6 - A entidade exploradora deve enviar a cada um dos proprietários uma cópia do título constitutivo devidamente registado na conservatória do registo predial.
+
+7 - Às alterações aos títulos constitutivos dos empreendimentos existentes são aplicáveis as normas do presente capítulo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+### Capítulo IX — Declaração de interesse para o turismo
+
+###### Artigo 65.º — Declaração de interesse para o turismo
+
+1 - O Turismo de Portugal, I. P., a requerimento dos interessados ou da câmara municipal, pode declarar de interesse para o turismo, nos termos a estabelecer em portaria do membro do Governo responsável pela área do turismo, os estabelecimentos, iniciativas, projectos ou actividades de índole económica, cultural, ambiental e de animação que, pela sua localização e características, complementem outras actividades ou empreendimentos turísticos, ou constituam motivo de atracção turística das áreas em que se encontram.
+
+2 - A declaração de interesse para o turismo pode ser retirada oficiosamente, quando deixarem de se verificar os pressupostos que determinaram a sua atribuição.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+### Capítulo X — Fiscalização e sanções
+
+###### Artigo 66.º — Competência de fiscalização e instrução de processos
+
+Sem prejuízo das competências das câmaras municipais previstas no regime jurídico da urbanização e edificação, compete à ASAE fiscalizar o cumprimento do disposto no presente decreto-lei, bem como instruir os respectivos processos, excepto no que se refere a matéria de publicidade cuja competência pertence à Direcção-Geral do Consumidor.
+
+###### Artigo 67.º — Contra-ordenações
+
+1 - (Revogado.)
+
+2 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+
+a) A oferta de serviços de alojamento turístico sem título válido de abertura;
+
+b) A edificação de empreendimentos turísticos sujeita à apresentação de comunicação prévia com prazo prevista no artigo 23.º-A sem que esta tenha ocorrido.
+
+3 - Constitui contraordenação económica grave, punível nos termos do RJCE:
+
+a) O não cumprimento das condições de identificação, segurança no acesso, insonorização e comunicação com o exterior previstas nos n.os 3, 4 e 5 do artigo 7.º;
+
+b) O desrespeito da capacidade máxima dos empreendimentos turísticos, nos termos previstos nos n.os 1 e 4 do artigo 8.º;
+
+c) O desrespeito pela exigência de vigilância e de equipamento de informação e salvamento prevista no n.º 2 do artigo 9.º;
+
+d) O desrespeito pela área máxima prevista para instalações de caráter complementar destinadas a alojamento, tal como estabelecido no n.º 4 do artigo 19.º;
+
+e) A não apresentação ou a apresentação fora do prazo da declaração referida no artigo 29.º e a falta de apresentação do requerimento necessário para proceder à reconversão da classificação previsto no n.º 2 do artigo 75.º;
+
+f) A disponibilização, divulgação ou comercialização de alojamento em empreendimentos turísticos não registado ou com o registo desatualizado, em violação do artigo 40.º;
+
+g) A disponibilização, divulgação ou comercialização de alojamento através de plataformas eletrónicas sem identificação do número de registo, em violação do artigo 42.º-A;
+
+h) O desrespeito pelo regime de exploração turística em permanência e de exploração continuada das unidades de alojamento do empreendimento turístico, tal como previsto nos n.os 1 e 2 do artigo 45.º, e a falta de celebração de contrato de exploração com os proprietários ou a falta de previsão no referido contrato dos termos da exploração turística das unidades de alojamento, da participação dos proprietários nos resultados da exploração das unidades de alojamento e das condições da utilização destas pelos respetivos proprietários, tal como previsto nos n.os 3 e 4 do artigo 45.º;
+
+i) A exploração das unidades de alojamento pelos respetivos proprietários ou a celebração de contratos que comprometam o uso turístico das mesmas, tal como previsto no n.º 6 do artigo 45.º;
+
+j) A violação pela entidade exploradora dos deveres previstos nas alíneas a) a c), e) e f) do artigo 46.º;
+
+k) A proibição de livre acesso aos empreendimentos turísticos nos casos não previstos nos n.os 2, 3 e 4 do artigo 48.º;
+
+l) O encerramento de um empreendimento turístico em propriedade plural, sem consentimento da maioria dos seus proprietários;
+
+m) O desrespeito pelos proprietários de lotes ou frações autónomas em empreendimentos turísticos do disposto nos n.os 1 e 3 do artigo 57.º;
+
+n) A falta de prestação de caução de boa administração e conservação pela entidade administradora do empreendimento, nos termos previstos no n.º 1 do artigo 59.º;
+
+o) O não cumprimento dos deveres de prestação de contas previstos no artigo 60.º;
+
+p) O não cumprimento dos deveres relativos à elaboração e disponibilização aos proprietários de um programa de administração e de conservação do empreendimento turístico em propriedade plural para cada ano, nos termos previstos no artigo 61.º;
+
+q) A falta de elaboração e promoção da respetiva aprovação em assembleia geral de proprietários de título constitutivo para os empreendimentos turísticos em propriedade plural já existentes, nos termos previstos no n.º 2 do artigo 64.º
+
+4 - Constitui contraordenação económica leve, punível nos termos do RJCE:
+
+a) O desrespeito pelo número máximo de camas convertíveis que podem ser instaladas nas unidades de alojamento dos empreendimentos turísticos, tal como previsto no n.º 2 do artigo 8.º;
+
+b) A não afixação ou a afixação fora de prazo, no exterior, da placa identificativa da classificação do empreendimento turístico, tal como previsto nos n.os 7 e 8 do artigo 36.º;
+
+c) A não comunicação da alteração dos elementos constantes do registo no prazo de 10 dias após a sua verificação, nos termos do n.º 2 do artigo 40.º;
+
+d) A violação do disposto no artigo 41.º, em matéria de identificação dos empreendimentos turísticos;
+
+e) A adoção de classificação ou de características que o empreendimento não possua na respetiva publicidade, documentação comercial e merchandising, tal como previsto no artigo 42.º;
+
+f) O desrespeito pela regra da unidade da exploração prevista no n.º 1 do artigo 44.º;
+
+g) A falta de publicitação das regras de funcionamento e acesso aos empreendimentos turísticos;
+
+h) A falta de publicitação do período de funcionamento dos empreendimentos turísticos;
+
+i) A falta de remessa a cada um dos proprietários de uma cópia do título constitutivo para os empreendimentos turísticos em propriedade plural, nos termos previstos no n.º 6 do artigo 64.º
+
+5 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+> Alterado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 80/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2017-107596685), em vigor a partir de 2017-07-01
+
+> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 128/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), em vigor a partir de 2014-11-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 68.º — Sanções acessórias
+
+1 - Em função da gravidade e da reiteração das contra-ordenações previstas no artigo anterior, bem como da culpa do agente, podem ser aplicadas as seguintes sanções acessórias:
+
+a) Apreensão do material através do qual se praticou a infracção;
+
+b) Suspensão, por um período até dois anos, do exercício da actividade directamente relacionada com a infracção praticada;
+
+c) Encerramento, pelo prazo máximo de dois anos, do empreendimento ou das instalações onde estejam a ser prestados serviços de alojamento turístico sem título válido.
+
+2 - Quando for aplicada a sanção acessória de encerramento, o alvará, quando exista, é cassado e apreendido pela câmara municipal, oficiosamente ou a pedido do Turismo de Portugal, I. P., ou da ASAE.
+
+###### Artigo 69.º — Negligência e tentativa
+
+1 - A negligência é punível, sendo os limites mínimos e máximos das coimas reduzidos para metade.
+
+2 - A tentativa é punível com a coima aplicável à contraordenação consumada, especialmente atenuada.
+
+> Revogado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 69.º-A — Regime subsidiário
+
+Às contraordenações económicas previstas no presente decreto-lei aplica-se o RJCE.
+
+> Alterado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 70.º — Competência sancionatória
+
+1 - A aplicação das coimas e das sanções acessórias previstas no presente decreto-lei compete:
+
+a) À ASAE relativamente aos empreendimentos turísticos referidos nas alíneas a) a f) do n.º 1 do artigo 4.º;
+
+b) Às câmaras municipais, relativamente aos empreendimentos turísticos referidos na alínea g) do n.º 1 do artigo 4.º
+
+2 - A aplicação das coimas e das sanções acessórias previstas no presente decreto-lei relativamente aos empreendimentos reconhecidos como turismo de natureza ou associados a uma marca nacional de áreas integradas no SNAC compete, respetivamente, à ASAE, se estes empreendimentos adotarem qualquer das tipologias previstas nas alíneas a) a f) do n.º 1 do artigo 4.º, e às câmaras municipais, se os referidos empreendimentos adotarem a tipologia prevista na alínea g) do n.º 1 do artigo 4.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 128/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), em vigor a partir de 2014-11-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 71.º — Produto das coimas
+
+1 - O produto das coimas aplicadas pelas câmaras municipais constitui receita dos respectivos municípios.
+
+2 - O produto das coimas aplicadas pela ASAE é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 86.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 72.º — Embargo e demolição
+
+Sem prejuízo das competências atribuídas por lei a outras entidades, compete ao presidente da câmara municipal embargar e ordenar a demolição de obras realizadas em violação do disposto no presente decreto-lei, por sua iniciativa ou mediante comunicação do Turismo de Portugal, I. P., ou da ASAE.
+
+###### Artigo 73.º — Interdição de utilização
+
+A ASAE é competente para determinar a interdição temporária do funcionamento dos empreendimentos turísticos, na sua totalidade ou em parte, quando a falta de cumprimento das disposições legais aplicáveis puser em causa a segurança dos utilizadores ou a saúde pública, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+> Alterado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 128/2014 - Diário da República n.º 166/2014, Série I de 2014-08-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/128-2014-56384880), em vigor a partir de 2014-11-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 74.º — Sistema informático
+
+1 - A tramitação dos procedimentos previstos no presente decreto-lei é realizada informaticamente com recurso ao balcão do empreendedor previsto nos Decretos-Leis n.os 92/2010, de 26 de julho, e 48/2011, de 1 de abril, acessível através do Portal do Cidadão, ou ao sítio na Internet do Turismo de Portugal, I. P., e das câmaras municipais, articulado com o sistema informático previsto no artigo 8.º-A do regime jurídico da urbanização e da edificação, nos termos a definir por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da administração local, do ordenamento do território e do turismo.
+
+2 - Para o efeito previsto no número anterior, o Turismo de Portugal, I. P., tem acesso permanente a toda a informação relativa a empreendimentos turísticos constante do sistema informático previsto no regime jurídico da urbanização e da edificação, independentemente da sujeição a parecer àquele instituto.
+
+3 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no n.º 1, pode ser utilizado qualquer outro meio legalmente admissível.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 186/2015 - Diário da República n.º 172/2015, Série I de 2015-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2015-70179162), em vigor a partir de 2015-09-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+### Capítulo XI — Disposições finais e transitórias
+
+###### Artigo 75.º — Empreendimentos turísticos, empreendimentos de turismo no espaço rural, casas de natureza e estabelecimentos de hospedagem existentes
+
+1 - O presente decreto-lei aplica-se aos empreendimentos turísticos existentes à data da sua entrada em vigor, sem prejuízo do disposto nos números seguintes.
+
+2 - Os empreendimentos turísticos, os empreendimentos de turismo no espaço rural e as casas de natureza existentes devem reconverter-se nas tipologias e categorias estabelecidas no presente decreto-lei, e nos diplomas complementares emitidos ao abrigo do mesmo, até 31 de Dezembro de 2010.
+
+3 - A reconversão da classificação prevista no número anterior é atribuída pelo Turismo de Portugal, I. P., ou pela câmara municipal, após rea-lização de auditoria de classificação, a pedido do interessado, podendo ser dispensados os requisitos exigidos para a atribuição da classificação, sempre que determinem a realização de obras que se revelem materialmente impossíveis ou que comprometam a rendibilidade do empreendimento, como tal reconhecidas pela entidade competente para a aprovação da classificação ou, no caso de empreendimentos turísticos em propriedade plural, quando os respetivos títulos constitutivos estiverem aceites em depósito ou que estejam autorizados a comercializar direitos reais de habitação periódica ou direitos de habitação turística devidamente autorizados.
+
+4 - Caso os empreendimentos referidos no n.º 2 não possam manter ou obter a classificação como empreendimento turístico, nos termos do presente decreto-lei, são reconvertidos, mediante mera comunicação prévia, em modalidades de alojamento local.
+
+5 - As moradias turísticas existentes à data da entrada em vigor do presente decreto-lei, licenciadas como tal ao abrigo de lei anterior a essa data, convertem-se automaticamente em moradias de alojamento local.
+
+6 - [Revogado].
+
+7- Os estabelecimentos de hospedagem licenciados pelas câmaras municipais ao abrigo dos respectivos regulamentos convertem-se automaticamente em estabelecimentos de alojamento local.
+
+8 - O Turismo de Portugal, I. P., deve inscrever no RNET os empreendimentos turísticos reconvertidos nos termos do n.º 2.
+
+9- Os títulos válidos de abertura dos empreendimentos turísticos, dos empreendimentos de turismo no espaço rural e das casas de natureza existentes à data de entrada em vigor do presente decreto-lei mantêm-se válidos, só sendo substituídos pelo alvará de autorização de utilização para fins turísticos na sequência de obras de ampliação, reconstrução ou alteração.
+
+10 - Aos títulos válidos de abertura referidos no número anterior aplica-se o disposto no artigo 33.º, com as necessárias adaptações.
+
+11 - No caso dos empreendimentos turísticos convertidos em estabelecimentos de alojamento local, os títulos de abertura existentes à data da entrada em vigor do presente decreto-lei mantêm-se válidos, só sendo substituídos por alvará de autorização de utilização para fins habitacionais na sequência de obras de ampliação, reconstrução ou alteração, ou em qualquer outro momento a pedido do interessado.
+
+12- Os empreendimentos turísticos em propriedade plural existentes à data da entrada em vigor do presente decreto-lei mantêm o regime de exploração turística previsto na legislação vigente aquando do respectivo licenciamento, salvo se, por decisão unânime de todos os seus proprietários, se optar pelo regime de exploração turística previsto no presente decreto-lei.
+
+> Rectificado pelo/a [Declaração de Retificação n.º 19/2014 - Diário da República n.º 58/2014, Série I de 2014-03-24](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2014-572121), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 228/2009 - Diário da República n.º 178/2009, Série I de 2009-09-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/228-2009-489771), em vigor a partir de 2009-09-15
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 25/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2008-249538), em vigor a partir de 2008-04-06
+
+###### Artigo 76.º — Processos pendentes
+
+1 - Os processos pendentes regem-se pelas disposições constantes no presente decreto-lei, salvo o disposto no número seguinte.
+
+2 - As entidades promotoras ou exploradoras dos empreendimentos turísticos em propriedade plural cujos processos se encontram pendentes à data da entrada em vigor do presente decreto-lei podem optar por aplicar o regime constante dos capítulos vii e viii do presente decreto-lei ou o regime de exploração aplicável à data do início do procedimento.
+
+3 - Para os efeitos previstos no n.º 2 do presente artigo, consideram-se pendentes os processos relativos a operações de loteamento, pedidos de informação prévia e pedidos de licenciamento de operações urbanísticas e pedidos de classificação definitiva que tenham por objecto a instalação de empreendimentos turísticos, de empreendimentos de turismo no espaço rural e de casas de natureza.
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 25/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/25-2008-249538), em vigor a partir de 2008-04-06
+
+###### Artigo 77.º — Norma revogatória
+
+1 - É revogado o Decreto-Lei n.º 167/97, de 4 de Julho, com as alterações introduzidas pelo Decreto-Lei n.º 55/2002, de 11 de Março, e pelo Decreto-Lei n.º 217/2006, de 31 de Outubro, bem como o Decreto-Lei n.º 54/2002, de 11 de Março.
+
+2 - Com a entrada em vigor das portarias previstas no presente decreto-lei são revogados:
+
+a) O Decreto-Lei n.º 192/82, de 19 de Maio;
+
+b) O Decreto-Lei n.º 47/99, de 16 de Fevereiro, com as alterações introduzidas pelo Decreto-Lei n.º 56/2002, de 11 de Março, com excepção das disposições referentes à animação ambiental constantes dos n.os 2 e 3 do artigo 2.º e dos artigos 8.º, 9.º e 12.º;
+
+c) O Decreto Regulamentar n.º 33/97, de 25 de Setembro, com as alterações introduzidas pelo Decreto Regulamentar n.º 14/2002, de 12 de Março;
+
+d) O Decreto Regulamentar n.º 34/97, de 25 de Setembro, com as alterações introduzidas pelo Decreto Regulamentar n.º 14/99, de 14 de Agosto, e pelo Decreto Regulamentar n.º 6/2000, de 27 de Abril;
+
+e) O Decreto Regulamentar n.º 36/97, de 25 de Setembro, com as alterações introduzidas pelo Decreto Regulamentar n.º 16/99, de 18 de Agosto;
+
+f) O Decreto Regulamentar n.º 22/98, de 21 de Setembro, com as alterações introduzidas pelo Decreto Regulamentar n.º 1/2002, de 3 de Janeiro;
+
+g) O Decreto Regulamentar n.º 20/99, de 13 de Setembro, com as alterações introduzidas pelo Decreto Regulamentar n.º 22/2002, de 2 de Abril;
+
+h) O Decreto Regulamentar n.º 2/99, de 17 de Fevereiro;
+
+i) O Decreto Regulamentar n.º 13/2002, de 12 de Março, com as alterações introduzidas pelo Decreto Regulamentar n.º 5/2007, de 14 de Fevereiro;
+
+j) A Portaria n.º 1063/97, de 21 de Outubro;
+
+l) A Portaria n.º 1068/97, de 23 de Outubro;
+
+m) A Portaria n.º 1071/97, de 23 de Outubro;
+
+n) A Portaria n.º 930/98, de 24 de Outubro;
+
+o) Portaria n.º 1229/2001, de 25 de Outubro.
+
+###### Artigo 78.º — Regiões Autónomas
+
+1- O regime previsto no presente decreto-lei é aplicável às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma.
+
+2 - O produto das coimas cobradas nas Regiões Autónomas no âmbito da aplicação do presente decreto-lei, na percentagem correspondente ao Estado, constitui receita própria das Regiões Autónomas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2014 - Diário da República n.º 16/2014, Série I de 2014-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2014-571048), em vigor a partir de 2014-01-28
+
+###### Artigo 79.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de Dezembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.
+
+Promulgado em 27 de Fevereiro de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 29 de Fevereiro de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

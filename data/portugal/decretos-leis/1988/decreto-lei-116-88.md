@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:284734:por
+title: Decreto-Lei n.º 116/88
+short_title: null
+summary: Dá nova redacção ao artigo 11.º do Decreto-Lei n.º 529/85, de 31 de Dezembro, que aprova a Lei Orgânica do Ministério
+  dos Negócios Estrangeiros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 116/88
+official_date: null
+publication_date: '1988-04-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 84/1988, Série I de 1988-04-11
+  number: '84'
+  series: I
+  supplement: null
+  pages: 1406 - 1407
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/04/08400/14061407.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '284734'
+  dre_path: /dr/detalhe/decreto-lei/116-1988-284734
+  internal: pt:dre:284734:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1988-284734
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-1988-284734
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-06-19T00:00:00Z'
+integrity:
+  source_sha256: ea39e0d9492f6c38cceda00c226a27f92b290ccbc29776e92789a559f4839e92
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-116-284734.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:272596:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 116/88
+
+de 11 de Abril
+
+Na continuidade das acções que o Ministério dos Negócios Estrangeiros tem vindo a desenvolver no sentido da sua modernização e operacionalidade, a racionalização dos seus recursos humanos tem sido uma preocupação constante.
+
+Em conformidade com este princípio insere-se a presente medida legislativa, ao pretender-se alargar o âmbito de recrutamento dos directores-gerais e subdirectores-gerais deste Ministério e, deste modo, dinamizar as estruturas actualmente existentes através do recurso a pessoal detentor do perfil necessário ao cabal exercício de tais cargos.
+
+O carácter excepcional do regime ora proposto, sem perder de vista as especificidades próprias de uma carreira, decorre da necessidade urgente de dotar o Ministério dos Negócios Estrangeiros dos recursos humanos indispensáveis à cabal execução da política externa portuguesa, designadamente no âmbito das políticas comunitárias, que exigem, cada vez mais, técnicos com perfil e qualificações muito próprios.
+
+Na verdade, a crescente afirmação de Portugal na cena internacional através do reforço da participação e intervenção do nosso país em organizações internacionais e da participação activa no processo de construção europeia, entre outros, são os grandes vectores da política externa portuguesa e que obrigam, necessariamente, à valorização dos recursos humanos do Ministério dos Negócios Estrangeiros e à reorganização das suas próprias estruturas, cuja importância se revelará ainda mais pertinente se tivermos presente que Portugal assumirá a presidência das Comunidades Europeias em 1992.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo único. O artigo 11.º do [Decreto-Lei n.º 529/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/529-1985-546608), de 31 de Dezembro, passa a ter a seguinte redacção:
+
+###### Art. 11.º - 1 - Os directores-gerais do Ministério dos Negócios Estrangeiros são escolhidos de entre funcionários do quadro do pessoal diplomático com a categoria de embaixador ou ministro plenipotenciário de 1.ª classe ou de 2.ª classe, ou, excepcionalmente, nos termos da lei geral.
+
+2 - As nomeações para os cargos referidos no número anterior serão feitas por despacho conjunto do Primeiro-Ministro e do Ministro dos Negócios Estrangeiros.
+
+3 - Sempre que os directores-gerais do Ministério dos Negócios Estrangeiros sejam coadjuvados por subdirectores-gerais, serão estes recrutados de entre funcionários do quadro do pessoal diplomático com a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe ou conselheiro de embaixada, ou, excepcionalmente, nos termos da lei geral.
+
+4 - Para efeitos do disposto nos n.os 1 e 3 do presente artigo, o quadro de embaixadores e ministros plenipotenciários de 1.ª classe ou de 2.ª classe em serviço no Ministério dos Negócios Estrangeiros considerar-se-á aumentado de tantos lugares quantos os funcionários nomeados nesses termos, abatendo-se igual número de unidades ao quadro de ministros plenipotenciários de 1.ª classe ou de 2.ª classe ou de conselheiros de embaixada em serviço no referido Ministério.
+
+Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 1988. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.
+
+**Promulgado em 24 de Março de 1988.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 28 de Março de 1988.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

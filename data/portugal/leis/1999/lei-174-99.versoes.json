@@ -1,0 +1,899 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:558204:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-884567293",
+ "dre_path": "/dr/detalhe/lei/174-1999-558204",
+ "source_lastmod": "2024-08-16",
+ "versions": [
+  {
+   "date": "1999-09-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "884567397",
+    "884567398",
+    "884567399",
+    "884567400",
+    "884567401",
+    "884567402",
+    "884567403",
+    "884567404",
+    "884567405",
+    "884567406",
+    "884567407",
+    "884567408",
+    "884567409",
+    "884567410",
+    "884567411",
+    "884567412",
+    "884567413",
+    "884567414",
+    "884567415",
+    "884567416",
+    "884567417",
+    "884567418",
+    "884567419",
+    "884567420",
+    "884567421",
+    "884567422",
+    "884567423",
+    "884567424",
+    "884567425",
+    "884567426",
+    "884567427",
+    "884567428",
+    "884567429",
+    "884567430",
+    "884567431",
+    "884567432",
+    "884567433",
+    "884567434",
+    "884567435",
+    "884567436",
+    "884567437",
+    "884567438",
+    "884567439",
+    "884567440",
+    "884567441",
+    "884567442",
+    "884567443",
+    "884567444",
+    "884567445",
+    "884567446",
+    "884567447",
+    "884567448",
+    "884567449",
+    "884567450",
+    "884567451",
+    "884567452",
+    "884567453",
+    "884567454",
+    "884567455",
+    "884567456",
+    "884567457",
+    "884567458",
+    "884567459",
+    "884567460",
+    "884567461",
+    "884567462",
+    "884567463",
+    "884567464",
+    "884567465",
+    "884567466",
+    "884567467",
+    "884567468",
+    "884567469",
+    "884567470",
+    "884567471",
+    "884567472",
+    "884567473",
+    "884567474",
+    "884567875",
+    "884567876"
+   ]
+  },
+  {
+   "date": "2008-05-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:249535:por",
+     "title": "Lei Orgânica n.º 1/2008",
+     "published": "2008-05-06",
+     "dre_path": "/dr/detalhe/lei-organica/1-2008-249535"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 57.º",
+    "Altera Artigo 58.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º"
+   ],
+   "fragments": [
+    "884567397",
+    "884567398",
+    "884567399",
+    "884567400",
+    "884567401",
+    "884567402",
+    "884567403",
+    "884567404",
+    "884567405",
+    "884567406",
+    "884567407",
+    "884567882",
+    "884567885",
+    "884567886",
+    "884567411",
+    "884567412",
+    "884567413",
+    "884567414",
+    "884567415",
+    "884567416",
+    "884567417",
+    "884567418",
+    "884567419",
+    "884567420",
+    "884567421",
+    "884567422",
+    "884567423",
+    "884567424",
+    "884567425",
+    "884567426",
+    "884567427",
+    "884567428",
+    "884567429",
+    "884567430",
+    "884567431",
+    "884567432",
+    "884567433",
+    "884567434",
+    "884567435",
+    "884567436",
+    "884567437",
+    "884567438",
+    "884567439",
+    "884567440",
+    "884567441",
+    "884567442",
+    "884567443",
+    "884567444",
+    "884567445",
+    "884567446",
+    "884567447",
+    "884567448",
+    "884567449",
+    "884567450",
+    "884567451",
+    "884567452",
+    "884567453",
+    "884567454",
+    "884567455",
+    "884567456",
+    "884567457",
+    "884567458",
+    "884567459",
+    "884567460",
+    "884567461",
+    "884567462",
+    "884567463",
+    "884567464",
+    "884567465",
+    "884567466",
+    "884567467",
+    "884567884",
+    "884567883",
+    "884567470",
+    "884567471",
+    "884567472",
+    "884567473",
+    "884567474",
+    "884567875",
+    "884567876",
+    "884567877"
+   ]
+  }
+ ],
+ "fragments": {
+  "884567397": {
+   "fragment_id": "884567294",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 174/99\n\nde 21 de Setembro\n\nLei do Serviço Militar\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "884567398": {
+   "fragment_id": "884567295",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "884567399": {
+   "fragment_id": "884567296",
+   "type": 11,
+   "heading": "Artigo 1.º — Conceito e natureza do serviço militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Conceito e natureza do serviço militar\n\n1 - A defesa da Pátria é direito e dever fundamental de todos os portugueses.\n\n2 - O serviço militar integra-se no contributo para a defesa nacional, no âmbito militar, a prestar pelos cidadãos portugueses, nos termos da presente lei.\n\n3 - Constitui ainda objectivo do serviço militar a valorização cívica, cultural, profissional e física dos cidadãos.\n\n4 - Em tempo de paz, o serviço militar baseia-se no voluntariado.\n\n5 - O disposto no número anterior não prejudica as obrigações dos cidadãos portugueses inerentes ao recrutamento militar e ao serviço efectivo decorrente de convocação ou de mobilização, nos termos estatuídos na presente lei.\n\n6 - O período de sujeição dos cidadãos portugueses a obrigações militares, nos termos do número anterior, decorre entre o primeiro dia do ano em que completam 18 anos de idade e o último dia do ano em que completam 35 anos de idade."
+  },
+  "884567400": {
+   "fragment_id": "884567297",
+   "type": 11,
+   "heading": "Artigo 2.º — Situações do serviço militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Situações do serviço militar\n\nO serviço militar abrange as seguintes situações:\n\na) Serviço efectivo;\n\nb) Reserva de recrutamento;\n\nc) Reserva de disponibilidade."
+  },
+  "884567401": {
+   "fragment_id": "884567298",
+   "type": 11,
+   "heading": "Artigo 3.º — Serviço efectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviço efectivo\n\n1 - Serviço efectivo, entendido como contributo para a defesa da Pátria, é a situação dos cidadãos enquanto permanecem ao serviço das Forças Armadas.\n\n2 - O serviço efectivo abrange:\n\na) Serviço efectivo nos quadros permanentes;\n\nb) Serviço efectivo em regime de contrato;\n\nc) Serviço efectivo em regime de voluntariado;\n\nd) Serviço efectivo decorrente de convocação ou mobilização.\n\n3 - O serviço efectivo nos quadros permanentes corresponde à prestação de serviço pelos cidadãos que, tendo ingressado voluntariamente na carreira militar, se encontrem vinculados às Forças Armadas com carácter de permanência.\n\n4 - O serviço efectivo em regime de contrato corresponde à prestação de serviço militar voluntário por parte dos cidadãos durante um período de tempo limitado, com vista à satisfação das necessidades das Forças Armadas ou ao seu eventual ingresso nos quadros permanentes.\n\n5 - O serviço efectivo em regime de voluntariado corresponde à assunção voluntária de um vínculo às Forças Armadas por um período de 12 meses, incluindo o período de instrução, findo o qual o militar pode ingressar no serviço efectivo em regime de contrato.\n\n6 - O serviço efectivo decorrente de convocação ou mobilização compreende o serviço militar prestado na sequência do recrutamento excepcional, nos termos previstos na presente lei.\n\n7 - O estatuto dos militares nas diversas situações de serviço efectivo é definido em diplomas próprios."
+  },
+  "884567402": {
+   "fragment_id": "884567299",
+   "type": 11,
+   "heading": "Artigo 4.º — Reserva de recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reserva de recrutamento\n\nA reserva de recrutamento é constituída pelos cidadãos portugueses dos 18 aos 35 anos de idade, que, não tendo prestado serviço efectivo nas fileiras, podem ser objecto de recrutamento excepcional, em termos a regulamentar."
+  },
+  "884567403": {
+   "fragment_id": "884567300",
+   "type": 11,
+   "heading": "Artigo 5.º — Reserva de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reserva de disponibilidade\n\n1 - A reserva de disponibilidade é constituída pelos cidadãos portugueses que cessaram a prestação de serviço militar até à idade limite dos deveres militares.\n\n2 - A reserva de disponibilidade destina-se a permitir o aumento dos efectivos das Forças Armadas até aos quantitativos tidos por adequados.\n\n3 - A situação de reserva de disponibilidade, para efeito de convocação, abrange o período de seis anos subsequente ao termo do serviço efectivo, sem prejuízo do limite de idade previsto no n.º 1."
+  },
+  "884567404": {
+   "fragment_id": "884567301",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração dos limites de idade em tempo de guerra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração dos limites de idade em tempo de guerra\n\nEm tempo de guerra o limite máximo de idade estabelecido para o cumprimento de deveres militares pode ser alterado por lei."
+  },
+  "884567405": {
+   "fragment_id": "884567302",
+   "type": 1,
+   "heading": "Capítulo II — Recrutamento militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Recrutamento militar"
+  },
+  "884567406": {
+   "fragment_id": "884567303",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "884567407": {
+   "fragment_id": "884567304",
+   "type": 11,
+   "heading": "Artigo 7.º — Definição e modalidades de recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Definição e modalidades de recrutamento\n\n1 - Recrutamento militar é o conjunto de operações necessárias à obtenção de meios humanos para ingresso nas Forças Armadas.\n\n2 - O recrutamento militar compreende as seguintes modalidades:\n\na) Recrutamento normal, para a prestação de serviço efectivo em regime de contrato ou em regime de voluntário;\n\nb) Recrutamento especial, para a prestação de serviço efectivo voluntário nos quadros permanentes;\n\nc) Recrutamento excepcional, para a prestação de serviço efectivo decorrente de convocação ou mobilização.\n\n3 - O recrutamento especial será regulado por diploma próprio."
+  },
+  "884567408": {
+   "fragment_id": "884567305",
+   "type": 11,
+   "heading": "Artigo 8.º — Recenseamento militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recenseamento militar\n\n1 - O recenseamento militar é a operação do recrutamento geral que tem por finalidade obter a informação de todos os cidadãos que atingem, em cada ano, a idade do início das obrigações militares.\n\n2 - Constitui obrigação dos cidadãos, a cumprir pelos próprios ou pelos seus representantes legais, apresentarem-se ao recenseamento militar durante o mês de Janeiro do ano em que completem 18 anos.\n\n3 - Deve ser dada publicidade ao dever de inscrição no recenseamento militar."
+  },
+  "884567409": {
+   "fragment_id": "884567306",
+   "type": 11,
+   "heading": "Artigo 9.º — Locais de recenseamento militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Locais de recenseamento militar\n\nOs cidadãos, pessoalmente ou através dos seus representantes legais, apresentam-se ao recenseamento militar nos locais a seguir indicados:\n\na) Câmara municipal da área da residência do cidadão;\n\nb) Posto consular da área da residência, para os cidadãos domiciliados no estrangeiro."
+  },
+  "884567410": {
+   "fragment_id": "884567307",
+   "type": 11,
+   "heading": "Artigo 10.º — Informação a prestar no acto de apresentação ao recenseamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Informação a prestar no acto de apresentação ao recenseamento\n\nNo acto de apresentação ao recenseamento deve ser entregue ao cidadão informação escrita descrevendo os objectivos do serviço militar e as diferentes possibilidades e oportunidades que se lhe oferecem."
+  },
+  "884567411": {
+   "fragment_id": "884567308",
+   "type": 11,
+   "heading": "Artigo 11.º — Dia da Defesa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dia da Defesa Nacional\n\n1 - É instituído o Dia da Defesa Nacional que visa sensibilizar os jovens para a temática da defesa nacional e divulgar o papel das Forças Armadas, a quem incumbe a defesa militar da República.\n\n2 - A sensibilização e divulgação referidas no número anterior envolvem, designadamente, informação escrita descrevendo os preceitos constitucionais que se relacionam com a defesa nacional, os princípios gerais que se relacionam com as Forças Armadas, direitos e deveres dos cidadãos, assim como os objectivos do serviço militar e as diferentes possibilidades que se lhe oferecem durante e após o serviço militar, acções de formação sobre os objectivos da defesa nacional, sobre as missões essenciais das Forças Armadas, a sua organização, os recursos que lhes estão afectos e informação sobre as formas de prestação de serviço.\n\n3 - Após as acções de formação e outras actividades a realizar a nível regional, durante o período de um dia, é entregue ao participante um certificado individual de presença.\n\n4 - A comparência ao Dia da Defesa Nacional constitui um dever de todos os cidadãos, podendo ocorrer a partir do 1.º dia do ano em que completem a idade de 18 anos e enquanto a mantenham."
+  },
+  "884567412": {
+   "fragment_id": "884567309",
+   "type": 11,
+   "heading": "Artigo 12.º — Orgânica do recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Orgânica do recrutamento\n\n1 - O planeamento, direcção e coordenação do processo de recrutamento incumbe a um órgão central integrado na estrutura do Ministério da Defesa Nacional, sem prejuízo das competências cometidas aos ramos das Forças Armadas.\n\n2 - A execução do processo de recrutamento fica a cargo dos centros de recrutamento dos ramos ou integrados, que assumirão configurações diversas de acordo com as áreas do País e com as potenciais vocações dos candidatos ao regime de voluntariado.\n\n3 - O órgão central referido no n.º 1, no âmbito das suas competências, deverá ainda desenvolver campanhas de sensibilização para o recrutamento, designadamente nos meios de comunicação social.\n\n4 - No processo de recrutamento podem ainda intervir outros serviços públicos, designadamente os do sistema de ensino, através da integração da temática da defesa nacional em curricula escolares e da condução de acções de sensibilização e divulgação do papel da defesa nacional e das Forças Armadas, segundo um plano definido anualmente por despacho conjunto dos Ministros da Defesa Nacional e da Educação."
+  },
+  "884567413": {
+   "fragment_id": "884567310",
+   "type": 8,
+   "heading": "Secção II — Recrutamento normal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Recrutamento normal"
+  },
+  "884567414": {
+   "fragment_id": "884567311",
+   "type": 11,
+   "heading": "Artigo 13.º — Finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Finalidades\n\nO recrutamento normal tem por finalidade a admissão de cidadãos com o mínimo de 18 anos de idade, que se proponham prestar, voluntariamente, serviço militar efectivo nas Forças Armadas."
+  },
+  "884567415": {
+   "fragment_id": "884567312",
+   "type": 11,
+   "heading": "Artigo 14.º — Fases de recrutamento normal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Fases de recrutamento normal\n\nO recrutamento normal compreende as seguintes fases:\n\na) Candidatura;\n\nb) Classificação e selecção;\n\nc) Alistamento."
+  },
+  "884567416": {
+   "fragment_id": "884567313",
+   "type": 11,
+   "heading": "Artigo 15.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Candidatura\n\n1 - A candidatura ao regime de contrato ou de voluntariado formaliza-se através de declaração em que o cidadão manifeste a vontade de prestar serviço militar.\n\n2 - No acto da candidatura, o cidadão pode manifestar a sua preferência pela área funcional e pelo ramo onde pretende servir, bem como pela área geográfica de prestação do serviço militar.\n\n3 - Após formalização da candidatura serão oportunamente comunicados ao cidadão a data e o local de realização das provas de classificação e selecção."
+  },
+  "884567417": {
+   "fragment_id": "884567314",
+   "type": 11,
+   "heading": "Artigo 16.º — Classificação e selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Classificação e selecção\n\n1 - As provas de classificação e selecção têm por finalidade determinar grau de aptidão psicofísica dos cidadãos para efeitos de prestação de serviço militar, em resultado do que lhes é atribuída uma das seguintes classificações:\n\nApto;\n\nInapto.\n\n2 - Ficam a aguardar classificação os cidadãos aos quais não seja possível atribuí-la no decurso das provas referidas no número anterior.\n\n3 - Da classificação referida no n.º 1 pode ser interposto recurso hierárquico no prazo de cinco dias para o dirigente máximo do órgão a que se refere o artigo 12.º, o qual decide no prazo de 30 dias, com base em novo exame do recorrente.\n\n4 - Aos cidadãos classificados de Apto são atribuídas áreas funcionais, de acordo com as suas aptidões físicas, psíquicas, técnicas, profissionais e outras, tendo em vista o respectivo alistamento e tomando em consideração sempre que possível as preferências manifestadas nos termos do n.º 2 do artigo anterior.\n\n5 - No final das provas de classificação e selecção, os cidadãos considerados aptos são proclamados recrutas e prestam compromisso de honra de acordo com a fórmula constante do regulamento da presente lei."
+  },
+  "884567418": {
+   "fragment_id": "884567315",
+   "type": 11,
+   "heading": "Artigo 17.º — Alistamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alistamento\n\n1 - O alistamento é a atribuição nominal dos contratados e voluntários a uma categoria, classe, arma, serviço ou especialidade dos ramos das Forças Armadas, no âmbito da área funcional para a qual foram seleccionados.\n\n2 - A afectação ao serviço dos voluntários alistados em cada ramo das Forças Armadas é da responsabilidade do respectivo ramo."
+  },
+  "884567419": {
+   "fragment_id": "884567316",
+   "type": 8,
+   "heading": "Secção III — Recrutamento excepcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Recrutamento excepcional"
+  },
+  "884567420": {
+   "fragment_id": "884567317",
+   "type": 11,
+   "heading": "Artigo 18.º — Situações de recrutamento excepcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Situações de recrutamento excepcional\n\nOs cidadãos nas situações de reserva de recrutamento e de reserva de disponibilidade podem excepcionalmente ser chamados a cumprir serviço efectivo nas seguintes modalidades:\n\na) Convocação;\n\nb) Mobilização."
+  },
+  "884567421": {
+   "fragment_id": "884567318",
+   "type": 11,
+   "heading": "Artigo 19.º — Fases de recrutamento excepcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Fases de recrutamento excepcional\n\nO recrutamento excepcional de cidadãos na situação de reserva de recrutamento para efeitos de convocação compreende as seguintes fases:\n\na) Classificação e selecção;\n\nb) Distribuição."
+  },
+  "884567422": {
+   "fragment_id": "884567319",
+   "type": 11,
+   "heading": "Artigo 20.º — Classificação e selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Classificação e selecção\n\n1 - Os cidadãos convocados nos termos do n.º 1 do artigo 34.º são simultaneamente notificados com uma antecedência mínima de 40 dias para efectuarem as provas de classificação e selecção.\n\n2 - Às provas de classificação e selecção são aplicáveis as disposições previstas nos n.os 1, 2 e 3 do artigo 16.º da presente lei.\n\n3 - Os cidadãos classificados de Apto são agrupados por áreas funcionais, de acordo com as suas aptidões físicas, psíquicas, técnicas, profissionais e outras, tendo em vista a sua futura distribuição.\n\n4 - Os cidadãos considerados aptos podem manifestar a sua preferência pela prestação de serviço militar, em termos de ramos das Forças Armadas, classe, arma, serviço, especialidade e de área geográfica de cumprimento do serviço militar.\n\n5 - No final das provas de classificação e selecção, os cidadãos considerados aptos são proclamados recrutas e prestam compromisso de honra de acordo com a fórmula constante do regulamento da presente lei."
+  },
+  "884567423": {
+   "fragment_id": "884567320",
+   "type": 11,
+   "heading": "Artigo 21.º — Não apresentação às provas de classificação e selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Não apresentação às provas de classificação e selecção\n\nOs cidadãos que, quando notificados, não se apresentem às provas de classificação e selecção ou reclassificação para efeito do artigo 34.º e não justifiquem a falta no prazo de 10 dias, ou se recusem a realizar algumas daquelas provas, são notados compelidos à prestação do serviço militar."
+  },
+  "884567424": {
+   "fragment_id": "884567321",
+   "type": 11,
+   "heading": "Artigo 22.º — Distribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Distribuição\n\nA distribuição consiste na afectação dos recrutas a uma categoria, classe, arma, serviço ou especialidade dos ramos das Forças Armadas, de acordo com as respectivas necessidades, devendo, sempre que possível, ter-se em conta o disposto no n.º 4 do artigo 20.º"
+  },
+  "884567425": {
+   "fragment_id": "884567322",
+   "type": 1,
+   "heading": "Capítulo III — Serviço efectivo em regime de contrato, regime de voluntariado e por convocação e mobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Serviço efectivo em regime de contrato, regime de voluntariado e por convocação e mobilização"
+  },
+  "884567426": {
+   "fragment_id": "884567323",
+   "type": 8,
+   "heading": "Secção I — Regime de contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regime de contrato"
+  },
+  "884567427": {
+   "fragment_id": "884567324",
+   "type": 11,
+   "heading": "Artigo 23.º — Serviço efectivo em regime de contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Serviço efectivo em regime de contrato\n\nO serviço efectivo em regime de contrato compreende:\n\na) A incorporação;\n\nb) A instrução militar;\n\nc) O período nas fileiras."
+  },
+  "884567428": {
+   "fragment_id": "884567325",
+   "type": 11,
+   "heading": "Artigo 24.º — Incorporação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Incorporação\n\nA incorporação consiste na apresentação dos cidadãos nas unidades e estabelecimentos militares do ramo das Forças Armadas em que foram alistados para prestação de serviço efectivo."
+  },
+  "884567429": {
+   "fragment_id": "884567326",
+   "type": 11,
+   "heading": "Artigo 25.º — Instrução militar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Instrução militar\n\n1 - A instrução militar consiste na formação ministrada aos instruendos, adequada às características próprias de cada ramo das Forças Armadas.\n\n2 - A instrução militar compreende:\n\na) A instrução básica, que visa habilitar os instruendos com uma preparação militar geral, e termina no acto do juramento de bandeira, que é sempre prestado perante a Bandeira Nacional;\n\nb) A instrução complementar que visa proporcionar a formação adequada ao exercício de cargos e funções próprias de cada uma das classes, armas, serviços ou especialidades.\n\n3 - As orientações gerais relativas à instrução militar são definidas por despacho do Ministro da Defesa Nacional, ouvido o Conselho de Chefes de Estado-Maior."
+  },
+  "884567430": {
+   "fragment_id": "884567327",
+   "type": 11,
+   "heading": "Artigo 26.º — Período nas fileiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Período nas fileiras\n\nO militar inicia o período nas fileiras após conclusão, com aproveitamento, da instrução militar."
+  },
+  "884567431": {
+   "fragment_id": "884567328",
+   "type": 11,
+   "heading": "Artigo 27.º — Celebração do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Celebração do contrato\n\nO contrato é celebrado na sequência do alistamento, entrando em vigor na data da incorporação."
+  },
+  "884567432": {
+   "fragment_id": "884567329",
+   "type": 11,
+   "heading": "Artigo 28.º — Duração do serviço efectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Duração do serviço efectivo\n\n1 - O serviço efectivo em regime de contrato tem a duração mínima de dois anos e a máxima de seis anos.\n\n2 - Dentro do período máximo referido no número anterior, o contrato deve ser renovado sempre que permaneça vaga no respectivo efectivo das Forças Armadas, se o militar contratado se manifestar nesse sentido e tiver classificação de serviço que o permita.\n\n3 - Podem ser criados, por decreto-lei, regimes de contrato com a duração máxima até 20 anos para situações funcionais cujo grau de formação e treino, tipo de habilitações académicas e exigências técnicas tornem desejável uma garantia de prestação de serviço mais prolongada.\n\n4 - O tempo de serviço efectivo prestado durante a instrução militar corresponde ao período experimental, contando para todos os efeitos legais, excepto para o cômputo da duração do contrato."
+  },
+  "884567433": {
+   "fragment_id": "884567330",
+   "type": 11,
+   "heading": "Artigo 29.º — Idade limite de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Idade limite de ingresso\n\nAs idades limite para a candidatura ao regime de contrato são:\n\na) De 30 anos, para os cidadãos possuidores de licenciatura em Medicina, habilitados com o internato geral;\n\nb) De 27 anos, para cidadãos possuidores de habilitação académica com grau de bacharelato ou licenciatura;\n\nc) De 24 anos, para os restantes."
+  },
+  "884567434": {
+   "fragment_id": "884567331",
+   "type": 8,
+   "heading": "Secção II — Regime de voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Regime de voluntariado"
+  },
+  "884567435": {
+   "fragment_id": "884567332",
+   "type": 11,
+   "heading": "Artigo 30.º — Serviço efectivo em regime de voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Serviço efectivo em regime de voluntariado\n\nO serviço efectivo em regime de voluntariado constitui a expressão do direito de defesa da Pátria e assenta na adesão voluntária a um vínculo às Forças Armadas, com vista à satisfação destas."
+  },
+  "884567436": {
+   "fragment_id": "884567333",
+   "type": 11,
+   "heading": "Artigo 31.º — Duração do serviço efectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Duração do serviço efectivo\n\nO serviço efectivo em regime de voluntariado tem a duração de 12 meses, incluída a instrução militar."
+  },
+  "884567437": {
+   "fragment_id": "884567334",
+   "type": 11,
+   "heading": "Artigo 32.º — Prestação de serviço efectivo em regime de contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Prestação de serviço efectivo em regime de contrato\n\n1 - Os cidadãos no regime de voluntariado poderão, após o termo do respectivo período de prestação de serviço, requerer a sua permanência no serviço efectivo, em regime de contrato.\n\n2 - Para o efeito as candidaturas serão apresentadas até ao 60.º dia anterior ao termo do período de prestação de serviço na situação de voluntários no regime de voluntariado."
+  },
+  "884567438": {
+   "fragment_id": "884567335",
+   "type": 11,
+   "heading": "Artigo 33.º — Idade limite de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Idade limite de ingresso\n\nAs idades limite para a candidatura à prestação do serviço militar em regime de voluntariado são as estatuídas no artigo 29.º quanto ao regime de contrato."
+  },
+  "884567439": {
+   "fragment_id": "884567336",
+   "type": 8,
+   "heading": "Secção III — Convocação e mobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Convocação e mobilização"
+  },
+  "884567440": {
+   "fragment_id": "884567337",
+   "type": 11,
+   "heading": "Artigo 34.º — Serviço efectivo por convocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Serviço efectivo por convocação\n\n1 - Os cidadãos que se encontrem na situação de reserva de recrutamento podem ser convocados para prestação de serviço efectivo com uma antecedência mínima de 60 dias, nos casos em que a satisfação das necessidades fundamentais das Forças Armadas seja afectada ou prejudicada a prossecução dos objectivos permanentes da política de defesa nacional, por períodos de 4 meses prorrogáveis até ao máximo de 12 meses.\n\n2 - A convocação prevista no número anterior é proposta pelo Ministro da Defesa Nacional, assumirá a forma de decreto-lei, fixará os efectivos e a duração do serviço militar, discriminará os objectivos, ouvido o Conselho de Chefes de Estado-Maior, e entrará em vigor 30 dias após a sua publicação.\n\n3 - Serão atribuídos aos cidadãos sujeitos ao serviço efectivo previsto neste artigo, com as necessárias adaptações, as compensações financeiras e materiais e demais incentivos de que beneficiem aqueles que prestam serviço efectivo em regime de voluntariado.\n\n4 - Os cidadãos convocados ao abrigo do n.º 1, que cumpram serviço efectivo nas fileiras, só podem voltar a ser convocados nos termos da alínea b) do n.º 6 do presente artigo.\n\n5 - Os efectivos mínimos serão definidos pelo Ministro da Defesa Nacional, ouvido o Conselho Superior Militar, sendo preferencialmente chamados, por ordem de prioridades:\n\na) Os cidadãos que hajam injustificadamente faltado ao cumprimento de deveres militares;\n\nb) Os cidadãos a partir do ano em que completem 19 anos de idade, de acordo com critério de afectação por ordem sucessiva de faixas etárias;\n\nc) De entre os cidadãos referidos na alínea anterior, os que não forem casados.\n\n6 - Os cidadãos que se encontrem na situação de reserva de disponibilidade podem ser convocados para prestação de serviço efectivo, nas seguintes condições:\n\na) Com uma antecedência mínima de 60 dias, por portaria do Ministro da Defesa Nacional, ouvido o Conselho de Chefes de Estado-Maior, por período ou períodos na totalidade não superiores a dois meses, enquanto durarem os deveres militares, para efeitos de reciclagem, treino, exercícios ou manobras militares;\n\nb) Por decreto do Governo, mediante proposta do Ministro da Defesa Nacional, ouvido o Conselho Superior Militar, em caso de perigo de guerra ou de agressão iminente ou efectiva por forças estrangeiras, enquanto se mantiverem estas situações e não for decretada a mobilização militar, até à totalidade da reserva de disponibilidade.\n\n7 - Nos termos e para os efeitos previstos no n.º 1, podem ainda ser convocados, mediante oferecimento, os cidadãos na reserva de disponibilidade."
+  },
+  "884567441": {
+   "fragment_id": "884567338",
+   "type": 11,
+   "heading": "Artigo 35.º — Não apresentação à incorporação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Não apresentação à incorporação\n\nOs cidadãos que não se apresentem à incorporação na unidade ou estabelecimento militar para que forem convocados, sem que justifiquem a falta no prazo de 30 dias, são notados refractários."
+  },
+  "884567442": {
+   "fragment_id": "884567339",
+   "type": 11,
+   "heading": "Artigo 36.º — Serviço efectivo por mobilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Serviço efectivo por mobilização\n\nOs cidadãos nas situações de reserva de recrutamento e de disponibilidade podem ser mobilizados para prestarem serviço militar efectivo nas Forças Armadas em casos de excepção ou de guerra, nos termos previstos em lei da Assembleia da República."
+  },
+  "884567443": {
+   "fragment_id": "884567340",
+   "type": 1,
+   "heading": "Capítulo IV — Direitos e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Direitos e garantias"
+  },
+  "884567444": {
+   "fragment_id": "884567341",
+   "type": 8,
+   "heading": "Secção I — Dispensa e isenção do cumprimento de deveres militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dispensa e isenção do cumprimento de deveres militares"
+  },
+  "884567445": {
+   "fragment_id": "884567342",
+   "type": 11,
+   "heading": "Artigo 37.º — Dispensa de comparência ao Dia da Defesa Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Dispensa de comparência ao Dia da Defesa Nacional\n\nOs cidadãos referidos no n.º 4 do artigo 11.º que padeçam de doença prolongada comprovada pela autoridade pública competente ou que residam legalmente no estrangeiro com carácter permanente e contínuo não estão sujeitos ao dever de comparência ao Dia da Defesa Nacional."
+  },
+  "884567446": {
+   "fragment_id": "884567343",
+   "type": 11,
+   "heading": "Artigo 38.º — Dispensa de deveres militares na reserva de recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Dispensa de deveres militares na reserva de recrutamento\n\n1 - Os cidadãos na situação de reserva de recrutamento, convocados ao abrigo dos n.os 1 a 3 do artigo 34.º, podem ser dispensados do cumprimento dos deveres militares, nos termos previstos no presente artigo.\n\n2 - Constitui motivo de adiamento das provas de classificação e selecção:\n\na) Possuir habilitação para candidatura ao ensino superior até ao ano em que os cidadãos completem 20 anos de idade ou frequentar estabelecimento de ensino superior ou equiparado, com aproveitamento, no País ou no estrangeiro;\n\nb) Encontrar-se em regime de aprendizagem ou a frequentar curso de formação ou estágio profissional.\n\n3 - Constitui motivo de dispensa das provas de classificação e selecção:\n\na) Ter residência legal no estrangeiro com carácter permanente e contínuo;\n\nb) Ter adquirido nacionalidade portuguesa durante ou após o ano em que tiver completado 18 anos de idade;\n\nc) Ser cidadão português originário, ainda que com outra nacionalidade, desde que se mostre comprovado o cumprimento de idêntico serviço no estrangeiro;\n\nd) Ser aluno de estabelecimento de formação eclesiástica, membro de instituto religioso e ministro de qualquer religião legalmente reconhecida;\n\ne) Pertencer ou ter pertencido a força de segurança, por período equivalente ao previsto para o serviço efectivo a que alude o presente artigo;\n\nf) Ser ou ter sido bombeiro, por período equivalente ao previsto para o serviço efectivo a que alude o artigo 34.º;\n\ng) Ter a seu exclusivo cargo filhos ou enteados menores de 10 anos.\n\n4 - Constitui motivo de dispensa de incorporação ter um irmão simultaneamente incorporado em virtude da convocação a que alude o presente artigo.\n\n5 - Constitui motivo de dispensa das provas de classificação e selecção, bem como da incorporação:\n\na) Invocação de qualidade cujo estatuto legal o determine;\n\nb) Ser filho ou irmão de militar falecido em campanha ou de cidadão qualificado deficiente das Forças Armadas com uma percentagem de incapacidade igual ou superior a 60%, em condições a regulamentar;\n\nc) Encontrar-se a cumprir pena ou sujeito a medida de coacção que, pela sua natureza, seja incompatível com o serviço nas fileiras;\n\nd) Doença prolongada comprovada pela autoridade pública competente."
+  },
+  "884567447": {
+   "fragment_id": "884567344",
+   "type": 11,
+   "heading": "Artigo 39.º — Dispensa de deveres militares na situação de reserva de disponibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Dispensa de deveres militares na situação de reserva de disponibilidade\n\n1 - Os cidadãos na situação de reserva de disponibilidade podem ser dispensados, a seu pedido, da prestação de serviço efectivo por convocação, para além dos casos previstos em diplomas próprios, nas situações em que exerçam funções legalmente consideradas indispensáveis ao funcionamento de serviços públicos essenciais ou actividades privadas imprescindíveis à vida do País ou às necessidades das Forças Armadas.\n\n2 - Do indeferimento do pedido pelo órgão central de recrutamento cabe recurso para o Ministro da Defesa Nacional, a interpor no prazo de 5 dias, devendo o mesmo ser decidido no prazo de 10 dias."
+  },
+  "884567448": {
+   "fragment_id": "884567345",
+   "type": 11,
+   "heading": "Artigo 40.º — Isenção de deveres militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Isenção de deveres militares\n\nPara os cidadãos sujeitos por lei à prestação do serviço militar constitui motivo de isenção do cumprimento de deveres militares serem reconhecidos como objectores de consciência, nos termos da respectiva legislação."
+  },
+  "884567449": {
+   "fragment_id": "884567346",
+   "type": 11,
+   "heading": "Artigo 41.º — Amparos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Amparos\n\n1 - São amparo de família os cidadãos que tenham a seu exclusivo cargo cônjuge, ascendente, descendente, irmão ou sobrinho incapacitados, ou com menos de 18 anos de idade, desde que não emancipados, ou ainda pessoa que os tenha criado e educado, e que comprovadamente não tenham meios de prover à sua manutenção.\n\n2 - Os cidadãos com direito à qualificação de amparo apenas podem ser convocados no caso previsto na alínea b) do n.º 6 do artigo 34.º\n\n3 - Os cidadãos nas condições previstas no n.º 1 cuja prestação de serviço efectivo seja considerada indispensável têm direito a um subsídio, a conceder pelo Estado, de valor não inferior ao salário mínimo nacional."
+  },
+  "884567450": {
+   "fragment_id": "884567347",
+   "type": 11,
+   "heading": "Artigo 42.º — Processo de concessão do amparo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Processo de concessão do amparo\n\n1 - Os cidadãos requerem a qualificação de amparo ao dirigente do órgão central de recrutamento, o qual decide, fundamentadamente, no prazo de 45 dias após recepção do requerimento.\n\n2 - Em caso de indeferimento do pedido, cabe recurso para o Ministro da Defesa Nacional, a interpor no prazo de 10 dias, devendo o mesmo ser decidido em igual prazo."
+  },
+  "884567451": {
+   "fragment_id": "884567348",
+   "type": 8,
+   "heading": "Secção II — Direitos e garantias complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direitos e garantias complementares"
+  },
+  "884567452": {
+   "fragment_id": "884567349",
+   "type": 11,
+   "heading": "Artigo 43.º — Assistência na doença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Assistência na doença\n\n1 - O militar a prestar serviço efectivo, bem como os familiares a seu cargo, gozam das modalidades de assistência médica e medicamentosa em vigor nas Forças Armadas.\n\n2 - O Estado reconhece aos cidadãos o direito à plena reparação dos efeitos de doenças contraídas ou agravadas em função da prestação de serviço militar efectivo."
+  },
+  "884567453": {
+   "fragment_id": "884567350",
+   "type": 11,
+   "heading": "Artigo 44.º — Acidentes em serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Acidentes em serviço\n\n1 - Os militares possuidores de qualquer grau de incapacidade resultante de acidente durante o serviço ou com ele relacionado beneficiam de direitos e regalias nos termos de legislação própria.\n\n2 - Os acidentes sofridos pelos cidadãos, como consequência da prestação de quaisquer provas inseridas no âmbito das operações de recrutamento militar, são considerados como ocorridos em serviço.\n\n3 - Os cidadãos a que se refere o número anterior, quando possuidores de qualquer grau de incapacidade resultante de acidente ou doença relacionados com o serviço, beneficiam dos direitos e regalias previstos em legislação própria, não podendo, contudo, em caso algum, ser inferiores aos aplicáveis para a actividade e funções que desempenhavam à altura da incorporação."
+  },
+  "884567454": {
+   "fragment_id": "884567351",
+   "type": 11,
+   "heading": "Artigo 45.º — Garantias materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Garantias materiais\n\n1 - Os cidadãos convocados nos termos do artigo 34.º têm direito a alojamento, alimentação, transporte e fardamentos gratuitos.\n\n2 - Aos cidadãos voluntários para prestação de serviço efectivo é igualmente garantido, durante o processo de recrutamento e exclusivamente para este efeito, o direito ao alojamento, alimentação e transporte."
+  },
+  "884567455": {
+   "fragment_id": "884567352",
+   "type": 11,
+   "heading": "Artigo 46.º — Garantias face ao cumprimento de deveres militares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Garantias face ao cumprimento de deveres militares\n\n1 - Nenhum cidadão pode ser prejudicado na sua colocação, nos seus benefícios sociais ou no seu emprego em virtude do cumprimento dos deveres militares estabelecidos na presente lei.\n\n2 - Todo o tempo de serviço militar efectivo nas Forças Armadas prestado ao abrigo das situações previstas no artigo 34.º, é contado para efeitos de promoção, aposentação ou reforma e não prejudica outras regalias conferidas por estatutos profissionais ou resultantes de contrato de trabalho.\n\n3 - Os funcionários dos serviços e organismos da administração central, local e regional autónoma, incluindo os institutos públicos nas modalidades de serviços personalizados do Estado e de fundos públicos, impedidos de prestar provas ou comparecer a entrevistas em concursos de acesso ou de ingresso noutras carreiras, por se encontrarem a prestar serviço ao abrigo das situações previstas no artigo 34.º, têm direito a requerer o adiamento das mesmas, para data a acordar entre o respectivo organismo público e as Forças Armadas."
+  },
+  "884567456": {
+   "fragment_id": "884567353",
+   "type": 11,
+   "heading": "Artigo 47.º — Isenção de emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Isenção de emolumentos\n\nSão isentos de emolumentos os reconhecimentos notariais e demais actos necessários para a organização dos processos para fins militares, incluindo os efectuados pelos estabelecimentos de ensino e serviços públicos."
+  },
+  "884567457": {
+   "fragment_id": "884567354",
+   "type": 1,
+   "heading": "Capítulo V — Incentivos ao regime de contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Incentivos ao regime de contrato"
+  },
+  "884567458": {
+   "fragment_id": "884567355",
+   "type": 11,
+   "heading": "Artigo 48.º — Sistema de incentivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Sistema de incentivos\n\n1 - A prestação de serviço efectivo nos regimes de contrato e de voluntariado deve, de acordo com as necessidades das Forças Armadas, ser incentivada pelo Estado.\n\n2 - As medidas de incentivo devem motivar a assunção voluntária da prestação de serviço efectivo nos regimes de contrato e de voluntariado e promover e apoiar, finda esta prestação, a inserção ou reinserção do cidadão na vida activa civil.\n\n3 - Os incentivos obedecem aos princípios da flexibilidade, diversidade e progressividade no que respeita à sua concessão, tendo em conta a natureza e duração do serviço efectivamente prestado.\n\n4 - O ensino e a formação ministrados nas Forças Armadas, salvaguardadas as inerentes especificidades militares, devem obedecer a sistemas de créditos ou módulos, de modo que os respectivos graus e títulos correspondam aos conferidos nos sistemas educativo e formativo nacionais."
+  },
+  "884567459": {
+   "fragment_id": "884567356",
+   "type": 11,
+   "heading": "Artigo 49.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Regulamentação\n\nOs incentivos à prestação de serviço efectivo nos regimes de contrato e voluntariado é regulado e desenvolvido em diploma próprio."
+  },
+  "884567460": {
+   "fragment_id": "884567357",
+   "type": 11,
+   "heading": "Artigo 50.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Modalidades\n\nOs incentivos à prestação de serviço efectivo nos regimes de contrato e voluntariado podem revestir diversas modalidades, designadamente:\n\na) Apoio para a obtenção de habilitações académicas;\n\nb) Apoio para a formação e certificação profissional;\n\nc) Compensações financeiras e materiais;\n\nd) Apoio à inserção ou reinserção no mercado de trabalho;\n\ne) Apoio social."
+  },
+  "884567461": {
+   "fragment_id": "884567358",
+   "type": 11,
+   "heading": "Artigo 51.º — Apoio para a obtenção de habilitações académicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Apoio para a obtenção de habilitações académicas\n\n1 - O apoio para a obtenção de habilitações académicas compreende, designadamente:\n\na) A aplicação do estatuto do trabalhador-estudante, salvaguardando as especificidades do serviço militar;\n\nb) A frequência, sem prejuízo do serviço, de cursos normais ou intensivos com recurso às novas metodologias de ensino;\n\nc) A contingentação de vagas para ingresso no ensino superior;\n\nd) A fixação de épocas especiais de exames nos diferentes níveis de ensino.\n\n2 - Os cursos, disciplinas e especialidades ministrados nas Forças Armadas são, para todos os efeitos legais, considerados equivalentes aos dos estabelecimentos civis de ensino oficial, ou oficialmente reconhecidos, desde que obedeçam ao previsto no n.º 4 do artigo 48.º"
+  },
+  "884567462": {
+   "fragment_id": "884567359",
+   "type": 11,
+   "heading": "Artigo 52.º — Apoio para a formação e certificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Apoio para a formação e certificação profissional\n\n1 - O apoio para a formação profissional abrange, designadamente:\n\na) A organização e realização de cursos de formação profissional, nomeadamente de reciclagem, aperfeiçoamento e reconversão profissional, até ao nível 3 de qualificação, com incidência na formação em exercício e na formação flexível;\n\nb) A contingentação de vagas para ingresso nos cursos do Instituto do Emprego e Formação Profissional.\n\n2 - A formação ministrada nas Forças Armadas que confira conhecimentos e aptidões habilitantes para o exercício profissional no mercado de trabalho garante o direito à respectiva certificação profissional, desde que obedeça ao previsto no n.º 4 do artigo 48.º"
+  },
+  "884567463": {
+   "fragment_id": "884567360",
+   "type": 11,
+   "heading": "Artigo 53.º — Compensações financeiras e materiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Compensações financeiras e materiais\n\nAs compensações financeiras e materiais abrangem, designadamente:\n\na) Uma remuneração baseada nos níveis retributivos dos correspondentes postos dos militares dos quadros permanentes incluindo os abonos, diferenciais suplementos e subsídios geralmente aplicáveis;\n\nb) A atribuição, no termo do contrato, de uma prestação pecuniária calculada em função do tempo de serviço efectivamente prestado;\n\nc) A atribuição de fardamento, alojamento e alimentação;\n\nd) A concessão de bolsas de estudo, no País e no estrangeiro;\n\ne) A concessão de um subsídio destinado ao pagamento de propinas para frequência dos diversos níveis de ensino."
+  },
+  "884567464": {
+   "fragment_id": "884567361",
+   "type": 11,
+   "heading": "Artigo 54.º — Apoio à inserção e reinserção no mercado de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Apoio à inserção e reinserção no mercado de trabalho\n\nO apoio à inserção e reinserção no mercado de trabalho compreende, designadamente:\n\na) A habilitação a prestações de desemprego nos termos da lei geral, quando por qualquer razão cesse a prestação de serviço;\n\nb) O apoio à criação, no âmbito da iniciativa local, de projectos profissionais próprios e de pequenas empresas familiares;\n\nc) A celebração de protocolos com empresas públicas e privadas para a monitorização dos perfis de formação profissional;\n\nd) A celebração de protocolos com empresas públicas e privadas de forma a proporcionar a formação profissional e a frequência de estágios pelos militares contratados;\n\ne) A concessão às entidades empregadoras dos benefícios previstos para o apoio ao primeiro emprego, pela contratação de cidadãos que tenham cumprido um mínimo de cinco anos de serviço efectivo, durante um período de seis anos, a contar do termo do respectivo contrato;\n\nf) O direito de se candidatarem em todos os serviços e organismos da administração central, local e regional autónoma, incluindo os institutos públicos nas modalidades de serviços personalizados do Estado e de fundos públicos, a concursos internos de ingresso, bem como a concursos internos de acesso geral para preenchimento da primeira categoria intermédia das carreiras, desde que tenham cumprido, em regime de contrato e em funções que se integrem em área funcional da carreira, o tempo de serviço necessário para a promoção naquela categoria;\n\ng) O direito de preferência nos concursos externos abertos nos serviços e organismos referidos na alínea anterior;\n\nh) A preferência através, designadamente, da contingentação de vagas para o ingresso nos quadros de pessoal das Forças Armadas e forças de segurança;\n\ni) O apoio à inserção em organismos internacionais e em actividades de cooperação técnico-militar com os países africanos de língua oficial portuguesa."
+  },
+  "884567465": {
+   "fragment_id": "884567362",
+   "type": 11,
+   "heading": "Artigo 55.º — Apoio social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Apoio social\n\nO apoio social aos militares em regime de contrato e de voluntariado compreende, designadamente:\n\na) A assistência na doença ao militar e respectivo agregado familiar;\n\nb) A contagem do tempo de serviço para efeitos de aposentação ou reforma;\n\nc) O direito aos benefícios previstos na lei em matéria de protecção na eventualidade de encargos familiares do regime geral de segurança social e do regime de protecção social da função pública;\n\nd) O acesso a mecanismos de política de apoio à juventude, designadamente quanto à concessão de crédito bonificado para aquisição de habitação própria;\n\ne) O direito a uma pensão quando prestarem 20 anos de serviço."
+  },
+  "884567466": {
+   "fragment_id": "884567363",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições complementares"
+  },
+  "884567467": {
+   "fragment_id": "884567364",
+   "type": 11,
+   "heading": "Artigo 56.º — Exercício de funções públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Exercício de funções públicas\n\nO cidadão só pode ser investido ou permanecer no exercício de funções em todos os serviços e organismos da administração central, local e regional autónoma, incluindo os institutos públicos nas modalidades de serviços personalizados do Estado e de fundos públicos, se estiver em situação militar regular."
+  },
+  "884567468": {
+   "fragment_id": "884567365",
+   "type": 11,
+   "heading": "Artigo 57.º — Deveres gerais dos cidadãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Deveres gerais dos cidadãos\n\nO cidadão, enquanto sujeito aos deveres militares previstos na presente lei, tem o dever de:\n\na) Comparecer ao recrutamento militar;\n\nb) Comparecer na hora e local designados para o Dia da Defesa Nacional;\n\nc) Comunicar eventuais alterações da residência ao órgão central de recrutamento;\n\nd) Apresentar-se nos dias, horas e locais que sejam determinados pela autoridade competente para o efeito."
+  },
+  "884567469": {
+   "fragment_id": "884567366",
+   "type": 11,
+   "heading": "Artigo 58.º — Contra-ordenações e penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Contra-ordenações e penas\n\n1 - O não cumprimento dos deveres de recenseamento e de comparência no Dia da Defesa Nacional, previstos nos artigos 8.º e 11.º e nas alíneas a) e b) do artigo 57.º desta lei, constitui contra-ordenação punível com coima de montante a fixar no regulamento da presente lei, sem prejuízo da imediata sujeição pelo infractor ao disposto na alínea a) do n.º 5 do artigo 34.º, bem como às restrições para o exercício de funções públicas.\n\n2 - A aplicação e pagamento da coima não dispensa o cidadão da obrigação de cumprimento dos respectivos deveres militares, pela fixação de novo prazo para cumprimento.\n\n3 - O cidadão que faltar ao cumprimento dos deveres de prestação de serviço efectivo decorrente de convocação, previstos no n.º 1 e na alínea a) do n.º 6 do artigo 34.º, é punido com prisão até 3 meses ou multa até 60 dias.\n\n4 - O cidadão que faltar ao cumprimento dos deveres decorrentes da convocação, previstos na alínea b) do n.º 6 do artigo 34.º, é punido com pena de prisão de 6 meses a 3 anos.\n\n5 - Ao cidadão faltoso, compelido ou refractário, quando em tempo de guerra, a sanção aplicável é agravada em um terço nos seus limites mínimo e máximo.\n\n6 - O cidadão que infringir algum dos deveres previstos no artigo 57.º será punido com coima a fixar no regulamento da presente lei, que será agravada para o dobro em tempo de guerra.\n\n7 - O cidadão que, para efeitos de recrutamento, prestar às entidades competentes falsas declarações é punido com prisão até 3 meses ou multa até 60 dias.\n\n8 - O cidadão que, fraudulentamente, praticar acto com o propósito de omitir ou alterar informação contida em ficheiros de dados pessoais referente a qualquer indivíduo sujeito a deveres militares ou que, com o mesmo desígnio, deixar de praticar acto a que juridicamente esteja obrigado é punido com prisão até 6 meses e multa até 80 dias.\n\n9 - O cidadão que, por meio de fraude ou falsidade, se subtrair ou fizer subtrair outrem aos deveres do serviço militar ou conseguir resultado diferente do devido nas provas de classificação e selecção é punido com prisão até 6 meses e multa até 80 dias.\n\n10 - O cidadão que, ilicitamente, aceitar ou usar influência em vista da prossecução dos resultados previstos no número anterior é punido com prisão até 3 meses e multa até 40 dias.\n\n11 - Se aos crimes previstos nos n.os 8, 9 e 10 corresponder, por outra disposição legal, pena mais grave, é esta a aplicável.\n\n12 - São convocados para regressar ao serviço efectivo militar os cidadãos sujeitos a deveres militares, na disponibilidade, que hajam praticado infracção disciplinar ou crime de natureza estritamente militar durante a prestação de serviço efectivo militar, a fim de cumprirem a pena correspondente, quando esta for aplicada após a sua passagem à situação de reserva de disponibilidade.\n\n13 - O cidadão nas condições previstas no número anterior regressa automaticamente ao serviço efectivo militar, com o trânsito em julgado da decisão judicial condenatória que aplique pena de presídio militar, prisão militar ou prisão disciplinar.\n\n14 - Fora dos casos referidos no número anterior, a convocação prevista no n.º 12 é ordenada pelo dirigente máximo do órgão central de recrutamento a que se refere o artigo 12.º da presente lei."
+  },
+  "884567470": {
+   "fragment_id": "884567367",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições transitórias e finais"
+  },
+  "884567471": {
+   "fragment_id": "884567368",
+   "type": 8,
+   "heading": "Secção I — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições transitórias"
+  },
+  "884567472": {
+   "fragment_id": "884567369",
+   "type": 11,
+   "heading": "Artigo 59.º — Prestação de SEN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Prestação de SEN\n\n1 - A obrigação de prestar o serviço efectivo normal - SEN - é gradualmente eliminada num prazo que não pode exceder quatro anos, contado a partir da data da entrada em vigor da presente lei.\n\n2 - Para os efeitos previstos no número anterior, os quantitativos dos militares em SEN são anualmente fixados por portaria do Ministro da Defesa Nacional, ouvido o Conselho de Chefes de Estado-Maior."
+  },
+  "884567473": {
+   "fragment_id": "884567370",
+   "type": 11,
+   "heading": "Artigo 60.º — Regulamentação do regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Regulamentação do regime transitório\n\n1 - Em sede regulamentar própria é fixado o regime transitório, designadamente quanto às seguintes matérias:\n\na) Operações materiais de recrutamento de pessoal para prestação de serviço efectivo e exercício das respectivas competências;\n\nb) Reservas de pessoal constituídas.\n\n2 - A transição dos militares em serviço efectivo normal, em regime de voluntariado e em regime de contrato ao abrigo da Lei n.º 30/87, de 7 de Julho, para o regime estabelecido na presente lei será regulada no diploma a que se refere o n.º 2 do artigo seguinte."
+  },
+  "884567474": {
+   "fragment_id": "884567371",
+   "type": 8,
+   "heading": "Secção II — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições finais"
+  },
+  "884567875": {
+   "fragment_id": "884567372",
+   "type": 11,
+   "heading": "Artigo 61.º — Regulamentação e entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Regulamentação e entrada em vigor\n\n1 - A presente lei entra em vigor na data em que se inicia a vigência do respectivo diploma regulamentar.\n\n2 - O regulamento da presente lei é aprovado por decreto-lei, a ser publicado no prazo máximo de 90 dias."
+  },
+  "884567876": {
+   "fragment_id": "884567373",
+   "type": 11,
+   "heading": "Artigo 62.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Legislação revogada\n\nSem prejuízo do estabelecido no artigo 59.º, ficam revogadas, na data da entrada em vigor da presente lei, as Leis n.os 30/87, de 7 de Julho, 89/88, de 5 de Agosto, 22/91, de 19 de Junho, e 36/95, de 18 de Agosto, os Decretos-Leis n.os 463/88, de 15 de Dezembro, e 143/92, de 20 de Julho, e toda a legislação em contrário."
+  },
+  "884567882": {
+   "fragment_id": "884567305",
+   "type": 11,
+   "heading": "Artigo 8.º — Recenseamento militar",
+   "in_force_from": "2008-05-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535), em vigor a partir de 2008-05-11"
+   ],
+   "markdown": "###### Artigo 8.º — Recenseamento militar\n\n1 - O recenseamento militar tem por finalidade obter a informação de todos os cidadãos que atingem, em cada ano, a idade do início das obrigações militares.\n\n2 - Para efeitos do disposto no número anterior, o Ministério da Defesa Nacional obtém a informação necessária relativa aos cidadãos durante o período em que se encontram sujeitos aos deveres militares previstos na presente lei, bem como outras acções necessárias ao recenseamento militar, em termos a estabelecer no regulamento da presente lei.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535), em vigor a partir de 2008-05-11"
+  },
+  "884567885": {
+   "fragment_id": "884567306",
+   "type": 11,
+   "heading": "Artigo 9.º — Locais de recenseamento militar",
+   "in_force_from": "2008-05-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535), em vigor a partir de 2008-05-11"
+   ],
+   "markdown": "###### Artigo 9.º — Locais de recenseamento militar\n\nOs cidadãos, pessoalmente ou através dos seus representantes legais, apresentam-se ao recenseamento militar nos locais a seguir indicados:\n\na) Câmara municipal da área da residência do cidadão;\n\nb) Posto consular da área da residência, para os cidadãos domiciliados no estrangeiro.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535), em vigor a partir de 2008-05-11"
+  },
+  "884567886": {
+   "fragment_id": "884567307",
+   "type": 11,
+   "heading": "Artigo 10.º — Informação a prestar no acto de apresentação ao recenseamento",
+   "in_force_from": "2008-05-11",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535), em vigor a partir de 2008-05-11"
+   ],
+   "markdown": "###### Artigo 10.º — Informação a prestar no acto de apresentação ao recenseamento\n\nNo acto de apresentação ao recenseamento deve ser entregue ao cidadão informação escrita descrevendo os objectivos do serviço militar e as diferentes possibilidades e oportunidades que se lhe oferecem.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535), em vigor a partir de 2008-05-11"
+  },
+  "884567884": {
+   "fragment_id": "884567365",
+   "type": 11,
+   "heading": "Artigo 57.º — Deveres gerais dos cidadãos",
+   "in_force_from": "2008-05-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535), em vigor a partir de 2008-05-11"
+   ],
+   "markdown": "###### Artigo 57.º — Deveres gerais dos cidadãos\n\nO cidadão, enquanto sujeito aos deveres militares previstos na presente lei, tem o dever de:\n\na) (Revogado);\n\nb) Comparecer na hora e local designados para o Dia da Defesa Nacional;\n\nc) Comunicar eventuais alterações da residência ao órgão central de recrutamento;\n\nd) Apresentar-se nos dias, horas e locais que sejam determinados pela autoridade competente para o efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 1/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535), em vigor a partir de 2008-05-11"
+  },
+  "884567883": {
+   "fragment_id": "884567366",
+   "type": 11,
+   "heading": "Artigo 58.º — Contra-ordenações e penas",
+   "in_force_from": "2008-05-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535), em vigor a partir de 2008-05-11"
+   ],
+   "markdown": "###### Artigo 58.º — Contra-ordenações e penas\n\n1 - O não cumprimento do dever de comparência ao Dia da Defesa Nacional, previsto no artigo 11.º e na alínea b) do artigo 57.º da presente lei, constitui contra-ordenação punível com coima de montante a fixar no regulamento da presente lei, sem prejuízo da imediata sujeição pelo infractor ao disposto na alínea a) do n.º 5 do artigo 34.º, bem como às restrições para o exercício de funções públicas.\n\n2 - A aplicação e pagamento da coima não dispensa o cidadão da obrigação de cumprimento dos respectivos deveres militares, pela fixação de novo prazo para cumprimento.\n\n3 - O cidadão que faltar ao cumprimento dos deveres de prestação de serviço efectivo decorrente de convocação, previstos no n.º 1 e na alínea a) do n.º 6 do artigo 34.º, é punido com prisão até 3 meses ou multa até 60 dias.\n\n4 - O cidadão que faltar ao cumprimento dos deveres decorrentes da convocação, previstos na alínea b) do n.º 6 do artigo 34.º, é punido com pena de prisão de 6 meses a 3 anos.\n\n5 - Ao cidadão faltoso, compelido ou refractário, quando em tempo de guerra, a sanção aplicável é agravada em um terço nos seus limites mínimo e máximo.\n\n6 - O cidadão que infringir algum dos deveres previstos no artigo 57.º será punido com coima a fixar no regulamento da presente lei, que será agravada para o dobro em tempo de guerra.\n\n7 - O cidadão que, para efeitos de recrutamento, prestar às entidades competentes falsas declarações é punido com prisão até 3 meses ou multa até 60 dias.\n\n8 - O cidadão que, fraudulentamente, praticar acto com o propósito de omitir ou alterar informação contida em ficheiros de dados pessoais referente a qualquer indivíduo sujeito a deveres militares ou que, com o mesmo desígnio, deixar de praticar acto a que juridicamente esteja obrigado é punido com prisão até 6 meses e multa até 80 dias.\n\n9 - O cidadão que, por meio de fraude ou falsidade, se subtrair ou fizer subtrair outrem aos deveres do serviço militar ou conseguir resultado diferente do devido nas provas de classificação e selecção é punido com prisão até 6 meses e multa até 80 dias.\n\n10 - O cidadão que, ilicitamente, aceitar ou usar influência em vista da prossecução dos resultados previstos no número anterior é punido com prisão até 3 meses e multa até 40 dias.\n\n11 - Se aos crimes previstos nos n.os 8, 9 e 10 corresponder, por outra disposição legal, pena mais grave, é esta a aplicável.\n\n12 - São convocados para regressar ao serviço efectivo militar os cidadãos sujeitos a deveres militares, na disponibilidade, que hajam praticado infracção disciplinar ou crime de natureza estritamente militar durante a prestação de serviço efectivo militar, a fim de cumprirem a pena correspondente, quando esta for aplicada após a sua passagem à situação de reserva de disponibilidade.\n\n13 - O cidadão nas condições previstas no número anterior regressa automaticamente ao serviço efectivo militar, com o trânsito em julgado da decisão judicial condenatória que aplique pena de presídio militar, prisão militar ou prisão disciplinar.\n\n14 - Fora dos casos referidos no número anterior, a convocação prevista no n.º 12 é ordenada pelo dirigente máximo do órgão central de recrutamento a que se refere o artigo 12.º da presente lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei Orgânica n.º 1/2008 - Diário da República n.º 87/2008, Série I de 2008-05-06](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2008-249535), em vigor a partir de 2008-05-11"
+  },
+  "884567877": {
+   "fragment_id": "884567374",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 1 de Julho de 1999.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 2 de Setembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 9 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

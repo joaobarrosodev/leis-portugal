@@ -1,0 +1,409 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66384005:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-130024103",
+ "dre_path": "/dr/detalhe/portaria/18-2015-66384005",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-02-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "130060475",
+    "130060476",
+    "130060477",
+    "130060478",
+    "130060479",
+    "130060480",
+    "130060481",
+    "130060482",
+    "130060483",
+    "130060484",
+    "130060485",
+    "130060486",
+    "130060487",
+    "130060488",
+    "130060489",
+    "130060490",
+    "130060491",
+    "130060492",
+    "130060493",
+    "130060494",
+    "130060495"
+   ]
+  },
+  {
+   "date": "2016-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74738651:por",
+     "title": "Portaria n.º 172/2016",
+     "published": "2016-06-20",
+     "dre_path": "/dr/detalhe/portaria/172-2016-74738651"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "130060475",
+    "130060476",
+    "130060477",
+    "130060478",
+    "130060479",
+    "130060480",
+    "130060481",
+    "130060482",
+    "130060483",
+    "130060484",
+    "130060485",
+    "872431035",
+    "130060487",
+    "130060488",
+    "130060489",
+    "130060490",
+    "130060491",
+    "130060492",
+    "130060493",
+    "130060494",
+    "130060495",
+    "130060496"
+   ]
+  },
+  {
+   "date": "2018-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114682828:por",
+     "title": "Portaria n.º 46/2018",
+     "published": "2018-02-12",
+     "dre_path": "/dr/detalhe/portaria/46-2018-114682828"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "130060475",
+    "130060476",
+    "130060477",
+    "130060478",
+    "130063265",
+    "130060480",
+    "130060481",
+    "130060482",
+    "130060483",
+    "130060484",
+    "130060485",
+    "872431035",
+    "130060487",
+    "130060488",
+    "130060489",
+    "130060490",
+    "130060491",
+    "130060492",
+    "130060493",
+    "130060494",
+    "130060495",
+    "130060496"
+   ]
+  },
+  {
+   "date": "2021-10-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172481666:por",
+     "title": "Portaria n.º 204/2021",
+     "published": "2021-10-07",
+     "dre_path": "/dr/detalhe/portaria/204-2021-172481666"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "130060475",
+    "130060476",
+    "130060477",
+    "130060478",
+    "172505219",
+    "130060480",
+    "130060481",
+    "130060482",
+    "172505220",
+    "130060484",
+    "130060485",
+    "172505221",
+    "130060487",
+    "130063269",
+    "130060489",
+    "130060490",
+    "130060491",
+    "130060492",
+    "172505222",
+    "130060494",
+    "130060495",
+    "130060496"
+   ]
+  }
+ ],
+ "fragments": {
+  "130060475": {
+   "fragment_id": "130024104",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 18/2015\n\nde 2 de fevereiro\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nO PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.\n\nNa arquitetura do PDR 2020, a área relativa à «Gestão do risco e restabelecimento do potencial produtivo» corresponde a uma visão da estratégia nacional que assume, no âmbito da atividade agrícola, a necessidade de gestão do risco como garantia da proteção do rendimento dos agricultores.\n\nNeste contexto, o seguro agrícola é o instrumento que melhor permite garantir alguma previsibilidade, estabilidade e sustentabilidade financeira às explorações agrícolas.\n\nDe forma a permitir uma maior abrangência deste instrumento de gestão, optou-se por conceder apoio aos seguros de colheita, desde já previstos na Portaria n.º 65/2014, de 12 de maio, bem como prever o apoio a seguros para doenças dos animais ou das plantas, de uma praga ou de um acidente ambiental, quando existam condições para os regulamentar.\n\nTendo em consideração que a Portaria n.º 65/2014, de 12 de maio, vem já prever as exigências do Regulamento (UE) n.º 1305/2013, de Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no que respeita aos beneficiários, despesas elegíveis e não elegíveis, e montantes máximos do apoio, optou-se por abranger nos efeitos desta portaria os seguros agrícolas celebrados durante o ano de 2014.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "130060476": {
+   "fragment_id": "130024105",
+   "type": 1,
+   "heading": "Capítulo I — Disposições Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições Gerais"
+  },
+  "130060477": {
+   "fragment_id": "130024106",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação da ação 6.1, «Seguros», da medida 6 «Gestão do Risco e Restabelecimento do Potencial Produtivo» do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "130060478": {
+   "fragment_id": "130024107",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos na presente portaria pretendem garantir previsibilidade e estabilidade financeira às explorações agrícolas, através da redução do risco proveniente da ocorrência de condições climáticas adversas."
+  },
+  "130060479": {
+   "fragment_id": "130024108",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Agricultor ativo», a pessoa singular ou coletiva, de natureza pública ou privada, que exerça atividade agrícola e que receba um montante de pagamentos diretos não superior a 5.000 (euro) ou que, recebendo mais de 5.000 (euro), não exerça as atividades previstas no n.º 2 do artigo 9.º do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nb) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;\n\nc) «Acontecimento climático adverso», condições climáticas que podem ser equiparadas a catástrofes naturais, como a geada, as tempestades, o granizo, o gelo, chuvas fortes ou secas graves, que destruam mais de 30% da produção anual média de um dado agricultor, calculados com base no período anterior de três anos, ou da sua produção média trienal baseada no período anterior de cinco anos, com exclusão dos valores mais alto e mais baixo;\n\nd) «Acidente ambiental», uma ocorrência específica de poluição, contaminação ou degradação da qualidade do ambiente, que está relacionada com um acontecimento específico e de âmbito geográfico limitado, não abrangendo os riscos ambientais gerais não relacionados com um acontecimento específico, como as alterações climáticas ou a poluição atmosférica;\n\ne) «Contrato de seguro coletivo», o contrato de seguro celebrado por uma pessoa coletiva, que agindo no interesse direto de um grupo mínimo de cinco agricultores, os representa;\n\nf) «Contrato de seguro individual», o contrato subscrito diretamente pelo agricultor que tenha interesse legítimo sobre a produção segura;\n\ng) «Doenças dos animais», doenças mencionadas na lista de doenças dos animais estabelecida pela Organização Mundial da Saúde Animal ou no Anexo da Decisão 2009/470/CE do Conselho, de 25 de maio de 2009;\n\nh) «Empresa de seguros», entidade legalmente autorizada a explorar o ramo não vida, nos termos do n.º 9 do artigo 123.º do Decreto-Lei n.º 94-B/98, de 17 de abril, com a última redação dada pela Lei n.º 46/2011, de 24 de junho, e que subscreve, com o tomador do seguro, o contrato;\n\ni) «Exploração agrícola», o conjunto de parcelas ou animais utilizadas para o exercício de atividades agrícolas, submetidas a uma gestão única;\n\nj) «Tomador do seguro», pessoa coletiva que celebra o contrato de seguro coletivo ou o agricultor que celebra o contrato individual com a empresa de seguros, sendo responsável pelo pagamento do prémio;\n\nk) «Unidade de produção», o conjunto de parcelas agrícolas ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum de mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização.\n\n> Nota: [Artigo 3.º, Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2021."
+  },
+  "130060480": {
+   "fragment_id": "130024109",
+   "type": 1,
+   "heading": "Capítulo II — Ação 6.1 «Seguros»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Ação 6.1 «Seguros»"
+  },
+  "130060481": {
+   "fragment_id": "130024110",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\n1 - Podem beneficiar do apoio previsto na presente portaria as pessoas singulares ou coletivas, de natureza pública ou privada, que sejam agricultores ativos e que contratem um seguro ao abrigo da Portaria n.º 65/2014, de 12 de março.\n\n2 - No caso dos seguros coletivos, podem ainda ser tomadores, em representação dos agricultores previstos no número anterior, as seguintes pessoas coletivas:\n\na) Agrupamentos de produtores e as organizações ou associações de organizações de produtores reconhecidas;\n\nb) Cooperativas agrícolas;\n\nc) Sociedades comerciais que efetuem a transformação ou comercialização da produção segura;\n\nd) Associações de agricultores, cujos associados diretos sejam agricultores."
+  },
+  "130060482": {
+   "fragment_id": "130024111",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade dos beneficiários\n\nPodem beneficiar do apoio previsto na presente portaria, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, os agricultores ativos que sejam titulares de exploração agrícola e efetuem o respetivo registo no Sistema de Identificação Parcelar (SIP)."
+  },
+  "130060483": {
+   "fragment_id": "130024112",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis e não elegíveis\n\n1 - São elegíveis as despesas incorridas no pagamento dos prémios dos contratos de seguro celebrados ao abrigo da Portaria n.º 65/2014, de 12 de março, que reúnam as seguintes condições:\n\na) Tenham por objeto a cobertura de perdas resultantes de um acontecimento climático adverso, de uma doença dos animais ou das plantas, de uma praga ou de um acidente ambiental, como tal reconhecido oficialmente, ou de uma medida adotada em conformidade com a Diretiva 2000/29/CE, do Conselho, de 8 de maio, para erradicar ou circunscrever uma doença das plantas ou praga;\n\nb) Prevejam um prejuízo mínimo indemnizável superior a 30% da respetiva produção anual média do agricultor nos três anos anteriores ou da sua produção média em três dos cinco anos anteriores, excluindo o valor mais alto e o valor mais baixo;\n\nc) Incluam todas as parcelas de cada cultura segura de que o candidato seja titular, desde que inseridas na mesma unidade de produção.\n\n2 - Não são elegíveis os prémios de contrato de seguro que se destinem:\n\na) A abranger o mesmo objeto seguro, por igual período temporal, por instrumentos contratados ao abrigo da regulamentação da OCM única do regime de apoio aos programas operacionais (PO) de Organizações de Produtores (OP) do setor hortofrutícola ou ao abrigo de outros instrumentos com financiamento público nacional ou comunitário;\n\nb) Ao setor de uva de vinho, abrangido pela Portaria n.º 42/2012, de 10 de fevereiro, alterada pelas Portarias n.os 195/2013, de 28 de maio e 52/2014, de 28 de fevereiro.\n\n3 - Não são elegíveis os encargos fiscais, parafiscais e custos da apólice.\n\n> Nota: [Artigo 3.º, Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2021."
+  },
+  "130060484": {
+   "fragment_id": "130024113",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações dos beneficiários\n\n1 - Os beneficiários do apoio previsto na presente portaria são obrigados, nos termos do n.º 2 do artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, a:\n\na) Manter, durante o período previsto no contrato de seguro, a titularidade das parcelas registadas no SIP nas quais estão inseridas as culturas objeto de seguro;\n\nb) Manter a apólice de seguro durante o período previsto no contrato.\n\n2 - Os tomadores previstos no n.º 2 do artigo 4.º são ainda obrigados a:\n\na) Possuir autorização do agricultor para a celebração do contrato de seguro;\n\nb) Responder solidariamente com o segurado pelo reembolso dos pagamentos indevidos."
+  },
+  "130060485": {
+   "fragment_id": "130024114",
+   "type": 11,
+   "heading": "Artigo 8.º — Forma do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Forma do apoio\n\nO apoio previsto na presente portaria assume a forma de subvenção não reembolsável."
+  },
+  "130060486": {
+   "fragment_id": "130024115",
+   "type": 11,
+   "heading": "Artigo 9.º — Montantes e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Montantes e limites do apoio\n\n1 - Os níveis de apoio a conceder são os seguintes:\n\na) 65% do prémio para contratos de seguro coletivo, para contratos de seguros individuais de beneficiários que tenham aderido a um seguro agrícola no ano anterior, bem como para os contratos de seguro subscritos por jovens agricultores em primeira instalação no âmbito do PDR 2020;\n\nb) 62% do prémio para os contratos de seguro individuais quando o segurado não tenha aderido a um seguro agrícola no ano anterior.\n\n2 - O apoio previsto na presente portaria encontra-se limitado a um contrato de seguro por parcela e por cultura.\n\n> Nota: [Artigo 3.º, Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2021.\n\n> Nota: [Artigo 3.º, Portaria n.º 63/2020 - Diário da República n.º 48/2020, Série I de 2020-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/63-2020-130008907) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2020."
+  },
+  "130060487": {
+   "fragment_id": "130024116",
+   "type": 1,
+   "heading": "Capítulo III — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimentos"
+  },
+  "130060488": {
+   "fragment_id": "130024117",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas em contínuo, durante o ano civil ao qual a apólice diz respeito, de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, e no portal do IFAP, I.P., em www.ifap.pt.\n\n2 - A apresentação das candidaturas efetua-se através de formulário eletrónico disponível no portal do Portugal 2020, ou do IFAP, I.P., em www.ifap.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pelo IFAP, I.P., considerando-se a data de submissão como a data de apresentação da candidatura.\n\n> Nota: [Artigo 3.º, Portaria n.º 63/2020 - Diário da República n.º 48/2020, Série I de 2020-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/63-2020-130008907) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2020."
+  },
+  "130060489": {
+   "fragment_id": "130024118",
+   "type": 11,
+   "heading": "Artigo 11.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Análise e decisão das candidaturas\n\n1 - O IFAP., I.P., analisa e decide as candidaturas, no prazo máximo de 45 dias úteis, de acordo com os critérios de elegibilidade previstos na presente portaria e com a dotação orçamental deste regime de apoio.\n\n2 - A decisão é comunicada pelo IFAP, I.P., às empresas de seguros e aos tomadores, no prazo máximo de cinco dias úteis a contar da data da decisão, na área reservada do respetivo portal, em www.ifap.pt.\n\n3 - O termo de aceitação é autenticado com a submissão da candidatura."
+  },
+  "130060490": {
+   "fragment_id": "130024119",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação do pedido de pagamento relativamente às candidaturas aprovadas, é efetuada pela empresa de seguros que tenha celebrado contrato de seguro com os tomadores previstos no artigo 4.º da presente portaria, e mediante apresentação de comprovativo da despesa, através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.pt-2020.pt, e no portal do IFAP, I.P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Apenas são aceites pedidos de pagamento relativos a contratos de seguro celebrados com os beneficiários referidos no artigo 4.º da presente portaria, aos quais tenha sido efetuado o desconto no prémio de seguro do valor correspondente ao apoio estabelecido no artigo 9.º.\n\n3 - O prazo para apresentação dos pedidos de pagamento é divulgado pelo IFAP, I.P., no respetivo portal, em www.ifap.pt."
+  },
+  "130060491": {
+   "fragment_id": "130024120",
+   "type": 11,
+   "heading": "Artigo 13.º — Análise do pedido de pagamento e pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Análise do pedido de pagamento e pagamento\n\nO IFAP, I.P., analisa o pedido de pagamento, e efetua o respetivo pagamento por transferência bancária, para o número de identificação bancária indicado pela empresa de seguros, no prazo máximo de 45 dias úteis a contar da data de apresentação do pedido de pagamento."
+  },
+  "130060492": {
+   "fragment_id": "130024121",
+   "type": 11,
+   "heading": "Artigo 14.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Controlo\n\nAs candidaturas e os pedidos de pagamento estão sujeitos a controlos administrativos e in loco, nos termos do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, bem como do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014 e do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014."
+  },
+  "130060493": {
+   "fragment_id": "130024122",
+   "type": 11,
+   "heading": "Artigo 15.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reduções e exclusões\n\n1 - Sem prejuízo do disposto no artigo 65.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013 e do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, são aplicáveis as reduções previstas nos números seguintes.\n\n2 - É determinada a devolução total do apoio, pelo beneficiário, nos seguintes casos:\n\na) Incumprimento dos critérios de elegibilidade;\n\nb) Não manutenção da apólice de seguro durante o período previsto no respetivo contrato.\n\n3 - O incumprimento da obrigação prevista na alínea a) do n.º 1 do artigo 7.º determina a redução proporcional do montante de apoio relativo à parcela em causa, calculada pela aplicação do dobro do quociente entre a área das parcelas declaradas e as verificadas, aplicável no ano em que se verificou o incumprimento.\n\n> Nota: [Artigo 3.º, Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2021."
+  },
+  "130060494": {
+   "fragment_id": "130024123",
+   "type": 1,
+   "heading": "Capítulo IV — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposição final"
+  },
+  "130060495": {
+   "fragment_id": "130024124",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas durante o ano de 2014, ao abrigo do Regulamento do Seguro de Colheitas aprovado pela Portaria n.º 65/2014, de 12 de março."
+  },
+  "872431035": {
+   "fragment_id": "130024115",
+   "type": 11,
+   "heading": "Artigo 9.º — Montantes e limites do apoio",
+   "in_force_from": "2016-06-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/172-2016-74738651), em vigor a partir de 2016-06-21"
+   ],
+   "markdown": "###### Artigo 9.º — Montantes e limites do apoio\n\n1 - Os níveis de apoio a conceder são os seguintes:\n\na) 60 % do prémio para contratos de seguro coletivo, para contratos de seguros individuais de beneficiários que tenham aderido a um seguro agrícola no ano anterior, bem como para os contratos de seguro subscritos por jovens agricultores em primeira instalação no âmbito do PDR 2020;\n\nb) 57 % do prémio para os contratos de seguro individuais quando o segurado não tenha aderido a um seguro agrícola no ano anterior.\n\n2 - O apoio previsto na presente portaria encontra-se limitado a um contrato de seguro por parcela e por cultura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/172-2016-74738651), em vigor a partir de 2016-06-21"
+  },
+  "130060496": {
+   "fragment_id": "130024125",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 28 de janeiro de 2015."
+  },
+  "130063265": {
+   "fragment_id": "130024108",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2018-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) 'Agricultor ativo', a pessoa singular ou coletiva, de natureza pública ou privada, que exerça atividade agrícola, não sendo aplicáveis as disposições previstas nos n.os 2, 3 e 3-A do artigo 9.º do Regulamento (UE) n.º 1307/2013, na redação dada pelo Regulamento (UE) 2017/2393, do Parlamento e do Conselho, de 13 de dezembro de 2017.\n\nb) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;\n\nc) «Acontecimento climático adverso», condições climáticas que podem ser equiparadas a catástrofes naturais, como a geada, as tempestades, o granizo, o gelo, chuvas fortes ou secas graves, que destruam mais de 30% da produção anual média de um dado agricultor, calculados com base no período anterior de três anos, ou da sua produção média trienal baseada no período anterior de cinco anos, com exclusão dos valores mais alto e mais baixo;\n\nd) «Acidente ambiental», uma ocorrência específica de poluição, contaminação ou degradação da qualidade do ambiente, que está relacionada com um acontecimento específico e de âmbito geográfico limitado, não abrangendo os riscos ambientais gerais não relacionados com um acontecimento específico, como as alterações climáticas ou a poluição atmosférica;\n\ne) «Contrato de seguro coletivo», o contrato de seguro celebrado por uma pessoa coletiva, que agindo no interesse direto de um grupo mínimo de cinco agricultores, os representa;\n\nf) «Contrato de seguro individual», o contrato subscrito diretamente pelo agricultor que tenha interesse legítimo sobre a produção segura;\n\ng) «Doenças dos animais», doenças mencionadas na lista de doenças dos animais estabelecida pela Organização Mundial da Saúde Animal ou no Anexo da Decisão 2009/470/CE do Conselho, de 25 de maio de 2009;\n\nh) «Empresa de seguros», entidade legalmente autorizada a explorar o ramo não vida, nos termos do n.º 9 do artigo 123.º do Decreto-Lei n.º 94-B/98, de 17 de abril, com a última redação dada pela Lei n.º 46/2011, de 24 de junho, e que subscreve, com o tomador do seguro, o contrato;\n\ni) «Exploração agrícola», o conjunto de parcelas ou animais utilizadas para o exercício de atividades agrícolas, submetidas a uma gestão única;\n\nj) «Tomador do seguro», pessoa coletiva que celebra o contrato de seguro coletivo ou o agricultor que celebra o contrato individual com a empresa de seguros, sendo responsável pelo pagamento do prémio;\n\nk) «Unidade de produção», o conjunto de parcelas agrícolas ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum de mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "172505219": {
+   "fragment_id": "130024108",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2021-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666), em vigor a partir de 2021-10-08",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) 'Agricultor ativo', a pessoa singular ou coletiva, de natureza pública ou privada, que exerça atividade agrícola, não sendo aplicáveis as disposições previstas nos n.os 2, 3 e 3-A do artigo 9.º do Regulamento (UE) n.º 1307/2013, na redação dada pelo Regulamento (UE) 2017/2393, do Parlamento e do Conselho, de 13 de dezembro de 2017.\n\nb) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;\n\nc) «Acontecimento climático adverso», condições climáticas que podem ser equiparadas a catástrofes naturais, como a geada, as tempestades, o granizo, o gelo, chuvas fortes ou secas graves;\n\nd) «Acidente ambiental», uma ocorrência específica de poluição, contaminação ou degradação da qualidade do ambiente, que está relacionada com um acontecimento específico e de âmbito geográfico limitado, não abrangendo os riscos ambientais gerais não relacionados com um acontecimento específico, como as alterações climáticas ou a poluição atmosférica;\n\ne) «Contrato de seguro coletivo», o contrato de seguro celebrado por uma pessoa coletiva, que agindo no interesse direto de um grupo mínimo de cinco agricultores, os representa;\n\nf) «Contrato de seguro individual», o contrato subscrito diretamente pelo agricultor que tenha interesse legítimo sobre a produção segura;\n\ng) «Doenças dos animais», doenças mencionadas na lista de doenças dos animais estabelecida pela Organização Mundial da Saúde Animal ou no Anexo da Decisão 2009/470/CE do Conselho, de 25 de maio de 2009;\n\nh) «Empresa de seguros», entidade legalmente autorizada a explorar o ramo não vida, nos termos do n.º 9 do artigo 123.º do Decreto-Lei n.º 94-B/98, de 17 de abril, com a última redação dada pela Lei n.º 46/2011, de 24 de junho, e que subscreve, com o tomador do seguro, o contrato;\n\ni) «Exploração agrícola», o conjunto de parcelas ou animais utilizadas para o exercício de atividades agrícolas, submetidas a uma gestão única;\n\nj) «Tomador do seguro», pessoa coletiva que celebra o contrato de seguro coletivo ou o agricultor que celebra o contrato individual com a empresa de seguros, sendo responsável pelo pagamento do prémio;\n\nk) «Unidade de produção», o conjunto de parcelas agrícolas ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum de mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização.\n\n> Nota: [Artigo 3.º, Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666), em vigor a partir de 2021-10-08\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13"
+  },
+  "172505220": {
+   "fragment_id": "130024112",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2021-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666), em vigor a partir de 2021-10-08"
+   ],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis e não elegíveis\n\n1 - São elegíveis as despesas incorridas no pagamento dos prémios dos contratos de seguro celebrados ao abrigo da Portaria n.º 65/2014, de 12 de março, que reúnam as seguintes condições:\n\na) Tenham por objeto a cobertura de perdas resultantes de um acontecimento climático adverso, de uma doença dos animais ou das plantas, de uma praga ou de um acidente ambiental, como tal reconhecido oficialmente, ou de uma medida adotada em conformidade com a Diretiva 2000/29/CE, do Conselho, de 8 de maio, para erradicar ou circunscrever uma doença das plantas ou praga;\n\nb) Prevejam um prejuízo mínimo indemnizável superior a 20 % da respetiva produção anual média do agricultor, calculada nos termos das alíneas a) ou b) do n.º 3 do artigo 13.º da Portaria n.º 65/2014, na sua redação atual.\n\nc) Incluam todas as parcelas de cada cultura segura de que o candidato seja titular, desde que inseridas na mesma unidade de produção.\n\n2 - Não são elegíveis os prémios de contrato de seguro que se destinem:\n\na) A abranger o mesmo objeto seguro, por igual período temporal, por instrumentos contratados ao abrigo da regulamentação da OCM única do regime de apoio aos programas operacionais (PO) de Organizações de Produtores (OP) do setor hortofrutícola ou ao abrigo de outros instrumentos com financiamento público nacional ou comunitário;\n\nb) Ao setor de uva de vinho, abrangido pela Portaria n.º 42/2012, de 10 de fevereiro, alterada pelas Portarias n.os 195/2013, de 28 de maio e 52/2014, de 28 de fevereiro.\n\n3 - Não são elegíveis os encargos fiscais, parafiscais e custos da apólice.\n\n> Nota: [Artigo 3.º, Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666), em vigor a partir de 2021-10-08"
+  },
+  "172505221": {
+   "fragment_id": "130024115",
+   "type": 11,
+   "heading": "Artigo 9.º — Montantes e limites do apoio",
+   "in_force_from": "2021-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666), em vigor a partir de 2021-10-08",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2020 - Diário da República n.º 48/2020, Série I de 2020-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/63-2020-130008907)",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/172-2016-74738651), em vigor a partir de 2016-06-21"
+   ],
+   "markdown": "###### Artigo 9.º — Montantes e limites do apoio\n\n1 - Os níveis de apoio a conceder são os seguintes:\n\na) 70 % do prémio, para os contratos de seguro celebrados pelos responsáveis das explorações agrícolas familiares que comprovem que lhes foi atribuído e que se mantém válido o título de reconhecimento do Estatuto da Agricultura Familiar, nos termos do Decreto-Lei n.º 64/2018, de 7 de agosto, e da Portaria n.º 73/2019, de 7 de março;\n\nb) 60 % do prémio, para os contratos de seguro coletivo, para contratos de seguros individuais de segurados que tenham aderido a um seguro agrícola no ano anterior, bem como para contratos de seguro subscritos por jovens agricultores em ano de 1.ª instalação no âmbito do PDR2020;\n\nc) 57 % do prémio, nas situações não enquadradas nas alíneas anteriores.\n\n2 - O apoio previsto na presente portaria encontra-se limitado a um contrato de seguro por parcela e por cultura.\n\n> Nota: [Artigo 3.º, Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2021.\n\n> Nota: [Artigo 3.º, Portaria n.º 63/2020 - Diário da República n.º 48/2020, Série I de 2020-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/63-2020-130008907) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666), em vigor a partir de 2021-10-08\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2020 - Diário da República n.º 48/2020, Série I de 2020-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/63-2020-130008907)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 172/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/portaria/172-2016-74738651), em vigor a partir de 2016-06-21"
+  },
+  "130063269": {
+   "fragment_id": "130024117",
+   "type": 11,
+   "heading": "Artigo 10.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2020 - Diário da República n.º 48/2020, Série I de 2020-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/63-2020-130008907)"
+   ],
+   "markdown": "###### Artigo 10.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas em contínuo, durante o ano civil ao qual a apólice diz respeito, de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, e no portal do IFAP, I.P., em www.ifap.pt.\n\n2 - A apresentação das candidaturas efetua-se através de formulário eletrónico disponível no portal do Portugal 2020, ou do IFAP, I.P., em www.ifap.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pelo IFAP, I.P., considerando-se a data de submissão como a data de apresentação da candidatura.\n\n3 - As candidaturas podem ser apresentadas pelo tomador do seguro ou por intermédio das empresas de seguros.\n\n> Nota: [Artigo 3.º, Portaria n.º 63/2020 - Diário da República n.º 48/2020, Série I de 2020-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/63-2020-130008907) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 63/2020 - Diário da República n.º 48/2020, Série I de 2020-03-09](https://diariodarepublica.pt/dr/detalhe/portaria/63-2020-130008907)"
+  },
+  "172505222": {
+   "fragment_id": "130024122",
+   "type": 11,
+   "heading": "Artigo 15.º — Reduções e exclusões",
+   "in_force_from": "2021-10-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666), em vigor a partir de 2021-10-08"
+   ],
+   "markdown": "###### Artigo 15.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - À recuperação dos montantes indevidamente recebidos aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 23 de agosto, e na demais legislação aplicável.\n\n3 - É determinada a devolução total do apoio, pelo beneficiário nos seguintes casos:\n\na) Incumprimento dos critérios de elegibilidade;\n\nb) Não manutenção da apólice de seguro durante o período previsto no respetivo contrato;\n\nc) Incumprimento das disposições previstas nos números 1 e 2 do artigo 6.º\n\n4 - O incumprimento da obrigação prevista na alínea a) do n.º 1 do artigo 7.º, ou qualquer outra situação, da qual resulte diferença entre a área das parcelas declaradas e as verificadas, determina a redução proporcional do montante de apoio relativo às parcelas em causa, calculada pela aplicação do quociente entre a área das parcelas declaradas e as verificadas, aplicável no ano em que se verificou o incumprimento, nos seguintes termos:\n\na) Área declarada/Área verificada, inferior a 1,25, devolução do apoio correspondente à área declarada em excesso;\n\nb) Área declarada/Área verificada, igual ou superior a 1,25 e inferior a 2, devolução do apoio correspondente ao dobro da área declarada em excesso;\n\nc) Área declarada/Área verificada, igual ou superior a 2, devolução da totalidade do apoio.\n\n5 - A diferença entre a produtividade histórica declarada para efeitos de determinação do capital seguro e a produtividade histórica verificada, calculada nos termos da alínea b) do n.º 3 do artigo 13.º do Regulamento aprovado pela Portaria n.º 65/2014, de 12 de maio, na sua redação atual, consoante a opção do segurado, determina a redução proporcional do apoio, nos seguintes termos:\n\na) Produtividade declarada/Produtividade verificada, inferior a 1,1, devolução do apoio correspondente à produção declarada em excesso;\n\nb) Produtividade declarada/Produtividade verificada, igual ou superior a 1,1 e inferior a 2, devolução do apoio correspondente ao dobro da produção declarada em excesso;\n\nc) Produtividade declarada/Produtividade verificada, igual ou superior a 2, devolução da totalidade do apoio.\n\n> Nota: [Artigo 3.º, Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666) A presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se, com as devidas adaptações, às candidaturas respeitantes a apólices de seguro contratadas a partir de 1 de janeiro de 2021.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 204/2021 - Diário da República n.º 195/2021, Série I de 2021-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/204-2021-172481666), em vigor a partir de 2021-10-08"
+  }
+ }
+}

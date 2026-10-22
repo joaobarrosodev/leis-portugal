@@ -1,0 +1,183 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:531833:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-889769538",
+ "dre_path": "/dr/detalhe/decreto-lei/6-1984-531833",
+ "source_lastmod": "2024-10-02",
+ "versions": [
+  {
+   "date": "1984-01-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889770096",
+    "889770097",
+    "889770098",
+    "889770099",
+    "889770100",
+    "889770101",
+    "889770102",
+    "889770103",
+    "889770104"
+   ]
+  },
+  {
+   "date": "1984-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:396515:por",
+     "title": "Decreto-Lei n.º 393/84",
+     "published": "1984-12-26",
+     "dre_path": "/dr/detalhe/decreto-lei/393-1984-396515"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "889770096",
+    "889770097",
+    "889770122",
+    "889770099",
+    "889770100",
+    "889770101",
+    "889770102",
+    "889770103",
+    "889770104",
+    "889770105"
+   ]
+  },
+  {
+   "date": "1988-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:286319:por",
+     "title": "Decreto-Lei n.º 105/88",
+     "published": "1988-03-30",
+     "dre_path": "/dr/detalhe/decreto-lei/105-1988-286319"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "889770096",
+    "889770097",
+    "889770123",
+    "889770099",
+    "889770100",
+    "889770101",
+    "889770102",
+    "889770103",
+    "889770104",
+    "889770105"
+   ]
+  }
+ ],
+ "fragments": {
+  "889770096": {
+   "fragment_id": "889769539",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 6/84\n\nde 5 de Janeiro\n\nA escassez de solos urbanizados ou urbanizáveis tem constituído um dos principais obstáculos à construção de habitação e um factor de acréscimo do custo das mesmas.\n\nPara fazer face a esta situação procura-se, com a linha de crédito que agora se cria, contribuir para uma efectiva liderança do processo de urbanização por parte dos municípios de acordo com as directrizes do seu planeamento urbanístico e aumentar a oferta de terrenos para a construção.\n\nCriam-se, assim, as condições para a disponibilidade de solo a afectar a várias componentes da procura, de entre as quais importa realçar a promoção de habitação social a conduzir quer pelas autarquias quer pelo sector cooperativo. Aumenta-se igualmente a oferta para a promoção de habitação de custos moderados pela via dos contratos de desenvolvimento e ainda o aparecimento de uma alternativa à construção ilegal, através da oferta de lotes infra-estruturados para autoconstrução ou para a promoção privada em geral.\n\nDá-se, deste modo, corpo a uma integração de algumas das principais medidas da política habitacional e possibilita-se uma nova figura, cujo impacte se admite de grande alcance, como forma complementar da oferta de soluções para a resolução das necessidades de habitação.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "889770097": {
+   "fragment_id": "889769540",
+   "type": 11,
+   "heading": "Artigo 1.º — (Instituições financiadoras e beneficiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Instituições financiadoras e beneficiários)\n\nA Caixa Geral de Depósitos, o Crédito Predial Português, o Montepio Geral - Caixa Económica de Lisboa e o Fundo de Apoio ao Investimento para Habitação (FAIH) poderão conceder empréstimos aos municípios, associações e federações de municípios para aquisição ou infra-estruturação de solos."
+  },
+  "889770098": {
+   "fragment_id": "889769541",
+   "type": 11,
+   "heading": "Artigo 2.º — (Prazo dos empréstimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Prazo dos empréstimos)\n\n1 - O prazo máximo dos empréstimos será de 3 anos quando os mesmos se destinem à aquisição de solos para construção residencial imediata e os mesmos sejam cedidos em regime de direito de superfície ou em propriedade plena, respectivamente nos termos do artigo 29.º e do n.º 2 do artigo 5.º do Decreto-Lei n.º 794/76, de 5 de Novembro, com as alterações introduzidas neste último artigo pelo Decreto-Lei n.º 313/80, de 19 de Agosto, e pagos através de uma única prestação.\n\n2 - O prazo máximo dos empréstimos será de 5 anos quando os mesmos se destinem à aquisição e infra-estruturação de solos pelos municípios para construção imediata e estes sejam vendidos ou cedidos nos termos do número anterior.\n\n3 - O prazo máximo dos empréstimos será de 15 anos quando os mesmos se destinem:\n\na) À aquisição de solos para reserva de urbanização;\n\nb) À aquisição de solos para cedência em direito de superfície, pagável em prestações periódicas;\n\nc) À infra-estruturação de solos a ceder em direito de superfície, pagável, de igual modo, em prestações periódicas."
+  },
+  "889770099": {
+   "fragment_id": "889769542",
+   "type": 11,
+   "heading": "Artigo 3.º — (Montantes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Montantes)\n\nO montante máximo dos empréstimos a conceder será estabelecido pelas instituições financiadoras, tendo em conta a viabilidade financeira da operação e considerando a localização, densidade de ocupação prevista, quaisquer outros elementos influenciadores do preço dos solos e os limites a definir por portaria conjunta dos Ministros das Finanças e do Plano e do Equipamento Social."
+  },
+  "889770100": {
+   "fragment_id": "889769543",
+   "type": 11,
+   "heading": "Artigo 4.º — (Reembolso)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Reembolso)\n\nA forma de reembolso dos empréstimos a conceder ao abrigo deste diploma é definida na portaria a que se refere o artigo anterior."
+  },
+  "889770101": {
+   "fragment_id": "889769544",
+   "type": 11,
+   "heading": "Artigo 5.º — (Taxa de juro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Taxa de juro)\n\n1 - A taxa de juro dos empréstimos será a máxima legal aplicável em cada momento em vigor.\n\n2 - Os empréstimos poderão beneficiar de uma bonificação, a suportar pelo Estado e a inscrever no seu Orçamento, a fixar na portaria referida no artigo 3.º\n\n3 - A bonificação cessa logo que haja conhecimento da aplicação do empréstimo a fim diverso daquele para o qual tinha sido contratado, ou se verifique uma utilização dos terrenos diferente da prevista no presente diploma, havendo lugar à reposição dos valores que àquele título foram entretanto concedidos, sem prejuízo do disposto no Decreto-Lei n.º 94/83, de 17 de Fevereiro."
+  },
+  "889770102": {
+   "fragment_id": "889769545",
+   "type": 11,
+   "heading": "Artigo 6.º — (Critérios de apreciação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Critérios de apreciação)\n\nNa apresentação dos pedidos de empréstimos junto das instituições financiadoras, deverão ser incluídos nos respectivos processos, designadamente, os seguintes elementos:\n\na) Planta de localização das áreas a adquirir;\n\nb) Elementos de planeamento urbanístico que permitam a apreciação da viabilidade financeira dos pedidos."
+  },
+  "889770103": {
+   "fragment_id": "889769546",
+   "type": 11,
+   "heading": "Artigo 7.º — (Garantia)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Garantia)\n\nA garantia dos empréstimos concedidos aos municípios, associações e federações de municípios é a consignação das suas receitas, de acordo com a legislação geral aplicável."
+  },
+  "889770104": {
+   "fragment_id": "889769547",
+   "type": 11,
+   "heading": "Artigo 8.º — (Regiões autónomas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Regiões autónomas)\n\nO regime do presente decreto-lei aplicar-se-á às regiões autónomas mediante diploma das respectivas assembleias regionais, que o regulamentarão tendo em conta a realidade insular."
+  },
+  "889770122": {
+   "fragment_id": "889769541",
+   "type": 11,
+   "heading": "Artigo 2.º — (Prazo dos empréstimos)",
+   "in_force_from": "1984-12-31",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 393/84 - Diário da República n.º 297/1984, Série I de 1984-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1984-396515), em vigor a partir de 1984-12-31"
+   ],
+   "markdown": "###### Artigo 2.º — (Prazo dos empréstimos)\n\n1 - O prazo máximo dos empréstimos será de 3 anos quando os mesmos se destinem à aquisição de solos para construção residencial imediata e os mesmos sejam cedidos em regime de direito de superfície ou em propriedade plena, respectivamente nos termos do artigo 29.º e do n.º 2 do artigo 5.º do Decreto-Lei n.º 794/76, de 5 de Novembro, com as alterações introduzidas neste último artigo pelo Decreto-Lei n.º 313/80, de 19 de Agosto, e pagos através de uma única prestação.\n\n2 - O prazo máximo dos empréstimos será de 5 anos quando os mesmos se destinem à aquisição e infra-estruturação de solos pelos municípios para construção imediata e estes sejam vendidos ou cedidos nos termos do número anterior.\n\n3 - O prazo máximo dos empréstimos será de 15 anos quando os mesmos se destinem:\n\na) À aquisição de solos para reserva de urbanização;\n\nb) À aquisição de solos para cedência em direito de superfície, pagável em prestações periódicas;\n\nc) À infra-estruturação de solos a ceder em direito de superfície, pagável, de igual modo, em prestações periódicas.\n\n4 - As importâncias referentes às parcelas de juros vencidas de exigibilidade diferida serão imediatamente capitalizadas, repercutindo-se nas prestações seguintes.\n\n> Alterado pelo/a [Decreto-Lei n.º 393/84 - Diário da República n.º 297/1984, Série I de 1984-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1984-396515), em vigor a partir de 1984-12-31"
+  },
+  "889770105": {
+   "fragment_id": "889769548",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de Novembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Ernâni Rodrigues Lopes - João Rosado Correia.\n\nPromulgado em 29 de Dezembro de 1983.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 29 de Dezembro de 1983.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "889770123": {
+   "fragment_id": "889769541",
+   "type": 11,
+   "heading": "Artigo 2.º — (Prazo dos empréstimos)",
+   "in_force_from": "1988-04-04",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 105/88 - Diário da República n.º 75/1988, Série I de 1988-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1988-286319), em vigor a partir de 1988-04-04",
+    "Alterado pelo/a [Decreto-Lei n.º 393/84 - Diário da República n.º 297/1984, Série I de 1984-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1984-396515), em vigor a partir de 1984-12-31"
+   ],
+   "markdown": "###### Artigo 2.º — (Prazo dos empréstimos)\n\n1 - O prazo máximo dos empréstimos será de 3 anos quando os mesmos se destinem à aquisição de solos para construção residencial imediata e os mesmos sejam cedidos em regime de direito de superfície ou em propriedade plena, respectivamente nos termos do artigo 29.º e do n.º 2 do artigo 5.º do Decreto-Lei n.º 794/76, de 5 de Novembro, com as alterações introduzidas neste último artigo pelo Decreto-Lei n.º 313/80, de 19 de Agosto, e pagos através de uma única prestação.\n\n2 - O prazo máximo dos empréstimos será de 5 anos quando os mesmos se destinem à aquisição e infra-estruturação de solos pelos municípios para construção imediata e estes sejam vendidos ou cedidos nos termos do número anterior.\n\n3 - O prazo máximo dos empréstimos será de 15 anos quando os mesmos se destinem:\n\na) À aquisição de solos para reserva de urbanização;\n\nb) À aquisição de solos para cedência em direito de superfície, pagável em prestações periódicas;\n\nc) À infra-estruturação de solos a ceder em direito de superfície, pagável, de igual modo, em prestações periódicas.\n\nd) À infra-estruturação de solos em áreas de construção clandestina recuperáveis.\n\n4 - As importâncias referentes às parcelas de juros vencidas de exigibilidade diferida serão imediatamente capitalizadas, repercutindo-se nas prestações seguintes.\n\n> Alterado pelo/a [Decreto-Lei n.º 105/88 - Diário da República n.º 75/1988, Série I de 1988-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-1988-286319), em vigor a partir de 1988-04-04\n\n> Alterado pelo/a [Decreto-Lei n.º 393/84 - Diário da República n.º 297/1984, Série I de 1984-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1984-396515), em vigor a partir de 1984-12-31"
+  }
+ }
+}

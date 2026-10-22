@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:545663:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2006-870012831",
+ "dre_path": "/dr/detalhe/portaria/91-2006-545663",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-01-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "869919430",
+    "869919431",
+    "869919432",
+    "869919433",
+    "869919434",
+    "869919436"
+   ]
+  }
+ ],
+ "fragments": {
+  "869919430": {
+   "fragment_id": "870012832",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 91/2006\n\nde 27 de Janeiro\n\nO Decreto-Lei n.º 129/2005, de 11 de Agosto, veio introduzir mecanismos de racionalização na comparticipação de medicamentos, procedendo a uma redução de 5% no escalão máximo de comparticipação, mas salvaguardando a protecção dos cidadãos mais desfavorecidos, em relação aos quais o Estado continua a suportar o preço destes medicamentos na sua totalidade, bem como a majorar a comparticipação dos medicamentos integrados nos restantes escalões.\n\nA fim de tornar o sistema mais racional e equitativo, estabeleceu-se que apenas beneficiam desta protecção os pensionistas cujo rendimento total anual não exceda 14 vezes o salário mínimo nacional, deixando-se para a regulamentação do diploma a forma de comprovação destas situações.\n\nConsiderando a dificuldade de obtenção dos documentos emitidos pelos serviços oficiais competentes, a sua morosidade e o seu desfasamento temporal e no sentido de simplificar os procedimentos burocráticos inerentes à sua obtenção pelos beneficiários, optou-se por aceitar o sistema de declaração pelos próprios.\n\nEste sistema assenta no princípio da boa fé que deve sempre presidir às relações entre a Administração e os beneficiários e é facilmente confirmável pelos serviços competentes, desde que o seu titular dê, de forma inequívoca, o seu consentimento, nos termos da Lei Geral Tributária.\n\nAssim:\n\nAo abrigo do artigo 2.º do Decreto-Lei n.º 129/2005, de 11 de Agosto, e do n.º 2 do artigo 3.º do Decreto-Lei n.º 118/92, de 25 de Julho, na redacção dada por aquele diploma:\n\nManda o Governo, pelo Ministro da Saúde, o seguinte:"
+  },
+  "869919431": {
+   "fragment_id": "870012833",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs pensionistas que pretendam beneficiar do regime especial de comparticipação de medicamentos previsto no n.º 1 do artigo 3.º do Decreto-Lei n.º 118/92, de 25 de Julho, na redacção dada pelo Decreto-Lei n.º 129/2005, de 11 de Agosto, devem apresentar o documento comprovativo da sua qualidade de pensionista e do valor da pensão e declarar, conforme modelo anexo à presente portaria:\n\na) Que não auferiram, no ano anterior, rendimento ilíquido, apurado para efeitos de IRS, superior a 14 vezes o salário mínimo nacional;\n\nb) Que autorizam, nos termos da alínea a) do n.º 2 do artigo 64.º da Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de Dezembro, a confirmação dos pressupostos da concessão do presente benefício, sob pena de o mesmo ficar sem efeito.\n\n> Nota: [Portaria n.º 314/2006 - Diário da República n.º 66/2006, Série I-B de 2006-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/314-2006-672653) O prazo para apresentação da declaração anual de rendimentos do pensionista e do documento comprovativo da sua qualidade de pensionista, previstos nos artigos 1.º e 2.º desta portaria, é prorrogado até ao dia 30 de Abril de 2006."
+  },
+  "869919432": {
+   "fragment_id": "870012834",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A declaração e o documento comprovativo a que se refere o artigo anterior devem ser apresentados no centro de saúde em que os pensionistas se encontrem inscritos, pessoalmente ou por carta registada com aviso de recepção.\n\n2 - Os pensionistas que, à data da entrada em vigor da presente portaria, já beneficiam do regime especial de comparticipação devem apresentar a declaração e o documento comprovativo até 31 de Março de cada ano, sob pena de caducidade do benefício, juntando o documento de confirmação da sua qualidade de pensionista.\n\n3 - Os pensionistas que pretendam beneficiar pela primeira vez do actual regime devem apresentar a declaração e o documento comprovativo logo que do mesmo disponham, devendo renovar a declaração até ao dia 31 de Março do ano subsequente, sob pena de caducidade do benefício.\n\n> Nota: [Portaria n.º 314/2006 - Diário da República n.º 66/2006, Série I-B de 2006-04-03](https://diariodarepublica.pt/dr/detalhe/portaria/314-2006-672653) O prazo para apresentação da declaração anual de rendimentos do pensionista e do documento comprovativo da sua qualidade de pensionista, previstos nos artigos 1.º e 2.º desta portaria, é prorrogado até ao dia 30 de Abril de 2006."
+  },
+  "869919433": {
+   "fragment_id": "870012835",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Os centros de saúde devem prestar aos pensionistas todas as informações relevantes sobre o regime especial de comparticipação.\n\n2 - Quaisquer alterações da declaração prestada que impliquem a perca do benefício do regime especial de comparticipação devem ser comunicadas de imediato ao respectivo centro de saúde.\n\n3 - As alterações ao estatuto dos beneficiários do regime especial de comparticipação, decorrentes da aplicação do presente diploma, devem ser introduzidas na base de dados do cartão de utente do Serviço Nacional de Saúde, procedendo-se à emissão de um novo cartão."
+  },
+  "869919434": {
+   "fragment_id": "870012836",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSempre que da apreciação dos documentos ou declarações apresentados, ou da sua confirmação pelas entidades competentes, resultar não se encontrarem reunidos os pressupostos da concessão do benefício do regime especial de comparticipação de medicamentos, devem os centros de saúde informar os respectivos pensionistas e proceder ao cancelamento do benefício."
+  },
+  "869919436": {
+   "fragment_id": "870012838",
+   "type": 14,
+   "heading": "Anexo — Declaração anual de rendimentos do pensionista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Declaração anual de rendimentos do pensionista\n\nRegime especial de comparticipação de medicamentos\n\nIdentificação do pensionista:\n\nNome completo: ...\n\nNúmero de pensionista: ...\n\nNúmero do cartão de utente: ...\n\nNúmero de identificação fiscal: ...\n\nDeclaro que no ano anterior não auferi rendimento ilíquido, apurado para efeitos de IRS, de valor superior a 14 vezes o salário mínimo nacional.\n\nAutorizo que os serviços competentes confirmem ao Ministério da Saúde a veracidade da presente declaração.\n\nTomei conhecimento de que devo comunicar, de imediato, quaisquer alterações da informação prestada.\n\nAs declarações prestadas correspondem à verdade e não omitem qualquer informação relevante.\n\n.../.../...\n\n... (assinatura do pensionista conforme o bilhete de identidade)."
+  }
+ }
+}

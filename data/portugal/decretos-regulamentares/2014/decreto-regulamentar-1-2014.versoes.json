@@ -1,0 +1,253 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:570737:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2014-913220695",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/1-2014-570737",
+ "source_lastmod": "2025-03-31",
+ "versions": [
+  {
+   "date": "2014-02-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "913196074",
+    "913196004",
+    "913196005",
+    "913196006",
+    "913196007",
+    "913196008",
+    "913196009",
+    "913196010",
+    "913196011",
+    "913196012",
+    "913196013",
+    "913196014",
+    "913196015",
+    "913196016",
+    "913196017",
+    "913196018",
+    "913196019",
+    "913196020",
+    "913196022"
+   ]
+  },
+  {
+   "date": "2014-07-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345894:por",
+     "title": "Decreto Regulamentar n.º 3/2014",
+     "published": "2014-07-09",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/3-2014-25345894"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "913196003",
+    "913196004",
+    "913196005",
+    "913196006",
+    "913196007",
+    "913196008",
+    "913196028",
+    "913196010",
+    "913196011",
+    "913196012",
+    "913196013",
+    "913196014",
+    "913196015",
+    "913196016",
+    "913196017",
+    "913196018",
+    "913196019",
+    "913196020",
+    "913196021",
+    "913196022"
+   ]
+  }
+ ],
+ "fragments": {
+  "913196074": {
+   "fragment_id": "913220696",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 1/2014\n\nde 10 de fevereiro\n\nNo uso da autorização legislativa concedida pela Lei n.º 18/2013, de 18 de fevereiro, o XIX Governo Constitucional aprovou o novo regime jurídico do setor público empresarial (RJSPE), incluindo as bases gerais do estatuto das empresas públicas, constantes do Decreto-Lei n.º 133/2013, de 3 de outubro. Este diploma veio operar uma profunda transformação no conjunto dos princípios e regras aplicáveis ao setor público empresarial. Aliás, o próprio conceito de setor público empresarial mereceu uma especial atenção por parte do legislador, na medida em que passou a integrar-se neste conceito o setor empresarial do Estado, este compreendendo as empresas públicas e as empresas participadas do Estado, e o setor empresarial local (SEL). Para além do mais, o RJSPE aplica-se, também, a todas as organizações empresariais que sejam criadas, constituídas ou detidas por qualquer entidade administrativa ou empresarial pública, independentemente da forma jurídica que assumam e desde que tais entidades sobre elas exerçam, direta ou indiretamente, uma influência dominante.\n\nDe salientar que, por via do mesmo Decreto-Lei n.º 133/2013, de 3 de outubro, foi criada a Unidade Técnica de Acompanhamento e Monitorização do Setor Púbico Empresarial, designada por Unidade Técnica. Esta Unidade assume uma relevante importância nos dias de hoje, em que a complexidade dos desafios com que se defronta o Estado, na dupla vertente de prestação de serviços públicos de qualidade e com eficiência e economia de custos, exige um especial cuidado na tomada das decisões estratégicas, a par da gestão corrente das empresas do universo público.\n\nA Unidade Técnica surge com a função genérica de prestar o apoio técnico adequado ao membro do Governo responsável pela área das finanças, de modo a contribuir para a qualidade da gestão aplicada no setor público empresarial, na ótica da monitorização de boas práticas de governação e tendo em vista o equilíbrio económico e financeiro do setor. Para além disso, detém uma função de acompanhamento e monitorização do SEL, reportando ao membro do Governo responsável pela área das finanças, o qual, nesse domínio atua em articulação com o membro do Governo responsável pela área das autarquias locais.\n\nCom vista à prossecução da sua missão, a Unidade Técnica recebe informação da Direção-Geral do Tesouro e Finanças e da Direção-Geral das Autarquias Locais, nos termos do RJSPE.\n\nO referido decreto-lei determinou ainda que a missão, as atribuições, a organização e o funcionamento da Unidade Técnica são definidos por diploma próprio.\n\nAssim:\n\nAo abrigo do disposto no n.º 4 do artigo 68.º do Decreto-Lei n.º 133/2013, de 3 de outubro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "913196004": {
+   "fragment_id": "913220697",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto regulamentar estabelece a missão, as atribuições, a organização e o funcionamento da Unidade Técnica de Acompanhamento e Monitorização do Setor Público Empresarial, doravante designada por Unidade Técnica, criada pelo n.º 4.º do artigo 68.º do Decreto-Lei n.º 133/2013, de 3 de outubro, que aprovou o novo regime jurídico do setor público empresarial (RJSPE)."
+  },
+  "913196005": {
+   "fragment_id": "913220698",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nA Unidade Técnica é uma entidade administrativa de consulta e apoio à tomada de decisão que depende diretamente do membro do Governo responsável pela área das finanças e possui autonomia administrativa."
+  },
+  "913196006": {
+   "fragment_id": "913220699",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão\n\n1 - A Unidade Técnica tem por missão prestar o apoio técnico ao membro do Governo responsável pela área das finanças no exercício da função acionista das empresas do setor empresarial do Estado, bem como dos seus poderes de acompanhamento e monitorização do setor empresarial local (SEL), em articulação com o membro do Governo responsável pela área das autarquias locais, tendo em vista o equilíbrio económico e financeiro do setor público empresarial.\n\n2 - A Unidade Técnica deve contribuir globalmente para a melhoria da qualidade da gestão aplicada no setor público empresarial e para assegurar a monitorização e avaliação das boas práticas de governação."
+  },
+  "913196007": {
+   "fragment_id": "913220700",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - No âmbito das atribuições cometidas por lei e das previstas no RJSPE, cabe à Unidade Técnica:\n\na) Emitir os pareceres que lhe forem solicitados e executar as medidas que lhe forem determinadas pelo membro do Governo responsável pela área das finanças, no âmbito do setor público empresarial;\n\nb) Propor a política anual e plurianual de financiamento das empresas do setor público empresarial, quer para funcionamento, quer para investimento, coerente com as necessidades de financiamento agregadas e compatível com a disciplina financeira e orçamental, designadamente com a Lei do Orçamento de Estado, com o Documento de Estratégia Orçamental e com a Lei das Finanças Locais, identificando as fontes de financiamento e os limites máximos de acréscimo líquido do endividamento;\n\nc) Propor programas anuais e plurianuais específicos tendentes à melhoria da gestão das empresas do setor empresarial do Estado (SEE), à sua sustentabilidade e à redução do esforço financeiro do Estado;\n\nd) Apresentar propostas de orientações destinadas à elaboração, pelas empresas do SEE, dos planos de atividades e orçamento, designadamente os indicadores macroeconómicos e os referenciais de atividade e de natureza económica e financeira associados aos programas de reestruturação e sustentabilidade fixados pelo Governo, com base na informação a que se refere o n.º 4 do artigo 39.º do RJSPE;\n\ne) Analisar as propostas de planos de atividades e orçamentos das empresas do SEE, apresentadas através da Direção-Geral do Tesouro e Finanças (DGTF) para os efeitos previstos no n.º 7 do artigo 39.º do RJSPE, e elaborar o relatório dessa análise, a submeter à aprovação do membro do Governo responsável pela área das finanças, nos termos e para os efeitos previstos nos n.os 8 e 9 do artigo 39.º do RJSPE;\n\nf) Avaliar o cumprimento das orientações e objetivos de gestão e o desempenho anual do órgão de administração, remetendo os respetivos resultados à DGTF, a fim de serem integrados no processo de apreciação dos documentos anuais de prestação de contas;\n\ng) Apreciar, com vista à sua aprovação, as propostas de contratualização da prestação de serviços de interesse geral, fixando as obrigações das empresas do SEE ao nível da atividade a desenvolver e as compensações financeiras a atribuir pelo Estado no âmbito da regulamentação europeia, em conformidade com o disposto nos artigos 48.º e 55.º do RJSPE;\n\nh) Emitir parecer prévio à respetiva orçamentação anual sobre os montantes das indemnizações compensatórias, dotações de capital e subsídios a conceder às empresas públicas, sem prejuízo do disposto no artigo 9.º do Decreto-Lei n.º 167/2008, de 26 de agosto, alterado pela Lei n.º 64/2013, de 27 de agosto, quanto às atribuições da Inspeção-Geral de Finanças (IGF) em matéria de fiscalização e controlo das entidades beneficiárias de indemnizações compensatórias;\n\ni) Emitir parecer anual sobre a estrutura das fontes de financiamento e a evolução dos custos financeiros das entidades do setor público empresarial, tendo em conta a informação disponível, nomeadamente os pareceres da Agência de Gestão de Tesouraria e da Dívida Pública - IGCP, E.P.E. (IGCP, E.P.E.) em matéria de financiamento das empresas, nos termos da lei;\n\nj) Informar o membro do Governo responsável pela área das finanças da situação económico-financeira das empresas e da sua evolução, identificando, nomeadamente, as situações suscetíveis de contribuir para um eventual agravamento do esforço financeiro do setor público;\n\nk) Acompanhar e monitorizar a atividade do SEL através da informação recebida da Direção-Geral das Autarquias Locais (DGAL), com reporte periódico ao membro do Governo responsável pela área das finanças, em articulação com o membro do Governo responsável pela área da administração local;\n\nl) Avaliar o cumprimento do disposto n.º 10 do artigo 39.º do RJSPE, nomeadamente no que respeita às práticas de bom governo, e reportar a avaliação à DGTF, para efeitos de integração no processo de apreciação dos documentos anuais de prestação de contas;\n\nm) Emitir parecer sobre os elementos referidos do n.º 1 do artigo 64.º do RJSPE;\n\nn) Emitir parecer sobre a constituição, a transformação, a fusão, a cisão ou a dissolução de empresas do SEE;\n\no) Elaborar anualmente um relatório sobre os financiamentos do setor público empresarial, com base na informação disponibilizada trimestralmente pelo IGCP, E.P.E., nos termos do RJSPE, bem como na recebida por via da DGAL e da IGF, no que respeita em particular ao SEL, e disponibilizá-lo no respetivo sítio da Internet;\n\np) Emitir pareceres sobre matérias relativas ao exercício da função acionista do SEL, mediante solicitação do membro do Governo responsável pela área das finanças, em articulação com o membro do Governo responsável pela área da administração local;\n\nq) Elaborar anualmente um relatório sobre o cumprimento das práticas de bom governo;\n\nr) Acompanhar as experiências internacionais no âmbito do setor público empresarial, estabelecendo relações com organizações da União Europeia e internacionais que intervenham nesta área, bem como propor a nomeação de representantes nacionais nos organismos congéneres das referidas organizações;\n\ns) Tratar e centralizar a informação relevante para o cumprimento da sua missão, designadamente de índole económica e financeira, a publicitar no seu sítio da Internet;\n\nt) Promover ações de formação, em particular dirigidas aos quadros técnicos que exercem funções no âmbito do setor público empresarial.\n\n2 - As atribuições da Unidade Técnica não prejudicam o exercício das demais atribuições cometidas por lei a outros serviços e organismos da Administração Pública, nomeadamente à Direção-Geral do Orçamento, à IGF, à DGTF e à DGAL."
+  },
+  "913196008": {
+   "fragment_id": "913220701",
+   "type": 11,
+   "heading": "Artigo 5.º — Articulação com o setor empresarial local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Articulação com o setor empresarial local\n\n1 - A Unidade Técnica assegura os procedimentos necessários para o cumprimento das respetivas atribuições no âmbito do SEL com vista ao reforço da tutela administrativa.\n\n2 - Para efeitos do cumprimento do regime previsto no capítulo V do RJSPE, a DGAL e a IGF remetem a informação prevista nos artigos 63.º e 64.º do referido regime jurídico à Unidade Técnica.\n\n3 - A forma de articulação da Unidade Técnica com a DGAL, que efetua o estudo, preparação e acompanhamento da informação a prestar à Unidade Técnica no âmbito do SEL, é definida por despacho dos membros do Governo responsáveis pelas áreas das finanças e da administração local."
+  },
+  "913196009": {
+   "fragment_id": "913220702",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos\n\n1 - A Unidade Técnica é dirigida por um diretor, cargo de direção superior de 1.º grau.\n\n2 - Nas suas ausências e impedimentos, o diretor é substituído pelo consultor de primeiro nível que for designado por despacho do membro do Governo responsável pela área das finanças, sob proposta do diretor."
+  },
+  "913196010": {
+   "fragment_id": "913220703",
+   "type": 11,
+   "heading": "Artigo 7.º — Diretor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Diretor\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor dirigir e orientar a ação da Unidade Técnica.\n\n2 - Ao diretor, no âmbito da atividade da Unidade Técnica, compete nomeadamente:\n\na) Promover a execução das medidas que forem determinadas pelo membro do Governo responsável pela área das finanças;\n\nb) Submeter à consideração do membro do Governo responsável pela área das finanças os relatórios produzidos pela Unidade Técnica, bem como os respetivos planos e relatórios anuais de atividades;\n\nc) Informar periodicamente o membro do Governo responsável pela área das finanças da situação económico-financeira das empresas e da sua evolução;\n\nd) Propor ao membro do Governo responsável pela área das finanças as ações de formação profissional previstas na alínea t) do n.º 1 do artigo 4.º"
+  },
+  "913196011": {
+   "fragment_id": "913220704",
+   "type": 11,
+   "heading": "Artigo 8.º — Consultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Consultores\n\n1 - Na Unidade Técnica desempenham funções, em regime de comissão de serviço, pelo período de três anos, renovável, dois coordenadores e até 16 consultores de primeiro, de segundo e de terceiro nível, designados por despacho do membro do Governo responsável pela área das finanças, sob proposta do diretor, de entre licenciados, preferencialmente vinculados à Administração Pública, que possuam competência técnica, aptidão, experiência profissional e formação adequadas à prossecução das atribuições da Unidade Técnica.\n\n2 - O despacho de designação dos coordenadores e dos consultores é publicado no Diário da República, juntamente com uma nota relativa ao currículo académico e profissional do designado.\n\n3 - Os coordenadores e os consultores exercem funções em regime de isenção de horário de trabalho e os coordenadores auferem a remuneração equivalente à prevista para o cargo de direção superior de 2.º grau, sendo aplicável aos consultores o seguinte regime remuneratório:\n\na) Um máximo de seis consultores de primeiro nível pode ser remunerado pelo nível 50 da tabela remuneratória única dos trabalhadores que exercem funções públicas;\n\nb) Um máximo de seis consultores de segundo nível pode ser remunerado pelo nível 40 da tabela a que se refere a alínea anterior;\n\nc) Os consultores de terceiro nível são remunerados pelo nível 25 da tabela a que se refere a alínea a).\n\n4 - No caso de cedência de interesse público para o exercício de funções de consultor, com opção pela remuneração base devida na situação jurídico-funcional de origem, o estatuto remuneratório não pode, em caso algum, exceder a remuneração base a que se refere o n.º 1 do artigo 12.º da Lei n.º 4/85, de 9 de abril."
+  },
+  "913196012": {
+   "fragment_id": "913220705",
+   "type": 11,
+   "heading": "Artigo 9.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Funcionamento\n\n1 - A Unidade Técnica emite os pareceres e os relatórios que, nos termos do RJSPE deve reportar ao membro do Governo responsável pela área das finanças, no prazo máximo de 30 dias, a contar do recebimento da informação da DGTF, e sem prejuízo do disposto no número seguinte.\n\n2 - No caso de constituição de novas empresas, bem como no caso de restruturação de empresas existentes, o prazo para a emissão dos pareceres e relatórios é de 60 dias, a contar do recebimento da documentação respetiva.\n\n3 - Os custos com as ações de formação a que se refere a alínea t) do n.º 1 do artigo 4.º são integralmente suportados pelas entidades que delas beneficiam.\n\n4 - A Unidade Técnica pode recorrer a prestações de serviços, sempre que a natureza e a especificidade das matérias em análise o recomendem, nos termos da lei aplicável.\n\n5 - A forma de articulação da Unidade Técnica com a DGTF, que efetua o estudo, preparação e acompanhamento das matérias respeitantes ao exercício da função acionista do Estado e assegura a transmissão da informação das empresas do SEE àquela Unidade, é definida por despacho do membro do Governo responsável pela área das finanças."
+  },
+  "913196013": {
+   "fragment_id": "913220706",
+   "type": 11,
+   "heading": "Artigo 10.º — Planos e relatórios anuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Planos e relatórios anuais\n\n1 - A Unidade Técnica elabora e submete à consideração do membro do Governo responsável pela área das finanças:\n\na) Até 30 de novembro de cada ano, o seu plano de atividades para o ano imediatamente seguinte;\n\nb) Até 31 de março de cada ano, o relatório das atividades que desenvolveu no ano imediatamente anterior.\n\n2 - Na parte em que os documentos referidos no número anterior respeitarem ao SEL, o membro do Governo responsável pela área das finanças articula o conteúdo do plano a que se refere a alínea a) com o membro do Governo responsável pela área das autarquias locais, previamente à sua aprovação, e informa-o sobre o conteúdo do relatório da Unidade Técnica relativo ao ano anterior."
+  },
+  "913196014": {
+   "fragment_id": "913220707",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio logístico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio logístico e administrativo\n\n1 - A Secretaria-Geral do Ministério das Finanças (SGMF) disponibiliza à Unidade Técnica o pessoal de apoio técnico, administrativo e operacional que se revele necessário ao seu regular funcionamento.\n\n2 - Os encargos decorrentes da aplicação do presente decreto regulamentar são inscritos no orçamento da SGMF."
+  },
+  "913196015": {
+   "fragment_id": "913220708",
+   "type": 11,
+   "heading": "Artigo 12.º — Colaboração de outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Colaboração de outras entidades\n\n1 - Os serviços e organismos da administração direta e indireta do Estado e os órgãos de administração e de fiscalização das empresas públicas, bem como as demais entidades incumbidas da fiscalização do setor público empresarial, colaboram com a Unidade Técnica no exercício da sua missão e atribuições.\n\n2 - Para efeitos do disposto no número anterior, a Unidade Técnica pode ter acesso ao Sistema Informático de Recolha de Informação Económica e Financeira (SIRIEF), suportando o acréscimo de custos decorrentes da gestão operacional do sistema inerentes a essa utilização.\n\n3 - O regime e a periodicidade do envio de informação à Unidade Técnica são definidos por despacho do membro do Governo responsável pela área das finanças, com faculdade de delegação e de subdelegação."
+  },
+  "913196016": {
+   "fragment_id": "913220709",
+   "type": 11,
+   "heading": "Artigo 13.º — Sítio da Unidade Técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sítio da Unidade Técnica\n\nPara os efeitos do disposto no RJSPE e no presente decreto regulamentar, a Unidade Técnica dispõe de um sítio próprio na Internet, onde publicita, em permanência, todos os documentos e demais elementos de informação relacionados com o setor público empresarial, incluindo os despachos referidos no artigo 8.º"
+  },
+  "913196017": {
+   "fragment_id": "913220710",
+   "type": 11,
+   "heading": "Artigo 14.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Receitas\n\n1 - A Unidade Técnica dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A Unidade Técnica dispõe ainda das seguintes receitas próprias:\n\na) O produto de venda de publicações e de trabalhos editados pela Unidade Técnica;\n\nb) Quaisquer outras receitas que por lei, por contrato ou por outro título lhe sejam atribuídas."
+  },
+  "913196018": {
+   "fragment_id": "913220711",
+   "type": 11,
+   "heading": "Artigo 15.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Despesas\n\nConstituem despesas da Unidade Técnica as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "913196019": {
+   "fragment_id": "913220712",
+   "type": 11,
+   "heading": "Artigo 16.º — Mapa de cargos de direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Mapa de cargos de direção\n\nO lugar de direção superior de 1.º grau consta do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante."
+  },
+  "913196020": {
+   "fragment_id": "913220713",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "913196022": {
+   "fragment_id": "913220715",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 16.º)\n\n(ver documento original)"
+  },
+  "913196003": {
+   "fragment_id": "913220696",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar n.º 1/2014\n\nde 10 de fevereiro\n\nNo uso da autorização legislativa concedida pela Lei n.º 18/2013, de 18 de fevereiro, o XIX Governo Constitucional aprovou o novo regime jurídico do setor público empresarial (RJSPE), incluindo as bases gerais do estatuto das empresas públicas, constantes do Decreto-Lei n.º 133/2013, de 3 de outubro. Este diploma veio operar uma profunda transformação no conjunto dos princípios e regras aplicáveis ao setor público empresarial. Aliás, o próprio conceito de setor público empresarial mereceu uma especial atenção por parte do legislador, na medida em que passou a integrar-se neste conceito o setor empresarial do Estado, este compreendendo as empresas públicas e as empresas participadas do Estado, e o setor empresarial local (SEL). Para além do mais, o RJSPE aplica-se, também, a todas as organizações empresariais que sejam criadas, constituídas ou detidas por qualquer entidade administrativa ou empresarial pública, independentemente da forma jurídica que assumam e desde que tais entidades sobre elas exerçam, direta ou indiretamente, uma influência dominante.\n\nDe salientar que, por via do mesmo Decreto-Lei n.º 133/2013, de 3 de outubro, foi criada a Unidade Técnica de Acompanhamento e Monitorização do Setor Púbico Empresarial, designada por Unidade Técnica. Esta Unidade assume uma relevante importância nos dias de hoje, em que a complexidade dos desafios com que se defronta o Estado, na dupla vertente de prestação de serviços públicos de qualidade e com eficiência e economia de custos, exige um especial cuidado na tomada das decisões estratégicas, a par da gestão corrente das empresas do universo público.\n\nA Unidade Técnica surge com a função genérica de prestar o apoio técnico adequado ao membro do Governo responsável pela área das finanças, de modo a contribuir para a qualidade da gestão aplicada no setor público empresarial, na ótica da monitorização de boas práticas de governação e tendo em vista o equilíbrio económico e financeiro do setor. Para além disso, detém uma função de acompanhamento e monitorização do SEL, reportando ao membro do Governo responsável pela área das finanças, o qual, nesse domínio atua em articulação com o membro do Governo responsável pela área das autarquias locais.\n\nCom vista à prossecução da sua missão, a Unidade Técnica recebe informação da Direção-Geral do Tesouro e Finanças e da Direção-Geral das Autarquias Locais, nos termos do RJSPE.\n\nO referido decreto-lei determinou ainda que a missão, as atribuições, a organização e o funcionamento da Unidade Técnica são definidos por diploma próprio.\n\nAssim:\n\nAo abrigo do disposto no n.º 4 do artigo 68.º do Decreto-Lei n.º 133/2013, de 3 de outubro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "913196028": {
+   "fragment_id": "913220702",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos",
+   "in_force_from": "2014-07-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2014 - Diário da República n.º 130/2014, Série I de 2014-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2014-25345894), em vigor a partir de 2014-07-10, produz efeitos a partir de 2014-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Órgãos\n\n1 - A Unidade Técnica é dirigida por um diretor, cargo de direção superior de 1.º grau.\n\n2 - Nas suas ausências e impedimentos, o diretor é substituído pelo coordenador que for designado por despacho do membro do Governo responsável pela área das finanças, sob proposta do diretor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar n.º 3/2014 - Diário da República n.º 130/2014, Série I de 2014-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2014-25345894), em vigor a partir de 2014-07-10, produz efeitos a partir de 2014-03-01"
+  },
+  "913196021": {
+   "fragment_id": "913220714",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de dezembro de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Luís Miguel Poiares Pessoa Maduro.\n\nPromulgado em 4 de fevereiro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 5 de fevereiro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

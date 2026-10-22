@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:457064:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1997-992176433",
+ "dre_path": "/dr/detalhe/portaria/239-1997-457064",
+ "source_lastmod": "2025-12-19",
+ "versions": [
+  {
+   "date": "1997-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "992180912"
+   ]
+  },
+  {
+   "date": "1997-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:157988:por",
+     "title": "Declaração de Rectificação n.º 8-B/97",
+     "published": "1997-04-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/8-b-1997-157988"
+    }
+   ],
+   "changes": [
+    "Retifica 1.º"
+   ],
+   "fragments": [
+    "992180912",
+    "992180918",
+    "992180914",
+    "992180915"
+   ]
+  }
+ ],
+ "fragments": {
+  "992180912": {
+   "fragment_id": "992176434",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 239/97\n\nde 5 de Abril\n\nManda o Governo, pelo Ministro das Finanças, ao abrigo do disposto na alínea a) do artigo 21.º do Código do Mercado de Valores Mobiliários, o seguinte:"
+  },
+  "992180918": {
+   "fragment_id": "992176435",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "1997-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 8-B/97 - Diário da República n.º 100/1997, 2º Suplemento, Série I-B de 1997-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-b-1997-157988), em vigor a partir de 1997-04-30"
+   ],
+   "markdown": "###### 1.º\n\nSão aprovadas, sob proposta do conselho directivo da Comissão do Mercado de Valores Mobiliários, as alterações aos artigos 2.º, 21.º, 26.º, n.º 1, e 27.º, n.º 5, do regulamento interno da Comissão do Mercado de Valores Mobiliários, aprovado pela Portaria n.º 221/91, do Ministro das Finanças, de 18 de Julho, os quais passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\nRegime\n\nA CMVM rege-se pelo Código do Mercado de Valores Mobiliários, pelo seu regulamento interno, bem como, no que por aquele ou por este não for especialmente regulado, exclusivamente pelo ordenamento jurídico e financeiro aplicável às entidades que revistam natureza, forma e designação de empresa pública de regime de direito privado, não estando sujeita às normas aplicáveis aos fundos e serviços autónomos.\n\nArtigo 21.º\n\nEstrutura dos serviços\n\nOs serviços da CMVM são estruturados em unidades orgânicas, de acordo com o que vier a ser fixado pelo conselho directivo, competindo ao mesmo conselho definir as respectivas competências.\n\nArtigo 26.º\n\nCargos de nomeação\n\n1 - São cargos de nomeação os de chefia os de assessor do conselho directivo, delegado junto das bolsas e os de apoio directo aos membros do conselho directivo.\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\nArtigo 27.º\n\nDeveres dos funcionários\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Os funcionários da CMVM não podem exercer qualquer outra actividade profissional, pública ou privada, excepto a de docente do ensino superior ou a que se traduza numa colaboração temporária prestada a entidade pública, desde que, em qualquer destes casos, o conselho directivo o autorize e a actividade seja exercida em condições que não prejudiquem o adequado desempenho das suas funções na Comissão.»\n\n> Retificado pelo/a [Declaração de Rectificação n.º 8-B/97 - Diário da República n.º 100/1997, 2º Suplemento, Série I-B de 1997-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/8-b-1997-157988), em vigor a partir de 1997-04-30"
+  },
+  "992180914": {
+   "fragment_id": "992176436",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação no Diário da República."
+  },
+  "992180915": {
+   "fragment_id": "992176437",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério das Finanças.\n\nAssinada em 13 de Março de 1997.\n\nO Ministro das Finanças, António Luciano Pacheco de Sousa Franco."
+  }
+ }
+}

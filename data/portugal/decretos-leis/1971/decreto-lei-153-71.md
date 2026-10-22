@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:444722:por
+title: Decreto-Lei n.º 153/71
+short_title: null
+summary: Autoriza a Companhia dos Caminhos de Ferro Portugueses, S. A. R. L., a emitir, nos anos de 1971 a 1973, por séries,
+  obrigações até ao limite de 600000 contos, para permitir a execução de empreendimentos compreendidos no III Plano de Fomento
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e das Comunicações
+proposing_entity: null
+official_number: 153/71
+official_date: null
+publication_date: '1971-04-23'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 95/1971, Série I de 1971-04-23
+  number: '95'
+  series: I
+  supplement: null
+  pages: 556 - 556
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/04/09500/05560556.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '444722'
+  dre_path: /dr/detalhe/decreto-lei/153-1971-444722
+  internal: pt:dre:444722:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1971-444722
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1971-444722
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1971-04-23T00:00:00Z'
+integrity:
+  source_sha256: 1096d2ee428b69ef1082ce5ac37c2638da9e09ddc58d8204f80d04ba53e5dcd9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-153-444722.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 153/71
+
+de 23 de Abril
+
+1. Para habilitar a Companhia dos Caminhos de Ferro Portugueses, S. A. R. L., concessionária única da exploração da rede ferroviária nacional, a proceder à transformação e reapetrechamento previstos no III Plano de Fomento, aprovado pela [Lei n.º 2133](https://diariodarepublica.pt/dr/detalhe/lei/2133-1967-401694), de 20 de Dezembro de 1967, foi aquela concessionária autorizada pelo [Decreto-Lei n.º 48487](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48487-1968-272642), de 17 de Julho de 1968, a emitir, por séries, obrigações, durante o triénio de 1968-1970, até ao montante de 930000 contos, o qual efectivamente foi utilizado em 740000 contos, distribuídos em quatro séries, conforme portarias de 25 de Julho de 1968, 23 de Junho de 1969, 29 de Outubro de 1969 e 10 de Dezembro de 1970.
+
+2. Para o 2.º triénio do III Plano de Fomento, de forma a permitir a prossecução dos empreendimentos nele programados de acordo com a revisão do Plano oportunamente aprovada, necessário se torna autorizar nova emissão de obrigações nos montantes que forem fixados nos termos da base VI da [Lei n.º 2133](https://diariodarepublica.pt/dr/detalhe/lei/2133-1967-401694), de 20 de Dezembro de 1967.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Para permitir a execução de empreendimentos compreendidos no III Plano de Fomento, é a Companhia dos Caminhos de Ferro Portugueses, S. A. R. L., autorizada a emitir, nos anos de 1971 a 1973, por séries, obrigações até ao limite de 600000 contos.
+
+###### Art. 2.º - 1. O valor de cada série será fixado, caso por caso, mediante despacho conjunto dos Secretários de Estado do Tesouro e das Comunicações e Transportes, sobre requerimento da Companhia, tendo em atenção o que anualmente for aprovado pelo Conselho de Ministros para os Assuntos Económicos, de harmonia com o disposto na base VI da [Lei n.º 2133](https://diariodarepublica.pt/dr/detalhe/lei/2133-1967-401694), de 2 de Dezembro de 1967.
+
+2. No mesmo despacho se fixarão, para cada série, as condições de emissão não estabelecidas no mesmo diploma, bem como a forma de colocação das obrigações.
+
+###### Art. 3.º - 1. As obrigações a emitir gozarão do aval do Estado, nos termos do artigo 2.º do [Decreto-Lei n.º 39531](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39531-1954-215561), de 6 de Fevereiro de 1954.
+
+2. Igualmente se concede às obrigações representativas deste empréstimo as isenções fiscais definidas pelo artigo 3.º do mesmo [Decreto-Lei n.º 39531](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39531-1954-215561).
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.
+
+**Promulgado em 14 de Abril de 1971.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser presente à Assembleia Nacional.

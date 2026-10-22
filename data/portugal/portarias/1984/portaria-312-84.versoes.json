@@ -1,0 +1,75 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:384416:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-889495872",
+ "dre_path": "/dr/detalhe/portaria/312-1984-384416",
+ "source_lastmod": "2024-09-30",
+ "versions": [
+  {
+   "date": "1984-05-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889496024"
+   ]
+  },
+  {
+   "date": "1984-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:275417:por",
+     "title": "Declaração",
+     "published": "1984-06-30",
+     "dre_path": "/dr/detalhe/declaracao/1984-275417"
+    }
+   ],
+   "changes": [
+    "Retifica 1.º"
+   ],
+   "fragments": [
+    "889496024",
+    "889496034",
+    "889496027",
+    "889496025"
+   ]
+  }
+ ],
+ "fragments": {
+  "889496024": {
+   "fragment_id": "889495873",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 312/84\n\nde 24 de Maio\n\nManda o Governo da República Portuguesa, pelo Ministro da Justiça, o seguinte:"
+  },
+  "889496034": {
+   "fragment_id": "889496475",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "1984-06-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 150/1984, 2º Suplemento, Série I de 1984-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-275417), em vigor a partir de 1984-06-30"
+   ],
+   "markdown": "###### 1.º\n\nEm conformidade com o disposto no n.º 2 do artigo 2.º do Decreto-Lei n.º 385/82, de 16 de Setembro, a composição das secretarias judiciais dos tribunais abaixo relacionados passa a ser a indicada:\n\nTribunal de Braga\n\nSecretaria judicial:\n\nSecção central e 8 secções de processos.\n\nCargos:\n\nPessoal:\n\n... Número de lugares\n\nSecretário judicial ... 1\n\nEscrivão de direito ... 9\n\nEscrivão-adjunto (ver nota a) ... 14\n\nOficial judicial (ver nota a) ... 9\n\nEscriturário judicial (ver nota a) ... 14\n\nTécnico auxiliar de BAD ... 2\n\nOficial-porteiro ... 1\n\nTelefonista ... 1\n\n(nota a) Afecto ao serviço do ministério público:\n\n4 lugares de escrivão-adjunto (1 para o serviço do procurador da República).\n\n1 lugar de oficial judicial.\n\n4 lugares do escriturário Judicial.\n\nTribunal do Cartaxo\n\nSecretaria judicial:\n\nSecção central e 3 secções de processos.\n\nPessoal:\n\nCargos:\n\n... Número de lugares\n\nSecretário judicial ... 1\n\nEscrivão de direito ... 3\n\nEscrivão-adjunto (ver nota a) ... 5\n\nOficial judicial ...3\n\nEscriturário judicial (ver nota a) ... 5\n\n(nota a) Afecto ao serviço do ministério público:\n\n1 lugar de escrivão-adjunto.\n\n1 lugar de escriturário judicial.\n\nTribunal de Lamego\n\nSecretaria judicial:\n\nSecção central e 3 secções de processos.\n\nPessoal:\n\nCargos:\n\n... Número de lugares\n\nSecretário judicial ... 1\n\nEscrivão de direito ... 3\n\nEscrivão-adjunto (ver nota a) ... 6\n\nOficial judicial ... 3\n\nEscriturário judicial (ver nota a) ... 5\n\nOficial-porteiro ... 1\n\n(nota a) Afecto ao serviço do ministério público:\n\n2 lugar de escrivão-adjunto (1 para o serviço do procurador da República).\n\n1 lugar do escriturário judicial.\n\nTribunal de Paços de Ferreira\n\nSecretaria judicial:\n\nSecção central e 3 secções de processos.\n\nPessoal:\n\nCargos:\n\n... Número de lugares\n\nSecretário judicial ... 1\n\nEscrivão de direito ... 3\n\nEscrivão-adjunto (ver nota a) ... 5\n\nOficial judicial ... 3\n\nEscriturário judicial (ver nota a) ... 5\n\nOficial-porteiro ... 1\n\n(nota a) Afecto ao serviço do ministério público:\n\n1 lugar de escrivão-adjunto.\n\n1 lugar de escriturário judicial.\n\nTribunal de São João da Madeira\n\nSecretaria judicial:\n\nSecção central e 4 secções de processos.\n\nPessoal:\n\nCargos:\n\n... Número de lugares\n\nSecretário judicial ... 1\n\nEscrivão de direito ... 4\n\nEscrivão-adjunto (ver nota a) ... 6\n\nOficial judicial ... 4\n\nEscriturário judicial (ver nota a) ... 7\n\n(nota a) Afecto ao serviço do ministério público:\n\n1 lugar de escrivão-adjunto.\n\n1 lugar de escriturário judicial.\n\nTribunal de Torres Novas\n\nSecretaria judicial:\n\nSessão central e 3 secções de processos.\n\nPessoal:\n\nCargos:\n\n... Número de lugares\n\nSecretário judicial ... 1\n\nEscrivão de direito ... 3\n\nEscrivão-adjunto (ver nota a) ... 5\n\nOficial judicial ... 3\n\nEscriturário judicial (ver nota a) ... 5\n\nOficial-porteiro ... 1\n\n(nota a) Afecto ao serviço do ministério público:\n\n1 lugar de escrivão-adjunto.\n\n1 lugar de escriturário judicial.\n\nTribunal de Torres Vedras\n\nSecretaria judicial:\n\nSecção central e 6 secções de processos.\n\nPessoal:\n\nCargos:\n\n... Número de lugares\n\nSecretário judicial ... 1\n\nEscrivão de direito ... 7\n\nEscrivão-adjunto (ver nota a) ... 8\n\nOficial judicial ... 6\n\nEscriturário judicial (ver nota a) ... 9\n\nTécnico auxiliar de BAD ... 1\n\nOficial-porteiro ... 1\n\n(nota a) Afecto ao serviço do ministério público:\n\n1 lugar de escrivão-adjunto.\n\n1 lugar de escriturário judicial.\n\nTribunal de Viana do Castelo\n\nSecretaria judicial:\n\nSecção central e 6 secções de processos.\n\nPessoal:\n\nCargos:\n\n... Número de lugares\n\nSecretário judicial ... 1\n\nEscrivão de direito ... 7\n\nEscrivão-adjunto (ver nota a) (ver nota b) ... 10\n\nOficial judicial (ver nota b) ... 7\n\nEscriturário judicial (a) e (b) - 11\n\nTécnico auxiliar de BAD ... 1\n\nOficial-porteiro ... 1\n\nTelefonista ... 1\n\n(nota a) Afecto ao serviço do ministério público:\n\n2 lugares de escrivão-adjunto (1 para o serviço do procurador da República).\n\n2 lugares de escriturário judicial.\n\n(nota b) 1 lugar de cada categoria afecto ao tribunal de instrução criminal.\n\nTribunal de Vila do Conde\n\nSecretaria judicial:\n\nSecção central e 6 secções de processos.\n\nPessoal:\n\nCargos:\n\n... Número de lugares\n\nSecretário judicial ... 1\n\nEscrivão de direito ... 7\n\nEscrivão-adjunto (ver nota a) ... 8\n\nOficial judicial ... 6\n\nEscriturário judicial (ver nota a) ... 10\n\nTécnico auxiliar de BAD ... 1\n\nOficial-porteiro ... 1\n\nTelefonista ... 1\n\n(nota a) Afecto ao serviço do ministério público:\n\n1 lugar de escrivão-adjunto.\n\n2 lugares de escriturário judicial.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 150/1984, 2º Suplemento, Série I de 1984-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-275417), em vigor a partir de 1984-06-30"
+  },
+  "889496027": {
+   "fragment_id": "889496476",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nEm conformidade com o disposto no n.º 2 do artigo 88.º, na alínea c) do n.º 1 e no n.º 3 do artigo 130.º do Decreto-Lei n.º 385/82, de 16 de Setembro:\n\na) O mais moderno dos escriturários judiciais afectos ao serviço do ministério público no Tribunal da Comarca de Lamego é automaticamente provido em lugar de idêntica categoria nas secções de processos;\n\nb) O mais moderno dos escriturários judiciais afectos ao serviço do ministério público no Tribunal da Comarca de Torres Vedras é automaticamente provido em lugar de idêntica categoria nas secções de processos;\n\nc) O mais moderno dos escriturários judicias do quadro da secretaria do Tribunal da Comarca de Paços de Ferreira é automaticamente afecto ao serviço do ministério público no mesmo tribunal;\n\nd) Os oficiais judiciais afectos ao serviço do ministério público nos Tribunais das Comarcas de Torres Vedras, Viana do Castelo e Vila do Conde são automaticamente providos em lugares de idêntica categoria numa das secções de processos da secretaria do respectivo tribunal;\n\ne) Os 2 escriturários judiciais mais modernos do quadro da secretaria do Tribunal da Comarca de Viana do Castelo e o escriturário judicial mais moderno do quadro da secretaria do Tribunal da Comarca do Cartaxo serão transferidos para lugares vagos de idêntica categoria dos quadros de pessoal de secretarias de outros tribunais, salvo se, no prazo de 30 dias a contar da publicação da presente portaria, requererem a sua transferência para secretarias de tribunais sediados na mesma comarca ou o seu provimento no quadro da própria secretaria, caso em que se manterão em funções onde se encontram até à vacatura de lugares.\n\nMinistério da Justiça."
+  },
+  "889496025": {
+   "fragment_id": "889495874",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 9 de Maio de 1984.\n\nO Ministro da Justiça, Rui Manuel Parente Chancerelle de Machete."
+  }
+ }
+}

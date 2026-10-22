@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:595910:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-1140683475",
+ "dre_path": "/dr/detalhe/aviso/377-2005-595910",
+ "source_lastmod": "2026-10-07",
+ "versions": [
+  {
+   "date": "2005-10-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1140683675",
+    "1140683875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1140683675": {
+   "fragment_id": "1140683575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que a República do Azerbaijão depositou junto do Secretário-Geral do Conselho da Europa, em 4 de Julho de 2003, o seu instrumento de ratificação do Protocolo Adicional à Convenção Europeia de Auxílio Judiciário Mútuo em Matéria Penal, aberto para assinatura, em Estrasburgo, em 11 de Março de 1978, com a seguinte reserva e declaração:\n\n«Em conformidade com o disposto no n.º 2 do artigo 8.º do Protocolo, a República do Azerbaijão reserva-se a faculdade de só aceitar o título I relativamente a actos que constituam infracções penais nos termos da legislação penal da República do Azerbaijão, bem como de não aceitar os títulos II e III.\n\nA República do Azerbaijão declara que só poderá garantir a observância das disposições do Protocolo nos territórios ocupados pela República da Arménia após a desocupação de tais territórios (o mapa mostrando os territórios ocupados da República do Azerbaijão encontra-se em anexo).»\n\nTradução\n\n«In accordance with article 8, paragraph 2, of the Protocol, the Republic of Azerbaijan reserves the right to accept chapter I only in respect of acts which are offences under the criminal legislation of the Republic of Azerbaijan, and not to accept chapters II and III.\n\nThe Republic of Azerbaijan declares that it will be unable to guarantee compliance with the provisions of the Protocol in its territories occupied by the Republic of Armenia until these territories are liberated from that occupation (the schematic map of the occupied territories is enclosed).»\n\nEste Protocolo entrou em vigor para a República do Azerbaijão em 2 de Outubro de 2003.\n\nPortugal é Parte neste Protocolo, que foi aprovado, para ratificação, pela Resolução da Assembleia da República n.º 29/94, publicada no Diário da República, 1.ª série-A, n.º 186, de 12 de Agosto de 1994, e ratificado pelo Decreto do Presidente da República n.º 64/94, publicado no Diário da República, 1.ª série-A, n.º 186, de 12 de Agosto de 1994, tendo, em 27 de Janeiro de 1995, conforme aviso publicado no Diário da República, 1.ª série-A, n.º 178, de 3 de Agosto de 1995, ratificado o Protocolo."
+  },
+  "1140683875": {
+   "fragment_id": "1140683775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Direcção-Geral dos Assuntos Multilaterais, 6 de Novembro de 2005. - O Director de Serviços das Organizações Políticas Internacionais, Mário Rui dos Santos Miranda Duarte."
+  }
+ }
+}

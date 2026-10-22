@@ -1,0 +1,168 @@
+---
+schema_version: '1.0'
+id: pt:dre:279202:por
+title: Portaria n.º 17573
+short_title: null
+summary: Torna extensivo às províncias ultramarinas, observadas as alterações constantes da presente portaria, o artigo 1.º
+  do Decreto-Lei n.º 42756, que dá nova redacção a várias disposições do Código de Processo Penal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Administração Política e Civil - Serviços de Justiça
+proposing_entity: null
+official_number: '17573'
+official_date: null
+publication_date: '1960-02-04'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 28/1960, Série I de 1960-02-04
+  number: '28'
+  series: I
+  supplement: null
+  pages: 597 - 598
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/02/02800/05970598.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '279202'
+  dre_path: /dr/detalhe/portaria/17573-1960-279202
+  internal: pt:dre:279202:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17573-1960-279202
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17573-1960-279202
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1960-02-04T00:00:00Z'
+integrity:
+  source_sha256: 9037f788819a146567ea0abcb133da9e3f4d1a48b664180764d6292d9a530245
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-17573-279202.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17573
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, ao abrigo do disposto no n.º III da base LXXXVIII da Lei Orgânica do Ultramar Português, o seguinte:
+
+1.º - 1. É tornado extensivo às províncias ultramarinas o artigo 1.º do [Decreto-Lei n.º 42756](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42756-1959-441897), de 23 de Dezembro de 1959, com as alterações constantes deste número respeitantes a alguns dos artigos do Código de Processo Penal modificados por aquele artigo 1.º
+
+2. Os artigos 83.º, § 10.º, 316.º, 563.º, 564.º, 566.º, 568.º, 569.º, 570.º e 571.º do Código de Processo Penal passam a ter a seguinte redacção:
+
+###### Art. 83.º ...
+
+§ 10.º As notificações aos magistrados do Ministério Público serão feitas pelos escrivães e todas as outras poderão ser efectuadas pelos oficiais de diligências ou agentes da autoridade por ordem do tribunal, podendo ainda os escrivães fazer a dos advogados e solicitadores que encontrem no edifício do tribunal.
+
+...
+
+###### Art. 316.º O juiz poderá impor, em despacho fundamentado, ao arguido a quem admitir caução a obrigação de residir fora da freguesia, concelho ou circunscrição onde cometeu o delito ou onde residem os ofendidos, os cônjuges deste, seus ascendentes ou descendentes, ou a obrigação de, conforme as circunstâncias, não se ausentar da residência ou da província sem prévia autorização do magistrado que presidir às diligências do processo, a qual, em casos urgentes, pode ser requerida e concedida verbalmente, desde que fique consignada nos autos por cota rubricada pelo juiz.
+
+...
+
+###### Art. 563.º Se o réu, acusado em qualquer processo que não seja o sumário, tendo sido devidamente notificado para o julgamento, não comparecer nem justificar a falta, observar-se-á o disposto nos artigos 317.º e seguintes, ou no artigo 294.º e § único, ou no artigo 298.º, conforme os casos, e se, decorridos dois meses, tratando-se de processo de querela ou de polícia correccional para julgamento dos crimes enumerados no artigo 64.º do Código de Processo Penal, ou um mês, se de outra forma de processo se tratar, não tiver sido preso, será julgado à revelia, no mesmo processo, designando-se logo novo dia para julgamento.
+
+###### Art. 564.º O julgamento será anunciado com dez dias de antecedência, pelo menos, por um edital afixado à porta do tribunal e também por outro afixado à porta da última residência do réu, se for conhecida.
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+§ 4.º ...
+
+§ 5.º ...
+
+§ 6.º ...
+
+...
+
+###### Art. 566.º Se o réu estiver pràticamente impossibilitado de comparecer na audiência de julgamento por idade, moléstia ou por outra causa justificativa, como a de residir em lugar afastado da área da respectiva comarca, poderá ser interrogado no domicílio ou dispensado de comparecer em julgamento, procedendo-se a este como se estivesse presente, nos termos do § 1.º do artigo 418.º, sem prejuízo, porém, de ulterior determinação sobre a sua comparência, se o tribunal a reputar necessária ao esclarecimento da verdade.
+
+§ 1.º Se a causa de não comparência do réu for de natureza temporária, adiar-se-á o julgamento pelo tempo reputado necessário, a requerimento do Ministério Público, do réu ou do assistente, ou oficiosamente, em despacho fundamentado, e, decorridos dois meses, quando o processo for de querela ou polícia correccional para julgamento dos crimes enumerados no artigo 64.º do Código de Processo Penal, ou um mês, quando for outra a forma do processo, a contar do dia para esse julgamento designado e a que de novo tenha faltado, proceder-se-á ao julgamento à revelia no dia que for fixado, dentro dos quinze subsequentes ao decurso daqueles prazos, devendo o réu ser notificado para o julgamento com essa cominação.
+
+§ 2.º ...
+
+...
+
+###### Art. 568.º Nos casos de ausência não justificada a que se referem os artigos 563.º e 565.º, tratando-se de processo de querela ou polícia correccional para julgamento dos crimes enumerados no artigo 64.º do Código de Processo Penal, a prova será obrigatòriamente reduzida a escrito; nos demais processos, a prova apenas se reduzirá a escrito quando o representante da acusação ou da defesa declarar expressamente que não prescinde de recurso.
+
+Nos casos de ausência justificada dos artigos 566.º e 567.º e, bem assim, naqueles em que seja dispensada a comparência do acusado em julgamento ou a lei o mande julgar como se estivesse presente não se empregará o processo de ausentes, devendo observar-se no julgamento e termos ulteriores o disposto nos artigos 400.º e seguintes, fazendo-se ao defensor constituído ou nomeado todas as notificações que devessem fazer-se ao acusado e executando-se a decisão logo que transite.
+
+###### Art. 569.º Os acusados em qualquer processo, salvo os processos de querela e de polícia correccional para julgamento dos crimes enumerados no artigo 64.º do Código de Processo Penal, que dentro de 30 dias, a contar da data do primeiro despacho que designar dia para julgamento, não puderem, por qualquer motivo, ser notificados do mesmo despacho serão julgados à revelia, observando-se o disposto no artigo 564.º e seus parágrafos, mas os depoimentos só serão escritos quando o representante da acusação ou da defesa declarar expressamente que não prescinde de recurso.
+
+###### Art. 570.º Se um réu pronunciado por infracção a que corresponda qualquer dos processos exceptuados no artigo antecedente não for preso nem se apresentar voluntàriamente em juízo dentro de 2 meses, a contar da data da pronúncia definitiva, será notificado no mesmo processo, por éditos, para se apresentar num prazo entre 10 e 30 dias, sob pena de se prosseguir no processo à sua revelia.
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+§ 4.º ...
+
+§ 5.º ...
+
+...
+
+###### Art. 571.º Nas hipóteses previstas no artigo anterior, o processo seguirá, conforme os casos, os termos do processo de querela ou do de polícia correccional para julgamento dos crimes enumerados no artigo 64.º do Código de Processo Penal, termos esses previstos neste mesmo código, com as notificações constantes do artigo 564.º e seus §§ 1.º a 4.º e mais as seguintes:
+
+§ 1.º (Eliminado).
+
+§ 2.º ...
+
+§ 3.º ...
+
+...
+
+§ 4.º Se o réu requerer novo julgamento, o juiz, apresentado o requerimento, suspenderá imediatamente a execução da sentença e, ouvido o Ministério Público e o assistente, havendo-o, designará dia para o julgamento, nos termos estabelecidos para o processo de querela.
+
+§ 5.º ...
+
+...
+
+2.º É também tornado extensivo às províncias ultramarinas o artigo 244.º do Estatuto Judiciário da Metrópole, na redacção dada pelo artigo 2.º do citado [Decreto-Lei n.º 42756](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42756-1959-441897).
+
+Ministério do Ultramar, 4 de Fevereiro de 1960. - O Ministro do Ultramar, Vasco Lopes Alves.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Vasco Lopes Alves.

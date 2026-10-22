@@ -1,0 +1,419 @@
+---
+schema_version: '1.0'
+id: pt:dre:182213906:por
+title: Decreto-Lei n.º 30-A/2022
+short_title: null
+summary: Aprova medidas excecionais que visam assegurar a simplificação dos procedimentos de produção de energia a partir
+  de fontes renováveis
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ambiente e Ação Climática
+official_number: 30-A/2022
+official_date: null
+publication_date: '2022-04-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 75/2022, 2º Suplemento, Série I de 2022-04-18
+  number: '75'
+  series: I
+  supplement: 2º Suplemento
+  pages: 8-(2) a 8-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/04/07502/0000200006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-12-31'
+version_history:
+  file: decreto-lei-30-a-2022.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2022-04-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-10-20'
+    amending: pt:dre:202357817:por
+    amending_title: Decreto-Lei n.º 72/2022
+    changes:
+    - Adita Artigo 4.º-A
+    - Adita Artigo 4.º-B
+  - date: '2023-02-11'
+    amending: pt:dre:207272800:por
+    amending_title: Decreto-Lei n.º 11/2023
+    changes:
+    - Adita Artigo 4.º-C
+    - Adita Artigo 4.º-D
+  - date: '2024-03-20'
+    amending: pt:dre:856211139:por
+    amending_title: Decreto-Lei n.º 22/2024
+    changes:
+    - Altera Artigo 11.º
+  - date: '2024-12-31'
+    amending: pt:dre:901535571:por
+    amending_title: Decreto-Lei n.º 116/2024
+    changes:
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/30-a/2022/p/cons/20241230/pt/html
+  oj: null
+  dre: '182213906'
+  dre_path: /dr/detalhe/decreto-lei/30-a-2022-182213906
+  internal: pt:dre:182213906:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-a-2022-182213906
+  metadata_url: https://data.dre.pt/eli/dec-lei/30-a/2022/p/cons/20241230/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-182491268
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-182491268
+  retrieved_at: '2026-10-22T12:50:23Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 046cd8ca916576838f8f146505b9c7aaa55e84103cee6756ea1f29f640c68916
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:50:23Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-30-a-2022.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Distribuição de Energia Elétrica
+- Gás Natural
+- Armazenagem
+- Energia não Poluente
+- Energia Elétrica
+- Desenvolvimento Rural
+- Consumo de Energia
+- Energia Renovável
+- Equipamento Eléctrico
+- Especificação Técnica
+- Projeto de Investimento
+- Direção Geral de Energia e Geologia
+- Avaliação de Impacte Ambiental
+- Licenciamento
+- Normas de Segurança
+- Desenvolvimento Económico
+- Produção de Energia Elétrica
+- Rede Elétrica de Serviço Público
+- Regime Jurídico
+- Desenvolvimento Local
+- Sistema Elétrico Nacional
+- Comércio
+- Transporte de Energia
+- Centro Eletroprodutor
+- Operador de Energia Elétrica
+- Produção de Hidrogénio
+- Hidrogénio
+relationships:
+- type: amended_by
+  target: pt:dre:182605798:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-a-2022-182605798
+  date: '2022-04-26'
+- type: amended_by
+  target: pt:dre:202357817:por
+  label: Adita Artigo 4.º-A; Adita Artigo 4.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2022-202357817
+  date: '2022-10-19'
+- type: amended_by
+  target: pt:dre:207272800:por
+  label: Adita Artigo 4.º-C; Adita Artigo 4.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800
+  date: '2023-02-10'
+- type: amended_by
+  target: pt:dre:856211139:por
+  label: Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2024-856211139
+  date: '2024-03-19'
+- type: amended_by
+  target: pt:dre:901535571:por
+  label: Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2024-901535571
+  date: '2024-12-30'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2013/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2013/08/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/141/2010/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/141/2010/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/15/2022/01/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/2022/01/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/151-b/2013/10/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/151-b/2013/10/31/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:50:23Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 30-A/2022
+
+Decreto-Lei n.º 30-A/2022
+
+de 18 de abril
+
+Sumário: Aprova medidas excecionais que visam assegurar a simplificação dos procedimentos de produção de energia a partir de fontes renováveis.
+
+Na comunicação da Comissão Europeia ao Parlamento Europeu, ao Conselho Europeu, ao Comité Económico e Social Europeu e ao Comité das Regiões REPowerEU: ação conjunta europeia para uma energia mais segura e mais sustentável a preços mais acessíveis, estabelecem-se novas ações destinadas a intensificar a produção de energia verde, diversificar o aprovisionamento e reduzir a procura.
+
+Considerando que o aumento dos preços dos combustíveis fósseis afeta de forma particularmente intensa os consumidores vulneráveis ou em situação de pobreza energética, agravando as disparidades e as desigualdades na União Europeia e que as empresas, em particular as indústrias energeticamente intensivas, bem como o setor agroalimentar enfrentam custos de produção mais elevados, a Comissão Europeia considerou que a aceleração da transição ecológica diminuirá as emissões, reduzirá a dependência dos combustíveis fósseis importados e constituirá uma proteção contra os aumentos abruptos de preços.
+
+Para o efeito, propõe-se, o aumento da produção de biometano e de hidrogénio renovável, a implantação da energia solar e eólica, a implantação de soluções inovadoras baseadas no hidrogénio e da eletricidade de fontes renováveis a custos competitivos em setores industriais, bem como a simplificação e a redução dos prazos dos procedimentos de concessão de licenças, a qual constitui uma pré-condição para a aceleração dos projetos de energias renováveis.
+
+Neste contexto, e em linha com as medidas preconizadas pela Comissão Europeia, o presente decreto-lei vem adequar a avaliação caso a caso referente à submissão dos projetos de centros eletroprodutores, determinando que fora das áreas sensíveis a pronúncia da autoridade de avaliação de impacte ambiental (AIA), até agora sempre obrigatória, apenas ocorrerá a pedido da entidade licenciadora quando haja indícios de que o projeto é suscetível de provocar impactes significativos no ambiente.
+
+Promove-se o devido enquadramento nos regimes ambientais, de AIA e de prevenção e controlo integrados da poluição, da nova realidade constituída pelos projetos de produção de hidrogénio por eletrólise da água cujo processo produtivo é isento de perigosidade e de poluição e não tinha, até agora, o adequado enquadramento nestes regimes jurídicos.
+
+Estabelece-se a integração de procedimentos administrativos de emissão de pareceres e autorizações no procedimento de AIA ou de análise de incidências ambientais quando as entidades competentes neles têm intervenção e, bem assim, diminuem-se os prazos no âmbito de regimes setoriais aplicáveis atribuindo-se à ausência de atuação a consequência de não oposição ao prosseguimento do procedimento.
+
+Ainda, no sentido de acelerar a entrada em exploração dos centros eletroprodutores de fontes de energia renováveis, instalações de armazenamento, unidades de produção para autoconsumo, dispensa-se, para efeitos da entrada em exploração, a prévia emissão de licença de exploração ou de certificado de exploração a emitir pela Direção-Geral de Energia e Geologia, desde que o operador de rede confirme a existência de condições técnicas para a ligação à Rede Elétrica de Serviço Público (RESP).
+
+Estabelecem-se determinações mínimas a observar na instalação dos centros eletroprodutores de fontes de energia renováveis, unidades de produção para autoconsumo, independentemente de haver lugar a procedimento de AIA ou de análise de incidências ambientais que asseguram a proteção dos recursos naturais, solo, água e território e a preservação da biodiversidade, impondo-se, ainda, um afastamento obrigatório dos aglomerados populacionais.
+
+Inovadoramente e em linha com as melhores práticas, determina-se a obrigatoriedade de os projetos serem instruídos com propostas de envolvimento das populações locais, designadamente através da exploração de atividades tradicionais como a pastorícia de ovelhas e galinhas e a apicultura; disponibilização de áreas para plantação de espécies autóctones com valor económico ou hortas comunitárias; projetos de conservação da natureza e biodiversidade; e disponibilização de eletricidade a comunidades de energia ou indústrias locais ou de coinvestimento das populações residentes.
+
+Por fim, possibilita-se que os centros eletroprodutores eólicos existentes possam injetar na RESP toda a sua produção sem limitação da capacidade de injeção administrativamente atribuída, de modo a garantir a máxima produção possível em função da potência instalada de cada centro eletroprodutor.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece medidas excecionais que visam assegurar a instalação e entrada em funcionamento de:
+
+a) Centros eletroprodutores de fontes de energia renováveis, instalações de armazenamento, unidades de produção para autoconsumo (UPAC) e respetivas linhas de ligação à Rede Elétrica de Serviço Público (RESP);
+
+b) Instalações de produção de hidrogénio por eletrólise a partir da água;
+
+c) Infraestruturas de transporte e distribuição de eletricidade.
+
+###### Artigo 2.º — Avaliação de impacte ambiental
+
+1 - No caso de projetos de instalação de centros eletroprodutores de fontes de energia renováveis, instalações de armazenamento, de UPAC, as respetivas linhas de ligação à RESP, bem como os projetos de produção de hidrogénio por eletrólise a partir da água, não localizados em áreas sensíveis e abaixo dos limiares estabelecidos no anexo ii ao Decreto-Lei n.º 151-B/2013, de 31 de outubro, na sua redação atual, a entidade licenciadora, para efeitos de apreciação prévia e decisão de sujeição a avaliação de impacte ambiental (AIA), pode solicitar o parecer prévio à autoridade de AIA, nos termos do n.º 3 do artigo 3.º do referido decreto-lei, quando justificadamente considere que há indícios de que o projeto é suscetível de provocar impactes significativos no ambiente.
+
+2 - As alterações ou ampliações dos projetos de produção de hidrogénio por eletrólise a partir da água são abrangidas pelo disposto no número anterior sempre que a alteração ou ampliação, em si mesma ou conjuntamente com o projeto existente, exceda os limiares fixados no n.º 3 do anexo ii ao Decreto-Lei n.º 151-B/2013 na sua redação atual.
+
+3 - Sem prejuízo do disposto no número anterior, a produção de hidrogénio por eletrólise a partir da água quando integrada em estabelecimento industrial existente não constitui uma alteração ao projeto para efeito do disposto no n.º 4 do artigo 1.º do Decreto-Lei n.º 151-B/2013, de 31 de outubro, na sua redação atual, exceto se implicar o aumento da área do estabelecimento existente.
+
+4 - A emissão de pareceres e autorizações prevista nos regimes jurídicos setoriais aplicáveis às atividades e infraestruturas previstas no artigo 1.º, efetua-se no âmbito do procedimento de AIA ou de análise de incidências ambientais quando este procedimento se tenha realizado em fase de projeto de execução e as entidades competentes nele hajam participado, esgotando-se nessa sede a respetiva intervenção.
+
+5 - A consulta pública realizada no âmbito do procedimento de AIA ou de análise de incidências ambientais dispensa a posterior publicitação, mediante éditos, prevista no procedimento de licenciamento do estabelecimento de linhas de transporte ou distribuição de eletricidade.
+
+###### Artigo 3.º — Pareceres estabelecidos em regimes jurídicos setoriais
+
+1 - Sem prejuízo do disposto no n.º 4 do artigo anterior, os pareceres obrigatórios previstos nos regimes jurídicos setoriais aplicáveis às atividades e infraestruturas previstas no artigo 1.º são emitidos pelas entidades competentes no prazo de 10 dias após receção do pedido para o efeito.
+
+2 - A ausência de emissão de parecer, no prazo estabelecido no número anterior, equivale a não oposição ao pedido que seguirá os respetivos trâmites ulteriores.
+
+###### Artigo 4.º — Procedimentos de controlo prévio aplicáveis às atividades de produção, armazenamento, autoconsumo de eletricidade
+
+1 - A entrada em exploração dos centros eletroprodutores de fontes de energia renováveis, das instalações de armazenamento e das UPAC não depende de prévia emissão de licença de exploração nem de certificado de exploração, podendo iniciar-se após comunicação pelo operador de rede de que estão reunidas as condições de ligação e injeção de energia na rede e mediante prévia notificação à Direção-Geral da Energia e Geologia (DGEG) que a comunica, de imediato, ao gestor global do Sistema Elétrico Nacional e ao operador de rede competente.
+
+2 - O disposto no número anterior não prejudica a aplicação do regime estabelecido para testes e ensaios prévios e para o regime de exploração experimental, devendo a decisão da DGEG ser emitida no prazo de 10 dias, contados da data da receção da prévia notificação, e considerando-se, na falta de pronúncia dentro do prazo, o pedido tacitamente deferido.
+
+3 - A licença de exploração ou o certificado de exploração são requeridos no prazo de três anos após a comunicação referida no n.º 1, podendo a realização de vistoria prévia ser dispensada pela DGEG.
+
+4 - A entrada em exploração do centro eletroprodutor, instalação de armazenamento ou UPAC ocorre no prazo estabelecido para a emissão da licença de exploração ou certificado de exploração, nos termos previstos no Decreto-Lei n.º 15/2022, de 14 de janeiro, sob pena de caducidade do título de reserva de capacidade de injeção na RESP ou do registo prévio nos termos estabelecidos naquele decreto-lei.
+
+5 - O disposto no número anterior é aplicável aos procedimentos abrangidos pelo n.º 4 do artigo 276.º do Decreto-Lei n.º 15/2022, de 14 de janeiro, devendo a entrada em exploração ocorrer dentro do prazo estabelecido na licença de produção e respetivas prorrogações ou, no caso de registo prévio no prazo para emissão do respetivo certificado de exploração e respetivas prorrogações, sob pena de caducidade do título de reserva de capacidade de injeção na RESP ou do registo prévio nos termos estabelecidos naquele decreto-lei.
+
+6 - A entrada em exploração do centro eletroprodutor ou da instalação de armazenamento nos termos previstos nos números anteriores no âmbito dos procedimentos concorrenciais para atribuição de pontos de injeção na RESP determina a aplicação do regime remuneratório correspondente nos termos previstos nas peças do procedimento.
+
+###### Artigo 4.º-A — Procedimento de controlo prévio de operações urbanísticas
+
+1 - Sem prejuízo do disposto no artigo 48.º do Decreto-Lei n.º 15/2022, de 14 de janeiro, e no n.º 11, a instalação de centros eletroprodutores de fontes de energia renováveis, de instalações de armazenamento, de UPAC e de instalações de produção de hidrogénio por eletrólise a partir da água está sujeita a controlo prévio, mediante comunicação prévia, nos termos dos artigos 8.º a 12.º-A, 13.º-B, 34.º e 35.º do Regime Jurídico da Urbanização e Edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, com as adaptações previstas nos números seguintes.
+
+2 - A aplicação do disposto no presente artigo não depende da existência de um pedido de informação prévia.
+
+3 - O interessado deve entregar, com a comunicação prévia, todos os pareceres, autorizações ou aprovações legalmente exigidas.
+
+4 - No prazo de oito dias a contar da apresentação da comunicação prévia, o presidente da câmara municipal profere despacho:
+
+a) De aperfeiçoamento do pedido, sempre que o requerimento não contenha a identificação do requerente, do pedido ou da localização da operação urbanística a realizar, bem como no caso de faltar parecer, autorização, licença ou registo legalmente exigido, que seja indispensável ao conhecimento da pretensão e cuja falta não possa ser oficiosamente suprida;
+
+b) De rejeição liminar, oficiosamente ou por indicação do gestor do procedimento, nas seguintes situações:
+
+i) Falta de outros elementos instrutórios não referidos na alínea anterior; ou
+
+ii) Quando, da análise dos elementos instrutórios, resultar que o pedido é manifestamente contrário às normas legais ou regulamentares aplicáveis.
+
+5 - A comunicação prévia é rejeitada, no prazo de 30 dias após o respetivo saneamento, quando verificado um dos fundamentos previstos nas alíneas a) a c) do n.º 1 do artigo 24.º do RJUE.
+
+6 - A rejeição da comunicação prévia pode ainda ocorrer com fundamento na afetação negativa do património paisagístico, exceto se:
+
+a) O projeto tiver sido objeto de declaração de impacte ambiental favorável ou favorável condicionada, emitida de modo expresso ou tácito; ou,
+
+b) O território municipal apresentar uma área inferior a 2 % da totalidade afeta, mediante projetos instalados ou com título de controlo prévio de operações urbanísticas eficaz, a projetos identificados no n.º 1.
+
+7 - Para efeitos do disposto na alínea b) do número anterior, são contabilizados todos os projetos, incluindo os anteriormente instalados e aqueles que passam a estar isentos de controlo prévio, exceto aqueles cuja instalação constitui uma obra de escassa relevância urbanística, nos termos do artigo 48.º do Decreto-Lei n.º 15/2022, de 14 de janeiro.
+
+8 - A intenção de rejeição da comunicação prévia é notificada ao interessado, no prazo de 20 dias a contar do saneamento liminar, para audiência prévia a realizar no prazo de 5 dias.
+
+9 - Na ausência de rejeição expressa dentro do prazo previsto no n.º 5, o interessado pode dar início às respetivas obras.
+
+10 - Nos casos previstos no número anterior:
+
+a) É disponibilizada no sistema informático previsto no artigo 8.º-A do RJUE a informação de que a comunicação não foi rejeitada;
+
+b) Não é aplicável o disposto nos n.os 8 e 9 do artigo 35.º do RJUE, sem prejuízo dos poderes de fiscalização da conformidade da obra com o teor da comunicação prévia.
+
+11 - Os projetos identificados no n.º 1 com potência instalada igual ou inferior a 1 MW estão isentos de controlo prévio de operações urbanísticas.
+
+12 - Nos casos previstos no número anterior, o início da instalação é previamente comunicado, pelo interessado, à câmara municipal territorialmente competente, com os seguintes elementos:
+
+a) A localização do equipamento;
+
+b) A cércea e a área de implantação do equipamento;
+
+c) O termo de responsabilidade onde o apresentante da notificação declare conhecer e cumprir as regras legais e regulamentares aplicáveis à instalação das estruturas.
+
+13 - Para efeitos do disposto no n.º 4 do artigo seguinte, a câmara municipal dá conhecimento à DGEG das notificações previstas no número anterior.
+
+14 - A instalação dos projetos referidos no n.º 1 respeita as normas legais e regulamentares aplicáveis, designadamente as referentes a servidões e restrições de utilidade pública, ao património cultural e arqueológico e às áreas sensíveis, tal como definidas na alínea a) do artigo 2.º do Regime Jurídico da Avaliação de Impacte Ambiental, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro, na sua redação atual, bem como as normas técnicas de construção.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2022 - Diário da República n.º 202/2022, Série I de 2022-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2022-202357817), em vigor a partir de 2022-10-20
+
+###### Artigo 4.º-B — Compensação aos municípios
+
+1 - A instalação de centros eletroprodutores de fontes de energia renováveis e de instalações de armazenamento que obtenha título de controlo prévio de operações urbanísticas ou que tenha sido isenta de controlo prévio nos termos do artigo anterior está sujeita a uma compensação aos municípios que acresce à prevista no artigo 49.º do Decreto-Lei n.º 15/2022, de 14 de janeiro.
+
+2 - A compensação referida no número anterior:
+
+a) É única e corresponde ao valor de (euro) 13 500 por MVA de potência de ligação atribuída;
+
+b) É suportada pelo Fundo Ambiental.
+
+3 - A transferência da compensação prevista no presente artigo, pelo Fundo Ambiental, para os municípios, efetua-se a partir do dia 1 de janeiro de 2023.
+
+4 - Para efeitos da atribuição da compensação prevista no presente artigo, a DGEG informa o Fundo Ambiental dos títulos de controlo prévio de operações urbanísticas emitidos e das notificações previstas no n.º 13 do artigo anterior, bem como da potência de ligação atribuída.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2022 - Diário da República n.º 202/2022, Série I de 2022-10-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2022-202357817), em vigor a partir de 2022-10-20
+
+###### Artigo 4.º-C — Prazo especial de declaração de impacte ambiental dos projetos sujeitos a análise ambiental de alternativas de corredores
+
+A declaração de impacte ambiental dos projetos de transporte de energia elétrica sujeitos a análise ambiental de alternativas de corredores deve ser emitida no prazo previsto na alínea b) do n.º 2 do artigo 19.º do regime jurídico da AIA, sob pena de deferimento tácito.
+
+> Aditado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01
+
+###### Artigo 4.º-D — Regime especial para centros eletroprodutores destinados a autoconsumo
+
+Os centros eletroprodutores destinados a autoconsumo que utilizem fonte primária solar estão isentos de AIA, quando:
+
+a) Sejam instalados em estruturas edificadas ou em edifícios, exceto no caso de edifícios classificados ou em vias de classificação e respetivas zonas de proteção; ou
+
+b) Sejam instalados em áreas artificiais, existentes ou futuras, tais como conjuntos comerciais, grandes superfícies comerciais, parques ou loteamentos industriais, plataformas logísticas, parques de campismo e parques de estacionamento, exceto em superfícies de massas de água artificiais.
+
+> Aditado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-02-11, produz efeitos a partir de 2023-03-01
+
+###### Artigo 5.º — Regras técnicas a observar na instalação de centros eletroprodutores de fontes de energia renováveis e de unidades de produção para autoconsumo
+
+A instalação de centros eletroprodutores de fontes de energia renováveis e de UPAC obedece às regras técnicas aplicáveis e independentemente de ter havido lugar ao procedimento AIA ou de análise de incidências ambientais observa as seguintes determinações:
+
+a) A modelação dos terrenos garante a infiltração e escoamento superficial das águas através da rede hidrográfica;
+
+b) A preservação do recurso solo vivo com o revestimento natural adequado, designadamente através da plantação ou fomento de vegetação natural espontânea, em toda a área de intervenção;
+
+c) A vedação das áreas intervencionadas deverá preferencialmente ser efetuada mediante recurso a sebes vivas, sem prejuízo da possibilidade de utilização de vedações artificiais que asseguram a passagem da fauna através da seleção de malhas de vedação adequadas para o efeito até, pelo menos, 50 cm em altura;
+
+d) Preferencialmente, manter um distanciamento mínimo de 0,1 km em redor dos aglomerados rurais e do solo urbano exceto nos casos em que o solo urbano seja destinado à instalação de atividade económica;
+
+e) Concentração territorial do centro eletroprodutor de fontes de energia renováveis, instalações de armazenamento e de UPAC garantindo a redução da área ocupada, bem como a diminuição do número e dimensão das linhas de ligação do centro eletroprodutor à RESP de modo a assegurar a maior proteção do recurso território e do ambiente.
+
+> Retificado pelo/a [Declaração de Retificação n.º 14-A/2022 - Diário da República n.º 80/2022, 1º Suplemento, Série I de 2022-04-26](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-a-2022-182605798), em vigor a partir de 2022-04-19, produz efeitos a partir de 2022-04-19
+
+###### Artigo 6.º — Projeto de envolvimento das comunidades locais
+
+1 - O procedimento de controlo prévio para a instalação de centros eletroprodutores de fontes de energia renováveis e de UPAC com potência instalada igual ou superior a 20 MW ou, no caso de centro eletroprodutor de fonte primária eólica com pelo menos 10 torres, é instruído com uma proposta de projetos de envolvimento das comunidades locais.
+
+2 - O projeto de envolvimento das comunidades locais pode incluir, entre outras, medidas que promovam:
+
+a) A compatibilização e utilização do espaço do centro eletroprodutor ou da UPAC para exploração pela população residente de atividades tradicionais como a pastorícia de ovelhas e galinhas, a apicultura, a disponibilização de áreas para plantação de espécies autóctones com valor económico ou hortas comunitárias;
+
+b) Geração de emprego local especialmente durante a operação e manutenção do centro eletroprodutor com recurso a população local;
+
+c) Promoção da biodiversidade com envolvimento das associações e população locais bem como das escolas localizadas na proximidade do centro eletroprodutor ou da UPAC;
+
+d) Disponibilização de eletricidade produzida pela central ou de excedentes da UPAC para comunidades de energia ou para indústrias locais, criando fatores de competitividade local;
+
+e) Conceder a opção de coinvestimento no centro eletroprodutor à população local.
+
+3 - O disposto nos números anteriores não prejudica a aplicação do disposto no artigo 49.º do Decreto-Lei n.º 15/2022, de 14 de janeiro.
+
+###### Artigo 7.º — Prevenção e controlo integrados da poluição
+
+A produção de hidrogénio por eletrólise a partir da água, com recurso a eletricidade com origem em fontes de energia renováveis, não se encontra sujeita ao disposto no Decreto-Lei n.º 127/2013, de 30 de agosto.
+
+###### Artigo 8.º — Centros eletroprodutores eólicos
+
+1 - Os centros eletroprodutores eólicos podem injetar energia na RESP acima da potência de ligação atribuída, aplicando-se o disposto nos artigos 72.º e 73.º do Decreto-Lei n.º 15/2022, de 14 de janeiro, com as necessárias adaptações.
+
+2 - O disposto no número anterior não prejudica o regime aplicável à energia adicional, designadamente o previsto no artigo 65.º do Decreto-Lei n.º 15/2022, de 14 de janeiro.
+
+###### Artigo 9.º — Incorporação de biometano e hidrogénio por eletrólise a partir da água
+
+1 - Durante a vigência do presente decreto-lei os comercializadores de gás, cujo fornecimento seja superior a 2000 GWh por ano, estão obrigados a incorporar no seu aprovisionamento uma percentagem não inferior a 1 % de biometano ou hidrogénio por eletrólise a partir da água em volume de gás natural fornecido, nos termos do calendário de incorporação a definir por despacho do diretor-geral de energia e geologia.
+
+2 - O cumprimento da obrigação prevista no número anterior é aferido mediante o cancelamento da respetiva garantia de origem, nos termos do Decreto-Lei n.º 141/2010, de 31 de dezembro, na sua redação atual.
+
+###### Artigo 10.º — Acompanhamento
+
+No prazo de 180 dias após a entrada em vigor do presente decreto-lei, a DGEG, em articulação com a Agência Portuguesa do Ambiente, I. P., entrega um relatório ao membro do Governo responsável pelas áreas do ambiente e da energia relativamente à efetividade, ganhos administrativos e impactes ambientais da aplicação das medidas excecionais.
+
+###### Artigo 11.º — Entrada em vigor e vigência
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2026.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 116/2024 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-2024-901535571), em vigor a partir de 2024-12-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2024 - Diário da República n.º 56/2024, Série I de 2024-03-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2024-856211139), em vigor a partir de 2024-03-20
+
+Visto e aprovado em Conselho de Ministros de 8 de abril de 2022. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro - Maria do Céu de Oliveira Antunes.
+
+Promulgado em 14 de abril de 2022.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 18 de abril de 2022.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+115234912

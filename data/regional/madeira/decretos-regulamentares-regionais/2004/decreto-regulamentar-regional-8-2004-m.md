@@ -1,0 +1,359 @@
+---
+schema_version: '1.0'
+id: pt:dre:218312:por
+title: Decreto Regulamentar Regional n.º 8/2004/M
+short_title: null
+summary: Aprova a orgânica da Direcção Regional para a Administração Pública de Porto Santo
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 8/2004/M
+official_date: null
+publication_date: '2004-04-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 81/2004, Série I-B de 2004-04-05
+  number: '81'
+  series: I
+  supplement: null
+  pages: 2160 - 2165
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/04/081b00/21602165.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/8/2004/04/05/m/dre/pt/html
+  oj: null
+  dre: '218312'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/8-2004-218312
+  internal: pt:dre:218312:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2004-218312
+  metadata_url: https://data.dre.pt/eli/decregulreg/8/2004/04/05/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2004-218312
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-12-15T00:00:00Z'
+integrity:
+  source_sha256: 8512036a98c6b5adc3a941b21915f88e23a2649a76bcecebb9c5517810f99a3c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2004/DRE-2004-8-218312.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Regional da Administração Pública
+- Extinção de Serviços
+- Integração de Trabalhadores
+- Delegação do Governo Regional
+- Orgânica
+- Porto Santo
+- Madeira.região Autónoma
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:444198:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/5/2001/03/24/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/5/2001/03/24/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 15
+  section_count: 8
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 8/2004/M
+
+Aprova a orgânica da Direcção Regional para a Administração Pública do Porto Santo
+
+A dupla insularidade que caracteriza a ilha de Porto Santo determina a necessidade de criação de um organismo que, por um lado, coordene a actuação de todos os serviços do Governo Regional instalados naquela ilha e, por outro, estabeleça a devida articulação entre os serviços centrais do Executivo regional e todos os serviços seus dependentes, localizados em Porto Santo, de forma a assegurar uma correcta execução das políticas públicas devidamente aprovadas.
+
+Até ao presente, aquela função foi desempenhada por uma Delegação do Governo Regional que exerceu a coordenação dos serviços sob a sua superintendência, com os resultados positivos indesmentíveis que se conhece.
+
+Contudo, as limitações impostas pela estrutura orgânica da referida Delegação, bem como a evolução da ilha, aconselham a uma profunda reestruturação dos serviços, redefinindo objectivos e competências, de forma a progredir a eficiência e eficácia das respectivas funções. Em conformidade, optou-se pela extinção da Delegação do Governo Regional e a criação, em sua substituição, de uma direcção regional.
+
+Visa-se, assim, reforçar a articulação entre os serviços centrais do Governo Regional e os localizados na ilha do Porto Santo, passando o acompanhamento e a implementação das respectivas políticas pelo novo departamento a criar pelo presente diploma.
+
+Nestes termos:
+
+O Governo Regional da Madeira, ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 5 do artigo 231.º, ambos da Constituição da República Portuguesa, e da alínea c) do artigo 69.º e do n.º 1 do artigo 70.º, ambos do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, decreta o seguinte:
+
+###### Artigo 1.º
+
+É aprovada a orgânica da Direcção Regional para a Administração Pública de Porto Santo, publicada em anexo ao presente diploma e do qual faz parte integrante.
+
+###### Artigo 2.º
+
+1 - É extinta a Delegação do Governo Regional na ilha do Porto Santo, sendo revogado o capítulo IV da orgânica da Vice-Presidência do Governo, aprovada pelo [Decreto Regulamentar Regional n.º 5/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2001-348305), de 24 de Março.
+
+2 - Todas as referências feitas à Delegação do Governo Regional na Ilha de Porto Santo, no [Decreto Regulamentar Regional n.º 5/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2001-348305), de 24 de Março, que aprovou a orgânica da Vice-Presidência do Governo, consideram-se reportadas à Direcção Regional para a Administração Pública do Porto Santo.
+
+3 - São suprimidas as referências feitas à Delegação do Governo na Ilha de Porto Santo constantes do n.º 2 do artigo 3.º e do n.º 1 do artigo 28.º da orgânica da Vice-Presidência do Governo.
+
+4 - Os direitos e obrigações assumidos pela Delegação do Governo na Ilha de Porto Santo até à data da entrada em vigor do presente diploma, transitam automaticamente para a Direcção Regional para a Administração Pública de Porto Santo, mantendo-se aquela em funcionamento até à posse do director regional.
+
+###### Artigo 3.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 4 de Março de 2004.
+
+**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+
+**Assinado em 17 de Março de 2004.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**
+
+Orgânica da Direcção Regional para a Administração Pública de Porto Santo
+
+### CAPÍTULO I — Natureza, atribuições e competências
+
+###### Artigo 1.º — Natureza e atribuições
+
+A Direcção Regional para a Administração Pública de Porto Santo, doravante designada abreviadamente por DRAPS, é o órgão do Governo Regional, dependente da Vice-Presidência, ao qual cabe a superintendência e coordenação de todos os serviços do Governo Regional na Ilha de Porto Santo, assim como a articulação entre estes e os serviços centrais do Executivo regional.
+
+###### Artigo 2.º — Competências
+
+São competências da DRAPS:
+
+a) Apoiar o vice-presidente do Governo Regional na formulação e concretização das medidas de política, em todos os sectores, a implementar na ilha de Porto Santo;
+
+b) Promover a ligação funcional entre os serviços centrais do Governo Regional e os localizados na ilha de Porto Santo;
+
+c) Superintender em todos os serviços dependentes do Governo Regional, bem como acompanhar e avaliar o respectivo desempenho;
+
+d) Promover a necessária articulação entre todos os serviços do Governo Regional;
+
+e) Acompanhar a implementação das políticas aprovadas pelo Governo Regional para a ilha de Porto Santo;
+
+f) Contribuir para a melhoria da eficácia dos serviços dependentes do Governo Regional, propondo as medidas que se revelem adequadas e garantindo o seu cumprimento uma vez adoptadas;
+
+g) Efectuar estudos, propor medidas e definir as formas de actuação adequadas à realização dos seus objectivos;
+
+h) Programar e promover as acções necessárias à formação dos recursos humanos afectos à DRAPS;
+
+i) Programar e executar as acções relativas à gestão dos recursos humanos afectos à DRAPS;
+
+j) Promover as acções necessárias relativas ao aproveitamento e desenvolvimento dos recursos patrimoniais e financeiros afectos à DRAPS.
+
+### CAPÍTULO II — Órgãos e serviços
+
+#### SECÇÃO I — Estrutura geral
+
+###### Artigo 3.º — Estrutura orgânica
+
+A DRAPS é dirigida por um cargo de direcção superior de 1.º grau, designadamente por um director regional para a Administração Pública de Porto Santo, adiante designado abreviadamente por director regional, e compreende os seguintes serviços:
+
+a) O Secretariado;
+
+b) A Direcção de Serviços Administrativos e Financeiros (DSAF).
+
+#### SECÇÃO II — Órgãos
+
+###### Artigo 4.º — Director regional
+
+1 - Ao director regional compete:
+
+a) Representar o Governo Regional na ilha de Porto Santo na ausência de qualquer dos seus membros;
+
+b) Exercer a superintendência em todos os serviços dependentes do Governo Regional;
+
+c) Estabelecer o acompanhamento da execução, no âmbito da ilha de Porto Santo, das políticas aprovadas pelo Governo Regional;
+
+d) Promover uma eficaz articulação entre os serviços centrais do Governo Regional e todos os serviços dependentes instalados na ilha de Porto Santo;
+
+e) Executar as deliberações do Governo Regional e velar pelo património da Região;
+
+f) Orientar e dirigir os serviços da DRAPS;
+
+g) Representar a DRAPS junto de outros serviços e entidades;
+
+h) Conceder licenças ao pessoal da DRAPS, salvo quando se trate de licenças sem vencimento por um ano ou de longa duração;
+
+i) Assinar os termos de abertura e encerramento dos livros de ponto, de registo e de contabilidade e dos demais que sejam necessários ao regular funcionamento dos serviços;
+
+j) Conferir posse aos funcionários da DRAPS;
+
+l) Promover a instauração de processos disciplinares e de inquérito e propor louvores aos funcionários;
+
+m) Elaborar, em tempo oportuno, o projecto de orçamento da DRAPS, assim como o respectivo plano de actividades, o relatório de actividades e o balanço social;
+
+n) Transmitir instruções de carácter geral e obrigatório sobre matérias da sua competência a todos os serviços dependentes do Governo Regional na Ilha de Porto Santo, obtida a concordância do vice-presidente ou do secretário regional da tutela.
+
+2 - O director regional é provido por despacho conjunto do Presidente do Governo Regional e do Vice-Presidente do Governo Regional, em regime de comissão de serviço, por períodos de três anos.
+
+3 - O director regional pode, nos termos da lei, delegar, com possibilidade de subdelegação, algumas das suas competências em titulares de cargos dirigentes, com o assentimento do vice-presidente do Governo ou do secretário regional competente.
+
+#### SECÇÃO III — Secretariado
+
+###### Artigo 5.º — Natureza e competências
+
+O Secretariado é o órgão de apoio administrativo do director regional, competindo-lhe, designadamente, a organização e conservação do arquivo do seu gabinete, bem como o registo e expediente da correspondência e documentação que lhe estão afectos.
+
+#### SECÇÃO IV — Direcção de Serviços Administrativos e Financeiros
+
+###### Artigo 6.º — Natureza, atribuições e competências
+
+1 - A DSAF tem por missão assegurar a gestão do pessoal e dos recursos financeiros e patrimoniais afectos à DRAPS, bem como a respectiva gestão administrativa e documental.
+
+2 - A DSAF compreende:
+
+a) A Divisão de Gestão de Recursos Humanos (DGRH);
+
+b) A Divisão de Expediente Geral, Finanças e Contabilidade (DEGFC).
+
+3 - Compete à DGRH:
+
+a) Promover a racionalização e a gestão adequada dos recursos humanos, tendo em vista a realização profissional e o eficiente funcionamento dos serviços;
+
+b) Realizar estudos de gestão previsional e de caracterização dos recursos humanos, nomeadamente o balanço social;
+
+c) Promover os procedimentos necessários ao recrutamento, promoção e progressão do respectivo pessoal;
+
+d) Elaborar os planos de formação do pessoal da DRAPS;
+
+e) Organizar os processos de contratação de pessoal;
+
+f) Assegurar as acções de notação do pessoal;
+
+g) Organizar e manter actualizados os registos e os controlos de assiduidade;
+
+h) Elaborar as listas de antiguidade.
+
+4 - A DGRH compreende a Secção de Apoio Administrativo, a quem compete assegurar o expediente necessário ao seu normal funcionamento.
+
+5 - Compete à DEGFC:
+
+a) Assegurar a gestão dos recursos financeiros e patrimoniais, o processamento de remunerações e o expediente geral da DRAPS;
+
+b) Assegurar a elaboração da proposta de orçamento de funcionamento e de investimento, bem como acompanhar a execução orçamental e propor as medidas necessárias;
+
+c) Preparar os planos anuais e plurianuais de actividades da DRAPS e acompanhar a respectiva execução;
+
+d) Assegurar o expediente relativo a processamento de remunerações;
+
+e) Promover as acções necessárias ao correcto processamento dos abonos devidos;
+
+f) Organizar o trabalho do pessoal auxiliar;
+
+g) Assegurar a gestão e manutenção das viaturas;
+
+h) Promover as medidas necessárias à vigilância, segurança, limpeza e arrumação das instalações;
+
+i) Proceder às aquisições de bens e serviços e administrar os bens de consumo;
+
+j) Executar as tarefas inerentes à recepção, classificação, expedição e arquivo de correspondência e outros documentos;
+
+l) Manter actualizado o cadastro e inventário dos bens afectos à DRAPS.
+
+6 - A DEGFC compreende a Secção de Contabilidade e a Secção de Expediente Geral e Arquivo.
+
+### CAPÍTULO III — Pessoal
+
+###### Artigo 7.º — Quadro
+
+1 - O pessoal do quadro da DRAPS é agrupado em:
+
+a) Pessoal dirigente;
+
+b) Pessoal técnico superior;
+
+c) Pessoal técnico;
+
+d) Pessoal técnico-profissional;
+
+e) Pessoal administrativo;
+
+f) Pessoal auxiliar;
+
+g) Pessoal operário.
+
+2 - O quadro de pessoal da DRAPS é o constante do mapa anexo ao presente diploma e pode ser alterado por portaria conjunta do vice-presidente e dos membros do Governo com a tutela das áreas de Finanças e Administração Pública.
+
+###### Artigo 8.º — Equipas de projecto
+
+1 - Sempre que esteja em causa a prossecução de objectivos que pressuponham, temporariamente, o exercício de competências de natureza multidisciplinar, poderá ser proposta pelo director regional, ao vice-presidente do Governo Regional, a constituição de equipas de projecto.
+
+2 - Nas propostas referidas no número anterior, deverá prever-se a constituição das equipas, a nomeação dos respectivos coordenadores, o período de duração, os objectivos a prosseguir e, havendo custos a suportar, o respectivo orçamento, bem como a proposta de retribuição dos seus membros, quando a ela haja lugar.
+
+3 - Das equipas de projecto poderão fazer parte indivíduos não vinculados à função pública, com fundamento na específica aptidão dos mesmos para a prossecução dos objectivos a atingir.
+
+### CAPÍTULO IV — Disposições finais e transitórias
+
+###### Artigo 9.º — Transição de pessoal
+
+1 - O quadro de pessoal da Delegação do Governo Regional na Ilha de Porto Santo, constante do anexo IX ao [Decreto Regulamentar Regional n.º 5/2001/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2001-348305), de 24 de Março, é extinto com a posse do primeiro director regional, transitando o respectivo pessoal para o quadro a que se refere o n.º 2 do artigo 7.º da presente orgânica.
+
+2 - A transição do pessoal, referida no número anterior, far-se-á através de lista nominativa, aprovada pelo vice-presidente do Governo Regional, com dispensa de quaisquer outras formalidades legais, sempre que se tratar de pessoal com vínculo à Administração Pública.
+
+3 - A transição referida nos números anteriores, far-se-á para o mesmo escalão, categoria e carreira que os funcionários detinham no quadro de origem.
+
+4 - Aos chefes de secção actualmente providos no quadro de pessoal da Delegação do Governo Regional na Ilha de Porto Santo aplicam-se as regras de transição previstas no presente artigo, sendo-lhes determinada, por despacho do director regional, a respectiva secção administrativa que lhes incumbe chefiar.
+
+5 - O despacho do director regional referido no número anterior, basear-se-á na conveniência do serviço e, sempre que possível, no acordo do respectivo funcionário.
+
+###### Artigo 10.º — Produção de efeitos
+
+A transição de pessoal referida no número anterior bem como a respectiva lista nominativa produzem efeitos à data referida no n.º 1 do artigo 9.º da presente orgânica.
+
+###### Artigo 11.º — Salvaguarda de concursos pendentes
+
+Os concursos pendentes à data da entrada em vigor do presente diploma mantêm a sua validade, sendo os lugares a prover os que lhes correspondam no quadro de pessoal a que se refere o n.º 2 do artigo 7.º da presente orgânica.
+
+###### Artigo 12.º — Encargos
+
+Os encargos resultantes da aplicação do presente diploma são suportados por dotação a inscrever no orçamento da Vice-Presidência do Governo, que incluirão a já prevista para a Delegação a extinguir.
+
+MAPA ANEXO
+
+(a que se refere o n.º 2 do artigo 7.º)
+
+[(ver mapa no documento original)](https://files.diariodarepublica.pt/1s/2004/04/081b00/21602165.pdf)

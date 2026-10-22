@@ -1,0 +1,204 @@
+---
+schema_version: '1.0'
+id: pt:dre:909595554:por
+title: Portaria n.º 84/2025/1
+short_title: null
+summary: Aprova o Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição e Registo da Temperatura.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Economia
+proposing_entity: null
+official_number: 84/2025/1
+official_date: null
+publication_date: '2025-03-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 45/2025, Série I de 2025-03-05
+  number: '45'
+  series: I
+  supplement: null
+  pages: 7 - 10
+  pdf_url: https://files.diariodarepublica.pt/1s/2025/03/04500/0000700010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/84/2025/03/05/p/dre/pt/html
+  oj: null
+  dre: '909595554'
+  dre_path: /dr/detalhe/portaria/84-2025-909595554
+  internal: pt:dre:909595554:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/84-2025-909595554
+  metadata_url: https://data.dre.pt/eli/port/84/2025/03/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/84-2025-909595554
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-03-05T00:00:00Z'
+integrity:
+  source_sha256: 6f147e298ac4087184d844238989d55a11a1878ec0860061d6373ccd004333e6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-84-909595554.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Armazenagem
+- Metrologia
+- Regulamentação de Atos Legislativos
+- Aparelho de Medição
+- Instituto Português da Qualidade
+- Transporte de Mercadorias
+- Produto Congelado
+- Regulamento
+- Controlo Metrológico
+relationships:
+- type: cites
+  target: celex:32015L1535
+  label: null
+  source: http://data.europa.eu/eli/dir/2015/1535/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/29/2022/04/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/2022/04/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1129/2009/10/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1129/2009/10/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/211/2022/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/211/2022/08/23/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 84/2025/1
+
+de 5 de março
+
+O controlo metrológico dos métodos e instrumentos de medição em Portugal obedece ao regime geral aprovado pelo [Decreto-Lei n.º 29/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2022-181756966), de 7 de abril, às disposições regulamentares gerais previstas no Regulamento Geral do Controlo Metrológico aprovado pela [Portaria n.º 211/2022](https://diariodarepublica.pt/dr/detalhe/portaria/211-2022-200139611), de 23 de agosto, e ainda às disposições constantes das portarias específicas de cada instrumento de medição.
+
+No caso dos instrumentos de medição e registo da temperatura, as disposições aplicáveis ao seu controlo metrológico constam da [Portaria n.º 1129/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2009-490963), de 1 de outubro.
+
+O controlo metrológico dos instrumentos de medição e registo da temperatura é aplicável sempre que existe a necessidade da sua instalação para utilização no transporte, armazenagem e distribuição de bens e produtos legalmente sujeitos ao controlo de temperatura.
+
+Volvidos 15 anos sob a publicação da [Portaria n.º 1129/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2009-490963), torna-se necessário e oportuno aprovar um novo regulamento aplicável ao controlo metrológico dos instrumentos de medição e registo da temperatura que, cumprindo com os princípios comunitários orientadores nesta matéria, garante a conformidade dos instrumentos de medição utilizados para controlar a temperatura com um conjunto harmonizado de requisitos técnicos e que abrange no seu âmbito de aplicação, todos os bens e produtos que, por força de legislação específica, estejam sujeitos ao controlo de temperatura.
+
+A presente portaria foi submetida ao procedimento de informação no domínio das regulamentações técnicas e das regras relativas aos serviços da sociedade da informação, previsto na [Diretiva (UE) 2015/1535](http://data.europa.eu/eli/dir/2015/1535/oj?locale=pt), do Parlamento Europeu e do Conselho, de 9 de setembro do 2015.
+
+Assim:
+
+Ao abrigo do disposto na alínea a) do artigo 2.º e no n.º 1 do artigo 25.º do [Decreto-Lei n.º 29/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2022-181756966), de 7 de abril, conjugados com o disposto no n.º 4 do artigo 1.º do Regulamento anexo à [Portaria n.º 211/2022](https://diariodarepublica.pt/dr/detalhe/portaria/211-2022-200139611), de 23 de agosto, e bem assim ao abrigo dos poderes delegados através do disposto na alínea f) do n.º 1 do [Despacho n.º 12082/2024](https://diariodarepublica.pt/dr/detalhe/despacho/12082-2024-890791839), de 7 de outubro, do Ministro da Economia, publicado no Diário da República, 2.ª série, n.º 199, de 14 de outubro de 2024, manda o Governo, pelo Secretário de Estado da Economia, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É aprovado, em anexo à presente portaria e da qual faz parte integrante, o Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição e Registo da Temperatura utilizados para o transporte, armazenagem e distribuição de bens e produtos que, nos termos de legislação específica, estejam sujeitos ao controlo de temperatura.
+
+###### Artigo 2.º — Norma revogatória
+
+É revogada a [Portaria n.º 1129/2009](https://diariodarepublica.pt/dr/detalhe/portaria/1129-2009-490963), de 1 de outubro.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Secretário de Estado da Economia, João Rui da Silva Gomes Ferreira, em 28 de fevereiro de 2025.**
+
+## ANEXO — (a que se refere o artigo 1.º)
+
+Regulamento do Controlo Metrológico Legal dos Instrumentos de Medição e Registo da Temperatura
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se aos instrumentos de medição e registo da temperatura (IMRT) do ar, utilizados nos meios de transporte e nas instalações de depósito, armazenagem e distribuição de bens e produtos que, nos termos de legislação específica, estejam sujeitos ao controlo de temperatura, adiante designados por registadores de temperatura.
+
+###### Artigo 2.º — Definição
+
+Para efeitos do presente Regulamento, entende-se como registadores de temperatura os instrumentos de medição constituídos por sensores e dispositivos, analógicos ou digitais, que medem, registam ou armazenam dados, relativos aos valores da temperatura a intervalos de tempo regulares, durante o período da operação.
+
+###### Artigo 3.º — Indicação
+
+A indicação da temperatura nos registadores de temperatura deve ser expressa em grau Celsius (°C), tendo por base as unidades do Sistema Internacional de Unidades (SI).
+
+###### Artigo 4.º — Colocação em serviço
+
+Os registadores de temperatura devem cumprir os requisitos metrológicos e técnicos definidos nas normas EN 12 830, EN 13 485 e EN 13 486.
+
+###### Artigo 5.º — Controlo metrológico legal
+
+O controlo metrológico legal dos registadores de temperatura, compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.), e compreende as operações de aprovação de modelo, primeira verificação, verificação periódica e verificação extraordinária.
+
+###### Artigo 6.º — Aprovação de modelo
+
+1 - A aprovação de modelo deve obedecer aos requisitos previstos no artigo 7.º do [Decreto-Lei n.º 29/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2022-181756966), de 7 de abril, e ao artigo 2.º do Regulamento anexo à [Portaria n.º 211/2022](https://diariodarepublica.pt/dr/detalhe/portaria/211-2022-200139611), de 23 de agosto.
+
+2 - Durante o prazo de validade da aprovação de modelo, toda ou qualquer alteração introduzida ao modelo aprovado, por substituição de componentes, por adjunção de dispositivo complementar, alteração de programa informático (software) instalado, ou por modificações que possam influenciar os resultados das medições ou as condições regulamentares de utilização, carece de uma aprovação de modelo complementar.
+
+3 - Os programas informáticos utilizados pelos registadores de temperatura devem garantir a integridade e a confidencialidade dos dados obtidos e apresentados, e devem ainda ser objeto de identificação única e inequívoca.
+
+###### Artigo 7.º — Primeira verificação
+
+1 - A primeira verificação é efetuada antes da colocação do instrumento em serviço, ou após a sua reparação e sempre que ocorra violação do sistema de selagem, dispensando-se a verificação periódica nesse ano, tendo o mesmo prazo de validade.
+
+2 - Os valores dos erros máximos admissíveis, da resolução e dos erros máximos relativos de duração de registo na primeira verificação são iguais aos valores estabelecidos na EN 12 830.
+
+###### Artigo 8.º — Verificação periódica
+
+1 - A verificação periódica tem uma periodicidade anual e é válida durante um ano após a sua realização.
+
+2 - A resolução e os erros máximos relativos de duração de registo na verificação periódica são iguais aos valores da primeira verificação.
+
+3 - Os erros máximos admissíveis na verificação periódica são iguais aos erros máximos admissíveis da classe de exatidão imediatamente inferior, previstos para a primeira verificação, com o limite máximo de 2 °C.
+
+###### Artigo 9.º — Verificação extraordinária
+
+1 - A verificação extraordinária compreende os ensaios da verificação periódica.
+
+2 - Os valores dos erros máximos admissíveis na verificação extraordinária são iguais aos valores dos erros máximos admissíveis estabelecidos para a verificação periódica.
+
+###### Artigo 10.º — Inscrições e marcações
+
+1 - Os registadores de temperatura devem apresentar, de forma visível e legível, inscrições e marcações em conformidade com os requisitos metrológicos previstos no artigo 4.º do presente Regulamento.
+
+2 - Os registadores de temperatura devem ainda conter o símbolo de aprovação de modelo e outros símbolos ou referências úteis para a sua utilização.
+
+###### Artigo 11.º — Disposição transitória
+
+Os registadores de temperatura cujos modelos tenham sido objeto de autorização de uso, determinada ao abrigo da legislação anterior, podem permanecer em utilização enquanto estiverem em bom estado de conservação e desde que nos ensaios de verificação metrológica incorrerem em erros que não excedam os erros máximos admissíveis.
+
+###### Artigo 12.º — Disposição final
+
+O disposto nos artigos anteriores não impede a comercialização, nem a utilização posterior dos registadores de temperatura acompanhados de certificados de avaliação da conformidade emitidos por organismos reconhecidos ao abrigo da legislação da União Europeia aplicável, no âmbito da atividade de metrologia legal, com base em especificações e procedimentos que assegurem uma qualidade metrológica à visada pelo presente Regulamento.

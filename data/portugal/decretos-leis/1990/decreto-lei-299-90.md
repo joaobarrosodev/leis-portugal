@@ -1,0 +1,289 @@
+---
+schema_version: '1.0'
+id: pt:dre:554863:por
+title: Decreto-Lei n.º 299/90
+short_title: null
+summary: Aprova os Estatutos das Regiões Vitivinícolas de Lagoa, Lagos, Portimão e Tavira
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 299/90
+official_date: null
+publication_date: '1990-09-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 221/1990, Série I de 1990-09-24
+  number: '221'
+  series: I
+  supplement: null
+  pages: 3943 - 3945
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/09/22100/39433945.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '554863'
+  dre_path: /dr/detalhe/decreto-lei/299-1990-554863
+  internal: pt:dre:554863:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1990-554863
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1990-554863
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-08-23T00:00:00Z'
+integrity:
+  source_sha256: 849e44b0057d7285224ffe16c59013f9ac668c2a5eb549978f337bf7a7f19e84
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-299-554863.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:479875:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 299/90
+
+de 24 de Setembro
+
+A produção de vinhos de qualidade na Região Demarcada do Algarve, reconhecida pela [Portaria n.º 207/80](https://diariodarepublica.pt/dr/detalhe/portaria/207-1980-681399), de 26 de Abril, tem-se desenvolvido em obediência à homogeneidade e tipicidade dos seus vinhos, fruto das características edafo-climáticas da área mediterrânica em que se insere.
+
+A experiência dos últimos 10 anos vem, porém, sugerindo que a denominação de origem «Algarve» seja substituída por quatro denominações que correspondem às especificidades de cada uma das actuais sub-regiões vitícolas de Lagoa, Lagos, Portimão e Tavira, o que se conjuga com a necessidade de conformação dos seus estatutos com a [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
+
+É neste contexto, tendo em vista a promoção de qualidade dos vinhos destas zonas vitícolas e correspondendo aos anseios dos vitivinicultores do Algarve, que se entendeu proceder à actualização da respectiva regulamentação.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º São aprovados os Estatutos das Regiões Vitivinícolas de Lagoa, Lagos, Portimão e Tavira, anexos ao presente diploma e que dele fazem parte integrante, com vista à produção e comercialização de vinhos a integrar na categoria dos vinhos de qualidade produzidos em regiões determinadas, na nomenclatura comunitária, abreviadamente designados por VQPRD.
+
+###### Art. 2.º A entidade competente a que se alude nos Estatutos aprovados pelo presente diploma, e à qual incumbe a defesa das denominações correspondentes às referidas zonas vitivinícolas, a aplicação da respectiva regulamentação, a vigilância e o cumprimento da mesma, assim como o fomento e controlo dos seus vinhos, é a comissão vitivinícola regional (CVR), cujos estatutos serão elaborados nos termos do artigo 3.º do [Decreto-Lei n.º 350/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/350-1988-355570), de 30 de Setembro.
+
+###### Art. 3.º - 1 - Com a entrada em vigor do presente diploma, inicia imediatamente funções, pelo período máximo de 180 dias, como comissão instaladora da CVR, a comissão de apoio a que se refere o artigo 3.º da [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho.
+
+2 - Incumbe à comissão instaladora elaborar e propor os estatutos da CVR.
+
+###### Art. 4.º É revogada a [Portaria n.º 207/80](https://diariodarepublica.pt/dr/detalhe/portaria/207-1980-681399), de 26 de Abril.
+
+Visto e aprovado em Conselho de Ministros de 9 de Agosto de 1990. - Aníbal António Cavaco Silva - Arlindo Marques da Cunha.
+
+**Promulgado em 6 de Setembro de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 11 de Setembro de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+Estatutos das Regiões Vitivinícolas de Lagoa, Lagos, Portimão e Tavira
+
+###### Artigo 1.º - 1 - São reconhecidas como denominações de origem controlada (DOC) para a produção de vinhos a integrar na categoria dos chamados «vinhos de qualidade produzidos em regiões determinadas» (VQPRD) da nomenclatura comunitária as seguintes denominações, de que podem usufruir os vinhos tintos e brancos produzidos nas respectivas zonas vitivinícolas que satisfaçam as disposições dos presentes Estatutos e outros requisitos aplicáveis aos vinhos em geral, e, em particular, aos VQPRD:
+
+a) Lagoa;
+
+b) Lagos;
+
+c) Portimão;
+
+d) Tavira.
+
+2 - As denominações referidas no número anterior decorrem da alteração da anterior denominação de origem controlada «Algarve», reconhecida pela [Portaria n.º 207/80](https://diariodarepublica.pt/dr/detalhe/portaria/207-1980-681399), de 26 de Abril, que assim é substituída.
+
+3 - Fica proibida a utilização em outros produtos vínicos de nomes, marcas, termos, expressões ou símbolos susceptíveis de, pela sua similitude gráfica ou fonética com os protegidos nestes Estatutos, induzirem a confusão no consumidor, mesmo que precedidos dos termos «tipo», «estilo», ou outros análogos.
+
+###### Art. 2.º - 1 - A área geográfica correspondente a cada uma das denominações ora consideradas, delimitada na carta de 1:500000, em anexo, abrange:
+
+a) Lagoa:
+
+Os Municípios de Albufeira e Lagoa;
+
+Do Município de Loulé, as freguesias de Almansil, Boliqueime, Quarteira, São Clemente e São Sebastião e parte das freguesias de Alte, Querença e Salir;
+
+Do Município de Silves, as freguesias de Alcantarilha, Armação de Pêra e Pêra e parte das freguesias de São Bartolomeu de Messines e Silves;
+
+b) Lagos:
+
+Do Município de Aljezur, parte das freguesias do mesmo nome, Bordeira e Odeceixe;
+
+Do Município de Vila do Bispo, as freguesias de Raposeira, Sagres e Vila do Bispo e parte das freguesias de Barão de São Miguel e Budens;
+
+Do Município de Lagos, as freguesias de Luz, Santa Maria e São Sebastião e parte das freguesias de Barão de São João, Bensafrim e Odiáxere;
+
+c) Portimão:
+
+Do Município de Portimão, a freguesia de Alvor e parte das freguesias da Mexilhoeira Grande e Portimão;
+
+d) Tavira:
+
+Os Municípios de Faro e Olhão;
+
+Do Município de São Brás de Alportel, parte da freguesia do mesmo nome;
+
+Do Município de Castro Marim, parte da freguesia do mesmo nome;
+
+Do Município de Tavira, as freguesias da Luz e Santiago e parte das freguesias de Conceição, Santa Catarina, Santa Maria e Santo Estêvão;
+
+Do Município de Vila Real de Santo António, a freguesia do mesmo nome e parte da freguesia de Vila Nova de Cacela.
+
+2 - O limite natural da zona vitivinícola de Lagos no Município de Aljezur é a ribeira de Odeceixe.
+
+###### Art. 3.º As vinhas destinadas aos vinhos de qualidade a que se referem estes Estatutos devem estar, ou ser instaladas, em:
+
+a) Solos litólicos não húmicos de arenitos, grés-de-silves ou afins;
+
+b) Solos mediterrânicos vermelhos ou amarelos de arenitos e de (raña) ou depósitos afins;
+
+c) Regosolos psamíticos normais e para-hidromórficos;
+
+d) Solos podzolizados de areias e arenitos grosseiros.
+
+###### Art. 4.º - 1 - As castas a utilizar com vista aos vinhos de qualidade destas zonas vitícolas são as seguintes:
+
+a) Lagoa:
+
+Vinhos tintos:
+
+Castas recomendadas: Negra-Mole, Monvedro e Periquita, no conjunto ou separadamente, com um mínimo de 75% do encepamento;
+
+Castas autorizadas: Crato-Preto, Moreto, Pau-Ferro e Pexém;
+
+Vinhos brancos:
+
+Casta recomendada: Crato-Branco, com um mínimo de 75% do encepamento;
+
+Castas autorizadas: Manteúdo, Arinto, Moscatel, Perrum e Rabo-de-Ovelha;
+
+b) Lagos:
+
+Vinhos tintos:
+
+Castas recomendadas: Negra-Mole e Periquita, no conjunto ou separadamente, com um mínimo de 70%;
+
+Castas autorizadas: Bastardinho, Crato-Preto e Monvedro;
+
+Vinhos brancos:
+
+Casta recomendada: Boal-Branco, com um mínimo de 60%;
+
+Castas autorizadas: Manteúdo, Moscatel e Perrum;
+
+c) Portimão:
+
+Vinhos tintos:
+
+Castas recomendadas: Negra-Mole e Periquita, no conjunto ou separadamente, com um mínimo de 70%;
+
+Castas autorizadas: Crato-Preto, Monvedro, Moreto, Pau-Ferro e Pexém;
+
+Vinhos brancos:
+
+Casta recomendada: Crato-Branco, com um mínimo de 70%;
+
+Castas autorizadas: Diagalves, Manteúdo, Moscatel e Perrum;
+
+d) Tavira:
+
+Vinhos tintos:
+
+Castas recomendadas: Negra-Mole e Periquita, em conjunto ou separadamente, com um mínimo de 75%;
+
+Castas autorizadas: Crato-Preto e Pau-Ferro;
+
+Vinhos brancos:
+
+Casta recomendada: Crato-Branco, com um mínimo de 75%;
+
+Castas autorizadas: Diagalves, Manteúdo e Tamarês.
+
+2 - A comercialização de vinhos com referência a uma ou duas castas só pode ser feita, em relação às recomendadas, com prévia autorização da entidade competente e a observância das disposições de âmbito geral aplicáveis.
+
+###### Art. 5.º - 1 - Para qualquer das zonas e denominações consideradas, as vinhas devem ser estremes, em forma baixa, em taça ou cordão.
+
+2 - As práticas culturais deverão ser as tradicionais ou recomendadas pela entidade competente, em ligação com os serviços regionais de agricultura.
+
+3 - A rega da vinha só pode ser efectuada em condições excepcionais reconhecidas pelo Instituto da Vinha e do Vinho (IVV) e sob autorização prévia, caso a caso, da entidade competente, à qual incumbe velar pelo cumprimento das normas que para o efeito vierem a ser definidas.
+
+###### Art. 6.º - 1 - As vinhas destinadas aos vinhos abrangidos por estes Estatutos devem, a pedido dos interessados, ser inscritas na entidade competente, para verificar se satisfazem os necessários requisitos, a qual procederá ao cadastro das mesmas, efectuando no decurso do ano as observações que entender necessárias.
+
+2 - Sempre que se verifiquem alterações na constituição das vinhas cadastradas e aprovadas, será do facto dado conhecimento pelos respectivos viticultores, sem o que os seus vinhos deixarão de ter direito à denominação.
+
+###### Art. 7.º - 1 - Os vinhos protegidos por estes Estatutos devem provir de vinhas com, pelo menos, quatro anos de enxertia e a sua elaboração, salvo em casos excepcionais a estudar pela entidade competente, deve decorrer dentro da zona respectiva em adegas inscritas e aprovadas para o efeito e que ficam sob o controlo da referida entidade.
+
+2 - Na elaboração são seguidos os métodos e práticas enológicas tradicionais, legalmente autorizados.
+
+3 - No caso de na mesma adega serem também elaborados vinhos sem direito à denominação, a entidade competente estabelecerá os termos em que deverá decorrer a vinificação, devendo os referidos vinhos ser conservados em secções separadas, em vasilhas com a devida identificação e de que constem, nomeadamente, as indicações relativas ao volume da vasilha, à espécie de vinho contido e ao ano de colheita.
+
+###### Art. 8.º Os mostos destinados aos vinhos de denominação «Lagoa», «Lagos», «Portimão» e «Tavira» devem ter um título alcoométrico volúmico em potência mínimo natural de 11% para vinhos tintos e 10% para vinhos brancos.
+
+###### Art. 9.º - 1 - O rendimento máximo por hectare das vinhas destinadas aos vinhos de denominação é fixado em 60 hl para os vinhos tintos e brancos.
+
+2 - No caso de a produção exceder o quantitativo fixado, não pode ser utilizada a denominação para a totalidade da colheita, salvo em anos de produção excepcional, em que o IVV, sob proposta da entidade regional competente, estabelecerá o limite de produção com direito à utilização da denominação e o destino da produção excedentária.
+
+###### Art. 10.º Os vinhos brancos e tintos só poderão ser engarrafados após um estágio mínimo de seis meses e oito meses, respectivamente.
+
+###### Art. 11.º - 1 - Os vinhos de denominação devem ter o título alcoométrico volúmico mínimo de:
+
+a) Vinho tinto - 12%;
+
+b) Vinho branco - 11,5%.
+
+2 - Em relação aos restantes elementos, os vinhos devem apresentar as características definidas para os vinhos em geral.
+
+3 - Do ponto de vista organoléptico, os vinhos devem satisfazer os requisitos apropriados quanto à cor, à limpidez, ao aroma e ao sabor, a definir por regulamento interno da CVR.
+
+###### Art. 12.º Sem prejuízo de outras exigências de âmbito geral, todas as pessoas, singulares ou colectivas, que se dediquem à comercialização dos vinhos abrangidos por estes Estatutos, excluída a distribuição e a venda a retalho dos produtos engarrafados, são obrigadas a fazer a sua incrição, bem como das respectivas instalações, na entidade competente, em registo apropriado.
+
+###### Art. 13.º Os vinhos de qualidade objecto dos presentes Estatutos só podem ser postos em circulação e comercializados desde que, nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação do produto, sejam acompanhados da necessária documentação oficial de que conste essa mesma denominação e estejam cumpridas as restantes exigências estabelecidas legalmente ou pela entidade competente.
+
+###### Art. 14.º - 1 - O engarrafamento só pode ser feito após aprovação do respectivo vinho, confirmando satisfazer as necessárias exigências.
+
+2 - Os rótulos a utilizar devem ser apresentados à apreciação prévia da entidade competente.
+
+Pelo Ministro da Agricultura, Pescas e Alimentação, Jorge Manuel de Oliveira Godinho, Secretário de Estado das Pescas.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1990/09/22100/39433945.pdf))](https://files.diariodarepublica.pt/1s/1990/09/22100/39433945.pdf)

@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:692272:por
+title: Decreto n.º 42/99
+short_title: null
+summary: Luto nacional por três dias pelo falecimento de Amália Rodrigues
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 42/99
+official_date: null
+publication_date: '1999-10-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/1999, Série I-B de 1999-10-26
+  number: '250'
+  series: I
+  supplement: null
+  pages: 7218 - 7218
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/10/250b00/72187218.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/42/1999/10/26/p/dre/pt/html
+  oj: null
+  dre: '692272'
+  dre_path: /dr/detalhe/decreto/42-1999-692272
+  internal: pt:dre:692272:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1999-692272
+  metadata_url: https://data.dre.pt/eli/dec/42/1999/10/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/42-1999-692272
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-10-26T00:00:00Z'
+integrity:
+  source_sha256: 583868e8482e25b635eb6a15da789f71f757362a899fbb669909ec8b92bb1fe2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-42-692272.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Profissão Artística
+- Luto Nacional
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 42/99
+
+de 26 de Outubro
+
+Considerando que Amália Rodrigues foi uma das figuras ímpares da cultura portuguesa deste século e que projectou, através da sua voz, o nome e o sentir de Portugal por todo o mundo;
+
+Considerando que o seu falecimento representa uma perda irreparável;
+
+Em consonância com o sentimento generalizado de pesar do povo português;
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+É decretado o luto nacional por três dias com funeral organizado pelo Estado.
+
+###### Artigo 2.º
+
+O presente decreto entra em vigor no dia seguinte ao da sua publicação e produz efeitos desde 6 de Outubro de 1999.
+
+Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1999. - António Manuel de Oliveira Guterres.
+
+**Assinado em 8 de Outubro de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 8 de Outubro de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

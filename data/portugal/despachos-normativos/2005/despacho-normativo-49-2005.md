@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: pt:dre:596347:por
+title: Despacho Normativo n.º 49/2005
+short_title: null
+summary: Altera e rectifica o anexo ao Despacho Normativo n.º 35/2005, de 25 de Julho, que aprova o Regulamento do Programa
+  de Apoios a Conceder pelo Fundo Florestal Permanente em 2005-2006
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 49/2005
+official_date: null
+publication_date: '2005-10-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 206/2005, Série I-B de 2005-10-26
+  number: '206'
+  series: I
+  supplement: null
+  pages: 6201 - 6202
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/10/206b00/62016202.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/49/2005/10/26/p/dre/pt/html
+  oj: null
+  dre: '596347'
+  dre_path: /dr/detalhe/despacho-normativo/49-2005-596347
+  internal: pt:dre:596347:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2005-596347
+  metadata_url: https://data.dre.pt/eli/despnorm/49/2005/10/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/49-2005-596347
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-04-17T00:00:00Z'
+integrity:
+  source_sha256: 0c536bd77afa6711b3c7370d7f06dbd4b4e63810ab858ce4aedaeb5dc326c490
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-49-596347.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Proteção da Floresta
+- Fundo Florestal Permanente
+- Ordenamento Florestal
+- Exploração Florestal
+- Regulamento
+- Ifadap
+- Política Florestal
+relationships:
+- type: amended_by
+  target: pt:dre:659156:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2005/08/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2005/08/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/35/2005/07/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/35/2005/07/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/679/2004/06/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/679/2004/06/19/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 49/2005
+
+O [Despacho Normativo n.º 35/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-2005-240023), de 25 de Julho, aprovou o Regulamento do Programa de Apoios a Conceder pelo Fundo Florestal Permanente em 2005-2006, em anexo ao referido despacho e do qual faz parte integrante.
+
+Entretanto, foi publicado o [Decreto-Lei n.º 127/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2005-241857), de 5 de Agosto, que estabelece o regime de criação de zonas de intervenção florestal (ZIF), bem como os princípios reguladores da sua constituição, funcionamento e extinção.
+
+Face à publicação do referido decreto-lei, verificou-se a necessidade de proceder ao ajustamento de alguns conceitos utilizados no Programa de Apoios, harmonizando-os com este novo diploma, de modo a coordenar e a agilizar a sua aplicação, o que requer, também, alterações pontuais na calendarização constante do Regulamento anexo ao despacho normativo mencionado, relativas à apresentação e decisão das candidaturas ao Programa de Apoios.
+
+Aproveita-se ainda para proceder à rectificação de algumas inexactidões detectadas no texto do despacho referido.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 6.º da [Portaria n.º 679/2004](https://diariodarepublica.pt/dr/detalhe/portaria/679-2004-272612), de 19 de Junho, determino:
+
+1.º
+
+Alteração
+
+Os n.os 7.º, 10.º, 15.º, n.º 4, e 16.º do Regulamento do Programa de Apoios a Conceder pelo Fundo Florestal Permanente em 2005-2006, anexo ao [Despacho Normativo n.º 35/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-2005-240023), de 25 de Julho, e do qual faz parte integrante, passam a ter a seguinte redacção:
+
+«7.º
+
+[...]
+
+1 - As candidaturas formalizam-se junto do IFADAP até 30 de Setembro de 2005 no caso dos apoios previstos nas alíneas a), c), d) e e) do n.º 1 do n.º 2.º
+
+2 - As candidaturas referentes à alínea b) do n.º 1 do n.º 2.º formalizam-se até 30 de Novembro de 2005.
+
+3 - Em 2006, as candidaturas referentes a todas as áreas de apoios previstas no n.º 2.º devem ser apresentadas entre 1 de Fevereiro de 2006 e 30 de Abril do mesmo ano.
+
+10.º
+
+[...]
+
+1 - ...
+
+2 - Relativamente às candidaturas apresentadas em 2005, referidas no n.º 2 do n.º 7.º, o prazo de decisão decorre até 31 de Janeiro de 2006.
+
+3 - (Anterior n.º 2.)
+
+15.º
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+3 - ...
+
+4 - As candidaturas aos apoios referidos nas alíneas b) a d) do n.º 1 só podem ser apresentadas após a publicação da portaria que aprovar as ZIF respectivas.
+
+5 - As candidaturas aos apoios referidos na alínea a) do n.º 1 devem incluir a elaboração do plano de defesa da floresta contra incêndios, cujos apoios estão previstos na alínea e) do n.º 1.
+
+16.º
+
+[...]
+
+Podem beneficiar dos apoios referidos no n.º 1 do número anterior:
+
+a) No caso da alínea a), o núcleo fundador, definido na alínea e) do artigo 3.º do [Decreto-Lei n.º 127/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2005-241857), de 5 de Agosto, representado por pessoa colectiva ou entidade da administração central ou local que assuma solidariamente com os proprietários e produtores florestais que constituem o núcleo fundador as obrigações decorrentes do contrato de apoio;
+
+b) Nas alíneas b) a d), as entidades gestoras das ZIF, tal como identificadas na alínea b) do artigo 3.º do referido decreto-lei;
+
+c) Relativamente à alínea e), as entidades gestoras das ZIF, os titulares ou entidades responsáveis pela administração de explorações ou conjuntos de explorações florestais de dimensão elegível;
+
+d) Relativamente à alínea f), a Direcção-Geral dos Recursos Florestais;
+
+e) No caso da alínea g), os produtores florestais, as organizações de produtores florestais, os órgãos de administração de baldios e as autarquias detentoras de áreas florestais.»
+
+2.º
+
+Rectificações
+
+Por ter saído com inexactidões, determino que se proceda às seguintes rectificações ao anexo do [Despacho Normativo n.º 35/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-2005-240023), de 25 de Julho:
+
+1 - Nas alíneas a) e b) do n.º 2 do n.º 12.º, onde se lê «alínea e)» deve ler-se «alínea g)».
+
+2 - Na alínea c) do n.º 13.º, onde se lê «alínea e)» deve ler-se «alínea g)».
+
+3.º
+
+Produção de efeitos
+
+O presente despacho produz efeitos à data da entrada em vigor do [Despacho Normativo n.º 35/2005](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/35-2005-240023), de 25 de Julho.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 11 de Outubro de 2005. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Rui Nobre Gonçalves, Secretário de Estado do Desenvolvimento Rural e das Florestas.

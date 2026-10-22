@@ -1,0 +1,271 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:227045:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-160534640",
+ "dre_path": "/dr/detalhe/decreto-lei/109-1986-227045",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-05-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "160505156",
+    "160505142",
+    "160505143",
+    "160505144",
+    "160505145",
+    "160505146",
+    "160505147",
+    "160505148",
+    "160505149"
+   ]
+  },
+  {
+   "date": "1988-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:406102:por",
+     "title": "Decreto-Lei n.º 419/87",
+     "published": "1987-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/419-1987-406102"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "160505141",
+    "160505155",
+    "160505143",
+    "160505144",
+    "160505145",
+    "160505146",
+    "160505147",
+    "160505148",
+    "160505149",
+    "160505150"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "160505156",
+    "160505157",
+    "160505158",
+    "160505159",
+    "160505160",
+    "160505161",
+    "160505162",
+    "160505163",
+    "160505164",
+    "160505165"
+   ]
+  }
+ ],
+ "fragments": {
+  "160505156": {
+   "fragment_id": "160534641",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 109/86\n\nde 21 de Maio\n\nOs princípios fixados pelo n.º 7 do artigo 10.º da Lei n.º 2-B/85, de 28 de Fevereiro, relativamente ao regime de instalação dos serviços públicos e as medidas restritivas impostas às admissões de pessoal por aqueles serviços e à sua progressão carecem de ser adaptados ao caso dos estabelecimentos de ensino superior, e, designadamente, dos estabelecimentos de ensino superior politécnico, sob pena de ficar extremamente comprometida a possibilidade do seu funcionamento.\n\nAcresce, por outro lado, que só por essa forma será possível concretizar as medidas constantes do Programa do Governo, no sentido da consolidação e dignificação do ensino superior politécnico, reforçando os investimentos indispensáveis à preparação de técnicos qualificados para a resolução de problemas concretos das comunidades regionais e locais onde estão inseridos, e de profissionais de educação que venham a contribuir de modo decisivo na formação em serviço e na actualização dos docentes e profissionais de educação necessários ao desenvolvimento da rede de ensino, designadamente no âmbito do ensino pré-escolar e básico.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "160505142": {
+   "fragment_id": "160534642",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - São mantidos em regime de instalação os estabelecimentos de ensino superior constantes do mapa I anexo ao presente diploma.\n\n2 - O período de instalação dos estabelecimentos a que se refere o número anterior tem a duração fixada pelos diplomas que procederam à sua criação e legislação complementar.\n\n3 - No caso dos estabelecimentos de ensino que tenham atingido, ou venham a atingir no corrente ano, o termo daquele período, o regime de instalação cessará no final de 1986.\n\n4 - O período de instalação conta-se, para efeitos do presente diploma, a partir da posse das respectivas comissões instaladoras."
+  },
+  "160505143": {
+   "fragment_id": "160534643",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Até três meses antes do termo do regime de instalação, ou das suas prorrogações, o Ministério da Educação e Cultura fará aprovar, obrigatoriamente, a estrutura orgânica e os quadros definitivos do pessoal dos organismos e serviços previstos neste decreto-lei.\n\n2 - Sem prejuízo do disposto no número anterior, será aprovado, no prazo de três meses a contar da data da entrada em vigor do presente diploma, um quadro provisório de pessoal, por cada um dos organismos e serviços em regime de instalação a que se refere o presente diploma."
+  },
+  "160505144": {
+   "fragment_id": "160534644",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA criação dos quadros provisórios será feita por portaria dos Ministros das Finanças e da Educação e Cultura, de acordo com o disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro."
+  },
+  "160505145": {
+   "fragment_id": "160534645",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nSem prejuízo do disposto no artigo 7.º do presente diploma, o ingresso e progressão nos lugares dos quadros provisórios a que se refere o artigo anterior passarão a ser feitos com respeito pelo limite dos respectivos lugares, por carreira e categoria, e, obrigatoriamente, de acordo com os princípios estabelecidos para o provimento de idênticos lugares dos quadros definitivos."
+  },
+  "160505146": {
+   "fragment_id": "160534646",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs lugares de direcção e chefia que vierem a ser criados nos quadros provisórios serão considerados lugares a extinguir quando vagarem, após o primeiro provimento, sem prejuízo de poderem ser mantidos nos quadros definitivos, se corresponderem a unidades orgânicas da respectiva instituição."
+  },
+  "160505147": {
+   "fragment_id": "160534647",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n- 1 - O disposto no n.º 2 do artigo 2.º e nos artigos 3.º, 4.º e 5.º é aplicável aos estabelecimentos de ensino superior constantes do mapa II anexo ao presente diploma que, tendo cessado o regime de instalação, ainda não disponham de quadro de pessoal aprovado por lei.\n\n2 - Os estabelecimentos de ensino a que se refere o número anterior passam a dispor, se ainda não a possuírem, de autonomia administrativa e financeira, até à aprovação da estrutura orgânica prevista no n.º 1 do artigo 2.º do Decreto-Lei n.º 35/82, de 4 de Fevereiro."
+  },
+  "160505148": {
+   "fragment_id": "160534648",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n- 1 - O pessoal actualmente em serviço nos estabelecimentos de ensino a que se refere o presente decreto-lei será provido em lugares da mesma categoria, do quadro provisório da respectiva instituição, desde que possua as habilitações exigidas para o efeito.\n\n2 - O provimento a que se refere o número anterior será feito por lista nominativa, a aprovar por despacho do reitor ou do Ministro da Educação e Cultura, consoante se trate de pessoal de estabelecimentos de ensino universitário ou de ensino superior politécnico e de estabelecimentos não integrados em universidades.\n\n3 - As listas nominativas ficam sujeitas a anotação do Tribunal de Contas e a publicação no Diário da República."
+  },
+  "160505149": {
+   "fragment_id": "160534649",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO pessoal que se encontrar provido em lugares dos quadros provisórios, à data da criação dos quadros definitivos, será integrado em lugares da mesma carreira e categoria desses quadros, independentemente de quaisquer formalidades, salvo a anotação dos respectivos diplomas pelo Tribunal de Contas."
+  },
+  "160505141": {
+   "fragment_id": "160534641",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 109/86\n\nde 21 de Maio\n\nOs princípios fixados pelo n.º 7 do artigo 10.º da Lei n.º 2-B/85, de 28 de Fevereiro, relativamente ao regime de instalação dos serviços públicos e as medidas restritivas impostas às admissões de pessoal por aqueles serviços e à sua progressão carecem de ser adaptados ao caso dos estabelecimentos de ensino superior, e, designadamente, dos estabelecimentos de ensino superior politécnico, sob pena de ficar extremamente comprometida a possibilidade do seu funcionamento.\n\nAcresce, por outro lado, que só por essa forma será possível concretizar as medidas constantes do Programa do Governo, no sentido da consolidação e dignificação do ensino superior politécnico, reforçando os investimentos indispensáveis à preparação de técnicos qualificados para a resolução de problemas concretos das comunidades regionais e locais onde estão inseridos, e de profissionais de educação que venham a contribuir de modo decisivo na formação em serviço e na actualização dos docentes e profissionais de educação necessários ao desenvolvimento da rede de ensino, designadamente no âmbito do ensino pré-escolar e básico.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "160505155": {
+   "fragment_id": "160534642",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1988-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 419/87 - Diário da República n.º 300/1987, 9º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1987-406102), em vigor a partir de 1988-01-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São mantidos em regime de instalação os estabelecimentos de ensino superior constantes do mapa I anexo ao presente diploma.\n\n2 - O período de instalação dos estabelecimentos a que se refere o número anterior tem a duração fixada pelos diplomas que procederam à sua criação e legislação complementar.\n\n3 - O termo do período de instalação dos estabelecimentos referidos pode ser diferido ou antecipado, em função da respectiva evolução, mediante despacho conjunto dos Ministros das Finanças e da Educação.\n\n4 - O período de instalação conta-se, para efeitos do presente diploma, a partir da posse das respectivas comissões instaladoras.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 419/87 - Diário da República n.º 300/1987, 9º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1987-406102), em vigor a partir de 1988-01-01"
+  },
+  "160505150": {
+   "fragment_id": "160534650",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 24 de Abril de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Maio de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa I anexo ao Decreto-Lei n.º 109/86\n\nUniversidade do Algarve.\n\nUniversidade da Beira Interior.\n\nUniversidade de Trás-os-Montes e Alto Douro.\n\nEscola Superior de Medicina Dentária de Lisboa.\n\nEscola Superior de Medicina Dentária do Porto.\n\nInstituto Superior de Educação Física da Universidade Técnica de Lisboa.\n\nInstituto Superior de Educação Física da Universidade do Porto.\n\nFaculdade de Arquitectura da Universidade Técnica de Lisboa.\n\nFaculdade de Arquitectura da Universidade do Porto.\n\nInstitutos de Estudos Africanos, da Universidade Nova de Lisboa.\n\nCurso Superior de Nutricionismo, da Universidade do Porto.\n\nCentro Integrado de Formação de Professores da Universidade de Aveiro.\n\nCentro Integrado de Formação de Professores da Universidade do Minho.\n\nMuseu da Ciência.\n\nInstituto Gregoriano.\n\nInstituto Politécnico de Beja:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nInstituto Politécnico de Bragança:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nInstituto Politécnico de Castelo Branco:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nInstituto Politécnico de Coimbra:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nInstituto Politécnico de Faro:\n\nEscola Superior de Educação.\n\nEscola Superior de Hotelaria e Turismo.\n\nEscola Superior de Tecnologia e Gestão.\n\nInstituto Politécnico da Guarda:\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia e Gestão.\n\nInstituto Politécnico de Lisboa:\n\nEscola Superior de Dança.\n\nEscola Superior de Educação.\n\nEscola Superior de Jornalismo.\n\nEscola Superior de Música.\n\nEscola Superior de Teatro e Cinema.\n\nEscola Superior de Saúde.\n\nInstituto Politécnico de Leiria:\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia e Gestão.\n\nInstituto Politécnico de Portalegre:\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia e Gestão.\n\nInstituto Politécnico do Porto:\n\nEscola Superior de Educação.\n\nEscola Superior de Música.\n\nEscola Superior de Saúde.\n\nInstituto Politécnico de Santarém:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nEscola Superior de Gestão de Santarém.\n\nEscola Superior de Tecnologia de Tomar.\n\nInstituto Politécnico de Setúbal.\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia.\n\nInstituto Politécnico de Viana do Castelo:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia e Gestão.\n\nInstituto Politécnico de Viseu:\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia.\n\nEscola Superior de Educação da Madeira.\n\nEscola Superior de Educação de Vila Real.\n\nMapa II anexo a Decreto-Lei n.º 109/86\n\nUniversidade de Aveiro.\n\nUniversidade de Évora.\n\nUniversidade do Minho.\n\nUniversidade Nova de Lisboa.\n\nInstituto de Ciências Biomédicas de Abel Salazar."
+  },
+  "160505157": {
+   "fragment_id": "160534642",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 419/87 - Diário da República n.º 300/1987, 9º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1987-406102), em vigor a partir de 1988-01-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São mantidos em regime de instalação os estabelecimentos de ensino superior constantes do mapa I anexo ao presente diploma.\n\n2 - O período de instalação dos estabelecimentos a que se refere o número anterior tem a duração fixada pelos diplomas que procederam à sua criação e legislação complementar.\n\n3 - O termo do período de instalação dos estabelecimentos referidos pode ser diferido ou antecipado, em função da respectiva evolução, mediante despacho conjunto dos Ministros das Finanças e da Educação.\n\n4 - O período de instalação conta-se, para efeitos do presente diploma, a partir da posse das respectivas comissões instaladoras.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 419/87 - Diário da República n.º 300/1987, 9º Suplemento, Série I de 1987-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/419-1987-406102), em vigor a partir de 1988-01-01"
+  },
+  "160505158": {
+   "fragment_id": "160534643",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Até três meses antes do termo do regime de instalação, ou das suas prorrogações, o Ministério da Educação e Cultura fará aprovar, obrigatoriamente, a estrutura orgânica e os quadros definitivos do pessoal dos organismos e serviços previstos neste decreto-lei.\n\n2 - Sem prejuízo do disposto no número anterior, será aprovado, no prazo de três meses a contar da data da entrada em vigor do presente diploma, um quadro provisório de pessoal, por cada um dos organismos e serviços em regime de instalação a que se refere o presente diploma.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160505159": {
+   "fragment_id": "160534644",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 3.º\n\nA criação dos quadros provisórios será feita por portaria dos Ministros das Finanças e da Educação e Cultura, de acordo com o disposto no n.º 2 do artigo 1.º do Decreto-Lei n.º 59/76, de 23 de Janeiro.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160505160": {
+   "fragment_id": "160534645",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 4.º\n\nSem prejuízo do disposto no artigo 7.º do presente diploma, o ingresso e progressão nos lugares dos quadros provisórios a que se refere o artigo anterior passarão a ser feitos com respeito pelo limite dos respectivos lugares, por carreira e categoria, e, obrigatoriamente, de acordo com os princípios estabelecidos para o provimento de idênticos lugares dos quadros definitivos.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160505161": {
+   "fragment_id": "160534646",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 5.º\n\nOs lugares de direcção e chefia que vierem a ser criados nos quadros provisórios serão considerados lugares a extinguir quando vagarem, após o primeiro provimento, sem prejuízo de poderem ser mantidos nos quadros definitivos, se corresponderem a unidades orgânicas da respectiva instituição.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160505162": {
+   "fragment_id": "160534647",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 6.º\n\n- 1 - O disposto no n.º 2 do artigo 2.º e nos artigos 3.º, 4.º e 5.º é aplicável aos estabelecimentos de ensino superior constantes do mapa II anexo ao presente diploma que, tendo cessado o regime de instalação, ainda não disponham de quadro de pessoal aprovado por lei.\n\n2 - Os estabelecimentos de ensino a que se refere o número anterior passam a dispor, se ainda não a possuírem, de autonomia administrativa e financeira, até à aprovação da estrutura orgânica prevista no n.º 1 do artigo 2.º do Decreto-Lei n.º 35/82, de 4 de Fevereiro.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160505163": {
+   "fragment_id": "160534648",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 7.º\n\n- 1 - O pessoal actualmente em serviço nos estabelecimentos de ensino a que se refere o presente decreto-lei será provido em lugares da mesma categoria, do quadro provisório da respectiva instituição, desde que possua as habilitações exigidas para o efeito.\n\n2 - O provimento a que se refere o número anterior será feito por lista nominativa, a aprovar por despacho do reitor ou do Ministro da Educação e Cultura, consoante se trate de pessoal de estabelecimentos de ensino universitário ou de ensino superior politécnico e de estabelecimentos não integrados em universidades.\n\n3 - As listas nominativas ficam sujeitas a anotação do Tribunal de Contas e a publicação no Diário da República.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160505164": {
+   "fragment_id": "160534649",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 8.º\n\nO pessoal que se encontrar provido em lugares dos quadros provisórios, à data da criação dos quadros definitivos, será integrado em lugares da mesma carreira e categoria desses quadros, independentemente de quaisquer formalidades, salvo a anotação dos respectivos diplomas pelo Tribunal de Contas.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "160505165": {
+   "fragment_id": "160534650",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João de Deus Rogado Salvador Pinheiro.\n\nPromulgado em 24 de Abril de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Maio de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nMapa I anexo ao Decreto-Lei n.º 109/86\n\nUniversidade do Algarve.\n\nUniversidade da Beira Interior.\n\nUniversidade de Trás-os-Montes e Alto Douro.\n\nEscola Superior de Medicina Dentária de Lisboa.\n\nEscola Superior de Medicina Dentária do Porto.\n\nInstituto Superior de Educação Física da Universidade Técnica de Lisboa.\n\nInstituto Superior de Educação Física da Universidade do Porto.\n\nFaculdade de Arquitectura da Universidade Técnica de Lisboa.\n\nFaculdade de Arquitectura da Universidade do Porto.\n\nInstitutos de Estudos Africanos, da Universidade Nova de Lisboa.\n\nCurso Superior de Nutricionismo, da Universidade do Porto.\n\nCentro Integrado de Formação de Professores da Universidade de Aveiro.\n\nCentro Integrado de Formação de Professores da Universidade do Minho.\n\nMuseu da Ciência.\n\nInstituto Gregoriano.\n\nInstituto Politécnico de Beja:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nInstituto Politécnico de Bragança:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nInstituto Politécnico de Castelo Branco:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nInstituto Politécnico de Coimbra:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nInstituto Politécnico de Faro:\n\nEscola Superior de Educação.\n\nEscola Superior de Hotelaria e Turismo.\n\nEscola Superior de Tecnologia e Gestão.\n\nInstituto Politécnico da Guarda:\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia e Gestão.\n\nInstituto Politécnico de Lisboa:\n\nEscola Superior de Dança.\n\nEscola Superior de Educação.\n\nEscola Superior de Jornalismo.\n\nEscola Superior de Música.\n\nEscola Superior de Teatro e Cinema.\n\nEscola Superior de Saúde.\n\nInstituto Politécnico de Leiria:\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia e Gestão.\n\nInstituto Politécnico de Portalegre:\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia e Gestão.\n\nInstituto Politécnico do Porto:\n\nEscola Superior de Educação.\n\nEscola Superior de Música.\n\nEscola Superior de Saúde.\n\nInstituto Politécnico de Santarém:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nEscola Superior de Gestão de Santarém.\n\nEscola Superior de Tecnologia de Tomar.\n\nInstituto Politécnico de Setúbal.\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia.\n\nInstituto Politécnico de Viana do Castelo:\n\nEscola Superior Agrária.\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia e Gestão.\n\nInstituto Politécnico de Viseu:\n\nEscola Superior de Educação.\n\nEscola Superior de Tecnologia.\n\nEscola Superior de Educação da Madeira.\n\nEscola Superior de Educação de Vila Real.\n\nMapa II anexo a Decreto-Lei n.º 109/86\n\nUniversidade de Aveiro.\n\nUniversidade de Évora.\n\nUniversidade do Minho.\n\nUniversidade Nova de Lisboa.\n\nInstituto de Ciências Biomédicas de Abel Salazar.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

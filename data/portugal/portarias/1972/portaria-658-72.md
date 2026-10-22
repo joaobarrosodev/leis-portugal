@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:686197:por
+title: Portaria n.º 658/72
+short_title: null
+summary: Cria, com carácter temporário, no Estado de Moçambique, a Brigada de Apoio aos Serviços de Veterinária
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Economia
+proposing_entity: null
+official_number: 658/72
+official_date: null
+publication_date: '1972-11-08'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 260/1972, Série I de 1972-11-08
+  number: '260'
+  series: I
+  supplement: null
+  pages: 1605 - 1607
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/11/26000/16051607.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '686197'
+  dre_path: /dr/detalhe/portaria/658-1972-686197
+  internal: pt:dre:686197:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/658-1972-686197
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/658-1972-686197
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1972-11-08T00:00:00Z'
+integrity:
+  source_sha256: 8ac5d2f8fe10b8be7807b8bb19fdb5be327ed35632f3c8e9c7e87c2e9144c383
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1972/DRE-1972-658-686197.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 658/72
+
+de 8 de Novembro
+
+Considerando a necessidade de manter junto dos Serviços Provinciais de Veterinária uma brigada de apoio para a execução dos empreendimentos do III Plano de Fomento e dos que se lhes seguirem;
+
+Sendo necessário adaptar a constituição das brigadas de apoio aos Serviços de Veterinária, criadas pela [Portaria n.º 23833](https://diariodarepublica.pt/dr/detalhe/portaria/23833-1969-241598), de 4 de Janeiro de 1969, às disposições do [Decreto n.º 220/72](https://diariodarepublica.pt/dr/detalhe/decreto/220-1972-673844), de 27 de Junho:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do disposto nos Decretos n.os 44364 e 220/72, respectivamente de 25 de Maio de 1962 e 27 de Junho:
+
+1.º É criada, com carácter temporário, no Estado de Moçambique, sob a orientação e na dependência dos Serviços Provinciais de Veterinária, a Brigada de Apoio aos Serviços de Veterinária e adiante designada por Brigada.
+
+2.º São atribuições gerais da Brigada o fomento da pecuária de carnes e de leite e da avicultura nas zonas deficitárias e, bem assim, o melhoramento das pastagens e a profilaxia da tuberculose e brucelose nas zonas mais afectadas.
+
+3.º Além de quaisquer outras atribuições que forem julgadas necessárias à eficaz execução dos diversos objectivos dos planos de fomento no desenvolvimento da pecuária, compete em especial à Brigada:
+
+a) Execução de medidas profilácticas e tratamentos aos efectivos pecuários, com vista à sua melhoria sanitária;
+
+b) Apoio ao fomento pecuário e ao melhoramento zootécnico das espécies bovina, suína, arietina, caprina e dos animais de capoeira, com vista ao incremento da produção de carne;
+
+c) Apoio ao melhoramento tecnológico dos produtos de origem animal;
+
+d) Estudo do melhoramento e aproveitamento das pastagens através de serviços de execução devidamente apoiados nos institutos de investigação existentes.
+
+4.º Os Serviços Provinciais de Veterinária submeterão à apreciação do Governador-Geral os planos de trabalho da Brigada.
+
+5.º A Brigada elaborará um relatório anual e os que forem determinados no sistema de acompanhamento da execução dos planos de fomento.
+
+6.º Para ocorrer às despesas a efectuar no campo pela Brigada será fixado, pelo Governador-Geral, um fundo permanente, de harmonia com o disposto no [Decreto n.º 32853](https://diariodarepublica.pt/dr/detalhe/decreto/32853-1943-397136), de 16 de Junho de 1943, o qual será movimentado, nos termos do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e administrado por uma comissão constituída nos termos legais.
+
+7.º - 1. A Brigada será constituída pelo pessoal cujo número, categoria e vencimentos constam do quadro anexo à presente portaria.
+
+2. A admissão do pessoal referido em 1 deste número será feita por contrato e assalariamento e condicionada às necessidades dos trabalhos, até ao limite numérico constante do quadro anexo, reconhecida pelos Serviços de Veterinária e por proposta ao Governador-Geral.
+
+3. A Brigada será chefiada por um técnico director por escolha do Ministro.
+
+8.º As condições de admissão e prestação de serviço do pessoal do quadro anexo, nomeadamente a escolha de categoria de ingresso ou a promoção, serão as definidas no [Decreto n.º 220/72](https://diariodarepublica.pt/dr/detalhe/decreto/220-1972-673844), de 27 de Junho.
+
+9.º - 1. O pessoal, contratado e assalariado, do actual quadro das Brigadas de Apoio aos Serviços Provinciais de Veterinária e o contratado ao abrigo do disposto nos n.os 10.º e 11.º da [Portaria n.º 23833](https://diariodarepublica.pt/dr/detalhe/portaria/23833-1969-241598) transitará para o novo quadro, observando-se o seguinte:
+
+a) Para técnicos directores, por escolha do Ministro, sob proposta do Governador-Geral, entre os actuais chefes de brigada;
+
+b) Para técnicos chefes, os actuais chefes de brigada;
+
+c) Para técnicos, os actuais adjuntos de chefes de brigada;
+
+d) Para as mesmas categorias da classe do pessoal técnico, o actual pessoal técnico e pessoal técnico auxiliar;
+
+e) Para as mesmas categorias da classe do pessoal administrativo, os actuais segundos-oficiais e terceiros-oficiais, transitando os actuais aspirantes para escriturários-dactilógrafos de 1.ª classe e os actuais dactilógrafos para escriturários-dactilógrafos de 3.ª classe;
+
+f) Para auxiliares de 1.ª, 2.ª e 3.ª classes transitam, respectivamente, os actuais auxiliares de pecuária de 1.ª, 2.ª e 3.ª classes e os actuais capatazes de 1.ª, 2.ª e 3.ª classes;
+
+g) Para praticantes de 1.ª classe, os actuais carpinteiros, pedreiros e serralheiros;
+
+h) Para serventes de 1.ª e 2.ª classes, os actuais serventes de igual categoria.
+
+2. A transição do pessoal dirigente e superior, contratado, far-se-á mediante apostila ao respectivo contrato, anotada pelo Tribunal de Contas e publicada no Diário do Governo.
+
+3. A transição do pessoal técnico, administrativo e auxiliar far-se-á mediante apostila ao respectivo contrato, anotada pelo Tribunal Administrativo e publicada no Boletim Oficial.
+
+4. A transição do pessoal assalariado far-se-á mediante simples despacho do Governador-Geral, publicado no Boletim Oficial.
+
+10.º O pessoal que, independentemente da sua situação, exerça funções fora das categorias existentes transitará para o quadro anexo em regime de contrato, respeitando-se, tanto quanto possível, os cargos que actualmente desempenha.
+
+11.º É da competência da Direcção Provincial dos Serviços de Veterinária, sob proposta do técnico director chefe da Brigada, a atribuição de funções ao pessoal.
+
+12.º - 1. Independentemente das unidades e respectivas designações funcionais, constantes do quadro a que se refere o n.º 7 da presente portaria, poderá ser contratado, nos termos legais, o pessoal nacional ou estrangeiro, em casos excepcionais, quando ocasionalmente se verifique ser necessário à execução dos trabalhos.
+
+2. Os vencimentos e demais abonos do pessoal contratado ao abrigo do disposto em 1 deste número serão fixados por despacho do Ministro do Ultramar, tendo em conta os estabelecidos nesta portaria e a equiparação que se lhes possa fazer.
+
+13.º A Direcção Provincial dos Serviços de Veterinária poderá assalariar ou contratar o pessoal administrativo ou auxiliar que se torne necessário para o desempenho dos trabalhos da Brigada, devendo atribuir-se-lhe remunerações e outros abonos legalmente estabelecidos para agentes de idêntica categoria dos Serviços.
+
+14.º A Brigada poderá assalariar o pessoal trabalhador que se torne necessário para a execução dos serviços a seu cargo.
+
+15.º - 1. Sob proposta dos Serviços Provinciais de Veterinária poderá o Governador-Geral determinar que, por conveniência de serviço, seja temporàriamente integrado na Brigada pessoal técnico dos quadros comum e privativo dos mesmos.
+
+2. O pessoal dos quadros dos Serviços, quando integrado na Brigada, não poderá ter remunerações inferiores às de igual categoria da Brigada e manterá o direito a quaisquer gratificações e outros abonos que auferir no quadro a que pertencer. A compensação da remuneração a que tiver lugar, bem como o abono de ajudas de custo, subsídios diário e de campo, serão suportados pelas dotações dos planos de fomento.
+
+16.º O pessoal da Brigada terá direito aos abonos legais em vigor e demais regalias para os funcionários de idêntica categoria no Estado de Moçambique.
+
+17.º - 1. Além dos vencimentos constantes do quadro anexo a esta portaria, o pessoal da Brigada, quando em exercício em Moçambique, terá direito a um subsídio diário, que será permanente, e a um subsídio de campo quando incorporado em trabalhos de campo.
+
+2. O valor do subsídio diário será o constante da tabela anexa a esta portaria.
+
+18.º Poderá o Governador-Geral determinar que, por conveniência de serviço, parte do pessoal da Brigada seja colocada nos respectivos departamentos da Direcção Provincial dos Serviços de Veterinária.
+
+19.º Fica revogada a [Portaria n.º 23833](https://diariodarepublica.pt/dr/detalhe/portaria/23833-1969-241598), de 4 de Janeiro de 1969.
+
+Ministério do Ultramar, 30 de Outubro de 1972. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
+
+Para ser publicada no Boletim Oficial do Estado de Moçambique. - J. da Silva Cunha.
+
+QUADRO
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/26000/16051607.pdf))](https://files.diariodarepublica.pt/1s/1972/11/26000/16051607.pdf)
+
+TABELA
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1972/11/26000/16051607.pdf))](https://files.diariodarepublica.pt/1s/1972/11/26000/16051607.pdf)
+
+**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**

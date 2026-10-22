@@ -1,0 +1,213 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:853384722:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-898587583",
+ "dre_path": "/dr/detalhe/portaria/67-2024-853384722",
+ "source_lastmod": "2024-12-02",
+ "versions": [
+  {
+   "date": "2024-02-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "898641875",
+    "898641876",
+    "898641877",
+    "898641878",
+    "898641879",
+    "898641881"
+   ]
+  },
+  {
+   "date": "2024-12-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:898553934:por",
+     "title": "Portaria n.º 309/2024/1",
+     "published": "2024-12-02",
+     "dre_path": "/dr/detalhe/portaria/309-2024-898553934"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "898641875",
+    "898641876",
+    "898641888",
+    "898641878",
+    "898641890",
+    "898641891",
+    "898641892",
+    "898838575"
+   ]
+  },
+  {
+   "date": "2025-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:918326403:por",
+     "title": "Portaria n.º 222-A/2025/1",
+     "published": "2025-05-15",
+     "dre_path": "/dr/detalhe/portaria/222-a-2025-918326403"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "898641875",
+    "918128665",
+    "898641888",
+    "918128666",
+    "899370983",
+    "898641891",
+    "898641892",
+    "899370984"
+   ]
+  }
+ ],
+ "fragments": {
+  "898641875": {
+   "fragment_id": "898587584",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 67/2024\n\nde 22 de fevereiro\n\nSumário: Fixa o calendário venatório para as épocas 2024-2025, 2025-2026 e 2026-2027.\n\nO n.º 2 do artigo 3.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua redação atual, determina que em cada época venatória só é permitido o exercício da caça às espécies cinegéticas identificadas em portaria.\n\nO artigo 91.º do referido decreto-lei estabelece ainda que nessa mesma portaria são fixados os períodos, os processos e outros condicionamentos venatórios para cada época venatória, bem como os limites diários de abate autorizados para cada espécie cinegética, impondo-se definir as espécies cinegéticas que é permitido caçar nas épocas venatórias 2024-2027.\n\nA não publicação atempada desta portaria provocará constrangimentos ao normal funcionamento do setor cinegético, na medida em que a vigência da atual portaria que fixa o calendário venatório termina a 31 de maio 2024, data a partir da qual os caçadores e as zonas de caça ficam impedidos de exercer o ato venatório, não obstante já terem pagado a respetiva licença e a taxa anual.\n\nA portaria que define as espécies cinegéticas que é permitido caçar nas épocas venatórias 2021-2024, bem como os períodos, processos e outros condicionalismos para essas mesmas épocas, mostrou-se adequada aos objetivos de conservação da natureza, visando uma exploração sustentável dos recursos cinegéticos, pelo que importa manter as condições aí definidas.\n\nAs populações de rola-comum (Streptopelia turtur), embora tenham revelado uma recente estabilidade populacional na sequência da interdição de caça nos países atravessados pela rota migratória ocidental, entre os quais Portugal, não alcançaram ainda as condições necessárias para o levantamento da interdição, sendo de a manter até à época venatória 2026-2027.\n\nNestes termos, e ao abrigo do disposto no n.º 2 do artigo 3.º e no artigo 91.º, ambos do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua redação atual, e da subalínea vi) da alínea d) do n.º 3 do Despacho n.º 2291/2023, publicado no Diário da República, 2.ª série, n.º 34, de 16 de fevereiro de 2023, na sua redação atual, manda o Governo, pelo Secretário de Estado da Conservação da Natureza e Florestas, o seguinte:"
+  },
+  "898641876": {
+   "fragment_id": "898587585",
+   "type": 11,
+   "heading": "Artigo 1.º — Espécies cinegéticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Espécies cinegéticas\n\nNas épocas venatórias 2024-2025, 2025-2026 e 2026-2027 é permitido o exercício da caça às seguintes espécies cinegéticas:\n\na) Coelho-bravo (Oryctolagus cuniculus);\n\nb) Lebre (Lepus granatensis);\n\nc) Raposa (Vulpes vulpes);\n\nd) Saca-rabos (Herpestes ichneumon);\n\ne) Perdiz-vermelha (Alectoris rufa);\n\nf) Faisão (Phasianus colchicus);\n\ng) Pombo-da-rocha (Columba livia);\n\nh) Pega-rabuda (Pica pica);\n\ni) Gralha-preta (Corvus corone);\n\nj) Pato-real (Anas platyrhynchos);\n\nk) Frisada (Anas strepera);\n\nl) Marrequinha (Anas crecca);\n\nm) Pato-trombeteiro (Anas clypeata);\n\nn) Arrabio (Anas acuta);\n\no) Piadeira (Anas penelope);\n\np) Zarro-comum (Aythya ferina);\n\nq) Zarro-negrinha (Aythya fuligula);\n\nr) Galinha d'água (Gallinula chloropus);\n\ns) Galeirão (Fulica atra);\n\nt) Tarambola-dourada (Pluvialis apricaria);\n\nu) Galinhola (Scolopax rusticola);\n\nv) Codorniz (Coturnix coturnix);\n\nw) Pombo-bravo (Columba oenas);\n\nx) Pombo-torcaz (Columba palumbus);\n\ny) Tordo-zornal (Turdus pilaris);\n\nz) Tordo-comum (Turdus philomelos);\n\naa) Tordo-ruivo (Turdus iliacus);\n\nbb) Tordeia (Turdus viscivorus);\n\ncc) Estorninho-malhado (Sturnus vulgaris);\n\ndd) Narceja-comum (Gallinago gallinago);\n\nee) Narceja-galega (Lymnocryptes minimus);\n\nff) Javali (Sus scrofa);\n\ngg) Gamo (Dama dama);\n\nhh) Veado (Cervus elaphus);\n\nii) Corço (Capreolus capreolus);\n\njj) Muflão (Ovis amon)."
+  },
+  "898641877": {
+   "fragment_id": "898587586",
+   "type": 11,
+   "heading": "Artigo 2.º — Processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Processos\n\n1 - Nas épocas venatórias 2024-2025, 2025-2026 e 2026-2027 os processos de caça às espécies cinegéticas referidas no artigo anterior são os permitidos nos artigos 92.º a 106.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação.\n\n2 - O sítio na Internet do Instituto da Conservação da Natureza e das Florestas, I. P., disponibiliza a lista das zonas húmidas relevantes para efeitos das proibições constantes do Regulamento (UE) 2021/57, da Comissão, de 25 de janeiro de 2021, que altera o anexo xvii do Regulamento (CE) n.º 1907/2006, do Parlamento Europeu e do Conselho, relativo ao registo, avaliação, autorização e restrição dos produtos químicos no que respeita ao chumbo contido nos projéteis para armas de fogo utilizados em zonas húmidas ou na sua proximidade."
+  },
+  "898641878": {
+   "fragment_id": "898587587",
+   "type": 11,
+   "heading": "Artigo 3.º — Períodos e limites diários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Períodos e limites diários\n\n1 - Os períodos e os limites de abate para as espécies cinegéticas referidas no artigo 1.º da presente portaria, bem como outros condicionalismos venatórios, são os constantes do anexo a esta portaria, e da qual faz parte integrante.\n\n2 - Excetuam-se do disposto no número anterior os limites de abate fixados para as espécies cinegéticas sedentárias que obedecem ao previsto nos planos anuais de exploração, no caso de zonas de caça municipais, ou nos planos de ordenamento e exploração cinegética, no caso de zonas de caça associativas e turísticas, como dispõe o n.º 4 do artigo 91.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação."
+  },
+  "898641879": {
+   "fragment_id": "898587588",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de junho de 2024."
+  },
+  "898641881": {
+   "fragment_id": "898587590",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\n| Espécie | Período venatório | Limites diários de abate por |  |  |\n| --- | --- | --- | --- | --- |\n| Terreno ordenado | Terreno não ordenado | Terreno ordenado | Terreno não ordenado |  |\n|  |  |  |  |  |\n| Coelho-bravo (Oryctolagus cuniculus) ... | De 1 de setembro a 31 de dezembro. | Do 1.º domingo de outubro ao último domingo de novembro. | (3) | 1 |\n| Lebre (Lepus granatensis) (1) ... |  |  |  | 1 |\n| Raposa (Vulpes vulpes) ... | De 1 de outubro a 28 de fevereiro. | Do 1.º domingo de outubro ao último domingo de dezembro. |  | 1 |\n| Saca-rabos (Herpestes ichneumon) ... |  |  |  | 1 |\n| Perdiz-vermelha (Alectoris rufa) ... | De 1 de outubro a 31 de janeiro. |  |  | 1 |\n| Faisão (Phasianus colchicus) ... |  | - |  | - |\n| Pombo-da-rocha (Columba livia) (2) ... | Do 3.º domingo de agosto a 31 de dezembro. | Do 1.º domingo de outubro ao último domingo de dezembro. | 25 | 15 |\n| Pega-rabuda (Pica pica) ... | Do 3.º domingo de agosto a 28 de fevereiro. |  | (3) | 1 |\n| Gralha-preta (Corvus corone) ... |  |  |  | 1 |\n| Frisada (Anas strepera) ... | De 1 de outubro a 20 de janeiro. | - | 1 | - |\n| Pato-trombeteiro (Anas clypeata) ... |  |  |  |  |\n| Zarro-comum (Aythya ferina) ... |  |  |  |  |\n| Zarro-negrinha (Aythya fuligula) ... |  |  |  |  |\n| Marrequinha (Anas crecca) ... |  |  | 10 |  |\n| Arrabio (Anas acuta) ... |  |  |  |  |\n| Piadeira (Anas penelope) ... |  |  |  |  |\n| Pato-real (Anas platyrhynchos) ... | Do 3.º domingo de agosto a 20 de janeiro. |  |  |  |\n| Galeirão (Fulica atra) ... |  |  |  |  |\n| Galinha-d'água (Gallinula chloropus) ... |  |  | 5 |  |\n| Tarambola-dourada (Pluvialis apricaria) ... | De 1 de novembro a 20 de janeiro. |  | 5 |  |\n| Narceja-comum (Gallinago gallinago) ... |  |  | 8 |  |\n| Narceja-galega (Lymnocryptes minimus) ... |  |  |  |  |\n| Galinhola (Scolopax rusticola) ... | De 1 de novembro a 10 de fevereiro. |  | 3 |  |\n| Codorniz (Coturnix coturnix) ... | De 1 de setembro a 30 de novembro. |  | 10 |  |\n| Pombo-bravo (Columba oenas) ... | Do 3.º domingo de agosto a 20 de fevereiro. |  | 50 |  |\n| Pombo-torcaz (Columba palumbus) ... |  |  |  |  |\n| Tordo-zornal (Turdus pilaris) ... | De 1 de novembro a 20 de fevereiro. |  | 40 |  |\n| Tordo-comum (Turdus philomelos) ... |  |  |  |  |\n| Tordo-ruivo (Turdus iliacus) ... |  |  |  |  |\n| Tordeia (Turdus viscivorus) ... |  |  |  |  |\n| Estorninho-malhado (Sturnus vulgaris) ... |  |  |  |  |\n| Javali (Sus scrofa) ... | De 1 de junho a 31 de maio. |  | (3) |  |\n| Gamo (Dama dama) ... |  |  |  |  |\n| Veado (Cervus elaphus) ... |  |  |  |  |\n| Corço (Capreolus capreolus) ... |  |  |  |  |\n| Muflão (Ovis amon) ... |  |  |  |  |\n|  |  |  |  |  |\n\n(1) A caça à lebre, a corricão e por cetraria, tem início a 1 de setembro e termina a 28 de fevereiro.\n(2) A caça a esta espécie apenas é permitida nos municípios identificados na Portaria n.º 736/2001, de 17 de julho, corrigida pela Declaração de Retificação n.º 14-J/2001, de 31 de julho.\n(3) Limites de acordo com os planos de ordenamento e exploração cinegética para as zonas de caça associativas e turísticas e planos anuais de exploração para as zonas de caça municipais.\n117375354"
+  },
+  "898641888": {
+   "fragment_id": "898587586",
+   "type": 11,
+   "heading": "Artigo 2.º — Processos",
+   "in_force_from": "2024-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2024/1 - Diário da República n.º 233/2024, Série I de 2024-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/309-2024-898553934), em vigor a partir de 2024-12-03"
+   ],
+   "markdown": "###### Artigo 2.º — Processos\n\n1 - Nas épocas venatórias 2024-2025, 2025-2026 e 2026-2027 os processos de caça às espécies cinegéticas referidas no artigo anterior são os permitidos nos artigos 92.º a 106.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 309/2024/1 - Diário da República n.º 233/2024, Série I de 2024-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/309-2024-898553934), em vigor a partir de 2024-12-03"
+  },
+  "898641890": {
+   "fragment_id": "898587598",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Norma transitória",
+   "in_force_from": "2024-12-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 309/2024/1 - Diário da República n.º 233/2024, Série I de 2024-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/309-2024-898553934), em vigor a partir de 2024-12-03"
+   ],
+   "markdown": "###### Artigo 3.º-A — Norma transitória\n\n1 - Na época venatória 2024-2025, com exceção da caça ao javali pelo processo de espera em terrenos ordenados, é proibido o exercício da caça em todas as zonas de caça afetadas pelos incêndios ocorridos de 15 a 19 de setembro, nas freguesias identificadas no n.º 1 da Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro, e por incêndios de área superior a 1000 ha ocorridos nos concelhos de Arcos de Valdevez, Miranda do Douro e Vimioso.\n\n2 - No ano de 2025, as zonas de caça associativas e turísticas concessionadas, cujos terrenos foram percorridos por incêndios de área superior a 1000 ha ocorridos nos concelhos de Arcos de Valdevez, Miranda do Douro e Vimioso, ficam isentas do pagamento da taxa anual a que se referem, respetivamente, as alíneas c) e d) do n.º 2 do artigo 8.º da Portaria n.º 431/2006, de 3 de maio, na sua redação atual.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 309/2024/1 - Diário da República n.º 233/2024, Série I de 2024-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/309-2024-898553934), em vigor a partir de 2024-12-03"
+  },
+  "898641891": {
+   "fragment_id": "898587588",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de junho de 2024."
+  },
+  "898641892": {
+   "fragment_id": "898587589",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Conservação da Natureza e Florestas, João Paulo Marçal Lopes Catarino, em 15 de fevereiro de 2024."
+  },
+  "898838575": {
+   "fragment_id": "898587590",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 309/2024/1 - Diário da República n.º 233/2024, Série I de 2024-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/309-2024-898553934)"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\n| Espécie | Período venatório | Limites diários de abate<br>por caçador |  |  |\n| --- | --- | --- | --- | --- |\n| Terreno ordenado | Terreno não ordenado | Terreno<br>ordenado | Terreno não ordenado |  |\n| Coelho-bravo (Oryctolagus cuniculus) | De 1 de setembro a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de novembro | (3) | 1 |\n| Lebre (Lepus granatensis) (1) | 1 |  |  |  |\n| Raposa (Vulpes vulpes) | De 1 de outubro a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | 1 |  |\n| Saca-rabos (Herpestes ichneumon) | 1 |  |  |  |\n| Perdiz-vermelha (Alectoris rufa) | De 1 de outubro a 31 de janeiro | - | 1 |  |\n| Faisão (Phasianus colchicus) | – |  |  |  |\n| Pombo-da-rocha (Columba livia) (2) | Do 3.º domingo de agosto a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de dezembro | 25 | 15 |\n| Pega-rabuda (Pica pica) | Do 3.º domingo de agosto a 28 de fevereiro | (3) | 1 |  |\n| Gralha-preta (Corvus corone) | 1 |  |  |  |\n| Frisada (Anas strepera) | De 1 de outubro a 20 de janeiro | - | 1 | – |\n| Pato-trombeteiro (Anas clypeata) |  |  |  |  |\n| Zarro-comum (Aythya ferina) |  |  |  |  |\n| Zarro-negrinha (Aythya fuligula) |  |  |  |  |\n| Marrequinha (Anas crecca) | 10 |  | Arrabio (Anas acuta) |  |\n| Piadeira (Anas penélope) |  |  |  |  |\n| Pato-real (Anas platyrhynchos) | Do 3.º domingo de agosto a 20 de janeiro |  |  |  |\n| Galeirão (Fulica atra) |  |  |  |  |\n| Galinha-d’água (Gallinula chloropus) | 5 |  |  |  |\n| Tarambola-dourada (Pluvialis apricaria) | De 1 de novembro a 20 de janeiro | 5 |  |  |\n| Narceja-comum (Gallinago gallinago) | De 1 de novembro a 20 de fevereiro | 8 |  | Narceja-galega (Lymnocryptes minimus) |\n| Galinhola (Scolopax rusticola) | De 1 de novembro a 10 de fevereiro | 3 |  |  |\n| Rola-comum (Streptopelia turtur) | Nos 3.º e 4.º domingos de agosto e nos 1.º e 2.º domingos de setembro (4) | 4 |  |  |\n| Codorniz (Coturnix coturnix) | De 1 de setembro a 30 de novembro | 10 |  |  |\n| Pombo-bravo (Columba oenas) | Do 3.º domingo de agosto a 20 de fevereiro | 50 |  |  |\n| Pombo-torcaz (Columba palumbus) |  |  |  |  |\n| Tordo-zornal (Turdus pilaris) | De 1 de novembro a 20 de fevereiro | 40 |  | Tordo-comum (Turdus philomelos) |\n| Tordo-ruivo (Turdus iliacus) |  |  |  |  |\n| Tordeia (Turdus viscivorus) |  |  |  |  |\n| Estorninho-malhado (Sturnus vulgaris) |  |  |  |  |\n| Javali (Sus scrofa) | De 1 de junho a 31 de maio | (3) |  | Gamo (Dama dama) |\n| Veado (Cervus elaphus) |  |  |  |  |\n| Corço (Capreolus capreolus) |  |  |  |  |\n| Muflão (Ovis amon) |  |  |  |  |\n\n(\n\n1\n\n) A caça à lebre, a corricão e por cetraria, tem início a 1 de setembro e termina a 28 de fevereiro.\n\n(\n\n2\n\n) A caça a esta espécie apenas é permitida nos municípios identificados na Portaria n.º 736/2001, de 17 de julho, corrigida pela Declaração de Retificação n.º 14-J/2001, de 31 de julho.\n\n(\n\n3\n\n) Para as ZCM os limites são os do plano anual de exploração, para as ZCT e ZCA, de acordo com os planos de ordenamento e exploração cinegética.\n\n(\n\n4\n\n) A caça à rola-comum apenas é permitida durante o período da manhã, até às 13 horas.\n\n117375354\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 309/2024/1 - Diário da República n.º 233/2024, Série I de 2024-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/309-2024-898553934)"
+  },
+  "918128665": {
+   "fragment_id": "898587585",
+   "type": 11,
+   "heading": "Artigo 1.º — Espécies cinegéticas",
+   "in_force_from": "2025-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 222-A/2025/1 - Diário da República n.º 93/2025, Suplemento, Série I de 2025-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/222-a-2025-918326403), em vigor a partir de 2025-05-16"
+   ],
+   "markdown": "###### Artigo 1.º — Espécies cinegéticas\n\n1 - Nas épocas venatórias 2024-2025, 2025-2026 e 2026-2027 é permitido o exercício da caça às seguintes espécies cinegéticas:\n\na) Coelho-bravo (Oryctolagus cuniculus);\n\nb) Lebre (Lepus granatensis);\n\nc) Raposa (Vulpes vulpes);\n\nd) Saca-rabos (Herpestes ichneumon);\n\ne) Perdiz-vermelha (Alectoris rufa);\n\nf) Faisão (Phasianus colchicus);\n\ng) Pombo-da-rocha (Columba livia);\n\nh) Pega-rabuda (Pica pica);\n\ni) Gralha-preta (Corvus corone);\n\nj) Pato-real (Anas platyrhynchos);\n\nk) Frisada (Anas strepera);\n\nl) Marrequinha (Anas crecca);\n\nm) Pato-trombeteiro (Anas clypeata);\n\nn) Arrabio (Anas acuta);\n\no) Piadeira (Anas penelope);\n\np) Zarro-comum (Aythya ferina);\n\nq) Zarro-negrinha (Aythya fuligula);\n\nr) Galinha d'água (Gallinula chloropus);\n\ns) Galeirão (Fulica atra);\n\nt) Tarambola-dourada (Pluvialis apricaria);\n\nu) Galinhola (Scolopax rusticola);\n\nv) Codorniz (Coturnix coturnix);\n\nw) Pombo-bravo (Columba oenas);\n\nx) Pombo-torcaz (Columba palumbus);\n\ny) Tordo-zornal (Turdus pilaris);\n\nz) Tordo-comum (Turdus philomelos);\n\naa) Tordo-ruivo (Turdus iliacus);\n\nbb) Tordeia (Turdus viscivorus);\n\ncc) Estorninho-malhado (Sturnus vulgaris);\n\ndd) Narceja-comum (Gallinago gallinago);\n\nee) Narceja-galega (Lymnocryptes minimus);\n\nff) Javali (Sus scrofa);\n\ngg) Gamo (Dama dama);\n\nhh) Veado (Cervus elaphus);\n\nii) Corço (Capreolus capreolus);\n\njj) Muflão (Ovis amon).\n\n2 - Nas épocas venatórias de 2025-2026 e 2026-2027 é permitido o exercício da caça à rola-comum (Streptopelia turtur), desde que se verifique a compatibilidade da evolução populacional da espécie com o seu exercício cinegético, nos termos a definir por deliberação do conselho diretivo do Instituto da Conservação da Natureza e das Florestas, I. P., e a publicitar no respetivo sítio na Internet.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 222-A/2025/1 - Diário da República n.º 93/2025, Suplemento, Série I de 2025-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/222-a-2025-918326403), em vigor a partir de 2025-05-16"
+  },
+  "918128666": {
+   "fragment_id": "898587587",
+   "type": 11,
+   "heading": "Artigo 3.º — Períodos e limites diários",
+   "in_force_from": "2025-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 222-A/2025/1 - Diário da República n.º 93/2025, Suplemento, Série I de 2025-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/222-a-2025-918326403), em vigor a partir de 2025-05-16"
+   ],
+   "markdown": "###### Artigo 3.º — Períodos e limites diários\n\n1 - Os períodos e os limites de abate para as espécies cinegéticas referidas no artigo 1.º da presente portaria, bem como outros condicionalismos venatórios, são os constantes do anexo a esta portaria, e da qual faz parte integrante.\n\n2 - Excetuam-se do disposto no número anterior os limites de abate fixados para as espécies cinegéticas sedentárias que obedecem ao previsto nos planos anuais de exploração, no caso de zonas de caça municipais, ou nos planos de ordenamento e exploração cinegética, no caso de zonas de caça associativas e turísticas, como dispõe o n.º 4 do artigo 91.º do Decreto-Lei n.º 202/2004, de 18 de agosto, na sua atual redação.\n\n3 - Excetuam-se ainda do disposto no n.º 1 os períodos de caça e os limites de abate de rola-comum (Streptopelia turtur) a fixar por deliberação do conselho diretivo do Instituto da Conservação da Natureza e das Florestas, I. P., a publicitar no respetivo sítio na Internet, dando cumprimento ao plano de caça adaptativa para esta espécie, limitado à quota anual de abate estabelecida para território nacional.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 222-A/2025/1 - Diário da República n.º 93/2025, Suplemento, Série I de 2025-05-15](https://diariodarepublica.pt/dr/detalhe/portaria/222-a-2025-918326403), em vigor a partir de 2025-05-16"
+  },
+  "899370983": {
+   "fragment_id": "898587598",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 38-B/2024/1 - Diário da República n.º 235/2024, Suplemento, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-b-2024-898989663), produz efeitos a partir de 2024-12-03",
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 309/2024/1 - Diário da República n.º 233/2024, Série I de 2024-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/309-2024-898553934), em vigor a partir de 2024-12-03"
+   ],
+   "markdown": "###### Artigo 3.º-A — Norma transitória\n\n1 - Na época venatória 2024-2025, com exceção da caça ao javali pelo processo de espera em terrenos ordenados, é proibido o exercício da caça nas áreas ardidas em todas as zonas de caça afetadas pelos incêndios ocorridos de 15 a 19 de setembro, que tenham ocorrido nas freguesias identificadas no n.º 1 da Resolução do Conselho de Ministros n.º 130-A/2024, de 27 de setembro, e incêndios de área superior a 1000 hectares ocorridos nos concelhos de Miranda do Douro e Vimioso.\n\n2 - No ano de 2025, as zonas de caça associativas e turísticas concessionadas, cujos terrenos foram percorridos por incêndios de área superior a 1000 ha ocorridos nos concelhos de Arcos de Valdevez, Miranda do Douro e Vimioso, ficam isentas do pagamento da taxa anual a que se referem, respetivamente, as alíneas c) e d) do n.º 2 do artigo 8.º da Portaria n.º 431/2006, de 3 de maio, na sua redação atual.\n\n> Retificado pelo/a [Declaração de Retificação n.º 38-B/2024/1 - Diário da República n.º 235/2024, Suplemento, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-b-2024-898989663), produz efeitos a partir de 2024-12-03\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 309/2024/1 - Diário da República n.º 233/2024, Série I de 2024-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/309-2024-898553934), em vigor a partir de 2024-12-03"
+  },
+  "899370984": {
+   "fragment_id": "898587590",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 38-B/2024/1 - Diário da República n.º 235/2024, Suplemento, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-b-2024-898989663), produz efeitos a partir de 2024-12-03",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 309/2024/1 - Diário da República n.º 233/2024, Série I de 2024-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/309-2024-898553934)"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\n| Espécie | Período venatório | Limites diários<br>de abate por caçador |  |  |\n| --- | --- | --- | --- | --- |\n| Terreno ordenado | Terreno não ordenado | Terreno<br>ordenado | Terreno<br>não ordenado |  |\n| Coelho-bravo (Oryctolagus cuniculus) | De 1 de setembro a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de novembro | (3) | 1 |\n| Lebre (Lepus granatensis) (1) | 1 |  |  |  |\n| Raposa (Vulpes vulpes) | De 1 de outubro a 28 de fevereiro | Do 1.º domingo de outubro ao último domingo de dezembro | 1 |  |\n| Saca-rabos (Herpestes ichneumon) | 1 |  |  |  |\n| Perdiz-vermelha (Alectoris rufa) | De 1 de outubro a 31 de janeiro | 1 |  |  |\n| Faisão (Phasianus colchicus) | - | – |  |  |\n| Pombo-da-rocha (Columba livia) (2) | Do 3.º domingo de agosto a 31 de dezembro | Do 1.º domingo de outubro ao último domingo de dezembro | 25 | 15 |\n| Pega-rabuda (Pica pica) | Do 3.º domingo de agosto a 28 de fevereiro | (3) | 1 |  |\n| Gralha-preta (Corvus corone) | 1 |  |  |  |\n| Frisada (Anas strepera) | De 1 de outubro a 20 de janeiro | - | 1 | – |\n| Pato-trombeteiro (Anas clypeata) |  |  |  |  |\n| Zarro-comum (Aythya ferina) |  |  |  |  |\n| Zarro-negrinha (Aythya fuligula) |  |  |  |  |\n| Marrequinha (Anas crecca) |  | 10 |  |  |\n| Arrabio (Anas acuta) |  |  |  |  |\n| Piadeira (Anas penélope) |  |  |  |  |\n| Pato-real (Anas platyrhynchos) | Do 3.º domingo de agosto a 20 de janeiro |  |  |  |\n| Galeirão (Fulica atra) |  |  |  |  |\n| Galinha-d’água (Gallinula chloropus) |  | 5 |  |  |\n| Tarambola-dourada (Pluvialis apricaria) | De 1 de novembro a 20 de janeiro |  | 5 |  |\n| Narceja-comum (Gallinago gallinago) | De 1 de novembro a 20 de fevereiro |  | 8 |  |\n| Narceja-galega (Lymnocryptes minimus) |  |  |  |  |\n| Galinhola (Scolopax rusticola) | De 1 de novembro a 10 de fevereiro |  | 3 |  |\n| Codorniz (Coturnix coturnix) | De 1 de setembro a 30 de novembro |  | 10 |  |\n| Pombo-bravo (Columba oenas) | Do 3.º domingo de agosto a 20 de fevereiro |  | 50 |  |\n| Pombo-torcaz (Columba palumbus) |  |  |  |  |\n| Tordo-zornal (Turdus pilaris) | De 1 de novembro a 20 de fevereiro |  | 40 |  |\n| Tordo-comum (Turdus philomelos) |  |  |  |  |\n| Tordo-ruivo (Turdus iliacus) |  |  |  |  |\n| Tordeia (Turdus viscivorus) |  |  |  |  |\n| Estorninho-malhado (Sturnus vulgaris) |  |  |  |  |\n| Javali (Sus scrofa) | De 1 de junho a 31 de maio |  | (3) |  |\n| Gamo (Dama dama) |  |  |  |  |\n| Veado (Cervus elaphus) |  |  |  |  |\n| Corço (Capreolus capreolus) |  |  |  |  |\n| Muflão (Ovis amon) |  |  |  |  |\n\n(\n\n1\n\n) A caça à lebre, a corricão e por cetraria, tem início a 1 de setembro e termina a 28 de fevereiro.\n\n(\n\n2\n\n) A caça a esta espécie apenas é permitida nos municípios identificados na Portaria n.º 736/2001, de 17 de julho, corrigida pela Declaração de Retificação n.º 14-J/2001, de 22 de novembro.\n\n(\n\n3\n\n) Para as ZCM os limites são os do plano anual de exploração, para as ZCT e ZCA, de acordo com os planos de ordenamento e exploração cinegética.\n\n117375354\n\n> Retificado pelo/a [Declaração de Retificação n.º 38-B/2024/1 - Diário da República n.º 235/2024, Suplemento, Série I de 2024-12-04](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-b-2024-898989663), produz efeitos a partir de 2024-12-03\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 309/2024/1 - Diário da República n.º 233/2024, Série I de 2024-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/309-2024-898553934)"
+  }
+ }
+}

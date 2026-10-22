@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:398835:por
+title: Portaria n.º 110-B/77
+short_title: null
+summary: Altera a taxa de serviço a que se refere o n.º 1 da secção I «Serviços comuns a todos os matadouros»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e Pescas - Secretaria de Estado do Comércio e Indústrias Agrícolas
+proposing_entity: null
+official_number: 110-B/77
+official_date: null
+publication_date: '1977-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 53/1977, 1º Suplemento, Série I de 1977-03-04
+  number: '53'
+  series: I
+  supplement: 1º Suplemento
+  pages: 382-(6) a 382-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/03/05301/00060006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '398835'
+  dre_path: /dr/detalhe/portaria/110-b-1977-398835
+  internal: pt:dre:398835:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-b-1977-398835
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-b-1977-398835
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-04-07T00:00:00Z'
+integrity:
+  source_sha256: 1db16f16e3e8848c1fa9bea421ae2deb6a3aa1488ad9dba7c92946d4fd4fb5a1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-110-B-398835.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:656384:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 110-B/77
+
+de 4 de Março
+
+Ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 661/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/661-1974-466175), de 26 de Novembro:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Comércio e Indústrias Agrícolas, o seguinte:
+
+1.º É alterada a taxa de serviço de 2$90 por quilograma de carcaça, a que se refere o n.º 1 da secção I «Serviços comuns a todos os matadouros» da tabela dos custos dos serviços a prestar nos matadouros, anexa à [Portaria n.º 84/75](https://diariodarepublica.pt/dr/detalhe/portaria/84-1975-159772), de 14 de Fevereiro, para 4$70, relativamente a bovinos, ovinos e caprinos.
+
+2.º A taxa referida no n.º 1.º é composta pelas seguintes verbas:
+
+Utilização do matadouro ... 2$50
+
+Abate de reses e preparação de carcaças ... $75
+
+Preparação de miudezas ... $20
+
+Salga de couros e peles ... $25
+
+Transporte e distribuição ... 1$00
+
+3.º Apenas são cobradas pelos matadouros as verbas correspondentes aos serviços efectivamente prestados.
+
+4.º A taxa a cobrar pela Junta Nacional dos Produtos Pecuários sobre as carnes de gado bovino, suíno, ovino, e caprino passa a ser $50/kg.
+
+5.º São revogados a [Portaria n.º 217/75](https://diariodarepublica.pt/dr/detalhe/portaria/217-1975-161492), de 31 de Março, e o n.º 1 do despacho ministerial conjunto dos Ministérios das Finanças e da Economia de 23 de Novembro de 1972 relativamente a carnes.
+
+6.º São extintas as taxas de $10/kg e $05/kg relativamente ao estacionamento em câmara fria, pelo período normal de vinte e quatro horas, de bovinos, suínos, equídeos e ovinos e caprinos, constantes do n.º 1 da alínea B) «Refrigeração de carne para o consumo» da rubrica «Congelação e outras operações» da secção III «Utilização do frigorífico» da tabela dos custos dos serviços a prestar nos matadouros, anexa à [Portaria n.º 84/75](https://diariodarepublica.pt/dr/detalhe/portaria/84-1975-159772), de 14 de Fevereiro.
+
+7.º Esta portaria entra em vigor na data da sua publicação.
+
+Secretaria de Estado do Comércio e Indústrias Agrícolas, 28 de Fevereiro de 1977. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Carlos Alberto Antunes Filipe.

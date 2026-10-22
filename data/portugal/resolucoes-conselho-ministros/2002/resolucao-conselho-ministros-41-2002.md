@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: pt:dre:250410:por
+title: Resolução do Conselho de Ministros n.º 41/2002
+short_title: null
+summary: Estabelece medidas para permitir a transformação de estabelecimentos públicos prestadores de cuidados hospitalares
+  em entidades públicas empresariais (EPE)
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 41/2002
+official_date: null
+publication_date: '2002-03-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 56/2002, Série I-B de 2002-03-07
+  number: '56'
+  series: I
+  supplement: null
+  pages: 1868 - 1869
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/03/056b00/18681869.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/41/2002/03/07/p/dre/pt/html
+  oj: null
+  dre: '250410'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/41-2002-250410
+  internal: pt:dre:250410:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2002-250410
+  metadata_url: https://data.dre.pt/eli/resolconsmin/41/2002/03/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/41-2002-250410
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2002-03-07T00:00:00Z'
+integrity:
+  source_sha256: 18f2780f56b14647ecfc6a3a04be62511c5402218c48d1e927e3e273661a6b7c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2002/DRE-2002-41-250410.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa
+- Centro Hospitalar
+- Administração Regional de Saúde
+- Serviço Nacional de Saúde
+- Gestão de Empresas
+- Gestão Hospitalar
+- Ministério das Finanças
+- Organismo do Estado
+- Ministério da Saúde
+- Estabelecimento Hospitalar
+- Setor Empresarial
+- Unidade Local de Saúde
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/151/1998/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/151/1998/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/207/1999/06/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/207/1999/06/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/558/1999/12/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/76/2001/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/76/2001/02/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/109-b/2001/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/109-b/2001/12/27/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 41/2002
+
+O Governo lançou um amplo e ambicioso programa de reforma e inovação da gestão hospitalar. O programa em apreço compreende um vasto conjunto de medidas, entre as quais, pelo seu carácter estruturante, assumem particular destaque o desenvolvimento de modelos inovadores de gestão, através do lançamento de parcerias público-privadas e parcerias público-públicas e da «empresarialização» de hospitais.
+
+A «empresarialização» de hospitais constitui um vector essencial da reforma da gestão hospitalar em curso e um factor indispensável para melhorar o nível de desempenho global do Serviço Nacional de Saúde, potenciando ganhos de saúde acrescidos e assegurando as condições de base da sua sustentabilidade, em termos duradouros.
+
+Existe um amplo reconhecimento da necessidade de inovação, no sector da saúde, relativamente ao paradigma tradicional da autonomia dos serviços da Administração Pública - de pendor burocrático-administrativo e cingida ao regime jurídico-financeiro dos mesmos serviços, no quadro da contabilidade pública -, privilegiando uma independência e agilidade mais acentuadas da organização e da gestão dos hospitais públicos nas diversas áreas da sua actuação.
+
+Tal opção é expressamente admitida na Lei de Bases da Saúde, ao estabelecer que a gestão das unidades de saúde obedece, quanto possível, a regras de gestão empresarial e ao permitir experiências inovadoras de gestão.
+
+Face à dinâmica da actividade desenvolvida pela instituição hospitalar, por definição vocacionada para a satisfação de necessidades dos cidadãos nas quais ressalta a premência, a exigência de qualidade técnica e a constante actualização dos meios disponíveis, importa proporcionar saltos qualitativos em aspectos como, em especial, o dos recursos humanos, cuja dimensão é seguramente a mais relevante na prestação de cuidados de saúde, e como o do processo de aquisições, que, múltiplas vezes, se ressentem dos formalismos e delongas existentes na administração pública hierárquica.
+
+Muito relevantes são as aquisições da experiência prática dos anos mais recentes, em particular a da criação de estruturas hospitalares abertamente qualificadas como estabelecimentos públicos personalizados com autonomia administrativa, financeira e patrimonial e com natureza empresarial - o que sucedeu, em desenvolvimento da base XXXVI da Lei de Bases da Saúde, com o Hospital de São Sebastião, em Santa Maria da Feira ([Decreto-Lei n.º 151/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1998-475970), de 5 de Junho), com a Unidade Local de Saúde de Matosinhos ([Decreto-Lei n.º 207/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/207-1999-310798), de 9 de Junho) e com o Hospital do Barlavento Algarvio ([Decreto-Lei n.º 76/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2001-384652), de 27 de Fevereiro).
+
+Urge introduzir novas experiências, definindo uma regulamentação alternativa que vise a própria base organizacional das entidades públicas prestadoras de cuidados hospitalares em termos mais vincadamente empresariais, de modo a induzir uma gestão capaz de criterioso equilíbrio entre equidade e eficácia, ou seja, de obter dos recursos disponíveis «o maior proveito socialmente útil» e de «evitar o desperdício e a utilização indevida dos serviços» como é directriz geral da política de saúde [n.º 1, alínea e), da base II da referida [Lei n.º 48/90](https://diariodarepublica.pt/dr/detalhe/lei/48-1990-574127)].
+
+A alternativa que agora se oferece é passar decisivamente destes institutos públicos sob a espécie de estabelecimentos de carácter social, integrados no sector público administrativo - ainda que regidos subsidiariamente pelas normas aplicáveis às empresas públicas - para entidades típicas do sector empresarial do Estado. O Ministério da Saúde vem desenvolvendo trabalhos preparatórios neste preciso sentido, estando agora os mesmos em condições de ser ultimados.
+
+Para tal efeito, importa obedecer ao imperativo constitucional de pautar o novo regime legal pelas bases gerais que hoje se encontram definidas no [Decreto-Lei n.º 558/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/558-1999-655312), de 17 de Dezembro. No âmbito deste regime, a opção pela figura da entidade pública empresarial (EPE), justificada pela maior proximidade com a natureza dos serviços cuja estrutura se intenta transformar, não prejudica que na devida altura se possa vir a recorrer ao modelo da sociedade comercial de capitais públicos, espécie do mesmo género que é a empresa pública.
+
+Esta reforma é consensualmente urgente e devem ser dados os passos indispensáveis para a concretizar durante a execução orçamental de 2002.
+
+Importa salientar que, no âmbito do Programa de Estabilidade e Crescimento (actualização para o período de 2002-2005) apresentado à União Europeia, Portugal se comprometeu expressamente a «converter em empresas públicas hospitais de média dimensão e com capacidade estrutural e experiência positiva de desempenho que lhes permita, com dotação extraordinária de capital, melhorar as condições de qualidade e eficiência de desempenho e resolver o passivo acumulado».
+
+Nesta conformidade, está o Governo autorizado a proceder a alterações orçamentais adequadas a viabilizar a criação de estabelecimentos hospitalares e centros de saúde dotados de personalidade jurídica e autonomia administrativa e financeira (artigo 4.º, n.º 2, da [Lei n.º 109-B/2001](https://diariodarepublica.pt/dr/detalhe/lei/109-b-2001-229157), de 27 de Dezembro).
+
+Encontram-se, pois, reunidas as condições para dar início à criação das empresas públicas hospitalares, processo que implicará a aprovação, caso a caso, de um decreto-lei.
+
+Para tanto, há que desencadear desde já as necessárias medidas preparatórias, por forma a poder dar execução, em tempo útil, à faculdade criada pela Lei do Orçamento e ao compromisso com a União Europeia.
+
+Assim, o procedimento de identificação das unidades hospitalares a transformar em EPE deve obedecer a um processo célere para que Portugal possa honrar o Programa de Estabilidade e Crescimento e aplicar a Lei do Orçamento.
+
+Este procedimento deve ser participado e envolver as entidades públicas prestadoras de cuidados hospitalares, as administrações regionais de saúde e as estruturas centrais do Ministério da Saúde.
+
+Deste modo, estabelece-se uma fase de manifestação de interesse por parte das unidades hospitalares, a que se segue uma fase de candidatura coordenada pelas administrações regionais de saúde, que possibilitará a avaliação e escolha.
+
+Posteriormente, por despacho do Ministro da Saúde, identificar-se-ão as unidades hospitalares que serão, caso a caso, transformadas em EPE por decreto-lei, de acordo com as linhas de orientação relativas ao estatuto tipo.
+
+Este procedimento desencadeará, em cada unidade prestadora de cuidados hospitalares a transformar em EPE, necessidades de assessoria jurídico-financeira com possível recurso a entidades privadas, implicando o cumprimento das formalidades legais previstas na legislação enquadradora de aquisição de serviços pela Administração Pública. Este facto, conjugado com as obrigações atrás identificadas - execução da Lei do Orçamento e do Programa de Estabilidade e Crescimento (actualização para o período de 2002-2005) apresentado à União Europeia -, justifica o lançamento desde já destas medidas numa fase em que o Governo se encontra constitucionalmente em gestão.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar a ultimação, no prazo máximo de 30 dias e no âmbito do Ministério da Saúde, das linhas de orientação relativas ao estatuto tipo de hospital, centro hospitalar ou unidade local de saúde, com a natureza formal de entidade pública empresarial (EPE), modelo a ser adoptado casuisticamente, mediante decreto-lei, com as adaptações que em cada caso se revelem necessárias.
+
+2 - No modelo estatutário a que alude o n.º 1 serão abrangidos, designadamente, os seguintes aspectos:
+
+a) Natureza, capacidade e autonomia da EPE;
+
+b) Titularidade do capital estatutário e limites à eventual transmissibilidade das participações, a qual apenas poderá ter lugar entre entidades públicas;
+
+c) Órgãos de gestão, fiscalização e direcção técnica, sua composição, competência e forma de designação e destituição dos respectivos titulares;
+
+d) Forma de elaboração e aprovação do regulamento interno e matérias por ele regidas;
+
+e) Instrumentos de gestão previsional, controlo financeiro e prestação de contas;
+
+f) Orientações da política de recursos humanos e previsão do regime regra do contrato individual de trabalho e de eventuais regimes especiais aplicáveis a funcionários e agentes da Administração Pública;
+
+g) Âmbito específico da tutela dos Ministérios da Saúde e das Finanças;
+
+h) Regras próprias de avaliação e acompanhamento, pelas autoridades de saúde, da execução da política nacional de saúde.
+
+3 - As linhas de orientação, referidas no n.º 1, serão divulgadas, junto dos hospitais, centros hospitalares e unidades locais de saúde, pelas administrações regionais de saúde, a quem incumbe apoiar o projecto de transformação em EPE das entidades públicas prestadoras de cuidados hospitalares, nos termos a seguir estabelecidos.
+
+4 - São condições básicas de elegibilidade para a transformação em EPE as entidades públicas prestadoras de cuidados hospitalares que apresentam uma dimensão média, uma dívida acumulada inferior a 35% da despesa total do ano anterior e capacidade demonstrada de gestão.
+
+5 - O procedimento de escolha das entidades públicas prestadoras de cuidados hospitalares será iniciado através de requerimento do órgão de gestão do respectivo estabelecimento, após consulta ao conselho geral, à administração regional de saúde competente, e enviado no prazo máximo de 45 dias, contados a partir da data de publicação da presente resolução.
+
+6 - As administrações regionais de saúde terão a faculdade de propor, no mesmo prazo, a transformação em EPE de outras entidades públicas prestadoras de cuidados hospitalares, desde que seja respeitado o critério previsto no n.º 4.
+
+7 - O Ministro da Saúde decidirá, de entre os pedidos apresentados pelos órgãos de gestão das entidades públicas prestadoras de cuidados hospitalares e das propostas das administrações regionais de saúde, aqueles que deverão ser objecto de elaboração de projecto de transformação em EPE.
+
+8 - O projecto de transformação empresarial deve fundar-se obrigatoriamente em estudo prévio de viabilidade económico-financeira e incluir propostas concretas de estrutura de gestão e de um contrato-programa plurianual de gestão, bem como um projecto de regulamento interno.
+
+9 - No seguimento do despacho previsto no n.º 7, o projecto de transformação referido no número anterior deverá ser elaborado e apresentado no prazo máximo de 150 dias pelas entidades públicas prestadoras de cuidados hospitalares, que serão assistidas pelas administrações regionais de saúde competentes.
+
+10 - Reconhece-se a urgência imperiosa na elaboração de cada projecto referido no n.º 8 para efeitos de adopção do procedimento de consulta prévia previsto na secção III do capítulo III do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, por parte das entidades hospitalares, na contratação de entidades de reconhecida idoneidade.
+
+11 - O Ministro da Saúde fixará por despacho as formas e critérios de apreciação dos projectos apresentados e nomeará uma comissão de selecção por cada administração regional de saúde envolvida, que os avaliará no prazo máximo de 30 dias.
+
+12 - O Ministro da Saúde escolherá as entidades públicas prestadoras de cuidados hospitalares a transformar em EPE, atendendo à melhoria de cuidados de saúde proposta e à necessária diminuição da despesa pública.
+
+13 - À Estrutura de Missão Parcerias-Saúde caberá a coordenação central do processo de transformação estatutária em EPE, designadamente através da elaboração de linhas de orientação, instrumentos contratuais e de gestão, bem como a emissão de pareceres.
+
+14 - Desencadeado o processo legislativo de criação de cada EPE, serão oportunamente ouvidas, nos termos legais, as entidades representativas dos profissionais do sector.
+
+Presidência do Conselho de Ministros, 14 de Fevereiro de 2002. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

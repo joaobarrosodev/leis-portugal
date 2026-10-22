@@ -1,0 +1,149 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:490258:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-34514875",
+ "dre_path": "/dr/detalhe/lei/113-2009-490258",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "49313075",
+    "49313175",
+    "49313275",
+    "49313375",
+    "49313475",
+    "49313575"
+   ]
+  },
+  {
+   "date": "2015-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70086390:por",
+     "title": "Lei n.º 103/2015",
+     "published": "2015-08-24",
+     "dre_path": "/dr/detalhe/lei/103-2015-70086390"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "49313075",
+    "49313175",
+    "213499676",
+    "213499677",
+    "213499678",
+    "49313575",
+    "213499679",
+    "213499680"
+   ]
+  }
+ ],
+ "fragments": {
+  "49313075": {
+   "fragment_id": "35134675",
+   "type": 15,
+   "heading": "Diploma — Estabelece medidas de protecção de menores, em cumprimento do artigo 5.º da Convenção do Conselho da Europa contra a Exploração Sexual e o Abuso Sexual de Crianças, e procede à segunda alteração à Lei n.º 57/98, de 18 de Agosto.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "49313175": {
+   "fragment_id": "35893575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei estabelece medidas de protecção de menores em cumprimento do artigo 5.º da Convenção do Conselho da Europa contra a Exploração Sexual e o Abuso Sexual de Crianças."
+  },
+  "49313275": {
+   "fragment_id": "35893675",
+   "type": 11,
+   "heading": "Artigo 2.º — Aferição de idoneidade no acesso a funções que envolvam contacto regular com menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aferição de idoneidade no acesso a funções que envolvam contacto regular com menores\n\n1 - No recrutamento para profissões, empregos, funções ou actividades, públicas ou privadas, ainda que não remuneradas, cujo exercício envolva contacto regular com menores, a entidade recrutadora está obrigada a pedir ao candidato a apresentação de certificado de registo criminal e a ponderar a informação constante do certificado na aferição da idoneidade do candidato para o exercício das funções.\n\n2 - No requerimento do certificado, o requerente especifica obrigatoriamente o fim a que aquele se destina, indicando a profissão, emprego, função ou actividade a exercer e indicando ainda que o seu exercício envolve contacto regular com menores.\n\n3 - O certificado requerido por particulares para o fim previsto no n.º 1 tem a menção de que se destina a situação de exercício de funções que envolvam contacto regular com menores e deve conter, para além da informação prevista no artigo 11.º da Lei n.º 57/98, de 18 de Agosto:\n\na) As condenações por crime previsto no artigo 152.º, no artigo 152.º-A ou no capítulo v do título i do livro ii do Código Penal;\n\nb) As decisões que apliquem penas acessórias nos termos dos artigos 152.º e 179.º do Código Penal ou medidas de segurança que interditem a actividade;\n\nc) As decisões que sejam consequência, complemento ou execução das indicadas nas alíneas anteriores e não tenham como efeito o cancelamento do registo.\n\n4 - Ao certificado requerido por particulares para o fim previsto no n.º 1 não é aplicável o disposto na alínea e) do n.º 2 do artigo 12.º da Lei n.º 57/98, de 18 de Agosto.\n\n5 - No certificado requerido por particulares para o fim previsto no n.º 1 constam também as decisões proferidas por tribunais estrangeiros, equivalentes às previstas nas alíneas do n.º 3.\n\n6 - O disposto no n.º 1 não prejudica a obrigatoriedade do cumprimento de proibições ou inibições decorrentes da aplicação de uma pena acessória ou de uma medida de segurança, cuja violação é punida nos termos do artigo 353.º do Código Penal.\n\n7 - O não cumprimento do disposto no n.º 1 por parte da entidade recrutadora constitui contra-ordenação, punida com coima cujos limites mínimo e máximo são os previstos no artigo 17.º do regime que institui o ilícito de mera ordenação social e respectivo processo, aprovado pelo Decreto-Lei n.º 433/82, de 27 de Outubro, podendo também ser aplicadas as sanções acessórias previstas nas alíneas b), c), e), f) e g) do n.º 1 do artigo 21.º, verificados os pressupostos previstos no artigo 21.º-A do mesmo diploma.\n\n8 - A negligência é punível.\n\n9 - A instrução dos processos de contra-ordenação e a aplicação das coimas e sanções acessórias competem às entidades administrativas competentes para a fiscalização das correspondentes actividades, aplicando-se subsidiariamente o artigo 34.º do regime que institui o ilícito de mera ordenação social e respectivo processo.\n\n10 - O produto das coimas reverte para o serviço que as tiver aplicado e para o Estado, nas percentagens de 40 % e 60 %, respectivamente.\n\n11 - A entidade recrutadora deve assegurar a confidencialidade da informação de que tenha conhecimento através da consulta do certificado do registo criminal."
+  },
+  "49313375": {
+   "fragment_id": "35893775",
+   "type": 11,
+   "heading": "Artigo 3.º — Aferição de idoneidade na tomada de decisões de confiança de menores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aferição de idoneidade na tomada de decisões de confiança de menores\n\n1 - As autoridades judiciárias que, nos termos da lei, devam decidir sobre a adopção, tutela, curatela, acolhimento familiar, apadrinhamento civil, entrega, guarda ou confiança de menores ou regulação do exercício das responsabilidades parentais acedem à informação sobre identificação criminal das pessoas a quem o menor possa ser confiado, como elemento da tomada da decisão, nomeadamente para aferição da sua idoneidade.\n\n2 - As autoridades judiciárias podem ainda aceder à informação sobre identificação criminal das pessoas que coabitem com as referidas no número anterior.\n\n3 - A informação referida nos números anteriores abrange o teor integral do registo criminal, salvo a informação definitivamente cancelada, e pode ser obtida por acesso directo, nos termos do artigo 14.º da Lei n.º 57/98, de 18 de Agosto.\n\n4 - Tratando-se de procedimento não judicial, a Comissão de Protecção de Crianças e Jovens, ou a entidade que for competente, solicita informação ao Ministério Público, que pode proceder de acordo com o n.º 1.\n\n5 - As entidades que acedam a informação constante do registo criminal nos termos do presente artigo asseguram a sua reserva, salvo no que seja indispensável à tramitação e decisão dos respectivos procedimentos."
+  },
+  "49313475": {
+   "fragment_id": "35893875",
+   "type": 11,
+   "heading": "Artigo 4.º — Identificação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Identificação criminal\n\n1 - Tratando-se de condenação por crime previsto no capítulo v do título i do livro ii do Código Penal, o cancelamento definitivo previsto na alínea a) do n.º 1 do artigo 15.º da Lei n.º 57/98, de 18 de Agosto, ocorre decorridos 23 anos sobre a extinção da pena, principal ou de substituição, ou da medida de segurança, e desde que, entretanto, não tenha ocorrido nova condenação por crime.\n\n2 - Sem prejuízo do disposto no número anterior, mantêm-se os critérios e prazos estabelecidos na alínea a) do n.º 1 do artigo 15.º da Lei n.º 57/98, de 18 de Agosto, exclusivamente para efeito da interrupção prevista na parte final dessa alínea.\n\n3 - Sem prejuízo do disposto no n.º 2 do artigo 11.º da Lei n.º 57/98, de 18 de Agosto, o Tribunal de Execução das Penas pode determinar, a pedido do titular, a não transcrição, em certificado de registo criminal requerido para os fins previstos no artigo 1.º da presente lei, de condenações previstas no número anterior, desde que já tenha sido extinta a pena principal e a pena acessória eventualmente aplicada, quando seja fundadamente de esperar que o titular conduzirá a sua vida sem voltar a cometer crimes da mesma espécie, sendo sensivelmente diminuto o perigo para a segurança e bem estar de menores que poderia decorrer do exercício da profissão, emprego, função ou actividade a exercer.\n\n4 - A decisão referida no número anterior é sempre precedida de realização de perícia de carácter psiquiátrico, com intervenção de três especialistas, com vista a aferir a reabilitação do requerente."
+  },
+  "49313575": {
+   "fragment_id": "35893975",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração à Lei n.º 57/98, de 18 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração à Lei n.º 57/98, de 18 de Agosto\n\nO artigo 7.º da Lei n.º 57/98, de 18 de Agosto, passa a ter a seguinte redacção:\n\n«Artigo 7.º\n\n[...]\n\nPodem ainda aceder à informação sobre identificação criminal:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal, de instrução de processos criminais, de execução de penas e de decisão sobre adopção, tutela, curatela, acolhimento familiar, apadrinhamento civil, entrega, guarda ou confiança de menores ou regulação do exercício das responsabilidades parentais;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...»"
+  },
+  "213499676": {
+   "fragment_id": "35893675",
+   "type": 11,
+   "heading": "Artigo 2.º — Medidas de prevenção de contacto profissional com menores",
+   "in_force_from": "2015-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+   ],
+   "markdown": "###### Artigo 2.º — Medidas de prevenção de contacto profissional com menores\n\n1 - No recrutamento para profissões, empregos, funções ou actividades, públicas ou privadas, ainda que não remuneradas, cujo exercício envolva contacto regular com menores, a entidade recrutadora está obrigada a pedir ao candidato a apresentação de certificado de registo criminal e a ponderar a informação constante do certificado na aferição da idoneidade do candidato para o exercício das funções.\n\n2 - Após o recrutamento a entidade empregadora ou responsável pelas atividades está obrigada a pedir anualmente a quem exerce a profissão ou as atividades a que se refere o número anterior certificado de registo criminal e a ponderar a informação constante do mesmo na aferição da idoneidade para o exercício das funções.\n\n3 - No requerimento do certificado, o requerente especifica obrigatoriamente o fim a que aquele se destina, indicando a profissão, emprego, função ou actividade a exercer e indicando ainda que o seu exercício envolve contacto regular com menores.\n\n4 - O certificado requerido por particulares para os fins previstos nos n.os 1 e 2 tem a menção de que se destina a situação de exercício de funções que envolvam contacto regular com menores e deve conter, para além da informação prevista nos n.os 5 a 8 do artigo 10.º da Lei n.º 37/2015, de 5 de maio:\n\na) As condenações por crime previsto nos artigos 152.º, 152.º-A ou no capítulo V do título I do livro II do Código Penal;\n\nb) As decisões que apliquem penas acessórias nos termos do n.º 1 do artigo 69.º-B, do artigo 69.º-C e do artigo 152.º do Código Penal, ou medidas de segurança que interditem a atividade;\n\nc) As decisões que sejam consequência, complemento ou execução das indicadas nas alíneas anteriores e não tenham como efeito o cancelamento do registo.\n\n5 - Ao certificado requerido por particulares para o fim previsto no n.º 1 não é aplicável o disposto na alínea e) do n.º 2 do artigo 12.º da Lei n.º 57/98, de 18 de Agosto.\n\n6 - No certificado requerido por particulares para o fim previsto no n.º 1 constam também as decisões proferidas por tribunais estrangeiros, equivalentes às previstas nas alíneas do n.º 3.\n\n7 - O disposto no n.º 1 não prejudica a obrigatoriedade do cumprimento de proibições ou inibições decorrentes da aplicação de uma pena acessória ou de uma medida de segurança, cuja violação é punida nos termos do artigo 353.º do Código Penal.\n\n8 - O não cumprimento do dispostos nos n.os 1 e 2 por parte da entidade recrutadora, empregadora ou responsável pela atividade constitui contraordenação, punida com coima cujos limites mínimo e máximo são os previstos no artigo 17.º do regime que institui o ilícito de mera ordenação social e respetivo processo, aprovado pelo Decreto-Lei n.º 433/82, de 27 de outubro, podendo também ser aplicadas as sanções acessórias previstas nas alíneas b), c), e), f) e g) do n.º 1 do artigo 21.º, verificados os pressupostos previstos no artigo 21.º-A do mesmo diploma.\n\n9 - A negligência é punível.\n\n10 - A instrução dos processos de contra-ordenação e a aplicação das coimas e sanções acessórias competem às entidades administrativas competentes para a fiscalização das correspondentes actividades, aplicando-se subsidiariamente o artigo 34.º do regime que institui o ilícito de mera ordenação social e respectivo processo.\n\n11 - O produto das coimas reverte para o serviço que as tiver aplicado e para o Estado, nas percentagens de 40 % e 60 %, respectivamente.\n\n12 - A entidade recrutadora deve assegurar a confidencialidade da informação de que tenha conhecimento através da consulta do certificado do registo criminal.\n\n13 - Quem, dolosamente, por si ou em representação de pessoa coletiva, admitir pessoa condenada na pena acessória prevista no artigo 69.º-B do Código Penal para exercer profissão, emprego, funções ou atividades, públicas ou privadas, ainda que não remuneradas, cujo exercício envolva contacto regular com menores é punido com pena de prisão até 1 ano de prisão ou com pena de multa até 120 dias.\n\n14 - No caso previsto no número anterior podem ainda ser aplicadas ao agente as seguintes penas acessórias:\n\na) Interdição do exercício de profissões ou atividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública por um período fixado entre dois e cinco anos;\n\nb) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nc) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa por um período fixado entre dois e cinco anos;\n\nd) Suspensão de autorizações, licenças e alvarás.\n\n15 - A pessoa coletiva em nome da qual o agente da forma descrita no n.º 13 é responsável pelo crime, nos termos previstos no Código Penal.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+  },
+  "213499677": {
+   "fragment_id": "35893775",
+   "type": 11,
+   "heading": "Artigo 3.º — Aferição de idoneidade na tomada de decisões de confiança de menores",
+   "in_force_from": "2015-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+   ],
+   "markdown": "###### Artigo 3.º — Aferição de idoneidade na tomada de decisões de confiança de menores\n\n1 - As autoridades judiciárias que, nos termos da lei, devam decidir sobre a adopção, tutela, curatela, acolhimento familiar, apadrinhamento civil, entrega, guarda ou confiança de menores ou regulação do exercício das responsabilidades parentais acedem à informação sobre identificação criminal das pessoas a quem o menor possa ser confiado, como elemento da tomada da decisão, nomeadamente para aferição da sua idoneidade.\n\n2 - As autoridades judiciárias podem ainda aceder à informação sobre identificação criminal das pessoas que coabitem com as referidas no número anterior.\n\n3 - A informação referida nos números anteriores abrange o teor integral do registo criminal, salvo a informação definitivamente cancelada.\n\n4 - Tratando-se de procedimento não judicial, a Comissão de Protecção de Crianças e Jovens, ou a entidade que for competente, solicita informação ao Ministério Público, que pode proceder de acordo com o n.º 1.\n\n5 - As entidades que acedam a informação constante do registo criminal nos termos do presente artigo asseguram a sua reserva, salvo no que seja indispensável à tramitação e decisão dos respectivos procedimentos.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+  },
+  "213499678": {
+   "fragment_id": "35893875",
+   "type": 11,
+   "heading": "Artigo 4.º — Identificação criminal",
+   "in_force_from": "2015-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+   ],
+   "markdown": "###### Artigo 4.º — Identificação criminal\n\n1 - Tratando-se de condenação por crime previsto no capítulo V do título I do livro II do Código Penal, o cancelamento previsto na alínea a) do n.º 1 do artigo 11.º da Lei n.º 37/2015, de 5 de maio, ocorre decorridos 25 anos sobre a extinção da pena, principal ou de substituição, ou da medida de segurança, e desde que entretanto não tenha ocorrido nova condenação por crime.\n\n2 - Sem prejuízo do disposto no número anterior, mantêm-se os critérios e prazos estabelecidos na alínea a) do n.º 1 do artigo 15.º da Lei n.º 57/98, de 18 de Agosto, exclusivamente para efeito da interrupção prevista na parte final dessa alínea.\n\n3 - Sem prejuízo do disposto no n.º 2 do artigo 11.º da Lei n.º 57/98, de 18 de Agosto, o Tribunal de Execução das Penas pode determinar, a pedido do titular, a não transcrição, em certificado de registo criminal requerido para os fins previstos no artigo 1.º da presente lei, de condenações previstas no número anterior, desde que já tenha sido extinta a pena principal e a pena acessória eventualmente aplicada, quando seja fundadamente de esperar que o titular conduzirá a sua vida sem voltar a cometer crimes da mesma espécie, sendo sensivelmente diminuto o perigo para a segurança e bem estar de menores que poderia decorrer do exercício da profissão, emprego, função ou actividade a exercer.\n\n3 - Estando em causa o exercício de emprego, profissão ou atividade que envolva contacto regular com menores, o cancelamento provisório de decisões de condenação por crime previsto nos artigos 152.º e 152.º-A e no capítulo V do título I do livro II do Código Penal, só pode ocorrer nas condições previstas nos números seguintes e no artigo 12.º da Lei n.º 37/2015, de 5 de maio.\n\n4 - Sem prejuízo do disposto no n.º 6 do artigo 10.º da Lei n.º 37/2015, de 5 de maio, estando em causa a emissão de certificado de registo criminal requerido para os fins previstos no artigo 2.º da presente lei, o Tribunal de Execução das Penas pode determinar, a pedido do titular, a não transcrição, em certificado de registo criminal requerido para os fins previstos no artigo 1.º da presente lei, de condenações previstas no n.º 1, desde que já tenham sido extintas a pena principal e a pena acessória eventualmente aplicada, quando seja fundadamente de esperar que o titular conduzirá a sua vida sem voltar a cometer crimes da mesma espécie, sendo sensivelmente diminuto o perigo para a segurança e bem-estar de menores que poderia decorrer do exercício da profissão, emprego, função ou atividade a exercer.\n\n5 - A decisão referida no número anterior é sempre precedida de realização de perícia de carácter psiquiátrico, com intervenção de três especialistas, com vista a aferir a reabilitação do requerente.\n\n6 - A decisão de não transcrição de condenação prevista nos n.os 1 e 3, proferida ao abrigo do disposto no artigo 13.º da Lei n.º 37/2015, de 5 de maio, apenas opera relativamente a certificados que não se destinem aos fins abrangidos pelo artigo 2.º da presente lei.\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+  },
+  "213499679": {
+   "fragment_id": "213497683",
+   "type": 11,
+   "heading": "Artigo 6.º — Verificação anual",
+   "in_force_from": "2015-09-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+   ],
+   "markdown": "###### Artigo 6.º — Verificação anual\n\nO disposto no n.º 2 do artigo 2.º é aplicável ainda que o recrutamento tenha ocorrido em data anterior à entrada em vigor da presente lei e que perdurem durante a sua vigência.\n\n> Aditado pelo/a Artigo 6.º do/a [Lei n.º 103/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/lei/103-2015-70086390), em vigor a partir de 2015-09-23"
+  },
+  "213499680": {
+   "fragment_id": "35894075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de Julho de 2009.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 28 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 31 de Agosto de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

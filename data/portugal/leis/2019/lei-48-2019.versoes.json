@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122996204:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2019-122992202",
+ "dre_path": "/dr/detalhe/lei/48-2019-122996204",
+ "source_lastmod": "2025-04-01",
+ "versions": [
+  {
+   "date": "2019-07-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123011475",
+    "123011476",
+    "123011477",
+    "123011478",
+    "123011479"
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:913048479:por",
+     "title": "Lei n.º 35/2025",
+     "published": "2025-03-31",
+     "dre_path": "/dr/detalhe/lei/35-2025-913048479"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "123011475",
+    "123011476",
+    "123011477",
+    "913447484",
+    "123011479",
+    "123011480"
+   ]
+  }
+ ],
+ "fragments": {
+  "123011475": {
+   "fragment_id": "122992203",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 48/2019\n\nde 8 de julho\n\nRegime de confidencialidade nas técnicas de procriação medicamente assistida, procedendo à sexta alteração à Lei n.º 32/2006, de 26 de julho (procriação medicamente assistida)\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "123011476": {
+   "fragment_id": "122992204",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei introduz a sexta alteração à Lei n.º 32/2006, de 26 de julho (procriação medicamente assistida), alterada pelas Leis n.os 59/2007, de 4 de setembro, 17/2016, de 20 de junho, 25/2016, de 22 de agosto, 58/2017, de 25 de julho, e 49/2018, de 14 de agosto."
+  },
+  "123011477": {
+   "fragment_id": "122992205",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 32/2006, de 26 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 32/2006, de 26 de julho\n\nO artigo 15.º da Lei n.º 32/2006, de 26 de julho, passa a ter a seguinte redação:\n\n«Artigo 15.º\n\nConfidencialidade\n\n1 - Quem, por alguma forma, tomar conhecimento da identidade de participantes em técnicas de PMA, incluindo as situações de gestação de substituição, está obrigado a manter o sigilo sobre a identidade dos mesmos e sobre o próprio ato da PMA.\n\n2 - As pessoas nascidas em consequência de processos de PMA com recurso a dádiva de gâmetas ou embriões podem, junto dos competentes serviços de saúde, obter as informações de natureza genética que lhes digam respeito, bem como, desde que possuam idade igual ou superior a 18 anos, obter junto do Conselho Nacional de Procriação Medicamente Assistida informação sobre a identificação civil do dador.\n\n3 - As pessoas nascidas em consequência de processos de PMA, com recurso a dádiva de gâmetas ou embriões, desde que possuam idade igual ou superior a 16 anos, podem obter informação sobre eventual existência de impedimento legal a projetado casamento.\n\n4 - Para efeitos do n.º 2, entende-se como 'identificação civil' o nome completo do dador ou dadora.\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)»"
+  },
+  "123011478": {
+   "fragment_id": "122992206",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\n1 - Exceto nos casos em que os dadores autorizem de forma expressa o levantamento do anonimato, são abrangidos por um regime de confidencialidade da identidade civil do dador:\n\na) Os embriões resultantes de doações anteriores ao dia 7 de maio de 2018 e utilizados até cinco anos após a entrada em vigor da presente lei;\n\nb) Os gâmetas resultantes de doações anteriores ao dia 7 de maio de 2018 e utilizados até três anos após a entrada em vigor da presente lei;\n\nc) As dádivas que tiverem sido utilizadas até ao dia 7 de maio de 2018.\n\n2 - O regime de confidencialidade do dador, a que se refere o n.º 1, não prejudica o direito de acesso às informações previstas nos n.os 2, 3 e 5 do artigo 15.º da Lei n.º 32/2006, de 26 de julho, na redação dada pela presente lei.\n\n3 - Findos os prazos previstos no n.º 1, os gâmetas e embriões doados ou resultantes de doações são destruídos no caso de o dador não ter, durante esse período, autorizado o levantamento do anonimato sobre a sua identificação civil."
+  },
+  "123011479": {
+   "fragment_id": "122992207",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do mês subsequente à data da sua publicação."
+  },
+  "913447484": {
+   "fragment_id": "122992206",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma transitória",
+   "in_force_from": "2025-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/lei/35-2025-913048479), em vigor a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 3.º — Norma transitória\n\n1 - Exceto nos casos em que os dadores autorizem de forma expressa o levantamento do anonimato, são abrangidos por um regime de confidencialidade da identidade civil do dador:\n\na) Os embriões resultantes de doações anteriores ao dia 7 de maio de 2018 e utilizados até 10 anos após a entrada em vigor da presente lei;\n\nb) Os gâmetas resultantes de doações anteriores ao dia 7 de maio de 2018 e utilizados até oito anos após a entrada em vigor da presente lei;\n\nc) As dádivas que tiverem sido utilizadas até ao dia 7 de maio de 2018.\n\n2 - O regime de confidencialidade do dador, a que se refere o n.º 1, não prejudica o direito de acesso às informações previstas nos n.os 2, 3 e 5 do artigo 15.º da Lei n.º 32/2006, de 26 de julho, na redação dada pela presente lei.\n\n3 - Findos os prazos previstos no n.º 1, os gâmetas e embriões doados ou resultantes de doações são destruídos no caso de o dador não ter, durante esse período, autorizado o levantamento do anonimato sobre a sua identificação civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 35/2025 - Diário da República n.º 63/2025, Série I de 2025-03-31](https://diariodarepublica.pt/dr/detalhe/lei/35-2025-913048479), em vigor a partir de 2025-04-01"
+  },
+  "123011480": {
+   "fragment_id": "122992208",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 3 de maio de 2019.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 21 de junho de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 27 de junho de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112411965"
+  }
+ }
+}

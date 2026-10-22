@@ -1,0 +1,366 @@
+---
+schema_version: '1.0'
+id: pt:dre:497474:por
+title: Decreto Regulamentar Regional n.º 10/2013/M
+short_title: null
+summary: Regulamenta a Bolsa de Emprego Público da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 10/2013/M
+official_date: null
+publication_date: '2013-06-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/2013, Série I de 2013-06-28
+  number: '123'
+  series: I
+  supplement: null
+  pages: 3820 - 3823
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/06/12300/0382003823.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-09-01'
+version_history:
+  file: decreto-regulamentar-regional-10-2013-m.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-09-01'
+    amending: pt:dre:115886134:por
+    amending_title: Decreto Legislativo Regional n.º 11/2018/M
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/10/2013/m/cons/20180803/pt/html
+  oj: null
+  dre: '497474'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/10-2013-497474
+  internal: pt:dre:497474:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-2013-497474
+  metadata_url: https://data.dre.pt/eli/decregulreg/10/2013/m/cons/20180803/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2013-115915126
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2013-115915126
+  retrieved_at: '2026-10-22T12:20:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9bd001c2bdd62e6396a54a66fab718b23c11adb8cccd982b49b39ca72ea37f8b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:20:40Z'
+  notes: 2 versão(ões); histórico completo em decreto-regulamentar-regional-10-2013-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Função Pública
+- Ficheiro Informático
+- Concurso
+- Definição de Competências
+- Direcção Regional da Administração Pública e Local
+- Bolsa de Emprego Público
+- Recrutamento de Pessoal
+- Base de Dados
+- Internet
+- Emprego
+- Madeira.região Autónoma
+- Racionalização de Efectivos
+- Mobilidade de Pessoal
+- Funcionário Público
+- Administração Regional
+- Gestão de Recursos Humanos
+relationships:
+- type: amended_by
+  target: pt:dre:115886134:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134
+  date: '2018-08-03'
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/27/2012/09/03/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/27/2012/09/03/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/11/2008/02/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/11/2008/02/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/53/2006/12/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64-a/2008/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64-b/2011/12/30/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:20:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 10/2013/M
+
+Decreto Regulamentar Regional n.º 10/2013/M
+
+Regulamenta a Bolsa de Emprego Público da Madeira
+
+A Bolsa de Emprego Público da Madeira (BEP-RAM) é uma base de informação, disponibilizada na Internet, que visa agilizar o conhecimento das oportunidades de oferta e procura de emprego na administração regional autónoma da Madeira e dinamizar os processos de recrutamento e de mobilidade dos seus trabalhadores.
+
+Aproveitando as potencialidades da sociedade de informação e o leque dos seus potenciais utilizadores, a BEP-RAM constitui um instrumento capaz de contribuir para uma mais eficaz gestão dos recursos humanos.
+
+O Decreto Legislativo Regional n.º 27/2012/M, de 3 de setembro, a propósito da BEP-RAM, remete para decreto regulamentar regional a definição das condições de funcionamento e demais regulamentação desta ferramenta, no sentido de concretizar o quadro legal em que a mesma deverá ser erigida, o que pressupõe, designadamente, regular conteúdos, acessos, bem como a respetiva entidade gestora, a qual, deverá caber à Direção Regional da Administração Pública e Local, como serviço que, organicamente, tem a seu cargo, de forma transversal, o setor da Administração Pública, apoiada na Direção Regional de Informática, organismo com atribuições na área dos sistemas e tecnologias de informação na administração pública regional.
+
+Nestes termos:
+
+O Governo Regional da Madeira, nos termos da alínea d) do n.º 1 do artigo 227.º e n.º 6 do artigo 231.º, ambos da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e n.º 1 do artigo 70.º, ambos do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto pela Lei n.º 130/99, de 21 de agosto, e pela Lei n.º 12/2000, de 21 de junho, e do n.º 2 do artigo 7.º do Decreto Legislativo Regional n.º 27/2012/M, de 3 de setembro, decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma regulamenta a Bolsa de Emprego Público da Madeira, adiante designada, abreviadamente, por BEP-RAM, a que se refere o artigo 7.º do Decreto Legislativo Regional n.º 27/2012/M, de 3 de setembro.
+
+###### Artigo 2.º — Natureza
+
+A BEP-RAM é uma base de informação, disponibilizada através da Internet, que visa simplificar e agilizar a divulgação dos processos de recrutamento e de mobilidade dos recursos humanos da administração regional autónoma da Madeira.
+
+###### Artigo 3.º — Âmbito de aplicação
+
+1 - O presente diploma aplica-se aos serviços e organismos dos órgãos de governo próprio da Região Autónoma da Madeira, incluindo os institutos públicos regionais, nas modalidades de serviços personalizados, de estabelecimentos públicos e de fundos públicos.
+
+2 - A BEP-RAM pode ser utilizada por outras entidades públicas da administração regional ou local, e empresas públicas do setor empresarial da Região Autónoma da Madeira, mediante a celebração de um protocolo com o membro do Governo Regional com competência na área da Administração Pública, sem prejuízo do disposto no número de seguinte.
+
+3 - As associações públicas, as entidades públicas empresariais e as instituições particulares de solidariedade social que, ao abrigo do disposto nos artigos 35.º e 36.º da Lei n.º 53/2006, de 7 de dezembro alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, aplicada à administração regional autónoma da Madeira pelo Decreto Legislativo Regional n.º 27/2012/M, de 3 de setembro, pretendam recrutar pessoal em situação de mobilidade especial, podem utilizar a BEP-RAM para efeitos de divulgação das ofertas de emprego e, ou, respetivos procedimentos de seleção, aplicando-se, com as devidas adaptações, o regime previsto para os serviços e organismos referidos no n.º 1.
+
+###### Artigo 4.º — Entidade gestora e de suporte
+
+1 - A gestão da BEP-RAM compete ao serviço do Governo Regional da Madeira com atribuições em matéria de Administração Pública.
+
+2 - Cabe ao serviço do Governo Regional da Madeira com atribuições em matéria de informática da Administração Pública, assegurar a aplicação informática necessária ao suporte da BEP-RAM, bem como a sua disponibilização na Internet, em condições de segurança, sem prejuízo da utilização de outros suportes e de acessos e ligações a outros sistemas de informação de recursos humanos, segundo permissões e com a utilização de códigos de utilizador e de palavra-chave próprios para o efeito.
+
+> Alterado pelo/a Artigo 42.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+###### Artigo 5.º — Conteúdo
+
+1 - A BEP-RAM contém o registo e divulgação de:
+
+a) Necessidades de recrutamento de pessoal, por recurso aos mecanismos de mobilidade;
+
+b) Os procedimentos concursais referidos no diploma que regula os regimes de vinculação, carreiras e remunerações dos trabalhadores que exercem funções públicas;
+
+c) Os procedimentos concursais para provimento de cargos de direção intermédia da administração regional autónoma da Madeira, previstos na Lei n.º 2/2004, de 15 de janeiro, alterada pelas Leis n.os 51/2005, 64-A/2008, 3-B/2010, 64/2011, 68/2013 e 128/2015, respetivamente, de 30 de agosto, 31 de dezembro, 28 de abril, 22 de dezembro, 29 de agosto e 3 de setembro;
+
+d) (Revogada.)
+
+e) Listas de pessoal dos serviços objeto de extinção, durante o decurso do respetivo processo, para efeitos de apoio à mobilidade voluntária;
+
+f) Pessoal disponível para colocação em atividade na sequência de legislação especial que lhe confira o direito de regresso aos quadros da função pública;
+
+g) Ofertas de emprego apresentadas por qualquer trabalhador interessado em mudar de posto de trabalho;
+
+h) Outras informações respeitantes a processos de recrutamento ou de mobilidade na Administração Pública.
+
+2 - O registo da informação prevista no número anterior compete:
+
+a) A cada serviço utilizador, nos casos das alíneas a), b) e c);
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) Ao dirigente máximo do serviço objeto de processo de extinção, no caso da alínea e);
+
+e) Ao serviço referido no n.º 1 do artigo 4.º, no caso das alíneas f) e h);
+
+f) Aos interessados, nos casos previstos na alínea g).
+
+> Alterado pelo/a Artigo 42.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+###### Artigo 6.º — Suporte e disponibilização
+
+A BEP-RAM tem como suporte uma aplicação informática disponibilizada através da Internet, sem prejuízo da utilização de outros suportes e de acessos e ligações a outros sistemas de informação de recursos humanos, segundo permissões e com a utilização de códigos de utilizador e de palavra-chave próprios para o efeito.
+
+###### Artigo 7.º — Estrutura da informação institucional
+
+1 - A informação constante da BEP-RAM é estruturada a nível geográfico, por concelho, a nível orgânico, por departamento governamental, serviço e instituto público e a nível funcional, por carreira, categoria, área funcional e, quando necessário, por área de formação académica ou profissional.
+
+2 - Sem prejuízo do disposto nos n.os 4 e 5, a divulgação das necessidades de recrutamento identifica o tipo de instrumento de mobilidade a utilizar, o serviço, a carreira, a categoria e a remuneração correspondente, o local de trabalho, através da localidade e concelho, os requisitos habilitacionais e profissionais, o número de postos de trabalho a preencher, o conteúdo funcional e eventuais condições preferenciais para o desempenho.
+
+3 - A divulgação do procedimento concursal identifica o tipo de procedimento, o serviço, a categoria e carreira, a remuneração, o local de trabalho, através da localidade e concelho, a modalidade de vínculo de emprego público correspondente, os requisitos de admissão, o número de lugares a prover, o conteúdo funcional, quando exigido, o prazo de duração do contrato a termo resolutivo e a quota a preencher por pessoas com deficiência, quando aplicáveis, o prazo de entrega de candidaturas, o local e a data da publicação do aviso de abertura do procedimento.
+
+4 - A divulgação da informação a que se referem as alíneas e) e f) do n.º 1 do artigo 5.º menciona as habilitações literárias e profissionais, atividade desempenhada, a carreira e a categoria e o concelho de residência.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 43.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+###### Artigo 8.º — Estrutura da informação individual
+
+1 - O pessoal interessado na mudança de local de trabalho, de serviço ou de carreira preenche um formulário de identificação profissional de acordo com modelo disponível em formato eletrónico, especificando a carreira e categoria, habilitações literárias e profissionais, remuneração auferida e local de trabalho pretendido, através da indicação de uma ou mais localidades e ou concelhos dos serviços da sua preferência, devendo ainda identificar-se através de nome completo, data de nascimento, morada, número de telefone e endereço eletrónico, quando exista.
+
+2 - Os dados de identificação referidos no número anterior são divulgados pela BEP-RAM apenas com autorização do interessado, podendo este desde logo optar por divulgar todos ou alguns daqueles dados.
+
+###### Artigo 9.º — Obrigatoriedade do registo e duração
+
+1 - É obrigatório o registo na BEP-RAM da informação a que se referem as alíneas b), c), e) e f) do n.º 1 do artigo 5.º, com a estrutura mencionada no artigo 7.º, sem prejuízo de outras publicitações legalmente exigidas.
+
+2 - É igualmente obrigatório o registo na BEP-RAM da informação referente a ofertas de emprego público mediante mobilidade a que se refere a alínea a) do n.º 1 do artigo 5.º, sempre que se aplique procedimento de seleção.
+
+3 - São anuláveis os recrutamentos feitos com preterição do disposto nos números anteriores, sem prejuízo da responsabilidade civil e disciplinar que ao caso couber.
+
+4 - Sem prejuízo do disposto nos números seguintes, os serviços devem efetuar a inscrição da oferta de emprego na BEP-RAM até ao 2.º dia útil após a data:
+
+a) Da publicação no Jornal Oficial, quando esta seja obrigatória;
+
+b) Da publicação em órgãos de comunicação social;
+
+c) Em que se verifiquem as restantes situações previstas no n.º 1 do artigo 5.º.
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+7 - As listas previstas na alínea e) do n.º 1 do artigo 5.º devem ser disponibilizadas na BEP-RAM até cinco dias úteis após o início do processo de extinção do serviço.
+
+8 - A informação é disponibilizada na BEP-RAM durante:
+
+a) O prazo de entrega de candidaturas prefixado, no caso dos procedimentos previstos nas alíneas a) a c) do n.º 1 do artigo 5.º;
+
+b) O período em que se mantiverem as situações de disponibilidade a que se referem as alíneas e) e f) do n.º 1 do artigo 5.º;
+
+c) 90 dias seguidos, sem prejuízo da possibilidade de renovação, nos casos referidos nas alíneas g) e h) do n.º 1 do artigo 5.º
+
+9 - O disposto no número anterior não impede a eliminação da informação em prazo inferior, quando esta tenha perdido utilidade ou por iniciativa do interessado.
+
+10 - (Revogado.)
+
+> Alterado pelo/a Artigo 42.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+###### Artigo 10.º — Registo e acesso à bolsa
+
+1 - O registo da informação na BEP-RAM, institucional ou individual, depende de obtenção prévia do correspondente código de acesso, a atribuir pelo serviço referido no n.º 2 do artigo 4.º
+
+2 - A BEP-RAM é de consulta direta, possibilitando o acesso à estrutura de informação referida no artigo 7.º.
+
+3 - A informação individual constante do n.º 1 do artigo 8.º é de acesso restrito aos serviços e entidades referidos no artigo 3.º.
+
+> Nota: [Artigo 44.º, Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134) A produção de efeitos dos n.os 1 e 2 do artigo 10.º, depende da vigência da portaria a que se refere o n.º 3 do artigo 10.º
+
+> Alterado pelo/a Artigo 42.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+###### Artigo 11.º — Responsabilidades de gestão e de suporte
+
+1 - Ao serviço referido no n.º 1 do artigo 4.º, enquanto entidade gestora da BEP-RAM, compete especialmente:
+
+a) Disponibilizar os recursos técnicos necessários ao acompanhamento material e de regime indispensáveis à estruturação e funcionamento da BEP-RAM, de acordo com os requisitos de atualização, segurança e acessibilidade;
+
+b) Efetuar os registos de informação que lhe estejam confiados;
+
+c) Garantir e controlar a qualidade da informação disponibilizada através da BEP-RAM, providenciando pela recusa e eliminação de registos ou informação irrelevante, desatualizada ou inadequada aos objetivos daquela bolsa;
+
+d) Emitir documentos comprovativos dos resultados das pesquisas efetuadas quando solicitados pelos serviços utilizadores;
+
+e) Providenciar pelo acesso à BEP-RAM aos serviços e entidades referidas no artigo 3.º e ao pessoal que, para os efeitos do n.º 1 do artigo 8.º, a ela pretenda aceder, bem como, pela recusa do acesso a pessoas ou entidades que a ela não devam ter acesso ou que dela façam uso inadequado;
+
+f) Promover a utilização da BEP-RAM;
+
+g) Disponibilizar, em articulação com o serviço competente na parte de suporte tecnológico da BEP-RAM, um serviço de apoio aos utilizadores;
+
+h) Proceder ao acompanhamento do funcionamento e dos resultados de atividade da BEP-RAM, procedendo designadamente, ao tratamento estatístico da informação registada, incluindo, nomeadamente, o número de ofertas de emprego e de postos de trabalho preenchidos e não preenchidos, desagregados por sexo.
+
+2 - Ao serviço referido no n.º 2 do artigo 4.º, enquanto entidade que assegura a aplicação informática necessária ao suporte da BEP-RAM, bem como a sua disponibilização na Internet, compete especialmente:
+
+a) Disponibilizar os recursos técnicos indispensáveis ao funcionamento do sistema informático que suporta a BEP-RAM, satisfazendo os requisitos de atualização, segurança e acessibilidade;
+
+b) Definir e assegurar os procedimentos adequados à salvaguarda da confidencialidade dos dados pessoais;
+
+c) Gerir a emissão e controlo dos códigos de acesso para registo de informação;
+
+d) Disponibilizar, em articulação com o serviço referido no n.º 1 do artigo 4.º, a prestação de apoio aos utilizadores.
+
+3 - A informação a que se refere a alínea h) do n.º 1 é de acesso não condicionado e é divulgada no site da BEP-RAM.
+
+> Nota: [Artigo 44.º, Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134) A produção de efeitos dos n.os 1 a 3 do artigo 11.º, depende da vigência da portaria a que se refere o n.º 3 do artigo 10.º
+
+> Alterado pelo/a Artigo 42.º do/a [Decreto Legislativo Regional n.º 11/2018/M - Diário da República n.º 149/2018, Série I de 2018-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2018-115886134), em vigor a partir de 2018-09-01
+
+###### Artigo 12.º — Direitos e garantias individuais
+
+A qualquer pessoa, desde que devidamente identificada, é reconhecido o direito de conhecer o conteúdo do registo ou registos da base de dados que lhe respeitem, bem como o de exigir a correção das informações nela contidas e o complemento das total ou parcialmente omissas.
+
+###### Artigo 13.º — Regulamentação
+
+Serão objeto de regulamentação, a aprovar por despacho conjunto dos membros do Governo Regional responsáveis pelas finanças e pela administração pública, a definição dos formulários eletrónicos de recolha de dados, bem como das normas de segurança a adotar.
+
+###### Artigo 14.º — Entrada em funcionamento
+
+A BEP-RAM entra em funcionamento no prazo máximo de três meses após a entrada em vigor da regulamentação referida no artigo anterior.
+
+Aprovado em Conselho do Governo Regional em 30 de maio de 2013.
+
+O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+Assinado em 12 de junho de 2013.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.

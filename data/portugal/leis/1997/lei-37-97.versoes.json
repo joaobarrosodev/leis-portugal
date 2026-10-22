@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:153560:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1997-945485463",
+ "dre_path": "/dr/detalhe/lei/37-1997-153560",
+ "source_lastmod": "2025-11-11",
+ "versions": [
+  {
+   "date": "1997-07-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "945686186",
+    "945686187",
+    "945686188",
+    "945686189",
+    "945686190",
+    "945686191",
+    "945686192",
+    "945686193",
+    "945686194"
+   ]
+  },
+  {
+   "date": "1997-09-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:330220:por",
+     "title": "Declaração de Rectificação n.º 14-U/97",
+     "published": "1997-09-18",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/14-u-1997-330220"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 6.º"
+   ],
+   "fragments": [
+    "945686186",
+    "945686187",
+    "945686188",
+    "945686189",
+    "945686190",
+    "945686191",
+    "945686198",
+    "945686193",
+    "945686194",
+    "945686195"
+   ]
+  }
+ ],
+ "fragments": {
+  "945686186": {
+   "fragment_id": "945485464",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 37/97\n\nde 12 de Julho\n\nReorganização administrativa do concelho da Amadora, mediante a criação das freguesias de Alfornelos, São Brás e Venda Nova.\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea n), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "945686187": {
+   "fragment_id": "945485465",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO concelho da Amadora é reorganizado em 11 freguesias: Alfornelos, Alfragide, Brandoa, Buraca, Damaia, Falagueira, Mina, Reboleira, São Brás, Venda Nova e Venteira."
+  },
+  "945686188": {
+   "fragment_id": "945485466",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão criadas no concelho da Amadora as freguesias de Alfornelos, São Brás e Venda Nova."
+  },
+  "945686189": {
+   "fragment_id": "945485467",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nÉ alterada a designação da freguesia da Falagueira-Venda Nova, que passa a designar-se por freguesia da Falagueira."
+  },
+  "945686190": {
+   "fragment_id": "945485468",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os limites das freguesias de Alfragide, Buraca, Damaia, Reboleira e Venteira mantêm-se de acordo com os já delimitados por lei.\n\n2 - Os limites da freguesia de Alfornelos são os seguintes: partindo do cruzamento Estrada dos Salgados, e seguindo o eixo desta via até encontrar a Rua de Alfornelos, segue o eixo desta mesma até encontrar a Rua de Ruy Gomes, inflecte para norte e segue a estrada de ligação poente da CRIL à radial, cruza com a radial e segue a estrada de acesso até encontrar a estrada de Santo Elói; neste ponto inflecte a sul e segue a linha de limite do concelho, continuando a mesma até encontrar o ponto de partida desta descrição.\n\n3 - A freguesia da Brandoa ficará delimitada pelas linhas descritas para as novas freguesias de Alfornelos e São Brás e pelos limites para a freguesia da Falagueira.\n\n4 - Os limites da freguesia da Falagueira são os seguintes: partindo da linha do caminho de ferro Lisboa-Sintra, segue em linha recta até encontrar a Rua do Vice-Almirante Azevedo Coutinho e segue o eixo desta via até ao cruzamento da Rua de Elias Garcia; neste cruzamento segue o eixo da Rua de Ângelo Fortes; no cruzamento da Rua de Ângelo Fortes com a Avenida de Eduardo Jorge inflecte para nascente até ao cruzamento da Rua de A. Eduardo Caneças e segue o eixo da Estrada dos Salgados até ao cruzamento da Estrada da Brandoa; neste cruzamento inflecte para norte, seguindo o eixo desta mesma via até encontrar o cruzamento da Rua Projectada, a sul do Estádio Municipal; neste ponto inflecte para poente até ao cruzamento da Rua do Monte da Galega; neste ponto inflecte para sul até ao cruzamento da Rua da Ordem Militar do Hospital, segue pelas traseiras dos edifícios desta rua, no sentido poente, até encontrar a Estrada da Serra de Mira, e depois segue até à linha de água; neste ponto inflecte para sul, segue a linha de água até à Avenida de Humberto Delgado e continua pela Rua do Comandante Luís António da Silva, seguindo o eixo desta via até ao cruzamento da Rua de Elias Garcia; neste ponto inflecte para poente e segue o eixo da Rua de Salvador Allende até encontrar a linha do caminho de ferro Lisboa-Sintra; neste ponto inflecte para nascente até encontrar o ponto donde se iniciou esta descrição.\n\n5 - A freguesia da Mina ficará delimitada pelos limites já existentes e pelas linhas de delimitação da freguesia da Falagueira e da nova freguesia de São Brás.\n\n6 - Os limites da freguesia de São Brás serão os seguintes: partindo do n.º 31 da Estrada da Serra de Mira, cruza a linha de água, na direcção da Rua de Vasco de Lima Couto, no início do n.º 39-C, contorna o prédio e parte para norte, cruzando a Rua de Sebastião de Gama, no início do n.º 3 e do outro lado do n.º 8-C, seguindo em linha recta até ao início da Rua de Teixeira de Pascoaes, continuando na mesma direcção, passando pela Praceta de Teixeira de Pascoaes, inflectindo para poente, seguindo pelo norte a Rua do Dr. Azevedo Neves até ao n.º 90, depois inflecte para norte, segue em linha recta pelo extremo nascente da escola preparatória até encontrar a Avenida da Liberdade; neste ponto, partindo para poente, segue em linha recta até encontrar a Rua das Filipinas e segue pelo exterior dos prédios pertencentes à via até ao lote n.º 1; neste ponto inflecte para poente em linha recta até encontrar a Estrada da Serra da Silveira, segue a linha de água, retomando a delimitação norte do concelho, continuando pela mesma até encontrar a Estrada de Santo Elói, seguindo o eixo desta via até à Avenida de 25 de Abril, inflectindo para poente, segue a linha de delimitação das freguesias até encontrar a linha de água, depois segue a Rua Projectada, a sul do Estádio Municipal; neste ponto inflecte a sul até à Rua da Ordem Militar do Hospital, passando pelas traseiras dos edifícios; neste ponto inflecte a poente e atravessa a Estrada da Serra de Mira até ao ponto do início desta descrição.\n\n7 - Os limites da freguesia da Venda Nova são os seguintes: partindo da linha do caminho de ferro Lisboa-Sintra, segue o eixo da Estrada Militar até ao cruzamento, nas Portas de Benfica, da Estrada dos Salgados; neste cruzamento inflecte para poente e segue o eixo da Estrada dos Salgados até ao cruzamento da Rua de A. Eduardo Caneças, segue a linha de eixo da Avenida de Eduardo Jorge até ao cruzamento da Rua do Engenheiro Ângelo Fortes, cruza a Rua de Elias Garcia e segue a Rua do Vice-Almirante Azevedo Coutinho, segue esta via em linha recta e cruza com a Rua das Indústrias até à linha de caminho de ferro Lisboa-Sintra; neste ponto inflecte para nascente até encontrar o ponto de início desta descrição."
+  },
+  "945686191": {
+   "fragment_id": "945485469",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Câmara Municipal da Amadora nomeará, de acordo com o disposto no artigo 9.º da Lei n.º 8/93, de 5 de Março, as comissões instaladoras."
+  },
+  "945686192": {
+   "fragment_id": "945485470",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - A comissão instaladora da freguesia de Alfornelos será constituída por:\n\na) Um representante da Assembleia Municipal da Amadora;\n\nb) Um representante da Câmara Municipal da Amadora;\n\nc) Um representante da Assembleia de Freguesia da Brandoa;\n\nd) Um representante da Junta de Freguesia da Brandoa;\n\ne) Cinco cidadãos eleitores da área da nova freguesia de Alfornelos, designados nos termos do disposto nos n.os 3 e 4 do artigo 9.º da Lei n.º 8/93, de 5 de Março.\n\n2 - A comissão instaladora da freguesia de São Brás será constituída por:\n\na) Um representante da Assembleia Municipal da Amadora;\n\nb) Um representante da Câmara Municipal da Amadora;\n\nc) Um representante da Assembleia de Freguesia da Mina;\n\nd) Um representante da Junta de Freguesia da Mina;\n\ne) Cinco cidadãos eleitores da área da nova freguesia de Mina, designados nos termos do disposto nos n.os 3 e 4 do artigo 9.º da Lei n.º 8/93.\n\n3 - A comissão instaladora da freguesia da Venda Nova será constituída por:\n\na) Um representante da Assembleia Municipal da Amadora;\n\nb) Um representante da Câmara Municipal da Amadora;\n\nc) Um representante da Assembleia de Freguesia da Falagueira-Venda Nova;\n\nd) Um representante da Junta de Freguesia da Falagueira-Venda Nova;\n\ne) Cinco cidadãos eleitores da área da nova freguesia da Venda Nova, designados nos termos do disposto nos n.os 3 e 4 do artigo 9.º da Lei n.º 8/93."
+  },
+  "945686193": {
+   "fragment_id": "945485471",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs referidas comissões instaladoras exercerão as suas funções até à tomada de posse dos órgãos autárquicos das novas freguesias."
+  },
+  "945686194": {
+   "fragment_id": "945485472",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA presente lei entra imediatamente em vigor."
+  },
+  "945686198": {
+   "fragment_id": "945485470",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1997-09-18",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 14-U/97 - Diário da República n.º 216/1997, 2º Suplemento, Série I-A de 1997-09-18](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-u-1997-330220), em vigor a partir de 1997-09-18"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - A comissão instaladora da freguesia de Alfornelos será constituída por:\n\na) Um representante da Assembleia Municipal da Amadora;\n\nb) Um representante da Câmara Municipal da Amadora;\n\nc) Um representante da Assembleia de Freguesia da Brandoa;\n\nd) Um representante da Junta de Freguesia da Brandoa;\n\ne) Cinco cidadãos eleitores da área da nova freguesia de Alfornelos, designados nos termos do disposto nos n.os 3 e 4 do artigo 9.º da Lei n.º 8/93, de 5 de Março.\n\n2 - A comissão instaladora da freguesia de São Brás será constituída por:\n\na) Um representante da Assembleia Municipal da Amadora;\n\nb) Um representante da Câmara Municipal da Amadora;\n\nc) Um representante da Assembleia de Freguesia da Mina;\n\nd) Um representante da Junta de Freguesia da Mina;\n\ne) Um representante da Assembleia de Freguesia da Falagueira-Venda Nova;\n\nf) Um representante da Junta de Freguesia da Falagueira-Venda Nova;\n\ng) Cinco cidadãos eleitores da área da nova freguesia de São Brás, designados nos termos do disposto nos n.os 3 e 4 do artigo 9.º da Lei n.º 8/93.\n\n3 - A comissão instaladora da freguesia da Venda Nova será constituída por:\n\na) Um representante da Assembleia Municipal da Amadora;\n\nb) Um representante da Câmara Municipal da Amadora;\n\nc) Um representante da Assembleia de Freguesia da Falagueira-Venda Nova;\n\nd) Um representante da Junta de Freguesia da Falagueira-Venda Nova;\n\ne) Cinco cidadãos eleitores da área da nova freguesia da Venda Nova, designados nos termos do disposto nos n.os 3 e 4 do artigo 9.º da Lei n.º 8/93.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 14-U/97 - Diário da República n.º 216/1997, 2º Suplemento, Série I-A de 1997-09-18](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-u-1997-330220), em vigor a partir de 1997-09-18"
+  },
+  "945686195": {
+   "fragment_id": "945485473",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 20 de Junho de 1997.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 20 de Junho de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 20 de Junho de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

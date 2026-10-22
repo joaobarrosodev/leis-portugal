@@ -1,0 +1,1186 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:570109:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34538975",
+ "dre_path": "/dr/detalhe/decreto-lei/365-1999-570109",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-09-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221641041",
+    "48160575",
+    "48160675",
+    "48160775",
+    "48160875",
+    "48160975",
+    "48161075",
+    "48161175",
+    "48161275",
+    "48161375",
+    "48161475",
+    "48161575",
+    "48161675",
+    "48161775",
+    "48161875",
+    "48161975",
+    "48162075",
+    "48162175",
+    "48162275",
+    "48162375",
+    "48162475",
+    "48162575",
+    "48162675",
+    "48162775",
+    "48162875",
+    "48162975",
+    "48163075",
+    "48163175",
+    "48163275",
+    "48163375",
+    "48163475",
+    "48163575",
+    "48163675",
+    "48163775",
+    "48163875",
+    "48163975",
+    "48164075",
+    "48164175",
+    "48164275",
+    "48164375",
+    "48164475",
+    "48164575",
+    "48164675",
+    "48164775",
+    "48164875",
+    "48164975",
+    "48165075",
+    "48165175",
+    "48165275",
+    "48165375",
+    "48165475",
+    "48165575"
+   ]
+  },
+  {
+   "date": "2011-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146221:por",
+     "title": "Decreto-Lei n.º 114/2011",
+     "published": "2011-11-30",
+     "dre_path": "/dr/detalhe/decreto-lei/114-2011-146221"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "48160475",
+    "48160575",
+    "48160675",
+    "48160775",
+    "48160875",
+    "48160975",
+    "48161075",
+    "48161175",
+    "48161275",
+    "48161375",
+    "48161475",
+    "48161575",
+    "48161675",
+    "48161775",
+    "48161875",
+    "48161975",
+    "48162075",
+    "48162175",
+    "48162275",
+    "48162375",
+    "48162475",
+    "48162575",
+    "48162675",
+    "48162775",
+    "48162875",
+    "221641039",
+    "221641040",
+    "48163175",
+    "48163275",
+    "48163375",
+    "48163475",
+    "48163575",
+    "48163675",
+    "48163775",
+    "48163875",
+    "48163975",
+    "48164075",
+    "48164175",
+    "48164275",
+    "48164375",
+    "48164475",
+    "48164575",
+    "48164675",
+    "48164775",
+    "48164875",
+    "48164975",
+    "48165075",
+    "48165175",
+    "48165275",
+    "48165375",
+    "48165475",
+    "48165575",
+    "48165975"
+   ]
+  },
+  {
+   "date": "2015-10-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69982739:por",
+     "title": "Decreto-Lei n.º 160/2015",
+     "published": "2015-08-11",
+     "dre_path": "/dr/detalhe/decreto-lei/160-2015-69982739"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "221641041",
+    "221641042",
+    "221641043",
+    "221641044",
+    "221641045",
+    "221641046",
+    "221641047",
+    "221641048",
+    "221641049",
+    "221641050",
+    "221641051",
+    "221641052",
+    "221641053",
+    "221641054",
+    "221641055",
+    "221641056",
+    "221641057",
+    "221641058",
+    "221641059",
+    "221641060",
+    "221641061",
+    "221641062",
+    "221641063",
+    "221641064",
+    "221641065",
+    "221641066",
+    "221641067",
+    "221641068",
+    "221641069",
+    "221641070",
+    "221641071",
+    "221641072",
+    "221641073",
+    "221641074",
+    "221740975",
+    "221740976",
+    "221740977",
+    "221740978",
+    "221740979",
+    "221740980",
+    "221740981",
+    "221740982",
+    "221740983",
+    "221740984",
+    "221740985",
+    "221740986",
+    "221740987",
+    "221740988",
+    "221740989",
+    "221740990",
+    "221740991",
+    "221740992",
+    "221740993"
+   ]
+  }
+ ],
+ "fragments": {
+  "221641041": {
+   "fragment_id": "35158775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2015-10-10",
+   "changed_by": [],
+   "markdown": "O Decreto com força de lei n.º 17766, de 17 de Dezembro de 1929, e o Decreto-Lei n.º 32428, de 14 de Novembro de 1942, regulam a actividade de empréstimos sobre penhores. Por força destas disposições legais, foi a Caixa Geral de Depósitos incumbida de fiscalizar o exercício daquela actividade, levada a cabo pelos prestamistas privados, traduzida, essencialmente, no controlo das operações e dos leilões, no acompanhamento e liquidação dos estabelecimentos e no levantamento de autos de transgressões por infracção aos aludidos normativos.\n\nCom a publicação e entrada em vigor do Decreto-Lei n.º 287/93, de 20 de Agosto, que transformou a Caixa Geral de Depósitos em sociedade anónima de capitais públicos e consequente revogação da respectiva Lei Orgânica, esta instituição deixou de estar vocacionada para o exercício daquela actividade de fiscalização.\n\nParece, assim, necessário proceder à revisão do regime jurídico do acesso, do exercício e da fiscalização desta actividade face à alteração da natureza jurídica da Caixa Geral de Depósitos, por forma a atribuir as referidas funções de fiscalização a uma entidade pública, bem como a clarificar e tornar mais transparente toda uma actividade que carece há muito de adequada e actual regulamentação e fiscalização.\n\nConsiderando, igualmente, o quadro do ilícito de mera ordenação social, consagrado no Decreto-Lei n.º 433/82, de 27 de Outubro, importa, também, proceder à actualização do regime da fiscalização e do sancionamento dos ilícitos da actividade prestamista.\n\nAcresce que afigura-se necessário adequar a venda das coisas dadas de penhor ao regime da venda estabelecido no âmbito dos processos de execução fiscal e cível, com o objectivo de alcançar um rápido escoamento dos objectos em benefício do prestamista e do mutuário, bem como de fazer com que outras pessoas não ligadas à actividade, designadamente particulares, passem a licitar os objectos a vender.\n\nExiste ainda a necessidade de adequar as taxas de juros às actuais realidades financeiras, por forma a assegurar uma correcta aplicação daquelas taxas e adaptar o regime de cobrança dos juros às regras gerais vigentes nesta matéria.\n\nFinalmente, importa ainda moralizar alguns aspectos desta actividade, tais como a obrigatoriedade de cobrar uma taxa única de avaliação ainda que o prazo do contrato seja prorrogado até dois anos, bem como a afixação, em lugar visível, das taxas de avaliação, de juro e de outras comissões.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "48160575": {
+   "fragment_id": "35718975",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "48160675": {
+   "fragment_id": "37206175",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma regula o acesso, o exercício e a fiscalização da actividade prestamista.\n\n2 - Considera-se actividade prestamista o exercício por pessoa singular ou colectiva da actividade de mútuo garantido por penhor."
+  },
+  "48160775": {
+   "fragment_id": "37206275",
+   "type": 11,
+   "heading": "Artigo 2.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acesso\n\n1 - Podem exercer a actividade a que se refere o presente diploma as pessoas singulares ou colectivas sob qualquer forma, sediadas ou com estabelecimento estável em Portugal, desde que devidamente licenciadas.\n\n2 - Estão dispensadas do licenciamento a que se refere o número anterior:\n\na) As instituições de crédito;\n\nb) As associações de socorros mútuos, quando a prossecução de tal fim esteja prevista nos seus estatutos."
+  },
+  "48160875": {
+   "fragment_id": "37206375",
+   "type": 11,
+   "heading": "Artigo 3.º — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Licenciamento\n\n1 - O licenciamento é efectuado pela Direcção-Geral do Comércio e da Concorrência, sendo intransmissível e titulado por alvará, de modelo aprovado por portaria conjunta dos Ministros das Finanças e da Economia, sem prejuízo do disposto no número seguinte.\n\n2 - Tratando-se de licença atribuída a pessoa singular, em caso de falecimento desta o cabeça-de-casal da respectiva herança deve, nos 30 dias subsequentes ao óbito, solicitar à Direcção-Geral do Comércio e da Concorrência uma autorização provisória para continuação do exercício da actividade, fazendo prova de que estão preenchidos os requisitos de acesso.\n\n3 - A licença provisória referida no número anterior é renovada no caso de estar em curso um processo judicial de partilha.\n\n4 - Nos casos previstos nos n.os 2 e 3, a Direcção-Geral do Comércio e da Concorrência pode, a todo o tempo, solicitar ao cabeça-de-casal a demonstração do preenchimento do requisito previsto no artigo 4.º"
+  },
+  "48160975": {
+   "fragment_id": "37206475",
+   "type": 11,
+   "heading": "Artigo 4.º — Idoneidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Idoneidade\n\n1 - A idoneidade dos requerentes é aferida pela inexistência de impedimentos legais, de condenação por determinados ilícitos praticados pelos requerentes, bem como pelos respectivos administradores, directores ou gerentes, no caso de se tratar de pessoa colectiva.\n\n2 - São consideradas idóneas as pessoas relativamente às quais não se verifique algum dos seguintes impedimentos:\n\na) Condenação, com trânsito em julgado, em pena de prisão efectiva igual ou superior a dois anos, por crime contra o património, por tráfico de estupefacientes, por branqueamento de capitais, por fraude fiscal ou aduaneira;\n\nb) Condenação, com trânsito em julgado, por crimes de insolvência dolosa, insolvência negligente, favorecimento de credores, apropriação ilegítima, administração danosa e corrupção activa;\n\nc) Condenação, com trânsito em julgado, pela prática de concorrência ilícita ou desleal;\n\nd) Condenação, com trânsito em julgado, pela prática de infracções às regras legais ou regulamentares que regem a actividade das instituições de crédito;\n\ne) Condenação, com trânsito em julgado, por crime de emissão de cheque sem provisão;\n\nf) Condenação, com trânsito em julgado, por crime de falsificação, suborno e tráfico de influência;\n\ng) Inibição para o exercício do comércio, seja qual for a causa que o determine."
+  },
+  "48161075": {
+   "fragment_id": "37206575",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrução do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instrução do processo\n\n1 - O pedido de licenciamento deve ser efectuado através de requerimento acompanhado dos seguintes documentos:\n\na) Certificado do registo criminal dos requerentes, ou dos respectivos administradores, directores ou gerentes no caso de se tratar de pessoa colectiva;\n\nb) Certidão do registo comercial;\n\nc) Fotocópia do contrato de sociedade e dos respectivos estatutos;\n\nd) Licença de utilização, passada pela autoridade municipal competente, comprovativa de aptidão do espaço para o exercício da actividade.\n\n2 - A emissão do alvará fica dependente de o interessado, no prazo de 15 dias após a notificação do licenciamento, fazer prova da constituição do seguro a que se refere o artigo 33.º"
+  },
+  "48161175": {
+   "fragment_id": "37206675",
+   "type": 11,
+   "heading": "Artigo 6.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dever de informação\n\n1 - Os requisitos de acesso e exercício da actividade são de verificação permanente, devendo os prestamistas comprovar o seu preenchimento sempre que tal lhes for solicitado.\n\n2 - Sem prejuízo do disposto no número anterior, os prestamistas têm o dever de fazer prova, junto da Direcção-Geral do Comércio e da Concorrência:\n\na) Anualmente, da renovação do seguro e do pagamento do respectivo prémio de seguro nos termos do artigo 33.º, bem como das suas alterações, se as houver;\n\nb) Do preenchimento do requisito de idoneidade em caso de alteração dos administradores, directores ou gerentes, quando o prestamista revista a forma de pessoa colectiva;\n\nc) Das alterações ao pacto social no prazo de 30 dias após a celebração da escritura.\n\n3 - As alterações ao pacto social referidas na alínea c) do número anterior são objecto de averbamento ao respectivo licenciamento, devendo, para tanto, o prestamista apresentar a correspondente certidão do registo comercial.\n\n4 - A Direcção-Geral do Comércio e da Concorrência centraliza toda a informação relevante desta actividade dando conhecimento à Inspecção-Geral das Actividades Económicas das alterações ocorridas, nomeadamente a falta superveniente de requisitos e a caducidade do licenciamento."
+  },
+  "48161275": {
+   "fragment_id": "37206775",
+   "type": 11,
+   "heading": "Artigo 7.º — A não verificação superveniente de requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — A não verificação superveniente de requisitos\n\n1 - A não verificação superveniente de requisitos de acesso e exercício da actividade deve ser suprida no prazo de três meses a contar da data da sua ocorrência.\n\n2 - O decurso do prazo previsto no número anterior sem que a falta seja suprida determina a caducidade do licenciamento."
+  },
+  "48161375": {
+   "fragment_id": "37206875",
+   "type": 11,
+   "heading": "Artigo 8.º — Sucursais, filiais, estabelecimentos e outras formas locais de representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sucursais, filiais, estabelecimentos e outras formas locais de representação\n\n1 - A abertura de sucursais, filiais, estabelecimentos e outras formas locais de representação depende de autorização prévia da Direcção-Geral do Comércio e da Concorrência, devendo o pedido ser acompanhado dos seguintes documentos:\n\na) Acta da assembleia geral contendo a deliberação de abertura de sucursal, filial, estabelecimento e outra forma local de representação, caso necessário;\n\nb) Licença de utilização, passada pela autoridade municipal competente, comprovativa de aptidão do espaço para o exercício da actividade na sucursal, filial, estabelecimento e outra forma local de representação.\n\n2 - No prazo de 15 dias após a notificação da autorização de abertura da sucursal, filial, estabelecimento e outra forma local de representação, deve o interessado fazer prova da actualização do valor do seguro a que se refere o artigo 33.º, determinada nos termos do n.º 3 desse artigo, sob pena de ineficácia da autorização."
+  },
+  "48161475": {
+   "fragment_id": "37206975",
+   "type": 11,
+   "heading": "Artigo 9.º — Afixações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Afixações obrigatórias\n\nSão obrigatoriamente afixadas em lugar visível do estabelecimento:\n\na) Cópia do alvará referido no artigo 3.º;\n\nb) Indicação das taxas referidas nos artigos 12.º e 13.º"
+  },
+  "48161575": {
+   "fragment_id": "35719075",
+   "type": 1,
+   "heading": "Capítulo II — Dos contratos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos contratos"
+  },
+  "48161675": {
+   "fragment_id": "37207075",
+   "type": 11,
+   "heading": "Artigo 10.º — Objecto do penhor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Objecto do penhor\n\nPodem ser dadas em penhor todas as coisas móveis livremente transaccionáveis, com excepção das seguintes:\n\na) Artigos militares ou de fardamento das Forças Armadas ou de segurança;\n\nb) Armas de fogo;\n\nc) Matérias inflamáveis, explosivas ou tóxicas;\n\nd) Objectos ofensivos dos bons costumes;\n\ne) Objectos especialmente destinados ao exercício do culto público;\n\nf) Coisas móveis sujeitas a registo."
+  },
+  "48161775": {
+   "fragment_id": "37207175",
+   "type": 11,
+   "heading": "Artigo 11.º — Contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Contrato\n\n1 - O contrato de mútuo garantido por penhor é obrigatoriamente reduzido a escrito, feito em dois exemplares e assinado por ambas as partes, ficando um deles na posse do mutuante, que se designará «termo de penhor», e o outro, denominado «cautela de penhor», destinar-se-á ao mutuário.\n\n2 - No contrato são identificadas as partes contratantes, com menção do nome do mutuário, filiação, naturalidade, residência, número do bilhete de identidade e número fiscal de contribuinte, bem como a descrição pormenorizada das coisas dadas em penhor.\n\n3 - Constarão ainda do contrato:\n\na) O valor da avaliação;\n\nb) Montante mutuado;\n\nc) Taxa de avaliação e montante cobrado;\n\nd) Taxa de juro;\n\ne) Data de início e termo do contrato;\n\nf) Regras indemnizatórias previstas no n.º 2 do artigo 32.º;\n\ng) Condições de amortização do empréstimo;\n\nh) Condições de resgate das coisas dadas em garantia."
+  },
+  "48161875": {
+   "fragment_id": "37207275",
+   "type": 11,
+   "heading": "Artigo 12.º — Taxa de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Taxa de avaliação\n\n1 - No momento da celebração do contrato de mútuo garantido por penhor o prestamista pode cobrar, a título de avaliação da coisa, a importância que resultar da aplicação de uma taxa única não superior a 1% sobre o valor da avaliação.\n\n2 - A taxa referida no número anterior é obrigatoriamente revelada ao interessado antes da avaliação da coisa."
+  },
+  "48161975": {
+   "fragment_id": "37207375",
+   "type": 11,
+   "heading": "Artigo 13.º — Taxas de juro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Taxas de juro\n\n1 - Os montantes máximos das taxas de juro remuneratório a cobrar para os mútuos garantidos, quer por ouro, prata e jóias, quer por outras coisas, são estabelecidos por portaria conjunta dos Ministros das Finanças e da Economia.\n\n2 - As taxas referidas no número anterior são obrigatoriamente reveladas ao interessado antes da celebração do contrato de penhor."
+  },
+  "48162075": {
+   "fragment_id": "37207475",
+   "type": 11,
+   "heading": "Artigo 14.º — Prazo e renovação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prazo e renovação do contrato\n\n1 - O contrato de mútuo garantido por penhor é celebrado pelo prazo de um mês, sendo renovável por períodos iguais e sucessivos, até ao máximo de dois anos.\n\n2 - O contrato considera-se automaticamente renovado com o pagamento dos juros relativos ao mês anterior, bem como os moratórios, se a eles houver lugar.\n\n3 - Pela renovação do contrato referido no número anterior não são cobradas quaisquer taxas ou comissões, designadamente a taxa de avaliação."
+  },
+  "48162175": {
+   "fragment_id": "37207575",
+   "type": 11,
+   "heading": "Artigo 15.º — Vencimento de juros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Vencimento de juros\n\n1 - Os juros vencem-se com a celebração do contrato, sendo exigíveis a partir do 25.º dia da data da celebração ou da sua renovação, salvo se o mutuário proceder à amortização antecipada.\n\n2 - Sem prejuízo do disposto no número anterior, a amortização de toda a dívida e o resgate das coisas dadas em penhor podem ser feitos antes do termo do contrato de mútuo garantido por penhor ou da sua renovação."
+  },
+  "48162275": {
+   "fragment_id": "37207675",
+   "type": 11,
+   "heading": "Artigo 16.º — Mora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Mora\n\n1 - Em caso de mora do mutuário é aplicada a taxa de juro supletiva legal para dívidas civis, salvo se esta for inferior à taxa de juro remuneratório vigente à data da celebração do contrato.\n\n2 - Os juros de mora são calculados ao dia e incidirão apenas sobre o capital em dívida.\n\n3 - Nos contratos de mútuo garantido por penhor não é permitida a capitalização de juros."
+  },
+  "48162375": {
+   "fragment_id": "37207775",
+   "type": 11,
+   "heading": "Artigo 17.º — Condições de amortização do empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Condições de amortização do empréstimo\n\n1 - O mútuo pode ser amortizado a qualquer tempo mediante o pagamento do capital e juros devidos.\n\n2 - São permitidas amortizações parciais do empréstimo, a efectuar no momento da renovação do contrato, de valor não inferior a 10% do capital em dívida.\n\n3 - Em caso de amortização parcial os juros vincendos incidem apenas sobre o capital em dívida.\n\n4 - Os valores das amortizações parciais e os juros pagos são apensos ao contrato de penhor."
+  },
+  "48162475": {
+   "fragment_id": "37207875",
+   "type": 11,
+   "heading": "Artigo 18.º — Resgate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Resgate\n\n1 - O resgate das coisas dadas em penhor depende do prévio pagamento do capital, juros e comissões legais devidas.\n\n2 - O resgate referido no número anterior pode ficar condicionado ao pré-aviso de cinco dias úteis, devendo, nesse caso, ficar convencionado no respectivo contrato."
+  },
+  "48162575": {
+   "fragment_id": "35719175",
+   "type": 1,
+   "heading": "Capítulo III — Da venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Da venda"
+  },
+  "48162675": {
+   "fragment_id": "37207975",
+   "type": 11,
+   "heading": "Artigo 19.º — Anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Anúncios\n\n1 - As vendas, quer por proposta em carta fechada, quer em leilão, são publicitadas mediante a afixação de editais na porta do estabelecimento do prestamista e a publicação de anúncio num dos jornais mais lidos da localidade, com a antecedência mínima de 10 dias em relação ao dia da venda e com a indicação do local, dia, hora e modalidade da mesma, bem como do local e data em que estarão expostas ou poderão ser examinadas as coisas dadas em penhor.\n\n2 - Os anúncios devem conter a indicação de que são vendidas as coisas que garantam empréstimos e que à data tiverem juros vencidos e não pagos há mais de três meses."
+  },
+  "48162775": {
+   "fragment_id": "37208075",
+   "type": 11,
+   "heading": "Artigo 20.º — Venda das coisas dadas em penhor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Venda das coisas dadas em penhor\n\n1 - Em caso de mora por período superior a três meses, pode a coisa dada em penhor ser vendida por meio de proposta em carta fechada, em leilão ou por venda directa a entidades que, por determinação legal, tenham direito a adquirir determinados bens.\n\n2 - O valor base de licitação das coisas em venda não pode ser inferior ao valor da avaliação."
+  },
+  "48162875": {
+   "fragment_id": "37208175",
+   "type": 11,
+   "heading": "Artigo 21.º — Venda por meio de proposta em carta fechada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Venda por meio de proposta em carta fechada\n\n1 - As propostas referidas no artigo anterior são numeradas e registadas num livro próprio e contêm a indicação do número do lote e a identificação completa do interessado, sob pena de ineficácia.\n\n2 - Por cada proposta entregue o prestamista emite recibo comprovativo, donde conste a referência ao lote objecto de oferta."
+  },
+  "48162975": {
+   "fragment_id": "37208275",
+   "type": 11,
+   "heading": "Artigo 22.º — Abertura das propostas e depósito do preço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Abertura das propostas e depósito do preço\n\n1 - As propostas são abertas na data e hora designadas nos anúncios da venda, na presença de um representante do governo civil.\n\n2 - As coisas dadas em penhor são adjudicadas ao interessado que tiver feito a maior oferta e ser-lhe-ão entregues após o pagamento do preço.\n\n3 - Se o preço mais elevado for oferecido por mais de um proponente, será logo aberta licitação entre eles, sendo adjudicada ao que fizer maior oferta.\n\n4 - Estando presente só um dos proponentes da maior oferta, ser-lhe-á adjudicada a coisa dada em penhor com o pagamento do preço."
+  },
+  "48163075": {
+   "fragment_id": "37208375",
+   "type": 11,
+   "heading": "Artigo 23.º — Leilões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Leilões\n\n1 - A venda em leilão é efectuada no dia e hora designados nos anúncios da venda, na presença de representante do governo civil.\n\n2 - As coisas dadas em penhor são adjudicadas ao interessado que tiver feito o maior lance e mediante o depósito do respectivo valor.\n\n3 - A inexistência de qualquer proposta aquisitiva determina que as coisas em causa sejam relegadas para outra venda em leilão ou por meio de propostas em carta fechada."
+  },
+  "48163175": {
+   "fragment_id": "37208475",
+   "type": 11,
+   "heading": "Artigo 24.º — Exposição dos objectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Exposição dos objectos\n\n1 - Na venda por proposta em carta fechada as coisas dadas em penhor são previamente expostas em montra ou em outro local adequado quando a natureza e dimensão das mesmas o exija, durante um período mínimo de cinco dias úteis, referenciadas por lotes, com indicação da natureza, peso, valor base de licitação e outras características essenciais à aquisição.\n\n2 - Deve ser facultado ao público o exame da coisa a leiloar durante as duas horas que antecedem o leilão.\n\n3 - No caso de coisas de metal precioso, deve estar devidamente identificado o metal, bem como o respectivo toque."
+  },
+  "48163275": {
+   "fragment_id": "37208575",
+   "type": 11,
+   "heading": "Artigo 25.º — Taxa de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Taxa de venda\n\nSobre o preço de adjudicação incide uma taxa de 11% a título de comissão sobre a venda, a qual reverte a favor do prestamista."
+  },
+  "48163375": {
+   "fragment_id": "37208675",
+   "type": 11,
+   "heading": "Artigo 26.º — Resgate na fase da venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Resgate na fase da venda\n\nAté ao momento da adjudicação de qualquer coisa dada em penhor, podem os mutuários resgatá-la mediante o pagamento imediato do capital e dos juros em dívida e da comissão a que se refere o artigo anterior, e que, neste caso, incide sobre o valor base de licitação."
+  },
+  "48163475": {
+   "fragment_id": "37208775",
+   "type": 11,
+   "heading": "Artigo 27.º — Admissão à venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Admissão à venda\n\n1 - A venda é pública, podendo licitar todos os interessados, incluindo o prestamista.\n\n2 - O prestamista que licitar na venda quaisquer coisas dadas em penhor fica sujeito a observar todas as condições da venda, excepto quanto ao depósito do preço, do qual fica isento."
+  },
+  "48163575": {
+   "fragment_id": "37208875",
+   "type": 11,
+   "heading": "Artigo 28.º — Mapa resumo da venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Mapa resumo da venda\n\n1 - Concluído qualquer processo de venda, o prestamista fica obrigado, no prazo de 30 dias subsequentes, a elaborar um mapa resumo da mesma, no qual constem, relativamente às coisas vendidas, os seguintes elementos:\n\na) Número do contrato;\n\nb) Identificação do mutuário;\n\nc) Descrição das coisas;\n\nd) Valor da avaliação;\n\ne) Montante inicial mutuado;\n\nf) Montante em dívida à data da venda, com discriminação do capital, juros e taxa de venda;\n\ng) Valor obtido na venda;\n\nh) Valor dos remanescentes, se os houver;\n\ni) Valor por cobrar, caso exista;\n\nj) Identificação do adquirente.\n\n2 - O mapa referido no número anterior é feito em duplicado, destinando-se um exemplar à Inspecção-Geral das Actividades Económicas e o outro ao prestamista, para que o possa exibir aos interessados."
+  },
+  "48163675": {
+   "fragment_id": "37208975",
+   "type": 11,
+   "heading": "Artigo 29.º — Remanescentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Remanescentes\n\n1 - Deduzidos os valores em dívida à data da venda ao produto obtido na mesma, o remanescente, se o houver, é entregue ao mutuário respectivo desde que o reclame no prazo de seis meses a contar daquela data.\n\n2 - Quando o valor do remanescente seja superior a 5000$00, o prestamista fica obrigado, nos oito dias subsequentes à elaboração do mapa resumo da venda, a avisar o mutuário, por escrito, que poderá proceder ao seu levantamento até ao limite do prazo referido no número anterior, podendo o prestamista debitar as correspondentes despesas no respectivo contrato.\n\n3 - O pagamento do remanescente dará lugar à entrega da cautela e de recibo assinado pelo mutuário.\n\n4 - Os valores dos remanescentes não reclamados pelos mutuários no prazo mencionado no n.º 1 revertem para o Estado e para o mutuante em partes iguais.\n\n5 - O disposto no número anterior não se aplica às associações de socorros mútuos."
+  },
+  "48163775": {
+   "fragment_id": "37209075",
+   "type": 11,
+   "heading": "Artigo 30.º — Encerramento do processo de venda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Encerramento do processo de venda\n\nDecorrido que seja o prazo de seis meses a que alude o artigo anterior, o prestamista fica obrigado a encerrar o processo da venda, entregando, no prazo de oito dias, numa caixa do Tesouro a importância que eventualmente resultar dos remanescentes não reclamados após dedução do produto da soma dos valores não cobrados na venda."
+  },
+  "48163875": {
+   "fragment_id": "37209175",
+   "type": 11,
+   "heading": "Artigo 31.º — Registos específicos da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Registos específicos da actividade\n\n1 - Os prestamistas são obrigados a ter um registo de contratos de mútuo garantidos por penhor e outro de mapa da venda.\n\n2 - Os modelos de registo a que se refere o número anterior são aprovados por portaria conjunta dos Ministros das Finanças e da Economia."
+  },
+  "48163975": {
+   "fragment_id": "35719275",
+   "type": 1,
+   "heading": "Capítulo IV — Dos seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Dos seguros"
+  },
+  "48164075": {
+   "fragment_id": "37209275",
+   "type": 11,
+   "heading": "Artigo 32.º — Obrigação específica de indemnizar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Obrigação específica de indemnizar\n\n1 - Em caso de perda, extravio, furto, roubo ou incêndio das coisas dadas em penhor, fica o prestamista obrigado a indemnizar o mutuário.\n\n2 - A indemnização referida no número anterior é a que resultar do valor da avaliação do objecto, deduzida do valor em dívida à data da ocorrência e acrescida de metade do valor da avaliação."
+  },
+  "48164175": {
+   "fragment_id": "37209375",
+   "type": 11,
+   "heading": "Artigo 33.º — Seguro obrigatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Seguro obrigatório\n\n1 - A responsabilidade de indemnizar prevista no artigo anterior é obrigatoriamente transferida para uma companhia seguradora.\n\n2 - O valor do seguro a que se refere o número anterior é no mínimo o que resultar da média das avaliações efectuadas no ano anterior.\n\n3 - O valor a que se refere o número anterior durante o 1.º ano de actividade é fixado por indicação do prestamista.\n\n4 - Anualmente deve ser feita prova da renovação do seguro e do pagamento do respectivo prémio junto da Direcção-Geral do Comércio e da Concorrência.\n\n5 - A entidade seguradora comunica à Direcção-Geral do Comércio e da Concorrência a rescisão do contrato de seguro."
+  },
+  "48164275": {
+   "fragment_id": "35719375",
+   "type": 1,
+   "heading": "Capítulo V — Da cessação, encerramento e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da cessação, encerramento e liquidação"
+  },
+  "48164375": {
+   "fragment_id": "37209475",
+   "type": 11,
+   "heading": "Artigo 34.º — Cessação da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Cessação da actividade\n\n1 - Em caso de cessação da actividade por iniciativa do prestamista, deve este publicitar tal facto, através da publicação de anúncio e afixação de edital nos termos regulados no artigo 24.º do presente diploma, não podendo ser realizado o leilão de liquidação ou a venda por proposta em carta fechada com o mesmo fim antes de decorridos 30 dias sobre essa publicação.\n\n2 - Sem prejuízo do disposto no número anterior, fica o prestamista obrigado a avisar por escrito todos os mutuários.\n\n3 - O disposto nos números anteriores é igualmente aplicável no caso de caducidade do licenciamento.\n\n4 - No caso previsto neste artigo, deve o prestamista comunicar o facto às entidades licenciadora e fiscalizadora."
+  },
+  "48164475": {
+   "fragment_id": "35719475",
+   "type": 1,
+   "heading": "Capítulo VI — Fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Fiscalização e sanções"
+  },
+  "48164575": {
+   "fragment_id": "37209575",
+   "type": 11,
+   "heading": "Artigo 35.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Contra-ordenações\n\n1 - Constitui contra-ordenação:\n\na) A violação do disposto no n.º 1 do artigo 2.º;\n\nb) A violação do disposto no n.º 2 do artigo 6.º, no artigo 9.º e no n.º 4 do artigo 17.º;\n\nc) A falta de pagamento do prémio de seguro a que se refere o artigo 33.º, quando determine a resolução do respectivo contrato;\n\nd) A violação do disposto no artigo 10.º e no n.º 3 do artigo 14.º;\n\ne) A venda por meio de proposta em carta fechada ou a realização de leilão em violação do disposto nos artigos 19.º a 24.º;\n\nf) A violação do disposto no artigo 28.º e no n.º 2 do artigo 29.º;\n\ng) A violação do disposto no artigo 31.º;\n\nh) A violação do disposto no artigo 34.º;\n\ni) A celebração de contrato de mútuo garantido por penhor com incapaz.\n\n2 - As contra-ordenações previstas no número anterior são punidas com coimas:\n\na) De 250000$00 a 750000$00 ou de 2000000$00 a 6000000$00, consoante seja praticada por pessoa singular ou colectiva, no caso previsto na alínea a);\n\nb) De 200000$00 a 600000$00 ou de 1000000$00 a 4600000$00, consoante sejam praticadas por pessoa singular ou colectiva, nos casos previstos nas alíneas c), d), e), h) e i);\n\nc) De 100000$00 a 370000$00 ou de 300000$00 a 1200000$00, consoante sejam praticadas por pessoa singular ou colectiva, nos casos previstos nas alíneas b), f) e g).\n\n3 - A tentativa e a negligência são puníveis."
+  },
+  "48164675": {
+   "fragment_id": "37209675",
+   "type": 11,
+   "heading": "Artigo 36.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sanções acessórias\n\n1 - No caso das contra-ordenações previstas no artigo anterior, em função da gravidade da infracção e da culpa do agente, podem, em simultâneo com a coima, ser aplicadas as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição, até dois anos, do exercício da actividade;\n\nc) Encerramento, até dois anos, do estabelecimento;\n\nd) Suspensão, até dois anos, da licença.\n\n2 - Pode ainda ser determinada a publicação de extracto da decisão condenatória em jornal de difusão nacional, regional ou local, consoante as circunstâncias da infracção, e a afixação daquele extracto no estabelecimento, pelo período de 30 dias, em lugar e por forma bem visível.\n\n3 - As despesas resultantes da publicidade a que se refere o número anterior são suportadas pelo infractor."
+  },
+  "48164775": {
+   "fragment_id": "37209775",
+   "type": 11,
+   "heading": "Artigo 37.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Fiscalização\n\nSem prejuízo dos poderes de fiscalização cometidos a outras entidades públicas, cabe em especial à Inspecção-Geral das Actividades Económicas a fiscalização da actividade de mútuo garantido por penhor."
+  },
+  "48164875": {
+   "fragment_id": "37209875",
+   "type": 11,
+   "heading": "Artigo 38.º — Instrução dos processos e aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Instrução dos processos e aplicação das coimas\n\n1 - A instrução dos processos das contra-ordenações previstas no presente diploma compete à Inspecção-Geral das Actividades Económicas.\n\n2 - Cabe à Comissão de Aplicação de Coimas em Matéria Económica a aplicação das coimas e respectivas sanções acessórias."
+  },
+  "48164975": {
+   "fragment_id": "37209975",
+   "type": 11,
+   "heading": "Artigo 39.º — Produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Produto das coimas\n\nO montante das coimas aplicadas pela prática das contra-ordenações previstas no presente diploma reverte em 60% para o Estado e em 40% para a Inspecção-Geral das Actividades Económicas."
+  },
+  "48165075": {
+   "fragment_id": "35719575",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "48165175": {
+   "fragment_id": "37210075",
+   "type": 11,
+   "heading": "Artigo 40.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Regiões Autónomas\n\nNas Regiões Autónomas dos Açores e da Madeira as competências conferidas no presente diploma à Direcção-Geral do Comércio e da Concorrência, à Inspecção-Geral das Actividades Económicas e à Comissão de Aplicação de Coimas em Matéria Económica são exercidas pelos serviços de administração regional autónoma que exerçam competências análogas."
+  },
+  "48165275": {
+   "fragment_id": "37210175",
+   "type": 11,
+   "heading": "Artigo 41.º — Venda ao público de artefactos de metal precioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Venda ao público de artefactos de metal precioso\n\nO disposto no presente diploma não prejudica a aplicação do disposto no Regulamento das Contrastarias, aprovado pelo Decreto-Lei n.º 391/79, de 20 de Setembro, e legislação complementar, às entidades que, para além da actividade mutuária, exponham e vendam ao público artefactos de metal precioso adquiridos nos ternos previstos no n.º 2 do artigo 27.º"
+  },
+  "48165375": {
+   "fragment_id": "37210275",
+   "type": 11,
+   "heading": "Artigo 42.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Norma transitória\n\nAs entidades actualmente licenciadas ao abrigo da legislação revogada nos termos do artigo seguinte devem, no prazo de 90 dias a contar da data da entrada em vigor deste diploma, requerer novo licenciamento nos termos previstos no presente diploma."
+  },
+  "48165475": {
+   "fragment_id": "37210375",
+   "type": 11,
+   "heading": "Artigo 43.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Norma revogatória\n\nSão revogados o Decreto n.º 17766, de 17 de Dezembro de 1929, o Decreto-Lei n.º 225/80, de 12 de Julho, o Decreto-Lei n.º 341/85, de 22 de Agosto, o Decreto-Lei n.º 29640, de 30 de Maio de 1939, o Decreto-Lei n.º 32428, de 24 de Novembro de 1942, a Portaria n.º 10471, de 19 de Agosto de 1943, e o n.º 2 do artigo 31.º do Regulamento das Contrastarias, aprovado pelo Decreto-Lei n.º 391/79, de 20 de Setembro."
+  },
+  "48165575": {
+   "fragment_id": "37210475",
+   "type": 11,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nO presente diploma entra em vigor 60 dias após a sua publicação."
+  },
+  "48160475": {
+   "fragment_id": "35158775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto com força de lei n.º 17766, de 17 de Dezembro de 1929, e o Decreto-Lei n.º 32428, de 14 de Novembro de 1942, regulam a actividade de empréstimos sobre penhores. Por força destas disposições legais, foi a Caixa Geral de Depósitos incumbida de fiscalizar o exercício daquela actividade, levada a cabo pelos prestamistas privados, traduzida, essencialmente, no controlo das operações e dos leilões, no acompanhamento e liquidação dos estabelecimentos e no levantamento de autos de transgressões por infracção aos aludidos normativos.\n\nCom a publicação e entrada em vigor do Decreto-Lei n.º 287/93, de 20 de Agosto, que transformou a Caixa Geral de Depósitos em sociedade anónima de capitais públicos e consequente revogação da respectiva Lei Orgânica, esta instituição deixou de estar vocacionada para o exercício daquela actividade de fiscalização.\n\nParece, assim, necessário proceder à revisão do regime jurídico do acesso, do exercício e da fiscalização desta actividade face à alteração da natureza jurídica da Caixa Geral de Depósitos, por forma a atribuir as referidas funções de fiscalização a uma entidade pública, bem como a clarificar e tornar mais transparente toda uma actividade que carece há muito de adequada e actual regulamentação e fiscalização.\n\nConsiderando, igualmente, o quadro do ilícito de mera ordenação social, consagrado no Decreto-Lei n.º 433/82, de 27 de Outubro, importa, também, proceder à actualização do regime da fiscalização e do sancionamento dos ilícitos da actividade prestamista.\n\nAcresce que afigura-se necessário adequar a venda das coisas dadas de penhor ao regime da venda estabelecido no âmbito dos processos de execução fiscal e cível, com o objectivo de alcançar um rápido escoamento dos objectos em benefício do prestamista e do mutuário, bem como de fazer com que outras pessoas não ligadas à actividade, designadamente particulares, passem a licitar os objectos a vender.\n\nExiste ainda a necessidade de adequar as taxas de juros às actuais realidades financeiras, por forma a assegurar uma correcta aplicação daquelas taxas e adaptar o regime de cobrança dos juros às regras gerais vigentes nesta matéria.\n\nFinalmente, importa ainda moralizar alguns aspectos desta actividade, tais como a obrigatoriedade de cobrar uma taxa única de avaliação ainda que o prazo do contrato seja prorrogado até dois anos, bem como a afixação, em lugar visível, das taxas de avaliação, de juro e de outras comissões.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "221641039": {
+   "fragment_id": "37208275",
+   "type": 11,
+   "heading": "Artigo 22.º — Abertura das propostas e depósito do preço",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 22.º — Abertura das propostas e depósito do preço\n\n1 - As propostas são abertas na data e hora designadas nos anúncios da venda, na presença de um representante do membro do Governo responsável pela área da economia.\n\n2 - As coisas dadas em penhor são adjudicadas ao interessado que tiver feito a maior oferta e ser-lhe-ão entregues após o pagamento do preço.\n\n3 - Se o preço mais elevado for oferecido por mais de um proponente, será logo aberta licitação entre eles, sendo adjudicada ao que fizer maior oferta.\n\n4 - Estando presente só um dos proponentes da maior oferta, ser-lhe-á adjudicada a coisa dada em penhor com o pagamento do preço.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "221641040": {
+   "fragment_id": "37208375",
+   "type": 11,
+   "heading": "Artigo 23.º — Leilões",
+   "in_force_from": "2011-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 23.º — Leilões\n\n1 - A venda em leilão é efectuada no dia e hora e designado nos anúncios da venda, na presença de um representante do membro do Governo responsável pela área da economia.\n\n2 - As coisas dadas em penhor são adjudicadas ao interessado que tiver feito o maior lance e mediante o depósito do respectivo valor.\n\n3 - A inexistência de qualquer proposta aquisitiva determina que as coisas em causa sejam relegadas para outra venda em leilão ou por meio de propostas em carta fechada.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "48165975": {
+   "fragment_id": "35719675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 30 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "221641042": {
+   "fragment_id": "35718975",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641043": {
+   "fragment_id": "37206175",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O presente diploma regula o acesso, o exercício e a fiscalização da actividade prestamista.\n\n2 - Considera-se actividade prestamista o exercício por pessoa singular ou colectiva da actividade de mútuo garantido por penhor.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641044": {
+   "fragment_id": "37206275",
+   "type": 11,
+   "heading": "Artigo 2.º — Acesso",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 2.º — Acesso\n\n1 - Podem exercer a actividade a que se refere o presente diploma as pessoas singulares ou colectivas sob qualquer forma, sediadas ou com estabelecimento estável em Portugal, desde que devidamente licenciadas.\n\n2 - Estão dispensadas do licenciamento a que se refere o número anterior:\n\na) As instituições de crédito;\n\nb) As associações de socorros mútuos, quando a prossecução de tal fim esteja prevista nos seus estatutos.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641045": {
+   "fragment_id": "37206375",
+   "type": 11,
+   "heading": "Artigo 3.º — Licenciamento",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 3.º — Licenciamento\n\n1 - O licenciamento é efectuado pela Direcção-Geral do Comércio e da Concorrência, sendo intransmissível e titulado por alvará, de modelo aprovado por portaria conjunta dos Ministros das Finanças e da Economia, sem prejuízo do disposto no número seguinte.\n\n2 - Tratando-se de licença atribuída a pessoa singular, em caso de falecimento desta o cabeça-de-casal da respectiva herança deve, nos 30 dias subsequentes ao óbito, solicitar à Direcção-Geral do Comércio e da Concorrência uma autorização provisória para continuação do exercício da actividade, fazendo prova de que estão preenchidos os requisitos de acesso.\n\n3 - A licença provisória referida no número anterior é renovada no caso de estar em curso um processo judicial de partilha.\n\n4 - Nos casos previstos nos n.os 2 e 3, a Direcção-Geral do Comércio e da Concorrência pode, a todo o tempo, solicitar ao cabeça-de-casal a demonstração do preenchimento do requisito previsto no artigo 4.º\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641046": {
+   "fragment_id": "37206475",
+   "type": 11,
+   "heading": "Artigo 4.º — Idoneidade",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 4.º — Idoneidade\n\n1 - A idoneidade dos requerentes é aferida pela inexistência de impedimentos legais, de condenação por determinados ilícitos praticados pelos requerentes, bem como pelos respectivos administradores, directores ou gerentes, no caso de se tratar de pessoa colectiva.\n\n2 - São consideradas idóneas as pessoas relativamente às quais não se verifique algum dos seguintes impedimentos:\n\na) Condenação, com trânsito em julgado, em pena de prisão efectiva igual ou superior a dois anos, por crime contra o património, por tráfico de estupefacientes, por branqueamento de capitais, por fraude fiscal ou aduaneira;\n\nb) Condenação, com trânsito em julgado, por crimes de insolvência dolosa, insolvência negligente, favorecimento de credores, apropriação ilegítima, administração danosa e corrupção activa;\n\nc) Condenação, com trânsito em julgado, pela prática de concorrência ilícita ou desleal;\n\nd) Condenação, com trânsito em julgado, pela prática de infracções às regras legais ou regulamentares que regem a actividade das instituições de crédito;\n\ne) Condenação, com trânsito em julgado, por crime de emissão de cheque sem provisão;\n\nf) Condenação, com trânsito em julgado, por crime de falsificação, suborno e tráfico de influência;\n\ng) Inibição para o exercício do comércio, seja qual for a causa que o determine.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641047": {
+   "fragment_id": "37206575",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrução do processo",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 5.º — Instrução do processo\n\n1 - O pedido de licenciamento deve ser efectuado através de requerimento acompanhado dos seguintes documentos:\n\na) Certificado do registo criminal dos requerentes, ou dos respectivos administradores, directores ou gerentes no caso de se tratar de pessoa colectiva;\n\nb) Certidão do registo comercial;\n\nc) Fotocópia do contrato de sociedade e dos respectivos estatutos;\n\nd) Licença de utilização, passada pela autoridade municipal competente, comprovativa de aptidão do espaço para o exercício da actividade.\n\n2 - A emissão do alvará fica dependente de o interessado, no prazo de 15 dias após a notificação do licenciamento, fazer prova da constituição do seguro a que se refere o artigo 33.º\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641048": {
+   "fragment_id": "37206675",
+   "type": 11,
+   "heading": "Artigo 6.º — Dever de informação",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 6.º — Dever de informação\n\n1 - Os requisitos de acesso e exercício da actividade são de verificação permanente, devendo os prestamistas comprovar o seu preenchimento sempre que tal lhes for solicitado.\n\n2 - Sem prejuízo do disposto no número anterior, os prestamistas têm o dever de fazer prova, junto da Direcção-Geral do Comércio e da Concorrência:\n\na) Anualmente, da renovação do seguro e do pagamento do respectivo prémio de seguro nos termos do artigo 33.º, bem como das suas alterações, se as houver;\n\nb) Do preenchimento do requisito de idoneidade em caso de alteração dos administradores, directores ou gerentes, quando o prestamista revista a forma de pessoa colectiva;\n\nc) Das alterações ao pacto social no prazo de 30 dias após a celebração da escritura.\n\n3 - As alterações ao pacto social referidas na alínea c) do número anterior são objecto de averbamento ao respectivo licenciamento, devendo, para tanto, o prestamista apresentar a correspondente certidão do registo comercial.\n\n4 - A Direcção-Geral do Comércio e da Concorrência centraliza toda a informação relevante desta actividade dando conhecimento à Inspecção-Geral das Actividades Económicas das alterações ocorridas, nomeadamente a falta superveniente de requisitos e a caducidade do licenciamento.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641049": {
+   "fragment_id": "37206775",
+   "type": 11,
+   "heading": "Artigo 7.º — A não verificação superveniente de requisitos",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 7.º — A não verificação superveniente de requisitos\n\n1 - A não verificação superveniente de requisitos de acesso e exercício da actividade deve ser suprida no prazo de três meses a contar da data da sua ocorrência.\n\n2 - O decurso do prazo previsto no número anterior sem que a falta seja suprida determina a caducidade do licenciamento.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641050": {
+   "fragment_id": "37206875",
+   "type": 11,
+   "heading": "Artigo 8.º — Sucursais, filiais, estabelecimentos e outras formas locais de representação",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 8.º — Sucursais, filiais, estabelecimentos e outras formas locais de representação\n\n1 - A abertura de sucursais, filiais, estabelecimentos e outras formas locais de representação depende de autorização prévia da Direcção-Geral do Comércio e da Concorrência, devendo o pedido ser acompanhado dos seguintes documentos:\n\na) Acta da assembleia geral contendo a deliberação de abertura de sucursal, filial, estabelecimento e outra forma local de representação, caso necessário;\n\nb) Licença de utilização, passada pela autoridade municipal competente, comprovativa de aptidão do espaço para o exercício da actividade na sucursal, filial, estabelecimento e outra forma local de representação.\n\n2 - No prazo de 15 dias após a notificação da autorização de abertura da sucursal, filial, estabelecimento e outra forma local de representação, deve o interessado fazer prova da actualização do valor do seguro a que se refere o artigo 33.º, determinada nos termos do n.º 3 desse artigo, sob pena de ineficácia da autorização.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641051": {
+   "fragment_id": "37206975",
+   "type": 11,
+   "heading": "Artigo 9.º — Afixações obrigatórias",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 9.º — Afixações obrigatórias\n\nSão obrigatoriamente afixadas em lugar visível do estabelecimento:\n\na) Cópia do alvará referido no artigo 3.º;\n\nb) Indicação das taxas referidas nos artigos 12.º e 13.º\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641052": {
+   "fragment_id": "35719075",
+   "type": 1,
+   "heading": "Capítulo II — Dos contratos",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo II — Dos contratos\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641053": {
+   "fragment_id": "37207075",
+   "type": 11,
+   "heading": "Artigo 10.º — Objecto do penhor",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 10.º — Objecto do penhor\n\nPodem ser dadas em penhor todas as coisas móveis livremente transaccionáveis, com excepção das seguintes:\n\na) Artigos militares ou de fardamento das Forças Armadas ou de segurança;\n\nb) Armas de fogo;\n\nc) Matérias inflamáveis, explosivas ou tóxicas;\n\nd) Objectos ofensivos dos bons costumes;\n\ne) Objectos especialmente destinados ao exercício do culto público;\n\nf) Coisas móveis sujeitas a registo.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641054": {
+   "fragment_id": "37207175",
+   "type": 11,
+   "heading": "Artigo 11.º — Contrato",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 11.º — Contrato\n\n1 - O contrato de mútuo garantido por penhor é obrigatoriamente reduzido a escrito, feito em dois exemplares e assinado por ambas as partes, ficando um deles na posse do mutuante, que se designará «termo de penhor», e o outro, denominado «cautela de penhor», destinar-se-á ao mutuário.\n\n2 - No contrato são identificadas as partes contratantes, com menção do nome do mutuário, filiação, naturalidade, residência, número do bilhete de identidade e número fiscal de contribuinte, bem como a descrição pormenorizada das coisas dadas em penhor.\n\n3 - Constarão ainda do contrato:\n\na) O valor da avaliação;\n\nb) Montante mutuado;\n\nc) Taxa de avaliação e montante cobrado;\n\nd) Taxa de juro;\n\ne) Data de início e termo do contrato;\n\nf) Regras indemnizatórias previstas no n.º 2 do artigo 32.º;\n\ng) Condições de amortização do empréstimo;\n\nh) Condições de resgate das coisas dadas em garantia.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641055": {
+   "fragment_id": "37207275",
+   "type": 11,
+   "heading": "Artigo 12.º — Taxa de avaliação",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 12.º — Taxa de avaliação\n\n1 - No momento da celebração do contrato de mútuo garantido por penhor o prestamista pode cobrar, a título de avaliação da coisa, a importância que resultar da aplicação de uma taxa única não superior a 1% sobre o valor da avaliação.\n\n2 - A taxa referida no número anterior é obrigatoriamente revelada ao interessado antes da avaliação da coisa.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641056": {
+   "fragment_id": "37207375",
+   "type": 11,
+   "heading": "Artigo 13.º — Taxas de juro",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 13.º — Taxas de juro\n\n1 - Os montantes máximos das taxas de juro remuneratório a cobrar para os mútuos garantidos, quer por ouro, prata e jóias, quer por outras coisas, são estabelecidos por portaria conjunta dos Ministros das Finanças e da Economia.\n\n2 - As taxas referidas no número anterior são obrigatoriamente reveladas ao interessado antes da celebração do contrato de penhor.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641057": {
+   "fragment_id": "37207475",
+   "type": 11,
+   "heading": "Artigo 14.º — Prazo e renovação do contrato",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 14.º — Prazo e renovação do contrato\n\n1 - O contrato de mútuo garantido por penhor é celebrado pelo prazo de um mês, sendo renovável por períodos iguais e sucessivos, até ao máximo de dois anos.\n\n2 - O contrato considera-se automaticamente renovado com o pagamento dos juros relativos ao mês anterior, bem como os moratórios, se a eles houver lugar.\n\n3 - Pela renovação do contrato referido no número anterior não são cobradas quaisquer taxas ou comissões, designadamente a taxa de avaliação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641058": {
+   "fragment_id": "37207575",
+   "type": 11,
+   "heading": "Artigo 15.º — Vencimento de juros",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 15.º — Vencimento de juros\n\n1 - Os juros vencem-se com a celebração do contrato, sendo exigíveis a partir do 25.º dia da data da celebração ou da sua renovação, salvo se o mutuário proceder à amortização antecipada.\n\n2 - Sem prejuízo do disposto no número anterior, a amortização de toda a dívida e o resgate das coisas dadas em penhor podem ser feitos antes do termo do contrato de mútuo garantido por penhor ou da sua renovação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641059": {
+   "fragment_id": "37207675",
+   "type": 11,
+   "heading": "Artigo 16.º — Mora",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 16.º — Mora\n\n1 - Em caso de mora do mutuário é aplicada a taxa de juro supletiva legal para dívidas civis, salvo se esta for inferior à taxa de juro remuneratório vigente à data da celebração do contrato.\n\n2 - Os juros de mora são calculados ao dia e incidirão apenas sobre o capital em dívida.\n\n3 - Nos contratos de mútuo garantido por penhor não é permitida a capitalização de juros.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641060": {
+   "fragment_id": "37207775",
+   "type": 11,
+   "heading": "Artigo 17.º — Condições de amortização do empréstimo",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 17.º — Condições de amortização do empréstimo\n\n1 - O mútuo pode ser amortizado a qualquer tempo mediante o pagamento do capital e juros devidos.\n\n2 - São permitidas amortizações parciais do empréstimo, a efectuar no momento da renovação do contrato, de valor não inferior a 10% do capital em dívida.\n\n3 - Em caso de amortização parcial os juros vincendos incidem apenas sobre o capital em dívida.\n\n4 - Os valores das amortizações parciais e os juros pagos são apensos ao contrato de penhor.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641061": {
+   "fragment_id": "37207875",
+   "type": 11,
+   "heading": "Artigo 18.º — Resgate",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 18.º — Resgate\n\n1 - O resgate das coisas dadas em penhor depende do prévio pagamento do capital, juros e comissões legais devidas.\n\n2 - O resgate referido no número anterior pode ficar condicionado ao pré-aviso de cinco dias úteis, devendo, nesse caso, ficar convencionado no respectivo contrato.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641062": {
+   "fragment_id": "35719175",
+   "type": 1,
+   "heading": "Capítulo III — Da venda",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo III — Da venda\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641063": {
+   "fragment_id": "37207975",
+   "type": 11,
+   "heading": "Artigo 19.º — Anúncios",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 19.º — Anúncios\n\n1 - As vendas, quer por proposta em carta fechada, quer em leilão, são publicitadas mediante a afixação de editais na porta do estabelecimento do prestamista e a publicação de anúncio num dos jornais mais lidos da localidade, com a antecedência mínima de 10 dias em relação ao dia da venda e com a indicação do local, dia, hora e modalidade da mesma, bem como do local e data em que estarão expostas ou poderão ser examinadas as coisas dadas em penhor.\n\n2 - Os anúncios devem conter a indicação de que são vendidas as coisas que garantam empréstimos e que à data tiverem juros vencidos e não pagos há mais de três meses.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641064": {
+   "fragment_id": "37208075",
+   "type": 11,
+   "heading": "Artigo 20.º — Venda das coisas dadas em penhor",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 20.º — Venda das coisas dadas em penhor\n\n1 - Em caso de mora por período superior a três meses, pode a coisa dada em penhor ser vendida por meio de proposta em carta fechada, em leilão ou por venda directa a entidades que, por determinação legal, tenham direito a adquirir determinados bens.\n\n2 - O valor base de licitação das coisas em venda não pode ser inferior ao valor da avaliação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641065": {
+   "fragment_id": "37208175",
+   "type": 11,
+   "heading": "Artigo 21.º — Venda por meio de proposta em carta fechada",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 21.º — Venda por meio de proposta em carta fechada\n\n1 - As propostas referidas no artigo anterior são numeradas e registadas num livro próprio e contêm a indicação do número do lote e a identificação completa do interessado, sob pena de ineficácia.\n\n2 - Por cada proposta entregue o prestamista emite recibo comprovativo, donde conste a referência ao lote objecto de oferta.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641066": {
+   "fragment_id": "37208275",
+   "type": 11,
+   "heading": "Artigo 22.º — Abertura das propostas e depósito do preço",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 22.º — Abertura das propostas e depósito do preço\n\n1 - As propostas são abertas na data e hora designadas nos anúncios da venda, na presença de um representante do membro do Governo responsável pela área da economia.\n\n2 - As coisas dadas em penhor são adjudicadas ao interessado que tiver feito a maior oferta e ser-lhe-ão entregues após o pagamento do preço.\n\n3 - Se o preço mais elevado for oferecido por mais de um proponente, será logo aberta licitação entre eles, sendo adjudicada ao que fizer maior oferta.\n\n4 - Estando presente só um dos proponentes da maior oferta, ser-lhe-á adjudicada a coisa dada em penhor com o pagamento do preço.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "221641067": {
+   "fragment_id": "37208375",
+   "type": 11,
+   "heading": "Artigo 23.º — Leilões",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+   ],
+   "markdown": "###### Artigo 23.º — Leilões\n\n1 - A venda em leilão é efectuada no dia e hora e designado nos anúncios da venda, na presença de um representante do membro do Governo responsável pela área da economia.\n\n2 - As coisas dadas em penhor são adjudicadas ao interessado que tiver feito o maior lance e mediante o depósito do respectivo valor.\n\n3 - A inexistência de qualquer proposta aquisitiva determina que as coisas em causa sejam relegadas para outra venda em leilão ou por meio de propostas em carta fechada.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01"
+  },
+  "221641068": {
+   "fragment_id": "37208475",
+   "type": 11,
+   "heading": "Artigo 24.º — Exposição dos objectos",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 24.º — Exposição dos objectos\n\n1 - Na venda por proposta em carta fechada as coisas dadas em penhor são previamente expostas em montra ou em outro local adequado quando a natureza e dimensão das mesmas o exija, durante um período mínimo de cinco dias úteis, referenciadas por lotes, com indicação da natureza, peso, valor base de licitação e outras características essenciais à aquisição.\n\n2 - Deve ser facultado ao público o exame da coisa a leiloar durante as duas horas que antecedem o leilão.\n\n3 - No caso de coisas de metal precioso, deve estar devidamente identificado o metal, bem como o respectivo toque.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641069": {
+   "fragment_id": "37208575",
+   "type": 11,
+   "heading": "Artigo 25.º — Taxa de venda",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 25.º — Taxa de venda\n\nSobre o preço de adjudicação incide uma taxa de 11% a título de comissão sobre a venda, a qual reverte a favor do prestamista.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641070": {
+   "fragment_id": "37208675",
+   "type": 11,
+   "heading": "Artigo 26.º — Resgate na fase da venda",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 26.º — Resgate na fase da venda\n\nAté ao momento da adjudicação de qualquer coisa dada em penhor, podem os mutuários resgatá-la mediante o pagamento imediato do capital e dos juros em dívida e da comissão a que se refere o artigo anterior, e que, neste caso, incide sobre o valor base de licitação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641071": {
+   "fragment_id": "37208775",
+   "type": 11,
+   "heading": "Artigo 27.º — Admissão à venda",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 27.º — Admissão à venda\n\n1 - A venda é pública, podendo licitar todos os interessados, incluindo o prestamista.\n\n2 - O prestamista que licitar na venda quaisquer coisas dadas em penhor fica sujeito a observar todas as condições da venda, excepto quanto ao depósito do preço, do qual fica isento.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641072": {
+   "fragment_id": "37208875",
+   "type": 11,
+   "heading": "Artigo 28.º — Mapa resumo da venda",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 28.º — Mapa resumo da venda\n\n1 - Concluído qualquer processo de venda, o prestamista fica obrigado, no prazo de 30 dias subsequentes, a elaborar um mapa resumo da mesma, no qual constem, relativamente às coisas vendidas, os seguintes elementos:\n\na) Número do contrato;\n\nb) Identificação do mutuário;\n\nc) Descrição das coisas;\n\nd) Valor da avaliação;\n\ne) Montante inicial mutuado;\n\nf) Montante em dívida à data da venda, com discriminação do capital, juros e taxa de venda;\n\ng) Valor obtido na venda;\n\nh) Valor dos remanescentes, se os houver;\n\ni) Valor por cobrar, caso exista;\n\nj) Identificação do adquirente.\n\n2 - O mapa referido no número anterior é feito em duplicado, destinando-se um exemplar à Inspecção-Geral das Actividades Económicas e o outro ao prestamista, para que o possa exibir aos interessados.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641073": {
+   "fragment_id": "37208975",
+   "type": 11,
+   "heading": "Artigo 29.º — Remanescentes",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 29.º — Remanescentes\n\n1 - Deduzidos os valores em dívida à data da venda ao produto obtido na mesma, o remanescente, se o houver, é entregue ao mutuário respectivo desde que o reclame no prazo de seis meses a contar daquela data.\n\n2 - Quando o valor do remanescente seja superior a 5000$00, o prestamista fica obrigado, nos oito dias subsequentes à elaboração do mapa resumo da venda, a avisar o mutuário, por escrito, que poderá proceder ao seu levantamento até ao limite do prazo referido no número anterior, podendo o prestamista debitar as correspondentes despesas no respectivo contrato.\n\n3 - O pagamento do remanescente dará lugar à entrega da cautela e de recibo assinado pelo mutuário.\n\n4 - Os valores dos remanescentes não reclamados pelos mutuários no prazo mencionado no n.º 1 revertem para o Estado e para o mutuante em partes iguais.\n\n5 - O disposto no número anterior não se aplica às associações de socorros mútuos.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221641074": {
+   "fragment_id": "37209075",
+   "type": 11,
+   "heading": "Artigo 30.º — Encerramento do processo de venda",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 30.º — Encerramento do processo de venda\n\nDecorrido que seja o prazo de seis meses a que alude o artigo anterior, o prestamista fica obrigado a encerrar o processo da venda, entregando, no prazo de oito dias, numa caixa do Tesouro a importância que eventualmente resultar dos remanescentes não reclamados após dedução do produto da soma dos valores não cobrados na venda.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740975": {
+   "fragment_id": "37209175",
+   "type": 11,
+   "heading": "Artigo 31.º — Registos específicos da actividade",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 31.º — Registos específicos da actividade\n\n1 - Os prestamistas são obrigados a ter um registo de contratos de mútuo garantidos por penhor e outro de mapa da venda.\n\n2 - Os modelos de registo a que se refere o número anterior são aprovados por portaria conjunta dos Ministros das Finanças e da Economia.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740976": {
+   "fragment_id": "35719275",
+   "type": 1,
+   "heading": "Capítulo IV — Dos seguros",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo IV — Dos seguros\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740977": {
+   "fragment_id": "37209275",
+   "type": 11,
+   "heading": "Artigo 32.º — Obrigação específica de indemnizar",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 32.º — Obrigação específica de indemnizar\n\n1 - Em caso de perda, extravio, furto, roubo ou incêndio das coisas dadas em penhor, fica o prestamista obrigado a indemnizar o mutuário.\n\n2 - A indemnização referida no número anterior é a que resultar do valor da avaliação do objecto, deduzida do valor em dívida à data da ocorrência e acrescida de metade do valor da avaliação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740978": {
+   "fragment_id": "37209375",
+   "type": 11,
+   "heading": "Artigo 33.º — Seguro obrigatório",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 33.º — Seguro obrigatório\n\n1 - A responsabilidade de indemnizar prevista no artigo anterior é obrigatoriamente transferida para uma companhia seguradora.\n\n2 - O valor do seguro a que se refere o número anterior é no mínimo o que resultar da média das avaliações efectuadas no ano anterior.\n\n3 - O valor a que se refere o número anterior durante o 1.º ano de actividade é fixado por indicação do prestamista.\n\n4 - Anualmente deve ser feita prova da renovação do seguro e do pagamento do respectivo prémio junto da Direcção-Geral do Comércio e da Concorrência.\n\n5 - A entidade seguradora comunica à Direcção-Geral do Comércio e da Concorrência a rescisão do contrato de seguro.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740979": {
+   "fragment_id": "35719375",
+   "type": 1,
+   "heading": "Capítulo V — Da cessação, encerramento e liquidação",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo V — Da cessação, encerramento e liquidação\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740980": {
+   "fragment_id": "37209475",
+   "type": 11,
+   "heading": "Artigo 34.º — Cessação da actividade",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 34.º — Cessação da actividade\n\n1 - Em caso de cessação da actividade por iniciativa do prestamista, deve este publicitar tal facto, através da publicação de anúncio e afixação de edital nos termos regulados no artigo 24.º do presente diploma, não podendo ser realizado o leilão de liquidação ou a venda por proposta em carta fechada com o mesmo fim antes de decorridos 30 dias sobre essa publicação.\n\n2 - Sem prejuízo do disposto no número anterior, fica o prestamista obrigado a avisar por escrito todos os mutuários.\n\n3 - O disposto nos números anteriores é igualmente aplicável no caso de caducidade do licenciamento.\n\n4 - No caso previsto neste artigo, deve o prestamista comunicar o facto às entidades licenciadora e fiscalizadora.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740981": {
+   "fragment_id": "35719475",
+   "type": 1,
+   "heading": "Capítulo VI — Fiscalização e sanções",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo VI — Fiscalização e sanções\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740982": {
+   "fragment_id": "37209575",
+   "type": 11,
+   "heading": "Artigo 35.º — Contra-ordenações",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 35.º — Contra-ordenações\n\n1 - Constitui contra-ordenação:\n\na) A violação do disposto no n.º 1 do artigo 2.º;\n\nb) A violação do disposto no n.º 2 do artigo 6.º, no artigo 9.º e no n.º 4 do artigo 17.º;\n\nc) A falta de pagamento do prémio de seguro a que se refere o artigo 33.º, quando determine a resolução do respectivo contrato;\n\nd) A violação do disposto no artigo 10.º e no n.º 3 do artigo 14.º;\n\ne) A venda por meio de proposta em carta fechada ou a realização de leilão em violação do disposto nos artigos 19.º a 24.º;\n\nf) A violação do disposto no artigo 28.º e no n.º 2 do artigo 29.º;\n\ng) A violação do disposto no artigo 31.º;\n\nh) A violação do disposto no artigo 34.º;\n\ni) A celebração de contrato de mútuo garantido por penhor com incapaz.\n\n2 - As contra-ordenações previstas no número anterior são punidas com coimas:\n\na) De 250000$00 a 750000$00 ou de 2000000$00 a 6000000$00, consoante seja praticada por pessoa singular ou colectiva, no caso previsto na alínea a);\n\nb) De 200000$00 a 600000$00 ou de 1000000$00 a 4600000$00, consoante sejam praticadas por pessoa singular ou colectiva, nos casos previstos nas alíneas c), d), e), h) e i);\n\nc) De 100000$00 a 370000$00 ou de 300000$00 a 1200000$00, consoante sejam praticadas por pessoa singular ou colectiva, nos casos previstos nas alíneas b), f) e g).\n\n3 - A tentativa e a negligência são puníveis.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740983": {
+   "fragment_id": "37209675",
+   "type": 11,
+   "heading": "Artigo 36.º — Sanções acessórias",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 36.º — Sanções acessórias\n\n1 - No caso das contra-ordenações previstas no artigo anterior, em função da gravidade da infracção e da culpa do agente, podem, em simultâneo com a coima, ser aplicadas as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição, até dois anos, do exercício da actividade;\n\nc) Encerramento, até dois anos, do estabelecimento;\n\nd) Suspensão, até dois anos, da licença.\n\n2 - Pode ainda ser determinada a publicação de extracto da decisão condenatória em jornal de difusão nacional, regional ou local, consoante as circunstâncias da infracção, e a afixação daquele extracto no estabelecimento, pelo período de 30 dias, em lugar e por forma bem visível.\n\n3 - As despesas resultantes da publicidade a que se refere o número anterior são suportadas pelo infractor.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740984": {
+   "fragment_id": "37209775",
+   "type": 11,
+   "heading": "Artigo 37.º — Fiscalização",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 37.º — Fiscalização\n\nSem prejuízo dos poderes de fiscalização cometidos a outras entidades públicas, cabe em especial à Inspecção-Geral das Actividades Económicas a fiscalização da actividade de mútuo garantido por penhor.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740985": {
+   "fragment_id": "37209875",
+   "type": 11,
+   "heading": "Artigo 38.º — Instrução dos processos e aplicação das coimas",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 38.º — Instrução dos processos e aplicação das coimas\n\n1 - A instrução dos processos das contra-ordenações previstas no presente diploma compete à Inspecção-Geral das Actividades Económicas.\n\n2 - Cabe à Comissão de Aplicação de Coimas em Matéria Económica a aplicação das coimas e respectivas sanções acessórias.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740986": {
+   "fragment_id": "37209975",
+   "type": 11,
+   "heading": "Artigo 39.º — Produto das coimas",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 39.º — Produto das coimas\n\nO montante das coimas aplicadas pela prática das contra-ordenações previstas no presente diploma reverte em 60% para o Estado e em 40% para a Inspecção-Geral das Actividades Económicas.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740987": {
+   "fragment_id": "35719575",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740988": {
+   "fragment_id": "37210075",
+   "type": 11,
+   "heading": "Artigo 40.º — Regiões Autónomas",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 40.º — Regiões Autónomas\n\nNas Regiões Autónomas dos Açores e da Madeira as competências conferidas no presente diploma à Direcção-Geral do Comércio e da Concorrência, à Inspecção-Geral das Actividades Económicas e à Comissão de Aplicação de Coimas em Matéria Económica são exercidas pelos serviços de administração regional autónoma que exerçam competências análogas.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740989": {
+   "fragment_id": "37210175",
+   "type": 11,
+   "heading": "Artigo 41.º — Venda ao público de artefactos de metal precioso",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 41.º — Venda ao público de artefactos de metal precioso\n\nO disposto no presente diploma não prejudica a aplicação do disposto no Regulamento das Contrastarias, aprovado pelo Decreto-Lei n.º 391/79, de 20 de Setembro, e legislação complementar, às entidades que, para além da actividade mutuária, exponham e vendam ao público artefactos de metal precioso adquiridos nos ternos previstos no n.º 2 do artigo 27.º\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740990": {
+   "fragment_id": "37210275",
+   "type": 11,
+   "heading": "Artigo 42.º — Norma transitória",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 42.º — Norma transitória\n\nAs entidades actualmente licenciadas ao abrigo da legislação revogada nos termos do artigo seguinte devem, no prazo de 90 dias a contar da data da entrada em vigor deste diploma, requerer novo licenciamento nos termos previstos no presente diploma.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740991": {
+   "fragment_id": "37210375",
+   "type": 11,
+   "heading": "Artigo 43.º — Norma revogatória",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 43.º — Norma revogatória\n\nSão revogados o Decreto n.º 17766, de 17 de Dezembro de 1929, o Decreto-Lei n.º 225/80, de 12 de Julho, o Decreto-Lei n.º 341/85, de 22 de Agosto, o Decreto-Lei n.º 29640, de 30 de Maio de 1939, o Decreto-Lei n.º 32428, de 24 de Novembro de 1942, a Portaria n.º 10471, de 19 de Agosto de 1943, e o n.º 2 do artigo 31.º do Regulamento das Contrastarias, aprovado pelo Decreto-Lei n.º 391/79, de 20 de Setembro.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740992": {
+   "fragment_id": "37210475",
+   "type": 11,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nO presente diploma entra em vigor 60 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  },
+  "221740993": {
+   "fragment_id": "35719675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2015-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Joaquim Augusto Nunes de Pina Moura.\n\nPromulgado em 30 de Agosto de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto-Lei n.º 160/2015 - Diário da República n.º 155/2015, Série I de 2015-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2015-69982739), em vigor a partir de 2015-10-10"
+  }
+ }
+}

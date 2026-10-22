@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:663484:por
+title: Portaria n.º 41/87
+short_title: null
+summary: Regulamenta o regime de intervenção no mercado de carne de suíno
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio
+proposing_entity: null
+official_number: 41/87
+official_date: null
+publication_date: '1987-01-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 15/1987, Série I de 1987-01-19
+  number: '15'
+  series: I
+  supplement: null
+  pages: 249 - 250
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/01/01500/02490250.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '663484'
+  dre_path: /dr/detalhe/portaria/41-1987-663484
+  internal: pt:dre:663484:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/41-1987-663484
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/41-1987-663484
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-01-19T00:00:00Z'
+integrity:
+  source_sha256: b1807da5b35f75638f134cb91aeeb1c616a0adf3f034463523563efd0b4afbba
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-41-663484.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 41/87
+
+de 19 de Janeiro
+
+Considerando que o [Decreto-Lei n.º 516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), de 31 de Dezembro, define a organização do mercado de carne de suíno de acordo com o estabelecido no Tratado de Adesão de Portugal à Comunidade Económica Europeia;
+
+Considerando que o organismo de intervenção deverá desencadear a intervenção no mercado sempre que os preços se aproximem do nível do preço de compra com carácter de permanência;
+
+Considerando que se torna necessário regulamentar o regime de intervenção no que se refere às compras efectuadas pelo organismo de intervenção:
+
+Ao abrigo da alínea a) do n.º 1 do artigo 6.º do [Decreto-Lei n.º 516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), de 31 de Dezembro:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, o seguinte:
+
+1.º Sempre que a evolução dos preços no mercado de carne de suíno apresentar a tendência a que se refere o n.º 4 do artigo 6.º do [Decreto-Lei n.º 516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), de 31 de Dezembro, o que se considerará verificado quando em pelo menos dois dos mercados representativos a definir pelo SIMA, com o acordo da Direcção-Geral de Concorrência e Preços, os preços praticados atingirem o preço de compra durante duas semanas consecutivas, a Junta Nacional dos Produtos Pecuários, ou o organismo ao qual vier a ser atribuída a competência de intervenção, fará publicar um aviso na 3.ª série do Diário da República com indicação da data do início da intervenção, bem como das restantes características e requisitos da operação de intervenção, desde que previamente obtenha, para o efeito, o acordo do Instituto Nacional de Garantia Agrícola.
+
+2.º A operação de intervenção será suspensa logo que o valor previsto para a intervenção, ou o prazo estabelecido para este, seja alcançado ou quando o preço médio dos dois mercados atrás referidos, que se tomarão para referência, atingir o valor de 105% do preço de compra, igualmente durante duas semanas consecutivas, com tendência para aumentar.
+
+3.º A Junta Nacional dos Produtos Pecuários, ou o organismo ao qual vier a ser atribuída a competência de intervenção, procede à compra de porcos à produção, tomando como base o preço de compra fixado pela portaria a que se refere o n.º 6 do artigo 5.º do [Decreto-Lei n.º 516/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/516-1985-546423), de 31 de Dezembro, para a categoria extra B da grelha de classificação de carcaças, como preço dos porcos postos à porta do matadouro.
+
+4.º Para o cálculo dos preços de compra das restantes categorias são estabelecidas as seguintes percentagens de diferenciação de valor relativamente à categoria extra B:
+
+Extra A ... +5%
+
+1.ª categoria ... -10%
+
+2.ª categoria ... -25%
+
+5.º - 1 - Na compra por intervenção a que se refere o n.º 2.º não são considerados a 3.ª categoria, os varrascos e as porcas reprodutoras.
+
+2 - Para efeitos de classificação nas diferentes categorias, atender-se-á às normas estabelecidas na [Portaria n.º 8/84](https://diariodarepublica.pt/dr/detalhe/portaria/8-1984-531831), de 5 de Janeiro.
+
+6.º Os locais de recepção e abate dos animais são determinados pela Junta Nacional dos Produtos Pecuários ou pelo organismo ao qual vier a ser atribuída a competência de intervenção, tendo em conta as condições técnicas para as operações de abate e congelação. Na distribuição dos animais para abate ter-se-á em atenção a distância das instalações suinícolas dos locais de abate. Poderão ser estabelecidas cauções para a inscrição dos eventuais vendedores dos animais entregues para intervenção a prestar, tendo como beneficiária a Junta Nacional dos Produtos Pecuários, ou organismo que lhe suceda com competência para a intervenção.
+
+7.º A Junta Nacional dos Produtos Pecuários, ou o organismo ao qual vier a ser atribuída a competência de intervenção, tomará as medidas necessárias a assegurar a boa conservação dos produtos armazenados. A temperatura de congelação deve ser igual ou inferior a -30ºC. A temperatura de armazenagem deve ser igual ou inferior a -18ºC.
+
+8.º Os porcos abatidos ao abrigo de intervenção são armazenados em meias carcaças sem cabeça, sem mãos, sem banha, sem rins e sem rabo e embalados, sempre que possível, em polietileno e manga de algodão.
+
+9.º Logo que se encontre normalizada a situação do mercado ou no prazo máximo de seis meses a Junta Nacional dos Produtos Pecuários, ou o organismo ao qual vier a ser atribuída a competência de intervenção, iniciará a venda das carcaças a um preço previamente fixado ou por leilão de lotes parciais, de modo a evitar perturbações no mercado e assegurando o livre acesso e igualdade de tratamento de todos os compradores.
+
+10.º A inscrição dos compradores interessados na aquisição de carne de suíno de intervenção fica dependente da constituição de uma caução no valor de 30$00/kg, que garantirá o levantamento do produto nos prazos e condições estabelecidos.
+
+11.º A caução prevista no número anterior é constituída a favor da Junta Nacional dos Produtos Pecuários ou do organismo ao qual vier a ser atribuída a competência de intervenção e será libertada após o pagamento e levantamento da mercadoria.
+
+12.º No caso de incumprimento quer dos prazos quer das restantes condições a caução considera-se perdida, revertendo para o Instituto Nacional de Garantia Agrícola.
+
+13.º O financiamento das intervenções e a cobertura de eventuais prejuízos serão suportados pelo Instituto Nacional de Garantia Agrícola.
+
+14.º Na inscrição e chamada dos animais para abate a Junta Nacional dos Produtos Pecuários, ou o organismo ao qual vier a ser atribuída a competência de intervenção, poderá solicitar a colaboração das associações de suinicultores.
+
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+
+**Assinada em 23 de Dezembro de 1986.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - Pelo Ministro de Indústria e Comércio, Jorge Manuel Águas da Ponte Silva Marques, Secretário de Estado do Comércio Interno.**

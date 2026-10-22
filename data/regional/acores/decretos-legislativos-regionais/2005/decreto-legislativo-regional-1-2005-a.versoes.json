@@ -1,0 +1,469 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:534776:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2005-909115443",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2005-534776",
+ "source_lastmod": "2025-02-27",
+ "versions": [
+  {
+   "date": "2005-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "909114072",
+    "909114073",
+    "909114074",
+    "909177775",
+    "909177776",
+    "909177777",
+    "909177778",
+    "909177779",
+    "909177780",
+    "909177781",
+    "909177782",
+    "909177783",
+    "909177784",
+    "909177785",
+    "909177786",
+    "909177787",
+    "909177788",
+    "909177789",
+    "909177790",
+    "909177791",
+    "909177792",
+    "909177793",
+    "909177794",
+    "909177795",
+    "909177796",
+    "909177797",
+    "909177798",
+    "909177799",
+    "909177800",
+    "909177801",
+    "909177802",
+    "909177803",
+    "909177804",
+    "909177805",
+    "909177806",
+    "909177807",
+    "909177808",
+    "909177809",
+    "909177810",
+    "909177811",
+    "909177812",
+    "909177813",
+    "909177814",
+    "909177815",
+    "909177816",
+    "909177817",
+    "909177818",
+    "909177819",
+    "909177820",
+    "909177821"
+   ]
+  }
+ ],
+ "fragments": {
+  "909114072": {
+   "fragment_id": "909115444",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 1/2005/A\n\nEstabelece o regime jurídico de organização da administração directa da Região Autónoma dos Açores\n\nA Constituição da República Portuguesa determina que a Administração Pública seja estruturada de modo a aproximar os serviços das populações e a assegurar a participação dos interessados na sua gestão efectiva.\n\nDispõe o artigo 91.º do Estatuto Político-Administrativo da Região Autónoma dos Açores que a organização da administração regional se estrutura pelos princípios da descentralização e da desconcentração de serviços e terá em consideração os condicionalismos de cada ilha, com vista a uma actividade administrativa rápida e eficaz, sem prejuízo da qualidade dos serviços prestados e da unidade de critérios perante os cidadãos.\n\nIndependentemente destes comandos constitucionais e estatutários, a administração pública regional tem mantido inalterado, nas últimas décadas, o modelo de organização existente, com dificuldades para produzir modelos flexíveis e adequados face às actuais exigências de gestão.\n\nAcrescem, ainda, algumas dificuldades ao nível da sistematização de matérias entretanto dispersas por vários diplomas, designadamente o Decreto Regional n.º 30/82/A, de 28 de Outubro, e o Decreto Legislativo Regional n.º 5/87/A, de 26 de Maio, que estendeu à Região o regime do Decreto-Lei n.º 41/84, de 3 de Fevereiro, recentemente revogado; assim, importa, por um lado, sistematizar e aglutinar um conjunto de normas com vista à criação de um verdadeiro regime jurídico e, por outro, evitar um vazio legislativo.\n\nImporta, ainda, salientar que, embora não ignorando as dinâmicas existentes nas administrações públicas actuais, o presente diploma visa criar condições para racionalizar a administração directa da Região e apoiar as políticas dirigidas à redução da despesa pública, de forma a contribuir decisivamente para uma melhor compreensão pelos cidadãos e pelas entidades representativas dos interesses sociais e económicos.\n\nAliás, o presente diploma prossegue finalidades especialmente dirigidas às especificidades das condições naturais e da economia da Região decorrentes da insularidade e ultraperificidade.\n\nNesse sentido, o modelo organizacional proposto tem em consideração os condicionalismos de cada ilha e orienta-se pelos princípios da unidade e da eficácia da acção administrativa, da aproximação dos serviços às populações, da desburocratização e da economia de meios.\n\nMotivado pela prossecução do interesse público, pretende-se ainda assegurar a interacção e a complementaridade da actuação da administração directa da Região com os cidadãos, individual ou colectivamente considerados, e, bem assim, possibilitar a delegação ou a concessão de algumas das funções actuais dos serviços a entidades externas, de forma a prosseguir a flexibilização da organização dos serviços públicos iniciada pelo VII Governo Regional, bem como a necessidade de criar condições para a sua adaptação a necessidades colectivas emergentes.\n\nPara o efeito, esta proposta assenta na clara definição de funções e objectivos e na flexibilização de estruturas com vista à simplificação dos circuitos de decisão, promovendo a colaboração entre os serviços, a partilha de conhecimentos e a gestão de informação.\n\nCaracterizam-se os serviços por tipos funcionais e natureza territorial, com vista à identificação das suas missões e formas de funcionamento, e definem-se funções comuns em todos os departamentos, designadamente as que envolvem as responsabilidades orçamentais, as relativas à gestão de recursos organizacionais e à modernização administrativa, concentrando cada serviço nas suas atribuições específicas.\n\nNo âmbito da partilha das actividades comuns, circunscreve-se ao nível intradepartamental e estabelece-se que a respectiva concretização, mediante requisição ou transferência, não pode ser efectuada para serviço localizado em ilha diferente daquela em que o funcionário reside, salvo quando exista formulação de vontade expressa nesse sentido pelo trabalhador.\n\nO presente diploma procede, ainda, à definição da natureza funcional dos gabinetes dos membros do Governo Regional, diferenciando a sua actuação da exercida pelos serviços da administração directa da Região.\n\nEm sede dos níveis de direcção, a que corresponde o estatuto dos dirigentes máximos dos serviços desconcentrados e serviços sectoriais de controlo, auditoria e fiscalização, remete-se para os diplomas criadores a respectiva especificação, à excepção do serviço central estratégico de controlo, auditoria e fiscalização, dependente do membro do Governo Regional competente em matéria de administração pública, com competências transversais a toda a administração regional (autónoma, local e empresarial) e com responsabilidades acrescidas, com assento no SCI - Sistema de Controlo Interno da Administração Financeira do Estado e no Sistema de Controlo do QCA - Quadro Comunitário de Apoio, porquanto continua a justificar-se a equiparação aos dirigentes máximos dos serviços centrais executivos.\n\nPrevê também a possibilidade de auditorias de gestão em caso de criação, reestruturação, fusão ou extinção de serviços, bem como a avaliação do desempenho institucional, embora se privilegie a auto-avaliação.\n\nEste diploma consagra, ainda, a criação de unidades orgânicas atípicas, bem como de unidades orgânicas que prossigam em cada departamento as funções comuns habitualmente cometidas às secretarias-gerais na administração central, além de salvaguardar as competências existentes no diploma orgânico dos serviços da Presidência do Governo Regional.\n\nNo que concerne a prazos, o presente diploma prevê a alteração das orgânicas de forma a adequarem-se ao texto legal.\n\nA Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo, o seguinte:"
+  },
+  "909114073": {
+   "fragment_id": "909115445",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "909114074": {
+   "fragment_id": "909115446",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico da organização da administração directa da Região."
+  },
+  "909177775": {
+   "fragment_id": "909115447",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - Integram a administração directa da Região os serviços centrais e periféricos que, pela sua natureza e funções, devam estar sujeitos ao poder de direcção do respectivo membro do Governo Regional.\n\n2 - Incluem-se no disposto no número anterior os serviços de cujas atribuições decorra o exercício de poderes de representação política da Região ou o estudo, concepção, coordenação, apoio e controlo ou fiscalização de outros serviços administrativos."
+  },
+  "909177776": {
+   "fragment_id": "909115448",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios\n\n1 - A organização, a estrutura e o funcionamento da administração pública regional devem ter em consideração os condicionalismos de cada ilha, orientando-se pelos princípios da unidade e eficácia da acção da Administração Pública, da aproximação dos serviços às populações, da desburocratização, da racionalização de meios, da eficiência na afectação de recursos públicos, da melhoria quantitativa e qualitativa do serviço prestado, da garantia de participação dos cidadãos e da interoperabilidade, bem como pelos demais princípios constitucionais e estatutários da actividade administrativa acolhidos no Código do Procedimento Administrativo.\n\n2 - O princípio da unidade e eficácia da acção da administração pública regional consubstancia-se no exercício de poderes hierárquicos, nomeadamente os poderes de direcção, substituição e revogação, e nas inerentes garantias dos destinatários dos actos praticados no âmbito destes poderes.\n\n3 - O princípio da aproximação dos serviços às populações manifesta-se pelo exercício de funções ao nível territorial mais próximo dos respectivos destinatários, salvaguardando a representatividade de cada ilha.\n\n4 - A desburocratização traduz-se na clara definição de atribuições, competências e funções, na simplificação das estruturas orgânicas existentes e na redução dos níveis hierárquicos de decisão.\n\n5 - O princípio da racionalização consubstancia-se pela economia de meios e pela eficácia da actuação administrativa, evitando-se a criação de novos serviços e a dispersão de funções ou competências.\n\n6 - O princípio da eficiência na afectação de recursos públicos e a melhoria quantitativa e qualitativa do serviço prestado ao cidadão podem ser assegurados através da delegação ou concessão a entidades externas na prossecução de algumas funções de serviços da administração directa da Região, desde que no respeito pela Constituição e pelo Estatuto e em termos a fixar por decreto regulamentar regional.\n\n7 - O princípio da participação dos administrados implica que a administração directa da Região deve assegurar a interacção e a complementaridade da sua actuação com os respectivos destinatários, bem como com entidades representativas dos interesses sociais e económicos.\n\n8 - O princípio da interoperabilidade implica a interligação de sistemas, da informação e dos métodos de trabalho, quer no interior da administração regional autónoma, quer entre administrações, ao nível nacional ou da União Europeia, quer, ainda, com o sector empresarial.\n\n9 - Tendo em vista a prossecução do interesse público, os órgãos e serviços da administração directa da Região devem observar ainda os princípios gerais referidos nos números anteriores mediante o incremento na sua actuação:\n\na) Da prestação de serviços orientados para os cidadãos;\n\nb) Da imparcialidade na actividade administrativa;\n\nc) Da responsabilização a todos os níveis pela gestão pública;\n\nd) Da racionalidade e celeridade nos procedimentos administrativos;\n\ne) Da eficácia na prossecução dos objectivos fixados e no controlo de resultados obtidos;\n\nf) Da eficiência na utilização dos recursos públicos;\n\ng) Da permanente abertura e adequação às potencialidades das tecnologias da informação e comunicações;\n\nh) Do recurso a modelos flexíveis de funcionamento em função dos objectivos, recursos e tecnologias disponíveis."
+  },
+  "909177777": {
+   "fragment_id": "909115449",
+   "type": 1,
+   "heading": "Capítulo II — Departamentos do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Departamentos do Governo Regional"
+  },
+  "909177778": {
+   "fragment_id": "909115450",
+   "type": 11,
+   "heading": "Artigo 4.º — Departamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Departamentos\n\n1 - A Presidência do Governo Regional, as Vice-Presidências do Governo Regional, as secretarias regionais e as subsecretarias regionais, quando existam, constituem os departamentos governamentais.\n\n2 - A orgânica de cada departamento do Governo Regional define as respectivas atribuições, bem como a estrutura orgânica necessária ao seu funcionamento, distinguindo os serviços e organismos que pertencem à administração directa e à administração indirecta."
+  },
+  "909177779": {
+   "fragment_id": "909115451",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios de organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios de organização\n\nNa organização de cada departamento devem respeitar-se os seguintes princípios:\n\na) Adequar a estrutura à missão, garantindo a justa proporção entre a estrutura operativa e a estrutura de apoio;\n\nb) Assegurar um equilíbrio adequado entre serviços centrais e periféricos visando a prestação de um serviço de qualidade;\n\nc) Agregar as funções homogéneas do departamento por serviços, com competências bem definidas, de acordo com o princípio da segregação de funções, com vista à responsabilidade pelos resultados;\n\nd) Assegurar a existência de circuitos de informação e comunicação simples e coerentes, tendencialmente agregando num mesmo sistema centralizado a informação de utilização comum, tanto no seio de cada departamento como no âmbito da prossecução de finalidades interdepartamentais;\n\ne) Garantir que o desempenho das funções comuns previstas no artigo seguinte seja atribuído a serviços já existentes em cada departamento, não determinando a criação de novos serviços;\n\nf) Reduzir o número de níveis hierárquicos de decisão ao indispensável e à adequada prossecução dos objectivos do serviço;\n\ng) Privilegiar, face à emergência de novas atribuições, a reestruturação dos serviços existentes em prejuízo da criação de novos."
+  },
+  "909177780": {
+   "fragment_id": "909115452",
+   "type": 11,
+   "heading": "Artigo 6.º — Funções comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções comuns\n\n1 - São funções comuns dos departamentos, designadamente:\n\na) Elaboração e acompanhamento da execução do orçamento de funcionamento;\n\nb) Planeamento do investimento público e correspondente elaboração e execução do seu orçamento;\n\nc) Gestão de recursos humanos e organizacionais e modernização administrativa;\n\nd) Acompanhamento técnico da participação regional nas instituições europeias, nas políticas comunitárias e nas relações internacionais no âmbito das suas atribuições.\n\n2 - Às funções comuns dos departamentos correspondem funções a exercer por um ou mais serviços da administração directa da Região dentro do mesmo departamento, devendo as referidas nas alíneas a), b) e c) do número anterior ser, tendencialmente, asseguradas por unidades orgânicas na dependência do membro do Governo Regional respectivo e, no caso da Presidência do Governo, pela Secretaria-Geral."
+  },
+  "909177781": {
+   "fragment_id": "909115453",
+   "type": 11,
+   "heading": "Artigo 7.º — Gabinetes dos membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gabinetes dos membros do Governo Regional\n\n1 - Os gabinetes dos membros do Governo Regional são serviços de apoio técnico, administrativo e logístico cujas actividades se dirigem a coadjuvar o membro do Governo Regional no exercício das suas funções.\n\n2 - As actividades de apoio técnico, administrativo e logístico cometidas aos gabinetes dos membros do Governo Regional não substituem o exercício das funções legalmente cometidas aos serviços da administração pública regional.\n\n3 - A composição e o funcionamento dos gabinetes dos membros do Governo Regional são regulados por decreto regulamentar regional."
+  },
+  "909177782": {
+   "fragment_id": "909115454",
+   "type": 11,
+   "heading": "Artigo 8.º — Unidades orgânicas que exerçam funções comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Unidades orgânicas que exerçam funções comuns\n\n1 - Constituem atribuições das unidades orgânicas que exerçam funções comuns, sempre que as mesmas não se encontrem legalmente cometidas a outros serviços do respectivo departamento:\n\na) Prestar aos membros do Governo Regional em funções no departamento a assistência técnica e administrativa que lhe for solicitada e que não se inclua nas atribuições próprias dos demais serviços;\n\nb) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a administração pública regional, coordenando e apoiando os serviços e organismos do departamento na respectiva implementação;\n\nc) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de quadros de pessoal;\n\nd) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade, no âmbito do departamento;\n\ne) Assegurar a gestão das instalações que lhe estejam afectas por lei ou por determinação superior, designadamente no que se refere às necessidades de restauro e conservação;\n\nf) Coordenar as acções referentes à organização e preservação do património e arquivo histórico;\n\ng) Assegurar o normal funcionamento do departamento nas áreas que não sejam da competência específica de outros serviços.\n\n2 - Para efeitos do disposto nas alíneas b), c) e d) do número anterior, as unidades orgânicas que exerçam funções comuns são entidades com uma relação preferencial com o departamento responsável pela Administração Pública, através do respectivo serviço executivo competente."
+  },
+  "909177783": {
+   "fragment_id": "909115455",
+   "type": 11,
+   "heading": "Artigo 9.º — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Órgãos consultivos\n\n1 - No âmbito da administração regional autónoma, podem ser criados órgãos consultivos.\n\n2 - Os órgãos consultivos apoiam a formulação e o acompanhamento de políticas públicas da responsabilidade do Governo Regional, através da cooperação entre a Administração Pública, individualidades de reconhecido mérito e representantes dos interesses institucionais, sociais e económicos.\n\n3 - Os órgãos consultivos apreciam e emitem pareceres sobre as matérias que lhes sejam submetidas pelos membros do Governo Regional.\n\n4 - Os órgãos consultivos são criados por decreto regulamentar regional, que define as regras necessárias ao seu funcionamento."
+  },
+  "909177784": {
+   "fragment_id": "909115456",
+   "type": 1,
+   "heading": "Capítulo III — Modelos de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Modelos de funcionamento"
+  },
+  "909177785": {
+   "fragment_id": "909115457",
+   "type": 11,
+   "heading": "Artigo 10.º — Partilha de actividades comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Partilha de actividades comuns\n\n1 - Deve ser promovida a partilha de actividades comuns entre os serviços integrantes de um mesmo departamento governamental, para assegurar a optimização dos recursos existentes.\n\n2 - A partilha de actividades comuns não prejudica as competências próprias ou delegadas dos respectivos dirigentes máximos, podendo o seu funcionamento ser enquadrado por protocolos que estabelecem as regras necessárias à clara actuação de cada uma das partes.\n\n3 - Este modelo de funcionamento abrange especialmente actividades de natureza administrativa e logística, designadamente:\n\na) Negociação e aquisição de bens e serviços;\n\nb) Sistemas de informação e comunicação;\n\nc) Gestão de edifícios;\n\nd) Serviços de segurança e de limpeza;\n\ne) Gestão da frota automóvel;\n\nf) Processamento de vencimentos e contabilidade.\n\n4 - Podem ser propostos outros modelos de funcionamento que consubstanciem os princípios de partilha de serviços.\n\n5 - A partilha de actividades comuns pode ser concretizada através da requisição ou transferência do pessoal anteriormente afecto à execução dessas actividades para o serviço prestador, sem prejuízo da manutenção de uma estrutura mínima, que permita e facilite o diálogo com este serviço.\n\n6 - Nos casos em que se verifique o recurso à transferência de funcionários, os respectivos lugares são, se necessário, aditados ao quadro de destino, com a inerente extinção no quadro de origem e com a salvaguarda de quaisquer direitos adquiridos.\n\n7 - A requisição ou transferência do funcionário referido nos números anteriores não pode ser efectuada para serviço localizado em ilha diferente daquela em que o funcionário reside, excepto se existir anuência expressa deste."
+  },
+  "909177786": {
+   "fragment_id": "909115458",
+   "type": 11,
+   "heading": "Artigo 11.º — Funcionamento em rede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Funcionamento em rede\n\n1 - O modelo de funcionamento em rede é adoptado quando estejam em causa funções do departamento governamental cuja completa e eficiente prossecução dependa de mais de um serviço ou organismo, independentemente do seu carácter intra ou interdepartamental.\n\n2 - Este modelo de funcionamento determina, em todos os casos, a integração ou disponibilização da informação de utilização comum ou pertinente em formato electrónico.\n\n3 - O funcionamento em rede deve ser considerado aquando da fixação da estrutura interna dos serviços envolvidos."
+  },
+  "909177787": {
+   "fragment_id": "909115459",
+   "type": 11,
+   "heading": "Artigo 12.º — Sistemas de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sistemas de informação\n\n1 - A administração directa da Região deve integrar um sistema de informação interna que permita:\n\na) A circulação da informação entre organismos por via electrónica, reduzindo tanto quanto possível o peso da informação em papel;\n\nb) O fornecimento das informações necessárias à boa gestão dos recursos humanos, orçamentais e materiais;\n\nc) A coordenação, o controlo e a avaliação pelos organismos competentes da gestão dos recursos humanos, orçamentais e materiais.\n\n2 - A administração directa da Região deve potenciar a utilização dos instrumentos do governo electrónico na prestação de serviços directos aos cidadãos, comunidades e empresas que permita:\n\na) Fornecer todos os dados e informações relevantes;\n\nb) Facilitar o tratamento integrado das relações entre cidadão e Região;\n\nc) Melhorar a eficiência e a eficácia de contratação de empreitadas e a aquisição de bens e serviços;\n\nd) Contribuir para melhorar o aproveitamento das oportunidades de desenvolvimento económico."
+  },
+  "909177788": {
+   "fragment_id": "909115460",
+   "type": 1,
+   "heading": "Capítulo IV — Serviços da administração directa da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Serviços da administração directa da Região"
+  },
+  "909177789": {
+   "fragment_id": "909115461",
+   "type": 8,
+   "heading": "Secção I — Regras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regras gerais"
+  },
+  "909177790": {
+   "fragment_id": "909115462",
+   "type": 11,
+   "heading": "Artigo 13.º — Tipologia dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Tipologia dos serviços\n\n1 - Para efeitos do presente diploma, entende-se por «missão» a expressão sucinta das funções fundamentais e determinantes de cada serviço e objectivos essenciais a garantir.\n\n2 - Os serviços da administração directa da Região são definidos de acordo com a sua função dominante em:\n\na) Serviços executivos;\n\nb) Serviços de controlo, auditoria e fiscalização;\n\nc) Serviços de coordenação.\n\n3 - A qualificação dos serviços pela sua função dominante não prejudica a atribuição de outras funções de natureza diversa, desde que associadas ou complementares da sua função dominante.\n\n4 - Os serviços da administração directa da Região podem ser centrais ou periféricos, sendo que:\n\na) São serviços centrais os que exercem competência extensiva a todo o território da Região, independentemente de possuírem ou não unidades orgânicas geograficamente desconcentradas;\n\nb) São serviços periféricos os que dispõem de competência limitada a uma área territorial restrita, funcionando sob a direcção do membro do Governo Regional competente.\n\n5 - Os serviços periféricos externos exercem os seus poderes fora do território da Região."
+  },
+  "909177791": {
+   "fragment_id": "909115463",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime financeiro\n\nOs serviços da administração directa da Região dispõem, em regra, de autonomia administrativa para actos de gestão corrente."
+  },
+  "909177792": {
+   "fragment_id": "909115464",
+   "type": 8,
+   "heading": "Secção II — Serviços executivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços executivos"
+  },
+  "909177793": {
+   "fragment_id": "909115465",
+   "type": 11,
+   "heading": "Artigo 15.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Objectivos\n\nOs serviços executivos da administração directa da Região garantem a prossecução das políticas públicas da responsabilidade de cada departamento, prestando serviços no âmbito das suas atribuições ou exercendo funções de apoio técnico aos respectivos membros do Governo Regional."
+  },
+  "909177794": {
+   "fragment_id": "909115466",
+   "type": 11,
+   "heading": "Artigo 16.º — Tipos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Tipos funcionais\n\n1 - Os serviços executivos de políticas públicas designam-se por direcções regionais e, quando periféricos, por serviços de ilha.\n\n2 - Os serviços cuja missão dominante consiste no desenvolvimento de actividades de apoio técnico são centrais e designam-se por gabinetes ou possuirão as designações definidas nos diplomas que criem as unidades orgânicas com funções comuns."
+  },
+  "909177795": {
+   "fragment_id": "909115467",
+   "type": 8,
+   "heading": "Secção III — Serviços de controlo, auditoria e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Serviços de controlo, auditoria e fiscalização"
+  },
+  "909177796": {
+   "fragment_id": "909115468",
+   "type": 11,
+   "heading": "Artigo 17.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Objectivos\n\nOs serviços de controlo, auditoria e fiscalização exercem funções permanentes de acompanhamento e de avaliação da execução de políticas públicas, podendo integrar funções inspectivas ou de auditoria."
+  },
+  "909177797": {
+   "fragment_id": "909115469",
+   "type": 11,
+   "heading": "Artigo 18.º — Tipos funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Tipos funcionais\n\n1 - Quando a função dominante seja a inspectiva, os serviços de controlo, auditoria e fiscalização designam-se por inspecções regionais.\n\n2 - Os serviços de controlo, auditoria e fiscalização exercem as suas actividades em todo o território da Região, bem como sobre outros serviços regionais existentes ou a criar fora do seu espaço territorial.\n\n3 - Os serviços de controlo, auditoria e fiscalização podem ter unidades orgânicas geograficamente desconcentradas."
+  },
+  "909177798": {
+   "fragment_id": "909115470",
+   "type": 8,
+   "heading": "Secção IV — Serviços de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Serviços de coordenação"
+  },
+  "909177799": {
+   "fragment_id": "909115471",
+   "type": 11,
+   "heading": "Artigo 19.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Objectivos\n\n1 - Os serviços de coordenação promovem a articulação em domínios onde esta necessidade seja permanente.\n\n2 - Para efeito do disposto no número anterior, os serviços de coordenação:\n\na) Harmonizam a formulação e a execução de políticas públicas da responsabilidade do Governo Regional;\n\nb) Asseguram a utilização racional, conjugada e eficiente de recursos na administração pública regional;\n\nc) Emitem pareceres sobre as matérias que, no âmbito da sua acção coordenadora, lhes são submetidas pelos membros do Governo Regional."
+  },
+  "909177800": {
+   "fragment_id": "909115472",
+   "type": 11,
+   "heading": "Artigo 20.º — Dependência hierárquica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Dependência hierárquica\n\n1 - Os serviços de coordenação podem ser intra ou interdepartamentais, devendo o diploma que os cria especificar qual o membro do Governo Regional de que dependem directamente, no caso de terem natureza interdepartamental.\n\n2 - O diploma que cria o serviço deve especificar o nível de direcção a que corresponde o estatuto do respectivo coordenador."
+  },
+  "909177801": {
+   "fragment_id": "909115473",
+   "type": 11,
+   "heading": "Artigo 21.º — Apoio aos serviços de coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Apoio aos serviços de coordenação\n\nOs serviços de coordenação são centrais, sendo determinado por despacho do membro do Governo Regional de que dependem os serviços que asseguram o apoio logístico, administrativo e financeiro necessários ao seu funcionamento."
+  },
+  "909177802": {
+   "fragment_id": "909115474",
+   "type": 1,
+   "heading": "Capítulo V — Organização interna dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Organização interna dos serviços"
+  },
+  "909177803": {
+   "fragment_id": "909177875",
+   "type": 11,
+   "heading": "Artigo 22.º — Tipos de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Tipos de organização interna\n\n1 - A organização interna dos serviços executivos e de controlo, auditoria e fiscalização deve ser adequada às respectivas atribuições, obedecendo aos seguintes modelos:\n\na) Estrutura hierarquizada;\n\nb) Estrutura matricial.\n\n2 - Sempre que seja adoptado um modelo estrutural misto, o diploma de criação do serviço distingue as áreas de actividade por cada modelo adoptado.\n\n3 - Quando seja exclusivamente adoptada a estrutura hierarquizada, e desde que se justifique, com vista a aumentar a flexibilidade e eficácia na gestão, podem ser criadas por despacho do membro do Governo Regional competente, sob proposta do dirigente máximo do serviço, equipas de projecto temporárias e com objectivos especificados."
+  },
+  "909177804": {
+   "fragment_id": "909177876",
+   "type": 11,
+   "heading": "Artigo 23.º — Estrutura hierarquizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Estrutura hierarquizada\n\n1 - A estrutura interna hierarquizada é constituída por unidades orgânicas nucleares e flexíveis.\n\n2 - A estrutura nuclear do serviço é composta pelas direcções de serviços, correspondendo a uma departamentalização fixa.\n\n3 - A estrutura flexível é composta pelas divisões criadas, alteradas ou extintas por despacho do membro do Governo Regional competente que define as respectivas atribuições e competências, bem como a reafectação do pessoal do respectivo quadro, no âmbito do limite máximo previamente fixado em decreto regulamentar regional.\n\n4 - A criação, alteração ou extinção de unidades orgânicas no âmbito da estrutura flexível visa assegurar a permanente adequação do serviço às necessidades de funcionamento e de optimização dos recursos, tendo em conta uma programação e controlo criteriosos dos custos e resultados.\n\n5 - Os despachos referidos no n.º 3 são publicados no Jornal Oficial da Região.\n\n6 - Quando estejam em causa funções de carácter predominantemente administrativo, no âmbito das direcções de serviços ou das divisões, podem ser criadas secções.\n\n7 - Em casos excepcionais, devidamente fundamentados, podem ser constituídas unidades orgânicas desconcentradas atípicas.\n\n8 - A organização por especialidade não deve prejudicar a mobilidade funcional dos dirigentes e do restante pessoal."
+  },
+  "909177805": {
+   "fragment_id": "909177877",
+   "type": 11,
+   "heading": "Artigo 24.º — Estrutura matricial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Estrutura matricial\n\n1 - A estrutura matricial é adoptada sempre que as áreas operativas do serviço possam desenvolver-se essencialmente por projectos, devendo agrupar-se por centros de competências ou de produto bem identificados, visando assegurar a constituição de equipas multidisciplinares com base na mobilidade funcional.\n\n2 - A constituição das equipas multidisciplinares e a designação das suas chefias, de entre efectivos do serviço, são da responsabilidade do respectivo membro do Governo Regional.\n\n3 - O estatuto remuneratório dos chefes de equipa consta do diploma de criação do serviço por equiparação ao estatuto remuneratório fixado para os directores de serviços ou chefes de divisão."
+  },
+  "909177806": {
+   "fragment_id": "909177878",
+   "type": 11,
+   "heading": "Artigo 25.º — Cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cargos dirigentes\n\n1 - Os dirigentes máximos dos serviços centrais executivos e do serviço estratégico de controlo, auditoria e fiscalização do departamento governamental competente em matéria de administração pública ocupam cargos de direcção superior de grau 1 e são coadjuvados por dirigentes em cargos de direcção superior de grau 2, independentemente, em qualquer dos casos, da sua designação.\n\n2 - A qualificação do cargo de direcção dos dirigentes máximos dos serviços sectoriais de controlo, auditoria e fiscalização e dos serviços desconcentrados é definida nos diplomas que criam os serviços em função do nível de competências e responsabilidades que lhes sejam cometidas.\n\n3 - Os directores de serviços e os chefes de divisão correspondem a cargos de direcção intermédia de grau 1 e de grau 2, respectivamente.\n\n4 - As direcções de serviços podem ser colocadas na dependência directa do director regional ou equiparado, ou dos subdirectores regionais ou equiparados, neste caso em termos a fixar por despacho do membro do Governo Regional competente.\n\n5 - Podem existir divisões dependentes directamente do director regional ou do subdirector regional designado.\n\n6 - Sempre que a natureza, o âmbito e a dimensão dos serviços desconcentrados não justifiquem a criação dos cargos de direcção previstos neste artigo, podem ser criados cargos de direcção específica, por decreto regulamentar regional, na dependência directa do membro do Governo Regional ou do dirigente máximo do serviço onde se insere a respectiva unidade orgânica."
+  },
+  "909177807": {
+   "fragment_id": "909177879",
+   "type": 1,
+   "heading": "Capítulo VI — Da criação, reestruturação, fusão e extinção de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Da criação, reestruturação, fusão e extinção de serviços"
+  },
+  "909177808": {
+   "fragment_id": "909177880",
+   "type": 11,
+   "heading": "Artigo 26.º — Natureza e conteúdo dos diplomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Natureza e conteúdo dos diplomas\n\nA criação, a reestruturação, a fusão e a extinção dos serviços da administração directa da Região são aprovadas por decreto regulamentar regional e devem conter:\n\na) A designação do novo serviço, dos serviços que lhe deram origem ou do serviço extinto, no caso, respectivamente, de criação, reestruturação, fusão ou extinção;\n\nb) A definição da sua natureza funcional enquanto serviços executivos, de controlo e de fiscalização ou de coordenação;\n\nc) A identificação da respectiva missão;\n\nd) A identificação das respectivas atribuições;\n\ne) A identificação do modelo de funcionamento e do tipo de organização interna;\n\nf) A dotação de lugares de direcção superior e de direcção intermédia de grau 1, bem como do limite máximo dos lugares de direcção intermédia de grau 2;\n\ng) O estatuto remuneratório dos chefes de equipa multidisciplinar e de outros cargos de direcção existentes, com as respectivas dotações máximas, se aplicáveis;\n\nh) A estrutura nuclear dos serviços, bem como a definição das atribuições e competências das respectivas unidades orgânicas;\n\ni) A aprovação e alteração dos quadros de pessoal."
+  },
+  "909177809": {
+   "fragment_id": "909177881",
+   "type": 11,
+   "heading": "Artigo 27.º — Reestruturação, extinção ou fusão de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Reestruturação, extinção ou fusão de serviços\n\n1 - Sempre que a finalidade de um serviço se encontre esgotada ou verificando-se que o mesmo prossegue missões complementares, paralelas ou sobrepostas às de outros serviços, deve o competente membro do Governo Regional propor, consoante os casos, a sua extinção, reestruturação ou fusão.\n\n2 - As propostas referidas no número anterior devem conter justificação objectiva e fundamentada das situações respeitantes ao esgotamento da finalidade do serviço em causa ou das relativas à prossecução de missões complementares, paralelas ou sobrepostas às de outros serviços.\n\n3 - Os diplomas a que se refere o presente artigo devem prever as regras de sucessão de direitos e obrigações e determinar a reafectação dos correspondentes recursos financeiros, organizacionais e humanos, nos termos legais aplicáveis."
+  },
+  "909177810": {
+   "fragment_id": "909177882",
+   "type": 11,
+   "heading": "Artigo 28.º — Racionalização de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Racionalização de serviços\n\n1 - A criação de novos serviços implica a não existência de outros serviços que prossigam total ou parcialmente os mesmos fins ou a extinção dos serviços que os prossigam, de forma que resulte clara a responsabilidade pelas funções que determinam a criação de um novo serviço da Região.\n\n2 - As atribuições e competências dos diferentes serviços e seus departamentos devem permitir a identificação de responsabilidades pelos resultados nos vários níveis hierárquicos ou nas diferentes áreas de actividade."
+  },
+  "909177811": {
+   "fragment_id": "909177883",
+   "type": 11,
+   "heading": "Artigo 29.º — Pareceres prévios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Pareceres prévios\n\n1 - A proposta relativa à criação, reestruturação, fusão ou extinção de serviços apenas pode ser presente a Conselho do Governo Regional se for acompanhada de pareceres prévios dos serviços competentes dependentes do membro do Governo Regional com competência em matéria de finanças e do membro do Governo Regional com competência em matéria de administração pública.\n\n2 - Os pareceres referidos no número anterior incidem, nomeadamente, sobre a conformidade com:\n\na) A disciplina orçamental em vigor;\n\nb) As regras definidas no presente diploma, bem como sobre a eventual existência de serviços da administração directa da Região que prossigam missões complementares, paralelas ou sobrepostas;\n\nc) Para efeitos do número anterior, os projectos de diploma devem ser acompanhados de uma identificação das melhorias do processo de decisão, tendo em conta as funções essenciais do serviço.\n\n3 - Quando for proposta a criação, reestruturação, fusão ou extinção de serviços da administração directa da Região, o membro do Governo Regional com competência em matéria de finanças e o membro do Governo Regional com competência em matéria de administração pública podem, conjunta ou isoladamente no caso deste último, determinar que o serviço estratégico de controlo, auditoria e fiscalização dependente deste departamento efectue as auditorias consideradas adequadas."
+  },
+  "909177812": {
+   "fragment_id": "909177884",
+   "type": 1,
+   "heading": "Capítulo VII — Estruturas temporárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Estruturas temporárias"
+  },
+  "909177813": {
+   "fragment_id": "909177885",
+   "type": 11,
+   "heading": "Artigo 30.º — Estruturas de missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Estruturas de missão\n\n1 - A prossecução de missões temporárias que não possam, fundamentadamente, ser desenvolvidas pelos serviços existentes pode ser cometida a estruturas de missão, criadas por resolução do Governo Regional.\n\n2 - As estruturas de missão têm uma duração temporal limitada e objectivos contratualizados e dependem do apoio logístico do serviço que for definido pelo membro do Governo Regional junto do qual funcionem.\n\n3 - A resolução do Governo Regional deve estabelecer, obrigatoriamente:\n\na) A designação da estrutura de missão;\n\nb) A identificação da missão;\n\nc) Os termos e a duração do mandato, com a definição clara dos objectivos a alcançar;\n\nd) O estatuto do responsável e dos elementos que a compõem;\n\ne) O número de elementos que deve integrar a estrutura e respectivas funções;\n\nf) Os encargos orçamentais e o respectivo cabimento orçamental.\n\n4 - As estruturas de missão devem recorrer essencialmente à requisição e ao destacamento de pessoal pertencente aos quadros dos serviços e organismos da administração pública central, regional e local.\n\n5 - Em casos excepcionais, devidamente fundamentados, podem ser celebrados contratos individuais de trabalho a termo, os quais cessam automaticamente no termo do prazo do mandato.\n\n6 - A estrutura de missão considera-se automaticamente extinta uma vez decorrido o prazo pelo qual foi constituída, sem prejuízo de o respectivo mandato poder ser prorrogado por resolução do Conselho do Governo Regional, que deve fundamentar tal decisão, referindo, designadamente, o grau de cumprimento dos objectivos iniciais.\n\n7 - Findo o prazo da missão, o responsável elabora um relatório da actividade desenvolvida e dos resultados alcançados, a publicar na página electrónica do departamento, após aprovação do membro do Governo Regional competente."
+  },
+  "909177814": {
+   "fragment_id": "909177886",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "909177815": {
+   "fragment_id": "909177887",
+   "type": 11,
+   "heading": "Artigo 31.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Publicidade\n\n1 - O departamento que tenha a seu cargo a Administração Pública é responsável pela criação e permanente actualização de uma base de dados dos serviços da administração pública regional, da sua estruturação por departamentos e, bem assim, pela sua divulgação através dos meios mais eficazes, designadamente o portal do Governo.\n\n2 - A divulgação referida no número anterior inclui os organogramas de cada departamento, bem como a referência às orgânicas em vigor."
+  },
+  "909177816": {
+   "fragment_id": "909177888",
+   "type": 11,
+   "heading": "Artigo 32.º — Avaliação do desempenho dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Avaliação do desempenho dos serviços\n\nOs serviços que integram a administração directa da Região podem ser objecto de avaliação da prossecução das suas funções e dos objectivos a que estão adstritos, determinada por despacho conjunto dos membros do Governo Regional com competência, respectivamente, em matéria de finanças, da administração pública e da tutela, a realizar pelo serviço estratégico de controlo, auditoria e fiscalização do departamento que tenha a seu cargo a Administração Pública ou por auditores externos."
+  },
+  "909177817": {
+   "fragment_id": "909177889",
+   "type": 11,
+   "heading": "Artigo 33.º — Adaptação das unidades orgânicas que exerçam funções comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Adaptação das unidades orgânicas que exerçam funções comuns\n\nAs orgânicas dos departamentos regionais que não contemplem as funções constantes do artigo 8.º, desde que aquelas não estejam legalmente cometidas a outros serviços do respectivo departamento, devem ser revistas."
+  },
+  "909177818": {
+   "fragment_id": "909177890",
+   "type": 11,
+   "heading": "Artigo 34.º — Adaptação da Secretaria-Geral da Presidência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Adaptação da Secretaria-Geral da Presidência\n\nSem prejuízo do disposto no artigo anterior, são ainda atribuições da Secretaria-Geral da Presidência do Governo as constantes do decreto regulamentar regional que contém a estrutura orgânica da Presidência do Governo."
+  },
+  "909177819": {
+   "fragment_id": "909177891",
+   "type": 11,
+   "heading": "Artigo 35.º — Transição de regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Transição de regimes\n\nOs serviços e organismos da administração directa da Região devem promover a revisão das suas estruturas internas em obediência aos princípios previstos no presente diploma."
+  },
+  "909177820": {
+   "fragment_id": "909177892",
+   "type": 11,
+   "heading": "Artigo 36.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Revogação\n\nSão revogados:\n\na) O Decreto Regional n.º 30/82/A, de 28 de Outubro;\n\nb) Os artigos 2.º a 4.º e 10.º do Decreto Legislativo Regional n.º 5/87/A, de 26 de Maio;\n\nc) O n.º 2 do artigo único do Decreto Legislativo Regional n.º 21/88/A, de 3 de Maio;\n\nd) O Decreto Legislativo Regional n.º 6/93/A, de 12 de Março."
+  },
+  "909177821": {
+   "fragment_id": "909177893",
+   "type": 11,
+   "heading": "Artigo 37.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  }
+ }
+}

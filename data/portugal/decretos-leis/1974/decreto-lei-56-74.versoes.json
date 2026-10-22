@@ -1,0 +1,205 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:413014:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1974-158773011",
+ "dre_path": "/dr/detalhe/decreto-lei/56-1974-413014",
+ "source_lastmod": "2024-10-04",
+ "versions": [
+  {
+   "date": "1974-02-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "158775409",
+    "158775410",
+    "158775411",
+    "158775412",
+    "158775413",
+    "158775414",
+    "158775415",
+    "158775416",
+    "158775417",
+    "158775418",
+    "158775419"
+   ]
+  },
+  {
+   "date": "1984-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:382382:por",
+     "title": "Decreto-Lei n.º 268/84",
+     "published": "1984-08-06",
+     "dre_path": "/dr/detalhe/decreto-lei/268-1984-382382"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "158775409",
+    "158775410",
+    "890050115",
+    "158775412",
+    "158775413",
+    "158775414",
+    "158775415",
+    "158775416",
+    "158775417",
+    "158775418",
+    "158775419",
+    "158775420"
+   ]
+  },
+  {
+   "date": "2017-02-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:105808926:por",
+     "title": "Decreto-Lei n.º 13/2017",
+     "published": "2017-01-26",
+     "dre_path": "/dr/detalhe/decreto-lei/13-2017-105808926"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "158775409",
+    "158775410",
+    "890050116",
+    "158775412",
+    "158775413",
+    "158775414",
+    "158775415",
+    "158775416",
+    "158775417",
+    "158775418",
+    "158775419",
+    "158775420"
+   ]
+  }
+ ],
+ "fragments": {
+  "158775409": {
+   "fragment_id": "158773012",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 56/74\n\nde 16 de Fevereiro\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "158775410": {
+   "fragment_id": "158773013",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. Os funcionários do Estado, civis ou militares, em qualquer situação, que exerçam, em comissão de serviço, funções nos quadros das autarquias locais poderão optar pelos vencimentos correspondentes ao cargo em que se encontrem providos ou por aqueles a que teriam direito segundo a sua categoria no quadro de origem, se neste se mantivessem ao serviço, competindo sempre à autarquia local o respectivo pagamento.\n\n2. A opção a que se refere o número anterior poderá ser feita em qualquer momento, mas só produzirá efeito, salvo quando tenha lugar no acto de posse, no mês seguinte àquele em que se verifique.\n\n3. (Transitório.) Relativamente aos funcionários que, à data da publicação deste diploma, se encontrarem na situação prevista no n.º 1, a opção que vier a ser feita até final de Fevereiro poderá produzir efeito a partir de 1 de Janeiro de 1974."
+  },
+  "158775411": {
+   "fragment_id": "158773014",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nAos comissários, chefes, subchefes-ajudantes, subchefes e guardas da Polícia de Segurança Pública destacados na polícia municipal podem ser atribuídas gratificações mensais de quantitativos a fixar pelo Ministro do Interior, sob proposta dos presidentes das câmaras municipais."
+  },
+  "158775412": {
+   "fragment_id": "158773015",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os cargos de pagador, proposto de pagador, proposto de tesoureiro, auxiliar de proposto de tesoureiro e proposto de pagador para a ilha de Santa Maria, dos quadros aprovados pelo Decreto-Lei n.º 421/73, de 22 de Agosto, passam a ser designados, respectivamente, pagador-recebedor, ajudante de pagador-recebedor, proposto de tesoureiro, auxiliar de tesouraria e auxiliar de pagador-recebedor da ilha de Santa Maria, correspondendo-lhes, também respectivamente, os ordenados das categorias L, P, P, S e U do artigo 2.º, n.º 1, do Decreto-Lei n.º 49410, de 24 de Novembro de 1969.\n\n2. O provimento dos cargos a que se refere a segunda parte do número anterior e o artigo seguinte far-se-á nos termos actualmente em vigor para os cargos discriminados na primeira parte do mesmo número."
+  },
+  "158775413": {
+   "fragment_id": "158773016",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs actuais propostos de pagador em Velas, Calheta e Santa Cruz da Graciosa passam a designar-se auxiliares de pagador-recebedor e os quantitativos das suas gratificações são fixados pela Junta Geral, ficando a respectiva deliberação sujeita a aprovação pelo Ministro do Interior."
+  },
+  "158775414": {
+   "fragment_id": "158773017",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os cargos de pagadores de 1.ª e de 2.ª classes das Câmaras Municipais de Lisboa e do Porto passam a designar-se pagadores-recebedores de 1.ª e de 2.ª classes, correspondendo aos primeiros o ordenado da letra L e aos segundos o da letra O do mencionado artigo 2.º, n.º 1, do Decreto-Lei n.º 49410.\n\n2. Consideram-se referidas aos novos lugares de pagador-recebedor as disposições do Decreto-Lei n.º 45248, de 16 de Setembro de 1963, respeitantes aos lugares de pagador."
+  },
+  "158775415": {
+   "fragment_id": "158773018",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO artigo 534.º do Código Administrativo passa a ter a seguinte redacção:\n\nArt. 534.º Os tesoureiros dos corpos administrativos, além do ordenado, perceberão abono mensal para falhas, a fixar pelo corpo administrativo, mas que não poderá exceder o que estiver estabelecido para os tesoureiros da Fazenda Pública de concelhos da mesma ordem.\n\n§ único ..."
+  },
+  "158775416": {
+   "fragment_id": "158773019",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs abonos para falhas a que se refere o artigo 36.º do referido Decreto-Lei n.º 45248 são acrescidos de 50%."
+  },
+  "158775417": {
+   "fragment_id": "158773020",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO artigo 2.º do Decreto-Lei n.º 44830, de 31 de Dezembro de 1962, passa a ter a seguinte redacção:\n\nArt. 2.º ...\n\n§ único. Os oficiais de diligências têm direito a passe em viaturas de transportes colectivos, a conceder pelas câmaras municipais."
+  },
+  "158775418": {
+   "fragment_id": "158773021",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Considera-se regulada por legislação especial, para efeito do disposto no § 1.º do artigo 711.º do Código Administrativo, na redacção dada pelo Decreto-Lei n.º 45676, de 24 de Abril de 1964, a tributação das carnes em impostos indirectos municipais, devendo considerar-se prejudicada a referência a carnes verdes, salgadas e fumadas feita no § 2.º do artigo 715.º\n\n2. Esta disposição tem carácter interpretativo."
+  },
+  "158775419": {
+   "fragment_id": "158773022",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nFica revogado o § único do artigo 3.º do Decreto-Lei n.º 42536, de 28 de Setembro de 1959."
+  },
+  "890050115": {
+   "fragment_id": "158773014",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1984-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 268/84 - Diário da República n.º 181/1984, Série I de 1984-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1984-382382), em vigor a partir de 1984-08-11"
+   ],
+   "markdown": "###### Artigo 2.º\n\nAo comandante da Polícia Municipal e aos comissários e agentes da Polícia de Segurança Pública destacados na mesma Polícia podem ser atribuídas gratificações mensais de quantitativos a fixar pelo Ministro da Administração Interna, sob proposta dos presidentes das câmaras municipais.\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 268/84 - Diário da República n.º 181/1984, Série I de 1984-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1984-382382), em vigor a partir de 1984-08-11"
+  },
+  "158775420": {
+   "fragment_id": "158773023",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Marcello Caetano - César Henrique Moreira Baptista.\n\nPromulgado em 7 de Fevereiro de 1974.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "890050116": {
+   "fragment_id": "158773014",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2017-02-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2017-105808926), em vigor a partir de 2017-02-01",
+    "Alterado pelo/a Artigo do/a [Decreto-Lei n.º 268/84 - Diário da República n.º 181/1984, Série I de 1984-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1984-382382), em vigor a partir de 1984-08-11"
+   ],
+   "markdown": "###### Artigo 2.º\n\nAo comandante da Polícia Municipal e aos comissários e agentes da Polícia de Segurança Pública destacados na mesma Polícia podem ser atribuídas gratificações mensais de quantitativos a fixar pelo Ministro da Administração Interna, sob proposta dos presidentes das câmaras municipais.\n\n> Revogado pelo/a Artigo 20.º do/a [Decreto-Lei n.º 13/2017 - Diário da República n.º 19/2017, Série I de 2017-01-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2017-105808926), em vigor a partir de 2017-02-01\n\n> Alterado pelo/a Artigo do/a [Decreto-Lei n.º 268/84 - Diário da República n.º 181/1984, Série I de 1984-08-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1984-382382), em vigor a partir de 1984-08-11"
+  }
+ }
+}

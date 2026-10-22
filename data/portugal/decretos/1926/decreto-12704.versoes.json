@@ -1,0 +1,913 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:161322:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/1926-907145413",
+ "dre_path": "/dr/detalhe/decreto/12704-1926-161322",
+ "source_lastmod": "2025-02-25",
+ "versions": [
+  {
+   "date": "1926-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "907093649",
+    "907093650",
+    "907093651",
+    "907093652",
+    "907093653",
+    "907093654",
+    "907093655",
+    "907093656",
+    "907093657",
+    "907093658",
+    "907093659",
+    "907093660",
+    "907093661",
+    "907093662",
+    "907093663",
+    "907093664",
+    "907093665",
+    "907093666",
+    "907093667",
+    "907093668",
+    "907093669"
+   ]
+  },
+  {
+   "date": "1927-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:687398:por",
+     "title": "Decreto n.º 13657",
+     "published": "1927-05-23",
+     "dre_path": "/dr/detalhe/decreto/13657-1927-687398"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 40.º",
+    "Adita Artigo 41.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 39.º"
+   ],
+   "fragments": [
+    "907093649",
+    "907093650",
+    "907093651",
+    "907259696",
+    "907093653",
+    "907093654",
+    "907093655",
+    "907093656",
+    "907093657",
+    "907093658",
+    "907259697",
+    "907259698",
+    "907093661",
+    "907259699",
+    "907259700",
+    "907259701",
+    "907259702",
+    "907259703",
+    "907259704",
+    "907093668",
+    "907259705",
+    "907093670",
+    "907093671",
+    "907093672",
+    "907259706",
+    "907093674",
+    "907259675",
+    "907259676",
+    "907259677",
+    "907259678",
+    "907259679",
+    "907259680",
+    "907259681",
+    "907259682",
+    "907259707",
+    "907259708",
+    "908983186",
+    "907259709",
+    "907259710",
+    "907259711",
+    "907259712",
+    "907259715",
+    "907259716",
+    "907259717"
+   ]
+  },
+  {
+   "date": "1928-03-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:647155:por",
+     "title": "Decreto n.º 15122",
+     "published": "1928-03-07",
+     "dre_path": "/dr/detalhe/decreto/15122-1928-647155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "907093649",
+    "907093650",
+    "907093651",
+    "907259696",
+    "907093653",
+    "907093654",
+    "907093655",
+    "907093656",
+    "907093657",
+    "907093658",
+    "907259697",
+    "907259698",
+    "907093661",
+    "907259699",
+    "907259700",
+    "907259701",
+    "908700904",
+    "907259703",
+    "907259704",
+    "907093668",
+    "907259705",
+    "907093670",
+    "907093671",
+    "907093672",
+    "907259706",
+    "907093674",
+    "907259675",
+    "907259676",
+    "907259677",
+    "907259678",
+    "907259679",
+    "907259680",
+    "907259681",
+    "907259682",
+    "907259707",
+    "907259708",
+    "908983186",
+    "907259709",
+    "907259710",
+    "907259711",
+    "907259712",
+    "907259715",
+    "907259716",
+    "907259717"
+   ]
+  },
+  {
+   "date": "1930-09-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:657436:por",
+     "title": "Decreto n.º 18883",
+     "published": "1930-09-27",
+     "dre_path": "/dr/detalhe/decreto/18883-1930-657436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 40.º"
+   ],
+   "fragments": [
+    "907093649",
+    "907093650",
+    "907093651",
+    "908700911",
+    "908700912",
+    "907093654",
+    "907093655",
+    "908700913",
+    "907093657",
+    "907093658",
+    "908700914",
+    "907259698",
+    "907093661",
+    "907259699",
+    "907259700",
+    "908700915",
+    "908700916",
+    "907259703",
+    "908700917",
+    "907093668",
+    "908700918",
+    "907093670",
+    "907093671",
+    "907093672",
+    "907259706",
+    "907093674",
+    "907259675",
+    "907259676",
+    "907259677",
+    "907259678",
+    "907259679",
+    "907259680",
+    "907259681",
+    "907259682",
+    "907259707",
+    "907259708",
+    "908983186",
+    "907259709",
+    "907259710",
+    "908700919",
+    "908700920",
+    "907259715",
+    "907259716",
+    "907259717"
+   ]
+  },
+  {
+   "date": "1930-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:658385:por",
+     "title": "Rectificação",
+     "published": "1930-10-31",
+     "dre_path": "/dr/detalhe/rectificacao/1930-658385"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º"
+   ],
+   "fragments": [
+    "907093649",
+    "907093650",
+    "907093651",
+    "908700925",
+    "908700912",
+    "907093654",
+    "907093655",
+    "908700913",
+    "907093657",
+    "907093658",
+    "908700914",
+    "907259698",
+    "907093661",
+    "907259699",
+    "907259700",
+    "908700915",
+    "908700916",
+    "907259703",
+    "908700917",
+    "907093668",
+    "908700918",
+    "907093670",
+    "907093671",
+    "907093672",
+    "907259706",
+    "907093674",
+    "907259675",
+    "907259676",
+    "907259677",
+    "907259678",
+    "907259679",
+    "907259680",
+    "907259681",
+    "907259682",
+    "907259707",
+    "907259708",
+    "908983186",
+    "907259709",
+    "907259710",
+    "908700919",
+    "908700920",
+    "907259715",
+    "907259716",
+    "907259717"
+   ]
+  }
+ ],
+ "fragments": {
+  "907093649": {
+   "fragment_id": "907145414",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 12704\n\nConsiderando que o sistema de recrutamento e formação dos oficiais deve ser orientado no sentido de preparar indivíduos com os múltiplos requisitos hoje julgados indispensáveis aos oficiais especialmente dos quadros permanentes sem perder, contudo, de vista as condições do nosso meio social e militar;\n\nConsiderando que só devem ser admitidos a oficiais os indivíduos que mostrem possuir as qualidades morais, intelectuais e físicas indispensáveis para o exercício das funções do oficial, tanto na paz, como na guerra, e que manifestem a necessária vocação para a vida militar;\n\nConsiderando que a educação militar adequada, metódica e progressivamente ministrada, é o meio mais eficaz para desenvolver nos indivíduos, candidatos à carreira de oficial, as qualidades referidas e a sua vocação para a vida militar;\n\nConsiderando que a organização e os processos de ensino da Escola Militar, sendo lògicamente fundados nos princípios esboçados nos considerandos anteriores, terão o carácter intuitivo, experimental e indutivo.\n\nConsiderando a necessidade de se modificar a organização da Escola Militar em harmonia com o espírito da nova organização do exército;\n\nConsiderando as exigências de preparação matemática essenciais para a freqüência do novo curso de artilharia;\n\nConsiderando a necessidade da criação das categorias de professores e professores adjuntos e do seu recrutamento por concurso;\n\nConsiderando a urgência de se reformar o curso do estado maior, de forma a dar, quer pelo recrutamento dos alunos, quer pela sua organização, sólidas garantias dum mais profícuo resultado, ficando sob a direcção técnica do chefe do estado maior do exército, o que será tratado em diploma especial;\n\nConsiderando finalmente a necessidade de se estudar as circunstâncias criadas ao recrutamento dos oficiais das armas de infantaria, artilharia e cavalaria, pelas recentes reformas do ensino secundário e superior:\n\nEm nome da Nação, o Govêrno da República Portuguesa decreta, para valer como lei, a seguinte organização da Escola Militar, que faz parte dêste decreto com fôrça de lei e baixa assinado por todos os Ministros, ficando revogadas todas as demais disposições anteriores relativas à organização da Escola Militar.\n\nDetermina-se portanto a todas as autoridades a quem o conhecimento e execução do presente decreto com fôrça de lei pertencer o cumpram e façam cumprir e guardar tam inteiramente como nêle se contém.\n\nOs Ministros de todas as Repartições o façam imprimir, publicar e correr. Dado nos Paços do Govêrno da República, em 25 de Outubro de 1926. - António Óscar de Fragoso Carmona - Manuel Rodrigues Júnior - João José Sinel de Cordes - Jaime Afreixo - António Maria de Bettencourt Rodrigues - Abílio Augusto Valdês de Passos e Sousa - João Belo - Artur Ricardo Jorge - Felisberto Alves Pedrosa.\n\nOrganização da Escola Militar"
+  },
+  "907093650": {
+   "fragment_id": "907145415",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Escola Militar é o estabelecimento de instrução superior que tem por fim: preparar oficiais para as diferentes armas do exército, para o serviço de administração militar e para os estabelecimentos fabris do exército."
+  },
+  "907093651": {
+   "fragment_id": "907145416",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs cursos professados na Escola Militar são os seguintes:\n\na) Curso de infantaria;\n\nb) Curso de artilharia;\n\nc) Curso de cavalaria;\n\nd) Curso de engenharia militar;\n\ne) Curso de administração militar;\n\nf) Curso complementar de artilharia."
+  },
+  "907093652": {
+   "fragment_id": "907145417",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs disciplinas professadas na Escola agrupar-se hão em cadeiras, pela seguinte forma:\n\n1.ª cadeira. - Geometria aplicada. Desenho militar. Fotografia.\n\n2.ª cadeira. - Sociologia. Direito constitucional, administrativo e internacional.\n\n3.ª cadeira. - Administração colonial e idea geral da colonização portuguesa.\n\n4.ª cadeira. - Organização militar.\n\n5.ª cadeira. - História e geografia militar. Princípios de estratégia.\n\n6.ª cadeira (em dois anos). - Balística.\n\n7.ª cadeira.  - Aplicações da balística ao tiro. Meteorologia. Acústica.\n\n8.ª cadeira (em dois anos). - Material de artilharia. Viaturas. Tracção.\n\n9.ª cadeira (em dois anos). - Armas portáteis e metralhadoras. Tiro das armas portáteis.\n\n10.ª cadeira (em dois anos). - Noções gerais de estatística. Mercados. Escrituração militar e contabilidade aplicada.\n\n11.ª cadeira (em três anos). - Serviços de administração militar.\n\n12.ª cadeira (em dois anos). - Tecnologia administrativa militar.\n\n13.ª cadeira (em dois anos). - Tática geral. Idea geral do funcionamento dos diversos serviços em campanha.\n\n14.ª cadeira (em dois anos). - Tática e serviços de engenharia.\n\n15.ª cadeira. - Execução de tiro, tática e serviços de artilharia.\n\n16.ª cadeira (em dois anos). - Tática de cavalaria.\n\n17.ª cadeira (em dois anos). - Tática de infantaria.\n\n18.ª cadeira. - Comunicações militares. Trabalhos de estacionamento.\n\n19.ª cadeira. - Fortificação.\n\n20.ª cadeira (em dois anos). - Astronomia. Geodesia. Topografia.\n\n21.ª cadeira. - Aços e ligas metálicas. Tecnologia mecânica, industrial e profissional. Organização e direcção de oficinas. Fabrico do material de guerra.\n\n22.ª cadeira (em dois anos). - Indústrias químicas. Explosivos e gases de guerra.\n\n23.ª cadeira (em dois anos). - Resistência de materiais. Betom armado. Estabilidade de construções.\n\n24.ª cadeira (em dois anos). - Materiais e processos gerais de construção. Construções civis e industriais. Arquitectura.\n\n25.ª cadeira (em dois anos). - Máquinas térmicas. Automóveis e aparelhos aeronáuticos.\n\n26.ª cadeira (em dois anos). - Electrotecnia. Máquinas eléctricas. Aplicações de electricidade.\n\n27.ª cadeira. - Hidráulica geral. Máquinas hidráulicas. Hidráulica urbana e agrícola.\n\n28.ª cadeira (em dois anos). - Pontes. Túneis. Trabalhos marítimos e fluviais. Portos.\n\n29.ª cadeira. - Estradas. Caminhos de ferro.\n\n30.ª cadeira. - Material e operações navais.\n\n3.ª Cadeira. - Higiene militar e colonial. Assistência a feridos. Higiene urbana e industrial.\n\n§ único. O Govêrno, sob proposta fundamentada do Conselho de Instrução da Escola Militar, poderá modificar a distribuïção das disciplinas pelas cadeiras ou criar nestas rubricas novas."
+  },
+  "907093653": {
+   "fragment_id": "907145418",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA duração dos cursos professados na escola será o seguinte:\n\na) Curso de infantaria - três anos;\n\nb) Curso de artilharia - quatro anos;\n\nc) Curso de cavalaria - três anos;\n\nd) Curso de engenharia militar - quatro anos;\n\ne) Curso de administração militar - três anos;\n\nf) Curso complementar de artilharia - um ano.\n\n§ único. Para a conclusão dêstes cursos, com excepção do complementar de artilharia, será concedida a tolerância de um ano."
+  },
+  "907093654": {
+   "fragment_id": "907145419",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO ensino será orientado no sentido de ministrar aos alunos a educação militar e a instrução teórica e prática necessárias para formação de oficiais do quadro permanente, preparando-os eficazmente para o exercício da sua elevada missão."
+  },
+  "907093655": {
+   "fragment_id": "907145420",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO ensino completo da Escola será determinado em programas aprovados pelo Conselho de Instrução, podendo os professores proceder a interrogatórios para verificar se as doutrinas expostas foram compreendidas pelos alunos, bem como para se assegurarem do respectivo aproveitamento."
+  },
+  "907093656": {
+   "fragment_id": "907145421",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nPara verificar se os alunos possuem os conhecimentos constantes dos respectivos programas, haverá, anualmente e por cada cadeira, exames.\n\n§ 1.º Para os alunos que, nessa primeira época e em qualquer cadeira, não tenham obtido aprovação, haverá uma segunda época de exames.\n\n§ 2.º Não poderão ser admitidos a exame, na segunda época, os alunos que, na primeira época, não tenham obtido aprovação na maioria das cadeiras do respectivo ano do curso."
+  },
+  "907093657": {
+   "fragment_id": "907145422",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nDurante a freqüência do 1.º ano escolar investigar-se há cuidadosamente das qualidades morais e profissionais dos alunos, sendo imediatamente excluídos os considerados em más condições. Estes não poderão tornar a freqüentar a Escola e terão o destino que o Ministro da Guerra determinar.\n\n§ único. A composição e funcionamento dos júris para apreciar estas qualidades, variável conforme o curso dos alunos, será fixado no respectivo regulamento escolar, e das suas decisões não haverá recurso."
+  },
+  "907093658": {
+   "fragment_id": "907145423",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nNa Escola haverá os estabelecimentos e dependências necessárias para o ensino, bem como para alojamento dos alunos e do restante pessoal e animal necessário ao funcionamento da mesma."
+  },
+  "907093659": {
+   "fragment_id": "907145424",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nHaverá na Escola o seguinte pessoal:\n\n1.º Um comandante, oficial general do quadro activo ou da reserva, quando tenha atingido êste pôsto no quadro activo;\n\n2.º Um segundo comandante, oficial superior de qualquer arma ou do antigo corpo do estado maior;\n\n3.º Trinta e um professores efectivos, sendo trinta oficiais do exército e um de marinha;\n\n4.º Quinze professores adjuntos, oficiais do exército;\n\n5.º Três professores das cadeiras auxiliares de línguas;\n\n6.º Um mestre de equitação, major ou capitão de cavalaria;\n\n7.º Um mestre de gimnástica e esgrima, major ou capitão, devidamente diplomado;\n\n8.º Dois assistentes, um no laboratório químico e outro no laboratório fotográfico;\n\n9.º Um médico de patente não superior a major;\n\n10.º Um dentista, oficial do quadro activo ou miliciano;\n\n11.º Um auxiliar de mestre de equitação, tenente ou capitão de cavalaria;\n\n12.º Um secretário da Escola, oficial de qualquer arma, de patente não superior a major;\n\n13.º Um ajudante da secretaria, oficial de qualquer arma, de patente não superior a capitão;\n\n14.º Um comandante do corpo de alunos, major ou capitão de qualquer arma, e seis capitães ou tenentes para o serviço do mesmo corpo, sendo três de infantaria, dois de artilharia e um de cavalaria;\n\n15.º Um comandante do destacamento, major ou capitão de infantaria, e seis subalternos para o serviço do mesmo, sendo dois de infantaria, dois de artilharia e dois de cavalaria;\n\n16.º Um oficial de tiro e armamento, capitão ou tenente de infantaria, de preferência especializado em metralhadoras pesadas e ligeiras e em granadas;\n\n17.º Um relator, um tesoureiro e um secretário do conselho administrativo, respectivamente, oficial superior do quadro activo, da reserva ou reformado de qual quer arma ou serviço, capitão ou tenente e subalterno do serviço de administração militar;\n\n18.º Um bibliotecário, oficial superior do quadro activo, da reserva ou reformado, de qualquer arma ou do serviço do estado maior, e dois ajudantes, oficiais de qualquer arma ou serviço, ou do extinto quadro dos capelães militares, quer do activo, quer da reserva ou reformado;\n\n19.º Um arquivista, oficial de qualquer arma, ou do extinto quadro dos capelães militares, quer do activo, quer da reserva ou reformado;\n\n20.º Dois conservadores, respectivamente do museu do material de ensino e do material escolar, subalternos de qualquer dos quadros do exército, quer do activo, quer da reserva ou reformados;\n\n21.º Dois oficiais do quadro auxiliar dos serviços de engenharia ou de artilharia, capitães ou tenentes, quer do activo, quer da reserva;\n\n22.º O pessoal que fôr determinado no regulamento da Escola para o bom funcionamento dos diferentes serviços e das várias dependências escolares.\n\n§ 1.º Os lugares de assistentes dos laboratórios químico e fotográfico serão de preferência desempenhados, por acumulação, por oficiais em serviço na Escola.\n\n§ 2.º Para auxiliar o mestre de gimnástica e esgrima serão nomeados instrutores, capitães ou subalternos devidamente diplomados, cujo número será função do efectivo do corpo de alunos."
+  },
+  "907093660": {
+   "fragment_id": "907145425",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO comandante da Escola será nomeado pelo Ministro da Guerra e todo o mais pessoal, com excepção daquele a que se referem os n.os 3.º, 4.º, 5.º e 8.º do artigo anterior, será nomeado pelo mesmo Ministro, precedendo proposta do comandante da Escola, devendo todos os oficiais nomeados ter o curso das respectivas armas ou serviços.\n\n§ 1.º Os assistentes dos laboratórios serão nomeados pelo Ministro da Guerra sob proposta do Conselho de Instrução.\n\n§ 2.º O pessoal a que se refere o n.º 22.º do artigo anterior será fixado anualmente pelo Ministro da Guerra, mediante proposta do comandante da Escola, ao qual pertencerá a nomeação do pessoal contratado."
+  },
+  "907093661": {
+   "fragment_id": "907145426",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAs atribuições, direitos e deveres do pessoal a que se refere o artigo 10.º serão especificados no regulamento da Escola."
+  },
+  "907093662": {
+   "fragment_id": "907145427",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nO provimento dos lugares de professores e de professores adjuntos das diferentes cadeiras será feito pelo Ministro da Guerra, sob proposta do Conselho de Instrução constituído pelos professores efectivos em efectivo serviço, devendo, porém, observar-se o seguinte:\n\n1.º Quando se trate de prover um lugar de professor ou de professor adjunto, será publicado no Diário do Governo e em dois dos jornais mais lidos do País o anúncio em que se declare a vacatura, para que os oficiais, satisfazendo às condições gerais fixadas no regulamento da Escola para o provimento dêsses lugares e se julgarem em condições de nêle serem providos, possam enviar à secretaria da mesma Escola tal declaração, à qual poderão juntar todos os documentos que entendam abonatórios dessa declaração. Para a execução do que fica exposto nesse anúncio será fixado o prazo conveniente;\n\n2.º Expirado o prazo a que se refere o parágrafo anterior, o Conselho de Instrução organizará a lista dos concorrentes, a qual será afixada no átrio da Escola e publicada na fôlha oficial, para que todos os candidatos dela possam tomar conhecimento, fixando-se um novo prazo para que qualquer oficial que se julgue lesado pela não inclusão do seu nome na lista referida possa apresentar, na secretaria da Escola, declaração escrita a tal respeito;\n\n3.º O concurso para professores efectivos será sempre por provas públicas;\n\n4.º Para o provimento dos lugares de professores adjuntos, e findo o novo prazo a que se refere o n.º 2.º, o Conselho de Instrução tomará conhecimento das reclamações, se as houver, sôbre a organização da lista dos concorrentes, bem como de qualquer requerimento que lhe tenha sido dirigido por qualquer dêles, pedindo a abertura do concurso por provas públicas. A simples apresentação de um requerimento dessa natureza implicará a imediata abertura do concurso, nessas condições, para o preenchimento da vacatura, ao qual será obrigado a apresentar-se o oficial requerente.\n\nNão havendo qualquer reclamação, o Conselho resolverá sôbre se se encontra habilitado a escolher, de entre os concorrentes, aquele que deve ser proposto para ocupar o lugar vago, ou se julga que só um concurso por provas públicas o poderá habilitar a pronunciar-se por qualquer dêles. No primeiro caso, fará a escolha por escrutínio secreto; no segundo, organizará o concurso nos termos indicados no regulamento da Escola."
+  },
+  "907093663": {
+   "fragment_id": "907145428",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO provimento dos lugares de professores das cadeiras auxiliares de línguas será sempre feito mediante concurso de provas práticas perante um júri constituído em harmonia com as disposições que, sôbre o assunto, constarem do regulamento da Escola e do qual farão parte professores das línguas francesa, inglesa ou alemã do quadro efectivo do Colégio Militar, dos liceus ou da Faculdade de Letras da Universidade de Lisboa."
+  },
+  "907093664": {
+   "fragment_id": "907145429",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nPara a execução do que fica exposto nos artigos 13.º e 14.º ter-se há em atenção que só poderão ser providos nos lugares de professores:\n\nDa 1.ª cadeira - oficiais de engenharia, ou habilitados com o curso do estado maior das Escolas do Exército ou de Guerra, ou habilitados com o antigo curso de artilharia da Escola do Exército, com o curso de artilharia a pé, ou com o novo curso de artilharia da Escola Militar;\n\nDas 2.ª e 3.ª cadeiras e das cadeiras auxiliares de línguas - oficiais de qualquer arma ou serviço;\n\nDas 4.ª e 5.ª cadeiras - oficiais de qualquer arma habilitados com o curso do estado maior;\n\nDa 13.ª cadeira - oficiais de qualquer arma habilitados com o curso do estado maior e julgados idóneos para o serviço do mesmo;\n\nDas 6.ª, 7.ª e 15.ª cadeiras - oficiais de artilharia habilitados com o curso dessa arma da Escola do Exército, ou com o curso de artilharia a pé, ou com o novo curso de artilharia da Escola Militar;\n\nDas 8.ª, 21.ª e 22.ª cadeiras - oficiais de artilharia habilitados com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o novo curso complementar de artilharia da Escola Militar;\n\nDas 9.ª e 17.ª cadeiras - oficiais de infantaria;\n\nDas 10.ª, 11.ª e 12.ª cadeiras - oficiais do serviço de administração militar;\n\nDas 14.ª, 18.ª, 19.ª, 23.ª, 24.ª, 25.ª, 26.ª, 27.ª, 28.ª e 29.ª cadeiras - oficiais de engenharia;\n\nDa 16.ª cadeira - oficiais de cavalaria;\n\nDa 20.ª cadeira - oficiais de engenharia, ou habilitados com o curso de artilharia a pé, ou com o curso do estado maior das Escolas do Exército ou de Guerra, ou ainda com o novo curso complementar de artilharia da Escola Militar;\n\nDa 30.ª cadeira - oficial de marinha;\n\nDa 31.ª cadeira - oficial médico do respectivo quadro."
+  },
+  "907093665": {
+   "fragment_id": "907145430",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs professores adjuntos designados no n.º 4.º do artigo 10.º, para a execução do que fica exposto no artigo 13.º, serão divididos, pelas cadeiras ou grupos de cadeiras, da seguinte forma:\n\nDas 1.ª e 20.ª cadeiras - um, oficial de engenharia, ou habilitado com o curso de artilharia a pé, ou com o curso de estado maior das Escolas do Exército ou de Guerra, ou ainda com o curso de artilharia da Escola Militar quando possua o respectivo curso complementar;\n\nDa 6.ª cadeira - um, oficial de artilharia habilitado com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé, ou com o novo curso de artilharia da Escola Militar;\n\nDas 7.ª, 8.ª e 15.ª cadeiras - dois oficiais de artilharia habilitados com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o novo curso complementar de artilharia da Escola Militar;\n\nDas 9.ª e 17.ª cadeiras - um oficial de infantaria;\n\nDas 10.ª, 11.ª e 12.ª cadeiras - dois oficiais do serviço de administração militar;\n\nDa 13.ª cadeira - um oficial de qualquer arma habilitado com o curso do estado maior e julgado idóneo para o serviço do mesmo;\n\nDas 14.ª e 19.ª cadeiras - um oficial de engenharia;\n\nDa 16.ª cadeira - um oficial de cavalaria;\n\nDas 18.ª e 26.ª cadeiras - um oficial de engenharia;\n\nDas 21.ª e 22.ª cadeiras - um oficial de artilharia habilitado com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé, ou com o novo curso complementar de artilharia da Escola Militar;\n\nDas 23.ª e 28.ª cadeiras - um oficial de engenharia;\n\nDas 24.ª e 29.ª cadeiras - um oficial de engenharia;\n\nDas 25.ª e 27.ª cadeiras - um oficial de engenharia."
+  },
+  "907093666": {
+   "fragment_id": "907145431",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs professores das cadeiras auxiliares de línguas terão, para todos os efeitos, a categoria de professores adjuntos."
+  },
+  "907093667": {
+   "fragment_id": "907145432",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs professores e professores adjuntos da Escola Militar não deverão ter, respectivamente, pôsto inferior a capitão ou tenente, e permanecerão no exercício do magistério até atingirem o pôsto de coronel.\n\n§ 1.º Os professores e professores adjuntos que, por efeito dêste artigo, tenham de deixar o magistério, deverão continuar em exercício até à conclusão dos trabalhos escolares do ano lectivo que estiver correndo, e serão exonerados por diploma similar ao da nomeação.\n\n§ 2.º Aos professores e professores adjuntos continuam a ser aplicáveis as disposições a que se refere o artigo 29.º da carta de lei de 13 de Maio de 1896."
+  },
+  "907093668": {
+   "fragment_id": "907145433",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nA admissão à matrícula em qualquer dos cursos professados na Escola Militar, como aluno ordinário, será feita mediante um concurso realizado nos termos fixados no regulamento escolar."
+  },
+  "907093669": {
+   "fragment_id": "907145434",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs condições de admissão ao concurso a que se refere o artigo anterior serão as seguintes:\n\nPara os cursos de infantaria e de cavalaria:\n\n1.ª Não ter completado vinte e um anos de idade no dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.ª Ter bom comportamento militar e civil;\n\n3.ª Possuir o curso de sciências dos liceus ou do Colégio Militar;\n\n4.ª Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades ou nas equivalentes do Instituto Superior Técnico:\n\na) Álgebra superior, geometria analítica, e trigonometria esférica;\n\nb) Física (curso geral); e\n\nc) Desenho rigoroso.\n\n5.ª Ser aprovado por uma junta de inspecção que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército.\n\nPara o curso de artilharia:\n\n1.ª Não ter completado vinte e dois anos de idade no dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.ª Ter bom comportamento militar e civil;\n\n3.ª Possuir o curso complementar de sciências dos liceus ou do Colégio Militar;\n\n4.ª Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades ou nas equivalentes do Instituto Superior Técnico:\n\na) ÁIgebra superior, geometria analítica e trigonometria esférica;\n\nb) Cálculo diferencial, integral e das variações;\n\nc) Geometria descritiva e estereotomia;\n\nd) Física (curso geral, complementar, compreendendo acústica, óptica, calor e electricidade);\n\ne) Química (curso geral); e\n\nf) Desenho rigoroso e de máquinas.\n\n5.ª Ser aprovado por uma junta de inspecção que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército.\n\nC) Para o curso de engenharia militar:\n\n1.ª Não ter completado vinte e quatro anos de idade no dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.ª Ter bom comportamento militar e civil;\n\n3.ª Possuir o curso de sciências dos liceus ou do Colégio Militar;\n\n4.ª Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades ou nas equivalentes do Instituto Superior Técnico:\n\na) Álgebra superior, geometria analítica e trigonometria esférica;\n\nb) Cálculo diferencial, integral e das variações;\n\nc) Mecânica racional;\n\nd) Geometria descritiva e estereotomia;\n\ne) Física (curso geral e complementar, compreendendo acústica, óptica, calor e electricidade);\n\nf) Química (curso geral);\n\ng) Mineralogia e geologia (curso geral);\n\nh) Economia política;\n\ni) Desenho rigoroso e de máquinas;\n\n5.ª Ser aprovado por uma junta de inspecção que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército.\n\nD) Para o curso de administração militar:\n\n1.ª Não ter completado vinte e dois anos de idade no dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.ª Ter bom comportamento militar e civil;\n\n3.ª Possuir qualquer dos cursos professados no Instituto Superior de Comércio ou o curso médio de comércio de qualquer dos Institutos Comerciais ou do Instituto Profissional dos Pupilos do Exército;\n\n4.ª Ser aprovado por uma junta do inspecção que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército.\n\nE) Para o curso complementar de artilharia:\n\n1.ª Possuir o curso da arma de artilharia da escola militar;\n\n2.ª Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades ou nas equivalentes do Instituto Superior Técnico:\n\na) Mecânica racional;\n\nb) Química orgânica e analítica;\n\nc) Mineralogia e geologia (curso geral);\n\n3.ª Ter pôsto não superior a capitão;\n\n4.ª Ter exemplar comportamento e boas informações dos comandantes sob cujas ordens tenha servido, especialmente pelo que se refere à sua competência técnica."
+  },
+  "907259696": {
+   "fragment_id": "907145417",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs disciplinas professadas na Escola agrupar-se hão em cadeiras, pela seguinte forma:\n\n1.ª Cadeira. — Geometria aplicada. Desenho militar. Fotografia.\n\n2.ª Cadeira. — Administração colonial e idea geral da colonização portuguesa.\n\n3.ª Cadeira. — Princípios gerais da organização dos exércitos; legislação militar portuguesa. Noções de direito internacional. Educação militar.\n\n4.ª Cadeira — História e geografia militar. Princípios de estratégia.\n\n5.ª Cadeira (em dois anos). — Balística.\n\n6.ª Cadeira. — Aplicações da balística ao tiro. Meteorologia. Acústica.\n\n7.ª Cadeira (em dois anos). — Material de artilharia. Viaturas. Tracção.\n\n8.ª Cadeira (em dois anos). — Armas portáteis, metralhadoras e engenhos de acompanhamento. Tiro.\n\n9.ª Cadeira (em dois anos). — Noções gerais de estatística. Mercados. Escrituração militar e contabilidade aplicada.\n\n10.ª Cadeira (em três anos). — Serviços de administração militar.\n\n11.ª Cadeira (em dois anos). — Tecnologia administrativa militar.\n\n12.ª Cadeira (em dois anos). — Tática geral. Idea geral do funcionamento dos diversos serviços em campanha.\n\n13.ª Cadeira (em dois anos). — Tática o serviços do engenharia.\n\n14.ª Cadeira. — Execução de tiro, tática e serviços de artilharia.\n\n15.ª Cadeira (em dois anos). — Tática de cavalaria.\n\n16.ª Cadeira (em dois anos). — Tática de infantaria.\n\n17.ª Cadeira. — Comunicações militares. Trabalhos de estacionamento.\n\n18.ª Cadeira. — Fortificação.\n\n19.ª Cadeira (em dois anos). — Astronomia. Geodesia. Topografia.\n\n20.ª Cadeira. — Aços e ligas metálicas. Tecnologia mecânica, industrial e profissional. Organização e direcção de oficinas. Fabrico do material de guerra.\n\n21.ª Cadeira (em dois anos). — Industrias químicas, explosivos e gases de guerra.\n\n22.ª Cadeira (em dois anos). — Resistência de materiais. Betom armado. Estabilidade de construções.\n\n23.ª Cadeira (em dois anos). — Materiais e processos gerais de construção. Construções civis e industriais. Arquitectura.\n\n24.ª Cadeira (em dois anos). — Máquinas térmicas. Automóveis e aparelhos aeronáuticos.\n\n25.ª Cadeira (em dois anos). — Electrotécnica. Máquinas eléctricas. Aplicação de electricidade.\n\n26.ª Cadeira. — Hidráulica geral. Máquinas hidráulicas. Hidráulica urbana e agrícola.\n\n27.ª Cadeira (em dois anos). — Fontes. Túneis. Trabalhos marítimos e fluviais. Portos.\n\n28.ª Cadeira. — Estradas. Caminhos de ferro.\n\n29.ª Cadeira. — Material e operações navais.\n\n30.ª Cadeira. — Higiene militar e colonial. Assistência a feridos. Higiene urbana e industrial.\n\n§ único. O Govêrno, sob proposta fundamentada do conselho de instrução da Escola Militar, poderá modificar a distribuição das disciplinas pelas cadeiras, ou criar nestas rubricas novas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259697": {
+   "fragment_id": "907145424",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 10.º\n\nHaverá na Escola o seguinte pessoal:\n\n1.º Um comandante, oficial general do quadro activo ou da reserva, quando tenha atingido êste pôsto no quadro activo;\n\n2.º Um segundo comandante, oficial superior de qualquer arma ou do antigo corpo do estado maior;\n\n3.º Trinta professores efectivos, sendo vinte e nove oficiais do exército e um de marinha;\n\n4.º Dezassete professores adjuntos, oficiais do exército;\n\n5.º O número de instrutores, função do número de alunos, para auxiliares dos professores e professores adjuntos nos trabalhos práticos e de aplicação das cadeiras de tática, tenentes ou capitães da respectiva arma, de preferência, para a 12.ª Cadeira, com o curso do estado maior;\n\n6.º Um mestre de equitação, major ou capitão de cavalaria;\n\n7.º Um auxiliar do mestre de equitação, tenente ou capitão de cavalaria;\n\n8.º Um mestre de gimnástica e esgrima, major ou capitão devidamente diplomado;\n\n9.º O número de instrutores, função do efectivo do corpo de alunos, para auxiliares do mestre de gimnástica e esgrima, tenentes ou capitães devidamente diplomados;\n\n10.º Dois assistentes, um no laboratório químico e outro no laboratório fotográfico, tenentes, capitães ou majores, de preferência oficiais em serviço na Escola;\n\n11.º Um médico de patente não superior a major;\n\n12.º Um dentista, oficial do quadro activo ou miliciano;\n\n13.º Um secretário da Escola, oficial de qualquer arma, de patente não superior a major;\n\n14.º Um ajudante da secretaria, oficial de qualquer arma, de patente não superior a capitão;\n\n15.º Um comandante do corpo de alunos, major ou capitão de qualquer arma, e seis tenentes ou capitães para o serviço do mesmo corpo, sendo três de infantaria, dois de artilharia e um de cavalaria;\n\n16.º Um comandante do destacamento, major ou capitão de infantaria, e seis subalternos, sendo dois de infantaria, dois de artilharia e dois de cavalaria;\n\n17.º Um oficial de tiro e armamento, tenente ou capitão de infantaria, especializado em metralhadoras pesadas e ligeiras e em granadas;\n\n18.º Um relator, um tesoureiro e um secretário do conselho administrativo respectivamente: oficial superior do quadro activo, ou da reserva, ou reformado, de qualquer arma ou serviço; capitão ou tenente do serviço de administração militar, e subalterno do serviço de administração militar;\n\n19.º Um bibliotecário, oficial superior do quadro activo, da reserva ou reformado, de qualquer arma ou do serviço do estado maior, e dois ajudantes oficiais de qualquer arma ou serviço, ou do extinto quadro dos capelães militares, quer do activo, quer da reserva ou reformados;\n\n20.º Um arquivista, oficial de qualquer arma ou do extinto quadro dos capelães militares;\n\n21.º Dois conservadores, respectivamente do museu do material de ensino e do material escolar, subalternos de qualquer dos quadros do exército, quer do activo, quer da reserva ou reformados;\n\n22.º Dois oficiais do quadro auxiliar dos serviços de engenharia ou de artilharia, tenentes ou capitães, quer do activo, quer da reserva;\n\n23.º O pessoal que fôr determinado no regulamento da Escola para o bom funcionamento dos diferentes serviços e das várias dependências escolares.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259698": {
+   "fragment_id": "907145425",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 11.º\n\nO comandante da Escola será nomeado pelo Ministro da Guerra, e todo o mais pessoal, com excepção daquele a que se referem os n.os 3.º, 4.º, 5.º, 6.º, 7.º, 8.º, 9.º e 10.º do artigo anterior, será nomeado pelo mesmo Ministro, precedendo proposta do comandante da Escola, devendo todos os oficiais nomeados ter o curso das respectivas armas ou serviços;\n\n§ 1.º Os instrutores auxiliares dos professores das cadeiras de tática e os assistentes dos laboratórios serão nomeados pelo Ministro da Guerra, sob proposta do conselho de instrução.\n\n§ 2.º O pessoal a que se refere o n.º 23.º do artigo anterior será fixado anualmente pelo Ministro da Guerra, mediante proposta do comandante da Escola, ao qual pertencerá a nomeação do pessoal contratado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259699": {
+   "fragment_id": "907145427",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 13.º\n\nO provimento dos lugares de professores e de professores adjuntos das diferentes cadeiras será feito pelo Ministro da Guerra, sob proposta do Conselho de Instrução constituído pelos professores efectivos em efectivo serviço, devendo, porém, observar-se o seguinte:\n\n1.º Quando se trate de prover um lugar de professor ou de professor adjunto, será publicado no Diário do Governo e em dois dos jornais mais lidos do País o anúncio em que se declare a vacatura, para que os oficiais, satisfazendo às condições gerais fixadas no regulamento da Escola para o provimento dêsses lugares e se julgarem em condições de nêle serem providos, possam enviar à secretaria da mesma Escola tal declaração, à qual poderão juntar todos os documentos que entendam abonatórios dessa declaração. Para a execução do que fica exposto nesse anúncio será fixado o prazo conveniente;\n\n2.º Expirado o prazo a que se refere o parágrafo anterior, o Conselho de Instrução organizará a lista dos concorrentes, a qual será afixada no átrio da Escola e publicada na fôlha oficial, para que todos os candidatos dela possam tomar conhecimento, fixando-se um novo prazo para que qualquer oficial que se julgue lesado pela não inclusão do seu nome na lista referida possa apresentar, na secretaria da Escola, declaração escrita a tal respeito;\n\n3.º Findo o novo prazo a que se refere o parágrafo anterior, o conselho de instrução tomará conhecimento das reclamações, se as houver, sôbre a organização da lista dos concorrentes, bem como de qualquer requerimento que lhe tenha sido dirigido por qualquer dêles, pedindo a abertura do concurso por provas públicas. A simples apresentação dum requerimento dessa natureza implicará a imediata abertura do concurso nessas condições para o preenchimento da vacatura, ao qual será obrigado a apresentar-se o oficial requerente. Não havendo qualquer reclamação o conselho resolverá sôbre se se encontra habilitado a escolher, de entre os concorrentes, aquele que deve ser proposto para ocupar o lugar vago, ou se julga que só um concurso por provas públicas o poderá habilitar a pronunciar-se por qualquer dêles. No primeiro caso fará a escolha, e no segundo organizará o concurso, procedendo em ambos os casos nos termos indicados no regulamento para o provimento dos lugares do magistério da Escola Militar.\n\n4.º Para o provimento dos lugares de professores adjuntos, e findo o novo prazo a que se refere o n.º 2.º, o Conselho de Instrução tomará conhecimento das reclamações, se as houver, sôbre a organização da lista dos concorrentes, bem como de qualquer requerimento que lhe tenha sido dirigido por qualquer dêles, pedindo a abertura do concurso por provas públicas. A simples apresentação de um requerimento dessa natureza implicará a imediata abertura do concurso, nessas condições, para o preenchimento da vacatura, ao qual será obrigado a apresentar-se o oficial requerente.\n\nNão havendo qualquer reclamação, o Conselho resolverá sôbre se se encontra habilitado a escolher, de entre os concorrentes, aquele que deve ser proposto para ocupar o lugar vago, ou se julga que só um concurso por provas públicas o poderá habilitar a pronunciar-se por qualquer dêles. No primeiro caso, fará a escolha por escrutínio secreto; no segundo, organizará o concurso nos termos indicados no regulamento da Escola.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259700": {
+   "fragment_id": "907145428",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 14.º\n\nO provimento dos lugares de mestres de equitação e de gimnástica e esgrima e de instrutores auxiliares do mestre de equitação e de gimnástica e esgrima será sempre feito mediante concurso de provas práticas, em harmonia com as disposições que sôbre o assunto constarem do regulamento da Escola.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259701": {
+   "fragment_id": "907145429",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 15.º\n\nPara a execução do que fica exposto nos artigos 13.º e 14.º ter-se há em atenção que só poderão ser providos nos logares de professores:\n\nDa 1.ª cadeira. — Oficiais de qualquer arma habilitados com as cadeiras de geometria descritiva e desenho rigoroso das Faculdades de Sciências, ou equivalentes do Instituto Superior Técnico;\n\nDas 2.ª e 3.ª cadeiras. — Oficiais de qualquer arma;\n\nDa 4.ª cadeira. — Oficiais de qualquer arma, habilitados com o curso do estado maior;\n\nDa 12.ª cadeira. — Oficiais de qualquer arma habilitados com o curso do estado maior e julgados idóneos para o serviço do mesmo;\n\nDas 5.ª e 6.ª cadeiras. — Oficiais de artilharia habilitados com o curso dessa arma da Escola do Exército, ou com o curso de artilharia a pé, ou com o novo curso de artilharia da Escola Militar;\n\nDa 14.ª cadeira. — Oficiais de artilharia com qualquer curso desta arma da Escola do Exército, Escola de Guerra ou Escola Militar;\n\nDa 7.ª, 20.ª e 21.ª cadeiras. — Oficiais de artilharia habilitados com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o curso complementar de artilharia da Escola Militar;\n\nDas 8.ª e 16.ª cadeiras. — Oficiais de infantaria;\n\nDas 9.ª, 10.ª e 11.ª cadeiras. — Oficiais do serviço de administração militar;\n\nDas 13.ª, 17.ª, e 18.ª 24.ª cadeiras. — Oficiais de engenharia militar;\n\nDa 15.ª cadeira. — Oficiais de cavalaria;\n\nDá 19.ª cadeira. — Oficiais de qualquer arma habilitados com a cadeira de astronomia e geodesia das Faculdades de Sciências, ou equivalentes do Instituto Superior Técnico, ou da Escola do Exército, Escola de Guerra ou Escola Militar;\n\nDas 22.ª, 23.ª, 26.ª, 27.ª e 28. cadeiras. — Oficiais de engenharia militar ou de qualquer arma habilitados com um curso de engenharia civil;\n\nDa 25.ª cadeira. — Oficiais de engenharia militar ou de qualquer arma com o curso de engenheiro electrotécnico, professado em qualquer escola superior de engenharia;\n\nDa 29.ª cadeira. — Oficial de marinha;\n\nDa 30.ª cadeira. — Oficial médico do respectivo quadro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259702": {
+   "fragment_id": "907145430",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 16.º\n\nOs professores adjuntos designados no n.º 4.º do artigo 10.º para a execução do que fica exposto no artigo 13.º serão divididos, pelas cadeiras ou grupos de cadeiras, da seguinte forma:\n\nDa 1.ª cadeira. — Um oficial de qualquer arma habilitado com as cadeiras de geometria descritiva e desenho rigoroso das Faculdades de Sciências, ou equivalentes do Instituto Superior Técnico;\n\nDa 5.ª cadeira. — Um oficial de artilharia habilitado com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o novo curso de artilharia da Escola Militar\n\nDas 6.ª e 7.ª cadeiras. — Um oficial de artilharia com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o curso complementar de artilharia da Escola Militar;\n\nDas 8.ª e 16.ª cadeiras. — Um oficial de infantaria;\n\nDas 9.ª, 10.ª e 11.ª cadeiras. — Dois oficiais do serviço de administração militar;\n\nDa 12.ª cadeira. — Um oficial de qualquer arma habilitado com o curso do estado maior e julgado idóneo para o serviço do mesmo;\n\nDa 14.ª cadeira. — Um oficial de artilharia com qualquer curso desta arma da Escola do Exército, Escola de Guerra ou Escola Militar;\n\nDas 13.ª e 18.ª cadeiras. — Um oficial de engenharia;\n\nDa 15.ª cadeira. — Um oficial de cavalaria;\n\nDas 17.ª e 24.ª cadeiras. — Um oficial de engenharia;\n\nDa 19.ª cadeira. — Um oficial de qualquer arma habilitado com a cadeira de astronomia e geodesia das Faculdades de Sciências ou equivalentes do Instituto Superior Técnico, ou da Escola do Exército, Escola de Guerra e Escola Militar;\n\nDas 20.ª e 21.ª cadeiras. — Um oficial de artilharia habilitado com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o novo curso complementar de artilharia da Escola Militar;\n\nDas 22.ª e 27.ª cadeiras. — Um oficial de engenharia, ou de qualquer arma, com o curso de engenheiro civil;\n\nDas 23.ª e 28.ª cadeiras. — Um oficial de engenharia, ou de qualquer arma, com o curso de engenharia civil;\n\nDa 25.ª cadeira. — Um oficial de engenharia, ou de qualquer arma, habilitado com o curso de engenheiro electrotécnico, professado em qualquer escola superior de engenharia;\n\nDa 26.ª cadeira. — Um oficial de engenharia, ou de qualquer arma, habilitado com o curso de engenharia civil;\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259703": {
+   "fragment_id": "907145431",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 17.º\n\nAo mestre de gimnástiea e esgrima que actualmente presta serviço na Escola é garantido o lugar que desempenha.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259704": {
+   "fragment_id": "907145432",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 18.º\n\nOs professores e professores adjuntos da Escola Militar não deverão ter pôsto inferior, respectivamente, a capitão e tenente, e permanecerão no exercício do magistério até atingirem o pôsto de coronel ou completarem dez anos de serviço, na Escola, como professores efectivos.\n\n§ 1.º Os professores e professores adjuntos, que, por efeito dêste artigo, tenham de deixar o magistério deverão continuar em exercício até a conclusão dos trabalhos escolares do ano lectivo que estiver correndo, e serão exonerados por diploma similar ao da nomeação.\n\n§ 2.º Aos professores e professores adjuntos continuam a ser aplicáveis as disposições a que se refere o artigo 29.º da carta de lei de 13 de Maio de 1896.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259705": {
+   "fragment_id": "907145434",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 20.º\n\nAs condições de admissão ao concurso a que se refere o artigo anterior serão as seguintes:\n\nA) Para os cursos de infantaria e cavalaria:\n\n1.ª Não ter completado 21 anos de idade no dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.ª Ter bom comportamento militar e civil;\n\n3.ª Possuir o curso de sciências dos liceus ou do Colégio Militar;\n\n4.ª Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades, ou nas equivalentes professadas no Instituto Superior Técnico:\n\na) Álgebra superior, geometria analítica e trigonometria esférica;\n\nb) Curso geral de física;\n\nc) Desenho rigoroso.\n\n5.ª Ser aprovado por uma junta de inspecção, que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército.\n\nB) Para o curso de artilharia:\n\n1.ª Não ter completado 24 anos de idade no dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.ª Ter bom comportamento militar e civil;\n\n3.ª Possuir o curso de sciências dos liceus ou Colégio Militar;\n\n4.ª Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades, ou nas equivalentes professadas no Instituto Superior Técnico:\n\na) Álgebra superior, geometria analítica e trigonometria esférica;\n\nb) Geometria descritiva e estereotomia;\n\nc) Curso geral de física;\n\nd) Desenho rigoroso;\n\ne) Cálculo infinitesimal;\n\nf) Curso geral de química;\n\ng) Desenho de máquinas.\n\n5.ª Ser aprovado por uma junta de inspecção, que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército.\n\nC) Para o curso de engenharia militar:\n\n1.ª Não ter completado 24 anos de idade no dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.ª Ter bom comportamento militar e civil;\n\n3.ª Possuir o curso de sciências dos liceus ou do Colégio Militar;\n\n4.ª Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades, ou nas equivalentes professadas no Instituto Superior Técnico:\n\na) Álgebra superior, geometria analítica e trigonometria esférica;\n\nb) Geometria descritiva e estereotomia;\n\nc) Curso geral de física;\n\nd) Desenho rigoroso;\n\ne) Cálculo infinitesimal;\n\nf) Curso geral de química;\n\ng) Curso geral de mineralogia e geologia;\n\nh) Desenho de máquinas;\n\ni) Mecânica racional;\n\nj) Acústica, óptica e calor;\n\nk) Análise química pura e aplicada;\n\nl) Economia política.\n\n5.ª Ser aprovado por uma junta de inspecção, que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército.\n\nD) Para o curso de administração militar:\n\n1.ª Não ter completado 22 anos de idade no dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.ª Ter bom comportamento militar e civil;\n\n3.ª Possuir o 5.º ano do curso dos liceus, ou habilitação equivalente do Instituto Profissional dos Pupilos do Exército;\n\n4.ª Possuir qualquer dos cursos professados no Instituto Superior de Comércio ou os cursos geral e médio de comércio de qualquer dos institutos comerciais ou do Instituto Profissional dos Pupilos do Exército, que se compõem das seguintes disciplinas e cursos práticos:\n\nA) Curso geral de comércio:\n\na) Matemáticas elementares;\n\nb) Física geral (1.ª parte);\n\nc) Química geral. Elementos de análise química (1.ª parte);\n\nd) Tecnologia;\n\ne) Inglês;\n\nf) Matemáticas gerais;\n\ng) Física geral (2.ª parte);\n\nh) Química geral. Elementos de análise química (2.ª parte);\n\ni) Geografia e história, económicas (1.ª parte);\n\nj) Mineralogia e geologia;\n\nk) Inglês e dos cursos práticos de francês, caligrafia, dactilografia e estenografia;\n\nB) Curso médio de comércio:\n\nl) Análise química;\n\nm) Geografia e história, económicas (2.ª parte);\n\nn) Contabilidade geral;\n\no) Aritmética comercial;\n\np) Direito político, administrativo e civil;\n\nq) Matérias primas e mercadorias;\n\nr) Sciência económica;\n\na) Contabilidade aplicada;\n\nt) Álgebra financeira;\n\nu) Direito comercial e marítimo;\n\nv) Higiene e dos cursos práticos de francês, inglês, escritório comercial, laboratórios químico e de matérias primas e higiene.\n\n5.ª Ser aprovado por uma junta de inspecção, que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército.\n\nE) Para o curso complementar de artilharia:\n\n1.ª Possuir o curso da arma de artilharia da Escola Militar;\n\n2.ª Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades, ou nas equivalentes professadas no Instituto Superior Técnico:\n\na) Mecânica racional;\n\nb) Química orgânica;\n\nc) Curso geral de mineralogia e geologia.\n\n3.ª Ter pôsto não superior a capitão;\n\n4.ª Ter exemplar comportamento e boas informações dos comandantes sob cujas ordens tenha servido, especialmente pelo que se refere à sua competência técnica.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907093670": {
+   "fragment_id": "907145450",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO Ministério da Guerra fará publicar todos os anos, até 30 de Junho, no Diário do Govêrno e na Ordem do Exército, o número de alunos a admitir, no ano lectivo seguinte, à matrícula nos diversos cursos."
+  },
+  "907093671": {
+   "fragment_id": "907145451",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs alunos que concluírem com aprovação o 1.º ano (comum) dos cursos de infantaria e cavalaria serão classificados numèricamente pelas provas escolares e, segundo a ordem dessa classificação, terão o direito de optar pela arma que desejem seguir, com as seguintes condições:\n\na) Só poderão optar pela arma de cavalaria os alunos que em equitação tenham obtido a nota mínima de 14 valores;\n\nb) Os alunos repetentes, seja qual fôr a sua classificação, só poderão exercer o direito de opção depois de todos os alunos não repetentes, excepto quando a perda do ano tenha sido motivada por doença devidamente comprovada."
+  },
+  "907093672": {
+   "fragment_id": "907145452",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nOs alunos da Escola Militar, durante a freqüência dos respectivos cursos, serão considerados aspirantes a oficial e equiparados, para efeitos hierárquicos e de honras militares, a «aspirantes de marinha».\n\nSob o ponto de vista de administração e disciplina serão equiparados a primeiros sargentos; os vencimentos serão fixados no regulamento.\n\n§ único. Não ficam compreendidos neste artigo os alunos que sejam oficiais dos quadros permanentes ou milicianos."
+  },
+  "907259706": {
+   "fragment_id": "907145453",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 24.º\n\n§ único. A ordem por que se deverá efectuar a inscrição, nas respectivas escalas de acesso, dos alferes a que se refere êste artigo será determinada pela classificação final do respectivo curso, feita segundo os preceitos estabelecidos no regulamento da Escola.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907093674": {
+   "fragment_id": "907145454",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nOs alunos que não concluam nos prazos legais os cursos em que se matricularem e percam, portanto, o direito à freqüência da Escola, terão o destino que o Ministério da Guerra determinar, tendo em atenção as informações prestadas pela Escola.\n\n§ único. Os alunos do curso complementar de artilharia, quando não possam completar o respectivo curso no prazo legal, recolherão ao serviço das respectivas armas, não podendo voltar a freqüentar êsse curso."
+  },
+  "907259675": {
+   "fragment_id": "907145455",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nHaverá na Escola Militar os seguintes conselhos:\n\n1.º Conselho de Instrução;\n\n2.º Conselhos de curso;\n\n3.º Conselho de disciplina;\n\n4.º Conselho administrativo.\n\n§ único. A composição e atribuïções de cada um dêstes conselhos serão fixadas em disposições regulamentares."
+  },
+  "907259676": {
+   "fragment_id": "907145456",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nTodo o pessoal em serviço na Escola Militar está sujeito às leis, disciplina e regulamentos militares. A competência disciplinar do comandante da Escola é igual à dos comandantes de região com respeito ao pessoal sob as suas ordens, e a do segundo comandante é igual à dos comandantes de regimento, também com respeito ao pessoal sob as suas ordens. Os alunos estão sujeitos não só à disciplina militar, como também à disciplina escolar estabelecida no regulamento da Escola."
+  },
+  "907259677": {
+   "fragment_id": "907145457",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs alunos a quem tenham sido aplicadas penas que, pela legislação em vigor, correspondam às que inibem os sargentos de ser readmitidos serão submetidos ao conselho do disciplina, o qual julgará se os alunos podem continuar a freqüentar a Escola, ou se devem ter baixa do efectivo do corpo de alunos."
+  },
+  "907259678": {
+   "fragment_id": "907145458",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nO Conselho de Instrução proporá anualmente ao Govêrno o professor que deve ir ao estrangeiro proceder a estudos e investigações relativas às sciências professadas na Escola e visitar os estabelecimentos que interessem à especialidade do professor indicado. Na dotação da Escola será anualmente inscrita a verba destinada a êsse fim."
+  },
+  "907259679": {
+   "fragment_id": "907145459",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nNo fim de cada ano lectivo haverá prémios pecuniários, honoríficos ou outros de natureza especial para os alunos, conforme fôr estabelecido no regulamento da Escola."
+  },
+  "907259680": {
+   "fragment_id": "907145460",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nAos alunos que concluírem os cursos de engenharia militar ou complementar de artilharia serão concedidos, respectivamente, os diplomas de engenheiro civil e de engenheiro fabril."
+  },
+  "907259681": {
+   "fragment_id": "907145461",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nA importância dos selos a colar nas cartas de curso, certidões de freqüência e diplomas será a constante da tabela anexa e constitui receita do Estado."
+  },
+  "907259682": {
+   "fragment_id": "907145462",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nConstituem receitas da Escola:\n\n1.º A dotação fixada no Orçamento do Estado;\n\n2.º O produto das propinas de abertura e encerramento de matrícula, das cartas e certidões de aprovação de cadeiras e anos;\n\n3.º O produto das publicações efectuadas por conta dos fundos da Escola;\n\n4.º O produto de exploração dos terrenos da Escola, dos artigos julgados incapazes e quaisquer outras receitas de natureza extraordinária;\n\n5.º As doações, sucessões ou legados que lhe forem transmitidos.\n\n§ único. A dotação a que se refere o n.º 1.º do presente artigo será cobrada por duodécimos e aplicada nos termos da legislação. As receitas constantes dos n.os 2.º, 3.º e 4.º serão aplicadas na razão das necessidades da instrução a quaisquer melhoramentos tendentes à conveniente instalação e desenvolvimento dos respectivos estabelecimentos e dependências escolares. A aplicação da receita a que se refere o n.º 5.º será feita nos termos da vontade dos legatários, testadores ou beneméritos, quando precedida da aceitação do legado ou doação da aprovação do Govêrno."
+  },
+  "907259707": {
+   "fragment_id": "907145463",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 34.º\n\n§ único. O professor que em virtude da aplicação do disposto neste artigo fica disponível permanecerá na Escola nesta situação e será utilizado pelo conselho de instrução, conforme os seus méritos e aptidões, podendo ser colocado nas vagas de professor que se forem dando nas cadeiras para que tenha habilitações legais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259708": {
+   "fragment_id": "907145464",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 35.º\n\nO mestre de gimnástica e esgrima e mestre de equitação terminarão o exercício das funções respectivas quando atingirem o pôsto de tenente-coronel ou decorridos dez anos após a sua nomeação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "908983186": {
+   "fragment_id": "907145465",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 36.º\n\nOs instrutores auxiliares dos mestres de equitação e de gimnástica e esgrima cessarão o exercício das suas funções quando atingirem o pôsto de major ou completarem dez anos de serviço na Escola.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259709": {
+   "fragment_id": "907145466",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 37.º\n\nOs mestres de equitação e de gimnástica e esgrima e os instrutores auxiliares dos mesmos mestres que tenham de deixar o exercício das suas funções nos termos dos artigos 36.º e 37.º deverão continuar em exercício até a conclusão dos trabalhos escolares do ano lectivo que estiver correndo e serão exonerados por diploma similar ao da nomeação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259710": {
+   "fragment_id": "907145467",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 38.º\n\nA presente reorganização será posta em vigor, na parte aplicável, no ano lectivo de 1926-1927.\n\n§ 1.º Aos alunos que à data da publicação dêste diploma freqüentam a Escola é garantida a conclusão dos cursos em que estiverem matriculados, como fôr posteriormente fixado no regulamento escolar, conservando porém todas as vantagens e regalias a que tinham direito pela legislação anterior a êste diploma.\n\n§ 2.º Até final do ano lectivo de 1926-1927 a 2.ª cadeira da Escola Militar (Sociologia. Direito constitucional, administrativo e internacional), que consta do artigo 3.º do decreto n.º 12:740, agora modificado, continuará funcionando para todos os cursos que a freqüentavam.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259711": {
+   "fragment_id": "907145468",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 39.º\n\nA substituição dos actuais professores da Escola Militar far-se há saindo no fim de cada ano lectivo os que tenham atingido o pôsto de coronel da sua arma ou serviço e os que tenham completado dez anos de serviço na Escola, contados da data da sua nomeação para professor efectivo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259712": {
+   "fragment_id": "907260291",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 40.º\n\nNo regulamento da Escola serão fixadas as disposições de carácter transitório que forem julgadas necessárias para a aplicação do presente diploma.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259715": {
+   "fragment_id": "907260292",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": "1927-05-23",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 41.º\n\nFica revogada a legislação em contrário.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "907259716": {
+   "fragment_id": "907145469",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Paços do Govêrno da República, 25 de Outubro do 1926. - O Ministro da Guerra, António Óscar de Fragoso Carmona."
+  },
+  "907259717": {
+   "fragment_id": "907145470",
+   "type": 14,
+   "heading": "Anexo — Importância a pagar pelas propinas de matrícula, cartas e certidões de aprovação de anos dos diferentes cursos da Escola Militar, a que se refere o artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Importância a pagar pelas propinas de matrícula, cartas e certidões de aprovação de anos dos diferentes cursos da Escola Militar, a que se refere o artigo 32.º\n\nTabela 1\n\n(ver documento original)\n\nPaços do Govêrno da República, 25 de Outubro de 1926. - O Ministro da Guerra, António Óscar de Fragoso Carmona."
+  },
+  "908700904": {
+   "fragment_id": "907145430",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1928-03-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 15122 - Diário do Govêrno n.º 54/1928, Série I de 1928-03-07](https://diariodarepublica.pt/dr/detalhe/decreto/15122-1928-647155), em vigor a partir de 1928-03-07",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 16.º\n\nOs professores adjuntos designados no n.º 4.º do artigo 10.º para a execução do que fica exposto no artigo 13.º serão divididos, pelas cadeiras ou grupos de cadeiras, da seguinte forma:\n\nDa 1.ª cadeira. — Um oficial de qualquer arma habilitado com as cadeiras de geometria descritiva e desenho rigoroso das Faculdades de Sciências, ou equivalentes do Instituto Superior Técnico;\n\nDa 5.ª cadeira. — Um oficial de artilharia habilitado com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o novo curso de artilharia da Escola Militar\n\nDas 6.ª e 7.ª cadeiras. — Um oficial de artilharia com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o curso complementar de artilharia da Escola Militar;\n\nDas 8.ª e 16.ª cadeiras. — Um oficial de infantaria;\n\nDas 9.ª, 10.ª e 11.ª cadeiras. — Dois oficiais do serviço de administração militar;\n\nDa 12.ª cadeira. — Um oficial de qualquer arma habilitado com o curso do estado maior e julgado idóneo para o serviço do mesmo;\n\nDa 14.ª cadeira. — Um oficial de artilharia com qualquer curso desta arma da Escola do Exército, Escola de Guerra ou Escola Militar;\n\nDas 13.ª e 18.ª cadeiras. — Um oficial de engenharia;\n\nDa 15.ª cadeira. — Um oficial de cavalaria;\n\nDas 17.ª e 26.ª cadeiras. — um oficial de engenharia;\n\nDa 19.ª cadeira. — Um oficial de qualquer arma habilitado com a cadeira de astronomia e geodesia das Faculdades de Sciências ou equivalentes do Instituto Superior Técnico, ou da Escola do Exército, Escola de Guerra e Escola Militar;\n\nDas 20.ª e 21.ª cadeiras. — Um oficial de artilharia habilitado com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o novo curso complementar de artilharia da Escola Militar;\n\nDas 22.ª e 27.ª cadeiras. — Um oficial de engenharia, ou de qualquer arma, com o curso de engenheiro civil;\n\nDas 23.ª e 28.ª cadeiras. — Um oficial de engenharia, ou de qualquer arma, com o curso de engenharia civil;\n\nDa 24.ª cadeira. — um oficial de engenharia;\n\nDa 25.ª cadeira. — Um oficial de engenharia, ou de qualquer arma, habilitado com o curso de engenheiro electrotécnico, professado em qualquer escola superior de engenharia;\n\nDa 26.ª cadeira. — Um oficial de engenharia, ou de qualquer arma, habilitado com o curso de engenharia civil;\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 15122 - Diário do Govêrno n.º 54/1928, Série I de 1928-03-07](https://diariodarepublica.pt/dr/detalhe/decreto/15122-1928-647155), em vigor a partir de 1928-03-07\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "908700911": {
+   "fragment_id": "907145417",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1930-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs disciplinas professadas na Escola Militar agrupar-se hão em cadeiras pela seguinte forma:\n\n1.ª cadeira. — Geometria aplicada. Desenho militar. Fotografia.\n\n2.ª cadeira. — Administração colonial. Colonização portuguesa. Direito internacional. Educação militar.\n\n3.ª cadeira. — Higiene militar e colonial. Assistência a feridos. Higiene urbana e industrial.\n\n4.ª cadeira. — Organização dos exércitos. Organização militar portuguesa. Estratégia, geografia e história militar.\n\n5.ª cadeira (em dois anos). — Balística externa e resistência das bôcas de fogo.\n\n6.ª cadeira (em dois anos). — Balística externa e suas aplicações. Meteorologia.\n\n7.ª cadeira. — Material de artilharia.\n\n8.ª cadeira (em dois anos). — Armas portáteis, metralhadoras e engenhos de acompanhamento. Tiro.\n\n9.ª cadeira. — Material e operações navais.\n\n10.ª cadeira (em três anos). — Serviços de administração militar. Escrituração militar e contabilidade dos estabelecimentos produtores do exército.\n\n11.ª cadeira (em dois anos). — Finanças e administração pública. Tecnologia administrativa militar. Organização e administração de emprêsas industriais e comerciais.\n\n12.ª cadeira. — Tática geral. Funcionamento dos diversos serviços em campanha.\n\n13.ª cadeira. — Tática e serviços de engenharia.\n\n14.ª cadeira. — Execução do tiro, tática e serviços de artilharia.\n\n15.ª cadeira (em dois anos). — Tática de cavalaria.\n\n16.ª cadeira (em dois anos). — Tática de infantaria.\n\n17.ª cadeira. — Comunicações militares. Tática do serviço de transmissões.\n\n18.ª cadeira. — Fortificação.\n\n19.ª cadeira (em dois anos). — Astronomia. Geodesia. Topografia.\n\n20.ª cadeira (em dois anos). — Aços e ligas metálicas. Tecnologia mecânica, industrial e profissional. Organização e direcção de oficinas. Fabrico do material de guerra.\n\n21.ª cadeira (em dois anos). — Indústrias químicas, explosivos e gases de guerra.\n\n22.ª cadeira (em dois anos). — Resistência dos materiais. Estabilidade de construções. Betom armado.\n\n23.ª cadeira (em dois anos). — Materiais e processos gerais de construção. Construções civis e industriais. Arquitectura.\n\n24.ª cadeira (em dois anos). — Mecânica aplicada às máquinas. Máquinas térmicas. Automóveis e aparelhos aeronáuticos.\n\n25.ª cadeira (em dois anos). — Electrotecnia geral. Máquinas eléctricas Aplicações da electricidade.\n\n26.ª cadeira. — Hidráulica geral. Máquinas hidráulicas. Hidráulica urbana e agrícola.\n\n27.ª cadeira (em dois anos). — Pontes. Túneis. Trabalhos marítimos e fluviais. Portos.\n\n28.ª cadeira. — Estradas. Caminhos de ferro.\n\n§ único. O Govêrno, sob proposta fundamentada do conselho de instrução da Escola Militar, poderá modificar a distribuição das disciplinas pelas cadeiras ou criar nestas rubricas novas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "908700912": {
+   "fragment_id": "907145418",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1930-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27"
+   ],
+   "markdown": "###### Artigo 4.º\n\nA duração dos cursos professados na Escola será:\n\na) Curso de infantaria — três anos;\n\nb) Curso de artilharia — quatro anos;\n\nc) Curso, de cavalaria — três anos;\n\nd) Curso de engenharia militar — quatro anos;\n\ne) Curso de administração militar — três anos;\n\nf) Curso complementar de artilharia — um ano.\n\n§ único. Para a conclusão dêstes cursos, com excepção do complementar de artilharia, será concedida a tolerância de um ano.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27"
+  },
+  "908700913": {
+   "fragment_id": "907145421",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1930-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27"
+   ],
+   "markdown": "###### Artigo 7.º\n\nPara verificar se os alunos possuem os conhecimentos constantes dos respectivos programas, haverá, anualmente e por cada cadeira, exames.\n\n§ 1.º Haverá uma segunda época de exames, apenas para os alunos que na primeira época não tenham obtido aprovação em uma ou duas das cadeiras do ano do respectivo curso.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27"
+  },
+  "908700914": {
+   "fragment_id": "907145424",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1930-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 10.º\n\nHaverá na Escola o seguinte pessoal:\n\n1.º Um comandante, oficial general do quadro do activo ou da reserva, quando tenha atingido êste pôsto no quadro activo.\n\n2.º Um segundo comandante, coronel com o curso da respectiva arma.\n\n3.º Um adjunto do segundo comandante, major ou tenente-coronel com o curso da respectiva arma.\n\n4.º Vinte e oito professores efectivos, sendo vinte e sete oficiais do exército e um de marinha.\n\n5.º Dezassete professores adjuntos, oficiais do exército.\n\n6.º O número de instrutores de tática, de nomeação anual, função do número de alunos, para auxiliares dos professores e professores adjuntos nos trabalhos práticos e de aplicação, das cadeiras de tática, tenentes ou capitães da respectiva arma, de preferência para a 12.ª cadeira, com o curso do estado maior.\n\n7.º Um mestre de equitação, major ou capitão de cavalaria.\n\n8.º Um auxiliar do mestre de equitação, tenente ou capitão de cavalaria.\n\n9.º Um mestre de gimnástica e esgrima, major ou capitão devidamente diplomado, e dois instrutores de gimnástica e esgrima, tenentes ou capitães devidamente diplomados.\n\n10.º O número de instrutores, de nomeação anual, função do efectivo do corpo de alunos, para auxiliares do mestre de gimnástica e esgrima, tenentes ou capitães devidamente diplomados.\n\n11.º Dois assistentes, um no laboratório químico e outro no laboratório fotográfico, tenentes, capitães ou majores, de preferência oficiais em serviço na Escola.\n\n12.º Um médico de patente não superior a major.\n\n13.º Um dentista, oficial do quadro activo ou miliciano.\n\n14.º Um veterinário de patente não superior a major.\n\n15.º Um secretário da Escola, oficial de qualquer arma, de patente não superior a major.\n\n16.º Um ajudante da secretaria, oficial de qualquer arma, de patente não superior a capitão.\n\n17.º Um comandante do corpo de alunos, major ou capitão com o curso de qualquer arma, e dez tenentes ou capitães, para o serviço do mesmo corpo e das secções, com o curso da respectiva arma, devendo haver, pelo menos, um de cavalaria e dois de artilharia.\n\n18.º Um comandante da secção montada, capitão ou tenente de cavalaria ou artilharia, e um comandante da secção apeada, capitão ou tenente de infantaria.\n\n19.º Um oficial de tiro e armamento, tenente ou capitão de infantaria especializado em metralhadoras ligeiras e em granadas.\n\n20.º Um relator, um tesoureiro e um secretário do conselho administrativo, respectivamente: oficial superior do quadro activo ou da reserva, de qualquer arma ou serviço; capitão ou tenente do serviço de administração militar e subalterno do serviço de administração militar.\n\n21.º Um bibliotecário, oficial superior do quadro activo, reserva ou reformado, com o curso de qualquer arma, e um ajudante de bibliotecário, oficial com o curso de qualquer arma ou do quadro activo ou da reserva.\n\n22.º Um arquivista, oficial de qualquer arma ou do extinto quadro dos capelães militares.\n\n23.º Dois oficiais do quadro auxiliar dos serviços de engenharia ou de artilharia, tenentes ou capitães.\n\n24.º O pessoal que fôr determinado no regulamento da Escola para o bom funcionamento dos diferentes serviços e das várias dependências escolares.\n\n§ 1.º Os lugares de assistentes dos laboratórios químico e fotográfico serão de preferência desempenhados, por acumulação, por oficiais em serviço na Escola.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "908700915": {
+   "fragment_id": "907145429",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1930-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 15.º\n\nPara execução do que fica exposto nos artigos 13.º e 14.º ter-se há em atenção que só poderão ser providos nos lugares de professores:\n\nDa 1.ª cadeira. — Oficiais de qualquer arma habilitados com as cadeiras de geometria descritiva e de desenho rigoroso das Faculdades de Sciências ou equivalentes do Instituto Superior Técnico.\n\nDa 2.ª cadeira. — Oficial de qualquer arma.\n\nDa 3.ª cadeira. — Oficial médico do respectivo quadro.\n\nDa 4.ª cadeira. — Oficiais de qualquer arma habilitados com o curso do estado maior.\n\nDas 5.ª e 6.ª cadeiras. — Oficiais de artilharia habilitados com o curso dessa arma da Escola do Exército, ou com o curso de artilharia a pé, ou com o curso de artilharia da Escola Militar.\n\nDa 9.ª cadeira. — Oficial de marinha.\n\nDas 10.ª e 11.ª cadeiras. Oficiais do serviço de administração militar.\n\nDa 12.ª cadeira. — Oficiais de qualquer arma habilitados com o curso do estado maior e julgados idóneos para o serviço do mesmo.\n\nDa 14.ª cadeira. — Oficiais de artilharia com qualquer curso desta arma da Escola do Exército, Escola de Guerra ou Escola Militar.\n\nDas 7.ª, 20.ª e 21.ª cadeiras. — Oficiais de artilharia habilitados com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé, ou com o curso complementar de artilharia da Escola Militar.\n\nDa 8.ª e 16.ª cadeiras. — Oficiais de infantaria.\n\nDas 13.ª, 17.ª, 18.ª e 24.ª cadeiras. — Oficiais de engenharia militar.\n\nDa 15.ª cadeira. — Oficiais de cavalaria.\n\nDa 19.ª cadeira. — Oficiais de qualquer arma habilitados com a cadeira de astronomia e geodesia das Faculdades de Sciências ou equivalentes do Instituto Superior Técnico ou da Escola do Exército, Escola de Guerra e Escola Militar.\n\nDas 22.ª, 23.ª, 26.ª, 27.ª e 28.ª cadeiras. — Oficiais de engenharia militar ou de qualquer arma habilitados com o curso de engenharia civil.\n\nDa 25.ª cadeira. — Oficiais de engenharia militar ou de qualquer arma com o curso de engenheiro electrotécnico professado em qualquer Instituto Superior de Engenharia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "908700916": {
+   "fragment_id": "907145430",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1930-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 15122 - Diário do Govêrno n.º 54/1928, Série I de 1928-03-07](https://diariodarepublica.pt/dr/detalhe/decreto/15122-1928-647155), em vigor a partir de 1928-03-07",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 16.º\n\nOs professores adjuntos designados no n.º 5.º do artigo 10.º, para a execução do que fica exposto no artigo 13.º, serão divididos pelas cadeiras ou grupos de cadeiras das seguintes formas\n\nDa 1.ª cadeira. — Um oficial de qualquer arma habilitado com as cadeiras de geometria descritiva e desenho rigoroso das Faculdades de Sciências ou equivalentes do Instituto Superior Técnico.\n\nDas 5.ª e 7.ª cadeiras. — Um oficial de artilharia habilitado com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o curso complementar de artilharia da Escola Militar.\n\nDa 6.ª cadeira. — Um oficial de artilharia com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o curso de artilharia da Escola Militar.\n\nDa 10.ª cadeira. — Um oficial do serviço de administração militar.\n\nDa 11.ª cadeira. — Um oficial do serviço de administração militar.\n\nDa 8.ª e 16.ª cadeiras. — Um oficial de infantaria.\n\nDa 12.ª cadeira. — Um oficial de qualquer arma habilitado com o curso do estado maior e julgado idóneo para o serviço do mesmo.\n\nDa 14.ª cadeira. — Um oficial de artilharia com qualquer curso desta arma da Escola do Exército, Escola de Guerra ou Escola Militar.\n\nDas 13.ª e 18.ª cadeiras. — Um oficial de engenharia.\n\nDa 15.ª cadeira. — Um oficial de cavalaria.\n\nDa 17.ª cadeira. — Um oficial de engenharia.\n\nDas 24.ª e 26.ª cadeiras. — Um oficial de engenharia.\n\nDa 19.ª cadeira. — Um oficial de qualquer arma habilitado com a cadeira de geodesia e astronomia das Faculdades de Sciências ou equivalentes do Instituto Superior Técnico, Escola do Exército, Escola de Guerra ou Escola Militar.\n\nDas 20.ª e 21.ª cadeiras. — Um oficial de artilharia habilitado com o curso dessa arma da Escola do Exército, com o curso de artilharia a pé ou com o curso complementar de artilharia da Escola Militar.\n\nDas 22.ª e 27.ª cadeiras. — Um oficial de engenharia, ou de qualquer arma com o curso de engenharia civil.\n\nDas 23.ª e 28.ª cadeiras. — Um oficial de engenharia, ou de qualquer arma com o curso de engenharia civil.\n\nDa 25.ª cadeira. — Um oficial dá engenharia, ou de qualquer arma habilitado com o curso de engenheiro electrotécnico, professado em qualquer escola superior de engenharia.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 15122 - Diário do Govêrno n.º 54/1928, Série I de 1928-03-07](https://diariodarepublica.pt/dr/detalhe/decreto/15122-1928-647155), em vigor a partir de 1928-03-07\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "908700917": {
+   "fragment_id": "907145432",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1930-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 18.º\n\nOs professores e professores adjuntos da Escola Militar não deverão ter pôsto inferior, respectivamente, a capitão e tenente, e permanecerão no exercício do magistério até atingirem respectivamente o pôsto de coronel e tenente coronel, ficando uns e outros obrigados a todas as condições de tirocínio e permanência nas tropas.\n\n§ 1.º Os professores e professores adjuntos que por efeito dêste artigo tenham de deixar o magistério deverão continuar em exercício até a conclusão dos trabalhos escolares do ano lectivo que estiver correndo, e serão exonerados por diploma similar ao da nomeação.\n\n§ 2.ª Aos professores e professores adjuntos continuam a ser aplicáveis as disposições a que se refere o artigo 29.º da carta de lei de 13 de Maio de 1896.\n\n§ 3.º A doutrina dêste artigo e seus parágrafos aplica-se tanto aos professores e professores adjuntos que venham a ser nomeados nos termos do presente diploma, como àqueles que actualmente se encontram no exercício das funções do magistério na Escola Militar, sendo ainda aos actuais professores adjuntos garantidos os direitos consignados na legislação ao abrigo da qual forem nomeados.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "908700918": {
+   "fragment_id": "907145434",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1930-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 20.º\n\nAs condições de admissão ao concurso a que se refere o artigo anterior serão as seguintes:\n\nA) Para os cursos de cavalaria e infantaria\n\n1.º Não ter completado vinte e dois anos de idade até o dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.º Ter bom comportamento militar e civil;\n\n3.º Possuir o curso completo de sciências dos liceus ou do Colégio Militar;\n\n4.º Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades:\n\na) Álgebra superior, geometria analítica e trigonometria esférica;\n\nb) Curso geral de física;\n\nc) Desenho rigoroso;\n\nou nas seguintes, professadas no Instituto Superior Técnico:\n\na) Matemáticas gerais;\n\nb) Física industrial (1.ª e 2.ª partes);\n\nc) Desenho de construção civil;\n\n5.º Ser aprovado por uma junta de inspecção, que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército;\n\n6.º Ter altura não inferior a 1 m,58.\n\nB) Curso de artilharia\n\n1.º Não ter completado vinte e quatro anos de idade até o dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.º Ter bom comportamento militar e civil;\n\n3.º Possuir o curso completo de sciências dos liceus ou do Colégio Militar;\n\n4.º Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades:\n\na) Álgebra superior, geometria analítica, trigonometria esférica;\n\nb) Geometria descritiva e estereotomia;\n\nc) Curso geral de física;\n\nd) Desenho rigoroso;\n\ne) Desenho de máquinas;\n\nf) Cálculo infinitesimal;\n\ng) Curso geral de química;\n\nou nas seguintes, professadas no Instituto Superior Técnico:\n\na) Matemáticas gerais;\n\nb) Geometria descritiva (1.ª e 2.ª partes);\n\nc) Física industrial (1.ª e 2.ª partes);\n\nd) Desenho de construção civil;\n\ne) Desenho de máquinas;\n\nf) Cálculo diferencial, integral e das variações;\n\ng) Química geral;\n\n5.º Ser aprovado por uma junta de inspecção, que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército;\n\n6.º Ter altura não inferior a 1 m,58.\n\nC) Para o curso de engenharia militar\n\n1.º Não ter completado vinte e quatro anos de idade até o dia 20 de Outubro do ano em que pretenda matricular se;\n\n2.º Ter bom comportamento militar e civil;\n\n3.º Possuir o curso completo de sciências dos liceus ou do Colégio Militar;\n\n4.º Ter aprovação nas seguintes disciplinas, professadas em qualquer das Universidades:\n\na) Álgebra superior, geometria analítica e trigonometria esférica;\n\nb) Geometria descritiva e estereotomia;\n\nc) Curso geral de física;\n\nd) Curso de termodinâmica;\n\ne) Desenho rigoroso;\n\nf) Desenho de máquinas;\n\ng) Cálculo infinitesimal;\n\nh) Curso geral de química;\n\ni) Curso geral de mineralogia e geologia;\n\nj) Mecânica racional;\n\nk) Análise química (1.ª parte);\n\nl) Economia política;\n\nou nas seguintes professadas no Instituto Superior Técnico:\n\na) Matemáticas gerais;\n\nb) Geometria descritiva (1.ª e 2.ª partes);\n\nc) Física industrial (1.ª e 2.ª partes);\n\nd) Desenho de construção civil;\n\ne) Desenho de máquinas;\n\nf) Cálculo diferencial, integral e das variações;\n\ng) Química geral;\n\nh) Química inorgânica, orgânica e elementos de análise;\n\ni) Mecânica racional;\n\nj) Economia política. Estatística. Direito industrial;\n\nk) Noções de mineralogia e geologia;\n\n5.º Ser aprovado por uma junta de inspecção, que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército;\n\n6.º Ter altura não inferior a 1 m,58.\n\nD) Para o curso de administração militar\n\n1.º Não ter completado vinte e dois anos de idade no dia 20 de Outubro do ano em que pretenda matricular-se;\n\n2.º Ter bom comportamento militar e civil;\n\n3.º Possuir qualquer dos cursos professados no Instituto Superior de Comércio ou os cursos geral e médio de comércio do Instituto Profissional dos Pupilos do Exército ou os cursos geral e médio de comércio (com excepção da língua alemã) de qualquer dos institutos comerciais, que se compõem das seguintes disciplinas e cursos práticos:\n\nA) Curso geral do comércio\n\na) Matemáticas elementares. Matemáticas gerais;\n\nb) Física geral (1.ª e 2.ª partes);\n\nc) Química geral (1.ª e 2.ª partes);\n\nd) Tecnologia;\n\ne) Mineralogia e geologia;\n\nf) Geografia e história económicas gerais. Geografia e história económicas de Portugal e colónias;\n\ng) Língua inglesa;\n\nh) Cursos práticos da língua francesa, dactilografia, estenografia e caligrafia.\n\nB)Curso médio do comércio\n\na) Análise química;\n\nb) Matérias primas. Mercadorias;\n\nc) Higiene;\n\nd) Direito político, administrativo e civil. Direito comercial e marítimo;\n\ne) Sciência económica;\n\nf) Cálculo comercial. Operações financeiras. Seguros;\n\ng) Contabilidade geral. Contabilidade aplicada;\n\nh) Cursos práticos de língua francesa e inglesa. Laboratório de análise química e laboratório de matérias primas e mercadorias. Prática de aritmética comercial e de contabilidade geral. Prática de álgebra financeira e de contabilidade aplicada. Escritório comercial;\n\n4.º Ser aprovado por uma junta de inspecção, que verificará se o candidato possui as qualidades necessárias para o exercício da carreira de oficial do exército;\n\n5.º Ter altura não inferior a 1 m,58.\n\n§ único (transitório). Até o concurso de admissão de 1933, inclusive, poderão os candidatos à matrícula no curso de engenharia militar e no curso complementar de artilharia instruir os seus requerimentos com as certidões de aprovação nas disciplinas, professadas em qualquer das Universidades, que eram exigidas pelo decreto n.º 12704, com as rectificações do decreto n.º 13657, de 25 de Outubro de 1926.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "908700919": {
+   "fragment_id": "907145468",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": "1930-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 39.º\n\nNo regulamento da Escola Militar serão fixadas as disposições do carácter transitório que forem julgadas necessárias para a aplicação do presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "908700920": {
+   "fragment_id": "907260291",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": "1930-09-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 40.º\n\nFica revogada a legislação em contrário.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  },
+  "908700925": {
+   "fragment_id": "907145417",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1930-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Govêrno n.º 254/1930, Série I de 1930-10-31](https://diariodarepublica.pt/dr/detalhe/rectificacao/1930-658385), em vigor a partir de 1930-10-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs disciplinas professadas na Escola Militar agrupar-se hão em cadeiras pela seguinte forma:\n\n1.ª cadeira. — Geometria aplicada. Desenho militar. Fotografia.\n\n2.ª cadeira. — Administração colonial. Colonização portuguesa. Direito internacional. Educação militar.\n\n3.ª cadeira. — Higiene militar e colonial. Assistência a feridos. Higiene urbana e industrial.\n\n4.ª cadeira. — Organização dos exércitos. Organização militar portuguesa. Estratégia, geografia e história militar.\n\n5.ª cadeira (em dois anos). — Balística interna e resistência das bôcas de fogo.\n\n6.ª cadeira (em dois anos). — Balística externa e suas aplicações. Meteorologia.\n\n7.ª cadeira. — Material de artilharia.\n\n8.ª cadeira (em dois anos). — Armas portáteis, metralhadoras e engenhos de acompanhamento. Tiro.\n\n9.ª cadeira. — Material e operações navais.\n\n10.ª cadeira (em três anos). — Serviços de administração militar. Escrituração militar e contabilidade dos estabelecimentos produtores do exército.\n\n11.ª cadeira (em dois anos). — Finanças e administração pública. Tecnologia administrativa militar. Organização e administração de emprêsas industriais e comerciais.\n\n12.ª cadeira. — Tática geral. Funcionamento dos diversos serviços em campanha.\n\n13.ª cadeira. — Tática e serviços de engenharia.\n\n14.ª cadeira. — Execução do tiro, tática e serviços de artilharia.\n\n15.ª cadeira (em dois anos). — Tática de cavalaria.\n\n16.ª cadeira (em dois anos). — Tática de infantaria.\n\n17.ª cadeira. — Comunicações militares. Tática do serviço de transmissões.\n\n18.ª cadeira. — Fortificação.\n\n19.ª cadeira (em dois anos). — Astronomia. Geodesia. Topografia.\n\n20.ª cadeira (em dois anos). — Aços e ligas metálicas. Tecnologia mecânica, industrial e profissional. Organização e direcção de oficinas. Fabrico do material de guerra.\n\n21.ª cadeira (em dois anos). — Indústrias químicas, explosivos e gases de guerra.\n\n22.ª cadeira (em dois anos). — Resistência dos materiais. Estabilidade de construções. Betom armado.\n\n23.ª cadeira (em dois anos). — Materiais e processos gerais de construção. Construções civis e industriais. Arquitectura.\n\n24.ª cadeira (em dois anos). — Mecânica aplicada às máquinas. Máquinas térmicas. Automóveis e aparelhos aeronáuticos.\n\n25.ª cadeira (em dois anos). — Electrotecnia geral. Máquinas eléctricas Aplicações da electricidade.\n\n26.ª cadeira. — Hidráulica geral. Máquinas hidráulicas. Hidráulica urbana e agrícola.\n\n27.ª cadeira (em dois anos). — Pontes. Túneis. Trabalhos marítimos e fluviais. Portos.\n\n28.ª cadeira. — Estradas. Caminhos de ferro.\n\n§ único. O Govêrno, sob proposta fundamentada do conselho de instrução da Escola Militar, poderá modificar a distribuição das disciplinas pelas cadeiras ou criar nestas rubricas novas.\n\n> Retificado pelo/a [Rectificação - Diário do Govêrno n.º 254/1930, Série I de 1930-10-31](https://diariodarepublica.pt/dr/detalhe/rectificacao/1930-658385), em vigor a partir de 1930-10-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 18883 - Diário do Govêrno n.º 225/1930, Série I de 1930-09-27](https://diariodarepublica.pt/dr/detalhe/decreto/18883-1930-657436), em vigor a partir de 1930-09-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto n.º 13657 - Diário do Govêrno n.º 105/1927, Série I de 1927-05-23](https://diariodarepublica.pt/dr/detalhe/decreto/13657-1927-687398), em vigor a partir de 1927-05-23"
+  }
+ }
+}

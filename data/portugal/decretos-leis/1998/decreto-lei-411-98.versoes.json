@@ -1,0 +1,1058 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:286106:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-223121760",
+ "dre_path": "/dr/detalhe/decreto-lei/411-1998-286106",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "223076514",
+    "223076515",
+    "223076516",
+    "223076517",
+    "223076518",
+    "223076519",
+    "223076520",
+    "223076521",
+    "223076522",
+    "223076523",
+    "223076524",
+    "223076525",
+    "223076526",
+    "223076527",
+    "223076528",
+    "223076529",
+    "223076530",
+    "223076531",
+    "223076532",
+    "223076533",
+    "223076534",
+    "223076535",
+    "223076536",
+    "223076537",
+    "223076538",
+    "223076539",
+    "223076540",
+    "223076541",
+    "223076542",
+    "223076543",
+    "223076544",
+    "223076545",
+    "223076546",
+    "223076547",
+    "223076548",
+    "223076549",
+    "223076550",
+    "223076551",
+    "223076552",
+    "223076553",
+    "223076554",
+    "223076555",
+    "223076556",
+    "223076557",
+    "223076558",
+    "223076559",
+    "223076561",
+    "223076562"
+   ]
+  },
+  {
+   "date": "2000-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:405936:por",
+     "title": "Decreto-Lei n.º 5/2000",
+     "published": "2000-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/5-2000-405936"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "223076514",
+    "223076515",
+    "223076516",
+    "223076565",
+    "223076518",
+    "223076566",
+    "223076520",
+    "223076567",
+    "223076522",
+    "223076568",
+    "223076524",
+    "223076525",
+    "223076526",
+    "223076569",
+    "223076570",
+    "223076529",
+    "223076530",
+    "223076531",
+    "223076532",
+    "223076533",
+    "223076534",
+    "223076535",
+    "223076536",
+    "223076537",
+    "223076538",
+    "223076539",
+    "223076540",
+    "223076541",
+    "223076542",
+    "223076543",
+    "223076544",
+    "223076545",
+    "223076546",
+    "223076547",
+    "223076548",
+    "223076549",
+    "223076571",
+    "223076551",
+    "223076552",
+    "223076553",
+    "223076554",
+    "223076555",
+    "223076556",
+    "223076557",
+    "223076558",
+    "223076559",
+    "223076560",
+    "223076561",
+    "223076562"
+   ]
+  },
+  {
+   "date": "2000-07-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:319932:por",
+     "title": "Decreto-Lei n.º 138/2000",
+     "published": "2000-07-13",
+     "dre_path": "/dr/detalhe/decreto-lei/138-2000-319932"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "223076514",
+    "223076515",
+    "223076516",
+    "223076565",
+    "223076518",
+    "223076566",
+    "223076520",
+    "223076567",
+    "223076522",
+    "223076568",
+    "223076524",
+    "223076525",
+    "223076526",
+    "223076574",
+    "223076570",
+    "223076529",
+    "223076530",
+    "223076531",
+    "223076532",
+    "223076533",
+    "223076534",
+    "223076535",
+    "223076536",
+    "223076537",
+    "223076538",
+    "223076539",
+    "223076540",
+    "223076541",
+    "223076542",
+    "223076543",
+    "223076544",
+    "223076545",
+    "223076546",
+    "223076547",
+    "223076548",
+    "223076549",
+    "223076571",
+    "223076551",
+    "223076552",
+    "223076553",
+    "223076554",
+    "223076555",
+    "223076556",
+    "223076557",
+    "223076558",
+    "223076559",
+    "223076560",
+    "223076561",
+    "223076562"
+   ]
+  },
+  {
+   "date": "2006-08-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:537249:por",
+     "title": "Lei n.º 30/2006",
+     "published": "2006-07-11",
+     "dre_path": "/dr/detalhe/lei/30-2006-537249"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 25.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "223076514",
+    "223076515",
+    "223076516",
+    "223076565",
+    "223076518",
+    "223076566",
+    "223076520",
+    "223076567",
+    "223076522",
+    "223076568",
+    "223076524",
+    "223076525",
+    "223076526",
+    "223076574",
+    "223076570",
+    "223076529",
+    "223076530",
+    "223076531",
+    "223076532",
+    "223076533",
+    "223076534",
+    "223076535",
+    "223076536",
+    "223076537",
+    "223076538",
+    "223076539",
+    "223076540",
+    "223076541",
+    "223076542",
+    "223076543",
+    "223076544",
+    "223076545",
+    "223076546",
+    "223076547",
+    "223076548",
+    "223076549",
+    "223204175",
+    "223076551",
+    "223204176",
+    "223076553",
+    "223204177",
+    "223076555",
+    "223076556",
+    "223076557",
+    "223076558",
+    "223076559",
+    "223076560",
+    "223076561",
+    "223076562"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:307671:por",
+     "title": "Decreto-Lei n.º 109/2010",
+     "published": "2010-10-14",
+     "dre_path": "/dr/detalhe/decreto-lei/109-2010-307671",
+     "date": "2010-08-10"
+    }
+   ]
+  },
+  {
+   "date": "2010-12-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:307671:por",
+     "title": "Decreto-Lei n.º 109/2010",
+     "published": "2010-10-14",
+     "dre_path": "/dr/detalhe/decreto-lei/109-2010-307671"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 31.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "223076514",
+    "223076515",
+    "223076516",
+    "223204178",
+    "223076518",
+    "223204179",
+    "223076520",
+    "223076567",
+    "223076522",
+    "223076568",
+    "223076524",
+    "223076525",
+    "223076526",
+    "223076574",
+    "223204180",
+    "223076529",
+    "223076530",
+    "223076531",
+    "223076532",
+    "223076533",
+    "223076534",
+    "223076535",
+    "223076536",
+    "223076537",
+    "223076538",
+    "223204181",
+    "223076540",
+    "223204186",
+    "223076542",
+    "223076543",
+    "223076544",
+    "223076545",
+    "223204187",
+    "223076547",
+    "223076548",
+    "223076549",
+    "223204182",
+    "223076551",
+    "223204176",
+    "223076553",
+    "223204183",
+    "223076555",
+    "223076556",
+    "223204184",
+    "223076558",
+    "223076559",
+    "223076560",
+    "223204185",
+    "223076562"
+   ]
+  },
+  {
+   "date": "2016-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74661189:por",
+     "title": "Lei n.º 14/2016",
+     "published": "2016-06-09",
+     "dre_path": "/dr/detalhe/lei/14-2016-74661189"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 31.º-A"
+   ],
+   "fragments": [
+    "223076514",
+    "223076515",
+    "223076516",
+    "223204178",
+    "223076518",
+    "223204179",
+    "223076520",
+    "223076567",
+    "223076522",
+    "223076568",
+    "223076524",
+    "223076525",
+    "223076526",
+    "223076574",
+    "223204180",
+    "223076529",
+    "223076530",
+    "223076531",
+    "223076532",
+    "223076533",
+    "223076534",
+    "223076535",
+    "223076536",
+    "223076537",
+    "223076538",
+    "223204181",
+    "223076540",
+    "223204186",
+    "223076542",
+    "223076543",
+    "223076544",
+    "223076545",
+    "223204187",
+    "223076547",
+    "223076548",
+    "223076549",
+    "223204182",
+    "223076551",
+    "223204176",
+    "223076553",
+    "223204183",
+    "223076555",
+    "223076556",
+    "223204184",
+    "223204188",
+    "223204189",
+    "223204190",
+    "223076560",
+    "223204185",
+    "223076562"
+   ]
+  }
+ ],
+ "fragments": {
+  "223076514": {
+   "fragment_id": "223121761",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 411/98\n\nde 30 de Dezembro\n\n1 - O «direito mortuário» português, nos seus aspectos essenciais, encontra-se actualmente disperso por vários diplomas legais, de que convirá destacar o Decreto n.º 44220, de 3 de Março de 1962, que veio estabelecer as normas de polícia e de construção dos cemitérios, o Decreto n.º 48770, de 18 de Dezembro de 1968, em cujos modelos se alicerçaram os regulamentos dos cemitérios entretanto elaborados, o Decreto-Lei n.º 274/82, de 14 de Julho, que veio regular os procedimentos que envolvem a trasladação, a remoção, o enterramento, a cremação e a incineração, bem como o Despacho Normativo n.º 171/82, de 16 de Agosto, que fixou a interpretação e ditou as normas de execução do mencionado decreto-lei.\n\nTal dispersão, a que acrescem a desactualização da terminologia utilizada e a natural evolução dos fenómenos ora tratados, contribuiu, de forma determinante, para um patente desajustamento da disciplina jurídica que resulta dos diplomas já referidos face às grandes transformações sofridas pelo País, designadamente no que toca às vias e aos meios de comunicação, e para uma clara insuficiência de resposta aos graves problemas que a saturação dos espaços dos cemitérios tem vindo a colocar às entidades responsáveis pela administração dos mesmos.\n\n2 - No presente diploma estruturou-se e precisou-se, pela primeira vez, um conjunto de conceitos que se mostravam, por um lado, desajustados da realidade e, por outro, em muitos casos, vazios de conteúdo ou com duplicação de sentidos.\n\nProcedeu-se também ao alargamento das categorias de pessoas com legitimidade para requerer a prática de actos regulados no novo diploma legal, esclarecendo-se quais as entidades a quem o pedido deve ser dirigido.\n\nPor forma a evitar a eventual ocorrência de conflitos negativos de competência nesta área - sempre com consequências funestas -, definem-se os procedimentos a adoptar quando, não havendo lugar à realização de autópsia médico-legal, não seja possível proceder à entrega imediata do corpo a quem possua legitimidade para requerer a sua inumação ou cremação, prevendo-se a possibilidade de colaboração entre diversas entidades, designadamente as autoridades de polícia e os bombeiros, na resolução de situações com reflexos na saúde pública.\n\nUma das preocupações que nortearam a elaboração deste diploma foi a de libertar uma área tão sensível como esta de entraves burocráticos cuja razão de ser se mostrava completamente ultrapassada, deixando assim de considerar como actividade administrativa policial parte da matéria por ele regulada - designadamente a trasladação e a autorização para inumação em locais especiais ou reservados a pessoas de determinadas categorias -, e, ao mesmo tempo, reforçando a competência das autoridades de saúde, dos ministros responsáveis pela administração do território, da saúde e do ambiente, e intensificando as competências das autarquias locais - municípios e freguesias - na qualidade de possuidoras e administradoras de cemitérios.\n\nNesta medida, e na senda do que ocorre há já algum tempo na maior parte dos ordenamentos jurídicos que nos são próximos, estabelece-se a plena equiparação das figuras da inumação e da cremação, isto por as especiais razões de cautela em torno da figura da cremação que transparecem no texto legislativo ora revogado não terem qualquer justificação legal actual e serem, inclusivamente, contrárias às mais recentes preocupações europeias em matéria ambiental e de saúde pública. Consagra-se também a possibilidade de os cadáveres serem inumados em locais de consumpção aeróbia e proíbe-se o recurso a caixões de chumbo, adoptando-se exclusivamente a folha de zinco para a construção de caixões metálicos, em respeito pelo que decorre do Decreto-Lei n.º 274/89, de 21 de Agosto.\n\nÉ ainda com este espírito que se estipula ser suficiente a autorização da entidade responsável pela administração do cemitério para que se proceda a trasladações dentro do mesmo e se reduzem os prazos para exumação, solução esta que de há muito era reclamada face à saturação dos terrenos dos cemitérios, em particular os que servem as grandes áreas urbanas.\n\nFinalmente, legisla-se sobre a mudança de localização de um cemitério.\n\nSão estas, resumidamente, as principais linhas de força do presente diploma legal.\n\n3 - Foram ouvidas a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "223076515": {
+   "fragment_id": "223121762",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "223076516": {
+   "fragment_id": "223121763",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece o regime jurídico da remoção, transporte, inumação, exumação, trasladação e cremação de cadáveres, de cidadãos nacionais ou estrangeiros, bem como de alguns desses actos relativos a ossadas, cinzas, fetos mortos e peças anatómicas, e, ainda, da mudança de localização de um cemitério.\n\n2 - Ao transporte para país estrangeiro de cadáver cujo óbito tenha sido verificado em Portugal e ao transporte para Portugal de cadáver cujo óbito tenha sido verificado em país estrangeiro aplicam-se as disposições contidas no Acordo Internacional Relativo ao Transporte de Cadáveres, assinado em Berlim em 10 de Fevereiro de 1937, aprovado pelo Decreto-Lei n.º 417/70, de 1 de Setembro, e no Acordo Europeu Relativo à Trasladação dos Corpos de Pessoas Falecidas, de 26 de Outubro de 1973, aprovado pelo Decreto n.º 31/79, de 16 de Abril."
+  },
+  "223076517": {
+   "fragment_id": "223121764",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições legais\n\nPara efeitos do disposto no presente decreto-lei, considera-se:\n\na) Autoridade de polícia: a Guarda Nacional Republicana e a Polícia de Segurança Pública;\n\nb) Autoridade de saúde: o delegado regional de saúde, o delegado concelhio de saúde ou os seus adjuntos;\n\nc) Autoridade judiciária: o juiz de instrução e o Ministério Público, cada um relativamente aos actos processuais que cabem na sua competência;\n\nd) Remoção: o levantamento de cadáver do local onde ocorreu ou foi verificado o óbito e o seu subsequente transporte, a fim de se proceder à sua inumação ou cremação - nos casos previstos no n.º 1 do artigo 5.º;\n\ne) Inumação: a colocação de cadáver em sepultura, jazigo ou local de consumpção aeróbia;\n\nf) Exumação: a abertura de sepultura, local de consumpção aeróbia ou caixão de metal onde se encontra inumado o cadáver;\n\ng) Trasladação: o transporte de cadáver inumado em jazigo ou de ossadas para local diferente daquele em que se encontram, a fim de serem de novo inumados, cremados ou colocados em ossário;\n\nh) Cremação: a redução de cadáver ou ossadas a cinzas;\n\ni) Cadáver: o corpo humano após a morte, até estarem terminados os fenómenos de destruição da matéria orgânica;\n\nj) Ossadas: o que resta do corpo humano uma vez terminado o processo de mineralização do esqueleto;\n\nk) Viatura e recipiente apropriados: aqueles em que seja possível proceder ao transporte de cadáveres, ossadas, cinzas, fetos mortos ou recém-nascidos falecidos no período neonatal precoce, em condições de segurança e de respeito pela dignidade humana;\n\nl) Período neonatal precoce: as primeiras cento e sessenta e oito horas de vida;\n\nm) Entidade responsável pela administração de um cemitério: a câmara municipal ou a junta de freguesia, consoante o cemitério em causa pertença ao município ou à freguesia."
+  },
+  "223076518": {
+   "fragment_id": "223121765",
+   "type": 11,
+   "heading": "Artigo 3.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Legitimidade\n\n1 - Têm legitimidade para requerer a prática de actos regulados no presente decreto-lei, sucessivamente:\n\na) O testamenteiro, em cumprimento de disposição testamentária;\n\nb) O cônjuge sobrevivo;\n\nc) A pessoa que vivia com o falecido em condições análogas às dos cônjuges;\n\nd) Qualquer herdeiro;\n\ne) Qualquer familiar;\n\nf) Qualquer pessoa ou entidade.\n\n2 - Se o falecido não tiver a nacionalidade portuguesa, tem também legitimidade o representante diplomático ou consular do país da sua nacionalidade.\n\n3 - O requerimento para a prática desses actos pode também ser apresentado por pessoa munida de procuração com poderes especiais para esse efeito, passada por quem tiver legitimidade nos termos dos números anteriores."
+  },
+  "223076519": {
+   "fragment_id": "223121766",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - A inumação e a cremação devem ser requeridas à entidade responsável pela administração do cemitério onde as mesmas tiverem lugar.\n\n2 - A trasladação deve ser requerida à entidade responsável pela administração do cemitério onde o cadáver ou as ossadas estiverem inumados.\n\n3 - No caso previsto no número anterior, o deferimento do requerimento é da competência da entidade responsável pela administração do cemitério para o qual vão ser trasladados o cadáver ou as ossadas, mediante solicitação da entidade à qual o mesmo foi apresentado.\n\n4 - Compete à câmara municipal do local onde se encontre o cadáver promover a sua inumação no caso previsto no n.º 3 do artigo 8.º, bem como a inumação ou a cremação de fetos mortos abandonados."
+  },
+  "223076520": {
+   "fragment_id": "223121767",
+   "type": 1,
+   "heading": "Capítulo II — Remoção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Remoção"
+  },
+  "223076521": {
+   "fragment_id": "223121768",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime legal\n\n1 - Quando, nos termos da legislação aplicável, não houver lugar à realização de autópsia médico-legal e, por qualquer motivo, não for possível assegurar a entrega do cadáver a qualquer das pessoas ou entidades indicadas no artigo 3.º a fim de se proceder à sua inumação ou cremação dentro do prazo legal, o mesmo é removido para um dos seguintes locais:\n\na) Na área das comarcas de Lisboa, Porto e Coimbra, para a morgue do respectivo Instituto de Medicina Legal;\n\nb) Na área das restantes comarcas, para a casa mortuária dotada de câmara frigorífica que fique mais próxima do local da verificação do óbito.\n\n2 - Nos casos previstos no número anterior, compete à autoridade de polícia:\n\na) Proceder à remoção do cadáver, podendo solicitar para o efeito a colaboração dos bombeiros ou de qualquer entidade pública;\n\nb) Proceder à recolha, arrolamento e guarda do espólio do cadáver.\n\n3 - Fora da área das comarcas de Lisboa, Porto e Coimbra, a autoridade de polícia com jurisdição na área da freguesia onde se encontre instalada uma casa mortuária dotada de câmara frigorífica tem permanente acesso a ela."
+  },
+  "223076522": {
+   "fragment_id": "223121769",
+   "type": 1,
+   "heading": "Capítulo III — Transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Transporte"
+  },
+  "223076523": {
+   "fragment_id": "223121770",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime geral\n\n1 - O transporte de cadáver fora de cemitério, por estrada, é efectuado em viatura apropriada e exclusivamente destinada a esse fim, pertencente à entidade responsável pela administração de um cemitério ou a outra entidade, pública ou privada, dentro de:\n\na) Caixão de madeira - para inumação em sepultura ou em local de consumpção aeróbia;\n\nb) Caixão de zinco com a espessura mínima de 0,4 mm - para inumação em jazigo;\n\nc) Caixão de madeira facilmente destrutível por acção do calor - para cremação.\n\n2 - O transporte de ossadas fora de cemitério, por estrada, é efectuado em viatura apropriada e exclusivamente destinada a esse fim, pertencente à entidade responsável pela administração de um cemitério ou a outra entidade, pública ou privada, dentro de:\n\na) Caixa de zinco com a espessura mínima de 0,4 mm ou de madeira - para inumação em jazigo ou em ossário;\n\nb) Caixa de madeira facilmente destrutível por acção do calor - para cremação.\n\n3 - Se o caixão ou a caixa contendo o cadáver ou as ossadas forem transportados como frete normal por via férrea, marítima ou aérea, devem ser introduzidos numa embalagem de material sólido que dissimule a sua aparência, sobre a qual deve ser aposta, de forma bem visível, a seguinte indicação: «MANUSEAR COM PRECAUÇÃO».\n\n4 - O transporte de cinzas resultantes da cremação de cadáver, ossadas ou peças anatómicas, fora de cemitério, é livre desde que efectuado em recipiente apropriado.\n\n5 - O transporte de cadáver, ossadas ou cinzas dentro de cemitério é efectuado da forma que for determinada pela entidade responsável pela respectiva administração, ouvida, se tal for considerado necessário, a autoridade de saúde.\n\n6 - A viatura que for apropriada e exclusivamente destinada ao transporte de cadáveres fora de cemitério, por estrada, é igualmente apropriada para o transporte de ossadas.\n\n7 - Nos casos previstos nos n.os 1 a 3, a entidade responsável pelo transporte do caixão ou da caixa deve ser portadora de fotocópia simples de um dos documentos previstos no n.º 1 do artigo 9.º\n\n8 - O disposto nos n.os 1 e 7 não se aplica à remoção de cadáver prevista nos n.os 1 e 2 do artigo 5.º"
+  },
+  "223076524": {
+   "fragment_id": "223121771",
+   "type": 11,
+   "heading": "Artigo 7.º — Regime excepcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regime excepcional\n\n1 - O transporte inter-hospitalar de fetos mortos, independentemente da respectiva idade de gestação, e de recém-nascidos falecidos no período neonatal precoce, para fins de autópsia clínica para precisão de diagnóstico, pode efectuar-se em ambulância ou noutra viatura de hospital.\n\n2 - O transporte de fetos mortos e de recém-nascidos falecidos no período neonatal precoce, fora da situação prevista no número anterior, é feito em viatura apropriada, pertencente à entidade responsável pela administração de um cemitério ou a outra entidade, pública ou privada."
+  },
+  "223076525": {
+   "fragment_id": "223121772",
+   "type": 1,
+   "heading": "Capítulo IV — Inumação e cremação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Inumação e cremação"
+  },
+  "223076526": {
+   "fragment_id": "223121773",
+   "type": 8,
+   "heading": "Secção I — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições comuns"
+  },
+  "223076527": {
+   "fragment_id": "223121774",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prazos\n\n1 - Nenhum cadáver pode ser inumado, cremado, encerrado em caixão de zinco ou colocado em câmara frigorífica antes de decorridas vinte e quatro horas sobre o óbito.\n\n2 - Um cadáver deve ser inumado ou cremado dentro dos seguintes prazos máximos:\n\na) Se imediatamente após a verificação do óbito tiver sido entregue a uma das pessoas indicadas no artigo 3.º - em setenta e duas horas;\n\nb) Se tiver sido transportado de país estrangeiro para Portugal - em setenta e duas horas a contar da entrada em território nacional;\n\nc) Se tiver havido autópsia médico-legal ou clínica - em quarenta e oito horas após o termo da mesma;\n\nd) Nos casos previstos no n.º 1 do artigo 5.º - em vinte e quatro horas a contar do momento em que for entregue a uma das pessoas indicadas no artigo 3.º\n\n3 - Nos casos previstos no n.º 1 do artigo 5.º, se o cadáver não for entregue a uma das pessoas indicadas no artigo 3.º, não pode ser cremado, devendo a sua inumação ter lugar decorridos 30 dias sobre a data da verificação do óbito.\n\n4 - Quando não haja lugar à realização de autópsia médico-legal e houver perigo para a saúde pública, a autoridade de saúde pode ordenar, por escrito, que se proceda à inumação, cremação, encerramento em caixão de zinco ou colocação do cadáver em câmara frigorífica antes de decorrido o prazo previsto no n.º 1.\n\n5 - O disposto nos números anteriores não se aplica aos fetos mortos."
+  },
+  "223076528": {
+   "fragment_id": "223203675",
+   "type": 11,
+   "heading": "Artigo 9.º — Assento, auto de declaração de óbito ou boletim de óbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Assento, auto de declaração de óbito ou boletim de óbito\n\n1 - Nenhum cadáver pode ser inumado, cremado, encerrado em caixão de zinco ou colocado em câmara frigorífica sem que tenha sido previamente lavrado o respectivo assento ou auto de declaração de óbito ou emitido boletim de óbito nos termos do n.º 2.\n\n2 - Aos sábados, domingos e dias feriados, nas localidades onde não exista conservatória do registo civil ou exista apenas uma, a emissão do boletim de óbito é da competência da autoridade de polícia com jurisdição na freguesia em cuja área o óbito ocorreu ou, desconhecida aquela, onde o mesmo foi verificado.\n\n3 - Para os efeitos do disposto no número anterior, devem as conservatórias fornecer os impressos que forem necessários.\n\n4 - Nos casos previstos no n.º 2, deve a autoridade de polícia remeter o duplicado ou cópia do boletim de óbito, no prazo de quarenta e oito horas, à conservatória do registo civil competente para lavrar o respectivo assento, acompanhado da indicação do nome e da residência do declarante do óbito.\n\n5 - À emissão do boletim de óbito pela autoridade de polícia é aplicável o disposto nos artigos 194.º a 196.º do Código do Registo Civil.\n\n6 - Nos casos previstos no n.º 2 deve ser dado cumprimento ao disposto no artigo 192.º do Código do Registo Civil.\n\n7 - A entidade responsável pela administração do cemitério procede ao arquivamento do boletim de óbito.\n\n8 - Sempre que ocorrer morte fetal com tempo de gestação igual ou superior a 22 semanas completas, é aplicável, com as necessárias adaptações, o disposto nos números anteriores."
+  },
+  "223076529": {
+   "fragment_id": "223203676",
+   "type": 11,
+   "heading": "Artigo 10.º — Abertura de caixão de metal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Abertura de caixão de metal\n\n1 - É proibida a abertura de caixão de zinco, salvo nas seguintes situações:\n\na) Em cumprimento de mandado da autoridade judiciária;\n\nb) Para efeitos de colocação em sepultura ou em local de consumpção aeróbia de cadáver não inumado;\n\nc) Para efeitos de cremação de cadáver ou de ossadas.\n\n2 - A abertura do caixão nas situações previstas na alínea c) do número anterior é feita da forma que for determinada pela entidade responsável pela administração do cemitério.\n\n3 - O disposto nas alíneas a) e c) do n.º 1 aplica-se à abertura de caixão de chumbo utilizado em inumação efectuada antes da entrada em vigor do presente diploma."
+  },
+  "223076530": {
+   "fragment_id": "223203677",
+   "type": 8,
+   "heading": "Secção II — Inumação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Inumação"
+  },
+  "223076531": {
+   "fragment_id": "223203678",
+   "type": 11,
+   "heading": "Artigo 11.º — Locais de inumação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Locais de inumação\n\n1 - A inumação não pode ter lugar fora de cemitério público, devendo ser efectuada em sepultura, jazigo ou local de consumpção aeróbia de cadáveres.\n\n2 - São excepcionalmente permitidos:\n\na) O depósito em panteão nacional, ou em panteão privativo dos patriarcas de Lisboa, do cadáver ou ossadas daqueles a quem caiba essa honra;\n\nb) A inumação em locais especiais ou reservados a pessoas de determinadas categorias, nomeadamente de certa nacionalidade, confissão ou regra religiosa, para tal autorizados pela câmara municipal respectiva;\n\nc) A inumação em capelas privativas, situadas fora dos aglomerados populacionais e tradicionalmente destinadas ao depósito do cadáver ou ossadas dos familiares dos respectivos proprietários, para tal autorizadas pela câmara municipal respectiva.\n\n3 - A trasladação para cemitério público de cadáver ou ossadas que estejam inumados num dos locais previstos nas alíneas b) e c) do número anterior é requerida por uma das pessoas indicadas no artigo 3.º à entidade responsável pela administração do cemitério para o qual a mesma vai ser efectuada."
+  },
+  "223076532": {
+   "fragment_id": "223203679",
+   "type": 11,
+   "heading": "Artigo 12.º — Inumação em jazigo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Inumação em jazigo\n\nA inumação em jazigo obedece às seguintes regras:\n\na) O cadáver deve estar encerrado em caixão de zinco, tendo a folha empregada no seu fabrico a espessura mínima de 0,4 mm;\n\nb) Dentro do caixão devem ser colocados filtros depuradores e dispositivos adequados a impedir os efeitos da pressão dos gases no seu interior."
+  },
+  "223076533": {
+   "fragment_id": "223203680",
+   "type": 11,
+   "heading": "Artigo 13.º — Inumação em local de consumpção aeróbia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Inumação em local de consumpção aeróbia\n\nA inumação em local de consumpção aeróbia de cadáveres obedece às regras definidas por portaria conjunta dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Saúde e do Ambiente."
+  },
+  "223076534": {
+   "fragment_id": "223203681",
+   "type": 11,
+   "heading": "Artigo 14.º — Inumação em sepultura comum não identificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Inumação em sepultura comum não identificada\n\nÉ proibida a inumação em sepultura comum não identificada, salvo:\n\na) Em situação de calamidade pública;\n\nb) Tratando-se de fetos mortos abandonados ou de peças anatómicas."
+  },
+  "223076535": {
+   "fragment_id": "223203682",
+   "type": 8,
+   "heading": "Secção III — Cremação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Cremação"
+  },
+  "223076536": {
+   "fragment_id": "223203683",
+   "type": 11,
+   "heading": "Artigo 15.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Âmbito\n\nPodem ser cremados cadáveres não inumados, cadáveres exumados, ossadas, fetos mortos e peças anatómicas."
+  },
+  "223076537": {
+   "fragment_id": "223203684",
+   "type": 11,
+   "heading": "Artigo 16.º — Cremação por iniciativa do cemitério",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cremação por iniciativa do cemitério\n\nA entidade responsável pela administração do cemitério pode ordenar a cremação de:\n\na) Cadáveres já inumados ou ossadas que tenham sido considerados abandonados;\n\nb) Cadáveres ou ossadas que estejam inumados em locais ou construções que tenham sido considerados abandonados;\n\nc) Quaisquer cadáveres ou ossadas, em caso de calamidade pública;\n\nd) Fetos mortos abandonados e peças anatómicas."
+  },
+  "223076538": {
+   "fragment_id": "223203685",
+   "type": 11,
+   "heading": "Artigo 17.º — Cremação de cadáver que foi objecto de autópsia médico-legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Cremação de cadáver que foi objecto de autópsia médico-legal\n\nSe o cadáver tiver sido objecto de autópsia médico-legal, só pode ser cremado com autorização da autoridade judiciária."
+  },
+  "223076539": {
+   "fragment_id": "223203686",
+   "type": 11,
+   "heading": "Artigo 18.º — Locais de cremação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Locais de cremação\n\nA cremação é feita em cemitério que disponha de equipamento que obedeça às regras definidas em portaria conjunta dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Saúde e do Ambiente."
+  },
+  "223076540": {
+   "fragment_id": "223203687",
+   "type": 11,
+   "heading": "Artigo 19.º — Destino das cinzas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destino das cinzas\n\n1 - As cinzas resultantes de cremação ordenada pela entidade responsável pela administração do cemitério são colocadas em cendrário.\n\n2 - As cinzas resultantes das restantes cremações podem ser:\n\na) Colocadas em cendrário;\n\nb) Colocadas em sepultura, jazigo, ossário ou columbário, dentro de recipiente apropriado;\n\nc) Entregues, dentro de recipiente apropriado, a quem tiver requerido a cremação, sendo livre o seu destino final."
+  },
+  "223076541": {
+   "fragment_id": "223203688",
+   "type": 11,
+   "heading": "Artigo 20.º — Comunicação da cremação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comunicação da cremação\n\nA entidade responsável pela administração do cemitério onde tiver sido efectuada a cremação deve proceder à comunicação para os efeitos previstos na alínea b) do artigo 71.º do Código do Registo Civil."
+  },
+  "223076542": {
+   "fragment_id": "223203689",
+   "type": 1,
+   "heading": "Capítulo V — Exumação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Exumação"
+  },
+  "223076543": {
+   "fragment_id": "223203690",
+   "type": 11,
+   "heading": "Artigo 21.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Prazos\n\n1 - Após a inumação é proibido abrir qualquer sepultura ou local de consumpção aeróbia antes de decorridos três anos, salvo em cumprimento de mandado da autoridade judiciária.\n\n2 - Se no momento da abertura não estiverem terminados os fenómenos de destruição da matéria orgânica, recobre-se de novo o cadáver, mantendo-o inumado por períodos sucessivos de dois anos até à mineralização do esqueleto."
+  },
+  "223076544": {
+   "fragment_id": "223203691",
+   "type": 1,
+   "heading": "Capítulo VI — Trasladação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Trasladação"
+  },
+  "223076545": {
+   "fragment_id": "223203692",
+   "type": 11,
+   "heading": "Artigo 22.º — Efectuação da trasladação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Efectuação da trasladação\n\n1 - A trasladação de cadáver é efectuada em caixão de zinco, devendo a folha empregada no seu fabrico ter a espessura mínima de 0,4 mm.\n\n2 - Pode também ser efectuada a trasladação de cadáver ou ossadas que tenham sido inumados em caixão de chumbo antes da entrada em vigor do presente diploma.\n\n3 - A trasladação de ossadas é efectuada em caixa de zinco com a espessura mínima de 0,4 mm ou de madeira."
+  },
+  "223076546": {
+   "fragment_id": "223203693",
+   "type": 11,
+   "heading": "Artigo 23.º — Comunicação da trasladação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Comunicação da trasladação\n\nA entidade responsável pela administração do cemitério donde tiver sido efectuada a trasladação deve proceder à comunicação para os efeitos previstos na alínea a) do artigo 71.º do Código do Registo Civil."
+  },
+  "223076547": {
+   "fragment_id": "223203694",
+   "type": 1,
+   "heading": "Capítulo VII — Mudança de localização de cemitério",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Mudança de localização de cemitério"
+  },
+  "223076548": {
+   "fragment_id": "223203695",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regime legal\n\nA mudança de um cemitério para terreno diferente daquele onde está instalado que implique a transferência, total ou parcial, dos cadáveres, ossadas, fetos mortos e peças anatómicas que aí estejam inumados e das cinzas que aí estejam guardadas é da competência da respectiva câmara municipal."
+  },
+  "223076549": {
+   "fragment_id": "223203696",
+   "type": 1,
+   "heading": "Capítulo VIII — Sanções e disposições processuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Sanções e disposições processuais"
+  },
+  "223076550": {
+   "fragment_id": "223203697",
+   "type": 11,
+   "heading": "Artigo 25.º — Contra-ordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Contra-ordenações e coimas\n\n1 - Constitui contra-ordenação punível com uma coima mínima de 50000$00 e máxima de 750000$00:\n\na) A remoção de cadáver por entidade diferente das previstas no n.º 2 do artigo 5.º;\n\nb) O transporte de cadáver fora de cemitério, por estrada ou por via férrea, marítima ou aérea, em infracção ao disposto no artigo 6.º, n.os 1 e 3;\n\nc) O transporte de ossadas fora de cemitério, por estrada ou por via férrea, marítima ou aérea, em infracção ao disposto no artigo 6.º, n.os 2 e 3;\n\nd) O transporte de cadáver ou ossadas, fora de cemitério, por estrada ou por via férrea, marítima ou aérea, desacompanhado de fotocópia simples de um dos documentos previstos no n.º 1 do artigo 9.º;\n\ne) A inumação, cremação, encerramento em caixão de zinco ou colocação em câmara frigorífica de cadáver antes de decorridas vinte e quatro horas sobre o óbito;\n\nf) A inumação ou cremação de cadáver fora dos prazos previstos no n.º 2 do artigo 8.º;\n\ng) A inumação, cremação, encerramento em caixão de zinco ou colocação em câmara frigorífica de cadáver sem que tenha sido previamente lavrado assento ou auto de declaração de óbito ou emitido boletim de óbito nos termos do n.º 2 do artigo 9.º;\n\nh) A abertura de caixão de zinco ou de chumbo fora das situações previstas no n.º 1 do artigo 10.º;\n\ni) A abertura de caixão de zinco ou de chumbo, para efeitos de cremação de cadáver ou de ossadas, de forma diferente da que for determinada pela entidade responsável pela administração do cemitério;\n\nj) A inumação fora de cemitério público ou de algum dos locais previstos no n.º 2 do artigo 11.º;\n\nk) A utilização, no fabrico de caixão ou caixa de zinco, de folha com espessura inferior a 0,4 mm;\n\nl) A inumação em sepultura comum não identificada fora das situações previstas no artigo 14.º;\n\nm) A cremação de cadáver que tiver sido objecto de autópsia médico-legal sem autorização da autoridade judiciária;\n\nn) A cremação de cadáver fora dos locais previstos no artigo 18.º;\n\no) A abertura de sepultura ou local de consumpção aeróbia antes de decorridos três anos, salvo em cumprimento de mandado da autoridade judiciária;\n\np) A infracção ao disposto no n.º 2 do artigo 21.º;\n\nq) A trasladação de cadáver sem ser em caixão de chumbo, nos casos previstos no n.º 2 do artigo 22.º, ou de zinco com a espessura mínima de 0,4 mm.\n\n2 - Constitui contra-ordenação punível com uma coima mínima de 20000$00 e máxima de 250000$00:\n\na) O transporte de cinzas resultantes da cremação de cadáver ou de ossadas, fora de cemitério, em recipiente não apropriado;\n\nb) O transporte de cadáver, ossadas ou cinzas resultantes da cremação dos mesmos, dentro de cemitério, de forma diferente da que tiver sido determinada pela respectiva administração;\n\nc) A infracção ao disposto no n.º 3 do artigo 8.º;\n\nd) A trasladação de ossadas sem ser em caixa de zinco com a espessura mínima de 0,4 mm ou de madeira.\n\n3 - A negligência e a tentativa são puníveis."
+  },
+  "223076551": {
+   "fragment_id": "223203698",
+   "type": 11,
+   "heading": "Artigo 26.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Sanções acessórias\n\n1 - Em função da gravidade da infracção e da culpa do agente, são aplicáveis, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\nd) Suspensão de autorizações, licenças e alvarás.\n\n2 - É dada publicidade à decisão que aplicar uma coima a uma agência funerária."
+  },
+  "223076552": {
+   "fragment_id": "223203699",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Competência\n\nA competência para determinar a instrução do processo de contra-ordenação e para aplicar a respectiva coima pertence ao presidente da câmara do município em cuja área tenha sido praticada a infracção, podendo ser delegada em qualquer dos restantes membros desse órgão."
+  },
+  "223076553": {
+   "fragment_id": "223203700",
+   "type": 11,
+   "heading": "Artigo 28.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Fiscalização\n\nTêm competência para proceder à fiscalização da observância do disposto no presente diploma as seguintes entidades:\n\na) A câmara municipal e a junta de freguesia, consoante a entidade que seja responsável pela administração do cemitério onde tenha sido praticada a infracção;\n\nb) A autoridade de polícia;\n\nc) A autoridade de saúde."
+  },
+  "223076554": {
+   "fragment_id": "223203701",
+   "type": 11,
+   "heading": "Artigo 29.º — Destino do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Destino do produto das coimas\n\n1 - O produto das coimas é distribuído da seguinte forma:\n\na) 40% para o município que tiver aplicado a coima;\n\nb) 20% para a freguesia que, na área desse município, tenha sob a sua administração um ou mais cemitérios; em caso de pluralidade de freguesias que, na área desse município, tenham sob a sua administração um ou mais cemitérios, a quantia em causa é dividida pelo número total dos mesmos, recebendo cada freguesia a parte correspondente ao número daqueles que tenha sob a sua administração;\n\nc) 20% para a Guarda Nacional Republicana;\n\nd) 20% para a Polícia de Segurança Pública.\n\n2 - Se na área do município que tiver aplicado a coima não existir nenhum cemitério que esteja sob a administração de uma freguesia, o respectivo produto é distribuído da seguinte forma:\n\na) 50% para o município;\n\nb) 25% para a Guarda Nacional Republicana;\n\nc) 25% para a Polícia de Segurança Pública.\n\n3 - Compete ao município proceder à cobrança da coima e ao posterior rateio do respectivo produto pela forma estabelecida nos números anteriores."
+  },
+  "223076555": {
+   "fragment_id": "223203702",
+   "type": 11,
+   "heading": "Artigo 30.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Direito subsidiário\n\nEm tudo que não estiver previsto neste capítulo aplica-se subsidiariamente o disposto:\n\na) No Decreto-Lei n.º 433/82, de 27 de Outubro;\n\nb) No Código Penal e no Código de Processo Penal."
+  },
+  "223076556": {
+   "fragment_id": "223203703",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições finais"
+  },
+  "223076557": {
+   "fragment_id": "223203704",
+   "type": 11,
+   "heading": "Artigo 31.º — Modelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Modelos\n\nO requerimento para inumação, cremação e trasladação a que se refere o artigo 4.º obedece aos modelos previstos nos anexos I e II ao presente diploma."
+  },
+  "223076558": {
+   "fragment_id": "223203705",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\n1 - São revogados o Decreto-Lei n.º 274/82, de 14 de Julho, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 62/83, de 2 de Fevereiro, e pelo Decreto-Lei n.º 43/97, de 7 de Fevereiro, e os Despachos Normativos n.os 171/82, de 16 de Agosto, e 28/83, de 27 de Janeiro.\n\n2 - São também revogadas as normas jurídicas constantes do Decreto n.º 48770, de 18 de Dezembro de 1968, e dos regulamentos dos cemitérios que contrariem o disposto no presente diploma."
+  },
+  "223076559": {
+   "fragment_id": "223203706",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente diploma entra em vigor 60 dias após a sua publicação."
+  },
+  "223076561": {
+   "fragment_id": "223203708",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\n(ver modelo no documento original)"
+  },
+  "223076562": {
+   "fragment_id": "223203709",
+   "type": 14,
+   "heading": "Anexo II — Requerimento para Inumação ou Cremação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Requerimento para Inumação ou Cremação\n\n(ver modelo no documento original)"
+  },
+  "223076565": {
+   "fragment_id": "223121764",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições legais",
+   "in_force_from": "2000-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 2.º — Definições legais\n\nPara efeitos do disposto no presente decreto-lei, considera-se:\n\na) Autoridade de polícia: a Guarda Nacional Republicana, a Polícia de Segurança Pública e a Polícia Marítima;\n\nb) Autoridade de saúde: o delegado regional de saúde, o delegado concelhio de saúde ou os seus adjuntos;\n\nc) Autoridade judiciária: o juiz de instrução e o Ministério Público, cada um relativamente aos actos processuais que cabem na sua competência;\n\nd) Remoção: o levantamento de cadáver do local onde ocorreu ou foi verificado o óbito e o seu subsequente transporte, a fim de se proceder à sua inumação ou cremação - nos casos previstos no n.º 1 do artigo 5.º;\n\ne) Inumação: a colocação de cadáver em sepultura, jazigo ou local de consumpção aeróbia;\n\nf) Exumação: a abertura de sepultura, local de consumpção aeróbia ou caixão de metal onde se encontra inumado o cadáver;\n\ng) Trasladação: o transporte de cadáver inumado em jazigo ou de ossadas para local diferente daquele em que se encontram, a fim de serem de novo inumados, cremados ou colocados em ossário;\n\nh) Cremação: a redução de cadáver ou ossadas a cinzas;\n\ni) Cadáver: o corpo humano após a morte, até estarem terminados os fenómenos de destruição da matéria orgânica;\n\nj) Ossadas: o que resta do corpo humano uma vez terminado o processo de mineralização do esqueleto;\n\nk) Viatura e recipiente apropriados: aqueles em que seja possível proceder ao transporte de cadáveres, ossadas, cinzas, fetos mortos ou recém-nascidos falecidos no período neonatal precoce, em condições de segurança e de respeito pela dignidade humana;\n\nl) Período neonatal precoce: as primeiras cento e sessenta e oito horas de vida;\n\nm) Entidade responsável pela administração de um cemitério: a câmara municipal ou a junta de freguesia, consoante o cemitério em causa pertença ao município ou à freguesia.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223076566": {
+   "fragment_id": "223121766",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": "2000-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - A inumação e a cremação devem ser requeridas à entidade responsável pela administração do cemitério onde as mesmas tiverem lugar, em modelo do anexo I, que constitui parte integrante do presente diploma.\n\n2 - A trasladação deve ser requerida à entidade responsável pela administração do cemitério onde o cadáver ou as ossadas estiverem inumadas, em modelo do anexo II, que constitui parte integrante do presente diploma.\n\n3 - No caso previsto no número anterior, o deferimento do requerimento é da competência da entidade responsável pela administração do cemitério para o qual vão ser trasladados o cadáver ou as ossadas, mediante solicitação da entidade à qual o mesmo foi apresentado.\n\n4 - Compete à câmara municipal do local onde se encontre o cadáver promover a sua inumação no caso previsto no n.º 4 do artigo 8.º, bem como a inumação ou a cremação de fetos mortos abandonados.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223076567": {
+   "fragment_id": "223121768",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime legal",
+   "in_force_from": "2000-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 5.º — Regime legal\n\n1 - Quando, nos termos da legislação aplicável, não houver lugar à realização de autópsia médico-legal e, por qualquer motivo, não for possível assegurar a entrega do cadáver a qualquer das pessoas ou entidades indicadas no artigo 3.º a fim de se proceder à sua inumação ou cremação dentro do prazo legal, o mesmo é removido para um dos seguintes locais:\n\na) Na área das comarcas de Lisboa, Porto e Coimbra, para a morgue do respectivo Instituto de Medicina Legal;\n\nb) Na área das restantes comarcas, para a casa mortuária dotada de câmara frigorífica que fique mais próxima do local da verificação do óbito.\n\nc) Nas zonas sob jurisdição do Sistema de Autoridade Marítima, para um dos locais previstos nas alíneas anteriores.\n\n2 - Nos casos previstos no número anterior, compete à autoridade de polícia:\n\na) Promover a remoção de cadáveres, pelos meios mais adequados, podendo solicitar a colaboração de quaisquer entidades;\n\nb) Proceder à recolha, arrolamento e guarda do espólio do cadáver.\n\n3 - Fora da área das comarcas de Lisboa, Porto e Coimbra, a autoridade de polícia com jurisdição na área da freguesia onde se encontre instalada uma casa mortuária dotada de câmara frigorífica tem permanente acesso a ela.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223076568": {
+   "fragment_id": "223121770",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime geral",
+   "in_force_from": "2000-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 6.º — Regime geral\n\n1 - O transporte de cadáver fora de cemitério, por estrada, é efectuado em viatura apropriada e exclusivamente destinada a esse fim, pertencente à entidade responsável pela administração de um cemitério ou a outra entidade, pública ou privada, dentro de:\n\na) Caixão de madeira - para inumação em sepultura ou em local de consumpção aeróbia;\n\nb) Caixão de zinco com a espessura mínima de 0,4 mm - para inumação em jazigo;\n\nc) Caixão de madeira facilmente destrutível por acção do calor - para cremação.\n\n2 - O transporte de ossadas fora de cemitério, por estrada, é efectuado em viatura apropriada e exclusivamente destinada a esse fim, pertencente à entidade responsável pela administração de um cemitério ou a outra entidade, pública ou privada, dentro de:\n\na) Caixa de zinco com a espessura mínima de 0,4 mm ou de madeira - para inumação em jazigo ou em ossário;\n\nb) Caixa de madeira facilmente destrutível por acção do calor - para cremação.\n\n3 - Se o caixão ou a caixa contendo o cadáver ou as ossadas forem transportados como frete normal por via férrea, marítima ou aérea, devem ser introduzidos numa embalagem de material sólido que dissimule a sua aparência, sobre a qual deve ser aposta, de forma bem visível, a seguinte indicação: «MANUSEAR COM PRECAUÇÃO».\n\n4 - O transporte de cinzas resultantes da cremação de cadáver, ossadas ou peças anatómicas, fora de cemitério, é livre desde que efectuado em recipiente apropriado.\n\n5 - O transporte de cadáver, ossadas ou cinzas dentro de cemitério é efectuado da forma que for determinada pela entidade responsável pela respectiva administração, ouvida, se tal for considerado necessário, a autoridade de saúde.\n\n6 - A viatura que for apropriada e exclusivamente destinada ao transporte de cadáveres fora de cemitério, por estrada, é igualmente apropriada para o transporte de ossadas.\n\n7 -  - Nos casos previstos nos n.os 1 a 3, a entidade responsável pelo transporte do caixão ou da caixa deve ser portadora do certificado de óbito ou da fotocópia simples de um dos documentos previstos no n.º 1 do artigo 9.º\n\n8 - O disposto nos n.os 1 e 7 não se aplica à remoção de cadáver prevista nos n.os 1 e 2 do artigo 5.º\n\n9 - Compete à Guarda Nacional Republicana e à Polícia de Segurança Pública a passagem dos livres-trânsitos, previstos nos acordos referidos no n.º 2 do artigo 1.º, necessários ao transporte para países estrangeiros de cadáveres, cujo óbito tenha sido verificado em Portugal.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223076569": {
+   "fragment_id": "223121774",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazos",
+   "in_force_from": "2000-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 8.º — Prazos\n\n1 - Nenhum cadáver pode ser inumado, cremado ou encerrado antes de decorridas vinte e quatro horas sobre o óbito.\n\n2 - Nenhum cadáver pode ser encerrado em câmara frigorífica antes de decorridas seis horas após a constatação de sinais de certeza de morte.\n\n3 - Um cadáver deve ser inumado ou cremado dentro dos seguintes prazos máximos:\n\na) Se imediatamente após a verificação do óbito tiver sido entregue a uma das pessoas indicadas no artigo 3.º - em setenta e duas horas;\n\nb) Se tiver sido transportado de país estrangeiro para Portugal - em setenta e duas horas a contar da entrada em território nacional;\n\nc) Se tiver havido autópsia médico-legal ou clínica - em quarenta e oito horas após o termo da mesma;\n\nd) Nos casos previstos no n.º 1 do artigo 5.º - em vinte e quatro horas a contar do momento em que for entregue a uma das pessoas indicadas no artigo 3.º\n\n4 - Nos casos previstos no n.º 1 do artigo 5.º, se o cadáver não for entregue a uma das pessoas indicadas no artigo 3.º, não pode ser cremado, devendo a sua inumação ter lugar decorridos 30 dias sobre a data da verificação do óbito.\n\n5 - Quando haja lugar à realização da autópsia médico-legal e houver perigo para a saúde pública, a autoridade de saúde pode ordenar, por escrito, que se proceda à inumação, cremação ou encerramento em caixão de zinco antes de decorrido o prazo previsto no n.º 1.\n\n6 - O disposto nos números anteriores não se aplica aos fetos mortos.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223076570": {
+   "fragment_id": "223203675",
+   "type": 11,
+   "heading": "Artigo 9.º — Assento, auto de declaração de óbito ou boletim de óbito",
+   "in_force_from": "2000-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 9.º — Assento, auto de declaração de óbito ou boletim de óbito\n\n1 - Nenhum cadáver pode ser inumado, cremado, encerrado em caixão de zinco ou colocado em câmara frigorífica sem que tenha sido previamente lavrado o respectivo assento ou auto de declaração de óbito ou emitido boletim de óbito nos termos do n.º 2.\n\n2 - Fora do período de funcionamento das conservatórias do registo civil, incluindo sábados, domingos e feriados, a emissão do boletim de óbito é da competência da autoridade de polícia com jurisdição na freguesia em cuja área o óbito ocorreu ou desconhecida aquela, onde o mesmo foi verificado.\n\n3 - Para os efeitos do disposto no número anterior, devem as conservatórias fornecer os impressos que forem necessários.\n\n4 - Nos casos previstos no n.º 2, deve a autoridade de polícia remeter o duplicado ou cópia do boletim de óbito, no prazo de quarenta e oito horas, à conservatória do registo civil competente para lavrar o respectivo assento, acompanhado da indicação do nome e da residência do declarante do óbito.\n\n5 - À emissão do boletim de óbito pela autoridade de polícia é aplicável o disposto nos artigos 194.º a 196.º do Código do Registo Civil.\n\n6 - Nos casos previstos no n.º 2 deve ser dado cumprimento ao disposto no artigo 192.º do Código do Registo Civil.\n\n7 - A entidade responsável pela administração do cemitério procede ao arquivamento do boletim de óbito.\n\n8 - Sempre que ocorrer morte fetal com tempo de gestação igual ou superior a 22 semanas completas, é aplicável, com as necessárias adaptações, o disposto nos números anteriores.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223076571": {
+   "fragment_id": "223203697",
+   "type": 11,
+   "heading": "Artigo 25.º — Contra-ordenações e coimas",
+   "in_force_from": "2000-02-03",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 25.º — Contra-ordenações e coimas\n\n1 - Constitui contra-ordenação punível com uma coima mínima de 50000$00 e máxima de 750000$00:\n\na) A remoção de cadáver por entidade diferente das previstas no n.º 2 do artigo 5.º;\n\nb) O transporte de cadáver fora de cemitério, por estrada ou por via férrea, marítima ou aérea, em infracção ao disposto no artigo 6.º, n.os 1 e 3;\n\nc) O transporte de ossadas fora de cemitério, por estrada ou por via férrea, marítima ou aérea, em infracção ao disposto no artigo 6.º, n.os 2 e 3;\n\nd) O transporte de cadáver ou de ossadas, fora de cemitério, por estrada ou por via férrea, marítima ou aérea, desacompanhado de certificado de óbito ou de fotocópia simples de um dos documentos previstos no n.º 1 do artigo 9.º;\n\ne) A inumação, cremação, encerramento em caixão de zinco ou colocação em câmara frigorífica de cadáver antes de decorridas vinte e quatro horas sobre o óbito;\n\nf) A inumação ou cremação de cadáver fora dos prazos previstos no n.º 2 do artigo 8.º;\n\ng) A inumação, cremação, encerramento em caixão de zinco ou colocação em câmara frigorífica de cadáver sem que tenha sido previamente lavrado assento ou auto de declaração de óbito ou emitido boletim de óbito nos termos do n.º 2 do artigo 9.º;\n\nh) A abertura de caixão de zinco ou de chumbo fora das situações previstas no n.º 1 do artigo 10.º;\n\ni) A abertura de caixão de zinco ou de chumbo, para efeitos de cremação de cadáver ou de ossadas, de forma diferente da que for determinada pela entidade responsável pela administração do cemitério;\n\nj) A inumação fora de cemitério público ou de algum dos locais previstos no n.º 2 do artigo 11.º;\n\nk) A utilização, no fabrico de caixão ou caixa de zinco, de folha com espessura inferior a 0,4 mm;\n\nl) A inumação em sepultura comum não identificada fora das situações previstas no artigo 14.º;\n\nm) A cremação de cadáver que tiver sido objecto de autópsia médico-legal sem autorização da autoridade judiciária;\n\nn) A cremação de cadáver fora dos locais previstos no artigo 18.º;\n\no) A abertura de sepultura ou local de consumpção aeróbia antes de decorridos três anos, salvo em cumprimento de mandado da autoridade judiciária;\n\np) A infracção ao disposto no n.º 2 do artigo 21.º;\n\nq) A trasladação de cadáver sem ser em caixão de chumbo, nos casos previstos no n.º 2 do artigo 22.º, ou de zinco com a espessura mínima de 0,4 mm.\n\n2 - Constitui contra-ordenação punível com uma coima mínima de 20000$00 e máxima de 250000$00:\n\na) O transporte de cinzas resultantes da cremação de cadáver ou de ossadas, fora de cemitério, em recipiente não apropriado;\n\nb) O transporte de cadáver, ossadas ou cinzas resultantes da cremação dos mesmos, dentro de cemitério, de forma diferente da que tiver sido determinada pela respectiva administração;\n\nc) A infracção ao disposto no n.º 3 do artigo 8.º;\n\nd) A trasladação de ossadas sem ser em caixa de zinco com a espessura mínima de 0,4 mm ou de madeira.\n\n3 - A negligência e a tentativa são puníveis.\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223076560": {
+   "fragment_id": "223203707",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 14 de Dezembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 16 de Dezembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "223076574": {
+   "fragment_id": "223121774",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazos",
+   "in_force_from": "2000-07-18",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 138/2000 - Diário da República n.º 160/2000, Série I-A de 2000-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2000-319932), em vigor a partir de 2000-07-18",
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 8.º — Prazos\n\n1 - Nenhum cadáver pode ser inumado, cremado ou encerrado em caixão de zinco antes de decorridas vinte e quatro horas sobre o óbito.\n\n2 - Nenhum cadáver pode ser encerrado em câmara frigorífica antes de decorridas seis horas após a constatação de sinais de certeza de morte.\n\n3 - Um cadáver deve ser inumado ou cremado dentro dos seguintes prazos máximos:\n\na) Se imediatamente após a verificação do óbito tiver sido entregue a uma das pessoas indicadas no artigo 3.º - em setenta e duas horas;\n\nb) Se tiver sido transportado de país estrangeiro para Portugal - em setenta e duas horas a contar da entrada em território nacional;\n\nc) Se tiver havido autópsia médico-legal ou clínica - em quarenta e oito horas após o termo da mesma;\n\nd) Nos casos previstos no n.º 1 do artigo 5.º - em vinte e quatro horas a contar do momento em que for entregue a uma das pessoas indicadas no artigo 3.º\n\n4 - Nos casos previstos no n.º 1 do artigo 5.º, se o cadáver não for entregue a uma das pessoas indicadas no artigo 3.º, não pode ser cremado, devendo a sua inumação ter lugar decorridos 30 dias sobre a data da verificação do óbito.\n\n5 - Quando não haja lugar à realização da autópsia médico-legal e houver perigo para a saúde pública, a autoridade de saúde pode ordenar, por escrito, que se proceda à inumação, cremação ou encerramento em caixão de zinco antes de decorrido o prazo previsto no n.º 1.\n\n6 - O disposto nos números anteriores não se aplica aos fetos mortos.\n\n> Alterado pelo/a [Decreto-Lei n.º 138/2000 - Diário da República n.º 160/2000, Série I-A de 2000-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2000-319932), em vigor a partir de 2000-07-18\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223204175": {
+   "fragment_id": "223203697",
+   "type": 11,
+   "heading": "Artigo 25.º — Contra-ordenações e coimas",
+   "in_force_from": "2006-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10",
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 25.º — Contra-ordenações e coimas\n\n1 - Constitui contra-ordenação punida com coima de (euro) 500 a (euro) 7000 ou de (euro) 1000 a (euro) 15000, consoante o agente seja pessoa singular ou pessoa colectiva:\n\na) A remoção de cadáver por entidade diferente das previstas no n.º 2 do artigo 5.º;\n\nb) O transporte de cadáver fora de cemitério, por estrada ou por via férrea, marítima ou aérea, em infracção ao disposto no artigo 6.º, n.os 1 e 3;\n\nc) O transporte de ossadas fora de cemitério, por estrada ou por via férrea, marítima ou aérea, em infracção ao disposto no artigo 6.º, n.os 2 e 3;\n\nd) O transporte de cadáver ou de ossadas, fora de cemitério, por estrada ou por via férrea, marítima ou aérea, desacompanhado de certificado de óbito ou de fotocópia simples de um dos documentos previstos no n.º 1 do artigo 9.º;\n\ne) A inumação, cremação, encerramento em caixão de zinco ou colocação em câmara frigorífica de cadáver antes de decorridas vinte e quatro horas sobre o óbito;\n\nf) A inumação ou cremação de cadáver fora dos prazos previstos no n.º 2 do artigo 8.º;\n\ng) A inumação, cremação, encerramento em caixão de zinco ou colocação em câmara frigorífica de cadáver sem que tenha sido previamente lavrado assento ou auto de declaração de óbito ou emitido boletim de óbito nos termos do n.º 2 do artigo 9.º;\n\nh) A abertura de caixão de zinco ou de chumbo fora das situações previstas no n.º 1 do artigo 10.º;\n\ni) A abertura de caixão de zinco ou de chumbo, para efeitos de cremação de cadáver ou de ossadas, de forma diferente da que for determinada pela entidade responsável pela administração do cemitério;\n\nj) A inumação fora de cemitério público ou de algum dos locais previstos no n.º 2 do artigo 11.º;\n\nl) A utilização, no fabrico de caixão ou caixa de zinco, de folha com espessura inferior a 0,4 mm;\n\nm) A inumação em sepultura comum não identificada fora das situações previstas no artigo 14.º;\n\nn) A cremação de cadáver que tiver sido objecto de autópsia médico-legal sem autorização da autoridade judiciária;\n\no) A cremação de cadáver fora dos locais previstos no artigo 18.º;\n\np) A abertura de sepultura ou local de consumpção aeróbia antes de decorridos três anos, salvo em cumprimento de mandado da autoridade judiciária;\n\nq) A infracção ao disposto no n.º 2 do artigo 21.º;\n\nr) A trasladação de cadáver sem ser em caixão de chumbo, nos casos previstos no n.º 2 do artigo 22.º, ou de zinco com a espessura mínima de 0,4 mm.\n\n2 - Constitui contra-ordenação punida com coima de (euro) 200 a (euro) 2500 ou de (euro) 400 a (euro) 5000, consoante o agente seja pessoa singular ou pessoa colectiva:\n\na) O transporte de cinzas resultantes da cremação de cadáver ou de ossadas, fora de cemitério, em recipiente não apropriado;\n\nb) O transporte de cadáver, ossadas ou cinzas resultantes da cremação dos mesmos, dentro de cemitério, de forma diferente da que tiver sido determinada pela respectiva administração;\n\nc) A infracção ao disposto no n.º 3 do artigo 8.º;\n\nd) A trasladação de ossadas sem ser em caixa de zinco com a espessura mínima de 0,4 mm ou de madeira.\n\ne) A infracção às disposições imperativas de natureza administrativa constantes de regulamento de cemitério municipal ou paroquial, se sanção mais grave não for aplicável por força de outra norma do presente artigo.\n\n3 - A negligência e a tentativa são puníveis.\n\n> Alterado pelo/a Artigo 33.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223204176": {
+   "fragment_id": "223203699",
+   "type": 11,
+   "heading": "Artigo 27.º — Competência",
+   "in_force_from": "2006-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+   ],
+   "markdown": "###### Artigo 27.º — Competência\n\nA competência para determinar a instrução do processo de contra-ordenação e para aplicar a respectiva coima pertence, nos casos de infracção ao disposto em regulamento de cemitério paroquial, nos termos da alínea e) do n.º 2 do artigo 25.º, ao presidente da respectiva junta de freguesia e, nos restantes casos, ao presidente da câmara do município em cuja área tenha sido praticada a infracção, podendo tal competência ser delegada, respectivamente, em qualquer dos membros da junta de freguesia ou da câmara municipal, nos termos do disposto na alínea q) do n.º 1 do artigo 38.º e na alínea p) do n.º 2 do artigo 68.º da Lei n.º 169/99, de 18 de Setembro, alterada pela Lei n.º 5-A/2002, de 11 de Janeiro.\n\n> Alterado pelo/a Artigo 33.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+  },
+  "223204177": {
+   "fragment_id": "223203701",
+   "type": 11,
+   "heading": "Artigo 29.º — Destino do produto das coimas",
+   "in_force_from": "2006-08-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+   ],
+   "markdown": "###### Artigo 29.º — Destino do produto das coimas\n\n1 - O produto das coimas é distribuído da seguinte forma:\n\na) 40% para o município ou freguesia que tiver aplicado a coima;\n\nb) 20% para a freguesia que, na área desse município, tenha sob a sua administração um ou mais cemitérios, no caso de a coima ter sido aplicada pelo município; em caso de pluralidade de freguesias que, na área desse município, tenham sob a sua administração um ou mais cemitérios, a quantia em causa é dividida pelo número total das mesmas, recebendo cada freguesia a parte correspondente ao número daqueles que tenha sob a sua administração, ou, para o município em que se integre a freguesia, no caso de ter sido esta a aplicar a coima;\n\nc) 20% para a Guarda Nacional Republicana;\n\nd) 20% para a Polícia de Segurança Pública.\n\n2 - Se na área do município que tiver aplicado a coima não existir nenhum cemitério que esteja sob a administração de uma freguesia, o respectivo produto é distribuído da seguinte forma:\n\na) 50% para o município;\n\nb) 25% para a Guarda Nacional Republicana;\n\nc) 25% para a Polícia de Segurança Pública.\n\n3 - Compete ao município ou à freguesia, consoante os casos, proceder à cobrança da coima e ao posterior rateio do respectivo produto pela forma estabelecida nos números anteriores.\n\n> Alterado pelo/a Artigo 33.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+  },
+  "223204178": {
+   "fragment_id": "223121764",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições legais",
+   "in_force_from": "2010-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13",
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 2.º — Definições legais\n\nPara efeitos do disposto no presente decreto-lei, considera-se:\n\na) Autoridade de polícia: a Guarda Nacional Republicana, a Polícia de Segurança Pública e a Polícia Marítima;\n\nb) Autoridade de saúde: o delegado regional de saúde, o delegado concelhio de saúde ou os seus adjuntos;\n\nc) Autoridade judiciária: o juiz de instrução e o Ministério Público, cada um relativamente aos actos processuais que cabem na sua competência;\n\nd) Remoção: o levantamento de cadáver do local onde ocorreu ou foi verificado o óbito e o seu subsequente transporte, a fim de se proceder à sua inumação ou cremação - nos casos previstos no n.º 1 do artigo 5.º;\n\ne) Inumação: a colocação de cadáver em sepultura, jazigo ou local de consumpção aeróbia;\n\nf) Exumação: a abertura de sepultura, local de consumpção aeróbia ou caixão de metal onde se encontra inumado o cadáver;\n\ng) Trasladação: o transporte de cadáver inumado em jazigo ou de ossadas para local diferente daquele em que se encontram, a fim de serem de novo inumados, cremados ou colocados em ossário;\n\nh) Cremação: a redução de cadáver ou ossadas a cinzas;\n\ni) Cadáver: o corpo humano após a morte, até estarem terminados os fenómenos de destruição da matéria orgânica;\n\nj) Ossadas: o que resta do corpo humano uma vez terminado o processo de mineralização do esqueleto;\n\nk) Viatura e recipiente apropriados: aqueles em que seja possível proceder ao transporte de cadáveres, ossadas, cinzas, fetos mortos ou recém-nascidos falecidos no período neonatal precoce, em condições de segurança e de respeito pela dignidade humana;\n\nl) Período neonatal precoce: as primeiras cento e sessenta e oito horas de vida;\n\nm) Entidade responsável pela administração de um cemitério: a câmara municipal ou a junta de freguesia, consoante o cemitério em causa pertença ao município ou à freguesia, ou as entidades a quem seja atribuída a administração do mesmo, por concessão de serviço público;\n\nn) Centro funerário: edifício destinado exclusivamente à prestação integrada de serviços fúnebres, podendo incluir, a conservação temporária e preparação de cadáveres, a celebração de exéquias fúnebres e a cremação de restos mortais não inumados ou provenientes de exumação.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223204179": {
+   "fragment_id": "223121766",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": "2010-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13",
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - A inumação e a cremação devem ser requeridas à entidade responsável pela administração do cemitério ou do centro funerário, onde as mesmas tiverem lugar, em modelo constante do anexo i do presente decreto-lei, do qual faz parte integrante.\n\n2 - A exumação e a trasladação devem ser requeridas à entidade responsável pela administração do cemitério onde o cadáver ou as ossadas estiverem inumadas, em modelo constante do anexo i do presente decreto-lei.\n\n3 - No caso previsto no número anterior, o deferimento do requerimento é da competência da entidade responsável pela administração do cemitério para o qual vão ser trasladados o cadáver ou as ossadas, mediante solicitação da entidade à qual o mesmo foi apresentado.\n\n4 - Compete à câmara municipal do local onde se encontre o cadáver promover a sua inumação no caso previsto no n.º 4 do artigo 8.º, bem como a inumação ou a cremação de fetos mortos abandonados.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223204180": {
+   "fragment_id": "223203675",
+   "type": 11,
+   "heading": "Artigo 9.º — Assento, auto de declaração de óbito ou boletim de óbito",
+   "in_force_from": "2010-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13",
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 9.º — Assento, auto de declaração de óbito ou boletim de óbito\n\n1 - Nenhum cadáver pode ser inumado, cremado, encerrado em caixão de zinco ou colocado em câmara frigorífica sem que tenha sido previamente lavrado o respectivo assento ou auto de declaração de óbito ou emitido boletim de óbito nos termos do n.º 2.\n\n2 - Fora do período de funcionamento das conservatórias do registo civil, incluindo sábados, domingos e feriados, a emissão do boletim de óbito é da competência da autoridade de polícia com jurisdição na freguesia em cuja área o óbito ocorreu ou desconhecida aquela, onde o mesmo foi verificado.\n\n3 - Para os efeitos do disposto no número anterior, devem as conservatórias fornecer os impressos que forem necessários.\n\n4 - Nos casos previstos no n.º 2, deve a autoridade de polícia remeter o duplicado ou cópia do boletim de óbito, no prazo de quarenta e oito horas, à conservatória do registo civil competente para lavrar o respectivo assento, acompanhado da indicação do nome e da residência do declarante do óbito.\n\n5 - À emissão do boletim de óbito pela autoridade de polícia é aplicável o disposto nos artigos 194.º a 196.º do Código do Registo Civil.\n\n6 - Nos casos previstos no n.º 2 deve ser dado cumprimento ao disposto no artigo 192.º do Código do Registo Civil.\n\n7 - A entidade responsável pela administração do cemitério ou do centro funerário procede ao arquivamento do boletim de óbito.\n\n8 - Sempre que ocorrer morte fetal com tempo de gestação igual ou superior a 22 semanas completas, é aplicável, com as necessárias adaptações, o disposto nos números anteriores.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223204181": {
+   "fragment_id": "223203686",
+   "type": 11,
+   "heading": "Artigo 18.º — Locais de cremação",
+   "in_force_from": "2010-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13"
+   ],
+   "markdown": "###### Artigo 18.º — Locais de cremação\n\nA cremação é feita em cemitério ou em centro funerário que disponha de equipamento que obedeça às regras definidas em portaria dos membros do Governo responsáveis pela área do ambiente e do ordenamento do território e da saúde.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13"
+  },
+  "223204186": {
+   "fragment_id": "223203688",
+   "type": 11,
+   "heading": "Artigo 20.º — Comunicação da cremação",
+   "in_force_from": "2010-08-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-08-10"
+   ],
+   "markdown": "###### Artigo 20.º — Comunicação da cremação\n\nA entidade responsável pela administração do cemitério onde tiver sido efectuada a cremação deve proceder à comunicação para os efeitos previstos na alínea b) do artigo 71.º do Código do Registo Civil.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-08-10"
+  },
+  "223204187": {
+   "fragment_id": "223203693",
+   "type": 11,
+   "heading": "Artigo 23.º — Comunicação da trasladação",
+   "in_force_from": "2010-08-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-08-10"
+   ],
+   "markdown": "###### Artigo 23.º — Comunicação da trasladação\n\nA entidade responsável pela administração do cemitério donde tiver sido efectuada a trasladação deve proceder à comunicação para os efeitos previstos na alínea a) do artigo 71.º do Código do Registo Civil.\n\n> Revogado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-08-10"
+  },
+  "223204182": {
+   "fragment_id": "223203697",
+   "type": 11,
+   "heading": "Artigo 25.º — Contra-ordenações e coimas",
+   "in_force_from": "2010-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13",
+    "Alterado pelo/a Artigo 33.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10",
+    "Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+   ],
+   "markdown": "###### Artigo 25.º — Contra-ordenações e coimas\n\n1 - Constitui contra-ordenação punida com coima de (euro) 500 a (euro) 7000 ou de (euro) 1000 a (euro) 15000, consoante o agente seja pessoa singular ou pessoa colectiva:\n\na) A remoção de cadáver por entidade diferente das previstas no n.º 2 do artigo 5.º;\n\nb) O transporte de cadáver fora de cemitério, por estrada ou por via férrea, marítima ou aérea, em infracção ao disposto no artigo 6.º, n.os 1 e 3;\n\nc) O transporte de ossadas fora de cemitério, por estrada ou por via férrea, marítima ou aérea, em infracção ao disposto no artigo 6.º, n.os 2 e 3;\n\nd) O transporte de cadáver ou de ossadas, fora de cemitério, por estrada ou por via férrea, marítima ou aérea, desacompanhado de certificado de óbito ou de fotocópia simples de um dos documentos previstos no n.º 1 do artigo 9.º;\n\ne) A inumação, cremação, encerramento em caixão de zinco ou colocação em câmara frigorífica de cadáver antes de decorridas vinte e quatro horas sobre o óbito;\n\nf) A inumação ou cremação de cadáver fora dos prazos previstos no n.º 2 do artigo 8.º;\n\ng) A inumação, cremação, encerramento em caixão de zinco ou colocação em câmara frigorífica de cadáver sem que tenha sido previamente lavrado assento ou auto de declaração de óbito ou emitido boletim de óbito nos termos do n.º 2 do artigo 9.º;\n\nh) A abertura de caixão de zinco ou de chumbo fora das situações previstas no n.º 1 do artigo 10.º;\n\ni) A abertura de caixão de zinco ou de chumbo, para efeitos de cremação de cadáver ou de ossadas, de forma diferente da que for determinada pela entidade responsável pela administração do cemitério;\n\nj) A inumação fora de cemitério público ou de algum dos locais previstos no n.º 2 do artigo 11.º;\n\nl) A utilização, no fabrico de caixão ou caixa de zinco, de folha com espessura inferior a 0,4 mm;\n\nm) A inumação em sepultura comum não identificada fora das situações previstas no artigo 14.º;\n\nn) A cremação de cadáver que tiver sido objecto de autópsia médico-legal sem autorização da autoridade judiciária;\n\no) A cremação de cadáver fora dos locais previstos no artigo 18.º;\n\np) A abertura de sepultura ou local de consumpção aeróbia antes de decorridos três anos, salvo em cumprimento de mandado da autoridade judiciária;\n\nq) A infracção ao disposto no n.º 2 do artigo 21.º;\n\nr) A trasladação de cadáver sem ser em caixão de chumbo, nos casos previstos no n.º 2 do artigo 22.º, ou de zinco com a espessura mínima de 0,4 mm.\n\n2 - Constitui contra-ordenação punida com coima de (euro) 200 a (euro) 2500 ou de (euro) 400 a (euro) 5000, consoante o agente seja pessoa singular ou pessoa colectiva:\n\na) O transporte de cinzas resultantes da cremação de cadáver ou de ossadas, fora de cemitério, em recipiente não apropriado;\n\nb) O transporte de cadáver, ossadas ou cinzas resultantes da cremação dos mesmos, dentro de cemitério, de forma diferente da que tiver sido determinada pela respectiva administração;\n\nc) A infracção ao disposto no n.º 3 do artigo 8.º;\n\nd) A trasladação de ossadas sem ser em caixa de zinco com a espessura mínima de 0,4 mm ou de madeira.\n\ne) A infracção às disposições imperativas de natureza administrativa constantes de regulamento de cemitério municipal ou paroquial, se sanção mais grave não for aplicável por força de outra norma do presente artigo.\n\n3 - Constitui contra-ordenação ambiental grave, nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, a prática das actividades de cremação fora dos locais previstos para o efeito ou em incumprimento das regras estabelecidas no artigo 18.º\n\n4 - A negligência e a tentativa são puníveis.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13\n\n> Alterado pelo/a Artigo 33.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10\n\n> Alterado pelo/a [Decreto-Lei n.º 5/2000 - Diário da República n.º 24/2000, Série I-A de 2000-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2000-405936), em vigor a partir de 2000-02-03"
+  },
+  "223204183": {
+   "fragment_id": "223203701",
+   "type": 11,
+   "heading": "Artigo 29.º — Destino do produto das coimas",
+   "in_force_from": "2010-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13",
+    "Alterado pelo/a Artigo 33.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+   ],
+   "markdown": "###### Artigo 29.º — Destino do produto das coimas\n\n1 - O produto das coimas é distribuído da seguinte forma:\n\na) 40% para o município ou freguesia que tiver aplicado a coima;\n\nb) 20% para a freguesia que, na área desse município, tenha sob a sua administração um ou mais cemitérios, no caso de a coima ter sido aplicada pelo município; em caso de pluralidade de freguesias que, na área desse município, tenham sob a sua administração um ou mais cemitérios, a quantia em causa é dividida pelo número total das mesmas, recebendo cada freguesia a parte correspondente ao número daqueles que tenha sob a sua administração, ou, para o município em que se integre a freguesia, no caso de ter sido esta a aplicar a coima;\n\nc) 20% para a Guarda Nacional Republicana;\n\nd) 20% para a Polícia de Segurança Pública.\n\n2 - Se na área do município que tiver aplicado a coima não existir nenhum cemitério que esteja sob a administração de uma freguesia, o respectivo produto é distribuído da seguinte forma:\n\na) 50% para o município;\n\nb) 25% para a Guarda Nacional Republicana;\n\nc) 25% para a Polícia de Segurança Pública.\n\n3 - Compete ao município ou à freguesia, consoante os casos, proceder à cobrança da coima e ao posterior rateio do respectivo produto pela forma estabelecida nos números anteriores.\n\n4 - A afectação do produto das coimas resultante da aplicação das contra-ordenações ambientais previstas no n.º 3 do artigo 25.º é feita nos termos do artigo 73.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13\n\n> Alterado pelo/a Artigo 33.º do/a [Lei n.º 30/2006 - Diário da República n.º 132/2006, Série I de 2006-07-11](https://diariodarepublica.pt/dr/detalhe/lei/30-2006-537249), em vigor a partir de 2006-08-10"
+  },
+  "223204184": {
+   "fragment_id": "223203704",
+   "type": 11,
+   "heading": "Artigo 31.º — Modelos",
+   "in_force_from": "2010-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13"
+   ],
+   "markdown": "###### Artigo 31.º — Modelos\n\nO requerimento para inumação, cremação, exumação e trasladação a que se refere o artigo 4.º obedece ao modelo previsto no anexo i do presente decreto-lei.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13"
+  },
+  "223204185": {
+   "fragment_id": "223203708",
+   "type": 14,
+   "heading": "Anexo I — Requerimento para inumação, cremação, exumação e trasladação",
+   "in_force_from": "2010-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13"
+   ],
+   "markdown": "## Anexo I — Requerimento para inumação, cremação, exumação e trasladação\n\n(a que se refere o artigo 24.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 24.º do/a [Decreto-Lei n.º 109/2010 - Diário da República n.º 200/2010, Série I de 2010-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2010-307671), em vigor a partir de 2010-12-13"
+  },
+  "223204188": {
+   "fragment_id": "223203721",
+   "type": 11,
+   "heading": "Artigo 31.º-A — Honras do Panteão Nacional",
+   "in_force_from": "2016-06-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+   ],
+   "markdown": "###### Artigo 31.º-A — Honras do Panteão Nacional\n\nO disposto no presente diploma em matéria de prazos e procedimentos não prejudica a concessão de honras do Panteão Nacional.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 14/2016 - Diário da República n.º 111/2016, Série I de 2016-06-09](https://diariodarepublica.pt/dr/detalhe/lei/14-2016-74661189), em vigor a partir de 2016-06-14"
+  },
+  "223204189": {
+   "fragment_id": "223203705",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\n1 - São revogados o Decreto-Lei n.º 274/82, de 14 de Julho, com as alterações que lhe foram introduzidas pelo Decreto-Lei n.º 62/83, de 2 de Fevereiro, e pelo Decreto-Lei n.º 43/97, de 7 de Fevereiro, e os Despachos Normativos n.os 171/82, de 16 de Agosto, e 28/83, de 27 de Janeiro.\n\n2 - São também revogadas as normas jurídicas constantes do Decreto n.º 48770, de 18 de Dezembro de 1968, e dos regulamentos dos cemitérios que contrariem o disposto no presente diploma."
+  },
+  "223204190": {
+   "fragment_id": "223203706",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente diploma entra em vigor 60 dias após a sua publicação."
+  }
+ }
+}

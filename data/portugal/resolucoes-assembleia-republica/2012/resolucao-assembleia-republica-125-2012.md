@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:175530:por
+title: Resolução da Assembleia da República n.º 125/2012
+short_title: null
+summary: Aprova o Acordo entre os Estados membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações
+  Classificadas Trocadas no Interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 125/2012
+official_date: null
+publication_date: '2012-09-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 187/2012, Série I de 2012-09-26
+  number: '187'
+  series: I
+  supplement: null
+  pages: 5432 - 5437
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/09/18700/0543205437.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/125/2012/09/26/p/dre/pt/html
+  oj: null
+  dre: '175530'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/125-2012-175530
+  internal: pt:dre:175530:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/125-2012-175530
+  metadata_url: https://data.dre.pt/eli/resolassrep/125/2012/09/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/125-2012-175530
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-09-26T00:00:00Z'
+integrity:
+  source_sha256: 14890ae156d01027e550019212a316d445a99efbbdbb6aae4605a888ac2e5363
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-125-175530.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Documentação Classificada
+- União Europeia
+- Segurança da Informação
+- Bruxelas
+relationships: []
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 125/2012
+
+Aprova o Acordo entre os Estados membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações Classificadas Trocadas no Interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011.
+
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar o Acordo entre os Estados membros da União Europeia, reunidos no Conselho, sobre a Proteção das Informações Classificadas Trocadas no Interesse da União Europeia, assinado em Bruxelas em 25 de maio de 2011, cujo texto, na versão autenticada em língua portuguesa, se publica em anexo.
+
+Aprovada em 13 de julho de 2012.
+
+**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+
+ACORDO ENTRE OS ESTADOS MEMBROS DA UNIÃO EUROPEIA, REUNIDOS NO CONSELHO, SOBRE A PROTECÇÃO DAS INFORMAÇÕES CLASSIFICADAS TROCADAS NO INTERESSE DA UNIÃO EUROPEIA.
+
+Os representantes dos governos dos Estados membros da União Europeia, reunidos no Conselho:
+
+Considerando o seguinte:
+
+1) Os Estados membros da União Europeia (a seguir designados «Partes») reconhecem que, para que se possa estabelecer um processo de consulta e cooperação plenas e efectivas, poderá ser necessário que, no interesse da União Europeia, troquem informações classificadas entre si e com as instituições da União Europeia ou as agências, organismos ou serviços por ela instituídos;
+
+2) As Partes partilham da vontade comum de contribuir para a instituição de um quadro geral coerente e abrangente destinado a proteger, no interesse da União Europeia, as informações classificadas provenientes das Partes, de instituições da União Europeia ou de agências, organismos ou serviços por ela instituídos ou ainda, neste mesmo contexto, de países terceiros ou organizações internacionais;
+
+3) As Partes estão cientes de que o acesso a tais informações classificadas, bem como a troca dessas informações, exige medidas de segurança adequadas à sua protecção;
+
+acordaram no seguinte:
+
+###### Artigo 1.º
+
+O presente acordo visa assegurar que as Partes protejam informações classificadas:
+
+a) Provenientes de instituições da União Europeia ou de agências, organismos ou serviços por ela instituídos que sejam fornecidas às Partes ou com eles trocadas;
+
+b) Provenientes das Partes e fornecidas a instituições da União Europeia ou a agências, organismos ou serviços por ela instituídos ou com eles trocadas;
+
+c) Provenientes das Partes a fim de, no interesse da União Europeia, serem fornecidas ou entre elas trocadas e se encontrem marcadas como informações a que se aplica o disposto no presente acordo;
+
+d) Recebidas de países terceiros ou organizações internacionais por instituições da União Europeia ou por agências, organismos ou serviços por ela instituídos que sejam fornecidas às Partes ou com estas trocadas.
+
+###### Artigo 2.º
+
+Para efeitos do presente Acordo, entendese por «informações classificadas» qualquer informação ou material, sob qualquer forma, cuja divulgação não autorizada possa causar prejuízos de ordem vária aos interesses da União Europeia, ou aos de um ou mais dos seus Estados membros, e que ostente uma das seguintes marcas de classificação ou uma marca de classificação correspondente, tal como previsto no anexo:
+
+- «TRES SECRET UE/EU TOP SECRET». Esta marca aplica-se a informações e material cuja divulgação não autorizada possa prejudicar de forma excepcionalmente grave os interesses essenciais da União Europeia ou os de um ou vários dos seus Estados membros;
+
+- «SECRET UE/EU SECRET». Esta marca aplica-se a informações e material cuja divulgação não autorizada possa prejudicar gravemente os interesses essenciais da União Europeia ou os de um ou vários dos seus Estados membros;
+
+- «CONFIDENTIEL UE/EU CONFIDENTIAL». Esta marca aplica-se a informações e material cuja divulgação não autorizada possa prejudicar os interesses essenciais da União Europeia ou os de um ou vários dos seus Estados membros;
+
+- «RESTREINT UE/EU RESTRICTED». Esta marca aplicase a informações e material cuja divulgação não autorizada possa ser desfavorável aos interesses da União Europeia ou aos de um ou vários dos seus Estados membros.
+
+###### Artigo 3.º
+
+1 - Nos termos das respectivas disposições legislativas e regulamentares nacionais, as Partes devem tomar todas as medidas adequadas para assegurar que o nível de protecção previsto para as informações classificadas, objecto do presente Acordo, seja equivalente ao previsto nas regras de segurança do Conselho da União Europeia aplicáveis à protecção das informações classificadas que ostentem uma marca de classificação correspondente, tal como estabelecido no anexo.
+
+2 - Nada no presente Acordo deve prejudicar as disposições legislativas e regulamentares das Partes no que se refere ao acesso do público aos documentos, à protecção dos dados pessoais ou à protecção das informações classificadas.
+
+3 - As Partes devem notificar o depositário do presente Acordo de quaisquer alterações introduzidas nas classificações de segurança constantes do anexo. O artigo 11.º não é aplicável a essas notificações.
+
+###### Artigo 4.º
+
+1 - As Partes devem assegurar que as informações classificadas fornecidas ou trocadas no âmbito do presente Acordo não sejam:
+
+a) Desgraduadas ou desclassificadas sem o consentimento prévio, por escrito, da entidade de origem;
+
+b) Utilizadas para fins diferentes dos estabelecidos pela entidade de origem;
+
+c) Comunicadas a Estados terceiros ou organizações internacionais sem o consentimento prévio, por escrito, da entidade de origem e sem um acordo ou convénio adequado em matéria de protecção das informações classificadas com o Estado terceiro ou a organização internacional em questão.
+
+2 - O princípio do consentimento da entidade de origem deve ser respeitado por todas as Partes, nos termos das respectivas normas constitucionais e das disposições legislativas e regulamentares nacionais.
+
+###### Artigo 5.º
+
+1 - As Partes devem garantir que o acesso às informações classificadas seja concedido com base no princípio da «necessidade de conhecer».
+
+2 - As Partes devem assegurar que o acesso a informações classificadas que ostentem uma marca de classificação «CONFIDENTIEL UE/EU CONFIDENTIAL» ou superior ou uma marca de classificação equivalente, tal como estabelecido no anexo, só seja concedido a pessoas detentoras de uma credenciação de segurança adequada ou de outro modo devidamente autorizadas por força das suas funções, nos termos das disposições legislativas e regulamentares nacionais.
+
+3 - As Partes devem assegurar que todas as pessoas a quem seja facultado o acesso a informações classificadas sejam informadas da responsabilidade que lhes incumbe de proteger essas informações, nos termos das regulamentações de segurança adequadas.
+
+4 - Nos termos das disposições legislativas e regulamentares nacionais e se tal lhes for solicitado, as Partes devem prestar assistência mútua na realização de investigações relativas a credenciações de segurança.
+
+5 - Nos termos das disposições legislativas e regulamentares nacionais, as Partes devem assegurar que qualquer entidade sob a sua jurisdição que possa receber ou emitir informações classificadas detenha uma credenciação de segurança adequada e esteja em condições de assegurar a devida protecção, tal como previsto no n.º 1 do artigo 3.º, ao nível de segurança aplicável.
+
+6 - No âmbito do presente Acordo, as Partes podem reconhecer as credenciações de segurança do pessoal e das empresas que forem emitidas por uma outra Parte.
+
+###### Artigo 6.º
+
+As Partes devem garantir que todas as informações classificadas abrangidas pelo presente Acordo que sejam transmitidas, trocadas ou transferidas no seu seio ou entre quaisquer delas sejam devidamente protegidas, tal como previsto no n.º 1 do artigo 3.º
+
+###### Artigo 7.º
+
+Cada Parte deve assegurar a implementação de medidas adequadas para proteger, tal como previsto no n.º 1 do artigo 3.º, informações classificadas tratadas, armazenadas ou transmitidas por meio de sistemas de comunicação e informação. Essas medidas devem garantir a confidencialidade, integridade, disponibilidade e, sempre que aplicável, a não rejeição e a autenticidade das informações classificadas, bem como um nível adequado de responsabilização e rastreabilidade das acções que digam respeito a essas informações.
+
+###### Artigo 8.º
+
+Sempre que tal lhes seja solicitado, as Partes devem fornecer umas às outras informações relevantes acerca das respectivas regras e disposições regulamentares em matéria de segurança.
+
+###### Artigo 9.º
+
+1 - Nos termos das respectivas disposições legislativas e regulamentares nacionais, as Partes devem tomar todas as medidas adequadas para investigar os casos em que se tenha conhecimento ou existam motivos sérios para suspeitar de que tenham sido comprometidas ou perdidas informações classificadas abrangidas pelo âmbito de aplicação do presente Acordo.
+
+2 - Se uma Parte descobrir que se comprometeram ou perderam algumas informações, deve, através dos canais adequados, informar imediatamente da ocorrência a respectiva entidade de origem e pô-la, posteriormente, a par dos resultados da investigação e das medidas correctivas adoptadas para impedir que tal volte a acontecer. Se tal lhe for solicitado, qualquer outra Parte relevante pode prestar apoio na investigação.
+
+###### Artigo 10.º
+
+1 - O presente Acordo não deve afectar os acordos ou convénios no domínio da protecção ou troca de informações classificadas celebrados por qualquer das Partes.
+
+2 - Desde que tal não colida com as disposições do presente Acordo, nada obsta a que as Partes celebrem outros acordos ou convénios relativos à protecção ou à troca de informações classificadas delas provenientes.
+
+###### Artigo 11.º
+
+O presente Acordo pode ser alterado mediante acordo escrito entre as Partes. Qualquer alteração entra em vigor logo após a respectiva notificação, nos termos do n.º 2 do artigo 13.º
+
+###### Artigo 12.º
+
+Qualquer litígio entre duas ou mais Partes no que se refere à interpretação ou aplicação do presente Acordo deve ser resolvido mediante consultas entre as Partes envolvidas.
+
+###### Artigo 13.º
+
+1 - As Partes devem notificar o Secretário-Geral do Conselho da União Europeia do cumprimento das formalidades internas necessárias para que o presente Acordo entre em vigor.
+
+2 - O presente Acordo entra em vigor no primeiro dia do segundo mês subsequente ao da notificação feita ao Secretário-Geral do Conselho da União Europeia do cumprimento das formalidades internas necessárias à sua entrada em vigor pela última Parte a proceder a essa notificação.
+
+3 - O Secretário-Geral do Conselho da União Europeia será o depositário do presente Acordo, que será publicado no Jornal Oficial da União Europeia.
+
+###### Artigo 14.º
+
+O presente Acordo é redigido, em exemplar único, nas línguas alemã, búlgara, checa, dinamarquesa, eslovaca, eslovena, espanhola, estónia, finlandesa, francesa, grega, húngara, inglesa, irlandesa, italiana, letã, lituana, maltesa, neerlandesa, polaca, portuguesa, romena e sueca, fazendo igualmente fé os vinte e três textos.
+
+Em fé do que os abaixo assinados, representantes dos Governos dos Estados membros, reunidos no Conselho, apuseram as suas assinaturas no final do presente Acordo.
+
+## ANEXO — Equivalência das classificações de segurança
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/09/18700/0543205437.pdf))](https://files.diariodarepublica.pt/1s/2012/09/18700/0543205437.pdf)

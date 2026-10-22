@@ -1,0 +1,199 @@
+---
+schema_version: '1.0'
+id: pt:dre:596878:por
+title: Decreto n.º 33/91
+short_title: null
+summary: Aprova o Acordo de Cooperação no Sector Cooperativo entre a República Portuguesa e a República de Cabo Verde
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 33/91
+official_date: null
+publication_date: '1991-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 99/1991, Série I-A de 1991-04-30
+  number: '99'
+  series: I
+  supplement: null
+  pages: 2374 - 2375
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/04/099a00/23742375.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/33/1991/04/30/p/dre/pt/html
+  oj: null
+  dre: '596878'
+  dre_path: /dr/detalhe/decreto/33-1991-596878
+  internal: pt:dre:596878:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-1991-596878
+  metadata_url: https://data.dre.pt/eli/dec/33/1991/04/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-1991-596878
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-04-30T00:00:00Z'
+integrity:
+  source_sha256: 61331851d33591aab99b06cc0bfd4f3cb411e7b7f770eab28b824385751dbff2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-33-596878.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Instituto António Sérgio do Sector Cooperativo
+- Sector Cooperativo
+- Portugal
+- Instituto para a Cooperação Económica
+- Cabo Verde
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 33/91
+
+de 30 de Abril
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado o Acordo de Cooperação entre a República Portuguesa e a República de Cabo Verde no Sector Cooperativo, feito em Lisboa em 26 de Outubro de 1990, cujo texto original segue em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 14 de Março de 1991. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro.
+
+**Assinado em 9 de Abril de 1991.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 12 de Abril de 1991.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+ACORDO DE COOPERAÇÃO ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE NO SECTOR COOPERATIVO
+
+A República Portuguesa e a República de Cabo Verde, tendo presentes as relações de cooperação existentes entre os dois Estados e a vontade recíproca de estender esta cooperação aos domínios do desenvolvimento cooperativo e, especialmente, às áreas da formação e assistência técnica cooperativas, acordam, pelo presente Acordo, nos seguintes princípios:
+
+###### Artigo 1.º — Finalidade e objecto
+
+1 - O presente Acordo define as formas de cooperação a estabelecer entre a República de Cabo Verde, através do Instituto Nacional das Cooperativas (INC), e a Direcção-Geral da Cooperação Internacional (DGCI), por um lado, e a República Portuguesa, através do Instituto António Sérgio do Sector Cooperativo (INSCOOP) e do Instituto para a Cooperação Económica (ICE), por outro, e visa especialmente o aproveitamento das potencialidades dos referidos institutos portugueses no sentido de contribuírem para a resolução dos problemas que o INC enfrenta no domínio cooperativo no âmbito adiante acordado.
+
+2 - O presente Acordo destina-se a:
+
+a) Formação de base nos domínios da formação cooperativa, gestão de pequenas e médias empresas e informática e frequência de estágios de aperfeiçoamento e reciclagem nos domínios da gestão cooperativa, contabilidade, poupança e crédito, pescas e vinicultura;
+
+b) Assistência técnica de assessoria para a constituição de uniões e federações e também de acompanhamento de projectos, planificação e estatísticas;
+
+c) Visitas de estudo e troca de experiências a nível de uniões e federações, bem como de cooperativas de base;
+
+d) Troca de documentação a nível dos domínios específicos das alíneas anteriores, bem como de carácter geral em matérias cooperativas.
+
+###### Artigo 2.º — Desenvolvimento
+
+1 - O INSCOOP permitirá a nacionais cabo-verdianos a frequência de cursos que promova e desenvolva nos domínios que estejam no âmbito do presente Acordo, em número a definir por mútuo acordo em relação a cada acção de formação.
+
+2 - O INSCOOP, nos domínios específicos da sua actividade e dentro das suas possibilidades, proporcionará assistência técnica a nível do acompanhamento de projectos, planificação e estatística e da assessoria na constituição de uniões e federações cooperativas no âmbito do INC, designadamente nos campos jurídico, técnico e económico.
+
+3 - No que respeita a documentação e informação, o INSCOOP procederá:
+
+a) Ao envio de publicações ou de quaisquer outros documentos de carácter técnico nas áreas do âmbito deste Acordo a que tenha acesso ou editado pelo INSCOOP e que sejam considerados de interesse para o INC;
+
+b) Intercâmbio de documentação e informação cooperativa;
+
+c) Apoio, na medida das suas possibilidades, à impressão de documentação cooperativa elaborada em Cabo Verde.
+
+###### Artigo 3.º — Encargos e financiamento
+
+1 - O ICE suportará os encargos com as acções de formação a levar a efeito em Portugal, mediante a atribuição de bolsas, e participará nos custos das acções de formação de curta duração a realizar em Cabo Verde, de acordo com os programas anuais que venham a ser aprovados, compreendendo estes encargos o pagamento de viagens e de ajudas de custo, segundo a tabela em vigor para o funcionalismo público em Portugal.
+
+2 - Serão gratuitos os apoios do INSCOOP que não envolvam a deslocação dos seus técnicos e referentes a:
+
+a) Fornecimento de publicações editadas por este Instituto;
+
+b) Informação sobre reuniões nacionais ou internacionais e outros assuntos de interesse para o INC;
+
+c) Formação e aperfeiçoamento de quadros cabo-verdianos do INC no INSCOOP e em cooperativas de base ou de grau superior.
+
+3 - Serão da responsabilidade do INC para os trabalhos realizados em Cabo Verde por pessoal do INSCOOP:
+
+a) Obtenção dos meios de transporte necessários para as deslocações locais;
+
+b) Autorização para as deslocações no país, sempre que necessárias;
+
+c) Fornecimento de alojamento compatível com a categoria do pessoal deslocado e respectiva alimentação, em missões de curta duração;
+
+d) Assistência médica e medicamentosa;
+
+e) Restante apoio técnico e administrativo para o bom êxito das missões.
+
+4 - O suporte financeiro das acções previstas no presente Acordo e constantes dos programas anuais aprovados será assegurado pela conjugação das disponibilidades de verbas do ICE, nos termos do n.º 1 do artigo 3.º do INC, nos termos do n.º 3 do artigo 3.º, e de demais verbas que, para o efeito, vierem a ser consignadas.
+
+###### Artigo 4.º — Gestão do Acordo e programas
+
+1 - A gestão do Acordo e dos programas anuais nele previstos será feita por uma comissão coordenadora, com carácter permanente, que será constituída por um membro do INC, um da DGCI, um do INSCOOP e um do ICE, os quais estabelecerão o modo de funcionamento da comissão.
+
+2 - Competirá à comissão coordenadora:
+
+a) Elaborar os programas de trabalho anuais;
+
+b) Zelar pelo cumprimento dos programas;
+
+c) Elaborar, no final de cada ano, um relatório sobre as actividades exercidas no ano anterior e apresentar eventuais propostas tendentes à melhoria da cooperação.
+
+3 - Cada uma das instituições prestará o apoio administrativo necessário à boa execução do presente Acordo e dos programas anuais.
+
+4 - A definição das linhas gerais do programa respeitante a cada ano será feita até 15 de Novembro do ano anterior.
+
+O programa de trabalhos detalhado, incluindo a definição dos meios financeiros ou outros necessários, será submetido aos órgãos directivos das referidas entidades pela comissão coordenadora, de modo a estar aprovado até 15 de Dezembro do ano anterior àquele a que disser respeito.
+
+5 - Os relatórios de actividades referentes a cada ano deverão estar concluídos até final de Fevereiro do ano seguinte.
+
+###### Artigo 5.º — Disposição final
+
+O presente Acordo entrará em vigor na data da recepção da última notificação do cumprimento das formalidades legais exigidas para o efeito pela ordem jurídica interna de cada uma das Partes e terá a duração de um ano, sendo automaticamente renovado por iguais períodos, se não for denunciado por qualquer das Partes, mediante comunicação escrita enviada à outra com pelo menos 90 dias de antecedência em relação ao termo do período então em curso.
+
+Feito em Lisboa em 26 de Outubro de 1990, em dois exemplares em língua portuguesa, fazendo ambos os textos igualmente fé.
+
+Pela República Portuguesa:
+
+José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
+
+Pela República de Cabo Verde:
+
+José Brito, Ministro do Plano e da Cooperação.

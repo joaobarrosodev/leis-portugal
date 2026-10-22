@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:2510634:por
+title: Portaria n.º 536/2003 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 536/2003 (2.ª série)
+official_date: null
+publication_date: '2003-05-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/2003, Série II de 2003-05-08
+  number: '106'
+  series: II
+  supplement: null
+  pages: 7010 - 7011
+  pdf_url: https://files.diariodarepublica.pt/2s/2003/05/106000000/0701007011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2510634'
+  dre_path: /dr/detalhe/portaria/536-2003-2510634
+  internal: pt:dre:2510634:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-2003-2510634
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-2003-2510634
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-05-08T00:00:00Z'
+integrity:
+  source_sha256: c0e72e7f9070e8d9d43752fa60aabd1d3291c5c0c9e06be8c34e5de2517bc795
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-536-2510634.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 536/2003 (2.ª série)
+
+Portaria n.º 536/2003 (2.ª série). - 1 - Considerando o disposto no n.º 5 do artigo 15.º, no artigo 26.º e no n.º 2 do artigo 28.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de Setembro, declaro a classificação das peças a seguir identificadas como bens de interesse público:
+
+a) Imagem em marfim, cíngalo-portuguesa, datável do século XVII, representando Nossa Senhora da Conceição - a imagem apresenta-se de mãos postas e assenta sobre crescente lunar. Enverga túnica pregueada, de decote redondo e punhos decorados a azul, sob longo manto da mesma cor. Este é decorado com motivos florais esparsos, a branco e dourado, desenvolvendo-se em pregas simétricas de sentido ascensional, cingidas pelos braços. O rosto delicado da imagem é destacado por cabeleira longa, apartada a meio, apresentando vestígios de policromia. A imagem possui ainda uma base em forma de flor de lótus estilizada. Altura: 17,8 cm.
+
+Proveniente da colecção Francisco Hipólito Raposo, a imagem integra o acervo do Museu Nacional de Arte Antiga, em Lisboa;
+
+b) Aquamanil em faiança portuguesa policroma do século XVII, representando uma sereia. De expressão facial jovem, a figura apresenta orifício bucal para verter água e longos cabelos levemente relevados e pintados. Ao pescoço, apresenta gargantilha em tons de azul e amarelo. Os braços, arqueados e apoiados sobre as ancas, seguram pela cauda dois golfinhos afrontados, destacados sobre fundo azul simulando o mar. Algas estilizadas e dispostas em círculo estabelecem a ligação entre o corpo e a cauda escamada, de barbatanas amarelas, terminando em gargalo de enchimento. A figura assenta sobre base em forma de losango e apresenta zonas intervencionadas. Altura: 27 cm.
+
+Proveniente da colecção Túlio Espanca e posteriormente integrado na colecção Francisco Hipólito Raposo, o aquamanil é propriedade da Fundação Carmona e Costa, em Lisboa;
+
+c) Cunho duplo em bronze para a placa, em biscuit, comemorativa da erecção da estátua de D. José I na Praça do Comércio, em Lisboa, em 1775. Trabalho português do século XVIII, executado no Arsenal Real do Exército. A placa original foi provavelmente modelada por Machado de Castro, o cunho foi aberto pelo notável medalhista aveirense João de Figueiredo (1725-1809), gravador de armas no Arsenal Real, e a placa de porcelana correspondente foi executada por Bartolomeu da Costa. Dimensões: 16 cmx11 cm.
+
+Proveniente da colecção Francisco Hipólito Raposo, o cunho duplo é actualmente propriedade do Dr. Luís Manuel Aguiar da Fonseca Alegria, residente no Porto.
+
+2 - Nos termos da legislação em vigor, os bens descritos no número anterior não poderão ser alienados ou enviados para fora do País nem ser objecto de quaisquer trabalhos de conservação, reparação ou modificação sem a prévia autorização do Ministro da Cultura.
+
+3 - A presente portaria produz efeitos a partir da data da sua assinatura.
+
+7 de Abril de 2003. - O Ministro da Cultura, Pedro Manuel da Cruz Roseta.

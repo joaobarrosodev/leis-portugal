@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:197307:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/1999-1014499016",
+ "dre_path": "/dr/detalhe/aviso/11-1999-197307",
+ "source_lastmod": "2026-10-07",
+ "versions": [
+  {
+   "date": "1999-01-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1178220575",
+    "1014896175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1178220575": {
+   "fragment_id": "1014895875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que, por nota de 3 de Setembro de 1998, agindo na sua qualidade de depositária do Acordo Geral sobre os Privilégios e Imunidades do Conselho da Europa, aberto à assinatura em Paris em 2 de Setembro de 1949, a Secretaria-Geral do Conselho da Europa notificou ter a Lituânia, em 22 de Julho de 1998, depositado o seu instrumento de adesão ao mencionado Acordo.\n\nO Acordo entrou em vigor para a Lituânia em 22 de Julho de 1998.\n\nPortugal é Parte no mesmo Acordo, que foi aprovado, para adesão, pelo Decreto n.º 41/82, de 7 de Abril, tendo depositado o seu instrumento de adesão em 6 de Julho de 1982, conforme aviso publicado no Diário da República, 1.ª série, n.º 180, de 6 de Agosto de 1982."
+  },
+  "1014896175": {
+   "fragment_id": "1014896075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Departamento de Assuntos Jurídicos, 21 de Dezembro de 1998. - O Director, José Maria Teixeira Leite Martins."
+  }
+ }
+}

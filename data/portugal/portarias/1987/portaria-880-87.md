@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:496890:por
+title: Portaria n.º 880/87
+short_title: null
+summary: Coloca em regime de instalação o Centro de Saúde Mental Ocidental do Porto - Hospital de Magalhães de Lemos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 880/87
+official_date: null
+publication_date: '1987-11-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 262/1987, Série I de 1987-11-13
+  number: '262'
+  series: I
+  supplement: null
+  pages: 4004 - 4004
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/11/26200/40044004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '496890'
+  dre_path: /dr/detalhe/portaria/880-1987-496890
+  internal: pt:dre:496890:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/880-1987-496890
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/880-1987-496890
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-11-13T00:00:00Z'
+integrity:
+  source_sha256: 8c400e4f1512aa599fc0325ab34b796ad520a8fb6e51500e9caddbe928e1549f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-880-496890.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 880/87
+
+de 13 de Novembro
+
+Ao abrigo dos artigos 79.º e seguintes do [Decreto-Lei n.º 413/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1971-632738), de 27 de Setembro:
+
+Manda o Governo da República Portuguesa, pela Ministra da Saúde, o seguinte:
+
+1.º O Centro de Saúde Mental Ocidental do Porto - Hospital de Magalhães de Lemos é colocado em regime de instalação, pelo período de um ano, a partir de 1 de Janeiro de 1988.
+
+2.º Durante o período em que vigorar o regime de instalação o Centro será gerido por uma comissão instaladora, com a composição a definir por despacho ministerial.
+
+3.º Compete à comissão instaladora a gestão do Centro de Saúde Mental Ocidental do Porto - Hospital de Magalhães de Lemos, bem como a reestruturação de serviços necessária à entrada em pleno funcionamento, no prazo de um ano, dos Centros de Saúde Mental da Póvoa de Varzim/Vila do Conde, de Matosinhos e do Porto Ocidental, devendo para tal executar ou propor as acções que entender imprescindíveis para a prossecução daqueles fins.
+
+Ministério da Saúde.
+
+**Assinada em 20 de Outubro de 1987.**
+
+**A Ministra da Saúde, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.**

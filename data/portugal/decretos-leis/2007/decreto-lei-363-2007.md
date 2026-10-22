@@ -1,0 +1,906 @@
+---
+schema_version: '1.0'
+id: pt:dre:629412:por
+title: Decreto-Lei n.º 363/2007
+short_title: null
+summary: Estabelece o regime jurídico aplicável à produção de electricidade por intermédio de unidades de micro-produção
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e da Inovação
+proposing_entity: null
+official_number: 363/2007
+official_date: null
+publication_date: '2007-11-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/2007, Série I de 2007-11-02
+  number: '211'
+  series: I
+  supplement: null
+  pages: 7978 - 7984
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/11/21100/0797807984.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes:
+- O n.º 7 do artigo 45.º do Decreto-Lei n.º 153/2014 mantém em vigor o n.º 5 do artigo 12.º do presente Decreto-Lei, relativamente
+  a fornecimentos de eletricidade efetuados por produtores abrangidos por este regime jurídico.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2015-01-18'
+version_history:
+  file: decreto-lei-363-2007.versoes.json
+  count: 5
+  source_lastmod: '2024-08-20'
+  versions:
+  - date: '2007-11-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-01'
+    amending: pt:dre:529450:por
+    amending_title: Lei n.º 67-A/2007
+    changes:
+    - Altera Artigo 12.º
+  - date: '2010-10-30'
+    amending: pt:dre:646164:por
+    amending_title: Decreto-Lei n.º 118-A/2010
+    changes:
+    - Revoga Artigo 16.º
+    - Revoga Artigo 27.º
+  - date: '2013-02-24'
+    amending: pt:dre:258540:por
+    amending_title: Decreto-Lei n.º 25/2013
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+  - date: '2015-01-18'
+    amending: pt:dre:58406974:por
+    amending_title: Decreto-Lei n.º 153/2014
+    changes:
+    - Altera Artigo 12.º
+    - Revoga Capítulo I
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 11.º-A
+    - Revoga Artigo 12.º-A
+    - Revoga Capítulo III
+    - Revoga Artigo 13.º
+    - Revoga Artigo 13.º-A
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+    - Revoga Capítulo IV
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Assinatura
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/363/2007/p/cons/20141020/pt/html
+  oj: null
+  dre: '629412'
+  dre_path: /dr/detalhe/decreto-lei/363-2007-629412
+  internal: pt:dre:629412:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-2007-629412
+  metadata_url: https://data.dre.pt/eli/dec-lei/363/2007/p/cons/20141020/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-884940105
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-884940105
+  retrieved_at: '2026-10-22T13:12:29Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-20T00:00:00Z'
+integrity:
+  source_sha256: fd06e457282785bd324ab8c72f84a6392edb9342eeeac6778dfa7e86cc5081ec
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:12:29Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-363-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Distribuição de Energia Elétrica
+- Sociedade Anónima
+- Energia Elétrica
+- Instituto da Construção e do Imobiliário
+- Contra-ordenação
+- Contrato de Concessão
+- Definição de Competências
+- Direcção Regional da Energia
+- EDP
+- Política Energética
+- Direção Geral de Energia e Geologia
+- Licenciamento
+- Informação do Consumidor
+- Preço
+- Produção de Energia Elétrica
+- Produtor
+- Madeira.região Autónoma
+- Proteção do Consumidor
+- Rede Elétrica de Serviço Público
+- Rede Elétrica Nacional
+- Regime Jurídico
+- Açores
+- Taxa
+- Comércio
+- Utente
+relationships:
+- type: amended_by
+  target: pt:dre:529450:por
+  label: Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:646164:por
+  label: Revoga Artigo 16.º; Revoga Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164
+  date: '2010-10-25'
+- type: amended_by
+  target: pt:dre:258540:por
+  label: Altera Artigo 2.º; Altera Artigo 6.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 17.º; Altera Artigo 19.º;
+    Altera Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540
+  date: '2013-02-19'
+- type: amended_by
+  target: pt:dre:58406974:por
+  label: Altera Artigo 12.º; Revoga Capítulo I; Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º;
+    Revoga Artigo 5.º; Revoga Artigo 6.º; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º; Revoga
+    Artigo 11.º; Revoga Artigo 11.º-A; Revoga Artigo 12.º-A; Revoga Capítulo III; Revoga Artigo 13.º; Revoga Artigo 13.º-A;
+    Revoga Artigo 14.º; Revoga Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974
+  date: '2014-10-20'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172/2006/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/264/2007/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/264/2007/07/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/29/2006/02/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/29/2006/02/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/312/2001/12/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/312/2001/12/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/68/2002/03/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/68/2002/03/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/80/2006/04/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/80/2006/04/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/169/2005/10/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/169/2005/10/24/p/dre
+article_structure:
+  article_count: 30
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:12:29Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 363/2007
+
+Decreto-Lei n.º 363/2007
+
+de 2 de Novembro
+
+O Decreto-Lei n.º 29/2006, de 15 de Março, veio estabelecer as bases gerais de organização e funcionamento do Sistema Eléctrico Nacional (SEN), classificando a produção de electricidade em regime ordinário e em regime especial. Ao regime especial corresponde a produção de electricidade com incentivos à utilização de recursos endógenos e renováveis ou a produção combinada de calor e electricidade.
+
+Independentemente da revisão dos regimes aplicáveis às energias renováveis e à co-geração, entendeu o Governo avançar, desde já, com um regime simplificado aplicável à microprodução de electricidade, também designado por renováveis na hora conforme previsto no Programa de Simplificação Administrativa e Legislativa SIMPLEX 2007.
+
+A microprodução de electricidade, como actividade de produção de electricidade em baixa tensão com possibilidade de entrega de energia à rede eléctrica pública, foi regulada pelo Decreto-Lei n.º 68/2002, de 25 de Março. O presente decreto-lei prevê que a electricidade produzida se destine predominantemente a consumo próprio, sendo o excedente passível de ser entregue a terceiros ou à rede pública, com o limite de 150 kW de potência no caso de a entrega ser efectuada à rede pública.
+
+Passados que são mais de cinco anos desde a entrada em vigor do Decreto-Lei n.º 68/2002, de 25 de Março, verifica-se que o número de sistemas de microgeração de electricidade licenciados e a funcionar ao abrigo deste enquadramento legal não atingiu uma expressão significativa.
+
+Por outro lado, o Decreto-Lei n.º 312/2001, de 10 de Dezembro, estabeleceu as disposições aplicáveis à gestão da capacidade de recepção de electricidade nas redes do Sistema Eléctrico de Serviço Público (SEP), por forma a permitir a recepção e a entrega de electricidade proveniente de novos centros electroprodutores do Sistema Eléctrico Independente (SEI). Contudo, esse decreto-lei aplica-se a todos os centros electroprodutores, independentemente da sua potência nominal ou localização geográfica, conduzindo, assim, a uma excessiva centralização administrativa dos processos de licenciamento de micro ou pequena ou microdimensão.
+
+Assim, desta forma, o presente decreto-lei vem simplificar significativamente o regime de licenciamento existente, substituindo-o por um regime de simples registo, sujeito a inspecção de conformidade técnica. A entrega e a análise de projecto são substituídas pela criação de uma base de dados de elementos-tipo preexistente que o produtor deve respeitar, encurtando-se um procedimento com duração de vários meses a um simples registo electrónico.
+
+É criado o Sistema de Registo da Microprodução (SRM), que constitui uma plataforma electrónica de interacção com os produtores, no qual todo o relacionamento com a Administração, necessário para exercer a actividade de microprodutor, poderá ser realizado.
+
+É ainda previsto um regime simplificado de facturação e de relacionamento comercial, evitando-se a emissão de facturas e acertos de IVA pelos particulares, que, para esse efeito, são substituídos pelos comercializadores. O microprodutor recebe ou paga através de uma única transacção, pelo valor líquido dos recebimentos relativos à electricidade produzida e dos pagamentos relativos à electricidade consumida.
+
+O presente decreto-lei cria, também, dois regimes de remuneração: o regime geral e o bonificado. O primeiro para a generalidade das instalações e o segundo apenas aplicável às fontes renováveis de energia, cujo acesso é condicionado à existência no local de consumo de colectores solares térmicos, no caso de produtores individuais, e da realização de auditoria energética e respectivas medidas, no caso de condomínios. O incentivo associado à venda de electricidade é, assim, utilizado para promover a água quente solar, complementando o Decreto-Lei n.º 80/2006, de 21 de Abril, que estabelece a obrigatoriedade de instalação destes sistemas nos novos edifícios.
+
+Este decreto-lei vem dar expressão a duas das medidas contempladas na Resolução do Conselho de Ministros n.º 169/2005, de 24 de Outubro, que aprova a Estratégia Nacional para a Energia, no que respeita às linhas de orientação política sobre renováveis e eficiência energética.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e as associações de consumidores.
+
+Foi promovida a audição do Conselho Nacional do Consumo.
+
+Foram ouvidos, a título facultativo, a Entidade Reguladora dos Serviços Energéticos e a Associação do Sector das Energias Renováveis.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime jurídico aplicável à produção de electricidade por intermédio de instalações de pequena potência, adiante designadas por unidades de microprodução.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+###### Artigo 2.º — Siglas e definições
+
+Para efeitos do presente decreto-lei, são utilizadas as seguintes siglas e definições:
+
+a) «Comercializador» a entidade titular da licença de comercialização de electricidade;
+
+b) «Comercializador de último recurso» o comercializador de último recurso referido no n.º 1 do artigo 73.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, ou, na área das concessões de distribuição de eletricidade em Baixa Tensão, o comercializador de último recurso exclusivamente em Baixa Tensão referido no n.º 4 do artigo 73.º do Decreto-Lei n.º 29/2006 de 15, de fevereiro, salvo menção específica em contrário;
+
+c) «DGEG» a Direcção-Geral de Energia e Geologia;
+
+d) «DRE» a direcção regional de economia competente;
+
+e) «Potência contratada» o limite da potência estabelecida no dispositivo controlador da potência de consumo;
+
+f) «Potência instalada» a potência, em quilowatt, dos equipamentos de produção de electricidade;
+
+g) «Potência de ligação» a potência máxima ou, no caso de instalações com inversor, a potência nominal de saída deste equipamento, em quilowatt, que o produtor pode injectar na Rede Eléctrica de Serviço Público (RESP);
+
+h) «Ponto de ligação» o ponto que estabelece a fronteira entre a instalação de microprodução e a rede a que se encontra ligada;
+
+i) «Produtor» a entidade titular de um registo para a produção de electricidade por intermédio de uma unidade de microprodução, nos termos do presente decreto-lei;
+
+j) «RESP» a Rede Eléctrica de Serviço Público;
+
+l) «SRM» o Sistema de Registo de Microprodução, que constitui uma plataforma electrónica de interacção entre a Administração Pública e os produtores, acessível através do Portal Renováveis na Hora;
+
+m) (Revogada.)
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 3.º — Âmbito
+
+1 - O presente decreto-lei aplica-se à microprodução de electricidade a partir de recursos renováveis e à microprodução de electricidade e calor em co-geração, ainda que não renovável, mediante a utilização de uma unidade ou instalação, monofásica ou trifásica, em baixa tensão, com potência de ligação até 5,75 kW.
+
+2 - O presente decreto-lei aplica-se igualmente aos condomínios que integrem seis ou mais fracções, em que sejam utilizadas instalações trifásicas com uma potência até 11,04 kW.
+
+3 - Em qualquer dos casos referidos nos números anteriores, a microprodução tem de ter por base uma só tecnologia de produção.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 4.º — Acesso à actividade de produção
+
+1 - Podem ser produtores de electricidade por intermédio de unidades de microprodução as entidades que preencham os seguintes requisitos:
+
+a) Disponham de uma instalação de utilização de energia eléctrica com consumo efectivo de energia e que sejam titulares de contrato de compra e venda de electricidade em baixa tensão celebrado com um comercializador;
+
+b) A unidade de microprodução se destine a ser instalada no local servido pela instalação eléctrica de utilização;
+
+c) A potência da unidade de microprodução não seja superior a 50 % da potência contratada no contrato referido na alínea a).
+
+2 - O requisito previsto na alínea c) do número anterior não é aplicável se instalação eléctrica de utilização estiver em nome de condomínio, que integre seis ou mais fracções.
+
+3 - O acesso à actividade de microprodução de electricidade está sujeito a registo e subsequente obtenção de certificado de exploração da instalação, nos termos do presente decreto-lei.
+
+4 - O membro do Governo responsável pela área da energia pode determinar, mediante despacho a publicar no SRM:
+
+a) Os termos da suspensão do registo ou a sua sujeição a limitações, com vista a propiciar o cumprimento de prioridades da política energética ou a sua relação com outras políticas sectoriais, nomeadamente as destinadas ao equilíbrio regional, ou a assegurar a boa gestão do acesso à actividade de microprodução e a optimização da gestão das capacidades de injecção e recepção de electricidade na RESP;
+
+b) A utilização de procedimentos especiais para acesso ao registo, quando tal se justifique relativamente a registos no âmbito da tarifa bonificada.
+
+5 - (Revogado.)
+
+6 - O acesso à actividade de microprodução pode ser restringido mediante comunicação pelo operador da rede de distribuição, nos casos em que a instalação de utilização esteja ligada a um posto de transformação cujo somatório da potência dos registos aí ligados ultrapasse o limite de 25 % da potência do respectivo posto de transformação.
+
+7 - A restrição prevista no número anterior é aplicável apenas aos pedidos de registo recebidos pelo SRM após cinco dias úteis da comunicação pelo operador da rede de distribuição ao SRM das instalações eléctricas de utilização abrangidas.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 5.º — Direitos do produtor
+
+No âmbito do exercício da actividade de produção de electricidade, o produtor tem o direito de:
+
+a) Estabelecer uma unidade de microprodução por cada instalação eléctrica de utilização;
+
+b) Ligar a unidade de microprodução à RESP, após a emissão do certificado de exploração e celebração do respectivo contrato de compra e venda de electricidade, nos termos dos artigos 12.º-A a 20.º;
+
+c) Vender a totalidade da electricidade produzida, líquida do consumo dos serviços auxiliares, nos termos e com os limites estabelecidos no presente decreto-lei.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 6.º — Deveres do produtor
+
+Sem prejuízo do cumprimento da legislação e regulamentação aplicáveis, o produtor deve:
+
+a) Entregar a totalidade da electricidade produzida, líquida do consumo dos serviços auxiliares, à rede pública de distribuição em baixa tensão (BT);
+
+b) Produzir electricidade apenas a partir da fonte de energia registada nos termos do presente decreto-lei;
+
+c) Consumir o calor produzido no caso de produção em co-geração;
+
+d) Celebrar um contrato de compra e venda de electricidade, nos termos do artigo 19.º;
+
+e) Prestar à DGEG, ou a entidade designada por esta, à DRE, ao comercializador de último recurso e ao operador da rede de distribuição todas as informações que lhe sejam solicitadas;
+
+f) Permitir e facilitar o acesso do pessoal técnico da DGEG ou da entidade designada por esta, da DRE, do comercializador de último recurso e do operador da rede de distribuição à unidade de microprodução, no âmbito das suas competências, para efeitos do presente decreto-lei;
+
+g) Suportar os custos da ligação à RESP, nos termos do Regulamento de Relações Comerciais, incluindo o respectivo contador de venda;
+
+h) No caso de instalações que utilizem a energia eólica, ou que estejam localizadas em locais de livre acesso ao público, possuir um seguro de responsabilidade civil, nos termos a definir mediante por portaria dos membros do Governo responsáveis pelas áreas das finanças e da economia.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 7.º — Competências da DGEG
+
+1 - Compete à DGEG a coordenação do processo de gestão da microprodução, nomeadamente:
+
+a) Criar, manter e gerir o SRM destinado ao registo das unidades de microprodução;
+
+b) Realizar as inspecções necessárias à emissão do certificado de exploração, directamente ou através de técnicos contratados para o efeito;
+
+c) Proceder ao registo da instalação de microprodução e emitir o respectivo certificado de exploração, nos termos do presente decreto-lei;
+
+d) Criar e manter uma base de dados de elementos-tipo, que integrem os equipamentos para as diversas soluções de unidades de microprodução;
+
+e) Manter a lista das entidades instaladoras devidamente actualizada;
+
+f) Constituir uma bolsa de equipamentos certificados, mantendo uma lista actualizada no SRM;
+
+g) Controlar a emissão dos certificados dos equipamentos fornecidos pelos fabricantes, importadores, seus representantes e entidades instaladoras, nos termos previstos no presente decreto-lei;
+
+h) Aprovar os formulários e instruções necessários ao bom funcionamento do SRM de acordo com as funções que lhe estão atribuídas pelo presente decreto-lei;
+
+i) Fornecer aos interessados e divulgar no SRM informação relativamente às diversas soluções de microprodução de electricidade e (ou) calor, designadamente as suas vantagens e inconvenientes.
+
+2 - O director-geral de Energia e Geologia pode designar, mediante celebração de protocolo homologado pelo membro do Governo responsável pela área da energia, pelo prazo de quatro anos renováveis, entidades legalmente constituídas e reconhecidas para desempenhar as funções no âmbito das competências previstas nas alíneas a) a g) do número anterior.
+
+3 - As funções que se integram no âmbito das competências previstas nas alíneas a) a f) do n.º 1 podem ser, nos termos do número anterior, desempenhadas por entidade legalmente constituída e reconhecida para aprovar projectos e inspeccionar instalações eléctricas.
+
+4 - A função que se integra no âmbito da competência prevista na alínea g) do n.º 1 pode ser, nos termos do n.º 2, desempenhada por organismo de certificação acreditado no âmbito do Sistema Português de Qualidade para proceder à certificação de equipamentos eléctricos de acordo com a Norma 45011.
+
+5 - O director-geral de Energia e Geologia aprova, mediante despacho publicado no SRM, um guia técnico e de qualidade para as instalações de microprodução que se justifiquem para o adequado funcionamento do sistema.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 8.º — Entidades instaladoras da microprodução
+
+1 - A actividade de instalação de unidades de microprodução é desenvolvida por entidades instaladoras da microprodução e depende de registo no SRM.
+
+2 - Podem exercer a actividade de instalação de unidades de microprodução empresários em nome individual ou sociedades comerciais, com alvará emitido pelo InCI - Instituto da Construção e do Imobiliário, I. P., para a execução de instalações de produção de electricidade.
+
+3 - Cada entidade instaladora deve dispor de um técnico responsável pela execução de instalações eléctricas de serviço particular.
+
+4 - A DGEG, ou a entidade designada por esta, actualiza periodicamente a lista das entidades instaladoras registadas no SRM.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+### Capítulo II — Remuneração e facturação
+
+###### Artigo 9.º — Regimes remuneratórios
+
+1 - O produtor está sujeito a um dos seguintes regimes remuneratórios:
+
+a) O regime geral, aplicável a todos os que tenham acedido à actividade de microprodução e não se enquadrem no regime bonificado, nos termos do presente decreto-lei;
+
+b) O regime bonificado.
+
+2 - O regime previsto na alínea b) do número anterior é aplicável a produtores que preencham cumulativamente os seguintes requisitos:
+
+a) A potência de ligação da respectiva unidade de microprodução não seja superior a 3,68 kW ou no caso dos condomínios, a 11,04 kW;
+
+b) A unidade de microprodução utilize uma das fontes de energia previstas no n.º 6 do artigo 11.º;
+
+c) O local de consumo associado à microprodução disponha de colectores solares térmicos com um mínimo de 2 m2 de área útil de colector ou de caldeira a biomassa com produção anual de energia térmica equivalente.
+
+3 - O regime bonificado é ainda aplicável:
+
+a) Aos produtores que preencham os requisitos previstos nas alíneas a) e b) do número anterior e cuja unidade de microprodução seja uma co-geração e esteja integrada no aquecimento do edifício;
+
+b) Aos condomínios, mediante uma auditoria energética e desde que a implementação de medidas de eficiência energética identificadas na auditoria preveja um retorno até dois anos.
+
+4 - O acesso a um dos regimes remuneratórios previstos no n.º 1 é solicitado pelo promotor aquando do registo e está sujeito à verificação do cumprimento do disposto nos números anteriores.
+
+5 - No âmbito do presente decreto-lei apenas é remunerada a energia activa entregue à RESP.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 10.º — Regime geral
+
+1 - Todos os produtores que não obtenham acesso ao regime bonificado são considerados no regime geral.
+
+2 - Até à entrada em vigor do diploma que procederá à revisão do regime jurídico da microprodução e da miniprodução, e sem prejuízo do disposto no n.º 4, o comercializador de último recurso compra a eletricidade produzida em unidades de microprodução no âmbito do regime geral, remunerando-a de acordo com a seguinte fórmula:
+
+(ver documento original)
+
+3 - Para efeitos da fórmula prevista no número anterior:
+
+a) «Rem(índice m)» é a remuneração do mês m, em [(euro)];
+
+b) «W(índice m)» é a energia produzida no mês m, em [kWh];
+
+c) «P(índice ref)» é o valor da parcela de energia da tarifa simples entre 2,30 e 20,7 kVA aplicada no ano de 2012 pelo comercializador de último recurso ao fornecimento da instalação de consumo;
+
+d) «IPC(índice ref)» é o índice de preços no consumidor, sem habitação, no continente, referente ao mês de dezembro de 2011, publicado pelo Instituto Nacional de Estatística, I.P.;
+
+e) «IPC(índice n-1)» é o índice de preços no consumidor, sem habitação, no continente, referente ao mês de dezembro do ano n-1, publicado pelo Instituto Nacional de Estatística, I.P.
+
+4 - Os produtores enquadrados no regime geral podem optar por vender a eletricidade produzida na unidade de microprodução diretamente em mercados organizados ou mediante a celebração de contratos bilaterais, incluindo com a entidade que exercer a atividade de facilitador de mercado.
+
+5 - A opção referida no número anterior deve ser comunicada ao comercializador de último recurso e ao SRM no prazo estabelecido no n.º 1 do artigo 19.º ou, caso seja tomada já no decurso da exploração da unidade de microprodução, com a antecedência de 60 dias relativamente ao início dos respetivos efeitos.
+
+6 - Exercida a opção referida no n.º 4, o comercializador de último recurso fica desobrigado de adquirir a energia produzida pelo produtor.
+
+7 - O SRM deve dar conhecimento da comunicação referida no n.º 5 ao operador da rede de distribuição.
+
+8 - O exercício da opção referida no n.º 4 é definitivo, não podendo os produtores voltar a solicitar a aplicação do regime remuneratório previsto no n.º 2.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24
+
+###### Artigo 11.º — Regime bonificado
+
+1 - No regime bonificado, o produtor é remunerado com base na tarifa de referência que vigorar à data da emissão do certificado de exploração.
+
+2 - A tarifa é devida desde o início do fornecimento à rede.
+
+3 - A tarifa é aplicável durante um total de 15 anos contados desde o 1.º dia do mês seguinte ao do início do fornecimento, subdivididos em dois períodos, o primeiro com a duração de 8 anos e o segundo com a duração dos subsequentes 7 anos.
+
+4 - A aplicação do regime remuneratório bonificado caduca quando o produtor comunique ao SRM a renúncia à sua aplicação, ou no final do período de 15 anos referido no número anterior, ingressando o produtor no regime remuneratório geral.
+
+5 - A tarifa de referência é fixada em (euro) 400/MWh para o primeiro período e em (euro) 240/MWh para o segundo período, nos termos do n.º 3, sendo o valor de ambas as tarifas sucessivamente reduzido anualmente em (euro) 20/MWh.
+
+6 - O tarifa a aplicar varia consoante o tipo de energia primária utilizada, sendo determinada mediante a aplicação das seguintes percentagens:
+
+a) Solar - 100 %;
+
+b) Eólica - 80 %;
+
+c) Hídrica - 40 %;
+
+d) Co-geração a biomassa - 70 %;
+
+e) Pilhas de combustível com base em hidrogénio proveniente de microprodução renovável - percentagem prevista nas alíneas anteriores aplicável ao tipo de energia renovável utilizado para a produção do hidrogénio;
+
+f) Co-geração não renovável - 40 %.
+
+7 - A electricidade vendida nos termos dos números anteriores é limitada a 2,4 MWh/ano no caso das alíneas a) e b) do número anterior, e a 4 MWh/ano no caso das restantes alíneas deste mesmo número, por cada quilowatt instalado.
+
+8 - A potência de ligação que, em cada ano civil, pode ser objecto de registo para microprodução, no âmbito do regime bonificado, não pode ser superior à quota anual de 25 MW.
+
+9 - O SRM encerra automaticamente o procedimento de registo, no âmbito do regime bonificado, logo que a soma das potências resultantes das inscrições realizadas num dado ano atinja o valor correspondente ao somatório da quota anual que estiver estabelecida nos termos do número anterior para esse ano, acrescida de metade da quota anual prevista para o ano seguinte.
+
+10 - Mediante despacho a publicar no SRM até 31 de Dezembro de cada ano, o director-geral da Energia e Geologia divulga o valor da tarifa aplicável no ano seguinte e a quota de potência de ligação a alocar nesse ano, tendo em conta o disposto nos n.os 5 e 8 do presente artigo e no n.º 1 do artigo 11.º-A, e eventuais saldos de potência resultantes de anos anteriores, estabelecendo ainda a programação temporal da referida alocação de potência para a totalidade do ano a que respeita, através do sistema de registos.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 11.º-A — Registos de interesse público
+
+1 - O membro do Governo responsável pela área da energia, mediante despacho a publicar no SRM, pode reservar uma percentagem de até 5 % da quota de potência que vigorar nos termos do artigo anterior, a qual integra uma bolsa de registos de interesse público a atribuir a entidades que prestem serviços de carácter social, nomeadamente estabelecimentos na área da saúde, educação, solidariedade e protecção social, bem como na área da defesa e segurança e outros serviços do Estado ou das autarquias locais.
+
+2 - O membro do Governo responsável pela área da energia, ouvidas as entidades do sector, actualiza, mediante portaria, o valor da tarifa de referência, podendo proceder a ajustamentos às percentagens definidas no n.º 6 do artigo 11.º ou às quotas estabelecidas no n.º 8 do artigo 11.º e no número anterior, tendo em vista assegurar a sua adequação aos objectivos da política energética, à sua relação com outras políticas sectoriais, e à evolução dos mercados ou ao equilíbrio regional.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 12.º — Facturação, contabilidade e relacionamento comercial
+
+1 - (Revogado.)
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - No caso de produtores que não se encontrem enquadrados, para efeitos de IVA, no regime normal de tributação e relativamente às transmissões de bens que venham a derivar exclusivamente da microprodução de energia eléctrica, é aplicável, com as necessárias adaptações, o regime especial de entrega de imposto previsto no artigo 10.º do Decreto-Lei n.º 122/88, de 20 de Abril, devendo os comercializadores, em sua substituição, dar cumprimento às obrigações de liquidação e entrega do imposto.
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+> Nota: [Artigo 45.º, Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974) O n.º 7 do artigo 45.º do Decreto-Lei n.º 153/2014 mantém em vigor o n.º 5 do artigo 12.º do presente Decreto-Lei, relativamente a fornecimentos de eletricidade efetuados por produtores abrangidos por este regime jurídico.
+
+> Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+> Alterado pelo/a Artigo 90.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+###### Artigo 12.º-A — SRM
+
+1 - O SRM assegura, nomeadamente:
+
+a) A autenticação dos utilizadores através de códigos que permitam o acesso à informação acessível no SRM;
+
+b) A indicação dos dados de identificação dos promotores e produtores;
+
+c) O preenchimento electrónico dos elementos necessários ao registo da microprodução e à entrega dos elementos necessários à sua apreciação;
+
+d) O pagamento da taxa devida pela apreciação do processo de registo e outras taxas previstas na portaria referida no n.º 3 do artigo 23.º, por via electrónica;
+
+e) O preenchimento electrónico do pedido de inspecção ou reinspecção;
+
+f) A recolha de informação que permita o contacto entre os serviços competentes e os promotores ou produtores e seus representantes constituídos;
+
+g) A certificação da data e da hora em que os pedidos e outras declarações ou informações são apresentados, bem como as inscrições, os registos, as inspecções ou as reinspecções e os certificados de exploração e os respectivos averbamentos foram atribuídos, através do SRM;
+
+h) A não validação ou não recepção dos pedidos que não preencham os requisitos de acesso ou de pagamento das taxas de que depende o seu seguimento;
+
+i) A consulta do estado do pedido, a todo o momento, pelos requerentes inscritos ou registados;
+
+j) A emissão de relação actualizada periodicamente das inscrições concluídas, registos e certificados de exploração atribuídos, tipo de tecnologia de microprodução, potência, concelho de localização e regime remuneratório aplicável, para conhecimento e divulgação pública.
+
+2 - O operador da rede de distribuição e os comercializadores de electricidade devem registar-se no SRM e aderir ao sistema de comunicações electrónico.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+### Capítulo III — Registo e ligação à rede
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+###### Artigo 13.º — Procedimento de registo no SRM
+
+1 - O registo é efectuado e processado electronicamente no SRM.
+
+2 - O procedimento de registo inicia-se com a inscrição do promotor, seguindo-se a fase de aceitação desta e termina com a atribuição de potência de ligação de acordo com a programação estabelecida nos termos do n.º 10 do artigo 11.º
+
+3 - O registo tem-se por concluído com a atribuição de potência de ligação nos termos previstos no número anterior.
+
+4 - O registo torna-se definitivo com a emissão do respectivo certificado de exploração, a disponibilizar também no SRM, após a instalação da unidade de microprodução pelo produtor.
+
+5 - A inspecção da microprodução é solicitada, através do SRM, no prazo de quatro meses contados da data do registo, sob pena de caducidade deste.
+
+6 - Quando o produtor registado estiver sujeito ao regime jurídico da contratação pública, no âmbito da implementação da microprodução, o prazo de caducidade do registo é de oito meses.
+
+7 - No caso de o produtor pretender efectuar alguma alteração substancial na sua instalação de microprodução, deve proceder a novo registo aplicável à totalidade da instalação, caducando o registo anterior com a entrada em exploração da nova instalação.
+
+8 - Considera-se substancial a alteração da unidade de microprodução que não se enquadre no disposto no artigo 20.º
+
+9 - O membro do Governo responsável pela área da energia define, mediante despacho a publicar no SRM, os elementos instrutórios do pedido de registo, a marcha do respectivo procedimento, os termos da recusa de registo e demais instruções destinadas a assegurar o disposto no presente artigo e no artigo 12.º-A, sem prejuízo do previsto no n.º 4 do artigo 4.º e no n.º 7 do artigo 19.º
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 13.º-A — Condomínios
+
+1 - O registo para instalação por condómino promotor de uma unidade de microprodução em parte comum de edifício organizado em propriedade horizontal ou a utilização de parte comum para passagem de cabelagem ou outros componentes da microprodução é precedido de autorização da respectiva assembleia de condóminos.
+
+2 - A autorização é solicitada à respectiva assembleia de condóminos pelo condómino promotor da microprodução, com pelo menos 70 dias de antecedência relativamente à data prevista para a inscrição para registo, devendo o pedido ser acompanhado de descrição da instalação, local de implantação prevista na parte comum e todos os detalhes da utilização pretendida das partes comuns.
+
+3 - Após a solicitação, a assembleia de condóminos delibera até ao limite do prazo referido no número anterior, por maioria representativa dos votos correspondentes a dois terços do valor total do prédio.
+
+4 - A assembleia de condóminos só pode opor-se à instalação da microprodução ou seus componentes previstos no n.º 1, quando:
+
+a) Tratando-se de instalação de unidade de microprodução, a assembleia de condóminos tenha já deliberado ou, na sequência da solicitação do condómino promotor, delibere promover a instalação de uma unidade de microprodução em nome do condomínio e as duas unidades de microprodução não possam coexistir;
+
+b) Tratando-se de cabelagens ou outros componentes, a sua instalação coloque em risco efectivo a segurança de pessoas ou bens ou prejudique a linha arquitectónica do edifício;
+
+c) O condómino promotor não garanta o pagamento dos encargos de instalação e manutenção da microprodução ou seus componentes nas partes comuns.
+
+5 - O registo para instalação de unidade de microprodução, em nome do condomínio, o eventual recurso a financiamento e as condições deste são deliberados por maioria dos votos correspondentes a mais de metade do valor do prédio.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 14.º — Inspecção
+
+1 - O certificado de exploração é emitido na sequência de inspecção.
+
+2 - A inspecção é efectuada nos 10 dias subsequentes ao pedido de inspecção, devendo o dia e a hora da sua realização ser comunicados ao produtor e técnico responsável através do SRM.
+
+3 - Na inspecção é verificado se a unidade de microprodução está executada de acordo com o disposto no presente decreto-lei e regulamentação em vigor, se a instalação de utilização cumpre os requisitos previstos nos artigos 9.º e 11.º para acesso ao regime bonificado, se o respectivo contador cumpre as especificações e está correctamente instalado e devidamente selado de origem, e são efectuados os ensaios necessários para verificar o adequado funcionamento dos equipamentos.
+
+4 - Na inspecção deve estar sempre presente o técnico responsável por instalações eléctricas de serviço particular ou seu substituto credenciado, ao serviço da entidade instaladora, ao qual compete esclarecer todas as dúvidas que possam ser suscitadas no acto da inspecção.
+
+5 - Concluída a inspecção, o inspector entrega ao técnico responsável cópia do relatório da inspecção e suas conclusões, registando-os no SRM.
+
+6 - Se o relatório da inspecção concluir pela existência de não conformidades, o produtor deve proceder no sentido de colmatar as deficiências indicadas.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 15.º — Reinspecção
+
+1 - Sempre que na inspecção prevista no artigo anterior sejam detectadas deficiências que não permitam a emissão de certificado de exploração, o produtor deve solicitar reinspecção no SRM, até ao máximo de três, observando-se com as necessárias adaptações o disposto no n.º 2 do artigo anterior.
+
+2 - O produtor dispõe do prazo de 30 dias contados da inspecção ou da última reinspecção para proceder às correcções necessárias e solicitar nova reinspecção, até ao limite máximo de reinspecções admitidas nos termos do número anterior.
+
+3 - A ligação à RESP da unidade de microprodução não é autorizada enquanto se mantiverem deficiências que não permitam a emissão de certificado de exploração, procedendo-se, após a terceira reinspecção sem concluir pela emissão de parecer favorável para início da exploração, ao cancelamento do registo da unidade de microprodução.
+
+4 - A não realização de reinspecção por motivo imputável ao produtor implica o cancelamento do registo.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 16.º — Dispensa de inspecção
+
+1 - Após cinco inspecções a unidades de microprodução de um mesmo instalador, cuja ligação à RESP tenha sido autorizada sem recurso a uma segunda inspecção, a entidade responsável pelo SRM pode utilizar o critério da amostragem e sorteio para a realização de inspecções.
+
+2 - Nos casos de dispensa de inspecção previstos no número anterior, o certificado de exploração deve ser emitido pela entidade responsável pelo SRM e enviado ao produtor.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-10-30
+
+###### Artigo 18.º — Controlo de certificação de equipamentos
+
+1 - Os fabricantes, importadores, seus representantes e entidades instaladoras devem comprovar junto da entidade responsável pelo SRM que os seus equipamentos estão certificados e qual a natureza da certificação, devendo aquela entidade proceder à respectiva disponibilização no SRM.
+
+2 - Estes equipamentos devem estar certificados por um organismo de certificação, de acordo com o sistema n.º 5 da ISO/IEC.
+
+3 - Os equipamentos certificados nos termos do número anterior devem satisfazer os requisitos definidos nas normas europeias aplicáveis a cada tipo de equipamento e que tenham sido publicadas pelo CEN/CENELEC.
+
+4 - Caso não tenham sido estabelecidas e publicadas normas europeias, cada tipo de equipamento deve satisfazer os requisitos das normas internacionais publicadas pela ISO/IEC.
+
+5 - Quando não existam as normas referidas nos n.os 3 e 4, os equipamentos devem estar de acordo com:
+
+a) As normas ou especificações portuguesas relativas ao equipamento em causa e que sejam indicadas pelo Instituto Português da Qualidade, I. P. (IPQ, I. P.);
+
+b) As normas ou especificações nacionais em vigor no Estado membro em que o equipamento foi produzido, desde que o IPQ, I. P., reconheça que garantem as condições equivalentes às estabelecidas nos n.os 3 e 4.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 17.º — Contagem e disponibilização de dados
+
+1 - O sistema de contagem de eletricidade e os equipamentos que asseguram a proteção da interligação devem ser colocados em local de livre acesso ao comercializador de último recurso e ao operador da rede de distribuição, bem como às entidades competentes para efeitos do presente decreto-lei, salvo situações especiais autorizadas pela DGEG.
+
+2 - A contagem da eletricidade produzida é feita por telecontagem mediante contador bidirecional, ou contador que assegure a contagem líquida dos dois sentidos, autónomo do contador da instalação de consumo.
+
+3 - Não é aplicável aos produtores de unidades de microprodução a obrigação de fornecimento de energia reactiva.
+
+4 - O comercializador de último recurso e os operadores de redes de distribuição devem disponibilizar à Entidade Reguladora dos Serviços Energéticos as informações necessárias à correta faturação dos diferentes intervenientes, nos termos do Regulamento das Relações Comerciais.
+
+5 - As matérias da medição, leitura e disponibilização de dados, nomeadamente nos casos de exercício da opção prevista no n.º 4 do artigo 10.º, assim como as demais matérias reguladas no presente artigo, podem ser objeto de regulamentação por portaria do membro do Governo responsável pela área da energia, na medida em que tal seja necessário à correta aplicação do presente decreto-lei.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 19.º — Contrato de compra e venda de electricidade e ligação à rede
+
+1 - No prazo de 10 dias após a emissão do certificado de exploração, ainda que provisório nos termos do n.º 7, o produtor adere ao contrato de comercialização cuja minuta deve estar disponibilizada no sítio da Internet do comercializador de último recurso, ou, estando enquadrado no regime geral, declara exercer a opção prevista no n.º 4 do artigo 10.º, se assim o entender.
+
+2 - No prazo previsto no número anterior, o comercializador de último recurso é avisado, através do SRM, da emissão do certificado de exploração, com vista à celebração do contrato de compra e venda de eletricidade oriunda da microprodução com o respetivo produtor, dando-se conhecimento do mesmo facto, igualmente através do SRM, ao operador da rede de distribuição.
+
+3 - No prazo de 10 dias após a adesão do produtor ao contrato de compra e venda de eletricidade, o comercializador de último recurso avisa o operador da rede de distribuição para proceder à ligação da unidade de microprodução à RESP, dando conhecimento ao SRM.
+
+4 - No prazo de 10 dias após o exercício pelo produtor da opção prevista no n.º 4 do artigo 10.º, o SRM avisa o operador da rede de distribuição para proceder à ligação da unidade de microprodução à RESP.
+
+5 - O operador da rede de distribuição deve proceder à ligação da unidade de microprodução no prazo de 10 dias após a receção dos avisos do comercializador de último recurso ou do SRM mencionados nos n.os 3 e 4, respetivamente.
+
+6 - A data de ligação à rede pública deve ser actualizada no SRM pelo operador da rede de distribuição.
+
+7 - Nos casos em que a inspecção ou reinspecção, por motivos não imputáveis ao produtor registado, não tenha ocorrido no prazo legalmente estabelecido para a sua realização, acrescido de uma dilação de três dias, a entidade responsável pelo SRM emite certificado de exploração provisório.
+
+8 - O contrato de compra e venda de electricidade previsto no n.º 1 deve seguir o modelo de contrato aprovado pela Direcção-Geral de Energia e Geologia.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 20.º — Averbamento de alterações ao registo
+
+1 - Em caso de alteração da titularidade do contrato de compra de eletricidade para a instalação de utilização no local de consumo onde está instalada a unidade de microprodução, o novo titular deve solicitar o averbamento dessa alteração ao registo no SRM, mantendo-se inalteradas as demais condições constantes do registo.
+
+2 - Estão também sujeitas a averbamento no SRM a mudança de local da instalação e a mudança de tecnologia de produção, desde que se mantenham o mesmo produtor e as demais condições do registo, sendo que o averbamento destas alterações depende de nova inspecção.
+
+3 - Nos casos previstos nos números anteriores, o regime remuneratório bonificado, quando seja o aplicado à microprodução, mantém-se pelo prazo remanescente, sem prejuízo da alteração ou celebração, nos casos previstos no n.º 1, de novo contrato de compra e venda da eletricidade com o comercializador de último recurso.
+
+4 - O averbamento da alteração prevista no n.º 2 pode ser recusado por razões de ordem técnica, designadamente as previstas no n.º 6 do artigo 4.º
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 21.º — Reconhecimento de investimentos e custos
+
+1 - [Revogado].
+
+2 - O reconhecimento dos custos de aquisição de energia pelo comercializador de último recurso referido no n.º 1 do artigo 73.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro, no âmbito dos regimes remuneratórios previstos no artigo 9.º, é realizado de acordo com o estabelecido no artigo 55.º do Decreto-Lei n.º 172/2006, de 23 de agosto.
+
+3 - O reconhecimento para efeitos tarifários dos investimentos e custos incorridos pelo comercializador de último recurso referido no número anterior com a implementação ou alteração dos sistemas informáticos de faturação e outros, necessários para a execução do presente decreto-lei, é realizado nos termos previstos no artigo 62.º do Decreto-Lei n.º 29/2006, de 15 de fevereiro.
+
+4 - O relacionamento comercial entre os comercializadores de último recurso referidos na alínea b) do artigo 2.º, no âmbito da aplicação do presente decreto-lei, deve observar o disposto no Regulamento de Relações Comerciais.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 25/2013 - Diário da República n.º 35/2013, Série I de 2013-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2013-258540), em vigor a partir de 2013-02-24
+
+### Capítulo IV — Disposições finais
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+###### Artigo 22.º — Monitorização e controlo
+
+1 - As unidades de microprodução ficam sujeitas à monitorização e controlo pela entidade responsável pelo SRM, para verificar as condições de protecção da interligação com a RESP e as características da instalação previstas no registo.
+
+2 - A monitorização prevista no número anterior abrange anualmente pelo menos 1 % das instalações registadas, podendo as instalações ser seleccionadas por amostragem e sorteio.
+
+3 - Para efeitos do número anterior, os produtores devem facilitar o acesso às respectivas instalações de produção à entidade responsável pelo SRM.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+###### Artigo 23.º — Taxas
+
+1 - Estão sujeitos a pagamento de taxa os seguintes actos:
+
+a) Registo da instalação de microprodução;
+
+b) (Revogada.)
+
+c) Averbamento de alterações ao registo, previstas no artigo 20.º
+
+2 - As taxas previstas no número anterior são liquidadas à entidade responsável pelo SRM, constituindo receita desta.
+
+3 - Os montantes das taxas são definidos por portaria do membro do Governo responsável pela área da energia.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 24.º — Contra-ordenações e sanções acessórias
+
+1 - Constitui contra-ordenação punível com coima de (euro) 500 a (euro) 2500, no caso de pessoas singulares, e de (euro) 1000 a (euro) 40 000, no caso de pessoas colectivas:
+
+a) A violação do disposto na alínea c) do n.º 1 do artigo 4.º;
+
+b) A violação do disposto nas alíneas a) a d) do artigo 6.º;
+
+c) A violação do disposto nos n.os 1, 2 e 3 do artigo 8.º;
+
+d) Vender electricidade através do regime bonificado sem cumprir as condições estabelecidas na alínea b) do n.º 1 do artigo 9.º;
+
+e) A violação do disposto nos n.os 1 e 4 do artigo 12.º;
+
+f) A violação do disposto no n.º 7 do artigo 13.º;
+
+g) A ligação ou alteração da unidade de microprodução à rede de distribuição pública em inobservância ao disposto nos artigos 13.º, 14.º e 15.º;
+
+h) A violação do disposto nos n.os 1 e 2 do artigo 19.º
+
+2 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 1750, no caso de pessoas singulares, e de (euro) 500 a (euro) 20 000, no caso de pessoas colectivas:
+
+a) A violação do disposto nas alíneas e) e f) do artigo 6.º;
+
+b) A violação do disposto no n.º 3 do artigo 22.º;
+
+c) Solicitar a inspecção sem que a instalação de microprodução esteja concluída.
+
+3 - A negligência é punível, sendo os limites mínimos e máximos das coimas aplicáveis reduzidas a metade.
+
+4 - Conjuntamente com as coimas previstas no presente artigo pode ser aplicada, em função da gravidade da infracção e da culpa do agente, a sanção acessória de perda do direito ao regime bonificado e aplicação do regime geral nos casos previstos nas alíneas a), b), d) e f) do n.º 1.
+
+5 - A DGEG procede à instrução dos processos de contra-ordenação e sanção acessória, sendo o seu director-geral competente para a aplicação das coimas.
+
+6 - O produto resultante da aplicação das coimas reverte em 60 % para o Estado e em 40 % para a DGEG.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-12-09
+
+###### Artigo 25.º — Regiões Autónomas
+
+1 - O presente decreto-lei aplica-se às Regiões Autónomas, sem prejuízo das adaptações decorrentes da aplicação do disposto no número seguinte, bem como das especificidades do exercício das actividades de produção, transporte, distribuição e comercialização de electricidade nas Regiões Autónomas.
+
+2 - As competências cometidas pelo presente decreto-lei à DGEG, ou a entidade com competências delegadas por esta, e a serviços ou outros organismos da administração central são exercidas pelos correspondentes serviços e organismos das administrações regionais com idênticas atribuições e competências, ou pelas entidades com competências delegadas por estes, sem prejuízo das competências de outras entidades de actuação com âmbito nacional.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+###### Artigo 26.º — Legislação aplicável
+
+Sem prejuízo do disposto no artigo 21.º, não se aplicam os regimes constantes do Decreto-Lei n.º 68/2002, de 25 de Março, e do Decreto-Lei n.º 312/2001, de 10 de Dezembro.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+###### Artigo 27.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 90 dias após a data da sua publicação.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 118-A/2010 - Diário da República n.º 207/2010, 1º Suplemento, Série I de 2010-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/118-a-2010-646164), em vigor a partir de 2010-10-30
+
+Visto e aprovado em Conselho de Ministros de 13 de Setembro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - António José de Castro Guerra.
+
+Promulgado em 19 de Outubro de 2007.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 25 de Outubro de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 153/2014 - Diário da República n.º 202/2014, Série I de 2014-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-2014-58406974), em vigor a partir de 2015-01-18

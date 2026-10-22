@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:380526:por
+title: Portaria n.º 329/79
+short_title: null
+summary: Aprova o Regulamento da Comissão Consultiva de Estatística do Ministério da Justiça
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça - Gabinete do Registo Nacional
+proposing_entity: null
+official_number: 329/79
+official_date: null
+publication_date: '1979-07-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 155/1979, Série I de 1979-07-07
+  number: '155'
+  series: I
+  supplement: null
+  pages: 1464 - 1466
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/07/15500/14641466.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '380526'
+  dre_path: /dr/detalhe/portaria/329-1979-380526
+  internal: pt:dre:380526:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/329-1979-380526
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/329-1979-380526
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-07-07T00:00:00Z'
+integrity:
+  source_sha256: 865a4cb74ae44f408cff82c958d63513dda267006ba8d38281f85a9ed0a3d0c2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-329-380526.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 329/79
+
+de 7 de Julho
+
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, nos termos do n.º 1 do artigo 47.º do [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Outubro, e do n.º 1 do artigo 7.º do [Decreto-Lei n.º 427/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/427-1973-419802), de 25 de Agosto, na redacção que lhe foi dada pelo artigo 1.º do [Decreto-Lei n.º 96/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1977-141047), de 17 de Março:
+
+1.º É aprovado o Regulamento da Comissão Consultiva de Estatística do Ministério da Justiça, que faz parte integrante da presente portaria.
+
+2.º A Comissão Consultiva de Estatística deve assegurar a coordenação funcional das actividades estatísticas dos organismos do Ministério da Justiça, cabendo-lhe, designadamente:
+
+a) A normalização de conceitos e nomenclaturas;
+
+b) A análise da produção estatística;
+
+c) A avaliação e definição das necessidades estatísticas identificadas;
+
+d) A apreciação dos planos e programas de actividades estatísticas dos serviços do Ministério.
+
+3.º A Comissão Consultiva de Estatística deve elaborar um plano anual de actividades, que, depois de homologado pelo Ministro da Justiça, será apresentado ao Conselho Nacional de Estatística.
+
+4.º Cabe ao Gabinete do Registo Nacional orientar o funcionamento da Comissão Consultiva de Estatística e prestar-lhe o apoio técnico-administrativo necessário.
+
+5.º As relações dos organismos do Ministério da Justiça com o Instituto Nacional de Estatística e com os restantes órgãos do Sistema Estatístico Nacional são asseguradas e coordenadas pelo Gabinete do Registo Nacional, que servirá de intermediário entre uns e outros.
+
+Ministério da Justiça, 21 de Junho de 1979. - O Ministro da Justiça, Eduardo Henriques da Silva Correia.
+
+Regulamento da Comissão Consultiva de Estatística do Ministério da Justiça
+
+###### ARTIGO 1.º — (Composição)
+
+1 - A Comissão Consultiva de Estatística do Ministério da Justiça é composta pelos representantes do Ministério no Conselho Nacional de Estatística e por representantes das direcções-gerais e serviços equiparados que recolham, tratem ou utilizem informação estatística.
+
+2 - Nos termos do n.º 2 do artigo 47.º do [Decreto-Lei n.º 555/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/555-1973-412470), de 26 de Outubro, a Comissão é presidida pelo director do Gabinete do Registo Nacional.
+
+3 - A designação dos vogais da Comissão, um efectivo e outro suplente, representantes das direcções-gerais e serviços equiparados é efectuada pelos respectivos directores-gerais, de preferência entre pessoal dirigente, e está sujeita a homologação do Ministro da Justiça.
+
+4 - Podem ainda fazer parte da Comissão, como vogais, um membro do Conselho Superior da Magistratura, por este designado, e um adjunto do procurador-geral da República, indicado por este.
+
+###### ARTIGO 2.º — (Competência)
+
+1 - Compete à Comissão:
+
+a) Preparar e apresentar ao Conselho Nacional de Estatística, no âmbito das actividades do Ministério da Justiça, os estudos e elementos necessários à definição das linhas gerais da actividade estatística e à elaboração dos planos e programas anuais de produção estatística;
+
+b) Propor ao Conselho Nacional de Estatística o fornecimento de meios de assistência técnico-estatística e execução de apuramentos estatísticos de que os serviços do Ministério careçam;
+
+c) Elaborar os pareceres solicitados pelo Conselho sobre problemas estatísticos com interesse para o Ministério da Justiça;
+
+d) Propor ao Conselho todas as providências adequadas à melhoria das estatísticas respeitantes ao Ministério da Justiça;
+
+e) Apreciar e encaminhar os pedidos de assistência técnico-estatística dos serviços de recolha dos diferentes organismos do Ministério da Justiça;
+
+f) Promover o aperfeiçoamento dos métodos e meios de recolha estatística;
+
+g) Dinamizar a colaboração dos departamentos do Ministério da Justiça com os serviços de recolha e produção estatística;
+
+h) Dar parecer sobre os instrumentos de notação estatística usados no Ministério;
+
+i) Apreciar e compatibilizar os planos e programas de actividades estatísticas dos serviços do Ministério da Justiça;
+
+j) Elaborar relatórios sobre as suas actividades e concorrer para a publicação exacta e oportuna de dados estatísticos.
+
+2 - Os planos e programas de actividades estatísticas dos organismos do Ministério estão sujeitos a homologação do Ministro da Justiça.
+
+###### ARTIGO 3.º — (Competência do presidente)
+
+1 - Compete ao presidente:
+
+a) Submeter à apreciação do Ministro da Justiça os assuntos que dela careçam e designadamente a homologação da designação dos vogais da Comissão, bem como dos planos e programas de actividades estatísticas dos serviços do Ministério;
+
+b) Orientar o funcionamento e o apoio técnico-administrativo da Comissão;
+
+c) Convocar as reuniões da Comissão, fixar a respectiva agenda e dirigir os trabalhos;
+
+d) Coordenar a actividade dos grupos de trabalho;
+
+e) Designar o seu substituto na presidência das reuniões, em caso de impedimento.
+
+2 - O presidente pode delegar as suas atribuições num dos vogais suplentes representantes do Ministério no Conselho Nacional de Estatística.
+
+###### ARTIGO 4.º — (Designação e funções do secretário)
+
+1 - As funções de secretário da Comissão são exercidas por um funcionário do Gabinete do Registo Nacional designado pelo presidente.
+
+2 - O secretário assegura o expediente administrativo da Comissão, procede à conferência das presenças nas reuniões e elabora as respectivas actas.
+
+###### ARTIGO 5.º — (Natureza, convocatória e periodicidade das reuniões)
+
+1 - As reuniões da Comissão podem ser ordinárias ou extraordinárias e são convocadas, por escrito, pelo presidente com uma antecedência mínima de cinco dias.
+
+2 - As reuniões ordinárias devem ter, em princípio, uma periodicidade mensal.
+
+3 - As reuniões extraordinárias são convocadas por iniciativa do presidente ou por proposta fundamentada de qualquer dos vogais, especificando o assunto a tratar.
+
+4 - As convocatórias devem indicar a data, hora, local e agenda da reunião e ser acompanhadas da documentação a apreciar.
+
+5 - No caso de o presidente entender como não justificada qualquer proposta de convocação de reunião extraordinária, deve submeter o assunto à Comissão na reunião ordinária seguinte.
+
+###### ARTIGO 6.º — (Funcionamento das reuniões)
+
+1 - A Comissão só pode funcionar quando estiver presente a maioria dos seus membros, incluindo o presidente ou o seu substituto.
+
+2 - No caso de reuniões extraordinárias, a Comissão só pode funcionar se, além das presenças exigidas no número anterior, se encontrar também presente um vogal proponente da reunião.
+
+3 - No início de cada reunião, qualquer vogal pode propor alterações à ordem dos trabalhos, cabendo no entanto ao presidente a sua fixação definitiva.
+
+4 - As deliberações da Comissão são tomadas por maioria de votos dos membros presentes à reunião, tendo o presidente voto de qualidade.
+
+###### ARTIGO 7.º — (Participação nas reuniões)
+
+1 - Os vogais podem fazer-se substituir pelos respectivos suplentes nas reuniões da Comissão sem que essa substituição careça de qualquer formalidade ou aviso prévio.
+
+2 - Os membros da Comissão podem ser assistidos durante as reuniões por técnicos dos respectivos serviços, sem direito a voto, para esclarecimento dos assuntos a apreciar.
+
+3 - A Comissão pode convidar ou autorizar a participar nas reuniões entidades cuja presença seja considerada de interesse.
+
+###### ARTIGO 8.º — (Reuniões de carácter restrito)
+
+A Comissão pode funcionar em reuniões de carácter restrito destinadas ao estudo de assuntos específicos, antes de serem submetidos à apreciação do plenário.
+
+###### ARTIGO 9.º — (Grupos de trabalho)
+
+1 - A Comissão pode deliberar a criação de grupos de trabalho, de carácter permanente ou temporário, com a constituição que considerar mais adequada.
+
+2 - Cabe à Comissão definir o mandato dos grupos e marcar um prazo para a conclusão dos respectivos trabalhos.
+
+3 - Os grupos de trabalho devem ter um coordenador e um relator, designados pela Comissão ou, na falta de designação, eleitos pelos respectivos participantes.
+
+###### ARTIGO 10.º — (Dúvidas e casos omissos)
+
+As dúvidas e os casos omissos verificados na execução do presente Regulamento serão resolvidos pela Comissão, sob proposta de qualquer dos seus membros.
+
+**O Ministro da Justiça, Eduardo Henriques da Silva Correia.**

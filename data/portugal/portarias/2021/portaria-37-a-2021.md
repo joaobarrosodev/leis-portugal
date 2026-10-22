@@ -1,0 +1,573 @@
+---
+schema_version: '1.0'
+id: pt:dre:157397604:por
+title: Portaria n.º 37-A/2021
+short_title: null
+summary: Aprova o Regulamento das Medidas de Apoio à Cultura no contexto de resposta à pandemia da doença COVID-19
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Cultura
+proposing_entity: null
+official_number: 37-A/2021
+official_date: null
+publication_date: '2021-02-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 31/2021, 1º Suplemento, Série I de 2021-02-15
+  number: '31'
+  series: I
+  supplement: 1º Suplemento
+  pages: 21-(2) a 21-(11)
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03101/0000200011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-09-04'
+version_history:
+  file: portaria-37-a-2021.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2021-02-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-04-08'
+    amending: pt:dre:161056648:por
+    amending_title: Portaria n.º 80-A/2021
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+  - date: '2021-09-04'
+    amending: pt:dre:170739278:por
+    amending_title: Portaria n.º 184-A/2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/37-a/2021/p/cons/20210903/pt/html
+  oj: null
+  dre: '157397604'
+  dre_path: /dr/detalhe/portaria/37-a-2021-157397604
+  internal: pt:dre:157397604:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/37-a-2021-157397604
+  metadata_url: https://data.dre.pt/eli/port/37-a/2021/p/cons/20210903/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-161091010
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-161091010
+  retrieved_at: '2026-10-22T12:40:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e2686cd0605e6c41d5999c51edd6117ca03b6a780fba76c5e1b001c5cb9190ab
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:40:49Z'
+  notes: 3 versão(ões); histórico completo em portaria-37-a-2021.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto da Segurança Social
+- Profissão Artística
+- Autoridade Tributária e Aduaneira
+- Financiamento
+- Banda de Música
+- Interconexão de Dados
+- Bolsa de Criação Literária
+- Instituto do Cinema e do Audiovisual
+- Concurso
+- Definição de Competências
+- Regulamentação de Atos Legislativos
+- Direção Geral do Livro dos Arquivos e das Bibliotecas
+- Direção Geral do Património Cultural
+- Direcção Regional da Cultura
+- Edição de Publicações
+- Formulário Eletrónico
+- Gabinete de Estratégia Planeamento e Avaliação Culturais
+- Direcção Geral das Artes
+- Museu
+- Orquestra
+- Indústria do Livro
+- Pessoa Coletiva
+- Pessoa Singular
+- Doença Infecciosa
+- Epidemia
+- Política Cultural
+- Cultura
+- Artes do Espectáculo
+- Regulamento
+- Cinema
+- Indústria Cinematográfica
+- Subsídio
+- Subsídio não Reembolsável
+- Trabalhador Independente
+- Trabalhador por Conta de Outrem
+- Programa de Estabilização Económica e Social
+- Programa Garantir Cultura
+- Comissão para a Aquisição de Arte Contemporânea
+- Regulamento das Medidas de Apoio à Cultura no Contexto de Resposta à Pandemia da Doença COVID-19
+relationships:
+- type: amended_by
+  target: pt:dre:161056648:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 19.º;
+    Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2021-161056648
+  date: '2021-04-07'
+- type: amended_by
+  target: pt:dre:170739278:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/184-a-2021-170739278
+  date: '2021-09-03'
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: http://data.europa.eu/eli/reg/2016/679/oj
+- type: cites
+  target: eli:http://data.dre.pt/e
+  label: null
+  source: http://data.dre.pt/e
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/103/2017/08/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103/2017/08/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/114/2012/05/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/2012/05/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/169-b/2019/12/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/169-b/2019/12/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/25/2018/04/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/25/2018/04/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/57/2018/07/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/57/2018/07/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/180/2020/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/180/2020/08/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/4-a/2021/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/4-a/2021/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+article_structure:
+  article_count: 26
+  section_count: 16
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:40:49Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 37-A/2021
+
+Portaria n.º 37-A/2021
+
+de 15 de fevereiro
+
+Sumário: Aprova o Regulamento das Medidas de Apoio à Cultura no contexto de resposta à pandemia da doença COVID-19.
+
+Desde março de 2020 que o Governo tem aprovado medidas de apoio às famílias, aos trabalhadores, à economia e ao setor da cultura, que vêm sendo progressivamente aprofundadas e adaptadas, visando mitigar os efeitos da crise sanitária provocada pela COVID-19. Face à recente evolução da situação epidemiológica, foram adotadas novas medidas mais restritivas no âmbito do estado de emergência decretado, que implicam novos períodos de suspensão de atividades e de encerramento de todos os equipamentos culturais.
+
+Assim, é necessário reforçar os mecanismos de apoio ao setor da cultura, tendo em conta os efeitos económicos e sociais emergentes da situação epidemiológica, de forma a contribuir para que o tecido cultural e artístico possa não só fazer face aos compromissos de curto prazo, mas também contribuir para a manutenção e o relançamento das respetivas atividades durante e após o surto pandémico. As empresas e os trabalhadores que operam no tecido cultural e artístico nacional necessitam, no atual contexto de aplicação de medidas restritivas impostas pela crise sanitária da pandemia da doença COVID-19, de reunir condições para manter e retomar atividade em segurança e criar oportunidades de trabalho.
+
+Justifica-se, por isso, a criação de novos mecanismos específicos de apoio aos trabalhadores, às empresas e às estruturas artísticas e culturais, a adaptação dos mecanismos já existentes, bem como a prorrogação de um conjunto de medidas de apoio de caráter extraordinário e temporário.
+
+Por conseguinte, e considerando a excecionalidade da atual conjuntura e das múltiplas repercussões da pandemia no tecido cultural e artístico português, foi delineado para o ano de 2021 um conjunto de medidas estratégicas com o objetivo de atenuar os efeitos da doença COVID-19 no setor da Cultura e das Artes.
+
+Prevê-se, desta forma, a criação de um programa especialmente vocacionado para o setor, que inclui a criação de apoios, a fundo perdido, destinados a todo o tecido cultural, incluindo pessoas singulares e entidades de todos os setores artísticos, bem como micro, pequenas e médias empresas, para criação e programação culturais, que pode abranger apresentações em formatos físicos ou digitais.
+
+São, também, estendidos os efeitos da linha de apoio social adicional aos artistas, autores, técnicos e outros profissionais da cultura, criada pela Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, que aprovou o Programa de Estabilização Económica e Social (PEES), e regulamentada pela Portaria n.º 180/2020, de 3 de agosto, que aprova o Regulamento das Linhas de Apoio ao Setor Cultural no âmbito do PEES.
+
+Relativamente à Direção-Geral das Artes, prevê-se um conjunto de medidas específicas para este universo, o qual tem como objetivos principais valorizar o tecido artístico, contribuir para a estabilização do setor sem prescindir de imperativos de qualidade artística e de relevância cultural e fomentar, através de outras medidas de natureza estrutural, a consolidação e renovação do tecido artístico profissional em Portugal.
+
+Na sequência da reativação do programa ProMuseus - Programa de Apoio a Museus da Rede Portuguesa de Museus pelo Despacho Normativo n.º 9/2019, 1 de abril, prevê-se um novo concurso ProMuseus para este ano, definindo-se o montante e data de abertura.
+
+Quanto às medidas de apoio destinadas ao setor do livro, são de natureza transversal, tendo por objeto atenuar os efeitos da pandemia e, ao mesmo tempo, estimular e fomentar as diversas atividades ligadas à cadeia do livro. Desta forma, estas medidas vêm promover a criação literária por autores portugueses e contribuir para a circulação de obras, a atualização das coleções das bibliotecas públicas municipais e a salvaguarda do mercado editorial e livreiro em Portugal.
+
+Com o objetivo central de apoiar o desenvolvimento de iniciativas culturais promovidas por entidades do setor cultural não profissionais e de modo a fortalecer o tecido cultural local com a criação e circulação artísticas, ao mesmo tempo que se incrementa as relações de trabalho entre os equipamentos culturais e estes agentes, as Direções Regionais de Cultura comprometem-se a lançar os procedimentos conducentes à atribuição de apoios no primeiro trimestre de 2021.
+
+O Instituto do Cinema e do Audiovisual, I. P., reforça o conjunto de medidas excecionais que visa apoiar a retoma e manutenção das atividades das entidades do setor e o seu regular funcionamento, tendo em conta os prejuízos decorrentes da suspensão total ou parcial de atividade no contexto da pandemia da doença COVID-19.
+
+Por último, de forma a dar continuidade ao investimento progressivo em aquisição de arte contemporânea pelo Estado, iniciado em 2019, este ano é reforçado em 150 000,00 euros o valor disponível para o programa de aquisição de arte contemporânea portuguesa do Estado.
+
+Foram ouvidos o Sindicato dos Trabalhadores de Espetáculos, do Audiovisual e dos Músicos - CENA-STE e as entidades representativas do setor das artes, do livro, do cinema e do audiovisual.
+
+Assim:
+
+Ao abrigo do disposto no artigo 250.º e 252.º da Lei n.º 75-B/2020, de 31 de dezembro, no Decreto-Lei n.º 102/80, de 9 de maio, no artigo 2.º do Decreto-Lei n.º 391/87, de 31 de dezembro, no artigo 2.º, n.º 2, alínea b), do Decreto-Lei n.º 114/2012, de 25 de maio, no Decreto-Lei n.º 103/2017, de 24 de agosto, no Decreto-Lei n.º 25/2018, de 24 de abril, no Decreto-Lei n.º 57/2018, de 12 de julho, nos n.os 1 a 4 do artigo 23.º do Decreto-Lei n.º 169-B/2019, de 3 de dezembro, na Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, na Portaria n.º 180/2020, de 3 de agosto, nos n.os 3 e 6 da Resolução do Conselho de Ministros n.º 4-A/2021, de 15 de janeiro, no n.º 2 do artigo 2.º do Regulamento anexo à Portaria n.º 123/2017, de 27 de março, no Despacho n.º 5186/2019, de 27 de maio, e no Regulamento n.º 529/2020, de 16 de junho, todos na sua redação atual, manda o Governo, pela Ministra da Cultura, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É aprovado o Regulamento das Medidas de Apoio à Cultura no contexto de resposta à pandemia da doença COVID-19, constante do anexo à presente portaria, da qual faz parte integrante.
+
+###### Artigo 2.º — Produção de efeitos
+
+A presente portaria produz efeitos a 15 de fevereiro de 2021.
+
+A Ministra da Cultura, Graça Maria da Fonseca Caetano Gonçalves, em 12 de fevereiro de 2021.
+
+ANEXO I
+
+Regulamento das Medidas de Apoio à Cultura
+
+## Anexo
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento estabelece as seguintes Medidas de Apoio à Cultura, transversais a todo o setor:
+
+a) Programa Garantir Cultura, que compreende dois subprogramas:
+
+i) Garantir Cultura - tecido empresarial;
+
+ii) Garantir Cultura - entidades artísticas singulares e coletivas que prossigam atividades de natureza não comercial;
+
+b) Apoio extraordinário aos artistas, autores, técnicos e outros profissionais da cultura;
+
+c) Apoios no âmbito da Direção-Geral das Artes (DGARTES);
+
+d) Apoios no âmbito da Direção-Geral do Património Cultural (DGPC);
+
+e) Apoios no âmbito da Direção-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB);
+
+f) Apoios no âmbito das Direções Regionais de Cultura;
+
+g) Apoios no âmbito do Instituto do Cinema e do Audiovisual, I. P. (ICA, I. P.);
+
+h) Programa de aquisição de arte contemporânea portuguesa do Estado.
+
+###### Artigo 2.º — Operacionalização
+
+1 - Compete ao Gabinete de Estratégia, Planeamento e Avaliação Culturais (GEPAC) operacionalizar as linhas de apoio previstas na subalínea ii) da alínea a) e na alínea b) do artigo 1.º, sendo os respetivos apoios financeiros concedidos e pagos através do Fundo de Fomento Cultural.
+
+2 - Compete à DGARTES operacionalizar os apoios previstos na alínea c) do artigo 1.º e proceder ao pagamento dos respetivos apoios financeiros.
+
+3 - Compete à DGPC operacionalizar os apoios previstas na alínea d) do artigo 1.º e proceder ao pagamento dos respetivos apoios financeiros.
+
+4 - Compete à DGLAB operacionalizar os apoios previstos na alínea e) do artigo 1.º e proceder ao pagamento dos respetivos apoios financeiros.
+
+5 - Compete às Direções Regionais de Cultura operacionalizar os apoios previstos na alínea f) do artigo 1.º e proceder ao pagamento dos respetivos apoios financeiros.
+
+6 - Compete ao ICA, I. P., operacionalizar as linhas de apoio previstas na alínea g) do artigo 1.º e proceder ao pagamento dos respetivos apoios financeiros.
+
+7 - Compete à Comissão para Aquisição de Arte Contemporânea executar os apoios previstos na alínea h) do artigo 1.º e compete à DGPC proceder ao pagamento dos respetivos apoios financeiros.
+
+8 - A linha de apoio prevista na subalínea i) da alínea a) do artigo 1.º é financiada por fundos europeus, competindo a sua operacionalização à autoridade de gestão do programa operacional respetivo.
+
+9 - A linha de apoio prevista na subalínea ii) da alínea a) do artigo 1.º é financiada pelo Orçamento do Estado e por fundos europeus.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 184-A/2021 - Diário da República n.º 172/2021, 1º Suplemento, Série I de 2021-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/184-a-2021-170739278), em vigor a partir de 2021-09-04, produz efeitos a partir de 2021-02-15
+
+### Capítulo II — Programa Garantir Cultura
+
+###### Artigo 3.º — Âmbito e destinatários
+
+1 - O Programa Garantir Cultura é um programa especialmente vocacionado para o setor cultural, que inclui a criação de apoios, a fundo perdido, destinados a todo o tecido cultural, para o desenvolvimento de projetos artísticos, de criação e programação, em todas as áreas, nomeadamente as artes performativas, as artes visuais, o cruzamento disciplinar, o livro, o cinema e a museologia.
+
+2 - O Programa Garantir Cultura divide-se em dois subprogramas:
+
+a) Garantir Cultura - tecido empresarial, que consiste num apoio, a fundo perdido, às atividades artística e cultural, em particular à criação e programação culturais, que pode abranger, nomeadamente, apresentações em formatos físicos ou digitais, vocacionado para micro, pequenas e médias empresas do tecido cultural, permitindo a remuneração do trabalho artístico e técnico e a mitigação dos impactos restritivos na atividade artística e cultural;
+
+b) Garantir Cultura - entidades artísticas singulares e coletivas que prossigam atividades de natureza não comercial, que consiste num apoio, a fundo perdido, destinado a pessoas singulares e entidades do setor artístico, para criação e programação culturais, que pode abranger, nomeadamente, apresentações em formatos físicos ou digitais, permitindo a remuneração do trabalho artístico e técnico e a mitigação dos impactos restritivos na atividade artística e cultural.
+
+3 - O subprograma previsto na alínea a) do número anterior é regulamentado através de portaria dos membros do Governo competentes, nos termos da legislação que estabelece o modelo de governação dos fundos europeus estruturais e de investimento.
+
+4 - O subprograma previsto na alínea b) do n.º 2 depende de aviso do membro do governo responsável pela área da cultura.
+
+5 - Os apoios a que se referem as alíneas a) e b) do n.º 2 não são cumuláveis entre si, devendo as entidades responsáveis pela operacionalização dos respetivos programas assegurar a troca de informação necessária para o efeito.
+
+6 - O Programa Garantir Cultura é cumulável com os demais apoios previstos na presente portaria e com outros programas de apoio às atividades económicas e sociais.
+
+###### Artigo 4.º — Montante financeiro disponível
+
+A dotação do Programa Garantir Cultura é de 53 084 559,19 euros, sem prejuízo de reforços de dotação, repartida da seguinte forma:
+
+a) 30 000 000,00 euros, para o subprograma Garantir Cultura - tecido empresarial;
+
+b) 23 084 559,19 euros, para o subprograma Garantir Cultura - entidades artísticas singulares e coletivas que prossigam atividades de natureza não comercial.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 184-A/2021 - Diário da República n.º 172/2021, 1º Suplemento, Série I de 2021-09-03](https://diariodarepublica.pt/dr/detalhe/portaria/184-a-2021-170739278), em vigor a partir de 2021-09-04, produz efeitos a partir de 2021-02-15
+
+### Capítulo III — Apoio extraordinário aos artistas, autores, técnicos e outros profissionais da cultura
+
+###### Artigo 5.º — Âmbito
+
+1 - A presente linha de apoio destina-se a pessoas singulares que estejam, à data da apresentação do pedido de apoio, inscritas nas finanças exclusivamente como trabalhadores independentes, sem inscrição como trabalhador por conta de outrem junto da segurança social, com:
+
+a) Uma das atividades principais 59110, 59120, 59130, 59140, 59200, 90010, 90020 ou 90030 de acordo com a Classificação Portuguesa de Atividades Económicas, revista pelo Decreto-Lei n.º 381/2007, de 14 de novembro, na sua redação atual; ou
+
+b) Um dos códigos CIRS principais 1 (1314), 2 (2010, 2011, 2019, 2012, 2013, 2014 e 2015) ou 3 (3010 e 3019), de acordo com a tabela aprovada pela Portaria n.º 1011/2001, de 21 de agosto, na sua redação atual.
+
+2 - Para além do requisito referido no número anterior, o apoio apenas é concedido às pessoas singulares que preencham também, pelo menos, um dos seguintes requisitos:
+
+a) À data de 1 de janeiro de 2020, estejam inscritos como trabalhadores independentes nas finanças com uma das atividades principais ou códigos CIRS principais referidos nas alíneas do número anterior; ou
+
+b) Tenham iniciado ou reiniciado, pela última vez, atividade como trabalhadores independentes nas finanças com uma das atividades principais ou códigos CIRS principais referidos nas alíneas do número anterior, durante o ano de 2020.
+
+3 - A presente linha de apoio é cumulável com:
+
+a) O apoio extraordinário previsto no n.º 1 do artigo 3.º do Decreto-Lei n.º 6-E/2021, de 15 de janeiro, por remissão para o disposto no artigo 26.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual;
+
+b) O apoio social adicional aos artistas, autores, técnicos e outros profissionais da cultura, previsto no artigo 10.º do Regulamento das Linhas de Apoio ao Setor Cultural no âmbito do Programa de Estabilização Económica e Social, aprovado em anexo à Portaria n.º 180/2020, de 3 de agosto;
+
+c) Os restantes apoios previstos no presente regulamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-A/2021 - Diário da República n.º 67/2021, 1º Suplemento, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2021-161056648), em vigor a partir de 2021-04-08, produz efeitos a partir de 2021-02-15
+
+###### Artigo 6.º — Montante do apoio e ordem de atribuição
+
+1 - É atribuído, sob forma de subsídio, a cada requerente o valor correspondente a 1 IAS (438,81 euros).
+
+2 - Os apoios são atribuídos por ordem de apresentação dos pedidos.
+
+3 - Os requerentes apresentam os pedidos de apoio nos meses de março, abril e maio de 2021.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-A/2021 - Diário da República n.º 67/2021, 1º Suplemento, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2021-161056648), em vigor a partir de 2021-04-08, produz efeitos a partir de 2021-02-15
+
+###### Artigo 7.º — Prazo e requisitos do pedido
+
+1 - Os pedidos de apoio são apresentados por via eletrónica, mediante o preenchimento e submissão online do respetivo formulário, através do sítio na Internet www.culturaportugal.gov.pt.
+
+2 - Os requerimentos devem ser apresentados, respetivamente quanto aos meses de março, abril e maio, nas seguintes datas:
+
+a) Entre os dias 18 de fevereiro e 18 de março de 2021;
+
+b) Entre os dias 8 e 21 de abril de 2021;
+
+c) Entre os dias 3 e 14 de maio de 2021.
+
+3 - Cada trabalhador apenas pode apresentar, em cada mês, um pedido no âmbito da presente linha de apoio.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-A/2021 - Diário da República n.º 67/2021, 1º Suplemento, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2021-161056648), em vigor a partir de 2021-04-08, produz efeitos a partir de 2021-02-15
+
+### Capítulo IV — Apoios no âmbito da Direção-Geral das Artes
+
+#### Secção I — Disposições gerais
+
+###### Artigo 8.º — Objeto e âmbito de aplicação
+
+1 - O presente capítulo estabelece as condições e os termos dos apoios financeiros de emergência, para os anos de 2021 e 2022, a serem concedidos pela DGARTES.
+
+2 - Podem beneficiar dos apoios financeiros estabelecidos no presente capítulo:
+
+a) As entidades beneficiárias de apoio financeiro na tipologia de apoio sustentado, total ou parcialmente, cujos contratos terminem a 31 de dezembro de 2021;
+
+b) As entidades elegíveis às quais não tenha sido atribuído apoio no concurso do Programa de Apoio Sustentado 2020-2021;
+
+c) As entidades elegíveis às quais não tenha sido atribuído apoio no concurso do Programa de Apoio a Projetos 2020;
+
+d) As Orquestras Regionais, nos termos do Despacho n.º 11156/2018, de 28 de novembro.
+
+3 - As medidas previstas no presente capítulo não prejudicam a abertura dos programas de apoio no ano de 2021, previstos nos termos Decreto-Lei n.º 103/2017, de 24 de agosto, na sua redação atual.
+
+###### Artigo 9.º — Acumulabilidade
+
+1 - Os apoios previstos no presente capítulo são acumuláveis com os restantes apoios previstos no presente regulamento, sem prejuízo do disposto no artigo 26.º do Decreto-Lei n.º 103/2017, de 24 de agosto, na sua redação atual.
+
+2 - Caso uma entidade tenha sido considerada elegível no âmbito do Programa de Apoio Sustentado 2020-2021 e no âmbito do Programa de Apoio a Projetos 2020, mas sem atribuição de nenhum daqueles apoios, a entidade deve optar por um dos apoios para efeitos do presente capítulo.
+
+#### Secção II — Programa de Apoio Sustentado
+
+###### Artigo 10.º — Novos apoios e renovação
+
+1 - É atribuído apoio sustentado, para o ano de 2021, às entidades elegíveis que não tenham recebido apoio nos concursos do Programa de Apoio Sustentado 2020-2021, previstos nos Avisos n.os 5690-A/2019, 5690-B/2019, 5690-C/2019, 5690-D/2019, 5690-E/2019, 5690-F/2019, 5690-G/2019, todos publicados no Diário da República, 2.ª série, n.º 62, de 28 de março de 2019.
+
+2 - O montante a atribuir nos termos do número anterior é definido de acordo com as pontuações atribuídas pelas comissões de apreciação, nos termos das listas homologadas pelo diretor-geral das Artes.
+
+3 - Para as entidades que tenham sido consideradas elegíveis e não tenham recebido apoio nos concursos do Programa de Apoio Sustentado 2020-2021, mas tiverem obtido apoio no âmbito do Programa de Apoio a Projetos 2020, ao montante atribuído nos termos do presente artigo, para o ano de 2021, é deduzido o valor anteriormente atribuído.
+
+4 - As entidades beneficiárias de apoio financeiro na tipologia de apoio sustentado, incluindo as referidas nos n.os 1 e 3 e no artigo seguinte, cujos contratos terminem a 31 de dezembro de 2021, beneficiam da renovação do apoio para o ano de 2022.
+
+5 - O montante financeiro da renovação do apoio para o ano de 2022, previsto no número anterior, equivale ao montante que a entidade receberá, em 2021, no âmbito do Programa de Apoio Sustentado, considerando os apoios previstos na presente secção.
+
+6 - No caso das entidades referidas no n.º 3 do presente artigo, ao montante a atribuir para o ano de 2022 não é deduzido o valor atribuído no âmbito do Programa de Apoio a Projetos 2020.
+
+###### Artigo 11.º — Parcialmente apoiadas
+
+As entidades beneficiárias de apoio financeiro na tipologia de apoio sustentado, na modalidade de apoio bienal, cujo montante atribuído não corresponda ao valor decorrente da pontuação atribuída pela comissão de apreciação, recebem o remanescente do valor relativamente ao ano de 2021.
+
+#### Secção III — Programa de Apoio a Projetos
+
+###### Artigo 12.º — Novos apoios
+
+1 - É atribuído apoio financeiro às entidades com projetos elegíveis às quais não tenha sido atribuído apoio nos concursos do Programa de Apoio a Projetos, previstos nos Avisos n.os 8441-B/2020 e 8441-C/2020, ambos publicados no Diário da República, 2.ª série, n.º 105, de 29 de maio de 2020.
+
+2 - O montante atribuído é equivalente ao montante solicitado dentro do respetivo patamar de financiamento, tal como previsto nos Avisos referidos no número anterior.
+
+#### Secção IV — Orquestras Regionais
+
+###### Artigo 13.º — Reforço do apoio e renovação
+
+1 - É reforçado o montante de apoio financeiro à Orquestra do Norte, à Orquestra Filarmonia das Beiras e à Orquestra Clássica do Sul, para o ano de 2021.
+
+2 - O montante financeiro do reforço é de 150 000,00 euros para cada uma das Orquestras referidas no número anterior.
+
+3 - É renovado, para o ano de 2022, o apoio financeiro da DGARTES para cada uma das Orquestras referidas no n.º 1.
+
+4 - O montante financeiro da renovação do apoio equivale ao montante que cada Orquestra recebe em 2021, considerando o reforço previsto no n.º 2 do presente artigo.
+
+#### Secção V — Atribuição dos apoios
+
+###### Artigo 14.º — Notificações
+
+1 - No prazo de 10 dias úteis após a entrada em vigor da presente portaria, a DGARTES notifica as entidades referidas no presente capítulo para formalizarem o apoio correspondente.
+
+2 - Nas situações previstas no n.º 2 do artigo 9.º, as entidades devem ainda optar pela tipologia de apoio que pretendam formalizar, no prazo de 10 dias úteis após serem notificadas pela DGARTES.
+
+###### Artigo 15.º — Disposições aplicáveis
+
+Às entidades às quais for atribuído apoio financeiro ao abrigo do presente capítulo são aplicáveis os termos que constam nos Avisos dos respetivos concursos, bem como as normas constantes das Portarias n.º 301/2017 e n.º 302/2017, ambas de 16 de outubro, na sua redação atual, e no Decreto-Lei n.º 103/2017, de 24 de agosto, na sua redação atual.
+
+### Capítulo V — Apoios no âmbito da Direção-Geral do Património Cultural
+
+###### Artigo 16.º — ProMuseus
+
+1 - É aberto, através de aviso publicado no Diário da República, o concurso ao Programa de Apoio a Museus da Rede Portuguesa de Museus - ProMuseus, no primeiro trimestre de 2021, com o montante global do apoio financeiro de 1 000 000,00 euros, a atribuir pela DGPC.
+
+2 - O Programa ProMuseus é vocacionado, nesta edição, para a mitigação dos impactos da crise pandémica, contribuindo para apoiar a retoma da atividade dos museus.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-A/2021 - Diário da República n.º 67/2021, 1º Suplemento, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2021-161056648), em vigor a partir de 2021-04-08, produz efeitos a partir de 2021-02-15
+
+### Capítulo VI — Apoios no âmbito das Direções Regionais de Cultura
+
+###### Artigo 17.º — Entidades Artísticas não Profissionais
+
+As Direções Regionais de Cultura comprometem-se a lançar os procedimentos conducentes à atribuição de apoios às entidades artísticas não profissionais, no primeiro trimestre de 2021, num total de 1 107 000,00 euros, a repartir da seguinte forma:
+
+a) A Direção Regional de Cultura do Algarve com um montante de 335 000,00 euros;
+
+b) A Direção Regional de Cultura do Alentejo com um montante de 282 000,00 euros;
+
+c) A Direção Regional de Cultura do Centro com um montante de 245 000,00 euros;
+
+d) A Direção Regional de Cultura do Norte com um montante de 245 000,00 euros.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-A/2021 - Diário da República n.º 67/2021, 1º Suplemento, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2021-161056648), em vigor a partir de 2021-04-08, produz efeitos a partir de 2021-02-15
+
+### Capítulo VII — Apoios no âmbito da Direção-Geral do Livro, dos Arquivos e das Bibliotecas
+
+###### Artigo 18.º — Bolsas de criação literária
+
+1 - Ao abrigo do Programa de Bolsas de Criação Literária no ano de 2020, são atribuídas 24 bolsas, no montante global de 270 000,00 euros, aos candidatos que se encontram imediatamente a seguir na lista de classificação final atribuída pelo júri no concurso, cuja abertura foi determinada pelo Despacho n.º 7438/2020, da Ministra da Cultura, publicado no Diário da República, 2.ª série, n.º 144, de 27 de julho de 2020.
+
+2 - No caso de impedimento por parte dos candidatos, a bolsa é atribuída ao candidato seguinte na lista de classificação referida no número anterior.
+
+3 - Esta medida não prejudica a abertura do Programa de Bolsas de Criação Literária no ano de 2021, nos termos do Regulamento para Atribuição de Bolsas de Criação Literária, aprovado pela Portaria n.º 123/2017, de 27 de março.
+
+###### Artigo 19.º — Linha de apoio às livrarias
+
+1 - É atribuído um apoio financeiro no montante global de 600 000,00 euros a pequenas e médias livrarias com venda a retalho direta ao público.
+
+2 - O acesso ao apoio referido no número anterior tem como contrapartida a entrega de exemplares selecionados pelas Bibliotecas que integram a Rede Nacional de Bibliotecas Públicas.
+
+3 - O modelo de candidatura, bem como critérios de seleção e a forma de operacionalização da linha de apoio, são definidos por regulamento da DGLAB, a divulgar no primeiro trimestre de 2021.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-A/2021 - Diário da República n.º 67/2021, 1º Suplemento, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2021-161056648), em vigor a partir de 2021-04-08, produz efeitos a partir de 2021-02-15
+
+###### Artigo 20.º — Linha de apoio à edição
+
+1 - É atribuído um apoio financeiro no montante global de 600 000,00 euros a pequenas e médias editoras para a edição de obras inéditas de poesia, de ficção narrativa, de dramaturgia, de banda desenhada, de literatura para a infância e juventude ou de ensaio nas áreas das artes e do património cultural, escritas em português por autores portugueses.
+
+2 - O modelo de candidatura, bem como os critérios de seleção e a forma de operacionalização da linha de apoio, são definidos por regulamento da DGLAB, a divulgar no primeiro trimestre de 2021.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-A/2021 - Diário da República n.º 67/2021, 1º Suplemento, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/portaria/80-a-2021-161056648), em vigor a partir de 2021-04-08, produz efeitos a partir de 2021-02-15
+
+### Capítulo VIII — Apoios no âmbito do Instituto do Cinema e do Audiovisual, I. P.
+
+###### Artigo 21.º — Reforço dos montantes
+
+1 - O ICA, I. P., atribui um reforço aos apoios excecionais, com o montante adicional de 1 440 000,00 euros, que complementa alguns dos programas de apoio financeiro para o ano de 2020.
+
+2 - Estes apoios excecionais traduzem-se nas seguintes medidas:
+
+a) Reforço dos montantes disponíveis na 2.ª chamada do concurso de longas-metragens de ficção, no valor de 600 000,00 euros;
+
+b) Reforço dos montantes disponíveis no concurso de produção de curtas-metragens de ficção, no valor de 100 000,00 euros;
+
+c) Reforço dos montantes disponíveis na 2.ª chamada do concurso de produção de documentários cinematográficos, no valor de 180 000,00 euros;
+
+d) Reforço dos montantes disponíveis no concurso de apoio à produção audiovisual e multimédia, no valor de 500 000,00 euros;
+
+e) Reforço dos montantes disponíveis no concurso de realização de festivais em território nacional, no valor de 60 000,00 euros.
+
+### Capítulo IX — Programa de aquisição de arte contemporânea portuguesa do Estado
+
+###### Artigo 22.º — Montante financeiro para 2021
+
+1 - Em 2021, o montante financeiro disponível para o programa de aquisição de arte contemporânea portuguesa do Estado, no âmbito da Comissão para Aquisição de Arte Contemporânea, criada pelo Despacho n.º 5186/2019, publicado no Diário da República, I.P, n.º 101, de 27 de maio de 2019, é de 650 000,00 euros.
+
+2 - Em 2021, a Comissão para Aquisição de Arte Contemporânea apresenta ao membro do Governo responsável pela área da cultura o relatório referido no n.º 4 do Despacho n.º 5186/2019, de 27 de maio, no máximo até ao final do mês de maio.
+
+### Capítulo X — Execução e disposições finais
+
+###### Artigo 23.º
+
+Troca de informações com a Autoridade Tributária e Aduaneira e com o Instituto da Segurança Social, I. P.
+
+1 - Para atribuição dos apoios previstos no n.º 1 do artigo 2.º, o GEPAC requer à Autoridade Tributária e Aduaneira (AT) e ao Instituto da Segurança Social, I. P. (ISS), a informação sobre a situação tributária e contributiva de cada requerente, sendo a troca de informação efetuada através de via eletrónica.
+
+2 - Para além do disposto no número anterior, o GEPAC requer as seguintes informações sobre cada requerente:
+
+a) Informação de cadastro relativa ao número de identificação fiscal (NIF), nome, data de início da atividade e, quando aplicável, de cessação da atividade, junto da AT;
+
+b) Atividade principal (subclasse), de acordo com a Classificação Portuguesa de Atividades Económicas, revista pelo Decreto-Lei n.º 381/2007, de 14 de novembro, na sua redação atual, e atividade exercida de acordo com o código CIRS constante da tabela aprovada pela Portaria n.º 1011/2001, de 21 de agosto, na sua redação atual, junto da AT.
+
+3 - Para os efeitos previstos nos números anteriores, o GEPAC faculta à AT o NIF de cada requerente e ao ISS o número de identificação de segurança social (NISS) de cada requerente.
+
+4 - A consulta da informação prevista nos n.os 1 e 2 pode ser realizada até ao final do ano de 2021, para efeitos de atribuição de apoio e respetiva fiscalização.
+
+5 - O tratamento e a transmissão de dados pessoais nos termos do presente regulamento regem-se pelo disposto no Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, bem como pelo disposto no artigo 23.º da Lei n.º 58/2019, de 8 de agosto.
+
+6 - No momento da submissão dos pedidos de apoio, os requerentes autorizam, no respetivo formulário, a troca de informações prevista no presente artigo.
+
+###### Artigo 24.º — Dúvidas e omissões
+
+As dúvidas e as omissões no âmbito do presente regulamento são apreciadas pelas entidades e serviços previstos no artigo 3.º, respetivamente, tendo por base os fins e os objetivos subjacentes à criação das linhas de apoio por si operacionalizadas.
+
+113979438

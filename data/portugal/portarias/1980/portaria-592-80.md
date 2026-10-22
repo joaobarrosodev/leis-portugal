@@ -1,0 +1,89 @@
+---
+schema_version: '1.0'
+id: pt:dre:461066:por
+title: Portaria n.º 592/80
+short_title: null
+summary: Aumenta o quadro da Secretaria do Tribunal da Relação de Évora com um lugar de contínuo de 2.ª classe
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça - Direcção-Geral dos Serviços Judiciários
+proposing_entity: null
+official_number: 592/80
+official_date: null
+publication_date: '1980-09-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/1980, Série I de 1980-09-11
+  number: '210'
+  series: I
+  supplement: null
+  pages: 2608 - 2608
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/09/21000/26082608.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '461066'
+  dre_path: /dr/detalhe/portaria/592-1980-461066
+  internal: pt:dre:461066:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/592-1980-461066
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/592-1980-461066
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-09-11T00:00:00Z'
+integrity:
+  source_sha256: 2a0451ff139418e5906d09767d8d8363934be74803ac5c6aa2aa5657b2e5f054
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-592-461066.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 592/80
+
+de 11 de Setembro
+
+Manda o Governo da República Portuguesa, pelo Ministro da Justiça, que, nos termos do disposto no artigo 2.º, n.º 2, do [Decreto-Lei n.º 450/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/450-1978-274223), de 30 de Dezembro, o quadro do pessoal do Tribunal da Relação de Évora seja aumentado com um lugar de contínuo de 2.ª classe.
+
+Ministério da Justiça, 25 de Agosto de 1980. - O Ministro da Justiça, Mário Ferreira Bastos Raposo.

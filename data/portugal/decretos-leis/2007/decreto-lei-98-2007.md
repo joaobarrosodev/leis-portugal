@@ -1,0 +1,590 @@
+---
+schema_version: '1.0'
+id: pt:dre:520203:por
+title: Decreto-Lei n.º 98/2007
+short_title: null
+summary: Aprova o regime de incentivo à leitura de publicações periódicas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 98/2007
+official_date: null
+publication_date: '2007-04-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 65/2007, Série I de 2007-04-02
+  number: '65'
+  series: I
+  supplement: null
+  pages: 2036 - 2040
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/06500/20362040.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-27'
+version_history:
+  file: decreto-lei-98-2007.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2007-04-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-03-01'
+    amending: pt:dre:66443110:por
+    amending_title: Decreto-Lei n.º 22/2015
+    changes:
+    - Adita Artigo 4.º-A
+    - Adita Artigo 4.º-B
+    - Adita Artigo 4.º-C
+    - Adita Artigo 9.º-A
+    - Adita Artigo 20-A
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 22.º
+  - date: '2017-03-11'
+    amending: pt:dre:106579661:por
+    amending_title: Decreto-Lei n.º 27/2017
+    changes:
+    - Altera Artigo 20.º
+  - date: '2025-03-27'
+    amending: pt:dre:912444913:por
+    amending_title: Decreto-Lei n.º 41/2025
+    changes:
+    - Adita Artigo 18.º-A
+    - Altera Artigo 4.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 4.º-B
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º-A
+    - Altera Artigo 11.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/98/2007/p/cons/20250326/pt/html
+  oj: null
+  dre: '520203'
+  dre_path: /dr/detalhe/decreto-lei/98-2007-520203
+  internal: pt:dre:520203:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2007-520203
+  metadata_url: https://data.dre.pt/eli/dec-lei/98/2007/p/cons/20250326/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-66756864
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-66756864
+  retrieved_at: '2026-10-22T11:58:13Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8e93c15bb8604430dd41d1f3d04a99f5e3021900f3cd6903266bd80bf0afe621
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:58:13Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-98-2007.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Cartão de Identificação
+- Comparticipação do Estado
+- Contra-ordenação
+- Fiscalização
+- Instituto da Comunicação Social
+- Publicação
+- Leitura Pública
+relationships:
+- type: amended_by
+  target: pt:dre:66443110:por
+  label: Adita Artigo 4.º-A; Adita Artigo 4.º-B; Adita Artigo 4.º-C; Adita Artigo 9.º-A; Adita Artigo 20-A; Altera Artigo
+    1.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º;
+    Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º;
+    Altera Artigo 20.º; Revoga Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110
+  date: '2015-02-06'
+- type: amended_by
+  target: pt:dre:106579661:por
+  label: Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661
+  date: '2017-03-10'
+- type: amended_by
+  target: pt:dre:912444913:por
+  label: Adita Artigo 18.º-A; Altera Artigo 4.º; Altera Artigo 4.º-A; Altera Artigo 4.º-B; Altera Artigo 5.º; Altera Artigo
+    9.º-A; Altera Artigo 11.º; Altera Artigo 18.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913
+  date: '2025-03-26'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/6/2005/01/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6/2005/01/06/p/dre
+article_structure:
+  article_count: 29
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:58:13Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 98/2007
+
+Decreto-Lei n.º 98/2007
+
+de 2 de Abril
+
+O presente decreto-lei aprova um novo regime de incentivo à leitura e ao acesso à informação, directamente dirigido aos potenciais consumidores de publicações periódicas de informação geral de âmbito regional. Este regime de incentivo à leitura fixa um regime proporcionado de partilha dos custos do envio postal de publicações periódicas, que leva a cabo uma ponderação entre a necessidade de intervenção do Estado na divulgação da cultura e da identidade portuguesas e, por outro lado, o incremento de novos suportes destinados à divulgação de conteúdos informativos.
+
+A fixação de limites ao acesso a este incentivo à leitura impede que o regime de incentivo à leitura beneficie publicações periódicas cuja natureza não assegure o objectivo visado pela presente lei, privilegiando a protecção do interesse público de acesso generalizado às publicações periódicas de informação geral de âmbito regional. Tendo em conta os limites fixados pelo direito da União Europeia, o incentivo privilegia inequivocamente o apoio aos leitores e não às empresas.
+
+Com o intuito de promover a investigação científica e académica e de assegurar o apoio de leitores pertencentes a grupos minoritários, tais como as pessoas portadoras de deficiência, previu-se ainda o acesso a este incentivo à leitura por parte das publicações periódicas que abranjam aqueles segmentos de leitores.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Incentivo à leitura de publicações periódicas
+
+1 - O incentivo à leitura de publicações periódicas consiste na comparticipação pelo Estado dos custos de expedição de publicações periódicas suportados pelos assinantes residentes no território nacional ou em território estrangeiro, mediante o seu pagamento aos operadores postais, em regime de avença.
+
+2 - A comparticipação do Estado abrange exclusivamente os custos correspondentes a um peso não superior a 200 g por exemplar, incluindo suplementos e encartes.
+
+3 - O regime de expedição fica sujeito às condições de aceitação de remessas praticadas pelos operadores postais.
+
+4 - As entidades proprietárias ou editoras das publicações periódicas referenciadas no artigo 3.º devem:
+
+a) Possuir contabilidade organizada;
+
+b) Ter a situação fiscal e contributiva regularizada.
+
+5 - Estão excluídos da comparticipação prevista no presente decreto-lei os brindes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 2.º — Publicações excluídas
+
+Estão excluídas da aplicação do presente decreto-lei as seguintes publicações periódicas:
+
+a) Pertencentes ou editadas por partidos e associações políticas, directamente ou por interposta pessoa;
+
+b) Pertencentes ou editadas por associações sindicais, de empregadores ou profissionais, directamente ou por interposta pessoa;
+
+c) Pertencentes ou editadas, directa ou indirectamente, pela administração central, regional ou local, bem como por quaisquer serviços, organismos ou departamentos delas dependentes;
+
+d) Gratuitas;
+
+e) De conteúdo pornográfico, fascista, racista ou que vise primordialmente o incitamento da violência ou do ódio em função da raça, cor, origem étnica ou nacional, religião, sexo ou orientação sexual;
+
+f) Que ocupem com conteúdo publicitário uma superfície superior a 50% do espaço disponível de edição, incluindo suplementos e encartes, calculada com base nas edições publicadas nos 12 meses anteriores à data de apresentação da respectiva candidatura;
+
+g) Que não se integrem no conceito de imprensa, nos termos da lei.
+
+###### Artigo 3.º — Condições gerais de acesso
+
+Beneficiam de comparticipação no custo da sua expedição postal, para assinantes residentes em território nacional ou em território estrangeiro, as publicações periódicas que cumpram cumulativamente os seguintes requisitos:
+
+a) Classificação pela entidade reguladora para a comunicação social como publicações de informação geral de âmbito regional ou especialmente dirigidas às comunidades portuguesas no estrangeiro ou de informação especializada;
+
+b) Registo na entidade reguladora para a comunicação social há pelo menos um ano;
+
+c) No período imediatamente anterior à candidatura, um período mínimo de edições ininterruptas, conforme a periodicidade:
+
+i) Com periodicidade diária, um ano de edições;
+
+ii) Com periodicidade superior à diária, cinco ou dois anos de edições, tratando-se, respectivamente, de publicações de informação geral de âmbito regional ou de informação especializada;
+
+d) Periodicidade não superior à mensal ou anual, tratando-se, respectivamente, de publicações de informação geral ou de informação especializada.
+
+###### Artigo 4.º — Condições específicas de acesso para as publicações de informação geral
+
+1 - Beneficia de uma comparticipação de 80 % no custo da sua expedição postal, para assinantes residentes em território nacional ou em território estrangeiro, o envio de publicações periódicas de informação geral de âmbito regional ou especialmente destinadas às comunidades portuguesas no estrangeiro que, à data de apresentação do requerimento de candidatura, preencham cumulativamente os requisitos enunciados no artigo anterior e se encontrem numa das seguintes condições:
+
+a) A entidade proprietária ou editora tenha, pelo menos, cinco profissionais com contrato de trabalho ao seu serviço, dos quais três jornalistas com carteira profissional, caso a periodicidade com que se encontrem registadas seja igual ou inferior à trissemanal;
+
+b) A entidade proprietária ou editora tenha, pelo menos, três profissionais com contrato de trabalho ao seu serviço, dos quais dois jornalistas com carteira profissional, caso a periodicidade com que se encontrem registadas seja superior à trissemanal e igual ou inferior à semanal;
+
+c) A entidade proprietária ou editora tenha, pelo menos, dois profissionais com contrato de trabalho ao seu serviço, dos quais um jornalista com carteira profissional, caso a periodicidade com que se encontrem registadas seja superior à semanal e igual ou inferior à quinzenal;
+
+d) A entidade proprietária ou editora tenha, pelo menos, um profissional com contrato de trabalho ao seu serviço, sendo jornalista com carteira profissional, caso a periodicidade com que se encontrem registadas seja superior à quinzenal e igual ou inferior à mensal;
+
+e) As publicações periódicas registadas que tenham uma periodicidade igual ou inferior à mensal não ocupem com conteúdo publicitário uma superfície superior a 25 % do espaço disponível, incluindo suplementos e encartes.
+
+2 - Nos casos de publicações periódicas com sede em territórios de baixa densidade é exigível para as publicações referidas na alínea a) do número anterior um número mínimo de três profissionais com contrato de trabalho ao seu serviço, dos quais dois jornalistas com carteira profissional.
+
+3 - O mesmo trabalhador não pode ser considerado por mais de uma publicação periódica para efeitos de preenchimento do número de profissionais exigido nos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913), em vigor a partir de 2025-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 4.º-A — Majoração para o desenvolvimento digital
+
+1 - A comparticipação dos custos de expedição de publicações periódicas prevista no artigo anterior pode, respeitadas as condições de acesso, atingir a percentagem de 90 % para assinantes residentes em território nacional caso tenha sido deferida à empresa proprietária ou editora da publicação candidatura ao incentivo ao desenvolvimento digital, nos termos e com as condições definidas no diploma que aprova o regime de incentivos do Estado à comunicação social.
+
+2 - A majoração prevista no número anterior vigora apenas durante um período máximo de dois anos consecutivos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913), em vigor a partir de 2025-03-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 4.º-B — Majoração em função do PIB e baixa densidade
+
+1 - A comparticipação dos custos de expedição de publicações periódicas prevista no artigo 4.º pode, respeitadas as condições de acesso, atingir a percentagem de 85 %, nos casos de assinantes residentes em território nacional, caso a empresa proprietária ou editora da publicação desenvolva o seu projeto ou atividade em territórios de baixa densidade ou em territórios com um índice PIB per capita regional inferior a 75 % da média do PIB per capita nacional.
+
+2 - Para efeitos do disposto no n.º 2 do artigo 4.º e no número anterior, consideram-se territórios de baixa densidade os de nível NUTS III com menos de 100 habitantes por quilómetro quadrado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913), em vigor a partir de 2025-03-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 4.º-C — Majoração para captação de novos leitores
+
+1 - A comparticipação dos custos de expedição de publicações periódicas prevista no artigo 4.º, pode, respeitadas as condições de acesso, atingir a percentagem de 100 %, nos casos em que os assinantes sejam estabelecimentos do ensino básico, secundário ou superior em território nacional, caso tenha sido deferida candidatura ao incentivo à literacia e educação para a comunicação social, nos termos e com as condições definidas no diploma que aprova o regime de incentivos do Estado à comunicação social e do respetivo regulamento.
+
+2 - A majoração prevista no número anterior vigora apenas durante o período de duração do projeto apoiado no âmbito do incentivo à literacia e educação para a comunicação social, não podendo contemplar mais do que uma assinatura por estabelecimento de ensino.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 5.º — Condições específicas de acesso para as publicações de informação especializada
+
+1 - As publicações periódicas que divulguem regularmente temas do interesse específico das pessoas com deficiência, editadas por associações a que seja reconhecida representatividade das mesmas, beneficiam de uma comparticipação de 95% no custo da sua expedição postal.
+
+2 - As publicações com manifesto interesse em matéria científica ou tecnológica, desde que não ocupem com conteúdo publicitário uma superfície superior a 20 % do espaço disponível, incluindo suplementos e encartes, beneficiam de uma comparticipação de 80 % no custo da sua expedição postal.
+
+3 - As publicações com manifesto interesse em matéria literária ou artística, desde que não ocupem com conteúdo publicitário uma superfície superior a 20 % do espaço disponível, incluindo suplementos e encartes, beneficiam de uma comparticipação de 80 % no custo da sua expedição postal.
+
+4 - As publicações que estimulem o relacionamento e o intercâmbio com os povos dos países e territórios de língua portuguesa, desde que não ocupem com conteúdo publicitário uma superfície superior a 20 % do espaço disponível, incluindo suplementos e encartes, beneficiam de comparticipação de 80 % no custo da sua expedição postal.
+
+5 - As publicações que tenham por objeto principal a promoção da igualdade de género, manifesto no seu estatuto editorial e nos conteúdos publicados, desde que não ocupem com conteúdo publicitário uma superfície superior a 20 % do espaço disponível, incluindo suplementos e encartes, beneficiam de uma comparticipação de 80 % no custo da sua expedição postal.
+
+6 - No uso das respetivas competências administrativas, cabe ao presidente da comissão de coordenação e desenvolvimento regional (CCDR) competente, em função da sede da entidade proprietária da publicação, decidir sobre o enquadramento das publicações referidas nos n.os 1 a 5, após parecer prévio fundamentado dos serviços ou organismos da Administração Pública que se ocupem das áreas temáticas a que as mesmas respeitam.
+
+7 - Para beneficiarem da comparticipação prevista no n.º 1, as publicações devem estar registadas à data de apresentação do requerimento de candidatura.
+
+8 - (Revogado.)
+
+9 - As publicações referidas nos n.os 1 a 5 apenas beneficiam de comparticipação até à gramagem máxima de 200 g por exemplar, incluindo suplementos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913), em vigor a partir de 2025-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 6.º — Portal da imprensa regional
+
+1 - As entidades titulares de publicações periódicas de informação geral de âmbito regional, como tal classificadas pela entidade reguladora para a comunicação social, com periodicidade igual ou inferior à mensal, podem alojar as suas edições electrónicas em linha no portal da imprensa regional, disponível na Internet.
+
+2 - A presença das publicações periódicas referidas no número anterior não acarreta despesas de alojamento para as entidades titulares, garantindo-se a sua autonomia e independência editorial na gestão dos conteúdos, incluindo a possibilidade de sujeitar a pagamento o acesso dos leitores às edições electrónicas.
+
+3 - As condições de acesso ao portal e respectivo regulamento são estabelecidas por despacho do presidente do Instituto da Comunicação Social, homologado pelo membro do Governo responsável pela área da comunicação social, e a publicar na 2.ª série do Diário da República.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 7.º — Requisitos das assinaturas
+
+1 - Para efeitos do presente decreto-lei, considera-se assinatura o vínculo contratual pelo qual uma das partes se obriga a fornecer a outra, designada «assinante», por um período de tempo determinado e mediante pagamento no início da respectiva vigência, um exemplar de cada edição da publicação periódica de que seja proprietária ou por si editada.
+
+2 - Por cada assinatura, apenas se consideram as expedições postais de um único exemplar por edição, salvo casos de extravio ou outras situações excepcionais devidamente justificadas.
+
+3 - A comprovação das assinaturas respeita a legislação relativa à protecção de dados pessoais.
+
+4 - A aplicação do presente regime fica sujeita ao cumprimento de preços mínimos de assinatura, a fixar por portaria do membro do Governo responsável pela área da comunicação social.
+
+5 - São equiparados a assinantes, para efeitos do presente decreto-lei, os associados das associações referidas no n.º 1 do artigo 5.º, desde que se encontrem no pleno uso dos direitos reconhecidos pelos respectivos estatutos.
+
+###### Artigo 8.º — Renovação
+
+1 - Tendo em vista facilitar a cobrança da correspondente renovação, continua a beneficiar de comparticipação no custo de expedição postal para assinantes o envio dos exemplares expedidos imediatamente após o final do período a que respeita a assinatura, durante um período de tempo equivalente a três quartos daquele a que respeita a assinatura, até um máximo de nove meses.
+
+2 - Na situação prevista no número anterior, logo que efectuada a renovação, considera-se, para efeitos deste regime, que ela teve início na primeira edição imediatamente posterior ao final do período a que respeita a assinatura.
+
+###### Artigo 9.º — Instrução e decisão
+
+1 - Cabe às CCDR a instrução dos processos de candidatura para a atribuição de comparticipação dos custos de expedição postal.
+
+2 - As competências de cada CCDR são determinadas em função da sede da entidade proprietária da publicação periódica, de acordo com as respetivas áreas geográficas de atuação definidas na lei.
+
+3 - Os pedidos de atribuição da comparticipação devem ser instruídos com todos os documentos a definir em regulamento próprio, a aprovar por portaria dos membros do Governo responsáveis pelas áreas da comunicação social e do desenvolvimento regional.
+
+4 - O órgão competente para a decisão final é o presidente de cada CCDR.
+
+5 - O deferimento dos pedidos de concessão produz efeitos a partir da data de apresentação do processo devidamente instruído na CCDR competente, nos termos constantes do regulamento referido no n.º 3.
+
+6 - A alteração dos requisitos que determinaram o enquadramento de uma publicação no regime do presente decreto-lei implica a sua atualização junto da Entidade Reguladora para a Comunicação Social (ERC) e da entidade competente para atribuição deste incentivo, sendo os efeitos da atualização reportados à data da ocorrência que a determinou.
+
+7 - Cada CCDR comunica à comissão de acompanhamento as decisões de deferimento e indeferimento que profere no âmbito do presente incentivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 9.º-A — Publicitação
+
+As entidades responsáveis pela atribuição do incentivo previsto no presente decreto-lei:
+
+a) Mantêm no respetivo sítio na Internet listagens atualizadas das entidades beneficiárias, com identificação das respetivas publicações, número de assinaturas e correspondentes montantes de comparticipação;
+
+b) Remetem anualmente, durante o mês de janeiro, ao membro do Governo responsável pela área da comunicação social a compilação de toda a informação referida na alínea anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913), em vigor a partir de 2025-03-27
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 10.º — Título de acesso
+
+1 - A comprovação do enquadramento de uma publicação no regime do presente decreto-lei, designadamente no momento de cada expedição, é feita mediante a apresentação de um título de acesso emitido pela CCDR competente, que contém o número de titular, previamente atribuído, o regime de comparticipação aplicável, as datas de emissão e de caducidade, o título da respetiva publicação periódica e a designação da entidade requerente.
+
+2 - O cartão é válido por dois anos.
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+5 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 11.º — Obrigações das entidades titulares
+
+1 - As entidades titulares das publicações abrangidas por comparticipação nos custos de expedição postal para assinantes obrigam-se a informar a CCDR competente de qualquer alteração relacionada com o cumprimento dos requisitos gerais e específicos que determinaram o respetivo enquadramento, devendo essa informação ser prestada nos 15 dias subsequentes à ocorrência da alteração.
+
+2 - As entidades titulares das publicações abrangidas por comparticipação nos custos de expedição postal para assinantes, ao abrigo das alíneas a) a d) do n.º 1 do artigo 4.º, obrigam-se ainda a inserir na publicação respectiva, junto com os elementos a que se refere o n.º 2 do artigo 15.º da Lei de Imprensa, os nomes e os números das carteiras profissionais dos jornalistas que determinaram o seu enquadramento no escalão de comparticipação.
+
+3 - A substituição de qualquer profissional que tenha determinado o enquadramento da publicação em termos de regime de comparticipação deve ocorrer no prazo de 60 dias após a data do facto que a torne exigível.
+
+4 - A transmissão da propriedade da publicação obriga à comunicação desse facto à CCDR competente, bem como à devolução do título de acesso, no prazo máximo de 15 dias.
+
+5 - (Revogado.)
+
+6 - As entidades titulares das publicações referidas no número anterior devem garantir os melhores preços de mercado para os encargos de expedição a assumir pelo Estado.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 41/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913), em vigor a partir de 2025-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 12.º — Utilização abusiva
+
+1 - Sem prejuízo do disposto na lei penal, a utilização do benefício instituído no presente decreto-lei é considerada abusiva quando:
+
+a) A entidade ou a publicação em causa deixar de satisfazer qualquer das condições gerais de enquadramento, sem prejuízo do prazo previsto no n.º 3 do artigo anterior;
+
+b) A publicação a que respeita for editada com periodicidade diferente daquela com que se encontra registada, salvaguardados os períodos anuais de férias;
+
+c) A tiragem média por edição, avaliada em cada ano civil, for inferior à fixada para o enquadramento;
+
+d) A publicação em causa exceder os limites de espaço ocupado com conteúdos publicitários referidos na alínea f) do artigo 2.º, na alínea e) do n.º 1 do artigo 4.º e nos n.os 2 a 5 do artigo 5.º;
+
+e) O número de profissionais ou de jornalistas for inferior ao estabelecido nas alíneas a), b), c) ou d) do n.º 1 do artigo 4.º, caso tenha concorrido para a determinação do regime aplicável;
+
+f) A entidade deixar de possuir contabilidade organizada;
+
+g) Envolver a expedição de mais de um exemplar por edição ao abrigo da mesma assinatura, salvo casos de extravio ou outras situações excepcionais devidamente comprovadas;
+
+h) O título de acesso for utilizado por entidade que não seja titular do mesmo, mesmo quando se trate de publicação cuja propriedade tenha sido adquirida a entidade seu titular;
+
+i) [Revogada].
+
+2 - É igualmente considerado abusivo o envio de publicações periódicas a título gratuito, designadamente ofertas, promoções ou permutas.
+
+3 - É também considerada abusiva a inserção de outras publicações não credenciadas.
+
+4 - O disposto no número anterior não se aplica a suplementos de publicações periódicas, sem prejuízo do disposto na alínea f) do artigo 2.º, na alínea e) do n.º 1 do artigo 4.º e nos n.os 2 a 5 do artigo 5.º.
+
+5 - [Revogado].
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 13.º — Contra-ordenações leves
+
+1 - Constitui contra-ordenação leve, punível com coima de (euro) 500 a (euro) 2000, para as pessoas singulares, e de (euro) 2500 a (euro) 20000, para as pessoas colectivas:
+
+a) A falta de informação à CCDR competente de qualquer alteração relacionada com o cumprimento dos requisitos gerais e específicos que determinaram o respetivo enquadramento, dentro dos prazos fixados nos n.os 1 e 3 do artigo 11.º;
+
+b) A falta de comunicação à CCDR competente da transmissão da propriedade da publicação ou a falta de devolução do título de acesso, dentro do prazo fixado pelo n.º 4 do artigo 11.º;
+
+c) A falta de inserção na publicação abrangida pelo incentivo à leitura dos elementos a que se refere o n.º 2 do artigo 15.º da Lei de Imprensa e dos nomes e dos números das carteiras profissionais dos jornalistas que determinaram o seu enquadramento no regime de comparticipação;
+
+d) A falta de substituição, no prazo de 60 dias, de qualquer profissional que tenha determinado o enquadramento em determinado regime de comparticipação.
+
+2 - A negligência é punível, sendo os montantes mínimo e máximo das coimas previstas reduzidos para metade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 14.º — Contra-ordenações graves
+
+1 - Constitui contra-ordenação grave, punível com coima de (euro) 1000 a (euro) 3000, para as pessoas singulares, e de (euro) 10000 a (euro) 30000, para as pessoas colectivas, a recusa expressa ou a omissão de entrega efectiva, pelo beneficiário ou pelo respectivo mandatário, de todos os elementos que lhes sejam solicitados pela entidade com competência para a fiscalização, para os efeitos previstos no presente decreto-lei e desde que aqueles elementos não se encontrem abrangidos pelo sigilo profissional ou comercial.
+
+2 - A negligência é punível, sendo os montantes mínimo e máximo das coimas previstas reduzidos para metade.
+
+###### Artigo 15.º — Contra-ordenações muito graves
+
+1 - Constitui contra-ordenação muito grave, punível com coima de (euro) 1500 a (euro) 3500, para as pessoas singulares, e de (euro) 15000 a (euro) 40000, para as pessoas colectivas:
+
+a) A utilização do benefício instituído pelo presente decreto-lei quando a entidade ou a publicação em causa deixar de satisfazer qualquer das condições gerais de enquadramento;
+
+b) A utilização do benefício instituído pelo presente decreto-lei quando a publicação a que respeita for editada com periodicidade diferente daquela com que se encontra registada, salvaguardados os períodos anuais de férias;
+
+c) A utilização do benefício instituído pelo presente decreto-lei quando a tiragem média por edição, avaliada em cada ano civil, for inferior à fixada para o enquadramento;
+
+d) A utilização do benefício instituído pelo presente decreto-lei quando a publicação em causa exceder os limites de espaço ocupado com conteúdos publicitários referidos na alínea f) do artigo 2.º, na alínea e) do n.º 1 do artigo 4.º e nos n.os 2 a 5 do artigo 5.º;
+
+e) A utilização do benefício instituído pelo presente decreto-lei quando o número de profissionais ou de jornalistas for inferior ao estabelecido nas alíneas a), b), c) ou d) do n.º 1 do artigo 4.º, caso tenha concorrido para a determinação do regime aplicável;
+
+f) A utilização do benefício instituído pelo presente decreto-lei quando a entidade deixar de possuir contabilidade organizada;
+
+g) A utilização do benefício instituído pelo presente decreto-lei quando envolver a expedição de mais de um exemplar por edição ao abrigo da mesma assinatura, salvo casos de extravio ou outras situações excepcionais devidamente comprovadas;
+
+h) A utilização do benefício instituído pelo presente decreto-lei quando o título de acesso for utilizado por entidade não titular, mesmo quando se trate de publicação cuja propriedade foi adquirida a alienante seu titular;
+
+i) [Revogada];
+
+j) A utilização do benefício instituído pelo presente decreto-lei para efeitos de envio de publicações periódicas a título gratuito, designadamente ofertas, promoções ou permutas;
+
+l) A utilização do benefício instituído pelo presente decreto-lei quando ocorra inserção de outras publicações não credenciadas, salvo nos casos de suplementos de publicações periódicas.
+
+2 - A negligência é punível, sendo os montantes mínimo e máximo das coimas previstas reduzidos para metade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 16.º — Sanções acessórias
+
+1 - Em função da gravidade da infração e da culpa do agente, a prática de contraordenação muito grave pode também dar lugar à sanção acessória de privação do direito a beneficiar de incentivos à comunicação social por um período não superior a dois anos.
+
+2 - A prática de duas contraordenações graves no prazo de três anos pode ainda dar lugar à sanção acessória de privação do direito a beneficiar da comparticipação prevista no presente decreto-lei por um período não superior a dois anos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 17.º — Competência em matéria de contra-ordenações
+
+1 - O processamento das contraordenações previstas no presente decreto-lei cabe à CCDR competente, nos termos do artigo 9.º.
+
+2 - A aplicação das coimas compete ao presidente da CCDR.
+
+3 - O produto das coimas reverte em 60 % para o Estado e em 40 % para a CCDR competente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 18.º — Fiscalização
+
+1 - A fiscalização da aplicação do presente decreto-lei cabe à CCDR competente em função da respetiva área de atuação definida na lei, que pode mandatar outras entidades, de reconhecida independência, para a prática de atos de fiscalização e auditoria.
+
+2 - Para efeitos do disposto no número anterior, podem as entidades competentes estabelecer, nomeadamente com a Associação Portuguesa do Controle de Tiragem, protocolos de fiscalização, em conformidade com o regulamento referido no n.º 3 do artigo 9.º.
+
+3 - As entidades titulares das publicações enquadradas no regime do presente decreto-lei e os respectivos mandatários devem fornecer todos os elementos que lhes sejam solicitados pela entidade com competência para a fiscalização, desde que aqueles elementos não se encontrem abrangidos pelo sigilo profissional ou comercial.
+
+4 - Cada CCDR deve, durante o mês de janeiro de cada ano, enviar ao membro do Governo responsável pela área da comunicação social um relatório detalhado sobre as ações de fiscalização realizadas no ano anterior e respetivas conclusões e informação sobre a utilização da verba prevista no n.º 2 do artigo 20.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913), em vigor a partir de 2025-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 18.º-A — Qualidade do serviço postal
+
+1 - Os operadores postais referidos no artigo 1.º comunicam à CCDR competente e à Autoridade Nacional de Comunicações (ANACOM) a percentagem de publicações periódicas comparticipadas pelo Estado expedidas no prazo estabelecido.
+
+2 - A ANACOM, no âmbito das suas competências de supervisão e fiscalização dos operadores postais, deve promover, em razão das situações de incumprimento que lhe forem comunicadas, ações de fiscalização sobre a qualidade da prestação dos serviços postais de expedição de publicações periódicas e sobre o cumprimento das obrigações legais por parte daqueles operadores postais.
+
+3 - A ANACOM envia ao membro do Governo responsável pela área da comunicação social e às CCDR, até 31 de janeiro de cada ano, os relatórios das ações de fiscalização realizadas no ano anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913), em vigor a partir de 2025-03-27
+
+###### Artigo 19.º — Reposição
+
+1 - A utilização abusiva do incentivo, qualquer outra conduta violadora do regime consagrado no presente decreto-lei ou a omissão de informação com repercussão nas condições de atribuição do incentivo e nos níveis de comparticipação determinam a reposição das verbas indevidamente comparticipadas.
+
+2 - Na falta de reposição das verbas no prazo máximo de 30 dias após notificação para o efeito, fica a CCDR competente habilitada a proceder à cobrança coerciva das mesmas, nos termos da lei.
+
+3 - A partir do dia seguinte ao do final do prazo de reposição referido no número anterior são devidos juros de mora à taxa legal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 20.º — Cobertura de encargos
+
+1 - Os encargos decorrentes da aplicação do presente decreto-lei são inscritos anualmente em dotação própria no orçamento da Estrutura de Missão para a Comunicação Social, criada pela Resolução do Conselho de Ministros n.º 105/2024, de 21 de agosto, designada por #PortugalMediaLab, competindo à Secretaria-Geral do Governo a certificação e o pagamento das verbas respeitantes ao incentivo naquele previsto, através do referido orçamento.
+
+2 - Das verbas a que se refere o número anterior são consignados 10% à cobertura de encargos decorrentes da fiscalização do cumprimento da legislação aplicável à comunicação social, incluindo estudos e pareceres.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 27/2017 - Diário da República n.º 50/2017, Série I de 2017-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661) A partir de 11 de março de 2017, a referência legal feita à Agência para o Desenvolvimento e Coesão, I. P., considera-se feita ao Gabinete de Estratégia, Planeamento e Avaliação Culturais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2025 - Diário da República n.º 60/2025, Série I de 2025-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2025-912444913), em vigor a partir de 2025-03-27
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 27/2017 - Diário da República n.º 50/2017, Série I de 2017-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2017-106579661), em vigor a partir de 2017-03-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 20.º-A — Regiões Autónomas
+
+1 - As competências atribuídas no presente decreto-lei às comissões de coordenação e desenvolvimento regional são exercidas nas Regiões Autónomas pelos organismos regionalmente competentes, com a participação, em cada uma das Regiões, de comissões de acompanhamento previstas no diploma que aprova o regime de incentivos do Estado à comunicação social.
+
+2 - O produto das coimas aplicadas nas Regiões Autónomas pelos respetivos serviços competentes constitui receita própria das mesmas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 21.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 6/2005, de 6 de Janeiro.
+
+###### Artigo 22.º — Regime transitório
+
+1 - A percentagem de comparticipação no custo da expedição postal prevista no n.º 1 do artigo 4.º e nos n.os 2 a 5 do artigo 5.º do presente decreto-lei será progressivamente atingida até 1 de Janeiro de 2009, de acordo com o seguinte regime:
+
+a) Da data de entrada em vigor do presente diploma até 31 de Dezembro de 2007, a percentagem de comparticipação é fixada em 60%;
+
+b) De 1 de Janeiro a 31 de Dezembro de 2008, a percentagem de comparticipação é fixada em 50%.
+
+2 - Os cartões de porte pago previstos no artigo 9.º do Decreto-Lei n.º 6/2005, de 6 de Janeiro, caducam com a entrada em vigor do presente decreto-lei.
+
+3 - Para os titulares dos cartões referidos no número anterior que reúnam os requisitos previstos no presente decreto-lei, a actualização do regime de acesso e de comparticipação implica a emissão oficiosa, pelo Instituto da Comunicação Social, de cartões onde constem as novas condições, sendo válidos até à data constante dos cartões de porte pago anteriormente em vigor.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 22/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2015-66443110), em vigor a partir de 2015-03-01
+
+###### Artigo 23.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 15 de Fevereiro de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José António Fonseca Vieira da Silva - José Mariano Rebelo Pires Gago - Mário Vieira de Carvalho - Augusto Ernesto Santos Silva.
+
+Promulgado em 19 de Março de 2007.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 21 de Março de 2007.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

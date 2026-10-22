@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:616471:por
+title: Decreto Regulamentar n.º 1/86
+short_title: null
+summary: Introduz alterações ao Decreto n.º 37784, de 14 de Março de 1950 (comissões de avaliação do inquilinato)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento
+proposing_entity: null
+official_number: 1/86
+official_date: null
+publication_date: '1986-01-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 1/1986, Série I de 1986-01-02
+  number: '1'
+  series: I
+  supplement: null
+  pages: 3 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/01/00100/00030004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '616471'
+  dre_path: /dr/detalhe/decreto-regulamentar/1-1986-616471
+  internal: pt:dre:616471:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1986-616471
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/1-1986-616471
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-01-02T00:00:00Z'
+integrity:
+  source_sha256: ade4eeae790572df1c5351e7b55ee507578971fdae8e04f02ba0288c62cb8e57
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-1-616471.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 1/86
+
+de 2 de Janeiro
+
+Nos últimos tempos têm vindo a fazer-se sentir dificuldades na presidência das comissões de avaliação a que se refere o [Decreto n.º 37021](https://diariodarepublica.pt/dr/detalhe/decreto/37021-1948-384581), de 21 de Agosto de 1948.
+
+Com o intuito básico de obviar a este e outros aspectos de pormenor, e até à reestruturação global desta matéria, publicam-se desde já algumas medidas de carácter urgente.
+
+Assim, de harmonia com o disposto no artigo 57.º da [Lei n.º 2030](https://diariodarepublica.pt/dr/detalhe/lei/2030-1948-386461), de 22 de Junho de 1948:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os artigos 5.º, 6.º, 7.º, 8.º, 10.º, 14.º, 15.º e 16.º do [Decreto n.º 37021](https://diariodarepublica.pt/dr/detalhe/decreto/37021-1948-384581), de 21 de Agosto de 1948, com a redacção que lhe foi dada pelo [Decreto n.º 37784](https://diariodarepublica.pt/dr/detalhe/decreto/37784-1950-658920), de 14 de Março de 1950, passam a ter a seguinte redacção:
+
+###### Art. 5.º - 1 - As comissões de avaliação serão constituídas, em cada repartição de finanças:
+
+a) Pelo conservador dos registos predial, civil, comercial ou de automóveis, a designar, por inerência de funções, pelo Ministro da Justiça, sob proposta da Direcção-Geral dos Registos e do Notariado, que presidirá;
+
+b) Por um louvado nomeado pelo chefe da repartição de finanças de entre os peritos que façam parte da lista a que se refere o disposto no artigo 136.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, que servirá de secretário;
+
+c) Por um louvado nomeado pela câmara municipal respectiva.
+
+2 - Poderão ser, excepcionalmente, nomeados, a título individual, como presidentes das comissões a que se refere o número anterior conservadores aposentados, quando as necessidades dos serviços contra-indiquem a nomeação por inerência de funções.
+
+3 - Sempre que se verifique a falta ou impedimento de qualquer dos membros das comissões, deverão estes dar conhecimento do facto ao chefe da repartição de finanças, que promoverá a imediata substituição.
+
+4 - Nas suas faltas e impedimentos o presidente será substituído, sucessivamente:
+
+a) Pelo conservador indicado como substituto, por inerência de funções, pela ordem indicada na alínea a) do n.º 1, a designar nos mesmos termos;
+
+b) Pelo ajudante das respectivas conservatórias que sirva de substituto do conservador, por inerência de funções, a designar nos mesmos termos;
+
+c) Pelo secretário judicial ou chefe de secretaria do tribunal ou tribunais judiciais de 1.ª instância exercendo jurisdição na área ao respectivo município, por inerência de funções, a designar pelo Ministro da Justiça, sob proposta da Direcção-Geral dos Serviços Judiciários.
+
+5 - Verificando-se a falta ou impedimento a que se refere o número anterior, o chefe da repartição de finanças notificará imediatamente o substituto para integrar transitoriamente a comissão.
+
+6 - Se o vogal a substituir for o de nomeação da câmara municipal e esta a não fizer no prazo de 10 dias a contar da data em que for solicitada a substituição pelo chefe da repartição de finanças, em carta registada com aviso de recepção, a comissão respectiva funcionará com os restantes membros até que aquele vogal seja designado.
+
+7 - A designação dos presidentes das comissões, quer por inerência de funções, quer a título individual, será feita pelo Ministro da Justiça, no prazo de 30 dias a contar da recepção do mapa das necessidades ou das respectivas alterações, a enviar pela Direcção-Geral das Contribuições e Impostos.
+
+8 - Os membros das comissões poderão ser substituídos por iniciativa das entidades a quem cabe a sua nomeação sempre que estas o julguem conveniente.
+
+###### Art. 6.º Sempre que o volume de serviço o justifique, poderão os Ministros das Finanças e do Plano e da Justiça determinar a constituição de mais de uma comissão em cada repartição de finanças, observando-se o disposto no artigo anterior.
+
+###### Art. 7.º As comissões de avaliação prestarão serviço por tempo indeterminado.
+
+###### Art. 8.º Observar-se-ão, no que respeita a incompatibilidades, as disposições dos artigos 137.º e 138.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, considerando-se nulas as avaliações efectuadas com violação daquelas disposições mediante requerimento dos interessados, dentro do prazo de 8 dias fixado no artigo 14.º, dirigido ao chefe da repartição de finanças, que promoverá a substituição dos membros impedidos.
+
+###### Art. 10.º - 1 - Registado e autuado o requerimento a pedir a avaliação e verificado pelo chefe da repartição de finanças que se encontra nas condições referidas no artigo 2.º, notificar-se-ão o requerido ou requeridos para, no prazo de 10 dias, apresentarem a contestação que julgarem conveniente.
+
+2 - A repartição de finanças deverá, dentro do prazo de 15 dias a contar da entrada da contestação ou do termo do prazo para a sua apresentação, prestar no processo as informações segundo os elementos oficiais de que disponha e considerados pertinentes e entregá-lo ao presidente da comissão de avaliação, a quem competirá orientar e dirigir o respectivo serviço, apreciando e decidindo previamente, sendo caso disso, qualquer questão de direito, nomeadamente quanto à legalidade do pedido ou da sua desistência.
+
+3 - Os prédios objecto de avaliação serão obrigatoriamente examinados por vistoria directa e conjunta dos membros da comissão, com excepção dos representantes das partes que ao abrigo de legislação especial devam também intervir.
+
+4 - A falta de vistoria directa constitui nulidade, sem prejuízo do procedimento criminal e disciplinar que possa decorrer da apresentação de relatório ou parecer em que falsamente se ateste a sua realização.
+
+5 - O presidente fica desobrigado das exigências do n.º 3 sempre que, julgando desnecessária a sua presença, o justifique no processo.
+
+6 - A comissão de avaliação, depois do exame directo do prédio, reunirá e dará por escrito parecer fundamentado, no prazo de 6 meses contados a partir da entrada do pedido de avaliação, sendo as respectivas deliberações tomadas por maioria e tendo o presidente voto de qualidade.
+
+7 - O presidente da comissão de avaliação designará, dentro do prazo referido no número anterior, as datas, com indicação do dia e hora, para o exame directo do prédio e posterior reunião ali prevista, de que serão notificados, pela repartição de finanças, os restantes membros da comissão.
+
+8 - Os representantes das partes que integrem as comissões de avaliação, conforme o previsto no n.º 3, serão também notificados para prestarem compromisso de honra nos termos do artigo 282.º do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
+
+9 - Quando, sem motivo justificado, os referidos representantes do inquilino e do senhorio não prestem compromisso de honra ou, apesar de notificados para o efeito, não compareçam, por qualquer motivo, às diligências da avaliação, esta será feita apenas pelos restantes membros da comissão.
+
+###### Art. 14.º Das decisões do chefe da repartição de finanças e do presidente da comissão de avaliação, bem como das deliberações desta, cabe recurso para o juiz do tribunal da respectiva comarca, no prazo de 8 dias a contar da data em que os interessados delas tomarem conhecimento mediante petição com as formalidades exigidas no artigo 2.º, na qual o requerente deverá indicar, sendo caso disso, a renda que considera justa, mas os recursos só subirão com o que for interposto na decisão final ou que ponha termo ao processo.
+
+###### Art. 15.º ...
+
+§ único. Da decisão final não cabe recurso.
+
+###### Art. 16.º Os recursos interpostos nos termos do artigo 14.º não têm efeito suspensivo, mas se, a final, vierem a ser providos e havendo exagero de rendas, que porventura hajam sido recebidas pelo senhorio, deverá por este ser descontado nos pagamentos seguintes e por importâncias mensais de montante igual ao dos excessos mensalmente verificados.
+
+###### Art. 2.º Mantêm-se em funcionamento, até à cessação de funções do respectivo presidente, as comissões que estiverem integralmente constituídas à data da publicação do presente diploma.
+
+###### Art. 3.º São revogados os Decretos n.º 38373, 7 de Agosto de 1951, e 45303, de 14 de Outubro de 1963.
+
+Mário Soares - Rui Manuel Parente Chancerelle de Machete - Mário Ferreira Bastos Raposo - Alípio Barrosa Pereira Dias.
+
+**Promulgado em 13 de Dezembro de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 19 de Dezembro de 1985.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

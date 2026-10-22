@@ -1,0 +1,688 @@
+---
+schema_version: '1.0'
+id: pt:dre:551628:por
+title: Portaria n.º 424-C/2008
+short_title: null
+summary: Aprova o Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação e da Comercialização dos
+  Produtos da Pesca e da Aquicultura, no âmbito da Medida Transformação e Comercialização, do eixo prioritário n.º 1 do Programa
+  Operacional Pesca 2007-2013 (PROMAR)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 424-C/2008
+official_date: null
+publication_date: '2008-06-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/2008, 1º Suplemento, Série I de 2008-06-13
+  number: '113'
+  series: I
+  supplement: 1º Suplemento
+  pages: 3464-(9) a 3464-(14)
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11301/0000900014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-05-23'
+version_history:
+  file: portaria-424-c-2008.versoes.json
+  count: 8
+  source_lastmod: '2025-05-07'
+  versions:
+  - date: '2008-06-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-09'
+    amending: pt:dre:494497:por
+    amending_title: Portaria n.º 619/2009
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 16.º
+    - Altera Anexo III
+  - date: '2010-02-20'
+    amending: pt:dre:609337:por
+    amending_title: Portaria n.º 106/2010
+    changes:
+    - Altera Artigo 15.º
+  - date: '2010-04-23'
+    amending: pt:dre:613213:por
+    amending_title: Portaria n.º 227/2010
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+  - date: '2010-11-17'
+    amending: pt:dre:308725:por
+    amending_title: Portaria n.º 1174/2010
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 16.º
+  - date: '2011-11-19'
+    amending: pt:dre:146210:por
+    amending_title: Portaria n.º 298/2011
+    changes:
+    - Adita Anexo IV
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Anexo II
+  - date: '2013-10-22'
+    amending: pt:dre:503059:por
+    amending_title: Portaria n.º 308/2013
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+  - date: '2014-05-23'
+    amending: pt:dre:25345880:por
+    amending_title: Portaria n.º 109/2014
+    changes:
+    - Altera Artigo 11.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/424-c/2008/p/cons/20140522/pt/html
+  oj: null
+  dre: '551628'
+  dre_path: /dr/detalhe/portaria/424-c-2008-551628
+  internal: pt:dre:551628:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/424-c-2008-551628
+  metadata_url: https://data.dre.pt/eli/port/424-c/2008/p/cons/20140522/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-915710837
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-915710837
+  retrieved_at: '2026-10-22T13:26:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-05-07T00:00:00Z'
+integrity:
+  source_sha256: 42141539b0b7e8e4f09560bddb4d3745d0c162166aa8ec403494b1451163d00e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:26:09Z'
+  notes: 8 versão(ões); histórico completo em portaria-424-c-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Pesca
+- Apoio ao Investimento
+- Investimento
+- Aquicultura
+- Produtos de Pesca
+- Regime de Apoio
+- Regulamento
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:494497:por
+  label: Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 16.º; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/619-2009-494497
+  date: '2009-06-08'
+- type: amended_by
+  target: pt:dre:609337:por
+  label: Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/106-2010-609337
+  date: '2010-02-19'
+- type: amended_by
+  target: pt:dre:613213:por
+  label: Altera Artigo 4.º; Altera Artigo 11.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/227-2010-613213
+  date: '2010-04-22'
+- type: amended_by
+  target: pt:dre:308725:por
+  label: Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1174-2010-308725
+  date: '2010-11-16'
+- type: amended_by
+  target: pt:dre:146210:por
+  label: Adita Anexo IV; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º;
+    Altera Artigo 16.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210
+  date: '2011-11-18'
+- type: amended_by
+  target: pt:dre:503059:por
+  label: Altera Artigo 11.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/308-2013-503059
+  date: '2013-10-21'
+- type: amended_by
+  target: pt:dre:25345880:por
+  label: Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880
+  date: '2014-05-22'
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/2003/361/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/2003/361/oj
+article_structure:
+  article_count: 20
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:26:09Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 424-C/2008
+
+Portaria n.º 424-C/2008
+
+de 13 de Junho
+
+O Decreto-Lei n.º 81/2008, de 16 de Maio, que estabelece o enquadramento nacional dos apoios a conceder ao sector da pesca no âmbito do Programa Operacional Pesca 2007-2013 (PROMAR), no quadro do Fundo Europeu das Pescas (FEP), estabelece, na alínea a) do n.º 2 do artigo 3.º, que, para o Continente, as diversas medidas nele previstas são objecto de regulamentação através de portaria do membro do Governo responsável pelo sector das pescas.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo da alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 81/2008, de 16 de Maio, o seguinte:
+
+> Nota: [Artigo 2.º, Portaria n.º 1174/2010 - Diário da República n.º 222/2010, Série I de 2010-11-16](https://diariodarepublica.pt/dr/detalhe/portaria/1174-2010-308725) As alterações à presente portaria, aplicam-se a todas as candidaturas já apresentadas, quer estejam em fase de análise, quer tenham já sido objecto de decisão final de aprovação e ou de contratualização da concessão dos apoios, quer estejam já em execução, desde que ainda não integralmente pagas, com excepção das alterações introduzidas ao artigo 8.º relativas às taxas de apoio público e às majorações, que apenas serão aplicáveis a candidaturas apresentadas a partir da publicação deste diploma.
+
+> Nota: [Artigo 2.º, Portaria n.º 227/2010 - Diário da República n.º 78/2010, Série I de 2010-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/227-2010-613213) As alterações introduzidas aplicam-se às candidaturas apresentadas após 27 de janeiro de 2009, que ainda não tenham sido objecto de decisão final.
+
+###### 1.º
+
+É aprovado o Regulamento do Regime de Apoio aos Investimentos nos Domínios da Transformação e da Comercialização dos Produtos da Pesca e da Aquicultura no âmbito da Medida Transformação e Comercialização do eixo prioritário n.º 1 do Programa Operacional Pesca 2007-2013 (PROMAR), de acordo com a subalínea iii) da alínea b) do n.º 1 do artigo 3.º do Decreto-Lei n.º 81/2008, de 16 de Maio, que faz parte integrante da presente portaria.
+
+###### 2.º
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 9 de Junho de 2008.
+
+## Anexo — REGULAMENTO DO REGIME DE APOIO AOS INVESTIMENTOS NOS DOMÍNIOS DA TRANSFORMAÇÃO E DA COMERCIALIZAÇÃO DOS PRODUTOS DA PESCA E DA AQUICULTURA
+
+###### Artigo 1.º — Âmbito e objecto
+
+1 - O presente Regulamento estabelece o regime de apoio aos investimentos nos domínios da transformação e da comercialização dos produtos da pesca e da aquicultura, localizados no continente, que tenham por objecto:
+
+a) Reforçar a capacidade competitiva e concorrencial do sector da transformação e da comercialização de produtos da pesca e da aquicultura, com efeito sócio-económico duradouro e sustentável;
+
+b) Apoiar o desenvolvimento de factores de competitividade, nomeadamente a qualificação dos recursos humanos, a inovação e a qualidade dos produtos;
+
+c) Diversificar e valorizar a produção da indústria, através de novos produtos ou embalagens e métodos de comercialização;
+
+d) Melhorar a participação dos produtos da pesca e da aquicultura nos mercados externos;
+
+e) Melhorar a utilização das espécies, subprodutos e desperdícios ainda pouco aproveitados;
+
+f) Incentivar os investimentos com efeitos positivos sobre o ambiente.
+
+2 - Não são enquadráveis neste regime os investimentos relativos:
+
+a) Ao comércio a retalho;
+
+b) À transformação e comercialização para outros fins que não o consumo humano, à excepção dos destinados exclusivamente ao tratamento de desperdícios dos produtos da pesca e da aquicultura.
+
+###### Artigo 2.º — Promotores
+
+1 - Podem apresentar candidaturas ao presente regime as empresas que tenham por objecto a transformação e comercialização dos produtos da pesca e da aquicultura previstas no anexo i, e que sejam:
+
+a) Micro, pequenas e médias empresas conforme definido na Recomendação n.º 2003/361/CE, da Comissão, de 6 de Maio; ou
+
+b) Outras empresas não abrangidas pela alínea anterior que empreguem menos de 750 trabalhadores ou tenham um volume de negócios inferior a 200 milhões de euros, sem prejuízo do critério da autonomia previsto naquela recomendação para efeitos de cálculo dos referidos limiares.
+
+2 - Para efeitos do presente Regulamento entende-se por «empresa» qualquer pessoa singular ou colectiva que, independentemente da sua forma jurídica, exerce uma actividade económica.
+
+###### Artigo 3.º — Condições de acesso relativas aos promotores
+
+Sem prejuízo das condições gerais de acesso previstas no artigo 4.º do Decreto-Lei n.º 81/2008, de 16 de Maio, os promotores devem, à data da apresentação da candidatura, demonstrar a existência de capacidade económica e financeira equilibrada, de acordo com o anexo ii, excepto nos casos em que essa apreciação não é exigida, nos termos do artigo 12.º
+
+###### Artigo 4.º — Condições de acesso relativas aos projectos
+
+Sem prejuízo das condições previstas no artigo 5.º do Decreto-Lei n.º 81/2008, de 16 de Maio, alterado pelo Decreto-Lei n.º 128/2009, de 28 de Maio, são condições de acesso a este regime:
+
+a) Relativamente ao estabelecimento, sempre que exigível, nos termos da legislação em vigor:
+
+i) Ter, nos termos do regime de exercício da actividade industrial, autorização de instalação ou alteração no caso de estabelecimento do tipo 1;
+
+ii) Possuir número de controlo veterinário, quando se trate da modernização de estabelecimentos existentes;
+
+iii) (Revogada.)
+
+b) Comprovar a propriedade do terreno e instalações ou o direito ao seu uso;
+
+c) Investimento elegível de valor igual ou superior a (euro) 10 000.
+
+> Nota: [Artigo 2.º, Portaria n.º 619/2009 - Diário da República n.º 110/2009, Série I de 2009-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/619-2009-494497) As alterações ao presente artigo aplicam-se às candidaturas apresentadas após 27 de janeiro de 2009.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 227/2010 - Diário da República n.º 78/2010, Série I de 2010-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/227-2010-613213), em vigor a partir de 2010-04-23
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 619/2009 - Diário da República n.º 110/2009, Série I de 2009-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/619-2009-494497), em vigor a partir de 2009-06-09
+
+###### Artigo 5.º — Tipologia dos projectos
+
+São susceptíveis de apoio os seguintes tipos de projectos:
+
+a) A construção, modernização ou ampliação de estabelecimentos da indústria transformadora dos produtos da pesca e da aquicultura;
+
+b) A introdução de sistemas, equipamentos e processos nos estabelecimentos de transformação de pescado que contribuam para a qualidade dos produtos e para a melhoria dos estabelecimentos em termos de eficiência, economia e racionalidade, nos domínios da energia, da água, do ambiente, da logística e da gestão;
+
+c) A introdução de tecnologias inovadoras nos estabelecimentos de transformação de pescado;
+
+d) A instalação ou modernização de unidades de tratamento de desperdícios dos produtos da pesca e da aquicultura;
+
+e) A instalação de sistemas e equipamentos de tratamento de resíduos sólidos industriais e de efluentes líquidos integrados nas unidades industriais de transformação de pescado;
+
+f) A elaboração de métodos de produção inovadores, em parceria com entidades e laboratórios do sistema científico e tecnológico;
+
+g) A introdução de sistemas e equipamentos que possibilitem elevar os níveis de protecção da vida e da saúde humana, e da prevenção de acidentes no trabalho além dos requisitos já previstos na legislação comunitária aplicável, ou a adaptação a novos requisitos legais.
+
+###### Artigo 6.º — Despesas elegíveis
+
+1 - Para efeitos de concessão de apoios, são elegíveis as seguintes despesas, desde que directamente relacionadas com a actividade a desenvolver:
+
+a) Construção, modernização ou adaptação de edifícios ou de instalações;
+
+b) Aquisição de edifícios ou de instalações, com excepção do valor correspondente ao terreno;
+
+c) Vedações e preparação de terrenos;
+
+d) Sistemas e equipamentos necessários ao processo de preparação, transformação, tratamento, conservação, acondicionamento e embalagem, armazenagem, comercialização e rastreabilidade de produtos da pesca e da aquicultura;
+
+e) Equipamentos e meios para movimentação interna e pesagem dos produtos da pesca e da aquicultura;
+
+f) Sistemas e equipamentos para o fabrico e silagem de gelo, destinado ao uso exclusivo da actividade do estabelecimento;
+
+g) Sistemas e equipamentos destinados à verificação, controlo e certificação da qualidade dos produtos da pesca e da aquicultura;
+
+h) Sistemas ou equipamentos destinados ao armazenamento, transformação e comercialização de desperdícios dos produtos da pesca e da aquicultura;
+
+i) Sistemas ou equipamentos para extracção de substâncias perigosas para a saúde humana, da farinha de peixe ou do óleo de peixe, mesmo que os produtos finais sejam utilizados para outros fins que não o consumo humano;
+
+j) Sistemas e equipamentos de sinalização, segurança, detecção e combate a incêndios, gestão informatizada da actividade produtiva, bem como equipamento telemático;
+
+l) Sistemas e equipamentos de redes de água salubre, saneamento, comunicações, electricidade e combustíveis;
+
+m) A automatização de sistemas ou equipamentos já existentes no estabelecimento;
+
+n) A construção de estações de pré-tratamento de águas residuais (EPTAR) ou de estações de tratamento de águas residuais (ETAR), bem como a instalação dos respectivos sistemas e equipamentos;
+
+o) Instalações e equipamentos sociais que o promotor seja obrigado a dispor por determinação da legislação em vigor;
+
+p) Formação profissional directamente relacionada com os objectivos do projecto nos termos e limites fixados pelo Despacho Normativo n.º 4-A/2008, de 24 de Janeiro;
+
+q) Meios de transporte sob temperatura dirigida, aprovados e certificados nos termos do Acordo Internacional de Transportes de Produtos Perecíveis sob Temperatura Dirigida (ATP);
+
+r) Auditorias, estudos e projectos técnico-económicos ou de impacte ambiental;
+
+s) Fiscalização de obras, desde que realizada por uma entidade externa ao construtor;
+
+t) Custos associados às garantias exigidas pela autoridade de gestão no âmbito da execução do projecto.
+
+2 - O montante da despesa elegível prevista na alínea q) do n.º 1 não pode ultrapassar 20  % das despesas elegíveis previstas nas alíneas a) a o).
+
+3 - O montante global das despesas elegíveis previstas nas alíneas r) a t) do n.º 1 não pode ultrapassar 6  % das despesas elegíveis previstas nas alíneas a) a o).
+
+###### Artigo 7.º — Despesas não elegíveis
+
+Sem prejuízo do disposto no artigo 6.º do Decreto-Lei n.º 81/2008, de 16 de Maio, não são consideradas para efeitos de concessão de apoios as seguintes despesas:
+
+a) Aquisição de edifícios, instalações ou equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração, salvo se os respectivos contratos estipularem uma opção de compra e esta estiver realizada e paga:
+
+i) No prazo de 2 anos, a contar da data da recepção de um exemplar do contrato de atribuição do apoio, devidamente outorgado pelo IFAP, para as operações de prazo igual ou inferior a 24 meses;
+
+ii) Até 30 de Junho de 2015, para as demais operações;
+
+b) Custos com os contratos de locação financeira ou de aluguer de longa duração, na parte que excedam os custos de aquisição dos correspondentes bens, nos casos referidos na alínea anterior;
+
+c) Aquisição de telemóveis, material e mobiliário de escritório e sistemas ou equipamentos afectos a áreas não produtivas, à excepção dos previstos nas alíneas o) e p) do n.º 1 do artigo 6.º;
+
+d) Aquisição de equipamentos e sistemas informáticos destinados ao apoio administrativo e contabilístico;
+
+e) Encargos de funcionamento ou materiais consumíveis;
+
+f) Aquisição de bens cuja amortização, permitida pela legislação fiscal, é igual ou inferior a um ano;
+
+g) Geradas com a actividade produtiva de outros produtos alimentares, além dos produtos da pesca e da aquicultura, na parte proporcional daqueles produtos;
+
+h) Aquisição de equipamentos ou sistemas relativos ao comércio a retalho;
+
+i) Marketing, incluindo a publicidade à empresa e aos produtos;
+
+j) Que visem dar cumprimento a normas comunitárias destinadas à modernização dos estabelecimentos existentes, após a data em que estas se tornaram obrigatórias, à excepção das operações relativas ao aumento das capacidades;
+
+l) Encargos financeiros, bancários e administrativos, transferência de propriedade de uma empresa, constituição de fundo de maneio, pagamentos de impostos, taxas e multas, despesas notariais, jurídicas, judiciais ou contabilísticas.
+
+> Nota: [Artigo 3.º, Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210) As alterações introduzidas na subalínea i) da alínea a) do presente artigo, aplicam-se a todas as candidaturas já apresentadas, desde que os correspondentes apoios ainda não tenham sido integralmente pagos.
+
+> Nota: [Artigo 2.º, Portaria n.º 619/2009 - Diário da República n.º 110/2009, Série I de 2009-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/619-2009-494497) As alterações ao presente artigo aplicam-se: i) Às candidaturas relativamente às quais ainda não tenha sido proferida decisão final; ii) Às candidaturas já decididas, mediante requerimento do interessado, a apresentar até ao dia 12 de agosto de 2008.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210), em vigor a partir de 2011-11-19
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 619/2009 - Diário da República n.º 110/2009, Série I de 2009-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/619-2009-494497), em vigor a partir de 2009-06-09
+
+###### Artigo 8.º — Taxas de apoio
+
+1 - As taxas de apoio público para os projectos apresentados pelos promotores previstos na alínea b) do n.º 1 do artigo 2.º são as seguintes:
+
+a) 20  % no caso dos projectos localizados na região de Lisboa;
+
+b) 30  % no caso dos projectos localizados nas regiões Norte, Centro, Alentejo e Algarve.
+
+2 - A taxa de apoio público para os projectos apresentados pelos promotores previstos na alínea a) do n.º 1 do artigo 2.º é de 35 %, à qual acrescem as seguintes majorações:
+
+a) (Revogada.)
+
+b) 15 % nos projectos que visem a exportação de, pelo menos, um terço da produção prevista;
+
+c) 5 % nos projectos que visem, pelo menos, um dos seguintes objectivos:
+
+i) Introdução de novos produtos que representem, pelo menos, um terço da produção associada ao investimento;
+
+ii) Adopção de novos processos ou métodos de fabrico;
+
+d) 10  % nos projectos que criem, pelo menos:
+
+i) 1 novo posto de trabalho, mediante a celebração de contrato de trabalho sem termo, quando os promotores sejam microempresas;
+
+ii) 5 novos postos de trabalho, mediante a celebração de contratos de trabalho sem termo, quando os promotores sejam pequenas empresas;
+
+iii) 15 novos postos de trabalho, mediante a celebração de contratos de trabalho sem termo, nos projectos apresentados por outros promotores.
+
+3 - As taxas de apoio público obtidas nos termos do número anterior não podem ultrapassar os seguintes limites:
+
+a) 40  % para os projectos localizados na região de Lisboa;
+
+b) 60  % para os projectos localizados nas regiões Norte, Centro, Alentejo e Algarve.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210), em vigor a partir de 2011-11-19
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1174/2010 - Diário da República n.º 222/2010, Série I de 2010-11-16](https://diariodarepublica.pt/dr/detalhe/portaria/1174-2010-308725), em vigor a partir de 2010-11-17
+
+###### Artigo 9.º — Natureza e montante dos apoios públicos
+
+1 - Os apoios públicos revestem a forma de subsídio a fundo perdido.
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+2 - O limite máximo dos apoios públicos é de (euro) 6 000 000.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1174/2010 - Diário da República n.º 222/2010, Série I de 2010-11-16](https://diariodarepublica.pt/dr/detalhe/portaria/1174-2010-308725), em vigor a partir de 2010-11-17
+
+###### Artigo 10.º — Projectos de potencial interesse nacional
+
+Quando os projectos apresentados sejam reconhecidos de potencial interesse nacional, nos termos da legislação em vigor, a natureza e os montantes dos apoios são definidos por despacho do membro do Governo responsável pelo sector das pescas, em contrapartida da obtenção de metas económicas e obrigações adicionais, a assegurar pelos promotores, no âmbito do correspondente contrato de concessão de apoios.
+
+###### Artigo 11.º — Candidaturas
+
+1 - As candidaturas ao presente regime são apresentadas nas direções regionais de agricultura e pescas, adiante designadas por DRAP.
+
+2 - Após a recepção das candidaturas, podem ser solicitados esclarecimentos ou documentos necessários à sua análise, devendo o promotor responder no prazo máximo de 10 dias, se outro não for fixado, findo o qual, na ausência de resposta, o processo será arquivado.
+
+3 - O encerramento das candidaturas ocorre em 31 de dezembro de 2013, se outra data não for fixada pelo Gestor.
+
+4 - Ao estabelecer novo período de apresentação de candidaturas ao abrigo do disposto no número anterior, o Gestor pode igualmente determinar:
+
+a) A tipologia de projetos suscetíveis de apoio, no contexto dessa reabertura do período de apresentação de candidaturas;
+
+b) A dotação disponível para novas aprovações, da qual dependerá a análise das candidaturas em carteira, face à dimensão dos investimentos nelas previstos;
+
+c) As regras de seleção das candidaturas, sem prejuízo dos critérios de seleção estabelecidos segundo o disposto no artigo 8.º do Decreto-Lei n.º 81/2008, de 16 de maio;
+
+d) Os prazos de execução dos projetos, tendo em conta o período de elegibilidade temporal das despesas previsto no artigo 55.º, n.º 1, do Regulamento n.º 1198/2006, do Conselho, de 27 de julho de 2006.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 109/2014 - Diário da República n.º 98/2014, Série I de 2014-05-22](https://diariodarepublica.pt/dr/detalhe/portaria/109-2014-25345880), em vigor a partir de 2014-05-23
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 308/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/308-2013-503059), em vigor a partir de 2013-10-22
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 227/2010 - Diário da República n.º 78/2010, Série I de 2010-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/227-2010-613213), em vigor a partir de 2010-04-23
+
+###### Artigo 12.º — Selecção das candidaturas
+
+1 - Para efeitos de concessão de apoio financeiro, as candidaturas são seleccionadas e ordenadas em função do valor da pontuação final (PF), resultante da aplicação da seguinte fórmula:
+
+PF = 0,3 AT + 0,3 VE + 0,4 AE
+
+2 - A forma de cálculo das pontuações da AT (apreciação técnica), da VE (apreciação económico-financeira) e da AE (apreciação estratégica) é definida no anexo iii ao presente Regulamento.
+
+3 - A apreciação estratégica não é exigível para as candidaturas com um investimento elegível inferior a (euro) 25 000, caso em que a PF será a resultante da seguinte fórmula:
+
+PF = AT
+
+4 - A apreciação económica e financeira não é exigível quando se trate de investimentos inferiores a (euro) 100 000 ou as candidaturas digam exclusivamente respeito a qualquer uma das tipologias de projectos previstas nas alíneas e), f) e g) do artigo 5.º, caso em que a PF será a resultante da seguinte fórmula:
+
+PF = 0,5 AT + 0,5 AE
+
+5 - São excluídas as candidaturas que não obtenham, no mínimo, 50 pontos em qualquer uma das valências previstas nos números anteriores.
+
+6 - As candidaturas seleccionadas nos termos dos números anteriores são ordenadas em dois grupos, consoante os projectos se localizem na região de Lisboa ou nas restantes regiões do continente, para efeitos de decisão, tendo em vista as dotações financeiras a fixar por despacho do membro do Governo responsável pelo sector das pescas.
+
+###### Artigo 13.º — Decisão e contratação
+
+1 - A decisão final compete:
+
+a) Ao gestor para as candidaturas relativas a projectos de investimento com uma despesa elegível inferior a (euro) 2 500 000;
+
+b) Ao membro do Governo responsável pelo sector das pescas para as candidaturas relativas aos restantes projectos.
+
+2 - As candidaturas são decididas no prazo máximo de 50 dias a contar da data da respectiva entrada, considerando-se aquele prazo suspenso sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.
+
+3 - O Instituto de Financiamento da Agricultura e Pescas, adiante designado por IFAP, notifica o promotor, no prazo de 10 dias após o seu conhecimento, da decisão final de concessão do apoio, remetendo o contrato para assinatura, ou informando o local onde o mesmo pode ser assinado.
+
+4 - O IFAP, após a recepção do contrato devidamente assinado pelo promotor, dispõe de 10 dias para o outorgar e devolver um exemplar ao promotor.
+
+> Nota: [Artigo 3.º, Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210) As alterações introduzidas no n.º 4 do presente artigo, aplicam-se a todas as candidaturas já apresentadas, desde que os correspondentes apoios ainda não tenham sido integralmente pagos.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210), em vigor a partir de 2011-11-19
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 227/2010 - Diário da República n.º 78/2010, Série I de 2010-04-22](https://diariodarepublica.pt/dr/detalhe/portaria/227-2010-613213), em vigor a partir de 2010-04-23
+
+###### Artigo 14.º — Pagamento dos apoios
+
+1 - O pagamento do apoio é feito pelo IFAP, após apresentação pelo promotor nas DRAP dos documentos comprovativos do pagamento das despesas, em conformidade com formulários próprios.
+
+2 - A primeira prestação do apoio só é paga após a realização de 5% do investimento elegível.
+
+3 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 10 % desse apoio.
+
+4 - A última prestação do apoio só é paga, nos casos aplicáveis, após comprovação pelo beneficiário de que o estabelecimento industrial dispõe de licença de exploração industrial.
+
+> Nota: [Artigo 3.º, Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210) As alterações introduzidas nos n.os 2 e 3 do presente artigo, aplicam-se a todas as candidaturas já apresentadas, desde que os correspondentes apoios ainda não tenham sido integralmente pagos.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 308/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/308-2013-503059), em vigor a partir de 2013-10-22
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210), em vigor a partir de 2011-11-19
+
+###### Artigo 15.º — Adiantamento dos apoios
+
+1 - O promotor poderá solicitar nas DRAP a concessão de um adiantamento até 50% do valor do apoio, após a receção de um exemplar do respetivo contrato de atribuição outorgado pelo IFAP.
+
+2 - (Revogado.)
+
+3 - O promotor disporá de um período de seis meses, após a concessão do adiantamento, para demonstrar a realização de 50% do investimento elegível, mediante a apresentação dos correspondentes comprovativos de despesa.
+
+4 - Em caso de incumprimento da obrigação prevista no número 3:
+
+a) É aplicada ao promotor uma penalização correspondente ao valor dos juros de mora à taxa legal, calculados sobre o valor do adiantamento;
+
+b) Decorridos 30 dias após o termo do prazo a que alude o número 3 sem que o promotor tenha ainda cumprido a obrigação aí prevista, poderá ser-lhe exigida a devolução do adiantamento, acrescido de juros de mora à taxa legal.
+
+5 - Os adiantamentos são concedidos após a apresentação de garantias a favor do IFAP.
+
+6 - A concessão e o montante dos adiantamentos ficam limitados às disponibilidades financeiras do PROMAR.
+
+7 - O somatório do apoio concedido a título de adiantamento e do apoio pago ao abrigo do disposto no artigo 14º em nenhum momento poderá exceder a totalidade da ajuda pública atribuída ao promotor.
+
+> Nota: [Artigo 3.º, Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210) As alterações introduzidas no n.º 1 do presente artigo, aplicam-se a todas as candidaturas já apresentadas, desde que os correspondentes apoios ainda não tenham sido integralmente pagos.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 308/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/308-2013-503059), em vigor a partir de 2013-10-22
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210), em vigor a partir de 2011-11-19
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 106/2010 - Diário da República n.º 35/2010, Série I de 2010-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/106-2010-609337), em vigor a partir de 2010-02-20
+
+###### Artigo 16.º — Obrigações dos beneficiários
+
+1 - Sem prejuízo das obrigações previstas no artigo 11.º do Decreto-Lei n.º 81/2008, de 16 de Maio, quando aplicáveis, constituem obrigações dos beneficiários:
+
+a) Iniciar a execução dos projectos até 180 dias a contar da data da recepção de um exemplar do contrato de atribuição do apoio outorgado pelo IFAP, e concluir essa execução até 2 anos a contar da mesma data, salvo para os projectos abrangidos pelo disposto na subalínea ii) da alínea a) do artigo 7.º, cuja conclusão deverá ocorrer até 30 de Junho de 2015, ou na data prevista para a realização e pagamento da opção de compra dos edifícios, equipamentos ou instalações objecto de contratos de locação financeira ou de aluguer de longa duração, no caso de essa data ser anterior a 30 de Junho de 2015;
+
+b) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação do projecto;
+
+c) Aplicar integralmente os apoios na realização do projecto de investimento aprovado, com vista à execução dos objectivos que justificaram a sua atribuição;
+
+d) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as obrigações para o efeito contraídas perante terceiros, sempre de forma a não perturbar a cabal realização dos objectivos dos apoios;
+
+e) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando nem modificando o mesmo sem prévia autorização do gestor do PROMAR;
+
+f) Comprovar, até à data de apresentação do último pedido de pagamento, que detêm uma situação financeira equilibrada, de acordo com o anexo iv do presente Regulamento, excepto nos casos em que essa apreciação não é exigida, nos termos do artigo 12.º
+
+2 - Excepcionalmente, pode ser aceite a prorrogação dos prazos de início e conclusão da execução do projecto, previstos na alínea a) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao promotor.
+
+> Nota: [Artigo 3.º, Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210) As alterações introduzidasno n.º 2 do presente artigo, aplicam-se a todas as candidaturas já apresentadas, desde que os correspondentes apoios ainda não tenham sido integralmente pagos.
+
+> Nota: [Artigo 2.º, Portaria n.º 619/2009 - Diário da República n.º 110/2009, Série I de 2009-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/619-2009-494497) As alterações ao presente artigo aplicam-se: i) Às candidaturas relativamente às quais ainda não tenha sido proferida decisão final; ii) Às candidaturas já decididas, mediante requerimento do interessado, a apresentar até ao dia 12 de agosto de 2008.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210), em vigor a partir de 2011-11-19
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1174/2010 - Diário da República n.º 222/2010, Série I de 2010-11-16](https://diariodarepublica.pt/dr/detalhe/portaria/1174-2010-308725), em vigor a partir de 2010-11-17
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 619/2009 - Diário da República n.º 110/2009, Série I de 2009-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/619-2009-494497), em vigor a partir de 2009-06-09
+
+###### Artigo 17.º — Alterações aos projectos aprovados
+
+Podem ser admitidas alterações técnicas, desde que se mantenha a conceção económica e estrutural do projeto aprovado, seguindo-se o disposto nos n.os 2 e seguintes do artigo 14.º do Decreto-Lei n.º 81/2008, de 16 de maio, delas não podendo resultar o aumento do apoio público.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 308/2013 - Diário da República n.º 203/2013, Série I de 2013-10-21](https://diariodarepublica.pt/dr/detalhe/portaria/308-2013-503059), em vigor a partir de 2013-10-22
+
+###### Artigo 18.º — Cobertura orçamental
+
+Os encargos com o pagamento dos apoios públicos previstos neste regulamento são suportados pelo projecto «Aquicultura, pesca interior, transformação e comercialização dos produtos da pesca e aquicultura» do PIDDAC - Programa de Investimentos e Despesas de Desenvolvimento da Administração Central, inscrito no IFAP.
+
+## Anexo I — (a que se refere o artigo 2.º)
+
+Investimentos relativos aos produtos da pesca e da aquicultura enquadráveis na classificação portuguesa de actividades económicas (CAE-Rev.3), revista pelo Decreto-Lei n.º 381/2007, de 14 de Novembro, desde que tenham por finalidade o consumo humano ou se destinem exclusivamente ao tratamento, transformação e comercialização dos desperdícios daqueles produtos:
+
+TABELA I
+
+(ver documento original)
+
+## Anexo II — Critério para avaliação de situação financeira pré-projecto
+
+(a que se refere o artigo 3.º)
+
+1) Para efeitos do disposto no artigo 3.º e sem prejuízo do disposto no n.º 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré-projecto seja igual ou superior a 15 %. A autonomia financeira pré-projecto tem por base o último exercício encerrado à data de apresentação das candidaturas.
+
+2) A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:
+
+Autonomia financeira = (CP / AL) x 100
+
+em que:
+
+CP - capitais próprios da empresa, incluindo os suprimentos e ou empréstimos de sócios ou accionistas que contribuam para garantir o indicador referido, desde que venham a ser incorporados em capital próprio antes da assinatura do contrato.
+
+AL - activo líquido da empresa.
+
+3) Relativamente aos promotores que, à data de apresentação das candidaturas, não tenham desenvolvido qualquer actividade, ou não tenha ainda decorrido o prazo legal de apresentação do balanço e contas, bem como aos empresários em nome individual sem contabilidade organizada, considera-se que possuem uma situação financeira equilibrada se suportarem com capitais próprios pelo menos 20  % do custo total do investimento.
+
+4) Os promotores poderão comprovar o indicador referido no n.º 1 com informação mais recente, mas sempre referida a uma data anterior à da apresentação da candidatura, devendo para o efeito apresentar os respectivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas, nos termos previstos no n.º 3 do artigo 4.º do Decreto-Lei n.º 81/2008, de 16 de Maio, na redacção dada pelo Decreto-Lei n.º 37/2010 de 20 de Abril.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210), em vigor a partir de 2011-11-19
+
+## Anexo III — Metodologia para o cálculo da pontuação final (PF)
+
+(a que se refere o artigo 12.º)
+
+1 - Apreciação económico-financeira (VE). - A apreciação económico-financeira é pontuada do 0 a 100 pontos de acordo com o estabelecido nas alíneas seguintes:
+
+a) A taxa interna de rendibilidade (TIR) do projecto é pontuada de acordo com a seguinte tabela:
+
+TABELA I
+
+(ver documento original)
+
+b) O REFI é a taxa de refinanciamento do Banco Central Europeu em vigor no 1.º dia útil de cada mês correspondente à apresentação ou reformulação da candidatura.
+
+2 - Apreciação técnica (AT). - O cálculo da apreciação técnica é efectuado de acordo com as alíneas seguintes, podendo atingir o máximo de 100 pontos:
+
+a) Os projectos que demonstrem ser tecnicamente viáveis são pontuados em 40 pontos de base;
+
+b) À pontuação base prevista na alínea anterior acrescem as majorações calculadas para cada um dos parâmetros previstos na tabela ii;
+
+c) Aos parâmetros com os números de ordem 1 a 6 são atribuídos 5 pontos a cada;
+
+d) Aos parâmetros com os números de ordem 7 a 9 são atribuídos 10 pontos a cada.
+
+TABELA II
+
+(ver documento original)
+
+3 - Cálculo da apreciação estratégica (AE). - A apreciação estratégica é efectuada de acordo com as seguintes alíneas, podendo atingir um máximo de 100 pontos:
+
+a):
+
+Micro e pequena empresa - 45 pontos;
+
+Média empresa - 40 pontos;
+
+Outras empresas - 35 pontos;
+
+b) À pontuação prevista na alínea anterior acrescem as seguintes majorações:
+
+TABELA III
+
+(ver documento original)
+
+> Nota: [Artigo 2.º, Portaria n.º 619/2009 - Diário da República n.º 110/2009, Série I de 2009-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/619-2009-494497) As alterações ao presente artigo aplicam-se: i) Às candidaturas relativamente às quais ainda não tenha sido proferida decisão final; ii) Às candidaturas já decididas, mediante requerimento do interessado, a apresentar até ao dia 12 de agosto de 2008.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 619/2009 - Diário da República n.º 110/2009, Série I de 2009-06-08](https://diariodarepublica.pt/dr/detalhe/portaria/619-2009-494497), em vigor a partir de 2009-06-09
+
+## Anexo IV — Critério para avaliação de situação financeira pós-projecto
+
+[a que se refere o artigo 16.º, n.º 1, alínea f)]
+
+1) Para efeitos do disposto na alínea f) do n.º 1 do artigo 16.º, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pós-projecto seja igual ou superior a 20 %. A autonomia financeira pós-projecto tem por base o último exercício encerrado à data de apresentação do último pedido de pagamento.
+
+2) A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:
+
+Autonomia financeira = (CP / AL) x 100
+
+em que:
+
+CP - capitais próprios da empresa;
+
+AL - activo líquido da empresa.
+
+3) Os promotores poderão comprovar o indicador referido no n.º 1 com informação mais recente, devendo para o efeito apresentar os respectivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.
+
+> Aditado pelo/a Artigo 1.º do/a [Portaria n.º 298/2011 - Diário da República n.º 222/2011, Série I de 2011-11-18](https://diariodarepublica.pt/dr/detalhe/portaria/298-2011-146210), em vigor a partir de 2011-11-19

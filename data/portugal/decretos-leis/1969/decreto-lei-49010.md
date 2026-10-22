@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:201578:por
+title: Decreto-Lei n.º 49010
+short_title: null
+summary: Autoriza o Governo a tomar as medidas necessárias para ocorrer aos estragos e prejuízos causados pelo recente abalo
+  sísmico no País - Abre um crédito no Ministério das Finanças, a favor do Ministério das Obras Públicas, destinado a custear
+  as despesas resultantes da execução do presente diploma
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e das Obras Públicas
+proposing_entity: null
+official_number: '49010'
+official_date: null
+publication_date: '1969-05-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 119/1969, Série I de 1969-05-20
+  number: '119'
+  series: I
+  supplement: null
+  pages: 543 - 544
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/05/11900/05430544.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '201578'
+  dre_path: /dr/detalhe/decreto-lei/49010-1969-201578
+  internal: pt:dre:201578:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49010-1969-201578
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49010-1969-201578
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1969-05-20T00:00:00Z'
+integrity:
+  source_sha256: fe10768a028642a36f15d56a40852d693a12d5a144a42c8bfea777cca33d1a4d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1969/DRE-1969-49010-201578.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 1
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49010
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Fica o Governo autorizado a tomar as medidas necessárias para ocorrer aos estragos e prejuízos causados pelo recente abalo sísmico no País, em conformidade com o plano enunciado no artigo seguinte e nos termos das demais disposições do presente diploma.
+
+###### Art. 2.º O plano a que se refere o artigo 1.º compreende os seguintes trabalhos, cuja execução ficará a cargo do Ministério das Obras Públicas:
+
+a) Reconstrução, grande reparação e beneficiação dos edifícios públicos e de interesse público, bem como das habitações rurais e outras, quando se prove que os seus proprietários não se encontram em condições económicas de, por si próprios, custearem as obras ou de recorrer aos subsídios reembolsáveis previstos no artigo 5.º;
+
+b) Construção das habitações que for julgado necessário levar a efeito;
+
+c) Aquisição, beneficiação e adaptação de instalações para o alojamento provisório das populações sinistradas;
+
+d) Execução dos trabalhos de urbanização necessários.
+
+###### Art. 3.º O Ministro das Obras Públicas poderá autorizar que os proprietários sinistrados realizem, sob a fiscalização dos serviços do Ministério e de harmonia com o programa de trabalhos e orçamento aprovados, as obras a executar nas suas habitações, nos termos da alínea a) do artigo 2.º
+
+###### Art. 4.º Em diploma a publicar, o Governo fixará o regime a que ficam sujeitas as casas a construir ao abrigo da alínea b) do artigo 2.º
+
+###### Art. 5.º Fica o Ministro das Obras Públicas autorizado a conceder, pelo Fundo de Desemprego, empréstimos reembolsáveis, até ao montante de 5000000$00, aos proprietários das edificações danificadas pelo sismo, não abrangidos pelo artigo 2.º, e cuja situação económica justifique esta modalidade de assistência do Estado.
+
+§ 1.º Para poderem beneficiar do subsidio nos termos deste artigo, os proprietários deverão formular a sua pretensão no prazo máximo de 90 dias, a partir da data da publicação deste diploma.
+
+Os processos individuais, devidamente instruídos e informados pelo serviço respectivo, serão submetidos à decisão do Ministro das Obras Públicas.
+
+§ 2.º Os proprietários beneficiários das disposições deste artigo ficam sujeitos às condições que forem fixadas no despacho que conceder o subsidio e à fiscalização técnica dos serviços do Ministério das Obras Públicas.
+
+§ 3.º O prazo de reembolso do subsídio poderá variar em função da situação económica do beneficiário, mas não deverá exceder dez anos.
+
+###### Art. 6.º Os levantamentos de fundos por parte dos serviços encarregados das obras e reparações serão feitos por simples requisições remetidas à respectiva repartição da contabilidade pública, podendo as despesas, quando se mostrar indispensável, realizar-se independentemente do cumprimento de quaisquer formalidades.
+
+###### Art. 7.º As despesas inerentes à fiscalização dos trabalhos serão fixadas por despacho do Ministro das Obras Públicas, por proposta do respectivo serviço, mas não poderão exceder 5 por cento da verba concedida para a execução das obras.
+
+###### Art. 8.º Os saldos apurados em 31 de Dezembro nas dotações a inscrever no Orçamento Geral do Estado para a realização das obras previstas neste diploma transitarão para o ano ou anos seguintes, até à conclusão dos trabalhos.
+
+###### Art. 9.º A documentação justificativa das despesas efectuadas, depois de conferida na respectiva repartição da contabilidade pública, será submetida a visto do Ministro das Finanças, que, a ser concedido, legitimará a competente prestação de contas.
+
+###### Art. 10.º Se das obras realizadas ao abrigo deste diploma resultarem benfeitorias em prédios de arrendamento, não poderão estas ser consideradas para efeitos de actualização do montante das rendas, nos termos da respectiva legislação, salvo quando o proprietário tiver indemnizado o Estado da quantia por este despendida ou reembolsado o subsídio concedido ao abrigo do artigo 5.º
+
+§ único. Para efeitos do disposto neste artigo, serão averbados na Conservatória do Registo Predial o montante e a natureza do subsídio do Estado e o prazo do reembolso.
+
+Este averbamento será cancelado mediante simples apresentação do documento comprovativo de estarem realizadas as condições referidas no final do corpo deste artigo.
+
+###### Art. 11.º É concedida a isenção das taxas e impostos municipais relativos às obras a realizar.
+
+###### Art. 12.º É declarada, sem mais formalidades, a utilidade pública urgente das expropriações necessárias a execução das obras previstas no presente diploma.
+
+###### Art. 13.º Para execução do presente diploma, é aberto no Ministério das Finanças, a favor do Ministério das Obras Públicas, um crédito especial do montante de 42800000$00, a inscrever sob a seguinte forma:
+
+Ministério das Obras Públicas
+
+Despesas extraordinárias
+
+### Capítulo 15.º «Outros investimentos»:
+
+###### Artigo 126.º «Despesas resultantes do Decreto-Lei n.º 49010, de 20 de Maio de 1969»:
+
+1) «A realizar pela Direcção-Geral dos Edifícios e Monumentos Nacionais» ... 25600000$00
+
+2) «A realizar pela Direcção-Geral dos Serviços de Urbanização» ... 17200000$00
+
+... 42800000$00
+
+###### Art. 14.º Para compensação do crédito previsto no artigo anterior, é anulada a importância de 42800000$00 na verba descrita no orçamento em vigor do Ministério das Finanças sob o artigo 217.º do capítulo 20.º
+
+###### Art. 15.º Este diploma entra imediatamente em vigor.
+
+Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
+
+**Promulgado em 12 de Maio de 1969.**
+
+**Publique-se.**
+
+Presidência da República, 20 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

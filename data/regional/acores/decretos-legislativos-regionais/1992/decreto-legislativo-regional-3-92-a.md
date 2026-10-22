@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:157643:por
+title: Decreto Legislativo Regional n.º 3/92/A
+short_title: null
+summary: Estabelece disposições sobre a compensação financeira às câmaras municipais em resultado de acordos internacionais
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 3/92/A
+official_date: null
+publication_date: '1992-02-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 35/1992, Série I-A de 1992-02-11
+  number: '35'
+  series: I
+  supplement: null
+  pages: 904 - 905
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/02/035a00/09040905.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/3/1992/02/11/a/dre/pt/html
+  oj: null
+  dre: '157643'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/3-1992-157643
+  internal: pt:dre:157643:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1992-157643
+  metadata_url: https://data.dre.pt/eli/declegreg/3/1992/02/11/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1992-157643
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-08-06T00:00:00Z'
+integrity:
+  source_sha256: 35f38fd17ae1471d4c84b6c3c990c864ff98a876b636d75716a5c4999b7091aa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1992/DRE-1992-3-157643.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Compensação Financeira
+- Contribuição Autárquica
+- Convenção
+- Isenção Fiscal
+- Açores
+- Autarquia Local
+- Imposto sobre Veículos
+relationships:
+- type: amended_by
+  target: pt:dre:356529:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 3/92/A
+
+Compensação financeira às câmaras municipais em resultado de acordos internacionais
+
+Considerando que a realização e a utilização de investimentos derivados de acordos de defesa entre o Governo Português e governos estrangeiros podem afectar negativamente algumas autarquias locais;
+
+Considerando que nos acordos já existentes se prevêem isenções fiscais para cidadãos estrangeiros a viver na Região e que algumas das mesmas implicam diminuição das receitas dos municípios;
+
+Considerando também, por outro lado, que há câmaras que vêem aumentadas, sem as contrapartidas habituais, algumas das suas despesas e responsabilidades;
+
+Considerando que o [Decreto Legislativo Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1986-616409), de 9 de Janeiro, apenas considerou o imposto sobre veículos:
+
+A Assembleia Legislativa Regional decreta, no uso da faculdade que lhe é conferida no n.º 1, alínea a), do artigo 229.º da Constituição da República, e no n.º 1, alínea c), do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º O Governo Regional tomará as providências orçamentais destinadas a compensar os municípios da Região afectados negativamente pela execução de acordos e tratados internacionais que digam directamente respeito à Região.
+
+###### Art. 2.º O auxílio financeiro a prestar ao abrigo do disposto no artigo precedente será constituído por:
+
+1) O equivalente ao produto das receitas fiscais atribuídas por lei aos municípios, mas que não são liquidadas nem cobradas por força de isenções fiscais estabelecidas nos acordos e tratados internacionais;
+
+2) Uma verba destinada a fazer face ao aumento das despesas dos municípios decorrentes da aplicação daqueles acordos e tratados.
+
+###### Art. 3.º Para o cálculo do auxílio previsto no n.º 1) do artigo anterior ter-se-á em conta, entre outras, nomeadamente:
+
+a) O valor das isenções do imposto sobre veículos civis e militares decorrentes da execução dos acordos e tratados a que se refere o artigo 1.º;
+
+b) O valor das isenções da contribuição autárquica que seria devida pelas construções existentes na sequência da execução dos acordos e tratados, nomeadamente os que se destinam a fins habitacionais, administrativos, comerciais, sociais, oficinais e demais infra-estruturas existentes.
+
+###### Art. 4.º - 1 - O montante global do auxílio financeiro a prestar aos municípios ao abrigo deste diploma não poderá ser inferior a 2% da receita efectiva do orçamento regional gerada no ano anterior, na sequência e como compensação da execução dos respectivos acordos e tratados.
+
+2 - O auxílio só será concedido se do cálculo previsto no n.º 1 do artigo 2.º resultar um valor superior a 0,1% do FEF de capital do município.
+
+###### Art. 5.º O Governo Regional estabelecerá por decreto regulamentar regional, ouvidos os municípios envolvidos, os critérios necessários à fixação concreta em cada ano do auxílio financeiro previsto.
+
+###### Art. 6.º O Governo Regional tomará as providências orçamentais necessárias para a execução deste diploma no ano de 1992.
+
+###### Art. 7.º É revogado o [Decreto Legislativo Regional n.º 3/86/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1986-616409), de 9 de Janeiro.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 13 de Dezembro de 1991.
+
+**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+
+**Assinado em Angra do Heroísmo em 23 de Janeiro de 1992.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**

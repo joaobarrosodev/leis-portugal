@@ -1,0 +1,481 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517789:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-870891870",
+ "dre_path": "/dr/detalhe/decreto-lei/135-1995-517789",
+ "source_lastmod": "2024-07-03",
+ "versions": [
+  {
+   "date": "1995-06-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "870903263",
+    "870903243",
+    "870903244",
+    "870903245",
+    "870903246",
+    "870903247",
+    "870903248",
+    "870903249",
+    "870903250",
+    "870903251",
+    "870903252",
+    "870903253",
+    "870903254",
+    "870903255",
+    "870903256",
+    "870903257",
+    "870903258",
+    "870903259",
+    "870903260"
+   ]
+  },
+  {
+   "date": "2005-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:243692:por",
+     "title": "Decreto-Lei n.º 134/2005",
+     "published": "2005-08-16",
+     "dre_path": "/dr/detalhe/decreto-lei/134-2005-243692"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "870903242",
+    "870903243",
+    "870903244",
+    "870903245",
+    "870903246",
+    "870903247",
+    "870903248",
+    "870903249",
+    "870903250",
+    "870903251",
+    "870903252",
+    "870903253",
+    "870903262",
+    "870903255",
+    "870903256",
+    "870903257",
+    "870903258",
+    "870903259",
+    "870903260",
+    "870903261"
+   ]
+  },
+  {
+   "date": "2006-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:540387:por",
+     "title": "Decreto-Lei n.º 176/2006",
+     "published": "2006-08-30",
+     "dre_path": "/dr/detalhe/decreto-lei/176-2006-540387"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "870903263",
+    "870903264",
+    "870903265",
+    "870903266",
+    "870903267",
+    "870903268",
+    "870903269",
+    "870903270",
+    "870903271",
+    "870903272",
+    "870903273",
+    "870903274",
+    "870884475",
+    "870884476",
+    "870884477",
+    "870884478",
+    "870884479",
+    "870884480",
+    "870884481",
+    "870884482"
+   ]
+  }
+ ],
+ "fragments": {
+  "870903263": {
+   "fragment_id": "870891871",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-08-31",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 135/95\n\nde 9 de Junho\n\nA distribuição por grosso de medicamentos de uso humano no mercado interno português constitui uma actividade comercial cujo regime jurídico se encontra disperso em vários diplomas legais, de entre os quais o Decreto-Lei n.º 48547, de 27 de Agosto de 1968.\n\nA Directiva n.º 92/25/CEE, do Conselho, de 31 de Março de 1992, determina, no entanto, a uniformização das legislações nacionais dos Estados membros nesta matéria.\n\nImporta, pois, harmonizar e definir, de forma clara e objectiva, o regime jurídico do exercício da actividade de distribuição por grosso de tais medicamentos, pelo que o presente diploma transpõe para a ordem jurídica interna a referida Directiva n.º 92/25/CEE, do Conselho, de 31 de Março de 1992, e estabelece o regime jurídico do exercício da actividade de distribuição por grosso de medicamentos de uso humano.\n\nForam ouvidas as Ordens dos Médicos e dos Farmacêuticos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "870903243": {
+   "fragment_id": "870891872",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para o direito interno a Directiva n.º 92/25/CEE, do Conselho, de 31 de Março de 1992, e estabelece o regime jurídico do exercício da actividade de distribuição por grosso de medicamentos de uso humano."
+  },
+  "870903244": {
+   "fragment_id": "870891873",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Distribuição por grosso de medicamentos de uso humano» a actividade comercial que consiste no abastecimento, posse ou fornecimento de medicamentos de uso humano destinados à transformação, revenda ou utilização em serviços médicos, unidades de saúde e farmácias, excluindo o fornecimento ao público;\n\nb) «Estabelecimento de distribuição por grosso de medicamentos de uso humano» o estabelecimento comercial onde, a título principal ou acessório, é exercida a actividade de distribuição por grosso de medicamentos de uso humano."
+  },
+  "870903245": {
+   "fragment_id": "870891874",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorização\n\n1 - O exercício da actividade de distribuição por grosso de medicamentos de uso humano está sujeito a autorização do conselho de administração do Instituto Nacional da Farmácia e do Medicamento, adiante designado por INFARMED.\n\n2 - Não estão sujeitas à autorização prevista no número anterior:\n\na) A actividade de distribuição de medicamentos pelos titulares de uma autorização de fabrico de medicamentos de uso humano concedida nos termos da legislação em vigor, desde que se limitem a distribuir os medicamentos por si fabricados e não disponham de instalações especialmente destinadas à distribuição por grosso de medicamentos de uso humano;\n\nb) A actividade de distribuição de medicamentos pelos titulares de uma licença para o exercício da actividade de distribuição por grosso de medicamentos de uso humano concedida por uma autoridade administrativa competente de outro Estado membro da União Europeia e que não disponham em Portugal de instalações especialmente destinadas a esse fim.\n\n3 - O disposto no número anterior não exime os respectivos titulares do cumprimento das restantes disposições do presente diploma relativas ao exercício da actividade de distribuição por grosso de medicamentos de uso humano."
+  },
+  "870903246": {
+   "fragment_id": "870943375",
+   "type": 11,
+   "heading": "Artigo 4.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requerimento\n\n1 - A autorização prevista no n.º 1 do artigo anterior é concedida mediante requerimento do interessado, dirigido ao presidente do conselho de administração do INFARMED, no qual devem constar:\n\na) A denominação social ou nome e demais elementos identificativos;\n\nb) A indicação da sede ou residência;\n\nc) O número fiscal de contribuinte;\n\nd) A identificação do director técnico responsável pela actividade de distribuição por grosso de medicamentos de uso humano;\n\ne) A localização do estabelecimento onde será exercida a actividade de distribuição por grosso de medicamentos de uso humano.\n\n2 - O requerimento é acompanhado pelos seguintes elementos:\n\na) Documento comprovativo das habilitações e do título profissional do director técnico;\n\nb) Termo de responsabilidade do director técnico;\n\nc) Planta e memória descritiva das instalações onde deverá ser exercida a actividade de distribuição por grosso de medicamentos de uso humano;\n\nd) Cópia do alvará de licença de utilização do estabelecimento emitida pelo órgão competente do município respectivo."
+  },
+  "870903247": {
+   "fragment_id": "870943376",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos\n\nO exercício da actividade de distribuição por grosso de medicamentos de uso humano apenas é autorizado no caso de o interessado dispor de:\n\na) Direcção técnica que assegure a qualidade das actividades desenvolvidas, nos termos estabelecidos por portaria do Ministro da Saúde;\n\nb) Instalações e equipamentos adequados e com capacidade para assegurar uma boa conservação e distribuição dos medicamentos."
+  },
+  "870903248": {
+   "fragment_id": "870943377",
+   "type": 11,
+   "heading": "Artigo 6.º — Instrução do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Instrução do processo\n\n1 - Incumbe ao INFARMED a instrução do processo de autorização do exercício da actividade de distribuição por grosso de medicamentos de uso humano.\n\n2 - Na instrução do processo o INFARMED deve verificar a regularidade da apresentação do requerimento, solicitando ao interessado, se for caso disso, que forneça os elementos e os esclarecimentos adicionais considerados necessários, sob pena de aquele ser rejeitado."
+  },
+  "870903249": {
+   "fragment_id": "870943378",
+   "type": 11,
+   "heading": "Artigo 7.º — Vistoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vistoria\n\n1 - Para os efeitos previstos na alínea b) do artigo 5.º, o conselho de administração do INFARMED, depois de verificar a regularidade da apresentação do requerimento, deve determinar a realização de vistoria das instalações onde o requerente pretende exercer a actividade.\n\n2 - A vistoria destina-se a verificar a conformidade das instalações com as condições de exercício exigidas no presente diploma e nas demais normas aplicáveis.\n\n3 - No caso de as instalações não se encontrarem nas condições exigidas de acordo com o disposto no número anterior, é concedido ao interessado um prazo não inferior a 30 dias para corrigir as deficiências verificadas."
+  },
+  "870903250": {
+   "fragment_id": "870943379",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazo para a deliberação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prazo para a deliberação\n\n1 - O prazo para o conselho de administração do INFARMED deliberar sobre o pedido de autorização é de 30 dias a contar da data de realização da vistoria.\n\n2 - O prazo suspende-se sempre que ao requerente sejam solicitados elementos ou esclarecimentos adicionais ou exigida a correcção de deficiências."
+  },
+  "870903251": {
+   "fragment_id": "870943380",
+   "type": 11,
+   "heading": "Artigo 9.º — Fundamentos do indeferimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fundamentos do indeferimento\n\nO pedido de autorização de exercício da actividade de distribuição por grosso de medicamentos deve ser indeferido quando se verifique que o requerente não satisfaz os requisitos exigidos no presente diploma e na demais legislação aplicável."
+  },
+  "870903252": {
+   "fragment_id": "870943381",
+   "type": 11,
+   "heading": "Artigo 10.º — Notificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Notificação\n\nO conselho de administração do INFARMED deve notificar o requerente da deliberação tomada sobre o pedido de autorização do exercício da actividade de distribuição por grosso de medicamentos de uso humano, indicando, no caso de indeferimento, os respectivos fundamentos."
+  },
+  "870903253": {
+   "fragment_id": "870943382",
+   "type": 11,
+   "heading": "Artigo 11.º — Início de actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Início de actividade\n\n1 - A autorização do exercício da actividade de distribuição por grosso de medicamentos de uso humano caduca no caso de o interessado:\n\na) Não iniciar a actividade no prazo de 12 meses a contar da data da autorização;\n\nb) Suspender a actividade por prazo superior a 12 meses.\n\n2 - O prazo previsto na alínea a) do número anterior pode ser prorrogado por igual período, quando devidamente justificado, por deliberação do conselho de administração do INFARMED."
+  },
+  "870903254": {
+   "fragment_id": "870943383",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações do titular da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Obrigações do titular da autorização\n\n1 - O titular de autorização de exercício da actividade de distribuição por grosso de medicamentos de uso humano fica obrigado a:\n\na) Cumprir os princípios e as normas das boas práticas de distribuição, nos termos aprovados por portaria do Ministro da Saúde;\n\nb) Dispor permanentemente de medicamentos em quantidade e variedade suficientes para satisfazer com prontidão as necessidades de um território geograficamente determinado;\n\nc) Possuir os registos de todas as transacções de medicamentos efectuadas ao abrigo do disposto no presente diploma durante um período mínimo de cinco anos;\n\nd) Distribuir exclusivamente os medicamentos para os quais tenha sido emitida uma autorização de introdução no mercado ou que dela estejam isentos nos termos da legislação em vigor;\n\ne) Distribuir os medicamentos exclusivamente a farmácias ou a outros estabelecimentos de distribuição por grosso de medicamentos de uso humano;\n\nf) Não distribuir os medicamentos cuja retirada do mercado tenha sido ordenada pelas autoridades competentes ou decidida pelos responsáveis legais pela sua introdução;\n\ng) Facultar o acesso dos agentes da fiscalização aos locais, instalações e equipamentos referidos na alínea b) do n.º 1 do artigo 5.º\n\n2 - Os registos a que se refere a alínea c) do número anterior devem conter, pelo menos, as seguintes indicações:\n\na) Data da transacção;\n\nb) Nome, forma farmacêutica e apresentação do medicamento;\n\nc) Quantidade recebida ou fornecida;\n\nd) Denominação social ou nome e identificação da sede social ou residência do fornecedor e do destinatário.\n\n3 - Exceptuam-se do disposto na alínea e) do número anterior a distribuição de medicamentos de uso humano a estabelecimentos e serviços de saúde públicos, bem como a entidades privadas de saúde e a instituições de solidariedade social sem fins lucrativos que disponham de serviços médicos e farmacêuticos devidamente acreditados e que os destinem ao seu próprio consumo.\n\n4 - Para os efeitos previstos na alínea f) do n.º 1, os estabelecimentos de distribuição por grosso de medicamentos de uso humano devem dispor de um plano de emergência que permita a imediata e efectiva retirada do mercado de um medicamento."
+  },
+  "870903255": {
+   "fragment_id": "870943384",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\n1 - Incumbe ao INFARMED a fiscalização do cumprimento do disposto no presente diploma.\n\n2 - Para os efeitos previstos no número anterior, o INFARMED pode, sempre que necessário, recorrer à colaboração de outras entidades responsáveis, designadamente as administrações regionais de saúde e a Inspecção-Geral das Actividades Económicas."
+  },
+  "870903256": {
+   "fragment_id": "870943385",
+   "type": 11,
+   "heading": "Artigo 14.º — Suspensão, revogação e interdição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Suspensão, revogação e interdição\n\n1 - O conselho de administração do INFARMED deve suspender o exercício da actividade de distribuição sempre que o mesmo seja desconforme com as normas legais e regulamentares aplicáveis ou com as condições da respectiva autorização.\n\n2 - Quando o exercício da actividade seja suspenso nos termos do número anterior, será concedido ao interessado um prazo não inferior a 30 dias para corrigir as deficiências que lhe deram origem.\n\n3 - O incumprimento do disposto no número anterior determina:\n\na) A revogação da autorização, no caso previsto no n.º 1 do artigo 3.º;\n\nb) A interdição do exercício da actividade de distribuição em território nacional, nos casos previstos nas alíneas a) e b) do n.º 2 do artigo 3.º\n\n4 - Sempre que seja determinada a suspensão ou revogação da autorização ou a interdição do exercício da actividade, o conselho de administração do INFARMED deve comunicar a sua decisão à Comissão Europeia e às autoridades administrativas competentes dos restantes Estados membros da União Europeia."
+  },
+  "870903257": {
+   "fragment_id": "870943386",
+   "type": 11,
+   "heading": "Artigo 15.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Contra-ordenações\n\n1 - Constituem contra-ordenações puníveis com coima graduada de 50000$00 até ao máximo de 500000$00, no caso de pessoa singular, ou até 6000000$00, no caso de pessoa colectiva:\n\na) O exercício da actividade de distribuição por grosso de medicamentos de uso humano sem autorização concedida de acordo com o disposto no presente diploma;\n\nb) A violação do dever de serviço público a que se refere a alínea b) do n.º 1 do artigo 12.º;\n\nc) A distribuição por grosso de medicamentos de uso humano para os quais não tenha sido emitida uma autorização de introdução no mercado ou de medicamentos cuja retirada do mercado tenha sido ordenada pelas autoridades competentes.\n\n2 - Constituem contra-ordenações puníveis com coima graduada de 25000$00 até ao máximo de 250000$00, no caso de pessoa singular, ou até 3000000$00, no caso de pessoa colectiva:\n\na) A violação do dever de assegurar, de forma efectiva, a direcção técnica do estabelecimento de distribuição por grosso de medicamentos de uso humano;\n\nb) A violação dos princípios e normas relativos às boas práticas de distribuição;\n\nc) A violação das normas relativas ao registo das transacções de medicamentos realizadas ao abrigo do disposto no presente diploma;\n\nd) A distribuição por grosso de medicamentos de uso humano a entidades que não estejam legalmente habilitadas a adquiri-los;\n\ne) A venda directa ao público de medicamentos de uso humano por estabelecimentos de distribuição por grosso.\n\n3 - É punido como co-autor da contra-ordenação prevista na alínea b) do n.º 1 o director técnico do estabelecimento.\n\n4 - A negligência e a tentativa são puníveis.\n\n5 - A aplicação das coimas compete ao conselho de administração do INFARMED.\n\n6 - O produto das coimas reverte em 60% para o Estado e em 40% para o INFARMED."
+  },
+  "870903258": {
+   "fragment_id": "870943387",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime transitório\n\n1 - Os responsáveis pela actividade de distribuição por grosso de medicamentos de uso humano em estabelecimentos que se encontrem em funcionamento à data da entrada em vigor do presente diploma devem, no prazo de 180 dias, iniciar o processo conducente à obtenção da autorização prevista no n.º 1 do artigo 3.º\n\n2 - A inobservância do disposto no número anterior determina o encerramento do estabelecimento pelo INFARMED."
+  },
+  "870903259": {
+   "fragment_id": "870943388",
+   "type": 11,
+   "heading": "Artigo 17.º — Legislação especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Legislação especial\n\nO disposto no presente diploma não prejudica a aplicação de outras disposições legais e regulamentares de carácter especial relativas à distribuição por grosso de determinados medicamentos, designadamente de estupefacientes e psicotrópicos, de medicamentos derivados do sangue e do plasma humano, de medicamentos imunológicos e de medicamentos radiofarmacêuticos."
+  },
+  "870903260": {
+   "fragment_id": "870943389",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão revogados os artigos 99.º e 101.º do Decreto-Lei n.º 48547, de 27 de Agosto de 1968, relativamente aos estabelecimentos destinados ao comércio por grosso de medicamentos de uso humano."
+  },
+  "870903242": {
+   "fragment_id": "870891871",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 135/95\n\nde 9 de Junho\n\nA distribuição por grosso de medicamentos de uso humano no mercado interno português constitui uma actividade comercial cujo regime jurídico se encontra disperso em vários diplomas legais, de entre os quais o Decreto-Lei n.º 48547, de 27 de Agosto de 1968.\n\nA Directiva n.º 92/25/CEE, do Conselho, de 31 de Março de 1992, determina, no entanto, a uniformização das legislações nacionais dos Estados membros nesta matéria.\n\nImporta, pois, harmonizar e definir, de forma clara e objectiva, o regime jurídico do exercício da actividade de distribuição por grosso de tais medicamentos, pelo que o presente diploma transpõe para a ordem jurídica interna a referida Directiva n.º 92/25/CEE, do Conselho, de 31 de Março de 1992, e estabelece o regime jurídico do exercício da actividade de distribuição por grosso de medicamentos de uso humano.\n\nForam ouvidas as Ordens dos Médicos e dos Farmacêuticos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "870903262": {
+   "fragment_id": "870943383",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações do titular da autorização",
+   "in_force_from": "2005-09-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 134/2005 - Diário da República n.º 156/2005, Série I-A de 2005-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2005-243692), em vigor a partir de 2005-09-15"
+   ],
+   "markdown": "###### Artigo 12.º — Obrigações do titular da autorização\n\n1 - O titular de autorização de exercício da actividade de distribuição por grosso de medicamentos de uso humano fica obrigado a:\n\na) Cumprir os princípios e as normas das boas práticas de distribuição, nos termos aprovados por portaria do Ministro da Saúde;\n\nb) Dispor permanentemente de medicamentos em quantidade e variedade suficientes para satisfazer com prontidão as necessidades de um território geograficamente determinado;\n\nc) Possuir os registos de todas as transacções de medicamentos efectuadas ao abrigo do disposto no presente diploma durante um período mínimo de cinco anos;\n\nd) Distribuir exclusivamente os medicamentos para os quais tenha sido emitida uma autorização de introdução no mercado ou que dela estejam isentos nos termos da legislação em vigor;\n\ne) Distribuir os medicamentos exclusivamente a farmácias ou a outros estabelecimentos de distribuição por grosso de medicamentos de uso humano;\n\ne) Distribuir os medicamentos exclusivamente a farmácias, a locais de venda devidamente registados no Instituto Nacional da Farmácia e do Medicamento ou a outros estabelecimentos de distribuição por grosso de medicamentos de uso humano;\n\ng) Facultar o acesso dos agentes da fiscalização aos locais, instalações e equipamentos referidos na alínea b) do n.º 1 do artigo 5.º\n\n2 - Os registos a que se refere a alínea c) do número anterior devem conter, pelo menos, as seguintes indicações:\n\na) Data da transacção;\n\nb) Nome, forma farmacêutica e apresentação do medicamento;\n\nc) Quantidade recebida ou fornecida;\n\nd) Denominação social ou nome e identificação da sede social ou residência do fornecedor e do destinatário.\n\n3 - Exceptuam-se do disposto na alínea e) do número anterior a distribuição de medicamentos de uso humano a estabelecimentos e serviços de saúde públicos, bem como a entidades privadas de saúde e a instituições de solidariedade social sem fins lucrativos que disponham de serviços médicos e farmacêuticos devidamente acreditados e que os destinem ao seu próprio consumo.\n\n4 - Para os efeitos previstos na alínea f) do n.º 1, os estabelecimentos de distribuição por grosso de medicamentos de uso humano devem dispor de um plano de emergência que permita a imediata e efectiva retirada do mercado de um medicamento.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 134/2005 - Diário da República n.º 156/2005, Série I-A de 2005-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2005-243692), em vigor a partir de 2005-09-15"
+  },
+  "870903261": {
+   "fragment_id": "870943390",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Abril de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira.\n\nPromulgado em 15 de Maio de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Maio de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "870903264": {
+   "fragment_id": "870891872",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para o direito interno a Directiva n.º 92/25/CEE, do Conselho, de 31 de Março de 1992, e estabelece o regime jurídico do exercício da actividade de distribuição por grosso de medicamentos de uso humano.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870903265": {
+   "fragment_id": "870891873",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma, entende-se por:\n\na) «Distribuição por grosso de medicamentos de uso humano» a actividade comercial que consiste no abastecimento, posse ou fornecimento de medicamentos de uso humano destinados à transformação, revenda ou utilização em serviços médicos, unidades de saúde e farmácias, excluindo o fornecimento ao público;\n\nb) «Estabelecimento de distribuição por grosso de medicamentos de uso humano» o estabelecimento comercial onde, a título principal ou acessório, é exercida a actividade de distribuição por grosso de medicamentos de uso humano.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870903266": {
+   "fragment_id": "870891874",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorização",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 3.º — Autorização\n\n1 - O exercício da actividade de distribuição por grosso de medicamentos de uso humano está sujeito a autorização do conselho de administração do Instituto Nacional da Farmácia e do Medicamento, adiante designado por INFARMED.\n\n2 - Não estão sujeitas à autorização prevista no número anterior:\n\na) A actividade de distribuição de medicamentos pelos titulares de uma autorização de fabrico de medicamentos de uso humano concedida nos termos da legislação em vigor, desde que se limitem a distribuir os medicamentos por si fabricados e não disponham de instalações especialmente destinadas à distribuição por grosso de medicamentos de uso humano;\n\nb) A actividade de distribuição de medicamentos pelos titulares de uma licença para o exercício da actividade de distribuição por grosso de medicamentos de uso humano concedida por uma autoridade administrativa competente de outro Estado membro da União Europeia e que não disponham em Portugal de instalações especialmente destinadas a esse fim.\n\n3 - O disposto no número anterior não exime os respectivos titulares do cumprimento das restantes disposições do presente diploma relativas ao exercício da actividade de distribuição por grosso de medicamentos de uso humano.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870903267": {
+   "fragment_id": "870943375",
+   "type": 11,
+   "heading": "Artigo 4.º — Requerimento",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 4.º — Requerimento\n\n1 - A autorização prevista no n.º 1 do artigo anterior é concedida mediante requerimento do interessado, dirigido ao presidente do conselho de administração do INFARMED, no qual devem constar:\n\na) A denominação social ou nome e demais elementos identificativos;\n\nb) A indicação da sede ou residência;\n\nc) O número fiscal de contribuinte;\n\nd) A identificação do director técnico responsável pela actividade de distribuição por grosso de medicamentos de uso humano;\n\ne) A localização do estabelecimento onde será exercida a actividade de distribuição por grosso de medicamentos de uso humano.\n\n2 - O requerimento é acompanhado pelos seguintes elementos:\n\na) Documento comprovativo das habilitações e do título profissional do director técnico;\n\nb) Termo de responsabilidade do director técnico;\n\nc) Planta e memória descritiva das instalações onde deverá ser exercida a actividade de distribuição por grosso de medicamentos de uso humano;\n\nd) Cópia do alvará de licença de utilização do estabelecimento emitida pelo órgão competente do município respectivo.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870903268": {
+   "fragment_id": "870943376",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos\n\nO exercício da actividade de distribuição por grosso de medicamentos de uso humano apenas é autorizado no caso de o interessado dispor de:\n\na) Direcção técnica que assegure a qualidade das actividades desenvolvidas, nos termos estabelecidos por portaria do Ministro da Saúde;\n\nb) Instalações e equipamentos adequados e com capacidade para assegurar uma boa conservação e distribuição dos medicamentos.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870903269": {
+   "fragment_id": "870943377",
+   "type": 11,
+   "heading": "Artigo 6.º — Instrução do processo",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 6.º — Instrução do processo\n\n1 - Incumbe ao INFARMED a instrução do processo de autorização do exercício da actividade de distribuição por grosso de medicamentos de uso humano.\n\n2 - Na instrução do processo o INFARMED deve verificar a regularidade da apresentação do requerimento, solicitando ao interessado, se for caso disso, que forneça os elementos e os esclarecimentos adicionais considerados necessários, sob pena de aquele ser rejeitado.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870903270": {
+   "fragment_id": "870943378",
+   "type": 11,
+   "heading": "Artigo 7.º — Vistoria",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 7.º — Vistoria\n\n1 - Para os efeitos previstos na alínea b) do artigo 5.º, o conselho de administração do INFARMED, depois de verificar a regularidade da apresentação do requerimento, deve determinar a realização de vistoria das instalações onde o requerente pretende exercer a actividade.\n\n2 - A vistoria destina-se a verificar a conformidade das instalações com as condições de exercício exigidas no presente diploma e nas demais normas aplicáveis.\n\n3 - No caso de as instalações não se encontrarem nas condições exigidas de acordo com o disposto no número anterior, é concedido ao interessado um prazo não inferior a 30 dias para corrigir as deficiências verificadas.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870903271": {
+   "fragment_id": "870943379",
+   "type": 11,
+   "heading": "Artigo 8.º — Prazo para a deliberação",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 8.º — Prazo para a deliberação\n\n1 - O prazo para o conselho de administração do INFARMED deliberar sobre o pedido de autorização é de 30 dias a contar da data de realização da vistoria.\n\n2 - O prazo suspende-se sempre que ao requerente sejam solicitados elementos ou esclarecimentos adicionais ou exigida a correcção de deficiências.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870903272": {
+   "fragment_id": "870943380",
+   "type": 11,
+   "heading": "Artigo 9.º — Fundamentos do indeferimento",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 9.º — Fundamentos do indeferimento\n\nO pedido de autorização de exercício da actividade de distribuição por grosso de medicamentos deve ser indeferido quando se verifique que o requerente não satisfaz os requisitos exigidos no presente diploma e na demais legislação aplicável.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870903273": {
+   "fragment_id": "870943381",
+   "type": 11,
+   "heading": "Artigo 10.º — Notificação",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 10.º — Notificação\n\nO conselho de administração do INFARMED deve notificar o requerente da deliberação tomada sobre o pedido de autorização do exercício da actividade de distribuição por grosso de medicamentos de uso humano, indicando, no caso de indeferimento, os respectivos fundamentos.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870903274": {
+   "fragment_id": "870943382",
+   "type": 11,
+   "heading": "Artigo 11.º — Início de actividade",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 11.º — Início de actividade\n\n1 - A autorização do exercício da actividade de distribuição por grosso de medicamentos de uso humano caduca no caso de o interessado:\n\na) Não iniciar a actividade no prazo de 12 meses a contar da data da autorização;\n\nb) Suspender a actividade por prazo superior a 12 meses.\n\n2 - O prazo previsto na alínea a) do número anterior pode ser prorrogado por igual período, quando devidamente justificado, por deliberação do conselho de administração do INFARMED.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870884475": {
+   "fragment_id": "870943383",
+   "type": 11,
+   "heading": "Artigo 12.º — Obrigações do titular da autorização",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 134/2005 - Diário da República n.º 156/2005, Série I-A de 2005-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2005-243692), em vigor a partir de 2005-09-15"
+   ],
+   "markdown": "###### Artigo 12.º — Obrigações do titular da autorização\n\n1 - O titular de autorização de exercício da actividade de distribuição por grosso de medicamentos de uso humano fica obrigado a:\n\na) Cumprir os princípios e as normas das boas práticas de distribuição, nos termos aprovados por portaria do Ministro da Saúde;\n\nb) Dispor permanentemente de medicamentos em quantidade e variedade suficientes para satisfazer com prontidão as necessidades de um território geograficamente determinado;\n\nc) Possuir os registos de todas as transacções de medicamentos efectuadas ao abrigo do disposto no presente diploma durante um período mínimo de cinco anos;\n\nd) Distribuir exclusivamente os medicamentos para os quais tenha sido emitida uma autorização de introdução no mercado ou que dela estejam isentos nos termos da legislação em vigor;\n\ne) Distribuir os medicamentos exclusivamente a farmácias ou a outros estabelecimentos de distribuição por grosso de medicamentos de uso humano;\n\ne) Distribuir os medicamentos exclusivamente a farmácias, a locais de venda devidamente registados no Instituto Nacional da Farmácia e do Medicamento ou a outros estabelecimentos de distribuição por grosso de medicamentos de uso humano;\n\ng) Facultar o acesso dos agentes da fiscalização aos locais, instalações e equipamentos referidos na alínea b) do n.º 1 do artigo 5.º\n\n2 - Os registos a que se refere a alínea c) do número anterior devem conter, pelo menos, as seguintes indicações:\n\na) Data da transacção;\n\nb) Nome, forma farmacêutica e apresentação do medicamento;\n\nc) Quantidade recebida ou fornecida;\n\nd) Denominação social ou nome e identificação da sede social ou residência do fornecedor e do destinatário.\n\n3 - Exceptuam-se do disposto na alínea e) do número anterior a distribuição de medicamentos de uso humano a estabelecimentos e serviços de saúde públicos, bem como a entidades privadas de saúde e a instituições de solidariedade social sem fins lucrativos que disponham de serviços médicos e farmacêuticos devidamente acreditados e que os destinem ao seu próprio consumo.\n\n4 - Para os efeitos previstos na alínea f) do n.º 1, os estabelecimentos de distribuição por grosso de medicamentos de uso humano devem dispor de um plano de emergência que permita a imediata e efectiva retirada do mercado de um medicamento.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 134/2005 - Diário da República n.º 156/2005, Série I-A de 2005-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2005-243692), em vigor a partir de 2005-09-15"
+  },
+  "870884476": {
+   "fragment_id": "870943384",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\n1 - Incumbe ao INFARMED a fiscalização do cumprimento do disposto no presente diploma.\n\n2 - Para os efeitos previstos no número anterior, o INFARMED pode, sempre que necessário, recorrer à colaboração de outras entidades responsáveis, designadamente as administrações regionais de saúde e a Inspecção-Geral das Actividades Económicas.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870884477": {
+   "fragment_id": "870943385",
+   "type": 11,
+   "heading": "Artigo 14.º — Suspensão, revogação e interdição",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 14.º — Suspensão, revogação e interdição\n\n1 - O conselho de administração do INFARMED deve suspender o exercício da actividade de distribuição sempre que o mesmo seja desconforme com as normas legais e regulamentares aplicáveis ou com as condições da respectiva autorização.\n\n2 - Quando o exercício da actividade seja suspenso nos termos do número anterior, será concedido ao interessado um prazo não inferior a 30 dias para corrigir as deficiências que lhe deram origem.\n\n3 - O incumprimento do disposto no número anterior determina:\n\na) A revogação da autorização, no caso previsto no n.º 1 do artigo 3.º;\n\nb) A interdição do exercício da actividade de distribuição em território nacional, nos casos previstos nas alíneas a) e b) do n.º 2 do artigo 3.º\n\n4 - Sempre que seja determinada a suspensão ou revogação da autorização ou a interdição do exercício da actividade, o conselho de administração do INFARMED deve comunicar a sua decisão à Comissão Europeia e às autoridades administrativas competentes dos restantes Estados membros da União Europeia.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870884478": {
+   "fragment_id": "870943386",
+   "type": 11,
+   "heading": "Artigo 15.º — Contra-ordenações",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 15.º — Contra-ordenações\n\n1 - Constituem contra-ordenações puníveis com coima graduada de 50000$00 até ao máximo de 500000$00, no caso de pessoa singular, ou até 6000000$00, no caso de pessoa colectiva:\n\na) O exercício da actividade de distribuição por grosso de medicamentos de uso humano sem autorização concedida de acordo com o disposto no presente diploma;\n\nb) A violação do dever de serviço público a que se refere a alínea b) do n.º 1 do artigo 12.º;\n\nc) A distribuição por grosso de medicamentos de uso humano para os quais não tenha sido emitida uma autorização de introdução no mercado ou de medicamentos cuja retirada do mercado tenha sido ordenada pelas autoridades competentes.\n\n2 - Constituem contra-ordenações puníveis com coima graduada de 25000$00 até ao máximo de 250000$00, no caso de pessoa singular, ou até 3000000$00, no caso de pessoa colectiva:\n\na) A violação do dever de assegurar, de forma efectiva, a direcção técnica do estabelecimento de distribuição por grosso de medicamentos de uso humano;\n\nb) A violação dos princípios e normas relativos às boas práticas de distribuição;\n\nc) A violação das normas relativas ao registo das transacções de medicamentos realizadas ao abrigo do disposto no presente diploma;\n\nd) A distribuição por grosso de medicamentos de uso humano a entidades que não estejam legalmente habilitadas a adquiri-los;\n\ne) A venda directa ao público de medicamentos de uso humano por estabelecimentos de distribuição por grosso.\n\n3 - É punido como co-autor da contra-ordenação prevista na alínea b) do n.º 1 o director técnico do estabelecimento.\n\n4 - A negligência e a tentativa são puníveis.\n\n5 - A aplicação das coimas compete ao conselho de administração do INFARMED.\n\n6 - O produto das coimas reverte em 60% para o Estado e em 40% para o INFARMED.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870884479": {
+   "fragment_id": "870943387",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime transitório",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 16.º — Regime transitório\n\n1 - Os responsáveis pela actividade de distribuição por grosso de medicamentos de uso humano em estabelecimentos que se encontrem em funcionamento à data da entrada em vigor do presente diploma devem, no prazo de 180 dias, iniciar o processo conducente à obtenção da autorização prevista no n.º 1 do artigo 3.º\n\n2 - A inobservância do disposto no número anterior determina o encerramento do estabelecimento pelo INFARMED.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870884480": {
+   "fragment_id": "870943388",
+   "type": 11,
+   "heading": "Artigo 17.º — Legislação especial",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 17.º — Legislação especial\n\nO disposto no presente diploma não prejudica a aplicação de outras disposições legais e regulamentares de carácter especial relativas à distribuição por grosso de determinados medicamentos, designadamente de estupefacientes e psicotrópicos, de medicamentos derivados do sangue e do plasma humano, de medicamentos imunológicos e de medicamentos radiofarmacêuticos.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870884481": {
+   "fragment_id": "870943389",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão revogados os artigos 99.º e 101.º do Decreto-Lei n.º 48547, de 27 de Agosto de 1968, relativamente aos estabelecimentos destinados ao comércio por grosso de medicamentos de uso humano.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  },
+  "870884482": {
+   "fragment_id": "870943390",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2006-08-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 6 de Abril de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Adalberto Paulo da Fonseca Mendo - Fernando Manuel Barbosa Faria de Oliveira.\n\nPromulgado em 15 de Maio de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Maio de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 204.º do/a [Decreto-Lei n.º 176/2006 - Diário da República n.º 167/2006, Série I de 2006-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2006-540387), em vigor a partir de 2006-08-31"
+  }
+ }
+}

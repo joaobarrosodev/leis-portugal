@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:869917624:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2024-1173535575",
+ "dre_path": "/dr/detalhe/despacho-extrato/7037-2024-869917624",
+ "source_lastmod": "2026-09-25",
+ "versions": [
+  {
+   "date": "2024-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1173538775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1173538775": {
+   "fragment_id": "1173535675",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do n.º 6 do artigo 46.º da Lei de Organização e Funcionamento dos Serviços da Assembleia da República, republicada pela Lei n.º 28/2003, de 30 de julho, na sua atual redação, por despacho, datado de 31 de maio de 2024, da presidente do Grupo Parlamentar do Partido Socialista, deputada Alexandra Leitão, são nomeados:\n\na) Com efeitos a partir de 1 de junho de 2024:\n\nAna Patrícia Soares Resende, para o cargo de chefe de gabinete;\n\nHugo Carvalho Gonçalves, para o cargo de assessor nível 1;\n\nb) Com efeitos a partir de 1 de maio de 2024:\n\nJosé Manuel Torrejais Miranda, para o cargo de assessor nível 1.\n\nAo abrigo do mesmo normativo e igualmente por despacho da presidente do Grupo Parlamentar do Partido Socialista, cessam funções:\n\nMarta Valentim da Costa, em 1 de junho de 2024;\n\nMiguel Mozos Francisco, em 30 de junho de 2024,\n\nMaria Rui Ferreira da Fonseca, em 30 de junho de 2024."
+  }
+ }
+}

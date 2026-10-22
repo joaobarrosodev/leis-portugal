@@ -1,0 +1,141 @@
+---
+schema_version: '1.0'
+id: pt:dre:241274:por
+title: Decreto-Lei n.º 151/96
+short_title: null
+summary: Altera o Decreto-Lei n.º 270/90, de 3 de Setembro (sistema retributivo das carreiras de oficiais de justiça)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 151/96
+official_date: null
+publication_date: '1996-08-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 201/1996, Série I-A de 1996-08-30
+  number: '201'
+  series: I
+  supplement: null
+  pages: 2832 - 2833
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/08/201a00/28322833.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/151/1996/08/30/p/dre/pt/html
+  oj: null
+  dre: '241274'
+  dre_path: /dr/detalhe/decreto-lei/151-1996-241274
+  internal: pt:dre:241274:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1996-241274
+  metadata_url: https://data.dre.pt/eli/dec-lei/151/1996/08/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/151-1996-241274
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-08-26T00:00:00Z'
+integrity:
+  source_sha256: a8eeb11b277476e4f7f7d476c344e6c5cd36693c0f7f9a1a75645ac25959afbe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-151-241274.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Sistema Retributivo
+- Carreira Profissional
+- Pessoal de Justiça
+- Oficial de Justiça
+- Promoção Profissional
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:428653:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 151/96
+
+de 30 de Agosto
+
+O [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), de 16 de Outubro, que veio desenvolver e regulamentar os princípios gerais em matéria de remunerações do pessoal da função pública definidos pelo [Decreto-Lei n.º 184/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1989-609807), de 2 de Junho, prevê expressamente, no artigo 2.º, n.º 2, a sua aplicação aos serviços de apoio das instituições judiciárias, deixando, no entanto, para diploma autónomo a fixação das estruturas remuneratórias próprias das carreiras de regime especial.
+
+A regulamentação desta matéria, no que respeita aos oficiais de justiça, foi objecto do [Decreto-Lei n.º 270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), de 3 de Setembro.
+
+Prevê este diploma que a integração em escalão de promoção seja feita em termos idênticos aos do regime geral, consagrado no [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808), sendo, contudo, omisso quanto à garantia de impulso salarial mínimo de 10 pontos.
+
+Não existe, porém, qualquer justificação para o afastamento desta garantia do regime geral no que respeita ao pessoal oficial de justiça, tanto mais que a estrutura remuneratória das suas carreiras já a encerra em si mesma, só havendo necessidade de a ela recorrer nas situações de promoção dos escriturários judiciais ou técnicos de justiça auxiliares posicionados nos 4.º e 5.º escalões.
+
+Corrige-se agora a referida omissão, com produção de efeitos desde 1 de Setembro de 1994, data a partir da qual deixou de ser aplicada a regra geral que consta do n.º 2 do artigo 17.º do citado [Decreto-Lei n.º 353-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/353-a-1989-291808).
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+O artigo 3.º do [Decreto-Lei n.º 270/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1990-556837), de 3 de Setembro, passa a ter a seguinte redacção:
+
+«Artigo 3.º
+
+[...]
+
+1 - A promoção do pessoal oficial de justiça à categoria imediata faz-se de acordo com as disposições legais em vigor e processa-se na escala remuneratória da seguinte forma:
+
+a) Para o escalão 1 da categoria para a qual se faz a promoção;
+
+b) Para o escalão a que, na estrutura remuneratória da categoria para a qual se faz a promoção, corresponda o índice superior mais aproximado, se o funcionário auferir já remuneração igual ou superior à do escalão 1.
+
+2 - Sempre que do disposto no número anterior resultar um impulso salarial inferior a 10 pontos, a integração na nova categoria faz-se no escalão seguinte da estrutura da categoria.»
+
+###### Artigo 2.º
+
+O presente diploma produz efeitos a partir de 1 de Setembro de 1994.
+
+Visto e aprovado em Conselho de Ministros de 25 de Julho de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Fausto de Sousa Correia.
+
+**Promulgado em 10 de Agosto de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 13 de Agosto de 1996.**
+
+**O Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino.**

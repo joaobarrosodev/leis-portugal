@@ -1,0 +1,172 @@
+---
+schema_version: '1.0'
+id: pt:dre:1039107600:por
+title: Portaria n.º 63/2026/1
+short_title: null
+summary: Primeira alteração à Portaria n.º 141/2020, de 16 de junho, alargando o regime de isenção de taxas às associações
+  representativas da classe dos treinadores e às associações territoriais de modalidade.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Cultura, Juventude e Desporto
+proposing_entity: null
+official_number: 63/2026/1
+official_date: null
+publication_date: '2026-02-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 26/2026, Série I de 2026-02-06
+  number: '26'
+  series: I
+  supplement: null
+  pages: 34 - 35
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/02/02600/0003400035.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/63/2026/02/06/p/dre/pt/html
+  oj: null
+  dre: '1039107600'
+  dre_path: /dr/detalhe/portaria/63-2026-1039107600
+  internal: pt:dre:1039107600:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/63-2026-1039107600
+  metadata_url: https://data.dre.pt/eli/port/63/2026/02/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/63-2026-1039107600
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-02-06T00:00:00Z'
+integrity:
+  source_sha256: a86840acf3381186f04723d5512446d7d9efccde522f105c966d201261749121
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2026/DRE-2026-63-1039107600.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acção de Formação
+- Sanção Disciplinar
+- Regulamentação de Atos Legislativos
+- Federação Desportiva
+- Fiscalização
+- Sistema Nacional de Qualificações
+- Instituto Português do Desporto e Juventude
+- Qualificação Profissional
+- Taxa
+- Treinador Desportivo
+- Desporto
+- Contraordenação
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/9/2021/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/40/2012/08/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/40/2012/08/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/141/2020/06/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/141/2020/06/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/208/2013/06/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/208/2013/06/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/851/2010/09/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/851/2010/09/06/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 63/2026/1
+
+de 6 de fevereiro
+
+Primeira alteração à [Portaria n.º 141/2020](https://diariodarepublica.pt/dr/detalhe/portaria/141-2020-135844797), de 16 de junho, alargando o regime de isenção de taxas às associações representativas da classe dos treinadores e às associações territoriais de modalidade
+
+A [Portaria n.º 141/2020](https://diariodarepublica.pt/dr/detalhe/portaria/141-2020-135844797), de 16 de junho, definiu o regime aplicável às ações de formação contínua obrigatória para a revalidação do título profissional de treinador de desporto (TPTD), reconhecendo como entidades formadoras, entre outras, as federações desportivas titulares do estatuto de utilidade pública desportiva, as associações representativas da classe dos treinadores e as associações territoriais, de cada modalidade.
+
+Considerando que estas entidades desempenham funções equiparáveis no âmbito da formação contínua de treinadores e que todas integram o sistema associativo desportivo sem fins lucrativos, importa assegurar igualdade de tratamento no que respeita ao regime de isenção de taxas aplicável à creditação das ações de formação contínua, previsto na alínea f) do n.º 1 do [Despacho n.º 2724/2013](https://diariodarepublica.pt/dr/detalhe/despacho/2724-2013-1675497), de 20 de fevereiro.
+
+Mostra-se, assim, necessário proceder à alteração da [Portaria n.º 141/2020](https://diariodarepublica.pt/dr/detalhe/portaria/141-2020-135844797), de 16 de junho, de modo a refletir este alargamento do regime de isenção.
+
+Assim:
+
+Ao abrigo do disposto no artigo 8.º da [Lei n.º 40/2012](https://diariodarepublica.pt/dr/detalhe/lei/40-2012-174781), de 28 de agosto, na redação dada pelo [Decreto-Lei n.º 9/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), de 29 de janeiro, manda o Governo, pelo Secretário de Estado do Desporto, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria procede à primeira alteração à [Portaria n.º 141/2020](https://diariodarepublica.pt/dr/detalhe/portaria/141-2020-135844797), de 16 de junho, estendendo o regime de isenção de taxas às associações representativas da classe dos treinadores e às associações territoriais de modalidade.
+
+###### Artigo 2.º — Alteração ao artigo 7.º da [Portaria n.º 141/2020](https://diariodarepublica.pt/dr/detalhe/portaria/141-2020-135844797)
+
+O artigo 7.º da [Portaria n.º 141/2020](https://diariodarepublica.pt/dr/detalhe/portaria/141-2020-135844797) passa a ter a seguinte redação:
+
+«Artigo 7.º
+
+Entidades formadoras
+
+1 - Para efeitos da presente portaria, podem constituir-se como entidades formadoras:
+
+a) As federações desportivas titulares do estatuto de utilidade pública desportiva;
+
+b) As instituições de ensino superior, universitário e politécnico, na área do desporto e da educação física;
+
+c) A rede de entidades formadoras do Sistema Nacional de Qualificações;
+
+d) As entidades com estruturas formativas certificadas na área do desporto, nos termos da [Portaria n.º 851/2010](https://diariodarepublica.pt/dr/detalhe/portaria/851-2010-344228), de 6 de setembro, alterada pela [Portaria n.º 208/2013](https://diariodarepublica.pt/dr/detalhe/portaria/208-2013-497404), de 26 de junho;
+
+e) As associações representativas da classe dos treinadores;
+
+f) As associações territoriais representativas da modalidade desportiva, desde que autorizadas pelas respetivas federações desportivas.
+
+2 - As entidades referidas nas alíneas a), e) e f) do número anterior beneficiam de isenção do pagamento das taxas previstas na alínea f) do n.º 1 do [Despacho n.º 2724/2013](https://diariodarepublica.pt/dr/detalhe/despacho/2724-2013-1675497), de 20 de fevereiro, relativas à creditação das ações de formação contínua para efeitos de revalidação do TPTD.
+
+3 - A isenção prevista no número anterior aplica-se exclusivamente às ações de formação contínua organizadas diretamente pelas entidades aí referidas, não sendo transmissível nem aplicável a entidades terceiras.»
+
+###### Artigo 3.º — Norma transitória
+
+1 - Consideram-se dispensadas, para todos os efeitos legais, as taxas pagas pelas entidades referidas no n.º 2 do artigo 7.º da [Portaria n.º 141/2020](https://diariodarepublica.pt/dr/detalhe/portaria/141-2020-135844797), desde 1 de janeiro de 2026 até à entrada em vigor da presente portaria.
+
+2 - As entidades que tenham procedido ao pagamento das taxas no período referido no número anterior podem solicitar ao IPDJ, I. P., o respetivo reembolso ou compensação em futura ação de formação, no prazo de 180 dias após a entrada em vigor da presente portaria.
+
+###### Artigo 4.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Secretário de Estado do Desporto, Pedro Miguel Pereira Dias, em 15 de janeiro de 2026.**

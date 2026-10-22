@@ -1,0 +1,503 @@
+---
+schema_version: '1.0'
+id: pt:dre:177160277:por
+title: Portaria n.º 16/2022
+short_title: null
+summary: Aprova a delimitação dos perímetros de proteção das captações de água subterrânea designadas por JK1, JK2, JK3, JK4,
+  JK5, JK6 e JK7, do polo de captação do Carregal, localizadas no concelho de Ovar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente e Ação Climática
+proposing_entity: null
+official_number: 16/2022
+official_date: null
+publication_date: '2022-01-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 3/2022, Série I de 2022-01-05
+  number: '3'
+  series: I
+  supplement: null
+  pages: 48 - 56
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/01/00300/0004800056.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-09-09'
+version_history:
+  file: portaria-16-2022.versoes.json
+  count: 2
+  source_lastmod: '2025-09-09'
+  versions:
+  - date: '2022-01-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-09-09'
+    amending: pt:dre:934454757:por
+    amending_title: Portaria n.º 299/2025/1
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+    - Altera Anexo III
+    - Altera Anexo IV
+    - Altera Anexo V
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/16/2022/p/cons/20250908/pt/html
+  oj: null
+  dre: '177160277'
+  dre_path: /dr/detalhe/portaria/16-2022-177160277
+  internal: pt:dre:177160277:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/16-2022-177160277
+  metadata_url: https://data.dre.pt/eli/port/16/2022/p/cons/20250908/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-934587747
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-934587747
+  retrieved_at: '2026-10-22T13:33:18Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-09-09T00:00:00Z'
+integrity:
+  source_sha256: d19c54dba17f0ace8b3607c4664f0abcaf53acc8f8c7834b29dba219e90b6c72
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:33:18Z'
+  notes: 2 versão(ões); histórico completo em portaria-16-2022.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Água
+- Recursos Hídricos
+- Ovar
+- Zona de Proteção
+- Águas Subterrâneas
+- Abastecimento de Água
+relationships:
+- type: amended_by
+  target: pt:dre:934454757:por
+  label: Altera Anexo I; Altera Anexo II; Altera Anexo III; Altera Anexo IV; Altera Anexo V
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/299-2025-934454757
+  date: '2025-09-08'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/702/2009/07/06/p/dre
+article_structure:
+  article_count: 6
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:33:18Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 16/2022
+
+Portaria n.º 16/2022
+
+de 5 de janeiro
+
+Sumário: Aprova a delimitação dos perímetros de proteção das captações de água subterrânea designadas por JK1, JK2, JK3, JK4, JK5, JK6 e JK7, do polo de captação do Carregal, localizadas no concelho de Ovar.
+
+O Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.
+
+Os perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, bem como potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.
+
+Todas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, obedecem ao disposto no referido Decreto-Lei n.º 382/99, de 22 de setembro, bem como no artigo 37.º da Lei n.º 58/2005, de 29 de dezembro, na sua redação atual, e na Portaria n.º 702/2009, de 6 de julho, que estabelece os termos da delimitação dos perímetros de proteção das captações destinadas ao abastecimento público de água para consumo humano, bem como os respetivos condicionamentos.
+
+A Agência Portuguesa do Ambiente, I. P., apresentou, ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, uma proposta de delimitação e respetivos condicionamentos dos perímetros de proteção de sete captações de água subterrânea localizadas no concelho de Ovar, tendo por base a proposta e o estudo próprio que lhe foram apresentados pela Águas do Douro e Paiva, S. A.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual, manda o Governo, pela Secretária de Estado do Ambiente, no uso das competências delegadas pelo Ministro do Ambiente e da Ação Climática, através da subalínea ii) da alínea d) do n.º 2 do Despacho n.º 12149-A/2019, publicado no Diário da República, 2.ª série, n.º 243, de 18 de dezembro de 2019, alterado e republicado pelo Despacho n.º 11561/2020, publicado no Diário da República, 2.ª série, n.º 228, de 23 de novembro de 2020, o seguinte:
+
+###### Artigo 1.º — Delimitação dos perímetros de proteção
+
+1 - É aprovada a delimitação dos perímetros de proteção das captações de água subterrânea designadas por JK1, JK2, JK3, JK4, JK5, JK6 e JK7, do polo de captação do Carregal, localizadas no concelho de Ovar, nos termos dos artigos seguintes.
+
+2 - As coordenadas das captações referidas no número anterior constam do anexo i da presente portaria, que dela faz parte integrante.
+
+###### Artigo 2.º — Zonas de proteção imediata
+
+1 - A zona de proteção imediata respeitante ao perímetro de proteção das captações mencionadas no n.º 1 do artigo 1.º corresponde à área da superfície do terreno envolvente às captações, delimitada através do polígono que resulta da união dos vértices indicados nos quadros constantes do anexo ii da presente portaria, que dela faz parte integrante.
+
+2 - É interdita qualquer instalação ou atividade na zona a que se referem os números anteriores, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação.
+
+3 - O terreno abrangido pela zona de proteção referida pelo n.º 1 deve ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, na sua redação atual.
+
+###### Artigo 3.º — Zona de proteção intermédia
+
+1 - A zona de proteção intermédia respeitante ao perímetro de proteção das captações mencionadas no n.º 1 do artigo 1.º corresponde à área da superfície do terreno envolvente às zonas de proteção imediata, delimitada através do polígono que resulta da união dos vértices indicados no quadro constante do anexo iii da presente portaria, que dela faz parte integrante.
+
+2 - Na zona de proteção intermédia a que se refere o número anterior são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:
+
+a) Infraestruturas aeronáuticas;
+
+b) Oficinas e estações de serviço de automóveis;
+
+c) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;
+
+d) Postos de abastecimento e áreas de serviço de combustíveis;
+
+e) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;
+
+f) Canalizações de produtos tóxicos;
+
+g) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;
+
+h) Construção de caminhos de ferro;
+
+i) Parques de campismo;
+
+j) Espaços destinados a práticas desportivas;
+
+k) Estações de tratamento de águas residuais;
+
+l) Sistemas autónomos de águas residuais domésticas, tipo fossa, em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo e na água;
+
+m) Unidades industriais;
+
+n) Cemitérios;
+
+o) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;
+
+p) Lagos e quaisquer obras ou escavações destinadas à extração e armazenamento de água ou de quaisquer outras substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser seladas e cimentadas todas as captações de água subterrânea existentes que sejam desativadas;
+
+q) Depósitos de sucata, devendo nos depósitos existentes à data de entrada em vigor da presente portaria ser assegurada a impermeabilização do solo e a recolha e ou tratamento das águas de escorrência nas zonas de armazenamento.
+
+3 - Na zona de proteção intermédia a que se refere o n.º 1, são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:
+
+a) Pastorícia, que pode ser desenvolvida desde que não cause problemas de poluição dos recursos hídricos, nomeadamente através do pastoreio intensivo, devendo ser cumpridas as regras do código das boas práticas agrícolas;
+
+b) Usos agrícolas e pecuários, que podem ser permitidos desde que não causem problemas de poluição dos recursos hídricos, nomeadamente através:
+
+i) Da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água/solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de Bioacumulação;
+
+ii) Da rejeição de efluentes na água ou no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes, em locais que não estejam devidamente impermeabilizados e sem sistema de recolha de efluentes;
+
+c) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de um sistema autónomo doméstico de armazenamento devidamente estanque e sem qualquer rejeição para o meio recetor - água ou solo;
+
+d) Estradas podem ser permitidas desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água;
+
+e) Instalação de coletores de águas residuais, os quais podem ser permitidos desde que respeitem critérios rigorosos de estanqueidade, devendo estar sujeitos a verificações periódicas do seu estado de conservação;
+
+f) Sistemas autónomos de águas residuais domésticas, tipo fossa, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanqueidade, devendo os sistemas existentes ser substituídos ou reconvertidos em sistemas estanques e ser desativadas logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas.
+
+###### Artigo 4.º — Zona de proteção alargada
+
+1 - A zona de proteção alargada respeitante ao perímetro de proteção das captações mencionadas no n.º 1 do artigo 1.º corresponde à área da superfície do terreno envolvente à zona de proteção intermédia e delimitada através do polígono que resulta da união dos vértices indicados no quadro constante do anexo iv da presente portaria, que dela faz parte integrante.
+
+2 - Na zona de proteção alargada a que se refere o número anterior são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, as seguintes atividades e instalações:
+
+a) Transporte de hidrocarbonetos, de materiais radioativos e de outras substâncias perigosas;
+
+b) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;
+
+c) Canalizações de produtos tóxicos;
+
+d) Refinarias e indústrias químicas;
+
+e) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;
+
+f) Sistemas autónomos de águas residuais domésticas, tipo fossa, em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo e na água;
+
+g) Cemitérios;
+
+h) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;
+
+i) Infraestruturas aeronáuticas.
+
+3 - Na zona de proteção alargada a que se refere o n.º 1, são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:
+
+a) Aplicação de fertilizantes e pesticidas móveis e persistentes na água ou no solo, ou que possam formar substâncias tóxicas, persistentes e passíveis de bioacumulação, bem como a rejeição de efluentes agrícolas e ou pecuários na água ou no solo, incluindo o armazenamento de estrumes ou produtos potencialmente contaminantes, em locais que não estejam devidamente impermeabilizados e sem sistema de recolha de efluentes;
+
+b) Instalação de coletores de águas residuais, que pode ser permitida desde que respeite critérios rigorosos de estanqueidade, devendo estar os coletores sujeitos a verificações periódicas do seu estado de conservação;
+
+c) Sistemas autónomos de águas residuais domésticas, tipo fossa, que apenas podem ser permitidos caso respeitem rigorosos critérios de estanqueidade, devendo os sistemas existentes ser substituídos ou reconvertidos em sistemas estanques e, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais, devem ser desativados com a efetivação da ligação ao sistema de saneamento;
+
+d) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, que podem ser permitidos desde que sejam devidamente impermeabilizados e a sua profundidade não intersete o nível freático, devendo ser seladas e cimentadas todas as captações de água subterrânea existentes que sejam desativadas;
+
+e) Estações de tratamento de águas residuais urbanas ou industriais, que é permitida desde que as águas residuais sejam sujeitas a tratamento compatível com os objetivos fixados para o meio recetor, não podendo de forma alguma pôr em causa a qualidade da água para abastecimento público, devendo estar sujeitas a verificações periódicas do seu estado de conservação;
+
+f) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis, que podem ser permitidos desde que:
+
+i) Seja garantida a impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer dos casos, ser garantida a recolha e/ou tratamento de efluentes e águas pluviais contaminadas;
+
+ii) Sejam implementados sistemas de controlo e deteção de fugas, no caso de depósitos enterrados de combustível;
+
+g) Depósitos de sucata, devendo nos depósitos existentes à data de entrada em vigor da presente portaria ser assegurada a impermeabilização do solo nas zonas de armazenamento e a existência de um sistema de drenagem que recolha todos os efluentes e águas pluviais e os encaminhe para tratamento.
+
+###### Artigo 5.º — Representação das zonas de proteção
+
+A planta de localização das zonas de proteção respeitantes aos perímetros de proteção das captações mencionadas no n.º 1 do artigo 1.º constam do anexo v da presente portaria, que dela faz parte integrante.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+A Secretária de Estado do Ambiente, Inês dos Santos Costa, em 28 de dezembro de 2021.
+
+## Anexo I — Coordenadas das captações
+
+(a que se refere o n.º 2 do artigo 1.º)
+
+| Captação | X (metros) | Y (metros) |
+| --- | --- | --- |
+| JK1 | -43910,67 | 133414,29 |
+| JK2 | -43910,32 | 133522,01 |
+| JK3 | -43907,34 | 133626,48 |
+| JK4 | -43472,37 | 133743,25 |
+| JK5 | -43665,95 | 133787,16 |
+| JK6 | -43855,17 | 133826,62 |
+| JK7 | -43848,81 | 133933,91 |
+
+Nota. - As coordenadas das captações e dos vértices dos anexos ii, iii e iv encontram-se no sistema de coordenadas EPSG 3763 (PT - TM06/ETRS89, origem no ponto central).
+
+> Alterado pelo/a Anexo I do/a [Portaria n.º 299/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/299-2025-934454757), em vigor a partir de 2025-09-09
+
+## Anexo II — Zonas de proteção imediata
+
+(a que se refere o n.º 1 do artigo 2.º)
+
+Captação JK1
+
+| Vértice | X (metros) | Y (metros) |
+| --- | --- | --- |
+| 1 | -43901,61 | 133423,54 |
+| 2 | -43900,65 | 133419,53 |
+| 3 | -43900,68 | 133416,53 |
+| 4 | -43900,71 | 133412,53 |
+| 5 | -43900,74 | 133409,53 |
+| 6 | -43900,79 | 133404,52 |
+| 7 | -43905,80 | 133404,57 |
+| 8 | -43909,80 | 133404,61 |
+| 9 | -43913,80 | 133404,65 |
+| 10 | -43917,80 | 133404,69 |
+| 11 | -43922,80 | 133404,74 |
+| 12 | -43922,69 | 133415,75 |
+| 13 | -43922,67 | 133417,75 |
+| 14 | -43922,64 | 133420,75 |
+| 15 | -43916,61 | 133423,69 |
+| 16 | -43913,60 | 133424,66 |
+| 17 | -43909,61 | 133423,62 |
+| 18 | -43905,61 | 133423,58 |
+
+Captação JK2
+
+| Vértice | X (metros) | Y (metros) |
+| --- | --- | --- |
+| 1 | -43905,48 | 133537,63 |
+| 2 | -43905,52 | 133533,63 |
+| 3 | -43905,56 | 133529,63 |
+| 4 | -43905,60 | 133525,63 |
+| 5 | -43905,64 | 133521,63 |
+| 6 | -43905,68 | 133517,62 |
+| 7 | -43909,68 | 133517,66 |
+| 8 | -43913,68 | 133517,70 |
+| 9 | -43917,68 | 133517,74 |
+| 10 | -43922,68 | 133517,79 |
+| 11 | -43922,63 | 133522,79 |
+| 12 | -43922,59 | 133526,80 |
+| 13 | -43922,57 | 133528,80 |
+| 14 | -43922,56 | 133529,80 |
+| 15 | -43922,54 | 133531,80 |
+| 16 | -43922,48 | 133537,80 |
+| 17 | -43917,48 | 133537,75 |
+| 18 | -43913,48 | 133537,71 |
+| 19 | -43909,48 | 133537,67 |
+
+Captação JK3
+
+| Vértice | X (metros) | Y (metros) |
+| --- | --- | --- |
+| 1 | -43901,42 | 133643,64 |
+| 2 | -43901,47 | 133638,64 |
+| 3 | -43901,50 | 133635,64 |
+| 4 | -43901,54 | 133631,64 |
+| 5 | -43901,58 | 133627,63 |
+| 6 | -43901,62 | 133623,63 |
+| 7 | -43905,62 | 133623,67 |
+| 8 | -43909,63 | 133623,71 |
+| 9 | -43913,63 | 133623,75 |
+| 10 | -43917,63 | 133623,79 |
+| 11 | -43921,63 | 133623,83 |
+| 12 | -43921,58 | 133628,83 |
+| 13 | -43921,54 | 133632,83 |
+| 14 | -43921,52 | 133634,84 |
+| 15 | -43921,51 | 133635,84 |
+| 16 | -43921,49 | 133637,84 |
+| 17 | -43921,45 | 133641,84 |
+| 18 | -43921,43 | 133643,84 |
+| 19 | -43917,43 | 133643,80 |
+| 20 | -43913,43 | 133643,76 |
+| 21 | -43909,43 | 133643,72 |
+| 22 | -43906,43 | 133643,69 |
+
+Captação JK4
+
+| Vértice | X (metros) | Y (metros) |
+| --- | --- | --- |
+| 1 | -43480,17 | 133754,50 |
+| 2 | -43477,17 | 133754,47 |
+| 3 | -43473,18 | 133753,43 |
+| 4 | -43469,18 | 133753,39 |
+| 5 | -43465,19 | 133752,35 |
+| 6 | -43461,19 | 133752,30 |
+| 7 | -43461,23 | 133748,29 |
+| 8 | -43462,27 | 133744,30 |
+| 9 | -43463,35 | 133736,31 |
+| 10 | -43478,33 | 133738,47 |
+| 11 | -43481,33 | 133738,50 |
+| 12 | -43483,32 | 133739,52 |
+| 13 | -43483,28 | 133743,52 |
+| 14 | -43482,24 | 133747,51 |
+| 15 | -43481,21 | 133750,50 |
+
+Captação JK5
+
+| Vértice | X (metros) | Y (metros) |
+| --- | --- | --- |
+| 1 | -43659,01 | 133777,29 |
+| 2 | -43662,01 | 133777,32 |
+| 3 | -43664,00 | 133778,34 |
+| 4 | -43673,98 | 133780,44 |
+| 5 | -43677,93 | 133785,48 |
+| 6 | -43674,78 | 133800,46 |
+| 7 | -43670,78 | 133800,42 |
+| 8 | -43666,79 | 133799,38 |
+| 9 | -43662,79 | 133799,34 |
+| 10 | -43658,80 | 133798,30 |
+| 11 | -43655,80 | 133798,27 |
+| 12 | -43655,84 | 133794,26 |
+| 13 | -43657,97 | 133781,28 |
+
+Captação JK6
+
+| Vértice | X (metros) | Y (metros) |
+| --- | --- | --- |
+| 1 | -43845,55 | 133830,17 |
+| 2 | -43846,59 | 133826,18 |
+| 3 | -43847,63 | 133822,19 |
+| 4 | -43848,67 | 133818,20 |
+| 5 | -43850,74 | 133811,21 |
+| 6 | -43853,74 | 133811,24 |
+| 7 | -43862,74 | 133812,33 |
+| 8 | -43864,73 | 133813,35 |
+| 9 | -43867,73 | 133813,38 |
+| 10 | -43869,72 | 133814,40 |
+| 11 | -43867,61 | 133825,39 |
+| 12 | -43861,54 | 133832,33 |
+| 13 | -43857,54 | 133832,29 |
+
+Captação JK7
+
+| Vértice | X (metros) | Y (metros) |
+| --- | --- | --- |
+| 1 | -43934,4 | 133838,4 |
+| 2 | -43934,4 | 133839,4 |
+| 3 | -43934,5 | 133841,6 |
+| 4 | -43934,6 | 133844,9 |
+| 5 | -43934,8 | 133851,3 |
+| 6 | -43928,5 | 133851,4 |
+| 7 | -43925,1 | 133851,5 |
+| 8 | -43921,8 | 133851,6 |
+| 9 | -43918,2 | 133851,6 |
+| 10 | -43914,7 | 133851,7 |
+| 11 | -43914,6 | 133848,5 |
+| 12 | -43914,5 | 133845,1 |
+| 13 | -43914,3 | 133841,7 |
+| 14 | -43914,2 | 133831,8 |
+| 15 | -43917,5 | 133831,8 |
+| 16 | -43920,4 | 133831,7 |
+| 17 | -43926,7 | 133831,6 |
+| 18 | -43934,0 | 133831,5 |
+| 19 | -43934,1 | 133834,6 |
+| 20 | -43934,4 | 133838,4 |
+
+> Alterado pelo/a Anexo II do/a [Portaria n.º 299/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/299-2025-934454757), em vigor a partir de 2025-09-09
+
+## Anexo III — Zona de proteção intermédia
+
+(a que se refere o n.º 1 do artigo 3.º)
+
+| Vértice | X (metros) | Y (metros) |
+| --- | --- | --- |
+| 1 | -43909,46 | 133338,57 |
+| 2 | -43838,19 | 133362,87 |
+| 3 | -43846,98 | 133485,02 |
+| 4 | -43401,76 | 133691,68 |
+| 5 | -43449,43 | 133828,22 |
+| 6 | -43642,97 | 133881,18 |
+| 7 | -43822,85 | 134001,02 |
+| 8 | -43886,08 | 133979,64 |
+| 9 | -43899,04 | 133882,73 |
+| 10 | -43953,01 | 133687,17 |
+| 11 | -43949,20 | 133568,08 |
+| 12 | -43957,13 | 133474,11 |
+
+> Alterado pelo/a Anexo III do/a [Portaria n.º 299/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/299-2025-934454757), em vigor a partir de 2025-09-09
+
+## Anexo IV — Zona de proteção alargada
+
+(a que se refere o n.º 1 do artigo 4.º)
+
+| Vértice | X (metros) | Y (metros) |
+| --- | --- | --- |
+| 1 | -43929,53 | 133331,78 |
+| 2 | -43977,21 | 133467,31 |
+| 3 | -43962,25 | 133563,21 |
+| 4 | -43971,08 | 133680,35 |
+| 5 | -43917,12 | 133875,90 |
+| 6 | -43900,14 | 133973,78 |
+| 7 | -42096,49 | 133974,78 |
+| 8 | -42111,29 | 134094,99 |
+| 9 | -41661,05 | 134302,62 |
+| 10 | -41708,72 | 134439,16 |
+| 11 | -41897,24 | 134494,05 |
+| 12 | -42087,14 | 134610,44 |
+
+> Alterado pelo/a Anexo IV do/a [Portaria n.º 299/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/299-2025-934454757), em vigor a partir de 2025-09-09
+
+## Anexo V — Planta de localização das zonas de proteção
+
+(a que se refere o artigo 5.º)
+
+Extrato da folha n.º 153 da Carta Militar de Portugal - 1:25000 (IGeoE)
+
+| ![A imagem não se encontra disponível.](https://files.diariodarepublica.pt/images/934454757/934454856.png) |
+| --- |
+
+> Alterado pelo/a Anexo V do/a [Portaria n.º 299/2025/1 - Diário da República n.º 172/2025, Série I de 2025-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/299-2025-934454757), em vigor a partir de 2025-09-09

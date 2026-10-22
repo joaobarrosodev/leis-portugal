@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:380505:por
+title: Despacho Normativo n.º 156/79
+short_title: null
+summary: Altera o artigo 151.º do Regulamento de Transportes em Automóveis, de acordo com o artigo 80.º deste diploma
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios dos Transportes e Comunicações - Secretaria de Estado dos Transportes e Comunicações - Gabinete do Secretário
+  de Estado
+proposing_entity: null
+official_number: 156/79
+official_date: null
+publication_date: '1979-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 153/1979, Série I de 1979-07-05
+  number: '153'
+  series: I
+  supplement: null
+  pages: 1452 - 1453
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/07/15300/14521453.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '380505'
+  dre_path: /dr/detalhe/despacho-normativo/156-1979-380505
+  internal: pt:dre:380505:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/156-1979-380505
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/156-1979-380505
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-07-05T00:00:00Z'
+integrity:
+  source_sha256: 3d4bdc24f4a8ce3c7eab25a7f14269a8f9bfbc3618b7d7bc22c9aa8df2198fba
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-156-380505.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 156/79
+
+O artigo 151.º do Regulamento de Transportes em Automóveis, na redacção dada pelo [Decreto n.º 59/71](https://diariodarepublica.pt/dr/detalhe/decreto/59-1971-445560), estabelece o pagamento de mero bilhete, nas carreiras interurbanas, para as crianças de idade igual ou superior a 4 e inferior a 12 anos, com direito à ocupação de lugar, nos termos do artigo 163.º do mesmo Regulamento.
+
+Constata-se, porém, a existência de dois tipos de situações que, embora relativas a carreiras urbanas, são credoras do mesmo tratamento, por razões, quer de justiça relativa, quer de concorrência entre os operadores de transportes.
+
+Assim, considerando o disposto no artigo 80.º do Regulamento de Transportes em Automóveis, determino:
+
+As crianças de idade igual ou superior a 4 e inferior a 12 anos pagarão meio bilhete, tendo direito à ocupação de lugar, nos termos do artigo 163.º do Regulamento de Transportes em Automóveis, nas carreiras:
+
+a) Urbanas, anteriormente classificadas de interurbanas, sempre que a alteração de classificação seja devida à urbanização das vias através das quais se faz o respectivo percurso;
+
+b) Urbanas, cujo percurso, não se contendo nos limites das povoações, se efectua através de vias urbanizadas, em situação de concorrência, ou não, com carreiras interurbanas.
+
+Ministério dos Transportes e Comunicações, 31 de Maio de 1979. - O Secretário de Estado dos Transportes e Comunicações, Rogério do Ouro Lameira.

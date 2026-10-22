@@ -1,0 +1,352 @@
+---
+schema_version: '1.0'
+id: pt:dre:422862:por
+title: Decreto Regulamentar n.º 4/96
+short_title: null
+summary: Aprova o Estatuto da Escola de Sargentos do Exército
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 4/96
+official_date: null
+publication_date: '1996-07-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 156/1996, Série I-B de 1996-07-08
+  number: '156'
+  series: I
+  supplement: null
+  pages: 1763 - 1766
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/07/156b00/17631766.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/4/1996/07/08/p/dre/pt/html
+  oj: null
+  dre: '422862'
+  dre_path: /dr/detalhe/decreto-regulamentar/4-1996-422862
+  internal: pt:dre:422862:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1996-422862
+  metadata_url: https://data.dre.pt/eli/decregul/4/1996/07/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-1996-422862
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-07-08T00:00:00Z'
+integrity:
+  source_sha256: 8a9ab729722608bea7682e45338b29bc32182c847f034affc243772f1f00ce83
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-4-422862.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Exército
+- Ensino Profissional
+- Escola de Sargentos do Exército
+- Estatuto
+- Forças Armadas
+- Sargento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/1993/04/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/1993/04/22/p/dre
+article_structure:
+  article_count: 28
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 4/96
+
+de 8 de Julho
+
+A reformulação do curso de formação de sargentos do Exército, operada pelo [Decreto-Lei n.º 127/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1993-692652), de 22 de Abril, impõe a aprovação do Estatuto da Escola de Sargentos do Exército por decreto regulamentar.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 127/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-1993-692652), de 22 de Abril, nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Escola de Sargentos do Exército
+
+É aprovado o Estatuto da Escola de Sargentos do Exército, que é publicado em anexo a este diploma e que dele faz parte integrante.
+
+###### Artigo 2.º — Produção de efeitos
+
+O presente diploma aplica-se aos cursos iniciados em 1995.
+
+Presidência do Conselho de Ministros, 9 de Maio de 1996.
+
+António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Luciano Pacheco de Sousa Franco - Eduardo Carrega Marçal Grilo - Maria João Fernandes Rodrigues.
+
+**Promulgado em 19 de Junho de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 20 de Junho de 1996.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+## ANEXO — ESTATUTO DA ESCOLA DE SARGENTOS DO EXÉRCITO
+
+### CAPÍTULO I — Natureza, missão e atribuições
+
+###### Artigo 1.º — Natureza
+
+A Escola de Sargentos do Exército (ESE) é um estabelecimento militar de ensino profissional.
+
+###### Artigo 2.º — Missão
+
+A ESE tem como missão assegurar a preparação militar, sócio-cultural, científica e técnica necessária ao ingresso e progressão na carreira de sargentos dos quadros permanentes.
+
+###### Artigo 3.º — Atribuições
+
+1 - São atribuições da ESE:
+
+a) Ministrar os cursos de formação e promoção previstos no Estatuto dos Militares das Forças Armadas (EMFAR);
+
+b) Realizar cursos ou acções de formação profissional definidos na Lei de Bases do Sistema Educativo e na legislação que enquadra e regula as escolas profissionais;
+
+c) Realizar cursos e estágios a determinar pelo Chefe do Estado-Maior do Exército.
+
+2 - À ESE pode ser atribuída a preparação de sargentos de outros ramos das Forças Armadas e da Guarda Nacional Republicana, mediante protocolos a estabelecer para esse efeito, bem como de outros países, no âmbito de acordos de cooperação técnico-militar.
+
+### CAPÍTULO II — Estrutura orgânica
+
+###### Artigo 4.º — Órgãos
+
+1 - A ESE compreende os seguintes órgãos:
+
+a) O comando;
+
+b) Os órgãos de conselho;
+
+c) A direcção de ensino;
+
+d) O corpo de alunos;
+
+e) Os serviços de apoio.
+
+###### Artigo 5.º — Comando
+
+1 - O comando é constituído por:
+
+a) O comandante;
+
+b) O 2.º comandante;
+
+c) O adjunto do comandante.
+
+2 - O comandante é um coronel, a quem compete dirigir as actividades da ESE na dependência funcional do comando da instrução.
+
+3 - O 2.º comandante é um tenente-coronel, a quem compete coadjuvar o comandante da ESE e substituí-lo nas suas ausências e impedimentos.
+
+4 - O adjunto do comandante é um sargento-mor, a quem compete apoiar o comandante no desenvolvimento das suas actividades.
+
+###### Artigo 6.º — Órgãos de conselho
+
+Os órgãos de conselho compreendem:
+
+a) O conselho escolar;
+
+b) O conselho pedagógico;
+
+c) O conselho de disciplina.
+
+###### Artigo 7.º — Conselho escolar
+
+1 - O conselho escolar (CE) é um órgão de consulta do comandante para matérias relacionadas com o ensino e a instrução.
+
+2 - Integram o CE o comandante, que preside, o director de ensino, o comandante do corpo de alunos, os directores de curso ou estágio, os professores titulares de disciplina, o adjunto do comandante e um secretário escolhido de entre os oficiais da direcção de ensino.
+
+3 - O CE reúne em sessão ordinária no início e no final do ano lectivo.
+
+4 - O CE reúne em sessão extraordinária sempre que para tal seja convocado pelo comandante.
+
+###### Artigo 8.º — Conselho pedagógico
+
+1 - O conselho pedagógico (CP) é um órgão de consulta do comandante para assuntos de natureza pedagógica.
+
+2 - Integram o CP o director de ensino, que preside, os directores de curso ou estágio, os professores responsáveis pelas áreas de ensino ou grupos de disciplinas e um secretário escolhido de entre os oficiais da direcção de ensino.
+
+3 - O comandante preside ao CP sempre que entender conveniente.
+
+###### Artigo 9.º — Conselho de disciplina
+
+1 - O conselho de disciplina (CD) é um órgão de consulta do comandante em assuntos relativos à disciplina escolar dos alunos do curso de formação de sargentos.
+
+2 - Integram o CD o comandante, que preside, o director de ensino, o comandante do corpo de alunos, o comandante de companhia, o director de curso, o adjunto do comandante e um secretário escolhido de entre os oficiais do corpo de alunos.
+
+###### Artigo 10.º — Direcção de ensino
+
+1 - Compete à direcção de ensino planear, organizar, executar e controlar as actividades relacionadas com o ensino e instrução, visando obter eficácia na orientação pedagógica e economia na utilização dos recursos disponíveis.
+
+2 - A direcção de ensino compreende:
+
+a) O director de ensino;
+
+b) Os directores de curso ou estágio.
+
+3 - O director de ensino é um tenente-coronel nomeado pelo comandante e é responsável pela realização dos objectivos previstos no n.º 1 deste artigo.
+
+4 - Os directores de curso ou estágio são docentes da ESE nomeados anualmente por despacho do comandante, sob proposta do director de ensino.
+
+5 - Os directores de curso ou estágio são responsáveis pela execução dos respectivos programas, bem como pelo acompanhamento dos alunos em termos da evolução do aproveitamento escolar e da ligação com a direcção de ensino.
+
+###### Artigo 11.º — Corpo de alunos
+
+1 - Ao corpo de alunos compete:
+
+a) Enquadrar, militar e administrativamente, os alunos dos cursos ou estágios de formação e promoção;
+
+b) Ministrar preparação militar, moral e cívica.
+
+2 - O corpo de alunos compreende:
+
+a) O comandante do corpo de alunos;
+
+b) As companhias de alunos.
+
+3 - O comandante do corpo de alunos é um tenente-coronel, a quem compete zelar pela disciplina, preparação militar, moral e cívica dos alunos.
+
+###### Artigo 12.º — Serviços de apoio
+
+1 - Aos serviços de apoio compete garantir a segurança e o apoio geral necessários à realização das actividades da ESE e a conservação das suas instalações.
+
+2 - Os serviços de apoio compreendem:
+
+a) A secção de pessoal;
+
+b) A secção de logística;
+
+c) A companhia de apoio de serviços.
+
+3 - Os serviços de apoio são chefiados por um tenente-coronel.
+
+### CAPÍTULO III — Ensino e instrução
+
+###### Artigo 13.º — Cursos
+
+1 - Na ESE são ministrados os seguintes cursos:
+
+a) O curso de formação de sargentos;
+
+b) O curso de promoção a sargento-chefe.
+
+2 - A ESE pode desenvolver outras actividades de ensino ou instrução e treino que lhe sejam atribuídas.
+
+###### Artigo 14.º — Orientação do ensino e instrução
+
+1 - O ensino ministrado na ESE engloba as seguintes vertentes fundamentais:
+
+a) Formação geral, de índole científica e sócio-cultural de nível secundário, com vista a dotar os alunos com os conhecimentos necessários ao desempenho de funções dos respectivos quadros;
+
+b) Formação técnico-militar destinada a qualificar os alunos para o desempenho de funções dos diferentes postos da carreira de sargentos;
+
+c) Formação comportamental consubstanciada numa sólida formação militar, moral e cívica, tendo em vista desenvolver nos alunos os atributos de carácter, sentido do dever, honra e lealdade, o culto da ordem e da disciplina e as qualidades de comando e chefia inerentes à condição militar;
+
+d) Preparação física como suporte de adestramento militar, com o objectivo de desenvolver nos alunos os hábitos de prática de actividades de carácter físico, que possam manter a capacidade de desempenho de funções militares.
+
+2 - O ensino na ESE engloba ainda acções complementares das anteriores baseadas na correcta gestão de tempos livres e actividades de carácter lúdico e de cultura geral, nomeadamente conferências e visitas de estudo, tendo em vista a formação global dos alunos.
+
+###### Artigo 15.º — Actividades de ensino e instrução
+
+As actividades de ensino e instrução na ESE têm carácter presencial obrigatório e desenvolvem-se através de aulas teóricas, teórico-práticas, práticas e de laboratório, complementadas por conferências, visitas e viagens de estudo, trabalhos de aplicação e exercícios no campo, de acordo com a pedagogia mais aconselhável ao processo de ensino ou aprendizagem das matérias que integram os planos dos diversos cursos ou estágios.
+
+### CAPÍTULO IV — Corpo docente
+
+###### Artigo 16.º — Constituição
+
+O corpo docente da ESE é constituído por todos os professores e instrutores que ministram o ensino e a instrução.
+
+###### Artigo 17.º — Qualificação
+
+1 - Os docentes das áreas de formação científica e sócio-cultural de índole estritamente escolar a que se refere a alínea a) do n.º 1 do artigo 14.º são recrutados entre individualidades que reúnam as condições exigidas pelo sistema educativo.
+
+2 - Os docentes da área de formação a que se refere a alínea b) do n.º 1 do artigo 14.º são recrutados entre individualidades profissionais titulares do grau de licenciado ou de bacharel que tenham comprovada competência científica, técnica e pedagógica.
+
+3 - Os docentes da área de instrução e treino a que se referem as alíneas c) e d) do n.º 1 do artigo 14.º são recrutados entre individualidades titulares do grau de licenciado, bacharel ou de qualificação profissional de nível 3 ou que tenham comprovada competência técnica e pedagógica.
+
+###### Artigo 18.º — Recrutamento
+
+1 - O recrutamento dos docentes civis a que se refere o n.º 1 do artigo anterior é feito nos termos estabelecidos no Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário.
+
+2 - O recrutamento dos docentes a que se refere o n.º 2 do artigo anterior é feito por convite ou escolha nos termos fixados no regulamento da ESE.
+
+3 - O recrutamento dos docentes a que se refere o n.º 3 do artigo anterior é feito por escolha nos termos fixados no regulamento da ESE.
+
+###### Artigo 19.º — Funções
+
+1 - As funções dos docentes a que se referem os n.os 1 e 2 do artigo 17.º são fixadas no estatuto que vigorar para a carreira docente do ensino secundário, com as adaptações determinadas pela especificidade da instituição militar.
+
+2 - As funções dos docentes a que se refere o n.º 3 do artigo 17.º são fixadas no regulamento da ESE.
+
+### CAPÍTULO V — Corpo discente
+
+###### Artigo 20.º — Constituição
+
+O corpo discente é constituído por todos os alunos admitidos à frequência de cursos e estágios ou quaisquer outras actividades de ensino ou instrução cuja direcção esteja cometida à ESE.
+
+###### Artigo 21.º — Admissão ao curso de formação de sargentos
+
+As condições de admissão de alunos para a frequência do curso de formação de sargentos é feita através de concurso documental e de prestação de provas definidas no regulamento da ESE.
+
+###### Artigo 22.º — Admissão ao curso de promoção
+
+A admissão de sargentos do quadro permanente para o curso de promoção a sargento-chefe é feita por nomeação, nos termos do EMFAR.
+
+###### Artigo 23.º — Frequência do curso de formação
+
+1 - Os candidatos admitidos à frequência do curso de formação de sargentos são matriculados na ESE e inscritos no ano a que se refere o concurso e, seguidamente, aumentados ao efectivo do corpo de alunos, adquirindo a condição de alunos da ESE.
+
+2 - Os alunos admitidos à frequência do curso de formação de sargentos tem a condição militar e ficam sujeitos ao regime escolar, de vida interna e de administração estabelecido no regulamento da ESE.
+
+###### Artigo 24.º — Frequência do curso de promoção
+
+1 - Os sargentos nomeados para a frequência do curso de promoção a sargento-chefe são inscritos no ano a que se refere o curso e aumentados ao efectivo do corpo de alunos, adquirindo a condição de alunos da ESE.
+
+2 - Os sargentos nomeados para a frequência do curso de promoção a sargento-chefe ficam sujeitos ao regime escolar, de vida interna e de administração estabelecido no regulamento da ESE.
+
+###### Artigo 25.º — Eliminação e abatimento
+
+As condições de eliminação da frequência dos cursos de formação e de promoção, bem como do abate ao efectivo do corpo de alunos, e as respectivas consequências são definidas no regulamento da ESE.
+
+###### Artigo 26.º — Regimes especiais
+
+O regime de vida interna e de administração dos alunos que frequentam a ESE, nos termos do n.º 2 do artigo 3.º do presente Estatuto, é regulado por normas estabelecidas por despacho do Chefe do Estado-Maior do Exército.

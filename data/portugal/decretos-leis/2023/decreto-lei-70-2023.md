@@ -1,0 +1,214 @@
+---
+schema_version: '1.0'
+id: pt:dre:220172307:por
+title: Decreto-Lei n.º 70/2023
+short_title: null
+summary: Prorroga o prazo da concessão do sistema multimunicipal de triagem, recolha seletiva, valorização e tratamento de
+  resíduos sólidos urbanos do Baixo Cávado
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ambiente e Ação Climática
+official_number: 70/2023
+official_date: null
+publication_date: '2023-08-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/2023, Série I de 2023-08-22
+  number: '162'
+  series: I
+  supplement: null
+  pages: 8 - 10
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/08/16200/0000800010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-08-22'
+version_history:
+  file: decreto-lei-70-2023.versoes.json
+  count: 2
+  source_lastmod: '2025-08-21'
+  versions:
+  - date: '2023-08-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-08-22'
+    amending: pt:dre:932837042:por
+    amending_title: Decreto-Lei n.º 98/2025
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/70/2023/p/cons/20250821/pt/html
+  oj: null
+  dre: '220172307'
+  dre_path: /dr/detalhe/decreto-lei/70-2023-220172307
+  internal: pt:dre:220172307:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2023-220172307
+  metadata_url: https://data.dre.pt/eli/dec-lei/70/2023/p/cons/20250821/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-932837063
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-932837063
+  retrieved_at: '2026-10-22T13:32:58Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-08-21T00:00:00Z'
+integrity:
+  source_sha256: 7f0e9dab24b194cc865a6bf9cbda86955d045daf496ec5c86ac9c84662d61feb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:32:58Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-70-2023.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestão de Resíduos
+- Saneamento Básico
+- Contrato de Concessão
+- Extinção de Serviços
+- Proteção do Ambiente
+- Prorrogação de Prazo
+- Entidade Gestora de Resíduos
+- Eliminação de Resíduos
+- Sistema Multimunicipal de Triagem Recolha Selectiva Valorização e Tratamento de Resíduos Sólidos Urbanos do Baixo Cavado
+- Transferência Patrimonial
+relationships:
+- type: amended_by
+  target: pt:dre:932837042:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2025-932837042
+  date: '2025-08-21'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/111/1996/08/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/111/1996/08/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/117/1996/08/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/117/1996/08/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/194/2009/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/194/2009/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/471/1999/11/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/471/1999/11/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/50/2012/08/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/50/2012/08/31/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:32:58Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 70/2023
+
+Decreto-Lei n.º 70/2023
+
+de 22 de agosto
+
+Sumário: Prorroga o prazo da concessão do sistema multimunicipal de triagem, recolha seletiva, valorização e tratamento de resíduos sólidos urbanos do Baixo Cávado.
+
+O Decreto-Lei n.º 117/96, de 6 de agosto, criou o sistema multimunicipal de triagem, recolha seletiva, valorização e tratamento de resíduos sólidos urbanos do Baixo Cávado, que integrou como utilizadores originários os Municípios de Braga, Póvoa de Lanhoso e Vieira do Minho, e aprovou os estatutos da sociedade BRAVAL - Valorização e Tratamento de Resíduos Sólidos, S. A., a quem foi atribuída, em regime de concessão, por um período de 25 anos, a gestão e exploração do sistema multimunicipal do Baixo Cávado.
+
+Com a adoção do Decreto-Lei n.º 471/99, de 6 de novembro, o sistema multimunicipal do Baixo Cávado foi alargado aos Municípios de Amares, Terras de Bouro e Vila Verde, tendo o referido diploma legal procedido, ainda, à extinção do sistema multimunicipal de triagem, recolha seletiva, valorização e tratamento de resíduos sólidos urbanos do Cávado-Homem, criado pelo Decreto-Lei n.º 111/96, de 2 de agosto.
+
+Atendendo ao termo do prazo da concessão, os municípios utilizadores do sistema pretendem assumir a gestão do sistema de triagem, recolha seletiva, valorização e tratamento de resíduos sólidos urbanos do Baixo Cávado, constituindo um sistema intermunicipal, nos termos do disposto no Decreto-Lei n.º 194/2009, de 20 de agosto, na sua redação atual, atribuindo a sua gestão em modelo de gestão delegada em empresa do setor empresarial local, participada pelos referidos municípios.
+
+Não tendo ainda sido possível concluir a criação do referido sistema intermunicipal e da entidade intermunicipal e sendo imperioso manter a ininterruptibilidade das operações de gestão de resíduos urbanos, torna-se necessária a prorrogação do prazo de vigência do contrato de concessão até 31 de dezembro de 2023, com a produção de efeitos a 1 de janeiro de 2022, de modo a assegurar a regularidade da atuação da concessionária e da recolha e do destino final adequado dos resíduos.
+
+Foi ouvido o Município da Póvoa de Lanhoso.
+
+Foi promovida a audição dos Municípios de Amares, Braga, Terras de Bouro, Vieira do Minho e Vila Verde e da Entidade Reguladora dos Serviços de Águas e Resíduos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei procede à prorrogação do prazo da concessão do sistema multimunicipal de triagem, recolha seletiva, valorização e tratamento de resíduos sólidos urbanos do Baixo Cávado e à definição das condições do termo da concessão.
+
+2 - O presente decreto-lei procede ainda à extinção do sistema multimunicipal referido no número anterior.
+
+###### Artigo 2.º — Prorrogação do prazo da concessão do sistema multimunicipal
+
+1 - O prazo de concessão do sistema multimunicipal de triagem, recolha seletiva, valorização e tratamento de resíduos sólidos do Baixo Cávado é prorrogado, com efeitos a 1 de janeiro de 2024, até 31 de dezembro de 2026.
+
+2 - Até ao termo do prazo previsto no número anterior, mantêm-se em vigor, com as necessárias adaptações, as normas que regulam a triagem, recolha seletiva, valorização e tratamento de resíduos sólidos urbanos nos municípios do Baixo Cávado, abrangendo os Municípios de Braga, Póvoa de Lanhoso, Vieira do Minho, Amares, Vila Verde e Terras de Bouro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2025 - Diário da República n.º 160/2025, Série I de 2025-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2025-932837042), em vigor a partir de 2025-08-22
+
+###### Artigo 3.º — Extinção do sistema multimunicipal e transferência de bens
+
+1 - O sistema multimunicipal de triagem, recolha seletiva, valorização e tratamento de resíduos sólidos urbanos do Baixo Cávado extingue-se no dia 1 de janeiro de 2027.
+
+2 - No termo do prazo referido no número anterior, os bens afetos à concessão que sejam propriedade da concessionária transferem-se, livres de quaisquer ónus ou encargos e em perfeitas condições de operacionalidade, utilização e manutenção, para a entidade intermunicipal que os municípios utilizadores encarreguem da gestão do sistema intermunicipal, nos termos do disposto no Decreto-Lei n.º 194/2009, de 20 de agosto, na sua redação atual.
+
+3 - Os bens, direitos e relações jurídicas referidos no presente artigo mantêm-se na titularidade da concessionária, caso seja designada entidade gestora delegatária, nos termos do estatuído no Decreto-Lei n.º 194/2009, de 20 de agosto, e desde que a respetiva estrutura acionista assegure o cumprimento do disposto no n.º 3 do artigo 68.º do regime do setor empresarial local, nos termos da Lei n.º 50/2012, de 31 de agosto.
+
+4 - Nos 30 dias que antecedem o termo do prazo previsto no n.º 1, os municípios utilizadores indicam ao membro do Governo responsável pela área do ambiente qual a entidade intermunicipal para a qual devem ser transferidos os referidos bens, direitos e relações jurídicas, sob pena de a posse dos bens afetos à concessão ser transferida para o conjunto dos municípios utilizadores.
+
+5 - A posse dos bens é transferida nos termos do disposto no número anterior, sem dependência de qualquer formalidade, com exceção da realização de uma vistoria ad perpetuam rei memoriam, para a qual são convocados os representantes da concessionária, lavrando-se auto de vistoria do qual deve constar o inventário dos bens e equipamentos anteriormente afetos à concessão, bem como, a descrição do seu estado de conservação e respetiva aptidão para o desempenho da sua função no sistema.
+
+6 - No termo do prazo referido no n.º 1, transferem-se, ainda, para a entidade intermunicipal ou para o conjunto dos municípios utilizadores:
+
+a) Os direitos privativos de propriedade intelectual e industrial de que a concessionária seja titular;
+
+b) Quaisquer fundos ou reservas consignadas à garantia do cumprimento das obrigações da concessionária;
+
+c) A totalidade das relações jurídicas que se encontrem diretamente relacionadas com a continuidade da exploração da concessão, designadamente, as de natureza laboral, de empreitada, de locação e de prestação de serviços.
+
+7 - Caso não seja designada entidade gestora delegatária nos termos do n.º 3, a concessionária tem direito a um montante calculado em função do valor contabilístico corrigido da depreciação monetária, líquido de amortizações fiscais, dos bens que tenham resultado de novos investimentos de expansão ou de modernização do sistema não previstos no contrato de concessão feitos a seu cargo, aprovados ou impostos pelo concedente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 98/2025 - Diário da República n.º 160/2025, Série I de 2025-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-2025-932837042), em vigor a partir de 2025-08-22
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 13 de julho de 2023. - António Luís Santos da Costa - Sofia Alves de Aguiar Batalha - Jorge Moreno Delgado - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
+
+Promulgado em 17 de agosto de 2023.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 17 de agosto de 2023.
+
+Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+116784208

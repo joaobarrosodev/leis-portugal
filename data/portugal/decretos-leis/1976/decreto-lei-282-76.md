@@ -1,0 +1,557 @@
+---
+schema_version: '1.0'
+id: pt:dre:502192:por
+title: Decreto-Lei n.º 282/76
+short_title: null
+summary: Determina que o quadro do pessoal dos Serviços de Polícia e de Transportes da Marinha (QPSPTM), criado pelo Decreto-Lei
+  n.º 190/75 e constituído por pessoal militarizado, passe a designar-se quadro do pessoal militarizado da Marinha (QPMM)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 282/76
+official_date: null
+publication_date: '1976-04-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/1976, Série I de 1976-04-20
+  number: '93'
+  series: I
+  supplement: null
+  pages: 833 - 837
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/04/09300/08330837.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2006-01-01'
+version_history:
+  file: decreto-lei-282-76.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1976-04-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-08-15'
+    amending: pt:dre:299628:por
+    amending_title: Decreto-Lei n.º 227/78
+    changes:
+    - Altera Artigo 18.º
+  - date: '1978-10-04'
+    amending: pt:dre:329022:por
+    amending_title: Decreto-Lei n.º 297/78
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+  - date: '1985-10-01'
+    amending: pt:dre:176991:por
+    amending_title: Decreto-Lei n.º 376/85
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+  - date: '2006-01-01'
+    amending: pt:dre:464776:por
+    amending_title: Decreto-Lei n.º 219/2005
+    changes:
+    - Altera Artigo 25.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/282/1976/p/cons/20051223/pt/html
+  oj: null
+  dre: '502192'
+  dre_path: /dr/detalhe/decreto-lei/282-1976-502192
+  internal: pt:dre:502192:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/282-1976-502192
+  metadata_url: https://data.dre.pt/eli/dec-lei/282/1976/p/cons/20051223/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1976-836144633
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1976-836144633
+  retrieved_at: '2026-10-22T13:02:04Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8c2455bd38fd880f09a7134d3803e8d5924a10897e9146ec336470b6938a7e2d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:02:04Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-282-76.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Marinha
+- Pessoal Militarizado
+- Quadro de Pessoal
+- Serviços de Polícia e dos Transportes da Marinha
+relationships:
+- type: amended_by
+  target: pt:dre:408545:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1976-408545
+  date: '1976-09-16'
+- type: amended_by
+  target: pt:dre:299628:por
+  label: Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1978-299628
+  date: '1978-08-10'
+- type: amended_by
+  target: pt:dre:329022:por
+  label: Altera Artigo 12.º; Altera Artigo 22.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1978-329022
+  date: '1978-09-29'
+- type: amended_by
+  target: pt:dre:386424:por
+  label: Altera Artigo 12.º; Altera Artigo 22.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1984-386424
+  date: '1984-06-08'
+- type: amended_by
+  target: pt:dre:176991:por
+  label: Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo
+    14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1985-176991
+  date: '1985-09-26'
+- type: amended_by
+  target: pt:dre:464776:por
+  label: Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2005-464776
+  date: '2005-12-23'
+article_structure:
+  article_count: 31
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:02:04Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 282/76
+
+Decreto-Lei n.º 282/76
+
+de 20 de Abril
+
+O Decreto-Lei n.º 190/75, de 12 de Abril, criou o quadro do pessoal dos Serviços de Polícia e de Transportes da Marinha (QPSPTM) e incluiu neste quadro determinados grupos de pessoal do quadro do pessoal civil do Ministério da Marinha (QPCMM), cujas tarefas justificavam melhor a sua inclusão num quadro de pessoal militarizado do que num quadro de pessoal civil.
+
+Existem, no entanto, outros grupos de pessoal do QPCMM que, não só pela natureza das funções que desempenham, como, muito particularmente, pelos horários de trabalho que praticam, o que os coloca em situação idêntica à do pessoal militar, se veio a reconhecer necessário integrar no QPSPTM.
+
+Tal integração obriga a mudar a designação de QPSPTM para quadro do pessoal militarizado da Marinha e, consequentemente, a substituir o Decreto-Lei n.º 190/75;
+
+Nestes termos:
+
+Usando dos poderes conferidos pelo artigo 6.º da Lei n.º 5/75, de 14 de Março, o Conselho da Revolução decreta e eu promulgo, para valer como lei, o seguinte:
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 248/95 - Diário da República n.º 219/1995, Série I-A de 1995-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1995-566656) São revogadas as disposições do Decreto-Lei n.º 282/76, de 20 de Abril, que contemplam os grupos 1 (Polícia Marítima) e 3 (cabos-de-mar).
+
+###### Artigo 1.º
+
+1. O quadro do pessoal dos Serviços de Polícia e de Transportes da Marinha (QPSPTM), criado pelo Decreto-Lei n.º 190/75, de 12 de Abril, e constituído por pessoal militarizado, passa a designar-se quadro do pessoal militarizado da Marinha (QPMM).
+
+2. O QPMM é único, sendo o pessoal que o integra distribuído pelos organismos da Marinha, conforme as necessidades do serviço.
+
+###### Artigo 2.º
+
+1 - O QPMM compreende o pessoal pertencente aos seguintes grupos:
+
+a) Grupo 1 - Polícia Marítima;
+
+b) Grupo 2 - Polícia dos Estabelecimentos de Marinha;
+
+c) Grupo 3 - Cabos-de-mar;
+
+d) Grupo 4 - Troço do mar;
+
+e) Grupo 5 - Práticos da Costa do Algarve;
+
+f) Grupo 6 - Faroleiros.
+
+2. Ao pessoal dos grupos 1 e 3 compete a acção fiscalizadora e de polícia prevista no Regulamento Geral das Capitanias e demais legislação em vigor.
+
+3. Ao pessoal do grupo 2 compete a guarda e segurança dos estabelecimentos da Marinha.
+
+4. O pessoal do grupo 4 destina-se ao serviço das embarcações portuárias da Marinha, em terra ou a bordo, e agrupa-se em três classes: a de manobra, a de máquinas e a de electricidade.
+
+5. Ao pessoal do grupo 5 compete desempenhar funções de pilotagem dos portos e barras do Algarve, embarcando nos navios de guerra em missão de fiscalização na costa sul e noutros navios de guerra que requisitam os seus serviços para demandar os portos e barras do Algarve.
+
+6. Ao pessoal do grupo 6 compete desempenhar, de acordo com a legislação relativa ao serviço de faróis, funções respeitantes ao assinalamento marítimo, de vigilância e de socorro.
+
+7. Quando todo o pessoal que, à data da entrada em vigor deste decreto-lei, constituir os efectivos do grupo 3 tiver passado à aposentação e, nos termos do n.º 2 do artigo 16.º, as funções cometidas a este grupo estiverem a ser desempenhadas unicamente por pessoal do grupo 1, o grupo 3 será extinto.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191/84 - Diário da República n.º 133/1984, Série I de 1984-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1984-386424), em vigor a partir de 1984-01-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1976, Série I de 1976-09-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-408545), em vigor a partir de 1976-04-25
+
+###### Artigo 3.º
+
+As categorias do pessoal do QPMM são as indicadas no quadro anexo a este diploma, as quais poderão ser alteradas por decreto referendado pelo Ministro das Finanças.
+
+###### Artigo 4.º
+
+1. Os grupos que constituem o QPMM exercem a autoridade que lhes é conferida pela legislação em vigor.
+
+2. O pessoal do QPMM fica sujeito ao foro militar e à disciplina militar, na parte aplicável a militares, atentas as equivalências estabelecidas no quadro anexo a este decreto-lei.
+
+3. O referido pessoal fica sujeito, no âmbito do respectivo quadro, às disposições do Regulamento de Continências e Honras Militares e presta continência militar aos oficiais generais e oficiais superiores das forças armadas e aos respectivos superiores hierárquicos.
+
+> Nota: [Acórdão n.º 308/90 - Diário da República n.º 17/1991, Série I-A de 1991-01-21](https://diariodarepublica.pt/dr/detalhe/acordao/308-1991-497191) Declara a inconstitucionalidade, com força obrigatória geral, da norma constante do n.º 2 do artigo 4.º do presente Decreto-Lei, por violação dos artigos 27.º e 215.º da Constituição; Os efeitos da inconstitucionalidade são limitados à data da publicação do acórdão no Diário da República (21-01-1991).
+
+###### Artigo 5.º
+
+O pessoal do QPMM é obrigado ao uso de uniformes, nas condições que forem estabelecidas em regulamento a aprovar por portaria do Chefe do Estado-Maior da Armada.
+
+###### Artigo 6.º
+
+O pessoal dos grupos 1, 2 e 3 tem direito ao uso e porte de arma, nas mesmas condições que as estabelecidas para os militares da Armada.
+
+###### Artigo 7.º
+
+1 - A administração do pessoal do QPMM compete à Direcção do Serviço do Pessoal, designadamente no que respeita a admissão, promoção, movimento e registo.
+
+2 - Compete à mesma Direcção distribuir aquele pessoal pelos organismos da Marinha, de acordo com as lotações que forem estabelecidas por despacho do Chefe do Estado-Maior da Armada.
+
+3. Parte das atribuições a que se refere este artigo podem ser conferidas, relativamente ao pessoal que constitui cada um dos grupos do n.º 1 do artigo 2.º, ao oficial que comandar ou dirigir superiormente o pessoal desse grupo, em condições a definir por despacho do Chefe do Estado-Maior da Armada.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191/84 - Diário da República n.º 133/1984, Série I de 1984-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1984-386424), em vigor a partir de 1984-01-01
+
+###### Artigo 8.º
+
+1. Salvo casos regidos por lei especial, o ingresso em cada um dos grupos referidos no n.º 1 do artigo 2.º realiza-se mediante concurso, observadas as disposições legais em vigor, e de acordo com instruções aprovadas por despacho do Chefe do Estado-Maior da Armada.
+
+2. Os concursos feitos no âmbito do quadro do pessoal civil do Ministério da Marinha (QPCMM) com destino aos grupos extintos por este diploma são considerados válidos para os fins indicados no número anterior, mantendo-se para os referidos concursos os respectivos prazos de validade.
+
+3. Os concursos para o preenchimento das vagas que ocorrerem nos grupos 1 e 3, tendo em vista o disposto no n.º 7 do artigo 2.º, serão comuns e o ingresso dos concorrentes será feito, unicamente, na categoria de agente de 3.ª classe.
+
+4. As habilitações mínimas referidas no Decreto-Lei n.º 49410, de 24 de Novembro de 1969, ou outras que venham a ser estabelecidas podem ser substituídas por habilitações adquiridas nos estabelecimentos de ensino da Marinha.
+
+5. Aos concursos referidos no n.º 1 deste artigo poderão ser admitidos indivíduos do sexo feminino, devendo definir-se, por despacho do Chefe do Estado-Maior da Armada, quais os grupos em que tais indivíduos poderão ser admitidos, bem como as suas funções e efectivos.
+
+###### Artigo 9.º
+
+1 - O ingresso no grupo 1 - Polícia Marítima efectua-se na categoria de agente de 3.ª classe.
+
+2. A promoção de agente de 3.ª classe a agente de 2.ª classe realiza-se por diuturnidade, após quatro anos de serviço efectivo naquela categoria.
+
+3 - A promoção a chefe efectua-se por concurso entre os subchefes com, pelo menos, 2 anos de serviço efectivo nesta categoria.
+
+4 - A promoção a subinspector efectua-se por concurso entre os elementos com categoria de chefe ou de subchefe que a esta última categoria tenham ascendido por concurso.
+
+5. A promoção a inspector efectua-se por concurso entre os elementos com a categoria de chefe ou subinspector.
+
+6 - As restantes promoções realizam-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com as proporções a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal, privilegiando-se a antiguidade na categoria mais baixa e a escolha na categoria mais elevada.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 376/85 - Diário da República n.º 222/1985, Série I de 1985-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1985-176991), em vigor a partir de 1985-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191/84 - Diário da República n.º 133/1984, Série I de 1984-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1984-386424), em vigor a partir de 1984-01-01
+
+###### Artigo 10.º
+
+1 - O ingresso no grupo 2 - Polícia dos Estabelecimentos de Marinha efectua-se na categoria de guarda auxiliar.
+
+2. A promoção a guarda de 3.ª classe efectua-se por concurso entre os guardas auxiliares.
+
+3. A promoção de guarda de 3.ª classe a guarda de 2.ª classe realiza-se por diuturnidade, após quatro anos de serviço efectivo.
+
+4 - A promoção a chefe efectua-se por concurso entre os subchefes com, pelo menos, 2 anos de serviço efectivo nesta categoria.
+
+5 - A promoção a subinspector efectua-se por concurso entre os elementos com a categoria de chefe ou de subchefe que a esta última categoria tenham ascendido por concurso.
+
+6. A promoção a inspector efectua-se por concurso entre os elementos com a categoria de chefe ou subinspector.
+
+7 - As restantes promoções realizam-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com as proporções a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal, privilegiando-se a antiguidade na categoria mais baixa e a escolha na categoria mais elevada.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 376/85 - Diário da República n.º 222/1985, Série I de 1985-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1985-176991), em vigor a partir de 1985-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191/84 - Diário da República n.º 133/1984, Série I de 1984-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1984-386424), em vigor a partir de 1984-01-01
+
+###### Artigo 11.º
+
+1. O ingresso no grupo 3 - cabos-de-mar - somente é permitido aos indivíduos que se encontrem nas condições do n.º 2 do artigo 8.º e efectua-se na categoria de cabo-de-mar de 3.ª classe.
+
+2. A promoção de cabo-de-mar de 3.ª classe a cabo-de-mar de 2.ª classe realiza-se por diuturnidade, após quatro anos de serviço efectivo naquela categoria.
+
+3 - A promoção a cabo-de-mar-chefe efectua-se por concurso entre os cabos-de-mar-subchefes com, pelo menos, 2 anos de serviço efectivo nesta categoria.
+
+4 - As restantes promoções realizam-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com as proporções a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal, privilegiando-se a antiguidade na categoria mais baixa e a escolha na categoria mais elevada.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 376/85 - Diário da República n.º 222/1985, Série I de 1985-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1985-176991), em vigor a partir de 1985-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191/84 - Diário da República n.º 133/1984, Série I de 1984-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1984-386424), em vigor a partir de 1984-01-01
+
+###### Artigo 12.º
+
+1. O ingresso no grupo 4 - troço do mar - efectua-se nas categorias de ajudante de manobra, de ajudante de maquinista e de ajudante de electricista.
+
+2. As promoções a sota-patrão de costa de 2.ª classe, a maquinista de 3.ª classe e a electricista de 3.ª classe realizam-se por concurso entre, respectivamente, os ajudantes de manobra, os ajudantes de maquinista e os ajudantes de electricista.
+
+3. As promoções de sota-patrão de costa de 2.ª classe, de maquinista de 3.ª classe e de electricista de 3.ª classe a, respectivamente, sota-patrão de costa de 1.ª classe, maquinista de 2.ª classe e electricista de 2.ª classe realizam-se por diuturnidade, após quatro anos de serviço efectivo naquelas categorias.
+
+4 - As promoções de sota-patrão de costa de 1.ª classe, de maquinista de 2.ª classe e de electricista de 2.ª classe às categorias imediatamente superiores efectuam-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com a proporção a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal.
+
+5. As promoções de patrão de costa, de maquinista de 1.ª classe e de electricista de 1.ª classe a, respectivamente, cabo da ponte, maquinista-chefe e electricista-chefe realizam-se por concurso entre os indivíduos com, pelo menos, dois anos de serviço efectivo naquelas categorias.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 376/85 - Diário da República n.º 222/1985, Série I de 1985-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1985-176991), em vigor a partir de 1985-10-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 297/78 - Diário da República n.º 225/1978, Série I de 1978-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1978-329022), em vigor a partir de 1978-10-04
+
+###### Artigo 13.º
+
+1. O ingresso no grupo 5 - práticos da costa do Algarve - efectua-se na categoria de prático de 2.ª classe.
+
+2 - A promoção a prático de 1.ª classe efectua-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com a proporção a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal.
+
+3. A promoção a prático-mor efectua-se por concurso entre os práticos de 1.ª classe com, pelo menos, dois anos de serviço efectivo nesta categoria.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 376/85 - Diário da República n.º 222/1985, Série I de 1985-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1985-176991), em vigor a partir de 1985-10-01
+
+###### Artigo 14.º
+
+1. O ingresso no grupo 6 - faroleiros - efectua-se na categoria de faroleiro auxiliar.                                                          2. A promoção a faroleiro de 3.ª classe efectua-se por concurso entre os faroleiros auxiliares.
+
+3. A promoção de faroleiro de 3.ª classe a faroleiro de 2.ª classe realiza-se por diuturnidade, após quatro anos de serviço efectivo naquela categoria.
+
+4 - A promoção de faroleiro de 2.ª classe a faroleiro de 1.ª classe efectua-se por antiguidade e escolha com doseamento sequencial de ambas as modalidades de promoção e de acordo com a proporção a fixar por despacho do Chefe do Estado-Maior da Armada, sob proposta do director do Serviço do Pessoal.
+
+5. A promoção a faroleiro-subchefe efectua-se por concurso entre os faroleiros de 1.ª classe com, pelo menos, dois anos de serviço efectivo nesta categoria.
+
+6. A promoção a faroleiro-chefe efectua-se por concurso entre os faroleiros-subchefes e, em caso de necessidade, os faroleiros de 1.ª classe do terço superior dos que tenham condições de promoção à categoria imediata.
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 376/85 - Diário da República n.º 222/1985, Série I de 1985-09-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1985-176991), em vigor a partir de 1985-10-01
+
+###### Artigo 15.º
+
+1. O funcionamento dos concursos referidos nos artigos anteriores, respectivos programas e formas de classificação e as condições gerais e especiais a satisfazer para as promoções às várias categorias serão fixados por portaria do Chefe do Estado-Maior da Armada.
+
+2. Nas promoções referidas nos artigos anteriores, o tempo de serviço efectivo que seja necessário para promoção engloba o que foi prestado nas categorias dos grupos extintos, donde o pessoal transitou por força do Decreto-Lei n.º 190/75 e do presente diploma.
+
+###### Artigo 16.º
+
+1. Os indivíduos que ingressem no QPMM receberão instrução profissional adequada às funções que vão desempenhar.
+
+2. Até à extinção do grupo 3, a instrução a dar ao pessoal dos grupos 1 e 3 visará habilitá-lo a desempenhar indiferentemente as funções que competem a ambos os grupos.
+
+3. O pessoal do grupo XII (mateiros) e os guardas de museu do grupo XXII do QPCMM, que, nos termos do Decreto-Lei n.º 190/75, foram transferidos para o grupo 2 do QPSPTM devem receber a instrução profissional que for considerada necessária para a sua integração no referido grupo.
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 248/95 - Diário da República n.º 219/1995, Série I-A de 1995-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1995-566656) São revogadas as disposições do Decreto-Lei n.º 282/76, de 20 de Abril, que contemplam os grupos 1 (Polícia Marítima) e 3 (cabos-de-mar).
+
+###### Artigo 17.º
+
+A prestação de serviço do pessoal do QPMM é feita, no que se refere a horários, em condições idênticas às do pessoal militar da Armada.
+
+###### Artigo 18.º
+
+1. O pessoal do QPMM tem direito a vencimentos de quantitativos iguais aos soldos, ordenados e prés dos militares da Armada dos quadros permanentes, segundo a equiparação constante do quadro anexo a este diploma.
+
+2 - O regime de diuturnidades do mesmo pessoal será igual ao estabelecido para o pessoal militar.
+
+3 - A contagem de tempo de serviço para abonos de diuturnidades é feita:
+
+a) A partir da data de ingresso no QPMM; ou
+
+b) Para os indivíduos transferidos para o QPMM ao abrigo do artigo 22.º do Decreto-Lei n.º 190/75, ou do artigo 24.º do presente diploma, a partir da data de ingresso no QPCMM; e ainda
+
+c) Para os indivíduos oriundos de qualquer dos ramos das Forças Armadas, dos quadros da Polícia de Segurança Pública, Guarda Nacional Republicana e Guarda Fiscal, da função pública e pessoal civil das Forças Armadas e ainda dos quadros do pessoal militarizado dos ramos onde eles existam, a partir da data de ingresso nesses ramos e quadros.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191/84 - Diário da República n.º 133/1984, Série I de 1984-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1984-386424), em vigor a partir de 1984-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 227/78 - Diário da República n.º 183/1978, Série I de 1978-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/227-1978-299628), em vigor a partir de 1978-08-15
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1976, Série I de 1976-09-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-408545), em vigor a partir de 1976-04-25
+
+###### Artigo 19.º
+
+1 - O pessoal do QPMM, além dos abonos e subsídios comuns a todos os servidores do Estado, tem direito ainda aos seguintes:
+
+a) Suplemento de condição de militarizados da Marinha;
+
+b) Subsídio de embarque;
+
+c) Gratificação de instrução;
+
+d) Abono para fardamento;
+
+e) Abono de alimentação;
+
+f) Subsídio mensal de deslocamento;
+
+g) Subsídio para funeral.
+
+2 - O suplemento de condição de militarizado da Marinha, em quantitativos iguais a 100% do suplemento de condição militar, instituído pelo n.º 1 do artigo 2.º do Decreto-Lei n.º 190/88, de 28 de Maio, é concedido ao pessoal dos seguintes grupos, mencionados no n.º 1 do artigo 2.º, em conformidade com a equiparação referida no artigo anterior:
+
+Grupo 1 - Polícia Marítima;
+
+Grupo 2 - Polícia dos Estabelecimentos de Marinha;
+
+Grupo 3 - Cabos-de-mar;
+
+Grupo 4 - Troço do mar.
+
+3 - O suplemento de condição de militarizado da Marinha, em quantitativos iguais a 83% do suplemento de condição militar anteriormente citado, com arredondamento para a centena de escudos imediatamente superior, é concedido ao pessoal dos seguintes grupos, mencionados no n.º 1 do artigo 2.º, em conformidade com a equiparação referida no artigo anterior:
+
+Grupo 5 - Práticos da costa do Algarve;
+
+Grupo 6 - Faroleiros.
+
+4 - As condições e quantitativos em que são recebidos o subsídio de embarque e a gratificação de instrução referidos nas alíneas b) e c) do n.º 1 são idênticos aos fixados para os militares da Armada, tendo em atenção a equiparação referida no artigo anterior.
+
+5 - O abono para fardamento é concedido em condições idênticas às estabelecidas no regime aplicável aos militares da Armada.
+
+6 - O abono de alimentação é concedido em condições idênticas às estabelecidas no regime de alimentação aplicável ao pessoal dos quadros permanentes da Armada.
+
+7 - O subsídio mensal de deslocamento e respectivo acréscimo é abonado nos mesmos termos e condições em que é abonado aos militares da Armada.
+
+8 - O subsídio para funeral é igual ao estabelecido para os militares da Armada pelo artigo 23.º do Decreto-Lei n.º 30250, de 30 de Dezembro de 1939.
+
+9 - O suplemento de condição de militarizado da Marinha é considerado para os efeitos da alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação, e como tal está sujeito ao desconto de quota para a Caixa Geral de Aposentações.
+
+10 - O suplemento de condição de serviço militarizado da Marinha é considerado no abono dos subsídios de férias e de Natal.
+
+> Nota: [Artigo 8.º, Decreto-Lei n.º 248/95 - Diário da República n.º 219/1995, Série I-A de 1995-09-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1995-566656) São revogadas as disposições do Decreto-Lei n.º 282/76, de 20 de Abril, que contemplam os grupos 1 (Polícia Marítima) e 3 (cabos-de-mar).
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 107/89 - Diário da República n.º 86/1989, Série I de 1989-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1989-615458), produz efeitos a partir de 1988-05-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191/84 - Diário da República n.º 133/1984, Série I de 1984-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1984-386424), em vigor a partir de 1984-01-01
+
+###### Artigo 20.º
+
+1. Ao pessoal do QPMM são atribuídas regalias idênticas às estabelecidas para o pessoal da Armada em tudo o que respeita a assistência médica e medicamentosa, utilização dos estabelecimentos da Marinha de apoio social e benefícios de natureza análoga.
+
+2. Ao pessoal feminino são asseguradas idênticas regalias às que forem concedidas pela função pública, no que se refere às dispensas ou faltas ao serviço inerentes à sua natureza.
+
+###### Artigo 21.º
+
+Os regimes de licenças e de informações do pessoal do QPMM são idênticos aos estabelecidos para os militares da Armada.
+
+###### Artigo 22.º
+
+O cartão de identificação e outros documentos relativos à situação do pessoal do QPMM serão estabelecidos por portaria do Chefe do Estado-Maior da Armada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 297/78 - Diário da República n.º 225/1978, Série I de 1978-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1978-329022), em vigor a partir de 1978-10-04
+
+###### Artigo 23.º
+
+1. Os elementos do QPMM são abatidos a este quadro em condições análogas àquelas em que os militares da Armada são demitidos ou transferidos para os quadros de complemento.
+
+2. os indivíduos a que se refere o número anterior são incluídos na reserva marítima, nas condições estabelecidas na legislação das reservas da Marinha.
+
+3 - O provimento dos elementos do QPMM nas diversas categorias é feito, de acordo com a legislação em vigor, segundo os regimes seguintes:
+
+a) Serventia vitalícia, para as categorias equiparadas a segundo-sargento e superiores;
+
+b) Serventia por contrato, para as categorias equiparadas a cabo e inferiores.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 297/78 - Diário da República n.º 225/1978, Série I de 1978-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1978-329022), em vigor a partir de 1978-10-04
+
+###### Artigo 24.º
+
+1. Além das categorias dos grupos IX, X, XI, XII e XIV e de guardas do museu do grupo XXII do QPCMM, extintas pelo Decreto-Lei n.º 190/75, são extintas mais as do grupo XIII e as de práticos de costa do Algarve do grupo VIII.
+
+2. Sem prejuízo do disposto no n.º 2 do artigo 22.º do Decreto-Lei n.º 190/75, o pessoal a integrar no QPMM, nos termos do presente diploma, mantém a sua antiguidade relativa e ingressa nas novas categorias de acordo com o sistema seguinte:
+
+a) Os práticos da costa do Algarve, como práticos de 1.ª classe;
+
+b) Os faroleiros-chefes, como faroleiros-subchefes;
+
+c) Os primeiros-faroleiros, como faroleiros de 1.ª classe;
+
+d) Os segundos-faroleiros, como faroleiros de 2.ª classe;
+
+e) Os terceiros-faroleiros, como faroleiros de 3.ª classe;
+
+f) As restantes categorias ingressam nas novas categorias de igual designação.
+
+3. O ingresso nas novas categorias constará da lista aprovada pelo Chefe do Estado-Maior da Armada, a publicar no Diário da República, depois de anotada pela Direcção-Geral do Tribunal de Contas.
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1976, Série I de 1976-09-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-408545), em vigor a partir de 1976-04-25
+
+###### Artigo 25.º
+
+1 - Transita para a situação de aposentação o pessoal que, tendo prestado o tempo de serviço mínimo previsto no Estatuto da Aposentação:
+
+a) Atinja 65 anos de idade;
+
+b) Tenha pelo menos 60 anos de idade e requeira a passagem a essa situação;
+
+c) Seja julgado física ou psiquicamente incapaz para todo o serviço mediante parecer da competente junta médica da Marinha, homologado pelo Chefe do Estado-Maior da Armada.
+
+2 - Para efeitos de cálculo da pensão de aposentação, é concedido ao pessoal do QPMM o acréscimo de 15% sobre o tempo de serviço efectivo prestado.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 219/2005 - Diário da República n.º 245/2005, Série I-A de 2005-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2005-464776) A alteração à alínea b) do n.º 1 do presente artigo entra em vigor em 1 de Janeiro de 2007.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 219/2005 - Diário da República n.º 245/2005, Série I-A de 2005-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-2005-464776), em vigor a partir de 2006-01-01
+
+> Retificado pelo/a [Declaração - Diário da República n.º 218/1976, Série I de 1976-09-16](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-408545), em vigor a partir de 1976-04-25
+
+###### Artigo 26.º
+
+Os efectivos para cada categoria dos grupos de pessoal do QPMM serão fixados por portaria conjunta do Chefe do Estado-Maior da Armada e do Ministro das Finanças.
+
+###### Artigo 27.º
+
+Para o pessoal que ingresse ou seja transferido para o QPMM, ao abrigo do disposto no artigo 24.º, serão considerados válidos os concursos realizados no âmbito dos quadros donde são transferidos, para efeitos de ascensão de categoria ou de reordenamento de antiguidades, bem como os prazos de validade que tenham sido estabelecidos para os referidos concursos.
+
+###### Artigo 28.º
+
+1. São revogadas as gratificações especiais estabelecidas para o pessoal de faróis nos artigos 147.º e 148.º do Decreto com força de lei n.º 21274, de 16 de Abril de 1932.
+
+2 - As gratificações de isolamento de que trata o artigo 146.º do Decreto com força de lei n.º 21274, de 16 de Abril de 1932, são acumuláveis e abonadas ao pessoal do grupo 6 - Faroleiros nos seguintes quantitativos:
+
+a) 3000$00 nos faróis ou farolins de 1.ª classe de isolamento;
+
+b) 2000$00 nos faróis ou farolins de 2.ª classe de isolamento;
+
+c) 600$00 nos faróis ou farolins de 3.ª classe de isolamento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 191/84 - Diário da República n.º 133/1984, Série I de 1984-06-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1984-386424), em vigor a partir de 1984-01-01
+
+###### Artigo 29.º
+
+As alterações introduzidas pelo presente diploma, sem prejuízo do disposto no artigo 26.º do Decreto-Lei n.º 190/75, vigoram a partir do dia 1 do mês seguinte ao da sua publicação no Diário da República, sendo provisoriamente os efectivos das categorias do QPMM os correspondentes aos das categorias extintas nos termos do artigo 24.º do presente diploma, e devendo, no corrente ano, o aumento de encargos resultantes ser suportado por verba global a inscrever no orçamento da Marinha.
+
+###### Artigo 30.º
+
+As dúvidas e os casos omissos suscitados na aplicação deste diploma são esclarecidos por despacho do Chefe do Estado-Maior da Armada e, sendo necessário, do Ministro das Finanças.
+
+###### Artigo 31.º
+
+O presente diploma substitui o Decreto-Lei n.º 190/75, sem prejuízo das disposições que ao abrigo do mesmo decreto-lei foram tomadas.
+
+Visto e aprovado em Conselho da Revolução.
+
+Promulgado em 8 de Abril de 1976.
+
+Publique-se.
+
+O Presidente da República, FRANCISCO DA COSTA GOMES.
+
+## QUADRO — (a que se referem os artigos 3.º, 4.º e 18.º)
+
+(ver documento original)

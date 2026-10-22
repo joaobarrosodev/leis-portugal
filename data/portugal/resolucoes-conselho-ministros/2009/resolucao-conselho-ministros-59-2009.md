@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:492400:por
+title: Resolução do Conselho de Ministros n.º 59/2009
+short_title: null
+summary: Aprova um conjunto de medidas de apoio social aos estudantes do ensino superior
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 59/2009
+official_date: null
+publication_date: '2009-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 132/2009, Série I de 2009-07-10
+  number: '132'
+  series: I
+  supplement: null
+  pages: 4358 - 4359
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/07/13200/0435804359.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/59/2009/07/10/p/dre/pt/html
+  oj: null
+  dre: '492400'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/59-2009-492400
+  internal: pt:dre:492400:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2009-492400
+  metadata_url: https://data.dre.pt/eli/resolconsmin/59/2009/07/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/59-2009-492400
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-07-10T00:00:00Z'
+integrity:
+  source_sha256: 3ba28d7280c6de62ac99e578ff97a090cce55eb94043804eeb3c1808c81b9d82
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-59-492400.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bolseiro
+- Ministro da Ciência Tecnologia e Ensino Superior
+- Programa Erasmus
+- Ministro de Estado e das Finanças
+- Habitação
+- Ensino Superior
+- Bolsa de Estudos
+- Ministro das Obras Públicas Transportes e Comunicações
+- Subsídio de Refeição
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 59/2009
+
+Desde o primeiro dia do seu mandato, o Governo definiu como uma das suas principais prioridades a qualificação dos portugueses. Mais educação, durante mais tempo, para mais alunos. Esta é uma aposta que deve mobilizar toda a sociedade porque é uma condição indispensável para o desenvolvimento da economia e para a concretização do ideal de um país de oportunidades para todos.
+
+O ensino superior ocupa naturalmente um lugar de destaque nesta prioridade nacional. Os estudos superiores preparam melhor para a vida activa, favorecem a entrada no mercado de emprego e promovem a difusão do conhecimento e da tecnologia. Por isso a generalização da frequência do ensino superior foi definida como um dos objectivos centrais da acção do Governo.
+
+Neste âmbito, foi também fixado o objectivo de modernizar e internacionalizar o ensino superior português. Para isso, procedeu-se à sua adequação ao processo de Bolonha, integrando-o plenamente no espaço europeu de ensino superior. Neste mesmo contexto, incentivou-se a internacionalização das universidades e institutos politécnicos, promovendo acordos de cooperação com centros de referência ao nível mundial, como o Massachusetts Institute of Technology ou as universidades do Texas, em Austin, de Harvard ou de Carnegie Mellon. Reformou-se o regime jurídico e de governo das universidades e institutos politécnicos, favorecendo a assunção de mais autonomia e mais responsabilidades e fortalecendo as lideranças. Criou-se um sistema de avaliação externa de cursos e instituições e não se hesitou em encerrar aquelas que deixaram de ter condições para funcionar. Criaram-se novas oportunidades para a frequência do ensino superior, atraindo novos públicos e favorecendo a mobilidade nacional e internacional dos estudantes.
+
+Neste esforço reformista, o Governo sempre contou com o empenhamento das instituições de ensino superior e com a dedicação dos seus alunos e professores. Foi assim possível, nas condições de restrição orçamental de todos conhecidas, fazer crescer o sistema de ensino superior e melhorar a sua eficiência.
+
+Em primeiro lugar, cresceu o número de novos inscritos no ensino superior. No presente ano lectivo, são 115 mil os inscritos pela primeira vez no 1.º ano de um curso superior, o que é o valor mais alto da última década. E, hoje, 35 % dos jovens com 20 anos de idade frequenta um curso superior, o que nos coloca próximos da média europeia.
+
+Em segundo lugar, aumentaram os diplomados no nosso ensino superior, no conjunto dos ciclos de estudos e com especial importância nos doutoramentos. São agora cerca de 1500 os novos doutoramentos realizados e reconhecidos, anualmente, pelas universidades portuguesas. E metade são doutoramentos nas áreas de ciência e tecnologia, isto é, em áreas críticas para a modernização económica.
+
+Em terceiro lugar, investiu-se nas áreas de formação em que Portugal estava mais carenciado e, em particular, nas ciências da saúde. Assim, criou-se um novo curso de Medicina, na Universidade do Algarve, e aumentou-se significativamente o número de vagas para os cursos de Medicina. Entre 2004 e 2008, estas vagas cresceram 36 %, dando deste modo um passo decisivo para resolver o problema da falta de médicos no Serviço Nacional de Saúde.
+
+Finalmente, melhorou substancialmente a qualificação do corpo docente e de investigação. 65 % dos docentes das universidades públicas possuem o grau de doutor, o que é a proporção mais alta alguma vez atingida. O número de investigadores duplicou em 10 anos e quase metade dos investigadores são mulheres, o que coloca Portugal numa das posições mais favoráveis no conjunto dos países desenvolvidos.
+
+Neste esforço de reforma e modernização do ensino superior, o Governo teve sempre como eixo central das suas políticas a criação das melhores condições para que os alunos frequentem com êxito os cursos que escolheram. Para isso foram tomadas duas decisões fundamentais.
+
+A primeira decisão foi o reforço da acção social escolar, com o crescimento do número de bolseiros e o aumento da dotação orçamental para os serviços de acção social. Hoje, mais de 73 mil estudantes, correspondendo a um quinto do total de alunos, beneficiam da acção social escolar.
+
+A segunda decisão foi a criação dos empréstimos para estudos superiores, uma medida há muito estudada e prometida que este Governo finalmente efectivou. Cerca de 6500 estudantes beneficiam de empréstimos para realizar os seus estudos, com garantia do Estado.
+
+Mas as dificuldades que vivemos, por efeito da crise económica internacional, exigem um esforço adicional do Estado social, isto é, de todos nós, para apoiar as famílias no melhor investimento que podem fazer para o futuro dos seus filhos, que é proporcionar-lhes estudos superiores. E este esforço deve fazer-se, sobretudo, em favor das famílias com menores rendimentos.
+
+Neste sentido, o Governo decidiu tomar as seguintes medidas:
+
+Aumento extraordinário, em 10 %, do valor das bolsas de acção social escolar no ensino superior para estudantes não deslocados e de 15 % para estudantes deslocados, medida que beneficia um em cada cinco estudantes, num total superior a 73 mil, podendo o aumento anual da bolsa chegar, nos estudantes mais carenciados que estejam deslocados da sua família, aos (euro) 700;
+
+Aumento em 50 % do valor da sua bolsa Erasmus para os estudantes bolseiros da acção social que se encontrem em mobilidade internacional ao abrigo do Programa Erasmus, mantendo totalmente o direito à bolsa de acção social durante a estada no estrangeiro;
+
+Alargamento do passe escolar aos jovens que frequentem o ensino superior até aos 23 anos, inclusive, através da criação de um novo passe designado «sub23@superior.tp». Assim, a redução em 50 % do preço da assinatura mensal nos transportes urbanos, que hoje abrange os alunos até aos 18 anos, passará a beneficiar também os estudantes do ensino superior, qualquer que seja a instituição, pública ou privada, que frequentem. O passe será válido em mais de 120 operadores de transportes a nível nacional, a que acrescem os transportes de iniciativa municipal que a ele adiram. É, portanto, uma medida que apoia as famílias em despesas essenciais, ao mesmo tempo que incentiva o uso dos transportes públicos;
+
+A título excepcional, garantia de que não haverá, no próximo ano lectivo, qualquer aumento do preço mínimo das refeições e do preço do alojamento;
+
+Lançamento, em colaboração com os municípios interessados, de um programa de reforço do investimento, em regime de concessão, em residências universitárias. Este programa tem um duplo objectivo: reforçar o número de lugares disponíveis para estudantes deslocados e contribuir para qualificar, com a presença de jovens estudantes, as zonas históricas das cidades.
+
+São novos apoios aos estudantes do ensino superior, para que ninguém fique excluído, por razões económicas, da frequência das universidades e politécnicos, para que cada um dos nossos jovens possa prolongar os estudos até ao mais alto nível possível de formação e possa, assim, não só encontrar as condições para a melhor realização pessoal, como também contribuir para o progresso de Portugal e dos Portugueses.
+
+Estas medidas representam encargos para o Orçamento de Estado. Mas não são despesa supérflua ou inútil. Pelo contrário, são investimento na qualificação, no capital humano, que é a maior riqueza de um país.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Incumbir o Ministro da Ciência, Tecnologia e Ensino Superior de promover as medidas necessárias com vista a:
+
+a) Proceder ao aumento extraordinário, no ano lectivo de 2009-2010, das bolsas de estudo dos estudantes do ensino superior não deslocados em 10 % e das bolsas de estudo dos estudantes do ensino superior deslocados em 15 %;
+
+b) Manter, no ano lectivo de 2009-2010, o preço das refeições subsidiadas servidas nas cantinas dos serviços de acção social das instituições de ensino superior públicas;
+
+c) Manter, no ano lectivo de 2009-2010, o preço do alojamento para bolseiros nas residências dos serviços de acção social das instituições de ensino superior públicas;
+
+d) Assegurar a manutenção do direito à bolsa de estudo aos bolseiros do ensino superior em mobilidade ao abrigo do Programa Erasmus;
+
+e) Aumentar em 50 % o valor da bolsa Erasmus para os estudantes do ensino superior que sejam beneficiários de bolsa de estudo.
+
+2 - Incumbir os Ministros de Estado e das Finanças, das Obras Públicas, Transportes e Comunicações e da Ciência, Tecnologia e Ensino Superior da adopção das providências necessárias à concretização das medidas referidas no número anterior e da implementação do novo passe designado «sub23@superior.tp», que abrange o alargamento do passe escolar aos estudantes do ensino superior até aos 23 anos, inclusive.
+
+3 - A presente resolução produz efeitos desde a data da sua aprovação.
+
+Presidência do Conselho de Ministros, 1 de Julho de 2009. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

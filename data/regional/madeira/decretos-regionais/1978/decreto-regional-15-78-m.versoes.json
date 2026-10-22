@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:446152:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regional/1978-182897083",
+ "dre_path": "/dr/detalhe/decreto-regional/15-1978-446152",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1978-03-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "182894827",
+    "182894786",
+    "182894787",
+    "182894788",
+    "182894789",
+    "182894790",
+    "182894791"
+   ]
+  },
+  {
+   "date": "1981-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:573895:por",
+     "title": "Decreto Regional n.º 11/81/M",
+     "published": "1981-05-15",
+     "dre_path": "/dr/detalhe/decreto-regional/11-1981-573895"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "182894785",
+    "182894786",
+    "182894802",
+    "182894788",
+    "182894789",
+    "182894790",
+    "182894791",
+    "182894792"
+   ]
+  },
+  {
+   "date": "2022-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:182872993:por",
+     "title": "Decreto Legislativo Regional n.º 8/2022/M",
+     "published": "2022-05-03",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2022-182872993"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "182894827",
+    "182894828",
+    "182894829",
+    "182894830",
+    "182894831",
+    "182894832",
+    "182894833",
+    "182894834"
+   ]
+  }
+ ],
+ "fragments": {
+  "182894827": {
+   "fragment_id": "182897084",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-06-02",
+   "changed_by": [],
+   "markdown": "Decreto Regional n.º 15/78/M\n\nAs ilhas Selvagens são parte integrante do território da Região Autónoma da Madeira. Assim, nos termos constitucionais, compete à Assembleia Regional legislar sobre matéria que lhes diga respeito e não se situe no âmbito da competência reservada aos órgãos de soberania.\n\nAs ilhas Selvagens foram transformadas em reserva pelo Decreto-Lei n.º 458/71, de 29 de Outubro, com base na Lei n.º 9/70, revogada pelo Decreto-Lei n.º 613/76, de 27 de Julho.\n\nInteressa agora que, na Região Autónoma da Madeira, o regime das reservas e parques criado com base naquela lei se adapte à configuração das instituições autonómicas criadas pela Constituição de 1976, com respeito dos compromissos internacionais e da eficiência que se pretende no devido acautelar dos legítimos interesses em equação.\n\nAcresce, no entanto, que o Governo da Região Autónoma da Madeira, neste caso, não pode por si só garantir a defesa do património regional, pelo que se prevê no presente diploma o recurso à colaboração, assistência e intervenção de departamentos do Estado.\n\nAssim, nos termos da alínea b) do artigo 22.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, a Assembleia Regional da Região Autónoma da Madeira determina, para valer como lei:"
+  },
+  "182894786": {
+   "fragment_id": "182897085",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - As ilhas Selvagens, constituídas em reserva pelo Decreto-Lei n.º 458/71, de 29 de Outubro, passam a ser classificadas como reserva natural.\n\n2 - A reserva natural é definida pelo território das ilhas e pelos fundos marinhos até à batimétrica dos 1000 m."
+  },
+  "182894787": {
+   "fragment_id": "182897086",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Compete ao Governo Regional elaborar o plano de ordenamento e o regulamento da reserva, no prazo de seis meses, a contar da publicação da portaria conjunta do Secretário de Estado do Ambiente e do Chefe do Estado-Maior da Armada sobre a matéria, nos termos das bases aprovadas pela Assembleia da República.\n\n2 - Para os efeitos do n.º 1 deste artigo, o Governo Regional deverá solicitar a colaboração dos competentes serviços do Estado, bem como de outras entidades de reconhecida competência na matéria."
+  },
+  "182894788": {
+   "fragment_id": "182897087",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão proibidos na área da reserva natural das ilhas Selvagens:\n\na) A realização de quaisquer trabalhos, obras ou actividades profissionais sem autorização do Governo Regional;\n\nb) A utilização de fundeadouros fora das zonas especialmente destinadas a esse fim;\n\nc) O acesso de pessoas, excepto mediante autorização do Governo Regional, que a concederá apenas para fins de estudo, de resolução de problemas técnicos ou a visitantes acompanhados por pessoas devidamente credenciadas, ou em estado de necessidade;\n\nd) A introdução de veículos terrestres, excepto mediante autorização do Governo Regional;\n\ne) O sobrevoo por aeronaves a altitude inferior a 200 m, excepto em operações aéreas necessárias ao funcionamento da reserva ou em estado de necessidade;\n\nf) A introdução de espécies animais ou vegetais terrestres, a colheita, captura ou perturbações das existentes, bem como a apanha de espécies vegetais marinhas, exceptuados os casos regulamentarmente previstos;\n\ng) A colheita de material geológico ou arqueológico ou a sua exploração sem autorização do Governo Regional;\n\nh) A caça submarina;\n\ni) A pesca de arrasto e outras artes que colidam com o fundo até à batimétrica fixada pela reserva, ressalvando-se as artes de anzol e rede;\n\nj) A utilização para fins comerciais de aparelhos de fotografia, filmagem e radiodifusão sonora ou visual sem autorização do Governo Regional."
+  },
+  "182894789": {
+   "fragment_id": "182897088",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nAs contravenções previstas no artigo anterior, sem prejuízo de outras sanções aplicáveis, não prejudicam quer a obrigação de o infractor demolir à sua custa quaisquer obras ou trabalhos quer a perda, a favor da Região, dos objectos, instrumentos ou outros meios utilizados."
+  },
+  "182894790": {
+   "fragment_id": "182897089",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs dúvidas suscitadas na interpretação e execução do presente diploma são resolvidas por portaria do Governo Regional."
+  },
+  "182894791": {
+   "fragment_id": "182897090",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO presente diploma entra em vigor no dia seguinte ao da publicação da lei da Assembleia da República sobre a assistência do Estado ao Governo Regional da Madeira na defesa das ilhas Selvagens como reserva natural."
+  },
+  "182894785": {
+   "fragment_id": "182897084",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regional n.º 15/78/M\n\nAs ilhas Selvagens são parte integrante do território da Região Autónoma da Madeira. Assim, nos termos constitucionais, compete à Assembleia Regional legislar sobre matéria que lhes diga respeito e não se situe no âmbito da competência reservada aos órgãos de soberania.\n\nAs ilhas Selvagens foram transformadas em reserva pelo Decreto-Lei n.º 458/71, de 29 de Outubro, com base na Lei n.º 9/70, revogada pelo Decreto-Lei n.º 613/76, de 27 de Julho.\n\nInteressa agora que, na Região Autónoma da Madeira, o regime das reservas e parques criado com base naquela lei se adapte à configuração das instituições autonómicas criadas pela Constituição de 1976, com respeito dos compromissos internacionais e da eficiência que se pretende no devido acautelar dos legítimos interesses em equação.\n\nAcresce, no entanto, que o Governo da Região Autónoma da Madeira, neste caso, não pode por si só garantir a defesa do património regional, pelo que se prevê no presente diploma o recurso à colaboração, assistência e intervenção de departamentos do Estado.\n\nAssim, nos termos da alínea b) do artigo 22.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, a Assembleia Regional da Região Autónoma da Madeira determina, para valer como lei:"
+  },
+  "182894802": {
+   "fragment_id": "182897086",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1981-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regional n.º 11/81/M - Diário da República n.º 111/1981, Série I de 1981-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1981-573895), em vigor a partir de 1981-05-16"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Compete ao Governo Regional elaborar o plano de ordenamento e o regulamento da reserva, no prazo de seis meses, a contar da publicação da portaria conjunta do Secretário de Estado do Ambiente e do Chefe do Estado-Maior da Armada sobre a matéria, nos termos das bases aprovadas pela Assembleia da República.\n\n2 - Para os efeitos do n.º 1 deste artigo, o Governo Regional deverá solicitar a colaboração dos competentes serviços do Estado, bem como de outras entidades de reconhecida competência na matéria.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regional n.º 11/81/M - Diário da República n.º 111/1981, Série I de 1981-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1981-573895), em vigor a partir de 1981-05-16"
+  },
+  "182894792": {
+   "fragment_id": "182897091",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em 18 de Janeiro de 1978.\n\nO Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.\n\nAssinado em 2 de Fevereiro de 1978.\n\nO Ministro da República, Lino Dias Miguel."
+  },
+  "182894828": {
+   "fragment_id": "182897085",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - As ilhas Selvagens, constituídas em reserva pelo Decreto-Lei n.º 458/71, de 29 de Outubro, passam a ser classificadas como reserva natural.\n\n2 - A reserva natural é definida pelo território das ilhas e pelos fundos marinhos até à batimétrica dos 1000 m.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+  },
+  "182894829": {
+   "fragment_id": "182897086",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regional n.º 11/81/M - Diário da República n.º 111/1981, Série I de 1981-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1981-573895), em vigor a partir de 1981-05-16"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - Compete ao Governo Regional elaborar o plano de ordenamento e o regulamento da reserva, no prazo de seis meses, a contar da publicação da portaria conjunta do Secretário de Estado do Ambiente e do Chefe do Estado-Maior da Armada sobre a matéria, nos termos das bases aprovadas pela Assembleia da República.\n\n2 - Para os efeitos do n.º 1 deste artigo, o Governo Regional deverá solicitar a colaboração dos competentes serviços do Estado, bem como de outras entidades de reconhecida competência na matéria.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regional n.º 11/81/M - Diário da República n.º 111/1981, Série I de 1981-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-regional/11-1981-573895), em vigor a partir de 1981-05-16"
+  },
+  "182894830": {
+   "fragment_id": "182897087",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+   ],
+   "markdown": "###### Artigo 3.º\n\nSão proibidos na área da reserva natural das ilhas Selvagens:\n\na) A realização de quaisquer trabalhos, obras ou actividades profissionais sem autorização do Governo Regional;\n\nb) A utilização de fundeadouros fora das zonas especialmente destinadas a esse fim;\n\nc) O acesso de pessoas, excepto mediante autorização do Governo Regional, que a concederá apenas para fins de estudo, de resolução de problemas técnicos ou a visitantes acompanhados por pessoas devidamente credenciadas, ou em estado de necessidade;\n\nd) A introdução de veículos terrestres, excepto mediante autorização do Governo Regional;\n\ne) O sobrevoo por aeronaves a altitude inferior a 200 m, excepto em operações aéreas necessárias ao funcionamento da reserva ou em estado de necessidade;\n\nf) A introdução de espécies animais ou vegetais terrestres, a colheita, captura ou perturbações das existentes, bem como a apanha de espécies vegetais marinhas, exceptuados os casos regulamentarmente previstos;\n\ng) A colheita de material geológico ou arqueológico ou a sua exploração sem autorização do Governo Regional;\n\nh) A caça submarina;\n\ni) A pesca de arrasto e outras artes que colidam com o fundo até à batimétrica fixada pela reserva, ressalvando-se as artes de anzol e rede;\n\nj) A utilização para fins comerciais de aparelhos de fotografia, filmagem e radiodifusão sonora ou visual sem autorização do Governo Regional.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+  },
+  "182894831": {
+   "fragment_id": "182897088",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+   ],
+   "markdown": "###### Artigo 4.º\n\nAs contravenções previstas no artigo anterior, sem prejuízo de outras sanções aplicáveis, não prejudicam quer a obrigação de o infractor demolir à sua custa quaisquer obras ou trabalhos quer a perda, a favor da Região, dos objectos, instrumentos ou outros meios utilizados.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+  },
+  "182894832": {
+   "fragment_id": "182897089",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+   ],
+   "markdown": "###### Artigo 5.º\n\nAs dúvidas suscitadas na interpretação e execução do presente diploma são resolvidas por portaria do Governo Regional.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+  },
+  "182894833": {
+   "fragment_id": "182897090",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO presente diploma entra em vigor no dia seguinte ao da publicação da lei da Assembleia da República sobre a assistência do Estado ao Governo Regional da Madeira na defesa das ilhas Selvagens como reserva natural.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+  },
+  "182894834": {
+   "fragment_id": "182897091",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-06-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+   ],
+   "markdown": "Aprovado em 18 de Janeiro de 1978.\n\nO Presidente da Assembleia Regional, Emanuel do Nascimento dos Santos Rodrigues.\n\nAssinado em 2 de Fevereiro de 1978.\n\nO Ministro da República, Lino Dias Miguel.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto Legislativo Regional n.º 8/2022/M - Diário da República n.º 85/2022, Série I de 2022-05-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2022-182872993), em vigor a partir de 2022-06-02"
+  }
+ }
+}

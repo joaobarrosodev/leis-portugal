@@ -1,0 +1,190 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:661903:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1984-914000823",
+ "dre_path": "/dr/detalhe/lei/3-1984-661903",
+ "source_lastmod": "2025-04-07",
+ "versions": [
+  {
+   "date": "1984-03-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "914048294",
+    "914048295",
+    "914048296",
+    "914048297",
+    "914048298",
+    "914048299",
+    "914048300",
+    "914048301",
+    "914048302",
+    "914048303",
+    "914048304",
+    "914048305",
+    "914048306",
+    "914048307",
+    "914048308",
+    "914048309",
+    "914048310",
+    "914048311",
+    "914048312"
+   ]
+  }
+ ],
+ "fragments": {
+  "914048294": {
+   "fragment_id": "914000824",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 3/84, de 24 de Março\n\nEducação sexual e planeamento familiar\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 2, da Constituição, o seguinte:"
+  },
+  "914048295": {
+   "fragment_id": "914000825",
+   "type": 11,
+   "heading": "Artigo 1.º — (Direito à educação sexual e de acesso ao planeamento familiar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Direito à educação sexual e de acesso ao planeamento familiar)\n\n1 - O Estado garante o direito à educação sexual, como componente do direito fundamental à educação.\n\n2 - Incumbe ao Estado, para protecção da família, promover, pelos meios necessários, a divulgação dos métodos de planeamento familiar e organizar as estruturas jurídicas e técnicas que permitam o exercício de uma maternidade e paternidade conscientes.\n\n> Nota: [Artigo 6.º, Lei n.º 53/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2025-913947255) As alterações introduzidas ao presente artigo entram em vigor no dia seguinte ao da entrada em vigor da lei do Orçamento de Estado para 2026."
+  },
+  "914048296": {
+   "fragment_id": "914000826",
+   "type": 11,
+   "heading": "Artigo 2.º — (Educação sexual dos jovens)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Educação sexual dos jovens)\n\n1 - O dever fundamental de proteger a família e o desempenho da incumbência de cooperar com os pais na educação dos filhos cometem ao Estado a garantia da educação sexual dos jovens através da escola, das organizações sanitárias e dos meios de comunicação social.\n\n2 - Os programas escolares incluirão, de acordo com os diferentes níveis de ensino, conhecimentos científicos sobre anatomia, fisiologia, genética e sexualidade humanas, devendo contribuir para a superação das discriminações em razão do sexo e da divisão tradicional de funções entre mulher e homem.\n\n3 - Será dispensada particular atenção à formação inicial e permanente dos docentes, por forma a dotá-los do conhecimento e da compreensão da problemática da educação sexual, em particular no que diz respeito aos jovens.\n\n4 - Serão criadas também condições adequadas de apoio aos pais no que diz respeito à educação sexual dos seus filhos."
+  },
+  "914048297": {
+   "fragment_id": "914000827",
+   "type": 11,
+   "heading": "Artigo 3.º — (Objecto do planeamento familiar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Objecto do planeamento familiar)\n\n1 - O direito de se informar e de ser informado sem impedimentos nem discriminações inclui o livre acesso aos conhecimentos científicos e sociológicos necessários à prática de métodos salutares de planeamento familiar e ao exercício de uma maternidade e paternidade responsáveis.\n\n2 - O planeamento familiar tem por objecto proporcionar aos indivíduos e aos casais informações, conhecimentos e meios que lhes permitam uma decisão livre e responsável sobre o número de filhos e o intervalo entre o seu nascimento.\n\n3 - Os métodos de planeamento familiar constituem instrumento privilegiado de defesa da saúde das mães e dos filhos, de prevenção do aborto e de defesa da saúde e da qualidade de vida dos familiares."
+  },
+  "914048298": {
+   "fragment_id": "914000828",
+   "type": 11,
+   "heading": "Artigo 4.º — (Conteúdo do planeamento familiar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Conteúdo do planeamento familiar)\n\n1 - O planeamento familiar postula acções de aconselhamento genético e conjugal, de informação de métodos e fornecimento de meios de contracepção, tratamento da infertilidade e prevenção de doenças de transmissão sexual e o rastreio do cancro genital.\n\n2 - São do foro pessoal e conjugal as opções sobre meios e métodos contraceptivos.\n\n> Nota: [Artigo 6.º, Lei n.º 53/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2025-913947255) As alterações introduzidas ao presente artigo entram em vigor no dia seguinte ao da entrada em vigor da lei do Orçamento de Estado para 2026."
+  },
+  "914048299": {
+   "fragment_id": "914000829",
+   "type": 11,
+   "heading": "Artigo 5.º — (Centros e meios de consulta sobre planeamento familiar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Centros e meios de consulta sobre planeamento familiar)\n\n1 - É assegurado a todos, sem discriminações, o livre acesso às consultas e outros meios de planeamento familiar.\n\n2 - Com esse objectivo, o Estado promoverá a cobertura progressiva do território nacional com meios de consulta sobre planeamento familiar, implantados em todos os centros e postos de saúde, bem como nos serviços de ginecologia e obstetrícia de todos os hospitais, com pessoal devidamente habilitado.\n\n3 - As autarquias e as comunidades em que as consultas sobre planeamento familiar se inserem participam activamente na difusão dos métodos de planeamento familiar, em estreita colaboração com os centros, postos e outras estruturas de saúde.\n\n> Nota: [Artigo 6.º, Lei n.º 53/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2025-913947255) As alterações introduzidas ao presente artigo entram em vigor no dia seguinte ao da entrada em vigor da lei do Orçamento de Estado para 2026."
+  },
+  "914048300": {
+   "fragment_id": "914000830",
+   "type": 11,
+   "heading": "Artigo 6.º — (Gratuitidade das consultas sobre planeamento familiar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Gratuitidade das consultas sobre planeamento familiar)\n\n1 - As consultas sobre planeamento familiar e os meios contraceptivos proporcionados por entidades públicas são gratuitos.\n\n2 - As informações e os conselhos prestados devem ser objectivos e baseados exclusivamente em dados científicos.\n\n3 - Só pode ser recusada pelos serviços de planeamento familiar a utilização de um determinado método de contracepção com base em razões de ordem médica devidamente fundamentadas.\n\n> Nota: [Artigo 6.º, Lei n.º 53/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2025-913947255) As alterações introduzidas ao presente artigo entram em vigor no dia seguinte ao da entrada em vigor da lei do Orçamento de Estado para 2026."
+  },
+  "914048301": {
+   "fragment_id": "914000831",
+   "type": 11,
+   "heading": "Artigo 7.º — (Divulgação de métodos e meios de planeamento familiar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Divulgação de métodos e meios de planeamento familiar)\n\n1 - É dever do Estado e demais entidades públicas, designadamente as autarquias e as empresas públicas de comunicação social, promover e praticar periodicamente, com sentido pedagógico, informação eficaz sobre a existência e as vantagens dos métodos e meios de planeamento familiar, bem como sobre os locais, os horários e o regime de funcionamento dos respectivos centros de consulta.\n\n2 - É dever especial dos serviços de saúde, da Comissão da Condição Feminina e das associações de protecção da família colaborar em acções e campanhas de divulgação dos métodos e meios de planeamento familiar.\n\n3 - A informação prestada nos termos dos números anteriores deve respeitar os princípios consignados no n.º 2 do artigo 6.º e promover a assunção consciente e responsável de opções em matéria de planeamento familiar.\n\n> Nota: [Artigo 6.º, Lei n.º 53/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2025-913947255) As alterações introduzidas ao presente artigo entram em vigor no dia seguinte ao da entrada em vigor da lei do Orçamento de Estado para 2026."
+  },
+  "914048302": {
+   "fragment_id": "914000832",
+   "type": 11,
+   "heading": "Artigo 8.º — (Incentivo a iniciativas privadas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Incentivo a iniciativas privadas)\n\nO Estado deve incentivar e apoiar iniciativas de associações e outras entidades privadas que visem a difusão dos métodos e meios de planeamento familiar, sem intuitos confessionais, políticos, demográficos ou discriminatórios."
+  },
+  "914048303": {
+   "fragment_id": "914000833",
+   "type": 11,
+   "heading": "Artigo 9.º — (Tratamento da esterilidade e inseminação artificial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Tratamento da esterilidade e inseminação artificial)\n\n1 - O Estado deve promover e proporcionar a todos, através de centros especializados, o estudo e o tratamento de situações de esterilidade, bem como o estudo e a prevenção de doenças de transmissão hereditária.\n\n2 - O Estado aprofundará o estudo e a prática da inseminação artificial como forma de suprimento da esterilidade.\n\n3 - Compete aos centros de saúde detectar e estudar, de acordo com o estado de desenvolvimento da medicina e os meios ao seu alcance, e encaminhar para os centros especializados os casos previstos nos números anteriores.\n\n> Nota: [Artigo 6.º, Lei n.º 53/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2025-913947255) As alterações introduzidas ao presente artigo entram em vigor no dia seguinte ao da entrada em vigor da lei do Orçamento de Estado para 2026."
+  },
+  "914048304": {
+   "fragment_id": "914000834",
+   "type": 11,
+   "heading": "Artigo 10.º — (Esterilização voluntária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Esterilização voluntária)\n\n1 - A esterilização voluntária só pode ser praticada por maiores de 25 anos, mediante declaração escrita devidamente assinada, contendo a inequívoca manifestação de vontade de que desejam submeter-se à necessária intervenção e a menção de que foram informados sobre as consequências da mesma, bem como a indentidade e a assinatura do médico solicitado a intervir.\n\n2 - A exigência do limite de idade constante do n.º 1 é dispensada nos casos em que a esterilização é determinada por razões de ordem terapêutica."
+  },
+  "914048305": {
+   "fragment_id": "914000835",
+   "type": 11,
+   "heading": "Artigo 11.º — (Direito à objecção de consciência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Direito à objecção de consciência)\n\nÉ assegurado aos médicos o direito à objecção de consciência, quando solicitados para a prática da inseminação artificial ou de esterilização voluntária."
+  },
+  "914048306": {
+   "fragment_id": "914000836",
+   "type": 11,
+   "heading": "Artigo 12.º — (Adopção de menores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Adopção de menores)\n\nOs centros de consulta para planeamento familiar prestarão informações objectivas sobre a adopção de menores e respectivas consequências sobre a família dos adoptantes e dos adoptados, bem como sobre estes, e colaborarão com os serviços especializados na detecção de crianças que possam ser adoptadas e de indivíduos ou casais que desejem adoptá-las.\n\n> Nota: [Artigo 6.º, Lei n.º 53/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2025-913947255) As alterações introduzidas ao presente artigo entram em vigor no dia seguinte ao da entrada em vigor da lei do Orçamento de Estado para 2026."
+  },
+  "914048307": {
+   "fragment_id": "914000837",
+   "type": 11,
+   "heading": "Artigo 13.º — (Centros de atendimento de jovens)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Centros de atendimento de jovens)\n\n1 - O Estado e as autarquias incentivarão a instalação de centros de atendimento de jovens, em que o planeamento familiar constitua uma valência obrigatória.\n\n2 - Nas localidades onde não existam centros de atendimento de jovens poderão estes dirigir-se aos centros de consulta sobre planeamento familiar, onde serão acolhidos e informados tendo em conta o seu grau de desenvolvimento físico e psicológico, bem como as interrogações por eles formuladas, a situação e os problemas por eles expostos.\n\n3 - Os centros de atendimento de jovens, bem como os centros de consulta sobre planeamento familiar, agindo por si ou em substituição daqueles, prestarão às famílias e aos estabelecimentos de ensino a colaboração que lhes for solicitada."
+  },
+  "914048308": {
+   "fragment_id": "914000838",
+   "type": 11,
+   "heading": "Artigo 14.º — (Publicidade e prescrição médica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Publicidade e prescrição médica)\n\n1 - Será regulamentada a publicidade relativa aos produtos ou meios contraceptivos, assegurando que a sua difusão se processe após experiências técnicas e clínicas realizadas de acordo com padrões legalmente fixados.\n\n2 - Os meios anticoncepcionais de natureza hormonal só poderão ser vendidos ou fornecidos gratuitamente nos estabelecimentos de saúde mediante receita médica."
+  },
+  "914048309": {
+   "fragment_id": "914000839",
+   "type": 11,
+   "heading": "Artigo 15.º — (Dever de sigilo profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Dever de sigilo profissional)\n\nOs funcionários dos centros de consulta sobre planeamento familiar e dos centros de atendimento de jovens ficam sujeitos à obrigação de sigilo profissional sobre o objecto, o conteúdo e o resultado das consultas em que tiverem intervenção e, em geral, sobre actos ou factos de que tenham tido conhecimento no exercício dessas funções ou por causa delas."
+  },
+  "914048310": {
+   "fragment_id": "914000840",
+   "type": 11,
+   "heading": "Artigo 16.º — (Formação profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Formação profissional)\n\nOs currículos de formação dos profissionais de saúde envolvidos em acções de planeamento familiar devem incluir o ensino de conhecimentos científicos adequados sobre educação sexual, contracepção e tratamento da infertilidade.\n\n> Nota: [Artigo 6.º, Lei n.º 53/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/53-2025-913947255) As alterações introduzidas ao presente artigo entram em vigor no dia seguinte ao da entrada em vigor da lei do Orçamento de Estado para 2026."
+  },
+  "914048311": {
+   "fragment_id": "914000841",
+   "type": 11,
+   "heading": "Artigo 17.º — (Legislação complementar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Legislação complementar)\n\nO Governo aprovará, no prazo máximo de 120 dias a contar da entrada em vigor da presente lei, a legislação necessária à regulamentação da execução do que nela se dispõe."
+  },
+  "914048312": {
+   "fragment_id": "914000842",
+   "type": 11,
+   "heading": "Artigo 18.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Entrada em vigor)\n\nA presente lei entra em vigor no 30.º dia posterior ao da sua publicação."
+  }
+ }
+}

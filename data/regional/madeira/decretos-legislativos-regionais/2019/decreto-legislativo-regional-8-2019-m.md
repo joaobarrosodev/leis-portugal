@@ -1,0 +1,313 @@
+---
+schema_version: '1.0'
+id: pt:dre:123725414:por
+title: Decreto Legislativo Regional n.º 8/2019/M
+short_title: null
+summary: Estabelece as regras e procedimentos a serem adotados pelo Serviço de Saúde da Região Autónoma da Madeira, E. P.
+  E. - SESARAM, E. P. E. - no âmbito do processo de descongelamento das carreiras dos técnicos superiores das áreas de diagnóstico
+  e terapêutica
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 8/2019/M
+official_date: null
+publication_date: '2019-08-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 149/2019, Série I de 2019-08-06
+  number: '149'
+  series: I
+  supplement: null
+  pages: 42 - 45
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/08/14900/0004200045.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-05-04'
+version_history:
+  file: decreto-legislativo-regional-8-2019-m.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-08-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-05-18'
+    amending: pt:dre:163442509:por
+    amending_title: Decreto Legislativo Regional n.º 10/2021/M
+    changes:
+    - Adita Artigo 3.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+  - date: '2023-08-04'
+    amending: pt:dre:216674065:por
+    amending_title: Decreto Legislativo Regional n.º 40/2023/M
+    changes:
+    - Adita Artigo 3.º-B
+    - Altera Artigo 3.º
+  - date: '2026-05-04'
+    amending: pt:dre:1068974015:por
+    amending_title: Decreto Legislativo Regional n.º 2/2026/M
+    changes:
+    - Altera Artigo 3.º-B
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/8/2019/m/cons/20260309/pt/html
+  oj: null
+  dre: '123725414'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/8-2019-123725414
+  internal: pt:dre:123725414:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2019-123725414
+  metadata_url: https://data.dre.pt/eli/declegreg/8/2019/m/cons/20260309/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-163551381
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2019-163551381
+  retrieved_at: '2026-10-22T12:41:52Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c194203cad38fccf2174ded5fc7360063f49101cbae05c2942a72c6c3021cc96
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:41:52Z'
+  notes: 4 versão(ões); histórico completo em decreto-legislativo-regional-8-2019-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Serviço de Saúde
+- Carreira Profissional
+- Documento Eletrónico
+- Notificação
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Madeira.região Autónoma
+- Sesaram
+- Serviço Regional de Saúde
+- Serviços Complementares de Diagnóstico
+- Terapêutica
+relationships:
+- type: amended_by
+  target: pt:dre:163442509:por
+  label: Adita Artigo 3.º-A; Altera Artigo 1.º; Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-163442509
+  date: '2021-05-17'
+- type: amended_by
+  target: pt:dre:216674065:por
+  label: Adita Artigo 3.º-B; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2023-216674065
+  date: '2023-08-03'
+- type: amended_by
+  target: pt:dre:1068974015:por
+  label: Altera Artigo 3.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1068974015
+  date: '2026-03-09'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/25/2019/02/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/25/2019/02/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/564/1999/12/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/564/1999/12/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/71/2018/12/31/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:41:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 8/2019/M
+
+Decreto Legislativo Regional n.º 8/2019/M
+
+Sumário: Estabelece as regras e procedimentos a serem adotados pelo Serviço de Saúde da Região Autónoma da Madeira, E. P. E. - SESARAM, E. P. E. - no âmbito do processo de descongelamento das carreiras dos técnicos superiores das áreas de diagnóstico e terapêutica.
+
+Determina as regras relativas ao processo de descongelamento das carreiras de técnicos superiores de diagnóstico e terapêutica do Serviço de Saúde da Região Autónoma da Madeira, E. P. E. - SESARAM, E. P. E., e de atribuição de pontos para esse efeito
+
+A situação económico-financeira portuguesa vivida nos últimos anos levou a que os sucessivos governos da República tivessem adotado orçamentos do Estado claramente restritivos, com proibição de quaisquer valorizações remuneratórias dos trabalhadores que exercem funções na Administração Pública, designadamente ao nível de alterações de posicionamento remuneratório, progressões, promoções ou nomeações em categorias ou postos superiores.
+
+Tais restrições, que se repercutiram nas várias administrações públicas, foram também aplicadas na Administração Pública da Região Autónoma da Madeira, a qual, de resto e como é consabido, esteve sujeita durante esses anos aos condicionalismos do Plano de Ajustamento Económico e Financeiro.
+
+A par destas restrições financeiras, e na sequência da reforma da Administração Pública, várias foram as carreiras que foram sendo revistas, desde 2009 até à presente data.
+
+A carreira especial dos Técnicos Superiores de Diagnóstico e Terapêutica foi revista em 2017, e só a partir desse ano foi reconhecida a integração na carreira de técnico superior das áreas de diagnóstico e terapêutica aos trabalhadores de direito privado desta área de atividade. Não obstante, não foi ainda criado nenhum subsistema de avaliação do desempenho dos trabalhadores da Administração Pública adaptado às carreiras de técnicos superiores de diagnóstico e terapêutica, tendo sido, em alternativa, mantido em vigor o sistema de avaliação do desempenho dos trabalhadores da carreira especial, constante do Decreto-Lei n.º 564/99, de 21 de dezembro. Cumpre, no entanto, referir que este sistema de avaliação não tem diferenciação de mérito, o que, nos termos do disposto no n.º 3 do artigo 18.º da Lei n.º 114/2017, de 29 de dezembro, é considerado um sistema caducado, logo desadequado às regras do SIADAP, e consequentemente sem ligação com o regime aplicável da alteração de posicionamento remuneratório vigente na Administração Pública.
+
+Até ao ano de 2017, a falta de informação, a desatualização e a ausência de carreira determinou que, dependendo das chefias e não de uma política definida e divulgada, ocorressem situações de avaliação/não avaliação, tanto dos trabalhadores vinculados em regime de direito público, como dos trabalhadores em regime de direito privado.
+
+Nunca houve, nem por parte das instituições da Região Autónoma da Madeira, nem por parte das instituições competentes do Serviço Nacional de Saúde, uma posição definitiva relativamente ao sistema de contagem de pontos, no âmbito da avaliação do desempenho, a ser aplicado aos trabalhadores integrados na carreira especial de Técnico Superior de Diagnóstico e Terapêutica, desde 2004.
+
+É um facto que, em face dos princípios constitucionais e legais vigentes no nosso ordenamento jurídico, os trabalhadores desta carreira não podem ficar prejudicados por uma situação a que são totalmente alheios.
+
+Por essa mesma razão, não se considera que o reposicionamento remuneratório a efetuar para a nova tabela salarial, no decorrer do ano de 2019, se trate de uma verdadeira alteração da posição remuneratória, mas antes do reconhecimento de um grau académico com a correspondente remuneração, e, como tal, os trabalhadores Técnicos Superiores de Diagnóstico e Terapêutica abrangidos por essa atualização salarial não poderão ser penalizados, pelo que tal não poderá determinar o reinício da contagem de pontos, no âmbito das regras do Sistema de Avaliação do Desempenho.
+
+Importa, por isso, à Região Autónoma da Madeira, no âmbito das suas competências autonómicas, efetuar o respetivo enquadramento jurídico desta situação, conforme, aliás, já decorria do compromisso assumido entre o Governo Regional e os Sindicatos dos Técnicos Superiores de Diagnóstico e Terapêutica, no dia 18 de junho de 2019, bem como a forma do respetivo processamento das valorizações e acréscimos remuneratórios decorrentes do processo agora instituído.
+
+Foram observados os procedimentos de auscultação estabelecidos no artigo 470.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na redação atual, e no artigo 16.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na redação atual.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º e alínea m) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto legislativo regional vem estabelecer as regras e os procedimentos a serem adotados pela administração pública regional e pelo setor empresarial da Região Autónoma da Madeira, no âmbito do processo de descongelamento das carreiras dos técnicos superiores das áreas de diagnóstico e terapêutica, doravante designadas por TSDT.
+
+2 - Para efeitos de harmonização entre regimes, o que se encontrar previsto para a carreira especial dos técnicos superiores das áreas de diagnóstico e terapêutica, no que se refere ao sistema de avaliação de desempenho e respetivo regime de transição, incluindo a alteração do correspondente posicionamento remuneratório, é o regime a aplicar à carreira dos técnicos superiores das áreas de diagnóstico e terapêutica em regime de contrato de trabalho no SESARAM, EPERAM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2021/M - Diário da República n.º 95/2021, Série I de 2021-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-163442509), em vigor a partir de 2021-05-18
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O regime previsto no presente decreto legislativo regional é aplicável aos trabalhadores TSDT, em exercício de funções na administração pública regional e no setor empresarial da Região Autónoma da Madeira, mediante vínculo de emprego público ou privado, por tempo indeterminado ou sem termo, respetivamente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 10/2021/M - Diário da República n.º 95/2021, Série I de 2021-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-163442509), em vigor a partir de 2021-05-18
+
+###### Artigo 3.º — Regras de atribuição de pontos
+
+1 - Entre os anos de 2004 e 2017, inclusive, são atribuídos, independentemente do vínculo e da existência de avaliação, um ponto e meio.
+
+2 - Exceciona-se do previsto no número anterior:
+
+a) A situação de avaliação negativa, à qual é atribuído um ponto negativo;
+
+b) As situações em que, nos anos de 2004 a 2007, tendo sido requerida a respetiva ponderação curricular, tenha sido reconhecida a atribuição de pontos em número superior a um ponto e meio, às quais serão reconhecidos os pontos daí advenientes.
+
+3 - A atribuição de pontos efetuada nos termos dos números anteriores não permite que seja solicitada, em sua substituição, avaliação por ponderação curricular.
+
+4 - Nas alterações obrigatórias de posicionamento remuneratório a efetuar após 1 de janeiro de 2018, quando o trabalhador tenha acumulado até 31 de dezembro de 2017 mais do que os pontos legalmente exigidos para aquele efeito, os pontos em excesso relevam para efeitos de futura alteração do seu posicionamento remuneratório.
+
+5 - O reposicionamento remuneratório ocorrido em virtude da transição para a 1.ª posição remuneratória e nível remuneratório 15 da categoria de técnico superior das áreas de diagnóstico e terapêutica, da carreira especial dos técnicos superiores das áreas de diagnóstico e terapêutica, prevista no artigo 4.º do Decreto-Lei n.º 25/2019, de 11 de fevereiro, não é considerado, para os devidos efeitos legais, como alteração da posição remuneratória, contando-se, assim, os pontos acumulados antes dessa transição, por se tratar de uma atualização derivada do reconhecimento do grau de licenciado para o ingresso na carreira.
+
+6 - Para efeitos de atribuição de pontos, em cada ano é exigido um período mínimo de serviço efetivo equivalente a seis meses.
+
+7 - Apenas não são consideradas como serviço efetivo as ausências superiores a seis meses por motivo de licença sem remuneração ou por cedência ou qualquer outra forma de mobilidade com suspensão de vínculo.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 40/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2023-216674065), em vigor a partir de 2023-08-04, produz efeitos a partir de 2019-08-07
+
+###### Artigo 3.º-A — Regras de transição e de descongelamento
+
+1 - Na sequência da atribuição dos pontos prevista no artigo anterior, e para efeitos do processo de descongelamento com efetiva alteração de posição remuneratória, os trabalhadores TSDT transitam e, simultaneamente, são integrados na tabela remuneratória, nos termos previstos no Decreto-Lei n.º 25/2019, de 11 de fevereiro, com efeitos reportados a 1 de janeiro de 2018.
+
+2 - O pagamento do reposicionamento remuneratório que resulte da aplicação do disposto no número anterior observa as regras constantes dos artigos 18.º da Lei n.º 114/2017, de 29 de dezembro, e 16.º da Lei n.º 71/2018, de 31 de dezembro.
+
+3 - Em resultado do previsto nos números anteriores, e no caso dos trabalhadores abrangidos ficarem posicionados em posição/nível inferior à que resultou da integração efetuada anteriormente, reconhece-se automaticamente a prevalência da integração na posição/nível com a remuneração mais elevada, com efeitos a 1 de janeiro de 2018.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 10/2021/M - Diário da República n.º 95/2021, Série I de 2021-05-17](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/10-2021-163442509), em vigor a partir de 2021-05-18
+
+###### Artigo 3.º-B — Norma interpretativa
+
+1 - É aplicável o regime de transição, integração e reposicionamento remuneratório previsto no Decreto-Lei n.º 25/2019, de 11 de fevereiro, com as alterações introduzidas pela Lei n.º 34/2021, de 8 de junho, com os efeitos legais daí decorrentes.
+
+2 - Determina-se que o reposicionamento na tabela remuneratória dos trabalhadores que transitaram nos termos da alínea c) do n.º 1 do artigo 3.º do Decreto-Lei n.º 25/2019, de 11 de fevereiro, com a redação dada pela Lei n.º 34/2021, de 8 de junho, para a categoria de técnico superior das áreas de diagnóstico e terapêutica, que detenham pelo menos 11 anos de antiguidade na atual e na pretérita categoria de técnico principal a 31 de dezembro de 2022, e que no âmbito dessa transição tivessem ficado posicionados numa posição virtual, transitam para a posição seguinte mais próxima da tabela remuneratória única constante do Decreto-Lei n.º 25/2019, de 11 de fevereiro, na sua atual redação, salvaguardando-se os efeitos previstos no número anterior.
+
+3 - O estabelecido no número anterior produz efeitos reportados à data da entrada em vigor da Lei n.º 34/2021, de 8 de junho.
+
+4 - [Revogado.]
+
+> Nota: [Artigo 5.º, Decreto Legislativo Regional n.º 2/2026/M - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1068974015) Com a revogação do n.º 4 do presente artigo, reconhece-se o direito à alteração do posicionamento remuneratório a 1 de janeiro de 2021, com os devidos efeitos remuneratórios, quando os trabalhadores contabilizem, nos termos legais, os pontos necessários à respetiva alteração.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 2/2026/M - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2026-1068974015), em vigor a partir de 2026-05-04.
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 40/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2023-216674065), em vigor a partir de 2023-08-04
+
+###### Artigo 4.º — Notificação
+
+A atribuição de pontos é notificada eletronicamente, podendo ser consultada no respetivo processo eletrónico do trabalhador.
+
+###### Artigo 5.º — Pagamento dos acréscimos remuneratórios
+
+1 - O pagamento dos acréscimos remuneratórios decorrentes de alterações obrigatórias de posicionamento remuneratório derivadas da atribuição de pontos será efetuado, em cumprimento do disposto no n.º 8 do artigo 18.º da Lei n.º 114/2017, de 29 de dezembro, e no artigo 16.º da Lei n.º 71/2018, de 31 de dezembro, da seguinte forma:
+
+a) No mês seguinte à entrada em vigor do presente Decreto Legislativo Regional, é efetuado o pagamento da remuneração mensal, com o acréscimo de 75 %, com efeitos reportados a 1 maio de 2019;
+
+b) A partir de 1 de dezembro 2019, é efetuado o pagamento da respetiva remuneração mensal a 100 %.
+
+2 - Os retroativos respeitantes aos montantes em dívidas vencidos e não pagos das remunerações fixas e variáveis, desde 1 de janeiro de 2018, são pagos de forma faseada, de acordo com o seguinte plano de pagamentos:
+
+a) 10 % no mês seguinte à entrada em vigor do presente Decreto Legislativo Regional;
+
+b) 10 % no mês de outubro de 2019;
+
+c) 20 % no mês de maio de 2020;
+
+d) 20 % no mês de outubro de 2020;
+
+e) 20 % no mês de maio de 2021;
+
+f) 20 % no mês de outubro de 2021.
+
+###### Artigo 6.º — Imperatividade
+
+O disposto no presente Decreto Legislativo Regional tem natureza imperativa, prevalecendo sobre quaisquer outras normas especiais ou excecionais em contrário, e sobre instrumentos de regulamentação coletiva de trabalho.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 11 de julho de 2019.
+
+O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.
+
+Assinado em 22 de julho de 2019.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+112469524

@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:131193420:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-132721074",
+ "dre_path": "/dr/detalhe/portaria/89-2020-131193420",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "132813579",
+    "132813580",
+    "132813581",
+    "132813582",
+    "132813583",
+    "132813584",
+    "132813585"
+   ]
+  }
+ ],
+ "fragments": {
+  "132813579": {
+   "fragment_id": "132850475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 89/2020\n\nde 7 de abril\n\nSumário: Adota medidas excecionais, decorrentes da epidemia COVID-19, relativas às formalidades aplicáveis à produção, armazenagem e comercialização, com isenção do imposto, de álcool destinado aos fins previstos no n.º 3 do artigo 67.º do Código dos Impostos Especiais de Consumo (CIEC).\n\nNa sequência da emergência de saúde pública ocasionada pela epidemia da doença COVID-19, foi decretado, no dia 18 de março de 2020, o estado de emergência em Portugal, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, cuja execução foi regulamentada pelo Decreto n.º 2-A/2020, de 20 de março de 2020.\n\nA declaração do estado de emergência foi, no passado dia 2 de abril de 2020, renovada pelo Decreto do Presidente da República n.º 17-A/2020, de 2 de abril, cuja execução foi regulamentada pelo Decreto n.º 2-B/2020, de 2 de abril.\n\nA situação excecional exige a aplicação de medidas extraordinárias e urgentes com vista a prevenir a transmissão do vírus e proteger a saúde pública. Neste contexto, torna-se imperioso assegurar a produção e fornecimento de álcool, designadamente para fins industriais ou fins terapêuticos e sanitários, bem como a disponibilização no mercado, nesta fase crítica, de produtos essenciais, como o álcool gel e outros antisséticos.\n\nO Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, prevê a isenção do imposto para o álcool utilizado em determinados fins, designadamente industriais, destinado a consumo próprio dos hospitais e demais estabelecimentos de saúde, ou destinado a fins terapêuticos e sanitários.\n\nPara efeitos de isenção do imposto, o álcool utilizado em fins industriais deve ser objeto de desnaturação, através dos desnaturantes previstos na Portaria n.º 1/93, de 2 de janeiro, ou, em se tratando de fins terapêuticos e sanitários, dos desnaturantes previstos na Portaria n.º 968/98, de 16 de novembro.\n\nEm face da situação de exceção, e tendo em vista salvaguardar a saúde pública, importa agilizar os procedimentos e regras em vigor, assegurando que o benefício da isenção do imposto se aplica à produção e comercialização do álcool sempre que utilizado nos termos do n.º 3 do artigo 67.º do Código, sem prejuízo do controlo e prevenção da fraude fiscal e aduaneira.\n\nÉ conferido carácter temporário às medidas constantes da presente portaria.\n\nAssim:\n\nManda o Governo, pelos Secretários de Estado Adjunto e da Economia, dos Assuntos Fiscais e da Saúde, ao abrigo do n.º 3 do artigo 67.º e dos n.os 1, 4 e 5 do artigo 68.º do Código dos Impostos Especiais de Consumo, o seguinte:"
+  },
+  "132813580": {
+   "fragment_id": "132850476",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria adota medidas excecionais, decorrentes da epidemia COVID-19, relativas às formalidades aplicáveis à produção, armazenagem e comercialização, com isenção do imposto, de álcool destinado aos fins previstos no n.º 3 do artigo 67.º do Código dos Impostos Especiais de Consumo (CIEC)."
+  },
+  "132813581": {
+   "fragment_id": "132850477",
+   "type": 11,
+   "heading": "Artigo 2.º — Procedimento excecional de produção, armazenagem e comercialização de álcool",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Procedimento excecional de produção, armazenagem e comercialização de álcool\n\n1 - A título excecional, as operações de produção e armazenagem de álcool, em regime de suspensão do imposto, bem como as operações de desnaturação, podem ter lugar fora de um entreposto fiscal, desde que autorizado previamente pela estância aduaneira competente.\n\n2 - Para efeitos do número anterior, as operações nele referidas devem ser precedidas da apresentação de uma declaração junto da estância aduaneira competente, com indicação do local onde se irá realizar a operação, a espécie e o volume de álcool a produzir ou desnaturar e, quando aplicável, a espécie e quantidade de desnaturante a utilizar.\n\n3 - A título excecional, os depositários autorizados ou destinatários registados autorizados a produzir, transformar, deter, receber ou expedir, consoante o caso, outros produtos sujeitos a impostos especiais de consumo diversos do álcool, podem efetuar as referidas operações com álcool, desde que previamente autorizado pela estância aduaneira competente.\n\n4 - O disposto no número anterior é aplicável, com as devidas adaptações, aos operadores económicos com estatuto de utilizadores isentos.\n\n5 - Excecionalmente, podem ainda ser ajustadas, em função das necessidades, as regras relativas à embalagem, rotulagem e comercialização de álcool, desde que garantida a rotulagem adequada, em função dos riscos do produto, designadamente físico-químicos, toxicológicos e ambientais.\n\n6 - Para efeitos do presente artigo, as estâncias aduaneiras devem proceder ao registo das respetivas autorizações e comunicar de imediato as mesmas ao interessado, por via expedita."
+  },
+  "132813582": {
+   "fragment_id": "132850478",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento excecional de desnaturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento excecional de desnaturação\n\n1 - O álcool destinado aos fins previstos no n.º 3 do artigo 67.º do CIEC pode a título excecional ser objeto de desnaturação através de procedimento diverso do previsto nos termos da legislação nacional aplicável, desde que previamente autorizado pela estância aduaneira competente.\n\n2 - Em derrogação do disposto no número anterior, o álcool pode excecionalmente não ser desnaturado, em caso de rotura de mercado, ou quando esta se revele iminente, desde que destinado a um dos fins previstos no n.º 3 do artigo 67.º do CIEC, mediante prévia autorização da estância aduaneira competente.\n\n3 - Para efeitos do presente artigo, a autorização a emitir pelas estâncias aduaneiras fica dependente de parecer favorável da Direção-Geral da Saúde ou da Direção-Geral da Alimentação e Veterinária, em função do tipo de produto e dos fins a que se destina."
+  },
+  "132813583": {
+   "fragment_id": "132850479",
+   "type": 11,
+   "heading": "Artigo 4.º — Utilização de álcoois",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Utilização de álcoois\n\nA utilização de álcoois, com exceção de álcool etílico, em fins terapêuticos ou sanitários, nomeadamente para produção de produtos biocidas desinfetantes, está sujeita ao prévio parecer da Direção-Geral da Saúde ou da Direção-Geral da Alimentação e Veterinária, em função do tipo de produto e dos fins a que se destina."
+  },
+  "132813584": {
+   "fragment_id": "132850480",
+   "type": 11,
+   "heading": "Artigo 5.º — Vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Vigência\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e vigora até terminar o estado de emergência.\n\n> Nota: [Artigo 1.º, Portaria n.º 105/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/portaria/105-2020-132721069) O prazo de vigência previsto no presente artigo é prorrogado, até 31 de dezembro de 2020."
+  },
+  "132813585": {
+   "fragment_id": "132850481",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nA presente portaria produz efeitos desde 20 de março de 2020.\n\nEm 3 de abril de 2020."
+  }
+ }
+}

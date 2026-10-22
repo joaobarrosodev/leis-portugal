@@ -1,0 +1,239 @@
+---
+schema_version: '1.0'
+id: pt:dre:596288:por
+title: Portaria n.º 177/2005
+short_title: null
+summary: Altera a Portaria n.º 46-A/2001, de 25 de Janeiro, que aprova o Regulamento de Aplicação da Intervenção Indemnizações
+  Compensatórias do Programa de Desenvolvimento Rural - RURIS
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Florestas
+proposing_entity: null
+official_number: 177/2005
+official_date: null
+publication_date: '2005-02-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 31/2005, Série I-B de 2005-02-14
+  number: '31'
+  series: I
+  supplement: null
+  pages: 1058 - 1059
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/02/031b00/10581059.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/177/2005/02/14/p/dre/pt/html
+  oj: null
+  dre: '596288'
+  dre_path: /dr/detalhe/portaria/177-2005-596288
+  internal: pt:dre:596288:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/177-2005-596288
+  metadata_url: https://data.dre.pt/eli/port/177/2005/02/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/177-2005-596288
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-02-16T00:00:00Z'
+integrity:
+  source_sha256: 7f5aca004dec968345cc6647a9c84af50babd270bbb229bc4842ab98df0cb211
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-177-596288.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Definição de Competências
+- Projeto de Investimento
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Exploração Agrícola
+- Ruris
+- Regime de Apoio
+- Região Desfavorecida
+- Agricultura
+relationships:
+- type: amended_by
+  target: pt:dre:683668:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/235/1997/09/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/235/1997/09/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/446/1991/11/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/446/1991/11/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/64/2004/03/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/64/2004/03/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/68/1999/03/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/68/1999/03/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1190/2003/10/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1190/2003/10/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/193/2003/02/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/193/2003/02/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/46-a/2001/01/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/46-a/2001/01/25/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 177/2005
+
+de 14 de Fevereiro
+
+A intervenção Indemnizações Compensatórias do Plano de Desenvolvimento Rural tem como objectivo principal o apoio às regiões desfavorecidas através da manutenção das comunidades rurais e do espaço natural.
+
+A avaliação intercalar ao Plano de Desenvolvimento Rural, designadamente no que se refere a esta intervenção, concluiu pela necessidade de diferenciar e acentuar de forma positiva o apoio aos agricultores localizados na zona de montanha com vista a alcançar o objectivo referido.
+
+Deste modo, foi apresentado à Comissão Europeia um pedido de alteração no que respeita ao valor das ajudas a atribuir no âmbito da intervenção Indemnizações Compensatórias.
+
+Em virtude de a proposta apresentada ter merecido a aprovação daquela entidade, importa introduzir neste regime de ajudas as modificações decorrentes.
+
+Procede-se ainda à clarificação de algumas normas relativas às boas práticas agrícolas e incluem-se as boas práticas agrícolas específicas para as zonas vulneráveis em virtude de algumas destas zonas estarem situadas em zonas desfavorecidas e prevê-se a respectiva penalização em caso de incumprimento.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 3.º do [Decreto-Lei n.º 64/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2004-541267), de 22 de Março:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Florestas, que os artigos 7.º e 12.º e os anexos II e III do Regulamento de Aplicação da Intervenção Indemnizações Compensatórias, aprovado pela [Portaria n.º 46-A/2001](https://diariodarepublica.pt/dr/detalhe/portaria/46-a-2001-220163), de 25 de Janeiro, republicado pela [Portaria n.º 193/2003](https://diariodarepublica.pt/dr/detalhe/portaria/193-2003-187502), de 22 de Fevereiro, com as alterações introduzidas pela [Portaria n.º 1190/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1190-2003-481940), de 10 de Outubro, passem a ter a seguinte redacção:
+
+###### Artigo 7.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Catástrofe natural ou acidente meteorológico graves, incêndio que afecte a superfície agrícola da exploração, destruição das instalações pecuárias não imputável ao beneficiário e epizootia que afecte a totalidade ou parte dos efectivos desde que ponham em causa as condições de acesso previstas nas alíneas b) e c) do n.º 1 do artigo 4.º
+
+2 - Os casos de força maior e as respectivas provas devem ser comunicados ao Instituto Nacional de Intervenção e Garantia Agrícola (INGA), por escrito, no prazo de 30 dias úteis a contar da data da ocorrência, sem prejuízo de impedimento devidamente justificado.
+
+###### Artigo 12.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+2 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+i) ...
+
+ii) ...
+
+iii) ...
+
+d) A redução de 30% do valor da ajuda no caso de os beneficiários não respeitarem as normas aplicáveis à gestão das áreas designadas para a conservação da natureza ou as normas dos programas de acção das zonas vulneráveis;
+
+e) ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+4 - ...
+
+## ANEXO II — [...]
+
+A) Boas práticas agrícolas para as zonas desfavorecidas
+
+Sem prejuízo do cumprimento das normas comunitárias e nacionais relativas ao ambiente, higiene e bem-estar animal, os beneficiários das indemnizações compensatórias devem cumprir as seguintes normas:
+
+1):
+
+a) Com excepção das parcelas armadas em socalcos ou terraços e nas áreas integradas em várzeas, quando o valor do índice de qualificação fisiográfica da parcela (IQFP) (ver nota 1) for de 4:
+
+i) Não são permitidas culturas anuais;
+
+ii) A instalação de novas culturas arbóreas e arbustivas ou pastagens apenas é permitida nas situações que os serviços regionais do Ministério da Agricultura, Pescas e Florestas venham a considerar tecnicamente adequadas;
+
+b) Com excepção das parcelas armadas em socalcos ou terraços e nas áreas integradas em várzeas, quando o valor do IQFP for de 5:
+
+i) Não são permitidas culturas anuais nem a instalação de novas pastagens;
+
+ii) É permitida a melhoria das pastagens naturais, mas sem mobilização do solo;
+
+iii) A instalação de novas culturas arbóreas e arbustivas é permitida nas situações que os serviços regionais do Ministério da Agricultura, Pescas e Florestas venham a considerar tecnicamente adequadas;
+
+2) Os fertilizantes e os produtos fitofarmacêuticos devem ser armazenados em local resguardado, seco e com piso impermeabilizado, a mais de 10 m de cursos de água, valas e condutas de drenagem, poços, furos ou nascentes, excepto no caso de depósitos de fertirrega que tenham um sistema de protecção contra fugas;
+
+3) Cumprir o disposto no [Decreto-Lei n.º 446/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1991-321512), de 22 de Novembro, relativo à utilização de certas lamas provenientes de estações de tratamento de águas residuais;
+
+4) Aplicar em cada cultura apenas os produtos fitofarmacêuticos homologados;
+
+5) Fazer a recolha e concentração dos materiais plásticos relativos ao processo produtivo agrícola, pneus e óleos;
+
+6) Respeitar as normas aplicáveis à gestão das áreas designadas para a conservação da natureza;
+
+7) No caso de explorações com pecuária intensiva ((maior que) 50 CN estabuladas), devem dispor de um registo do sistema de gestão dos efluentes da pecuária e silos discriminando o efectivo pecuário estabulado, quantidade de efluentes produzidos anualmente e o seu destino.
+
+B) Boas práticas agrícolas específicas para as zonas vulneráveis
+
+Para além das condições definidas para as restantes zonas, cumprir as normas dos programas de acção das zonas vulneráveis, na acepção do [Decreto-Lei n.º 235/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-1997-641126), de 3 de Setembro, com as alterações introduzidas pelo [Decreto-Lei n.º 68/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-1999-158047), de 11 de Março.
+
+(nota 1) «Índice de qualificação fisiográfica da parcela» é um indicador que traduz a relação entre a morfologia da parcela e o seu risco de erosão e consta do modelo P1 do sistema de identificação parcelar agrícola.
+
+## ANEXO III — [...]
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2005/02/031b00/10581059.pdf)
+
+**O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves, em 21 de Janeiro de 2005.**

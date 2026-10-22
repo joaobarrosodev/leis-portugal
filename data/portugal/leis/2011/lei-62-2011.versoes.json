@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145588:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2011-57926024",
+ "dre_path": "/dr/detalhe/lei/62-2011-145588",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-12-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "57923436",
+    "57923437",
+    "57923438",
+    "57923439",
+    "57923440",
+    "57923441",
+    "57923442",
+    "57923443",
+    "57923444",
+    "57923445"
+   ]
+  },
+  {
+   "date": "2019-01-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117279933:por",
+     "title": "Decreto-Lei n.º 110/2018",
+     "published": "2018-12-10",
+     "dre_path": "/dr/detalhe/decreto-lei/110-2018-117279933"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "57923436",
+    "57923437",
+    "117339870",
+    "117339871",
+    "57923440",
+    "57923441",
+    "57923442",
+    "57923443",
+    "57923444",
+    "57923445",
+    "57923447"
+   ]
+  }
+ ],
+ "fragments": {
+  "57923436": {
+   "fragment_id": "57926025",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 62/2011\n\nde 12 de Dezembro\n\nCria um regime de composição dos litígios emergentes de direitos de propriedade industrial quando estejam em causa medicamentos de referência e medicamentos genéricos, procedendo à quinta alteração ao Decreto-Lei n.º 176/2006, de 30 de Agosto, e à segunda alteração ao regime geral das comparticipações do Estado no preço dos medicamentos, aprovado em anexo ao Decreto-Lei n.º 48-A/2010, de 13 de Maio.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "57923437": {
+   "fragment_id": "57926026",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei cria um regime de composição dos litígios emergentes de direitos de propriedade industrial quando estejam em causa medicamentos de referência e medicamentos genéricos, procedendo à quinta alteração ao Decreto-Lei n.º 176/2006, de 30 de Agosto, alterado pelos Decretos-Leis n.os 182/2009, de 7 de Agosto, 64/2010, de 9 de Junho, e 106-A/2010, de 1 de Outubro, e pela Lei n.º 25/2011, de 16 de Junho, e à segunda alteração ao regime geral das comparticipações do Estado no preço dos medicamentos, aprovado em anexo ao Decreto-Lei n.º 48-A/2010, de 13 de Maio, alterado pelo Decreto-Lei n.º 106-A/2010, de 1 de Outubro."
+  },
+  "57923438": {
+   "fragment_id": "57926027",
+   "type": 11,
+   "heading": "Artigo 2.º — Arbitragem necessária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Arbitragem necessária\n\nOs litígios emergentes da invocação de direitos de propriedade industrial, incluindo os procedimentos cautelares, relacionados com medicamentos de referência, na acepção da alínea ii) do n.º 1 do artigo 3.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, e medicamentos genéricos, independentemente de estarem em causa patentes de processo, de produto ou de utilização, ou de certificados complementares de protecção, ficam sujeitos a arbitragem necessária, institucionalizada ou não institucionalizada."
+  },
+  "57923439": {
+   "fragment_id": "57926028",
+   "type": 11,
+   "heading": "Artigo 3.º — Instauração do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instauração do processo\n\n1 - No prazo de 30 dias a contar da publicitação a que se refere o artigo 15.º-A do Decreto-Lei n.º 176/2006, de 30 de Agosto, na redacção conferida pela presente lei, o interessado que pretenda invocar o seu direito de propriedade industrial nos termos do artigo anterior deve fazê-lo junto do tribunal arbitral institucionalizado ou efectuar pedido de submissão do litígio a arbitragem não institucionalizada.\n\n2 - A não dedução de contestação, no prazo de 30 dias após notificação para o efeito pelo tribunal arbitral, implica que o requerente de autorização, ou registo, de introdução no mercado do medicamento genérico não poderá iniciar a sua exploração industrial ou comercial na vigência dos direitos de propriedade industrial invocados nos termos do n.º 1.\n\n3 - As provas devem ser oferecidas pelas partes com os respectivos articulados.\n\n4 - Apresentada a contestação, é designada data e hora para a audiência de produção da prova que haja de ser produzida oralmente.\n\n5 - A audiência a que se refere o número anterior tem lugar no prazo máximo de 60 dias posteriores à apresentação da oposição.\n\n6 - Sem prejuízo do disposto no regime geral da arbitragem voluntária no que respeita ao depósito da decisão arbitral, a falta de dedução de contestação ou a decisão arbitral, conforme o caso, é notificada, por meios electrónicos, às partes, ao INFARMED, I. P., e ao Instituto Nacional da Propriedade Industrial, I. P., o qual procede à sua publicitação no Boletim da Propriedade Industrial.\n\n7 - Da decisão arbitral cabe recurso para o Tribunal da Relação competente, com efeito meramente devolutivo.\n\n8 - Em tudo o que não se encontrar expressamente contrariado pelo disposto nos números anteriores é aplicável o regulamento do centro de arbitragem, institucionalizado ou não institucionalizado, escolhido pelas partes e, subsidiariamente, o regime geral da arbitragem voluntária."
+  },
+  "57923440": {
+   "fragment_id": "57926029",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 176/2006, de 30 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 176/2006, de 30 de Agosto\n\nOs artigos 19.º, 25.º, 179.º e 188.º e o n.º 6 da parte ii do anexo i do Decreto-Lei n.º 176/2006, de 30 de Agosto, alterado pelos Decretos-Leis n.os 182/2009, de 7 de Agosto, 64/2010, de 9 de Junho, e 106-A/2010, de 1 de Outubro, e pela Lei n.º 25/2011, de 16 de Junho, passam a ter a seguinte redacção:\n\n«Artigo 19.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - ...\n\n7 - ...\n\n8 - A realização dos estudos e ensaios necessários à aplicação dos n.os 1 a 6 e as exigências práticas daí decorrentes, incluindo a correspondente concessão de autorização prevista no artigo 14.º, não são contrárias aos direitos relativos a patentes ou a certificados complementares de protecção de medicamentos.\n\nArtigo 25.º\n\n[...]\n\n1 - ...\n\n2 - O pedido de autorização de introdução no mercado não pode ser indeferido com fundamento na eventual existência de direitos de propriedade industrial, sem prejuízo do disposto no n.º 4 do artigo 18.º\n\n3 - Para determinar se um medicamento preenche as condições previstas nas alíneas c) a f) do n.º 1, o INFARMED tem em conta os dados relevantes, ainda que protegidos.\n\n4 - (Anterior n.º 3.)\n\nArtigo 179.º\n\n[...]\n\n1 - ...\n\n2 - A autorização, ou registo, de introdução no mercado de um medicamento não pode ser alterada, suspensa ou revogada com fundamento na eventual existência de direitos de propriedade industrial.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)\n\n7 - (Anterior n.º 6.)\n\nArtigo 188.º\n\n[...]\n\n1 - Os trabalhadores em funções públicas e outros colaboradores do INFARMED, bem como qualquer pessoa que, por ocasião do exercício das suas funções, tome conhecimento de elementos ou documentos apresentados ao INFARMED, à Comissão Europeia, à Agência ou à autoridade competente de outro Estado membro, estão sujeitos ao dever de sigilo.\n\n2 - São confidenciais os elementos ou documentos apresentados ao INFARMED ou a este transmitidos pela Comissão Europeia, pela Agência ou pela autoridade competente de outro Estado membro, sem prejuízo do disposto no presente decreto-lei.\n\n3 - Presume-se que todo e qualquer elemento ou documento previsto nos números anteriores é classificado ou é susceptível de revelar um segredo comercial, industrial ou profissional ou um segredo relativo a um direito de propriedade literária, artística ou científica, salvo se o órgão de direcção do INFARMED decidir em sentido contrário.\n\n4 - Sem prejuízo do disposto na parte final do número anterior, o fornecimento de informação a terceiros sobre um pedido de autorização, ou registo, de introdução no mercado de um medicamento de uso humano, é diferido até à tomada da decisão final.\n\n5 - Sempre que o requerente da informação sobre um pedido de autorização, ou registo, de introdução no mercado de um medicamento de uso humano for um terceiro que, nos termos do artigo 64.º do Código do Procedimento Administrativo, demonstre ter legítimo interesse no conhecimento desses elementos, e ainda não tenha sido proferida decisão final sobre aquele pedido, é fornecida, apenas, a seguinte informação:\n\na) Nome do requerente da autorização de introdução no mercado;\n\nb) Data do pedido;\n\nc) Substância, dosagem e forma farmacêutica do medicamento;\n\nd) Medicamento de referência.\n\n6 - (Anterior n.º 5.)\n\nANEXO I\n\nPARTE II\n\n[...]\n\n...\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - Documentação para pedidos em circunstâncias excepcionais.\n\nQuando, de acordo com o disposto no n.º 3 do artigo 25.º, o requerente possa demonstrar ser incapaz de fornecer dados completos sobre a eficácia e segurança em condições normais de utilização, em virtude de:\n\n- O medicamento em questão estar indicado em situações tão raras que se não pode esperar que o requerente forneça dados completos, ou\n\n- Não ser possível apresentar informações completas no actual estado dos conhecimentos científicos, ou\n\n- A recolha de tal informação não se coadunar com os princípios geralmente aceites de deontologia médica, pode ser concedida uma autorização de introdução no mercado caso se verifiquem determinadas condições específicas.\n\nEssas condições podem incluir o seguinte:\n\n- O requerente deve proceder, no prazo especificado pelas autoridades competentes, a um programa de estudos bem determinado, cujos resultados irão estar na base de uma reavaliação da relação benefício-risco;\n\n- O medicamento em questão deve ser de receita obrigatória e só pode ser administrado em certos casos sob controlo médico estrito, possivelmente num hospital ou, no que respeita a um medicamento radiofarmacêutico, por uma pessoa autorizada;\n\n- O folheto informativo e quaisquer outras informações existentes sobre o medicamento em questão serem ainda inadequadas em certos aspectos específicos.\n\n7 - ...»"
+  },
+  "57923441": {
+   "fragment_id": "57926030",
+   "type": 11,
+   "heading": "Artigo 5.º — Aditamento ao Decreto-Lei n.º 176/2006, de 30 de Agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aditamento ao Decreto-Lei n.º 176/2006, de 30 de Agosto\n\nSão aditados ao Decreto-Lei n.º 176/2006, de 30 de Agosto, alterado pelos Decretos-Leis n.os 182/2009, de 7 de Agosto, 64/2010, de 9 de Junho, e 106-A/2010, de 1 de Outubro, e pela Lei n.º 25/2011, de 16 de Junho, os artigos 15.º-A e 23.º-A, com a seguinte redacção:\n\n«Artigo 15.º-A\n\nPublicitação do requerimento\n\n1 - O INFARMED, I. P., publicita, na sua página electrónica, todos os pedidos de autorização, ou registo, de introdução no mercado de medicamentos genéricos, independentemente do procedimento a que os mesmos obedeçam.\n\n2 - A publicitação prevista no número anterior deve ter lugar no prazo de cinco dias após o decurso do prazo previsto no n.º 1 do artigo 16.º e conter os seguintes elementos:\n\na) Nome do requerente da autorização de introdução no mercado;\n\nb) Data do pedido;\n\nc) Substância, dosagem e forma farmacêutica do medicamento;\n\nd) Medicamento de referência.\n\nArtigo 23.º-A\n\nObjecto do procedimento\n\n1 - A concessão pelo INFARMED, I. P., de uma autorização, ou registo, de introdução no mercado de um medicamento de uso humano, bem como o procedimento administrativo que àquela conduz, têm exclusivamente por objecto a apreciação da qualidade, segurança e eficácia do medicamento.\n\n2 - O procedimento administrativo referido no número anterior não tem por objecto a apreciação da existência de eventuais direitos de propriedade industrial.»"
+  },
+  "57923442": {
+   "fragment_id": "57926031",
+   "type": 11,
+   "heading": "Artigo 6.º — Aditamento ao regime geral das comparticipações do Estado no preço dos medicamentos, aprovado em anexo ao Decreto-Lei n.º 48-A/2010, de 13 de Maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aditamento ao regime geral das comparticipações do Estado no preço dos medicamentos, aprovado em anexo ao Decreto-Lei n.º 48-A/2010, de 13 de Maio\n\nÉ aditado ao regime geral das comparticipações do Estado no preço dos medicamentos, constante do anexo i ao Decreto-Lei n.º 48-A/2010, de 13 de Maio, alterado pelo Decreto-Lei n.º 106.º-A/2010, de 1 de Outubro, o artigo 2.º-A, com a seguinte redacção:\n\n«Artigo 2.º-A\n\nÂmbito de apreciação e decisão\n\n1 - A decisão sobre a inclusão, ou exclusão, de medicamento na comparticipação, bem como o procedimento que àquela conduz, não têm por objecto a apreciação da existência de eventuais direitos de propriedade industrial.\n\n2 - A decisão referida no número anterior não é contrária aos direitos relativos a patentes ou a certificados complementares de protecção de medicamentos.\n\n3 - O pedido que visa a obtenção da decisão prevista nos números anteriores não pode ser indeferido com fundamento na existência de eventuais direitos de propriedade industrial.\n\n4 - A decisão sobre a inclusão, ou exclusão, de medicamentos na comparticipação só pode ser alterada, suspensa ou revogada com base nos fundamentos previstos nos n.os 1 e 2 do artigo 4.º do presente regime.\n\n5 - A decisão sobre a inclusão, ou exclusão, de um medicamento na comparticipação não pode ser alterada, suspensa ou revogada com fundamento na existência de eventuais direitos de propriedade industrial.»"
+  },
+  "57923443": {
+   "fragment_id": "57926032",
+   "type": 11,
+   "heading": "Artigo 7.º — Formação de preços dos medicamentos genéricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Formação de preços dos medicamentos genéricos\n\nO preço de venda ao público (PVP) dos medicamentos genéricos a introduzir no mercado nacional, bem como dos que sejam objecto do procedimento previsto no n.º 3 do artigo 31.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, é inferior no mínimo em 50 % ao PVP do medicamento de referência, com igual dosagem e na mesma forma farmacêutica, sem prejuízo das especificidades estabelecidas na legislação sobre a formação de preços dos medicamentos."
+  },
+  "57923444": {
+   "fragment_id": "57926033",
+   "type": 11,
+   "heading": "Artigo 8.º — Autorização de preços do medicamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Autorização de preços do medicamento\n\n1 - A decisão de autorização do PVP do medicamento, bem como o procedimento que àquela conduz, não têm por objecto a apreciação da existência de eventuais direitos de propriedade industrial.\n\n2 - A autorização do PVP dos medicamentos não é contrária aos direitos relativos a patentes ou a certificados complementares de protecção de medicamentos.\n\n3 - O pedido que visa a obtenção da autorização prevista nos números anteriores não pode ser indeferido com fundamento na existência de eventuais direitos de propriedade industrial.\n\n4 - A autorização do PVP do medicamento não pode ser alterada, suspensa ou revogada com fundamento na existência de eventuais direitos de propriedade industrial."
+  },
+  "57923445": {
+   "fragment_id": "57926034",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições transitórias\n\n1 - A redacção dada pela presente lei aos artigos 19.º, 25.º e 179.º do Decreto-Lei n.º 176/2006, de 30 de Agosto, bem como o aditamento introduzido ao regime geral das comparticipações do Estado no preço dos medicamentos e o disposto no artigo anterior, têm natureza interpretativa.\n\n2 - No prazo de 30 dias após a entrada em vigor da presente lei, o INFARMED, I. P., publicita os elementos previstos no artigo 15.º-A do Decreto-Lei n.º 176/2006, de 30 de Agosto, na redacção conferida pela presente lei, referentes aos medicamentos para os quais ainda não tenha sido proferida pelo menos uma das decisões de autorização de introdução no mercado, do preço de venda ao público ou de inclusão na comparticipação do Estado no preço dos medicamentos.\n\n3 - O interessado dispõe de 30 dias, a contar da publicitação referida no número anterior, para invocar o seu direito de propriedade industrial nos termos dos artigos 2.º e 3.º da presente lei."
+  },
+  "117339870": {
+   "fragment_id": "57926027",
+   "type": 11,
+   "heading": "Artigo 2.º — Arbitragem voluntária",
+   "in_force_from": "2019-01-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 110/2018 - Diário da República n.º 237/2018, Série I de 2018-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2018-117279933), em vigor a partir de 2019-01-09"
+   ],
+   "markdown": "###### Artigo 2.º — Arbitragem voluntária\n\nOs litígios emergentes da invocação de direitos de propriedade industrial, incluindo os procedimentos cautelares, relacionados com medicamentos de referência, designadamente os medicamentos que são autorizados com base em documentação completa, incluindo resultados de ensaios farmacêuticos, pré-clínicos e clínicos, e medicamentos genéricos, independentemente de estarem em causa patentes de processo, de produto ou de utilização, ou de certificados complementares de proteção, podem ser sujeitos a arbitragem voluntária, institucionalizada ou não institucionalizada.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 110/2018 - Diário da República n.º 237/2018, Série I de 2018-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2018-117279933), em vigor a partir de 2019-01-09"
+  },
+  "117339871": {
+   "fragment_id": "57926028",
+   "type": 11,
+   "heading": "Artigo 3.º — Instauração do processo",
+   "in_force_from": "2019-01-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 110/2018 - Diário da República n.º 237/2018, Série I de 2018-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2018-117279933), em vigor a partir de 2019-01-09"
+   ],
+   "markdown": "###### Artigo 3.º — Instauração do processo\n\n1 - No prazo de 30 dias a contar da publicitação na página eletrónica do INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), de todos os pedidos de autorização, ou registo, de introdução no mercado de medicamentos genéricos, o interessado que pretenda invocar o seu direito de propriedade industrial nos termos do artigo anterior deve fazê-lo junto do Tribunal da Propriedade Intelectual ou, em caso de acordo entre as partes junto do tribunal arbitral institucionalizado ou efetuar pedido de submissão do litígio a arbitragem não institucionalizada.\n\n2 - A não dedução de contestação, no prazo de 30 dias após citação na ação intentada no Tribunal da Propriedade Intelectual ou da notificação para o efeito pelo tribunal arbitral, implica que o requerente de autorização, ou registo, de introdução no mercado do medicamento genérico não pode iniciar a sua exploração industrial ou comercial na vigência dos direitos de propriedade industrial invocados nos termos do número anterior.\n\n3 - No processo arbitral pode ser invocada e reconhecida a invalidade da patente com meros efeitos inter partes.\n\n4 - No processo arbitral:\n\na) As provas devem ser oferecidas pelas partes com os respetivos articulados;\n\nb) Apresentada a contestação, é designada data e hora para a audiência de produção da prova que haja de ser produzida oralmente;\n\nc) A audiência a que se refere a alínea anterior tem lugar no prazo máximo de 60 dias posteriores à apresentação da oposição.\n\n5 - Sem prejuízo do disposto no regime geral da arbitragem voluntária no que respeita ao depósito da decisão arbitral, a falta de dedução de contestação ou a decisão arbitral, conforme o caso, é notificada, por meios electrónicos, às partes, ao INFARMED, I. P., e ao Instituto Nacional da Propriedade Industrial, I. P., o qual procede à sua publicitação no Boletim da Propriedade Industrial.\n\n6 - Para os efeitos previstos no número anterior, cabe ao tribunal decidir quais os elementos da decisão que não devem ser objeto de publicação, devendo, sendo o caso, remeter ao Instituto Nacional da Propriedade Industrial, I. P., a decisão a publicar já sem esses elementos.\n\n7 - Da decisão arbitral cabe recurso para o Tribunal da Relação competente, com efeito meramente devolutivo.\n\n8 - Em tudo o que não se encontrar expressamente contrariado pelo disposto nos números anteriores é aplicável o regulamento do centro de arbitragem, institucionalizado ou não institucionalizado, escolhido pelas partes e, subsidiariamente, o regime geral da arbitragem voluntária.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 110/2018 - Diário da República n.º 237/2018, Série I de 2018-12-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2018-117279933), em vigor a partir de 2019-01-09"
+  },
+  "57923447": {
+   "fragment_id": "57926035",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de Outubro de 2011.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 28 de Novembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 29 de Novembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

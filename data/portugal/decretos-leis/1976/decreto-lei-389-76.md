@@ -1,0 +1,172 @@
+---
+schema_version: '1.0'
+id: pt:dre:426921:por
+title: Decreto-Lei n.º 389/76
+short_title: null
+summary: Extingue o licenciamento e as taxas de radiodifusão sonora de aparelhos radiorreceptores e institui uma sobretaxa
+  nacional de radiodifusão
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças, da Indústria e Tecnologia e da Comunicação Social
+proposing_entity: null
+official_number: 389/76
+official_date: null
+publication_date: '1976-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 121/1976, Série I de 1976-05-24
+  number: '121'
+  series: I
+  supplement: null
+  pages: 1165 - 1167
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/05/12100/11651167.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '426921'
+  dre_path: /dr/detalhe/decreto-lei/389-1976-426921
+  internal: pt:dre:426921:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1976-426921
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-1976-426921
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-08-22T00:00:00Z'
+integrity:
+  source_sha256: c00a7fd1ecbff1241205313b67e353425b062d5c9f64088a4bf1545c26b2f352
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-389-426921.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:656106:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 389/76
+
+de 24 de Maio
+
+As principais fontes de receita dos servidores da Emissora Nacional têm residido na taxação directa dos radiouvintes, em função da sua qualidade de possuidores de aparelhos receptores de radiodifusão. O sistema encontra-se estatuído no diploma regulamentar aprovado pelo [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957, subsequente à redefinição daquele organismo como serviço dotado de autonomia financeira ([Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), de 30 de Dezembro de 1957).
+
+Um tal sistema de tributação directa, incidente sobre cada receptor possuído pelo radiouvinte, tem-se revelado oneroso e, de certo modo, odioso, pela apertada fiscalização a que obriga, pela completa máquina burocrática que exige e pelo vasto contencioso que implica. Tudo isso, sem deixar de ser pouco eficaz, na medida em que os processos de execução fiscal, para cuja instrução e julgamento foi criado um dispendioso tribunal especializado, não conseguem atingir a desejada capacidade de resposta.
+
+Bastará referir, a este respeito, que em 31 de Dezembro de 1974 pendiam de instrução ou julgamento cerca de quatrocentos mil processos e que este número, de si impressionante, cresce à razão alucinatória de mais de cerca de vinte mil por ano. Acresce que a fiscalização, por mais apertada que se torne, jamais conseguirá o nível de eficácia razoável, estimando-se que apenas cerca de 60% a 70% dos possuidores de radioreceptores requisitam as respectivas licenças e que destes cerca de mais de 20% não pagam normalmente as correspondentes taxas. Esta percentagem cresceu recentemente em flecha.
+
+Realçável é ainda a injustiça de uma taxa que não distingue ricos de pobres, incidindo igualmente sobre uns e outros.
+
+Apesar do recente aumento do valor unitário da taxa (mantida durante largos anos em 100$00 anuais e aumentada, pelo [Decreto n.º 87/75](https://diariodarepublica.pt/dr/detalhe/decreto/87-1975-160097), de 27 de Fevereiro, para 150$00), o sistema actual não tem permitido cobrir a totalidade dos encargos normais da Emissora Nacional como serviço autónomo.
+
+Tendo o Governo tomado conhecimento da grave crise de desequilíbrio orçamental com que se debatia a Emissora Nacional, foi constituído um grupo de trabalho para o estudo de tal situação, o qual concluiu pela necessidade de se proceder à sua reconversão financeira por meio de um novo sistema que evite o recurso a repetidos subsídios não reembolsáveis.
+
+Nessa linha se substitui o actual sistema de tributação directa e específica do radiouvinte por um esquema baseado em escalões pré-definidos do consumo de energia eléctrica para fins domésticos.
+
+Trata-se, é certo, de uma tributação que vai recair sobre consumidores que não serão necessariamente possuidores de instalações radiorreceptoras, de passo que isenta consumidores que porventura o sejam. Mas, quanto a estes, bastará realçar que, situando-se entre os mais modestos consumidores de energia eléctrica, situar-se-ão também, em regra, entre os mais pobres, pelo que a isenção é justa.
+
+Quanto àqueles, o inconveniente deve ser encarado do ângulo das seguintes considerações:
+
+a) O problema transcende, desde a recente medida de nacionalização das principais estações privadas de radiodifusão, o âmbito da Emissora Nacional. A partir de agora, tem de ser encarado na perspectiva de um serviço público nacional juridicamente enquadrado na Radiodifusão Portuguesa, E. P., criada pelo [Decreto-Lei n.º 674-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/674-c-1975-302484), de 2 de Dezembro, com a rectificação introduzida pelo [Decreto-Lei n.º 153/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/153-1976-507648), de 23 de Fevereiro. Logo, pois, numa dimensão mais vasta, e como algo que, mais do que nunca, diz respeito a todos os portugueses.
+
+A nova Radiodifusão Portuguesa, E. P., é uma entidade pública, cujos objectivos de informação e de cultura, educação e recreio visam a sociedade portuguesa no seu conjunto. Assim sendo, deve ser a colectividade nacional, globalmente considerada e de acordo com as possibilidades económicas de cada um, a financiar uma instituição de interesse colectivo. É de resto, o que sucede com quase todos os impostos que o Estado lança para custear serviços públicos;
+
+b) Os encargos que o novo sistema implica são módicos e a sua distribuição equitativa. Bastará referir que, segundo inquérito feito junto de algumas das distribuidoras de energia eléctrica, a percentagem de consumo até 120 kWh/ano (beneficiando, pois, de total isenção) se situa à volta dos 26%, a dos consumos entre os 120 kWh e os 240 kWh/ano é, sensivelmente, de 10% e a dos consumos superiores a 240 kWh/ano abrange 64% dos consumidores;
+
+c) A circunstância de muitos radiouvintes utilizarem aparelhos transistorizados, alimentados a pilhas ou a acumuladores, que, por isso, aparentemente escapam à incidência da nova taxa, encontra atenuação indirecta no facto de, sendo normalmente também consumidores de electricidade, acabarem por ser tributados por via dos respectivos consumos;
+
+d) O novo sistema acarretará uma redução apreciável das despesas de fiscalização e cobrança e implicará, como é evidente, a necessidade de uma profunda reestruturação dos serviços administrativos da Radiodifusão Nacional, com a reclassificação e o redestino dos respectivos trabalhadores, cujo futuro profissional terá de ser justamente salvaguardado.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 3), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. São abolidos o licenciamento e as taxas de radiodifusão sonora de aparelhos radiorreceptores, a que se referem o artigo 32.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) e o Decreto-Lei n.º 41486, ambos de 30 de Dezembro de 1957, com a alteração constante do [Decreto n.º 87/75](https://diariodarepublica.pt/dr/detalhe/decreto/87-1975-160097), de 27 de Fevereiro.
+
+2. O licenciamento, fixação e cobrança de taxas de aparelhos receptores de televisão serão objecto de regulamentação autónoma.
+
+###### Art. 2.º - 1. É instituída uma taxa anual de radiodifusão de âmbito nacional, a cobrar em duodécimos, mensal e indirectamente, por intermédio das distribuidoras de energia eléctrica, a ela ficando sujeitos os consumidores domésticos de iluminação e outros usos.
+
+2. Para o efeito são considerados os seguintes escalões:
+
+a) Consumo anual até 120 kWh - isento de taxa;
+
+b) Consumo anual de 120 kWh até 240 kWh - taxa mensal de 10$00;
+
+c) Consumo anual de mais de 240 kWh - taxa mensal de 30$00.
+
+3. Sob proposta fundamentada da administração da Radiodifusão Portuguesa, E. P., os quantitativos da taxa nacional de radiodifusão sonora, bem como os respectivos escalões de incidência, podem ser objecto de revisão, mediante portaria conjunta dos Ministros da Comunicação Social, das Finanças e da Indústria e Tecnologia.
+
+###### Art. 3.º - 1. A taxa instituída pelo presente diploma constará do recibo relativo ao preço da energia eléctrica consumida, mas com autonomia contabilística em relação àquele e em lugar fisicamente separável do mesmo.
+
+2. O não pagamento pontual de um dos duodécimos da nova taxa acarretará o vencimento jurídico imediato dos restantes duodécimos, para o efeito da sua cobrança coerciva, sendo a mesma exigível em dobro.
+
+3. O pagamento voluntário em dobro dos duodécimos cronologicamente vencidos e não pagos obstará à instauração ou ao prosseguimento da cobrança coerciva do montante correspondente ao dobro da taxa anual vencida, nos termos do número anterior, restabelecendo o direito ao pagamento prestacional em singelo dos duodécimos vincendos.
+
+4. A instância extinta por força do pagamento em dobro facultado pelo número antecedente será isenta de custas.
+
+5. As quantias em dívida vencerão juros de mora à taxa anual de 10%.
+
+###### Art. 4.º - 1. A administração da Radiodifusão Portuguesa, E. P., promoverá a reestruturação dos respectivos serviços, designadamente os serviços administrativos, de contabilidade, tesouraria e expediente, em conjugação com os das empresas distribuidoras de energia, que funcionarão como exactoras dos meios de receita daquela.
+
+2. A mesma administração estruturará um plano de reclassificação e reutilização do pessoal dispensado das funções ou tarefas que deixem de existir por força da aplicação do presente diploma.
+
+3. Quer a reestruturação prevista no n.º 1, quer a planificação prevista no n.º 2, carecem de homologação do Ministro da Comunicação Social.
+
+###### Art. 5.º O pagamento do serviço prestado pelas distribuidoras de energia eléctrica à Radiodifusão Portuguesa, E. P., será feito em duodécimos mensais, por dedução, no valor das taxas recebidas de uma percentagem a fixar por despacho conjunto dos Ministros da Indústria e Tecnologia e da Comunicação Social.
+
+###### Art. 6.º Deixa de vigorar, com referência ao início do ano de 1976, o acordo entre a Emissora Nacional e os CTT relativo à cobrança das taxas de radiodifusão sonora.
+
+###### Art. 7.º Do regulamento aprovado pelo [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957, continuam em vigor as disposições relativas à cobrança coerciva das taxas e multas e à fiscalização técnica das instalações radioeléctricas receptoras de radiodifusão, na parte não revogada pelo disposto no presente diploma.
+
+###### Art. 8.º A execução do disposto no presente diploma será, até onde se mostre necessário, regulamentada por portaria conjunta dos Ministros da Comunicação Social, das Finanças e da Indústria e Tecnologia.
+
+###### Art. 9.º O presente diploma entra em vigor na data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros. - José Baptista Pinheiro de Azevedo - Francisco Salgado Zenha - Walter Ruivo Pinto Gomes Rosa - António de Almeida Santos.
+
+**Promulgado em 13 de Maio de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

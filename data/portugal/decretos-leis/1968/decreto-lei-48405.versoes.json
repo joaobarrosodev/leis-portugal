@@ -1,0 +1,476 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:271226:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1968-1014253295",
+ "dre_path": "/dr/detalhe/decreto-lei/48405-1968-271226",
+ "source_lastmod": "2026-01-20",
+ "versions": [
+  {
+   "date": "1968-05-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1006582819",
+    "1006582820",
+    "1006582821",
+    "1006582822",
+    "1006582823",
+    "1006582824",
+    "1006582825",
+    "1006582826",
+    "1006582827",
+    "1006582828",
+    "1006582829",
+    "1006582830",
+    "1006582831",
+    "1006582832",
+    "1006582833",
+    "1006582834",
+    "1006582835",
+    "1006582836",
+    "1006582837",
+    "1006582838",
+    "1006582839",
+    "1006582840",
+    "1006582841",
+    "1006582842"
+   ]
+  },
+  {
+   "date": "1968-07-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:273626:por",
+     "title": "Declaração",
+     "published": "1968-07-27",
+     "dre_path": "/dr/detalhe/declaracao/1968-273626"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 15.º"
+   ],
+   "fragments": [
+    "1006582819",
+    "1006582820",
+    "1006582821",
+    "1006582822",
+    "1006582823",
+    "1006582824",
+    "1006582825",
+    "1006582826",
+    "1006582827",
+    "1006582828",
+    "1006582829",
+    "1006582830",
+    "1006582831",
+    "1006582832",
+    "1006582833",
+    "1006582848",
+    "1006582835",
+    "1006582836",
+    "1006582837",
+    "1006582838",
+    "1006582839",
+    "1006582840",
+    "1006582841",
+    "1006582842",
+    "1006582843",
+    "1006582844",
+    "1006582845"
+   ]
+  },
+  {
+   "date": "1975-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:310672:por",
+     "title": "Decreto-Lei n.º 715/75",
+     "published": "1975-12-20",
+     "dre_path": "/dr/detalhe/decreto-lei/715-1975-310672"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "1006582819",
+    "1006582820",
+    "1006582821",
+    "1006582822",
+    "1006582823",
+    "1006582824",
+    "1020029028",
+    "1006582826",
+    "1006582827",
+    "1006582828",
+    "1006582829",
+    "1006582830",
+    "1006582831",
+    "1006582832",
+    "1006582833",
+    "1006582848",
+    "1006582835",
+    "1006582836",
+    "1006582837",
+    "1006582838",
+    "1006582839",
+    "1006582840",
+    "1006582841",
+    "1006582842",
+    "1006582843",
+    "1006582844",
+    "1006582845"
+   ]
+  },
+  {
+   "date": "1977-04-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:139919:por",
+     "title": "Decreto-Lei n.º 143/77",
+     "published": "1977-04-09",
+     "dre_path": "/dr/detalhe/decreto-lei/143-1977-139919"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "1006582819",
+    "1006582820",
+    "1006582821",
+    "1006582822",
+    "1006582823",
+    "1006582824",
+    "1024688442",
+    "1006582826",
+    "1006582827",
+    "1006582828",
+    "1006582829",
+    "1006582830",
+    "1006582831",
+    "1006582832",
+    "1006582833",
+    "1006582848",
+    "1006582835",
+    "1006582836",
+    "1006582837",
+    "1006582838",
+    "1006582839",
+    "1006582840",
+    "1006582841",
+    "1006582842",
+    "1006582843",
+    "1006582844",
+    "1006582845"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124324704:por",
+     "title": "Decreto-Lei n.º 132/2019",
+     "published": "2019-08-30",
+     "dre_path": "/dr/detalhe/decreto-lei/132-2019-124324704"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "1006582819",
+    "1006582820",
+    "1006582821",
+    "1006582822",
+    "1006582823",
+    "1006582824",
+    "1024688442",
+    "1006582826",
+    "1006582827",
+    "1006582828",
+    "1006582829",
+    "1006582830",
+    "1006582831",
+    "1006582832",
+    "1006582833",
+    "1006582848",
+    "1006582835",
+    "1006582836",
+    "1027595795",
+    "1006582838",
+    "1006582839",
+    "1006582840",
+    "1006582841",
+    "1006582842",
+    "1006582843",
+    "1006582844",
+    "1006582845"
+   ]
+  }
+ ],
+ "fragments": {
+  "1006582819": {
+   "fragment_id": "1014253296",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 48405\n\nA execução dos diplomas que constituem o regime tributário actualmente em vigor tem revelado, cada vez com maior acuidade e urgência, a necessidade de se introduzirem algumas modificações na estrutura e funcionamento dos serviços de administração fiscal, muito especialmente no que se refere ao recrutamento e à preparação dos seus funcionários.\n\nNum sistema em que prevalece o rigor da técnica jurídica na base de correspondentes e essenciais garantias do Estado e dos contribuintes e em que o factor económico assume igualmente um papel decisivo no próprio condicionamento da acção dos serviços, não poderiam deixar de constituir elemento de cuidada preocupação as formas como se deva proceder ao recrutamento e à preparação dos seus servidores.\n\nNão poderá, é certo, deixar de se ter em conta que algumas das realidades sujeitas à acção dos serviços fiscais não exigem, da parte dos respectivos agentes, em nível de preparação, e em imputação de responsabilidade, qualidades ou implicações específicas que devam superar aquelas que normalmente respeitam aos funcionários de mera execução. Tal não acontece, porém, com o exercício daquelas funções que tenham por objecto o julgamento, a avaliação dos factos tributáveis, a decisão e a interpretação, a aplicação das leis e a exigência e verificação do seu cumprimento. Trata-se, então, de estádios de tão decisivo interesse na vida das relações públicas que os seus efeitos não podem deixar de ser considerados factores essenciais da actividade do Estado, nem deixar de ser vistos pelo ângulo em que criam, àqueles que os executam, ónus especiais de responsabilidade funcional.\n\nDaí que se devam estabelecer, neste sector, duas ordens de agentes administrativos em matéria de exigibilidade de preparação e de gravidade das respectivas funções: a dos que exercem uma acção específica de administração técnico-fiscal - compreendendo a direcção, a decisão, a prevenção, a promoção da justiça fiscal, a interpretação das leis, a preparação e a garantia de realização da política tributária - e a dos que se limitam a funções gerais administrativas de mera execução, ou de responsabilidade geralmente diminuta em relação aos primeiros. O facto impõe que se procure distribuir por cada um dos serviços, segundo critérios de prudente equilíbrio e segundo a premência dos interesses, os funcionários destas duas ordens.\n\nA reorganização, em exacto sentido, do sector da administração fiscal só deverá fazer-se quando se tornar praticável a integração dos vários serviços na reforma geral da administração pública. E será nesse sentido que se deverá caminhar, necessàriamente.\n\nEntretanto, a premência das circunstâncias que se verificam no sector responsável pela arrecadação dos réditos do Estado obriga a tomar medidas imediatas que se situem, de resto, dentro das linhas já definidas para essa reforma ou que não prejudiquem as soluções definitivas que venham a ser adoptadas.\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "1006582820": {
+   "fragment_id": "1014253297",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nEnquanto não for promulgada a reorganização definitiva dos serviços de administração fiscal, observar-se-ão as disposições do presente decreto-lei quanto ao recrutamento, preparação e acesso dos funcionários da Direcção-Geral das Contribuições e Impostos e quanto ao funcionamento dos respectivos serviços.\n\n§ único. Em tudo que não seja contrário ao disposto neste diploma continua em vigor a Organização aprovada pelo Decreto n.º 45095, de 29 de Junho de 1963, e respectiva legislação complementar, a qual será novamente publicada mediante decreto do Ministro das Finanças, em harmonia com o disposto no presente decreto-lei."
+  },
+  "1006582821": {
+   "fragment_id": "1014253298",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNo quadro a que se refere o artigo 20.º da organização é substituída a categoria de chefe de secção pela de subdirector e extinta a categoria de escriturário-dactilógrafo, ficando os oficiais e os escriturários a constituir o quadro geral administrativo comum aos serviços centrais, direcções e repartições de finanças.\n\n§ 1.º Os serviços e os quadros do pessoal de cada um deles serão aprovados pelo Ministro das Finanças, nos termos do artigo 23.º da Organização.\n\n§ 2.º A proporção do pessoal do quadro geral administrativo em cada classe é de metade em relação ao número de funcionários da classe ou categoria imediatamente inferior.\n\n§ 3.º Além dos quadros fixos de cada serviço, haverá, na Direcção-Geral, um quadro de reserva, constituído por pessoal destinado a ser destacado pelo director-geral para prover a necessidades temporárias de quaisquer serviços, tendo, nesse caso, direito a abono de transportes e a participação em custas e emolumentos como se pertencesse ao quadro do respectivo serviço."
+  },
+  "1006582822": {
+   "fragment_id": "1014253299",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA nomeação para o cargo de aspirante é feita a título de estágio, mediante concurso realizado nos termos do artigo 49.º, § 3.º, da Organização, obrigando os respectivos funcionários, no fim de um ano de serviço, a exame de admissão ao curso de preparação para os cargos de secretário de finanças, o qual poderá ser repetido uma vez, no caso de reprovação ou falta não justificada.\n\n§ 1.º Os aspirantes estagiários que no exame de admissão ao curso a que se refere o corpo deste artigo obtiverem classificação igual ou superior a 12 valores adquirem automàticamente a categoria de aspirantes concursados; os aprovados com classificação inferior deverão optar pela passagem ao quadro de escriturários de 1.ª classe ou pela prorrogação da sua situação de estagiários até à sujeição ao exame de admissão imediato.\n\n§ 2.º Os aspirantes estagiários que em um ou em dois concursos sucessivos de admissão ao curso de secretários de finanças não tiverem na sua aprovação classificação igual ou superior a 12 valores passam ao quadro de escriturários de 1.ª classe e os que não obtiverem aprovação serão automàticamente desligados do serviço e rescindidos os respectivos contratos após a publicação da lista das classificações no Diário do Governo, sem prejuízo da sua admissão a novos concursos, nos termos do artigo 49.º, § 3.º, da Organização."
+  },
+  "1006582823": {
+   "fragment_id": "1014253300",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA nomeação para o cargo de escriturário de 2.ª classe é feita por concurso de provas práticas entre candidatos habilitados com o 1.º ciclo liceal ou equivalente ou, com dispensa de concurso, entre os aspirantes aprovados com menos de 12 valores no exame de admissão ao curso a que se refere o artigo 3.º\n\n§ 1.º A promoção a escriturário de 1.ª classe realiza-se na proporção de metade das vagas do quadro geral por antiguidade entre escriturários e auxiliares de desenho, e metade por concurso de aperfeiçoamento entre escriturários de 2.ª classe.\n\n§ 2.º É facultada aos escriturários que possuam habilitações legais a sujeição ao exame de admissão ao curso de secretários de finanças a que se refere o § 1.º do artigo 3.º, passando para o quadro de aspirantes, na categoria de concursados, se obtiverem nele a necessária classificação.\n\n§ 3.º Aos escriturárias competem, além das funções de dactilografia, as que lhes forem determinadas pelos respectivos chefes, e designadamente, quanto aos funcionários do sexo masculino, as de diligências externas.\n\n§ 4.º Nas repartições de finanças dos concelhos ou bairros, para efeitos do disposto na parte final do parágrafo anterior, o número de lugares de escriturário não poderá ser ocupado em mais de metade por funcionários do sexo feminino."
+  },
+  "1006582824": {
+   "fragment_id": "1014253301",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nÉ obrigatória para os aspirantes concursados a frequência de um curso de preparação para a categoria de secretário de finanças, o qual será dividido em dois graus, terá a duração de dois anos e será constituído por ensino teórico e prático, o primeiro ministrado por forma escrita e o segundo mediante trabalhos superiormente dirigidos.\n\n§ 1.º A aprovação no 1.º e no 2.º graus do curso a que se refere o número anterior atribui aos aspirantes concursados, independentemente de quaisquer formalidades, o direito de auferir o vencimento que lhes corresponder no mapa anexo ao presente decreto-lei.\n\n§ 2.º A reprovação por duas vezes em qualquer dos graus do curso fixa aos funcionários a categoria de aspirantes concursados, com o vencimento que então auferirem, podendo manter-se no mesmo lugar, ou passar, querendo, à categoria de terceiros-oficiais, para a qual serão dispensados do respectivo concurso os que tiverem obtido aprovação no 1.º ano do curso a que se refere o corpo deste artigo.\n\n§ 3.º Os oficiais que pretenderem transitar para o quadro técnico de administração fiscal poderão, mesmo na sua categoria, frequentar o curso a que se refere o corpo deste artigo, não se lhes aplicando, porém, o disposto nos parágrafos anteriores."
+  },
+  "1006582825": {
+   "fragment_id": "1014253302",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nAs categorias de secretários de finanças de 1.ª, 2.ª e 3.ª classes constituem o quadro técnico de administração fiscal, comum aos serviços centrais, direcções e repartições de finanças, sendo o acesso aos respectivos lugares feito mediante nomeação para secretário de finanças de 3.ª classe entre aspirantes concursados que o requeiram ou oficiais, nos termos do § 3.º do artigo anterior, habilitados com o 2.º grau do curso referido no mesmo artigo, por ordem das classificações obtidas em qualquer dos casos, e a promoção à 2.ª e à 1.ª classe realizada mediante concurso a que são admitidos os secretários de finanças de categoria imediatamente inferior com três anos de serviço na classe.\n\n§ 1.º O exercício de cargos de chefia é reservado aos funcionários da respectiva categoria do sexo masculino com classificação não inferior a 12 valores no respectivo curso ou concurso de promoção e idade não inferior a 24 anos, não sendo ainda permitido o exercício de funções de chefia nas repartições de finanças de 1.ª e 2.ª classes sem que os respectivos secretários de finanças desempenhem durante três anos funções de subchefia na mesma classe ou de chefia em repartições de classe anterior.\n\n§ 2.º A reprovação em dois concursos obrigatórios de admissão à classe seguinte priva igualmente os secretários de finanças do exercício de funções de chefia na própria classe a que pertençam.\n\n§ 3.º Os funcionários que, para efeitos do disposto no § 1.º deste artigo, se sujeitem a exercer funções de chefia ou de subchefia em repartições de classe inferior à da sua categoria conservam o direito aos vencimentos correspondentes à categoria que lhes pertença no quadro.\n\n§ 4.º É igualmente vedado o exercício de funções de chefia aos oficiais do quadro actual que, passando ao quadro dos secretários de finanças, não tenham feito concurso para secretários de finanças da respectiva classe com classificação igual ou superior a 12 valores, sem que se sujeitem a esse concurso e nele obtenham a classificação exigida.\n\n§ 5.º Enquanto não se completar o primeiro curso para secretários de finanças de 3.ª classe, o recrutamento para esta categoria far-se-á nos termos da legislação actualmente em vigor, sem prejuízo da obrigatoriedade da frequência do respectivo curso até à nomeação pelos actuais aspirantes e aspirantes concursados."
+  },
+  "1006582826": {
+   "fragment_id": "1014253303",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO acesso aos lugares de primeiro, segundo e terceiro-oficial é feito por nomeação mediante concurso, sendo admitidos aos de segundo e primeiro-oficial os oficiais de categoria imediatamente inferior com habilitações não inferiores ao 2.º ciclo liceal e aos de terceiro-oficial os escriturários de qualquer dos sexos com três anos de serviço quando habilitados com o 2.º ciclo liceal ou equivalente, bem como os escriturários com oito anos de bom e efectivo serviço se possuírem como habilitação o 1.º ciclo liceal ou equivalente e ainda os aspirantes concursados que pretendam optar pela carreira de oficial e não possuam o 1.º grau do curso para secretários de finanças.\n\n§ único. A chefia de serviços correspondentes à extinta categoria de chefe de secção compete, na Direcção-Geral e nas Direcções de Lisboa, Porto e Coimbra, a subdirectores de finanças e, nas restantes direcções, a subdirectores e secretários de finanças de 1.ª, 2.ª e 3.ª classes do sexo masculino, conforme os mapas anexos ao diploma a que se refere o artigo 2.º, § 1.º, deste decreto-lei."
+  },
+  "1006582827": {
+   "fragment_id": "1014253304",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nCompete aos subdirectores de finanças o desempenho das funções de chefia de serviços na Direcção-Geral e nas direcções de finanças, incluindo os do Ministério Público de Lisboa, Porto e Coimbra.\n\n§ 1.º São nomeados subdirectores de finanças os candidatos aprovados em concurso para director de finanças sem limite de classificação, nem de validade, que não\n\nobtenham vaga no respectivo quadro ou não possam ser nomeados para este cargo.\n\n§ 2.º A nomeação para subdirector dos candidatos aprovados no concurso para director de finanças não prejudica a sua futura nomeação para este último lugar se possuírem a necessária classificação, nem a apresentação a novo concurso quando pretendam melhorar a classificação anteriormente obtida.\n\n§ 3.º Ao concurso para directores de finanças só serão admitidos os secretários de finanças do sexo masculino com classificação não inferior a Bom e os funcionários da Inspecção-Geral de Finanças nos termos da respectiva legislação."
+  },
+  "1006582828": {
+   "fragment_id": "1014253305",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO curso de preparação para secretários de finanças fica a cargo do Serviço de Preparação Profissional, funcionando no Centro de Estudos Fiscais, sendo o corpo docente e de monitores constituído por elementos componentes do mesmo Centro e por funcionários dos serviços da Direcção-Geral ou da Inspecção-Geral de Finanças ou de outros serviços do Ministério destacados para o efeito ou trabalhando cumulativamente.\n\n§ 1.º As condições de funcionamento e programas do curso para secretários de finanças serão estabelecidas por despacho do Ministro das Finanças.\n\n§ 2.º Os funcionários destacados nos termos do corpo deste artigo darão vaga nos respectivos lugares, sendo-lhes aplicável o disposto no artigo 39.º da Organização.\n\n§ 3.º O disposto neste artigo será aplicável ao estágio dos candidatos ao concurso para directores de finanças se o Ministro das Finanças o determinar por despacho publicado antes da abertura do respectivo concurso.\n\n§ 4.º Poderá ainda o Ministro das Finanças estabelecer, nos termos do corpo deste artigo, cursos de especialização em matéria de contabilidade fiscal como condição de nomeação para os cargos de técnicos verificadores ou cursos preparatórios de admissão aos concursos de promoção à 2.ª e à 1.ª classe de secretários de finanças ou de verificação da idoneidade técnica para efeitos do artigo 12.º do presente decreto-lei."
+  },
+  "1006582829": {
+   "fragment_id": "1014253306",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nAs nomeações para os lugares de técnico de informação de 1.ª e 2.ª classes do Serviço de Informações Fiscais será feita, por livre escolha do Ministro das Finanças, entre secretários de finanças de 1.ª e 2.ª classes, respectivamente, sendo extintos os lugares de técnico informador de 3.ª classe à medida que vagarem os actuais lugares.\n\n§ único. São igualmente extintos desde já os lugares de auxiliar informador, sendo os respectivos funcionários colocados em lugares de aspirante estagiário."
+  },
+  "1006582830": {
+   "fragment_id": "1014253307",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nNo provimento dos cargos do Serviço de Prevenção e Fiscalização Tributária observar-se-ão as regras seguintes, sem prejuízo das estabelecidas na Organização da Direcção-Geral:\n\na) As funções referidas no artigo 68.º da Organização dos Serviços de Justiça Fiscal, com exclusão das directivas, poderão ser desempenhadas por juristas, economistas ou técnicos reverificadores, segundo os quadros a que se refere o § 1.º do artigo 2.º do presente diploma;\n\nb) As nomeações para os lugares de técnico verificador de 1.ª, 2.ª e 3.ª classes far-se-ão de entre secretários de finanças das classes correspondentes que tenham obtido no curso ou no concurso respectivo classificação não inferior a 12 valores na, prova de contabilidade fiscal, ou, quando o Ministro determinar, entre secretários de finanças da mesma classe destacados ou nomeados sem aquele requisito, ou de classe imediatamente inferior que obtenham aprovação em exame especial de contabilidade realizado para o mesmo fim;\n\nc) Os ajudantes de verificador serão recrutados entre aspirantes concursados que obtenham aprovação em exame de contabilidade, ou directamente nomeados sem aquele requisito quando necessário, destacados, para o efeito, do quadro de reserva ou deslocados de outros serviços."
+  },
+  "1006582831": {
+   "fragment_id": "1014253308",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nAos actuais funcionários cuja situação seja afectada pelo disposto no presente decreto-lei aplicar-se-ão as regras seguintes:\n\na) Os chefes de secção que pretendam ser promovidos à categoria de subdirector de finanças deverão requerer a sua admissão a um ou dois cursos preparatórios do concurso para directores de finanças e obter num deles informação positiva sobre a sua idoneidade técnica;\n\nb) Igual procedimento deverão seguir os oficiais, os técnicos verificadores e informadores de qualquer das classes que pretendam passar à categoria de secretário de finanças da mesma classe;\n\nc) Os actuais secretários de finanças de cada uma das classes conservarão a mesma categoria e classe que actualmente possuam e poderão continuar no desempenho de comissões de serviço em que porventura se encontrem;\n\nd) Os actuais aspirantes com um ano de serviço ainda não aprovados em concurso para secretários de finanças de 3.ª classe poderão passar à categoria de aspirantes concursados se obtiverem aprovação no exame a que se refere a segunda parte do artigo 3.º ou em um dos dois concursos imediatos para a categoria de secretário de 3.ª que se realizem nos termos do artigo 6.º, § 5.º;\n\ne) Os actuais escriturários-dactilógrafos são integrados no quadro dos escriturários, na classe que possuírem actualmente;\n\nf) Os actuais aspirantes e escriturários provisórios são admitidos a concurso extraordinário de admissão, ficando equiparados aos candidatos aprovados em concurso normal e dispensados automàticamente se não obtiverem aprovação ou se forem preteridos, na nomeação, por candidatos mais classificados.\n\n§ 1.º Os efeitos da equiparação a que se refere a alínea c) do corpo deste artigo verificam-se ùnicamente a partir de 1 de Julho de 1968, em relação aos respectivos funcionários, e só depois de aprovação nas provas de verificação da idoneidade ou no concurso de aptidão, relativamente aos funcionários considerados nas alíneas a), b) e d).\n\n§ 2.º Os servidores que à data da publicação deste diploma venham efectuando regularmente, com boas informações, trabalhos de dactilografia, desenho ou outras próprias das funções de escriturário, auxiliar de desenho ou de telefonista, nos serviços da Direcção-Geral das Contribuições e Impostos, serão mantidos na situação em que se encontram, podendo ser providos nas vagas de escriturário de 2.ª classe, auxiliar de desenho ou telefonista, mediante concurso extraordinário de aptidão, com dispensa dos requisitos estabelecidos nos artigos 40.º, alíneas f), g), h) e i), e 42.º, alíneas g) e h), da Organização da Direcção-Geral, e à medida que forem ocorrendo as vagas, segundo a ordem por que tenham sido admitidos, se na presente data se encontrarem desempenhando funções há mais de um ano ou logo que o completem, com boas informações."
+  },
+  "1006582832": {
+   "fragment_id": "1014253309",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs funcionários que, por virtude do cumprimento de deveres militares, tiverem de interromper o curso de habilitação para secretário de finanças são dispensados da sua frequência pelo tempo que este durar e admitidos a exame de equivalência logo que o requeiram após o regresso ao serviço. Igual faculdade é atribuída a quaisquer outros funcionários quando a interrupção do serviço pelo mesmo motivo os impeça de comparecer a concursos que se realizem na sua ausência.\n\n§ único. Aos candidatos aos lugares de aspirante e de escriturário quando regressem da prestação do serviço militar em missões de soberania no ultramar é admitida a sujeição a concursos extraordinários quando o regresso se verifique depois do encerramento dos concursos ordinários e o requeiram no decurso dos seis meses imediatos, ficando equiparados, no caso de aprovação, aos candidatos aprovados em concurso normal."
+  },
+  "1006582833": {
+   "fragment_id": "1014253310",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs chefes das repartições centrais de finanças têm a competência geral prevista no corpo do artigo 30.º da Organização da Direcção-Geral das Contribuições e Impostos e a que em especial é reconhecida para os chefes das repartições de finanças dos concelhos e bairros pelo Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, pelo Código da Sisa e do Imposto sobre as Sucessões e Doações, exceptuada a matéria dos seus artigos 182.º e seguintes, pelo Código do Imposto de Mais-Valias, relativamente aos ganhos provenientes dos actos enumerados no seu artigo 1.º, n.os 1.º, 3.º e 4.º, pelo Código de Processo das Contribuições e Impostos, no que se refere a contribuições e impostos regulados nos diplomas e preceitos citados e pela demais legislação correlativa.\n\n§ 1.º Os chefes das repartições centrais de finanças poderão, nos termos do artigo 36.º da Organização, delegar nos chefes das secções das mesmas repartições a competência prevista na parte final do corpo deste artigo.\n\n§ 2.º Aos chefes das secções das repartições centrais de finanças compete dirigir os respectivos serviços, na imediata dependência do chefe da repartição."
+  },
+  "1006582834": {
+   "fragment_id": "1014253311",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA verificação da eficiência dos Serviços de Justiça Fiscal competirá:\n\na) Na parte respeitante à actividade judicial, a um inspector dos tribunais das contribuições e impostos designado nos termos do artigo 16.º;\n\nb) Na parte relativa à acção do Ministério Público das Contribuições e Impostos, a directores-orientadores do Ministério Público das Contribuições e Impostos recrutados entre directores de finanças e a técnicos verificadores do Serviço de Prevenção e Fiscalização Tributária escolhidos entre técnicos verificadores de 1.ª classe.\n\n§ 1.º O disposto na alínea a) do presente artigo respeita ùnicamente à boa execução e aperfeiçoamento dos serviços judiciais e não afecta o estabelecido na lei quanto à classificação ou à qualificação do mérito dos juízes.\n\n§ 2.º Aos funcionários a que se refere a alínea b) compete:\n\na) Visitar os serviços ou lugares onde se exerça ou deva ser exercida a acção do Ministério Público das Contribuições e Impostos e tomar conhecimento sobre o modo como se exerce a respectiva função e se aplicam as normas tributárias;\n\nb) Informar sobre o mérito dos funcionários, em relação ao exercício das funções do Ministério Público;\n\nc) Desempenhar as funções relativas à disciplina dos serviços do Ministério Público que lhes forem determinadas pelo Ministro ou pelo director geral;\n\nd) Assegurar a uniformidade de interpretação das normas fiscais de acordo com os critérios seguidos pelos serviços competentes, submetendo os casos de divergência ou conflito a despacho do director-geral.\n\n§ 3.º O exercício das funções a que se refere o presente artigo será remunerado por gratificação acrescida ao vencimento da categoria."
+  },
+  "1006582835": {
+   "fragment_id": "1014253312",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA função de inspector de todos os tribunais de justiça fiscal será exercida por um juiz da 2.ª instância das contribuições e impostos designado pelo Ministro das Finanças, que poderá requisitar, para secretariar os trabalhos de inspecção, um funcionário dos mesmos serviços.\n\n§ 1.º Os juízes dos tribunais das contribuições e impostos que pertençam aos quadros da magistratura comum poderão, querendo, optar pelo vencimento dessa categoria.\n\n§ 2.º O exercício das funções de inspector dos tribunais das contribuições e impostos dá direito a gratificação a fixar pelo Ministro das Finanças."
+  },
+  "1006582836": {
+   "fragment_id": "1014253313",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nDo montante das custas, multas e emolumentos pertencentes aos funcionários, arrecadados por cada serviço, será feita a seguinte distribuição:\n\na) Metade repartida mensalmente pelos funcionários de administração e técnica fiscal do quadro geral do mesmo serviço na proporção dos respectivos vencimentos e de acordo com os limites fixados nos termos do § 2.º;\n\nb) A metade restante será contabilizada pela Repartição Central para ser distribuída, trimestralmente, por todos os funcionários de administração e de técnica fiscal da Direcção-Geral na proporção dos respectivos vencimentos e sem exceder os referidos limites.\n\n§ 1.º Nos concelhos onde os serviços próprios das repartições de finanças couberem a diversos bairros ou serviços centrais considerar-se-ão todos como constituindo um serviço único, para efeitos de participação na metade das custas, multas e emolumentos referidos na alínea a) do corpo deste artigo.\n\n§ 2.º O Ministro das Finanças poderá estabelecer limites máximos quanto à participação anual nas remunerações a que se refere o corpo deste artigo.\n\n§ 3.º O remanescente da partilha a que se refere a alínea a) em relação a cada funcionário acresce ao montante das remunerações da alínea b), revertendo para o Estado os excedentes que eventualmente se verifiquem em relação às remunerações previstas nesta alínea."
+  },
+  "1006582837": {
+   "fragment_id": "1014253314",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAos funcionários da Direcção-Geral das Contribuições e Impostos que prestem serviço nas ilhas adjacentes são reconhecidas as seguintes regalias:\n\na) Direito a um subsídio de residência, a fixar pelo Ministro das Finanças;\n\nb) Preferência absoluta nas transferências quando tenham ali três anos de serviço efectivo com classificação não inferior a Bom, sem prejuízo do disposto no artigo 56.º da Organização da mesma Direcção-Geral;\n\nc) Direito aos abonos a que se refere o artigo 72.º da Organização, mesmo quando transferidos a seu requerimento, desde que reúnam as condições previstas na alínea anterior."
+  },
+  "1006582838": {
+   "fragment_id": "1014253315",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nSempre que a instalação dos serviços concelhios de administração fiscal não corresponda aos requisitos estabelecidos no artigo 34.º do Decreto-Lei n.º 22728, de 24 de Junho de 1933, e aos que se julguem indispensáveis para a sua boa eficiência e dignidade e para a comodidade dos contribuintes, será adoptado o procedimento aí estabelecido, podendo ainda o Ministério das Finanças, nas localidades onde funcionem serviços em desdobramento ou descentralização, acordar com as câmaras municipais a edificação ou adaptação de imóveis para o efeito, e estabelecer as condições e prazos para o respectivo reembolso."
+  },
+  "1006582839": {
+   "fragment_id": "1014253316",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAos funcionários da Direcção-Geral das Contribuições e Impostos inscritos na Caixa Geral de Aposentações será levado em conta, para efeitos de aposentação, todo o tempo de serviço prestado ao Estado e seus serviços autónomos ou aos corpos administrativos anteriormente à sua inscrição na Caixa, aplicando-se ao cálculo do pagamento da indemnização devida o disposto no artigo 12.º e seus §§ 1.º e 2.º do Decreto-Lei n.º 26503, de 6 de Abril de 1936, e no artigo 11.º e seu § único do Decreto-Lei n.º 41387, de 22 de Novembro de 1957.\n\n§ 1.º Aos antigos escrivães das execuções fiscais que a partir da entrada em vigor do Decreto-Lei n.º 44181, de 9 de Fevereiro de 1962, ingressaram nos quadros da Direcção-Geral com mais de 55 anos de idade é autorizada a inscrição na Caixa Geral de Aposentações, desde que tenham prestado ou possam prestar quinze anos de serviço, pelo menos, contados nos termos permitidos pelo presente artigo até atingirem o limite de idade.\n\n§ 2.º É concedido o prazo de 180 dias, contado a partir da entrada em vigor deste diploma, a todo o pessoal cujo direito à aposentação desde a data em que começou a prestar serviço ao Estado e seus serviços autónomos ou aos corpos administrativos se confere pelo presente diploma, para requerer a contagem de todo o tempo de serviço já prestado em qualquer situação. Os pedidos de contagem serão dirigidos à Caixa Geral de Aposentações, instruídos com os documentos comprovativos."
+  },
+  "1006582840": {
+   "fragment_id": "1014253317",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nA categoria das repartições de finanças é a que resultar da aplicação das regras seguintes:\n\na) São de 1.ª classe as repartições das sedes de distrito e aquelas em que, no movimento dos últimos cinco anos, se verifique a média anual de 100000 documentos e 15000000$00 de receita, ou de 80000 documentos e 30000000$00 de receita;\n\nb) São de 2.ª classe, além das que actualmente possuem esta categoria, as repartições de finanças em que, no movimento dos últimos cinco anos, se verifique a média anual de 40000 documentos e 5000000$00 de receita;\n\nc) São de 3.ª classe todas as restantes.\n\n§ 1.º A actualização da categoria das repartições de finanças, em harmonia com o critério estabelecido no corpo deste artigo, fica sujeita ao disposto no artigo 23.º da Organização.\n\n§ 2.º O Ministro das Finanças poderá autorizar a manutenção até ao sexénio dos funcionários que actualmente ocupem repartições de finanças cuja classe seja modificada por efeito da aplicação do presente artigo."
+  },
+  "1006582841": {
+   "fragment_id": "1014253318",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nO Ministro das Finanças resolverá por despacho todas as dúvidas que se suscitem na aplicação deste diploma."
+  },
+  "1006582842": {
+   "fragment_id": "1014253319",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nNa satisfação dos encargos com pessoal resultantes da execução deste diploma poderão ser utilizadas as disponibilidades das verbas orçamentais consignadas ao pagamento do pessoal dos quadros aprovados da Direcção-Geral das Contribuições e Impostos."
+  },
+  "1006582848": {
+   "fragment_id": "1014253311",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1968-07-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 177/1968, Série I de 1968-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1968-273626), em vigor a partir de 1968-07-27"
+   ],
+   "markdown": "###### Artigo 15.º\n\nA verificação da eficiência dos Serviços de Justiça Fiscal competirá:\n\na) Na parte respeitante à actividade judicial, a um inspector dos tribunais das contribuições e impostos designado nos termos do artigo 16.º;\n\nb) Na parte relativa à acção do Ministério Público das Contribuições e Impostos, a directores-orientadores do Ministério Público das Contribuições e Impostos recrutados entre directores de finanças e a técnicos reverificadores do Serviço de Prevenção e Fiscalização Tributária escolhidos entre técnicos verificadores de 1.ª classe.\n\n§ 1.º O disposto na alínea a) do presente artigo respeita ùnicamente à boa execução e aperfeiçoamento dos serviços judiciais e não afecta o estabelecido na lei quanto à classificação ou à qualificação do mérito dos juízes.\n\n§ 2.º Aos funcionários a que se refere a alínea b) compete:\n\na) Visitar os serviços ou lugares onde se exerça ou deva ser exercida a acção do Ministério Público das Contribuições e Impostos e tomar conhecimento sobre o modo como se exerce a respectiva função e se aplicam as normas tributárias;\n\nb) Informar sobre o mérito dos funcionários, em relação ao exercício das funções do Ministério Público;\n\nc) Desempenhar as funções relativas à disciplina dos serviços do Ministério Público que lhes forem determinadas pelo Ministro ou pelo director geral;\n\nd) Assegurar a uniformidade de interpretação das normas fiscais de acordo com os critérios seguidos pelos serviços competentes, submetendo os casos de divergência ou conflito a despacho do director-geral.\n\n§ 3.º O exercício das funções a que se refere o presente artigo será remunerado por gratificação acrescida ao vencimento da categoria.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 177/1968, Série I de 1968-07-27](https://diariodarepublica.pt/dr/detalhe/declaracao/1968-273626), em vigor a partir de 1968-07-27"
+  },
+  "1006582843": {
+   "fragment_id": "1014253320",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Publique-se e cumpra-se como nele se contém.\n\nPaços do Governo da República, 29 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho."
+  },
+  "1006582844": {
+   "fragment_id": "1014253321",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nAlterações ao mapa anexo a que se refere o artigo 69.º da Organização da Direcção-Geral (Decreto n.º 45095, de 29 de Junho de 1963):\n\n(ver documento original)"
+  },
+  "1006582845": {
+   "fragment_id": "1014253322",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério das Finanças, 29 de Maio de 1968. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês."
+  },
+  "1020029028": {
+   "fragment_id": "1014253302",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1975-12-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 715/75 - Diário do Governo n.º 293/1975, Série I de 1975-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/715-1975-310672), em vigor a partir de 1975-12-25"
+   ],
+   "markdown": "###### Artigo 6.º\n\nAs categorias de secretários de finanças de 1.ª, 2.ª e 3.ª classes constituem o quadro técnico de administração fiscal, comum aos serviços centrais, direcções e repartições de finanças, sendo o acesso aos respectivos lugares feito mediante nomeação para secretário de finanças de 3.ª classe entre aspirantes concursados que o requeiram ou oficiais, nos termos do § 3.º do artigo anterior, habilitados com o 2.º grau do curso referido no mesmo artigo, por ordem das classificações obtidas em qualquer dos casos, e a promoção à 2.ª e à 1.ª classe realizada mediante concurso a que são admitidos os secretários de finanças de categoria imediatamente inferior com três anos de serviço na classe.\n\n§ 1.º (Revogado.)\n\n§ 2.º A reprovação em dois concursos obrigatórios de admissão à classe seguinte priva igualmente os secretários de finanças do exercício de funções de chefia na própria classe a que pertençam.\n\n§ 3.º Os funcionários que, para efeitos do disposto no § 1.º deste artigo, se sujeitem a exercer funções de chefia ou de subchefia em repartições de classe inferior à da sua categoria conservam o direito aos vencimentos correspondentes à categoria que lhes pertença no quadro.\n\n§ 4.º É igualmente vedado o exercício de funções de chefia aos oficiais do quadro actual que, passando ao quadro dos secretários de finanças, não tenham feito concurso para secretários de finanças da respectiva classe com classificação igual ou superior a 12 valores, sem que se sujeitem a esse concurso e nele obtenham a classificação exigida.\n\n§ 5.º Enquanto não se completar o primeiro curso para secretários de finanças de 3.ª classe, o recrutamento para esta categoria far-se-á nos termos da legislação actualmente em vigor, sem prejuízo da obrigatoriedade da frequência do respectivo curso até à nomeação pelos actuais aspirantes e aspirantes concursados.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 715/75 - Diário do Governo n.º 293/1975, Série I de 1975-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/715-1975-310672), em vigor a partir de 1975-12-25"
+  },
+  "1024688442": {
+   "fragment_id": "1014253302",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1977-04-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 143/77 - Diário da República n.º 83/1977, Série I de 1977-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1977-139919), em vigor a partir de 1977-04-14",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 715/75 - Diário do Governo n.º 293/1975, Série I de 1975-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/715-1975-310672), em vigor a partir de 1975-12-25"
+   ],
+   "markdown": "###### Artigo 6.º\n\nAs categorias de secretários de finanças de 1.ª, 2.ª e 3.ª classes constituem o quadro técnico de administração fiscal, comum aos serviços centrais, direcções e repartições de finanças, sendo o acesso aos respectivos lugares feito mediante nomeação para secretário de finanças de 3.ª classe entre aspirantes concursados que o requeiram ou oficiais, nos termos do § 3.º do artigo anterior, habilitados com o 2.º grau do curso referido no mesmo artigo, por ordem das classificações obtidas em qualquer dos casos, e a promoção à 2.ª e à 1.ª classe realizada mediante concurso a que são admitidos os secretários de finanças de categoria imediatamente inferior com três anos de serviço na classe.\n\n§ 1.º (Revogado.)\n\n§ 2.º (Revogado.)\n\n§ 3.º Os funcionários que, para efeitos do disposto no § 1.º deste artigo, se sujeitem a exercer funções de chefia ou de subchefia em repartições de classe inferior à da sua categoria conservam o direito aos vencimentos correspondentes à categoria que lhes pertença no quadro.\n\n§ 4.º É igualmente vedado o exercício de funções de chefia aos oficiais do quadro actual que, passando ao quadro dos secretários de finanças, não tenham feito concurso para secretários de finanças da respectiva classe com classificação igual ou superior a 12 valores, sem que se sujeitem a esse concurso e nele obtenham a classificação exigida.\n\n§ 5.º Enquanto não se completar o primeiro curso para secretários de finanças de 3.ª classe, o recrutamento para esta categoria far-se-á nos termos da legislação actualmente em vigor, sem prejuízo da obrigatoriedade da frequência do respectivo curso até à nomeação pelos actuais aspirantes e aspirantes concursados.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 143/77 - Diário da República n.º 83/1977, Série I de 1977-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-1977-139919), em vigor a partir de 1977-04-14\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 715/75 - Diário do Governo n.º 293/1975, Série I de 1975-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/715-1975-310672), em vigor a partir de 1975-12-25"
+  },
+  "1027595795": {
+   "fragment_id": "1014253314",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 18.º\n\nAos funcionários da Direcção-Geral das Contribuições e Impostos que prestem serviço nas ilhas adjacentes são reconhecidas as seguintes regalias:\n\na) Direito a um subsídio de residência, a fixar pelo Ministro das Finanças;\n\nb) Preferência absoluta nas transferências quando tenham ali três anos de serviço efectivo com classificação não inferior a Bom, sem prejuízo do disposto no artigo 56.º da Organização da mesma Direcção-Geral;\n\nc) Direito aos abonos a que se refere o artigo 72.º da Organização, mesmo quando transferidos a seu requerimento, desde que reúnam as condições previstas na alínea anterior.\n\n> Revogado pelo/a Artigo 50.º do/a [Decreto-Lei n.º 132/2019 - Diário da República n.º 166/2019, Série I de 2019-08-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2019-124324704), em vigor a partir de 2020-01-01"
+  }
+ }
+}

@@ -1,0 +1,342 @@
+---
+schema_version: '1.0'
+id: pt:dre:550453:por
+title: Portaria n.º 1084/89
+short_title: null
+summary: Autoriza o Instituto Politécnico de Setúbal, através da sua Escola Superior de Educação, a conferir o diploma de
+  estudos superiores especializados em Gestão Pedagógica e Educacional e regulamenta o respectivo curso e condições de acesso
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 1084/89
+official_date: null
+publication_date: '1989-12-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 286/1989, Série I de 1989-12-14
+  number: '286'
+  series: I
+  supplement: null
+  pages: 5415 - 5417
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/12/28600/54155417.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '550453'
+  dre_path: /dr/detalhe/portaria/1084-1989-550453
+  internal: pt:dre:550453:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1084-1989-550453
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1084-1989-550453
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-03-24T00:00:00Z'
+integrity:
+  source_sha256: 3b4ecaf2518fb26f8b1f595f410d47af71d676c8be934eb1d8761aa50cf35a09
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-1084-550453.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:526584:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1084/89
+
+de 14 de Dezembro
+
+Sob proposta do Instituto Politécnico de Setúbal e da sua Escola Superior de Educação;
+
+Considerando o disposto no artigo 13.º e no n.º 2 do artigo 33.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro);
+
+Ao abrigo do disposto no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+Criação
+
+O Instituto Politécnico de Setúbal, através da sua Escola Superior de Educação, confere o diploma de estudos superiores especializados em Gestão Pedagógica e Educacional, ministrando, em consequência, o respectivo curso.
+
+2.º
+
+Objectivos
+
+O curso de estudos superiores especializados em Gestão Pedagógica e Educacional visa formar profissionais capazes de definir, operacionalizar e concretizar projectos de formação que optimizem os recursos disponíveis, sabendo criar condições favoráveis ao sucesso académico e profissional nas instituições onde vierem a exercer a sua actividade.
+
+3.º
+
+Limitações quantitativas
+
+A matrícula e inscrição no curso está sujeita a limitações quantitativas a fixar anualmente por portaria do Ministro da Educação, sob proposta do presidente da comissão instaladora do Instituto Politécnico de Setúbal.
+
+4.º
+
+Concurso
+
+1 - A selecção dos candidatos admitidos à matrícula e inscrição no curso é feita através de um concurso de acesso.
+
+2 - O concurso é válido apenas para o ano a que diz respeito.
+
+5.º
+
+Condições de acesso
+
+Podem candidatar-se à matrícula e inscrição no curso os candidatos que satisfaçam, cumulativamente, as seguites condições:
+
+a) Ser titular de um grau de bacharel ou de licenciado;
+
+b) Ter desenvolvido actividades educativas ou de formação e ou supervisão durante, pelo menos, dois anos em regime de tempo integral.
+
+6.º
+
+Contingentes
+
+1 - As vagas fixadas nos termos do n.º 3.º serão distribuídas pelos seguintes contingentes:
+
+a) Para candidatos oriundos de instituições educativas dos diferentes graus de ensino: 1.º, 2.º e 3.º ciclos do ensino básico, ensino secundário e ensino superior - 75%;
+
+b) Para candidatos oriundos de instituições de formação exteriores ao sistema educativo - 25%.
+
+2 - As vagas eventualmente não utilizadas num dos contingentes reverterão, se necessário, para o outro contingente.
+
+7.º
+
+Supranumerários
+
+1 - Poderá ainda ser criado um contingente especial, para além das vagas fixadas nos termos do n.º 3.º, destinado a estudantes nacionais das Repúblicas Popular de Angola, de Cabo Verde, da Guiné-Bissau, Popular de Moçambique e Democrática de São Tomé e Príncipe, desde que a sua candidatura seja apresentada previamente por via diplomática, através do Gabinete Coordenador do Ingresso no Ensino Superior, no âmbito dos acordos de cooperação firmados pelo Estado Português.
+
+2 - Os estudantes a que se refere o n.º 1 têm de satisfazer as condições de acesso fixadas no n.º 5.º e estarão sujeitos, se excederem o número de vagas fixado, às regras de seriação fixadas pela presente portaria.
+
+3 - O número de vagas a afectar a este contingente será fixado pelo presidente da comissão instaladora do Instituto Politécnico de Setúbal e não poderá ser superior a 10% das vagas fixadas nos termos do n.º 3.º
+
+8.º
+
+Candidatura
+
+1 - A candidatura à matrícula e inscrição é formulada em requerimento dirigido ao presidente da comissão instaladora da Escola Superior de Educação.
+
+2 - Os elementos a mencionar obrigatoriamente no requerimento constarão de edital da comissão instaladora da Escola Superior de Educação.
+
+3 - O requerimento poderá ser substituído por impresso de modelo a fixar pela comissão instaladora da Escola Superior de Educação.
+
+9.º
+
+Documentos
+
+1 - O requerimento de candidatura deverá ser obrigatoriamente acompanhado dos seguintes documentos:
+
+a) Certidão comprovativa da titularidade do curso com que se candidata, indicando a classificação final do curso;
+
+b) Certidão comprovativa da situação a que se refere a alínea b) do n.º 1 do n.º 5.º;
+
+c) Currículo profissional.
+
+2 - O edital a que se refere o n.º 2 do n.º 8.º poderá ainda estabelecer a obrigatoriedade de entrega de outros documentos.
+
+3 - Os candidatos deverão juntar ao currículo os documentos que entendam relevantes para a apreciação do mesmo.
+
+4 - Para os candidatos a prestar serviço em estabelecimentos de ensino público dependentes do Ministério da Educação, o documento a que se refere a alínea b) do n.º 1 deverá ser confirmado pelo órgão competente da administração escolar.
+
+5 - A comissão instaladora da Escola Superior de Educação rejeitará liminarmente as candidaturas que não satisfaçam o disposto na presente portaria.
+
+6 - Dos candidatos rejeitados liminarmente será organizada lista onde constem os fundamentos da rejeição, a qual será tornada pública através de edital a afixar na Escola Superior de Educação.
+
+10.º
+
+Selecção e seriação
+
+1 - As regras e critérios de selecção e seriação dos candidatos serão fixados pela comissão instaladora da Escola Superior de Educação, sob proposta do conselho científico.
+
+2 - A selecção e seriação dos candidatos poderá incluir a realização de provas de avaliação em domínios considerados necessários ao ingresso no curso, bem como a realização de entrevistas.
+
+3 - As operações de selecção e seriação serão realizadas por um júri nomeado pela comissão instaladora da Escola Superior de Educação, sob proposta do conselho científico.
+
+4 - O júri poderá solicitar a comprovação documental das declarações constantes do currículo dos candidatos.
+
+5 - A deliberação final do júri está sujeita a homologação da comissão instaladora da Escola Superior de Educação.
+
+11.º
+
+Resultados da selecção e seriação
+
+Os resultados do processo de selecção e seriação serão tornados públicos através de edital donde conste:
+
+a) A lista dos candidatos não seleccionados;
+
+b) A lista ordenada dos candidatos seleccionados, indicando:
+
+Os admitidos à matrícula e inscrição;
+
+Os não admitidos.
+
+12.º
+
+Reclamações
+
+1 - Os candidatos poderão reclamar, fundamentadamente, da deliberação a que se refere o n.º 5 do n.º 10.º
+
+2 - As reclamações serão dirigidas à comissão instaladora da Escola Superior de Educação.
+
+3 - Serão liminarmente indeferidas as reclamações não fundamentadas, bem como as entregues fora do prazo.
+
+4 - Se a reclamação tiver provimento, o candidato será colocado na posição daí resultante, mesmo que para ser admitido se tenha de criar vaga adicional.
+
+13.º
+
+Matrículas e inscrições
+
+1 - Os candidatos admitidos deverão proceder à matrícula e inscrição no prazo fixado nos termos do n.º 19.º
+
+2 - Caso algum candidato admitido desista expressamente da matrícula e inscrição ou não compareça a realizar a mesma, a comissão instaladora, no dia imediato ao do fim do prazo da matrícula e inscrição, através de carta registada com aviso de recepção, convocará para a inscrição o candidato seguinte na lista ordenada, até esgotar as vagas ou os candidatos.
+
+3 - Os candidatos a que se refere a parte final do n.º 2 terão um prazo improrrogável de três dias úteis após a recepção da notificação para procederem à sua matrícula e inscrição.
+
+4 - A decisão de admissão apenas tem efeito para o ano lectivo a que se refere.
+
+14.º
+
+Planos de estudos
+
+O plano de estudos do curso é fixado no anexo à presente portaria.
+
+15.º
+
+Duração
+
+A duração do curso é de dois anos lectivos.
+
+16.º
+
+Avaliação de conhecimentos
+
+O regime de avaliação de conhecimentos é fixado nos termos previstos na [Portaria n.º 886/83](https://diariodarepublica.pt/dr/detalhe/portaria/886-1983-442317), de 22 de Setembro, alterada pela [Portaria n.º 410/86](https://diariodarepublica.pt/dr/detalhe/portaria/410-1986-218566), de 29 de Julho.
+
+17.º
+
+Classificação final
+
+1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas pelo aluno nas disciplinas que integram o respectivo plano de estudos.
+
+2 - Os coeficientes de ponderação serão aprovados pelo conselho científico.
+
+18.º
+
+Diploma
+
+Aos alunos aprovados em todas as disciplinas que integram o plano de estudos do curso será emitido um diploma do modelo constante no anexo II à presente portaria.
+
+19.º
+
+Prazos
+
+1 - Os prazos para a candidatura, selecção, matrícula e inscrição serão fixados anualmente por despacho do presidente da comissão instaladora do Instituto Politécnico de Setúbal.
+
+2 - O despacho a que se refere o n.º 1 será objecto de afixação pública nas instalações da Escola Superior de Educação, bem como de publicação na 2.ª série do Diário da República, antes do início dos prazos a que o mesmo se refere.
+
+20.º
+
+Comunicação ao Gabinete Coordenador do Ingresso no Ensino Superior
+
+O resultado final das candidaturas ao curso bem como o número de alunos inscritos serão comunicados ao Gabinete Coordenador do Ingresso no Ensino Superior no prazo que for fixado nos termos do n.º 19.º
+
+21.º
+
+Creditação de formação académica anterior
+
+1 - Sem prejuízo de garantir uma formação final do mesmo nível e satisfazendo os mesmos objectivos, o conselho científico poderá creditar a formação anteriormente adquirida pelos alunos, mediante avaliação realizada na Escola Superior de Educação e a pedido dos interessados.
+
+2 - A creditação traduzir-se-á na dispensa da inscrição e aprovação num conjunto de disciplinas do plano de estudos.
+
+22.º
+
+Entrada em funcionamento
+
+1 - O curso entrará em funcionamento no ano lectivo de 1989-1990.
+
+2 - As vagas para a candidatura à matrícula e inscrição em 1989 são fixadas em 20.
+
+Ministério da Educação.
+
+**Assinada em 31 de Outubro de 1989.**
+
+Pelo Ministro da Educação, Alberto José Nunes Correia Ralha, Secretário de Estado do Ensino Superior.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/28600/54155417.pdf))](https://files.diariodarepublica.pt/1s/1989/12/28600/54155417.pdf)
+
+## ANEXO II — Diploma
+
+R (ver nota a) P
+
+... (ver nota b), presidente da comissão instaladora do Instituto Politécnico de Setúbal, faz saber que ... (ver nota c), filho de ... (ver nota d), natural de ... (ver nota e), concluiu em ... (ver nota f), na Escola Superior de Educação deste Instituto, o curso de estudos superiores especializados em Gestão Pedagógica e Educacional, com a classificação final de ... (ver nota g), pelo que, em conformidade com as disposições legais em vigor, lhe mandei passar o presente diploma de estudos superiores especializados em Gestão Pedagógica e Educacional.
+
+Setúbal, ... (ver nota h).
+
+**O Presidente da Comissão Instaladora do Instituto Politécnico, ...**
+
+**O Presidente da Comissão Instaladora da Escola Superior de Educação, ...**
+
+O Administrador, ...
+
+**O Secretário da Escola Superior de Educação, ...**
+
+(nota a) Símbolo do Instituto Politécnico de Setúbal.
+
+(nota b) Nome do presidente da comissão instaladora do Instituto Politécnico de Setúbal.
+
+(nota c) Nome do titular do diploma.
+
+(nota d) Nome do pai e da mãe do titular do diploma.
+
+(nota e) Freguesia, concelho e distrito de naturalidade do titular do diploma.
+
+(nota f) Data de conclusão do curso.
+
+(nota g) Classificação final calculada nos termos do n.º 17.º
+
+(nota h) Data de emissão do diploma.

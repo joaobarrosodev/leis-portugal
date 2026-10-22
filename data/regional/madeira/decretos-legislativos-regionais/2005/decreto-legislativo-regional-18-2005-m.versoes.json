@@ -1,0 +1,506 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:481500:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2005-993782328",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2005-481500",
+ "source_lastmod": "2026-04-21",
+ "versions": [
+  {
+   "date": "2005-11-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "993774274",
+    "993788775",
+    "993788776",
+    "993788777",
+    "993788779",
+    "993788780",
+    "993788781",
+    "993788782",
+    "993788783",
+    "993788784",
+    "993788785",
+    "993788786",
+    "993788787",
+    "993788788",
+    "993788789",
+    "993788790",
+    "993788791",
+    "993788792",
+    "993788793",
+    "993788794",
+    "993788795",
+    "993788796",
+    "993788797",
+    "993788798",
+    "993788799",
+    "993788800",
+    "993788801",
+    "993788802",
+    "993788803",
+    "993788804",
+    "993788805",
+    "993788806",
+    "993788807",
+    "993788808",
+    "993788809",
+    "993788810",
+    "993788811",
+    "993788812",
+    "993788813",
+    "993788814",
+    "993788815",
+    "993788816",
+    "993788817",
+    "993788818"
+   ]
+  },
+  {
+   "date": "2025-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993031451:por",
+     "title": "Decreto Legislativo Regional n.º 8/2025/M",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2025-993031451"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "993774274",
+    "993788775",
+    "993788776",
+    "993788777",
+    "993788778",
+    "993788779",
+    "993788780",
+    "993788781",
+    "1090595575",
+    "993788783",
+    "993788784",
+    "993788785",
+    "993788786",
+    "993788787",
+    "993788788",
+    "993788789",
+    "993788790",
+    "993788791",
+    "993788792",
+    "993788793",
+    "993788794",
+    "993788795",
+    "993788796",
+    "993788797",
+    "993788798",
+    "993788799",
+    "993788800",
+    "993788801",
+    "993788802",
+    "993788803",
+    "993788804",
+    "993788805",
+    "993788806",
+    "993788807",
+    "993788808",
+    "993788809",
+    "993788810",
+    "993788811",
+    "993788812",
+    "993788813",
+    "993788814",
+    "993788815",
+    "993788816",
+    "993788817",
+    "1087842175"
+   ]
+  }
+ ],
+ "fragments": {
+  "993774274": {
+   "fragment_id": "993782329",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 18/2005/M\n\nAprova a orgânica da Inspecção Regional de Finanças\n\nA Inspecção Regional de Finanças (IRF) deve ser vista, cada vez mais, como um serviço com independência técnica e que, atenta a natureza de entidade de controlo da administração financeira da Região Autónoma da Madeira, orienta a sua actividade, não só para a análise da legalidade e regularidade das despesas como também para a apreciação da boa gestão da Administração Pública Regional.\n\nA actual lei orgânica da IRF, aprovada pelo Decreto Regulamentar Regional n.º 15/94/M, de 26 de Novembro, e alterada pelo Decreto Regulamentar Regional n.º 5/95/M, de 4 de Abril, resultou da necessidade de consagrar na Administração Pública Regional um serviço vocacionado para o controlo e fiscalização financeira dos serviços da Administração Pública e das autarquias locais.\n\nEntretanto, a evolução da autonomia regional e as exigências cada vez maiores de controlo financeiro justificam uma alteração da lei orgânica da IRF.\n\nA orgânica aprovada pelo Decreto Regulamentar Regional n.º 15/94/M, de 26 de Novembro, não prevê, de uma forma expressa, a possibilidade de intervenção da IRF em sectores privados que beneficiam de apoios da Administração Pública Regional, sendo, igualmente, omissa no que se refere ao sector público empresarial, aspecto que fica salvaguardado nesta alteração.\n\nEste diploma adopta o modelo da Inspecção-Geral de Finanças, vertido, fundamentalmente, nos Decretos-Leis n.os 249/98, de 11 de Agosto, e 536/99, de 13 de Dezembro, sendo contemplado um modelo de gestão mais flexível, directamente orientado para a realização da missão cometida à IRF.\n\nO quadro de pessoal da IRF tem em atenção as alterações legislativas ocorridas, nomeadamente, nas designações das carreiras do regime geral, estando previstas, ainda, outras carreiras.\n\nA revisão da lei orgânica resulta, deste modo, da necessidade de adequar o campo de actuação da IRF às novas situações surgidas e cujo controlo financeiro se torna cada vez mais premente.\n\nCom o presente diploma são actualizadas as atribuições da IRF, sendo alargadas as suas competências e especificados os meios necessários à prossecução das suas funções.\n\nAssim:\n\nA Assembleia Legislativa da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, e revisto pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, o seguinte:"
+  },
+  "993788775": {
+   "fragment_id": "993782330",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a estrutura orgânica da Inspecção Regional de Finanças, anexa ao presente diploma, da qual faz parte integrante."
+  },
+  "993788776": {
+   "fragment_id": "993782331",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão revogados os Decretos Regulamentares Regionais n.os 15/94/M, de 26 de Novembro, e 5/95/M, de 4 de Abril."
+  },
+  "993788777": {
+   "fragment_id": "993782332",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "993788779": {
+   "fragment_id": "993782334",
+   "type": 14,
+   "heading": "Orgânica da Inspeção Regional de Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Orgânica da Inspeção Regional de Finanças"
+  },
+  "993788780": {
+   "fragment_id": "993782335",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, âmbito e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, âmbito e atribuições"
+  },
+  "993788781": {
+   "fragment_id": "993782336",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e âmbito\n\n1 - A Inspecção Regional de Finanças, adiante designada por IRF, é o serviço da Secretaria Regional do Plano e Finanças cuja missão fundamental é desenvolver o controlo da administração financeira da Região Autónoma da Madeira, cometido aos órgãos do Governo Regional, e prestar apoio técnico especializado.\n\n2 - A IRF funciona na directa dependência do Secretário Regional do Plano e Finanças."
+  },
+  "993788782": {
+   "fragment_id": "993782337",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições e âmbito de competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições e âmbito de competência\n\n1 - Enquanto serviço de controlo de alto nível da administração financeira da Região Autónoma da Madeira, incumbe à IRF, entre outras tarefas, o exercício do controlo nos domínios orçamental, económico, financeiro e patrimonial, de acordo com os princípios da legalidade, da regularidade e da boa gestão financeira, contribuindo para a economia, eficácia e eficiência na obtenção das receitas públicas e na realização das despesas públicas, para o que lhe cabe desenvolver, designadamente, as seguintes tarefas:\n\na) Realizar auditorias, inspecções, análises de natureza económico-financeira e outras acções de controlo às entidades abrangidas pela sua intervenção;\n\nb) Realizar sindicâncias, inquéritos e averiguações às entidades abrangidas pela sua intervenção, bem como desenvolver o procedimento disciplinar, quando for o caso;\n\nc) Realizar auditorias, inspecções, análises de natureza económico-financeira e outras acções de controlo às entidades que intervêm na execução e controlo das despesas co-financiadas pelos fundos comunitários, bem como aos respectivos beneficiários;\n\nd) Exercer as demais funções que resultem da lei, de normativos e de acordos, regionais, nacionais ou comunitários, bem como outras que lhe sejam superiormente cometidas.\n\n2 - Enquanto serviço de apoio técnico especializado, cabe à IRF desenvolver as seguintes tarefas:\n\na) Elaborar projectos de diplomas legais e dar parecer sobre os que lhe sejam submetidos;\n\nb) Promover a investigação técnica, efectuar estudos e emitir pareceres;\n\nc) Coordenar e colaborar com os órgãos regionais, nacionais e comunitários nas acções regionais de controlo dos recursos próprios comunitários;\n\nd) Acompanhar as missões comunitárias de controlo, a efectuar na Região, em matéria de recursos próprios comunitários, no âmbito dos fundos comunitários;\n\ne) Participar, bem como prestar apoio técnico, em júris, comissões e grupos de trabalho regionais, nacionais e comunitários, em situações que constituem matéria de interesse específico para a Região;\n\nf) Assegurar, no âmbito da sua missão, a articulação com as entidades congéneres, nacionais e estrangeiras, e organizações internacionais;\n\ng) Desempenhar quaisquer outras tarefas de apoio técnico especializado para que se encontre vocacionada.\n\n3 - A intervenção da IRF abrange:\n\na) As entidades do sector público administrativo e empresarial (regional) e local, da Região Autónoma da Madeira;\n\nb) As entidades dos sectores privado e cooperativo.\n\n4 - O exercício da competência da IRF, previsto na alínea b) do número anterior, visa averiguar o cumprimento da lei e das obrigações impostas e avaliar a boa gestão dos valores públicos, abrangendo as entidades que estejam em uma das seguintes situações:\n\na) Quando actuam ao abrigo de normas de direito administrativo;\n\nb) Quando sejam sujeitos de relações financeiras com entidades públicas;\n\nc) Quando se mostre indispensável ao controlo indirecto de quaisquer entidades objecto da intervenção da IRF."
+  },
+  "993788783": {
+   "fragment_id": "993782338",
+   "type": 1,
+   "heading": "Capítulo II — Organização e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização e gestão"
+  },
+  "993788784": {
+   "fragment_id": "993782339",
+   "type": 11,
+   "heading": "Artigo 3.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Organização\n\n1 - Na organização e na gestão, a IRF adopta um modelo flexível, directamente orientado para a realização da sua missão.\n\n2 - A organização, estrutura e funcionamento dos seus serviços são definidos por despacho do Secretário Regional do Plano e Finanças, sob proposta do inspector regional de Finanças.\n\n3 - O inspector regional de Finanças pode, sempre que ocorram razões de serviço ponderosas, designar temporariamente inspectores de finanças de qualquer categoria para orientar a execução de acções."
+  },
+  "993788785": {
+   "fragment_id": "993782340",
+   "type": 11,
+   "heading": "Artigo 4.º — Áreas de especialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Áreas de especialização\n\nA IRF assegura a sua missão e exerce as suas competências através das seguintes áreas de especialização:\n\na) Do controlo da gestão dos serviços públicos e fundos autónomos;\n\nb) Do controlo das autarquias locais, suas associações ou federações e seus serviços municipalizados;\n\nc) Do controlo do sector público empresarial e privado;\n\nd) Do controlo dos fundos comunitários;\n\ne) Da organização, desenvolvimento e informação."
+  },
+  "993788786": {
+   "fragment_id": "993782341",
+   "type": 11,
+   "heading": "Artigo 5.º — Direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direcção\n\n1 - Compete ao inspector regional de Finanças, para além da competência conferida por lei aos directores regionais, o seguinte:\n\na) Ordenar a realização das acções da competência própria da IRF ou superiormente aprovadas, bem como os controlos cruzados, sempre que os mesmos se justifiquem para o seu cabal desempenho;\n\nb) Dirigir as actividades da IRF, definindo as linhas de actuação da mesma, tendo em conta os objectivos gerais estabelecidos e as directrizes superiormente determinadas;\n\nc) Controlar o cumprimento dos planos de actividades, os resultados obtidos e a eficiência dos serviços dependentes;\n\nd) Assegurar a administração e gestão dos recursos humanos e materiais que lhe estão afectos;\n\ne) Estabelecer os normativos internos necessários ao cumprimento dos princípios pelos quais se rege a actividade da IRF;\n\nf) Exercer outras competências que decorram da lei ou que, por determinação superior, lhe sejam cometidas.\n\n2 - O inspector regional de Finanças pode delegar no inspector-director a prática de actos da sua competência.\n\n3 - Nas suas ausências, faltas ou impedimentos, o inspector regional de Finanças é substituído por um inspector-director ou, na falta deste, por um inspector de finanças superior principal a designar para o efeito."
+  },
+  "993788787": {
+   "fragment_id": "993782342",
+   "type": 1,
+   "heading": "Capítulo III — Exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Exercício da actividade"
+  },
+  "993788788": {
+   "fragment_id": "993782343",
+   "type": 8,
+   "heading": "Secção I — Dos princípios, direitos e garantias de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dos princípios, direitos e garantias de intervenção"
+  },
+  "993788789": {
+   "fragment_id": "993782344",
+   "type": 11,
+   "heading": "Artigo 6.º — Intervenção da IRF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Intervenção da IRF\n\nA intervenção da IRF concretiza-se através de acções de sua própria iniciativa, com observância dos limites fixados na lei, de acções incluídas no plano anual de actividades, bem como de outras determinadas pelo Secretário Regional do Plano e Finanças."
+  },
+  "993788790": {
+   "fragment_id": "993782345",
+   "type": 11,
+   "heading": "Artigo 7.º — Princípio da proporcionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Princípio da proporcionalidade\n\nNo exercício das suas funções, os inspectores da IRF deverão pautar a sua conduta pela adequação dos seus procedimentos aos objectivos da acção."
+  },
+  "993788791": {
+   "fragment_id": "993782346",
+   "type": 11,
+   "heading": "Artigo 8.º — Princípio da cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Princípio da cooperação\n\n1 - Sempre que não esteja em causa o êxito da acção ou o dever de sigilo, a IRF deve fornecer às entidades objecto da sua intervenção as informações ou outros esclarecimentos de interesse justificado que lhe sejam solicitados, no contexto da administração aberta aos cidadãos.\n\n2 - A IRF coopera com outras instituições de controlo ou auditoria dos serviços e organismos da Administração Pública Regional e Local, na defesa da legalidade financeira, podendo, para o efeito, desenvolver acções conjuntas que se revelem necessárias.\n\n3 - A IRF coopera também, em matéria de informações e nas demais formas que se revelam adequadas, com os órgãos de governo próprio da Região, os serviços e entidades públicas e as entidades interessadas na gestão e aplicação de dinheiros, bens e valores públicos, podendo difundir a informação necessária para que se previna o desperdício, a ilegalidade, a fraude e a corrupção relativamente aos dinheiros e valores públicos, tanto regionais e nacionais, como comunitários."
+  },
+  "993788792": {
+   "fragment_id": "993782347",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de sigilo\n\nAlém da sujeição aos deveres gerais inerentes ao exercício da função pública, todos os funcionários da IRF estão especialmente obrigados a guardar rigoroso sigilo sobre todos os assuntos de que tomem conhecimento no exercício ou por causa do exercício das suas funções."
+  },
+  "993788793": {
+   "fragment_id": "993782348",
+   "type": 11,
+   "heading": "Artigo 10.º — Garantia do exercício da função inspectiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Garantia do exercício da função inspectiva\n\n1 - Aos inspectores e técnicos da IRF, no exercício da sua actividade, devem se facultadas, pelas autoridades públicas e pelas entidades sujeitas à sua intervenção, todas as condições necessárias à garantia da eficácia da acção inspectiva.\n\n2 - Neste contexto, é assegurado aos inspectores e técnicos da IRF, desde que devidamente identificados e no exercício das suas funções, os seguintes direitos e prerrogativas:\n\na) Aceder livremente e permanecer, pelo tempo necessário ao desempenho das funções que lhes forem cometidas, em todos os serviços e dependências das entidades sujeitas à intervenção da IRF;\n\nb) Utilizar instalações adequadas ao exercício das suas funções, em condições de dignidade e eficácia, e obter, dos funcionários e responsáveis, a colaboração que se mostre indispensável;\n\nc) Requisitar e reproduzir documentos, para consulta, suporte ou junção aos relatórios, processos ou autos e, ainda, proceder ao exame de quaisquer elementos pertinentes à acção inspectiva em poder de entidades cuja actividade seja objecto da intervenção da IRF;\n\nd) Trocar correspondência, em serviço, com quaisquer entidades públicas ou privadas sobre questões ou assuntos relacionados com o desenvolvimento da sua actuação ou para obtenção dos elementos que se mostrem indispensáveis à mesma;\n\ne) Ingressar e transitar livremente em quaisquer locais públicos, mediante a exibição do cartão de identificação profissional;\n\nf) Requisitar às autoridades policiais e administrativas a colaboração necessária ao exercício das suas funções, designadamente em casos de resistência a esse exercício;\n\ng) Promover, nos termos legais, a selagem de quaisquer instalações, dependências, cofres ou móveis e a apreensão de documentos e objectos de prova, lavrando o correspondente auto, dispensável caso apenas ocorra simples reprodução de documentos;\n\nh) Proceder, por si ou por recurso a autoridade administrativa ou policial competente, cumpridas as formalidades legais, a notificações a que haja lugar em processos de inquérito, sindicâncias ou disciplinares, ou noutros de cuja instrução estejam incumbidos.\n\n3 - Os funcionários da IRF que sejam arguidos em processo judicial, por actos cometidos ou ocorridos no exercício e por causa das suas funções, têm direito a ser assistidos por advogado, indicado pelo inspector regional de Finanças, ouvidos os interessados, retribuído a expensas da Região, bem como a transporte e ajudas de custo, quando a localização do tribunal ou das entidades policiais o justifique.\n\n4 - As importâncias eventualmente despendidas nos termos e para os efeitos referidos no número anterior devem ser reembolsadas pelo funcionário que lhes deu causa no caso de condenação judicial."
+  },
+  "993788794": {
+   "fragment_id": "993782349",
+   "type": 11,
+   "heading": "Artigo 11.º — Cartão de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cartão de identificação\n\nO pessoal da carreira de inspecção financeira de alto nível tem direito a um cartão de identificação profissional, segundo modelo aprovado por portaria do Secretário Regional do Plano e Finanças."
+  },
+  "993788795": {
+   "fragment_id": "993782350",
+   "type": 8,
+   "heading": "Secção II — Da eficácia das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da eficácia das acções"
+  },
+  "993788796": {
+   "fragment_id": "993782351",
+   "type": 11,
+   "heading": "Artigo 12.º — Deveres de colaboração e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Deveres de colaboração e informação\n\n1 - As entidades sujeitas à intervenção da IRF devem disponibilizar o acesso e fornecer os elementos de informação que esta considere necessários ao exercício das suas competências e ao êxito da sua missão, nos moldes, nos suportes e com a periodicidade havida por conveniente, segundo os parâmetros da boa fé.\n\n2 - Os titulares dos órgãos das entidades sujeitas à intervenção da IRF estão, no âmbito das suas funções, obrigados a prestar-lhe ou a fazer prestar as informações e os esclarecimentos, a facultar-lhe documentos e a colaborar da forma que lhes for solicitada, podendo, para o efeito, ser requisitada a comparência de responsáveis, funcionários e agentes dos serviços e organismos da Região, nomeadamente para prestação de declarações ou depoimentos.\n\n3 - A recusa da colaboração devida e a oposição à actuação da IRF podem fazer incorrer o infractor em responsabilidade disciplinar e criminal, nos termos da legislação que ao caso couber.\n\n4 - A IRF deve fazer constar no seu relatório anual de actividades os obstáculos colocados ao normal exercício da sua acção."
+  },
+  "993788797": {
+   "fragment_id": "993782352",
+   "type": 11,
+   "heading": "Artigo 13.º — Princípio do contraditório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Princípio do contraditório\n\n1 - Sem prejuízo das garantias de defesa previstas na lei, e tendo em vista os objectivos de rigor, operacionalidade e eficácia da acção da IRF, esta conduzirá as suas intervenções com observância do princípio do contraditório, excepto quando tal procedimento for susceptível de prejudicar aqueles objectivos.\n\n2 - As modalidades e princípios orientadores da aplicação do princípio do contraditório, referido no número anterior, são definidos em regulamento a aprovar por despacho do Secretário Regional do Plano e Finanças."
+  },
+  "993788798": {
+   "fragment_id": "993782353",
+   "type": 11,
+   "heading": "Artigo 14.º — Garantia da eficácia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Garantia da eficácia\n\n1 - Na sequência da decisão do Secretário Regional do Plano e Finanças sobre os relatórios da IRF, esta assegura o respectivo encaminhamento para os gabinetes dos membros do Governo Regional com responsabilidade de superintendência ou tutela sobre as entidades visadas, bem como para estas, se for o caso.\n\n2 - Sem prejuízo do dever de a IRF proceder ao acompanhamento do resultado das recomendações e propostas formuladas, as entidades públicas visadas devem fornecer-lhe, no prazo de 60 dias contados a partir da recepção do relatório, informações sobre as medidas e decisões entretanto adoptadas na sequência da intervenção da IRF, podendo, ainda, pronunciar-se sobre o efeito da acção.\n\n3 - O disposto no número anterior é aplicável, com as devidas adaptações, ao sector empresarial, cooperativo e privado, e na medida necessária ao acompanhamento e controlo de dinheiros ou outros valores públicos."
+  },
+  "993788799": {
+   "fragment_id": "993782354",
+   "type": 11,
+   "heading": "Artigo 15.º — Dever de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Dever de participação\n\n1 - Independentemente do disposto no n.º 1 do artigo anterior, a IRF tem o dever de participar às entidades competentes, regionais, nacionais e comunitárias, consoante os casos, os factos que apurar no exercício das suas funções, susceptíveis de interessar ao exercício da acção penal, de contra-ordenação ou disciplinar, bem como à determinação de responsabilidades financeiras ou a acções de combate à fraude e irregularidades em prejuízo dos orçamentos regional, nacional e comunitário.\n\n2 - Os inspectores que tiverem conhecimento ou notícia de um crime transmiti-lo-ão ao Ministério Público no mais curto prazo, sem prejuízo da adopção dos actos cautelares necessários e urgentes para assegurar os meios de prova, nos termos previstos no Código de Processo Penal."
+  },
+  "993788800": {
+   "fragment_id": "993782355",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "993788801": {
+   "fragment_id": "993782356",
+   "type": 11,
+   "heading": "Artigo 16.º — Carreira de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Carreira de inspecção\n\nA carreira de inspecção integra o corpo especial de inspecção de alto nível, nos termos do artigo 28.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n> Nota: [Artigo 22.º, Decreto Legislativo Regional n.º 19/2010/M - Diário da República n.º 161/2010, Série I de 2010-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619) Revoga, a partir de 20 de agosto de 2010, o presente artigo, na parte relativa ao pessoal da carreira de inspeção de alto nível."
+  },
+  "993788802": {
+   "fragment_id": "993782357",
+   "type": 11,
+   "heading": "Artigo 17.º — Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Quadro de pessoal\n\n1 - A IRF dispõe do quadro de pessoal constante do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Ao recrutamento e provimento do pessoal da IRF são aplicáveis as normas estabelecidas na lei geral, salvo o disposto no presente diploma."
+  },
+  "993788803": {
+   "fragment_id": "993782358",
+   "type": 11,
+   "heading": "Artigo 18.º — Classificação anual de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Classificação anual de serviço\n\nOs funcionários, agentes, pessoal dirigente de nível intermédio e superior e demais trabalhadores da IRF serão objecto de avaliação do desempenho nos termos dispostos na legislação em vigor."
+  },
+  "993788804": {
+   "fragment_id": "993782359",
+   "type": 11,
+   "heading": "Artigo 19.º — Provimento do pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Provimento do pessoal dirigente\n\n1 - Em face das especificidades das funções de controlo de alto nível, os lugares do pessoal dirigente são providos:\n\na) O de inspector regional de Finanças, cargo de direcção superior do 1.º grau, por despacho conjunto do Presidente do Governo da Região Autónoma da Madeira e do Secretário Regional do Plano e Finanças, de entre indivíduos de reconhecida competência, qualificação e experiência, licenciados com curso superior adequado ao exercício do respectivo cargo;\n\nb) Os de inspector de finanças-director, cargo de direcção intermédia do 1.º grau, de entre inspectores de finanças de categoria igual ou superior a inspector de finanças principal, este com, pelo menos, seis anos de efectivo serviço e com classificação de Muito bom no último ano.\n\n2 - O provimento dos cargos de inspector regional de Finanças e inspector de finanças-director é efectuado em comissão de serviço, nos termos da lei geral aplicável ao pessoal dirigente."
+  },
+  "993788805": {
+   "fragment_id": "993782360",
+   "type": 11,
+   "heading": "Artigo 20.º — Provimento do pessoal da carreira de inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Provimento do pessoal da carreira de inspecção\n\n1 - Os lugares da carreira de inspecção são providos:\n\na) Os de inspector de finanças superior principal, de entre inspectores de finanças superiores com, pelo menos, cinco anos de serviço nessa categoria e classificação de Muito bom no último ano;\n\nb) Os de inspector de finanças superior, de entre inspectores de finanças principais com, pelo menos, quatro anos de serviço nessa categoria e classificação de Bom no último ano;\n\nc) Os de inspector de finanças principal e de inspectores de finanças, de entre, respectivamente, inspectores de finanças com, pelo menos, três anos de serviço na categoria e classificação não inferior a Bom e inspectores de finanças estagiários que tenham concluído com aproveitamento o respectivo estágio;\n\nd) Os de inspector de finanças estagiário, de entre licenciados com curso superior adequado, recrutados mediante provas de selecção a realizar para o efeito.\n\n2 - O estágio a que se refere a alínea c) do n.º 1 tem a duração de um ano de efectivo serviço, podendo, em qualquer momento, cessar por exoneração dos estagiários que revelem uma notória inadequação para o exercício da função.\n\n3 - A prova de selecção, prevista na alínea d) do n.º 1, incluirá a apreciação do currículo dos interessados, a sua experiência profissional e os conhecimentos e aptidões específicos revelados em entrevistas e provas escritas, das quais poderão ser dispensados os candidatos com média de curso não inferior a 16 valores ou Bom com distinção, caso em que aqueles conhecimentos e aptidões serão avaliados, unicamente, através da entrevista.\n\n> Nota: [Artigo 22.º, Decreto Legislativo Regional n.º 19/2010/M - Diário da República n.º 161/2010, Série I de 2010-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619) Revoga, a partir de 20 de agosto de 2010, o presente artigo, na parte relativa ao pessoal da carreira de inspeção de alto nível."
+  },
+  "993788806": {
+   "fragment_id": "993782361",
+   "type": 11,
+   "heading": "Artigo 21.º — Provimento do pessoal da carreira técnica de finanças (grupo técnico)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Provimento do pessoal da carreira técnica de finanças (grupo técnico)\n\nOs lugares do pessoal da carreira técnica de finanças são providos:\n\na) O técnico de finanças-coordenador, de entre técnicos de finanças especialistas com, pelo menos, três anos de serviço na categoria, classificação superior a Bom e qualidades de chefia adequadas ao exercício da função;\n\nb) O técnico de finanças especialista, de entre técnicos de finanças principais com, pelo menos, três anos de serviço na categoria e classificação de Muito bom;\n\nc) O técnico de finanças principal, de entre técnicos de finanças de 1.ª classe com, pelo menos, três anos de serviço na categoria e classificação de Muito bom;\n\nd) O técnico de finanças de 1.ª classe, de entre técnicos de finanças de 2.ª classe com um mínimo de três anos de serviço na categoria e classificação não inferior a Bom;\n\ne) O técnico de finanças de 2.ª classe, de entre indivíduos habilitados com curso superior que não confira o grau de licenciatura, aprovados em estágio com classificação não inferior a Bom (14 valores)."
+  },
+  "993788807": {
+   "fragment_id": "993782362",
+   "type": 11,
+   "heading": "Artigo 22.º — Provimento do pessoal da carreira de técnico de finanças (grupo técnico-profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Provimento do pessoal da carreira de técnico de finanças (grupo técnico-profissional)\n\nOs lugares da carreira do pessoal técnico de finanças são providos:\n\na) Os de secretário de finanças-coordenador, de entre secretários de finanças especialistas com, pelo menos, três anos de serviço na categoria, classificação de Muito bom e qualidade de chefia adequada ao exercício da função;\n\nb) Os de secretário de finanças especialista, de entre secretários de finanças principais com, pelo menos, três anos de serviço na categoria e classificação não inferior a Bom;\n\nc) Os de secretário de finanças principal, de entre secretários de finanças de 1.ª classe com, pelo menos, três anos de serviço na categoria e classificação não inferior a Bom;\n\nd) Os de secretário de finanças de 1.ª classe, de entre secretários de finanças de 2.ª classe com, pelo menos, três anos de serviço na categoria e classificação não inferior a Bom;\n\ne) Os de secretário de finanças de 2.ª classe, de entre secretários de finanças estagiários aprovados no respectivo estágio, com a duração de um ano;\n\nf) Os de secretário de finanças estagiário, de entre indivíduos habilitados com, pelo menos, o curso complementar do ensino secundário ou equivalente, recrutados mediante provas escritas de selecção, a realizar para o efeito."
+  },
+  "993788808": {
+   "fragment_id": "993782363",
+   "type": 11,
+   "heading": "Artigo 23.º — Provimento do restante pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Provimento do restante pessoal\n\nO provimento dos lugares das restantes carreiras previstas no quadro do pessoal da IRF será feito nos termos da lei geral."
+  },
+  "993788809": {
+   "fragment_id": "993782364",
+   "type": 11,
+   "heading": "Artigo 24.º — Regime de provimento e selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regime de provimento e selecção\n\n1 - As nomeações para lugares de secretário de finanças-coordenador, bem como para os lugares de ingresso em carreiras em que o recrutamento não seja precedido de estágio, têm carácter provisório durante o período de um ano, findo o qual o provimento se tornará definitivo se o funcionário revelar aptidão para o lugar, regressando, em caso contrário, à situação anterior.\n\n2 - No provimento dos lugares de ingresso em carreira em que o recrutamento é precedido de estágio atender-se-á, pela ordem indicada:\n\na) À classificação final do estágio;\n\nb) À graduação para ingresso no estágio.\n\n3 - A formação obtida nos estágios, a que alude o número anterior, integra-se no âmbito da formação inicial e tem característica teórica e prática, com momentos distintos de avaliação."
+  },
+  "993788810": {
+   "fragment_id": "993782365",
+   "type": 11,
+   "heading": "Artigo 25.º — Impedimentos e incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Impedimentos e incompatibilidades\n\n1 - O pessoal da IRF está sujeito ao regime geral de impedimentos e incompatibilidades vigentes na Administração Pública.\n\n2 - É ainda vedado aos dirigentes e inspectores da IRF:\n\na) Executar quaisquer acções de natureza inspectiva ou disciplinar em que sejam visados parentes ou afins, em qualquer grau da linha recta ou até ao 3.º grau da linha colateral;\n\nb) Exercer funções de administração ou gerência em qualquer ramo de comércio, indústria ou serviços;\n\nc) Exercer actividades alheias ao serviço que respeitem a entidades relativamente às quais o funcionário tenha realizado, nos últimos três anos, quaisquer acções de natureza inspectiva ou disciplinar;\n\nd) Exercer quaisquer outras actividades, públicas ou privadas, alheias ao serviço, salvo as que decorrem do exercício do seu direito de participação na vida pública.\n\n3 - O exercício de actividades mencionadas nas alíneas c) e d) poderá ser autorizado, casuisticamente, por despacho do Secretário Regional do Plano e Finanças, sob parecer do inspector regional de Finanças, desde que não afecte o prestígio da função, não contribua para enfraquecer a respectiva autoridade e não ponha em causa a isenção profissional do funcionário.\n\n4 - O despacho de autorização fixará, para cada caso, as condições em que se permite o exercício de actividade estranha à IRF, podendo, a todo o tempo, ser revogado com fundamento na inobservância ou desrespeito dessas condições."
+  },
+  "993788811": {
+   "fragment_id": "993782366",
+   "type": 11,
+   "heading": "Artigo 26.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Remunerações\n\n1 - O pessoal da IRF é remunerado nos termos do mapa em anexo ao presente diploma, que dele faz parte integrante.\n\n2 - O pessoal da carreira de inspecção, incluindo o pessoal dirigente, enquanto corpo especial nos termos do n.º 3 do artigo 16.º do Decreto-Lei n.º 184/89, de 2 de Junho, é remunerado de acordo com escalas indiciárias próprias.\n\n> Nota: [Artigo 22.º, Decreto Legislativo Regional n.º 19/2010/M - Diário da República n.º 161/2010, Série I de 2010-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-343619) Revoga, a partir de 20 de agosto de 2010, o presente artigo, na parte relativa ao pessoal da carreira de inspeção de alto nível."
+  },
+  "993788812": {
+   "fragment_id": "993782367",
+   "type": 1,
+   "heading": "Capítulo V — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições transitórias e finais"
+  },
+  "993788813": {
+   "fragment_id": "993782368",
+   "type": 11,
+   "heading": "Artigo 27.º — Regra geral de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Regra geral de transição\n\nO pessoal da carreira de inspecção transita, na categoria que detém, para o escalão correspondente à remuneração actual."
+  },
+  "993788814": {
+   "fragment_id": "993782369",
+   "type": 11,
+   "heading": "Artigo 28.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pessoal\n\nA entrada em vigor do presente diploma não prejudica a manutenção de qualquer relação jurídica de emprego legalmente tutelada e vigente na respectiva data."
+  },
+  "993788815": {
+   "fragment_id": "993782370",
+   "type": 11,
+   "heading": "Artigo 29.º — Concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Concursos\n\nMantêm-se válidos os concursos de ingresso e de acesso abertos e ainda vigentes à data da entrada em vigor do presente diploma."
+  },
+  "993788816": {
+   "fragment_id": "993782371",
+   "type": 11,
+   "heading": "Artigo 30.º — Estágios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Estágios\n\nMantêm-se válidos os estágios em curso à data da entrada em vigor do presente diploma ou que se iniciem na sequência dos concursos de ingresso a que se refere o artigo anterior e, bem assim, os estágios concluídos antes daquela data, neste caso relativamente aos provimentos devidos e ainda não efectuados."
+  },
+  "993788817": {
+   "fragment_id": "993782372",
+   "type": 11,
+   "heading": "Artigo 31.º — Casos omissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Casos omissos\n\nAs disposições legais ou regulamentares que remetam para preceitos do anterior diploma orgânico da IRF consideram-se reportadas para as correspondentes disposições do presente diploma."
+  },
+  "993788818": {
+   "fragment_id": "993782373",
+   "type": 14,
+   "heading": "Anexo — Mapa do quadro de pessoal a que se refere o artigo 17.º do presente diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa do quadro de pessoal a que se refere o artigo 17.º do presente diploma\n\n(ver mapa no documento original)\n\n> Nota: [Artigo 26.º, Decreto Regulamentar Regional n.º 2/2008/M - Diário da República n.º 33/2008, Série I de 2008-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2008-247978) A revogação do presente anexo opera nos termos do artigo 26.º do Decreto Regulamentar Regional n.º 2/2008/M, de 15 de fevereiro.\n\n> Nota: [Diploma, Declaração de Rectificação n.º 7/2006 - Diário da República n.º 16/2006, Série I-A de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-2006-541043) No grupo de pessoal técnico-profissional, na coluna «Carreira», onde se lê «Técnica de finanças» deve ler-se «Técnico de finanças»."
+  },
+  "993788778": {
+   "fragment_id": "993782333",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 25 de Outubro de 2005.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 7 de Novembro de 2005.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "1090595575": {
+   "fragment_id": "993782337",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições e âmbito de competência",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 99.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, com efeitos a partir de 2026-01-01."
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições e âmbito de competência\n\n1 - Enquanto serviço de controlo de alto nível da administração financeira da Região Autónoma da Madeira, incumbe à IRF, entre outras tarefas, o exercício do controlo nos domínios orçamental, económico, financeiro e patrimonial, de acordo com os princípios da legalidade, da regularidade e da boa gestão financeira, contribuindo para a economia, eficácia e eficiência na obtenção das receitas públicas e na realização das despesas públicas, para o que lhe cabe desenvolver, designadamente, as seguintes tarefas:\n\na) Realizar auditorias, inspecções, análises de natureza económico-financeira e outras acções de controlo às entidades abrangidas pela sua intervenção;\n\nb) Realizar sindicâncias, inquéritos e averiguações às entidades abrangidas pela sua intervenção, bem como desenvolver o procedimento disciplinar, quando for o caso;\n\nc) Realizar auditorias, inspecções, análises de natureza económico-financeira e outras acções de controlo às entidades que intervêm na execução e controlo das despesas co-financiadas pelos fundos comunitários, bem como aos respectivos beneficiários;\n\nd) Exercer a tutela administrativa e financeira sobre a administração local da Região Autónoma da Madeira;\n\ne) Avaliar e controlar o cumprimento da legislação que regula os recursos humanos da administração regional autónoma;\n\nf) Exercer as demais competências que lhe sejam cometidas por lei e por outros atos normativos.\n\n2 - Enquanto serviço de apoio técnico especializado, cabe à IRF desenvolver as seguintes tarefas:\n\na) Elaborar projectos de diplomas legais e dar parecer sobre os que lhe sejam submetidos;\n\nb) Promover a investigação técnica, efectuar estudos e emitir pareceres;\n\nc) Coordenar e colaborar com os órgãos regionais, nacionais e comunitários nas acções regionais de controlo dos recursos próprios comunitários;\n\nd) Acompanhar as missões comunitárias de controlo, a efectuar na Região, em matéria de recursos próprios comunitários, no âmbito dos fundos comunitários;\n\ne) Participar, bem como prestar apoio técnico, em júris, comissões e grupos de trabalho regionais, nacionais e comunitários, em situações que constituem matéria de interesse específico para a Região;\n\nf) Assegurar, no âmbito da sua missão, a articulação com as entidades congéneres, nacionais e estrangeiras, e organizações internacionais;\n\ng) Desempenhar quaisquer outras tarefas de apoio técnico especializado para que se encontre vocacionada.\n\n3 - A intervenção da IRF abrange:\n\na) A administração regional autónoma;\n\nb) O setor público empresarial regional, associativo e cooperativo;\n\nc) As fundações de direito público;\n\nd) A administração local da Região Autónoma da Madeira;\n\ne) Outras entidades, independentemente da sua natureza, que, direta ou indiretamente, estabeleçam relações financeiras com entidades públicas.\n\n4 - Para efeitos do disposto no número anterior, entende-se por:\n\na) «Administração regional autónoma» os órgãos, serviços e entidades da administração pública regional que, independentemente da sua forma ou designação, tenham sido incluídos neste subsetor, no âmbito do Sistema Europeu de Contas Nacionais e Regionais;\n\nb) «Setor público empresarial regional» as entidades nas quais a Região Autónoma da Madeira ou outras entidades públicas regionais possam exercer, isolada ou conjuntamente, de forma direta ou indireta, influência dominante e ainda as empresas participadas em que a Região Autónoma da Madeira ou outras entidades públicas regionais, de carácter administrativo ou empresarial, detenham uma participação permanente, de forma direta ou indireta, desde que o conjunto das participações públicas não origine influência dominante;\n\nc) «Setor público associativo e cooperativo» as associações e cooperativas de direito público;\n\nd) «Administração local da Região Autónoma da Madeira» as autarquias locais, serviços municipalizados, entidades associativas municipais e empresas locais sediadas na Região Autónoma da Madeira.\n\n5 - O exercício da competência nas entidades referidas na alínea e) do n.º 3, visa a verificação do cumprimento da lei e das obrigações e avaliar a boa gestão dos recursos públicos.\n\n> Alterado pelo/a Artigo 99.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, com efeitos a partir de 2026-01-01."
+  },
+  "1087842175": {
+   "fragment_id": "993782373",
+   "type": 14,
+   "heading": "Anexo — Mapa do quadro de pessoal a que se refere o artigo 17.º do presente diploma",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 2/2008/M - Diário da República n.º 33/2008, Série I de 2008-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2008-247978).",
+    "Retificado pelo/a [Declaração de Rectificação n.º 7/2006 - Diário da República n.º 16/2006, Série I-A de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-2006-541043), com efeitos a partir de 2005-11-25."
+   ],
+   "markdown": "## Anexo — Mapa do quadro de pessoal a que se refere o artigo 17.º do presente diploma\n\n(ver mapa no documento original)\n\n> Nota: [Artigo 26.º, Decreto Regulamentar Regional n.º 2/2008/M - Diário da República n.º 33/2008, Série I de 2008-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2008-247978) A revogação do presente anexo opera nos termos do artigo 26.º do Decreto Regulamentar Regional n.º 2/2008/M, de 15 de fevereiro.\n\n> Nota: [Diploma, Declaração de Rectificação n.º 7/2006 - Diário da República n.º 16/2006, Série I-A de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-2006-541043) No grupo de pessoal técnico-profissional, na coluna «Carreira», onde se lê «Técnica de finanças» deve ler-se «Técnico de finanças».\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto Regulamentar Regional n.º 2/2008/M - Diário da República n.º 33/2008, Série I de 2008-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2008-247978).\n\n> Retificado pelo/a [Declaração de Rectificação n.º 7/2006 - Diário da República n.º 16/2006, Série I-A de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/7-2006-541043), com efeitos a partir de 2005-11-25."
+  }
+ }
+}

@@ -1,0 +1,144 @@
+---
+schema_version: '1.0'
+id: pt:dre:632905:por
+title: Decreto-Lei n.º 197/2003
+short_title: null
+summary: Altera a CAE - Rev. 2 constante do anexo ao Decreto-Lei n.º 182/93, de 14 de Maio, que revê a Classificação Portuguesa
+  das Actividades Económicas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 197/2003
+official_date: null
+publication_date: '2003-08-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 197/2003, Série I-A de 2003-08-27
+  number: '197'
+  series: I
+  supplement: null
+  pages: 5656 - 5675
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/08/197a00/56565675.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/197/2003/08/27/p/dre/pt/html
+  oj: null
+  dre: '632905'
+  dre_path: /dr/detalhe/decreto-lei/197-2003-632905
+  internal: pt:dre:632905:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2003-632905
+  metadata_url: https://data.dre.pt/eli/dec-lei/197/2003/08/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2003-632905
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-11-14T00:00:00Z'
+integrity:
+  source_sha256: 0a2b3ee3298ab3d7a89983678376d965b63056df5f5c4282217b459a683565fe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-197-632905.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAE
+- Instituto Nacional de Estatística
+- Regulamento CE
+- Sistema Estatístico Nacional
+relationships:
+- type: amended_by
+  target: pt:dre:629150:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31990R3037
+  label: null
+  source: http://data.europa.eu/eli/reg/1990/3037/oj
+- type: cites
+  target: celex:32002R0029
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/29/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/182/1993/05/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/182/1993/05/14/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 197/2003
+
+de 27 de Agosto
+
+A Classificação Portuguesa das Actividades Económicas, segunda revisão, abreviadamente designada CAE - Rev. 2, aprovada pelo Decreto-Lei n.º 182/93, de 14 de Maio, estabeleceu o quadro comum de classificação de actividades económicas harmonizado com a Nomenclatura das Actividades Económicas da Comunidade Europeia, revisão 1 (NACE - Rev. 1), de acordo com o estabelecido no Regulamento (CEE) n.º [3037/90](http://data.europa.eu/eli/reg/1990/3037/oj?locale=pt), do Conselho, de 9 de Outubro.
+
+Sucede que a NACE - Rev. 1 foi objecto de revisão, tendo sido aprovado o Regulamento (CE) n.º [29/2002](http://data.europa.eu/eli/reg/2002/29/oj?locale=pt) (NACE - Rev. 1.1), da Comissão, de 19 de Dezembro de 2001, o qual é aplicável a partir de 1 de Janeiro de 2003, alterando o Regulamento (CEE) n.º [3037/90](http://data.europa.eu/eli/reg/1990/3037/oj?locale=pt) do Conselho, de 9 de Outubro, e determinando a adopção pelos Estados membros de nomenclaturas harmonizadas.
+
+Por essa razão, a CAE - Rev. 2 carece de alguns ajustamentos, de forma a manter a sua harmonização com a NACE - Rev. 1.1.
+
+É neste contexto, e também de forma a permanecer em sintonia com os desenvolvimentos tecnológicos e económicos entretanto ocorridos, que se impõe a revisão da classificação nacional de actividades económicas, garantindo assim que ao nível comunitário se disponha de dados estatísticos de qualidade, comparáveis, oportunos e com o nível de pormenor que permita uma gestão eficaz do mercado único.
+
+Foi ouvido o Conselho Superior de Estatística.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A CAE - Rev. 2 constante do anexo ao Decreto-Lei n.º 182/93, de 14 de Maio, é substituída pela CAE - Rev. 2.1 anexa ao presente decreto-lei.
+
+###### Artigo 2.º — Âmbito
+
+A CAE - Rev. 2.1 aplica-se a todo o território nacional, de acordo com o programa geral de aplicação e as tabelas de equivalência, aprovados pelo Conselho Superior de Estatística.
+
+Visto e aprovado em Conselho de Ministros de 16 de Julho de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Nuno Albuquerque Morais Sarmento - Amílcar Augusto Contel Martins Theias.
+
+**Promulgado em 6 de Agosto de 2003.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 8 de Agosto de 2003.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**
+
+## ANEXO — CAE - Rev. 2.1
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2003/08/197a00/56565675.pdf)

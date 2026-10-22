@@ -1,0 +1,295 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:167359766:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2021-211131335",
+ "dre_path": "/dr/detalhe/portaria/151-2021-167359766",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-07-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "211171794",
+    "211171795",
+    "211171796",
+    "211171797",
+    "211171798",
+    "211171799",
+    "211171800",
+    "211171801",
+    "211171802",
+    "211171803",
+    "211171804",
+    "211171805",
+    "211171806",
+    "211171807",
+    "211171808",
+    "211171809",
+    "211171810",
+    "211171811",
+    "211171812",
+    "211171813",
+    "211171814",
+    "211171815",
+    "211171816",
+    "211171817"
+   ]
+  },
+  {
+   "date": "2023-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211131301:por",
+     "title": "Portaria n.º 94/2023",
+     "published": "2023-03-29",
+     "dre_path": "/dr/detalhe/portaria/94-2023-211131301"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "211171794",
+    "211171795",
+    "211171796",
+    "211171797",
+    "211171798",
+    "211171819",
+    "211171800",
+    "211171801",
+    "211171802",
+    "211171803",
+    "211171804",
+    "211171805",
+    "211171806",
+    "211171807",
+    "211171808",
+    "211171809",
+    "211171810",
+    "211171811",
+    "211171812",
+    "211171813",
+    "211171814",
+    "211171815",
+    "211171816",
+    "211171817",
+    "211171818"
+   ]
+  }
+ ],
+ "fragments": {
+  "211171794": {
+   "fragment_id": "211131336",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 151/2021\n\nde 16 de julho\n\nSumário: Estabelece as condições de acesso e candidatura à celebração de protocolos para projetos específicos de housing first e apartamento partilhado, de acordo com os modelos definidos, no âmbito da Estratégia Nacional para a Integração de Pessoas em Situação de Sem-Abrigo (ENIPSSA).\n\nA Estratégia Nacional para a Integração das Pessoas em Situação de Sem-Abrigo 2017-2023 (ENIPSSA), aprovada pela Resolução do Conselho de Ministros n.º 107/2017, de 25 de julho, e alterada pela Resolução do Conselho de Ministros n.º 2/2020, de 21 de janeiro, visa consolidar uma abordagem estratégica e holística de prevenção e intervenção, centrada nas pessoas em situação de sem-abrigo, por forma a que ninguém tenha de permanecer na rua por ausência de alternativas.\n\nNo âmbito do segundo eixo da ENIPSSA, prevê-se o reforço de uma intervenção promotora da integração das pessoas em situação de sem-abrigo, especificamente no alargamento de linhas de financiamento para a implementação de projetos Housing First dispersos na comunidade e, em paralelo, a priorização do alojamento permanente em habitações individualizadas.\n\nCom efeito, é manifesta a prioridade na procura de uma solução habitacional consistente, em detrimento da abordagem institucional, tendo como principal objetivo o suporte concreto em termos do apoio no acesso a recursos habitacionais, educacionais, formativos ou de emprego. Desta forma, promove-se a concretização dos objetivos individuais das pessoas em situação de sem-abrigo, desde o seu bem-estar físico e mental à possibilidade de desenvolvimento de atividades, formação ou trabalho, objetivos determinantes para a promoção da sua autonomia financeira, através do que se considera prioritário uma habitação condigna.\n\nConcretizando o acima exposto, a Lei n.º 75-B/2020, de 31 de dezembro, que aprovou o Orçamento do Estado para o ano de 2021, prevê que o Instituto da Segurança Social, I. P. (ISS, I. P.), celebre, durante o ano, protocolos para o financiamento de projetos inovadores ou específicos nos modelos de housing first e apartamento partilhado.\n\nPara operacionalização dos referidos protocolos, celebrados ao abrigo da cooperação estabelecida entre o Estado e as instituições particulares de solidariedade social ou legalmente equiparadas, importa prever a tramitação desmaterializada e simplificada das candidaturas à celebração destes instrumentos de cooperação.\n\nPara a operacionalização destes projetos, é fundamental a intervenção dos núcleos de planeamento e intervenção sem-abrigo (NPISA), sendo as estruturas que asseguram a implementação da ENIPSSA nos vários territórios, em que a dimensão do fenómeno das pessoas em situação de sem-abrigo o justifique, e que são constituídas no âmbito dos conselhos locais de ação social (CLAS) ou das plataformas supraconcelhias, conforme a Resolução do Conselho de Ministros n.º 107/2017, de 25 de julho, na redação em vigor.\n\nAssim, em execução do disposto no n.º 7 do artigo 135.º da Lei n.º 75-B/2020, de 31 de dezembro, do artigo 10.º do Decreto-Lei n.º 120/2015, de 30 de junho, e ao abrigo das alíneas a) e b) do artigo 28.º da Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social, o seguinte:"
+  },
+  "211171795": {
+   "fragment_id": "211131337",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as condições de acesso e de candidatura à celebração de protocolos para o financiamento de projetos inovadores específicos, designadamente no que respeita a projetos de housing first e apartamento partilhado, no âmbito da ENIPSSA."
+  },
+  "211171796": {
+   "fragment_id": "211131338",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito e fins\n\nAs condições de acesso e candidatura aplicam-se a todo o território continental e destinam-se ao funcionamento de projetos inovadores de alargamento e de reforço das respostas de alojamento e habitação destinadas a pessoas em situação de sem-abrigo, promovidas com a finalidade de combater situações de pobreza e exclusão social."
+  },
+  "211171797": {
+   "fragment_id": "211131339",
+   "type": 11,
+   "heading": "Artigo 3.º — Modelos de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Modelos de intervenção\n\nPara a prossecução dos fins previstos no artigo anterior, a intervenção com vista à integração de pessoas em situação de sem-abrigo concretiza-se através dos seguintes modelos:\n\na) Housing first;\n\nb) Apartamento partilhado."
+  },
+  "211171798": {
+   "fragment_id": "211131340",
+   "type": 11,
+   "heading": "Artigo 4.º — Housing first",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Housing first\n\n1 - O modelo de housing first visa proporcionar à pessoa em situação de sem-abrigo uma habitação permanente e individualizada, apoiada por um conjunto diversificado de serviços de apoio social, em estreita ligação com outros recursos da comunidade e com o apoio técnico adequado, no sentido de promover a inserção social e a autonomização.\n\n2 - No modelo de housing first a ocupação deve considerar uma pessoa por habitação, sendo permitida a ocupação por um casal ou, excecionalmente, por um máximo de duas pessoas em coabitação, mediante avaliação fundamentada da situação e das condições da habitação.\n\n3 - A permanência no modelo de housing first é definida em função da avaliação técnica realizada a cada situação em concreto."
+  },
+  "211171799": {
+   "fragment_id": "211131341",
+   "type": 11,
+   "heading": "Artigo 5.º — Apartamento partilhado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apartamento partilhado\n\n1 - O modelo de apartamento partilhado visa garantir à pessoa em situação de sem-abrigo um alojamento em contexto habitacional com caráter transitório e temporário, apoiado por um conjunto diversificado de serviços de apoio social, em estreita ligação com outros recursos da comunidade e com apoio técnico adequado, no sentido de promover a inserção social e a autonomização.\n\n2 - A capacidade do apartamento partilhado varia entre o mínimo de duas pessoas e o máximo de cinco pessoas, considerando o número de quartos disponíveis, devendo ser asseguradas as normas de habitação, as condições de higiene e segurança em vigor.\n\n3 - O acolhimento em apartamento partilhado é previsto para um período máximo de seis meses, podendo ser excecionalmente renovado uma vez, por igual período."
+  },
+  "211171800": {
+   "fragment_id": "211131342",
+   "type": 11,
+   "heading": "Artigo 6.º — Especificidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Especificidades\n\n1 - Tendo como referência abordagens personalizadas, a opção pelo modelo de intervenção mais adequado tem em conta as necessidades específicas e a experiência individual da pessoa em situação de sem-abrigo.\n\n2 - Considerando a identidade, expressão de género e características sexuais da pessoa a acolher, prevê-se a possibilidade de criação de estruturas de acolhimento adequadas para pessoas LGBTQI+."
+  },
+  "211171801": {
+   "fragment_id": "211131343",
+   "type": 11,
+   "heading": "Artigo 7.º — Instituições elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Instituições elegíveis\n\nPodem candidatar-se à celebração de protocolo destinado ao financiamento de respostas de housing first e apartamento partilhado as instituições particulares de solidariedade social e as que lhe são legalmente equiparadas, bem como outras entidades que desenvolvam atividades de ação social do âmbito da segurança social, sem finalidade lucrativa, adiante designadas por instituição, e que manifestem interesse em assegurar as respostas acima referenciadas."
+  },
+  "211171802": {
+   "fragment_id": "211131344",
+   "type": 11,
+   "heading": "Artigo 8.º — Prioridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prioridade\n\nNas candidaturas à celebração de protocolo com o ISS, I. P., é dada preferência às instituições que integrem um NPISA desde que regularmente constituídas e que cumpram as condições de acesso previstas no artigo seguinte."
+  },
+  "211171803": {
+   "fragment_id": "211131345",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições de acesso\n\nSão requisitos de admissão da candidatura à celebração dos protocolos para o financiamento dos projetos inovadores ou específicos no âmbito da ENIPSSA:\n\na) O registo da instituição, nos termos do Estatuto das Instituições Particulares de Solidariedade Social (Estatuto das IPSS), aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, na sua redação atual, quando aplicável;\n\nb) A verificação de que as atividades desenvolvidas ou a desenvolver se enquadram nos objetivos estatutários da instituição;\n\nc) Os titulares dos órgãos da instituição se encontrem em exercício legal de mandato, com salvaguarda da verificação do cumprimento do disposto nos artigos 21.º-A e 21.º-C do Estatuto das IPSS;\n\nd) Inexistência de irregularidades no funcionamento da atividade e das respostas sociais desenvolvidas pela entidade candidata, decorrentes de ações de acompanhamento, de fiscalização ou inspetivas que tenham determinado a suspensão do acordo para a resposta social a rever ou, no limite, a inibição temporária ou definitiva da atividade da entidade concorrente que não tenham sido sanadas;\n\ne) Possuir a situação regularizada perante a administração fiscal e a segurança social;\n\nf) Possuir a sua situação regularizada quanto ao cumprimento das obrigações contabilísticas, mediante a apresentação de contas à segurança social, quando aplicável."
+  },
+  "211171804": {
+   "fragment_id": "211131346",
+   "type": 11,
+   "heading": "Artigo 10.º — Modelo de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Modelo de financiamento\n\n1 - No âmbito do financiamento a conceder para a resposta de housing first ou apartamento partilhado, o montante da comparticipação financeira a atribuir às instituições corresponde a um valor mensal, por utente, quantificado nos avisos de abertura de candidaturas, em função de cada modelo de intervenção.\n\n2 - Os valores referidos no número anterior podem ser revistos, após avaliação, face à necessidade de assegurar uma resposta de qualidade e sustentável.\n\n3 - O presente financiamento não obsta a que estes projetos possam ter outros financiamentos desde que não se destinem às mesmas finalidades."
+  },
+  "211171805": {
+   "fragment_id": "211131347",
+   "type": 11,
+   "heading": "Artigo 11.º — Convite à apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Convite à apresentação de candidaturas\n\nO convite à apresentação de candidaturas para a celebração de protocolo para o funcionamento de projetos inovadores de ação social que visam a inserção de pessoas em situação de sem-abrigo é disponibilizado no sítio da segurança social e estabelece, entre outros, os seguintes requisitos:\n\na) Modelo de intervenção;\n\nb) Referencial de financiamento e quadro de recursos humanos proposto;\n\nc) Período de apresentação e de validade das candidaturas;\n\nd) Prazo para apresentação da candidatura."
+  },
+  "211171806": {
+   "fragment_id": "211131348",
+   "type": 11,
+   "heading": "Artigo 12.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Candidaturas\n\n1 - A candidatura é apresentada por instituição e por modelo de intervenção, nos termos dos artigos 3.º, 4.º e 5.º da presente portaria.\n\n2 - O formulário de candidatura está acessível no sítio da Internet da segurança social e no balcão único eletrónico, sendo os documentos necessários à instrução do pedido submetidos através de plataforma eletrónica, garantindo a tramitação desmaterializada do presente procedimento.\n\n3 - A apresentação de pedidos e de outros elementos e a realização de comunicações por via eletrónica devem ser instruídos com assinatura digital qualificada, preferencialmente.\n\n4 - Quando, por motivos de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação é efetuada por correio eletrónico para o endereço criado especificamente para o efeito ou entregue no ISS, I. P., por qualquer outro meio legalmente admissível.\n\n5 - Não são admitidas candidaturas e documentos que não sejam enviados dentro do prazo fixado e nas condições estabelecidas no presente diploma."
+  },
+  "211171807": {
+   "fragment_id": "211131349",
+   "type": 11,
+   "heading": "Artigo 13.º — Instrução da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Instrução da candidatura\n\n1 - A candidatura é efetuada através de submissão e preenchimento dos campos em plataforma digital criada para o efeito, sendo obrigatoriamente acompanhada pelos seguintes documentos:\n\na) Modelo de gestão validado pela coordenação do NPISA ou por parecer da Rede Social;\n\nb) Minuta do contrato de prestação de serviços;\n\nc) Informação económico-financeira: estudo económico-financeiro do projeto social inovador a desenvolver, fontes de financiamento e respetivo custo estimado;\n\nd) Documento comprovativo da legitimidade de utilização e da titularidade das habitações a disponibilizar, quando aplicável;\n\ne) Memória descritiva do projeto social inovador, do qual conste:\n\ni) Descrição pormenorizada do projeto a implementar, com referência a objetivos gerais e específicos, capacidade, metas e resultados esperados;\n\nii) Experiência de intervenção específica em anos anteriores com projetos semelhantes de alojamento de pessoas em situação de sem-abrigo, com referência aos resultados obtidos;\n\niii) Parcerias estabelecidas e ou previstas para o projeto;\n\niv) Recursos humanos (curricula com menção expressa de qualificação académica dos técnicos que vão integrar o projeto);\n\nv) Projeto de regulamento interno.\n\n2 - As instituições ficam obrigadas à prestação de esclarecimentos e à apresentação de documentos complementares que se revelem necessários à correta avaliação da candidatura, no prazo máximo de 10 dias após notificação para o efeito, constituindo a recusa fundamento bastante para a exclusão da mesma."
+  },
+  "211171808": {
+   "fragment_id": "211131350",
+   "type": 11,
+   "heading": "Artigo 14.º — Exclusão de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exclusão de candidaturas\n\nAs candidaturas que não observem o disposto no artigo 9.º, ou quaisquer outros que prevejam expressamente tal consequência, desde que tenham sido regularmente notificadas para o efeito, são excluídas, nos termos e para os efeitos estabelecidos no Código do Procedimento Administrativo."
+  },
+  "211171809": {
+   "fragment_id": "211131351",
+   "type": 11,
+   "heading": "Artigo 15.º — Admissão e apreciação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Admissão e apreciação de candidaturas\n\n1 - A admissão e apreciação das candidaturas, bem como a respetiva análise e aferição do cumprimento das condições de acesso, compete ao ISS, I. P., que verifica oficiosamente se a instituição candidata tem a sua situação regularizada perante a segurança social e a administração fiscal, e ainda quanto ao cumprimento das obrigações contabilísticas, mediante a apresentação de contas à segurança social, quando aplicável.\n\n2 - As candidaturas são analisadas circunstanciadamente, devendo assegurar-se uma articulação com a Rede Social, bem como a adoção do modelo de intervenção preconizado pela ENIPSSA."
+  },
+  "211171810": {
+   "fragment_id": "211131352",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Critérios de apreciação\n\nA apreciação das candidaturas admitidas é efetuada e valorada de acordo com os seguintes critérios e ponderações:\n\na) Experiência na intervenção, designadamente em housing first e apartamento partilhado ou outro tipo de alojamento de pessoas em situação de sem-abrigo;\n\nb) Grau de adequação ao modelo de intervenção preconizado pela ENIPSSA;\n\nc) Consistência do modelo de gestão;\n\nd) Capacidade da equipa técnica de acompanhamento, demonstrada através dos respetivos curricula, majorando-se as equipas que integrem pessoas que tenham passado pela condição de sem-abrigo;\n\ne) Cobertura territorial face aos rácios a definir por NPISA."
+  },
+  "211171811": {
+   "fragment_id": "211131353",
+   "type": 11,
+   "heading": "Artigo 17.º — Decisão e aprovação final de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Decisão e aprovação final de candidaturas\n\n1 - Concluída a fase de admissão e apreciação de candidaturas, o ISS, I. P., profere a decisão.\n\n2 - Se a decisão proferida for de aprovação, as instituições são notificadas para a celebração do respetivo protocolo de cooperação.\n\n3 - A decisão depende de existência de cobertura orçamental."
+  },
+  "211171812": {
+   "fragment_id": "211131354",
+   "type": 11,
+   "heading": "Artigo 18.º — Celebração do protocolo de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Celebração do protocolo de cooperação\n\nO protocolo de cooperação é celebrado entre o ISS, I. P., e as instituições, e difere consoante o modelo de intervenção em causa:\n\na) Protocolo de cooperação para equipas técnicas de suporte e acompanhamento a pessoas em contexto habitacional housing first;\n\nb) Protocolo de cooperação para a prestação de serviços de apoio, acompanhamento social e alojamento em apartamento partilhado."
+  },
+  "211171813": {
+   "fragment_id": "211131355",
+   "type": 11,
+   "heading": "Artigo 19.º — Conteúdo dos protocolos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conteúdo dos protocolos de cooperação\n\nOs protocolos de cooperação a celebrar devem obedecer ao estabelecido no artigo 29.º da Portaria n.º 196-A/2015, de 1 de julho, na sua redação atual."
+  },
+  "211171814": {
+   "fragment_id": "211131356",
+   "type": 11,
+   "heading": "Artigo 20.º — Acompanhamento, monitorização e avaliação dos protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acompanhamento, monitorização e avaliação dos protocolos\n\n1 - O acompanhamento, monitorização e avaliação dos protocolos é realizado pelo ISS, I. P., e incide, entre outras matérias, sobre:\n\na) Cumprimento dos objetivos estabelecidos;\n\nb) Qualidade do serviço prestado;\n\nc) Intervenção técnica realizada; e\n\nd) Medidas inovadoras implementadas.\n\n2 - A avaliação periódica anual aos protocolos celebrados deve integrar uma autoavaliação por parte das entidades promotoras e, sempre que possível, uma avaliação externa, realizada em articulação com a academia.\n\n3 - A avaliação deve ainda visar a satisfação dos utentes quanto aos modelos de intervenção e participação dos mesmos."
+  },
+  "211171815": {
+   "fragment_id": "211131357",
+   "type": 11,
+   "heading": "Artigo 21.º — Controlo e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Controlo e fiscalização\n\nO controlo e a fiscalização dos protocolos e respetivas medidas, atividades e serviços prestados são exercidos pelo ISS, I. P."
+  },
+  "211171816": {
+   "fragment_id": "211131358",
+   "type": 11,
+   "heading": "Artigo 22.º — Proibição de cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Proibição de cumulação de apoios\n\n1 - Sem prejuízo do disposto no n.º 3 do artigo 10.º, os apoios atribuídos no âmbito da presente portaria não são cumuláveis com outros apoios públicos para fins e natureza idênticos.\n\n2 - Em caso de prática, por ação ou omissão, de factos indiciadores de situações irregulares, os apoios são suspensos de imediato e a irregularidade comunicada aos serviços competentes, para promoção dos procedimentos adequados à recuperação das quantias recebidas indevidamente e ao apuramento de eventuais responsabilidades."
+  },
+  "211171817": {
+   "fragment_id": "211131359",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "211171819": {
+   "fragment_id": "211131341",
+   "type": 11,
+   "heading": "Artigo 5.º — Apartamento partilhado",
+   "in_force_from": "2023-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2023 - Diário da República n.º 63/2023, Série I de 2023-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/94-2023-211131301), em vigor a partir de 2023-03-30"
+   ],
+   "markdown": "###### Artigo 5.º — Apartamento partilhado\n\n1 - O modelo de apartamento partilhado visa garantir à pessoa em situação de sem-abrigo um alojamento em contexto habitacional com caráter transitório e temporário, apoiado por um conjunto diversificado de serviços de apoio social, em estreita ligação com outros recursos da comunidade e com apoio técnico adequado, no sentido de promover a inserção social e a autonomização.\n\n2 - A capacidade do apartamento partilhado varia entre o mínimo de duas pessoas e o máximo de cinco pessoas, considerando o número de quartos disponíveis, devendo ser asseguradas as normas de habitação, as condições de higiene e segurança em vigor.\n\n3 - O tempo de permanência e acolhimento em apartamento partilhado tem a duração máxima de 12 meses, podendo ser prorrogado uma vez, por igual período.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2023 - Diário da República n.º 63/2023, Série I de 2023-03-29](https://diariodarepublica.pt/dr/detalhe/portaria/94-2023-211131301), em vigor a partir de 2023-03-30"
+  },
+  "211171818": {
+   "fragment_id": "211131360",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 12 de julho de 2021.\n\n114405245"
+  }
+ }
+}

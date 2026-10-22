@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:399059:por
+title: Portaria n.º 100/72
+short_title: null
+summary: Substitui as taxas estabelecidas na rubrica 48, n.º 2.º, alínea d), coluna 8, das tabelas de taxas e portes postais
+  das províncias ultramarinas, aprovadas pela Portaria n.º 15970
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Obras Públicas e Comunicações
+proposing_entity: null
+official_number: 100/72
+official_date: null
+publication_date: '1972-02-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 42/1972, Série I de 1972-02-19
+  number: '42'
+  series: I
+  supplement: null
+  pages: 191 - 191
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/02/04200/01910191.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '399059'
+  dre_path: /dr/detalhe/portaria/100-1972-399059
+  internal: pt:dre:399059:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/100-1972-399059
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/100-1972-399059
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1972-02-19T00:00:00Z'
+integrity:
+  source_sha256: deb67aeeb3e0e0d081f73fc497fb6d135f4aa0809b1773332f8f76ce21c0861a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1972/DRE-1972-100-399059.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 100/72
+
+de 19 de Fevereiro
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do disposto no artigo 74.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, que de harmonia com o Acordo de Encomendas Postais, aprovado no Congresso da União Postal Universal realizado em Tóquio em 1969, sejam substituídas as taxas estabelecidas na rubrica 48, n.º 2.º, alínea d), coluna 8, das tabelas de taxas e portes postais das províncias ultramarinas, aprovadas pela [Portaria n.º 15970](https://diariodarepublica.pt/dr/detalhe/portaria/15970-1956-232708), de 13 de Setembro de 1956, pelas seguintes:
+
+48 - ...
+
+2.º ...
+
+d) ...
+
+Para Angola e Moçambique:
+
+Até 1 kg (francos-ouro) ... (ver nota a) 2,50 (ver nota b) 2,00
+
+De mais de 1 kg e até 3 kg (francos-ouro) ... (ver nota a) 3,40 (ver nota b) 2,40
+
+De mais de 3 kg e até 5 kg (francos-ouro) ... (ver nota a) 4,50 (ver nota b) 3,00
+
+De mais de 5 kg e até 10 kg (francos-ouro) ... (ver nota a) 7,90 (ver nota b) 5,40
+
+Para Cabo Verde:
+
+Até 1 kg (francos-ouro) ... 2,00
+
+De mais de 1 kg e até 3 kg (francos-ouro) ... 2,40
+
+De mais de 3 kg e até 5 kg (francos-ouro) ... 3,00
+
+De mais de 5 kg e até 10 kg (francos-ouro) ... 5,40
+
+Para as restantes províncias:
+
+Até 1 kg (francos-ouro) ... 1,50
+
+De mais de 1 kg e até 3 kg (francos-ouro) ... 1,90
+
+De mais de 3 kg e até 5 kg (francos-ouro) ... 2,50
+
+De mais de 5 kg e até 10 kg (francos-ouro) ... 4,90
+
+(nota a) Quando há transporte interior de ou para o porto de comunicação com o exterior.
+
+(nota b) Quando não há transporte interior de ou para o porto de comunicação com o exterior.
+
+**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+
+Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

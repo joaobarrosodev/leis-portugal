@@ -1,0 +1,172 @@
+---
+schema_version: '1.0'
+id: pt:dre:236109:por
+title: Portaria n.º 865/74
+short_title: null
+summary: Determina a actualização e a melhoria das pensões de invalidez, de velhice e de sobrevivência do regime geral da
+  Previdência
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Assuntos Sociais - Secretaria de Estado da Segurança Social
+proposing_entity: null
+official_number: 865/74
+official_date: null
+publication_date: '1974-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 303/1974, 4º Suplemento, Série I de 1974-12-31
+  number: '303'
+  series: I
+  supplement: 4º Suplemento
+  pages: 1670-(84) a 1670-(86)
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30304/00840086.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '236109'
+  dre_path: /dr/detalhe/portaria/865-1974-236109
+  internal: pt:dre:236109:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/865-1974-236109
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/865-1974-236109
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-09-25T00:00:00Z'
+integrity:
+  source_sha256: 4409224d72246c967e40b1359c2dac11952640ebe1c14bc6ec11791c78cdeb8c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1974/DRE-1974-865-236109.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:653127:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 865/74
+
+de 31 de Dezembro
+
+Em resposta à urgente necessidade de atender às graves situações sociais de carência em que foram lançadas largas camadas da população, estabeleceu o Governo, em cumprimento do Programa do MFA, as bases de uma nova política de segurança social em que se visa, a médio prazo, a garantia de qualidade de vida a que toda a população tem direito, e, de imediato, dentro das disponibilidades permitidas pelas distorções de toda a ordem legadas pelo anterior regime, uma actuação correctora que procure resolver as mais flagrantes situações de injustiça.
+
+Ao analisar-se a grave situação dos idosos e reformados e as providências que ela impõe, tem-se presente que, já depois da revolução iniciada em 25 de Abril, além da criação da pensão social, foram tomadas as seguintes medidas:
+
+a) Aumento das pensões mínimas de 810$00 para 1650$00, medida que abrangeu cerca de 80% dos pensionistas;
+
+b) Generalização da pensão de sobrevivência a todos os familiares dos trabalhadores e pensionistas falecidos;
+
+c) Atribuição do 13.º mês a todos os pensionistas.
+
+A presente portaria, implicando a mobilização de recursos que se aproximam de 1 milhão de contos, introduz as seguintes medidas no regime dos pensionistas da Previdência:
+
+1 - Actualização das pensões de invalidez, velhice e sobrevivência, adoptando-se critério análogo ao utilizado pelo Estado;
+
+2 - Fixação de valores mínimos para as pensões de sobrevivência;
+
+3 - Aumento da pensão de viuvez de 50% para 60% da pensão de reforma a que se reportar;
+
+4 - Generalização do complemento de 20% da pensão, por cônjuge a cargo, a todas as pensões iniciadas até 31 de Dezembro de 1973.
+
+Numa altura em que, sem hesitações, se continua a dar cumprimento ao Programa do MFA, designadamente na execução de uma nova política social, que em todos os domínios tem como objectivo a defesa dos interesses das classes trabalhadoras, não deve a legítima insatisfação, por não se poder ir mais longe, fazer esquecer o que de positivo representam as medidas agora tomadas, que, aliás, se espera, tão cedo quanto possível, prosseguir.
+
+Nota-se, por fim, que a melhoria das pensões e de todo o esquema de segurança social dos trabalhadores rurais continua a ter prioridade entre as providências a adoptar pelo Governo e que só a circunstância de se encontrarem ainda na fase final do estudo não permite incluí-las nesta portaria.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Segurança Social:
+
+I - Os quantitativos mensais das pensões de invalidez, de velhice e de sobrevivência concedidas pela Caixa Nacional de Pensões e pelas caixas de previdência com entidades patronais contribuintes serão actualizados ou melhorados nas condições fixadas nesta portaria.
+
+II - 1. São actualizadas, nos termos dos números seguintes, as pensões de invalidez ou velhice iniciadas antes de 1 de Janeiro de 1974, servindo de base a essa actualização os valores em vigor em 31 de Dezembro de 1974.
+
+2. As pensões cujo quantitativo regulamentar não exceda 350$00 mantêm o valor de 1650$00, para que foram elevadas a partir de 1 de Julho de 1974, por força do [Decreto-Lei n.º 217/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-1974-622620), de 27 de Maio.
+
+3. As pensões cujo quantitativo regulamentar seja superior a 350$00, mas não a 9000$00, são actualizadas para os valores que resultam da soma daquele quantitativo com as importâncias seguintes, incluindo-se nestas o valor das melhorias concedidas a partir de Janeiro de 1974:
+
+a) 1300$00, para os quantitativos regulamentares que não excedam 900$00;
+
+b) 1150$00, para os quantitativos regulamentares superiores a 900$00, mas não a 3250$00, ressalvado, porém, o valor mínimo de 2210$00 para a pensão total;
+
+c) 1000$00, para os quantitativos regulamentares superiores a 3250$00, mas não a 9000$00, ressalvado o valor mínimo de 4410$00 para a pensão total.
+
+4. São aumentadas para 10000$00 as pensões de quantitativo regulamentar superior a 9000$00, mas não a 9240$00.
+
+5. Não são alteradas as pensões de valor regulamentar superior a 9240$00, que apenas mantêm as melhorias de que já beneficiem.
+
+III - São melhorados com o valor uniforme de 500$00, sem prejuízo da pensão mínima legal, os quantitativos regulamentares mensais das pensões de invalidez ou de velhice iniciadas a partir de 1 de Janeiro de 1975.
+
+IV - 1. É aplicável às pensões de sobrevivência o que se dispõe no n.º 1 da norma II efectuando-se a actualização nos termos seguintes:
+
+a) Somam-se todas as pensões de sobrevivência provenientes do mesmo beneficiário, bem como as percentagens regulamentares da pensão de reforma que elas representam;
+
+b) Determina-se, a partir desses dois valores, a pensão de reforma base que regulamentarmente corresponde às referidas pensões de sobrevivência;
+
+c) Considerado o valor obtido na alínea anterior como quantitativo regulamentar de uma pensão de reforma em 31 de Dezembro de 1974, actualiza-se o mesmo de acordo com a norma II;
+
+d) A partir deste valor actualizado da pensão de reforma determinam-se, por aplicação das respectivas percentagens regulamentares, os valores actualizados das pensões de sobrevivência.
+
+2. Nenhuma pensão de sobrevivência poderá ter valor inferior ao que resulte da aplicação da percentagem respectiva à pensão mínima de invalidez e velhice.
+
+V - O disposto nas normas precedentes não se aplica, no todo ou em parte, às caixas para as quais foi autorizado um regime mais favorável de pensões.
+
+VI - As pensões reduzidas, quer por força do disposto nos artigos 27.º e 189.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, quer por aplicação de convenções internacionais, englobarão também uma actualização ou melhoria, conforme o caso, que se obtém reduzindo os respectivos valores, correspondentes à pensão regulamentar total, na mesma proporção em que o for esta.
+
+VII - 1. Em todos os casos em que se torne necessário considerar a actualização de salários, designadamente para os efeitos previstos nas normas XI, n.º 3, e XX, alínea b), da [Portaria n.º 21799](https://diariodarepublica.pt/dr/detalhe/portaria/21799-1966-493264), de 17 de Janeiro de 1966, na norma VII, n.º 2, da [Portaria n.º 444/71](https://diariodarepublica.pt/dr/detalhe/portaria/444-1971-635256), de 19 de Agosto, e no n.º 7 do artigo 100.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963, com a redacção que lhe foi dada pelo [Decreto n.º 178/73](https://diariodarepublica.pt/dr/detalhe/decreto/178-1973-673820), de 17 de Abril, utilizar-se-á a seguinte tabela, que substituirá a tabela inserta na norma V, n.º 1, da [Portaria n.º 673/73](https://diariodarepublica.pt/dr/detalhe/portaria/673-1973-567444), de 8 de Outubro:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30304/00840086.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30304/00840086.pdf)
+
+2. Para os pensionistas da Caixa de Previdência do Pessoal da Companhia Carris de Ferro de Lisboa, com pensões iniciadas antes de 1949, tomar-se-á como ano de início, para efeitos do número anterior, o ano de 1949.
+
+VIII - É tornado extensivo às pensões iniciadas antes de 1 de Janeiro de 1974 o complemento de pensão por cônjuge a cargo, estabelecido no n.º 4 do artigo 80.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), com a nova redacção dada pelo [Decreto n.º 486/73](https://diariodarepublica.pt/dr/detalhe/decreto/486-1973-599971), de 27 de Setembro.
+
+IX - É elevada para 60% a percentagem a considerar para cálculo da pensão do cônjuge sobrevivo, sendo revistas em conformidade as pensões de viuvez em curso em 31 de Dezembro de 1974.
+
+X - Passa a ser de 3300$00 o salário base mensal mínimo para efeitos de continuação voluntária do pagamento de contribuições a que se referem o n.º 1 da norma VII da [Portaria n.º 444/71](https://diariodarepublica.pt/dr/detalhe/portaria/444-1971-635256), de 19 de Agosto, e o n.º 5 da [Portaria n.º 522/71](https://diariodarepublica.pt/dr/detalhe/portaria/522-1971-632742), de 29 de Setembro.
+
+XI - Excluem-se do disposto na presente portaria os grupos de beneficiários a que não sejam aplicáveis os regimes de pensões previstos para a Caixa Nacional de Pensões, designadamente da Caixa de Previdência e Abono de Família dos Ferroviários, sujeitos aos regulamentos anteriores a 1 de Julho de 1955, e os da Caixa de Previdência e Abono de Família do Pessoal do Serviço de Transportes Colectivos do Porto, admitidos anteriormente a 15 de Junho de 1953.
+
+XII - A presente portaria produz efeitos a partir de 1 de Janeiro de 1975.
+
+Secretaria de Estado da Segurança Social, 30 de Dezembro de 1974. - O Secretário de Estado da Segurança Social, Henrique Santa Clara Gomes.

@@ -1,0 +1,114 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:361888:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1997-119847716",
+ "dre_path": "/dr/detalhe/portaria/371-1997-361888",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-06-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "119850200"
+   ]
+  },
+  {
+   "date": "2006-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1267140:por",
+     "title": "Portaria n.º 982/2006 (2.ª série) - 2.ª Série",
+     "published": "2006-06-16",
+     "dre_path": "/dr/detalhe/portaria/982-2006-1267140"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "119850197",
+    "119850187"
+   ]
+  },
+  {
+   "date": "2006-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:537253:por",
+     "title": "Portaria n.º 696/2006",
+     "published": "2006-07-10",
+     "dre_path": "/dr/detalhe/portaria/696-2006-537253"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "119850199",
+    "119850187"
+   ]
+  },
+  {
+   "date": "2019-03-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:119847709:por",
+     "title": "Portaria n.º 65/2019",
+     "published": "2019-02-19",
+     "dre_path": "/dr/detalhe/portaria/65-2019-119847709"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "119850200",
+    "119850187"
+   ]
+  }
+ ],
+ "fragments": {
+  "119850200": {
+   "fragment_id": "119847717",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-03-21",
+   "changed_by": [],
+   "markdown": "Portaria n.º 371/97\n\nde 6 de Junho\n\nA promoção de habitação a custos controlados tem como principal objectivo colocar à disposição de agregados familiares menos favorecidos fogos a preços compatíveis com os seus rendimentos. Resulta, porém, cada vez mais evidente que as necessidades dos destinatários dos fogos de custos controlados não se esgotam com o mero acesso à habitação, devendo assegurar-se de igual modo condições mínimas de qualidade de vida e bem-estar a todas as famílias envolvidas.\n\nNessa medida, visa a presente portaria criar condições financeiras e técnicas idênticas em todos os empreendimentos de habitação a custos controlados para a concretização de projectos de equipamento social. Prevê-se ainda a possibilidade de financiamento de espaços acessórios essenciais, tais como garagens e arrecadações, muitas vezes exigidos no âmbito das próprias normas de ordenamento do território, designadamente os planos directores municipais. Procede-se ainda à actualização do regime em causa, face às alterações introduzidas pelo Decreto-Lei n.º 150-A/91, de 22 de Abril.\n\nAssim, tendo em vista o disposto na alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 202-B/86, de 22 de Julho, e no artigo 1.º do Decreto-Lei n.º 150-A/91, de 22 de Abril:\n\nManda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, o seguinte:\n\n1.º O Instituto Nacional de Habitação e as instituições de crédito legalmente autorizadas a conceder financiamentos à promoção habitacional a custos controlados podem conceder empréstimos, nos termos do presente diploma, para projectos de equipamento social, partes acessórias dos fogos e ou espaços comerciais, quando integrados em empreendimentos de habitações a custos controlados.\n\n2.º Para efeitos do disposto na presente portaria, entende-se por:\n\na) Equipamento social - as áreas construídas destinadas a apoio social, cultural e desportivo das famílias, designadamente infantários, lares para a terceira idade, centros de dia e serviços colectivos de limpeza e lavandaria, salas de condomínio e outros;\n\nb) Partes acessórias - as áreas construídas acessórias dos fogos destinadas a garagens colectivas ou individuais e a arrecadações;\n\nc) Espaços comerciais - as áreas construídas integradas no empreendimento e destinadas ao exercício da actividade comercial.\n\n§ único. No caso do equipamento social, deve ser dada preferência aos projectos que envolvam mais de um empreendimento, desde que integrados na mesma área urbanística.\n\n3.º O valor máximo do equipamento social e espaços comerciais a financiar não pode ser superior a 20% do valor total dos empreendimentos a que se destinam, avaliados nos termos estabelecidos para a habitação a custos controlados.\n\n4.º (Revogado);\n\nem que VVm2 é o valor de venda por metro quadrado das habitações a custos controlados e nL é o número de lugares de estacionamento.\n\n5.º Os empréstimos a conceder para efeitos do disposto no presente diploma estão sujeitos às seguintes condições:\n\na) Montante máximo, no caso do equipamento social, até 60% do respectivo valor final;\n\nb) Montante máximo até 80% do valor final dos espaços comerciais e, no caso das partes acessórias, do valor calculado nos termos do número anterior;\n\nc) Prazo máximo de 36 meses;\n\nd) Regime de amortização a definir livremente entre as partes.\n\n6.º Para acesso aos financiamentos previstos na presente portaria, as cooperativas de construção e habitação devem integrar nos preços de venda praticados uma percentagem para reserva de construção de, pelo menos, 2,5%.\n\n7.º Os empréstimos concedidos ao abrigo desta portaria são garantidos preferencialmente por hipoteca constituída sobre os terrenos e edificações ou outras que a instituição financiadora entenda exigir e que, no caso dos municípios, pode ser a consignação das suas receitas.\n\n8.º É revogada a Portaria n.º 302/88, de 12 de Maio.\n\nMinistérios das Finanças e do Equipamento, do Planeamento e da Administração do Território."
+  },
+  "119850197": {
+   "fragment_id": "119847717",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-06-21",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 982/2006 (2.ª série) - Diário da República n.º 115/2006, Série II de 2006-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/982-2006-1267140), em vigor a partir de 2006-06-21"
+   ],
+   "markdown": "Portaria n.º 371/97\n\nde 6 de Junho\n\nA promoção de habitação a custos controlados tem como principal objectivo colocar à disposição de agregados familiares menos favorecidos fogos a preços compatíveis com os seus rendimentos. Resulta, porém, cada vez mais evidente que as necessidades dos destinatários dos fogos de custos controlados não se esgotam com o mero acesso à habitação, devendo assegurar-se de igual modo condições mínimas de qualidade de vida e bem-estar a todas as famílias envolvidas.\n\nNessa medida, visa a presente portaria criar condições financeiras e técnicas idênticas em todos os empreendimentos de habitação a custos controlados para a concretização de projectos de equipamento social. Prevê-se ainda a possibilidade de financiamento de espaços acessórios essenciais, tais como garagens e arrecadações, muitas vezes exigidos no âmbito das próprias normas de ordenamento do território, designadamente os planos directores municipais. Procede-se ainda à actualização do regime em causa, face às alterações introduzidas pelo Decreto-Lei n.º 150-A/91, de 22 de Abril.\n\nAssim, tendo em vista o disposto na alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 202-B/86, de 22 de Julho, e no artigo 1.º do Decreto-Lei n.º 150-A/91, de 22 de Abril:\n\nManda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, o seguinte:\n\n1.º O Instituto Nacional de Habitação e as instituições de crédito legalmente autorizadas a conceder financiamentos à promoção habitacional a custos controlados podem conceder empréstimos, nos termos do presente diploma, para projectos de equipamento social, partes acessórias dos fogos e ou espaços comerciais, quando integrados em empreendimentos de habitações a custos controlados.\n\n2.º Para efeitos do disposto na presente portaria, entende-se por:\n\na) Equipamento social - as áreas construídas destinadas a apoio social, cultural e desportivo das famílias, designadamente infantários, lares para a terceira idade, centros de dia e serviços colectivos de limpeza e lavandaria, salas de condomínio e outros;\n\nb) Partes acessórias - as áreas construídas acessórias dos fogos destinadas a garagens colectivas ou individuais e a arrecadações;\n\nc) Espaços comerciais - as áreas construídas integradas no empreendimento e destinadas ao exercício da actividade comercial.\n\n§ único. No caso do equipamento social, deve ser dada preferência aos projectos que envolvam mais de um empreendimento, desde que integrados na mesma área urbanística.\n\n3.º O valor máximo do equipamento social e espaços comerciais a financiar não pode ser superior a 20% do valor total dos empreendimentos a que se destinam, avaliados nos termos estabelecidos para a habitação a custos controlados.\n\n4.º (Revogado);\n\nem que VVm2 é o valor de venda por metro quadrado das habitações a custos controlados e nL é o número de lugares de estacionamento.\n\n5.º Os empréstimos a conceder para efeitos do disposto no presente diploma estão sujeitos às seguintes condições:\n\na) Montante máximo, no caso do equipamento social, até 60% do respectivo valor final;\n\nb) Montante máximo até 80% do valor final dos espaços comerciais e, no caso das partes acessórias, do valor calculado nos termos do número anterior;\n\nc) Prazo máximo de 36 meses;\n\nd) Regime de amortização a definir livremente entre as partes.\n\n6.º Para acesso aos financiamentos previstos na presente portaria, as cooperativas de construção e habitação devem integrar nos preços de venda praticados uma percentagem para reserva de construção de, pelo menos, 2,5%.\n\n7.º Os empréstimos concedidos ao abrigo desta portaria são garantidos preferencialmente por hipoteca constituída sobre os terrenos e edificações ou outras que a instituição financiadora entenda exigir e que, no caso dos municípios, pode ser a consignação das suas receitas.\n\n8.º É revogada a Portaria n.º 302/88, de 12 de Maio.\n\nMinistérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.\n\n> Alterado pelo/a [Portaria n.º 982/2006 (2.ª série) - Diário da República n.º 115/2006, Série II de 2006-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/982-2006-1267140), em vigor a partir de 2006-06-21"
+  },
+  "119850187": {
+   "fragment_id": "119847718",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assinada em 12 de Maio de 1997.\n\nO Ministro das Finanças, António Luciano Pacheco de Sousa Franco. - O Ministro do Equipamento, do Planeamento e da Administração do Território, João Cardona Gomes Cravinho."
+  },
+  "119850199": {
+   "fragment_id": "119847717",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-07-15",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 982/2006 (2.ª série) - Diário da República n.º 115/2006, Série II de 2006-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/982-2006-1267140), em vigor a partir de 2006-06-21",
+    "Alterado pelo/a [Portaria n.º 696/2006 - Diário da República n.º 131/2006, Série I de 2006-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/696-2006-537253), em vigor a partir de 2006-07-15"
+   ],
+   "markdown": "Portaria n.º 371/97\n\nde 6 de Junho\n\nA promoção de habitação a custos controlados tem como principal objectivo colocar à disposição de agregados familiares menos favorecidos fogos a preços compatíveis com os seus rendimentos. Resulta, porém, cada vez mais evidente que as necessidades dos destinatários dos fogos de custos controlados não se esgotam com o mero acesso à habitação, devendo assegurar-se de igual modo condições mínimas de qualidade de vida e bem-estar a todas as famílias envolvidas.\n\nNessa medida, visa a presente portaria criar condições financeiras e técnicas idênticas em todos os empreendimentos de habitação a custos controlados para a concretização de projectos de equipamento social. Prevê-se ainda a possibilidade de financiamento de espaços acessórios essenciais, tais como garagens e arrecadações, muitas vezes exigidos no âmbito das próprias normas de ordenamento do território, designadamente os planos directores municipais. Procede-se ainda à actualização do regime em causa, face às alterações introduzidas pelo Decreto-Lei n.º 150-A/91, de 22 de Abril.\n\nAssim, tendo em vista o disposto na alínea a) do n.º 2 do artigo 3.º do Decreto-Lei n.º 202-B/86, de 22 de Julho, e no artigo 1.º do Decreto-Lei n.º 150-A/91, de 22 de Abril:\n\nManda o Governo, pelos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, o seguinte:\n\n1.º O Instituto Nacional de Habitação e as instituições de crédito legalmente autorizadas a conceder financiamentos à promoção habitacional a custos controlados podem conceder empréstimos, nos termos do presente diploma, para projectos de equipamento social, partes acessórias dos fogos e ou espaços comerciais, quando integrados em empreendimentos de habitações a custos controlados.\n\n2.º Para efeitos do disposto na presente portaria, entende-se por:\n\na) Equipamento social - as áreas construídas destinadas a apoio social, cultural e desportivo das famílias, designadamente infantários, lares para a terceira idade, centros de dia e serviços colectivos de limpeza e lavandaria, salas de condomínio e outros;\n\nb) Partes acessórias - as áreas construídas acessórias dos fogos destinadas a garagens colectivas ou individuais e a arrecadações;\n\nc) Espaços comerciais - as áreas construídas integradas no empreendimento e destinadas ao exercício da actividade comercial.\n\n§ único. No caso do equipamento social, deve ser dada preferência aos projectos que envolvam mais de um empreendimento, desde que integrados na mesma área urbanística.\n\n3.º O valor máximo do equipamento social e espaços comerciais a financiar não pode ser superior a 20% do valor total dos empreendimentos a que se destinam, avaliados nos termos estabelecidos para a habitação a custos controlados.\n\n4.º (Revogado);\n\nem que VVm2 é o valor de venda por metro quadrado das habitações a custos controlados e nL é o número de lugares de estacionamento.\n\n5.º Os empréstimos a conceder para efeitos do disposto no presente diploma estão sujeitos às seguintes condições:\n\na) Montante máximo, no caso do equipamento social, até 60% do respectivo valor final;\n\nb) Montante máximo até 80% do valor final dos espaços comerciais e, no caso das partes acessórias, do valor calculado nos termos do número anterior;\n\nc) Prazo máximo de 36 meses;\n\nd) Regime de amortização a definir livremente entre as partes.\n\n6.º Para acesso aos financiamentos previstos na presente portaria, as cooperativas de construção e habitação devem integrar nos preços de venda praticados uma percentagem para reserva de construção de, pelo menos, 2,5%.\n\n7.º Os empréstimos concedidos ao abrigo desta portaria são garantidos preferencialmente por hipoteca constituída sobre os terrenos e edificações ou outras que a instituição financiadora entenda exigir e que, no caso dos municípios, pode ser a consignação das suas receitas.\n\n8.º É revogada a Portaria n.º 302/88, de 12 de Maio.\n\nMinistérios das Finanças e do Equipamento, do Planeamento e da Administração do Território.\n\n> Alterado pelo/a [Portaria n.º 982/2006 (2.ª série) - Diário da República n.º 115/2006, Série II de 2006-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/982-2006-1267140), em vigor a partir de 2006-06-21\n\n> Alterado pelo/a [Portaria n.º 696/2006 - Diário da República n.º 131/2006, Série I de 2006-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/696-2006-537253), em vigor a partir de 2006-07-15"
+  }
+ }
+}

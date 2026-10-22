@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:691045:por
+title: Decreto-Lei n.º 293/95
+short_title: null
+summary: Altera o Decreto-Lei n.º 254/93, de 15 de Julho (define o processo de recrutamento do gestor e do liquidatário judiciais)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 293/95
+official_date: null
+publication_date: '1995-11-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 266/1995, Série I-A de 1995-11-17
+  number: '266'
+  series: I
+  supplement: null
+  pages: 7040 - 7040
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/11/266a00/70407040.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/293/1995/11/17/p/dre/pt/html
+  oj: null
+  dre: '691045'
+  dre_path: /dr/detalhe/decreto-lei/293-1995-691045
+  internal: pt:dre:691045:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1995-691045
+  metadata_url: https://data.dre.pt/eli/dec-lei/293/1995/11/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/293-1995-691045
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-07-22T00:00:00Z'
+integrity:
+  source_sha256: 998cc983702f0264a556815b3ee4bff5d635dbb9fd9e017b20c5f89a5d223daa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-293-691045.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestor Judicial
+- Falência
+- Liquidação Judicial
+- Empresa
+- Comissão
+- Fazenda Pública
+- Liquidação de Sociedades
+relationships:
+- type: amended_by
+  target: pt:dre:507439:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/132/1993/04/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/254/1993/07/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/254/1993/07/15/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 293/95
+
+de 17 de Novembro
+
+O n.º 3 do artigo 34.º do Código dos Processos Especiais de Recuperação da Empresa e de Falência, aprovado pelo [Decreto-Lei n.º 132/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-1993-666341), de 23 de Abril, consagrou a obrigação de os credores da empresa em recuperação adiantarem os fundos necessários à remuneração e reembolso das despesas do gestor judicial, caso a empresa não o possa fazer.
+
+Ao contrário da segurança social, a Fazenda Pública não está expressamente excepcionada desse encargo, bem como do da designação para a presidência da comissão de credores em processos especiais de recuperação de empresa.
+
+Tendo em conta que o fundamento do regime dos créditos da segurança social vale também para o regime dos créditos da Fazenda Pública, torna-se necessário proceder à sua uniformização.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aditado o artigo 5.º-A ao [Decreto-Lei n.º 254/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1993-389638), de 15 de Julho, com a seguinte redacção:
+
+###### Artigo 5.º-A — Nomeação para a presidência da comissão de credores
+
+A Fazenda Pública não pode ser designada para a presidênca da comissão de credores no processo especial de recuperação da empresa nem suporta os encargos com o exercício das funções de gestor judical.
+
+Visto e aprovado em Conselho de Ministros de 24 de Agosto de 1995. - Aníbal António Cavaco Silva - Walter Valdemar Pêgo Marques - Álvaro José Brilhante Laborinho Lúcio.
+
+**Promulgado em 5 de Outubro de 1995.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 10 de Outubro de 1995.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

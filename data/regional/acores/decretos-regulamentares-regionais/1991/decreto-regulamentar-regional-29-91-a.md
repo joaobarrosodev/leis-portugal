@@ -1,0 +1,225 @@
+---
+schema_version: '1.0'
+id: pt:dre:292925:por
+title: Decreto Regulamentar Regional n.º 29/91/A
+short_title: null
+summary: Estabelece o sistema de apoios à recuperação e conservação do património arquitectónico da Região Autónoma dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Educação e Cultura - Direcção Regional dos Assuntos
+  Culturais
+proposing_entity: null
+official_number: 29/91/A
+official_date: null
+publication_date: '1991-09-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 223/1991, Série I-B de 1991-09-27
+  number: '223'
+  series: I
+  supplement: null
+  pages: 5066 - 5068
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/09/223b00/50665068.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/29/1991/09/27/a/dre/pt/html
+  oj: null
+  dre: '292925'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/29-1991-292925
+  internal: pt:dre:292925:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1991-292925
+  metadata_url: https://data.dre.pt/eli/decregulreg/29/1991/09/27/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-1991-292925
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-07-07T00:00:00Z'
+integrity:
+  source_sha256: a913a39c20829fce1f49f4794833ae156a419f458b77a69c72be5ce395ed0bbb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1991/DRE-1991-29-292925.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Protecção do Património
+- Açores
+- Subsídio
+relationships:
+- type: amended_by
+  target: pt:dre:455887:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 18
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 29/91/A
+
+Considerando a necessidade de promover a recuperação e conservação do património arquitectónico da Região Autónoma dos Açores;
+
+Considerando que o grande esforço de reconstrução do património destruído pelo sismo de 1 de Janeiro de 1980 alcançou os seus objectivos, permitindo a disponibilização de maiores verbas para a protecção do património em toda a Região;
+
+Considerando que por vezes os proprietários dos imóveis classificados ou integrados nas suas áreas de protecção não dispõem de meios financeiros suficientes para a sua perfeita recuperação e conservação;
+
+Considerando, por outro lado, que, de acordo com o [Decreto Regional n.º 13/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1979-377540), de 16 de Agosto, cabe ao Governo Regional, através da Secretaria Regional da Educação e Cultura, garantir a protecção e valorização do património cultural da Região;
+
+Considerando, por último, que se torna indispensável a criação de apoios que abranjam toda a Região, destinados a incentivar a recuperação e conservação dos imóveis classificados e a eventual correcção de dissonâncias arquitectónicas existentes nas suas áreas de protecção:
+
+Em execução do disposto no artigo 18.º do [Decreto Regional n.º 13/79/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1979-377540), de 16 de Agosto, o Governo Regional decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Objecto e âmbito
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o sistema de apoios à recuperação e conservação do património arquitectónico da Região Autónoma dos Açores, os quais revestem a forma de subsídios a fundo perdido.
+
+###### Artigo 2.º — Âmbito
+
+1 - Os subsídios abrangem, nos termos abaixo previstos, as seguintes categorias de imóveis:
+
+a) Imóveis classificados de interesse público ou concelhio;
+
+b) Imóveis situados nas áreas de protecção dos imóveis classificados.
+
+2 - Os apoios a obras a realizar nas zonas classificadas de Angra do Heroísmo e Santa Cruz da Graciosa, assim como nas outras zonas que venham eventualmente a ser criadas, serão regulamentados por diplomas próprios, em função das suas especificidades.
+
+### CAPÍTULO II — Apoios
+
+###### Artigo 3.º — Imóveis classificados
+
+Nas obras de recuperação e consolidação de imóveis classificados será concedido um subsídio a fundo perdido, no valor de 50% do custo da cobertura, vãos, reboco e pintura exterior.
+
+###### Artigo 4.º — Imóveis em áreas de protecção
+
+Sempre que os proprietários de imóveis situados em áreas de protecção se disponham a corrigir dissonâncias arquitectónicas que reconhecidamente prejudiquem o envolvimento de imóveis classificados, será concedido um subsídio a fundo perdido, no valor de 50% do custo das obras necessárias.
+
+###### Artigo 5.º — Elementos de excepcional interesse
+
+Nas obras de recuperação de elementos arquitectónios ou decorativos de excepcional interesse existentes em imóveis classificados poderá ser concedido um subsídio a fundo perdido no valor de 75% do seu custo.
+
+### CAPÍTULO III — Processo
+
+###### Artigo 6.º — Pedido
+
+O pedido de subsídio será efectuado pelo proprietário do imóvel, em requerimento dirigido ao Secretário Regional da Educação e Cultura, acompanhado de duas cópias do projecto, medições e orçamento, com a discriminação dos materiais e mão-de-obra subsidiáveis.
+
+###### Artigo 7.º — Projecto
+
+1 - Todos os projectos deverão ser instruídos com as seguintes peças:
+
+a) Peças escritas - memória descritiva e justificativa, com a indicação das obras necessárias, com referência precisa dos materiais de construção e mapa completo de acabamentos;
+
+b) Peças desenhadas - planta de localização, à escala de 1:1000 ou 1:2000, plantas, alçados e cortes do imóvel existente, à escala de 1:100 ou superior, devidamente cotadas e com indicação clara e precisa das obras a executar.
+
+2 - Sempre que se pretenda alterar o imóvel existente, para além das peças referidas no número anterior deverá ser entregue o projecto de execução com plantas, alçados e cortes, à escala de 1:100 ou superior, devidamente cotadas e com indicação clara e precisa das alterações a introduzir, acompanhado da nota justificativa da intervenção arquitectónica proposta.
+
+###### Artigo 8.º — Concessão
+
+A concessão de subsídio depende de despacho do Secretário Regional da Educação e Cultura, precedido do parecer da Direcção Regional dos Assuntos Culturais e dos serviços competentes da Secretaria Regional da Habitação e Obras Públicas, no que respeita ao orçamento, e da declaração, por parte do proprietário do imóvel, da total aceitação das condições previstas neste diploma.
+
+###### Artigo 9.º — Revisão do subsídio
+
+O subsídio só poderá ser revisto, a requerimento do interessado, devidamente fundamentado, desde que surjam aumentos excepcionais e imprevisíveis do custo das obras subsidiáveis.
+
+### CAPÍTULO IV — Realização das obras e processamento do subsídio
+
+###### Artigo 10.º — Cumprimento do projecto
+
+1 - O proprietário do imóvel compromete-se automaticamente a respeitar, em absoluto, o projecto aprovado.
+
+2 - Os encargos com as necessárias correcções, determinadas pela Direcção Regional dos Assuntos Culturais, por motivo de incumprimento do disposto no número anterior, serão da responsabilidade do proprietário do imóvel.
+
+3 - O incumprimento por parte do proprietário do imóvel das determinações da Direcção Regional dos Assuntos Culturais referidas no n.º 2 implicará a imediata cessação de todos os apoios e o embargo das obras pelo meio judicial próprio.
+
+###### Artigo 11.º — Andamento das obras
+
+1 - As obras deverão decorrer em bom ritmo de trabalho e sem interrupções injustificadas.
+
+2 - No caso de se verificar uma interrupção, deverá o proprietário do imóvel comunicar o facto, por escrito, à Direcção Regional dos Assuntos Culturais, mencionando o respectivo motivo.
+
+###### Artigo 12.º — Processamento
+
+O processamento do subsídio será escalonado da seguinte forma:
+
+a) 10% do valor global, após o início da obra;
+
+b) 30% do valor global, após estarem executados 30% dos trabalhos subsidiados;
+
+c) 30% do valor global, após estarem executados 60% dos trabalhos subsidiados;
+
+e) E os restantes 30%, com a conclusão das obras.
+
+###### Artigo 13.º — Caducidade do subsídio
+
+O subsídio caducará no caso de:
+
+a) Os trabalhos não se terem iniciado, sem justificação, decorridos três meses sobre a atribuição do subsídio;
+
+b) A obra ter sido interrompida injustificadamente.
+
+###### Artigo 14.º — Reembolso do subsídio
+
+A caducidade do subsídio, a falta de cumprimento do projecto ou a utilização indevida das verbas atribuídas obrigam o proprietário do imóvel a reembolsar a Secretaria Regional da Educação e Cultura do montante já processado, acrescido dos juros legais.
+
+###### Artigo 15.º — Fiscalização
+
+A fiscalização das obras subsidiadas ao abrigo do presente diploma será da competência da Direcção Regional dos Assuntos Culturais.
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+###### Artigo 16.º — Zona Classificada de Angra do Heroísmo
+
+Até que seja aprovado um sistema de apoios próprio, o disposto no presente diploma aplicar-se-á aos imóveis classificados e respectivas áreas de protecção existentes na Zona Classificada de Angra do Heroísmo.
+
+###### Artigo 17.º — Verba
+
+A verba necessária à concessão dos subsídios previstos neste diploma encontra-se inscrita em acção do Programa n.º 5 «Defesa e valorização do património cultural», Projecto n.º 5.1 «Defesa e melhoramento de imóveis com interesse arquitectónico».
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 do mês seguinte à sua publicação.
+
+Aprovado em Conselho do Governo Regional, na Horta, em 29 de Maio de 1991.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 11 de Setembro de 1991.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**

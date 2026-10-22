@@ -1,0 +1,239 @@
+---
+schema_version: '1.0'
+id: pt:dre:666676:por
+title: Portaria n.º 259/87
+short_title: null
+summary: Estabelece normas relativas ao Programa Nacional de Olivicultura
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 259/87
+official_date: null
+publication_date: '1987-04-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 77/1987, Série I de 1987-04-02
+  number: '77'
+  series: I
+  supplement: null
+  pages: 1336 - 1338
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/04/07700/13361338.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '666676'
+  dre_path: /dr/detalhe/portaria/259-1987-666676
+  internal: pt:dre:666676:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-1987-666676
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/259-1987-666676
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-07-04T00:00:00Z'
+integrity:
+  source_sha256: ffad872c4f285376d79b02c262c109914f86bed62bdf06241503c63a84822dfb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-259-666676.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:668278:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 259/87
+
+de 2 de Abril
+
+Considerando que, no âmbito do Regulamento (CEE) n.º [3828/85](http://data.europa.eu/eli/reg/1985/3828/oj?locale=pt) e ao abrigo do seu artigo 11.º, foi aprovado pela Comissão das Comunidades Europeias (CCE) um programa nacional de olivicultura:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do artigo 9.º do Decreto-Lei n.º 96/87, de 4 de Março, o seguinte:
+
+1.º O Programa Nacional de Olivicultura tem como objectivo aumentar os rendimentos dos produtores através do aumento da produtividade dos olivais e da melhoria da qualidade do azeite, não podendo, no entanto, a produção global exceder as quantidades susceptíveis de ser produzidas nas superfícies plantadas com oliveiras em produção efectiva à data de 1 de Janeiro de 1984.
+
+2.º O Programa tem a duração de dez anos e está orçamentado para uma primeira fase de três anos a contar de 1 de Janeiro de 1987.
+
+3.º As acções a empreender são:
+
+a) A reestruturação do olival nas áreas adequadas ao desenvolvimento da cultura da oliveira, através de plantação de novos olivais, da reconversão por enxertia dos olivais existentes e do adensamento de olivais existentes, incluindo a retancha dos olivais que já tenham a densidade adequada;
+
+b) O arranque de olivais e a sua substituição por outras culturas, podendo neste âmbito ser consideradas plantações de novos olivais de azeitona de mesa.
+
+4.º O Programa concretiza-se através de subprogramas nas áreas de intervenção das direcções regionais de agricultura (DRA) envolvidas:
+
+a) No que respeita à instalação de novos olivais, abrange os concelhos constantes da lista anexa;
+
+b) Na sua componente de enxertia, concretiza-se nas áreas de intervenção das DRA de Trás-os-Montes, Beira Interior e Alentejo;
+
+c) Na sua componente de arranque de olivais, é de âmbito nacional.
+
+5.º As DRA são responsáveis pela execução do Programa nas respectivas áreas de intervenção.
+
+6.º A Direcção-Geral de Planeamento e Agricultura (DGPA) fará a coordenação nacional do Programa e prestará apoio técnico na sua execução.
+
+7.º Na concessão de ajudas para a reestruturação do olival serão considerados prioritários os projectos de investimento que satisfaçam simultaneamente as seguintes condições:
+
+Projectos apresentados por agricultores cujo rendimento proveniente da actividade agrícola própria resulta em mais de 50% da olivicultura;
+
+Projectos que prevejam o arranque de maior número de olivais;
+
+Projectos apresentados em áreas abrangidas por acções integradas, referidas no artigo 10.º do Decreto-Lei n.º 96/87, de 4 de Março.
+
+8.º A reestruturação do olival, considerada apenas em áreas mínimas de 1 ha por exploração, compreende:
+
+a) A instalação de novos olivais, com um custo máximo elegível de 1462 ECU por hectare;
+
+b) A enxertia dos olivais já existentes, desde que tenham uma densidade superior a 70 árvores por hectare, com um custo máximo elegível de 300 ECU por hectare;
+
+c) O adensamento, na área de intervenção da DRA do Alentejo, desde que os olivais tenham uma densidade superior a 100 árvores por hectare.
+
+9.º O nível das ajudas a atribuir à reestruturação do olival é o seguinte:
+
+a) Na instalação de novos olivais e na enxertia, um subsídio diferenciado consoante a entidade que apresenta os projectos:
+
+75% do investimento, quando os projectos aprovados tenham sido apresentados por agricultores com idades compreendidas entre os 18 e os 40 anos, por agrupamentos de produtores referidos no n.º 2 do artigo 34.º do Decreto-Lei n.º 79-A/87, de 18 de Fevereiro, ou através de outras formas associativas de agricultores legalizadas e reconhecidas nos termos legais que visem a comercialização ou transformação dos produtos do Olival;
+
+50% do investimento, nos restantes casos;
+
+b) No adensamento a ajuda é de 5 ECU por árvore plantada.
+
+10.º O pagamento das processa-se de acordo com o tipo da acção de reestruturação e perante a apresentação ao gestor regional dos comprovativos das despesas efectuadas:
+
+a) Instalação de novos olivais - em duas prestações, não podendo a primeira ser de montante inferior a 90000$00 ou 50000$00 por hectare abrangido no projecto, consoante o montante das ajudas a atribuir seja, respectivamente, de 75% ou 50% do investimento;
+
+b) Enxertia e adensamento - pagamento único efectuado após conclusão do respectivo investimento.
+
+11.º Os beneficiários das ajudas para instalação de novos olivais e para enxertia de olivais já existentes têm ainda direito a receber uma indemnização por perda de rendimento, que não poderá ser atribuída, no conjunto das duas acções, por uma área superior a 10 ha por beneficiário.
+
+Para cálculo desta indemnização serão considerados os seguintes valores:
+
+a) 798 ECU por hectare de novo olival instalado;
+
+b) 532 ECU por hectare de olival enxertado.
+
+12.º A indemnização referida no número anterior será paga em três prestações anuais e sucessivas, respectivamente de 50%, 33% e 17% do seu montante global, sendo a primeira prestação paga no prazo de um ano a contar da data do primeiro pagamento da ajuda para instalação de novos olivais e do pagamento da ajuda para enxertia.
+
+13.º De modo a assegurar uma programação eficiente das acções de reestruturação, deverá ser respeitado o seguinte calendário:
+
+1) Os agricultores que queiram beneficiar das ajudas para a reestruturação do olival deverão apresentar a sua pretensão através da ficha de inscrição, individualmente ou através das suas associações, nos serviços da DRA, até ao dia 1 de Fevereiro de cada ano;
+
+Excepcionalmente e para que o Programa possa ter o seu início efectivo em 1987, as DRA deverão actuar junto dos agricultores para que a recepção dos pedidos formulados termine nos 30 dias após a data da publicação desta portaria, devendo os projectos individuais de investimento, a iniciar em 1987, ser aprovados no prazo de 60 dias a contar da mesma data;
+
+2) Até 1 de Abril de cada ano será feita uma primeira selecção das pretensões apresentadas, por aplicação dos critérios de acesso às ajudas e das prioridades estabelecidas;
+
+3) Os agricultores seleccionados deverão apresentar até ao dia 15 de Maio, nos serviços da DRA, os respectivos projectos, que devem obedecer às normas contidas na ficha cultural a distribuir pelas DRA;
+
+4) A aprovação final dos projectos apresentados deverá ter lugar até 15 de Junho.
+
+14.º Para a acção de arranque de olivais são apenas contemplados os olivais com uma densidade mínima de 40 árvores por hectare.
+
+15.º É concedido um prémio de 300 ECU por hectare de olival arrancado nas condições referidas no artigo 2.º do Decreto-Lei n.º 120/86, de 28 de Maio.
+
+16.º O prémio referido no número anterior é, no entanto, de 500 ECU por hectare para olivais com um mínimo de 80 árvores por hectare ou produção potencial de 250 l de azeite por hectare.
+
+17.º Os prémios por arranque dos olivais são pagos após a conclusão da operação de derrube das árvores.
+
+18.º Os beneficiários desta acção ficam interditos de voltar a plantar olival na superfície objecto do prémio por um período de dez anos.
+
+19.º Os agricultores que pretendam beneficiar dos prémios por arranque dos olivais deverão entregar nas sedes das zonas agrárias da área da sua residência requerimento dirigido ao director regional de agricultura da respectiva área, conforme estipulado no Decreto-Lei n.º 120/86, de 28 de Maio.
+
+20.º Após despacho favorável ao requerimento referido no número anterior, que deverá ocorrer no prazo máximo de 60 dias, deverão os interessados entregar nos serviços das DRA a ficha de inscrição.
+
+21.º As pretensões apresentadas serão analisadas e objecto de decisão até ao dia 31 de Maio de cada ano.
+
+22.º As condições de intervenção e as ajudas para a substituição dos antigas olivais por novos olivais para azeitona de mesa e para a reconversão por enxertia, com o mesmo fim, de olivais existentes são as estabelecidas para as acções de reestruturação definidas anteriormente.
+
+23.º Nos projectos a apresentar para substituição dos antigos olivais por novos olivais para azeitona de mesa e para a reconversão por enxertia, com o mesmo fim, de olivais existentes, deverão os interessados incluir instalação de rega, beneficiando de uma ajuda adicional até ao valor de 1662 ECU por hectare.
+
+24.º A ajuda referida no artigo anterior só será atribuída se se verificarem cumulativamente as seguintes condições:
+
+a) A exploração possuir água suficiente que permita uma rega eficaz;
+
+b) A cultivar e a plantar ser apta para produzir azeitona de mesa ou de aptidão mista;
+
+c) Haver num raio de 50 km uma unidade industrial de transformação.
+
+25.º As DRA promoverão uma ajustada publicitação da natureza dos objectivos do Programa, de modo a possibilitar a apresentação de pedidos por parte dos agricultores e suas associações.
+
+26.º Os serviços do Ministério da Agricultura deverão fornecer aos olivicultores o material vegetativo necessário às suas acções de enxertia, devendo estes, no entanto, suportar os encargos de corte e transporte.
+
+Os preços a praticar para a venda de árvores provenientes de viveiros do MAPA serão fixados anualmente, até 31 de Janeiro, por despacho do Ministro da Agricultura, Pescas e Alimentação, ouvida a Associação Portuguesa dos Produtores de Plantas e o conselho consultivo para as acções de reconversão olivícola.
+
+27.º Até 30 de Junho de cada ano, as DRA entregarão ao coordenador nacional o plano de actividades e o orçamento do Programa nas respectivas áreas de intervenção para o ano seguinte, dentro da programação orçamental prevista para a 1.ª fase do Programa.
+
+28.º O coordenador nacional preparará o plano de actividades e o orçamento do Programa para o ano seguinte até 15 de Julho.
+
+29.º A fim de permitir uma informação actualizada do estado de execução do Programa, as DRA enviarão mensalmente à DGPA, como entidade coordenadora, elementos relativos à execução do respectivo subprograma regional.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+**Assinada em 5 de Março de 1987.**
+
+**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**
+
+Lista anexa à Portaria n.º 259/87
+
+Delimitação da zona geográfica de reestruturação do olival
+
+Direcção Regional de Agricultura de Trás-os-Montes:
+
+Concelhos de Vila Nova de Foz Côa, Freixo de Espada à Cinta, Torre de Moncorvo, Mogadouro, Alfândega da Fé, Macedo de Cavaleiros, Mirandela, Vila Flor, São João da Pesqueira, Valpaços e Murça.
+
+Direcção Regional de Agricultura da Beira Litoral:
+
+Concelhos de Coimbra, Condeixa-a-Nova, Penela, Pombal, Ansião, Alvaiázere, Soure, Miranda do Corvo e Lousã.
+
+Direcção Regional de Agricultura da Beira Interior:
+
+Concelhos de Idanha-a-Nova, Castelo Branco, Vila Velha de Ródão, Penamacor, Fundão, Figueira de Castelo Rodrigo, Covilhã, Proença-a-Nova, Guarda, Pinhel, Celorico da Beira, Fornos de Algodres, Sabugal e Trancoso.
+
+Direcção Regional de Agricultura do Ribatejo e Oeste:
+
+Concelhos de Santarém, Torres Novas, Abrantes, Alcanena, Vila Nova de Ourém, Tomar, Sardoal, Ferreira do Zêzere, Cartaxo, Constância e Rio Maior.
+
+Direcção Regional de Agricultura do Alentejo:
+
+Concelhos de Moura, Serpa, Elvas, Avis, Campo Maior, Fronteira, Beja, Vidigueira, Cuba, Portel, Reguengos de Monsaraz, Mourão, Redondo, Alandroal, Borba, Vila Viçosa, Estremoz, Sousel, Alter do Chão, Monforte, Arronchel, Ferreira do Alentejo, Alvito, Viana do Alentejo, Arraiolos, Alcácer do Sal (freguesia de Torrão), Aljustrel, Crato, Portalegre, Marvão, Castelo de Vide, Évora, Montemor-o-Novo e Barrancos.

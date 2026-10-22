@@ -1,0 +1,255 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108228008:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-205638899",
+ "dre_path": "/dr/detalhe/portaria/286-2017-108228008",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "205639063",
+    "205639064",
+    "205639065",
+    "205639066",
+    "205639067",
+    "205639068",
+    "205639069",
+    "205639070",
+    "205639072",
+    "205639073",
+    "205639074"
+   ]
+  },
+  {
+   "date": "2022-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205509977:por",
+     "title": "Portaria n.º 312-B/2022",
+     "published": "2022-12-30",
+     "dre_path": "/dr/detalhe/portaria/312-b-2022-205509977"
+    }
+   ],
+   "changes": [
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "205639063",
+    "205639064",
+    "205639065",
+    "205639066",
+    "205639067",
+    "205639068",
+    "205639069",
+    "205639070",
+    "205639071",
+    "205639072",
+    "205639073",
+    "205639715"
+   ]
+  },
+  {
+   "date": "2024-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:858167927:por",
+     "title": "Portaria n.º 126/2024/1",
+     "published": "2024-04-01",
+     "dre_path": "/dr/detalhe/portaria/126-2024-858167927"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "205639063",
+    "205639064",
+    "205639065",
+    "205639066",
+    "205639067",
+    "205639068",
+    "205639069",
+    "205639070",
+    "205639071",
+    "858592298",
+    "858592299",
+    "205639715"
+   ]
+  },
+  {
+   "date": "2024-06-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:869204768:por",
+     "title": "Portaria n.º 169/2024/1",
+     "published": "2024-06-19",
+     "dre_path": "/dr/detalhe/portaria/169-2024-869204768"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "205639063",
+    "205639064",
+    "205639065",
+    "205639066",
+    "205639067",
+    "205639068",
+    "205639069",
+    "205639070",
+    "205639071",
+    "869246194",
+    "858592299",
+    "205639715"
+   ]
+  }
+ ],
+ "fragments": {
+  "205639063": {
+   "fragment_id": "205638900",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 286/2017\n\nde 28 de setembro\n\nA Lei n.º 7/2007, de 5 de fevereiro, alterada pelas Leis n.os 91/2015, de 12 de agosto e 32/2017, de 1 de junho, que criou o cartão de cidadão e rege a sua emissão e utilização, prevê que, por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa, da administração interna e da justiça, sejam definidos os modelos oficiais e exclusivos do cartão de cidadão, os elementos de segurança física que o compõem, os requisitos técnicos e de segurança a observar na captação da imagem facial e das impressões digitais do titular do pedido e ainda as medidas concretas de inclusão de cidadãos com necessidades especiais na sociedade de informação, a observar na disponibilização do serviço de apoio ao cidadão. Em cumprimento do plasmado no n.º 2 do artigo 21.º, no n.º 2 do artigo 25.º e no n.º 1 do artigo 63.º da Lei n.º 7/2007, de 5 de fevereiro, a Portaria n.º 202/2007, de 13 de fevereiro, veio regulamentar as matérias acima identificadas.\n\nA alteração operada pela Lei n.º 32/2017, de 1 de junho, criou o cartão de cidadão provisório, suscetível de emissão em caso de verificação de situações de reconhecida urgência, caso fortuito ou força maior, o qual importa agora regulamentar, através do estabelecimento dos requisitos técnicos e de segurança aplicáveis a este documento em alinhamento com os requisitos aprovados pela Portaria n.º 202/2007, de 13 de fevereiro para o cartão de cidadão.\n\nNeste contexto, concentra-se num único diploma a definição dos aspetos acima identificados relativamente ao cartão de cidadão e ao cartão de cidadão provisório.\n\nAssim,\n\nManda o Governo, pela Ministra da Presidência e da Modernização Administrativa, pela Ministra da Administração Interna e pela Ministra da Justiça, ao abrigo do disposto no n.º 2 do artigo 21.º, no n.º 2 do artigo 25.º, n.º 1 do artigo 63.º e no n.º 8 do artigo 61.º-A da Lei n.º 7/2007, de 5 de fevereiro, alterada pelas Leis n.os 91/2015, de 12 de agosto e 32/2017, de 1 de junho, o seguinte:"
+  },
+  "205639064": {
+   "fragment_id": "205638901",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria define:\n\na) Os modelos oficiais e exclusivos do cartão de cidadão para os cidadãos nacionais e para os beneficiários do estatuto referido no n.º 2 do artigo 3.º bem como do cartão de cidadão provisório previsto no artigo 61.º-A da Lei n.º 7/2007, de 5 de fevereiro;\n\nb) Os elementos de segurança física que compõem o cartão de cidadão e o cartão de cidadão provisório;\n\nc) As medidas concretas de inclusão de cidadãos com necessidades especiais na sociedade de informação, nos termos do disposto no n.º 2 do artigo 21.º da Lei n.º 7/2007, de 5 de fevereiro;\n\nd) Os requisitos técnicos e de segurança a observar na captação da imagem facial e das impressões digitais referidos no n.º 2 do artigo 25.º e no n.º 8 do artigo 61.º-A da Lei n.º 7/2007, de 5 de fevereiro."
+  },
+  "205639065": {
+   "fragment_id": "205638902",
+   "type": 11,
+   "heading": "Artigo 2.º — Modelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Modelos\n\nOs modelos oficiais e exclusivos do cartão de cidadão para os cidadãos nacionais e para os beneficiários do estatuto referido no n.º 2 do artigo 3.º, bem como do cartão de cidadão provisório previsto no artigo 61.º-A da Lei n.º 7/2007, de 5 de fevereiro, constam do anexo I ao presente diploma."
+  },
+  "205639066": {
+   "fragment_id": "205638903",
+   "type": 11,
+   "heading": "Artigo 3.º — Elementos de segurança física",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Elementos de segurança física\n\nOs elementos de segurança física e de interoperabilidade que compõem o cartão de cidadão e o cartão de cidadão provisório constam do anexo II à presente portaria."
+  },
+  "205639067": {
+   "fragment_id": "205638904",
+   "type": 11,
+   "heading": "Artigo 4.º — Cidadãos com necessidades especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cidadãos com necessidades especiais\n\nOs serviços de receção dos pedidos do cartão de cidadão devem funcionar em condições que favoreçam o respeito pela legislação relativa à inclusão de cidadãos com necessidades especiais na sociedade de informação."
+  },
+  "205639068": {
+   "fragment_id": "205638905",
+   "type": 11,
+   "heading": "Artigo 5.º — Captação da imagem facial e impressões digitais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Captação da imagem facial e impressões digitais\n\nOs requisitos técnicos e de segurança a observar na captação da imagem facial e das impressões digitais do titular do pedido do cartão de cidadão e do cartão de cidadão provisório constam do anexo III à presente portaria."
+  },
+  "205639069": {
+   "fragment_id": "205638906",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogada a Portaria n.º 202/2007, de 13 de fevereiro."
+  },
+  "205639070": {
+   "fragment_id": "205638907",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de outubro de 2017."
+  },
+  "205639072": {
+   "fragment_id": "205638909",
+   "type": 14,
+   "heading": "Anexo I — Modelos do cartão de cidadão e do cartão de cidadão provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Modelos do cartão de cidadão e do cartão de cidadão provisório\n\nFrente do cartão de cidadão\n\n(ver documento original)\n\nVerso do cartão de cidadão\n\n(ver documento original)\n\nModelo do cartão de cidadão provisório\n\nFrente do cartão de cidadão provisório\n\n(ver documento original)\n\nVerso do cartão de cidadão provisório\n\n(ver documento original)"
+  },
+  "205639073": {
+   "fragment_id": "205638910",
+   "type": 14,
+   "heading": "Anexo II — Elementos de segurança física e de interoperabilidade que compõem o cartão de cidadão e o cartão de cidadão provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Elementos de segurança física e de interoperabilidade que compõem o cartão de cidadão e o cartão de cidadão provisório\n\n1 - Nas operações de produção e de personalização do cartão de cidadão deve ser garantido o cumprimento dos requisitos técnicos necessários e adequados a cada um dos seguintes elementos de segurança física:\n\na) Materiais de base utilizados no fabrico do documento;\n\nb) Técnicas de impressão;\n\nc) Proteção anticópia;\n\nd) Técnicas de emissão;\n\ne) Técnicas de integração dos dados biográficos nos materiais de base utilizados no fabrico do documento.\n\n2 - Nas operações de produção e personalização do cartão de cidadão provisório deve ser garantido o cumprimento dos requisitos técnicos necessários e adequados a cada um dos seguintes elementos de segurança física:\n\na) Materiais de base utilizados no fabrico do documento;\n\nb) Técnicas de impressão;\n\nc) Proteção anticópia;\n\nd) Técnicas de emissão;\n\ne) Técnicas de proteção dos dados biográficos após a personalização.\n\n3 - Para além do respeito pelas normas jurídicas aplicáveis, as instruções de operação relativas a elementos de segurança física do cartão de cidadão e do cartão de cidadão provisório devem observar os parâmetros e critérios constantes das normas técnicas internacionalmente aceites como melhores técnicas disponíveis, nomeadamente e quando aplicável:\n\na) ISO 7810;\n\nb) ISO 7811;\n\nc) ISO 10373;\n\nd) ICAO 9303."
+  },
+  "205639074": {
+   "fragment_id": "205638911",
+   "type": 14,
+   "heading": "Anexo III — Requisitos técnicos e de segurança na captação da imagem facial e das impressões digitais do titular do pedido do cartão de cidadão e do cartão de cidadão provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Requisitos técnicos e de segurança na captação da imagem facial e das impressões digitais do titular do pedido do cartão de cidadão e do cartão de cidadão provisório\n\n1 - Requisitos mínimos dos equipamentos de captação de dados biométricos:\n\n1.1 - Quanto ao equipamento de digitalização de fotografia:\n\na) Digitalização de 256 níveis reais de cinzento (8 bit) e a cores;\n\nb) Suporte a fotografias de formato «tipo passe» (até 45 mm x 35 mm, segundo as recomendações ICAO);\n\nc) Geração de imagem em formato JPEG e JPEG2000;\n\nd) Calibração automática;\n\ne) Resolução mínima de 500 ppp (pontos por polegada).\n\n1.2 - Quanto ao equipamento de digitalização de impressões digitais:\n\na) Captação de 256 níveis reais de cinzento (8 bit);\n\nb) Geração de imagem em formato JPEG e WSQ e template biométricos;\n\nc) Calibração automática;\n\nd) Resolução mínima de 500 ppp (pontos por polegada).\n\n2 - Requisitos técnicos da fotografia captada pelos equipamentos de recolha de dados biométricos:\n\n2.1 - O formato da fotografia do cidadão (imagem facial) deve estar de acordo com a norma ISO/IEC 19794-5: «Face image data»;\n\n2.2 - Os requisitos da imagem recolhida são os seguintes (a descrição completa deve ser obtida por consulta da norma ISO/IEC 19794-5: «Face image data»):\n\na) A dimensão mínima da imagem deve ser de 240 pixels x 320 pixels (largura x altura), tendo, pelo menos, 120 pixels de distância entre o centro dos dois olhos do cidadão;\n\nb) A imagem deve ter uma resolução mínima de 500 ppp;\n\nc) A imagem deve cumprir um conjunto de características, definidas nas recomendações ICAO, ao nível de contraste, área ocupada pela face, visibilidade dos olhos, entre outras.\n\n2.3 - A fotografia deve seguir as recomendações do documento «ICAONTWG: Biometrics deployment of machine readable travel documents, technical report, version 2.0», de 21 de maio de 2004;\n\n2.4 - Deve ser utilizado preferencialmente o método de compressão JPEG2000, seguindo as orientações comuns definidas pela União Europeia para os passaportes dos Estados membros.\n\n3 - Requisitos técnicos das impressões digitais captadas pelos equipamentos de recolha de dados biométricos:\n\n3.1 - O formato da imagem captada das impressões digitais deve cumprir as normas ISO/IEC 19794-4: «Finger image data»;\n\n3.2 - O formato de armazenamento da imagem deve ter preferencialmente a forma de uma estrutura CBEFF;\n\n3.3 - Requisitos da imagem captada das impressões digitais (a descrição completa deve ser obtida por consulta da norma ISO/IEC 19794-4: «Finger image data»):\n\na) Resolução de, pelo menos, 500 ppp (pontos por polegada), com 256 tons de cinza (8 bit) e calibração automática;\n\nb) Meta informação contida num cabeçalho de ficheiro compatível preferencialmente com o formato CBEFF (norma ISO/IEC 19785);\n\nc) A imagem pode ser comprimida para diminuir espaço de armazenamento necessário, conforme definido na proposta de standard (usando o algoritmo DCT do formato JPEG para imagens de 500 ppp e 256 tons de cinza, com um rácio máximo de compressão de 5:1 ou o algoritmo baseado em tecnologia wavelet do formato JPEG ou JPEG2000 para imagens com 1000 ppp, caso em que o rácio de compressão pode ser mais elevado);\n\nd) Deve ainda ser seguida a norma ANSI/NISTITL-1 2000, «Data format for the interchange of finger print, facial, scarmark & tattoo (SMT) information», FBI: Wavelet scalar quantization (WSQ), a qual define o algoritmo WSQ que deve ser utilizado para a compressão de imagens das impressões digitais.\n\n4 - Requisitos de pré-processamento e validação da imagem facial recolhida:\n\n4.1 - Funcionalidades automáticas mínimas:\n\na) Correção da posição da imagem original;\n\nb) Ajuste da dimensão da face relativamente à dimensão total da imagem;\n\nc) Ajuste de contraste e brilho;\n\nd) Extração da zona da face e eliminação de fundo;\n\ne) Execução de validações completas de qualidade de imagem conforme recomendações da ICAO para fotografia full frontal (conforme anexo A do documento «Biometrics deploymen tof machine readable travel documents» e requisitos da norma ISO/IEC 19794-5).\n\n4.2 - Possibilidade de opção por captação de fotografia no momento, no caso de a imagem digitalizada não permitir a qualidade mínima exigida (ou de não existir fotografia para digitalizar) ou no caso de não existir fotografia na base de dados de carregamento prévio;\n\n4.3 - Possibilidade de captação de múltiplas fotografias, para mais fácil obtenção da qualidade mínima exigida;\n\n4.4 - Possibilidade de correções e ajustes manuais;\n\n4.5 - Interação simples com o trabalhador, baseada em interface gráfica amigável, adotando o look and feel do front office do sistema informático «Ciclo de vida do cartão de cidadão»;\n\n4.6 - Geração de ficheiro com imagem full frontal a cores e metainformação em formato CBEFF compatível com normas ISO e ICAO (LDS);\n\n4.7 - Geração de ficheiro com imagem apropriada para personalização do cartão (imagem original, otimizada segundo os requisitos definidos para o sistema de personalização);\n\n4.8 - Geração de ficheiro com imagem comprimida com JPEG2000 e metainformação em formato CBEFF compatível com normas ISO e ICAO (LDS) e um máximo de 6 K.\n\n5 - Requisitos de pré-processamento e validação da imagem das impressões digitais:\n\n5.1 - Ajustes automáticos à qualidade de imagem obtida;\n\n5.2 - Deteção automática de situações de má qualidade (por exemplo, cortes, feridas, desgaste causado por químicos);\n\n5.3 - Extração de templates biométricos;\n\n5.4 - Geração de ficheiros com imagens de impressões digitais (comprimidos utilizando standard JPEG2000 ou WSQ) e metainformação em formato CBEFF;\n\n5.5 - Desenvolvimento de API (application programming interface) e ou framework para interligação de equipamentos de dados biométricos."
+  },
+  "205639071": {
+   "fragment_id": "205638908",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Presidência e da Modernização Administrativa, Maria Manuel de Lemos Leitão Marques, em 26 de setembro de 2017. - A Ministra da Administração Interna, Maria Constança Dias Urbano de Sousa, em 26 de setembro de 2017. - A Ministra da Justiça, Francisca Eugénia da Silva Dias Van Dunem, em 25 de setembro de 2017."
+  },
+  "205639715": {
+   "fragment_id": "205638911",
+   "type": 14,
+   "heading": "Anexo III — Requisitos técnicos e de segurança na captação da imagem facial e das impressões digitais do titular do pedido do cartão de cidadão e do cartão de cidadão provisório",
+   "in_force_from": "2022-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-B/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-b-2022-205509977), em vigor a partir de 2022-12-31"
+   ],
+   "markdown": "## Anexo III — Requisitos técnicos e de segurança na captação da imagem facial e das impressões digitais do titular do pedido do cartão de cidadão e do cartão de cidadão provisório\n\n1 - Requisitos mínimos dos equipamentos de captação de dados biométricos:\n\n1.1 - Quanto ao equipamento de digitalização de fotografia:\n\na) Digitalização de 256 níveis reais de cinzento (8 bit) e a cores;\n\nb) Suporte a fotografias de formato «tipo passe» (até 45 mm x 35 mm, segundo as recomendações ICAO);\n\nc) Geração de imagem em formato JPEG e JPEG2000;\n\nd) Calibração automática;\n\ne) Resolução mínima de 500 ppp (pontos por polegada).\n\n1.2 - Quanto ao equipamento de digitalização de impressões digitais:\n\na) Captação de 256 níveis reais de cinzento (8 bit);\n\nb) Geração de imagem em formato JPEG e WSQ e template biométricos;\n\nc) Calibração automática;\n\nd) Resolução mínima de 500 ppp (pontos por polegada).\n\n2 - Requisitos técnicos da fotografia captada pelos equipamentos de recolha de dados biométricos:\n\n2.1 - O formato da fotografia do cidadão (imagem facial) deve estar de acordo com a norma ISO/IEC 19794-5: «Face image data»;\n\n2.2 - Os requisitos da imagem recolhida são os seguintes (a descrição completa deve ser obtida por consulta da norma ISO/IEC 19794-5: «Face image data»):\n\na) A dimensão mínima da imagem deve ser de 240 pixels x 320 pixels (largura x altura), tendo, pelo menos, 120 pixels de distância entre o centro dos dois olhos do cidadão;\n\nb) A imagem deve ter uma resolução mínima de 500 ppp;\n\nc) A imagem deve cumprir um conjunto de características, definidas nas recomendações ICAO, ao nível de contraste, área ocupada pela face, visibilidade dos olhos, entre outras.\n\n2.3 - A fotografia deve seguir as recomendações do documento «ICAONTWG: Biometrics deployment of machine readable travel documents, technical report, version 2.0», de 21 de maio de 2004;\n\n2.4 - Deve ser utilizado preferencialmente o método de compressão JPEG2000, seguindo as orientações comuns definidas pela União Europeia para os passaportes dos Estados membros.\n\n2.5 - Para recolha de dados biométricos são aplicáveis às fotografias captadas por equipamentos móveis os requisitos técnicos previstos nas alíneas a) e b) do ponto 2.2.\n\n3 - Requisitos técnicos das impressões digitais captadas pelos equipamentos de recolha de dados biométricos:\n\n3.1 - O formato da imagem captada das impressões digitais deve cumprir as normas ISO/IEC 19794-4: «Finger image data»;\n\n3.2 - O formato de armazenamento da imagem deve ter preferencialmente a forma de uma estrutura CBEFF;\n\n3.3 - Requisitos da imagem captada das impressões digitais (a descrição completa deve ser obtida por consulta da norma ISO/IEC 19794-4: «Finger image data»):\n\na) Resolução de, pelo menos, 500 ppp (pontos por polegada), com 256 tons de cinza (8 bit) e calibração automática;\n\nb) Meta informação contida num cabeçalho de ficheiro compatível preferencialmente com o formato CBEFF (norma ISO/IEC 19785);\n\nc) A imagem pode ser comprimida para diminuir espaço de armazenamento necessário, conforme definido na proposta de standard (usando o algoritmo DCT do formato JPEG para imagens de 500 ppp e 256 tons de cinza, com um rácio máximo de compressão de 5:1 ou o algoritmo baseado em tecnologia wavelet do formato JPEG ou JPEG2000 para imagens com 1000 ppp, caso em que o rácio de compressão pode ser mais elevado);\n\nd) Deve ainda ser seguida a norma ANSI/NISTITL-1 2000, «Data format for the interchange of finger print, facial, scarmark & tattoo (SMT) information», FBI: Wavelet scalar quantization (WSQ), a qual define o algoritmo WSQ que deve ser utilizado para a compressão de imagens das impressões digitais.\n\n4 - Requisitos de pré-processamento e validação da imagem facial recolhida:\n\n4.1 - Funcionalidades automáticas mínimas:\n\na) Correção da posição da imagem original;\n\nb) Ajuste da dimensão da face relativamente à dimensão total da imagem;\n\nc) Ajuste de contraste e brilho;\n\nd) Extração da zona da face e eliminação de fundo;\n\ne) Execução de validações completas de qualidade de imagem conforme recomendações da ICAO para fotografia full frontal (conforme anexo A do documento «Biometrics deploymen tof machine readable travel documents» e requisitos da norma ISO/IEC 19794-5).\n\n4.2 - Possibilidade de opção por captação de fotografia no momento, no caso de a imagem digitalizada não permitir a qualidade mínima exigida (ou de não existir fotografia para digitalizar) ou no caso de não existir fotografia na base de dados de carregamento prévio;\n\n4.3 - Possibilidade de captação de múltiplas fotografias, para mais fácil obtenção da qualidade mínima exigida;\n\n4.4 - Possibilidade de correções e ajustes manuais;\n\n4.5 - Interação simples com o trabalhador, baseada em interface gráfica amigável, adotando o look and feel do front office do sistema informático «Ciclo de vida do cartão de cidadão»;\n\n4.6 - Geração de ficheiro com imagem full frontal a cores e metainformação em formato CBEFF compatível com normas ISO e ICAO (LDS);\n\n4.7 - Geração de ficheiro com imagem apropriada para personalização do cartão (imagem original, otimizada segundo os requisitos definidos para o sistema de personalização);\n\n4.8 - Geração de ficheiro com imagem comprimida com JPEG2000 e metainformação em formato CBEFF compatível com normas ISO e ICAO (LDS) e um máximo de 6 K.\n\n5 - Requisitos de pré-processamento e validação da imagem das impressões digitais:\n\n5.1 - Ajustes automáticos à qualidade de imagem obtida;\n\n5.2 - Deteção automática de situações de má qualidade (por exemplo, cortes, feridas, desgaste causado por químicos);\n\n5.3 - Extração de templates biométricos;\n\n5.4 - Geração de ficheiros com imagens de impressões digitais (comprimidos utilizando standard JPEG2000 ou WSQ) e metainformação em formato CBEFF;\n\n5.5 - Desenvolvimento de API (application programming interface) e ou framework para interligação de equipamentos de dados biométricos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 312-B/2022 - Diário da República n.º 251/2022, 1º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-b-2022-205509977), em vigor a partir de 2022-12-31"
+  },
+  "858592298": {
+   "fragment_id": "205638909",
+   "type": 14,
+   "heading": "Anexo I — Modelos do cartão de cidadão e do cartão de cidadão provisório",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a ANEXO I do/a [Portaria n.º 126/2024/1 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-10"
+   ],
+   "markdown": "## Anexo I — Modelos do cartão de cidadão e do cartão de cidadão provisório\n\nFrente do cartão de cidadão para cidadãos nacionais\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/857845259)\n\nFrente do cartão de cidadão para beneficiários do estatuto geral de igualdade de direitos e deveres previsto no Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro em 22 de abril de 2000, aprovado pela Resolução da Assembleia da República n.º 83/2000 e ratificado pelo Decreto do Presidente da República n.º 79/2000, de 14 de dezembro.\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/857845260)\n\nVerso do cartão de cidadão\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/857845261)\n\n> Alterado pelo/a ANEXO I do/a [Portaria n.º 126/2024/1 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-10"
+  },
+  "858592299": {
+   "fragment_id": "205638910",
+   "type": 14,
+   "heading": "Anexo II — Elementos de segurança física e de interoperabilidade que compõem o cartão de cidadão e o cartão de cidadão provisório",
+   "in_force_from": "2024-04-02",
+   "changed_by": [
+    "Alterado pelo/a ANEXO II do/a [Portaria n.º 126/2024/1 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-10"
+   ],
+   "markdown": "## Anexo II — Elementos de segurança física e de interoperabilidade que compõem o cartão de cidadão e o cartão de cidadão provisório\n\n1 - Nas operações de produção e de personalização do cartão de cidadão deve ser garantido o cumprimento dos requisitos técnicos necessários e adequados a cada um dos seguintes elementos de segurança física:\n\na) Materiais de base utilizados no fabrico do documento;\n\nb) Técnicas de impressão;\n\nc) Proteção anticópia;\n\nd) Técnicas de emissão;\n\ne) Técnicas de integração dos dados biográficos nos materiais de base utilizados no fabrico do documento.\n\n2 - Nas operações de produção e personalização do cartão de cidadão provisório deve ser garantido o cumprimento dos requisitos técnicos necessários e adequados a cada um dos seguintes elementos de segurança física:\n\na) Materiais de base utilizados no fabrico do documento;\n\nb) Técnicas de impressão;\n\nc) Proteção anticópia;\n\nd) Técnicas de emissão;\n\ne) Técnicas de proteção dos dados biográficos após a personalização.\n\n3 - Para além do respeito pelas normas jurídicas aplicáveis, as instruções de operação relativas a elementos de segurança física do cartão de cidadão e do cartão de cidadão provisório devem observar os parâmetros e critérios constantes das normas técnicas internacionalmente aceites como melhores técnicas disponíveis, nomeadamente e quando aplicável:\n\na) ISO 7810;\n\nb) ISO 7811;\n\nc) ISO 10373;\n\nd) ICAO 9303;\n\ne) ISO 14443;\n\nf) Regulamento (UE) 2019/1157 do Parlamento Europeu e do Conselho, de 20 de junho de 2019, que visa reforçar a segurança dos bilhetes de identidade dos cidadãos da União e dos títulos de residência emitidos aos cidadãos da União e seus familiares que exercem o direito à livre circulação.\n\n> Alterado pelo/a ANEXO II do/a [Portaria n.º 126/2024/1 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-10"
+  },
+  "869246194": {
+   "fragment_id": "205638909",
+   "type": 14,
+   "heading": "Anexo I — Modelos do cartão de cidadão e do cartão de cidadão provisório",
+   "in_force_from": "2024-06-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 169/2024/1 - Diário da República n.º 117/2024, Série I de 2024-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/169-2024-869204768), em vigor a partir de 2024-06-20, produz efeitos a partir de 2024-06-10",
+    "Alterado pelo/a ANEXO I do/a [Portaria n.º 126/2024/1 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-10"
+   ],
+   "markdown": "## Anexo I — Modelos do cartão de cidadão e do cartão de cidadão provisório\n\nFrente do cartão de cidadão para cidadãos nacionais\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/857845259)\n\nFrente do cartão de cidadão para beneficiários do estatuto geral de igualdade de direitos e deveres previsto no Tratado de Amizade, Cooperação e Consulta entre a República Portuguesa e a República Federativa do Brasil, assinado em Porto Seguro em 22 de abril de 2000, aprovado pela Resolução da Assembleia da República n.º 83/2000 e ratificado pelo Decreto do Presidente da República n.º 79/2000, de 14 de dezembro.\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/857845260)\n\nVerso do cartão de cidadão\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/857845261)\n\nFrente do cartão de cidadão provisório\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/869204663)\n\nVerso do cartão de cidadão provisório\n\n![A imagem não se encontra disponível.](https://dre.pt/application/file/869204664)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 169/2024/1 - Diário da República n.º 117/2024, Série I de 2024-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/169-2024-869204768), em vigor a partir de 2024-06-20, produz efeitos a partir de 2024-06-10\n\n> Alterado pelo/a ANEXO I do/a [Portaria n.º 126/2024/1 - Diário da República n.º 64/2024, Série I de 2024-04-01](https://diariodarepublica.pt/dr/detalhe/portaria/126-2024-858167927), em vigor a partir de 2024-04-02, produz efeitos a partir de 2024-06-10"
+  }
+ }
+}

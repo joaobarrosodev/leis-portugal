@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:2438932:por
+title: Declaração de Rectificação n.º 695/2009
+short_title: null
+summary: Rectificação do aviso n.º 121/2009, publicado no Diário da República, 2.ª série, n.º 2, de 5 de Janeiro de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Câmara Municipal de Albufeira
+proposing_entity: null
+official_number: 695/2009
+official_date: null
+publication_date: '2009-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/2009, Série II de 2009-03-04
+  number: '44'
+  series: II
+  supplement: null
+  pages: 8419 - 8419
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/03/044000000/0841908419.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2438932'
+  dre_path: /dr/detalhe/declaracao-rectificacao/695-2009-2438932
+  internal: pt:dre:2438932:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/695-2009-2438932
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/695-2009-2438932
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-03-04T00:00:00Z'
+integrity:
+  source_sha256: 2437b7ba16133b4742353581844224c8039df36ee0de8574590a17ed4039240e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-695-2438932.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 695/2009
+
+Declaração de rectificação n.º 695/2009
+
+Para os devidos efeitos, se torna público que, por lapso, o aviso publicado no Diário da República, 2.ª Série, n.º 2, de 05 de Janeiro de 2009, referente ao concurso interno de acesso geral para provimento de três lugares da categoria de cozinheiro principal, saíu com inexactidão.
+
+Assim onde se lê:
+
+«as quais deverão aceitar a nomeação no prazo de 20 dias a contar da data da publicação do presente aviso no Diário da República»
+
+deve ler-se:
+
+«por urgente conveniência de serviço, a partir da mesma data».
+
+13 de Fevereiro de 2009. - Por delegação do Presidente da Câmara, o Vice-Presidente, José Carlos Martins Rolo.

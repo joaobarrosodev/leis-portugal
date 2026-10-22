@@ -1,0 +1,1035 @@
+---
+schema_version: '1.0'
+id: pt:dre:275430:por
+title: Decreto-Lei n.º 83/2000
+short_title: null
+summary: Aprova o novo regime legal da concessão e emissão dos passaportes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 83/2000
+official_date: null
+publication_date: '2000-05-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/2000, Série I-A de 2000-05-11
+  number: '109'
+  series: I
+  supplement: null
+  pages: 2038 - 2044
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/05/109a00/20382044.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-06-01'
+version_history:
+  file: decreto-lei-83-2000.versoes.json
+  count: 10
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2000-05-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-01-01'
+    amending: pt:dre:614343:por
+    amending_title: Decreto-Lei n.º 278/2000
+    changes:
+    - Altera Artigo 52.º
+  - date: '2006-07-31'
+    amending: pt:dre:539241:por
+    amending_title: Decreto-Lei n.º 138/2006
+    changes:
+    - Adita Secção IV-A
+    - Adita Artigo 38.º-A
+    - Adita Artigo 38.º-B
+    - Adita Artigo 38.º-C
+    - Adita Artigo 38.º-D
+    - Adita Artigo 38.º-E
+    - Adita Artigo 38.º-F
+    - Adita Anexo I
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 37.º
+    - Altera Artigo 39.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 32.º
+  - date: '2011-09-21'
+    amending: pt:dre:671034:por
+    amending_title: Decreto-Lei n.º 97/2011
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 38.º-D
+  - date: '2015-04-21'
+    amending: pt:dre:66997037:por
+    amending_title: Decreto-Lei n.º 54/2015
+    changes:
+    - Altera Artigo 38.º-A
+  - date: '2017-06-01'
+    amending: pt:dre:107114304:por
+    amending_title: Lei n.º 32/2017
+    changes:
+    - Altera Artigo 18.º
+  - date: '2018-03-15'
+    amending: pt:dre:114857711:por
+    amending_title: Decreto-Lei n.º 19/2018
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 31.º
+    - Altera Artigo 38.º-B
+    - Altera Artigo 38.º-D
+  - date: '2019-02-10'
+    amending: pt:dre:116043536:por
+    amending_title: Lei n.º 49/2018
+    changes:
+    - Altera Artigo 26.º
+  - date: '2023-10-29'
+    amending: pt:dre:213881448:por
+    amending_title: Decreto-Lei n.º 41/2023
+    changes:
+    - Adita Artigo 49.º-A
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 20.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 31.º
+    - Altera Artigo 36.º
+    - Altera Artigo 37.º
+    - Altera Artigo 38.º-D
+    - Altera Artigo 38.º-E
+    - Altera Artigo 42.º
+    - Revoga Artigo 49.º
+  - date: '2025-06-01'
+    amending: pt:dre:913947254:por
+    amending_title: Lei n.º 52/2025
+    changes:
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/83/2000/p/cons/20250407/pt/html
+  oj: null
+  dre: '275430'
+  dre_path: /dr/detalhe/decreto-lei/83-2000-275430
+  internal: pt:dre:275430:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2000-275430
+  metadata_url: https://data.dre.pt/eli/dec-lei/83/2000/p/cons/20250407/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-34461675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-34461675
+  retrieved_at: '2026-10-22T11:43:21Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c87273f90e4e34e516b0a0b1f2b32fe8b8b2fd423dcc1dd2c6ac800535450d8f
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:43:21Z'
+  notes: 10 versão(ões); histórico completo em decreto-lei-83-2000.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Impresso
+- Serviço de Estrangeiros e Fronteiras
+- Passaporte
+relationships:
+- type: amended_by
+  target: pt:dre:614343:por
+  label: Altera Artigo 52.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2000-614343
+  date: '2000-11-10'
+- type: amended_by
+  target: pt:dre:539241:por
+  label: Adita Secção IV-A; Adita Artigo 38.º-A; Adita Artigo 38.º-B; Adita Artigo 38.º-C; Adita Artigo 38.º-D; Adita Artigo
+    38.º-E; Adita Artigo 38.º-F; Adita Anexo I; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º;
+    Altera Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241
+  date: '2006-07-26'
+- type: amended_by
+  target: pt:dre:671034:por
+  label: Altera Artigo 10.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 38.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2011-671034
+  date: '2011-09-20'
+- type: amended_by
+  target: pt:dre:66997037:por
+  label: Altera Artigo 38.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2015-66997037
+  date: '2015-04-16'
+- type: amended_by
+  target: pt:dre:107114304:por
+  label: Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/32-2017-107114304
+  date: '2017-06-01'
+- type: amended_by
+  target: pt:dre:114857711:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 31.º;
+    Altera Artigo 38.º-B; Altera Artigo 38.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2018-114857711
+  date: '2018-03-14'
+- type: amended_by
+  target: pt:dre:116043536:por
+  label: Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536
+  date: '2018-08-14'
+- type: amended_by
+  target: pt:dre:213881448:por
+  label: Adita Artigo 49.º-A; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo
+    20.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 28.º; Altera Artigo 31.º; Altera Artigo 36.º; Altera Artigo
+    37.º; Altera Artigo 38.º-D; Altera Artigo 38.º-E; Altera Artigo 42.º; Revoga Artigo 49.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448
+  date: '2023-06-02'
+- type: amended_by
+  target: pt:dre:913947254:por
+  label: Altera Artigo 30.º; Altera Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/52-2025-913947254
+  date: '2025-04-07'
+- type: cites
+  target: celex:31995R1683
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/67/1998/10/26/p/dre
+article_structure:
+  article_count: 59
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:43:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 83/2000
+
+O cumprimento das normas comunitárias constantes da resolução dos representantes dos governos dos Estados membros das Comunidades Europeias, reunidos no âmbito do Conselho de 23 de Junho de 1981 e das posteriores resoluções complementares, determina a adopção de um novo modelo de passaporte que se ajuste, quer no suporte físico, quer no âmbito das novas tecnologias de informação, aos requisitos internacionalmente definidos em matéria de segurança.
+
+A experiência colhida ao longo de uma década, fruto da aplicação do Decreto-Lei n.º 438/88, de 29 de Novembro, com a alteração que lhe foi introduzida pelo Decreto-Lei n.º 267/89, de 18 de Agosto, permitiu identificar as insuficiências e lacunas existentes. Deste modo pretende-se com o presente diploma precisar alguns dos conceitos, sistematizar o articulado, garantindo, assim, uma maior coerência do sistema, bem como introduzir novas normas no domínio da concessão dos passaportes. Com estas alterações pretende-se alcançar uma maior e melhor segurança na emissão do passaporte.
+
+É assim que se configura o passaporte como um documento individual, permitindo, por um lado, a clara identificação do seu titular e obstando, por outro, às dificuldades criadas pelos passaportes de natureza colectiva, nas situações em que um dos seus integrantes pretende viajar isoladamente.
+
+A requisição de passaporte em local que não seja a entidade emissora será regulamentada em termos que compatibilizem a intenção de desburocratizar o processo com os requisitos de segurança exigidos a este documento.
+
+As condições de segurança a observar pelo passaporte estão, igualmente, contempladas. Desde logo, adopta-se um modelo de suporte físico, que possibilita a leitura através de meios ópticos adequados. Do mesmo modo, não se permitem averbamentos posteriores à emissão do passaporte e estipulam-se, ainda, as condições para a emissão dos passaportes para os menores de idade.
+
+Não obstante os factores de segurança, que não podem, nem devem, ser descurados, contemplam-se soluções desburocratizantes, como sejam a possibilidade de os passaportes serem remetidos por registo de correio e a consagração da recolha dos elementos necessários através de serviço externo. São ainda contempladas as situações de incapacidade física por doença dos requerentes impossibilitados de se deslocarem aos centros emissores de passaportes.
+
+Atribui-se ao Serviço de Estrangeiros e Fronteiras do Ministério da Administração Interna (SEF/MAI) a competência para gerir a Base de Dados de Emissão dos Passaportes (BADEP), consagrando-se um sistema de recolha de dados descentralizada ao nível dos centros emissores, com centralização numa base de dados sediada no SEF/MAI.
+
+Finalmente, prevêem-se disposições sancionatórias adequadas à tutela dos bens jurídicos a proteger no âmbito do presente diploma.
+
+Foram ouvidas as Regiões Autónomas e, nos termos legalmente estipulados, a Comissão Nacional de Protecção de Dados (CNPD).
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição da República Portuguesa, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241) São substituídas as referências a «BADEP» por «SIPEP».
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto, função e princípios gerais
+
+1 - O passaporte é um documento de viagem individual, que permite ao seu titular a entrada e saída do território nacional, bem como do território de outros Estados que o reconheçam para esse efeito.
+
+2 - A concessão do passaporte observa o princípio da legalidade e, bem assim, os princípios da autenticidade, veracidade e segurança dos dados nele constantes.
+
+3 - O passaporte constitui propriedade do Estado Português, sendo a sua violação e utilização indevida punidas nos termos da lei geral.
+
+###### Artigo 2.º — Categorias
+
+1 - O passaporte pode revestir uma das seguintes categorias:
+
+a) Comum;
+
+b) Diplomático;
+
+c) Especial;
+
+d) Para estrangeiros.
+
+e) Temporário.
+
+2 - Os passaportes previstos nas alíneas a), b), c) e d) do número anterior revestem a forma de passaporte eletrónico.
+
+3 - A concessão e emissão dos passaportes previstos nas alíneas d) e e) do n.º 1 obedecem às regras previstas, respectivamente, nas secções IV e IV-A do capítulo II.
+
+4 - O passaporte pode ser substituído, nas condições previstas no presente decreto-lei, por título de viagem única.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2018-114857711), em vigor a partir de 2018-03-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 3.º — Identificação
+
+O passaporte eletrónico português (PEP), de leitura ótica e por radiofrequência, é constituído por um caderno contendo a folha biográfica e 32 páginas numeradas, ou 48 páginas numeradas no caso de passaporte comum para passageiro frequente, sendo identificado:
+
+a) Pelo símbolo internacional de documento electrónico;
+
+b) Por um número de série constituído por carateres alfanuméricos de duas letras e seis algarismos:
+
+i) Impresso e perfurado na página 1 e gravado na página biográfica;
+
+ii) Perfurado nas restantes páginas e na contracapa posterior.
+
+c) No caso de o passaporte ser emitido para pessoas com deficiência visual este conterá, no verso da página biográfica, uma película autocolante transparente com informação em código braille relativa ao nome do titular, número de passaporte e sua validade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2018-114857711), em vigor a partir de 2018-03-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 4.º — Averbamentos e prazo de validade
+
+1 - Não são permitidos averbamentos posteriores à emissão do passaporte.
+
+2 - O prazo de validade do passaporte determina-se em obediência ao disposto para cada uma das categorias, sendo insusceptível de prorrogação.
+
+###### Artigo 5.º — Condições de validade
+
+1 - O passaporte só é válido se todos os espaços destinados à inscrição de menções variáveis estiverem preenchidos ou inutilizados, não sendo consentidas emendas, rasuras ou entrelinhas de qualquer natureza.
+
+2 - No passaporte deve, igualmente, constar a assinatura do seu titular, salvo se no local indicado a entidade emitente fizer menção de que o mesmo não sabe ou não pode assinar.
+
+###### Artigo 6.º — Características e controlo de autenticidade
+
+1 - O modelo do passaporte electrónico, de formato horizontal, possibilita a leitura óptica e por radiofrequência através de meios técnicos adequados, sendo os dados biográficos, a fotografia, a assinatura do titular e a informação descritiva da emissão gravados a laser na página biográfica.
+
+2 - Os dados biográficos, a imagem facial e a informação descritiva da emissão são armazenados num chip sem contacto, após assinatura electrónica dos mesmos, em condições que garantam elevado nível de segurança, de forma a facilitar a autenticação do titular.
+
+3 - As operações a que se refere o número anterior são programadas e executadas de acordo com as especificações previstas nos instrumentos jurídicos de direito internacional vinculativos da República Portuguesa, de modo a assegurar, designadamente, que:
+
+a) A zona de leitura óptica seja lida com recurso a equipamento técnico adequado;
+
+b) A leitura dos dados armazenados no chip, condicionada por chave de acesso obtida pela leitura da zona de leitura óptica, se faça com o passaporte aberto, através de contacto com o respectivo equipamento técnico, assegurando a aplicação efectiva do regime de controlo básico de acesso;
+
+c) A sessão de leitura estabelecida entre o equipamento técnico adequado e o chip inserido no passaporte decorra de forma segura.
+
+4 - As impressões digitais correspondentes ao dedo indicador esquerdo e ao dedo indicador direito não são armazenadas no chip, nos termos do n.º 2, até à fixação e entrada em vigor das especificações técnicas aplicáveis.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 7.º — Requisição e controlo de utilização
+
+1 - A requisição dos impressos de passaportes e o controlo da utilização dos mesmos competem:
+
+a) Ao Ministério dos Negócios Estrangeiros, quanto aos passaportes emitidos pelos organismos dele dependentes;
+
+b) Ministério da Administração Interna, quanto aos restantes.
+
+2 - A requisição dos impressos dos títulos de viagem única e o controlo de utilização dos mesmos competem ao Ministério dos Negócios Estrangeiros.
+
+3 - As entidades emitentes apresentam as suas requisições à Secretaria-Geral do Ministério dos Negócios Estrangeiros ou à Secretaria-Geral do Ministério da Administração Interna, conforme os impressos se reportem a documentos referidos nas alíneas a) ou b) do n.º 1 e no n.º 2 do presente artigo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 8.º — Modelo dos impressos e controlo da qualidade
+
+1 - O modelo dos impressos dos passaportes e do título de viagem única são aprovados por portaria conjunta dos Ministros dos Negócios Estrangeiros e da Administração Interna.
+
+2 - Os impressos referidos neste artigo constituem exclusivo legal da Imprensa Nacional-Casa da Moeda, S. A., a quem compete o controlo da respectiva qualidade.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 9.º — Modelo dos requerimentos
+
+1 - Os modelos dos formulários dos requerimentos e das declarações para obtenção dos passaportes são aprovados por portaria conjunta dos Ministros dos Negócios Estrangeiros e da Administração Interna.
+
+2 - Os modelos referidos neste artigo são de utilização obrigatória e constituem exclusivo legal da Imprensa Nacional-Casa da Moeda, S. A.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 10.º — Custos de concessão
+
+1 - A concessão dos passaportes diplomático e especial é isenta de quaisquer encargos para os titulares, sendo os respectivos custos suportados pelas entidades que os requeiram.
+
+2 - O sistema de gestão e de cobrança de taxas devidas relativamente ao passaporte comum, bem como os montantes aplicáveis são estabelecidos por portaria dos membros do Governo responsáveis pelas áreas da produção de passaportes, dos negócios estrangeiros, da justiça e das finanças, que fixa igualmente as regras de afetação das receitas decorrentes das taxas.
+
+3 - As taxas de concessão constituem receitas consignadas à despesa, revertendo o produto das mesmas para as entidades competentes para a concessão e para a entidade responsável pela gestão do sistema de informação do passaporte electrónico português (SIPEP) na proporção fixada pela portaria referida no número anterior.
+
+4 - No estrangeiro, as taxas devidas decorrem do disposto no número anterior e do previsto na tabela de emolumentos consulares.
+
+5 - O produto da venda dos impressos do passaporte temporário e do título de viagem única, emitidos pelos serviços consulares e demais entidades competentes, constitui receita do Estado.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 97/2011 - Diário da República n.º 181/2011, Série I de 2011-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2011-671034), em vigor a partir de 2011-09-21
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 11.º — Remessa do passaporte
+
+O passaporte pode ser remetido ao seu titular através de correio seguro, mediante prévio pagamento dos encargos de remessa, estabelecidos por portaria dos membros do Governo responsáveis pelas áreas da produção de passaportes, dos negócios estrangeiros, da justiça e das finanças.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 12.º — Reclamações
+
+1 - O deferimento da reclamação do interessado com fundamento em erro dos serviços emitentes ou defeito de fabrico implica a emissão de novo passaporte.
+
+2 - A emissão prevista no número anterior é gratuita, desde que a reclamação seja apresentada no prazo de 30 dias a contar da data da entrega do passaporte ou de seis meses a contar da mesma data, quando se trate de defeito de fabrico.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 13.º — Aplicação subsidiária
+
+As regras estabelecidas para o passaporte comum são subsidiariamente aplicáveis às restantes categorias do passaporte.
+
+### Capítulo II — Das categorias de passaporte
+
+#### Secção I — Passaporte comum
+
+###### Artigo 14.º — Titularidade
+
+Têm direito à titularidade de passaporte comum os cidadãos de nacionalidade portuguesa.
+
+###### Artigo 15.º — Competência para a concessão e emissão
+
+São entidades competentes para a concessão e emissão do passaporte comum, com possibilidade de delegação e de subdelegação:
+
+a) O presidente do conselho diretivo do Instituto dos Registos e do Notariado I. P. (IRN, I. P.);
+
+b) Os Governos Regionais, através do secretário regional competente, nos termos das respectivas leis orgânicas;
+
+c) As autoridades consulares portuguesas designadas por despacho do Ministro dos Negócios Estrangeiros.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 97/2011 - Diário da República n.º 181/2011, Série I de 2011-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2011-671034), em vigor a partir de 2011-09-21
+
+###### Artigo 16.º — Do pedido de concessão
+
+1 - A concessão do passaporte comum é requerida presencialmente pelo titular, procedendo-se à confirmação dos respectivos dados biográficos constantes do seu bilhete de identidade de cidadão nacional e à obtenção e recolha da assinatura e dos seus dados pessoais nos termos do artigo 6.º
+
+2 - A concessão de passaporte comum para menor, interdito ou inabilitado é requerida por quem, nos termos da lei, exerce o poder paternal, a tutela ou curatela, mediante exibição pelo respectivo representante dos documentos comprovativos dessa qualidade legal.
+
+3 - Nos casos referidos no número anterior, deverá, sempre que possível, ser recolhida a assinatura do titular do passaporte comum.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 97/2011 - Diário da República n.º 181/2011, Série I de 2011-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2011-671034), em vigor a partir de 2011-09-21
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 17.º — Serviço externo
+
+1 - A recolha dos elementos necessários para a concessão do passaporte comum pode realizar-se no local onde se encontre o requerente, se este produzir prova devidamente justificada da doença que o incapacite de poder deslocar-se, pelos seus próprios meios, aos serviços competentes para o efeito.
+
+2 - Pela realização do serviço externo é devido o pagamento de uma taxa acrescida, sendo o pagamento do custo do transporte necessário à deslocação assegurado pelo requerente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 18.º — Prova de identidade
+
+1 - O requerente do passaporte comum, independentemente da respetiva idade, deve fazer prova de identidade, mediante a exibição do cartão de cidadão ou do bilhete de identidade de cidadão nacional válido, o qual é imediatamente restituído após a conferência.
+
+2 - Caso não seja possível a identificação do requerente nos termos do número anterior, a emissão do passaporte depende da verificação da identidade do requerente mediante a consulta ao sistema de identificação civil.
+
+> Alterado pelo/a Artigo 7.º do/a [Lei n.º 32/2017 - Diário da República n.º 106/2017, Série I de 2017-06-01](https://diariodarepublica.pt/dr/detalhe/lei/32-2017-107114304), em vigor a partir de 2017-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 19.º — Prova complementar
+
+1 - Sempre que se suscitem dúvidas sobre a veracidade dos dados constantes do bilhete de identidade, bem como sobre a respectiva autenticidade, devem ser praticadas pelos serviços competentes para a concessão do passaporte comum as diligências necessárias à comprovação e pode ser exigida a prestação de prova complementar.
+
+2 - Os serviços responsáveis pela identificação civil e demais serviços cuja competência releve para os efeitos previstos no número anterior prestam a cooperação adequada à realização célere das diligências necessárias.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 20.º — Controlo da concessão e da emissão
+
+1 - Os membros do Governo responsáveis pelas áreas dos negócios estrangeiros e da justiça estabelecem, por portaria, modalidades de coordenação e de avaliação regular conjunta da aplicação do regime legal da concessão e emissão do PEP, tornando públicos os respetivos resultados.
+
+2 - Os serviços intervenientes nas operações de recolha e de concessão previstas no presente decreto-lei asseguram que as mesmas decorram em condições técnicas e de segurança que dêem pleno cumprimento às especificações aplicáveis, designadamente as que constituam orientações comuns resultantes dos trabalhos do comité criado pelo artigo 6.º do Regulamento (CE) n.º 1683/95.
+
+3 - A Imprensa Nacional-Casa da Moeda, S. A. (INCM), difunde através do seu sítio na Internet informação regular sobre o cumprimento das obrigações previstas no presente decreto-lei, incluindo os níveis de serviço efectivamente alcançados no tocante à remessa do PEP.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 21.º — Impedimentos à concessão de passaporte
+
+Não pode ser emitido passaporte comum quando, relativamente ao requerente, conste:
+
+a) Oposição por parte de qualquer dos progenitores, manifestada judicialmente, no caso de menor, enquanto não for judicialmente decidido ou suprido o respectivo poder paternal;
+
+b) Decisão dos órgãos judiciais que impeça a concessão do passaporte;
+
+c) Falta de pagamento dos encargos ocasionados ao Estado, referidos no n.º 4 do artigo 26.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 22.º — Da emissão
+
+1 - A emissão do passaporte electrónico português, abrangendo as suas produção, personalização e remessa, compete à INCM.
+
+2 - O prazo para a entrega do passaporte electrónico é de seis dias úteis contados da data de emissão do comprovativo do deferimento do pedido de concessão.
+
+3 - A entidade emitente deve, sempre que possível, emitir o passaporte em prazo inferior ao previsto no número anterior.
+
+4 - Em casos de urgência, a entidade emitente pode, a solicitação do requerente, assegurar prazo mais curto do que o previsto no n.º 1, sendo cobradas, adicionalmente, taxas de urgência.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 23.º — Passaporte para menores
+
+1 - Os menores, quando não forem acompanhados por quem exerça o poder paternal, só podem sair do território nacional exibindo autorização para o efeito.
+
+2 - A autorização a que se refere o número anterior deve constar de documento escrito, datado e com a assinatura de quem exerce o poder paternal legalmente certificada, conferindo ainda poderes de acompanhamento por parte de terceiros, devidamente identificados.
+
+3 - A autorização pode ser utilizada um número ilimitado de vezes dentro do prazo de validade que o documento mencionar, a qual, no entanto, não poderá exceder o período de um ano.
+
+4 - Se não for mencionado outro prazo, a autorização é válida por seis meses, contados da respectiva data.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2018-114857711), em vigor a partir de 2018-03-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 108/2004 - Diário da República n.º 110/2004, Série I-A de 2004-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2004-264358)
+
+###### Artigo 24.º — Validade do passaporte
+
+1 - O passaporte comum é válido por um período de cinco anos.
+
+2 - (Revogado).
+
+3 - Pode ser requerida a concessão de novo passaporte comum por decurso do prazo de validade, por desactualização dos elementos de identificação do titular ou pela verificação das situações descritas no artigo 25.º do presente diploma.
+
+4 - A concessão de novo passaporte comum por decurso do prazo de validade pode ser requerida nos seis meses antecedentes ou, em casos excepcionais devidamente fundamentados, no ano antecedente à respectiva caducidade.
+
+5 - A concessão de novo passaporte comum faz-se contra entrega do passaporte anterior, excepto quando deste constem vistos cuja duração justifique a conservação na posse do titular.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 19/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2018-114857711), em vigor a partir de 2018-03-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 25.º — Substituição do passaporte válido
+
+1 - A concessão de novo passaporte comum a favor de indivíduo titular de passaporte válido é possível, excepcionalmente, nos casos a seguir indicados:
+
+a) Quando este se encontrar totalmente preenchido nas folhas destinadas aos vistos;
+
+b) Em situações de mau estado de conservação ou de inutilização verificadas pelos serviços emitentes;
+
+c) Nos casos de destruição, furto ou extravio declarados pelo titular;
+
+d) Nos casos de alteração dos elementos constantes do passaporte referentes à identificação do titular.
+
+2 - Nas situações referidas na alínea c) do número anterior, deve o requerente apresentar declaração, sob compromisso de honra, prestada em impresso próprio, fundamentando o pedido e comprometendo-se a não utilizar e a devolver ao serviço responsável pela concessão o passaporte substituído, se vier a recuperá-lo.
+
+3 - Em caso de dúvida sobre os fundamentos invocados para a concessão de segunda via, podem as entidades competentes solicitar a prestação de prova complementar.
+
+4 - (Revogado).
+
+5 - No caso de destruição, furto ou extravio do passaporte comum no estrangeiro, o pedido de concessão de novo passaporte pode ser efetuado online, sendo o mesmo remetido para o posto consular indicado pelo requerente.
+
+6 - O passaporte pedido online tem a validade do passaporte substituído e só pode ser levantado pelo titular no posto consular indicado no pedido.
+
+7 - O procedimento aplicável aos pedidos previstos no n.º 5 é regulamentado por portaria dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da justiça e da modernização administrativa.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2018-114857711), em vigor a partir de 2018-03-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 26.º — Cancelamento e apreensão
+
+1 - O titular do passaporte destruído, furtado ou extraviado deve comunicar imediatamente tal facto à autoridade mais próxima ou à autoridade responsável pela concessão, para efeitos de cancelamento e apreensão.
+
+2 - O representante legal de menor e o acompanhante de maior com poderes bastantes podem requerer à entidade concedente o cancelamento e a apreensão de passaporte emitido a favor daqueles.
+
+3 - A entidade competente para a concessão comunica à Unidade de Coordenação de Fronteiras e Estrangeiros o pedido de apreensão do passaporte a que se referem os números anteriores.
+
+4 - As autoridades consulares, quando solicitadas a custear a repatriação de nacionais portadores de passaporte, procedem à retenção deste, que apenas é restituído no destino após o pagamento dos encargos suportados pelo Estado.
+
+5 - Na situação prevista no número anterior, o repatriado regressa a Portugal munido de passaporte temporário.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 15.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2019-02-10
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 27.º — Concessão de segundo passaporte
+
+1 - Em circunstâncias excepcionais, devidamente fundamentadas, poderá ser concedido um segundo passaporte, a indivíduo titular de outro ainda válido, quando, após cuidada apreciação da situação, se conclua que a sua emissão corresponde ao interesse nacional ou a um interesse legítimo do requerente, decorrente das relações entre Estados terceiros.
+
+2 - A entidade competente deverá assegurar-se de que o segundo passaporte apenas irá ser utilizado nas situações que deram origem à sua concessão.
+
+###### Artigo 28.º — Cancelamento do passaporte
+
+1 - A perda da nacionalidade portuguesa relativamente a indivíduo a quem tenha sido emitido passaporte comum determina o cancelamento deste documento.
+
+2 - Para efeitos do disposto no número anterior, a perda da nacionalidade portuguesa é comunicada ao SIPEP, preferencialmente por via eletrónica, pela Conservatória dos Registos Centrais, até ao dia 8 do mês seguinte ao do respetivo registo.
+
+3 - Para efeitos de apreensão do passaporte, o cancelamento é comunicado à Unidade de Coordenação de Fronteiras e Estrangeiros, preferencialmente por via eletrónica.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+#### Secção II — Passaporte diplomático
+
+###### Artigo 29.º — Regime aplicável
+
+A concessão, emissão e uso do passaporte diplomático são regulados por legislação própria, sem prejuízo do disposto no artigo 13.º
+
+#### Secção III — Passaporte especial
+
+###### Artigo 30.º — Titulares
+
+1 - Têm direito à titularidade do passaporte especial:
+
+a) Os membros do Conselho de Estado;
+
+b) Os deputados à Assembleia da República;
+
+c) Os magistrados dos tribunais superiores;
+
+d) Os deputados às Assembleias Regionais;
+
+e) Os presidentes de câmaras municipais;
+
+f) Os funcionários dos quadros de pessoal dos serviços centrais e dos serviços periféricos externos do Ministério dos Negócios Estrangeiros, em posto no estrangeiro, quando não tenham direito à emissão do passaporte diplomático e que possuam unicamente nacionalidade portuguesa;
+
+g) Outras pessoas, ao abrigo de lei especial.
+
+2 - Podem ser também titulares do passaporte especial:
+
+a) Entidades civis ou militares propostas pelo Presidente da República;
+
+b) Pessoas expressamente incumbidas pelo Estado Português de missão de serviço público, se a sua natureza não importar a concessão do passaporte diplomático;
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) Cônsules honorários quando de nacionalidade portuguesa, desde que não tenham a nacionalidade do país onde exercem funções.
+
+3 - A concessão do passaporte especial pode ser extensível ao cônjuge e filhos menores, quando viajem na companhia do seu titular e possuam nacionalidade portuguesa.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/52-2025-913947254), em vigor a partir de 2025-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 13/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/lei/13-2005-624456)
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 108/2004 - Diário da República n.º 110/2004, Série I-A de 2004-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2004-264358)
+
+###### Artigo 31.º — Concessão
+
+1 - São competentes para a concessão do passaporte especial, com possibilidade de delegação e de subdelegação:
+
+a) O membro do Governo responsável pelas áreas dos negócios estrangeiros sempre que as situações ocorram fora do território nacional ou nos casos a que se referem as alíneas f) e g) do n.º 1 do artigo anterior;
+
+b) O membro do Governo responsável pela área da justiça;
+
+c) Os Presidentes dos Governos Regionais, quando destinado a personalidades das respectivas Regiões Autónomas.
+
+2 - A concessão é decidida sob requisição ou proposta fundamentada, conforme se trate de destinatário titular de cargo ou de função pública de exercício continuado ou de outras situações.
+
+3 - A proposta de concessão deve ser acompanhada de documento comprovativo da situação ou missão de serviço público de que o destinatário foi incumbido, com indicação de qual a duração previsível desta.
+
+4 - Nos termos do n.º 1, podem conceder passaportes especiais:
+
+a) Os serviços e embaixadas de Portugal designados por despacho do Ministro dos Negócios Estrangeiros;
+
+b) O IRN, I. P.;
+
+c) Os serviços designados pelos governos regionais.
+
+5 - A concessão de passaporte especial pelas embaixadas deve ser comunicada, de imediato, à Secretaria-Geral do Ministério dos Negócios Estrangeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 52/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/lei/52-2025-913947254), em vigor a partir de 2025-06-01
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2018-114857711), em vigor a partir de 2018-03-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+> Alterado pelo/a Artigo único do/a [Lei n.º 13/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/lei/13-2005-624456)
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 108/2004 - Diário da República n.º 110/2004, Série I-A de 2004-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/108-2004-264358)
+
+###### Artigo 32.º — Emissão
+
+1 - São competentes para a emissão do passaporte especial:
+
+a) Os serviços e embaixadas de Portugal designados por despacho do Ministro dos Negócios Estrangeiros;
+
+b) A Secretaria-Geral do Ministério da Administração Interna (SG/MAI);
+
+c) Os serviços designados pelos Governos Regionais.
+
+2 - A emissão do passaporte especial pelas embaixadas deve ser comunicada, de imediato, à Secretaria-Geral do Ministério dos Negócios Estrangeiros.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 33.º — Utilização
+
+O passaporte especial apenas deve ser utilizado quando o seu titular se desloque na qualidade que justifica a sua concessão.
+
+###### Artigo 34.º — Validade
+
+1 - O passaporte especial é válido pelo prazo que lhe for fixado pela entidade competente para a concessão, de acordo com a natureza e duração provável da missão confiada ou da situação que permite a sua concessão, mas nunca por prazo superior a quatro anos.
+
+2 - O passaporte especial caduca logo que o seu titular perca o cargo ou cesse a missão ou a situação que determinou a respectiva emissão.
+
+3 - A caducidade do passaporte especial obriga que o serviço requisitante ou proponente proceda à sua imediata apreensão e devolução à entidade emissora.
+
+#### Secção IV — Passaporte para estrangeiros
+
+###### Artigo 35.º — Titulares
+
+Podem ser titulares do passaporte para estrangeiros:
+
+a) Indivíduos que, autorizados a residir em território português, sejam apátridas ou nacionais de países sem representação diplomática ou consular em Portugal ou que demonstrem, de forma inequívoca, não poder obter outro passaporte;
+
+b) Indivíduos estrangeiros que, sem passaporte próprio, no estrangeiro recorram à protecção diplomática ou consular portuguesa ao abrigo de acordos de cooperação consular celebrados entre Portugal e os seus países de origem;
+
+c) Indivíduos estrangeiros que se encontrem fora do território português, quando razões excepcionais recomendem a concessão do passaporte para estrangeiros.
+
+###### Artigo 36.º — Concessão
+
+1 - São competentes para a concessão do passaporte para estrangeiros, com possibilidade de delegação e de subdelegação:
+
+a) O presidente do conselho diretivo do IRN, I. P., em território nacional;
+
+b) As autoridades consulares, no estrangeiro.
+
+2 - Para verificação dos requisitos previstos na alínea a) do artigo anterior podem ser obtidas informações junto da Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), e dos serviços do Ministério dos Negócios Estrangeiros.
+
+3 - As situações consideradas nas alíneas b) e c) do artigo anterior são decididas sob proposta da autoridade consular territorialmente competente.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+###### Artigo 37.º — Emissão
+
+A concessão e emissão de passaporte para estrangeiros incumbe:
+
+a) Em território nacional, ao IRN, I. P.;
+
+b) No estrangeiro, às autoridades consulares.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 38.º — Validade
+
+1 - O passaporte para estrangeiros é válido por um prazo máximo de dois anos.
+
+2 - O passaporte referido no número anterior, quando emitido em território nacional, pode garantir ou vedar o direito de regresso a território português, conforme a menção que nele se registe.
+
+#### Secção IV-A — Passaportes temporários
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 38.º-A — Passaporte temporário
+
+1 - O passaporte temporário é o documento de viagem individual que permite a circulação do respectivo titular de e para fora do território nacional durante um período de tempo limitado.
+
+2 - O passaporte temporário deve ser substituído por um passaporte comum logo que possível, ainda que dentro do prazo de validade.
+
+3 - A validade máxima do passaporte temporário é de um ano.
+
+4 - O passaporte temporário observa, naquilo que lhe é subsidiariamente aplicável, as mesmas condições e os mesmos princípios e requisitos do passaporte comum.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 54/2015 - Diário da República n.º 74/2015, Série I de 2015-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2015-66997037), em vigor a partir de 2015-04-21
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 38.º-B — Identificação, características e controlo de autenticidade
+
+1 - O passaporte temporário é constituído por um caderno com oito páginas numeradas, identificado:
+
+a) Por um número de série constituído por carateres alfanuméricos constituído por duas letras e seis algarismos na página 3 do caderno e na página biográfica;
+
+b) Pela combinação perfurada nas restantes páginas, incluindo a contracapa.
+
+2 - O passaporte temporário só é válido se todos os espaços destinados a inscrição estiverem devidamente preenchidos ou inutilizados, não sendo consentidas emendas, rasuras ou entrelinhas de qualquer natureza.
+
+3 - (Revogado).
+
+4 - Do passaporte temporário deve, igualmente, constar a assinatura do seu titular, salvo se, no local indicado, a entidade emitente fizer menção de que o mesmo não pode assinar.
+
+5 - A página que contém os dados pessoais do requerente é protegida pela aposição de uma película adesiva.
+
+6 - (Revogado).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2018-114857711), em vigor a partir de 2018-03-15
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 38.º-C — Elementos que acompanham o pedido de passaporte temporário
+
+O pedido de concessão de passaporte temporário é instruído com os seguintes elementos:
+
+a) Duas fotografias do rosto do requerente, tipo passe, iguais, obtidas há menos de um ano, a cores e a fundo liso, com boas condições de identificação e medidas adequadas ao modelo de passaporte;
+
+b) Impresso de requerimento de passaporte temporário devidamente preenchido;
+
+c) Documento comprovativo do exercício do poder paternal, da tutela ou da curatela, no caso de o passaporte temporário se destinar a menor, interdito ou inabilitado;
+
+d) Documento justificativo do carácter urgente e excepcional do pedido, quando os fundamentos para a emissão do passaporte temporário resultem de factos imputáveis ao requerente.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 38.º-D — Competência para a concessão e emissão do passaporte temporário
+
+1 - São competentes para a concessão e emissão do passaporte temporário, com a possibilidade de delegação e subdelegação:
+
+a) O presidente do conselho diretivo do IRN, I. P.;
+
+b) Os governos regionais, através do secretário regional competente, nos termos das respectivas leis orgânicas;
+
+c) As autoridades consulares portuguesas declaradas competentes para o efeito pelo Ministro dos Negócios Estrangeiros;
+
+d) (Revogada);
+
+e) (Revogada.)
+
+2 - As condições de emissão do passaporte temporário, que revestem sempre carácter excepcional, devem ser devidamente fundamentadas, designadamente nos casos em que se verifique comprovada urgência na emissão de um documento de viagem individual e se verifique:
+
+a) Uma indisponibilidade momentânea do sistema de concessão dos passaportes;
+
+b) A circunstância de a entidade competente não se encontrar acreditada como centro emissor de passaportes.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 19/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2018-114857711), em vigor a partir de 2018-03-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 97/2011 - Diário da República n.º 181/2011, Série I de 2011-09-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2011-671034), em vigor a partir de 2011-09-21
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 38.º-E — Custos de emissão do passaporte temporário
+
+A taxa de emissão do passaporte temporário é fixada por portaria dos membros do Governo responsáveis pelas áreas da produção de passaportes, dos negócios estrangeiros e da justiça.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 38.º-F — Concessão de passaporte comum a titular de passaporte temporário
+
+1 - O passaporte comum só pode ser emitido a titular de passaporte temporário, desde que este faça prova de identidade, mediante a exibição do bilhete de identidade de cidadão nacional e cumpra o disposto no artigo 13.º
+
+2 - Nos casos de destruição, furto ou extravio de o passaporte temporário, deve o requerente apresentar declaração, sob compromisso de honra, prestada em impresso próprio, fundamentando o pedido e comprometendo-se a não utilizar e a devolver ao serviço emissor o passaporte substituído, se vier a recuperá-lo.»
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+#### Secção V — Título de viagem única
+
+###### Artigo 39.º — Concessão e emissão
+
+1 - O título de viagem única é emitido a favor de indivíduos de nacionalidade portuguesa, devidamente confirmada, que se encontrem indocumentados no estrangeiro e aos quais, por urgência, não seja possível, em tempo oportuno, oferecer prova de identificação bastante.
+
+2 - O título de viagem única é concedido e emitido pelas autoridades consulares.
+
+3 - O modelo dos impressos do título de viagem única é aprovado por portaria do Ministro dos Negócios Estrangeiros.
+
+4 - A requisição dos impressos dos títulos de viagem única e o controlo da utilização dos mesmos competem ao Ministério dos Negócios Estrangeiros.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 40.º — Validade
+
+O título de viagem única é emitido com a validade estritamente necessária ao regresso a Portugal.
+
+### Capítulo III — Protecção de dados pessoais
+
+#### Secção I — Base de dados
+
+###### Artigo 41.º — Finalidade e organização da base de dados
+
+1 - O SIPEP tem por finalidade organizar e manter actualizada a informação necessária ao controlo da concessão e emissão dos passaportes, nas suas diferentes categorias.
+
+2 - O SIPEP rege-se pelos princípios da segurança e do controlo da informação, assegurando níveis de acesso, de modificação, adicionamento ou supressão de dados, bem como formas de comunicação daqueles.
+
+3 - O SIPEP assegura a conjugação de todas as estruturas e de todos procedimentos de aquisição de dados e a articulação de todas as entidades intervenientes no registo físico e lógico dos dados recolhidos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241)
+
+###### Artigo 42.º — Entidade responsável pela BADEP
+
+1 - O IRN, I. P., é o organismo responsável pelo SIPEP.
+
+2 - A BADEP obedece às especificações técnicas, legalmente determinadas, em matéria de protecção de dados pessoais informatizados.
+
+3 - Cabe ao presidente do conselho diretivo do IRN, I. P., assegurar o direito de informação e de acesso aos dados pelos respetivos titulares, a correção de inexatidões, o complemento de omissões, a supressão de dados indevidamente registados, bem como velar por que a consulta ou comunicação da informação respeite as condições legalmente determinadas.
+
+4 - Compete ao presidente do conselho diretivo do IRN, I. P., decidir sobre as reclamações respeitantes ao acesso à informação pessoal ali constante, cabendo recurso hierárquico da sua decisão, sem prejuízo da competência própria da Comissão Nacional de Proteção de Dados (CNPD) nesta matéria.
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+###### Artigo 43.º — Sigilo
+
+As pessoas que no exercício das suas funções tenham conhecimento dos dados pessoais registados na BADEP ficam obrigadas a sigilo profissional, nos termos do artigo 17.º da Lei n.º 67/98, de 26 de Outubro.
+
+### Capítulo IV — Disposições sancionatórias
+
+###### Artigo 44.º — Violação de normas relativas a ficheiros
+
+1 - A violação das normas relativas a ficheiros informatizados de concessão e emissão de passaporte é punida nos termos dos artigos 44.º a 49.º da Lei n.º 67/98, de 26 de Outubro.
+
+2 - Quem não cumprir as obrigações relativas à protecção de dados previstas no artigo 43.º da Lei n.º 67/98, de 26 de Outubro, é punido nos termos aí previstos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 45.º — Uso indevido de passaporte
+
+1 - O uso indevido de passaporte substituído, de segundo passaporte ou de passaporte especial constitui contra-ordenação punível com coima de (euro) 250 a (euro) 750.
+
+2 - Em processo de contra-ordenação instaurado em qualquer dos casos previstos no número anterior pode ainda ser aplicada a sanção acessória de apreensão do passaporte.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 46.º — Passaportes desconformes
+
+Os passaportes que se encontrem em desconformidade com a lei são apreendidos pelas autoridades competentes.
+
+###### Artigo 47.º — Obtenção e utilização fraudulenta de documento
+
+A prestação de falsas declarações para obtenção de passaporte, a falsificação de passaporte ou dos respectivos impressos próprios, o uso de passaporte falsificado, bem como o uso de passaporte alheio, são punidos nos termos do Código Penal.
+
+###### Artigo 48.º — Competência
+
+1 - Sem prejuízo das competências da CNPD em matéria de tratamento de dados, a competência para a instauração e a instrução dos processos de contra-ordenação previstos no artigo 45.º é das entidades que procedem à concessão dos passaportes.
+
+2 - Para efeitos do número anterior, a aplicação das coimas e sanções acessórias incumbe aos dirigentes máximos das entidades que, por competência própria ou delegada, concedem os diferentes tipos de passaportes.
+
+3 - O produto das coimas referidas no artigo 45.º reverte percentualmente para as seguintes entidades:
+
+a) 40% para o Estado;
+
+b) 30% para a entidade competente para a concessão do passaporte;
+
+c) 30% para a entidade responsável pela gestão do sistema de informação do passaporte electrónico português.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+### Capítulo V — Disposições transitórias e finais
+
+###### Artigo 49.º — Comunicação de perda da nacionalidade
+
+A Conservatória dos Registos Centrais comunica ao SIPEP, até ao dia 8 de cada mês, quais as situações que, tendo determinado a perda da nacionalidade portuguesa, impedem a concessão de passaporte português ou implicam o respectivo cancelamento.
+
+> Revogado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31
+
+###### Artigo 49.º-A — Plataforma de Interoperabilidade da Administração Pública
+
+As trocas de informação estruturada entre serviços e organismos da Administração Pública previstas no presente decreto-lei são, sempre que possível, efetuadas com recurso à Plataforma de Interoperabilidade da Administração Pública (iAP), nos termos fixados pela Resolução do Conselho de Ministros n.º 42/2015, de 19 de junho.
+
+> Aditado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29
+
+###### Artigo 50.º — Regime transitório
+
+1 - Os passaportes emitidos até à data da entrada em vigor do presente diploma conservam a validade neles prevista, sem prejuízo de a sua substituição poder ser requerida, mediante a entrega do passaporte a substituir.
+
+2 - A validade de inclusão de menor em passaporte comum familiar emitido até à data de entrada em vigor do presente diploma caduca logo que o menor perfaça 16 anos, sem prejuízo da caducidade do próprio passaporte.
+
+3 - Enquanto se mantiverem em vigor os passaportes familiares que incluam menores, estes devem fazer-se acompanhar do bilhete de identidade ou certidão do assento de nascimento.
+
+###### Artigo 51.º — Legislação revogada
+
+São revogados o Decreto-Lei n.º 438/88, de 29 de Novembro, com a alteração que lhe foi introduzida pelo Decreto-Lei n.º 267/89, de 18 de Agosto, e a Portaria n.º 965-C/89, de 31 de Outubro.
+
+###### Artigo 52.º — Entrada em vigor
+
+O presente diploma entra em vigor 120 dias após a data da sua publicação.
+
+> Nota: [Artigo 2.º, Decreto-Lei n.º 278/2000 - Diário da República n.º 260/2000, Série I-A de 2000-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2000-614343) A data de entrada em vigor a que se refere o presente artigo é prorrogada para 1 de Janeiro de 2001.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 278/2000 - Diário da República n.º 260/2000, Série I-A de 2000-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-2000-614343), em vigor a partir de 2001-01-01, produz efeitos a partir de 2000-09-08
+
+Visto e aprovado em Conselho de Ministros de 16 de Março de 2000. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa.
+
+Promulgado em 26 de Abril de 2000.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 3 de Maio de 2000.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I — Modelo do passaporte temporário
+
+(ver documento original)
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 138/2006 - Diário da República n.º 143/2006, Série I de 2006-07-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2006-539241), em vigor a partir de 2006-07-31

@@ -1,0 +1,287 @@
+---
+schema_version: '1.0'
+id: pt:dre:420807:por
+title: Portaria n.º 288/96
+short_title: null
+summary: Ratifica o Plano de Pormenor da Zona Industrial de Alfândega da Fé
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 288/96
+official_date: null
+publication_date: '1996-07-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 170/1996, Série I-B de 1996-07-24
+  number: '170'
+  series: I
+  supplement: null
+  pages: 2082 - 2084
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/07/170b00/20822084.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/288/1996/07/24/p/dre/pt/html
+  oj: null
+  dre: '420807'
+  dre_path: /dr/detalhe/portaria/288-1996-420807
+  internal: pt:dre:420807:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-1996-420807
+  metadata_url: https://data.dre.pt/eli/port/288/1996/07/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/288-1996-420807
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-07-24T00:00:00Z'
+integrity:
+  source_sha256: c1f370e0868b2205367b8d2de0e1ebe3d821743b7696f7ae8c94e26822f1415c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-288-420807.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alfândega da FÉ
+- Ordenamento do Território
+- Política de Solos
+- Plano de Pormenor
+- Regulamento
+- Zona Industrial
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+article_structure:
+  article_count: 20
+  section_count: 7
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 288/96
+
+de 24 de Julho
+
+A Assembleia Municipal de Alfândega da Fé aprovou, em 28 de Fevereiro de 1992, o Plano de Pormenor da Zona Industrial de Alfandega da Fé.
+
+O Plano foi elaborado ao abrigo do [Decreto-Lei n.º 560/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/560-1971-632251), de 17 de Dezembro, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 77/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1984-661094), de 8 de Março.
+
+A Câmara Municipal de Alfândega da Fé solicitou a ratificação dentro do prazo previsto no n.º 1 do artigo 31.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, aplicando-se-lhe, portanto, o regime transitório aí consagrado.
+
+Foram emitidos pareceres pela Comissão de Coordenação da Região do Norte, pela Direcção Regional de Agricultura de Trás-os-Montes, pela Direcção de Estradas do Distrito de Bragança e pelo Centro de Distribuição de Bragança da Electricidade de Portugal.
+
+Verifica-se ainda a conformidade formal do Plano de Pormenor da Zona Industrial de Alfandega da Fé com as disposições legais e regulamentares em vigor e a sua articulação com os demais planos municipais eficazes e com outros planos, programas e projectos de interesse para o município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março.
+
+Assim, ao abrigo do n.º 4 do artigo 3.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e da delegação de competências conferida pelo Despacho n.º 48/96, do Ministro do Equipamento, do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, n.º 69, de 21 de Março de 1996:
+
+Manda o Governo, pelo Secretário de Estado da Administração Local e Ordenamento do Território, que seja ratificado o Plano de Pormenor da Zona Industrial de Alfândega da Fé, no município de Alfândega da Fé, cujo Regulamento e planta de síntese se publicam em anexo à presente portaria, que dela fazem parte integrante.
+
+Ministério do Equipamento, do Planeamento e da Administração do Território.
+
+**Assinada em 27 de Maio de 1996.**
+
+**O Secretário de Estado da Administração Local e Ordenamento do Território, José Augusto de Carvalho.**
+
+REGULAMENTO DO PLANO DE PORMENOR DA ZONA INDUSTRIAL DE ALFÂNDEGA DA FÉ
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º
+
+A zona industrial criada pelo presente Plano de Pormenor destina-se à instalação de unidades industriais, unidades de artesanato e serviços complementares - sociais e de apoio -, bem como outras instalações que pelo seu carácter se insiram nos objectivos deste empreendimento.
+
+###### Artigo 2.º
+
+A área objecto do Plano de Pormenor é constituída pelas seguintes zonas, limitadas na planta de síntese:
+
+Zona verde de protecção;
+
+Zona de arruamentos e passeios;
+
+Zona de lotes industriais;
+
+Zona de serviços.
+
+### CAPÍTULO II — Zona verde de protecção
+
+###### Artigo 3.º
+
+A zona verde de protecção será constituída pelas faixas envolventes dos lotes industriais e pelas faixas de protecção à estrada nacional n.º 315 e caminho público, em que a Câmara promoverá, nas primeiras, arbustos de pequeno porte e, nas segundas, a plantação de árvores. Os taludes resultantes dos movimentos de terra para a modelação dos terrenos deverão ser arborizados.
+
+### CAPÍTULO III — Zona de arruamentos e passeios
+
+###### Artigo 4.º
+
+A zona de arruamentos e passeios é constituída pela rede viária, estacionamentos e passeios.
+
+Só a Câmara Municipal tem competência para projectar e proceder à abertura de novos arruamentos dentro da área em estudo e segundo o previsto neste Plano.
+
+A Câmara Municipal poderá admitir a iniciativa privada nesta matéria, bem como no estudo de eventuais alterações pontuais, dentro das disposições legais vigentes e, mediante a apresentação do projecto, que serão apreciadas caso a caso.
+
+### CAPÍTULO IV — Zona de lotes industriais
+
+###### Artigo 5.º
+
+A implantação dos edifícios deverá obedecer às prescrições regulamentares estabelecidas na legislação aplicável e nas directrizes que forem transmitidas pelos serviços de fiscalização desta Câmara Municipal e ainda observar as normas constantes dos artigos seguintes.
+
+Considera-se que, no caso de expansão lateral, os lotes em que tal se verifique passarão a constituir um só.
+
+###### Artigo 6.º
+
+A ocupação dos lotes com construção e áreas cobertas far-se-á de acordo com as seguintes regras:
+
+1 - O índice de ocupação máxima será:
+
+Lotes n.os 1 a 9 - 60%;
+
+Lote n.º 10 - 62%;
+
+Lote n.º 11 - 68,6%;
+
+Lotes n.os 12 a 17 - 68,2%
+
+Lote n.º 18 - 68,8%;
+
+Lotes n.os 19 a 26 - 77,9%.
+
+2 - Os afastamentos mínimos das construções aos limites dos lotes serão, respectivamente:
+
+a) Afastamento frontal:
+
+Lotes n.os 1 a 10 - 15 m;
+
+Lotes n.os 11 a 26 - 9 m;
+
+b) Afastamentos laterais - não há afastamento lateral, pois todas as construções se prevê virem a ser em banda contínua;
+
+c) Afastamentos de tardoz:
+
+Lotes n.os 1 a 18 - 5 m;
+
+Lotes n.os 19 a 26 - 0 m.
+
+Outros afastamentos poderão ser adoptados se, por estudos de conjunto ou por apreciação da Câmara, se reconhecer vantagens em adoptá-los, os quais, todavia, terão de obedecer aos regulamentos em vigor.
+
+###### Artigo 7.º
+
+O volume de construção (índice volumétrico), na sua totalidade, relativamente à área do lote não poderá exceder 6 m3/m2, pelo que não poderá em caso algum ultrapassar os 6 m de altura a partir da cota 0.
+
+###### Artigo 8.º
+
+As áreas de construção destinadas à laboração fabril terão apenas um piso (piso térreo); as áreas destinadas a escritórios, serviços administrativos, instalações sociais e outras actividades não fabris poderão desenvolver-se em um ou dois pisos.
+
+###### Artigo 9.º
+
+A área de parqueamento não deverá ser inferior a 10% da superfície de pavimento útil.
+
+###### Artigo 10.º
+
+Toda a instalação industrial deve possuir espaços privativos para a carga e descarga de matérias-primas ou produtos manufacturados, sendo proibido fazer tais operações na via pública.
+
+###### Artigo 11.º
+
+Não é permitida a acumulação de lixos ou sucata, devendo ser mantido limpo o espaço não edificado e livre às vias de acesso.
+
+A recolha de lixos obedecerá a regras a definir pela Câmara, caso a caso, mediante protocolo a estabelecer, respeitando as normas regulamentares em vigor.
+
+###### Artigo 12.º
+
+Todas as unidades fabris devem encerrar no interior do lote que ocupam, entre os corpos de construção que as formam, espaços livres, para criarem uma envolvência verde, que possibilitem a sua integração na paisagem, e ainda permitir a separação dos lotes entre si e a via pública.
+
+### CAPÍTULO V — Infra-estruturas e controlo ambiental
+
+###### Artigo 13.º
+
+Será da responsabilidade da Câmara Municipal garantir a execução e manutenção das infra-estruturas urbanísticas da zona industrial, nomeadamente no que se refere a arruamentos e espaços públicos, rede de abastecimento de água e energia eléctrica em baixa tensão, redes telefónicas e de telex e redes de drenagem de esgotos e águas pluviais, sem prejuízo do artigo seguinte.
+
+###### Artigo 14.º
+
+Em situações especiais, nomeadamente os casos de grandes consumos de água ou energia eléctrica, poderá a Câmara Municipal estabelecer protocolos com os interessados, no sentido de viabilizar formas alternativas de garantir aquelas infra-estruturas.
+
+###### Artigo 15.º
+
+Em todos os pedidos de novas instalações devem ser especificados e quantificados os ruídos, gases. maus cheiros, fumos, poeiras e resíduos sólidos que possam poluir o solo, as linhas de água existentes ou o meio ambiente em geral.
+
+###### Artigo 16.º
+
+Será da responsabilidade das unidades a instalar na zona o tratamento e controlo de todos os resíduos sólidos, líquidos ou gasosos, bem como a eliminação de cheiros, ruídos e outras formas de degradação ambiental.
+
+###### Artigo 17.º
+
+O disposto no artigo anterior abrange os efluentes líquidos, que só poderão ser lançados na rede geral a instalar pela Câmara Municipal após o seu conveniente tratamento, de acordo com o [Decreto-Lei n.º 74/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-1990-332430) ou legislação que venha a ser publicada neste âmbito.
+
+### CAPÍTULO VI — Regime de utilização
+
+###### Artigo 18.º
+
+A Câmara Municipal contratará, caso a caso, mediante simples ajuste directo, a cedência de direitos sobre os terrenos, em regime de propriedade plena.
+
+###### Artigo 19.º
+
+A cedência de terrenos no loteamento destinar-se-á às empresas referidas no artigo 1.º e o custo aplicável ao metro quadrado de terreno será de 250$00, acrescidos anualmente do valor calculado para a inflação, sendo 20% pagos no acto da escritura e o restante em duas prestações anuais, após o 1.º ano de laboração.
+
+1.º As pessoas, individuais ou colectivas, a quem tenham sido cedidos lotes de terreno para instalação de indústrias ficam obrigadas a iniciar as obras no prazo de 180 dias e iniciar a laboração dentro do prazo de dois anos, prazos estes contados desde a data da escritura da cessão do mencionado terreno.
+
+2.º Estes prazos poderão ser prorrogados por prazo não superior a metade dos mesmos no caso de se verificarem razões excepcionais que sejam aceites pela Câmara.
+
+3.º A falta de cumprimento dos prazos referidos no artigo anterior implica a imediata reversão para a Câmara Municipal, não só do terreno como de todas as benfeitorias nele introduzidas, caso as mesmas não possam ser retiradas sem as danificar ou inviabilizar a sua aplicação posterior.
+
+4.º Os prazos indicados neste artigo poderão ser dilatados, a pedido dos interessados, quando a Câmara Municipal entender justificáveis os motivos apresentados face à dimensão do empreendimento.
+
+5.º A cedência de terrenos privilegiará as empresas que se instalem no loteamento cujo grau de impacte económico para a região seja conhecido pela Câmara Municipal, bem como a sua contribuição para a redução do nível de desemprego no concelho.
+
+6.º A venda de lotes na zona industrial fica condicionada às pessoas que, individual ou colectivamente, apresentem nesta Câmara Municipal a carta de intenções de investimento, segundo o modelo aprovado pela Câmara, anexo às presentes normas.
+
+7.º A Câmara Municipal poderá requerer a entidades competentes pareceres acerca da viabilidade económica e financeira dos projectos apresentados, com vista a uma fundamentação da oportunidade do empreendimento. Poderá ainda requerer pareceres acerca do impacte ambiental.
+
+8.º Para cedência dos lotes, além da entrega do documento referido no 6.º, deverão os interessados inscrever-se na Câmara Municipal.
+
+9.º A Câmara Municipal reserva-se o direito de não admitir qualquer inscrição sempre que constate a inviabilidade da instalação da indústria dada a sua perigosidade, capacidade de poluição ou outras razões que o justifiquem.
+
+10.º Os terrenos adquiridos não poderão ser transaccionados ou cedidos enquanto não totalmente pagos e a indústria não se encontre em laboração.
+
+11.º Se o interessado, depois de avisado por ofício registado e com aviso de recepção, não comparecer na data que lhe for indicada para celebração da escritura da cessão do terreno, reverterão para a Câmara Municipal os 10% do valor do terreno pagos no acto da inscrição.
+
+### CAPÍTULO VII — Legislação aplicável
+
+###### Artigo 22.º
+
+As disposições do presente Regulamento em caso algum dispensam o cumprimento de toda a legislação aplicável a cada caso concreto de unidades a instalar na zona, às respectivas actividades e normas de controlo ambiental.
+
+As situações de ordem jurídica não previstas nestas normas serão solucionadas pelas disposições legais subsidiariamente aplicáveis.
+
+O Tribunal Judicial da Comarca de Alfandega da Fé é o órgão territorialmente competente para a resolução de conflitos entre as partes.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1996/07/170b00/20822084.pdf))](https://files.diariodarepublica.pt/1s/1996/07/170b00/20822084.pdf)

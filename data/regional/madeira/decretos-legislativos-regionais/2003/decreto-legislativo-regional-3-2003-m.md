@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:214714:por
+title: Decreto Legislativo Regional n.º 3/2003/M
+short_title: null
+summary: Altera o Decreto Legislativo Regional n.º 7/2000/M, de 1 de Março, que regula a actividade de assistência em escala
+  ao transporte aéreo nos aeródromos regionais e altera a estrutura do sistema de taxas a cobrar pela utilização do domínio
+  público aeroportuário
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 3/2003/M
+official_date: null
+publication_date: '2003-03-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2003, Série I-A de 2003-03-12
+  number: '60'
+  series: I
+  supplement: null
+  pages: 1760 - 1761
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/03/060a00/17601761.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/3/2003/03/12/m/dre/pt/html
+  oj: null
+  dre: '214714'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/3-2003-214714
+  internal: pt:dre:214714:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2003-214714
+  metadata_url: https://data.dre.pt/eli/declegreg/3/2003/03/12/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2003-214714
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-07-26T00:00:00Z'
+integrity:
+  source_sha256: 21d1744bdb320b8cc95a43e1c8cb141838fa3d8f3fbfcf258ae289885954282b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2003/DRE-2003-3-214714.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeroporto
+- Assistência em Escala
+- Transporte Aéreo
+- Domínio Público Aeroportuário
+- Licenciamento
+- Madeira.região Autónoma
+- Taxa Aeroportuária
+- Transporte de Passageiros
+relationships:
+- type: amended_by
+  target: pt:dre:292691:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/7/2000/03/01/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/7/2000/03/01/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 3/2003/M
+
+Altera o [Decreto Legislativo Regional n.º 7/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2000-420784), de 1 de Março, que regula a actividade de assistência em escala ao transporte aéreo nos aeródromos regionais e altera a estrutura do sistema de taxas a cobrar pela utilização do domínio público aeroportuário.
+
+Atendendo à inauguração da nova aerogare do Aeroporto da Madeira - com uma ampliação do número de balcões de check-in para 40 e maiores áreas de movimento de embarque e desembarque de passageiros - com o correspondente aumento da capacidade de circulação de passageiros, já não se justifica a diferenciação prevista para os voos efectuados às terças-feiras, quartas-feiras, sextas-feiras, sábados e domingos, de acordo com o disposto no [Decreto Legislativo Regional n.º 7/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2000-420784), de 1 de Março.
+
+De igual modo, actualmente revela-se desnecessário estabelecer uma diferenciação entre as aeronaves provenientes do Aeroporto da Madeira, que efectuam escala técnica no Aeroporto de Porto Santo exclusivamente para abastecimento de combustível e as demais tal como o [Decreto Legislativo Regional n.º 7/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2000-420784), de 1 de Março, assim o determina.
+
+Por outro lado, a par da supressão desta diferenciação e tendo em conta as orientações da Comissão Europeia ao Estado Português, afigura-se necessário proceder a uma nova avaliação e formulação dos elementos informadores das taxas, em especial no que diz respeito às taxas de aterragem e descolagem e de serviço a passageiros.
+
+Finalmente, cabe substituir a referência ao Aeroporto de Santa Catarina por Aeroporto da Madeira, em virtude de ter sido entendido passar a ser essa a denominação oficial do aeroporto, por melhor identificar o destino Madeira.
+
+Assim:
+
+A Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e na alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, revisto e alterado pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de Junho, o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 24.º e 28.º do [Decreto Legislativo Regional n.º 7/2000/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2000-420784), de 1 de Março, passam a ter a seguinte nova redacção:
+
+«Artigo 24.º
+
+Taxa de aterragem e descolagem
+
+1 - A taxa de aterragem e descolagem é devida por cada operação de aterragem e descolagem e é definida por unidade de tonelagem métrica do peso máximo de descolagem indicado no certificado de navegabilidade de cada aeronave, ou em documento para o efeito considerado equivalente, podendo ser modulada por forma a contribuir para diversificar os períodos de utilização dos aeroportos e aeródromos e por razões de protecção ambiental.
+
+2 - ...
+
+3 - ...
+
+4 - Estão isentas de pagamento de taxa de aterragem e descolagem:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) [Anterior alínea f).]
+
+5 - Sem prejuízo do disposto no n.º 1 sobre modulação da taxa, beneficiam:
+
+a) ...
+
+b) ...
+
+c) As aeronaves não previstas nas alíneas anteriores que, provenientes do Aeroporto da Madeira, façam escala técnica no Aeroporto de Porto Santo para abastecimento de combustível e aí desembarquem ou embarquem passageiros. beneficiam de uma redução nas taxas de aterragem e descolagem, calculada mediante a aplicação da seguinte fórmula:
+
+Tr = P/L * T
+
+em que:
+
+Tr = taxa de aterragem e descolagem reduzida;
+
+P = número de passageiros desembarcados ou embarcados;
+
+L = lotação da aeronave;
+
+T = taxa de aterragem e descolagem normal.
+
+6 - ...
+
+7 - ...
+
+###### Artigo 28.º — Taxa de serviço a passageiros
+
+1 - A taxa de serviço a passageiros é devida por cada passageiro embarcado e pode ser diferenciada por forma a reflectir o custo dos serviços prestados segundo o destino do passageiro.
+
+2 - Para os efeitos do disposto no número anterior, só podem ser considerados os seguintes voos:
+
+a) Voos dentro do espaço Schengen - as ligações aéreas efectuadas entre qualquer aeroporto ou aeródromo situado no território nacional e entre o território nacional e o território de qualquer Estado signatário dos acordos de Schengen;
+
+b) Voos intracomunitários fora do espaço Schengen - as ligações aéreas efectuadas entre o território nacional e o território de qualquer Estado membro da União Europeia não signatário dos acordos de Schengen;
+
+c) Voos internacionais - as ligações aéreas efectuadas entre o território nacional e o território de qualquer Estado não abrangido pelas alíneas anteriores.
+
+3 - (Anterior n.º 2.)
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+6 - Sem prejuízo do disposto no n.º 1 sobre diferenciação da taxa, podem beneficiar de reduções os passageiros em transferência.»
+
+###### Artigo 2.º
+
+Os quantitativos das taxas actualmente aplicadas mantêm-se em vigor até à sua substituição, nos termos previstos nas disposições aplicáveis.
+
+###### Artigo 3.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 4 de Fevereiro de 2003.
+
+**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+
+**Assinado em 19 de Fevereiro de 2003.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**

@@ -1,0 +1,538 @@
+---
+schema_version: '1.0'
+id: pt:dre:618501:por
+title: Portaria n.º 715/89
+short_title: null
+summary: Aprova o regulamento de diversas matérias inerentes e necessárias ao Registo Internacional de Navios da Madeira (MAR),
+  criado na Zona Franca da Região Autónoma da Madeira pelo Decreto-Lei n.º 96/89, de 28 de Março
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 715/89
+official_date: null
+publication_date: '1989-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 193/1989, Série I de 1989-08-23
+  number: '193'
+  series: I
+  supplement: null
+  pages: 3511 - 3514
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19300/35113514.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-15'
+version_history:
+  file: portaria-715-89.versoes.json
+  count: 4
+  source_lastmod: '2024-08-29'
+  versions:
+  - date: '1989-08-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2003-12-28'
+    amending: pt:dre:423922:por
+    amending_title: Decreto-Lei n.º 321/2003
+    changes:
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 20.º
+  - date: '2007-02-02'
+    amending: pt:dre:518258:por
+    amending_title: Decreto-Lei n.º 23/2007
+    changes:
+    - Revoga Artigo 9.º
+  - date: '2025-03-15'
+    amending: pt:dre:910888302:por
+    amending_title: Portaria n.º 114/2025/1
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/715/1989/p/cons/20250314/pt/html
+  oj: null
+  dre: '618501'
+  dre_path: /dr/detalhe/portaria/715-1989-618501
+  internal: pt:dre:618501:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/715-1989-618501
+  metadata_url: https://data.dre.pt/eli/port/715/1989/p/cons/20250314/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1989-886163812
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1989-886163812
+  retrieved_at: '2026-10-22T13:13:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-29T00:00:00Z'
+integrity:
+  source_sha256: 5be2cbc147f817a4c26ceb06f9791243472b78dbf805f5e9cefcda1451e8ca86
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:13:33Z'
+  notes: 4 versão(ões); histórico completo em portaria-715-89.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embarcação
+- Madeira.região Autónoma
+- Registo Internacional de Navios da Madeira
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:423922:por
+  label: Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga Artigo 17.º; Revoga Artigo 18.º; Revoga Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922
+  date: '2003-12-23'
+- type: amended_by
+  target: pt:dre:518258:por
+  label: Revoga Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2007-518258
+  date: '2007-02-01'
+- type: amended_by
+  target: pt:dre:910888302:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/114-2025-910888302
+  date: '2025-03-14'
+article_structure:
+  article_count: 44
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:13:33Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 715/89
+
+Portaria n.º 715/89
+
+de 23 de Agosto
+
+Com a publicação do Decreto-Lei n.º 96/89, de 28 de Março, foi instituído, na Zona Franca da Região Autónoma da Madeira, o Registo Internacional de Navios da Madeira (MAR), prevendo-se desde logo a necessidade de se proceder à regulamentação de diversas matérias inerentes e necessárias a tal Registo.
+
+Neste contexto, e considerando que os navios a registar no MAR arvorarão a Bandeira Portuguesa, há que providenciar para que tais navios obedeçam aos requisitos técnicos de segurança, de prevenção da poluição do mar e de habitabilidade estabelecidos pelas normas em vigor no ordenamento jurídico português e não operem com deficiências, mormente em relação às Convenções Internacionais sobre Segurança Marítima, Poluição do Mar e Bem-Estar a Bordo, de que Portugal é parte.
+
+Para o efeito torna-se necessário, sem alienação de responsabilidades, recorrer aos serviços de sociedades de classificação de navios reconhecidas pelo Governo Português, tanto mais que os navios registados no MAR podem exercer a sua actividade em quaisquer portos e águas internacionais.
+
+Reconhecendo que se torna conveniente harmonizar os actos visando o registo e certificação dos navios do MAR com os das restantes entidades nacionais que efectuam os mesmos actos;
+
+Atendendo a que é conveniente que todos os navios nacionais naveguem com documentação semelhante, tendo em vista facilitar o seu controlo pelo Estado do porto;
+
+Tornando-se necessário dotar o MAR de um quadro regulador indispensável ao cabal desempenho das suas funções:
+
+Face ao constante dos artigos 2.º, 7.º, 15.º, n.os 1 e 2, 21.º, n.º 1, e 23.º do Decreto-Lei n.º 96/89, de 28 de Maio, e ao abrigo do disposto no artigo 202.º, alínea c), da Constituição:
+
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:
+
+1.º É aprovado o regulamento anexo à presente portaria, que dela faz parte integrante.
+
+2.º A presente portaria entra imediatamente em vigor.
+
+Ministério das Obras Públicas, Transportes e Comunicações.
+
+Assinada em 28 de Julho de 1989.
+
+O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins.
+
+## Anexo — Regulamento Anexo
+
+#### Secção I — Do registo
+
+###### Artigo 1.º
+
+Com o pedido inicial de registo no MAR deverá ser entregue a documentação e informação disponível relativa ao navio, nomeadamente:
+
+a) Proprietário(s) e ou afretador(es), contratos, hipotecas ou outros ónus que incidam sobre o navio;
+
+b) Nome pretendido;
+
+c) Pedido de atribuição do indicativo de chamada, acompanhado de descrição dos equipamentos de comunicações;
+
+d) Elementos sobre a arqueação do navio;
+
+e) Indicação da sociedade de classificação;
+
+f) Características do navio e da sua instalação propulsora;
+
+g) Estaleiro construtor do navio e ano de construção;
+
+h) Cópia dos certificados do navio, incluindo os da sociedade de classificação.
+
+###### Artigo 2.º
+
+A comissão técnica pode recusar o registo de um navio no MAR, tendo em consideração o tipo, actividade comercial ou idade do navio, com vista a garantir a qualidade e dignidade do registo.
+
+###### Artigo 3.º
+
+O MAR, de acordo com a Inspecção-Geral de Navios (IGN), publicará, através de editais ou circulares, os formulários a preencher e a documentação necessária para o registo do navio, quer de propriedade quer temporário.
+
+###### Artigo 4.º
+
+1 - Para o registo no MAR será necessário apresentar o relatório de vistoria inicial de registo, feito por perito a indicar pela DGRM ou por ela reconhecido ou por perito de sociedade de classificação reconhecida em Portugal, no caso de o navio estar nela classificado, em modelo previsto no acordo celebrado entre a DGRM e as organizações reconhecidas ou, caso não esteja ainda previsto nesse acordo, em modelo aprovado pela DGRM.
+
+2 - Esta vistoria tem por finalidade verificar a conformidade do navio com o disposto nas convenções internacionais e na legislação europeia vigentes no ordenamento jurídico português.
+
+3 - Será necessária a realização da vistoria prevista no n.º 1, para o navio proposto e aceite para registo pela comissão técnica do MAR, sempre que se enquadre em pelo menos uma das seguintes situações:
+
+a) Efetuou no último ano, ou pretende efetuar em simultâneo com a mudança de bandeira, alteração de classificação, proveniente de uma sociedade de classificação não reconhecida pela Administração Marítima Portuguesa;
+
+b) A idade do navio excede o patamar base do intervalo de idades, definido no critério de extensão de idades, em conformidade com os critérios de elegibilidade definidos pela comissão técnica do MAR, por cada tipologia de navio;
+
+c) Por determinação da comissão técnica do MAR, em situações excecionais e devidamente fundamentadas, sempre que estejam em causa o desempenho da companhia, o histórico e a condição do navio no que respeita à certificação de classe e certificação estatutária.
+
+4 - Nas situações não abrangidas pelo número anterior, o relatório de vistoria inicial de registo, referido no n.º 1, pode ser substituído por declaração de conformidade, emitida pelas organizações reconhecidas, com acordo celebrado com a DGRM, em modelo previsto no mesmo, ou, caso não esteja ainda previsto nesse acordo, em modelo aprovado pela DGRM.
+
+5 - Após o registo do navio, no caso daquele ter sido alvo de vistoria inicial referida no n.º 1 ou de declaração de conformidade emitida pela sociedade de classificação, referida no n.º 4, as anomalias, limitações, condições pendentes, isenções e equivalências identificadas na declaração são tratadas no âmbito da certificação estatutária do navio, que ocorre imediatamente após o registo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2025/1 - Diário da República n.º 52/2025, Série I de 2025-03-14](https://diariodarepublica.pt/dr/detalhe/portaria/114-2025-910888302), em vigor a partir de 2025-03-15
+
+###### Artigo 5.º
+
+Para o registo no MAR, um navio pode encontrar-se surto em qualquer porto nacional ou estrangeiro onde possa ser feita a vistoria inicial para o registo, quando haja lugar à realização da mesma.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2025/1 - Diário da República n.º 52/2025, Série I de 2025-03-14](https://diariodarepublica.pt/dr/detalhe/portaria/114-2025-910888302), em vigor a partir de 2025-03-15
+
+###### Artigo 6.º
+
+1 - A arqueação dos navios registados no MAR e a emissão dos respectivos certificados pelas:
+
+a) Regras nacionais (equivalentes às do Reino Unido);
+
+b) Regras do canal do Panamá;
+
+c) Regras do canal de Suez;
+
+d) Convenção Internacional sobre Arqueação de Navios, de Londres de 1969;
+
+são feitas pela IGN ou por sociedade de classificação reconhecida em Portugal, no caso de o navio nela se encontrar classificado.
+
+2 - As sociedades de classificação, sempre que verifiquem a necessidade de uma interpretação em relação a qualquer regra de arqueação, deverão solicitá-la à IGN.
+
+3 - A IGN informará todas as sociedades de classificação do resultado dessa interpretação, visando harmonizar os processos de medição da arqueação dos navios nacionais.
+
+4 - As sociedades de classificação enviarão à IGN cópia dos cálculos detalhados de arqueação, sempre que tal lhes for solicitado.
+
+###### Artigo 7.º
+
+No caso de se pretender mudar o nome a um navio registado no MAR que esteja hipotecado com preferência a credores, tal só poderá ser autorizado com a anuência expressa dos mesmos.
+
+###### Artigo 8.º
+
+1 - A atribuição no indicativo de chamada da estação de radiocomunicações do navio e de outros tipos de identificação, o estabelecimento do código da entidade responsável pela liquidação das contas de radiocomunicações, a consignação de frequências e a emissão da respectiva licença de estação de navio são da responsabilidade da IGN.
+
+2 - O MAR, no uso das suas competências, de acordo com a IGN, determinará os procedimentos a seguir em conformidade com o disposto no número anterior.
+
+###### Artigo 9.º
+
+Consoante a situação do registo do navio, o MAR, por delegação da IGN, emitirá o passaporte provisório ou definitivo do navio.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23/2007 - Diário da República n.º 23/2007, Série I de 2007-02-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2007-518258), em vigor a partir de 2007-02-02
+
+###### Artigo 10.º
+
+Os navios registados no MAR terão as inscrições regulamentares que são exigidas para a identificação dos navios nacionais, sendo a letra designativa do porto de registo do Registo Internacional de Navios - MAR - Zona Franca da Madeira a letra M e o porto de registo do MAR a ser inscrito na popa sob o nome do navio «MADEIRA».
+
+###### Artigo 11.º
+
+A classificação dos navios registados no MAR, quanto à área de navegação, terá em conta o porto ou águas em que operam e o tráfego que efectuem, não se lhe aplicando os limites das áreas de navegação definidas para as restantes embarcações nacionais.
+
+###### Artigo 12.º
+
+1 - O número de registo é o que for atribuído pelo MAR no auto de registo.
+
+2 - Para as embarcações de comércio, com excepção das de tráfego local, utilizar-se-á a série de números inteiros consecutivos de 1000 a 1300.
+
+###### Artigo 13.º
+
+As vistorias a efectuar aos navios nacionais quer em portos nacionais quer estrangeiros, visando o seu registo e certificação pelo MAR, incluindo as vistorias de construção ou modificação, de registo, de manutenção, de avarias e suplementares, serão feitas por peritos a indicar pela IGN ou, no caso de navios classificados em sociedades de classificação reconhecidas em Portugal, por peritos destas.
+
+#### Secção II — Das sociedades de classificação
+
+###### Artigo 14.º
+
+1 - As sociedades de classificação reconhecidas em Portugal e credenciadas para o exercício das suas funções no MAR são as seguintes:
+
+Lloyd's Register of Shipping (LRS);
+
+Bureau Veritas (BV);
+
+Det Norske Veritas (DNV);
+
+Registro Italiano Navale (RINA);
+
+American Bureau of Shipping (ABS);
+
+Germanischer Lloyd (GL);
+
+Rinave Portuguesa (RINAVE);
+
+Nippon Kaiji Kyokai (NKK).
+
+2 - Serão incluídas no número anterior outras sociedades de classificação que venham a ser reconhecidas pelo Governo Português.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28
+
+###### Artigo 15.º
+
+Para os navios classificados nas sociedades de classificação reconhecidas em Portugal, e registados no MAR, o MAR delegará nessas sociedades as vistorias, a aprovação do caderno de estabilidade, carga de grão, plano de segurança e outros documentos, bem como a emissão dos certificados internacionais relativos às convenções e resoluções da Organização Marítima Internacional (IMO) e as convenções da OIT a que Portugal se encontra vinculado, nomeadamente:
+
+a) Convenção Internacional sobre a Salvaguarda da Vida Humana no Mar, de 1974, Protocolo de 1978 e respectivas emendas em vigor;
+
+b) Convenção Internacional de Linhas de Carga, de 1966;
+
+c) Convenção Internacional para Evitar Abalroamentos no Mar;
+
+d) Convenção Internacional para a Prevenção da Poluição pelos Navios, de 1973, e seu Protocolo de 1988;
+
+e) Resolução da IMO relativa às plataformas;
+
+f) Resolução da IMO relativa aos navios-tanques químicos existentes;
+
+g) Resolução da IMO relativa aos navios-tanques de gases liquefeitos existentes;
+
+h) Convenção n.º 32 da OIT - Aparelho de carga;
+
+i) Convenção n.º 92 da OIT - Alojamentos da tripulação.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28
+
+###### Artigo 16.º
+
+No caso de um navio registado no MAR estar classificado por sociedade de classificação reconhecida pelo Governo Português, as letras designativas dessa sociedade deverão ser inscritas no costado, no disco relativo às linhas de carga da respectiva convenção internacional.
+
+###### Artigo 17.º
+
+O MAR, ouvida a IGN, estabelecerá com as sociedade de classificação reconhecidas a informação, bem como a sua periodicidade, a ser fornecida por estas relativa às vistorias e certificados.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28
+
+###### Artigo 18.º
+
+Qualquer sociedade de classificação reconhecida está obrigada, relativamente aos navios registados no MAR por si classificados, a informar de imediato o Registo nos seguintes casos:
+
+a) Deficiências encontradas a bordo em relação às convenções internacionais de que Portugal, é parte;
+
+b) Avarias que afectem as condições de navegabilidade do navio;
+
+c) Acidentes ocorridos com o navio;
+
+d) Perda de classificação do navio na sociedade de classificação.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28
+
+###### Artigo 19.º
+
+Os navios registados no MAR não abrangidos pelas disposições das convenções internacionais de que Portugal é parte navegarão com certificados nacionais emitidos pelo MAR ou pela IGN ou com certificados equivalentes das sociedades de classificação reconhecidas em Portugal.
+
+###### Artigo 20.º
+
+O MAR, ouvida a IGN, providenciará junto das sociedades de classificação no sentido de harmonizar todos os certificados e restantes impressos a utilizar nas vistorias e certificação dos navios que arvorem a Bandeira Nacional.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28
+
+#### Secção III — Das ocorrências
+
+###### Artigo 21.º
+
+O armador ou o capitão de um navio registado no MAR que tenha um acidente ou sinistro com o seu navio deverá imediatamente comunicar esse facto ao MAR, assinalando no respectivo relatório a sua causa provável, nomeadamente:
+
+a) Avarias e sinistros causados ao navio ou à carga que afectem as suas condições de navegabilidade;
+
+b) Abalroamento, encalhe ou toque no fundo;
+
+c) Perda de vidas humanas;
+
+d) Actos de poluição.
+
+###### Artigo 22.º
+
+O armador, o seu legal representante ou o capitão de um navio registado no MAR que pretenda efectuar qualquer alteração ou modificação no navio que possa afectar a sua classificação, dimensões principais, arqueação ou bordo livre deverá obter prévia autorização do MAR.
+
+###### Artigo 23.º
+
+1 - No caso de um navio registado no MAR escalar porto nacional com avaria no navio ou na carga e se verifique ser necessário proceder a vistoria, esta será efectuada por perito da IGN ou por ela reconhecido ou por perito de sociedade de classificação reconhecida, no caso de o navio estar nela classificado.
+
+2 - O relatório de mar a elaborar pelo capitão do navio nos termos legais será enviado ao Registo no prazo de quarenta e oito horas, depois de devidamente visado pelo representante da IGN no MAR ou da sociedade de classificação.
+
+###### Artigo 24.º
+
+Para o desembaraço de um navio registado no MAR que tenha entrado em porto nacional com avaria no navio ou na carga e desde que se tenha procedido a vistoria nos termos do artigo anterior, bastará apresentar, para além dos necessários papéis de bordo, o relatório do perito relativo às condições de segurança para que o navio possa seguir viagem.
+
+###### Artigo 25.º
+
+No caso de um navio registado no MAR ter sido submetido ao controlo exercido pelo Estado do porto, nomeadamente ao abrigo das disposições do Memorando de Paris, e lhe terem sido encontradas deficiências em relação às Convenções Internacionais sobre Segurança Marítima, Poluição do Mar e Bem-Estar a Bordo, o capitão deve dar de imediato conhecimento ao MAR das citadas deficiências.
+
+###### Artigo 26.º
+
+Os aspectos técnicos de qualquer inquérito a efectuar referente a acidente ocorrido com navio registado no MAR deverão ter a coordenação da IGN, tendo em vista a aplicação da regra 21 do capítulo I, parte C da Convenção Internacional para a Salvaguarda da Vida Humana no Mar, de 1974, e do seu Protocolo de 1978.
+
+###### Artigo 27.º
+
+1 - Os navios registados no MAR deverão ter a bordo os livros exigidos pela legislação nacional e internacional, devidamente autenticados pelo MAR, IGN ou sociedade de classificação reconhecida em Portugal, no caso de navio nela classificado.
+
+2 - No Diário Náutico deverão ser registados os calados do navio à vante e à ré e a posição relativa das marcas de bordo livre em relação à linha de água de flutuação à partida e à chegada aos portos.
+
+3 - Os diários dos serviços de bordo, bem como os livros de registo obrigatórios, exigidos pelas convenções internacionais aplicáveis, devem ser conservados a bordo por um período mínimo de dois anos, por forma a permitir obter elementos caso seja necessário instaurar inquérito a bordo.
+
+#### Secção IV — Das inspecções, controlo, cancelamento e transferência de registos
+
+###### Artigo 28.º
+
+1 - Para garantir a segurança dos navios, das pessoas e das cargas neles embarcadas os navios registados no MAR estão sujeitos a uma inspecção, sempre que possível anual, a realizar por membros da comissão técnica do MAR ou por peritos indicados pela IGN.
+
+2 - Não pode ser impedida a entrada a bordo aos inspectores, devendo o armador, capitão do navio e seus agentes prestar toda a colaboração durante a inspecção.
+
+###### Artigo 29.º
+
+À comissão técnica do MAR compete assinar, visar, rubricar, ratificar ou autenticar, conforme os casos e sempre que necessário, os livros, autos, termos, certidões, cópias e certificados ou outros documentos.
+
+###### Artigo 30.º
+
+O MAR pode proceder ao cancelamento de um registo, tomando para o efeito as necessárias providências, quando se verifiquem circunstâncias que o justifiquem, designadamente:
+
+a) Alterações na propriedade do navio;
+
+b) Falta de cumprimento do proprietário ou operador em relação aos requisitos para poder operar na Zona Franca da Madeira;
+
+c) Apresentar o navio deficiências graves em relação às normas das Convenções Internacionais sobre a Segurança Marítima, Prevenção da Poluição do Mar e Bem-Estar a Bordo dos Navios.
+
+###### Artigo 31.º
+
+O proprietário, ou o seu legal representante, pode solicitar o cancelamento do registo de propriedade no MAR por motivo de:
+
+a) Venda do navio para registo em país de outra bandeira;
+
+b) Venda do navio para fins de sucata;
+
+c) Perda do navio por naufrágio;
+
+d) Presunção de perda e falta de notícias do navio após saída do último porto escalado ao fim de 180 dias.
+
+###### Artigo 32.º
+
+As certidões ou outros documentos a emitir pelo MAR relativos e necessários ao cancelamento dos registos só poderão ser entregues depois de satisfeitos os pagamentos e outros compromissos do navio, proprietário ou operador para com a Zona Franca da Madeira.
+
+###### Artigo 33.º
+
+1 - O cancelamento definitivo do registo de propriedade de um navio no MAR por motivo de venda para o estrangeiro só pode ser efectuado após o navio ter sido registado sob a bandeira desse país, devendo ser indicado ao MAR o novo nome do navio e o respectivo porto de registo.
+
+2 - Não ficam abrangidos por estas disposições os navios vendidos para fins de sucata.
+
+###### Artigo 34.º
+
+1 - Qualquer navio nacional com registo definitivo ou temporário que o transfira de um porto nacional para o MAR, ou vice-versa, não ficará sujeito a vistorias para o efeito, incluindo as previstas nos artigos 7.º e 12.º do regulamento.
+
+2 - A transferência de registo será comunicada pela entidade que o efectuou à entidade que detinha o registo anterior e à IGN.
+
+#### Secção V — Da certificação dos marítimos
+
+###### Artigo 35.º
+
+A certificação dos inscritos marítimos embarcados em navios registados no MAR rege-se pelas disposições da Convenção Internacional sobre Normas de Formação de Certificação e de Serviços de Quartos para os Marítimos, de 1978 (STCW 1978).
+
+###### Artigo 36.º
+
+1 - O MAR poderá emitir certificados de dispensa nos termos da Convenção STCW 1978, de modelo idêntico aos que estão em vigor na ordem jurídica portuguesa, assim como os relativos a navios químicos, de gases liquefeitos e petroleiros, dando do facto conhecimento à Direcção-Geral do Pessoal do Mar e Estudos Náuticos (DGPMEN).
+
+2 - Para os efeitos do número anterior devem os interessados fazer prova de habilitação profissional ou de aptidão legalmente exigidos.
+
+###### Artigo 37.º
+
+A comissão técnica do MAR providenciará junto das entidades nacionais ou estrangeiras competentes no sentido de harmonizar os procedimentos a seguir no que respeita ao rol de tripulação, às lotações e ao reconhecimento dos certificados de profissionais dos marítimos estrangeiros.
+
+#### Secção VI — Das lotações
+
+###### Artigo 38.º
+
+1 - Nenhum navio registado no MAR está autorizado a navegar com tripulação em qualidade e número inferior à fixada como lotação de segurança.
+
+2 - Exceptuam-se as situações decorrentes de morte ou incapacidade de tripulante ocorrida com o navio em viagem ou ainda em casos de reconhecia necessidade, devendo, neste caso, a falta ser preenchida no primeiro porto que o navio escale.
+
+###### Artigo 39.º
+
+Entende-se por lotação de segurança, adiante designada por lotação, o número de tripulantes, distribuído por funções, com que o navio está autorizado a navegar, de molde a garantir a segurança da navegação, das pessoas e bens, bem como a protecção do meio marinho.
+
+###### Artigo 40.º
+
+1 - O armador, ou o seu legal representante, pode requerer a fixação da lotação do navio já registado ou a registar no MAR.
+
+2 - O requerimento deve ser acompanhado dos seguintes documentos:
+
+a) Resenha identificativa do navio, da qual constem as suas características técnicas, os equipamentos de que dispõe e a área de tráfego em que irá operar;
+
+b) Plano geral do navio;
+
+c) Indicação dos meios de salvação existentes a bordo;
+
+d) Outros elementos que o requerente considere de interesse para o efeito;
+
+e) Proposta de lotação devidamente fundamentada.
+
+3 - A lotação é fixada no prazo de três dias úteis contados a partir da data de apresentação do requerimento e terá em conta o disposto nas convenções internacionais sobre a matéria vigentes na ordem jrídica portuguesa.
+
+###### Artigo 41.º
+
+1 - Fixada a lotação, o MAR emite o respectivo certificado.
+
+2 - Da lotação fixada cabe recurso para o ministro responsável pela marinha de comércio.
+
+#### Secção VII — Dos tripulantes
+
+###### Artigo 42.º
+
+A relação nominal de todos os tripulantes que constituem a tripulação de um navio registado no MAR toma a designação de «Rol de tripulação».
+
+###### Artigo 43.º
+
+1 - O contrato de trabalho, se for a termo, a celebrar com os tripulantes terá a forma escrita e dele devem constar obrigatoriamente os seguintes elementos:
+
+a) Identificação das partes;
+
+b) Nome do navio;
+
+c) Categoria ou funções a exercer;
+
+d) Natureza do contrato;
+
+e) Data de admissão;
+
+f) Vencimentos;
+
+g) Data do seu termo.
+
+2 - O contrato individual de trabalho não deve conter qualquer disposição que contrarie as convenções internacionais ratificadas por Portugal no âmbito da OIT.
+
+#### Secção VIII — Disposições finais
+
+###### Artigo 44.º
+
+A comissão técnica do MAR, na sua acção fiscalizadora e sempre que tiver conhecimento de uma transgressão marítima praticada na operação de um navio registado no MAR, pode promover o levantamento de um auto e ou desenvolver as acções adequadas junto das entidades competentes.

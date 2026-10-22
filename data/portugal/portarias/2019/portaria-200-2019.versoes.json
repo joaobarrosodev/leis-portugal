@@ -1,0 +1,91 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122747585:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-122754785",
+ "dre_path": "/dr/detalhe/portaria/200-2019-122747585",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-06-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122769575",
+    "122769576",
+    "122769577",
+    "122769578",
+    "122769579",
+    "122769580",
+    "122769581"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:123234422:por",
+     "title": "Declaração de Retificação n.º 34/2019",
+     "published": "2019-07-17",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/34-2019-123234422",
+     "date": "2019-06-29"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "122769575": {
+   "fragment_id": "122754786",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 200/2019\n\nde 28 de junho\n\nA Portaria n.º 233/2018, de 21 de agosto, procedeu à regulamentação do Registo Central do Beneficiário Efetivo (RCBE), criado pela Lei n.º 89/2017, de 21 de agosto, e definiu, entre outros aspetos, a forma da declaração inicial, os termos de preenchimento e de submissão do respetivo formulário, a disponibilização pública da informação, bem como os termos da extração de informação e de certidões da base de dados.\n\nA referida portaria regulou especialmente o prazo para a troca de informações entre o RCBE e as demais bases de dados de suporte à informação sobre as entidades, designadamente o Ficheiro Central de Pessoas Coletivas e a informação detida pela Autoridade Tributária e Aduaneira, bem como o prazo para a declaração inicial.\n\nEsse prazo condiciona também a obrigatoriedade de consulta por parte das entidades obrigadas e a possibilidade de acesso pelas autoridades competentes.\n\nPor estar em causa uma base de dados de especial complexidade, com um universo de entidades sujeitas na ordem de um milhão, e um número indeterminado de entidades obrigadas à sua consulta, o arranque faseado estabelecido, mesmo após prorrogação, revelou-se insuficiente, verificando-se a concentração das declarações nos últimos dias dos períodos fixados.\n\nEm consequência, a consulta ao sistema não pode ser efetuada com normalidade, o que impede a regular utilização do RCBE no cumprimento do dever de diligência de identificação do cliente, e no âmbito da prevenção e combate ao branqueamento de capitais e financiamento do terrorismo.\n\nOs conceitos de entidade sujeita ao RCBE e de beneficiário efetivo têm suscitado, múltiplos pedidos de esclarecimentos e de apoio no preenchimento das respetivas declarações, dificultando, de modo global, o cumprimento desta obrigação.\n\nAdicionalmente, a Diretiva 2018/843 do Parlamento Europeu e do Conselho de 30 de maio de 2018, que altera a Diretiva (UE) 2015/849 relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais ou de financiamento do terrorismo e que altera as Diretivas 2009/138/CE e 2013/36/EU, e que tem de ser transposta até 10 de janeiro de 2020, implica alterações às Leis n.os 83/2017, de 18 de agosto, e 89/2017, de 21 de agosto, devendo ser articulados vários aspetos da informação e do respetivo acesso, tal como está atualmente concebido.\n\nPor este motivo, o termo do prazo de 30 de junho de 2019 para a declaração inicial do beneficiário efetivo, bem como a data de 1 de julho como início de consulta obrigatória do RCBE para as entidades obrigadas, são datas que se têm revelado de difícil exequibilidade, demandando a segurança jurídica e ordem pública, uma prorrogação das mesmas.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais e pela Secretária de Estado da Justiça, nos termos dos n.os 1 e 3 do artigo 22.º da Lei n.º 89/2017, de 21 de agosto, bem como do n.º 1 do artigo 11.º e do n.º 3 do artigo 19.º do Regime Jurídico do Registo Central do Beneficiário Efetivo, aprovado pela Lei n.º 89/2017, de 21 de agosto, o seguinte:"
+  },
+  "122769576": {
+   "fragment_id": "122754787",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece os prazos para a declaração inicial do RCBE, e revoga os artigos 13.º e 17.º da Portaria n.º 233/2018, de 21 de agosto."
+  },
+  "122769577": {
+   "fragment_id": "122754788",
+   "type": 11,
+   "heading": "Artigo 2.º — Prazo para a declaração inicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prazo para a declaração inicial\n\nA declaração inicial das entidades sujeitas ao RCBE constituídas à data de entrada em vigor da presente portaria deve ser efetuada, de forma faseada, nos termos seguintes:\n\na) Até 31 de outubro de 2019, as entidades sujeitas a registo comercial;\n\nb) Até 30 de novembro de 2019, as demais entidades sujeitas ao RCBE."
+  },
+  "122769578": {
+   "fragment_id": "122754789",
+   "type": 11,
+   "heading": "Artigo 3.º — Consulta do RCBE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Consulta do RCBE\n\n1 - As entidades obrigadas, nos termos definidos na Lei n.º 83/2017, de 18 de agosto, devem efetuar consultas ao RCBE após 31 de janeiro de 2020, exceto se às mesmas for disponibilizado, em momento anterior, o respetivo código de acesso.\n\n2 - O disposto no número anterior aplica-se a todas as entidades sujeitas ao RCBE, ainda que constituídas após 1 de outubro de 2018."
+  },
+  "122769579": {
+   "fragment_id": "122754790",
+   "type": 11,
+   "heading": "Artigo 4.º — Confirmação anual da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Confirmação anual da informação\n\nA confirmação anual da informação sobre o beneficiário efetivo é dispensada em 2020, incluindo para as entidades cuja declaração foi efetuada em 2018, sem prejuízo da atualização da informação a que deva haver lugar."
+  },
+  "122769580": {
+   "fragment_id": "122754791",
+   "type": 11,
+   "heading": "Artigo 5.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Norma revogatória\n\nSão revogados os artigos 3.º e 17.º da Portaria n.º 233/2018, de 21 de agosto."
+  },
+  "122769581": {
+   "fragment_id": "122754792",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

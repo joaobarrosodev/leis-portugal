@@ -1,0 +1,185 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:646299:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-886139677",
+ "dre_path": "/dr/detalhe/decreto-lei/349-1993-646299",
+ "source_lastmod": "2024-08-28",
+ "versions": [
+  {
+   "date": "1993-10-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "886138839",
+    "886138840",
+    "886138841",
+    "886138842",
+    "886138843",
+    "886138844",
+    "886138845",
+    "886138846",
+    "886138847",
+    "886138848",
+    "886138849",
+    "886138850",
+    "886138851"
+   ]
+  },
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345124:por",
+     "title": "Lei n.º 113/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/113-1999-345124"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "886138839",
+    "886138840",
+    "886138841",
+    "886138842",
+    "886138843",
+    "886138844",
+    "886138845",
+    "886138846",
+    "886138847",
+    "886138848",
+    "886138849",
+    "886138850",
+    "886138854",
+    "886138852"
+   ]
+  }
+ ],
+ "fragments": {
+  "886138839": {
+   "fragment_id": "886139678",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 349/93\n\nde 1 de Outubro\n\nO Decreto-Lei n.º 441/91, de 14 de Novembro, estabelece o regime jurídico do enquadramento da segurança, higiene e saúde no trabalho, referindo-se expressamente, no n.º 2 do seu artigo 23.º, à regulamentação derivada da transposição para o direito interno das directivas comunitárias.\n\nNestes termos, o presente diploma visa transpor para a ordem jurídica interna a Directiva n.º 90/270/CEE, do Conselho, de 29 de Maio, relativa às prescrições mínimas de segurança e de saúde respeitantes ao trabalho com equipamentos dotados de visor, que constitui a quinta directiva especial na acepção do n.º 1 do artigo 16.º da Directiva n.º 89/391/CEE, do Conselho, de 12 de Junho.\n\nTrata-se de um instrumento de acção destinado a orientar actuações na concepção ou adaptação dos locais de trabalho com equipamentos dotados de visor, integrando especificações e exigências com vista a prevenir riscos profissionais e a garantir a protecção da saúde tal como são enunciados no artigo 4.º do Decreto-Lei n.º 441/91, de 14 de Novembro, acima referido.\n\nPretende-se, assim, cumprir a exigência de fixação de prescrições mínimas de segurança e de saúde nos postos de trabalho em que são utilizados visores, no quadro da dimensão social do mercado interno, com vista à melhoria dos níveis da prevenção e de protecção dos trabalhadores.\n\nO presente diploma foi apreciado em sede do Conselho Nacional de Segurança, Higiene e Saúde no Trabalho, reflectindo os consensos ali alcançados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "886138840": {
+   "fragment_id": "886139679",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma transpõe para a ordem jurídica interna a Directiva n.º 90/270/CEE, do Conselho, de 29 de Maio, relativa às prescrições mínimas de segurança e de saúde respeitantes ao trabalho com equipamentos dotados de visor."
+  },
+  "886138841": {
+   "fragment_id": "886139680",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente diploma tem o âmbito de aplicação estabelecido no artigo 2.º do Decreto-Lei n.º 441/91, de 14 de Novembro.\n\n2 - O presente diploma não se aplica aos postos de trabalho:\n\na) De condução de veículos ou máquinas;\n\nb) Dotados de sistemas informáticos integrados num meio de transporte;\n\nc) Dotados de sistemas informáticos destinados prioritariamente à utilização do público;\n\nd) Dotados de sistemas informáticos portáteis, desde que estes não sejam objecto de utilização corrente;\n\ne) Em que se utilizam calculadoras, caixas registadoras e qualquer equipamento dotado de um pequeno dispositivo de visualização de dados ou de medidas necessário à utilização directa desse equipamento;\n\nf) Em que se utilizam máquinas de escrever de concepção clássica, ditas «máquinas de janela»."
+  },
+  "886138842": {
+   "fragment_id": "886139681",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos do presente diploma entende-se por:\n\na) Visor - um ecrã alfanumérico ou gráfico, seja qual for o processo de representação visual utilizado;\n\nb) Posto de trabalho - o conjunto constituído por um equipamento dotado de visor, eventualmente munido de um teclado ou de um dispositivo de introdução de dados e ou de software que assegure a interface homem/máquina, por acessórios opcionais, por equipamento anexo, incluindo a unidade de disquetes, por um telefone, por um modem, por uma impressora, por um suporte para documentos, por uma cadeira e por uma mesa ou superfície de trabalho, bem como pelas suas condições ambientais;\n\nc) Trabalhador - qualquer trabalhador, na acepção da alínea a) do artigo 3.º do Decreto-Lei n.º 441/91, de 14 de Novembro, que utiliza habitualmente um equipamento dotado de visor durante o trabalho."
+  },
+  "886138843": {
+   "fragment_id": "886139682",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípio geral\n\nOs equipamentos de trabalho dotados de visor não devem constituir fonte de risco para a segurança e saúde dos trabalhadores."
+  },
+  "886138844": {
+   "fragment_id": "886139683",
+   "type": 11,
+   "heading": "Artigo 5.º — Normas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Normas técnicas\n\nAs normas técnicas de execução do presente diploma são objecto de portaria do Ministro do Emprego e da Segurança Social."
+  },
+  "886138845": {
+   "fragment_id": "886139684",
+   "type": 11,
+   "heading": "Artigo 6.º — Obrigações do empregador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Obrigações do empregador\n\nConstitui obrigação do empregador:\n\na) Avaliar as condições de segurança e de saúde existentes nos postos de trabalho, nomeadamente as que respeitam aos riscos para a visão, às afecções físicas e à tensão mental;\n\nb) Tomar, com base na avaliação referida no número anterior, as medidas necessárias para eliminar aqueles riscos;\n\nc) Informar os trabalhadores sobre tudo o que diga respeito às questões da sua segurança e da sua saúde relativas ao posto de trabalho;\n\nd) Organizar a actividade do trabalhador de forma que o trabalho diário com visor seja periodicamente interrompido por pausas ou mudanças de actividade que reduzam a pressão do trabalho com equipamento dotado de visor."
+  },
+  "886138846": {
+   "fragment_id": "886139685",
+   "type": 11,
+   "heading": "Artigo 7.º — Vigilância médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vigilância médica\n\n1 - Antes de ocuparem pela primeira vez um posto de trabalho dotado de visor, periodicamente e sempre que apresentem perturbações visuais, os trabalhadores devem ser sujeitos a um exame médico adequado dos olhos e da visão.\n\n2 - Se os resultados do exame referido no número anterior demonstrarem a sua necessidade, os trabalhadores beneficiam de um exame oftalmológico.\n\n3 - Sempre que os resultados dos exames médicos o exigirem e os dispositivos normais de correcção não puderem ser utilizados, devem ser facultados aos trabalhadores dispositivos especiais de correcção concebidos para o tipo de trabalho desenvolvido."
+  },
+  "886138847": {
+   "fragment_id": "886139686",
+   "type": 11,
+   "heading": "Artigo 8.º — Informação e formação dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Informação e formação dos trabalhadores\n\n1 - Os trabalhadores, assim como os seus representantes, devem ser informados sobre todas as medidas tomadas que digam respeito à sua segurança e saúde na utilização de equipamentos dotados de visor.\n\n2 - Antes do início da actividade, ou quando ocorram mudanças no posto de trabalho, os trabalhadores devem receber a formação adequada sobre a utilização dos equipamentos dotados de visor."
+  },
+  "886138848": {
+   "fragment_id": "886139687",
+   "type": 11,
+   "heading": "Artigo 9.º — Consulta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Consulta\n\nOs trabalhadores, assim como os seus representantes, devem ser consultados sobre a aplicação das disposições constantes do presente diploma."
+  },
+  "886138849": {
+   "fragment_id": "886139688",
+   "type": 11,
+   "heading": "Artigo 10.º — Postos de trabalho já existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Postos de trabalho já existentes\n\nAs entidades patronais devem tomar todas as medidas necessárias para que, até 31 de Dezembro de 1996, os postos de trabalho já existentes à data da entrada em vigor do presente diploma estejam adaptados por forma a obedecerem às prescrições mínimas constantes da portaria prevista no artigo 5.º"
+  },
+  "886138850": {
+   "fragment_id": "886139689",
+   "type": 11,
+   "heading": "Artigo 11.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Fiscalização\n\nA fiscalização do cumprimento das normas constantes do presente diploma e da respectiva regulamentação, assim como a aplicação das correspondentes sanções, compete ao Instituto de Desenvolvimento e Inspecção das Condições de Trabalho, sem prejuízo da competência fiscalizadora específica atribuída a outras entidades, conforme o disposto no artigo 21.º do Decreto-Lei n.º 441/91, de 14 de Novembro."
+  },
+  "886138851": {
+   "fragment_id": "886139690",
+   "type": 11,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima:\n\na) De 30000$00 a 100000$00, a utilização de equipamento que não obedeça às prescrições mínimas de segurança e de saúde estabelecidas no presente diploma;\n\nb) De 50000$00 a 100000$00, por cada trabalhador abrangido e sem prejuízo do limite máximo fixado na lei geral, a violação do disposto na alínea d) do artigo 6.º e no artigo 7.º;\n\nc) De 50000$00 a 200000$00, a violação do dever de informação e do dever de consulta previstos na alínea c) do artigo 6.º e no artigo 9.º, respectivamente;\n\nd) De 80000$00 a 150000$00, a violação do disposto na alínea a) do artigo 6.º;\n\ne) De 100000$00 a 500000$00, a violação do dever de formação previsto no n.º 2 do artigo 8.º\n\n2 - Metade do produto das coimas reverte para o Fundo de Garantia e Actualização de Pensões, destinando-se a outra metade à entidade que as aplica, em conformidade com o disposto no artigo 4.º do Decreto-Lei n.º 491/85, de 26 de Novembro, na redacção dada pelo Decreto-Lei n.º 255/89, de 10 de Agosto."
+  },
+  "886138854": {
+   "fragment_id": "886139690",
+   "type": 11,
+   "heading": "Artigo 12.º — Contra-ordenações",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 12.º — Contra-ordenações\n\nConstitui contra-ordenação grave a violação das normas técnicas referidas no artigo 5.º e nos artigos 6.º, 7.º, 8.º e 9.º\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 113/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/113-1999-345124), em vigor a partir de 1999-12-01"
+  },
+  "886138852": {
+   "fragment_id": "886139691",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - Luís Filipe Alves Monteiro - José Martins Nunes - José Albino da Silva Peneda.\n\nPromulgado em 3 de Setembro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 7 de Setembro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

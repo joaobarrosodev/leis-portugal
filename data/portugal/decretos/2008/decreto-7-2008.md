@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:246367:por
+title: Decreto n.º 7/2008
+short_title: null
+summary: Estabelece medidas preventivas destinadas a garantir o período necessário para a programação e viabilização da execução
+  da ligação ferroviária de alta velocidade no eixo Lisboa-Porto
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 7/2008
+official_date: null
+publication_date: '2008-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/2008, Série I de 2008-03-27
+  number: '61'
+  series: I
+  supplement: null
+  pages: 1783 - 1797
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/03/06100/0178301797.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/7/2008/03/27/p/dre/pt/html
+  oj: null
+  dre: '246367'
+  dre_path: /dr/detalhe/decreto/7-2008-246367
+  internal: pt:dre:246367:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-2008-246367
+  metadata_url: https://data.dre.pt/eli/dec/7/2008/03/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-2008-246367
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-04-15T00:00:00Z'
+integrity:
+  source_sha256: b0a411db901636758ee10dd5c60858f52484f958996341f7d9d35f73f7cfebe8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-7-246367.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Fiscalização
+- Lisboa
+- Comissão de Coordenação e Desenvolvimento Regional
+- Medidas Preventivas
+- Rede Ferroviária
+- Rede Ferroviária Portuguesa de Alta Velocidade
+- Refer
+- Porto
+relationships:
+- type: amended_by
+  target: pt:dre:613680:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/52/2005/08/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/52/2005/08/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/183/2005/11/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/183/2005/11/28/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 7/2008
+
+de 27 de Março
+
+A rede ferroviária de alta velocidade constitui um empreendimento público de excepcional interesse nacional e dimensão ibérica e europeia, que representa um compromisso de desenvolvimento económico, de coesão territorial e social e de sustentabilidade ambiental do País, e que tem por objectivo a reformulação do sector ferroviário, enquanto meio privilegiado de reforço do aumento da produtividade e competitividade do tecido empresarial instalado em Portugal e de satisfação das necessidades de mobilidade das populações.
+
+Assim, a rede ferroviária de alta velocidade consubstancia-se num projecto de investimento estruturante, que se traduz num factor de desenvolvimento económico porque proporciona uma aproximação dos principais pólos de concentração de população e de actividades económicas, consolidando a fachada atlântica de Portugal como eixo competitivo à escala ibérica e europeia, ligando Portugal à Rede Transeuropeia de Transportes. A rede de alta velocidade é também um factor de criação de riqueza, de desenvolvimento tecnológico e de promoção de emprego.
+
+A execução deste empreendimento traduz-se, ainda, num factor de coesão territorial e social dado que permitirá a criação de um sistema de transportes moderno e eficiente capaz de aproximar população e território, elemento decisivo no combate às assimetrias regionais.
+
+Finalmente, representa um factor de sustentabilidade ambiental na medida em que contribui para alcançar um maior equilíbrio entre modos de transporte, promovendo a utilização de um modo de transporte ambientalmente mais sustentável e contribuindo para uma redução significativa dos custos com externalidades ambientais.
+
+Tal foi expressamente reconhecido pela [Lei n.º 52/2005](https://diariodarepublica.pt/dr/detalhe/lei/52-2005-248262), de 31 de Agosto, que aprovou as Grandes Opções do Plano para 2005-2009, e definiu entre os eixos de intervenção centrais à prossecução de uma estratégia de desenvolvimento sustentável, o de uma política de transportes, comunicações e obras públicas que assegure condições de mobilidade e de comunicação adequadas no contexto nacional, ibérico e europeu.
+
+Concretizando-o, a [Resolução do Conselho de Ministros n.º 183/2005](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/183-2005-482791), de 28 de Novembro, que aprovou o Programa Nacional de Acção para o Crescimento e o Emprego 2005-2008, assumiu como Medida n.º 7, a «Implementação de uma rede ferroviária de alta velocidade».
+
+Torna-se, portanto, absolutamente necessário, face ao risco real de ocorrência de alterações do uso do território, bem como da emissão de licenças ou autorizações que contendam com os estudos já realizados e que possam comprometer a concretização da ligação Lisboa-Porto da rede ferroviária de alta velocidade, ou torná-la mais difícil e onerosa, estabelecer medidas preventivas que acautelem a necessidade de programação e a possibilidade de execução deste empreendimento público.
+
+Com efeito, tratando-se de uma infra-estrutura de reconhecido interesse público nacional, os prejuízos resultantes da prática dos actos acima referidos são social e economicamente mais relevantes do que os danos que das medidas preventivas ora estabelecidas poderão, eventualmente, resultar.
+
+O regime previsto no presente decreto não abrange todo o eixo Lisboa-Porto, mas apenas o traçado compreendido entre Lisboa e Vila Franca de Xira, Alenquer e Pombal e Oliveira do Bairro e Porto, ficando excluído do seu âmbito de aplicação o traçado compreendido entre Vila Franca de Xira e Alenquer e Pombal e Oliveira do Bairro, já que o estado dos trabalhos em curso ainda não permite, com o necessário grau de detalhe, proceder à delimitação das áreas a abranger.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 7.º do [Decreto-Lei n.º 794/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/794-1976-409292), de 5 de Novembro, e nos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Medidas preventivas
+
+1 - Com vista a garantir o período necessário para a programação e execução do empreendimento público para a ligação ferroviária de alta velocidade do eixo Lisboa-Porto, e de forma a não comprometer a sua viabilização, as áreas delimitadas nas plantas anexas ao presente decreto, que dele fazem parte integrante, abrangendo os troços Lisboa-Vila Franca de Xira, Alenquer-Pombal e Oliveira do Bairro-Porto, ficam sujeitas a medidas preventivas destinadas a evitar a alteração das circunstâncias e condições existentes nas zonas identificadas, ou a tornar a execução de tal empreendimento mais difícil ou oneroso.
+
+2 - As medidas preventivas referidas no número anterior consistem na sujeição a parecer prévio vinculativo da Rede Ferroviária Nacional - REFER, E. P. (REFER, E. P.), dos actos ou actividades seguintes:
+
+a) Criação de novos núcleos populacionais, incluindo operações de loteamento;
+
+b) Construção, reconstrução ou ampliação de edifícios ou de outras instalações;
+
+c) Instalação de explorações ou ampliação das já existentes;
+
+d) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;
+
+e) Derrube de árvores em maciço, com qualquer área;
+
+f) Destruição do solo vivo e do coberto vegetal.
+
+3 - O requerimento de parecer é apresentado à REFER, E. P., directamente pelo interessado ou por intermédio da entidade a quem se encontram atribuídos os poderes para licenciar ou autorizar o acto ou a actividade em causa.
+
+4 - O prazo para a emissão de parecer pela REFER, E. P., é de 20 dias úteis a contar da data de envio do seu requerimento ou da data de envio de informações complementares solicitadas por esta entidade, caso ocorra.
+
+5 - São nulos os actos administrativos que decidam pedidos de emissão de licença ou autorização relativamente a actos ou actividades abrangidos pelas presentes medidas preventivas, quando não solicitados ou não respeitados os pareceres da REFER, E. P.
+
+6 - O prazo de vigência das medidas preventivas é de dois anos, prorrogável quando tal se mostre necessário, por prazo não superior a um ano.
+
+###### Artigo 2.º — Traçados preliminares da ligação Lisboa-Porto
+
+1 - Para efeitos do disposto no presente decreto, os traçados preliminares da ligação Lisboa-Porto da rede ferroviária de alta velocidade são os que constam das plantas anexas ao presente decreto, que dele fazem parte integrante.
+
+2 - Ficam depositados na REFER, E. P., na comissão de coordenação e desenvolvimento regional territorialmente competente, bem como nos municípios abrangidos, os elementos cartográficos que permitam a identificação das áreas delimitadas nas plantas anexas ao presente decreto, que dele fazem parte integrante, incluindo o respectivo levantamento aerofotogramétrico do território.
+
+###### Artigo 3.º — Elaboração, alteração ou revisão de instrumentos de gestão territorial
+
+O empreendimento público projectado, que o presente decreto visa salvaguardar, deve desde já ser tido em consideração na elaboração, alteração ou revisão de todos os instrumentos de gestão territorial com incidência nas áreas delimitadas nas plantas anexas ao presente decreto, que dele fazem parte integrante.
+
+###### Artigo 4.º — Fiscalização
+
+1 - As obras e os trabalhos efectuados com inobservância das normas previstas no presente decreto, podem ser embargados e demolidos, bem como pode ser reposta a situação anterior, incluindo a configuração do terreno, sem direito a qualquer indemnização, imputando-se os respectivos encargos ao infractor.
+
+2 - A competência para a fiscalização do disposto no presente decreto cabe à REFER, E. P., e à comissão de coordenação e desenvolvimento regional territorialmente competente, podendo cada uma das referidas entidades exercê-la isoladamente.
+
+3 - Sem prejuízo dos poderes de tutela da legalidade urbanística legalmente atribuídos ao presidente da câmara municipal, a competência para ordenar o embargo, a demolição ou a reposição da configuração do terreno cabe à REFER, E. P., e à comissão de coordenação e desenvolvimento regional territorialmente competente, podendo cada uma das referidas entidades exercê-la isoladamente.
+
+###### Artigo 5.º — Publicidade
+
+Aos municípios abrangidos pelas áreas delimitadas nas plantas anexas ao presente decreto, que dele fazem parte integrante, compete dar publicidade à adopção das medidas previstas no presente decreto, por editais a afixar nas sedes dos municípios ou das juntas de freguesia a que respeitem as áreas abrangidas, e por meio de aviso publicado no jornal diário mais lido na região.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente decreto entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 12 de Março de 2008. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.
+
+**Assinado em 14 de Março de 2008.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 17 de Março de 2008.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2008/03/06100/0178301797.pdf))](https://files.diariodarepublica.pt/1s/2008/03/06100/0178301797.pdf)

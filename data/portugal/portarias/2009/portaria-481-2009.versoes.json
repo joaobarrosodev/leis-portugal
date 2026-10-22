@@ -1,0 +1,442 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:608052:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-124952019",
+ "dre_path": "/dr/detalhe/portaria/481-2009-608052",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-05-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124968780",
+    "124968781",
+    "124968782",
+    "124968783",
+    "124968785",
+    "124968786",
+    "124968787",
+    "124968788",
+    "124968789",
+    "124968790",
+    "124968791",
+    "124968792",
+    "124968793",
+    "124968794",
+    "124968795",
+    "124968796",
+    "124968797",
+    "124968798",
+    "124968799",
+    "124968800",
+    "124968801",
+    "124968802",
+    "124968803",
+    "124968804",
+    "124968805",
+    "124968806",
+    "124968807",
+    "124968808",
+    "124968809",
+    "124968810",
+    "124968811",
+    "124968812",
+    "124968813",
+    "124968814",
+    "124968815",
+    "124968816",
+    "124968817",
+    "124968818",
+    "124968819",
+    "124968820",
+    "124968821",
+    "124968822",
+    "124968823",
+    "124968824",
+    "124968825",
+    "124968826"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:124952007:por",
+     "title": "Portaria n.º 333/2019",
+     "published": "2019-09-24",
+     "dre_path": "/dr/detalhe/portaria/333-2019-124952007",
+     "date": "2009-05-07"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "124968780": {
+   "fragment_id": "124952020",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 481/2009\n\nde 6 de Maio\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2005&id=305R1698\" title=\"Link para Regulamento da Comunidade Europeia\">1698/2005</a>, do Conselho, de 20 de Setembro, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), estabelece como objectivos o aumento da competitividade da agricultura e da silvicultura, a melhoria do ambiente e da paisagem rural, bem como a promoção da qualidade de vida nas zonas rurais e da diversificação das actividades económicas. Inserida no objectivo de aumento da competitividade dos sectores agrícola e florestal, a medida n.º 4.3, «Serviços de apoio ao desenvolvimento», do Programa de Desenvolvimento Rural do Continente, designado por PRODER, visa promover a oferta de serviços especializados para melhorar o desempenho global das empresas, proporcionar o acesso individual a serviços através da sua oferta organizada, melhorar o apoio técnico aos agricultores e produtores florestais e reforçar a orientação para o mercado e a integração horizontal e vertical das empresas. A referida medida é constituída por duas acções distintas, sendo a acção n.º 4.3.1 denominada «Serviços de aconselhamento agrícola», relativa à concessão de incentivos não reembolsáveis, destinada a facilitar, promover e potenciar as condições de funcionamento de um tipo de serviços que permitirão às explorações agrícolas melhorar o seu grau de adaptação às exigências regulamentares em vigor, quer do lado da oferta, quer do lado da procura. Com efeito, a elevada especificidade técnica e a abrangência das matérias envolvidas no processo de adaptação das explorações agrícolas às novas exigências em termos de condicionalidade e de segurança no trabalho torna necessária a concessão de apoios ao desenvolvimento de serviços de aconselhamento agrícola, de forma a promover uma adequada assistência técnica aos agricultores no processo de adaptação da sua actividade às exigências regulamentares vigentes. De igual forma, a natureza voluntária do serviço de aconselhamento, torna necessário proceder à atribuição de apoio à aquisição deste tipo de serviços por parte dos agricultores. Assim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do n.º 3 do artigo 4.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, o seguinte:"
+  },
+  "124968781": {
+   "fragment_id": "124952021",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado, em anexo à presente portaria, dela fazendo parte integrante, o Regulamento de Aplicação da Acção n.º 4.3.1 «Serviços de Aconselhamento Agrícola», da medida n.º 4.3, «Serviços de apoio ao desenvolvimento», integrada no subprograma n.º 4, «Promoção do conhecimento e desenvolvimento de competências», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER."
+  },
+  "124968782": {
+   "fragment_id": "124952022",
+   "type": 11,
+   "heading": "Artigo 2.º — O Regulamento referido no artigo 1.º contém os seguintes anexos, que dele fazem parte integrante:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — O Regulamento referido no artigo 1.º contém os seguintes anexos, que dele fazem parte integrante:\n\na) Anexo i, relativo às despesas elegíveis e não elegíveis;\n\nb) Anexo ii, relativo ao cálculo da valia global da operação aplicada na subacção n.º 4.3.1.1."
+  },
+  "124968783": {
+   "fragment_id": "124952023",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "124968785": {
+   "fragment_id": "124952025",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DA ACÇÃO N.º 4.3.1, «SERVIÇOS DE ACONSELHAMENTO AGRÍCOLA»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DA ACÇÃO N.º 4.3.1, «SERVIÇOS DE ACONSELHAMENTO AGRÍCOLA»"
+  },
+  "124968786": {
+   "fragment_id": "124952026",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "124968787": {
+   "fragment_id": "124952027",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da subacção n.º 4.3.1.1, «Desenvolvimento de serviços de aconselhamento», e da subacção n.º 4.3.1.2, «Aquisição de serviços de aconselhamento», da acção n.º 4.3.1, «Serviços de aconselhamento agrícola», da medida n.º 4.3, «Serviços de apoio ao desenvolvimento», integrada no subprograma n.º 4, «Promoção do conhecimento e desenvolvimento de competências», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PRODER."
+  },
+  "124968788": {
+   "fragment_id": "124952028",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nOs apoios previstos no âmbito do presente Regulamento prosseguem os seguintes objectivos:\n\na) Desenvolver a oferta de serviços de aconselhamento no contexto das obrigações comunitárias;\n\nb) Incentivar a utilização de serviços de aconselhamento por parte dos titulares das explorações agrícolas."
+  },
+  "124968789": {
+   "fragment_id": "124952029",
+   "type": 11,
+   "heading": "Artigo 3.º — Área geográfica de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Área geográfica de aplicação\n\nO presente Regulamento tem aplicação em todo o território do continente, sendo as regiões definidas nos avisos de abertura dos concursos para apresentação dos pedidos de apoio no caso da subacção n.º 4.3.1.1, «Desenvolvimento de serviços de aconselhamento»."
+  },
+  "124968790": {
+   "fragment_id": "124952030",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos de aplicação do presente Regulamento, e para além das definições constantes do Decreto-Lei n.º 37-A/2008, entende-se por:\n\na) «Actividade agrícola» a produção, criação ou cultivo de produtos agrícolas, incluindo a colheita, ordenha, criação de animais ou detenção de animais para fins de produção, ou a manutenção das terras em boas condições agrícolas e ambientais;\n\nb) «Exploração agrícola» o conjunto de unidades de produção submetidas a uma gestão única;\n\nc) «Entidade prestadora do serviço de aconselhamento» as entidades reconhecidas no âmbito do n.º 2 do artigo 7.º da Portaria n.º 353/2008, de 8 de Maio;\n\nd) «Jovem agricultor» o agricultor que, à data de apresentação do pedido de apoio, tem mais de 18 e menos de 40 anos de idade;\n\ne) «Termo da operação» a data de conclusão da operação, determinada no contrato de financiamento;\n\nf) «Titular de uma exploração agrícola» o gestor do aparelho produtivo e detentor a qualquer título do património fundiário necessário à produção de um ou vários produtos agrícolas;\n\ng) «Unidade de produção» o conjunto de parcelas agrícolas, agro-florestais, contínuas ou não, que constituem uma unidade técnico-económica caracterizada pela utilização em comum da mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização."
+  },
+  "124968791": {
+   "fragment_id": "124952031",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos no capítulo ii do presente Regulamento, relativos à subacção n.º 4.3.1.1, «Desenvolvimento de serviços de aconselhamento», qualquer das entidades prestadoras do serviço de aconselhamento reconhecidas no âmbito do disposto no artigo 7.º da Portaria n.º 353/2008, de 8 de Maio.\n\n2 - Podem beneficiar dos apoios previstos no capítulo iii do presente Regulamento, relativo à subacção n.º 4.3.1.2, «Aquisição de serviços de aconselhamento», as pessoas singulares ou colectivas que desenvolvam uma actividade agrícola."
+  },
+  "124968792": {
+   "fragment_id": "124952032",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas elegíveis e não elegíveis\n\nAs despesas elegíveis e não elegíveis dos apoios previstos nas subacções n.os 4.3.1.1, «Desenvolvimento de serviços de aconselhamento», e 4.3.1.2, «Aquisição de serviços de aconselhamento», são, designadamente, as constantes do anexo i do presente Regulamento."
+  },
+  "124968793": {
+   "fragment_id": "124952033",
+   "type": 1,
+   "heading": "Capítulo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II"
+  },
+  "124968794": {
+   "fragment_id": "124952034",
+   "type": 8,
+   "heading": "Secção I — Desenvolvimento de serviços de aconselhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Desenvolvimento de serviços de aconselhamento"
+  },
+  "124968795": {
+   "fragment_id": "124952035",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade dos beneficiários\n\nOs candidatos aos apoios previstos no presente capítulo, relativo à subacção n.º 4.3.1.1, «Desenvolvimento de serviços de aconselhamento», devem reunir as seguintes condições específicas:\n\na) Possuírem a situação regularizada face à administração fiscal e à segurança social;\n\nb) Não estarem abrangidos por quaisquer disposições de exclusão resultante de incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\nc) Estarem reconhecidos pela autoridade nacional de gestão do Sistema de Aconselhamento Agrícola como entidades prestadoras do serviço de aconselhamento agrícola;\n\nd) Disporem de contabilidade actualizada e organizada de acordo com a legislação em vigor, que contemple um centro de custos específico para a operação."
+  },
+  "124968796": {
+   "fragment_id": "124952036",
+   "type": 11,
+   "heading": "Artigo 8.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Critérios de elegibilidade das operações\n\nPodem beneficiar dos apoios previstos na subacção n.º 4.3.1.1, «Desenvolvimento de serviços de aconselhamento», as operações, com a duração máxima de três anos, que reúnam as seguintes condições:\n\na) Tenham início após a data de reconhecimento como entidade prestadora do serviço de aconselhamento agrícola, sem prejuízo do disposto no artigo 31.º;\n\nb) Demonstrem estar asseguradas as fontes de financiamento;\n\nc) Apresentem coerência técnica e financeira."
+  },
+  "124968797": {
+   "fragment_id": "124952037",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\nOs beneficiários dos apoios previstos na subacção n.º 4.3.1.1, «Desenvolvimento de serviços de aconselhamento», devem cumprir, para além das obrigações previstas no Decreto-Lei n.º 37-A/2008, as seguintes:\n\na) Executar a operação nos termos e prazos fixados no contrato de financiamento;\n\nb) Proceder à publicitação dos apoios que lhe forem atribuídos, nos termos da regulamentação comunitária aplicável e das normas técnicas do PRODER;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;\n\nd) Cumprir as obrigações legais, designadamente fiscais e para com a segurança social;\n\ne) Cumprir as normas legais aplicáveis em matéria de segurança e higiene no trabalho;\n\nf) Manter as condições legais necessárias ao exercício da respectiva actividade, até ao termo da operação;\n\ng) Manter um sistema de contabilidade nos termos previstos no artigo 7.º;\n\nh) Manter os requisitos para exercer a actividade como entidade prestadora do serviço de aconselhamento durante um período mínimo de cinco anos a contar da data de celebração do contrato, ou até ao termo da operação, se tal termo ultrapassar os cinco anos;\n\ni) Não locar, alienar ou por qualquer forma onerar os equipamentos co-financiados, durante o período de cinco anos a contar da data de celebração do contrato ou até ao termo da operação, sem prévia autorização da autoridade de gestão;\n\nj) Garantir que todos os pagamentos e recebimentos ligados à operação são efectuados através de uma conta bancária específica para o efeito;\n\nl) Apresentar à autoridade de gestão, seis meses após o recebimento integral dos apoios, um relatório de avaliação sobre o impacte da operação."
+  },
+  "124968798": {
+   "fragment_id": "124952038",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma, nível e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma, nível e limites dos apoios\n\n1 - Os apoios são concedidos sob a forma de subsídios não reembolsáveis.\n\n2 - O nível dos apoios a conceder é de 60 % do custo total elegível, repartido da seguinte forma:\n\na) 1.º ano - 30 % do custo total elegível;\n\nb) 2.º ano - 20 % do custo total elegível;\n\nc) 3.º ano - 10 % do custo total elegível.\n\n3 - O nível dos apoios referidos no número anterior é limitado ao valor máximo fixado no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1998\" title=\"Link para Regulamento da Comunidade Europeia\">1998/2006</a>, da Comissão, de 15 de Dezembro, para um período de três exercícios financeiros por cada entidade prestadora do serviço de aconselhamento."
+  },
+  "124968799": {
+   "fragment_id": "124952039",
+   "type": 11,
+   "heading": "Artigo 11.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de apoio submetidos por concurso e que cumpram os critérios de elegibilidade aplicáveis são avaliados de acordo com os seguintes factores:\n\na) Maior área territorial rural de incidência dos serviços a prestar (TR);\n\nb) Valia estratégica (VE) dos serviços a desenvolver, que valoriza a contribuição da operação em função do número total de agricultores face à área territorial rural de incidência.\n\n2 - Os pedidos de apoio mencionados no número anterior são hierarquizados em função do cálculo da respectiva valia global, designada «valia global da operação» (VGO), calculada de acordo com a fórmula constante do anexo ii."
+  },
+  "124968800": {
+   "fragment_id": "124952040",
+   "type": 8,
+   "heading": "Secção II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento"
+  },
+  "124968801": {
+   "fragment_id": "124952041",
+   "type": 11,
+   "heading": "Artigo 12.º — Apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Apresentação dos pedidos de apoio\n\n1 - Os pedidos de apoio, previstos no presente capítulo, são submetidos por concurso ao abrigo do disposto na alínea b) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, divulgado pela autoridade de gestão, com a antecedência de 10 dias seguidos relativamente à data de publicidade do respectivo aviso de abertura.\n\n2 - A apresentação dos pedidos de apoio efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio."
+  },
+  "124968802": {
+   "fragment_id": "124952042",
+   "type": 11,
+   "heading": "Artigo 13.º — Avisos de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avisos de abertura\n\n1 - Os avisos de abertura dos concursos são aprovados pelo gestor, após audição da comissão de gestão, e homologados pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, e indicam, nomeadamente, o seguinte:\n\na) Os objectivos e as prioridades visadas;\n\nb) O prazo para apresentação dos pedidos de apoio;\n\nc) A dotação orçamental a atribuir;\n\nd) As componentes dos factores da valia global da operação e respectiva ponderação, aplicáveis em função das prioridades e objectivos fixados para cada concurso;\n\ne) A forma, o nível e os limites dos apoios a conceder, respeitando o disposto no artigo 10.º\n\n2 - Os avisos de abertura dos concursos são divulgados em www.proder.pt, e publicados em dois jornais de grande circulação e, quando se justifique, num jornal regional relevante na área geográfica do respectivo concurso."
+  },
+  "124968803": {
+   "fragment_id": "124952043",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise e decisão dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise e decisão dos pedidos de apoio\n\n1 - As DRAP analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação e do beneficiário, a aplicação dos factores referidos no artigo 11.º, e o apuramento do montante do custo total elegível, e procedem à hierarquização dos pedidos de apoio em função da pontuação obtida no cálculo da valia global da operação.\n\n2 - São solicitados aos candidatos, quando se justifique, pelas DRAP, os documentos exigidos no formulário do pedido ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido.\n\n3 - O parecer referido no n.º 1 é emitido no prazo máximo de 40 dias úteis a contar do termo de apresentação dos pedidos de apoio e remetido com a correspondente hierarquização à autoridade de gestão.\n\n4 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer, prevista no n.º 3."
+  },
+  "124968804": {
+   "fragment_id": "124952044",
+   "type": 11,
+   "heading": "Artigo 15.º — Transição de pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transição de pedidos\n\nOs pedidos de apoio que tenham sido objecto de parecer favorável e que não tenham sido aprovados por insuficiência orçamental transitam automaticamente para o concurso subsequente, sendo definitivamente recusados caso não obtenham aprovação nesse concurso."
+  },
+  "124968805": {
+   "fragment_id": "124952045",
+   "type": 11,
+   "heading": "Artigo 16.º — Contrato de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contrato de financiamento\n\n1 - A concessão do apoio é formalizada em contrato escrito, a celebrar entre o beneficiário e o Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.).\n\n2 - O IFAP, I. P., envia o contrato de financiamento ao beneficiário, no prazo de 10 dias úteis a contar da data de recepção da decisão do gestor, que dispõe de 20 dias úteis para a devolução do mesmo devidamente assinado, sob pena de caducidade do direito à celebração do contrato, nos termos do disposto no n.º 6 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março."
+  },
+  "124968806": {
+   "fragment_id": "124952046",
+   "type": 11,
+   "heading": "Artigo 17.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Execução das operações\n\n1 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física das operações apoiadas por via da subacção n.º 4.3.1.1, «Desenvolvimento de serviços de aconselhamento», são, respectivamente, de 6 e 36 meses contados a partir da data da assinatura do contrato de financiamento.\n\n2 - Em casos excepcionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior."
+  },
+  "124968807": {
+   "fragment_id": "124952047",
+   "type": 11,
+   "heading": "Artigo 18.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet, em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se às despesas efectivamente realizadas e pagas, devendo os comprovativos das mesmas ser entregues nas DRAP, no prazo de cinco dias úteis a contar da data de apresentação do pedido.\n\n3 - Apenas são aceites os pedidos de pagamento relativos a despesas efectuadas por transferência bancária, por débito em conta ou por cheque, comprovados pelo respectivo extracto bancário demonstrativo do pagamento, nos termos previstos nas cláusulas contratuais e nos números seguintes.\n\n4 - O pagamento é proporcional à realização da operação, nos termos das condições contratuais, devendo o montante da última prestação representar, pelo menos, 20 % da despesa total elegível.\n\n5 - Podem ser apresentados até 12 pedidos de pagamento por operação."
+  },
+  "124968808": {
+   "fragment_id": "124952048",
+   "type": 11,
+   "heading": "Artigo 19.º — Análise dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Análise dos pedidos de pagamento\n\n1 - As DRAP analisam os pedidos de pagamento e emitem o relatório de análise, no prazo máximo de 30 dias úteis a contar da data da apresentação dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - São realizadas visitas aos locais da operação pelo menos uma vez durante o seu período de execução e, preferencialmente, aquando da análise do último pedido de pagamento.\n\n5 - Para efeitos de pagamento ao beneficiário, as DRAP comunicam a validação da despesa ao IFAP, I. P."
+  },
+  "124968809": {
+   "fragment_id": "124952049",
+   "type": 1,
+   "heading": "Capítulo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III"
+  },
+  "124968810": {
+   "fragment_id": "124952050",
+   "type": 8,
+   "heading": "Secção I — Aquisição de serviços de aconselhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Aquisição de serviços de aconselhamento"
+  },
+  "124968811": {
+   "fragment_id": "124952051",
+   "type": 11,
+   "heading": "Artigo 20.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos no presente capítulo, relativo à subacção n.º 4.3.1.2, «Aquisição de serviços de aconselhamento», devem reunir as seguintes condições:\n\na) Encontrarem-se legalmente constituídos, quando se trate de pessoas colectivas;\n\nb) Possuírem a situação regularizada face à administração fiscal e à segurança social;\n\nc) Não estarem abrangidos por quaisquer disposições de exclusão resultante de incumprimento de obrigações decorrentes de operações co-financiadas, realizadas desde 2000;\n\nd) Deterem a titularidade de uma exploração agrícola;\n\ne) Cumprirem as condições legais necessárias ao exercício da respectiva actividade;\n\nf) Terem um sistema de contabilidade actualizada e organizada, ou um sistema de contabilidade simplificada nos termos das normas da rede de informação e contabilidade agrícola, ou outros equiparados e reconhecidos para o efeito;\n\ng) Terem contratado um serviço de aconselhamento com uma entidade prestadora reconhecida, nos termos do disposto no artigo 10.º da Portaria n.º 353/2008, de 8 de Maio.\n\n2 - A elegibilidade do serviço referido na alínea g) do número anterior é limitada a um serviço por cada período de três anos."
+  },
+  "124968812": {
+   "fragment_id": "124952052",
+   "type": 11,
+   "heading": "Artigo 21.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Obrigações dos beneficiários\n\nOs beneficiários dos apoios previstos na subacção n.º 4.3.1.2, «Aquisição de serviços de aconselhamento», devem cumprir, para além das obrigações enunciadas no Decreto-Lei n.º 37-A/2008, de 5 de Março, as seguintes:\n\na) Cumprir as obrigações legais, designadamente as fiscais e para com a segurança social;\n\nb) Manter as condições legais necessárias ao exercício da respectiva actividade agrícola, durante o período de duração do contrato do serviço de aconselhamento;\n\nc) Garantir que todos os pagamentos e recebimentos ligados à operação são efectuados através de uma conta bancária específica para o efeito."
+  },
+  "124968813": {
+   "fragment_id": "124952053",
+   "type": 11,
+   "heading": "Artigo 22.º — Forma, nível e limites dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Forma, nível e limites dos apoios\n\n1 - Os apoios são concedidos sob a forma de subsídios não reembolsáveis.\n\n2 - O nível dos apoios é concedido até 80 % do custo total elegível, por um período de três anos, sendo o limite máximo do apoio estabelecido da seguinte forma:\n\na) (euro) 1500 para os:\n\ni) Jovens agricultores;\n\nii) Agricultores cuja actividade agrícola se desenvolva em áreas submetidas a obrigações no âmbito da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0676\" title=\"Link para Directiva da Comunidade Europeia\">91/676/CEE</a>, do Conselho, de 12 de Dezembro, relativa à protecção das águas contra a poluição causada por nitratos de origem agrícola;\n\niii) Agricultores cuja actividade agrícola se desenvolva em áreas submetidas a obrigações no âmbito da Rede Natura 2000;\n\nb) (euro) 1250 para os restantes agricultores."
+  },
+  "124968814": {
+   "fragment_id": "124952054",
+   "type": 11,
+   "heading": "Artigo 23.º — Critérios de selecção dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Critérios de selecção dos pedidos de apoio\n\n1 - Os pedidos de apoio submetidos no âmbito da subacção n.º 4.3.1.2, «Aquisição de serviços de aconselhamento», e que cumpram os critérios de elegibilidade que lhe são aplicáveis, são hierarquizados pela seguinte ordem:\n\na) Explorações localizadas em áreas submetidas a obrigações no âmbito da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0676\" title=\"Link para Directiva da Comunidade Europeia\">91/676/CEE</a>, do Conselho, de 12 de Dezembro, relativa à protecção das águas contra a poluição causada por nitratos de origem agrícola, que sejam detentoras de efectivo pecuário;\n\nb) Explorações localizadas em áreas submetidas a obrigações no âmbito da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0676\" title=\"Link para Directiva da Comunidade Europeia\">91/676/CEE</a>, do Conselho, de 12 de Dezembro, relativa à protecção das águas contra a poluição causada por nitratos de origem agrícola, que não sejam detentoras de efectivo pecuário;\n\nc) Explorações localizadas em áreas submetidas a obrigações no âmbito da Rede Natura 2000 que sejam detentoras de efectivo pecuário;\n\nd) Explorações localizadas em áreas submetidas a obrigações no âmbito da Rede Natura 2000 que não sejam detentoras de efectivo pecuário;\n\ne) Explorações com efectivo pecuário não abrangidas pelas alíneas a) e c);\n\nf) Outras explorações.\n\n2 - Para efeitos de aplicação do disposto no número anterior, os pedidos de apoio incluídos numa determinada prioridade são hierarquizados, em caso de insuficiente dotação orçamental, por ordem decrescente da área das parcelas da exploração que se encontrem submetidas às obrigações mencionadas nas alíneas a) a d) e, no caso das alíneas e) e f), por ordem decrescente da dimensão económica da exploração."
+  },
+  "124968815": {
+   "fragment_id": "124952055",
+   "type": 8,
+   "heading": "Secção II — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento"
+  },
+  "124968816": {
+   "fragment_id": "124952056",
+   "type": 11,
+   "heading": "Artigo 24.º — Apresentação dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Apresentação dos pedidos de apoio\n\n1 - Ao abrigo do disposto na alínea a) do n.º 2 do artigo 6.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, os pedidos de apoio podem ser submetidos entre os dias 1 e 10 de cada mês.\n\n2 - A apresentação dos pedidos de apoio efectua-se através do preenchimento e envio de formulário electrónico disponível no sítio da Internet do PRODER, em www.proder.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de apoio.\n\n3 - Para efeitos do disposto no n.º 3 do artigo 10.º do Decreto-Lei n.º 37-A/2008, de 5 de Março, com a apresentação do pedido é assinado termo de aceitação das condições de atribuição do apoio, que se converte em definitivo após a comunicação referida no n.º 4 do artigo seguinte."
+  },
+  "124968817": {
+   "fragment_id": "124952057",
+   "type": 11,
+   "heading": "Artigo 25.º — Análise e decisão dos pedidos de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Análise e decisão dos pedidos de apoio\n\n1 - As DRAP analisam e emitem parecer sobre os pedidos de apoio, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário, a aplicação dos factores referidos no artigo 23.º, bem como o apuramento do montante do custo total elegível, e procedem à respectiva hierarquização.\n\n2 - São solicitados aos candidatos, quando se justifique, pelas DRAP, os documentos exigidos no formulário do pedido ou elementos complementares constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - O parecer referido no n.º 1 é emitido no prazo máximo de 60 dias úteis a contar do termo de apresentação dos pedidos de apoio e remetido com a correspondente hierarquização à autoridade de gestão.\n\n4 - Os pedidos de apoio são objecto de decisão pelo gestor, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pelas DRAP, no prazo máximo de 15 dias úteis a contar da data de recepção do parecer, prevista no n.º 3."
+  },
+  "124968818": {
+   "fragment_id": "124952058",
+   "type": 11,
+   "heading": "Artigo 26.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efectua-se através de formulário electrónico disponível no sítio da Internet em www.ifap.pt, os quais estão sujeitos a confirmação por via electrónica, considerando-se a data de envio como a data de apresentação do pedido de pagamento.\n\n2 - O pedido de pagamento reporta-se ao serviço de aconselhamento efectivamente realizado e pago, devendo os respectivos comprovativos ser entregues nas DRAP, no prazo de 5 dias úteis após a data mencionada no número anterior, acompanhadas de uma cópia do plano de acção referido na alínea a) do n.º 3 do artigo 10.º da Portaria n.º 353/2008, de 8 de Maio.\n\n3 - Apenas são aceites os pedidos de pagamento relativos a despesas efectuadas por transferência bancária, por débito em conta ou por cheque, comprovados pelo respectivo extracto bancário demonstrativo do pagamento, nos termos previstos nas cláusulas contratuais e nos artigos seguintes.\n\n4 - É apresentado um único pedido de pagamento, correspondente ao serviço de aconselhamento prestado."
+  },
+  "124968819": {
+   "fragment_id": "124952059",
+   "type": 11,
+   "heading": "Artigo 27.º — Análise dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Análise dos pedidos de pagamento\n\n1 - As DRAP analisam os pedidos de pagamento e emitem o relatório de análise, no prazo máximo de 30 dias úteis a contar da data de apresentação dos pedidos.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido de pagamento.\n\n3 - Do relatório de análise referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respectivo pedido de pagamento.\n\n4 - Para efeitos de pagamento aos beneficiários, as DRAP comunicam a validação da despesa ao IFAP, I. P."
+  },
+  "124968820": {
+   "fragment_id": "124952060",
+   "type": 1,
+   "heading": "Capítulo IV — Pagamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pagamento e controlo"
+  },
+  "124968821": {
+   "fragment_id": "124952061",
+   "type": 11,
+   "heading": "Artigo 28.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Pagamento\n\nOs pagamentos dos apoios são efectuados pelo IFAP, I. P., por transferência bancária, para a conta referida nas alíneas j) do artigo 9.º e c) do artigo 21.º, no prazo máximo de 10 dias úteis após a emissão da autorização de despesa."
+  },
+  "124968822": {
+   "fragment_id": "124952062",
+   "type": 11,
+   "heading": "Artigo 29.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Controlo\n\n1 - No apoio concedido a título da subacção n.º 4.3.1.1, «Desenvolvimento de serviços de aconselhamento», a operação está sujeita a acções de controlo a partir da celebração de contrato de financiamento, nomeadamente para verificação do respeito do n.º 1 do artigo 72.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2005&id=305R1698\" title=\"Link para Regulamento da Comunidade Europeia\">1698/2005</a>, do Conselho, de 20 de Setembro.\n\n2 - Para além do disposto no número anterior, a operação está sujeita a controlo até 24 meses após o pagamento final.\n\n3 - As acções de controlo podem ser efectuadas sem aviso prévio, sendo o beneficiário notificado para se pronunciar no prazo de 10 dias úteis sobre o respectivo relatório da visita.\n\n4 - O disposto nos n.os 2 e 3 é aplicável ao apoio concedido a título da subacção n.º 4.3.1.2, «Aquisição de serviços de aconselhamento»."
+  },
+  "124968823": {
+   "fragment_id": "124952063",
+   "type": 11,
+   "heading": "Artigo 30.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Reduções e exclusões\n\nEm caso de incumprimento ou qualquer irregularidade detectada, nomeadamente no âmbito dos controlos realizados, são aplicáveis ao beneficiário as reduções e as exclusões previstas no Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2006&id=306R1975\" title=\"Link para Regulamento da Comunidade Europeia\">1975/2006</a>, da Comissão, de 7 de Dezembro."
+  },
+  "124968824": {
+   "fragment_id": "124952064",
+   "type": 11,
+   "heading": "Artigo 31.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Disposições transitórias\n\n1 - As despesas relativas à subacção n.º 4.3.1.1, efectuadas após a obtenção do reconhecimento ao abrigo da Portaria n.º 353/2008, de 8 de Maio, são consideradas elegíveis quando os candidatos apresentem os pedidos de apoio ao primeiro concurso em que se enquadrem.\n\n2 - Às despesas referidas no n.º 1 não é aplicável o disposto na alínea j) do artigo 9.º"
+  },
+  "124968825": {
+   "fragment_id": "124952065",
+   "type": 14,
+   "heading": "Anexo I — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Despesas elegíveis e não elegíveis\n\n(a que se refere o artigo 6.º)\n\nDespesas elegíveis\n\n1 - No âmbito da subacção n.º 4.3.1.1, «Desenvolvimento de serviços de aconselhamento», são elegíveis, designadamente, as seguintes despesas:\n\na) Remunerações e encargos sociais de colaboradores permanentes adstritos ao serviço de aconselhamento;\n\nb) Aquisição de equipamento de escritório, informático, telecomunicações e áudio-visual para o serviço de aconselhamento;\n\nc) Aquisição de software específico para o serviço de aconselhamento;\n\nd) Aquisição de veículos automóveis, desde que se comprovem serem indispensáveis às actividades de aconselhamento;\n\ne) Desenvolvimento de instrumentos de aconselhamento (nomeadamente custos com manuais técnicos, ou com elaboração de páginas de Internet dedicadas ao serviço de aconselhamento).\n\n2 - No âmbito da subacção n.º 4.3.1.2, «Aquisição de serviços de aconselhamento», é elegível a despesa com aquisição do serviço de aconselhamento agrícola.\n\n3 - O IVA pode ser considerado elegível nas seguintes situações, a demonstrar através de certidão emitida pela repartição de finanças:\n\na) Regime de isenção - o IVA é totalmente elegível, com excepção dos isentos ao abrigo do artigo 53.º do CIVA, cujo IVA não é considerado elegível;\n\nb) Regimes mistos:\n\ni) Afectação real - o IVA é elegível no caso da actividade em causa constituir a parte isenta da actividade do beneficiário;\n\nii) Pro rata: o IVA é elegível na percentagem em que não seja dedutível.\n\nDespesas não elegíveis\n\n1 - Aquisição ou amortização de terrenos ou de edifícios, bem como a amortização de bens móveis.\n\n2 - Despesas notariais e de registo decorrentes da compra de imóveis.\n\n3 - Substituição de equipamento equivalente, excepto se a substituição implicar a compra de equipamentos cuja valia tecnológica seja considerada relevante para a prestação do serviço de aconselhamento.\n\n4 - Aquisição de bens de equipamento em estado de uso.\n\n5 - Investimentos não imputáveis ao serviço de aconselhamento.\n\n6 - Juros das dívidas.\n\n7 - O IVA não pode ser considerado elegível nas seguintes situações:\n\na) Regime de isenção ao abrigo do artigo 53.º do CIVA;\n\nb) Regimes mistos:\n\ni) Afectação real - o IVA não é elegível no caso da actividade em causa constituir a parte não isenta da actividade do beneficiário;\n\nii) Pro rata - o IVA não é elegível na percentagem em que seja dedutível;\n\nc) Regime normal - o IVA não é elegível."
+  },
+  "124968826": {
+   "fragment_id": "124952066",
+   "type": 14,
+   "heading": "Anexo II — Cálculo da valia global da operação (VGO)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Cálculo da valia global da operação (VGO)\n\n(a que se refere o n.º 2 do artigo 11.º)\n\n1 - A VGO é obtida por aplicação da seguinte fórmula:\n\nVGO = 0,40 TR + 0,60 VE\n\nNa qual:\n\na) Maior área territorial rural de incidência dos serviços a prestar (TR);\n\nb) Valia estratégica (VE) dos serviços a desenvolver, que valoriza a contribuição da operação em função do número total de agricultores face à área territorial rural de incidência.\n\n2 - A pontuação dos pedidos de apoio efectua-se de acordo com a seguinte metodologia:\n\na) Cada factor é pontuado de 0 a 20 pontos de acordo com a grelha de pontuação definida no aviso de abertura do concurso para cada coeficiente;\n\nb) Com base no somatório dos ponderadores definidos no aviso de abertura do concurso para cada um dos coeficientes determina-se a VGO;\n\nc) Os pedidos de apoio são hierarquizados por ordem decrescente de acordo com a VGO obtida (arredondamento à centésima), até ao limite orçamental definido no aviso de abertura do concurso."
+  }
+ }
+}

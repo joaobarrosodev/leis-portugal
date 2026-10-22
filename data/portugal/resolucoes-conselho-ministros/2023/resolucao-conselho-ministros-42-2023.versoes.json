@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:212837356:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2023-942710411",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/42-2023-212837356",
+ "source_lastmod": "2026-05-22",
+ "versions": [
+  {
+   "date": "2023-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1125655475",
+    "942838175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1125655475": {
+   "fragment_id": "942837875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2026-05-27",
+   "changed_by": [],
+   "markdown": "Sumário: Autoriza a Secretaria-Geral do Ministério da Administração Interna a realizar a despesa relativa às obras de construção das instalações da Divisão Policial de Odivelas.\n\nA Secretaria-Geral do Ministério da Administração Interna é a entidade responsável pela execução financeira dos procedimentos tendentes à execução do Decreto-Lei n.º 54/2022, de 12 de agosto, que estabelece a programação de infraestruturas e equipamentos das forças de segurança e serviços do Ministério da Administração Interna, para o quinquénio de 2022-2026, nos termos do n.º 1 do artigo 6.º\n\nNeste âmbito, a área governativa da administração interna procura estabelecer parcerias com as autarquias locais para a execução das responsabilidades de construção e reabilitação de instalações e edifícios.\n\nConsiderando que os Municípios constituem parceiros privilegiados do Governo na manutenção de um Estado seguro, pretende-se, através da Secretaria-Geral do Ministério da Administração Interna e da Polícia de Segurança Pública (PSP), celebrar um contrato de cooperação interadministrativo com Município de Odivelas, tendo em vista a contratação de uma empreitada de obras públicas para a construção das instalações da Divisão Policial da PSP de Odivelas.\n\nA nova Divisão Policial da PSP de Odivelas permitirá albergar, para além dos serviços da Divisão, o efetivo da 71.ª esquadra (Odivelas) e 73.ª esquadra (Pontinha), bem como as esquadras especializadas de trânsito, investigação criminal e intervenção e fiscalização policial (atualmente sediada na Divisão de Loures).\n\nO encargo orçamental máximo decorrente do reembolso ao Município com a contratação de empreitada e serviços de fiscalização e coordenação de segurança em obra, para a construção das instalações da Divisão Policial de Odivelas, durante os anos económicos de 2023 a 2025, é de 5 800 689,57 EUR, ao qual acresce o imposto sobre valor acrescentado à taxa legal em vigor.\n\nAssim:\n\nNos termos do n.º 4 do artigo 7.º do Decreto-Lei n.º 54/2022, de 12 de agosto, da alínea e) do n.º 1 do artigo 17.º e dos n.os 1 e 2 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, do n.º 1 do artigo 36.º e do n.º 1 do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Autorizar a Secretaria-Geral do Ministério da Administração Interna (SGMAI) a realizar a despesa relativa ao contrato de cooperação interadministrativo celebrado com o Município de Odivelas, tendo em vista as obras de construção das instalações da Divisão Policial da Polícia de Segurança Pública (PSP) de Odivelas, para os anos de 2023 a 2028, até ao montante máximo de 5 800 689,57 €, acrescido de imposto sobre o valor acrescentado (IVA), à taxa legal em vigor.\n\n2 - Determinar que os encargos financeiros referidos no número anterior não podem exceder, em cada ano económico, os seguintes montantes, acrescidos de IVA, à taxa legal em vigor:\n\na) 2023: 0,00 €;\n\nb) 2024: 0,00 €;\n\nc) 2025: 0,00 €;\n\nd) 2026: 2 895 754,79 €;\n\ne) 2027: 2 611 093,31 €;\n\nf) 2028: 293 841,47 €.\n\n3 - Determinar que os montantes fixados no número anterior para cada ano económico podem ser acrescidos do saldo apurado no ano que lhe antecede.\n\n4 - Determinar que os encargos financeiros decorrentes da presente resolução são satisfeitos por verbas inscritas e a inscrever no orçamento da SGMAI, na medida «Infraestruturas», a que se refere o anexo ao Decreto-Lei n.º 54/2022, de 12 de agosto.\n\n5 - Determinar que, para os compromissos assumidos pelo Estado que excedam o período de vigência do Decreto-Lei n.º 54/2022, de 12 de agosto, nos termos do artigo 12.º do mesmo diploma, é assegurado o financiamento necessário à sua execução.\n\n6 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área da administração interna a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.\n\n7 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação."
+  },
+  "942838175": {
+   "fragment_id": "942838075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 27 de abril de 2023. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência."
+  }
+ }
+}

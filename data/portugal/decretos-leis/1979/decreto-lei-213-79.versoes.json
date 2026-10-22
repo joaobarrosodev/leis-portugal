@@ -1,0 +1,586 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:382181:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1979-170931519",
+ "dre_path": "/dr/detalhe/decreto-lei/213-1979-382181",
+ "source_lastmod": "2025-06-25",
+ "versions": [
+  {
+   "date": "1979-07-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "923491047",
+    "170932011",
+    "170932012",
+    "170932013",
+    "170932014",
+    "170932015",
+    "170932016",
+    "170932017",
+    "170932018",
+    "170932019",
+    "170932020",
+    "170932021",
+    "170932022",
+    "170932023",
+    "170932024",
+    "170932025",
+    "170932026",
+    "170932027",
+    "170932028",
+    "170932029",
+    "170932030",
+    "170932031",
+    "170932032",
+    "170932033"
+   ]
+  },
+  {
+   "date": "1979-09-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:370623:por",
+     "title": "Declaração",
+     "published": "1979-09-10",
+     "dre_path": "/dr/detalhe/declaracao/1979-370623"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 12.º"
+   ],
+   "fragments": [
+    "170932010",
+    "170932011",
+    "170932012",
+    "170932013",
+    "170932014",
+    "170932015",
+    "170932016",
+    "170932017",
+    "170932018",
+    "170932019",
+    "170932020",
+    "170932021",
+    "922454538",
+    "170932023",
+    "170932024",
+    "170932025",
+    "170932026",
+    "170932027",
+    "170932028",
+    "170932029",
+    "170932030",
+    "170932031",
+    "170932032",
+    "170932033",
+    "170932034"
+   ]
+  },
+  {
+   "date": "2018-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115235757:por",
+     "title": "Decreto-Lei n.º 32/2018",
+     "published": "2018-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2018-115235757"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "923491047",
+    "923491048",
+    "923491049",
+    "923491050",
+    "923491051",
+    "923491052",
+    "923491053",
+    "923491054",
+    "923491055",
+    "923491056",
+    "923491057",
+    "923491058",
+    "923491059",
+    "923491060",
+    "923491061",
+    "923491062",
+    "923491063",
+    "923491064",
+    "923491065",
+    "923491066",
+    "923491067",
+    "923491068",
+    "923491069",
+    "923491070",
+    "923491071"
+   ]
+  }
+ ],
+ "fragments": {
+  "923491047": {
+   "fragment_id": "170931520",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-05-13",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 213/79\n\nde 14 de Julho\n\nO n.º 6 do artigo 26.º da Lei n.º 80/77, de 26 de Outubro, atribui ao Governo o encargo de regular, por decreto-lei, as condições do empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 1977 - Nacionalizações e expropriações», que não foram definidas na referida lei.\n\nO presente diploma tem a finalidade de dar cumprimento àquela incumbência.\n\nDeste modo:\n\nO Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "170932011": {
+   "fragment_id": "170931521",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - O empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 1977 - Nacionalizações e expropriações», autorizado pelo artigo 26.º da Lei n.º 80/77, de 26 de Outubro, corresponderá a obrigações com o valor nominal total de 100 milhões de contos e o seu serviço fica a cargo da Junta do Crédito Público.\n\n2 - É o Ministro das Finanças e do Plano autorizado a mandar emitir, pela Direcção-Geral do Tesouro, a obrigação geral do montante referido no número anterior."
+  },
+  "170932012": {
+   "fragment_id": "170931522",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - A emissão deste empréstimo será feita em obrigações com o valor nominal de 1000$00 e em obrigações de valor inferior correspondentes a 100$00 ou a múltiplos desta quantia.\n\n2 - A representação das obrigações de 1000$00 será feita em títulos de cupão de 1 e de 10 obrigações ou em certificados de dívida inscrita representativos de qualquer quantidade desses títulos.\n\n3 - As obrigações de valor inferior a 1000$00 destinam-se a dar cumprimento ao disposto no artigo 23.º da Lei n.º 80/77, devendo o pagamento dos seus juros ser anotado por aposição de carimbo."
+  },
+  "170932013": {
+   "fragment_id": "170931523",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - As obrigações referidas no n.º 3 do artigo anterior só serão entregues depois de conhecido o valor global definitivo da indemnização atribuída a cada titular.\n\n2 - Quando este valor terminar em 50$00 exactos far-se-á o arredondamento para a centena de escudos imediatamente superior."
+  },
+  "170932014": {
+   "fragment_id": "170931524",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs títulos e certificados representativos deste empréstimo levarão as assinaturas de chancela do Ministro das Finanças e do Plano, do vogal presidente e de um dos outros vogais da Junta do Crédito Público, bem como o selo branco da mesma Junta."
+  },
+  "170932015": {
+   "fragment_id": "170931525",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO empréstimo considera-se desdobrado em doze classes, cujas características, quanto a taxa de juro, anos de amortização e período de diferimento, são as constantes do quadro anexo à Lei n.º 80/77."
+  },
+  "170932016": {
+   "fragment_id": "170931526",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs juros dos títulos e certificados deste empréstimo serão pagos anualmente e as datas das amortizações coincidirão com as dos vencimentos dos juros."
+  },
+  "170932017": {
+   "fragment_id": "170931527",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs datas da emissão do primeiro pagamento de juro e da primeira amortização são, para cada classe, as seguintes:\n\n(ver documento original)"
+  },
+  "170932018": {
+   "fragment_id": "170931528",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nPara os casos previstos pelo artigo 20.º da Lei n.º 80/77, poderá o Governo autorizar, tendo em conta as possibilidades orçamentais, que a amortização dos primeiros 50000$00 correspondentes à classe I, prevista no artigo anterior do presente decreto-lei, seja substituída por um pagamento antecipado."
+  },
+  "170932019": {
+   "fragment_id": "170931529",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nPara efeito, exclusivamente, da capitalização a que se refere o artigo 24.º da Lei n.º 80/77, consideram-se emitidas em 1 de Outubro de 1979 todas as obrigações das doze classes deste empréstimo."
+  },
+  "170932020": {
+   "fragment_id": "170931530",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n- 1 - Os titulares de obrigações das classes II a XII receberão, conjuntamente com o primeiro juro e relativamente aos períodos de tempo a seguir indicados, uma remuneração ao capital que lhes tenha sido atribuído como indemnização:\n\n(ver documento original)\n\n2 - No cálculo da remuneração a que se refere o número anterior será utilizada a taxa de juro que, para cada classe, consta do quadro anexo à Lei n.º 80/77."
+  },
+  "170932021": {
+   "fragment_id": "170931531",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n- 1 - As quantidades de obrigações a amortizar serão definidas, por despacho do Ministro das Finanças e do Plano, seis meses antes da data de cada amortização, atendendo ao valor em circulação para cada classe.\n\n2 - As obrigações poderão ser amortizadas por sorteio, pelo seu valor nominal, ou por compra no mercado.\n\n3 - O reembolso do capital dos títulos representativos das obrigações de valor inferior a 1000$00 será efectuado na data correspondente à última amortização da respectiva classe."
+  },
+  "170932022": {
+   "fragment_id": "170931532",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n- 1 - Até à troca pelos títulos definitivos, as obrigações serão representadas por cautelas, mediante as quais poderão ser pagos os juros e a remuneração ao capital a que se refere o artigo 9.º, nelas sendo aposto o carimbo respectivo.\n\n2 - Cada cautela só poderá representar títulos de uma classe e corresponderá à mínima quantidade de títulos que se comporte no seu valor."
+  },
+  "170932023": {
+   "fragment_id": "170931533",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n- 1 - Os pagamentos a que se refere o n.º 1 do artigo anterior serão efectuados pelas instituições de crédito às quais a Junta do Crédito Público tiver enviado as respectivas cautelas.\n\n2 - Para o efeito do disposto no número anterior a Junta do Crédito Público entregará a cada instituição de crédito as importâncias necessárias."
+  },
+  "170932024": {
+   "fragment_id": "170931534",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nÉ atribuída às cautelas a mesma possibilidade de mobilização que o capítulo IV da Lei n.º 80/77 prevê para os títulos representativos do direito à indemnização."
+  },
+  "170932025": {
+   "fragment_id": "170931535",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAs cautelas e os títulos do presente empréstimo não poderão ser objecto de operações de desdobramento, salvo nos casos previstos no artigo anterior."
+  },
+  "170932026": {
+   "fragment_id": "170931536",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nA troca de cautelas pelos títulos definitivos será feita em data a fixar pela Junta do Crédito Público."
+  },
+  "170932027": {
+   "fragment_id": "170931537",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nQuando vierem a ser emitidas cautelas correspondentes a títulos de classes já totalmente amortizadas, os seus titulares adquirem o direito de receber imediatamente os juros vencidos e o correspondente valor do reembolso."
+  },
+  "170932028": {
+   "fragment_id": "170931538",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs títulos e certificados representativos das obrigações emitidas gozam da garantia do pagamento integral dos juros e reembolsos, a partir do vencimento ou amortização, por força das receitas gerais do Estado, e ainda dos demais direitos, isenções e garantias constantes do artigo 22.º do Decreto-Lei n.º 43453, de 30 de Dezembro de 1960, que lhes forem aplicáveis."
+  },
+  "170932029": {
+   "fragment_id": "170931539",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nÉ aplicável ao presente empréstimo o disposto nos artigos 4.º e 5.º do Decreto-Lei n.º 45142, de 17 de Junho de 1963."
+  },
+  "170932030": {
+   "fragment_id": "170931540",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nNo Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo a que se refere este diploma."
+  },
+  "170932031": {
+   "fragment_id": "170931541",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nAs despesas com a emissão do empréstimo, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças e do Plano inscritas nos orçamentos dos anos económicos em que tiverem lugar."
+  },
+  "170932032": {
+   "fragment_id": "170931542",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nA Junta do Crédito Público enviará às instituições de crédito instruções julgadas necessárias para execução deste decreto-lei."
+  },
+  "170932033": {
+   "fragment_id": "170931543",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nConsideram-se prejudicadas as disposições do Decreto-Lei n.º 539/76, de 9 de Julho, que contrariem os preceitos da Lei n.º 80/77 e do presente diploma."
+  },
+  "170932010": {
+   "fragment_id": "170931520",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 213/79\n\nde 14 de Julho\n\nO n.º 6 do artigo 26.º da Lei n.º 80/77, de 26 de Outubro, atribui ao Governo o encargo de regular, por decreto-lei, as condições do empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 1977 - Nacionalizações e expropriações», que não foram definidas na referida lei.\n\nO presente diploma tem a finalidade de dar cumprimento àquela incumbência.\n\nDeste modo:\n\nO Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "922454538": {
+   "fragment_id": "170931532",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1979-09-10",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 209/1979, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-370623), em vigor a partir de 1979-09-10"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - Até à troca pelos títulos definitivos, as obrigações serão representadas por cautelas, mediante as quais poderão ser pagos os juros e a remuneração ao capital a que se refere o artigo 10.º, nelas sendo aposto o carimbo respectivo.\n\n2 - Cada cautela só poderá representar títulos de uma classe e corresponderá à mínima quantidade de títulos que se comporte no seu valor.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 209/1979, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-370623), em vigor a partir de 1979-09-10"
+  },
+  "170932034": {
+   "fragment_id": "170931544",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Junho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.\n\nPromulgado em 9 de Julho de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "923491048": {
+   "fragment_id": "170931521",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1 - O empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 1977 - Nacionalizações e expropriações», autorizado pelo artigo 26.º da Lei n.º 80/77, de 26 de Outubro, corresponderá a obrigações com o valor nominal total de 100 milhões de contos e o seu serviço fica a cargo da Junta do Crédito Público.\n\n2 - É o Ministro das Finanças e do Plano autorizado a mandar emitir, pela Direcção-Geral do Tesouro, a obrigação geral do montante referido no número anterior.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491049": {
+   "fragment_id": "170931522",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - A emissão deste empréstimo será feita em obrigações com o valor nominal de 1000$00 e em obrigações de valor inferior correspondentes a 100$00 ou a múltiplos desta quantia.\n\n2 - A representação das obrigações de 1000$00 será feita em títulos de cupão de 1 e de 10 obrigações ou em certificados de dívida inscrita representativos de qualquer quantidade desses títulos.\n\n3 - As obrigações de valor inferior a 1000$00 destinam-se a dar cumprimento ao disposto no artigo 23.º da Lei n.º 80/77, devendo o pagamento dos seus juros ser anotado por aposição de carimbo.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491050": {
+   "fragment_id": "170931523",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 3.º\n\n- 1 - As obrigações referidas no n.º 3 do artigo anterior só serão entregues depois de conhecido o valor global definitivo da indemnização atribuída a cada titular.\n\n2 - Quando este valor terminar em 50$00 exactos far-se-á o arredondamento para a centena de escudos imediatamente superior.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491051": {
+   "fragment_id": "170931524",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs títulos e certificados representativos deste empréstimo levarão as assinaturas de chancela do Ministro das Finanças e do Plano, do vogal presidente e de um dos outros vogais da Junta do Crédito Público, bem como o selo branco da mesma Junta.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491052": {
+   "fragment_id": "170931525",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 5.º\n\nO empréstimo considera-se desdobrado em doze classes, cujas características, quanto a taxa de juro, anos de amortização e período de diferimento, são as constantes do quadro anexo à Lei n.º 80/77.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491053": {
+   "fragment_id": "170931526",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 6.º\n\nOs juros dos títulos e certificados deste empréstimo serão pagos anualmente e as datas das amortizações coincidirão com as dos vencimentos dos juros.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491054": {
+   "fragment_id": "170931527",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 7.º\n\nAs datas da emissão do primeiro pagamento de juro e da primeira amortização são, para cada classe, as seguintes:\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491055": {
+   "fragment_id": "170931528",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 8.º\n\nPara os casos previstos pelo artigo 20.º da Lei n.º 80/77, poderá o Governo autorizar, tendo em conta as possibilidades orçamentais, que a amortização dos primeiros 50000$00 correspondentes à classe I, prevista no artigo anterior do presente decreto-lei, seja substituída por um pagamento antecipado.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491056": {
+   "fragment_id": "170931529",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 9.º\n\nPara efeito, exclusivamente, da capitalização a que se refere o artigo 24.º da Lei n.º 80/77, consideram-se emitidas em 1 de Outubro de 1979 todas as obrigações das doze classes deste empréstimo.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491057": {
+   "fragment_id": "170931530",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 10.º\n\n- 1 - Os titulares de obrigações das classes II a XII receberão, conjuntamente com o primeiro juro e relativamente aos períodos de tempo a seguir indicados, uma remuneração ao capital que lhes tenha sido atribuído como indemnização:\n\n(ver documento original)\n\n2 - No cálculo da remuneração a que se refere o número anterior será utilizada a taxa de juro que, para cada classe, consta do quadro anexo à Lei n.º 80/77.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491058": {
+   "fragment_id": "170931531",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 11.º\n\n- 1 - As quantidades de obrigações a amortizar serão definidas, por despacho do Ministro das Finanças e do Plano, seis meses antes da data de cada amortização, atendendo ao valor em circulação para cada classe.\n\n2 - As obrigações poderão ser amortizadas por sorteio, pelo seu valor nominal, ou por compra no mercado.\n\n3 - O reembolso do capital dos títulos representativos das obrigações de valor inferior a 1000$00 será efectuado na data correspondente à última amortização da respectiva classe.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491059": {
+   "fragment_id": "170931532",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Retificado pelo/a [Declaração - Diário da República n.º 209/1979, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-370623), em vigor a partir de 1979-09-10"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - Até à troca pelos títulos definitivos, as obrigações serão representadas por cautelas, mediante as quais poderão ser pagos os juros e a remuneração ao capital a que se refere o artigo 10.º, nelas sendo aposto o carimbo respectivo.\n\n2 - Cada cautela só poderá representar títulos de uma classe e corresponderá à mínima quantidade de títulos que se comporte no seu valor.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Retificado pelo/a [Declaração - Diário da República n.º 209/1979, Série I de 1979-09-10](https://diariodarepublica.pt/dr/detalhe/declaracao/1979-370623), em vigor a partir de 1979-09-10"
+  },
+  "923491060": {
+   "fragment_id": "170931533",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 13.º\n\n- 1 - Os pagamentos a que se refere o n.º 1 do artigo anterior serão efectuados pelas instituições de crédito às quais a Junta do Crédito Público tiver enviado as respectivas cautelas.\n\n2 - Para o efeito do disposto no número anterior a Junta do Crédito Público entregará a cada instituição de crédito as importâncias necessárias.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491061": {
+   "fragment_id": "170931534",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 14.º\n\nÉ atribuída às cautelas a mesma possibilidade de mobilização que o capítulo IV da Lei n.º 80/77 prevê para os títulos representativos do direito à indemnização.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491062": {
+   "fragment_id": "170931535",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 15.º\n\nAs cautelas e os títulos do presente empréstimo não poderão ser objecto de operações de desdobramento, salvo nos casos previstos no artigo anterior.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491063": {
+   "fragment_id": "170931536",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 16.º\n\nA troca de cautelas pelos títulos definitivos será feita em data a fixar pela Junta do Crédito Público.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491064": {
+   "fragment_id": "170931537",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 17.º\n\nQuando vierem a ser emitidas cautelas correspondentes a títulos de classes já totalmente amortizadas, os seus titulares adquirem o direito de receber imediatamente os juros vencidos e o correspondente valor do reembolso.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491065": {
+   "fragment_id": "170931538",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 18.º\n\nOs títulos e certificados representativos das obrigações emitidas gozam da garantia do pagamento integral dos juros e reembolsos, a partir do vencimento ou amortização, por força das receitas gerais do Estado, e ainda dos demais direitos, isenções e garantias constantes do artigo 22.º do Decreto-Lei n.º 43453, de 30 de Dezembro de 1960, que lhes forem aplicáveis.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491066": {
+   "fragment_id": "170931539",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 19.º\n\nÉ aplicável ao presente empréstimo o disposto nos artigos 4.º e 5.º do Decreto-Lei n.º 45142, de 17 de Junho de 1963.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491067": {
+   "fragment_id": "170931540",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 20.º\n\nNo Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo a que se refere este diploma.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491068": {
+   "fragment_id": "170931541",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 21.º\n\nAs despesas com a emissão do empréstimo, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças e do Plano inscritas nos orçamentos dos anos económicos em que tiverem lugar.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491069": {
+   "fragment_id": "170931542",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 22.º\n\nA Junta do Crédito Público enviará às instituições de crédito instruções julgadas necessárias para execução deste decreto-lei.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491070": {
+   "fragment_id": "170931543",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 23.º\n\nConsideram-se prejudicadas as disposições do Decreto-Lei n.º 539/76, de 9 de Julho, que contrariem os preceitos da Lei n.º 80/77 e do presente diploma.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "923491071": {
+   "fragment_id": "170931544",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Junho de 1979. - Carlos Alberto da Mota Pinto - Manuel Jacinto Nunes.\n\nPromulgado em 9 de Julho de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  }
+ }
+}

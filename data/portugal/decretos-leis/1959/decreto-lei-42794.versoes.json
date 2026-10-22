@@ -1,0 +1,759 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:437049:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1959-184538216",
+ "dre_path": "/dr/detalhe/decreto-lei/42794-1959-437049",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1959-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "184492962",
+    "184492963",
+    "184492964",
+    "184492965",
+    "184492966",
+    "184492967",
+    "184492968",
+    "184492969",
+    "184492970",
+    "184492971",
+    "184492972",
+    "184492973",
+    "184492974",
+    "184543575",
+    "184543576",
+    "184543577",
+    "184543578",
+    "184543579",
+    "184543580",
+    "184543581",
+    "184543582",
+    "184543583",
+    "184543584",
+    "184543585",
+    "184543586",
+    "184543587",
+    "184543588",
+    "184543589",
+    "184543590",
+    "184543591",
+    "184543592",
+    "184543593",
+    "184543594",
+    "184543595",
+    "184543596",
+    "184543597"
+   ]
+  },
+  {
+   "date": "1960-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:513436:por",
+     "title": "Decreto-Lei n.º 43421",
+     "published": "1960-12-22",
+     "dre_path": "/dr/detalhe/decreto-lei/43421-1960-513436"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "184492962",
+    "184492963",
+    "184492964",
+    "184492965",
+    "184492966",
+    "184492967",
+    "184492968",
+    "184492969",
+    "184492970",
+    "184492971",
+    "184492972",
+    "184492973",
+    "184492974",
+    "184543575",
+    "184543576",
+    "184543577",
+    "184543578",
+    "184543579",
+    "184543580",
+    "184307261",
+    "184543582",
+    "184543583",
+    "184543584",
+    "184543585",
+    "184307262",
+    "184543587",
+    "184307263",
+    "184543589",
+    "184543590",
+    "184543591",
+    "184543592",
+    "184543593",
+    "184543594",
+    "184543595",
+    "184543596",
+    "184543597",
+    "184543598"
+   ]
+  },
+  {
+   "date": "1962-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159548:por",
+     "title": "Decreto-Lei n.º 44564",
+     "published": "1962-09-11",
+     "dre_path": "/dr/detalhe/decreto-lei/44564-1962-159548"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "184492962",
+    "184492963",
+    "184492964",
+    "184492965",
+    "184492966",
+    "184492967",
+    "184492968",
+    "184492969",
+    "184492970",
+    "184492971",
+    "184492972",
+    "184492973",
+    "184492974",
+    "184543575",
+    "184543576",
+    "184543577",
+    "184543578",
+    "184543579",
+    "184543580",
+    "184307261",
+    "184543582",
+    "184543583",
+    "184543584",
+    "184543585",
+    "184307267",
+    "184543587",
+    "184307263",
+    "184543589",
+    "184543590",
+    "184543591",
+    "184543592",
+    "184543593",
+    "184543594",
+    "184543595",
+    "184543596",
+    "184543597",
+    "184543598"
+   ]
+  },
+  {
+   "date": "1971-06-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:643946:por",
+     "title": "Decreto-Lei n.º 225/71",
+     "published": "1971-05-28",
+     "dre_path": "/dr/detalhe/decreto-lei/225-1971-643946"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "184492962",
+    "184492963",
+    "184492964",
+    "184492965",
+    "184492966",
+    "184492967",
+    "184492968",
+    "184307271",
+    "184492970",
+    "184492971",
+    "184492972",
+    "184492973",
+    "184492974",
+    "184543575",
+    "184543576",
+    "184543577",
+    "184543578",
+    "184543579",
+    "184543580",
+    "184307261",
+    "184543582",
+    "184543583",
+    "184543584",
+    "184543585",
+    "184307267",
+    "184543587",
+    "184307263",
+    "184543589",
+    "184543590",
+    "184543591",
+    "184543592",
+    "184543593",
+    "184543594",
+    "184543595",
+    "184543596",
+    "184543597",
+    "184543598"
+   ]
+  },
+  {
+   "date": "1976-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:407731:por",
+     "title": "Decreto-Lei n.º 855/76",
+     "published": "1976-12-18",
+     "dre_path": "/dr/detalhe/decreto-lei/855-1976-407731"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "184492962",
+    "184492963",
+    "184492964",
+    "184492965",
+    "184492966",
+    "184492967",
+    "184492968",
+    "184307271",
+    "184492970",
+    "184492971",
+    "184492972",
+    "184492973",
+    "184492974",
+    "184543575",
+    "184687375",
+    "184543577",
+    "184543578",
+    "184543579",
+    "184543580",
+    "184307261",
+    "184543582",
+    "184543583",
+    "184543584",
+    "184543585",
+    "184307267",
+    "184543587",
+    "184307263",
+    "184543589",
+    "184543590",
+    "184543591",
+    "184543592",
+    "184543593",
+    "184543594",
+    "184543595",
+    "184543596",
+    "184543597",
+    "184543598"
+   ]
+  },
+  {
+   "date": "1979-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:370662:por",
+     "title": "Decreto-Lei n.º 360/79",
+     "published": "1979-09-01",
+     "dre_path": "/dr/detalhe/decreto-lei/360-1979-370662"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "184492962",
+    "184492963",
+    "184492964",
+    "184492965",
+    "184492966",
+    "184492967",
+    "184492968",
+    "184307271",
+    "184492970",
+    "184492971",
+    "184492972",
+    "184492973",
+    "184492974",
+    "184543575",
+    "184687375",
+    "184543577",
+    "184543578",
+    "184543579",
+    "184543580",
+    "184307261",
+    "184543582",
+    "184543583",
+    "184543584",
+    "184543585",
+    "184307267",
+    "184543587",
+    "184307263",
+    "184543589",
+    "184687379",
+    "184543591",
+    "184543592",
+    "184543593",
+    "184543594",
+    "184543595",
+    "184543596",
+    "184543597",
+    "184543598"
+   ]
+  },
+  {
+   "date": "1980-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:461816:por",
+     "title": "Decreto-Lei n.º 397/80",
+     "published": "1980-09-25",
+     "dre_path": "/dr/detalhe/decreto-lei/397-1980-461816"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "184492962",
+    "184492963",
+    "184492964",
+    "184492965",
+    "184492966",
+    "184492967",
+    "184492968",
+    "184307271",
+    "184492970",
+    "184492971",
+    "184492972",
+    "184492973",
+    "184492974",
+    "184543575",
+    "184687375",
+    "184543577",
+    "184543578",
+    "184543579",
+    "184543580",
+    "184307261",
+    "184543582",
+    "184543583",
+    "184543584",
+    "184543585",
+    "184307267",
+    "184543587",
+    "184687384",
+    "184543589",
+    "184687379",
+    "184543591",
+    "184543592",
+    "184543593",
+    "184543594",
+    "184543595",
+    "184543596",
+    "184543597",
+    "184543598"
+   ]
+  }
+ ],
+ "fragments": {
+  "184492962": {
+   "fragment_id": "184538217",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 42794\n\n1. O presente diploma visa dotar a Polícia de Segurança Pública com serviços sociais adequados e indispensáveis para garantir ao exercício das funções de agente da Polícia de Segurança Pública a dignidade e independência requeridas para essas funções.\n\n2. Sendo a Polícia de Segurança Pública uma corporação militarizada, enquadrada e dirigida por oficiais do Exército, as bases fundamentais e os princípios em vigor nos Serviços Sociais das Forças Armadas, contidos no Decreto-Lei n.º 42072, de 31 de Dezembro de 1958, não podem deixar de ser respeitados.\n\nPor consequência, as disposições do presente diploma seguem de perto as estatuídas no citado Decreto-Lei n.º 42072, introduzindo nelas ùnicamente as alterações que as características próprias da Polícia de Segurança Pública justificam.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "184492963": {
+   "fragment_id": "184538218",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e fins"
+  },
+  "184492964": {
+   "fragment_id": "184538219",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs Serviços Sociais da Polícia de Segurança Pública criados por este diploma visam a facilitar, moral e materialmente, a satisfação das necessidades de ordem social dos componentes da Polícia de Segurança Pública e a contribuir para a manutenção de um estado de espírito são no pessoal daquela corporação."
+  },
+  "184492965": {
+   "fragment_id": "184538220",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs Serviços Sociais da Polícia de Segurança Pública são um instituto da Polícia de Segurança Pública, declarado de utilidade pública e dotado de personalidade jurídica e de autonomia financeira e administrativa."
+  },
+  "184492966": {
+   "fragment_id": "184538221",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA acção dos Serviços Sociais da Polícia de Segurança Pública exercer-se-á nos domínios da previdência, da assistência, da habitação, dos abastecimentos, do alojamento temporário e convívio social, do repouso e recreação, da educação e cultura, da caixa económica e de outras actividades afins."
+  },
+  "184492967": {
+   "fragment_id": "184538222",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA previdência será exercida pelo Cofre de Previdência da Polícia de Segurança Pública, o qual visará, fundamentalmente, assegurar um subsídio pecuniário único, pago de uma só vez, à pessoa ou pessoas consideradas hábeis para o efeito, nos termos dos respectivos estatutos.\n\n§ único. Sem prejuízo da finalidade essencial referida no corpo deste artigo e quando as suas condições financeiras o permitirem, o Cofre de Previdência da Polícia de Segurança Pública deverá cooperar na campanha de fomento de construção de casas e mais outras actividades destinadas a beneficiar os subscritores.\n\n> Nota: [Artigo 16.º, Decreto-Lei n.º 203/2006 - Diário da República n.º 208/2006, Série I de 2006-10-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2006-545640) Extingue o Cofre de Previdência da Polícia de Segurança Pública, sendo as suas atribuições integradas no organismo com atribuições relativas aos serviços sociais da Polícia de Segurança Pública."
+  },
+  "184492968": {
+   "fragment_id": "184538223",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nEm princípio a assistência terá de ser prestada em todos os domínios onde se reconheça a sua necessidade, muito embora neste diploma se incluam sob esta rubrica fundamentalmente as seguintes modalidades de assistência: sanitária, materno-infantil, escolar, na velhice e invalidez e religiosa.\n\n§ 1.º A assistência sanitária incluirá todas as medidas que se tornem necessárias para prevenir, diagnosticar e tratar quaisquer estados mórbidos. Compreenderá, por isso, a profilaxia, a assistência médica e cirúrgica, geral e especializada, a enfermagem e todos os meios auxiliares de prevenção, diagnóstico e tratamento, tais como: análises clínicas, raios X, exames e outros tratamentos laboratoriais. Nela se compreendem ainda as facilidades a conceder na obtenção de medicamentos, sangue e plasma e material sanitário.\n\nA profilaxia, que deve merecer dos Serviços Sociais a melhor atenção, compreenderá todas as medidas preventivas contra doenças em geral, incluindo as chamadas sociais, e, designadamente, contra as doenças infecciosas e infecto-contagiosas, as doenças de coração, o cancro e as doenças mentais e nervosas.\n\nA assistência sanitária será exercida em hospitais, sanatórios, preventórios, clínicas, postos de socorros, casas de saúde, estabelecimentos de convalescença e noutros estabelecimentos atinentes aos mesmos fins, civis ou militares, privativos ou não dos Serviços Sociais, e ainda no domicílio.\n\nDo ponto de vista económico, os benefícios da assistência sanitária traduzir-se-ão quer pela prestação de serviços gratuitos ou nas melhores condições de preço e pagamento, quer pela concessão de descontos nos preços correntes ou pela comparticipação, total ou parcial, nas despesas.\n\n§ 2.º A assistência materno-infantil concretizar-se-á nos cuidados e auxílios a prestar às mães durante a gestação, no parto e no período pós-natal, e, bem assim, aos filhos recém-nascidos e na fase da sua primeira infância. Assumirá a forma de auxílio material ou de prestação de serviços no domicílio ou por intermédio de maternidades, creches, lactários, dispensários, parques e jardins infantis e de outros estabelecimentos apropriados.\n\n§ 3.º A assistência escolar será realizada: pelo funcionamento de escolas, de jardins-escolas e lares académicos; pela comparticipação, total ou parcial, nos custos de internamento em estabelecimentos de ensino, na aquisição de livros, material escolar e enxovais; pelo pagamento de propinas e pela concessão de bolsas de estudo, sem prejuízo de outras modalidades que venham a ser julgadas convenientes, designadamente para os diminuídos mentais, sensoriais ou motores.\n\n§ 4.º A assistência na invalidez, no desamparo e na velhice procurará valer aos inválidos e às viúvas e filhas solteiras órfãs de agentes da Polícia de Segurança Pública que se encontrem em situação de desamparo e, bem assim, àqueles que, pela sua idade avançada, requeiram cuidados especiais. Exercer-se-á por intermédio de recolhimentos, orfanatos, casas de repouso e de outros estabelecimentos que permitam atingir os mesmos fins.\n\nA assistência na invalidez poderá ainda assumir qualquer outra forma apropriada de auxílio, incluindo a reabilitação dos inválidos e a atribuição de subsídio para aposentação.\n\n§ 5.º A assistência religiosa será facilitada sob todas as formas, quer através das actividades dos Serviços Sociais onde o seu exercício se justificar, quer directamente a todos aqueles que a desejem."
+  },
+  "184492969": {
+   "fragment_id": "184538224",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNo domínio da habitação, os Serviços Sociais da Polícia de Segurança Pública terão em vista proporcionar alojamento aos agregados familiares dos beneficiários, em condições compatíveis com a sua capacidade económica e posição social. Promover-se-á a construção de casas económicas destinadas a arrendamento simples ou a aquisição a prazo, mediante amortizações suaves.\n\n§ 1.º Aos beneficiários dos Serviços Sociais da Polícia de Segurança Pública que não disponham de habitação permanente em casa própria ou em casa por conta do Estado, ou ainda que não habitem casas fornecidas por organismos oficiais, segundo qualquer das modalidades de casas económicas ou de renda económica, é facultado, na medida do possível, a possibilidade de possuir habitação por conta dos Serviços Sociais da Polícia de Segurança Pública, mediante renda módica ou amortização.\n\n§ 2.º A modalidade de aquisição a prazo mediante amortizações suaves só será adoptada depois de os Serviços Sociais da Polícia de Segurança Pública disporem de um número de casas destinadas a arrendamento simples reputado suficiente para dar satisfação às necessidades habitacionais do pessoal da Polícia de Segurança Pública."
+  },
+  "184492970": {
+   "fragment_id": "184538225",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nNo sector dos abastecimentos, os Serviços Sociais procurarão proporcionar a aquisição de artigos de fardamento e vestuário, de consumo e de uso corrente, nas melhores condições de preço e pagamento, quer em cooperativas ou cantinas, quer no comércio."
+  },
+  "184492971": {
+   "fragment_id": "184538226",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO alojamento temporário e convívio social serão facilitados pela utilização de messes, cantinas e refeitórios, clubes e salas de oficiais, de comissários e chefes, de graduados e guardas."
+  },
+  "184492972": {
+   "fragment_id": "184538227",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO repouso e a recreação serão facilitados pela utilização de colónias de férias, de campo e à beira-mar, de casas de repouso e de outras instituições ou estabelecimentos destinados àqueles fins."
+  },
+  "184492973": {
+   "fragment_id": "184538228",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA acção cultural visará proporcionar aos agentes da Polícia de Segurança Pública, em condições favoráveis, meios de cultura, diversão e de formação moral. Exercer-se-á por meio de conferências, de espectáculos teatrais e cinematográficos, pela rádio e televisão, por meio de bibliotecas e de publicações, pelo patrocínio da organização de festivais e competições desportivas, de visitas de estudo e excursões, de grupos cénicos, corais ou musicais, e por outros meios apropriados."
+  },
+  "184492974": {
+   "fragment_id": "184538229",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA caixa económica destinar-se-á a afectuar, com baixos juros, operações de recepção de depósitos e concessão de empréstimos, conforme o respectivo regulamento."
+  },
+  "184543575": {
+   "fragment_id": "184538230",
+   "type": 1,
+   "heading": "Capítulo II — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Beneficiários"
+  },
+  "184543576": {
+   "fragment_id": "184538231",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nSão beneficiários dos Serviços Sociais da Polícia de Segurança Pública, mediante desconto nos vencimentos das quotizações que forem fixadas por despacho ministerial:\n\na) Os agentes da Polícia de Segurança Pública;\n\nb) O pessoal civil dos quadros da Polícia de Segurança Pública.\n\n§ único. Beneficiam igualmente dos Serviços Sociais da Polícia de Segurança Pública as pessoas de família a cargo dos agentes e civis beneficiários dos mesmos serviços."
+  },
+  "184543577": {
+   "fragment_id": "184538232",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura e órgãos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estrutura e órgãos de direcção"
+  },
+  "184543578": {
+   "fragment_id": "184538233",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs Serviços Sociais da Polícia de Segurança Pública compreendem uma direcção e os órgãos de execução dela dependentes."
+  },
+  "184543579": {
+   "fragment_id": "184538234",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA direcção dos Serviços Sociais da Polícia de Segurança Pública actua na dependência do Ministro do Interior, a quem incumbe, por intermédio do comandante-geral da Polícia de Segurança Pública, definir a política orientadora das actividades sociais."
+  },
+  "184543580": {
+   "fragment_id": "184538235",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA direcção dos Serviços Sociais da Polícia de Segurança Pública compreende:\n\nO comandante-geral da Polícia de Segurança Pública, que é o director dos Serviços Sociais da Polícia de Segurança Pública;\n\nUm secretário-geral;\n\nUma secretaria;\n\nUm conselho administrativo;\n\nUma inspecção.\n\n§ único. São nomeados pelo Ministro do Interior:\n\na) O secretário-geral e os inspectores, por proposta do comandante-geral da Polícia de Segurança Pública;\n\nb) Os restantes membros, nas condições gerais de admissão do pessoal que vierem a ser estabelecidas."
+  },
+  "184543581": {
+   "fragment_id": "184538236",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nCompete ao comandante-geral, na qualidade de director dos Serviços Sociais da Polícia de Segurança Pública:\n\na) Estudar todas as medidas que possam contribuir para a realização dos objectivos assinalados neste decreto-lei, propondo superiormente a adopção das que excederem a sua competência;\n\nb) Impulsionar, orientar e coordenar todas as actividades de carácter social que possam concorrer para a realização dos objectivos referidos na alínea anterior, dirigindo e administrando os meios próprios e os que sejam postos à sua disposição;\n\nc) Promover e dirigir os estudos relativos à organização dos Serviços Sociais e aos respectivos quadros de pessoal;\n\nd) Promover e orientar a elaboração da regulamentação necessária à aplicação do presente diploma;\n\ne) Submeter à aprovação superior propostas relativas à nomeação, suspensão ou demissão do pessoal dos órgãos e serviços deles dependentes;\n\nf) Elaborar ou promover a elaboração dos orçamentos, relatórios e contas de gerência, submetendo-os à aprovação superior;\n\ng) Fornecer normas de orientação das actividades que, embora não directamente dos Serviços Sociais, respeitem ou possam ser aproveitadas para fins sociais;\n\nh) Inspeccionar ou fazer inspeccionar os órgãos e actividades dos Serviços Sociais e, bem assim, as actividades que se exerçam em proveito directo destes serviços ou visem os fins definidos neste decreto-lei;\n\ni) Estudar e propor as medidas destinadas à actualização e aperfeiçoamento dos Serviços Sociais;\n\nj) Delegar no secretário-geral, se assim o entender, as atribuições que julgar convenientes."
+  },
+  "184543582": {
+   "fragment_id": "184538237",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nAo secretário-geral compete superintender no funcionamento da secretaria e do conselho administrativo, especialmente:\n\na) Reunir, preparar, coordenar e fornecer ao director os elementos necessários ao exercício da direcção dos Serviços Sociais;\n\nb) Transmitir as directivas, ordens e instruções do director e promover e velar pela sua execução;\n\nc) Manter o director ao corrente dos assuntos dos Serviços Sociais."
+  },
+  "184543583": {
+   "fragment_id": "184538238",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nOs serviços de inspecção são exercidos por inspectores, aos quais incumbe, além de outras atribuições que lhes venham a ser cometidas por regulamento:\n\na) Inspeccionar os órgãos e actividades a que se refere a alínea h) do artigo 16.º, velando pela boa ordem e eficiência dos serviços, pela conveniente administração dos fundos e outros bens e pelo escrupuloso cumprimento dos regulamentos, ordens e instruções;\n\nb) Elaborar relatórios das inspecções realizadas e apresentar pareceres visando a melhoria dos serviços;\n\nc) Colaborar nos inquéritos e estudos visando a melhoria, desenvolvimento e actualização das actividades dos Serviços Sociais.\n\n§ 1.º Para os serviços de inspecção pode ser pedida de qualquer serviço público a colaboração que se torne necessária e nos termos que para o efeito vierem a ser estabelecidos.\n\n§ 2.º O serviço de secretaria da inspecção será assegurado pela secretaria."
+  },
+  "184543584": {
+   "fragment_id": "184538239",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO conselho administrativo rege-se pelo regulamento geral dos conselhos administrativos, competindo-lhe também a colaboração no planeamento e nos estudos orçamentais relativos à direcção dos Serviços Sociais e aos órgãos dela dependentes que não disponham de conselho administrativo próprio."
+  },
+  "184543585": {
+   "fragment_id": "184538240",
+   "type": 1,
+   "heading": "Capítulo IV — Fundos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fundos"
+  },
+  "184543586": {
+   "fragment_id": "184538241",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nConstituem receitas a administrar pelos Serviços Sociais da Polícia de Segurança Pública:\n\na) O produto das quotizações obrigatórias e de outras importâncias pagas pelos beneficiários;\n\nb) As contribuições dos fundos privativos da Polícia de Segurança Pública;\n\nc) O juro dos fundos capitalizados e outros rendimentos de qualquer natureza;\n\nd) Os proventos das suas iniciativas;\n\ne) O produto de empréstimos e de alienação de bens;\n\nf) O produto de vinhetas expressamente feitas para os Serviços Sociais da Polícia de Segurança Pública, que serão apostas, a título facultativo, nos requerimentos, certidões, queixas, solicitações, vistos, etc., apresentados na Polícia de Segurança Pública;\n\ng) 50 por cento das receitas recebidas na Polícia de Segurança Pública que por lei não tenham aplicação especial;\n\nh) O produto dos depósitos ou cauções de fardamento não reclamados dentro do prazo de três anos do pessoal falecido ou abatido ao efectivo;\n\ni) O produto da venda de coisas móveis perdidas e que sejam obrigatoriamente entregues na Polícia de Segurança Pública, tanto nos quantitativos designados por lei a favor da beneficência, como na parte que compete ao achador, sempre que se verifique a desistência deste;\n\nj) O produto do espólio de artigos não reclamados;\n\nl) O produto da alienação de bens móveis, incluindo sucata deles proveniente, de óleos de lubrificação queimados e de papel inutilizado;\n\nm) Os proventos resultantes da exploração das oficinas de sapataria, alfaiataria, etc., e das cantinas;\n\nn) Os subsídios, comparticipações, donativos, doações e legados do Estado e de outras entidades públicas e particulares;\n\no) Uma percentagem sobre os proventos resultantes de serviços remunerados prestados pelo pessoal;\n\np) O produto de carceragens e quartos particulares e das visitas a presos;\n\nq) O produto da venda de artigos de armamento ou munições a que se refere o § 2.º do artigo 77.º do regulamento aprovado pelo Decreto-Lei n.º 37313, de 21 de Fevereiro de 1949;\n\nr) Quaisquer outras receitas que lhes venham a ser consignadas.\n\n§ único. A realização de empréstimos e a alienação de bens imobiliários carecem de autorização do Ministro do Interior."
+  },
+  "184543587": {
+   "fragment_id": "184538242",
+   "type": 1,
+   "heading": "Capítulo V — Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Isenções"
+  },
+  "184543588": {
+   "fragment_id": "184538243",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs Serviços Sociais da Polícia de Segurança Pública são isentos de:\n\na) Sisa, em quaisquer aquisições na parte que sejam destinadas às suas instalações e directa realização dos seus fins;\n\nb) Imposto sobre as sucessões e doações;\n\nc) Contribuição industrial e predial;\n\nd) Imposto do selo;\n\ne) Impostos que incidam sobre a realização de espectáculos com entrada paga;\n\nf) Custas e selos nos processos judiciais, administrativos e fiscais em que forem interessados;\n\ng) Licenças dos governos civis e outras realizações desportivas, de propaganda, culturais e recreativas;\n\nh) Licenças para obras."
+  },
+  "184543589": {
+   "fragment_id": "184538244",
+   "type": 1,
+   "heading": "Capítulo VI — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Pessoal"
+  },
+  "184543590": {
+   "fragment_id": "184538245",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs quadros do pessoal dos Serviços Sociais da Polícia de Segurança Pública serão fixados em decreto-lei, a publicar oportunamente. As remunerações deste pessoal serão as mesmas das iguais categorias do pessoal civil ou militar dos serviços do Estado.\n\n§ único. Enquanto não forem fixados os quadros de pessoal a que se refere o corpo deste artigo, fica o Ministro do Interior autorizado, por proposta do director dos Serviços Sociais da Polícia de Segurança Pública e mediante contrato anual renovável, a nomear provisoriamente o pessoal estritamente indispensável ao cabal funcionamento dos Serviços Sociais."
+  },
+  "184543591": {
+   "fragment_id": "184538246",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nPoderá ser mandado prestar serviço nos Serviços Sociais da Polícia de Segurança Pública o pessoal da corporação que se tornar necessário ao funcionamento destes serviços."
+  },
+  "184543592": {
+   "fragment_id": "184538247",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições diversas"
+  },
+  "184543593": {
+   "fragment_id": "184538248",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nOs Serviços Sociais da Polícia de Segurança Pública orientarão as suas actividades segundo regulamento a submeter à aprovação do Ministro do Interior."
+  },
+  "184543594": {
+   "fragment_id": "184538249",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nPodem ser integradas nos Serviços Sociais criados por este diploma, nos termos que vierem a ser fixados pelo Ministro do Interior, as instituições de previdência e assistência de carácter público ou privado existentes nos actuais comandos distritais da Polícia de Segurança Pública. Enquanto esta integração se não realizar manter-se-ão as actuais regalias que por lei tiverem sido atribuídas a essas instituições."
+  },
+  "184543595": {
+   "fragment_id": "184538250",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nOs oficiais do Exército que estejam inscritos nos Serviços Sociais das Forças Armadas criados pelo Decreto-Lei n.º 42072, de 31 de Dezembro de 1958, continuam a usufruir os benefícios dos mesmos Serviços Sociais, embora sejam também obrigatòriamente subscritores dos Serviços Sociais criados por este diploma."
+  },
+  "184543596": {
+   "fragment_id": "184538251",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nFica o comandante-geral autorizado a conceder aos oficiais do Exército, e respectivos agregados familiares, em serviço na Polícia de Segurança Pública quaisquer dos benefícios previstos neste diploma, com excepção dos que, pela sua natureza, excederem o prazo da respectiva comissão."
+  },
+  "184543597": {
+   "fragment_id": "184538252",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nO Ministro do Interior, sempre que as circunstâncias o aconselhem e o julgue útil, poderá, sob proposta dos comandantes-gerais da Guarda Nacional Republicana e da Polícia de Segurança Pública, determinar a integração de todos ou parte dos serviços criados por este diploma e pelo que cria os Serviços Sociais da Guarda Nacional Republicana."
+  },
+  "184307261": {
+   "fragment_id": "184538236",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1960-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43421 - Diário do Governo n.º 295/1960, Série I de 1960-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), em vigor a partir de 1960-12-27"
+   ],
+   "markdown": "###### Artigo 16.º\n\nCompete ao comandante-geral, na qualidade de director dos Serviços Sociais da Polícia de Segurança Pública:\n\na) Estudar todas as medidas que possam contribuir para a realização dos objectivos assinalados neste decreto-lei, propondo superiormente a adopção das que excederem a sua competência;\n\nb) Impulsionar, orientar e coordenar todas as actividades de carácter social que possam concorrer para a realização dos objectivos referidos na alínea anterior, dirigindo e administrando os meios próprios e os que sejam postos à sua disposição;\n\nc) Promover e dirigir os estudos relativos à organização dos Serviços Sociais e aos respectivos quadros de pessoal;\n\nd) Promover e orientar a elaboração da regulamentação necessária à aplicação do presente diploma;\n\ne) Submeter à aprovação superior propostas relativas à nomeação, suspensão ou demissão do pessoal dos órgãos e serviços deles dependentes;\n\nElaborar ou promover a elaboração, pelo conselho administrativo dos Serviços Sociais e pelos conselhos administrativos dos órgãos dependentes, dos orçamentos e contas de gerência, sendo estas apresentadas por cada conselho administrativo directamente ao Tribunal de Contas;\n\ng) Fornecer normas de orientação das actividades que, embora não directamente dos Serviços Sociais, respeitem ou possam ser aproveitadas para fins sociais;\n\nh) Inspeccionar ou fazer inspeccionar os órgãos e actividades dos Serviços Sociais e, bem assim, as actividades que se exerçam em proveito directo destes serviços ou visem os fins definidos neste decreto-lei;\n\ni) Estudar e propor as medidas destinadas à actualização e aperfeiçoamento dos Serviços Sociais;\n\nj) Delegar no secretário-geral, se assim o entender, as atribuições que julgar convenientes.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 43421 - Diário do Governo n.º 295/1960, Série I de 1960-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), em vigor a partir de 1960-12-27"
+  },
+  "184307262": {
+   "fragment_id": "184538241",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1960-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 43421 - Diário do Governo n.º 295/1960, Série I de 1960-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), em vigor a partir de 1960-12-27"
+   ],
+   "markdown": "###### Artigo 20.º\n\nConstituem receitas a administrar pelos Serviços Sociais da Polícia de Segurança Pública:\n\na) O produto das quotizações obrigatórias e de outras importâncias pagas pelos beneficiários;\n\nb) As contribuições dos fundos privativos da Polícia de Segurança Pública;\n\nc) O juro dos fundos capitalizados e outros rendimentos de qualquer natureza;\n\nd) Os proventos das suas iniciativas;\n\ne) O produto de empréstimos e de alienação de bens;\n\nf) O produto de vinhetas expressamente feitas para os Serviços Sociais da Polícia de Segurança Pública, que serão apostas, a título facultativo, nos requerimentos, certidões, queixas, solicitações, vistos, etc., apresentados na Polícia de Segurança Pública;\n\ng) 50 por cento das receitas recebidas na Polícia de Segurança Pública que por lei não tenham aplicação especial;\n\nh) O produto dos depósitos ou cauções de fardamento não reclamados dentro do prazo de três anos do pessoal falecido ou abatido ao efectivo;\n\ni) O produto da venda de coisas móveis perdidas e que sejam obrigatoriamente entregues na Polícia de Segurança Pública, tanto nos quantitativos designados por lei a favor da beneficência, como na parte que compete ao achador, sempre que se verifique a desistência deste;\n\nj) O produto do espólio de artigos não reclamados;\n\nl) O produto da alienação de bens móveis, incluindo sucata deles proveniente, de óleos de lubrificação queimados e de papel inutilizado;\n\nm) Os proventos resultantes da exploração das oficinas de sapataria, alfaiataria, etc., e das cantinas;\n\nn) Os subsídios, comparticipações, donativos, doações e legados do Estado e de outras entidades públicas e particulares;\n\no) Uma percentagem sobre os proventos resultantes de serviços remunerados prestados pelo pessoal;\n\np) O produto de carceragens e quartos particulares e das visitas a presos;\n\nq) O produto da venda de artigos de armamento ou munições a que se refere o § 2.º do artigo 77.º do regulamento aprovado pelo Decreto-Lei n.º 37313, de 21 de Fevereiro de 1949;\n\nr) Quaisquer outras receitas que lhes venham a ser consignadas.\n\n§ único. A realização de empréstimos e a alienação de bens imobiliários carecem de autorização do Ministro do Interior.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 43421 - Diário do Governo n.º 295/1960, Série I de 1960-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), em vigor a partir de 1960-12-27"
+  },
+  "184307263": {
+   "fragment_id": "184538243",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1960-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 43421 - Diário do Governo n.º 295/1960, Série I de 1960-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), em vigor a partir de 1960-12-27"
+   ],
+   "markdown": "###### Artigo 21.º\n\nOs Serviços Sociais da Polícia de Segurança Pública são isentos de:\n\na) Sisa, em quaisquer aquisições na parte que sejam destinadas às suas instalações e directa realização dos seus fins;\n\nb) Imposto sobre as sucessões e doações;\n\nc) Contribuição industrial e predial;\n\nd) Imposto do selo;\n\ne) Impostos que incidam sobre a realização de espectáculos com entrada paga;\n\nf) Custas e selos nos processos judiciais, administrativos e fiscais em que forem interessados;\n\ng) Licenças dos governos civis e outras realizações desportivas, de propaganda, culturais e recreativas;\n\nh) Licenças para obras.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 43421 - Diário do Governo n.º 295/1960, Série I de 1960-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), em vigor a partir de 1960-12-27"
+  },
+  "184543598": {
+   "fragment_id": "184538253",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Publique-se e cumpra-se como nele se contém,\n\nPaços do Governo da República, 31 de Dezembro de 1959. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.\n\nPara ser presente à Assembleia Nacional."
+  },
+  "184307267": {
+   "fragment_id": "184538241",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1962-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 44564 - Diário do Governo n.º 209/1962, Série I de 1962-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44564-1962-159548), em vigor a partir de 1962-09-16",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 43421 - Diário do Governo n.º 295/1960, Série I de 1960-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), em vigor a partir de 1960-12-27"
+   ],
+   "markdown": "###### Artigo 20.º\n\nConstituem receitas a administrar pelos Serviços Sociais da Polícia de Segurança Pública:\n\na) O produto das quotizações obrigatórias e de outras importâncias pagas pelos beneficiários;\n\nb) As contribuições dos fundos privativos da Polícia de Segurança Pública;\n\nc) O juro dos fundos capitalizados e outros rendimentos de qualquer natureza;\n\nd) Os proventos das suas iniciativas;\n\ne) O produto de empréstimos e de alienação de bens;\n\nf) O produto de vinhetas expressamente feitas para os Serviços Sociais da Polícia de Segurança Pública, que serão apostas, a título facultativo, nos requerimentos, certidões, queixas, solicitações, vistos, etc., apresentados na Polícia de Segurança Pública;\n\ng) 50 por cento das receitas recebidas na Polícia de Segurança Pública que por lei não tenham aplicação especial;\n\nh) O produto dos depósitos ou cauções de fardamento não reclamados dentro do prazo de três anos do pessoal falecido ou abatido ao efectivo;\n\ni) O produto da venda de coisas móveis perdidas e que sejam obrigatoriamente entregues na Polícia de Segurança Pública, tanto nos quantitativos designados por lei a favor da beneficência, como na parte que compete ao achador, sempre que se verifique a desistência deste;\n\nj) O produto do espólio de artigos não reclamados;\n\nl) O produto da alienação de bens móveis, incluindo sucata deles proveniente, de óleos de lubrificação queimados e de papel inutilizado;\n\nm) Os proventos resultantes da exploração das oficinas de sapataria, alfaiataria, etc., e das cantinas;\n\nn) Os subsídios, comparticipações, donativos, doações e legados do Estado e de outras entidades públicas e particulares;\n\no) Uma percentagem sobre os proventos resultantes de serviços remunerados prestados pelo pessoal;\n\np) O produto de carceragens e quartos particulares e das visitas a presos;\n\nq) O produto da venda de artigos de armamento ou munições a que se refere o § 2.º do artigo 77.º do regulamento aprovado pelo Decreto-Lei n.º 37313, de 21 de Fevereiro de 1949;\n\nr) Quaisquer outras receitas que lhes venham a ser consignadas.\n\n§ único. A realização de empréstimos e a alienação de bens imobiliários carecem de autorização do Ministro do Interior.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 44564 - Diário do Governo n.º 209/1962, Série I de 1962-09-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44564-1962-159548), em vigor a partir de 1962-09-16\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 43421 - Diário do Governo n.º 295/1960, Série I de 1960-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), em vigor a partir de 1960-12-27"
+  },
+  "184307271": {
+   "fragment_id": "184538224",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1971-06-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 225/71 - Diário do Governo n.º 125/1971, Série I de 1971-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1971-643946), em vigor a partir de 1971-06-02"
+   ],
+   "markdown": "###### Artigo 6.º\n\nNo domínio da habitação, os Serviços Sociais da Polícia de Segurança Pública terão em vista proporcionar alojamento aos agregados familiares dos beneficiários em condições compatíveis com a sua capacidade económica e posição social. Promover-se-á a construção de casas económicas destinadas a ocupação em regime de arrendamento.\n\n§ único. Aos beneficiários dos Serviços Sociais da Polícia de Segurança Pública que não disponham de habitação permanente em casa própria ou em casa por conta do Estado, ou, ainda, que não habitem casas fornecidas por organismos oficiais, segundo qualquer das modalidades de casas económicas ou de renda económica, é facultada a possibilidade de habitação por conta dos Serviços Sociais da Polícia de Segurança Pública, mediante renda módica.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 225/71 - Diário do Governo n.º 125/1971, Série I de 1971-05-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1971-643946), em vigor a partir de 1971-06-02"
+  },
+  "184687375": {
+   "fragment_id": "184538231",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1976-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 855/76 - Diário da República n.º 294/1976, Série I de 1976-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/855-1976-407731), em vigor a partir de 1976-12-23"
+   ],
+   "markdown": "###### Artigo 12.º\n\nSão beneficiários dos Serviços Sociais da Polícia de Segurança Pública, mediante desconto nos vencimentos ou pensões das quotizações que forem fixadas por despacho ministerial:\n\na) Os comissários do quadro de comissários da Polícia de Segurança Pública;\n\nb) Os agentes da Polícia de Segurança Pública;\n\nc) O pessoal civil dos quadros da Polícia de Segurança Pública;\n\nd) As viúvas, enquanto nesta situação, e os órfãos, enquanto menores, do pessoal referido nas alíneas anteriores falecido, quer em efectividade de serviço, quer na situação de aposentação, desde que seja requerido.\n\n§ único. Beneficiam igualmente dos Serviços Sociais da Polícia de Segurança Pública as pessoas de família a cargo dos beneficiários dos mesmos Serviços.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 855/76 - Diário da República n.º 294/1976, Série I de 1976-12-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/855-1976-407731), em vigor a partir de 1976-12-23"
+  },
+  "184687379": {
+   "fragment_id": "184538245",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "1979-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 360/79 - Diário da República n.º 202/1979, Série I de 1979-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1979-370662), em vigor a partir de 1979-09-06"
+   ],
+   "markdown": "###### Artigo 22.º\n\n1 - Os quadros do pessoal dos Serviços Sociais da Polícia de Segurança Pública serão fixados em decreto-lei, a publicar oportunamente. As remunerações deste pessoal serão as mesmas das iguais categorias do pessoal civil ou militar dos serviços do Estado.\n\n2 - Enquanto não forem fixados os quadros de pessoal a que se refere o número anterior, fica o Ministro da Administração Interna autorizado, por proposta do director dos Serviços Sociais da Polícia de Segurança Pública e mediante contrato anual renovável, a nomear provisoriamente o pessoal estritamente indispensável ao cabal funcionamento dos Serviços Sociais.\n\n3 - As funções de secretário-geral, dos componentes do conselho administrativo e as de inspecção administrativa a que se refere o artigo 15.º do citado Decreto-Lei n.º 42794 serão exercidas por oficiais do Exército, na situação de activo ou reserva, em tempo completo.\n\n4 - Os oficiais referidos no número anterior serão abonados da gratificação especial de serviço e de outras remunerações acessórias, nas mesmas condições dos restantes oficiais em serviço no Comando-Geral da Polícia de Segurança Pública.\n\n5 - A gratificação especial de serviço é considerada para efeitos da alínea b) do n.º 1 do artigo 47.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, e como tal está sujeita aos descontos da quota para a Caixa Geral de Aposentações, produzindo efeitos a partir de 1 de Dezembro de 1977, a requerimento dos interessados, devendo a mesma Caixa ser indemnizada da importância correspondente.\n\n6 - Os encargos resultantes da aplicação do presente diploma serão suportados pelo orçamento privativo dos Serviços Sociais da Polícia de Segurança Pública.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 360/79 - Diário da República n.º 202/1979, Série I de 1979-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/360-1979-370662), em vigor a partir de 1979-09-06"
+  },
+  "184687384": {
+   "fragment_id": "184538243",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1980-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 397/80 - Diário da República n.º 222/1980, Série I de 1980-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1980-461816), em vigor a partir de 1980-09-30",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 43421 - Diário do Governo n.º 295/1960, Série I de 1960-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), em vigor a partir de 1960-12-27"
+   ],
+   "markdown": "###### Artigo 21.º\n\nOs Serviços Sociais da Polícia de Segurança Pública são isentos de:\n\na) Sisa, em quaisquer aquisições na parte que sejam destinadas às suas instalações e directa realização dos seus fins;\n\nb) Imposto sobre as sucessões e doações;\n\nc) Contribuição industrial e predial;\n\nd) Imposto do selo;\n\ne) Impostos que incidam sobre a realização de espectáculos com entrada paga;\n\nf) Custas e selos nos processos judiciais, administrativos e fiscais em que forem interessados;\n\ng) Licenças dos governos civis e outras realizações desportivas, de propaganda, culturais e recreativas;\n\nh) Licenças para obras;\n\nl) Quaisquer outros emolumentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 397/80 - Diário da República n.º 222/1980, Série I de 1980-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1980-461816), em vigor a partir de 1980-09-30\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 43421 - Diário do Governo n.º 295/1960, Série I de 1960-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43421-1960-513436), em vigor a partir de 1960-12-27"
+  }
+ }
+}

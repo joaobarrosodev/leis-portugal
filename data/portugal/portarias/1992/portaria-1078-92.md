@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:600535:por
+title: Portaria n.º 1078/92
+short_title: null
+summary: Harmoniza algumas disposições da CEE em matéria social no domínio dos transportes rodoviários
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Administração Interna, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 1078/92
+official_date: null
+publication_date: '1992-11-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 271/1992, Série I-B de 1992-11-23
+  number: '271'
+  series: I
+  supplement: null
+  pages: 5374 - 5374
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/11/271b00/53745374.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1078/1992/11/23/p/dre/pt/html
+  oj: null
+  dre: '600535'
+  dre_path: /dr/detalhe/portaria/1078-1992-600535
+  internal: pt:dre:600535:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1078-1992-600535
+  metadata_url: https://data.dre.pt/eli/port/1078/1992/11/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1078-1992-600535
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-03-05T00:00:00Z'
+integrity:
+  source_sha256: c489a62887ac1099f72c5152d7e0183efa290380f011c16b418d7f5530c18ca4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-1078-600535.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CEE
+- Veículo
+- Política Social
+- Regulamento CE
+relationships:
+- type: amended_by
+  target: pt:dre:247272:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31985R3820
+  label: null
+  source: http://data.europa.eu/eli/reg/1985/3820/oj
+- type: cites
+  target: celex:31985R3821
+  label: null
+  source: http://data.europa.eu/eli/reg/1985/3821/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1078/92
+
+de 23 de Novembro
+
+Considerando que o Regulamento (CEE) n.º [3820/85](http://data.europa.eu/eli/reg/1985/3820/oj?locale=pt), do Conselho, de 20 de Dezembro, relativo à harmonização de certas disposições em matéria social no domínio dos transportes rodoviários, concede aos Estados membros a faculdade de estabelecer no seu território determinadas derrogações à aplicação do referido regulamento;
+
+Considerando que a possibilidade de se conceder tais derrogações não deverá contrariar os objectivos visados pela regulamentação social, devendo nesta medida circunscrever-se a veículos afectos a transportes que não ponham em causa a segurança rodoviária, a harmonização das condições de concorrência e a protecção social dos condutores;
+
+Considerando que, observados os referidos pressupostos, há toda a vantagem em consagrar tais derrogações:
+
+Ao abrigo do artigo 13.º do Regulamento (CEE) n.º [3820/85](http://data.europa.eu/eli/reg/1985/3820/oj?locale=pt), de 20 de Dezembro, e do n.º 2 do artigo 3.º do Regulamento (CEE) n.º [3821/85](http://data.europa.eu/eli/reg/1985/3821/oj?locale=pt), do Conselho, de 20 de Dezembro:
+
+Manda o Governo, pelos Ministros da Administração Interna, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social, o seguinte:
+
+1.º O Regulamento (CEE) n.º [3820/85](http://data.europa.eu/eli/reg/1985/3820/oj?locale=pt), do Conselho, de 20 de Dezembro, relativo a harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários, não se aplica a:
+
+a) Veículos utilizados para o transporte de mercadorias por empresas agrícolas, hortícolas, florestais ou de pesca, num raio de 50 km a partir do seu local de afectação habitual, incluindo o território das freguesias, cujo centro esteja situado nesse raio;
+
+b) Veículos utilizados no transporte de animais vivos das quintas aos mercados locais e vice-versa ou das quintas ou mercados aos matadouros locais;
+
+c) Veículos utilizados para venda ambulante, num raio de 50 km a partir do local de afectação habitual;
+
+d) Veículos utilizados para empréstimo de livros, discos ou cassettes, para manifestações culturais ou exposições, desde que especialmente equipados para estes fins;
+
+e) Veículos utilizados no transporte de material ou equipamento destinado ao exercício da profissão do seu condutor, num raio de 50 km a partir do seu local de afectação habitual, desde que a condução do veículo não represente a actividade principal do condutor;
+
+f) Veículos afectos ao ensino da condução automóvel;
+
+g) Tractores exclusivamente afectos a trabalhos agrícolas e florestais.
+
+2.º Os veículos afectos aos transportes referidos no n.º 1.º do presente diploma ficam isentos da obrigatoriedade de instalação e utilização do aparelho de controlo (tacógrafo), instituída pelo Regulamento (CEE) n.º [3821/85](http://data.europa.eu/eli/reg/1985/3821/oj?locale=pt), de 20 de Dezembro.
+
+3.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Ministérios da Administração Interna, das Obras Públicas, Transportes e Comunicações e do Emprego e da Segurança Social.
+
+**Assinada em 12 de Outubro de 1992.**
+
+Pelo Ministro da Administração Interna, Carlos Alberto Silva de Almeida e Loureiro, Secretário de Estado da Administração Interna. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes. - Pelo Ministro do Emprego e da Segurança Social, Jorge Hernâni de Almeida Seabra, Secretário de Estado Adjunto do Ministro do Emprego e da Segurança Social.

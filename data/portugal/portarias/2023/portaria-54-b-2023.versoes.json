@@ -1,0 +1,297 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:207942896:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-847575528",
+ "dre_path": "/dr/detalhe/portaria/54-b-2023-207942896",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-02-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "840849523",
+    "840849524",
+    "840849525",
+    "840849526",
+    "840849527",
+    "840849528",
+    "840849529",
+    "840849530",
+    "840849531",
+    "840849532",
+    "840849533",
+    "840849534",
+    "840849535",
+    "840849536",
+    "840849537",
+    "840849538",
+    "840849539",
+    "840849540",
+    "840849541",
+    "840849542",
+    "840849543",
+    "840849544"
+   ]
+  },
+  {
+   "date": "2024-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:847575481:por",
+     "title": "Portaria n.º 48/2024",
+     "published": "2024-02-12",
+     "dre_path": "/dr/detalhe/portaria/48-2024-847575481"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "840849523",
+    "840849524",
+    "840849525",
+    "840849526",
+    "840849527",
+    "840849528",
+    "840849529",
+    "840849530",
+    "840849531",
+    "840849532",
+    "840849533",
+    "840849534",
+    "840849535",
+    "840849551",
+    "840849552",
+    "840849538",
+    "840849539",
+    "840849540",
+    "840849553",
+    "840849542",
+    "840849543",
+    "840849544",
+    "840849545"
+   ]
+  }
+ ],
+ "fragments": {
+  "840849523": {
+   "fragment_id": "847575529",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 54-B/2023\n\nde 27 de fevereiro\n\nSumário: Estabelece o regime de aplicação dos apoios a conceder ao abrigo do artigo 76.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere à intervenção «Seguros», do domínio «C.4 - Risco e organização da produção» do eixo «C - Desenvolvimento rural - Continente» do Programa Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente.\n\nA reforma da Política Agrícola Comum (PAC) em 2021 estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).\n\nO PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.\n\nA estratégia nacional, no âmbito da atividade agrícola, e a respetiva lógica de intervenção subjacente ao PEPAC Portugal, tem implícita a necessidade de «gestão de riscos» como garantia da proteção do rendimento dos agricultores.\n\nNeste contexto, o seguro agrícola é um dos instrumentos de política que melhor permite garantir alguma previsibilidade, estabilidade e sustentabilidade financeira às explorações agrícolas que se defrontam com imprevisibilidades climatéricas, doenças ou pragas.\n\nDe forma a possibilitar uma maior abrangência deste instrumento de gestão de riscos, mantém-se a concessão de apoio aos seguros de colheita previstos na Portaria n.º 65/2014, de 12 de março, na sua atual redação, através de uma intervenção específica do desenvolvimento rural, prevendo um apoio a seguros para doenças das plantas, pragas ou acidentes ambientais.\n\nAssim:\n\nManda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:"
+  },
+  "840849524": {
+   "fragment_id": "847575530",
+   "type": 1,
+   "heading": "Capítulo I — Intervenção «Seguros»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Intervenção «Seguros»"
+  },
+  "840849525": {
+   "fragment_id": "847575531",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação dos apoios a conceder ao abrigo do artigo 76.º do Regulamento (UE) 2021/2115, do Parlamento e Europeu e do Conselho, no que se refere à intervenção «Seguros», do domínio «C.4 - Risco e organização da produção» do eixo «C - Desenvolvimento rural - Continente» do Programa Estratégico da Política Agrícola Comum para Portugal (PEPAC Portugal), no continente."
+  },
+  "840849526": {
+   "fragment_id": "847575532",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos na presente portaria pretendem garantir previsibilidade e estabilidade financeira às explorações agrícolas, através da redução do risco proveniente da ocorrência de condições climáticas adversas."
+  },
+  "840849527": {
+   "fragment_id": "847575533",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria entende-se por:\n\na) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais, e a detenção de animais para fins de produção;\n\nb) «Acontecimento climático adverso», condições climáticas que podem ser equiparadas a catástrofes naturais, como a geada, as tempestades, o granizo, o gelo, chuvas fortes ou secas graves, que destruam mais de 20 % da produção anual média de um dado agricultor, calculados com base no período anterior de três anos, ou da sua produção média trienal baseada no período anterior de cinco anos, com exclusão dos valores mais alto e mais baixo;\n\nc) «Acidente ambiental», uma ocorrência específica de poluição, contaminação ou degradação da qualidade do ambiente, que está relacionada com um acontecimento específico e de âmbito geográfico limitado, não abrangendo os riscos ambientais gerais não relacionados com um acontecimento específico, como as alterações climáticas ou a poluição atmosférica;\n\nd) «Contrato de seguro coletivo», o contrato de seguro celebrado por uma pessoa coletiva, que agindo no interesse direto de um grupo mínimo de cinco agricultores, os representa;\n\ne) «Contrato de seguro individual», o contrato subscrito diretamente pelo agricultor que tenha interesse legítimo sobre a produção segura;\n\nf) «Empresa de seguros», entidade legalmente autorizada a explorar o ramo não vida, nos termos do n.º 9 do artigo 123.º do Decreto-Lei n.º 94-B/98, de 17 de abril, na sua redação atual, e que subscreve, com o tomador do seguro, o contrato;\n\ng) «Jovem agricultor em primeira instalação», o agricultor com idade compreendida entre 18 e 40 anos de idade que, na qualidade de responsável pela exploração agrícola, assume formalmente a titularidade e a gestão direta da exploração agrícola podendo ter iniciado a atividade agrícola até cinco anos antes da data mais antiga das datas verificadas nas fontes de informação oficiais, nomeadamente nas bases de informação residentes no Ministério da Agricultura e Alimentação;\n\nh) «Tomador», pessoa coletiva que celebra o contrato de seguro coletivo ou o agricultor que celebra o contrato individual com a empresa de seguros, sendo responsável pelo pagamento do prémio;\n\ni) «Unidade de produção» o conjunto de parcelas agrícolas ou florestais, contínuas ou não, que constituem uma unidade técnico-económica, caracterizada pela utilização em comum de mão-de-obra e dos meios de produção, submetida a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização."
+  },
+  "840849528": {
+   "fragment_id": "847575534",
+   "type": 11,
+   "heading": "Artigo 4.º — Agricultor ativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Agricultor ativo\n\n1 - Entende-se por «agricultor ativo», o agricultor, na aceção do artigo 3.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, que exerce atividade agrícola no continente, assumindo o risco de gestão associado a essa atividade e que respeita as seguintes condições:\n\na) Encontra-se inscrito no registo do agricultor no Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) designadamente no sistema de identificação do beneficiário (IB);\n\nb) Encontra-se inscrito na Autoridade Tributária, com Número de Identificação Fiscal (NIF) e, no caso de pessoa coletiva, detém Classificação de Atividade Económica (CAE) agrícola ou florestal;\n\nc) Detém subparcelas elegíveis inscritas no iSIP ou marca de exploração no âmbito do Sistema Nacional de Identificação e Registo Animal (SNIRA);\n\nd) Nas situações em que não haja atividade agrícola produtiva, detém evidências de nível mínimo de atividade agrícola não produtiva.\n\n2 - Para efeitos da aferição do nível mínimo de atividade agrícola não produtiva referido na alínea d) do número anterior, são consideradas operações de manutenção da superfície agrícola em condições adequadas para o pastoreio ou o cultivo, sem intervenção preparatória especial, para além do uso dos métodos e máquinas agrícolas habituais, nomeadamente pela apresentação das seguintes evidências:\n\na) Realização de operações de controlo de vegetação lenhosa ou arbustiva nas subparcelas de prado e pastagem permanente, superfície forrageira temporária espontânea ou pousio;\n\nb) Realização de operações de preparação de instalação de culturas permanentes e de prados e pastagens;\n\nc) Realização de operações de manutenção de culturas permanentes, nomeadamente podas e desramações.\n\n3 - Para efeitos da alínea a) do número anterior, no caso das áreas inseridas em baldio, o nível mínimo de atividade agrícola deve ser evidenciado através de prática local de pastoreio por efetivos pecuários de ruminantes e equídeos, devendo, para esse efeito, os compartes estarem associados à marca de exploração do baldio ou terem marca de exploração associada à marca de exploração do baldio.\n\n4 - São, ainda, considerados agricultores ativos, os agricultores que tenham, no ano anterior ao ano do pedido, apresentado candidatura no âmbito de pagamentos diretos e um montante de pagamentos diretos que não exceda os 2.000 (euro)."
+  },
+  "840849529": {
+   "fragment_id": "847575535",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários e tomadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários e tomadores\n\n1 - Podem beneficiar do apoio previsto na presente portaria as pessoas singulares ou coletivas, de natureza pública ou privada, de forma individual ou coletiva que sejam agricultores ativos e que contratem um seguro ao abrigo da Portaria n.º 65/2014, de 12 de março, na sua atual redação.\n\n2 - No caso dos seguros coletivos, podem ainda ser tomadores, em representação dos agricultores beneficiários previstos no número anterior, as seguintes pessoas coletivas:\n\na) Agrupamentos de produtores e as organizações ou associações de organizações de produtores reconhecidas;\n\nb) Cooperativas agrícolas;\n\nc) Sociedades comerciais que efetuem a transformação ou comercialização da produção segura;\n\nd) Associações de agricultores, cujos associados diretos sejam agricultores."
+  },
+  "840849530": {
+   "fragment_id": "847575536",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade\n\nPodem beneficiar do apoio previsto na presente portaria, os agricultores ativos que, sem prejuízo da elegibilidade prevista no Decreto-Lei n.º 12/2023, de 24 de fevereiro, sejam titulares das parcelas agrícolas registadas no Sistema de Identificação Parcelar (iSIP), nas quais contrataram o seguro."
+  },
+  "840849531": {
+   "fragment_id": "847575537",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis e não elegíveis\n\n1 - São elegíveis as despesas incorridas no pagamento dos prémios dos contratos de seguro celebrados ao abrigo da Portaria n.º 65/2014, que reúnam as seguintes condições:\n\na) Tenham por objeto a cobertura de perdas resultantes de um acontecimento climático adverso, de uma doença das plantas, de uma praga ou de um acidente ambiental, como tal reconhecido oficialmente, ou de uma medida adotada em conformidade com o Regulamento (UE) 2016/2031, do Parlamento Europeu e do Conselho, para erradicar ou conter a dispersão de pragas dos vegetais ou produtos vegetais;\n\nb) Prevejam um prejuízo mínimo indemnizável superior a 20 % da respetiva produção anual média da cultura segura na parcela ou conjunto de parcelas, calculada nos termos das alíneas a) ou b) do n.º 3 do artigo 13.º da Portaria n.º 65/2014;\n\nc) Incluam todas as parcelas de cada cultura segura de que o beneficiário seja titular, desde que inseridas na mesma unidade de produção e que reúnam as condições para serem seguráveis nos termos da Portaria n.º 65/2014.\n\n2 - Não são elegíveis os prémios de contrato de seguro que se destinem:\n\na) A abranger o mesmo objeto seguro, para o mesmo período temporal, por instrumentos contratados ao abrigo da intervenção setorial «Seguros de Colheita», relativa ao regime de apoio aos Programas Operacionais de Organizações de Produtores do setor hortofrutícola ou ao abrigo dos instrumentos com financiamento público nacional ou europeu;\n\nb) Ao setor de uva de vinho, conforme previsto na intervenção setorial «Seguros de colheitas», enquadrado no Programa nacional para apoio ao setor da vitivinicultura;\n\nc) A abranger os mesmos riscos e o mesmo período de cobertura relativamente à mesma cultura instalada numa parcela ou subparcela.\n\n3 - Não são elegíveis os encargos fiscais, parafiscais e custos da apólice."
+  },
+  "840849532": {
+   "fragment_id": "847575538",
+   "type": 11,
+   "heading": "Artigo 8.º — Obrigações dos beneficiários e tomadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Obrigações dos beneficiários e tomadores\n\n1 - Os beneficiários da intervenção prevista na presente portaria são obrigados a manter, até ao final do contrato de seguro:\n\na) A titularidade das parcelas registadas no iSIP nas quais estão inseridas as culturas objeto de seguro;\n\nb) A apólice de seguro.\n\n2 - Os tomadores previstos no n.º 2 do artigo 5.º são ainda obrigados a:\n\na) Possuir autorização dos agricultores para a celebração do contrato de seguro;\n\nb) Responder solidariamente com o segurado pelo reembolso dos pagamentos indevidos."
+  },
+  "840849533": {
+   "fragment_id": "847575539",
+   "type": 11,
+   "heading": "Artigo 9.º — Forma do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Forma do apoio\n\nO apoio previsto na presente portaria assume a forma de reembolso dos custos elegíveis efetivamente incorridos pelo beneficiário."
+  },
+  "840849534": {
+   "fragment_id": "847575540",
+   "type": 11,
+   "heading": "Artigo 10.º — Níveis e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Níveis e limites do apoio\n\nOs níveis de apoio a conceder são os seguintes:\n\na) 70 % do prémio, para os contratos de seguro subscritos por responsáveis de explorações reconhecidas ao abrigo do Estatuto da Agricultura Familiar, nos termos do Decreto-Lei n.º 64/2018, de 7 de agosto e da Portaria n.º 73/2019, de 7 de março, nas suas redações em vigor;\n\nb) 60 % do prémio, para os contratos de seguro coletivo, para contratos de seguros individuais de segurados que tenham aderido a um seguro agrícola no ano anterior, bem como para contratos de seguro subscritos por jovens agricultores em primeira instalação;\n\nc) 57 % do prémio, nas restantes situações."
+  },
+  "840849535": {
+   "fragment_id": "847575541",
+   "type": 1,
+   "heading": "Capítulo II — Procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Procedimentos"
+  },
+  "840849536": {
+   "fragment_id": "847575542",
+   "type": 11,
+   "heading": "Artigo 11.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas em contínuo, durante o ano civil ao qual a apólice diz respeito, de acordo com o plano de abertura de candidaturas divulgado no portal do IFAP, I. P., em www.ifap.pt.\n\n2 - A apresentação das candidaturas efetua-se através de formulário eletrónico disponível em www.ifap.pt e estão sujeitas a confirmação por via eletrónica, a efetuar pelo IFAP, I. P., considerando-se a data de submissão como a data de apresentação da candidatura.\n\n3 - As candidaturas são apresentadas por intermédio das empresas de seguros."
+  },
+  "840849537": {
+   "fragment_id": "847575543",
+   "type": 11,
+   "heading": "Artigo 12.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Análise e decisão das candidaturas\n\n1 - O IFAP., I. P. analisa e decide as candidaturas, no prazo máximo de 45 dias úteis, de acordo com os critérios de elegibilidade previstos na presente portaria e com a dotação orçamental desta intervenção.\n\n2 - A decisão é comunicada pelo IFAP, I. P., às empresas de seguros e aos tomadores, no prazo máximo de cinco dias úteis a contar da data da decisão, na área reservada do respetivo portal, em www.ifap.pt.\n\n3 - O termo de aceitação é autenticado com a submissão da candidatura."
+  },
+  "840849538": {
+   "fragment_id": "847575544",
+   "type": 11,
+   "heading": "Artigo 13.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação do pedido de pagamento relativamente às candidaturas aprovadas é efetuada pela empresa de seguros que tenha celebrado contrato de seguro com os tomadores previstos no n.º 2 do artigo 5.º da presente portaria, e mediante apresentação de comprovativo da despesa, através de submissão de formulário eletrónico disponível no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Apenas são aceites pedidos de pagamento relativos a contratos de seguro celebrados com os agricultores beneficiários previstos no artigo 5.º da presente portaria, aos quais tenha sido efetuado o desconto no prémio de seguro do valor correspondente ao apoio estabelecido no artigo 10.º\n\n3 - O prazo para apresentação dos pedidos de pagamento é divulgado pelo IFAP, I. P., no respetivo portal, em www.ifap.pt."
+  },
+  "840849539": {
+   "fragment_id": "847575545",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise do pedido de pagamento e pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise do pedido de pagamento e pagamento\n\n1 - O IFAP, I. P. analisa o pedido de pagamento e apura o montante a pagar a cada beneficiário após realização dos controlos estabelecidos e tendo em conta os critérios de elegibilidade definidos.\n\n2 - Tendo em conta o estabelecido no n.º 2 do artigo anterior, o apoio calculado para cada beneficiário é pago por transferência bancária, para o número de identificação bancária indicado pela empresa de seguros, no prazo máximo de 45 dias úteis a contar da data de apresentação do pedido de pagamento."
+  },
+  "840849540": {
+   "fragment_id": "847575546",
+   "type": 11,
+   "heading": "Artigo 15.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Controlo\n\nAs candidaturas e os pedidos de pagamento estão sujeitos a controlos administrativos e in loco, nos termos do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho."
+  },
+  "840849541": {
+   "fragment_id": "847575547",
+   "type": 11,
+   "heading": "Artigo 16.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Reduções e exclusões\n\n1 - O apoio é calculado com base nos montantes considerados elegíveis no decurso dos controlos administrativos realizados.\n\n2 - Em caso de incumprimento ou qualquer irregularidade detetada, são aplicáveis as disposições nacionais em conjugação com o previsto no Título IV do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho.\n\n3 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento de candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P. para recuperação dos montantes indevidamente recebidos, são aplicáveis as seguintes disposições:\n\na) O apoio não é pago ou é recuperado na totalidade sempre que os critérios de elegibilidade não forem respeitados;\n\nb) Em caso de incumprimento das obrigações dos beneficiários referidas no n.º 1 do artigo 8.º, o apoio é reduzido ou recuperado parcialmente, de forma proporcional ao período de incumprimento;\n\nc) Se a diferença entre o montante candidato e o montante apurado for superior a 20 %, o apoio é reduzido e é aplicada uma sanção administrativa adicional no montante correspondente à diferença apurada.\n\n4 - A soma da redução e da sanção referidas na alínea c) do número anterior, não pode ir além da recuperação total do apoio."
+  },
+  "840849542": {
+   "fragment_id": "847575548",
+   "type": 1,
+   "heading": "Capítulo III — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições finais"
+  },
+  "840849543": {
+   "fragment_id": "847575549",
+   "type": 11,
+   "heading": "Artigo 17.º — Contributo para o desempenho do PEPAC Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Contributo para o desempenho do PEPAC Portugal\n\n1 - A presente intervenção contribui para o objetivo específico estabelecido na alínea a) do artigo 6.º do Regulamento (UE) 2021/2115, «Apoiar o rendimento viável das explorações agrícolas e a resiliência do sector agrícola em toda a União, a fim de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como de garantir a sustentabilidade económica da produção agrícola na União».\n\n2 - Para efeitos do cumprimento das metas dos indicadores de resultados do PEPAC Portugal, releva o indicador «R5: Gestão de riscos» estabelecido no anexo I do Regulamento (UE) 2021/2115."
+  },
+  "840849544": {
+   "fragment_id": "847575550",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, aplicando-se aos contratos de seguro celebrados a partir de 1 de janeiro de 2023."
+  },
+  "840849551": {
+   "fragment_id": "847575542",
+   "type": 11,
+   "heading": "Artigo 11.º — Apresentação das candidaturas",
+   "in_force_from": "2024-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2024 - Diário da República n.º 30/2024, Série I de 2024-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/48-2024-847575481), em vigor a partir de 2024-02-13, produz efeitos a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - As candidaturas são apresentadas de acordo com o plano de abertura de candidaturas divulgado no portal do IFAP, I. P., em www.ifap.pt.\n\n2 - A apresentação das candidaturas efetua-se através de formulário eletrónico disponível em www.ifap.pt e estão sujeitas a confirmação por via eletrónica, a efetuar pelo IFAP, I. P., considerando-se a data de submissão como a data de apresentação da candidatura.\n\n3 - As candidaturas são apresentadas por intermédio das empresas de seguros.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2024 - Diário da República n.º 30/2024, Série I de 2024-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/48-2024-847575481), em vigor a partir de 2024-02-13, produz efeitos a partir de 2023-02-28"
+  },
+  "840849552": {
+   "fragment_id": "847575543",
+   "type": 11,
+   "heading": "Artigo 12.º — Análise e decisão das candidaturas",
+   "in_force_from": "2024-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2024 - Diário da República n.º 30/2024, Série I de 2024-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/48-2024-847575481), em vigor a partir de 2024-02-13, produz efeitos a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 12.º — Análise e decisão das candidaturas\n\n1 - As candidaturas são, em sede de controlo administrativo, analisadas e validadas pelo IFAP, I. P., e, após esta validação, decididas, no prazo máximo de 45 dias úteis, pela autoridade de gestão do PEPAC no continente, de acordo com os critérios de elegibilidade previstos na presente portaria e com a dotação orçamental desta intervenção.\n\n2 - A decisão é comunicada pelo IFAP, I. P., às empresas de seguros e aos tomadores, no prazo máximo de cinco dias úteis a contar da data da decisão, na área reservada do respetivo portal, em www.ifap.pt.\n\n3 - O termo de aceitação é autenticado com a submissão da candidatura.\n\n4 - A verificação do cumprimento das condições de elegibilidade do beneficiário ou das suas obrigações, bem como a transmissão de informação necessária à formalização e gestão do contrato de seguro e à concessão do apoio, será realizada, sempre que tecnicamente possível, com recurso à interoperabilidade de dados entre organismos da Administração Pública e entre as entidades intervenientes na presente intervenção, via webservice ou plataformas de interoperabilidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2024 - Diário da República n.º 30/2024, Série I de 2024-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/48-2024-847575481), em vigor a partir de 2024-02-13, produz efeitos a partir de 2023-02-28"
+  },
+  "840849553": {
+   "fragment_id": "847575547",
+   "type": 11,
+   "heading": "Artigo 16.º — Reduções e exclusões",
+   "in_force_from": "2024-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2024 - Diário da República n.º 30/2024, Série I de 2024-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/48-2024-847575481), em vigor a partir de 2024-02-13, produz efeitos a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 16.º — Reduções e exclusões\n\n1 - O apoio é calculado com base nos montantes considerados elegíveis no decurso dos controlos realizados.\n\n2 - Em caso de incumprimento ou qualquer irregularidade detetada, são aplicáveis as disposições nacionais em conjugação com o previsto no Título IV do Regulamento (UE) 2021/2116, do Parlamento Europeu e do Conselho.\n\n3 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento de candidatura, controlo e pagamento das ajudas, apoios, prémios e outras subvenções a efetuar pelo IFAP, I. P. para recuperação dos montantes indevidamente recebidos, são aplicáveis as seguintes disposições:\n\na) O apoio não é pago ou é recuperado na totalidade sempre que os critérios de elegibilidade não forem respeitados;\n\nb) Em caso de incumprimento das obrigações dos beneficiários referidas no n.º 1 do artigo 8.º, o apoio é reduzido ou recuperado parcialmente, de forma proporcional ao período de incumprimento;\n\nc) Se a diferença entre o montante candidato e o montante apurado for superior a 20 %, o apoio é reduzido e é aplicada uma sanção administrativa adicional no montante correspondente à diferença apurada.\n\n4 - A soma da redução e da sanção referidas na alínea c) do número anterior, não pode ir além da recuperação total do apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 48/2024 - Diário da República n.º 30/2024, Série I de 2024-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/48-2024-847575481), em vigor a partir de 2024-02-13, produz efeitos a partir de 2023-02-28"
+  },
+  "840849545": {
+   "fragment_id": "847575551",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023.\n\n116206783"
+  }
+ }
+}

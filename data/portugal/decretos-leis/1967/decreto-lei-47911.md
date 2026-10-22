@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:390269:por
+title: Decreto-Lei n.º 47911
+short_title: null
+summary: Altera a estrutura do Conselho Nacional de Crédito, criado pelo artigo 29.º do Decreto-Lei n.º 41403 - Revoga o Decreto-Lei
+  n.º 45297
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Gabinete do Ministro
+proposing_entity: null
+official_number: '47911'
+official_date: null
+publication_date: '1967-09-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 209/1967, Série I de 1967-09-07
+  number: '209'
+  series: I
+  supplement: null
+  pages: 1610 - 1611
+  pdf_url: https://files.diariodarepublica.pt/1s/1967/09/20900/16101611.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390269'
+  dre_path: /dr/detalhe/decreto-lei/47911-1967-390269
+  internal: pt:dre:390269:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47911-1967-390269
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47911-1967-390269
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1974-12-31T00:00:00Z'
+integrity:
+  source_sha256: e7a5771af2557ef1075472a4f189803edbc176f34c97e713b7a157729bec9aac
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1967/DRE-1967-47911-390269.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:235966:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 47911
+
+Reconhece-se conveniente alterar a estrutura do Conselho Nacional de Crédito, passando a participar nele o Ministro do Ultramar, alargando o número dos seus membros e conferindo representatividade às instituições de crédito com sede nas províncias ultramarinas.
+
+Considera-se também recomendável incluir expressamente dentro da competência especial do Conselho a apreciação de problemas relativos ao funcionamento do sistema de compensação e de pagamentos interterritoriais no espaço português.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. O Conselho Nacional de Crédito, criado pelo artigo 29.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, é um órgão consultivo para os problemas especìficamente financeiros da política de crédito.
+
+2. O Conselho será presidido pelo Ministro das Finanças e terá como vice-presidente o Subsecretário de Estado do Tesouro, podendo nele participar o Ministro do Ultramar ou, por delegação deste, o Subsecretário de Estado do Fomento Ultramarino. Quando estiver presente o Ministro do Ultramar, a presidência será assumida conjuntamente por ambos os Ministros.
+
+3. O Conselho será constituído pelas seguintes entidades:
+
+a) Presidente da Corporação de Crédito e Seguros;
+
+b) Governador do Banco de Portugal;
+
+c) Governador do Banco Nacional Ultramarino;
+
+d) Governador do Banco de Angola;
+
+c) Presidente da Junta do Crédito Público;
+
+f) Administrador-geral da Caixa Geral de Depósitos, Crédito e Previdência;
+
+g) Governador do Banco de Fomento Nacional;
+
+h) Director-geral do Secretariado Técnico da Presidência do Conselho;
+
+i) Inspector-geral de Crédito e Seguros;
+
+j) Director-geral de Economia, do Ministério do Ultramar;
+
+l) Quatro representantes dos bancos comerciais, sendo um deles o presidente da direcção do Grémio Nacional dos Bancos e Casas Bancárias e os três restantes a designar por este organismo;
+
+m) Um representante das instituições de crédito com sede nas províncias ultramarinas e por aquelas eleito;
+
+n) Um representante do Ministério da Economia com a categoria de director-geral;
+
+o) Um representante do Ministério das Corporações e Previdência Social com a categoria de director-geral.
+
+4. Poderão tomar parte nas reuniões do Conselho os inspectores de crédito e seguros ou do comércio bancário das províncias ultramarinas, bem como individualidades de reconhecida competência em matéria económica e financeira, quando para o efeito sejam convidados.
+
+5. Os membros natos do Conselho serão substituídos, nas suas faltas ou impedimentos, nos termos da respectiva lei orgânica do serviço, quando se trate de funcionários, ou dos estatutos da instituição que representem, quando se trate de outras entidades.
+
+###### Art. 2.º Compete especialmente ao Conselho Nacional de Crédito:
+
+1.º Estudar e propor as providências aconselháveis para melhorar a estrutura e funcionamento do sistema bancário e de crédito nos territórios nacionais e, bem assim, para disciplinar a concorrência interbancária e assegurar a normalidade dos mercados monetário e de capitais;
+
+2.º Apreciar e propor medidas conducentes ao eficaz funcionamento do sistema de compensação e de pagamentos interterritoriais no espaço português;
+
+3.º Publicar, no Boletim de Crédito da Inspecção-Geral de Crédito e Seguros, um relatório sobre a situação do crédito e da estrutura bancária no ano anterior e respeitante ao conjunto económico nacional;
+
+4.º Pronunciar-se sobre os problemas cuja apreciação lhe seja expressamente atribuída por lei ou que o Governo entenda submeter-lhe.
+
+###### Art. 3.º O Conselho Nacional de Crédito reunirá obrigatòriamente em Janeiro, a fim de designar um ou mais dos seus membros para relatarem a situação do crédito e da estrutura bancária do continente, ilhas adjacentes e províncias ultramarinas no ano anterior, e em, Setembro, a fim de apreciar o projecto de relatório elaborado para os efeitos do n.º 3.º do artigo antecedente.
+
+###### Art. 4.º O Conselho Nacional de Crédito poderá requisitar aos serviços do Estado e das províncias ultramarinas, aos organismos de coordenação económica e corporativos, às instituições de previdência social, às instituições de crédito e a quaisquer outras entidades as informações de que carecer para o cumprimento das suas atribuições.
+
+###### Art. 5.º O expediente do Conselho Nacional de Crédito será assegurado pela Inspecção-Geral de Crédito e Seguros, à qual incumbirá a recolha das informações a que se refere o artigo anterior.
+
+###### Art. 6.º - 1. A competência conferida ao Conselho pelo n.º 1.º do artigo 2.º deste diploma será exercida sem prejuízo das atribuições do Grémio Nacional dos Bancos e Casas Bancárias, o qual deverá fiscalizar os seus agremiados, especialmente em matéria de concorrência desregrada ou de quebra da disciplina interbancária, com vista à aplicação das sanções previstas nos seus estatutos e à comunicação à Inspecção-Geral de Crédito e Seguros das infracções cuja averiguação seja da competência desta entidade.
+
+2. Para o desempenho das atribuições a que se refere o número anterior, poderá o Grémio proceder à elaboração dos necessários regulamentos, a aprovar pelo Ministro das Finanças, designadamente criando delegações distritais e meios de inspecção considerados indispensáveis.
+
+###### Art. 7.º Fica revogado o [Decreto-Lei n.º 45297](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45297-1963-687388), de 8 Outubro de 1963.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 7 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

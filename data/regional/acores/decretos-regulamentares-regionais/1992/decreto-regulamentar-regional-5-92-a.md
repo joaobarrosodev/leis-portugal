@@ -1,0 +1,130 @@
+---
+schema_version: '1.0'
+id: pt:dre:149826:por
+title: Decreto Regulamentar Regional n.º 5/92/A
+short_title: null
+summary: Altera os quadros de pessoal dos Hospitais de Angra do Heroísmo e de Ponta Delgada
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Secretaria Regional da Saúde e Segurança Social - Direcção Regional de Saúde
+proposing_entity: null
+official_number: 5/92/A
+official_date: null
+publication_date: '1992-02-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 27/1992, Série I-B de 1992-02-01
+  number: '27'
+  series: I
+  supplement: null
+  pages: 692 - 693
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/5/1992/02/01/a/dre/pt/html
+  oj: null
+  dre: '149826'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/5-1992-149826
+  internal: pt:dre:149826:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1992-149826
+  metadata_url: https://data.dre.pt/eli/decregulreg/5/1992/02/01/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1992-149826
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-01-11T00:00:00Z'
+integrity:
+  source_sha256: bf5c65237e350898d552b8d2101b2469ed5aa041febf6907d62f44ad719df46a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1992/DRE-1992-5-149826.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Angra do Heroísmo
+- Ponta Delgada
+- Quadro de Pessoal
+- Estabelecimento Hospitalar
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:658216:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/296/1991/08/16/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 5/92/A
+
+O [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, veio criar a carreira de técnico superior de serviço social, pelo que deverão ser alterados os quadros de pessoal dos serviços de saúde da Região.
+
+Assim, e em cumprimento do estipulado no artigo 4.º do [Decreto-Lei n.º 296/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-1991-674062), de 16 de Agosto, o Governo Regional decreta, nos termos da alínea g) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Alteração dos quadros de pessoal
+
+Os quadros de pessoal dos Hospitais de Angra do Heroísmo e de Ponta Delgada passam a ser os constantes dos mapas anexos ao presente diploma, de que fazem parte integrante.
+
+###### Artigo 2.º — Entrada em vigor
+
+O presente decreto regulamentar regional entra em vigor na data da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 20 de Novembro de 1991.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 2 de Janeiro de 1992.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**
+
+Quadro I a que se refere o artigo 1.º
+
+Hospital de Angra do Heroísmo
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf))](https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf)
+
+Quadro II a que se refere o artigo 1.º
+
+Hospital de Ponta Delgada
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf))](https://files.diariodarepublica.pt/1s/1992/02/027b00/06920693.pdf)

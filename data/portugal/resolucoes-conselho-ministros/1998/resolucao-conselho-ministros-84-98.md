@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:485026:por
+title: Resolução do Conselho de Ministros n.º 84/98
+short_title: null
+summary: Reestrutura o sistema de autoridade marítima (SAM)
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 84/98
+official_date: null
+publication_date: '1998-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/1998, Série I-B de 1998-07-10
+  number: '157'
+  series: I
+  supplement: null
+  pages: 3255 - 3258
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/07/157b00/32553258.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/84/1998/07/10/p/dre/pt/html
+  oj: null
+  dre: '485026'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/84-1998-485026
+  internal: pt:dre:485026:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-1998-485026
+  metadata_url: https://data.dre.pt/eli/resolconsmin/84/1998/07/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/84-1998-485026
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-07-10T00:00:00Z'
+integrity:
+  source_sha256: 07194af07cfce323d00b69d47ae4793169c62455a06bd8dfb7c0ab5e807d9be2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-84-485026.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reestruturação de Serviços
+- Sistema de Autoridade Marítima
+- Ministério da Defesa Nacional
+- Ministério da Administração Interna
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Mar Territorial
+- Registo de Navios
+- Ministério do Equipamento do Planeamento e da Administração do Território
+- Ministério da Cultura
+- Ministério das Finanças
+- Ministério da Justiça
+- Grupo de Trabalho
+- Grupo de Trabalho Interministerial
+- Mandato
+- Ministério do Ambiente
+- Património Subaquático
+- Presidente
+- Secretário de Estado da Presidência do Conselho de Ministros
+- Ministério da Saúde
+- Segurança Marítima
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/185/1996/11/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/185/1996/11/28/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 84/98
+
+A alínea l) do n.º 3.4 da parte I do Programa do XIII Governo Constitucional estabelece como objectivo da revisão do sistema de autoridade marítima (SAM) a clarificação da articulação entre as diferentes entidades competentes no domínio das costas e águas sob jurisdição portuguesa.
+
+A [Resolução do Conselho de Ministros n.º 185/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/185-1996-198907), de 28 de Novembro, veio, no seu artigo 1.º, criar um grupo de trabalho interministerial tendo como objecto delimitar, definir e organizar a actividade dos departamentos de Estado com responsabilidades nos domínios das costas e das águas sob jurisdição marítima nacional, tendo em vista a redefinição de atribuições, a reestruturação interna e a reformulação do enquadramento do SAM. O preâmbulo desta resolução aponta para a criação das necessárias sinergias que compatibilizem a elevação da qualidade do serviço público prestado à comunidade, em particular aos agentes económicos, e da eficácia das acções de controlo e fiscalização com a garantia da máxima economia de meios.
+
+Verificam-se hoje fragilidades para o exercício eficaz das atribuições cometidas ao SAM que resultam da inadequação do sistema a realidades emergentes como sejam: o alargamento progressivo da área de jurisdição confiada ao Estado costeiro (12 milhas de mar territorial, 12 milhas de zona contígua e 200 milhas de zona económica exclusiva); a redefinição dos factores de risco à fronteira externa, nomeadamente no que respeita ao controlo da imigração clandestina, ao combate à criminalidade internacional - dando-se uma ênfase particular ao tráfico de drogas e ao terrorismo -, a crescente preocupação com os problemas ambientais e com o combate à poluição; a necessidade de controlar o tráfego de mercadorias perigosas; o imperativo de gerir os recursos pesqueiros com base numa ideia de desenvolvimento sustentado; a exigência de proceder ao ordenamento do território da orla costeira; e, finalmente, a necessidade de tornar o transporte marítimo mais competitivo, com destaque para a simplificação e desburocratização de procedimentos.
+
+O SAM, no eclectismo do seu objecto, integra um complexo de missões, nem sempre fáceis de determinar, das quais foram identificadas como mais importantes:
+
+As desenvolvidas ao nível da busca e salvamento de pessoas e bens;
+
+A protecção civil, com incidência no mar e faixa litoral;
+
+A fiscalização de actividades de aproveitamento económico dos recursos vivos e não vivos;
+
+A fiscalização de actividades lesivas do meio ambiente;
+
+A fiscalização do património cultural, em especial do património arqueológico subaquático;
+
+A protecção da saúde pública;
+
+A sinalização e controlo da navegação;
+
+A fiscalização das condições de segurança dos navios;
+
+A definição dos ilícitos em matéria aduaneira, fiscal, económica, laboral e das actividades em matéria de investigação científica;
+
+O registo e documentação de navios;
+
+Assegurar a prevenção e repressão da criminalidade, nomeadamente a relacionada com o tráfico de droga, terrorismo e pirataria, e da imigração clandestina; e, por último,
+
+A garantia da segurança pública na faixa litoral.
+
+Em termos de estrutura orgânica assumida pelo tecido administrativo nacional, já se assistiu a diversas realidades, das quais se podem apontar, como mais marcantes, a unicidade orgânica e técnica (que funcionou desde finais do século XVIII até à extinção do Ministério da Marinha, em 1974) e a bipolarização de coordenação administrativa e técnica das actividades marítimas (com a criação do Ministério do Mar). No momento actual é imperativo que se proceda a uma avaliação do SAM, a qual deverá ter presente a disposição territorial dos seus efectivos.
+
+Aquelas diferentes realidades orgânicas, actualmente com ampla intervenção técnica de múltiplas tutelas governativas, reflectem-se nos serviços prestados aos cidadãos, porquanto a burocratização existente dificulta a racionalização de procedimentos e a criação de mecanismos centralizados de tratamento das questões marítimas. As disfunções constatáveis entre os referidos departamentos traduzem-se, por vezes, em resultados de reduzida eficácia e eficiência relativamente ao serviço público prestado, tendo em conta a salvaguarda dos interesses do Estado e dos cidadãos em geral.
+
+Na economia do sistema, o aproveitamento dos meios existentes torna imperativa a criação de procedimentos de transmissão de informações entre os vários departamentos envolvidos, o que constitui um pressuposto de eficácia da sua dimensão operativa. Com vista à prossecução deste objectivo, deve ser traçado um plano legislativo para o SAM, que terá de incluir a regulamentação da legislação existente, a transposição de directivas comunitárias, a introdução de emendas a convenções internacionais, bem como a sua aprovação ou ratificação.
+
+O modelo preconizado pelo grupo de trabalho aponta para uma clarificação orgânica dos vários tipos e capacidades de intervenção, com circulação da informação recolhida pelos diversos serviços, coordenação de actividades e racionalização de meios empregues por forma a rentabilizar os recursos existentes. Assim, a solução global para o SAM passará por uma apreciação do tipo de intervenção que cada uma das entidades envolvidas nos serviços públicos ligados às actividades marítimas virá a ter, nomeadamente analisando especificamente o relacionamento entre autoridades administrativas, tutelas técnicas, entidades policiais e entidades fiscalizadoras.
+
+A exiguidade de meios recomenda que a componente operacional do sistema seja objecto de uma rigorosa avaliação em termos de eficácia de comando, avaliação das necessidades e custos.
+
+A definição de um novo perfil para o SAM terá de ter presente as alterações em curso ao nível de diversas políticas, as que se referem aos portos, ao combate à poluição marítima e ao ordenamento do território na orla costeira, de modo que se definam sem dúvidas nem ambiguidades os moldes em que deve ser exercida a soberania sobre os espaços marítimos confiados ao Estado Português. O SAM traduz-se numa política horizontal, pelo que as suas linhas rectoras devem ser articuladas com as restantes políticas com incidência no espaço marítimo.
+
+Em termos de política externa, os conhecimentos adquiridos em matéria de fiscalização podem ser exportados, nomeadamente para os países africanos de língua oficial portuguesa, e o capital de experiência adquirido poderá possibilitar a instalação em Portugal de uma instituição, comunitária ou internacional, que centralize informação e proceda à formação de quadros nestas áreas.
+
+A reorganização do SAM deve ser vista como parte integrante de uma estratégia do Estado Português para um reforço do conhecimento e da protecção dos oceanos. Nesta vertente, deve atender-se ao facto de 1998 ser o Ano Internacional dos Oceanos e de se realizar em Portugal a EXPO 98, exposição mundial subordinada ao tema «Os oceanos, um património para o futuro», com a participação de mais de 130 países, promovendo-se a adequada articulação entre o sistema e um evento único em Portugal, com ganhos garantidos em termos de experiência e de difusão científica e cultural.
+
+O grupo de trabalho que até agora funcionou e que procedeu já à completa análise da situação actual, identificando melhorias a introduzir no curto prazo, deverá ver o seu mandato prorrogado, para que se possa verificar um completo acompanhamento do processo de reformulação do SAM.
+
+Na sequência da Lei Orgânica do XIII Governo, a tutela do grupo de trabalho passa do Ministro da Presidência para o Secretário de Estado da Presidência do Conselho de Ministros.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu:
+
+1 - Ratificar a metodologia seguida pelo grupo de trabalho, que se traduz nas seguintes linhas de orientação quanto ao SAM:
+
+a) Clarificar e diluir as zonas conflituais de competência, tendo em vista a eliminação de vazios administrativos e legais;
+
+b) Privilegiar, no imediato, as acções que se prendam com a melhoria da eficiência e eficácia de actuação dos departamentos envolvidos, em especial nas áreas de coordenação do controlo e vigilância;
+
+c) Proceder ao levantamento dos sistemas geradores de informação, já existentes e em projecto, com identificação das possibilidades de partilha da mesma;
+
+d) Avaliação do impacte financeiro dos resultados das acções projectadas e desencadeadas.
+
+2 - Determinar, no âmbito de cada departamento e no prazo de 60 dias a contar da publicação da presente resolução, a enumeração das actividades em curso dentro das orientações definidas, no âmbito do grupo de trabalho, acompanhada da respectiva calendarização e avaliação das actividades já desenvolvidas.
+
+3 - Determinar igualmente que no prazo referido no número anterior devem ser apresentadas pelo grupo de trabalho propostas devidamente calendarizadas das seguintes acções de cooperação interdepartamental:
+
+a) Ligação dos centros operacionais;
+
+b) Protocolo de utilização dos meios aéreos em missões de serviço público;
+
+c) Protocolo de utilização de meios navais em missões de serviço público, considerando a diversidade de tarefas e a repartição de custos;
+
+d) Protocolos relativos à circulação e partilha de informações;
+
+e) Protocolos relativos às acções de formação;
+
+f) Racionalização de procedimentos administrativos e de utilização de infra-estruturas;
+
+g) Concentração de dados e informatização relativa ao registo de navios;
+
+h) Caracterização e aquisição do sistema de controlo de tráfego marítimo (VTS, vessel traffic service);
+
+i) Caracterização e aquisição de meios navais a utilizar predominantemente em missões de serviço público;
+
+j) Caracterização, aquisição ou utilização de um navio preferencialmente em missões de combate à poluição.
+
+4 - Redefinir as atribuições, proceder à reestruturação interna e à reformulação do enquadramento orgânico do SAM, para isso mandatando o grupo de trabalho, para, num prazo não superior a quatro meses:
+
+a) Garantir a coordenação das acções de cooperação interdepartamental;
+
+b) Avaliar e calendarizar as acções interdepartamentais que impliquem aumento de despesa, identificando fontes de financiamento;
+
+c) Apresentar o projecto legislativo de organização do SAM;
+
+d) Apresentar as propostas legislativas de interacção dos departamentos do Estado.
+
+5 - Prorrogar por quatro meses o mandato do grupo de trabalho constituído pela [Resolução do Conselho de Ministros n.º 185/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/185-1996-198907), de 28 de Novembro, prorrogável por despacho do Secretário de Estado da Presidência de Conselho de Ministros.
+
+6 - O grupo de trabalho referido no número anterior passa a ter a seguinte composição:
+
+a) Um representante do Secretário de Estado da Presidência do Conselho de Ministros, que assumirá as funções de presidente;
+
+b) Quatro representantes dos órgãos integrantes do Ministério da Defesa Nacional (sendo um da Marinha, um da Força Aérea, um do SAM e um dos órgãos e serviços centrais do Ministério da Defesa Nacional);
+
+c) Um representante do Ministério das Finanças;
+
+d) Dois representantes do Ministério da Administração Interna;
+
+e) Dois representantes do Ministério do Equipamento, do Planeamento e da Administração do Território;
+
+f) Dois representantes do Ministério da Justiça;
+
+g) Um representante do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas;
+
+h) Um representante do Ministério da Saúde;
+
+i) Um representante do Ministério do Ambiente;
+
+j) Um representante do Ministério da Cultura.
+
+7 - Na dependência do Secretário de Estado da Presidência do Conselho de Ministros funcionará uma assessoria do grupo de trabalho, que integrará o máximo de dois peritos.
+
+8 - As despesas com o funcionamento do grupo, com os peritos e com o respectivo secretariado ficam a cargo do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.
+
+Presidência do Conselho de Ministros, 26 de Fevereiro de 1998. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

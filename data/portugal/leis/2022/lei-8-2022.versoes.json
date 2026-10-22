@@ -1,0 +1,287 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177350573:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2022-177392492",
+ "dre_path": "/dr/detalhe/lei/8-2022-177350573",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-01-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177443394",
+    "177443395",
+    "177443396",
+    "177443397",
+    "177443398",
+    "177443399",
+    "177443400",
+    "1112891375",
+    "1112891575",
+    "1112893675",
+    "1112891975",
+    "1112892175",
+    "1112893875",
+    "1112894075",
+    "1112892375",
+    "1112894275",
+    "1112892575",
+    "177443401",
+    "177443402",
+    "177443403",
+    "177443404",
+    "177443405",
+    "177443406",
+    "177443407"
+   ]
+  },
+  {
+   "date": "2022-04-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178714942:por",
+     "title": "Declaração de Retificação n.º 5/2022",
+     "published": "2022-02-08",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/5-2022-178714942"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º",
+    "Retifica Artigo 9.º"
+   ],
+   "fragments": [
+    "177443394",
+    "177443395",
+    "177443396",
+    "178602149",
+    "177443398",
+    "177443399",
+    "177443400",
+    "177443401",
+    "177443402",
+    "178602150",
+    "177443404",
+    "177443405",
+    "177443406",
+    "177443407"
+   ]
+  }
+ ],
+ "fragments": {
+  "177443394": {
+   "fragment_id": "177392493",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 8/2022\n\nde 10 de janeiro\n\nSumário: Revê o regime da propriedade horizontal, alterando o Código Civil, o Decreto-Lei n.º 268/94, de 25 de outubro, e o Código do Notariado.\n\nRevê o regime da propriedade horizontal, alterando o Código Civil, o Decreto-Lei n.º 268/94, de 25 de outubro, e o Código do Notariado\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "177443395": {
+   "fragment_id": "177392494",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei revê o regime da propriedade horizontal, procedendo à:\n\na) Alteração ao Código Civil, aprovado pelo Decreto-Lei n.º 47 344, de 25 de novembro de 1966;\n\nb) Segunda alteração ao Decreto-Lei n.º 268/94, de 25 de outubro, que estabelece normas regulamentares do regime da propriedade horizontal, alterado pelo Decreto-Lei n.º 81/2020, de 2 de outubro;\n\nc) Alteração ao Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de agosto."
+  },
+  "177443396": {
+   "fragment_id": "177392495",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Código Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Código Civil\n\nOs artigos 1419.º, 1424.º, 1427.º, 1431.º, 1432.º, 1436.º e 1437.º do Código Civil passam a ter a seguinte redação:\n\n«Artigo 1419.º\n\n[...]\n\n1 - [...]\n\n2 - A falta de acordo para alteração do título constitutivo quanto a partes comuns pode ser suprida judicialmente, sempre que os votos representativos dos condóminos que nela não consintam sejam inferiores a 1/10 do capital investido e a alteração não modifique as condições de uso, o valor relativo ou o fim a que as suas frações se destinam.\n\n3 - O administrador, em representação do condomínio, pode outorgar a escritura ou elaborar e subscrever o documento particular a que se refere o n.º 1, desde que o acordo conste de ata assinada por todos os condóminos.\n\n4 - (Anterior n.º 3.)\n\nArtigo 1424.º\n\n[...]\n\n1 - Salvo disposição em contrário, as despesas necessárias à conservação e fruição das partes comuns do edifício e relativas ao pagamento de serviços de interesse comum são da responsabilidade dos condóminos proprietários das frações no momento das respetivas deliberações, sendo por estes pagas em proporção do valor das suas frações.\n\n2 - Sem prejuízo do disposto no número anterior, as despesas relativas ao pagamento de serviços de interesse comum podem, mediante disposição do regulamento de condomínio, aprovada, sem oposição, por maioria dos condóminos que representem a maioria do valor total do prédio, ficar a cargo dos condóminos em partes iguais ou em proporção à respetiva fruição, desde que devidamente especificadas e justificados os critérios que determinam a sua imputação.\n\n3 - As despesas relativas às partes comuns do prédio que sirvam exclusivamente algum dos condóminos ficam a cargo dos que delas se servem.\n\n4 - [...]\n\n5 - [...]\n\n6 - Caso o estado de conservação das partes comuns referidas no n.º 3 do artigo 1421.º afete o estado de conservação ou o uso das demais partes comuns do prédio, o condómino a favor de quem está afeto o uso exclusivo daquelas apenas suporta o valor das respetivas despesas de reparação na proporção indicada no n.º 1, salvo se tal necessidade decorrer de facto que lhe seja imputável.\n\nArtigo 1427.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - São indispensáveis e urgentes as reparações necessárias à eliminação, num curto prazo, de vícios ou patologias existentes nas partes comuns que possam, a qualquer momento, causar ou agravar danos no edifício ou conjunto de edifícios, ou em bens, ou colocar em risco a segurança das pessoas.\n\nArtigo 1431.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - A reunião prevista no n.º 1 deste artigo pode realizar-se, excecionalmente, no primeiro trimestre de cada ano se esta possibilidade estiver contemplada no regulamento de condomínio ou resultar de deliberação, aprovada por maioria, da assembleia de condóminos.\n\nArtigo 1432.º\n\n[...]\n\n1 - [...]\n\n2 - A convocatória indicada no n.º 1 é efetuada através de correio eletrónico para os condóminos que manifestem essa vontade em assembleia de condóminos realizada anteriormente, devendo essa manifestação de vontade ficar lavrada em ata com a indicação do respetivo endereço de correio eletrónico.\n\n3 - Na situação prevista no número anterior, o condómino deve enviar, pelo mesmo meio, recibo de receção do respetivo e-mail convocatório.\n\n4 - (Anterior n.º 2.)\n\n5 - (Anterior n.º 3.)\n\n6 - (Anterior n.º 4.)\n\n7 - Sem prejuízo do disposto no número anterior, se estiverem reunidas as condições para garantir a presença, no próprio dia, de condóminos que representem um quarto do valor total do prédio, a convocatória pode ser feita para trinta minutos depois, no mesmo local.\n\n8 - (Anterior n.º 5.)\n\n9 - As deliberações têm de ser comunicadas a todos os condóminos ausentes, no prazo de 30 dias, por carta registada com aviso de receção ou por correio eletrónico, aplicando-se, neste caso, o disposto nos n.os 2 e 3.\n\n10 - (Anterior n.º 7.)\n\n11 - O silêncio dos condóminos é considerado como aprovação da deliberação comunicada nos termos do n.º 9.\n\n12 - (Anterior n.º 9.)\n\nArtigo 1436.º\n\n[...]\n\n1 - São funções do administrador, além de outras que lhe sejam atribuídas pela assembleia:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) Verificar a existência do fundo comum de reserva;\n\nf) Exigir dos condóminos a sua quota-parte nas despesas aprovadas, incluindo os juros legais devidos e as sanções pecuniárias fixadas pelo regulamento do condomínio ou por deliberação da assembleia;\n\ng) [Anterior alínea f).]\n\nh) [Anterior alínea g).]\n\ni) Executar as deliberações da assembleia que não tenham sido objeto de impugnação, no prazo máximo de 15 dias úteis, ou no prazo que por aquela for fixado, salvo nos casos de impossibilidade devidamente fundamentada;\n\nj) [Anterior alínea i).]\n\nl) [Anterior alínea j).]\n\nm) [Anterior alínea l).]\n\nn) [Anterior alínea m).]\n\no) Informar, por escrito ou por correio eletrónico, os condóminos sempre que o condomínio for citado ou notificado no âmbito de um processo judicial, processo arbitral, procedimento de injunção, procedimento contraordenacional ou procedimento administrativo;\n\np) Informar, pelo menos semestralmente e por escrito ou por correio eletrónico, os condóminos acerca dos desenvolvimentos de qualquer processo judicial, processo arbitral, procedimento de injunção, procedimento contraordenacional ou procedimento administrativo, salvo no que toca aos processos sujeitos a segredo de justiça ou a processos cuja informação deva, por outro motivo, ser mantida sob reserva;\n\nq) Emitir, no prazo máximo de 10 dias, declaração de dívida do condómino, sempre que tal seja solicitado pelo mesmo, nomeadamente para efeitos de alienação da fração.\n\nr) Intervir em todas as situações de urgência que o exijam, convocando de imediato assembleia extraordinária de condóminos para ratificação da sua atuação.\n\n2 - Sempre que estiver em causa deliberação da assembleia de condóminos relativamente a obras de conservação extraordinária ou que constituam inovação, a realizar no edifício ou no conjunto de edifícios, o administrador está obrigado a apresentar pelo menos três orçamentos de diferentes proveniências para a execução das mesmas, desde que o regulamento de condomínio ou a assembleia de condóminos não disponha de forma diferente.\n\n3 - O administrador de condomínio que não cumprir as funções que lhe são cometidas neste artigo, noutras disposições legais ou em deliberações da assembleia de condóminos é civilmente responsável pela sua omissão, sem prejuízo de eventual responsabilidade criminal, se aplicável.\n\nArtigo 1437.º\n\nRepresentação do condomínio em juízo\n\n1 - O condomínio é sempre representado em juízo pelo seu administrador, devendo demandar e ser demandado em nome daquele.\n\n2 - O administrador age em juízo no exercício das funções que lhe competem, como representante da universalidade dos condóminos ou quando expressamente mandatado pela assembleia de condóminos.\n\n3 - A apresentação pelo administrador de queixas-crime relacionadas com as partes comuns não carece de autorização da assembleia de condóminos.»"
+  },
+  "177443397": {
+   "fragment_id": "177392496",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Código Civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Código Civil\n\nÉ aditado o artigo 1424.º-A ao Código Civil, com a seguinte redação:\n\n«Artigo 1424.º-A\n\nResponsabilidade por encargos do condomínio\n\n1 - O condómino, para efeitos de celebração de contrato de alienação da fração da qual é proprietário, requer ao administrador a emissão de declaração escrita da qual conste o montante de todos os encargos de condomínio em vigor relativamente à sua fração, com especificação da sua natureza, respetivos montantes e prazos de pagamento, bem como, caso se verifique, das dívidas existentes, respetiva natureza, montantes, datas de constituição e vencimento.\n\n2 - A declaração referida no número anterior é emitida pelo administrador no prazo máximo de 10 dias a contar do respetivo requerimento e constitui um documento instrutório obrigatório da escritura ou do documento particular autenticado de alienação da fração em causa, salvo o disposto no número seguinte.\n\n3 - A responsabilidade pelas dívidas existentes é aferida em função do momento em que a mesma deveria ter sido liquidada, salvo se o adquirente expressamente declarar, na escritura ou no documento particular autenticado que titule a alienação da fração, que prescinde da declaração do administrador, aceitando, em consequência, a responsabilidade por qualquer dívida do vendedor ao condomínio.\n\n4 - Os montantes que constituam encargos do condomínio, independentemente da sua natureza, que se vençam em data posterior à transmissão da fração, são da responsabilidade do novo proprietário.»"
+  },
+  "177443398": {
+   "fragment_id": "177392497",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração ao Decreto-Lei n.º 268/94, de 25 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração ao Decreto-Lei n.º 268/94, de 25 de outubro\n\nOs artigos 1.º, 3.º, 4.º e 6.º do Decreto-Lei n.º 268/94, de 25 de outubro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - São obrigatoriamente lavradas atas das assembleias de condóminos, redigidas e assinadas por quem nelas tenha intervindo como presidente e subscritas por todos os condóminos nelas presentes.\n\n2 - A ata contém um resumo do que de essencial se tiver passado na assembleia de condóminos, indicando, designadamente, a data e o local da reunião, os condóminos presentes e ausentes, os assuntos apreciados, as decisões e as deliberações tomadas com o resultado de cada votação e o facto de a ata ter sido lida e aprovada.\n\n3 - A eficácia das deliberações depende da aprovação da respetiva ata, independentemente da mesma se encontrar assinada pelos condóminos.\n\n4 - (Anterior n.º 2.)\n\n5 - (Anterior n.º 3.)\n\n6 - A assinatura e a subscrição da ata podem ser efetuadas por assinatura eletrónica qualificada ou por assinatura manuscrita, aposta sobre o documento original ou sobre documento digitalizado que contenha outras assinaturas.\n\n7 - Para efeitos do disposto no presente artigo, vale como subscrição a declaração do condómino, enviada por correio eletrónico, para o endereço da administração do condomínio, em como concorda com o conteúdo da ata que lhe tenha sido remetida pela mesma via, declaração esta que deve ser junta, como anexo, ao original da ata.\n\n8 - Compete à administração do condomínio a escolha por um ou por vários dos meios previstos nos números anteriores, bem como a definição da ordem de recolha das assinaturas ou de recolha das declarações por via eletrónica, a fim de assegurar a aposição das assinaturas num único documento.\n\nArtigo 3.º\n\n[...]\n\n1 - (Anterior corpo do artigo.)\n\n2 - Os condóminos devem informar o administrador do condomínio do seu número de contribuinte, morada, contactos telefónicos e endereço de correio eletrónico e atualizar tais informações sempre que as mesmas sejam objeto de alteração.\n\n3 - A alienação das frações deve ser objeto de comunicação ao administrador do condomínio pelo condómino alienante, por correio registado expedido no prazo máximo de 15 dias a contar da mesma, devendo esta informação conter o nome completo e o número de identificação fiscal do novo proprietário.\n\n4 - A falta de comunicação indicada no número anterior responsabiliza o condómino alienante pelo valor das despesas inerentes à identificação do novo proprietário e pelos encargos suportados com a mora no pagamento dos encargos que se vencerem após a alienação.\n\nArtigo 4.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - No caso de, por deliberação da assembleia, o fundo comum de reserva ser utilizado para fim diverso do indicado no n.º 1, os condóminos devem assegurar o pagamento, no prazo máximo de 12 meses a contar da deliberação, da quotização extraordinária necessária à reposição do montante utilizado, aplicando-se o disposto no artigo 6.º no caso de não cumprimento dessa obrigação.\n\n4 - (Anterior n.º 3.)\n\nArtigo 6.º\n\n[...]\n\n1 - A ata da reunião da assembleia de condóminos que tiver deliberado o montante das contribuições a pagar ao condomínio menciona o montante anual a pagar por cada condómino e a data de vencimento das respetivas obrigações.\n\n2 - A ata da reunião da assembleia de condóminos que reúna os requisitos indicados no n.º 1 constitui título executivo contra o proprietário que deixar de pagar, no prazo estabelecido, a sua quota-parte.\n\n3 - Consideram-se abrangidos pelo título executivo os juros de mora, à taxa legal, da obrigação dele constante, bem como as sanções pecuniárias, desde que aprovadas em assembleia de condóminos ou previstas no regulamento do condomínio.\n\n4 - O administrador deve instaurar ação judicial destinada a cobrar as quantias referidas nos n.os 1 e 3.\n\n5 - A ação judicial referida no número anterior deve ser instaurada no prazo de 90 dias a contar da data do primeiro incumprimento do condómino, salvo deliberação em contrário da assembleia de condóminos e desde que o valor em dívida seja igual ou superior ao valor do indexante dos apoios sociais do respetivo ano civil.»"
+  },
+  "177443399": {
+   "fragment_id": "177392498",
+   "type": 11,
+   "heading": "Artigo 5.º — Aditamento ao Decreto-Lei n.º 268/94, de 25 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aditamento ao Decreto-Lei n.º 268/94, de 25 de outubro\n\nÉ aditado o artigo 1.º-A ao Decreto-Lei n.º 268/94, de 25 de outubro, com a seguinte redação:\n\n«Artigo 1.º-A\n\nAssembleia de condóminos por meios de comunicação à distância\n\n1 - Sempre que a administração do condomínio assim o determine ou a maioria dos condóminos o requeira, a assembleia de condóminos tem lugar por meios de comunicação à distância, preferencialmente por videoconferência.\n\n2 - Caso algum dos condóminos não tenha, fundamentadamente, condições para participar na assembleia de condóminos por meios de comunicação à distância e tenha transmitido essa impossibilidade à administração do condomínio, compete a esta assegurar-lhe os meios necessários, sob pena de a assembleia não poder ter lugar através daqueles meios»."
+  },
+  "177443400": {
+   "fragment_id": "177392499",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Código do Notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Código do Notariado\n\nO artigo 54.º do Código do Notariado, aprovado pelo Decreto-Lei n.º 207/95, de 14 de agosto, passa a ter a seguinte redação:\n\n«Artigo 54.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - Os instrumentos pelos quais se partilhem ou transmitam direitos sobre prédios, ou se contraiam encargos sobre eles, não podem ser lavrados sem que se faça referência à declaração prevista no n.º 2 do artigo 1424.º-A do Código Civil, sem prejuízo do disposto no n.º 3 do mesmo artigo.\n\n4 - O disposto no n.º 2 não é aplicável:\n\na) [Anterior alínea a) do n.º 3.]\n\nb) [Anterior alínea b) do n.º 3.]\n\n5 - (Anterior n.º 4.)\n\n6 - (Anterior n.º 5.)»"
+  },
+  "1112891375": {
+   "fragment_id": "1112891275",
+   "type": 11,
+   "heading": "Artigo 1.º — Deliberações da assembleia de condóminos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Deliberações da assembleia de condóminos\n\n1 - São obrigatoriamente lavradas atas das assembleias de condóminos, redigidas e assinadas por quem nelas tenha intervindo como presidente e subscritas por todos os condóminos nelas presentes.\n\n2 - A ata contém um resumo do que de essencial se tiver passado na assembleia de condóminos, indicando, designadamente, a data e o local da reunião, os condóminos presentes e ausentes, os assuntos apreciados, as decisões e as deliberações tomadas com o resultado de cada votação e o facto de a ata ter sido lida e aprovada.\n\n3 - A eficácia das deliberações depende da aprovação da respetiva ata, independentemente da mesma se encontrar assinada pelos condóminos.\n\n4 - As deliberações devidamente consignadas em ata são vinculativas tanto para os condóminos como para os terceiros titulares de direitos relativos às frações.\n\n5 - Incumbe ao administrador, ainda que provisório, guardar as atas e facultar a respetiva consulta, quer aos condóminos, quer aos terceiros a que se refere o número anterior.\n\n6 - A assinatura e a subscrição da ata podem ser efetuadas por assinatura eletrónica qualificada ou por assinatura manuscrita, aposta sobre o documento original ou sobre documento digitalizado que contenha outras assinaturas.\n\n7 - Para efeitos do disposto no presente artigo, vale como subscrição a declaração do condómino, enviada por correio eletrónico, para o endereço da administração do condomínio, em como concorda com o conteúdo da ata que lhe tenha sido remetida pela mesma via, declaração esta que deve ser junta, como anexo, ao original da ata.\n\n8 - Compete à administração do condomínio a escolha por um ou por vários dos meios previstos nos números anteriores, bem como a definição da ordem de recolha das assinaturas ou de recolha das declarações por via eletrónica, a fim de assegurar a aposição das assinaturas num único documento."
+  },
+  "1112891575": {
+   "fragment_id": "1112891475",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Assembleia de condóminos por meios de comunicação à distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-A — Assembleia de condóminos por meios de comunicação à distância\n\n1 - Sempre que a administração do condomínio assim o determine ou a maioria dos condóminos o requeira, a assembleia de condóminos tem lugar por meios de comunicação à distância, preferencialmente por videoconferência.\n\n2 - Caso algum dos condóminos não tenha, fundamentadamente, condições para participar na assembleia de condóminos por meios de comunicação à distância e tenha transmitido essa impossibilidade à administração do condomínio, compete a esta assegurar-lhe os meios necessários, sob pena de a assembleia não poder ter lugar através daqueles meios."
+  },
+  "1112893675": {
+   "fragment_id": "1112893575",
+   "type": 11,
+   "heading": "Artigo 2.º — Documentos e notificações relativos ao condomínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Documentos e notificações relativos ao condomínio\n\n1 - Deverão ficar depositadas, à guarda do administrador, as cópias autenticadas dos documentos utilizados para instruir o processo de constituição da propriedade horizontal, designadamente do projeto aprovado pela entidade pública competente.\n\n2 - O administrador tem o dever de guardar e dar a conhecer aos condóminos todas as notificações dirigidas ao condomínio, designadamente as provenientes das autoridades administrativas."
+  },
+  "1112891975": {
+   "fragment_id": "1112891875",
+   "type": 11,
+   "heading": "Artigo 3.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Informação\n\n1 - Na entrada do prédio ou conjunto de prédios ou em local de passagem comum aos condóminos deverá ser afixada a identificação do administrador em exercício ou de quem, a título provisório, desempenhe as funções deste.\n\n2 - Os condóminos devem informar o administrador do condomínio do seu número de contribuinte, morada, contactos telefónicos e endereço de correio eletrónico e atualizar tais informações sempre que as mesmas sejam objeto de alteração.\n\n3 - A alienação das frações deve ser objeto de comunicação ao administrador do condomínio pelo condómino alienante, por correio registado expedido no prazo máximo de 15 dias a contar da mesma, devendo esta informação conter o nome completo e o número de identificação fiscal do novo proprietário.\n\n4 - A falta de comunicação indicada no número anterior responsabiliza o condómino alienante pelo valor das despesas inerentes à identificação do novo proprietário e pelos encargos suportados com a mora no pagamento dos encargos que se vencerem após a alienação."
+  },
+  "1112892175": {
+   "fragment_id": "1112892075",
+   "type": 11,
+   "heading": "Artigo 4.º — Fundo comum de reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fundo comum de reserva\n\n1 - É obrigatória a constituição, em cada condomínio, de um fundo comum de reserva para custear as despesas de conservação do edifício ou conjunto de edifícios.\n\n2 - Cada condómino contribui para esse fundo com uma quantia correspondente a, pelo menos, 10 % da sua quota-parte nas restantes despesas do condomínio.\n\n3 - No caso de, por deliberação da assembleia, o fundo comum de reserva ser utilizado para fim diverso do indicado no n.º 1, os condóminos devem assegurar o pagamento, no prazo máximo de 12 meses a contar da deliberação, da quotização extraordinária necessária à reposição do montante utilizado, aplicando-se o disposto no artigo 6.º no caso de não cumprimento dessa obrigação.\n\n4 - O fundo comum de reserva deve ser depositado em instituição bancária, competindo à assembleia de condóminos a respetiva administração."
+  },
+  "1112893875": {
+   "fragment_id": "1112893775",
+   "type": 11,
+   "heading": "Artigo 5.º — Atualização do seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atualização do seguro\n\n1 - É obrigatória a atualização anual do seguro contra o risco de incêndio.\n\n2 - Compete à assembleia de condóminos deliberar o montante de cada atualização.\n\n3 - Se a assembleia não aprovar o montante da atualização, deve o administrador atualizar o seguro de acordo com o índice publicado trimestralmente pelo Instituto de Seguros de Portugal."
+  },
+  "1112894075": {
+   "fragment_id": "1112893975",
+   "type": 11,
+   "heading": "Artigo 6.º — Dívidas por encargos de condomínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dívidas por encargos de condomínio\n\n1 - A ata da reunião da assembleia de condóminos que tiver deliberado o montante das contribuições a pagar ao condomínio menciona o montante anual a pagar por cada condómino e a data de vencimento das respetivas obrigações.\n\n2 - A ata da reunião da assembleia de condóminos que reúna os requisitos indicados no n.º 1 constitui título executivo contra o proprietário que deixar de pagar, no prazo estabelecido, a sua quota-parte.\n\n3 - Consideram-se abrangidos pelo título executivo os juros de mora, à taxa legal, da obrigação dele constante, bem como as sanções pecuniárias, desde que aprovadas em assembleia de condóminos ou previstas no regulamento do condomínio.\n\n4 - O administrador deve instaurar ação judicial destinada a cobrar as quantias referidas nos n.os 1 e 3.\n\n5 - A ação judicial referida no número anterior deve ser instaurada no prazo de 90 dias a contar da data do primeiro incumprimento do condómino, salvo deliberação em contrário da assembleia de condóminos e desde que o valor em dívida seja igual ou superior ao valor do indexante dos apoios sociais do respetivo ano civil."
+  },
+  "1112892375": {
+   "fragment_id": "1112892275",
+   "type": 11,
+   "heading": "Artigo 7.º — Falta ou impedimento do administrador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Falta ou impedimento do administrador\n\nO regulamento deve prever e regular o exercício das funções de administração na falta ou impedimento do administrador ou de quem a título provisório desempenhe as funções deste."
+  },
+  "1112894275": {
+   "fragment_id": "1112894175",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicitação das regras de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Publicitação das regras de segurança\n\nO administrador deve assegurar a publicitação das regras respeitantes à segurança do edifício ou conjunto de edifícios, designadamente à dos equipamentos de uso comum."
+  },
+  "1112892575": {
+   "fragment_id": "1112892475",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de informação a terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de informação a terceiros\n\nO administrador, ou quem a título provisório desempenhe as funções deste, deve facultar cópia do regulamento aos terceiros titulares de direitos relativos às frações."
+  },
+  "177443401": {
+   "fragment_id": "177392500",
+   "type": 11,
+   "heading": "Artigo 7.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Republicação\n\nÉ republicado em anexo à presente lei, da qual faz parte integrante, o Decreto-Lei n.º 268/94, de 25 de outubro, na sua redação atual."
+  },
+  "177443402": {
+   "fragment_id": "177392501",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nA alteração ao artigo 1437.º do Código Civil é imediatamente aplicável aos processos judiciais em que seja discutida a regularidade da representação do condomínio, devendo ser encetados os procedimentos necessários para que esta seja assegurada pelo respetivo administrador."
+  },
+  "177443403": {
+   "fragment_id": "177392502",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente lei entra em vigor 90 dias após a sua publicação, com exceção da alteração ao artigo 1437.º do Código Civil, que entra em vigor no dia seguinte ao da publicação."
+  },
+  "177443404": {
+   "fragment_id": "177392503",
+   "type": 11,
+   "heading": "Artigo 10.º — Obrigação de constituição da propriedade horizontal e de obtenção da licença de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obrigação de constituição da propriedade horizontal e de obtenção da licença de utilização\n\nCelebrado contrato-promessa de compra e venda de fração autónoma a constituir, e salvo estipulação expressa em contrário, fica o promitente-vendedor obrigado a exercer as diligências necessárias à constituição da propriedade horizontal e à obtenção da correspondente licença de utilização."
+  },
+  "177443405": {
+   "fragment_id": "177392504",
+   "type": 11,
+   "heading": "Artigo 10.º-A — Administração provisória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º-A — Administração provisória\n\n1 - Sempre que, por ato ou omissão dos condóminos, a assembleia de condóminos não reúna ou não sejam tomadas as decisões necessárias ao cumprimento das obrigações legais de elaboração do regulamento do condomínio, de contratação do seguro obrigatório ou de constituição do fundo de reserva, e se não existir administrador, qualquer condómino pode assegurar o cumprimento das mesmas como administrador provisório, devendo, nesse caso, dar cumprimento ao disposto no artigo 3.º\n\n2 - Uma vez cumpridas as obrigações previstas no número anterior, o administrador provisório deve convocar a assembleia de condóminos para eleição do administrador e para prestar informação e contas sobre a sua administração.\n\n3 - Se, apesar de regularmente convocada, a assembleia de condóminos não reunir ou não eleger administrador, o condómino que exerceu provisoriamente as funções de administração, nos termos dos números anteriores, pode comunicar aos outros condóminos o propósito de continuar a exercer o cargo de administrador provisório, nos termos do artigo 1435.º-A do Código Civil, ou requerer ao tribunal a nomeação de um administrador, sem prejuízo do disposto no número seguinte.\n\n4 - Quando o condómino que exerce as funções de administração provisória, nos termos do artigo 1435.º-A do Código Civil, for uma entidade pública com atribuições na área da gestão habitacional e for necessário promover a realização de obras nas partes comuns do edifício, esta pode recorrer à execução coerciva das mesmas, nos termos do artigo seguinte, sempre que não seja possível uma decisão da assembleia de condóminos para o efeito."
+  },
+  "177443406": {
+   "fragment_id": "177392505",
+   "type": 11,
+   "heading": "Artigo 11.º — Obras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obras\n\n1 - Para efeito de aplicação do disposto nos artigos 89.º a 91.º do Regime Jurídico da Urbanização e Edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, relativamente a obras necessárias nas partes comuns do edifício, é suficiente a notificação ao administrador do condomínio.\n\n2 - No caso do número anterior, se houver lugar à execução coerciva das obras, cada condómino é responsável pelos encargos com a realização das mesmas na proporção da sua quota, sendo o respetivo pagamento assegurado nos termos dos artigos 108.º e 108.º-B do RJUE.\n\n3 - No caso de edifício em que um dos condóminos é uma entidade pública com atribuições na área da gestão habitacional, as obras necessárias nas partes comuns podem ser determinadas e promovidas por essa entidade nos termos do regime a que se referem os números anteriores, caso em que a notificação e, se necessário, os elementos referidos no n.º 4 do artigo 89.º são por esta remetidos ao município competente, estando a correspondente operação urbanística sujeita a parecer prévio da câmara municipal nos termos do n.º 2 do artigo 7.º do RJUE."
+  },
+  "177443407": {
+   "fragment_id": "177392506",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito transitório\n\nNos prédios já sujeitos ao regime de propriedade horizontal à data da entrada em vigor do presente diploma deve, no prazo de 90 dias, ser dado cumprimento ao disposto no artigo 3.º\n\n114871166"
+  },
+  "178602149": {
+   "fragment_id": "177392496",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Código Civil",
+   "in_force_from": "2022-04-10",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 5/2022 - Diário da República n.º 27/2022, Série I de 2022-02-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/5-2022-178714942), em vigor a partir de 2022-04-10"
+   ],
+   "markdown": "###### Artigo 3.º — Aditamento ao Código Civil\n\nÉ aditado o artigo 1424.º-A ao Código Civil, com a seguinte redação:\n\n«Artigo 1424.º-A\n\nResponsabilidade por encargos do condomínio\n\n1 - O condómino, para efeitos de celebração de contrato de alienação da fração da qual é proprietário, requer ao administrador a emissão de declaração escrita da qual conste o montante de todos os encargos de condomínio em vigor relativamente à sua fração, com especificação da sua natureza, respetivos montantes e prazos de pagamento, bem como, caso se verifique, das dívidas existentes, respetiva natureza, montantes, datas de constituição e vencimento.\n\n2 - A declaração referida no número anterior é emitida pelo administrador no prazo máximo de 10 dias a contar do respetivo requerimento e constitui um documento instrutório obrigatório da escritura ou do documento particular autenticado de alienação da fração em causa, salvo o disposto no número seguinte.\n\n3 - A responsabilidade pelas dívidas existentes é aferida em função do momento em que as mesmas deveriam ter sido liquidadas, salvo se o adquirente expressamente declarar, na escritura ou no documento particular autenticado que titule a alienação da fração, que prescinde da declaração do administrador, aceitando, em consequência, a responsabilidade por qualquer dívida do vendedor ao condomínio.\n\n4 - Os montantes que constituam encargos do condomínio, independentemente da sua natureza, que se vençam em data posterior à transmissão da fração, são da responsabilidade do novo proprietário.»\n\n> Retificado pelo/a [Declaração de Retificação n.º 5/2022 - Diário da República n.º 27/2022, Série I de 2022-02-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/5-2022-178714942), em vigor a partir de 2022-04-10"
+  },
+  "178602150": {
+   "fragment_id": "177392502",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": "2022-04-10",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 5/2022 - Diário da República n.º 27/2022, Série I de 2022-02-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/5-2022-178714942), em vigor a partir de 2022-04-10"
+   ],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\nA presente lei entra em vigor 90 dias após a sua publicação, com exceção da alteração ao artigo 1437.º do Código Civil, que entra em vigor no dia seguinte ao da publicação.\n\nAprovada em 19 de novembro de 2021.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 26 de dezembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 4 de janeiro de 2022.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\nANEXO\n\n(a que se refere o artigo 7.º)\n\nRepublicação do Decreto-Lei n.º 268/94, de 25 de outubro\n\nArtigo 1.º\n\nDeliberações da assembleia de condóminos\n\n1 - São obrigatoriamente lavradas atas das assembleias de condóminos, redigidas e assinadas por quem nelas tenha intervindo como presidente e subscritas por todos os condóminos nelas presentes.\n\n2 - A ata contém um resumo do que de essencial se tiver passado na assembleia de condóminos, indicando, designadamente, a data e o local da reunião, os condóminos presentes e ausentes, os assuntos apreciados, as decisões e as deliberações tomadas com o resultado de cada votação e o facto de a ata ter sido lida e aprovada.\n\n3 - A eficácia das deliberações depende da aprovação da respetiva ata, independentemente da mesma se encontrar assinada pelos condóminos.\n\n4 - As deliberações devidamente consignadas em ata são vinculativas tanto para os condóminos como para os terceiros titulares de direitos relativos às frações.\n\n5 - Incumbe ao administrador, ainda que provisório, guardar as atas e facultar a respetiva consulta, quer aos condóminos, quer aos terceiros a que se refere o número anterior.\n\n6 - A assinatura e a subscrição da ata podem ser efetuadas por assinatura eletrónica qualificada ou por assinatura manuscrita, aposta sobre o documento original ou sobre documento digitalizado que contenha outras assinaturas.\n\n7 - Para efeitos do disposto no presente artigo, vale como subscrição a declaração do condómino, enviada por correio eletrónico, para o endereço da administração do condomínio, em como concorda com o conteúdo da ata que lhe tenha sido remetida pela mesma via, declaração esta que deve ser junta, como anexo, ao original da ata.\n\n8 - Compete à administração do condomínio a escolha por um ou por vários dos meios previstos nos números anteriores, bem como a definição da ordem de recolha das assinaturas ou de recolha das declarações por via eletrónica, a fim de assegurar a aposição das assinaturas num único documento.\n\nArtigo 1.º-A\n\nAssembleia de condóminos por meios de comunicação à distância\n\n1 - Sempre que a administração do condomínio assim o determine ou a maioria dos condóminos o requeira, a assembleia de condóminos tem lugar por meios de comunicação à distância, preferencialmente por videoconferência.\n\n2 - Caso algum dos condóminos não tenha, fundamentadamente, condições para participar na assembleia de condóminos por meios de comunicação à distância e tenha transmitido essa impossibilidade à administração do condomínio, compete a esta assegurar-lhe os meios necessários, sob pena de a assembleia não poder ter lugar através daqueles meios.\n\nArtigo 2.º\n\nDocumentos e notificações relativos ao condomínio\n\n1 - Deverão ficar depositadas, à guarda do administrador, as cópias autenticadas dos documentos utilizados para instruir o processo de constituição da propriedade horizontal, designadamente do projeto aprovado pela entidade pública competente.\n\n2 - O administrador tem o dever de guardar e dar a conhecer aos condóminos todas as notificações dirigidas ao condomínio, designadamente as provenientes das autoridades administrativas.\n\nArtigo 3.º\n\nInformação\n\n1 - Na entrada do prédio ou conjunto de prédios ou em local de passagem comum aos condóminos deverá ser afixada a identificação do administrador em exercício ou de quem, a título provisório, desempenhe as funções deste.\n\n2 - Os condóminos devem informar o administrador do condomínio do seu número de contribuinte, morada, contactos telefónicos e endereço de correio eletrónico e atualizar tais informações sempre que as mesmas sejam objeto de alteração.\n\n3 - A alienação das frações deve ser objeto de comunicação ao administrador do condomínio pelo condómino alienante, por correio registado expedido no prazo máximo de 15 dias a contar da mesma, devendo esta informação conter o nome completo e o número de identificação fiscal do novo proprietário.\n\n4 - A falta de comunicação indicada no número anterior responsabiliza o condómino alienante pelo valor das despesas inerentes à identificação do novo proprietário e pelos encargos suportados com a mora no pagamento dos encargos que se vencerem após a alienação.\n\nArtigo 4.º\n\nFundo comum de reserva\n\n1 - É obrigatória a constituição, em cada condomínio, de um fundo comum de reserva para custear as despesas de conservação do edifício ou conjunto de edifícios.\n\n2 - Cada condómino contribui para esse fundo com uma quantia correspondente a, pelo menos, 10 % da sua quota-parte nas restantes despesas do condomínio.\n\n3 - No caso de, por deliberação da assembleia, o fundo comum de reserva ser utilizado para fim diverso do indicado no n.º 1, os condóminos devem assegurar o pagamento, no prazo máximo de 12 meses a contar da deliberação, da quotização extraordinária necessária à reposição do montante utilizado, aplicando-se o disposto no artigo 6.º no caso de não cumprimento dessa obrigação.\n\n4 - O fundo comum de reserva deve ser depositado em instituição bancária, competindo à assembleia de condóminos a respetiva administração.\n\nArtigo 5.º\n\nAtualização do seguro\n\n1 - É obrigatória a atualização anual do seguro contra o risco de incêndio.\n\n2 - Compete à assembleia de condóminos deliberar o montante de cada atualização.\n\n3 - Se a assembleia não aprovar o montante da atualização, deve o administrador atualizar o seguro de acordo com o índice publicado trimestralmente pelo Instituto de Seguros de Portugal.\n\nArtigo 6.º\n\nDívidas por encargos de condomínio\n\n1 - A ata da reunião da assembleia de condóminos que tiver deliberado o montante das contribuições a pagar ao condomínio menciona o montante anual a pagar por cada condómino e a data de vencimento das respetivas obrigações.\n\n2 - A ata da reunião da assembleia de condóminos que reúna os requisitos indicados no n.º 1 constitui título executivo contra o proprietário que deixar de pagar, no prazo estabelecido, a sua quota-parte.\n\n3 - Consideram-se abrangidos pelo título executivo os juros de mora, à taxa legal, da obrigação dele constante, bem como as sanções pecuniárias, desde que aprovadas em assembleia de condóminos ou previstas no regulamento do condomínio.\n\n4 - O administrador deve instaurar ação judicial destinada a cobrar as quantias referidas nos n.os 1 e 3.\n\n5 - A ação judicial referida no número anterior deve ser instaurada no prazo de 90 dias a contar da data do primeiro incumprimento do condómino, salvo deliberação em contrário da assembleia de condóminos e desde que o valor em dívida seja igual ou superior ao valor do indexante dos apoios sociais do respetivo ano civil.\n\nArtigo 7.º\n\nFalta ou impedimento do administrador\n\nO regulamento deve prever e regular o exercício das funções de administração na falta ou impedimento do administrador ou de quem a título provisório desempenhe as funções deste.\n\nArtigo 8.º\n\nPublicitação das regras de segurança\n\nO administrador deve assegurar a publicitação das regras respeitantes à segurança do edifício ou conjunto de edifícios, designadamente à dos equipamentos de uso comum.\n\nArtigo 9.º\n\nDever de informação a terceiros\n\nO administrador, ou quem a título provisório desempenhe as funções deste, deve facultar cópia do regulamento aos terceiros titulares de direitos relativos às frações.\n\n> Retificado pelo/a [Declaração de Retificação n.º 5/2022 - Diário da República n.º 27/2022, Série I de 2022-02-08](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/5-2022-178714942), em vigor a partir de 2022-04-10"
+  }
+ }
+}

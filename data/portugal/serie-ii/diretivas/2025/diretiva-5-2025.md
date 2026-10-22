@@ -1,0 +1,164 @@
+---
+schema_version: '1.0'
+id: pt:dre:912463987:por
+title: Diretiva n.º 5/2025
+short_title: null
+summary: Aprovação de regras transitórias relativas à adoção do período de negociação de 15 minutos no mercado intradiário.
+jurisdiction: portugal
+territory: null
+document_type: diretiva
+document_type_label: Diretiva
+issuing_authority:
+- Entidade Reguladora dos Serviços Energéticos
+proposing_entity: null
+official_number: 5/2025
+official_date: null
+publication_date: '2025-03-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2025, Série II de 2025-03-26
+  number: '60'
+  series: II
+  supplement: null
+  pages: 260 - 268
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/03/060000000/0026000268.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-26'
+version_history:
+  file: diretiva-5-2025.versoes.json
+  count: 1
+  source_lastmod: '2026-09-14'
+  versions:
+  - date: '2025-03-26'
+    amending: null
+    amending_title: null
+    changes: []
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '912463987'
+  dre_path: /dr/detalhe/diretiva/5-2025-912463987
+  internal: pt:dre:912463987:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/diretiva/5-2025-912463987
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/diretiva/2025-1170416275
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/diretiva/2025-1170416275
+  retrieved_at: '2026-10-22T13:54:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-14T00:00:00Z'
+integrity:
+  source_sha256: efba1b8964b9bf609bdef5cbc53d5dafaba7028012f56fcb25c853c73863911d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:54:09Z'
+  notes: 1 versão(ões); histórico completo em diretiva-5-2025.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Entidade Reguladora dos Serviços Energéticos
+- Manual de Procedimento da Gestão Global do Sistema do Setor Elétrico
+- Mercado Intradiário
+- Sistema Elétrico Nacional
+relationships:
+- type: cites
+  target: celex:32019R0943
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:177634016:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:303200:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:835663384:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:915098852:por
+  label: Retificada pelo(a) Declaração de Retificação n.º 388/2025/2 - Diário da República n.º 74/2025, Série II de 2025-04-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/declaracao-retificacao/388-2025-915098852
+  date: '2025-04-15'
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:54:09Z'
+  warnings: []
+  errors: []
+---
+
+# Diretiva n.º 5/2025
+
+Aprovação de regras transitórias relativas à adoção do período de negociação de 15 minutos no mercado intradiário
+
+O Manual de Procedimentos da Gestão Global do Sistema do setor elétrico (MPGGS), aprovado pela Diretiva n.º 19/2023, de 26 de dezembro, estabelece as regras dos mercados de serviços de sistema. Estes mercados têm uma relação estreita com o mercado diário e intradiário, pelo que importa assegurar a sua harmonização e compatibilização.
+
+Em janeiro de 2025, através da Consulta Pública n.º 127, a Entidade Reguladora dos Serviços Energéticos (ERSE) promoveu a revisão do MPGGS para, entre outros objetivos, acomodar as alterações necessárias à alteração da unidade de tempo do mercado (Market Time Unit) diário e intradiário para 15 minutos (MTU15). O início da MTU15 nos mercados intradiários está previsto, conforme comunicado pelo Operador Nomeado do Mercado de Eletricidade do Mercado Ibérico de Eletricidade, para o dia 18 de março de 2025.
+
+Tendo em conta esta calendarização, importa assegurar a aprovação das alterações do MPGGS estritamente necessárias à sua compatibilização com a alteração da MTU no mercado intradiário, em tempo útil face à referida data de operacionalização. Este prazo não é compatível com a conclusão do processo de revisão do MPGGS, cujo prazo de comentários terminou apenas em 13 de fevereiro.
+
+A presente diretiva promove as alterações ao MPGGS mencionadas, incorporando as propostas colocadas em consulta pública pela ERSE, bem como os comentários recebidos sobre essas matérias específicas. Em concreto, estão em causa os Procedimentos n.º 6 (Programação de exploração e resolução de desvios), n.º 8 (Resolução de restrições técnicas internas), n.º 11 (Regulação secundária), n.º 14 (Reservas de Reposição) e n.º 22 (Procedimentos de Liquidação) do MPGGS. As alterações ora aprovadas devem ser lidas em conjunto com o MPGGS na redação em vigor, durante um período transitório de aplicação até à aprovação e entrada em vigor do MPGGS que resultará da Consulta Pública n.º 127.
+
+Durante a consulta, a ERSE recebeu comentários sobre os temas em apreço nesta diretiva, nomeadamente pelos interessados: APREN, EDP, ELECPOR, Endesa, Energy Traders Europe, GALP, Iberdrola, Movhera, NGEN e REN. Os contributos foram no sentido que se apresenta em seguida.
+
+Os comentários referiram diversas melhorias de redação e harmonização do articulado, que foram consideradas.
+
+A APREN, a Movhera e a ELECPOR comentaram que a obrigação de comunicação das potências máximas dos centros eletroprodutores hídricos, que podem ser mantidas durante 4 e 12 horas, se deve aplicar apenas às centrais hidroelétricas de albufeira, pois as restantes têm o seu recurso muito condicionado, o que torna a informação pouco fiável.
+
+A REN - Rede Eléctrica Nacional (REN), na qualidade de gestor global do Sistema Elétrico Nacional (GGS), referiu que a correção pelo GGS das ofertas para a resolução de restrições técnicas para os limites de viabilidade das Unidades de Programação já contempla cenários de preço marginal negativo, não sendo necessário explicitar essa questão.
+
+Quanto à resolução de restrições após o Programa Diário Base de Funcionamento (PDBF), a EDP defende a clarificação da respetiva secção e estabelecimento de um prazo para a concretização das ofertas específicas para este fim. Este Agente de Mercado (AM) remete para o exemplo de Espanha, como uma referência neste mercado. A associação Energy Traders Europe coincide com esta proposta de alinhamento com as regras vigentes em Espanha. Outro AM refere a necessidade de separar as ofertas para balanço/equilíbrio das ofertas de resolução de restrições.
+
+A Endesa, sobre o mesmo mecanismo, sugere a clarificação da remuneração das centrais termoelétricas mobilizadas pelo GGS, em particular quando se aplique a uma oferta simples.
+
+A GALP não considera adequado atribuir ao GGS a responsabilidade pela verificação da exequibilidade do programa dos AM, devendo ser destes a responsabilidade de ajustar o programa nos mercados intradiários subsequentes.
+
+No mercado de resolução de restrições após o Programa Diário Viável Definitivo (PDVD), a REN propôs a clarificação de que, caso o GGS solicite uma antecipação ou prolongamento de funcionamento de uma central termoelétrica, o termo fixo a aplicar ao primeiro arranque solicitado neste mercado de restrições deve corresponder ao segundo termo fixo da oferta, porque dá a possibilidade ao AM de atualizar a oferta, após a solicitação de antecipação ou prolongamento. A REN propôs ainda uma clarificação da valorização aplicável às antecipações e prolongamentos da programação das centrais termoelétricas.
+
+Também sobre a resolução de restrições após o PDVD, a EDP alerta que pode não ser possível ao AM habilitado a participar nos serviços de balanço e outros serviços de sistema (BSP) programar as energias correspondentes ao arranque da central termoelétrica, tendo em consideração o limite horário de receção de ofertas (Gate Closure Time) do Mercado Intradiário Contínuo e/ou pela falta de liquidez do mercado. Acrescenta que, em caso de prolongamento posterior do funcionamento da Unidade Física, as energias teriam tratamentos distintos no que respeita à venda de energia para a rampa de saída e energia de prolongamento. Solicita ainda a clarificação de que, sempre que os grupos termoelétricos passem por períodos com energia em zero, num ou mais períodos de mercado, deve ser pago um novo custo de arranque.
+
+A ERSE reconhece a pertinência da referência ao risco de preço em que o BSP pode incorrer, ao ter de programar o arranque da sua Unidade Física no mercado intradiário contínuo com um pré-aviso curto. Visando mitigar esse efeito, a ERSE irá promover, em conjunto com o GGS, uma solução mais estrutural para reduzir o risco de preço das rampas de subida e de descida associado aos arranques de grupos de centrais termoelétricas por restrição. Foi ainda alargado de três para quatro horas o período de pré-aviso mínimo para que o BSP seja responsável pela programação do arranque.
+
+A verificação da exequibilidade dos programas pelo GGS, referida nos comentários, refere-se em particular às Unidades Físicas com sistemas de armazenamento, as quais fazem ofertas para resolução de restrições técnicas em períodos consecutivos, mas que podem não ser exequíveis cumulativamente. A ERSE considera que esta verificação pelo GGS é relevante para evitar mobilizações inviáveis que os AM têm de corrigir em mecanismos de mercado posteriores.
+
+Sobre a resolução de restrições técnicas após o PDVD, a Endesa sugere a clarificação da remuneração das centrais termoelétricas cujo funcionamento tenha sido prolongado pelo GGS, abrangendo o horizonte de programação (dia) seguinte. Sugere ainda a clarificação da remuneração no caso de dois arranques consecutivos em resolução de restrições, entre os quais o agente tenha reprogramado em mercado intradiário os períodos de paragem, de tal forma que a Unidade Física resulte programada com energia sempre acima de zero entre esses dois arranques.
+
+A NGEN solicita a publicação do Relatório sobre a utilização de ações de redespacho a enviar pelo GGS à ERSE, nos termos do artigo o 13.º do Regulamento (UE) 2019/943 do Parlamento Europeu e do Conselho, de 5 de junho de 2019.
+
+O processo de resolução de restrições técnicas não foi alvo de uma reformulação especial na proposta apresentada pela ERSE na consulta pública. Por essa razão, a ERSE considera que uma revisão profunda destes mecanismos carece de uma discussão mais sistemática e aprofundada, algo que só poderá ser feito após uma recolha de dados concretos sobre o seu funcionamento. Acresce que os mercados de balanço/equilíbrio e os mercados diário e intradiário estão em plena mudança, pelo que se antecipa um período de adaptação dos AM a estes novos processos.
+
+A REN solicitou à ERSE que o início do funcionamento do mercado de resolução de restrições técnicas após o PDVD viesse a ter lugar em data anterior ao início da negociação em períodos de 15 minutos no mercado intradiário, com vista a distribuir no tempo as alterações aos mecanismos e plataformas do GGS e dos BSP, reduzindo os riscos operacionais inerentes a uma excessiva concentração de mudanças relevantes num único momento. A REN informou a ERSE de que procedeu à notificação dos BSP participantes neste mercado sobre a possibilidade de antecipar esta alteração, mediante aprovação da ERSE, não tendo recebido objeções. Nesta medida, a ERSE concorda que as medidas de mitigação dos riscos das alterações de plataformas e de regras de mercado devem ser promovidas, tendo aprovado a proposta da REN.
+
+A REN propôs ainda que, a partir da data em que o mercado intradiário adote a unidade de tempo de 15 minutos, também o processo de contratação de banda de regulação secundária (BRS) se efetue em períodos de contratação de 15 minutos, com ofertas independentes. A ERSE considera justificável esta proposta, na medida em que as ofertas de BRS são feitas já depois de decorrida a primeira sessão do mercado intradiário, a qual pode introduzir alterações com detalhe de 15 minutos no programa de base horária encontrado no mercado diário. Estas alterações impactam a disponibilidade de BRS das Unidades Físicas. Assim, introduziu-se a alteração proposta.
+
+Face à ponderação dos contributos, a ERSE modificou a sua proposta inicial nos termos descritos.
+
+Assim, ao abrigo das disposições conjugadas da alínea a) do n.º 1 do artigo 206.º do Decreto-Lei n.º 15/2022, de 14 de janeiro, na redação atual, do n.º 3 do artigo 9.º, do artigo 10.º e da alínea c) do n.º 2 do artigo 31.º, todos dos Estatutos da ERSE, aprovados pelo Decreto-Lei n.º 97/2002, de 12 de abril, na redação atual, o Conselho de Administração da ERSE aprovou, o seguinte:

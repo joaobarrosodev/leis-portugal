@@ -1,0 +1,1297 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:421810:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1987-921573168",
+ "dre_path": "/dr/detalhe/portaria/443-1987-421810",
+ "source_lastmod": "2025-06-16",
+ "versions": [
+  {
+   "date": "1987-05-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921686329",
+    "921611316",
+    "921611317",
+    "921611318",
+    "921611319",
+    "921611320",
+    "921611321",
+    "921611322",
+    "921611323"
+   ]
+  },
+  {
+   "date": "2011-06-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:670019:por",
+     "title": "Portaria n.º 235/2011",
+     "published": "2011-06-15",
+     "dre_path": "/dr/detalhe/portaria/235-2011-670019"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "921686278",
+    "921686279",
+    "921686280",
+    "921686281",
+    "921686282",
+    "921686283",
+    "921686284",
+    "921686285",
+    "921686286",
+    "921686287",
+    "921686288",
+    "921686289",
+    "921686290",
+    "921686291",
+    "921686292",
+    "921686293",
+    "921686294",
+    "921686295",
+    "921686296",
+    "921686297",
+    "921686298",
+    "921686299",
+    "921686300",
+    "921686301",
+    "921686302",
+    "921686303",
+    "921686304",
+    "921686305",
+    "921686306",
+    "921686307",
+    "921686308",
+    "921686309",
+    "921686310",
+    "921686311",
+    "921686312",
+    "921686313",
+    "921686314",
+    "921686315",
+    "921686316",
+    "921686317",
+    "921686318",
+    "921686319",
+    "921686320",
+    "921686321",
+    "921686322"
+   ]
+  },
+  {
+   "date": "2011-10-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:671253:por",
+     "title": "Portaria n.º 276/2011",
+     "published": "2011-10-12",
+     "dre_path": "/dr/detalhe/portaria/276-2011-671253"
+    }
+   ],
+   "changes": [
+    "Repoe em Vigor Diploma"
+   ],
+   "fragments": [
+    "921686329",
+    "921686330",
+    "921686331",
+    "921686332",
+    "921686333",
+    "921686334",
+    "921686335",
+    "921686336",
+    "921686337",
+    "921686338",
+    "921686339",
+    "921686340",
+    "921686341",
+    "921686342",
+    "921686343",
+    "921686344",
+    "921686345",
+    "921686346",
+    "921686347",
+    "921686348",
+    "921686349",
+    "921686350",
+    "921686351",
+    "921686352",
+    "921686353",
+    "921686354",
+    "921686355",
+    "921686356",
+    "921686357",
+    "921686358",
+    "921686359",
+    "921686360",
+    "921686361",
+    "921686362",
+    "921686363",
+    "921686364",
+    "921686365",
+    "921686366",
+    "921686367",
+    "921686368",
+    "921686369",
+    "921686370",
+    "921686371",
+    "921686372",
+    "921686373"
+   ]
+  },
+  {
+   "date": "2025-06-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:921435825:por",
+     "title": "Portaria n.º 260/2025/1",
+     "published": "2025-06-16",
+     "dre_path": "/dr/detalhe/portaria/260-2025-921435825"
+    }
+   ],
+   "changes": [
+    "Altera Anexo",
+    "Altera III",
+    "Altera VII",
+    "Altera IX",
+    "Altera XII",
+    "Altera XXIII"
+   ],
+   "fragments": [
+    "921686329",
+    "921686330",
+    "921686331",
+    "921686332",
+    "921782404",
+    "921686334",
+    "921686335",
+    "921686336",
+    "921782405",
+    "921686338",
+    "921686339",
+    "921686340",
+    "921686341",
+    "921686342",
+    "921782406",
+    "921686344",
+    "921782407",
+    "921686346",
+    "921686347",
+    "921686348",
+    "921686349",
+    "921782408",
+    "921686351",
+    "921686352",
+    "921686353",
+    "921686354",
+    "921686355",
+    "921686356",
+    "921686357",
+    "921686358",
+    "921686359",
+    "921686360",
+    "921686361",
+    "921686362",
+    "921782409",
+    "921686364",
+    "921686365",
+    "921686366",
+    "921686367",
+    "921686368",
+    "921686369",
+    "921686370",
+    "921686371",
+    "921686372",
+    "921686373"
+   ]
+  }
+ ],
+ "fragments": {
+  "921686329": {
+   "fragment_id": "921573169",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2011-10-13",
+   "changed_by": [],
+   "markdown": "Portaria n.º 443/87\n\nde 27 de Maio\n\nO Decreto-Lei n.º 165/85, de 16 de Maio, instituiu o novo regime de formação profissional em cooperação entre o Instituto do Emprego e Formação Profissional e as diversas entidades do sector público, privado ou cooperativo que pretendam desenvolver acções de formação profissional.\n\nUma das formas de promoção da formação profissional em cooperação consiste na celebração de protocolos através dos quais são criados centros de formação profissional com a finalidade de responder às necessidades permanentes de formação num ou vários sectores da economia.\n\nConsiderando o disposto no artigo 32.º, n.º 1, do Decreto-Lei n.º 165/85, de 16 de Maio, procedeu-se à adaptação do respectivo protocolo ao regime jurídico instituído por aquele diploma legal.\n\nPor força das referidas disposições legais, torna-se agora necessário dotar o Centro de personalidade jurídica, mediante a respectiva homologação.\n\nNestes termos, ao abrigo do disposto nos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança Social, o seguinte:"
+  },
+  "921611316": {
+   "fragment_id": "921573170",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "921611317": {
+   "fragment_id": "921573171",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "921611318": {
+   "fragment_id": "921573172",
+   "type": 8,
+   "heading": "Secção I — Do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do conselho de administração"
+  },
+  "921611319": {
+   "fragment_id": "921573173",
+   "type": 8,
+   "heading": "Secção II — Do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do director"
+  },
+  "921611320": {
+   "fragment_id": "921573174",
+   "type": 8,
+   "heading": "Secção III — Do conselho técnico-pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Do conselho técnico-pedagógico"
+  },
+  "921611321": {
+   "fragment_id": "921615375",
+   "type": 8,
+   "heading": "Secção IV — Da comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Da comissão de fiscalização"
+  },
+  "921611322": {
+   "fragment_id": "921615376",
+   "type": 1,
+   "heading": "Capítulo III — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições financeiras"
+  },
+  "921611323": {
+   "fragment_id": "921615377",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições diversas"
+  },
+  "921686278": {
+   "fragment_id": "921573169",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "Portaria n.º 443/87\n\nde 27 de Maio\n\nO Decreto-Lei n.º 165/85, de 16 de Maio, instituiu o novo regime de formação profissional em cooperação entre o Instituto do Emprego e Formação Profissional e as diversas entidades do sector público, privado ou cooperativo que pretendam desenvolver acções de formação profissional.\n\nUma das formas de promoção da formação profissional em cooperação consiste na celebração de protocolos através dos quais são criados centros de formação profissional com a finalidade de responder às necessidades permanentes de formação num ou vários sectores da economia.\n\nConsiderando o disposto no artigo 32.º, n.º 1, do Decreto-Lei n.º 165/85, de 16 de Maio, procedeu-se à adaptação do respectivo protocolo ao regime jurídico instituído por aquele diploma legal.\n\nPor força das referidas disposições legais, torna-se agora necessário dotar o Centro de personalidade jurídica, mediante a respectiva homologação.\n\nNestes termos, ao abrigo do disposto nos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de Maio:\n\nManda o Governo da República Portuguesa, pelo Ministro do Trabalho e Segurança Social, o seguinte:\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686279": {
+   "fragment_id": "921615378",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### 1.º\n\nÉ homologado o protocolo que criou o Centro de Formação Profissional da Indústria de Fundição, outorgado entre o Instituto do Emprego e Formação Profissional e a Associação Portuguesa de Fundição.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686280": {
+   "fragment_id": "921615379",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### 2.º\n\nO texto do protocolo, devidamente adaptado ao regime do Decreto-Lei n.º 165/85, por força do disposto no seu artigo 32.º, é publicado em anexo a esta portaria.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686281": {
+   "fragment_id": "921615380",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "Ministério do Trabalho e Segurança Social.\n\nAssinada em 4 de Maio de 1987.\n\nO Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686282": {
+   "fragment_id": "921615381",
+   "type": 14,
+   "heading": "Anexo — Adaptação do protocolo do Centro de Formação Profissional da Indústria de Fundição",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "## Anexo — Adaptação do protocolo do Centro de Formação Profissional da Indústria de Fundição\n\nO Instituto do Emprego e Formação Profissional (IEFP) e a Associação Portuguesa de Fundição adaptam o protocolo que criou o Centro de Formação Profissional de harmonia com as cláusulas seguintes:\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686283": {
+   "fragment_id": "921573170",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686284": {
+   "fragment_id": "921615382",
+   "type": 11,
+   "heading": "I — Denominação",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### I — Denominação\n\nO centro protocolar mantém a designação de Centro de Formação Profissional da Indústria de Fundição.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686285": {
+   "fragment_id": "921615383",
+   "type": 11,
+   "heading": "II — Natureza e atribuições",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### II — Natureza e atribuições\n\n1 - O Centro de Formação Profissional da Indústria de Fundição, doravante designado por «Centro», é um organismo dotado de personalidade jurídica de direito público, sem fins lucrativos, com autonomia administrativa e financeira e património próprio.\n\n2 - São atribuições do Centro promover actividades de formação profissional para valorização dos recursos humanos no sector.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686286": {
+   "fragment_id": "921615384",
+   "type": 11,
+   "heading": "III — Destinatários",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### III — Destinatários\n\nA frequência do Centro é facultada, por ordem de prioridades:\n\na) Aos empresários e trabalhadores das empresas associadas da Associação Portuguesa de Fundição;\n\nb) Aos candidatos às profissões que se enquadrem no âmbito do sector de actividade do segundo outorgante;\n\nc) Aos empresários e trabalhadores do sector de fundição, ainda que não membros da Associação outorgante;\n\nd) Aos dirigentes e trabalhadores da entidade outorgante ou indicados pelo IEFP.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686287": {
+   "fragment_id": "921615385",
+   "type": 11,
+   "heading": "IV — Âmbito e duração",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### IV — Âmbito e duração\n\nO Centro exerce a sua competência no território continental e durará por tempo indeterminado.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686288": {
+   "fragment_id": "921615386",
+   "type": 11,
+   "heading": "V — Sede e delegações",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### V — Sede e delegações\n\nO Centro tem a sua sede no Porto e pode criar as delegações que se mostrarem comprovadamente necessárias.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686289": {
+   "fragment_id": "921573171",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "### Capítulo II — Estrutura orgânica\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686290": {
+   "fragment_id": "921615387",
+   "type": 11,
+   "heading": "VI — Órgãos",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### VI — Órgãos\n\nA estrutura orgânica do Centro compreende os seguintes órgãos:\n\na) O conselho de administração (CA);\n\nb) O director;\n\nc) O conselho técnico-pedagógico (CTP);\n\nd) A comissão de fiscalização (CF).\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686291": {
+   "fragment_id": "921573172",
+   "type": 8,
+   "heading": "Secção I — Do conselho de administração",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "#### Secção I — Do conselho de administração\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686292": {
+   "fragment_id": "921615388",
+   "type": 11,
+   "heading": "VII — Composição",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### VII — Composição\n\n1 - O CA é constituído por quatro elementos, sendo dois em representação do IEFP e os restantes em representação do segundo outorgante.\n\n2 - O presidente do CA do Centro é, necessariamente, um dos representantes do primeiro outorgante e, nas suas faltas ou impedimentos, será substituído pelo seu outro representante.\n\n3 - O mandato dos membros do CA tem a duração de três anos, renováveis.\n\n4 - Os membros do CA são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686293": {
+   "fragment_id": "921615389",
+   "type": 11,
+   "heading": "VIII — Competência",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### VIII — Competência\n\nCompete ao CA exercer os poderes de administração, praticando todos os actos tendentes à realização das atribuições do Centro, cabendo-lhe, nomeadamente:\n\na) Admitir, promover ou despedir o pessoal necessário ao funcionamento do organismo, sob proposta do director;\n\nb) Analisar e aprovar o plano de actividades, o orçamento ordinário e o relatório e contas do exercício;\n\nc) Aprovar e fazer cumprir os regulamentos internos;\n\nd) Delegar no director as competências que entender necessárias para o bom funcionamento do Centro e fiscalizar o exercício dessas competências;\n\ne) Definir as linhas de orientação que deverão pautar as acções do Centro;\n\nf) Responder pela gestão financeira das verbas concedidas para a instalação e equipamento, bem como para o funcionamento do Centro.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686294": {
+   "fragment_id": "921615390",
+   "type": 11,
+   "heading": "IX — Funcionamento",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### IX — Funcionamento\n\n1 - O CA reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convocar, por iniciativa própria ou a pedido de qualquer dos seus membros ou do director do Centro.\n\n2 - As reuniões do CA serão dirigidas pelo presidente ou, na falta ou impedimento deste, pelo respectivo substituto, que serão sempre representantes do IEFP.\n\n3 - O IEFP terá no CA do centro protocolar um número de votos correspondente a 50% do total.\n\n4 - O CA só reúne validamente desde que esteja presente pelo menos um representante do primeiro outorgante e um representante do segundo outorgante.\n\n5 - As deliberações do CA são tomadas por maioria de votos. Nas deliberações referentes à aprovação do programa de actividades e do orçamento o presidente goza de voto de qualidade.\n\n6 - O CA ou qualquer dos seus membros pode solicitar a assistência e exame às actividades do Centro que entender necessárias, nomeadamente o IEFP.\n\n7 - De cada reunião será lavrada acta, a submeter à aprovação e assinatura do CA na reunião seguinte.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686295": {
+   "fragment_id": "921573173",
+   "type": 8,
+   "heading": "Secção II — Do director",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "#### Secção II — Do director\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686296": {
+   "fragment_id": "921615391",
+   "type": 11,
+   "heading": "X — Designação",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### X — Designação\n\nSob proposta conjunta dos outorgantes, e ouvido o CA do Centro, o director será nomeado e exonerado por despacho do Ministro do Trabalho e Segurança Social ou de quem tiver competência por ele delegada.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686297": {
+   "fragment_id": "921615392",
+   "type": 11,
+   "heading": "XI — Competência",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XI — Competência\n\n1 - O director é o superior hierárquico do todo o pessoal do Centro e é o responsável pela execução das deliberações do CA, a cujas reuniões deve assistir, embora sem direito de voto, quando para tal for convocado. A convocação será feita pelo presidente, por sua iniciativa ou a pedido de algum dos membros do CA.\n\n2 - O director terá a seu cargo a gestão corrente do Centro, cabendo-lhe, designadamente:\n\na) Organizar os serviços;\n\nb) Elaborar e submeter à apreciação do CA, até ao dia 15 de Maio do ano anterior, o plano de actividades e o orçamento;\n\nc) Despachar e assinar o expediente corrente;\n\nd) Propor ao CA a admissão, promoção e exoneração do pessoal;\n\ne) Exercer a acção disciplinar sobre o pessoal do Centro e seus utentes;\n\nf) Elaborar e submeter à apreciação do CA, até ao dia 1 de Março, o relatório e contas do exercício anterior;\n\ng) Manter o CA regularmente informado sobre o ritmo de execução do plano de actividades e da situação financeira do Centro, bem como dos eventuais desvios às previsões e objectivos daquele plano;\n\nh) Propor ao CA todas as iniciativas que entenda úteis para o bom funcionamento e desenvolvimento do Centro, ainda que não constem do plano de actividades;\n\ni) Responder e responsabilizar-se perante o CA pela correcta utilização das verbas postas à disposição do Centro;\n\nj) Presidir às reuniões do CTP.\n\n3 - O pessoal a admitir pelo Centro nos termos da alínea d) do número anterior será preferencialmente seleccionado através da rede dos centros de emprego do primeiro outorgante.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686298": {
+   "fragment_id": "921573174",
+   "type": 8,
+   "heading": "Secção III — Do conselho técnico-pedagógico",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "#### Secção III — Do conselho técnico-pedagógico\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686299": {
+   "fragment_id": "921615393",
+   "type": 11,
+   "heading": "XII — Composição",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XII — Composição\n\n1 - O CTP é constituído pelo director e por um representante do outorgante.\n\n2 - Os membros do CTP, cujo mandato é de três anos, renováveis, são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social ou de quem tiver competência por ele delegada, mediante proposta do outorgante que representa.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686300": {
+   "fragment_id": "921615394",
+   "type": 11,
+   "heading": "XIII — Competência",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XIII — Competência\n\nO CTP é um órgão consultivo, ao qual compete pronunciar-se sobre os planos e programas dos cursos a ministrar, bem como proceder à elaboração de estudos, pareceres e relatórios sobre as actividades do Centro, podendo fazê-lo por sua própria iniciativa ou a pedido do CA.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686301": {
+   "fragment_id": "921615395",
+   "type": 11,
+   "heading": "XIV — Funcionamento",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XIV — Funcionamento\n\n1 - O CTP reunirá trimestralmente e por iniciativa do seu presidente ou a pedido de qualquer dos seus membros.\n\n2 - Das reuniões do CTP será lavrada acta.\n\n3 - Os membros do CTP poderão fazer-se acompanhar por qualquer técnico nacional ou estrangeiro, quando tal se justifique em função da complexidade ou especificidade das matérias a tratar.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686302": {
+   "fragment_id": "921615375",
+   "type": 8,
+   "heading": "Secção IV — Da comissão de fiscalização",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "#### Secção IV — Da comissão de fiscalização\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686303": {
+   "fragment_id": "921615396",
+   "type": 11,
+   "heading": "XV — Composição",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XV — Composição\n\n1 - A CF é constituída por um representante de cada um dos outorgantes.\n\n2 - A presidência da CF cabe ao representante do IEFP.\n\n3 - O mandato dos membros da CF tem a duração de três anos, renováveis.\n\n4 - Os membros da CF são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta do outorgante que representam.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686304": {
+   "fragment_id": "921615397",
+   "type": 11,
+   "heading": "XVI — Competência",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XVI — Competência\n\nCompete à CF:\n\na) Apreciar e dar parecer sobre os orçamentos e contas do Centro;\n\nb) Apreciar os relatórios de actividades e dar parecer sobre o mérito da gestão financeira desenvolvida;\n\nc) Examinar a contabilidade do Centro;\n\nd) Pronunciar-se sobre qualquer assunto de interesse que seja submetido à sua apreciação pelo CA.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686305": {
+   "fragment_id": "921615398",
+   "type": 11,
+   "heading": "XVII — Funcionamento",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XVII — Funcionamento\n\n1 - A CF reunirá ordinariamente de três em três meses e extraordinariamente sempre que o presidente a convocar, por sua iniciativa ou a pedido de qualquer dos seus membros.\n\n2 - A CF só poderá deliberar quando se encontre presente a maioria dos seus membros, cabendo ao presidente voto de qualidade.\n\n3 - De todas as reuniões será lavrada acta.\n\n4 - A CF poderá fazer-se assistir, se o entender conveniente, por auditores internos ou externos.\n\n5 - No exercício da sua actividade, poderá a CF solicitar todos os elementos de informação que entenda necessários.\n\n6 - A convite do CA, poderão os membros da CF assistir, individual ou conjuntamente, às reuniões daquele CA, embora sem direito a voto.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686306": {
+   "fragment_id": "921615376",
+   "type": 1,
+   "heading": "Capítulo III — Disposições financeiras",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "### Capítulo III — Disposições financeiras\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686307": {
+   "fragment_id": "921615399",
+   "type": 11,
+   "heading": "XVIII — Princípios de gestão económico-financeira",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XVIII — Princípios de gestão económico-financeira\n\n1 - O Centro adoptará uma organização financeira e contabilística do tipo empresarial, tomando como referencial o Plano Oficial de Contabilidade e aplicando a legislação referente às empresas públicas para amortizações, reintegrações e reavaliações do activo.\n\n2 - O Centro implementará um sistema de contabilidade analítica que permita o apuramento do custo de formação por especialidade e ou por formando.\n\n3 - O Instituto, por um lado, e o outorgante do protocolo, por outro, pagarão a comparticipação financeira que lhes competir para a cobertura das actividades do Centro, de acordo com as necessidades deste, devidamente comprovadas.\n\n4 - Para efeitos do disposto do número anterior, o Centro elaborará mensalmente o orçamento de tesouraria, subdividido em despesas de funcionamento e capital, que enviará ao Instituto e ao segundo outorgante.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686308": {
+   "fragment_id": "921615400",
+   "type": 11,
+   "heading": "XIX — Instrumentos de gestão previsional e de controle de gestão",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XIX — Instrumentos de gestão previsional e de controle de gestão\n\nA gestão do Centro será disciplinada pelos seguintes instrumentos:\n\na) Planos de actividades e financeiros plurianuais;\n\nb) Planos de actividades e orçamentos anuais, individualizando, pelo menos, as despesas de funcionamento e as despesas de capital, financeiro e cambial, e suas actualizações;\n\nc) Relatórios trimestrais de controle orçamental, abrangendo os aspectos financeiros e técnicos.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686309": {
+   "fragment_id": "921615401",
+   "type": 11,
+   "heading": "XX — Planos de actividades e financeiros plurianuais",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XX — Planos de actividades e financeiros plurianuais\n\n1 - Os planos de actividades plurianuais estabelecerão a estratégia a seguir pelo Centro, sendo reformulados sempre que as circunstâncias o justifiquem.\n\n2 - Os planos financeiros plurianuais incluirão o programa de investimento e respectiva(s) fonte(s) de financiamento.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686310": {
+   "fragment_id": "921615402",
+   "type": 11,
+   "heading": "XXI — Plano de actividades e orçamentos anuais e relatórios de controle orçamental",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXI — Plano de actividades e orçamentos anuais e relatórios de controle orçamental\n\n1 - O Centro preparará, por cada ano económico, o plano de actividades e os orçamentos anuais, os quais deverão ser completados com os desdobramentos necessários para permitir a descentralização de responsabilidade e adequado controle, bem como a apreciação de indicadores respeitantes aos resultados atingidos pelas acções de formação implementadas.\n\n2 - As propostas de planos de actividades e os orçamentos anuais deverão ser enviados ao outorgante até 31 de Maio do ano anterior, devendo o mesmo dar a sua aprovação de princípio no prazo de 90 dias.\n\n3 - O plano de actividades e orçamento, acompanhados do parecer da CF, serão aprovados em definitivo no prazo de 30 dias após a aprovação do plano e orçamento do IEFP.\n\n4 - Os relatórios de controle orçamental devem ser apresentados ao CA do Centro no prazo de quinze dias após o término do período a que se referem e remetidos aos outorgantes nos quinze dias subsequentes.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686311": {
+   "fragment_id": "921615403",
+   "type": 11,
+   "heading": "XXII — Documentos de prestação de contas",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXII — Documentos de prestação de contas\n\n1 - Anualmente, com referência a 31 de Dezembro, serão elaborados os documentos de prestação de contas, que compreenderão:\n\na) Relatório do CA sobre as actividades e situação do Centro;\n\nb) Balanço analítico;\n\nc) Demonstração de resultados;\n\nd) Parecer da CF.\n\n2 - Os documentos referidos no número anterior serão completados com outros elementos de interesse para apreciação da situação do Centro, nomeadamente:\n\na) Anexo ao balanço e à demonstração de resultados;\n\nb) Mapa de origem e aplicação de fundos;\n\nc) Mapas sintéticos relativos ao grau de execução do programa anual de actividades e do orçamento anual;\n\nd) Outros indicadores significativos das actividades do Centro directamente relacionados com os programas de formação realizados durante o exercício.\n\n3 - Os elementos de prestação de contas deverão ser enviados, para parecer, à CF até fins de Fevereiro do ano seguinte e enviados pelo CA do Centro à comissão executiva do IEFP até 31 de Março.\n\n4 - Os saldos apurados no fim do exercício transitarão para o ano seguinte.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686312": {
+   "fragment_id": "921615404",
+   "type": 11,
+   "heading": "XXIII — Receitas e despesas",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXIII — Receitas e despesas\n\n1 - As despesas com instalações e equipamento do Centro poderão ser suportadas até 100% pelo IEFP.\n\n2 - A cobertura das despesas de funcionamento do Centro, a suportar pelo IEPF, não poderá exceder 95%, competindo ao elemento outorgante assumir a restante comparticipação.\n\n3 - Para as acções de formação profissional a desenvolver no Centro e que o IEFP considere elegíveis para apresentação ao Fundo Social Europeu ou de interesse nacional, a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas por aquele Fundo comunitário, deduzidas eventuais receitas das acções.\n\n4 - As importâncias pagas pelas entidades referidas na cláusula III a título de inscrição nos cursos integram a comparticipação do segundo outorgante.\n\n5 - As receitas provenientes da venda de produtos ou da prestação de serviços constituem receitas do Centro, que serão deduzidas na devida proporção da comparticipação do outorgante, referida no n.º 2.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686313": {
+   "fragment_id": "921615377",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições diversas",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "### Capítulo IV — Disposições diversas\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686314": {
+   "fragment_id": "921615405",
+   "type": 11,
+   "heading": "XXIV — Representação",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXIV — Representação\n\nO Centro obrigar-se-á pelas assinaturas de dois membros do CA, devendo uma delas ser obrigatoriamente a do presidente efectivo ou substituto e a outra de um representante do outro outorgante.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686315": {
+   "fragment_id": "921615406",
+   "type": 11,
+   "heading": "XXV — Resolução unilateral",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXV — Resolução unilateral\n\nA resolução unilateral do protocolo por qualquer das entidades outorgantes não confere direito a qualquer indemnização, sem prejuízo do dever de ressarcir eventuais danos quando a resolução seja injustificada.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686316": {
+   "fragment_id": "921615407",
+   "type": 11,
+   "heading": "XXVI — Incumprimento",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXVI — Incumprimento\n\nO incumprimento não justificado do outorgante das obrigações assumidas no âmbito do presente protocolo pode determinar a sua exclusão por deliberação do CA do IEFP, sujeita a homologação do Ministro do Trabalho e Segurança Social.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686317": {
+   "fragment_id": "921615408",
+   "type": 11,
+   "heading": "XXVII — Extinção",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXVII — Extinção\n\n1 - Em caso de manifesta impossibilidade da realização dos fins essenciais do Centro, o Ministro do Trabalho e Segurança Social poderá determinar a cessação da sua actividade e consequente extinção, mediante proposta de qualquer outorgante, aprovada pelo CA do IEFP.\n\n2 - Em caso de extinção, o património do Centro será rateado pelos outorgantes em partes proporcionais às respectivas comparticipações financeiras.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686318": {
+   "fragment_id": "921615409",
+   "type": 11,
+   "heading": "XXVIII — Alterações ao protocolo",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXVIII — Alterações ao protocolo\n\nO CA do IEFP poderá propor ao outorgante as necessárias alterações e aditamentos a este protocolo, devendo, em caso de acordo, celebrar-se o respectivo adicional, a homologar e publicar nos mesmos termos deste protocolo.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686319": {
+   "fragment_id": "921615410",
+   "type": 11,
+   "heading": "XXIX — Adesão ao protocolo",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXIX — Adesão ao protocolo\n\nMediante proposta fundamentada do CA do Centro, poderão os outorgantes autorizar futuras adesões de outras entidades a este protocolo.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686320": {
+   "fragment_id": "921615411",
+   "type": 11,
+   "heading": "XXX — Legislação aplicável",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXX — Legislação aplicável\n\nEm tudo o omisso neste protocolo aplicar-se-á o disposto no Decreto-Lei n.º 165/85, de 16 de Maio.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686321": {
+   "fragment_id": "921615412",
+   "type": 11,
+   "heading": "XXXI — Entrada em vigor",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXXI — Entrada em vigor\n\nO presente protocolo entra em vigor depois de assinado pelas entidades outorgantes e homologado pelo Ministro do Trabalho e Segurança Social.\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686322": {
+   "fragment_id": "921615413",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2011-06-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "Lisboa, 31 de Março de 1987. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral. - Pelo Instituto do Emprego e Formação Profissional, Álvaro Gonçalves Martins. - Pela Associação Portuguesa de Fundição, (Assinatura ilegível.)\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686330": {
+   "fragment_id": "921615378",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### 1.º\n\nÉ homologado o protocolo que criou o Centro de Formação Profissional da Indústria de Fundição, outorgado entre o Instituto do Emprego e Formação Profissional e a Associação Portuguesa de Fundição.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686331": {
+   "fragment_id": "921615379",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### 2.º\n\nO texto do protocolo, devidamente adaptado ao regime do Decreto-Lei n.º 165/85, por força do disposto no seu artigo 32.º, é publicado em anexo a esta portaria.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686332": {
+   "fragment_id": "921615380",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "Ministério do Trabalho e Segurança Social.\n\nAssinada em 4 de Maio de 1987.\n\nO Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686333": {
+   "fragment_id": "921615381",
+   "type": 14,
+   "heading": "Anexo — Adaptação do protocolo do Centro de Formação Profissional da Indústria de Fundição",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "## Anexo — Adaptação do protocolo do Centro de Formação Profissional da Indústria de Fundição\n\nO Instituto do Emprego e Formação Profissional (IEFP) e a Associação Portuguesa de Fundição adaptam o protocolo que criou o Centro de Formação Profissional de harmonia com as cláusulas seguintes:\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686334": {
+   "fragment_id": "921573170",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686335": {
+   "fragment_id": "921615382",
+   "type": 11,
+   "heading": "I — Denominação",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### I — Denominação\n\nO centro protocolar mantém a designação de Centro de Formação Profissional da Indústria de Fundição.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686336": {
+   "fragment_id": "921615383",
+   "type": 11,
+   "heading": "II — Natureza e atribuições",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### II — Natureza e atribuições\n\n1 - O Centro de Formação Profissional da Indústria de Fundição, doravante designado por «Centro», é um organismo dotado de personalidade jurídica de direito público, sem fins lucrativos, com autonomia administrativa e financeira e património próprio.\n\n2 - São atribuições do Centro promover actividades de formação profissional para valorização dos recursos humanos no sector.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686337": {
+   "fragment_id": "921615384",
+   "type": 11,
+   "heading": "III — Destinatários",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### III — Destinatários\n\nA frequência do Centro é facultada, por ordem de prioridades:\n\na) Aos empresários e trabalhadores das empresas associadas da Associação Portuguesa de Fundição;\n\nb) Aos candidatos às profissões que se enquadrem no âmbito do sector de actividade do segundo outorgante;\n\nc) Aos empresários e trabalhadores do sector de fundição, ainda que não membros da Associação outorgante;\n\nd) Aos dirigentes e trabalhadores da entidade outorgante ou indicados pelo IEFP.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686338": {
+   "fragment_id": "921615385",
+   "type": 11,
+   "heading": "IV — Âmbito e duração",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### IV — Âmbito e duração\n\nO Centro exerce a sua competência no território continental e durará por tempo indeterminado.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686339": {
+   "fragment_id": "921615386",
+   "type": 11,
+   "heading": "V — Sede e delegações",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### V — Sede e delegações\n\nO Centro tem a sua sede no Porto e pode criar as delegações que se mostrarem comprovadamente necessárias.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686340": {
+   "fragment_id": "921573171",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "### Capítulo II — Estrutura orgânica\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686341": {
+   "fragment_id": "921615387",
+   "type": 11,
+   "heading": "VI — Órgãos",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### VI — Órgãos\n\nA estrutura orgânica do Centro compreende os seguintes órgãos:\n\na) O conselho de administração (CA);\n\nb) O director;\n\nc) O conselho técnico-pedagógico (CTP);\n\nd) A comissão de fiscalização (CF).\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686342": {
+   "fragment_id": "921573172",
+   "type": 8,
+   "heading": "Secção I — Do conselho de administração",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "#### Secção I — Do conselho de administração\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686343": {
+   "fragment_id": "921615388",
+   "type": 11,
+   "heading": "VII — Composição",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### VII — Composição\n\n1 - O CA é constituído por quatro elementos, sendo dois em representação do IEFP e os restantes em representação do segundo outorgante.\n\n2 - O presidente do CA do Centro é, necessariamente, um dos representantes do primeiro outorgante e, nas suas faltas ou impedimentos, será substituído pelo seu outro representante.\n\n3 - O mandato dos membros do CA tem a duração de três anos, renováveis.\n\n4 - Os membros do CA são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686344": {
+   "fragment_id": "921615389",
+   "type": 11,
+   "heading": "VIII — Competência",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### VIII — Competência\n\nCompete ao CA exercer os poderes de administração, praticando todos os actos tendentes à realização das atribuições do Centro, cabendo-lhe, nomeadamente:\n\na) Admitir, promover ou despedir o pessoal necessário ao funcionamento do organismo, sob proposta do director;\n\nb) Analisar e aprovar o plano de actividades, o orçamento ordinário e o relatório e contas do exercício;\n\nc) Aprovar e fazer cumprir os regulamentos internos;\n\nd) Delegar no director as competências que entender necessárias para o bom funcionamento do Centro e fiscalizar o exercício dessas competências;\n\ne) Definir as linhas de orientação que deverão pautar as acções do Centro;\n\nf) Responder pela gestão financeira das verbas concedidas para a instalação e equipamento, bem como para o funcionamento do Centro.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686345": {
+   "fragment_id": "921615390",
+   "type": 11,
+   "heading": "IX — Funcionamento",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### IX — Funcionamento\n\n1 - O CA reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convocar, por iniciativa própria ou a pedido de qualquer dos seus membros ou do director do Centro.\n\n2 - As reuniões do CA serão dirigidas pelo presidente ou, na falta ou impedimento deste, pelo respectivo substituto, que serão sempre representantes do IEFP.\n\n3 - O IEFP terá no CA do centro protocolar um número de votos correspondente a 50% do total.\n\n4 - O CA só reúne validamente desde que esteja presente pelo menos um representante do primeiro outorgante e um representante do segundo outorgante.\n\n5 - As deliberações do CA são tomadas por maioria de votos. Nas deliberações referentes à aprovação do programa de actividades e do orçamento o presidente goza de voto de qualidade.\n\n6 - O CA ou qualquer dos seus membros pode solicitar a assistência e exame às actividades do Centro que entender necessárias, nomeadamente o IEFP.\n\n7 - De cada reunião será lavrada acta, a submeter à aprovação e assinatura do CA na reunião seguinte.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686346": {
+   "fragment_id": "921573173",
+   "type": 8,
+   "heading": "Secção II — Do director",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "#### Secção II — Do director\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686347": {
+   "fragment_id": "921615391",
+   "type": 11,
+   "heading": "X — Designação",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### X — Designação\n\nSob proposta conjunta dos outorgantes, e ouvido o CA do Centro, o director será nomeado e exonerado por despacho do Ministro do Trabalho e Segurança Social ou de quem tiver competência por ele delegada.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686348": {
+   "fragment_id": "921615392",
+   "type": 11,
+   "heading": "XI — Competência",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XI — Competência\n\n1 - O director é o superior hierárquico do todo o pessoal do Centro e é o responsável pela execução das deliberações do CA, a cujas reuniões deve assistir, embora sem direito de voto, quando para tal for convocado. A convocação será feita pelo presidente, por sua iniciativa ou a pedido de algum dos membros do CA.\n\n2 - O director terá a seu cargo a gestão corrente do Centro, cabendo-lhe, designadamente:\n\na) Organizar os serviços;\n\nb) Elaborar e submeter à apreciação do CA, até ao dia 15 de Maio do ano anterior, o plano de actividades e o orçamento;\n\nc) Despachar e assinar o expediente corrente;\n\nd) Propor ao CA a admissão, promoção e exoneração do pessoal;\n\ne) Exercer a acção disciplinar sobre o pessoal do Centro e seus utentes;\n\nf) Elaborar e submeter à apreciação do CA, até ao dia 1 de Março, o relatório e contas do exercício anterior;\n\ng) Manter o CA regularmente informado sobre o ritmo de execução do plano de actividades e da situação financeira do Centro, bem como dos eventuais desvios às previsões e objectivos daquele plano;\n\nh) Propor ao CA todas as iniciativas que entenda úteis para o bom funcionamento e desenvolvimento do Centro, ainda que não constem do plano de actividades;\n\ni) Responder e responsabilizar-se perante o CA pela correcta utilização das verbas postas à disposição do Centro;\n\nj) Presidir às reuniões do CTP.\n\n3 - O pessoal a admitir pelo Centro nos termos da alínea d) do número anterior será preferencialmente seleccionado através da rede dos centros de emprego do primeiro outorgante.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686349": {
+   "fragment_id": "921573174",
+   "type": 8,
+   "heading": "Secção III — Do conselho técnico-pedagógico",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "#### Secção III — Do conselho técnico-pedagógico\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686350": {
+   "fragment_id": "921615393",
+   "type": 11,
+   "heading": "XII — Composição",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XII — Composição\n\n1 - O CTP é constituído pelo director e por um representante do outorgante.\n\n2 - Os membros do CTP, cujo mandato é de três anos, renováveis, são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social ou de quem tiver competência por ele delegada, mediante proposta do outorgante que representa.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686351": {
+   "fragment_id": "921615394",
+   "type": 11,
+   "heading": "XIII — Competência",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XIII — Competência\n\nO CTP é um órgão consultivo, ao qual compete pronunciar-se sobre os planos e programas dos cursos a ministrar, bem como proceder à elaboração de estudos, pareceres e relatórios sobre as actividades do Centro, podendo fazê-lo por sua própria iniciativa ou a pedido do CA.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686352": {
+   "fragment_id": "921615395",
+   "type": 11,
+   "heading": "XIV — Funcionamento",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XIV — Funcionamento\n\n1 - O CTP reunirá trimestralmente e por iniciativa do seu presidente ou a pedido de qualquer dos seus membros.\n\n2 - Das reuniões do CTP será lavrada acta.\n\n3 - Os membros do CTP poderão fazer-se acompanhar por qualquer técnico nacional ou estrangeiro, quando tal se justifique em função da complexidade ou especificidade das matérias a tratar.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686353": {
+   "fragment_id": "921615375",
+   "type": 8,
+   "heading": "Secção IV — Da comissão de fiscalização",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "#### Secção IV — Da comissão de fiscalização\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686354": {
+   "fragment_id": "921615396",
+   "type": 11,
+   "heading": "XV — Composição",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XV — Composição\n\n1 - A CF é constituída por um representante de cada um dos outorgantes.\n\n2 - A presidência da CF cabe ao representante do IEFP.\n\n3 - O mandato dos membros da CF tem a duração de três anos, renováveis.\n\n4 - Os membros da CF são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta do outorgante que representam.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686355": {
+   "fragment_id": "921615397",
+   "type": 11,
+   "heading": "XVI — Competência",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XVI — Competência\n\nCompete à CF:\n\na) Apreciar e dar parecer sobre os orçamentos e contas do Centro;\n\nb) Apreciar os relatórios de actividades e dar parecer sobre o mérito da gestão financeira desenvolvida;\n\nc) Examinar a contabilidade do Centro;\n\nd) Pronunciar-se sobre qualquer assunto de interesse que seja submetido à sua apreciação pelo CA.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686356": {
+   "fragment_id": "921615398",
+   "type": 11,
+   "heading": "XVII — Funcionamento",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XVII — Funcionamento\n\n1 - A CF reunirá ordinariamente de três em três meses e extraordinariamente sempre que o presidente a convocar, por sua iniciativa ou a pedido de qualquer dos seus membros.\n\n2 - A CF só poderá deliberar quando se encontre presente a maioria dos seus membros, cabendo ao presidente voto de qualidade.\n\n3 - De todas as reuniões será lavrada acta.\n\n4 - A CF poderá fazer-se assistir, se o entender conveniente, por auditores internos ou externos.\n\n5 - No exercício da sua actividade, poderá a CF solicitar todos os elementos de informação que entenda necessários.\n\n6 - A convite do CA, poderão os membros da CF assistir, individual ou conjuntamente, às reuniões daquele CA, embora sem direito a voto.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686357": {
+   "fragment_id": "921615376",
+   "type": 1,
+   "heading": "Capítulo III — Disposições financeiras",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "### Capítulo III — Disposições financeiras\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686358": {
+   "fragment_id": "921615399",
+   "type": 11,
+   "heading": "XVIII — Princípios de gestão económico-financeira",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XVIII — Princípios de gestão económico-financeira\n\n1 - O Centro adoptará uma organização financeira e contabilística do tipo empresarial, tomando como referencial o Plano Oficial de Contabilidade e aplicando a legislação referente às empresas públicas para amortizações, reintegrações e reavaliações do activo.\n\n2 - O Centro implementará um sistema de contabilidade analítica que permita o apuramento do custo de formação por especialidade e ou por formando.\n\n3 - O Instituto, por um lado, e o outorgante do protocolo, por outro, pagarão a comparticipação financeira que lhes competir para a cobertura das actividades do Centro, de acordo com as necessidades deste, devidamente comprovadas.\n\n4 - Para efeitos do disposto do número anterior, o Centro elaborará mensalmente o orçamento de tesouraria, subdividido em despesas de funcionamento e capital, que enviará ao Instituto e ao segundo outorgante.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686359": {
+   "fragment_id": "921615400",
+   "type": 11,
+   "heading": "XIX — Instrumentos de gestão previsional e de controle de gestão",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XIX — Instrumentos de gestão previsional e de controle de gestão\n\nA gestão do Centro será disciplinada pelos seguintes instrumentos:\n\na) Planos de actividades e financeiros plurianuais;\n\nb) Planos de actividades e orçamentos anuais, individualizando, pelo menos, as despesas de funcionamento e as despesas de capital, financeiro e cambial, e suas actualizações;\n\nc) Relatórios trimestrais de controle orçamental, abrangendo os aspectos financeiros e técnicos.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686360": {
+   "fragment_id": "921615401",
+   "type": 11,
+   "heading": "XX — Planos de actividades e financeiros plurianuais",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XX — Planos de actividades e financeiros plurianuais\n\n1 - Os planos de actividades plurianuais estabelecerão a estratégia a seguir pelo Centro, sendo reformulados sempre que as circunstâncias o justifiquem.\n\n2 - Os planos financeiros plurianuais incluirão o programa de investimento e respectiva(s) fonte(s) de financiamento.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686361": {
+   "fragment_id": "921615402",
+   "type": 11,
+   "heading": "XXI — Plano de actividades e orçamentos anuais e relatórios de controle orçamental",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXI — Plano de actividades e orçamentos anuais e relatórios de controle orçamental\n\n1 - O Centro preparará, por cada ano económico, o plano de actividades e os orçamentos anuais, os quais deverão ser completados com os desdobramentos necessários para permitir a descentralização de responsabilidade e adequado controle, bem como a apreciação de indicadores respeitantes aos resultados atingidos pelas acções de formação implementadas.\n\n2 - As propostas de planos de actividades e os orçamentos anuais deverão ser enviados ao outorgante até 31 de Maio do ano anterior, devendo o mesmo dar a sua aprovação de princípio no prazo de 90 dias.\n\n3 - O plano de actividades e orçamento, acompanhados do parecer da CF, serão aprovados em definitivo no prazo de 30 dias após a aprovação do plano e orçamento do IEFP.\n\n4 - Os relatórios de controle orçamental devem ser apresentados ao CA do Centro no prazo de quinze dias após o término do período a que se referem e remetidos aos outorgantes nos quinze dias subsequentes.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686362": {
+   "fragment_id": "921615403",
+   "type": 11,
+   "heading": "XXII — Documentos de prestação de contas",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXII — Documentos de prestação de contas\n\n1 - Anualmente, com referência a 31 de Dezembro, serão elaborados os documentos de prestação de contas, que compreenderão:\n\na) Relatório do CA sobre as actividades e situação do Centro;\n\nb) Balanço analítico;\n\nc) Demonstração de resultados;\n\nd) Parecer da CF.\n\n2 - Os documentos referidos no número anterior serão completados com outros elementos de interesse para apreciação da situação do Centro, nomeadamente:\n\na) Anexo ao balanço e à demonstração de resultados;\n\nb) Mapa de origem e aplicação de fundos;\n\nc) Mapas sintéticos relativos ao grau de execução do programa anual de actividades e do orçamento anual;\n\nd) Outros indicadores significativos das actividades do Centro directamente relacionados com os programas de formação realizados durante o exercício.\n\n3 - Os elementos de prestação de contas deverão ser enviados, para parecer, à CF até fins de Fevereiro do ano seguinte e enviados pelo CA do Centro à comissão executiva do IEFP até 31 de Março.\n\n4 - Os saldos apurados no fim do exercício transitarão para o ano seguinte.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686363": {
+   "fragment_id": "921615404",
+   "type": 11,
+   "heading": "XXIII — Receitas e despesas",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXIII — Receitas e despesas\n\n1 - As despesas com instalações e equipamento do Centro poderão ser suportadas até 100% pelo IEFP.\n\n2 - A cobertura das despesas de funcionamento do Centro, a suportar pelo IEPF, não poderá exceder 95%, competindo ao elemento outorgante assumir a restante comparticipação.\n\n3 - Para as acções de formação profissional a desenvolver no Centro e que o IEFP considere elegíveis para apresentação ao Fundo Social Europeu ou de interesse nacional, a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas por aquele Fundo comunitário, deduzidas eventuais receitas das acções.\n\n4 - As importâncias pagas pelas entidades referidas na cláusula III a título de inscrição nos cursos integram a comparticipação do segundo outorgante.\n\n5 - As receitas provenientes da venda de produtos ou da prestação de serviços constituem receitas do Centro, que serão deduzidas na devida proporção da comparticipação do outorgante, referida no n.º 2.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686364": {
+   "fragment_id": "921615377",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições diversas",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "### Capítulo IV — Disposições diversas\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686365": {
+   "fragment_id": "921615405",
+   "type": 11,
+   "heading": "XXIV — Representação",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXIV — Representação\n\nO Centro obrigar-se-á pelas assinaturas de dois membros do CA, devendo uma delas ser obrigatoriamente a do presidente efectivo ou substituto e a outra de um representante do outro outorgante.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686366": {
+   "fragment_id": "921615406",
+   "type": 11,
+   "heading": "XXV — Resolução unilateral",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXV — Resolução unilateral\n\nA resolução unilateral do protocolo por qualquer das entidades outorgantes não confere direito a qualquer indemnização, sem prejuízo do dever de ressarcir eventuais danos quando a resolução seja injustificada.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686367": {
+   "fragment_id": "921615407",
+   "type": 11,
+   "heading": "XXVI — Incumprimento",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXVI — Incumprimento\n\nO incumprimento não justificado do outorgante das obrigações assumidas no âmbito do presente protocolo pode determinar a sua exclusão por deliberação do CA do IEFP, sujeita a homologação do Ministro do Trabalho e Segurança Social.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686368": {
+   "fragment_id": "921615408",
+   "type": 11,
+   "heading": "XXVII — Extinção",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXVII — Extinção\n\n1 - Em caso de manifesta impossibilidade da realização dos fins essenciais do Centro, o Ministro do Trabalho e Segurança Social poderá determinar a cessação da sua actividade e consequente extinção, mediante proposta de qualquer outorgante, aprovada pelo CA do IEFP.\n\n2 - Em caso de extinção, o património do Centro será rateado pelos outorgantes em partes proporcionais às respectivas comparticipações financeiras.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686369": {
+   "fragment_id": "921615409",
+   "type": 11,
+   "heading": "XXVIII — Alterações ao protocolo",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXVIII — Alterações ao protocolo\n\nO CA do IEFP poderá propor ao outorgante as necessárias alterações e aditamentos a este protocolo, devendo, em caso de acordo, celebrar-se o respectivo adicional, a homologar e publicar nos mesmos termos deste protocolo.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686370": {
+   "fragment_id": "921615410",
+   "type": 11,
+   "heading": "XXIX — Adesão ao protocolo",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXIX — Adesão ao protocolo\n\nMediante proposta fundamentada do CA do Centro, poderão os outorgantes autorizar futuras adesões de outras entidades a este protocolo.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686371": {
+   "fragment_id": "921615411",
+   "type": 11,
+   "heading": "XXX — Legislação aplicável",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXX — Legislação aplicável\n\nEm tudo o omisso neste protocolo aplicar-se-á o disposto no Decreto-Lei n.º 165/85, de 16 de Maio.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686372": {
+   "fragment_id": "921615412",
+   "type": 11,
+   "heading": "XXXI — Entrada em vigor",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXXI — Entrada em vigor\n\nO presente protocolo entra em vigor depois de assinado pelas entidades outorgantes e homologado pelo Ministro do Trabalho e Segurança Social.\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921686373": {
+   "fragment_id": "921615413",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2011-10-13",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "Lisboa, 31 de Março de 1987. - O Ministro do Trabalho e Segurança Social, Luís Fernando Mira Amaral. - Pelo Instituto do Emprego e Formação Profissional, Álvaro Gonçalves Martins. - Pela Associação Portuguesa de Fundição, (Assinatura ilegível.)\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921782404": {
+   "fragment_id": "921615381",
+   "type": 14,
+   "heading": "Anexo — Adaptação do protocolo do Centro de Formação Profissional da Indústria de Fundição",
+   "in_force_from": "2025-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17",
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "## Anexo — Adaptação do protocolo do Centro de Formação Profissional da Indústria de Fundição\n\nAo abrigo do disposto na alínea b) do artigo 2.º e dos n.os 2 e 3 do artigo 10.º do Decreto-Lei n.º 165/85, de 16 de maio, na sua atual redação, entre o Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), adiante designado por primeiro outorgante, a Associação Portuguesa de Fundição (APF) e a Associação de Fabricantes para a Indústria Automóvel (AFIA), adiante designadas em conjunto por segundas outorgantes, é nesta data celebrada a primeira alteração ao protocolo que criou o Centro de Formação Profissional da Indústria de Fundição (CINFU), com as seguintes cláusulas:\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921782405": {
+   "fragment_id": "921615384",
+   "type": 11,
+   "heading": "III — Destinatários",
+   "in_force_from": "2025-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17",
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### III — Destinatários\n\nA frequência do Centro é facultada, por ordem de prioridades:\n\na) Aos empresários e trabalhadores das empresas associadas das segundas outorgantes;\n\nb) Aos candidatos às profissões que se enquadrem no âmbito do setor de atividade das segundas outorgantes;\n\nc) Aos empresários e trabalhadores do setor de fundição, ainda que não membros das Associações segundas outorgantes;\n\nd) Aos dirigentes e trabalhadores das entidades outorgantes ou indicados pelo IEFP, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921782406": {
+   "fragment_id": "921615388",
+   "type": 11,
+   "heading": "VII — Composição",
+   "in_force_from": "2025-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17",
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### VII — Composição\n\n1 - O CA é constituído por quatro membros efetivos, todos com direito a voto quando em exercício efetivo de funções, dois dos quais em representação do IEFP, I. P., e os restantes em representação de cada uma das segundas outorgantes.\n\n2 - O presidente do CA do Centro é, necessariamente, um dos representantes do primeiro outorgante e, nas suas faltas ou impedimentos, será substituído pelo seu outro representante.\n\n3 - O mandato dos membros do CA tem a duração de três anos, renováveis.\n\n4 - Os membros do CA são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social, sob proposta dos outorgantes.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921782407": {
+   "fragment_id": "921615390",
+   "type": 11,
+   "heading": "IX — Funcionamento",
+   "in_force_from": "2025-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17",
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### IX — Funcionamento\n\n1 - O CA reúne ordinariamente uma vez por mês e extraordinariamente sempre que o presidente o convocar, por iniciativa própria ou a pedido de qualquer dos seus membros ou do director do Centro.\n\n2 - As reuniões do CA serão dirigidas pelo presidente ou, na falta ou impedimento deste, pelo respectivo substituto, que serão sempre representantes do IEFP.\n\n3 - O IEFP terá no CA do centro protocolar um número de votos correspondente a 50% do total.\n\n4 - O CA só reúne validamente desde que esteja presente pelo menos um representante de cada outorgante.\n\n5 - As deliberações do CA são tomadas por maioria de votos. Nas deliberações referentes à aprovação do programa de actividades e do orçamento o presidente goza de voto de qualidade.\n\n6 - O CA ou qualquer dos seus membros pode solicitar a assistência e exame às actividades do Centro que entender necessárias, nomeadamente o IEFP.\n\n7 - De cada reunião será lavrada acta, a submeter à aprovação e assinatura do CA na reunião seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921782408": {
+   "fragment_id": "921615393",
+   "type": 11,
+   "heading": "XII — Composição",
+   "in_force_from": "2025-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17",
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XII — Composição\n\n1 - O CTP é constituído pelo diretor do Centro e por um representante de cada outorgante.\n\n2 - Os membros do CTP, cujo mandato é de três anos, renováveis, são nomeados e exonerados por despacho do Ministro do Trabalho e Segurança Social ou de quem tiver competência por ele delegada, mediante proposta do outorgante que representa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  },
+  "921782409": {
+   "fragment_id": "921615404",
+   "type": 11,
+   "heading": "XXIII — Receitas e despesas",
+   "in_force_from": "2025-06-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17",
+    "Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13",
+    "Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+   ],
+   "markdown": "###### XXIII — Receitas e despesas\n\n1 - As despesas com instalações e equipamento do Centro poderão ser suportadas até 100% pelo IEFP.\n\n2 - A cobertura das despesas de funcionamento do Centro, a suportar pelo IEFP, I. P., não poderá exceder 95 %, competindo às restantes outorgantes assumir a restante comparticipação.\n\n3 - Para as acções de formação profissional a desenvolver no Centro e que o IEFP considere elegíveis para apresentação ao Fundo Social Europeu ou de interesse nacional, a comparticipação do IEFP será de molde a cobrir a totalidade das despesas de funcionamento co-financiadas por aquele Fundo comunitário, deduzidas eventuais receitas das acções.\n\n4 - As importâncias pagas pelas entidades referidas na cláusula III a título de inscrição nos cursos integram a comparticipação do segundo outorgante.\n\n5 - As receitas provenientes da venda de produtos ou da prestação de serviços constituem receitas do Centro, que serão deduzidas na devida proporção da comparticipação do outorgante, referida no n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 260/2025/1 - Diário da República n.º 114/2025, Série I de 2025-06-16](https://diariodarepublica.pt/dr/detalhe/portaria/260-2025-921435825), em vigor a partir de 2025-06-17\n\n> Reposto em Vigor pelo/a Artigo 3.º do/a [Portaria n.º 276/2011 - Diário da República n.º 196/2011, Série I de 2011-10-12](https://diariodarepublica.pt/dr/detalhe/portaria/276-2011-671253), em vigor a partir de 2011-10-13\n\n> Revogado pelo/a Artigo 8.º do/a [Portaria n.º 235/2011 - Diário da República n.º 114/2011, Série I de 2011-06-15](https://diariodarepublica.pt/dr/detalhe/portaria/235-2011-670019), em vigor a partir de 2011-06-16"
+  }
+ }
+}

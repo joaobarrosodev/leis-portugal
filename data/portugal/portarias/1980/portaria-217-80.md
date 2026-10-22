@@ -1,0 +1,215 @@
+---
+schema_version: '1.0'
+id: pt:dre:475137:por
+title: Portaria n.º 217/80
+short_title: null
+summary: Estabelece normas relativas aos cursos de promoção previstos no Decreto Regulamentar n.º 87/77, de 30 de Dezembro
+  (cria a carreira de técnico auxiliar dos serviços complementares de diagnóstico e terapêutica para vigorar nos serviços
+  dependentes do Ministério dos Assuntos Sociais)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Assuntos Sociais - Secretaria de Estado da Saúde
+proposing_entity: null
+official_number: 217/80
+official_date: null
+publication_date: '1980-05-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 102/1980, Série I de 1980-05-03
+  number: '102'
+  series: I
+  supplement: null
+  pages: 858 - 860
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/05/10200/08580860.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '475137'
+  dre_path: /dr/detalhe/portaria/217-1980-475137
+  internal: pt:dre:475137:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/217-1980-475137
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/217-1980-475137
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-03-01T00:00:00Z'
+integrity:
+  source_sha256: 2c7cf09c65efed01385ec777044855ac0cc9ac0e804a3a6863e4328b039a37c9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-217-475137.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:311458:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 217/80
+
+de 3 de Maio
+
+1. Os cursos de promoção previstos no [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), de 30 de Dezembro, destinam-se aos profissionais que, sem habilitação própria mas obedecendo a determinados requisitos, desempenham funções auxiliares de natureza técnica em serviços complementares de diagnóstico e terapêutica.
+
+2. Através de curso de promoção e sua frequência com aproveitamento, é facultado aos referidos profissionais o ingresso na carreira instituída pelo citado diploma legal.
+
+3. Entendendo-se que a promoção só deverá efectivar-se através de um curso adequado, houve que estabelecer programas pertinentes e estruturados por forma a ser atingido o objectivo final, que é o de facultar aos candidatos, nas melhores condições técnicas e pedagógicas possíveis, a aquisição e o aperfeiçoamento de um conjunto de conhecimentos (teóricos e práticos), atitudes e capacidades técnicas que lhes possibilitem o correcto exercício da profissão a que se destinam.
+
+4. Aliás, resulta da própria lei e constitui imperativo para a Escola Nacional de Saúde Pública, entidade a quem foi cometida a responsabilidade pela organização e supervisão dos cursos, que à promoção corresponda uma acção formativa adequada.
+
+5. Os programas dos cursos, organizados por comissões técnico-pedagógicas da especialidade e sancionados pela Escola Nacional de Saúde Pública, tiveram em linha de conta as diferenças de formação de base e de experiência dos candidatos que frequentarão os cursos.
+
+Procurou-se, assim, compatibilizar o rigor pedagógico, a exigir nos cursos de formação normal dos técnicos auxiliares de saúde, com as reais potencialidades dos candidatos aos cursos de promoção, sem embargo da aquisição da habilitação técnica considerada indispensável para este tipo de profissionais.
+
+Nestes termos:
+
+Ao abrigo do n.º 2 do artigo 5.º do [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), de 30 de Dezembro:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Saúde, o seguinte:
+
+1.º Incumbe à Escola Nacional de Saúde Pública organizar, coordenar e avaliar os cursos de promoção a técnicos auxiliares dos serviços complementares de diagnóstico e terapêutica a que se refere o [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), de 30 de Dezembro.
+
+2.º Os cursos de promoção profissional a técnicos auxiliares dos serviços complementares de diagnóstico e terapêutica, adiante designados por cursos de promoção, que agora se regulamentam são equivalentes aos cursos normais de formação (2.º grupo) obtidos nos termos das Portarias n.º 18523, de 12 de Junho de 1961, e n.º 19397, de 20 de Setembro de 1962, e aos cursos a estes equiparados por lei para efeitos do exercício profissional.
+
+3.º São admitidos, prioritariamente, à frequência dos cursos de promoção os profissionais que, exercendo funções em serviços e estabelecimentos dependentes do Ministério dos Assuntos Sociais, obedeçam às condições referidas nos n.os 1 e 2 do artigo 5.º do [Decreto Regulamentar n.º 87/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/87-1977-176479), de 30 de Dezembro.
+
+4.º Poderão também ser admitidos aos cursos, nos termos do [Decreto n.º 80/79](https://diariodarepublica.pt/dr/detalhe/decreto/80-1979-381487), de 3 de Agosto, em condições a acordar, candidatos propostos por serviços e estabelecimentos não dependentes do Ministério dos Assuntos Sociais mas integrados na Administração Pública em geral, desde que obedeçam aos requisitos referidos no n.º 3.º da presente portaria.
+
+5.º - 1 - Os candidatos admitidos, quando obrigados a mudar temporariamente de residência para frequentar os cursos de promoção, serão autorizados a frequentá-los em regime de comissão gratuita de serviço, mediante prévio despacho do órgão de gestão do estabelecimento ou serviço respectivo.
+
+2 - Aos alunos referidos no número anterior poderão ser concedidas bolsas de estudo, de quantitativo a fixar, que serão processadas pelos respectivos serviços e estabelecimentos de origem.
+
+3 - Os alunos nas condições previstas no n.º 1 completarão a sua aprendizagem em serviço em moldes a determinar pelos núcleos de formação.
+
+4 - Os alunos que mantenham as suas residências conservar-se-ão, para todos os efeitos, ao serviço, sendo-lhes, porém, aí concedidas as facilidades indispensáveis à sua formação, inclusive as dispensas necessárias à frequência dos cursos.
+
+5 - Os serviços e estabelecimentos onde funcionem os cursos de promoção concederão aos alunos, na medida do possível, facilidades em ordem a minimizar os encargos resultantes da frequência dos cursos.
+
+6.º É fixado desde já o dia 31 de Dezembro de 1981 como prazo limite do termo da realização dos cursos de promoção profissional, incumbindo à Escola Nacional de Saúde Pública promover as acções necessárias para o efeito.
+
+7.º Os serviços e estabelecimentos dependentes do Ministério dos Assuntos Sociais prestarão à Escola Nacional de Saúde Pública toda a colaboração necessária com vista à prossecução das acções formativas referentes aos cursos de promoção.
+
+8.º - 1 - Os cursos de promoção profissional serão ministrados em núcleos de formação a criar por despacho do Secretário de Estado da Saúde, sob proposta da Escola Nacional de Saúde Pública.
+
+2 - São desde já criados os seguintes núcleos de formação:
+
+Hospitais Civis de Lisboa;
+
+Hospital de Santa Maria;
+
+Hospitais da Universidade de Coimbra;
+
+Centro Hospitalar de Coimbra;
+
+Hospital de S. João;
+
+Hospital Geral de Santo António;
+
+Centro de Medicina Física e de Reabilitação (Alcoitão);
+
+Instituto Nacional de Saúde - Lisboa;
+
+Instituto Nacional de Saúde - Porto.
+
+9.º - 1 - Os núcleos de formação são constituídos por um director e pelos gestores dos cursos ministrados e disporão do apoio administrativo necessário, que lhes será prestado pelos estabelecimentos onde funcionem.
+
+2 - O director do núcleo de formação será designado pelo órgão de gestão do estabelecimento em causa.
+
+3 - Compete aos directores dos núcleos de formação assegurar a ligação entre a Escola Nacional de Saúde Pública e o respectivo núcleo de formação e garantir o bom funcionamento deste, nomeadamente no que respeita aos aspectos organizacional e administrativo.
+
+10.º Os núcleos de formação funcionarão, preferencialmente, enquadrados nas estruturas de preparação de técnicos auxiliares já existentes e em serviços especialmente credenciados pela Escola Nacional de Saúde Pública, sob proposta das comissões técnico-pedagógicas da especialidade.
+
+11.º A localização dos núcleos de formação e a organização dos cursos de promoção deverão ter em conta, tanto quanto possível, as necessidades de formação, a proveniência dos candidatos à frequência, o número de inscrições para cada curso de promoção e os recursos humanos e técnicos disponíveis necessários à formação.
+
+12.º Os programas dos cursos de promoção, uniformes e de âmbito nacional, serão aprovados por despacho do Secretário de Estado da Saúde, sob proposta da Escola Nacional de Saúde Pública.
+
+13.º Os cursos de promoção terão, em princípio, uma duração compreendida entre seis e oito meses e deverão ser ultimados por forma que a avaliação final e a emissão dos respectivos diplomas se processe dentro do prazo limite estabelecido no n.º 6.º da presente portaria.
+
+14.º - 1 - A frequência dos cursos é obrigatória, sendo sempre causa de exclusão um número de faltas superior a 20% do total de horas lectivas de cada disciplina, qualquer que seja a sua justificação.
+
+2 - Todas as faltas serão justificadas, cabendo ao gestor de cada curso, ouvida a equipa pedagógica, apreciar a respectiva justificação.
+
+3 - Durante a frequência do curso, os alunos continuam, sob o ponto de vista disciplinar, sujeitos ao respectivo estatuto.
+
+15.º Os cursos serão leccionados por pessoal médico, técnico superior e técnico auxiliar da respectiva especialidade, podendo recrutar-se outro pessoal de reconhecida competência sempre que as necessidades do ensino o justifiquem.
+
+16.º - 1 - O pessoal docente de cada curso deverá constituir-se em equipa pedagógica, que será coordenada por um gestor de curso designado por escolha do director do núcleo de formação e homologado pela Escola Nacional de Saúde Pública.
+
+2 - Compete aos gestores dos cursos providenciar o normal desenvolvimento dos respectivos cursos e assegurar as ligações destes com os respectivos núcleos de formação e com a Escola Nacional de Saúde Pública.
+
+17.º - 1 - A avaliação de conhecimentos deverá processar-se por forma sistemática ao longo do curso, com vista a apurar-se se o aluno reúne as condições mínimas de aproveitamento para prosseguir a frequência do curso.
+
+2 - Com uma periodicidade de quatro a seis semanas, os alunos serão submetidos a provas de avaliação de conhecimentos, sendo excluídos da frequência do curso os que não obtenham aproveitamento em todas as disciplinas.
+
+3 - Compete às equipas pedagógicas determinar os métodos, frequência e oportunidade da avaliação, em tudo o que não estiver previsto nesta portaria ou nas normas gerais emanadas da Escola Nacional de Saúde Pública.
+
+18.º - 1 - A admissão a exame final pressupõe o aproveitamento em todas as disciplinas de cada curso.
+
+2 - Os exames finais serão constituídos por provas públicas uniformizadas, válidas para todos os núcleos de formação e prestadas perante júris de âmbito nacional, designados pela Escola Nacional de Saúde Pública de entre os corpos docentes dos cursos.
+
+3 - A classificação do curso será a nota do respectivo exame final.
+
+19.º - 1 - Toda a avaliação será feita mediante a atribuição de notas de uma escala de valores compreendida entre 0 e 20, implicando exclusão nota inferior a 10.
+
+2 - Deverão ser fundamentadas pela equipa pedagógica as notas que determinem a exclusão.
+
+3 - Da exclusão nas avaliações periódicas cabe recurso, a interpor no prazo de quarenta oito horas a contar da afixação dos resultados, para o director do respectivo núcleo de formação, que decidirá em definitivo no prazo de dez dias.
+
+4 - Na dependência dos recursos, os alunos recorrentes continuarão a frequentar os cursos, a título condicional.
+
+5 - Da avaliação final não há recurso.
+
+20.º Em caso algum serão readmitidos a nova frequência os alunos excluídos por falta de aproveitamento.
+
+21.º Aos alunos que concluírem o curso com aproveitamento serão passados, pelos respectivos núcleos de formação, diplomas de modelo único, aprovado pela Escola Nacional de Saúde Pública.
+
+22.º As despesas decorrentes da realização dos cursos de promoção a que se refere a presente portaria, com excepção das referidas no n.º 2 do n.º 5.º, serão suportadas por conta das dotações que, para o efeito vierem a ser atribuídas à Escola Nacional de Saúde Pública.
+
+23.º Incumbe à Escola Nacional de Saúde Pública homologar os diplomas dos cursos e emitir as normas e instruções necessárias à sua realização, designadamente no que se refere a planos dos cursos, programas, avaliação e assiduidade dos alunos.
+
+24.º A remuneração do pessoal docente dos cursos de promoção será estabelecida por despacho do Ministro dos Assuntos Sociais.
+
+25.º Os casos omissos e as dúvidas suscitadas pela presente portaria serão resolvidos por despacho do Ministro dos Assuntos Sociais, ouvida a Escola Nacional de Saúde Pública.
+
+Ministério dos Assuntos Sociais, 22 de Abril de 1980. - O Secretário de Estado da Saúde, Fernando José Costa e Sousa.

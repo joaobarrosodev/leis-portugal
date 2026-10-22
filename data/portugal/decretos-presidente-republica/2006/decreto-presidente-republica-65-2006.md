@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:537264:por
+title: Decreto do Presidente da República n.º 65/2006
+short_title: null
+summary: Ratifica a Convenção sobre a Protecção do Património Cultural Subaquático, aprovada na XXXI Sessão da Conferência
+  Geral da UNESCO
+jurisdiction: portugal
+territory: null
+document_type: decreto-presidente-republica
+document_type_label: Decreto do Presidente da República
+issuing_authority:
+- Presidência da República
+proposing_entity: null
+official_number: 65/2006
+official_date: null
+publication_date: '2006-07-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 137/2006, Série I de 2006-07-18
+  number: '137'
+  series: I
+  supplement: null
+  pages: 4951 - 4951
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/07/13700/49514951.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decpresrep/65/2006/07/18/p/dre/pt/html
+  oj: null
+  dre: '537264'
+  dre_path: /dr/detalhe/decreto-presidente-republica/65-2006-537264
+  internal: pt:dre:537264:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/65-2006-537264
+  metadata_url: https://data.dre.pt/eli/decpresrep/65/2006/07/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-presidente-republica/65-2006-537264
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-07-18T00:00:00Z'
+integrity:
+  source_sha256: 5969fcba530a4bb864e557397394aa5552f600a67854a76977e42f25b5a38a82
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-65-537264.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Unesco
+- Convenção
+- Portugal
+- Património Cultural
+- Paris
+- Património Subaquático
+- Protecção do Património
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolassrep/51/2006/07/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolassrep/51/2006/07/18/p/dre
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto do Presidente da República n.º 65/2006
+
+de 18 de Julho
+
+**O Presidente da República decreta, nos termos do artigo 135.º, alínea b), da Constituição, o seguinte:**
+
+###### Artigo 1.º
+
+É ratificada a Convenção sobre a Protecção do Património Cultural Subaquático, aprovada na XXXI Sessão da Conferência Geral da UNESCO, que teve lugar em Paris em 2 de Novembro de 2001, aprovada, para ratificação, pela [Resolução da Assembleia da República n.º 51/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/51-2006-537266), em 20 de Abril de 2006.
+
+###### Artigo 2.º
+
+No momento do depósito do instrumento de ratificação, Portugal declarará que, ao abrigo do n.º 2 do artigo 9.º da Convenção sobre a Protecção do Património Cultural Subaquático, a forma pela qual serão transmitidas as informações previstas na alínea b) do n.º 1 do mesmo artigo é estipulada na subalínea ii).
+
+**Assinado em 6 de Julho de 2006.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 10 de Julho de 2006.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

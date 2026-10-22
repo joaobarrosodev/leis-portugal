@@ -1,0 +1,208 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:130211649:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-145253682",
+ "dre_path": "/dr/detalhe/portaria/70-2020-130211649",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-03-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887814136",
+    "145225188",
+    "145225189",
+    "145225190",
+    "145225191",
+    "145225192"
+   ]
+  },
+  {
+   "date": "2020-10-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:145102354:por",
+     "title": "Portaria n.º 240/2020",
+     "published": "2020-10-13",
+     "dre_path": "/dr/detalhe/portaria/240-2020-145102354"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 3.º"
+   ],
+   "fragments": [
+    "145225187",
+    "145225188",
+    "145225189",
+    "145225201",
+    "145225191",
+    "145225192",
+    "145225193"
+   ]
+  },
+  {
+   "date": "2024-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:887665684:por",
+     "title": "Portaria n.º 209/2024/1",
+     "published": "2024-09-13",
+     "dre_path": "/dr/detalhe/portaria/209-2024-887665684"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "887814136",
+    "887814137",
+    "887814138",
+    "887814139",
+    "887814140",
+    "887814141",
+    "887814142"
+   ]
+  }
+ ],
+ "fragments": {
+  "887814136": {
+   "fragment_id": "145253683",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-09-14",
+   "changed_by": [],
+   "markdown": "Portaria n.º 70/2020\n\nde 13 de março\n\nSumário: Fixa o número de estagiários admitidos à frequência da 5.ª edição do Programa de Estágios Profissionais na Administração Central do Estado específico para os serviços periféricos externos do Ministério dos Negócios Estrangeiros (PEPAC-MNE).\n\nO Decreto-Lei n.º 18/2010, de 19 de março, na sua redação atual, estabelece o regime jurídico do Programa de Estágios Profissionais na Administração Pública.\n\nAo abrigo dos n.os 3 e 4 do artigo 5.º do referido decreto-lei foi criado o Programa de Estágios Profissionais na Administração Central do Estado específico para os serviços periféricos externos do Ministério dos Negócios Estrangeiros (PEPAC-MNE), aprovado pela Portaria n.º 259/2014, de 15 de dezembro, na sua redação atual.\n\nA presente portaria vem fixar o número de estagiários a admitir em 2020 no âmbito do PEPAC-MNE, bem como o prazo para apresentação das candidaturas e a data de início dos estágios.\n\nAssim:\n\nAo abrigo do disposto no n.º 4 do artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, na sua redação atual, e no n.º 6 do artigo 3.º da Portaria n.º 259/2014, de 15 de dezembro, na sua redação atual, manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros, pelo Ministro de Estado e das Finanças e pela Ministra da Modernização do Estado e da Administração Pública, o seguinte:"
+  },
+  "145225188": {
+   "fragment_id": "145253684",
+   "type": 11,
+   "heading": "Artigo 1.º — Número de estagiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Número de estagiários\n\nO número de estagiários admitidos à frequência da 5.ª edição do Programa de Estágios Profissionais na Administração Central do Estado específico para os serviços periféricos externos do Ministério dos Negócios Estrangeiros (PEPAC-MNE) é de 100."
+  },
+  "145225189": {
+   "fragment_id": "145253685",
+   "type": 11,
+   "heading": "Artigo 2.º — Prazo de apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prazo de apresentação de candidaturas\n\nO prazo para apresentação de candidaturas decorre de 10 de março a 22 de março de 2020.\n\n> Nota: [Artigo 2.º, Portaria n.º 240/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/240-2020-145102354) O prazo de apresentação de candidaturas à 5.ª edição do PEPAC-MNE, previsto no artigo 2.º do presente diploma, prorrogado pelo artigo 2.º da Portaria n.º 87/2020, de 6 de abril, é prorrogado até ao dia 31 de julho de 2020."
+  },
+  "145225190": {
+   "fragment_id": "145253686",
+   "type": 11,
+   "heading": "Artigo 3.º — Data de início dos estágios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Data de início dos estágios\n\nOs estágios têm início no dia 15 de outubro de 2020."
+  },
+  "145225191": {
+   "fragment_id": "145253687",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a Portaria n.º 104/2019, de 9 de abril."
+  },
+  "145225192": {
+   "fragment_id": "145253688",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de março de 2020.\n\nEm 11 de março de 2020."
+  },
+  "145225187": {
+   "fragment_id": "145253683",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 70/2020\n\nde 13 de março\n\nSumário: Fixa o número de estagiários admitidos à frequência da 5.ª edição do Programa de Estágios Profissionais na Administração Central do Estado específico para os serviços periféricos externos do Ministério dos Negócios Estrangeiros (PEPAC-MNE).\n\nO Decreto-Lei n.º 18/2010, de 19 de março, na sua redação atual, estabelece o regime jurídico do Programa de Estágios Profissionais na Administração Pública.\n\nAo abrigo dos n.os 3 e 4 do artigo 5.º do referido decreto-lei foi criado o Programa de Estágios Profissionais na Administração Central do Estado específico para os serviços periféricos externos do Ministério dos Negócios Estrangeiros (PEPAC-MNE), aprovado pela Portaria n.º 259/2014, de 15 de dezembro, na sua redação atual.\n\nA presente portaria vem fixar o número de estagiários a admitir em 2020 no âmbito do PEPAC-MNE, bem como o prazo para apresentação das candidaturas e a data de início dos estágios.\n\nAssim:\n\nAo abrigo do disposto no n.º 4 do artigo 6.º do Decreto-Lei n.º 18/2010, de 19 de março, na sua redação atual, e no n.º 6 do artigo 3.º da Portaria n.º 259/2014, de 15 de dezembro, na sua redação atual, manda o Governo, pelo Ministro de Estado e dos Negócios Estrangeiros, pelo Ministro de Estado e das Finanças e pela Ministra da Modernização do Estado e da Administração Pública, o seguinte:"
+  },
+  "145225201": {
+   "fragment_id": "145253686",
+   "type": 11,
+   "heading": "Artigo 3.º — Data de início dos estágios",
+   "in_force_from": "2020-10-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 240/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/240-2020-145102354), em vigor a partir de 2020-10-18, produz efeitos a partir de 2020-06-15"
+   ],
+   "markdown": "###### Artigo 3.º — Data de início dos estágios\n\nOs estágios têm início no dia 15 de outubro de 2020.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 240/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/240-2020-145102354), em vigor a partir de 2020-10-18, produz efeitos a partir de 2020-06-15"
+  },
+  "145225193": {
+   "fragment_id": "145253689",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e dos Negócios Estrangeiros, Augusto Ernesto Santos Silva. - O Ministro de Estado e das Finanças, Mário José Gomes de Freitas Centeno. - A Ministra da Modernização do Estado e da Administração Pública, Alexandra Ludomila Ribeiro Fernandes Leitão.\n\n113112403"
+  },
+  "887814137": {
+   "fragment_id": "145253684",
+   "type": 11,
+   "heading": "Artigo 1.º — Número de estagiários",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14"
+   ],
+   "markdown": "###### Artigo 1.º — Número de estagiários\n\nO número de estagiários admitidos à frequência da 5.ª edição do Programa de Estágios Profissionais na Administração Central do Estado específico para os serviços periféricos externos do Ministério dos Negócios Estrangeiros (PEPAC-MNE) é de 100.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14"
+  },
+  "887814138": {
+   "fragment_id": "145253685",
+   "type": 11,
+   "heading": "Artigo 2.º — Prazo de apresentação de candidaturas",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14"
+   ],
+   "markdown": "###### Artigo 2.º — Prazo de apresentação de candidaturas\n\nO prazo para apresentação de candidaturas decorre de 10 de março a 22 de março de 2020.\n\n> Nota: [Artigo 2.º, Portaria n.º 240/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/240-2020-145102354) O prazo de apresentação de candidaturas à 5.ª edição do PEPAC-MNE, previsto no artigo 2.º do presente diploma, prorrogado pelo artigo 2.º da Portaria n.º 87/2020, de 6 de abril, é prorrogado até ao dia 31 de julho de 2020.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14"
+  },
+  "887814139": {
+   "fragment_id": "145253686",
+   "type": 11,
+   "heading": "Artigo 3.º — Data de início dos estágios",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14",
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 240/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/240-2020-145102354), em vigor a partir de 2020-10-18, produz efeitos a partir de 2020-06-15"
+   ],
+   "markdown": "###### Artigo 3.º — Data de início dos estágios\n\nOs estágios têm início no dia 15 de outubro de 2020.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 240/2020 - Diário da República n.º 199/2020, Série I de 2020-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/240-2020-145102354), em vigor a partir de 2020-10-18, produz efeitos a partir de 2020-06-15"
+  },
+  "887814140": {
+   "fragment_id": "145253687",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14"
+   ],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a Portaria n.º 104/2019, de 9 de abril.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14"
+  },
+  "887814141": {
+   "fragment_id": "145253688",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de março de 2020.\n\nEm 11 de março de 2020.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14"
+  },
+  "887814142": {
+   "fragment_id": "145253689",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-09-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14"
+   ],
+   "markdown": "O Ministro de Estado e dos Negócios Estrangeiros, Augusto Ernesto Santos Silva. - O Ministro de Estado e das Finanças, Mário José Gomes de Freitas Centeno. - A Ministra da Modernização do Estado e da Administração Pública, Alexandra Ludomila Ribeiro Fernandes Leitão.\n\n113112403\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 209/2024/1 - Diário da República n.º 178/2024, Série I de 2024-09-13](https://diariodarepublica.pt/dr/detalhe/portaria/209-2024-887665684), em vigor a partir de 2024-09-14"
+  }
+ }
+}

@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:142487:por
+title: Portaria n.º 265/70
+short_title: null
+summary: Altera as condições de promoção ao posto de segundo-sargento das classes de artífices condutores de máquinas, de
+  artífices electricistas, de artífices radioelectricistas e de enfermeiros da Armada, em virtude da criação dos cursos complementares
+  das cursos de alistamento respectivos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Estado-Maior da Armada
+proposing_entity: null
+official_number: 265/70
+official_date: null
+publication_date: '1970-06-01'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 127/1970, Série I de 1970-06-01
+  number: '127'
+  series: I
+  supplement: null
+  pages: 721 - 721
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/06/12700/07210721.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '142487'
+  dre_path: /dr/detalhe/portaria/265-1970-142487
+  internal: pt:dre:142487:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-1970-142487
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/265-1970-142487
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1972-04-21T00:00:00Z'
+integrity:
+  source_sha256: 71dbd6c6bb5d4a0e72edaa1f82f65bc6aaa3f939645331e77e29f43ef89a9c63
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1970/DRE-1970-265-142487.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:397102:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 265/70
+
+Considerando a necessidade de alterar as condições de promoção ao posto de segundo-sargento das classes de artífices condutores de máquinas, de artífices electricistas, de artífices radioelectricistas e de enfermeiros, em virtude da criação dos cursos complementares dos cursos de alistamento respectivos;
+
+Tendo em conta o disposto no artigo 235.º do Estatuto dos Sargentos e Praças da Armada, aprovado pelo [Decreto n.º 44884](https://diariodarepublica.pt/dr/detalhe/decreto/44884-1963-193429), de 18 de Fevereiro de 1963:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, o seguinte:
+
+1.º Os cabos artífices condutores de máquinas, artífices electricistas, artífices radioelectricistas e enfermeiros que não obtiverem aproveitamento no curso complementar do respectivo curso de alistamento são colocados na escala de antiguidades à esquerda dos cabos que concluíram com aproveitamento o mesmo curso.
+
+2.º O curso complementar para artífices condutores de máquinas, artífices electricistas, artífices radioelectricistas e enfermeiros passa a ser uma das condições especiais de promoção ao posto de segundo-sargento das respectivas classes.
+
+3.º Estas disposições não são aplicáveis aos alunos do curso de alistamento de artífices condutores de máquinas que termina em 16 de Outubro de 1970.
+
+Ministério da Marinha, 1 de Junho de 1970. - O Ministro da Marinha, Manuel Pereira Crespo.

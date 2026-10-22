@@ -1,0 +1,357 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:548661:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-186942936",
+ "dre_path": "/dr/detalhe/portaria/1386-2004-548661",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-11-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "836111189"
+   ]
+  },
+  {
+   "date": "2008-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247429:por",
+     "title": "Portaria n.º 210/2008",
+     "published": "2008-02-29",
+     "dre_path": "/dr/detalhe/portaria/210-2008-247429"
+    },
+    {
+     "id": "pt:dre:386797:por",
+     "title": "Portaria n.º 10/2008",
+     "published": "2008-01-03",
+     "dre_path": "/dr/detalhe/portaria/10-2008-386797"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Repoe em Vigor Diploma",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "836111189",
+    "836111190",
+    "836111206",
+    "836111202",
+    "836111203",
+    "836111194",
+    "836111204",
+    "836111205",
+    "836111197",
+    "836111198",
+    "836111199",
+    "836111200",
+    "872276563"
+   ]
+  },
+  {
+   "date": "2025-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:905866322:por",
+     "title": "Portaria n.º 26/2025/1",
+     "published": "2025-02-03",
+     "dre_path": "/dr/detalhe/portaria/26-2025-905866322"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 5.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "836111189",
+    "836111190",
+    "836111206",
+    "905457622",
+    "905457623",
+    "905457624",
+    "905457625",
+    "905457626",
+    "905457627",
+    "905457628",
+    "905457629",
+    "905457630",
+    "905457631",
+    "905457633"
+   ]
+  }
+ ],
+ "fragments": {
+  "836111189": {
+   "fragment_id": "186942937",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2008-03-01",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1386/2004\n\nde 10 de Novembro\n\nA Lei n.º 34/2004, de 29 de Julho, que procedeu a alterações profundas no regime de acesso ao direito e aos tribunais, remete para portaria conjunta dos Ministros das Finanças e da Justiça a definição dos termos em que o Estado garante a remuneração dos profissionais forenses pelos serviços prestados no âmbito da protecção jurídica, bem como o reembolso das respectivas despesas.\n\nEsta matéria encontra-se actualmente regulamentada na Portaria n.º 150/2002, de 19 de Fevereiro, que aprovou a tabela para pagamento dos honorários dos advogados, advogados estagiários e solicitadores, no âmbito do patrocínio oficioso. Todavia, a fim de garantir a compatibilidade do novo regime decorrente da Lei n.º 34/2004, de 29 de Julho, com o actual modelo de remuneração dos profissionais forenses que prestem serviços no âmbito do patrocínio oficioso, importa, desde já, aditar um novo número à referida tabela, relativo à consulta jurídica para apreciação liminar de existência de fundamento legal da pretensão para efeito de nomeação de patrono oficioso, a qual é obrigatória sempre que esteja em causa a propositura de uma acção.\n\nPor outro lado, constata-se que a terminologia constante de alguns números da tabela anexa à Portaria n.º 150/2002, de 19 de Fevereiro, encontra-se desajustada à luz das alterações legislativas ocorridas desde a sua aprovação e que importa corrigir imediatamente.\n\nAssim, sem prejuízo da continuação do estudo de um novo modelo de remuneração dos profissionais forenses que intervêm no sistema de acesso ao direito e aos tribunais, e que o Governo tem vindo a desenvolver com a participação de todas as entidades interessadas, são introduzidas desde já as referidas alterações mínimas necessárias no modelo aprovado pela Portaria n.º 150/2002, de 19 de Fevereiro, mantendo-se, no essencial, o seu regime.\n\nAproveita-se, ainda, para alterar a regra relativa ao valor dos honorários a pagar em caso de superação do litígio por transacção judicial, agora alargada aos casos em que haja desistência, confissão, transacção ou impossibilidade superveniente da lide antes do fim da audiência de julgamento, introduzindo-se, a este nível, maior equidade e eficácia.\n\nPor último, reconhecendo-se a oportunidade para melhorar a estrutura formal da Portaria n.º 150/2002, de 19 de Fevereiro, procede-se à sua reformulação, transferindo para o articulado algumas das regras previstas em anotação à tabela.\n\nForam ouvidas a Ordem dos Advogados e a Câmara dos Solicitadores.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças e da Administração Pública e da Justiça, ao abrigo do disposto no n.º 2 do artigo 3.º da Lei n.º 34/2004, de 29 de Julho, o seguinte:"
+  },
+  "836111190": {
+   "fragment_id": "186942940",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a tabela de honorários dos advogados, advogados estagiários e solicitadores pelos serviços que prestem no âmbito da protecção jurídica, a qual é publicada em anexo à presente portaria, da qual faz parte integrante.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "836111206": {
+   "fragment_id": "186942949",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - São devidos aos advogados, pelos serviços que prestem no âmbito da protecção jurídica, os honorários constantes da tabela em anexo.\n\n2 - Os honorários devidos aos advogados estagiários são os constantes da tabela em anexo reduzidos a dois terços.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "836111202": {
+   "fragment_id": "186942948",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Em caso de substituição no patrocínio, o patrono ou defensor nomeado e substituído ajusta com os intervenientes seguintes a repartição de honorários que, individualizadamente, são pagos pelo tribunal.\n\n2 - Não havendo acordo de todos os intervenientes sobre a repartição dos honorários, a sua determinação é, conforme o caso, feita pela Ordem dos Advogados ou pela Câmara dos Solicitadores.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "836111203": {
+   "fragment_id": "186942947",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\nEm caso de intervenção ocasional em acto ou diligência processuais, os honorários são atribuídos de forma individualizada pelo tribunal ao interveniente ocasional e deduzidos aos honorários devidos ao interveniente principal em função do tipo de processo.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "836111194": {
+   "fragment_id": "186942946",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Quando, no mesmo período da manhã ou da tarde, o advogado, advogado estagiário ou solicitador intervier em mais de um processo, os honorários são limitados ao montante da remuneração mais elevada prevista para os processos em que nesse período tiver intervindo, qualquer que tenha sido o número efectivo de intervenções.\n\n2 - Quando, durante um mesmo dia, todas as intervenções se limitarem a processos sumários, sumaríssimos, de transgressão ou contravenção de natureza penal, os honorários são limitados ao montante da remuneração mais elevada prevista para estes processos, qualquer que tenha sido o número efectivo de intervenções, acrescido da rubrica prevista no n.º 10 da tabela anexa, quando o número de intervenções for igual ou superior a quatro.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "836111204": {
+   "fragment_id": "186942945",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Pela consulta jurídica efectuada para apreciação liminar da existência de fundamento legal da pretensão são devidos honorários no montante de uma unidade de referência.\n\n2 - Ao patrono que, no âmbito da consulta jurídica prestada nos termos do número anterior, comprovadamente alcance a superação extrajudicial do litígio por transacção ou a sua resolução por meios alternativos de composição de litígios, designadamente promovendo a mediação ou arbitragem, são devidos honorários no montante de cinco unidades de referência, que acrescem à remuneração prevista no número anterior.\n\n3 - Os honorários, a pagar pelo Cofre Geral dos Tribunais, devem ser solicitados em requerimento dirigido ao Instituto de Gestão Financeira e Patrimonial da Justiça, que, nos casos a que se refere o n.º 2, procede ao pagamento após parecer da Direcção-Geral da Administração Extrajudicial.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "836111205": {
+   "fragment_id": "186942944",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - Nos casos em que o processo termine antes do fim da audiência de julgamento por desistência, confissão, transacção ou impossibilidade superveniente da lide, os honorários podem ser reduzidos até metade, por decisão do juiz, ponderado o trabalho efectuado.\n\n2 - O disposto no número anterior é aplicável aos casos em que o patrono ou defensor nomeado comprovadamente alcance a resolução do litígio por meios alternativos durante a pendência da acção judicial, designadamente através de mediação ou arbitragem.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "836111197": {
+   "fragment_id": "186942943",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Para efeito de reembolso de despesas pelos serviços prestados, nos termos do artigo 41.º da Lei n.º 34/2004, de 29 de Julho, o advogado, advogado estagiário ou solicitador apresenta nota de despesas realizadas seguidamente ao acto ou diligência para que foi nomeado.\n\n2 - Nos restantes casos, o advogado, advogado estagiário ou solicitador deve apresentar a nota de despesas no prazo de cinco dias contados da decisão que seja proferida no processo.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "836111198": {
+   "fragment_id": "186942942",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 9.º\n\nÉ revogada a Portaria n.º 150/2002, de 19 de Fevereiro.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "836111199": {
+   "fragment_id": "186942941",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 10.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos desde o dia 1 de Setembro de 2004.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "836111200": {
+   "fragment_id": "186942938",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "Em 26 de Outubro de 2004.\n\nO Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro da Justiça, José Pedro Aguiar-Branco.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "872276563": {
+   "fragment_id": "186942939",
+   "type": 14,
+   "heading": "Anexo — Tabela de honorários para a protecção jurídica",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429)",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "## Anexo — Tabela de honorários para a protecção jurídica\n\n|  | Valor da acção (em euros) | Unidade de referência (UR=1/4da UC) |\n| --- | --- | --- |\n| 1 - Processo civil: |  |  |\n| 1.1 - Acção declarativa: |  |  |\n| 1.1.1 - Processo ordinário: |  |  |\n| 1.1.1.1 - Com variação de valores entre | 14 963,91 a 24 939,85 | 21,00. |\n| 1.1.1.2 - Com variação de valores entre | 24 939,86 a 49 879,70 | 24,00. |\n| 1.1.1.3 - Com variação de valores entre | 49 879,71 a 149 639,10 | 32,00. |\n| 1.1.1.4 - Com variação de valores entre | 149 639,11 a 399 037,60 | 57,00. |\n| 1.1.1.5 - Com variação de valores entre | 399 037,61 a 598 556,40 | 90,00. |\n| 1.1.1.6 - Com variação de valores entre | Superior a 598 556,40 | 126,00. |\n| 1.1.2 - Processo sumário: |  |  |\n| 1.1.2.1 - Com variação de valores entre | 3 740,98 a 5 985,56 | 8,00. |\n| 1.1.2.2 - Com variação de valores entre | 5 985,57 a 9 975,94 | 10,00. |\n| 1.1.2.3 - Com variação de valores entre | 9 975,95 a 14 963,91 | 14,00. |\n| 1.1.3 - Processo sumaríssimo e acção especial para cumprimento de obrigações pecuniárias. |  | 7,00. |\n| 1.1.4 - Procedimento de injunção que não dê lugar a acção especial para cumprimento de obrigações pecuniárias. |  | 3,00. |\n| 1.2 - Acção executiva: |  |  |\n| 1.2.1 - Com dedução de oposição e ou liquidação |  | Os valores aplicáveis às acções declarativas n.os1.1.1.1 a 1.1.2.3. |\n| 1.2.2 - Sem dedução de oposição |  | 7,00. |\n| 1.2.3 - Mandado de despejo |  | 4,00. |\n| 1.3 - Recursos: |  |  |\n| 1.3.1 - Apelação e revista |  | 9,00. |\n| 1.3.2 - Agravo |  | 4,00. |\n| 1.3.3 - Outros |  | 8,00. |\n| 2 - Processo de trabalho: |  |  |\n| 2.1 - Acção declarativa: |  |  |\n| 2.1.1 - Com variação de valores entre | Até 5 985,56 | 8,00. |\n| 2.1.2 - Com variação de valores entre | 5 985,57 a 24 939,85 | 12,00. |\n| 2.1.3 - Com variação de valores entre | Superior a 24 939,85 | 16,00. |\n| 2.2 - Acção executiva |  | 7,00. |\n| 2.3 - Processos especiais |  | 8,00. |\n| 2.4 - Recursos: |  |  |\n| 2.4.1 - Apelação e revista |  | 8,00. |\n| 2.4.2 - Agravo |  | 4,00. |\n| 3 - Processo penal: |  |  |\n| 3.1 - Processo penal: |  |  |\n| 3.1.1 - Processo comum: |  |  |\n| 3.1.1.1 - Crimes da competência do tribunal colectivo: |  |  |\n| 3.1.1.1.1 - Puníveis com pena superior a 8 anos |  | 16,00. |\n| 3.1.1.1.2 - Puníveis com pena até 8 anos |  | 13,00. |\n| 3.1.1.2 - Crimes da competência do tribunal singular |  | 11,00 |\n| 3.1.2 - Processo abreviado |  | 9,00. |\n| 3.1.3 - Processo sumário |  | 8,00. |\n| 3.1.4 - Processo sumaríssimo |  | 7,00. |\n| 3.1.5 - Transgressão e contravenção |  | 3,00. |\n| 3.1.6 - Julgamento com a intervenção do júri |  | 21,00. |\n| 3.2 - Pedido de indemnização civil |  | Os valores aplicáveis às acções declarativas n.os1.1.1.1 a 1.1.2.3. |\n| 3.3 - Execução de pedido de indemnização civil |  | Os valores aplicáveis às acções executivas n.os1.2.1 e 1.2.2. |\n| 3.4 - Recursos: |  |  |\n| 3.4.1 - Ordinários |  | 9,00. |\n| 3.4.2 - Extraordinários |  | 4,00. |\n| 4 - Processos especiais e outros: |  |  |\n| 4.1 - Divórcio e separação de pessoas e bens: |  |  |\n| 4.1.1 - Acção litigiosa |  | 21,00. |\n| 4.1.2 - Mútuo consentimento |  | 10,00. |\n| 4.2 - Jurisdição de menores |  | 21,00. |\n| 4.3 - Inventário |  | Os valores aplicáveis às acções declarativas n.os1.1.1.1 a 1.1.2.3, em função do quinhão. |\n| 4.4 - Insolvência |  | 20,00. |\n| 4.5 - Constitucional |  | 13,00. |\n| 4.6 - Administrativo e fiscal: |  |  |\n| 4.6.1 - Administrativo: |  |  |\n| 4.6.1.1 - Acção administrativa especial |  | 13,00. |\n| 4.6.1.2 - Acção administrativa comum |  | Os valores aplicáveis às acções declarativas n.os1.1.1.1 a 1.1.2.3. |\n| 4.6.2 - Fiscal |  | 13,00. |\n| 4.6.3 - Recurso de decisões jurisdicionais |  | 4,00. |\n| 4.7 - Contra-ordenações |  | 13,00. |\n| 5 - Incidentes processuais, procedimentos cautelares, meios processuais acessórios e pedidos de suspensão de eficácia do acto. |  | 8,00. |\n| 6 - Intervenção ocasional em acto ou diligência isolada do processo, designadamente em diligências deprecadas. |  | 5,00. |\n| 7 - Assistência a arguido preso ou junto de entidades policiais. |  | 5,00. |\n| 8 - Por cada deslocação do patrono/defensor a estabelecimento prisional para conferência com o patrocinado preso ou detido, com um máximo de três deslocações. |  | 3,00. |\n| 9 - Quando a diligência comporte mais de duas sessões, por cada sessão a mais. |  | 3,00. |\n| 10 - Por cada presença, período da manhã ou da tarde, no âmbito das escalas de urgência, desde que não tenha sido efectuada qualquer diligência. |  | 3,00. |\n| 11 - (Revogado) |  |  |\n| 12 - (Revogado) |  |  |\n| 13 - Outras intervenções de patronos oficiosos |  | 8,00. |\n\nNotas\n1 - (revogada)                                                              \n2 - Considera-se ocasional a intervenção num acto ou diligência isolados no processo.                                                                      \n3 - (revogada)             \n4 - Os honorários devidos por aplicação do disposto no n.º 4.1.2, quando o divórcio por mútuo consentimento tenha lugar na conservatória do registo civil, são pagos pelo Cofre Geral dos Tribunais; o pedido é dirigido ao Instituto de Gestão Financeira e Patrimonial da Justiça, mas apresentado junto da respectiva conservatória.                                              \n5 - Os honorários devidos por aplicação do disposto no n.º 10 são pagos pelo Cofre Geral dos Tribunais, a pedido do interessado, apresentado na secção central ou na secretaria-geral do tribunal, quando exista; nos restantes casos, o pedido é dirigido ao Instituto de Gestão Financeira e Patrimonial da Justiça, mas apresentado junto das entidades respectivas.\n\n> Nota: [Artigo 2.º, Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429) revoga os n.os 11 e 12 da presente tabela.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429)\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "905457622": {
+   "fragment_id": "905920683",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Unidade de referência",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Portaria n.º 26/2025/1 - Diário da República n.º 23/2025, Série I de 2025-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/26-2025-905866322), em vigor a partir de 2025-08-02"
+   ],
+   "markdown": "###### Artigo 2.º-A — Unidade de referência\n\n1 - O valor da unidade de referência para o ano de 2025 fixa-se em € 28,00.\n\n2 - A primeira atualização do valor referido no número anterior é determinada em 2026 de acordo com o disposto no artigo 36.º da Lei n.º 34/2004, de 29 de julho, na sua redação atual.\n\n> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 26/2025/1 - Diário da República n.º 23/2025, Série I de 2025-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/26-2025-905866322), em vigor a partir de 2025-08-02"
+  },
+  "905457623": {
+   "fragment_id": "186942948",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - Em caso de substituição no patrocínio, o patrono ou defensor nomeado e substituído ajusta com os intervenientes seguintes a repartição de honorários que, individualizadamente, são pagos pelo tribunal.\n\n2 - Não havendo acordo de todos os intervenientes sobre a repartição dos honorários, a sua determinação é, conforme o caso, feita pela Ordem dos Advogados ou pela Câmara dos Solicitadores.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "905457624": {
+   "fragment_id": "186942947",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\nEm caso de intervenção ocasional em acto ou diligência processuais, os honorários são atribuídos de forma individualizada pelo tribunal ao interveniente ocasional e deduzidos aos honorários devidos ao interveniente principal em função do tipo de processo.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "905457625": {
+   "fragment_id": "186942946",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 26/2025/1 - Diário da República n.º 23/2025, Série I de 2025-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/26-2025-905866322), em vigor a partir de 2025-08-02",
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - A intervenção presencial ou remota, quando autorizada pela autoridade judiciária, em ato, diligência ou audiência presidida por aquela, é remunerada pelo valor de € 22,00 por cada hora, desde o início efetivo do ato, diligência ou audiência, até à hora declarada de encerramento, suspensão, adiamento ou interrupção.\n\n2 - Quando, durante um mesmo dia, todas as intervenções se limitarem a processos sumários e sumaríssimos os honorários são limitados ao montante da remuneração mais elevada prevista para estes processos, qualquer que tenha sido o número efetivo de intervenções, acrescido do valor apurado nos termos do número anterior.\n\n3 - O pagamento de honorários pelo recurso, ordinário, extraordinário, ou para o Tribunal Constitucional é devido ao profissional forense nas situações em que aquele recurso é admitido.\n\n4 - No caso de não admissão do recurso ordinário, extraordinário ou para o Tribunal Constitucional, a reclamação do respetivo despacho de não admissão é remunerada nos termos da tabela de honorários em anexo sempre que a reclamação seja procedente.\n\n5 - Nas ações de especial complexidade, reconhecida por despacho judicial, o pagamento de honorários é majorado no valor correspondente a um quarto do valor constante da tabela para o respetivo processo.\n\n6 - O pagamento da superação do litígio, conseguida no âmbito da consulta jurídica, está sujeito à apresentação de declaração assinada pelo beneficiário, na qual o mesmo reconheça a realização da transação, anexando o documento que a titule.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 26/2025/1 - Diário da República n.º 23/2025, Série I de 2025-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/26-2025-905866322), em vigor a partir de 2025-08-02\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "905457626": {
+   "fragment_id": "186942945",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - Pela consulta jurídica efectuada para apreciação liminar da existência de fundamento legal da pretensão são devidos honorários no montante de uma unidade de referência.\n\n2 - Ao patrono que, no âmbito da consulta jurídica prestada nos termos do número anterior, comprovadamente alcance a superação extrajudicial do litígio por transacção ou a sua resolução por meios alternativos de composição de litígios, designadamente promovendo a mediação ou arbitragem, são devidos honorários no montante de cinco unidades de referência, que acrescem à remuneração prevista no número anterior.\n\n3 - Os honorários, a pagar pelo Cofre Geral dos Tribunais, devem ser solicitados em requerimento dirigido ao Instituto de Gestão Financeira e Patrimonial da Justiça, que, nos casos a que se refere o n.º 2, procede ao pagamento após parecer da Direcção-Geral da Administração Extrajudicial.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "905457627": {
+   "fragment_id": "186942944",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - Nos casos em que o processo termine antes do fim da audiência de julgamento por desistência, confissão, transacção ou impossibilidade superveniente da lide, os honorários podem ser reduzidos até metade, por decisão do juiz, ponderado o trabalho efectuado.\n\n2 - O disposto no número anterior é aplicável aos casos em que o patrono ou defensor nomeado comprovadamente alcance a resolução do litígio por meios alternativos durante a pendência da acção judicial, designadamente através de mediação ou arbitragem.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "905457628": {
+   "fragment_id": "186942943",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - Para efeito de reembolso de despesas pelos serviços prestados, nos termos do artigo 41.º da Lei n.º 34/2004, de 29 de Julho, o advogado, advogado estagiário ou solicitador apresenta nota de despesas realizadas seguidamente ao acto ou diligência para que foi nomeado.\n\n2 - Nos restantes casos, o advogado, advogado estagiário ou solicitador deve apresentar a nota de despesas no prazo de cinco dias contados da decisão que seja proferida no processo.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "905457629": {
+   "fragment_id": "186942942",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 9.º\n\nÉ revogada a Portaria n.º 150/2002, de 19 de Fevereiro.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "905457630": {
+   "fragment_id": "186942941",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 10.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos desde o dia 1 de Setembro de 2004.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "905457631": {
+   "fragment_id": "186942938",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [
+    "Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "Em 26 de Outubro de 2004.\n\nO Ministro das Finanças e da Administração Pública, António José de Castro Bagão Félix. - O Ministro da Justiça, José Pedro Aguiar-Branco.\n\n> Reposto em Vigor pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429), em vigor a partir de 2008-03-01\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  },
+  "905457633": {
+   "fragment_id": "186942939",
+   "type": 14,
+   "heading": "Anexo — Tabela de honorários para a protecção jurídica",
+   "in_force_from": "2025-08-02",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Portaria n.º 26/2025/1 - Diário da República n.º 23/2025, Série I de 2025-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/26-2025-905866322), em vigor a partir de 2025-08-02",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429)",
+    "Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "## Anexo — Tabela de honorários para a protecção jurídica\n\n(a que se refere o artigo 1.º da Portaria n.º 1386/2004, de 10 de novembro)\n\n| UR = 28,00 € |  |  |\n| --- | --- | --- |\n| Espécies | N.º UR | Valor |\n| 1 - Processo civil |  |  |\n| 1.1 - Ação declarativa |  |  |\n| 1.1.1 - Juízo central cível | 58 | 1 624,00 € |\n| 1.1.2 - Juízo local cível |  |  |\n| 1.1.2.1 - Processo comum | 22 | 616,00 € |\n| 1.1.2.2 - Processo especial | 18 | 504,00 € |\n| 1.2 - Ação especial para cumprimento de obrigações pecuniárias | 7 | 196,00 € |\n| 1.3 - Ação executiva |  |  |\n| 1.3.1 - Com dedução de oposição e ou liquidação | 8 | 224,00 € |\n| 1.3.2 - Sem dedução de oposição | 5 | 140,00 € |\n| 2 - Processo de trabalho |  |  |\n| 2.1 - Ação declarativa |  |  |\n| 2.1.1 - Processo comum | 21 | 588,00 € |\n| 2.1.2 - Processo especial | 23 | 644,00 € |\n| 2.2 - Ação executiva |  |  |\n| 2.2.1 - Com dedução de oposição e ou liquidação | 8 | 224,00 € |\n| 2.2.2 - Sem dedução de oposição | 5 | 140,00 € |\n| 3 - Processo penal |  |  |\n| 3.1 - Processo penal comum e especial |  |  |\n| 3.1.1 - Juízo central criminal | 18 | 504,00 € |\n| 3.1.2 - Juízo local criminal | 12 | 336,00 € |\n| 3.1.3 - Juízo de pequena instância criminal e processos sumários, sumaríssimos e abreviados tramitados no juízo local criminal | 9 | 252,00 € |\n| 3.2 - Inquérito (quando o processo termina nesta fase) | 5 | 140,00 € |\n| 3.3 - Instrução (quando o processo termina nesta fase) | 8 | 224,00 € |\n| 3.4 - Pedido/contestação de indemnização civil | 5 | 140,00 € |\n| 3.5 - Execução de pedido de indemnização civil |  |  |\n| 3.5.1 - Com dedução de oposição e ou liquidação | 8 | 224,00 € |\n| 3.5.2 - Sem dedução de oposição | 5 | 140,00 € |\n| 4 - Processos de família e menores |  |  |\n| 4.1 - Processos relativos ao estado civil das pessoas e família |  |  |\n| 4.1.1 - Com audiência de julgamento | 22 | 616,00 € |\n| 4.1.2 - Sem audiência de julgamento | 10 | 280,00 € |\n| 4.2 - Processos relativos a menores e filhos maiores |  |  |\n| 4.2.1 - Com audiência de julgamento | 22 | 616,00 € |\n| 4.2.2 - Sem audiência de julgamento | 11 | 308,00 € |\n| 4.2.3 - Incidentes | 10 | 280,00 € |\n| 4.3 - Processos em matéria tutelar educativa e de proteção |  |  |\n| 4.3.1 - Com audiência de julgamento | 22 | 616,00 € |\n| 4.3.2 - Sem audiência de julgamento | 11 | 308,00 € |\n| 4.2.3 - Incidentes | 10 | 280,00 € |\n| 5 - Comércio |  |  |\n| 5.1 - Processos de insolvência (já inclui a exoneração do passivo restante, incidentes, apensos e verificação ulterior de créditos quando representa o devedor) | 15 | 420,00 € |\n| 5.1.1 - Incidente de qualificação da insolvência | 5 | 140,00 € |\n| 5.1.2 - Apensos declarativos | 12 | 336,00 € |\n| 5.2 - Processos especiais de revitalização | 18 | 504,00 € |\n| 5.3 - Outros processos especiais | 10 | 280,00 € |\n| 6 - Tribunais de competência territorial alargada |  |  |\n| 6.1 - Tribunal da propriedade intelectual |  |  |\n| 6.1.1 - Ações declarativas no âmbito do direito autoral, direitos conexos e direitos de propriedade industrial e demais ações da sua competência | 58 | 1 624,00 € |\n| 6.1.2 - Ação executiva |  |  |\n| 6.1.2.1 - Com dedução de oposição e ou liquidação | 8 | 224,00 € |\n| 6.1.2.2 - Sem dedução de oposição | 5 | 140,00 € |\n| 6.2 - Tribunal da concorrência, regulação e supervisão |  |  |\n| 6.2.1 - Ações declarativas no âmbito do regime jurídico da concorrência e de indemnização pela sua infração | 58 | 1 624,00 € |\n| 6.2.2 - Ações executivas |  |  |\n| 6.2.2.1 - Com dedução de oposição e ou liquidação | 8 | 224,00 € |\n| 6.2.2.2 - Sem dedução de oposição | 5 | 140,00 € |\n| 6.3 - Tribunal marítimo |  |  |\n| 6.3.1 - Ações declarativas | 58 | 1 624,00 € |\n| 6.3.2 - Ações executivas |  |  |\n| 6.3.2.1 - Com dedução de oposição e ou liquidação | 8 | 224,00 € |\n| 6.3.2.2 - Sem dedução de oposição | 5 | 140,00 € |\n| 6.4 - Tribunal de execução das penas |  |  |\n| 6.4.1 - Processos no âmbito do Código de Execução de Penas em que seja legalmente obrigatória ou judicialmente determinada a assistência de advogado | 8 | 224,00 € |\n| 7 - Tribunais administrativos e fiscais |  |  |\n| 7.1 - Administrativo |  |  |\n| 7.1.1 - Ação administrativa | 30 | 840,00 € |\n| 7.1.2 - Ação administrativa urgente | 32 | 896,00 € |\n| 7.1.3 - Ação executiva | 26 | 728,00 € |\n| 7.2 - Tributário |  |  |\n| 7.2.1 - Impugnação judicial, intimação para um comportamento e ação para o reconhecimento de um direito ou interesse legítimo em matéria tributária | 30 | 840,00 € |\n| 7.2.2 - Contencioso da execução fiscal | 15 | 420,00 € |\n| 8 - Outros processos principais, cautelares e incidentes |  |  |\n| 8.1 - Processos de intimação | 10 | 280,00 € |\n| 8.1.1 - Intimação para a prestação de informações, consulta de processos ou passagem de certidões | 5 | 140,00 € |\n| 8.1.2 - Intimação para proteção de direitos, liberdades e garantias | 10 | 280,00 € |\n| 8.2 - Procedimentos cautelares | 16 | 448,00 € |\n| 8.3 - Impugnação das providências cautelares adotadas pela administração tributária | 10 | 280,00 € |\n| 8.4 - Impugnação judicial dos atos de apreensão de bens praticados pela administração tributária, meios processuais acessórios, processos da competência do Ministério Público previstos no Decreto-Lei n.º 272/2001, de 13 de outubro | 10 | 280,00 € |\n| 8.5 - Processos no âmbito da lei de saúde mental | 10 | 280,00 € |\n| 8.6 - Incidentes processuais legalmente previstos em que o advogado tenha intervenção | 10 | 280,00 € |\n| 9 - Contraordenações |  |  |\n| 9.1 - Junto de entidades administrativas | 13 | 364,00 € |\n| 9.2 - Impugnação das decisões de autoridades administrativas | 13 | 364,00 € |\n| 10 - Balcões |  |  |\n| 10.1 - Balcão Nacional de Injunções |  |  |\n| 10.1.1 - Injunção sem oposição | 3 | 84,00 € |\n| 10.2 - Balcão Nacional do Arrendamento |  |  |\n| 10.2.1 - Fase injuntiva | 3 | 84,00 € |\n| 10.2.2 - Fase judicial | 10 | 280,00 € |\n| 10.2.3 - Fase executiva |  |  |\n| 10.2.3.1 - Com dedução de oposição e ou liquidação | 8 | 224,00 € |\n| 10.2.3.2 - Sem dedução de oposição | 5 | 140,00 € |\n| 11 - Recursos |  |  |\n| 11.1 - Ordinários |  |  |\n| 11.1.1 - Da matéria de facto | 10 | 280,00 € |\n| 11.1.2 - Da matéria de direito | 9 | 252,00 € |\n| 11.1.3 - Da matéria de facto e de direito | 14 | 392,00 € |\n| 11.2 - Extraordinários | 9 | 252,00 € |\n| 11.3 - Reclamação para a conferência, reclamações contra o indeferimento, não admissão ou retenção do recurso, quando procedentes | 8 | 224,00 € |\n| 11.4 - Recurso para o Tribunal Constitucional | 10 | 280,00 € |\n| 12 - Outras intervenções de patrono ou defensor oficioso |  |  |\n| 12.1 - Julgados de paz e arbitragem | 10 | 280,00 € |\n| 12.2 - Conservatórias |  |  |\n| 12.2.1 - Registo Civil - processos de jurisdição voluntária - Decreto-Lei n.º 272/2001, de 13 de outubro | 10 | 280,00 € |\n| 12.2.1.1 - Intervenção do tribunal judicial | 5 | 140,00 € |\n| 12.2.1.2 - Processos no âmbito dos artigos 274.º-A e 274.º-B do Código de Registo Civil | 8 | 224,00 € |\n| 12.2.2 - Registo predial - processo de justificação judicial | 10 | 280,00 € |\n| 12.2.2.1 - Intervenção do tribunal judicial | 5 | 140,00 € |\n| 12.2.3 - Registo comercial - processo especial de retificação | 10 | 280,00 € |\n| 12.2.3.1 - Impugnação judicial | 5 | 140,00 € |\n| 12.3 - Notários |  | 0,00 € |\n| 12.3.1 - Inventário | 15 | 420,00 € |\n| 12.3.2 - Recursos interpostos de decisões do notário | 5 | 140,00 € |\n| 12.4 - Recursos hierárquicos necessários | 8 | 224,00 € |\n| 13 - Pela consulta jurídica para apreciação liminar da existência de fundamento legal da pretensão |  | 48,00 € |\n| 14 - Intervenção ocasional em ato ou diligência isolada do processo, designadamente em diligências deprecadas | 4 | 112,00 € |\n| 15 - Assistência a arguido preso ou junto de entidades policiais | 5 | 140,00 € |\n| 16 - Quando exista limitação da liberdade de movimento do beneficiário de apoio judiciário, por cada deslocação do patrono/defensor para conferência com o patrocinado, designadamente a estabelecimento prisional, hospital, centro educativo ou de acolhimento, com um máximo de três deslocações | 4 | 112,00 € |\n| 17 - Por cada presença, período da manhã ou da tarde, no âmbito das escalas de urgência, desde que não tenha sido efetuada qualquer diligência | 4 | 112,00 € |\n| 18 - Pela superação do litígio por transação no âmbito da consulta jurídica. | 5 | 140,00 € |\n| 19 - Pela especial complexidade do processo reconhecida pelo tribunal | Artigo 5.º |  |\n| 20 - Audição dos sujeitos processuais, após o trânsito em julgado da decisão final, sempre que o profissional forense nomeado registe atividade processual. | 3 | 84,00 € |\n\n> Nota: [Artigo 3.º, Portaria n.º 6/2024 - Diário da República n.º 3/2024, Série I de 2024-01-04](https://diariodarepublica.pt/dr/detalhe/portaria/6-2024-836105753) O valor da unidade de referência constante da presente tabela é atualizado por aplicação do índice de preços no consumidor, sem habitação, e considerando todo o território nacional (IPC), conforme divulgado pelo Instituto Nacional de Estatística, I. P., para o período entre janeiro e setembro de 2023.\n\n> Nota: [Artigo 3.º, Portaria n.º 200/2022 - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/portaria/200-2022-186869050) O valor da unidade de referência constante da presente tabela é atualizado por aplicação do índice de preços no consumidor, anual, sem habitação, e considerando todo o território nacional (IPC), referente ao ano de 2021, conforme divulgado pelo Instituto Nacional de Estatística, I. P.\n\n> Nota: [Artigo 3.º, Portaria n.º 161/2020 - Diário da República n.º 125/2020, Série I de 2020-06-30](https://diariodarepublica.pt/dr/detalhe/portaria/161-2020-136900601) O valor da unidade de referência constante da presente tabela é atualizado por aplicação do índice de preços no consumidor, anual, sem habitação, e considerando todo o território nacional (IPC), referente ao ano de 2019, conforme divulgado pelo Instituto Nacional de Estatística, I. P.\n\n> Nota: [Artigo 2.º, Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429) revoga os n.os 11 e 12 da presente tabela.\n\n> Alterado pelo/a Anexo I do/a [Portaria n.º 26/2025/1 - Diário da República n.º 23/2025, Série I de 2025-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/26-2025-905866322), em vigor a partir de 2025-08-02\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 210/2008 - Diário da República n.º 43/2008, Série I de 2008-02-29](https://diariodarepublica.pt/dr/detalhe/portaria/210-2008-247429)\n\n> Revogado pelo/a Artigo 36.º do/a [Portaria n.º 10/2008 - Diário da República n.º 2/2008, Série I de 2008-01-03](https://diariodarepublica.pt/dr/detalhe/portaria/10-2008-386797), em vigor a partir de 2008-03-01"
+  }
+ }
+}

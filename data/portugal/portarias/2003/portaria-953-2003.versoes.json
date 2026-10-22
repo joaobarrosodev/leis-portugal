@@ -1,0 +1,84 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:512385:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-215486076",
+ "dre_path": "/dr/detalhe/portaria/953-2003-512385",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2003-09-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215461868"
+   ]
+  },
+  {
+   "date": "2013-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:499052:por",
+     "title": "Portaria n.º 275/2013",
+     "published": "2013-08-21",
+     "dre_path": "/dr/detalhe/portaria/275-2013-499052"
+    }
+   ],
+   "changes": [
+    "Altera 1.º"
+   ],
+   "fragments": [
+    "215461868",
+    "215461872",
+    "215488178",
+    "215461871",
+    "215461869"
+   ]
+  }
+ ],
+ "fragments": {
+  "215461868": {
+   "fragment_id": "215486077",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 953/2003\n\nde 9 de Setembro\n\nA recente reforma do Código de Processo Civil, levada a efeito pelo Decreto-Lei n.º 38/2003, de 8 de Março, procedeu a uma alteração significativa do regime relativo à citação.\n\nCom efeito, pelo referido diploma legal, extinguiu-se a citação por via postal simples para as acções intentadas a partir da data da sua entrada em vigor e, prosseguindo o reforço das garantias de defesa, estabeleceu novos procedimentos a observar na citação em acções para cumprimento de obrigações pecuniárias emergentes de contrato reduzido a escrito em que as partes tenham convencionado o local onde se têm por domiciliadas em caso de litígio, bem como nas acções reguladas pelo Decreto-Lei n.º 269/98, de 1 de Setembro, com a redacção que lhe foi conferida pela Declaração de Rectificação n.º 16-A/98, de 17 de Setembro, e alterado pelos Decretos-Leis n.os 383/99, de 23 de Setembro, 183/2000, de 10 de Agosto, 323/2001, de 17 de Dezembro, e 32/2003, de 17 de Fevereiro.\n\nAs alterações introduzidas pelo Decreto-Lei n.º 38/2003, de 8 de Março, implicam a revisão e adaptação dos modelos oficiais de carta registada e aviso de recepção que vinham a ser utilizados para a citação pessoal por via postal e para a notificação por via postal, nos termos dos artigos 236.º e 254.º do Código de Processo Civil.\n\nConsiderando ainda que outras entidades além dos tribunais, nomeadamente os solicitadores de execução, criados pelo supra-referido Decreto-Lei n.º 38/2003, de 8 de Março, utilizam os modelos oficiais de carta para citação e notificação por via postal, entende-se conveniente proceder à reforma dos modelos actualmente em vigor, incluindo, por questões de uniformidade, a notificação por via postal simples.\n\nA nova configuração dos modelos oficiais de carta para citação e notificação por via postal visa simultaneamente padronizar o modelo, de forma a permitir a sua utilização pelas diversas entidades remetentes sem deixar de contemplar as especificidades de cada tipo de processo. Deixa-se, assim, de identificar no modelo a entidade remetente, cabendo a esta a personalização da carta, com menção expressa à base legal, que lhe permite a utilização do tipo de citação/notificação via postal em causa.\n\nAssim:\n\nPara o efeito do disposto nos artigos 1.º e 2.º do Decreto-Lei n.º 38/2003, de 8 de Março, dos artigos 236.º e 254.º do Código de Processo Civil, do artigo 113.º do Código de Processo Penal e dos artigos 12.º e 12.º-A do Decreto-Lei n.º 269/98, de 1 de Setembro, com a redacção dada pela Declaração de Rectificação n.º 16-A/98, de 17 de Setembro, e alterado pelos Decretos-Leis n.os 383/99, de 23 de Setembro, 183/2000, de 10 de Agosto, 323/2001, de 17 de Dezembro, e 32/2003, de 17 de Fevereiro:\n\nManda o Governo, pelos Ministros da Justiça e da Economia, o seguinte:"
+  },
+  "215461872": {
+   "fragment_id": "215486081",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nA Portaria n.º 1178-A/2000, de 15 de Dezembro, que, ao abrigo do disposto no artigo 5.º do Decreto-Lei n.º 183/2000, de 10 de Agosto, aprovou os modelos de citação e notificação por carta enviada por via postal simples, mantém-se em vigor para citação por via postal simples para as acções intentadas antes da entrada em vigor do Decreto-Lei n.º 38/2003 e para as notificações por via postal simples a efectuar nos processos instaurados após a entrada em vigor daquele diploma, em tudo quanto não seja contrariado pelo disposto na presente portaria.\n\nEm 13 de Agosto de 2003."
+  },
+  "215488178": {
+   "fragment_id": "215486079",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/portaria/275-2013-499052), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### 1.º\n\n1 - Se o citando recusar a assinatura do aviso de receção ou o recebimento da carta nos termos do n.º 3 do artigo 229.º ou do n.º 3 do artigo 246.º, o distribuidor do serviço postal lavra nota do incidente na carta ou aviso de receção e devolve-a ao tribunal remetente.\n\n2 - Sendo repetida a citação nos termos do n.º 4 do artigo 229.º ou do n.º 4 do artigo 246.º é enviada nova carta registada com aviso de receção.\n\n3 - O distribuidor postal procede à entrega da carta referida no número anterior, nos termos dos n.os 1 a 4 do artigo 228.º do Código de Processo Civil, mas, não sendo possível a entrega, o distribuidor do serviço postal deve proceder ao depósito da carta na caixa do correio do citando e ainda:\n\na) Preencher a declaração no verso do sobrescrito e apor a sua assinatura de forma legível;\n\nb) Preencher a declaração no aviso de receção, certificando a data e o local exato em que depositou o expediente;\n\nc) Remeter de imediato ao tribunal remetente o aviso de receção, devidamente preenchido.\n\n4 - Não sendo possível o depósito da carta na caixa de correio do citando por as dimensões da carta serem superiores às do recetáculo, o distribuidor deixa aviso nos termos do n.º 5 do artigo 228.º do Código de Processo Civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 275/2013 - Diário da República n.º 160/2013, Série I de 2013-08-21](https://diariodarepublica.pt/dr/detalhe/portaria/275-2013-499052), em vigor a partir de 2013-09-01"
+  },
+  "215461871": {
+   "fragment_id": "215486080",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nSão aprovados os modelos oficiais de carta registada e de aviso de recepção para citação pessoal, a efectuar por via postal, bem como os modelos a adoptar nas notificações via postal, constantes do anexo à presente portaria, que dela fazem parte integrante."
+  },
+  "215461869": {
+   "fragment_id": "215486078",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pela Ministra da Justiça, João Luís Mota de Campos, Secretário de Estado Adjunto da Ministra da Justiça. - Pelo Ministro da Economia, Franquelim Fernando Garcia Alves, Secretário de Estado Adjunto do Ministro da Economia.\n\nANEXO\n\n(ver modelos no documento ori"
+  }
+ }
+}

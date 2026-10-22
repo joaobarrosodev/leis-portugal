@@ -1,0 +1,1711 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:539239:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2006-34529775",
+ "dre_path": "/dr/detalhe/lei/32-2006-539239",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-07-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "49321275",
+    "49321375",
+    "49321475",
+    "49321575",
+    "49321675",
+    "49321775",
+    "49321875",
+    "49321975",
+    "49322075",
+    "49322175",
+    "49322275",
+    "49322375",
+    "49322475",
+    "49322575",
+    "49322675",
+    "49322775",
+    "49322875",
+    "49322975",
+    "49323075",
+    "49323175",
+    "49323275",
+    "49323375",
+    "49323475",
+    "49323575",
+    "49323675",
+    "49323775",
+    "49323875",
+    "49323975",
+    "49324075",
+    "49324175",
+    "49324275",
+    "49324375",
+    "49324475",
+    "49324575",
+    "49324675",
+    "49324775",
+    "49324875",
+    "49324975",
+    "49325075",
+    "49325175",
+    "49325275",
+    "49325375",
+    "49325475",
+    "49325575",
+    "49325675",
+    "49325775",
+    "49325875",
+    "49325975",
+    "49326075",
+    "49326175",
+    "49326275",
+    "49326375",
+    "49326475",
+    "49326575",
+    "49326675",
+    "49326775",
+    "49326875",
+    "49326975",
+    "49327075",
+    "49327175",
+    "49327275"
+   ]
+  },
+  {
+   "date": "2007-09-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:640142:por",
+     "title": "Lei n.º 59/2007",
+     "published": "2007-09-04",
+     "dre_path": "/dr/detalhe/lei/59-2007-640142"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 43.º-A"
+   ],
+   "fragments": [
+    "49321275",
+    "49321375",
+    "49321475",
+    "49321575",
+    "49321675",
+    "49321775",
+    "49321875",
+    "49321975",
+    "49322075",
+    "49322175",
+    "49322275",
+    "49322375",
+    "49322475",
+    "49322575",
+    "49322675",
+    "49322775",
+    "49322875",
+    "49322975",
+    "49323075",
+    "49323175",
+    "49323275",
+    "49323375",
+    "49323475",
+    "49323575",
+    "49323675",
+    "49323775",
+    "49323875",
+    "49323975",
+    "49324075",
+    "49324175",
+    "49324275",
+    "49324375",
+    "49324475",
+    "49324575",
+    "49324675",
+    "49324775",
+    "49324875",
+    "49324975",
+    "49325075",
+    "49325175",
+    "49325275",
+    "49325375",
+    "49325475",
+    "49325575",
+    "49325675",
+    "49325775",
+    "49325875",
+    "49325975",
+    "49326075",
+    "49326175",
+    "49326275",
+    "49326375",
+    "74734712",
+    "49326475",
+    "49326575",
+    "49326675",
+    "49326775",
+    "49326875",
+    "49326975",
+    "49327075",
+    "49327175",
+    "49327275",
+    "49327375"
+   ]
+  },
+  {
+   "date": "2016-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74738646:por",
+     "title": "Lei n.º 17/2016",
+     "published": "2016-06-20",
+     "dre_path": "/dr/detalhe/lei/17-2016-74738646"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "49321275",
+    "49321375",
+    "49321475",
+    "49321575",
+    "49321675",
+    "74734713",
+    "49321875",
+    "74734714",
+    "74734715",
+    "49322175",
+    "49322275",
+    "74734716",
+    "49322475",
+    "49322575",
+    "49322675",
+    "49322775",
+    "49322875",
+    "49322975",
+    "49323075",
+    "49323175",
+    "49323275",
+    "49323375",
+    "74734717",
+    "74734718",
+    "49323675",
+    "49323775",
+    "49323875",
+    "49323975",
+    "49324075",
+    "74734719",
+    "49324275",
+    "49324375",
+    "49324475",
+    "49324575",
+    "49324675",
+    "49324775",
+    "49324875",
+    "74734720",
+    "49325075",
+    "49325175",
+    "49325275",
+    "49325375",
+    "49325475",
+    "49325575",
+    "49325675",
+    "49325775",
+    "49325875",
+    "49325975",
+    "49326075",
+    "49326175",
+    "49326275",
+    "49326375",
+    "74734712",
+    "49326475",
+    "49326575",
+    "49326675",
+    "49326775",
+    "49326875",
+    "49326975",
+    "49327075",
+    "49327175",
+    "49327275",
+    "49327375"
+   ]
+  },
+  {
+   "date": "2016-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75177806:por",
+     "title": "Lei n.º 25/2016",
+     "published": "2016-08-22",
+     "dre_path": "/dr/detalhe/lei/25-2016-75177806"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 44.º"
+   ],
+   "fragments": [
+    "49321275",
+    "49321375",
+    "49321475",
+    "75184981",
+    "75184982",
+    "74734713",
+    "75184983",
+    "74734714",
+    "74734715",
+    "75184984",
+    "49322275",
+    "74734716",
+    "49322475",
+    "49322575",
+    "49322675",
+    "49322775",
+    "75184985",
+    "75184986",
+    "75184987",
+    "49323175",
+    "49323275",
+    "49323375",
+    "74734717",
+    "74734718",
+    "49323675",
+    "49323775",
+    "49323875",
+    "49323975",
+    "49324075",
+    "74734719",
+    "49324275",
+    "49324375",
+    "49324475",
+    "49324575",
+    "49324675",
+    "49324775",
+    "75184988",
+    "74734720",
+    "49325075",
+    "49325175",
+    "49325275",
+    "49325375",
+    "75184989",
+    "49325575",
+    "49325675",
+    "49325775",
+    "49325875",
+    "75184990",
+    "49326075",
+    "49326175",
+    "49326275",
+    "49326375",
+    "74734712",
+    "49326475",
+    "75184991",
+    "49326675",
+    "49326775",
+    "49326875",
+    "49326975",
+    "49327075",
+    "49327175",
+    "49327275",
+    "49327375"
+   ]
+  },
+  {
+   "date": "2017-07-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107745743:por",
+     "title": "Lei n.º 58/2017",
+     "published": "2017-07-25",
+     "dre_path": "/dr/detalhe/lei/58-2017-107745743"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A"
+   ],
+   "fragments": [
+    "49321275",
+    "49321375",
+    "49321475",
+    "75184981",
+    "75184982",
+    "74734713",
+    "75184983",
+    "74734714",
+    "74734715",
+    "75184984",
+    "49322275",
+    "74734716",
+    "49322475",
+    "107738320",
+    "107738321",
+    "107738322",
+    "107738323",
+    "107738324",
+    "107738325",
+    "107738326",
+    "107738319",
+    "107738327",
+    "49323375",
+    "74734717",
+    "74734718",
+    "49323675",
+    "49323775",
+    "49323875",
+    "49323975",
+    "49324075",
+    "74734719",
+    "49324275",
+    "49324375",
+    "49324475",
+    "49324575",
+    "49324675",
+    "49324775",
+    "75184988",
+    "74734720",
+    "49325075",
+    "49325175",
+    "49325275",
+    "49325375",
+    "75184989",
+    "49325575",
+    "49325675",
+    "49325775",
+    "49325875",
+    "75184990",
+    "49326075",
+    "49326175",
+    "49326275",
+    "49326375",
+    "74734712",
+    "49326475",
+    "75184991",
+    "49326675",
+    "49326775",
+    "49326875",
+    "49326975",
+    "49327075",
+    "49327175",
+    "49327275",
+    "49327375"
+   ]
+  },
+  {
+   "date": "2019-02-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116043536:por",
+     "title": "Lei n.º 49/2018",
+     "published": "2018-08-14",
+     "dre_path": "/dr/detalhe/lei/49-2018-116043536"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "49321275",
+    "49321375",
+    "49321475",
+    "75184981",
+    "75184982",
+    "74734713",
+    "75184983",
+    "122472383",
+    "74734715",
+    "75184984",
+    "49322275",
+    "74734716",
+    "49322475",
+    "107738320",
+    "107738321",
+    "107738322",
+    "107738323",
+    "107738324",
+    "107738325",
+    "107738326",
+    "107738319",
+    "107738327",
+    "49323375",
+    "74734717",
+    "74734718",
+    "49323675",
+    "49323775",
+    "49323875",
+    "49323975",
+    "49324075",
+    "74734719",
+    "49324275",
+    "49324375",
+    "49324475",
+    "49324575",
+    "49324675",
+    "49324775",
+    "75184988",
+    "74734720",
+    "49325075",
+    "49325175",
+    "49325275",
+    "49325375",
+    "75184989",
+    "49325575",
+    "49325675",
+    "49325775",
+    "49325875",
+    "75184990",
+    "49326075",
+    "49326175",
+    "49326275",
+    "49326375",
+    "74734712",
+    "49326475",
+    "75184991",
+    "49326675",
+    "49326775",
+    "49326875",
+    "49326975",
+    "49327075",
+    "49327175",
+    "49327275",
+    "49327375"
+   ]
+  },
+  {
+   "date": "2019-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122996204:por",
+     "title": "Lei n.º 48/2019",
+     "published": "2019-07-08",
+     "dre_path": "/dr/detalhe/lei/48-2019-122996204"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "49321275",
+    "49321375",
+    "49321475",
+    "75184981",
+    "75184982",
+    "74734713",
+    "75184983",
+    "122472383",
+    "74734715",
+    "75184984",
+    "49322275",
+    "74734716",
+    "49322475",
+    "107738320",
+    "107738321",
+    "107738322",
+    "107738323",
+    "123011481",
+    "107738325",
+    "107738319",
+    "107738326",
+    "107738327",
+    "49323375",
+    "74734717",
+    "74734718",
+    "49323675",
+    "49323775",
+    "49323875",
+    "49323975",
+    "49324075",
+    "74734719",
+    "49324275",
+    "49324375",
+    "49324475",
+    "49324575",
+    "49324675",
+    "49324775",
+    "75184988",
+    "74734720",
+    "49325075",
+    "49325175",
+    "49325275",
+    "49325375",
+    "75184989",
+    "49325575",
+    "49325675",
+    "49325775",
+    "49325875",
+    "75184990",
+    "49326075",
+    "49326175",
+    "49326275",
+    "49326375",
+    "74734712",
+    "49326475",
+    "75184991",
+    "49326675",
+    "49326775",
+    "49326875",
+    "49326975",
+    "49327075",
+    "49327175",
+    "49327275",
+    "49327375"
+   ]
+  },
+  {
+   "date": "2021-11-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174244807:por",
+     "title": "Lei n.º 72/2021",
+     "published": "2021-11-12",
+     "dre_path": "/dr/detalhe/lei/72-2021-174244807"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 22.º-A",
+    "Adita Artigo 42.º-A",
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "49321275",
+    "49321375",
+    "49321475",
+    "75184981",
+    "75184982",
+    "74734713",
+    "75184983",
+    "122472383",
+    "74734715",
+    "75184984",
+    "49322275",
+    "74734716",
+    "49322475",
+    "107738320",
+    "107738321",
+    "107738322",
+    "107738323",
+    "123011481",
+    "107738325",
+    "107738319",
+    "107738326",
+    "107738327",
+    "49323375",
+    "74734717",
+    "74734718",
+    "49323675",
+    "174302690",
+    "174302692",
+    "174302693",
+    "49323975",
+    "49324075",
+    "74734719",
+    "49324275",
+    "49324375",
+    "49324475",
+    "49324575",
+    "49324675",
+    "49324775",
+    "75184988",
+    "74734720",
+    "49325075",
+    "49325175",
+    "49325275",
+    "49325375",
+    "75184989",
+    "49325575",
+    "49325675",
+    "49325775",
+    "49325875",
+    "75184990",
+    "49326075",
+    "49326175",
+    "49326275",
+    "174302694",
+    "174302695",
+    "174302696",
+    "49326475",
+    "75184991",
+    "49326675",
+    "49326775",
+    "49326875",
+    "49326975",
+    "49327075",
+    "49327175",
+    "49327275",
+    "49327375"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175983728:por",
+     "title": "Lei n.º 90/2021",
+     "published": "2021-12-16",
+     "dre_path": "/dr/detalhe/lei/90-2021-175983728"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 13.º-B",
+    "Altera Artigo 8.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 39.º"
+   ],
+   "fragments": [
+    "49321275",
+    "49321375",
+    "49321475",
+    "75184981",
+    "75184982",
+    "74734713",
+    "75184983",
+    "122472383",
+    "74734715",
+    "175984733",
+    "49322275",
+    "74734716",
+    "49322475",
+    "107738320",
+    "107738321",
+    "107738322",
+    "175984737",
+    "175984744",
+    "175984745",
+    "175984747",
+    "175984746",
+    "175984748",
+    "175984749",
+    "175984750",
+    "49323375",
+    "74734717",
+    "74734718",
+    "49323675",
+    "174302690",
+    "174302692",
+    "174302693",
+    "49323975",
+    "49324075",
+    "74734719",
+    "49324275",
+    "49324375",
+    "49324475",
+    "49324575",
+    "49324675",
+    "49324775",
+    "75184988",
+    "74734720",
+    "49325075",
+    "49325175",
+    "49325275",
+    "49325375",
+    "75184989",
+    "49325575",
+    "49325675",
+    "49325775",
+    "49325875",
+    "175984735",
+    "49326075",
+    "49326175",
+    "49326275",
+    "174302694",
+    "174302695",
+    "174302696",
+    "49326475",
+    "75184991",
+    "49326675",
+    "49326775",
+    "49326875",
+    "49326975",
+    "49327075",
+    "49327175",
+    "49327275",
+    "49327375"
+   ]
+  }
+ ],
+ "fragments": {
+  "49321275": {
+   "fragment_id": "35149575",
+   "type": 15,
+   "heading": "Diploma — Procriação medicamente assistida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "49321375": {
+   "fragment_id": "35895575",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "49321475": {
+   "fragment_id": "37437375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei regula a utilização de técnicas de procriação medicamente assistida (PMA)."
+  },
+  "49321575": {
+   "fragment_id": "37437475",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nA presente lei aplica-se às seguintes técnicas de PMA:\n\na) Inseminação artificial;\n\nb) Fertilização in vitro;\n\nc) Injecção intracitoplasmática de espermatozóides;\n\nd) Transferência de embriões, gâmetas ou zigotos;\n\ne) Diagnóstico genético pré-implantação;\n\nf) Outras técnicas laboratoriais de manipulação gamética ou embrionária equivalentes ou subsidiárias."
+  },
+  "49321675": {
+   "fragment_id": "37437575",
+   "type": 11,
+   "heading": "Artigo 3.º — Dignidade e não discriminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dignidade e não discriminação\n\nAs técnicas de PMA devem respeitar a dignidade humana, sendo proibida a discriminação com base no património genético ou no facto de se ter nascido em resultado da utilização de técnicas de PMA."
+  },
+  "49321775": {
+   "fragment_id": "37437675",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de admissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de admissibilidade\n\n1 - As técnicas de PMA são um método subsidiário, e não alternativo, de procriação.\n\n2 - A utilização de técnicas de PMA só pode verificar-se mediante diagnóstico de infertilidade ou ainda, sendo caso disso, para tratamento de doença grave ou do risco de transmissão de doenças de origem genética, infecciosa ou outras."
+  },
+  "49321875": {
+   "fragment_id": "37437775",
+   "type": 11,
+   "heading": "Artigo 5.º — Centros autorizados e pessoas qualificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Centros autorizados e pessoas qualificadas\n\n1 - As técnicas de PMA só podem ser ministradas em centros públicos ou privados expressamente autorizados para o efeito pelo Ministro da Saúde.\n\n2 - São definidos em diploma próprio, designadamente:\n\na) As qualificações exigidas às equipas médicas e ao restante pessoal de saúde;\n\nb) O modo e os critérios de avaliação periódica da qualidade técnica;\n\nc) As situações em que a autorização de funcionamento pode ser revogada."
+  },
+  "49321975": {
+   "fragment_id": "37437875",
+   "type": 11,
+   "heading": "Artigo 6.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Beneficiários\n\n1 - Só as pessoas casadas que não se encontrem separadas judicialmente de pessoas e bens ou separadas de facto ou as que, sendo de sexo diferente, vivam em condições análogas às dos cônjuges há pelo menos dois anos podem recorrer a técnicas de PMA.\n\n2 - As técnicas só podem ser utilizadas em benefício de quem tenha, pelo menos, 18 anos de idade e não se encontre interdito ou inabilitado por anomalia psíquica."
+  },
+  "49322075": {
+   "fragment_id": "37437975",
+   "type": 11,
+   "heading": "Artigo 7.º — Finalidades proibidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Finalidades proibidas\n\n1 - É proibida a clonagem reprodutiva tendo como objectivo criar seres humanos geneticamente idênticos a outros.\n\n2 - As técnicas de PMA não podem ser utilizadas para conseguir melhorar determinadas características não médicas do nascituro, designadamente a escolha do sexo.\n\n3 - Exceptuam-se do disposto no número anterior os casos em que haja risco elevado de doença genética ligada ao sexo, e para a qual não seja ainda possível a detecção directa por diagnóstico pré-natal ou diagnóstico genético pré-implantação, ou quando seja ponderosa a necessidade de obter grupo HLA (human leukocyte antigen) compatível para efeitos de tratamento de doença grave.\n\n4 - As técnicas de PMA não podem ser utilizadas com o objectivo de originarem quimeras ou híbridos.\n\n5 - É proibida a aplicação das técnicas de diagnóstico genético pré-implantação em doenças multifactoriais onde o valor preditivo do teste genético seja muito baixo."
+  },
+  "49322175": {
+   "fragment_id": "37438075",
+   "type": 11,
+   "heading": "Artigo 8.º — Maternidade de substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Maternidade de substituição\n\n1 - São nulos os negócios jurídicos, gratuitos ou onerosos, de maternidade de substituição.\n\n2 - Entende-se por «maternidade de substituição» qualquer situação em que a mulher se disponha a suportar uma gravidez por conta de outrem e a entregar a criança após o parto, renunciando aos poderes e deveres próprios da maternidade.\n\n3 - A mulher que suportar uma gravidez de substituição de outrem é havida, para todos os efeitos legais, como a mãe da criança que vier a nascer.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 225/2018 - Diário da República n.º 87/2018, Série I de 2018-05-07](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/225-2018-115226940) Declara a inconstitucionalidade, com força obrigatória geral, das seguintes normas: dos n.os 4, 10, e 11 do art. 8.º, e, consequentemente, das normas dos n.os 2 e 3 do mesmo artigo, na parte em que admitem a celebração de negócios de gestação de substituição a título excecional e mediante autorização prévia; do n.º 8 do artigo 8.º, em conjugação com o n.º 5 do artigo 14.º da mesma Lei, na parte em que não admite a revogação do consentimento da gestante de substituição até à entrega da criança aos beneficiários; consequentemente, do n.º 7 do artigo 8.º; do n.º 12 do artigo 8.º; das normas do n.º 1, na parte em que impõe uma obrigação de sigilo absoluto relativamente às pessoas nascidas em consequência de processo de procriação medicamente assistida com recurso a dádiva de gâmetas ou embriões, incluindo nas situações de gestação de substituição, sobre o recurso a tais processos ou à gestação de substituição e sobre a identidade dos participantes nos mesmos como dadores ou enquanto gestante de substituição, e do n.º 4 do artigo 15.º."
+  },
+  "49322275": {
+   "fragment_id": "37438175",
+   "type": 11,
+   "heading": "Artigo 9.º — Investigação com recurso a embriões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Investigação com recurso a embriões\n\n1 - É proibida a criação de embriões através da PMA com o objectivo deliberado da sua utilização na investigação científica.\n\n2 - É, no entanto, lícita a investigação científica em embriões com o objectivo de prevenção, diagnóstico ou terapia de embriões, de aperfeiçoamento das técnicas de PMA, de constituição de bancos de células estaminais para programas de transplantação ou com quaisquer outras finalidades terapêuticas.\n\n3 - O recurso a embriões para investigação científica só pode ser permitido desde que seja razoável esperar que daí possa resultar benefício para a humanidade, dependendo cada projecto científico de apreciação e decisão do Conselho Nacional de Procriação medicamente Assistida.\n\n4 - Para efeitos de investigação científica só podem ser utilizados:\n\na) Embriões criopreservados, excedentários, em relação aos quais não exista nenhum projecto parental;\n\nb) Embriões cujo estado não permita a transferência ou a criopreservação com fins de procriação;\n\nc) Embriões que sejam portadores de anomalia genética grave, no quadro do diagnóstico genético pré-implantação;\n\nd) Embriões obtidos sem recurso à fecundação por espermatozóide.\n\n5 - O recurso a embriões nas condições das alíneas a) e c) do número anterior depende da obtenção de prévio consentimento, expresso, informado e consciente dos beneficiários aos quais se destinavam."
+  },
+  "49322375": {
+   "fragment_id": "37438275",
+   "type": 11,
+   "heading": "Artigo 10.º — Doação de espermatozóides, ovócitos e embriões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Doação de espermatozóides, ovócitos e embriões\n\n1 - Pode recorrer-se à dádiva de ovócitos, de espermatozóides ou de embriões quando, face aos conhecimentos médico-científicos objectivamente disponíveis, não possa obter-se gravidez através do recurso a qualquer outra técnica que utilize os gâmetas dos beneficiários e desde que sejam asseguradas condições eficazes de garantir a qualidade dos gâmetas.\n\n2 - Os dadores não podem ser havidos como progenitores da criança que vai nascer."
+  },
+  "49322475": {
+   "fragment_id": "35895675",
+   "type": 1,
+   "heading": "Capítulo II — Utilização de técnicas de PMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Utilização de técnicas de PMA"
+  },
+  "49322575": {
+   "fragment_id": "37438375",
+   "type": 11,
+   "heading": "Artigo 11.º — Decisão médica e objecção de consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Decisão médica e objecção de consciência\n\n1 - Compete ao médico responsável propor aos beneficiários a técnica de PMA que, cientificamente, se afigure mais adequada quando outros tratamentos não tenham sido bem sucedidos, não ofereçam perspectivas de êxito ou não se mostrem convenientes segundo os preceitos do conhecimento médico.\n\n2 - Nenhum profissional de saúde pode ser obrigado a superintender ou a colaborar na realização de qualquer das técnicas de PMA se, por razões médicas ou éticas, entender não o dever fazer.\n\n3 - A recusa do profissional deve especificar as razões de ordem clínica ou de outra índole que a motivam, designadamente a objecção de consciência."
+  },
+  "49322675": {
+   "fragment_id": "37438475",
+   "type": 11,
+   "heading": "Artigo 12.º — Direitos dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direitos dos beneficiários\n\nSão direitos dos beneficiários:\n\na) Não ser submetidos a técnicas que não ofereçam razoáveis probabilidades de êxito ou cuja utilização comporte riscos significativos para a saúde da mãe ou do filho;\n\nb) Ser assistidos em ambiente médico idóneo que disponha de todas as condições materiais e humanas requeridas para a correcta execução da técnica aconselhável;\n\nc) Ser correctamente informados sobre as implicações médicas, sociais e jurídicas prováveis dos tratamentos propostos;\n\nd) Conhecer as razões que motivem a recusa de técnicas de PMA;\n\ne) Ser informados das condições em que lhes seria possível recorrer à adopção e da relevância social deste instituto."
+  },
+  "49322775": {
+   "fragment_id": "37438575",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deveres dos beneficiários\n\n1 - São deveres dos beneficiários:\n\na) Prestar todas as informações que lhes sejam solicitadas pela equipa médica ou que entendam ser relevantes para o correcto diagnóstico da sua situação clínica e para o êxito da técnica a que vão submeter-se;\n\nb) Observar rigorosamente todas as prescrições da equipa médica, quer durante a fase do diagnóstico quer durante as diferentes etapas do processo de PMA.\n\n2 - A fim de serem globalmente avaliados os resultados médico-sanitários e psicossociológicos dos processos de PMA, devem os beneficiários prestar todas as informações relacionadas com a saúde e o desenvolvimento das crianças nascidas com recurso a estas técnicas."
+  },
+  "49322875": {
+   "fragment_id": "37438675",
+   "type": 11,
+   "heading": "Artigo 14.º — Consentimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Consentimento\n\n1 - Os beneficiários devem prestar o seu consentimento livre, esclarecido, de forma expressa e por escrito, perante o médico responsável.\n\n2 - Para efeitos do disposto no número anterior, devem os beneficiários ser previamente informados, por escrito, de todos os benefícios e riscos conhecidos resultantes da utilização das técnicas de PMA, bem como das suas implicações éticas, sociais e jurídicas.\n\n3 - As informações constantes do número anterior devem constar de documento, a ser aprovado pelo Conselho Nacional de Procriação medicamente Assistida, através do qual os beneficiários prestam o seu consentimento.\n\n4 - O consentimento dos beneficiários é livremente revogável por qualquer deles até ao início dos processos terapêuticos de PMA."
+  },
+  "49322975": {
+   "fragment_id": "37438775",
+   "type": 11,
+   "heading": "Artigo 15.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Confidencialidade\n\n1 - Todos aqueles que, por alguma forma, tomarem conhecimento do recurso a técnicas de PMA ou da identidade de qualquer dos participantes nos respectivos processos estão obrigados a manter sigilo sobre a identidade dos mesmos e sobre o próprio acto da PMA.\n\n2 - As pessoas nascidas em consequência de processos de PMA com recurso a dádiva de gâmetas ou embriões podem, junto dos competentes serviços de saúde, obter as informações de natureza genética que lhes digam respeito, excluindo a identificação do dador.\n\n3 - Sem prejuízo do disposto no número anterior, as pessoas aí referidas podem obter informação sobre eventual existência de impedimento legal a projectado casamento, junto do Conselho Nacional de Procriação medicamente Assistida, mantendo-se a confidencialidade acerca da identidade do dador, excepto se este expressamente o permitir.\n\n4 - Sem prejuízo do disposto nos números anteriores, podem ainda ser obtidas informações sobre a identidade do dador por razões ponderosas reconhecidas por sentença judicial.\n\n5 - O assento de nascimento não pode, em caso algum, conter a indicação de que a criança nasceu da aplicação de técnicas de PMA."
+  },
+  "49323075": {
+   "fragment_id": "37438875",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo e conservação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Registo e conservação de dados\n\n1 - Aos dados pessoais relativos aos processos de PMA, respectivos beneficiários, dadores e crianças nascidas é aplicada a legislação de protecção de dados pessoais e de informação genética pessoal e informação de saúde.\n\n2 - Em diploma próprio, de acordo com a especificidade dos dados relativos à PMA, é regulamentado, nomeadamente, o período de tempo durante o qual os dados devem ser conservados, quem poderá ter acesso a eles e com que finalidade, bem como os casos em que poderão ser eliminadas informações constantes dos registos."
+  },
+  "49323175": {
+   "fragment_id": "37438975",
+   "type": 11,
+   "heading": "Artigo 17.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Encargos\n\n1 - Os centros autorizados a ministrar técnicas de PMA não podem, no cálculo da retribuição exigível, atribuir qualquer valor ao material genético doado nem aos embriões doados.\n\n2 - O recurso às técnicas de PMA no âmbito do Serviço Nacional de Saúde é suportado nas condições que vierem a ser definidas em diploma próprio, tendo em conta o parecer do Conselho Nacional de Procriação medicamente Assistida."
+  },
+  "49323275": {
+   "fragment_id": "37439075",
+   "type": 11,
+   "heading": "Artigo 18.º — Compra ou venda de óvulos, sémen ou embriões e outro material biológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Compra ou venda de óvulos, sémen ou embriões e outro material biológico\n\nÉ proibida a compra ou venda de óvulos, sémen ou embriões ou de qualquer material biológico decorrente da aplicação de técnicas de PMA."
+  },
+  "49323375": {
+   "fragment_id": "35895775",
+   "type": 1,
+   "heading": "Capítulo III — Inseminação artificial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Inseminação artificial"
+  },
+  "49323475": {
+   "fragment_id": "37439175",
+   "type": 11,
+   "heading": "Artigo 19.º — Inseminação com sémen de dador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Inseminação com sémen de dador\n\n1 - A inseminação com sémen de um terceiro dador só pode verificar-se quando, face aos conhecimentos médico-científicos objectivamente disponíveis, não possa obter-se gravidez através de inseminação com sémen do marido ou daquele que viva em união de facto com a mulher a inseminar.\n\n2 - O sémen do dador deve ser criopreservado."
+  },
+  "49323575": {
+   "fragment_id": "37439275",
+   "type": 11,
+   "heading": "Artigo 20.º — Determinação da paternidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Determinação da paternidade\n\n1 - Se da inseminação a que se refere o artigo anterior vier a resultar o nascimento de um filho, é este havido como filho do marido ou daquele vivendo em união de facto com a mulher inseminada, desde que tenha havido consentimento na inseminação, nos termos do artigo 14.º, sem prejuízo da presunção estabelecida no artigo 1826.º do Código Civil.\n\n2 - Para efeitos do disposto no número anterior, e no caso de ausência do unido de facto no acto de registo do nascimento, pode ser exibido, nesse mesmo acto, documento comprovativo de que aquele prestou o seu consentimento nos termos do artigo 14.º\n\n3 - Nos casos referidos no número anterior, no registo de nascimento é também estabelecida a paternidade de quem prestou o consentimento nos termos do artigo 14.º\n\n4 - Não sendo exibido o documento referido no n.º 2, lavra-se registo de nascimento apenas com a maternidade estabelecida, caso em que, com as necessárias adaptações, se aplica o disposto nos artigos 1864.º a 1866.º do Código Civil, apenas com vista a determinar a existência de consentimento sério, livre e esclarecido, prestado por qualquer meio, à inseminação e consequente estabelecimento da paternidade de quem prestou o consentimento.\n\n5 - A presunção de paternidade estabelecida nos termos dos n.os 1 e 2 pode ser impugnada pelo marido ou aquele que vivesse em união de facto se for provado que não houve consentimento ou que o filho não nasceu da inseminação para que o consentimento foi prestado."
+  },
+  "49323675": {
+   "fragment_id": "37439375",
+   "type": 11,
+   "heading": "Artigo 21.º — Exclusão da paternidade do dador de sémen",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Exclusão da paternidade do dador de sémen\n\nO dador de sémen não pode ser havido como pai da criança que vier a nascer, não lhe cabendo quaisquer poderes ou deveres em relação a ela."
+  },
+  "49323775": {
+   "fragment_id": "37439475",
+   "type": 11,
+   "heading": "Artigo 22.º — Inseminação post mortem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Inseminação post mortem\n\n1 - Após a morte do marido ou do homem com quem vivia em união de facto, não é lícito à mulher ser inseminada com sémen do falecido, ainda que este haja consentido no acto de inseminação.\n\n2 - O sémen que, com fundado receio de futura esterilidade, seja recolhido para fins de inseminação do cônjuge ou da mulher com quem o homem viva em união de facto é destruído se aquele vier a falecer durante o período estabelecido para a conservação do sémen.\n\n3 - É, porém, lícita a transferência post mortem de embrião para permitir a realização de um projecto parental claramente estabelecido por escrito antes do falecimento do pai, decorrido que seja o prazo considerado ajustado à adequada ponderação da decisão."
+  },
+  "49323875": {
+   "fragment_id": "37439575",
+   "type": 11,
+   "heading": "Artigo 23.º — Paternidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Paternidade\n\n1 - Se da violação da proibição a que se refere o artigo anterior resultar gravidez da mulher inseminada, a criança que vier a nascer é havida como filha do falecido.\n\n2 - Cessa o disposto no número anterior se, à data da inseminação, a mulher tiver contraído casamento ou viver há pelo menos dois anos em união de facto com homem que, nos termos do artigo 14.º, dê o seu consentimento a tal acto, caso em que se aplica o disposto no n.º 3 do artigo 1839.º do Código Civil."
+  },
+  "49323975": {
+   "fragment_id": "35895875",
+   "type": 1,
+   "heading": "Capítulo IV — Fertilização in vitro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fertilização in vitro"
+  },
+  "49324075": {
+   "fragment_id": "37439675",
+   "type": 11,
+   "heading": "Artigo 24.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Princípio geral\n\n1 - Na fertilização in vitro apenas deve haver lugar à criação dos embriões em número considerado necessário para o êxito do processo, de acordo com a boa prática clínica e os princípios do consentimento informado.\n\n2 - O número de ovócitos a inseminar em cada processo deve ter em conta a situação clínica do casal e a indicação geral de prevenção da gravidez múltipla."
+  },
+  "49324175": {
+   "fragment_id": "37439775",
+   "type": 11,
+   "heading": "Artigo 25.º — Destino dos embriões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Destino dos embriões\n\n1 - Os embriões que, nos termos do artigo anterior, não tiverem de ser transferidos, devem ser criopreservados, comprometendo-se os beneficiários a utilizá-los em novo processo de transferência embrionária no prazo máximo de três anos.\n\n2 - Decorrido o prazo de três anos, podem os embriões ser doados a outro casal cuja indicação médica de infertilidade o aconselhe, sendo os factos determinantes sujeitos a registo.\n\n3 - O destino dos embriões previsto no número anterior só pode verificar-se mediante o consentimento dos beneficiários originários ou do que seja sobrevivo, aplicando-se, com as necessárias adaptações, o disposto no n.º 1 do artigo 14.º\n\n4 - Não ficam sujeitos ao disposto no n.º 1 os embriões cuja caracterização morfológica não indique condições mínimas de viabilidade.\n\n5 - Aos embriões que não tiverem possibilidade de ser envolvidos num projecto parental aplica-se o disposto no artigo 9.º"
+  },
+  "49324275": {
+   "fragment_id": "37439875",
+   "type": 11,
+   "heading": "Artigo 26.º — Fertilização in vitro post mortem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Fertilização in vitro post mortem\n\nSe aquele que depositou o seu sémen ou ovócitos para fins de inseminação em benefício do casal a que pertence vier a falecer, aplica-se, com as necessárias adaptações, o que se dispõe em matéria de inseminação post mortem nos artigos 22.º e 23.º"
+  },
+  "49324375": {
+   "fragment_id": "37439975",
+   "type": 11,
+   "heading": "Artigo 27.º — Fertilização in vitro com gâmetas de dador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Fertilização in vitro com gâmetas de dador\n\nÀ fertilização in vitro com recurso a sémen ou ovócitos de dador aplica-se, com as devidas adaptações, o disposto nos artigos 19.º a 21.º"
+  },
+  "49324475": {
+   "fragment_id": "35895975",
+   "type": 1,
+   "heading": "Capítulo V — Diagnóstico genético pré-implantação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Diagnóstico genético pré-implantação"
+  },
+  "49324575": {
+   "fragment_id": "37440075",
+   "type": 11,
+   "heading": "Artigo 28.º — Rastreio de aneuploidias e diagnóstico genético pré-implantação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Rastreio de aneuploidias e diagnóstico genético pré-implantação\n\n1 - O diagnóstico genético pré-implantação (DGPI) tem como objectivo a identificação de embriões não portadores de anomalia grave, antes da sua transferência para o útero da mulher, através do recurso a técnicas de PMA, ou para os efeitos previstos no n.º 3 do artigo 7.º\n\n2 - É permitida a aplicação, sob orientação de médico especialista responsável, do rastreio genético de aneuploidias nos embriões a transferir com vista a diminuir o risco de alterações cromossómicas e assim aumentar as possibilidades de sucesso das técnicas de PMA.\n\n3 - É permitida a aplicação, sob orientação de médico especialista responsável, das técnicas de DGPI que tenham reconhecido valor científico para diagnóstico, tratamento ou prevenção de doenças genéticas graves, como tal considerado pelo Conselho Nacional de Procriação medicamente Assistida.\n\n4 - Os centros de PMA que desejem aplicar técnicas de DGPI devem possuir ou articular-se com equipa multidisciplinar que inclua especialistas em medicina da reprodução, embriologistas, médicos geneticistas, citogeneticistas e geneticistas moleculares."
+  },
+  "49324675": {
+   "fragment_id": "37440175",
+   "type": 11,
+   "heading": "Artigo 29.º — Aplicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Aplicações\n\n1 - O DGPI destina-se a pessoas provenientes de famílias com alterações que causam morte precoce ou doença grave, quando exista risco elevado de transmissão à sua descendência.\n\n2 - As indicações médicas específicas para possível DGPI são determinadas pelas boas práticas correntes e constam das recomendações das organizações profissionais nacionais e internacionais da área, sendo revistas periodicamente."
+  },
+  "49324775": {
+   "fragment_id": "35896075",
+   "type": 1,
+   "heading": "Capítulo VI — Conselho Nacional de Procriação medicamente Assistida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Conselho Nacional de Procriação medicamente Assistida"
+  },
+  "49324875": {
+   "fragment_id": "37440275",
+   "type": 11,
+   "heading": "Artigo 30.º — Conselho Nacional de Procriação medicamente Assistida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Conselho Nacional de Procriação medicamente Assistida\n\n1 - É criado o Conselho Nacional de Procriação medicamente Assistida, adiante designado por CNPMA, ao qual compete, genericamente, pronunciar-se sobre as questões éticas, sociais e legais da PMA.\n\n2 - São atribuições do CNPMA, designadamente:\n\na) Actualizar a informação científica sobre a PMA e sobre as técnicas reguladas pela presente legislação;\n\nb) Estabelecer as condições em que devem ser autorizados os centros onde são ministradas as técnicas de PMA, bem como os centros onde sejam preservados gâmetas ou embriões;\n\nc) Acompanhar a actividade dos centros referidos na alínea anterior, fiscalizando o cumprimento da presente lei, em articulação com as entidades públicas competentes;\n\nd) Dar parecer sobre a autorização de novos centros, bem como sobre situações de suspensão ou revogação dessa autorização;\n\ne) Dar parecer sobre a constituição de bancos de células estaminais, bem como sobre o destino do material biológico resultante do encerramento destes;\n\nf) Estabelecer orientações relacionadas com a DGPI, no âmbito dos artigos 28.º e 29.º da presente lei;\n\ng) Apreciar, aprovando ou rejeitando, os projectos de investigação que envolvam embriões, nos termos do artigo 9.º;\n\nh) Aprovar o documento através do qual os beneficiários das técnicas de PMA prestam o seu consentimento;\n\ni) Prestar as informações relacionadas com os dadores, nos termos e com os limites previstos no artigo 15.º;\n\nj) Pronunciar-se sobre a implementação das técnicas de PMA no Serviço Nacional de Saúde;\n\nl) Reunir as informações a que se refere o n.º 2 do artigo 13.º, efectuando o seu tratamento científico e avaliando os resultados médico-sanitários e psicossociológicos da prática da PMA;\n\nm) Definir o modelo dos relatórios anuais de actividade dos centros de PMA;\n\nn) Receber e avaliar os relatórios previstos na alínea anterior;\n\no) Contribuir para a divulgação das técnicas disponíveis e para o debate acerca das suas aplicabilidades;\n\np) Centralizar toda a informação relevante acerca da aplicação das técnicas de PMA, nomeadamente registo de dadores, beneficiários e crianças nascidas;\n\nq) Deliberar caso a caso sobre a utilização das técnicas de PMA para selecção de grupo HLA compatível para efeitos de tratamento de doença grave.\n\n3 - O CNPMA apresenta à Assembleia da República e aos Ministérios da Saúde e da Ciência e Tecnologia um relatório anual sobre as suas actividades e sobre as actividades dos serviços públicos e privados, descrevendo o estado da utilização das técnicas de PMA, formulando as recomendações que entender pertinentes, nomeadamente sobre as alterações legislativas necessárias para adequar a prática da PMA à evolução científica, tecnológica, cultural e social."
+  },
+  "49324975": {
+   "fragment_id": "37440375",
+   "type": 11,
+   "heading": "Artigo 31.º — Composição e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Composição e mandato\n\n1 - O CNPMA é composto por nove personalidades de reconhecido mérito que garantam especial qualificação no domínio das questões éticas, científicas, sociais e legais da PMA.\n\n2 - Os membros do CNPMA são designados da seguinte forma:\n\na) Cinco personalidades eleitas pela Assembleia da República;\n\nb) Quatro personalidades nomeadas pelos membros do Governo que tutelam a saúde e a ciência.\n\n3 - Os membros do Conselho elegem de entre si um presidente e um vice-presidente.\n\n4 - O mandato dos membros do Conselho é de cinco anos.\n\n5 - Cada membro do Conselho pode cumprir um ou mais mandatos."
+  },
+  "49325075": {
+   "fragment_id": "37440475",
+   "type": 11,
+   "heading": "Artigo 32.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Funcionamento\n\n1 - O CNPMA funciona no âmbito da Assembleia da República, que assegura os encargos com o seu funcionamento e o apoio técnico e administrativo necessários.\n\n2 - O Conselho estabelece em regulamento interno a disciplina do seu funcionamento, incluindo a eventual criação e composição de uma comissão coordenadora e de subcomissões para lidar com assuntos específicos.\n\n3 - Os membros do CNPMA têm direito a senhas de presença, por cada reunião em que participem, de montante a definir por despacho do Presidente da Assembleia da República, e, bem assim, a ajudas de custo e a requisições de transporte, nos termos da lei geral."
+  },
+  "49325175": {
+   "fragment_id": "37440575",
+   "type": 11,
+   "heading": "Artigo 33.º — Dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Dever de colaboração\n\nTodas as entidades públicas, sociais e privadas têm o dever de prestar a colaboração solicitada pelo CNPMA para o exercício das suas competências."
+  },
+  "49325275": {
+   "fragment_id": "35896175",
+   "type": 1,
+   "heading": "Capítulo VII — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Sanções"
+  },
+  "49325375": {
+   "fragment_id": "37440675",
+   "type": 8,
+   "heading": "Secção I — Responsabilidade criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Responsabilidade criminal"
+  },
+  "49325475": {
+   "fragment_id": "39045375",
+   "type": 11,
+   "heading": "Artigo 34.º — Centros autorizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Centros autorizados\n\nQuem aplicar técnicas de PMA fora dos centros autorizados é punido com pena de prisão até 3 anos."
+  },
+  "49325575": {
+   "fragment_id": "39045475",
+   "type": 11,
+   "heading": "Artigo 35.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Beneficiários\n\nQuem aplicar técnicas de PMA com violação do disposto no n.º 2 do artigo 6.º é punido com pena de prisão de 2 a 8 anos."
+  },
+  "49325675": {
+   "fragment_id": "39045575",
+   "type": 11,
+   "heading": "Artigo 36.º — Clonagem reprodutiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Clonagem reprodutiva\n\n1 - Quem transferir para o útero embrião obtido através da técnica de transferência de núcleo, salvo quando essa transferência seja necessária à aplicação das técnicas de PMA, é punido com pena de prisão de 1 a 5 anos.\n\n2 - Na mesma pena incorre quem proceder à transferência de embrião obtido através da cisão de embriões."
+  },
+  "49325775": {
+   "fragment_id": "39045675",
+   "type": 11,
+   "heading": "Artigo 37.º — Escolha de características não médicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Escolha de características não médicas\n\nQuem utilizar ou aplicar técnicas de PMA para conseguir melhorar determinadas características não médicas do nascituro, designadamente a escolha do sexo, fora dos casos permitidos pela presente lei, é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias."
+  },
+  "49325875": {
+   "fragment_id": "39045775",
+   "type": 11,
+   "heading": "Artigo 38.º — Criação de quimeras ou híbridos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Criação de quimeras ou híbridos\n\nQuem criar quimeras ou híbridos com fins de PMA é punido com pena de prisão de 1 a 5 anos."
+  },
+  "49325975": {
+   "fragment_id": "39045875",
+   "type": 11,
+   "heading": "Artigo 39.º — Maternidade de substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Maternidade de substituição\n\n1 - Quem concretizar contratos de maternidade de substituição a título oneroso é punido com pena de prisão até 2 anos ou pena de multa até 240 dias.\n\n2 - Quem promover, por qualquer meio, designadamente através de convite directo ou por interposta pessoa, ou de anúncio público, a maternidade de substituição a título oneroso é punido com pena de prisão até 2 anos ou pena de multa até 240 dias."
+  },
+  "49326075": {
+   "fragment_id": "39045975",
+   "type": 11,
+   "heading": "Artigo 40.º — Utilização indevida de embriões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Utilização indevida de embriões\n\n1 - Quem, através de PMA, utilizar embriões na investigação e experimentação científicas fora dos casos permitidos na presente lei é punido com pena de prisão de 1 a 5 anos.\n\n2 - Na mesma pena incorre quem proceder à transferência para o útero de embrião usado na investigação e na experimentação científicas fora dos casos previstos na presente lei."
+  },
+  "49326175": {
+   "fragment_id": "39046075",
+   "type": 11,
+   "heading": "Artigo 41.º — Intervenções e tratamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Intervenções e tratamentos\n\n1 - Às intervenções e tratamentos feitos através de técnicas de PMA por médico ou por outra pessoa legalmente autorizada com conhecimento do médico responsável aplica-se o disposto no artigo 150.º do Código Penal.\n\n2 - As intervenções e tratamentos no âmbito da PMA feitos sem conhecimento do médico responsável ou por quem não esteja legalmente habilitado constituem ofensas à integridade física, puníveis nos termos do Código Penal, de acordo com as lesões provocadas, sem prejuízo de qualquer outra tipificação penal."
+  },
+  "49326275": {
+   "fragment_id": "39046175",
+   "type": 11,
+   "heading": "Artigo 42.º — Recolha e utilização não consentida de gâmetas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Recolha e utilização não consentida de gâmetas\n\nQuem recolher material genético de homem ou de mulher sem o seu consentimento e o utilizar na PMA é punido com pena de prisão de 1 a 8 anos."
+  },
+  "49326375": {
+   "fragment_id": "39046275",
+   "type": 11,
+   "heading": "Artigo 43.º — Violação do dever de sigilo ou de confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Violação do dever de sigilo ou de confidencialidade\n\nQuem violar o disposto no artigo 15.º é punido com pena de prisão até 1 ano ou com pena de multa até 240 dias."
+  },
+  "49326475": {
+   "fragment_id": "37440775",
+   "type": 8,
+   "heading": "Secção II — Ilícito contra-ordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Ilícito contra-ordenacional"
+  },
+  "49326575": {
+   "fragment_id": "39046375",
+   "type": 11,
+   "heading": "Artigo 44.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de (euro) 10000 a (euro) 50000 no caso de pessoas singulares, sendo o máximo de (euro) 500000 no caso de pessoas colectivas:\n\na) A aplicação de qualquer técnica de PMA sem que, para tal, se verifiquem as condições previstas no artigo 4.º;\n\nb) A aplicação de qualquer técnica de PMA fora dos centros autorizados;\n\nc) A aplicação de qualquer técnica de PMA sem que, para tal, se verifiquem os requisitos previstos no artigo 6.º;\n\nd) A aplicação de qualquer técnica de PMA sem que o consentimento de qualquer dos beneficiários conste de documento que obedeça aos requisitos previstos no artigo 14.º\n\n2 - A negligência é punível, reduzindo-se para metade os montantes máximos previstos no número anterior."
+  },
+  "49326675": {
+   "fragment_id": "37440875",
+   "type": 8,
+   "heading": "Secção III — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Sanções acessórias"
+  },
+  "49326775": {
+   "fragment_id": "39046475",
+   "type": 11,
+   "heading": "Artigo 45.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Sanções acessórias\n\nA quem for condenado por qualquer dos crimes ou das contra-ordenações previstos neste capítulo pode o tribunal aplicar as seguintes sanções acessórias:\n\na) Injunção judiciária;\n\nb) Interdição temporária do exercício de actividade ou profissão;\n\nc) Privação do direito a subsídios, subvenções ou incentivos outorgados por entidades ou serviços públicos;\n\nd) Encerramento temporário de estabelecimento;\n\ne) Cessação da autorização de funcionamento;\n\nf) Publicidade da decisão condenatória."
+  },
+  "49326875": {
+   "fragment_id": "37440975",
+   "type": 8,
+   "heading": "Secção IV — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Direito subsidiário"
+  },
+  "49326975": {
+   "fragment_id": "39046575",
+   "type": 11,
+   "heading": "Artigo 46.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Direito subsidiário\n\nAo disposto no presente capítulo é aplicável, subsidiariamente, o Código Penal e o regime geral das contra-ordenações."
+  },
+  "49327075": {
+   "fragment_id": "35896275",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "49327175": {
+   "fragment_id": "37441075",
+   "type": 11,
+   "heading": "Artigo 47.º — Outras técnicas de PMA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Outras técnicas de PMA\n\nÀ injecção intracitoplasmática de espermatozóides, à transferência de embriões, gâmetas ou zigotos e a outras técnicas laboratoriais de manipulação gamética ou embrionária equivalentes ou subsidiárias aplica-se, com as necessárias adaptações, o disposto no capítulo IV."
+  },
+  "49327275": {
+   "fragment_id": "37441175",
+   "type": 11,
+   "heading": "Artigo 48.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Regulamentação\n\nO Governo aprova, no prazo máximo de 180 dias após a publicação da presente lei, a respectiva regulamentação."
+  },
+  "74734712": {
+   "fragment_id": "74738663",
+   "type": 11,
+   "heading": "Artigo 43.º-A — Responsabilidade penal das pessoas colectivas e equiparadas",
+   "in_force_from": "2007-09-15",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 59/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142), em vigor a partir de 2007-09-15"
+   ],
+   "markdown": "###### Artigo 43.º-A — Responsabilidade penal das pessoas colectivas e equiparadas\n\nAs pessoas colectivas e entidades equiparadas são responsáveis, nos termos gerais, pelos crimes previstos na presente lei.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 59/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142), em vigor a partir de 2007-09-15"
+  },
+  "49327375": {
+   "fragment_id": "35896375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 25 de Maio de 2006.\n\nO Presidente da Assembleia da República, Jaime Gama.\n\nPromulgada em 11 de Julho de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendada em 14 de Julho de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "74734713": {
+   "fragment_id": "37437675",
+   "type": 11,
+   "heading": "Artigo 4.º — Recurso à PMA",
+   "in_force_from": "2016-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+   ],
+   "markdown": "###### Artigo 4.º — Recurso à PMA\n\n1 - As técnicas de PMA são um método subsidiário, e não alternativo, de procriação.\n\n2 - A utilização de técnicas de PMA só pode verificar-se mediante diagnóstico de infertilidade ou ainda, sendo caso disso, para tratamento de doença grave ou do risco de transmissão de doenças de origem genética, infecciosa ou outras.\n\n3 - As técnicas de PMA podem ainda ser utilizadas por todas as mulheres independentemente do diagnóstico de infertilidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+  },
+  "74734714": {
+   "fragment_id": "37437875",
+   "type": 11,
+   "heading": "Artigo 6.º — Beneficiários",
+   "in_force_from": "2016-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+   ],
+   "markdown": "###### Artigo 6.º — Beneficiários\n\n1 - Podem recorrer às técnicas de PMA os casais de sexo diferente ou os casais de mulheres, respetivamente casados ou casadas ou que vivam em condições análogas às dos cônjuges, bem como todas as mulheres independentemente do estado civil e da respetiva orientação sexual.\n\n2 - As técnicas só podem ser utilizadas em benefício de quem tenha, pelo menos, 18 anos de idade e não se encontre interdito ou inabilitado por anomalia psíquica.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+  },
+  "74734715": {
+   "fragment_id": "37437975",
+   "type": 11,
+   "heading": "Artigo 7.º — Finalidades proibidas",
+   "in_force_from": "2016-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+   ],
+   "markdown": "###### Artigo 7.º — Finalidades proibidas\n\n1 - É proibida a clonagem reprodutiva tendo como objectivo criar seres humanos geneticamente idênticos a outros.\n\n2 - As técnicas de PMA não podem ser utilizadas para conseguir melhorar determinadas características não médicas do nascituro, designadamente a escolha do sexo.\n\n3 - Excetuam-se do disposto no número anterior os casos em que haja risco elevado de doença genética ligada ao sexo, e para a qual não seja ainda possível a deteção direta por diagnóstico genético pré-implantação, ou quando seja ponderosa a necessidade de obter grupo HLA (human leukocyte antigen) compatível para efeitos de tratamento de doença grave.\n\n4 - As técnicas de PMA não podem ser utilizadas com o objectivo de originarem quimeras ou híbridos.\n\n5 - É proibida a aplicação das técnicas de diagnóstico genético pré-implantação em doenças multifactoriais onde o valor preditivo do teste genético seja muito baixo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+  },
+  "74734716": {
+   "fragment_id": "37438275",
+   "type": 11,
+   "heading": "Artigo 10.º — Doação de espermatozóides, ovócitos e embriões",
+   "in_force_from": "2016-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+   ],
+   "markdown": "###### Artigo 10.º — Doação de espermatozóides, ovócitos e embriões\n\n1 - Pode recorrer-se a ovócitos, espermatozoides ou embriões doados por terceiros quando, face aos conhecimentos médico-científicos objetivamente disponíveis, não possa obter-se gravidez ou gravidez sem doença genética grave através do recurso a qualquer técnica que utilize os gâmetas dos beneficiários e desde que sejam asseguradas condições eficazes de garantir a qualidade de gâmetas.\n\n2 - Os dadores não podem ser havidos como progenitores da criança que vai nascer.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+  },
+  "74734717": {
+   "fragment_id": "37439175",
+   "type": 11,
+   "heading": "Artigo 19.º — Inseminação com sémen de dador",
+   "in_force_from": "2016-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+   ],
+   "markdown": "###### Artigo 19.º — Inseminação com sémen de dador\n\n1 - É permitida a inseminação com sémen de um dador quando não puder obter-se a gravidez de outra forma.\n\n2 - O sémen do dador deve ser criopreservado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+  },
+  "74734718": {
+   "fragment_id": "37439275",
+   "type": 11,
+   "heading": "Artigo 20.º — Determinação da parentalidade",
+   "in_force_from": "2016-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+   ],
+   "markdown": "###### Artigo 20.º — Determinação da parentalidade\n\n1 - Se do recurso às técnicas de procriação medicamente assistida previstas na presente lei vier a resultar o nascimento de uma criança, é esta também havida como filha de quem, com a pessoa beneficiária, tiver consentido no recurso à técnica em causa, nos termos do artigo 14.º, nomeadamente a pessoa que com ela esteja casada ou unida de facto, sendo estabelecida a respetiva parentalidade no ato de registo.\n\n2 - Para efeitos do disposto no número anterior, e no caso de ausência no ato de registo de quem prestou o consentimento, pode ser exibido nesse mesmo ato documento comprovativo de que foi prestado o consentimento nos termos do artigo 14.º, sendo estabelecida a respetiva parentalidade.\n\n3 - Se apenas teve lugar o consentimento da pessoa submetida a técnica de PMA, nos termos do artigo 14.º, lavra-se apenas o registo de nascimento com a sua parentalidade estabelecida, sem necessidade de ulterior processo oficioso de averiguação.\n\n4 - O estabelecimento da parentalidade pode ser impugnado pela pessoa casada ou que viva em união de facto com a pessoa submetida a técnica de PMA, se for provado que não houve consentimento ou que a criança não nasceu da inseminação para que o consentimento foi prestado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+  },
+  "74734719": {
+   "fragment_id": "37439775",
+   "type": 11,
+   "heading": "Artigo 25.º — Destino dos embriões",
+   "in_force_from": "2016-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+   ],
+   "markdown": "###### Artigo 25.º — Destino dos embriões\n\n1 - Os embriões que, nos termos do artigo anterior, não tiverem de ser transferidos, devem ser criopreservados, comprometendo-se os beneficiários a utilizá-los em novo processo de transferência embrionária no prazo máximo de três anos.\n\n2 - A pedido das pessoas beneficiárias, em situações devidamente justificadas, o diretor do centro pode assumir a responsabilidade de alargar o prazo de criopreservação dos embriões por um novo período de três anos.\n\n3 - Decorrido o prazo de três anos referido no n.º 1, sem prejuízo das situações previstas no n.º 2, podem os embriões ser doados a outras pessoas beneficiárias cuja indicação médica de infertilidade o aconselhe, sendo os factos determinantes sujeitos a registo, ou doados para investigação científica nos termos previstos no artigo 9.º\n\n4 - O destino dos embriões previsto no número anterior só pode verificar-se mediante o consentimento dos beneficiários originários ou do que seja sobrevivo, aplicando-se, com as necessárias adaptações, o disposto no n.º 1 do artigo 14.º\n\n5 - Não ficam sujeitos ao disposto no n.º 1 os embriões cuja caracterização morfológica não indique condições mínimas de viabilidade.\n\n6 - Consentida a doação nos termos previstos no n.º 3, sem que nos seis anos subsequentes ao momento da criopreservação os embriões tenham sido utilizados por outras pessoas beneficiárias ou em projeto de investigação aprovado ao abrigo do artigo 9.º, podem os mesmos ser descongelados e eliminados, por determinação do diretor do centro.\n\n7 - Se não for consentida a doação nos termos previstos no n.º 3, logo que decorrido qualquer um dos prazos indicados no n.º 1 ou no n.º 2, podem os embriões ser descongelados e eliminados, por determinação do diretor do centro, comunicada previamente ao Conselho Nacional da Procriação Medicamente Assistida.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+  },
+  "74734720": {
+   "fragment_id": "37440375",
+   "type": 11,
+   "heading": "Artigo 31.º — Composição e mandato",
+   "in_force_from": "2016-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+   ],
+   "markdown": "###### Artigo 31.º — Composição e mandato\n\n1 - O CNPMA é composto por nove personalidades de reconhecido mérito que garantam especial qualificação no domínio das questões éticas, científicas, sociais e legais da PMA.\n\n2 - Os membros do CNPMA são designados da seguinte forma:\n\na) Cinco personalidades eleitas pela Assembleia da República;\n\nb) Quatro personalidades nomeadas pelos membros do Governo que tutelam a saúde e a ciência.\n\n3 - Os membros do Conselho elegem de entre si um presidente e um vice-presidente.\n\n4 - O mandato dos membros do Conselho é de cinco anos.\n\n5 - Cada membro do Conselho pode cumprir um ou mais mandatos.\n\n6 - Os membros do CNPMA mantêm-se em pleno exercício de funções até à tomada de posse dos novos membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+  },
+  "75184981": {
+   "fragment_id": "37437475",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - A presente lei aplica-se às seguintes técnicas de PMA:\n\na) Inseminação artificial;\n\nb) Fertilização in vitro;\n\nc) Injecção intracitoplasmática de espermatozóides;\n\nd) Transferência de embriões, gâmetas ou zigotos;\n\ne) Diagnóstico genético pré-implantação;\n\nf) Outras técnicas laboratoriais de manipulação gamética ou embrionária equivalentes ou subsidiárias.\n\n2 - A presente lei aplica-se ainda às situações de gestação de substituição previstas no artigo 8.º\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "75184982": {
+   "fragment_id": "37437575",
+   "type": 11,
+   "heading": "Artigo 3.º — Dignidade e não discriminação",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Dignidade e não discriminação\n\n1 - As técnicas de PMA, incluindo as realizadas no âmbito das situações de gestação de substituição, devem respeitar a dignidade humana de todas as pessoas envolvidas.\n\n2 - É proibida a discriminação com base no património genético ou no facto de se ter nascido em resultado da utilização de técnicas de PMA.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "75184983": {
+   "fragment_id": "37437775",
+   "type": 11,
+   "heading": "Artigo 5.º — Centros autorizados e pessoas qualificadas",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 5.º — Centros autorizados e pessoas qualificadas\n\n1 - As técnicas de PMA, incluindo as realizadas no âmbito das situações de gestação de substituição previstas no artigo 8.º, só podem ser ministradas em centros públicos ou privados expressamente autorizados para o efeito pelo Ministro da Saúde.\n\n2 - São definidos em diploma próprio, designadamente:\n\na) As qualificações exigidas às equipas médicas e ao restante pessoal de saúde;\n\nb) O modo e os critérios de avaliação periódica da qualidade técnica;\n\nc) As situações em que a autorização de funcionamento pode ser revogada.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "75184984": {
+   "fragment_id": "37438075",
+   "type": 11,
+   "heading": "Artigo 8.º — Gestação de substituição",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 8.º — Gestação de substituição\n\n1 - Entende-se por 'gestação de substituição' qualquer situação em que a mulher se disponha a suportar uma gravidez por conta de outrem e a entregar a criança após o parto, renunciando aos poderes e deveres próprios da maternidade.\n\n2 - A celebração de negócios jurídicos de gestação de substituição só é possível a título excecional e com natureza gratuita, nos casos de ausência de útero, de lesão ou de doença deste órgão que impeça de forma absoluta e definitiva a gravidez da mulher ou em situações clínicas que o justifiquem.\n\n3 - A gestação de substituição só pode ser autorizada através de uma técnica de procriação medicamente assistida com recurso aos gâmetas de, pelo menos, um dos respetivos beneficiários, não podendo a gestante de substituição, em caso algum, ser a dadora de qualquer ovócito usado no concreto procedimento em que é participante.\n\n4 - A celebração de negócios jurídicos de gestação de substituição carece de autorização prévia do Conselho Nacional de Procriação Medicamente Assistida, entidade que supervisiona todo o processo, a qual é sempre antecedida de audição da Ordem dos Médicos e apenas pode ser concedida nas situações previstas no n.º 2.\n\n5 - É proibido qualquer tipo de pagamento ou a doação de qualquer bem ou quantia dos beneficiários à gestante de substituição pela gestação da criança, exceto o valor correspondente às despesas decorrentes do acompanhamento de saúde efetivamente prestado, incluindo em transportes, desde que devidamente tituladas em documento próprio.\n\n6 - Não é permitida a celebração de negócios jurídicos de gestação de substituição quando existir uma relação de subordinação económica, nomeadamente de natureza laboral ou de prestação de serviços, entre as partes envolvidas.\n\n7 - A criança que nascer através do recurso à gestação de substituição é tida como filha dos respetivos beneficiários.\n\n8 - No tocante à validade e eficácia do consentimento das partes, ao regime dos negócios jurídicos de gestação de substituição e dos direitos e deveres das partes, bem como à intervenção do Conselho Nacional de Procriação Medicamente Assistida e da Ordem dos Médicos, é aplicável à gestação de substituição, com as devidas adaptações, o disposto no artigo 14.º da presente lei.\n\n9 - Os direitos e os deveres previstos nos artigos 12.º e 13.º são aplicáveis em casos de gestação de substituição, com as devidas adaptações, aos beneficiários e à gestante de substituição.\n\n10 - A celebração de negócios jurídicos de gestação de substituição é feita através de contrato escrito, estabelecido entre as partes, supervisionado pelo Conselho Nacional de Procriação Medicamente Assistida, onde devem constar obrigatoriamente, em conformidade com a legislação em vigor, as disposições a observar em caso de ocorrência de malformações ou doenças fetais e em caso de eventual interrupção voluntária da gravidez.\n\n11 - O contrato referido no número anterior não pode impor restrições de comportamentos à gestante de substituição, nem impor normas que atentem contra os seus direitos, liberdade e dignidade.\n\n12 - São nulos os negócios jurídicos, gratuitos ou onerosos, de gestação de substituição que não respeitem o disposto nos números anteriores.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "75184985": {
+   "fragment_id": "37438675",
+   "type": 11,
+   "heading": "Artigo 14.º — Consentimento",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 14.º — Consentimento\n\n1 - Os beneficiários devem prestar o seu consentimento livre, esclarecido, de forma expressa e por escrito, perante o médico responsável.\n\n2 - Para efeitos do disposto no número anterior, devem os beneficiários ser previamente informados, por escrito, de todos os benefícios e riscos conhecidos resultantes da utilização das técnicas de PMA, bem como das suas implicações éticas, sociais e jurídicas.\n\n3 - As informações constantes do número anterior devem constar de documento, a ser aprovado pelo Conselho Nacional de Procriação medicamente Assistida, através do qual os beneficiários prestam o seu consentimento.\n\n4 - O consentimento dos beneficiários é livremente revogável por qualquer deles até ao início dos processos terapêuticos de PMA.\n\n5 - O disposto nos números anteriores é aplicável à gestante de substituição nas situações previstas no artigo 8.º\n\n6 - Nas situações previstas no artigo 8.º, devem os beneficiários e a gestante de substituição ser ainda informados, por escrito, do significado da influência da gestante de substituição no desenvolvimento embrionário e fetal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "75184986": {
+   "fragment_id": "37438775",
+   "type": 11,
+   "heading": "Artigo 15.º — Confidencialidade",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 15.º — Confidencialidade\n\n1 - Todos aqueles que, por alguma forma, tomarem conhecimento do recurso a técnicas de PMA, incluindo nas situações de gestação de substituição, ou da identidade de qualquer dos participantes nos respetivos processos, estão obrigados a manter sigilo sobre a identidade dos mesmos e sobre o próprio ato da PMA.\n\n2 - As pessoas nascidas em consequência de processos de PMA com recurso a dádiva de gâmetas ou embriões podem, junto dos competentes serviços de saúde, obter as informações de natureza genética que lhes digam respeito, excluindo a identificação do dador.\n\n3 - Sem prejuízo do disposto no número anterior, as pessoas aí referidas podem obter informação sobre eventual existência de impedimento legal a projectado casamento, junto do Conselho Nacional de Procriação medicamente Assistida, mantendo-se a confidencialidade acerca da identidade do dador, excepto se este expressamente o permitir.\n\n4 - Sem prejuízo do disposto nos números anteriores, podem ainda ser obtidas informações sobre a identidade do dador por razões ponderosas reconhecidas por sentença judicial.\n\n5 - O assento de nascimento não pode, em caso algum, incluindo nas situações de gestação de substituição, conter indicação de que a criança nasceu da aplicação de técnicas de PMA.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "75184987": {
+   "fragment_id": "37438875",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo e conservação de dados",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 16.º — Registo e conservação de dados\n\n1 - Aos dados pessoais relativos aos processos de PMA, respetivos beneficiários, dadores, incluindo as gestantes de substituição, e crianças nascidas é aplicada a legislação de proteção de dados pessoais e de informação genética pessoal e informação de saúde.\n\n2 - Em diploma próprio, de acordo com a especificidade dos dados relativos à PMA, é regulamentado, nomeadamente, o período de tempo durante o qual os dados devem ser conservados, quem poderá ter acesso a eles e com que finalidade, bem como os casos em que poderão ser eliminadas informações constantes dos registos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "75184988": {
+   "fragment_id": "37440275",
+   "type": 11,
+   "heading": "Artigo 30.º — Conselho Nacional de Procriação medicamente Assistida",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 30.º — Conselho Nacional de Procriação medicamente Assistida\n\n1 - É criado o Conselho Nacional de Procriação medicamente Assistida, adiante designado por CNPMA, ao qual compete, genericamente, pronunciar-se sobre as questões éticas, sociais e legais da PMA.\n\n2 - São atribuições do CNPMA, designadamente:\n\na) Actualizar a informação científica sobre a PMA e sobre as técnicas reguladas pela presente legislação;\n\nb) Estabelecer as condições em que devem ser autorizados os centros onde são ministradas as técnicas de PMA, bem como os centros onde sejam preservados gâmetas ou embriões;\n\nc) Acompanhar a actividade dos centros referidos na alínea anterior, fiscalizando o cumprimento da presente lei, em articulação com as entidades públicas competentes;\n\nd) Dar parecer sobre a autorização de novos centros, bem como sobre situações de suspensão ou revogação dessa autorização;\n\ne) Dar parecer sobre a constituição de bancos de células estaminais, bem como sobre o destino do material biológico resultante do encerramento destes;\n\nf) Estabelecer orientações relacionadas com a DGPI, no âmbito dos artigos 28.º e 29.º da presente lei;\n\ng) Apreciar, aprovando ou rejeitando, os projectos de investigação que envolvam embriões, nos termos do artigo 9.º;\n\nh) Aprovar o documento através do qual os beneficiários das técnicas de PMA prestam o seu consentimento;\n\ni) Prestar as informações relacionadas com os dadores, nos termos e com os limites previstos no artigo 15.º;\n\nj) Pronunciar-se sobre a implementação das técnicas de PMA no Serviço Nacional de Saúde;\n\nl) Reunir as informações a que se refere o n.º 2 do artigo 13.º, efectuando o seu tratamento científico e avaliando os resultados médico-sanitários e psicossociológicos da prática da PMA;\n\nm) Definir o modelo dos relatórios anuais de actividade dos centros de PMA;\n\nn) Receber e avaliar os relatórios previstos na alínea anterior;\n\no) Contribuir para a divulgação das técnicas disponíveis e para o debate acerca das suas aplicabilidades;\n\np) Centralizar toda a informação relevante acerca da aplicação das técnicas de PMA, nomeadamente registo de dadores, incluindo as gestantes de substituição, beneficiários e crianças nascidas;\n\nq) Deliberar caso a caso sobre a utilização das técnicas de PMA para selecção de grupo HLA compatível para efeitos de tratamento de doença grave.\n\n3 - O CNPMA apresenta à Assembleia da República e aos Ministérios da Saúde e da Ciência e Tecnologia um relatório anual sobre as suas actividades e sobre as actividades dos serviços públicos e privados, descrevendo o estado da utilização das técnicas de PMA, formulando as recomendações que entender pertinentes, nomeadamente sobre as alterações legislativas necessárias para adequar a prática da PMA à evolução científica, tecnológica, cultural e social.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "75184989": {
+   "fragment_id": "39045375",
+   "type": 11,
+   "heading": "Artigo 34.º — Centros autorizados",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 34.º — Centros autorizados\n\nQuem aplicar técnicas de PMA, incluindo as realizadas no âmbito das situações de gestação de substituição previstas no artigo 8.º, fora dos centros autorizados é punido com pena de prisão até 3 anos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "75184990": {
+   "fragment_id": "39045875",
+   "type": 11,
+   "heading": "Artigo 39.º — Gestação de substituição",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 39.º — Gestação de substituição\n\n1 - Quem, enquanto beneficiário, concretizar contratos de gestação de substituição a título oneroso é punido com pena de prisão até 2 anos ou pena de multa até 240 dias.\n\n2 - Quem, enquanto gestante de substituição, concretizar contratos de gestação de substituição a título oneroso é punido com pena de multa até 240 dias.\n\n3 - Quem, enquanto beneficiário, concretizar contratos de gestação de substituição, a título gratuito, fora dos casos previstos nos n.os 2 a 6 do artigo 8.º é punido com pena de prisão até 1 ano ou pena de multa até 120 dias.\n\n4 - Quem, enquanto gestante de substituição, concretizar contratos de gestação de substituição, a título gratuito, fora dos casos previstos nos n.os 2 a 6 do artigo 8.º é punido com pena de multa até 120 dias.\n\n5 - Quem promover, por qualquer meio, designadamente através de convite direto ou por interposta pessoa, ou de anúncio público, a celebração de contratos de gestação de substituição fora dos casos previstos nos n.os 2 a 6 do artigo 8.º é punido com pena de prisão até 2 anos.\n\n6 - Quem, em qualquer circunstância, retirar benefício económico da celebração de contratos de gestação de substituição ou da sua promoção, por qualquer meio, designadamente através de convite direto ou por interposta pessoa, ou de anúncio público, é punido com pena de prisão até 5 anos.\n\n7 - A tentativa é punível.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "75184991": {
+   "fragment_id": "39046375",
+   "type": 11,
+   "heading": "Artigo 44.º — Contra-ordenações",
+   "in_force_from": "2016-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 44.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima de (euro) 10000 a (euro) 50000 no caso de pessoas singulares, sendo o máximo de (euro) 500000 no caso de pessoas colectivas:\n\na) A aplicação de qualquer técnica de PMA sem que, para tal, se verifiquem as condições previstas no artigo 4.º;\n\nb) A aplicação de qualquer técnica de PMA, incluindo as realizadas no âmbito das situações de gestação de substituição previstas no artigo 8.º, fora dos centros autorizados;\n\nc) A aplicação de qualquer técnica de PMA sem que, para tal, se verifiquem os requisitos previstos no artigo 6.º;\n\nd) A aplicação de qualquer técnica de PMA sem que o consentimento de qualquer dos beneficiários conste de documento que obedeça aos requisitos previstos no artigo 14.º\n\n2 - A negligência é punível, reduzindo-se para metade os montantes máximos previstos no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "107738320": {
+   "fragment_id": "37438375",
+   "type": 11,
+   "heading": "Artigo 11.º — Decisão médica e objecção de consciência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Decisão médica e objecção de consciência\n\n1 - Compete ao médico responsável propor aos beneficiários a técnica de PMA que, cientificamente, se afigure mais adequada quando outros tratamentos não tenham sido bem sucedidos, não ofereçam perspectivas de êxito ou não se mostrem convenientes segundo os preceitos do conhecimento médico.\n\n2 - Nenhum profissional de saúde pode ser obrigado a superintender ou a colaborar na realização de qualquer das técnicas de PMA se, por razões médicas ou éticas, entender não o dever fazer.\n\n3 - A recusa do profissional deve especificar as razões de ordem clínica ou de outra índole que a motivam, designadamente a objecção de consciência."
+  },
+  "107738321": {
+   "fragment_id": "37438475",
+   "type": 11,
+   "heading": "Artigo 12.º — Direitos dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direitos dos beneficiários\n\nSão direitos dos beneficiários:\n\na) Não ser submetidos a técnicas que não ofereçam razoáveis probabilidades de êxito ou cuja utilização comporte riscos significativos para a saúde da mãe ou do filho;\n\nb) Ser assistidos em ambiente médico idóneo que disponha de todas as condições materiais e humanas requeridas para a correcta execução da técnica aconselhável;\n\nc) Ser correctamente informados sobre as implicações médicas, sociais e jurídicas prováveis dos tratamentos propostos;\n\nd) Conhecer as razões que motivem a recusa de técnicas de PMA;\n\ne) Ser informados das condições em que lhes seria possível recorrer à adopção e da relevância social deste instituto."
+  },
+  "107738322": {
+   "fragment_id": "37438575",
+   "type": 11,
+   "heading": "Artigo 13.º — Deveres dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Deveres dos beneficiários\n\n1 - São deveres dos beneficiários:\n\na) Prestar todas as informações que lhes sejam solicitadas pela equipa médica ou que entendam ser relevantes para o correcto diagnóstico da sua situação clínica e para o êxito da técnica a que vão submeter-se;\n\nb) Observar rigorosamente todas as prescrições da equipa médica, quer durante a fase do diagnóstico quer durante as diferentes etapas do processo de PMA.\n\n2 - A fim de serem globalmente avaliados os resultados médico-sanitários e psicossociológicos dos processos de PMA, devem os beneficiários prestar todas as informações relacionadas com a saúde e o desenvolvimento das crianças nascidas com recurso a estas técnicas."
+  },
+  "107738323": {
+   "fragment_id": "37438675",
+   "type": 11,
+   "heading": "Artigo 14.º — Consentimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 14.º — Consentimento\n\n1 - Os beneficiários devem prestar o seu consentimento livre, esclarecido, de forma expressa e por escrito, perante o médico responsável.\n\n2 - Para efeitos do disposto no número anterior, devem os beneficiários ser previamente informados, por escrito, de todos os benefícios e riscos conhecidos resultantes da utilização das técnicas de PMA, bem como das suas implicações éticas, sociais e jurídicas.\n\n3 - As informações constantes do número anterior devem constar de documento, a ser aprovado pelo Conselho Nacional de Procriação medicamente Assistida, através do qual os beneficiários prestam o seu consentimento.\n\n4 - O consentimento dos beneficiários é livremente revogável por qualquer deles até ao início dos processos terapêuticos de PMA.\n\n5 - O disposto nos números anteriores é aplicável à gestante de substituição nas situações previstas no artigo 8.º\n\n6 - Nas situações previstas no artigo 8.º, devem os beneficiários e a gestante de substituição ser ainda informados, por escrito, do significado da influência da gestante de substituição no desenvolvimento embrionário e fetal.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "107738324": {
+   "fragment_id": "37438775",
+   "type": 11,
+   "heading": "Artigo 15.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 15.º — Confidencialidade\n\n1 - Todos aqueles que, por alguma forma, tomarem conhecimento do recurso a técnicas de PMA, incluindo nas situações de gestação de substituição, ou da identidade de qualquer dos participantes nos respetivos processos, estão obrigados a manter sigilo sobre a identidade dos mesmos e sobre o próprio ato da PMA.\n\n2 - As pessoas nascidas em consequência de processos de PMA com recurso a dádiva de gâmetas ou embriões podem, junto dos competentes serviços de saúde, obter as informações de natureza genética que lhes digam respeito, excluindo a identificação do dador.\n\n3 - Sem prejuízo do disposto no número anterior, as pessoas aí referidas podem obter informação sobre eventual existência de impedimento legal a projectado casamento, junto do Conselho Nacional de Procriação medicamente Assistida, mantendo-se a confidencialidade acerca da identidade do dador, excepto se este expressamente o permitir.\n\n4 - Sem prejuízo do disposto nos números anteriores, podem ainda ser obtidas informações sobre a identidade do dador por razões ponderosas reconhecidas por sentença judicial.\n\n5 - O assento de nascimento não pode, em caso algum, incluindo nas situações de gestação de substituição, conter indicação de que a criança nasceu da aplicação de técnicas de PMA.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "107738325": {
+   "fragment_id": "37438875",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo e conservação de dados",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 16.º — Registo e conservação de dados\n\n1 - Aos dados pessoais relativos aos processos de PMA, respetivos beneficiários, dadores, incluindo as gestantes de substituição, e crianças nascidas é aplicada a legislação de proteção de dados pessoais e de informação genética pessoal e informação de saúde.\n\n2 - Em diploma próprio, de acordo com a especificidade dos dados relativos à PMA, é regulamentado, nomeadamente, o período de tempo durante o qual os dados devem ser conservados, quem poderá ter acesso a eles e com que finalidade, bem como os casos em que poderão ser eliminadas informações constantes dos registos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "107738326": {
+   "fragment_id": "37438975",
+   "type": 11,
+   "heading": "Artigo 17.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Encargos\n\n1 - Os centros autorizados a ministrar técnicas de PMA não podem, no cálculo da retribuição exigível, atribuir qualquer valor ao material genético doado nem aos embriões doados.\n\n2 - O recurso às técnicas de PMA no âmbito do Serviço Nacional de Saúde é suportado nas condições que vierem a ser definidas em diploma próprio, tendo em conta o parecer do Conselho Nacional de Procriação medicamente Assistida."
+  },
+  "107738319": {
+   "fragment_id": "107745759",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Destino dos espermatozoides, ovócitos, tecido testicular e tecido ovárico",
+   "in_force_from": "2017-07-26",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 58/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2017-107745743), em vigor a partir de 2017-07-26"
+   ],
+   "markdown": "###### Artigo 16.º-A — Destino dos espermatozoides, ovócitos, tecido testicular e tecido ovárico\n\n1 - Os espermatozoides, ovócitos, tecido testicular e tecido ovárico, que sejam recolhidos e não sejam utilizados, são criopreservados por um prazo máximo de cinco anos.\n\n2 - A pedido dos beneficiários, em situações devidamente justificadas, o diretor do centro de procriação medicamente assistida (PMA) pode assumir a responsabilidade de alargar o prazo de criopreservação de espermatozoides, ovócitos, tecido testicular e tecido ovárico por um novo período de cinco anos, sucessivamente renovável por igual período.\n\n3 - Sem prejuízo do alargamento do prazo previsto no número anterior, decorrido o prazo de cinco anos referido no n.º 1, podem os espermatozoides, ovócitos, tecido testicular e tecido ovárico ser destruídos ou doados para investigação científica se outro destino não lhes for dado.\n\n4 - O destino dos espermatozoides, ovócitos, tecido testicular e tecido ovárico para fins de investigação científica, nos termos previstos no número anterior, só pode verificar-se mediante o consentimento livre, esclarecido, de forma expressa e por escrito, dos beneficiários originários, através de modelos de consentimento informado elaborados pelo Conselho Nacional de Procriação Medicamente Assistida, apresentado perante o médico responsável.\n\n5 - Consentida a doação, nos termos previstos no n.º 3, sem que nos 10 anos subsequentes ao momento da criopreservação os espermatozoides, ovócitos, tecido testicular e tecido ovárico tenham sido utilizados em projeto de investigação, podem os mesmos ser descongelados e eliminados, por determinação do diretor do centro de PMA.\n\n6 - Se não for consentida a doação, nos termos do n.º 4, logo que decorrido qualquer um dos prazos indicados no n.º 1 ou no n.º 2, podem os espermatozoides, ovócitos, tecido testicular e tecido ovárico ser descongelados e eliminados, por determinação do diretor do centro de PMA.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 58/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2017-107745743), em vigor a partir de 2017-07-26"
+  },
+  "107738327": {
+   "fragment_id": "37439075",
+   "type": 11,
+   "heading": "Artigo 18.º — Compra ou venda de óvulos, sémen ou embriões e outro material biológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Compra ou venda de óvulos, sémen ou embriões e outro material biológico\n\nÉ proibida a compra ou venda de óvulos, sémen ou embriões ou de qualquer material biológico decorrente da aplicação de técnicas de PMA."
+  },
+  "122472383": {
+   "fragment_id": "37437875",
+   "type": 11,
+   "heading": "Artigo 6.º — Beneficiários",
+   "in_force_from": "2019-02-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2019-02-10",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+   ],
+   "markdown": "###### Artigo 6.º — Beneficiários\n\n1 - Podem recorrer às técnicas de PMA os casais de sexo diferente ou os casais de mulheres, respetivamente casados ou casadas ou que vivam em condições análogas às dos cônjuges, bem como todas as mulheres independentemente do estado civil e da respetiva orientação sexual.\n\n2 - As técnicas só podem ser utilizadas em benefício de quem tenha, pelo menos, 18 anos de idade e desde que não exista uma sentença de acompanhamento que vede o recurso a tais técnicas.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 49/2018 - Diário da República n.º 156/2018, Série I de 2018-08-14](https://diariodarepublica.pt/dr/detalhe/lei/49-2018-116043536), em vigor a partir de 2019-02-10\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2016 - Diário da República n.º 116/2016, Série I de 2016-06-20](https://diariodarepublica.pt/dr/detalhe/lei/17-2016-74738646), em vigor a partir de 2016-08-01"
+  },
+  "123011481": {
+   "fragment_id": "37438775",
+   "type": 11,
+   "heading": "Artigo 15.º — Confidencialidade",
+   "in_force_from": "2019-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2019 - Diário da República n.º 128/2019, Série I de 2019-07-08](https://diariodarepublica.pt/dr/detalhe/lei/48-2019-122996204), em vigor a partir de 2019-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 15.º — Confidencialidade\n\n1 - Quem, por alguma forma, tomar conhecimento da identidade de participantes em técnicas de PMA, incluindo as situações de gestação de substituição, está obrigado a manter o sigilo sobre a identidade dos mesmos e sobre o próprio ato da PMA.\n\n2 - As pessoas nascidas em consequência de processos de PMA com recurso a dádiva de gâmetas ou embriões podem, junto dos competentes serviços de saúde, obter as informações de natureza genética que lhes digam respeito, bem como, desde que possuam idade igual ou superior a 18 anos, obter junto do Conselho Nacional de Procriação Medicamente Assistida informação sobre a identificação civil do dador.\n\n3 - As pessoas nascidas em consequência de processos de PMA, com recurso a dádiva de gâmetas ou embriões, desde que possuam idade igual ou superior a 16 anos, podem obter informação sobre eventual existência de impedimento legal a projetado casamento.\n\n4 - Para efeitos do n.º 2, entende-se como 'identificação civil' o nome completo do dador ou dadora.\n\n5 - Sem prejuízo do disposto nos números anteriores, podem ainda ser obtidas informações sobre a identidade do dador por razões ponderosas reconhecidas por sentença judicial.\n\n6 - O assento de nascimento não pode, em caso algum, incluindo nas situações de gestação de substituição, conter indicação de que a criança nasceu da aplicação de técnicas de PMA.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2019 - Diário da República n.º 128/2019, Série I de 2019-07-08](https://diariodarepublica.pt/dr/detalhe/lei/48-2019-122996204), em vigor a partir de 2019-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "174302690": {
+   "fragment_id": "37439475",
+   "type": 11,
+   "heading": "Artigo 22.º — Inseminação post mortem",
+   "in_force_from": "2021-11-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/72-2021-174244807), em vigor a partir de 2021-11-13"
+   ],
+   "markdown": "###### Artigo 22.º — Inseminação post mortem\n\n1 - De forma a concretizar um projeto parental claramente estabelecido e consentido, e decorrido o prazo considerado ajustado à adequada ponderação da decisão, é lícito, após a morte do marido ou do unido de facto:\n\na) Proceder à transferência post mortem de embrião;\n\nb) Realizar uma inseminação com sémen da pessoa falecida.\n\n2 - O estabelecido no número anterior é aplicável aos casos em que o sémen seja recolhido, com base em fundado receio de futura esterilidade, para fins de inseminação da mulher com quem o homem esteja casado ou viva em união de facto e o dador vier a falecer durante o período estabelecido para a conservação do sémen.\n\n3 - O sémen recolhido com base em fundado receio de futura esterilidade, sem que tenha sido prestado consentimento para a inseminação post mortem, é destruído se a pessoa vier a falecer durante o período estabelecido para a respetiva conservação.\n\n4 - O prazo referido no n.º 1 não deve ser inferior a seis meses, salvo razões clínicas ponderosas devidamente atestadas pelo médico que acompanha o procedimento.\n\n5 - Os procedimentos devem iniciar-se no prazo máximo de três anos contados da morte do marido ou unido de facto, podendo realizar-se um número máximo de tentativas idêntico ao que está fixado para os centros públicos.\n\n6 - A inseminação com sémen do marido ou do unido de facto, bem como a implantação post mortem de embrião, só pode ocorrer para a concretização de uma única gravidez da qual resulte nascimento completo e com vida.\n\n7 - É assegurado, a quem o requerer, acompanhamento psicológico no quadro da tomada de decisão de realização de uma inseminação post mortem, bem como durante e após o respetivo procedimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/72-2021-174244807), em vigor a partir de 2021-11-13"
+  },
+  "174302692": {
+   "fragment_id": "174279002",
+   "type": 11,
+   "heading": "Artigo 22.º-A — Requisitos do consentimento para a inseminação post mortem",
+   "in_force_from": "2021-11-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/72-2021-174244807), em vigor a partir de 2021-11-13"
+   ],
+   "markdown": "###### Artigo 22.º-A — Requisitos do consentimento para a inseminação post mortem\n\n1 - O consentimento para a inseminação post mortem referido no n.º 1 do artigo 22.º deve ser reduzido a escrito ou registado em videograma, após prestação de informação ao dador quanto às suas consequências jurídicas.\n\n2 - O consentimento referido no número anterior pode constar do documento em que é prestado o consentimento informado previsto no artigo 14.º, desde que conste de cláusula autónoma.\n\n3 - O documento de prestação de consentimento autorizando a inseminação post mortem referido nos números anteriores é comunicado ao Conselho Nacional de Procriação Medicamente Assistida para efeitos do seu registo centralizado.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/72-2021-174244807), em vigor a partir de 2021-11-13"
+  },
+  "174302693": {
+   "fragment_id": "37439575",
+   "type": 11,
+   "heading": "Artigo 23.º — Paternidade",
+   "in_force_from": "2021-11-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/72-2021-174244807), em vigor a partir de 2021-11-13"
+   ],
+   "markdown": "###### Artigo 23.º — Paternidade\n\n1 - Se, em virtude da inseminação realizada nos termos previstos nos artigos anteriores, resultar gravidez da mulher inseminada, a criança que vier a nascer é havida como filha do falecido.\n\n2 - Se a inseminação post mortem ocorrer em violação do disposto nos artigos anteriores, a criança que vier a nascer é havida como filha do falecido, sem prejuízo do disposto nos n.os 3 e 7.\n\n3 - (Anterior n.º 2.)\n\n4 - O disposto no número anterior não prejudica o direito de conhecimento da identidade genética por parte da criança que vier a nascer.\n\n5 - Existindo consentimento para a possibilidade de inseminação post mortem, a herança do progenitor falecido mantém-se jacente durante o prazo de três anos após a sua morte, o qual é prorrogado até ao nascimento completo e com vida do nascituro caso esteja pendente a realização dos procedimentos de inseminação permitidos nos termos do n.º 5 do artigo 22.º\n\n6 - Nos casos previstos no número anterior, a herança é posta em administração, nos termos da legislação aplicável.\n\n7 - A realização de procedimentos de inseminação post mortem sem consentimento do dador e que prejudiquem interesses patrimoniais de terceiros, designadamente direitos sucessórios, faz incorrer os seus autores no dever de indemnizar, sem prejuízo da efetivação da responsabilidade criminal prevista na presente lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/72-2021-174244807), em vigor a partir de 2021-11-13"
+  },
+  "174302694": {
+   "fragment_id": "174279003",
+   "type": 11,
+   "heading": "Artigo 42.º-A — Procriação post mortem sem consentimento",
+   "in_force_from": "2021-11-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/72-2021-174244807), em vigor a partir de 2021-11-13"
+   ],
+   "markdown": "###### Artigo 42.º-A — Procriação post mortem sem consentimento\n\nQuem, com a intenção de obter ganho próprio ou de causar prejuízo a alguém, participar em ato de inseminação com sémen do marido ou do unido de facto após a morte deste, bem como à transferência post mortem de embrião, sem o consentimento devido, é punido com pena de prisão até 2 anos ou multa de 240 dias.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 72/2021 - Diário da República n.º 220/2021, Série I de 2021-11-12](https://diariodarepublica.pt/dr/detalhe/lei/72-2021-174244807), em vigor a partir de 2021-11-13"
+  },
+  "174302695": {
+   "fragment_id": "39046275",
+   "type": 11,
+   "heading": "Artigo 43.º — Violação do dever de sigilo ou de confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Violação do dever de sigilo ou de confidencialidade\n\nQuem violar o disposto no artigo 15.º é punido com pena de prisão até 1 ano ou com pena de multa até 240 dias."
+  },
+  "174302696": {
+   "fragment_id": "74738663",
+   "type": 11,
+   "heading": "Artigo 43.º-A — Responsabilidade penal das pessoas colectivas e equiparadas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 59/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142), em vigor a partir de 2007-09-15"
+   ],
+   "markdown": "###### Artigo 43.º-A — Responsabilidade penal das pessoas colectivas e equiparadas\n\nAs pessoas colectivas e entidades equiparadas são responsáveis, nos termos gerais, pelos crimes previstos na presente lei.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 59/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142), em vigor a partir de 2007-09-15"
+  },
+  "175984733": {
+   "fragment_id": "37438075",
+   "type": 11,
+   "heading": "Artigo 8.º — Gestação de substituição",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 90/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/90-2021-175983728), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 8.º — Gestação de substituição\n\n1 - Entende-se por 'gestação de substituição' qualquer situação em que a mulher se disponha a suportar uma gravidez por conta de outrem e a entregar a criança após o parto, renunciando aos poderes e deveres próprios da maternidade.\n\n2 - A celebração de negócios jurídicos de gestação de substituição só é admissível a título excecional e com natureza gratuita, nos casos de ausência de útero, de lesão ou de doença deste órgão ou outra situação clínica que impeça de forma absoluta e definitiva a gravidez da mulher.\n\n3 - A gestante de substituição deve ser, preferencialmente, uma mulher que já tenha sido mãe, sem prejuízo das concretas circunstâncias do caso o poderem impedir.\n\n4 - A gestação de substituição só pode ser autorizada através de uma técnica de procriação medicamente assistida com recurso aos gâmetas de, pelo menos, um dos respetivos beneficiários, não podendo a gestante de substituição, em caso algum, ser a dadora de qualquer ovócito usado no concreto procedimento em que é participante.\n\n5 - A celebração de negócios jurídicos de gestação de substituição carece de autorização prévia do Conselho Nacional de Procriação Medicamente Assistida, entidade que supervisiona todo o processo, a qual é sempre antecedida de audição da Ordem dos Médicos e da Ordem dos Psicólogos e apenas pode ser concedida nas situações previstas no n.º 2 e desde que observadas as disposições contratuais previstas no n.º 13.\n\n6 - O pedido de autorização prévia para a celebração de contratos de gestação de substituição é apresentado através de formulário disponível no sítio eletrónico do Conselho Nacional de Procriação Medicamente Assistida, que cria o respetivo modelo, subscrito conjuntamente pelos beneficiários e pela gestante de substituição, devendo ser acompanhado da seguinte documentação:\n\na) Identificação dos beneficiários e da gestante de substituição;\n\nb) Aceitação das condições previstas no contrato de gestação de substituição por parte dos beneficiários e da gestante de substituição;\n\nc) Documentação médica, com origem no centro de PMA no qual as técnicas de PMA necessárias à concretização da gestação de substituição serão efetuadas, destinada a comprovar que estão preenchidas as condições previstas nos n.os 2 e 4;\n\nd) Declaração do diretor do centro de PMA no qual as técnicas de PMA necessárias à concretização da gestação de substituição serão efetuadas, aceitando a concretização nesse centro dos tratamentos a realizar.\n\n7 - É proibido qualquer tipo de pagamento ou a doação de qualquer bem ou quantia dos beneficiários à gestante de substituição pela gestação da criança, exceto o valor correspondente às despesas decorrentes do acompanhamento de saúde efetivamente prestado, incluindo em transportes, desde que devidamente tituladas em documento próprio.\n\n8 - Não é permitida a celebração de negócios jurídicos de gestação de substituição quando existir uma relação de subordinação económica, nomeadamente de natureza laboral ou de prestação de serviços, entre as partes envolvidas.\n\n9 - Sem prejuízo do disposto no número seguinte, a criança que nascer através do recurso à gestação de substituição é tida como filha dos respetivos beneficiários.\n\n10 - No tocante à validade e eficácia do consentimento das partes é aplicável à gestação de substituição, com as devidas adaptações, o disposto no artigo 14.º, com exceção do previsto no seu n.º 4 sobre o consentimento livremente revogável, sendo que nos casos de gestação de substituição o mesmo pode acontecer, por vontade da gestante, até ao registo da criança nascida.\n\n11 - Os direitos e os deveres previstos nos artigos 12.º e 13.º são aplicáveis, com as devidas adaptações, aos beneficiários dos contratos de gestação de substituição, sendo os direitos e os deveres da gestante de substituição os que se encontram previstos nos artigos 13.º-A e 13.º-B.\n\n12 - (Revogado.)\n\n13 - A celebração de negócios jurídicos de gestação de substituição é feita através de contrato escrito, estabelecido livremente entre as partes, supervisionado pelo Conselho Nacional de Procriação Medicamente Assistida, onde constam, obrigatoriamente, entre outras, cláusulas tendo por objeto:\n\na) As obrigações da gestante de substituição no que respeita ao cumprimento das orientações médicas do obstetra que segue a gravidez e da realização dos exames e atos terapêuticos por este considerados indispensáveis ao correto acompanhamento clínico da gravidez, tendo em vista assegurar a evolução normal da gravidez e o bem-estar da criança;\n\nb) Os direitos da gestante de substituição na participação nas decisões referentes à escolha do obstetra que segue a gravidez, do tipo de parto e do local onde o mesmo terá lugar;\n\nc) O direito da gestante de substituição a um acompanhamento psicológico antes, durante e após o parto;\n\nd) As obrigações e os direitos da gestante de substituição, tais como a possibilidade de recusa de se submeter a exames de diagnóstico, como a amniocentese, ou a possibilidade de realizar viagens em determinados meios de transporte ou fora do país no terceiro trimestre de gestação;\n\ne) A prestação de informação completa e adequada sobre as técnicas clínicas e os seus potenciais riscos para a saúde;\n\nf) A prestação de informação ao casal beneficiário e à gestante de substituição sobre o significado e as consequências da influência do estilo de vida da gestante no desenvolvimento embrionário e fetal;\n\ng) As disposições a observar sobre quaisquer intercorrências de saúde ocorridas na gestação, quer a nível fetal, quer a nível da gestante de substituição;\n\nh) As disposições a observar em caso de eventual interrupção voluntária da gravidez em conformidade com a legislação em vigor;\n\ni) A possibilidade de denúncia do contrato por qualquer das partes, no caso de se vir a verificar um determinado número de tentativas de gravidez falhadas e em que termos tal denúncia pode ter lugar;\n\nj) Os termos de revogação do consentimento ou do contrato em conformidade com a presente lei;\n\nk) A gratuitidade do negócio jurídico e a ausência de qualquer tipo de imposição, pagamento ou doação por parte do casal beneficiário a favor da gestante de substituição por causa da gestação da criança, para além do valor correspondente às despesas decorrentes do acompanhamento de saúde efetivamente prestado, incluindo em transportes;\n\nl) Os subsistemas ou seguros de saúde que podem estar associados ao objeto de contrato;\n\nm) A forma de resolução de conflitos a adotar pelas partes em caso de eventual divergência sobre a interpretação ou execução do negócio jurídico.\n\n14 - O contrato referido no número anterior não pode impor à gestante de substituição normas que atentem contra os seus direitos, nomeadamente os expressos no artigo 13.º-A.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 225/2018 - Diário da República n.º 87/2018, Série I de 2018-05-07](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/225-2018-115226940) Declara a inconstitucionalidade, com força obrigatória geral, das seguintes normas: dos n.os 4, 10, e 11 do art. 8.º, e, consequentemente, das normas dos n.os 2 e 3 do mesmo artigo, na parte em que admitem a celebração de negócios de gestação de substituição a título excecional e mediante autorização prévia; do n.º 8 do artigo 8.º, em conjugação com o n.º 5 do artigo 14.º da mesma Lei, na parte em que não admite a revogação do consentimento da gestante de substituição até à entrega da criança aos beneficiários; consequentemente, do n.º 7 do artigo 8.º; do n.º 12 do artigo 8.º; das normas do n.º 1, na parte em que impõe uma obrigação de sigilo absoluto relativamente às pessoas nascidas em consequência de processo de procriação medicamente assistida com recurso a dádiva de gâmetas ou embriões, incluindo nas situações de gestação de substituição, sobre o recurso a tais processos ou à gestação de substituição e sobre a identidade dos participantes nos mesmos como dadores ou enquanto gestante de substituição, e do n.º 4 do artigo 15.º.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 90/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/90-2021-175983728), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "175984737": {
+   "fragment_id": "175999501",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Direitos da gestante de substituição",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 90/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/90-2021-175983728), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 13.º-A — Direitos da gestante de substituição\n\n1 - Constituem direitos da gestante de substituição, designadamente:\n\na) Ser corretamente informada sobre as implicações médicas, psicológicas, sociais e jurídicas prováveis resultantes da celebração do contrato de gestação de substituição, nomeadamente dos riscos de potenciais complicações na gravidez;\n\nb) Ver concretizada a transferência de embrião em centro de PMA devidamente autorizado;\n\nc) Ser assistida em ambiente médico idóneo que disponha de todas as condições materiais e humanas necessárias e adequadas ao acompanhamento da gestação resultante do cumprimento do contrato de gestação de substituição;\n\nd) Ter acompanhamento psicológico antes, durante e após o parto;\n\ne) Ser acompanhada e ter acesso às prescrições feitas pelo médico responsável pelo acompanhamento de doença de que venha a padecer durante a gravidez, ainda que tal possa comprometer a viabilidade da gestação.\n\n2 - A celebração, por parte da gestante de substituição, de negócios jurídicos de gestação de substituição através de contrato escrito não diminui o exercício dos direitos fundamentais legalmente conferidos à mulher grávida ou puérpera, nomeadamente os de natureza social, laboral ou de qualquer outra.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 90/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/90-2021-175983728), em vigor a partir de 2022-01-01"
+  },
+  "175984744": {
+   "fragment_id": "175999502",
+   "type": 11,
+   "heading": "Artigo 13.º-B — Deveres da gestante de substituição",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 90/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/90-2021-175983728), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 13.º-B — Deveres da gestante de substituição\n\nConstituem deveres da gestante de substituição:\n\na) Prestar todas as informações que lhe sejam solicitadas pela equipa médica responsável pela transferência do embrião e todas as outras informações que entenda serem relevantes para o êxito da técnica a que vai submeter-se;\n\nb) Seguir todas as prescrições médicas determinadas pela equipa médica referida na alínea a);\n\nc) Prestar todas as informações que lhe sejam solicitadas pelo médico responsável pelo acompanhamento da gravidez e seguir todas as prescrições médicas por este determinadas;\n\nd) Observar os cuidados considerados normais, de acordo com as boas práticas médicas, da sua condição de grávida, incluindo no que respeita à realização de viagens em determinados meios de transporte no terceiro trimestre da gestação e ao estilo de vida a manter durante a gestação;\n\ne) Informar os beneficiários da verificação de qualquer facto impeditivo ou modificativo do modo de cumprimento do contrato de gestação de substituição, nomeadamente qualquer alteração no seu estado de saúde que possa comprometer a viabilidade da gravidez.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 90/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/90-2021-175983728), em vigor a partir de 2022-01-01"
+  },
+  "175984745": {
+   "fragment_id": "37438675",
+   "type": 11,
+   "heading": "Artigo 14.º — Consentimento",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 90/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/90-2021-175983728), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 14.º — Consentimento\n\n1 - Os beneficiários devem prestar o seu consentimento livre, esclarecido, de forma expressa e por escrito, perante o médico responsável.\n\n2 - Para efeitos do disposto no número anterior, devem os beneficiários ser previamente informados, por escrito, de todos os benefícios e riscos conhecidos resultantes da utilização das técnicas de PMA, bem como das suas implicações éticas, sociais e jurídicas.\n\n3 - As informações constantes do número anterior devem constar de documento, a ser aprovado pelo Conselho Nacional de Procriação medicamente Assistida, através do qual os beneficiários prestam o seu consentimento.\n\n4 - O consentimento dos beneficiários é livremente revogável por qualquer deles até ao início dos processos terapêuticos de PMA.\n\n5 - O disposto nos n.os 1, 2 e 3 é aplicável à gestante de substituição nas situações previstas no artigo 8.º, sendo, nestes casos, o seu consentimento livremente revogável até ao momento do registo da criança nascida, estabelecido no n.º 10 do artigo 8.º\n\n6 - Nas situações previstas no artigo 8.º, devem os beneficiários e a gestante de substituição ser ainda informados, por escrito, do significado da influência da gestante de substituição no desenvolvimento embrionário e fetal.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 90/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/90-2021-175983728), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "175984747": {
+   "fragment_id": "37438775",
+   "type": 11,
+   "heading": "Artigo 15.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2019 - Diário da República n.º 128/2019, Série I de 2019-07-08](https://diariodarepublica.pt/dr/detalhe/lei/48-2019-122996204), em vigor a partir de 2019-08-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 15.º — Confidencialidade\n\n1 - Quem, por alguma forma, tomar conhecimento da identidade de participantes em técnicas de PMA, incluindo as situações de gestação de substituição, está obrigado a manter o sigilo sobre a identidade dos mesmos e sobre o próprio ato da PMA.\n\n2 - As pessoas nascidas em consequência de processos de PMA com recurso a dádiva de gâmetas ou embriões podem, junto dos competentes serviços de saúde, obter as informações de natureza genética que lhes digam respeito, bem como, desde que possuam idade igual ou superior a 18 anos, obter junto do Conselho Nacional de Procriação Medicamente Assistida informação sobre a identificação civil do dador.\n\n3 - As pessoas nascidas em consequência de processos de PMA, com recurso a dádiva de gâmetas ou embriões, desde que possuam idade igual ou superior a 16 anos, podem obter informação sobre eventual existência de impedimento legal a projetado casamento.\n\n4 - Para efeitos do n.º 2, entende-se como 'identificação civil' o nome completo do dador ou dadora.\n\n5 - Sem prejuízo do disposto nos números anteriores, podem ainda ser obtidas informações sobre a identidade do dador por razões ponderosas reconhecidas por sentença judicial.\n\n6 - O assento de nascimento não pode, em caso algum, incluindo nas situações de gestação de substituição, conter indicação de que a criança nasceu da aplicação de técnicas de PMA.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 48/2019 - Diário da República n.º 128/2019, Série I de 2019-07-08](https://diariodarepublica.pt/dr/detalhe/lei/48-2019-122996204), em vigor a partir de 2019-08-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "175984746": {
+   "fragment_id": "37438875",
+   "type": 11,
+   "heading": "Artigo 16.º — Registo e conservação de dados",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 16.º — Registo e conservação de dados\n\n1 - Aos dados pessoais relativos aos processos de PMA, respetivos beneficiários, dadores, incluindo as gestantes de substituição, e crianças nascidas é aplicada a legislação de proteção de dados pessoais e de informação genética pessoal e informação de saúde.\n\n2 - Em diploma próprio, de acordo com a especificidade dos dados relativos à PMA, é regulamentado, nomeadamente, o período de tempo durante o qual os dados devem ser conservados, quem poderá ter acesso a eles e com que finalidade, bem como os casos em que poderão ser eliminadas informações constantes dos registos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  },
+  "175984748": {
+   "fragment_id": "107745759",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Destino dos espermatozoides, ovócitos, tecido testicular e tecido ovárico",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 58/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2017-107745743), em vigor a partir de 2017-07-26"
+   ],
+   "markdown": "###### Artigo 16.º-A — Destino dos espermatozoides, ovócitos, tecido testicular e tecido ovárico\n\n1 - Os espermatozoides, ovócitos, tecido testicular e tecido ovárico, que sejam recolhidos e não sejam utilizados, são criopreservados por um prazo máximo de cinco anos.\n\n2 - A pedido dos beneficiários, em situações devidamente justificadas, o diretor do centro de procriação medicamente assistida (PMA) pode assumir a responsabilidade de alargar o prazo de criopreservação de espermatozoides, ovócitos, tecido testicular e tecido ovárico por um novo período de cinco anos, sucessivamente renovável por igual período.\n\n3 - Sem prejuízo do alargamento do prazo previsto no número anterior, decorrido o prazo de cinco anos referido no n.º 1, podem os espermatozoides, ovócitos, tecido testicular e tecido ovárico ser destruídos ou doados para investigação científica se outro destino não lhes for dado.\n\n4 - O destino dos espermatozoides, ovócitos, tecido testicular e tecido ovárico para fins de investigação científica, nos termos previstos no número anterior, só pode verificar-se mediante o consentimento livre, esclarecido, de forma expressa e por escrito, dos beneficiários originários, através de modelos de consentimento informado elaborados pelo Conselho Nacional de Procriação Medicamente Assistida, apresentado perante o médico responsável.\n\n5 - Consentida a doação, nos termos previstos no n.º 3, sem que nos 10 anos subsequentes ao momento da criopreservação os espermatozoides, ovócitos, tecido testicular e tecido ovárico tenham sido utilizados em projeto de investigação, podem os mesmos ser descongelados e eliminados, por determinação do diretor do centro de PMA.\n\n6 - Se não for consentida a doação, nos termos do n.º 4, logo que decorrido qualquer um dos prazos indicados no n.º 1 ou no n.º 2, podem os espermatozoides, ovócitos, tecido testicular e tecido ovárico ser descongelados e eliminados, por determinação do diretor do centro de PMA.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 58/2017 - Diário da República n.º 142/2017, Série I de 2017-07-25](https://diariodarepublica.pt/dr/detalhe/lei/58-2017-107745743), em vigor a partir de 2017-07-26"
+  },
+  "175984749": {
+   "fragment_id": "37438975",
+   "type": 11,
+   "heading": "Artigo 17.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Encargos\n\n1 - Os centros autorizados a ministrar técnicas de PMA não podem, no cálculo da retribuição exigível, atribuir qualquer valor ao material genético doado nem aos embriões doados.\n\n2 - O recurso às técnicas de PMA no âmbito do Serviço Nacional de Saúde é suportado nas condições que vierem a ser definidas em diploma próprio, tendo em conta o parecer do Conselho Nacional de Procriação medicamente Assistida."
+  },
+  "175984750": {
+   "fragment_id": "37439075",
+   "type": 11,
+   "heading": "Artigo 18.º — Compra ou venda de óvulos, sémen ou embriões e outro material biológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Compra ou venda de óvulos, sémen ou embriões e outro material biológico\n\nÉ proibida a compra ou venda de óvulos, sémen ou embriões ou de qualquer material biológico decorrente da aplicação de técnicas de PMA."
+  },
+  "175984735": {
+   "fragment_id": "39045875",
+   "type": 11,
+   "heading": "Artigo 39.º — Gestação de substituição",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 90/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/90-2021-175983728), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+   ],
+   "markdown": "###### Artigo 39.º — Gestação de substituição\n\n1 - Quem, enquanto beneficiário, concretizar contratos de gestação de substituição a título oneroso é punido com pena de prisão até 2 anos ou pena de multa até 240 dias.\n\n2 - Quem, enquanto gestante de substituição, concretizar contratos de gestação de substituição a título oneroso é punido com pena de multa até 240 dias.\n\n3 - Quem, enquanto beneficiário, concretizar contratos de gestação de substituição, a título gratuito, fora dos casos previstos nos n.os 2, 4, 5, 7 e 8 do artigo 8.º é punido com pena de prisão até 1 ano ou pena de multa até 120 dias.\n\n4 - Quem, enquanto gestante de substituição, concretizar contratos de gestação de substituição, a título gratuito, fora dos casos previstos nos n.os 2, 4, 5, 7 e 8 do artigo 8.º é punido com pena de multa até 120 dias.\n\n5 - Quem promover, por qualquer meio, designadamente através de convite direto ou por interposta pessoa, ou de anúncio público, a celebração de contratos de gestação de substituição fora dos casos previstos nos n.os 2, 4, 5, 7 e 8 do artigo 8.º é punido com pena de prisão até 2 anos.\n\n6 - Quem, em qualquer circunstância, retirar benefício económico da celebração de contratos de gestação de substituição ou da sua promoção, por qualquer meio, designadamente através de convite direto ou por interposta pessoa, ou de anúncio público, é punido com pena de prisão até 5 anos.\n\n7 - A tentativa é punível.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 90/2021 - Diário da República n.º 242/2021, Série I de 2021-12-16](https://diariodarepublica.pt/dr/detalhe/lei/90-2021-175983728), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2016 - Diário da República n.º 160/2016, Série I de 2016-08-22](https://diariodarepublica.pt/dr/detalhe/lei/25-2016-75177806), em vigor a partir de 2016-09-01"
+  }
+ }
+}

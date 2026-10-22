@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:561631:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-984774778",
+ "dre_path": "/dr/detalhe/aviso/103-2005-561631",
+ "source_lastmod": "2026-10-07",
+ "versions": [
+  {
+   "date": "2005-04-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1177634375",
+    "984783475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1177634375": {
+   "fragment_id": "984783175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que, a 24 de Novembro de 2004, o Estado da Eritreia depositou, junto da República Federal da Alemanha, na qualidade de país depositário, o seu instrumento de adesão à Convenção sobre a Conservação das Espécies Migradoras Pertencentes à Fauna Selvagem, de 23 de Junho de 1979.\n\nPortugal é Parte na mesma Convenção, aprovada para ratificação pelo Decreto n.º 103/80, publicado no Diário da República, 1.ª série, n.º 236, de 11 de Outubro de 1980, tendo depositado o instrumento de ratificação em 21 de Janeiro de 1981 (Diário da República, 1.ª série-A, n.º 162, de 16 de Julho de 1998), e tendo a Convenção entrado em vigor em 1 de Novembro de 1983.\n\nA Convenção sobre a Conservação das Espécies Migradoras Pertencentes à Fauna Selvagem entrou em vigor para o Estado de Eritreia em 1 de Fevereiro de 2005, conforme o seu artigo XVIII, alínea 2)."
+  },
+  "984783475": {
+   "fragment_id": "984783375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Direcção-Geral dos Assuntos Multilaterais, 1 de Março de 2005. - O Director de Serviços das Organizações Económicas Internacionais, João Patrício."
+  }
+ }
+}

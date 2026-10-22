@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:694055:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-919971035",
+ "dre_path": "/dr/detalhe/aviso/212-2005-694055",
+ "source_lastmod": "2025-05-29",
+ "versions": [
+  {
+   "date": "2005-05-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "919959942"
+   ]
+  }
+ ],
+ "fragments": {
+  "919959942": {
+   "fragment_id": "919971036",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 212/2005\n\nPor ordem superior se torna público que a República da Guatemala depositou, em 30 de Setembro de 2004, o seu instrumento de ratificação ao Quarto Protocolo Adicional à Constituição da União Postal Universal, assinado em Washington em 14 de Dezembro de 1989.\n\nPortugal é Parte do mesmo Acto, aprovado para ratificação pela Resolução da Assembleia da República n.º 36-A/95, tendo sido ratificado pelo Decreto do Presidente da República n.º 64-A/95, publicados no Diário da República, 1.ª série-A, n.º 188 (suplemento), de 16 de Agosto de 1995.\n\nO Quarto Protocolo Adicional à Constituição da União Postal Universal entrou em vigor para a República da Guatemala em 14 de Janeiro de 2005."
+  }
+ }
+}

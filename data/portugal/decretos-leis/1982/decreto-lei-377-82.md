@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:375781:por
+title: Decreto-Lei n.º 377/82
+short_title: null
+summary: Regulamenta a componente agrícola do Projecto de Desenvolvimento Rural Integrado de Trás-os-Montes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano, da Administração Interna, da Agricultura, Comércio e Pescas e da Habitação, Obras Públicas
+  e Transportes
+proposing_entity: null
+official_number: 377/82
+official_date: null
+publication_date: '1982-09-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 213/1982, Série I de 1982-09-14
+  number: '213'
+  series: I
+  supplement: null
+  pages: 2765 - 2766
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/09/21300/27652766.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '375781'
+  dre_path: /dr/detalhe/decreto-lei/377-1982-375781
+  internal: pt:dre:375781:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1982-375781
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1982-375781
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: 5a74ec13225b41677e065e22f784f658614760dd0b30f859fde8e2fd6193a86b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-377-375781.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 377/82
+
+de 14 de Setembro
+
+A componente agrícola do Projecto de Desenvolvimento Rural Integrado de Trás-os-Montes procura contemplar propostas que, tendo em conta as realidades sociais e agro-ecológicas da área, visam maximizar o rendimento do sector agrário com base na possível racionalização e intensificação da agricultura.
+
+Nesta perspectiva, as intervenções no sector hidro-agrícola assumem particular relevância no âmbito do Projecto, pelos reflexos que tais intervenções podem provocar na evolução de uma agricultura tradicional.
+
+A região transmontana, por vicissitudes de vária ordem, não foi contemplada no passado com obras de fomento hidro-agrícola executadas pelo Estado, apesar da tradição de rega existente. Constitui exemplo bem elucidativo do interesse pela obra de rega a área de mais de 30000 ha de regadio tradicional actualmente existente e que constitui a base da agricultura de uma grande parte da região.
+
+Atendendo a que na área do Projecto predominam as pequenas empresas familiares, praticando uma agricultura tradicional e revelando, consequentemente, falta de motivação e de capacidade para investir, torna-se indispensável a adopção de medidas especiais de política de investimento capazes de mobilizar os agricultores.
+
+Apesar das áreas actualmente regadas, que constituem os chamados «regadios tradicionais» e que necessitam de melhoramento, outras áreas existem com capacidade para ser regadas, mediante a instalação de pequenos e médios aproveitamentos hidro-agrícolas que carecem das indispensáveis estruturas hidráulicas.
+
+Atendendo a que Trás-os-Montes é uma região deprimida, considera-se que os empreendimentos, nomeadamente os de carácter colectivo, carecem de ser objecto de tratamento de excepção, devendo o seu custo ser encarado, em grande parte, como investimento social.
+
+A legislação vigente não se ajusta satisfatoriamente à concepção do Projecto de Desenvolvimento Rural Integrado de Trás-os-Montes por forma a contemplar globalmente todos os aspectos e problemas decorrentes da implantação de obras de fomento hidro-agrícola, pelo que se torna indispensável a adopção de legislação especial, para o que foi concedida autorização legislativa ao Governo.
+
+A implementação destas obras justifica também que não sejam aplicados à zona abrangida por este Projecto os critérios de fixação de indemnizações definidos no Código das Expropriações - [Decreto-Lei n.º 845/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/845-1976-407956), de 11 de Dezembro - e sejam tomadas medidas específicas definindo os critérios a adoptar, atendendo a que na região os preços praticados atingem normalmente valores muito superiores ao valor real, devendo, portanto, a avaliação dos terrenos a expropriar ser feita com base nos valores venais, pois só assim o expropriado ficará com a possibilidade de concorrer no mercado, caso pretenda adquirir a área equivalente à que lhe foi expropriada.
+
+Nestes termos:
+
+Usando da autorização conferida pela [Lei n.º 15/82](https://diariodarepublica.pt/dr/detalhe/lei/15-1982-395901), de 16 de Junho, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º
+
+(Âmbito de aplicação)
+
+O âmbito de aplicação deste diploma coincide com a área de competência de acção da Direcção Regional de Agricultura de Trás-os-Montes, adiante abreviadamente designada por DRTM.
+
+###### ARTIGO 2.º
+
+(Definições)
+
+Para efeitos deste diploma, consideram-se:
+
+a) Regadios tradicionais - as áreas beneficiadas por obras hidro-agrícolas já existentes, de carácter colectivo e executadas por iniciativa privada;
+
+b) Novos pequenos aproveitamentos hidro-agrícolas - as obras de fomento hidro-agrícola que é necessário executar para beneficiar as áreas compreendidas entre 200 ha e 600 ha.
+
+###### ARTIGO 3.º
+
+(Melhoramento dos regadios tradicionais)
+
+1 - O custo dos materiais e da mão-de-obra especializada necessário ao melhoramento dos regadios tradicionais será financiado pelo Estado a fundo perdido.
+
+2 - O contributo dos agricultores das áreas a beneficiar será prestado através do fornecimento de mão-de-obra não especializada e do transporte de materiais para o local das obras.
+
+3 - A concepção e a direcção técnica das obras a realizar são da responsabilidade da DRTM.
+
+4 - Com vista à concretização e legalização das obras a realizar, será estabelecido um acordo entre a DRTM e os proprietários dos terrenos a beneficiar pelas obras.
+
+###### ARTIGO 4.º
+
+(Encargos de exploração e conservação)
+
+Os encargos resultantes da exploração e conservação das obras referidas serão integralmente suportados pelos beneficiários.
+
+###### ARTIGO 5.º
+
+(Gestão dos regadios tradicionais)
+
+A gestão dos aproveitamentos realizados será feita por cooperativas de rega ou por juntas de agricultores constituídas nos termos do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, salvaguardando-se os usos e costumes e as escrituras existentes na repartição das águas pelos utentes.
+
+###### ARTIGO 6.º
+
+(Novos pequenos e médios aproveitamentos hidro-agrícolas)
+
+1 - As obras referentes aos novos pequenos e médios aproveitamentos serão objecto de estudos de viabilidade adequados, levados a cabo pela DRTM em colaboração com a Direcção-Geral de Hidráulica e Engenharia Agrícola.
+
+2 - Os estudos de viabilidade serão submetidos à apreciação do Ministro da Agricultura, Comércio e Pescas, através da Direcção-Geral de Hidráulica e Engenharia Agrícola.
+
+3 - Uma vez aprovados os estudos de viabilidade, a DRTM e a Direcção-Geral de Hidráulica e Engenharia Agrícola responsabilizar-se-ão pela elaboração dos projectos de execução, que serão submetidos à apreciação do Ministro da Agricultura, Comércio e Pescas.
+
+4 - As obras a que respeitam esses projectos serão integralmente financiadas pelo Estado, sendo 80% do seu custo a fundo perdido.
+
+###### ARTIGO 7.º
+
+(Acordo dos beneficiários)
+
+1 - Os trabalhos correspondentes às obras referidas no n.º 4 do artigo 6.º só terão início depois do acordo escrito da maioria dos proprietários e das empresas agrícolas que representem pelo menos 50% da área a beneficiar.
+
+2 - O acordo será promovido e celebrado em reunião convocada pela DRTM e vincula todos os beneficiários.
+
+###### ARTIGO 8.º
+
+(Reembolso dos aproveitamentos)
+
+1 - O Estado será reembolsado de 20% do custo dos estudos, elaboração dos projectos e execução de cada um dos aproveitamentos realizados, por meio de uma anuidade fixa, a partir do 8.º ano após a conclusão das obras, ou seja, volvidos 2 ciclos de rotação quadrienal.
+
+2 - A anuidade é igual, para cada aproveitamento, à amortização em 20 anos de 20% do custo por hectare beneficiado e sem juro.
+
+3 - A referida anuidade constitui um ónus sobre o prédio, sujeito a registo, nos termos do n.º 7 do artigo 65.º do [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho, e a sua importância será cobrada conjuntamente com a contribuição predial, constando embora de documento separado.
+
+4 - Para efeitos da aplicação do disposto nos números anteriores, a DRTM promoverá a elaboração e o envio dos mapas referentes às anuidades estabelecidas para as respectivas repartições de finanças.
+
+###### ARTIGO 9.º
+
+(Gestão dos novos aproveitamentos)
+
+A gestão, exploração e conservação dos novos pequenos e médios aproveitamentos ficará a cargo de cooperativas de regas ou das juntas de agricultores previstas no [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho.
+
+###### ARTIGO 10.º
+
+(Critério de fixação das indemnizações)
+
+1 - Na fixação da justa indemnização resultante de expropriação por utilidade pública dos bens necessários à realização dos aproveitamentos, atender-se-á unicamente ao seu valor venal.
+
+2 - No cálculo do valor do bem expropriado ter-se-á em conta os valores referentes à venda de terrenos de potencialidade, afectação e localização semelhantes, efectuada nos 2 últimos anos.
+
+###### ARTIGO 11.º
+
+(Disposições gerais)
+
+Em tudo quanto não estiver contemplado neste diploma aplicar-se-á o disposto no [Decreto-Lei n.º 269/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/269-1982-394557), de 10 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 2 de Setembro de 1982. - Francisco José Pereira Pinto Balsemão.
+
+**Promulgado em 7 de Setembro de 1982.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

@@ -1,0 +1,555 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667146:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-976310948",
+ "dre_path": "/dr/detalhe/decreto-lei/321-a-1990-667146",
+ "source_lastmod": "2025-12-11",
+ "versions": [
+  {
+   "date": "1990-10-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "976410330",
+    "976410331",
+    "976410332",
+    "976410333",
+    "976410334",
+    "976410335",
+    "976410336",
+    "976410337",
+    "976410338",
+    "976410339",
+    "976410340",
+    "976410341",
+    "976410342",
+    "976410343",
+    "976410344",
+    "976410345",
+    "976410346",
+    "976410347",
+    "976410349",
+    "976410350",
+    "976410351",
+    "976410352",
+    "976410353",
+    "976410354",
+    "976410355",
+    "976410356",
+    "976410357",
+    "976410358",
+    "976410359",
+    "976410360",
+    "976410361",
+    "976410362",
+    "976410363",
+    "976410364",
+    "976410365",
+    "976410366",
+    "976410367",
+    "976410368",
+    "976410369",
+    "976410370",
+    "976410371",
+    "976410372",
+    "976410373",
+    "976410374",
+    "976410475",
+    "976410476",
+    "976410477",
+    "976410478"
+   ]
+  },
+  {
+   "date": "1990-11-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:689260:por",
+     "title": "Declaração",
+     "published": "1990-11-30",
+     "dre_path": "/dr/detalhe/declaracao/1990-689260"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 7.º",
+    "Retifica Artigo 4.º"
+   ],
+   "fragments": [
+    "976410330",
+    "976410331",
+    "976410332",
+    "976410333",
+    "976410334",
+    "976410335",
+    "976410336",
+    "976410482",
+    "976410338",
+    "976410339",
+    "976410340",
+    "976410341",
+    "976410342",
+    "976410343",
+    "976410344",
+    "976410345",
+    "976410346",
+    "976410347",
+    "976410348",
+    "976410349",
+    "976410350",
+    "976410351",
+    "976410352",
+    "976410353",
+    "976410354",
+    "976410483",
+    "976410356",
+    "976410357",
+    "976410480",
+    "976410358",
+    "976410359",
+    "976410360",
+    "976410361",
+    "976410362",
+    "976410363",
+    "976410364",
+    "976410365",
+    "976410366",
+    "976410367",
+    "976410368",
+    "976410369",
+    "976410370",
+    "976410371",
+    "976410372",
+    "976410373",
+    "976410374",
+    "976410475",
+    "976410476",
+    "976410477",
+    "976410478"
+   ]
+  }
+ ],
+ "fragments": {
+  "976410330": {
+   "fragment_id": "976310949",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 321-A/90\n\nde 15 de Outubro\n\nO processo de reprivatização constitui uma reforma fundamental da sociedade portuguesa, quer pela importância que ocupa na reestruturação e modernização do tecido económico nacional, quer pelo reforço e dinamização da actividade empresarial.\n\nO programa de reprivatizações que agora prossegue visa, em especial, alcançar os seguintes objectivos fundamentais:\n\nFortalecimento das empresas e dos sectores da economia nacional em que as mesmas se inserem, por forma a enfrentar com êxito os desafios de maior competitividade e concorrência da Europa comunitária;\n\nRedução do Estado na economia, fomentando a iniciativa empresarial privada;\n\nDisseminação do capital a alienar, permitindo a mobilização das poupanças individuais e familiares em benefício do investimento;\n\nDiminuição do elevado peso da dívida pública;\n\nSalvaguarda do interesse público.\n\nPara tanto, garante-se também a observância dos princípios fundamentais de transparência, rigor e isenção inerentes a todos os procedimentos necessários à realização destas operações, o que levou, dado o carácter muito peculiar dos títulos de participação emitidos pela empresa pública em causa, a prever para eles a possibilidade do regime próprio e excepcional que se edita no artigo 10.º\n\nOuvida a comissão de trabalhadores e tendo em atenção o disposto na Lei n.º 11/90, de 5 de Abril, o presente decreto-lei visa transformar a empresa pública Banco Português do Atlântico, E. P., em sociedade anónima, com vista a posterior alienação das acções representativas de 100% do respectivo capital social.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 11/90, de 5 de Abril, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "976410331": {
+   "fragment_id": "976310950",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A empresa pública Banco Português do Atlântico, E. P., criada pelo Decreto-Lei n.º 132-A/75, de 14 de Março, e organizada como empresa pública pelo Decreto-Lei n.º 729-F/75, de 22 de Dezembro, é transformada, pelo presente diploma, em sociedade anónima com a denominação de Banco Português do Atlântico, S. A.\n\n2 - O Banco Português do Atlântico, S. A., rege-se pelo presente diploma, pelos seus estatutos, pelas normas reguladoras das sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade."
+  },
+  "976410332": {
+   "fragment_id": "976310951",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O Banco Português do Atlântico, S. A., continua, sob a forma de sociedade anónima, a personalidade jurídica da empresa pública Banco Português do Atlântico, E. P., conservando todos os direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.\n\n2 - A transformação efectuada pelo artigo anterior em nada afecta os direitos e obrigações dos trabalhadores e pensionistas da empresa pública.\n\n3 - O presente diploma constitui título bastante para a comprovação do previsto no artigo anterior e para todos os efeitos legais, incluindo registos, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração do Banco Português do Atlântico, S. A."
+  },
+  "976410333": {
+   "fragment_id": "976310952",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nOs direitos do Estado, como accionista da sociedade, são exercidos por um representante designado por despacho do Ministro das Finanças."
+  },
+  "976410334": {
+   "fragment_id": "976310953",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O capital do Banco Português do Atlântico, S. A., é de 20000000000$00 e encontra-se realizado pelos valores integrantes do património da sociedade e é representado por 20000000 de acções, de valor nominal de 1000$00 cada uma.\n\n2 - O capital social do Banco Português do Atlântico, S, A., será aumentado até 30000000000$00 após a primeira fase da sua privatização.\n\n3 - As acções representativas do capital da sociedade poderão ser escriturais e, enquanto se mantiver a limitação de aquisição e posse de acções por entidades estrangeiras, serão obrigatoriamente nominativas ou ao portador em regime de registo."
+  },
+  "976410335": {
+   "fragment_id": "976310954",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - São aprovados os estatutos do Banco Português do Atlântico, S. A., anexos a este diploma.\n\n2 - As alterações efectuadas pelo artigo 1.º deste diploma, bem como os estatutos do Banco Português do Atlântico, S. A., agora aprovados, produzem efeitos relativamente a terceiros independentemente de registo que, no entanto, deve ser requerido nos 30 dias seguintes à entrada em vigor deste diploma.\n\n3 - As futuras alterações dos estatutos far-se-ão nos termos da lei comercial."
+  },
+  "976410336": {
+   "fragment_id": "976310955",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Nos termos e condições da Lei n.º 11/90, de 5 de Abril, e do presente diploma, é aprovada a alienação das acções representativas do capital do Banco Português do Atlântico, S. A., designado no n.º 1 do artigo 4.º\n\n2 - A reprivatização decorrente da alienação referida no número anterior será concretizada em três fases, realizando-se a primeira de imediato, com a respectiva regulamentação aprovada por resolução do Conselho de Ministros, e coincidindo a segunda com o aumento do capital social previsto no n.º 2 do artigo 4.º\n\n3 - As segunda e terceira fases serão ulteriormente estabelecidas mediante diplomas próprios, em condições e segundo qualquer das modalidades admitidas pela Lei n.º 11/90, de 5 de Abril."
+  },
+  "976410337": {
+   "fragment_id": "976310956",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - A primeira fase de reprivatização compreende a alienação de 6600000 acções do Banco Português do Atlântico, S. A., correspondentes a 33% do respectivo capital social.\n\n2 - Serão reservadas para aquisição por trabalhadores, pequenos subscritores e eventualmente emigrantes 1650000 acções, correspondentes a 25% do total a alienar referido no n.º 1 do artigo 4.º\n\n3 - Serão reservadas para aquisição por depositantes e residentes detentores de títulos de participação ou de obrigações emitidos pelo Banco Português do Atlântico, E. P., 1320000 acções, correspondentes a 20% do total a alienar referido no n.º 1.\n\n4 - As acções que não sejam reservadas nos termos dos números anteriores e destas as que não tenham sido adquiridas serão objecto de oferta pública de transacção em bolsa de valores.\n\n5 - As aquisições por entidades estrangeiras serão limitadas globalmente, por forma a ser respeitado o limite definido na alínea a) do n.º 1 do artigo 12.º\n\n6 - Para os efeitos do n.º 1 deste artigo entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da Lei n.º 11/90, de 5 de Abril."
+  },
+  "976410338": {
+   "fragment_id": "976310957",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - As aquisições de acções por trabalhadores serão sujeitas a quantidades máximas individuais a fixar mediante resolução do Conselho de Ministros.\n\n2 - As aquisições de acções por pequenos subscritores e emigrantes serão sujeitas a quantidades mínimas e máximas, a fixar mediante resolução do Conselho de Ministros, procedendo-se a rateio em função da procura não satisfeita, se for caso disso.\n\n3 - As aquisições de acções por depositantes, detentores de títulos de participação e de obrigações, mediante leilão competitivo, serão sujeitas a quantidades mínimas e máximas a fixar na resolução do Conselho de Ministros e segundo os critérios nela previstos.\n\n4 - A aquisição de acções pelo público em geral, mediante leilão competitivo, será sujeita a quantidades mínimas e máximas, a fixar na resolução do Conselho de Ministros.\n\n5 - Nenhuma entidade singular ou colectiva poderá adquirir, ao abrigo dos números anteriores, mais de 10% do capital da sociedade, sendo reduzidas a este limite as propostas de aquisição que o excedam e que estejam em condições de ser satisfeitas."
+  },
+  "976410339": {
+   "fragment_id": "976310958",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - A resolução do Conselho de Ministros definirá preços especiais, fixos, para as acções a adquirir por trabalhadores, pequenos subscritores e emigrantes.\n\n2 - O pagamento das acções subscritas por trabalhadores poderá ser fraccionado ao longo do período de intransmissibilidade das acções em condições a fixar na resolução do Conselho de Ministros.\n\n3 - A resolução do Conselho de Ministros fixará também o preço base para a aquisição nos leilões competitivos referidos nos n.os 3 e 4 do artigo anterior."
+  },
+  "976410340": {
+   "fragment_id": "976310959",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - Aquando do aumento do capital social, previsto no artigo 4.º, n.º 2, o Estado não exercerá em seu proveito o direito preferencial de subscrição inerente às suas acções, podendo o Conselho de Ministros resolver que uma parte do capital que o Estado poderia subscrever seja reservada para possuidores de títulos de participação emitidos pelo Banco por entradas em espécie com esses títulos e que os seus direitos de subscrição sejam parcialmente alienados em bolsa de valores.\n\n2 - Os termos em que poderá realizar-se a subscrição por entrada com títulos de participação serão regulados por resolução do Conselho de Ministros, que deverá considerar:\n\na) A valorização desses títulos, ponderando os preços de transacção desde 1 de Janeiro de 1990 até à data da publicação do presente diploma e a remuneração prevista relativa ao período de tempo que decorrer até à data da conversão;\n\nb) A valorização das acções igual ao preço de subscrição para os accionistas no uso do seu direito de preferência.\n\n3 - As acções a emitir que correspondam a direitos de subscrição dos accionistas ser-lhes-ão oferecidas a preço fixo, que ponderará a avaliação do Banco Português do Atlântico, S. A., os resultados da primeira fase de reprivatização e as transacções posteriormente efectuadas."
+  },
+  "976410341": {
+   "fragment_id": "976310960",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - As acções adquiridas ao abrigo do n.º 2 do artigo 7.º não podem ser oneradas, nem ser objecto de negócio jurídico que transmita ou tenda a transmitir a sua titularidade, ainda que com eficácia futura, durante o período de um ano a contar da data da respectiva aquisição, sob pena de nulidade do referido negócio.\n\n2 - As acções adquiridas por pequenos subscritores ou emigrantes ao abrigo do n.º 2 do artigo 7.º não conferem aos respectivos titulares o direito de voto na assembleia geral da sociedade durante o período de indisponibilidade previsto no número anterior.\n\n3 - As acções adquiridas por trabalhadores ao abrigo do n.º 2 do artigo 7.º não conferem aos respectivos titulares o direito a votar na assembleia geral por interposta pessoa durante o período de indisponibilidade previsto no n.º 1.\n\n4 - São nulos os acordos pelos quais os trabalhadores que tenham adquirido acções ao abrigo do n.º 2 do artigo 7.º se obriguem a votar em determinado sentido nas assembleias gerais a realizar durante o período de indisponibilidade previsto no n.º 1."
+  },
+  "976410342": {
+   "fragment_id": "976310961",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Enquanto não for ilimitada, por força de disposição legal, a aquisição e a posse, por entidades estrangeiras, de acções da sociedade reprivatizada, observar-se-á o seguinte:\n\na) Não podem ser inscritas ou averbadas a entidades estrangeiras acções representativas de mais de 5% das acções com direito de voto de que o Estado não seja titular;\n\nb) São nulos os acordos parassociais pelos quais a emissão ou sentido de voto de acções pertencentes a entidades portuguesas fiquem de alguma forma dependentes da vontade de entidades estrangeiras;\n\nc) Nas sociedades ordinárias ou gestoras de participações sociais, titulares de acções da sociedade reprivatizada, em que participem entidades estrangeiras não se aplicam a estas acções cláusulas dos respectivos contratos que subordinem a emissão ou o sentido do voto a qualquer requisito que não seja a maioria legalmente exigível para a tomada de deliberação do órgão interveniente.\n\n2 - Para os efeitos do número anterior, o conselho de administração poderá solicitar ao requerente da inscrição ou do averbamento as informações e provas que considerar necessárias."
+  },
+  "976410343": {
+   "fragment_id": "976310962",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Para efeitos deste diploma, consideram-se, nomeadamente, entidades estrangeiras:\n\na) As sociedades ou entidades equiparáveis, constituídas ao abrigo de lei estrangeira;\n\nb) As sociedades com sede em Portugal que, nos termos do artigo 486.º do Código das Sociedades Comerciais, sejam dominadas, directa ou indirectamente, por entidades referidas na alínea anterior.\n\n2 - Para efeitos deste diploma, consideram-se como a mesma entidade duas ou mais entidades que tenham entre si relações de simples participação ou relações de participação recíproca de valor superior a 50% do capital social de uma delas, ou que sejam dominadas por um mesmo accionista.\n\n3 - Cada entidade colectiva concorrente declarará, por escrito, se se encontra ou não em relação prevista no número anterior com outra entidade também concorrente."
+  },
+  "976410344": {
+   "fragment_id": "976310963",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - Enquanto o Estado detiver pelo menos 5% do capital da sociedade:\n\na) O Governo poderá designar um dos membros do conselho de administração e, além disso, as deliberações da assembleia geral que tenham por objecto a fusão, cisão, transformação, dissolução, alteração dos estatutos, incluindo o aumento e a redução do capital social, só se considerarão tomadas se não forem votadas desfavoravelmente pelo representante do Estado;\n\nb) Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará ao Ministério das Finanças, pelo menos 30 dias antes da data da assembleia geral anual, o relatório de gestão e as contas do exercício e quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência de gestão e perspectivas da sua evolução.\n\n2 - O administrador nomeado pelo Governo tem a competência, direitos e deveres definidos na lei para os administradores por parte do Estado."
+  },
+  "976410345": {
+   "fragment_id": "976310964",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nO Conselho de Ministros aprovará, mediante resolução, as condições finais para a concretização das operações de execução do presente diploma."
+  },
+  "976410346": {
+   "fragment_id": "976310965",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nFica desde já convocada a Assembleia geral do Banco Português do Atlântico, S. A., para eleger os corpos sociais e deliberar sobre a respectiva remuneração, a qual reunirá até 30 dias após a data da publicação do presente diploma, mantendo-se em funções até à tomada de posse dos novos corpos sociais os actuais membros do conselho de gestão e comissão de fiscalização."
+  },
+  "976410347": {
+   "fragment_id": "976310966",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nEste decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "976410349": {
+   "fragment_id": "976310968",
+   "type": 14,
+   "heading": "Anexo Estatutos da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo Estatutos da sociedade"
+  },
+  "976410350": {
+   "fragment_id": "976310969",
+   "type": 1,
+   "heading": "Capítulo I — Firma, sede, objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Firma, sede, objecto"
+  },
+  "976410351": {
+   "fragment_id": "976310970",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A sociedade anónima que, por força do Decreto-Lei n.º 321-A/90, de 15 de Outubro, continua a personalidade jurídica da empresa pública Banco Português do Atlântico adopta a denominação de Banco Português do Atlântico, S. A.\n\n2 - A sociedade rege-se pelo Decreto-Lei n.º 321-A/90, de 15 de Outubro, pelos presentes Estatutos, pelas normas reguladoras das sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade."
+  },
+  "976410352": {
+   "fragment_id": "976310971",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A sociedade tem a sede na Praça de D. João I, 28, na cidade do Porto.\n\n2 - O conselho de administração, ouvido o conselho fiscal, pode criar e encerrar em qualquer ponto do território nacional ou fora dele agências, delegações ou quaisquer formas de representação."
+  },
+  "976410353": {
+   "fragment_id": "976310972",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O objecto da sociedade é o exercício da actividade bancária, podendo praticar todas as operações bancárias e financeiras que a lei permite aos bancos comerciais.\n\n2 - A sociedade pode participar em agrupamentos complementares de empresas e agrupamentos europeus de interesse económico e, bem assim, adquirir, originária ou subsequentemente, acções ou quotas em sociedades de responsabilidade limitada, qualquer que seja o objecto destas e embora sujeitas a leis especiais."
+  },
+  "976410354": {
+   "fragment_id": "976310973",
+   "type": 1,
+   "heading": "Capítulo II — Capital, acções, obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital, acções, obrigações"
+  },
+  "976410355": {
+   "fragment_id": "976310974",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O capital da sociedade é de 20000000000$00 e encontra-se totalmente realizado.\n\n2 - O capital social é representado por 20000000000 de acções com valor nominal de 1000$00 cada uma."
+  },
+  "976410356": {
+   "fragment_id": "976410375",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As acções são nominativas ou ao portador em regime de registo, não podendo ser convertidas em acções ao portador enquanto não for ilimitada, por força de disposição legal, a aquisição e posse de acções da sociedade.\n\n2 - As acções podem ser emitidas como acções escriturais.\n\n3 - Sendo tituladas, as acções são representadas em títulos de 1, 5, 10, 100, 1000, 10000 e 100000 acções.\n\n4 - A sociedade pode emitir acções preferenciais sem voto, nos termos do artigo 341.º do Código das Sociedades Comerciais."
+  },
+  "976410357": {
+   "fragment_id": "976410376",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos sociais"
+  },
+  "976410358": {
+   "fragment_id": "976410377",
+   "type": 8,
+   "heading": "Secção I — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Assembleia geral"
+  },
+  "976410359": {
+   "fragment_id": "976410378",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nA assembleia geral delibera sobre todos os assuntos para os quais a lei e estes Estatutos lhe atribuem competência."
+  },
+  "976410360": {
+   "fragment_id": "976410379",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - Sem prejuízo do direito de agrupamento conferido pelo artigo 379.º, n.º 3, do Código das Sociedades Comerciais, podem participar na assembleia geral, dentro dos limites impostos pela legislação vigente, os accionistas com direito, pelo menos, a um voto.\n\n2 - A cada 100 acções corresponderá um voto.\n\n3 - Não são consideradas para efeito de participação em assembleia geral as transmissões de acções efectuadas durante os oito dias que precedem a reunião de cada assembleia em primeira convocação."
+  },
+  "976410361": {
+   "fragment_id": "976410380",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, cujas faltas serão supridas nos termos da lei."
+  },
+  "976410362": {
+   "fragment_id": "976410381",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - O accionista pode fazer-se representar na assembleia geral, contanto que o representante seja um membro do conselho de administração da sociedade, o cônjuge, ascendente ou descendente do accionista ou outro accionista.\n\n2 - No aviso convocatório da assembleia pode ser fixado um prazo, não superior a oito dias antes da reunião da assembleia, para a recepção, pelo presidente da mesa, dos instrumentos de representação de accionistas, e bem assim da indicação dos representantes de pessoas colectivas."
+  },
+  "976410363": {
+   "fragment_id": "976410382",
+   "type": 8,
+   "heading": "Secção II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho de administração"
+  },
+  "976410364": {
+   "fragment_id": "976410383",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - O conselho de administração é composto por um presidente e por seis ou oito vogais, eleitos em assembleia geral entre accionistas ou não accionistas.\n\n2 - O presidente do conselho de administração é escolhido pela assembleia geral de entre os administradores eleitos.\n\n3 - O presidente do conselho de administração tem voto de qualidade."
+  },
+  "976410365": {
+   "fragment_id": "976410384",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO conselho de administração pode delegar poderes nos termos do artigo 407.º do Código das Sociedades Comerciais."
+  },
+  "976410366": {
+   "fragment_id": "976410385",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nA sociedade é representada:\n\na) Por dois administradores;\n\nb) Pelos administradores-delegados, dentro dos limites da delegação do conselho;\n\nc) Por procuradores, quanto aos actos ou categorias de actos definidos nas procurações."
+  },
+  "976410367": {
+   "fragment_id": "976410386",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1 - O conselho de administração deve reunir, pelo menos, uma vez por mês.\n\n2 - O conselho de administração não pode deliberar sem que esteja presente a maioria dos seus membros.\n\n3 - Não é permitida a representação de mais de um administrador em cada reunião."
+  },
+  "976410368": {
+   "fragment_id": "976410387",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - As remunerações dos administradores serão fixadas pela assembleia geral ou por uma comissão de accionistas por aquela nomeada por períodos de quatro anos.\n\n2 - A remuneração pode consistir parcialmente numa percentagem dos lucros de exercício, que não poderá exceder globalmente 1%, depois de deduzida a importância destinada a reserva legal."
+  },
+  "976410369": {
+   "fragment_id": "976410388",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs administradores terão direito a reforma por velhice ou invalidez, ou a complementos de pensão de reforma, nos termos que vierem a constar de regulamentos a aprovar pela assembleia geral."
+  },
+  "976410370": {
+   "fragment_id": "976410389",
+   "type": 8,
+   "heading": "Secção III — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho fiscal"
+  },
+  "976410371": {
+   "fragment_id": "976410390",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - O conselho fiscal é composto por três membros efectivos.\n\n2 - Haverá um suplente."
+  },
+  "976410372": {
+   "fragment_id": "976410391",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nO conselho fiscal tem a competência, os poderes e os deveres estabelecidos na lei e nestes Estatutos."
+  },
+  "976410373": {
+   "fragment_id": "976410392",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO conselho fiscal deve reunir, pelo menos, uma vez em cada mês."
+  },
+  "976410374": {
+   "fragment_id": "976410393",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs remunerações dos membros do conselho fiscal serão fixadas pela assembleia geral e devem ser certas."
+  },
+  "976410475": {
+   "fragment_id": "976410394",
+   "type": 1,
+   "heading": "Capítulo IV — Aplicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Aplicação dos resultados"
+  },
+  "976410476": {
+   "fragment_id": "976410395",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs lucros de exercício, apurados em conformidade com a lei, serão aplicados sucessivamente para:\n\na) Cobertura dos prejuízos de exercícios anteriores;\n\nb) Constituição e eventualmente reintegração da reserva legal e de outras reservas que a lei determinar;\n\nc) Remuneração dos administradores e gratificação dos trabalhadores, se disso for caso;\n\nd) Constituição, reforço ou reintegração de outras reservas, conforme a assembleia geral deliberar;\n\ne) Dividendos a distribuir aos accionistas."
+  },
+  "976410477": {
+   "fragment_id": "976410396",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "976410478": {
+   "fragment_id": "976410397",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - A sociedade dissolve-se quando para isso haja causa legal.\n\n2 - A liquidação será efectuada nos termos da lei e das deliberações da assembleia geral."
+  },
+  "976410482": {
+   "fragment_id": "976310956",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1990-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 277/1990, 3º Suplemento, Série I de 1990-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-689260), em vigor a partir de 1990-11-30"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - A primeira fase de reprivatização compreende a alienação de 6600000 acções do Banco Português do Atlântico, S. A., correspondentes a 33% do respectivo capital social.\n\n2 - Serão reservadas para aquisição por trabalhadores, pequenos subscritores e eventualmente emigrantes 1650000 acções, correspondentes a 25% do total a alienar referido no n.º 1.\n\n3 - Serão reservadas para aquisição por depositantes e residentes detentores de títulos de participação ou de obrigações emitidos pelo Banco Português do Atlântico, E. P., 1320000 acções, correspondentes a 20% do total a alienar referido no n.º 1.\n\n4 - As acções que não sejam reservadas nos termos dos números anteriores e destas as que não tenham sido adquiridas serão objecto de oferta pública de transacção em bolsa de valores.\n\n5 - As aquisições por entidades estrangeiras serão limitadas globalmente, por forma a ser respeitado o limite definido na alínea a) do n.º 1 do artigo 12.º\n\n6 - Para os efeitos do n.º 1 deste artigo entendem-se como trabalhadores as pessoas definidas pelo artigo 12.º da Lei n.º 11/90, de 5 de Abril.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 277/1990, 3º Suplemento, Série I de 1990-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-689260), em vigor a partir de 1990-11-30"
+  },
+  "976410348": {
+   "fragment_id": "976310967",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Setembro de 1990. - Aníbal António Cavaco Silva - José Oliveira Costa - Álvaro José Brilhante Laborinho Lúcio.\n\nPromulgado em 12 de Outubro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 15 de Outubro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "976410483": {
+   "fragment_id": "976310974",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1990-11-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 277/1990, 3º Suplemento, Série I de 1990-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-689260), em vigor a partir de 1990-11-30"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - O capital da sociedade é de 20000000000$00 e encontra-se totalmente realizado.\n\n2 - O capital social é representado por 20000000 de acções com valor nominal de 1000$00 cada uma.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 277/1990, 3º Suplemento, Série I de 1990-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1990-689260), em vigor a partir de 1990-11-30"
+  },
+  "976410480": {
+   "fragment_id": "976410400",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - São órgãos sociais a assembleia geral, o conselho de administração e o conselho fiscal.\n\n2 - A mesa da assembleia geral e os membros do conselho de administração e do conselho fiscal serão eleitos pela assembleia geral, que designará igualmente os respectivos presidentes.\n\n3 - O mandato dos membros dos órgãos sociais tem duração de três anos, sendo permitida a sua renovação por uma ou mais vezes.\n\n4 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à eleição de quem deva substituí-los."
+  }
+ }
+}

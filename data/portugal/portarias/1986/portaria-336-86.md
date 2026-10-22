@@ -1,0 +1,339 @@
+---
+schema_version: '1.0'
+id: pt:dre:228259:por
+title: Portaria n.º 336/86
+short_title: null
+summary: Fixa as condições de aplicação do regime de intervenção para a manteiga e para o leite em pó magro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio
+proposing_entity: null
+official_number: 336/86
+official_date: null
+publication_date: '1986-07-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 151/1986, Série I de 1986-07-04
+  number: '151'
+  series: I
+  supplement: null
+  pages: 1592 - 1594
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/07/15100/15921594.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '228259'
+  dre_path: /dr/detalhe/portaria/336-1986-228259
+  internal: pt:dre:228259:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/336-1986-228259
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/336-1986-228259
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-07-07T00:00:00Z'
+integrity:
+  source_sha256: 75cdbf717a18619f280b4d15a7ba6f3d2e5b0b87ca22adc9da8d7c1c7f832d42
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-336-228259.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:345293:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 336/86
+
+de 4 de Julho
+
+Considerando que o [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), de 31 de Dezembro, com a nova redacção que lhe foi dada pelo [Decreto-Lei n.º 180/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1986-228261), prevê um regime de intervenção para a manteiga e outro para o leite em pó, cujas condições de aplicação importa agora fixar:
+
+Ouvidos os Governos das Regiões Autónomas dos Açores e da Madeira:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, ao abrigo do n.º 1 do artigo 10.º e do n.º 1 do artigo 11.º, ambos do [Decreto-Lei n.º 513/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/513-1985-546419), de 31 de Dezembro, com a nova redacção que lhes foi dada pelo [Decreto-Lei n.º 180/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/180-1986-228261), o seguinte:
+
+Regime de intervenção para a manteiga
+
+1.º O organismo de intervenção com competência na organização do mercado do leite e produtos lácteos só compra a manteiga que preencha os seguintes requisitos:
+
+a) Tenha sido fabricada por uma empresa licenciada de acordo com a legislação em vigor e que possua instalações técnicas apropriadas garantes de uma boa conservação do produto;
+
+b) Tenha a composição e as características definidas no anexo I à presente portaria;
+
+c) Tenha sido fabricada a partir de nata pasteurizada sem adição de sal;
+
+d) Tenha sido objecto de um controle de qualidade na base de análises sobre amostras pré-colhidas efectuadas pelas entidades reconhecidas para o efeito pelo organismo de intervenção, as quais, no caso da Região Autónoma dos Açores, serão colhidas nesta Região;
+
+e) Tenha sido fabricada durante os 30 dias que precedem a data de apresentação do pedido de compra ao organismo de intervenção;
+
+f) Tenha sido mantida a uma temperatura não superior a 6ºC até à entrega no entreposto frigorífico.
+
+2.º A compra de manteiga obedece ainda às seguintes condições:
+
+a) A quantidade mínima de compra é de 10 t;
+
+b) A embalagem é em blocos de 25 kg de peso líquido, devendo ser nova, de material resistente e concebida de maneira a assegurar a protecção da manteiga ao longo das operações de transporte, armazenamento e escoamento;
+
+c) A embalagem deve ainda conter, pelo menos, as seguintes indicações:
+
+A designação do produto;
+
+A identificação do fabricante;
+
+A data de fabrico;
+
+O número do lote;
+
+O número de embalagem do lote, entendendo-se por lote de fabrico a quantidade de manteiga obtida em condições uniformes, acondicionada da mesma forma e produzida num só dia.
+
+3.º A manteiga é entregue num entreposto frigorífico previamente designado pelo organismo de intervenção, sem prejuízo do disposto no número seguinte.
+
+4.º No caso da manteiga de fabrico açoriano a sua entrega realiza-se em Lisboa, cabendo ao organismo de intervenção suportar todas as despesas inerentes a partir do cais de embarque nos Açores, incluindo o transporte e seguro, mediante apresentação de documentação comprovativa.
+
+5.º Sem prejuízo do disposto no número seguinte, qualquer fabricante que pretenda entregar manteiga à intervenção deve contactar o organismo de intervenção, que verificará a existência ou não de excedentes de produção.
+
+6.º No caso da Região Autónoma dos Açores o fabricante deve contactar o departamento competente do Governo Regional, que verificará a existência ou não de excedentes de produção, que disso informará o organismo de intervenção.
+
+7.º O Governo decidirá da compra dos excedentes mediante proposta do organismo de intervenção, através de despacho conjunto dos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+
+8.º Os fabricantes só podem entregar ao organismo de intervenção manteiga da sua própria produção.
+
+9.º O pagamento da manteiga é efectuado no prazo de 60 dias a contar da data da entrega do produto ao organismo de intervenção.
+
+10.º Sempre que o produto apresentado à intervenção não estiver conforme com as normas de qualidade exigidas nos termos desta portaria o vendedor deverá:
+
+a) Levantar a mercadoria em causa;
+
+b) Pagar as despesas de armazenagem das quantidades avariadas abrangidas a partir do dia de entrada no entreposto frigorífico até à data de levantamento; e
+
+c) Se o pagamento tiver sido já efectuado, reembolsar o organismo de intervenção do preço da mercadoria avariada, calculado na base do preço de compra.
+
+11.º As despesas de armazenagem são fixadas forfetariamente por tonelada e da seguinte maneira:
+
+a) Um montante para as despesas fixas;
+
+b) Um montante por dia de armazenagem para as despesas do entreposto frigorífico; e
+
+c) Se o pagamento já tiver sido efectuado, as despesas financeiras calculadas a partir do dia de pagamento, na base do preço de compra e da taxa de juro anual em vigor no mercado.
+
+12.º A venda da manteiga intervencionada respeitará um preço mínimo de venda a fixar pelo organismo de intervenção, em colaboração com a Direcção-Geral de Concorrência e Preços.
+
+13.º A igualdade de acesso de todos os compradores à manteiga vendida pelo organismo de intervenção deverá ser sempre assegurada, quer se trate de venda sob a forma de adjudicação, quer de venda directa a todo o interessado, quer ainda por outra forma.
+
+14.º As ofertas apresentadas com vista a uma adjudicação só serão tomadas em consideração mediante a constituição de uma caução a determinar pelo organismo de intervenção.
+
+15.º A manteiga só pode ser armazenada em entrepostos frigoríficos designados pelo organismo de intervenção.
+
+Regime de intervenção para o leite em pó magro
+
+16.º O organismo de intervenção só compra o leite em pó magro que preencha os seguintes requisitos:
+
+a) Tenha sido fabricado numa empresa licenciada de acordo com a legislação em vigor;
+
+b) Tenha a composição e as características definidas no anexo II à presente portaria;
+
+c) Tenha sido efectuado um controle de qualidade na base de análises sobre amostras pré-colhidas efectuadas pelas entidades reconhecidas para o efeito pelo organismo de intervenção, as quais, no caso da Região Autónoma dos Açores, serão colhidas nesta Região;
+
+d) Tenha sido fabricado durante os 60 dias que precedem a data de apresentação do pedido de compra ao organismo de intervenção.
+
+17.º A compra de leite em pó magro obedece ainda às seguintes condições:
+
+a) A quantidade mínima de compra é de 10 t;
+
+b) A embalagem é em sacos de 25 kg de peso líquido, devendo ser nova, limpa e intacta, constituída por um saco exterior em papel kraft de várias folhas ou equivalente e um interior de polietileno, inócuo, conteúdo impermeável e inerte, de modo a garantir a integridade do leite em pó e a impedir a sua contaminação microbiana ao longo das operações de transporte, armazenamento e escoamento;
+
+c) A embalagem deve ainda conter, pelo menos, as seguintes indicações:
+
+A designação do produto e sua identidade;
+
+A data do fabrico;
+
+O número do lote de fabrico;
+
+O número da embalagem do lote;
+
+O número da embalagem do lote, entendendo-se por lote de fabrico a quantidade de leite em pó obtido em condições uniformes, acondicionado do mesmo modo e produzido num só dia.
+
+18.º O leite em pó é entregue num armazém previamente designado pelo organismo de intervenção, sem prejuízo do disposto no número seguinte.
+
+19.º No caso do leite em pó de fabrico açoriano a sua entrega realiza-se em Lisboa, cabendo ao organismo de intervenção suportar todas as despesas inerentes a partir do cais de embarque nos Açores, incluindo o transporte e seguro, mediante apresentação de documentação comprovativa.
+
+20.º Sem prejuízo do disposto no número seguinte, qualquer fabricante que pretenda entregar leite em pó à intervenção deve contactar o organismo de intervenção, que verificará a existência ou não de excedentes de produção.
+
+21.º No caso da Região Autónoma dos Açores o fabricante deve contactar o departamento competente do Governo Regional, que verificará a existência ou não de excedentes de produção e informará o organismo de intervenção.
+
+22.º O Governo decidirá da compra dos excedentes mediante proposta do organismo de intervenção, através de despacho conjunto dos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+
+23.º Os fabricantes só podem entregar ao organismo de intervenção leite em pó magro da sua própria produção.
+
+24.º O pagamento do leite em pó é efectuado num prazo de 60 dias a contar da data da entrega do produto ao organismo de intervenção.
+
+25.º Sempre que o produto apresentado à intervenção não estiver conforme com as normas de qualidade exigidas nos termos desta portaria o vendedor deverá:
+
+a) Levantar a mercadoria em causa;
+
+b) Pagar as despesas de armazenagem das quantidades abrangidas a partir do dia de entrada no armazém até à data do levantamento; e
+
+c) Se o pagamento já tiver sido efectuado, a reembolsar o organismo de intervenção do preço da mercadoria avariada, calculado na base do preço de compra.
+
+26.º As despesas de armazenamento são fixadas forfetariamente por tonelada e da seguinte maneira:
+
+a) Um montante para as despesas fixas;
+
+b) Um montante por dia de armazenagem para as despesas de armazém; e
+
+c) Se o pagamento já tiver sido efectuado, as despesas financeiras são calculadas a partir do dia de pagamento, na base do preço de compra e da taxa de juro em vigor no mercado.
+
+27.º A venda de leite em pó intervencionado respeitará um preço mínimo de venda a fixar pelo organismo de intervenção, em colaboração com a Direcção-Geral de Concorrência e Preços.
+
+28.º A igualdade de acesso de todos os compradores ao leite em pó vendido pelo organismo de intervenção deverá ser sempre assegurada, quer se trate de venda sob a forma de adjudicação, quer de venda directa a todo o interessado, quer ainda por outra forma.
+
+29.º As ofertas apresentadas com vista a uma adjudicação só serão tomadas em consideração mediante a constituição de uma caução a determinar pelo organismo de intervenção.
+
+30.º O leite em pó só pode ser armazenado em armazéns designados pelo organismo de intervenção.
+
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+
+**Assinada em 18 de Junho de 1986.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - O Ministro da Indústria e Comércio, Fernando Augusto dos Santos Martins.**
+
+## Anexo I a que se refere a alínea b) do n.º 1.º
+
+1 - Composição e características da manteiga e embalagem:
+
+1.1 - Caracerísticas físico-químicas:
+
+Aspecto - homogéneo e enxuto, com textura compacta;
+
+Cor - amarela, mais ou menos intensa;
+
+Aroma-fino, fresco, perfeitamente perceptível;
+
+Sabor - fino fresco, agradável;
+
+Água - máxima, 16%;
+
+Matéria gorda-mínima, 82%;
+
+Acidez (em centímetro cúbico de solução normal/100) - máxima, 5 cm3;
+
+1.2 - Características microbialógicas:
+
+Pesquisa de coliformes - negativa em 0,1 g;
+
+Número de bolores e leveduras por grama - máximo, 100;
+
+1.3 - Embalagem. - A manteiga deve ser embalada em cartões novos e deve estar bem compactada com a sua superfície lisa.
+
+Deve ser envolvida num papel tipo pergaminho ou equivalente. Os papéis devem estar secos, ser de boa qualidade, impermeáveis e não devem ser passados por salmoura.
+
+A marcação deve ser feita de modo indelével. As indicações a figurar nas embalagens devem ser, pelo menos, as seguintes:
+
+a) A designação do produto seguida das palavras «sem sal» em caracteres bem visíveis;
+
+b) A sua identificação;
+
+c) A quantidade líquida expressa em quilogramas;
+
+d) A data de fabrico e o número do lote;
+
+e) O número de embalagem do lote.
+
+## Anexo II a que se refere a alínea b) do n.º 16.º
+
+1 - Composição e características do leite em pó e embalagem:
+
+1.1 - Características físico-químicas:
+
+Aspecto - pó homogéneo e uniforme, sem impurezas nem grumos;
+
+Cor - branca-amarelada;
+
+Aroma - característico a leite sem anomalias;
+
+Humidade - máxima, 5%;
+
+Matéria gorda - máxima, 1,5%;
+
+Acidez (expressa em centímetro cúbico de solução alcalina normal/100 g - máxima, 21;
+
+Índice de insolubilidade - máximo, 1,25;
+
+Prova da fosfatase - negativa;
+
+1.2 - Características microbiológicas:
+
+Número de bactérias por grama - máximo, 50000;
+
+Pesquisa de coliformes - negativa em 0,1 g;
+
+Pesquisa de E. coli - negativa em 1 g;
+
+Número de bolores e leveduras - máximo, 100/g;
+
+Pesquisa de estafilococos produtores de coagulase - negativa em 1 g;
+
+Pesquisa de salmonela-nagativa em 25 g;
+
+Número de esporos de clostridium sulfito-redutores - negativo em 0,1;
+
+Antibióticos - ausência;
+
+1.3 - Embalagem:
+
+a) Características. - As embalagens devem ser novas, limpas e intactas e devem ser constituídas por um saco exterior em papel kraft de várias formas ou equivalente e um interior de polietileno, inócuo, e em relação ao conteúdo impermeável e inerte, de modo a garantir a integridade ao leite em pó e a impedir a sua contaminação microbiana. Aquando do enchimento, o saco deve ser bem compactado. A penetração do pó nas diferentes pregas deve ser absolutamente evitada;
+
+b) Marcação.- De modo indelével, devem, pelo menos, constar de cada embalagem:
+
+A designação do produto;
+
+A sua identificação;
+
+A data e lote de fabrico;
+
+O número de embalagem do lote;
+
+O peso líquido.

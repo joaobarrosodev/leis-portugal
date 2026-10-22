@@ -1,0 +1,275 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:299447:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-938665854",
+ "dre_path": "/dr/detalhe/decreto-lei/194-1994-299447",
+ "source_lastmod": "2025-10-10",
+ "versions": [
+  {
+   "date": "1994-07-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "938665751",
+    "938665752",
+    "938665753",
+    "938665754",
+    "938665755",
+    "938665756",
+    "938665757",
+    "938665758",
+    "938665759",
+    "938665760",
+    "938665761",
+    "938665762",
+    "938665763",
+    "938665764",
+    "938665765",
+    "938665766",
+    "938665767",
+    "938665768",
+    "938665769",
+    "938665770",
+    "938665771",
+    "938665773"
+   ]
+  },
+  {
+   "date": "1994-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:484661:por",
+     "title": "Declaração de Rectificação n.º 114/94",
+     "published": "1994-08-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/114-1994-484661"
+    }
+   ],
+   "changes": [
+    "Retifica Anexo"
+   ],
+   "fragments": [
+    "938665751",
+    "938665752",
+    "938665753",
+    "938665754",
+    "938665755",
+    "938665756",
+    "938665757",
+    "938665758",
+    "938665759",
+    "938665760",
+    "938665761",
+    "938665762",
+    "938665763",
+    "938665764",
+    "938665765",
+    "938665766",
+    "938665767",
+    "938665768",
+    "938665769",
+    "938665770",
+    "938665771",
+    "938665772",
+    "938924572"
+   ]
+  }
+ ],
+ "fragments": {
+  "938665751": {
+   "fragment_id": "938665855",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 194/94\n\nde 19 de Julho\n\nNa última década, as necessidades, em termos de assistência médica das populações prisionais, sobretudo\n\ndas oriundas dos grandes centros urbanos, sofreram grande alteração, exigindo dos serviços prisionais soluções novas e adequadas.\n\nNa área da psiquiatria e saúde mental, os serviços prisionais apenas dispuseram, até muito recentemente, dos anexos psiquiátricos de Lisboa, de Coimbra e do Porto, estando o primeiro encerrado há muito tempo e os dois últimos totalmente ocupados.\n\nO reconhecimento desta realidade, por um lado, e a absoluta necessidade de melhorar a situação nesta área de saúde, por outro, motivou a criação, através do Decreto-Lei n.º 469/88, de 17 de Dezembro, de um serviço de psiquiatria no Hospital Prisional de São João de Deus, em Caxias, destinado à prestação de cuidados médicos, na área da psiquiatria e saúde mental, aos reclusos detidos nos estabelecimentos prisionais sediados nas zonas da Grande Lisboa e do Sul do País.\n\nPara cobertura, nessa área de saúde, dos reclusos dos estabelecimentos prisionais situados nas zonas do Grande Porto, do Norte e do Centro do País, torna-se necessário criar uma outra unidade de psiquiatria e saúde mental.\n\nA nova estrutura clínica, a criar no Estabelecimento Prisional de Santa Cruz do Bispo, deve articular a sua actividade com os centros de saúde mental das zonas do Norte e do Centro do Ministério da Saúde e ficar sujeita à orientação técnica e à tutela inspectiva do Ministério da Saúde.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "938665752": {
+   "fragment_id": "938665856",
+   "type": 11,
+   "heading": "Artigo 1.º — Clínica de Psiquiatria e de Saúde Mental de Santa Cruz do Bispo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Clínica de Psiquiatria e de Saúde Mental de Santa Cruz do Bispo\n\n1 - É criada, no âmbito da Direcção-Geral dos Serviços Prisionais, a Clínica de Psiquiatria e de Saúde Mental de Santa Cruz do Bispo, abreviadamente designada por Clínica.\n\n2 - É extinto o Anexo Psiquiátrico do Estabelecimento de Santa Cruz do Bispo, ao qual sucede a Clínica criada no número anterior."
+  },
+  "938665753": {
+   "fragment_id": "938665857",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nSão atribuições da Clínica:\n\na) Assegurar a assistência clínica, em regime de consulta externa e de internamento, aos reclusos que apresentem distúrbios do foro psiquiátrico;\n\nb) Planificar, dirigir e realizar, nos estabelecimentos prisionais situados no Norte e no Centro do País, os estudos, acções e serviços necessários ao desenvolvimento de programas de prevenção, tratamento e reabilitação médica e psicológica dos detidos;\n\nc) Proceder a estudos de investigação, por si ou em colaboração com outras instituições, na área da psiquiatria e da saúde mental, em geral, e na de psiquiatria penitenciária, em especial;\n\nd) Propor e coordenar a formação do pessoal penitenciário na área da psiquiatria e saúde mental;\n\ne) Prestar formação a médicos do internato complementar de psiquiatria e a estagiários desta área, nos termos fixados em despacho conjunto dos Ministros da Justiça e da Saúde;\n\nf) Colaborar no ensino universitário, nas áreas de psiquiatria e de psiquiatria forense, nos termos a estabelecer por protocolos entre a Direcção-Geral dos Serviços Prisionais e os estabelecimentos universitários, a homologar pelos membros do Governo responsáveis pelas respectivas áreas;\n\ng) Articular a sua actividade com os centros de saúde mental das Zonas do Norte e do Centro, criados pelo Decreto-Lei n.º 127/92, de 3 de Julho, para efeitos de cooperação técnica, designadamente com hospitais psiquiátricos e departamentos de psiquiatria e saúde mental dos hospitais centrais e distritais da respectiva zona, nos termos dos protocolos a celebrar entre a Direcção-Geral dos Serviços Prisionais e essas instituições, a homologar pelos membros do Governo responsáveis pelas respectivas áreas."
+  },
+  "938665754": {
+   "fragment_id": "938665858",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nSão órgãos da Clínica:\n\na) O conselho directivo;\n\nb) O director clínico;\n\nc) O conselho clínico."
+  },
+  "938665755": {
+   "fragment_id": "938665859",
+   "type": 11,
+   "heading": "Artigo 4.º — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conselho directivo\n\n1 - O conselho directivo é constituído pelo director do Estabelecimento Prisional de Santa Cruz do Bispo, que preside, e pelos director clínico e enfermeiro-chefe.\n\n2 - O conselho directivo reúne ordinariamente, uma vez por mês, e extraordinariamente, sempre que convocado pelo seu presidente.\n\n3 - O conselho directivo delibera por maioria simples, tendo o presidente voto de qualidade.\n\n4 - O presidente do conselho directivo tem direito a uma remuneração mensal correspondente a 60% do índice 100 do regime geral da função pública."
+  },
+  "938665756": {
+   "fragment_id": "938665860",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência do conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência do conselho directivo\n\n1 - Ao conselho directivo compete orientar e coordenar os serviços da Clínica.\n\n2 - Compete, em especial, ao conselho directivo:\n\na) Aprovar os planos de actividade da Clínica;\n\nb) Definir as linhas gerais de orientação a observar na organização e funcionamento dos serviços da Clínica;\n\nc) Definir e propor ao conselho administrativo do Estabelecimento Prisional de Santa Cruz do Bispo a inscrição orçamental das verbas necessárias ao funcionamento da Clínica;\n\nd) Decidir os conflitos que surjam entre os serviços de assistência médica ou de apoio técnico e os serviços de apoio administrativo."
+  },
+  "938665757": {
+   "fragment_id": "938665861",
+   "type": 11,
+   "heading": "Artigo 6.º — Competência do presidente do conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competência do presidente do conselho directivo\n\n1 - Compete ao presidente do conselho directivo.\n\na) Representar a Clínica em juízo ou fora dele;\n\nb) Presidir ao conselho directivo;\n\nc) Exercer o poder disciplinar relativamente aos reclusos, ouvido o director clínico;\n\nd) Exercer o poder disciplinar que legalmente lhe competir relativamente a funcionários;\n\ne) Executar as deliberações do conselho directivo;\n\nf) Distribuir o pessoal afecto aos serviços de apoio administrativo;\n\ng) Coordenar os serviços de apoio administrativo.\n\n2 - O presidente do conselho directivo é substituído, nas suas ausências e impedimentos, por um dirigente ou funcionário da carreira técnica do Estabelecimento Prisional de Santa Cruz do Bispo que, sob proposta sua, for designado pelo director-geral dos Serviços Prisionais."
+  },
+  "938665758": {
+   "fragment_id": "938665862",
+   "type": 11,
+   "heading": "Artigo 7.º — Director clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Director clínico\n\n1 - O director clínico é nomeado pelo Ministro da Justiça, sob proposta do director-geral dos Serviços Prisionais, de entre médicos que possuam o grau de chefe de serviços hospitalar ou, na sua falta, o de assistente graduado da carreira hospitalar na especialidade de psiquiatria.\n\n2 - O provimento do cargo de director clínico obedece ao estipulado no artigo 5.º do Decreto-Lei n.º 323/89, de 26 de Setembro.\n\n3 - O estatuto remuneratório do cargo de director clínico é o correspondente ao cargo de director de serviço dos hospitais dependentes do Ministério da Saúde.\n\n4 - O director clínico é membro de pleno direito dos conselhos técnico e administrativo do Estabelecimento Prisional de Santa Cruz do Bispo."
+  },
+  "938665759": {
+   "fragment_id": "938665863",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências do director clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências do director clínico\n\n1 - Compete ao director clínico, no âmbito da articulação e da orientação técnica previstas nos artigos 2.º e 17.º, respectivamente, e sem prejuízo das competências atribuídas por lei aos órgãos do Estabelecimento Prisional de Santa Cruz do Bispo, planear e dirigir toda a actividade de assistência médica, garantindo a prestação dos cuidados de saúde aos doentes, bem como a racional e eficiente utilização dos recursos postos à sua disposição.\n\n2 - Compete, em especial, ao director clínico:\n\na) Organizar os serviços de consulta e internamento;\n\nb) Compatibilizar tecnicamente os planos de acção apresentados pelos diversos serviços com vista à sua inscrição no plano de acção global da Clínica;\n\nc) Detectar no rendimento assistencial do serviço de psiquiatria pontos de estrangulamento, tomando as medidas necessárias à sua resolução;\n\nd) Decidir os conflitos que surjam entre os serviços de assistência médica e de apoio técnico;\n\ne) Planificar as acções necessárias à concretização das acções de prevenção e de tratamento, na área da saúde mental, da competência da Clínica;\n\nf) Promover a realização de estudos e investigações na área da psiquiatria penitenciária, em eventual colaboração com outras entidades;\n\ng) Promover acções de actualização e valorização profissional do pessoal penitenciário, na área da saúde mental;\n\nh) Coordenar as actividades previstas nas alíneas f) e g) do artigo 2.º;\n\ni) Aprovar os planos de formação e a respectiva avaliação final dos internos de especialidade em psiquiatria e estagiários, nos termos que forem aplicáveis aos estabelecimentos dependentes do Ministério da Saúde;\n\nj) Distribuir o pessoal afecto aos serviços de assistência médica e de apoio técnico."
+  },
+  "938665760": {
+   "fragment_id": "938665864",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho clínico\n\n1 - O conselho clínico é constituído pelo director clínico, que preside, pelo chefe de serviço hospitalar, pelo enfermeiro-chefe e por quatro técnicos da Clínica, sendo dois deles técnicos superiores, a designar pelo director-geral dos Serviços Prisionais, sob proposta do director clínico.\n\n2 - O conselho clínico reúne ordinariamente, uma vez por mês, e extraordinariamente, sempre que convocado pelo seu presidente.\n\n3 - O conselho clínico delibera por maioria simples, tendo o presidente voto de qualidade.\n\n4 - Podem participar nas reuniões do conselho clínico, sem direito a voto, quaisquer médicos ou técnicos de reconhecido mérito, quando convocados pelo presidente."
+  },
+  "938665761": {
+   "fragment_id": "938665865",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência do conselho clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência do conselho clínico\n\nCompete ao conselho clínico:\n\na) Avaliar o rendimento médico da Clínica e propor o que julgar útil para a sua melhoria;\n\nb) Propor as medidas que considere oportunas para o aperfeiçoamento científico do pessoal médico e paramédico da Clínica no âmbito da articulação prevista na alínea g) do artigo 2.º e no artigo 17.º;\n\nc) Dar parecer, quando solicitado, sobre queixas e reclamações que sejam formuladas acerca da assistência prestada aos doentes;\n\nd) Dar parecer sobre os assuntos de natureza clínica submetidos à sua apreciação pelos órgãos da Clínica."
+  },
+  "938665762": {
+   "fragment_id": "938665866",
+   "type": 11,
+   "heading": "Artigo 11.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Serviços\n\nSão serviços da Clínica:\n\na) Os serviços de assistência médica;\n\nb) Os serviços de apoio técnico;\n\nc) Os serviços de apoio administrativo."
+  },
+  "938665763": {
+   "fragment_id": "938665867",
+   "type": 11,
+   "heading": "Artigo 12.º — Serviços de assistência médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Serviços de assistência médica\n\nAos serviços de assistência médica compete o diagnóstico e o tratamento dos reclusos que apresentem perturbações do foro psiquiátrico."
+  },
+  "938665764": {
+   "fragment_id": "938665868",
+   "type": 11,
+   "heading": "Artigo 13.º — Serviços de apoio técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Serviços de apoio técnico\n\n1 - São serviços de apoio técnico:\n\na) O serviço de enfermagem;\n\nb) O serviço de psicologia;\n\nc) O serviço social;\n\nd) O serviço de terapia ocupacional.\n\n2 - Aos serviços referidos nas alíneas a), b) e d) do número anterior compete desenvolver as acções técnicas na respectiva área de actuação.\n\n3 - O serviço social é assegurado pelo Instituto de Reinserção Social."
+  },
+  "938665765": {
+   "fragment_id": "938665869",
+   "type": 11,
+   "heading": "Artigo 14.º — Serviços de apoio administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Serviços de apoio administrativo\n\nAos serviços de apoio administrativo compete garantir a execução de todo o expediente da Clínica e, em especial:\n\na) Promover a recepção, o registo, a distribuição e o expediente da correspondência e de outra documentação;\n\nb) Organizar o arquivo;\n\nc) Prestar o apoio administrativo adequado ao bom funcionamento dos serviços."
+  },
+  "938665766": {
+   "fragment_id": "938665870",
+   "type": 11,
+   "heading": "Artigo 15.º — Aumento do número de lugares do quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Aumento do número de lugares do quadro\n\nOs mapas II e III do anexo VII da Portaria n.º 316/87, de 16 de Abril, são acrescidos dos lugares constantes do anexo do presente diploma."
+  },
+  "938665767": {
+   "fragment_id": "938665871",
+   "type": 11,
+   "heading": "Artigo 16.º — Equiparação ao pessoal do Ministério da Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Equiparação ao pessoal do Ministério da Saúde\n\nO pessoal das carreiras médica, técnica de diagnóstico e terapêutica, de enfermagem e auxiliar de acção médica é equiparado, para todos os efeitos legais, ao pessoal de idênticas carreiras do Ministério da Saúde."
+  },
+  "938665768": {
+   "fragment_id": "938665872",
+   "type": 11,
+   "heading": "Artigo 17.º — Orientação técnica e inspecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Orientação técnica e inspecção\n\nO funcionamento da Clínica, no que respeita à área da psiquiatria e da saúde mental, fica sujeito à orientação técnica e à tutela inspectiva do Ministério da Saúde."
+  },
+  "938665769": {
+   "fragment_id": "938665873",
+   "type": 11,
+   "heading": "Artigo 18.º — Acompanhamento clínico e científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Acompanhamento clínico e científico\n\nQuando necessário, e sem prejuízo do disposto no artigo anterior, o acompanhamento de casos clínicos ou de trabalhos de investigação científica pode ser assegurado por especialistas de reconhecida competência, através de contratos de avença ou de tarefa, nos termos da lei geral."
+  },
+  "938665770": {
+   "fragment_id": "938665874",
+   "type": 11,
+   "heading": "Artigo 19.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Encargos\n\nOs encargos resultantes da aplicação do presente diploma serão suportados, na medida que ultrapassem as dotações orçamentais, pelas verbas administradas pelo Gabinete de Gestão Financeira do Ministério da Justiça."
+  },
+  "938665771": {
+   "fragment_id": "938668075",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra em vigor no primeiro dia do mês seguinte ao da sua publicação."
+  },
+  "938665773": {
+   "fragment_id": "938668077",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nMAPA II\n\nPessoal comum dos serviços centrais e dos serviços externos da Direcção-Geral dos Serviços Prisionais\n\n(ver documento original)\n\nMAPA III\n\nPessoal comum dos serviços externos da Direcção-Geral dos Serviços Prisionais\n\n(ver documento original)\n\n> Nota: [Declaração de Rectificação n.º 114/94 - Diário da República n.º 201/1994, 1º Suplemento, Série I-A de 1994-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/114-1994-484661) Elimina as menções às categorias de 1.ª, 2.ª e 3.ª classes da carreira de auxiliar de acção médica do mapa III."
+  },
+  "938665772": {
+   "fragment_id": "938668076",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Abril de 1994. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Álvaro José Brilhante Laborinho Lúcio - Maria Manuela Dias Ferreira Leite - Adalberto Paulo da Fonseca Mendo.\n\nPromulgado em 25 de Junho de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 29 de Junho de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "938924572": {
+   "fragment_id": "938668077",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "1994-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 114/94 - Diário da República n.º 201/1994, 1º Suplemento, Série I-A de 1994-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/114-1994-484661), em vigor a partir de 1994-08-31"
+   ],
+   "markdown": "## Anexo\n\nMAPA II\n\nPessoal comum dos serviços centrais e dos serviços externos da Direcção-Geral dos Serviços Prisionais\n\n(ver documento original)\n\nMAPA III\n\nPessoal comum dos serviços externos da Direcção-Geral dos Serviços Prisionais\n\n(ver documento original)\n\n> Nota: [Declaração de Rectificação n.º 114/94 - Diário da República n.º 201/1994, 1º Suplemento, Série I-A de 1994-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/114-1994-484661) Elimina as menções às categorias de 1.ª, 2.ª e 3.ª classes da carreira de auxiliar de acção médica do mapa III.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 114/94 - Diário da República n.º 201/1994, 1º Suplemento, Série I-A de 1994-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/114-1994-484661), em vigor a partir de 1994-08-31"
+  }
+ }
+}

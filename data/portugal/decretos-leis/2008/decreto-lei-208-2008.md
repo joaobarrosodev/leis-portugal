@@ -1,0 +1,525 @@
+---
+schema_version: '1.0'
+id: pt:dre:438700:por
+title: Decreto-Lei n.º 208/2008
+short_title: null
+summary: Estabelece o regime de protecção das águas subterrâneas contra a poluição e deterioração, transpondo para a ordem
+  jurídica interna a Directiva n.º 2006/118/CE, do Parlamento Europeu e do Conselho, de 12 de Dezembro, relativa à protecção
+  da água subterrânea contra a poluição e deterioração
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional
+proposing_entity: null
+official_number: 208/2008
+official_date: null
+publication_date: '2008-10-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 209/2008, Série I de 2008-10-28
+  number: '209'
+  series: I
+  supplement: null
+  pages: 7569 - 7575
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/10/20900/0756907575.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2016-06-29'
+version_history:
+  file: decreto-lei-208-2008.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-10-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-06-29'
+    amending: pt:dre:74811911:por
+    amending_title: Decreto-Lei n.º 34/2016
+    changes:
+    - Altera Anexo II
+    - Altera Parte C
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/208/2008/p/cons/20160628/pt/html
+  oj: null
+  dre: '438700'
+  dre_path: /dr/detalhe/decreto-lei/208-2008-438700
+  internal: pt:dre:438700:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2008-438700
+  metadata_url: https://data.dre.pt/eli/dec-lei/208/2008/p/cons/20160628/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-75013104
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-75013104
+  retrieved_at: '2026-10-22T12:07:06Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 1bc0eb75ce1187e724cebfd485fc42f99815992dda651573604981de2bc3fb36
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:07:06Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-208-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ARH
+- Aproximação das Legislações
+- Definição de Competências
+- Controlo Sanitário
+- Saúde Pública
+- Proteção do Ambiente
+- Poluição da água
+- Águas Subterrâneas
+relationships:
+- type: amended_by
+  target: pt:dre:74811911:por
+  label: Altera Anexo II; Altera Parte C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2016-74811911
+  date: '2016-06-28'
+- type: cites
+  target: celex:31980L0068
+  label: null
+  source: http://data.europa.eu/eli/dir/1980/68/oj
+- type: cites
+  target: celex:31991L0414
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/414/oj
+- type: cites
+  target: celex:31991L0676
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/676/oj
+- type: cites
+  target: celex:31998L0008
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/8/oj
+- type: cites
+  target: celex:31998L0083
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/83/oj
+- type: cites
+  target: celex:32006L0118
+  label: null
+  source: http://data.europa.eu/eli/dir/2006/118/oj
+article_structure:
+  article_count: 9
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:07:06Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 208/2008
+
+Decreto-Lei n.º 208/2008
+
+de 28 de Outubro
+
+O presente decreto-lei visa transpor para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0118" title="Link para Directiva da Comunidade Europeia">2006/118/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Dezembro, dando também cumprimento ao disposto no artigo 47.º e no n.º 3 do artigo 102.º da Lei n.º 58/2005, de 29 de Dezembro (Lei da Água), no respeitante à avaliação do estado químico da água subterrânea.
+
+A água subterrânea é um recurso natural valioso que, enquanto tal, deve ser protegido da deterioração e da poluição química. Essa protecção é particularmente importante no que respeita aos ecossistemas dependentes da água subterrânea e à utilização desta para o abastecimento de água destinada ao consumo humano. A água subterrânea representa as massas de água doce mais sensíveis e importantes da União Europeia, sendo uma fonte essencial de abastecimento público de água potável em muitas regiões, devendo ser protegida de forma a evitar a deterioração da qualidade, a fim de reduzir o nível do tratamento de purificação necessário à produção de água potável.
+
+Para proteger o ambiente e a saúde humana, é imperativo evitar, prevenir ou reduzir as concentrações prejudiciais de poluentes nocivos na água subterrânea. Deverão ser adoptadas medidas de prevenção e controlo da poluição da água subterrânea, incluindo critérios para a avaliação do seu bom estado químico para a identificação de tendências significativas e persistentes para o aumento da concentração de poluentes, bem como para a definição de pontos de partida para a inversão dessas tendências. Tendo em conta a necessidade de obter níveis de protecção da água subterrânea, dever-se-ão estabelecer normas de qualidade e limiares e desenvolver metodologias baseadas numa abordagem comum a nível comunitário, para que existam critérios para a avaliação do estado químico das massas de água subterrânea.
+
+As disposições em matéria de estado químico da água subterrânea não são aplicáveis a níveis elevados de substâncias ou iões ou seus indicadores que ocorram naturalmente, que se encontrem quer numa massa de água subterrânea quer em massas de água de superfície associadas, devido a condições hidrogeológicas específicas, e que não sejam abrangidos pela definição de poluição. Também não são aplicáveis às alterações, temporárias e em áreas limitadas, da direcção do fluxo e da composição química que não sejam consideradas intrusões.
+
+Importa assegurar a continuidade da protecção da água subterrânea contra a poluição causada por certas substâncias perigosas, através de medidas destinadas a prevenir ou a limitar a introdução, tanto directa como indirecta, de poluentes na água subterrânea, no âmbito da Directiva n.º <a href="eurlex.asp?ano=1980&id=380L0068" title="Link para Directiva da Comunidade Europeia">80/68/CEE</a>, do Conselho, de 17 de Dezembro de 1979, que irá ser revogada com efeitos a partir de 22 de Dezembro de 2013.
+
+No que respeita aos nitratos, produtos fitofarmacêuticos e biocidas, são estabelecidas normas de qualidade, a serem utilizadas como critérios comunitários para a avaliação do estado químico das massas de água subterrânea e assegurar-se-á a congruência com as Directivas n.os <a href="eurlex.asp?ano=1991&id=391L0676" title="Link para Directiva da Comunidade Europeia">91/676/CEE</a>, do Conselho, de 12 de Dezembro, relativa à protecção da água contra a poluição causada por nitratos de origem agrícola, <a href="eurlex.asp?ano=1991&id=391L0414" title="Link para Directiva da Comunidade Europeia">91/414/CEE</a>, do Conselho, de 15 de Julho, relativa à colocação de produtos fitofarmacêuticos no mercado, e <a href="eurlex.asp?ano=1998&id=398L0008" title="Link para Directiva da Comunidade Europeia">98/8/CE</a>, do Parlamento Europeu, de 16 de Fevereiro, relativa à colocação de produtos biocidas no mercado, respectivamente. No que diz respeito às massas de água subterrânea utilizadas ou destinadas a ser futuramente utilizadas para captação de água para consumo humano, estabelecer-se-ão medidas para garantir que as águas resultantes preencham os requisitos da Directiva n.º <a href="eurlex.asp?ano=1998&id=398L0083" title="Link para Directiva da Comunidade Europeia">98/83/CE</a>, do Conselho, de 3 de Novembro, relativa à qualidade da água destinada ao consumo humano.
+
+Foi promovida a audição da Assembleia Legislativa Regional dos Açores.
+
+Foram ouvidos os órgãos de governo próprio da Região Autónoma da Madeira e o Governo Regional dos Açores.
+
+Assim:
+
+Ao abrigo do disposto no artigo 47.º e no n.º 3 do artigo 102.º da Lei n.º 58/2005, de 29 de Dezembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime de protecção das águas subterrâneas contra a poluição e deterioração, transpondo para a ordem jurídica interna a Directiva n.º <a href="eurlex.asp?ano=2006&id=306L0118" title="Link para Directiva da Comunidade Europeia">2006/118/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Dezembro, relativa à protecção da água subterrânea contra a poluição e deterioração, e regulamenta o artigo 47.º da Lei n.º 58/2005, de 29 de Dezembro (Lei da Água), no respeitante à avaliação do estado químico da água subterrânea.
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Norma de qualidade da água subterrânea» a concentração de um dado poluente, grupo de poluentes ou indicador de poluição na água subterrânea que, tendo em vista a protecção da saúde humana e do ambiente, não deverá ser excedida;
+
+b) «Limiar» a norma de qualidade da água subterrânea fixada em conformidade com o artigo 3.º;
+
+c) «Tendência significativa e persistente para o aumento da concentração» o aumento estatística e ambientalmente significativo da concentração de um poluente, grupo de poluentes ou indicador de poluição na água subterrânea, em relação ao qual se considera necessária uma inversão da tendência, em conformidade com o artigo 5.º;
+
+d) «Introdução de poluentes na água subterrânea» a entrada directa ou indirecta de poluentes na água subterrânea resultante da actividade humana;
+
+e) «Concentração natural» o valor de uma substância ou de um indicador numa massa de água subterrânea correspondente à ausência de modificações antropogénicas ou apenas a modificações antropogénicas diminutas relativamente a condições inalteradas;
+
+f) «Valor de referência» o valor médio obtido, pelo menos, durante os anos de referência de 2007 e 2008 com base nos programas de monitorização executados ao abrigo da alínea b) do artigo 4.º e do anexo vii do Decreto-Lei n.º 77/2006, de 30 de Março, ou, no caso de substâncias identificadas depois destes anos de referência, durante o primeiro período que inclua uma série temporal representativa para o qual existam dados de monitorização.
+
+2 - Para além das definições constantes do número anterior e para efeitos do presente decreto-lei, são igualmente aplicáveis as definições constantes do artigo 4.º da Lei n.º 58/2005, de 29 de Dezembro.
+
+###### Artigo 3.º — Critérios para a avaliação do estado químico da água subterrânea
+
+1 - Para efeitos da avaliação do estado químico de uma massa ou grupo de massas de água subterrânea nos termos do n.º 2.3 do anexo v do Decreto-Lei n.º 77/2006, de 30 de Março, devem-se utilizar os seguintes critérios:
+
+a) Normas de qualidade da água subterrânea referidas no anexo i do presente decreto-lei, que dele faz parte integrante;
+
+b) Os limiares que vierem a ser estabelecidos pelo INAG, I. P., e pelas ARH, I. P., em conformidade com o procedimento previsto na parte A do anexo ii do presente decreto-lei, que dele faz parte integrante, para os poluentes, grupos de poluentes e indicadores de poluição que tenham sido identificados como contribuindo para a caracterização das massas ou grupo de massas de água subterrânea consideradas em risco, tendo em conta, pelo menos, a lista contida na parte B do referido anexo ii.
+
+2 - Os limiares aplicáveis ao bom estado químico da água subterrânea baseiam-se na protecção da massa de água, em conformidade com os n.os 1, 2 e 3 da parte A do anexo ii, concedendo particular atenção às suas repercussões e à sua inter-relação com as águas de superfície associadas, os ecossistemas terrestres e as zonas húmidas directamente dependentes; devendo ser tidos em conta, nomeadamente, conhecimentos de toxicologia humana e de ecotoxicologia.
+
+3 - Os limiares podem ser estabelecidos a nível nacional, a nível da região hidrográfica ou a nível da parte da região hidrográfica internacional situada no território nacional ou ainda a nível da massa ou grupo de massas de água subterrânea.
+
+4 - O estabelecimento de limiares nas massas de água subterrânea partilhadas entre Portugal e o Reino de Espanha e nas massas de água subterrânea cujas águas atravessam a fronteira fica sujeito à coordenação entre os dois Estados, de acordo com os convénios já existentes.
+
+5 - O estabelecimento dos limiares deverá estar concluído, pela primeira vez, até 22 de Dezembro de 2008.
+
+6 - Todos os limiares estabelecidos devem ser publicados nos planos de gestão das bacias hidrográficas, incluindo um resumo das informações estabelecidas na parte C do anexo ii.
+
+7 - A lista de limiares deve ser alterada sempre que novas informações sobre poluentes, grupos de poluentes ou indicadores de poluição indicarem que se deveria estabelecer um limiar para uma substância suplementar, que um limiar existente deveria ser alterado ou, ainda, que um limiar anteriormente suprimido da lista deveria ser reinserido tendo em vista a protecção da saúde humana e do ambiente.
+
+8 - Os limiares podem ser suprimidos da lista sempre que a massa de água subterrânea em questão deixe de estar em risco em relação aos respectivos poluentes, grupos de poluentes ou indicadores de poluição.
+
+9 - As alterações à lista de limiares devem constar da revisão periódica dos planos de gestão das bacias hidrográficas.
+
+###### Artigo 4.º — Procedimento para a avaliação do estado químico das massas de água subterrânea
+
+1 - Compete às ARH, I. P., realizar o procedimento para avaliação do estado químico das massas de água subterrânea, sob coordenação e uniformização do INAG, I. P.
+
+2 - A avaliação do estado químico das massas de água subterrânea deve ser efectuada de acordo com o procedimento descrito nos n.os 3 e 4 do presente artigo, podendo, se tal for adequado tecnicamente, agrupar massas de água subterrânea.
+
+3 - Uma massa ou grupo de massas de água subterrânea são considerados em bom estado químico sempre que:
+
+a) Os resultados relevantes da monitorização tenham demonstrado que as condições definidas no n.º 2.3.2 do anexo v do Decreto-Lei n.º 77/2006, de 30 de Março, estão a ser cumpridas; ou
+
+b) Os valores das normas de qualidade da água subterrânea referidos no anexo i e os limiares estabelecidos em conformidade com o artigo 3.º e o anexo ii não sejam excedidos em nenhum ponto de monitorização nessa massa ou grupo de massas de água subterrânea.
+
+4 - São ainda considerados em bom estado químico uma massa ou grupo de massas de água subterrânea se o valor de uma norma de qualidade ou limiar forem excedidos em um ou mais pontos de monitorização, desde que uma investigação apropriada, feita em conformidade com o anexo ii, confirme que:
+
+a) Com base na avaliação referida no n.º 3 do anexo iii do presente decreto-lei, que dele faz parte integrante, as concentrações de poluentes que excedam as normas ou limiares de qualidade não são consideradas como representando um risco ambiental significativo, atendendo, quando tal se revelar pertinente, à extensão da massa de água afectada;
+
+b) As outras condições do bom estado químico da água subterrânea fixado no quadro n.º 2.3.2 do anexo v do Decreto-Lei n.º 77/2006, de 30 de Março, estão a ser satisfeitas, nos termos do n.º 4 do anexo iii;
+
+c) No caso das massas de água subterrânea identificadas em conformidade com o n.º 4 do artigo 48.º da Lei n.º 58/2005, de 29 de Dezembro, seja assegurada a necessária protecção das mesmas, de modo a evitar a deterioração da sua qualidade, a fim de reduzir o nível de tratamentos de purificação necessário na produção de água potável, nos termos do n.º 4 do anexo iii;
+
+d) As utilizações da massa de água subterrânea, ou de uma das massas do grupo de massas de água subterrânea, não foram comprometidas de modo significativo pela poluição.
+
+5 - A escolha dos pontos de monitorização da água subterrânea deve cumprir os requisitos do n.º 2 do anexo vii do Decreto-Lei n.º 77/2006, de 30 de Março, permitindo a recolha de dados de monitorização significativos.
+
+6 - Dos planos de gestão das bacias hidrográficas deve constar um resumo da avaliação do estado químico da água subterrânea, o qual é elaborado ao nível da região hidrográfica ou da parte da região hidrográfica internacional situada no território nacional, devendo incluir uma explicação sobre o modo como foram tidos em consideração, na avaliação final, os incumprimentos relativamente às normas de qualidade da água subterrânea ou aos limiares em pontos de monitorização específicos.
+
+7 - Caso se considere que uma massa de água subterrânea está em bom estado químico nos termos do n.º 4, devem tomar-se as medidas consideradas necessárias para proteger os ecossistemas aquáticos, os ecossistemas terrestres e as utilizações humanas da água subterrânea, em função da zona da massa de água representada pelo ponto ou pontos de monitorização em que o valor de uma norma de qualidade ou o limiar de água subterrânea foi excedido.
+
+###### Artigo 5.º — Identificação de tendências e definição do ponto de partida para a inversão dessas tendências
+
+1 - As ARH, I. P., identificam as eventuais tendências significativas e persistentes para o aumento das concentrações de poluentes, grupos de poluentes e indicadores de poluição presentes nas massas ou grupos de massas de água subterrânea identificados como estando em risco e definem o ponto de partida para a inversão dessas tendências em conformidade com o anexo iv do presente decreto-lei, que dele faz parte integrante, sob coordenação e uniformização do INAG, I. P.
+
+2 - Às ARH, I. P., compete, nos termos da parte B do anexo iv, proceder à inversão das tendências que apresentam um risco significativo de nocividade para a qualidade dos ecossistemas aquáticos ou terrestres, para a saúde humana ou para os usos actuais ou futuros do ambiente aquático, através do programa de medidas, com vista a progressivamente reduzir a poluição e prevenir a deterioração da água subterrânea.
+
+3 - O ponto de partida para a inversão das tendências é definido como uma percentagem do nível das normas de qualidade da água subterrânea constantes do anexo i e dos limiares estabelecidos nos termos do artigo 3.º, com base nas tendências identificadas e correspondentes riscos ambientais, nos termos do n.º 1 da parte B do anexo iv.
+
+4 - Dos planos de gestão das bacias hidrográficas deve constar:
+
+a) A forma como a avaliação das tendências a partir de cada ponto de monitorização individual dentro de uma massa ou grupo de massas de água subterrânea contribuiu para verificar, em conformidade com o n.º 2.6 do anexo vii do Decreto-Lei n.º 77/2006, de 30 de Março, que essas massas de água estão sujeitas a uma tendência significativa e persistente para o aumento da concentração de qualquer poluente, ou a uma inversão dessa tendência; e
+
+b) As razões para os pontos de partida definidos nos termos do n.º 3.
+
+5 - Nos casos em que seja necessário avaliar o impacte de plumas de poluição existentes em massas de água subterrânea que possam pôr em risco a consecução dos objectivos e, designadamente, as plumas resultantes de fontes tópicas e de locais contaminados, as ARH, I. P., devem proceder a avaliações adicionais das tendências dos poluentes identificados para garantir que as plumas provenientes de locais contaminados não se expandem, não deterioram o estado químico da massa de água subterrânea ou grupo de massas de água subterrânea e não constituem um risco para a saúde humana e para o ambiente.
+
+6 - Os resultados das avaliações a que se refere o número anterior devem ser previamente comunicados ao INAG, I. P., e constar dos planos de gestão das bacias hidrográficas.
+
+###### Artigo 6.º — Medidas para prevenir ou limitar a introdução de poluentes na água subterrânea
+
+1 - Para prevenir ou limitar a introdução de poluentes na água subterrânea, as ARH, I. P., devem assegurar que o programa de medidas estabelecido em conformidade com o artigo 30.º da Lei n.º 58/2005, de 29 de Dezembro, inclui:
+
+a) Todas as medidas necessárias a prevenir a introdução de quaisquer substâncias perigosas na água subterrânea, sem prejuízo do disposto nos n.os 2 e 3 do presente artigo, tendo a identificação de tais substâncias designadamente em conta as substâncias perigosas pertencentes a famílias ou grupos de poluentes referidos nos n.os 1 a 6 do anexo ix do Decreto-Lei n.º 77/2006, de 30 de Março, bem como as substâncias pertencentes a famílias ou grupos de poluentes referidos nos n.os 7 a 9 do mesmo anexo, quando estas sejam consideradas perigosas;
+
+b) Todas as medidas necessárias à limitação da introdução na água subterrânea dos poluentes enumerados no anexo ix do Decreto-Lei n.º 77/2006, de 30 de Março, que não sejam considerados perigosos e de quaisquer outros poluentes não perigosos não enumerados nesse anexo como constituindo um risco de poluição real ou potencial, por forma a assegurar que tal introdução não provoque deterioração nem suscite quaisquer tendências significativas ou persistentes de aumento das concentrações de poluentes na água subterrânea, devendo essas medidas ter em conta, pelo menos, as melhores práticas estabelecidas, incluindo as ambientais, e a melhor tecnologia disponível;
+
+c) Todas as medidas necessárias que evitem a introdução de poluentes provenientes de fontes difusas, com impacte sobre o estado químico da água subterrânea, sempre que seja tecnicamente possível.
+
+2 - Para os efeitos do estabelecimento das medidas referidas nas alíneas a) e b) do número anterior, as ARH, I. P., devem identificar as circunstâncias em que os poluentes enumerados no anexo ix do Decreto-Lei n.º 77/2006, de 30 de Março, em especial os metais e os seus componentes referidos no n.º 7 desse anexo, devem ser considerados perigosos ou não.
+
+3 - Sem prejuízo de quaisquer outros requisitos mais rigorosos previstos em diplomas especiais, as ARH, I. P., podem isentar das medidas previstas no n.º 1 a introdução de poluentes que sejam:
+
+a) Resultado de descargas directas autorizadas nos termos do n.º 4 do artigo 30.º da Lei n.º 58/2005, de 29 de Dezembro;
+
+b) Consideradas pelas autoridades competentes em quantidade e concentração demasiado baixas para representar qualquer risco presente ou futuro de deterioração da qualidade da água subterrânea receptora;
+
+c) Consequência de acidentes ou de circunstâncias excepcionais de causa natural não susceptíveis de serem razoavelmente previstos, evitados ou mitigados;
+
+d) Resultado da recarga artificial ou do aumento das massas de água subterrânea, autorizados nos termos do artigo 30.º da Lei n.º 58/2005, de 29 de Dezembro;
+
+e) Consideradas pelas ARH, I. P., como tecnicamente impossível de prevenir ou limitar sem recurso a:
+
+i) Medidas susceptíveis de aumentar os riscos para a saúde humana ou para a qualidade do ambiente no seu conjunto; ou
+
+ii) Medidas desproporcionalmente onerosas para remover quantidades de poluentes do solo ou subsolo contaminado ou para controlar, por qualquer outra forma, a respectiva percolação no referido solo ou subsolo;
+
+f) Resultado de intervenções em águas de superfície, incluindo a dragagem, a mudança e a deposição de sedimentos, nomeadamente para mitigar os efeitos de cheias e de secas e para a gestão dos recursos hídricos e vias navegáveis, inclusivamente a nível internacional.
+
+4 - Os títulos de utilização de recursos hídricos a emitir relativamente às intervenções referidas na alínea f) do número anterior devem impor a condição de a introdução não comprometer a concretização dos objectivos ambientais estabelecidos para as massas de água visadas.
+
+5 - As isenções previstas no n.º 3 só podem ser aplicadas pelas ARH, I. P., quando esteja assegurada uma monitorização eficaz da água subterrânea em causa, nos termos do n.º 2.2 do anexo vii do Decreto-Lei n.º 77/2006, de 30 de Março, ou outra monitorização adequada.
+
+6 - As ARH, I. P., devem manter um inventário das isenções a que se refere o n.º 3.
+
+###### Artigo 7.º — Regime transitório
+
+Entre 16 de Janeiro de 2009 e 22 de Dezembro de 2013, todos os novos processos de licenciamento concedido nos termos do artigo 67.º do Decreto-Lei n.º 236/98, de 1 de Agosto, devem ter em conta as exigências constantes do disposto nos artigos 3.º, 4.º e 5.º do presente decreto-lei.
+
+###### Artigo 8.º — Regiões Autónomas
+
+O regime do presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma a introduzir por diploma regional adequado.
+
+###### Artigo 9.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 4 de Setembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Manuel Lobo Antunes - Francisco Carlos da Graça Nunes Correia.
+
+Promulgado em 9 de Outubro de 2008.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 16 de Outubro de 2008.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+## Anexo I — [a que se refere a alínea a) do n.º 1 do artigo 3.º]
+
+Normas de qualidade para a água subterrânea
+
+1 - Para efeitos da avaliação do estado químico da água subterrânea em conformidade com o artigo 4.º, as normas de qualidade da água subterrânea que se seguem serão as constantes do quadro n.º 2.3.2, da secção ii do anexo v do Decreto-Lei n.º 77/2006, de 30 de Março, e estabelecidas em conformidade com o artigo 47.º da Lei n.º 58/2005, de 29 de Dezembro:
+
+(ver documento original)
+
+2 - Os resultados da aplicação da norma de qualidade aos pesticidas nos moldes especificados para efeitos do presente decreto-lei não prejudicarão os resultados dos procedimentos de avaliação dos riscos exigidos pelas Directivas n.os <a href="eurlex.asp?ano=1991&id=391L0414" title="Link para Directiva da Comunidade Europeia">91/414/CEE</a> (Decreto-Lei n.º 94/98, de 15 de Abril, com a redacção que lhe foi dada pelo Decreto-Lei n.º 22/2001, de 30 de Janeiro) ou <a href="eurlex.asp?ano=1998&id=398L0008" title="Link para Directiva da Comunidade Europeia">98/8/CE</a> (transposta pelo Decreto-Lei n.º 121/2002, de 3 de Maio).
+
+3 - Se, para uma dada massa de água subterrânea, se considerar que as normas de qualidade da água subterrânea podem resultar no não cumprimento dos objectivos ambientais para as águas de superfície associadas ou provocar uma diminuição significativa da qualidade ambiental ou química dessas massas, ou eventuais danos significativos aos ecossistemas terrestres directamente dependentes da massa de água subterrânea, serão estabelecidos limiares mais rigorosos em conformidade com o artigo 3.º e com o anexo ii do presente decreto-lei. Os programas e as medidas necessários em relação a esses limiares serão, igualmente, aplicáveis às actividades abrangidas pelo Decreto-Lei n.º 235/97, de 3 de Setembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 68/99, de 11 de Março.
+
+## Anexo II — [a que se refere a alínea b) do n.º 1 do artigo 3.º]
+
+Limiares para os poluentes e indicadores de poluição da água subterrânea
+
+Parte A
+
+Orientações para a fixação de limiares nos termos do artigo 3.º
+
+1 - Serão estabelecidos os limiares para todos os poluentes e indicadores de poluição, em conformidade com a caracterização efectuada nos termos da secção ii do anexo i do Decreto-Lei n.º 77/2006, de 30 de Março, que contribuem para a caracterização de massas ou de grupos de massas de água subterrânea, como encontrando-se em risco de não conseguirem alcançar um bom estado químico.
+
+2 - Para o estabelecimento dos referidos limiares, são ouvidos os membros do Governo responsáveis pelas áreas da economia e da agricultura.
+
+3 - Os limiares serão estabelecidos de modo que, caso sejam excedidos pelos resultados da monitorização num ponto representativo, tal indique o risco de que uma ou mais condições do bom estado químico da água subterrânea referidas no artigo 4.º, n.º 4, alíneas b), c) e d), não estejam a ser preenchidas.
+
+4 - O estabelecimento e determinação dos referidos limiares deve basear-se:
+
+a) Na extensão da interacção entre a água subterrânea e os ecossistemas aquáticos associados e os ecossistemas terrestres dependentes;
+
+b) Na interferência com os usos actuais ou futuros da água subterrânea;
+
+c) Em todos os poluentes que contribuem para a caracterização de massas ou de grupos de massas de água subterrânea como encontrando-se em risco, tendo em conta a lista mínima constante da parte B;
+
+d) Nas características hidrogeológicas, incluindo informações sobre as concentrações naturais e os balanços hídricos.
+
+5 - A determinação dos limiares deverá ter igualmente em conta as origens dos poluentes, a sua possível ocorrência natural, a sua toxicologia e tendência de dispersão, a sua persistência e o seu potencial de bioacumulação.
+
+6 - Sempre que, por razões hidrogeológicas naturais, ocorram elevadas concentrações de fundo geoquímico de substâncias, iões ou indicadores de umas ou outros, essas concentrações de fundo da massa de água subterrânea devem ser tidas em consideração no estabelecimento dos limiares.
+
+7 - Na determinação das concentrações de fundo geoquímico observam-se os seguintes princípios:
+
+a) A determinação das concentrações deve basear-se na caracterização das massas de água subterrâneas de acordo com a secção II do anexo I do Decreto-Lei n.º 77/2006, de 30 de março, e nos resultados da monitorização das águas subterrâneas, de acordo com o anexo VII do mesmo decreto-lei;
+
+b) A estratégia de monitorização e a interpretação dos dados devem ter em consideração que as condições de fluxo e a química das águas subterrâneas variam na horizontal e na vertical;
+
+c) Se os dados de monitorização das águas subterrâneas forem escassos, as concentrações de fundo geoquímico são determinadas com base nos dados disponíveis por aplicação de um método simplificado e utilizando um subconjunto das amostras, cujos indicadores não revelem influência de atividade humana, considerando ainda as informações disponíveis sobre as transferências e os processos geoquímicos;
+
+d) Se os dados de monitorização das águas subterrâneas forem insuficientes e as informações disponíveis sobre as transferências e os processos geoquímicos forem poucas, as concentrações de fundo geoquímico podem ser estimadas com base em resultados estatísticos de referência para o mesmo tipo de aquíferos noutras zonas, para as quais existam dados de monitorização suficientes;
+
+e) Simultaneamente, para as situações referidas nas alíneas c) e d), deve promover-se de imediato a recolha de dados suplementares para melhorar a base estatística de análise.
+
+8 - A determinação dos limiares deverá apoiar-se num mecanismo de controlo dos dados recolhidos, baseado na avaliação da qualidade dos dados, em determinações analíticas e nas concentrações naturais das substâncias que podem ocorrer tanto naturalmente como em resultado de actividades humanas.
+
+Parte B
+
+Listas mínimas de poluentes e dos respectivos indicadores para os quais têm de ser fixados limiares nos termos do artigo 3.º
+
+1 - Substâncias, iões ou indicadores que podem ocorrer naturalmente ou como resultado de atividades humanas:
+
+Arsénio;
+
+Cádmio;
+
+Chumbo;
+
+Mercúrio;
+
+Azoto amoniacal;
+
+Cloreto;
+
+Sulfato;
+
+Nitritos;
+
+Fósforo total ou fosfatos.
+
+2 - Substâncias sintéticas artificiais:
+
+Tricloroetileno;
+
+Tetracloroetileno.
+
+3 - Parâmetro indicativo de intrusões salinas ou outras:
+
+Condutividade.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 34/2016 - Diário da República n.º 122/2016, Série I de 2016-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2016-74811911), em vigor a partir de 2016-06-29
+
+## Parte C
+
+1 - Os planos de gestão de região hidrográfica devem incluir informações sobre a forma como foi efetuado o procedimento previsto na parte A do presente anexo.
+
+2 - Devem ser fornecidos os seguintes elementos:
+
+a) Informações sobre cada uma das massas de água subterrâneas e cada um dos grupos de massas de água subterrânea caracterizados como encontrando-se em risco, incluindo:
+
+i) A dimensão da(s) massa(s) de água;
+
+ii) Cada poluente ou indicador de poluição que caracteriza a(s) massa(s) de água subterrânea(s) como encontrando-se em risco;
+
+iii) Os objetivos de qualidade ambiental aos quais o risco se reporta, incluindo as utilizações ou funções legítimas reais ou potenciais da(s) massa(s) de água subterrânea(s) e a relação entre a(s) massa(s) de água subterrânea(s) e as águas de superfície associadas e os ecossistemas terrestres dela(s) diretamente dependentes;
+
+iv) As concentrações de fundo geoquímico da(s) massa(s) de água subterrânea(s), no caso das substâncias que ocorrem naturalmente;
+
+v) Se os limiares forem excedidos, informações sobre essas excedências;
+
+b) Os limiares, quer se apliquem a nível nacional, quer a nível da região hidrográfica ou da parte da região hidrográfica internacional situada no território nacional, ou a nível de uma massa de água subterrânea ou de um grupo de massas de água subterrâneas;
+
+c) A relação entre os limiares e cada um dos seguintes elementos:
+
+i) No caso das substâncias que ocorrem naturalmente, as concentrações de fundo geoquímico;
+
+ii) As águas de superfície associadas e os ecossistemas terrestres delas diretamente dependentes;
+
+iii) Os objetivos de qualidade ambiental e outras normas de proteção dos recursos hídricos em vigor a nível nacional, europeu ou internacional;
+
+iv) Informações pertinentes sobre toxicologia, ecotoxicologia, persistência, potencial de bioacumulação e tendência de dispersão dos poluentes;
+
+d) A metodologia de determinação das concentrações de fundo geoquímico com base nos princípios estabelecidos no n.º 6 da parte A do presente anexo;
+
+e) As razões que fundamentam a ausência de limiares para algum dos poluentes e indicadores identificados na parte B do presente anexo;
+
+f) Os elementos fundamentais de avaliação do estado químico de massas de água subterrâneas, incluindo o nível, o método e o período de agregação dos resultados da monitorização, bem como a definição da extensão aceitável de excedência e o seu método de cálculo, de acordo com a alínea a) do n.º 4 do artigo 4.º e o n.º 3 do anexo III.
+
+3 - A omissão de quaisquer dados referidos nas alíneas do número anterior deve ser justificada nos planos de gestão de bacia hidrográfica.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 34/2016 - Diário da República n.º 122/2016, Série I de 2016-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2016-74811911), em vigor a partir de 2016-06-29
+
+## Anexo III — [a que se refere a alínea a) do n.º 4 do artigo 4.º]
+
+Avaliação do estado químico da água subterrânea
+
+1 - O procedimento de avaliação que determina o estado químico de uma massa ou grupo de massas de água subterrânea será aplicado a todas as massas de água identificadas como estando em risco e a cada um dos poluentes que contribuem para essa caracterização.
+
+2 - Ao empreenderem quaisquer das investigações referidas no n.º 4 do artigo 4.º serão tidos em conta:
+
+a) As informações recolhidas para efeitos da caracterização a efectuar nos termos dos n.os 2.1 e 2.2 da secção ii do anexo I e 2 do anexo iii do Decreto-Lei n.º 77/2006, de 30 de Março;
+
+b) Os resultados da rede de monitorização da água subterrânea obtidos em conformidade com o n.º 2 do anexo vii do Decreto-Lei n.º 77/2006, de 30 de Março; e
+
+c) Qualquer outra informação relevante, incluindo uma comparação da média aritmética anual de concentração dos principais poluentes num ponto de monitorização com as normas de qualidade da água subterrânea definidos no anexo i e com os limiares estabelecidos nos termos do artigo 3.º e do anexo ii.
+
+3 - A fim de apurar se as condições de um bom estado químico da água subterrânea constantes das alíneas a) e d) do n.º 4 do artigo 4.º estão preenchidas, proceder-se-á, sempre que adequado e necessário, e com base na agregação apropriada dos resultados da monitorização, com o apoio, se necessário, de estimativas de concentração baseadas num modelo conceptual da massa ou do grupo de massas de água subterrânea, a uma estimativa da extensão da massa de água subterrânea, cuja média aritmética anual de concentração de um poluente é superior à norma de qualidade ou ao limiar da água subterrânea.
+
+4 - A fim de apurar se as condições de um bom estado químico da água subterrânea constantes nas alíneas b) e c) do n.º 4 do artigo 4.º estão preenchidas, proceder-se-á, sempre que adequado e necessário, e com base em resultados da monitorização e num modelo conceptual adequado, à avaliação:
+
+a) Do impacte dos poluentes na massa de água subterrânea;
+
+b) Das quantidades e concentrações de poluentes transferidos, ou susceptíveis de o serem, da massa de água subterrânea para as águas de superfície associadas ou para os ecossistemas terrestres directamente dependentes;
+
+c) Do impacte provável das quantidades e concentrações dos poluentes transferidos para as águas de superfície associadas e para os ecossistemas terrestres directamente dependentes;
+
+d) Da dimensão de eventuais intrusões salinas ou outras na massa de água subterrânea; e
+
+e) Do risco que os poluentes nas massas de água subterrânea representam para a qualidade das águas captadas ou destinadas a ser captadas para consumo humano.
+
+5 - As ARH, I. P., apresentarão o estado químico da água subterrânea de uma massa ou de um grupo de massas de água subterrânea em mapas elaborados nos termos dos n.os 2.5 e 2.6 do anexo vii do Decreto-Lei n.º 77/2006, de 30 de Março. Além disso, sempre que se justifique, serão indicados nesses mapas todos os pontos de monitorização em que as normas e ou os limiares da qualidade da água subterrânea são ultrapassadas.
+
+## Anexo IV — (a que se refere o n.º 1 do artigo 5.º)
+
+Identificação de tendências e definição do ponto de partida para a inversão dessas tendências
+
+Parte A
+
+Identificação das tendências significativas e persistentes para o aumento das concentrações
+
+Serão identificadas as tendências significativas e persistentes para o aumento das concentrações em todas as massas ou grupos de massas de água subterrânea caracterizadas como encontrando-se em risco nos termos do n.º 2 do anexo iii do Decreto-Lei n.º 77/2006, de 30 de Março, tendo em conta os seguintes requisitos:
+
+1) De acordo com o n.º 2 do anexo vii do Decreto-Lei n.º 77/2006, de 30 de Março, o programa de monitorização será concebido de modo a detectar eventuais tendências significativas e persistentes para o aumento das concentrações dos poluentes identificados em aplicação do artigo 3.º do presente decreto-lei;
+
+2) O procedimento para a identificação de tendências significativas e persistentes para o aumento das concentrações de poluentes será baseado no seguinte:
+
+a) As frequências e os locais de monitorização deverão ser seleccionados na medida do necessário para:
+
+i) Fornecer as informações necessárias para garantir que essas tendências para o aumento possam ser distinguidas das variações naturais com um nível adequado de fiabilidade e de rigor;
+
+ii) Permitir que essas tendências para o aumento sejam identificadas com tempo suficiente para permitir a implementação de medidas destinadas a prevenir, ou pelo menos mitigar, tanto quanto possível, alterações ambientais significativas prejudiciais à qualidade da água subterrânea. Essa identificação será realizada pela primeira vez em 2009, se possível, e tomará em consideração os dados existentes, no contexto do relatório sobre a identificação das tendências no âmbito do primeiro plano de gestão da bacia hidrográfica e, em seguida, no mínimo de seis em seis anos;
+
+iii) Ter em conta as características físicas e químicas temporais da massa de água subterrânea, incluindo as condições de fluxo, as taxas de recarga e os períodos de percolação no solo ou no subsolo;
+
+b) Utilização de métodos de monitorização e de análise conformes com os princípios internacionais de controlo da qualidade, incluindo, se relevante, métodos normalizados do Comité Europeu de Normalização, ou nacionais, que garantam uma qualidade científica equivalente e a comparabilidade dos dados fornecidos;
+
+c) A avaliação da análise de tendências em séries temporais de cada ponto de monitorização basear-se-á num método estatístico tal como a análise de regressão;
+
+d) Para evitar distorções na identificação das tendências, todas as medições inferiores ao limite de quantificação serão fixadas em metade do valor do limite de quantificação mais elevado registado nas séries temporais, excepto no que diz respeito aos pesticidas totais;
+
+3) Para a identificação das tendências significativas e persistentes para o aumento das concentrações de poluentes naturalmente presentes, ou cuja presença resulte de actividades humanas, tomar-se-ão em consideração os valores de referência e, quando disponíveis, os dados reunidos antes do início do programa de monitorização para efeitos de identificação de tendências no âmbito do primeiro plano de gestão da bacia hidrográfica.
+
+Parte B
+
+Pontos de partida para a inversão das tendências
+
+Inverter-se-ão as tendências significativas e persistentes para o aumento das concentrações, nos termos do artigo 5.º, tendo em conta:
+
+1) O ponto de partida para a implementação de medidas destinadas a inverter as tendências significativas e persistentes para o aumento das concentrações será, quando a concentração do poluente atinge 75 % dos valores paramétricos das normas de qualidade da água subterrânea definidas no anexo i e dos limiares estabelecidos nos termos do artigo 3.º, a menos que:
+
+a) Seja necessário um ponto de partida anterior, que permita que as medidas de inversão das tendências evitem da forma menos dispendiosa possível, ou pelo menos reduzam o mais possível, quaisquer alterações ambientais significativas prejudiciais à qualidade da água subterrânea;
+
+b) Se justifique um ponto de partida diferente, quando o limite de detecção não permitir o estabelecimento da presença de uma tendência em 75 % dos valores paramétricos; ou
+
+c) A taxa de aumento e a reversibilidade da tendência sejam de molde que um ponto de partida posterior para as medidas de inversão ainda permita que essas medidas evitem, da forma menos dispendiosa possível, ou pelo menos reduzam o mais possível, quaisquer alterações ambientais significativas prejudiciais à qualidade da água subterrânea. Esse ponto de partida posterior não pode acarretar qualquer atraso no cumprimento do previsto no n.º 2 do artigo 45.º da Lei n.º 58/2005, de 29 de Dezembro, dos objectivos ambientais;
+
+d) Para as actividades abrangidas pelo Decreto-Lei n.º 235/97, de 3 de Setembro, o ponto de partida para a execução de medidas para inverter as tendências significativas e persistentes para o aumento das concentrações será estabelecido de acordo com aquele decreto-lei e com a Lei n.º 58/2005, de 29 de Dezembro, e, em especial, em função dos objectivos ambientais de protecção das águas;
+
+2) Uma vez estabelecido um ponto de partida para uma massa de água subterrânea caracterizada como estando em risco nos termos do n.º 2.4 do anexo vii do Decreto-Lei n.º 77/2006, de 30 de Março, e nos termos do n.º 1 do presente anexo, tal ponto de partida não pode ser alterado durante o ciclo de seis anos do plano de gestão da bacia hidrográfica;
+
+3) As inversões das tendências que serão demonstradas de acordo com as disposições aplicáveis relativas à monitorização contidas no n.º 2 da parte A.

@@ -1,0 +1,446 @@
+---
+schema_version: '1.0'
+id: pt:dre:74277011:por
+title: Portaria n.º 112/2016
+short_title: null
+summary: Aprova o Regulamento do Regime de Apoio ao Controlo e Inspeção no quadro da Política Comum das Pescas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Mar
+proposing_entity: null
+official_number: 112/2016
+official_date: null
+publication_date: '2016-04-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 82/2016, Série I de 2016-04-28
+  number: '82'
+  series: I
+  supplement: null
+  pages: 1418 - 1422
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/04/08200/0141801422.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-03-16'
+version_history:
+  file: portaria-112-2016.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-04-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-09-06'
+    amending: pt:dre:75253107:por
+    amending_title: Portaria n.º 241/2016
+    changes:
+    - Altera Artigo 6.º
+  - date: '2019-12-03'
+    amending: pt:dre:126774995:por
+    amending_title: Portaria n.º 400/2019
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 15.º
+  - date: '2022-03-16'
+    amending: pt:dre:180474165:por
+    amending_title: Portaria n.º 114/2022
+    changes:
+    - Altera Artigo 18.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/112/2016/p/cons/20191202/pt/html
+  oj: null
+  dre: '74277011'
+  dre_path: /dr/detalhe/portaria/112-2016-74277011
+  internal: pt:dre:74277011:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/112-2016-74277011
+  metadata_url: https://data.dre.pt/eli/port/112/2016/p/cons/20191202/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-75258117
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-75258117
+  retrieved_at: '2026-10-22T12:07:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 49734d4c2422a916663ba0b3fb8ce50589a12d69cebc3899b17ef74a462fca47
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:07:57Z'
+  notes: 4 versão(ões); histórico completo em portaria-112-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- União Europeia
+- Pesca
+- Regime de Apoio
+- Regulamento
+- Regulamento CE
+- PORTUGAL 2020
+- Regime de Apoio ao Controlo e Inspeção no quadro da Política Comum das Pescas
+relationships:
+- type: amended_by
+  target: pt:dre:75253107:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/241-2016-75253107
+  date: '2016-09-05'
+- type: amended_by
+  target: pt:dre:126774995:por
+  label: Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995
+  date: '2019-12-02'
+- type: amended_by
+  target: pt:dre:180474165:por
+  label: Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/114-2022-180474165
+  date: '2022-03-15'
+- type: cites
+  target: celex:32005R0768
+  label: null
+  source: http://data.europa.eu/eli/reg/2005/768/oj
+- type: cites
+  target: celex:32009R1224
+  label: null
+  source: http://data.europa.eu/eli/reg/2009/1224/oj
+- type: cites
+  target: celex:32013R1303
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1303/oj
+- type: cites
+  target: celex:32014R0508
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/508/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
+article_structure:
+  article_count: 23
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:07:57Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 112/2016
+
+Portaria n.º 112/2016
+
+de 28 de abril
+
+O Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), determinou que a estruturação operacional deste fundo é composta por um programa operacional (PO) de âmbito nacional, designado Mar 2020.
+
+O Mar 2020, aprovado formalmente pela Comissão Europeia através da Decisão de Execução C (2015) 8642, de 30 de novembro de 2015, contempla uma visão estratégica centrada no acompanhamento e execução do regime de controlo no quadro da Política Comum das Pescas, enquadrada na Prioridade da União Europeia a que alude a alínea b) do n.º 3 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014.
+
+A materialização daquela Prioridade conta com a possibilidade de cofinanciamento, no âmbito do artigo 76.º do citado regulamento, de operações no domínio do controlo da atividade da pesca, permitindo aos Estados-Membros a adoção de um regime de apoio mediante a aprovação da competente regulamentação específica.
+
+O Decreto-Lei n.º 159/2014, de 27 de outubro, que estabelece as regras gerais de aplicação dos programas operacionais financiados pelos FEEI, veio prever na alínea d) do n.º 1 do artigo 4.º e na alínea b) do n.º 2 do artigo 5.º, respetivamente, que o regime jurídico dos FEEI é também integrado pela regulamentação específica dos programas operacionais e que, no caso do FEAMP, a mesma é aprovada por portaria do membro do Governo responsável pela área do mar.
+
+Assim:
+
+Manda o Governo, pela Ministra do Mar, ao abrigo do disposto na alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria aprova o Regulamento do Regime de Apoio ao Controlo e Inspeção no quadro da Política Comum das Pescas, ao abrigo da Prioridade da União Europeia estabelecida na alínea b) do n.º 3 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e com enquadramento na medida prevista no artigo 76.º do mesmo regulamento, em anexo à presente portaria, dela fazendo parte integrante.
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+A Ministra do Mar, Ana Paula Mendes Vitorino, em 22 de abril de 2016.
+
+## Anexo — (a que se refere o artigo 1.º)
+
+Regulamento do Regime de Apoio ao Controlo e Inspeção Relativo à Política Comum das Pescas
+
+###### Artigo 1.º — Âmbito
+
+O presente regulamento estabelece o Regime de Apoio ao Controlo e Inspeção relativo à Política Comum das Pescas (PCP), no âmbito do Programa Operacional (PO) Mar 2020.
+
+###### Artigo 2.º — Objetivos
+
+Os apoios previstos no presente regulamento têm como finalidade possibilitar a execução do regime de controlo, inspeção e execução da União Europeia, através do reforço da capacidade institucional e da eficiência da administração pública.
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação do presente regime e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:
+
+a) «AIS»: sistemas de identificação automática (AIS) utilizados para fins de controlo;
+
+b) «ERS»: sistema eletrónico de registo e transmissão de dados a que se refere o Regulamento (CE) n.º 1224/2009;
+
+c) «VMS»: sistema de localização dos navios por satélite.
+
+###### Artigo 4.º — Tipologia de operações
+
+São suscetíveis de apoio as operações de um dos seguintes tipos:
+
+a) A compra, a instalação e ou o desenvolvimento de tecnologia, incluindo equipamento e programas informáticos, sistemas de deteção de navios (VDS), câmaras de televisão em circuito fechado (sistemas CCTV) e redes informáticas que permitam a compilação, administração, validação, análise, gestão de risco, apresentação (através de sítios Web ligados ao controlo) e intercâmbio de dados relativos à pesca e o desenvolvimento de métodos de amostragem desses dados, bem como a interconexão com sistemas intersectoriais de intercâmbio de dados;
+
+b) O desenvolvimento, a compra e a instalação dos componentes, incluindo equipamento e programas informáticos, necessários para assegurar a transmissão de dados dos intervenientes na pesca e comercialização de produtos da pesca às autoridades pertinentes do Estado-Membro e da União, incluindo os componentes necessários para os sistemas eletrónicos de registo e transmissão de dados (ERS), os sistemas de localização dos navios por satélite (VMS) e os sistemas de identificação automática (AIS) utilizados para fins de controlo;
+
+c) O desenvolvimento, a compra e a instalação dos componentes, incluindo equipamento e programas informáticos, necessários para assegurar a rastreabilidade dos produtos da pesca e da aquicultura, tal como referido no artigo 58.º do Regulamento (CE) n.º 1224/2009 do Conselho, de 20 de novembro de 2009;
+
+d) A execução de programas destinados ao intercâmbio de dados entre os Estados-Membros e à sua análise;
+
+e) A modernização de navios já existentes e equipamentos similares, bem como a eventual aquisição de outros, dotados de elevada tecnologia, na condição de serem utilizados para o controlo das pescas em pelo menos 60 % do seu tempo total de utilização por ano;
+
+f) A compra de outros meios de controlo, incluindo dispositivos de medição da potência motriz e instrumentos de pesagem;
+
+g) O desenvolvimento de sistemas inovadores de controlo e acompanhamento e a execução de projetos-piloto ligados ao controlo das pescas, incluindo a análise do ADN dos peixes ou o desenvolvimento de sítios Web ligados ao controlo;
+
+h) Os programas de formação e intercâmbio, inclusive entre Estados-Membros, de pessoal responsável, pelo acompanhamento, controlo, vigilância das atividades de pesca;
+
+i) A análise de custo benefício e as avaliações das auditorias realizadas e das despesas suportadas pelas autoridades competentes com o acompanhamento, o controlo e a vigilância;
+
+j) As iniciativas, incluindo a organização de seminários e a utilização dos meios de comunicação, destinadas a sensibilizar melhor os pescadores e outras partes interessadas, nomeadamente inspetores, representantes do ministério público e juízes, assim como o público em geral, para a necessidade de lutar contra a pesca ilegal, não declarada e não regulamentada e para a execução das regras da PCP;
+
+k) Os custos operacionais, decorrentes do controlo reforçado das unidades populacionais sujeitas a programas específicos de controlo e inspeção estabelecidos nos termos do artigo 95.º do Regulamento (CE) n.º 1224/2009 e sujeitas à coordenação do controlo nos termos do artigo 15.º do Regulamento (CE) n.º 768/2005 do Conselho, de 26 de abril de 2005;
+
+l) Os programas relacionados com a execução de um plano de ação estabelecido em conformidade com o n.º 4 do artigo 102.º do Regulamento (CE) n.º 1224/2009, incluindo quaisquer custos operacionais daí decorrentes.
+
+###### Artigo 5.º — Elegibilidade das operações
+
+Podem beneficiar de apoios ao abrigo do presente regulamento as operações que:
+
+a) Não estejam materialmente concluídas ou totalmente executadas à data de apresentação da candidatura respetiva, independentemente de todos os pagamentos correspondentes terem sido efetuados pelo beneficiário;
+
+b) Visem os objetivos previstos no artigo 2.º e se enquadrem numa das tipologias elencadas no artigo 4.º;
+
+c) Respeitem a ações previstas no plano de ação estabelecido para Portugal pela Decisão da Comissão C (2014) 6485 final e ou no plano de ação específico do controlo, para cumprimento da condicionalidade ex ante do Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), ou outras que visem dar-lhes continuidade ou tenham natureza conexa, neste caso desde que devidamente justificada essa conexão e necessidade da sua implementação.
+
+> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-04-29
+
+###### Artigo 6.º — Tipologia de beneficiários
+
+Podem apresentar candidaturas ao presente regime de apoio:
+
+a) Marinha Portuguesa;
+
+b) Direção-Geral da Autoridade Marítima (DGAM);
+
+c) Direção-Geral dos Recursos Naturais, Segurança e Serviços Marítimos (DGRM), responsável pela coordenação do controlo das pescas a nível nacional;
+
+d) Direção Regional de Pescas da Região Autónoma da Madeira (DRPM);
+
+e) Força Aérea Portuguesa (FAP);
+
+f) Guarda Nacional Republicana - Unidade de Controlo Costeiro (GNR);
+
+g) Inspeção Regional de Pescas dos Açores (IRPA).
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 241/2016 - Diário da República n.º 170/2016, Série I de 2016-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/241-2016-75253107), em vigor a partir de 2016-09-06
+
+###### Artigo 7.º — Elegibilidade dos beneficiários
+
+Sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, apenas são elegíveis os beneficiários que integram o Sistema Integrado de Fiscalização e Controlo da Atividade da Pesca (SIFICAP).
+
+###### Artigo 8.º — Elegibilidade das despesas
+
+1 - Sem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis as seguintes despesas:
+
+a) Compra e instalação de equipamentos e desenvolvimento de programas informáticos, em particular os associados às infraestruturas tecnológicas de suporte às atividades de controlo e inspeção;
+
+b) Compra e instalação de equipamentos necessários às comunicações e transmissão de dados, bem como desenvolvimento de ferramentas destinadas à análise dos mesmos;
+
+c) Aquisição e instalação de equipamentos VMS e de equipamentos AIS para fins de controlo;
+
+d) Desenvolvimento de programas informáticos necessários à rastreabilidade dos produtos da pesca e da aquicultura;
+
+e) Implementação de mecanismos para troca de informação no que respeita à atividade da pesca com vista a cumprir as obrigações da PCP;
+
+f) Modernização de equipamentos existentes, podendo ser equacionada a aquisição de outros dotados de elevada tecnologia, na condição de serem utilizados para o controlo das pescas em pelo menos 60 % do seu tempo total de utilização por ano;
+
+g) Ações de verificação da potência dos motores, podendo incluir eventual recurso a consultadoria jurídica neste domínio e ações de divulgação;
+
+h) Criação do site do Controlo;
+
+i) Programas de formação para inspetores e pessoal encarregado das tarefas de controlo e vigilância;
+
+j) Deslocações de inspetores ou outros peritos quando estes participem em ações de formação ou reuniões no âmbito do controlo e inspeção da atividade da pesca;
+
+k) Ações de análise de custo benefício, relativamente às inspeções da atividade da pesca, bem como ao recurso a redes e programas informáticos;
+
+l) Organização de seminários e outras iniciativas que visem a sensibilização para o exercício das boas práticas, nomeadamente no que respeita à luta contra a pesca ilegal;
+
+m) Participação em ações de inspeção coordenadas pela Agência Europeia de Controlo das Pescas;
+
+n) Implementação do plano de ação relativo ao controlo, aprovado pela Comissão Europeia, incluindo os custos operacionais dele decorrentes.
+
+2 - Sem prejuízo do disposto dos números anteriores, podem ser consideradas elegíveis outras despesas, desde que imprescindíveis à realização dos objetivos subjacentes às operações e aprovadas pelo gestor.
+
+> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03
+
+###### Artigo 9.º — Taxas de apoio
+
+A taxa de apoio público para as operações apresentadas ao abrigo do presente regulamento é de 100 % das despesas elegíveis da operação, dos quais 90 % são suportados pelo FEAMP, à exceção das operações enquadráveis na alínea e) do artigo 4.º, em que a taxa de cofinanciamento do FEAMP é de 70 %.
+
+###### Artigo 10.º — Natureza dos apoios públicos
+
+Os apoios públicos previstos no presente regulamento revestem a forma de subvenção não reembolsável.
+
+###### Artigo 11.º — Apresentação das candidaturas
+
+1 - As candidaturas são apresentadas em contínuo, em conformidade com o previsto no n.º 2 do artigo 16.º do Decreto-Lei n.º 159/2014, de 27 de outubro, podendo ter caráter plurianual.
+
+2 - A apresentação das candidaturas efetua-se nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou no portal do Mar 2020, em www.mar2020.pt, e estão sujeitos a confirmação eletrónica, considerando-se a data de submissão como a data de apresentação da candidatura.
+
+3 - O regime-regra previsto no número anterior não prejudica a possibilidade de a autoridade de gestão admitir forma diversa de apresentação de candidaturas quando tal se justifique.
+
+###### Artigo 12.º — Seleção das candidaturas
+
+1 - Às candidaturas que preencham uma das condições a seguir indicadas é atribuída uma pontuação final (PF) de 100 pontos:
+
+a) Satisfaçam os requisitos do programa de controlo nacional;
+
+b) Satisfaçam os requisitos do plano de ação para o controlo estabelecido pela Decisão da Comissão Europeia C (2014) 6485, de 18 de setembro de 2014; ou
+
+c) Visem dar cumprimento ao plano de ação relativo à condicionalidade específica ex ante do FEAMP.
+
+2 - Às candidaturas que não satisfaçam nenhum dos requisitos identificados no número anterior é atribuída uma pontuação final (PF) de 0 pontos.
+
+3 - São excluídas as candidaturas que não obtenham uma pontuação final de 100 pontos.
+
+###### Artigo 13.º — Análise e decisão das candidaturas
+
+1 - A análise das candidaturas compete à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, que, assegurando a segregação de funções, emite parecer sobre as mesmas, no quadro das suas responsabilidades na aplicação do regime de controlo no âmbito da PCP.
+
+2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta no prazo fixado para o efeito fundamento para o seu indeferimento.
+
+3 - O parecer referido no n.º 1 do presente artigo é remetido à autoridade de gestão num prazo máximo de 40 dias úteis a contar da data da apresentação da candidatura.
+
+4 - O secretariado técnico aprecia o parecer emitido sobre a candidatura com vista a assegurar que a mesma é selecionada em conformidade com as regras e critérios aplicáveis ao Mar 2020 e submete proposta de decisão final ao gestor.
+
+5 - A comissão de gestão emite parecer sobre as propostas de decisão relativas às candidaturas a financiamento.
+
+6 - A decisão das operações que prevejam um investimento elegível igual ou superior a (euro) 2.500.000,00 compete ao membro do Governo responsável pela área do mar.
+
+7 - Antes de ser emitida a decisão final, o secretariado técnico procede à audiência de interessados, nos termos do Código do Procedimento Administrativo, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.
+
+8 - Sem prejuízo do disposto no n.º 4 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as candidaturas são objeto de decisão no prazo de 60 dias úteis contados a partir da data da respetiva apresentação, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.
+
+9 - A decisão de aprovação, total ou parcial, das candidaturas é igualmente comunicada pela autoridade de gestão ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no prazo máximo de cinco dias úteis a contar da data da sua emissão.
+
+###### Artigo 14.º — Termo de aceitação
+
+1 - A aceitação do apoio pelo beneficiário nos termos e condições definidos na decisão da sua atribuição é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.
+
+2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pelo gestor.
+
+###### Artigo 15.º — Pagamento dos apoios
+
+1 - O pagamento do apoio é feito pelo IFAP, I. P., após apresentação pelo beneficiário do pedido e dos respetivos documentos de suporte, da forma e nos termos previstos nos números seguintes.
+
+2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.
+
+3 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal.
+
+4 - Apenas são aceites os pedidos de pagamento relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação.
+
+5 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições previstas na decisão de aprovação.
+
+6 - Os pedidos de pagamento são apresentados com cadência regular ao longo da execução da operação, podendo, em regra, ser apresentados até quatro pedidos de pagamento por candidatura aprovada, para além do pedido de pagamento a título de adiantamento a que alude o artigo seguinte, sem prejuízo do gestor, designadamente através da orientação técnica a que alude a alínea e) do n.º 2 do artigo 4.º do Decreto-Lei n.º 159/2014, de 27 de outubro, autorizar a apresentação de pedidos de pagamento adicionais.
+
+> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03
+
+###### Artigo 16.º — Adiantamento dos apoios
+
+1 - O beneficiário poderá solicitar ao IFAP, I. P., a concessão de um ou mais adiantamentos até 50 % do valor do apoio, após submissão do termo de aceitação a que alude o artigo 14.º
+
+2 - A concessão e o montante dos adiantamentos a que se refere o número anterior ficam limitados às disponibilidades financeiras do Mar 2020.
+
+3 - A concessão de um adiantamento não obsta ao pagamento dos apoios ao abrigo do disposto no artigo anterior, contanto que os pagamentos efetuados a título de adiantamento e de reembolso, no seu conjunto, não excedam a totalidade da ajuda pública atribuída ao beneficiário.
+
+###### Artigo 17.º — Obrigações dos beneficiários
+
+1 - Sem prejuízo das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, constituem obrigações dos beneficiários:
+
+a) Iniciar a execução das operações até 90 dias a contar da data da submissão do termo de aceitação, sem prejuízo da elegibilidade temporal prevista no n.º 2 do artigo 65.º do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;
+
+b) Aplicar integralmente os apoios na realização da operação aprovada, com vista à execução dos objetivos que justificaram a sua atribuição;
+
+c) Cumprir pontualmente as obrigações para o efeito contraídas perante terceiros, de forma a não perturbar a cabal realização dos objetivos subjacentes à atribuição dos apoios;
+
+d) Manter integralmente os requisitos da atribuição dos apoios, designadamente os objetivos da operação, não alterando nem modificando a mesma sem prévia autorização do gestor.
+
+2 - Excecionalmente, pode ser aceite a prorrogação do prazo de início da operação, previsto na alínea a) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao beneficiário.
+
+###### Artigo 18.º — Alterações às operações aprovadas
+
+1 - Podem ser admitidas alterações técnicas à operação, desde que delas não resulte o aumento do apoio público e se mantenha o objetivo do projeto aprovado, seguindo-se o disposto no artigo 21.º, sem prejuízo do disposto no número seguinte.
+
+2 - Caso as alterações técnicas impliquem acréscimo de custos, pode ser considerado o aumento do apoio público desde que observadas as seguintes condições:
+
+a) As alterações e necessidade de aumento do apoio público sejam devidamente justificadas;
+
+b) O acréscimo de custos respeite a despesas elegíveis;
+
+c) As alterações em causa estejam em conformidade com as regras da contratação pública; e
+
+d) Exista disponibilidade financeira para acomodar o aumento de apoio solicitado.
+
+3 - A condição prevista na alínea d) do número anterior é dispensada no caso de a entidade beneficiária ter outra(s) operação(ões) aprovada(s) ao abrigo do presente regime em que desista, total ou parcialmente, do apoio que lhe está atribuído, em montante igual ou superior ao do aumento de apoio pretendido.
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 114/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/portaria/114-2022-180474165), em vigor a partir de 2022-03-16
+
+###### Artigo 19.º — Cobertura orçamental
+
+Os encargos com o pagamento dos apoios públicos previstos no presente regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P.
+
+###### Artigo 20.º — Reduções e exclusões
+
+1 - Os apoios previstos no presente regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013 e demais legislação aplicável, designadamente quando ocorra alguma das seguintes situações:
+
+a) Incumprimento pelo beneficiário das obrigações decorrentes da decisão de atribuição do apoio, do termo de aceitação, do presente regulamento ou da legislação nacional e europeia aplicável;
+
+b) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação da operação ou falsificando documentos fornecidos no âmbito da mesma.
+
+2 - As reduções e exclusões dos apoios são efetuadas nos termos e condições a definir em portaria do membro do Governo responsável pela área do mar.
+
+3 - À recuperação dos montantes indevidamente recebidos, aplica-se o disposto no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.
+
+###### Artigo 21.º — Extinção ou modificação da operação por iniciativa do beneficiário
+
+O beneficiário pode requerer ao gestor:
+
+a) A extinção da operação, desde que proceda à restituição das importâncias recebidas;
+
+b) A modificação da operação, desde que proceda à restituição das importâncias recebidas, na medida correspondente à modificação.

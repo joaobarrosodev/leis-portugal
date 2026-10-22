@@ -1,0 +1,240 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74403502:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-115440279",
+ "dre_path": "/dr/detalhe/portaria/130-2016-74403502",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176600267",
+    "115393818",
+    "115393819",
+    "115393820",
+    "115393821",
+    "115393822"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:74843510:por",
+     "title": "Declaração de Retificação n.º 11/2016",
+     "published": "2016-07-01",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/11-2016-74843510",
+     "date": "2016-05-11"
+    }
+   ]
+  },
+  {
+   "date": "2018-06-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115414933:por",
+     "title": "Portaria n.º 159/2018",
+     "published": "2018-06-01",
+     "dre_path": "/dr/detalhe/portaria/159-2018-115414933"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "115393817",
+    "115393830",
+    "115393831",
+    "115393829",
+    "115393821",
+    "115393822",
+    "115393823"
+   ]
+  },
+  {
+   "date": "2021-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176492359:por",
+     "title": "Portaria n.º 318/2021",
+     "published": "2021-12-24",
+     "dre_path": "/dr/detalhe/portaria/318-2021-176492359"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "176600267",
+    "176600268",
+    "176600269",
+    "176600270",
+    "176600271",
+    "176600272",
+    "176600273"
+   ]
+  }
+ ],
+ "fragments": {
+  "176600267": {
+   "fragment_id": "115440280",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-12-25",
+   "changed_by": [],
+   "markdown": "Portaria n.º 130/2016\n\nde 10 de maio\n\nConsiderando a sua importância em termos económicos, a receita fiscal gerada, e a crescente complexidade das suas operações, a generalidade dos países da OCDE possui serviços que se ocupam exclusivamente do acompanhamento tributário dos grandes contribuintes promovendo, entre outros aspetos, a assistência no cumprimento voluntário das respetivas obrigações fiscais e a redução do número de litígios de natureza fiscal e dos riscos de incumprimento.\n\nNo cumprimento do disposto no Decreto-Lei n.º 118/2011, de 15 de dezembro, a Portaria n.º 320-A/2011, de 30 de dezembro, estabeleceu a estrutura nuclear da Autoridade Tributária e Aduaneira fixando, simultaneamente, as competências da Unidade dos Grandes Contribuintes (UGC). Por outro lado, o Decreto-Lei n.º 6/2013, de 17 de janeiro, operacionalizou aquela Unidade, com efeitos a 1 de janeiro de 2012, procedendo a diversas alterações legislativas relevantes nesta matéria.\n\nUma vez criada organicamente a estrutura destinada a efetuar o acompanhamento tributário dos grandes contribuintes e definidas as respetivas competências, foi publicada a Portaria n.º 107/2013, de 15 de março, que estabeleceu os critérios de seleção dos contribuintes cuja situação tributária deve ser acompanhada pela UGC. Passados três anos e tendo em conta a alteração levada a cabo pelo Orçamento do Estado para o ano de 2016 relativamente ao artigo 68.º-B da Lei Geral Tributária (LGT), no que concerne aos contribuintes individuais de elevada capacidade patrimonial, importa agora proceder à definição dos critérios que devem presidir à determinação destes.\n\nIntroduz-se também, no que se refere às sociedades, uma regra aplicável ao período de permanência no Cadastro dos Grandes Contribuintes (CGC) de sociedades que deixem de estar integradas em grupos de sociedades constantes daquele cadastro.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, ao abrigo do disposto no n.º 3 do artigo 68.º-B da Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, o seguinte:\n\n> Nota: [Artigo 5.º, Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359) As pessoas singulares que integraram o cadastro dos grandes contribuintes, antes da entrada em vigor desta portaria, mantêm-se a ser acompanhadas pela UGC, aplicando-se as regras de permanência referidas na última parte do n.º 7 do artigo anterior."
+  },
+  "115393818": {
+   "fragment_id": "115440281",
+   "type": 11,
+   "heading": "Artigo 1.º — Critérios de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Critérios de seleção\n\nOs contribuintes cuja situação tributária deve ser acompanhada pela Unidade dos Grandes Contribuintes são os que preencham pelo menos um dos seguintes critérios:\n\na) Entidades com um volume de negócios superior a:\n\ni) 100 milhões de euros, nos casos em que exerçam atividades sob a supervisão do Banco de Portugal ou da Autoridade de Supervisão de Seguros e Fundos de Pensões;\n\nii) 200 milhões de euros, nos restantes casos;\n\nb) Sociedades gestoras de participações sociais, constituídas nos termos do Decreto-Lei n.º 495/88, de 30 de dezembro, com um valor total de rendimentos superior a 200 milhões de euros.\n\nc) Entidades com um valor global de impostos pagos superior a 20 milhões de euros;\n\nd) Sociedades não abrangidas por qualquer das alíneas anteriores que sejam consideradas relevantes, atendendo, nomeadamente, à sua relação societária com as sociedades abrangidas pelas referidas alíneas;\n\ne) Sociedades integradas em grupos, abrangidos pelo regime especial de tributação dos grupos de sociedades, nos termos do artigo 69.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, em que alguma das sociedades integrantes do grupo, dominante ou dominada, seja abrangida pelas condições definidas em qualquer das alíneas anteriores;\n\nf) As pessoas singulares com rendimentos superiores a 750 mil euros;\n\ng) As pessoas singulares que detenham, direta ou indiretamente, ou sejam beneficiárias efetivas de património, incluindo bens e direitos, de valor superior a 5 milhões de euros;\n\nh) As pessoas singulares com manifestações de fortuna congruentes com os rendimentos ou património referidos nas alíneas f) e g);\n\ni) As pessoas singulares, bem como as sociedades e outras entidades, que não sendo abrangidas por qualquer das alíneas anteriores sejam consideradas relevantes, atendendo à sua relação jurídica ou económica com os sujeitos passivos abrangidos por essas alíneas."
+  },
+  "115393819": {
+   "fragment_id": "115440282",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - O volume de negócios referido na alínea a) do artigo anterior é calculado nos termos do n.º 4 ou do n.º 5 do artigo 106.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, conforme se trate de entidades não financeiras ou financeiras.\n\n2 - O valor total de rendimentos a que se refere a alínea b) do artigo anterior corresponde ao total apresentado na demonstração de resultados por naturezas da entidade a que se refere, em conformidade com os respetivos planos de contas.\n\n3 - Os rendimentos a que se refere a alínea f) do artigo anterior são compostos por todos os influxos patrimoniais, nomeadamente os considerados para efeitos de incidência a IRS ainda que isentos daquele imposto.\n\n4 - O património a que se refere a alínea g) do artigo anterior é constituído pelo conjunto de bens e direitos suscetíveis de avaliação em dinheiro."
+  },
+  "115393820": {
+   "fragment_id": "115440283",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Publicidade\n\n1 - As entidades referidas nas alíneas a) a e) do artigo 1.º são definidas e identificadas em relação alfabética a aprovar por despacho do diretor-geral da Autoridade Tributária e Aduaneira a publicar no Diário da República, mantendo-se acompanhadas pela Unidade dos Grandes Contribuintes até ao fim da sua vigência, ainda que deixem de verificar os critérios que conduziram à sua inclusão.\n\n2 - As entidades que preencham o critério da alínea e) do artigo 1.º em momento posterior à entrada em vigor da relação prevista no número anterior consideram-se nela incluídas a partir do dia 1 de janeiro do ano seguinte ao da entrega da primeira declaração modelo 22 como integrantes do grupo de sociedades, mantendo-se acompanhadas pela Unidade dos Grandes Contribuintes até ao fim da sua vigência, ainda que deixem de verificar os requisitos que conduziram à sua inclusão.\n\n3 - A relação tem uma vigência de quatro anos podendo, por despacho do diretor-geral da Autoridade Tributária e Aduaneira, ser anualmente acrescida dos contribuintes que passem a preencher os correspondentes requisitos, sem prejuízo do disposto no número anterior.\n\n4 - As pessoas singulares referidas nas alíneas f) a h) do artigo 1.º, quando se verifique o preenchimento de pelo menos um dos critérios ali previstos, são notificadas de que passam a ser acompanhadas pela Unidade dos Grandes Contribuintes, mantendo-se nessa situação durante os quatro anos seguintes ao da notificação e ainda que deixem de preencher o critério que levou ao seu acompanhamento por aquela Unidade."
+  },
+  "115393821": {
+   "fragment_id": "115440284",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a Portaria n.º 107/2013, de 15 de março."
+  },
+  "115393822": {
+   "fragment_id": "115440285",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "115393817": {
+   "fragment_id": "115440280",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 130/2016\n\nde 10 de maio\n\nConsiderando a sua importância em termos económicos, a receita fiscal gerada, e a crescente complexidade das suas operações, a generalidade dos países da OCDE possui serviços que se ocupam exclusivamente do acompanhamento tributário dos grandes contribuintes promovendo, entre outros aspetos, a assistência no cumprimento voluntário das respetivas obrigações fiscais e a redução do número de litígios de natureza fiscal e dos riscos de incumprimento.\n\nNo cumprimento do disposto no Decreto-Lei n.º 118/2011, de 15 de dezembro, a Portaria n.º 320-A/2011, de 30 de dezembro, estabeleceu a estrutura nuclear da Autoridade Tributária e Aduaneira fixando, simultaneamente, as competências da Unidade dos Grandes Contribuintes (UGC). Por outro lado, o Decreto-Lei n.º 6/2013, de 17 de janeiro, operacionalizou aquela Unidade, com efeitos a 1 de janeiro de 2012, procedendo a diversas alterações legislativas relevantes nesta matéria.\n\nUma vez criada organicamente a estrutura destinada a efetuar o acompanhamento tributário dos grandes contribuintes e definidas as respetivas competências, foi publicada a Portaria n.º 107/2013, de 15 de março, que estabeleceu os critérios de seleção dos contribuintes cuja situação tributária deve ser acompanhada pela UGC. Passados três anos e tendo em conta a alteração levada a cabo pelo Orçamento do Estado para o ano de 2016 relativamente ao artigo 68.º-B da Lei Geral Tributária (LGT), no que concerne aos contribuintes individuais de elevada capacidade patrimonial, importa agora proceder à definição dos critérios que devem presidir à determinação destes.\n\nIntroduz-se também, no que se refere às sociedades, uma regra aplicável ao período de permanência no Cadastro dos Grandes Contribuintes (CGC) de sociedades que deixem de estar integradas em grupos de sociedades constantes daquele cadastro.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado dos Assuntos Fiscais, ao abrigo do disposto no n.º 3 do artigo 68.º-B da Lei Geral Tributária, aprovada pelo Decreto-Lei n.º 398/98, de 17 de dezembro, o seguinte:"
+  },
+  "115393830": {
+   "fragment_id": "115440281",
+   "type": 11,
+   "heading": "Artigo 1.º — Critérios de seleção",
+   "in_force_from": "2018-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 159/2018 - Diário da República n.º 105/2018, Série I de 2018-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2018-115414933), em vigor a partir de 2018-06-06, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Critérios de seleção\n\nOs contribuintes cuja situação tributária deve ser acompanhada pela Unidade dos Grandes Contribuintes são os que preencham pelo menos um dos seguintes critérios:\n\na) Entidades:\n\ni) Sob a supervisão do Banco de Portugal;\n\nii) Sob a supervisão da Autoridade de Supervisão de Seguros e Fundos de Pensões, com exceção das que exerçam a atividade de mediação de seguros, conforme definida na alínea c) do artigo 5.º do Decreto-Lei n.º 144/2006, de 31 de julho;\n\niii) Que sejam organismos de investimento coletivo sob a supervisão da Comissão do Mercado de Valores Mobiliários;\n\niv) Com um volume de negócios superior a 200 milhões de euros;\n\nb) Sociedades gestoras de participações sociais, constituídas nos termos do Decreto-Lei n.º 495/88, de 30 de dezembro, com um valor total de rendimentos superior a 200 milhões de euros.\n\nc) Entidades com um valor global de impostos pagos superior a 20 milhões de euros;\n\nd) Sociedades não abrangidas por qualquer das alíneas anteriores que sejam consideradas relevantes, atendendo, nomeadamente, à sua relação societária com as sociedades abrangidas pelas referidas alíneas;\n\ne) Sociedades integradas em grupos, abrangidos pelo regime especial de tributação dos grupos de sociedades, nos termos do artigo 69.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, em que alguma das sociedades integrantes do grupo, dominante ou dominada, seja abrangida pelas condições definidas em qualquer das alíneas anteriores;\n\nf) As pessoas singulares com rendimentos superiores a 750 mil euros;\n\ng) As pessoas singulares que detenham, direta ou indiretamente, ou sejam beneficiárias efetivas de património, incluindo bens e direitos, de valor superior a 5 milhões de euros;\n\nh) As pessoas singulares com manifestações de fortuna congruentes com os rendimentos ou património referidos nas alíneas f) e g);\n\ni) As pessoas singulares, bem como as sociedades e outras entidades, que não sendo abrangidas por qualquer das alíneas anteriores sejam consideradas relevantes, atendendo à sua relação jurídica ou económica com os sujeitos passivos abrangidos por essas alíneas.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 159/2018 - Diário da República n.º 105/2018, Série I de 2018-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2018-115414933), em vigor a partir de 2018-06-06, produz efeitos a partir de 2018-01-01"
+  },
+  "115393831": {
+   "fragment_id": "115440282",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2018-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 159/2018 - Diário da República n.º 105/2018, Série I de 2018-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2018-115414933), em vigor a partir de 2018-06-06, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - O volume de negócios referido no ponto iv) da alínea a) do artigo anterior é calculado nos termos dos n.os 4 e 5 do artigo 106.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas.\n\n2 - O valor total de rendimentos a que se refere a alínea b) do artigo anterior corresponde ao total apresentado na demonstração de resultados por naturezas da entidade a que se refere, em conformidade com os respetivos planos de contas.\n\n3 - Os rendimentos a que se refere a alínea f) do artigo anterior são compostos por todos os influxos patrimoniais, nomeadamente os considerados para efeitos de incidência a IRS ainda que isentos daquele imposto.\n\n4 - O património a que se refere a alínea g) do artigo anterior é constituído pelo conjunto de bens e direitos suscetíveis de avaliação em dinheiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 159/2018 - Diário da República n.º 105/2018, Série I de 2018-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2018-115414933), em vigor a partir de 2018-06-06, produz efeitos a partir de 2018-01-01"
+  },
+  "115393829": {
+   "fragment_id": "115440283",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicidade",
+   "in_force_from": "2016-05-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 11/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2016-74843510), em vigor a partir de 2016-05-11"
+   ],
+   "markdown": "###### Artigo 3.º — Publicidade\n\n1 - As entidades referidas nas alíneas a) a e) do artigo 1.º são definidas e identificadas em relação alfabética a aprovar por despacho do diretor-geral da Autoridade Tributária e Aduaneira a publicar no Diário da República, mantendo-se acompanhadas pela Unidade dos Grandes Contribuintes até ao fim da sua vigência, ainda que deixem de verificar os critérios que conduziram à sua inclusão.\n\n2 - As entidades que preencham o critério da alínea e) do artigo 1.º em momento posterior à entrada em vigor da relação prevista no número anterior consideram-se nela incluídas a partir do dia 1 de janeiro do ano seguinte ao da entrega da primeira declaração modelo 22 como integrantes do grupo de sociedades, mantendo-se acompanhadas pela Unidade dos Grandes Contribuintes até ao fim da sua vigência, ainda que deixem de verificar os requisitos que conduziram à sua inclusão.\n\n3 - A relação tem uma vigência de quatro anos podendo, por despacho do diretor-geral da Autoridade Tributária e Aduaneira, ser anualmente acrescida dos contribuintes que passem a preencher os correspondentes requisitos, sem prejuízo do disposto no número anterior.\n\n4 - As pessoas singulares referidas nas alíneas f) a i) do artigo 1.º, quando se verifique o preenchimento de pelo menos um dos critérios ali previstos, são notificadas de que passam a ser acompanhadas pela Unidade dos Grandes Contribuintes, mantendo-se nessa situação durante os quatro anos seguintes ao da notificação e ainda que deixem de preencher o critério que levou ao seu acompanhamento por aquela Unidade.\n\n> Retificado pelo/a [Declaração de Retificação n.º 11/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2016-74843510), em vigor a partir de 2016-05-11"
+  },
+  "115393823": {
+   "fragment_id": "115440286",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, Fernando António Portela Rocha de Andrade, em 28 de abril de 2016."
+  },
+  "176600268": {
+   "fragment_id": "115440281",
+   "type": 11,
+   "heading": "Artigo 1.º — Critérios de seleção",
+   "in_force_from": "2021-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 159/2018 - Diário da República n.º 105/2018, Série I de 2018-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2018-115414933), em vigor a partir de 2018-06-06, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Critérios de seleção\n\nOs contribuintes cuja situação tributária deve ser acompanhada pela Unidade dos Grandes Contribuintes são os que preencham pelo menos um dos seguintes critérios:\n\na) Entidades:\n\ni) Sob a supervisão do Banco de Portugal;\n\nii) Sob a supervisão da Autoridade de Supervisão de Seguros e Fundos de Pensões, com exceção das que exerçam a atividade de mediação de seguros, conforme definida na alínea c) do artigo 5.º do Decreto-Lei n.º 144/2006, de 31 de julho;\n\niii) Que sejam organismos de investimento coletivo sob a supervisão da Comissão do Mercado de Valores Mobiliários;\n\niv) Com um volume de negócios superior a 200 milhões de euros;\n\nb) Sociedades gestoras de participações sociais, constituídas nos termos do Decreto-Lei n.º 495/88, de 30 de dezembro, com um valor total de rendimentos superior a 200 milhões de euros.\n\nc) Entidades com um valor global de impostos pagos superior a 20 milhões de euros;\n\nd) Sociedades não abrangidas por qualquer das alíneas anteriores que sejam consideradas relevantes, atendendo, nomeadamente, à sua relação societária com as sociedades abrangidas pelas referidas alíneas;\n\ne) Sociedades integradas em grupos, abrangidos pelo regime especial de tributação dos grupos de sociedades, nos termos do artigo 69.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas, em que alguma das sociedades integrantes do grupo, dominante ou dominada, seja abrangida pelas condições definidas em qualquer das alíneas anteriores;\n\nf) As pessoas singulares com rendimentos superiores a 750 mil euros;\n\ng) As pessoas singulares que detenham, direta ou indiretamente, ou sejam beneficiárias efetivas de património, incluindo bens e direitos, de valor superior a 5 milhões de euros;\n\nh) As pessoas singulares com manifestações de fortuna congruentes com os rendimentos ou património referidos nas alíneas f) e g);\n\ni) As pessoas singulares, bem como as sociedades e outras entidades, que não sendo abrangidas por qualquer das alíneas anteriores sejam consideradas relevantes, atendendo à sua relação jurídica ou económica com os sujeitos passivos abrangidos por essas alíneas.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 159/2018 - Diário da República n.º 105/2018, Série I de 2018-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2018-115414933), em vigor a partir de 2018-06-06, produz efeitos a partir de 2018-01-01"
+  },
+  "176600269": {
+   "fragment_id": "115440282",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2021-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 159/2018 - Diário da República n.º 105/2018, Série I de 2018-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2018-115414933), em vigor a partir de 2018-06-06, produz efeitos a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - O volume de negócios referido no ponto iv) da alínea a) do artigo anterior é calculado nos termos dos n.os 4 e 5 do artigo 106.º do Código do Imposto sobre o Rendimento das Pessoas Coletivas.\n\n2 - O valor total de rendimentos a que se refere a alínea b) do artigo anterior corresponde ao total apresentado na demonstração de resultados por naturezas da entidade a que se refere, em conformidade com os respetivos planos de contas.\n\n3 - Os rendimentos a que se refere a alínea f) do artigo anterior são compostos por todos os influxos patrimoniais, nomeadamente os considerados para efeitos de incidência a IRS ainda que isentos daquele imposto.\n\n4 - O património a que se refere a alínea g) do artigo anterior é constituído pelo conjunto de bens e direitos suscetíveis de avaliação em dinheiro.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 159/2018 - Diário da República n.º 105/2018, Série I de 2018-06-01](https://diariodarepublica.pt/dr/detalhe/portaria/159-2018-115414933), em vigor a partir de 2018-06-06, produz efeitos a partir de 2018-01-01"
+  },
+  "176600270": {
+   "fragment_id": "115440283",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicidade",
+   "in_force_from": "2021-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25",
+    "Retificado pelo/a [Declaração de Retificação n.º 11/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2016-74843510), em vigor a partir de 2016-05-11"
+   ],
+   "markdown": "###### Artigo 3.º — Publicidade\n\n1 - As entidades referidas nas alíneas a) a e) do artigo 1.º são definidas e identificadas em relação alfabética a aprovar por despacho do diretor-geral da Autoridade Tributária e Aduaneira a publicar no Diário da República, mantendo-se acompanhadas pela Unidade dos Grandes Contribuintes até ao fim da sua vigência, ainda que deixem de verificar os critérios que conduziram à sua inclusão.\n\n2 - As entidades que preencham o critério da alínea e) do artigo 1.º em momento posterior à entrada em vigor da relação prevista no número anterior consideram-se nela incluídas a partir do dia 1 de janeiro do ano seguinte ao da entrega da primeira declaração modelo 22 como integrantes do grupo de sociedades, mantendo-se acompanhadas pela Unidade dos Grandes Contribuintes até ao fim da sua vigência, ainda que deixem de verificar os requisitos que conduziram à sua inclusão.\n\n3 - A relação tem uma vigência de quatro anos podendo, por despacho do diretor-geral da Autoridade Tributária e Aduaneira, ser anualmente acrescida dos contribuintes que passem a preencher os correspondentes requisitos, sem prejuízo do disposto no número anterior.\n\n4 - As pessoas singulares referidas nas alíneas f) a i) do artigo 1.º, quando se verifique o preenchimento de pelo menos um dos critérios ali previstos, são notificadas de que passam a ser acompanhadas pela Unidade dos Grandes Contribuintes, mantendo-se nessa situação durante os quatro anos seguintes ao da notificação e ainda que deixem de preencher o critério que levou ao seu acompanhamento por aquela Unidade.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25\n\n> Retificado pelo/a [Declaração de Retificação n.º 11/2016 - Diário da República n.º 125/2016, Série I de 2016-07-01](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-2016-74843510), em vigor a partir de 2016-05-11"
+  },
+  "176600271": {
+   "fragment_id": "115440284",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": "2021-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25"
+   ],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogada a Portaria n.º 107/2013, de 15 de março.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25"
+  },
+  "176600272": {
+   "fragment_id": "115440285",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2021-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25"
+  },
+  "176600273": {
+   "fragment_id": "115440286",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25"
+   ],
+   "markdown": "O Secretário de Estado dos Assuntos Fiscais, Fernando António Portela Rocha de Andrade, em 28 de abril de 2016.\n\n> Revogado pelo/a Artigo 5.º do/a [Portaria n.º 318/2021 - Diário da República n.º 248/2021, Série I de 2021-12-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2021-176492359), em vigor a partir de 2021-12-25"
+  }
+ }
+}

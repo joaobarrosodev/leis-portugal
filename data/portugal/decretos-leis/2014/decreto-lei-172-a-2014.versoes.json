@@ -1,0 +1,1546 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:58900566:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-69878914",
+ "dre_path": "/dr/detalhe/decreto-lei/172-a-2014-58900566",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-11-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69867821",
+    "69867822",
+    "69867823",
+    "69867824",
+    "69867825",
+    "69867826",
+    "69867827",
+    "69867828",
+    "69867829",
+    "69867830",
+    "69867831",
+    "69867832",
+    "69867833",
+    "69867834",
+    "69867835",
+    "69867836",
+    "69867837",
+    "69867838",
+    "69867839",
+    "69867840",
+    "69867841",
+    "69867842",
+    "69867843",
+    "69867844",
+    "69867845",
+    "69867846",
+    "69867847",
+    "69867848",
+    "69867849",
+    "69867850",
+    "69867851",
+    "69867852",
+    "69867853",
+    "69867854",
+    "69867855",
+    "69867856",
+    "69867857",
+    "69867858",
+    "69867859",
+    "69867860",
+    "69867861",
+    "69867862",
+    "69867863",
+    "69867864",
+    "69867865",
+    "69867866",
+    "69867867",
+    "69867868",
+    "69867869",
+    "69867870",
+    "69867871",
+    "69867872",
+    "69867873",
+    "69867874",
+    "69894875",
+    "69894876",
+    "69894877",
+    "69894878",
+    "69894879",
+    "69894880",
+    "69894881",
+    "69894882",
+    "69894883",
+    "69894884",
+    "69894885",
+    "69894886",
+    "69894887",
+    "69894888",
+    "69894889",
+    "69894890",
+    "69894891",
+    "69894892",
+    "69894893",
+    "69894894",
+    "69894895",
+    "69894896",
+    "69894897",
+    "69894898",
+    "69894899",
+    "69894900",
+    "69894901",
+    "69894902",
+    "69894903",
+    "69894904",
+    "69894905",
+    "69894906",
+    "69894907",
+    "69894908",
+    "69894909",
+    "69894910",
+    "69894911",
+    "69894912",
+    "69894913",
+    "69894914",
+    "69894915",
+    "69894916",
+    "69894917",
+    "69894918",
+    "69894919",
+    "69894920",
+    "69894921",
+    "69894922",
+    "69894923",
+    "69894924",
+    "69894925",
+    "69894926",
+    "69894927",
+    "69894928",
+    "69894929",
+    "69894930",
+    "69894931",
+    "69894932",
+    "69894933",
+    "69894934",
+    "69894935",
+    "69894936",
+    "69894937",
+    "69894938",
+    "69894939",
+    "69894940",
+    "69894941",
+    "69894942",
+    "69894943",
+    "69894944",
+    "69894945",
+    "69894946",
+    "69894947",
+    "69894948",
+    "69894949",
+    "69894950",
+    "69894951",
+    "69894952",
+    "69894953",
+    "69894954",
+    "69894955",
+    "69894956",
+    "69894957",
+    "69894958",
+    "69894959",
+    "69894960",
+    "69894961",
+    "69894962",
+    "69894963",
+    "69894964",
+    "69894965",
+    "69894966",
+    "69894967",
+    "69894968"
+   ]
+  },
+  {
+   "date": "2015-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69879421:por",
+     "title": "Lei n.º 76/2015",
+     "published": "2015-07-28",
+     "dre_path": "/dr/detalhe/lei/76-2015-69879421"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 60.º"
+   ],
+   "fragments": [
+    "69867821",
+    "69867822",
+    "69867823",
+    "69867824",
+    "69867825",
+    "69867826",
+    "69867827",
+    "69867828",
+    "69867829",
+    "69894969",
+    "69867830",
+    "69867831",
+    "69867832",
+    "69867833",
+    "69867834",
+    "69867835",
+    "69894974",
+    "69867837",
+    "69867838",
+    "69867839",
+    "69867840",
+    "69867841",
+    "69867842",
+    "69867843",
+    "69867844",
+    "69867845",
+    "69867846",
+    "69867847",
+    "69867848",
+    "69867849",
+    "69867850",
+    "69867851",
+    "69867852",
+    "69867853",
+    "69867854",
+    "69867855",
+    "69867856",
+    "69867857",
+    "69867858",
+    "69867859",
+    "69867860",
+    "69867861",
+    "69867862",
+    "69867863",
+    "69867864",
+    "69867865",
+    "69867866",
+    "69867867",
+    "69867868",
+    "69867869",
+    "69867870",
+    "69867871",
+    "69867872",
+    "69867873",
+    "69867874",
+    "69894875",
+    "69894876",
+    "69894877",
+    "69894878",
+    "69894879",
+    "69894880",
+    "69894881",
+    "69894882",
+    "69894883",
+    "69894884",
+    "69894885",
+    "69894886",
+    "69894887",
+    "69894888",
+    "69894889",
+    "69894890",
+    "69894891",
+    "69894892",
+    "69894893",
+    "69894894",
+    "69894895",
+    "69894896",
+    "69894897",
+    "69894898",
+    "69894899",
+    "69894900",
+    "69894901",
+    "69894902",
+    "69894903",
+    "69894904",
+    "69894905",
+    "69894906",
+    "69894907",
+    "69894908",
+    "69894909",
+    "69894910",
+    "69894911",
+    "69894912",
+    "69894913",
+    "69894914",
+    "69894915",
+    "69894916",
+    "69894917",
+    "69896575",
+    "69894919",
+    "69894920",
+    "69894921",
+    "69894922",
+    "69894923",
+    "69894924",
+    "69894925",
+    "69894926",
+    "69894927",
+    "69894928",
+    "69894929",
+    "69894930",
+    "69894931",
+    "69894932",
+    "69894933",
+    "69894934",
+    "69894935",
+    "69894936",
+    "69894937",
+    "69894938",
+    "69894939",
+    "69894940",
+    "69894941",
+    "69894942",
+    "69894943",
+    "69894944",
+    "69894945",
+    "69894946",
+    "69894947",
+    "69894948",
+    "69894949",
+    "69894950",
+    "69894951",
+    "69894952",
+    "69894953",
+    "69894954",
+    "69894955",
+    "69894956",
+    "69894957",
+    "69894958",
+    "69894959",
+    "69894960",
+    "69894961",
+    "69894962",
+    "69894963",
+    "69894964",
+    "69894965",
+    "69894966",
+    "69894967",
+    "69894968"
+   ]
+  }
+ ],
+ "fragments": {
+  "69867821": {
+   "fragment_id": "69878915",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 172-A/2014\n\nde 14 de novembro\n\nVolvidos 31 anos após a publicação do Decreto-Lei n.º 119/83, de 25 de fevereiro, o setor social e solidário, representado pelas misericórdias, instituições de solidariedade social e mutualidades, vulgo Instituições Particulares de Solidariedade Social (IPSS) tem assumido uma posição de enorme preponderância no estabelecimento e desenvolvimento de um conjunto de respostas sociais, em todo o território nacional, alicerçado no quadro axiológico da solidariedade social e desenvolvendo-se num modelo de atuação que é revelador de uma abordagem mais humanista, mais próxima, menos dispendiosa para o Estado e mais benéfica para os cidadãos.\n\nEste setor, ao longo destas três décadas, não só cresceu exponencialmente em número de IPSS constituídas, como fundamentalmente passou a assumir, na nossa sociedade, uma importância social e económica de elevado relevo junto das comunidades em que as instituições estão inseridas, por via da sua atuação.\n\nCom efeito, a ação de solidariedade social exercida pelas IPSS não se encerra, apenas, no setor da segurança social, abrangendo igualmente outros domínios, como a saúde, a educação ou, ainda, em áreas em que as necessidades sociais dos indivíduos e das famílias encontram apoio e resposta. Por via da sua proximidade junto da sociedade, as IPSS têm demonstrado, pela sua ação, possuir capacidade para responder com elevada eficácia às situações de emergência social e de apoio aos cidadãos em situação de maior vulnerabilidade.\n\nA promoção solidária destas mesmas instituições constitui, assim, a raiz da sua ação, assente na capacidade de inovação e adaptação, face às respostas sociais necessárias.\n\nImporta referir que, para além da importância que o setor social e solidário possui no apoio aos cidadãos, as IPSS adquirem uma outra e especial importância na dinamização das economias locais onde estão implementadas, constituindo-se, assim, como agentes da dita economia social. A sua capacidade de dinamização económica e social é, hoje, reconhecida e valorizada por todos, desde logo, pelo peso que possui no emprego em Portugal, cerca de 5,5 %, e porque em momentos de crise é uma economia que se comporta de forma expansionista e em contraciclo, quando comparado com os outros setores tradicionais da economia. Uma economia que é das pessoas, para as pessoas e que respeita as comunidades.\n\nÉ de justiça salientar que, por via de uma iniciativa inovadora, em termos internacionais, o Governo em parceria com o Instituto Nacional de Estatística, I. P., desenvolveu a Conta Satélite da Economia Social, a qual, pela primeira vez e de forma rigorosa, retratou todo este setor, dando-lhe uma visibilidade e importância económica que até então não possuía. Hoje, sabemos, em concreto, que este setor possui uma dimensão tão ou mais importante do que outros setores tradicionais da nossa economia, não apenas pelo universo de 55 mil organizações que o constituem, pelas 227 mil pessoas que emprega, como também por ser responsável por 5,5 % do emprego remunerado nacional e por 2,8 % do Valor Acrescentado Bruto.\n\nConsciente da importância que se reveste este setor o Governo, desde o início da legislatura, desencadeou um processo de alteração do paradigma de relacionamento existente, deixando o conceito de Estado Tutelar para uma relação de Estado Parceiro estimulando e apoiando a atividade desenvolvida, bem como o aparecimento de novas e inovadoras respostas sociais.\n\nDesta forma, o Programa do XIX Governo Constitucional assumiu como nuclear a construção de uma relação de profunda parceria com este setor.\n\nNesta senda de parceria e constante diálogo com o setor, o Governo entendeu que seria necessário e fundamental que o setor social e solidário adquirisse a sua própria identidade e o devido reconhecimento legal, tendo avançado com a iniciativa legislativa designada por Lei de Bases da Economia Social. Uma iniciativa que veio capacitar, formalmente, as entidades da economia social dos instrumentos necessários para desenvolverem um conjunto de outras iniciativas para além das suas áreas tradicionais de atuação, permitindo-lhes a inovação e o empreendedorismo, reforçando o potencial de crescimento do país e contribuindo para o reforço da coesão social.\n\nDesenvolvendo o que se encontra disposto no n.º 4 do artigo 82.º da Constituição, na parte que diz respeito ao setor cooperativo e económico como setor produtivo, foi aprovada, por unanimidade, a Lei de Bases da Economia Social (Lei n.º 30/2013, de 8 de maio), a qual determinou a revisão dos regimes jurídicos das entidades por ela abrangidos.\n\nA revisão do estatuto das instituições particulares de solidariedade social realizada pelo presente decreto-lei surge ao abrigo e no desenvolvimento da Lei de Bases da Economia Social.\n\nApesar do Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85, de 9 de janeiro, 89/85, de 1 de abril, 402/85, de 11 de outubro, e 29/86, de 19 de fevereiro, manter no essencial a sua atualidade, importa reconhecer que as novas realidades social e organizacional impõem a reformulação de alguma das suas disposições e a introdução de outras, por forma a dotar as instituições assim qualificadas de um suporte jurídico que permita aprofundar a sua modernização e desenvolvimento.\n\nDeste modo, as principais propostas de revisão assentam:\n\nNa reformulação da definição de instituições particulares de solidariedade social, destacando-se o facto de a sua atuação dever ser pautada pelo cumprimento dos princípios orientadores da economia social, definidos na Lei n.º 30/2013, de 8 de maio;\n\nNa clara separação entre os fins principais e instrumentais das instituições;\n\nNa introdução de normas que possibilitam um controlo mais efetivo dos titulares dos órgãos de administração e fiscalização;\n\nNa limitação dos mandatos dos presidentes das instituições ou cargos equiparados a três mandatos consecutivos;\n\nNa introdução de regras mais claras para a concretização da autonomia financeira e orçamental, bem como para o seu equilíbrio técnico e financeiro, tão essencial nos dias que correm.\n\nO desafio consiste, agora, em garantir que este novo ciclo da economia social possa assentar em alicerces mais sólidos e sustentáveis, do ponto de vista económico-financeiro, e que sejam salvaguardados os esforços e os progressos já realizados. O trabalho entretanto desenvolvido permite afirmar, com segurança, que esse objetivo está a ser alcançado.\n\nFoi ouvida a União das Misericórdias Portuguesas.\n\nFoi promovida a audição da Confederação Nacional das Instituições de Solidariedade.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "69867822": {
+   "fragment_id": "69878916",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei altera o Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85, de 9 de janeiro, 89/85, de 1 de abril, 402/85, de 11 de outubro, e 29/86, de 19 de fevereiro."
+  },
+  "69867823": {
+   "fragment_id": "69878917",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Estatuto das Instituições Particulares de Solidariedade Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Estatuto das Instituições Particulares de Solidariedade Social\n\nOs artigos 1.º a 4.º, 6.º a 11.º, 13.º a 15.º, 17.º a 23.º, 26.º, 27.º, 30.º, 31.º, 34.º a 38.º, 40.º a 42.º, 44.º, 46.º, 48.º, 52.º a 54.º, 56.º, 58.º, 60.º, 61.º, 62.º, 64.º, 66.º, 68.º, 69.º, 71.º, 76.º, 77.º, 88.º, 89.º, 91.º a 93.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85, de 9 de janeiro, 89/85, de 1 de abril, 402/85, de 11 de outubro, e 29/86, de 19 de fevereiro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - São instituições particulares de solidariedade social, adiante designadas apenas por instituições, as pessoas coletivas, sem finalidade lucrativa, constituídas exclusivamente por iniciativa de particulares, com o propósito de dar expressão organizada ao dever moral de justiça e de solidariedade, contribuindo para a efetivação dos direitos sociais dos cidadãos, desde que não sejam administradas pelo Estado ou por outro organismo público.\n\n2 - A atuação das instituições pauta-se pelos princípios orientadores da economia social, definidos na Lei n.º 30/2013, de 8 de maio, bem como pelo regime previsto no presente Estatuto.\n\n3 - O regime estabelecido no presente Estatuto aplica-se subsidiariamente às instituições que se encontrem sujeitas a regulamentação especial.\n\nArtigo 2.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [Revogada];\n\nc) Associações mutualistas ou de socorros mútuos;\n\nd) [...];\n\ne) [...].\n\n2 - Para além das formas referidas no número anterior, podem as Instituições, nos termos da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004, assumir a forma de Institutos de Organizações ou Instituições da Igreja Católica, designadamente Centros Sociais Paroquiais e Caritas Diocesanas e Paroquiais.\n\n3 - A especificidade de cada uma das formas de organização é objeto de regulamentação em secção própria do presente Estatuto.\n\n4 - As instituições referidas no n.º 1 podem agrupar-se em:\n\na) [Anterior alínea a) do n.º 2];\n\nb) [Anterior alínea b) do n.º 2];\n\nc) [Anterior alínea c) do n.º 2].\n\nArtigo 3.º\n\n[...]\n\n1 - O princípio da autonomia assenta no respeito da identidade das instituições e na aceitação de que, salvaguardado o cumprimento da legislação aplicável, exercem as suas atividades por direito próprio e inspiradas no respetivo quadro axiológico.\n\n2 - [...].\n\nArtigo 4.º\n\n[...]\n\n1 - O Estado aceita, apoia e valoriza o contributo das instituições na efetivação dos direitos sociais dos cidadãos individualmente considerados.\n\n2 - [...].\n\n3 - As instituições podem encarregar-se, mediante acordos, da gestão de instalações e equipamentos pertencentes ao Estado ou às autarquias locais.\n\n4 - O apoio do Estado não pode constituir limitação ao direito de livre atuação das instituições.\n\nArtigo 6.º\n\nRespeito pela vontade dos fundadores e adequação ao cumprimento da legislação em vigor\n\n1 - A vontade dos fundadores, testadores ou doadores deve ser sempre respeitada no que diz respeito aos fins, meios e encargos constantes do documento constitutivo da instituição.\n\n2 - Os aspetos organizativos e funcionais das instituições devem adequar-se à legislação em vigor.\n\nArtigo 7.º\n\n[...]\n\n1 - O registo das instituições particulares de solidariedade social é obrigatório e deve ser efetuado nos termos regulamentados pelas respetivas portarias.\n\n2 - [Revogado].\n\nArtigo 8.º\n\n[...]\n\nAs instituições registadas nos termos regulamentados pelas respetivas portarias adquirem automaticamente a natureza de pessoas coletivas de utilidade pública.\n\nArtigo 9.º\n\n[...]\n\nAs instituições, suas uniões, federações ou confederações constituem-se e adquirem personalidade jurídica nos termos do presente Estatuto.\n\nArtigo 10.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) A forma jurídica adotada;\n\nc) [Anterior alínea b)].\n\nd) [Anterior alínea c)].\n\ne) A denominação dos órgãos, a sua composição e forma de designar os respetivos membros;\n\nf) As competências e regras de funcionamento dos órgãos;\n\ng) [Anterior alínea f)].\n\n3 - [...].\n\n4 - Os Estatutos das Irmandades das Misericórdias designam-se por compromisso, sendo a sua especificidade veiculada na secção própria.\n\nArtigo 11.º\n\n[...]\n\nAs alterações dos estatutos das instituições não carecem de revestir a forma de escritura pública, desde que estejam registadas nos termos das respetivas portarias.\n\nArtigo 13.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) Assegurar a organização e o funcionamento dos serviços e equipamentos, nomeadamente elaborando os regulamentos internos que se mostrem adequados e promovendo a organização e elaboração da contabilidade, nos termos da lei;\n\nd) [...];\n\ne) [...];\n\nf) [...].\n\n2 - As funções de representação podem ser atribuídas pelos estatutos a outro órgão ou a algum dos seus titulares.\n\n3 - O órgão de administração pode delegar poderes de representação e administração para a prática de certos atos ou de certas categorias de atos em qualquer dos seus membros, em profissionais qualificados ao serviço da instituição, ou em mandatários.\n\nArtigo 14.º\n\n[...]\n\n1 - Compete ao órgão de fiscalização o controlo e fiscalização da instituição, podendo, nesse âmbito, efetuar aos restantes órgãos as recomendações que entenda adequadas com vista ao cumprimento da lei, dos estatutos e dos regulamentos, e designadamente:\n\na) Fiscalizar o órgão de administração da instituição, podendo, para o efeito, consultar a documentação necessária;\n\nb) Dar parecer sobre o relatório e contas do exercício, bem como sobre o programa de ação e orçamento para o ano seguinte;\n\nc) Dar parecer sobre quaisquer assuntos que os outros órgãos submetam à sua apreciação;\n\nd) Verificar o cumprimento da lei, dos estatutos e dos regulamentos.\n\n2 - Os membros do órgão de fiscalização podem assistir às reuniões do órgão de administração quando para tal forem convocados pelo presidente deste órgão.\n\n3 - Sem prejuízo do disposto no artigo 12.º do Decreto-Lei n.º 36-A/2011, de 9 de março, alterado pela Lei n.º 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 64/2013, de 13 de maio, e no artigo 2.º do Decreto-Lei n.º 65/2013, de 13 de maio, o órgão de fiscalização das instituições pode ser integrado ou assessorado por um revisor oficial de contas ou sociedade de revisores oficiais de contas, sempre que o movimento financeiro da instituição o justifique.\n\nArtigo 15.º\n\nComposição dos órgãos\n\n1 - Os órgãos de administração e de fiscalização não podem ser constituídos maioritariamente por trabalhadores da instituição.\n\n2 - Não podem exercer o cargo de presidente do órgão de fiscalização trabalhadores da instituição.\n\nArtigo 17.º\n\n[...]\n\n1 - Os órgãos de administração e fiscalização são convocados pelos respetivos presidentes, por iniciativa destes, ou a pedido da maioria dos titulares dos órgãos.\n\n2 - Os órgãos de administração e de fiscalização só podem deliberar com a presença da maioria dos seus titulares.\n\n3 - Em caso de vacatura da maioria dos lugares de um órgão, deve proceder-se ao preenchimento das vagas verificadas, no prazo máximo de um mês, nos termos regulados nos estatutos.\n\n4 - Os membros designados para preencherem as vagas referidas no número anterior apenas completam o mandato.\n\n5 - É nulo o voto de um membro sobre assunto que diretamente lhe diga respeito e no qual seja interessado, bem como seu cônjuge, pessoa com quem viva em condições análogas às dos cônjuges e respetivos ascendentes e descendentes, bem como qualquer parente ou afim em linha reta ou no 2.º grau da linha colateral.\n\nArtigo 18.º\n\n[...]\n\n1 - [...].\n\n2 - Quando o volume do movimento financeiro ou a complexidade da administração das instituições exijam a presença prolongada de um ou mais titulares dos órgãos de administração, podem estes ser remunerados, desde que os estatutos assim o permitam, não podendo, no entanto, a remuneração exceder 4 (quatro) vezes o valor do indexante de apoios sociais (IAS) ou, no caso das fundações de solidariedade social, pôr em causa o cumprimento do disposto na Lei-quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, no respeitante ao limite de despesas próprias.\n\n3 - Não há lugar à remuneração dos titulares dos órgãos de administração sempre que se verifique, por via de auditoria determinada pelo membro do Governo responsável pela área da segurança social, que a instituição apresenta cumulativamente dois dos seguintes rácios:\n\na) Solvabilidade inferior a 50 %;\n\nb) Endividamento global superior a 150 %;\n\nc) Autonomia financeira inferior a 25 %;\n\nd) Rendibilidade líquida da atividade negativa, nos três últimos anos económicos.\n\nArtigo 19.º\n\n[...]\n\nCaso os estatutos sejam omissos, a instituição fica obrigada com as assinaturas conjuntas de quaisquer 3 membros do órgão de administração ou com as assinaturas conjuntas do presidente e do tesoureiro, salvo quanto aos atos de mero expediente, em que basta a assinatura de um membro do órgão de administração ou de gestão corrente.\n\nArtigo 20.º\n\nResponsabilidade dos titulares dos órgãos\n\n1 - As responsabilidades dos titulares dos órgãos ao abrigo do presente Estatuto são as definidas nos artigos 164.º e 165.º do Código Civil, sem prejuízo das definidas nos respetivos estatutos das instituições.\n\n2 - Além dos motivos previstos na lei geral, os titulares dos órgãos ficam exonerados de responsabilidade se:\n\na) [...];\n\nb) [...].\n\nArtigo 21.º\n\nElegibilidade\n\n1 - São elegíveis para os órgãos sociais das instituições os associados que, cumulativamente:\n\na) Estejam no pleno gozo dos seus direitos associativos;\n\nb) Sejam maiores;\n\nc) Tenham, pelo menos, um ano de vida associativa, salvo se os estatutos exigirem maior prazo.\n\n2 - A inobservância do disposto no número anterior determina a nulidade da eleição do candidato em causa.\n\n3 - [Revogado].\n\n4 - [Revogado].\n\nArtigo 22.º\n\nDeliberações anuláveis\n\nAs deliberações de qualquer órgão contrárias à lei ou aos estatutos, seja pelo seu objeto, seja em virtude de irregularidades havidas na convocação ou no funcionamento do órgão, são anuláveis, se não forem nulas, nos termos do artigo anterior.\n\nArtigo 23.º\n\n[...]\n\n1 - A empreitada de obras de construção ou grande reparação pertencentes às instituições, devem observar o estabelecido no Código dos Contratos Públicos, com exceção das obras realizadas por administração direta até ao montante máximo de 25 mil euros.\n\n2 - O disposto no número anterior não se aplica às instituições que não recebam apoios financeiros públicos.\n\n3 - [Anterior n.º 2].\n\n4 - [Anterior n.º 3].\n\n5 - [Anterior n.º 4].\n\nArtigo 26.º\n\nRegime aplicável\n\n1 - A fusão, cisão e extinção das instituições obedecem ao regime legal aplicável à forma que revistam em cada caso.\n\n2 - [Revogado].\n\n3 - [...].\n\nArtigo 27.º\n\n[...]\n\n1 - Os bens das instituições extintas revertem para outras instituições particulares de solidariedade social ou para entidades de direito público que prossigam idênticas finalidades, nos termos das disposições estatutárias, ou, na sua falta, mediante deliberação dos órgãos competentes.\n\n2 - Não havendo disposição estatutária aplicável, nem deliberação dos órgãos competentes, os bens são atribuídos, por decisão do membro do Governo responsável pela área da segurança social, a instituições particulares de solidariedade social com sede ou estabelecimento no concelho da localização dos bens, ou em concelhos limítrofes, preferindo as que prossigam ações do tipo das exercidas pelas instituições extintas, ou, na sua falta, para entidades de direito público que prossigam essas ações.\n\n3 - [...].\n\n4 - No caso de a instituição extinta ser católica, na atribuição dos bens é dada preferência a outra instituição católica.\n\n5 - O disposto no número anterior não se aplica aos bens afetos a fim especificamente religioso, cuja atribuição é feita nos termos da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004.\n\nArtigo 30.º\n\n[...]\n\n1 - As instituições e as entidades de direito público para as quais reverte o património das instituições extintas sucedem-lhes nos direitos e obrigações, nomeadamente no que respeita aos beneficiários, mas só respondem pelo pagamento das dívidas até ao valor dos bens que lhes tenham sido atribuídos.\n\n2 - [...].\n\n3 - O disposto nos números anteriores aplica-se igualmente às instituições para as quais reverte o património de outras instituições por efeito de fusão ou cisão.\n\n4 - No caso de cisão as garantias dos credores não devem ser reduzidas, sendo o processo de cisão antecedido de parecer do membro do Governo responsável pela área da segurança social, ao qual compete verificar a existência de credores.\n\nArtigo 31.º\n\n[...]\n\n1 - No caso de extinção, é designada uma comissão liquidatária, pela assembleia geral ou pela entidade que decretou a extinção.\n\n2 - [...].\n\n3 - Pelos atos restantes e pelos danos que deles advenham à instituição respondem solidariamente os titulares dos órgãos que os praticaram.\n\n4 - Pelas obrigações que os titulares dos órgãos contraírem a instituição só responde perante terceiros se estes estiverem de boa-fé e à extinção da instituição não tiver sido dada a devida publicidade.\n\nArtigo 34.º\n\n[...]\n\n1 - O Estado, através dos seus órgãos e serviços competentes, nos termos da lei geral, exerce os poderes de inspeção, auditoria e fiscalização sobre as instituições incluídas no âmbito de aplicação do presente Estatuto, podendo para o efeito ordenar a realização de inquéritos, sindicâncias e inspeções.\n\n2 - Os poderes de fiscalização são exercidos pelos serviços competentes do ministério responsável pela área da segurança social, nos exatos termos definidos nos respetivos estatutos, por forma a garantir o efetivo cumprimento dos seus objetivos no respeito pela lei.\n\n3 - Para além da notificação em sede de audiência prévia, nos termos do Código do Procedimento Administrativo, os serviços competentes devem comunicar ao órgão de administração da instituição os resultados das ações de fiscalização e de inspeção desenvolvidas, incluindo as recomendações adequadas à supressão das irregularidades e deficiências verificadas.\n\n4 - Os mecanismos adequados à articulação entre o ministério responsável pela área da segurança social e os outros Ministérios são definidos por portaria dos respetivos membros do Governo, com competência para o efeito.\n\nArtigo 35.º\n\nDestituição dos órgãos de administração\n\n1 - Quando se verifique a prática reiterada de atos ou a omissão sistemática do cumprimento de deveres legais ou estatutários pelo órgão de administração que sejam prejudiciais aos interesses da instituição ou dos seus beneficiários, podem ser judicialmente destituídos os titulares dos órgãos de administração.\n\n2 - O membro do Governo responsável pela área da segurança social pode pedir judicialmente a destituição do órgão de administração nas seguintes situações:\n\na) Por inadequação ao restabelecimento da legalidade ou do equilíbrio financeiro da instituição;\n\nb) Por incumprimento dos objetivos programados, por motivos imputáveis ao órgão de administração;\n\nc) Por se verificarem graves irregularidades no funcionamento da instituição ou dificuldades financeiras que obstem à efetivação dos direitos dos associados e utentes;\n\nd) Pela não apresentação das contas do exercício, durante dois anos consecutivos e segundo os procedimentos definidos pelo artigo 14.º-A;\n\ne) Pela não apresentação e ou não aprovação do programa adequado ao restabelecimento da legalidade e do equilíbrio financeiro, nos termos previstos nos n.os 4 e 5 do artigo 14.º-A;\n\nf) Por se verificar a prática de atos gravemente lesivos dos direitos dos associados e utentes e da imagem da instituição.\n\n3 - As associações, uniões, federações ou confederações de instituições têm legitimidade para requerer ao ministério responsável pela área da segurança social que promova o pedido judicial de destituição do órgão de administração, se tiverem conhecimento de factos imputáveis a instituições suscetíveis de integrar o disposto na alínea f) do número anterior.\n\n4 - [Anterior n.º 3].\n\nArtigo 36.º\n\nProcedimento cautelar\n\n1 - Quando se verifique a necessidade urgente de salvaguardar interesses dos beneficiários, da instituição ou do Estado, pode o Ministério Público requerer, com dependência do procedimento referido no artigo 35.º-A, a suspensão dos órgãos sociais obrigatórios e a nomeação de um administrador judicial.\n\n2 - A este procedimento são aplicáveis as disposições da lei processual civil sobre procedimentos cautelares comuns, com exceção das respeitantes à substituição por caução.\n\nArtigo 37.º\n\nEncerramento administrativo dos estabelecimentos\n\n1 - As entidades competentes para a fiscalização e inspeção das instituições podem determinar o encerramento de estabelecimentos ou serviços das instituições, quando se comprove que o seu funcionamento decorre de modo ilegal ou quando apresentam graves condições de insalubridade, inadequação das instalações, ou deficientes condições de segurança, higiene e conforto dos beneficiários.\n\n2 - Para a efetivação do encerramento nos termos do número anterior, podem as entidades competentes para a fiscalização e inspeção das instituições solicitar a intervenção das autoridades administrativas e policiais competentes.\n\nArtigo 38.º\n\n[...]\n\n1 - Para garantir a continuidade das respostas sociais, pode o membro do Governo responsável pela área da segurança social requisitar, sem prejuízo dos direitos de terceiro sobre tais bens, os bens afetos às atividades das instituições para serem utilizados com o mesmo fim e na mesma área por outras instituições ou por serviços oficiais, quando as instituições se extingam ou suspendam o exercício de atividades e se verifique que os beneficiários são por esse motivo gravemente prejudicados.\n\n2 - [...].\n\nArtigo 40.º\n\n[...]\n\nAs organizações e instituições religiosas que, para além dos fins religiosos, se proponham exercer atividades enquadráveis no artigo 1.º ficam sujeitas, quanto ao exercício destas atividades, ao regime estabelecido no presente Estatuto.\n\nArtigo 41.º\n\n[...]\n\nOs institutos de solidariedade social de organizações religiosas são pessoas coletivas instituídas e mantidas por organizações ou instituições religiosas com os objetivos previstos no artigo 1.º, bem como os demais requisitos estabelecidos no presente Estatuto.\n\nArtigo 42.º\n\nEstatutos\n\n1 - Os estatutos dos institutos abrangidos pela presente secção devem consignar a sua ligação específica à organização religiosa fundadora e conformar-se com as disposições aplicáveis do presente Estatuto.\n\n2 - As funções do órgão de fiscalização podem ser atribuídas pelos estatutos à entidade fundadora.\n\nArtigo 44.º\n\n[...]\n\nA aplicação das disposições do presente Estatuto às instituições da Igreja Católica é feita com respeito pelas disposições da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004.\n\nArtigo 46.º\n\n[...]\n\n1 - [Revogado].\n\n2 - [Revogado].\n\n3 - Os estatutos devem consignar a natureza da instituição e a sua ligação específica à Igreja Católica e conformar-se com as disposições aplicáveis do presente Estatuto.\n\nArtigo 48.º\n\n[...]\n\nOs poderes da Autoridade Eclesiástica são os que resultam das disposições da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004, nos precisos termos constantes do artigo 44.º\n\nArtigo 52.º\n\nNatureza e fins\n\n1 - As associações de solidariedade social são pessoas coletivas de tipo associativo constituídas com os objetivos previstos no artigo 1.º e que reúnem os demais requisitos estabelecidos no presente Estatuto para a qualificação como instituições particulares de solidariedade social.\n\n2 - Os objetivos das associações de solidariedade social concretizam-se mediante a concessão de bens ou a promoção de serviços e a realização de iniciativas enquadráveis no âmbito material de atuação do artigo 1.º-A.\n\n3 - [Revogado].\n\nArtigo 53.º\n\nConstituição\n\n1 - As associações de solidariedade social adquirem personalidade jurídica no ato de constituição.\n\n2 - O ato de constituição deve constar de escritura pública ou ato equivalente.\n\n3 - Para além do disposto no artigo 10.º, o ato de constituição deve especificar:\n\na) [Anterior alínea a) do n.º 3 do artigo 52.º];\n\nb) [Anterior alínea b) do n.º 3 do artigo 52.º];\n\nc) [Anterior alínea c) do n.º 3 do artigo 52.º];\n\nd) [Anterior alínea d) do n.º 3 do artigo 52.º].\n\n4 - [Anterior corpo do artigo].\n\nArtigo 54.º\n\n[...]\n\nDos estatutos das associações devem constar, para além das matérias referidas nos artigos 10.º e 53.º, as condições de admissão e saída dos associados, os seus direitos e obrigações e as sanções pelo não cumprimento dessas obrigações.\n\nArtigo 56.º\n\n[...]\n\n1 - O direito de voto efetiva-se mediante a atribuição de um voto a cada associado.\n\n2 - Gozam de capacidade eleitoral ativa os associados com, pelo menos, um ano de vida associativa, salvo se os estatutos exigirem prazo superior.\n\n3 - [Anterior n.º 2].\n\n4 - Os estatutos podem admitir o voto por correspondência, sob condição de o seu sentido ser expressamente indicado em relação ao ponto ou pontos da ordem de trabalhos e devendo definir a forma de reconhecimento da assinatura do associado.\n\nArtigo 58.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [Revogada].\n\n2 - Os estatutos podem prever outras formas de designação dos membros dos órgãos de administração e de fiscalização, desde que a maioria de cada um desses órgãos seja eleita pela assembleia geral.\n\nArtigo 60.º\n\n[...]\n\n1 - A assembleia geral é convocada com, pelo menos, 15 dias de antecedência, pelo presidente da mesa ou pelo seu substituto.\n\n2 - A convocatória é afixada na sede da associação e é também feita pessoalmente, por meio de aviso postal expedido para cada associado.\n\n3 - Independentemente das convocatórias, é dada publicidade à realização das assembleias gerais nas edições da associação, no sítio institucional da instituição e em aviso afixado em locais de acesso ao público nas instalações e estabelecimentos da associação, bem como através de anúncio publicado nos dois jornais de maior circulação da área onde se situe a sede.\n\n4 - Da convocatória deve constar o dia, a hora, o local e a ordem de trabalhos da reunião.\n\n5 - Desde que contemplada nos estatutos, a convocatória da assembleia geral pode também ser efetuada através de correio eletrónico.\n\n6 - Os documentos referentes aos diversos pontos da ordem de trabalhos devem estar disponíveis para consulta na sede e no sítio institucional da associação, logo que a convocatória seja expedida, por meio de aviso postal, para os associados.\n\nArtigo 61.º\n\n[...]\n\n1 - A assembleia geral reúne à hora marcada na convocatória, se estiver presente mais de metade dos associados com direito de voto, ou 30 minutos depois, com qualquer número de presenças, salvo se os estatutos dispuserem de outro modo.\n\n2 - [Revogado].\n\n3 - [...].\n\nArtigo 62.º\n\n[...]\n\n1 - Sem prejuízo do disposto no artigo 22.º, são anuláveis todas as deliberações tomadas sobre matérias que não constem da ordem de trabalhos fixada na convocatória, salvo se estiverem presentes ou devidamente representados todos os associados no pleno gozo dos seus direitos e todos concordarem com o aditamento.\n\n2 - As deliberações da assembleia geral são tomadas por maioria simples de votos, não se contando as abstenções.\n\n3 - É exigida maioria qualificada de, pelo menos, dois terços dos votos expressos na aprovação das matérias constantes das alíneas e), f) e g) do n.º 1 do artigo 58.º, podendo os estatutos exigir um número de votos superior.\n\n4 - No caso da alínea e) do n.º 1 do artigo 58.º, a dissolução não tem lugar se, pelo menos, o número mínimo de membros referido no artigo 53.º se declarar disposto a assegurar a permanência da associação, qualquer que seja o número de votos contra.\n\nArtigo 64.º\n\n[...]\n\n1 - Se a assembleia geral convocada para eleições nos termos do artigo anterior as não realizar na data ou no prazo que lhe tenham sido marcados, é possível recorrer a Tribunal Arbitral, o qual nomeia uma comissão provisória de gestão com a competência dos titulares dos órgãos de administração estatutários.\n\n2 - [...].\n\nArtigo 66.º\n\n[...]\n\n1 - [...].\n\n2 - As associações de solidariedade social podem ainda ser extintas por decisão do Tribunal Arbitral nas seguintes situações:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...].\n\nArtigo 68.º\n\n[...]\n\n1 - As irmandades da Misericórdia ou santas casas da Misericórdia são associações reconhecidas na ordem jurídica canónica, com o objetivo de satisfazer carências sociais e de praticar atos de culto católico, de harmonia com o seu espírito tradicional, informado pelos princípios de doutrina e moral cristãs.\n\n2 - [...].\n\nArtigo 69.º\n\n[...]\n\n1 - Às irmandades da Misericórdia aplica-se diretamente o regime jurídico previsto no presente Estatuto, sem prejuízo dos termos do Compromisso estabelecido entre a União das Misericórdias Portuguesas e a Conferência Episcopal, ou documento bilateral que o substitua.\n\n2 - [...].\n\n3 - [...].\n\nArtigo 71.º\n\n[...]\n\n1 - As irmandades da Misericórdia podem ser extintas nas condições previstas para as associações de solidariedade social.\n\n2 - Os bens das irmandades extintas têm o destino que resultar da aplicação dos artigos 27.º, 28.º, e 29.º, mas na sua atribuição é dada preferência, quanto possível, a outra irmandade da Misericórdia e em cumprimento do Compromisso e Decreto Geral Interpretativo de maio de 2011, subscrito pela União das Misericórdias Portuguesas e a Conferência Episcopal, ou de documento bilateral que o substitua.\n\n3 - [...].\n\nArtigo 76.º\n\n[...]\n\nAs associações mutualistas regem-se pelas disposições constantes de legislação especial e, subsidiariamente, pelas disposições do presente Estatuto.\n\nArtigo 77.º\n\n[...]\n\nPara poderem ser registadas como instituições particulares de solidariedade social, as fundações devem ser instituídas com o propósito definido no artigo 1.º e com os fins principais enquadráveis no elenco do artigo 1.º-A.\n\nArtigo 88.º\n\nFormas de agrupamentos e objetivos\n\n1 - [Anterior corpo do artigo].\n\n2 - As uniões, federações e confederações podem desenvolver quaisquer das atividades previstas nos artigos 1.º-A e 1.º-B.\n\nArtigo 89.º\n\n[...]\n\n1 - [...].\n\n2 - [Revogado].\n\n3 - [...].\n\n4 - As uniões, federações e confederações devem enviar anualmente ao membro do Governo responsável pela área da segurança social o relatório e contas do exercício findo e prestar as informações que lhe forem solicitadas, sem prejuízo das demais obrigações decorrentes dos acordos ou protocolos celebrados com o Estado e das normas que lhes sejam aplicáveis.\n\nArtigo 91.º\n\n[...]\n\nAs uniões são agrupamentos de instituições:\n\na) Que revistam forma idêntica;\n\nb) Que atuem na mesma área geográfica;\n\nc) Cujo regime específico de constituição o justifique.\n\nArtigo 92.º\n\n[...]\n\nAs federações são agrupamentos de instituições que prossigam atividades congéneres ou afins.\n\nArtigo 93.º\n\nConfederações\n\n1 - As confederações são agrupamentos, a nível nacional, de uniões e federações de instituições.\n\n2 - Os estatutos das confederações podem prever que nelas se inscrevam diretamente as instituições que não pertençam a qualquer união ou federação.»"
+  },
+  "69867824": {
+   "fragment_id": "69878918",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Estatuto das Instituições Particulares de Solidariedade Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Estatuto das Instituições Particulares de Solidariedade Social\n\nSão aditados ao Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85, de 9 de janeiro, 89/85, de 1 de abril, 402/85, de 11 de outubro, e 29/86, de 19 de fevereiro, os artigos 1.º-A, 1.º-B, 4.º-A, 4.º-B, 14.º-A, 15.º-A, 21.º-A a 21.º-D, 35.º-A, 35.º-B, 38.º-A, 59.º-A, 59.º-B, 61.º-A, 64.º-A a 64.º-C, 77.º-A e 93.º-A, com a seguinte redação:\n\n«Artigo 1.º-A\n\nFins e atividades principais\n\nOs objetivos referidos no artigo anterior concretizam-se mediante a concessão de bens, prestação de serviços e de outras iniciativas de promoção do bem-estar e qualidade de vida das pessoas, famílias e comunidades, nomeadamente nos seguintes domínios:\n\na) Apoio à infância e juventude, incluindo as crianças e jovens em perigo;\n\nb) Apoio à família;\n\nc) Apoio às pessoas idosas;\n\nd) Apoio às pessoas com deficiência e incapacidade;\n\ne) Apoio à integração social e comunitária;\n\nf) Proteção social dos cidadãos nas eventualidades da doença, velhice, invalidez e morte, bem como em todas as situações de falta ou diminuição de meios de subsistência ou de capacidade para o trabalho;\n\ng) Prevenção, promoção e proteção da saúde, nomeadamente através da prestação de cuidados de medicina preventiva, curativa e de reabilitação e assistência medicamentosa;\n\nh) Educação e formação profissional dos cidadãos;\n\ni) Resolução dos problemas habitacionais das populações;\n\nj) Outras respostas sociais não incluídas nas alíneas anteriores, desde que contribuam para a efetivação dos direitos sociais dos cidadãos.\n\nArtigo 1.º-B\n\nFins secundários e atividades instrumentais\n\n1 - As instituições podem também prosseguir de modo secundário outros fins não lucrativos, desde que esses fins sejam compatíveis com os fins definidos no artigo anterior.\n\n2 - As instituições podem ainda desenvolver atividades de natureza instrumental relativamente aos fins não lucrativos, ainda que desenvolvidos por outras entidades por elas criadas, mesmo que em parceria e cujos resultados económicos contribuam exclusivamente para o financiamento da concretização daqueles fins.\n\n3 - O regime estabelecido no presente Estatuto não se aplica às instituições em tudo o que diga respeito exclusivamente aos fins secundários e às atividades instrumentais desenvolvidas por aquelas.\n\n4 - O disposto no número anterior não prejudica a competência dos serviços com funções de fiscalização ou de inspeção para a verificação da natureza secundária ou instrumental das atividades desenvolvidas e para a aplicação do regime contraordenacional adequado ao efeito.\n\nArtigo 4.º-A\n\nAcordos de cooperação com o Estado\n\nAs instituições ficam obrigadas ao cumprimento das cláusulas dos acordos de cooperação que vierem a celebrar com o Estado.\n\nArtigo 4.º-B\n\nCooperação entre instituições\n\n1 - As instituições podem estabelecer entre si formas de cooperação que visem, designadamente, a utilização comum de serviços ou equipamentos e o desenvolvimento de ações de solidariedade social, de responsabilidade igualmente comum ou em regime de complementaridade.\n\n2 - A cooperação entre as instituições concretiza-se por iniciativa destas ou por intermédio das organizações de uniões, federações ou confederações.\n\nArtigo 14.º-A\n\nContas do exercício\n\n1 - As contas do exercício das instituições obedecem ao Regime da Normalização Contabilística para as entidades do setor não lucrativo legalmente aplicável e são aprovadas pelos respetivos órgãos nos termos estatutários.\n\n2 - As contas do exercício são publicitadas obrigatoriamente no sítio institucional eletrónico da instituição até 31 de maio do ano seguinte a que dizem respeito.\n\n3 - As contas devem ser apresentadas, dentro dos prazos estabelecidos, ao órgão competente para a verificação da sua legalidade.\n\n4 - O órgão competente comunica às instituições os resultados da verificação da legalidade das contas.\n\n5 - Na falta de cumprimento do disposto no n.º 3, o órgão competente pode determinar ao órgão de administração que apresente um programa adequado ao restabelecimento da legalidade e do equilíbrio financeiro, a submeter à sua aprovação.\n\n6 - Caso o programa referido no número anterior não seja apresentado ou não seja aprovado, o órgão competente pode requerer judicialmente a destituição do órgão de administração, nos termos previstos nos artigos 35.º e 35.º-A.\n\n7 - Para efeitos do disposto no presente artigo, os poderes do órgão competente são exercidos pelo membro do Governo responsável pela área da segurança social, com a faculdade de delegação, em órgãos de organismos públicos especializados para o efeito, quando a natureza técnica das matérias o justifique.\n\nArtigo 15.º-A\n\nIncompatibilidade\n\nNenhum titular do órgão de administração pode ser simultaneamente titular de órgão de fiscalização e ou da mesa da assembleia geral.\n\nArtigo 21.º-A\n\nNão elegibilidade\n\n1 - Os titulares dos órgãos não podem ser reeleitos ou novamente designados se tiverem sido condenados em processo judicial por sentença transitada em julgado, em Portugal ou no estrangeiro, por crime doloso contra o património, abuso de cartão de garantia ou de crédito, usura, insolvência dolosa ou negligente, apropriação ilegítima de bens do setor público ou não lucrativo, falsificação, corrupção e branqueamento de capitais, salvo se, entretanto, tiver ocorrido a extinção da pena.\n\n2 - Esta incapacidade verifica-se quanto à reeleição ou nova designação para os órgãos da mesma instituição ou de outra instituição particular de solidariedade social.\n\nArtigo 21.º-B\n\nImpedimentos\n\n1 - Os titulares dos órgãos não podem votar em assuntos que diretamente lhes digam respeito, ou nos quais sejam interessados os respetivos cônjuges ou pessoa com quem vivam em condições análogas às dos cônjuges, ascendentes, descendentes ou qualquer parente ou afim em linha reta ou no 2.º grau da linha colateral.\n\n2 - Os titulares dos órgãos de administração não podem contratar direta ou indiretamente com a instituição, salvo se do contrato resultar manifesto benefício para a instituição.\n\n3 - Os titulares dos órgãos não podem exercer atividade conflituante com a atividade da instituição onde estão inseridos, nem integrar corpos sociais de entidades conflituantes com os da instituição, ou de participadas desta.\n\n4 - Para efeitos do disposto no número anterior, considera-se que existe uma situação conflituante:\n\na) Se tiver interesse num determinado resultado ilegítimo, num serviço ou numa transação efetuada;\n\nb) Se obtiver uma vantagem financeira ou benefício de outra natureza que o favoreça.\n\nArtigo 21.º-C\n\nMandato dos titulares dos órgãos\n\n1 - A duração dos mandatos dos órgãos é de quatro anos.\n\n2 - Os titulares dos órgãos mantêm-se em funções até à posse dos novos titulares.\n\n3 - O exercício do mandato dos titulares dos órgãos só pode ter início após a respetiva tomada de posse, sem prejuízo do disposto no n.º 5.\n\n4 - A posse é dada pelo presidente cessante da mesa da assembleia geral e deve ter lugar até ao 30.º dia posterior ao da eleição.\n\n5 - Caso o presidente cessante da mesa da assembleia geral não confira a posse até ao 30.º dia posterior ao da eleição, os titulares eleitos pela assembleia geral entram em exercício independentemente da posse, salvo se a deliberação de eleição tiver sido suspensa por procedimento cautelar.\n\n6 - O presidente da instituição ou cargo equiparado só pode ser eleito para três mandatos consecutivos.\n\n7 - A inobservância do disposto no presente artigo determina a nulidade da eleição.\n\nArtigo 21.º-D\n\nDeliberações nulas\n\n1 - São nulas as deliberações:\n\na) Tomadas por um órgão não convocado, salvo se todos os seus titulares tiverem estado presentes ou representados ou tiverem posteriormente dado, por escrito, o seu assentimento à deliberação;\n\nb) Cujo conteúdo contrarie normas legais imperativas;\n\nc) Que não estejam integradas e totalmente reproduzidas na respetiva ata.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, não se considera convocado o órgão quando o aviso convocatório seja assinado por quem não tenha essa competência ou quando dele não constem o dia, hora e local da reunião, ou quando reúnam em dia, hora ou local diverso dos constantes do aviso.\n\nArtigo 35.º-A\n\nProcedimento judicial em caso de destituição dos órgãos de administração\n\n1 - Nos casos previstos no artigo anterior, observa-se o seguinte:\n\na) O Ministério Público especifica os factos que justificam o pedido, oferecendo logo a prova, e os membros do órgão de administração constituídos arguidos são citados para contestar;\n\nb) O juiz decide a final e, em caso de deferimento, deve nomear uma comissão provisória de gestão, proposta pelo Ministério Público.\n\n2 - São aplicáveis a este procedimento as normas que regulam os processos de jurisdição voluntária, em especial o processo de suspensão e destituição de órgãos sociais, previsto no artigo 1055.º do Código de Processo Civil.\n\nArtigo 35.º-B\n\nComissão provisória de gestão\n\n1 - A comissão provisória de gestão a que se refere o artigo anterior é constituída de preferência por associados e tem a competência do órgão de administração.\n\n2 - Nas situações de instituições que não possuem associados, a comissão provisória de gestão é composta por um administrador judicial.\n\n3 - O mandato da comissão provisória de gestão tem a duração de um ano, prorrogável até três anos.\n\n4 - Durante esse período ficam suspensos quer o funcionamento, quer as competências dos restantes órgãos sociais obrigatórios.\n\n5 - Antes do termo das suas funções, a comissão deve providenciar no sentido da designação dos titulares dos órgãos sociais da instituição, incluindo os novos membros do órgão de administração, nos termos estatutários.\n\nArtigo 38.º-A\n\nDelegação de competências\n\nO membro do Governo responsável pela área da segurança social pode atribuir a organismos públicos especializados o desempenho de parte das suas funções, quando a natureza técnica das matérias o justifique.\n\nArtigo 59.º-A\n\nSessões ordinárias\n\nA assembleia geral reúne em sessão ordinária:\n\na) No final de cada mandato, até final do mês de dezembro, para a eleição dos titulares dos órgãos associativos;\n\nb) Até 31 de março de cada ano para aprovação do relatório e contas de exercício do ano anterior e do parecer do órgão de fiscalização;\n\nc) Até 30 de novembro de cada ano, para apreciação e votação do programa de ação e do orçamento para o ano seguinte e do parecer do órgão de fiscalização.\n\nArtigo 59.º-B\n\nSessões extraordinárias\n\n1 - Salvo se os estatutos dispuserem de outro modo, a assembleia geral reúne extraordinariamente quando convocada pelo presidente da mesa da assembleia geral, por iniciativa deste, a pedido do órgão executivo ou do órgão de fiscalização ou a requerimento de, no mínimo, 10 % do número de sócios no pleno gozo dos seus direitos.\n\n2 - A reunião deve realizar-se no prazo máximo de 30 dias a contar da data da receção do pedido ou requerimento.\n\nArtigo 61.º-A\n\nMesa da assembleia geral\n\n1 - Os trabalhos da assembleia geral são dirigidos por uma mesa, constituída, pelo menos, por três membros, um dos quais é o presidente.\n\n2 - Nenhum titular dos órgãos de administração ou de fiscalização pode ser membro da mesa da assembleia geral.\n\n3 - Na falta de qualquer dos membros da mesa da assembleia geral, compete a esta eleger os respetivos substitutos de entre os associados presentes, os quais cessam as suas funções no termo da reunião.\n\nArtigo 64.º-A\n\nAssembleia de representantes\n\nOs estatutos das associações podem prever quais as funções da assembleia geral que podem ser exercidas por uma assembleia de representantes eleitos pelos associados.\n\nArtigo 64.º-B\n\nElegibilidade dos representantes\n\n1 - São elegíveis para a assembleia de representantes, os associados efetivos que cumulativamente:\n\na) Estejam no pleno gozo dos seus direitos associativos;\n\nb) Sejam maiores;\n\nc) Tenham, pelo menos, um ano de vida associativa, salvo se os estatutos exigirem maior prazo.\n\n2 - A inobservância do disposto no número anterior determina a nulidade da eleição do candidato em causa.\n\nArtigo 64.º-C\n\nMandato dos representantes\n\n1 - O mandato dos representantes é de quatro anos, renovável, não podendo exceder 12 anos consecutivos.\n\n2 - Em caso de impedimento definitivo do exercício de funções de qualquer dos representantes, é chamado ao preenchimento da vaga o candidato inscrito, ainda que como suplente, na mesma lista pela qual foi eleito o titular a substituir e pela respetiva ordem.\n\nArtigo 77.º-A\n\nRegime aplicável\n\n1 - As fundações de solidariedade social regem-se pelo disposto na Lei-quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, e, subsidiariamente, pelas disposições do presente Estatuto.\n\n2 - O disposto no capítulo I do presente Estatuto é aplicável às fundações de solidariedade social, com exceção dos artigos 10.º, 12.º, 13.º, 20.º, 21.º e 21.º-C.\n\nArtigo 93.º-A\n\nConvenções coletivas de trabalho\n\nAs uniões, federações e confederações podem, querendo, ser consideradas entidades com capacidade para negociação de convenções coletivas de trabalho aplicáveis às instituições nelas filiadas e aos trabalhadores representados pelas associações sindicais outorgantes.»"
+  },
+  "69867825": {
+   "fragment_id": "69878919",
+   "type": 11,
+   "heading": "Artigo 4.º — Alterações sistemáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alterações sistemáticas\n\nSão introduzidas as seguintes alterações à organização sistemática do Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85 de 9 de janeiro, 89/85 de 1 de abril, 402/85 de 11 de outubro, e 29/86 de 19 de fevereiro:\n\na) A secção II do capítulo I passa a denominar-se «Da criação, da organização interna e da extinção das instituições»;\n\nb) A subsecção II da secção II do capítulo I passa a denominar-se «Dos órgãos das instituições»;\n\nc) A subsecção IV da secção II do capítulo I passa a denominar-se «Da fusão, cisão e extinção das instituições»;\n\nd) A secção IV do capítulo III passa a denominar-se «Das associações mutualistas»;\n\ne) O capítulo IV passa a denominar-se «Das uniões, federações e confederações»;\n\nf) O artigo 55.º passa a ter a seguinte epígrafe: «Direitos e deveres dos associados»."
+  },
+  "69867826": {
+   "fragment_id": "69878920",
+   "type": 11,
+   "heading": "Artigo 5.º — Normas transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Normas transitórias e finais\n\n1 - As alterações introduzidas pelo presente decreto-lei ao Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85 de 9 de janeiro, 89/85 de 1 de abril, 402/85 de 11 de outubro, e 29/86 de 19 de fevereiro, aplicam-se às instituições particulares de solidariedade social atualmente existentes, com ressalva do limite estabelecido no n.º 6 do artigo 21.º-C do mesmo Estatuto, que não abrange os mandatos já exercidos ou os que estão em curso.\n\n2 - Todos os mandatos dos titulares dos órgãos que se iniciem após a entrada em vigor do presente decreto-lei ficam sujeitos ao disposto no artigo 21.º-C do Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85 de 9 de janeiro, 89/85 de 1 de abril, 402/85 de 11 de outubro, e 29/86 de 19 de fevereiro, com a redação dada pelo presente decreto-lei, o qual prevalece sobre os estatutos das instituições particulares de solidariedade social.\n\n3 - O disposto no artigo 45.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85 de 9 de janeiro, 89/85 de 1 de abril, 402/85 de 11 de outubro, e 29/86 de 19 de fevereiro, mantém-se em vigor até à entrada em vigor da legislação relativa ao Registo de Pessoas Jurídicas Canónicas.\n\n4 - No prazo máximo de um ano após a entrada em vigor do presente decreto-lei, as instituições particulares de solidariedade social, sob pena de perderem a qualificação como instituições particulares de solidariedade social e o respetivo registo ser cancelado, ficam obrigadas a adequar os seus estatutos ao disposto no Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85 de 9 de janeiro, 89/85 de 1 de abril, 402/85 de 11 de outubro, e 29/86 de 19 de fevereiro, com a redação dada pelo presente decreto-lei.\n\n5 - A adequação dos estatutos das instituições particulares de solidariedade social efetua-se por deliberação dos órgãos competentes, tomada por maioria simples dos votos, sem contar as abstenções, vencendo, no caso de haver várias propostas, aquela que tiver a seu favor maior número de votos.\n\n6 - O disposto no Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85 de 9 de janeiro, 89/85 de 1 de abril, 402/85 de 11 de outubro, e 29/86 de 19 de fevereiro, com a redação dada pelo presente decreto-lei, prevalece sobre os estatutos das instituições particulares de solidariedade social referidas no n.º 4 que, decorrido o prazo aí mencionado, não tenham sido revistos e adaptados, se necessário.\n\n7 - As associações de voluntários de ação social atualmente existentes, nos termos dos artigos 72.º a 75.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85 de 9 de janeiro, 89/85 de 1 de abril, 402/85 de 11 de outubro, e 29/86 de 19 de fevereiro, e como tal registadas deixam de ter essa qualificação, passando a ser qualificadas como associações de solidariedade social, de acordo com o artigo 52.º do mesmo Estatuto."
+  },
+  "69867827": {
+   "fragment_id": "69878921",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nSão revogados:\n\na) A subsecção III da secção II do capítulo I e a secção III do capítulo III do Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85, de 9 de janeiro, 89/85, de 1 de abril, 402/85, de 11 de outubro, e 29/86, de 19 de fevereiro;\n\nb) A alínea b) do n.º 1 do artigo 2.º, o n.º 2 do artigo 7.º, os n.os 3 e 4 do artigo 21.º, o artigo 24.º, o n.º 1 do artigo 25.º, o n.º 2 do artigo 26.º, os artigos 33.º e 39.º, os n.os 1 e 2 do artigo 46.º, o artigo 47.º, os artigos 49.º a 51.º, o n.º 3 do artigo 52.º, o artigo 57.º, a alínea h) do n.º 1 do artigo 58.º, os n.os 2 e 3 do artigo 59.º, o n.º 2 do artigo 61.º, os artigos 72.º a 75.º, 78.º a 87.º, o n.º 2 do artigo 89.º, e os artigos 94.º a 96.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado em anexo ao Decreto-Lei n.º 119/83, de 25 de fevereiro, alterado pelos Decretos-Leis n.os 9/85 de 9 de janeiro, 89/85 de 1 de abril, 402/85 de 11 de outubro, e 29/86 de 19 de fevereiro."
+  },
+  "69867828": {
+   "fragment_id": "69878922",
+   "type": 11,
+   "heading": "Artigo 7.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Republicação\n\n1 - É republicado, em anexo ao presente decreto-lei, do qual faz parte integrante, o Decreto-Lei n.º 119/83, de 25 de fevereiro, com a redação atual.\n\n2 - Para efeitos da republicação referida no número anterior, é adotado o presente do indicativo na redação de todas as normas."
+  },
+  "69867829": {
+   "fragment_id": "69878923",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no primeiro dia útil seguinte ao da sua publicação."
+  },
+  "69867830": {
+   "fragment_id": "69878924",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 7.º)\n\nRepublicação do Decreto-Lei n.º 119/83, de 25 de fevereiro\n\nArtigo 1.º\n\nÉ aprovado o Estatuto das Instituições Particulares de Solidariedade Social, que vai anexo a este diploma.\n\nArtigo 2.º\n\nO Estatuto não é aplicável à Santa Casa da Misericórdia de Lisboa.\n\nArtigo 3.º\n\nA aplicação do Estatuto nas Regiões Autónomas dos Açores e da Madeira é determinada, com as adaptações necessárias, em diplomas adequados dos respetivos Governos Regionais.\n\nESTATUTO DAS INSTITUIÇÕES PARTICULARES DE SOLIDARIEDADE SOCIAL"
+  },
+  "69867831": {
+   "fragment_id": "69878925",
+   "type": 1,
+   "heading": "Capítulo I — Das instituições particulares de solidariedade social em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Das instituições particulares de solidariedade social em geral"
+  },
+  "69867832": {
+   "fragment_id": "69878926",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "69867833": {
+   "fragment_id": "69878927",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição\n\n1 - São instituições particulares de solidariedade social, adiante designadas apenas por instituições, as pessoas coletivas, sem finalidade lucrativa, constituídas exclusivamente por iniciativa de particulares, com o propósito de dar expressão organizada ao dever moral de justiça e de solidariedade, contribuindo para a efetivação dos direitos sociais dos cidadãos, desde que não sejam administradas pelo Estado ou por outro organismo público.\n\n2 - A atuação das instituições pauta-se pelos princípios orientadores da economia social, definidos na Lei n.º 30/2013, de 8 de maio, bem como pelo regime previsto no presente Estatuto.\n\n3 - O regime estabelecido no presente Estatuto aplica-se subsidiariamente às instituições que se encontrem sujeitas a regulamentação especial."
+  },
+  "69867834": {
+   "fragment_id": "69878928",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Fins e atividades principais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-A — Fins e atividades principais\n\nOs objetivos referidos no artigo anterior concretizam-se mediante a concessão de bens, prestação de serviços e de outras iniciativas de promoção do bem-estar e qualidade de vida das pessoas, famílias e comunidades, nomeadamente nos seguintes domínios:\n\na) Apoio à infância e juventude, incluindo as crianças e jovens em perigo;\n\nb) Apoio à família;\n\nc) Apoio às pessoas idosas;\n\nd) Apoio às pessoas com deficiência e incapacidade;\n\ne) Apoio à integração social e comunitária;\n\nf) Proteção social dos cidadãos nas eventualidades da doença, velhice, invalidez e morte, bem como em todas as situações de falta ou diminuição de meios de subsistência ou de capacidade para o trabalho;\n\ng) Prevenção, promoção e proteção da saúde, nomeadamente através da prestação de cuidados de medicina preventiva, curativa e de reabilitação e assistência medicamentosa;\n\nh) Educação e formação profissional dos cidadãos;\n\ni) Resolução dos problemas habitacionais das populações;\n\nj) Outras respostas sociais não incluídas nas alíneas anteriores, desde que contribuam para a efetivação dos direitos sociais dos cidadãos."
+  },
+  "69867835": {
+   "fragment_id": "69878929",
+   "type": 11,
+   "heading": "Artigo 1.º-B — Fins secundários e atividades instrumentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-B — Fins secundários e atividades instrumentais\n\n1 - As instituições podem também prosseguir de modo secundário outros fins não lucrativos, desde que esses fins sejam compatíveis com os fins definidos no artigo anterior.\n\n2 - As instituições podem ainda desenvolver atividades de natureza instrumental relativamente aos fins não lucrativos, ainda que desenvolvidos por outras entidades por elas criadas, mesmo que em parceria e cujos resultados económicos contribuam exclusivamente para o financiamento da concretização daqueles fins.\n\n3 - O regime estabelecido no presente Estatuto não se aplica às instituições em tudo o que diga respeito exclusivamente aos fins secundários e às atividades instrumentais desenvolvidas por aquelas.\n\n4 - O disposto no número anterior não prejudica a competência dos serviços com funções de fiscalização ou de inspeção para a verificação da natureza secundária ou instrumental das atividades desenvolvidas e para a aplicação do regime contraordenacional adequado ao efeito."
+  },
+  "69867836": {
+   "fragment_id": "69878930",
+   "type": 11,
+   "heading": "Artigo 2.º — Formas e agrupamentos das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Formas e agrupamentos das instituições\n\n1 - As instituições revestem uma das formas a seguir indicadas:\n\na) Associações de solidariedade social;\n\nb) [Revogada];\n\nc) Associações mutualistas ou de socorros mútuos;\n\nd) Fundações de solidariedade social;\n\ne) Irmandades da misericórdia.\n\n2 - Para além das formas referidas no número anterior, podem as instituições, nos termos da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004, assumir a forma de Institutos de Organizações ou Instituições da Igreja Católica, designadamente Centros Sociais Paroquiais e Caritas Diocesanas e Paroquiais.\n\n3 - A especificidade de cada uma das formas de organização é objeto de regulamentação em secção própria do presente Estatuto.\n\n4 - As instituições referidas no n.º 1 podem agrupar-se em:\n\na) Uniões;\n\nb) Federações;\n\nc) Confederações."
+  },
+  "69867837": {
+   "fragment_id": "69878931",
+   "type": 11,
+   "heading": "Artigo 3.º — Autonomia das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autonomia das instituições\n\n1 - O princípio da autonomia assenta no respeito da identidade das instituições e na aceitação de que, salvaguardado o cumprimento da legislação aplicável, exercem as suas atividades por direito próprio e inspiradas no respetivo quadro axiológico.\n\n2 - Com respeito pelas disposições estatutárias e pela legislação aplicável, as instituições estabelecem livremente a sua organização interna."
+  },
+  "69867838": {
+   "fragment_id": "69878932",
+   "type": 11,
+   "heading": "Artigo 4.º — Apoio do Estado e das autarquias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apoio do Estado e das autarquias\n\n1 - O Estado aceita, apoia e valoriza o contributo das instituições na efetivação dos direitos sociais dos cidadãos individualmente considerados.\n\n2 - O contributo das instituições e o apoio que às mesmas é prestado pelo Estado concretizam-se em formas de cooperação a estabelecer mediante acordos.\n\n3 - As instituições podem encarregar-se, mediante acordos, da gestão de instalações e equipamentos pertencentes ao Estado ou às autarquias locais.\n\n4 - O apoio do Estado não pode constituir limitação ao direito de livre atuação das instituições."
+  },
+  "69867839": {
+   "fragment_id": "69878933",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Acordos de cooperação com o Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-A — Acordos de cooperação com o Estado\n\nAs instituições ficam obrigadas ao cumprimento das cláusulas dos acordos de cooperação que vierem a celebrar com o Estado."
+  },
+  "69867840": {
+   "fragment_id": "69878934",
+   "type": 11,
+   "heading": "Artigo 4.º-B — Cooperação entre instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º-B — Cooperação entre instituições\n\n1 - As instituições podem estabelecer entre si formas de cooperação que visem, designadamente, a utilização comum de serviços ou equipamentos e o desenvolvimento de ações de solidariedade social, de responsabilidade igualmente comum ou em regime de complementaridade.\n\n2 - A cooperação entre as instituições concretiza-se por iniciativa destas ou por intermédio das organizações de uniões, federações ou confederações."
+  },
+  "69867841": {
+   "fragment_id": "69878935",
+   "type": 11,
+   "heading": "Artigo 5.º — Direito dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direito dos beneficiários\n\n1 - Os interesses e os direitos dos beneficiários preferem aos das próprias instituições, dos associados ou dos fundadores.\n\n2 - Os beneficiários devem ser respeitados na sua dignidade e na intimidade da vida privada e não podem sofrer discriminações fundadas em critérios ideológicos, políticos, confessionais ou raciais.\n\n3 - Não se consideram discriminações que desrespeitem o disposto no número anterior as restrições de âmbito de ação que correspondam a carências específicas de determinados grupos ou categorias de pessoas."
+  },
+  "69867842": {
+   "fragment_id": "69878936",
+   "type": 11,
+   "heading": "Artigo 6.º — Respeito pela vontade dos fundadores e adequação ao cumprimento da legislação em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Respeito pela vontade dos fundadores e adequação ao cumprimento da legislação em vigor\n\n1 - A vontade dos fundadores, testadores ou doadores deve ser sempre respeitada no que diz respeito aos fins, meios e encargos constantes do documento constitutivo da instituição.\n\n2 - Os aspetos organizativos e funcionais das instituições devem adequar-se à legislação em vigor."
+  },
+  "69867843": {
+   "fragment_id": "69878937",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registo\n\n1 - O registo das instituições particulares de solidariedade social é obrigatório e deve ser efetuado nos termos regulamentados pelas respetivas portarias.\n\n2 - [Revogado]."
+  },
+  "69867844": {
+   "fragment_id": "69878938",
+   "type": 11,
+   "heading": "Artigo 8.º — Utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Utilidade pública\n\nAs instituições registadas nos termos regulamentados pelas respetivas portarias adquirem automaticamente a natureza de pessoas coletivas de utilidade pública."
+  },
+  "69867845": {
+   "fragment_id": "69878939",
+   "type": 8,
+   "heading": "Secção II — Da criação, da organização interna e da extinção das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da criação, da organização interna e da extinção das instituições"
+  },
+  "69867846": {
+   "fragment_id": "69878940",
+   "type": 3,
+   "heading": "Subsecção I — Da criação das instituições e dos seus estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Da criação das instituições e dos seus estatutos"
+  },
+  "69867847": {
+   "fragment_id": "69878941",
+   "type": 11,
+   "heading": "Artigo 9.º — Criação das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Criação das instituições\n\nAs instituições, suas uniões, federações ou confederações constituem-se e adquirem personalidade jurídica nos termos do presente Estatuto."
+  },
+  "69867848": {
+   "fragment_id": "69878942",
+   "type": 11,
+   "heading": "Artigo 10.º — Elaboração dos estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Elaboração dos estatutos\n\n1 - As instituições regem-se por estatutos livremente elaborados, com respeito pelas disposições deste Estatuto e demais legislação aplicável.\n\n2 - Dos estatutos das instituições deve constar obrigatoriamente:\n\na) A denominação, que não pode confundir-se com denominação de instituições já existentes;\n\nb) A forma jurídica adotada;\n\nc) A sede e âmbito de ação;\n\nd) Os fins e atividades da instituição;\n\ne) A denominação dos órgãos, a sua composição e forma de designar os respetivos membros;\n\nf) As competências e regras de funcionamento dos órgãos;\n\ng) O regime financeiro.\n\n3 - As instituições que prossigam fins de diversa natureza devem mencionar nos estatutos aqueles que consideram como fins principais.\n\n4 - Os Estatutos das Irmandades das Misericórdias designam-se por compromisso, sendo a sua especificidade veiculada na secção própria."
+  },
+  "69867849": {
+   "fragment_id": "69878943",
+   "type": 11,
+   "heading": "Artigo 11.º — Dispensa de escritura pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Dispensa de escritura pública\n\nAs alterações dos estatutos das instituições não carecem de revestir a forma de escritura pública, desde que estejam registadas nos termos das respetivas portarias."
+  },
+  "69867850": {
+   "fragment_id": "69878944",
+   "type": 3,
+   "heading": "Subsecção II — Dos órgãos das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Dos órgãos das instituições"
+  },
+  "69867851": {
+   "fragment_id": "69878945",
+   "type": 11,
+   "heading": "Artigo 12.º — Órgãos da instituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Órgãos da instituição\n\n1 - Em cada instituição há, pelo menos, um órgão colegial de administração e outro com funções de fiscalização, ambos constituídos por um número ímpar de titulares, dos quais um é o presidente.\n\n2 - Nas instituições de forma associativa há sempre uma assembleia geral de associados."
+  },
+  "69867852": {
+   "fragment_id": "69878946",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do órgão de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências do órgão de administração\n\n1 - Compete ao órgão de administração gerir a instituição e representá-la, incumbindo-lhe, designadamente:\n\na) Garantir a efetivação dos direitos dos beneficiários;\n\nb) Elaborar anualmente e submeter ao parecer do órgão de fiscalização o relatório e contas de gerência, bem como o orçamento e programa de ação para o ano seguinte;\n\nc) Assegurar a organização e o funcionamento dos serviços e equipamentos, nomeadamente elaborando os regulamentos internos que se mostrem adequados e promovendo a organização e elaboração da contabilidade, nos termos da lei;\n\nd) Organizar o quadro do pessoal e contratar e gerir o pessoal da instituição;\n\ne) Representar a instituição em juízo ou fora dele;\n\nf) Zelar pelo cumprimento da lei, dos estatutos e das deliberações dos órgãos da instituição.\n\n2 - As funções de representação podem ser atribuídas pelos estatutos a outro órgão ou a algum dos seus titulares.\n\n3 - O órgão de administração pode delegar poderes de representação e administração para a prática de certos atos ou de certas categorias de atos em qualquer dos seus membros, em profissionais qualificados ao serviço da instituição, ou em mandatários."
+  },
+  "69867853": {
+   "fragment_id": "69878947",
+   "type": 11,
+   "heading": "Artigo 14.º — Competências do órgão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competências do órgão de fiscalização\n\n1 - Compete ao órgão de fiscalização o controlo e fiscalização da instituição, podendo, nesse âmbito, efetuar aos restantes órgãos as recomendações que entenda adequadas com vista ao cumprimento da lei, dos estatutos e dos regulamentos, e designadamente:\n\na) Fiscalizar o órgão de administração da instituição, podendo, para o efeito, consultar a documentação necessária;\n\nb) Dar parecer sobre o relatório e contas do exercício, bem como sobre o programa de ação e orçamento para o ano seguinte;\n\nc) Dar parecer sobre quaisquer assuntos que os outros órgãos submetam à sua apreciação;\n\nd) Verificar o cumprimento da lei, dos estatutos e dos regulamentos.\n\n2 - Os membros do órgão de fiscalização podem assistir às reuniões do órgão de administração quando para tal forem convocados pelo presidente deste órgão.\n\n3 - Sem prejuízo do disposto no artigo 12.º do Decreto-Lei n.º 36-A/2011, de 9 de março, alterado pela Lei n.º 66-B/2012, de 31 de dezembro, e pelo Decreto-Lei n.º 64/2013, de 13 de maio, e no artigo 2.º do Decreto-Lei n.º 65/2013, de 13 de maio, o órgão de fiscalização das instituições pode ser integrado ou assessorado por um revisor oficial de contas ou sociedade de revisores oficiais de contas, sempre que o movimento financeiro da instituição o justifique."
+  },
+  "69867854": {
+   "fragment_id": "69878948",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Contas do exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º-A — Contas do exercício\n\n1 - As contas do exercício das instituições obedecem ao Regime da Normalização Contabilística para as entidades do setor não lucrativo legalmente aplicável e são aprovadas pelos respetivos órgãos nos termos estatutários.\n\n2 - As contas do exercício são publicitadas obrigatoriamente no sítio institucional eletrónico da instituição até 31 de maio do ano seguinte a que dizem respeito.\n\n3 - As contas devem ser apresentadas, dentro dos prazos estabelecidos, ao órgão competente para a verificação da sua legalidade.\n\n4 - O órgão competente comunica às instituições os resultados da verificação da legalidade das contas.\n\n5 - Na falta de cumprimento do disposto no n.º 3, o órgão competente pode determinar ao órgão de administração que apresente um programa adequado ao restabelecimento da legalidade e do equilíbrio financeiro, a submeter à sua aprovação.\n\n6 - Caso o programa referido no número anterior não seja apresentado ou não seja aprovado, o órgão competente pode requerer judicialmente a destituição do órgão de administração, nos termos previstos nos artigos 35.º e 35.º-A.\n\n7 - Para efeitos do disposto no presente artigo, os poderes do órgão competente são exercidos pelo membro do Governo responsável pela área da segurança social, com a faculdade de delegação, em órgãos de organismos públicos especializados para o efeito, quando a natureza técnica das matérias o justifique."
+  },
+  "69867855": {
+   "fragment_id": "69878949",
+   "type": 11,
+   "heading": "Artigo 15.º — Composição dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Composição dos órgãos\n\n1 - Os órgãos de administração e de fiscalização não podem ser constituídos maioritariamente por trabalhadores da instituição.\n\n2 - Não podem exercer o cargo de presidente do órgão de fiscalização trabalhadores da instituição."
+  },
+  "69867856": {
+   "fragment_id": "69878950",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Incompatibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-A — Incompatibilidade\n\nNenhum titular do órgão de administração pode ser simultaneamente titular de órgão de fiscalização e ou da mesa da assembleia geral."
+  },
+  "69867857": {
+   "fragment_id": "69878951",
+   "type": 11,
+   "heading": "Artigo 16.º — Funcionamento dos órgãos em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Funcionamento dos órgãos em geral\n\n1 - Salvo disposição legal ou estatutária em contrário, as deliberações são tomadas por maioria de votos dos titulares presentes, tendo o presidente, além do seu voto, direito a voto de desempate.\n\n2 - As votações respeitantes a eleições dos órgãos sociais ou a assuntos de incidência pessoal dos seus membros são feitas por escrutínio secreto, podendo os estatutos prever outros casos em que este modo de escrutínio seja obrigatório.\n\n3 - São sempre lavradas atas das reuniões de qualquer órgão da instituição, que são obrigatoriamente assinadas por todos os membros presentes, ou, quando respeitem a reuniões da assembleia geral, pelos membros da respetiva mesa."
+  },
+  "69867858": {
+   "fragment_id": "69878952",
+   "type": 11,
+   "heading": "Artigo 17.º — Funcionamento dos órgãos de administração e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Funcionamento dos órgãos de administração e fiscalização\n\n1 - Os órgãos de administração e fiscalização são convocados pelos respetivos presidentes, por iniciativa destes, ou a pedido da maioria dos titulares dos órgãos.\n\n2 - Os órgãos de administração e de fiscalização só podem deliberar com a presença da maioria dos seus titulares.\n\n3 - Em caso de vacatura da maioria dos lugares de um órgão, deve proceder-se ao preenchimento das vagas verificadas, no prazo máximo de um mês, nos termos regulados nos estatutos.\n\n4 - Os membros designados para preencherem as vagas referidas no número anterior apenas completam o mandato.\n\n5 - É nulo o voto de um membro sobre assunto que diretamente lhe diga respeito e no qual seja interessado, bem como seu cônjuge, pessoa com quem viva em condições análogas às dos cônjuges e respetivos ascendentes e descendentes, bem como qualquer parente ou afim em linha reta ou no 2.º grau da linha colateral."
+  },
+  "69867859": {
+   "fragment_id": "69878953",
+   "type": 11,
+   "heading": "Artigo 18.º — Condições de exercício dos cargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Condições de exercício dos cargos\n\n1 - O exercício de qualquer cargo nos corpos gerentes das instituições é gratuito, mas pode justificar o pagamento de despesas dele derivadas.\n\n2 - Quando o volume do movimento financeiro ou a complexidade da administração das instituições exijam a presença prolongada de um ou mais titulares dos órgãos de administração, podem estes ser remunerados, desde que os estatutos assim o permitam, não podendo, no entanto, a remuneração exceder 4 (quatro) vezes o valor do indexante de apoios sociais (IAS) ou, no caso das fundações de solidariedade social, pôr em causa o cumprimento do disposto na Lei-quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, no respeitante ao limite de despesas próprias.\n\n3 - Não há lugar à remuneração dos titulares dos órgãos de administração sempre que se verifique, por via de auditoria determinada pelo membro do Governo responsável pela área da segurança social, que a instituição apresenta cumulativamente dois dos seguintes rácios:\n\na) Solvabilidade inferior a 50 %;\n\nb) Endividamento global superior a 150 %;\n\nc) Autonomia financeira inferior a 25 %;\n\nd) Rendibilidade líquida da atividade negativa, nos três últimos anos económicos."
+  },
+  "69867860": {
+   "fragment_id": "69878954",
+   "type": 11,
+   "heading": "Artigo 19.º — Forma de a instituição se obrigar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Forma de a instituição se obrigar\n\nCaso os estatutos sejam omissos, a instituição fica obrigada com as assinaturas conjuntas de quaisquer 3 membros do órgão de administração ou com as assinaturas conjuntas do presidente e do tesoureiro, salvo quanto aos atos de mero expediente, em que basta a assinatura de um membro do órgão de administração ou de gestão corrente."
+  },
+  "69867861": {
+   "fragment_id": "69878955",
+   "type": 11,
+   "heading": "Artigo 20.º — Responsabilidade dos titulares dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Responsabilidade dos titulares dos órgãos\n\n1 - As responsabilidades dos titulares dos órgãos ao abrigo do presente Estatuto são as definidas nos artigos 164.º e 165.º do Código Civil, sem prejuízo das definidas nos respetivos estatutos das instituições.\n\n2 - Além dos motivos previstos na lei geral, os titulares dos órgãos ficam exonerados de responsabilidade se:\n\na) Não tiverem tomado parte na respetiva resolução e a reprovarem com declaração na ata da sessão imediata em que se encontrem presentes;\n\nb) Tiverem votado contra essa resolução e o fizerem consignar na ata respetiva."
+  },
+  "69867862": {
+   "fragment_id": "69878956",
+   "type": 11,
+   "heading": "Artigo 21.º — Elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Elegibilidade\n\n1 - São elegíveis para os órgãos sociais das instituições os associados que, cumulativamente:\n\na) Estejam no pleno gozo dos seus direitos associativos;\n\nb) Sejam maiores;\n\nc) Tenham, pelo menos, um ano de vida associativa, salvo se os estatutos exigirem maior prazo.\n\n2 - A inobservância do disposto no número anterior determina a nulidade da eleição do candidato em causa.\n\n3 - [Revogado].\n\n4 - [Revogado]."
+  },
+  "69867863": {
+   "fragment_id": "69878957",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Não elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º-A — Não elegibilidade\n\n1 - Os titulares dos órgãos não podem ser reeleitos ou novamente designados se tiverem sido condenados em processo judicial por sentença transitada em julgado, em Portugal ou no estrangeiro, por crime doloso contra o património, abuso de cartão de garantia ou de crédito, usura, insolvência dolosa ou negligente, apropriação ilegítima de bens do setor público ou não lucrativo, falsificação, corrupção e branqueamento de capitais, salvo se, entretanto, tiver ocorrido a extinção da pena.\n\n2 - Esta incapacidade verifica-se quanto à reeleição ou nova designação para os órgãos da mesma instituição ou de outra instituição particular de solidariedade social."
+  },
+  "69867864": {
+   "fragment_id": "69878958",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Impedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º-B — Impedimentos\n\n1 - Os titulares dos órgãos não podem votar em assuntos que diretamente lhes digam respeito, ou nos quais sejam interessados os respetivos cônjuges ou pessoa com quem vivam em condições análogas às dos cônjuges, ascendentes, descendentes ou qualquer parente ou afim em linha reta ou no 2.º grau da linha colateral.\n\n2 - Os titulares dos órgãos de administração não podem contratar direta ou indiretamente com a instituição, salvo se do contrato resultar manifesto benefício para a instituição.\n\n3 - Os titulares dos órgãos não podem exercer atividade conflituante com a atividade da instituição onde estão inseridos, nem integrar corpos sociais de entidades conflituantes com os da instituição, ou de participadas desta.\n\n4 - Para efeitos do disposto no número anterior, considera-se que existe uma situação conflituante:\n\na) Se tiver interesse num determinado resultado ilegítimo, num serviço ou numa transação efetuada;\n\nb) Se obtiver uma vantagem financeira ou benefício de outra natureza que o favoreça."
+  },
+  "69867865": {
+   "fragment_id": "69878959",
+   "type": 11,
+   "heading": "Artigo 21.º-C — Mandato dos titulares dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º-C — Mandato dos titulares dos órgãos\n\n1 - A duração dos mandatos dos órgãos é de quatro anos.\n\n2 - Os titulares dos órgãos mantêm-se em funções até à posse dos novos titulares.\n\n3 - O exercício do mandato dos titulares dos órgãos só pode ter início após a respetiva tomada de posse, sem prejuízo do disposto no n.º 5.\n\n4 - A posse é dada pelo presidente cessante da mesa da assembleia geral e deve ter lugar até ao 30.º dia posterior ao da eleição.\n\n5 - Caso o presidente cessante da mesa da assembleia geral não confira a posse até ao 30.º dia posterior ao da eleição, os titulares eleitos pela assembleia geral entram em exercício independentemente da posse, salvo se a deliberação de eleição tiver sido suspensa por procedimento cautelar.\n\n6 - O presidente da instituição ou cargo equiparado só pode ser eleito para três mandatos consecutivos.\n\n7 - A inobservância do disposto no presente artigo determina a nulidade da eleição."
+  },
+  "69867866": {
+   "fragment_id": "69878960",
+   "type": 11,
+   "heading": "Artigo 21.º-D — Deliberações nulas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º-D — Deliberações nulas\n\n1 - São nulas as deliberações:\n\na) Tomadas por um órgão não convocado, salvo se todos os seus titulares tiverem estado presentes ou representados ou tiverem posteriormente dado, por escrito, o seu assentimento à deliberação;\n\nb) Cujo conteúdo contrarie normas legais imperativas;\n\nc) Que não estejam integradas e totalmente reproduzidas na respetiva ata.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, não se considera convocado o órgão quando o aviso convocatório seja assinado por quem não tenha essa competência ou quando dele não constem o dia, hora e local da reunião, ou quando reúnam em dia, hora ou local diverso dos constantes do aviso."
+  },
+  "69867867": {
+   "fragment_id": "69878961",
+   "type": 3,
+   "heading": "Subsecção III — [Revogada]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — [Revogada]"
+  },
+  "69867868": {
+   "fragment_id": "69878962",
+   "type": 11,
+   "heading": "Artigo 22.º — Deliberações anuláveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Deliberações anuláveis\n\nAs deliberações de qualquer órgão contrárias à lei ou aos estatutos, seja pelo seu objeto, seja em virtude de irregularidades havidas na convocação ou no funcionamento do órgão, são anuláveis, se não forem nulas, nos termos do artigo anterior."
+  },
+  "69867869": {
+   "fragment_id": "69878963",
+   "type": 11,
+   "heading": "Artigo 23.º — Realização de obras, alienação e arrendamento de imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Realização de obras, alienação e arrendamento de imóveis\n\n1 - A empreitada de obras de construção ou grande reparação pertencentes às instituições, devem observar o estabelecido no Código dos Contratos Públicos, com exceção das obras realizadas por administração direta até ao montante máximo de 25 mil euros.\n\n2 - O disposto no número anterior não se aplica às instituições que não recebam apoios financeiros públicos.\n\n3 - Podem ser efetuadas vendas ou arrendamentos por negociação direta, quando seja previsível que daí decorram vantagens para a instituição ou por motivo de urgência, fundamentado em ata.\n\n4 - Em qualquer caso, os preços e rendas aceites não podem ser inferiores aos que vigorarem no mercado normal de imóveis e arrendamentos, de harmonia com os valores estabelecidos em peritagem oficial.\n\n5 - Excetuam-se do preceituado nos números anteriores os arrendamentos para habitação, que seguem o regime geral sobre arrendamentos."
+  },
+  "69867870": {
+   "fragment_id": "69878964",
+   "type": 11,
+   "heading": "Artigo 24.º — Depósito de capitais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Depósito de capitais\n\n[Revogado]."
+  },
+  "69867871": {
+   "fragment_id": "69878965",
+   "type": 11,
+   "heading": "Artigo 25.º — Aceitação de heranças, legados e doações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Aceitação de heranças, legados e doações\n\n1 - [Revogado].\n\n2 - As instituições não são obrigadas a cumprir encargos que excedam as forças de heranças, legados ou doações por elas aceites, quer por absorverem o seu valor, quer por envolverem prestações periódicas superiores ao rendimento dos bens recebidos.\n\n3 - Os encargos que excedem as forças da herança, legado ou doação são reduzidos até ao limite dos respetivos rendimentos ou até à terça parte do capital."
+  },
+  "69867872": {
+   "fragment_id": "69878966",
+   "type": 3,
+   "heading": "Subsecção IV — Da fusão, cisão e extinção das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Da fusão, cisão e extinção das instituições"
+  },
+  "69867873": {
+   "fragment_id": "69878967",
+   "type": 11,
+   "heading": "Artigo 26.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regime aplicável\n\n1 - A fusão, cisão e extinção das instituições obedecem ao regime legal aplicável à forma que revistam em cada caso.\n\n2 - [Revogado].\n\n3 - Pode ainda uma instituição extinguir-se quando delibere integrar-se noutra."
+  },
+  "69867874": {
+   "fragment_id": "69878968",
+   "type": 11,
+   "heading": "Artigo 27.º — Destino dos bens das instituições extintas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Destino dos bens das instituições extintas\n\n1 - Os bens das instituições extintas revertem para outras instituições particulares de solidariedade social ou para entidades de direito público que prossigam idênticas finalidades, nos termos das disposições estatutárias, ou, na sua falta, mediante deliberação dos órgãos competentes.\n\n2 - Não havendo disposição estatutária aplicável, nem deliberação dos órgãos competentes, os bens são atribuídos, por decisão do membro do Governo responsável pela área da segurança social, a instituições particulares de solidariedade social com sede ou estabelecimento no concelho da localização dos bens, ou em concelhos limítrofes, preferindo as que prossigam ações do tipo das exercidas pelas instituições extintas, ou, na sua falta, para entidades de direito público que prossigam essas ações.\n\n3 - Aos bens deixados ou doados com qualquer encargo ou afetados a determinados fins é dado destino de acordo com os números anteriores, respeitando quanto possível a intenção do encargo ou da afetação.\n\n4 - No caso de a instituição extinta ser católica, na atribuição dos bens é dada preferência a outra instituição católica.\n\n5 - O disposto no número anterior não se aplica aos bens afetos a fim especificamente religioso, cuja atribuição é feita nos termos da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004."
+  },
+  "69894875": {
+   "fragment_id": "69878969",
+   "type": 11,
+   "heading": "Artigo 28.º — Destino dos bens integralmente adquiridos com subsídios de entidades oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Destino dos bens integralmente adquiridos com subsídios de entidades oficiais\n\nO disposto no artigo anterior não se aplica aos bens integralmente adquiridos com subsídios de entidades oficiais, os quais revertem para essas entidades, salvo se tiver sido previsto outro destino em acordo de cooperação."
+  },
+  "69894876": {
+   "fragment_id": "69878970",
+   "type": 11,
+   "heading": "Artigo 29.º — Bens de instituições extintas que interessem ao cumprimento de acordos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Bens de instituições extintas que interessem ao cumprimento de acordos de cooperação\n\nA atribuição a outra instituição dos bens das instituições extintas que interessem diretamente ao cumprimento de acordos de cooperação carece de concordância das entidades intervenientes no acordo."
+  },
+  "69894877": {
+   "fragment_id": "69878971",
+   "type": 11,
+   "heading": "Artigo 30.º — Sucessão das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sucessão das instituições\n\n1 - As instituições e as entidades de direito público para as quais reverte o património das instituições extintas sucedem-lhes nos direitos e obrigações, nomeadamente no que respeita aos beneficiários, mas só respondem pelo pagamento das dívidas até ao valor dos bens que lhes tenham sido atribuídos.\n\n2 - Nenhuma instituição é obrigada a receber, sem sua concordância, bens provenientes de outra que tenha sido extinta.\n\n3 - O disposto nos números anteriores aplica-se igualmente às instituições para as quais reverte o património de outras instituições por efeito de fusão ou cisão.\n\n4 - No caso de cisão as garantias dos credores não devem ser reduzidas, sendo o processo de cisão antecedido de parecer do membro do Governo responsável pela área da segurança social, ao qual compete verificar a existência de credores."
+  },
+  "69894878": {
+   "fragment_id": "69878972",
+   "type": 11,
+   "heading": "Artigo 31.º — Efeitos da extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Efeitos da extinção\n\n1 - No caso de extinção, é designada uma comissão liquidatária, pela assembleia geral ou pela entidade que decretou a extinção.\n\n2 - Os poderes da comissão liquidatária ficam limitados à prática dos atos meramente conservatórios e necessários quer à liquidação do património social, quer à ultimação dos negócios pendentes.\n\n3 - Pelos atos restantes e pelos danos que deles advenham à instituição respondem solidariamente os titulares dos órgãos que os praticaram.\n\n4 - Pelas obrigações que os titulares dos órgãos contraírem a instituição só responde perante terceiros se estes estiverem de boa-fé e à extinção da instituição não tiver sido dada a devida publicidade."
+  },
+  "69894879": {
+   "fragment_id": "69878973",
+   "type": 8,
+   "heading": "Secção III — Da tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da tutela"
+  },
+  "69894880": {
+   "fragment_id": "69878974",
+   "type": 11,
+   "heading": "Artigo 32.º — Atos sujeitos a autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Atos sujeitos a autorização\n\n[Revogado]."
+  },
+  "69894881": {
+   "fragment_id": "69894975",
+   "type": 11,
+   "heading": "Artigo 33.º — Atos sujeitos a visto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Atos sujeitos a visto\n\n[Revogado]."
+  },
+  "69894882": {
+   "fragment_id": "69894976",
+   "type": 11,
+   "heading": "Artigo 34.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Fiscalização\n\n1 - O Estado, através dos seus órgãos e serviços competentes, nos termos da lei geral, exerce os poderes de inspeção, auditoria e fiscalização sobre as instituições incluídas no âmbito de aplicação do presente Estatuto, podendo para o efeito ordenar a realização de inquéritos, sindicâncias e inspeções.\n\n2 - Os poderes de fiscalização são exercidos pelos serviços competentes do ministério responsável pela área da segurança social, nos exatos termos definidos nos respetivos estatutos, por forma a garantir o efetivo cumprimento dos seus objetivos no respeito pela lei.\n\n3 - Para além da notificação em sede de audiência prévia, nos termos do Código do Procedimento Administrativo, os serviços competentes devem comunicar ao órgão de administração da instituição os resultados das ações de fiscalização e de inspeção desenvolvidas, incluindo as recomendações adequadas à supressão das irregularidades e deficiências verificadas.\n\n4 - Os mecanismos adequados à articulação entre o ministério responsável pela área da segurança social e os outros Ministérios são definidos por portaria dos respetivos membros do Governo, com competência para o efeito."
+  },
+  "69894883": {
+   "fragment_id": "69894977",
+   "type": 11,
+   "heading": "Artigo 35.º — Destituição dos órgãos de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Destituição dos órgãos de administração\n\n1 - Quando se verifique a prática reiterada de atos ou a omissão sistemática do cumprimento de deveres legais ou estatutários pelo órgão de administração que sejam prejudiciais aos interesses da instituição ou dos seus beneficiários, podem ser judicialmente destituídos os titulares dos órgãos de administração.\n\n2 - O membro do Governo responsável pela área da segurança social pode pedir judicialmente a destituição do órgão de administração nas seguintes situações:\n\na) Por inadequação ao restabelecimento da legalidade ou do equilíbrio financeiro da instituição;\n\nb) Por incumprimento dos objetivos programados, por motivos imputáveis ao órgão de administração;\n\nc) Por se verificarem graves irregularidades no funcionamento da instituição ou dificuldades financeiras que obstem à efetivação dos direitos dos associados e utentes;\n\nd) Pela não apresentação das contas do exercício, durante dois anos consecutivos e segundo os procedimentos definidos pelo artigo 14.º-A;\n\ne) Pela não apresentação e ou não aprovação do programa adequado ao restabelecimento da legalidade e do equilíbrio financeiro, nos termos previstos nos n.os 4 e 5 do artigo 14.º-A;\n\nf) Por se verificar a prática de atos gravemente lesivos dos direitos dos associados e utentes e da imagem da instituição.\n\n3 - As associações, uniões, federações ou confederações de instituições têm legitimidade para requerer ao ministério responsável pela área da segurança social que promova o pedido judicial de destituição do órgão de administração, se tiverem conhecimento de factos imputáveis a instituições suscetíveis de integrar o disposto na alínea f) do número anterior.\n\n4 - São aplicáveis a este procedimento as normas que regulam os processos de jurisdição voluntária."
+  },
+  "69894884": {
+   "fragment_id": "69894978",
+   "type": 11,
+   "heading": "Artigo 35.º-A — Procedimento judicial em caso de destituição dos órgãos de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º-A — Procedimento judicial em caso de destituição dos órgãos de administração\n\n1 - Nos casos previstos no artigo anterior, observa-se o seguinte:\n\na) O Ministério Público especifica os factos que justificam o pedido, oferecendo logo a prova, e os membros do órgão de administração constituídos arguidos são citados para contestar;\n\nb) O juiz decide a final e, em caso de deferimento, deve nomear uma comissão provisória de gestão, proposta pelo Ministério Público.\n\n2 - São aplicáveis a este procedimento as normas que regulam os processos de jurisdição voluntária, em especial o processo de suspensão e destituição de órgãos sociais, previsto no artigo 1055.º do Código de Processo Civil."
+  },
+  "69894885": {
+   "fragment_id": "69894979",
+   "type": 11,
+   "heading": "Artigo 35.º-B — Comissão provisória de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º-B — Comissão provisória de gestão\n\n1 - A comissão provisória de gestão a que se refere o artigo anterior é constituída de preferência por associados e tem a competência do órgão de administração.\n\n2 - Nas situações de instituições que não possuem associados, a comissão provisória de gestão é composta por um administrador judicial.\n\n3 - O mandato da comissão provisória de gestão tem a duração de um ano, prorrogável até três anos.\n\n4 - Durante esse período ficam suspensos quer o funcionamento, quer as competências dos restantes órgãos sociais obrigatórios.\n\n5 - Antes do termo das suas funções, a comissão deve providenciar no sentido da designação dos titulares dos órgãos sociais da instituição, incluindo os novos membros do órgão de administração, nos termos estatutários."
+  },
+  "69894886": {
+   "fragment_id": "69894980",
+   "type": 11,
+   "heading": "Artigo 36.º — Procedimento cautelar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Procedimento cautelar\n\n1 - Quando se verifique a necessidade urgente de salvaguardar interesses dos beneficiários, da instituição ou do Estado, pode o Ministério Público requerer, com dependência do procedimento referido no artigo 35.º-A, a suspensão dos órgãos sociais obrigatórios e a nomeação de um administrador judicial.\n\n2 - A este procedimento são aplicáveis as disposições da lei processual civil sobre procedimentos cautelares comuns, com exceção das respeitantes à substituição por caução."
+  },
+  "69894887": {
+   "fragment_id": "69894981",
+   "type": 11,
+   "heading": "Artigo 37.º — Encerramento administrativo dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Encerramento administrativo dos estabelecimentos\n\n1 - As entidades competentes para a fiscalização e inspeção das instituições podem determinar o encerramento de estabelecimentos ou serviços das instituições, quando se comprove que o seu funcionamento decorre de modo ilegal ou quando apresentam graves condições de insalubridade, inadequação das instalações, ou deficientes condições de segurança, higiene e conforto dos beneficiários.\n\n2 - Para a efetivação do encerramento nos termos do número anterior, podem as entidades competentes para a fiscalização e inspeção das instituições solicitar a intervenção das autoridades administrativas e policiais competentes."
+  },
+  "69894888": {
+   "fragment_id": "69894982",
+   "type": 11,
+   "heading": "Artigo 38.º — Requisição de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Requisição de bens\n\n1 - Para garantir a continuidade das respostas sociais, pode o membro do Governo responsável pela área da segurança social requisitar, sem prejuízo dos direitos de terceiro sobre tais bens, os bens afetos às atividades das instituições para serem utilizados com o mesmo fim e na mesma área por outras instituições ou por serviços oficiais, quando as instituições se extingam ou suspendam o exercício de atividades e se verifique que os beneficiários são por esse motivo gravemente prejudicados.\n\n2 - A requisição cessa:\n\na) Quando os bens deixarem de ser necessários ao exercício das ações a que estavam afetos;\n\nb) Logo que as instituições voltem a assegurar a efetiva realização das mesmas atividades;\n\nc) Quando houver lugar a atribuição definitiva de bens."
+  },
+  "69894889": {
+   "fragment_id": "69894983",
+   "type": 11,
+   "heading": "Artigo 38.º-A — Delegação de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º-A — Delegação de competências\n\nO membro do Governo responsável pela área da segurança social pode atribuir a organismos públicos especializados o desempenho de parte das suas funções, quando a natureza técnica das matérias o justifique."
+  },
+  "69894890": {
+   "fragment_id": "69894984",
+   "type": 11,
+   "heading": "Artigo 39.º — Acordos de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Acordos de cooperação\n\n[Revogado]."
+  },
+  "69894891": {
+   "fragment_id": "69894985",
+   "type": 1,
+   "heading": "Capítulo II — Das atividades de solidariedade social das organizações religiosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Das atividades de solidariedade social das organizações religiosas"
+  },
+  "69894892": {
+   "fragment_id": "69894986",
+   "type": 8,
+   "heading": "Secção I — Das organizações religiosas em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Das organizações religiosas em geral"
+  },
+  "69894893": {
+   "fragment_id": "69894987",
+   "type": 11,
+   "heading": "Artigo 40.º — Organizações e instituições religiosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Organizações e instituições religiosas\n\nAs organizações e instituições religiosas que, para além dos fins religiosos, se proponham exercer atividades enquadráveis no artigo 1.º ficam sujeitas, quanto ao exercício destas atividades, ao regime estabelecido no presente Estatuto."
+  },
+  "69894894": {
+   "fragment_id": "69894988",
+   "type": 11,
+   "heading": "Artigo 41.º — Institutos de organizações religiosas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Institutos de organizações religiosas\n\nOs institutos de solidariedade social de organizações religiosas são pessoas coletivas instituídas e mantidas por organizações ou instituições religiosas com os objetivos previstos no artigo 1.º, bem como os demais requisitos estabelecidos no presente Estatuto."
+  },
+  "69894895": {
+   "fragment_id": "69894989",
+   "type": 11,
+   "heading": "Artigo 42.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Estatutos\n\n1 - Os estatutos dos institutos abrangidos pela presente secção devem consignar a sua ligação específica à organização religiosa fundadora e conformar-se com as disposições aplicáveis do presente Estatuto.\n\n2 - As funções do órgão de fiscalização podem ser atribuídas pelos estatutos à entidade fundadora."
+  },
+  "69894896": {
+   "fragment_id": "69894990",
+   "type": 11,
+   "heading": "Artigo 43.º — Destino dos bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Destino dos bens\n\nNo ato de constituição ou nos estatutos pode estabelecer-se que em caso de extinção revertam para a entidade fundadora os bens que esta tiver afetado à instituição ou que lhe tenham sido doados com essa condição."
+  },
+  "69894897": {
+   "fragment_id": "69894991",
+   "type": 8,
+   "heading": "Secção II — Disposições especiais para as instituições da igreja católica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições especiais para as instituições da igreja católica"
+  },
+  "69894898": {
+   "fragment_id": "69894992",
+   "type": 11,
+   "heading": "Artigo 44.º — Regime concordatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Regime concordatário\n\nA aplicação das disposições do presente Estatuto às instituições da Igreja Católica é feita com respeito pelas disposições da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004."
+  },
+  "69894899": {
+   "fragment_id": "69894993",
+   "type": 11,
+   "heading": "Artigo 45.º — Reconhecimento das instituições canonicamente eretas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Reconhecimento das instituições canonicamente eretas\n\nA personalidade jurídica das instituições canonicamente eretas resulta da simples participação escrita da ereção canónica feita pelo bispo da diocese onde tiverem a sua sede, ou por seu legítimo representante, aos serviços competentes para a tutela das mesmas instituições."
+  },
+  "69894900": {
+   "fragment_id": "69894994",
+   "type": 11,
+   "heading": "Artigo 46.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Estatutos\n\n1 - [Revogado].\n\n2 - [Revogado].\n\n3 - Os estatutos devem consignar a natureza da instituição e a sua ligação específica à Igreja Católica e conformar-se com as disposições aplicáveis do presente Estatuto."
+  },
+  "69894901": {
+   "fragment_id": "69894995",
+   "type": 11,
+   "heading": "Artigo 47.º — Modificação e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Modificação e extinção\n\n[Revogado]."
+  },
+  "69894902": {
+   "fragment_id": "69894996",
+   "type": 11,
+   "heading": "Artigo 48.º — Tutela da autoridade eclesiástica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Tutela da autoridade eclesiástica\n\nOs poderes da Autoridade Eclesiástica são os que resultam das disposições da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004, nos precisos termos constantes do artigo 44.º"
+  },
+  "69894903": {
+   "fragment_id": "69894997",
+   "type": 11,
+   "heading": "Artigo 49.º — Forma das instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Forma das instituições\n\n[Revogado]."
+  },
+  "69894904": {
+   "fragment_id": "69894998",
+   "type": 11,
+   "heading": "Artigo 50.º — Destino dos bem das instituições extintas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Destino dos bem das instituições extintas\n\n[Revogado]."
+  },
+  "69894905": {
+   "fragment_id": "69894999",
+   "type": 11,
+   "heading": "Artigo 51.º — Institutos de organizações da igreja católica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Institutos de organizações da igreja católica\n\n[Revogado]."
+  },
+  "69894906": {
+   "fragment_id": "69895000",
+   "type": 1,
+   "heading": "Capítulo III — Das instituições particulares de solidariedade social em especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Das instituições particulares de solidariedade social em especial"
+  },
+  "69894907": {
+   "fragment_id": "69895001",
+   "type": 8,
+   "heading": "Secção I — Das associações de solidariedade social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Das associações de solidariedade social"
+  },
+  "69894908": {
+   "fragment_id": "69895002",
+   "type": 11,
+   "heading": "Artigo 52.º — Natureza e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Natureza e fins\n\n1 - As associações de solidariedade social são pessoas coletivas de tipo associativo constituídas com os objetivos previstos no artigo 1.º e que reúnem os demais requisitos estabelecidos no presente Estatuto para a qualificação como instituições particulares de solidariedade social.\n\n2 - Os objetivos das associações de solidariedade social concretizam-se mediante a concessão de bens ou a promoção de serviços e a realização de iniciativas enquadráveis no âmbito material de atuação do artigo 1.º-A.\n\n3 - [Revogado]."
+  },
+  "69894909": {
+   "fragment_id": "69895003",
+   "type": 11,
+   "heading": "Artigo 53.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Constituição\n\n1 - As associações de solidariedade social adquirem personalidade jurídica no ato de constituição.\n\n2 - O ato de constituição deve constar de escritura pública ou ato equivalente.\n\n3 - Para além do disposto no artigo 10.º, o ato de constituição deve especificar:\n\na) As quotas, donativos ou serviços com que os associados concorrem para o património social;\n\nb) A denominação, fim e sede da pessoa coletiva;\n\nc) A forma do seu funcionamento;\n\nd) A duração, quando a associação se não constitua por tempo indeterminado.\n\n4 - Não pode ser considerada associação de solidariedade social uma associação cujo número de associados seja inferior ao dobro dos membros previstos para os respetivos órgãos."
+  },
+  "69894910": {
+   "fragment_id": "69895004",
+   "type": 11,
+   "heading": "Artigo 54.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Estatutos\n\nDos estatutos das associações devem constar, para além das matérias referidas nos artigos 10.º e 53.º, as condições de admissão e saída dos associados, os seus direitos e obrigações e as sanções pelo não cumprimento dessas obrigações."
+  },
+  "69894911": {
+   "fragment_id": "69895005",
+   "type": 11,
+   "heading": "Artigo 55.º — Direitos e deveres dos associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Direitos e deveres dos associados\n\n1 - Considera-se dever fundamental dos associados contribuir para a realização dos fins institucionais por meio de quotas, donativos ou serviços.\n\n2 - Salvo disposição estatutária em contrário, a qualidade de associado não é transmissível, quer por ato entre vivos, quer por sucessão.\n\n3 - O associado que por qualquer forma deixar de pertencer à associação não tem direito a reaver as quotizações que haja pago, sem prejuízo da sua responsabilidade por todas as prestações relativas ao tempo em que foi membro da associação.\n\n4 - Os associados não podem ser limitados nos seus direitos por critérios que contrariem o disposto no n.º 2 do artigo 13.º da Constituição.\n\n5 - Os estatutos não podem reduzir os direitos dos sócios pelo facto de estes serem também seus trabalhadores ou beneficiários, salvo no que respeita ao voto nas deliberações respeitantes a retribuições de trabalho, regalias sociais ou quaisquer benefícios que lhes respeitem."
+  },
+  "69894912": {
+   "fragment_id": "69895006",
+   "type": 11,
+   "heading": "Artigo 56.º — Votações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Votações\n\n1 - O direito de voto efetiva-se mediante a atribuição de um voto a cada associado.\n\n2 - Gozam de capacidade eleitoral ativa os associados com, pelo menos, um ano de vida associativa, salvo se os estatutos exigirem prazo superior.\n\n3 - Os associados podem fazer-se representar por outros sócios nas reuniões de assembleia geral, nas condições e pela forma que forem estabelecidas nos estatutos, mas cada sócio não pode representar mais de 1 associado.\n\n4 - Os estatutos podem admitir o voto por correspondência, sob condição de o seu sentido ser expressamente indicado em relação ao ponto ou pontos da ordem de trabalhos e devendo definir a forma de reconhecimento da assinatura do associado."
+  },
+  "69894913": {
+   "fragment_id": "69895007",
+   "type": 11,
+   "heading": "Artigo 57.º — Corpos gerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Corpos gerentes\n\n[Revogado]."
+  },
+  "69894914": {
+   "fragment_id": "69895008",
+   "type": 11,
+   "heading": "Artigo 58.º — Competência da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Competência da assembleia geral\n\n1 - Compete à assembleia geral deliberar sobre todas as matérias não compreendidas nas atribuições legais ou estatutárias dos outros órgãos e, necessariamente:\n\na) Definir as linhas fundamentais de atuação da associação;\n\nb) Eleger e destituir, por votação secreta, os membros da respetiva mesa e a totalidade ou a maioria dos membros dos órgãos executivos e de fiscalização;\n\nc) Apreciar e votar anualmente o orçamento e o programa de ação para o exercício seguinte, bem como o relatório e contas de gerência;\n\nd) Deliberar sobre a aquisição onerosa e a alienação, a qualquer título, de bens imóveis e de outros bens patrimoniais de rendimento ou de valor histórico ou artístico;\n\ne) Deliberar sobre a alteração dos estatutos e sobre a extinção, cisão ou fusão da associação;\n\nf) Autorizar a associação a demandar os membros dos corpos gerentes por factos praticados no exercício das suas funções;\n\ng) Aprovar a adesão a uniões, federações ou confederações;\n\nh) [Revogada].\n\n2 - Os estatutos podem prever outras formas de designação dos membros dos órgãos de administração e de fiscalização, desde que a maioria de cada um desses órgãos seja eleita pela assembleia geral."
+  },
+  "69894915": {
+   "fragment_id": "69895009",
+   "type": 11,
+   "heading": "Artigo 59.º — Sessões da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Sessões da assembleia geral\n\n1 - A assembleia geral reúne em sessões ordinárias e extraordinárias.\n\n2 - [Revogado].\n\n3 - [Revogado]."
+  },
+  "69894916": {
+   "fragment_id": "69895010",
+   "type": 11,
+   "heading": "Artigo 59.º-A — Sessões ordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º-A — Sessões ordinárias\n\nA assembleia geral reúne em sessão ordinária:\n\na) No final de cada mandato, até final do mês de dezembro, para a eleição dos titulares dos órgãos associativos;\n\nb) Até 31 de março de cada ano para aprovação do relatório e contas de exercício do ano anterior e do parecer do órgão de fiscalização;\n\nc) Até 30 de novembro de cada ano, para apreciação e votação do programa de ação e do orçamento para o ano seguinte e do parecer do órgão de fiscalização."
+  },
+  "69894917": {
+   "fragment_id": "69895011",
+   "type": 11,
+   "heading": "Artigo 59.º-B — Sessões extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º-B — Sessões extraordinárias\n\n1 - Salvo se os estatutos dispuserem de outro modo, a assembleia geral reúne extraordinariamente quando convocada pelo presidente da mesa da assembleia geral, por iniciativa deste, a pedido do órgão executivo ou do órgão de fiscalização ou a requerimento de, no mínimo, 10 % do número de sócios no pleno gozo dos seus direitos.\n\n2 - A reunião deve realizar-se no prazo máximo de 30 dias a contar da data da receção do pedido ou requerimento."
+  },
+  "69894918": {
+   "fragment_id": "69895012",
+   "type": 11,
+   "heading": "Artigo 60.º — Convocação da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Convocação da assembleia geral\n\n1 - A assembleia geral é convocada com, pelo menos, 15 dias de antecedência, pelo presidente da mesa ou pelo seu substituto.\n\n2 - A convocatória é afixada na sede da associação e é também feita pessoalmente, por meio de aviso postal expedido para cada associado.\n\n3 - Independentemente das convocatórias, é dada publicidade à realização das assembleias gerais nas edições da associação, no sítio institucional da instituição e em aviso afixado em locais de acesso ao público nas instalações e estabelecimentos da associação, bem como através de anúncio publicado nos dois jornais de maior circulação da área onde se situe a sede.\n\n4 - Da convocatória deve constar o dia, a hora, o local e a ordem de trabalhos da reunião.\n\n5 - Desde que contemplada nos estatutos, a convocatória da assembleia geral pode também ser efetuada através de correio eletrónico.\n\n6 - Os documentos referentes aos diversos pontos da ordem de trabalhos devem estar disponíveis para consulta na sede e no sítio institucional da associação, logo que a convocatória seja expedida, por meio de aviso postal, para os associados."
+  },
+  "69894919": {
+   "fragment_id": "69895013",
+   "type": 11,
+   "heading": "Artigo 61.º — Funcionamento de assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Funcionamento de assembleia geral\n\n1 - A assembleia geral reúne à hora marcada na convocatória, se estiver presente mais de metade dos associados com direito de voto, ou 30 minutos depois, com qualquer número de presenças, salvo se os estatutos dispuserem de outro modo.\n\n2 - [Revogado].\n\n3 - A assembleia geral extraordinária que seja convocada a requerimento dos associados só pode reunir se estiverem presentes três quartos dos requerentes."
+  },
+  "69894920": {
+   "fragment_id": "69895014",
+   "type": 11,
+   "heading": "Artigo 61.º-A — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º-A — Mesa da assembleia geral\n\n1 - Os trabalhos da assembleia geral são dirigidos por uma mesa, constituída, pelo menos, por três membros, um dos quais é o presidente.\n\n2 - Nenhum titular dos órgãos de administração ou de fiscalização pode ser membro da mesa da assembleia geral.\n\n3 - Na falta de qualquer dos membros da mesa da assembleia geral, compete a esta eleger os respetivos substitutos de entre os associados presentes, os quais cessam as suas funções no termo da reunião."
+  },
+  "69894921": {
+   "fragment_id": "69895015",
+   "type": 11,
+   "heading": "Artigo 62.º — Deliberações da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Deliberações da assembleia geral\n\n1 - Sem prejuízo do disposto no artigo 22.º, são anuláveis todas as deliberações tomadas sobre matérias que não constem da ordem de trabalhos fixada na convocatória, salvo se estiverem presentes ou devidamente representados todos os associados no pleno gozo dos seus direitos e todos concordarem com o aditamento.\n\n2 - As deliberações da assembleia geral são tomadas por maioria simples de votos, não se contando as abstenções.\n\n3 - É exigida maioria qualificada de, pelo menos, dois terços dos votos expressos na aprovação das matérias constantes das alíneas e), f) e g) do n.º 1 do artigo 58.º, podendo os estatutos exigir um número de votos superior.\n\n4 - No caso da alínea e) do n.º 1 do artigo 58.º, a dissolução não têm lugar se, pelo menos, o número mínimo de membros referido no artigo 53.º se declarar disposto a assegurar a permanência da associação, qualquer que seja o número de votos contra."
+  },
+  "69894922": {
+   "fragment_id": "69895016",
+   "type": 11,
+   "heading": "Artigo 63.º — Convocação da assembleia geral pelo tribunal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Convocação da assembleia geral pelo tribunal\n\n1 - Qualquer associado e, bem assim, o ministério público podem requerer ao tribunal competente a convocação da assembleia geral nos seguintes casos:\n\na) Quando os corpos gerentes estejam a funcionar sem o número completo dos seus membros, ou não se encontrem regularmente constituídos, ou ainda quando tenha sido excedida a duração do seu mandato;\n\nb) Quando, por alguma forma, esteja a ser impedida a convocação da assembleia nos termos legais ou se impeça o seu funcionamento, com grave risco ou ofensa dos interesses da instituição, dos associados ou do Estado.\n\n2 - Para efeitos do número anterior, a entidade tutelar deve comunicar ao ministério público as situações de irregularidade de que tenha conhecimento.\n\n3 - O tribunal designa, se necessário, o presidente e os secretários da mesa que dirige a assembleia convocada judicialmente."
+  },
+  "69894923": {
+   "fragment_id": "69895017",
+   "type": 11,
+   "heading": "Artigo 64.º — Comissão provisória de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Comissão provisória de gestão\n\n1 - Se a assembleia geral convocada para eleições nos termos do artigo anterior as não realizar na data ou no prazo que lhe tenham sido marcados, é possível recorrer a Tribunal Arbitral, o qual nomeia uma comissão provisória de gestão com a competência dos titulares dos órgãos de administração estatutários.\n\n2 - A comissão deve ser constituída, de preferência, por associados e o seu mandato tem a duração de 1 ano, prorrogável judicialmente até 3, se tal for indispensável para normalizar a gestão."
+  },
+  "69894924": {
+   "fragment_id": "69895018",
+   "type": 11,
+   "heading": "Artigo 64.º-A — Assembleia de representantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º-A — Assembleia de representantes\n\nOs estatutos das associações podem prever quais as funções da assembleia geral que podem ser exercidas por uma assembleia de representantes eleitos pelos associados."
+  },
+  "69894925": {
+   "fragment_id": "69895019",
+   "type": 11,
+   "heading": "Artigo 64.º-B — Elegibilidade dos representantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º-B — Elegibilidade dos representantes\n\n1 - São elegíveis para a assembleia de representantes, os associados efetivos que cumulativamente:\n\na) Estejam no pleno gozo dos seus direitos associativos;\n\nb) Sejam maiores;\n\nc) Tenham, pelo menos, um ano de vida associativa, salvo se os estatutos exigirem maior prazo.\n\n2 - A inobservância do disposto no número anterior determina a nulidade da eleição do candidato em causa."
+  },
+  "69894926": {
+   "fragment_id": "69895020",
+   "type": 11,
+   "heading": "Artigo 64.º-C — Mandato dos representantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º-C — Mandato dos representantes\n\n1 - O mandato dos representantes é de quatro anos, renovável, não podendo exceder 12 anos consecutivos.\n\n2 - Em caso de impedimento definitivo do exercício de funções de qualquer dos representantes, é chamado ao preenchimento da vaga o candidato inscrito, ainda que como suplente, na mesma lista pela qual foi eleito o titular a substituir e pela respetiva ordem."
+  },
+  "69894927": {
+   "fragment_id": "69895021",
+   "type": 11,
+   "heading": "Artigo 65.º — Direito de ação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Direito de ação\n\n1 - O exercício em nome da instituição do direito de ação civil ou penal contra membros dos corpos gerentes e mandatários deve ser aprovado em assembleia geral.\n\n2 - A instituição é representada na ação pela direção ou pelos associados que para esse efeito forem eleitos pela assembleia geral.\n\n3 - A deliberação da assembleia geral pode ser tomada na sessão convocada para apreciação do balanço, relatório e contas do exercício, mesmo que a respetiva proposta não conste da ordem de trabalhos."
+  },
+  "69894928": {
+   "fragment_id": "69895022",
+   "type": 11,
+   "heading": "Artigo 66.º — Extinção das associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Extinção das associações\n\n1 - As associações de solidariedade social extinguem-se:\n\na) Por deliberação da assembleia geral;\n\nb) Pelo decurso do prazo, se tiverem sido constituídas por tempo determinado;\n\nc) Pela verificação de qualquer outra causa extintiva prevista no ato de constituição ou nos estatutos;\n\nd) Pelo falecimento ou desaparecimento de todos os associados;\n\ne) Por decisão judicial que declare a insolvência.\n\n2 - As associações de solidariedade social podem ainda ser extintas por decisão do Tribunal Arbitral nas seguintes situações:\n\na) Quando o seu fim se tenha esgotado ou se haja tornado impossível;\n\nb) Quando o seu fim real não coincida com o fim expresso no ato de constituição ou nos estatutos;\n\nc) Quando o seu fim seja sistematicamente prosseguido por meios ilícitos ou imorais;\n\nd) Quando, durante o período de 1 ano, o número de associados seja inferior ao número mínimo fixado no artigo 53.º;\n\ne) Quando deixem de possuir meios humanos e materiais suficientes para a efetivação dos fins estatutários e se reconheça não existirem fundadas esperanças de os virem a adquirir."
+  },
+  "69894929": {
+   "fragment_id": "69895023",
+   "type": 11,
+   "heading": "Artigo 67.º — Declaração de extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Declaração de extinção\n\n1 - Nos casos previstos nas alíneas b) e c) do n.º 1 do artigo anterior, a extinção só se produz se, nos 30 dias subsequentes à data em que devia operar-se, a assembleia geral não decidir a prorrogação da associação ou a modificação dos estatutos.\n\n2 - A circunstância de falecimento ou desaparecimento de todos os associados é anunciada pelo organismo que tutele a instituição através de aviso publicado nos 2 jornais de maior circulação daquela área e afixado em locais de acesso público e a associação considera-se extinta se, nos 30 dias subsequentes à publicação do aviso, não for comunicado qualquer facto que obste à extinção.\n\n3 - Nos casos previstos no n.º 2 do artigo anterior, a declaração da extinção pode ser pedida em juízo pelo ministério público ou por qualquer interessado.\n\n4 - A extinção em virtude da declaração de insolvência dá-se em consequência da própria declaração."
+  },
+  "69894930": {
+   "fragment_id": "69895024",
+   "type": 8,
+   "heading": "Secção II — Das irmandades da Misericórdia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Das irmandades da Misericórdia"
+  },
+  "69894931": {
+   "fragment_id": "69895025",
+   "type": 11,
+   "heading": "Artigo 68.º — Natureza e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Natureza e fins\n\n1 - As irmandades da Misericórdia ou santas casas da Misericórdia são associações reconhecidas na ordem jurídica canónica, com o objetivo de satisfazer carências sociais e de praticar atos de culto católico, de harmonia com o seu espírito tradicional, informado pelos princípios de doutrina e moral cristãs.\n\n2 - Os estatutos das Misericórdias denominam-se «compromissos»."
+  },
+  "69894932": {
+   "fragment_id": "69895026",
+   "type": 11,
+   "heading": "Artigo 69.º — Regime jurídico aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Regime jurídico aplicável\n\n1 - Às irmandades da Misericórdia aplica-se diretamente o regime jurídico previsto no presente Estatuto, sem prejuízo dos termos do Compromisso estabelecido entre a União das Misericórdias Portuguesas e a Conferência Episcopal, ou documento bilateral que o substitua.\n\n2 - Em tudo o que não se encontre especialmente estabelecido na presente secção, as irmandades da Misericórdia regulam-se pelas disposições aplicáveis às associações de solidariedade social.\n\n3 - Ressalva-se da aplicação do preceituado no n.º 1 tudo o que especificamente respeita às atividades estranhas aos fins de solidariedade social."
+  },
+  "69894933": {
+   "fragment_id": "69895027",
+   "type": 11,
+   "heading": "Artigo 70.º — Associados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Associados\n\n1 - Podem ser admitidos como associados das irmandades da Misericórdia os indivíduos maiores, de ambos os sexos, que se comprometam a colaborar na prossecução dos objetivos daquelas instituições, com respeito pelo espírito próprio que as informa.\n\n2 - As obrigações e os direitos dos associados constam do compromisso da respetiva irmandade."
+  },
+  "69894934": {
+   "fragment_id": "69895028",
+   "type": 11,
+   "heading": "Artigo 71.º — Extinção e destino dos bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Extinção e destino dos bens\n\n1 - As irmandades da Misericórdia podem ser extintas nas condições previstas para as associações de solidariedade social.\n\n2 - Os bens das irmandades extintas têm o destino que resultar da aplicação dos artigos 27.º, 28.º, e 29.º, mas na sua atribuição é dada preferência, quanto possível, a outra irmandade da Misericórdia e em cumprimento do Compromisso e Decreto Geral Interpretativo de maio de 2011, subscrito pela União das Misericórdias Portuguesas e a Conferência Episcopal, ou de documento bilateral que o substitua.\n\n3 - Se a irmandade for extinta como instituição de solidariedade social, mas subsistir na ordem jurídica canónica, mantém a propriedade dos bens afetos a fins de caráter religioso ou a outras atividades a que se dedique."
+  },
+  "69894935": {
+   "fragment_id": "69895029",
+   "type": 8,
+   "heading": "Secção III — [Revogada].",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — [Revogada]."
+  },
+  "69894936": {
+   "fragment_id": "69895030",
+   "type": 11,
+   "heading": "Artigo 72.º — Natureza e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Natureza e fins\n\n[Revogado]."
+  },
+  "69894937": {
+   "fragment_id": "69895031",
+   "type": 11,
+   "heading": "Artigo 73.º — Constituição e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Constituição e extinção\n\n[Revogado]."
+  },
+  "69894938": {
+   "fragment_id": "69895032",
+   "type": 11,
+   "heading": "Artigo 74.º — Acordos de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Acordos de colaboração\n\n[Revogado]."
+  },
+  "69894939": {
+   "fragment_id": "69895033",
+   "type": 11,
+   "heading": "Artigo 75.º — Regime jurídico subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Regime jurídico subsidiário\n\n[Revogado]."
+  },
+  "69894940": {
+   "fragment_id": "69895034",
+   "type": 8,
+   "heading": "Secção IV — Das associações mutualistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Das associações mutualistas"
+  },
+  "69894941": {
+   "fragment_id": "69895035",
+   "type": 11,
+   "heading": "Artigo 76.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Legislação aplicável\n\nAs associações mutualistas regem-se pelas disposições constantes de legislação especial e, subsidiariamente, pelas disposições do presente Estatuto."
+  },
+  "69894942": {
+   "fragment_id": "69895036",
+   "type": 8,
+   "heading": "Secção V — Das fundações de solidariedade sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Das fundações de solidariedade sociais"
+  },
+  "69894943": {
+   "fragment_id": "69895037",
+   "type": 11,
+   "heading": "Artigo 77.º — Natureza e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Natureza e fins\n\nPara poderem ser registadas como instituições particulares de solidariedade social, as fundações devem ser instituídas com o propósito definido no artigo 1.º e com os fins principais enquadráveis no elenco do artigo 1.º-A."
+  },
+  "69894944": {
+   "fragment_id": "69895038",
+   "type": 11,
+   "heading": "Artigo 77.º-A — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º-A — Regime aplicável\n\n1 - As fundações de solidariedade social regem-se pelo disposto na Lei-quadro das Fundações, aprovada pela Lei n.º 24/2012, de 9 de julho, e, subsidiariamente, pelas disposições do presente Estatuto.\n\n2 - O disposto no capítulo I do presente Estatuto é aplicável às fundações de solidariedade social, com exceção dos artigos 10.º, 12.º, 13.º, 20.º, 21.º e 21.º-C."
+  },
+  "69894945": {
+   "fragment_id": "69895039",
+   "type": 11,
+   "heading": "Artigo 78.º — Instituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Instituição\n\n[Revogado]."
+  },
+  "69894946": {
+   "fragment_id": "69895040",
+   "type": 11,
+   "heading": "Artigo 79.º — Reconhecimento da fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Reconhecimento da fundação\n\n[Revogado]."
+  },
+  "69894947": {
+   "fragment_id": "69895041",
+   "type": 11,
+   "heading": "Artigo 80.º — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Estatutos\n\n[Revogado]."
+  },
+  "69894948": {
+   "fragment_id": "69895042",
+   "type": 11,
+   "heading": "Artigo 81.º — Modificação dos estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Modificação dos estatutos\n\n[Revogado]."
+  },
+  "69894949": {
+   "fragment_id": "69895043",
+   "type": 11,
+   "heading": "Artigo 82.º — Alteração dos fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Alteração dos fins\n\n[Revogado]."
+  },
+  "69894950": {
+   "fragment_id": "69895044",
+   "type": 11,
+   "heading": "Artigo 83.º — Encargo prejudicial aos fins da fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Encargo prejudicial aos fins da fundação\n\n[Revogado]."
+  },
+  "69894951": {
+   "fragment_id": "69895045",
+   "type": 11,
+   "heading": "Artigo 84.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Extinção\n\n[Revogado]."
+  },
+  "69894952": {
+   "fragment_id": "69895046",
+   "type": 11,
+   "heading": "Artigo 85.º — Integração das funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Integração das funções\n\n[Revogado]."
+  },
+  "69894953": {
+   "fragment_id": "69895047",
+   "type": 11,
+   "heading": "Artigo 86.º — Efeitos da extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Efeitos da extinção\n\n[Revogado]."
+  },
+  "69894954": {
+   "fragment_id": "69895048",
+   "type": 1,
+   "heading": "Capítulo IV — Das uniões, federações e confederações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Das uniões, federações e confederações"
+  },
+  "69894955": {
+   "fragment_id": "69895049",
+   "type": 11,
+   "heading": "Artigo 87.º — Da cooperação entre instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Da cooperação entre instituições\n\n[Revogado]."
+  },
+  "69894956": {
+   "fragment_id": "69895050",
+   "type": 11,
+   "heading": "Artigo 88.º — Formas de agrupamentos e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Formas de agrupamentos e objetivos\n\n1 - As instituições podem associar-se constituindo uniões, federações ou confederações destinadas à realização dos seguintes objetivos:\n\na) Coordenar as ações das instituições associadas relativamente a quaisquer entidades, públicas ou privadas, em especial junto dos órgãos e serviços do ministério da tutela;\n\nb) Organizar serviços de interesse e de intervenção comuns às instituições associadas, racionalizando os respetivos meios de ação;\n\nc) Representar os interesses comuns das instituições associadas;\n\nd) Promover o desenvolvimento da ação das instituições e apoiar a cooperação entre elas na realização dos fins de solidariedade social.\n\n2 - As uniões, federações e confederações podem desenvolver quaisquer das atividades previstas nos artigos 1.º-A e 1.º-B."
+  },
+  "69894957": {
+   "fragment_id": "69895051",
+   "type": 11,
+   "heading": "Artigo 89.º — Regime legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Regime legal\n\n1 - As uniões, federações e confederações de instituições são consideradas, para todos os efeitos, associações de solidariedade social e ficam sujeitas ao seu regime, sem prejuízo do disposto nos números seguintes.\n\n2 - [Revogado].\n\n3 - Não pode ser considerada instituição particular de solidariedade social uma união, federação ou confederação cujo número de instituições representadas seja inferior a 3.\n\n4 - As uniões, federações e confederações devem enviar anualmente ao membro do Governo responsável pela área da segurança social o relatório e contas do exercício findo e prestar as informações que lhe forem solicitadas, sem prejuízo das demais obrigações decorrentes dos acordos ou protocolos celebrados com o Estado e das normas que lhes sejam aplicáveis."
+  },
+  "69894958": {
+   "fragment_id": "69895052",
+   "type": 11,
+   "heading": "Artigo 90.º — Limites da representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Limites da representação\n\nA representação atribuída às uniões, federações e confederações por este diploma e pelos estatutos próprios não impede que as instituições nelas agrupadas intervenham autonomamente nos assuntos que diretamente lhes digam respeito nem afeta a posição própria dessas instituições perante o Estado."
+  },
+  "69894959": {
+   "fragment_id": "69895053",
+   "type": 11,
+   "heading": "Artigo 91.º — União de instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — União de instituições\n\nAs uniões são agrupamentos de instituições:\n\na) Que revistam forma idêntica;\n\nb) Que atuem na mesma área geográfica;\n\nc) Cujo regime específico de constituição o justifique."
+  },
+  "69894960": {
+   "fragment_id": "69895054",
+   "type": 11,
+   "heading": "Artigo 92.º — Federações de instituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Federações de instituições\n\nAs federações são agrupamentos de instituições que prossigam atividades congéneres ou afins."
+  },
+  "69894961": {
+   "fragment_id": "69895055",
+   "type": 11,
+   "heading": "Artigo 93.º — Confederações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Confederações\n\n1 - As confederações são agrupamentos, a nível nacional, de uniões e federações de instituições.\n\n2 - Os estatutos das confederações podem prever que nelas se inscrevam diretamente as instituições que não pertençam a qualquer união ou federação."
+  },
+  "69894962": {
+   "fragment_id": "69895056",
+   "type": 11,
+   "heading": "Artigo 93.º-A — Convenções coletivas de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º-A — Convenções coletivas de trabalho\n\nAs uniões, federações e confederações podem, querendo, ser consideradas entidades com capacidade para negociação de convenções coletivas de trabalho aplicáveis às instituições nelas filiadas e aos trabalhadores representados pelas associações sindicais outorgantes."
+  },
+  "69894963": {
+   "fragment_id": "69895057",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "69894964": {
+   "fragment_id": "69895058",
+   "type": 11,
+   "heading": "Artigo 94.º — Instituições já existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Instituições já existentes\n\n[Revogado]."
+  },
+  "69894965": {
+   "fragment_id": "69895059",
+   "type": 11,
+   "heading": "Artigo 95.º — Misericórdias atualmente existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Misericórdias atualmente existentes\n\n[Revogado]."
+  },
+  "69894966": {
+   "fragment_id": "69895060",
+   "type": 11,
+   "heading": "Artigo 96.º — Termo do regime dualista das misericórdias e irmandades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Termo do regime dualista das misericórdias e irmandades\n\n[Revogado]."
+  },
+  "69894967": {
+   "fragment_id": "69895061",
+   "type": 11,
+   "heading": "Artigo 97.º — Manutenção de isenções e regalias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Manutenção de isenções e regalias\n\n[Revogado]."
+  },
+  "69894968": {
+   "fragment_id": "69895062",
+   "type": 11,
+   "heading": "Artigo 98.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Legislação revogada\n\nFica revogada a legislação em contrário, designadamente:\n\na) O § único do artigo 10.º do Decreto n.º 20285, de 7 de setembro de 1931;\n\nb) O Decreto-Lei n.º 519-G2/79, de 29 de dezembro, com exceção dos artigos 7.º, 22.º e 24.º do Estatuto publicado em anexo e o Decreto-Lei n.º 467/80, de 14 de outubro."
+  },
+  "69894969": {
+   "fragment_id": "69895063",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de outubro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo José de Ribeiro Moita de Macedo - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 13 de novembro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de novembro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "69894974": {
+   "fragment_id": "69878930",
+   "type": 11,
+   "heading": "Artigo 2.º — Formas e agrupamentos das instituições",
+   "in_force_from": "2015-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 76/2015 - Diário da República n.º 145/2015, Série I de 2015-07-28](https://diariodarepublica.pt/dr/detalhe/lei/76-2015-69879421), em vigor a partir de 2015-08-02"
+   ],
+   "markdown": "###### Artigo 2.º — Formas e agrupamentos das instituições\n\n1 - As instituições revestem uma das formas a seguir indicadas:\n\na) Associações de solidariedade social;\n\nb) Cooperativas de solidariedade social, credenciadas nos termos do artigo 9.º do Decreto-Lei n.º 7/98, de 15 de janeiro;\n\nc) Associações mutualistas ou de socorros mútuos;\n\nd) Fundações de solidariedade social;\n\ne) Irmandades da misericórdia.\n\n2 - Para além das formas referidas no número anterior, podem as instituições, nos termos da Concordata celebrada entre a Santa Sé e a República Portuguesa em 18 de maio de 2004, assumir a forma de Institutos de Organizações ou Instituições da Igreja Católica, designadamente Centros Sociais Paroquiais e Caritas Diocesanas e Paroquiais.\n\n3 - A especificidade de cada uma das formas de organização é objeto de regulamentação em secção própria do presente Estatuto.\n\n4 - As instituições referidas no n.º 1 podem agrupar-se em:\n\na) Uniões;\n\nb) Federações;\n\nc) Confederações.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 76/2015 - Diário da República n.º 145/2015, Série I de 2015-07-28](https://diariodarepublica.pt/dr/detalhe/lei/76-2015-69879421), em vigor a partir de 2015-08-02"
+  },
+  "69896575": {
+   "fragment_id": "69895012",
+   "type": 11,
+   "heading": "Artigo 60.º — Convocação da assembleia geral",
+   "in_force_from": "2015-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 76/2015 - Diário da República n.º 145/2015, Série I de 2015-07-28](https://diariodarepublica.pt/dr/detalhe/lei/76-2015-69879421), em vigor a partir de 2015-08-02"
+   ],
+   "markdown": "###### Artigo 60.º — Convocação da assembleia geral\n\n1 - A assembleia geral é convocada com, pelo menos, 15 dias de antecedência, pelo presidente da mesa ou pelo seu substituto.\n\n2 - A convocatória é afixada na sede da associação e remetida, pessoalmente, a cada associado através de correio eletrónico ou por meio de aviso postal.\n\n3 - Independentemente da convocatória nos termos do número anterior, é ainda dada publicidade à realização das assembleias gerais nas edições da associação, no sítio institucional e em aviso afixado em locais de acesso ao público nas instalações e estabelecimentos da associação.\n\n4 - Da convocatória deve constar o dia, a hora, o local e a ordem de trabalhos da reunião.\n\n5 - Desde que contemplada nos estatutos, a convocatória e anúncio da assembleia geral pode ser efetuada e publicitada também por outros meios e noutros locais.\n\n6 - Os documentos referentes aos diversos pontos da ordem de trabalhos devem estar disponíveis para consulta na sede e no sítio institucional da associação, logo que a convocatória seja expedida para os associados.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 76/2015 - Diário da República n.º 145/2015, Série I de 2015-07-28](https://diariodarepublica.pt/dr/detalhe/lei/76-2015-69879421), em vigor a partir de 2015-08-02"
+  }
+ }
+}

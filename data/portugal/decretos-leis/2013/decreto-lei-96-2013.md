@@ -1,0 +1,830 @@
+---
+schema_version: '1.0'
+id: pt:dre:498122:por
+title: Decreto-Lei n.º 96/2013
+short_title: null
+summary: Estabelece o regime jurídico a que estão sujeitas, no território continental, as ações de arborização e rearborização
+  com recurso a espécies florestais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 96/2013
+official_date: null
+publication_date: '2013-07-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/2013, Série I de 2013-07-19
+  number: '138'
+  series: I
+  supplement: null
+  pages: 4215 - 4220
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/07/13800/0421504220.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-05-06'
+version_history:
+  file: decreto-lei-96-2013.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-07-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-02-13'
+    amending: pt:dre:108010873:por
+    amending_title: Lei n.º 77/2017
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 3.º-B
+    - Adita Artigo 14.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+  - date: '2019-01-22'
+    amending: pt:dre:118051705:por
+    amending_title: Decreto-Lei n.º 12/2019
+    changes:
+    - Adita Artigo 12.º-A
+    - Adita Artigo 14.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º-A
+    - Altera Artigo 3.º-B
+    - Altera Artigo 8.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+  - date: '2020-12-28'
+    amending: pt:dre:136990467:por
+    amending_title: Decreto-Lei n.º 32/2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+  - date: '2026-05-06'
+    amending: pt:dre:1103945165:por
+    amending_title: Lei n.º 18/2026
+    changes:
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/96/2013/p/cons/20260505/pt/html
+  oj: null
+  dre: '498122'
+  dre_path: /dr/detalhe/decreto-lei/96-2013-498122
+  internal: pt:dre:498122:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2013-498122
+  metadata_url: https://data.dre.pt/eli/dec-lei/96/2013/p/cons/20260505/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-34580675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-34580675
+  retrieved_at: '2026-10-22T11:54:21Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 87d54a575e898f750e0c1e329e30c4672daaee6569aebed6114a4291a2be8260
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:54:21Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-96-2013.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Incêndio
+- Prevenção de Incêndios
+- Multa
+- Reserva Ecológica Nacional
+- Ordenamento do Território
+- Contra-ordenação
+- Definição de Competências
+- Proteção da Floresta
+- Comissão de Coordenação e Desenvolvimento Regional
+- Direção Geral do Território
+- Instituto da Conservação da Natureza e das Florestas
+- Plano de Gestão Florestal
+- Exploração Florestal
+- Plano Regional de Ordenamento Florestal
+- Sistema Nacional de Áreas Classificadas
+- Regime Jurídico
+- Sector Florestal
+relationships:
+- type: amended_by
+  target: pt:dre:108010873:por
+  label: Adita Artigo 3.º-A; Adita Artigo 3.º-B; Adita Artigo 14.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo
+    4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 19.º;
+    Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873
+  date: '2017-08-17'
+- type: amended_by
+  target: pt:dre:118051705:por
+  label: Adita Artigo 12.º-A; Adita Artigo 14.º-B; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º-A; Altera Artigo
+    3.º-B; Altera Artigo 8.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705
+  date: '2019-01-21'
+- type: amended_by
+  target: pt:dre:136990467:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 15.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467
+  date: '2020-07-01'
+- type: amended_by
+  target: pt:dre:1103945165:por
+  label: Altera Artigo 15.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165
+  date: '2026-05-05'
+- type: cites
+  target: celex:32016R0679
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/114/2010/10/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/2010/10/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/2009/01/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/2009/01/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/205/2003/09/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/205/2003/09/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/34/1999/02/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/34/1999/02/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/55/2007/03/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/55/2007/03/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/565/1999/12/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/565/1999/12/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/54/1991/08/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/54/1991/08/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/114/2006/09/15/p/dre
+article_structure:
+  article_count: 28
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:54:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 96/2013
+
+As ações de arborização e rearborização estão sujeitas a regulamentação legal desde a aprovação do Regime Florestal em 1901, que passou a enquadrar as iniciativas, de cariz público ou privado, realizadas no âmbito florestal. Desde então, ao longo de mais de um século, diversos diplomas legais de âmbito florestal, ambiental e de desenvolvimento agrícola e rural introduziram novas regras aplicáveis às ações de arborização, visando o seu enquadramento no contexto de diversas políticas públicas com incidência territorial.
+
+Reconhecidamente, as ações de arborização e rearborização podem promover quer a valorização produtiva dos espaços silvestres, quer a recuperação de ecossistemas degradados, bem como a evolução da composição dos povoamentos pré-existentes, adaptando-os aos objetivos de gestão florestal dos proprietários e gestores florestais. O planeamento e execução devem, por isso, assegurar a prossecução dos objetivos de conservação dos recursos naturais e de racionalização do ordenamento do território, identificados nos «modelos gerais de silvicultura e de gestão de recursos» constantes nos planos regionais de ordenamento florestal (PROF) e nos planos de gestão florestal (PGF), estabelecidos no Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelo Decreto-Lei n.º 114/2010, de 22 de outubro.
+
+Contudo, no quadro legal em vigor, fruto da redefinição evolutiva das políticas públicas ocorrida ao longo dos anos, vem-se assistindo a uma profusão e grande heterogeneidade de procedimentos de licenciamento ou de autorização de ações de arborização ou rearborização, que em algumas situações impõem o cumprimento sucessivo de diversos regimes normativos desarticulados entre si, enquanto noutras não é exigida qualquer autorização, ou sequer comunicação prévia.
+
+O presente decreto-lei, dando expressão às linhas de ação da Estratégia Nacional para as Florestas, aprovada pela Resolução do Conselho de Ministros n.º 114/2006, de 15 de setembro, em particular na meta de «Racionalização e simplificação do quadro legislativo», visa, assim, prosseguir os seguintes objetivos:
+
+- A simplificação e atualização do quadro legislativo incidente sobre as arborizações e rearborizações de cariz florestal, concentrando num único diploma o seu regime jurídico, em especial o procedimento de autorização e o quadro sancionatório aplicável;
+
+- A eliminação dos regimes jurídicos que se revelaram inconciliáveis com os princípios, objetivos e medidas de política florestal nacional, aprovados pela Lei n.º 33/96, de 17 de agosto e, bem assim, daqueles que não asseguram a realização do interesse público associado ao ordenamento florestal e do território, e à conservação dos ecossistemas e da paisagem;
+
+- O conhecimento das ações de alteração do uso do solo ou de ocupação florestal enquanto instrumento fundamental para o acompanhamento das dinâmicas associadas ao território e como fonte importante de informação sobre o regime e estrutura da propriedade em regiões sem cadastro, mas com elevado potencial silvícola;
+
+- O reforço da componente de acompanhamento e fiscalização da execução das intervenções florestais, em detrimento do simples controlo administrativo prévio, permitindo o acompanhamento posterior pelas entidades públicas com atribuições nesse domínio;
+
+- A adequada alocação de atribuições e competências entre as diferentes entidades públicas responsáveis;
+
+- A diminuição dos custos de contexto, associados aos procedimentos administrativos, apostando na sua desmaterialização em reforço da transparência dos processos de decisão.
+
+A aplicação do presente decreto-lei não irá pôr em causa o cumprimento das demais normas legais e regulamentares condicionantes ou incidentes sobre as intervenções florestais e o uso do solo, incluindo, designadamente, as resultantes de regimes especiais de proteção de espécies, as orientações dos PROF, dos PGF e os instrumentos de gestão das zonas de intervenção florestal, as normas e os planos do Sistema de Defesa da Floresta contra Incêndios (SDFCI), o regime jurídico da conservação da natureza e da biodiversidade, os planos especiais e setoriais relevantes ou, ainda, os regimes jurídicos de avaliação de impacte ambiental ou de proteção e gestão dos recursos hídricos. Cumulativamente, todos os objetivos de interesse geral salvaguardados na Lei n.º 1951, de 9 de março de 1937, nos Decreto-Lei n.º 28039 e Decreto n.º 28040, ambos de 14 de setembro de 1937, nos Decretos-Leis n.os 139/88, de 22 de abril, 175/88, de 17 de maio, 180/89, de 30 de maio, e nas Portarias n.os 513/89, de 6 de julho e 528/89, de 11 de julho, que ora se revogam, e que mantêm atualidade e validade técnica, continuam a ser plenamente prosseguidos, quer pelo presente decreto-lei, quer por outra legislação especial já em vigor, incluindo, para além dos acima referidos, o regime da utilização de espécies não indígenas, aprovado pelo Decreto-Lei n.º 565/99, de 21 de dezembro, alterado pelo Decreto-Lei n.º 205/2003, de 12 de setembro, o regime dos povoamentos florestais percorridos por incêndios, aprovado pelo Decreto-Lei n.º 327/90, de 22 de outubro, alterado pela Lei n.º 54/91, de 8 de agosto, e pelos Decretos-Leis n.os 34/99, de 5 de fevereiro e 55/2007, de 12 de março e ainda o Código Civil. A título exemplificativo, destaca-se a Lei n.º 1951, de 9 de março de 1937, alterada pelo Decreto-Lei n.º 28039, de 14 de setembro de 1937, e regulamentada pelo Decreto n.º 28040, também de 14 de setembro de 1937, ora revogados e cujo âmbito de aplicação já não abarca a acácia-mimosa, o ailanto e muitas espécies de eucaliptos, uma vez que a utilização destas espécies está hoje proibida em lei especial reguladora da introdução na natureza de espécies não indígenas da flora e da fauna. Adicionalmente, ao longo dos anos, não só várias disposições dos diplomas legais que se revogam através do presente decreto-lei foram declaradas inconstitucionais, com força obrigatória geral, pelo Tribunal Constitucional, como a proteção de edifícios e outros bens, face à necessidade de controlar os combustíveis florestais (árvores e arbustos) na sua envolvente, tem hoje enquadramento legal próprio dentro do SDFCI.
+
+Do mesmo modo se revogam os Decretos-Leis n.os 139/88, de 22 de abril, alterado pelo Decreto-Lei n.º 224/98, de 17 de julho, e 180/89, de 30 de maio, que regulam a rearborização de áreas percorridas por incêndios florestais, fora e dentro do Sistema Nacional de Áreas Classificadas, definido pelo Decreto-Lei n.º 142/2008, de 24 de julho, uma vez que os aspetos relevantes daqueles diplomas estão já regulados nos instrumentos de planeamento florestal e de gestão das áreas classificadas, sendo as questões relevantes de alteração da ocupação florestal e do uso do solo salvaguardadas, respetivamente, pelo presente decreto-lei e também pelo Decreto-Lei n.º 327/90, de 22 de outubro, alterado e republicado pelo Decreto-Lei n.º 55/2007, de 12 de março.
+
+Relativamente ao Decreto-Lei n.º 175/88, de 17 de maio, que estabelece o condicionamento da arborização com espécies florestais de rápido crescimento, e respetiva regulamentação, impõe-se a sua revogação na medida em que os seus objetivos ficam integralmente assegurados pelo presente decreto-lei e pelos regimes de planeamento florestal e de avaliação de impacte ambiental, que passam a enquadrar as autorizações de arborização e rearborização com todas as espécies florestais, incluindo o eucalipto, sejam ou não exploradas em regimes silvícolas intensivos e independentemente das áreas a ocupar.
+
+Finalmente, é ainda harmonizado o Decreto-Lei n.º 139/89, de 28 de abril, com o presente decreto-lei, de forma a eliminar-se o duplo condicionamento administrativo à realização das ações de arborização e rearborização com espécies florestais sujeitas a autorização prévia do Instituto da Conservação da Natureza e das Florestas, I.P., independentemente de serem consultadas as câmaras municipais, no âmbito do procedimento próprio. Reconhecendo o insubstituível papel das autarquias locais na gestão dos respetivos territórios, o presente decreto-lei reforça as competências dos municípios tanto no âmbito do procedimento próprio, como no plano da fiscalização e controlo da aplicação e do cumprimento do regime aplicável às ações de arborização e rearborização.
+
+Por outro lado, com o presente decreto-lei pretende-se ainda instituir um sistema geral de controlo, avaliação e informação permanentes das ações de arborização e de rearborização com espécies florestais que não visem finalidades estritamente agrícolas, urbanísticas ou de enquadramento de edifícios e de infraestruturas rodoviárias, que será informatizado e de caráter universal, constituindo um instrumento essencial à implementação das políticas públicas que envolvem os espaços silvestres.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses e a Comissão Nacional de Proteção de Dados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei estabelece o regime jurídico aplicável às ações de arborização e rearborização, com recurso a espécies florestais, no território continental.
+
+2 - O presente decreto-lei procede ainda à segunda alteração ao Decreto-Lei n.º 166/2008, de 22 de agosto, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705), em vigor a partir de 2019-01-22
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se às ações de arborização e rearborização, independentemente da área intervencionada, das espécies envolvidas ou da qualidade e natureza do interessado na intervenção, sem prejuízo do previsto no regime jurídico das autarquias locais, aprovado em anexo à Lei n.º 75/2013, de 12 de setembro, na sua redação atual.
+
+2 - Excetuam-se do disposto no número anterior, as seguintes ações de arborização e rearborização:
+
+a) Para fins exclusivamente agrícolas e desde que as respetivas ações não envolvam espécies do género Eucalyptus s. p.;
+
+b) Enquadradas em operações urbanísticas sujeitas a controlo prévio e em infraestruturas rodoviárias;
+
+c) Que isoladas ou agregadas a outras áreas arborizadas, rearborizadas ou provenientes de regeneração natural não formem povoamento florestal.
+
+3 - Às ações de arborização e rearborização previstas no presente decreto-lei não é aplicável o Decreto-Lei n.º 139/89, de 28 de abril.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467), em vigor a partir de 2020-12-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei entende-se por:
+
+a) 'Arborização', ação de instalar árvores de espécies florestais, por sementeira ou plantação, em terrenos que não tenham sido ocupados por floresta nos últimos 10 anos;
+
+b) 'Povoamento florestal', terreno com área maior ou igual a 0,5 hectares e largura maior ou igual a 20 metros onde se verifica a presença de árvores florestais que tenham atingido, ou com capacidade para atingir, uma altura superior a 5 metros e um grau de coberto maior ou igual a 10 %;
+
+c) 'Rearborização', ação de reinstalar árvores de espécies florestais, por sementeira ou plantação, em terrenos que já tenham sido ocupados por floresta, nos últimos 10 anos.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 3.º-A — Arborizações e rearborizações com espécies do género Eucalyptus spp.
+
+1 - O Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), faz uma gestão nacional da área global das espécies do género Eucalyptus spp. de forma a aproximar -se progressivamente dos valores fixados na versão atual da Estratégia Nacional para as Florestas, de acordo com os instrumentos previstos no presente decreto-lei.
+
+2 - No caso de o Inventário Florestal Nacional indicar que a área de eucalipto está acima dos valores fixados na versão mais recente da Estratégia Nacional Florestal, a aproximação prevista no número anterior é feita de acordo com os instrumentos de ordenamento em vigor, atuando prioritariamente nas explorações com dimensão superior a 100 ha.
+
+3 - Não são permitidas as ações de arborização com espécies do género Eucalyptus s. p.
+
+4 - A rearborização com espécies do género Eucalyptus s. p. só é permitida quando a ocupação anterior constitua um povoamento puro ou misto dominante, tal como definido em sede do Inventário Florestal Nacional, de espécies do mesmo género.
+
+5 - Excetuam-se do disposto no n.º 3 as ações de arborização com espécies do género Eucalyptus s. p., desde que não inseridas, total ou parcialmente, na Rede Nacional de Áreas Protegidas, Rede Natura 2000 e em regime florestal e quando se verifiquem as seguintes condições cumulativas:
+
+a) Realizadas em áreas não agrícolas, de aptidão florestal;
+
+b) Realizadas em área que não seja de regadio;
+
+c) Resultem de projetos de compensação de áreas de povoamentos de espécies do género Eucalyptus s. p. por áreas de povoamento localizadas em zonas de maior produtividade, nos termos do artigo 3.º-B;
+
+d) Realizadas em concelhos onde esta espécie não ultrapasse os limites relativos definidos nos Planos Regionais de Ordenamento Florestal (PROF);
+
+e) Realizadas em zonas onde não constituam manchas contínuas desta espécie ou de espécie pinheiro-bravo, consideradas demasiado extensas nos termos a definir nos PROF.
+
+6 - O disposto na alínea c) do número anterior só é permitido após o cumprimento do n.º 2 do artigo 11.º do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, respeitante à incorporação do conteúdo dos PROF nos Planos Diretores Municipais.
+
+7 - Ao procedimento de autorização dos projetos de compensação é aplicável o disposto nos artigos 7.º a 12.º
+
+8 - Deve ser comunicada ao ICNF, I. P., a conclusão da execução das ações integradas no projeto de compensação referido na alínea c) do n.º 5, no prazo máximo de 15 dias após a execução das mesmas.
+
+9 - Os termos dos projetos de compensação referidos no n.º 5 são objeto de deliberação do conselho diretivo do ICNF, I. P.
+
+10 - Para efeitos do n.º 5, é disponibilizada no sítio na Internet do ICNF, I. P., uma listagem das áreas de eucaliptal a reconverter, com a sua localização, dimensão, bem como a informação dos projetos de compensação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705), em vigor a partir de 2019-01-22
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 3.º-B — Projetos de compensação
+
+1 - Para efeitos do disposto na alínea c) do n.º 5 do artigo anterior, os projetos de compensação devem contemplar o compromisso de investimento em áreas que garantam o uso agrícola ou pecuário ou com rearborização com espécies autóctones, em caso de uso florestal.
+
+2 - Para efeitos do disposto na alínea c) do n.º 5 do artigo anterior, nos anos posteriores à incorporação prevista no n.º 6 do mesmo artigo, os promotores podem realizar projetos de compensação que executem a arborização de acordo com as áreas máximas previstas no anexo ao presente decreto-lei, que dele faz parte integrante, sem prejuízo do disposto no número seguinte.
+
+3 - Com vista à promoção da redução dos povoamentos com Eucalyptus spp., não são aplicáveis as reduções previstas no anexo ao presente decreto- lei, que dele faz parte integrante, aos projetos de compensação respeitantes integralmente à redução dessa espécie nas áreas classificadas nos termos do Decreto-Lei n.º 142/2008, de 24 de julho, na sua redação atual, relativo ao Sistema Nacional de Áreas Classificadas (SNAC).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705), em vigor a partir de 2019-01-22
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 4.º — Autorização prévia
+
+1 - Estão sujeitas a autorização do ICNF, I. P., as ações de arborização e rearborização que se realizem:
+
+a) Em áreas inseridas na Rede Nacional de Áreas Protegidas ou Rede Natura 2000, nos termos definidos no Decreto-Lei n.º 142/2008, de 24 de julho, na sua redação atual;
+
+b) Em áreas submetidas ao Regime Florestal, nos termos do Decreto de 24 de dezembro de 1901;
+
+c) Em áreas geridas pelo ICNF, I. P., ou em associação com o ICNF, I. P.;
+
+d) Em áreas territoriais de mais do que um município;
+
+e) Em área territorial de um município que não disponha de gabinete técnico florestal;
+
+f) Com recurso a espécies do género Eucalyptus spp.
+
+2 - As ações de arborização e rearborização não abrangidas pelo disposto no número anterior estão sujeitas a autorização dos municípios da área territorial que disponham de gabinete técnico florestal.
+
+3 - A autorização é válida pelo período de dois anos, contados a partir da data da notificação do requerente ou da data em que o pedido se considere tacitamente deferido nos termos do artigo 11.º, sem prejuízo da possibilidade de revogação do ato tácito.
+
+4 - Deve ser comunicado ao ICNF, I. P., e ao município da área territorial o início e a conclusão da execução das ações de arborização e rearborização, referidas nos n.os 1 e 2, até 10 dias antes do início das mesmas e nos 15 dias após a sua conclusão.
+
+5 - Os pedidos de autorização previstos nos n.os 1 e 2 são decididos no prazo de 45 dias contados a partir da respetiva apresentação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467), em vigor a partir de 2020-12-28
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 5.º — Comunicação prévia
+
+1 - Estão sujeitas a comunicação prévia ao município da área territorial, quando disponha de um gabinete técnico florestal, ou ao ICNF, I. P., nos restantes casos, as ações de arborização e de rearborização com recurso a espécies florestais nas situações abaixo referidas:
+
+a) Quando se verifiquem as seguintes condições cumulativas:
+
+i) A área de intervenção ser inferior a 2 hectares;
+
+ii) Não se inserirem, total ou parcialmente, na Rede Nacional de Áreas Protegidas ou Rede Natura 2000, como definido no Decreto-Lei n.º 142/2008, de 24 de julho;
+
+iii) Não se realizem em áreas submetidas ao Regime Florestal, nos termos do Decreto de 24 de dezembro de 1901;
+
+iv) Tratando-se de rearborizações, não alterarem a espécie ou espécies dominantes anteriormente instaladas, salvo nos casos em que se trate de eucalipto;
+
+v) Não ocorram em área territorial abrangida por mais do que um município.
+
+b) Quando se encontrem previstas em plano de gestão florestal aprovado em decisão expressa favorável do ICNF, I. P., que integre os elementos técnicos de conteúdo do projeto de arborização ou rearborização a que se refere a alínea a) do n.º 2 e o n.º 3 do artigo 7.º
+
+2 - O recurso à comunicação prévia não é admissível nos casos previstos no n.º 4 do artigo 3.º-A sendo, nesses casos, aplicável o disposto no artigo anterior.
+
+3 - A comunicação prévia deve ser apresentada com antecedência mínima de 45 dias relativamente ao início de a respetiva ação produzir quaisquer efeitos.
+
+4 - As ações objeto de comunicação prévia devem ser executadas no prazo de dois anos a contar da data da sua apresentação sob pena de ser necessário submeter novo pedido.
+
+5 - Deve ser comunicado ao ICNF, I. P., bem como aos municípios, o início e a conclusão da execução das ações de arborização e rearborização referidas no n.º 1 até 10 dias antes do início das mesmas e nos 15 dias após a sua conclusão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467), em vigor a partir de 2020-12-28
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 6.º — Dispensa de autorização e de comunicação prévia
+
+1 - ( Revogado).
+
+2 - ( Revogado).
+
+3 - Quando, nos termos da lei, as arborizações ou rearborizações sejam abrangidas por procedimento de avaliação de impacte ambiental ou análise de incidências ambientais, a declaração de impacte ambiental ou a decisão de incidências ambientais, se favoráveis ou favoráveis condicionadas, equivalem à autorização prevista no n.º 1 do artigo 4.º
+
+4 - São dispensadas de autorização e de comunicação prévias as ações de arborização e rearborização inseridas em projetos de execução das medidas compensatórias determinadas nos termos do artigo 8.º do Decreto-Lei n.º 169/2001, de 25 de maio, alterado pelos Decretos-Leis n.os 155/2004, de 30 de junho, e 29/2015, de 10 de fevereiro.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467), em vigor a partir de 2020-12-28
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 7.º — Autorização e comunicação prévia
+
+1 - O pedido de autorização e a comunicação prévia a que se referem, respetivamente, os artigos 4.º e 5.º são efetuados por transmissão eletrónica, através do sistema previsto no artigo seguinte, deles devendo constar:
+
+a) A identificação do requerente ou comunicante, incluindo o domicílio ou sede;
+
+b) A indicação da qualidade de titular de qualquer direito que lhe confira a faculdade de realizar a ação de arborização ou rearborização visada;
+
+c) A identificação, localização e área do prédio ou prédios a intervencionar.
+
+2 - O pedido de autorização e a comunicação prévia referidos no número anterior são obrigatoriamente instruídos com os seguintes documentos:
+
+a) Projeto de arborização ou rearborização ou ficha de projeto simplificado, aplicando-se esta ficha de projeto quando se trate de comunicação prévia, devendo incluir eventuais medidas a adotar para a prevenção de fogos florestais;
+
+b) Termo de responsabilidade a emitir pelo autor do projeto ou da ficha de projeto simplificado, declarando que foram observadas na sua elaboração as normas legais, regulamentares e técnicas aplicáveis, designadamente as previstas no artigo 10.º.
+
+3 - Os documentos identificados no número anterior são entregues mediante formulários próprios, cujo modelo e conteúdo é aprovado pelo conselho diretivo do ICNF, I.P..
+
+4 - Com a submissão eletrónica do pedido de autorização ou da comunicação prévias é emitido comprovativo, entregue automaticamente pela mesma via, devendo ser afixada cópia no local, legível a partir do exterior da área a intervencionar, durante o período de realização das ações de arborização ou rearborização.
+
+5 - Sem prejuízo do disposto em legislação especial, só podem subscrever projetos os técnicos legalmente habilitados, nos termos a definir por portaria do membro do Governo responsável pela área das florestas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467), em vigor a partir de 2020-12-28
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 8.º — Sistema de informação
+
+1 - A tramitação dos procedimentos e formalidades previstas no presente decreto-lei é realizada informaticamente com recurso ao Balcão Único Eletrónico previsto nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do Portal do Cidadão, e nos sítios na Internet do ICNF, I. P., assegurando, nomeadamente:
+
+a) A entrega dos pedidos de autorização e de comunicação prévia;
+
+b) A consulta do estado do procedimento de autorização;
+
+c) A submissão do procedimento de autorização a consulta e parecer de entidades externas ao ICNF, I. P.;
+
+d) O registo das decisões de autorização e de aprovação do programa de recuperação a que se refere o artigo 14.º;
+
+e) A consulta dos dados relativos às autorizações e às comunicações prévias, bem como dos projetos e fichas de projeto correspondentes, pelas entidades referidas no n.º 1 do artigo 17.º, para o exercício das respetivas competências em matéria de fiscalização, de planeamento florestal e de defesa da floresta contra incêndios, e ainda pelas Comissões de Coordenação e Desenvolvimento Regional (CCDR), para efeito de controlo e fiscalização de ações de arborização ou rearborização comunicadas, quando incidentes em áreas integradas na Reserva Ecológica Nacional.
+
+f) A consulta dos dados relativos às ações de arborização e rearborização integradas em projetos florestais aprovados no âmbito de programas de apoio financeiro com fundos públicos ou da União Europeia.
+
+2 - Ao tratamento, segurança, conservação, acesso e proteção dos dados pessoais constantes do sistema de informação previsto no número anterior é diretamente aplicável o disposto na legislação e regulamentação relativa à proteção de dados pessoais, nomeadamente o Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados.
+
+3 - O sistema de informação é regulamentado por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e das florestas.
+
+4 - Sempre que o acesso ao sistema de informação tenha de ser interrompido, por motivos de atualização ou outros que impeçam a sua utilização, o ICNF, I. P., informa sobre os procedimentos a adotar através da sua página eletrónica.
+
+5 - Para acesso aos sistemas de informação deve ser adotada a utilização de mecanismos de autenticação eletrónica através do Cartão de Cidadão e Chave Móvel Digital.
+
+6 - Sempre que se mostre necessário deve promover-se a articulação com outras bases de dados, através da Plataforma de Interoperabilidade da Administração Pública (iAP), nos termos do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual, e da Resolução do Conselho de Ministros n.º 42/2015, de 19 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 9.º — Consultas e pareceres
+
+1 - O pedido de autorização está sujeito a consulta prévia obrigatória das CCDR em áreas incluídas na Reserva Ecológica Nacional, bem como das câmaras municipais no âmbito exclusivo das suas atribuições e competências, e aos demais pareceres previstos na lei.
+
+2 - Os pareceres das câmaras municipais são vinculativos para ações que ocorram nos espaços florestais, como tal definidos nos termos do artigo 19.º do Decreto Regulamentar n.º 15/2015, de 19 de agosto, sobre matérias que se encontrem vertidas no respetivo Plano Diretor Municipal.
+
+3 - As consultas e pareceres previstos nos números anteriores não estão sujeitos a taxas ou quaisquer outros encargos.
+
+4 - As entidades consultadas pronunciam-se no prazo de 20 dias a contar do pedido, considerando-se haver concordância com a pretensão formulada caso os pareceres não sejam emitidos nesse prazo.
+
+5 - As consultas e os pedidos de emissão de parecer referidos nos números anteriores são efetuados em simultâneo, pelo ICNF, I. P., através do sistema de informação previsto no artigo anterior.
+
+6 - O ICNF, I. P., e os municípios notificam as CCDR através do sistema de informação das comunicações prévias efetuadas no âmbito do artigo 5.º, para efeitos de cumprimento da comunicação prévia, nos termos do artigo 22.º do regime jurídico da Reserva Ecológica Nacional, aprovado pelo Decreto-Lei n.º 166/2008, de 22 de agosto, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467), em vigor a partir de 2020-12-28
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 10.º — Decisão
+
+1 - Os pedidos de autorização são analisados e decididos fundamentadamente, em função da sua conformidade com as disposições legais, regulamentares e técnicas com incidência nas ações de arborização e rearborização, designadamente as seguintes:
+
+a) As normas legais, regulamentares e técnicas de silvicultura e demais disposições orientadoras dos programas regionais de ordenamento florestal, dos planos diretores municipais, dos planos de gestão florestal e dos planos específicos de intervenção florestal, quando aplicável;
+
+b) As disposições legais em matéria de ordenamento e exploração florestal, bem como de defesa da floresta contra agentes bióticos e abióticos, nomeadamente as disposições constantes do Sistema Nacional de Defesa da Floresta Contra Incêndios e do Programa Operacional de Sanidade Florestal;
+
+c) As medidas legais de concretização da política do ambiente, nomeadamente na área da conservação da natureza e biodiversidade, de proteção dos recursos hídricos e de avaliação de impacte e incidência ambiental;
+
+d) As disposições legais em matéria de defesa dos solos agrícolas e dos aproveitamentos hidroagrícolas;
+
+e) As medidas de proteção de infraestruturas e equipamentos sociais e de salvaguarda do património cultural;
+
+f) As normas decorrentes dos instrumentos de gestão territorial ou de servidões e restrições de utilidade pública aplicáveis;
+
+g) As normas aplicáveis em matéria de valorização da paisagem.
+
+h) As normas e boas práticas de preparação de solo, bem como as condicionantes de técnicas de instalação, a publicar em portaria do membro do Governo responsável pela área das florestas.
+
+2 - A decisão de autorização deve ainda estabelecer e fundamentar as condicionantes aplicáveis, incluindo o período de realização das ações de arborização e rearborização.
+
+3 - A decisão do procedimento de autorização, na redação introduzida pelo presente decreto-lei, compete ao conselho diretivo do ICNF, I. P., com possibilidade de delegação no seu presidente, com faculdade de subdelegação, ou ao presidente da câmara municipal.
+
+4 - A aprovação do programa de recuperação a que se refere o artigo 14.º compete ao conselho diretivo do ICNF, I. P., com possibilidade de delegação no seu presidente, com faculdade de subdelegação.
+
+5 - O ICNF, I. P., avalia, de forma aleatória, 20 % das comunicações prévias e sobre elas emite decisão de rejeição, se aplicável, no prazo máximo de 45 dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467), em vigor a partir de 2020-12-28
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 11.º — Deferimento tácito
+
+1 - Consideram-se tacitamente deferidos os pedidos de autorização que não forem decididos no prazo de 60 dias contados da data de apresentação do respetivo pedido, sem prejuízo das causas de suspensão.
+
+2 - Constituem causas de suspensão do prazo de decisão para efeitos do disposto no número anterior, sem prejuízo de outras previstas na lei, as seguintes:
+
+a) A comunicação ao requerente para regularização do pedido ou dos documentos que o devam instruir, bem como a solicitação de elementos ou esclarecimentos complementares;
+
+b) A audiência prévia.
+
+3 - O procedimento de autorização considera-se suspenso pelo período fixado pela entidade responsável pela decisão, para a supressão das irregularidades do pedido, da sua instrução ou para a apresentação de resposta em audiência prévia, consoante o caso.
+
+4 - Não se produz, contudo, o deferimento tácito nos pedidos de autorização:
+
+a) Que digam respeito a arborização ou rearborização com espécies do género Eucalyptus s. p.;
+
+b) Em que a área da arborização corresponda a 10 ha ou superior;
+
+c) Em áreas inseridas na Rede Nacional de Áreas Protegidas ou Rede Natura 2000, nos termos definidos no Decreto-Lei n.º 142/2008, de 24 de julho, na sua redação atual;
+
+d) Em áreas submetidas ao Regime Florestal, nos termos do Decreto de 24 de dezembro de 1901.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467), em vigor a partir de 2020-12-28
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 12.º — Rede Nacional de Áreas Protegidas e Rede Natura 2000
+
+As ações de arborização e rearborização com espécies florestais autorizadas nos termos do presente decreto-lei dispensam todas as autorizações e pareceres com o mesmo objeto previstos nos instrumentos jurídicos aplicáveis à Rede Nacional de Áreas Protegidas e Rede Natura 2000 inseridas no Sistema Nacional de Áreas Classificadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 12.º-A — Arranque de plantas ilegais
+
+1 - O conselho diretivo do ICNF, I. P., pode decidir pelo arranque e remoção da instalação de plantas, a cumprir num prazo máximo de 180 dias, nas seguintes circunstâncias:
+
+a) Não autorizadas ou, quando aplicável, não objeto de comunicação prévia válida;
+
+b) Realizadas em desconformidade com as autorizações concedidas ao abrigo do presente decreto-lei ou das condicionantes impostas;
+
+c) Realizadas em desconformidade com comunicação prévia apresentada nos termos do presente decreto-lei.
+
+2 - Caso os proprietários, arrendatários e outros titulares de direitos reais ou contratuais sobre os terrenos não procedam, dentro do prazo fixado, ao arranque e remoção, o ICNF, I. P., pode substituir-se-lhes na sua execução, correndo por conta daqueles os custos inerentes.
+
+3 - Em caso de falta de pagamento, as importâncias referidas no número anterior são cobradas mediante processo de execução fiscal, da competência da Autoridade Tributária e Aduaneira, que segue, com as necessárias adaptações, o disposto nos artigos 148.º e seguintes do Código do Procedimento e de Processo Tributário.
+
+4 - Deve ser comunicado ao ICNF, I. P., o início e a conclusão da execução das ações de arranque e remoção, nos 15 dias anteriores às mesmas e nos 15 dias após a sua conclusão.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 12/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705), em vigor a partir de 2019-01-22
+
+###### Artigo 13.º — Reconstituição da situação
+
+1 - Independentemente da responsabilidade contraordenacional de qualquer dos agentes envolvidos, o ICNF, I. P., pode determinar a reconstituição da situação anterior nas ações de arborização ou rearborização, nas seguintes circunstâncias:
+
+a) Não autorizadas ou, quando aplicável, não objeto de comunicação prévia válida;
+
+b) Realizadas em desconformidade com as autorizações concedidas ao abrigo do presente decreto-lei ou das condicionantes impostas;
+
+c) Realizadas em desconformidade com comunicação prévia apresentada nos termos do presente decreto-lei.
+
+2 - A decisão de reconstituição da situação anterior é proferida no prazo de seis meses a contar do conhecimento dos factos, por parte do ICNF, I. P., devendo a reconstituição ocorrer no prazo máximo de dois anos.
+
+3 - No caso de decisão de reconstituição da situação anterior nos termos do n.º 2, os proprietários, arrendatários e outros titulares de direitos reais ou contratuais sobre os terrenos procedem ao arranque e remoção das plantas ilegalmente instaladas num prazo máximo de 180 dias.
+
+4 - Caso os proprietários, arrendatários e outros titulares de direitos reais ou contratuais sobre os terrenos, não procedam, dentro do prazo fixado, à reconstituição da situação anterior à operação efetuada, o ICNF, I.P., pode substituir-se-lhes na sua execução, correndo por conta daqueles os custos inerentes.
+
+5 - Em casos devidamente fundamentados, sempre que o ICNF, I.P., considere não se justificar a reconstituição da situação anterior, pode sujeitar os destinatários à apresentação de programa de recuperação, nos termos do artigo seguinte.
+
+6 - Em caso de falta de pagamento, as importâncias referidas no n.º 4 são cobradas mediante processo de execução fiscal, que segue, com as necessárias adaptações, o disposto nos artigos 148.º e seguintes do Código do Procedimento e de Processo Tributário, constituindo a nota de despesas título executivo bastante.
+
+7 - Deve ser comunicado ao ICNF, I. P., o início e a conclusão do arranque das plantas e execução das demais ações tendentes à reconstituição da situação anterior, nos 15 dias anteriores às mesmas e nos 15 dias após a sua conclusão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 14.º — Programa de recuperação
+
+1 - O programa de recuperação visa a reconstituição da conformidade legal e técnica de ações de arborização e rearborização realizadas com espécies florestais em incumprimento dos artigos 4.º a 6.º, definindo as intervenções a executar, que estão sujeitas a autorização do ICNF, I. P.
+
+2 - Ao procedimento de autorização do programa de recuperação é aplicável o disposto nos artigos 7.º a 12.º, com as devidas adaptações.
+
+3 - O disposto nos n.os 3 a 6 do artigo anterior é aplicável, com as necessárias adaptações, em caso de incumprimento das ações previstas no programa de recuperação.
+
+4 - Os programas de recuperação são objeto de decisão no prazo máximo de 45 dias, aplicando-se para a sua instrução os procedimentos constantes nos n.os 2 e 3 do artigo 11.º
+
+5 - A decisão do ICNF, I. P., referida no n.º 4 do artigo anterior, estabelece um prazo máximo para apresentação do programa de recuperação.
+
+6 - O prazo máximo para a execução do programa de recuperação é definido pelo ICNF, I. P., sob proposta do requerente, e comunicado com a decisão de autorização respetiva.
+
+7 - Deve ser comunicado ao ICNF, I. P., o início e a conclusão do arranque das plantas e da execução do programa de recuperação, nos 15 dias anteriores ao início do mesmo e nos 15 dias após a sua conclusão.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 14.º-A — Embargo
+
+1 - O conselho diretivo do ICNF, I. P., pode a qualquer momento ordenar o embargo de quaisquer ações em curso, que estejam a ser efetuadas com inobservância do estabelecido no presente decreto-lei e na demais legislação aplicável.
+
+2 - A notificação é feita ao apresentante da comunicação prévia ou autorização ou ao proprietário do prédio rústico onde estejam a ser executadas as ações, sendo suficiente para obrigar à suspensão dos trabalhos qualquer dessas notificações, ou a quem se encontre a executar as ações no local.
+
+3 - Após o embargo, é de imediato lavrado o respetivo auto, que contém, obrigatória e expressamente, a identificação do responsável pela fiscalização, das testemunhas e do notificado, a data, a hora e o local da diligência e as razões de facto e de direito que a justificam, o estado das ações da obra e a indicação da ordem de suspensão e proibição de prosseguir as ações e do respetivo prazo, bem como as cominações legais do seu incumprimento.
+
+4 - O auto é redigido em duplicado e assinado pelo responsável pela fiscalização e pelo notificado, ficando o duplicado na posse deste.
+
+5 - No caso de a ordem de embargo incidir apenas sobre parte das ações, o respetivo auto faz expressa menção de que o embargo é parcial e identifica claramente qual é a parte que se encontra embargada.
+
+6 - O auto de embargo é notificado às pessoas identificadas no n.º 2.
+
+7 - No caso de as ações estarem a ser executadas por pessoa coletiva, o embargo e o respetivo auto são ainda comunicados para a respetiva sede social ou representação em território nacional.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 14.º-B — Obrigação de quem executa
+
+1 - Quem executa ações de arborização ou de rearborização, independentemente de ser ou não proprietário, arrendatário ou titular de outros direitos reais ou contratuais sobre os terrenos, tem de acautelar a existência de autorização ou de comunicação prévia, salvo quando esteja dispensado nos termos do presente decreto-lei.
+
+2 - Para efeito do número anterior, o agente executante das ações de arborização ou de rearborização consulta o sistema de informação referido no artigo 8.º
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 12/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705), em vigor a partir de 2019-01-22
+
+###### Artigo 15.º — Contraordenações
+
+1 - Constitui contraordenação ambiental leve, punível nos termos da Lei-Quadro das Contraordenações Ambientais, aprovada pela Lei n.º 50/2006, de 29 de agosto:
+
+a) A realização de ações de arborização ou rearborização sem autorização, salvo quando dela dispensados nos termos dos artigos 5.º e 6.º, ou quando executadas fora do prazo referido no n.º 3 do artigo 4.º;
+
+b) A realização de ações de arborização e de rearborização não comunicadas previamente nos termos do artigo 5.º ou, tendo sido comunicadas nos termos legais, quando executadas fora do prazo referido no n.º 3 do artigo 5.º;
+
+c) A realização de ações de arborização e de rearborização com quaisquer espécies florestais em incumprimento da decisão de autorização a que se refere o n.º 2 do artigo 10.º, bem como dos projetos previamente autorizados ou da ficha de projeto simplificado a que se refere a alínea a) do n.º 2 do artigo 7.º;
+
+d) O incumprimento da decisão do ICNF, I. P., de reconstituição da situação anterior nas ações de arborização ou rearborização, a que se refere o n.º 2 do artigo 13.º;
+
+e) O incumprimento do programa de recuperação aprovado pelo ICNF, I.P., a que se refere o artigo 14.º;
+
+f) A falta de apresentação do programa de recuperação dentro do prazo determinado pelo ICNF, I. P.;
+
+g) A falta de comunicação do início e da conclusão da execução das ações conforme disposto no n.º 8 do artigo 3.º-A, no n.º 4 do artigo 4.º, no n.º 5 do artigo 5.º, no n.º 6 do artigo 13.º e no n.º 7 do artigo 14.º;
+
+h) As falsas declarações prestadas no termo de responsabilidade emitido pelo autor do projeto ou na ficha simplificada de projeto relativamente à observância das normas legais e técnicas aplicáveis;
+
+i) A desconformidade da execução da obra com o projeto aprovado e com as condições da autorização ou da comunicação prévia apresentada, assim como a desconformidade das alterações efetuadas ao projeto com as normas legais e regulamentares aplicáveis;
+
+j) Incumprimento do projeto de compensação aprovado pelo ICNF, I. P., a que se refere o artigo 3.º-A;
+
+l) A realização de ações de arborização com espécies do género Eucalyptus spp., a que se refere o artigo 3.º-A, sem prévia execução do projeto de compensação;
+
+m) O incumprimento do disposto no artigo 12.º-A;
+
+n) O incumprimento da verificação a que se refere o n.º 1 do artigo 14.º-B.
+
+2 - [Revogado.]
+
+3 - A tentativa é sempre punível, reduzindo-se para metade os limites mínimos e máximos dos montantes das coimas.
+
+4 - [Revogado.]
+
+5 - Volvidos 180 dias sobre o incumprimento do prazo das decisões do ICNF, I. P., previstas nos artigos 12.º-A, 13.º e 14.º, os limites mínimos das coimas são elevados para o dobro.
+
+6 - Em caso de reincidência, e desde que não tenham decorrido cinco anos entre as decisões condenatórias, os limites mínimos das contraordenações previstas nos n.ºs 1 e 2 são elevados para o dobro.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467), em vigor a partir de 2020-12-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2019-118051705), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 16.º — Sanções acessórias
+
+1 - Em função da gravidade da contraordenação e da culpa do agente, o conselho diretivo do ICNF, IP, pode, cumulativamente com a aplicação das coimas previstas no artigo anterior, aplicar no âmbito de atividades e projetos florestais, as sanções acessórias previstas na Lei-Quadro das Contraordenações Ambientais.
+
+2 - [Revogado.]
+
+3 - [Revogado.]
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 18/2026 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/lei/18-2026-1103945165), em vigor a partir de 2026-05-06, com efeitos a partir de 2026-01-01.
+
+###### Artigo 17.º — Competência de fiscalização e contraordenacional
+
+1 - A fiscalização e controlo da aplicação e do cumprimento do presente decreto-lei compete ao ICNF, I.P., à Guarda Nacional Republicana (GNR) e às demais entidades fiscalizadoras competentes, bem como aos municípios.
+
+2 - Compete ao ICNF, I.P., instruir os respetivos processos contraordenacionais, sendo competência do conselho diretivo do ICNF, I.P., decidir da aplicação da coima e sanções acessórias.
+
+3 - Os autos de notícia são remetidos no prazo máximo de cinco dias ao ICNF, I.P.
+
+4 - As competências estabelecidas no n.º 2 são suscetíveis de delegação e subdelegação nos termos gerais de direito.
+
+###### Artigo 18.º — Destino das coimas
+
+O produto das coimas aplicadas reverte a favor das seguintes entidades:
+
+a) 10% para a entidade autuante;
+
+b) 20 % para o município respetivo;
+
+c) 10 % para o ICNF, I. P.;
+
+d) 25 % para o Fundo Florestal Permanente;
+
+e) 35 % para o Estado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2020 - Diário da República n.º 126/2020, Série I de 2020-07-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2020-136990467), em vigor a partir de 2020-12-28
+
+###### Artigo 19.º — Regime transitório
+
+1 - Até à implementação do sistema de informação a que se refere o artigo 8.º, o pedido de autorização e a comunicação prévios à realização de ações de arborização e rearborização com espécies florestais devem ser apresentados, por escrito, em formulários de modelos a aprovar por despacho do conselho diretivo do ICNF, I.P., acompanhados de todos os documentos que o devam instruir.
+
+2 - O disposto no número anterior é aplicável, com as devidas adaptações, às consultas e pareceres previstos no artigo 9.º, devendo ser disponibilizados neste caso às câmaras municipais e demais entidades que devam pronunciar-se ou emitir parecer, todos os elementos necessários, por qualquer meio expedito de comunicação.
+
+3 - Os pedidos de autorização de licenciamento ou parecer relativos a ações de arborização e rearborização com espécies florestais que se encontrem em instrução ou não estejam decididos à data da entrada em vigor do presente decreto-lei regem-se pela lei em vigor à data da sua apresentação.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 20.º — Regulamentação
+
+1 - São objeto de regulamentação, a aprovar no prazo de 90 dias a contar da publicação do presente decreto-lei:
+
+a) Os modelos dos formulários a que se refere a alínea a) do n.º 2 e o n.º 3 do artigo 7.º e as normas de conteúdo dos projetos correspondentes;
+
+b) O modelo e conteúdo do termo de responsabilidade a que se refere a alínea b) do n.º 2 do artigo 7.º;
+
+c) A estrutura e regras de funcionamento do sistema de informação a que se refere o artigo 8.º;
+
+d) O modelo de formulário a que se refere o n.º 1 do artigo 19.º.
+
+2 - A regulamentação prevista no número anterior reveste a forma de despacho do conselho diretivo do ICNF, I.P., exceto quanto à alínea c) do número anterior.
+
+###### Artigo 21.º — Alteração ao Decreto-Lei n.º 166/2008, de 22 de agosto
+
+O artigo 20.º do Decreto-Lei n.º 166/2008, de 22 de agosto, alterado pelo Decreto-Lei n.º 239/2012, de 2 de novembro, passa a ter a seguinte redação:
+
+«Artigo 20.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Consideram-se ainda dispensadas da aplicação do disposto no n.º 1 as ações de arborização e rearborização com espécies florestais, bem como a implantação de infraestruturas no seu âmbito, quando decorrentes de projetos autorizados pelo Instituto da Conservação da Natureza e das Florestas, I.P., ou aprovados pelas entidades competentes no âmbito de programas públicos de apoio ao desenvolvimento florestal, nos termos da lei.
+
+5 - Para efeitos do disposto no número anterior, a análise das ações inerente aos projetos submetidos a autorização ou aprovação deve incorporar os princípios e objetivos da REN.
+
+6 - [Anterior n.º 4].»
+
+###### Artigo 22.º — Norma revogatória
+
+Sem prejuízo do disposto no n.º 3 do artigo 19.º, são revogados os seguintes diplomas:
+
+a) O Decreto n.º 13 658, de 23 de maio de 1927;
+
+b) A Lei n.º 1951, de 9 de março de 1937;
+
+c) O Decreto-Lei n.º 28039, de 14 de setembro de 1937;
+
+d) O Decreto n.º 28040, de 14 de setembro de 1937;
+
+e) O Decreto-Lei n.º 139/88, de 22 de abril;
+
+f) O Decreto-Lei n.º 175/88, de 17 de maio;
+
+g) O Decreto-Lei n.º 180/89, de 30 de maio;
+
+h) A Portaria n.º 513/89, de 6 de julho;
+
+i) A Portaria n.º 528/89, de 11 de julho.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/77-2017-108010873), em vigor a partir de 2018-02-13
+
+###### Artigo 23.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 90 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 30 de maio de 2013. - Pedro Passos Coelho - Miguel Bento Martins Costa Macedo e Silva - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 15 de julho de 2013.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 16 de julho de 2013.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

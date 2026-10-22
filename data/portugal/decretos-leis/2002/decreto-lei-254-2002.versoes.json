@@ -1,0 +1,118 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448753:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-143853474",
+ "dre_path": "/dr/detalhe/decreto-lei/254-2002-448753",
+ "source_lastmod": "2025-06-23",
+ "versions": [
+  {
+   "date": "2002-11-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "143853569",
+    "143853570",
+    "143853571",
+    "143853572"
+   ]
+  },
+  {
+   "date": "2020-09-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:143741481:por",
+     "title": "Decreto-Lei n.º 76/2020",
+     "published": "2020-09-25",
+     "dre_path": "/dr/detalhe/decreto-lei/76-2020-143741481"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "143853569",
+    "922206636",
+    "922206637",
+    "922206638",
+    "922206639"
+   ]
+  }
+ ],
+ "fragments": {
+  "143853569": {
+   "fragment_id": "143856475",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 254/2002\n\nde 22 de Novembro\n\nO Decreto-Lei n.º 238/94, de 19 de Setembro, que define o sistema de unidades de medida legais, transpôs para a ordem jurídica nacional a Directiva n.º <a href=\"eurlex.asp?ano=1980&id=380L0181\" title=\"Link para Directiva da Comunidade Europeia\">80/181/CEE</a>, do Conselho, de 20 de Dezembro de 1979, alterada pelas Directivas n.os <a href=\"eurlex.asp?ano=1985&id=385L0001\" title=\"Link para Directiva da Comunidade Europeia\">85/1/CEE</a>, do Conselho, de 18 de Dezembro de 1984, e <a href=\"eurlex.asp?ano=1989&id=389L0617\" title=\"Link para Directiva da Comunidade Europeia\">89/617/CEE</a>, do Conselho, de 27 de Novembro de 1989.\n\nAcontece que o texto da referida Directiva n.º <a href=\"eurlex.asp?ano=1980&id=380L0181\" title=\"Link para Directiva da Comunidade Europeia\">80/181/CEE</a> sofreu, recentemente, mais uma alteração através da Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0103\" title=\"Link para Directiva da Comunidade Europeia\">1999/103/CE</a>, do Parlamento Europeu e do Conselho, de 24 de Janeiro de 2000.\n\nTal alteração surgiu da necessidade de a adaptar às resoluções da 19.ª Conferência Geral de Pesos e Medidas, na qual se alargou a lista de prefixos do SI (Sistema Internacional de Medidas) a ser utilizados para múltiplos e submúltiplos das unidades do SI, bem como às regras de utilização prática do SI estabelecidas na norma internacional ISO 1000.\n\nPor outro lado, a Organização Internacional de Normalização (ISO) procedeu à revisão dos princípios e das regras relativos às grandezas e às unidades, em conformidade com a norma internacional ISO 31, pelo que tais matérias foram, de igual modo, contempladas na Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0103\" title=\"Link para Directiva da Comunidade Europeia\">1999/103/CE</a>.\n\nPor fim, e dado que determinados países terceiros não aceitam no seu mercado produtos com marcações exclusivamente nas unidades legais, criando uma desvantagem para as empresas que exportam para tais países, esta nova directiva veio autorizar a utilização das indicações suplementares em unidades não legais durante um período mais largo.\n\nDeste modo, importa introduzir todas estas alterações na ordem jurídica nacional, alterando em conformidade o Decreto-Lei n.º 238/94, de 19 de Setembro.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 18/2002, de 15 de Julho, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "143853570": {
+   "fragment_id": "143856476",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma procede à transposição, para a ordem jurídica nacional, da Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0103\" title=\"Link para Directiva da Comunidade Europeia\">1999/103/CE</a>, do Parlamento Europeu e do Conselho, de 24 de Janeiro de 2000."
+  },
+  "143853571": {
+   "fragment_id": "143856477",
+   "type": 11,
+   "heading": "Artigo 2.º — Indicações suplementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Indicações suplementares\n\nO artigo 2.º do Decreto-Lei n.º 238/94, de 19 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - A utilização das indicações suplementares é autorizada até 31 de Dezembro de 2009.\n\n3 - ...»"
+  },
+  "143853572": {
+   "fragment_id": "143856478",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nOs n.os 1.1.1, 1.2.1, 1.3 e 3 do anexo ao Decreto-Lei n.º 238/94, de 19 de Setembro, são alterados do seguinte modo:\n\na) No n.º 1.1.1, o texto que se segue ao quadro passa a ter a seguinte redacção:\n\n«A temperatura Celsius t é definida pela diferença t = T - T(índice 0) entre duas temperaturas termodinâmicas T e T(índice 0) com T(índice 0) = 273,15 K. Um intervalo ou uma diferença de temperatura podem exprimir-se quer em kelvins quer em graus Celsius. A unidade grau Celsius é igual à unidade kelvin.»\n\nb) As definições das unidades SI suplementares que se seguem ao quadro do n.º 1.2.1 passam a ter a seguinte redacção:\n\n«Unidade de ângulo plano:\n\nO radiano é o ângulo compreendido entre dois raios de um círculo que intersectam, na circunferência, um arco de comprimento igual ao do raio.\n\nUnidade de ângulo sólido:\n\nO esterradiano é o ângulo sólido de um cone que, tendo o vértice no centro de uma esfera, intersecta na superfície dessa esfera uma área igual à de um quadrado cujo lado tem um comprimento igual ao do raio da esfera.»\n\nc) O quadro do n.º 1.3 é substituído pelo seguinte quadro:\n\n(ver quadro no documento original)\n\nd) O n.º 3 passa a ter a seguinte redacção:\n\n«3 - Unidades utilizadas com o SI, cujos valores em si são obtidos experimentalmente:\n\n(ver quadro no documento original)\n\nNota. - Os prefixos e os seus símbolos mencionados no n.º 1.3 aplicam-se a estas duas unidades e aos seus símbolos.»"
+  },
+  "922206636": {
+   "fragment_id": "143856476",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2020-09-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma procede à transposição, para a ordem jurídica nacional, da Directiva n.º <a href=\"eurlex.asp?ano=1999&id=399L0103\" title=\"Link para Directiva da Comunidade Europeia\">1999/103/CE</a>, do Parlamento Europeu e do Conselho, de 24 de Janeiro de 2000.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26"
+  },
+  "922206637": {
+   "fragment_id": "143856477",
+   "type": 11,
+   "heading": "Artigo 2.º — Indicações suplementares",
+   "in_force_from": "2020-09-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26"
+   ],
+   "markdown": "###### Artigo 2.º — Indicações suplementares\n\nO artigo 2.º do Decreto-Lei n.º 238/94, de 19 de Setembro, passa a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\n1 - ...\n\n2 - A utilização das indicações suplementares é autorizada até 31 de Dezembro de 2009.\n\n3 - ...»\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26"
+  },
+  "922206638": {
+   "fragment_id": "143856478",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2020-09-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26",
+    "Retificado pelo/a [Declaração de Rectificação n.º 1-G/2003 - Diário da República n.º 26/2003, 1º Suplemento, Série I-A de 2003-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-g-2003-274381), produz efeitos a partir de 2002-11-27"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nOs n.os 1.1.1, 1.2.1, 1.3 e 3 do anexo ao Decreto-Lei n.º 238/94, de 19 de Setembro, são alterados do seguinte modo:\n\na) No n.º 1.1.1, o texto que se segue ao quadro passa a ter a seguinte redacção:\n\n«A temperatura Celsius t é definida pela diferença t = T - T(índice 0) entre duas temperaturas termodinâmicas T e T(índice 0) com T(índice 0) = 273,15 K. Um intervalo ou uma diferença de temperatura podem exprimir-se quer em Kelvin quer em graus Celsius. A unidade grau Celsius é igual à unidade kelvin.»\n\nb) As definições das unidades SI suplementares que se seguem ao quadro do n.º 1.2.1 passam a ter a seguinte redacção:\n\n«Unidade de ângulo plano:\n\nO radiano é o ângulo compreendido entre dois raios de um círculo que intersectam, na circunferência, um arco de comprimento igual ao do raio.\n\nUnidade de ângulo sólido:\n\nO esterradiano é o ângulo sólido de um cone que, tendo o vértice no centro de uma esfera, intersecta na superfície dessa esfera uma área igual à de um quadrado cujo lado tem um comprimento igual ao do raio da esfera.»\n\nc) O quadro do n.º 1.3 é substituído pelo seguinte quadro:\n\n(ver quadro no documento original)\n\nd) O n.º 3 passa a ter a seguinte redacção:\n\n«3 - Unidades utilizadas com o SI, cujos valores em si são obtidos experimentalmente:\n\n(ver quadro no documento original)\n\nNota. - Os prefixos e os seus símbolos mencionados no n.º 1.3 aplicam-se a estas duas unidades e aos seus símbolos.»\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26\n\n> Retificado pelo/a [Declaração de Rectificação n.º 1-G/2003 - Diário da República n.º 26/2003, 1º Suplemento, Série I-A de 2003-01-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-g-2003-274381), produz efeitos a partir de 2002-11-27"
+  },
+  "922206639": {
+   "fragment_id": "143856479",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-09-26",
+   "changed_by": [
+    "Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Outubro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Manuel de Mendonça Martins da Cruz - Carlos Manuel Tavares da Silva.\n\nPromulgado em 6 de Novembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 13 de Novembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\n> Revogado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 76/2020 - Diário da República n.º 188/2020, Série I de 2020-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2020-143741481), em vigor a partir de 2020-09-26"
+  }
+ }
+}

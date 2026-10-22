@@ -1,0 +1,309 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:643711:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1997-949827519",
+ "dre_path": "/dr/detalhe/portaria/816-1997-643711",
+ "source_lastmod": "2025-11-20",
+ "versions": [
+  {
+   "date": "1997-09-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "947235133"
+   ]
+  },
+  {
+   "date": "1997-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:162670:por",
+     "title": "Declaração de Rectificação n.º 17-G/97",
+     "published": "1997-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/17-g-1997-162670"
+    }
+   ],
+   "changes": [
+    "Retifica Anexo II"
+   ],
+   "fragments": [
+    "947235133",
+    "947235135",
+    "947235136",
+    "947235137",
+    "947235138",
+    "947235139",
+    "947235140",
+    "947235141",
+    "947235142",
+    "947235143",
+    "947235144",
+    "947235145",
+    "947235146",
+    "947235147",
+    "947235148",
+    "947235149",
+    "947235150",
+    "947235151",
+    "947235152",
+    "947235153",
+    "947235154",
+    "947235155",
+    "947235156",
+    "947235157",
+    "947235158",
+    "947235159",
+    "947235160",
+    "947235134",
+    "947235161",
+    "947235165"
+   ]
+  }
+ ],
+ "fragments": {
+  "947235133": {
+   "fragment_id": "949827520",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 816/97\n\nde 5 de Setembro\n\nImporta regulamentar o disposto no Decreto-Lei n.º 183/97, de 26 de Julho, que estabelece medidas de combate à dopagem no desporto.\n\nA regulamentação faz-se ao abrigo do disposto no artigo 34.º do referido diploma legal.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado do Desporto, aprovar o seguinte:"
+  },
+  "947235135": {
+   "fragment_id": "949827522",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - As acções de controlo antidopagem a que se refere o presente diploma têm por objecto as modalidades desportivas organizadas no âmbito das federações unidesportivas ou multidesportivas titulares do estatuto de utilidade pública desportiva.\n\n2 - Mediante protocolo a estabelecer com o CNAD, podem ainda ser objecto de acções de controlo as modalidades desportivas organizadas no âmbito de entidades não compreendidas no número anterior."
+  },
+  "947235136": {
+   "fragment_id": "949827523",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - Até ao início de cada época desportiva, devem as federações desportivas submeter ao CNAD as suas necessidades no que concerne ao controlo antidopagem.\n\n2 - As acções de controlo a realizar em cada época são efectivadas de acordo com o plano nacional antidopagem fixado pelo CNAD."
+  },
+  "947235137": {
+   "fragment_id": "949827524",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - As análises a realizar são de carácter ordinário ou extraordinário.\n\n2 - São de carácter ordinário as análises que se compreendam no plano nacional antidopagem fixado pelo CNAD.\n\n3 - São de carácter extraordinário as restantes.\n\n4 - O custo das análises de carácter ordinário é suportado pelo organismo responsável pelas acções de controlo, sendo por conta das entidades que as solicitarem o custo das análises de carácter extraordinário."
+  },
+  "947235138": {
+   "fragment_id": "949827525",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - As acções de controlo antidopagem são realizadas por médicos anualmente credenciados pelo CNAD.\n\n2 - Os médicos a que se refere o número anterior devem ter formação adequada, estar especialmente habilitados para o efeito e ser seleccionados pelo Instituto Nacional do Desporto (IND).\n\n3 - Quando nomeados para acções de controlo, os médicos devem ser independentes relativamente à modalidade desportiva que vão controlar.\n\n4 - A credenciação dos médicos e dos elementos do CNAD será atestada por cartão de identificação de modelo a aprovar por despacho do presidente do IND publicado na 2.ª série do Diário da República."
+  },
+  "947235139": {
+   "fragment_id": "949827526",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - As acções de controlo serão realizadas em instalações adequadas, de fácil acesso e devidamente assinaladas, que garantam condições mínimas de higiene, segurança, privacidade e conforto aos seus utilizadores.\n\n2 - Os clubes e as federações devem providenciar no sentido de facultar ao médico da brigada de controlo instalações de acordo com o disposto no número anterior.\n\n3 - As instalações referidas devem, sempre que possível, corresponder ao modelo tipo publicado no anexo I à presente portaria."
+  },
+  "947235140": {
+   "fragment_id": "949827527",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - Nas acções de controlo de carácter extraordinário devem as entidades que as solicitarem indicar o dia, a hora e o local em que as mesmas se devam realizar com a antecedência mínima de quatro dias úteis em relação ao evento, juntando ao pedido o valor das análises solicitadas.\n\n2 - Nos pedidos referidos no número anterior devem ainda as entidades interessadas comprometer-se a fornecer instalações adequadas ao controlo a realizar."
+  },
+  "947235141": {
+   "fragment_id": "949827528",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO médico da brigada pode, sempre que entenda que as instalações são inadequadas ao controlo a realizar, determinar que o mesmo se realize noutro local, sendo os custos de deslocação, se os houver, suportados pela entidade obrigada a fornecer a instalação."
+  },
+  "947235142": {
+   "fragment_id": "949827529",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - As acções de controlo podem igualmente ser realizadas em estabelecimentos de saúde, quando não seja possível à federação, ao clube ou à entidade responsável pela organização do evento obter instalações adequadas e o médico da brigada nisso concordar.\n\n2 - Quando as acções de controlo se realizarem nos termos do número anterior, os estabelecimentos de saúde devem ser avisados com a antecedência mínima de três dias úteis, sendo os encargos suportados pela entidade obrigada a fornecer a instalação.\n\n3 - As acções de controlo podem ainda ser realizadas em unidades móveis de apoio especialmente deslocados para o efeito."
+  },
+  "947235143": {
+   "fragment_id": "949827530",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - Os regulamentos federativos devem prever com clareza os métodos de selecção dos praticantes a submeter ao controlo, prevendo, designadamente, as seguintes hipóteses:\n\na) Selecção dos praticantes fora de competição;\n\nb) Selecção dos praticantes em competição;\n\nc) Selecção dos praticantes nas modalidades desportivas colectivas;\n\nd) Selecção dos praticantes nas modalidades desportivas individuais.\n\n2 - Nos casos referidos na alínea a) pode o CNAD, sempre que o entenda, mandar realizar acções de controlo, sem aviso prévio, a qualquer praticante desportivo por si seleccionado.\n\n3 - Nas modalidades colectivas, a selecção dos praticantes deve ser feita por sorteio, salvo o disposto no n.º 5.\n\n4 - Nas modalidades desportivas individuais devem ser obrigatoriamente previstos controlos a um determinado número de praticantes classificados nos primeiros lugares da prova e a outro número de praticantes a seleccionar por sorteio.\n\n5 - Em qualquer dos casos referidos nos n.os 3 e 4 pode o médico da brigada sujeitar ao controlo qualquer outro praticante cujo comportamento na competição se tenha revelado anómalo do ponto de vista médico ou desportivo."
+  },
+  "947235144": {
+   "fragment_id": "949827531",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - A realização de uma acção de controlo em competição é notificada no local aos delegados dos clubes, da federação ou da entidade organizadora respectiva, de acordo com as normas definidas pela federação internacional de cada modalidade desportiva.\n\n2 - O médico pode notificar o atleta por escrito ou oralmente, devendo, neste caso, confirmar a notificação por escrito.\n\n3 - Após a notificação, todos os praticantes desportivos intervenientes nessa prova ou manifestação desportiva ficarão sob vigilância e à disposição do médico da brigada, não podendo, sem sua autorização, abandonar o local onde a mesma se realizar.\n\n4 - No final do evento desportivo em causa devem todos os praticantes intervenientes inquirir junto do médico da brigada se foram seleccionados para se submeter ao controlo, devendo os que o tiverem sido apresentar-se imediatamente ao controlo.\n\n5 - Se um atleta não se apresentar no local de controlo dentro do prazo determinado, este facto deve ser anotado no formulário do controlo.\n\n6 - Devem ainda ser anotados no formulário do controlo todos os esforços realizados para contactar o atleta dentro do prazo máximo de uma hora a contar do termo do prazo referido no número anterior."
+  },
+  "947235145": {
+   "fragment_id": "949827532",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - Os clubes, a federação ou a entidade organizadora do evento desportivo onde o controlo se realizar devem providenciar no sentido de o médico da brigada ser imediatamente informado se um praticante seleccionado para o controlo tiver sido retirado do local a fim de ser sujeito a assistência médica por motivo de lesão.\n\n2 - Igual obrigação impende sobre o praticante desportivo em causa.\n\n3 - No caso referido no n.º 1, o médico deve determinar as medidas necessárias para assegurar a realização do controlo."
+  },
+  "947235146": {
+   "fragment_id": "949827533",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Nos períodos fora de competição, qualquer praticante desportivo, quando seleccionado, deve submeter-se ao controlo antidopagem, logo que para tal seja notificado pelo médico da brigada, pela federação em que esteja filiado ou pelo CNAD.\n\n2 - A amostra deve ser colhida o mais rapidamente possível, não podendo o período máximo entre a notificação e a colheita daquela ser superior a vinte e quatro horas.\n\n3 - As acções de controlo sobre praticantes desportivos que se encontrem fora do território nacional podem ser solicitadas pela respectiva federação à sua congénere do país em que o praticante se encontre, a fim de serem por esta, ou sob a sua égide, executadas."
+  },
+  "947235147": {
+   "fragment_id": "949827534",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nNo âmbito de acordos bilaterais celebrados com as autoridades desportivas de outros países, podem ser realizadas acções de controlo no estrangeiro a cidadãos nacionais, bem como a cidadãos estrangeiros em território português."
+  },
+  "947235148": {
+   "fragment_id": "949827535",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO não cumprimento do disposto nos artigos anteriores é considerado falta voluntária ao controlo ou inviabilização voluntária da realização do mesmo, devendo ser sancionado com as penas correspondentes à verificação efectiva da dopagem."
+  },
+  "947235149": {
+   "fragment_id": "949827536",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - A recolha das amostras de líquido orgânico a analisar é feita pelo médico da brigada nomeado para o efeito.\n\n2 - O praticante pode fazer-se acompanhar, querendo, por uma pessoa da sua confiança, devendo identificar-se através de documento legal para os devidos efeitos.\n\n3 - Sempre que solicitado pelo atleta, o médico deve apresentar as suas credenciais.\n\n4 - No início da operação de recolha, o médico explicará ao praticante o procedimento da colheita e informá-lo-á de que este tem o direito de seleccionar o material destinado a ser utilizado no seu caso.\n\n5 - O atleta deve ser informado pelo médico da brigada de que, para seu interesse, deve declarar toda a medicação feita no período anterior ao controlo.\n\n6 - No momento da colheita o praticante deve observar estritamente o que lhe seja determinado pelo médico da brigada."
+  },
+  "947235150": {
+   "fragment_id": "949827537",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - A recolha só se considera efectivada quando se tiver um mínimo de 75 cm3 de urina, que serão repartidos, nos termos fixados pelo médico, pelos dois frascos escolhidos pelo praticante, os quais serão de imediato fechados, selados e codificados.\n\n2 - O praticante que não puder fornecer o volume de líquido orgânico suficiente ficará sob vigilância do médico da brigada até que o possa fazer, podendo tomar as bebidas que o médico autorizar.\n\n3 - O médico pode recusar uma amostra de urina que se lhe não afigure normal, mandando repetir a colheita, designadamente quando se trate de amostra com um pH superior a 7 e ou com uma densidade específica inferior a 1,010."
+  },
+  "947235151": {
+   "fragment_id": "949827538",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nCada operação de controlo é titulada pelo impresso de modelo publicado no anexo II à presente portaria, o qual deve ser obrigatoriamente subscrito pelo praticante e pelo médico da brigada."
+  },
+  "947235152": {
+   "fragment_id": "949827541",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nA não concordância de qualquer das partes relativamente ao processo de recolha das amostras deve ser declarada no formulário antes de ser assinado."
+  },
+  "947235153": {
+   "fragment_id": "949827542",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAs brigadas de controlo podem ser integradas, para além do ou dos médicos encarregados de supervisionar as recolhas, pelo pessoal que os serviços considerem conveniente."
+  },
+  "947235154": {
+   "fragment_id": "949827543",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - Os clubes e demais entidades organizadoras de eventos desportivos são responsáveis pela segurança do médico da brigada e do respectivo equipamento, devendo, nomeadamente, providenciar para que este possa realizar a sua acção em total tranquilidade.\n\n2 - Se o médico da brigada entender que não estão reunidas condições para, com dignidade, desempenhar a sua missão, disso dará conta em relatório, recusando-se a fazer o controlo.\n\n3 - No caso referido no número anterior, o clube identificado pelo médico como responsável pela falta de segurança será punido pela respectiva federação como tendo inviabilizado a realização do controlo.\n\n4 - Os factos constantes do relatório do médico e por ele presenciados fazem fé, até prova em contrário."
+  },
+  "947235155": {
+   "fragment_id": "949827544",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - Ainda no local de controlo, todas as amostras colhidas devem ser devidamente acondicionadas em mala apropriada, que deve ser selada e acompanhada de um formulário de cadeia de custódia que mencione todas as informações relativas ao conteúdo da mesma.\n\n2 - O envio das amostras, através de transporte seguro, deve ser concretizado o mais rapidamente possível após o controlo ter sido concluído.\n\n3 - As amostras devem permanecer em lugar seguro e fresco até serem enviadas ao laboratório.\n\n4 - O IND providenciará para que as amostras recolhidas sejam enviadas ao Laboratório de Análises de Dopagem e Bioquímica, a fim de serem analisadas, devendo os resultados ser transmitidos às respectivas federações."
+  },
+  "947235156": {
+   "fragment_id": "949827545",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - Caso o resultado da análise indicie a existência de dopagem, a federação respectiva será informada confidencialmente do facto, bem como do dia e hora estabelecido para a realização da segunda análise.\n\n2 - A segunda análise é marcada pelo IND, sob proposta do Laboratório de Análises de Dopagem e Bioquímica, até ao 10.º dia útil posterior ao conhecimento do resultado da primeira análise, devendo conceder-se a faculdade aos interessados da escolha e indicação dos seus peritos.\n\n3 - Por deliberação do CNAD, podem ser estabelecidos ou recomendados às federações desportivas os procedimentos administrativos mais convenientes para assegurar a confidencialidade das comunicações referidas no presente artigo."
+  },
+  "947235157": {
+   "fragment_id": "949827546",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1 - Na realização da segunda análise podem estar presentes ou fazer-se representar o praticante, o seu clube e a federação respectiva.\n\n2 - Qualquer das entidades referidas no número anterior pode delegar tal representação ou fazer-se assistir por um perito da sua confiança.\n\n3 - O acesso ao laboratório é reservado aos peritos indicados nos termos do número anterior.\n\n4 - Do que se passar na segunda análise será lavrada acta, que deve ser subscrita pelos presentes e remetida cópia para a respectiva federação, por forma a accionar os mecanismos disciplinares."
+  },
+  "947235158": {
+   "fragment_id": "949827547",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - Caso não se tenha feito representar no acto da segunda análise, a federação interessada deve ser de imediato notificada do resultado daquela diligência.\n\n2 - A suspensão preventiva a que se refere o artigo 22.º do Decreto-Lei n.º 183/97, de 26 de Junho, será obrigatoriamente determinada pela federação em causa até ao 3.º dia posterior ao da realização da segunda análise positiva."
+  },
+  "947235159": {
+   "fragment_id": "949827548",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1 - Os regulamentos referidos no n.º 1 do artigo 32.º do Decreto-Lei n.º 183/97, de 26 de Junho, devem ser submetidos à apreciação do CNAD, a fim de ser verificada a sua conformidade com a legislação antidopagem.\n\n2 - As alterações aos regulamentos referidos no presente artigo ficam sujeitas às mesmas formalidades e só podem ser aplicáveis a partir do início da época desportiva imediatamente posterior à sua adopção.\n\n3 - Os regulamentos federativos antidopagem, bem como as suas alterações, ficam registados no CNAD."
+  },
+  "947235160": {
+   "fragment_id": "949827549",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1 - As federações desportivas devem informar, no prazo de quarenta e oito horas, o CNAD de todas as decisões tomadas em matéria de dopagem.\n\n2 - O CNAD pode solicitar os esclarecimentos que entender, com o objectivo de avaliar a acção desenvolvida por cada federação no cumprimento da legislação antidopagem."
+  },
+  "947235134": {
+   "fragment_id": "949827521",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros.\n\nAssinada em 4 de Agosto de 1997.\n\nO Secretário de Estado do Desporto, Júlio Francisco Miranda Calha."
+  },
+  "947235161": {
+   "fragment_id": "949827550",
+   "type": 14,
+   "heading": "Anexo I — Modelo tipo de instalação para o controlo antidopagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Modelo tipo de instalação para o controlo antidopagem\n\n(Artigo 5.º)\n\n(ver documento original)"
+  },
+  "947235165": {
+   "fragment_id": "949827551",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "1997-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 17-G/97 - Diário da República n.º 253/1997, 4º Suplemento, Série I-B de 1997-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-g-1997-162670), em vigor a partir de 1997-10-31"
+   ],
+   "markdown": "## Anexo II\n\n(Artigo 17.º)\n\n(ver documento original)\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17-G/97 - Diário da República n.º 253/1997, 4º Suplemento, Série I-B de 1997-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-g-1997-162670), em vigor a partir de 1997-10-31"
+  }
+ }
+}

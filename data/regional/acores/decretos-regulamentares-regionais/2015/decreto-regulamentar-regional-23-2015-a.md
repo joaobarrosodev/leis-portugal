@@ -1,0 +1,334 @@
+---
+schema_version: '1.0'
+id: pt:dre:70835506:por
+title: Decreto Regulamentar Regional n.º 23/2015/A
+short_title: null
+summary: Estabelece o regime de apoios a conceder pela administração regional autónoma à preservação do património cultural
+  imóvel e móvel da Região Autónoma dos Açores, pertencente a entidades privadas
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 23/2015/A
+official_date: null
+publication_date: '2015-10-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 212/2015, Série I de 2015-10-29
+  number: '212'
+  series: I
+  supplement: null
+  pages: 9335 - 9338
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/10/21200/0933509338.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/23/2015/10/29/a/dre/pt/html
+  oj: null
+  dre: '70835506'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/23-2015-70835506
+  internal: pt:dre:70835506:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2015-70835506
+  metadata_url: https://data.dre.pt/eli/decregulreg/23/2015/10/29/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/23-2015-70835506
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-10-29T00:00:00Z'
+integrity:
+  source_sha256: 89479de3f00d94a23597bdd140f6dcd7efdfc2bac3862e81b556b5a6af841611
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2015/DRE-2015-23-70835506.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio Técnico
+- Região Autónoma
+- Financiamento
+- BEM Móvel
+- BENS Classificados
+- Imóvel Classificado
+- Comparticipação do Estado
+- Governo Regional
+- Obras de Conservação e Restauro
+- Património Cultural
+- Fiscalização
+- Catástrofe
+- Interesse Público
+- Zona de Proteção
+- Protecção do Património
+- Reembolso
+- Relatório
+- Administração Regional
+- Açores
+- Subsídio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/3/2015/02/04/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/3/2015/02/04/a/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/16/2000/05/30/a/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/16/2000/05/30/a/dre
+article_structure:
+  article_count: 27
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 23/2015/A
+
+Regime de apoios a conceder pela administração regional autónoma à recuperação e conservação do património cultural imóvel e móvel da Região Autónoma dos Açores, pertencente a entidades privadas.
+
+Na sequência da aprovação do regime jurídico relativo à inventariação, classificação, proteção e valorização dos bens culturais móveis e imóveis existentes na Região Autónoma dos Açores, pelo [Decreto Legislativo Regional n.º 3/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2015-66426484), de 4 de fevereiro, e da experiência adquirida com a concessão de apoios nos termos previstos no [Decreto Regulamentar Regional n.º 16/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2000-292945), de 30 de maio, entende-se necessária a aprovação de um novo regime de apoios.
+
+O regime constante do presente diploma pretende, em relação ao património imóvel, dar resposta ao aparecimento de pragas que constituem uma grave ameaça à sua preservação, majorando o apoio à sua erradicação, mesmo que com a utilização de novos materiais.
+
+Em relação ao património móvel, para além do apoio ao que seja classificado, dá-se relevância à necessidade de levar a cabo o inventário do património cultural, público e privado, abrangendo os bens nele inscritos por apoios para o seu restauro e conservação.
+
+Assim, nos termos da alínea d), do n.º 1, do artigo 227.º da Constituição, da alínea b), do n.º 1, do artigo 89.º do Estatuto Político-Administrativo e dos artigos 38.º, 39.º e 43.º do [Decreto Legislativo Regional n.º 3/2015/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2015-66426484), de 4 de fevereiro, o Governo Regional decreta o seguinte:
+
+### CAPÍTULO I — Objeto e âmbito
+
+###### Artigo 1.º — Objeto
+
+O presente diploma estabelece o regime de apoios a conceder pela administração regional autónoma à preservação do património cultural imóvel e móvel da Região Autónoma dos Açores, pertencente a entidades privadas.
+
+###### Artigo 2.º — Apoios
+
+1 - Os apoios a conceder revestem a forma de comparticipação financeira a fundo perdido e de apoio técnico.
+
+2 - O apoio técnico destina-se a fomentar a qualidade técnica e artística das intervenções e é concedido, de acordo com as disponibilidades da direção regional competente em matéria de cultura, quando a complexidade ou natureza das intervenções o justifique.
+
+3 - Os apoios sob a forma de comparticipação financeira estão condicionados pela disponibilidade orçamental existente em cada ano.
+
+###### Artigo 3.º — Âmbito
+
+1 - As comparticipações financeiras e o apoio técnico são concedidos para obras e ações de conservação, de combate a pragas e de correção de dissonâncias arquitetónicas no património imóvel classificado de interesse público e no património situado nas suas zonas de proteção, bem como para o restauro do património móvel classificado de interesse público ou inscrito no inventário geral do património cultural existente na Região Autónoma dos Açores.
+
+2 - O estabelecido no presente diploma aplica-se também aos imóveis integrados em conjuntos classificados de interesse público, exceto quando exista outro diploma que, em função da sua especificidade, estabeleça regime diverso.
+
+### CAPÍTULO II — Património imóvel
+
+###### Artigo 4.º — Imóveis classificados
+
+1 - Nas obras de conservação e de correção de dissonâncias arquitetónicas de imóveis classificados pode ser concedida uma comparticipação, a fundo perdido, até ao valor máximo de 50 % do custo da intervenção.
+
+2 - Nas ações e obras de combate à infestação por pragas em imóveis classificados, a desinfestação e a substituição dos elementos estruturais em madeira dos edifícios por elementos estruturais compatíveis com a natureza do edifício, quando se comprove que aqueles estão infestados por pragas, nos termos previstos na legislação regional sobre a matéria, pode ser objeto de comparticipação, a fundo perdido, até ao valor máximo de 60 % do seu custo.
+
+3 - Quando no imóvel existam aspetos de excecional valor patrimonial, assim considerados por despacho do diretor regional competente em matéria de cultura, tais como azulejos, cantarias lavradas, tetos artísticos, estatuária, heráldica ou outros, pode ser considerado para o cálculo do valor máximo de comparticipação a que se refere o n.º 1 um adicional até 75 % do custo do restauro de tais elementos.
+
+4 - As obras, referidas no n.º 1, que se realizem em imóveis situados nas ilhas de Santa Maria, Graciosa, São Jorge, Pico, Faial, Flores e Corvo, beneficiam de uma majoração de 5 % sobre o valor do apoio concedido.
+
+5 - O valor da comparticipação é determinado pela direção regional competente em matéria de cultura com base no projeto apresentado e em outros elementos que se mostrem para tal relevantes e nas disponibilidades orçamentais.
+
+###### Artigo 5.º — Conjuntos classificados
+
+1 - Quando se trate de imóveis incluídos em conjuntos classificados, a comparticipação máxima a que se refere o n.º 1 do artigo anterior é de 25 %, sendo-lhes aplicável o disposto no n.º 2 do referido artigo.
+
+2 - No caso de conjuntos classificados situados nas ilhas de Santa Maria, São Jorge, Graciosa, Pico, Faial, Flores e Corvo, a comparticipação máxima a que se refere o número anterior é de 50 % do custo da intervenção.
+
+###### Artigo 6.º — Imóveis em zonas de proteção
+
+Sempre que os proprietários de imóveis situados em zonas de proteção de imóveis ou conjuntos classificados se disponham a ações de combate à infestação por pragas ou a corrigir dissonâncias arquitetónicas que reconhecidamente prejudiquem o envolvimento do bem classificado, pode ser concedida uma comparticipação financeira, a fundo perdido, no valor máximo de 25 % do custo das obras necessárias.
+
+###### Artigo 7.º — Imóveis de excecional interesse
+
+Quando a preservação e restauro de um imóvel assuma excecional interesse pelo seu valor arquitetónico ou artístico, ou pela sua relevância histórica, pode a administração regional, por resolução do Conselho do Governo Regional, assumir a comparticipação em percentagem superior ao estabelecido no presente diploma.
+
+###### Artigo 8.º — Intervenção excecional
+
+Perante circunstâncias excecionais, designadamente as resultantes de calamidades naturais, fogo ou outros, que coloquem em grave risco bens de elevado interesse patrimonial, pode o Governo Regional, por resolução, estabelecer mecanismos específicos de apoio.
+
+###### Artigo 9.º — Apoios supletivos
+
+1 - Para qualquer dos casos descritos no presente capítulo, o valor da comparticipação para proprietários que sejam pessoas singulares pode beneficiar de um apoio supletivo, que corresponderá a 5 %, 15 % ou 25 % do valor da obra, conforme se tratem respetivamente de rendimentos do agregado familiar per capita até 2,5 vezes, até 2 vezes e até 1,5 vezes o salário mínimo nacional e constante da declaração em sede de IRS referente ao ano anterior.
+
+2 - O valor máximo da comparticipação não pode ultrapassar em qualquer caso os 75 % do valor da obra.
+
+### CAPÍTULO III — Património móvel
+
+###### Artigo 10.º — Apoios
+
+1 - Nos trabalhos de restauro do património móvel pode ser concedida uma comparticipação financeira, a fundo perdido, até ao valor máximo de 50 % do custo da intervenção, quando se tratem de bens classificados de interesse público, e até 25 % quando se tratem de bens inventariados.
+
+2 - Nos trabalhos de restauro dos órgãos históricos constantes do «Inventário dos Órgãos dos Açores» é concedida uma comparticipação financeira no valor total do custo da intervenção.
+
+###### Artigo 11.º — Obrigações
+
+Os beneficiários dos apoios a que se refere o artigo anterior ficam sujeitos às seguintes obrigações:
+
+a) Não alienar os bens objeto de intervenção antes de decorridos vinte e cinco anos após o termo da mesma, exceto se tal alienação for autorizada por despacho do diretor regional competente em matéria de cultura;
+
+b) Garantir, durante o período a que se refere a alínea anterior, a acessibilidade e a fruição pública do bem, nas condições que forem fixadas no contrato de comparticipação a que se refere o presente diploma;
+
+c) Permitir aos técnicos da direção regional competente em matéria de cultura, ou a quem por aquela entidade seja credenciado, o acesso aos bens objeto de comparticipação.
+
+### CAPÍTULO IV — Procedimento
+
+###### Artigo 12.º — Pedido
+
+1 - O pedido de comparticipação é efetuado em formulário próprio pelo proprietário do bem, ou, no caso de mais de um proprietário, pelo seu representante devidamente habilitado, devendo ser acompanhado dos elementos relevantes para a sua apreciação, nomeadamente os previstos no presente diploma, bem como de lista discriminada dos custos a comparticipar e da assistência técnica requerida.
+
+2 - A ausência de qualquer dos documentos referidos no número anterior determina o indeferimento liminar do pedido.
+
+###### Artigo 13.º — Património construído
+
+1 - Quando se trate da intervenção em imóvel, todos os projetos devem ser instruídos com as seguintes peças:
+
+a) «Peças escritas», memória descritiva e justificativa, com a indicação das obras ou trabalhos a realizar e referência precisa dos materiais de construção e cores a utilizar, mapa completo de acabamentos, mapa de medições e orçamento e respetiva calendarização;
+
+b) «Fotografias», fotografias de qualidade adequada mostrando o estado atual do imóvel e sua envolvente e dos aspetos que sejam relevantes para apreciação do projeto submetido;
+
+c) «Peças desenhadas», planta de localização, à escala de 1 : 1000 ou 1 : 2000, plantas, alçados e cortes do imóvel existente, à escala de 1 : 100 ou superior, devidamente cotadas e com indicação clara e precisa das obras a executar.
+
+2 - Sempre que se pretenda alterar o imóvel existente, para além das peças referidas no número anterior deve ser entregue o projeto de execução com plantas, alçados e cortes, à escala de 1 : 100 ou superior, devidamente cotadas e com indicação clara e precisa das alterações a introduzir, acompanhado da nota justificativa da intervenção arquitetónica proposta.
+
+###### Artigo 14.º — Património móvel
+
+Quando se trate da intervenção em bem móvel, todos os projetos devem ser instruídos com as seguintes peças:
+
+a) «Peças escritas», memória descritiva e justificativa, com a indicação dos trabalhos a realizar e referência precisa dos materiais e técnicas a utilizar e orçamento detalhado e respetiva calendarização;
+
+b) «Equipa técnica», identificação precisa e currículo detalhado dos técnicos que executarão os trabalhos;
+
+c) «Fotografias», fotografias de qualidade adequada mostrando o estado geral atual e os aspetos que sejam relevantes para apreciação do projeto submetido;
+
+d) «Memória histórica», memória histórica sobre o bem, sua origem e sua utilização;
+
+e) «Peças desenhadas», e outra informação técnica, quando apropriado ao tipo de trabalho a desenvolver, desenhos à escala adequada, devidamente cotadas e com indicação clara e precisa das intervenções a executar, e elementos sobre as tecnologias e as características técnicas dos materiais a utilizar.
+
+###### Artigo 15.º — Concessão
+
+1 - A concessão da comparticipação é precedida de parecer da direção regional competente em matéria de cultura e depende de despacho do membro do Governo Regional competente em matéria de cultura.
+
+2 - O processamento da comparticipação apenas se inicia depois de verificadas cumulativamente as seguintes condições:
+
+a) Tenha sido assinado contrato entre a direção regional competente em matéria de cultura, representada pelo diretor regional, que pode delegar, e a entidade beneficiária;
+
+b) A direção regional competente em matéria de cultura tenha recebido declaração, por parte entidade beneficiária, da total aceitação das condições previstas neste diploma.
+
+3 - Do contrato referido no número anterior é publicado extrato na 2.ª série do Jornal Oficial, indicando o montante concedido e o objetivo do apoio.
+
+4 - No caso do património imóvel, a entidade beneficiária compromete-se a publicitar a comparticipação obtida através da colocação, durante o período de obra, de placa informativa em termos a regulamentar por despacho do membro do Governo Regional com competência em matéria de cultura.
+
+###### Artigo 16.º — Revisão da comparticipação
+
+Mediante requerimento do beneficiário, e com fundamento em aumentos excecionais e imprevisíveis dos custos comparticipáveis, o montante da comparticipação pode ser excecionalmente revisto.
+
+### CAPÍTULO V — Realização das intervenções e processamento da comparticipação
+
+###### Artigo 17.º — Cumprimento do projeto
+
+1 - A aceitação da comparticipação, ou parte dela, obriga o beneficiário, com dispensa de qualquer outra formalidade, ao cumprimento estrito do projeto aprovado.
+
+2 - Os encargos com as necessárias correções determinadas pela direção regional competente em matéria de cultura, por motivo de incumprimento do disposto no número anterior, são da responsabilidade do beneficiário.
+
+3 - O incumprimento por parte do beneficiário das determinações da direção regional competente em matéria de cultura referidas no n.º 2 implica a imediata cessação de todos os apoios e, no caso de obras em imóveis, o embargo administrativo da intervenção, nos termos da lei e, no caso do património móvel, a interrupção imediata dos trabalhos.
+
+###### Artigo 18.º — Interrupção dos trabalhos
+
+No caso de se verificar uma interrupção dos trabalhos por período superior a trinta dias, deve o beneficiário comunicar o facto, por escrito, à direção regional competente em matéria de cultura, mencionando o motivo e a nova data previsível do termo da intervenção.
+
+###### Artigo 19.º — Relatório final
+
+1 - Até trinta dias após o termo da intervenção, o beneficiário fica obrigado a entregar à direção regional competente em matéria de cultura um relatório final, instruído com a declaração de conformidade com o projeto aprovado, assinada pelo técnico responsável, e com os documentos fotográficos necessários para cabal documentação dos trabalhos executados.
+
+2 - Do relatório final devem constar os comprovativos das despesas efetuadas ou sua cópia autêntica.
+
+###### Artigo 20.º — Processamento
+
+O processamento da comparticipação é escalonado da seguinte forma:
+
+a) 30 % do valor global, após o início da intervenção;
+
+b) 30 % do valor global, após estarem executados 50 % dos trabalhos comparticipados;
+
+c) Os restantes 40 %, após a entrega do relatório final de conclusão.
+
+###### Artigo 21.º — Caducidade do apoio
+
+O apoio decidido a qualquer título ao abrigo do presente diploma caduca caso se verifique uma das seguintes situações:
+
+a) Decorridos sessenta dias após a comunicação da decisão da atribuição não tenha sido celebrado o respetivo contrato;
+
+b) Sem justificação aceite pela direção regional competente em matéria de cultura, os trabalhos não se tenham iniciado decorridos noventa dias sobre a assinatura do contrato;
+
+c) O beneficiário não cumpra qualquer das obrigações estabelecidas no presente regulamento ou contrato assinado;
+
+d) Os trabalhos sejam interrompidos sem justificação aceite pela direção regional competente em matéria de cultura;
+
+e) Os trabalhos executados não correspondam aos descritos e aprovados aquando da candidatura;
+
+f) Decorridos noventa dias após a data prevista para o fim da intervenção não tenha sido entregue o relatório final.
+
+###### Artigo 22.º — Reembolso da comparticipação
+
+A caducidade do apoio, qualquer que seja a sua causa, a falta de cumprimento do projeto ou do contrato ou ainda a utilização indevida das verbas atribuídas obrigam o beneficiário a reembolsar o Fundo Regional de Ação Cultural de todo o montante já processado, acrescido dos juros legais.
+
+###### Artigo 23.º — Fiscalização
+
+1 - A fiscalização das intervenções comparticipadas ao abrigo do presente diploma é da competência da direção regional competente em matéria de cultura.
+
+2 - Quando tal se mostre necessário, pode a direção regional competente em matéria de cultura contratualizar os serviços técnicos necessários à execução do disposto no número anterior.
+
+###### Artigo 24.º — Impossibilidade de cumulação
+
+Os apoios a que se refere o presente diploma não podem ser cumulados com outros atribuídos com idêntica finalidade e sobre o mesmo imóvel por outra entidade ao abrigo de disposição legal diversa.
+
+### CAPÍTULO VI — Disposições finais
+
+###### Artigo 25.º — Processos pendentes
+
+O presente diploma não se aplica aos processos iniciados até à data da sua entrada em vigor.
+
+###### Artigo 26.º — Norma revogatória
+
+É revogado o [Decreto Regulamentar Regional n.º 16/2000/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2000-292945), de 30 de maio.
+
+###### Artigo 27.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 7 de setembro de 2015.
+
+**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+
+**Assinado em Angra do Heroísmo em 5 de outubro de 2015.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

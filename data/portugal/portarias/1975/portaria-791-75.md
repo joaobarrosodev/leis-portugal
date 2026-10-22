@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:355315:por
+title: Portaria n.º 791/75
+short_title: null
+summary: Cria novas escolas preparatórias para funcionarem no ano lectivo de 1975-1976
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Educação e Investigação Científica
+proposing_entity: null
+official_number: 791/75
+official_date: null
+publication_date: '1975-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 300/1975, 4º Suplemento, Série I de 1975-12-31
+  number: '300'
+  series: I
+  supplement: 4º Suplemento
+  pages: 2160-(55) a 2160-(56)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '355315'
+  dre_path: /dr/detalhe/portaria/791-1975-355315
+  internal: pt:dre:355315:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/791-1975-355315
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/791-1975-355315
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-12-31T00:00:00Z'
+integrity:
+  source_sha256: 6f92583a3921fce551222ac75d2cab8928661a0a9b2e179c5455b1f059f34a78
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-791-355315.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 791/75
+
+de 31 de Dezembro
+
+Considerando que se encontram preenchidas as necessárias condições relativas a população escolar e instalações para a criação de escolas preparatórias em Ourique, Terras de Bouro, Mourão, Marrazes (Leiria), Vieira de Leiria (Marinha Grande), Colares (Sintra), Porto Santo, Santa Cruz, Sever do Vouga, Mação, Alvega (Abrantes), Proença-a-Nova, Cabreiros (Braga), Ferreira do Alentejo, Portel, Mora, Alter do Chão e Fronteira;
+
+Considerando as vantagens pedagógicas e administrativas que resultarão da imediata reconversão, em escolas preparatórias, de algumas secções actualmente em funcionamento;
+
+Tendo em atenção as disposições do [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967, e do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e da Educação e Investigação Científica:
+
+1.º São criadas e entram em funcionamento, no ano lectivo de 1975-1976, as escolas preparatórias cujas designações e quadros de pessoal docente, administrativo e auxiliar constam do mapa I anexo a esta portaria.
+
+2.º As actuais secções das Escolas Preparatórias de Vila Nova de Famalicão, de Barcelos, de Bragança, de Felgueiras, de Oliveira de Azeméis, de Torres Vedras, de Abrantes, de Vila da Feira, de Soares dos Reis (Vila Nova de Gaia) e de Silves são transformadas em escolas preparatórias, cujas designações e quadros de pessoal docente, administrativo e auxiliar constam do mapa II anexo a esta portaria.
+
+3.º O provimento do pessoal previsto nos quadros das escolas criadas pela presente portaria será feito gradualmente, de acordo com as necessidades de serviço, mas devendo-se tomar em conta o disposto na legislação que vier a regular a transição do pessoal dos estabelecimentos de ensino particular que encerraram ou venham a encerrar, tendo dado origem, nas mesmas instalações, a escolas preparatórias oficiais.
+
+4.º As escolas a que se refere o presente diploma regulam-se pelas disposições do [Decreto n.º 48572](https://diariodarepublica.pt/dr/detalhe/decreto/48572-1968-508641), de 9 de Setembro de 1968, e demais legislação aplicável.
+
+Ministérios das Finanças e da Educação e Investigação Científica, 30 de Dezembro de 1975. - O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.
+
+MAPA I
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf)
+
+MAPA II
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf))](https://files.diariodarepublica.pt/1s/1975/12/30004/00550056.pdf)
+
+**O Ministro das Finanças, Francisco Salgado Zenha. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.**

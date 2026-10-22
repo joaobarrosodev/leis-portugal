@@ -1,0 +1,137 @@
+---
+schema_version: '1.0'
+id: pt:dre:394919:por
+title: Decreto-Lei n.º 90/81
+short_title: null
+summary: Revoga o Decreto-Lei n.º 422/76, bem como toda a sua legislação complementar (intervenção do Estado nas empresas)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 90/81
+official_date: null
+publication_date: '1981-04-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 97/1981, Série I de 1981-04-28
+  number: '97'
+  series: I
+  supplement: null
+  pages: 1002 - 1003
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/04/09700/10021003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '394919'
+  dre_path: /dr/detalhe/decreto-lei/90-1981-394919
+  internal: pt:dre:394919:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1981-394919
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1981-394919
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-03-27T00:00:00Z'
+integrity:
+  source_sha256: 508818327361c43198d6d14fb5ee13c3b7e7d8cf139a8f537d833136d67db62a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-90-394919.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:608214:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 90/81
+
+de 28 de Abril
+
+A figura da intervenção do Estado nas empresas privadas, instituída pelo [Decreto-Lei n.º 660/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/660-1974-289837), de 25 de Novembro, e posteriormente regulamentada pelo [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, e sua legislação complementar, implicou a derrogação ou suspensão de muitas das regras normais de funcionamento e de responsabilidade das empresas abrangidas, introduzindo, através do regime privilegiado que lhes foi conferido, uma grave distorção nas regras próprias de um sistema de economia de mercado.
+
+Como é sabido, constitui objectivo do Governo proceder à normalização das relações entre os agentes económicos, estabelecendo uma delimitação clara e inequívoca entre os campos de actuação da iniciativa privada e do sector público e definindo com transparência as normas legais a que um e outro estão sujeitos.
+
+Para tanto, torna-se indispensável eliminar progressivamente os instrumentos ou regras incompatíveis com as necessárias liberdade e responsabilidade dos agentes económicos, entre os quais se destacam os que possibilitam e regulamentam a intervenção do Estado nas empresas privadas.
+
+Por outro lado, a natureza transitória e excepcional que àquele instituto foi expressamente atribuída na legislação que o regulou não se compadece com a sua actual manutenção ou sequer com a subsistência à sua sombra de regimes especiais que mais não fazem do que tutelar a inércia, irresponsabilidade ou sobrevivência agónica de certos sujeitos económicos.
+
+Impõe-se, por isso, a revogação da legislação relativa à intervenção do Estado nas empresas, sem prejuízo de se acautelar um regime transitório para que o reduzido número de casos ainda pendentes possa rapidamente solucionar-se com a normalização da vida das empresas naquela situação.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º É revogado o [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914), de 29 de Maio, bem como toda a legislação complementar, sem prejuízo do disposto nos artigos seguintes.
+
+###### Art. 2.º A cessação da intervenção do Estado nas empresas onde tal regime ainda subsista operar-se-á ao abrigo da legislação referida no artigo anterior, a qual se considerará aplicável para esse efeito durante o prazo estabelecido para a respectiva desintervenção.
+
+###### Art. 3.º - 1 - As resoluções do Conselho de Ministros que decidirem a cessação das intervenções ainda em curso poderão manter o regime excepcional previsto nos artigos 12.º, 13.º e 14.º do aludido [Decreto-Lei n.º 422/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/422-1976-426914).
+
+2 - Se as empresas cuja intervenção cessou antes da publicação deste decreto-lei já beneficiarem, por força da resolução que determinou a cessação, do regime excepcional referido no número anterior, este manter-se-á nos termos em que foi concedido.
+
+3 - O regime excepcional previsto nos números anteriores cessa em 31 de Dezembro de 1981 ou, no caso de ter sido entretanto celebrado contrato de viabilização, na data da sua assinatura.
+
+4 - A faculdade prevista no n.º 1 não poderá ser utilizada nos casos em que a cessação da intervenção for acompanhada quer da declaração de falência da empresa quer da sua apresentação a tribunal para convocação de credores, nos termos da lei geral de processo.
+
+###### Art. 4.º - 1 - Quando não seja possível realizar antes da cessação da intervenção as operações de fusão, cisão, transformação, aumento ou redução de capital social e emissão de obrigações, independentemente dos limites do artigo 196.º do Código Comercial, serão as mesmas objecto de disposição precisa na resolução que determine a cessação da intervenção na empresa, fixando-se prazo para o seu cumprimento.
+
+2 - As deliberações sobre as operações referidas no número anterior quando respeitem a sociedades serão tomadas em assembleia geral por maioria simples dos votos dos accionistas presentes ou representados, qualquer que seja o disposto na lei ou nos respectivos estatutos.
+
+3 - Nos casos de incumprimento do prazo fixado no n.º 1, o Conselho de Ministros pode, sem prejuízo dos direitos de terceiros, aprovar as medidas que considere adequadas ao interesse da empresa e do Estado.
+
+###### Art. 5.º Salvo nas hipóteses expressamente previstas neste decreto-lei, manter-se-ão os prazos que tenham sido fixados nas várias resoluções que determinaram a cessação da intervenção.
+
+###### Art. 6.º - 1 - Os créditos do Estado sobre as empresas em que tenha intervindo e, quando posteriores à intervenção, os créditos de terceiros sobre as mesmas empresas garantidos pelo Estado e os das instituições de crédito nacionalizadas gozam, pela referida ordem de precedência, de privilégio mobiliário geral sobre todos os bens móveis existentes no património da empresa devedora e de hipoteca legal sobre todos os bens imóveis existentes no mesmo património, a qual deverá ser registada.
+
+2 - O disposto no número anterior não prejudica os privilégios imobiliários especiais de que gozam os créditos do Estado nos termos da lei vigente.
+
+###### Art. 7.º As dúvidas que se suscitarem na execução deste diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+
+Visto e aprovado em Conselho de Ministros de 2 de Abril de 1981. - Francisco José Pereira Pinto Balsemão.
+
+**Promulgado em 16 de Abril de 1981.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:136168878:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2020-136788910",
+ "dre_path": "/dr/detalhe/declaracao/3-2020-136168878",
+ "source_lastmod": "2024-12-27",
+ "versions": [
+  {
+   "date": "2020-06-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "901455217"
+   ]
+  }
+ ],
+ "fragments": {
+  "901455217": {
+   "fragment_id": "136788911",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Declaração n.º 3/2020\n\nSumário: Designação dos membros do Conselho dos Julgados de Paz.\n\nDesignação dos membros do Conselho dos Julgados de Paz\n\nPara os devidos efeitos se declara que foram designados membros do Conselho dos Julgados de Paz, constituído nos termos do disposto nos n.os 1 e 2 do artigo 65.º da Lei n.º 78/2001, de 13 de julho, alterada pela Lei n.º 54/2013, de 31 de julho, os seguintes cidadãos:\n\nJuiz Conselheiro jubilado Vítor Gonçalves Gomes, designado pelo Presidente da Assembleia da República, que preside;\n\nDr. António Ramos Preto, em representação do Grupo Parlamentar do Partido Socialista;\n\nDeputada Mónica Quintela, em representação do Grupo Parlamentar do Partido Social Democrata;\n\nDr. Vasco Barata, em representação do Grupo Parlamentar do Bloco de Esquerda;\n\nDr. Luís Corceiro Mendes, em representação do Grupo Parlamentar do Partido Comunista Português;\n\nDeputado Telmo Correia, em representação do Grupo Parlamentar do CDS - Partido Popular;\n\nDr.ª Isabel Maria Fidalgo Figueiredo do Carmo, em representação do Grupo Parlamentar do Pessoas-Animais-Natureza;\n\nProfessor Doutor João Tiago Silveira, em representação do Ministério da Justiça;\n\nJuiz Desembargador jubilado Dr. Pedro dos Santos Gonçalves Antunes, em representação do Conselho Superior da Magistratura;\n\nDr. Emílio Torrão, Presidente da Câmara Municipal de Montemor-o-Velho, em representação da Associação Nacional de Municípios Portugueses;\n\nDr.ª Sofia Campos Coelho, em representação dos Juízes de Paz."
+  }
+ }
+}

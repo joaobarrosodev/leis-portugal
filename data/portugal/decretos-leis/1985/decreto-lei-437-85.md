@@ -1,0 +1,195 @@
+---
+schema_version: '1.0'
+id: pt:dre:178083:por
+title: Decreto-Lei n.º 437/85
+short_title: null
+summary: Altera e revoga alguns artigos do Decreto-Lei n.º 526/80, de 5 de Novembro, que cria o Instituto de Análise da Conjuntura
+  e Estudos de Planeamento (IACEP) e estabelece normas quanto ao primeiro provimento, à transição e ao tempo de serviço do
+  pessoal do mesmo Instituto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano
+proposing_entity: null
+official_number: 437/85
+official_date: null
+publication_date: '1985-10-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 245/1985, Série I de 1985-10-24
+  number: '245'
+  series: I
+  supplement: null
+  pages: 3514 - 3516
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/10/24500/35143516.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '178083'
+  dre_path: /dr/detalhe/decreto-lei/437-1985-178083
+  internal: pt:dre:178083:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1985-178083
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1985-178083
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-07-18T00:00:00Z'
+integrity:
+  source_sha256: 62e62a07b119a271edb98b27681e9901a7f66226aa8af358cb8d5eb57af9bd94
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-437-178083.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:228027:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 437/85
+
+de 24 de Outubro
+
+O [Decreto-Lei n.º 526/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1980-457463), de 5 de Novembro, ao criar o Instituto de Análise da Conjuntura e Estudos de Planeamento (IACEP), por integração do Centro de Estudos de Planeamento (CEP) e do Grupo de Estudos Básicos de Economia Industrial (GEBEI), dotou-o com o quadro de pessoal do ex-CEP, aprovado pelo [Decreto Regulamentar n.º 70/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1979-365740), de 28 de Dezembro, determinando, igualmente, a sua alteração com vista à integração do pessoal do ex-GEBEI, bem como do pessoal de outros organismos ou do que a qualquer título neles prestasse serviço à data da sua publicação.
+
+Há que fazer acompanhar a regularização do quadro de pessoal com algumas alterações do diploma orgânico que permitam corrigir aspectos que a prática tem revelado insuficientes.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 13.º, 14.º, e 20.º do [Decreto-Lei n.º 526/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1980-457463), de 5 de Novembro, passam a ter a seguinte redacção:
+
+###### Artigo 13.º — (Núcleos técnicos)
+
+1 - Os núcleos técnicos são unidades coerentes de estudo, correspondentes a áreas em que a capacidade permanente de avanços metodológicos e de análise seja considerada conveniente em função das atribuições do IACEP.
+
+2 - A estrutura, competência e modo de funcionamento dos núcleos técnicos, bem como a sua criação, alteração ou extinção, serão formalizados nos termos da lei geral mediante proposta do presidente, precedida de deliberação do conselho directivo.
+
+3 - Consideram-se desde já instituídos os seguintes núcleos técnicos:
+
+a) Núcleo de Estudos Básicos de Economia Quantitativa;
+
+b) Núcleo de Estudos de Conjuntura e Previsão Económica;
+
+c) Núcleo de Estudos Urbanos e Regionais.
+
+4 - Os núcleos são dirigidos por directores de serviços.
+
+5 - Adentro dos núcleos técnicos e consoante as necessidades estruturais, poderão ser criadas, nos termos da lei geral, unidades orgânicas, cujos responsáveis são equiparados, para todos os efeitos legais, a chefes de divisão.
+
+###### Artigo 14.º — (Serviços de apoio técnico)
+
+1 - ...
+
+2 - Considera-se, desde já, constituído como serviço de apoio técnico a Direcção dos Serviços de Informação, Divulgação e Publicações.
+
+###### Artigo 20.º — (Quadro de pessoal)
+
+O IACEP disporá do pessoal constante do mapa I anexo ao presente diploma e que dele faz parte integrante.
+
+###### Artigo 2.º — (Primeiro provimento do pessoal do IACEP)
+
+1 - Os funcionários do quadro aprovado pelo [Decreto Regulamentar n.º 70/79](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/70-1979-365740), de 28 de Dezembro, serão providos nos lugares constantes do mapa I em anexo, com respeito pelas disposições dos artigos 3.º e 4.º subsequentes.
+
+2 - Serão também integrados nos lugares do quadro, com observância das normas transitórias do presente decreto-lei, os agentes que à data da cessação do regime de instalação do IACEP tivessem pelo menos um ano de serviço com sujeição à hierarquia, disciplina e horário completo do serviço.
+
+###### Artigo 3.º — (Normas de transição)
+
+1 - Para efeitos do disposto no artigo anterior, a transição do pessoal para os cargos, categorias e carreiras previstos no mapa I anexo ao presente diploma far-se-á com observância das seguintes regras:
+
+a) Para cargo idêntico ou equiparado, ou categoria igual à possuída, independentemente dos requisitos habilitacionais exigidos;
+
+b) Para categoria que integre as funções desempenhadas, remunerada pela mesma letra de vencimento ou imediatamente superior, quando não haja coincidência de remuneração, sem prejuízo das habilitações literárias legalmente exigidas;
+
+c) O actual detentor da categoria de monitor transita para a categoria de operador principal, remunerada pela mesma letra de vencimento.
+
+2 - Com observância do disposto no artigo 6.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, podem os funcionários e agentes que se encontrem à data da entrada em vigor do presente decreto-lei a prestar serviço no IACEP em regime de destacamento ou requisição ser integrados no respectivo quadro, desde que essa integração se processe:
+
+a) Na mesma categoria do lugar de origem; ou
+
+b) Na categoria correspondente às funções efectivamente exercidas no IACEP, remunerada pela mesma letra de vencimento da categoria de origem, sem prejuízo das habilitações legalmente exigidas.
+
+3 - Os funcionários e agentes do IACEP que à data da entrada em vigor do presente diploma se encontrem em situação de licença sem vencimento manterão, em relação ao novo quadro de pessoal, os direitos que detiverem à data do início das respectivas licenças.
+
+4 - O mecanismo de transição previsto nas alíneas b) e c) do n.º 1 e do n.º 2 do presente artigo só poderá processar-se mediante prévio e mútuo acordo da Administração e do interessado.
+
+5 - A correspondência entre as funções anteriormente exercidas e as do lugar em que é feita a integração a que se refere o n.º 1 deste artigo será fixada através de declaração subscrita pelo presidente do Instituto.
+
+6 - A transição referida nos números anteriores será feita mediante diplomas individuais de provimento ou listas nominativas, sujeitos, respectivamente, a visto ou anotação do Tribunal de Contas, consoante se verifique ou não a mudança de situação jurídico-funcional, com dispensa de outras formalidades, salvo a publicação no Diário da República, considerando-se o pessoal investido no respectivo cargo ou lugar a partir da data, da posse ou publicação, conforme os casos.
+
+###### Artigo 4.º — (Tempo de serviço)
+
+1 - O tempo de serviço prestado pelo pessoal integrado na categoria que deu origem à transição conta para todos os efeitos legais, designadamente nomeação definitiva e progressão na carreira, como prestado na nova categoria, desde que no exercício efectivo de funções correspondentes às categorias para que se operou a transição.
+
+2 - Se o funcionário a nomear já tiver provimento definitivo noutro lugar da função pública, poderá desde logo ser provido definitivamente, nos casos em que exerça funções da mesma natureza.
+
+###### Artigo 5.º — (Revogação)
+
+São revogadas as seguintes disposições do [Decreto-Lei n.º 526/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/526-1980-457463), de 5 de Novembro:
+
+a) Alínea e) do n.º 1 do artigo 22.º;
+
+b) Artigos 23.º, 24.º, 25.º, 26.º, 27.º e 29.º
+
+###### Artigo 6.º — (Cobertura de encargos)
+
+O Ministério das Finanças e do Plano determinará as providências orçamentais necessárias à execução do presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 3 de Setembro de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - José Manuel San-Bento de Menezes - Ernâni Rodrigues Lopes.
+
+**Promulgado em 11 de Outubro de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 15 de Outubro de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**
+
+## ANEXO — Mapa I a que se refere o n.º 1 do artigo 20.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1985/10/24500/35143516.pdf))](https://files.diariodarepublica.pt/1s/1985/10/24500/35143516.pdf)

@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:107761908:por
+title: Resolução do Conselho de Ministros n.º 109/2017
+short_title: null
+summary: Autoriza o início das negociações com a Embraer, S. A., tendo em vista a aquisição pelo Estado Português de cinco
+  aeronaves KC-390, com opção de mais uma, a respetiva sustentação logística e um simulador de voo, para instalação e operação
+  em território nacional
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 109/2017
+official_date: null
+publication_date: '2017-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 144/2017, Série I de 2017-07-27
+  number: '144'
+  series: I
+  supplement: null
+  pages: 4205 - 4207
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/07/14400/0420504207.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/109/2017/07/27/p/dre/pt/html
+  oj: null
+  dre: '107761908'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/109-2017-107761908
+  internal: pt:dre:107761908:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-2017-107761908
+  metadata_url: https://data.dre.pt/eli/resolconsmin/109/2017/07/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/109-2017-107761908
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-07-27T00:00:00Z'
+integrity:
+  source_sha256: b41253f5bca0f96ba9ddf80b16d12e9e636735c1088a4929654b4c5776b62d54
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2017/DRE-2017-109-107761908.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aeronave com Motor
+- Aquisição de Bens e Serviços
+- Avião
+- Investigação Científica e Tecnológica
+- Ministro da Economia
+- Conselho de Ministros
+- Despesas Públicas
+- Projeto de Investimento
+- Ministro das Finanças
+- Indústria Aeronáutica
+- Ministro da Ciência Tecnologia e Ensino Superior
+- Projecto de Investigação
+- Ministro da Defesa Nacional
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/104/2011/10/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/104/2011/10/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/35/2016/06/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/35/2016/06/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/42/2011/10/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/42/2011/10/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/63/2012/07/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/63/2012/07/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/78/2010/10/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/78/2010/10/12/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 109/2017
+
+Através da Declaração de Intenções, assinada a 10 setembro 2010, os Ministros da Defesa de Portugal e da República Federativa do Brasil declararam o compromisso de alargar e aprofundar a cooperação entre os dois países no setor aeronáutico, como uma das prioridades conjuntas para dar início às negociações bilaterais tendo em vista a definição dos termos e condições da participação de Portugal no Programa de desenvolvimento e produção das aeronaves KC-390. Nessa Declaração ficou também determinado que, «considerando que as 6 aeronaves C-130 Hércules da Força Aérea Portuguesa (FA) estão previstas ser substituídas a partir de 2016 e que as características da nova aeronave KC-390 a colocam, em termos de adequabilidade, como apta para substituir aquelas aeronaves», seria dado «início às negociações visando futuras aquisições pelo Governo Português de aviões KC-390 da Embraer, para assegurar a substituição dos 6 aviões C-130 da FA, sujeitas à efetiva participação de Portugal no desenvolvimento da aeronave KC-390».
+
+O Conselho de Ministros, através da [Resolução n.º 78/2010](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/78-2010-342811), de 12 de outubro, declarou, na sequência do convite formulado pelo Governo da República Federativa do Brasil, o interesse de Portugal em participar no programa conjunto de desenvolvimento e produção da aeronave de transporte multiúsos KC-390, por forma a constituir um fator de desenvolvimento da base tecnológica e industrial nacional para o setor aeronáutico e, nessa medida, assumir o papel de vetor mobilizador da dinamização do «cluster» aeronáutico nacional.
+
+O envolvimento de Portugal no projeto de desenvolvimento e produção do KC-390 foi reforçado através da Declaração Conjunta de Compromissos assinada a 6 maio 2011 entre o Ministro da Defesa Nacional e a Embraer, S. A., na qual se definiram as diligências visando uma potencial aquisição por Portugal de aeronaves KC-390 da Embraer, para substituição das aeronaves C-130 da Força Aérea, nomeadamente mediante o acompanhamento, através deste Ramo das Forças Armadas, do desenvolvimento de configuração da aeronave KC-390, com o objetivo de fazer refletir nesta especificações técnicas e logísticas imprescindíveis às aeronaves destinadas a Portugal.
+
+A [Resolução do Conselho de Ministros n.º 42/2011](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/42-2011-146933), de 24 de outubro, reconhecendo a importância estratégica que a indústria aeronáutica pode desempenhar para o desenvolvimento económico nacional, veio reafirmar o interesse de Portugal em participar no programa de desenvolvimento e produção da aeronave KC-390.
+
+Posteriormente, a [Resolução do Conselho de Ministros n.º 63/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-2012-179540), de 17 de julho, autorizou a realização de despesa resultante da participação do Estado Português no projeto de desenvolvimento e produção da aeronave KC-390, até ao montante máximo de trinta milhões de euros, a realizar entre 2012 e 2015, a satisfazer por verbas inscritas e a inscrever no orçamento do então designado Instituto de Apoio às Pequenas e Médias Empresas e Inovação, I. P. (IAPMEI, I. P.).
+
+A [Resolução do Conselho de Ministros n.º 35/2016](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/35-2016-74717231), de 17 de junho, autorizou a realização da despesa resultante da conclusão da participação do Estado Português no projeto de desenvolvimento e produção da aeronave KC-390, para os anos de 2016 e 2017.
+
+A participação de Portugal num projeto aeronáutico de dimensão internacional como o KC-390 constitui, não só um fator determinante na mobilização efetiva das dinâmicas e dos recursos empresariais do setor aeronáutico, mas também uma oportunidade de desenvolvimento tecnológico essencial à consolidação das bases para o crescimento e internacionalização sustentados da economia nacional.
+
+O trabalho desenvolvido pelos sucessivos Governos em conjunto com a Embraer para o crescimento da sua presença em Portugal e a parceria para o projeto KC-390 fortaleceram a confiança institucional entre as partes, criando condições favoráveis ao reforço do investimento em Portugal por parte da Embraer e de outras empresas do setor aeronáutico, as quais têm utilizado cada vez mais o país como plataforma de desenvolvimento da sua estratégia tecnológica, industrial e comercial na Europa. As políticas ativas de emprego adotadas para a formação de técnicos necessários para o crescimento destas empresas criam uma base estável e renovável de recursos humanos, que catalisam e permitem o desenvolvimento económico.
+
+A possibilidade de Portugal poder vir a adquirir a aeronave KC-390 permitiu o envolvimento de empresas portuguesas na fase de desenvolvimento e integração de capacidades associadas a requisitos específicos de interoperabilidade em missões internacionais de Defesa e Segurança, incluindo em missões de emergência e de natureza humanitária. Esta participação de empresas portuguesas terá um efeito reforçado através da implementação potencial destas capacidades nas aeronaves dos futuros operadores que se inserem nas alianças intergovernamentais das quais Portugal já faz parte.
+
+Portugal, a par da República Federativa do Brasil, é um dos principais parceiros do programa cooperativo de desenvolvimento e produção do KC-390, do qual fazem parte igualmente a República Checa e a Argentina. Tendo contribuído para o avanço muito significativo da fase de desenvolvimento do projeto, prevê-se que venha a assumir também um papel fundamental para o sucesso comercial na fase de produção em série, que se reveste de particular importância pelos potenciais benefícios ao nível do desenvolvimento industrial e das exportações.
+
+A participação de dois estados-membros da União Europeia neste programa concertado de investigação e desenvolvimento possibilita que, do ponto de vista da contratação pública, a formação do contrato seja efetuada ao abrigo da exclusão prevista na alínea c) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 104/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2011-671231), de 6 de outubro.
+
+A participação portuguesa no programa concertado de investigação, desenvolvimento e produção da aeronave militar de transporte estratégico KC-390, bem como o acompanhamento do mesmo pela Força Aérea, permitiu um conhecimento profundo desta aeronave, desenvolvida para estabelecer novos padrões de capacidade e desempenho.
+
+Considerando a Força Aérea que o «KC-390 cumpre com as características técnicas apresentadas pelo fabricante, cumprindo com os requisitos operacionais e logísticos definidos pela própria Força Aérea», assume-se que a mesma possa vir a substituir a aeronave C-130H, apresentando-se apta para o cumprimento das missões que lhe estão confiadas. Por outro lado, o processo de certificação atualmente a decorrer, genericamente de acordo com o cronograma inicialmente previsto e que deverá terminar no final de 2017, tem vindo a dar garantias adicionais relativamente ao cumprimento dos requisitos e características técnicas do KC-390.
+
+É pois chegado o momento do Governo de Portugal aprofundar as negociações com a Embraer, tendo em vista a aquisição de aeronaves KC-390 e um simulador de voo, a respetiva sustentação logística, com as configurações e especificações técnicas, operacionais e logísticas, definidas pela Força Aérea. Assim, reforçam-se as atuais capacidades de transporte aéreo, de busca e salvamento, evacuações sanitárias e apoio a cidadãos nacionais, nomeadamente entre o Continente e os Arquipélagos. Incluem-se também as capacidades adicionais de reabastecimento em voo e de combate a incêndios florestais, o que possibilita que Portugal disponha de aeronaves com funções de duplo uso (civil e militar), que respondem a necessidades permanentes do país.
+
+Neste sentido, importa definir uma estratégia e um conjunto de linhas orientadoras que contribuam para obter ganhos de eficiência, economias de escala e vetores de inovação com efeitos no curto, médio e longo prazo, capazes de gerar mais-valias passíveis de serem aplicadas de forma direta no processo de aquisição das aeronaves em causa.
+
+Finalmente, importa salvaguardar os interesses essenciais de segurança do Estado Português, assegurar a capacidade de transporte aéreo estratégico e tático das Forças Armadas Portuguesas e reforçar a capacidade de apoio a missões de interesse público.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Na sequência da participação portuguesa no programa concertado de desenvolvimento e produção da aeronave militar de transporte estratégico KC-390, autorizar o início das negociações, designadamente, com a Embraer, S. A., em princípio, ao abrigo do disposto na alínea c) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 104/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2011-671231), de 6 de outubro, tendo em vista a aquisição pelo Estado Português até cinco aeronaves KC-390, com opção de mais uma, a respetiva sustentação logística e um simulador de voo (fullflight simulator CAT D), para instalação e operação em território nacional.
+
+2 - Determinar que o Ministro da Defesa Nacional dirija as negociações referidas no número anterior e as negociações com outras entidades que se revelem essenciais à edificação desta capacidade, com faculdade de subdelegação, e constitua uma equipa integrando representantes nomeados pelo Ministro das Finanças, pelo Ministro da Ciência, Tecnologia e Ensino Superior e pelo Ministro da Economia.
+
+3 - A equipa referida no número anterior tem como missão principal:
+
+a) Negociar com a Embraer, S. A., os termos e condições técnicas e financeiras referentes ao fornecimento referido no n.º 1;
+
+b) Identificar os correspondentes montantes máximos de financiamento público, preferencialmente através da LPM ou fundos comunitários, as respetivas fontes de financiamento e a programação financeira, conducentes à edificação da capacidade associada a este novo sistema de armas, nomeadamente, mas não limitado, ao fornecimento do referido no n.º 1, à sustentação logística dos motores, à aquisição dos equipamentos de apoio no solo (Ground Support Equipment - GSE), aos equipamentos exclusivamente fornecidos pelo Estado Português (Governement Furnished Equipment - GFE), à construção e adaptação das infraestruturas, à formação e treino, à aquisição de equipamentos específicos não previstos na configuração base da aeronave e necessários para a execução dos vários elementos de missão e ao acompanhamento do programa até ser atingida a Capacidade Operacional Final (Final Operational Capability - FOC);
+
+c) Analisar e apresentar os cenários e cronograma possíveis quanto aos requisitos e serviços a incluir no objeto do fornecimento;
+
+d) Fazer um levantamento e análise dos preços praticados na aquisição de aeronaves de dimensão semelhante, nomeadamente através da avaliação dos preços efetivos de aquisição em países europeus, de modo a garantir que o preço praticado está abaixo ou em linha com os preços praticados nesses países.
+
+4 - Para os efeitos do número anterior, a equipa deverá apresentar ao Ministro da Defesa Nacional, no prazo máximo de três meses, um relatório detalhado que identifique todos os aspetos relevantes e necessários à introdução do novo sistema de armas KC-390 na Força Aérea, com as possíveis opções para decisão final, incluindo as decorrentes da negociação com a Embraer, respetivos cronogramas, custos associados e com o objetivo de se atingir a Capacidade Operacional Inicial (Initial Operational Capability - IOC) até ao final de 2021.
+
+5 - Determinar que o Ministro da Defesa Nacional avalie a suspensão da modernização das atuais aeronaves C-130H, nos termos aprovados através do Despacho n.º 7859/2016, publicado no Diário da República, 2.ª série, n.º 114, de 16 de junho, devendo as verbas previstas para a modernização garantir a sustentação destas aeronaves até ser atingida a Capacidade Operacional Final do KC-390 e a execução de outras capacidades da Força Aérea, previstas na Lei de Programação Militar.
+
+6 - Estabelecer que a presente resolução produz efeitos a partir da data da sua publicação.
+
+Presidência do Conselho de Ministros, 8 de junho de 2017. - Pelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.

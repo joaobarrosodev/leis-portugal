@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:218553:por
+title: Resolução do Conselho de Ministros n.º 63/86
+short_title: null
+summary: Cria o Gabinete Coordenador do programa Integrado de Desenvolvimento Regional da Ria Formosa
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 63/86
+official_date: null
+publication_date: '1986-08-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/1986, Série I de 1986-08-05
+  number: '178'
+  series: I
+  supplement: null
+  pages: 1931 - 1933
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/08/17800/19311933.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '218553'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/63-1986-218553
+  internal: pt:dre:218553:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-1986-218553
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/63-1986-218553
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-08-05T00:00:00Z'
+integrity:
+  source_sha256: 5138075535918dab2b9c288ed9934210b076b04a2139d366375ab08ad1a807b1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-63-218553.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 63/86
+
+A Reserva Natural da Ria Formosa, criada pelo [Decreto n.º 45/78](https://diariodarepublica.pt/dr/detalhe/decreto/45-1978-295781), de 2 de Maio, é reconhecida internacionalmente como uma zona lagunar de grande importância para a conservação dos ecossistemas naturais, nidificação de aves, desova de peixes e reprodução de moluscos.
+
+Com uma população permanente superior a 100000 habitantes, esta zona lagunar e a costa que lhe é adjacente apresentam fortes potencialidades nos domínios das pescas, da aquicultura, do turismo e da indústria extractiva.
+
+A intervenção humana desordenada e não regulamentada, que se caracteriza pela descarga de efluentes domésticos não tratados nas águas da laguna, construções clandestinas sobre os cordões arenosos e acções de pesca e mariscagem ilegais, e a ausência de meios de gestão dos recursos de água doce constituem uma ameaça à capacidade produtiva deste ecossistema.
+
+Por isso, e em primeiro lugar, há que tomar desde já, medidas de salvaguarda, por forma a não comprometer irremediavelmente o futuro desta sensível zona lagunar.
+
+Se a definição e fundamentação jurídica da protecção do ambiente é, neste caso, pressuposto para acções de desenvolvimento, haverá que curar também das actividades produtivas que poderão ser instaladas e dinamizadas naquela parcela do território.
+
+Assim, e tendo como referência as dificuldades resultantes das características da área territorial em questão, o Governo considera que um programa integrado e coordenado de acção é a forma mais eficaz de preservar e aproveitar as reais potencialidades da ria Formosa, harmonizando o interesse social com o económico.
+
+Neste sentido, e considerando a necessidade de programar a coordenação de todas as acções e actividades a desenvolver para a referida zona, consagra-se, pela presente resolução, a estrutura institucional responsável pelas tarefas essenciais de coordenação, gestão e avaliação do Programa Integrado de Desenvolvimento Regional da Ria Formosa, corporizando as determinações legais em vigor, definidas pelo [Decreto-Lei n.º 86/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1984-661955), de 19 de Março.
+
+A estrutura criada visa assegurar um verdadeiro empenhamento por parte dos diversos níveis e serviços da Administração e propiciar as condições de participação dos diferentes agentes de desenvolvimento, garantindo, simultaneamente, a existência de eficazes mecanismos de coordenação para que os objectivos deste Programa possam vir a ser atingidos.
+
+Sem uma participação activa e interessada dos legítimos representantes das populações da área - neste caso, os municípios - muito pouco se poderá esperar. Por isso, houve o cuidado de proceder à sua auscultação e concluiu-se pelo interesse e comprometimento dos mesmos nos objectivos que se pretendem atingir.
+
+Assim:
+
+O Conselho de Ministros, reunido em 19 de Junho de 1986, resolveu, ao abrigo do n.º 1 do [Decreto-Lei n.º 86/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1984-661955), de 19 de Março:
+
+1 - Criar o Gabinete Coordenador do Programa Integrado de Desenvolvimento Regional da Ria Formosa.
+
+2 - O Programa Integrado de Desenvolvimento Regional da Ria Formosa abrange a área de 99000 ha, correspondente aos Municípios de Loulé (Almansil), Faro, São Brás de Alportel, Olhão, Tavira e Vila Real de Santo António (Vila Nova de Cacela).
+
+3 - São objectivos do Programa Integrado de Desenvolvimento Regional da Ria Formosa:
+
+a) Apoiar e desenvolver a produção alimentar, promovendo programas de aquicultura, piscicultura, moluscicultura e de aumento dos regadios agrícolas;
+
+b) Aumentar e reformar as infra-estruturas e equipamentos básicos de apoio às actividades produtivas;
+
+c) Realizar os estudos e investigações necessários conducentes ao melhor aproveitamento das potencialidades existentes, bem como ao ordenamento e desenvolvimento da ria;
+
+d) Preservar e melhorar o ambiente e os recursos naturais e combater a poluição, através do controle das emissões poluentes e da resolução dos problemas de saneamento básico;
+
+e) Controlar os fluxos turísticos, reduzindo substancialmente os efeitos negativos da carga humana sobre o cordão dunar;
+
+f) Melhorar a cobertura social e apoio médico-sanitário às populações ribeirinhas, investindo nos domínios da segurança social e da saúde;
+
+g) Proteger o património histórico, natural e cultural da zona.
+
+4 - O Gabinete Coordenador do Programa Integrado de Desenvolvimento Regional da Ria Formosa é constituído pelos seguintes órgãos:
+
+a) O coordenador do Programa;
+
+b) O administrador do Programa;
+
+c) O conselho coordenador do Programa e a respectiva comissão permanente.
+
+5 - Compete ao coordenador do Programa:
+
+a) Assegurar a coordenação, o acompanhamento da execução e controle da gestão do Programa Integrado de Desenvolvimento Regional da Ria Formosa, designadamente no que respeita à eficaz articulação entre as actuações da responsabilidade de departamentos da administração central e entre estas e as que são exercidas pelos municípios;
+
+b) Presidir ao conselho coordenador do Programa e à sua comissão permanente.
+
+6 - Para o desempenho das funções que lhe estão cometidas, deverá o coordenador do Programa:
+
+a) Tratar directamente com membros do Governo e da Administração, a qualquer nível, das questões e informações relevantes para a boa execução e gestão do Programa;
+
+b) Solicitar as informações necessárias ao exercício das suas funções, bem como as convenientes para a execução e gestão do Programa;
+
+c) Superintender na gestão dos recursos afectos ao Programa;
+
+d) Propor a celebração de contratos, nos termos da lei geral, relativos às actividades, tarefas e serviços que não possam ser assegurados pelos meios afectos ao Gabinete Coordenador;
+
+e) Propor a activação dos mecanismos de mobilidade de pessoal previstos na lei geral que se afigurem necessários ao funcionamento das equipas técnicas;
+
+f) Propor a nomeação do administrador do Programa e orientar a sua actividade.
+
+7 - O cargo de coordenador do Programa Integrado de Desenvolvimento Regional da Ria Formosa é exercido, em regime de acumulação e por inerência, pelo presidente da Comissão de Coordenação da Região do Algarve.
+
+8 - O administrador do Programa é o responsável pela respectiva gestão corrente, substituindo o coordenador nas suas faltas e impedimentos.
+
+9 - Para desempenhar as funções que lhe estão cometidas, deverá o administrador do Programa:
+
+a) Executar as orientações recebidas do coordenador do Programa;
+
+b) Velar pelo cumprimento das deliberações do conselho coordenador do Programa;
+
+c) Assegurar o estabelecimento e funcionamento das relações permanentes com os departamentos sectoriais da administração central e com os municípios envolvidos no Programa;
+
+d) Dirigir as equipas técnicas adstritas ao Gabinete Coordenador;
+
+e) Executar o orçamento do Programa.
+
+10 - O administrador do Programa é nomeado pelo Ministro do Plano da Administração do Território, sob proposta do coordenador do Programa, ouvido o director-geral do Desenvolvimento Regional.
+
+11 - Para efeitos de remuneração, o administrador do Programa é equiparado a subdirector-geral.
+
+12 - O conselho coordenador do Programa e o órgão de representação dos departamentos sectoriais da administração central e dos municípios envolvidos no Programa e é responsável pelo intercâmbio das informações e debate conjunto das questões adequadas à sua correcta e eficiente execução e gestão.
+
+13 - O conselho coordenador do Programa Integrado de Desenvolvimento Regional da Ria Formosa é composto pelos seguintes membros:
+
+a) Três representantes do Ministério do Plano e da Administração do Território, sendo um para a área do planeamento e desenvolvimento regional e dois para a área do ambiente e recursos naturais;
+
+b) Cinco representantes do Ministério da Agricultura, Pescas e Alimentação, sendo dois para a área da agricultura e três para a área das pescas;
+
+c) Dois representantes do Ministério da Indústria e Comércio;
+
+d) Um representante do Ministério da Educação e Cultura;
+
+e) Um representante do Ministério da Saúde;
+
+f) Um representante do Ministério do Trabalho e Segurança Social;
+
+g) Um representante da Região de Turismo do Algarve;
+
+h) Um representante da Universidade do Algarve;
+
+i) Um representante de cada uma das Câmaras Municipais da área abrangida: Loulé, Faro, São Brás de Alportel, Olhão, Tavira e Vila Real de Santo António.
+
+14 - A comissão permanente do conselho coordenador é integrada pelos seguintes membros, referidos no número anterior:
+
+a) Um dos representantes referidos na alínea a);
+
+b) Três dos representante referidos na alínea b);
+
+c) Os representantes referidos na alínea c);
+
+d) Três representantes das câmaras municipais da área abrangida pelo Programa, designados por cooptação a efectuar pelos membros do conselho coordenador referidos na alínea i).
+
+15 - Poderão ser criadas secções especializadas no âmbito do conselho coordenador do Programa.
+
+16 - Os membros do conselho coordenador do Programa e da respectiva comissão permanente que representam departamentos sectoriais da administração central são nomeados pelos respectivos ministros e exercem as suas funções mediante delegação de competências aprovada pelo membro do Governo que exerça a tutela.
+
+17 - Os membros do conselho coordenador do Programa que representam municípios são nomeados pelas respectivas câmaras municipais e exercem as suas funções mediante adequada delegação de competências.
+
+18 - Os directores-gerais de Desenvolvimento Regional e do Departamento Central de Planeamento poderão participar ou fazer-se representar nas reuniões do conselho coordenador do Programa, por sua iniciativa ou a convite do coordenador, devendo ser-lhes atempadamente comunicadas as agendas das respectivas reuniões.
+
+19 - O conselho coordenador poderá reunir com outros elementos convocados ou convidados pelo coordenador do Programa, sempre que se torne útil e conveniente, face aos assuntos a tratar.
+
+20 - Para o exercício das funções cometidas ao Gabinete Coordenador do Programa Integrado de Desenvolvimento Regional da Ria Formosa pelo [Decreto-Lei n.º 86/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-1984-661955), de 19 de Março, e pela presente resolução, podem ser criadas, no seu âmbito, equipas técnicas.
+
+21 - A criação de equipas técnicas a que se refere o número anterior será efectuada por despacho do Ministro do Plano e da Administração do Território, sob proposta do coordenador do Programa.
+
+22 - O pessoal que integra as equipas técnicas será requisitado ou destacado dos serviços da administração central ou dos municípios envolvidos no Programa.
+
+23 - Poderá ainda ser contratado pessoal nos termos da legislação em vigor, ao qual não poderá ser reconhecida a qualidade de agente administrativo.
+
+24 - Para a realização de estudos ou projectos, o Gabinete Coordenador pode celebrar contratos com entidades nacionais e estrangeiras, nos termos da lei geral.
+
+25 - O orçamento do Programa Integrado de Desenvolvimento Regional da Ria Formosa será financiado pelo capítulo 50.º do Orçamento do Estado no que respeita quer a investimentos quer a despesas de administração necessárias à eficiente execução do Programa.
+
+26 - O período de realização do Programa Integrado de Desenvolvimento Regional da Ria Formosa decorre de 1986 a 1990.
+
+27 - O Gabinete Coordenador do Programa Integrado de Desenvolvimento Regional da Ria Formosa extinguir-se-á findo o período da realização.
+
+28 - A Comissão de Coordenação da Região do Algarve fornecerá o apoio logístico necessário ao eficaz funcionamento do Gabinete Coordenador do Programa Integrado de Desenvolvimento Regional da Ria Formosa, contando para tal com os meios financeiros referidos no n.º 25.
+
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Aníbal António Cavaco Silva.

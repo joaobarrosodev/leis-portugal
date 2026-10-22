@@ -1,0 +1,424 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:387304:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1984-889496486",
+ "dre_path": "/dr/detalhe/portaria/409-1984-387304",
+ "source_lastmod": "2024-09-30",
+ "versions": [
+  {
+   "date": "1984-06-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889496039",
+    "889496040",
+    "889496041",
+    "889496042",
+    "889496043",
+    "889496044",
+    "889496045",
+    "889496046",
+    "889496047",
+    "889496048",
+    "889496049",
+    "889496050",
+    "889496051",
+    "889496052",
+    "889496053",
+    "889496054",
+    "889496055",
+    "889496056",
+    "889496057",
+    "889496058",
+    "889496059",
+    "889496060",
+    "889496061",
+    "889496062",
+    "889496063",
+    "889496064",
+    "889496065",
+    "889496066",
+    "889496067",
+    "889496068",
+    "889496069",
+    "889496070",
+    "889496071",
+    "889496072",
+    "889496073",
+    "889496074"
+   ]
+  },
+  {
+   "date": "1984-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520028:por",
+     "title": "Declaração",
+     "published": "1984-08-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-520028"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 6.º"
+   ],
+   "fragments": [
+    "889496039",
+    "889498677",
+    "889498676",
+    "889496040",
+    "889496041",
+    "889496042",
+    "889496043",
+    "889496044",
+    "889496045",
+    "889496046",
+    "889498698",
+    "889496048",
+    "889496049",
+    "889496050",
+    "889496051",
+    "889496052",
+    "889496053",
+    "889496054",
+    "889496055",
+    "889496056",
+    "889496057",
+    "889496058",
+    "889496059",
+    "889496060",
+    "889496061",
+    "889496062",
+    "889496063",
+    "889496064",
+    "889496065",
+    "889496066",
+    "889496067",
+    "889496068",
+    "889496069",
+    "889496070",
+    "889496071",
+    "889496072",
+    "889496073",
+    "889496074"
+   ]
+  }
+ ],
+ "fragments": {
+  "889496039": {
+   "fragment_id": "889496487",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 409/84\n\nde 26 de Junho\n\nAo abrigo do disposto nos n.os 2 e 3 do artigo 2.º do Decreto-Lei n.º 66/80, de 9 de Abril:\n\nManda o Governo da República Portuguesa, pelo Ministro da Educação, o seguinte:\n\n1.º É criado no Instituto Superior de Economia, da Universidade Técnica de Lisboa, o Departamento de Economia.\n\n2.º O Departamento de Economia rege-se pelo regulamento anexo à presente portaria, dela fazendo parte integrante."
+  },
+  "889496040": {
+   "fragment_id": "889496488",
+   "type": 1,
+   "heading": "Capítulo I — Departamento e secções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Departamento e secções"
+  },
+  "889496041": {
+   "fragment_id": "889496489",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - No Instituto Superior de Economia é criado o Departamento de Economia, correspondente a uma área de conhecimento delimitada em função de objectivos próprios e de metodologia e técnicas de investigação específicas.\n\n2 - O Departamento tem por finalidades essenciais o ensino e a investigação, prosseguindo ainda por objectivo a prestação de serviços ao exterior e a realização de actividades de extensão universitária."
+  },
+  "889496042": {
+   "fragment_id": "889496490",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O Departamento subdivide-se nas seguintes secções:\n\na) Secção de Teoria Económica;\n\nb) Secção de Economia Aplicada;\n\nc) Secção de Economia Internacional;\n\nd) Secção de Desenvolvimento Económico e Social;\n\ne) Secção de Moeda e Finanças Públicas;\n\nf) Secção de Política Económica e de Planeamento;\n\ng) Secção de Desenvolvimento Regional.\n\n2 - Estas secções, integradas no Departamento, são entendidas como unidades orgânicas respeitantes a áreas diferenciadas do conhecimento, com dimensões e características que lhes permitam prosseguir e desenvolver actividades de ensino, de investigação, de prestação de serviços ao exterior e de extensão universitária, autónomas."
+  },
+  "889496043": {
+   "fragment_id": "889496491",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO Departamento poderá, por sua iniciativa e mediante decisão proferida pelo conselho de departamento previsto neste Regulamento, propor a alteração à subdivisão ora prevista, bem como a criação de novas secções, sempre que a sua dimensão e a pluralidade de matérias científicas compreendidas na sua área o recomendem."
+  },
+  "889496044": {
+   "fragment_id": "889496492",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Cada secção deverá incluir, pelo menos, 1 professor.\n\n2 - Quando haja disciplinas comuns a vários cursos professados no Instituto que sejam da responsabilidade da mesma equipa docente, esta deverá integrar-se no Departamento e respectiva secção, que, em atenção às actividades docentes e de investigação a prosseguir, se revelarem mais adequados."
+  },
+  "889496045": {
+   "fragment_id": "889496493",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos do Departamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos do Departamento"
+  },
+  "889496046": {
+   "fragment_id": "889496494",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO Departamento tem os seguintes órgãos:\n\na) Conselho de departamento;\n\nb) Comissão executiva."
+  },
+  "889496047": {
+   "fragment_id": "889496495",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes.\n\n2 - São membros permanentes os professores catedráticos, associados e auxiliares, incluindo os convidados, bem como os investigadores doutorados integrados na área científica abrangidas pelo Departamento.\n\n3 - São membros não permanentes os representantes eleitos, por períodos bienais, pelos restantes docentes e investigadores não doutorados da área científica abrangida pelo Departamento, cujo número, no entanto, não poderá ser superior a um terço do número de membros permanentes.\n\n4 - O conselho de departamento é presidido por um professor catedrático ou associado, em exercício de funções no Departamento, eleito por mandato de 2 anos.\n\n5 - Em caso de ausência ou impedimento temporário do presidente, o conselho será presidido pelo professor mais antigo da categoria mais elevada do Departamento que esteja a prestar serviço em regime de tempo parcial.\n\n6 - O conselho de departamento reúne por iniciativa do seu presidente ou de metade dos seus membros, mediante convocatória assinada por aquele, da qual deve constar a ordem de trabalhos e a data, hora e local da reunião."
+  },
+  "889496048": {
+   "fragment_id": "889496496",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - A eleição dos membros não permanentes terá lugar no mês de Novembro.\n\n2 - A fim de se proceder à eleição dos membros não permanentes, o presidente do conselho de departamento ou, na sua falta ou impedimento, o membro permanente mais antigo na categoria mais elevada do Departamento não incluído nas categorias definidas no n.º 2 do artigo 6.º convocará o conselho, para sessão especial, a que presidirá.\n\n3 - A eleição será anunciada com antecedência mínima de 8 dias sobre a data da sua realização.\n\n4 - A eleição efectuar-se-á por escrutínio secreto por meio de uma lista de candidatos, na qual será indicada a escolha até ao máximo do número de vagas existentes.\n\n5 - Os casos de empate resolver-se-ão por nova votação nos candidatos que tenham ficado empatados.\n\n6 - Os membros eleitos entram em funções no dia imediato ao da eleição e cessam funções no dia em que forem eleitos novos membros não permanentes."
+  },
+  "889496049": {
+   "fragment_id": "889496497",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - A eleição do presidente do conselho de departamento terá lugar em Dezembro, após a entrada em funções dos membros não permanentes do conselho de departamento, e em sessão convocada para o efeito pelo presidente do conselho ou, na sua falta ou impedimento, pelo membro permanente mais antigo da categoria mais elevada do Departamento.\n\n2 - A convocatória será enviada a cada um dos membros do conselho com uma antecedência mínima de 8 dias em relação à data da sessão e dela constarão a data, hora e local da eleição.\n\n3 - A eleição efectuar-se-á por escrutínio secreto, considerando-se eleito o professor que obtenha a maioria absoluta dos votos dos membros do conselho em exercício efectivo de funções.\n\n4 - Não havendo membro que obtenha a maioria referida no número anterior, proceder-se-á a segundo escrutínio entre os 2 mais votados, considerando-se eleito o que obtiver maior número de votos.\n\n5 - O presidente do conselho de departamento tomará posse perante o presidente do conselho directivo do Instituto, nos 8 dias imediatos ao da sua eleição, terminando o mandato no dia em que tomar posse o seu sucessor no cargo.\n\n6 - Nos casos de vacatura do cargo de presidente do conselho de departamento, bem como no termo de um período de 3 meses de ausência, proceder-se-á, nos 10 dias imediatos e nos termos do presente artigo, à eleição de novo presidente, que completará o mandato do presidente que substituir.\n\n7 - O exercício do cargo de presidente do conselho de departamento é incompatível com o de presidente de outros órgãos de gestão universitária."
+  },
+  "889496050": {
+   "fragment_id": "889496498",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nCompete ao conselho de departamento:\n\na) Elaborar propostas de alteração ao Regulamento do Departamento;\n\nb) Eleger e propor a destituição do respectivo presidente;\n\nc) Eleger os representantes do Departamento em eventuais comissões adstritas aos órgãos de gestão do Instituto;\n\nd) Propor, mediante iniciativa dos conselhos de secção, os responsáveis das disciplinas a cargo do Departamento;\n\ne) Designar os professores responsáveis pelos serviços dependentes do Departamento;\n\nf) Estabelecer regras internas do Departamento, dentro das normas do presente Regulamento e demais legislação aplicável, delas dando conhecimento aos órgãos de gestão do Instituto;\n\ng) Propor a criação e extinção de secções do Departamento;\n\nh) Coordenar as actividades das secções;\n\ni) Apresentar aos órgãos de gestão do Instituto propostas de nomeação e contratação de pessoal docente através da comissão executiva;\n\nj) Deliberar sobre a inclusão de docentes e investigadores na área científica abrangida pelo Departamento;\n\nl) Gerir, no seu âmbito e de acordo com o orçamento aprovado para o Departamento, todos os meios humanos e materiais a ele adstritos, em ordem a assegurar a execução dos seus objectivos;\n\nm) Submeter à aprovação dos órgãos de gestão do Instituto, sob proposta da comissão executiva, as contas anuais e plurianuais do Departamento;\n\nn) Aprovar, sob proposta das secções, os planos de valorização de pessoal docente e investigador e submeter ao conselho científico as correspondentes propostas de equiparação a bolseiro e de dispensa de serviço docente;\n\no) Aprovar a celebração de acordos e de contratos de prestação de serviços nos termos do artigo 15.º do Decreto-Lei n.º 66/80;\n\np) Apreciar os mapas de distribuição de serviço docente, na base de propostas das secções, e enviá-los ao conselho científico para deliberação;\n\nq) Deliberar sobre as matérias que lhe sejam delegadas e pronunciar-se sobre as que lhe sejam submetidas pelos órgãos de gestão do Instituto;\n\nr) Decidir sobre os recursos que lhe sejam apresentados pelos membros do Departamento relativamente a decisões tomadas por outros órgãos do mesmo Departamento;\n\ns) Afectar às secções adequadas as disciplinas dos planos de estudo dos cursos ministrados no Instituto e compreendidas na área científica do Departamento;\n\nt) Deliberar sobre outras matérias que, nos termos do Decreto-Lei n.º 66/80, se mostrarem relevantes e sejam da competência do Departamento."
+  },
+  "889496051": {
+   "fragment_id": "889496499",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - No caso de o número de membros do conselho de departamento ser superior a 8, poderá aquele funcionar em plenário ou em comissão restrita, que se designará por comissão coordenadora do Departamento.\n\n2 - A comissão coordenadora do Departamento é constituída por:\n\na) O presidente do conselho de departamento, que preside;\n\nb) Um professor a prestar serviço em regime de tempo integral, eleito por cada secção;\n\nc) Docentes eleitos pelos seus pares de entre os membros não permanentes do conselho de departamento, não podendo o seu número exceder um terço do número dos outros membros.\n\n3 - A comissão coordenadora do Departamento terá todas as competências que o conselho de departamento entenda delegar-lhe, com excepção das referidas nas alíneas a), b), f) e s) do artigo 9.º deste Regulamento."
+  },
+  "889496052": {
+   "fragment_id": "889496500",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - A comissão executiva será constituída pelo presidente do conselho de departamento, que a ela presidirá, e por outros 2 membros, por ele designados de entre os 3 mais votados pelos restantes membros do conselho.\n\n2 - A comissão executiva extinguir-se-á automaticamente com a destituição do presidente do conselho de departamento, feita ao abrigo da alínea a) do artigo 8.º deste Regulamento."
+  },
+  "889496053": {
+   "fragment_id": "889496501",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nCompete à comissão executiva:\n\na) Dirigir o Departamento de acordo com a legislação em vigor, com as normas gerais do Instituto e do presente Regulamento e com as decisões e orientações estabelecidas pelo conselho de departamento;\n\nb) Gerir os meios humanos e materiais postos à disposição do Departamento, de acordo com as dotações orçamentais que lhe forem atribuídas pelos órgãos de gestão do Instituto e com as receitas próprias resultantes de contratos com o exterior;\n\nc) Submeter ao conselho de departamento as contas anuais e plurianuais, para o que os serviços centrais do Instituto fornecerão o necessário apoio;\n\nd) Assegurar a coordenação entre as diferentes secções do Departamento;\n\ne) Garantir a realização das eleições previstas no presente Regulamento e demais normas internas e informar os órgãos de gestão do Instituto dos respectivos resultados;\n\nf) Preparar acordos e contratos de prestação de serviços, submetê-los à aprovação do conselho de departamento, deles informar os órgãos de gestão do Instituto e celebrá-los;\n\ng) Dar andamento às propostas de admissão de pessoal que seja de afectar ao Departamento e de renovação e rescisão dos respectivos contratos;\n\nh) Zelar pela boa conservação das instalações e do equipamento adstrito ao Departamento, para o que os órgãos de gestão do Instituto deverão facultar os meios necessários;\n\ni) Apresentar anualmente ao conselho de departamento o relatório das suas actividades;\n\nj) Preparar as reuniões do conselho e da comissão coordenadora do Departamento e executar as suas deliberações."
+  },
+  "889496054": {
+   "fragment_id": "889496502",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nCompete ao presidente do conselho de departamento:\n\na) Convocar e presidir às reuniões do conselho, da comissão coordenadora e da comissão executiva;\n\nb) Providenciar no sentido de serem elaboradas actas das reuniões;\n\nc) Representar o Departamento;\n\nd) Exercer, em permanência, as funções que lhe forem cometidas pelo conselho, pela comissão coordenadora e pela comissão executiva, podendo qualquer membro destes órgãos pedir a ratificação das resoluções do presidente na primeira reunião ordinária seguinte."
+  },
+  "889496055": {
+   "fragment_id": "889496503",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nO presidente do conselho de departamento e os restantes membros da comissão executiva têm direito a ser parcialmente dispensados de outro serviço durante o seu mandato."
+  },
+  "889496056": {
+   "fragment_id": "889496504",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nNas suas actividades de gestão, a comissão executiva deverá ser coadjuvada por um funcionário com provimento em lugar do quadro, de categoria adequada, que desempenhará as funções de secretário do Departamento."
+  },
+  "889496057": {
+   "fragment_id": "889496505",
+   "type": 1,
+   "heading": "Capítulo III — Organização das secções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização das secções"
+  },
+  "889496058": {
+   "fragment_id": "889496506",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - A secção tem como órgãos o coordenador de secção e um conselho de secção, cuja constituição é deliberada nos termos do número seguinte.\n\n2 - Compete ao plenário de secção deliberar sobre a conveniência em constituir o conselho de secção.\n\n3 - A sua composição, que deverá abranger todas as disciplinas integradas na secção, será proposta ao conselho de departamento, que a ratificará.\n\n4 - O coordenador presidirá ao conselho de secção e será um professor eleito pelo plenário dos membros da secção, por períodos de 2 anos."
+  },
+  "889496059": {
+   "fragment_id": "889496507",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nCompete ao conselho de secção, se existir, e ao coordenador de secção, se aquele conselho não existir:\n\na) Coordenar e articular, científica e pedagogicamente, o conteúdo programático das disciplinas escolares afectas à secção;\n\nb) Participar na definição dos princípios de contratação e nomeação de pessoal docente;\n\nc) Propor ao conselho de departamento os planos de valorização do pessoal docente e investigador da secção, em articulação com os centros de investigação, bem como as equiparações a bolseiro e dispensa de serviço docente;\n\nd) Fazer propostas sobre a atribuição do serviço docente da secção."
+  },
+  "889496060": {
+   "fragment_id": "889496508",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nSerão convidados a participar nos conselhos de secção, a título consultivo, representantes dos estudantes, quando a secção tenha de se pronunciar sobre aspectos ligados ao ensino das respectivas disciplinas."
+  },
+  "889496061": {
+   "fragment_id": "889496509",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos de recurso e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Órgãos de recurso e fiscalização"
+  },
+  "889496062": {
+   "fragment_id": "889496510",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - As deliberações do conselho de departamento só poderão ser alteradas, ouvido este, pelos órgãos centrais da escola, quando as julguem incompatíveis com os interesses gerais prosseguidos pela escola ou possam perturbar o seu funcionamento.\n\n2 - Das alterações às deliberações do conselho de departamento cabe recurso para o reitor."
+  },
+  "889496063": {
+   "fragment_id": "889496511",
+   "type": 1,
+   "heading": "Capítulo V — Autonomia do Departamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Autonomia do Departamento"
+  },
+  "889496064": {
+   "fragment_id": "889496512",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nSerão definidas pelos órgãos de gestão do Instituto as instalações afectas ao Departamento, incluindo áreas para gabinetes e serviços administrativos, as quais ficarão sob a responsabilidade do Departamento, de acordo com o disposto na alínea h) do artigo 12.º deste Regulamento."
+  },
+  "889496065": {
+   "fragment_id": "889496513",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nOs quadros de pessoal administrativo e técnico do Instituto passarão a prever os lugares adstritos ao Departamento, de modo a dar-se cumprimento às normas de pessoal constantes do Decreto-Lei n.º 66/80, de 9 de Abril."
+  },
+  "889496066": {
+   "fragment_id": "889496514",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nDentro da legislação em vigor e das normas da contabilidade pública, deverão ser criadas condições que permitam ao Departamento, sob fiscalização do conselho directivo, desempenhar as suas funções autónomas de gestão."
+  },
+  "889496067": {
+   "fragment_id": "889496515",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nSerão descentralizadas para os órgãos do Departamento, de acordo com as normas gerais em vigor na escola, as funções de natureza científica e pedagógica que sejam específicas da sua área."
+  },
+  "889496068": {
+   "fragment_id": "889496516",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nAs matérias que são objecto dos artigos 22.º e 23.º anteriores serão desenvolvidas em normas a estabelecer pelos órgãos de gestão do Instituto, depois de ouvido o Departamento."
+  },
+  "889496069": {
+   "fragment_id": "889496517",
+   "type": 1,
+   "heading": "Capítulo VI — Normas gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Normas gerais"
+  },
+  "889496070": {
+   "fragment_id": "889496518",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1 - Os membros dos órgãos dotados de poder deliberativo são responsáveis pelas infracções à lei cometidas no exercício das suas funções.\n\n2 - São excluídos do disposto no número anterior os membros ausentes das reuniões em que as deliberações forem tomadas e os presentes que fizerem exarar em acta a sua oposição a essas deliberações."
+  },
+  "889496071": {
+   "fragment_id": "889496519",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1 - Os órgãos com poder deliberativo só podem deliberar quando estiver presente a maioria dos seus membros.\n\n2 - As decisões serão aprovadas por maioria simples.\n\n3 - As eleições e destituições que se refiram a pessoas individualmente consideradas ficarão sujeitas a escrutínio secreto."
+  },
+  "889496072": {
+   "fragment_id": "889496520",
+   "type": 1,
+   "heading": "Capítulo VII — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Normas transitórias"
+  },
+  "889496073": {
+   "fragment_id": "889496521",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1 - No prazo de 30 dias após a publicação deste Regulamento, o conselho directivo do Instituto desencadeará os processos eleitorais necessários para a eleição dos membros não permanentes do conselho de departamento.\n\n2 - No prazo de 15 dias após a eleição do conselho de departamento, o professor mais antigo da categoria mais elevada convocará as reuniões em que será eleita a comissão coordenadora de departamento, no caso de existir, e a comissão executiva.\n\n3 - Uma vez eleita, a comissão executiva desencadeará os processos de eleição dos conselhos das secções do Departamento."
+  },
+  "889496074": {
+   "fragment_id": "889496522",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs órgãos de gestão do Instituto deverão tomar as medidas necessárias ao pleno cumprimento das normas constantes do presente Regulamento, designadamente das normas do capítulo V, no mais breve prazo possível a partir da sua entrada em vigor.\n\nMinistério da Educação, 31 de Maio de 1984."
+  },
+  "889498677": {
+   "fragment_id": "889496524",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Educação.\n\nAssinada em 31 de Maio de 1984.\n\nO Ministro da Educação, José Augusto Seabra."
+  },
+  "889498676": {
+   "fragment_id": "889496523",
+   "type": 14,
+   "heading": "Anexo I — Regulamento do Departamento de Economia do Instituto Superior de Economia, da Universidade Técnica de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Regulamento do Departamento de Economia do Instituto Superior de Economia, da Universidade Técnica de Lisboa"
+  },
+  "889498698": {
+   "fragment_id": "889496495",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1984-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 202/1984, 1º Suplemento, Série I de 1984-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-520028), em vigor a partir de 1984-08-31"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1 - O conselho de departamento é constituído por membros permanentes e por membros não permanentes.\n\n2 - São membros permanentes os professores catedráticos, associados e auxiliares, incluindo os convidados, bem como os investigadores doutorados integrados na área científica abrangidas pelo Departamento.\n\n3 - São membros não permanentes os representantes eleitos, por períodos bienais, pelos restantes docentes e investigadores não doutorados da área científica abrangida pelo Departamento, cujo número, no entanto, não poderá ser superior a um terço do número de membros permanentes.\n\n4 - O conselho de departamento é presidido por um professor catedrático ou associado, em exercício de funções no Departamento, eleito por mandato de 2 anos.\n\n5 - Em caso de ausência ou impedimento temporário do presidente, o conselho será presidido pelo professor mais antigo da categoria mais elevada do Departamento que esteja a prestar serviço em regime de tempo integral.\n\n6 - O conselho de departamento reúne por iniciativa do seu presidente ou de metade dos seus membros, mediante convocatória assinada por aquele, da qual deve constar a ordem de trabalhos e a data, hora e local da reunião.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 202/1984, 1º Suplemento, Série I de 1984-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-520028), em vigor a partir de 1984-08-31"
+  }
+ }
+}

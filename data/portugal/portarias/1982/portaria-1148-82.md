@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:379172:por
+title: Portaria n.º 1148/82
+short_title: null
+summary: Autoriza a empresa pública Telefones de Lisboa e Porto a contrair 2 empréstimos nos montantes de 400000 contos e
+  100000 contos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 1148/82
+official_date: null
+publication_date: '1982-12-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 287/1982, Série I de 1982-12-14
+  number: '287'
+  series: I
+  supplement: null
+  pages: 4100 - 4100
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/12/28700/41004100.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '379172'
+  dre_path: /dr/detalhe/portaria/1148-1982-379172
+  internal: pt:dre:379172:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1148-1982-379172
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1148-1982-379172
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-12-14T00:00:00Z'
+integrity:
+  source_sha256: 3d228a2ac2f5d02be0af862b28cb51270abd3f585c0ca917c4906a7b4fbb4505
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-1148-379172.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1148/82
+
+de 14 de Dezembro
+
+Manda o Governo da República Portuguesa, pelo Ministro de Estado e das Finanças e do Plano e pelo Ministro da Habitação, Obras Públicas e Transportes, autorizar a empresa pública Telefones de Lisboa e Porto, nos termos do artigo 23.º, n.º 3, do anexo ao [Decreto-Lei n.º 48007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48007-1967-388633), de 26 de Outubro de 1967, a contrair 2 empréstimos nos montantes de, respectivamente, 400000 contos e 100000 contos, este último sob a forma de linha de crédito, nas condições seguintes:
+
+I - Empréstimo de 400000 contos
+
+Finalidade - Cobertura financeira de investimentos incluídos no PISEE-82.
+
+Montante - 400000 contos.
+
+Mutuante - Banco de Fomento Nacional.
+
+Mutuário - Empresa pública Telefones de Lisboa e Porto.
+
+Prazo - 8 anos a contar da data da assinatura do contrato de empréstimo.
+
+Juros - À taxa anual de 26%, susceptível de alteração pelo Banco de Fomento Nacional, dentro dos limites legais em vigor à data da alteração, cobrados atrasadamente ao semestre.
+
+Amortização - 15 prestações iguais de capital, semestrais e sucessivas, vencendo-se a primeira 12 meses a contar da data do contrato de empréstimo.
+
+Garantias - Consignação das receitas em geral dos Telefones de Lisboa e Porto e inscrição nos orçamentos anuais das verbas necessárias ao reembolso do empréstimo e pagamento dos juros, podendo os Telefones de Lisboa e Porto obrigar-se a titular cambiariamente a operação se e quando o Banco de Fomento Nacional o exigir.
+
+II - Linha de crédito de 100000 contos
+
+Finalidade - Financiamento da produção e da venda a prazo, por 80% do respectivo preço, de equipamento destinado aos Telefones de Lisboa e Porto para investimentos incluídos no PISEE-82.
+
+Montante - 100000 contos.
+
+Mutuante - Banco de Fomento Nacional.
+
+Mutuário - Cada uma das empresas fornecedoras dos Telefones de Lisboa e Porto incluída no financiamento de produção e venda a prazo.
+
+Prazo - 8 anos.
+
+Juros - À taxa de 26%, susceptível de alteração pelo Banco de Fomento Nacional dentro dos limites legais em vigor à data da alteração, cobrados atrasadamente ao semestre.
+
+Amortização - 14 prestações iguais de capital, semestrais e sucessivas, vencendo-se a primeira no 18.º mês a contar da recepção da carta-contrato.
+
+Utilização - À medida de execução das encomendas, de acordo com o período de pagamento acordado, por 80% do valor de cada factura visada pelos Telefones de Lisboa e Porto.
+
+Titulação - Por livranças subscritas pelos Telefones de Lisboa e Porto a favor do Banco de Fomento Nacional, reformáveis nas condições habituais.
+
+Ministérios das Finanças e do Plano e da Habitação, Obras Públicas e Transportes, 24 de Novembro de 1982. - Pelo Ministro de Estado e das Finanças e do Plano, José Cândido Sousa Carrusca Robin de Andrade, Secretário de Estado das Finanças. - Pelo Ministro da Habitação, Obras Públicas e Transportes, José da Silva Nobre, Secretário de Estado das Obras Públicas.

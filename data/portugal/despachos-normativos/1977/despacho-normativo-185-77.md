@@ -1,0 +1,91 @@
+---
+schema_version: '1.0'
+id: pt:dre:285761:por
+title: Despacho Normativo n.º 185/77
+short_title: null
+summary: Determina que a taxa de juro a aplicar nos empréstimos ou aditamentos sobre apólice de ramo Vida seja igual à taxa
+  básica de desconto do Banco de Portugal, acrescida de 2,5%, quer de desconto do Banco de Portugal, quer dos depósitos à
+  ordem e a prazo
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro - Gabinete do Secretário de Estado
+proposing_entity: null
+official_number: 185/77
+official_date: null
+publication_date: '1977-09-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 219/1977, Série I de 1977-09-21
+  number: '219'
+  series: I
+  supplement: null
+  pages: 2294 - 2294
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21900/22942294.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '285761'
+  dre_path: /dr/detalhe/despacho-normativo/185-1977-285761
+  internal: pt:dre:285761:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/185-1977-285761
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/185-1977-285761
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-09-21T00:00:00Z'
+integrity:
+  source_sha256: 338a32c07139b1a9b335513d122d3dfc9d3a583da513b29958497e07c8081898
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-185-285761.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 185/77
+
+Considerando a alteração das taxas, quer de desconto do Banco de Portugal, quer dos depósitos à ordem e a prazo, determina-se que a taxa de juro a aplicar nos empréstimos ou adiantamentos sobre apólices do ramo Vida seja igual à taxa básica de desconto do Banco de Portugal, acrescida de 2,5%.
+
+Em relação aos empréstimos ou adiantamentos já existentes, a nova taxa só será aplicada a partir do próximo vencimento dos juros e desde que tenham decorrido sessenta dias, contados a partir desta data.
+
+Secretaria de Estado do Tesouro, 8 de Setembro de 1977. - O Secretário de Estado do Tesouro, Maria Manuela Matos Morgado Santiago Baptista.

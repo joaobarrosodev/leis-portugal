@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:286773:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-964656600",
+ "dre_path": "/dr/detalhe/portaria/187-2011-286773",
+ "source_lastmod": "2026-09-16",
+ "versions": [
+  {
+   "date": "2014-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56474693:por",
+     "title": "Portaria n.º 173/2014",
+     "published": "2014-09-05",
+     "dre_path": "/dr/detalhe/portaria/173-2014-56474693"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "964800075",
+    "964800275",
+    "964800475",
+    "1169653575",
+    "1169653775",
+    "964801075",
+    "964801275",
+    "964801475",
+    "964801675",
+    "964801875",
+    "964802075",
+    "964802275",
+    "964802475"
+   ]
+  }
+ ],
+ "fragments": {
+  "964800075": {
+   "fragment_id": "964799975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 382/99, de 22 de Setembro, estabelece as normas e os critérios para a delimitação de perímetros de protecção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de protecção visam prevenir, reduzir e controlar a poluição das águas subterrâneas (por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens), potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a protecção dos sistemas de abastecimento de água.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respectivos perímetros de protecção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de Setembro, bem como ao disposto no artigo 37.º da Lei da Água (Lei n.º 58/2005, de 29 de Dezembro) e na Portaria n.º 702/2009, de 6 de Julho.\n\nNa sequência de uma proposta da Câmara Municipal de Palmela, a Administração da Região Hidrográfica (ARH) do Tejo, I. P., ao abrigo do n.º 2 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de Setembro, elaborou uma proposta de delimitação e respectivos condicionamentos dos perímetros de protecção para as captações nos pólos de captação de Fonte da Vaca, Vale Alecrim, Pinhal das Formas, Lagoinha, Carrascas, Quinta do Anjo, Vale de Craveiros, Palmela, Vila Nova da Aroeira, Forninho, Asseiceira, Poceirão, Fernando Pó e Lagameças, no concelho de Palmela.\n\nCompete, agora, ao Governo aprovar as referidas zonas de protecção.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de Setembro, na redacção dada pelo Decreto-Lei n.º 226-A/2007, de 31 de Maio, manda o Governo, pela Ministra do Ambiente e do Ordenamento do Território, o seguinte:"
+  },
+  "964800275": {
+   "fragment_id": "964800175",
+   "type": 11,
+   "heading": "Artigo 1.º — Delimitação de perímetros de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Delimitação de perímetros de protecção\n\n1 - É aprovada a delimitação dos perímetros de protecção das captações designadas por:\n\na) F1, F2, F3, F4 e PS6 do pólo de captação de Fonte da Vaca;\n\nb) JK3, JK4, JK5, JK7, JK8, JK9 e RA1 do pólo de captação de Vale Alecrim;\n\nc) PS1, PS2, PS3B, PS4A, PS5, PS6 e PS7 do pólo de captação de Pinhal das Formas;\n\nd) PS1 e JK10 do pólo de captação de Lagoinha;\n\ne) PS3 do pólo de captação de Carrascas;\n\nf) PS1, PS2, PS3 e PS4A do pólo de captação de Quinta do Anjo;\n\ng) PS2 e FR2 do pólo de captação de Vale de Craveiros;\n\nh) AC2 e JK11 do pólo de captação de Palmela;\n\ni) PS4 do pólo de captação de Vila Nova da Aroeira;\n\nj) CBR3 do pólo de captação de Forninho;\n\nl) CBR7 do pólo de captação de Asseiceira;\n\nm) JK1 e JK2 do pólo de captação de Poceirão;\n\nn) CBR4 do pólo de captação de Fernando Pó;\n\no) PS1 do pólo de captação de Lagameças;\n\nlocalizadas no concelho de Palmela, nos termos dos artigos seguintes.\n\n2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante."
+  },
+  "964800475": {
+   "fragment_id": "964800375",
+   "type": 11,
+   "heading": "Artigo 2.º — Zona de protecção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Zona de protecção imediata\n\n1 - A zona de protecção imediata respeitante aos perímetros de protecção mencionados no artigo anterior corresponde à área da superfície do terreno circular com centro em cada uma das captações cujos raios são indicados no quadro constante do anexo ii à presente portaria, que dela faz parte integrante.\n\n2 - É interdita qualquer instalação ou actividade na zona de protecção imediata a que se refere o número anterior, com excepção das que têm por objectivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de Setembro."
+  },
+  "1169653575": {
+   "fragment_id": "964800575",
+   "type": 11,
+   "heading": "Artigo 3.º — Zona de protecção intermédia",
+   "in_force_from": "2014-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/173-2014-56474693), em vigor a partir de 2014-09-06."
+   ],
+   "markdown": "###### Artigo 3.º — Zona de protecção intermédia\n\n1 - Na zona de proteção intermédia são interditas as atividades e instalações previstas no n.º 3 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, e ainda, nos termos do n.º 2 do artigo 6.º do referido decreto-lei, as seguintes:\n\na) Lixeiras e aterros sanitários, incluindo quaisquer tipo de aterros para resíduos perigosos, não perigosos ou inertes;\n\nb) Instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;\n\nc) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas.\n\n2 - Na zona de proteção intermédia são condicionadas, nos termos do n.º 2 do artigo 6.º do Decreto-Lei nº 382/99, de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I.P., as seguintes atividades e instalações:\n\na) Pastorícia, que pode ser desenvolvida desde que não cause problemas de poluição da água subterrânea, nomeadamente através do pastoreio intensivo;\n\nb) Usos agrícolas e pecuários, que podem ser permitidos desde que não causem problemas de poluição da água subterrânea, nomeadamente através da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis, ou através da rejeição de efluentes no solo;\n\nc) Construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;\n\nd ) Estradas e caminhos-de-ferro, que podem ser permitidos desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água subterrânea;\n\ne) Espaços destinados a práticas desportivas e os parques de campismo, que podem ser permitidos desde que as instalações ou atividades não promovam a contaminação da água subterrânea e seja assegurada a ligação das infraestruturas de saneamento à rede municipal;\n\nf ) Instalação de coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\ng) Fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento;\n\nh) Unidades industriais, que podem ser permitidas desde que não produzam substâncias poluentes que, de forma direta ou indireta, possam vir a alterar a qualidade da água subterrânea;\n\ni) Cemitérios;\n\nj) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, que podem ser permitidas desde que não provoquem a deterioração da qualidade da água ou diminuição das disponibilidades hídricas que comprometam o normal funcionamento dos sistemas de abastecimento;\n\nk) Depósitos de sucata existentes à data da presente portaria, devendo ser assegurada a impermeabilização de solo e a recolha ou tratamento das águas de escorrência, nas zonas de armazenamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/173-2014-56474693), em vigor a partir de 2014-09-06."
+  },
+  "1169653775": {
+   "fragment_id": "964800775",
+   "type": 11,
+   "heading": "Artigo 4.º — Zona de protecção alargada",
+   "in_force_from": "2014-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/173-2014-56474693), em vigor a partir de 2014-09-06."
+   ],
+   "markdown": "###### Artigo 4.º — Zona de protecção alargada\n\n1 - Na zona de proteção alargada são interditas as atividades e instalações previstas nas alíneas a) a d ) do n.º 5 do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, e ainda, nos termos do n.º 4 do artigo 6.º do referido decreto-lei, as seguintes:\n\nb) Instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo.\n\n2 - Na zona de proteção alargada referida no n.º 1 são condicionadas, nos termos do n.º 4 do artigo 6.º do Decreto-Lei n.º 382/99, de 22 de setembro, alterado pelo Decreto-Lei n.º 226-A/2007, de 31 de maio de 2007, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I.P., as seguintes atividades e instalações:\n\na) Utilização de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;\n\nb) Instalação de coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;\n\nc) Fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento;\n\nd) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;\n\ne) Cemitérios;\n\nf ) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas, que podem ser permitidas desde que não provoquem a deterioração da qualidade da água ou diminuição das disponibilidades hídricas que comprometam o normal funcionamento dos sistemas de abastecimento;\n\ng) Oficinas, estações de serviço de automóveis, postos de abastecimento e áreas de serviço de combustíveis e infraestruturas aeronáuticas são permitidas desde que seja garantida a impermeabilização do solo sob as zonas afetas à manutenção, reparação e circulação de automóveis e aeronaves, bem como as zonas de armazenamento de óleos e lubrificantes, devendo, em qualquer caso, ser garantida a recolha ou tratamento de efluentes;\n\nh) Depósitos de sucata existentes à data da presente portaria, devendo ser assegurada a impermeabilização de solo e a recolha ou tratamento das águas de escorrência, nas zonas de armazenamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 173/2014 - Diário da República n.º 171/2014, Série I de 2014-09-05](https://diariodarepublica.pt/dr/detalhe/portaria/173-2014-56474693), em vigor a partir de 2014-09-06."
+  },
+  "964801075": {
+   "fragment_id": "964800975",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação das zonas de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação das zonas de protecção\n\nAs zonas de protecção intermédia e alargada, respeitantes aos perímetros de protecção mencionados no artigo 1.º, encontram-se representadas no anexo v à presente portaria, que dela faz parte integrante."
+  },
+  "964801275": {
+   "fragment_id": "964801175",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "964801475": {
+   "fragment_id": "964801375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 29 de Abril de 2011."
+  },
+  "964801675": {
+   "fragment_id": "964801575",
+   "type": 14,
+   "heading": "Anexo I — Coordenadas das captações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Coordenadas das captações\n\n(ver documento original)"
+  },
+  "964801875": {
+   "fragment_id": "964801775",
+   "type": 14,
+   "heading": "Anexo II — Zona de protecção imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Zona de protecção imediata\n\n(ver documento original)"
+  },
+  "964802075": {
+   "fragment_id": "964801975",
+   "type": 14,
+   "heading": "Anexo III — Zona de protecção intermédia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Zona de protecção intermédia\n\n(ver documento original)\n\nPólo de captação de Vale Alecrim\n\nCaptações JK7 e JK9\n\n(ver documento original)\n\nPólo de captação de Forninho\n\nCaptação CBR3\n\n(ver documento original)\n\nPólo de captação de Poceirão\n\nCaptação JK1 e JK2\n\n(ver documento original)"
+  },
+  "964802275": {
+   "fragment_id": "964802175",
+   "type": 14,
+   "heading": "Anexo IV — Zona de protecção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Zona de protecção alargada\n\nPólo de captação de Fonte da Vaca\n\nCaptação F1\n\n(ver documento original)\n\nCaptações F2, F3 e F4\n\n(ver documento original)\n\nCaptação PS6\n\n(ver documento original)\n\nPólo de captação de Vale Alecrim\n\nCaptações JK3, JK4 e JK5\n\n(ver documento original)\n\nCaptações JK7, JK8, JK9 e RA1\n\n(ver documento original)\n\nPólo de captação de Pinhal das Formas\n\nCaptações PS1, PS2, PS3B, PS4A, PS5 e PS6\n\n(ver documento original)\n\nCaptação PS7\n\n(ver documento original)\n\nPólo de captação de Lagoinha\n\nCaptações PS1 e JK10\n\n(ver documento original)\n\nPólo de captação de Carrascas\n\nCaptação PS3\n\n(ver documento original)\n\nPólo de captação de Quinta do Anjo\n\nCaptações PS1, PS2, PS3 e PS4A\n\n(ver documento original)\n\nPólo de captação de Vale de Craveiros\n\nCaptações PS2 e FR2\n\n(ver documento original)\n\nPólo de captação de Palmela\n\nCaptações AC2 e JK11\n\n(ver documento original)\n\nPólo de captação de Vila Nova da Aroeira\n\nCaptação PS4\n\n(ver documento original)\n\nPólo de captação de Forninho\n\nCaptação CBR3\n\n(ver documento original)\n\nPólo de captação de Asseiceira\n\nCaptação CBR7\n\n(ver documento original)\n\nPólo de captação de Poceirão\n\nCaptações JK1 e JK2\n\n(ver documento original)\n\nPólo de captação de Fernando Pó\n\nCaptação CBR4\n\n(ver documento original)\n\nPólo de captação de Lagameças\n\nCaptação PS1\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de protecção encontram-se no sistema de coordenadas EPSG 376 3 (PT-TM06/ETRS89, origem no ponto central)."
+  },
+  "964802475": {
+   "fragment_id": "964802375",
+   "type": 14,
+   "heading": "Anexo V — Planta de localização das zonas de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Planta de localização das zonas de protecção\n\nExtracto da Carta Militar de Portugal\n\nSérie M888 - 1:25 000 (IGeoE)\n\nPólo de captação de Fonte da Vaca\n\n(ver documento original)\n\nPólo de captação de Vale Alecrim\n\n(ver documento original)\n\nPólo de captação de Pinhal das Formas\n\n(ver documento original)\n\nPólo de captação de Lagoinha\n\n(ver documento original)\n\nPólo de captação de Carrascas\n\n(ver documento original)\n\nPólo de captação de Quinta do Anjo\n\n(ver documento original)\n\nPólo de captação de Vale de Craveiros\n\n(ver documento original)\n\nPólo de captação de Palmela\n\n(ver documento original)\n\nPólo de captação de Vila Nova da Aroeira\n\n(ver documento original)\n\nPólo de captação de Forninho\n\n(ver documento original)\n\nPólo de captação de Asseiceira\n\n(ver documento original)\n\nPólo de captação de Poceirão\n\n(ver documento original)\n\nPólo de captação de Fernando Pó\n\n(ver documento original)\n\nPólo de captação de Lagameças\n\n(ver documento original)"
+  }
+ }
+}

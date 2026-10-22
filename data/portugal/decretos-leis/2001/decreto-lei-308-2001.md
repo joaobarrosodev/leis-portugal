@@ -1,0 +1,217 @@
+---
+schema_version: '1.0'
+id: pt:dre:582036:por
+title: Decreto-Lei n.º 308/2001
+short_title: null
+summary: Cria o Conselho Consultivo Nacional para a Formação Profissional (CCNFP)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 308/2001
+official_date: null
+publication_date: '2001-12-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 282/2001, Série I-A de 2001-12-06
+  number: '282'
+  series: I
+  supplement: null
+  pages: 7890 - 7892
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/12/282a00/78907892.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/308/2001/12/06/p/dre/pt/html
+  oj: null
+  dre: '582036'
+  dre_path: /dr/detalhe/decreto-lei/308-2001-582036
+  internal: pt:dre:582036:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-2001-582036
+  metadata_url: https://data.dre.pt/eli/dec-lei/308/2001/12/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/308-2001-582036
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-02-20T00:00:00Z'
+integrity:
+  source_sha256: 9ebe124acb7d98009ec6c6a097eb8a815593d930c14b3c8f2ac78a38a7c9fc61
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-308-582036.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Comissão Permanente de Concertação Social
+- Conselho Consultivo Nacional para a Formação Profissional
+- Criação de Serviços
+- Definição de Competências
+- Política de Educação
+- Política Social
+- Política de Emprego
+relationships:
+- type: amended_by
+  target: pt:dre:676841:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/90/1992/05/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/90/1992/05/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/36/1999/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/36/1999/05/26/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 308/2001
+
+de 6 de Dezembro
+
+O acordo sobre política de emprego, mercado de trabalho, educação e formação, celebrado em 9 de Fevereiro de 2001 por todos os parceiros sociais com assento na Comissão Permanente de Concertação Social, prevê um vasto e importante conjunto de medidas de elevação dos níveis e da qualidade do emprego, de desenvolvimento da formação profissional inicial e contínua e da qualificação profissional dos activos e, bem assim, de intensificação da competitividade das empresas.
+
+O Governo e os parceiros sociais reconheceram que só com a participação empenhada e concertada de todos os parceiros será possível obter êxitos concretos e relevantes no combate aos défices de escolarização e de qualificação profissional, na melhoria da qualidade do emprego e na promoção da empregabilidade e da aprendizagem ao longo da vida, pelo que uma das medidas assumidas no referido acordo foi a criação do Conselho Consultivo Nacional para a Formação Profissional (CCNFP), que funcionará junto da Comissão Permanente de Concertação Social.
+
+O Conselho foi definido como um órgão consultivo na avaliação de estratégias e de propostas políticas no âmbito da formação profissional inserida no sistema educativo e no mercado de emprego, desde o inventário de necessidades de competências à estratégia de desenvolvimento da formação, a certificação de competências (adquiridas formal ou informalmente), passando pelo acompanhamento, com impactos na regulação, das medidas políticas de formação e certificação, designadamente da acessibilidade, da qualidade e da eficácia do sistema. Pretende-se, deste modo, que este seja o órgão consultivo especializado na articulação entre o Governo e os parceiros sociais nas questões ligadas às políticas de formação e certificação profissional.
+
+Neste sentido, procede-se, através do presente diploma, à criação do CCNFP, tendo em vista dar adequada expressão ao que nesta matéria foi acordado em sede de concertação social - competências, composição e estrutura do CCNFP - no sentido de o dotar com os instrumentos necessários à realização das tarefas que lhe sejam cometidas com respeito pelo princípio da sua composição tripartida, integrando representantes do Governo, das confederações sindicais e patronais.
+
+O presente diploma foi objecto de apreciação e discussão públicas, nos termos previstos nas Leis n.os [16/79](https://diariodarepublica.pt/dr/detalhe/lei/16-1979-383648) e [36/99](https://diariodarepublica.pt/dr/detalhe/lei/36-1999-316944), de 26 de Maio, através de publicação na separata n.º 4 do Boletim do Trabalho e do Emprego, de 31 de Maio de 2001.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma cria o Conselho Consultivo Nacional para a Formação Profissional, doravante designado abreviadamente por CCNFP.
+
+###### Artigo 2.º — Natureza
+
+O CCNFP é um órgão de consulta quanto à avaliação de estratégias e de propostas políticas no seio da Comissão Permanente de Concertação Social (CPCS), no âmbito da formação profissional inserida no sistema educativo e no mercado de emprego, e quanto à execução das medidas políticas de emprego, formação e certificação, com vista a promover a acessibilidade, a qualidade e a eficácia do sistema.
+
+###### Artigo 3.º — Competências
+
+Compete ao CCNFP praticar todos os actos necessários ao exercício da sua função e, em especial:
+
+a) Estudar e propor políticas e estratégias de desenvolvimento da formação e da certificação profissional, em estreita articulação com o Sistema Nacional de Certificação Profissional;
+
+b) Dar parecer sobre propostas de diplomas em matéria de educação e formação e de certificação profissional;
+
+c) Formular propostas que contribuam para valorizar a formação profissional nos conteúdos da negociação colectiva e para reforçar o envolvimento dos parceiros sociais na promoção e organização de acções de formação profissional;
+
+d) Avaliar globalmente a formação profissional e o seu funcionamento, numa perspectiva de permanente regulação da qualidade do sistema;
+
+e) Acompanhar os processos de aplicação nacional, regional e local das diferentes medidas de formação profissional;
+
+f) Acompanhar a actividade das diversas entidades de regulação pública nos domínios da qualidade e financiamento da formação, bem como dos grandes operadores públicos de formação;
+
+g) Dar parecer e acompanhar a execução de um plano plurianual de desenvolvimento da formação profissional, a propor pelo Governo;
+
+h) Contribuir para a operacionalização e efectiva coordenação de todos os organismos e instâncias de funcionamento tripartido nos domínios da formação e do emprego, designadamente na sequência da avaliação da eficácia dos órgãos consultivos e das várias estruturas de participação dos parceiros sociais existentes nestes domínios, a nível consultivo ou executivo;
+
+i) Promover a realização e a divulgação de estudos de referência no âmbito da formação profissional e da certificação;
+
+j) Elaborar o programa anual de actividades a submeter ao plenário da CPCS;
+
+k) Aprovar o seu regulamento interno.
+
+###### Artigo 4.º — Articulação com outras entidades
+
+Para o desempenho das suas competências, o CCNFP deverá articular-se com outros organismos que desenvolvam actividades de natureza análoga, nomeadamente com o Conselho Nacional de Educação.
+
+###### Artigo 5.º — Composição
+
+1 - O CCNFP tem composição tripartida, integrando representantes do Governo e das confederações sindicais e patronais com assento na Comissão Permanente de Concertação Social, nos termos que se seguem:
+
+a) Seis representantes do Governo, entre os quais o membro do Governo responsável pela política de formação profissional, o qual presidirá, e o membro do Governo responsável pela política educativa;
+
+b) Seis representantes das confederações sindicais;
+
+c) Seis representantes das confederações patronais.
+
+2 - O CCNFP poderá constituir e funcionar em secções especializadas e poderá ainda recorrer a estruturas técnicas permanentes de acompanhamento e estudo prospectivo, nomeadamente no domínio da qualificação inicial, por forma a promover no seu âmbito a harmonização dos diversos programas de formação e qualificação.
+
+3 - Têm direito a participar nas reuniões do CCNFP os presidentes do Conselho Económico e Social e do Conselho Nacional de Educação.
+
+###### Artigo 6.º — Reuniões
+
+O CCNFP terá reuniões plenárias ordinárias de periodicidade trimestral, podendo ainda haver reuniões extraordinárias, por expressa convocação do presidente ou por convocação deste a solicitação de um terço dos seus membros.
+
+###### Artigo 7.º — Senhas de presença
+
+Os membros do CCNFP que sejam representantes dos parceiros sociais têm direito, por participação nas reuniões, a senhas de presença, nos termos fixados no n.º 1 do artigo 11.º do [Decreto-Lei n.º 90/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-1992-522994), de 21 de Maio.
+
+###### Artigo 8.º — Apoios
+
+Para o exercício das suas competências, o CCNFP pode solicitar a organismos públicos ou privados, vocacionados para as matérias em análise, o apoio e informações técnicas necessárias.
+
+###### Artigo 9.º — Financiamento
+
+Os meios financeiros necessários ao funcionamento do CCNFP serão inscritos no orçamento do Conselho Económico e Social.
+
+###### Artigo 10.º — Instalações e serviços de apoio
+
+A CPCS disponibilizará ao CCNFP as instalações, bem como o apoio técnico e administrativo necessários ao seu bom funcionamento.
+
+###### Artigo 11.º — Regulamentação
+
+1 - O funcionamento do CCNFP será objecto de regulamento interno, a aprovar por maioria qualificada de dois terços dos membros do plenário do CCNFP, no prazo de 30 dias após a sua primeira reunião.
+
+2 - O regulamento definirá obrigatoriamente o quórum deliberativo e a maioria necessária nas deliberações para assegurar o apoio tripartido.
+
+###### Artigo 12.º — Disposições transitórias
+
+O Ministério do Trabalho e da Solidariedade assegurará, até ao termo de 2001, as dotações orçamentais necessárias à instalação e funcionamento do CCNFP.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de Setembro de 2001. - António Manuel de Oliveira Guterres - Júlio Domingos Pedrosa da Luz de Jesus - Paulo José Fernandes Pedroso.
+
+**Promulgado em 15 de Novembro de 2001.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 26 de Novembro de 2001.**
+
+**O Primeiro-Ministro, em exercício, Guilherme d'Oliveira Martins.**

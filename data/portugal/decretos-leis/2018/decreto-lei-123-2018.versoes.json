@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:117514514:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-117514568",
+ "dre_path": "/dr/detalhe/decreto-lei/123-2018-117514514",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-12-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117509172",
+    "117509173",
+    "117509174",
+    "117533175",
+    "117533176"
+   ]
+  },
+  {
+   "date": "2020-04-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:131228424:por",
+     "title": "Decreto-Lei n.º 14-A/2020",
+     "published": "2020-04-07",
+     "dre_path": "/dr/detalhe/decreto-lei/14-a-2020-131228424"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "117509172",
+    "117509173",
+    "117509174",
+    "131229431",
+    "117533176",
+    "117533177"
+   ]
+  }
+ ],
+ "fragments": {
+  "117509172": {
+   "fragment_id": "117514569",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 123/2018\n\nde 28 de dezembro\n\nO Decreto-Lei n.º 111-B/2017, de 31 de agosto, alterou o Código dos Contratos Públicos (CCP), procedendo à transposição da Diretiva 2014/55/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativa à faturação eletrónica nos contratos públicos.\n\nSimultaneamente ao processo de transposição da referida diretiva, iniciou-se a avaliação da aplicação prática da norma sobre faturação eletrónica. Esta avaliação beneficiou dos contributos dos utilizadores finais, permitindo testar as modalidades práticas e a comodidade de uso da faturação eletrónica, para garantir que a execução da norma seja efetuada de forma eficiente em termos de custo, qualidade da informação e potencial de automatização, bem como de eficácia no cumprimento das regras em matéria de faturação.\n\nComplementarmente, a Entidade de Serviços Partilhados da Administração Pública, I. P., desenvolveu um projeto, com três entidades piloto, que permitiu uma avaliação das vantagens múltiplas associadas à faturação eletrónica, designadamente benefícios administrativos, processuais, de interoperabilidade interna e transfronteiriça, combate à fraude, potenciadas pela perspetiva da respetiva integração no modelo global de Tesouraria do Estado.\n\nO envolvimento dos operadores económicos e das entidades piloto no desenho e implementação da faturação eletrónica permitiu evidenciar uma perspetiva prática fundamental à definição de uma estratégia para a massificação da fatura eletrónica nos contratos públicos e sublinhar a necessidade da existência de regras bem definidas sobre a matéria, de modo a evitar a proliferação de requisitos e formatos, e em alguns casos de regras setoriais, aconselhando uma governação técnica centralizada.\n\nComo corolário dos referidos projetos-piloto, destaca-se ainda a identificação de vantagens associadas à existência de valências no apoio à gestão de projetos, segmentado por tipologia de contratos e respetivos volumes, garantindo assim a escalabilidade do investimento, a reutilização, a aceleração da implementação dos projetos de desmaterialização e a rápida disseminação.\n\nCompreende-se, assim, que a implementação da faturação eletrónica em Portugal não se restrinja à estrita necessidade de transposição da Diretiva 2014/55/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014, mas seja, ademais, perspetivada como um instrumento de política, integrado na Estratégia de Promoção do Crescimento Económico e de Consolidação Orçamental, conforme preconizado no Relatório do Orçamento do Estado para 2019.\n\nA implementação da faturação eletrónica em Portugal assume-se como um programa de transformação digital, processual e funcional, assente na normalização, otimização e automatização processual do ciclo da despesa e do ciclo da receita, promovendo a agilização e desmaterialização do relacionamento existente entre as entidades públicas, e destas com os agentes económicos privados, reduzindo os prazos de pagamento, os custos de operação e de transação e garantindo maior fiabilidade e transparência em todas as atividades do processo.\n\nTratando-se de um formato eletrónico desmaterializado, alarga-se a possibilidade de automatização de processos entre entidades públicas numa perspetiva de interoperabilidade dos dados, eliminado, assim, tarefas de intervenção humana que não acrescentem valor, com a melhoria da qualidade e tempestividade da informação.\n\nPotencia-se, desta forma, a otimização da gestão da tesouraria e da implementação da Reforma da Gestão da Tesouraria Pública preconizada pela nova Lei de Enquadramento Orçamental, no âmbito do projeto em desenvolvimento pela Unidade de Implementação da nova Lei de Enquadramento Orçamental, em articulação com o Banco Mundial.\n\nAtenta a complexidade inerente à implementação da faturação eletrónica, considera-se que a disseminação deste programa transformacional requer uma execução gradual, designadamente atendendo às particularidades das pequenas e médias empresas, garantindo-se a gestão da mudança necessária à implementação efetiva dos objetivos.\n\nProcede-se, assim, à alteração das condições de aplicação e dos prazos relativos à faturação eletrónica constantes da norma transitória do Decreto-Lei n.º 111-B/2017, de 31 de agosto, salvaguardando o estrito cumprimento dos prazos e condições determinados pela Diretiva 2014/55/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014.\n\nAdicionalmente, introduz-se um modelo de governação da implementação da faturação eletrónica conducente à consolidação desta solução e à capacitação das entidades públicas para este efeito, criando-se condições que permitam aos fornecedores da Administração Pública integrarem de forma generalizada este modelo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "117509173": {
+   "fragment_id": "117514570",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei define o modelo de governação para a implementação da faturação eletrónica nos contratos públicos.\n\n2 - O presente decreto-lei procede ainda à primeira alteração ao Decreto-Lei n.º 111-B/2017, de 31 de agosto."
+  },
+  "117509174": {
+   "fragment_id": "117514571",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 111-B/2017, de 31 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 111-B/2017, de 31 de agosto\n\nO artigo 9.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, passa a ter a seguinte redação:\n\n«Artigo 9.º\n\n[...]\n\n1 - Os contraentes públicos referidos no artigo 3.º do Código dos Contratos Públicos são obrigados, a partir de 18 de abril de 2019, a receber e a processar faturas eletrónicas no modelo a que se refere o n.º 3 do artigo 299.º-B do mesmo Código, sem prejuízo do estabelecido no número seguinte.\n\n2 - O prazo referido no número anterior é alargado até 18 de abril de 2020 para os contraentes públicos que não integrem as alíneas a) e d) do n.º 1 do artigo 2.º do Código dos Contratos Públicos.\n\n3 - Até 17 de abril de 2020 os cocontratantes podem utilizar mecanismos de faturação diferentes dos previstos no artigo 299.º-B do Código dos Contratos Públicos, sem prejuízo do estabelecido no número seguinte.\n\n4 - O prazo referido no número anterior é alargado até 31 de dezembro de 2020 para as micro, pequenas e médias empresas, definidas nos termos da Recomendação 2003/361/CE, da Comissão Europeia, de 6 de maio de 2003, e para as entidades públicas enquanto entidades cocontratantes.\n\n5 - As empresas e entidades referidas nos números anteriores, que utilizem mecanismos de faturação diferentes dos previstos no artigo 299.º-B do Código dos Contratos Públicos até ao termo dos prazos estabelecidos no presente artigo, não podem, em caso algum, ser objeto de discriminação por parte dos contraentes públicos no âmbito dos procedimentos previstos no referido Código.\n\n6 - (Anterior n.º 2.)»"
+  },
+  "117533175": {
+   "fragment_id": "117514572",
+   "type": 11,
+   "heading": "Artigo 3.º — Implementação da faturação eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Implementação da faturação eletrónica\n\n1 - A Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), é a entidade que coordena a implementação da faturação eletrónica para as entidades referidas nos n.os 1 e 2 e na parte final do n.º 4 do artigo 9.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, na redação conferida pelo presente decreto-lei, competindo-lhe a emissão de requisitos técnicos e funcionais que suportam a referida implementação, em concretização do regime definido na portaria a que se refere o n.º 5 do artigo 299.º-B do Código dos Contratos Públicos, assim como desenvolver instrumentos de suporte à gestão da mudança para apoio às mencionadas entidades na implementação da faturação eletrónica.\n\n2 - A ESPAP, I. P., fornece a solução para a receção e o processamento de faturas eletrónicas pelas entidades referidas nos n.os 1 e 2 do artigo 9.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, na redação conferida pelo presente decreto-lei, atendendo às necessidades e especificidades de cada setor, caso existam, e garantindo o relacionamento e colaboração eletrónica com os cocontratantes, nas seguintes condições de adesão:\n\na) Integram o âmbito de entidades vinculadas à utilização obrigatória do sistema de faturação eletrónica fornecido pela ESPAP, I. P., os serviços da Administração direta do Estado e os institutos públicos;\n\nb) Integram o âmbito de entidades voluntárias que podem aderir ao sistema de faturação eletrónica fornecido pela ESPAP, I. P., os serviços e entidades não referidos no número anterior, incluindo a Presidência da República, a Assembleia da República, a Procuradoria-Geral da República, os tribunais, as entidades administrativas independentes com funções de regulação, as entidades do setor público empresarial e as instituições de ensino superior públicas previstas na Lei n.º 62/2007, de 10 de setembro, independentemente da sua natureza.\n\n3 - A adesão das entidades voluntárias a que se refere a alínea b) do número anterior faz-se mediante a celebração de contrato com a ESPAP, I. P.\n\n4 - A ESPAP, I. P., disponibiliza uma solução de emissão de faturação eletrónica para as Administrações Públicas, de acordo com a norma europeia sobre faturação eletrónica, nos termos definidos mediante instruções técnicas emitidas pela ESPAP, I. P., à qual as entidades podem aderir mediante celebração de contrato com a ESPAP, I. P.\n\n5 - As soluções referidas nos n.os 2 e 4 asseguram os dados e o correspondente tratamento, de modo que permitam salvaguardar o cabal processamento das faturas rececionadas e emitidas, incluindo a comunicação com as entidades emissoras e recetoras.\n\n6 - O valor a pagar pelas soluções de faturação eletrónica referidas nos números anteriores é aprovado por despacho do membro do Governo responsável pela área das finanças.\n\n7 - As eventuais necessidades e especificidade de cada setor, referidas no n.º 2, são definidas por portaria dos membros do Governo responsáveis pela área das finanças e do setor de atividade em questão."
+  },
+  "117533176": {
+   "fragment_id": "117514573",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 1 de janeiro de 2019."
+  },
+  "131229431": {
+   "fragment_id": "117514572",
+   "type": 11,
+   "heading": "Artigo 3.º — Implementação da faturação eletrónica",
+   "in_force_from": "2020-04-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 14-A/2020 - Diário da República n.º 69/2020, 1º Suplemento, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-a-2020-131228424), em vigor a partir de 2020-04-08"
+   ],
+   "markdown": "###### Artigo 3.º — Implementação da faturação eletrónica\n\n1 - A Entidade de Serviços Partilhados da Administração Pública, I. P. (ESPAP, I. P.), é a entidade que coordena a implementação da faturação eletrónica para as entidades referidas nos n.os 1 e 2 e na parte final do n.º 4 do artigo 9.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, na redação conferida pelo presente decreto-lei, competindo-lhe a emissão de requisitos técnicos e funcionais que suportam a referida implementação, em concretização do regime definido na portaria a que se refere o n.º 5 do artigo 299.º-B do Código dos Contratos Públicos, assim como desenvolver instrumentos de suporte à gestão da mudança para apoio às mencionadas entidades na implementação da faturação eletrónica.\n\n2 - A ESPAP, I. P., fornece a solução para a receção e o processamento de faturas eletrónicas pelas entidades referidas nos n.os 1 e 2 do artigo 9.º do Decreto-Lei n.º 111-B/2017, de 31 de agosto, na redação conferida pelo presente decreto-lei, atendendo às necessidades e especificidades de cada setor, caso existam, e garantindo o relacionamento e colaboração eletrónica com os cocontratantes, nas seguintes condições de adesão:\n\na) Integram o âmbito de entidades vinculadas à utilização obrigatória do sistema de faturação eletrónica fornecido pela ESPAP, I. P., os serviços da Administração direta do Estado e os institutos públicos;\n\nb) Integram o âmbito de entidades voluntárias que podem aderir ao sistema de faturação eletrónica fornecido pela ESPAP, I. P., os serviços e entidades não referidos no número anterior, incluindo a Presidência da República, a Assembleia da República, a Procuradoria-Geral da República, os tribunais, as entidades administrativas independentes com funções de regulação, as entidades do setor público empresarial e as instituições de ensino superior públicas previstas na Lei n.º 62/2007, de 10 de setembro, independentemente da sua natureza.\n\n3 - A adesão das entidades voluntárias a que se refere a alínea b) do número anterior faz-se mediante a celebração de contrato com a ESPAP, I. P.\n\n4 - A ESPAP, I. P., disponibiliza uma solução de emissão de faturação eletrónica para as Administrações Públicas, de acordo com a norma europeia sobre faturação eletrónica, nos termos definidos mediante instruções técnicas emitidas pela ESPAP, I. P., à qual as entidades podem aderir mediante celebração de contrato com a ESPAP, I. P.\n\n5 - As soluções referidas nos n.os 2 e 4 asseguram os dados e o correspondente tratamento, de modo que permitam salvaguardar o cabal processamento das faturas rececionadas e emitidas, incluindo a comunicação com as entidades emissoras e recetoras.\n\n6 - O valor a pagar pelas soluções de faturação eletrónica referidas nos números anteriores é aprovado por despacho do membro do Governo responsável pela área das finanças.\n\n7 - As eventuais necessidades e especificidade de cada setor, referidas no n.º 2, são definidas por portaria dos membros do Governo responsáveis pela área das finanças e do setor de atividade em questão.\n\n8 - Para efeitos do n.º 4 e das alíneas a) e b) do n.º 2 do artigo 12.º do Decreto-Lei n.º 28/2019, de 15 de fevereiro, considera-se garantida a autenticidade da origem e a integridade do conteúdo das faturas e demais documentos fiscalmente relevantes emitidos por via eletrónica, mediante a aposição de assinatura eletrónica qualificada da ESPAP, I. P., quando munida de poderes bastantes na emissão do documento em nome e por conta do sujeito passivo.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 14-A/2020 - Diário da República n.º 69/2020, 1º Suplemento, Série I de 2020-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-a-2020-131228424), em vigor a partir de 2020-04-08"
+  },
+  "117533177": {
+   "fragment_id": "117514574",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de dezembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Pedro Manuel Dias de Jesus Marques.\n\nPromulgado em 21 de dezembro de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 26 de dezembro de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111943931"
+  }
+ }
+}

@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:324759:por
+title: Despacho Normativo n.º 331/78
+short_title: null
+summary: Fixa o valor provisório das acções ou partes de capital das empresas nacionalizadas dos sectores bancário e de seguros
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças e do Plano - Gabinete do Ministro
+proposing_entity: null
+official_number: 331/78
+official_date: null
+publication_date: '1978-12-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 288/1978, Série I de 1978-12-16
+  number: '288'
+  series: I
+  supplement: null
+  pages: 2656 - 2658
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/12/28800/26562658.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '324759'
+  dre_path: /dr/detalhe/despacho-normativo/331-1978-324759
+  internal: pt:dre:324759:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/331-1978-324759
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/331-1978-324759
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-12-16T00:00:00Z'
+integrity:
+  source_sha256: c64d9616ef7598dd9e2a58a6eaa2801d7fa37f5adf62b765437b051cc02de0fd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-331-324759.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 331/78
+
+Nos termos do artigo 9.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, o Ministro das Finanças e do Plano fixará, por despacho publicado no Diário da República, o valor provisório das acções ou partes de capital das empresas nacionalizadas.
+
+O cálculo de tais valores provisórios, cujos critérios são, nas suas linhas gerais, mencionados no artigo 5.º do [Decreto-Lei n.º 528/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1976-431430), de 7 de Julho, e no artigo 8.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), tem na prática deparado com algumas dificuldades, quer na recolha de elementos, quer na ultrapassagem de alguns obstáculos de interpretação quando da aplicação dos princípios a certos casos concretos.
+
+No intuito, porém, de permitir adiantar os processos de tratamento administrativo que deverão conduzir ao apuramento dos valores de indemnização provisórios, parece conveniente, à medida em que cada sector de actividade tenha calculado os valores provisórios correspondentes à quase totalidade das empresas nacionalizadas, promover a sua publicação, aliás, na sequência do procedimento adoptado quanto aos bancos emissores.
+
+O presente despacho, na linha desta orientação, vem dar a conhecer os valores provisórios relativos às sociedades anónimas dos sectores bancário e de seguros.
+
+Na sequência deste despacho, outros irão sendo dados a conhecer no que se refere aos restantes sectores nacionalizados.
+
+Parece, contudo, conveniente registar alguns critérios que tiveram de ser adoptados para se poderem definir os valores provisórios.
+
+Assim:
+
+Quando as empresas não tenham tido cotação na Bolsa em qualquer dos anos de 1964 a 1973, apurou-se a média aritmética dos dividendos do decénio e determinou-se o correspondente valor de capital usando-se como taxa de cálculo a que resulta da aplicação da taxa determinada para o sector relativa às empresas desse sector que tiverem sido cotadas na Bolsa de Valores.
+
+Para o cálculo da taxa de rendibilidade do sector tomou-se em conta que:
+
+a) As empresas excluídas da avaliação não são consideradas;
+
+b) As empresas com valor de cotação médio determinado, que não tenham distribuído dividendos, foram consideradas no cálculo da taxa do sector;
+
+c) Para as empresas que tenham sido constituídas no decurso do período de 1964 a 1973, o rendimento médio foi o correspondente à média dos anos de actividade efectiva;
+
+d) Sempre que tenham sido determinados valores de cotação médios diferentes para acções ao portador e acções nominativas, ambos os valores foram considerados na determinação da taxa média do sector.
+
+Quando nenhuma das empresas pertencentes a um mesmo sector haja sido cotada na Bolsa de Valores, o valor do capital será o correspondente a vinte vezes o rendimento calculado com base na média aritmética dos dividendos distribuídos durante os anos de 1964 a 1973.
+
+Quando da aplicação dos critérios anteriormente indicados resultar um valor de indemnização inferior ao valor provisório apurado pelo balanço na data da nacionalização ou, na falta deste, pelo balanço em 31 de Dezembro de 1974, prevalecerá como indemnização provisória este último valor.
+
+Quando da aplicação do n.º 3 do artigo 5.º do [Decreto-Lei n.º 582/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1976-430816) resultar um valor provisório inferior ao obtido pelo cálculo efectuado nos termos do n.º 2 do mesmo artigo, o valor determinado por este cálculo será o escolhido para indemnização provisória.
+
+Tendo em conta os princípios que acabam de ser definidos, publicam-se os valores provisórios das sociedades anónimas nacionalizadas pertencentes aos sectores bancário e de seguros.
+
+Bancos e outras instituições monetárias e financeiras
+
+Designação: ... Valor provisório
+
+Banco Agrícola e Industrial Viseense, S. A. R. L. ... 779$18
+
+Banco da Agricultura, S. A. R. L. ... 962$80
+
+Banco do Algarve, S. A. R. L. ... 329$81
+
+Banco Borges & Irmão, S. A. R. L. ... 1583$44
+
+Banco Espírito Santo e Comercial de Lisboa, S. A. R. L.:
+
+Acções ao portador ... 2477$32
+
+Acções nominativas ... 2242$66
+
+Banco Fernandes Magalhães, S. A. R. L. ... 1718$30
+
+Banco de Fomento Nacional, S. A. R. L. ... 2048$38
+
+Banco Fonsecas & Burnay, S. A. R. L. ... 14495$55
+
+Banco Micaelense, S. A. R. L. ... 75$19
+
+Banco Pinto de Magalhães, S. A. R. L. ... 1492$96
+
+Banco Pinto & Sotto Mayor, S. A. R. L. ... 1937$56
+
+Banco Português do Atlântico, S. A. R. L. ... 3142$34
+
+Banco Totta & Açores, S. A. R. L. ... 1732$05
+
+Crédito Predial Português, S. A. R. L. ... 1250$92
+
+Sociedade Geral de Comércio, Indústria e Transportes, S. A. R. L. ... 17471$54
+
+Sogefi, Sociedade de Gestão e Financiamentos, S. A. R. L. ... 7079$90
+
+Não foram incluídos nesta relação o Banco do Alentejo, o Banco Intercontinental Português e a Sociedade Financeira Portuguesa, cuja situação patrimonial não está suficientemente clarificada para atribuição de valores provisórios.
+
+Seguros
+
+...
+
+Designação: Valor provisório
+
+Companhia de Seguros A Mundial, S. A. R. L. ... 553$83
+
+Companhia de Seguros A Nacional ... 5728$80
+
+A Pátria - Companhia Alentejana de Seguros, S. A. R. L. ... 4016$38
+
+A Seguradora Industrial - Companhia Nacional de Seguros, S. A. R. L. ... 1292$34
+
+A Social - Companhia Portuguesa de Seguros, S. A. R. L. ... 312$57
+
+Companhia de Seguros Açoreana, S. A. R. L. ... 76$10
+
+Companhia de Seguros Aliança Madeirense, S. A. R. L. ... 313$39
+
+Companhia de Seguros Argus, S. A. R. L. ... 1293$95
+
+Atlas - Companhia de Seguros, S. A. R. L. ... 409$64
+
+Companhia de Seguros Bonança, S. A. R. L. ... 2881$47
+
+Companhia de Seguros Comércio e Indústria, S. A. R. L. ... 4015$77
+
+Companhia de Seguros Confiança, S. A. R. L. ... 989$50
+
+Cosec - Companhia de Seguros de Créditos, S. A. R. L. ... 1133$75
+
+Companhia de Seguros Douro, S. A. R. L. ... 5832$08
+
+Companhia Europeia de Seguros, S. A. R. L. ... 268$97
+
+Companhia de Seguros Fidelidade, S. A. R. L. ... 141646$17
+
+Companhia de Seguros Garantia, S. A. R. L. ... 4555$20
+
+Companhia de Seguros Garantia Funchalense, S. A. R. L. ... 160$28
+
+Idem, idem, artigo 5.º, n.º 3, do [Decreto-Lei n.º 528/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1976-431430), 4.ª emissão (subscrição pública) ... 166$33
+
+Companhia de Seguros Império, S. A. R. L. ... 7707$84
+
+Companhia de Seguros Metrópole, S. A. R. L. ... 1451$90
+
+Mutual - Companhia de Seguros, S. A. R. L. ... 798$73
+
+Companhia de Seguros Mutualidade, S. A. R. L. ... 673$39
+
+O Alentejo - Companhia de Seguros, S. A. R. L. ... 93$90
+
+O Trabalho - Companhia de Seguros, S. A. R. L. ... 467$43
+
+Companhia de Seguros Ourique, S. A. R. L. ... 2583$60
+
+Companhia de Seguros Portugal, S. A. R. L. ... 3229$21
+
+Portugal Previdente - Companhia de Seguros, S. A. R. L. ... 2072$04
+
+Companhia de Seguros Sagres, S. A. R. L. ... 12939$62
+
+Companhia de Seguros Soberana, S. A. R. L. ... 1265$25
+
+Companhia de Seguros Tagus, S. A. R. L. ... 7439$78
+
+Companhia de Seguros Tranquilidade, S. A. R. L. ... 1763$43
+
+Companhia de Seguros Ultramarina, S. A. R. L. ... 26199$87
+
+Companhia de Seguros União, S. A. R. L. ... 4141$91
+
+Companhia de Seguros Universal, S. A. R. L. ... 5463$16
+
+Sociedade Portuguesa de Seguros, S. A. R. L. ... 715$12
+
+Câmara Resseguradora Portuguesa ... 572$11
+
+Continental de Resseguros, S. A. R. L. ... 1368$87
+
+Prudência - Companhia Portuguesa de Resseguros ... 5701$42
+
+Companhia Portuguesa de Resseguros Equidade, S. A. R. L. ... 82633$37
+
+Companhia de Seguros Vitalícia ... 125$32
+
+As acções das empresas acima indicadas, abrangidas pelo artigo 12.º do [Decreto-Lei n.º 528/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/528-1976-431430), terão como valor de indemnizações o valor de subscrição, nos termos do despacho do Secretário de Estado das Finanças de 8 de Novembro de 1978.
+
+Ministério das Finanças e do Plano, 10 de Novembro de 1978. - O Ministro das Finanças e do Plano, José da Silva Lopes.

@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:321343:por
+title: Decreto-Lei n.º 154-A/2001
+short_title: null
+summary: Cessa a suspensão da vigência das normas do Decreto-Lei n.º 273/98, de 2 de Setembro, no que respeita às operações
+  de co-incineração de resíduos industriais perigosos, incluindo a avaliação e selecção de locais para queimas e tratamento
+  desses resíduos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 154-A/2001
+official_date: null
+publication_date: '2001-05-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/2001, 1º Suplemento, Série I-A de 2001-05-08
+  number: '106'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2718-(2) a 2718-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/05/106a01/00020004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/154-a/2001/05/08/p/dre/pt/html
+  oj: null
+  dre: '321343'
+  dre_path: /dr/detalhe/decreto-lei/154-a-2001-321343
+  internal: pt:dre:321343:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-a-2001-321343
+  metadata_url: https://data.dre.pt/eli/dec-lei/154-a/2001/05/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-a-2001-321343
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-05-08T00:00:00Z'
+integrity:
+  source_sha256: 6e1a440a7ae26cf22a8a6903ac2fd64dab8d4827f36eb5587f916203738f0b40
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-154-A-321343.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Industrial
+- Gestão de Resíduos
+- Fiscalização
+- Incineração de Resíduos
+- Avaliação de Impacte Ambiental
+- Política do Ambiente
+- Poluição Industrial
+- Eliminação de Resíduos
+relationships:
+- type: cites
+  target: celex:31994L0067
+  label: null
+  source: http://data.europa.eu/eli/dir/1994/67/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/273/1998/09/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/273/1998/09/02/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 154-A/2001
+
+de 8 de Maio
+
+O processo de implementação da co-incineração como forma de eliminação de resíduos industriais perigosos tem-se arrastado no tempo, encontrando-se assim por resolver um dos mais graves problemas ambientais do nosso país, consistente na ausência de tratamento adequado daquele tipo de resíduos e na existência de um conjunto significativo de locais contaminados, onde são depositados clandestinamente toda a espécie de resíduos industriais.
+
+A política do Governo em matéria de eliminação dos resíduos industriais perigosos está há muito definida: nos termos da Resolução do Conselho de Ministros n.º 98/97, de 25 de Junho, o XIII Governo Constitucional definiu uma estratégia de gestão dos resíduos industriais capaz de conduzir a uma gestão eficiente, moderna e adequada deste tipo de resíduos, clarificando regras e identificando as responsabilidades dos diversos intervenientes.
+
+No que diz respeito em especial aos resíduos industriais perigosos, o Governo, considerando as vantagens ambientais e económicas comprovadas em vários estudos comparativos, a garantia da inviolabilidade da legislação nacional e europeia, a existência de um saldo de custo-benefício favorável quer para a indústria nacional quer para o ambiente, bem como a celeridade na implementação deste sistema, optou pela solução co-incineração em unidades cimenteiras nacionais, como forma preferencial de tratamento de resíduos industriais perigosos incineráveis que não sejam susceptíveis de redução ou reciclagem.
+
+Nessa conformidade, o XIII Governo Constitucional, através do Decreto-Lei n.º 273/98, de 2 de Setembro, estabeleceu as regras a que fica sujeita a incineração de resíduos perigosos por forma a prevenir ou reduzir ao mínimo os efeitos negativos no ambiente, em especial a poluição do ar, do solo e das águas superficiais e subterrâneas, bem como os riscos para a saúde pública, transpondo para o direito interno, no mesmo instrumento normativo, as disposições constantes da Directiva n.º [94/67/CE](https://data.europa.eu/eli/dir/1994/67/oj?locale=pt), de 16 de Dezembro.
+
+Tendo sido apresentado pelo sector cimenteiro um estudo de impacte ambiental da co-incineração de resíduos industriais perigosos, foi nomeada a respectiva comissão de avaliação do impacte ambiental, nos termos do despacho conjunto n.º 541/98, de 21 de Julho, do Ministro do Equipamento, do Planeamento e da Administração do Território e da Ministra do Ambiente. Entre 31 de Agosto e 23 de Novembro de 1998, foram realizadas diversas audiências públicas, designadamente nas localizações de Souselas, Maceira, Alhandra e Outão, onde se admitia a implementação nas cimenteiras nelas existentes do processo de co-incineração. Em 21 de Dezembro de 1998, foi concluído o parecer da comissão de AIA relativo ao projecto de eliminação de resíduos industriais pelo sector cimenteiro.
+
+Considerando, porém, não estar suficientemente esclarecida a propósito das vantagens ambientais e económicas emergentes da implementação do processo de co-incineração nas cimenteiras nacionais e da inexistência de riscos para a saúde pública, a Assembleia da República, através do artigo 3.º da Lei n.º 20/99, de 15 de Abril, decretou a suspensão da aplicação do Decreto-Lei n.º 273/98, de 2 de Setembro, desde a sua entrada em vigor, no que respeita às operações de co-incineração de resíduos industriais perigosos, determinando a obrigatoriedade de ser constituída por decreto-lei uma comissão científica independente para relatar e dar parecer relativamente ao tratamento de resíduos industriais perigosos.
+
+Assim sucedeu.
+
+Face às orientações emergentes da referida Lei n.º 20/99, de 15 de Abril, o Governo, através do Decreto-Lei n.º 120/99, de 16 de Abril, criou a Comissão Científica Independente exigida pela Assembleia da República, dotando-a de personalidade jurídica e de autonomia administrativa e financeira, de forma que dúvidas não subsistissem a propósito da sua imparcialidade e isenção. Afirmou-se, expressamente, no artigo 6.º deste diploma, o princípio da independência dos membros da Comissão e criaram-se procedimentos necessários à implementação do processo de co-incineração.
+
+Em Maio de 2000, a Comissão Científica Independente constituída ao abrigo da Lei n.º 20/99, de 15 de Abril, concluiu a elaboração do parecer técnico relativo ao tratamento de resíduos industriais perigosos que lhe havia sido encomendado. Para além de aludir à necessidade premente de Portugal dispor de unidades de queima de resíduos industriais perigosos, a Comissão recomendou a implementação do «processo de co-incineração em fornos de unidades cimenteiras por não implicar um acréscimo previsível de emissões nocivas para a saúde quando comparado com a utilização de combustíveis tradicionais, por ter menores impactes ambientais que as incineradoras dedicadas, contribuir para um decréscimo do efeito de estufa, conduzir a uma maior recuperação de energia, por não ter impactes ambientais acrescidos em relação aos da produção de cimento quando respeitando os limites fixados, por razões económicas mais favoráveis em termos de investimentos e de custos de operação, e por se revelar como uma solução mais flexível para a gestão dos RIP, permitindo acompanhar melhor a evolução tecnológica».
+
+A Comissão recomendou, por outro lado, que o processo de co-incineração fosse implementado nas cimenteiras de Souselas (Coimbra) e do Outão (Setúbal) e, bem assim, que fossem tidas em consideração determinadas regras e medidas cautelares destinadas a garantir a inexistência de impactes ambientais acrescidos em relação à produção de cimento e à ausência de riscos para as populações e a segurança dos operadores.
+
+À luz do parecer da Comissão Científica Independente, o Governo, através das Resoluções do Conselho de Ministros n.os 91/2000 e 92/2000, ambas de 20 de Julho, acolheu a preferência manifestada pela Comissão Científica Independente pela localização do projecto de co-incineração nas unidades cimenteiras de Souselas (Coimbra) e do Outão (Setúbal) e optou, em definitivo, pela co-incineração como método de tratamento de resíduos industriais perigosos.
+
+A Assembleia da República, porém, através da Lei n.º 22/2000, de 10 de Agosto, que alterou a redacção dos artigos 4.º e 5.º da referida Lei n.º 20/99, de 15 de Abril, conferiu um novo mandato à Comissão Científica Independente, exigindo desta Comissão, através da criação no seu seio de um grupo de trabalho médico, a elaboração de um relatório específico que avaliasse o impacte sobre a saúde pública dos processos de queima de resíduos industriais perigosos. No mesmo sentido, a Assembleia da República determinou que, antes de adoptar qualquer nova medida legislativa neste domínio, o Governo deveria dar conhecimento à Assembleia da República do novo relatório da Comissão Científica Independente, mantendo-se até esse momento a suspensão do Decreto-Lei n.º 273/78, de 2 de Setembro.
+
+A Lei n.º 22/2000, de 10 de Agosto, foi promulgada e determinou a continuidade da suspensão do Decreto-Lei n.º 273/78, de 2 de Setembro. O Presidente da República, porém, em mensagem dirigida à Assembleia da República datada de 27 de Julho de 2000, fez questão de salientar que a lei em referência - a quarta lei que, no período de pouco mais de um ano, a Assembleia da República aprovou sobre esta matéria, com o intuito de revogar, alterar ou suspender os três decretos-leis que no mesmo período foram aprovados pelo Governo - deverá ser entendida como «um último contributo para a decisão política do problema», devendo o relatório sobre o impacte dos processos de queima de resíduos industriais perigosos sobre a saúde pública - cuja elaboração a lei regula - «ser o último procedimento a anteceder as decisões políticas que urge tomar sobre o problema ambiental em apreço».
+
+O grupo de trabalho médico constituído no seio da Comissão Científica Independente concluiu o seu relatório afirmando que «para efeitos do n.º 4 do artigo 5.º da Lei n.º 22/2000, de 10 de Agosto, e uma vez asseguradas as condições anteriormente enunciadas, entende-se, tendo em conta o estado actual dos conhecimentos e os resultados de estudos realizados noutros países em condições similares, dar parecer positivo ao desenvolvimento das operações de co-incineração de resíduos industriais».
+
+À luz do aludido relatório do grupo de trabalho médico, o Governo, através do despacho n.º 538/2001 (2.ª série), de 12 de Janeiro, do Ministro do Ambiente e do Ordenamento do Território, determinou o envio imediato daquele relatório à Assembleia da República e a abertura, nos termos legalmente exigíveis, de um período de 60 dias de discussão pública sobre as recomendações e conclusões dos relatórios da Comissão Científica Independente; a adopção de medida legislativa destinada a fazer cessar a suspensão do Decreto-Lei n.º 273/98, de 2 de Setembro; o acolhimento da localização do projecto de co-incineração nas unidades cimenteiras de Souselas (Coimbra) e do Outão (Setúbal); a autorização provisória para a realização dos testes em cimenteiras, e a autorização definitiva para a realização de operações de co-incineração em cimenteiras, em qualquer dos casos nos termos do parecer da Comissão Científica Independente.
+
+O período de discussão pública iniciou-se em 28 de Dezembro de 2000 e cessou em 23 de Março de 2001, tendo o Instituto de Promoção Ambiental (IPAMB) facultado a todos os interessados a documentação (relatórios da Comissão Científica Independente) referida nos artigos 4.º e 5.º da Lei n.º 20/99, de 15 de Abril, com a redacção que lhes foi conferida pela Lei n.º 22/2000, de 10 de Agosto.
+
+Na sequência do período de discussão pública, o IPAMB recebeu cerca de 11650 pareceres escritos, provenientes de particulares e de diversas entidades públicas e privadas, designadamente da administração central, administração local, partidos políticos, organizações não governamentais de ambiente, associações cívicas e sindicais.
+
+Face ao volume de documentação recolhida, o IPAMB elaborou um «relatório da discussão pública relativa ao tratamento de resíduos industriais perigosos», tendo este, acompanhado dos pareceres efectivamente recebidos, sido enviado à Comissão Científica Independente para apreciação, tendo em conta a natureza eminentemente técnica de alguns dos pareceres que lhe foram apresentados.
+
+A Comissão Científica Independente, na sequência da análise que efectuou ao relatório elaborado pelo IPAMB e respectiva documentação instrutória, elaborou por sua vez um novo documento, onde se conclui que os factos e argumentos invocados e aduzidos pelos particulares e demais entidades interessadas no âmbito do período de discussão pública «não são susceptíveis de pôr em causa ou de afastar as conclusões e os argumentos técnicos e de natureza científica que presidiram à elaboração dos relatórios da CCI e do grupo de trabalho médico, GTM, que decidiram ser a co-incineração em cimenteiras a metodologia mais apropriada para o tratamento de um grupo importante de resíduos industriais perigosos».
+
+Tendo em conta o primeiro relatório apresentado pela Comissão Científica Independente, que aponta de forma inequívoca para a possibilidade de se implementar «processo de co-incineração em fornos de unidades cimenteiras»; tendo em conta o relatório apresentado pelo grupo médico criado no seio da Comissão Científica Independente, que deu «parecer positivo ao desenvolvimento das operações de co-incineração de resíduos industriais», tendo em conta que a mesma Comissão Científica Independente concluiu, mais recentemente, que os factos e argumentos invocados pelos particulares e demais entidades interessadas no âmbito do período de discussão pública não são susceptíveis de pôr em causa ou de afastar as conclusões e argumentos técnicos e de natureza científica que presidiram à elaboração dos dois relatórios por ela apresentados; conclui-se que não mais faz sentido a subsistência do regime de suspensão do Decreto-Lei n.º 273/98, de 2 de Setembro, atenta a inexistência de motivos que a justifiquem.
+
+Considerando o disposto nos artigos 3.º, 4.º, 5.º e 7.º da Lei n.º 20/99, de 15 de Abril, com a redacção que foi conferida aos artigos 4.º, 5.º e 7.º pela Lei n.º 22/2000, de 10 de Agosto:
+
+Assim:
+
+Nos termos da alínea a) do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único — Cessação da suspensão
+
+Cessa a suspensão da vigência das normas do Decreto-Lei n.º 273/98, de 2 de Setembro, no que respeita às operações de co-incineração de resíduos industriais perigosos, incluindo a avaliação e selecção de locais para queima e tratamento desses resíduos.
+
+Visto e aprovado em Conselho de Ministros de 12 de Abril de 2001. - António Manuel de Oliveira Guterres - José Sócrates Carvalho Pinto de Sousa.
+
+**Promulgado em 3 de Maio de 2001.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 7 de Maio de 2001.**
+
+**O Primeiro-Ministro, em exercício, Jaime José Matos da Gama.**

@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:693814:por
+title: Decreto-Lei n.º 465/99
+short_title: null
+summary: Alarga o âmbito pessoal do Decreto-Lei n.º 335/90, de 29 de Outubro, aos não residentes em Portugal e retira o prazo
+  para requerer o reconhecimento do direito aos períodos contributivos verificados nas caixas de previdência dos territórios
+  das ex-colónias portuguesas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 465/99
+official_date: null
+publication_date: '1999-11-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 258/1999, Série I-A de 1999-11-05
+  number: '258'
+  series: I
+  supplement: null
+  pages: 7715 - 7715
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/11/258a00/77157715.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/465/1999/11/05/p/dre/pt/html
+  oj: null
+  dre: '693814'
+  dre_path: /dr/detalhe/decreto-lei/465-1999-693814
+  internal: pt:dre:693814:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1999-693814
+  metadata_url: https://data.dre.pt/eli/dec-lei/465/1999/11/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/465-1999-693814
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-11-05T00:00:00Z'
+integrity:
+  source_sha256: bc8843d22878e3540e6b60aa121d92d3cb4f83116bef98c93848e02626b0b6aa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-465-693814.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Regional de Segurança Social de Lisboa e VALE do TEJO
+- Cidadão Nacional
+- Contribuições da Segurança Social
+- Definição de Competências
+- Administração Ultramarina
+- Residência
+- Caixa de Previdência
+- Pensões
+- Prestações da Segurança Social
+- Prova
+- Desalojado
+- Segurança Social
+- Administração Colonial
+relationships: []
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 465/99
+
+de 5 de Novembro
+
+O [Decreto-Lei n.º 335/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1990-565978), de 29 de Outubro, veio atribuir o direito ao reconhecimento, no âmbito do sistema de segurança social português, dos períodos contributivos verificados nas caixas de previdência de inscrição obrigatória dos territórios das ex-colónias portuguesas, até à independência desses territórios, às pessoas que, cumulativamente, preenchessem os requisitos previstos nas alíneas a), b) e c) do n.º 1 do artigo 1.º
+
+O disposto na citada alínea c), no sentido de exigir que os interessados residissem em Portugal, tem vindo a gerar algumas situações de injustiça, atendendo à desigualdade de tratamento verificada entre cidadãos nacionais, pelo simples facto de não residirem em território português.
+
+Considera-se, portanto, adequado alargar aos nacionais não residentes em Portugal o estabelecido no [Decreto-Lei n.º 335/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1990-565978), de 29 de Outubro.
+
+É esse o objectivo do presente diploma, que retira também qualquer prazo para requerer o reconhecimento ao direito estabelecido no [Decreto-Lei n.º 335/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1990-565978), de 29 de Outubro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 1.º, 3.º e 6.º do [Decreto-Lei n.º 335/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1990-565978), de 29 de Outubro, passam a ter a seguinte redacção:
+
+«Artigo 1.º
+
+Direito ao reconhecimento dos períodos contributivos nas ex-colónias portuguesas
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) Residam ou não em Portugal.
+
+2 - ...
+
+###### Artigo 3.º — Requerimento
+
+A abertura do processo para reconhecimento dos períodos contributivos em questão depende da apresentação de requerimento do interessado, devidamente instruído com:
+
+a) Documentos que constituem meio de prova legal da sua identificação;
+
+b) ...
+
+c) ...
+
+###### Artigo 6.º — Instituição competente
+
+1 - ...
+
+2 - No caso de o interessado não residir em território nacional, a instituição competente para os efeitos do presente diploma é o Centro Regional de Segurança Social de Lisboa e Vale do Tejo.»
+
+###### Artigo 2.º
+
+É revogado o artigo 4.º do [Decreto-Lei n.º 335/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1990-565978), de 29 de Outubro.
+
+###### Artigo 3.º
+
+O presente diploma reporta os seus efeitos à data da entrada em vigor do [Decreto-Lei n.º 335/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1990-565978), de 29 de Outubro.
+
+Visto e aprovado em Conselho de Ministros de 16 de Setembro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Eduardo Luís Barreto Ferro Rodrigues.
+
+**Promulgado em 22 de Outubro de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 26 de Outubro de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

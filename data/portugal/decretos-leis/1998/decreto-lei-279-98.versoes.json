@@ -1,0 +1,266 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:241404:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-1016096986",
+ "dre_path": "/dr/detalhe/decreto-lei/279-1998-241404",
+ "source_lastmod": "2026-02-24",
+ "versions": [
+  {
+   "date": "2003-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571434:por",
+     "title": "Decreto-Lei n.º 91/2003",
+     "published": "2003-04-30",
+     "dre_path": "/dr/detalhe/decreto-lei/91-2003-571434"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "1016150475",
+    "1016150675",
+    "1060460875",
+    "1016151075",
+    "1016151275",
+    "1016151475",
+    "1016151675",
+    "1060461075",
+    "1016152075",
+    "1016152275",
+    "1016152475",
+    "1016152675"
+   ]
+  },
+  {
+   "date": "2012-02-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:542984:por",
+     "title": "Decreto-Lei n.º 40/2012",
+     "published": "2012-02-20",
+     "dre_path": "/dr/detalhe/decreto-lei/40-2012-542984"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "1016150475",
+    "1016150675",
+    "1060876475",
+    "1016151075",
+    "1060876675",
+    "1016151475",
+    "1016151675",
+    "1060461075",
+    "1016152075",
+    "1016152275",
+    "1016152475",
+    "1016152675"
+   ]
+  },
+  {
+   "date": "2012-12-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:189946:por",
+     "title": "Decreto-Lei n.º 261/2012",
+     "published": "2012-12-17",
+     "dre_path": "/dr/detalhe/decreto-lei/261-2012-189946"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "1016150475",
+    "1016150675",
+    "1060876475",
+    "1062414775",
+    "1062414975",
+    "1016151475",
+    "1016151675",
+    "1062415175",
+    "1062415875",
+    "1016152275",
+    "1016152475",
+    "1016152675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1016150475": {
+   "fragment_id": "1016150375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O novo tipo de bilhetes do Tesouro (BT) criado em 1985 representou uma inovação para o mercado monetário e constituiu-se como instrumento de execução da política monetária.\n\nEste contexto foi profundamente modificado no decurso desta década. Com a evolução do mercado financeiro em geral e do mercado monetário em particular, onde o Banco de Portugal passou a dispor de instrumentos próprios de intervenção, os BT perderam o relevo que detinham para esse mercado. Para lá desse facto, os deveres comunitários impostos pela preparação da 3.ª fase da União Económica e Monetária (UEM) determinaram uma clara independência dos bancos centrais, impedindo que continuassem a financiar, sob qualquer forma, os Estados membros. A combinação destes factores acabou por sentenciar uma progressiva metamorfose dos BT, reduzindo-os à sua primacial finalidade de financiamento do Estado.\n\nEste diploma, contudo, não responde apenas a essa evolução. Decreta uma revisão do regime dos BT orientada pela participação de Portugal na 3.ª fase da UEM e pela reforma do regime do endivadamento público, iniciada com a criação do Instituto de Gestão do Crédito Público e prosseguida com a recente aprovação, pela Assembleia da República, do regime geral de emissão e gestão da dívida pública, aprovado pela Lei n.º 7/98, de 3 de Fevereiro, nos termos da qual, e ao abrigo do seu artigo 21.º, se aprova o presente diploma.\n\nA participação de Portugal na União Monetária reclama uma flexível gestão da dívida pública, o que explica e justifica a concessão ao Instituto de Gestão do Crédito Público de poderes para adaptar os BT a uma acrescida concorrência num mercado de dívida em euros, conferindo à dívida de curto prazo a necessária competitividade nesse mercado.\n\nTudo em obediência ao princípio de aproveitamento pelo Estado das melhores condições financeiras de endividamento.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1016150675": {
+   "fragment_id": "1016150575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico dos bilhetes do Tesouro."
+  },
+  "1060460875": {
+   "fragment_id": "1016150775",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção",
+   "in_force_from": "2003-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), em vigor a partir de 2003-05-01."
+   ],
+   "markdown": "###### Artigo 2.º — Noção\n\nOs bilhetes do Tesouro são valores mobiliários escriturais representativos de empréstimos de curto prazo da República Portuguesa, denominados em moeda com curso legal em Portugal.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), em vigor a partir de 2003-05-01."
+  },
+  "1016151075": {
+   "fragment_id": "1016150975",
+   "type": 11,
+   "heading": "Artigo 3.º — Valor nominal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Valor nominal\n\nSalvo deliberação em contrário do conselho directivo do Instituto de Gestão do Crédito Público, o valor nominal unitário dos bilhetes do Tesouro corresponde à mais pequena subunidade da moeda com curso legal em Portugal."
+  },
+  "1016151275": {
+   "fragment_id": "1016151175",
+   "type": 11,
+   "heading": "Artigo 4.º — Características e regras de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Características e regras de emissão\n\n1 - Os bilhetes do Tesouro são emitidos por prazos, até um ano, definidos pelo Instituto de Gestão do Crédito Público.\n\n2 - A emissão dos bilhetes do Tesouro efectua-se a desconto e os juros são pagos por dedução no seu valor nominal.\n\n3 - São fungíveis entre si os bilhetes do Tesouro que apresentem a mesma data de vencimento."
+  },
+  "1016151475": {
+   "fragment_id": "1016151375",
+   "type": 11,
+   "heading": "Artigo 5.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Colocação\n\nA colocação de bilhetes do Tesouro pode ser directa ou indirecta, realizando-se por leilão ou por oferta de subscrição limitada a uma, algumas ou a um consórcio de instituições financeiras."
+  },
+  "1016151675": {
+   "fragment_id": "1016151575",
+   "type": 11,
+   "heading": "Artigo 6.º — Amortização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Amortização\n\nOs bilhetes do Tesouro são amortizados na respectiva data de vencimento, sendo reembolsados pelo seu valor nominal."
+  },
+  "1060461075": {
+   "fragment_id": "1016151775",
+   "type": 11,
+   "heading": "Artigo 7.º — Emissão, registo e liquidação",
+   "in_force_from": "2003-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), em vigor a partir de 2003-05-01."
+   ],
+   "markdown": "###### Artigo 7.º — Emissão, registo e liquidação\n\n1 - Enquanto valores mobiliários de natureza monetária, os bilhetes do Tesouro poderão ser objecto de registo e liquidação em sistema centralizado de valores mobiliários gerido pelo Banco de Portugal.\n\n2 - A entrada dos bilhetes do Tesouro no sistema centralizado de valores mobiliários gerido pelo Banco de Portugal preenche os requisitos previstos no n.º 1 do artigo 2.º do Decreto-Lei n.º 88/94, de 2 de Abril, cabendo ao Banco de Portugal o papel e as funções atribuídas nesse diploma à Central de Valores Mobiliários.\n\n3 - O Instituto de Gestão do Crédito Público regula o processo de emissão e colocação dos bilhetes do Tesouro, cabendo-lhe, designadamente, fixar critérios de acesso ao mercado primário desses bilhetes e divulgar uma lista de entidades que preencham tais critérios.\n\n4 - Compete igualmente ao Instituto de Gestão do Crédito Público definir o regime de registo, liquidação e transmissão dos bilhetes do Tesouro.\n\n5 - A competência prevista nos números anteriores exerce-se através de instruções a publicar na 2.ª série do Diário da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), em vigor a partir de 2003-05-01."
+  },
+  "1016152075": {
+   "fragment_id": "1016151975",
+   "type": 11,
+   "heading": "Artigo 8.º — Articulação com o Banco de Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Articulação com o Banco de Portugal\n\nO Instituto de Gestão do Crédito Público pode celebrar protocolos com o Banco de Portugal que tenham por objecto a articulação dos mecanismos de emissão, transmissão e amortização dos bilhetes do Tesouro com a política monetária e com o funcionamento do mercado monetário."
+  },
+  "1016152275": {
+   "fragment_id": "1016152175",
+   "type": 11,
+   "heading": "Artigo 9.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Disposições finais\n\n1 - É revogada a Lei n.º 20/85, de 26 de Julho, salvo no que respeita à isenção do imposto sobre sucessões e doações estatuída no seu artigo 6.º, bem como o Decreto-Lei n.º 321-A/85, de 5 de Agosto.\n\n2 - Até à entrada em vigor das instruções do Instituto de Gestão do Crédito Público, a aprovar nos termos do artigo 7.º deste diploma, mantêm-se em vigor, com as necessárias adaptações, as instruções aprovadas pelo Banco de Portugal para o funcionamento do mercado de bilhetes do Tesouro."
+  },
+  "1016152475": {
+   "fragment_id": "1016152375",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação."
+  },
+  "1016152675": {
+   "fragment_id": "1016152575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em conselho de 30 de Julho de 1998. - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 7 de Setembro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Setembro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1060876475": {
+   "fragment_id": "1016150775",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção",
+   "in_force_from": "2012-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 40/2012 - Diário da República n.º 36/2012, Série I de 2012-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2012-542984), em vigor a partir de 2012-02-21.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), em vigor a partir de 2003-05-01."
+   ],
+   "markdown": "###### Artigo 2.º — Noção\n\nOs bilhetes do Tesouro são valores mobiliários escriturais representativos de empréstimos da República Portuguesa, denominados em moeda com curso legal em Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 40/2012 - Diário da República n.º 36/2012, Série I de 2012-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2012-542984), em vigor a partir de 2012-02-21.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), em vigor a partir de 2003-05-01."
+  },
+  "1060876675": {
+   "fragment_id": "1016151175",
+   "type": 11,
+   "heading": "Artigo 4.º — Características e regras de emissão",
+   "in_force_from": "2012-02-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 40/2012 - Diário da República n.º 36/2012, Série I de 2012-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2012-542984), em vigor a partir de 2012-02-21."
+   ],
+   "markdown": "###### Artigo 4.º — Características e regras de emissão\n\n1 - Os bilhetes do Tesouro são emitidos por prazos, até 18 meses, definidos pelo Instituto de Gestão da Tesouraria e do Crédito Público, I. P.\n\n2 - A emissão dos bilhetes do Tesouro efectua-se a desconto e os juros são pagos por dedução no seu valor nominal.\n\n3 - São fungíveis entre si os bilhetes do Tesouro que apresentem a mesma data de vencimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 40/2012 - Diário da República n.º 36/2012, Série I de 2012-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2012-542984), em vigor a partir de 2012-02-21."
+  },
+  "1062414775": {
+   "fragment_id": "1016150975",
+   "type": 11,
+   "heading": "Artigo 3.º — Valor nominal",
+   "in_force_from": "2012-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/2012 - Diário da República n.º 243/2012, Série I de 2012-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-2012-189946), em vigor a partir de 2012-12-18."
+   ],
+   "markdown": "###### Artigo 3.º — Valor nominal\n\nSalvo deliberação em contrário do Conselho de Administração da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E.P.E., o valor nominal unitário dos bilhetes do Tesouro corresponde à mais pequena subunidade da moeda com curso legal em Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/2012 - Diário da República n.º 243/2012, Série I de 2012-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-2012-189946), em vigor a partir de 2012-12-18."
+  },
+  "1062414975": {
+   "fragment_id": "1016151175",
+   "type": 11,
+   "heading": "Artigo 4.º — Características e regras de emissão",
+   "in_force_from": "2012-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/2012 - Diário da República n.º 243/2012, Série I de 2012-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-2012-189946), em vigor a partir de 2012-12-18.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 40/2012 - Diário da República n.º 36/2012, Série I de 2012-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2012-542984), em vigor a partir de 2012-02-21."
+   ],
+   "markdown": "###### Artigo 4.º — Características e regras de emissão\n\n1 - Os bilhetes do Tesouro são emitidos por prazos, até 18 meses, definidos pela Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E.P.E.\n\n2 - A emissão dos bilhetes do Tesouro efectua-se a desconto e os juros são pagos por dedução no seu valor nominal.\n\n3 - São fungíveis entre si os bilhetes do Tesouro que apresentem a mesma data de vencimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/2012 - Diário da República n.º 243/2012, Série I de 2012-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-2012-189946), em vigor a partir de 2012-12-18.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 40/2012 - Diário da República n.º 36/2012, Série I de 2012-02-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2012-542984), em vigor a partir de 2012-02-21."
+  },
+  "1062415175": {
+   "fragment_id": "1016151775",
+   "type": 11,
+   "heading": "Artigo 7.º — Emissão, registo e liquidação",
+   "in_force_from": "2012-12-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/2012 - Diário da República n.º 243/2012, Série I de 2012-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-2012-189946), em vigor a partir de 2012-12-18.",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), em vigor a partir de 2003-05-01."
+   ],
+   "markdown": "###### Artigo 7.º — Emissão, registo e liquidação\n\n1 -Enquanto valores mobiliários de natureza monetária, os bilhetes do Tesouro podem ser objeto de registo e liquidação em sistema centralizado de valores mobiliários gerido pela INTERBOLSA - Sociedade Gestora de Sistemas de Liquidação e de Sistemas Centralizados de Valores Mobiliários, S.A.\n\n2 -O registo dos bilhetes do Tesouro nos sistemas geridos pelaINTERBOLSA - Sociedade Gestora de Sistemas de Liquidação e de Sistemas Centralizados de Valores Mobiliários, S.A., preenche os requisitos previstos no Decreto-Lei n.º 193/2005, de 7 de novembro, alterado pelos Decretos-Leis n.os 25/2006, de 8 de fevereiro, e 29-A/2011, de 1 de março, cabendo à central de valores mobiliários gerida pela INTERBOLSA as competências e as funções estabelecidas nesse diploma.\n\n3 -A Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E.P.E.,regula o processo de emissão e colocação dos bilhetes do Tesouro, cabendo-lhe, designadamente, fixar os critérios de acesso ao mercado primário e divulgar a lista de entidades que preenchem tais critérios.\n\n4 -Compete igualmente à Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E.P.E.,regulamentar o regime de registo, liquidação e transmissão dos bilhetes do Tesouro, que segue os termos definidos no Código dos Valores Mobiliários.\n\n5 - A competência prevista nos números anteriores exerce-se através de instruções a publicar na 2.ª série do Diário da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/2012 - Diário da República n.º 243/2012, Série I de 2012-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-2012-189946), em vigor a partir de 2012-12-18.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 91/2003 - Diário da República n.º 100/2003, Série I-A de 2003-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/91-2003-571434), em vigor a partir de 2003-05-01."
+  },
+  "1062415875": {
+   "fragment_id": "1016151975",
+   "type": 11,
+   "heading": "Artigo 8.º — Articulação com o Banco de Portugal",
+   "in_force_from": "2012-12-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 261/2012 - Diário da República n.º 243/2012, Série I de 2012-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-2012-189946), em vigor a partir de 2012-12-18."
+   ],
+   "markdown": "###### Artigo 8.º — Articulação com o Banco de Portugal\n\nO Instituto de Gestão do Crédito Público pode celebrar protocolos com o Banco de Portugal que tenham por objecto a articulação dos mecanismos de emissão, transmissão e amortização dos bilhetes do Tesouro com a política monetária e com o funcionamento do mercado monetário.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 261/2012 - Diário da República n.º 243/2012, Série I de 2012-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-2012-189946), em vigor a partir de 2012-12-18."
+  }
+ }
+}

@@ -1,0 +1,670 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:551994:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2012-174480848",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/14-2012-551994",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-05-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174510341",
+    "174510291",
+    "174510292",
+    "174510293",
+    "174510294",
+    "174510295",
+    "174510296",
+    "174510297",
+    "174510298",
+    "174510299",
+    "174510300",
+    "174510301",
+    "174510302",
+    "174510303",
+    "174510304",
+    "174510305",
+    "174510306",
+    "174510307",
+    "174510308",
+    "174510309",
+    "174510310",
+    "174510311",
+    "174510312",
+    "174510313",
+    "174510314",
+    "174510315",
+    "174510316",
+    "174510317"
+   ]
+  },
+  {
+   "date": "2013-08-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498562:por",
+     "title": "Decreto Regulamentar Regional n.º 9/2013/A",
+     "published": "2013-08-01",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/9-2013-498562"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "174510290",
+    "174510291",
+    "174510292",
+    "174510293",
+    "174510294",
+    "174510295",
+    "174510296",
+    "174510297",
+    "174510319",
+    "174510299",
+    "174510300",
+    "174510301",
+    "174510302",
+    "174510303",
+    "174510304",
+    "174510305",
+    "174510306",
+    "174510307",
+    "174510308",
+    "174510309",
+    "174510310",
+    "174510311",
+    "174510312",
+    "174510313",
+    "174510314",
+    "174510315",
+    "174510316",
+    "174510317",
+    "174510318"
+   ]
+  },
+  {
+   "date": "2021-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174480837:por",
+     "title": "Decreto Regulamentar Regional n.º 28/2021/A",
+     "published": "2021-11-18",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "174510341",
+    "174510342",
+    "174510343",
+    "174510344",
+    "174510345",
+    "174510346",
+    "174510347",
+    "174510348",
+    "174510349",
+    "174510350",
+    "174510351",
+    "174510352",
+    "174510353",
+    "174510354",
+    "174510355",
+    "174510356",
+    "174510357",
+    "174510358",
+    "174510359",
+    "174510360",
+    "174510361",
+    "174510362",
+    "174510363",
+    "174510364",
+    "174510365",
+    "174510366",
+    "174510367",
+    "174510368",
+    "174510369"
+   ]
+  }
+ ],
+ "fragments": {
+  "174510341": {
+   "fragment_id": "174480849",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-11-19",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 14/2012/A\n\nRegulamento do exercício da atividade industrial na Região Autónoma dos Açores\n\nO Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, requer uma nova regulamentação da atividade industrial, no sentido de contemplar as exigências de um setor industrial mais competitivo, mas também, disciplinado e ambiental e socialmente responsável.\n\nAcresce a isso, uma estratégia concertada no sentido da desburocratização e simplificação de procedimentos, cabendo aos serviços da administração regional, cada vez mais, o papel de garante da segurança de pessoas e bens, seja como entidades reguladoras ou fiscalizadoras.\n\nAssim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição, e alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, e do n.º 1 do artigo 22.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, o Governo Regional decreta o seguinte:"
+  },
+  "174510291": {
+   "fragment_id": "174480850",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma visa regulamentar o exercício da atividade industrial na Região Autónoma dos Açores, aprovado pelo Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro."
+  },
+  "174510292": {
+   "fragment_id": "174480851",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceitos\n\nPara efeitos da classificação referida no artigo 8.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, considera-se:\n\na) «Número de trabalhadores» o número total de trabalhadores do estabelecimento industrial, excluindo os afetos aos setores administrativo e comercial;\n\nb) «Potência elétrica contratada» a potência expressa em kilovolt-amperes, contratada ou requisitada com um distribuidor de energia elétrica, ou instalada em unidades autónomas de produção própria de energia elétrica, existentes no estabelecimento industrial, ou ambas."
+  },
+  "174510293": {
+   "fragment_id": "174480852",
+   "type": 11,
+   "heading": "Artigo 3.º — Pedido de licença de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pedido de licença de instalação\n\n1 - O pedido de licença de instalação de estabelecimentos industriais dos Tipos 1 e 2 deve ser instruído, em suporte digital, com os seguintes elementos:\n\na) Projeto técnico;\n\nb) Identificação do interlocutor e responsável técnico do projeto;\n\nc) Ficha eletrotécnica ou projeto elétrico, quando exigível por legislação específica;\n\nd) Documentos comprovativos, nos termos do n.º 3 do artigo 7.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, quando legalmente exigido;\n\ne) Autorização prévia de localização, emitida pelas entidades competentes nos termos do disposto nos n.os 3 e 5 do artigo 6.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, quando não localizados em zona industrial.\n\n2 - Os estabelecimentos industriais do Tipo 3 e as atividades industriais temporárias não estão sujeitos a licença de instalação."
+  },
+  "174510294": {
+   "fragment_id": "174480853",
+   "type": 11,
+   "heading": "Artigo 4.º — Projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Projeto\n\nO projeto de instalação de estabelecimentos industriais dos Tipos 1 e 2 deve conter memória descritiva e peças desenhadas, com as características referidas nos artigos seguintes."
+  },
+  "174510295": {
+   "fragment_id": "174480854",
+   "type": 11,
+   "heading": "Artigo 5.º — Memória descritiva do projeto de instalação de estabelecimentos industriais dos Tipos 1 e 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Memória descritiva do projeto de instalação de estabelecimentos industriais dos Tipos 1 e 2\n\n1 - A memória descritiva dos estabelecimentos industriais dos Tipos 1 e 2 deve conter:\n\na) Descrição da atividade ou atividades industriais a exercer, com indicação da capacidade de produção, por produto, ou tipos de produtos finais;\n\nb) Descrição dos processos tecnológicos, diagramas de fabrico, matérias-primas e subsidiárias a utilizar e suas quantidades;\n\nc) Listagem de máquinas e equipamentos a instalar, com indicação de que cumprem a legislação geral de segurança, ou o disposto em legislação específica;\n\nd) Descrição das instalações de armazenagem, queima, força motriz, produção de frio e equipamentos sob pressão, instruída nos termos da legislação em vigor;\n\ne) Descrição da rede de água e de esgotos;\n\nf) Caracterização quantitativa e qualitativa dos efluentes líquidos e gasosos, bem como dos resíduos e subprodutos, com a indicação dos seus destinos finais;\n\ng) Descrição das medidas antipoluição adotadas, relativas ao ruído e ao tratamento dos efluentes líquidos e gasosos e dos subprodutos e resíduos;\n\nh) Descrição das medidas de higiene, segurança e condições de trabalho;\n\ni) Regime de laboração e indicação do número e sexo dos trabalhadores, com discriminação por turno, se for o caso, pela atividade efetivamente exercida e indicação do número e habilitações profissionais e académicas dos técnicos e operários especializados;\n\nj) Descrição das instalações de caráter social, vestiários, balneários, lavabos e sanitários, bem como dos serviços de saúde, higiene e segurança no trabalho;\n\nk) Comprovativos do cumprimento da legislação específica referida no n.º 3 do artigo 7.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, quando aplicável.\n\n2 - Nas situações previstas no n.º 2 do artigo 8.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, a memória descritiva de estabelecimentos industriais do Tipo 1 deve ser apresentada de acordo com o disposto na legislação específica aplicável a esses estabelecimentos."
+  },
+  "174510296": {
+   "fragment_id": "174480855",
+   "type": 11,
+   "heading": "Artigo 6.º — Peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 1\n\n1 - Das peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 1, deve constar:\n\na) Planta de localização em escala não inferior a 1:2000;\n\nb) Planta de síntese do estabelecimento industrial, abrangendo toda a área afeta ao mesmo, em escala não inferior a 1:500, indicando a localização das áreas de produção, armazéns, oficinas, depósitos, circuitos exteriores, dispositivos de tratamento de efluentes e armazenagem ou tratamento de resíduos;\n\nc) Plantas, alçados e cortes da instalação industrial, em escala não inferior a 1:100.\n\n2 - As peças desenhadas referidas na alínea c) do número anterior devem ser devidamente legendadas e indicar a localização dos seguintes elementos:\n\na) Aparelhos, máquinas e demais equipamentos;\n\nb) Armazenagem de matérias-primas, subsidiárias e de produtos acabados;\n\nc) Instalações de caráter social, escritórios e serviço de medicina no trabalho e de primeiros socorros, instalações sanitárias e de vestiários;\n\nd) Instalações de queima, de força motriz, e de equipamentos sob pressão e instalações de produção de frio.\n\n3 - No caso de estabelecimentos industriais localizados em zonas previstas para essa localização, é dispensada a apresentação da planta referida na alínea a) do n.º 1."
+  },
+  "174510297": {
+   "fragment_id": "174480856",
+   "type": 11,
+   "heading": "Artigo 7.º — Peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 2\n\nDas peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 2 deve constar uma planta do estabelecimento industrial, alçados e cortes da instalação industrial, à escala 1:100, devidamente legendadas e com indicação das dependências e equipamentos."
+  },
+  "174510298": {
+   "fragment_id": "174480857",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pedido de alteração\n\n1 - As alterações relativas a estabelecimentos industriais, cuja instalação tenha sido aprovada nos termos do artigo anterior, não carecem de pedido de alteração, desde que:\n\na) Não haja alteração do tipo de estabelecimento previsto no artigo 8.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro;\n\nb) As alterações não impliquem efeitos nocivos para a segurança dos trabalhadores, saúde pública e para os bens e para o ambiente, nomeadamente, através dos resíduos e efluentes gerados ou da armazenagem e manipulação de substâncias perigosas.\n\n2 - As situações abrangidas pelo número anterior devem requerer uma vistoria, a pedido do industrial, de verificação das alterações efetuadas."
+  },
+  "174510299": {
+   "fragment_id": "174480858",
+   "type": 11,
+   "heading": "Artigo 9.º — Memória descritiva e peças desenhadas dos pedidos de alteração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Memória descritiva e peças desenhadas dos pedidos de alteração\n\nO pedido prévio de autorização de alteração de estabelecimento industrial, nas situações que não se enquadrem no n.º 1 do artigo anterior, deve ser acompanhado de memória descritiva e peças desenhadas correspondente à tipologia do estabelecimento, que contemple todos os aspetos referentes à alteração, devendo indicar expressamente os pontos em relação aos quais a situação se mantém inalterada."
+  },
+  "174510300": {
+   "fragment_id": "174480859",
+   "type": 11,
+   "heading": "Artigo 10.º — Apreciação liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apreciação liminar\n\n1 - A verificação dos documentos instrutórios do processo de licenciamento compete à direção regional com competência em matéria de indústria, que nomeará o respetivo gestor.\n\n2 - Quando na análise dos documentos instrutórios do processo se verificar que este não se encontra em conformidade com os artigos anteriores, a entidade coordenadora solicitará ao industrial, no prazo de 5 dias, os elementos em falta.\n\n3 - O processo só se considera devidamente instruído na data da receção do último dos elementos em falta.\n\n4 - O industrial deve completar os elementos em falta, no prazo de 30 dias, após a data do envio do pedido referido no n.º 2, findo o qual será indeferido e o processo devolvido ao requerente."
+  },
+  "174510301": {
+   "fragment_id": "174480860",
+   "type": 11,
+   "heading": "Artigo 11.º — Entidades consultadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entidades consultadas\n\nApós a apreciação liminar e com o processo devidamente instruído, a entidade coordenadora remete, no prazo de 10 dias, um exemplar do projeto a cada uma das seguintes entidades, para efeitos de emissão de parecer:\n\na) Direção regional com competência em matéria de saúde;\n\nb) Direção regional com competência em matéria de ambiente;\n\nc) Direção regional com competência em matéria de sanidade animal, quando se tratar de estabelecimentos industriais que laborem matérias-primas de origem animal;\n\nd) Direção regional com competência em matéria de ordenamento do território;\n\ne) Direção regional com competência em matéria de recursos hídricos;\n\nf) Direção regional com competência em matéria de trabalho;\n\ng) Outras entidades que a entidade coordenadora entenda dever consultar, em função do tipo de estabelecimento industrial."
+  },
+  "174510302": {
+   "fragment_id": "174480861",
+   "type": 11,
+   "heading": "Artigo 12.º — Requisitos dos pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requisitos dos pareceres\n\n1 - Os pareceres das entidades consultadas devem incidir exclusivamente sobre matéria da sua competência e ser devidamente fundamentados nas disposições legais e regulamentares aplicáveis.\n\n2 - As entidades consultadas remetem o seu parecer à entidade coordenadora, no prazo de 20 dias, a contar da data de receção do projeto.\n\n3 - Decorrido o prazo para apresentação de parecer sem que nada tenha sido comunicado, entende-se que o parecer é favorável."
+  },
+  "174510303": {
+   "fragment_id": "174480862",
+   "type": 11,
+   "heading": "Artigo 13.º — Apreciação do processo pelas entidades consultadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Apreciação do processo pelas entidades consultadas\n\n1 - Se alguma das entidades referidas no artigo 11.º considerar que o projeto revela deficiências, por falta de elementos, ou por carecer de informações ou esclarecimentos complementares, deve solicitar à entidade coordenadora a obtenção do respetivo suprimento, no prazo de 5 dias a contar da data de receção do projeto.\n\n2 - No caso referido no número anterior, o prazo para emissão de parecer suspende-se, reiniciando-se a partir da data de receção, pela entidade consultada, dos esclarecimentos e informações solicitadas.\n\n3 - Na situação prevista nos números anteriores aplica-se o disposto no n.º 4 do artigo 10.º"
+  },
+  "174510304": {
+   "fragment_id": "174480863",
+   "type": 11,
+   "heading": "Artigo 14.º — Apreciação final do projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apreciação final do projeto\n\n1 - Após a receção dos pareceres, a entidade coordenadora procede à apreciação final do projeto, no prazo de 10 dias.\n\n2 - A decisão do diretor regional com competência em matéria de indústria, devidamente fundamentada, é comunicada ao requerente, mencionando as condições impostas para o tipo de atividade em causa, tendo em conta os pareceres das entidades consultadas."
+  },
+  "174510305": {
+   "fragment_id": "174480864",
+   "type": 11,
+   "heading": "Artigo 15.º — Licença de exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Licença de exploração\n\n1 - O pedido de licença de exploração dos estabelecimentos industriais deve ser apresentado na direção regional com competência em matéria de indústria, nos termos do artigo 9.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, com antecedência mínima de 15 dias relativamente à data prevista para o início de laboração, acompanhado de:\n\na) Comprovativo do pagamento da taxa devida;\n\nb) Alvará de licença de utilização, nos casos exigidos.\n\n2 - Para além dos elementos previstos no número anterior, no caso dos estabelecimentos industriais do Tipo 3, das atividades industriais temporárias e das situações em que haja mudança ou introdução de nova atividade, sem alteração da respetiva tipologia, o pedido de licença de exploração deve ser instruído com os seguintes elementos:\n\na) Caracterização do estabelecimento, descrição sumária da atividade, tipos de produtos e quantidades a produzir;\n\nb) Planta do estabelecimento industrial, à escala 1:100, devidamente legendada, com indicação das dependências e equipamentos;\n\nc) Justificação de que a atividade exercida não se reveste de especial perigosidade para o ambiente, pessoas e bens."
+  },
+  "174510306": {
+   "fragment_id": "174480865",
+   "type": 11,
+   "heading": "Artigo 16.º — Vistoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Vistoria\n\n1 - A vistoria ao estabelecimento industrial visa verificar a sua conformidade com o projeto e se preenche os requisitos para poder ser concedida a licença de exploração.\n\n2 - A entidade coordenadora comunica ao industrial e às entidades consultadas no âmbito do artigo 11.º, a data de realização da vistoria, com a antecedência mínima de 10 dias.\n\n3 - A vistoria é efetuada pela entidade coordenadora, com a participação das entidades referidas no número anterior, devendo comparecer um interlocutor indicado pelo industrial.\n\n4 - A exploração pode iniciar-se sob a responsabilidade do industrial, exceto nos casos a que se refere o n.º 4 do artigo 9.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro.\n\n5 - Da vistoria é lavrado auto, assinado por todos os intervenientes, o qual deve concluir se estão preenchidas as condições para a emissão da licença de exploração."
+  },
+  "174510307": {
+   "fragment_id": "174480866",
+   "type": 11,
+   "heading": "Artigo 17.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Decisão\n\n1 - A decisão sobre o pedido de licença de exploração, tomada com base no auto de vistoria, deve ter um dos seguintes conteúdos:\n\na) Licença de exploração;\n\nb) Licença de exploração a título experimental, com a fixação de condições;\n\nc) Indeferimento do pedido.\n\n2 - A entidade coordenadora comunica a decisão, juntamente com o resultado da vistoria, ao industrial e às entidades que nela participaram, no prazo de 5 dias a contar da data da sua realização.\n\n3 - Se a decisão sobre o pedido de licença de exploração for a referida na alínea b) do n.º 1, realiza-se nova vistoria findo o prazo fixado para o cumprimento das condições de laboração."
+  },
+  "174510308": {
+   "fragment_id": "174480867",
+   "type": 11,
+   "heading": "Artigo 18.º — Transmissão do estabelecimento industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Transmissão do estabelecimento industrial\n\nA transmissão, a qualquer título, da propriedade ou exploração do estabelecimento industrial é averbada no respetivo processo, mediante comunicação do industrial transmissário, ou seu representante legal, acompanhada de documento probatório da transmissão."
+  },
+  "174510309": {
+   "fragment_id": "174480868",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão ou cessação da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Suspensão ou cessação da atividade\n\n1 - A suspensão do exercício da atividade por período superior a dois anos, a retirada de equipamento do estabelecimento industrial e a cessação do exercício da atividade devem ser comunicadas pelo industrial à direção regional com competência em matéria de indústria, que averbará no respetivo processo o cancelamento da licença de exploração.\n\n2 - No caso de indústrias alimentares, constantes das divisões 10 e 11 da Classificação Portuguesa das Atividades Económicas (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, a suspensão da atividade por período superior a doze semanas, deve ser comunicada pelo industrial à direção regional com competência em matéria de indústria, que a averbará no respetivo processo.\n\n3 - Sem prejuízo do disposto no n.º 1, o reinício da atividade prevista no número anterior deve ser precedido de vistoria de verificação de condições, a requerimento do industrial."
+  },
+  "174510310": {
+   "fragment_id": "174480869",
+   "type": 11,
+   "heading": "Artigo 20.º — Processo de contraordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Processo de contraordenação\n\nCompete ao diretor regional com competência em matéria de indústria a iniciativa do processo de contraordenação, oficiosamente, com base em participação de entidades públicas, ou na sequência de reclamação de terceiros."
+  },
+  "174510311": {
+   "fragment_id": "174480870",
+   "type": 11,
+   "heading": "Artigo 21.º — Notificação de aplicação da coima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Notificação de aplicação da coima\n\nA notificação da decisão de aplicação de coima e a comunicação da advertência proferida nos termos do artigo 51.º do Decreto-Lei n.º 433/82, de 27 de outubro, com as alterações introduzidas pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, 323/2001, de 17 dezembro, e pela Lei n.º 109/2001, de 24 de dezembro, são acompanhadas da indicação das medidas recomendadas para evitar a repetição do facto punível."
+  },
+  "174510312": {
+   "fragment_id": "174480871",
+   "type": 11,
+   "heading": "Artigo 22.º — Interrupção do fornecimento de energia elétrica, água e comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Interrupção do fornecimento de energia elétrica, água e comunicações\n\nQuando o diretor regional com competência em matéria de indústria decidir aplicar como sanção acessória a interdição do exercício da atividade, deve notificar a entidade distribuidora de energia elétrica, água ou comunicações para interromper o fornecimento ao estabelecimento industrial encerrado."
+  },
+  "174510313": {
+   "fragment_id": "174480872",
+   "type": 11,
+   "heading": "Artigo 23.º — Tramitação eletrónica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Tramitação eletrónica\n\nA tramitação eletrónica do regime do exercício da atividade industrial será feita através de um portal eletrónico, no âmbito do qual se disponibilizarão os respetivos formulários e correrão os respetivos procedimentos relativos ao licenciamento e ao registo industrial."
+  },
+  "174510314": {
+   "fragment_id": "174480873",
+   "type": 11,
+   "heading": "Artigo 24.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Prazos\n\nA contagem dos prazos estabelecidos no presente diploma não se suspende aos sábados, domingos e feriados."
+  },
+  "174510315": {
+   "fragment_id": "174480874",
+   "type": 11,
+   "heading": "Artigo 25.º — Processos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Processos pendentes\n\nO presente regime aplica-se aos pedidos de licença de instalação e de exploração pendentes de decisão à data da respetiva entrada em vigor."
+  },
+  "174510316": {
+   "fragment_id": "174566375",
+   "type": 11,
+   "heading": "Artigo 26.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Revogação\n\nSão revogados:\n\na) O Decreto Regulamentar Regional n.º 40/92/A, de 7 de outubro, sem prejuízo do disposto no artigo anterior;\n\nb) A Portaria n.º 28/96, de 30 de maio."
+  },
+  "174510317": {
+   "fragment_id": "174566376",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "174510290": {
+   "fragment_id": "174480849",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 14/2012/A\n\nRegulamento do exercício da atividade industrial na Região Autónoma dos Açores\n\nO Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, requer uma nova regulamentação da atividade industrial, no sentido de contemplar as exigências de um setor industrial mais competitivo, mas também, disciplinado e ambiental e socialmente responsável.\n\nAcresce a isso, uma estratégia concertada no sentido da desburocratização e simplificação de procedimentos, cabendo aos serviços da administração regional, cada vez mais, o papel de garante da segurança de pessoas e bens, seja como entidades reguladoras ou fiscalizadoras.\n\nAssim, nos termos da alínea d) do n.º 1 do artigo 227.º da Constituição, e alínea b) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, e do n.º 1 do artigo 22.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, o Governo Regional decreta o seguinte:"
+  },
+  "174510319": {
+   "fragment_id": "174480857",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de alteração",
+   "in_force_from": "2013-08-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2013-498562), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 8.º — Pedido de alteração\n\n1 - As alterações relativas a estabelecimentos industriais, não carecem de pedido de alteração, desde que:\n\na) Não haja alteração do tipo de estabelecimento previsto no artigo 8.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro;\n\nb) As alterações não impliquem efeitos nocivos para a segurança dos trabalhadores, saúde pública e para os bens e para o ambiente, nomeadamente, através dos resíduos e efluentes gerados ou da armazenagem e manipulação de substâncias perigosas.\n\n2 - As situações abrangidas pelo número anterior devem requerer uma vistoria, a pedido do industrial, de verificação das alterações efetuadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2013-498562), em vigor a partir de 2013-08-02"
+  },
+  "174510318": {
+   "fragment_id": "174566377",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 12 de março de 2012.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 19 de abril de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  },
+  "174510342": {
+   "fragment_id": "174480850",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma visa regulamentar o exercício da atividade industrial na Região Autónoma dos Açores, aprovado pelo Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510343": {
+   "fragment_id": "174480851",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceitos",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 2.º — Conceitos\n\nPara efeitos da classificação referida no artigo 8.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, considera-se:\n\na) «Número de trabalhadores» o número total de trabalhadores do estabelecimento industrial, excluindo os afetos aos setores administrativo e comercial;\n\nb) «Potência elétrica contratada» a potência expressa em kilovolt-amperes, contratada ou requisitada com um distribuidor de energia elétrica, ou instalada em unidades autónomas de produção própria de energia elétrica, existentes no estabelecimento industrial, ou ambas.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510344": {
+   "fragment_id": "174480852",
+   "type": 11,
+   "heading": "Artigo 3.º — Pedido de licença de instalação",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 3.º — Pedido de licença de instalação\n\n1 - O pedido de licença de instalação de estabelecimentos industriais dos Tipos 1 e 2 deve ser instruído, em suporte digital, com os seguintes elementos:\n\na) Projeto técnico;\n\nb) Identificação do interlocutor e responsável técnico do projeto;\n\nc) Ficha eletrotécnica ou projeto elétrico, quando exigível por legislação específica;\n\nd) Documentos comprovativos, nos termos do n.º 3 do artigo 7.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, quando legalmente exigido;\n\ne) Autorização prévia de localização, emitida pelas entidades competentes nos termos do disposto nos n.os 3 e 5 do artigo 6.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, quando não localizados em zona industrial.\n\n2 - Os estabelecimentos industriais do Tipo 3 e as atividades industriais temporárias não estão sujeitos a licença de instalação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510345": {
+   "fragment_id": "174480853",
+   "type": 11,
+   "heading": "Artigo 4.º — Projeto",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 4.º — Projeto\n\nO projeto de instalação de estabelecimentos industriais dos Tipos 1 e 2 deve conter memória descritiva e peças desenhadas, com as características referidas nos artigos seguintes.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510346": {
+   "fragment_id": "174480854",
+   "type": 11,
+   "heading": "Artigo 5.º — Memória descritiva do projeto de instalação de estabelecimentos industriais dos Tipos 1 e 2",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 5.º — Memória descritiva do projeto de instalação de estabelecimentos industriais dos Tipos 1 e 2\n\n1 - A memória descritiva dos estabelecimentos industriais dos Tipos 1 e 2 deve conter:\n\na) Descrição da atividade ou atividades industriais a exercer, com indicação da capacidade de produção, por produto, ou tipos de produtos finais;\n\nb) Descrição dos processos tecnológicos, diagramas de fabrico, matérias-primas e subsidiárias a utilizar e suas quantidades;\n\nc) Listagem de máquinas e equipamentos a instalar, com indicação de que cumprem a legislação geral de segurança, ou o disposto em legislação específica;\n\nd) Descrição das instalações de armazenagem, queima, força motriz, produção de frio e equipamentos sob pressão, instruída nos termos da legislação em vigor;\n\ne) Descrição da rede de água e de esgotos;\n\nf) Caracterização quantitativa e qualitativa dos efluentes líquidos e gasosos, bem como dos resíduos e subprodutos, com a indicação dos seus destinos finais;\n\ng) Descrição das medidas antipoluição adotadas, relativas ao ruído e ao tratamento dos efluentes líquidos e gasosos e dos subprodutos e resíduos;\n\nh) Descrição das medidas de higiene, segurança e condições de trabalho;\n\ni) Regime de laboração e indicação do número e sexo dos trabalhadores, com discriminação por turno, se for o caso, pela atividade efetivamente exercida e indicação do número e habilitações profissionais e académicas dos técnicos e operários especializados;\n\nj) Descrição das instalações de caráter social, vestiários, balneários, lavabos e sanitários, bem como dos serviços de saúde, higiene e segurança no trabalho;\n\nk) Comprovativos do cumprimento da legislação específica referida no n.º 3 do artigo 7.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, quando aplicável.\n\n2 - Nas situações previstas no n.º 2 do artigo 8.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, a memória descritiva de estabelecimentos industriais do Tipo 1 deve ser apresentada de acordo com o disposto na legislação específica aplicável a esses estabelecimentos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510347": {
+   "fragment_id": "174480855",
+   "type": 11,
+   "heading": "Artigo 6.º — Peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 1",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 6.º — Peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 1\n\n1 - Das peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 1, deve constar:\n\na) Planta de localização em escala não inferior a 1:2000;\n\nb) Planta de síntese do estabelecimento industrial, abrangendo toda a área afeta ao mesmo, em escala não inferior a 1:500, indicando a localização das áreas de produção, armazéns, oficinas, depósitos, circuitos exteriores, dispositivos de tratamento de efluentes e armazenagem ou tratamento de resíduos;\n\nc) Plantas, alçados e cortes da instalação industrial, em escala não inferior a 1:100.\n\n2 - As peças desenhadas referidas na alínea c) do número anterior devem ser devidamente legendadas e indicar a localização dos seguintes elementos:\n\na) Aparelhos, máquinas e demais equipamentos;\n\nb) Armazenagem de matérias-primas, subsidiárias e de produtos acabados;\n\nc) Instalações de caráter social, escritórios e serviço de medicina no trabalho e de primeiros socorros, instalações sanitárias e de vestiários;\n\nd) Instalações de queima, de força motriz, e de equipamentos sob pressão e instalações de produção de frio.\n\n3 - No caso de estabelecimentos industriais localizados em zonas previstas para essa localização, é dispensada a apresentação da planta referida na alínea a) do n.º 1.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510348": {
+   "fragment_id": "174480856",
+   "type": 11,
+   "heading": "Artigo 7.º — Peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 2",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 7.º — Peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 2\n\nDas peças desenhadas do projeto de instalação de estabelecimentos industriais do Tipo 2 deve constar uma planta do estabelecimento industrial, alçados e cortes da instalação industrial, à escala 1:100, devidamente legendadas e com indicação das dependências e equipamentos.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510349": {
+   "fragment_id": "174480857",
+   "type": 11,
+   "heading": "Artigo 8.º — Pedido de alteração",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2013-498562), em vigor a partir de 2013-08-02"
+   ],
+   "markdown": "###### Artigo 8.º — Pedido de alteração\n\n1 - As alterações relativas a estabelecimentos industriais, não carecem de pedido de alteração, desde que:\n\na) Não haja alteração do tipo de estabelecimento previsto no artigo 8.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro;\n\nb) As alterações não impliquem efeitos nocivos para a segurança dos trabalhadores, saúde pública e para os bens e para o ambiente, nomeadamente, através dos resíduos e efluentes gerados ou da armazenagem e manipulação de substâncias perigosas.\n\n2 - As situações abrangidas pelo número anterior devem requerer uma vistoria, a pedido do industrial, de verificação das alterações efetuadas.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 9/2013/A - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2013-498562), em vigor a partir de 2013-08-02"
+  },
+  "174510350": {
+   "fragment_id": "174480858",
+   "type": 11,
+   "heading": "Artigo 9.º — Memória descritiva e peças desenhadas dos pedidos de alteração",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 9.º — Memória descritiva e peças desenhadas dos pedidos de alteração\n\nO pedido prévio de autorização de alteração de estabelecimento industrial, nas situações que não se enquadrem no n.º 1 do artigo anterior, deve ser acompanhado de memória descritiva e peças desenhadas correspondente à tipologia do estabelecimento, que contemple todos os aspetos referentes à alteração, devendo indicar expressamente os pontos em relação aos quais a situação se mantém inalterada.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510351": {
+   "fragment_id": "174480859",
+   "type": 11,
+   "heading": "Artigo 10.º — Apreciação liminar",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 10.º — Apreciação liminar\n\n1 - A verificação dos documentos instrutórios do processo de licenciamento compete à direção regional com competência em matéria de indústria, que nomeará o respetivo gestor.\n\n2 - Quando na análise dos documentos instrutórios do processo se verificar que este não se encontra em conformidade com os artigos anteriores, a entidade coordenadora solicitará ao industrial, no prazo de 5 dias, os elementos em falta.\n\n3 - O processo só se considera devidamente instruído na data da receção do último dos elementos em falta.\n\n4 - O industrial deve completar os elementos em falta, no prazo de 30 dias, após a data do envio do pedido referido no n.º 2, findo o qual será indeferido e o processo devolvido ao requerente.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510352": {
+   "fragment_id": "174480860",
+   "type": 11,
+   "heading": "Artigo 11.º — Entidades consultadas",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 11.º — Entidades consultadas\n\nApós a apreciação liminar e com o processo devidamente instruído, a entidade coordenadora remete, no prazo de 10 dias, um exemplar do projeto a cada uma das seguintes entidades, para efeitos de emissão de parecer:\n\na) Direção regional com competência em matéria de saúde;\n\nb) Direção regional com competência em matéria de ambiente;\n\nc) Direção regional com competência em matéria de sanidade animal, quando se tratar de estabelecimentos industriais que laborem matérias-primas de origem animal;\n\nd) Direção regional com competência em matéria de ordenamento do território;\n\ne) Direção regional com competência em matéria de recursos hídricos;\n\nf) Direção regional com competência em matéria de trabalho;\n\ng) Outras entidades que a entidade coordenadora entenda dever consultar, em função do tipo de estabelecimento industrial.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510353": {
+   "fragment_id": "174480861",
+   "type": 11,
+   "heading": "Artigo 12.º — Requisitos dos pareceres",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 12.º — Requisitos dos pareceres\n\n1 - Os pareceres das entidades consultadas devem incidir exclusivamente sobre matéria da sua competência e ser devidamente fundamentados nas disposições legais e regulamentares aplicáveis.\n\n2 - As entidades consultadas remetem o seu parecer à entidade coordenadora, no prazo de 20 dias, a contar da data de receção do projeto.\n\n3 - Decorrido o prazo para apresentação de parecer sem que nada tenha sido comunicado, entende-se que o parecer é favorável.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510354": {
+   "fragment_id": "174480862",
+   "type": 11,
+   "heading": "Artigo 13.º — Apreciação do processo pelas entidades consultadas",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 13.º — Apreciação do processo pelas entidades consultadas\n\n1 - Se alguma das entidades referidas no artigo 11.º considerar que o projeto revela deficiências, por falta de elementos, ou por carecer de informações ou esclarecimentos complementares, deve solicitar à entidade coordenadora a obtenção do respetivo suprimento, no prazo de 5 dias a contar da data de receção do projeto.\n\n2 - No caso referido no número anterior, o prazo para emissão de parecer suspende-se, reiniciando-se a partir da data de receção, pela entidade consultada, dos esclarecimentos e informações solicitadas.\n\n3 - Na situação prevista nos números anteriores aplica-se o disposto no n.º 4 do artigo 10.º\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510355": {
+   "fragment_id": "174480863",
+   "type": 11,
+   "heading": "Artigo 14.º — Apreciação final do projeto",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 14.º — Apreciação final do projeto\n\n1 - Após a receção dos pareceres, a entidade coordenadora procede à apreciação final do projeto, no prazo de 10 dias.\n\n2 - A decisão do diretor regional com competência em matéria de indústria, devidamente fundamentada, é comunicada ao requerente, mencionando as condições impostas para o tipo de atividade em causa, tendo em conta os pareceres das entidades consultadas.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510356": {
+   "fragment_id": "174480864",
+   "type": 11,
+   "heading": "Artigo 15.º — Licença de exploração",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 15.º — Licença de exploração\n\n1 - O pedido de licença de exploração dos estabelecimentos industriais deve ser apresentado na direção regional com competência em matéria de indústria, nos termos do artigo 9.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro, com antecedência mínima de 15 dias relativamente à data prevista para o início de laboração, acompanhado de:\n\na) Comprovativo do pagamento da taxa devida;\n\nb) Alvará de licença de utilização, nos casos exigidos.\n\n2 - Para além dos elementos previstos no número anterior, no caso dos estabelecimentos industriais do Tipo 3, das atividades industriais temporárias e das situações em que haja mudança ou introdução de nova atividade, sem alteração da respetiva tipologia, o pedido de licença de exploração deve ser instruído com os seguintes elementos:\n\na) Caracterização do estabelecimento, descrição sumária da atividade, tipos de produtos e quantidades a produzir;\n\nb) Planta do estabelecimento industrial, à escala 1:100, devidamente legendada, com indicação das dependências e equipamentos;\n\nc) Justificação de que a atividade exercida não se reveste de especial perigosidade para o ambiente, pessoas e bens.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510357": {
+   "fragment_id": "174480865",
+   "type": 11,
+   "heading": "Artigo 16.º — Vistoria",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 16.º — Vistoria\n\n1 - A vistoria ao estabelecimento industrial visa verificar a sua conformidade com o projeto e se preenche os requisitos para poder ser concedida a licença de exploração.\n\n2 - A entidade coordenadora comunica ao industrial e às entidades consultadas no âmbito do artigo 11.º, a data de realização da vistoria, com a antecedência mínima de 10 dias.\n\n3 - A vistoria é efetuada pela entidade coordenadora, com a participação das entidades referidas no número anterior, devendo comparecer um interlocutor indicado pelo industrial.\n\n4 - A exploração pode iniciar-se sob a responsabilidade do industrial, exceto nos casos a que se refere o n.º 4 do artigo 9.º do Decreto Legislativo Regional n.º 5/2012/A, de 17 de janeiro.\n\n5 - Da vistoria é lavrado auto, assinado por todos os intervenientes, o qual deve concluir se estão preenchidas as condições para a emissão da licença de exploração.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510358": {
+   "fragment_id": "174480866",
+   "type": 11,
+   "heading": "Artigo 17.º — Decisão",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 17.º — Decisão\n\n1 - A decisão sobre o pedido de licença de exploração, tomada com base no auto de vistoria, deve ter um dos seguintes conteúdos:\n\na) Licença de exploração;\n\nb) Licença de exploração a título experimental, com a fixação de condições;\n\nc) Indeferimento do pedido.\n\n2 - A entidade coordenadora comunica a decisão, juntamente com o resultado da vistoria, ao industrial e às entidades que nela participaram, no prazo de 5 dias a contar da data da sua realização.\n\n3 - Se a decisão sobre o pedido de licença de exploração for a referida na alínea b) do n.º 1, realiza-se nova vistoria findo o prazo fixado para o cumprimento das condições de laboração.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510359": {
+   "fragment_id": "174480867",
+   "type": 11,
+   "heading": "Artigo 18.º — Transmissão do estabelecimento industrial",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 18.º — Transmissão do estabelecimento industrial\n\nA transmissão, a qualquer título, da propriedade ou exploração do estabelecimento industrial é averbada no respetivo processo, mediante comunicação do industrial transmissário, ou seu representante legal, acompanhada de documento probatório da transmissão.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510360": {
+   "fragment_id": "174480868",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão ou cessação da atividade",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 19.º — Suspensão ou cessação da atividade\n\n1 - A suspensão do exercício da atividade por período superior a dois anos, a retirada de equipamento do estabelecimento industrial e a cessação do exercício da atividade devem ser comunicadas pelo industrial à direção regional com competência em matéria de indústria, que averbará no respetivo processo o cancelamento da licença de exploração.\n\n2 - No caso de indústrias alimentares, constantes das divisões 10 e 11 da Classificação Portuguesa das Atividades Económicas (CAE - Rev. 3), aprovada pelo Decreto-Lei n.º 381/2007, de 14 de novembro, a suspensão da atividade por período superior a doze semanas, deve ser comunicada pelo industrial à direção regional com competência em matéria de indústria, que a averbará no respetivo processo.\n\n3 - Sem prejuízo do disposto no n.º 1, o reinício da atividade prevista no número anterior deve ser precedido de vistoria de verificação de condições, a requerimento do industrial.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510361": {
+   "fragment_id": "174480869",
+   "type": 11,
+   "heading": "Artigo 20.º — Processo de contraordenação",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 20.º — Processo de contraordenação\n\nCompete ao diretor regional com competência em matéria de indústria a iniciativa do processo de contraordenação, oficiosamente, com base em participação de entidades públicas, ou na sequência de reclamação de terceiros.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510362": {
+   "fragment_id": "174480870",
+   "type": 11,
+   "heading": "Artigo 21.º — Notificação de aplicação da coima",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 21.º — Notificação de aplicação da coima\n\nA notificação da decisão de aplicação de coima e a comunicação da advertência proferida nos termos do artigo 51.º do Decreto-Lei n.º 433/82, de 27 de outubro, com as alterações introduzidas pelos Decretos-Leis n.os 356/89, de 17 de outubro, 244/95, de 14 de setembro, 323/2001, de 17 dezembro, e pela Lei n.º 109/2001, de 24 de dezembro, são acompanhadas da indicação das medidas recomendadas para evitar a repetição do facto punível.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510363": {
+   "fragment_id": "174480871",
+   "type": 11,
+   "heading": "Artigo 22.º — Interrupção do fornecimento de energia elétrica, água e comunicações",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 22.º — Interrupção do fornecimento de energia elétrica, água e comunicações\n\nQuando o diretor regional com competência em matéria de indústria decidir aplicar como sanção acessória a interdição do exercício da atividade, deve notificar a entidade distribuidora de energia elétrica, água ou comunicações para interromper o fornecimento ao estabelecimento industrial encerrado.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510364": {
+   "fragment_id": "174480872",
+   "type": 11,
+   "heading": "Artigo 23.º — Tramitação eletrónica",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 23.º — Tramitação eletrónica\n\nA tramitação eletrónica do regime do exercício da atividade industrial será feita através de um portal eletrónico, no âmbito do qual se disponibilizarão os respetivos formulários e correrão os respetivos procedimentos relativos ao licenciamento e ao registo industrial.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510365": {
+   "fragment_id": "174480873",
+   "type": 11,
+   "heading": "Artigo 24.º — Prazos",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 24.º — Prazos\n\nA contagem dos prazos estabelecidos no presente diploma não se suspende aos sábados, domingos e feriados.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510366": {
+   "fragment_id": "174480874",
+   "type": 11,
+   "heading": "Artigo 25.º — Processos pendentes",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 25.º — Processos pendentes\n\nO presente regime aplica-se aos pedidos de licença de instalação e de exploração pendentes de decisão à data da respetiva entrada em vigor.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510367": {
+   "fragment_id": "174566375",
+   "type": 11,
+   "heading": "Artigo 26.º — Revogação",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 26.º — Revogação\n\nSão revogados:\n\na) O Decreto Regulamentar Regional n.º 40/92/A, de 7 de outubro, sem prejuízo do disposto no artigo anterior;\n\nb) A Portaria n.º 28/96, de 30 de maio.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510368": {
+   "fragment_id": "174566376",
+   "type": 11,
+   "heading": "Artigo 27.º — Entrada em vigor",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "###### Artigo 27.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  },
+  "174510369": {
+   "fragment_id": "174566377",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-11-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Vila do Porto, Santa Maria, em 12 de março de 2012.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 19 de abril de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 28/2021/A - Diário da República n.º 224/2021, Série I de 2021-11-18](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/28-2021-174480837), em vigor a partir de 2021-11-19"
+  }
+ }
+}

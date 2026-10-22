@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:335384:por
+title: Portaria n.º 359/2010
+short_title: null
+summary: Exclui da zona de caça municipal de Sousel os terrenos cinegéticos sitos na freguesia de Sousel, município de Sousel
+  (processo n.º 3264-AFN), e concessiona à Sector Diferente - Associação de Caça a zona de caça associativa do Monte do Lagar,
+  por um período de 12 anos, constituída por vários prédios rústicos sitos na mesma freguesia e município (processo n.º 5473-AFN)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 359/2010
+official_date: null
+publication_date: '2010-06-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/2010, Série I de 2010-06-22
+  number: '119'
+  series: I
+  supplement: null
+  pages: 2214 - 2215
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/06/11900/0221402215.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/359/2010/06/22/p/dre/pt/html
+  oj: null
+  dre: '335384'
+  dre_path: /dr/detalhe/portaria/359-2010-335384
+  internal: pt:dre:335384:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/359-2010-335384
+  metadata_url: https://data.dre.pt/eli/port/359/2010/06/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/359-2010-335384
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-06-22T00:00:00Z'
+integrity:
+  source_sha256: 6f92e0da18c2aaf01e99f340930b2ea094ccb23d82d039f1c0910ed1853c15af
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-359-335384.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Sousel
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/9/2009/01/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/9/2009/01/09/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 359/2010
+
+de 22 de Junho
+
+Pela Portaria n.º 723/2009, de 7 de Julho, foi criada a zona de caça municipal de Sousel (processo n.º 3264-AFN), situada no município de Sousel, com a área de 2560 ha, válida até 9 de Agosto de 2014, e transferida a sua gestão para o Clube de Tiro de Sousel.
+
+Vieram entretanto vários proprietários de terrenos incluídos na zona de caça acima referida requerer a respectiva exclusão e simultaneamente a Sector Diferente - Associação de Caça requerer uma zona de caça associativa para a maioria daqueles prédios.
+
+Cumpridos os preceitos legais, e com fundamento no disposto no artigo 46.º, na alínea a) do artigo 40.º e no n.º 1 do artigo 28.º, em conjugação com o estipulado no n.º 1 do artigo 167.º, todos do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e com a alteração do [Decreto-Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2009-396926), de 9 de Janeiro, consultado o Conselho Cinegético Municipal de Sousel de acordo com a alínea d) do artigo 158.º do mesmo diploma, e no uso das competências delegadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pelo despacho n.º 78/2010, de 5 de Janeiro, manda o Governo, pelo Secretário de Estado das Florestas e Desenvolvimento Rural, o seguinte:
+
+###### Artigo 1.º — Exclusão
+
+São excluídos da zona de caça municipal de Sousel (processo n.º 3264-AFN) os terrenos cinegéticos sitos na freguesia de Sousel, município de Sousel, com a área de 146 ha, ficando assim esta zona de caça com a área total de 2414 ha, conforme planta anexa a esta portaria e que dela faz parte integrante.
+
+###### Artigo 2.º — Concessão
+
+É concessionada à Sector Diferente - Associação de Caça, com o número de identificação fiscal 508623456, com sede social e endereço postal no Loteamento das Bazoas, lote 2, 7470-181 Sousel, a zona de caça associativa do Monte do Lagar (processo n.º 5473-AFN), por um período de 12 anos, renovável automaticamente por um único e igual período, constituída por vários prédios rústicos sitos na freguesia de Sousel, município de Sousel, com a área de 144 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+###### Artigo 3.º — Efeitos da sinalização
+
+A concessão e a exclusão de terrenos só produzem efeitos, relativamente a terceiros, após a devida sinalização.
+
+**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 7 de Junho de 2010.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2010/06/11900/0221402215.pdf))](https://files.diariodarepublica.pt/1s/2010/06/11900/0221402215.pdf)

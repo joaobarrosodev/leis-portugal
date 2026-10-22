@@ -1,0 +1,255 @@
+---
+schema_version: '1.0'
+id: pt:dre:484402:por
+title: Portaria n.º 945/95
+short_title: null
+summary: Aprova o Regulamento do Programa de Erradicação e Vigilância da Peste Suína Africana
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 945/95
+official_date: null
+publication_date: '1995-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/1995, Série I-B de 1995-08-01
+  number: '176'
+  series: I
+  supplement: null
+  pages: 4905 - 4907
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/945/1995/08/01/p/dre/pt/html
+  oj: null
+  dre: '484402'
+  dre_path: /dr/detalhe/portaria/945-1995-484402
+  internal: pt:dre:484402:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/945-1995-484402
+  metadata_url: https://data.dre.pt/eli/port/945/1995/08/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/945-1995-484402
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-08-01T00:00:00Z'
+integrity:
+  source_sha256: 2a6349641f1eccb0d19067a3b4eb65b3e59bb8ebfae9486244f389ac9ad6c2ab
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-945-484402.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Doença Animal
+- Decisão CE
+- Direcção Regional de Agricultura
+- Controlo Sanitário
+- Exploração Pecuária
+- Instituto de Protecção da Produção Agro-Alimentar
+- Legislação Veterinária
+- Regulamento
+- Suinicultura
+relationships:
+- type: cites
+  target: celex:31994D0880
+  label: null
+  source: http://data.europa.eu/eli/dec/1994/880/oj
+article_structure:
+  article_count: 1
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 945/95
+
+de 1 de Agosto
+
+Embora os esforços já realizados no âmbito da erradicação da peste suína africana tenham permitido recuperar o estatuto de indemnidade, justifica-se, no entanto, a manutenção e o reforço das medidas de protecção assumidas pelas autoridades sanitárias veterinárias na zona de concentração geográfica onde ocorreram os últimos focos, que inclui os municípios de Moura, Barrancos, Serpa e Mértola.
+
+Considerando o Decreto-Lei n.º 179/95, de 26 de Julho, que estabelece normas de aplicação e execução do Programa de Erradicação e Vigilância da Peste Suína Africana, aprovado pela Decisão n.º [94/880/CE](http://data.europa.eu/eli/dec/1994/880/oj?locale=pt), da Comissão, de 21 de Dezembro;
+
+Considerando a necessidade de estabelecer as normas técnicas de execução do referido diploma;
+
+Ao abrigo do artigo 12.º do Decreto-Lei n.º 179/95, de 26 de Julho:
+
+Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento do Programa de Erradicação e Vigilância da Peste Suína Africana em anexo ao presente diploma e que dele faz parte integrante.
+
+Ministério da Agricultura.
+
+**Assinada em 11 de Julho de 1995.**
+
+Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.
+
+## ANEXO — (a que se refere a Portaria n.º 945/95)
+
+Regulamento do Programa de Erradicação e Vigilância da Peste Suína Africana
+
+### CAPÍTULO I — Disposições iniciais
+
+###### Artigo 1.º O presente Regulamento estabelece as medidas técnicas de execução do Programa de Erradicação e Vigilância da Peste Suína Africana.
+
+###### Art. 2.º A aplicação das medidas sanitárias específicas para a peste suína africana (PSA) é efectuada tendo em consideração a divisão do País em duas zonas:
+
+a) Zona livre - inclui todo o território nacional com excepção dos concelhos incluídos na zona de monitoragem;
+
+b) Zona de monitoragem - inclui os concelhos de Moura, Barrancos, Serpa e Mértola.
+
+### CAPÍTULO II — Disposições gerais
+
+###### Art. 3.º A suspeita ou existência de PSA deve ser declarada directamente ao Instituto de Protecção da Produção Agro-Alimentar (IPPAA) ou à direcção regional de agricultura da área da exploração.
+
+###### Art. 4.º - 1 - O rastreio sorológico obrigatório a realizar na zona livre deve ser efectuado a 5% do efectivo reprodutor nacional.
+
+2 - O rastreio referido no número anterior deve ser executado:
+
+a) Nas unidades industriais, pelo médico veterinário responsável;
+
+b) Nas unidades familiares, pelas direcções regionais de agricultura ou pelos médicos veterinários que estas tenham designado;
+
+c) Nos matadouros, por brigadas designadas para o efeito, obedecendo ao seguinte critério:
+
+i) 1 a 20 animais do mesmo proprietário - uma sorologia;
+
+ii) Mais de 20 animais do mesmo proprietário - sorologia a 5% do efectivo transportado;
+
+d) Em javalis, pelo médico veterinário responsável pela montaria, por amostragem em 50% dos animais abatidos por montaria.
+
+###### Art. 5.º O envio das colheitas e a comunicação dos resultados dos exames laboratoriais deve efectuar-se do seguinte modo:
+
+a) 75% das colheitas devem ser efectuadas em tubos hematocritos e as restantes 25% em tubos de hemólise - aproximadamente 2 ml de sangue -, sendo enviadas a um dos laboratórios, do Porto, de Lisboa, de Évora, de Faro ou de Mirandela, no prazo máximo de quarenta e oito horas;
+
+b) O envio ao laboratório das colheitas deve ser acompanhado pelo modelo n.º 1, em anexo a este Regulamento, devidamente preenchido;
+
+c) O resultado dos exames laboratoriais deve ser comunicado utilizando igualmente o modelo n.º 1, sendo o original enviado à direcção regional de agricultura respectiva, o duplicado ao médico veterinário responsável pela exploração, ou, nas explorações familiares, à entidade que executou a acção, ficando o triplicado em arquivo no laboratório que efectuou a análise.
+
+###### Art. 6.º No período de realização dos rastreios referidos no artigo 4.º e até à notificação dos resultados sorológicos dos mesmos, só é permitida a movimentação de suínos para abate desde que devidamente autorizada pela autoridade sanitária veterinária.
+
+###### Art. 7.º Em todas as situações de suspeita ou confirmação da doença, a autoridade sanitária veterinária deve notificar oficialmente o proprietário da exploração a colocar sob rigoroso sequestro hígio-sanitário, determinando:
+
+a) O recenseamento de todas as categorias de porcos da exploração à data de imposição de sequestro;
+
+b) A proibição, se necessário, do movimento de pessoas, animais e veículos provenientes da exploração ou com destino a ela.
+
+###### Art. 8.º Sempre que se verifique a eclosão de um foco, devem ser adoptadas as seguintes medidas:
+
+a) Na exploração em que for diagnosticada a doença é obrigatório proceder, sob controlo oficial, ao abate da totalidade do efectivo e à sua destruição por cremação ou enterramento, sendo também efectuado o respectivo inquérito epidemiológico;
+
+b) A limpeza e desinfecção das explorações em que tenham ocorrido focos é efectuada, sob controlo oficial, imediatamente após o abate dos suínos, num prazo não superior a duas semanas;
+
+c) O repovoamento das explorações referidas nas alíneas anteriores só se deve efectuar um mês após a vistoria comprovativa das acções de limpeza e desinfecção, com a introdução de porcos sentinelas durante um período de 30 dias;
+
+d) O número de porcos sentinelas a introduzir deve corresponder a 10% do efectivo abatido;
+
+e) Os porcos sentinelas a introduzir devem ser provenientes de explorações indemnes de PSA, sendo controlados sorologicamente nos 30 dias que antecedem a expedição da exploração de origem e nos 30 dias após terem sido introduzidos na exploração de destino;
+
+f) A autoridade sanitária veterinária pode autorizar o repovoamento das explorações três meses após a entrada dos porcos sentinelas, desde que os testes referidos na alínea anterior tenham resultados negativos;
+
+g) Todos os animais usados para repovoamento são testados na exploração de origem e, 30 dias após a sua chegada, na exploração de destino.
+
+###### Art. 9.º Sempre que se verifique a situação referida no artigo anterior é estabelecida, em redor do local de detecção do foco, uma zona de protecção num raio de 3 km e uma zona de vigilância de raio não inferior a 10 km, devendo:
+
+a) Realizar-se nas explorações suinícolas que se encontrem na zona de protecção o controlo sorológico aos seus efectivos de acordo com o seguinte quadro:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf))](https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf)
+
+b) Executar-se, nos 30 dias seguintes após a realização do estabelecido na alínea b) do artigo 8.º, outro controlo sorológico aos efectivos das explorações que se encontram na zona de protecção, bem como aos efectivos das explorações que se encontram na zona de vigilância, de acordo com o quadro previsto na alínea anterior.
+
+###### Art. 10.º É proibido o trânsito de animais dentro das zonas de protecção e vigilância durante pelo menos 30 dias, podendo a circulação dos animais ser posteriormente efectuada mediante autorização da autoridade sanitária veterinária.
+
+###### Art. 11.º Nas zonas referidas nos artigos anteriores pode ser autorizada a circulação de suínos para abate imediato, desde que:
+
+a) Todo o efectivo a transportar seja objecto de uma sorologia prévia com resultados negativos;
+
+b) O matadouro de destino se encontre dentro dessas zonas.
+
+###### Art. 12.º O proprietário dos animais sujeitos a abate sanitário deve ser indemnizado, de acordo com a legislação em vigor.
+
+###### Art. 13.º O médico veterinário responsável pelo controlo sanitário nas montarias deve proceder em conformidade com o seguinte:
+
+a) Inspecção sanitária dos animais abatidos;
+
+b) Colheita de sangue em tubo de hemólise - aproximadamente 2 ml de sangue - e colheita de fragmento de amígdala e baço;
+
+c) Envio das colheitas referidas na alínea anterior ao Laboratório Nacional de Veterinária, em Lisboa, acompanhadas do impresso modelo n.º 1, em anexo a este Regulamento, devidamente preenchido;
+
+d) Identificação das carcaças e emissão das respectivas guias de circulação, em conformidade com o previsto no Decreto-Lei n.º 290/90, de 20 de Setembro.
+
+### CAPÍTULO III — Medidas de sanidade veterinária específicas
+
+###### Art. 14.º As medidas específicas de sanidade veterinária a implementar na zona de monitoragem são, sem prejuízo da aplicação das disposições gerais, as seguintes:
+
+1) O controlo sorológico será efectuado nos seguintes termos:
+
+a) Semestralmente, a 100% do efectivo reprodutor;
+
+b) A execução do controlo sorológico e dos exames laboratoriais deve ser efectuada em conformidade com o previsto nas alíneas b) e c) do artigo 4.º e das alíneas a), b) e c) do artigo 5.º do presente Regulamento;
+
+2) Sempre que os animais se destinem a explorações de recria e engorda fora da zona de monitoragem deve proceder-se de acordo com o seguinte:
+
+a) Inspecção dos animais a transportar e emissão da respectiva guia sanitária veterinária pela autoridade sanitária veterinária;
+
+b) Os animais devem ser identificados individualmente com a marca auricular ou tatuagem atribuída pela Direcção Regional de Agricultura do Alentejo;
+
+c) Os animais a movimentar deverão ser provenientes de uma exploração cujo efectivo foi controlado há pelo menos seis meses.
+
+### CAPÍTULO IV — Reestruturação das explorações situadas na zona de monitoragem
+
+###### Art. 15.º Às unidades produtoras de leitões já legalizadas ou em processo de legalização é concedida uma ajuda financeira para a conversão em unidades de porcos para abate, desde que não se verifique o aumento do efectivo reprodutor, o qual deve ser calculado pela média das duas últimas declarações de existência de suínos entregues nos prazos respectivos.
+
+###### Art. 16.º A ajuda financeira referida no artigo anterior é concedida de acordo com a despesa efectuada e até ao montante máximo de 40000$00 por lugar de engorda a instalar.
+
+###### Art. 17.º Os lugares de engorda referidos no artigo anterior devem ter uma área de 1 m2 por suíno.
+
+###### Art. 18.º A candidatura a esta ajuda deverá ser formalizada junto da Direcção Regional de Agricultura do Alentejo, mediante a apresentação dos seguintes documentos:
+
+a) Memória descritiva;
+
+b) Plano de exploração elaborado pelo médico veterinário responsável;
+
+c) Planta de localização à escala de 1:1000;
+
+d) Planta detalhada das construções à escala de 1:3000;
+
+e) Alvará sanitário ou certidões da câmara municipal, da administração regional de saúde e da direcção regional do ambiente e recursos naturais.
+
+###### Art. 19.º Após a aprovação do projecto pode ser concedido um adiantamento até ao montante máximo de 50% do valor das despesas aprovadas, mediante apresentação pelo beneficiário de garantia bancária ou caução no valor correspondente ao adiantamento.
+
+###### Art. 20.º Após a execução do projecto devem ser apresentados na Direcção Regional de Agricultura do Alentejo os justificativos, facturas e recibos das despesas realizadas.
+
+###### Art. 21.º Após a recepção dos documentos referidos no artigo anterior, a Direcção Regional de Agricultura do Alentejo deve efectuar a vistoria final e, se se encontrarem cumpridas todas as formalidades de acordo com a documentação inicialmente apresentada, deve completar o pagamento das ajudas referidas no artigo 20.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf))](https://files.diariodarepublica.pt/1s/1995/08/176b00/49054907.pdf)

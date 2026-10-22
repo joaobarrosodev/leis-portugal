@@ -1,0 +1,422 @@
+---
+schema_version: '1.0'
+id: pt:dre:107507169:por
+title: Decreto-Lei n.º 64/2017
+short_title: null
+summary: Aprova o regime para novas centrais de biomassa florestal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Economia
+proposing_entity: null
+official_number: 64/2017
+official_date: null
+publication_date: '2017-06-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 113/2017, Série I de 2017-06-12
+  number: '113'
+  series: I
+  supplement: null
+  pages: 2966 - 2968
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/06/11300/0296602968.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-11-18'
+version_history:
+  file: decreto-lei-64-2017.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2017-06-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-08-23'
+    amending: pt:dre:124134339:por
+    amending_title: Decreto-Lei n.º 120/2019
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 3.º-A
+    - Adita Artigo 6.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+  - date: '2022-10-25'
+    amending: pt:dre:202552706:por
+    amending_title: Decreto-Lei n.º 73/2022
+    changes:
+    - Adita Artigo 6.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 2.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 3.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 6.º-A
+  - date: '2023-11-18'
+    amending: pt:dre:224427487:por
+    amending_title: Decreto-Lei n.º 105/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 3.º-A
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/64/2017/p/cons/20231117/pt/html
+  oj: null
+  dre: '107507169'
+  dre_path: /dr/detalhe/decreto-lei/64-2017-107507169
+  internal: pt:dre:107507169:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2017-107507169
+  metadata_url: https://data.dre.pt/eli/dec-lei/64/2017/p/cons/20231117/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-107811262
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-107811262
+  retrieved_at: '2026-10-22T12:13:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b35ea0ccfecb270703c9fd8c0a91cbd2f50b7293b4284b4129fe526b3e04e394
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:13:33Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-64-2017.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Prevenção de Incêndios
+- Central Termoeléctrica
+- Direção Geral de Energia e Geologia
+- Instituto da Conservação da Natureza e das Florestas
+- Ordenamento Florestal
+- Produção de Energia Elétrica
+- Sector Florestal
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:107805900:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2017-107805900
+  date: '2017-08-03'
+- type: amended_by
+  target: pt:dre:124134339:por
+  label: Adita Artigo 2.º-A; Adita Artigo 3.º-A; Adita Artigo 6.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º;
+    Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339
+  date: '2019-08-22'
+- type: amended_by
+  target: pt:dre:202552706:por
+  label: Adita Artigo 6.º-B; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 2.º-A; Altera Artigo 3.º; Altera Artigo 3.º-A;
+    Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 6.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706
+  date: '2022-10-24'
+- type: amended_by
+  target: pt:dre:224427487:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º-A; Altera Artigo 3.º; Altera Artigo 3.º-A; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2023-224427487
+  date: '2023-11-17'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/114/2011/11/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/124/2006/06/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/124/2006/06/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/15/2009/01/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/2009/01/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/165/2015/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/165/2015/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/17/2009/01/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/17/2009/01/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/179/2012/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/179/2012/08/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/5/2011/01/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/5/2011/01/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/83/2014/05/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/83/2014/05/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/65/2006/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/65/2006/05/26/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:13:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 64/2017
+
+Decreto-Lei n.º 64/2017
+
+de 12 de junho
+
+Os espaços florestais ocupam cerca de 35 % do território continental e são fornecedores de diversos produtos essenciais para atividades industriais como a pasta e papel, cortiça e mobiliário, contribuindo para gerar 2 % do PIB, 12 mil postos de trabalho diretos, 8 % do PIB industrial e 5,6 % das exportações, havendo estimativas que apontam para 2907 milhões de euros, o valor da floresta portuguesa, segundo as contas nacionais do Instituto Nacional de Estatística, I. P., relativas a 2014.
+
+Os incêndios florestais colocam em causa esta riqueza afetando a sustentabilidade de 64 % do território coberto por florestas e matagais. No intervalo 1980-2006 e segundo dados oficiais, foram consumidos por incêndios florestais mais de 3 milhões de hectares. A área ardida durante os últimos anos foi ainda mais expressiva da devastação da floresta.
+
+Os incêndios são, portanto, não só um problema da política florestal e da sustentabilidade desta mas também uma preocupação da proteção civil na dupla vertente da defesa da integridade física das populações e igualmente da preservação dos seus meios de subsistência e bens patrimoniais.
+
+O Plano Nacional de Defesa da Floresta contra Incêndios (PNDFCI), aprovado pela Resolução do Conselho de Ministros n.º 65/2006, de 26 de maio, preconiza intervenções em domínios prioritários como sejam a prevenção estrutural, vigilância, combate e eixos estratégicos de atuação, envolvendo, nomeadamente, o aumento da resiliência do território aos incêndios florestais, a redução da incidência dos incêndios, a melhoria da eficácia do ataque e da gestão dos incêndios, a recuperação e reabilitação dos ecossistemas e a adaptação de uma estrutura orgânica e funcional eficaz.
+
+No quadro deste conjunto de medidas do PNDFCI, o Governo lançou no mesmo ano de 2006 procedimentos de concurso público visando a construção e exploração de centrais dedicadas a biomassa florestal residual abrangendo uma potência total de injeção na rede de 100 MW, a localizar em áreas de rede escolhidas numa ótica de sustentabilidade do abastecimento do recurso florestal e risco de incêndio.
+
+Esta potência não chegou a ser totalmente mobilizada pela iniciativa privada ficando por instalar uma percentagem na ordem dos 50 % da potência de injeção então colocada a concurso e que agora importa atribuir, reconhecendo, assim, o contributo que estas centrais podem ter para a dinamização do mercado dos sobrantes florestais e indiretamente o fomento das boas práticas de gestão e exploração florestal sustentável, e ainda a economia local, objetivos que integram os eixos da política florestal do Programa do XXI Governo Constitucional, na vertente do «reforço do ordenamento florestal e da produtividade das principais fileiras silvoindustriais» e da «primazia da proteção da floresta face aos incêndios».
+
+Compreendendo o papel que os municípios devem ter na dinamização deste esforço, o presente decreto-lei atribui as potências disponíveis às câmaras municipais dos concelhos que forem selecionados para acolher as novas centrais, cuja escolha deve assentar principalmente na prossecução do objetivo fundamental de defesa da floresta, do ordenamento e preservação florestais, e do combate aos incêndios, sem prejuízo da necessidade de acautelar a disponibilidade de capacidade de receção da potência de injeção.
+
+Neste âmbito, a concreta potência de injeção a atribuir terá de ser solicitada à Direção-Geral de Energia e Geologia, dentro dos limites máximos definidos, no intuito de prevenir a instalação de unidades produtivas de grande dimensão, devendo ser privilegiadas unidades de autossubsistência ou de pequena dimensão, numa escala mais local, e tidos em conta pontos de receção ou licenças que se revelem necessárias nos termos do regime jurídico da produção de eletricidade de fonte renovável e sem prejuízo da aplicação de outros regimes jurídicos, nomeadamente da área do ambiente e resíduos.
+
+O presente decreto-lei foi precedido, no período compreendido entre 7 de novembro de 2016 e 31 de janeiro de 2017, de ampla discussão pública.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente decreto-lei define um regime especial e extraordinário para a instalação e exploração, por municípios ou, por decisão destes, por entidades intermunicipais ou por associações de municípios de fins específicos, de novas centrais de valorização de biomassa, definindo, ao mesmo tempo, medidas de apoio e incentivo destinadas a assegurar a sua concretização, com o objetivo fundamental da defesa da floresta, do ordenamento e preservação florestais e do combate aos incêndios rurais.
+
+2 - O regime aprovado pelo presente decreto-lei é limitado:
+
+a) Revogada;
+
+b) A um máximo de potência de injeção na rede elétrica de serviço público (RESP), no continente, de 60 MW e, por cada central, de 10 MW.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 105/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2023-224427487), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2019 - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339), em vigor a partir de 2019-08-23
+
+###### Artigo 2.º — Definições
+
+Para efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) «Biomassa» a biomassa agrícola, a biomassa florestal residual e a resultante de culturas energéticas, nos seguintes termos:
+
+i) «Biomassa agrícola», o material residual da atividade agrícola e da indústria agroalimentar, onde se incluem nomeadamente sobrantes das cadeias de valor de cereais (milho, trigo, cevada, girassol, etc.), do arroz, dos pomares, do olival, da vinha, e de outras atividades agroindustriais (desde que resultantes da preparação da matéria-prima) e ainda os provenientes das explorações pecuárias;
+
+ii) 'Biomassa florestal residual', a fração biodegradável dos produtos e desperdícios resultantes da instalação, gestão e exploração florestal (cepos, toiças, raízes, folhas, ramos e bicadas), do material lenhoso resultante de cortes fitossanitários e de medidas de gestão integrada de fogos rurais, e do controlo de áreas com invasoras lenhosas, excluindo os sobrantes das indústrias transformadoras da madeira, designadamente cascas, restos, aparas e serradura;
+
+iii) «Culturas energéticas», as culturas florestais de rápido crescimento, cuja produção e respetiva silvicultura preveja rotações inferiores a seis anos e cuja transformação industrial seja dedicada à produção de energia elétrica ou térmica;
+
+b) 'Central a biomassa' a instalação destinada à produção de energia elétrica e térmica, com produção em cogeração ou trigeração, que utilize como combustível a biomassa, podendo incorporar uma percentagem máxima de 5 % de combustível fóssil como combustível auxiliar e de arranque, em cômputo anual;
+
+c) 'Territórios vulneráveis' as freguesias identificadas nos termos do n.º 3 do artigo 2.º do Decreto-Lei n.º 28-A/2020, de 26 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2019 - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339), em vigor a partir de 2019-08-23
+
+###### Artigo 2.º-A — Apresentação de pedidos
+
+1 - Têm legitimidade para apresentar os pedidos de instalação e exploração de centrais de biomassa previstas no presente decreto-lei as entidades referidas no n.º 1 do artigo 1.º e as entidades, de natureza pública ou privada, a quem aquelas tenham transmitido, mediante contrato público, essa faculdade.
+
+2 - Os pedidos são apresentados junto da Direção-Geral de Energia e Geologia (DGEG), no âmbito do procedimento concorrencial para a obtenção do título de reserva de capacidade de injeção na RESP, nos termos dos artigos 18.º e 22.º do Decreto-Lei n.º 15/2022, de 14 de janeiro, na sua redação atual.
+
+3 - Os termos do procedimento concorrencial referido no número anterior são determinados por portaria do membro do Governo responsável pela área da energia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2023-224427487), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706), em vigor a partir de 2022-10-25
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2019 - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339), em vigor a partir de 2019-08-23
+
+###### Artigo 3.º — Requisitos para instalação de centrais a biomassa
+
+1 - (Revogado.)
+
+2 - A instalação de centrais de biomassa obedece aos seguintes requisitos cumulativos:
+
+a) Localização em freguesias consideradas como territórios vulneráveis, nas áreas correspondentes às classes de perigosidade 'alta' e 'muito alta', ou na proximidade destas, em zonas com povoamentos florestais, ou em áreas prioritárias de prevenção e segurança, quando coincidentes com perigosidade 'alta' ou 'muito alta' e desde que resultantes da respetiva adaptação pelas comissões sub-regionais de gestão integrada de fogos rurais, nos termos do Decreto-Lei n.º 82/2021, de 13 de outubro, na sua redação atual;
+
+b) (Revogada.)
+
+c) Disponibilidade de biomassa que demonstre, comprovadamente, a sustentabilidade do recurso ao longo do tempo e que contribua para promover cadeias logísticas locais de recolha e transporte da matéria-prima;
+
+d) Implantação em áreas afetas a uso industrial ou próximas de equipamentos coletivos que permitam o aproveitamento da energia térmica a produzir;
+
+e) Determinação da potência máxima injetável na rede em função da potência térmica a instalar.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2023-224427487), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2019 - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339), em vigor a partir de 2019-08-23
+
+###### Artigo 3.º-A — Aprovisionamento das centrais a biomassa
+
+1 - O cumprimento do requisito previsto na alínea c) do n.º 2 do artigo anterior é demonstrado mediante parecer vinculativo do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), a solicitar pela DGEG, no prazo de três dias após a receção do pedido referido no artigo 2.º-A.
+
+2 - O parecer referido no número anterior é emitido no prazo de 30 dias.
+
+3 - O parecer referido no n.º 1 é precedido de pronúncia das comissões sub-regionais de gestão integrada de fogos rurais dos territórios abrangidos, quando estas se encontrarem constituídas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2023-224427487), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706), em vigor a partir de 2022-10-25
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2019 - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339), em vigor a partir de 2019-08-23
+
+###### Artigo 4.º — Controlo prévio
+
+1 - A instalação e exploração de centrais a biomassa ao abrigo do presente decreto-lei está sujeita à obtenção de licença de produção e de licença de exploração.
+
+2 - A obtenção de licença de produção e de licença de exploração está sujeita ao regime estabelecido no Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual, com as especificidades decorrentes do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2019 - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339), em vigor a partir de 2019-08-23
+
+###### Artigo 5.º — Licença de produção e licença de exploração
+
+1 - O pedido de atribuição de licença de produção é precedido da obtenção de título de reserva de capacidade de injeção na RESP, nos termos do procedimento concorrencial referido no artigo 2.º-A.
+
+2 - A atribuição de licença de exploração é efetuada nos termos previstos no artigo 20.º do Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual, podendo a vistoria aí prevista ser, por opção do requerente, realizada por entidade acreditada para o efeito.
+
+3 - Nos casos de vistoria realizada por entidade acreditada, a remessa do relatório de vistoria, que ateste a conformidade da instalação com as normas legais e regulamentares aplicáveis, implica a emissão da licença de exploração pela DGEG no prazo de cinco dias, podendo, findo esse prazo, iniciar-se a exploração da central.
+
+4 - (Revogado.)
+
+5 - Por portaria dos membros do Governo responsáveis pelas áreas da energia e das florestas são fixados:
+
+a) Os elementos instrutórios do pedido de licença de produção e de licença de exploração, incluindo o disposto no artigo 6.º-B;
+
+b) Os elementos necessários à emissão do parecer previsto no artigo 3.º-A.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 105/2023 - Diário da República n.º 223/2023, Série I de 2023-11-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/105-2023-224427487), em vigor a partir de 2023-11-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2019 - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339), em vigor a partir de 2019-08-23
+
+###### Artigo 6.º — Regime remuneratório
+
+1 - A eletricidade produzida pelas centrais a biomassa e injetada na RESP é remunerada ao preço do Mercado Ibérico de Eletricidade (MIBEL), acrescido dos seguintes suplementos remuneratórios:
+
+a) Um prémio de mercado, expresso em Euros por MWh injetado, devido desde o início da produção e diferenciado em função da potência instalada;
+
+b) Um prémio por MWh no âmbito do contributo dado pela central para a gestão integrada de fogos rurais e para a proteção da floresta, devido no ano seguinte ao do início da produção e apenas nos casos em que se verifique que o aprovisionamento da biomassa florestal residual utilizada é proveniente dos territórios vulneráveis.
+
+2 - Os suplementos remuneratórios referidos no número anterior vigoram pelo prazo de 15 anos, findo o qual a remuneração aplicável é correspondente ao preço de mercado.
+
+3 - O disposto nos números anteriores não prejudica a aplicação, cumulativa, do disposto nas subalíneas i) e ii) da alínea b) do n.º 1 do artigo 4.º-A do Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual.
+
+4 - Os suplementos remuneratórios referidos no n.º 1 são estabelecidos por portaria do membro do Governo responsável pela área da energia, depois de ouvidas a DGEG e a Entidade Reguladora dos Serviços Energéticos.
+
+5 - As centrais cuja instalação ou funcionamento tenha beneficiado de apoios com a natureza de subvenção ou subsídio não reembolsáveis ficam sujeitas a uma redução ou mesmo à eliminação dos suplementos remuneratórios de que beneficiem, até à completa neutralização do impacto da subvenção não reembolsável, findo o que podem retomar os mencionados suplementos pelo período remanescente de duração dos mesmos, caso ainda esteja a decorrer.
+
+6 - Os suplementos remuneratórios referidos no n.º 1 são suspensos durante o período em que se verifique a situação prevista no número anterior ou se verifique o incumprimento das obrigações constantes dos n.os 2 e 3 do artigo 7.º
+
+7 - O preço da energia térmica produzida pelas centrais a biomassa é o que resultar dos contratos livremente celebrados entre o produtor e os terceiros adquirentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706), em vigor a partir de 2022-10-25
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2019 - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339), em vigor a partir de 2019-08-23
+
+> Retificado pelo/a [Declaração de Retificação n.º 20/2017 - Diário da República n.º 149/2017, Série I de 2017-08-03](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/20-2017-107805900), em vigor a partir de 2017-06-13
+
+###### Artigo 6.º-A — Venda da energia
+
+1 - A energia elétrica injetada na RESP é adquirida pelo Comercializador de Último Recurso (CUR) mediante contrato a celebrar com o produtor, nos termos a estabelecer na portaria referida no n.º 4 do artigo anterior.
+
+2 - A remuneração do CUR pela aquisição da eletricidade referida no número anterior é efetuada nos termos previstos no artigo 142.º do Decreto-Lei n.º 15/2022, de 14 de janeiro.
+
+3 - A energia térmica produzida é livremente contratualizada pelo produtor.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706), em vigor a partir de 2022-10-25
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2019 - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339), em vigor a partir de 2019-08-23
+
+###### Artigo 6.º-B — Sistema de captura e utilização de carbono
+
+1 - É obrigatória a instalação de sistema de captura e utilização de carbono nas centrais de biomassa instaladas ao abrigo do presente decreto-lei.
+
+2 - O sistema referido no número anterior deve entrar em funcionamento até 1 de janeiro de 2026.
+
+3 - A obrigação prevista no n.º 1 não é aplicável no caso de inviabilidade de mercado, técnica ou económica, a comprovar obrigatoriamente, pelo requerente, aquando do pedido de instalação da central de biomassa ao abrigo do presente decreto-lei.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 73/2022 - Diário da República n.º 205/2022, Série I de 2022-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2022-202552706), em vigor a partir de 2022-10-25
+
+###### Artigo 7.º — Controlo e fiscalização
+
+1 - O controlo e fiscalização do aprovisionamento das centrais é assegurado pelo ICNF, I. P., sem prejuízo das competências próprias de outros organismos do Estado e designadamente das autoridades policiais.
+
+2 - O produtor deve apresentar ao ICNF, I. P., e à DGEG, até 31 de março de cada ano, relatório anual descrevendo o aprovisionamento da central, identificando, designadamente, a quantidade, a natureza e a origem da biomassa consumida na central no ano anterior.
+
+3 - O produtor deve permitir a inspeção da central, bem como a auditoria e monitorização dos consumos de biomassa florestal por parte do ICNF, I. P., ou DGEG, ou mediante solicitação destas, por entidade acreditada contratada pelo produtor.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 120/2019 - Diário da República n.º 160/2019, Série I de 2019-08-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/120-2019-124134339), em vigor a partir de 2019-08-23
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de março de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Fernando António Portela Rocha de Andrade - Eduardo Arménio do Nascimento Cabrita - Paulo Alexandre dos Santos Ferreira - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
+
+Promulgado em 21 de abril de 2017.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 3 de maio de 2017.
+
+O Primeiro-Ministro, António Luís Santos da Costa.

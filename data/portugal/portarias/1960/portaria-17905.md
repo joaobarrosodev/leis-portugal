@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:500443:por
+title: Portaria n.º 17905
+short_title: null
+summary: Estabelece novo regime para o comércio da batata de semente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretarias de Estado da Agricultura e do Comércio
+proposing_entity: null
+official_number: '17905'
+official_date: null
+publication_date: '1960-08-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 190/1960, Série I de 1960-08-17
+  number: '190'
+  series: I
+  supplement: null
+  pages: 1870 - 1870
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/08/19000/18701870.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '500443'
+  dre_path: /dr/detalhe/portaria/17905-1960-500443
+  internal: pt:dre:500443:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17905-1960-500443
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17905-1960-500443
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1960-08-17T00:00:00Z'
+integrity:
+  source_sha256: c3f30656cd47a7e0d03a60e1b09a064670ac89e09c792fec094c33b38500c311
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-17905-500443.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17905
+
+O regime que tem regulado nos últimos anos o comércio de batata de semente não assegura o seu exercício normal, nem pode considerar-se como o que melhor defende hoje, na generalidade, os interesses dos produtores de batata de consumo. Tem sido mantido, todavia, por se ter entendido que a fixação de um contingente de importação de batata de semente seria o meio de mais fàcilmente defender a batata de semente nacional da concorrência que lhe possa fazer a de origem estrangeira. Julga-se, porém, que, nas circunstâncias em que actualmente se desenvolve a nossa vida económica, este regime de fixação de um contingente de importação não é o único capaz de defender a posição dos produtores nacionais de batata de semente, nem o que, no futuro, mais eficazmente poderá proporcionar o melhoramento da produção, contribuindo para que se obtenha um produto que satisfaça cabalmente os interesses da lavoura.
+
+O comércio de batata de semente nacional já hoje beneficia de um diferencial de encargos, relativamente aos que oneram a batata estrangeira, de cerca de $70 por quilograma. E afigura-se que um conveniente e equilibrado reforço dessa protecção, em relação à batata de semente nacional certificada de boa qualidade, será o processo de melhor auxiliar a expansão da sua cultura no País. A mesma necessidade de selecção impõe que se deva manter, quanto à importação, a sua limitação às variedades de batata de semente estrangeira que melhor servem a produção nacional.
+
+Tem-se, por outro lado, o maior interesse em fomentar a produção de batata temporã para exportação. E convém, por isso, criar condições que proporcionem ao produtor vantagens na aquisição das correspondentes variedades de batata de semente.
+
+A revisão do regime do comércio de batata de semente foi objecto de estudo pela Comissão de Coordenação Económica, juntamente com a Direcção-Geral dos Serviços Agrícolas e com a Junta Nacional das Frutas, tendo sido ouvidos sobre ele a Corporação da Lavoura e os grémios dos importadores e armazenistas de batata. Com base nesse estudo e tendo em atenção os reais interesses da produção nacional de batata de semente e de consumo, estabelece-se novo regime para o comércio da primeira.
+
+Cabe à Junta Nacional das Frutas acompanhar a sua aplicação, de que se espera, com a compreensão dos interessados, a recondução deste comércio à normalização da sua actividade e um mais racional acesso à batata certificada por parte dos produtores de batata de consumo e a preço mais baixo.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado da Agricultura e do Comércio, de acordo com o preceituado nos Decreto-Leis n.os 36665 e 38747, respectivamente de 10 de Dezembro de 1947 e 10 de Maio de 1952, o seguinte:
+
+1.º É livre a importação das variedades de batata de semente que constem da lista publicada pela Direcção-Geral dos Serviços Agrícolas em vigor à data da importação.
+
+2.º Não será autorizada a importação de batata de semente da classe C, ou de classes correspondentes de origem que não adoptem a classificação por letras, nem de tubérculos que excedam 65 mm, sejam quais forem a variedade, classe e origem, concedendo-se, porém, uma tolerância de 2 por cento em peso por saco de batata, no que respeita ao calibre.
+
+3.º Será concedido um subsídio de $25 por quilograma à batata de semente da classe A produzida pelas cooperativas de produtores de batata de semente nacional até ao quantitativo global máximo de 3500 t.
+
+4.º Será isenta da taxa de $10, instituída pela [Portaria n.º 17433](https://diariodarepublica.pt/dr/detalhe/portaria/17433-1959-439600), de 18 de Novembro de 1959, a batata de semente importada até 15 de Dezembro das variedades de curto ciclo vegetativo que forem consideradas do maior interesse para a produção de batata de consumo destinada a mercados estrangeiros.
+
+5.º A Direcção-Geral dos Serviços Agrícolas e a Junta Nacional das Frutas comunicarão à Corporação da Lavoura e aos grémios dos importadores e armazenistas de batata, até 30 de Setembro, as variedades que beneficiarão da isenção da taxa a que se refere o número anterior.
+
+6.º O subsídio a que se refere o n.º 3.º será pago, na campanha de 1960-1961, por força das receitas do fundo criado pelo artigo 30.º do [Decreto-Lei n.º 36665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36665-1947-637463), administrado pela Direcção-Geral dos Serviços Agrícolas, e pelo Fundo de Compensação para Regularização de Preços de Batata de Origem Estrangeira, administrado pela Junta Nacional das Frutas.
+
+Ministério da Economia, 17 de Agosto de 1960 - O Secretário de Estado da Agricultura, Luís Quartin Graça. - O Secretário de Estado do Comércio, José Gonçalo da Cunha Sottomayor Correia de Oliveira.

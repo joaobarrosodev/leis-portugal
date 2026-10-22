@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:854546003:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso-extrato/2024-1177949775",
+ "dre_path": "/dr/detalhe/aviso-extrato/4977-2024-854546003",
+ "source_lastmod": "2026-10-06",
+ "versions": [
+  {
+   "date": "2024-03-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1177951275"
+   ]
+  }
+ ],
+ "fragments": {
+  "1177951275": {
+   "fragment_id": "1177949875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 4977/2024/2\n\nFaz-se público que o Conselho de Administração da Unidade Local de Saúde do Estuário do Tejo, E. P. E., por deliberação de 16 de fevereiro de 2024, homologou a lista de classificação final referente ao procedimento concursal comum para ocupação de 8 (oito) postos de trabalho na categoria de enfermeiro especialista em enfermagem de saúde mental e psiquiátrica, da carreira especial de enfermagem/carreira de enfermagem, do mapa de pessoal do Hospital de Vila Franca de Xira, E. P. E., mediante celebração de contrato de trabalho por tempo indeterminado, aberto através do Despacho n.º 11398-C/2021 de 18 de novembro, publicado no Diário da República, 2.ª série, n.º 224, articulado com Despacho n.º 4046/2022, de 7 de abril, publicado no Diário da República, 2.ª série, n.º 69, proferidos por sua Excelência o Secretário de Estado Adjunto e da Saúde, e por deliberação do Conselho de Administração do Hospital de Vila Franca de Xira, E. P. E. de 30 de outubro de 2023, publicado no Diário da República, 2.ª série, n.º 232, de 30 de novembro de 2023, pelo Aviso n.º 23252/2023.\n\nClassificação final:\n\n| Ordenação | Candidatos | Classificação |\n| --- | --- | --- |\n|  |  |  |\n|  | Admitidos |  |\n| 1.º | Célia Maria Pires Miranda | 13,00 valores |\n| 2.º | Ana Lúcia Antunes dos Santos | 12,20 valores |\n| 3.º | Ana Luísa da Paixão Pinheiro | 11,70 valores |\n| 4.º | Iolanda Sofia da Costa Ferreira | 10,56 valores |\n| 5.º | Rafaela da Silva Martins | 10,50 valores |\n|  | Excluídos* |  |\n| 6.º | Adriana Sofia Duarte Nunes | 08,17 valores |\n| 7.º | Paula Maria dos Santos Correia | 07,80 valores |\n\n* Candidatos Excluídos por nota de Avaliação Curricular inferior a 9,50 valores."
+  }
+ }
+}

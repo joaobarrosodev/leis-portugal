@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:25345922:por
+title: Decreto-Lei n.º 88/2014
+short_title: null
+summary: Altera o Código dos Valores Mobiliários em matéria de registo dos auditores junto da Comissão do Mercado de Valores
+  Mobiliários e seus deveres, complementando o processo de transposição da Diretiva n.º 2006/43/CE, do Parlamento Europeu
+  e do Conselho, de 17 de maio de 2006
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 88/2014
+official_date: null
+publication_date: '2014-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/2014, Série I de 2014-06-06
+  number: '109'
+  series: I
+  supplement: null
+  pages: 3072 - 3074
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/06/10900/0307203074.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/88/2014/06/06/p/dre/pt/html
+  oj: null
+  dre: '25345922'
+  dre_path: /dr/detalhe/decreto-lei/88-2014-25345922
+  internal: pt:dre:25345922:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2014-25345922
+  metadata_url: https://data.dre.pt/eli/dec-lei/88/2014/06/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2014-25345922
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-06-06T00:00:00Z'
+integrity:
+  source_sha256: 83e67094212980a20dc5b8c16575ff68ae80a15b189f80b43323c8ae905cd37a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2014/DRE-2014-88-25345922.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Valores Mobiliários
+- Auditor
+- Código dos Valores Mobiliários
+- Comunidade Europeia
+- Definição de Competências
+- Países Terceiros
+- Registo Obrigatório
+- CMVM
+relationships:
+- type: cites
+  target: celex:32006L0043
+  label: null
+  source: http://data.europa.eu/eli/dir/2006/43/oj
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/2001/256/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/2001/256/oj
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/2002/590/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/2002/590/oj
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 88/2014
+
+de 6 de junho
+
+À margem das soluções de fiscalização contabilística previstas noutros diplomas legais, nomeadamente no Código das Sociedades Comerciais, o Código do Mercado dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, instituiu um sistema de revisão de contas por um auditor externo, registado na Comissão do Mercado de Valores Mobiliários (CMVM).
+
+Assim, ao revisor oficial de contas, enquanto órgão social regulado no Código das Sociedades Comerciais, passou a somar-se o auditor externo, hoje regulado no Código dos Valores Mobiliários, sem prejuízo de se admitir que as duas funções possam ser exercidas pela mesma pessoa, e que a certificação legal de contas e o relatório do auditor externo sejam apresentados num documento único.
+
+O regime atualmente consagrado no artigo 9.º do Código dos Valores Mobiliários, desenvolvido e concretizado pelo Regulamento da CMVM n.º 6/2000, de 8 de fevereiro, deve ser revisto não só perante a experiência adquirida durante mais de uma década de aplicação prática, mas também perante as importantes alterações entretanto verificadas no mais vasto quadro normativo no qual se insere, tanto a nível internacional, como a nível nacional.
+
+A partir de 2000, um conjunto de acontecimentos demonstraram a necessidade de reforçar os sistemas de fiscalização societária existentes, levando a Comissão Europeia a reconhecer, na sua Comunicação de 21 de maio de 2003, relativa ao futuro da revisão oficial de contas na União Europeia, a insuficiência do plano de ação traçado em 1998, e refletido nas suas Recomendações n.os [2001/256/CEE](https://data.europa.eu/eli/reco/2001/256/oj?locale=pt), da Comissão, de 15 de novembro de 2000, relativa ao controlo de qualidade da revisão oficial de contas, e [2002/590/CEE](https://data.europa.eu/eli/reco/2002/590/oj?locale=pt), da Comissão, de 16 de maio de 2002, relativa à independência dos revisores oficiais de contas. Entendeu então a Comissão Europeia que se impunham novas iniciativas para reforçar a confiança dos investidores nos mercados de capitais e para fomentar a confiança do público nos auditores da União Europeia. Nesse sentido abandonou a sua posição segundo a qual cabia aos auditores assegurar a sua própria independência, reconhecendo as insuficiências reveladas nos sistemas de autorregulação, bem como a sua preferência por instrumentos legislativos não vinculativos. Este novo impulso culminou na Diretiva n.º [2006/43/CE](https://data.europa.eu/eli/dir/2006/43/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de maio de 2006, relativa à revisão legal das contas anuais e consolidadas.
+
+Esta Diretiva começou a ser transposta em Portugal, ainda antes da sua publicação, pelo Decreto-Lei n.º 76-A/2006, de 29 de março, alterado pelos Decretos-Leis n.os 8/2007, de 17 de janeiro, 318/2007, de 26 de setembro, 90/2011, de 25 de julho, 209/2012, de 19 de setembro, e 250/2012, de 23 de novembro, que reforçou a fiscalização das sociedades anónimas, redefinindo o papel do órgão de fiscalização da administração e, em particular, a sua relação com o revisor oficial de contas. Quanto a este último ponto, passou a exigir-se que o órgão de fiscalização da administração operasse como fórum de discussão com o revisor oficial de contas, sobre todos os assuntos considerados relevantes na revisão das contas da sociedade e sobre possíveis ilícitos de que suspeitasse ou tivesse conhecimento. Na transposição daquela Diretiva, seguiram-se o Decreto-Lei n.º 224/2008, de 20 de novembro, alterado pelo Decreto-Lei n.º 71/2010, de 18 de junho, e o Decreto-Lei n.º 225/2008, de 20 de novembro, alterado pelo Decreto-Lei n.º 71/2010, de 18 de junho. O primeiro introduziu significativas alterações no Decreto-Lei n.º 487/99, de 16 de novembro, que aprova os Estatuto da Ordem dos Revisores Oficiais de Contas, com vista, sobretudo, ao reforço da independência dos revisores, da qualidade do seu serviço e da responsabilidade do revisor da sociedade-mãe nos grupos de sociedades, bem como à regulação dos termos em que revisores de outros países podem ser registados em Portugal. O segundo criou um sistema de supervisão pública, sob responsabilidade do Conselho Nacional de Supervisão de Auditoria, cujos estatutos aprovou. O propósito foi reforçar a confiança e a credibilidade na atividade de revisão de contas exercida em Portugal. Assente na transparência, este sistema deve assegurar a aprovação e o registo de revisores oficiais de contas; a adoção de normas em matéria de deontologia profissional, de controlo interno de qualidade e de procedimentos de revisão de contas; bem como a formação contínua e o adequado funcionamento dos sistemas de controlo de qualidade, inspeção e disciplina.
+
+Entretanto, o processo legislativo europeu continuou, por iniciativa da Comissão Europeia, destacando-se a publicação em 2010 do «Livro verde sobre política de auditoria: as lições da crise», e em 2011, a apresentação da proposta de diretiva que altera a Diretiva n.º [2006/43/CE](https://data.europa.eu/eli/dir/2006/43/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de maio de 2006, relativa à revisão legal das contas anuais e consolidadas, e da proposta de regulamento relativa aos requisitos específicos para a revisão legal de contas das entidades de interesse público.
+
+Neste contexto, o presente diploma altera e adita o Código dos Valores Mobiliários em matéria de registo dos auditores junto da CMVM e seus deveres. Quanto ao primeiro aspeto, as alterações centram-se, sobretudo, na clarificação dos requisitos aplicáveis aos auditores de Estados-Membros da União Europeia e de países terceiros. Quanto ao segundo, traduzem-se na clarificação da sujeição do auditor às normas que regulam o exercício da atividade do revisor oficial de contas, na revisão do dever de comunicação de irregularidades à CMVM, e na especificação das consequências da violação de deveres. À CMVM caberá o desenvolvimento e concretização regulamentar destas normas, no cumprimento das suas incumbências.
+
+Foram ouvidos a Comissão do Mercado de Valores Mobiliários, o Conselho Nacional de Supervisão de Auditoria e a Ordem dos Revisores Oficiais de Contas.
+
+Assim
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma revê o regime jurídico aplicável aos auditores sujeitos a registo na CMVM, nomeadamente quanto ao procedimento de registo e quanto aos deveres a que os mesmos estão sujeitos, e delimita as competências da CMVM no que respeita a auditores de outros Estados-Membros e de países terceiros, alterando o Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, complementando o processo de transposição da Diretiva n.º [2006/43/CE](https://data.europa.eu/eli/dir/2006/43/oj?locale=pt), do Parlamento Europeu e do Conselho, de 17 de maio de 2006.
+
+###### Artigo 2.º — Alteração ao Código dos Valores Mobiliários
+
+O artigo 9.º do Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, passa a ter a seguinte redação:
+
+«Artigo 9.º
+
+[...]
+
+1 - Só podem ser registados como auditores na CMVM os revisores oficiais de contas, as sociedades de revisores oficiais de contas e outras pessoas singulares ou coletivas habilitadas a exercer atividade de auditoria em Portugal que sejam dotados dos meios humanos, materiais e financeiros adequados ao desempenho das suas funções, assegurando a sua idoneidade, independência e competência técnica, nos termos fixados por regulamento da CMVM.
+
+2 - Os auditores habilitados para o exercício da atividade de auditoria em outro Estado-Membro da União Europeia, que apresentem relatório de auditoria de contas individuais ou consolidadas de uma sociedade com sede num outro Estado-Membro da União Europeia, emitente de valores mobiliários admitidos à negociação num mercado regulamentado em Portugal, não estão sujeitos a registo junto da CMVM, mas esta pode exigir à sociedade emitente que demonstre a habilitação da pessoa em causa para o exercício da atividade de auditoria no Estado-Membro de origem.
+
+3 - O registo de auditores ou entidades de auditoria de países terceiros que, nos termos dos Estatutos do Conselho Nacional de Supervisão de Auditoria, aprovados pelo Decreto-Lei n.º 225/2008, de 20 de novembro, e do Estatuto da Ordem dos Revisores Oficiais de Contas, aprovado pelo Decreto-Lei n.º 487/99, de 16 de novembro, alterado pelos Decretos-Leis n.os 224/2008, de 20 de novembro, 185/2009, de 12 de agosto, estão sujeitos a registo na CMVM, depende da verificação cumulativa dos requisitos fixados nos referidos diplomas e dos requisitos de registo aplicáveis aos auditores nos termos do disposto no n.º 1, com as necessárias adaptações.
+
+4 - O registo das pessoas indicadas no número anterior é regulado por regulamento da CMVM, a qual pode, com base na reciprocidade, dispensar a aplicação de um ou mais requisitos de registo se a pessoa em causa estiver sujeita a um adequado sistema de supervisão pública, de controlo de qualidade, de inspeção e de sanções, equivalente ao exigido para o desenvolvimento da atividade de auditoria na União Europeia.
+
+5 - Para efeitos do disposto no número anterior, a CMVM deve atender às decisões da Comissão Europeia sobre a equivalência de sistemas de supervisão pública, de controlo de qualidade, de inspeção e de sanções.
+
+6 - Na falta de decisão da Comissão Europeia, a CMVM pode atender às decisões de autoridades competentes de outros Estados-Membros.»
+
+###### Artigo 3.º — Aditamento ao Código dos Valores Mobiliários
+
+É aditado ao Código dos Valores Mobiliários, aprovado pelo Decreto-Lei n.º 486/99, de 13 de novembro, o artigo 9.º-A, com a seguinte redação:
+
+«Artigo 9.º-A
+
+Deveres dos auditores
+
+1 - Na prestação de serviços previstos no Código dos Valores Mobiliários, legislação complementar e Regulamentos da CMVM, o auditor deve cumprir as normas que regulam o exercício da atividade de revisor oficial de contas.
+
+2 - O auditor deve cumprir, e fazer cumprir por todos os seus sócios, no caso das sociedades de revisores oficiais de contas, e por todas as pessoas que utilize na prestação dos serviços de auditoria, o dever de independência, nos termos previstos em regulamento da CMVM.
+
+3 - Sem prejuízo dos demais deveres de informação e de comunicação a que esteja sujeito, o auditor deve comunicar imediatamente à CMVM os factos de que tome conhecimento, no exercício das suas funções, respeitantes à entidade a que preste serviços e a outras incluídas no respetivo perímetro de consolidação de contas, que sejam suscetíveis de:
+
+a) Constituir crime ou contraordenação muito grave previstos em norma legal ou regulamentar cujo cumprimento esteja sujeito a supervisão da CMVM;
+
+b) Afetar a continuidade do exercício da atividade da entidade em causa; ou
+
+c) Justificar a emissão de reservas, escusa de opinião, opinião adversa ou impossibilidade de emissão de relatório.
+
+4 - Deve também comunicar imediatamente à CMVM os factos de que tome conhecimento, no exercício das suas funções, respeitantes a outras pessoas, que pela sua gravidade, sejam suscetíveis de afetar o regular funcionamento dos mercados de instrumentos financeiros.
+
+5 - Os deveres de comunicação impostos pelo presente artigo prevalecem sobre quaisquer restrições à divulgação de informações, legal ou contratualmente previstas, e o seu cumprimento de boa-fé não envolve qualquer responsabilidade para os respetivos sujeitos.
+
+6 - A violação de deveres a que o auditor registado está sujeito previstos no presente Código, legislação complementar ou regulamentos da CMVM pode determinar o cancelamento ou suspensão do registo do auditor na CMVM, nos termos previstos em regulamento da CMVM.
+
+7 - Os auditores e entidades de auditoria de países terceiros registados na CMVM ficam sujeitos aos deveres aplicáveis aos auditores, podendo o seu registo ser cancelado ou suspenso nos termos referidos no número anterior.»
+
+Visto e aprovado em Conselho de Ministros de 29 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete.
+
+**Promulgado em 3 de junho de 2014.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 5 de junho de 2014.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**

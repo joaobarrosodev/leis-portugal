@@ -1,0 +1,147 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:334326:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-154483110",
+ "dre_path": "/dr/detalhe/portaria/498-2010-334326",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-07-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "154485949",
+    "154485938",
+    "154485939",
+    "154485940",
+    "154485942"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:341578:por",
+     "title": "Declaração de Rectificação n.º 29/2010",
+     "published": "2010-09-10",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/29-2010-341578",
+     "date": "2010-07-15"
+    }
+   ]
+  },
+  {
+   "date": "2021-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:154513237:por",
+     "title": "Portaria n.º 16/2021",
+     "published": "2021-01-19",
+     "dre_path": "/dr/detalhe/portaria/16-2021-154513237"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "154485949",
+    "154485950",
+    "154485951",
+    "154485952",
+    "154485953",
+    "154485954"
+   ]
+  }
+ ],
+ "fragments": {
+  "154485949": {
+   "fragment_id": "154483111",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-01-20",
+   "changed_by": [],
+   "markdown": "Portaria n.º 498/2010\n\nde 14 de Julho\n\nO Decreto-Lei n.º 107/2009, de 15 de Maio, aprovou o regime de protecção das albufeiras de águas públicas de serviço público e das lagoas ou lagos de águas públicas, o qual tem como objectivo principal a protecção e valorização dos recursos hídricos associados às albufeiras, lagoas ou lagos de águas públicas, bem como do território envolvente, numa faixa que corresponde à zona terrestre de protecção.\n\nO referido regime jurídico estabelece a obrigatoriedade da classificação das albufeiras de águas públicas de serviço público, determinando que a sua classificação seja realizada por portaria do membro do Governo responsável pelas áreas do ambiente e do ordenamento do território, ouvida a autoridade nacional da água.\n\nConsiderando a futura criação das albufeiras de Fridão (escalão principal e barragem de jusante) e de Alvito, cujas barragens se encontram em fase de projecto:\n\nImporta, assim, proceder à classificação das albufeiras de Fridão (escalão principal e barragem de jusante) e de Alvito.\n\nFoi ouvida a autoridade nacional da água.\n\nAssim:\n\nAo abrigo do disposto nos n.os 1 e 2 do artigo 7.º e nos n.os 1 e 2 do artigo 8.º do Decreto-Lei n.º 107/2009, de 15 de Maio, manda o Governo, pela Ministra do Ambiente e do Ordenamento do Território, o seguinte:"
+  },
+  "154485938": {
+   "fragment_id": "154483112",
+   "type": 11,
+   "heading": "Artigo 1.º — Classificação de albufeiras de águas públicas de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Classificação de albufeiras de águas públicas de serviço público\n\n1 - As albufeiras de águas públicas de serviço público de Fridão (escalão principal) e de Alvito, destinadas à produção de energia e que se prevê que possam vir a ser utilizadas para o abastecimento público, são classificadas como albufeiras de águas públicas de utilização protegida, nos termos do quadro anexo à presente portaria e da qual faz parte integrante.\n\n2 - A albufeira de águas públicas de serviço público de Fridão (barragem de jusante), destinada à regularização de caudais e associada à produção de energia da barragem de Fridão (escalão principal), uma vez que está sujeita a variações significativas e frequentes de nível, as quais podem constituir um risco na sua utilização, é classificada como albufeira de águas públicas de utilização condicionada, nos termos do quadro anexo à presente portaria e da qual faz parte integrante."
+  },
+  "154485939": {
+   "fragment_id": "154483113",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime de protecção\n\nCom a entrada em vigor da presente portaria é imediatamente aplicável às áreas a abranger pelas albufeiras de águas públicas referidas no artigo anterior e respectivas zonas terrestres de protecção o regime de protecção estabelecido no Decreto-Lei n.º 107/2009, de 15 de Maio, nos termos previstos no n.º 2 do seu artigo 2.º, ficando quaisquer actos, actividades ou acções a desenvolver nas referidas áreas sujeitos ao cumprimento do disposto no capítulo v do referido decreto-lei."
+  },
+  "154485940": {
+   "fragment_id": "154483114",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação."
+  },
+  "154485942": {
+   "fragment_id": "154483116",
+   "type": 14,
+   "heading": "Anexo — Classificação de albufeiras de águas públicas de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Classificação de albufeiras de águas públicas de serviço público\n\n(ver documento original)"
+  },
+  "154485950": {
+   "fragment_id": "154483112",
+   "type": 11,
+   "heading": "Artigo 1.º — Classificação de albufeiras de águas públicas de serviço público",
+   "in_force_from": "2021-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 16/2021 - Diário da República n.º 12/2021, Série I de 2021-01-19](https://diariodarepublica.pt/dr/detalhe/portaria/16-2021-154513237), em vigor a partir de 2021-01-20"
+   ],
+   "markdown": "###### Artigo 1.º — Classificação de albufeiras de águas públicas de serviço público\n\n1 - As albufeiras de águas públicas de serviço público de Fridão (escalão principal) e de Alvito, destinadas à produção de energia e que se prevê que possam vir a ser utilizadas para o abastecimento público, são classificadas como albufeiras de águas públicas de utilização protegida, nos termos do quadro anexo à presente portaria e da qual faz parte integrante.\n\n2 - A albufeira de águas públicas de serviço público de Fridão (barragem de jusante), destinada à regularização de caudais e associada à produção de energia da barragem de Fridão (escalão principal), uma vez que está sujeita a variações significativas e frequentes de nível, as quais podem constituir um risco na sua utilização, é classificada como albufeira de águas públicas de utilização condicionada, nos termos do quadro anexo à presente portaria e da qual faz parte integrante.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 16/2021 - Diário da República n.º 12/2021, Série I de 2021-01-19](https://diariodarepublica.pt/dr/detalhe/portaria/16-2021-154513237), em vigor a partir de 2021-01-20"
+  },
+  "154485951": {
+   "fragment_id": "154483113",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime de protecção",
+   "in_force_from": "2021-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 16/2021 - Diário da República n.º 12/2021, Série I de 2021-01-19](https://diariodarepublica.pt/dr/detalhe/portaria/16-2021-154513237), em vigor a partir de 2021-01-20"
+   ],
+   "markdown": "###### Artigo 2.º — Regime de protecção\n\nCom a entrada em vigor da presente portaria é imediatamente aplicável às áreas a abranger pelas albufeiras de águas públicas referidas no artigo anterior e respectivas zonas terrestres de protecção o regime de protecção estabelecido no Decreto-Lei n.º 107/2009, de 15 de Maio, nos termos previstos no n.º 2 do seu artigo 2.º, ficando quaisquer actos, actividades ou acções a desenvolver nas referidas áreas sujeitos ao cumprimento do disposto no capítulo v do referido decreto-lei.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 16/2021 - Diário da República n.º 12/2021, Série I de 2021-01-19](https://diariodarepublica.pt/dr/detalhe/portaria/16-2021-154513237), em vigor a partir de 2021-01-20"
+  },
+  "154485952": {
+   "fragment_id": "154483114",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2021-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 16/2021 - Diário da República n.º 12/2021, Série I de 2021-01-19](https://diariodarepublica.pt/dr/detalhe/portaria/16-2021-154513237), em vigor a partir de 2021-01-20"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte à sua publicação.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 16/2021 - Diário da República n.º 12/2021, Série I de 2021-01-19](https://diariodarepublica.pt/dr/detalhe/portaria/16-2021-154513237), em vigor a partir de 2021-01-20"
+  },
+  "154485953": {
+   "fragment_id": "154483115",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 16/2021 - Diário da República n.º 12/2021, Série I de 2021-01-19](https://diariodarepublica.pt/dr/detalhe/portaria/16-2021-154513237), em vigor a partir de 2021-01-20"
+   ],
+   "markdown": "A Ministra do Ambiente e do Ordenamento do Território, Dulce dos Prazeres Fidalgo Álvaro Pássaro, em 7 de Julho de 2010.\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 16/2021 - Diário da República n.º 12/2021, Série I de 2021-01-19](https://diariodarepublica.pt/dr/detalhe/portaria/16-2021-154513237), em vigor a partir de 2021-01-20"
+  },
+  "154485954": {
+   "fragment_id": "154483116",
+   "type": 14,
+   "heading": "Anexo — Classificação de albufeiras de águas públicas de serviço público",
+   "in_force_from": "2021-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 1.º do/a [Portaria n.º 16/2021 - Diário da República n.º 12/2021, Série I de 2021-01-19](https://diariodarepublica.pt/dr/detalhe/portaria/16-2021-154513237), em vigor a partir de 2021-01-20",
+    "Retificado pelo/a [Declaração de Rectificação n.º 29/2010 - Diário da República n.º 177/2010, Série I de 2010-09-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2010-341578), em vigor a partir de 2010-07-15"
+   ],
+   "markdown": "## Anexo — Classificação de albufeiras de águas públicas de serviço público\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 1.º do/a [Portaria n.º 16/2021 - Diário da República n.º 12/2021, Série I de 2021-01-19](https://diariodarepublica.pt/dr/detalhe/portaria/16-2021-154513237), em vigor a partir de 2021-01-20\n\n> Retificado pelo/a [Declaração de Rectificação n.º 29/2010 - Diário da República n.º 177/2010, Série I de 2010-09-10](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2010-341578), em vigor a partir de 2010-07-15"
+  }
+ }
+}

@@ -1,0 +1,162 @@
+---
+schema_version: '1.0'
+id: pt:dre:471551:por
+title: Portaria n.º 22040
+short_title: null
+summary: Aprova o Regulamento Especial para a Zona de Pesca Reservada que se designa por «Grupo das pequenas lagoas da serra
+  da Estrela»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Florestais e Aquícolas
+proposing_entity: null
+official_number: '22040'
+official_date: null
+publication_date: '1966-06-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 133/1966, Série I de 1966-06-07
+  number: '133'
+  series: I
+  supplement: null
+  pages: 1079 - 1080
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/06/13300/10791080.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '471551'
+  dre_path: /dr/detalhe/portaria/22040-1966-471551
+  internal: pt:dre:471551:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/22040-1966-471551
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/22040-1966-471551
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-07-30T00:00:00Z'
+integrity:
+  source_sha256: c12dbb880b3b169bb018f47a28a3466aa028569a45bcb31b09a508013e0d1b4c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-22040-471551.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:397320:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 22040
+
+Em conformidade com o estipulado no n.º 2 da base XXIX da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), de 6 de Junho de 1959, as águas das lagoas da serra da Estrela foram declaradas como zonas de pesca reservada.
+
+Atendendo a que, com excepção da lagoa Comprida, cujo regulamento se encontra aprovado pela [Portaria n.º 21295](https://diariodarepublica.pt/dr/detalhe/portaria/21295-1965-294960), de 19 de Maio de 1965, todas as restantes lagoas existentes na serra da Estrela não possuem área suficiente para que se constituam, cada uma de per si, como reservas unitárias;
+
+Considerando que, nestas zonas, o exercício da pesca só poderá ser levado a efeito depois da publicação dos respectivos regulamentos, como se dispõe no § único do artigo 5.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660) e em conformidade com o determinado no n.º 1 da referida base XXIX da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642):
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que se cumpra o seguinte regulamento especial para o conjunto das pequenas lagoas que se situam nos concelhos de Gouveia, Seia, Covilhã e Manteigas.
+
+Regulamento Especial para a Zona de Pesca Reservada que se designa por «Grupo das pequenas lagoas da serra da Estrela»
+
+### CAPÍTULO I
+
+1.º A reserva de pesca que se denominará «Grupo das pequenas lagoas da serra da Estrela» será constituída pelo conjunto das seguintes massas hídricas:
+
+a) Lagoa Escura;
+
+b) Lagoa do Vale Ressim;
+
+c) Lagoa do Viriato;
+
+d) Lagoa do Covão de Ferro, também conhecida por «Albufeira da Barragem do Padre Alfredo».
+
+2.º Para efeitos de conveniente protecção piscícola e respectivo ordenamento, o conjunto das águas referidas no número anterior constituirá, como reserva de pesca desportiva, uma única unidade.
+
+3.º Só poderão pescar nesta reserva:
+
+a) Os indivíduos que, além de serem titulares de uma licença legal de pesca cuja validade territorial abranja qualquer dos concelhos onde se situam as mencionadas lagoas, possuam também uma licença especial diária no valor de 30$00;
+
+b) Os menores de 14 anos munidos de uma licença especial diária no valor de 30$00 e devidamente acompanhados do pai ou tutor, quando estes estejam nas condições previstas na alínea anterior;
+
+c) Os indivíduos estrangeiros, turistas não residentes no País, que possuam uma licença diária especial no valor de 50$00.
+
+4.º Não serão concedidas mais de 24 licenças especiais diárias. Todavia, sempre que, em qualquer das lagoas que constituem esta reserva, tenha aplicação o estipulado no artigo 42.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660), de 10 de Outubro de 1962, competirá à Direcção-Geral dos Serviços Florestais e Aquícolas reduzir o número de licenças especiais diárias.
+
+5.º Do número de licenças a conceder diàriamente, quatro serão reservadas para pescadores estrangeiros e oito para os não residentes nas áreas dos concelhos em que se situam as referidas lagoas.
+
+6.º A concessão das licenças referidas no número anterior será feita por inscrição, que só se tornará efectiva se até 48 horas antes do dia previsto para a sua utilização for confirmada pela Circunscrição Florestal de Viseu. A passagem e liquidação destas licenças fica a cargo das administrações florestais dependentes da mesma Circunscrição.
+
+7.º As licenças especiais diárias destinadas aos residentes nos concelhos da Covilhã, Manteigas, Gouveia e Seia poderão ser obtidas numa qualquer das administrações florestais sitas na Covilhã, em Manteigas ou em Gouveia.
+
+### CAPÍTULO II
+
+8.º A Direcção-Geral dos Serviços Florestais e Aquícolas poderá interditar o exercício da pesca, no todo, ou em parte, do conjunto das lagoas referidas, logo que o quantitativo piscícola em qualquer das lagoas fique reduzido a densidades julgadas inconvenientes ou porque se tenham levado a efeito, nas mesmas, repovoamentos que necessitem de protecção.
+
+9.º Só é permitido pescar nesta reserva de 1 de Maio a 30 de Setembro, inclusive, pelo que se considera época de defeso o período compreendido entre 1 de Outubro e 30 de Abril.
+
+10.º Não poderão ser capturadas trutas com dimensões inferiores a 22 cm, medidas nas condições legalmente estipuladas. Toda a truta que não possua a medida referida deverá ser imediatamente lançada à água, quaisquer que sejam os seus ferimentos.
+
+11.º Cada licença especial diária não dá ao seu titular direito de retirar mais de dez trutas no conjunto das lagoas que constituem esta reserva. Atingido este número, o pescador deverá cessar imediatamente a sua actividade, sob pena de ser considerado indocumentado para efeitos do exercício de pesca na reserva.
+
+12.º Cada pescador não poderá utilizar simultâneamente mais do que uma cana, nem empregar quaisquer iscos naturais ou artificiais que não sejam a colher ou a pluma.
+
+13.º O exercício da pesca só pode fazer-se de terra ou vadeando.
+
+### CAPÍTULO III
+
+14.º Todo o indivíduo que sem licença especial diária proceder ao exercício da pesca dentro da reserva fica sujeito à multa prevista na alínea b) do artigo 72.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+
+15.º A pesca de trutas na época de defeso prevista no n.º 9.º deste regulamento constitui crime punível nos termos do § único do artigo 67.º do citado [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+
+16.º A retenção de trutas com inobservância do disposto no n.º 10.º deste regulamento, bem como a captura e retenção de quantidades superiores às estipuladas no n.º 11.º, constitui contravenção punível nos termos do artigo 73.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+
+17.º O exercício da pesca com inobservância do estipulado no artigo 12.º deste regulamento é punível nos termos do artigo 65.º do citado decreto.
+
+18.º O uso de barco no exercício da pesca, ou de barco a motor em qualquer caso, é punível com as penas constantes do artigo 79.º do [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660) e com a apreensão e perda do barco e do motor, se o houver, a favor do Estado.
+
+19.º Às infracções, não mencionadas neste regulamento, praticadas nesta zona de pesca reservada, serão aplicáveis os §§ 2.º e 3.º do artigo 83.º do Regulamento da Lei da Pesca ([Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660)).
+
+20.º A partir de 1 de Agosto de cada ano, todo o transporte das trutas capturadas nesta reserva só poderá efectuar-se depois de devidamente etiquetadas e acompanhadas de guia de trânsito, sendo a infracção a este preceito punida nos termos do artigo 71.º do referido [Decreto n.º 44623](https://diariodarepublica.pt/dr/detalhe/decreto/44623-1962-156660).
+
+21.º Todos os indivíduos que praticam o exercício da pesca nesta reserva ficam obrigados a fornecer à Direcção-Geral dos Serviços Florestais e Aquícolas, quando por esta lhes for solicitado, os elementos necessários para efeitos de estudos estatísticos e biométricos das espécies capturadas, implicando a falta de cumprimento desta obrigação a impossibilidade de obter novas licenças para quaisquer das zonas de pesca reservadas.
+
+Secretaria de Estado da Agricultura, 7 de Junho de 1966. - O Secretário de Estado da Agricultura, Domingos Rosado Vitória Pires.

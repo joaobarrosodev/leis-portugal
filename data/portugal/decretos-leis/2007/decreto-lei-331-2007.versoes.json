@@ -1,0 +1,156 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:641714:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2007-156249808",
+ "dre_path": "/dr/detalhe/decreto-lei/331-2007-641714",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2007-10-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156250564",
+    "156250565",
+    "156250566",
+    "156250567",
+    "156250568",
+    "156250569",
+    "156250570",
+    "156250571",
+    "156250572"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "156250564",
+    "156250565",
+    "156250566",
+    "156250567",
+    "156250568",
+    "156250574",
+    "156251675",
+    "156250571",
+    "156250572",
+    "156250573"
+   ]
+  }
+ ],
+ "fragments": {
+  "156250564": {
+   "fragment_id": "156249809",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 331/2007\n\nde 9 de Outubro\n\nO direito à informação dos consumidores é um direito estruturante de toda a legislação relativa à defesa do consumidor e está consagrado na Constituição e na Lei n.º 24/96, de 31 de Julho (Lei de Defesa do Consumidor).\n\nA informação relativa ao preço e às características dos bens e dos serviços, bem como às condições em que os mesmos são fornecidos ou prestados, é determinante para a formação da vontade de contratar dos consumidores, permitindo comparar diferentes opções e avaliar melhor as ofertas do mercado.\n\nA obrigatoriedade de afixação do preço dos bens e dos serviços encontra-se estabelecida no Decreto-Lei n.º 138/90, de 26 de Abril, alterado pelo Decreto-Lei n.º 162/99, de 13 de Maio.\n\nA este dever acrescem, agora, determinados requisitos de informação aos consumidores relativamente às características do bem e às condições em que o mesmo é fornecido, quando se trate de bens cuja venda se realiza de forma parcelar, por unidade ou fascículo, mas que fazem parte de um conjunto quantitativamente delimitado cujo período de comercialização está, também, temporalmente definido.\n\nAssim, encontra-se abrangido pelo disposto no presente decreto-lei o conjunto de itens ou objectos que tenham uma ou mais características e finalidades em comum que se destine a ser comercializado, em unidades ou fascículos, por agentes económicos com uma determinada periodicidade, designadamente em simultâneo com jornais ou outras publicações, podendo ou não ter por objectivo a construção de um bem final. Fica, deste modo, excluída do presente decreto-lei a comercialização esporádica de bens, por unidades ou fascículos, não integrados num conjunto que lhes aporta sentido e consistência.\n\nSão definidas as regras sobre o modo como esta informação deve ser transmitida aos consumidores e é criado um regime sancionatório, adequado e dissuasor, de natureza contra-ordenacional.\n\nFoi promovida a audição dos membros do Conselho Nacional de Consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156250565": {
+   "fragment_id": "156249810",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente decreto-lei estabelece as regras a que deve obedecer a promoção e a comercialização de bens integrados num conjunto, quantitativamente delimitado, que tenham uma ou mais características em comum e cuja distribuição, temporalmente definida, se realiza de forma parcelar por unidade ou fascículo, designadamente em simultâneo com jornais ou outras publicações, podendo ou não ter por finalidade a construção de um bem final."
+  },
+  "156250566": {
+   "fragment_id": "156249811",
+   "type": 11,
+   "heading": "Artigo 2.º — Deveres dos agentes económicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Deveres dos agentes económicos\n\n1 - Os agentes económicos devem indicar o preço de cada unidade ou fascículo que compõe o conjunto de itens ou objectos definidos no artigo anterior, o preço total do mesmo, o número de unidades ou fascículos que o compõem, a sua periodicidade e data de distribuição, bem como a sua duração temporal.\n\n2 - O preço de cada unidade ou fascículo e o preço total a pagar pelo consumidor devem constar na capa, na sobrecapa ou na embalagem dos mesmos, em dígitos bem visíveis, claros e perfeitamente legíveis, podendo ainda constar de um folheto informativo.\n\n3 - A informação relativa ao número de unidades ou fascículos, a sua periodicidade e a data de distribuição devem igualmente obedecer aos requisitos estabelecidos no número anterior.\n\n4 - O preço por unidade ou fascículo bem como o preço total devem incluir as taxas e os impostos a pagar pelo consumidor.\n\n5 - Verificando-se a interrupção ou cessação do fornecimento dos bens referidos no artigo anterior, o editor ou o promotor da comercialização dos mesmos é obrigado a restituir, no prazo de 30 dias a contar da data de notificação pelo consumidor, as quantias já pagas, mediante a apresentação do comprovativo dos pagamentos efectuados."
+  },
+  "156250567": {
+   "fragment_id": "156249812",
+   "type": 11,
+   "heading": "Artigo 3.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Publicidade\n\n1 - A publicidade ao conjunto de bens abrangidos pelo disposto no presente decreto-lei obedece às regras e princípios constantes do Código da Publicidade, aprovado pelo Decreto-Lei n.º 330/90, de 23 de Outubro.\n\n2 - A publicidade deve ainda indicar, de forma bem visível, clara e inequívoca, o número de unidades ou fascículos que integram o conjunto de bens a comercializar, a sua periodicidade, data de distribuição e duração temporal, bem como o preço de cada unidade ou fascículo e o preço total a pagar pelo consumidor."
+  },
+  "156250568": {
+   "fragment_id": "156249813",
+   "type": 11,
+   "heading": "Artigo 4.º — Fiscalização e instrução dos processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fiscalização e instrução dos processos\n\n1 - Compete à Autoridade da Segurança Alimentar e Económica fiscalizar o cumprimento do disposto no artigo 2.º, bem como instruir os respectivos processos de contra-ordenação.\n\n2 - Compete à Direcção-Geral do Consumidor fiscalizar o cumprimento do disposto no artigo anterior, bem como instruir os respectivos processos de contra-ordenação."
+  },
+  "156250569": {
+   "fragment_id": "156249814",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contra-ordenações\n\n1 - As infracções ao disposto no artigo 2.º e no n.º 2 do artigo 3.º constituem contra-ordenação punível com as seguintes coimas:\n\na) De (euro) 249,40 a (euro) 3740,98, se o infractor for uma pessoa singular;\n\nb) De (euro) 2493,99 a (euro) 29 927,87, se o infractor for uma pessoa colectiva.\n\n2 - A negligência é punível, sendo, neste caso, os limites mínimo e máximo da coima reduzidos para metade."
+  },
+  "156250570": {
+   "fragment_id": "156249815",
+   "type": 11,
+   "heading": "Artigo 6.º — Aplicação das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicação das coimas\n\n1 - Compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade a aplicação das coimas previstas no presente decreto-lei.\n\n2 - O produto das coimas previstas no artigo anterior reverte em 60 % para o Estado, em 30 % para a Autoridade de Segurança Alimentar e Económica e em 10 % para a Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade."
+  },
+  "156250571": {
+   "fragment_id": "156249816",
+   "type": 11,
+   "heading": "Artigo 7.º — Avaliação da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Avaliação da execução\n\nNo final do 3.º ano a contar da data da entrada em vigor do presente decreto-lei, a Direcção-Geral do Consumidor elabora um relatório de avaliação sobre a aplicação e execução do mesmo, devendo remetê-lo ao membro do Governo que tutela a política de defesa do consumidor."
+  },
+  "156250572": {
+   "fragment_id": "156249817",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação."
+  },
+  "156250574": {
+   "fragment_id": "156249814",
+   "type": 11,
+   "heading": "Artigo 5.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 5.º — Contra-ordenações\n\n1 - As infrações ao disposto no artigo 2.º e no n.º 2 do artigo 3.º constituem contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).\n\n2 - A negligência é punível nos termos do RJCE.\n\n> Alterado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156251675": {
+   "fragment_id": "156249815",
+   "type": 11,
+   "heading": "Artigo 6.º — Aplicação das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 6.º — Aplicação das coimas\n\n1 - Compete ao inspetor-geral da ASAE e, no que respeita a ilícitos em matéria de publicidade, ao diretor-geral da Direção-Geral do Consumidor a aplicação das coimas e sanções acessórias.\n\n2 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156250573": {
+   "fragment_id": "156249818",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Julho de 2007. -  José Sócrates Carvalho Pinto de Sousa - António José de Castro Guerra - Alberto Bernardes Costa.\n\nPromulgado em 24 de Setembro de 2007.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de Setembro de 2007.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:145788:por
+title: Declaração de Rectificação n.º 10/99
+short_title: null
+summary: Rectificação do texto da Convenção entre a República Portuguesa e o Reino de Marrocos para Evitar a Dupla Tributação
+  em Matéria de Impostos sobre o Rendimento
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 10/99
+official_date: null
+publication_date: '1999-03-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 65/1999, Série I-A de 1999-03-18
+  number: '65'
+  series: I
+  supplement: null
+  pages: 1498 - 1498
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/03/065a00/14981498.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/10/1999/03/18/p/dre/pt/html
+  oj: null
+  dre: '145788'
+  dre_path: /dr/detalhe/declaracao-rectificacao/10-1999-145788
+  internal: pt:dre:145788:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-1999-145788
+  metadata_url: https://data.dre.pt/eli/declrectif/10/1999/03/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-1999-145788
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-03-18T00:00:00Z'
+integrity:
+  source_sha256: b5fae80ba2b4a0aef4a9ffe77969c6de46e28ba19e513ec4d3f1c2999cb661c6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-10-145788.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Portugal
+- Imposto sobre o Rendimento
+- Marrocos
+- Dupla Tributação
+- Rabat
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 10/99
+
+Para os devidos efeitos se declara que a Convenção entre a República Portuguesa e o Reino de Marrocos para Evitar a Dupla Tributação em Matéria de Impostos sobre o Rendimento, assinada em Rabat em 29 de Setembro de 1997, publicada no suplemento ao Diário da República, 1.ª série-A, n.º 295, de 23 de Dezembro de 1998, saiu com as seguintes incorrecções, que assim se rectificam:
+
+Na p. 7170-(9), no capítulo VI, relativo às «Disposições finais», artigo 28.º, n.º 1, onde se lê «A presente Convenção será ratificada e os instrumentos da ratificação serão trocados em [...] o mais cedo possível.» deve ler-se «A presente Convenção será ratificada e os instrumentos da ratificação serão trocados em Lisboa o mais cedo possível.».
+
+Na p. 7170-(23), chapitre VI, «Dispositions finales», article 28, n.º 1, onde se lê «La présente Convention sera ratifiée et les instruments de ratification seront échangés à [...] aussitôt que possible.» deve ler-se «La présente Convention sera ratifiée et les instruments de ratification seront échangés à Lisbonne aussitôt que possible.».
+
+Assembleia da República, 2 de Março de 1999. - A Secretária-Geral, Adelina Sá Carvalho.

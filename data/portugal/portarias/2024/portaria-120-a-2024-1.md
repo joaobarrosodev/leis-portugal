@@ -1,0 +1,230 @@
+---
+schema_version: '1.0'
+id: pt:dre:857832625:por
+title: Portaria n.º 120-A/2024/1
+short_title: null
+summary: Cria um regime excecional e temporário de compensação pelo acréscimo de custos de produção da frota de pesca e da
+  aquicultura.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Finanças e Agricultura e Alimentação
+proposing_entity: null
+official_number: 120-A/2024/1
+official_date: null
+publication_date: '2024-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 62/2024, Suplemento, Série I de 2024-03-27
+  number: '62'
+  series: I
+  supplement: null
+  pages: 2 - 5
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/03/06202/0000200005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/120-a/2024/03/27/p/dre/pt/html
+  oj: null
+  dre: '857832625'
+  dre_path: /dr/detalhe/portaria/120-a-2024-857832625
+  internal: pt:dre:857832625:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/120-a-2024-857832625
+  metadata_url: https://data.dre.pt/eli/port/120-a/2024/03/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/120-a-2024-857832625
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-03-27T00:00:00Z'
+integrity:
+  source_sha256: 4bc012781ff6a1fb3fd7a6f0fa11c081730be0df739c2c9fefeb9ac9b9afdebd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-120-A-857832625.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agência para o Desenvolvimento e Coesão
+- Compensação Financeira
+- Regulamentação de Atos Legislativos
+- Frota de Pesca
+- IFAP
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Aquicultura
+- Regulamento CE
+relationships:
+- type: cites
+  target: celex:32014R0717
+  label: null
+  source: null
+- type: cites
+  target: celex:32023R2391
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/28-a/2023/05/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/28-a/2023/05/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/30-c/2022/04/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/30-c/2022/04/18/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 120-A/2024/1
+
+de 27 de março
+
+A agressão militar da Rússia contra a Ucrânia e os seus efeitos diretos e indiretos, incluindo as sanções impostas e as contramedidas tomadas, têm tido repercussões económicas em todo o mercado da União, com incremento de preços e escassez de matérias-primas.
+
+O impacto combinado desses aumentos de custos e da escassez de matérias-primas foi sentido por toda a fileira do pescado, nomeadamente ao nível da produção e da transformação de produtos da pesca e da aquicultura, o que levou desde logo o Governo à adoção de medidas de mitigação daqueles efeitos, mediante a atribuições de compensações ao sector, determinados pelo [Decreto-Lei n.º 30-C/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-c-2022-182213908), de 18 de abril.
+
+Volvidos dois anos, não só permanece a agressão militar da Rússia contra a Ucrânia, como se lhe juntou o início de um outro conflito na região de Israel que veio também contribuir para a escassez e encarecimento de certos fatores de produção provenientes de países terceiros, mantendo-se a pressão inflacionista.
+
+Mantendo-se, pois, a conjuntura extraordinária que justificou aquelas compensações ao sector, e cujos efeitos negativos nos custos de produção ainda permanecem, entende o Governo estarem reunidas as condições que justificam a adoção de novo e idêntico apoio, o que é efetivado pela presente portaria, adotada nos termos do anexo ao [Decreto-Lei n.º 28-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2023-212551431), de 3 de maio.
+
+Para o efeito, a presente portaria estabelece um regime excecional e temporário de compensação pelo acréscimo de custos de produção na pesca e na aquicultura, cujo montante é determinado em função dos custos de produção, por segmento de frota (grupo de arte e classe de comprimento fora a fora), e no caso da aquicultura por tipologia de estabelecimento e regime de produção.
+
+Assim:
+
+Manda o Governo, pelo Ministro das Finanças e pela Ministra da Agricultura e da Alimentação, nos termos do n.º 1 do artigo 2.º do anexo ao [Decreto-Lei n.º 28-A/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2023-212551431), de 3 de maio, o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - A presente portaria cria um regime excecional e temporário de compensação pelo acréscimo de custos de produção da frota de pesca e da aquicultura decorrente da crise provocada pela agressão militar da Rússia à Ucrânia e potenciada pelo conflito na região de Israel.
+
+2 - O regime excecional destina-se:
+
+a) Aos profissionais da pesca detentores do título que confere o direito de exploração de uma embarcação de pesca registada no território continental e licenciada para o exercício da atividade em 2024;
+
+b) Aos titulares dos estabelecimentos de aquicultura detentores de título de atividade aquícola válido para 2024.
+
+3 - Não beneficiam do regime excecional previsto na presente portaria os profissionais da pesca sujeitos a sanções adotadas pela União Europeia no âmbito do conflito armado na Ucrânia.
+
+###### Artigo 2.º — Condições de acesso
+
+Podem candidatar-se à compensação criada pela presente portaria os profissionais da pesca e aquicultura referidos no n.º 2 do artigo anterior que satisfaçam as seguintes condições:
+
+a) Tenham atividade comprovada num mínimo de 20 dias de atividade, seguidos ou interpolados, nos últimos 6 meses a contar da data da publicação da presente portaria, quando se trate de embarcações, a confirmar pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM);
+
+b) Tenham atividade comprovada e tenham efetuado o registo de produção do ano de 2022, quando se trate de estabelecimentos de aquicultura, a confirmar pela DGRM.
+
+###### Artigo 3.º — Candidatura
+
+A candidatura é apresentada através do Balcão Eletrónico do Mar, até dia 31 de maio de 2024, devendo a DGRM articular-se com Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), para o efeito.
+
+###### Artigo 4.º — Montante e forma da compensação
+
+1 - O montante da compensação a atribuir consta do anexo à presente portaria e da qual faz parte integrante, e reveste a forma de subvenção não reembolsável, na modalidade de montantes fixos.
+
+2 - O montante total da compensação é no máximo € 40 000 por empresa de pesca ou de aquicultura, nas condições estabelecidas no parágrafo 2-A) do artigo 3.º da alteração ao Regulamento (UE) n.º 717/2014, da Comissão, de 27 de junho de 2014, adotado pelo Regulamento (UE) 2023/2391 de 4 de outubro de 2023.
+
+3 - Caso se verifique que o montante individual da compensação venha a ultrapassar o limite referido no n.º 2, o valor do mesmo é ajustado, reduzindo-se na proporção do excesso verificado e diminuindo-se, em conformidade, o montante a conceder.
+
+###### Artigo 5.º — Financiamento
+
+1 - A dotação global para o presente apoio extraordinário é de € 3 800 000 e resulta da reafetação do montante não utilizado previsto no artigo 3.º da Portaria n.º 72/2024, de 28 de fevereiro, sendo este encargo assegurado pela correspondente verba inscrita no orçamento do IFAP, I. P.
+
+2 - Em caso de ultrapassagem da dotação global prevista no número anterior, o montante total previsto no n.º 2 do artigo 4.º será ajustado em conformidade com a taxa de rateio determinada.
+
+###### Artigo 6.º — Condições gerais do pagamento
+
+1 - O pagamento do apoio depende da verificação:
+
+a) Da regularidade da situação contributiva e tributária dos beneficiários perante a Segurança Social e a Autoridade Tributária e Aduaneira;
+
+b) Da inscrição, pelo beneficiário, no Balcão dos Fundos, bem como da existência de dotação de minimis para o montante a pagar.
+
+2 - A verificação da situação contributiva poderá ser realizada por recurso a webservice, entre a segurança social e o IFAP, I. P.
+
+3 - A verificação da situação tributária poderá ser realizada através da plataforma de interoperabilidade da Administração Pública (iAP).
+
+4 - A verificação do disposto na alínea b) do n.º 1, bem como o registo dos auxílios no SircaMinimis será realizada pelo IFAP, I. P., em articulação com a Agência de Desenvolvimento e Coesão (AD&C).
+
+###### Artigo 7.º — Acompanhamento e controlo
+
+1 - O IFAP, I. P., em articulação com a DGRM, estabelece as normas técnicas consideradas indispensáveis ao bom funcionamento dos apoios financeiros e procede à publicitação no respetivo portal, em www.ifap.pt.
+
+2 - A DGRM procede à verificação das condições de elegibilidade previstas no n.º 2 do artigo 1.º e artigo 2.º, e comunica ao IFAP, I. P., a lista de beneficiários elegíveis, acompanhado do montante de apoio a pagar.
+
+###### Artigo 8.º — Recuperação de pagamentos indevidos
+
+1 - Em caso de pagamento indevido, o IFAP, I. P., promove a respetiva recuperação, mediante notificação para reembolso voluntário, ou coercivamente, mediante execução fiscal, caso o beneficiário não devolva as ajudas indevidamente recebidas no prazo constante daquela notificação.
+
+2 - Sobre os valores a reembolsar nos termos do número anterior incidem juros legais, calculados pela aplicação da taxa de juro legal ao montante indevido, desde o termo do prazo fixado na notificação para reembolso voluntário das ajudas indevidamente recebidas até ao efetivo e integral reembolso das mesmas.
+
+###### Artigo 9.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 26 de março de 2024.
+
+**O Ministro das Finanças, Fernando Medina Maciel Almeida Correia. - A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes.**
+
+## ANEXO — (a que se refere o n.º 1 do artigo 4.º)
+
+Tabela 1 - Compensação por embarcação
+
+| Segmento de frota | Comprimento fora a fora das embarcações (m) | Compensação por tipo de embarcação (€) |
+| --- | --- | --- |
+| Arrasto | Inferior a 10 | 345 |
+| Arrasto | Igual ou superior a 10 e até 12 | 1 211 |
+| Arrasto | Igual ou superior a 12 e até 18 | 2 052 |
+| Arrasto | Igual ou superior a 18 e até 24 | 10 045 |
+| Arrasto | Igual ou superior a 24 | 15 487 |
+| Cerco | Inferior a 10 | 440 |
+|  | Igual ou superior a 10 e até 12 | 956 |
+|  | Igual ou superior a 12 e até 18 | 1 909 |
+|  | Igual ou superior a 18 e até 24 | 5 845 |
+|  | Igual ou superior a 24 | 6 730 |
+| Polivalente | Inferior a 10 | 189 |
+|  | Igual ou superior a 10 e até 12 | 699 |
+|  | Igual ou superior a 12 e até 18 | 1 650 |
+|  | Igual ou superior a 18 e até 24 | 3 371 |
+|  | Igual ou superior a 24 | 10 991 |
+
+Tabela 2 - Compensação por empresa e tipo de estabelecimento aquícola
+
+| Tipologia de estabelecimento em águas marinhas incluindo as de transição e águas interiores | Compensação custos de produção por empresa (€) |
+| --- | --- |
+| 1 - Viveiros | 285 |
+| 2 - Tanques |  |
+| 2.1 - Regime semi-intensivo | 7 804 |
+| 2.2 - Regime intensivo | 33 087 |
+| 3 - Estruturas flutuantes |  |
+| 3.1 - Peixe | 15 120 |
+| 3.2 - Bivalves | 11 361 |

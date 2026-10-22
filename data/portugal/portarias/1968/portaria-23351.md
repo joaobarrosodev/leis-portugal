@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:274855:por
+title: Portaria n.º 23351
+short_title: null
+summary: Regula as condições em que os médicos, farmacêuticos, enfermeiros e técnicos auxiliares pertencentes ao serviço de
+  saúde das forças armadas alemãs estacionadas em Portugal poderão prestar assistência aos militares daquelas forças, bem
+  como aos membros do elemento civil e pessoas a seu cargo que os acompanhem
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde e Assistência - Direcção-Geral de Saúde
+proposing_entity: null
+official_number: '23351'
+official_date: null
+publication_date: '1968-05-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 108/1968, Série I de 1968-05-06
+  number: '108'
+  series: I
+  supplement: null
+  pages: 672 - 672
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/05/10800/06720672.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '274855'
+  dre_path: /dr/detalhe/portaria/23351-1968-274855
+  internal: pt:dre:274855:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/23351-1968-274855
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/23351-1968-274855
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1968-05-06T00:00:00Z'
+integrity:
+  source_sha256: e51257c265dae6a640c1ecaf803e7c728b504d35cdfcb4e8733be3487f77d3df
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1968/DRE-1968-23351-274855.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 23351
+
+Em execução do [Decreto n.º 48110](https://diariodarepublica.pt/dr/detalhe/decreto/48110-1967-400628), de 13 de Dezembro de 1967:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, o seguinte:
+
+1.º Os médicos, farmacêuticos, enfermeiros e técnicos auxiliares pertencentes ao serviço de saúde das forças armadas alemãs estacionadas em Portugal poderão prestar assistência aos militares daquelas forças, bem como aos membros do elemento civil e pessoas a cargo que os acompanhem.
+
+2.º Para efeitos do número anterior, as autoridades militares portuguesas competentes indicarão à Direcção-Geral de Saúde a identidade dos médicos, farmacêuticos, enfermeiros e técnicos auxiliares que devam ser autorizados, e bem assim a daqueles a quem deva ser suspensa a autorização.
+
+3.º A autorização para o pessoal referido nos números anteriores trabalhar em Portugal fica pendente da sua inscrição naquela Direcção-Geral, podendo as autoridades portuguesas suspender a mesma autorização quando o entendam conveniente.
+
+4.º Os técnicos a que se referem os números anteriores devem manter com os serviços públicos e com os profissionais de saúde portugueses a colaboração conveniente, abstendo-se da prática de actos que excedam as faculdades que lhes são concedidas ou que lhes sejam indicados pelo Ministério da Saúde e Assistência como lesivos dos interesses nacionais, e prestarão todas as informações que lhes forem solicitadas e que não envolvam quebra de sigilo militar.
+
+5.º O aviamento de medicamentos prescritos pelos médicos pertencentes ao serviço de saúde das forças armadas alemãs estacionadas em Portugal aos militares e civis abrangidos pelo n.º 1.º deve fazer-se em postos de farmácia privativos daquelas forças armadas, a cargo de farmacêuticos cujo exercício haja sido autorizado nos termos do n.º 2.º Estes postos de farmácia privativos são equiparados às farmácias portuguesas para efeitos do seu abastecimento, em medicamentos, no mercado nacional.
+
+6.º Em casos de urgência podem os medicamentos prescritos pelos médicos mencionados no n.º 1.º ser aviados em farmácias comuns, devendo, neste caso, os médicos prescrever em papel dos serviços de saúde das forças armadas alemãs, timbrado ou identificado por meio de carimbo. As receitas passadas nestes termos deverão identificar os doentes a quem se destinam e ficarão arquivadas nas farmácias que as aviarem.
+
+7.º Aos postos farmacêuticos referidos no n.º 5.º é vedado, a qualquer título, fornecer medicamentos a outras entidades que não sejam as referidas no n.º 1.º
+
+8.º Os militares e civis abrangidos pelo n.º 1.º não podem ceder os medicamentos adquiridos, nos termos desta portaria, a qualquer pessoa ou identidade que não tenha direito a abastecer-se naqueles postos de farmácia.
+
+9.º No que respeita a estupefacientes, observar-se-ão as formalidades do [Decreto n.º 12210](https://diariodarepublica.pt/dr/detalhe/decreto/12210-1926-162653), de 24 de Agosto de 1926.
+
+As substâncias e preparações que não sejam estupefacientes, mas de composição química análoga e de efeitos semelhantes, não poderão ser importadas ou utilizadas sem o consentimento expresso do Ministério da Saúde e Assistência.
+
+10.º Cabe à Direcção-Geral de Saúde, pelos serviços competentes, zelar pela observação do disposto no [Decreto n.º 48110](https://diariodarepublica.pt/dr/detalhe/decreto/48110-1967-400628), de 13 de Dezembro de 1967, e nesta portaria.
+
+Ministério da Saúde e Assistência, 6 de Maio de 1968. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

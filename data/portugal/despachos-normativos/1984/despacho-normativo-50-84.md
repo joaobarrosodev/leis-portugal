@@ -1,0 +1,307 @@
+---
+schema_version: '1.0'
+id: pt:dre:662090:por
+title: Despacho Normativo n.º 50/84
+short_title: null
+summary: Determina que, ao abrigo do disposto no artigo único do Decreto n.º 17/76, de 14 de Janeiro, se proceda a uma derrogação
+  do prazo estatuído no artigo 613.º do Regulamento das Alfândegas, aprovado pelo Decreto n.º 31730, de 15 de Dezembro de
+  1941, para vários documentos, que passarão a ter um prazo mínimo de conservação
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 50/84
+official_date: null
+publication_date: '1984-03-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/1984, Série I de 1984-03-12
+  number: '60'
+  series: I
+  supplement: null
+  pages: 817 - 818
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/03/06000/08170818.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '662090'
+  dre_path: /dr/detalhe/despacho-normativo/50-1984-662090
+  internal: pt:dre:662090:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-1984-662090
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/50-1984-662090
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-03-12T00:00:00Z'
+integrity:
+  source_sha256: b31f2678b5996b0f5e5fad9dd442f209b811b873ba143622b48191571e1e148e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-50-662090.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 50/84
+
+Considerando que o fluxo de documentos a remeter periodicamente aos arquivos das alfândegas ultrapassa largamente a capacidade da área disponível para arrumação desse suporte informativo;
+
+Considerando que os elevados encargos advenientes da ampliação das instalações dos arquivos aconselham uma reapreciação dos prazos fixados com vista a definir, com segurança, novos períodos de conservação;
+
+Considerando a experiência positiva resultante da aplicação do [Despacho Normativo n.º 124/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/124-1983-451455), de 24 de Maio, que permitiu a inutilização imediata de 22 variedades de documentos e a redução dos prazos de validade em mais 8 dezenas de impressos:
+
+Determino que, ao abrigo do disposto no artigo único do [Decreto n.º 17/76](https://diariodarepublica.pt/dr/detalhe/decreto/17-1976-506178), de 14 de Janeiro, se proceda a uma derrogação do prazo estatuído no artigo 613.º do Regulamento das Alfândegas, aprovado pelo [Decreto n.º 31730](https://diariodarepublica.pt/dr/detalhe/decreto/31730-1941-469185), de 15 de Dezembro de 1941, para o seguinte conjunto de documentos, que passarão a ter o prazo mínimo de conservação indicado em cada um dos grupos que o integram:
+
+Documentos a inutilizar imediatamente
+
+Certidão do número de conhecimentos enviados aos portos ultramarinos.
+
+Guias de circulação de caixas de relógios de pulso.
+
+Guias para envio de fitas cinematográficas à Inspecção-Geral de Espectáculos.
+
+Documentos a inutilizar ao fim de 1 ano
+
+Alvarás de saída de embarcações.
+
+Certificados de lastro.
+
+Certificados de não condução de lastro ou carga.
+
+Declarações de bagagem (para passageiros ou tripulantes).
+
+Declarações de entrada (de aeronaves ou embarcações).
+
+Declarações de tabaco que fica a bordo.
+
+Formulários EURO 2.
+
+Guias de circulação.
+
+Guias de embarque de gasóleo/combustíveis (quaisquer regimes).
+
+Guias de remessa de refeições e material para gastos a bordo de aviões.
+
+Guias de saída de automóveis para experiência, de depósito franco.
+
+Guias para embarque ou desembarque de bagagens.
+
+Informação da hora de saída dos navios.
+
+Licenças para receber carga.
+
+Licenças para venda de géneros a bordo.
+
+Listas de mantimentos e sobressalentes de aeronaves, incluindo o tabaco da tripulação.
+
+Listas dos passageiros e respectivas bagagens embarcados em aeronaves.
+
+Notas suplementares de entrega de volumes.
+
+Passes de saída e entrada, em regime temporário, para animais.
+
+Pedidos para alvará de saída (navios ou aeronaves).
+
+Pedidos para visita de completa descarga.
+
+Pertences de conhecimento.
+
+Relações de espólios.
+
+Relações de malas de correio desembarcadas.
+
+Relações de passageiros e respectivas bagagens desembarcados de aeronaves.
+
+Relações dos passageiros em trânsito e respectivas bagagens.
+
+Relações dos tripulantes e respectivas bagagens.
+
+Relações dos volumes de amostras e encomendas não manifestadas.
+
+Requisições de volumes ao armazém real, para verificação.
+
+Requisições para entrega de carga a bordo aos importadores.
+
+Substituições de conhecimentos.
+
+Substituições de pertences.
+
+Verbetes estatísticos para aparelhos de TSF e seus acessórios.
+
+Verbetes para informática (direitos receitados/isenções ou reduções de direitos).
+
+Verbetes relativos a imposto do comércio marítimo a remeter à Administração dos Portos do Douro e Leixões.
+
+Documentos a inutilizar ao fim de 5 anos
+
+Apensos às folhas de descarga.
+
+Bilhetes para pagamento do tráfego, por serviços extraordinários, a pedido de partes.
+
+Boletins estatísticos para petróleo e seus derivados (quaisquer regimes).
+
+Cadernetas de folhas de descarga.
+
+Capas para cópias de manifestos.
+
+Certidão do número de conhecimentos, a juntar ao fecho do navio.
+
+Certificados de circulação de mercadorias.
+
+Contas correntes de armazéns de trânsito.
+
+Cópias dos bilhetes de tráfego, por serviços extraordinários, a pedido de partes.
+
+Declarações de valor para despachos de caderneta.
+
+Declarações para importação de mercadorias de circulação condicionada.
+
+Despacho geral de embarcações.
+
+Duplicados das guias (despachos - quaisquer regimes).
+
+Duplicados de despachos (quaisquer regimes).
+
+Fichas de controle das descargas directas, em regimes de despacho de importação.
+
+Folhas de descarga - intervalares.
+
+Folhas de extracção de folhas de descarga.
+
+Folhas intercalares para cópias de manifestos.
+
+Guias de entrada ou saída temporária de mercadorias da zona franca.
+
+Guias de pagamento de taxas de estada de veículos automóveis no País findos os prazos legais.
+
+Guias para acompanhamento de mercadorias (quaisquer regimes e ou fins).
+
+Licenças para venda de géneros na zona fiscal da fronteira.
+
+Guias de saída temporária de mercadorias de depósito franco.
+
+Guias para reembarque de mercadorias descarregadas por engano.
+
+Guias para tabaco que fica em depósito na alfândega.
+
+Guias «título de propriedade» de saída de produtos da zona franca.
+
+Licenças para exportação temporária de veículos automóveis.
+
+Licenças para importação temporária de veículos automóveis (quaisquer modelos e prazos).
+
+Manifestos de carga de aeronaves (entradas ou saídas).
+
+Manifestos de mercadorias saídas (quaisquer vias).
+
+Pedido de descarga directa - regime simplificado.
+
+Pedido de entrada em armazém de trânsito.
+
+Pedido de saída de armazém de trânsito.
+
+Recibos para emolumentos pessoais.
+
+Recibos para gratificações e ajudas de custo.
+
+Recibos para ordenados.
+
+Requisições de estampilhas para selagem de tabaco.
+
+Saídas de depósitos francos de veículos automóveis para despacho.
+
+Títulos de encontro.
+
+Títulos de propriedade de mercadorias/bagagens (quaisquer regimes).
+
+Títulos de restituição de direitos de importação de mercadorias em regime de draubaque.
+
+Documentos a inutilizar ao fim de 10 anos
+
+a) Importação, exportação, trânsito e baldeação, reexportação e transferência (artigos 238.º a 380.º do Regulamento das Alfândegas):
+
+Despachos de baldeação.
+
+Despachos de entrada de mercadorias em armazéns externos (quaisquer regimes).
+
+Despachos de exportação (quaisquer regimes e mercadorias).
+
+Despachos de importação (quaisquer regimes e mercadorias).
+
+Despachos de transferência.
+
+Despachos de reexportação (quaisquer regimes e mercadorias).
+
+Folhas adicionais de despacho de exportação temporária.
+
+Folhas suplementares, para baixas, nos despachos de importação temporária.
+
+Folhas suplementares para pedidos, participações, etc. (quaisquer regimes e mercadorias).
+
+Despachos de trânsito.
+
+b) Diversos:
+
+Bilhetes de acréscimo.
+
+Bilhetes para cobrança dos impostos sobre a navegação.
+
+Cobranças de imposições por mercadorias importadas temporariamente e não reexportadas.
+
+Contas correntes de despachantes (livro).
+
+Contas de despachante (diversos fins).
+
+Declarações para o valor aduaneiro de mercadorias.
+
+Guias de controle do imposto de transacções.
+
+Guias de despachos (quaisquer regimes e mercadorias).
+
+Guias de pagamento do imposto sobre a venda de veículos automóveis (IVVA).
+
+Recibos de pagamento a fornecedores.
+
+Verbetes de despacho (quaisquer regimes).
+
+Ministério das Finanças e do Plano, 17 de Fevereiro de 1984. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.

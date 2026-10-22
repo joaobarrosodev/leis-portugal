@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:543694:por
+title: Resolução da Assembleia da República n.º 11/2012
+short_title: null
+summary: Recomenda ao Governo que adote as medidas necessárias para que seja dada cobertura universal do sinal digital, seja
+  por televisão digital terrestre (TDT), seja por satélite, sem custos adicionais para estes utilizadores, assegurando assim
+  que seja garantido que não existam cidadãos excluídos, particularmente por razões económicas, no acesso ao sinal digital
+  de televisão; bem como que promova, através das entidades competentes, o incremento de ações de informação e de fiscalização
+  sobre o processo de implementação da televisão digital terrestre (TDT)
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 11/2012
+official_date: null
+publication_date: '2012-02-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 26/2012, Série I de 2012-02-06
+  number: '26'
+  series: I
+  supplement: null
+  pages: 579 - 579
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/02/02600/0057900579.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/11/2012/02/06/p/dre/pt/html
+  oj: null
+  dre: '543694'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/11-2012-543694
+  internal: pt:dre:543694:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/11-2012-543694
+  metadata_url: https://data.dre.pt/eli/resolassrep/11/2012/02/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/11-2012-543694
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-02-06T00:00:00Z'
+integrity:
+  source_sha256: f6f28724b84e519afc6456d9ac2553f6a582bc14d1981d9b1627e3a12136152d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-11-543694.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fiscalização
+- Portugal Telecom
+- Instituto das Comunicações de Portugal
+- Televisão Digital Terrestre
+- Recomendação
+- Comunicações
+- Governo
+- Teledifusão
+- Equipamento de Transmissão
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 11/2012
+
+Recomenda ao Governo que adote as medidas necessárias para que seja dada cobertura universal do sinal digital, seja por televisão digital terrestre (TDT), seja por satélite, sem custos adicionais para estes utilizadores, assegurando assim que seja garantido que não existam cidadãos excluídos, particularmente por razões económicas, no acesso ao sinal digital de televisão; bem como que promova, através das entidades competentes, o incremento de ações de informação e de fiscalização sobre o processo de implementação da televisão digital terrestre (TDT).
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Promova, junto das entidades competentes, a divulgação das áreas incluídas nas chamadas «zonas de sombra».
+
+2 - Promova, através das entidades competentes, designadamente da entidade reguladora e da Portugal Telecom Comunicações, bem como, por razões evidentes de proximidade, das autarquias locais, a realização efetiva junto das populações, particularmente daquelas que se encontram nas designadas «zonas de sombra», de ações de esclarecimento sobre a implementação da TDT/DTH.
+
+3 - Através das entidades competentes, promova ações de fiscalização destinadas a impedir e a punir as práticas fraudulentas que vêm sendo noticiadas.
+
+4 - Desenvolva todas as ações necessárias para que não existam cidadãos excluídos, particularmente por razões económicas, no acesso ao sinal digital de televisão e promova, através das entidades competentes, a adequada divulgação dos procedimentos necessários ao acesso à comparticipação dos equipamentos.
+
+5 - Interceda junto da Autoridade Nacional de Comunicações (ANACOM) e da Portugal Telecom (PT) para que retomem o acordo por estas celebrado em 2008, dando, assim, cumprimento às obrigações previstas nas alíneas a) e d) do n.º 1 e no n.º 2 do seu artigo 9.º, segundo o qual:
+
+«A PTC deve [...] utilizar de forma efetiva e eficiente as frequências consignadas, ficando sujeita ao cumprimento das seguintes obrigações de cobertura: garantir [...] a cobertura de 100 % da população, sendo que pelo menos 87,26 % da mesma deverá ser coberta por rádio difusão digital terrestre, e garantir que à população cuja cobertura seja assegurada apenas através do recurso a meios complementares, concretamente em DTH [...] sejam disponibilizados pelo menos os mesmos serviços das zonas cobertas por via terrestre, bem como os níveis de serviço e condições de acesso dos utilizadores finais equiparáveis aos daquelas.»
+
+«[...] a PTC fica obrigada, nomeadamente, a subsidiar, incluindo a mão de obra, equipamentos recetores terminais, antena e cablagem, os clientes das zonas não cobertas por radiodifusão digital terrestre para que estes não tenham qualquer acréscimo de custos face aos utilizadores daquelas.»
+
+Aprovada em 6 de janeiro de 2012.
+
+**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**

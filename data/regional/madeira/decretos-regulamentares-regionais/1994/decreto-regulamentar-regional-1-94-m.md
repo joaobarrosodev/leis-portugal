@@ -1,0 +1,307 @@
+---
+schema_version: '1.0'
+id: pt:dre:516229:por
+title: Decreto Regulamentar Regional n.º 1/94/M
+short_title: null
+summary: Regula o licenciamento e a fiscalização do exercício da actividade das unidades privadas de saúde da Região Autónoma
+  da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 1/94/M
+official_date: null
+publication_date: '1994-02-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/1994, Série I-B de 1994-02-18
+  number: '41'
+  series: I
+  supplement: null
+  pages: 747 - 750
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/02/041b00/07470750.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/1/1994/02/18/m/dre/pt/html
+  oj: null
+  dre: '516229'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/1-1994-516229
+  internal: pt:dre:516229:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1994-516229
+  metadata_url: https://data.dre.pt/eli/decregulreg/1/1994/02/18/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/1-1994-516229
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-04-06T00:00:00Z'
+integrity:
+  source_sha256: f03c3313f8c0c51ad0eb124f53bab9419f045609e35945660bc95460b759e1d2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1994/DRE-1994-1-516229.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Medicina Privada
+- Direcção Regional de Saúde
+- Madeira.região Autónoma
+relationships:
+- type: amended_by
+  target: pt:dre:660961:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/21/1991/08/07/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/21/1991/08/07/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/21/1992/07/10/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/21/1992/07/10/m/dre
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 1/94/M
+
+Estabelece o regime de licenciamento e fiscalização das unidades privadas de saúde da Região Autónoma da Madeira
+
+O Estatuto do Sistema de Saúde da Região Autónoma da Madeira, aprovado pelo [Decreto Legislativo Regional n.º 21/92/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1992-288660), de 7 de Agosto, atribui ao Secretário Regional dos Assuntos Sociais, no âmbito do sector particular do sistema, entre outros, poderes de orientação, inspecção e planeamento.
+
+Em ordem à tutela dos interesses dos utentes dos serviços particulares de saúde e em face da necessidade de criação e funcionamento destes, no respeito por padrões de qualidade, há que regulamentar, nos termos do artigo 21.º do referido decreto, o quadro em que tais poderes se hão-de exercer sem perder de vista a sua harmonização com a regulamentação da matéria a nível nacional.
+
+Foi ouvido o Conselho Médico da Região Autónoma da Madeira da Ordem dos Médicos.
+
+Assim, ao abrigo do disposto no artigo 21.º do [Decreto Legislativo Regional n.º 21/91/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1991-681580), de 7 de Agosto, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma regula o licenciamento e a fiscalização do exercício da actividade das unidades privadas de saúde que actuam no âmbito do Sistema Regional de Saúde, com respeito pelo livre exercício da actividade médica como profissão liberal.
+
+2 - Entendem-se por unidades privadas de saúde os estabelecimentos não integrados no Serviço Regional de Saúde que tenham por objecto a prestação de quaisquer serviços médicos ou de enfermagem com internamento ou sala de recobro.
+
+###### Artigo 2.º — Liberdade de escolha
+
+As unidades de saúde a que se refere o presente diploma devem respeitar o princípio da liberdade de escolha por parte dos utilizadores, abstendo-se de praticar quaisquer actos que o ponham em causa.
+
+###### Artigo 3.º — Dever de cooperação e articulação com o Serviço Regional de Saúde
+
+As unidades privadas de saúde devem colaborar com as autoridades sanitárias nas campanhas e programas de saúde pública, nos termos que vierem a ser definidos por despacho do Secretário Regional dos Assuntos Sociais.
+
+###### Artigo 4.º — Licenciamento
+
+1 - O funcionamento de qualquer unidade privada de saúde depende da obtenção de uma licença a conceder por despacho do Secretário Regional dos Assuntos Sociais.
+
+2 - A licença fixará o tipo de serviços que o seu titular fica autorizado a prestar, com indicação das especialidades e lotação da unidade.
+
+###### Artigo 5.º — Pedido de licenciamento
+
+1 - Os pedidos de licenciamento devem ser efectuados mediante a apresentação de um requerimento dirigido ao Secretário Regional dos Assuntos Sociais, através da Direcção Regional de Saúde.
+
+2 - Do requerimento devem constar:
+
+a) A denominação social ou nome e demais elementos identificativos do requerente;
+
+b) A indicação da sede ou residência;
+
+c) O número fiscal de contribuinte;
+
+d) A localização da unidade e sua designação;
+
+e) A identificação da direcção clínica;
+
+f) O tipo de serviços que se propõe prestar.
+
+3 - Os emolumentos a pagar pelo requerente são fixados por despacho do Secretário Regional dos Assuntos Sociais.
+
+###### Artigo 6.º — Instrução do pedido
+
+1 - Os pedidos de licenciamento devem ser instruídos com os seguintes documentos:
+
+a) Cópia autenticada do cartão de identificação de pessoa colectiva ou do bilhete de identidade do requerente e ainda do respectivo cartão de contribuinte;
+
+b) Certidão actualizada do registo comercial;
+
+c) Certificados do registo criminal dos requerentes ou dos administradores ou gerentes da entidade requerente;
+
+d) Relação detalhada do pessoal e respectivo mapa, acompanhada de certificados de habilitações literárias e profissionais;
+
+e) Programa funcional, memória descritiva e projecto das instalações em que a unidade deverá funcionar, assinado por técnico devidamente habilitado;
+
+f) Licença de utilização emitida pela câmara municipal competente;
+
+g) Certificados que atestem que a unidade cumpre as regras de segurança vigentes;
+
+h) Certificado emitido pela autoridade de saúde competente que ateste as condições hígio-sanitárias da unidade;
+
+i) Projecto de regulamento interno.
+
+2 - A Direcção Regional de Saúde pode solicitar aos requerentes todos os esclarecimentos adicionais que em cada caso considere necessários à informação do pedido.
+
+###### Artigo 7.º — Condições de licenciamento
+
+1 - São condições de atribuição da licença de funcionamento:
+
+a) A idoneidade do requerente, a qual, no caso de se tratar de pessoa colectiva, deve ser preenchida pelos administradores, directores ou gerentes que detenham a direcção efectiva do estabelecimento;
+
+b) A idoneidade profissional dos elementos da direcção clínica e demais pessoal médico e de enfermagem;
+
+c) A qualidade técnica dos cuidados e tratamentos a prestar, bem como dos equipamentos de que ficarão dotados;
+
+d) A comprovada viabilidade técnica e económica da unidade privada de saúde.
+
+2 - Os requisitos que as unidades privadas de saúde devem observar quanto a instalações, organização e funcionamento são fixados por portaria do Secretário Regional dos Assuntos Sociais.
+
+###### Artigo 8.º
+
+1 - Para efeitos do disposto no presente diploma, são consideradas idóneas as pessoas relativamente às quais se não verifique algum dos seguintes impedimentos:
+
+a) Proibição legal do exercício do comércio;
+
+b) Condenação, com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição do exercício de profissão relacionada com a actividade das unidades privadas de saúde.
+
+2 - O disposto no número anterior deixa de produzir efeitos após reabilitação ou pelo decurso do prazo de interdição fixado pela decisão condenatória.
+
+###### Artigo 9.º — Vistoria
+
+1 - A atribuição da licença de funcionamento é precedida de uma vistoria a efectuar pelos serviços competentes da Direcção Regional de Saúde.
+
+2 - A equipa técnica encarregada da vistoria prevista no número anterior integrará um elemento representante da Ordem dos Médicos, a nomear por despacho do Secretário Regional dos Assuntos Sociais.
+
+3 - Efectuada a vistoria, deve o director regional de Saúde submeter o pedido, devidamente instruído e informado, ao Secretário Regional dos Assuntos Sociais.
+
+###### Artigo 10.º — Regulamento interno e tabela de preços
+
+1 - Cada unidade privada de saúde deve obrigatoriamente dispor de um regulamento interno, o qual é homologado pelo despacho que atribuir a licença de funcionamento.
+
+2 - O regulamento interno, bem como a tabela de preços, deve ser afixado em local bem visível e acessível aos utentes.
+
+###### Artigo 11.º — Livro de reclamações
+
+1 - As unidades privadas de saúde devem ter, em cada serviço, um livro de reclamações dos utilizadores, com termo de abertura datado e assinado pelo director regional de Saúde, insusceptível de ser desvirtuado.
+
+2 - Mensalmente, devem tais unidades enviar cópia autenticada das reclamações efectuadas pelos seus utilizadores à Direcção Regional de Saúde.
+
+###### Artigo 12.º — Alterações relevantes de funcionamento
+
+1 - A transferência de titularidade ou a cessão de exploração, total ou parcial, da unidade de saúde, bem como as alterações à direcção clínica, aos corpos de pessoal médico e de enfermagem e de outros profissionais de saúde ou do pessoal dirigente que aí presta serviço, deve ser notificada à Direcção Regional de Saúde no prazo de 30 dias.
+
+2 - Sem prejuízo das autorizações prévias legalmente exigíveis, o regime previsto no número anterior é também aplicável à alteração das estruturas físicas, designadamente a realização de obras de restauro, remodelação, transformação ou ampliação que contendam com o regular funcionamento da unidade ou de parte dela.
+
+3 - A falta de notificação de transferência de titularidade ou cessão de exploração, bem como de alteração à direcção clínica, determina a suspensão da licença de funcionamento.
+
+###### Artigo 13.º — Fiscalização
+
+1 - A fiscalização das unidades de saúde cabe à Direcção Regional de Saúde, devendo esta avaliar e promover a qualidade técnica, assistencial e humana dos cuidados e tratamentos prestados.
+
+2 - A fim de exercer as competências a que se refere o número anterior, devem os serviços competentes recorrer, sempre que necessário, à colaboração de peritos especialmente qualificados.
+
+3 - O disposto no número anterior inclui, quando a natureza das situações o exija, o recurso a um perito a designar pela Ordem dos Médicos.
+
+###### Artigo 14.º — Revogação da licença
+
+1 - Sempre que o funcionamento de uma unidade privada de saúde decorrer em condições de manifesta degradação qualitativa dos cuidados e tratamentos prestados, deve a licença ser revogada, procedendo-se ao seu encerramento compulsivo.
+
+2 - As condições a que se refere o número anterior devem ser comprovadas em processo instruído pelos serviços da Direcção Regional de Saúde competentes para o efeito, que inclua parecer de comissão composta por dois representantes da Secretaria Regional dos Assuntos Sociais e um da Ordem dos Médicos, a nomear por despacho do Secretário Regional dos Assuntos Sociais.
+
+3 - A revogação da licença é feita por despacho do Secretário Regional dos Assuntos Sociais, mediante proposta do director regional de Saúde.
+
+4 - Notificado o despacho de revogação, deve a entidade cessar a sua actividade no prazo fixado, sob pena de se solicitar às autoridades administrativas e policiais o encerramento compulsivo mediante comunicação do despacho correspondente.
+
+###### Artigo 15.º — Suspensão da licença
+
+1 - Quando a unidade privada de saúde não disponha dos meios materiais e humanos exigíveis segundo as leges artis, mas seja possível supri-los, deve o director regional de Saúde propor ao Secretário Regional dos Assuntos Sociais a suspensão da licença, com inibição de funcionamento dos respectivos serviços, observando-se o disposto nos n.os 2, 3 e 4 do artigo anterior.
+
+2 - O despacho que determina a suspensão da licença fixará igualmente o prazo, não superior a 180 dias, dentro do qual a unidade licenciada deverá realizar as obras, adquirir os equipamentos ou contratar o pessoal necessário ao regular funcionamento dos serviços, sob pena de revogação da licença.
+
+3 - A suspensão pode ser imediatamente imposta, sem dependência do parecer da comissão a que se refere o n.º 2 do artigo anterior, quando o funcionamento da unidade de saúde constitua grave perigo para os doentes.
+
+###### Artigo 16.º — Providências relativas ao público e aos doentes
+
+1 - Sempre que seja revogada ou suspensa a licença atribuída a qualquer unidade privada de saúde, a Secretaria Regional dos Assuntos Sociais providenciará sobre o destino dos internados que não possam ter alta para unidade credenciada, a expensas da unidade titular do estabelecimento.
+
+2 - As medidas de suspensão ou revogação da licença serão divulgadas ao público, nomeadamente através da publicação do respectivo despacho de suspensão ou revogação num dos jornais mais lidos da Região.
+
+###### Artigo 17.º — Autorização de abertura
+
+1 - Logo que cessem as razões que motivaram a suspensão da licença, pode a entidade titular da unidade requerer ao Secretário Regional dos Assuntos Sociais o termo da suspensão.
+
+2 - Produzidas as provas que considere necessárias, pode o Secretário Regional dos Assuntos Sociais, por despacho, determinar o termo da suspensão, após vistoria a realizar nos termos do artigo 9.º
+
+###### Artigo 18.º — Contra-ordenações
+
+1 - A violação do disposto no artigo 4.º constitui contra-ordenação punível com coima de 500000$00 a 6000000$00.
+
+2 - A violação do disposto no artigo 2.º, no n.º 2 do artigo 10.º e nos artigos 11.º e 12.º é punida com coima de 250000$00 a 3000000$00.
+
+3 - O funcionamento de uma unidade privada de saúde em condições de manifesta degradação qualitativa dos cuidados e tratamentos prestados é punido com coima de 500000$00 a 6000000$00.
+
+4 - A falta dos meios materiais e humanos exigíveis segundo as leges artis, que venha a ser suprida nos termos do n.º 2 do artigo 15.º, constitui contra-ordenação punível com coima de 250000$00 a 3000000$00.
+
+5 - Sendo o titular da unidade privada de saúde pessoa singular, os montantes máximos das coimas previstos nos números anteriores são reduzidos, respectivamente, a 500000$00 e 250000$00.
+
+6 - A negligência é punível.
+
+###### Artigo 19.º — Aplicação e destino das coimas
+
+1 - A aplicação das coimas previstas no artigo anterior compete ao director regional de Saúde.
+
+2 - O produto das coimas reverte para o Centro Regional de Saúde.
+
+###### Artigo 20.º — Disposição transitória
+
+1 - As unidades privadas de saúde que se encontrem em funcionamento à data da entrada em vigor do presente diploma devem, no prazo de 90 dias a contar da data de entrada em vigor da regulamentação prevista no n.º 2 do artigo 7.º, requerer a validação da respectiva licença de funcionamento ou iniciar o processo conducente à sua obtenção.
+
+2 - A inobservância do que se dispõe no número anterior em matéria de prazo, ou a não observância dos requisitos legalmente exigidos, certificada pela vistoria a que se refere o artigo 9.º, tem como consequência a revogação da licença e o consequente encerramento da respectiva unidade de saúde.
+
+3 - Ocorrendo razões ponderosas de saúde pública, devidamente justificadas, pode o prazo previsto no n.º 1 ser prorrogado por períodos sucessivos de 30 dias, até ao limite máximo de 180 dias.
+
+4 - Compete ao director regional de Saúde a verificação, por despacho, dos pressupostos previstos no número anterior.
+
+###### Artigo 21.º — Entrada em vigor
+
+O presente diploma entra em vigor 30 dias após a data da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 19 de Janeiro de 1994.
+
+**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+
+**Assinado em 4 de Fevereiro de 1994.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**

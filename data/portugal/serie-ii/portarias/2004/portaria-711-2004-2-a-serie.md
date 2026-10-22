@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:1107246:por
+title: Portaria n.º 711/2004 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Agricultura, Desenvolvimento Rural e Pescas
+proposing_entity: null
+official_number: 711/2004 (2.ª série)
+official_date: null
+publication_date: '2004-06-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2004, Série II de 2004-06-24
+  number: '147'
+  series: II
+  supplement: null
+  pages: 9467 - 9467
+  pdf_url: https://files.diariodarepublica.pt/2s/2004/06/147000000/0946709467.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1107246'
+  dre_path: /dr/detalhe/portaria/711-2004-1107246
+  internal: pt:dre:1107246:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-2004-1107246
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/711-2004-1107246
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-06-24T00:00:00Z'
+integrity:
+  source_sha256: d5b2bc8891f4505dff7821c115187e5b6686090fea7fe194c1fe84fb5a90594f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-711-1107246.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 711/2004 (2.ª série)
+
+Portaria n.º 711/2004 (2.ª série). - Pela portaria n.º 740/75, de 13 de Dezembro, foi expropriado o predio rústico denominado "Herdade dos Machados", inscrito na matriz cadastral sob o artigo 1 da Secção I a I-8, da freguesia de Santo Agostinho, do concelho de Moura, com a área de 6101,0825 ha, em nome de Ermelinda Neves Bernardino Santos Jorge.
+
+Na sequência do pedido de reversão do lote 19-A com a área de 20,3125 ha do citado prédio, apresentado por Arnalda Neves Tavares da Costa e Nuno Tristão Neves, na qualidade de legítimos herdeiros do sujeito passivo da expropriação, foi organizado e instruído o respectivo processo administrativo no decurso do qual ficou provado que os ex-titulares, ora requerentes, detêm a posse do referido lote.
+
+Nestes termos:
+
+Manda o Governo, pelo Primeiro-Ministro e pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, nos termos do n.º 1 do artigo 44.º da [Lei n.º 86/95](https://diariodarepublica.pt/dr/detalhe/lei/86-1995-546975), de 1 de Setembro, reverter a área de 20,3125 ha referente ao lote 19-A do prédio rústico denominado "Herdade dos Machados", determinando para o efeito a derrogação da portaria n.º 740/75, de 13 de Dezembro, na parte em que expropria tal área.
+
+9 de Junho de 2004. - O Primeiro-Ministro, José Manuel Durão Barroso. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto.

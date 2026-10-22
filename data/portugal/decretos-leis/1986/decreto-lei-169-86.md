@@ -1,0 +1,326 @@
+---
+schema_version: '1.0'
+id: pt:dre:228590:por
+title: Decreto-Lei n.º 169/86
+short_title: null
+summary: Regulamenta o exercício da actividade de aquisição para revenda de animais vivos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 169/86
+official_date: null
+publication_date: '1986-06-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 145/1986, Série I de 1986-06-27
+  number: '145'
+  series: I
+  supplement: null
+  pages: 1521 - 1524
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/06/14500/15211524.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-169-86.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1986-06-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Revoga Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/169/1986/p/cons/20210129/pt/html
+  oj: null
+  dre: '228590'
+  dre_path: /dr/detalhe/decreto-lei/169-1986-228590
+  internal: pt:dre:228590:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-1986-228590
+  metadata_url: https://data.dre.pt/eli/dec-lei/169/1986/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-155882557
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-155882557
+  retrieved_at: '2026-10-22T12:37:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7d3929f33c7d30f0bac6626838b9beabf62bb2b210553cd3092d8285aae5138c
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:37:33Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-169-86.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- GADO
+- Gado Bovino
+- Gado Caprino
+- Gado Equino
+- Gado Ovino
+- Gado Suíno
+- Licenciamento
+- Proteção do Consumidor
+relationships:
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 12.º; Altera Artigo 13.º; Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+article_structure:
+  article_count: 16
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:37:33Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 169/86
+
+Decreto-Lei n.º 169/86
+
+de 27 de Junho
+
+Considerando a necessidade de se proceder à regulamentação do exercício da actividade de aquisição para revenda de animais vivos;
+
+Verificando-se a conveniência de instituir um processo conducente à instauração de um licenciamento prévio, centralmente organizado e coordenado pelos departamentos estatais, da actividade relacionada com a aquisição para revenda dos animais vivos;
+
+Revelando-se o propósito e a necessidade de proteger os legítimos interesses dos consumidores e dos demais agentes económicos envolvidos na actividade mencionada;
+
+Ouvidas as organizações representativas do sector de actividade económica a que se dirige o disposto no presente decreto-lei:
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+- 1 - O exercício da actividade de aquisição para revenda de animais vivos das espécies referidas na tabela I anexa a este diploma por parte de qualquer pessoa singular ou colectiva carece de prévia inscrição na Junta Nacional dos Produtos Pecuários, a qual terá a validade de cinco anos contados da data da vistoria a que se refere o n.º 2 do artigo 5.º
+
+2 - O disposto no número anterior é aplicável sempre que os animais adquiridos para revenda venham a destinar-se quer a reprodução, quer a revenda, quer a abate para consumo.
+
+###### Artigo 2.º
+
+- 1 - A inscrição a que se refere o artigo 1.º só poderá ser efectuada pelas pessoas singulares ou colectivas que possuam instalações para os animais que obedeçam aos requisitos constantes da tabela II anexa ao presente diploma.
+
+2 - A renovação da inscrição deverá ser requerida até 90 dias antes do termo da sua validade, sob pena de se considerar automaticamente revogada naquele termo.
+
+3 - A renovação da inscrição obedecerá às formalidades previstas para a própria inscrição, com as necessárias adaptações, devendo, no entanto, o respectivo requerimento ser acompanhado de fotocópia do cartão comprovativo da inscrição que se pretende renovar.
+
+4 - A inscrição será também revogada sempre que as instalações para os animais que serviram de pressuposto à sua efectivação deixem de possuir os requisitos legalmente exigidos.
+
+###### Artigo 3.º
+
+O requerimento para obtenção da inscrição ou para a sua renovação será dirigido ao presidente da Junta Nacional dos Produtos Pecuários, devendo ser apresentado nos serviços regionais do Ministério da Agricultura, Pescas e Alimentação.
+
+###### Artigo 4.º
+
+1 - O requerimento referido no artigo anterior conterá obrigatoriamente os seguintes elementos:
+
+a) Identificação do requerente pelo nome, data de nascimento e residência, número, data e local de emissão do documento de identificação e indicação do respectivo número fiscal de contribuinte, quando se trate de pessoa singular;
+
+b) Identificação pela firma ou denominação particular, sede e data da constituição, quando se trate de pessoa colectiva;
+
+c) Localização das instalações a licenciar.
+
+2 - O requerimento será instruído com os seguintes elementos:
+
+a) Duas fotografias tipo passe, caso se trate de pessoa singular;
+
+b) Fotocópia do cartão de inscrição no Registo Nacional de Pessoas Colectivas, no caso de se tratar de pessoas colectivas ou entidades equiparadas;
+
+c) Fotocópia do cartão referido no n.º 3 do artigo 6.º, quando se trate de pedido de renovação de inscrição.
+
+###### Artigo 5.º
+
+- 1 - Os serviços regionais do Ministério da Agricultura, Pescas e Alimentação deverão, no prazo máximo de quinze dias a contar da recepção do requerimento, apreciar o processo, notificando o requerente para suprir eventuais deficiências no caso de elas existirem.
+
+2 - Ultimado o processo, os serviços regionais do Ministério da Agricultura, Pescas e Alimentação promoverão, no prazo máximo de 30 dias, sob a sua orientação e com a colaboração das entidades consideradas necessárias, uma vistoria às instalações indicadas pelo requerente.
+
+3 - Da vistoria referida no número anterior lavrar-se-á um auto, assinado pelas entidades intervenientes, no qual se descreverão, sumariamente, os requisitos das instalações, concluindo-se se as mesmas estão ou não em conformidade com os legalmente exigidos.
+
+4 - Face ao conteúdo do auto de vistoria referido no número anterior, no prazo máximo de oito dias, o director dos serviços regionais do Ministério da Agricultura, Pescas e Alimentação emitirá parecer favorável ou desfavorável ao licenciamento, conforme entenda que as instalações reúnem ou não os requisitos legais.
+
+###### Artigo 6.º
+
+- 1 - Os serviços regionais do Ministério da Agricultura, Pescas e Alimentação, após ter sido emitido o parecer referido no n.º 4 do artigo anterior, remeterão, no prazo máximo de oito dias, todo o processo ao presidente da Junta Nacional dos Produtos Pecuários.
+
+2 - No prazo máximo de oito dias a contar da recepção do processo, o presidente da Junta Nacional dos Produtos Pecuários ou o funcionário em quem delegar essa competência concederá ou denegará a inscrição.
+
+3 - Nos casos em que a inscrição seja concedida entregar-se-á ao requerente um documento comprovativo do modelo anexo a este diploma.
+
+4 - Sempre que a inscrição seja revogada, a Junta Nacional dos Produtos Pecuários procederá à apreensão do documento referido no número anterior.
+
+###### Artigo 7.º
+
+- 1 - O alojamento de animais vivos das espécies referidas na tabela I anexa a este diploma, adquiridos para revenda nos termos e pelas pessoas a que se reporta o artigo 1.º, só pode efectuar-se em instalações que obedeçam aos requisitos constantes da tabela II anexa ao presente diploma.
+
+2 - A utilização das instalações referidas no número anterior carece de prévio licenciamento.
+
+3 - Ao licenciamento das instalações será aplicável, com as necessárias adaptações, o processo previsto neste diploma para a obtenção da inscrição referida no n.º 1 do artigo 1.º
+
+###### Artigo 8.º
+
+O licenciamento de qualquer instalação diferente daquela ou daquelas que serviram de pressuposto à obtenção da inscrição prevista no n.º 1 do artigo 1.º deverá ser averbado, por iniciativa do interessado, no respectivo documento a que se refere o n.º 3 do artigo 6.º
+
+###### Artigo 9.º
+
+Sempre que alguma das instalações licenciadas nos termos deste diploma deixe de reunir os requisitos legalmente exigidos, quando não seja caso de revogação de inscrição, será declarado caduco o respectivo licenciamento, devendo o facto, por iniciativa do interessado, ser averbado no documento referido no n.º 3 do artigo 6.º
+
+###### Artigo 10.º
+
+A Junta Nacional dos Produtos Pecuários, até ao dia 31 de Janeiro de cada ano, enviará à repartição de finanças do concelho ou bairro fiscal onde se situam uma relação das instalações licenciadas no ano anterior ou cujo licenciamento caducou durante o mesmo período, com a identificação em ambos os casos dos respectivos requerentes.
+
+###### Artigo 11.º
+
+Sem prejuízo do disposto na legislação em vigor, a caixa dos veículos utilizados no transporte de animais vivos das espécies referidas na tabela I anexa a este decreto-lei e o transporte dos mesmos devem obedecer aos requisitos a fixar por portaria conjunta dos Ministros da Agricultura, Pescas e Alimentação e das Obras Públicas, Transportes e Comunicações.
+
+###### Artigo 12.º
+
+Sem prejuízo das competências legais atribuídas a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) a fiscalização do cumprimento das normas previstas no presente decreto-lei.
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 13.º
+
+1 - Sem prejuízo do disposto no número seguinte, as infrações ao disposto no presente diploma constituem contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE).
+
+2 - O exercício da atividade sem a prévia inscrição referida no artigo 1.º ou cuja inscrição se encontre revogada, bem como o não cumprimento do disposto nos n.os 1 e 2 do artigo 7.º rege-se pelo disposto no artigo 66.º do Decreto-Lei n.º 28/84, de 20 de janeiro, na sua redação atual.
+
+3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
+
+4 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas no n.º 1 é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 14.º
+
+- 1 - O exercício da actividade referida no artigo 1.º por parte de pessoas não inscritas na Junta dos Produtos Pecuários ou cuja inscrição foi revogada e o não cumprimento do disposto nos n.os 1 e 2 do artigo 7.º constituem contra-ordenações, previstas e punidas nos termos do artigo 66.º do Decreto-Lei n.º 28/84, de 20 de Janeiro.
+
+2 - A violação do disposto no artigo 9.º ou em qualquer outra disposição deste diploma para a qual não esteja prevista punição específica constitui contra-ordenação, punida com a coima de 5000$00 a 50000$00.
+
+> Revogado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 15.º
+
+- 1 - Às pessoas referidas no artigo 1.º e que na data da entrada em vigor do presente diploma já se dediquem ao exercício da actividade mencionada naquele preceito é concedido o prazo de 180 dias para legalizarem a sua situação, nos termos deste diploma.
+
+2 - A apresentação do requerimento constante do artigo 3.º deste diploma por parte das pessoas referidas no número anterior, dentro do prazo de 180 dias, suspende o decurso desse prazo até ser notificado o requerente do despacho que recair sobre a pretensão.
+
+###### Artigo 16.º
+
+A aplicação do disposto no presente decreto-lei às Regiões Autónomas dos Açores e da Madeira far-se-á mediante diploma adequado, emanado das respectivas Assembleias Regionais.
+
+Visto e aprovado em Conselho de Ministros de 17 de Abril de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leitão de Oliveira Martins - António Amaro de Matos.
+
+Promulgado em 5 de Junho de 1986.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 12 de Junho de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+Tabela I a que se refere o n.º 1 do artigo 1.º
+
+1 - Equídeos.
+
+2 - Bovinos.
+
+3 - Ovinos.
+
+4 - Caprinos.
+
+5 - Suínos.
+
+Tabela II a que se refere o n.º 1 do artigo 2.º
+
+1 - As instalações devem ser implantadas em local isolado e de fácil acesso, não comprometerem o ambiente que as envolve e com dimensão adequada aos animais a alojar.
+
+1.1 - Embora não estejam definidas quantitativamente as áreas por cabeça, elas devem ter a dimensão adequada à corpolência dos animais a alojar.
+
+1.2 - Para efeito do dimensionamento da área são de considerar os seguintes escalões:
+
+a) Equídeos adolescentes;
+
+b) Equídeos adultos;
+
+c) Bovinos jovens (vitelos);
+
+d) Bovinos adolescentes (novilhos);
+
+e) Bovinos adultos;
+
+f) Ovinos e caprinos adolescentes;
+
+g) Ovinos e caprinos adultos;
+
+h) Suínos jovens (leitões);
+
+i) Suínos adolescentes;
+
+j) Suínos adultos.
+
+2 - Qualquer que seja o tipo de instalação utilizada, é indispensável que ela disponha de condições que assegurem a protecção dos animais contra as intempéries, bem como contra as grandes variações climáticas.
+
+2.1 - No caso de se utilizar a estabulação livre, a área confinada deve ter dimensão adequada ao número de cabeças a alojar, de acordo com a espécie e espaço disponível para a área de exercício.
+
+2.2 - No caso de alojamento em regime estabular, a área confinada deve ter dimensão adequada ao número de cabeças a alojar, de acordo com a espécie e idade.
+
+2.3 - A área confinada, quer no caso de alojamento em regime estabular, quer em estabulação livre, deve obedecer aos seguintes requisitos:
+
+a) Dispor de meios apropriados para a distribuição de alimentos;
+
+b) Dispor de água em quantidade suficiente para o abeberamento dos animais e para lavagem das próprias instalações;
+
+c) Dispor de meios apropriados à observação individual dos animais em condições de segurança.
+
+2.4 - No caso de alojamento em regime estabular, a área confinada deve ainda obedecer aos seguintes requisitos:
+
+a) Paredes de fácil limpeza e desinfecção, pavimento impermeável e não escorregadio, com inclinação de, pelo menos, 2%, janelas ou aberturas para o exterior que proporcionem luz e ventilação convenientes;
+
+b) As aberturas para o exterior devem ser instaladas por forma que a ventilação não incida directamente sobre os animais e proporcione a manutenção da temperatura e humidade adequadas;
+
+c) Ter sistema de esgoto aprovado pela autoridade sanitária que garanta a higiene das instalações.
+
+## Anexo — (Modelo a que se refere o n.º 3 do artigo 6.º)
+
+(ver documento original)

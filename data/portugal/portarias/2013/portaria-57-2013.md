@@ -1,0 +1,528 @@
+---
+schema_version: '1.0'
+id: pt:dre:258095:por
+title: Portaria n.º 57/2013
+short_title: null
+summary: Altera o Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição, no Curso de Licenciatura em Teatro
+  da Escola Superior de Teatro e Cinema do Instituto Politécnico de Lisboa e revoga a Portaria n.º 853/2010, de 6 de setembro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 57/2013
+official_date: null
+publication_date: '2013-02-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 27/2013, Série I de 2013-02-07
+  number: '27'
+  series: I
+  supplement: null
+  pages: 753 - 757
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/02/02700/0075300757.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/57/2013/02/07/p/dre/pt/html
+  oj: null
+  dre: '258095'
+  dre_path: /dr/detalhe/portaria/57-2013-258095
+  internal: pt:dre:258095:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/57-2013-258095
+  metadata_url: https://data.dre.pt/eli/port/57/2013/02/07/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/57-2013-258095
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2015-06-24T00:00:00Z'
+integrity:
+  source_sha256: 3074e3c107a97e954728525753519dac754992b3ed3ca36bf164552c9a2d75d7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-57-258095.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Artístico
+- Ensino Superior Politécnico
+- Escola Superior de Teatro e Cinema
+- Lisboa
+- Instituto Politécnico
+- Licenciatura
+- Regulamento
+- Ensino Superior
+- Teatro
+- Matrícula
+relationships:
+- type: amended_by
+  target: pt:dre:67579532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-
+  label: null
+  source: http://data.dre.pt/eli/dec-
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/147-a/2006/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/147-a/2006/07/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/158/2004/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/158/2004/06/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/26/2003/02/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/26/2003/02/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/40/2007/02/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/40/2007/02/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/45/2007/02/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/45/2007/02/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/76/2004/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/76/2004/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/853/2010/09/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/853/2010/09/06/p/dre
+article_structure:
+  article_count: 32
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 57/2013
+
+de 7 de fevereiro
+
+A requerimento do Instituto Politécnico de Lisboa;
+
+Colhido o parecer favorável da Comissão Nacional de Acesso ao Ensino Superior;
+
+Ao abrigo do disposto no n.º 4 do artigo 27.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de fevereiro, e [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho;
+
+No uso das competências delegadas pelo Ministro da Educação e Ciência através do despacho n.º 645/2012, de 17 de janeiro;
+
+Manda o Governo, pelo Secretário de Estado do Ensino Superior, o seguinte:
+
+###### Artigo 1.º — Alteração do regulamento
+
+O Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Teatro da Escola Superior de Teatro e Cinema do Instituto Politécnico de Lisboa passa a ter a redação constante do anexo à presente portaria.
+
+###### Artigo 2.º — Texto
+
+O texto referido no artigo anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.
+
+###### Artigo 3.º — Alterações
+
+Todas as alterações ao Regulamento são nele incorporadas através de nova redação dos seus artigos ou de aditamento de novos artigos.
+
+###### Artigo 4.º — Aplicação
+
+O Regulamento anexo à presente portaria aplica-se a partir da candidatura à matrícula e inscrição no ano letivo de 2013-2014, inclusive.
+
+###### Artigo 5.º — Disposição revogatória
+
+É revogada a Portaria n.º 853/2010, de 6 de setembro.
+
+###### Artigo 6.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+**O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 24 de janeiro de 2013.**
+
+## ANEXO
+
+Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Curso de Licenciatura em Teatro da Escola Superior de Teatro e Cinema do Instituto Politécnico de Lisboa
+
+###### Artigo 1.º — Objeto e âmbito
+
+O presente Regulamento disciplina o concurso local para a matrícula e inscrição no curso de licenciatura em Teatro, nos ramos de Atores, de Design de Cena e de Produção, adiante designado curso, ministrado pela Escola Superior de Teatro e Cinema do Instituto Politécnico de Lisboa, adiante designada Escola.
+
+###### Artigo 2.º — Avaliação da capacidade para a frequência
+
+1 - A avaliação de capacidade para a frequência do ramo de Atores faz-se em duas fases: pré-seleção e seleção.
+
+2 - A avaliação de capacidade para a frequência do ramo de Design de Cena faz-se numa única fase de seleção.
+
+3 - A avaliação de capacidade para a frequência do ramo de Produção faz-se numa única fase de seleção.
+
+###### Artigo 3.º — Fase de pré-seleção do ramo de Atores
+
+1 - A fase de pré-seleção do ramo de Atores é constituída por um conjunto de provas práticas incidindo nas áreas genéricas de corpo, voz, imaginação e improvisação, e ainda por uma entrevista.
+
+2 - A prova de corpo é um exame individual realizado em grupo no qual são propostos aos candidatos distintos exercícios numa dinâmica de progressão e continuidade.
+
+3 - Os exercícios referidos no número anterior têm por objetivo avaliar:
+
+a) O nível do candidato em termos de equilíbrio tónico e postural, coordenação motora, coordenação dinâmica, amplitude e orientação espacial;
+
+b) A capacidade de incorporação de exercícios ligados aos três planos do movimento no espaço, as distintas modalidades dinâmicas do movimento e seus efeitos na expressão;
+
+c) O grau de adaptabilidade a exercícios de perceção e concentração que potenciam a consciência percetiva do movimento;
+
+d) A evolução global do candidato ao longo da prova.
+
+4 - Na prova de voz os candidatos são avaliados nos seguintes domínios: imitação de pequenos vocalizos em diversas tessituras, avaliando-se a capacidade de ouvir e de reproduzir os sons, sentido rítmico, amplitude e domínio de respiração, diversidade na intensidade e projeção de voz, através de frases ou pequenos textos, grau de clareza da dicção e interpretação da canção escolhida.
+
+5 - Na prova de imaginação e improvisação os candidatos devem manifestar capacidade de responder a propostas de jogo teatral, relacionamento com os outros, com o espaço e com os objetos, transformação dos dados do real em matéria artística teatral, relação com a palavra e criação de personagens e tipos sociais.
+
+6 - A prova de imaginação e improvisação inclui ainda um monólogo de natureza teatral com exibição de comportamentos da personagem, devidamente preparado, com a duração de três minutos e de escolha pessoal do candidato.
+
+7 - Na entrevista os candidatos são avaliados pelos seguintes parâmetros: cultura geral, capacidade de raciocínio e atenção, qualidades de observação e de sensibilidade para o facto teatral, análise da ficha de inquérito do candidato e das suas motivações artísticas e profissionais.
+
+8 - A classificação final da fase de pré-seleção é atribuída na escala inteira de 0 a 20 e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:
+
+CFPS = Pc x 0,2 + Pv x 0,2 + Pii x 0,4 +E x 0,2
+
+Em que:
+
+CFPS = classificação final da fase de pré-seleção;
+
+Pc = classificação da prova de corpo;
+
+Pv = classificação da prova de voz;
+
+Pii = classificação da prova de imaginação e improvisação;
+
+E= classificação da entrevista.
+
+9 - Os resultados da pré-seleção são divulgados através de edital afixado na Escola e publicado no respetivo sítio da Internet, no prazo fixado nos termos do artigo 26.º, sob a forma de uma lista seriada pela ordem da classificação a que se refere o número anterior.
+
+10 - Transitam para a fase de seleção os candidatos cuja classificação na pré-seleção seja igual ou superior a 10.
+
+###### Artigo 4.º — Fase de seleção do ramo de Atores
+
+1 - A fase de seleção do ramo de Atores tem como objetivo um mais intenso relacionamento dos candidatos com a Escola, permitindo uma maior capacidade de observação das suas aptidões detetadas na fase anterior.
+
+2 - A fase de seleção procura ainda verificar as qualidades de disciplina, assiduidade e prontidão de resposta às solicitações do trabalho profissional, bem como à capacidade de trabalho em grupo.
+
+3 - A fase de seleção do ramo de Atores é composta por provas de corpo, voz e interpretação teatral, esta última constituída por um monólogo e por um diálogo e uma prova de dramaturgia.
+
+4 - A prova de corpo na fase de seleção tem por objetivo avaliar todos os parâmetros da fase de pré-seleção de forma mais específica, da sua aplicação na cena e no contexto dos trabalhos apresentados pelos candidatos.
+
+5 - A prova de voz destina-se a avaliar as capacidades vocais dos candidatos observadas na pré-seleção, agora em contexto teatral, assim como a sua capacidade de adaptação às situações de desenvolvimento do trabalho propostas pelo júri.
+
+6 - A prova de monólogo, com a duração de três minutos e de escolha pessoal, é uma prova de teatro com interpretação de personagem, preparado e não improvisado.
+
+7 - A prova de diálogo é constituída por uma cena obrigatória de uma peça indicada anualmente pela Escola, devendo os candidatos preparar as cenas, saber os textos de cor e criar as personagens.
+
+8 - Na prova de dramaturgia solicita-se uma exposição do ponto de vista dramatúrgico e das opções cénicas adotadas na apresentação das cenas.
+
+9 - A classificação final da fase de seleção é atribuída na escala inteira de 0 a 20 e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:
+
+CFS = C X 0,125 +V X 0,125 + Im X 0,325 + Id X 0,3 + D X 0,125
+
+em que:
+
+CFS = classificação final da seleção;
+
+C = classificação da prova de corpo;
+
+V = classificação da prova de voz;
+
+Im = classificação da prova de interpretação teatral referente ao monólogo;
+
+Id = classificação da prova de interpretação teatral referente ao diálogo;
+
+D = classificação da prova de dramaturgia.
+
+###### Artigo 5.º — Fase de seleção do ramo de Design de Cena
+
+1 - A fase de seleção do ramo de Design de Cena é constituída por:
+
+a) Uma prova prática de desenho de representação, que se destina a avaliar as capacidades de observação, de representação e de expressão dos candidatos;
+
+b) A apresentação de uma seleção de trabalhos, em formato A3 ou A4, até ao máximo de 10, que tenham sido realizados pelo candidato, relevantes e relacionados com os estudos em Artes Visuais;
+
+c) Uma entrevista com a qual se pretende avaliar, através da análise de uma ficha de inquérito, as competências e motivações artísticas adquiridas no percurso escolar e ou profissional que levam o candidato a escolher este curso.
+
+2 - A classificação final da fase de seleção é atribuída na escala inteira de 0 a 20 e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:
+
+CFS = Pdr X 0,65 + At X 0,05 + E x 0,30
+
+Em que:
+
+CFS = classificação final da seleção;
+
+Pdr = classificação da prova prática de desenho de representação;
+
+At = classificação da apresentação de trabalhos;
+
+E = classificação da entrevista.
+
+###### Artigo 6.º — Fase de seleção do ramo de Produção
+
+1 - A fase de seleção do ramo de Produção é constituída por uma entrevista e por uma prova escrita.
+
+2 - Na entrevista é analisada a ficha de inquérito do candidato, bem como as motivações que o levaram a escolher este curso e as características que possui para o desempenho da função de produtor.
+
+3 - A prova escrita é constituída por questões relacionadas com a produção, montagem e exibição de um espetáculo que visa detetar os anteriores conhecimentos e o perfil que o candidato demonstra possuir para exercer as tarefas inerentes ao ramo de Produção.
+
+4 - A classificação final da fase de seleção é atribuída na escala inteira de 0 a 20 e é o valor resultante do cálculo, arredondado às unidades, considerando como unidade a fração não inferior a cinco décimas, da seguinte expressão:
+
+CFS = E X 0,35 + Pe X 0,65
+
+Em que:
+
+CFS = classificação final da seleção;
+
+E = classificação da entrevista;
+
+Pe = classificação da prova escrita.
+
+###### Artigo 7.º — Validade das provas
+
+As provas são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam.
+
+###### Artigo 8.º — Condições para a candidatura
+
+1 - Podem apresentar-se ao concurso os candidatos que reúnam as seguintes condições:
+
+a) Ser titular de um curso de ensino secundário ou de habilitação legalmente equivalente;
+
+b) Ter realizado, com classificação não inferior a 95, uma das seguintes provas de ingresso no ensino superior: Português, Inglês, História da Cultura e das Artes, Geometria Descritiva, Matemática ou Literatura Portuguesa.
+
+2 - Podem igualmente apresentar-se ao concurso os candidatos que reúnam os requisitos exigidos para o acesso e ingresso através dos regimes especiais nas condições estabelecidas no n.º 2 do artigo 6.º do [Decreto-Lei n.º 393-A/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-a-1999-159114), de 2 de outubro, alterado pelo [Decreto-Lei n.º 272/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-2009-490957), de 1 de outubro, e dos concursos especiais de acesso regulados pelo [Decreto-Lei n.º 393-B/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-b-1999-159115), de 2 de outubro, alterado pelos Decretos-Leis n.º 64/2006, de 21 de março, 88/2006, de 23 de maio, e 196/2006, de 10 de outubro, cujas condições de candidatura se regem por regulamentos próprios.
+
+###### Artigo 9.º — Vagas
+
+A matrícula e inscrição em cada ramo do curso está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de fevereiro, [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de fevereiro, e [90/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2008-448963), de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho.
+
+###### Artigo 10.º — Local e apresentação de candidatura
+
+1 - O requerimento de candidatura é apresentado na Escola.
+
+2 - O prazo para entrega do requerimento de candidatura é fixado nos termos do artigo 26.º
+
+###### Artigo 11.º — Apresentação de candidatura
+
+Tem legitimidade para subscrever o requerimento de candidatura:
+
+a) O candidato;
+
+b) Um seu procurador bastante;
+
+c) Sendo o estudante menor, a pessoa que demonstre exercer o poder paternal ou tutelar.
+
+###### Artigo 12.º — Instrução do processo de candidatura
+
+1 - O processo de candidatura é instruído com:
+
+a) Requerimento, em impresso de modelo fornecido pela Escola, onde são indicados, obrigatoriamente, o nome do requerente, o número de documento de identificação válido, o número de contribuinte, o endereço postal, a habilitação com que o interessado se candidata e o ramo a que se candidata;
+
+b) Certificado comprovativo da titularidade da habilitação com que se candidata;
+
+c) Certificado comprovativo de que realizou uma das provas de ingresso fixadas na alínea b) do artigo 8.º, quando aplicável, e quando tal não conste expressamente do documento a que se refere a alínea anterior;
+
+d) Ficha de inquérito, em impresso de modelo fornecido pela Escola, que se destina à recolha de informações genéricas sobre o perfil académico e cultural e as motivações vocacionais do candidato;
+
+e) Outros documentos que o candidato considere relevantes para a apreciação da candidatura ao ramo pretendido.
+
+2 - Os documentos referidos nas alíneas b) e c) do número anterior, poderão, no ato de candidatura ser substituídos por uma declaração de compromisso de que serão entregues até ao termo do prazo fixado nos termos do artigo 26.º
+
+3 - Os documentos referidos nas alíneas a) e d) podem ser substituídos por formulários eletrónicos disponibilizados pela Escola no seu sítio na Internet.
+
+4 - A entrega do processo de candidatura pode ser realizada por um dos seguintes modos:
+
+a) Em envelope fechado nos Serviços Administrativos da Escola;
+
+b) Por correio;
+
+c) Através do sítio de Internet da Escola.
+
+###### Artigo 13.º — Indeferimento liminar
+
+1 - São liminarmente indeferidos os requerimentos que:
+
+a) Não estejam corretamente formulados nos termos do disposto no artigo anterior;
+
+b) Sejam apresentados fora de prazo;
+
+c) Não estejam acompanhados da documentação indicada no artigo anterior;
+
+d) Expressamente infrinjam alguma das regras fixadas pelo presente Regulamento.
+
+2 - O indeferimento liminar é da competência do presidente da Escola e deve ser fundamentado.
+
+###### Artigo 14.º — Júri das provas
+
+1 - A organização das provas é da competência de um júri designado pelo presidente da Escola, ouvidas a direção e a comissão técnico-científica do Departamento de Teatro.
+
+2 - Compete ao júri, designadamente:
+
+a) Dar execução às provas e proceder à sua apreciação de acordo com as normas e critérios de avaliação fixados no presente Regulamento;
+
+b) Proceder às operações de seleção e seriação dos candidatos.
+
+###### Artigo 15.º — Edital
+
+Por edital do presidente da Escola, publicado no respetivo sítio na Internet, são divulgados, designadamente:
+
+a) O calendário do concurso de acordo com os prazos fixados nos termos do artigo 26.º;
+
+b) O horário de realização das provas;
+
+c) A composição do júri de cada uma das provas.
+
+###### Artigo 16.º — Seriação
+
+1 - A seriação dos candidatos à matrícula e inscrição em cada um dos ramos do curso é realizada com base numa nota de candidatura.
+
+2 - A nota de candidatura para o ramo de Atores é a resultante do cálculo da seguinte expressão:
+
+Nc = 0,8 x CFS + 0,1 x CFPS + 0,1 x Ha
+
+Em que:
+
+Nc = nota de candidatura;
+
+CFS = classificação da fase de seleção;
+
+CFPS = classificação da fase de pré-seleção;
+
+Ha = classificação da habilitação com que se candidata.
+
+3 - A nota de candidatura para o ramo de Design de Cena é a resultante do cálculo da seguinte expressão:
+
+Nc = 0,80 x CFS + 0,20 x Ha
+
+Em que:
+
+Nc = nota de candidatura;
+
+CFS = classificação da fase de seleção;
+
+Ha = classificação da habilitação com que se candidata.
+
+4 - A nota de candidatura para o ramo de Produção é a resultante do cálculo da seguinte expressão:
+
+Nc = 0,9 x CFS + 0,10 x Ha
+
+Em que:
+
+Nc = nota de candidatura;
+
+CFS = classificação da fase de seleção;
+
+Ha = classificação da habilitação com que se candidata.
+
+5 - O cálculo das expressões a que se referem os números anteriores é arredondado à décimas.
+
+6 - Os candidatos com nota de candidatura inferior a 10,0 valores são excluídos.
+
+###### Artigo 17.º — Colocação
+
+A colocação dos candidatos nas vagas fixadas para cada ramo é feita por ordem decrescente das listas seriadas elaboradas nos termos do artigo anterior.
+
+###### Artigo 18.º — Desempate
+
+Sempre que dois ou mais candidatos em situação de empate resultante da aplicação dos critérios de seriação a que se refere o artigo 16.º disputem a última vaga ou o último conjunto de vagas de um ramo, são abertas tantas vagas adicionais quanto as necessárias para os admitir.
+
+###### Artigo 19.º — Competência
+
+As decisões sobre a candidatura a que se refere o presente regulamento são da competência do presidente da Escola.
+
+###### Artigo 20.º — Resultado final
+
+O resultado final exprime-se através de uma das seguintes situações:
+
+a) Colocado;
+
+b) Não colocado;
+
+c) Excluído.
+
+###### Artigo 21.º — Comunicação da decisão
+
+1 - O resultado é divulgado através de edital afixado na Escola e publicado no respetivo sítio da Internet, no prazo fixado nos termos do artigo 26.º
+
+2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:
+
+a) Nome;
+
+b) Número do documento de identificação;
+
+c) Nota de candidatura a que se refere o artigo 16.º e valores das suas componentes;
+
+d) Resultado final.
+
+###### Artigo 22.º — Reclamações
+
+1 - Do resultado final, podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 26.º, mediante exposição dirigida ao presidente da Escola.
+
+2 - A reclamação é entregue no local onde o reclamante apresentou a candidatura.
+
+3 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e local devidos, nos termos dos números anteriores.
+
+4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas nos termos do número anterior são notificadas aos reclamantes através de carta registada com aviso de receção.
+
+5 - Ao procedimento relativo à apresentação e decisão de reclamações é aplicável o regime do Código do Procedimento Administrativo.
+
+###### Artigo 23.º — Matrícula e inscrição
+
+1 - Os candidatos colocados têm o direito a proceder à matrícula e inscrição no prazo fixado nos termos do artigo 26.º
+
+2 - A colocação apenas tem efeito para o ano letivo a que se refere, pelo que o direito à matrícula e inscrição caduca com o seu não exercício dentro do prazo fixado.
+
+###### Artigo 24.º — Exclusão dos candidatos
+
+1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:
+
+a) Prestem falsas declarações;
+
+b) Atuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objetivos daquelas.
+
+2 - A decisão a que se refere o número anterior é da competência do Presidente da Escola e deve ser fundamentada.
+
+###### Artigo 25.º — Comunicação à Direção-Geral do Ensino Superior
+
+Findo o prazo de matrícula e inscrição, a Escola envia à Direção-Geral do Ensino Superior uma lista onde constem todos os candidatos que procederam à mesma, com a indicação do nome e número do documento de identificação.
+
+###### Artigo 26.º — Prazos
+
+Os prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo presidente da Escola e divulgados nos termos fixados pelo artigo 15.º

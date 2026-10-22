@@ -1,0 +1,329 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:205994956:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2023-896613472",
+ "dre_path": "/dr/detalhe/decreto-lei/4-2023-205994956",
+ "source_lastmod": "2024-11-14",
+ "versions": [
+  {
+   "date": "2023-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "896727300",
+    "896727301",
+    "896727302",
+    "896727303",
+    "896727304",
+    "896727305",
+    "896727306",
+    "896727307",
+    "896727308",
+    "896727309",
+    "896727310",
+    "896727311",
+    "896727312",
+    "896727313",
+    "896727314",
+    "896727315",
+    "896727316",
+    "896727318"
+   ]
+  },
+  {
+   "date": "2024-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:896613427:por",
+     "title": "Decreto-Lei n.º 88/2024",
+     "published": "2024-11-14",
+     "dre_path": "/dr/detalhe/decreto-lei/88-2024-896613427"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "896727300",
+    "896727350",
+    "896727302",
+    "896727303",
+    "896727351",
+    "896727305",
+    "896727352",
+    "896727353",
+    "896727308",
+    "896727309",
+    "896727354",
+    "896727311",
+    "896727355",
+    "896727313",
+    "896727356",
+    "896727315",
+    "896727346",
+    "896727347",
+    "896727348",
+    "896727349"
+   ]
+  }
+ ],
+ "fragments": {
+  "896727300": {
+   "fragment_id": "896613473",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 4/2023\n\nde 11 de janeiro\n\nSumário: Aprova o Sistema de Apoio à Reposição das Capacidades Produtivas e da Competitividade.\n\nO Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, e o Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, na sua redação atual, definem certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia, entre as quais, o regime de auxílios destinados a remediar os danos causados por certas calamidades naturais e o regime de auxílios de minimis, respetivamente.\n\nEm Portugal têm ocorrido pontualmente situações adversas que afetam com particular severidade territórios mais vulneráveis a riscos naturais, ou com atividade económica menos competitiva e ou com fraca capacidade de atração de investimento, pelo que os seus efeitos assumem impactos sociais e económicos mais significativos. Importa, por isso, a criação de um regime específico para apoio ao restabelecimento das capacidades produtivas e da competitividade das empresas afetadas, total ou parcialmente, por estas situações adversas, nomeadamente incêndios, inundações, deslizamento de terras, tornados, terramotos, furacões, entre outros.\n\nO Sistema de Apoio à Reposição das Capacidades Produtivas e da Competitividade tem como objetivo permitir o restabelecimento rápido das condições de produção das empresas diretamente afetadas com prejuízos diretos, sendo apoiadas, nomeadamente, a aquisição de máquinas, de ativos biológicos, de equipamentos, de material circulante de utilização produtiva, de stocks e as despesas associadas aos projetos de arquitetura e de engenharia e a obras de construção necessárias à reposição das respetivas capacidades produtivas.\n\nA concessão dos auxílios e as situações adversas em causa devem ser definidas por resolução do Conselho de Ministros.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "896727301": {
+   "fragment_id": "896613474",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito territorial\n\nO presente decreto-lei aprova o Sistema de Apoio à Reposição das Capacidades Produtivas e da Competitividade, que tem como objetivo a recuperação dos ativos empresariais danificados, total ou parcialmente, para as situações de prejuízos reportados até 200 mil euros, causados por situações adversas reconhecidas por resolução do Conselho de Ministros."
+  },
+  "896727302": {
+   "fragment_id": "896727675",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\nPara efeitos de aplicação do Sistema de Apoio à Reposição das Capacidades Produtivas e da Competitividade, entende-se por «Situação adversa», calamidade natural ou ocorrência natural excecional reconhecidas por resolução do Conselho de Ministros, nomeadamente incêndios, inundações, deslizamento de terras, tornados, terramotos, furacões, que permitem a aplicação do regime de auxílios às empresas destinados a remediar os danos causados por certas calamidades naturais e o regime de auxílios de minimis."
+  },
+  "896727303": {
+   "fragment_id": "896727676",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipologias de operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipologias de operação\n\nSão suscetíveis de apoio ao restabelecimento da atividade económica os projetos de investimento destinados a repor, total ou parcialmente, as capacidades produtivas diretamente afetadas por situações adversas, como tal reconhecidas por resolução do Conselho de Ministros."
+  },
+  "896727304": {
+   "fragment_id": "896727677",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito setorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito setorial\n\nSão elegíveis os projetos inseridos em todas as atividades económicas, com exceção dos projetos referidos nas alíneas a) e b) do n.º 3 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia (TFUE)."
+  },
+  "896727305": {
+   "fragment_id": "896727678",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\nOs beneficiários dos apoios são empresas que cumpram os critérios de acesso, elegibilidade e de seleção, independentemente da sua natureza e da forma jurídica."
+  },
+  "896727306": {
+   "fragment_id": "896727679",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Constituem critérios de elegibilidade dos beneficiários:\n\na) Estar legalmente constituídos;\n\nb) Poder legalmente desenvolver as atividades e investimentos a que se candidatam, conforme previsto na alínea c) do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual;\n\nc) Possuir, ou assegurar até à assinatura do termo de aceitação, os meios técnicos, físicos e financeiros e os recursos humanos necessários ao desenvolvimento da operação;\n\nd) Ter, ou poder assegurar, até à assinatura do termo de aceitação, a situação tributária e contributiva regularizada perante a autoridade tributária e a segurança social, salvo se o incumprimento decorrer diretamente dos danos provocados por situações adversas;\n\ne) Ter acionado os seguros contratualizados para cobrir riscos relacionados com a situação adversa, podendo autorizar a recolha de informação relativa aos mesmos junto das respetivas companhias de seguros;\n\nf) Garantir pelo menos 85 % do nível de emprego existente um mês antes da ocorrência da situação adversa, no prazo máximo de seis meses após a conclusão do projeto;\n\ng) Não estar sujeita a injunção de recuperação, ainda pendente, por decisão da Comissão Europeia que declara um auxílio ilegal e incompatível com o mercado interno, conforme previsto na alínea a) do n.º 4 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do TFUE;\n\nh) Não ter, à data da ocorrência da situação adversa, salários em atraso;\n\ni) Estar o estabelecimento ou a atividade afetada do beneficiário, no qual irá ser realizado o investimento, localizado nos concelhos mencionados na respetiva resolução do Conselho de Ministros;\n\nj) Ter um seguro ativo que preveja a cobertura de danos e prejuízos decorrentes da situação adversa em causa.\n\n2 - O critério de elegibilidade previsto na alínea j) do número anterior só é aplicável às situações adversas ocorridas a partir do dia 1 de janeiro de 2023."
+  },
+  "896727307": {
+   "fragment_id": "896727680",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade dos projetos\n\n1 - Constituem critérios de elegibilidade dos projetos:\n\na) Ter uma duração máxima de 18 meses do período de investimento, contados a partir da data da primeira despesa;\n\nb) Iniciar a execução no prazo máximo de seis meses, após a comunicação da decisão de financiamento.\n\n2 - Quando o período previsto na alínea a) do número anterior se revele insuficiente para a conclusão da execução do projeto, a Comissão de Coordenação e Desenvolvimento Regional (CCDR) respetiva ou a entidade responsável pelo instrumento de financiamento aplicável ao apoio em causa pode autorizar a execução do mesmo num prazo adicional de seis meses."
+  },
+  "896727308": {
+   "fragment_id": "896727681",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis\n\n1 - São elegíveis as seguintes despesas de investimento:\n\na) Custos de aquisição de máquinas, equipamentos, respetiva instalação e transporte, ou a sua reparação, desde que tenha efeitos no prolongamento da sua vida útil, destinados a repor as capacidades produtivas afetadas;\n\nb) Custos de aquisição de ativos biológicos;\n\nc) Custos de aquisição de equipamentos informáticos, incluindo o software necessário ao seu funcionamento e software standard ou desenvolvido especificamente para a atividade da empresa;\n\nd) Material circulante para substituição de material destruído, diretamente relacionado com o exercício da atividade e que, comprovadamente, seja imprescindível à reposição das capacidades produtivas;\n\ne) Despesas com stocks que as empresas detinham à data da situação adversa;\n\nf) Estudos, diagnósticos, auditorias, planos de marketing e projetos de arquitetura e de engenharia essenciais ao projeto, desde que contratados a terceiros não relacionados com o beneficiário;\n\ng) Obras de construção, remodelação ou adaptação das instalações, indispensáveis à reposição das capacidades produtivas, desde que contratadas a terceiros não relacionados com o beneficiário;\n\nh) Despesas com a intervenção de técnicos oficiais de contas ou revisores oficiais de contas, na validação da despesa dos pedidos de pagamento, até ao limite de (euro) 5000.\n\n2 - São elegíveis as despesas realizadas pelas empresas a partir do dia da situação adversa."
+  },
+  "896727309": {
+   "fragment_id": "896727682",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas não elegíveis\n\nConstituem despesas não elegíveis:\n\na) Compra de imóveis, incluindo terrenos;\n\nb) Trespasse e direitos de utilização de espaços;\n\nc) Juros durante o período de realização do investimento;\n\nd) Fundo de maneio;\n\ne) Trabalhos da empresa para ela própria;\n\nf) Despesas pagas no âmbito de contratos efetuados com consultores para efeito de preparação, submissão e/ou acompanhamento das candidaturas;\n\ng) Despesas de funcionamento do beneficiário, custos correntes e de manutenção;\n\nh) Custos referentes a atividades relacionadas com a exportação, nomeadamente os diretamente associados às quantidades exportadas, à criação ou funcionamento de redes de distribuição no exterior ou a outros custos correntes ligados à atividade de exportação;\n\ni) Imposto sobre o valor acrescentado recuperável, ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário."
+  },
+  "896727310": {
+   "fragment_id": "896727683",
+   "type": 11,
+   "heading": "Artigo 10.º — Taxa de financiamento e forma de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Taxa de financiamento e forma de apoio\n\n1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável, até ao limite máximo de (euro) 200 000 por projeto.\n\n2 - É deduzido ao valor das despesas elegíveis identificadas no artigo 8.º o montante das indemnizações dos seguros ou de outras doações ou compensações recebidas para cobrir total ou parcialmente os danos causados pela situação adversa.\n\n3 - As despesas elegíveis apuradas nos termos do número anterior são financiadas até 100 %.\n\n4 - O valor do apoio final não pode exceder os custos resultantes dos danos incorridos em consequência da situação adversa, calculados de acordo com o anexo ao presente decreto-lei e do qual faz parte integrante, em conformidade com o artigo 50.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do TFUE.\n\n5 - Para efeitos do n.º 2, as companhias de seguro podem disponibilizar informações relativas aos contratos de seguro que prevejam a cobertura de danos e prejuízos decorrentes da situação adversa.\n\n6 - Os apoios concedidos ao abrigo do presente decreto-lei não são cumuláveis com outros da mesma natureza."
+  },
+  "896727311": {
+   "fragment_id": "896727684",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigações dos beneficiários\n\nConstituem obrigações dos beneficiários:\n\na) Executar as operações nos termos e condições aprovados;\n\nb) Disponibilizar, nos prazos estabelecidos, os elementos que lhes forem solicitados pelas entidades com competências para a monitorização da execução, do acompanhamento, da avaliação de resultados, do controlo e da auditoria;\n\nc) Comunicar às entidades competentes as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à aprovação do projeto;\n\nd) Não afetar a outras finalidades, locar, alienar ou por qualquer outro modo onerar, os bens e serviços adquiridos no âmbito dos projetos apoiados, sem prévia autorização da entidade competente para a decisão, no prazo de três anos após a conclusão do projeto;\n\ne) Manter a situação regularizada perante a entidade pagadora do apoio;\n\nf) Cumprir as normas em matéria de contratação pública relativamente à execução dos projetos, quando aplicável;\n\ng) Manter o investimento afeto à respetiva atividade e na localização geográfica definida na operação durante três anos contados a partir da data de conclusão do projeto;\n\nh) Indicar os contratos de seguro que possui e que prevejam a cobertura de danos e prejuízos decorrentes das situações adversas, podendo autorizar a consulta junto das respetivas companhias de seguro de informações relativas aos mesmos;\n\ni) Celebrar contratos de seguros que prevejam a cobertura de danos e prejuízos decorrentes de situações adversas em equipamentos, instalações e outros bens apoiados no âmbito do projeto e mantê-los em vigor durante o respetivo período de vida útil económica;\n\nj) Apresentar o pedido a título de reembolso final no prazo máximo de 90 dias após a data de conclusão do projeto, a qual corresponde à data da última fatura, ou documento equivalente, imputável ao projeto, podendo este prazo ser prorrogado, mediante justificação fundamentada, a apresentar à CCDR respetiva ou à entidade responsável pelo instrumento de financiamento aplicável ao apoio em causa."
+  },
+  "896727312": {
+   "fragment_id": "896727685",
+   "type": 11,
+   "heading": "Artigo 12.º — Procedimentos de análise, seleção e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimentos de análise, seleção e decisão das candidaturas\n\n1 - Compete às CCDR a responsabilidade pela gestão e coordenação global da aplicação dos apoios previstos no presente decreto-lei, no respetivo âmbito regional, sem prejuízo da articulação necessária com outra entidade responsável pelo instrumento de financiamento aplicável ao apoio em causa, definida pela resolução do Conselho de Ministros a que alude o artigo 3.º\n\n2 - As candidaturas são submetidas através de formulário eletrónico disponível no sítio das CCDR e também acessível através do Portal ePortugal, no prazo estipulado nos respetivos avisos de candidatura.\n\n3 - A competência para a análise técnica, o acompanhamento dos projetos e a aprovação das candidaturas pertence à respetiva CCDR.\n\n4 - Os projetos são decididos no prazo de 30 dias úteis após a receção das candidaturas.\n\n5 - A aceitação da decisão da concessão do apoio é feita mediante a assinatura do termo de aceitação, a qual é submetida eletronicamente à respetiva CCDR.\n\n6 - Para os efeitos previstos no número anterior, deve ser privilegiada a assinatura com recurso a assinaturas eletrónicas qualificadas, incluindo as do Cartão de Cidadão e Chave Móvel Digital, com possibilidade de recurso ao Sistema de Certificação de Atributos Profissionais, ou outras que constem da Lista Europeia de Serviços de Confiança, sem prejuízo do disposto no artigo 4.º da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n7 - O termo de aceitação devidamente assinado pelo beneficiário tem a natureza jurídica de um contrato escrito.\n\n8 - A decisão de aprovação caduca caso o termo de aceitação não seja assinado no prazo máximo de 30 dias úteis a contar da data da notificação da decisão, salvo motivo justificado não imputável ao candidato e aceite pela respetiva CCDR."
+  },
+  "896727313": {
+   "fragment_id": "896727686",
+   "type": 11,
+   "heading": "Artigo 13.º — Pagamentos ao beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pagamentos ao beneficiário\n\n1 - Os pedidos de pagamento são apresentados pelo beneficiário à CCDR respetiva, ou à entidade responsável pelo instrumento de financiamento aplicável ao apoio em causa, podendo ser efetuados de acordo com as seguintes modalidades:\n\na) Adiantamento inicial - após a submissão do termo de aceitação assinado, pode ser concedido um adiantamento no montante equivalente a 20 % do incentivo aprovado;\n\nb) Adiantamento contra fatura - pagamento do apoio contra a apresentação de despesas de investimento elegíveis faturadas e não liquidadas, ficando o beneficiário obrigado a apresentar, no prazo de 30 dias úteis a contar da data de pagamento do adiantamento, os comprovativos do pagamento integral da correspondente despesa;\n\nc) Reembolso - do montante correspondente ao financiamento das despesas elegíveis realizadas e pagas pelo beneficiário;\n\nd) Saldo - o reembolso do saldo final que vier a ser apurado.\n\n2 - O adiantamento inicial deve ser deduzido aos adiantamentos e reembolsos previstos nas alíneas b) e c) do número anterior.\n\n3 - A soma dos pagamentos previstos nas alíneas a), b) e c) do n.º 1 não pode ultrapassar 95 % do apoio aprovado ou apurado em função do grau de execução do projeto.\n\n4 - Os pagamentos são da responsabilidade da respetiva CCDR ou à entidade responsável pelo instrumento de financiamento aplicável ao apoio em causa."
+  },
+  "896727314": {
+   "fragment_id": "896727687",
+   "type": 11,
+   "heading": "Artigo 14.º — Enquadramento europeu de auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Enquadramento europeu de auxílios de Estado\n\nO presente decreto-lei respeita o regime de auxílios de Estado, ao abrigo do:\n\na) Artigo 50.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, que define os auxílios destinados a remediar os danos causados por certas calamidades naturais;\n\nb) Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, na sua redação atual, relativo aos auxílios de minimis."
+  },
+  "896727315": {
+   "fragment_id": "896727688",
+   "type": 11,
+   "heading": "Artigo 15.º — Portal de dados abertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Portal de dados abertos\n\nA publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos legalmente previstos, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve ser efetuada em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt."
+  },
+  "896727316": {
+   "fragment_id": "896727689",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor e produção de efeitos\n\n1 - Sem prejuízo do disposto no número seguinte, o presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O presente decreto-lei produz efeitos à data da situação adversa reconhecida por resolução do Conselho de Ministros, com início a 1 de julho de 2022."
+  },
+  "896727318": {
+   "fragment_id": "896727691",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 4 do artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 4 do artigo 10.º)\n\nEstimativa dos custos resultantes dos danos incorridos em consequência direta de calamidade natural ou de ocorrências excecionais\n\n(ver documento original)\n\n116044523"
+  },
+  "896727350": {
+   "fragment_id": "896613474",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito territorial",
+   "in_force_from": "2024-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito territorial\n\nO presente decreto-lei aprova o Sistema de Apoio à Reposição das Capacidades Produtivas e da Competitividade, que tem como objetivo a recuperação dos ativos empresariais danificados, total ou parcialmente, em resultado de situações adversas reconhecidas por resolução do Conselho de Ministros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+  },
+  "896727351": {
+   "fragment_id": "896727677",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito setorial",
+   "in_force_from": "2024-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+   ],
+   "markdown": "###### Artigo 4.º — Âmbito setorial\n\nSão elegíveis os projetos inseridos em todas as atividades económicas, com exceção dos projetos referidos no n.º 3 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia (TFUE).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+  },
+  "896727352": {
+   "fragment_id": "896727679",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": "2024-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Constituem critérios de elegibilidade dos beneficiários:\n\na) Estar legalmente constituído à data da ocorrência da situação adversa;\n\nb) Poder legalmente desenvolver as atividades e investimentos a que se candidata, conforme previsto na alínea c) do artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, ou na alínea d) do artigo 14.º do Decreto-Lei n.º 20-A/2023, de 22 de março;\n\nc) Possuir, ou assegurar até à assinatura do termo de aceitação, os meios técnicos, físicos e financeiros e os recursos humanos necessários ao desenvolvimento da operação;\n\nd) Ter, até à assinatura do termo de aceitação, a situação tributária e contributiva regularizada perante a Autoridade Tributária e a Segurança Social, salvo se o incumprimento decorrer diretamente dos danos provocados por situações adversas;\n\ne) Ter acionado os seguros contratualizados para cobrir riscos relacionados com a situação adversa, podendo autorizar a recolha de informação relativa aos mesmos junto das respetivas companhias de seguros;\n\nf) Garantir pelo menos 85 % do nível de emprego existente um mês antes da ocorrência da situação adversa, no prazo máximo de seis meses após a conclusão do projeto;\n\ng) Não estar sujeita a injunção de recuperação, ainda pendente, por decisão da Comissão Europeia que declara um auxílio ilegal e incompatível com o mercado interno, conforme previsto na alínea a) do n.º 4 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do TFUE;\n\nh) Não ter, à data da apresentação da candidatura, salários em atraso, salvo se o incumprimento decorrer diretamente dos danos provocados por situações adversas;\n\ni) Estar o estabelecimento ou a atividade afetada do beneficiário, no qual irá ser realizado o investimento, localizado nos concelhos mencionados na respetiva resolução do Conselho de Ministros;\n\nj) Ter um seguro ativo que preveja a cobertura de danos e prejuízos decorrentes da situação adversa em causa.\n\n2 - O critério de elegibilidade previsto na alínea j) do número anterior só é aplicável às situações adversas ocorridas a partir do dia 1 de janeiro de 2023.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+  },
+  "896727353": {
+   "fragment_id": "896727680",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade dos projetos",
+   "in_force_from": "2024-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade dos projetos\n\n1 - Constituem critérios de elegibilidade dos projetos:\n\na) Ter uma duração máxima de 18 meses do período de investimento, contados a partir da data da primeira despesa;\n\nb) Iniciar a execução no prazo máximo de seis meses, após a comunicação da decisão de financiamento.\n\n2 - Quando o período previsto na alínea a) do número anterior se revele insuficiente para a conclusão da execução do projeto, a comissão de coordenação e desenvolvimento regional (CCDR) territorialmente competente ou a entidade responsável pelo instrumento de financiamento aplicável ao apoio em causa pode autorizar a execução do mesmo num prazo adicional de 12 meses.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+  },
+  "896727354": {
+   "fragment_id": "896727683",
+   "type": 11,
+   "heading": "Artigo 10.º — Taxa de financiamento e forma de apoio",
+   "in_force_from": "2024-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+   ],
+   "markdown": "###### Artigo 10.º — Taxa de financiamento e forma de apoio\n\n1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.\n\n2 - No caso de os apoios indicados no número anterior serem concedidos ao abrigo do artigo 50.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia, o limite máximo desses apoios será definido por portaria prevista no artigo 15.º-A.\n\n3 - No caso de os apoios indicados no n.º 1 do presente artigo serem concedidos ao abrigo do Regulamento (UE) n.º 2023/2831, de 13 de dezembro de 2023, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis, na sua redação atual, o limite desses apoios deverá corresponder ao montante máximo de € 300 000, a atribuir nos termos do n.º 2 do artigo 3.º do referido Regulamento.\n\n4 - É deduzido ao valor das despesas elegíveis identificadas no artigo 8.º o montante das indemnizações dos seguros ou de outras doações ou compensações recebidas para cobrir total ou parcialmente os danos causados pela situação adversa.\n\n5 - As despesas elegíveis apuradas nos termos do número anterior são financiadas até 100 %.\n\n6 - O valor do apoio final não pode exceder os custos resultantes dos danos incorridos em consequência da situação adversa, calculados de acordo com o anexo ao presente decreto-lei e do qual faz parte integrante, em conformidade com o artigo 50.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do TFUE.\n\n7 - Para efeitos do disposto no n.º 2, as companhias de seguro disponibilizam às entidades oficiais competentes a informação relativa aos contratos de seguro que prevejam a cobertura de danos e prejuízos decorrentes da situação adversa.\n\n8 - Os apoios atribuídos ao abrigo do presente decreto-lei não são cumuláveis com outros apoios de idêntica natureza e fim.\n\n9 - Os apoios atribuídos ao abrigo do presente decreto-lei são imediatamente suspensos em caso de prática, por ação ou omissão, de factos indiciadores de situações irregulares, designadamente de cumulação indevida de apoios, ou falsas declarações.\n\n10 - Verificados os factos previstos no número anterior, a CCDR, territorialmente competente, desenvolve os procedimentos adequados à devolução das quantias recebidas indevidamente, e bem assim a comunicação de eventuais responsabilidades civis e ou criminais, junto das entidades competentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+  },
+  "896727355": {
+   "fragment_id": "896727685",
+   "type": 11,
+   "heading": "Artigo 12.º — Procedimentos de análise, seleção e decisão das candidaturas",
+   "in_force_from": "2024-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+   ],
+   "markdown": "###### Artigo 12.º — Procedimentos de análise, seleção e decisão das candidaturas\n\n1 - Compete às CCDR a responsabilidade pela gestão e coordenação global da aplicação dos apoios previstos no presente decreto-lei, no respetivo âmbito regional, sem prejuízo da articulação necessária com outra entidade responsável pelo instrumento de financiamento aplicável ao apoio em causa, definida pela resolução do Conselho de Ministros a que alude o artigo 3.º\n\n2 - As candidaturas são submetidas através de formulário próprio, disponível no sítio das CCDR, no prazo estipulado nos respetivos avisos de candidatura.\n\n3 - A competência para a análise técnica, o acompanhamento dos projetos e a aprovação das candidaturas pertence à respetiva CCDR.\n\n4 - Os projetos são decididos no prazo de 30 dias úteis após a receção das candidaturas.\n\n5 - A aceitação da decisão da concessão do apoio é feita mediante a assinatura do termo de aceitação, a qual é submetida eletronicamente à respetiva CCDR.\n\n6 - Para os efeitos previstos no número anterior, deve ser privilegiada a assinatura com recurso a assinaturas eletrónicas qualificadas, incluindo as do Cartão de Cidadão e Chave Móvel Digital, com possibilidade de recurso ao Sistema de Certificação de Atributos Profissionais, ou outras que constem da Lista Europeia de Serviços de Confiança, sem prejuízo do disposto no artigo 4.º da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n7 - O termo de aceitação devidamente assinado pelo beneficiário tem a natureza jurídica de um contrato escrito.\n\n8 - A decisão de aprovação caduca caso o termo de aceitação não seja assinado no prazo máximo de 30 dias úteis a contar da data da notificação da decisão, salvo motivo justificado não imputável ao candidato e aceite pela respetiva CCDR.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+  },
+  "896727356": {
+   "fragment_id": "896727687",
+   "type": 11,
+   "heading": "Artigo 14.º — Enquadramento europeu de auxílios de Estado",
+   "in_force_from": "2024-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+   ],
+   "markdown": "###### Artigo 14.º — Enquadramento europeu de auxílios de Estado\n\nO presente decreto-lei respeita o regime de auxílios de Estado, ao abrigo do:\n\na) Artigo 50.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, que define os auxílios destinados a remediar os danos causados por certas calamidades naturais;\n\nb) Regulamento (UE) 2023/2831, da Comissão, de 13 de dezembro de 2023, na sua redação atual, relativo aos auxílios de minimis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+  },
+  "896727346": {
+   "fragment_id": "896727720",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Regulamentação",
+   "in_force_from": "2024-11-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+   ],
+   "markdown": "###### Artigo 15.º-A — Regulamentação\n\nAs condições dos apoios previstos no presente decreto-lei são objeto de regulamentação por portaria dos membros do Governo responsáveis pelas áreas das quais resultarão os respetivos apoios.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 88/2024 - Diário da República n.º 221/2024, Série I de 2024-11-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2024-896613427), em vigor a partir de 2024-11-19"
+  },
+  "896727347": {
+   "fragment_id": "896727689",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor e produção de efeitos\n\n1 - Sem prejuízo do disposto no número seguinte, o presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O presente decreto-lei produz efeitos à data da situação adversa reconhecida por resolução do Conselho de Ministros, com início a 1 de julho de 2022."
+  },
+  "896727348": {
+   "fragment_id": "896727690",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2022. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Fernando Medina Maciel Almeida Correia - António José da Costa Silva - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.\n\nPromulgado em 3 de janeiro de 2023.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 5 de janeiro de 2023.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "896727349": {
+   "fragment_id": "896727691",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 4 do artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 4 do artigo 10.º)\n\nEstimativa dos custos resultantes dos danos incorridos em consequência direta de calamidade natural ou de ocorrências excecionais\n\n(ver documento original)\n\n116044523"
+  }
+ }
+}

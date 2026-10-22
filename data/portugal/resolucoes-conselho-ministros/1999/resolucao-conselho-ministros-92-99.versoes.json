@@ -1,0 +1,2125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:423209:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/1999-200672673",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/92-1999-423209",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-08-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "200673110",
+    "200673111",
+    "200673112",
+    "200673113",
+    "200673114",
+    "200673115",
+    "200673116",
+    "200673117",
+    "200673118",
+    "200673119",
+    "200673120",
+    "200673121",
+    "200673122",
+    "200673123",
+    "200673124",
+    "200673125",
+    "200673126",
+    "200673127",
+    "200673128",
+    "200673129",
+    "200673130",
+    "200673131",
+    "200673132",
+    "200673133",
+    "200673134",
+    "200673135",
+    "200673136",
+    "200673137",
+    "200673138",
+    "200673139",
+    "200673140",
+    "200673141",
+    "200673142",
+    "200673143",
+    "200673144",
+    "200673145",
+    "200673146",
+    "200673147",
+    "200673148",
+    "200673149",
+    "200673150",
+    "200673151",
+    "200673152",
+    "200673153",
+    "200673154",
+    "200673155",
+    "200673156",
+    "200673157",
+    "200673158",
+    "200673159",
+    "200673160",
+    "200673161",
+    "200673162",
+    "200673163",
+    "200673164",
+    "200673165",
+    "200673166",
+    "200673167",
+    "200673168",
+    "200673169",
+    "200673170",
+    "200673171",
+    "200673172",
+    "200673173",
+    "200673174",
+    "200678475",
+    "200678476",
+    "200678477",
+    "200678478",
+    "200678479",
+    "200678480",
+    "200678481",
+    "200678482",
+    "200678483",
+    "200678484",
+    "200678485",
+    "200678486",
+    "200678487",
+    "200678488",
+    "200678489",
+    "200678490",
+    "200678491",
+    "200678492",
+    "200678493",
+    "200678494",
+    "200678495",
+    "200678496",
+    "200678497",
+    "200678498",
+    "200678499",
+    "200678500",
+    "200678501",
+    "200678502",
+    "200678503",
+    "200678504",
+    "200678505",
+    "200678506",
+    "200678507",
+    "200678508",
+    "200678509",
+    "200678510",
+    "200678511",
+    "200678512",
+    "200678513",
+    "200678514",
+    "200678515",
+    "200678516",
+    "200678517",
+    "200678518",
+    "200678519",
+    "200678520",
+    "200678521",
+    "200678522",
+    "200678523",
+    "200678524",
+    "200678525",
+    "200678526",
+    "200678527",
+    "200678528",
+    "200678529",
+    "200678530",
+    "200678531",
+    "200678532",
+    "200678533",
+    "200678534",
+    "200678535",
+    "200678536",
+    "200678537",
+    "200678538",
+    "200678539",
+    "200678540",
+    "200678541",
+    "200678542",
+    "200678543",
+    "200678544",
+    "200678545",
+    "200678546",
+    "200678547",
+    "200678548",
+    "200678549",
+    "200678550",
+    "200678551",
+    "200678552",
+    "200678553",
+    "200678554",
+    "200678555",
+    "200678556",
+    "200678557",
+    "200678558",
+    "200678559",
+    "200678560",
+    "200678561",
+    "200678562",
+    "200678563",
+    "200678564",
+    "200678565",
+    "200678566",
+    "200678567",
+    "200678568",
+    "200678569",
+    "200678570",
+    "200678571",
+    "200678572",
+    "200678573",
+    "200678574",
+    "200678675",
+    "200678676",
+    "200678677",
+    "200678678",
+    "200678679",
+    "200678680",
+    "200678681",
+    "200678682",
+    "200678683",
+    "200678684",
+    "200678685",
+    "200678686",
+    "200678687",
+    "200678688",
+    "200678689",
+    "200678690",
+    "200678691",
+    "200678692",
+    "200678693",
+    "200678694",
+    "200678695",
+    "200678696",
+    "200678697",
+    "200678698",
+    "200678699",
+    "200678700",
+    "200678701",
+    "200678702",
+    "200678703",
+    "200678704",
+    "200678705",
+    "200678706",
+    "200678707",
+    "200678708",
+    "200678709",
+    "200678710",
+    "200678711",
+    "200678712",
+    "200678713",
+    "200678714",
+    "200678715",
+    "200678716",
+    "200678717",
+    "200678718",
+    "200678719",
+    "200678720",
+    "200678721",
+    "200678722",
+    "200678723",
+    "200678724",
+    "200678725",
+    "200678726",
+    "200678727",
+    "200678728",
+    "200678729",
+    "200678730",
+    "200678731",
+    "200678732",
+    "200678733",
+    "200678734",
+    "200678735",
+    "200678736",
+    "200678737",
+    "200678738",
+    "200678739",
+    "200678740",
+    "200678741",
+    "200678742",
+    "200678743"
+   ]
+  }
+ ],
+ "fragments": {
+  "200673110": {
+   "fragment_id": "200672674",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 92/99\n\nA Assembleia Municipal de Viana do Castelo aprovou, em 21 de Julho de 1998, o Plano de Urbanização da Cidade de Viana do Castelo.\n\nVerifica-se a conformidade formal do Plano de Urbanização com as disposições legais e regulamentares em vigor, com excepção:\n\nDo disposto nos artigos 16.º, 32.º e 47.º do Regulamento do Plano, na parte em que fixam a obrigatoriedade de cedência de terrenos em processos de licenciamento municipal de obras particulares, em virtude de o Decreto-Lei n.º 445/91, de 20 de Novembro, na redacção que lhe foi dada pela Lei n.º 29/92, de 5 de Setembro, e pelo Decreto-Lei n.º 250/94, de 15 de Outubro, não contemplar a previsão de tal imposição;\n\nDo disposto nos n.os 2, 3 e 4 do artigo 38.º do Regulamento, quando se trate de áreas abrangidas pelo Plano de Ordenamento da Orla Costeira de Caminha-Espinho, em virtude do artigo 20.º da Resolução do Conselho de Ministros n.º 26/99, de 7 de Abril, propugnar a manutenção dos usos actuais.\n\nDe notar que o Plano de Urbanização abrange parte da área do perímetro de emparcelamento rural de Afife, Carreço e Areosa, no qual se prevê a construção de um conjunto de equipamentos de carácter colectivo, aprovado pela Resolução do Conselho de Ministros n.º 184/96, de 31 de Outubro.\n\nDe referir que os estudos de enquadramento mencionados nos artigos 30.º, n.º 1, e 34.º do Regulamento e os estudos referidos nos artigos 124.º, n.º 2, alínea c), e 158.º a 202.º do Regulamento, quando não tenham mero conteúdo técnico e se pretenda atribuir eficácia externa, devem ser reconduzidos à figura de planos de pormenor, dada a ausência de enquadramento legal daqueles estudos.\n\nImporta salientar que a figura dos planos de salvaguarda e valorização prevista nos artigos 124.º, n.º 2, alínea b), e 149.º a 157.º do Regulamento deve, igualmente, ser reconduzida à figura de plano de pormenor, já que, atendendo à tipologia dos instrumentos de gestão territorial constante da Lei n.º 48/98, de 11 de Agosto, é a que se revela mais adequada à sua vocação específica.\n\nO município de Viana do Castelo dispõe de Plano Director Municipal, ratificado pelo despacho do Ministro do Planeamento e da Administração do Território de 30 de Agosto de 1991, publicado no Diário da República, 2.ª série, de 31 de Dezembro de 1991, e alterado mediante deliberação da Assembleia Municipal de Viana do Castelo de 28 de Novembro de 1997, publicada no Diário da República, 2.ª série, de 19 de Março de 1998.\n\nUma vez que o Plano de Urbanização introduz alterações àquele instrumento de planeamento, na medida em que implica modificações à delimitação do perímetro urbano da cidade de Viana do Castelo, a sua ratificação compete ao Conselho de Ministros.\n\nFoi realizado o inquérito público, nos termos previstos no artigo 14.º do Decreto-Lei n.º 69/90, de 2 de Março, e emitidos os pareceres a que se refere o artigo 13.º do mesmo diploma legal.\n\nConsiderando o disposto nos artigos 3.º, n.º 3, e 16.º, n.º 1, alínea d), do Decreto-Lei n.º 69/90, de 2 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 211/92, de 8 de Outubro:\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Ratificar o Plano de Urbanização da Cidade de Viana do Castelo, no município de Viana do Castelo, cujo Regulamento e plantas de zonamento se publicam em anexo à presente resolução, dela fazendo parte integrante.\n\n2 - Excluir de ratificação os artigos 16.º, 32.º e 47.º do Regulamento do Plano, na parte em que fixam a obrigatoriedade de cedência de terrenos em processos de licenciamento municipal de obras particulares, e os n.os 2, 3 e 4 do artigo 38.º do Regulamento, quando se trate de áreas abrangidas pelo Plano de Ordenamento da Orla Costeira de Caminha-Espinho.\n\nPresidência do Conselho de Ministros, 22 de Julho de 1999. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\nREGULAMENTO DO PLANO DE URBANIZAÇÃO DA CIDADE DE VIANA DO CASTELO\n\n> Nota: [Declaração de Rectificação n.º 15-Q/99 - Diário da República n.º 229/1999, 3º Suplemento, Série I-B de 1999-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/15-q-1999-241424) Publica as plantas de zonamento referidas no presente diploma."
+  },
+  "200673111": {
+   "fragment_id": "200678375",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "200673112": {
+   "fragment_id": "200678376",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito material\n\n1 - O presente Regulamento estabelece as principais regras a que deve obedecer a ocupação, uso e transformação do solo na área abrangida pelo Plano de Urbanização da Cidade de Viana do Castelo, adiante designado abreviadamente por PUC.\n\n2 - O presente Regulamento é indissociável da carta de zonamento e dos restantes elementos que compõem o PUC.\n\n3 - O PUC é constituído por oito volumes, intitulados respectivamente: zonamento; situação existente; rede viária; equipamentos, comércio e serviços; património; saneamento básico; apontamentos urbanísticos complementares; elementos anexos."
+  },
+  "200673113": {
+   "fragment_id": "200678377",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nO PUC abrange a área correspondente ao território da cidade, que integra as freguesias de Areosa, Monserrate, Santa Maria Maior, Meadela e Darque."
+  },
+  "200673114": {
+   "fragment_id": "200678378",
+   "type": 11,
+   "heading": "Artigo 3.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aplicação subsidiária\n\n1 - As disposições do PUC prevalecem sobre as do PDM.\n\n2 - Em caso de omissão são aplicáveis as disposições do PDM."
+  },
+  "200673115": {
+   "fragment_id": "200678379",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos\n\nConstituem objectivos do PUC:\n\n1) Apoiar uma política de desenvolvimento que permita a utilização dos recursos naturais e humanos, sem que tal coloque em causa o equilíbrio ambiental e social;\n\n2) Definir e estabelecer os princípios e regras para a ocupação, uso e transformação do solo, de modo a promover a sua adequação às potencialidades de cada local;\n\n3) Estabelecer a disciplina da edificabilidade que permita preservar os valores naturais, urbanísticos, paisagísticos e patrimoniais;\n\n4) Determinar as carências habitacionais, enquadrando as orientações e soluções adequadas, no âmbito da política de habitação;\n\n5) Compatibilizar as diversas intervenções sectoriais;\n\n6) Fornecer indicadores para o planeamento, designadamente para a elaboração de outros planos municipais de nível inferior ou de planos de carácter sub-regional, regional ou nacional;\n\n7) Servir de enquadramento à elaboração de planos de actividades do município."
+  },
+  "200673116": {
+   "fragment_id": "200678380",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime\n\n1 - A elaboração, apreciação e aprovação de qualquer plano, programa, projecto ou estudo, bem como o licenciamento de qualquer obra, acção ou intervenção que implique a ocupação, uso e transformação do solo, com carácter definitivo ou precário, rege-se pelo disposto no presente Regulamento, sem prejuízo do estabelecido na lei geral ou especial.\n\n2 - O licenciamento de qualquer obra, acção ou intervenção em violação do PUC constitui ilegalidade grave para efeito do disposto na Lei n.º 27/96, de 1 de Agosto.\n\n3 - Constitui contra-ordenação, punível com coima, a realização de obras, acções ou intervenções e a utilização de edificações ou do solo, em violação do PUC, nos termos do artigo 25.º do Decreto-Lei n.º 69/90, de 2 de Março."
+  },
+  "200673117": {
+   "fragment_id": "200678381",
+   "type": 11,
+   "heading": "Artigo 6.º — Qualidade das intervenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Qualidade das intervenções\n\n1 - Só poderão ser autorizadas obras, acções ou intervenções que se mostrem adequadas, pela sua localização, aparência ou proporções, a uma correcta integração com o meio ambiente em que se vão inserir, compatibilizando os valores de ordem cultural e tradicional da região.\n\n2 - Os projectos, quer de novas edificações, quer de ampliação ou remodelação de edifícios existentes, deverão recorrer a soluções arquitectónicas e estéticas harmoniosas, nomeadamente no que se refere aos materiais, texturas e cores a aplicar."
+  },
+  "200673118": {
+   "fragment_id": "200678382",
+   "type": 1,
+   "heading": "Capítulo II — Classes e categorias de espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Classes e categorias de espaços"
+  },
+  "200673119": {
+   "fragment_id": "200678383",
+   "type": 11,
+   "heading": "Artigo 7.º — Quadro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Quadro\n\nEm função do uso dominante do solo, assim são consideradas as seguintes classes e categorias de espaços:\n\n(ver quadro no documento original)"
+  },
+  "200673120": {
+   "fragment_id": "200678384",
+   "type": 1,
+   "heading": "Capítulo III — Espaços urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Espaços urbanos"
+  },
+  "200673121": {
+   "fragment_id": "200678385",
+   "type": 11,
+   "heading": "Artigo 8.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Caracterização\n\nOs espaços pertencentes a esta classe são caracterizados por possuírem ou poderem vir a possuir uma ocupação do solo de tipo predominantemente habitacional, equipamento, comércio e serviços e elevado grau de infra-estruturação."
+  },
+  "200673122": {
+   "fragment_id": "200678386",
+   "type": 11,
+   "heading": "Artigo 9.º — Destino de uso dominante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Destino de uso dominante\n\nAs áreas englobadas nesta classe destinam-se à localização e implantação de actividades, funções e instalações com fins habitacionais, comerciais, de equipamentos e serviços."
+  },
+  "200673123": {
+   "fragment_id": "200678387",
+   "type": 11,
+   "heading": "Artigo 10.º — Usos supletivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Usos supletivos\n\n1 - Os espaços urbanos podem ainda ter outras utilizações ou ocupações desde que compatíveis com o uso dominante, designadamente com a função habitacional.\n\n2 - Para o efeito do disposto no número anterior, consideram-se compatíveis as funções que não se traduzam num agravamento sensível das condições ambientais e de salubridade, não constituam factor de risco para a integridade de pessoas e bens, incluindo incêndio e explosão, nem provoquem perturbações na natural fluidez do tráfego.\n\n3 - Só será admissível a ampliação ou construção de novas instalações para animais desde que não revistam as características de exploração pecuária, não sejam prejudicadas as condições de salubridade, nem provoquem incómodo para terceiros."
+  },
+  "200673124": {
+   "fragment_id": "200678388",
+   "type": 11,
+   "heading": "Artigo 11.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Edificabilidade\n\n1 - Nos espaços urbanos é permitida a edificação tendente à sua consolidação ou colmatação, devendo ser estimulados os investimentos públicos ou privados, quer na melhoria das infra-estruturas existentes, quer na criação de novas infra-estruturas.\n\n2 - A existência de infra-estruturas básicas, nomeadamente de vias de acesso público pavimentadas que permitam a circulação de veículos automóveis nas condições previstas no capítulo IX, condicionará sempre o licenciamento de qualquer obra, acção ou intervenção.\n\n3 - Só poderão ser licenciadas edificações, seja qual for o fim a que se destinem, desde que a frente da propriedade ou lote confrontante com a via de acesso público seja igual ou superior à dimensão da fachada principal ou anterior.\n\n4 - Poderão admitir-se as pretensões que, pela sua natureza, localização, configuração ou preexistências edificadas, não justifiquem a aplicação do disposto nos n.os 2 e 3 do presente artigo, desde que daí não resultem rupturas volumétricas, morfológicas e tipológicas com a envolvente, devendo neste caso serem devidamente justificadas com estudo de enquadramento."
+  },
+  "200673125": {
+   "fragment_id": "200678389",
+   "type": 11,
+   "heading": "Artigo 12.º — Zonas de risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Zonas de risco\n\n1 - As zonas de risco são caracterizadas por possuírem edificações localizadas em áreas de instabilidade, resultantes da natureza do solo, do regime hídrico dos cursos de água ou da hidrodinâmica costeira.\n\n2 - A edificabilidade nestas zonas fica condicionada a parecer favorável da Direcção Regional do Ambiente e Recursos Naturais.\n\nZonas destinadas à edificação habitacional, comércio e serviços"
+  },
+  "200673126": {
+   "fragment_id": "200678390",
+   "type": 11,
+   "heading": "Artigo 13.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Caracterização\n\n1 - As áreas pertencentes a esta categoria são caracterizadas por possuírem, ou poderem vir a possuir, uma ocupação do solo predominantemente habitacional, de comércio e serviços e elevado grau de infra-estruturação.\n\n2 - Nesta categoria distinguem-se as seguintes subcategorias, de acordo com a tipologia dominante dos edifícios:\n\na) Zonas de edifícios multifamiliares onde predominam edifícios de habitação colectiva, isolados ou agrupados, sem logradouro privado ou cujo logradouro, embora privado, possa ser de utilização colectiva;\n\nb) Zonas de edifícios uni ou bifamiliares, onde predominam as moradias, isoladas ou agrupadas, com logradouro privado."
+  },
+  "200673127": {
+   "fragment_id": "200678391",
+   "type": 11,
+   "heading": "Artigo 14.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Edificabilidade\n\n1 - A edificabilidade nas áreas correspondentes a esta categoria deverá respeitar as tipologias de ocupação definidas para as respectivas subcategorias identificadas na carta de zonamento.\n\n2 - Poderão admitir-se outras tipologias de ocupação desde que sejam respeitados os índices e parâmetros urbanísticos definidos nos artigos 15.º a 28.º e desde que convenientemente justificadas com estudo de enquadramento.\n\n3 - Nesta categoria, os edifícios deverão destinar-se a habitação, comércio ou serviços, podendo admitir-se outras utilizações ou ocupações desde que compatíveis com as funções acima descritas."
+  },
+  "200673128": {
+   "fragment_id": "200678392",
+   "type": 11,
+   "heading": "Artigo 15.º — Índices urbanísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Índices urbanísticos\n\n1 - O índice máximo de construção é 0,8:\n\nic =< 0,8\n\n2 - Para os edifícios que possuam pisos com um pé-direito superior a 3 m aplica-se um índice volumétrico máximo equivalente, que é 2,4 m3/m2:\n\niv =< 2,4 m3/m2\n\n3 - Os índices referidos nos n.os 1 e 2 deste artigo poderão ser ultrapassados nas intervenções:\n\na) Localizadas na área inserida no Centro Histórico de Viana do Castelo, desde que devidamente justificadas;\n\nb) Que se encontrem condicionadas pela sua localização, preexistências edificadas e configuração, devendo ser devidamente justificadas com estudo de enquadramento.\n\n4 - Independentemente da área do terreno, admite-se a possibilidade de construção de uma moradia unifamiliar com uma área máxima de pavimentos de 100 m2, desde que devidamente justificada com um estudo de enquadramento."
+  },
+  "200673129": {
+   "fragment_id": "200678393",
+   "type": 11,
+   "heading": "Artigo 16.º — Regime de cedências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regime de cedências\n\n1 - Quer para efeito de edificação, quer para efeito da divisão da propriedade com vista à sua urbanização, os proprietários são obrigados a ceder à Câmara Municipal, devidamente infra-estruturadas, arranjadas e a título gratuito, as áreas envolventes às edificações, para os casos a que se refere a alínea a) do n.º 2 do artigo 13.º, as áreas necessárias à construção ou alargamento de vias de acesso, designadamente passeios e arruamentos, as áreas para estacionamento automóvel público, as áreas para usufruição pública, as áreas para instalação de equipamentos colectivos e ainda as áreas necessárias à construção de outras infra-estruturas.\n\n2 - As áreas a ceder para lazer e equipamentos colectivos devem corresponder, no mínimo, a 20% da área total de pavimentos, independentemente do fim a que se destinem.\n\n3 - As áreas a ceder para a instalação de equipamentos desportivos devem ser calculadas com base no Despacho Normativo n.º 78/85, de 21 de Agosto.\n\n4 - Nos casos devidamente justificados e sempre que a Câmara Municipal assim o entenda, pode a cedência ser substituída por pagamento de taxa municipal ou outra compensação equivalente."
+  },
+  "200673130": {
+   "fragment_id": "200678394",
+   "type": 11,
+   "heading": "Artigo 17.º — Número de pisos dos edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Número de pisos dos edifícios\n\n1 - Nas zonas destinadas a edifícios multifamiliares os mesmos não deverão ultrapassar uma altura correspondente a quatro pisos.\n\n2 - Nas zonas destinadas a edifícios uni ou bifamiliares os mesmos não deverão ultrapassar uma altura correspondente a dois pisos, sempre que se tratem de moradias isoladas ou geminadas, e a três pisos, caso se tratem de moradias em banda contínua.\n\n3 - Poder-se-á admitir a edificação com altura correspondente a um número de pisos diferente do referido nos n.os 1 e 2 deste artigo, desde que convenientemente justificada com estudo de enquadramento, devendo neste caso ser respeitados os índices e restantes parâmetros urbanísticos definidos para esta categoria.\n\n4 - Sempre que se trate de ampliações de edifícios em altura deverão ser levadas em conta, na elaboração do projecto, não só as características da envolvente mas também a traça do edifício existente, devendo adoptar-se, sempre que possível, soluções de conjunto.\n\n5 - Para os casos referidos no número anterior, sempre que a dimensão e características da ampliação assim o justifiquem, deverá a mesma ser devidamente fundamentada com estudo de enquadramento."
+  },
+  "200673131": {
+   "fragment_id": "200678395",
+   "type": 11,
+   "heading": "Artigo 18.º — Alinhamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alinhamentos\n\n1 - Os alinhamentos da fachada principal, da fachada posterior e dos muros de vedação confrontantes com a via pública deverão respeitar os alinhamentos dos edifícios ou muros contíguos.\n\n2 - No caso de os edifícios ou muros contíguos possuírem alinhamentos distintos, deverá optar-se pelo alinhamento predominante no conjunto em que se insere a pretensão.\n\n3 - Desde que, sob o ponto de vista urbanístico, se mostre desaconselhável a aplicação do disposto nos números anteriores deste artigo e no capítulo IX do presente Regulamento, poderá a Câmara Municipal impor a observância de outros alinhamentos."
+  },
+  "200673132": {
+   "fragment_id": "200678396",
+   "type": 11,
+   "heading": "Artigo 19.º — Afastamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Afastamentos\n\n1 - Independentemente do disposto nos artigos 58.º, 59.º e 60.º do RGEU, a distância entre a projecção horizontal da edificação a qualquer extrema do terreno, não confinante com a via pública, deverá ser no mínimo igual a metade da altura da edificação, não podendo ser inferior a 5 m.\n\n2 - Sem prejuízo do disposto no artigo 18.º e no capítulo IX do presente Regulamento, a distância entre a projecção horizontal da edificação e o eixo das vias públicas confinantes deverá ser no mínimo igual a metade da sua altura, não podendo ser inferior a 5 m.\n\n3 - Poder-se-ão admitir outros afastamentos, incluindo construções na extrema do lote, desde que não contrariem o disposto na legislação em vigor e desde que devidamente justificados por estudo de enquadramento."
+  },
+  "200673133": {
+   "fragment_id": "200678397",
+   "type": 11,
+   "heading": "Artigo 20.º — Profundidade dos edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Profundidade dos edifícios\n\n1 - Fixa-se em 15 m a profundidade máxima dos edifícios.\n\n2 - Poderão admitir-se profundidades superiores desde que não contrariem o disposto na legislação em vigor e desde que devidamente justificadas por estudo de enquadramento."
+  },
+  "200673134": {
+   "fragment_id": "200678398",
+   "type": 11,
+   "heading": "Artigo 21.º — Caves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Caves\n\n1 - As caves deverão destinar-se a estacionamento automóvel, não podendo os respectivos lugares, encerrados ou não, constituir fracções autónomas, salvo no que exceder o previsto no artigo 97.º\n\n2 - Sem prejuízo do disposto no número anterior, poderá admitir-se ainda outro tipo de ocupação, desde que compatível com a utilização do edifício.\n\n3 - As caves poderão ultrapassar o perímetro definido pela implantação dos respectivos edifícios, desde que totalmente enterradas e permitam a execução dos arranjos exteriores e dos ajardinamentos previstos nos respectivos projectos ou estudos de enquadramento, e sem prejuízo do disposto no artigo 28.º\n\n4 - Deverão ser contabilizadas para efeito do cálculo do índice de construção:\n\na) As áreas de construção que constituam fracções autónomas;\n\nb) As áreas de pavimentos que ultrapassem o perímetro definido pela implantação dos respectivos edifícios no que exceder o estritamente necessário para cumprimento do exigido no artigo 97.º e desde que se demonstre não existirem soluções alternativas viáveis."
+  },
+  "200673135": {
+   "fragment_id": "200678399",
+   "type": 11,
+   "heading": "Artigo 22.º — Rampas e escadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Rampas e escadas\n\n1 - As rampas e escadas de acesso aos edifícios não podem localizar-se em áreas do domínio público.\n\n2 - Sem prejuízo do disposto no número anterior, as rampas e escadas de acesso aos edifícios não poderão interferir com a circulação."
+  },
+  "200673136": {
+   "fragment_id": "200678400",
+   "type": 11,
+   "heading": "Artigo 23.º — Balanços sobre a via pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Balanços sobre a via pública\n\n1 - Os corpos balançados dos edifícios não devem exceder 1,2 m e devem ser contabilizados para efeito do cálculo de índice de construção.\n\n2 - Poder-se-ão admitir outro tipo de soluções desde que devidamente justificadas e condicionadas à qualidade do projecto.\n\n3 - Os corpos balançados dos edifícios que se projectam sobre a via pública não podem situar-se a uma altura inferior a 3 m daquela, nem interferir de alguma forma com a sua normal utilização, nomeadamente com a circulação.\n\n4 - Os corpos balançados não devem prejudicar as condições de segurança e privacidade de edifícios contíguos."
+  },
+  "200673137": {
+   "fragment_id": "200678401",
+   "type": 11,
+   "heading": "Artigo 24.º — Sótãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Sótãos\n\n1 - Admite-se a possibilidade de ocupação dos sótãos desde que convenientemente integrados na solução arquitectónica, não podendo daí resultar aumento de volumetria e desde que as suas condições sejam compatíveis com o destino pretendido.\n\n2 - Os sótãos só poderão constituir fracções autónomas desde que possuam condições de habitabilidade."
+  },
+  "200673138": {
+   "fragment_id": "200678402",
+   "type": 11,
+   "heading": "Artigo 25.º — Coberturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Coberturas\n\n1 - Deverão privilegiar-se as soluções tradicionais de coberturas inclinadas revestidas a telha de barro natural de cor vermelha.\n\n2 - Poder-se-á ainda admitir outro tipo de soluções de coberturas, desde que devidamente justificadas e condicionadas à qualidade do projecto."
+  },
+  "200673139": {
+   "fragment_id": "200678403",
+   "type": 11,
+   "heading": "Artigo 26.º — Cota de soleira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cota de soleira\n\nFixa-se em 0,5 m a cota de soleira de referência."
+  },
+  "200673140": {
+   "fragment_id": "200678404",
+   "type": 11,
+   "heading": "Artigo 27.º — Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Anexos\n\n1 - Os anexos não deverão ocupar mais de 20% da área total do lote ou propriedade, não podendo ultrapassar 50 m2 ou 25 m2 por fogo no caso de edifícios multifamiliares.\n\n2 - Os anexos não poderão ter mais de um piso, nem altura exterior máxima superior a 3 m, incluindo cobertura, platibanda e muros tapa-vistas.\n\n3 - Poder-se-ão admitir soluções de volumetria e de área de ocupação diferentes, desde que convenientemente justificadas com estudo de enquadramento, e desde que a área total de pavimentos dos anexos seja somada às restantes áreas de pavimentos, no lote ou propriedade, para efeito de cálculo do índice de construção."
+  },
+  "200673141": {
+   "fragment_id": "200678405",
+   "type": 11,
+   "heading": "Artigo 28.º — Logradouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Logradouros\n\n1 - Sempre que exista ou seja criado logradouro, o mesmo não pode ser ocupado ou impermeabilizado em mais de dois terços da sua área.\n\n2 - Poder-se-ão admitir outras soluções de ocupação ou impermeabilização dos logradouros, desde que devidamente justificadas com estudo de enquadramento.\n\n3 - No caso de edifícios de habitação colectiva os logradouros deverão ficar preferencialmente afectos à utilização comum dos condóminos.\n\nZonas de enquadramento paisagístico"
+  },
+  "200673142": {
+   "fragment_id": "200678406",
+   "type": 11,
+   "heading": "Artigo 29.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Caracterização\n\nSão áreas dentro dos espaços urbanos com interesse ambiental e paisagístico, que podem possuir povoamento florestal ou arbustivo, ou que desempenhem funções de enquadramento e protecção aos aglomerados urbanos contíguos, ou constituir ainda faixas de transição para os espaços florestais."
+  },
+  "200673143": {
+   "fragment_id": "200678407",
+   "type": 11,
+   "heading": "Artigo 30.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Edificabilidade\n\n1 - A edificabilidade em solos integrados nesta categoria fica condicionada a estudo de enquadramento, apenas sendo admissíveis moradias isoladas, uni ou bifamiliares, e desde que o lote ou propriedade possua uma área mínima de 1200 m2.\n\n2 - O derrube de árvores e o movimento de terras nestas áreas deverá restringir-se ao estritamente necessário para a implantação das edificações.\n\n3 - Os projectos devem incluir arranjos exteriores que contemplem o derrube e plantação de árvores, a modelação do terreno e todos as peças escritas e desenhadas justificativas da solução adoptada e necessárias à completa definição e execução dos diversos trabalhos.\n\n4 - O equilíbrio da paisagem não poderá ser perturbado por novas edificações, seja pela sua localização, volumetria ou aspecto exterior, nem pelas obras de infra-estruturas.\n\n5 - Terão de estar garantidas a obtenção de água potável e energia eléctrica, a eficaz eliminação de esgotos e acesso automóvel pavimentado às edificações, nas condições definidas no capítulo IX, sendo da responsabilidade e encargo do interessado a realização das referidas obras."
+  },
+  "200673144": {
+   "fragment_id": "200678408",
+   "type": 11,
+   "heading": "Artigo 31.º — Índices urbanísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Índices urbanísticos\n\nO índice máximo de construção é 0,2:\n\nic =< 0,2"
+  },
+  "200673145": {
+   "fragment_id": "200678409",
+   "type": 11,
+   "heading": "Artigo 32.º — Regime de cedências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regime de cedências\n\nOs proprietários são obrigados a ceder à Câmara Municipal, devidamente infra-estruturadas, arranjadas e a título gratuito, as áreas necessárias à construção e alargamento de vias de acesso, designadamente passeios e arruamentos, as áreas para estacionamento automóvel público nos termos fixados no capítulo IX e todas as áreas que se considerem necessárias para a instalação de outras infra-estruturas, equipamentos e espaços públicos para recreio e lazer."
+  },
+  "200673146": {
+   "fragment_id": "200678410",
+   "type": 11,
+   "heading": "Artigo 33.º — Número de pisos dos edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Número de pisos dos edifícios\n\nFixa-se em dois o número máximo de pisos das edificações."
+  },
+  "200673147": {
+   "fragment_id": "200678411",
+   "type": 11,
+   "heading": "Artigo 34.º — Alinhamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Alinhamentos\n\nDevem ser respeitados os alinhamentos definidos nos estudos de enquadramento."
+  },
+  "200673148": {
+   "fragment_id": "200678412",
+   "type": 11,
+   "heading": "Artigo 35.º — Logradouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Logradouros\n\nAs áreas de logradouro ocupadas ou impermeabilizadas não devem exceder 10% da área total do lote ou propriedade."
+  },
+  "200673149": {
+   "fragment_id": "200678413",
+   "type": 11,
+   "heading": "Artigo 36.º — Parâmetros urbanísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Parâmetros urbanísticos\n\nQuanto aos restantes parâmetros urbanísticos é aplicável o disposto no artigo 19.º, nos n.os 1 e 2 do artigo 21.º e nos artigos 22.º, 24.º, 25.º, 26.º e 27.º\n\nZonas de equipamentos existentes"
+  },
+  "200673150": {
+   "fragment_id": "200678414",
+   "type": 11,
+   "heading": "Artigo 37.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Caracterização\n\nSão áreas caracterizadas pela existência de instalações, serviços ou infra-estruturas de utilização colectiva, públicas ou privadas, e encontram-se identificadas na carta de equipamentos."
+  },
+  "200673151": {
+   "fragment_id": "200678415",
+   "type": 11,
+   "heading": "Artigo 38.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Edificabilidade\n\n1 - Nestas áreas admitem-se intervenções tendentes à melhoria das condições de utilização dos equipamentos.\n\n2 - Sempre que as intervenções envolvam alterações significativas das suas funções, área de ocupação, arquitectura e volumetria, as mesmas deverão ser devidamente justificadas, tendo sempre em atenção as condições topográficas, morfológicas e ambientais do local, devendo garantir a compatibilização volumétrica e arquitectónica com as preexistências da envolvente, ficando ainda condicionadas à existência de infra-estruturas de apoio adequadas, condições de segurança e qualidade do projecto.\n\n3 - Se se verificar a alteração do seu uso, admite-se a possibilidade de reconversão do equipamento, podendo a área em causa integrar os espaços urbanos contíguos, por decisão da Câmara Municipal.\n\n4 - Para os casos previstos no número anterior aplicam-se os índices e restantes parâmetros urbanísticos definidos para a respectiva categoria de espaço.\n\nZonas para equipamentos propostos"
+  },
+  "200673152": {
+   "fragment_id": "200678416",
+   "type": 11,
+   "heading": "Artigo 39.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Caracterização\n\nSão áreas que se destinam a instalações, serviços ou infra-estruturas de utilização colectiva, públicas ou privadas, e encontram-se identificadas na carta de equipamentos."
+  },
+  "200673153": {
+   "fragment_id": "200678417",
+   "type": 11,
+   "heading": "Artigo 40.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Edificabilidade\n\n1 - Os projectos para equipamentos deverão ser desenvolvidos tendo sempre em atenção as condições topográficas, morfológicas e ambientais do local, devendo garantir a compatibilização volumétrica e arquitectónica com as preexistências da envolvente, ficando ainda condicionadas à existência de infra-estruturas de apoio adequadas, condições de segurança e qualidade do projecto.\n\n2 - Logo que os projectos dos equipamentos se encontrem aprovados, as áreas sobrantes poderão integrar os espaços urbanos contíguos, por decisão da Câmara Municipal.\n\n3 - Para os casos previstos no número anterior aplicam-se os índices e restantes parâmetros urbanísticos definidos para a respectiva categoria de espaço.\n\nZonas públicas para recreio e lazer"
+  },
+  "200673154": {
+   "fragment_id": "200678418",
+   "type": 11,
+   "heading": "Artigo 41.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Caracterização\n\nAs áreas desta categoria são caracterizadas por constituírem espaços não edificados, vocacionados para usufruição colectiva."
+  },
+  "200673155": {
+   "fragment_id": "200678419",
+   "type": 11,
+   "heading": "Artigo 42.º — Uso e ocupação do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Uso e ocupação do solo\n\nNestes espaços deve privilegiar-se a criação de áreas verdes ajardinadas ou arborizadas."
+  },
+  "200673156": {
+   "fragment_id": "200678420",
+   "type": 11,
+   "heading": "Artigo 43.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Edificabilidade\n\n1 - Nestas áreas admite-se a possibilidade de construção de equipamentos de apoio às actividades de recreio e lazer.\n\n2 - Estas áreas deverão ser sujeitas a projectos de arranjo urbanístico e paisagístico, devendo as edificações referidas no número anterior ser enquadradas nos referidos projectos.\n\n3 - A área reservada para o futuro parque da cidade, que pela sua dimensão e características poderá admitir a coexistência com outros usos, encontra-se inserida numa unidade operativa de planeamento e gestão que definirá as suas condições de ocupação, uso e transformação.\n\nZonas destinadas a edificação não habitacional"
+  },
+  "200673157": {
+   "fragment_id": "200678421",
+   "type": 11,
+   "heading": "Artigo 44.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Caracterização\n\n1 - São áreas que pela sua localização e morfologia se destinam à instalação de actividades económicas.\n\n2 - Estas áreas estão sujeitas a planos ou estudos com regulamentos específicos, os quais deverão prever a criação de cinturas arbóreas de envolvimento e protecção, com vista à salvaguarda do impacte ambiental e à sua adequada integração urbanística e paisagística."
+  },
+  "200673158": {
+   "fragment_id": "200678422",
+   "type": 11,
+   "heading": "Artigo 45.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Edificabilidade\n\n1 - Os projectos para as edificações a implantar nestas áreas deverão ser desenvolvidos tendo sempre em atenção as condições topográficas, morfológicas e ambientais das mesmas, devendo ainda reger-se por critérios de qualidade estética e compatibilidade funcional.\n\n2 - A existência de infra-estruturas, nomeadamente de vias públicas de acesso pavimentadas e áreas para estacionamento automóvel e para cargas e descargas de mercadorias, condicionará sempre o licenciamento das edificações."
+  },
+  "200673159": {
+   "fragment_id": "200678423",
+   "type": 11,
+   "heading": "Artigo 46.º — Índices urbanísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Índices urbanísticos\n\n1 - O índice volumétrico máximo de construção é de 2,4 m3/m2:\n\niv =< 2,4 m3/m2\n\n2 - O índice referido no número anterior só poderá ser ultrapassado desde que a área ocupada com construção não corresponda a mais de 70% da área total do lote ou propriedade, devendo neste caso ser devidamente justificado com estudo de enquadramento."
+  },
+  "200673160": {
+   "fragment_id": "200678424",
+   "type": 11,
+   "heading": "Artigo 47.º — Regime de cedências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Regime de cedências\n\nOs proprietários são obrigados a ceder à Câmara Municipal, devidamente infra-estruturadas, arranjadas e a título gratuito, as áreas necessárias à construção e alargamento de vias de acesso, designadamente passeios e arruamentos, as áreas para estacionamento automóvel público nos termos fixados no capítulo IX e todas as áreas que se considerem necessárias para a instalação de outras infra-estruturas, equipamentos e espaços públicos para recreio e lazer."
+  },
+  "200673161": {
+   "fragment_id": "200678425",
+   "type": 11,
+   "heading": "Artigo 48.º — Parâmetros urbanísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Parâmetros urbanísticos\n\n1 - Dadas as características específicas das edificações nesta categoria de espaços, os parâmetros urbanísticos deverão ser definidos nas respectivas unidades operativas de planeamento e gestão.\n\n2 - Enquanto não se encontrarem aprovados os respectivos planos ou estudos, todas as pretensões para esta categoria de espaços deverão ser devidamente justificadas com estudos de enquadramento, devendo ainda ficar condicionadas à qualidade do projecto."
+  },
+  "200673162": {
+   "fragment_id": "200678426",
+   "type": 1,
+   "heading": "Capítulo IV — Espaços industriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Espaços industriais"
+  },
+  "200673163": {
+   "fragment_id": "200678427",
+   "type": 11,
+   "heading": "Artigo 49.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Caracterização\n\nOs espaços que constituem esta classe dizem respeito a áreas onde já existem unidades industriais consolidadas."
+  },
+  "200673164": {
+   "fragment_id": "200678428",
+   "type": 11,
+   "heading": "Artigo 50.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Edificabilidade\n\n1 - Os projectos de reconversão, ampliação ou instalação de actividades complementares das unidades industriais deverão ser desenvolvidos tendo sempre em atenção as condições topográficas, morfológicas e ambientais dos locais e reger-se por critérios de qualidade estética e compatibilidade funcional.\n\n2 - Admite-se a possibilidade da sua reconversão em espaços urbanos idênticos aos espaços urbanos contíguos, desde que cumpram o regime definido para os mesmos e desde que sejam apoiados em estudos de enquadramento.\n\n3 - Quer para os edifícios existentes, quer para a instalação de outras actividades suas complementares, deverão ficar asseguradas condições de funcionamento que garantam um eficaz controlo do equilíbrio ambiental e da utilização dos recursos hídricos e a preocupação de integração e protecção paisagística do local."
+  },
+  "200673165": {
+   "fragment_id": "200678429",
+   "type": 1,
+   "heading": "Capítulo V — Espaços agrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Espaços agrícolas"
+  },
+  "200673166": {
+   "fragment_id": "200678430",
+   "type": 11,
+   "heading": "Artigo 51.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Caracterização\n\n1 - Os espaços pertencentes a esta classe são aqueles que possuem características mais adequadas às actividades agrícolas ou que as possam vir a adquirir e estão integrados na Reserva Agrícola Nacional.\n\n2 - A Reserva Agrícola Nacional, abreviadamente designada por RAN, constitui o conjunto das áreas que em virtude das suas características geológicas, morfológicas, climatéricas e sócio-económicas, maiores potencialidades apresentam para a produção de bens agrícolas.\n\n3 - Algumas áreas do RAN apresentam ainda e cumulativamente elevado valor paisagístico, encontrando-se identificadas na carta dos espaços naturais."
+  },
+  "200673167": {
+   "fragment_id": "200678431",
+   "type": 11,
+   "heading": "Artigo 52.º — Uso e ocupação do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Uso e ocupação do solo\n\nA utilização de quaisquer áreas integradas nesta categoria subordinar-se-á estritamente aos condicionamentos impostos pela preservação das suas potencialidades, pelo que não podem ser objecto de quaisquer acções que as diminuam ou destruam, salvo as excepções consignadas na lei geral, nomeadamente no Decreto-Lei n.º 196/89, de 14 de Junho, no Decreto-Lei n.º 274/92, de 12 de Dezembro, e nas disposições deste Regulamento."
+  },
+  "200673168": {
+   "fragment_id": "200678432",
+   "type": 11,
+   "heading": "Artigo 53.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Edificabilidade\n\n1 - As áreas da RAN de elevado valor paisagístico e as áreas da RAN não comprometidas urbanisticamente são non aedificandi, não sendo permitidas quaisquer construções, de carácter definitivo ou precário, incluindo estufas, painéis publicitários e muros de vedação.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) A recuperação de edificações existentes de arquitectura tradicional, desde que mantenham a volumetria, área de implantação, traça e materiais originais, só sendo admissível a sua substituição por outros de qualidade compatível;\n\nb) A construção de infra-estruturas e de equipamentos públicos de reconhecido interesse municipal sem localização alternativa viável, desde que a utilização não agrícola do solo tenha sido previamente autorizada pela entidade competente e sejam convenientemente justificadas por estudos de enquadramento.\n\n3 - Nas restantes áreas da RAN a edificabilidade só poderá vir a ser permitida desde que tenha sido previamente autorizada pela entidade competente a sua utilização não agrícola, devendo nestes casos restringir-se à implantação de construções com as finalidades definidas nas alíneas seguintes:\n\na) Instalações directamente adstritas às explorações agro-pecuárias e agro-florestais;\n\nb) Habitação;\n\nc) Equipamentos públicos ou privados, de interesse municipal reconhecido, desde que devidamente justificados com estudo de enquadramento.\n\n4 - O equilíbrio da paisagem não poderá ser perturbado por novas edificações, seja pela sua localização, volumetria ou aspecto exterior, nem pelas obras de infra-estruturas.\n\n5 - Terão de estar garantidas a obtenção de água potável e energia eléctrica, a eficaz eliminação de esgotos e acesso automóvel às edificações, sem prejuízo para terceiros, e nas condições previstas no capítulo IX, sendo da responsabilidade e encargo do interessado a realização das respectivas obras.\n\n6 - Para os casos referidos na alínea b) do n.º 3 deste artigo só será permitido um máximo de dois pisos, área de inutilização do solo não superior a 20% da área total da parcela, área total de pavimentos não superior a 200 m2, excluindo as caves, e desde que o edifício se implante totalmente dentro de uma faixa de 50 m contada a partir do limite do espaço urbano contíguo.\n\n7 - Para estes casos e no que diz respeito aos parâmetros urbanísticos é aplicável o disposto nos artigos 18.º a 27.º e 35.º"
+  },
+  "200673169": {
+   "fragment_id": "200678433",
+   "type": 1,
+   "heading": "Capítulo VI — Espaços florestais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Espaços florestais"
+  },
+  "200673170": {
+   "fragment_id": "200678434",
+   "type": 11,
+   "heading": "Artigo 54.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Caracterização\n\nSão os espaços que se destinam à produção florestal, ou de manifesta importância para o equilíbrio ambiental ou beleza da paisagem, incluindo as áreas sujeitas ao regime florestal, e encontram-se identificados na carta de zonamento."
+  },
+  "200673171": {
+   "fragment_id": "200678435",
+   "type": 11,
+   "heading": "Artigo 55.º — Planos de acção florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Planos de acção florestal\n\nO disposto neste capítulo não é aplicável às operações relativas à florestação e exploração florestal, quando decorrentes de projectos aprovados pelas entidades competentes.\n\nZonas de matas ou matos de protecção"
+  },
+  "200673172": {
+   "fragment_id": "200678436",
+   "type": 11,
+   "heading": "Artigo 56.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Caracterização\n\nConstituem pequenas áreas de povoamento florestal, arbustivo ou de espécies endémicas de interesse ambiental e paisagístico."
+  },
+  "200673173": {
+   "fragment_id": "200678437",
+   "type": 11,
+   "heading": "Artigo 57.º — Uso e ocupação do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Uso e ocupação do solo\n\nNestas áreas devem ser preservadas as suas características de forma a garantir o equilíbrio ambiental e paisagístico."
+  },
+  "200673174": {
+   "fragment_id": "200678438",
+   "type": 11,
+   "heading": "Artigo 58.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Edificabilidade\n\n1 - A edificabilidade em solos integrados nesta categoria restringe-se a moradias isoladas, uni ou bifamiliares e a equipamentos públicos ou privados de interesse municipal reconhecido, devendo a mesma ficar condicionada a estudo de enquadramento.\n\n2 - Para os casos de edificação de moradias só será permitida a edificação com um máximo de dois pisos, índice de construção não superior a 0,2, área total de pavimentos não superior a 200 m2 para o caso de moradias unifamiliares e 300 m2 para o caso de moradias bifamiliares, excluindo as caves e desde que o edifício se implante totalmente dentro de uma faixa de 50 m contada a partir do limite do espaço urbano contíguo.\n\n3 - O derrube de árvores e o movimento de terras nestas áreas deverá restringir-se ao estritamente necessário para a implantação das edificações.\n\n4 - Os projectos devem incluir arranjos exteriores que contemplem o derrube e plantação de árvores, a modelação do terreno e todas as peças escritas e desenhadas justificativas da solução adoptada e necessárias à completa definição e execução dos diversos trabalhos.\n\n5 - O equilíbrio da paisagem não poderá ser perturbado por novas edificações, seja pela sua localização, volumetria ou aspecto exterior, nem pelas obras de infra-estruturas.\n\n6 - Terão de estar garantidos a obtenção de água potável e energia eléctrica, a eficaz eliminação de esgotos e acesso automóvel pavimentado às edificações, nas condições definidas no capítulo IX, sendo da responsabilidade e encargo do interessado a realização das referidas obras.\n\n7 - Para estes casos e no que diz respeito aos parâmetros urbanísticos é aplicável o disposto nos artigos 18.º a 27.º e 35.º\n\nZonas de floresta"
+  },
+  "200678475": {
+   "fragment_id": "200678439",
+   "type": 11,
+   "heading": "Artigo 59.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Caracterização\n\nConstituem áreas extensas de povoamentos florestais."
+  },
+  "200678476": {
+   "fragment_id": "200678440",
+   "type": 11,
+   "heading": "Artigo 60.º — Uso e ocupação do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Uso e ocupação do solo\n\n1 - Nestas áreas deve ser privilegiada a protecção e produção florestal, agro-florestal e agrícola\n\n2 - Sem prejuízo das actividades tradicionais, basicamente agrícolas e silvo-pastoris, que deverão ser privilegiadas, a pesca desportiva, o recreio passivo e as acções de manutenção e recuperação do revestimento vegetal são igualmente de acolher.\n\n3 - São permitidas acções de repovoamento florestal desde que sem carácter de produção intensiva, com a aplicação de técnicas culturais não degradantes dos recursos, designadamente:\n\na) Mobilização manual do solo apenas necessária à remoção da vegetação ao longo das linhas de plantação;\n\nb) Exploração dos povoamentos, de preferência com estrutura jardinada, composição mista e em regime de corte alternado ou de pé a pé e que incentive a biodiversidade.\n\n4 - Nas áreas de uso silvo-pastoril serão permitidas acções de melhoramento de pastagens, com introdução de espécies mais produtivas, desde que com recurso a mobilizações mínimas do terreno e se utilizem formas de fertilização orgânica não poluente."
+  },
+  "200678477": {
+   "fragment_id": "200678441",
+   "type": 11,
+   "heading": "Artigo 61.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Edificabilidade\n\n1 - As áreas integradas nas zonas de floresta são non aedificandi.\n\n2 - Exceptuam-se:\n\na) Instalações directamente adstritas às explorações florestais, agro-florestais, agrícolas e pastoris;\n\nb) Instalações de vigilância e combate a incêndios florestais;\n\nc) Recuperação de edificações existentes de arquitectura tradicional, admitindo-se pequenas ampliações condicionadas à qualidade do projecto;\n\nd) Equipamentos, públicos ou privados de reconhecido interesse municipal, sem localização alternativa viável.\n\n3 - Para os casos referidos no número anterior deverá garantir-se:\n\na) Que o derrube de árvores e o movimento de terras se restrinja ao estritamente necessário, devendo ser precedidos de autorização camarária;\n\nb) Que o equilíbrio da paisagem não seja perturbado por novas edificações, quer pela sua localização, volumetria ou aspecto exterior, quer pelas obras necessárias à instalação de infra-estruturas, devendo estas pretensões ser devidamente justificadas com estudo de enquadramento, ficando condicionadas à qualidade do projecto;\n\nc) A obtenção de água potável e energia eléctrica, a eficaz eliminação de esgotos e acesso automóvel, que serão da responsabilidade e encargo do interessado.\n\nZonas de incultos e pastagens de montanha"
+  },
+  "200678478": {
+   "fragment_id": "200678442",
+   "type": 11,
+   "heading": "Artigo 62.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Caracterização\n\n1 - Os incultos são áreas da serra de Santa Luzia que se encontram temporária ou permanentemente sem revestimento vegetal ou inaproveitadas nas suas capacidades de uso do solo.\n\n2 - As pastagens de montanha são áreas pouco declivosas, de coberto vegetal rasteiro, normalmente ligadas ao uso ou vocação florestal e silvo-pastoril."
+  },
+  "200678479": {
+   "fragment_id": "200678443",
+   "type": 11,
+   "heading": "Artigo 63.º — Uso e ocupação do solo e edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Uso e ocupação do solo e edificabilidade\n\nA esta categoria de espaços é aplicável o disposto nos artigos 60.º e 61.º"
+  },
+  "200678480": {
+   "fragment_id": "200678444",
+   "type": 1,
+   "heading": "Capítulo VII — Espaços naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Espaços naturais"
+  },
+  "200678481": {
+   "fragment_id": "200678445",
+   "type": 11,
+   "heading": "Artigo 64.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Caracterização\n\n1 - Integram esta classe as zonas mais sensíveis do ponto de vista ecológico, paisagístico e ambiental, onde se devem privilegiar a protecção, a conservação, a gestão racional e a capacidade de renovação dos recursos naturais e a salvaguarda dos valores paisagísticos.\n\n2 - Fazem parte desta classe a RAN, incluindo as suas áreas de elevado valor paisagístico, a REN, o domínio público hídrico, os biótopos, as reservas cinegética e de pesca e o Parque Regional de Santa Luzia."
+  },
+  "200678482": {
+   "fragment_id": "200678446",
+   "type": 11,
+   "heading": "Artigo 65.º — Uso e ocupação do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Uso e ocupação do solo\n\n1 - Sem prejuízo dos condicionamentos decorrentes de outras servidões administrativas ou restrições de utilidade pública, são aplicáveis aos espaços pertencentes a esta classe os regimes jurídicos da RAN, da REN, do domínio público hídrico e das reservas cinegética e de pesca.\n\n2 - A protecção destas áreas garante a conservação de determinados habitats, a manutenção de recursos biológicos, ecológicos, científicos e estéticos, o equilíbrio e a produtividade dos sistemas e o desenvolvimento natural dos ecossistemas neles presentes.\n\n3 - As áreas de protecção ao património natural deverão ser defendidas de quaisquer acções que diminuam as suas funções, potencialidades ecológicas e produtivas."
+  },
+  "200678483": {
+   "fragment_id": "200678447",
+   "type": 11,
+   "heading": "Artigo 66.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Edificabilidade\n\nA edificabilidade nesta classe de espaços fica condicionada à legislação e regulamentação aplicável, aos pareceres que legalmente têm de ser colhidos, para além dos condicionalismos a que os respectivos usos obrigam."
+  },
+  "200678484": {
+   "fragment_id": "200678448",
+   "type": 11,
+   "heading": "Artigo 67.º — Reserva Ecológica Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Reserva Ecológica Nacional\n\n1 - A Reserva Ecológica Nacional, abreviadamente designada por REN, constitui uma estrutura biofísica básica e diversificada que, através do condicionamento à utilização de áreas com características ecológicas específicas, garante a protecção de ecossistemas e a permanência e intensificação dos processos biológicos indispensáveis ao enquadramento equilibrado das actividades humanas e encontra-se identificada no extracto da carta da REN do PDM incluída nos elementos anexos.\n\n2 - O uso, ocupação e transformação do solo em áreas da REN está condicionado ao estipulado no capítulo X do Regulamento do PDM e à legislação aplicável em vigor."
+  },
+  "200678485": {
+   "fragment_id": "200678449",
+   "type": 11,
+   "heading": "Artigo 68.º — Domínio público hídrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Domínio público hídrico\n\n1 - O domínio público hídrico é constituído pelo domínio público marítimo e pelo domínio público fluvial e abrange os terrenos anexos às águas públicas, costeiras e interiores, ou seja, os leitos, as margens e as zonas adjacentes.\n\n2 - Esta área constitui uma servidão e restrição de utilidade pública e encontra-se identificada no extracto da carta de servidões do PDM incluída nos elementos anexos.\n\n3 - Sem prejuízo do disposto na legislação em vigor aplicável, nas áreas do domínio público hídrico não deverá ser levada a efeito qualquer acção susceptível de comprometer os valores ambientais e paisagísticos, as actividades piscatórias e portuárias, bem como a defesa nacional."
+  },
+  "200678486": {
+   "fragment_id": "200678450",
+   "type": 11,
+   "heading": "Artigo 69.º — Biótopos - Projecto CORINE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Biótopos - Projecto CORINE\n\n1 - São a inventariação sobre a informação do estado do ambiente e dos recursos naturais, no âmbito da política comunitária sobre o ambiente, e encontram-se identificados no carta dos espaços naturais do PDM.\n\n2 - Todas as acções a levar a efeito em áreas integradas nos biótopos não podem ser susceptíveis de prejudicar o equilíbrio ambiental."
+  },
+  "200678487": {
+   "fragment_id": "200678451",
+   "type": 11,
+   "heading": "Artigo 70.º — Reservas cinegética e de pesca",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Reservas cinegética e de pesca\n\n1 - Estas áreas constituem zonas de caça ou de pesca condicionada.\n\n2 - Estas áreas estão sujeitas às disposições legais e regulamentares em vigor, as quais têm como objectivo a conservação da fauna regional."
+  },
+  "200678488": {
+   "fragment_id": "200678452",
+   "type": 11,
+   "heading": "Artigo 71.º — Serra de Santa Luzia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Serra de Santa Luzia\n\n1 - Esta área caracteriza-se por possuir grande diversidade de fauna e flora, ocorrências geológicas, vestígios arqueológicos, valores paisagísticos e outros interesses culturais e ambientais, que lhe conferem características únicas como espaço natural, quer pela sua raridade e valor científico quer por se encontrarem em vias de extinção.\n\n2 - Esta área fica sujeita ao que vier a ser estabelecido na respectiva unidade operativa de planeamento e gestão e respectivo regulamento, que deverá incluir uma proposta de classificação da mesma como zona crítica, ao abrigo do disposto do Decreto Regulamentar n.º 55/81, de 18 de Dezembro."
+  },
+  "200678489": {
+   "fragment_id": "200678453",
+   "type": 1,
+   "heading": "Capítulo VIII — Espaços culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Espaços culturais"
+  },
+  "200678490": {
+   "fragment_id": "200678454",
+   "type": 11,
+   "heading": "Artigo 72.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Caracterização\n\nO património cultural construído e arqueológico é constituído por monumentos, conjuntos e sítios que, pelas suas características, se assumem como valores com reconhecido interesse histórico, arquitectónico, arqueológico, artístico, científico ou social e a sua identificação consta da carta do património cultural construído e arqueológico."
+  },
+  "200678491": {
+   "fragment_id": "200678455",
+   "type": 11,
+   "heading": "Artigo 73.º — Uso e ocupação do solo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Uso e ocupação do solo\n\nNestes espaços deve ser privilegiada a protecção, a conservação e a recuperação dos valores culturais, arqueológicos, arquitectónicos, urbanísticos e paisagísticos."
+  },
+  "200678492": {
+   "fragment_id": "200678456",
+   "type": 11,
+   "heading": "Artigo 74.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Edificabilidade\n\nA edificabilidade nesta classe de espaços fica condicionada à legislação e regulamentação específica, para além dos condicionalismos à edificabilidade que o uso obriga.\n\nPatrimónio cultural construído"
+  },
+  "200678493": {
+   "fragment_id": "200678457",
+   "type": 11,
+   "heading": "Artigo 75.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Caracterização\n\n1 - São edificações isoladas ou agrupadas, notáveis pelo seu interesse histórico, arquitectónico, arqueológico, artístico, científico ou social, incluindo os seus elementos decorativos, bem como as obras de escultura ou de pintura monumental.\n\n2 - O património cultural construído compreende os imóveis classificados como monumentos nacionais e imóveis classificados como de interesse público, imóveis em vias de classificação, imóveis classificados como de valor concelhio, imóveis de especial interesse e núcleos e quintas não classificados e imóveis e conjuntos de interesse não classificados.\n\nImóveis classificados como monumentos nacionais e imóveis classificados como de interesse público"
+  },
+  "200678494": {
+   "fragment_id": "200678458",
+   "type": 11,
+   "heading": "Artigo 76.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Caracterização\n\n1 - São imóveis que pelo seu excepcional valor mereceram esta classificação, que se encontra regulamentada e dispõem sempre de uma zona especial de protecção, abreviadamente designada por ZEP.\n\n2 - Enquanto a ZEP não se encontrar definida em diploma legal, estes imóveis beneficiarão de uma zona de protecção de 50 m contados a partir dos seus limites exteriores."
+  },
+  "200678495": {
+   "fragment_id": "200678459",
+   "type": 11,
+   "heading": "Artigo 77.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Edificabilidade\n\n1 - Qualquer obra a levar a efeito nestes imóveis, nas suas ZEP ou nas respectivas zonas de protecção carece de autorização prévia do Instituto Português do Património Arquitectónico e Arqueológico.\n\n2 - Sem prejuízo de maior grau de exigência, nas obras a levar a efeito nestes imóveis devem ser mantidos os materiais construtivos e as características estruturais e arquitectónicas originais.\n\n3 - Nas ZEP ou nas zonas de protecção destes imóveis admite-se a possibilidade da realização de obras de conservação e ainda de obras de ampliação ou novas edificações, desde que convenientemente justificadas com estudo de enquadramento, devendo ainda ficar condicionadas à qualidade do projecto.\n\nImóveis em vias de classificação"
+  },
+  "200678496": {
+   "fragment_id": "200678460",
+   "type": 11,
+   "heading": "Artigo 78.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Caracterização\n\n1 - São os imóveis que pelo seu valor mereceram despacho a determinar a abertura do respectivo processo de classificação, nos termos do n.º 1 do artigo 18.º da Lei n.º 13/85, de 6 de Julho, e dispõem sempre de uma ZEP.\n\n2 - Enquanto a ZEP não se encontrar definida em diploma legal, estes imóveis beneficiarão de uma zona de protecção de 50 m contados a partir dos seus limites exteriores."
+  },
+  "200678497": {
+   "fragment_id": "200678461",
+   "type": 11,
+   "heading": "Artigo 79.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Edificabilidade\n\nA estes imóveis, às respectivas ZEP e zonas de protecção é aplicável o disposto no artigo 77.º\n\nImóveis classificados como de valor concelhio"
+  },
+  "200678498": {
+   "fragment_id": "200678462",
+   "type": 11,
+   "heading": "Artigo 80.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Caracterização\n\nSão imóveis que, embora não tenham merecido classificação de âmbito nacional, possuem assinalável valor regional ou municipal, de acordo com a Lei n.º 2032, base I, de 11 de Junho de 1949."
+  },
+  "200678499": {
+   "fragment_id": "200678463",
+   "type": 11,
+   "heading": "Artigo 81.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Edificabilidade\n\nA estes imóveis e respectivas ZEP é aplicável o disposto nos n.os 2 e 3 do artigo 77.º\n\nImóveis de especial interesse e núcleos e quintas não classificados"
+  },
+  "200678500": {
+   "fragment_id": "200678464",
+   "type": 11,
+   "heading": "Artigo 82.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Caracterização\n\nInserem-se neste grupo os imóveis, os cascos antigos dos povoados, os núcleos habitacionais homogéneos, os sítios e as quintas com relevante valor urbanístico, paisagístico, histórico ou arquitectónico, possuindo sempre uma zona de protecção, identificados na carta de património cultural construído e arqueológico."
+  },
+  "200678501": {
+   "fragment_id": "200678465",
+   "type": 11,
+   "heading": "Artigo 83.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Edificabilidade\n\n1 - Nas obras a levar a efeito nestes imóveis devem ser mantidos os materiais construtivos e as características estruturais e arquitectónicas originais, só sendo admissível a introdução de novos sistemas construtivos, incluindo elementos estruturais, desde que se tratem de colmatações, de edifícios em ruína ou para reforço da estrutura existente.\n\n2 - Devem ser mantidas as características naturais e ambientais dos sítios e das quintas.\n\n3 - Nas zonas de protecção destes imóveis podem admitir-se, além de obras de conservação, ampliações e novas edificações, desde que convenientemente justificadas com estudo de enquadramento, devendo ainda ficar condicionadas à qualidade do projecto.\n\nImóveis e conjuntos de interesse não classificados"
+  },
+  "200678502": {
+   "fragment_id": "200678466",
+   "type": 11,
+   "heading": "Artigo 84.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Caracterização\n\nInserem-se nesta classificação os edifícios isolados ou agrupados que apresentam suficiente qualidade arquitectónica, urbanística ou paisagística, podendo ou não possuir zona de protecção, identificados na carta do património cultural construído e arqueológico."
+  },
+  "200678503": {
+   "fragment_id": "200678467",
+   "type": 11,
+   "heading": "Artigo 85.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Edificabilidade\n\n1 - Nas obras a levar a efeito nestes imóveis devem ser mantidos os materiais construtivos e as características estruturais e arquitectónicas originais, só sendo admissível a introdução de novos sistemas construtivos, incluindo elementos estruturais, desde que se tratem de colmatações, de edifícios em ruína ou para reforço da estrutura existente.\n\n2 - Nas zonas de protecção destes imóveis aplicam-se os índices e parâmetros urbanísticos para a respectiva categoria de espaço, devendo qualquer intervenção ficar condicionada à qualidade do projecto e à sua adequada integração com a envolvente.\n\nCentro Histórico"
+  },
+  "200678504": {
+   "fragment_id": "200678468",
+   "type": 11,
+   "heading": "Artigo 86.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Caracterização\n\nO Centro Histórico de Viana do Castelo caracteriza-se pela sua exemplar estrutura urbana, que tem como cerne o actual núcleo medieval, onde se localizam os imóveis mais relevantes, dotado de razoáveis infra-estruturas, constituído por edifícios com cérceas, volumetrias e tipologias muito variáveis, ocupados com múltiplas funções nomeadamente, habitação comércio e serviços."
+  },
+  "200678505": {
+   "fragment_id": "200678469",
+   "type": 11,
+   "heading": "Artigo 87.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Edificabilidade\n\n1 - O Centro Histórico de Viana do Castelo está incluído numa zona especial de protecção, nos termos do disposto no Diário do Governo, 2.ª série, n.º 149, de 27 de Junho de 1973, encontrando-se identificado na carta de condicionantes do PDM incluída nos elementos anexos, ficando qualquer intervenção vinculada a parecer do Instituto Português do Património Arquitectónico e Arqueológico.\n\n2 - No Centro Histórico estabelecem-se dois graus de protecção: grau de protecção 1, correspondente à área que abrange o núcleo medieval; grau de protecção 2, correspondente à restante área do Centro Histórico.\n\n3 - Grau de protecção 1:\n\na) Nesta área as intervenções deverão limitar-se a obras de conservação, as quais deverão respeitar a volumetria, as características estruturais e arquitectónicas dos edifícios, privilegiando os materiais construtivos originais, a função habitacional, podendo admitir-se a ocupação dos pisos térreos com comércio, serviços, similares de hotelaria, actividades artesanais ou outras, desde que sejam compatíveis com a função habitacional e não impliquem instalações de equipamentos especiais ou outros elementos localizados no exterior que, pela sua natureza, dimensão ou aspecto se mostrem inestéticos;\n\nb) Só será admissível a introdução de novos sistemas construtivos, incluindo elementos estruturais, desde que se tratem de colmatações, de edifícios em ruína ou para reforço da estrutura existente.\n\n4 - Grau de protecção 2:\n\nNesta área as intervenções deverão garantir a compatibilização volumétrica e arquitectónica com as preexistências e ficar condicionadas à qualidade do projecto, não podendo em qualquer caso atingir uma altura total ou volumetria que de alguma forma prejudiquem os elementos arquitectónicos proeminentes ou que produzam uma ruptura de escala, sendo proibidas todas as actividades que se mostrem incompatíveis com a função habitacional ou que impliquem a instalação de equipamentos especiais ou outros elementos localizados no exterior que, pela sua natureza, dimensão ou aspecto, se mostrem inestéticos.\n\n5 - No Centro Histórico é proibido o armazenamento de produtos tóxicos ou inflamáveis e de gás ou outras utilizações ou ocupações que se mostrem incompatíveis com a função habitacional.\n\n6 - Consideram-se incompatíveis as funções que se traduzam num agravamento sensível das condições ambientais e de salubridade, constituam factor de risco para a integridade de pessoas e bens, incluindo incêndio e explosão, ou provoquem perturbações na natural fluidez do tráfego."
+  },
+  "200678506": {
+   "fragment_id": "200678470",
+   "type": 11,
+   "heading": "Artigo 88.º — Índices e parâmetros urbanísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Índices e parâmetros urbanísticos\n\n1 - Para o Centro Histórico de Viana do Castelo deve ser elaborado um plano de salvaguarda e valorização, o qual constitui uma unidade operativa de planeamento e gestão, que definirá, para além dos índices e parâmetros urbanísticos, as medidas especiais a adoptar com vista à sua preservação e reabilitação.\n\n2 - Enquanto não se encontrar aprovado o respectivo plano de salvaguarda e valorização é aplicável o disposto nos artigos 18.º a 28.º\n\nPatrimónio arqueológico"
+  },
+  "200678507": {
+   "fragment_id": "200678471",
+   "type": 11,
+   "heading": "Artigo 89.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Caracterização\n\nConsideram-se sítios arqueológicos todos os locais em que esteja determinada ou indiciada a presença, à superfície, debaixo do solo, em áreas submersas ou arrojados pela água, de vestígios de ocupação humana, nomeadamente artefactos e estruturas, edificadas ou não."
+  },
+  "200678508": {
+   "fragment_id": "200678472",
+   "type": 11,
+   "heading": "Artigo 90.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Edificabilidade\n\nSem prejuízo das disposições legais em vigor, nomeadamente as constantes da Lei n.º 13/85, de 6 de Julho, todas as acções a levar a efeito nas zonas de protecção a ruínas e sítios arqueológicos, identificadas na carta do património, ficam condicionadas a um acompanhamento directo, ou mesmo a uma prospecção prévia dos locais por técnicos credenciados pela Câmara Municipal, estando o seu licenciamento dependente do grau de interesse histórico-arqueológico das estruturas ou materiais exumados."
+  },
+  "200678509": {
+   "fragment_id": "200678473",
+   "type": 11,
+   "heading": "Artigo 91.º — Achados arqueológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Achados arqueológicos\n\n1 - Quem tiver encontrado ou encontrar em terreno público ou particular, incluindo em meio submerso, quaisquer testemunhos arqueológicos, fica obrigado a dar imediato conhecimento à Câmara Municipal, que, por sua vez, informará o Instituto Português do Património Arquitectónico e Arqueológico, ficando estes locais imediatamente abrangidos por uma área de protecção, nunca inferior a 50 m contados a partir do limite exterior dos achados, à qual é aplicado o disposto no artigo 90.º\n\n2 - Nos termos do n.º 1 do artigo 56.º da Lei n.º 13/85, de 6 de Julho, o não cumprimento do disposto no número anterior importará na imediata apreensão dos bens móveis cujo achado não tenha sido declarado."
+  },
+  "200678510": {
+   "fragment_id": "200678474",
+   "type": 1,
+   "heading": "Capítulo IX — Rede viária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Rede viária"
+  },
+  "200678511": {
+   "fragment_id": "200678575",
+   "type": 11,
+   "heading": "Artigo 92.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Composição\n\nA rede rodoviária do PUC abrange todas as vias de circulação na sua área de influência e integra a rede rodoviária nacional, a rede interconcelhia e os sistemas primário, secundário e terciário, e encontra-se identificada na carta da rede viária."
+  },
+  "200678512": {
+   "fragment_id": "200678576",
+   "type": 11,
+   "heading": "Artigo 93.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Caracterização\n\n1 - A rede rodoviária nacional na área do PUC integra o IC 1, o IP 9 e o acesso rodoviário ao porto de mar e encontra-se incluída no plano rodoviário nacional.\n\n2 - A rede interconcelhia é constituída pelas estradas nacionais EN 13, EN 202, EN 203, EN 302 e EN 13-3, que, por se considerarem os principais eixos viários de ligação aos concelhos vizinhos, deverão assumir características particulares na sua gestão de modo a assegurar um bom nível de serviços.\n\n3 - As restantes vias foram agrupadas por ordem decrescente da sua importância funcional, integrando os sistemas primário, secundário e terciário."
+  },
+  "200678513": {
+   "fragment_id": "200678577",
+   "type": 11,
+   "heading": "Artigo 94.º — Espaços-canais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Espaços-canais\n\n1 - Os espaços-canais da rede viária abrangem as vias, as quais são compostas por troços ou secções e nós, e só admitem o uso para que foram reservados constituindo zonas non aedificandi.\n\n2 - Para o IC 1 fica reservado um espaço-canal correspondente a 35 m para cada lado do eixo da estrada e nunca inferior a 15 m da zona da estrada.\n\n3 - Para o troço da estrada nacional EN 13, compreendida na área do PUC, fica reservada uma área de protecção ao espaço-canal com 50 m de largura, correspondente a 25 m para cada lado do eixo, até à aprovação do estudo a elaborar para a ZIP 5 e ZIP 6.\n\n4 - Para as vias a construir integradas no sistema primário, fica reservada uma área de protecção ao espaço-canal com 50 m de largura, correspondente a 25 m para cada lado do eixo até à aprovação do respectivo projecto de execução.\n\n5 - Para as vias a construir integradas no sistema secundário, fica reservada uma área de protecção ao espaço-canal com 30 m de largura, correspondente a 15 m para cada lado do eixo, até à aprovação do respectivo projecto de execução.\n\n6 - Para as vias a construir integradas no sistema terciário, fica reservada uma área de protecção ao espaço-canal com 20 m de largura, correspondente a 10 m para cada lado do eixo, até à aprovação do respectivo projecto de execução.\n\n7 - Os projectos de execução referidos nos n.os 4, 5 e 6 deste artigo devem definir as características dos espaços-canais após a aprovação dos respectivos projectos."
+  },
+  "200678514": {
+   "fragment_id": "200678578",
+   "type": 11,
+   "heading": "Artigo 95.º — Zonas de protecção a espaços-canais, a nós e cruzamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Zonas de protecção a espaços-canais, a nós e cruzamentos\n\n1 - Até à aprovação do respectivo projecto não é permitida qualquer edificação nestas zonas de protecção que possam comprometer a execução das vias.\n\n2 - Poder-se-ão admitir obras de conservação desde que o interessado apresente declaração de renúncia à indemnização pelo aumento de valor resultante daquelas em caso de futura expropriação, e a registar na conservatória do registo predial."
+  },
+  "200678515": {
+   "fragment_id": "200678579",
+   "type": 11,
+   "heading": "Artigo 96.º — Perfis transversais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Perfis transversais\n\n1 - Para cada um dos sistemas integrados no plano rodoviário do PUC devem ser adoptadas as características de perfil transversal apresentadas no quadro que constitui anexo ao presente Regulamento, admitindo-se contudo perfis com dimensão superior desde que convenientemente justificados.\n\n2 - No caso das vias existentes ou a remodelar, as dimensões definidas no quadro referido no número anterior podem ser reduzidas pontualmente, decorrentes da situação e limitações existentes."
+  },
+  "200678516": {
+   "fragment_id": "200678580",
+   "type": 11,
+   "heading": "Artigo 97.º — Estacionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Estacionamento\n\n1 - Nos edifícios para habitação, comércio ou serviços as zonas reservadas a estacionamento deverão localizar-se em caves, sendo aplicável o disposto no artigo 21.º e devendo ficar garantido um lugar de estacionamento com área útil mínima de 12,5 m2 por cada 100 m2 de área bruta de construção e nunca inferior a um lugar por fogo ou unidade de utilização.\n\n2 - Nos casos em que as condições geológicas, topográficas, de localização e dimensão inviabilizem o cumprimento do prescrito no número anterior, é obrigatória a apresentação de soluções alternativas.\n\n3 - No caso de moradias com logradouro privado, poder-se-á admitir que a área de estacionamento se localize à superfície, desde que respeite o prescrito no capítulo III.\n\n4 - Deverá ainda ser prevista uma área adicional para estacionamento público à superfície, correspondente a um lugar de estacionamento com área útil nunca inferior a 12,5 m2:\n\na) Por cada fogo, desde que a área bruta do mesmo não ultrapasse 100 m2;\n\nb) Por cada 100 m2 de área bruta de construção destinada a habitação;\n\nc) Por cada 50 m2 de área bruta de construção destinada a comércio ou serviços.\n\n5 - Quando a área bruta de construção destinada a comércio ou serviços for igual ou superior a 500 m2, o estacionamento deverá ser objecto de um estudo específico justificativo da sua concepção e dimensionamento, não se podendo neste caso adoptar valores inferiores aos referidos nos n.os 1 e 4 deste artigo, devendo ser asseguradas áreas próprias, fora da via pública, para cargas e descargas, em locais que não interfiram com a circulação.\n\n6 - Os projectos para as áreas de protecção identificadas na carta do património que não possam cumprir o estipulado nos números anteriores deste artigo deverão ser devidamente justificadas."
+  },
+  "200678517": {
+   "fragment_id": "200678581",
+   "type": 11,
+   "heading": "Artigo 98.º — Normas para a gestão da rede rodoviária do PUC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Normas para a gestão da rede rodoviária do PUC\n\n1 - Sempre que os empreendimentos apresentem tipologia e dimensão susceptíveis de provocar alterações significativas no volume e tipo de tráfego existente ou previsto, ou nas condições globais da circulação, deverá o pedido de licenciamento, independentemente de outros estudos e projectos legalmente exigíveis, ser acompanhado de um estudo de tráfego e de concepção global do sistema, de acessos e estacionamento, nomeadamente o relativo a cargas e descargas, que permita fundamentar a sua concepção e avaliar os impactes na rede rodoviária da respectiva área de influência directa.\n\n2 - Os acessos a armazéns, indústrias, garagens, oficinas, zonas de depósitos e similares susceptíveis de provocar alterações significativas no volume e tipo de tráfego existente ou previsto, ou nas condições globais da circulação, só deverão ser permitidos desde que:\n\na) Possuam uma zona de espera de modo que a entrada e saída de veículos se processe sem prejuízo para o tráfego da via principal;\n\nb) O acesso seja objecto de um projecto de execução a aprovar pela Câmara Municipal, devidamente fundamentado, assegurando as características necessárias no que respeita à sua geometria, pavimento, drenagem e sinalização;\n\nc) Disponham de zonas de estacionamento próprio, integradas no lote, cujo dimensionamento deve ser objecto de justificação.\n\n3 - A instalação de postos de abastecimento de combustíveis:\n\na) Deve ser objecto de um projecto a aprovar pela Câmara Municipal, com o conteúdo previsto no n.º 6.1.2 do despacho SEOP 37-XII/92, publicado no Diário da República, 2.ª série, n.º 294, de 22 de Dezembro de 1992, sem prejuízo da legislação em vigor;\n\nb) Em vias existentes, deverá localizar-se relativamente às intercepções e aos nós a uma distância superior a 50 m, medida segundo o eixo a partir das tangentes das curvas de concordância ou de transição e em vias a construir esta distância deverá respeitar os condicionalismos impostos no n.º 5.2 do despacho referido na alínea a) deste artigo;\n\nc) Quando ocupem zonas de passeios, deve ser prevista uma largura livre de passeio superior a 2 m.\n\n4 - Para além do disposto nos números anteriores deste artigo para a gestão do sistema primário e rede interconcelhia, aplicam-se ainda as seguintes normas:\n\na) Os acessos a estas vias, independentemente das características específicas que venham a ser definidas para cada um deles, devem possuir uma localização e um dimensionamento que permitam a circulação em segurança e garantam um nível de serviço adequado à via em questão;\n\nb) Devem ser evitados acessos directos as estas vias, os quais se deverão processar através de vias paralelas convergentes nos cruzamentos e nós;\n\nc) As paragens de transportes públicos deverão ser executadas fora da faixa de rodagem das vias e de acordo com o esquema apresentado em anexo;\n\nd) O estacionamento deverá efectuar-se em zonas especificamente destinadas a esse efeito, fora da faixa de rodagem, devendo sempre que possível evitar-se o acesso directo a esta.\n\n5 - Sempre que as condições geológicas e topográficas se mostrem inadequadas ou a localização e área disponível não permitam o cumprimento do disposto nos números anteriores deste artigo é obrigatória a apresentação de soluções alternativas devidamente fundamentadas com estudos específicos."
+  },
+  "200678518": {
+   "fragment_id": "200678582",
+   "type": 11,
+   "heading": "Artigo 99.º — Elaboração de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Elaboração de projectos\n\n1 - Os projectos relativos a troços da rede rodoviária, quer sejam considerados isoladamente, quer integrados em operações de loteamento, devem ser elaborados de acordo com o conteúdo da secção IV da portaria de 7 de Fevereiro de 1972 e legislação complementar, relativa às instruções para o cálculo dos honorários referentes aos projectos de obras públicas.\n\n2 - Sem prejuízo do estipulado no número anterior e sempre que a dimensão e características da intervenção assim o exijam, os projectos deverão incluir um estudo de tráfego e faseamento previsto para a obra o qual deverá justificar a concepção e dimensionamento da rede rodoviária e do estacionamento, assim como a estrutura e dimensionamento do pavimento, devendo ainda ser apoiado em adequados estudos geológicos e geotécnicos, incluindo a respectiva prospecção, e conter estudos de drenagem, de sinalização horizontal e vertical, de iluminação pública e de arranjos exteriores.\n\n3 - Sem prejuízo do estipulado nos números anteriores deste artigo e de outros requisitos que eventualmente venham a ser definidos, os projectos relativos aos arranjos exteriores devem incluir, entre outros, o esquema de modelação geral do terreno, as redes de drenagem, de rega e de iluminação, a identificação e localização do equipamento e mobiliário urbanos, os planos de plantação com a definição dos tipos de revestimento, devendo todos estes elementos ser acompanhados das peças escritas e desenhadas justificativas da solução adoptada e necessárias à completa definição e execução dos diversos trabalhos.\n\nZonas de intervenção prioritária"
+  },
+  "200678519": {
+   "fragment_id": "200678583",
+   "type": 11,
+   "heading": "Artigo 100.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Caracterização\n\nAs zonas de intervenção prioritária, abreviadamente designadas por ZIP, são áreas da rede rodoviária que, pela sua localização, requerem uma reformulação a curto prazo, uma vez que constituem condicionantes ao bom funcionamento do sistema rodoviário e de transportes."
+  },
+  "200678520": {
+   "fragment_id": "200678584",
+   "type": 11,
+   "heading": "Artigo 101.º — Descrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Descrição\n\nPrevêem-se as seguintes ZIP, as quais se encontram identificadas na carta da rede viária da zona central da cidade.\n\nZIP 1 - rede primária do centro da cidade"
+  },
+  "200678521": {
+   "fragment_id": "200678585",
+   "type": 11,
+   "heading": "Artigo 102.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Caracterização\n\nEsta ZIP é constituída pela Rua de Monserrate, Campo da Agonia, Avenida do Campo do Castelo, Rua de Alves Cerqueira, Largo de 5 de Outubro, arruamento marginal, Avenida de Afonso III, Rua dos Bombeiros, Avenida do Conde da Carreira e Avenida dos Caçadores Nove, apresentando características muito diferenciadas, nomeadamente de perfil transversal, onde a circulação e estacionamento se processam de uma forma desarticulada."
+  },
+  "200678522": {
+   "fragment_id": "200678586",
+   "type": 11,
+   "heading": "Artigo 103.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Objectivo\n\nPretende-se que esta ZIP se assuma como uma via circular interior da cidade, devendo ser objecto de um estudo que permita definir as características da rede rodoviária, homogeneizando o seu perfil, as opções de estacionamento e as medidas de gestão da via pública.\n\nZIP 2 - Avenida dos Combatentes da Grande Guerra"
+  },
+  "200678523": {
+   "fragment_id": "200678587",
+   "type": 11,
+   "heading": "Artigo 104.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º — Caracterização\n\nTrata-se de uma via de grande importância no funcionamento global do sistema de transportes da cidade, não só por constituir uma ligação entre os diversos sectores da mesma mas também pelas funções que poderá vir a desempenhar, ligadas ao desenvolvimento do interface de transportes."
+  },
+  "200678524": {
+   "fragment_id": "200678588",
+   "type": 11,
+   "heading": "Artigo 105.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105.º — Objectivo\n\nEsta ZIP deve ser objecto de um estudo que avalie as alternativas possíveis para a circulação e gestão da via pública, integrando transportes públicos, táxis e estacionamento, devendo ser compatibilizado e articulado com a ZIP 1.\n\nZIP 3 - Avenida do Capitão Gaspar de Castro e ligação ao IC 1"
+  },
+  "200678525": {
+   "fragment_id": "200678589",
+   "type": 11,
+   "heading": "Artigo 106.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º — Caracterização\n\nTrata-se de um corredor viário que constitui um importante acesso à zona central da cidade, de perfil e características variáveis, ladeado por equipamentos escolares e desportivos, com diversos cruzamentos que originam interferências na circulação, redução das condições de segurança e do nível de serviço."
+  },
+  "200678526": {
+   "fragment_id": "200678590",
+   "type": 11,
+   "heading": "Artigo 107.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Objectivo\n\nEsta ZIP deverá ser objecto de um estudo que permita equacionar soluções alternativas à situação actual no que se refere à homogeneização do perfil transversal, integrando também soluções de viragem à esquerda, transportes públicos, estacionamento, travessias de peões e sinalização, articulando as suas ligações quer à Avenida de 25 de Abril quer à EN 202 e IC 1.\n\nZIP 4 - nó da Ponte Eiffel"
+  },
+  "200678527": {
+   "fragment_id": "200678591",
+   "type": 11,
+   "heading": "Artigo 108.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º — Caracterização\n\nTrata-se de uma zona crítica em que as características actuais da rede rodoviária não se encontram adaptadas ao volume e tipo de tráfego que ali circula."
+  },
+  "200678528": {
+   "fragment_id": "200678592",
+   "type": 11,
+   "heading": "Artigo 109.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109.º — Objectivo\n\nEsta ZIP deverá ser objecto de um estudo que permita fundamentar uma solução alternativa à situação actual, devidamente articulada com a nova ponte sobre o rio Lima e rede rodoviária associada.\n\nZIP 5 - EN 13 a norte do cruzamento da Rua de Monserrate com a Avenida de 25 de Abril"
+  },
+  "200678529": {
+   "fragment_id": "200678593",
+   "type": 11,
+   "heading": "Artigo 110.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110.º — Caracterização\n\nTrata-se de uma via sobre a qual se faz sentir grande pressão urbanística, com tipologias diferenciadas de ocupação do solo, com elevados volumes de tráfego de veículos e de peões e onde se verificam problemas de segurança e redução de nível de serviço, associados aos numerosos acessos à via municipal, continuando a EN 13 a desempenhar um papel fundamental em toda a estrutura viária, independentemente do novo esquema de acessos a Viana do Castelo, como decorre da proposta do plano rodoviário do PUC."
+  },
+  "200678530": {
+   "fragment_id": "200678594",
+   "type": 11,
+   "heading": "Artigo 111.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 111.º — Objectivo\n\nEsta ZIP deve ser objecto de um estudo que defina os princípios a que deve obedecer a ocupação marginal desta via, tendo em vista a redução do número de acessos, a localização e tipo de paragens de transportes públicos, a localização de passagens para peões e a definição global de um estatuto específico para este corredor, completando o legalmente definido para as estradas nacionais.\n\nZIP 6 - EN 13 a sul da Ponte Eiffel"
+  },
+  "200678531": {
+   "fragment_id": "200678595",
+   "type": 11,
+   "heading": "Artigo 112.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 112.º — Caracterização\n\nTrata-se de uma via sobre a qual se faz sentir grande pressão urbanística, com tipologias diferenciadas de ocupação do solo, com elevados volumes de tráfego de veículos e de peões e onde se verificam problemas de segurança e redução de nível de serviço, associados aos numerosos acessos à via principal, continuando a EN 13 a desempenhar um papel fundamental em toda a estrutura viária, independentemente do novo esquema de acessos a Viana do Castelo, como decorre da proposta do plano rodoviário do PUC."
+  },
+  "200678532": {
+   "fragment_id": "200678596",
+   "type": 11,
+   "heading": "Artigo 113.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 113.º — Objectivo\n\nEsta ZIP deve ser objecto de um estudo que defina os princípios a que deve obedecer a ocupação 'marginal desta via, tendo em vista a redução do número de acessos, a localização e tipo de paragens de transportes públicos, a localização de passagens para peões e a definição global de um estatuto específico para este corredor, completando o legalmente definido para as estradas nacionais.\n\nAparcamentos públicos"
+  },
+  "200678533": {
+   "fragment_id": "200678597",
+   "type": 11,
+   "heading": "Artigo 114.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 114.º — Caracterização\n\nOs aparcamentos para utilização pública, abreviadamente designados por P, são os espaços que pela sua localização e dimensão se mostram mais adequados ao estacionamento de grande quantidade de veículos."
+  },
+  "200678534": {
+   "fragment_id": "200678598",
+   "type": 11,
+   "heading": "Artigo 115.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 115.º — Objectivo\n\nEstas áreas devem ser sujeitas a um projecto que leve em consideração as suas características específicas, as compatibilize com outros estudos e as enquadre convenientemente, quer com a rede viária, quer com o espaço urbano envolvente."
+  },
+  "200678535": {
+   "fragment_id": "200678599",
+   "type": 11,
+   "heading": "Artigo 116.º — Descrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 116.º — Descrição\n\nPrevêem-se os seguintes aparcamentos, os quais se encontram identificados na carta da rede viária da zona central da cidade:\n\nP1 - a nascente do edifício da Caridade;\n\nP2 - interior do quarteirão dos Paços do Concelho;\n\nP3 - Largo de Vasco da Gama;\n\nP4 - Campo da Agonia;\n\nP5 - Largo do Infante D. Henrique;\n\nP6 - área envolvente ao edifício prisional;\n\nP7 - interface de transportes;\n\nP8 - zona marginal no topo sul da Avenida dos Combatentes da Grande Guerra;\n\nP9 - mercado;\n\nP10 - Hotel Afonso III.\n\nP11 - parque da cidade."
+  },
+  "200678536": {
+   "fragment_id": "200678600",
+   "type": 1,
+   "heading": "Capítulo X — Saneamento básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Saneamento básico\n\nAbastecimento de água"
+  },
+  "200678537": {
+   "fragment_id": "200678601",
+   "type": 11,
+   "heading": "Artigo 117.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 117.º — Caracterização\n\n1 - A rede municipal de abastecimento de água integra as captações, condutas adutoras, reservatórios, centrais elevatórias, fontanários e rede de distribuição e encontra-se identificada na carta de abastecimento de água.\n\n2 - A captação e conduta adutora de Bertiandos integra-se num sistema intermunicipal de abastecimento de água."
+  },
+  "200678538": {
+   "fragment_id": "200678602",
+   "type": 11,
+   "heading": "Artigo 118.º — Captações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 118.º — Captações\n\n1 - As origens de água na área do PUC estão identificadas como minas e poços:\n\na) As captações por minas são normalmente constituídas por galerias mais ou menos profundas de acordo com a natureza hidrogeológica dos terrenos;\n\nb) As captações por poços são constituídas por poços de diâmetros e profundidades variáveis interligados por galerias ou drenos.\n\n2 - As captações têm por finalidade a obtenção de água de forma contínua e duradoura, em quantidade compatível com as necessidades e com uma qualidade tal que, após tratamento, possa ser considerada própria para consumo humano.\n\n3 - As captações devem possuir uma adequada protecção sanitária, destinada a evitar os riscos de inquinação da água captada, tendo-se definido para o efeito zonas de protecção próxima e zonas de protecção à distância.\n\n4 - As zonas de protecção são non aedificandi e definem-se do seguinte modo:\n\na) Para as zonas de protecção próxima, por uma faixa de 20 m de largura envolvente à captação;\n\nb) Para as zonas de protecção à distância, por uma faixa de 100 m de largura envolvente à captação.\n\n5 - As zonas de protecção definidas no número anterior poderão ser alteradas por decisão da Câmara Municipal em função da natureza geológica do solo.\n\n6 - Nas zonas de protecção próxima não podem existir:\n\na) Depressões onde se possam acumular águas pluviais;\n\nb) Linhas de água não revestidas, que possam originar infiltrações, sem prejuízo da salvaguarda do disposto e legislação específica;\n\nc) Caixas e caleiras subterrâneas de tubagens e acessórios sem esgoto devidamente tratado;\n\nd) Canalizações, fossas ou sumidouros de águas negras;\n\ne) Edificações, excepto as pertencentes ao próprio sistema;\n\nf) Culturas adubadas, estrumadas ou regadas.\n\n7 - Nas zonas de protecção à distância não podem existir:\n\na) Sumidouros de águas negras abertos na camada aquífera captada;\n\nb) Outras captações na mesma camada aquífera, desde que prejudiquem a quantidade ou as condições sanitárias da água captada;\n\nc) Regas com águas negras e acções de adubação dos terrenos;\n\nd) Instalações pecuárias, nitreiras, estábulos ou matadouros;\n\ne) Depósitos ou estações de tratamento de resíduos sólidos;\n\nf) Indústrias que possuam efluentes nocivos, independentemente dos dispositivos antipoluentes que possam dispor."
+  },
+  "200678539": {
+   "fragment_id": "200678603",
+   "type": 11,
+   "heading": "Artigo 119.º — Condutas adutoras e distribuidoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 119.º — Condutas adutoras e distribuidoras\n\n1 - As condutas adutoras destinam-se ao transporte, quer gravítico quer por elevação mecânica, de água para abastecimento dos aglomerados populacionais.\n\n2 - As condutas distribuidoras destinam-se ao transporte gravítico de água para abastecimento dos aglomerados populacionais.\n\n3 - Para as condutas adutoras e distribuidoras com diâmetros superiores a 200 mm fica reservado um espaço canal non aedificandi com 6 m de largura, correspondente a 3 m para cada lado do eixo das respectivas condutas.\n\n4 - Para as condutas adutoras e distribuidoras com diâmetros iguais ou inferiores a 200 mm fica reservado um espaço-canal non aedificandi com 4 m de largura, correspondente a 2 m para cada lado do eixo das respectivas condutas."
+  },
+  "200678540": {
+   "fragment_id": "200678604",
+   "type": 11,
+   "heading": "Artigo 120.º — Reservatórios e centrais elevatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 120.º — Reservatórios e centrais elevatórias\n\nAs zonas de protecção sanitária dos reservatórios e das centrais elevatórias correspondem a uma faixa envolvente non aedificandi com 15 m, vedado e de acesso condicionado.\n\nRede de saneamento"
+  },
+  "200678541": {
+   "fragment_id": "200678605",
+   "type": 11,
+   "heading": "Artigo 121.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 121.º — Caracterização\n\nA rede municipal de esgotos integra a rede de colectores, interceptores, condutas elevatórias, centrais elevatórias, estações de tratamento e dispositivos de descarga final e encontra-se identificada na carta da rede de saneamento."
+  },
+  "200678542": {
+   "fragment_id": "200678606",
+   "type": 11,
+   "heading": "Artigo 122.º — Rede de esgotos e interceptores e condutas elevatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 122.º — Rede de esgotos e interceptores e condutas elevatórias\n\n1 - A rede de colectores integra os sistemas públicos de drenagem de águas residuais domésticas, industriais e pluviais provenientes das edificações ou da via pública e tem por finalidade assegurar a sua condução a destino final adequado.\n\n2 - Os interceptores têm por finalidade a recolha dos efluentes que derivam das várias redes de colectores e a sua condução até à estação de tratamento ou destino final.\n\n3 - As condutas elevatórias têm por finalidade a condução de esgoto sob pressão, desde a central elevatória até à caixa de visita, a partir da qual será transportado graviticamente.\n\n4 - As zonas de protecção são non aedificandi e definem-se do seguinte modo:\n\na) Para os colectores e condutas elevatórias com diâmetro igual ou inferior a 200 mm fica reservado um espaço-canal com 4 m de largura, correspondente a 2 m para cada lado do eixo do respectivo colector;\n\nb) Para os colectores, condutas elevatórias e interceptores com diâmetro superior a 200 mm fica reservado um espaço-canal com 6 m de largura, correspondente a 3 m para cada lado do eixo do respectivo colector."
+  },
+  "200678543": {
+   "fragment_id": "200678607",
+   "type": 11,
+   "heading": "Artigo 123.º — Centrais elevatórias e estações de tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 123.º — Centrais elevatórias e estações de tratamento\n\n1 - Nas zonas de protecção das centrais elevatórias e das estações de tratamento não é permitida a construção de quaisquer edificações, exceptuando-se as correspondentes às instalações fundamentais para o funcionamento do sistema da rede de esgotos.\n\n2 - Para as zonas de protecção das centrais elevatórias e das estações de tratamento é reservada uma faixa envolvente com 5 m."
+  },
+  "200678544": {
+   "fragment_id": "200678608",
+   "type": 1,
+   "heading": "Capítulo XI — Unidades operativas de planeamento e gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Unidades operativas de planeamento e gestão"
+  },
+  "200678545": {
+   "fragment_id": "200678609",
+   "type": 11,
+   "heading": "Artigo 124.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 124.º — Caracterização\n\n1 - As unidades operativas de planeamento e gestão demarcam espaços de intervenção com uma planeada ou pressuposta coerência, para serem tratados a um nível de planeamento mais detalhado.\n\n2 - Distinguem-se três tipos de unidades operativas de planeamento e gestão, consoante a dimensão e características da área de intervenção e o detalhe com que devem ser tratadas:\n\na) Os planos de pormenor, abreviadamente designados por UP, que se encontram regulamentados pelo Decreto-Lei n.º 69/90, de 2 de Março, e pelo Decreto-Lei n.º 211/92, de 8 de Outubro;\n\nb) Os planos de salvaguarda e valorização, abreviadamente designados por US, previstos no Decreto-Lei n.º 69/90, de 2 de Março, e no Decreto-Lei n.º 211/92, de 8 de Outubro, enquanto não se encontrarem regulamentados devem cumprir com o estipulado para os planos de pormenor, com as necessárias adaptações;\n\nc) Os estudos, abreviadamente designados por UE, incidem sobre áreas com uma problemática específica e devem ser tratados a um nível e tipo de planeamento que se mostre mais adequado ao objectivo definido para cada uma delas, podendo ser elaborados quer pela autarquia, quer pelos interessados, devendo sempre respeitar as normas do PUC.\n\n3 - Para se alcançar o objectivo definido no ponto anterior deve atender-se ao estipulado nos artigos 125.º a 202.º e às orientações definidas na carta de zonamento.\n\nPlanos de pormenor\n\nUP 1 - plano de pormenor da área envolvente do acesso norte à cidade e frente atlântica"
+  },
+  "200678546": {
+   "fragment_id": "200678610",
+   "type": 11,
+   "heading": "Artigo 125.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 125.º — Caracterização\n\nTrata-se de uma área degradada sob o ponto de vista urbanístico e paisagístico, onde predominam armazéns e oficinas de grande volumetria e fraca qualidade arquitectónica, coexistindo com edifícios de habitação."
+  },
+  "200678547": {
+   "fragment_id": "200678611",
+   "type": 11,
+   "heading": "Artigo 126.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 126.º — Objectivo\n\nTendo em vista a reconversão e reabilitação desta área, deverá ser elaborado um plano de pormenor que desenvolva as propostas contidas no estudo urbanístico já executado para a mesma, o qual deverá ser articulado e compatibilizado com a ZIP 1 e ZlP 5."
+  },
+  "200678548": {
+   "fragment_id": "200678612",
+   "type": 11,
+   "heading": "Artigo 127.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 127.º — Edificabilidade\n\nNesta área, e até à aprovação do respectivo plano de pormenor, a edificabilidade restringe-se a:\n\n1) Obras de conservação;\n\n2) Outras intervenções, desde que convenientemente articuladas com o estudo urbanístico elaborado para esta área, nomeadamente no que se refere à rede viária.\n\nUP 2 - plano de pormenor da área ocidental da cidade"
+  },
+  "200678549": {
+   "fragment_id": "200678613",
+   "type": 11,
+   "heading": "Artigo 128.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 128.º — Caracterização\n\nTrata-se de uma área envolvente ao Forte de São Tiago da Barra degradada sob o ponto de vista urbanístico e paisagístico, onde coexistem espaços livres públicos, zonas portuárias, oficinas e armazéns."
+  },
+  "200678550": {
+   "fragment_id": "200678614",
+   "type": 11,
+   "heading": "Artigo 129.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 129.º — Objectivo\n\nTendo em vista a reconversão e reabilitação desta área, deverá ser elaborado um plano de pormenor que desenvolva as propostas contidas no estudo urbanístico já executado para a mesma, o qual deverá ser articulado e compatibilizado com a ZIP 1."
+  },
+  "200678551": {
+   "fragment_id": "200678615",
+   "type": 11,
+   "heading": "Artigo 130.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 130.º — Edificabilidade\n\n1 - Na área afecta à jurisdição portuária não é permitido qualquer tipo de intervenção até à aprovação do respectivo plano de pormenor.\n\n2 - Na restante área, e até à aprovação do respectivo plano de pormenor, a edificabilidade restringe-se a:\n\na) Obras de conservação;\n\nb) Outras intervenções, desde que convenientemente articuladas com o estudo urbanístico elaborado para a mesma.\n\nUP 3 - plano de pormenor da área oriental da cidade"
+  },
+  "200678552": {
+   "fragment_id": "200678616",
+   "type": 11,
+   "heading": "Artigo 131.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 131.º — Caracterização\n\nTrata-se de uma área degradada sob o ponto de vista urbanístico e paisagístico, onde coexistem espaços livres públicos, espaços naturais, equipamentos, indústrias, armazéns e habitação."
+  },
+  "200678553": {
+   "fragment_id": "200678617",
+   "type": 11,
+   "heading": "Artigo 132.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 132.º — Objectivo\n\nTendo em vista a reconversão e reabilitação desta área, deverá ser elaborado um plano de pormenor que desenvolva as propostas contidas no estudo urbanístico já executado para a mesma, o qual deverá ser articulado e compatibilizado com a ZIP 1 e ZIP 4."
+  },
+  "200678554": {
+   "fragment_id": "200678618",
+   "type": 11,
+   "heading": "Artigo 133.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 133.º — Edificabilidade\n\nNesta área, e até à aprovação do respectivo plano de pormenor, a edificabilidade restringe-se a:\n\n1) Obras de conservação;\n\n2) Outras intervenções desde que convenientemente articuladas com o estudo urbanístico elaborado para a mesma, nomeadamente no que se refere à rede viária.\n\nUP 4 - plano de pormenor para o porto de mar em Darque"
+  },
+  "200678555": {
+   "fragment_id": "200678619",
+   "type": 11,
+   "heading": "Artigo 134.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 134.º — Caracterização\n\nTrata-se da área abrangida pelo plano geral do porto de mar, o qual, pelas suas características, não permite definir com rigor as intervenções a levar a efeito, reconhecendo-se a necessidade de o aprofundar, detalhar e regulamentar."
+  },
+  "200678556": {
+   "fragment_id": "200678620",
+   "type": 11,
+   "heading": "Artigo 135.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 135.º — Objectivo\n\nPela importância deste equipamento e pelo seu impacte na cidade, propõe-se a elaboração de um plano de pormenor que defina as regras de ocupação e uso, para além dos parâmetros urbanísticos que possam garantir a harmonia das intervenções."
+  },
+  "200678557": {
+   "fragment_id": "200678621",
+   "type": 11,
+   "heading": "Artigo 136.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 136.º — Edificabilidade\n\nNesta área, e até à aprovação do respectivo plano de pormenor, a edificabilidade restringe-se a:\n\n1) Obras de conservação;\n\n2) Outras intervenções, desde que se enquadrem num conjunto de regras que venham a ser acordadas entre a Câmara Municipal e a Direcção-Geral de Portos para a gestão da área.\n\nUP 5 - plano de pormenor para a área marginal ao rio Lima entre a Ponte Eiffel e o cais velho, em Darque"
+  },
+  "200678558": {
+   "fragment_id": "200678622",
+   "type": 11,
+   "heading": "Artigo 137.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 137.º — Caracterização\n\nTrata-se de uma área abrangida pelo plano geral do porto de mar, que se encontrava afecta à expansão portuária e triagem de caminho de ferro e descomprometida sob o ponto de vista urbanístico."
+  },
+  "200678559": {
+   "fragment_id": "200678623",
+   "type": 11,
+   "heading": "Artigo 138.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 138.º — Objectivo\n\nPela importância paisagística e de enquadramento urbanístico desta área e uma vez alterado o uso previsto no plano geral do porto de mar, deverá a mesma ser objecto de um plano de pormenor que defina os critérios de ocupação urbana, articulada com o projecto dos acessos rodoferroviários ao porto de mar."
+  },
+  "200678560": {
+   "fragment_id": "200678624",
+   "type": 11,
+   "heading": "Artigo 139.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 139.º — Edificabilidade\n\nNesta área e até à aprovação do respectivo plano de pormenor não poderá ser autorizada qualquer edificação.\n\nUP 6 - plano de pormenor para a área a sul da Senhora das Areias, em Darque"
+  },
+  "200678561": {
+   "fragment_id": "200678625",
+   "type": 11,
+   "heading": "Artigo 140.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 140.º — Caracterização\n\nTrata-se de uma área arborizada, descomprometida sob o ponto de vista urbanístico, sensivelmente plana, com boa acessibilidade e com características favoráveis à expansão urbana."
+  },
+  "200678562": {
+   "fragment_id": "200678626",
+   "type": 11,
+   "heading": "Artigo 141.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 141.º — Objectivo\n\nEsta área deverá ser sujeita a plano de pormenor, que defina as regras da sua ocupação urbana sob a forma de zona residencial em parque, à semelhança da urbanização inicial do Cabedelo."
+  },
+  "200678563": {
+   "fragment_id": "200678627",
+   "type": 11,
+   "heading": "Artigo 142.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 142.º — Edificabilidade\n\nNesta área, e até à aprovação do respectivo plano de pormenor, não poderá ser autorizada qualquer edificação, admitindo-se contudo a possibilidade da realização de planos parcelares.\n\nUP 7 - plano de pormenor para o lugar da Areia, em Darque"
+  },
+  "200678564": {
+   "fragment_id": "200678628",
+   "type": 11,
+   "heading": "Artigo 143.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 143.º — Caracterização\n\nTrata-se de uma área com uma estrutura urbana caótica, deficientemente infra-estruturada, onde coexistem edifícios com diversas tipologias e volumetrias, alguns deles com deficientes condições de habitabilidade."
+  },
+  "200678565": {
+   "fragment_id": "200678629",
+   "type": 11,
+   "heading": "Artigo 144.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 144.º — Objectivo\n\nEsta área deverá ser objecto de um plano de pormenor que garanta a sua conveniente reestruturação, infra-estruturação e compatibilização com a malha urbana envolvente."
+  },
+  "200678566": {
+   "fragment_id": "200678630",
+   "type": 11,
+   "heading": "Artigo 145.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 145.º — Edificabilidade\n\nAté à aprovação do plano de pormenor, poder-se-á admitir a edificação nos termos previstos no presente Regulamento para a respectiva categoria, desde que devidamente justificada com estudo de enquadramento, devendo ainda ficar condicionada à qualidade do projecto.\n\nUP 8 - plano de pormenor para a área envolvente ao nó rodoviário do IC 1 entre Darque e Mazarefes"
+  },
+  "200678567": {
+   "fragment_id": "200678631",
+   "type": 11,
+   "heading": "Artigo 146.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 146.º — Caracterização\n\nTrata-se de uma unidade operativa de planeamento e gestão já prevista no PDM, a qual abrange uma área localizada junto de um importante nó rodoviário, actualmente com uso predominantemente agrícola e florestal, onde já existem algumas unidades industriais, possuindo boa aptidão para a instalação de edificações para actividades económicas, que pelas suas dimensões e características se mostrem inadequadas às áreas residenciais."
+  },
+  "200678568": {
+   "fragment_id": "200678632",
+   "type": 11,
+   "heading": "Artigo 147.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 147.º — Objectivo\n\nEsta área deverá ser objecto de um plano de pormenor que permita a sua conveniente infra-estruturação, defina as regras de ocupação e inclua um interface de mercadorias junto à estação do caminho de ferro de Darque."
+  },
+  "200678569": {
+   "fragment_id": "200678633",
+   "type": 11,
+   "heading": "Artigo 148.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 148.º — Edificabilidade\n\nQualquer pretensão para esta área deverá ser fundamentada em estudos parcelares, desenvolvidos com base na proposta do PUC, os quais deverão conter obrigatoriamente o projecto para a rede viária de toda a área sujeita a plano de pormenor.\n\nPlanos de salvaguarda e valorização\n\nUS 1 - plano de salvaguarda e valorização para o lugar de São Mamede, em Areosa"
+  },
+  "200678570": {
+   "fragment_id": "200678634",
+   "type": 11,
+   "heading": "Artigo 149.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 149.º — Caracterização\n\nTrata-se de um pequeno núcleo rural com remeniscências medievais, isolado em plena montanha de Santa Luzia, rodeado por campos de cultivo e floresta, urbanisticamente consolidado, onde predominam edifícios de arquitectura tradicional com um e dois pisos."
+  },
+  "200678571": {
+   "fragment_id": "200678635",
+   "type": 11,
+   "heading": "Artigo 150.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 150.º — Objectivo\n\nEsta área deverá ser objecto de um plano, com vista à preservação e valorização das suas características urbanísticas, arquitectónicas e paisagísticas, ao estudo, restauro e divulgação do seu património histórico-arqueológico e à dotação com as infra-estruturas adequadas."
+  },
+  "200678572": {
+   "fragment_id": "200678636",
+   "type": 11,
+   "heading": "Artigo 151.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 151.º — Edificabilidade\n\nAté à aprovação do plano de salvaguarda e valorização referido, e sem prejuízo do disposto no capítulo VIII deste Regulamento, poderão admitir-se obras de conservação e de ampliação de edifícios existentes, devendo neste último caso ser convenientemente justificadas com estudo de enquadramento.\n\nUS 2 - plano de salvaguarda e valorização do Centro Histórico da cidade"
+  },
+  "200678573": {
+   "fragment_id": "200678637",
+   "type": 11,
+   "heading": "Artigo 152.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 152.º — Caracterização\n\nO Centro Histórico caracteriza-se pela sua exemplar estrutura urbana e tem como cerne o actual núcleo medieval, onde se localizam os imóveis de melhor qualidade arquitectónica, é dotado de razoáveis infra-estruturas e é constituído por edifícios com cérceas, volumetrias e tipologias muito variáveis, ocupados com múltiplas funções, nomeadamente habitação, comércio e serviços."
+  },
+  "200678574": {
+   "fragment_id": "200678638",
+   "type": 11,
+   "heading": "Artigo 153.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 153.º — Objectivo\n\nPretende-se com este plano não só melhorar as infra-estruturas, em especial a rede viária, como também reabilitar os edifícios, valorizando os exemplares arquitectónicos mais significativos, regulamentando as novas intervenções, de forma a preservar a sua identidade histórica, urbanística e arquitectónica, devendo ser também valorizados os espaços livres públicos, nomeadamente praças e jardins, sendo alvo de tratamento especial o núcleo medieval."
+  },
+  "200678675": {
+   "fragment_id": "200678639",
+   "type": 11,
+   "heading": "Artigo 154.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 154.º — Edificabilidade\n\n1 - O Centro Histórico de Viana do Castelo encontra-se incluído numa zona especial de protecção, pelo que devem ser observadas as disposições legais em vigor, ficando qualquer intervenção vinculada a parecer do Instituto Português do Património Arqueológico e Arquitectónico.\n\n2 - Até à aprovação do plano de salvaguarda e valorização é aplicável o disposto nos artigos 15.º e 87.º\n\nUS 3 - plano de salvaguarda e valorização do casco antigo de Darque"
+  },
+  "200678676": {
+   "fragment_id": "200678640",
+   "type": 11,
+   "heading": "Artigo 155.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 155.º — Caracterização\n\nTrata-se de um núcleo antigo, onde se encontram alguns bons exemplares arquitectónicos, apresentando uma estrutura urbana consolidada, com carências ao nível das infra-estruturas, onde predominam edifícios de habitação com dois e três pisos, alguns deles com condições deficientes de habitabilidade."
+  },
+  "200678677": {
+   "fragment_id": "200678641",
+   "type": 11,
+   "heading": "Artigo 156.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 156.º — Objectivo\n\nPretende-se com este plano não só infra-estruturar convenientemente todo o núcleo, como também reabilitar os edifícios valorizando os exemplares arquitectónicos mais significativos e regulamentando as novas intervenções, de forma a preservar a sua identidade histórica, urbanística e arquitectónica."
+  },
+  "200678678": {
+   "fragment_id": "200678642",
+   "type": 11,
+   "heading": "Artigo 157.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 157.º — Edificabilidade\n\nAté à aprovação do respectivo plano de salvaguarda e valorização deverá ser observado o seguinte:\n\n1) Nas obras a levar a efeito nestes imóveis devem ser mantidos tanto quanto possível os materiais construtivos e as características estruturais e arquitectónicas originais, bem como as características naturais e ambientais dos sítios e das quintas;\n\n2) Nas zonas de protecção destes imóveis podem admitir-se, além de obras de conservação, ampliações e novas edificações, desde que convenientemente justificadas com estudo de enquadramento, devendo ainda ficar condicionadas à qualidade do projecto.\n\nEstudos\n\nUE 1 - estudo de ordenamento da serra de Santa Luzia"
+  },
+  "200678679": {
+   "fragment_id": "200678643",
+   "type": 11,
+   "heading": "Artigo 158.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 158.º — Caracterização\n\nA serra de Santa Luzia possui uma localização estratégica em relação à cidade, ao concelho e à região transfronteiriça Minho-Galiza em que se integra e caracteriza-se por apresentar diversidade de fauna e flora, ocorrências geológicas, vestígios arqueológicos, valores paisagísticos e outros interesses culturais e ambientais, que lhe conferem características únicas como espaço cultural, quer pela sua raridade e valor científico, quer por se encontrarem em vias de extinção."
+  },
+  "200678680": {
+   "fragment_id": "200678644",
+   "type": 11,
+   "heading": "Artigo 159.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 159.º — Objectivo\n\nEsta área deverá ser sujeita a um estudo que venha a constituir um instrumento de desenvolvimento endógeno da região Minho-Galiza, na promoção turística e do património, de estímulo à protecção e gestão racional dos recursos naturais e incluir ainda uma proposta de classificação como zona crítica, onde se preveja a elaboração de planos municipais de intervenção na floresta que contemplem o planeamento e organização de acções de prevenção e utilização coordenada de meios de detecção e combate aos incêndios, ao abrigo do disposto no Decreto Regulamentar n.º 55/81, de 18 de Dezembro, dado tratar-se de uma área com elevada taxa de arborização e como tal extremamente sensível ao fogo."
+  },
+  "200678681": {
+   "fragment_id": "200678645",
+   "type": 11,
+   "heading": "Artigo 160.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 160.º — Edificabilidade\n\nNesta área, e até à aprovação do respectivo estudo, a edificabilidade rege-se pelo disposto no artigo 61.º\n\nUE 2 - estudo da área de enquadramento paisagístico da Areosa"
+  },
+  "200678682": {
+   "fragment_id": "200678646",
+   "type": 11,
+   "heading": "Artigo 161.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 161.º — Caracterização\n\nTrata-se de uma área a meia encosta, arborizada e descomprometida sob o ponto de vista urbanístico, prevendo-se que venha a ser dotada de boa acessibilidade, após conclusão da via complementar ao IC 1."
+  },
+  "200678683": {
+   "fragment_id": "200678647",
+   "type": 11,
+   "heading": "Artigo 162.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 162.º — Objectivo\n\nEsta área deverá ser sujeita a um estudo que defina as regras da sua ocupação urbana articulada com a rede viária proposta."
+  },
+  "200678684": {
+   "fragment_id": "200678648",
+   "type": 11,
+   "heading": "Artigo 163.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 163.º — Edificabilidade\n\nAté à aprovação do estudo, poder-se-á admitir a edificação nos termos previstos no presente Regulamento para a respectiva categoria, desde que justificada com estudo de enquadramento, que deverá conter proposta de articulação com a rede viária, devendo ainda ficar condicionada a qualidade do projecto.\n\nUE 3 - estudo de reconversão do núcleo adjacente à estrada de São Mamede, em Areosa"
+  },
+  "200678685": {
+   "fragment_id": "200678649",
+   "type": 11,
+   "heading": "Artigo 164.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 164.º — Caracterização\n\nTrata-se de uma área declivosa, degradada sob o ponto de vista urbanístico, deficientemente infra-estruturada, cujas edificações possuem número de pisos variáveis, em alguns casos com deficientes condições de habitabilidade."
+  },
+  "200678686": {
+   "fragment_id": "200678650",
+   "type": 11,
+   "heading": "Artigo 165.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 165.º — Objectivo\n\nTendo em vista a reabilitação desta área, a mesma deverá ser objecto de um estudo que defina, entre outros aspectos, as regras que minimizem o impacte das novas edificações, adequando-as convenientemente à topografia do terreno e à sua relação com a envolvente."
+  },
+  "200678687": {
+   "fragment_id": "200678651",
+   "type": 11,
+   "heading": "Artigo 166.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 166.º — Edificabilidade\n\nAté à aprovação do respectivo estudo, poder-se-á admitir a edificação nos termos previstos no presente Regulamento para a respectiva categoria, desde que devidamente justificada com estudo de enquadramento, devendo ainda ficar condicionada à qualidade do projecto.\n\nUE 4 - estudo para a área adjacente à EN 13 no lugar do Meio, em Areosa"
+  },
+  "200678688": {
+   "fragment_id": "200678652",
+   "type": 11,
+   "heading": "Artigo 167.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 167.º — Caracterização\n\nTrata-se de uma área com uma estrutura urbana caótica onde coexistem habitação, armazéns e oficinas, com volumetrias variáveis."
+  },
+  "200678689": {
+   "fragment_id": "200678653",
+   "type": 11,
+   "heading": "Artigo 168.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 168.º — Objectivo\n\nEsta área deverá ser objecto de um estudo com vista à sua reorganização, quer em termos urbanísticos, quer em termos volumétricos e funcionais."
+  },
+  "200678690": {
+   "fragment_id": "200678654",
+   "type": 11,
+   "heading": "Artigo 169.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 169.º — Edificabilidade\n\nAté à aprovação do respectivo estudo poder-se-á admitir a edificação nesta área, nos termos previstos no presente Regulamento para a respectiva categoria, desde que devidamente justificada com estudo de enquadramento, devendo ainda ficar condicionada à qualidade do projecto.\n\nUE 5 - estudo de reconversão do Bairro dos Cabeços, em Areosa"
+  },
+  "200678691": {
+   "fragment_id": "200678655",
+   "type": 11,
+   "heading": "Artigo 170.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 170.º — Caracterização\n\nTrata-se de uma área degradada, deficientemente infra-estruturada, sem estrutura urbana, encontrando-se ocupada com edificações predominantemente de um e dois pisos, com deficientes condições de habitabilidade."
+  },
+  "200678692": {
+   "fragment_id": "200678656",
+   "type": 11,
+   "heading": "Artigo 171.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 171.º — Objectivo\n\ntruturação, infra-estruturação e compatibilização com a malha urbana envolvente."
+  },
+  "200678693": {
+   "fragment_id": "200678657",
+   "type": 11,
+   "heading": "Artigo 172.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 172.º — Edificabilidade\n\nNesta área, e até à aprovação do respectivo estudo, a edificabilidade restringe-se a obras de conservação.\n\nUE 6 - estudo de reabilitação da praia norte e área envolvente em Monserrate e Areosa"
+  },
+  "200678694": {
+   "fragment_id": "200678658",
+   "type": 11,
+   "heading": "Artigo 173.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 173.º — Caracterização\n\nTrata-se de uma área litoral com praia degradada pelas obras portuárias, deficientemente infra-estruturada, não permitindo uma condigna utilização."
+  },
+  "200678695": {
+   "fragment_id": "200678659",
+   "type": 11,
+   "heading": "Artigo 174.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 174.º — Objectivo\n\nEsta área deverá ser sujeita a um estudo com vista à sua reabilitação como área eminentemente lúdica, dotando-a das necessárias infra-estruturas e equipamentos de apoio."
+  },
+  "200678696": {
+   "fragment_id": "200678660",
+   "type": 11,
+   "heading": "Artigo 175.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 175.º — Edificabilidade\n\nQualquer pretensão de edificação para esta área só poderá ser autorizada desde que devidamente enquadrada no estudo que vier a ser elaborado.\n\nUE 7 - estudo de reconversão do Bairro dos Pescadores, em Monserrate"
+  },
+  "200678697": {
+   "fragment_id": "200678661",
+   "type": 11,
+   "heading": "Artigo 176.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 176.º — Caracterização\n\nTrata-se de uma área habitacional degradada, isolada de qualquer contexto urbano, rodeada de uma zona industrial."
+  },
+  "200678698": {
+   "fragment_id": "200678662",
+   "type": 11,
+   "heading": "Artigo 177.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 177.º — Objectivo\n\nEsta área deverá ser sujeita a um estudo tendo em vista a sua reabilitação e enquadramento na envolvente."
+  },
+  "200678699": {
+   "fragment_id": "200678663",
+   "type": 11,
+   "heading": "Artigo 178.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 178.º — Edificabilidade\n\nNesta área, e até à aprovação do respectivo estudo, a edificabilidade restringe-se a obras de conservação.\n\nUE 8 - estudo para o interface de transportes"
+  },
+  "200678700": {
+   "fragment_id": "200678664",
+   "type": 11,
+   "heading": "Artigo 179.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 179.º — Caracterização\n\nTrata-se de uma área estrategicamente localizada na cidade, onde se pretendem articular os diversos meios de transporte terrestre, potenciando as suas relações, nomeadamente o caminho de ferro e os transportes públicos rodoviários, podendo possuir ainda componentes comercial e de serviços e eventualmente de recreio e lazer."
+  },
+  "200678701": {
+   "fragment_id": "200678665",
+   "type": 11,
+   "heading": "Artigo 180.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 180.º — Objectivo\n\nPretende-se com este estudo conjugar os diversos meios de transporte terrestre, potenciando as suas relações com vista, por um lado, a uma mais racional exploração dos recursos e, por outro, à prestação de um melhor nível de serviços, compatibilizando a função transporte com as funções comércio e serviços, que se admite poderem coexistir naquele local, e ainda com áreas públicas para estacionamento, recreio e lazer."
+  },
+  "200678702": {
+   "fragment_id": "200678666",
+   "type": 11,
+   "heading": "Artigo 181.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 181.º — Edificabilidade\n\nQualquer pretensão de edificação para esta área só poderá ser autorizada desde que devidamente enquadrada no estudo que vier a ser elaborado.\n\nUE 9 - estudo para o complexo desportivo regional e área envolvente na Meadela"
+  },
+  "200678703": {
+   "fragment_id": "200678667",
+   "type": 11,
+   "heading": "Artigo 182.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 182.º — Caracterização\n\nTrata-se de uma área de meia encosta onde se encontra em construção um campo de jogos e estruturas de apoio."
+  },
+  "200678704": {
+   "fragment_id": "200678668",
+   "type": 11,
+   "heading": "Artigo 183.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 183.º — Objectivo\n\nTendo em consideração as características do campo de jogos da Meadela, designadamente a sua localização, acessibilidade, topografia e área livre disponível, decidiu-se localizar aqui o complexo desportivo regional, constituído por um estádio, pistas de atletismo, piscinas, campos de jogos, campos de ténis e centro de estágios, admitindo-se ainda a possibilidade de instalação de um parque de exposições."
+  },
+  "200678705": {
+   "fragment_id": "200678669",
+   "type": 11,
+   "heading": "Artigo 184.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 184.º — Edificabilidade\n\nQualquer pretensão de edificação para esta área só poderá ser autorizada desde que devidamente enquadrada no estudo elaborado.\n\nUE 10 - estudo para a área a sul do Bairro da Belavista, na Abelheira"
+  },
+  "200678706": {
+   "fragment_id": "200678670",
+   "type": 11,
+   "heading": "Artigo 185.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 185.º — Caracterização\n\nTrata-se de uma área de reduzida dimensão degradada sob o ponto de vista urbanístico."
+  },
+  "200678707": {
+   "fragment_id": "200678671",
+   "type": 11,
+   "heading": "Artigo 186.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 186.º — Objectivo\n\nEsta área deverá ser objecto de um estudo que garanta a sua reconversão, compatibilizando-a com a malha urbana envolvente."
+  },
+  "200678708": {
+   "fragment_id": "200678672",
+   "type": 11,
+   "heading": "Artigo 187.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 187.º — Edificabilidade\n\nNesta área, e até à aprovação do respectivo estudo, a edificabilidade restringe-se a obras de conservação.\n\nUE 11 - estudo de reconversão do Bairro da Cova, na Meadela"
+  },
+  "200678709": {
+   "fragment_id": "200678673",
+   "type": 11,
+   "heading": "Artigo 188.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 188.º — Caracterização\n\nTrata-se de uma área declivosa, degradada sob o ponto de vista urbanístico, insuficientemente infra-estruturada, cujas edificações possuem um número de pisos variável, em muitos casos com deficientes condições de habitabilidade."
+  },
+  "200678710": {
+   "fragment_id": "200678674",
+   "type": 11,
+   "heading": "Artigo 189.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 189.º — Objectivo\n\nTendo em vista a reabilitação e infra-estruturação desta área, a mesma deverá ser objecto de um estudo que defina, entre outros aspectos, regras que minimizem o impacte das novas edificações, adequando-as convenientemente à topografia do terreno e à sua relação com a envolvente."
+  },
+  "200678711": {
+   "fragment_id": "200678775",
+   "type": 11,
+   "heading": "Artigo 190.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 190.º — Edificabilidade\n\nAté à aprovação do respectivo estudo, poder-se-á admitir a edificação nos termos previstos no presente Regulamento para a respectiva categoria, desde que devidamente justificada com estudo de enquadramento, devendo ainda ficar condicionada à qualidade do projecto.\n\nUE 12 - estudo da área destinada à edificação não habitacional da Meadela"
+  },
+  "200678712": {
+   "fragment_id": "200678776",
+   "type": 11,
+   "heading": "Artigo 191.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 191.º — Caracterização\n\nTrata-se de uma área de mata, sensivelmente plana, bem localizada, com boa aptidão para a instalação de edificações para actividades económicas."
+  },
+  "200678713": {
+   "fragment_id": "200678777",
+   "type": 11,
+   "heading": "Artigo 192.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 192.º — Objectivo\n\nEsta área foi objecto de um estudo que define as regras da sua ocupação."
+  },
+  "200678714": {
+   "fragment_id": "200678778",
+   "type": 11,
+   "heading": "Artigo 193.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 193.º — Edificabilidade\n\nQualquer pretensão para esta área deverá ser fundamentada em estudos parcelares, desenvolvidos com base no estudo já elaborado para o local.\n\nUE 13 - estudo para a área do Matinho, na Meadela"
+  },
+  "200678715": {
+   "fragment_id": "200678779",
+   "type": 11,
+   "heading": "Artigo 194.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 194.º — Caracterização\n\nTrata-se de uma área inserida num espaço urbano, descomprometida sob o ponto de vista urbanístico, sensivelmente plana e com boa acessibilidade."
+  },
+  "200678716": {
+   "fragment_id": "200678780",
+   "type": 11,
+   "heading": "Artigo 195.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 195.º — Objectivo\n\nEsta área deverá ser sujeita a um estudo que defina as regras da sua ocupação urbana respeitando as características definidas na carta de zonamento."
+  },
+  "200678717": {
+   "fragment_id": "200678781",
+   "type": 11,
+   "heading": "Artigo 196.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 196.º — Edificabilidade\n\nNesta área, e até à aprovação do respectivo estudo, não poderá ser autorizada qualquer edificação.\n\nUE 14 - estudo para a pista de remo e área envolvente em Darque"
+  },
+  "200678718": {
+   "fragment_id": "200678782",
+   "type": 11,
+   "heading": "Artigo 197.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 197.º — Caracterização\n\nTrata-se de uma área localizada na margem esquerda do rio Lima, entre pontes, degradada pelas obras portuárias, reunindo boas condições para a prática de actividades desportivas, de recreio e lazer."
+  },
+  "200678719": {
+   "fragment_id": "200678783",
+   "type": 11,
+   "heading": "Artigo 198.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 198.º — Objectivo\n\nPretende-se construir no local uma pista de remo com 2000 m de comprimento e respectivos equipamentos de apoio, devendo ser sujeita a um estudo, que possua componentes nos domínios hidráulico e paisagístico entre outros, com vista a uma adequada integração com o meio, dada a sua especificidade."
+  },
+  "200678720": {
+   "fragment_id": "200678784",
+   "type": 11,
+   "heading": "Artigo 199.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 199.º — Edificabilidade\n\nNesta área, e até à aprovação do respectivo estudo, não poderá ser autorizada qualquer edificação.\n\nUE 15 - estudo para o lugar da Sardoeira, em Darque"
+  },
+  "200678721": {
+   "fragment_id": "200678785",
+   "type": 11,
+   "heading": "Artigo 200.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 200.º — Caracterização\n\nTrata-se de uma área declivosa, degradada sob o ponto de vista urbanístico, deficientemente infra-estruturada, cujas edificações possuem um número de pisos variável, em muitos casos com deficientes condições de habitabilidade."
+  },
+  "200678722": {
+   "fragment_id": "200678786",
+   "type": 11,
+   "heading": "Artigo 201.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 201.º — Objectivo\n\nTendo em vista a reabilitação desta área, a mesma deverá ser objecto de um estudo que defina, entre outros aspectos, regras que minimizem o impacte das novas edificações, adequando-as convenientemente à topografia do terreno e à sua relação com a envolvente."
+  },
+  "200678723": {
+   "fragment_id": "200678787",
+   "type": 11,
+   "heading": "Artigo 202.º — Edificabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 202.º — Edificabilidade\n\nAté à aprovação do respectivo estudo, poder-se-á admitir a edificação nos termos previstos no presente Regulamento para a respectiva categoria, desde que devidamente justificada com estudo de enquadramento, devendo ainda ficar condicionada à qualidade do projecto."
+  },
+  "200678724": {
+   "fragment_id": "200678788",
+   "type": 1,
+   "heading": "Capítulo XII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Disposições finais e transitórias"
+  },
+  "200678725": {
+   "fragment_id": "200678789",
+   "type": 11,
+   "heading": "Artigo 203.º — Âmbito temporal de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 203.º — Âmbito temporal de aplicação\n\nExceptuam-se da aplicação do PUC os projectos de arquitectura ou de loteamento que se encontrem aprovados à data da entrada em vigor do referido plano."
+  },
+  "200678726": {
+   "fragment_id": "200678790",
+   "type": 11,
+   "heading": "Artigo 204.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 204.º — Revisão\n\nO PUC deverá ser revisto antes de decorrido o prazo de 10 anos, nos termos do artigo 19.º do Decreto-Lei n.º 69/90, de 2 de Março."
+  },
+  "200678727": {
+   "fragment_id": "200678791",
+   "type": 11,
+   "heading": "Artigo 205.º — Informação pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 205.º — Informação pública\n\nO município de Viana do Castelo manterá sempre em condições de poder ser consultado pelos interessados, dentro das horas normais de funcionamento dos seus serviços, o Regulamento do PUC com a cartografia e restantes elementos que dele fazem parte."
+  },
+  "200678728": {
+   "fragment_id": "200678792",
+   "type": 11,
+   "heading": "Artigo 206.º — Alterações à legislação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 206.º — Alterações à legislação\n\n1 - Quando se verificarem alterações à legislação em vigor referida neste Regulamento, as remissões expressas que aqui para ela se fazem consideram-se automaticamente transferidas para as correspondentes disposições dos diplomas que a substituírem ou complementarem.\n\n2 - Os condicionamentos impostos pelas remissões referidas no número anterior deixarão de ter efeito se as disposições legais para que remetem forem revogadas, sem que seja promulgada legislação substitutiva."
+  },
+  "200678729": {
+   "fragment_id": "200678793",
+   "type": 11,
+   "heading": "Artigo 207.º — Regulamentação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 207.º — Regulamentação complementar\n\n1 - O município de Viana do Castelo poderá estabelecer regulamentação complementar do PUC, destinada a regular especificamente o exercício de determinados tipos de acções no território concelhio, desde que sejam cumpridas todas as disposições legais e regulamentares em vigor.\n\n2 - A regulamentação municipal será mantida em vigor em tudo o que não contrariar o presente Regulamento."
+  },
+  "200678730": {
+   "fragment_id": "200678794",
+   "type": 11,
+   "heading": "Artigo 208.º — Ajustamento de limites entre categorias de espaços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 208.º — Ajustamento de limites entre categorias de espaços\n\nNos casos em que o limite entre categorias de espaços ofereça dúvidas, compete à Câmara Municipal a sua definição, desde que não estejam em causa servidões, designadamente RAN e REN, devendo nestes casos a decisão da Câmara Municipal ser precedida de parecer vinculativo das entidades competentes."
+  },
+  "200678731": {
+   "fragment_id": "200678795",
+   "type": 1,
+   "heading": "Capítulo XIII — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIII — Definições"
+  },
+  "200678732": {
+   "fragment_id": "200678796",
+   "type": 11,
+   "heading": "Artigo 209.º — Índice de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 209.º — Índice de construção\n\nÉ o quociente entre a área bruta de pavimentos cobertos (Ap) excluindo as caves, sem prejuízo do disposto no artigo 21.º, e a superfície do terreno que serve de base à operação (St):\n\nic =< (Ap/St)"
+  },
+  "200678733": {
+   "fragment_id": "200678797",
+   "type": 11,
+   "heading": "Artigo 210.º — Índice volumétrico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 210.º — Índice volumétrico\n\nÉ o quociente entre o volume bruto de construção (V), excluindo as caves, sem prejuízo do disposto no artigo 21.º, e a superfície do terreno que serve de base à operação (St).\n\niv =< (V/St)"
+  },
+  "200678734": {
+   "fragment_id": "200678798",
+   "type": 11,
+   "heading": "Artigo 211.º — Cálculo de St",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 211.º — Cálculo de St\n\nPara determinação do valor de St deve atender-se ao seguinte:\n\na) Deverá apenas ser considerada a área da propriedade inserida na categoria de espaço sobre a qual incide a acção ou intervenção;\n\nb) A esta área devem somar-se as áreas públicas adjacentes infra-estruturadas pelo interessado, nomeadamente as das vias;\n\nc) Poderão ainda somar-se as áreas adjacentes doadas pelo interessado para a instalação de equipamentos públicos ou realização de infra-estruturas, desde que sejam respeitados os parâmetros urbanísticos definidos para a respectiva categoria de espaços e a pretensão justificada com estudo de enquadramento."
+  },
+  "200678735": {
+   "fragment_id": "200678799",
+   "type": 11,
+   "heading": "Artigo 212.º — Altura de um edifício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 212.º — Altura de um edifício\n\nÉ a diferença entre a cota mais alta do edifício referenciada ao beirado, cornija ou capeamento das guardas do terraço, conforme o caso, e a cota da via pública na zona fronteira ao seu acesso principal."
+  },
+  "200678736": {
+   "fragment_id": "200678800",
+   "type": 11,
+   "heading": "Artigo 213.º — Profundidade de um edifício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 213.º — Profundidade de um edifício\n\nÉ a distância compreendida entre o plano da fachada principal ou anterior e o plano da fachada de tardoz ou posterior, considerada acima do nível do solo."
+  },
+  "200678737": {
+   "fragment_id": "200678801",
+   "type": 11,
+   "heading": "Artigo 214.º — Caves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 214.º — Caves\n\nConsideram-se caves os pavimentos de um edifício situados abaixo da cota de soleira de referência e em que o volume de construção enterrada seja igual ou superior a 60%."
+  },
+  "200678738": {
+   "fragment_id": "200678802",
+   "type": 11,
+   "heading": "Artigo 215.º — Sótãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 215.º — Sótãos\n\nSão as áreas de um edifício localizadas entre a placa de tecto do último piso e o telhado."
+  },
+  "200678739": {
+   "fragment_id": "200678803",
+   "type": 11,
+   "heading": "Artigo 216.º — Cota de soleira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 216.º — Cota de soleira\n\nÉ a cota que define a altimetria da entrada principal de um edifício relativamente à via pública."
+  },
+  "200678740": {
+   "fragment_id": "200678804",
+   "type": 11,
+   "heading": "Artigo 217.º — Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 217.º — Anexos\n\nSão construções de pequenas dimensões, com uma utilização complementar da edificação principal e que se localizam na mesma propriedade e lote."
+  },
+  "200678741": {
+   "fragment_id": "200678805",
+   "type": 11,
+   "heading": "Artigo 218.º — Logradouros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 218.º — Logradouros\n\nSão os espaços descobertos pertencentes à propriedade ou lote e envolventes às construções."
+  },
+  "200678742": {
+   "fragment_id": "200678806",
+   "type": 11,
+   "heading": "Artigo 219.º — Estudo de enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 219.º — Estudo de enquadramento\n\n1 - Entende-se por estudo de enquadramento o conjunto de elementos que permitem avaliar o impacte e justifiquem a adequabilidade de determinada pretensão com o meio envolvente e garantam a qualidade das intervenções nos termos do disposto no artigo 6.º\n\n2 - Os elementos referidos no número anterior deverão ter em conta a natureza e especificidade da pretensão e do local e deverão conter as peças escritas, desenhadas e outras que se julguem relevantes para a sua compreensão, designadamente as relativas à modelação do terreno, ao derrube e plantação de árvores e à execução de infra-estruturas.\n\n3 - Os elementos referidos nos números anteriores, e particularmente quando os estudos de enquadramento incidam em áreas urbanas, deverão conter a definição dos princípios gerais de ocupação do solo, os alinhamentos, a volumetria dos edifícios, a rede viária, o arranjo dos espaços livres e a execução de infra-estruturas, mediante a apresentação de plantas, alçados e cortes às escalas convenientes, e perspectivas, axonometrias ou fotografias da maquete.\n\n4 - Os elementos referidos nos números anteriores deste artigo deverão abranger a zona de intervenção e uma área envolvente que permita avaliar o impacte e adequabilidade da pretensão.\n\n5 - Para avaliação da adequabilidade da pretensão poderá ser exigida ainda a apresentação dos seguintes elementos:\n\na) Levantamento cadastral;\n\nb) Documento subscrito por todos os proprietários dos prédios abrangidos pelo estudo, com assinaturas devidamente reconhecidas, no qual manifestem a sua concordância com as propostas nele contidas.\n\n6 - Aquando dos pedidos de informação prévia, deverão os serviços camarários competentes informar os requerentes da necessidade ou não de apresentação de estudo de enquadramento, indicando quais os elementos que o devem compor."
+  },
+  "200678743": {
+   "fragment_id": "200678807",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver anexo no documento original)"
+  }
+ }
+}

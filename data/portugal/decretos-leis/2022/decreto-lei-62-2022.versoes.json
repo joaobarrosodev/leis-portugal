@@ -1,0 +1,347 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:201450531:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2022-911487733",
+ "dre_path": "/dr/detalhe/decreto-lei/62-2022-201450531",
+ "source_lastmod": "2025-03-18",
+ "versions": [
+  {
+   "date": "2022-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "911492935",
+    "911492936",
+    "911492937",
+    "911492938",
+    "911492939",
+    "911492940",
+    "911492941",
+    "911492942",
+    "911492943",
+    "911492944",
+    "911492945",
+    "911492946",
+    "911492947",
+    "911492948",
+    "911492949",
+    "911492950",
+    "911492952"
+   ]
+  },
+  {
+   "date": "2025-03-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:911312181:por",
+     "title": "Decreto-Lei n.º 15-A/2025",
+     "published": "2025-03-17",
+     "dre_path": "/dr/detalhe/decreto-lei/15-a-2025-911312181"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "911492935",
+    "911492953",
+    "911492937",
+    "911492938",
+    "911492956",
+    "911492957",
+    "911492958",
+    "911492959",
+    "911492960",
+    "911492961",
+    "911492962",
+    "911492963",
+    "911492964",
+    "911492965",
+    "911492966",
+    "911492967",
+    "911492968",
+    "911492969",
+    "911492970"
+   ]
+  }
+ ],
+ "fragments": {
+  "911492935": {
+   "fragment_id": "911487734",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 62/2022\n\nde 26 de setembro\n\nSumário: Constitui o Empreendimento de Aproveitamento Hidráulico de Fins Múltiplos do Crato e adota medidas excecionais para a concretização do mesmo.\n\nO Empreendimento de Aproveitamento Hidráulico de Fins Múltiplos do Crato (EAHFMC) foi inicialmente previsto num estudo no âmbito do Plano de Valorização do Alentejo, elaborado em 1957 pela Direção-Geral dos Serviços Hidráulicos, e que indicava já a necessidade de construção de uma barragem próxima do Crato, no lugar do Pisão. Posteriormente, os estudos desenvolvidos entre a década de 60 e o início dos anos 80 do século xx conduziram a diversas reformulações do projeto, considerando também a criação de uma nova área de regadio. A partir deste cenário de base, procedeu-se à elaboração do Estudo de Viabilidade Ambiental e Económica (2000-2001), no qual foram analisadas 10 alternativas em que variava a área a beneficiar, o local da barragem e o respetivo Nível de Pleno Armazenamento, assim como o tipo de adução e distribuição, tendo também sido estudada a possibilidade de fornecimento de água em alta e em baixa pressão para todas as alternativas. Este estudo conduziu à elaboração do Projeto de Execução da alternativa mais viável, correspondente ao EAHFMC.\n\nEm 2007, pelo Despacho n.º 9917/2007, publicado no Diário da República, 2.ª série, n.º 103, de 29 de maio de 2007, o Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional determinou a retoma dos «estudos preliminares necessários para avaliar a viabilidade da barragem do Crato».\n\nEm 2016, pela Resolução da Assembleia da República n.º 191/2016, de 8 de agosto, a Barragem do Pisão foi considerada obra prioritária por todos os grupos parlamentares, que aprovaram por unanimidade recomendar a inclusão do projeto nas prioridades de investimento do regadio, no Programa Nacional de Regadios e no Programa Nacional para a Coesão Territorial, tendo em conta a sua importância para o desenvolvimento do distrito de Portalegre.\n\nJá em 2019, pelo Despacho n.º 5581-A/2019, publicado no Diário da República, 2.ª série, n.º 110, suplemento, de 7 de junho de 2019, é declarada a sustentabilidade técnica e a viabilidade financeira do EAHFMC. Mais recentemente, em 2021, o Governo integrou este projeto no Plano de Recuperação e Resiliência (PRR), na componente 9 - Gestão Hídrica, correspondendo ao investimento RE-C09-i02 num montante total de 120 milhões de euros, que permite financiar a construção da barragem, a construção da mini-hídrica, o sistema de reforço de afluências da barragem, o sistema de reforço de abastecimento da barragem de Póvoa e Meadas a partir da barragem do Pisão, e as infraestruturas de irrigação para apoiar as áreas agrícolas existentes.\n\nO referido investimento RE-C09-i02 prevê ainda a construção de uma central fotovoltaica/solar térmica através do recurso a outras fontes de financiamento que não incluem o PRR ou o Orçamento do Estado.\n\nA necessidade de uma solução integrada capaz de garantir, de forma sustentada, o abastecimento público de água e o desenvolvimento económico na região do Alto Alentejo, já há muito foi identificada.\n\nExiste a necessidade imperativa de uma solução capaz de garantir a resiliência do abastecimento público de água às populações da região, para os consumos atuais e futuros, mesmo em períodos de seca prolongada. Ao mesmo tempo, o EAHFMC sempre foi apontado como fundamental para estimular o desenvolvimento económico e sustentável da área de influência do empreendimento. Adicionalmente ao aumento da resiliência hídrica e ao estímulo ao crescimento económico da área de influência do empreendimento, este investimento terá um importante contributo para a transição energética, mediante a utilização de fontes de energia renováveis que contribuam para a descarbonização e neutralidade climática através da transição energética.\n\nO EAHFMC contribuirá ainda para os objetivos do próximo ciclo do Plano de Gestão da Região Hidrográfica do Tejo e Ribeiras do Oeste (RH5), tendo também efeitos muito positivos na transição climática e na descarbonização, em alinhamento com o Plano Nacional de Energia e Clima (PNEC 2030) e o Roteiro para a Neutralidade Carbónica (RNC 2050).\n\nTodas as ribeiras afluentes e escoamentos estão exclusivamente localizados em território nacional, pelo que a criação desta reserva estratégica de água reforçará a autonomia de Portugal nesta matéria. O projeto tem em consideração o compromisso com o princípio do «Do No Significant Harm» assumido pelo Estado Português, em relação aos objetivos ambientais estabelecidos no artigo 9.º do Regulamento (UE) 2020/852, do Parlamento Europeu e do Conselho, de 18 de junho de 2020.\n\nEste projeto-âncora para a recuperação e resiliência económica da região do Alto Alentejo está previsto no Programa de Valorização do Interior e reúne o consenso dos 15 municípios que integram a Comunidade Intermunicipal do Alto Alentejo, entidade responsável pela execução do investimento do Plano de Recuperação e Resiliência e pela construção do Empreendimento.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "911492936": {
+   "fragment_id": "911487735",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei constitui o Empreendimento de Aproveitamento Hidráulico de Fins Múltiplos do Crato (EAHFMC).\n\n2 - Através do presente decreto-lei procede-se ainda à:\n\na) Classificação do EAHFMC como empreendimento de interesse público nacional;\n\nb) Delimitação da área de intervenção do EAHFMC e das suas componentes e infraestruturas;\n\nc) Adoção de medidas especiais necessárias para a concretização do mesmo no prazo de vigência do Plano de Recuperação e Resiliência (PRR)."
+  },
+  "911492937": {
+   "fragment_id": "911487736",
+   "type": 11,
+   "heading": "Artigo 2.º — Classificação de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Classificação de interesse público\n\nPara todos os efeitos legais, o EAHFMC é considerado um empreendimento de interesse público nacional."
+  },
+  "911492938": {
+   "fragment_id": "911487737",
+   "type": 11,
+   "heading": "Artigo 3.º — Área de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Área de intervenção\n\n1 - A área de intervenção do EAHFMC corresponde à que se encontra delimitada na planta que consta do anexo ao presente decreto-lei e do qual faz parte integrante.\n\n2 - O empreendimento é composto pelas seguintes componentes:\n\na) Barragem do Pisão;\n\nb) Infraestruturas hidroagrícolas, contemplando a Estação Elevatória, reservatórios, redes primárias de adução e secundárias de distribuição para rega e respetivas áreas beneficiadas;\n\nc) Beneficiação de acessos à área agrícola;\n\nd) Central mini-hídrica;\n\ne) Reforço de abastecimento da barragem de Póvoa e Meadas a partir da Barragem do Pisão;\n\nf) Central fotovoltaica;\n\ng) Parque verde.\n\n3 - O empreendimento pode ser utilizado para a captação de água para consumo humano, regadio e produção de energia elétrica, mediante o recurso a fontes de energia renováveis."
+  },
+  "911492939": {
+   "fragment_id": "911487738",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão, exploração, manutenção e conservação das infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão, exploração, manutenção e conservação das infraestruturas\n\n1 - A gestão, exploração, manutenção e conservação das infraestruturas que constituam partes comuns às várias utilizações dos recursos hídricos do EAHFMC, bem como a elaboração do respetivo regime económico e financeiro compete à Comunidade Intermunicipal do Alto Alentejo (CIMAA).\n\n2 - A CIMAA pode transferir os direitos, prerrogativas e obrigações, para uma pessoa coletiva a constituir, nos termos do disposto nos n.os 3 e 4 do artigo 4.º do Decreto-Lei n.º 311/2007, de 17 de setembro.\n\n3 - Nos termos do disposto no n.º 7 do artigo 4.º do Decreto-Lei n.º 311/2007, de 17 de setembro, a gestão, exploração, manutenção e conservação das infraestruturas hidroagrícolas integrantes do EAHFMC é assegurada pela Autoridade Nacional do Regadio, sendo aplicável o disposto no regime jurídico das obras de aproveitamento hidroagrícola, previsto no Decreto-Lei n.º 269/82, de 10 de julho, na sua redação atual."
+  },
+  "911492940": {
+   "fragment_id": "911487739",
+   "type": 11,
+   "heading": "Artigo 5.º — Expropriações por utilidade pública e constituição de servidões administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Expropriações por utilidade pública e constituição de servidões administrativas\n\nA condução e a realização dos processos expropriativos dos imóveis ou direitos a eles relativos necessários à execução do empreendimento, designadamente o pagamento de indemnizações ou outras compensações devidas pelas expropriações ou imposição de servidões ou ónus delas derivados é da responsabilidade da CIMAA."
+  },
+  "911492941": {
+   "fragment_id": "911487740",
+   "type": 11,
+   "heading": "Artigo 6.º — Realojamento da população residente na aldeia do Pisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Realojamento da população residente na aldeia do Pisão\n\n1 - Todos os habitantes da aldeia do Pisão cuja habitação venha a ser afetada pela concretização do EAHFMC têm direito a ser realojados.\n\n2 - Os prédios urbanos que forem cedidos a título de indemnização, nos termos do disposto no Código das Expropriações, aprovado em anexo à Lei n.º 168/99, de 18 de setembro, na sua redação atual, localizam-se, preferencialmente, junto do lugar do Monte da Velha, sito na união das freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso, por forma a salvaguardar a proximidade do lugar onde anteriormente residiam.\n\n3 - Os direitos, ónus, encargos ou responsabilidade que incidam sobre os imóveis situados na aldeia do Pisão, são transferidos para os bens que ficarem sub-rogados no seu lugar, aplicando-se aos cancelamentos e novos registos e inscrições matriciais o disposto no artigo seguinte."
+  },
+  "911492942": {
+   "fragment_id": "911487741",
+   "type": 11,
+   "heading": "Artigo 7.º — Regularização da situação de bens e direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regularização da situação de bens e direitos\n\nTodos os atos necessários à regularização da situação dos bens ou direitos a expropriar ou expropriados, nomeadamente em termos cadastrais, registais ou matriciais, são praticados oficiosamente pelos serviços competentes, mediante simples comunicação efetuada pela entidade gestora."
+  },
+  "911492943": {
+   "fragment_id": "911487742",
+   "type": 11,
+   "heading": "Artigo 8.º — Isenção de controlo prévio de operações urbanísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Isenção de controlo prévio de operações urbanísticas\n\n1 - Encontram-se isentas do controlo prévio das operações urbanísticas previsto no regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, as seguintes operações no âmbito do EAHFMC:\n\na) Obras de edificação;\n\nb) Obras de demolição;\n\nc) Remodelação de terrenos\n\nd) Obras de desmontagem de edificações;\n\ne) Construções de equipamentos.\n\n2 - O regime previsto no número anterior é aplicável a quaisquer obras, edifícios, instalações ou equipamentos existentes, ainda que se encontrem irregulares.\n\n3 - A execução das operações urbanísticas previstas nos números anteriores, com exceção das promovidas pelos municípios ou associações de municípios, ficam sujeitas a parecer prévio não vinculativo da câmara municipal competente, que é emitido no prazo de 10 dias a contar da data da receção do respetivo pedido, findo o qual, na ausência de pronúncia, é considerado deferido.\n\n4 - Os fornecedores de energia, designadamente elétrica, de água e saneamento, gás e comunicações, efetuam os cortes e as ligações de abastecimento nas datas que para o efeito lhes forem comunicadas pela entidade gestora do EAHFMC."
+  },
+  "911492944": {
+   "fragment_id": "911487743",
+   "type": 11,
+   "heading": "Artigo 9.º — Reserva Ecológica Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reserva Ecológica Nacional\n\nPara efeitos do disposto no n.º 1 do artigo 21.º do Decreto-Lei n.º 166/2008, de 22 de agosto, na sua redação atual, são consideradas ações de relevante interesse público e autorizadas todas as ações e projetos relacionados com a execução do EAHFMC, que impliquem a utilização de solos integrados na Reserva Ecológica Nacional, respeitantes:\n\na) A infraestruturas ou obras hidráulicas;\n\nb) A infraestruturas relativas à produção de energia a partir de fontes renováveis;\n\nc) A infraestruturas de abastecimento de água;\n\nd) A infraestruturas de comunicações;\n\ne) A vias de comunicação e acessos;\n\nf) A construção de edifícios;\n\ng) A construção de canais, aterros e escavações."
+  },
+  "911492945": {
+   "fragment_id": "911487744",
+   "type": 11,
+   "heading": "Artigo 10.º — Reserva Agrícola Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reserva Agrícola Nacional\n\n1 - Para efeitos do disposto no n.º 1 do artigo 25.º do Decreto-Lei n.º 73/2009, de 31 de março, na sua redação atual, são consideradas ações de relevante interesse público e autorizadas as utilizações não agrícolas de áreas integradas na Reserva Agrícola Nacional (RAN) necessárias à realização e concretização do EAHFMC, nomeadamente as ações previstas no n.º 1 do artigo anterior.\n\n2 - Quando a utilização não agrícola de áreas integradas na RAN esteja sujeita a procedimento de avaliação de impacte ambiental em fase de projeto de execução, o parecer prévio vinculativo previsto no n.º 1 do artigo 23.º do Decreto-Lei n.º 73/2009, de 31 de março, na sua redação atual, pode ser substituído pela pronúncia obrigatória da entidade regional da RAN no âmbito desse procedimento."
+  },
+  "911492946": {
+   "fragment_id": "911487745",
+   "type": 11,
+   "heading": "Artigo 11.º — Derrube de árvores em maciço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Derrube de árvores em maciço\n\nFica autorizado, na área do EAHFMC, o derrube de árvores em maciço ou desmatação para a realização de obras com fins não habitacionais, designadamente infraestruturas, redes e equipamentos, necessários à concretização do EAHFMC, sem prejuízo do disposto no artigo seguinte."
+  },
+  "911492947": {
+   "fragment_id": "911487746",
+   "type": 11,
+   "heading": "Artigo 12.º — Proteção do sobreiro e da azinheira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Proteção do sobreiro e da azinheira\n\nPara efeitos do disposto na alínea a) do artigo 2.º do Decreto-Lei n.º 169/2001, de 25 de maio, na sua redação atual, é declarada a imprescindível utilidade pública do EAHFMC, ficando autorizado o corte ou arranque de sobreiros e azinheiras, em povoamentos ou isolados, limitado ao número de exemplares identificado por despacho do membro do Governo responsável pela área do ambiente, sob proposta do Instituto da Conservação da Natureza e das Florestas, I. P., e mediante a apresentação de um plano de compensação das Quercíneas, nos termos previstos na Declaração de Impacte Ambiental."
+  },
+  "911492948": {
+   "fragment_id": "911487747",
+   "type": 11,
+   "heading": "Artigo 13.º — Proteção da oliveira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Proteção da oliveira\n\n1 - Fica autorizado o arranque de oliveiras na área do EAHFMC, limitado ao número de exemplares que vierem a ser reconhecidos por despacho do membro do Governo responsável pela área da agricultura, sob proposta da Direção Regional de Agricultura e Pescas do Alentejo (DRAP Alentejo).\n\n2 - Para o efeito previsto no número anterior a entidade gestora do empreendimento submete a aprovação prévia da DRAP Alentejo, um plano de arranque de oliveiras, que possibilite a respetiva transplantação das árvores noutros locais, de modo a proteger, salvaguardar e valorizar os exemplares existentes."
+  },
+  "911492949": {
+   "fragment_id": "911487748",
+   "type": 11,
+   "heading": "Artigo 14.º — Medidas preventivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas preventivas\n\n1 - Ao abrigo do disposto no n.º 8 do artigo 134.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual, tendo em vista salvaguardar a execução do EAHFMC, são proibidas, na sua área:\n\na) As operações de loteamento;\n\nb) As obras de urbanização;\n\nc) A construção, a ampliação, a alteração, a reconstrução e a demolição de edificações.\n\n2 - O disposto no número anterior não abrange as operações isentas de controlo administrativo prévio, incluindo por força do presente decreto-lei, e as necessárias à execução do EAHFMC.\n\n3 - As medidas preventivas previstas no presente artigo vigoram pelo prazo de dois anos, sem prejuízo da cessação da sua vigência em momento anterior, nas situações previstas no n.º 3 do artigo 141.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual."
+  },
+  "911492950": {
+   "fragment_id": "911487749",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2026."
+  },
+  "911492952": {
+   "fragment_id": "911487751",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\nÁrea de Intervenção do Empreendimento de Aproveitamento Hidráulico de Fins Múltiplos do Crato\n\nEmpreendimento de Aproveitamento Hídrico de Fins Múltiplos do Crato - Barragem do Pisão\n\n(ver documento original)\n\n115713574"
+  },
+  "911492953": {
+   "fragment_id": "911487735",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15-A/2025 - Diário da República n.º 53/2025, Suplemento, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-2025-911312181), em vigor a partir de 2025-03-18"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei constitui o Empreendimento de Aproveitamento Hidráulico de Fins Múltiplos do Crato (EAHFMC).\n\n2 - Através do presente decreto-lei procede-se ainda à:\n\na) Classificação do EAHFMC como empreendimento de interesse público nacional;\n\nb) Delimitação da área de intervenção do EAHFMC e das suas componentes e infraestruturas;\n\nc) Adoção de medidas especiais para a concretização do EAHFMC.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15-A/2025 - Diário da República n.º 53/2025, Suplemento, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-2025-911312181), em vigor a partir de 2025-03-18"
+  },
+  "911492956": {
+   "fragment_id": "911487752",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Financiamento e regime de execução",
+   "in_force_from": "2025-03-18",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15-A/2025 - Diário da República n.º 53/2025, Suplemento, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-2025-911312181), em vigor a partir de 2025-03-18"
+   ],
+   "markdown": "###### Artigo 3.º-A — Financiamento e regime de execução\n\n1 - Os encargos financeiros decorrentes da construção do EAHFMC são assegurados pelo Orçamento do Estado ou através de outras fontes de financiamento, sempre que possível, por fundos europeus, ou por recurso a empréstimos contraídos pela República Portuguesa junto do Banco Europeu de Investimento.\n\n2 - Caso seja atribuído financiamento com origem em fundos europeus, o financiamento com recurso a verbas do Orçamento do Estado é reduzido na respetiva proporção.\n\n3 - Para a concretização do EAHFMC é aplicável o regime estabelecido para os investimentos incluídos no Plano de Recuperação e Resiliência, nomeadamente o modelo de governação previsto no Decreto-Lei n.º 29-B/2021, de 4 de maio, na sua redação atual, e o regime excecional de execução orçamental e de simplificação de procedimentos no âmbito do Plano de Recuperação e Resiliência, estabelecido no Decreto-Lei n.º 53-B/2021, de 23 de junho, na sua redação atual, bem como as medidas especiais de contratação pública aprovadas pela Lei n.º 30/2021, de 21 de maio, na sua redação atual.\n\n4 - Caso seja recebido financiamento de fundos europeus a título de empréstimo, será aplicável o regime estabelecido na Portaria n.º 193/2021, de 15 de setembro, na sua redação atual, considerando-se atribuídos a título de subvenção não reembolsável.\n\n5 - O IVA suportado no âmbito da execução do EAHFMC é reembolsado nos termos do artigo 16.º do Decreto-Lei n.º 53-B/2021, de 23 de junho, na sua redação atual, e da Portaria n.º 135/2022, de 1 de abril, na sua redação atual.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15-A/2025 - Diário da República n.º 53/2025, Suplemento, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-2025-911312181), em vigor a partir de 2025-03-18"
+  },
+  "911492957": {
+   "fragment_id": "911487738",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão, exploração, manutenção e conservação das infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão, exploração, manutenção e conservação das infraestruturas\n\n1 - A gestão, exploração, manutenção e conservação das infraestruturas que constituam partes comuns às várias utilizações dos recursos hídricos do EAHFMC, bem como a elaboração do respetivo regime económico e financeiro compete à Comunidade Intermunicipal do Alto Alentejo (CIMAA).\n\n2 - A CIMAA pode transferir os direitos, prerrogativas e obrigações, para uma pessoa coletiva a constituir, nos termos do disposto nos n.os 3 e 4 do artigo 4.º do Decreto-Lei n.º 311/2007, de 17 de setembro.\n\n3 - Nos termos do disposto no n.º 7 do artigo 4.º do Decreto-Lei n.º 311/2007, de 17 de setembro, a gestão, exploração, manutenção e conservação das infraestruturas hidroagrícolas integrantes do EAHFMC é assegurada pela Autoridade Nacional do Regadio, sendo aplicável o disposto no regime jurídico das obras de aproveitamento hidroagrícola, previsto no Decreto-Lei n.º 269/82, de 10 de julho, na sua redação atual."
+  },
+  "911492958": {
+   "fragment_id": "911487739",
+   "type": 11,
+   "heading": "Artigo 5.º — Expropriações por utilidade pública e constituição de servidões administrativas",
+   "in_force_from": "2025-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15-A/2025 - Diário da República n.º 53/2025, Suplemento, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-2025-911312181), em vigor a partir de 2025-03-18"
+   ],
+   "markdown": "###### Artigo 5.º — Expropriações por utilidade pública e constituição de servidões administrativas\n\n1 - Às expropriações efetuadas por causa, direta ou indireta, da execução do EAHFMC são aplicáveis as disposições da legislação nacional em vigor.\n\n2 - A CIMAA é responsável pela condução e pela realização dos processos expropriativos dos imóveis, ou direitos a eles relativos, necessários à execução do EAHFMC, designadamente o pagamento de indemnizações ou outras compensações devidas pelas expropriações ou imposição de servidões ou ónus delas derivados, em conformidade com o presente decreto-lei e com o Código das Expropriações, sem prejuízo das competências próprias do Governo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15-A/2025 - Diário da República n.º 53/2025, Suplemento, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-2025-911312181), em vigor a partir de 2025-03-18"
+  },
+  "911492959": {
+   "fragment_id": "911487740",
+   "type": 11,
+   "heading": "Artigo 6.º — Realojamento da população residente na aldeia do Pisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Realojamento da população residente na aldeia do Pisão\n\n1 - Todos os habitantes da aldeia do Pisão cuja habitação venha a ser afetada pela concretização do EAHFMC têm direito a ser realojados.\n\n2 - Os prédios urbanos que forem cedidos a título de indemnização, nos termos do disposto no Código das Expropriações, aprovado em anexo à Lei n.º 168/99, de 18 de setembro, na sua redação atual, localizam-se, preferencialmente, junto do lugar do Monte da Velha, sito na união das freguesias de Crato e Mártires, Flor da Rosa e Vale do Peso, por forma a salvaguardar a proximidade do lugar onde anteriormente residiam.\n\n3 - Os direitos, ónus, encargos ou responsabilidade que incidam sobre os imóveis situados na aldeia do Pisão, são transferidos para os bens que ficarem sub-rogados no seu lugar, aplicando-se aos cancelamentos e novos registos e inscrições matriciais o disposto no artigo seguinte."
+  },
+  "911492960": {
+   "fragment_id": "911487741",
+   "type": 11,
+   "heading": "Artigo 7.º — Regularização da situação de bens e direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regularização da situação de bens e direitos\n\nTodos os atos necessários à regularização da situação dos bens ou direitos a expropriar ou expropriados, nomeadamente em termos cadastrais, registais ou matriciais, são praticados oficiosamente pelos serviços competentes, mediante simples comunicação efetuada pela entidade gestora."
+  },
+  "911492961": {
+   "fragment_id": "911487742",
+   "type": 11,
+   "heading": "Artigo 8.º — Isenção de controlo prévio de operações urbanísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Isenção de controlo prévio de operações urbanísticas\n\n1 - Encontram-se isentas do controlo prévio das operações urbanísticas previsto no regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, na sua redação atual, as seguintes operações no âmbito do EAHFMC:\n\na) Obras de edificação;\n\nb) Obras de demolição;\n\nc) Remodelação de terrenos\n\nd) Obras de desmontagem de edificações;\n\ne) Construções de equipamentos.\n\n2 - O regime previsto no número anterior é aplicável a quaisquer obras, edifícios, instalações ou equipamentos existentes, ainda que se encontrem irregulares.\n\n3 - A execução das operações urbanísticas previstas nos números anteriores, com exceção das promovidas pelos municípios ou associações de municípios, ficam sujeitas a parecer prévio não vinculativo da câmara municipal competente, que é emitido no prazo de 10 dias a contar da data da receção do respetivo pedido, findo o qual, na ausência de pronúncia, é considerado deferido.\n\n4 - Os fornecedores de energia, designadamente elétrica, de água e saneamento, gás e comunicações, efetuam os cortes e as ligações de abastecimento nas datas que para o efeito lhes forem comunicadas pela entidade gestora do EAHFMC."
+  },
+  "911492962": {
+   "fragment_id": "911487743",
+   "type": 11,
+   "heading": "Artigo 9.º — Reserva Ecológica Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reserva Ecológica Nacional\n\nPara efeitos do disposto no n.º 1 do artigo 21.º do Decreto-Lei n.º 166/2008, de 22 de agosto, na sua redação atual, são consideradas ações de relevante interesse público e autorizadas todas as ações e projetos relacionados com a execução do EAHFMC, que impliquem a utilização de solos integrados na Reserva Ecológica Nacional, respeitantes:\n\na) A infraestruturas ou obras hidráulicas;\n\nb) A infraestruturas relativas à produção de energia a partir de fontes renováveis;\n\nc) A infraestruturas de abastecimento de água;\n\nd) A infraestruturas de comunicações;\n\ne) A vias de comunicação e acessos;\n\nf) A construção de edifícios;\n\ng) A construção de canais, aterros e escavações."
+  },
+  "911492963": {
+   "fragment_id": "911487744",
+   "type": 11,
+   "heading": "Artigo 10.º — Reserva Agrícola Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reserva Agrícola Nacional\n\n1 - Para efeitos do disposto no n.º 1 do artigo 25.º do Decreto-Lei n.º 73/2009, de 31 de março, na sua redação atual, são consideradas ações de relevante interesse público e autorizadas as utilizações não agrícolas de áreas integradas na Reserva Agrícola Nacional (RAN) necessárias à realização e concretização do EAHFMC, nomeadamente as ações previstas no n.º 1 do artigo anterior.\n\n2 - Quando a utilização não agrícola de áreas integradas na RAN esteja sujeita a procedimento de avaliação de impacte ambiental em fase de projeto de execução, o parecer prévio vinculativo previsto no n.º 1 do artigo 23.º do Decreto-Lei n.º 73/2009, de 31 de março, na sua redação atual, pode ser substituído pela pronúncia obrigatória da entidade regional da RAN no âmbito desse procedimento."
+  },
+  "911492964": {
+   "fragment_id": "911487745",
+   "type": 11,
+   "heading": "Artigo 11.º — Derrube de árvores em maciço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Derrube de árvores em maciço\n\nFica autorizado, na área do EAHFMC, o derrube de árvores em maciço ou desmatação para a realização de obras com fins não habitacionais, designadamente infraestruturas, redes e equipamentos, necessários à concretização do EAHFMC, sem prejuízo do disposto no artigo seguinte."
+  },
+  "911492965": {
+   "fragment_id": "911487746",
+   "type": 11,
+   "heading": "Artigo 12.º — Proteção do sobreiro e da azinheira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Proteção do sobreiro e da azinheira\n\nPara efeitos do disposto na alínea a) do artigo 2.º do Decreto-Lei n.º 169/2001, de 25 de maio, na sua redação atual, é declarada a imprescindível utilidade pública do EAHFMC, ficando autorizado o corte ou arranque de sobreiros e azinheiras, em povoamentos ou isolados, limitado ao número de exemplares identificado por despacho do membro do Governo responsável pela área do ambiente, sob proposta do Instituto da Conservação da Natureza e das Florestas, I. P., e mediante a apresentação de um plano de compensação das Quercíneas, nos termos previstos na Declaração de Impacte Ambiental."
+  },
+  "911492966": {
+   "fragment_id": "911487747",
+   "type": 11,
+   "heading": "Artigo 13.º — Proteção da oliveira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Proteção da oliveira\n\n1 - Fica autorizado o arranque de oliveiras na área do EAHFMC, limitado ao número de exemplares que vierem a ser reconhecidos por despacho do membro do Governo responsável pela área da agricultura, sob proposta da Direção Regional de Agricultura e Pescas do Alentejo (DRAP Alentejo).\n\n2 - Para o efeito previsto no número anterior a entidade gestora do empreendimento submete a aprovação prévia da DRAP Alentejo, um plano de arranque de oliveiras, que possibilite a respetiva transplantação das árvores noutros locais, de modo a proteger, salvaguardar e valorizar os exemplares existentes."
+  },
+  "911492967": {
+   "fragment_id": "911487748",
+   "type": 11,
+   "heading": "Artigo 14.º — Medidas preventivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Medidas preventivas\n\n1 - Ao abrigo do disposto no n.º 8 do artigo 134.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual, tendo em vista salvaguardar a execução do EAHFMC, são proibidas, na sua área:\n\na) As operações de loteamento;\n\nb) As obras de urbanização;\n\nc) A construção, a ampliação, a alteração, a reconstrução e a demolição de edificações.\n\n2 - O disposto no número anterior não abrange as operações isentas de controlo administrativo prévio, incluindo por força do presente decreto-lei, e as necessárias à execução do EAHFMC.\n\n3 - As medidas preventivas previstas no presente artigo vigoram pelo prazo de dois anos, sem prejuízo da cessação da sua vigência em momento anterior, nas situações previstas no n.º 3 do artigo 141.º do Decreto-Lei n.º 80/2015, de 14 de maio, na sua redação atual."
+  },
+  "911492968": {
+   "fragment_id": "911487749",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": "2025-03-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15-A/2025 - Diário da República n.º 53/2025, Suplemento, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-2025-911312181), em vigor a partir de 2025-03-18"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15-A/2025 - Diário da República n.º 53/2025, Suplemento, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-a-2025-911312181), em vigor a partir de 2025-03-18"
+  },
+  "911492969": {
+   "fragment_id": "911487750",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de setembro de 2022. - Mariana Guimarães Vieira da Silva - Mariana Guimarães Vieira da Silva - António José da Costa Silva - José Duarte Piteira Rica Silvestre Cordeiro - Hugo Santos Mendes - Isabel Cristina Fernandes Rodrigues Ferreira - Rui Manuel Costa Martinho.\n\nPromulgado em 20 de setembro de 2022.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 21 de setembro de 2022.\n\nPelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência."
+  },
+  "911492970": {
+   "fragment_id": "911487751",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 1 do artigo 3.º)\n\nÁrea de Intervenção do Empreendimento de Aproveitamento Hidráulico de Fins Múltiplos do Crato\n\nEmpreendimento de Aproveitamento Hídrico de Fins Múltiplos do Crato - Barragem do Pisão\n\n(ver documento original)\n\n115713574"
+  }
+ }
+}

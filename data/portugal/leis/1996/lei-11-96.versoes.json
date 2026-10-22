@@ -1,0 +1,451 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:571653:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1996-67324353",
+ "dre_path": "/dr/detalhe/lei/11-1996-571653",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1996-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67334944",
+    "67334945",
+    "67334946",
+    "67334947",
+    "67334948",
+    "67334949",
+    "67334950",
+    "67334951",
+    "67334952",
+    "67334953",
+    "67334954",
+    "67334955",
+    "67334956",
+    "67334957",
+    "67334958"
+   ]
+  },
+  {
+   "date": "1999-10-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:569886:por",
+     "title": "Lei n.º 169/99",
+     "published": "1999-09-18",
+     "dre_path": "/dr/detalhe/lei/169-1999-569886"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "67334944",
+    "67334960",
+    "67334961",
+    "67334962",
+    "67334963",
+    "67334949",
+    "67334950",
+    "67334951",
+    "67334952",
+    "67334953",
+    "67334954",
+    "67334955",
+    "67334956",
+    "67334957",
+    "67334958",
+    "67334959"
+   ]
+  },
+  {
+   "date": "2002-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:522223:por",
+     "title": "Lei n.º 87/2001",
+     "published": "2001-08-10",
+     "dre_path": "/dr/detalhe/lei/87-2001-522223"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A"
+   ],
+   "fragments": [
+    "67334944",
+    "67334960",
+    "67334961",
+    "67334962",
+    "67334963",
+    "67334949",
+    "67358149",
+    "67358150",
+    "67358151",
+    "67358152",
+    "67358153",
+    "67358154",
+    "67358155",
+    "67358156",
+    "67358157",
+    "67358158",
+    "67358159"
+   ]
+  },
+  {
+   "date": "2004-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:508870:por",
+     "title": "Lei n.º 36/2004",
+     "published": "2004-08-13",
+     "dre_path": "/dr/detalhe/lei/36-2004-508870"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "67334944",
+    "67334960",
+    "67334961",
+    "67334962",
+    "67334963",
+    "67334949",
+    "67358149",
+    "67358150",
+    "67358163",
+    "67358152",
+    "67358153",
+    "67358154",
+    "67358155",
+    "67358156",
+    "67358157",
+    "67358158",
+    "67358159"
+   ]
+  },
+  {
+   "date": "2025-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901667918:por",
+     "title": "Lei n.º 45-A/2024",
+     "published": "2024-12-31",
+     "dre_path": "/dr/detalhe/lei/45-a-2024-901667918"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º-A"
+   ],
+   "fragments": [
+    "67334944",
+    "67334960",
+    "67334961",
+    "67334962",
+    "67334963",
+    "67334949",
+    "902120261",
+    "67358150",
+    "67358163",
+    "67358152",
+    "67358153",
+    "67358154",
+    "67358155",
+    "67358156",
+    "67358157",
+    "67358158",
+    "67358159"
+   ]
+  }
+ ],
+ "fragments": {
+  "67334944": {
+   "fragment_id": "67324354",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 11/96\n\nde 18 de Abril\n\nRegime aplicável ao exercício do mandato dos membros das juntas de freguesia\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 167.º, alínea l), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "67334945": {
+   "fragment_id": "67324355",
+   "type": 11,
+   "heading": "Artigo 1.º — Regime de tempo inteiro e meio tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Regime de tempo inteiro e meio tempo\n\nOs membros das juntas de freguesia podem exercer o mandato em regime de permanência, a tempo inteiro ou a meio tempo."
+  },
+  "67334946": {
+   "fragment_id": "67324356",
+   "type": 11,
+   "heading": "Artigo 2.º — Deliberação sobre o regime de tempo inteiro e meio tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Deliberação sobre o regime de tempo inteiro e meio tempo\n\n1 - Compete à assembleia de freguesia, nos casos previstos nos n.os 3 e 4 do artigo 3.º, sob proposta da junta, deliberar sobre a existência de membros em regime de permanência, a tempo inteiro ou meio tempo.\n\n2 - A deliberação prevista no número anterior só será eficaz quando tomada por maioria absoluta dos membros em efectividade de funções.\n\n3 - Em caso de recusa ou ineficácia da deliberação, não pode ser apresentada nova proposta no decurso do ano em que esta tiver sido submetida."
+  },
+  "67334947": {
+   "fragment_id": "67324357",
+   "type": 11,
+   "heading": "Artigo 3.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limites\n\n1 - Nas freguesias com o mínimo de 5000 eleitores e o máximo de 10000 eleitores ou nas freguesias com mais de 3500 eleitores e 50 km2 de área, o presidente da junta poderá exercer o mandato em regime de meio tempo.\n\n2 - Nas freguesias com mais de 10000 eleitores ou nas freguesias com mais de 7000 eleitores e 100 km2 de área, o presidente da junta poderá exercer o mandato em regime de tempo inteiro.\n\n3 - Poderão ainda exercer o mandato em regime de meio tempo os presidentes das juntas de freguesia com mais de 1000 eleitores desde que o encargo anual com a respectiva remuneração, nos termos do artigo 5.º, não ultrapasse 10% do valor total geral da receita constante da conta de gerência do ano anterior nem do inscrito no orçamento em vigor.\n\n4 - Poderão ainda exercer o mandato em regime de tempo inteiro os presidentes das juntas de freguesia com mais de 1500 eleitores desde que o encargo anual com a respectiva remuneração, nos termos do artigo 5.º, não ultrapasse 10% do valor total da receita constante da conta de gerência do ano anterior nem do inscrito no orçamento em vigor."
+  },
+  "67334948": {
+   "fragment_id": "67324358",
+   "type": 11,
+   "heading": "Artigo 4.º — Distribuição de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Distribuição de funções\n\n1 - O presidente poderá atribuir a um dos restantes membros da junta o exercício das suas funções em regime de permanência.\n\n2 - Quando cumpra o seu mandato em regime de tempo inteiro o presidente poderá:\n\na) Optar por exercer as suas funções em regime de meio tempo, atribuindo a qualquer dos restantes membros o outro meio tempo;\n\nb) Repartir o tempo inteiro em dois meios tempos, a atribuir cada um deles a dois dos restantes membros da junta."
+  },
+  "67334949": {
+   "fragment_id": "67324359",
+   "type": 11,
+   "heading": "Artigo 5.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Remuneração\n\n1 - O valor base da remuneração do presidente da junta de freguesia em regime de permanência é fixado por referência ao vencimento base atribuído ao Presidente da República, de acordo com os escalões seguintes:\n\na) Freguesias com mais de 20000 eleitores - 25%;\n\nb) Freguesias com mais de 10000 e menos de 20000 eleitores - 22%;\n\nc) Freguesias com mais de 5000 e menos de 10000 eleitores - 19%;\n\nd) Freguesias com menos de 5000 eleitores - 16%.\n\n2 - Nos casos previstos no artigo 4.º, mantém-se o valor da remuneração do n.º 1 do presente artigo.\n\n3 - A remuneração prevista no n.º 1 deste artigo não acumula com o abono previsto no artigo 7.º"
+  },
+  "67334950": {
+   "fragment_id": "67324360",
+   "type": 11,
+   "heading": "Artigo 6.º — Periodicidade da remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Periodicidade da remuneração\n\nA remuneração prevista no artigo 5.º tem periodicidade mensal, acrescendo-lhe dois subsídios extraordinários de montante igual àquela, em Junho e em Novembro."
+  },
+  "67334951": {
+   "fragment_id": "67324361",
+   "type": 11,
+   "heading": "Artigo 7.º — Abonos aos titulares das juntas de freguesia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Abonos aos titulares das juntas de freguesia\n\n1 - Os presidentes das juntas de freguesia que não exerçam o mandato em regime de permanência têm direito a uma compensação mensal para encargos, fixada por referência às remunerações atribuídas aos presidentes das câmaras municipais dos municípios com menos de 10000 eleitores, de acordo com os índices seguintes:\n\na) Freguesias com 20000 ou mais eleitores - 12%;\n\nb) Freguesias com mais de 5000 e menos de 20000 eleitores - 10%;\n\nc) Restantes freguesias - 9%.\n\n2 - Os tesoureiros e secretários das juntas de freguesia que não exerçam o mandato em regime de permanência têm direito a idêntica compensação no montante de 80% da atribuída ao presidente do respectivo órgão."
+  },
+  "67334952": {
+   "fragment_id": "67324362",
+   "type": 11,
+   "heading": "Artigo 8.º — Senhas de presença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Senhas de presença\n\n1 - Os vogais das juntas de freguesia que não sejam tesoureiros ou secretários têm direito a uma senha de presença por cada reunião ordinária ou extraordinária correspondente a 7% do abono previsto no n.º 1 do artigo 7.º\n\n2 - Os membros da assembleia de freguesia têm direito a uma senha de presença por cada reunião ordinária ou extraordinária correspondente a 5% do abono previsto no n.º 1 do artigo 7.º"
+  },
+  "67334953": {
+   "fragment_id": "67324363",
+   "type": 11,
+   "heading": "Artigo 9.º — Dispensa do exercício parcial da actividade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dispensa do exercício parcial da actividade profissional\n\nOs membros das juntas de freguesia que não exerçam o mandato em regime de permanência têm direito à dispensa do desempenho das suas actividades profissionais para o exercício das suas funções autárquicas, ficando obrigados a avisar a entidade patronal com vinte e quatro horas de antecedência, nas seguintes condições:\n\na) Nas freguesias com 20000 ou mais eleitores - o presidente da junta, até trinta e seis horas mensais, e dois membros, até vinte e sete horas;\n\nb) Nas freguesias com mais de 5000 e até 20000 eleitores - o presidente da junta, até trinta e seis horas mensais, e dois membros, até dezoito horas;\n\nc) Nas restantes freguesias - o presidente da junta, até trinta e seis horas mensais, e um membro, até dezoito horas."
+  },
+  "67334954": {
+   "fragment_id": "67324364",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamentos ou encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamentos ou encargos\n\n1 - A verba necessária ao pagamento das remunerações e encargos com os membros da junta em regime de tempo inteiro ou de meio tempo será assegurada directamente pelo Orçamento do Estado.\n\n2 - O disposto no número anterior não se aplica aos casos a que se referem os n.os 3 e 4 do artigo 3.º"
+  },
+  "67334955": {
+   "fragment_id": "67324365",
+   "type": 11,
+   "heading": "Artigo 11.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Legislação aplicável\n\nAplicam-se subsidiariamente aos eleitos para órgãos das juntas de freguesia, com as necessárias adaptações, as normas da Lei n.º 29/87, de 30 de Junho."
+  },
+  "67334956": {
+   "fragment_id": "67324366",
+   "type": 11,
+   "heading": "Artigo 12.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Incompatibilidades\n\nAplica-se aos membros das juntas de freguesia que exerçam o seu mandato em regime de permanência a tempo inteiro o disposto nas normas da Lei n.º 64/93, de 26 de Agosto, com as alterações introduzidas pela Lei n.º 28/95, de 18 de Agosto."
+  },
+  "67334957": {
+   "fragment_id": "67324367",
+   "type": 11,
+   "heading": "Artigo 13.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revogação\n\nSão revogados o artigo 9.º e o n.º 3 do artigo 10.º da Lei n.º 29/87, de 30 de Junho."
+  },
+  "67334958": {
+   "fragment_id": "67324368",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma produzirá os seus efeitos com a entrada em vigor da Lei do Orçamento do Estado para o presente ano económico."
+  },
+  "67334960": {
+   "fragment_id": "67324355",
+   "type": 11,
+   "heading": "Artigo 1.º — Regime de tempo inteiro e meio tempo",
+   "in_force_from": "1999-10-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18"
+   ],
+   "markdown": "###### Artigo 1.º — Regime de tempo inteiro e meio tempo\n\nOs membros das juntas de freguesia podem exercer o mandato em regime de permanência, a tempo inteiro ou a meio tempo.\n\n> Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18"
+  },
+  "67334961": {
+   "fragment_id": "67324356",
+   "type": 11,
+   "heading": "Artigo 2.º — Deliberação sobre o regime de tempo inteiro e meio tempo",
+   "in_force_from": "1999-10-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18"
+   ],
+   "markdown": "###### Artigo 2.º — Deliberação sobre o regime de tempo inteiro e meio tempo\n\n1 - Compete à assembleia de freguesia, nos casos previstos nos n.os 3 e 4 do artigo 3.º, sob proposta da junta, deliberar sobre a existência de membros em regime de permanência, a tempo inteiro ou meio tempo.\n\n2 - A deliberação prevista no número anterior só será eficaz quando tomada por maioria absoluta dos membros em efectividade de funções.\n\n3 - Em caso de recusa ou ineficácia da deliberação, não pode ser apresentada nova proposta no decurso do ano em que esta tiver sido submetida.\n\n> Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18"
+  },
+  "67334962": {
+   "fragment_id": "67324357",
+   "type": 11,
+   "heading": "Artigo 3.º — Limites",
+   "in_force_from": "1999-10-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18"
+   ],
+   "markdown": "###### Artigo 3.º — Limites\n\n1 - Nas freguesias com o mínimo de 5000 eleitores e o máximo de 10000 eleitores ou nas freguesias com mais de 3500 eleitores e 50 km2 de área, o presidente da junta poderá exercer o mandato em regime de meio tempo.\n\n2 - Nas freguesias com mais de 10000 eleitores ou nas freguesias com mais de 7000 eleitores e 100 km2 de área, o presidente da junta poderá exercer o mandato em regime de tempo inteiro.\n\n3 - Poderão ainda exercer o mandato em regime de meio tempo os presidentes das juntas de freguesia com mais de 1000 eleitores desde que o encargo anual com a respectiva remuneração, nos termos do artigo 5.º, não ultrapasse 10% do valor total geral da receita constante da conta de gerência do ano anterior nem do inscrito no orçamento em vigor.\n\n4 - Poderão ainda exercer o mandato em regime de tempo inteiro os presidentes das juntas de freguesia com mais de 1500 eleitores desde que o encargo anual com a respectiva remuneração, nos termos do artigo 5.º, não ultrapasse 10% do valor total da receita constante da conta de gerência do ano anterior nem do inscrito no orçamento em vigor.\n\n> Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18"
+  },
+  "67334963": {
+   "fragment_id": "67324358",
+   "type": 11,
+   "heading": "Artigo 4.º — Distribuição de funções",
+   "in_force_from": "1999-10-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18"
+   ],
+   "markdown": "###### Artigo 4.º — Distribuição de funções\n\n1 - O presidente poderá atribuir a um dos restantes membros da junta o exercício das suas funções em regime de permanência.\n\n2 - Quando cumpra o seu mandato em regime de tempo inteiro o presidente poderá:\n\na) Optar por exercer as suas funções em regime de meio tempo, atribuindo a qualquer dos restantes membros o outro meio tempo;\n\nb) Repartir o tempo inteiro em dois meios tempos, a atribuir cada um deles a dois dos restantes membros da junta.\n\n> Revogado pelo/a Artigo 100.º do/a [Lei n.º 169/99 - Diário da República n.º 219/1999, Série I-A de 1999-09-18](https://diariodarepublica.pt/dr/detalhe/lei/169-1999-569886), em vigor a partir de 1999-10-18"
+  },
+  "67334959": {
+   "fragment_id": "67324369",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de Fevereiro de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 25 de Março de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 1 de Abril de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "67358149": {
+   "fragment_id": "67357026",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Despesas de representação dos membros das juntas de freguesia em regime de permanência",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 87/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/87-2001-522223), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 5.º-A — Despesas de representação dos membros das juntas de freguesia em regime de permanência\n\nOs membros das juntas de freguesia em regime de permanência têm direito a despesas de representação correspondentes a 30% das respectivas remunerações base, no caso do presidente, e a 20%, no caso dos vogais, as quais serão pagas 12 vezes por ano.\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 87/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/87-2001-522223), em vigor a partir de 2002-01-01"
+  },
+  "67358150": {
+   "fragment_id": "67324360",
+   "type": 11,
+   "heading": "Artigo 6.º — Periodicidade da remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Periodicidade da remuneração\n\nA remuneração prevista no artigo 5.º tem periodicidade mensal, acrescendo-lhe dois subsídios extraordinários de montante igual àquela, em Junho e em Novembro."
+  },
+  "67358151": {
+   "fragment_id": "67324361",
+   "type": 11,
+   "heading": "Artigo 7.º — Abonos aos titulares das juntas de freguesia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Abonos aos titulares das juntas de freguesia\n\n1 - Os presidentes das juntas de freguesia que não exerçam o mandato em regime de permanência têm direito a uma compensação mensal para encargos, fixada por referência às remunerações atribuídas aos presidentes das câmaras municipais dos municípios com menos de 10000 eleitores, de acordo com os índices seguintes:\n\na) Freguesias com 20000 ou mais eleitores - 12%;\n\nb) Freguesias com mais de 5000 e menos de 20000 eleitores - 10%;\n\nc) Restantes freguesias - 9%.\n\n2 - Os tesoureiros e secretários das juntas de freguesia que não exerçam o mandato em regime de permanência têm direito a idêntica compensação no montante de 80% da atribuída ao presidente do respectivo órgão."
+  },
+  "67358152": {
+   "fragment_id": "67324362",
+   "type": 11,
+   "heading": "Artigo 8.º — Senhas de presença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Senhas de presença\n\n1 - Os vogais das juntas de freguesia que não sejam tesoureiros ou secretários têm direito a uma senha de presença por cada reunião ordinária ou extraordinária correspondente a 7% do abono previsto no n.º 1 do artigo 7.º\n\n2 - Os membros da assembleia de freguesia têm direito a uma senha de presença por cada reunião ordinária ou extraordinária correspondente a 5% do abono previsto no n.º 1 do artigo 7.º"
+  },
+  "67358153": {
+   "fragment_id": "67324363",
+   "type": 11,
+   "heading": "Artigo 9.º — Dispensa do exercício parcial da actividade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dispensa do exercício parcial da actividade profissional\n\nOs membros das juntas de freguesia que não exerçam o mandato em regime de permanência têm direito à dispensa do desempenho das suas actividades profissionais para o exercício das suas funções autárquicas, ficando obrigados a avisar a entidade patronal com vinte e quatro horas de antecedência, nas seguintes condições:\n\na) Nas freguesias com 20000 ou mais eleitores - o presidente da junta, até trinta e seis horas mensais, e dois membros, até vinte e sete horas;\n\nb) Nas freguesias com mais de 5000 e até 20000 eleitores - o presidente da junta, até trinta e seis horas mensais, e dois membros, até dezoito horas;\n\nc) Nas restantes freguesias - o presidente da junta, até trinta e seis horas mensais, e um membro, até dezoito horas."
+  },
+  "67358154": {
+   "fragment_id": "67324364",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamentos ou encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamentos ou encargos\n\n1 - A verba necessária ao pagamento das remunerações e encargos com os membros da junta em regime de tempo inteiro ou de meio tempo será assegurada directamente pelo Orçamento do Estado.\n\n2 - O disposto no número anterior não se aplica aos casos a que se referem os n.os 3 e 4 do artigo 3.º"
+  },
+  "67358155": {
+   "fragment_id": "67324365",
+   "type": 11,
+   "heading": "Artigo 11.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Legislação aplicável\n\nAplicam-se subsidiariamente aos eleitos para órgãos das juntas de freguesia, com as necessárias adaptações, as normas da Lei n.º 29/87, de 30 de Junho."
+  },
+  "67358156": {
+   "fragment_id": "67324366",
+   "type": 11,
+   "heading": "Artigo 12.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Incompatibilidades\n\nAplica-se aos membros das juntas de freguesia que exerçam o seu mandato em regime de permanência a tempo inteiro o disposto nas normas da Lei n.º 64/93, de 26 de Agosto, com as alterações introduzidas pela Lei n.º 28/95, de 18 de Agosto."
+  },
+  "67358157": {
+   "fragment_id": "67324367",
+   "type": 11,
+   "heading": "Artigo 13.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revogação\n\nSão revogados o artigo 9.º e o n.º 3 do artigo 10.º da Lei n.º 29/87, de 30 de Junho."
+  },
+  "67358158": {
+   "fragment_id": "67324368",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nO presente diploma produzirá os seus efeitos com a entrada em vigor da Lei do Orçamento do Estado para o presente ano económico."
+  },
+  "67358159": {
+   "fragment_id": "67324369",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de Fevereiro de 1996.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 25 de Março de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 1 de Abril de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "67358163": {
+   "fragment_id": "67324361",
+   "type": 11,
+   "heading": "Artigo 7.º — Abonos aos titulares das juntas de freguesia",
+   "in_force_from": "2004-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 36/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/36-2004-508870), em vigor a partir de 2004-08-18"
+   ],
+   "markdown": "###### Artigo 7.º — Abonos aos titulares das juntas de freguesia\n\n1 - Os presidentes das juntas de freguesia que não exerçam o mandato em regime de permanência têm direito a uma compensação mensal para encargos, fixada por referência às remunerações atribuídas aos presidentes das câmaras municipais dos municípios com menos de 10000 eleitores, de acordo com os índices seguintes:\n\na) Freguesias com 20000 ou mais eleitores - 12%;\n\nb) Freguesias com mais de 5000 e menos de 20000 eleitores - 10%;\n\nc) Restantes freguesias - 9%.\n\n2 - Os tesoureiros e secretários das juntas de freguesia que não exerçam o mandato em regime de permanência têm direito a idêntica compensação no montante de 80% da atribuída ao presidente do respectivo órgão.\n\n3 - A compensação mensal para encargos tem a natureza de ajuda de custo para todos os efeitos legais.»\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 36/2004 - Diário da República n.º 190/2004, Série I-A de 2004-08-13](https://diariodarepublica.pt/dr/detalhe/lei/36-2004-508870), em vigor a partir de 2004-08-18"
+  },
+  "902120261": {
+   "fragment_id": "67357026",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Despesas de representação dos membros das juntas de freguesia",
+   "in_force_from": "2025-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 321.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01",
+    "Aditado pelo/a Artigo 1.º do/a [Lei n.º 87/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/87-2001-522223), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 5.º-A — Despesas de representação dos membros das juntas de freguesia\n\n1 - Os membros das juntas de freguesia em regime de permanência têm direito a despesas de representação correspondentes a 30% das respectivas remunerações base, no caso do presidente, e a 20%, no caso dos vogais, as quais serão pagas 12 vezes por ano.\n\n2 - Os membros das juntas de freguesia em regime de meio tempo têm direito a metade das despesas referidas no número anterior.\n\n> Alterado pelo/a Artigo 321.º do/a [Lei n.º 45-A/2024 - Diário da República n.º 253/2024, Suplemento, Série I de 2024-12-31](https://diariodarepublica.pt/dr/detalhe/lei/45-a-2024-901667918), em vigor a partir de 2025-01-01\n\n> Aditado pelo/a Artigo 1.º do/a [Lei n.º 87/2001 - Diário da República n.º 185/2001, Série I-A de 2001-08-10](https://diariodarepublica.pt/dr/detalhe/lei/87-2001-522223), em vigor a partir de 2002-01-01"
+  }
+ }
+}

@@ -1,0 +1,273 @@
+---
+schema_version: '1.0'
+id: pt:dre:400218:por
+title: Portaria n.º 815/84
+short_title: null
+summary: Autoriza a Universidade do Porto através da Faculdade de Arquitectura, a conceder o grau de licenciado em Arquitectura
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 815/84
+official_date: null
+publication_date: '1984-10-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 244/1984, Série I de 1984-10-20
+  number: '244'
+  series: I
+  supplement: null
+  pages: 3255 - 3257
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/10/24400/32553257.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '400218'
+  dre_path: /dr/detalhe/portaria/815-1984-400218
+  internal: pt:dre:400218:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/815-1984-400218
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/815-1984-400218
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-10-21T00:00:00Z'
+integrity:
+  source_sha256: dbc61d61cc50790a72dcabcfc76d073dfb2342cf25bcd99bb7db3e2b7ba5f2fd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-815-400218.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:549413:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 815/84
+
+de 20 de Outubro
+
+No preâmbulo do Decreto-Lei n.º 49-F/79, de 21 de Dezembro, que criou na Universidade do Porto a Faculdade de Arquitectura, na sequência de outros considerandos, logo se reconhece «a importância e projecção social de que se reveste a arquitectura como actividade humana e a necessidade crescente de preparar os seus profissionais com a sólida formação científica normalmente associada ao ensino universitário».
+
+Considerando que qualquer instituição de ensino superior tem como função fundamental proporcionar aos indivíduos um conjunto de condições basilares de formação integral, devem os graus que conferir representar uma garantia oficial dessa formação perante a sociedade, os quais vinculam não só a universidade que os confere, como aqueles que os recebem.
+
+Para a prossecução daqueles fins a Faculdade de Arquitectura da Universidade do Porto deverá ser dotada de um plano de carácter pedagógico-didáctico e de um plano de investigação integrados numa estrutura que projecte na comunidade a especificidade da acção técnica e criadora dos arquitectos.
+
+A prática pedagógica e a experiência profissional e humana, que constituem um valioso património do curso de Arquitectura da Escola Superior de Belas-Artes do Porto, estão presentes na estrutura curricular do curso de licenciatura a ministrar pela Faculdade de Arquitectura da Universidade do Porto. Entretanto, será o conteúdo específico da organização universitária o elemento da nova instituição que importa valorizar, nomeadamente o que se refere à investigação científica e aos campos de interdisciplinaridade abertos nas áreas humanísticas e técnicas.
+
+Daí que, embora tal decisão venha a caber à Universidade, a comissão instaladora da Faculdade tenha manifestado a intenção de iniciar as suas actividades a partir do 5.º ano curricular e dos seminários de pré-profissionalização, zonas onde estes valores se podem mais rapidamente explorar e consolidar, já que o paralelismo da expressão curricular dos cursos é um dado adquirido.
+
+Assim:
+
+Sob proposta da comissão instaladora da Faculdade de Arquitectura da Universidade do Porto;
+
+Tendo em vista o disposto no [Decreto-Lei n.º 498-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-f-1979-197082), de 21 de Dezembro;
+
+Ao abrigo do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690), de 29 de Maio, e do capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação, aprovar o seguinte:
+
+1.º
+
+(Licenciatura em Arquitectura)
+
+A Universidade do Porto confere o grau de licenciado em Arquitectura, sendo o curso conducente à sua obtenção ministrado pela Faculdade de Arquitectura.
+
+2.º
+
+(Organização do curso)
+
+O curso conducente à licenciatura em Arquitectura, adiante simplesmente designado por «curso», organiza-se pelo sistema de unidades de crédito.
+
+3.º
+
+(Área científica do curso)
+
+A área científica do curso é a de Arquitectura.
+
+4.º
+
+(Estrutura do curso)
+
+A estrutura e duração normal do curso é a seguinte:
+
+a) 1.º ciclo - 1 ano;
+
+b) 2.º ciclo - 3 anos;
+
+c) 3.º ciclo - 1 ano;
+
+d) Seminário de pré-profissionalização - 1 ano.
+
+5.º
+
+(Áreas científicas e unidades de crédito)
+
+1 - São áreas científicas obrigatórias:
+
+Projecto ... 68,0
+
+Desenho ... 9,5
+
+Geometria ... 8,5
+
+Teoria da Arquitectura ... 16,5
+
+História da Arquitectura ... 21,0
+
+Construção ... 17,5
+
+Urbanologia ... 10,0
+
+2 - São áreas científicas optativas:
+
+Construção ... 5,0
+
+Urbanologia ... 5,0
+
+Estética ... 10,0
+
+Arqueologia ... 10,0
+
+Geografia ... 10,0
+
+Sociologia ... 10,0
+
+Economia ... 10,0
+
+Direito ... 10,0
+
+Paisagismo ... 10,0
+
+Matemática ... 10,0
+
+6.º
+
+(Seminário de pré-profissionalização)
+
+1 - O seminário de pré-profissionalização, que reveste carácter escolar e tem a duração de 1 ano lectivo, tem como objectivo a inserção do aluno no meio profissional, quer através da sua integração nas estruturas de investigação ou produtivas da própria Faculdade quer mediante contratos a estabelecer entre esta e a procura oficial ou privada.
+
+2 - O seminário de pré-profissionalização fica sujeito ao regime de presenças, que terão de ser iguais a um mínimo de 75% das sessões programadas, sob pena de exclusão da avaliação final.
+
+3 - O seminário de pré-profissionalização será objecto de avaliação, a qual se traduzirá numa classificação final após prestação de prova pública.
+
+4 - O regulamento do seminário será aprovado pelo conselho científico, ouvidos os conselhos pedagógico e directivo.
+
+7.º
+
+(Plano de estudos)
+
+O plano de estudos do curso será proposto pelo conselho científico e aprovado e mandado publicar na 2.ª série do Diário da República pelo reitor, nos termos dos artigos 4.º e 5.º do [Decreto-Lei n.º 173/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1980-474690).
+
+8.º
+
+(Precedências)
+
+A tabela e o regime de precedências serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+
+9.º
+
+(Classificação final do curso)
+
+1 - A classificação final do curso será a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações das disciplinas e seminário integrantes do plano curricular.
+
+2 - Os coeficientes de ponderação serão fixados pelo conselho científico, ouvido o conselho pedagógico.
+
+10.º
+
+(Condições para a obtenção do grau)
+
+O grau de licenciado em Arquitectura obtém-se após:
+
+a) Obtenção de 166 unidades de crédito nos termos do n.º 5.º;
+
+b) Aprovação no seminário de pré-profissionalização nos termos definidos no seu regulamento.
+
+11.º
+
+(Entrada em funcionamento)
+
+1 - A determinação do ano lectivo de entrada em funcionamento do curso e da forma como a mesma se processará ficará dependente da existência na Universidade dos recursos humanos e materiais necessários à sua concretização.
+
+2 - Verificada a existência das condições humanas e materiais necessárias, a comissão instaladora remeterá ao reitor a proposta de entrada em funcionamento e respectivo regime, acompanhada da correspondente fundamentação.
+
+3 - A decisão de entrada em funcionamento e a forma como tal se processará compete ao reitor, sendo objecto de despacho reitoral, a publicar na 2.ª série do Diário da República.
+
+12.º
+
+(Transição)
+
+1 - À medida que o plano de estudos do curso for entrando em funcionamento deixarão de ser ministrados os anos curriculares correspondentes do curso de Arquitectura da 1.ª Secção da Escola Superior de Belas-Artes do Porto.
+
+2 - A transição dos alunos com a matrícula válida na 1.ª Secção da Escola Superior de Belas-Artes do Porto não está sujeita a propina de transferência.
+
+13.º
+
+(Protocolo com ESBAP)
+
+A reitoria da Universidade do Porto e o conselho directivo da 1.ª Secção da Escola Superior de Belas-Artes do Porto firmarão um protocolo onde estabelecerão:
+
+a) As regras de transição dos alunos entre o curso de Arquitectura da 1.ª Secção da Escola Superior de Belas-Artes do Porto e o curso de licenciatura da Faculdade de Arquitectura;
+
+b) As regras a adoptar para a colaboração recíproca de docentes da 1.ª Secção da Escola Superior de Belas-Artes do Porto e da Faculdade de Arquitectura;
+
+c) Os procedimentos administrativos a adoptar para a transferência dos processos individuais dos alunos.
+
+14.º
+
+(Período de instalação)
+
+Enquanto a Faculdade de Arquitectura se encontrar em regime de instalação, as competências atribuídas para esta portaria a órgãos que ainda não se encontrem em funcionamento serão exercidas pela comissão instaladora.
+
+15.º
+
+(Extinção do curso de Arquitectura da ESBAP)
+
+O curso de Arquitectura da 1.ª Secção da Escola Superior de Belas-Artes do Porto considera-se extinto, deixando de ser conferido o respectivo diploma na data que for fixada no protocolo a que se refere o n.º 13.º, a qual não poderá ser posterior a 2 anos lectivos após a data do termo da transição prevista no n.º 12.º
+
+Ministério da Educação.
+
+**Assinada em 2 de Outubro de 1984.**
+
+Pelo Ministro da Educação, Joaquim Germano Pinto Machado Correia da Silva, Secretário de Estado do Ensino Superior.

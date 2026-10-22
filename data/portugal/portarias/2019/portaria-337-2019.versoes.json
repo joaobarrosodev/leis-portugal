@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:125016447:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-126540457",
+ "dre_path": "/dr/detalhe/portaria/337-2019-125016447",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "126573175",
+    "126573176",
+    "126573177",
+    "126573178",
+    "126573179",
+    "126573181"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:126540448:por",
+     "title": "Declaração de Retificação n.º 57/2019",
+     "published": "2019-11-25",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/57-2019-126540448",
+     "date": "2019-10-05"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "126573175": {
+   "fragment_id": "126540458",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 337/2019\n\nde 30 de setembro\n\nSumário: Altera a denominação, caracterização, estrutura curricular e plano de estudos do curso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica da Escola Superior de Enfermagem de Lisboa.\n\nSob proposta do órgão legal e estatutariamente competente da Escola Superior de Enfermagem de Lisboa;\n\nConsiderando o disposto no Decreto-Lei n.º 353/99, de 3 de setembro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela Portaria n.º 268/2002, de 13 de março;\n\nConsiderando o disposto na Portaria n.º 297/2005, de 22 de março, com as alterações introduzidas pelo Despacho n.º 12814/2010, de 9 de agosto, e pela Declaração de Retificação n.º 943/2013, de 4 de setembro;\n\nOuvida a Ordem dos Enfermeiros nos termos do n.º 2 do artigo 7.º do referido Regulamento;\n\nConsiderando o disposto no artigo 40.º do Estatuto da Ordem dos Enfermeiros, aprovado pelo Decreto-Lei n.º 104/98, de 21 de abril, alterado pela Lei n.º 156/2015, de 16 de setembro;\n\nAo abrigo do disposto no artigo 15.º do Decreto-Lei n.º 353/99, de 3 de setembro:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:"
+  },
+  "126573176": {
+   "fragment_id": "126540459",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração de denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração de denominação\n\nO curso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstetrícia da Escola Superior de Enfermagem de Lisboa, aprovado pela Portaria n.º 297/2005, de 22 de março, passa a denominar-se pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica."
+  },
+  "126573177": {
+   "fragment_id": "126540460",
+   "type": 11,
+   "heading": "Artigo 2.º — Caracterização, estrutura curricular e plano de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Caracterização, estrutura curricular e plano de estudos\n\nA caracterização, estrutura curricular e plano de estudos do curso referido no artigo anterior passam a ser os constantes do anexo à presente portaria."
+  },
+  "126573178": {
+   "fragment_id": "126540461",
+   "type": 11,
+   "heading": "Artigo 3.º — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transição\n\nAs regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente da Escola Superior de Enfermagem do Porto."
+  },
+  "126573179": {
+   "fragment_id": "126540462",
+   "type": 11,
+   "heading": "Artigo 4.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação\n\nO disposto na presente portaria aplica-se a partir do ano letivo de 2019-2020, inclusive."
+  },
+  "126573181": {
+   "fragment_id": "126540464",
+   "type": 14,
+   "heading": "Anexo — Escola Superior de Enfermagem de Lisboa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Escola Superior de Enfermagem de Lisboa\n\nCurso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica\n\n1 - Instituição: Escola Superior de Enfermagem de Lisboa\n\n2 - Curso: Pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica\n\n3 - Diploma: Diploma de especialização em Enfermagem\n\n4 - Área científica e predominante do curso: Enfermagem\n\n5 - Número de créditos, segundo o sistema europeu de transferência de créditos, necessário à obtenção do grau ou diploma: 120 ECTS\n\n6 - Duração normal do curso: 4 semestres\n\n7 - Estrutura Curricular:\n\nQUADRO N.º 1\n\n(ver documento original)\n\n8 - Plano de estudos:\n\nQUADRO N.º 2\n\n1.º ano/1.º semestre\n\n(ver documento original)\n\nQUADRO N.º 3\n\n1.º ano/2.º semestre\n\n(ver documento original)\n\nQUADRO N.º 4\n\n2.º ano\n\n(ver documento original)\n\n112613444"
+  }
+ }
+}

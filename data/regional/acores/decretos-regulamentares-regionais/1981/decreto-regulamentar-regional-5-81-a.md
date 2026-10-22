@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:390025:por
+title: Decreto Regulamentar Regional n.º 5/81/A
+short_title: null
+summary: Autoriza o Governo Regional a adquirir mobiliário para as habitações pertencentes à Região destinadas à finalidade
+  prevista no artigo 6.º do Decreto Regional n.º 8/77/A, de 17 de Maio
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Administração Pública
+proposing_entity: null
+official_number: 5/81/A
+official_date: null
+publication_date: '1981-01-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1981, Série I de 1981-01-24
+  number: '20'
+  series: I
+  supplement: null
+  pages: 204 - 204
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02000/02040204.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390025'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/5-1981-390025
+  internal: pt:dre:390025:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1981-390025
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-1981-390025
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-01-24T00:00:00Z'
+integrity:
+  source_sha256: e9596563649ddbd9674ff206cd5b50a167fde7090e98d37f78d313c9e2e412be
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1981/DRE-1981-5-390025.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 5/81/A
+
+Passados cerca de três anos sobre a fixação de um subsídio mensal correspondente à renda, até ao limite máximo de 5000$00, para os casos em que a Região não dispusesse de habitação para a satisfação do disposto no artigo 6.º do [Decreto Regional n.º 8/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1977-252070), de 17 de Maio, torna-se necessário proceder à actualização daquele montante de forma a poder fazer face aos aumentos verificados no preço das rendas na Região e, em especial, na ilha Terceira, onde, na sequência do sismo, foi drasticamente reduzido o número de habitações, ocasionando uma subida ainda mais acentuada daquelas.
+
+Assim:
+
+O Governo Regional decreta, nos termos do artigo 229.º, n.º 1, alínea b), da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - O Governo Regional poderá adquirir mobiliário para as habitações pertencentes à Região ou por ele arrendadas destinadas à finalidade prevista no artigo 6.º do [Decreto Regional n.º 8/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1977-252070), de 17 de Maio.
+
+2 - Serão fixados por portaria os regulamentos necessários à execução do número anterior.
+
+###### Art. 2.º - 1 - Nos casos em que a Região não dispuser de habitações para satisfação do disposto no artigo 6.º do [Decreto Regional n.º 8/77/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1977-252070), de 17 de Maio, será concedido um subsídio mensal correspondente à renda, até ao limite máximo de 10000$00, aos agentes ou funcionários abrangidos por aquela disposição legal.
+
+2 - A comprovação do montante da renda paga será feita através da apresentação mensal pelo funcionário do recibo selado perante a respectiva Secretaria Regional, que arquivará fotocópia.
+
+3 - No prazo de trinta dias após a publicação do presente diploma, todos os funcionários que beneficiam do subsídio nele previsto deverão fazer prova, perante as respectivas secretarias regionais, do montante da renda paga, nos termos do número anterior.
+
+4 - Findo o prazo fixado no número anterior sem ter sido feita a prova do montante da renda paga, o subsídio de habitação será imediatamente suspenso, até que o funcionário apresente a prova.
+
+###### Art. 3.º É revogado o [Decreto Regulamentar Regional n.º 2/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-1978-448943), de 24 de Janeiro.
+
+Aprovado pelo Governo Regional em 11 de Dezembro de 1980.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 5 de Janeiro de 1981.**
+
+**Publique-se.**
+
+**O Ministro da República, Henrique Afonso da Silva Horta.**

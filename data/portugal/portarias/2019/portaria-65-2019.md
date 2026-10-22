@@ -1,0 +1,562 @@
+---
+schema_version: '1.0'
+id: pt:dre:119847709:por
+title: Portaria n.º 65/2019
+short_title: null
+summary: Revê o regime de habitação de custos controlados
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente e Transição Energética
+proposing_entity: null
+official_number: 65/2019
+official_date: null
+publication_date: '2019-02-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 35/2019, Série I de 2019-02-19
+  number: '35'
+  series: I
+  supplement: null
+  pages: 1287 - 1289
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/02/03500/0128701289.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-08-01'
+version_history:
+  file: portaria-65-2019.versoes.json
+  count: 5
+  source_lastmod: '2026-08-31'
+  versions:
+  - date: '2019-02-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-12-04'
+    amending: pt:dre:175336202:por
+    amending_title: Portaria n.º 281/2021
+    changes:
+    - Adita Artigo 15.º-A
+    - Adita Artigo 16.º-A
+    - Adita Anexo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+  - date: '2024-02-24'
+    amending: pt:dre:853692258:por
+    amending_title: Portaria n.º 69-B/2024
+    changes:
+    - Adita Artigo 12.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+    - Altera Artigo 15.º-A
+    - Altera Artigo 16.º
+    - Altera Artigo 16.º-A
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Anexo
+  - date: '2025-07-12'
+    amending: pt:dre:924485242:por
+    amending_title: Portaria n.º 265/2025/1
+    changes:
+    - Adita Artigo 8.º-A
+    - Altera Artigo 8.º
+  - date: '2026-08-01'
+    amending: pt:dre:1153698896:por
+    amending_title: Portaria n.º 320-A/2026/1
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 15.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/65/2019/p/cons/20250717/pt/html
+  oj: null
+  dre: '119847709'
+  dre_path: /dr/detalhe/portaria/65-2019-119847709
+  internal: pt:dre:119847709:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/65-2019-119847709
+  metadata_url: https://data.dre.pt/eli/port/65/2019/p/cons/20250717/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-119847719
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-119847719
+  retrieved_at: '2026-10-22T13:51:29Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-08-31T00:00:00Z'
+integrity:
+  source_sha256: fd523e7b75fef0b928e14686e4123897ccabc526efb1c8936e1f9acf20628560
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:51:29Z'
+  notes: 5 versão(ões); histórico completo em portaria-65-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto da Segurança Social
+- Financiamento
+- Construção Civil
+- Crédito à Habitação
+- Custo da Construção
+- Definição de Competências
+- Renovação Urbana
+- Habitação Social
+- JURO Bonificado
+- Mercado Imobiliário
+- Instituto da Habitação e da Reabilitação Urbana
+- Preço de Venda
+- Instituto Nacional para a Reabilitação
+- Habitação
+- Renda Limite
+- Benefícios Fiscais
+- Prédio Urbano
+- Arrendamento Urbano para Habitação
+relationships:
+- type: amended_by
+  target: pt:dre:175336202:por
+  label: Adita Artigo 15.º-A; Adita Artigo 16.º-A; Adita Anexo; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera
+    Artigo 5.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 15.º; Altera Artigo
+    17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202
+  date: '2021-12-03'
+- type: amended_by
+  target: pt:dre:853692258:por
+  label: Adita Artigo 12.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 15.º; Altera
+    Artigo 15.º-A; Altera Artigo 16.º; Altera Artigo 16.º-A; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 21.º; Altera
+    Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258
+  date: '2024-02-23'
+- type: amended_by
+  target: pt:dre:924485242:por
+  label: Adita Artigo 8.º-A; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/265-2025-924485242
+  date: '2025-07-11'
+- type: amended_by
+  target: pt:dre:1153698896:por
+  label: Altera Artigo 1.º; Altera Artigo 15.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/320-a-2026-1153698896
+  date: '2026-07-31'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/266-b/2012/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/266-b/2012/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/287/2003/11/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/307/2009/10/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/307/2009/10/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2019/01/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2019/01/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/371/1997/06/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/371/1997/06/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/500/1997/07/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/500/1997/07/21/p/dre
+article_structure:
+  article_count: 27
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:51:29Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 65/2019
+
+Portaria n.º 65/2019
+
+de 19 de fevereiro
+
+As habitações de custos controlados têm sido reguladas pela Portaria n.º 500/97, de 21 de julho, que estabelece os conceitos e os parâmetros de área, custo de construção e valor máximos de venda a que essas habitações estão sujeitas, e pela Portaria n.º 371/97, de 6 de junho, que, em parte, regula os conceitos e os parâmetros aplicáveis às áreas não habitacionais que são funcionalmente complementares dessas habitações.
+
+Passadas mais de duas décadas, a experiência entretanto colhida com a aplicação das referidas portarias, a significativa evolução do setor da habitação e a necessidade de adequar os parâmetros nelas estabelecidos à realidade apontam para uma clara necessidade de atualização.
+
+Assim, a presente portaria revê o disposto na Portaria n.º 500/97, de 21 de julho, e, em parte, na Portaria n.º 371/97, de 6 de junho, atualizando os respetivos regimes e incorporando ademais os objetivos da Nova Geração de Políticas de Habitação, aprovada pelo XXI Governo Constitucional.
+
+Nesse sentido, o âmbito de aplicação é alargado à reabilitação, é fomentada a promoção para arrendamento a custos acessíveis, são promovidos os princípios de sustentabilidade ambiental e é plasmada uma visão de habitação que se alarga ao habitat, integrando os espaços complementares e de suporte ao habitar.
+
+Assim, no uso da autorização legislativa concedida pelo artigo 3.º da Lei n.º 3/2019, de 9 de janeiro, e nos termos da alínea c) do n.º 1 do artigo 199.º da Constituição, manda o Governo, pela Secretária de Estado da Habitação, no uso de competências delegadas pelo Despacho n.º 11198/2018, de 15 de novembro, publicado no Diário da República, 2.ª série, n.º 229, de 28 de novembro de 2018, o seguinte:
+
+> Nota: [Artigo 4.º, Portaria n.º 265/2025/1 - Diário da República n.º 132/2025, Série I de 2025-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/265-2025-924485242) O disposto na Portaria 265/2025/1, de 11 de julho é aplicável a processos de certificação de habitação de custos controlados apresentados após a sua data de entrada em vigor, assim como a processos anteriormente certificados cuja empreitada tenha sido ou venha a ser adjudicada ao abrigo da previsão estabelecida no n.º 6 do artigo 70.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua atual redação.
+
+###### Artigo 1.º
+
+São considerados como habitação de custos controlados os seguintes imóveis:
+
+a) As habitações e as unidades residenciais que sejam construídas ou reabilitadas com apoio do Estado, que obedeçam aos limites de área e de preços de venda ou de renda estabelecidos nos termos da presente portaria; e
+
+b) As habitações construídas ou reabilitadas para arrendamento acessível, nos termos do Decreto-Lei n.º 68/2019, de 22 de maio, incluindo os programas referidos no artigo 23.º desse decreto-lei e as habitações objeto de contrato de compra e venda, de arrendamento para subarrendamento, ou dos respetivos contratos-promessa, celebrados com municípios ou outras entidades públicas, através dos quais estas entidades se comprometam a proceder ao seu arrendamento ou subarrendamento ao abrigo daquele decreto-lei, desde que cumpram os requisitos previstos nos artigos 15.º-A a 16.º-A; e
+
+c) As habitações construídas ou reabilitadas para arrendamento acessível com recurso à linha de financiamento prevista na alínea a) do n.º 1 do artigo 5.º da Lei n.º 56/2023, de 6 de outubro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 320-A/2026/1 - Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/portaria/320-a-2026-1153698896), em vigor a partir de 2026-08-01, com efeitos a partir de 2021-12-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 2.º
+
+Para efeitos do disposto na presente portaria entende-se por:
+
+a) «Apoio do Estado», toda a ajuda financeira ou incentivo concedido pelo Estado sob a forma, nomeadamente, de bonificações de juros, de comparticipações a fundo perdido, de atribuição de benefícios fiscais ou de cedência de terrenos por valor inferior ao preço de mercado;
+
+b) 'Área bruta da habitação', a superfície total do fogo medida pelo perímetro exterior das paredes exteriores e pelo eixo das paredes separadoras dos fogos, incluindo varandas privativas, quando recuadas, e 50 % da área das varandas balançadas, assim como a quota-parte que lhe corresponda na sala de condomínio e nos espaços destinados a circulação comum, instalações técnicas comuns e serviços coletivos de limpeza, lavandaria e arrumação;
+
+c) «Área bruta de parte acessória», a superfície total da parte acessória medida pelo perímetro exterior das paredes exteriores e pelo eixo das paredes separadoras de outros espaços, incluindo a quota-parte que lhe corresponda nos respetivos espaços de circulação comum;
+
+d) «Custo de promoção», o valor total dos encargos relativos:
+
+i) Aos recursos diretamente utilizados durante a construção, ou seja, os meios que são incorporados na obra, cujo valor se obtém pelo somatório dos diferentes trabalhos de construção;
+
+ii) Aos demais custos necessários à construção, nomeadamente o estaleiro e a estrutura da empresa de construção;
+
+iii) Ao terreno, infraestruturas, projeto, certificações, coordenação e segurança de obra, assistência técnica e fiscalização, administração e financiamento, impostos e taxas (incluindo IVA).
+
+e) 'Edifício habitacional de custos controlados', o edifício ou imóvel unifamiliar ou multifamiliar em que a área bruta destinada às habitações de custos controlados e respetivas partes acessórias corresponde a, pelo menos, 70 % da sua área bruta total;
+
+f) 'Equipamento complementar', os espaços construídos integrados no empreendimento habitacional, destinados, nomeadamente, a fins culturais, sociais, desportivos ou recreativos, que são funcionalmente complementares do empreendimento;
+
+g) 'Empreendimento habitacional de custos controlados', o conjunto edificado em que a soma das áreas brutas das habitações de custos controlados e respetivas partes acessórias corresponde a, pelo menos, 70 % da sua área bruta total;
+
+h) «Espaço de comércio e serviços», o espaço construído integrado no empreendimento habitacional destinado, nomeadamente, ao comércio, restauração, serviços, logística e pequena indústria, prioritariamente orientado para servir os moradores;
+
+i) 'Parte acessória', o espaço construído destinado a garagem individual, boxe de estacionamento, lugar de estacionamento, ou arrecadação afeto ao uso exclusivo de uma habitação ou o espaço complementar de utilização comum afeto à socialização e à assistência aos moradores;
+
+j) «Unidade residencial», o edifício ou a parte de um edifício constituído por espaços independentes destinados a habitação ou a coabitação, e por espaços complementares de utilização comum afetos a socialização e a assistência aos moradores.
+
+k) «Reabilitação», a intervenção destinada a conferir adequadas características funcionais e de desempenho ambiental a edificado existente, tal como definidas no artigo 2.º do regime jurídico da reabilitação urbana, criado pelo Decreto-Lei n.º 307/2009, de 28 de outubro, e que desta resulte um nível de conservação no mínimo «bom», determinado nos termos do disposto no Decreto-Lei n.º 266-B/2012, de 31 de dezembro, na sua redação atual;
+
+l) 'Intervenções de grande reabilitação', as intervenções num edifício consideradas como 'intervenção média' ou 'intervenção profunda', nos termos do n.º 2 do anexo da Portaria n.º 301/2019, de 12 de setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 3.º
+
+No respeito pela legislação aplicável em função das matérias, a construção e as intervenções de grande reabilitação das habitações de custos controlados referidas nas alíneas a) e c) do artigo 1.º obedecem às Recomendações Técnicas para Habitação de Custos Controlados (RTHCC) constantes do anexo à presente portaria, que desta faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 4.º
+
+As habitações construídas ou reabilitadas previstas nas alíneas a) e c) do artigo 1.º têm como referência os seguintes limites máximos da área bruta, de acordo com a respetiva tipologia:
+
+(ver documento original)
+
+> Nota: [Declaração de Retificação n.º 19/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2019-122124258) No quadro: onde se lê «59», deve ler-se «57».
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+###### Artigo 5.º
+
+Os limites máximos definidos no artigo anterior podem ser alterados:
+
+a) Em virtude de exigências do projeto, com um acréscimo máximo de 12 % nas habitações integradas em edifícios multifamiliares e de 6 % nas habitações unifamiliares; ou
+
+b) Em casos devidamente fundamentados pelo respetivo promotor e aceites pelo Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), no sentido de adequar o dimensionamento e funcionalidade do edifício ou do empreendimento destinado a unidade residencial, podendo o IHRU, I. P., quando entenda necessário, solicitar parecer ao Instituto da Segurança Social, I. P., ou ao Instituto Nacional para a Reabilitação, I. P; ou
+
+c) No caso de incompatibilidade desses limites com as áreas do edificado existente, que sejam mantidas no âmbito de intervenções de reabilitação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 6.º
+
+A área bruta habitacional de um empreendimento de custos controlados não pode ser superior em 6 % nos empreendimentos multifamiliares e 3 % nos empreendimentos unifamiliares à área que resultar da aplicação dos limites máximos previstos no artigo 4.º às diversas tipologias das habitações que constituem o empreendimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+###### Artigo 7.º
+
+As habitações construídas ou reabilitadas previstas nas alíneas a) e c) do artigo 1.º têm limites máximos fixados, com base no respetivo custo de promoção (CP), de acordo com o disposto nos artigos seguintes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 8.º
+
+O CP por metro quadrado de área bruta das habitações de custos controlados previstas nas alíneas a) e c) do artigo 1.º é calculado de acordo com as seguintes fórmulas:
+
+CP = CS * 1,30 * CR * CO + VT * CT
+
+VT = (CL * 270 - 230) * CA/100
+
+em que:
+
+CS - é o custo de referência por metro quadrado de área bruta estabelecido de acordo com o artigo 9.º, majorado em 10 % quando a obra decorra em áreas de reabilitação urbana (ARU);
+
+CR - é o coeficiente regional, sendo igual a 1 para empreendimentos situados no continente e 1,20 para empreendimentos situados nas Regiões Autónomas da Madeira e dos Açores;
+
+CO - é o coeficiente operacional, sendo fixado entre 1 e 1,20, pelo IHRU, IP, caso a caso, de acordo com critérios definidos por despacho do membro do Governo responsável pela área da habitação;
+
+VT - é o valor do terreno;
+
+CT - é o coeficiente relativo à titularidade do terreno, sendo 1 no caso de terreno em propriedade plena, ou, no caso de terreno em direito de superfície, variável entre 0 e 0,8, conforme definido nas alíneas f), g) e h) do artigo 13.º do Código do Imposto Municipal sobre as Transmissões Onerosas de Imóveis, aprovado pelo Decreto-Lei n.º 287/2003, de 12 de novembro, na sua redação atual;
+
+CL - é o coeficiente de localização definido no artigo 42.º do Código do Imposto Municipal sobre Imóveis, aprovado pelo Decreto-Lei n.º 287/2003, de 12 de novembro, na redação atual, com o valor mínimo de 1,1;
+
+CA - é o coeficiente de atualização do valor do terreno, sendo igual ao Índice de Preços da Habitação para Portugal, divulgado pelo Instituto Nacional de Estatística.
+
+> Alterado pelo/a [Declaração de Retificação n.º 33/2025/1 - Diário da República n.º 136/2025, Série I de 2025-07-17](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/33-2025-925086641), produz efeitos a partir de 2025-07-12
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 265/2025/1 - Diário da República n.º 132/2025, Série I de 2025-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/265-2025-924485242), em vigor a partir de 2025-07-12
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Retificado pelo/a [Declaração de Retificação n.º 19/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2019-122124258), produz efeitos a partir de 2019-03-21
+
+###### Artigo 8.º-A
+
+O CP definido nos termos do artigo anterior, pode ser majorado até 20 %, no caso de habitações de custos controlados cuja empreitada tenha sido ou venha a ser adjudicada ao abrigo da previsão estabelecida no n.º 6 do artigo 70.º do Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua atual redação.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 265/2025/1 - Diário da República n.º 132/2025, Série I de 2025-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/265-2025-924485242), em vigor a partir de 2025-07-12
+
+###### Artigo 9.º
+
+O CS é atualizado mensalmente com base no índice de custo de construção de habitação nova (Base - 2021), divulgado pelo Instituto Nacional de Estatística, correspondendo a base 100 a 785 euros.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 10.º
+
+O CS é majorado até 15 % se o edifício ou habitação for certificado num sistema de certificação ambiental reconhecido pelo IHRU, I. P., cabendo a este Instituto definir a majoração atribuída a cada classe de desempenho.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 11.º
+
+O custo de promoção por metro quadrado de área bruta das partes acessórias (CPa) corresponde a 50 % do CP das habitações do edifício em que estão integradas, não podendo o custo de promoção de cada unidade ultrapassar os seguintes limites:
+
+a) Lugar de estacionamento em garagem coletiva - CPa * 28
+
+b) Boxe de estacionamento em garagem coletiva - CPa * 30;
+
+c) Garagem individual - CPa * 20;
+
+d) Arrecadação - CPa * 6.
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+> Retificado pelo/a [Declaração de Retificação n.º 19/2019 - Diário da República n.º 76/2019, Série I de 2019-04-17](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/19-2019-122124258), produz efeitos a partir de 2019-03-21
+
+###### Artigo 12.º
+
+O preço máximo de venda das habitações construídas ou reabilitadas nos termos previstos nas alíneas a) e c) do artigo 1.º corresponde ao produto do CP e CPa, respetivamente, pela área bruta da habitação e das suas partes acessórias, com uma majoração, no caso de promoção cooperativa, de 2,5 % e, no caso de promoção privada, de 6 %.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+###### Artigo 12.º-A
+
+O preço máximo previsto no artigo anterior não se aplica nos casos de transmissão das habitações construídas para arrendamento acessível nos termos do n.º 1 do artigo 5.º da Lei n.º 56/2023, de 6 de outubro, desde que salvaguardados os contratos de arrendamento em vigor e a afetação dos fogos à promoção de habitação para arrendamento acessível, pelo período mínimo de 25 ou 90 anos, consoante os casos.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+###### Artigo 13.º
+
+O preço máximo de venda dos equipamentos complementares corresponde ao produto da respetiva área bruta pelo CP das habitações do empreendimento em que estão integrados, com uma majoração, no caso de promoção cooperativa, de 2,5 % e, no caso de promoção privada, de 6 %.
+
+###### Artigo 14.º
+
+O preço máximo de venda dos espaços de comércio e serviços corresponde a 80 % do produto da respetiva área bruta pelo CP das habitações do empreendimento em que estão integrados, com uma majoração, no caso de promoção cooperativa, de 2,5 % e, no caso de promoção privada, de 6 %.
+
+###### Artigo 15.º
+
+As habitações construídas ou reabilitadas para arrendamento cujos limites de área e de custo de promoção sejam certificados nos termos da presente portaria estão sujeitas aos preços máximos de renda estabelecidos nos termos do Decreto-Lei n.º 68/2019, de 22 de maio, sendo, porém, o respetivo CP aplicado apenas à área construída ou reabilitada.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 15.º-A
+
+As habitações construídas ou reabilitadas para destinar a arrendamento acessível, nos termos da alínea b) do artigo 1.º, abrangidas pelo apoio do Estado resultante da aplicação conjugada do n.º 1 do artigo 3.º da Lei n.º 3/2019, de 9 de janeiro, e da verba 2.18 da lista i anexa ao Código do IVA, e sem prejuízo da existência de apoios adicionais a promover diretamente pelos municípios, não estão sujeitas aos limites a que se referem os artigos 3.º a 7.º e a certificação da correspondente empreitada como de custos controlados obedece aos seguintes requisitos:
+
+a) Envio de comunicação do promotor ao IHRU, I. P., para efeito de emissão de declaração de certificação, com a identificação dos imóveis, o número e as tipologias das habitações, e apresentação de, consoante o caso:
+
+i) Declaração do promotor na qual se obriga, sob compromisso de honra, a destinar as mesmas a arrendamento nos termos do Decreto-Lei n.º 68/2019, de 22 de maio; ou
+
+ii) Contrato de compra e venda, de arrendamento para subarrendamento ou contrato-promessa com o município, ou outra entidade pública, ou respetivo contrato promessa, no qual essa entidade se comprometa a proceder ao arrendamento ou subarrendamento das habitações ao abrigo do referido decreto-lei; e
+
+b) Enquadramento dos contratos de arrendamento no Decreto-Lei n.º 68/2019, de 22 de maio, considerando-se igualmente abrangidas as situações em que o arrendamento ou subarrendamento das habitações seja efetuado por município ou outra entidade pública ao abrigo do mesmo regime.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 320-A/2026/1 - Diário da República n.º 147/2026, Suplemento, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/portaria/320-a-2026-1153698896), em vigor a partir de 2026-08-01, com efeitos a partir de 2021-12-04.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 16.º
+
+A afetação e os limites de preço das habitações definidos nos artigos anteriores vigoram por um período mínimo de 25 ou 90 anos, consoante os casos, a contar da data de conclusão das obras de construção ou de reabilitação, sem prejuízo de, dentro desse período, as habitações afetas a venda poderem ser destinadas a arrendamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+###### Artigo 16.º-A
+
+A certificação como empreitada de reabilitação ou construção a custos controlados nos termos do artigo 15.º-A caduca se:
+
+a) Os contratos de arrendamento das habitações não forem celebrados nos termos do Decreto-Lei n.º 68/2019, de 22 de maio, no prazo máximo de um ano a contar da data de emissão das respetivas licenças de utilização;
+
+b) Às habitações for dado destino diferente daquele em que assentou a certificação, salvo nas situações previstas na parte final do artigo anterior; ou
+
+c) As habitações forem desafetadas do regime de arrendamento aplicado nos termos do artigo 15.º-A antes do termo do período estabelecido no artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 17.º
+
+O disposto no artigo anterior implica a igual não aplicação de quaisquer benefícios fiscais que a respetiva empreitada de construção tenha beneficiado, designadamente a taxa reduzida do IVA decorrente da verba 2.18 da lista i anexa ao Código do IVA, pelo que a entidade promotora responsável pelo programa ou, em caso de concessão, o concessionário, são responsáveis pelo pagamento dos montantes de imposto não liquidados, ao que poderão acrescer as demais penalidades que se mostrem devidas ao abrigo da legislação fiscal em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 18.º
+
+O disposto no artigo 16.º não é aplicável às habitações de custos controlados sujeitas a ónus ou regimes especiais de afetação ou de alienação ao abrigo de regimes especiais de financiamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+###### Artigo 19.º
+
+A sujeição aos limites de preço e o seu prazo estão sujeitos a inscrição no registo predial, a efetuar com base em declaração emitida, para o efeito, pelo IHRU, I. P.
+
+###### Artigo 20.º
+
+Para efeito do disposto na presente portaria, o IHRU, I. P., pode recomendar as soluções construtivas ou arquitetónicas que maximizem a relação qualidade-preço, bem como pode conceder apoio, nomeadamente logístico e ou financeiro, destinado a incentivar a investigação e o desenvolvimento de soluções que garantam os melhores preços finais.
+
+###### Artigo 21.º
+
+1 - A presente portaria aplica-se aos processos de certificação de habitação de custos controlados apresentados após a data da sua entrada em vigor.
+
+2 - A certificação das habitações construídas ou reabilitadas previstas na presente portaria, quando promovidas nas Regiões Autónomas da Madeira e dos Açores, é assegurada pelas entidades regionais com competência na área da habitação, sem prejuízo da regulamentação pelos seus órgãos próprios caso se revele necessária.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+###### Artigo 22.º
+
+São revogados a Portaria n.º 500/97, de 21 de julho, e o n.º 4 da Portaria n.º 371/97, de 6 de junho, considerando-se as remissões efetuadas para as respetivas disposições como feitas para as correspondentes previsões da presente portaria.
+
+###### Artigo 23.º
+
+A presente portaria entra em vigor no prazo de trinta dias após a data da sua publicação.
+
+## Anexo — Recomendações Técnicas para Habitação de Custos Controlados
+
+(a que se refere o n.º 3.º)
+
+A construção e a reabilitação de habitações de custos controlados obedecem às normas legais e regulamentares aplicáveis à urbanização e edificação e à reabilitação de edifícios, bem como às disposições e conceitos do regime de habitação de custos controlados (HCC), incluindo as respetivas Recomendações Técnicas das Habitações de Custos Controlados (RTHCC), que são definidas, entre outros, nos seguintes termos:
+
+A. Construção
+
+1 - Terrenos.
+
+Na construção de edifícios e empreendimentos habitacionais em regime de habitação de custos controlados deve ser evitada a utilização de terrenos que, pelas suas características, determinem um aumento do custo da promoção, nomeadamente, com:
+
+a) Afloramentos rochosos;
+
+b) Reduzida capacidade de carga [(menor que) 0,2 MPa];
+
+c) Nível freático muito elevado [profundidade (menor que) 3,50 m];
+
+d) Má exposição solar, em especial quando maioritariamente exposto ao quadrante norte; e
+
+e) Declive muito acentuado [(maior que) 15 %].
+
+A verificação pelo IHRU, I. P., da existência de características como as indicadas nas alíneas anteriores num terreno destinado à construção de HCC pode ser fundamento para emissão de decisão desfavorável à certificação da mesma nesse regime.
+
+2 - Empreendimentos habitacionais.
+
+Os empreendimentos de habitação de custos controlados devem ser concebidos por forma a serem integrados na malha urbana ou potenciarem a sua integração, tendo presente os pilares da sustentabilidade.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - Áreas para fins não habitacionais.
+
+Os edifícios podem integrar, preferencialmente nos pisos térreos, espaços destinados a fins não habitacionais, designadamente comércio ou serviços, desde que a respetiva área bruta total não exceda 25 % da área bruta do edifício e as unidades destinadas àqueles fins:
+
+a) Constituam unidades ou frações autónomas, com acesso direto do exterior, independente da entrada do edifício para acesso às habitações;
+
+b) Não se destinem à exploração de atividades que envolvam o armazenamento ou a manipulação de equipamentos, materiais, produtos ou resíduos que, de alguma forma, coloque em risco a segurança de pessoas ou bens.
+
+6 - Unidades residenciais.
+
+Os edifícios que constituam unidades residenciais em regime de habitação de custos controlados devem respeitar o cumprimento das recomendações previstas no ponto 1 das presentes RTHCC e as seguintes recomendações específicas:
+
+6.1 - Os espaços independentes do edifício destinados a habitação devem ser constituídos por habitações com tipologia máxima T1, podendo excecionalmente ser admitidas habitações de tipologia T2, até ao máximo de 20 % do número total de habitações do edifício, quando justificado por razões de unidade familiar, sem prejuízo de, dentro daquele limite, poder ser considerada outra tipologia para resposta a situações específicas, devidamente fundamentadas com parecer da entidade pública competente.
+
+6.2 - A definição dos fins e das dimensões das áreas destinadas a espaços complementares de utilização comum dos moradores deve ser efetuada de forma a dar uma resposta adequada às características específicas das pessoas a que se destinam as habitações.
+
+B. (Revogado.)
+
+> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 69-B/2024 - Diário da República n.º 39/2024, 1º Suplemento, Série I de 2024-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/69-b-2024-853692258), em vigor a partir de 2024-02-24
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 281/2021 - Diário da República n.º 234/2021, Série I de 2021-12-03](https://diariodarepublica.pt/dr/detalhe/portaria/281-2021-175336202), em vigor a partir de 2021-12-04
+
+A Secretária de Estado da Habitação, Ana Cláudia da Costa Pinho, em 15 de fevereiro de 2019.
+
+112075823

@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:179325:por
+title: Decreto-Lei n.º 361/85
+short_title: null
+summary: Estabelece disposições relativas à consolidação e regularização das dívidas da CP - Caminhos de Ferro Portugueses,
+  E. P., às instituições de crédito e ao Fundo Especial de Transportes Terrestres, contraídas até 31 de Dezembro de 1984,
+  acrescidas dos respectivos encargos até á mesma data
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento Social
+proposing_entity: null
+official_number: 361/85
+official_date: null
+publication_date: '1985-09-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 204/1985, Série I de 1985-09-05
+  number: '204'
+  series: I
+  supplement: null
+  pages: 2889 - 2891
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/09/20400/28892891.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '179325'
+  dre_path: /dr/detalhe/decreto-lei/361-1985-179325
+  internal: pt:dre:179325:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1985-179325
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1985-179325
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-09-05T00:00:00Z'
+integrity:
+  source_sha256: 53cd14f6dd0a9cd70c56c53604c290a5c2239cce315a909bd8b32a5c12e878b0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-361-179325.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 361/85
+
+de 5 de Setembro
+
+Face à grave situação financeira da CP - Caminhos de Ferro Portugueses, E. P., e à necessidade da tomada de posição sobre as dívidas acumuladas de há longos anos, o [Decreto-Lei n.º 63/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/63-1983-308280), de 3 de Fevereiro, estabeleceu, no seu artigo 5.º, que as dívidas ao Tesouro, Fundo Especial de Transportes Terrestres (FETT), Instituto de Gestão Financeira da Segurança Social (IGFSS), Fundo de Desemprego, instituições de crédito e restantes credores do sector público seriam consolidadas e garantido um prazo de amortização superior a 10 anos.
+
+Definia-se, por outro lado, que os encargos com as amortizações e os juros dessa consolidação seriam cobertos através de dotações e subsídios, desde que a empresa cumprisse as metas de viabilidade económica estabelecidas.
+
+Desde então, mesmo sem ter estabelecido qualquer acordo de saneamento económico e financeiro, a CP tem vindo a demonstrar uma franca recuperação, que é necessário consolidar e desenvolver. É com esse objectivo que também se irá celebrar o contrato-programa entre o Estado e a CP para o período de 1985-1987.
+
+Dado tratar-se de uma empresa fundamental ao desenvolvimento do País e num sector estratégico, o Governo entende, aliás no mesmo modo que se tem verificado nos países da Comunidade Económica Europeia, fixar condições extraordinárias para a resolução deste problema, devendo a CP, em contrapartida, dar rigoroso cumprimento doravante a todas as suas obrigações perante o Estado, nomeadamente as emergentes do contrato-prograrna que irá celebrar.
+
+Nesse sentido, fixam-se, através do presente decreto-lei, as condições de consolidação das dívidas da CP às instituições de crédito e ao FETT, cujo montante se estima em 39 milhões de contos.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — [Dívidas da CP às instituições de crédito e ao Fundo Especial de Transportes Terrestres (FETT)]
+
+1 - As dívidas da CP - Caminhos de Ferro Portugueses, E. P., adiante designada por CP, às instituições de crédito e ao Fundo Especial de Transportes Terrestres (FETT), contraídas até 31 de Dezembro de 1984, acrescidas dos respectivos encargos até à mesma data, são consolidadas e regularizadas nos termos dos artigos seguintes.
+
+2 - Os encargos referidos no número anterior não incluirão a sobretaxa de juros de mora sobre os débitos respectivos nem juros capitalizados desde as datas do vencimento daqueles débitos, os quais não serão devidos às entidades credoras.
+
+###### Artigo 2.º — (Dívidas com aval do Estado)
+
+1 - As dívidas da CP às instituições de crédito previstas no artigo 1.º e que tenham aval do Estado são regularizadas com a tomada, por aquelas instituições de crédito, de um empréstimo obrigacionista, com aval do Estado, que a CP emitirá para o efeito.
+
+2 - A amortização daquele empréstimo será efectuada em 15 anos, sendo os dois primeiros de carência, à taxa básica de desconto do Banco de Portugal acrescida de 3%, com pagamento da primeira prestação de capital em 31 de Dezembro de 1987.
+
+3 - Os juros vencem-se semestralmente, em 30 de Junho e 31 de Dezembro de cada um dos respectivos anos, sendo os primeiros em 30 de Junho de 1986.
+
+4 - Os títulos do empréstimo obrigacionista mencionado no n.º 1 são equiparados, para efeitos fiscais, a títulos de dívida pública.
+
+5 - Por despacho conjunto dos Ministros das Finanças e do Plano e do Equipamento Social serão aprovadas as restantes condições de emissão do empréstimo obrigacionista.
+
+###### Artigo 3.º — (Dívidas com garantia do FETT)
+
+1 - As dívidas da CP às instituições de crédito previstas no artigo 1.º, garantidas pelo FETT, são assumidas por aquele Fundo, que assim se tornará credor da CP pelos montantes assumidos.
+
+2 - O FETT pagará às instituições de crédito os montantes referidos no n.º 1 através da tomada por aquelas de um empréstimo obrigacionista que o FETT emitirá para o efeito.
+
+3 - Aplicam-se àquele empréstimo obrigacionista as condições e regime fiscal estabelecidos nos n.os 2, 3 e 4 do artigo 2.º
+
+4 - Por despacho conjunto dos Ministros das Finanças e do Plano e do Equipamento Social serão aprovadas as restantes condições de emissão do empréstimo obrigacionista.
+
+###### Artigo 4.º — (Dívidas sem aval do Estado nem garantia do FETT)
+
+1 - As dívidas da CP às instituições de crédito previstas no artigo 1.º sem aval do Estado nem garantia do FETT, incluindo as provenientes de letras comerciais aceites da CP, descontadas, são regularizadas com a tomada, por aquelas instituições de crédito, de um empréstimo obrigacionista, com aval do Estado, que a CP emitirá para o efeito.
+
+2 - A amortização daquele empréstimo será efectuada em sete anos, sendo de cerca de um ano o período de carência, à taxa básica de desconto do Banco de Portugal, com pagamento da primeira prestação de capital em 31 de Dezembro de 1986.
+
+3 - Os juros vencem-se semestralmente, em 30 de Junho e 31 de Dezembro de cada um dos respectivos anos, sendo os primeiros em 30 de Junho de 1986.
+
+4 - Aplica-se a esta operação o regime fiscal estabelecido no n.º 4 do artigo 2.º
+
+5 - Por despacho conjunto dos Ministros das Finanças e do Plano e do Equipamento Social serão aprovadas as restantes condições de emissão do empréstimo obrigacionista.
+
+###### Artigo 5.º — (Pagamento de juros de 1985)
+
+Os juros vencidos em 1985 até à emissão dos respectivos empréstimos obrigacionistas, correspondentes às dívidas da CP a que se referem os artigos anteriores, serão consolidados e pagos pela empresa em três prestações anuais iguais e sucessivas, vencendo juros à taxa básica de desconto do Banco de Portugal, com pagamento da primeira daquelas prestações até 31 de Dezembro de 1986.
+
+###### Artigo 6.º — (Apoios à CP para regularização dos empréstimos)
+
+1 - Os encargos resultantes do serviço da dívida decorrentes dos empréstimos obrigacionistas referidos nos artigos 2.º e 4.º, bem como os resultantes da consolidação dos juros referidos no artigo 5.º, serão regularizados pela CP através de dotações de capital a inscrever no Orçamento do Estado especificamente para essa finalidade, devendo ser criada rubrica orçamental própria.
+
+2 - Os encargos resultantes do serviço da dívida decorrente do empréstimo obrigacionista referido no artigo 3.º serão suportados pelo FETT, que, para o efeito, consignará, prioritariamente, ao reembolso ou pagamento dos juros, amortizações e demais encargos resultantes daquela operação a parte necessária das suas receitas próprias, devendo ser inscritas no seu orçamento as verbas destinadas especificamente ao regular serviço do empréstimo.
+
+3 - A CP reembolsará o FETT dos pagamentos efectuados por este, no âmbito da operação referida no artigo 3.º, através de subsídios não reembolsáveis de igual montante, que, para o efeito, lhe serão atribuídos por aquele Fundo.
+
+4 - O Ministério das Finanças e do Plano, através das Direcções-Gerais da Contabilidade Pública e do Tesouro, em moldes a estabelecer com o FETT e com a CP, assegurará o reembolso e o pagamento dos encargos do serviço das dívidas decorrentes das mencionadas operações de consolidação das dívidas da CP através da utilização das verbas referidas nos n.os 1 e 2 anteriores.
+
+###### Artigo 7.º — (Encargos de reforma de letras)
+
+1 - A CP assume os encargos até 31 de Dezembro de 1984 com reformas de letras, seus aceites, já debitados pelas instituições de crédito em contas dos sacadores, com exclusão das empresas públicas.
+
+2 - A CP efectuará até 31 de Dezembro de 1985 o pagamento desses encargos, regularizando-se então as contas dos sacadores.
+
+###### Artigo 8.º — (Dívidas ao FETT)
+
+O FETT concederá à CP, em 1985, um financiamento não reembolsável, com o limite de 4,5 milhões de contos, destinado à regularização dos empréstimos que lhe fez, aos débitos por imposto ferroviário e outras dívidas ao Fundo que se encontrem em mora.
+
+###### Artigo 9.º — (Disposição final)
+
+Os Ministros das Finanças e do Plano e do Equipamento Social fixarão as orientações e definirão as acções complementares que se revelem necessárias para a execução imediata deste diploma e instruirão os serviços e as demais entidades em conformidade.
+
+Visto e aprovado em Conselho de Ministros de 26 de Julho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Ernâni Rodrigues Lopes - Carlos Montez Melancia.
+
+**Promulgado em 14 de Agosto de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 19 de Agosto de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**

@@ -1,0 +1,302 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:483078:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2009-139547330",
+ "dre_path": "/dr/detalhe/portaria/1262-2009-483078",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-10-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "139547425",
+    "139547388",
+    "139547389",
+    "139547390",
+    "139547391",
+    "139547392",
+    "139547393",
+    "139547395"
+   ]
+  },
+  {
+   "date": "2012-07-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:656133:por",
+     "title": "Portaria n.º 216-B/2012",
+     "published": "2012-07-18",
+     "dre_path": "/dr/detalhe/portaria/216-b-2012-656133"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A"
+   ],
+   "fragments": [
+    "139547387",
+    "139547388",
+    "139547389",
+    "139547401",
+    "139547402",
+    "139547403",
+    "139547404",
+    "139547405",
+    "139547406",
+    "139547407"
+   ]
+  },
+  {
+   "date": "2020-08-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:139563956:por",
+     "title": "Portaria n.º 183/2020",
+     "published": "2020-08-05",
+     "dre_path": "/dr/detalhe/portaria/183-2020-139563956"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "139547425",
+    "139547426",
+    "139547427",
+    "139547428",
+    "139547429",
+    "139547430",
+    "139547431",
+    "139547432",
+    "139547433",
+    "139547434"
+   ]
+  }
+ ],
+ "fragments": {
+  "139547425": {
+   "fragment_id": "139547331",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-08-06",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1262/2009\n\nde 15 de Outubro\n\nA migração de pessoas, na esmagadora maioria dos casos por razões que se prendem com a procura de trabalho e de melhores condições de vida, é um elemento constitutivo das sociedades contemporâneas, fruto de um fenómeno que deixou de ser provisório para, ao invés, se intensificar e diversificar, quer quanto às proveniências étnicas, culturais e linguísticas dos cidadãos migrantes quer quanto ao modo como é perspectivado pelos próprios e, sobretudo, pelas sociedades que os acolhem. De direcção dupla, envolve, pois, os que chegam e os que acolhem e integram, exigindo o esforço de ambas as partes na partilha e compreensão de hábitos, costumes, valores, religiões e línguas.\n\nDesta realidade e considerando a emergência e a urgência da sua integração, questão que se tem vindo a tornar, de forma cada vez mais sistemática, no pilar do debate político e público europeu sobre a imigração, o direito à língua do país de acolhimento impõe-se como prioritário, de modo que, em lugar de funcionar como instrumento de discriminação, a língua se constitua como meio de acesso à cidadania, como um direito cuja aprendizagem viabilizará o usufruto de outros direitos, assim como o conhecimento e a promoção do cumprimento dos deveres que assistem a qualquer cidadão.\n\nConhecer a língua do país de acolhimento não é apenas uma condição necessária e indispensável para se ser autónomo, é também, e sobretudo, condição de desenvolvimento pessoal, familiar, cultural e profissional. O seu desconhecimento constitui uma desigualdade que fragiliza as pessoas, tornando-as dependentes e, por consequência, mais vulneráveis. Poder aprender a língua do país de acolhimento é poder adquirir os meios de comunicar, interagir, compreender, defender-se, confrontar-se com uma outra cultura e outros códigos, é poder escolher abrir-se aos outros.\n\nÉ preciso falar, compreender, ler, escrever em português para aceder ao mercado de trabalho, encontrar alojamento, pedir autorização de permanência no País, poder acompanhar a escolaridade dos filhos, aceder aos cuidados de saúde, compreender e participar na vida social, política e cultural.\n\nÉ preciso ser-se proficiente em português para, em Portugal, agir, exercendo uma cidadania plena e consciente.\n\nEm Portugal estas preocupações não são recentes, existindo desde há alguns anos ofertas de cursos de Português para estrangeiros. Contudo, face aos desenvolvimentos que têm ocorrido, nos últimos anos, não só a nível comunitário, nomeadamente com a publicação do Quadro Europeu Comum de Referência para as Línguas, mas também a nível nacional, mais concretamente com a aprovação do regime jurídico do Sistema Nacional de Qualificações pelo Decreto-Lei n.º 396/2007, de 31 de Dezembro, importa agora proceder à criação dos cursos de Português para Falantes (adultos) de Outras Línguas.\n\nAinda no plano nacional, e num quadro de mudança do enquadramento legal da imigração, é publicado, em 2007, o Plano para a Integração dos Imigrantes, através da Resolução do Conselho de Ministros n.º 63-A/2007, de 3 de Maio. Entre o conjunto de medidas inscritas no Plano encontram-se medidas de valorização do ensino do Português como língua não materna, enquanto factor gerador de uma maior igualdade de oportunidades para todos.\n\nComplementarmente, a Lei da Nacionalidade e o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional requerem como um dos requisitos para a aquisição da nacionalidade portuguesa e para a concessão de autorização de residência permanente e aquisição do estatuto de residente de longa duração o conhecimento suficiente da língua portuguesa, tal como dispõem, respectivamente, os artigos 25.º do Decreto-Lei n.º 237-A/2006, de 14 de Dezembro, e 80.º e 126.º da Lei n.º 23/2007, de 4 de Julho.\n\nÉ neste contexto que surge a presente portaria com o objectivo de criar os cursos de Português para Falantes (adultos) de Outras Línguas, com base no referencial O Português para Falantes de Outras Línguas - O Utilizador Elementar no País de Acolhimento, enquadrando-os no Sistema Nacional de Qualificações, nomeadamente pela inserção no Catálogo Nacional de Qualificações e pela adopção do modelo de certificado de qualificações.\n\nEsta portaria pretende ainda responder às exigências dos regimes jurídicos para aquisição da nacionalidade portuguesa e para a concessão de autorização de residência permanente e estatuto de residente de longa duração, no que diz respeito ao requisito do conhecimento da língua portuguesa.\n\nAssim:\n\nAo abrigo do disposto na Lei n.º 46/86, de 14 de Outubro, na redacção dada pelas Leis n.os 115/97, de 19 de Setembro, 49/2005, de 30 de Agosto, e 85/2009, de 27 de Agosto, e no Decreto-Lei n.º 396/2007, de 31 de Dezembro:\n\nManda o Governo, pelo Ministro do Trabalho e da Solidariedade Social e pelo Secretário de Estado da Educação, o seguinte:"
+  },
+  "139547388": {
+   "fragment_id": "139547332",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria cria os cursos de Português para Falantes de Outras Línguas, adiante designados por cursos, assim como as regras a que obedece a sua leccionação e certificação.\n\n2 - A organização, os referenciais de competências, os requisitos de acesso e a carga horária dos cursos obedecem ao referencial O Português para Falantes de Outras Línguas, homologado pelo membro do Governo responsável pela área da educação.\n\n3 - Os referenciais de competências que integram o referencial referido no número anterior constam do Catálogo Nacional de Qualificações."
+  },
+  "139547389": {
+   "fragment_id": "139547333",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades formadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades formadoras\n\nOs cursos são promovidos pelos estabelecimentos de ensino da rede pública e pelos centros de formação do Instituto do Emprego e Formação Profissional, I. P."
+  },
+  "139547390": {
+   "fragment_id": "139547334",
+   "type": 11,
+   "heading": "Artigo 3.º — Leccionação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Leccionação\n\nA leccionação dos cursos é assegurada por docentes profissionalizados na área do ensino do Português, preferencialmente com formação específica no ensino do Português como língua estrangeira ou língua segunda, ou por formadores devidamente certificados na mesma área, seleccionados, para o efeito, pelos estabelecimentos de ensino e centros de formação."
+  },
+  "139547391": {
+   "fragment_id": "139547335",
+   "type": 11,
+   "heading": "Artigo 4.º — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Certificação\n\n1 - A certificação dos cursos é efectuada pelos estabelecimentos de ensino ou pelo Instituto do Emprego e Formação Profissional, I. P., quando se trate de cursos promovidos nos centros de formação deste Instituto.\n\n2 - A certificação a que se refere o número anterior é formalizada com base no modelo de certificado emitido nos termos do disposto no n.º 3 do artigo 7.º do Decreto-Lei n.º 396/2007, de 31 de Dezembro, constante do anexo à presente portaria."
+  },
+  "139547392": {
+   "fragment_id": "139547336",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisito de conhecimento em língua portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisito de conhecimento em língua portuguesa\n\nA obtenção do nível A2 de proficiência linguística do utilizador elementar ou superior faz prova do conhecimento de língua portuguesa, nos termos do disposto na alínea b) do n.º 2 do artigo 25.º do Decreto-Lei n.º 237-A/2006, de 14 de Dezembro, que aprova o Regulamento da Nacionalidade Portuguesa, e nos termos do disposto nas alíneas e) do n.º 1 do artigo 64.º e g) do n.º 1 do artigo 74.º do Decreto Regulamentar n.º 84/2007, de 5 de Novembro, que regulamenta o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional."
+  },
+  "139547393": {
+   "fragment_id": "139547337",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de Abril de 2008.\n\nEm 24 de Setembro de 2009."
+  },
+  "139547395": {
+   "fragment_id": "139547339",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  },
+  "139547387": {
+   "fragment_id": "139547331",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1262/2009\n\nde 15 de Outubro\n\nA migração de pessoas, na esmagadora maioria dos casos por razões que se prendem com a procura de trabalho e de melhores condições de vida, é um elemento constitutivo das sociedades contemporâneas, fruto de um fenómeno que deixou de ser provisório para, ao invés, se intensificar e diversificar, quer quanto às proveniências étnicas, culturais e linguísticas dos cidadãos migrantes quer quanto ao modo como é perspectivado pelos próprios e, sobretudo, pelas sociedades que os acolhem. De direcção dupla, envolve, pois, os que chegam e os que acolhem e integram, exigindo o esforço de ambas as partes na partilha e compreensão de hábitos, costumes, valores, religiões e línguas.\n\nDesta realidade e considerando a emergência e a urgência da sua integração, questão que se tem vindo a tornar, de forma cada vez mais sistemática, no pilar do debate político e público europeu sobre a imigração, o direito à língua do país de acolhimento impõe-se como prioritário, de modo que, em lugar de funcionar como instrumento de discriminação, a língua se constitua como meio de acesso à cidadania, como um direito cuja aprendizagem viabilizará o usufruto de outros direitos, assim como o conhecimento e a promoção do cumprimento dos deveres que assistem a qualquer cidadão.\n\nConhecer a língua do país de acolhimento não é apenas uma condição necessária e indispensável para se ser autónomo, é também, e sobretudo, condição de desenvolvimento pessoal, familiar, cultural e profissional. O seu desconhecimento constitui uma desigualdade que fragiliza as pessoas, tornando-as dependentes e, por consequência, mais vulneráveis. Poder aprender a língua do país de acolhimento é poder adquirir os meios de comunicar, interagir, compreender, defender-se, confrontar-se com uma outra cultura e outros códigos, é poder escolher abrir-se aos outros.\n\nÉ preciso falar, compreender, ler, escrever em português para aceder ao mercado de trabalho, encontrar alojamento, pedir autorização de permanência no País, poder acompanhar a escolaridade dos filhos, aceder aos cuidados de saúde, compreender e participar na vida social, política e cultural.\n\nÉ preciso ser-se proficiente em português para, em Portugal, agir, exercendo uma cidadania plena e consciente.\n\nEm Portugal estas preocupações não são recentes, existindo desde há alguns anos ofertas de cursos de Português para estrangeiros. Contudo, face aos desenvolvimentos que têm ocorrido, nos últimos anos, não só a nível comunitário, nomeadamente com a publicação do Quadro Europeu Comum de Referência para as Línguas, mas também a nível nacional, mais concretamente com a aprovação do regime jurídico do Sistema Nacional de Qualificações pelo Decreto-Lei n.º 396/2007, de 31 de Dezembro, importa agora proceder à criação dos cursos de Português para Falantes (adultos) de Outras Línguas.\n\nAinda no plano nacional, e num quadro de mudança do enquadramento legal da imigração, é publicado, em 2007, o Plano para a Integração dos Imigrantes, através da Resolução do Conselho de Ministros n.º 63-A/2007, de 3 de Maio. Entre o conjunto de medidas inscritas no Plano encontram-se medidas de valorização do ensino do Português como língua não materna, enquanto factor gerador de uma maior igualdade de oportunidades para todos.\n\nComplementarmente, a Lei da Nacionalidade e o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional requerem como um dos requisitos para a aquisição da nacionalidade portuguesa e para a concessão de autorização de residência permanente e aquisição do estatuto de residente de longa duração o conhecimento suficiente da língua portuguesa, tal como dispõem, respectivamente, os artigos 25.º do Decreto-Lei n.º 237-A/2006, de 14 de Dezembro, e 80.º e 126.º da Lei n.º 23/2007, de 4 de Julho.\n\nÉ neste contexto que surge a presente portaria com o objectivo de criar os cursos de Português para Falantes (adultos) de Outras Línguas, com base no referencial O Português para Falantes de Outras Línguas - O Utilizador Elementar no País de Acolhimento, enquadrando-os no Sistema Nacional de Qualificações, nomeadamente pela inserção no Catálogo Nacional de Qualificações e pela adopção do modelo de certificado de qualificações.\n\nEsta portaria pretende ainda responder às exigências dos regimes jurídicos para aquisição da nacionalidade portuguesa e para a concessão de autorização de residência permanente e estatuto de residente de longa duração, no que diz respeito ao requisito do conhecimento da língua portuguesa.\n\nAssim:\n\nAo abrigo do disposto na Lei n.º 46/86, de 14 de Outubro, na redacção dada pelas Leis n.os 115/97, de 19 de Setembro, 49/2005, de 30 de Agosto, e 85/2009, de 27 de Agosto, e no Decreto-Lei n.º 396/2007, de 31 de Dezembro:\n\nManda o Governo, pelo Ministro do Trabalho e da Solidariedade Social e pelo Secretário de Estado da Educação, o seguinte:"
+  },
+  "139547401": {
+   "fragment_id": "139547346",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Grupos de formação",
+   "in_force_from": "2012-07-19",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 216-B/2012 - Diário da República n.º 138/2012, 1º Suplemento, Série I de 2012-07-18](https://diariodarepublica.pt/dr/detalhe/portaria/216-b-2012-656133), em vigor a partir de 2012-07-19"
+   ],
+   "markdown": "###### Artigo 2.º-A — Grupos de formação\n\n1 - O número de formandos necessário para a organização de um curso pode variar de acordo com a sua natureza, não podendo, no entanto, cada grupo de formação ter um número de formandos inferior a 26 nem superior a 30.\n\n2 - Pode ser autorizada, a título excecional, pelos membros do Governo competentes, a constituição de grupos de formação com um número de formandos inferior ou superior aos limites previstos no número anterior, sob proposta do serviço territorialmente competente, fundamentada em critérios de cobertura geográfica.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 216-B/2012 - Diário da República n.º 138/2012, 1º Suplemento, Série I de 2012-07-18](https://diariodarepublica.pt/dr/detalhe/portaria/216-b-2012-656133), em vigor a partir de 2012-07-19"
+  },
+  "139547402": {
+   "fragment_id": "139547334",
+   "type": 11,
+   "heading": "Artigo 3.º — Leccionação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Leccionação\n\nA leccionação dos cursos é assegurada por docentes profissionalizados na área do ensino do Português, preferencialmente com formação específica no ensino do Português como língua estrangeira ou língua segunda, ou por formadores devidamente certificados na mesma área, seleccionados, para o efeito, pelos estabelecimentos de ensino e centros de formação."
+  },
+  "139547403": {
+   "fragment_id": "139547335",
+   "type": 11,
+   "heading": "Artigo 4.º — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Certificação\n\n1 - A certificação dos cursos é efectuada pelos estabelecimentos de ensino ou pelo Instituto do Emprego e Formação Profissional, I. P., quando se trate de cursos promovidos nos centros de formação deste Instituto.\n\n2 - A certificação a que se refere o número anterior é formalizada com base no modelo de certificado emitido nos termos do disposto no n.º 3 do artigo 7.º do Decreto-Lei n.º 396/2007, de 31 de Dezembro, constante do anexo à presente portaria."
+  },
+  "139547404": {
+   "fragment_id": "139547336",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisito de conhecimento em língua portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisito de conhecimento em língua portuguesa\n\nA obtenção do nível A2 de proficiência linguística do utilizador elementar ou superior faz prova do conhecimento de língua portuguesa, nos termos do disposto na alínea b) do n.º 2 do artigo 25.º do Decreto-Lei n.º 237-A/2006, de 14 de Dezembro, que aprova o Regulamento da Nacionalidade Portuguesa, e nos termos do disposto nas alíneas e) do n.º 1 do artigo 64.º e g) do n.º 1 do artigo 74.º do Decreto Regulamentar n.º 84/2007, de 5 de Novembro, que regulamenta o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional."
+  },
+  "139547405": {
+   "fragment_id": "139547337",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de Abril de 2008.\n\nEm 24 de Setembro de 2009."
+  },
+  "139547406": {
+   "fragment_id": "139547338",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Secretário de Estado da Educação, Valter Victorino Lemos."
+  },
+  "139547407": {
+   "fragment_id": "139547339",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(ver documento original)"
+  },
+  "139547426": {
+   "fragment_id": "139547332",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2020-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente portaria cria os cursos de Português para Falantes de Outras Línguas, adiante designados por cursos, assim como as regras a que obedece a sua leccionação e certificação.\n\n2 - A organização, os referenciais de competências, os requisitos de acesso e a carga horária dos cursos obedecem ao referencial O Português para Falantes de Outras Línguas, homologado pelo membro do Governo responsável pela área da educação.\n\n3 - Os referenciais de competências que integram o referencial referido no número anterior constam do Catálogo Nacional de Qualificações.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+  },
+  "139547427": {
+   "fragment_id": "139547333",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades formadoras",
+   "in_force_from": "2020-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades formadoras\n\nOs cursos são promovidos pelos estabelecimentos de ensino da rede pública e pelos centros de formação do Instituto do Emprego e Formação Profissional, I. P.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+  },
+  "139547428": {
+   "fragment_id": "139547346",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Grupos de formação",
+   "in_force_from": "2020-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 216-B/2012 - Diário da República n.º 138/2012, 1º Suplemento, Série I de 2012-07-18](https://diariodarepublica.pt/dr/detalhe/portaria/216-b-2012-656133), em vigor a partir de 2012-07-19"
+   ],
+   "markdown": "###### Artigo 2.º-A — Grupos de formação\n\n1 - O número de formandos necessário para a organização de um curso pode variar de acordo com a sua natureza, não podendo, no entanto, cada grupo de formação ter um número de formandos inferior a 26 nem superior a 30.\n\n2 - Pode ser autorizada, a título excecional, pelos membros do Governo competentes, a constituição de grupos de formação com um número de formandos inferior ou superior aos limites previstos no número anterior, sob proposta do serviço territorialmente competente, fundamentada em critérios de cobertura geográfica.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 216-B/2012 - Diário da República n.º 138/2012, 1º Suplemento, Série I de 2012-07-18](https://diariodarepublica.pt/dr/detalhe/portaria/216-b-2012-656133), em vigor a partir de 2012-07-19"
+  },
+  "139547429": {
+   "fragment_id": "139547334",
+   "type": 11,
+   "heading": "Artigo 3.º — Leccionação",
+   "in_force_from": "2020-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+   ],
+   "markdown": "###### Artigo 3.º — Leccionação\n\nA leccionação dos cursos é assegurada por docentes profissionalizados na área do ensino do Português, preferencialmente com formação específica no ensino do Português como língua estrangeira ou língua segunda, ou por formadores devidamente certificados na mesma área, seleccionados, para o efeito, pelos estabelecimentos de ensino e centros de formação.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+  },
+  "139547430": {
+   "fragment_id": "139547335",
+   "type": 11,
+   "heading": "Artigo 4.º — Certificação",
+   "in_force_from": "2020-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+   ],
+   "markdown": "###### Artigo 4.º — Certificação\n\n1 - A certificação dos cursos é efectuada pelos estabelecimentos de ensino ou pelo Instituto do Emprego e Formação Profissional, I. P., quando se trate de cursos promovidos nos centros de formação deste Instituto.\n\n2 - A certificação a que se refere o número anterior é formalizada com base no modelo de certificado emitido nos termos do disposto no n.º 3 do artigo 7.º do Decreto-Lei n.º 396/2007, de 31 de Dezembro, constante do anexo à presente portaria.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+  },
+  "139547431": {
+   "fragment_id": "139547336",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisito de conhecimento em língua portuguesa",
+   "in_force_from": "2020-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+   ],
+   "markdown": "###### Artigo 5.º — Requisito de conhecimento em língua portuguesa\n\nA obtenção do nível A2 de proficiência linguística do utilizador elementar ou superior faz prova do conhecimento de língua portuguesa, nos termos do disposto na alínea b) do n.º 2 do artigo 25.º do Decreto-Lei n.º 237-A/2006, de 14 de Dezembro, que aprova o Regulamento da Nacionalidade Portuguesa, e nos termos do disposto nas alíneas e) do n.º 1 do artigo 64.º e g) do n.º 1 do artigo 74.º do Decreto Regulamentar n.º 84/2007, de 5 de Novembro, que regulamenta o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+  },
+  "139547432": {
+   "fragment_id": "139547337",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": "2020-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+   ],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de Abril de 2008.\n\nEm 24 de Setembro de 2009.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+  },
+  "139547433": {
+   "fragment_id": "139547338",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+   ],
+   "markdown": "O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva. - O Secretário de Estado da Educação, Valter Victorino Lemos.\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+  },
+  "139547434": {
+   "fragment_id": "139547339",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2020-08-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+   ],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 14.º do/a [Portaria n.º 183/2020 - Diário da República n.º 151/2020, Série I de 2020-08-05](https://diariodarepublica.pt/dr/detalhe/portaria/183-2020-139563956), em vigor a partir de 2020-08-06"
+  }
+ }
+}

@@ -1,0 +1,233 @@
+---
+schema_version: '1.0'
+id: pt:dre:489510:por
+title: Decreto Regulamentar n.º 21/2009
+short_title: null
+summary: Aprova a orgânica da Direcção-Geral de Pessoal e Recrutamento Militar
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 21/2009
+official_date: null
+publication_date: '2009-09-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/2009, Série I de 2009-09-04
+  number: '172'
+  series: I
+  supplement: null
+  pages: 5966 - 5967
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17200/0596605967.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/21/2009/09/04/p/dre/pt/html
+  oj: null
+  dre: '489510'
+  dre_path: /dr/detalhe/decreto-regulamentar/21-2009-489510
+  internal: pt:dre:489510:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2009-489510
+  metadata_url: https://data.dre.pt/eli/decregul/21/2009/09/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/21-2009-489510
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-01-18T00:00:00Z'
+integrity:
+  source_sha256: 0483861271f2fc81232dc410e2e04a0fea8ec5e4d9fd6a411ec0c43e554cab25
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-21-489510.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Defesa Nacional
+- Pessoal Dirigente
+- Direcção Geral de Pessoal e Recrutamento Militar
+- Definição de Competências
+- Diretor Geral
+- Orgânica
+- Quadro de Pessoal
+- Subdirector Geral
+relationships:
+- type: amended_by
+  target: pt:dre:544417:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/154-a/2009/07/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/154-a/2009/07/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/4/2002/02/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/4/2002/02/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/39/2008/02/28/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 21/2009
+
+de 4 de Setembro
+
+No quadro das orientações para a reorganização da estrutura superior da defesa nacional e das Forças Armadas aprovadas pela [Resolução do Conselho de Ministros n.º 39/2008](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/39-2008-247435), de 28 de Fevereiro, na esteira do Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 154-A/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-a-2009-655675), de 6 de Julho, que aprovou a Lei Orgânica do Ministério da Defesa Nacional (MDN), avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+Nos termos do citado diploma legal, a Direcção-Geral de Pessoal e Recrutamento Militar, abreviadamente designada por DGPRM, é um serviço central da administração directa do Estado, dotado de autonomia administrativa.
+
+À DGPRM está cometida a missão de conceber, harmonizar e apoiar tecnicamente a definição e execução das políticas de recursos humanos necessários à defesa nacional e de apoio aos antigos combatentes.
+
+Compete-lhe assim apoiar a definição de políticas para a defesa nacional nos domínios dos regimes de emprego e da gestão de recursos humanos, bem como assegurar a recolha e a qualidade da informação necessária à produção de indicadores e outra informação de gestão que permitam a adequada avaliação das medidas de política.
+
+Por outro lado, a DGPRM deve organizar-se de modo a assumir uma efectiva intervenção cada vez mais especializada, mas que contemple simultaneamente a diversidade de dimensões que caracteriza os vários domínios em que desenvolve a sua actuação - no âmbito da consolidação da profissionalização, da qualificação dos recursos humanos, do ensino e formação, da saúde, da protecção social, mas também da reabilitação daqueles que padecem de deficiências em virtude do serviço prestado às Forças Armadas e do apoio aos antigos combatentes.
+
+Neste sentido incumbe à DGPRM o contínuo desenvolvimento de um modelo de intervenção consubstanciado em conceitos como a transversalidade das obrigações militares, obtenção dos recursos humanos, permanência nas fileiras e empregabilidade.
+
+Compete ainda à DGPRM a criação de modelos que permitam uma utilização mais racional dos recursos humanos da defesa nacional, aproveitando durante um maior período de tempo a experiência profissional adquirida através da adequação da duração do vínculo contratual, da potenciação dos modelos de formação e da satisfação organizacional e individual.
+
+São estas, em síntese, as orientações que impõem o redesenho da sua estrutura orgânica dotando-a de adequada flexibilidade estrutural no sentido de lhe permitir ajustar-se às exigências e prioridades resultantes das suas mais amplas e reforçadas atribuições, cumprindo assim as razões que impõem a sua existência e motivaram a sua reestruturação.
+
+Com a presente regulamentação define-se a missão da DGPRM, suas atribuições e o tipo de organização interna numa lógica que visa dotar os serviços com os meios necessários de forma a permitir-lhes responder eficazmente aos desafios, adequando a estrutura à missão.
+
+O presente decreto regulamentar é enformado pelos princípios orientadores da organização e funcionamento dos serviços da administração directa do Estado, o que permite a opção por uma estrutura organizacional de dimensão flexível, susceptível de garantir a adaptação dos serviços às mudanças, em razão da natureza e exigências das actividades a desenvolver, por um lado, e da qualidade dos métodos de trabalho e de organização, por outro, visando a racionalização dos meios, a eficiência da utilização dos recursos públicos e a melhoria dos serviços prestados.
+
+Assim:
+
+Nos termos da alínea c) do artigo 199.º da Constituição e do n.º 1 do artigo 24.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Direcção-Geral de Pessoal e Recrutamento Militar (DGPRM) é um serviço central da administração directa do Estado, dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DGPRM tem por missão conceber, harmonizar e apoiar tecnicamente a definição e execução das políticas de recursos humanos necessários à defesa nacional e o apoio aos antigos combatentes.
+
+2 - A DGPRM prossegue as seguintes atribuições:
+
+a) Estudar, propor e assegurar a concretização das medidas de política de recursos humanos, militares, militarizados e civis, respectivos regimes jurídicos e demais legislação aplicável, assim como propostas relativas à mobilização necessária à prossecução dos objectivos permanentes da política de defesa nacional;
+
+b) Propor e avaliar as medidas relativas aos vínculos, carreiras e remunerações do pessoal militar, militarizado e civil das Forças Armadas;
+
+c) Planear, dirigir e monitorizar o processo de recrutamento militar e de apoio à reinserção sócio-profissional;
+
+d) Propor, avaliar e executar a política de apoio aos antigos combatentes;
+
+e) Propor e avaliar a política nos domínios do ensino, formação e desenvolvimento profissional;
+
+f) Propor e avaliar a política social e de reabilitação, acompanhar a respectiva execução e instruir os processos de qualificação dos deficientes das Forças Armadas;
+
+g) Participar na definição da política de ensino superior militar, em articulação com o Conselho de Ensino Superior Militar;
+
+h) Participar na definição da política de saúde militar e apoio sanitário, em articulação com o Conselho de Saúde Militar;
+
+i) Planear, dirigir e monitorizar com a colaboração dos ramos das Forças Armadas as actividades relativas ao Dia da Defesa Nacional.
+
+3 - A DGPRM assegura o apoio técnico, administrativo e logístico ao Conselho do Ensino Superior Militar e ao Conselho da Saúde Militar.
+
+###### Artigo 3.º — Órgãos
+
+1 - A DGPRM é dirigida por um director-geral, coadjuvado por um subdirector-geral.
+
+2 - Junto da DGPRM funcionam ainda:
+
+a) A Chefia do Serviço de Assistência Religiosa das Forças Armadas;
+
+b) A Comissão de Educação Física e Desporto Militar.
+
+###### Artigo 4.º — Director-geral
+
+1 - Compete ao director-geral gerir a organização de acordo com os compromissos constantes da sua carta de missão, sem prejuízo das competências que lhe sejam conferidas por lei ou nele delegadas ou subdelegadas.
+
+2 - O subdirector-geral exerce as competências que lhe sejam delegadas ou subdelegadas pelo director-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 5.º — Tipo de organização
+
+A organização interna dos serviços obedece ao seguinte modelo estrutural misto:
+
+a) Nas áreas de actividade multidisciplinares e interdepartamentais pode ser adoptado o modelo de estrutura matricial;
+
+b) Nas restantes áreas, o modelo de estrutura hierarquizada.
+
+###### Artigo 6.º — Receitas e despesas
+
+1 - A DGPRM dispõe como receitas as dotações do Orçamento do Estado e tem como despesas as decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+2 - A DGPRM dispõe ainda de quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+###### Artigo 7.º — Quadro de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 8.º — Estatuto remuneratório do chefe de equipa multidisciplinar
+
+Ao chefe da equipa multidisciplinar é atribuído um estatuto remuneratório equiparado a director de serviços ou chefe de divisão, em função da natureza e complexidade das funções.
+
+###### Artigo 9.º — Norma revogatória
+
+É revogado o [Decreto Regulamentar n.º 4/2002](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2002-272422), de 5 de Fevereiro.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no dia 1 de Novembro de 2009.
+
+Visto e aprovado em Conselho de Ministros de 9 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Henrique Nuno Pires Severiano Teixeira.
+
+**Promulgado em 30 de Julho de 2009.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 31 de Julho de 2009.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+## ANEXO I — MAPA
+
+(a que se refere o artigo 7.º)
+
+Quadro de pessoal dirigente
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2009/09/17200/0596605967.pdf))](https://files.diariodarepublica.pt/1s/2009/09/17200/0596605967.pdf)

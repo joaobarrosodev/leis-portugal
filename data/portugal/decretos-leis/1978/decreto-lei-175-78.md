@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:297797:por
+title: Decreto-Lei n.º 175/78
+short_title: null
+summary: Estabelece normas relativas a gestão administrativa no quadro geral de adidos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Reforma Administrativa
+proposing_entity: null
+official_number: 175/78
+official_date: null
+publication_date: '1978-07-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 159/1978, Série I de 1978-07-13
+  number: '159'
+  series: I
+  supplement: null
+  pages: 1299 - 1301
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/07/15900/12991301.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '297797'
+  dre_path: /dr/detalhe/decreto-lei/175-1978-297797
+  internal: pt:dre:297797:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1978-297797
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1978-297797
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-05-29T00:00:00Z'
+integrity:
+  source_sha256: d6751f72bcf67514dd11e24473bc498e2239ed8abff4eb1cb8c8610adc0bcdd7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-175-297797.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122434535:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 175/78
+
+de 13 de Julho
+
+Considerando que a gestão do quadro geral de adidos vem sendo conduzida no sentido da rápida integração na nossa Administração dos agentes nele ingressados;
+
+Considerando que a gestão de um quadro com o volume e heterogeneidade dos efectivos que o quadro geral de adidos engloba haverá de fazer-se seguindo medidas de política dinâmicas que tenham em conta os condicionalismos próprios do mercado de emprego do sector público e a situação a cada momento daquele quadro;
+
+Considerando, finalmente, que interessa clarificar alguns dos mecanismos da gestão administrativa do mesmo quadro:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — (Formalidades referentes à admissão de pessoal não vinculado à função pública)
+
+1 - Sob pena de inexistência jurídica, a admissão a qualquer título, sujeita ou não ao visto do Tribunal de Contas, de pessoal não vinculado à função pública por quaisquer serviços ou organismos da Administração Central, regional e local, bem como por institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos, incluindo serviços ou organismos em regime de instalação, depende da publicação no Diário da República do respectivo despacho, com menção do resultado da consulta ao Serviço Central de Pessoal, prevista no artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril.
+
+2 - O disposto no número anterior não prejudica o constante da parte final do n.º 4 do artigo 53.º do referido decreto-lei.
+
+###### Artigo 2.º — (Congelamento das admissões de pessoal em empresas públicas)
+
+1 - O regime referente às restrições à admissão de pessoal estabelecido no artigo 53.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033) será extensivo, com as necessárias adaptações, ao ingresso para lugares permanentes de empresas públicas relativamente a categorias:
+
+a) Que sejam específicas de funções exercidas no âmbito das mesmas;
+
+b) Que não estejam previstas em quadros de serviços e organismos públicos;
+
+c) Para que haja adidos disponíveis que, nos territórios descolonizados, se encontrassem afectos a serviços e organismos cujos correspondentes no nosso país assumam a natureza de empresas públicas.
+
+2 - A definição das empresas e categorias abrangidas por essa restrição, bem como o período em que estas vigorarão, serão estabelecidos em portaria do Ministro da Reforma Administrativa e dos membros do Governo competentes relativamente a cada uma delas.
+
+###### Artigo 3.º — (Formas de integração global e individual de adidos)
+
+1 - Para além das formas previstas nos artigos 13.º e 41.º, n.º 4, do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), a integração global de adidos poderá ainda fazer-se, sempre que se registem necessidades permanentes de serviço, mediante simples alargamento dos quadros de pessoal dos serviços ou organismos integradores, a promover mediante portaria conjunta dos Ministros das Finanças e do Plano, da Reforma Administrativa e da pasta respectiva.
+
+2 - O diploma a que se refere o número anterior estabelecerá, designadamente, o número de lugares a aumentar aos quadros e as categorias e a forma de integração, devendo esta processar-se através de listas nominativas.
+
+3 - Sem prejuízo da integração prevista na alínea a) do n.º 3 do artigo 41.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033) e da observância do n.º 2 do artigo 43.º do mesmo diploma, na redacção que lhe foi conferida pelo [Decreto-Lei n.º 356/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1977-286531), de 31 de Agosto, a integração de adidos em lugares dos quadros poderá também fazer-se para categoria a que corresponda igual vencimento, ainda que de diferente conteúdo funcional, desde que se trate de lugares de ingresso das respectivas carreiras e o adido possua as habilitações literárias estabelecidas por lei, como requisito de provimento.
+
+###### Artigo 4.º — (Integração de adidos sem perda de qualidade de subscritor da Caixa Geral de Aposentações)
+
+A integração de adidos em empresas públicas ou privadas, instituições de segurança social, pessoas colectivas de direito privado e utilidade pública administrativa e organismos de coordenação económica poderá fazer-se, mediante solicitação do próprio, sem prejuízo da qualidade de subscritor da Caixa Geral de Aposentações, continuando, por isso, em tudo subordinados ao Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
+
+###### Artigo 5.º — (Agentes reintegrados)
+
+É extensivo aos agentes reintegrados ao abrigo do [Decreto-Lei n.º 124/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1975-160895), de 11 de Março, cujos serviços ou organismos de origem não hajam sido extintos, e cujos lugares tenham sido entretanto providos por outros agentes, o regime previsto no artigo 14.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, na redacção que lhe foi dada pelo [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), de 12 de Novembro.
+
+###### Artigo 6.º — (Inscrição de adidos na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado)
+
+Além dos agentes previstos nos n.os 7 e 8 do artigo 26.º e dos n.os 1 e 2 do artigo 50.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), serão igualmente inscritos na Caixa Geral de Aposentações e no Montepio dos Servidores do Estado os agentes ingressados no quadro geral de adidos que, nunca tendo efectuado descontos para as pensões de aposentação e de sobrevivência, estejam, todavia, em condições de vir a reunir os requisitos mínimos fixados na lei para beneficiar das mesmas, para efeito do que será contado o tempo de serviço prestado à ex-administração ultramarina sem sujeição àqueles descontos, desde que o requeiram e liquidem as correspondentes quotas, nos termos legais.
+
+###### Artigo 7.º — (Aposentação de agentes do quadro geral de adidos)
+
+1 - É prorrogado por noventa dias, a contar da data da publicação do presente diploma, o prazo previsto no n.º 1 do artigo 5.º do [Decreto-Lei n.º 356/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1977-286531), de 31 de Agosto, para os agentes que, encontrando-se nas condições estabelecidas pelo n.º 1 do artigo 49.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033) e pretendendo beneficiar do regime estabelecido no n.º 4 do mesmo preceito, já se encontrassem ingressados no quadro geral de adidos à data da publicação do primeiro daqueles diplomas.
+
+2 - Aos agentes que requeiram ou hajam requerido a aposentação nos termos dos n.os 1 e 2 do artigo 5.º do [Decreto-Lei n.º 356/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1977-286531) e deste preceito não será tida em consideração a reclassificação operada nos termos do artigo 56.º e do n.º 1, alínea b), e do n.º 3 do artigo 19.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), na redacção que lhe foi conferida pelo [Decreto-Lei n.º 819/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/819-1976-407118), sempre que a mesma se tenha traduzido por descida de letra de vencimento.
+
+3 - Os agentes que pretendam beneficiar do regime previsto no número precedente deverão requerê-lo no prazo de sessenta dias, a contar da data da publicação deste diploma, para os agentes que hajam requerido a aposentação no período definido no n.º 1 do artigo 5.º do [Decreto-Lei n.º 356/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1977-286531), de 31 de Agosto, e no próprio pedido de passagem àquela situação, para os que venham a requerê-la nos termos definidos no n.º 2 daquele artigo e no n.º 4 deste preceito.
+
+4 - Poderão ainda beneficiar do regime referido no n.º 4 do artigo 49.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033) os agentes que, tendo ingressado no quadro geral de adidos e continuando a prestar serviço à administração dos territórios descolonizados ao abrigo das alíneas a) e b) do n.º 3 do artigo 1.º do [Decreto-Lei n.º 356/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/356-1977-286531), requererem a aposentação no prazo de seis meses, a contar do termo das situações nelas previstas.
+
+###### Artigo 8.º — (Direitos dos adidos)
+
+Os n.os 1, 2, 3 e 5 do artigo 26.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033) passam a ter a seguinte redacção:
+
+###### Art. 26.º - 1 - Na situação de disponibilidade, os adidos são titulares de todos os direitos comuns ao funcionalismo público, com excepção dos que são inerentes ao exercício de funções, sendo-lhes, porém, contado, para todos os efeitos legais, o tempo em que se mantiverem nesta situação.
+
+2 - Os adidos têm direito às seguintes remunerações certas:
+
+a) Na situação de disponibilidade, a 60% do vencimento base, de valor não inferior ao salário mínimo nacional, diuturnidades instituídas pelo [Decreto-Lei n.º 330/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/330-1976-427806), de 7 de Maio, subsídio de Natal, abono de família e respectivas prestações complementares e subsídio de férias, calculado nos termos previstos do despacho conjunto dos Ministérios da Administração Interna e das Finanças, de 31 de Dezembro de 1976, publicado no Diário da República, 1.ª série, n.º 303, da mesma data;
+
+b) Na situação de actividade no quadro, ao vencimento base da letra correspondente à categoria de ingresso no quadro geral de adidos, diuturnidades previstas na alínea anterior, subsídio de Natal correspondente, abono de família e respectivas prestações complementares, subsídio de refeição e subsídio de férias, calculado nos termos da alínea a);
+
+c) Na situação de actividade fora do quadro, ao vencimento, diuturnidades, subsídio de refeição, subsídio de Natal, abono de família e respectivas prestações complementares, subsídio de férias e demais remunerações que auferirem os agentes dos serviços utilizadores que exerçam as mesmas funções;
+
+3 - Além das remunerações previstas no n.º 2, os adidos têm direito, quando em actividade no quadro ou fora do mesmo, a todas as demais remunerações que, nos termos da legislação própria dos serviços ou organismos utilizadores, sejam devidas aos agentes que exerçam as mesmas funções, não podendo, porém, a remuneração global exceder a dos agentes do organismo utilizador.
+
+...
+
+5 - Têm direito ao vencimento de categoria e de exercício e às demais remunerações previstas na alínea a) do n.º 2, a partir do termo das situações que se enumeram, quando seguidas da fixação definitiva de domicílio em Portugal, os seguintes agentes:
+
+a) Os adidos que prestem serviço nos termos do artigo 38.º pelo período mínimo de um ano;
+
+b) Os funcionários que, encontrando-se nas condições de ingresso estabelecidas no artigo 1.º do [Decreto-Lei n.º 23/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1975-646092), de 22 de Janeiro, tenham continuado a prestar serviço ao abrigo de acordos de cooperação ou pré-cooperação, por período não inferior a um ano, salvo se prazo diferente não constar expressamente dos acordos celebrados, nos territórios que hajam ascendido à independência;
+
+c) Os agentes que, por legislação especial, hajam sido considerados excedentes de pessoal, até à primeira passagem à actividade no quadro ou fora do quadro.
+
+###### Artigo 9.º — (Remunerações acessórias)
+
+As remunerações acessórias referidas no n.º 2 do artigo 29.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033) compreendem todas as que sejam devidas aos agentes dos serviços utilizadores que exerçam as mesmas funções, designadamente, subsídios de residência, deslocação, alimentação e fardamento, horas extraordinárias e trabalho nocturno, abonos para despesas de representação, falhas e instalação, gratificações e comparticipações em receitas e em rendimentos emolumentares, ainda que correspondam ao vencimento de exercício.
+
+###### Artigo 10.º — (Revogação de preceitos legais)
+
+É revogado o n.º 6 do artigo 61.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril.
+
+###### Artigo 11.º — (Resolução de dúvidas)
+
+As dúvidas suscitadas pela aplicação do presente diploma serão esclarecidas mediante despacho dos Ministros das Finanças e do Plano e da Reforma Administrativa, de harmonia com a respectiva competência.
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio - Rui Eduardo Ferreira Rodrigues Pena.
+
+**Promulgado em 30 de Junho de 1978.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

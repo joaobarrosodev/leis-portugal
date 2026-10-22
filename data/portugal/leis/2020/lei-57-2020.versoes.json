@@ -1,0 +1,183 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:141377977:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-141377999",
+ "dre_path": "/dr/detalhe/lei/57-2020-141377977",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "141458675",
+    "141458676",
+    "141458677",
+    "141458678",
+    "141458679",
+    "141458680",
+    "141458681",
+    "141458682",
+    "141458683"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144730227:por",
+     "title": "Declaração de Retificação n.º 38/2020",
+     "published": "2020-10-07",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/38-2020-144730227"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 8.º"
+   ],
+   "fragments": [
+    "141458675",
+    "141458676",
+    "141458677",
+    "141458678",
+    "141458679",
+    "141458680",
+    "141458681",
+    "141458682",
+    "144715710",
+    "141458684"
+   ]
+  },
+  {
+   "date": "2023-06-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213650800:por",
+     "title": "Lei n.º 24/2023",
+     "published": "2023-05-29",
+     "dre_path": "/dr/detalhe/lei/24-2023-213650800"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "141458675",
+    "141458676",
+    "141458677",
+    "141458678",
+    "141458679",
+    "141458680",
+    "141458681",
+    "141458682",
+    "213702318",
+    "141458684"
+   ]
+  }
+ ],
+ "fragments": {
+  "141458675": {
+   "fragment_id": "141378000",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 57/2020\n\nde 28 de agosto\n\nSumário: Estabelece normas de proteção do consumidor de serviços financeiros, procedendo à quarta alteração ao Decreto-Lei n.º 133/2009, de 2 de junho, à primeira alteração à Lei n.º 66/2015, de 6 de julho, e à terceira alteração ao Decreto-Lei n.º 74-A/2017, de 23 de junho.\n\nEstabelece normas de proteção do consumidor de serviços financeiros, procedendo à quarta alteração ao Decreto-Lei n.º 133/2009, de 2 de junho, à primeira alteração à Lei n.º 66/2015, de 6 de julho, e à terceira alteração ao Decreto-Lei n.º 74-A/2017, de 23 de junho\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "141458676": {
+   "fragment_id": "141378001",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei estabelece normas de proteção do consumidor de serviços financeiros no comissionamento bancário, no crédito à habitação, no crédito aos consumidores, prevendo:\n\na) A emissão obrigatória e em tempo razoável de documento para extinção de garantia real ou distrate no término do contrato de crédito, verificado o cumprimento integral das obrigações contratuais, sem que haja lugar a cobrança de comissão pelo ato; e\n\nb) Princípios da proporcionalidade e razoabilidade das comissões bancárias.\n\n2 - A presente lei procede:\n\na) À quarta alteração ao Decreto-Lei n.º 133/2009, de 2 de junho, alterado pelos Decretos-Leis n.os 72-A/2010, de 17 de junho, 42-A/2013, de 28 de março, e 74-A/2017, de 23 de junho;\n\nb) À primeira alteração à Lei n.º 66/2015, de 6 de julho; e\n\nc) À terceira alteração ao Decreto-Lei n.º 74-A/2017, de 23 de junho, alterado pelas Leis n.º 32/2018, de 18 de julho, e 13/2019, de 12 de fevereiro."
+  },
+  "141458677": {
+   "fragment_id": "141378002",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 133/2009, de 2 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 133/2009, de 2 de junho\n\nOs artigos 14.º e 30.º do Decreto-Lei n.º 133/2009, de 2 de junho, passam a ter a seguinte redação:\n\n«Artigo 14.º\n\nInformação a prestar durante a vigência e após o termo do contrato de crédito\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - Na existência de garantias reais prestadas pelo consumidor, o credor tem um prazo de 14 dias úteis após o termo do contrato, seja por reembolso antecipado total ou pelo seu termo natural, para emitir e enviar ao consumidor o documento que permita a extinção da respetiva garantia, não havendo lugar à cobrança de comissão adicional por esse ato, verificado o cumprimento integral das obrigações contratuais.\n\nArtigo 30.º\n\n[...]\n\n1 - Constitui contraordenação a violação do disposto nos artigos 5.º, 6.º, 7.º e 8.º, no n.º 2 do artigo 9.º, no artigo 10.º, no n.º 2 do artigo 11.º, nos artigos 12.º, 14.º, 14.º-A, 15.º, 19.º, 20.º, 22.º, 23.º, 23.º-A, 24.º, no n.º 1 do artigo 25.º e nos artigos 27.º, 28.º, 29.º e 32.º, punível, no caso de infrações cometidas pelas instituições de crédito, ainda que através de intermediário de crédito, nos termos da alínea m) do artigo 210.º e do artigo 212.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, e, tratando-se dos demais credores, nos termos dos artigos 17.º e 21.º do Decreto-Lei n.º 433/82, de 27 de outubro, que institui o ilícito de mera ordenação social e respetivo processo.\n\n2 - ...\n\n3 - ...\n\n4 - ...»"
+  },
+  "141458678": {
+   "fragment_id": "141378003",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 133/2009, de 2 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 133/2009, de 2 de junho\n\nSão aditados os artigos 14.º-A e 23.º-A ao Decreto-Lei n.º 133/2009, de 2 de junho, com a seguinte redação:\n\n«Artigo 14.º-A\n\nRenegociação do contrato de crédito\n\nAos credores está vedada a cobrança de qualquer comissão pela análise da renegociação das condições do crédito, nomeadamente do spread ou do prazo de duração do contrato de crédito.\n\nArtigo 23.º-A\n\nLimitação à cobrança de comissões associadas aos contratos de crédito\n\nSem prejuízo do disposto no artigo 24.º, o mutuante encontra-se proibido de cobrar quaisquer comissões no âmbito do contrato de crédito contraído com o consumidor que sejam associadas:\n\na) Ao processamento de prestações de crédito ou cobradas com o mesmo propósito, quando aquele processamento for realizado pela própria instituição credora ou por entidade relacionada;\n\nb) À emissão do documento com vista à extinção da garantia real por parte do mutuante no termo do contrato de crédito, seja por reembolso antecipado total ou pelo seu termo natural, devendo aquele documento ser fornecido automática e gratuitamente ao consumidor no prazo máximo de quatorze (14) dias;\n\nc) À emissão de declarações de dívida ou qualquer outra declaração emitida com o mesmo propósito, quando esta tenha por fim o cumprimento de obrigações para acesso a apoios ou prestações sociais e serviços públicos, até ao limite anual de seis declarações.»"
+  },
+  "141458679": {
+   "fragment_id": "141378004",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração à Lei n.º 66/2015, de 6 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração à Lei n.º 66/2015, de 6 de julho\n\nÉ alterado o artigo 7.º da Lei n.º 66/2015, de 6 de julho, que passa a ter a seguinte redação:\n\n«Artigo 7.º\n\n[...]\n\nAs comissões e despesas cobradas pelas instituições de crédito e demais prestadores de serviços devem corresponder a um serviço efetivamente prestado, ser razoáveis e proporcionais aos custos suportados, ficando proibida a cobrança de quaisquer comissões, despesas ou encargos de outra natureza nos casos em que não seja efetivamente prestado um serviço ao abrigo do presente artigo.»"
+  },
+  "141458680": {
+   "fragment_id": "141378005",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Decreto-Lei n.º 74-A/2017, de 23 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Decreto-Lei n.º 74-A/2017, de 23 de junho\n\nOs artigos 11.º, 22.º e 29.º do Decreto-Lei n.º 74-A/2017, de 23 de junho, passam a ter a seguinte redação:\n\n«Artigo 11.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) Abra ou mantenha aberta uma conta de depósito à ordem, caso em que o mutuante deve aceitar uma conta numa instituição que não a sua;\n\nb) ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\nArtigo 22.º\n\nInformação a prestar durante a vigência e após o termo do contrato de crédito\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - No prazo máximo de 14 dias úteis após o termo do contrato, tem o credor a obrigação de emitir e enviar ao consumidor o respetivo distrate, não havendo lugar à cobrança de comissão adicional por esse ato, verificado o cumprimento integral das obrigações contratuais.\n\nArtigo 29.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nk) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\ns) ...\n\nt) ...\n\nu) ...\n\nv) ...\n\nw) ...\n\nx) ...\n\ny) ...\n\naa) A resolução ou alteração do contrato de crédito em prejuízo do consumidor, em violação do disposto no n.º 5 do artigo 16.º;\n\nab) ...\n\nac) ...\n\nad) ...\n\nae) ...\n\naf) ...\n\nag) ...\n\nah) ...\n\nai) ...\n\naj) ...\n\nak) ...\n\nal) ...\n\nam) ...\n\nan) ...\n\nao) ...\n\nap) ...\n\naq) ...\n\nar) ...\n\nas) ...\n\nat) ...\n\nau) ...\n\nav) ...\n\naw) ...\n\nax) ...\n\nay) ...\n\nba) ...\n\nbb) ...\n\nbc) ...\n\nbd) ...\n\nbe) ...\n\nbf) ...\n\nbg) ...\n\nbh) ...\n\nbi) ...\n\nbj) A cobrança de qualquer comissão pela renegociação do contrato de crédito ou associada ao processamento de prestações de crédito, à emissão de distrate após o termo do contrato ou à emissão de declarações de dívida ou qualquer declaração emitida para o cumprimento de obrigações para acesso a apoios ou prestações sociais e serviços públicos, em violação, respetivamente, do disposto nos artigos 14.º-A e 28.º-A.»"
+  },
+  "141458681": {
+   "fragment_id": "141378006",
+   "type": 11,
+   "heading": "Artigo 6.º — Aditamento ao Decreto-Lei n.º 74-A/2017, de 23 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aditamento ao Decreto-Lei n.º 74-A/2017, de 23 de junho\n\nÉ aditado o artigo 28.º-A ao Decreto-Lei n.º 74-A/2017, de 23 de junho, com a seguinte redação:\n\n«Artigo 28.º-A\n\nLimitação à cobrança de comissões associadas aos contratos de crédito\n\nO mutuante, incluindo instituições de crédito e demais entidades autorizadas à concessão de crédito, encontra-se proibido de cobrar comissões associadas:\n\na) Ao processamento de prestações de crédito, quando o respetivo processamento é realizado pela própria instituição credora ou entidade relacionada;\n\nb) À emissão de distrate após o termo do contrato, seja por reembolso antecipado total ou pelo seu termo natural, sendo este fornecido ou disponibilizado automática e gratuitamente ao consumidor no prazo máximo de quatorze (14) dias;\n\nc) À emissão de declarações de dívida ou qualquer outra declaração emitida com o mesmo propósito, quando esta tenha por fim o cumprimento de obrigações para acesso a apoios ou prestações sociais e serviços públicos, até ao limite anual de seis declarações.»"
+  },
+  "141458682": {
+   "fragment_id": "141378007",
+   "type": 11,
+   "heading": "Artigo 7.º — Outras disposições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outras disposições\n\n1 - No prazo de um ano a contar da entrada em vigor da presente lei, o Banco de Portugal apresenta à Assembleia da República e ao membro do Governo responsável pela área das finanças um relatório relativo às práticas respeitantes às vendas associadas à celebração de contratos de crédito à habitação e aos consumidores e à evolução do comissionamento bancário, tendo por referência, designadamente, o nível médio de comissões praticadas noutros Estados-Membros e a aplicação do princípio da proporcionalidade.\n\n2 - O Banco de Portugal aplica e regulamenta, com as necessárias adaptações, o disposto nos artigos 11.º a 13.º do Decreto-Lei n.º 107/2017, de 30 de agosto, relativamente à comparação das comissões respeitantes às operações ou serviços mais representativos cobrados pelos prestadores de serviços de pagamento nas aplicações de pagamento.\n\n3 - O Conselho Nacional de Supervisores Financeiros apresenta ao membro do Governo responsável pela área das finanças, no prazo de 120 dias a contar da data de entrada em vigor da presente lei, um relatório relativo à eventual criação de sandbox regulatórias e de zonas livres tecnológicas na área das fintech, tendo por referência, designadamente, os desenvolvimentos no âmbito da União Europeia, incluindo as iniciativas adotadas neste domínio pela Comissão Europeia ou pelas Autoridades Europeias de Supervisão."
+  },
+  "141458683": {
+   "fragment_id": "141378008",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\n1 - A presente lei entra em vigor no primeiro dia do mês após o 120.º dia posterior à data da sua publicação, com exceção do artigo 7.º, que entra em vigor no dia seguinte ao da sua publicação.\n\n2 - As seguintes alterações efetuadas pela presente lei apenas são aplicáveis aos contratos celebrados a partir da data da sua entrada em vigor:\n\na) Aditamento da alínea a) do artigo 23.º-A do Decreto-Lei n.º 133/2009, de 2 de junho;\n\nb) Aditamento da alínea a) do artigo 28.º-A do Decreto-Lei n.º 74-A/2017, de 23 de junho."
+  },
+  "144715710": {
+   "fragment_id": "141378008",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 38/2020 - Diário da República n.º 195/2020, Série I de 2020-10-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2020-144730227), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\n1 - A presente lei entra em vigor no dia 1 de janeiro de 2021, com exceção do artigo 7.º, que entra em vigor no dia seguinte ao da sua publicação.\n\n2 - As seguintes alterações efetuadas pela presente lei apenas são aplicáveis aos contratos celebrados a partir da data da sua entrada em vigor:\n\na) Aditamento da alínea a) do artigo 23.º-A do Decreto-Lei n.º 133/2009, de 2 de junho;\n\nb) Aditamento da alínea a) do artigo 28.º-A do Decreto-Lei n.º 74-A/2017, de 23 de junho.\n\n> Retificado pelo/a [Declaração de Retificação n.º 38/2020 - Diário da República n.º 195/2020, Série I de 2020-10-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2020-144730227), em vigor a partir de 2021-01-01"
+  },
+  "141458684": {
+   "fragment_id": "141378009",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 23 de julho de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 12 de agosto de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 13 de agosto de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113498719"
+  },
+  "213702318": {
+   "fragment_id": "141378008",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2023-06-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), em vigor a partir de 2023-06-28",
+    "Retificado pelo/a [Declaração de Retificação n.º 38/2020 - Diário da República n.º 195/2020, Série I de 2020-10-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2020-144730227), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\n1 - A presente lei entra em vigor no dia 1 de janeiro de 2021, com exceção do artigo 7.º, que entra em vigor no dia seguinte ao da sua publicação.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 24/2023 - Diário da República n.º 103/2023, Série I de 2023-05-29](https://diariodarepublica.pt/dr/detalhe/lei/24-2023-213650800), em vigor a partir de 2023-06-28\n\n> Retificado pelo/a [Declaração de Retificação n.º 38/2020 - Diário da República n.º 195/2020, Série I de 2020-10-07](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/38-2020-144730227), em vigor a partir de 2021-01-01"
+  }
+ }
+}

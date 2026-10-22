@@ -1,0 +1,147 @@
+---
+schema_version: '1.0'
+id: pt:dre:343638:por
+title: Portaria n.º 758/2010
+short_title: null
+summary: Exclui da zona de caça municipal da Picota os terrenos cinegéticos sitos na freguesia de Alferce, município de Monchique
+  (processo n.º 4178-AFN), exclui da zona de caça municipal de Alferce os terrenos cinegéticos sitos na freguesia de Alferce,
+  no mesmo município (processo n.º 4180-AFN), e anexa à zona de caça associativa do Esgravatadouro, Montes Velhos e outras
+  vários prédios rústicos sitos nas freguesias de Alferce e Monchique, ambas no município de Monchique, e na freguesia de
+  Silves, município de Silves (processo n.º 3393-AFN)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 758/2010
+official_date: null
+publication_date: '2010-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/2010, Série I de 2010-08-19
+  number: '161'
+  series: I
+  supplement: null
+  pages: 3615 - 3616
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/08/16100/0361503616.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/758/2010/08/19/p/dre/pt/html
+  oj: null
+  dre: '343638'
+  dre_path: /dr/detalhe/portaria/758-2010-343638
+  internal: pt:dre:343638:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/758-2010-343638
+  metadata_url: https://data.dre.pt/eli/port/758/2010/08/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/758-2010-343638
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-08-19T00:00:00Z'
+integrity:
+  source_sha256: 50b3a3395c8272d2da194810a191eccb60d8a130e83d7c14990c8f2c93d994bb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-758-343638.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Monchique
+- Silves
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/9/2009/01/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/9/2009/01/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1053/2003/09/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1053/2003/09/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/343/2006/04/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/343/2006/04/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/784/2006/08/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/784/2006/08/10/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 758/2010
+
+de 19 de Agosto
+
+As Portarias n.os [784/2006](https://diariodarepublica.pt/dr/detalhe/portaria/784-2006-538596), de 10 de Agosto, e 906/2007, de 14 de Agosto, procederam respectivamente à criação e à desanexação de terrenos da zona de caça municipal da Picota (processo n.º 4178-AFN), situada no município de Monchique, com a área de 6953 ha, válida até 10 de Agosto de 2012, e transferida a sua gestão para o Clube de Caça e Pesca de Monchique, que entretanto requereu a exclusão de alguns terrenos.
+
+As Portarias n.os [343/2006](https://diariodarepublica.pt/dr/detalhe/portaria/343-2006-653289), de 10 de Abril, 65/2007, de 11 de Janeiro, 905/2007, de 14 de Agosto, e 266/2009, de 16 de Março, procederam respectivamente à criação e a três desanexações de terrenos da zona de caça municipal de Alferce (processo n.º 4180-AFN), situada no município de Monchique, com a área de 2773 ha, válida até 10 de Abril de 2012, e transferida a sua gestão para a Associação de Caça e Pesca de Alferce, que entretanto requereu a exclusão de alguns terrenos.
+
+As Portarias n.os [1053/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1053-2003-494069), de 24 de Setembro, 81/2007, de 12 de Janeiro, e 911/2007, de 14 de Agosto, procederam respectivamente à criação e a duas anexações de prédios rústicos à zona de caça associativa do Esgravatadouro, Montes Velhos e outras (processo n.º 3393-AFN), situada no município de Monchique, com a área de 1306 ha, válida até 24 de Setembro de 2013, e concessionada ao Clube de Caça e Pesca de Monchique, que entretanto requereu a anexação de alguns terrenos objecto das exclusões acima referidas, entre outros.
+
+Cumpridos os preceitos legais e com fundamento no disposto no artigo 46.º, no n.º 2 do artigo 28.º, no artigo 11.º, em conjugação com o estipulado na alínea a) do artigo 40.º, e no n.º 1 do artigo 118.º, todos do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com a redacção que lhe foi conferida pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, e com a alteração do [Decreto-Lei n.º 9/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2009-396926), de 9 de Janeiro, consultados os Conselhos Cinegéticos Municipais de Silves e de Monchique de acordo com a alínea d) do artigo 158.º do mesmo diploma, e no uso das competências delegadas pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas pelo despacho n.º 78/2010, de 5 de Janeiro, e delegadas pela Ministra do Ambiente e do Ordenamento do Território pelo despacho n.º 932/2010, de 14 de Janeiro, manda o Governo, pelo Secretário de Estado das Florestas e Desenvolvimento Rural e pelo Secretário de Estado do Ambiente, o seguinte:
+
+###### Artigo 1.º — Exclusão
+
+1 - São excluídos da zona de caça municipal da Picota (processo n.º 4178-AFN) os terrenos cinegéticos sitos na freguesia de Alferce, município de Monchique, com a área de 18 ha, passando assim esta zona de caça a ser constituída pelos terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, com a área total de 6935 ha.
+
+2 - São excluídos da zona de caça municipal de Alferce (processo n.º 4180-AFN) os terrenos cinegéticos sitos na freguesia de Alferce, município de Monchique, com a área de 73 ha, passando assim esta zona de caça a ser constituída pelos terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante, com a área total de 2700 ha.
+
+###### Artigo 2.º — Anexação
+
+São anexados à zona de caça associativa do Esgravatadouro, Montes Velhos e outras (processo n.º 3393-AFN) vários prédios rústicos sitos nas freguesias de Alferce e Monchique, ambas do município de Monchique, com a área de 73 ha, e na freguesia de Silves, município de Silves, com a área de 133 ha, ficando assim esta zona de caça com a área total de 1512 ha, conforme planta anexa a esta portaria e que dela faz parte integrante.
+
+###### Artigo 3.º — Efeitos da sinalização
+
+A anexação referida no artigo anterior e as exclusões referidas no artigo 1.º só produzem efeitos relativamente a terceiros com a alteração da respectiva sinalização.
+
+###### Artigo 4.º — Produção de efeitos
+
+Esta portaria produz efeitos a partir de 6 de Maio de 2010.
+
+**O Secretário de Estado das Florestas e Desenvolvimento Rural, Rui Pedro de Sousa Barreiro, em 4 de Agosto de 2010. - O Secretário de Estado do Ambiente, Humberto Delgado Ubach Chaves Rosa, em 21 de Julho de 2010.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2010/08/16100/0361503616.pdf))](https://files.diariodarepublica.pt/1s/2010/08/16100/0361503616.pdf)

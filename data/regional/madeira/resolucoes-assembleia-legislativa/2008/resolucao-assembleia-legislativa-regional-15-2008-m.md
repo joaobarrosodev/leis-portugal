@@ -1,0 +1,233 @@
+---
+schema_version: '1.0'
+id: pt:dre:449456:por
+title: Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 15/2008/M
+short_title: null
+summary: Apresenta à Assembleia da República a proposta de lei de alteração do Estatuto dos Benefícios Fiscais, aprovado pelo
+  Decreto-Lei n.º 215/89, de 1 de Julho, na redacção e sistematização dada pela Lei n.º 53-A/2006, de 29 de Dezembro
+jurisdiction: regional
+territory: madeira
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 15/2008/M
+official_date: null
+publication_date: '2008-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 116/2008, Série I de 2008-06-18
+  number: '116'
+  series: I
+  supplement: null
+  pages: 3513 - 3514
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/06/11600/0351303514.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalram/15/2008/06/18/m/dre/pt/html
+  oj: null
+  dre: '449456'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/15-2008-449456
+  internal: pt:dre:449456:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/15-2008-449456
+  metadata_url: https://data.dre.pt/eli/resolalram/15/2008/06/18/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/15-2008-449456
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-06-18T00:00:00Z'
+integrity:
+  source_sha256: 3f9854e3ccc2fbe67566a1e49bb6cbd9a153141a74ab5234e4d3f0bea2b52128
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2008/DRE-2008-15-449456.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Compensação Financeira
+- Estatuto dos Benefícios Fiscais
+- Incentivos Fiscais
+- Mecenato
+- Madeira.região Autónoma
+- Setor Privado
+- Utilidade Pública
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/53-a/2006/12/29/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 15/2008/M
+
+Proposta de lei à Assembleia da República
+
+Procede à alteração do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, na redacção e sistematização dada pela [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), de 29 de Dezembro
+
+A concretização e o desenvolvimento da autonomia financeira da Região Autónoma da Madeira revelam-se de extrema importância para o cumprimento dos objectivos financeiros regionais e nacionais, em consonância com os princípios da legalidade, estabilidade orçamental, estabilidade das relações financeiras, coordenação e da solidariedade nacional.
+
+Tendo em conta as novas competências de adaptação do sistema fiscal nacional às especificidades regionais, resultante da entrada em vigor da Lei das Finanças das Regiões Autónomas, que vem atribuir a faculdade destas Regiões poderem, por um lado, adaptar os impostos de âmbito nacional às especificidades regionais e, por outro lado, criar impostos vigentes apenas naqueles territórios.
+
+Considerando a necessidade de incentivar o investimento nas Regiões Autónomas e assegurar a sustentabilidade do desenvolvimento económico e social, melhorando a eficiência funcional do sistema fiscal através do incentivo à participação das empresas privadas;
+
+Considerando a realidade regional, cujo tecido empresarial é constituído maioritariamente por pequenas e médias empresas e a pouca expressividade da prática mecenática na Região, torna-se essencial incrementar o sentido de responsabilidade social das empresas;
+
+Considerando que a Região Autónoma da Madeira é uma região ultraperiférica da União Europeia possuindo por esse facto um tecido empresarial com agravamentos suplementares derivados directamente do afastamento, insularidade e situação geográfica específica;
+
+Considerando que se torna indispensável a utilização de compensações, nomeadamente ao nível fiscal, para assegurar a competitividade do tecido empresarial regional, relativamente às suas congéneres nacionais ou europeias;
+
+Considerando, por fim, ser de extrema importância tornar os incentivos fiscais mais atractivos para o sector privado, referentes a donativos para fins de mecenato num apoio forte às instituições com declaração de utilidade pública, concedidos na Região Autónoma da Madeira, através da atribuição de uma majoração adequada à realidade regional sobre as percentagens tida para efeitos dos custos ou perdas do exercício totais:
+
+Assim, nos termos da alínea f) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea b) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, na redacção dada pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, a Assembleia Legislativa da Região Autónoma da Madeira apresenta à Assembleia da República a seguinte proposta de lei:
+
+###### Artigo 1.º — Alteração ao Estatuto dos Benefícios Fiscais
+
+Os artigos 56.º-D e 56.º-G do Estatuto dos Benefícios Fiscais, aprovado pelo [Decreto-Lei n.º 215/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1989-620928), de 1 de Julho, na redacção e sistematização dada pela [Lei n.º 53-A/2006](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), de 29 de Dezembro, passam a ter a seguinte redacção:
+
+«Artigo 56.º-D
+
+[...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+2 - ...
+
+3 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+4 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+5 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+6 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+g) ...
+
+h) ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+12 - ...
+
+13 - As percentagens referidas nos n.os 2, 4, 5 e 7 do presente artigo são majoradas, respectivamente, em mais 15 % para os donativos concedidos na Região Autónoma da Madeira.
+
+14 - O limite referido no n.º 6 do presente artigo é de 8/1000 do volume de vendas ou dos serviços prestados na Região Autónoma da Madeira.
+
+###### Artigo 56.º-G — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - As percentagens referidas nos n.os 1 e 2 do presente artigo são majoradas, respectivamente, em 145 % e 155 % para os donativos concedidos na Região Autónoma da Madeira.»
+
+###### Artigo 2.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de Janeiro de 2009.
+
+Aprovada em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Maio de 2008.
+
+**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**

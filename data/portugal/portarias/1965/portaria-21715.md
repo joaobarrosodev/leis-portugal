@@ -1,0 +1,243 @@
+---
+schema_version: '1.0'
+id: pt:dre:508043:por
+title: Portaria n.º 21715
+short_title: null
+summary: Substitui o quadro provisório de reforço ao quadro orgânico da Academia Militar, constante da Portaria n.º 21242
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Exército
+proposing_entity: null
+official_number: '21715'
+official_date: null
+publication_date: '1965-12-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 282/1965, Série I de 1965-12-14
+  number: '282'
+  series: I
+  supplement: null
+  pages: 1660 - 1660
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/12/28200/16601660.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '508043'
+  dre_path: /dr/detalhe/portaria/21715-1965-508043
+  internal: pt:dre:508043:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21715-1965-508043
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21715-1965-508043
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1965-12-14T00:00:00Z'
+integrity:
+  source_sha256: 7856a52dde5bde4538e2ef238a4ffe3a65e6947d5b618b9ad5e93cbfcfe751db
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1965/DRE-1965-21715-508043.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21715
+
+De harmonia com o artigo 69.º do [Decreto-Lei n.º 42152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42152-1959-590728), de 12 de Fevereiro de 1959:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Exército:
+
+1.º Publicar o quadro provisório de reforço ao quadro orgânico da Academia Militar, que é o constante do anexo à presente portaria e que substitui o que foi publicado com a [Portaria n.º 21242](https://diariodarepublica.pt/dr/detalhe/portaria/21242-1965-237448), de 24 de Abril de 1965.
+
+2.º No corrente ano, o excesso de encargos resultantes da publicação da presente portaria terá contrapartida nas disponibilidades que venham a verificar-se nas verbas constantes do capítulo 3.º, artigo 63.º, n.º 1) «Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei», do orçamento do Ministério do Exército.
+
+Ministérios das Finanças e do Exército, 14 de Dezembro de 1965. - O Ministro do Exército, Joaquim da Luz Cunha. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento.
+
+Quadro provisório de reforço ao quadro orgânico da Academia Militar
+
+Pessoal militar
+
+Oficiais:
+
+Tenente-coronel ou major de qualquer arma ... 1
+
+Majores ou capitães de qualquer arma (ver nota a) ... 2
+
+Capitães ou subalternos de qualquer arma ... 3
+
+Capitães ou subalternos de infantaria ... 2
+
+Capitães ou subalternos com a especialidade de educação física ... 3
+
+Capitães ou subalternos de qualquer arma instrutores de equitação ... 2
+
+Capitão ... 1
+
+Capitães ou subalternos do Q. S. G. E. ... 2
+
+Subalternos do Q. S. G. E. ... 2
+
+Subalterno de qualquer arma ... 1
+
+Subalterno médico (ou médico civil contratado) ... 1
+
+Subalterno médico estomatologista (ou médico estomatologista civil contratado) ... 1
+
+Sargentos:
+
+Amanuense ... 1
+
+Primeiro-sargento ... 1
+
+Segundos-sargentos ou furriéis ... 9
+
+Enfermeiros ... 2
+
+Mestre de corneteiros ... 1
+
+Auxiliar do alimentação ... 1
+
+Enfermeiro hípico ... 1
+
+Mecânico de radar ... 1
+
+Radiotelegrafista ... 1
+
+De qualquer arma com a especialidade de construções, podendo ser reformado ... 1
+
+Praças:
+
+Escriturário ... 1
+
+Cabos ... 9
+
+Cabo ferrador ... 1
+
+Enfermeiros ... 3
+
+Electricistas ... 2
+
+Condutores hipo ... 4
+
+De qualquer especialidade ... 85
+
+Telefonistas ... 2
+
+Cozinheiros ... 5
+
+Pessoal civil
+
+Contratados:
+
+Capelão ... 1
+
+Contínuos de 2.ª classe ... 6
+
+Chefes de culinária ... 2
+
+Chefes de cozinha de 1.ª classe ... 1
+
+Chefe de copa de 1.ª classe ... 1
+
+Segundo-oficial ... 1
+
+Terceiros-oficiais ... 3
+
+Escriturários de 1.ª classe ... 4
+
+Escriturários de 2.ª classe ... 3
+
+Despenseiro de 1.ª classe ... 1
+
+Porteiro de 1.ª classe ... 1
+
+Fiel de 1.ª classe ... 1
+
+Telefonistas de 1.ª classe ... 2
+
+Assalariados:
+
+Lubrificador de 2.ª classe (ver nota d) ... 1
+
+Serventes de 1.ª classe (ver nota b) (ver nota c) ... 37
+
+Chefies de mesa de 1.ª classe (ver nota c) ... 1
+
+Cozinheiro de 1.ª classe (ver nota c) ... 1
+
+Lavadeira de 1.ª classe (ver nota d) ... 1
+
+Lavadeira de 2.ª classe (ver nota d) ... 1
+
+Carpinteiro de 1.ª classe (ver nota d) ... 1
+
+Pedreiro de 1.ª classe (ver nota d) ... 1
+
+Pedreiro de 2.ª classe (ver nota d) ... 1
+
+Pintor de 1.ª classe (ver nota d) ... 1
+
+Jardineiro de 1.ª classe (ver nota d) ... 1
+
+Caixeiro de 1.ª classe (ver nota c) ... 1
+
+Caixeiros de 2.ª classe (ver nota c) ... 3
+
+Barbeiros de 1.ª classe (ver nota c) ... 2
+
+Barbeiro de 2.ª classe (ver nota c) ... 1
+
+Canalizador de 1.ª classe (ver nota d) ... 1
+
+Tipógrafo de 1.ª classe (ver nota d) ... 1
+
+Impressor de 3.ª classe (ver nota d) ... 1
+
+(nota a) um é mestre de ginástica, de esgrima ou de luta.
+
+(nota b) Acumulam com o serviço de alimentação.
+
+(nota c) Durante 365 dias.
+
+(nota d) Durante 313 dias.
+
+Ministérios das Finanças e do Exército, 14 de Dezembro de 1965. - O Ministro do Exército, Joaquim da Luz Cunha. - Pelo Ministro das Finanças, Manuel Tarujo de Almeida, Subsecretário de Estado do Orçamento.

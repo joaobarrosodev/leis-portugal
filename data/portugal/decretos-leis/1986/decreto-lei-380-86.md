@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:220770:por
+title: Decreto-Lei n.º 380/86
+short_title: null
+summary: Aplica ao pessoal dos centros regionais de segurança social o regime de destacamento previsto no artigo 24.º do Decreto-Lei
+  n.º 41/84, de 3 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 380/86
+official_date: null
+publication_date: '1986-11-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 260/1986, Série I de 1986-11-11
+  number: '260'
+  series: I
+  supplement: null
+  pages: 3384 - 3385
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/11/26000/33843385.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '220770'
+  dre_path: /dr/detalhe/decreto-lei/380-1986-220770
+  internal: pt:dre:220770:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1986-220770
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-1986-220770
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: 7fa296b0e4beafab8e09920b5c99ae5d16ad3c9188aefdbb3e92b6f122703d54
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-380-220770.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 380/86
+
+de 11 de Novembro
+
+Mostrando-se necessário assegurar a continuidade do desempenho de funções nos equipamentos sociais oficiais actualmente dependentes dos centros regionais de segurança social e objecto de acordos de gestão celebrados ou a celebrar nos termos previstos no [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, bem como garantir o regime vincular dos funcionários em exercício nos referidos equipamentos:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Os funcionários dos quadros de pessoal dos centros regionais de segurança social em desempenho de funções nos equipamentos sociais oficiais objecto de acordos de gestão celebrados nos termos do n.º 3 do artigo 4.º do Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, consideram-se destacados nos termos do disposto no artigo 24.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+
+###### Art. 2.º O regime de destacamento referido no artigo anterior, atenta a sua natureza especial, não fica sujeito aos períodos de duração previstos na alínea a) do n.º 2 do artigo 24.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855) de 3 de Fevereiro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 160/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-1986-228464), de 26 de Junho.
+
+Visto e aprovado em Conselho de Ministros de 9 de Outubro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
+
+**Promulgado em 25 de Outubro de 1986.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 28 de Outubro de 1986.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

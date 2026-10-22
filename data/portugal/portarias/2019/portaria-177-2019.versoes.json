@@ -1,0 +1,304 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:122520774:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-158054823",
+ "dre_path": "/dr/detalhe/portaria/177-2019-122520774",
+ "source_lastmod": "2026-10-20",
+ "versions": [
+  {
+   "date": "2019-06-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "158146675",
+    "158146676",
+    "158146677",
+    "158146678",
+    "158146679",
+    "158146680",
+    "158146681"
+   ]
+  },
+  {
+   "date": "2021-02-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:158052102:por",
+     "title": "Portaria n.º 42/2021",
+     "published": "2021-02-22",
+     "dre_path": "/dr/detalhe/portaria/42-2021-158052102"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "158146675",
+    "158146676",
+    "158146677",
+    "158146678",
+    "158146679",
+    "158146692",
+    "158146681",
+    "158146682"
+   ]
+  },
+  {
+   "date": "2024-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:852994103:por",
+     "title": "Portaria n.º 59/2024",
+     "published": "2024-02-19",
+     "dre_path": "/dr/detalhe/portaria/59-2024-852994103"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "158146675",
+    "853111453",
+    "853111454",
+    "158146678",
+    "853111455",
+    "853111456",
+    "158146681",
+    "158146682"
+   ]
+  },
+  {
+   "date": "2026-10-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1179722108:por",
+     "title": "Portaria n.º 454/2026/1",
+     "published": "2026-10-13",
+     "dre_path": "/dr/detalhe/portaria/454-2026-1179722108"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1180259375",
+    "1180259575",
+    "1180259675",
+    "1180259775",
+    "1180259875",
+    "1180259975",
+    "1180260075",
+    "1180260175"
+   ]
+  }
+ ],
+ "fragments": {
+  "158146675": {
+   "fragment_id": "158054824",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 177/2019\n\nde 6 de junho\n\nNos termos previstos na alínea a) do artigo 28.º do Decreto-Lei n.º 68/2019, de 22 de maio, o Governo deve, por portaria do membro do Governo responsável pela área da habitação, regulamentar as disposições relativas à inscrição de alojamentos no Programa de Arrendamento Acessível, estabelecendo as condições mínimas aplicáveis aos alojamentos em matéria de segurança, salubridade e conforto, o conteúdo da ficha do alojamento, os elementos instrutórios a apresentar para a inscrição dos mesmos e o conteúdo do respetivo certificado, nos termos previstos na alínea a) do artigo 8.º e nos n.os 1 e 2 do artigo 11.º do referido decreto-lei.\n\nAssim:\n\nAo abrigo do disposto na alínea a) do artigo 8.º e nos n.os 1 e 2 do artigo 11.º do Decreto-Lei n.º 68/2019, de 22 de maio, manda o Governo, pela Secretária de Estado da Habitação, no uso de competências delegadas pelo Despacho n.º 3396/2019, publicado no Diário da República, 2.ª série, n.º 61, de 27 de março, o seguinte:"
+  },
+  "158146676": {
+   "fragment_id": "158054825",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à regulamentação das disposições do Decreto-Lei n.º 68/2019, de 22 de maio, relativas à inscrição de alojamentos no Programa de Arrendamento Acessível, estabelecendo:\n\na) As condições mínimas aplicáveis aos alojamentos em matéria de segurança, salubridade e conforto, previstas na alínea a) do artigo 8.º;\n\nb) O conteúdo da ficha do alojamento, prevista no n.º 1 do artigo 11.º;\n\nc) Os elementos instrutórios a apresentar para a inscrição do alojamento, previstos no n.º 1 do artigo 11.º;\n\nd) O conteúdo do certificado de inscrição do alojamento, previsto no n.º 2 do artigo 11.º"
+  },
+  "158146677": {
+   "fragment_id": "158054826",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições mínimas de segurança, salubridade e conforto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Condições mínimas de segurança, salubridade e conforto\n\nAs condições mínimas de segurança, salubridade e conforto exigíveis aos alojamentos a disponibilizar no âmbito de Programa de Arrendamento Acessível, previstas na alínea a) do artigo 8.º do Decreto-Lei n.º 68/2019, de 22 de maio, são, cumulativamente, as seguintes:\n\na) Nas partes comuns do edifício onde se localiza o alojamento, nomeadamente, na estrutura, cobertura, paredes, pavimentos, escadas, janelas, portas e instalações técnicas, não devem existir anomalias aparentes que constituam risco para a segurança ou para a saúde dos moradores, ou que prejudiquem a normal utilização desses espaços;\n\nb) Na habitação onde se localiza o alojamento:\n\ni) Deve existir pelo menos uma sala com iluminação e ventilação natural, seja através de janela ou porta envidraçada em contacto direto com o exterior, seja através de varanda envidraçada ou de compartimento utilizado como quarto ou cozinha que possua janela ou porta envidraçada em contacto direto com o exterior;\n\nii) Apenas pode ser considerado como «quarto», para efeitos de definição da modalidade, da tipologia e da ocupação mínima do alojamento, um compartimento que possua área útil não inferior a 6 m2 e seja dotado de iluminação e ventilação natural através de janela, porta envidraçada ou varanda envidraçada em contacto direto com o exterior, sem prejuízo do disposto na alínea seguinte;\n\niii) Deve existir, pelo menos, uma instalação sanitária com lavatório e sanita com autoclismo, e pelo menos uma base de duche ou banheira, bem como um espaço com lava-louça e condições para instalação e utilização de um fogão e de um frigorífico;\n\niv) Devem existir instalações adequadas e funcionais de eletricidade, de distribuição de água e de drenagem de águas residuais;\n\nv) Não devem existir anomalias aparentes que constituam risco para a segurança, a saúde ou a normal utilização da habitação, nomeadamente nas paredes, pavimentos, tetos, escadas, portas, janelas e nas instalações de água, eletricidade ou gás.\n\nc) Quando se trate de «parte de habitação», além dos requisitos definidos na subalínea ii) da alínea anterior, o quarto deve ter acesso através de espaço de circulação, sala ou cozinha."
+  },
+  "158146678": {
+   "fragment_id": "158054827",
+   "type": 11,
+   "heading": "Artigo 3.º — Ficha do alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Ficha do alojamento\n\n1 - A ficha do alojamento prevista no n.º 1 do artigo 11.º do Decreto-Lei n.º 68/2019, de 22 de maio, contém os seguintes elementos:\n\na) Identificação da habitação onde se localiza o alojamento, incluindo a respetiva morada e número de inscrição na matriz predial;\n\nb) Modalidade do alojamento;\n\nc) Características do alojamento relevantes para a determinação do limite específico do preço de renda, nos termos dos n.os 3 ou 4 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\nd) Lista de verificação das condições estabelecidas no artigo anterior;\n\ne) Declaração assinada pelo prestador ou prestadores que:\n\ni) Ateste a veracidade e atualidade das informações prestadas nas alíneas precedentes e dos documentos apresentados para a inscrição do alojamento;\n\nii) Autorize o Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), a proceder ao tratamento dos dados relativos ao alojamento e dados pessoais do prestador, nos termos e na medida estritamente necessários à inscrição do alojamento, ao enquadramento do respetivo contrato de arrendamento no Programa de Arrendamento Acessível, bem como à fiscalização desse enquadramento e verificação do cumprimento dos deveres do prestador nesse domínio;\n\niii) Ateste ter sido informado que pode retirar a autorização prevista na subalínea anterior, a todo o tempo, e que, nessa situação, deixa de poder beneficiar do Programa de Arrendamento Acessível;\n\nf) Declaração a assinar por todos os candidatos que confirme as informações constantes das alíneas a) e c) e a ausência de indícios de incumprimento das condições estabelecidas no artigo anterior.\n\n2 - O modelo de ficha do alojamento é definido pelo IHRU, I. P."
+  },
+  "158146679": {
+   "fragment_id": "158054828",
+   "type": 11,
+   "heading": "Artigo 4.º — Elementos instrutórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Elementos instrutórios\n\n1 - A inscrição de alojamentos no Programa de Arrendamento Acessível, prevista no n.º 1 do artigo 11.º do Decreto-Lei n.º 68/2019, de 22 de maio, é feita através de plataforma eletrónica e requer a apresentação dos seguintes elementos instrutórios:\n\na) Informações:\n\ni) Identificação do prestador ou prestadores, contendo para cada um deles o nome completo, o número de identificação fiscal (NIF) e o endereço de correio eletrónico adotado para efeito de comunicação no âmbito do Programa de Arrendamento Acessível;\n\nii) Informações constantes da ficha de alojamento, a que se referem as alíneas a) a d) do n.º 1 do artigo anterior;\n\nb) Documentos:\n\ni) Certificado Energético;\n\nii) Caderneta predial.\n\n2 - A inscrição do alojamento pode ser feita por prestador ou por representante deste."
+  },
+  "158146680": {
+   "fragment_id": "158054829",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificado de inscrição do alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Certificado de inscrição do alojamento\n\n1 - O certificado de inscrição de um alojamento no Programa de Arrendamento Acessível, previsto no n.º 2 do artigo 11.º do Decreto-Lei n.º 68/2019, de 22 de maio, é emitido pela plataforma eletrónica do Programa de Arrendamento Acessível com base nas informações inseridas pelo prestador ou representante do mesmo na inscrição do alojamento, contendo os seguintes elementos:\n\na) O número de inscrição, atribuído automaticamente;\n\nb) O nome ou designação social e o NIF do prestador ou prestadores;\n\nc) A modalidade do alojamento;\n\nd) A tipologia do alojamento, quando se trate de «habitação», ou a área do quarto, quando se trate de «parte de habitação»;\n\ne) A ocupação mínima;\n\nf) O limite máximo do preço de renda mensal;\n\ng) A data de emissão e validade do certificado.\n\n2 - O modelo de certificado de inscrição é definido pelo IHRU, I. P."
+  },
+  "158146681": {
+   "fragment_id": "158054830",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor a 1 de julho de 2019."
+  },
+  "158146692": {
+   "fragment_id": "158054829",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificado de inscrição do alojamento",
+   "in_force_from": "2021-02-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 42/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/42-2021-158052102), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 5.º — Certificado de inscrição do alojamento\n\n1 - O certificado de inscrição de um alojamento no Programa de Arrendamento Acessível, previsto no n.º 2 do artigo 11.º do Decreto-Lei n.º 68/2019, de 22 de maio, é emitido pela plataforma eletrónica do Programa de Arrendamento Acessível com base nas informações inseridas pelo prestador ou representante do mesmo na inscrição do alojamento, contendo os seguintes elementos:\n\na) O número de inscrição, atribuído automaticamente;\n\nb) O nome ou designação social e o NIF do prestador ou prestadores;\n\nc) A modalidade do alojamento;\n\nd) A tipologia do alojamento, quando se trate de «habitação», ou a área do quarto, quando se trate de «parte de habitação»;\n\ne) A ocupação mínima;\n\nf) O limite máximo do preço de renda mensal;\n\ng) A data de emissão e validade do certificado.\n\n2 - O modelo de certificado de inscrição é definido pelo IHRU, I. P.\n\n3 - A inscrição do alojamento pode ser retificada para correção de erros materiais, lapsos gramaticais, ortográficos, de mero cálculo ou de natureza análoga, desde que validada pelo IHRU, I. P., considerando-se a inscrição efetuada nos termos dos certificados emitidos, sem prejuízo de os efeitos da referida retificação se reportarem à data de emissão do certificado inicial.\n\n4 - A validação das retificações previstas no número anterior é notificada ao candidato e ao prestador.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 42/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/42-2021-158052102), em vigor a partir de 2021-02-23"
+  },
+  "158146682": {
+   "fragment_id": "158054831",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado da Habitação, Ana Cláudia da Costa Pinho, em 3 de junho de 2019.\n\n112357411"
+  },
+  "853111453": {
+   "fragment_id": "158054825",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à regulamentação das disposições do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, relativas à inscrição de alojamentos no Programa de Apoio ao Arrendamento, estabelecendo:\n\na) As condições mínimas aplicáveis aos alojamentos em matéria de segurança, salubridade e conforto, previstas na alínea a) do artigo 8.º;\n\nb) (Revogada.)\n\nc) Os elementos de informação necessários à inscrição do alojamento, nos termos do n.º 1 do artigo 11.º;\n\nd) O conteúdo do certificado de inscrição do alojamento, previsto no n.º 2 do artigo 11.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+  },
+  "853111454": {
+   "fragment_id": "158054826",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições mínimas de segurança, salubridade e conforto",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 2.º — Condições mínimas de segurança, salubridade e conforto\n\nAs condições mínimas de segurança, salubridade e conforto exigíveis aos alojamentos a disponibilizar no âmbito do Programa de Apoio ao Arrendamento, previstas na alínea a) do artigo 8.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, são, cumulativamente, as seguintes:\n\na) Nas partes comuns do edifício onde se localiza o alojamento, nomeadamente, na estrutura, cobertura, paredes, pavimentos, escadas, janelas, portas e instalações técnicas, não devem existir anomalias aparentes que constituam risco para a segurança ou para a saúde dos moradores, ou que prejudiquem a normal utilização desses espaços;\n\nb) Na habitação onde se localiza o alojamento:\n\ni) Deve existir pelo menos uma sala com iluminação e ventilação natural, seja através de janela ou porta envidraçada em contacto direto com o exterior, seja através de varanda envidraçada ou de compartimento utilizado como quarto ou cozinha que possua janela ou porta envidraçada em contacto direto com o exterior;\n\nii) Apenas pode ser considerado como «quarto», para efeitos de definição da modalidade, da tipologia e da ocupação mínima do alojamento, um compartimento que possua área útil não inferior a 6 m2 e seja dotado de iluminação e ventilação natural através de janela, porta envidraçada ou varanda envidraçada em contacto direto com o exterior, sem prejuízo do disposto na alínea seguinte;\n\niii) Deve existir, pelo menos, uma instalação sanitária com lavatório e sanita com autoclismo, e pelo menos uma base de duche ou banheira, bem como um espaço com lava-louça e condições para instalação e utilização de um fogão e de um frigorífico;\n\niv) Devem existir instalações adequadas e funcionais de eletricidade, de distribuição de água e de drenagem de águas residuais;\n\nv) Não devem existir anomalias aparentes que constituam risco para a segurança, a saúde ou a normal utilização da habitação, nomeadamente nas paredes, pavimentos, tetos, escadas, portas, janelas e nas instalações de água, eletricidade ou gás.\n\nc) Quando se trate de «parte de habitação», além dos requisitos definidos na subalínea ii) da alínea anterior, o quarto deve ter acesso através de espaço de circulação, sala ou cozinha.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+  },
+  "853111455": {
+   "fragment_id": "158054828",
+   "type": 11,
+   "heading": "Artigo 4.º — Elementos necessários à inscrição de alojamentos",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 4.º — Elementos necessários à inscrição de alojamentos\n\n1 - Para efeitos da inscrição de alojamentos no âmbito do Programa de Apoio ao Arrendamento na plataforma eletrónica, são necessários os seguintes elementos de informação:\n\na) Identificação do prestador ou prestadores, contendo, para cada um deles, o nome completo, o número de identificação fiscal (NIF) e o endereço de correio eletrónico adotado para efeitos de comunicação no âmbito do Programa de Apoio ao Arrendamento;\n\nb) Identificação da habitação onde se localiza o alojamento, incluindo a respetiva morada e número de inscrição na matriz predial;\n\nc) Modalidade do alojamento;\n\nd) Características do alojamento relevantes para a determinação do limite específico do preço de renda, nos termos dos n.os 2 ou 3 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\ne) Lista de verificação das condições mínimas de segurança, salubridade e conforto exigíveis aos alojamentos estabelecidas no artigo 2.º;\n\nf) Coeficiente energético.\n\n2 - Os elementos de informação previstos no número anterior são facultados pelo prestador, sem prejuízo do disposto no número seguinte.\n\n3 - O prestador fica dispensado de facultar os elementos de informação previstos no n.º 1 sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com a entidade da área das finanças e com as demais entidades públicas competentes na matéria.\n\n4 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com a entidade da área das finanças e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo prestador, sem prejuízo do disposto no número seguinte.\n\n5 - Caso o prestador detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com a entidade da área das finanças e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas.\n\n6 - O modelo de formulário de inscrição de alojamento é definido pelo IHRU, I. P., e deve prever a confirmação expressa, por parte dos prestadores, da veracidade e atualidade dos elementos de informação previstos no n.º 1.\n\n7 - A inscrição do alojamento pode ser feita por prestador ou por representante deste.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+  },
+  "853111456": {
+   "fragment_id": "158054829",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificado de inscrição do alojamento",
+   "in_force_from": "2024-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 42/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/42-2021-158052102), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 5.º — Certificado de inscrição do alojamento\n\n1 - O certificado de inscrição de um alojamento no Programa de Apoio ao Arrendamento, previsto no n.º 2 do artigo 11.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, é emitido pela plataforma eletrónica com base nos elementos de informação previstos no artigo anterior, contendo o seguinte:\n\na) O número de inscrição, atribuído automaticamente;\n\nb) O nome ou designação social e o NIF do prestador ou prestadores;\n\nc) Identificação da habitação onde se localiza o alojamento, incluindo a respetiva morada e número de inscrição na matriz predial;\n\nd) A tipologia do alojamento, quando se trate de «habitação», ou a área do quarto, quando se trate de «parte de habitação»;\n\ne) Coeficiente energético;\n\nf) A modalidade do alojamento;\n\ng) Características do alojamento relevantes para a determinação do limite específico do preço de renda, nos termos dos n.os 3 ou 4 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\nh) O limite máximo do preço de renda mensal;\n\ni) Lista de verificação das condições mínimas de segurança, salubridade e conforto exigíveis aos alojamentos estabelecidas no artigo 2.º;\n\nj) A data de emissão e validade do certificado.\n\n2 - O modelo de certificado de inscrição é definido pelo IHRU, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 42/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/42-2021-158052102), em vigor a partir de 2021-02-23"
+  },
+  "1180259375": {
+   "fragment_id": "158054824",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+   ],
+   "markdown": "Nos termos previstos na alínea a) do artigo 28.º do Decreto-Lei n.º 68/2019, de 22 de maio, o Governo deve, por portaria do membro do Governo responsável pela área da habitação, regulamentar as disposições relativas à inscrição de alojamentos no Programa de Arrendamento Acessível, estabelecendo as condições mínimas aplicáveis aos alojamentos em matéria de segurança, salubridade e conforto, o conteúdo da ficha do alojamento, os elementos instrutórios a apresentar para a inscrição dos mesmos e o conteúdo do respetivo certificado, nos termos previstos na alínea a) do artigo 8.º e nos n.os 1 e 2 do artigo 11.º do referido decreto-lei.\n\nAssim:\n\nAo abrigo do disposto na alínea a) do artigo 8.º e nos n.os 1 e 2 do artigo 11.º do Decreto-Lei n.º 68/2019, de 22 de maio, manda o Governo, pela Secretária de Estado da Habitação, no uso de competências delegadas pelo Despacho n.º 3396/2019, publicado no Diário da República, 2.ª série, n.º 61, de 27 de março, o seguinte:\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+  },
+  "1180259575": {
+   "fragment_id": "158054825",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à regulamentação das disposições do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, relativas à inscrição de alojamentos no Programa de Apoio ao Arrendamento, estabelecendo:\n\na) As condições mínimas aplicáveis aos alojamentos em matéria de segurança, salubridade e conforto, previstas na alínea a) do artigo 8.º;\n\nb) (Revogada.)\n\nc) Os elementos de informação necessários à inscrição do alojamento, nos termos do n.º 1 do artigo 11.º;\n\nd) O conteúdo do certificado de inscrição do alojamento, previsto no n.º 2 do artigo 11.º\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+  },
+  "1180259675": {
+   "fragment_id": "158054826",
+   "type": 11,
+   "heading": "Artigo 2.º — Condições mínimas de segurança, salubridade e conforto",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 2.º — Condições mínimas de segurança, salubridade e conforto\n\nAs condições mínimas de segurança, salubridade e conforto exigíveis aos alojamentos a disponibilizar no âmbito do Programa de Apoio ao Arrendamento, previstas na alínea a) do artigo 8.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, são, cumulativamente, as seguintes:\n\na) Nas partes comuns do edifício onde se localiza o alojamento, nomeadamente, na estrutura, cobertura, paredes, pavimentos, escadas, janelas, portas e instalações técnicas, não devem existir anomalias aparentes que constituam risco para a segurança ou para a saúde dos moradores, ou que prejudiquem a normal utilização desses espaços;\n\nb) Na habitação onde se localiza o alojamento:\n\ni) Deve existir pelo menos uma sala com iluminação e ventilação natural, seja através de janela ou porta envidraçada em contacto direto com o exterior, seja através de varanda envidraçada ou de compartimento utilizado como quarto ou cozinha que possua janela ou porta envidraçada em contacto direto com o exterior;\n\nii) Apenas pode ser considerado como «quarto», para efeitos de definição da modalidade, da tipologia e da ocupação mínima do alojamento, um compartimento que possua área útil não inferior a 6 m2 e seja dotado de iluminação e ventilação natural através de janela, porta envidraçada ou varanda envidraçada em contacto direto com o exterior, sem prejuízo do disposto na alínea seguinte;\n\niii) Deve existir, pelo menos, uma instalação sanitária com lavatório e sanita com autoclismo, e pelo menos uma base de duche ou banheira, bem como um espaço com lava-louça e condições para instalação e utilização de um fogão e de um frigorífico;\n\niv) Devem existir instalações adequadas e funcionais de eletricidade, de distribuição de água e de drenagem de águas residuais;\n\nv) Não devem existir anomalias aparentes que constituam risco para a segurança, a saúde ou a normal utilização da habitação, nomeadamente nas paredes, pavimentos, tetos, escadas, portas, janelas e nas instalações de água, eletricidade ou gás.\n\nc) Quando se trate de «parte de habitação», além dos requisitos definidos na subalínea ii) da alínea anterior, o quarto deve ter acesso através de espaço de circulação, sala ou cozinha.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+  },
+  "1180259775": {
+   "fragment_id": "158054827",
+   "type": 11,
+   "heading": "Artigo 3.º — Ficha do alojamento",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+   ],
+   "markdown": "###### Artigo 3.º — Ficha do alojamento\n\n1 - A ficha do alojamento prevista no n.º 1 do artigo 11.º do Decreto-Lei n.º 68/2019, de 22 de maio, contém os seguintes elementos:\n\na) Identificação da habitação onde se localiza o alojamento, incluindo a respetiva morada e número de inscrição na matriz predial;\n\nb) Modalidade do alojamento;\n\nc) Características do alojamento relevantes para a determinação do limite específico do preço de renda, nos termos dos n.os 3 ou 4 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio;\n\nd) Lista de verificação das condições estabelecidas no artigo anterior;\n\ne) Declaração assinada pelo prestador ou prestadores que:\n\ni) Ateste a veracidade e atualidade das informações prestadas nas alíneas precedentes e dos documentos apresentados para a inscrição do alojamento;\n\nii) Autorize o Instituto da Habitação e da Reabilitação Urbana, I. P. (IHRU, I. P.), a proceder ao tratamento dos dados relativos ao alojamento e dados pessoais do prestador, nos termos e na medida estritamente necessários à inscrição do alojamento, ao enquadramento do respetivo contrato de arrendamento no Programa de Arrendamento Acessível, bem como à fiscalização desse enquadramento e verificação do cumprimento dos deveres do prestador nesse domínio;\n\niii) Ateste ter sido informado que pode retirar a autorização prevista na subalínea anterior, a todo o tempo, e que, nessa situação, deixa de poder beneficiar do Programa de Arrendamento Acessível;\n\nf) Declaração a assinar por todos os candidatos que confirme as informações constantes das alíneas a) e c) e a ausência de indícios de incumprimento das condições estabelecidas no artigo anterior.\n\n2 - O modelo de ficha do alojamento é definido pelo IHRU, I. P.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+  },
+  "1180259875": {
+   "fragment_id": "158054828",
+   "type": 11,
+   "heading": "Artigo 4.º — Elementos necessários à inscrição de alojamentos",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+   ],
+   "markdown": "###### Artigo 4.º — Elementos necessários à inscrição de alojamentos\n\n1 - Para efeitos da inscrição de alojamentos no âmbito do Programa de Apoio ao Arrendamento na plataforma eletrónica, são necessários os seguintes elementos de informação:\n\na) Identificação do prestador ou prestadores, contendo, para cada um deles, o nome completo, o número de identificação fiscal (NIF) e o endereço de correio eletrónico adotado para efeitos de comunicação no âmbito do Programa de Apoio ao Arrendamento;\n\nb) Identificação da habitação onde se localiza o alojamento, incluindo a respetiva morada e número de inscrição na matriz predial;\n\nc) Modalidade do alojamento;\n\nd) Características do alojamento relevantes para a determinação do limite específico do preço de renda, nos termos dos n.os 2 ou 3 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\ne) Lista de verificação das condições mínimas de segurança, salubridade e conforto exigíveis aos alojamentos estabelecidas no artigo 2.º;\n\nf) Coeficiente energético.\n\n2 - Os elementos de informação previstos no número anterior são facultados pelo prestador, sem prejuízo do disposto no número seguinte.\n\n3 - O prestador fica dispensado de facultar os elementos de informação previstos no n.º 1 sempre que o IHRU, I. P., os obtenha com recurso aos mecanismos de interoperabilidade estabelecidos com a entidade da área das finanças e com as demais entidades públicas competentes na matéria.\n\n4 - Os elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com a entidade da área das finanças e com as demais entidades públicas competentes na matéria prevalecem sobre quaisquer outros facultados pelo prestador, sem prejuízo do disposto no número seguinte.\n\n5 - Caso o prestador detete alguma desconformidade ou incompletude nos elementos de informação obtidos pelo IHRU, I. P., com recurso aos mecanismos de interoperabilidade estabelecidos com a entidade da área das finanças e com as demais entidades públicas competentes na matéria, deve proceder à sua regularização junto das próprias entidades públicas.\n\n6 - O modelo de formulário de inscrição de alojamento é definido pelo IHRU, I. P., e deve prever a confirmação expressa, por parte dos prestadores, da veracidade e atualidade dos elementos de informação previstos no n.º 1.\n\n7 - A inscrição do alojamento pode ser feita por prestador ou por representante deste.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20"
+  },
+  "1180259975": {
+   "fragment_id": "158054829",
+   "type": 11,
+   "heading": "Artigo 5.º — Certificado de inscrição do alojamento",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 42/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/42-2021-158052102), em vigor a partir de 2021-02-23"
+   ],
+   "markdown": "###### Artigo 5.º — Certificado de inscrição do alojamento\n\n1 - O certificado de inscrição de um alojamento no Programa de Apoio ao Arrendamento, previsto no n.º 2 do artigo 11.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual, é emitido pela plataforma eletrónica com base nos elementos de informação previstos no artigo anterior, contendo o seguinte:\n\na) O número de inscrição, atribuído automaticamente;\n\nb) O nome ou designação social e o NIF do prestador ou prestadores;\n\nc) Identificação da habitação onde se localiza o alojamento, incluindo a respetiva morada e número de inscrição na matriz predial;\n\nd) A tipologia do alojamento, quando se trate de «habitação», ou a área do quarto, quando se trate de «parte de habitação»;\n\ne) Coeficiente energético;\n\nf) A modalidade do alojamento;\n\ng) Características do alojamento relevantes para a determinação do limite específico do preço de renda, nos termos dos n.os 3 ou 4 do artigo 10.º do Decreto-Lei n.º 68/2019, de 22 de maio, na sua redação atual;\n\nh) O limite máximo do preço de renda mensal;\n\ni) Lista de verificação das condições mínimas de segurança, salubridade e conforto exigíveis aos alojamentos estabelecidas no artigo 2.º;\n\nj) A data de emissão e validade do certificado.\n\n2 - O modelo de certificado de inscrição é definido pelo IHRU, I. P.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 59/2024 - Diário da República n.º 35/2024, Série I de 2024-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/59-2024-852994103), em vigor a partir de 2024-02-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 42/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/42-2021-158052102), em vigor a partir de 2021-02-23"
+  },
+  "1180260075": {
+   "fragment_id": "158054830",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+   ],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor a 1 de julho de 2019.\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+  },
+  "1180260175": {
+   "fragment_id": "158054831",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-10-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+   ],
+   "markdown": "A Secretária de Estado da Habitação, Ana Cláudia da Costa Pinho, em 3 de junho de 2019.\n\n112357411\n\n> Revogado pelo/a Artigo 6.º do/a [Portaria n.º 454/2026/1 - Diário da República n.º 198/2026, Série I de 2026-10-13](https://diariodarepublica.pt/dr/detalhe/portaria/454-2026-1179722108), em vigor a partir de 2026-10-14, com efeitos a partir de 2026-09-01."
+  }
+ }
+}

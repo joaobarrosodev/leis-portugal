@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:307662:por
+title: Decreto-Lei n.º 119/2010
+short_title: null
+summary: Reforça os mecanismos de localização e segurança do transporte de explosivos e procede à segunda alteração ao Decreto-Lei
+  n.º 521/71, de 24 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 119/2010
+official_date: null
+publication_date: '2010-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 209/2010, Série I de 2010-10-27
+  number: '209'
+  series: I
+  supplement: null
+  pages: 4884 - 4885
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/10/20900/0488404885.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/119/2010/10/27/p/dre/pt/html
+  oj: null
+  dre: '307662'
+  dre_path: /dr/detalhe/decreto-lei/119-2010-307662
+  internal: pt:dre:307662:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2010-307662
+  metadata_url: https://data.dre.pt/eli/dec-lei/119/2010/10/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2010-307662
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-10-27T00:00:00Z'
+integrity:
+  source_sha256: bc394cf1be34b01eb95faaa8a26b037686e08e7386e2229ba65f3771bc2badc6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-119-307662.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Normas de Segurança
+- Substância Perigosa e Explosiva
+- Transporte
+- Transporte de Mercadorias Perigosas
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 119/2010
+
+de 27 de Outubro
+
+A implementação de sistemas integrados de gestão do transporte de explosivos, com o recurso a avançadas tecnologias de geolocalização, bem como a outras componentes de sistemas de informações, revela-se um instrumento potenciador da eficiência e do reforço da segurança no transporte destes produtos, daí resultando vantagens assinaláveis para os operadores e para as forças de segurança. Efectivamente, a possibilidade de recurso a sistemas electrónicos de geolocalização no transporte de explosivos representa uma solução segura e menos onerosa para os expedidores, permitindo, simultaneamente, uma maior operacionalidade das forças de segurança.
+
+A segurança do transporte destes produtos encontra especial previsão no artigo 29.º do [Decreto-Lei n.º 521/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1971-631797), de 24 de Novembro, que determina a presença de escolta policial, sempre que o produto objecto do transporte seja superior a 500 kg.
+
+Importa por isso alterar o conteúdo desta norma e dispensar a presença da referida escolta, quando haja recurso a estas novas tecnologias para a segurança do transporte de explosivos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao [Decreto-Lei n.º 521/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1971-631797), de 24 de Novembro
+
+O artigo 29.º do [Decreto-Lei n.º 521/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1971-631797), de 24 de Novembro, passa a ter a seguinte redacção:
+
+«Artigo 29.º
+
+1 - ...
+
+2 - ...
+
+3 - É dispensada a escolta referida no n.º 1, se o transportador fizer uso de sistema electrónico de geolocalização, que assegure a permanente monitorização do transporte e accionamento imediato de alarmes.
+
+4 - Os encargos resultantes da escolta ou do sistema de geolocalização previstos nos n.os 1 e 3 ficam a cargo dos expedidores e são regulados pelas disposições legais em vigor.
+
+5 - É ainda dispensada a presença de escolta ou o uso do sistema de geolocalização referidos nos n.os 1 e 3 se na fábrica, oficina, paiol ou depósito existir licença permanente para transporte de explosivos para os pontos de embarque ou desembarque, a uma distância não superior a 5 km, e houver um responsável por cada viatura.»
+
+###### Artigo 2.º — Regulamentação
+
+O sistema electrónico de geolocalização a que se refere o presente decreto-lei é regulamentado por portaria do membro do governo responsável pela área da administração interna no prazo de 120 dias.
+
+Visto e aprovado em Conselho de Ministros de 26 de Agosto de 2010. - José Sócrates Carvalho Pinto de Sousa - Gonçalo André Castilho dos Santos - Rui Carlos Pereira - António Augusto da Ascenção Mendonça.
+
+**Promulgado em 14 de Outubro de 2010.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 14 de Outubro de 2010.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

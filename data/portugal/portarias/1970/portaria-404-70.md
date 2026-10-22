@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:139381:por
+title: Portaria n.º 404/70
+short_title: null
+summary: Aprova o Regulamento do Conselho Coordenador dos Hospitais Escolares
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde e Assistência - Gabinete do Ministro
+proposing_entity: null
+official_number: 404/70
+official_date: null
+publication_date: '1970-08-18'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 190/1970, Série I de 1970-08-18
+  number: '190'
+  series: I
+  supplement: null
+  pages: 1078 - 1078
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/08/19000/10781078.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '139381'
+  dre_path: /dr/detalhe/portaria/404-1970-139381
+  internal: pt:dre:139381:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/404-1970-139381
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/404-1970-139381
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1970-08-18T00:00:00Z'
+integrity:
+  source_sha256: 412500490d7e5655553df7d462997eab2e0afefba09fdde3b852f20a4e0341a2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1970/DRE-1970-404-139381.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 404/70
+
+O [Decreto-Lei n.º 270/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1970-142696), de 15 de Junho de 1970, criou, para funcionar na dependência do Ministro da Saúde e Assistência, o Conselho Coordenador dos Hospitais Escolares.
+
+Nos termos do n.º 2 do artigo 11.º do referido decreto-lei, ouvido o Ministro da Educação Nacional:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Saúde e Assistência, aprovar o Regulamento do Conselho Coordenador dos Hospitais Escolares, que baixa assinado pelo Ministro da Saúde e Assistência.
+
+Ministério da Saúde e Assistência, 18 de Agosto de 1970. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.
+
+Regulamento do Conselho Coordenador dos Hospitais Escolares
+
+###### Artigo 1.º O Conselho Coordenador dos Hospitais Escolares é um órgão consultivo de coordenação para os assuntos de natureza técnica e de organização relacionados com os hospitais escolares e funciona na dependência directa do Ministro da Saúde e Assistência.
+
+###### Art. 2.º Compete, especialmente, ao Conselho Coordenador:
+
+a) Avaliar os planos de acção e programas de realização anuais de cada um dos hospitais escolares, em ordem a assegurar as condições indispensáveis ao ensino, à investigação científica e às actividades assistenciais;
+
+b) Apresentar ou pronunciar-se sobre normas tendentes à uniformização de critérios e de organização de serviços, de forma a obter-se o maior rendimento assistencial, sem prejuízo das actividades docentes;
+
+c) Analisar os problemas de administração, com base em elementos de índole estatística, médica e assistencial, segundo a recolha e concatenação por si orientadas, com vista à definição de critérios de uniformidade de gestão dos hospitais escolares;
+
+d) Emitir pareceres relativos aos demais assuntos sobre que seja mandado ouvir.
+
+###### Art. 3.º - 1. O Conselho Coordenador dos Hospitais Escolares é formado pelos seguintes vogais permanentes:
+
+a) Director-geral do Ensino Superior e das Belas-Artes;
+
+b) Director-geral dos Hospitais;
+
+c) Os directores e provedores de cada um dos hospitais escolares.
+
+2. Para exame de questões especiais poderá o Ministro convocar outros funcionários para participar em trabalhos do Conselho.
+
+###### Art. 4.º - 1. O Conselho funciona em plenário sob a presidência do Ministro da Saúde e Assistência ou, por delegação deste, de um dos vogais permanentes.
+
+2. Quando houver conveniência, pode o Ministro determinar a formação de grupos de trabalho, constituídos por vogais permanentes ou funcionários adrede convocados para a apresentação de pareceres ou relatórios a submeter ao Conselho.
+
+###### Art. 5.º O Conselho terá um secretário, designado pelo Ministro da Saúde e Assistência de entre funcionários da Direcção-Geral dos Hospitais, a quem caberá a responsabilidade do expediente de todos os assuntos sujeitos à apreciação do Conselho, com o apoio do serviço a que pertença.
+
+Ministério da Saúde e Assistência, 18 de Agosto de 1970. - O Ministro da Saúde e Assistência, Baltasar Leite Rebelo de Sousa.

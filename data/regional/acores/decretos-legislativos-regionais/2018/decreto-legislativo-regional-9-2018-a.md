@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:115645081:por
+title: Decreto Legislativo Regional n.º 9/2018/A
+short_title: null
+summary: Define os termos da afetação dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia
+  de Lisboa atribuídos ao Governo Regional dos Açores
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 9/2018/A
+official_date: null
+publication_date: '2018-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 128/2018, Série I de 2018-07-05
+  number: '128'
+  series: I
+  supplement: null
+  pages: 2913 - 2913
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/07/12800/0291302913.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/9/2018/07/05/a/dre/pt/html
+  oj: null
+  dre: '115645081'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/9-2018-115645081
+  internal: pt:dre:115645081:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2018-115645081
+  metadata_url: https://data.dre.pt/eli/declegreg/9/2018/07/05/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2018-115645081
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-07-05T00:00:00Z'
+integrity:
+  source_sha256: 48fbc5e8d650dd9f6b1386fc4723d3cff250bc95280bf52a14ab143bdeb1b648
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2018/DRE-2018-9-115645081.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atribuição de Verba
+- Jogos de Fortuna e Azar
+- Santa Casa da Misericórdia
+- Plano de Investimentos
+- Açores
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/106/2011/10/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/106/2011/10/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/23/2018/04/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/23/2018/04/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/44/2011/03/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/44/2011/03/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/56/2006/03/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/82-b/2014/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/2/2013/09/02/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 9/2018/A
+
+Define os termos da afetação dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa atribuídos ao Governo Regional dos Açores
+
+A [Lei Orgânica n.º 2/2013](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2013-499567), de 2 de setembro, que aprova a Lei das Finanças das Regiões Autónomas, alterada pela [Lei n.º 82-B/2014](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), de 31 de dezembro, determina, no n.º 1 do artigo 36.º, que «Constitui receita de cada região autónoma uma participação nos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa».
+
+Prevê o n.º 2 do referido artigo 36.º que «O valor da receita atribuída a cada região autónoma é estabelecido em diploma próprio, sendo afeto a fins sociais, segundo critérios a estabelecer legalmente por cada uma das regiões».
+
+O [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, alterado pelo [Decreto-Lei n.º 44/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), de 24 de março, pelo [Decreto-Lei n.º 106/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), de 21 de outubro, e pelo [Decreto-Lei n.º 23/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488), de 10 de abril, regula a forma de distribuição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa.
+
+Estabelece o n.º 10 do artigo 3.º do [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, na sua redação atual, a percentagem do valor dos resultados líquidos de exploração dos jogos sociais, que são atribuídos ao Governo Regional dos Açores, em termos a definir por decreto legislativo regional.
+
+Com a alteração agora efetuada ao [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, fez-se cumprir um direito próprio das Regiões Autónomas, assumindo-se integralmente o que lhe era devido e que se encontrava estipulado na Lei das Finanças das Regiões Autónomas.
+
+A versão atual do diploma repõe uma repartição dos resultados líquidos da exploração dos jogos sociais equilibrada e equitativa, a qual tomou, enquanto critério de imputação, as estimativas anuais da população residente em Portugal Continental e Regiões Autónomas relativas ao ano de 2016, apuradas pelo Instituto Nacional de Estatística, I. P.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores e do n.º 10 do artigo 3.º do [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, na sua redação atual, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto legislativo regional vem definir os termos segundo os quais se procede à repartição dos resultados líquidos dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa atribuídos ao Governo Regional dos Açores, nos termos do n.º 10 do artigo 3.º do [Decreto-Lei n.º 56/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-2006-667323), de 15 de março, alterado pelo [Decreto-Lei n.º 44/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2011-278879), de 24 de março, pelo [Decreto-Lei n.º 106/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-2011-146936), de 21 de outubro, e pelo [Decreto-Lei n.º 23/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2018-115017488), de 10 de abril.
+
+###### Artigo 2.º — Afetação das verbas dos jogos sociais
+
+As verbas dos jogos sociais explorados pela Santa Casa da Misericórdia de Lisboa atribuídas ao Governo Regional dos Açores destinam-se a comparticipar as despesas previstas no Plano de Investimentos da Região Autónoma dos Açores, concretamente as referentes aos Programas da Solidariedade Social, Saúde, Proteção Civil, Desporto e Educação (Apoio Social).
+
+###### Artigo 3.º — Produção de efeitos
+
+O presente decreto legislativo regional produz efeitos a 1 de janeiro de 2018.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 13 de junho de 2018.
+
+**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**
+
+**Assinado em Angra do Heroísmo em 29 de junho de 2018.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

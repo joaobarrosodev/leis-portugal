@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:114513601:por
+title: Despacho Normativo n.º 2-A/2018
+short_title: null
+summary: Define as regras de atribuição de apoios ao armazenamento de madeira queimada de espécies resinosas proveniente de
+  áreas atingidas por incêndios em 2017, no âmbito da criação de novos parques ou ampliação da capacidade de armazenamento
+  de parques já existentes
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Agricultura, Florestas e Desenvolvimento Rural - Gabinete do Ministro
+proposing_entity: null
+official_number: 2-A/2018
+official_date: null
+publication_date: '2018-01-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 8/2018, 2º Suplemento, Série II de 2018-01-11
+  number: '8'
+  series: II
+  supplement: 2º Suplemento
+  pages: 1698-(4) a 1698-(5)
+  pdf_url: https://files.diariodarepublica.pt/2s/2018/01/008000002/0000400005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '114513601'
+  dre_path: /dr/detalhe/despacho-normativo/2-a-2018-114513601
+  internal: pt:dre:114513601:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-a-2018-114513601
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/2-a-2018-114513601
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-01-11T00:00:00Z'
+integrity:
+  source_sha256: cdaf2c5b049a09b550243a4f9d6fa117e5493cad2445af64c91c1f811caa37f5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2018/DRE-2018-2-A-114513601.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: celex:32012D0535
+  label: null
+  source: null
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 2-A/2018
+
+A extensão da área florestal ardida em 2017 originou, para além dos impactes ambientais e ecológicos, uma elevada quantidade de madeira ardida que importa valorizar, enquanto matéria-prima relevante para as fileiras florestais nacionais.
+
+A sua remoção e a valorização de salvados em povoamentos florestais ardidos reveste-se de uma importância fundamental, para efeitos da recuperação socioeconómica e ecológica das áreas afetadas.
+
+Por outro lado, a disponibilização de elevadas quantidades de matéria-prima tem fortes efeitos disruptivos nos mercados de madeira, em particular nos produtores florestais, provocando igualmente dificuldades de armazenamento e de conservação, dificuldades estas sentidas pelos operadores das fileiras silvoindustriais que não se encontram preparados para o parqueamento e processamento de tão grandes volumes de matéria-prima lenhosa.
+
+Neste contexto, importa minimizar estes efeitos, sendo necessário promover o aumento da capacidade instalada de parqueamento de madeira, contribuindo também para sustentabilidade do abastecimento das indústrias consumidoras, bem como para o escoamento faseado da madeira parqueada, e, consequentemente permitir o aproveitamento económico de matérias-primas com interesse industrial.
+
+Acresce que, nos termos do [Decreto-Lei n.º 95/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2011-669979), de 8 de agosto, alterado pelo [Decreto-Lei n.º 123/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2015-67664950), de 3 de julho, o qual reflete as alterações introduzidas pela Decisão de Execução n.º 2012/535/UE, da Comissão, de 26 de setembro de 2012 e do [Decreto-Lei n.º 154/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2005-141854), de 6 de setembro, na sua redação atual, que cria e define as medidas de proteção fitossanitária destinadas a evitar a introdução e dispersão no território nacional e comunitário, de organismos prejudiciais aos vegetais e produtos vegetais qualquer que seja a sua origem ou proveniência, existe a necessidade de promover o abate das coníferas hospedeiras do nemátodo da madeira do pinheiro (NMP) com sintomas de declínio, onde se incluem as árvores ardidas.
+
+Importa, pois, criar apoios destinados à criação de novos parques ou ampliação da capacidade de armazenamento de parques já existentes, para madeira de serração, reconhecendo-se este como prioritário, pois a sua matéria-prima, face às suas dimensões permite utilizações mais nobres, bem como para madeira de trituração.
+
+Assim:
+
+Ao abrigo do disposto nos n.os 1 e 2 do artigo 12.º da [Lei n.º 108/2017](https://diariodarepublica.pt/dr/detalhe/lei/108-2017-114233329), de 23 de novembro, e da [Resolução do Conselho de Ministros n.º 4/2018](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/4-2018-114494517), de 10 de janeiro, determino o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma define as regras de atribuição de apoios ao armazenamento de madeira queimada de espécies resinosas proveniente de áreas atingidas por incêndios em 2017, no âmbito da criação de novos parques ou ampliação da capacidade de armazenamento de parques já existentes.
+
+###### Artigo 2.º — Beneficiários
+
+1 - Podem beneficiar dos apoios previstos no presente diploma as pessoas singulares ou coletivas de natureza pública ou privada, nomeadamente organizações de produtores florestais, organizações das indústrias da madeira e autarquias locais, que armazenem madeira queimada de espécies resinosas proveniente de áreas atingidas por incêndios em 2017 e desde que cumpram os requisitos previstos nos artigos seguintes.
+
+2 - Podem ainda beneficiar do apoio referido no n.º 2 do artigo 4.º do presente diploma os produtores florestais que entreguem madeira queimada de espécies resinosas proveniente de áreas atingidas por incêndios em 2017.
+
+###### Artigo 3.º — Componentes
+
+Os apoios previstos no presente diploma têm as seguintes componentes:
+
+a) Parques para madeira de serração, para um volume máximo de 2 milhões de toneladas;
+
+b) Parques para madeira de trituração, para um volume máximo de 1,5 milhões de toneladas.
+
+###### Artigo 4.º — Parques para madeira de serração
+
+1 - O apoio designado «parques para madeira de serração» é concedido de acordo com os seguintes valores:
+
+a) (euro) 3 por tonelada, no caso de parques secos de armazenamento de madeira descascada;
+
+b) (euro) 3,5 por tonelada, no caso de parques regados de armazenamento de madeira.
+
+2 - Para além dos apoios previstos no número anterior é ainda atribuído um apoio direto ao produtor no valor de (euro) 4 por tonelada de madeira entregue em parque, nos termos a definir no aviso de abertura do procedimento referido no artigo 7.º
+
+3 - O apoio designado «parques para madeira de serração» é concedido mediante o cumprimento dos seguintes requisitos:
+
+a) Receção de madeira com diâmetro igual ou superior a 20 cm;
+
+b) Período mínimo de parqueamento da madeira a adquirir - 9 meses;
+
+c) Preço mínimo a garantir à porta do parque - 46 euros por tonelada;
+
+d) Preço mínimo garantido ao produtor para madeira em pé, no povoamento - 25 euros por tonelada.
+
+###### Artigo 5.º — Parques para madeira de trituração
+
+1 - O valor do apoio designado «parques para madeira de trituração» é de (euro) 1,50 por tonelada, até ao montante máximo de (euro) 250.000,00 por parque.
+
+2 - O apoio designado «parques para madeira de trituração» é concedido mediante o cumprimento dos seguintes requisitos:
+
+a) Receção de madeira com diâmetro inferior a 20 cm;
+
+b) Período mínimo de parqueamento da madeira a adquirir - 3 meses;
+
+c) Preço mínimo garantido ao produtor da madeira em pé, no povoamento - 10 euros por tonelada.
+
+###### Artigo 6.º — Medidas fitossanitárias
+
+Os parques de receção de madeira objeto de apoio devem adotar as adequadas medidas fitossanitárias.
+
+###### Artigo 7.º — Procedimento
+
+1 - O Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), procede à abertura de procedimento para atribuição dos apoios previstos no presente diploma mediante a publicitação de aviso em www.icnf.pt., do qual constam, nomeadamente os termos de apresentação das candidaturas, respetivos prazos e os documentos comprovativos do cumprimento dos requisitos de atribuição dos apoios.
+
+2 - As candidaturas podem ser submetidas na modalidade de consórcio, nos termos a definir no aviso referido no número anterior.
+
+3 - As candidaturas são objeto de decisão pelo ICNF, I. P.
+
+###### Artigo 8.º — Acompanhamento, monitorização e controlo
+
+O ICNF, I. P., prepara o modelo de operacionalização dos apoios a conceder e respetivos mecanismos de acompanhamento, monitorização, controlo e fiscalização da atividade dos parques, coordenando o processo, na fase de implementação, no âmbito da Comissão de Acompanhamento de Parques de Madeira - Incêndios 2017, criada pelo [Despacho n.º 11352/2017](https://diariodarepublica.pt/dr/detalhe/despacho/11352-2017-114412227), de 4 de dezembro.
+
+###### Artigo 9.º — Pagamento
+
+1 - O Instituto de Financiamento da Agriculturas e Pescas, I. P., procede ao pagamento dos apoios previstos no presente diploma, conforme protocolo a estabelecer com o ICNF, I. P..
+
+2 - Os encargos financeiros decorrentes da aplicação do presente diploma são assegurados por verbas inscritas no orçamento do ICNF, I. P..
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+10 de janeiro de 2018. - O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos.

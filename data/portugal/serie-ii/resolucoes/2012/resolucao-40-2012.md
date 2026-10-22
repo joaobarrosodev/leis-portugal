@@ -1,0 +1,125 @@
+---
+schema_version: '1.0'
+id: pt:dre:3293598:por
+title: Resolução n.º 40/2012
+short_title: null
+summary: Delega no Ministro da Defesa Nacional a competência para adotar todas as medidas previstas na lei e no contrato de
+  fornecimento de viaturas blindadas de rodas 8 x 8 necessárias a fazer valer os direitos do Estado Português face aos incumprimentos
+  contratuais do Fornecedor
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 40/2012
+official_date: null
+publication_date: '2012-10-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 208/2012, Série II de 2012-10-26
+  number: '208'
+  series: II
+  supplement: null
+  pages: 35332 - 35332
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/10/208000000/3533235332.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3293598'
+  dre_path: /dr/detalhe/resolucao/40-2012-3293598
+  internal: pt:dre:3293598:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/40-2012-3293598
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/40-2012-3293598
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-10-26T00:00:00Z'
+integrity:
+  source_sha256: e835d44f59ec406d773bcc46879c8896a31b116ae91d992bcc4b1ae7ede54d28
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-40-3293598.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 40/2012
+
+O Programa Relativo à Aquisição de Viaturas Blindadas de Rodas 8 x 8 destinadas ao Exército e à Marinha integra, como contrato nuclear, o contrato que tem por objeto o fabrico e o fornecimento ao Estado Português de 260 viaturas blindadas de rodas 8 x 8 (VBR), das quais 240 são destinadas ao Exército Português e 20 à Marinha Portuguesa, bem como a realização das ações de formação e o fabrico e fornecimento do equipamento de apoio, ferramentas, sobressalentes, documentação e a prestação dos serviços de apoio previstos nesse contrato.
+
+No âmbito do referido Programa, em 15 de fevereiro de 2005, foi celebrado contrato de fornecimento entre o Estado Português e o Fornecedor Steyr-Daimler-PuchSpezialfahrzeugGmbH(General DynamicsEuropean Land Systems-SteyrGmbH), doravante designado por Fornecedor.
+
+Sucede, porém, que se tem verificado uma evidente incapacidade, por parte do Fornecedor, em cumprir os compromissos e as obrigações assumidas, o que tem provocado sucessivas tomadas de posição por parte do Estado, compelindo o Fornecedor ao cumprimento das obrigações contratualizadas.
+
+Nesse sentido, foram remetidas ao Fornecedor interpelações contendo indicação dos derradeiros prazos de 90 dias para entrega das viaturas em falta e para correção dos defeitos nas viaturas que, por esse motivo, ainda não tivessem sido objeto de «receção provisória», sob pena de poder ser considerado definitivamente incumprido o contrato de fornecimento e de o Estado exercer os direitos que lhe assistem, designadamente o de resolver o contrato.
+
+Mesmo após essa tomada de posição por parte do Estado, este procurou, ainda assim, obter uma resposta do Fornecedor que evitasse a rutura das relações contratuais entre as partes.
+
+Com esse objetivo, foram conduzidas negociações para a celebração de um aditamento ao contrato de fornecimento que contemplasse uma solução concertada para o impasse a que os reiterados incumprimentos do Fornecedor haviam conduzido, o que não veio a suceder, por indisponibilidade do mesmo para concluir as negociações.
+
+As reiteradas violações do contrato, ao nível do cronograma de pagamentos e do calendário de entregas por parte do Fornecedor, conduziram a uma execução orçamental abaixo do previsto, com a consequente erosão do plano de financiamento do projeto face ao inscrito na atual Lei de Programação Militar, nos capítulos dos respetivos ramos das Forças Armadas, situação que tem obrigado o Estado Português a recorrer sistematicamente a soluções de recurso para fazer face a um plano de entregas totalmente aleatório.
+
+Esgotados os derradeiros prazos, fixados nas interpelações admonitórias, para que o Fornecedor cumprisse as obrigações em mora, encontram-se por cumprir um conjunto alargado de obrigações, quer no que respeita à correção de defeitos nas viaturas objeto de aceitação condicionada, quer no que concerne ao fornecimento de viaturas novas, cujo prazo de entrega há muito terminou, encontrando-se nesta situação 85 viaturas novas por entregar e 47 viaturas com defeitos por eliminar.
+
+A resolução dos contratos respeitantes às viaturas não entregues pelo Fornecedor implica a redução proporcional da obrigação de realizar contrapartidas à indústria nacional, sendo estas objeto de contrato autónomo entre o Estado Português e o Fornecedor, também datado de 15 de fevereiro de 2005.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Delegar no Ministro da Defesa Nacional, com faculdade de subdelegação, a competência para adotar todas as medidas previstas na lei e no contrato de fornecimento de viaturas blindadas de rodas 8 x 8, necessárias a fazer valer os direitos do Estado Português face aos incumprimentos contratuais do Fornecedor Steyr-Daimler-PuchSpezialfahrzeugGmbH (General DynamicsEuropean Land Systems-SteyrGmbH), doravante designado por Fornecedor, nomeadamente:
+
+a) Resolver, nos termos da lei, por incumprimento definitivo do Fornecedor, o contrato de fornecimento relativo às viaturas em mora, quando não entregues no derradeiro prazo fixado para o efeito em interpelações enviadas pelo Estado Português ao Fornecedor;
+
+b) Demandar o Fornecedor para efetuar o pagamento dos créditos indemnizatórios do Estado Português resultantes do contrato de fornecimento, em consequência do incumprimento contratual do Fornecedor, recorrendo, se necessário, e na medida do possível, às garantias prestadas para assegurar o bom e pontual cumprimento do contrato de fornecimento;
+
+c) Demandar o Fornecedor para proceder à devolução dos pagamentos adiantados que foram efetuados nos termos do contrato, por conta do fornecimento das viaturas relativamente às quais o contrato seja resolvido, recorrendo, se necessário, à garantia por pagamentos adiantados prestada ao abrigo do contratualmente estipulado;
+
+d) Promover a correção dos defeitos e discrepâncias identificados nas viaturas que foram objeto de uma aceitação condicionada através de terceiros, a expensas do Fornecedor, recorrendo, se necessário, às garantias prestadas para assegurar o bom e pontual cumprimento do contrato.
+
+2 - Determinar que os montantes a receber pelo Estado Português a título de créditos indemnizatórios, devolução de pagamentos adiantados e correção de defeitos e discrepâncias identificados nas viaturas e pelo acionamento das garantias prestadas, referidas nas alíneas b), c) e d) do número anterior, constituem receita geral do Estado e são utilizadas para redução do défice público.
+
+3 - Para efeito do disposto no número anterior, o valor a contabilizar como receita geral do Estado é deduzido dos montantes que o Estado Português tenha de despender com a correção de defeitos e discrepâncias identificados nas viaturas referidas na alínea d) do n.º 1.
+
+4 - Determinar que a presente resolução produz efeitos à data da sua aprovação.
+
+18 de outubro de 2012. - O Primeiro-Ministro, Pedro Passos Coelho.

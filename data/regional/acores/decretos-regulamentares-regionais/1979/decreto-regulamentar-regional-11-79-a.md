@@ -1,0 +1,267 @@
+---
+schema_version: '1.0'
+id: pt:dre:382983:por
+title: Decreto Regulamentar Regional n.º 11/79/A
+short_title: null
+summary: Regulamenta o Instituto Regional de Apoio ao Sector Cooperativo
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Secretaria Regional do Comércio e Indústria - Gabinete do Secretário Regional
+proposing_entity: null
+official_number: 11/79/A
+official_date: null
+publication_date: '1979-05-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 100/1979, Série I de 1979-05-02
+  number: '100'
+  series: I
+  supplement: null
+  pages: 786 - 789
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/05/10000/07860789.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '382983'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/11-1979-382983
+  internal: pt:dre:382983:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1979-382983
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-1979-382983
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-06-14T00:00:00Z'
+integrity:
+  source_sha256: fce3a1856a4130e042746f64f1a42ce355596799c125a8cfe51710802fde9354
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1979/DRE-1979-11-382983.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:435048:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 17
+  section_count: 7
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 11/79/A
+
+O [Decreto Regional n.º 8/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/8-1978-425297), de 17 de Abril, criou, na dependência das Secretarias Regionais da Agricultura e Pescas e do Comércio e Indústria, o Instituto Regional de Apoio ao Sector Cooperativo.
+
+Tornando-se urgente estruturar a regulamentação deste Instituto, em execução do disposto no artigo 7.º do referido decreto regional:
+
+O Governo Regional, usando das faculdades que lhe são conferidas pela alínea b) do n.º 1 do artigo 229.º da Constituição e pela alínea b) do artigo 33.º do Estatuto Provisório, decreta o seguinte:
+
+Regulamento do Instituto Regional de Apoio ao Sector Cooperativo
+
+### CAPÍTULO I — Natureza, atribuições e competência
+
+###### Artigo 1.º — (Definição do Instituto)
+
+O Instituto Regional de Apoio ao Sector Cooperativo, abreviadamente designado por IRASC, é uma pessoa colectiva de direito público, dotada de autonomia administrativa, com as atribuições, competência e órgãos definidos na lei regional.
+
+### CAPÍTULO II — Organização e funcionamento
+
+###### Artigo 2.º — (Órgãos)
+
+São órgãos do IRASC:
+
+a) Direcção;
+
+b) Conselho coordenador.
+
+#### SECÇÃO I — Direcção
+
+###### Artigo 3.º — (Competência e reuniões)
+
+1 - Compete à direcção:
+
+a) Elaborar e submeter à apreciação do conselho coordenador, até 30 de Agosto de cada ano, o orçamento e o plano de actividade para o ano seguinte, bem como os planos plurianuais e financeiros do IRASC;
+
+b) Praticar todos os actos necessários à gestão e desenvolvimento do IRASC.
+
+2 - A direcção terá uma reunião ordinária mensal e as extraordinárias que forem convocadas pelo presidente ou solicitadas pelos vogais.
+
+###### Artigo 4.º — (Competência do presidente)
+
+1 - Compete especialmente ao presidente da direcção:
+
+a) Convocar e presidir, com voto de qualidade, a direcção e o conselho coordenador;
+
+b) Dirigir todos os serviços do IRASC e orientar, coordenar e fiscalizar toda a actividade do organismo, com vista à realização dos seus fins;
+
+c) Propor aos Secretários Regionais do Comércio e Indústria e da Agricultura e Pescas a contratação e exoneração do pessoal, de acordo com os condicionalismos legais e regulamentares;
+
+d) Apresentar ao conselho coordenador os assuntos da competência deste ou que, pela sua importância, entenda dever submeter à sua apreciação;
+
+e) Autorizar despesas de manutenção dos serviços de valor não superior a 20000$00;
+
+f) Submeter a despacho conjunto dos Secretários Regionais do Comércio e Indústria e da Agricultura e Pescas os assuntos que careçam de resolução superior.
+
+2 - Quando se tratar de assuntos respeitantes a cooperativas cuja actividade não seja da área de competência das Secretarias Regionais do Comércio e Indústria e da Secretaria Regional da Agricultura e Pescas, será ouvido o Secretário Regional competente.
+
+###### Artigo 5.º — (Substituição do presidente)
+
+**O presidente será substituído nas suas faltas, ausências e impedimentos pelo vogal por ele designado.**
+
+#### SECÇÃO II — Conselho coordenador
+
+###### Artigo 6.º — (Composição do conselho)
+
+1 - O conselho coordenador será constituído pelo presidente da direcção, por representantes do movimento cooperativo (um por cada ilha) e pelos vogais representantes das Secretarias Regionais da Educação e Cultura, do Trabalho e dos Assuntos Sociais, a designar nos termos dos números seguintes.
+
+2 - O representante do movimento cooperativo de cada ilha será eleito anualmente por todas as cooperativas com sede na ilha em acto eleitoral convocado pelo presidente da direcção do IRASC.
+
+3 - Os vogais representantes de cada uma das Secretarias atrás mencionadas serão nomeados por despachos dos respectivos Secretários Regionais, até 31 de Dezembro de cada ano, para um mandato anual, que findará em 31 de Dezembro do ano seguinte, sendo o respectivo mandato passível de renovação sucessiva, enquanto se mantiver a indicação nesse sentido dos Secretários das respectivas Secretarias.
+
+###### Artigo 7.º — (Competência do conselho)
+
+Compete ao conselho coordenador:
+
+a) Apreciar os planos plurianuais de actividade do IRASC e sujeitá-los à aprovação dos Secretários Regionais do Comércio e Indústria e da Agricultura e Pescas;
+
+b) Apreciar, até 15 de Setembro de cada ano, o plano anual do IRASC e a proposta de orçamento para o ano seguinte e submetê-los à apreciação dos Secretários Regionais do Comércio e Indústria e da Agricultura e Pescas;
+
+c) Pronunciar-se sobre as directrizes gerais do IRASC e propor linhas de orientação para a sua actividade;
+
+d) Pronunciar-se sobre quaisquer assuntos que a direcção ou o seu presidente entendam dever submeter à sua consideração;
+
+e) Acompanhar a actividade do IRASC, podendo formular as propostas, sugestões ou recomendações que entenda convenientes.
+
+###### Artigo 8.º — (Funcionamento)
+
+1 - O conselho coordenador só pode funcionar com a presença da maioria dos seus membros.
+
+2 - O conselho coordenador reúne, em sessões ordinárias, pelo menos, duas vezes por ano para apreciação das matérias referidas nas alíneas a), b), e) e d) do artigo anterior e, em sessões extraordinárias, sempre que, para o efeito, seja convocado pelo presidente ou pela maioria dos seus membros.
+
+3 - Os membros do conselho coordenador têm direito a transportes e ajudas de custo correspondentes à letra D da escala do funcionalismo público, e aqueles que não forem funcionários públicos ou trabalhadores das cooperativas terão direito a senha de presença, a fixar por despacho conjunto das Secretarias Regionais das Finanças, da Agricultura e Pescas e do Comércio e Indústria.
+
+### CAPÍTULO III — Serviços do Instituto
+
+###### Artigo 9.º — (Especificação dos serviços)
+
+São serviços do IRASC o gabinete técnico e os serviços administrativos.
+
+###### Artigo 10.º — (Composição, funcionamento e competência)
+
+O gabinete técnico é um órgão de apoio, estudo, planeamento, programação e contrôle da actividade do IRASC, competindo-lhe, para além das referidas no artigo 3.º do [Decreto Regional n.º 6/78/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/6-1978-446971), de 17 de Abril, as seguintes competências:
+
+a) Elaborar estudos, informações e pareceres sobre todas as questões que lhe sejam submetidas;
+
+b) Redigir projectos de diplomas legais;
+
+c) Elaborar pareceres sobre os projectos de diplomas legais remetidos ao IRASC;
+
+d) Redigir quaisquer outros projectos de diplomas legais que, dizendo respeito às funções previstas neste estatuto, lhe sejam solicitados por qualquer órgão do IRASC, por intermédio do presidente.
+
+###### Artigo 11.º — (Constituição de grupos de trabalho)
+
+Mediante despacho do presidente do IRASC, homologado pelos Secretários Regionais do Comércio e Indústria e da Agricultura e Pescas, poderão ser constituídos os grupos de trabalho que se mostrarem convenientes para o exercício das funções de estudo ou execução de carácter transitório cujo desempenho não possa ser assegurado pelos serviços do Instituto.
+
+###### Artigo 12.º — (Competência dos serviços administrativos)
+
+Compete aos serviços administrativos, entre outras funções que lhes sejam cometidas pela direcção:
+
+a) Preparar, sob orientação da direcção, o projecto de orçamento anual do IRASC;
+
+b) Executar as tarefas administrativas relativas à gestão do pessoal;
+
+c) Executar as tarefas administrativas referentes às condições do funcionamento do IRASC;
+
+d) Estudar e analisar as propostas de aquisição de material;
+
+e) Assegurar o expediente geral dos vários órgãos e serviços do IRASC, bem como os serviços de recepção e expedição, registo, classificação de correspondência e respectiva dactilografia.
+
+### CAPÍTULO IV — Do pessoal
+
+###### Artigo 13.º — (Quadros e classificação do pessoal)
+
+1 - O pessoal do IRASC é o constante do quadro anexo e agrupa-se de acordo com a seguinte classificação:
+
+a) Pessoal dirigente;
+
+b) Pessoal técnico;
+
+c) Pessoal administrativo;
+
+d) Pessoal auxiliar.
+
+2 - As condições do ingresso, acesso e carreira profissional do pessoal do quadro do IRASC são, para as respectivas categorias, as que vierem a ser estabelecidas nas bases gerais da função pública e na legislação que as regulamenta e regular-se-ão pela legislação regional e geral.
+
+###### Artigo 14.º — (Condições de nomeação e forma de exercício)
+
+1 - O cargo de presidente da direcção será exercido por indivíduo de reconhecida competência, em comissão de serviço, no caso em que o provimento recaia em funcionário da Administração Central, Regional ou Local. Tal cargo poderá, todavia, ser exercido por indivíduo não vinculado à função pública, mediante contrato, do qual constará a remuneração e as demais condições que forem estipuladas.
+
+2 - O funcionário nomeado em comissão de serviço, nos termos do presente artigo, poderá optar pelos vencimentos e quaisquer remunerações do lugar que tenha no quadro de origem, sendo-lhe contado, para todos os efeitos, o tempo de serviço que prestar no regime de comissão.
+
+3 - A comissão de serviço ou contrato a que se refere o presente artigo terá a duração de dois anos, podendo dar-se uma única renovação por igual período contínuo.
+
+4 - O despacho de nomeação da direcção, com a limitação temporal constante do número anterior para o presidente, fixará também o quantitativo das senhas de presença a atribuir aos vogais.
+
+###### Artigo 15.º — (Providências financeiras)
+
+Os encargos resultantes do funcionamento dos serviços do IRASC, constantes do seu orçamento, serão satisfeitos por força das verbas que lhe forem destinadas nos orçamentos das Secretarias Regionais do Comércio e Indústria e da Agricultura e Pescas.
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+###### Artigo 16.º — (Comissão instaladora)
+
+Será criada uma comissão instaladora do IRASC, composta por três membros, a designar por despacho conjunto dos Secretários Regionais da Agricultura e Pescas e do Comércio e Indústria, no qual se fixarão as respectivas remunerações, competências, período de instalação e formas de apoio.
+
+###### Artigo 17.º — (Resolução de dúvidas)
+
+As dúvidas que se suscitarem na aplicação do presente decreto serão resolvidas por despacho conjunto dos Secretários Regionais da Agricultura e Pescas e do Comércio e Indústria.
+
+Aprovado pelo Governo Regional em 14 de Março de 1979.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 16 de Abril de 1979.**
+
+**Publique-se.**
+
+**O Ministro da República, Henrique Afonso da Silva Horta.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1979/05/10000/07860789.pdf))](https://files.diariodarepublica.pt/1s/1979/05/10000/07860789.pdf)
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**

@@ -1,0 +1,200 @@
+---
+schema_version: '1.0'
+id: pt:dre:116673879:por
+title: Decreto-Lei n.º 79/2018
+short_title: null
+summary: Permite a disponibilização diretamente ao público dos dispositivos de autodiagnóstico das infeções por VIH, VHC e
+  VHB
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Saúde
+official_number: 79/2018
+official_date: null
+publication_date: '2018-10-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 198/2018, Série I de 2018-10-15
+  number: '198'
+  series: I
+  supplement: null
+  pages: 4964 - 4965
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/10/19800/0496404965.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/79/2018/10/15/p/dre/pt/html
+  oj: null
+  dre: '116673879'
+  dre_path: /dr/detalhe/decreto-lei/79-2018-116673879
+  internal: pt:dre:116673879:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2018-116673879
+  metadata_url: https://data.dre.pt/eli/dec-lei/79/2018/10/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2018-116673879
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-10-15T00:00:00Z'
+integrity:
+  source_sha256: fca1056dd6f7ac4d5f6b79c011ef51a6021ae9af620bb22a6ec017bfd460a6c5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2018/DRE-2018-79-116673879.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Crime
+- Publicidade
+- Formação Profissional
+- Investigação Científica e Tecnológica
+- Certificado de Conformidade
+- Comissão de Ética para a Saúde
+- Infarmed
+- SIDA
+- Definição de Competências
+- Controlo Sanitário
+- Saúde Pública
+- Etiquetagem
+- Fabrico Industrial
+- Fiscalização
+- Base de Dados
+- ASAE
+- Embalagem
+- Meios Complementares de Diagnóstico
+- Confidencialidade
+- Proteção do Consumidor
+- Regime Jurídico
+- Material Médico-Cirúrgico
+- Sistema Nacional de Vigilância de Dispositivos Médicos
+- Comércio
+- Saúde Animal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/145/2009/06/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/145/2009/06/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/5/2017/01/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/5/2017/01/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/21/2014/04/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/21/2014/04/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/51/2014/08/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/51/2014/08/25/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 79/2018
+
+de 15 de outubro
+
+O XXI Governo Constitucional, no seu programa para a saúde, estabelece como prioridades promover a saúde através de uma nova ambição para a saúde pública, reforçando a promoção da saúde, a prevenção primária e a prevenção secundária.
+
+Atualmente, a infeção pelo vírus da imunodeficiência humana (VIH) representa ainda um problema de saúde pública na Europa. Em Portugal, estima-se que 1 em cada 12 pessoas que vivem com VIH não se encontrem diagnosticadas, e continuamos a assistir a um diagnóstico tardio num número significativo de casos.
+
+Neste contexto, o Programa Conjunto das Nações Unidas sobre o VIH e SIDA (ONUSIDA) e os seus parceiros propuseram um conjunto de metas para orientar e acelerar a resposta à epidemia VIH, designados como os objetivos 90-90-90, para serem atingidos até ao ano de 2020: 90 % das pessoas que vivem com VIH serem diagnosticadas; 90 % das pessoas diagnosticadas estarem em tratamento antirretroviral; 90 % das pessoas em tratamento se encontrarem com carga viral indetetável. Foram ainda definidos os objetivos 95-95-95, para serem atingidos até ao ano de 2030, ou seja, novas metas para os mesmos indicadores, mas mais ambiciosas, de forma a conseguir eliminar esta epidemia como um problema de saúde pública, uma visão que implica um plano de ação sem precedentes, que amplie as medidas até agora tomadas.
+
+No âmbito da primeira meta definida, a ONUSIDA sublinha a necessidade da realização de um maior número de testes de VIH e do desenvolvimento de estratégias que aumentem a disponibilidade destes testes, sendo recomendada a utilização de autotestes do VIH.
+
+A Organização Mundial da Saúde (OMS) reconhece também que o autoteste VIH é uma forma inovadora para alcançar mais pessoas que desconhecem que vivem com VIH, nomeadamente os cidadãos que não acedem aos serviços de saúde ou populações em elevado risco para o VIH, ajudando assim a alcançar o primeiro dos objetivos 90-90-90 (2020)/95-95-95 (2030). A sua disponibilidade representa mais um passo em frente, alinhado com os esforços de aumento da autonomia do doente, considerando que a disponibilidade e acesso a este tipo de testes melhora a eficiência do sistema de saúde, centrando os recursos no apoio e referenciação adequada dessas pessoas para os serviços de saúde. Nesse sentido, a OMS recomendou, em 2016, a disponibilização do autoteste VIH.
+
+A aposta no diagnóstico precoce da infeção por VIH tem sido uma prioridade do Programa de Saúde Prioritário para a Infeção VIH e SIDA, da Direção-Geral da Saúde (DGS), com vista ao cumprimento das metas da ONUSIDA. Esta estratégia, com vista à identificação precoce dos casos e à quebra do ciclo de transmissão, inclui necessariamente a disponibilidade generalizada dos testes, por vários meios e em diferentes contextos, de forma a não perder nenhuma oportunidade, designadamente ao nível dos cuidados de saúde primários, dos cuidados de saúde hospitalares, dos Centros de Aconselhamento e Deteção Precoce do VIH, dos Centros de Diagnóstico Pneumológico, dos estabelecimentos prisionais, nos centros de respostas integradas para os comportamentos aditivos e dependências, das organizações não-governamentais, e das farmácias comunitárias, utilizando-se a mesma abordagem para o vírus da hepatite B (VHB) e o vírus da hepatite C (VHC), no âmbito do Programa de Saúde Prioritário para as Hepatites Virais da DGS. Estas iniciativas, a par de estratégias robustas de referenciação dos casos reativos para o Serviço Nacional de Saúde (SNS), são um garante de que cada vez mais pessoas conheçam atempadamente o estatuto serológico para estas infeções e acedam aos cuidados de saúde adequados.
+
+Não obstante o investimento em iniciativas de rastreio, Portugal apresenta elevadas proporções de diagnósticos tardios no âmbito do VIH, superiores às da União Europeia. Assim, Portugal precisa de acelerar o ritmo das atividades de rastreio para alcançar as metas da ONUSIDA, de forma a promover a identificação precoce dos casos e quebrar o ciclo de transmissões, tendo como objetivo, até 2030, transformar Portugal num país sem infeção epidémica de VIH.
+
+Por outro lado, segundo a OMS estima-se que atualmente na Europa mais de 13 milhões de pessoas vivam com infeção crónica por VHB e mais de 15 milhões com infeção crónica por vírus da VHC. Em 2015, o Centro Europeu de Prevenção e Controlo das Doenças apontava para prevalências estimadas das infeções por VHB e VHC na União Europeia de 0,9 % e 1,1 %, respetivamente, com um total estimado de 4,7 milhões de infeções crónicas por VHB e 5,6 milhões por VHC.
+
+Considera-se que também nesta área das hepatites virais e de outras infeções sexualmente transmissíveis o diagnóstico precoce tem elevados benefícios clínicos para as pessoas infetadas e de saúde pública para toda a comunidade.
+
+As Orientações Programáticas 2017-2020 do Programa Nacional para as Hepatites Virais preveem como visão interromper a transmissão dos vírus das hepatites virais em Portugal, garantindo o acesso equitativo aos cuidados de saúde, tendo como objetivo a eliminação das hepatites virais em 2030, enquanto problema de saúde pública.
+
+Assim impõe-se, de acordo com o já praticado em diversos países da União Europeia, como são exemplos a Espanha, a França, a Bélgica e a Itália, permitir a disponibilização diretamente aos cidadãos adultos, deste tipo de dispositivos, que foram validados pela União Europeia e pela OMS, alterando, em conformidade, o regime relativo à disponibilização de dispositivos para diagnósticos in vitro destinados aos testes rápidos de rastreio das infeções por VIH, VHB e VHC, previsto no [Decreto-Lei n.º 145/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2009-494558), de 17 de junho, na sua redação atual.
+
+A dispensa direta deste tipo de dispositivos ao público em farmácias, importantes locais em especial pela sua acessibilidade e proximidade aos cidadãos, é acompanhada da informação apropriada em matéria de aconselhamento pré e pós teste, designadamente o aconselhamento quanto à utilização adequada do dispositivo, às medidas a tomar no caso de um resultado reativo, não reativo ou indeterminado e medidas de prevenção para estas infeções, constituindo-se oportunidade para promover a literacia em saúde.
+
+É ainda assegurada a referenciação adequada destes casos para as instituições do SNS, de acordo com as regras estabelecidas, observando o estipulado nas Redes de Referenciação Hospitalar aprovadas.
+
+Acresce que, em resultado da evolução técnica e científica, os requisitos de segurança e de desempenho que atualmente são exigidos no fabrico destes dispositivos oferecem maiores garantias de fiabilidade relativas aos seus resultados, nomeadamente em termos de sensibilidade e especificidade, que afastam a necessidade dos condicionamentos à sua utilização, que estiveram na base do atual regime, que agora se visa alterar.
+
+Esta estratégia visa também combater o estigma e terminar com a discriminação em relação a estas infeções, uma política que tem de ser integrada por toda a sociedade.
+
+Foram ouvidos a Ordem dos Enfermeiros, a Ordem dos Farmacêuticos, a Ordem dos Médicos, a Associação Nacional das Farmácias, a Associação de Farmácias de Portugal e o Fórum Nacional Sociedade Civil para o VIH/SIDA, Tuberculose e Hepatites Virais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à quarta alteração ao [Decreto-Lei n.º 145/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2009-494558), de 17 de junho, alterado pelas Leis n.os [21/2014](https://diariodarepublica.pt/dr/detalhe/lei/21-2014-25344024), de 16 de abril, e [51/2014](https://diariodarepublica.pt/dr/detalhe/lei/51-2014-56346571), de 25 de agosto, e pelo [Decreto-Lei n.º 5/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2017-105711790), de 6 de janeiro, que estabelece as regras a que devem obedecer a investigação, o fabrico, a comercialização, a entrada em serviço, a vigilância e a publicidade dos dispositivos médicos e respetivos acessórios.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 145/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2009-494558), de 17 de junho
+
+O artigo 68.º do [Decreto-Lei n.º 145/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/145-2009-494558), de 17 de junho, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 68.º
+
+[...]
+
+1 - É proibida a disponibilização diretamente ao público dos dispositivos médicos para diagnóstico in vitro de autodiagnóstico destinados unicamente ou principalmente à determinação de marcadores tumorais, ao diagnóstico de doenças hereditárias, à grupagem sanguínea e ao rastreio genético.
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].»
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 13 de setembro de 2018. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Adalberto Campos Fernandes - Manuel de Herédia Caldeira Cabral.
+
+**Promulgado em 2 de outubro de 2018.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 10 de outubro 2018.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

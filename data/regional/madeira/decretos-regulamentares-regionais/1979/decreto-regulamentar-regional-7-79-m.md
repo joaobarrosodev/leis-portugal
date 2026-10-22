@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:383658:por
+title: Decreto Regulamentar Regional n.º 7/79/M
+short_title: null
+summary: Cria o Fundo Especial para a Extinção da Colonia
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 7/79/M
+official_date: null
+publication_date: '1979-05-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 120/1979, Série I de 1979-05-25
+  number: '120'
+  series: I
+  supplement: null
+  pages: 1124 - 1126
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/05/12000/11241126.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '383658'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/7-1979-383658
+  internal: pt:dre:383658:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1979-383658
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/7-1979-383658
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-03-02T00:00:00Z'
+integrity:
+  source_sha256: 30a172626567e9bc577c07b064cd65439733b18d745ac8176e031e7815cace19
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1979/DRE-1979-7-383658.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:547846:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 7/79/M
+
+1 - A existência secular do contrato de colonia na Região Autónoma da Madeira conheceu a sua morte legal com a publicação do [Decreto Regional n.º 13/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1977-277085), de 18 de Outubro. A extinção da colonia foi acompanhada, entre o mais, do reconhecimento ao colono, ao senhorio e, até, a terceiros da possibilidade de adquirirem os direitos dos parceiros contratantes ou de todo o prédio sujeito ao regime de colonia e ainda da conversão desses contratos, para o futuro, em contratos sujeitos à disciplina do arrendamento rural.
+
+Na data da entrada em vigor do diploma de extinção do regime de colonia, o arrendamento rural regia-se pelas normas do [Decreto-Lei n.º 201/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-1975-162082), de 15 de Abril, revogado expressamente pelo artigo 53.º da [Lei n.º 76/77](https://diariodarepublica.pt/dr/detalhe/lei/76-1977-278708), de 29 de Setembro, a qual estatuiu uma disciplina nova para o instituto e deveria ter sido regulamentada no prazo de três meses (artigo 51.º), que transcorreu sem que tal sucedesse.
+
+Perante esta omissão de regulamentação, não é possível fixar, sem mais, uma disciplina adequada para todas as matérias carecidas de explicitação, mas também aquelas para as quais se espera, da própria dinâmica do processo de extinção, os ensinamentos mais adequados e mais valiosos, para se fixar o seu devido perfil jurídico.
+
+Entendeu-se, todavia, que seria da maior importância - até para viabilizar e implementar esse processo - criar e pôr imediatamente em funcionamento os mecanismos práticos e jurídicos capazes de responderem aos pedidos de assistência técnica e financeira que possam ocorrer no seu trajecto, na certeza de que foi a falta dessa assistência a razão principal da não resolução de muitos problemas que perduraram insolúveis ao longo de muitas décadas.
+
+Ao se regulamentar, apenas, o disposto no n.º 5 do artigo 15.º daquele decreto regional, tem-se a consciência clara de que não se visaram todos os aspectos, onde se mostra necessária oportuna regulamentação; julga-se, no entanto, que esta regulamentação, por si só, possibilitará a solução imediata da grande maioria das questões suscitadas pelo diploma da extinção da colonia.
+
+2 - Procurar-se-á, na medida do possível, moldar e adaptar às realidades específicas da Região os esquemas técnico-jurídicos de assistência financeira previstos nos diplomas, vulgarmente designados por Legislação dos Melhoramentos Agrícolas, aplicáveis à colonia, por força do disposto no artigo 25.º do decreto regional que manteve em vigor, em tudo quanto não fosse expressamente contrariado, o [Decreto-Lei n.º 47957](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47957-1967-391403), de 15 de Setembro de 1967, o qual, no seu artigo 7.º, remete por sua vez para aqueles diplomas.
+
+Nessa perspectiva, reconhece-se e atribui-se à Secretaria Regional de Agricultura e Pescas do Governo da Região Autónoma da Madeira a competência que neles se confere a outros organismos públicos e cria-se um fundo especial, dependente daquela Secretaria Regional, através do qual se há-de prestar a assistência técnica e financeira, sem prejuízo da mobilização dos créditos, quando e nas circunstâncias que se vierem a mostrar convenientes.
+
+As operações financeiras foram simplificadas e pretende-se até a sua esquematização, de molde a serem facilmente concretizadas e atempadamente ultimadas, para o que a Secretaria Regional disporá de um serviço, o mais eficiente e desburocratizado possível, para atender às questões suscitadas e uniformizar os critérios de solução.
+
+Nestes termos, o Governo Regional, no uso da faculdade conferida pela alínea b) do artigo 33.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, decreta o seguinte:
+
+###### Artigo 1.º É criado o Fundo Especial para a Extinção da Colonia, com autonomia administrativa e financeira, que será gerido pelo Secretário Regional de Agricultura e Pescas do Governo da Região Autónoma da Madeira.
+
+###### Art. 2.º - 1 - O Fundo Especial para a Extinção da Colonia terá como objecto principal prestar a assistência financeira e técnica nas operações de remissão dos contratos de colonia, a que se refere o artigo 15.º do [Decreto Regional n.º 13/77/M](https://diariodarepublica.pt/dr/detalhe/decreto-regional/13-1977-277085), de 18 de Outubro.
+
+2 - São especialmente consideradas como operações de remissão do contrato de colonia:
+
+a) A aquisição pelo colono do solo onde se acham implantadas as suas própria benfeitorias;
+
+b) A aquisição pelo senhorio das benfeitorias de prédios próprios;
+
+c) A aquisição de prédios sujeitos a regime de colonia pelo cultivador a que se alude no n.º 2 do artigo 3.º do decreto regional;
+
+d) A aquisição das águas de rega de prédios sujeitos ao regime de colonia;
+
+e) A aquisição dos prédios sujeitos ao regime de colonia pelos proprietários de prédios confinantes;
+
+f) A expropriação de prédios sujeitos ao regime de colonia pelo Governo Regional ou pelos municípios, nos casos e para os fins previstos nos artigos 16.º e 17.º do decreto regional.
+
+###### Art. 3.º Constituem receitas do Fundo Especial para a Extinção da Colonia:
+
+a) As dotações orçamentais a ele consignadas e inscritas anualmente no Orçamento Geral da Região Autónoma da Madeira;
+
+b) As importâncias arrecadadas pelo Fundo provenientes da amortização dos empréstimos concedidos;
+
+c) O produto de empréstimos a contrair, mediante autorização do Governo Regional;
+
+d) O produto de quaisquer outras operações financeiras autorizadas pelo Governo Regional e destinadas ao Fundo Especial.
+
+###### Art. 4.º Constituem despesas do Fundo Especial para a Extinção da Colonia:
+
+a) Os encargos financeiros resultantes dos empréstimos ou de outras operações financeiras;
+
+b) Os custos, em bens ou serviços, com a instalação e o funcionamento do Fundo.
+
+###### Art. 5.º Os pedidos de assistência financeira serão dirigidos ao Fundo Especial para a Extinção da Colonia e assinados pelos interessados, ou a seu rogo, ou ainda pelos seus representantes legais, ou a rogo destes, e neles deve indicar-se:
+
+a) A localização, o destino, a área aproximada e as confrontações do objecto da remissão;
+
+b) A identificação dos titulares de direitos de propriedade e posse dos prédios remidos;
+
+c) A identificação dos credores e o montante das dívidas que onerem os prédios remidos;
+
+d) O montante do empréstimo pretendido, o prazo e a forma da sua amortização;
+
+e) A situação patrimonial e financeira do agregado familiar;
+
+f) Outros quaisquer elementos ou informações convenientes à apreciação do pedido.
+
+###### Art. 6.º - 1 - Para a instrução dos pedidos de empréstimo, o Fundo Especial para a Extinção da Colonia poderá solicitar às estações oficiais e repartições públicas todos os elementos que entender convenientes, nomeadamente certidões de descrição predial, de inscrição em vigor e de inscrição matricial e atestados da situação económica dos requerentes.
+
+2 - O Fundo poderá, ainda, averiguar da exactidão das declarações prestadas pelos requerentes, bem como colher todos os esclarecimentos complementares que reputar convenientes, efectuando as inspecções, exames, vistorias e avaliações necessárias.
+
+###### Art. 7.º - 1 - Os empréstimos só podem ser concedidos às pessoas singulares ou colectivas, de direito público ou privado, que após a remissão se tornem donos em propriedade plena e perfeita dos prédios sujeitos a remissão e que demonstram carecer desse auxílio.
+
+2 - A pluralidade de titulares do prédio, como sucede na compropriedade e ainda no usufruto ou uso e habitação, não obsta à concessão do empréstimo, desde que todos os interessados intervenham no contrato.
+
+###### Art. 8.º - 1 - A assistência financeira consistirá na concessão de empréstimos, com prazo certo, reembolsáveis de uma só vez ou amortizáveis em prestações anuais, em número nunca superior a vinte.
+
+2 - Os empréstimos vencerão juros, à taxa fixada para os concedidos pelo Estado e destinados a melhoramentos agrícolas.
+
+3 - Os empréstimos feitos às autarquias ou a pessoas colectivas, sem fins lucrativos, ou a cooperativas estão isentos de juros.
+
+###### Art. 9.º O montante do empréstimo nunca poderá exceder o valor real do prédio depois da remissão, de harmonia com os critérios de avaliação do próprio Fundo Especial para a Extinção da Colonia.
+
+###### Art. 10.º Sobre as anuidades vencidas e não pagas incidirão juros de mora, além dos contratuais, pagos as taxas legais.
+
+###### Art. 11.º - 1 - Ao devedor fica assegurado o direito de antecipar todas ou algumas das anuidades, sempre com referência ao primeiro vencimento seguinte, e mediante aviso prévio, feito por escrito, à entidade credora, até 31 de Dezembro de cada ano, para as antecipações parciais.
+
+2 - Nas antecipações totais serão cobrados juros apenas sobre o capital em dívida, até ao fim do mês em que for feita a antecipação.
+
+3 - Nos casos de antecipação será concedido um bónus ao devedor, igual aos juros correspondentes ao tempo da antecipação das anuidades pagas.
+
+###### Art. 12.º - 1 - Os contratos de empréstimo de valor superior a 20000$00 serão celebrados por escritura pública.
+
+2 - Os contratos de empréstimo de valor igual ou inferior a 20000$00 constarão de título particular em duplicado, com assinaturas dos mutuários feitas na presença do notário, o que este certificará no reconhecimento ou, não podendo ou não sabendo eles escrever, assinado a rogo, na presença do notário, que certificará o rogo e a identidade dos rogantes.
+
+3 - Se o mutuário for casado, deverá a mulher obrigar-se conjuntamente no contrato salvo se entre eles vigorar o regime de separação de bens.
+
+###### Art. 13.º - 1 - O crédito resultante dos empréstimos será garantido com hipoteca sobre o prédio ou prédios que forem identificados nos respectivos contratos.
+
+2 - O Fundo Especial para a Extinção da Colonia requererá às conservatórias do registo predial competentes a descrição dos prédios remidos, se esta não existir, bem como o registo a seu favor do ónus referido no número anterior.
+
+###### Art. 14.º - 1 - O registo definitivo ou provisório do ónus real poderá ser feito a requerimento do Fundo ou dos interessados, que, relativamente aos prédios indicados nos contratos de empréstimo, deverão requerer o certificado de registo e a certidão de encargos.
+
+2 - A todos os actos que o Fundo Especial, em representação do Governo Regional, requerer, nos termos deste artigo, é aplicável o disposto no artigo 277.º do Código do Registo Predial.
+
+###### Art. 15.º Todas as funções notariais previstas neste diploma serão exercidas pelo notário privativo do Governo Regional.
+
+###### Art. 16.º - 1 - O Fundo Especial para a Extinção da Colonia recusará o empréstimo se, comprovadamente, o mesmo se destinar a práticas especulativas ou a investimentos fora da Região Autónoma da Madeira e, ainda, se não se encontrarem pagos:
+
+a) Os titulares da indemnização;
+
+b) Os credores com garantia real ou privilégio creditório sobre o prédio remido.
+
+2 - Todavia, os mutuários poderão deixar cativas no Fundo as quantias necessárias para esse pagamento aos credores referidos nas alíneas a) e b), o qual será feito directamente aos interessados, valendo como prova do recebimento a quitação dada por estes.
+
+###### Art. 17.º São causas de resolução do empréstimo:
+
+a) A alienação do prédio durante o período de amortização;
+
+b) A violação do disposto no n.º 4 do artigo 15.º do decreto regional;
+
+c) A falta de cumprimento do contrato de empréstimo nas suas estipulações essenciais.
+
+###### Art. 18.º - 1 - Fica autorizado o Fundo Especial para a Extinção da Colonia a contratar com a Caixa Geral de Depósitos, Crédito e Previdência a transferência dos créditos provenientes dos contratos de empréstimo celebrados ao abrigo deste diploma, com todos os seus direitos e obrigações.
+
+2 - O Fundo dará imediato conhecimento das transferências de créditos aos respectivos mutuários, em carta registada com aviso de recepção.
+
+3 - A comunicação referida no número anterior produzirá todos os efeitos da notificação prevista no n.º 1 do artigo 583.º do Código Civil.
+
+###### Art. 19.º A transferência dos créditos, referida no número anterior, constará de escritura pública.
+
+###### Art. 20.º - 1 - O averbamento de transferência de créditos a favor da Caixa Geral de Depósitos, Crédito e Previdência será feito a requerimento do Fundo Especial para a Extinção da Colonia, em representação do Governo Regional.
+
+2 - É aplicável ao registo do averbamento referido neste artigo o disposto no n.º 2 do artigo 14.º
+
+###### Art. 21.º Os créditos transferidos para a Caixa Geral de Depósitos, Crédito e Previdência nos termos do artigo 18.º serão pagos ao Fundo Especial para a Extinção da Colonia pelas importâncias do capital em dívida no momento da cessão e poderão ser avalisados pelo Governo da Região Autónoma da Madeira.
+
+###### Art. 22.º - 1 - As cobranças relativas aos empréstimos serão realizadas por intermédio das repartições de finanças competentes, às quais o Fundo fornecerá os elementos indispensáveis.
+
+2 - Uma vez operada a transferência para a Caixa Geral de Depósitos, Crédito e Previdência, poderá este estabelecimento ocupar-se das cobranças directamente e segundo o regime que lhe é próprio.
+
+3 - As repartições de finanças, nos casos em que devam intervir por conta do Fundo Especial para a Extinção da Colonia, procederão à cobrança normal das anuidades no mês de Julho, e de uma só vez, juntamente com a contribuição dos prédios remidos, se estes dela não estiverem isentos, mas por documento separado.
+
+4 - Sempre que os mutuários não paguem contribuição predial no mês de Julho, as anuidades poderão ser cobradas nos meses de Agosto e Setembro juntamente com a referida contribuição e com os competentes juros de mora.
+
+5 - As repartições de finanças enviarão ao Fundo, até ao dia 20 de Outubro de cada ano, notas discriminativas das anuidades cobradas e das vencidas e não pagas.
+
+###### Art. 23.º A resolução dos contratos de empréstimo torna logo exigíveis pelo Fundo Especial para a Extinção da Colonia todas as importâncias entregues, bem como a falta de pagamento de uma anuidade autoriza a entidade credora a exigir imediatamente todas as restantes, se a anuidade vencida não for paga dentro do prazo de sessenta dias, a contar da notificação dos devedores, em carta registada com aviso de recepção.
+
+###### Art. 24.º Os documentos de quitação do Fundo Especial para a Extinção da Colonia ou da Caixa Geral de Depósitos, Crédito e Previdência e ainda os de declaração de não conclusão do contrato, nos termos do artigo 16.º, serão suficientes para o cancelamento nas conservatórias do registo predial dos encargos resultantes dos empréstimos.
+
+###### Art. 25.º Para cobrança coerciva dos créditos, poderá a entidade credora fazer seguir as suas execuções através do tribunal da comarca competente.
+
+###### Art. 26.º Em tudo o não especialmente regulado, aplica-se subsidiariamente o [Decreto-Lei n.º 43355](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43355-1960-512991), de 24 de Novembro de 1960, e legislação posterior que o alterou e completou.
+
+###### Art. 27.º O presente diploma entra imediatamente em vigor.
+
+**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+
+**Assinado em 10 de Maio de 1979.**
+
+**Publique-se.**
+
+**O Ministro da República, Lino Dias Miguel.**

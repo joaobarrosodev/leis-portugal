@@ -1,0 +1,1276 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:105579664:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-114187636",
+ "dre_path": "/dr/detalhe/portaria/324-a-2016-105579664",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-12-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114190007",
+    "114190008",
+    "114190009",
+    "114190010",
+    "114190011",
+    "114190012",
+    "114190013",
+    "114190014",
+    "114190015",
+    "114190016",
+    "114190017",
+    "114190018",
+    "114190019",
+    "114190020",
+    "114190021",
+    "114190022",
+    "114190023",
+    "114190024",
+    "114190025",
+    "114190026",
+    "114190027",
+    "114190028",
+    "114190029",
+    "114190030",
+    "114190031",
+    "114190032",
+    "114190033",
+    "114190034",
+    "114190035",
+    "114190036",
+    "114190037",
+    "114190038",
+    "114190039",
+    "114190040",
+    "114190041",
+    "114190042",
+    "114190043",
+    "114190044",
+    "114190046",
+    "114190047",
+    "114190048",
+    "114190049",
+    "114190050",
+    "114190051"
+   ]
+  },
+  {
+   "date": "2017-11-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114177788:por",
+     "title": "Portaria n.º 343/2017",
+     "published": "2017-11-10",
+     "dre_path": "/dr/detalhe/portaria/343-2017-114177788"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "114190007",
+    "114190008",
+    "114190009",
+    "114190010",
+    "114190011",
+    "114190012",
+    "114190013",
+    "114190014",
+    "114190015",
+    "114190016",
+    "114190017",
+    "114190018",
+    "114190057",
+    "114190020",
+    "114190021",
+    "114190022",
+    "114190023",
+    "114190024",
+    "114190025",
+    "114190026",
+    "114190027",
+    "114190028",
+    "114190029",
+    "114190030",
+    "114190031",
+    "114190032",
+    "114190033",
+    "114190034",
+    "114190035",
+    "114190036",
+    "114190037",
+    "114190038",
+    "114190039",
+    "114190040",
+    "114190041",
+    "114190042",
+    "114190043",
+    "114190044",
+    "114190045",
+    "114190046",
+    "114190047",
+    "114190048",
+    "114190049",
+    "114190050",
+    "114190051"
+   ]
+  },
+  {
+   "date": "2018-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114952498:por",
+     "title": "Portaria n.º 92/2018",
+     "published": "2018-04-02",
+     "dre_path": "/dr/detalhe/portaria/92-2018-114952498"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 33.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º"
+   ],
+   "fragments": [
+    "114190007",
+    "114190008",
+    "114190009",
+    "114190010",
+    "114190011",
+    "114190012",
+    "114190013",
+    "114957906",
+    "114957907",
+    "114957908",
+    "114957909",
+    "114957910",
+    "114957904",
+    "114957905",
+    "114190020",
+    "114957918",
+    "114957911",
+    "114957919",
+    "114957920",
+    "114957912",
+    "114957921",
+    "114957922",
+    "114957923",
+    "114957924",
+    "114957925",
+    "114957913",
+    "114957926",
+    "114957927",
+    "114957928",
+    "114957929",
+    "114957930",
+    "114957914",
+    "114957917",
+    "114190039",
+    "114957915",
+    "114190041",
+    "114190042",
+    "114957916",
+    "114190044",
+    "114190045",
+    "114190046",
+    "114190047",
+    "114190048",
+    "114190049",
+    "114190050",
+    "114190051"
+   ]
+  },
+  {
+   "date": "2018-11-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117343947:por",
+     "title": "Declaração de Retificação n.º 40/2018",
+     "published": "2018-12-12",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/40-2018-117343947"
+    },
+    {
+     "id": "pt:dre:117114264:por",
+     "title": "Portaria n.º 303/2018",
+     "published": "2018-11-26",
+     "dre_path": "/dr/detalhe/portaria/303-2018-117114264"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 33.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 33.º"
+   ],
+   "fragments": [
+    "114190007",
+    "114190008",
+    "114190009",
+    "114190010",
+    "114190011",
+    "114190012",
+    "114190013",
+    "114957906",
+    "114957907",
+    "114957908",
+    "114957909",
+    "114957910",
+    "117125438",
+    "114957905",
+    "114190020",
+    "114957918",
+    "114957911",
+    "114957919",
+    "114957920",
+    "114957912",
+    "114957921",
+    "114957922",
+    "114957923",
+    "114957924",
+    "114957925",
+    "114957913",
+    "114957926",
+    "114957927",
+    "114957928",
+    "114957929",
+    "114957930",
+    "114957914",
+    "114957917",
+    "117125439",
+    "114957915",
+    "114190041",
+    "114190042",
+    "117125440",
+    "114190044",
+    "114190045",
+    "114190046",
+    "114190047",
+    "114190048",
+    "114190049",
+    "114190050",
+    "114190051"
+   ]
+  },
+  {
+   "date": "2019-04-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122074197:por",
+     "title": "Portaria n.º 109/2019",
+     "published": "2019-04-11",
+     "dre_path": "/dr/detalhe/portaria/109-2019-122074197"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 10.º",
+    "Altera Anexo I",
+    "Altera Anexo III",
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "114190007",
+    "114190008",
+    "114190009",
+    "114190010",
+    "122080106",
+    "114190012",
+    "114190013",
+    "114957906",
+    "114957907",
+    "114957908",
+    "114957909",
+    "114957910",
+    "117125438",
+    "122080107",
+    "114190020",
+    "114957918",
+    "114957911",
+    "114957919",
+    "114957920",
+    "114957912",
+    "114957921",
+    "114957922",
+    "114957923",
+    "114957924",
+    "114957925",
+    "114957913",
+    "114957926",
+    "114957927",
+    "114957928",
+    "114957929",
+    "114957930",
+    "114957914",
+    "114957917",
+    "117125439",
+    "114957915",
+    "114190041",
+    "114190042",
+    "117352167",
+    "114190044",
+    "114190045",
+    "114190046",
+    "122080108",
+    "114190048",
+    "122080109",
+    "122080110",
+    "114190051"
+   ]
+  },
+  {
+   "date": "2023-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211241822:por",
+     "title": "Portaria n.º 98/2023",
+     "published": "2023-03-31",
+     "dre_path": "/dr/detalhe/portaria/98-2023-211241822"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo V"
+   ],
+   "fragments": [
+    "114190007",
+    "114190008",
+    "114190009",
+    "114190010",
+    "211234834",
+    "114190012",
+    "114190013",
+    "114957906",
+    "114957907",
+    "211234835",
+    "114957909",
+    "114957910",
+    "211234836",
+    "122080107",
+    "114190020",
+    "114957918",
+    "114957911",
+    "114957919",
+    "114957920",
+    "114957912",
+    "114957921",
+    "114957922",
+    "114957923",
+    "114957924",
+    "114957925",
+    "114957913",
+    "114957926",
+    "114957927",
+    "114957928",
+    "114957929",
+    "114957930",
+    "114957914",
+    "114957917",
+    "117125439",
+    "114957915",
+    "114190041",
+    "114190042",
+    "117352167",
+    "114190044",
+    "114190045",
+    "114190046",
+    "211234837",
+    "211234838",
+    "122080109",
+    "122080110",
+    "211234839"
+   ]
+  },
+  {
+   "date": "2023-12-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225397121:por",
+     "title": "Portaria n.º 417/2023",
+     "published": "2023-12-07",
+     "dre_path": "/dr/detalhe/portaria/417-2023-225397121"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "114190007",
+    "114190008",
+    "114190009",
+    "114190010",
+    "211234834",
+    "114190012",
+    "114190013",
+    "114957906",
+    "114957907",
+    "225446227",
+    "114957909",
+    "114957910",
+    "211234836",
+    "122080107",
+    "114190020",
+    "114957918",
+    "114957911",
+    "114957919",
+    "114957920",
+    "114957912",
+    "114957921",
+    "114957922",
+    "114957923",
+    "114957924",
+    "114957925",
+    "114957913",
+    "114957926",
+    "114957927",
+    "114957928",
+    "114957929",
+    "114957930",
+    "114957914",
+    "114957917",
+    "117125439",
+    "114957915",
+    "114190041",
+    "114190042",
+    "117352167",
+    "114190044",
+    "114190045",
+    "114190046",
+    "211234837",
+    "211234838",
+    "122080109",
+    "122080110",
+    "211234839"
+   ]
+  }
+ ],
+ "fragments": {
+  "114190007": {
+   "fragment_id": "114187637",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 324-A/2016\n\nde 19 de dezembro\n\nO Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, relativo ao apoio ao desenvolvimento rural pelo Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), estabelece como objetivos o incentivo da competitividade da agricultura, a gestão sustentável dos recursos naturais e ações do domínio do clima e o desenvolvimento territorial equilibrado das economias e comunidades rurais, nomeadamente através da criação e manutenção do emprego.\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabeleceu o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nO PDR2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.\n\nNa arquitetura do PDR2020, às áreas relativas à «Inovação e Conhecimento» corresponde uma visão da estratégia nacional para o desenvolvimento rural, no domínio da inovação e capacitação, que tem como objetivo estratégico o aumento da capacidade de inovação, de geração e transferência de conhecimento nos setores agrícola e florestal.\n\nTendo em conta esta situação, o PDR2020 prevê a promoção da utilização de serviços de aconselhamento nos setores agrícola e florestal, com o objetivo de melhorar o desempenho das explorações em termos económicos e ambientais, num contexto de uma melhor utilização dos recursos.\n\nPara isso prevê-se, para além do apoio à criação de serviços de aconselhamento, apoios à formação de conselheiros das entidades que irão prestar o serviço, bem como ao fornecimento do serviço de aconselhamento propriamente dito.\n\nPor imposição regulamentar, a seleção de candidaturas aos apoios previstos na presente portaria encontra-se sujeita às regras da contratação pública, tendo-se por isso optado pelo recurso ao Código dos Contratos Públicos, adaptando-o apenas na medida do necessário, nomeadamente com a sua publicitação nos portais do Portugal 2020 e do PDR2020, bem como na escolha do procedimento pré-contratual a utilizar nesta mesma seleção.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, alterado pelo Decreto-Lei n.º 215/2015, de 6 de outubro, o seguinte:"
+  },
+  "114190008": {
+   "fragment_id": "114187638",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "114190009": {
+   "fragment_id": "114187639",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação das operações n.os 2.2.1, «Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal», 2.2.2, «Apoio à criação de serviços de aconselhamento» e 2.2.3, «Apoio à formação de conselheiros», inseridas na ação n.º 2.2, «Aconselhamento», da medida n.º 2, «Conhecimento», integrada na área n.º 1, «Inovação e conhecimento», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR2020."
+  },
+  "114190010": {
+   "fragment_id": "114187640",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos na presente portaria destinam-se promover o Sistema de Aconselhamento Agrícola e Florestal (SAAF), criado pela Portaria n.º 151/2016, de 25 de maio, e a utilização dos serviços de aconselhamento agrícola e florestal por parte das pessoas singulares ou coletivas que exerçam atividade agrícola ou que detenham espaços florestais."
+  },
+  "114190011": {
+   "fragment_id": "114187641",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes no artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais e a detenção de animais para fins de produção ou a manutenção de uma superfície agrícola num estado que a torne adequada para pastoreio ou cultivo sem ação preparatória especial para além dos métodos e máquinas agrícolas habituais;\n\nb) «Conselheiros», os recursos humanos afetos aos serviços de aconselhamento;\n\nc) «Detentor de espaços florestais», o proprietário, usufrutuário, superficiário, arrendatário ou quem, a qualquer título, for possuidor ou detenha a administração dos terrenos que integram os espaços florestais, incluindo as entidades gestoras de zonas de intervenção florestal;\n\nd) «Exploração agrícola», o conjunto de unidades produtivas utilizadas para o exercício de atividades agrícolas submetidos a uma gestão única;\n\ne) «Exploração florestal», o prédio ou conjunto de prédios, contíguos ou não, ocupados total ou parcialmente por espaços florestais, submetidos a uma gestão única;\n\nf) «Serviço de aconselhamento agrícola ou florestal», o serviço técnico especializado prestado por uma entidade reconhecida no âmbito do Sistema de Aconselhamento Agrícola e Florestal, que abrange o diagnóstico e análise dos problemas concretos e oportunidades de uma exploração agrícola ou florestal e a elaboração de um plano de ação com as recomendações a implementar;\n\ng) «Sistema de Aconselhamento Agrícola e Florestal (SAAF)», o sistema de aconselhamento agrícola e florestal criado pela Portaria n.º 151/2016, de 25 de maio."
+  },
+  "114190012": {
+   "fragment_id": "114187642",
+   "type": 11,
+   "heading": "Artigo 4.º — Auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Auxílios de Estado\n\n1 - Os apoios previstos na presente portaria para a operação n.º 2.2.1, «Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal» são concedidos nas condições constantes do artigo 39.º do Regulamento (UE) n.º 702/2014, da Comissão, de 25 de junho de 2014, que declara certas categorias de auxílios no setor agrícola e florestal e nas zonas rurais compatíveis com o mercado comum, em aplicação dos artigos 107.º e 108.º do Tratado.\n\n2 - Os apoios previstos na presente portaria para a operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento» são concedidos nas condições previstas no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis.\n\n3 - Os apoios previstos na presente portaria para a operação n.º 2.2.3, «Apoio à formação de conselheiros» são concedidos nas condições constantes da Parte II, Secção 3.6 «Auxílios à transferência de conhecimentos e ações de informações nas zonas rurais» das Orientações da União Europeia para os auxílios estatais no setor agrícola, florestal e nas zonas rurais 2014-2020 e após aprovação pela Comissão Europeia do presente regime.\n\n4 - Os apoios concedidos são divulgados no portal do Gabinete de Planeamento Políticas e Administração Geral, em www.gpp.pt, através de hiperligações às páginas eletrónicas das entidades relevantes."
+  },
+  "114190013": {
+   "fragment_id": "114187643",
+   "type": 1,
+   "heading": "Capítulo II — Apoios à criação e desenvolvimento de serviços, formação de conselheiros e prestação de aconselhamento agrícola e florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Apoios à criação e desenvolvimento de serviços, formação de conselheiros e prestação de aconselhamento agrícola e florestal"
+  },
+  "114190014": {
+   "fragment_id": "114187644",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente portaria as entidades prestadoras de serviços de aconselhamento reconhecidas no âmbito do SAAF.\n\n2 - São excluídas dos apoios previstos na presente portaria as entidades:\n\na) Que sejam consideradas empresas em dificuldade na aceção do ponto 14 do artigo 2.º do Regulamento (UE) n.º 702/2014, da Comissão, de 25 de junho de 2014, que declara certas categorias de auxílios no setor agrícola e florestal e nas zonas rurais compatíveis com o mercado comum, em aplicação dos artigos 107.º e 108.º do Tratado;\n\nb) Sobre as quais impenda um processo de recuperação de auxílios de estado, declarados incompatíveis com o mercado interno, pela Comissão Europeia."
+  },
+  "114190015": {
+   "fragment_id": "114187645",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 2;\n\nb) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER e do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\nc) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\nd) Deterem um sistema de contabilidade organizada ou simplificada, que contemple um centro de custos específico para a operação, nos termos da legislação em vigor.\n\n2 - A condição prevista na alínea a) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento."
+  },
+  "114190016": {
+   "fragment_id": "114187646",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos na presente portaria as operações que se enquadrem nos objetivos do artigo 2.º e que reúnam as seguintes condições:\n\na) Apresentem coerência técnica e financeira;\n\nb) Demonstrem estarem asseguradas as fontes de financiamento;\n\nc) Tenham início após a data de apresentação da candidatura.\n\n2 - Para além do disposto no número anterior, as operações devem reunir as seguintes condições:\n\na) Quando respeite à operação n.º 2.2.1, «Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal»:\n\ni) Identifiquem as metodologias a serem utilizadas na prestação do serviço de aconselhamento, o qual deverá incluir, pelo menos, uma visita à exploração;\n\nii) Em caso de aconselhamento agrícola, incidam sobre as áreas temáticas previstas no anexo I da presente portaria, da qual faz parte integrante, devendo o primeiro serviço incluir, no mínimo, as áreas temáticas previstas nas alíneas a), b), c) e d) do referido anexo;\n\niii) Em caso do aconselhamento florestal, incidam sobre as áreas temáticas previstas no anexo II da presente portaria, da qual faz parte integrante, devendo o primeiro serviço incluir, no mínimo, as áreas temáticas previstas nas alíneas a), b), f) e h) do referido anexo;\n\niv) Incluam, em caso de segundo serviço de aconselhamento, as áreas temáticas não abrangidas no primeiro serviço, exceto em casos devidamente justificados;\n\nv) O número de serviços prestados ao mesmo destinatário esteja limitado a dois serviços de aconselhamento por um período máximo de cinco anos, contado a partir da data de celebração do contrato de serviço de aconselhamento, sendo que, um serviço de aconselhamento que incida, simultaneamente, sobre áreas temáticas agrícolas e áreas temáticas florestais, é considerado, para efeitos de apoio, como dois serviços de aconselhamento distintos.\n\nb) Quando respeite à operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento», apresentem um plano de criação e desenvolvimento, com uma duração máxima de 36 meses, cujo investimento represente, no primeiro ano, pelo menos, 40 % do seu valor total, e identificando, designadamente, os seguintes elementos:\n\ni) A estrutura a criar ou desenvolver;\n\nii) Áreas temáticas a criar e desenvolver;\n\niii) Tipos de destinatários dos serviços de aconselhamento propostos;\n\niv) Objetivos e metas a alcançar;\n\nv) Descrição, calendarização e âmbito territorial das atividades a empreender, incluindo ações de divulgação dos serviços de aconselhamento disponíveis;\n\nvi) Identificação dos recursos humanos e materiais envolvidos.\n\nc) Quando respeite à operação n.º 2.2.3, «Apoio à formação de conselheiros», apresentem um plano de formação com uma duração máxima de 36 meses, que desenvolva, designadamente, os seguintes elementos relativos às ações de formação previstas:\n\ni) Objetivos e metas a alcançar;\n\nii) Domínio temático e duração;\n\niii) Identificação dos perfis dos destinatários;\n\niv) Identificação dos recursos humanos e materiais envolvidos."
+  },
+  "114190017": {
+   "fragment_id": "114187647",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis e não elegíveis\n\n1 - As despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo III à presente portaria, da qual faz parte integrante.\n\n2 - Não são considerados como despesa elegível os bens e equipamentos que à data de entrada em vigor da presente portaria já tenham sido objeto de apoio."
+  },
+  "114190018": {
+   "fragment_id": "114187648",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\nOs beneficiários dos apoios previstos na presente portaria, além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a atividade a desenvolver;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das atividades, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada, que contemple um centro de custos específico para a operação, nos termos da legislação em vigor;\n\ng) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única do beneficiário, ainda que não exclusiva, exceto em situações devidamente justificadas;\n\nh) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\ni) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR, consoante a fase em que o encerramento da operação tenha sido concluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de Auxílios de Estado, se estas fixarem prazo superior;\n\nj) Manter o reconhecimento como entidade prestadora de serviços de aconselhamento no âmbito do SAAF, para as áreas temáticas em que se propõe intervir, até ao termo da operação;\n\nk) Não locar ou alienar os equipamentos cofinanciados, durante o período de cinco anos a contar da data da aceitação da concessão do apoio, ou até ao termo da perenidade da operação, definida no termo de aceitação, sem prévia autorização da autoridade de gestão;\n\nl) Concluir a prestação de cada serviço de aconselhamento agrícola ou florestal no prazo de um ano após a celebração do respetivo contrato de aconselhamento."
+  },
+  "114190019": {
+   "fragment_id": "114187649",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma, nível e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Forma, nível e limites do apoio\n\n1 - O apoio previsto na presente portaria é concedido sob a forma de subvenção não reembolsável.\n\n2 - O nível de apoio para a operação n.º 2.2.1, «Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal» é de 80 % das despesas elegíveis, até ao montante máximo de apoio de (euro) 1.500 euros por serviço de aconselhamento individual.\n\n3 - O nível de apoio para a operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento» é de 60 % das despesas elegíveis e conforme os seguintes limites mínimos de investimento:\n\na) 1.º ano - 40 % do valor total do investimento;\n\nb) 2.º ano - valor de investimento inferior ao executado no 1.º ano;\n\nc) 3.º ano - valor de investimento inferior ao executado no 2.º ano.\n\n4 - O valor do apoio aprovado para cada ano nos termos do número anterior não transita para o ano seguinte em caso de não execução.\n\n5 - O apoio à operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento», está sujeito aos seguintes montantes máximos:\n\na) Caso o beneficiário seja uma entidade reconhecida ao abrigo da alínea a) do n.º 1 do artigo 8.º da Portaria n.º 151/2016, de 25 de maio, (euro) 200.000 euros, por triénio;\n\nb) Em caso de candidatura em parceria, para cada entidade parceira que não se inclua no disposto na alínea anterior, (euro) 40.000 euros, por triénio.\n\n6 - O nível de apoio para a operação n.º 2.2.3, «Apoio à formação de conselheiros» é de 75 % da despesa total elegível, até ao montante máximo de (euro) 150.000 euros, por beneficiário, por um período não superior a três anos.\n\n7 - No caso da operação n.º 2.2.2 «Apoio à criação de serviços de aconselhamento», o apoio a conceder é cumulável com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, desde que o respetivo montante acumulado, durante o período de três exercícios financeiros consecutivos, não exceda (euro) 200.000 por beneficiário."
+  },
+  "114190020": {
+   "fragment_id": "114187650",
+   "type": 1,
+   "heading": "Capítulo III — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimento"
+  },
+  "114190021": {
+   "fragment_id": "114187651",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicação do Código dos Contratos Públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aplicação do Código dos Contratos Públicos\n\nA seleção de candidaturas e o procedimento aplicável à atribuição dos apoios previstos na presente portaria regem-se, com as necessárias adaptações, pelo Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, em tudo o que não esteja especialmente previsto no presente capítulo."
+  },
+  "114190022": {
+   "fragment_id": "114187652",
+   "type": 11,
+   "heading": "Artigo 12.º — Anúncio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Anúncio\n\n1 - O procedimento inicia-se com a publicação de anúncio no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR2020, em www.pdr-2020.pt, publicitado em dois órgãos de comunicação social e no Jornal Oficial da União Europeia, do qual consta o programa do concurso e o caderno de encargos.\n\n2 - O programa referido no número anterior deve indicar, nomeadamente:\n\na) A identificação do concurso;\n\nb) A entidade adjudicante;\n\nc) A identificação dos apoios a disponibilizar e dos lotes constituídos para o efeito;\n\nd) O endereço do sítio da Internet onde o caderno de encargos se encontra disponível;\n\ne) Os documentos de habilitação, diretamente relacionados com o objeto do contrato a celebrar, a apresentar nos termos do disposto no artigo 81.º do CCP;\n\nf) O prazo para a apresentação das candidaturas, com respeito pelos prazos mínimos fixados no CCP;\n\ng) Os documentos que constituem a candidatura, que podem ser redigidos em língua estrangeira nos termos do disposto no n.º 3 do artigo 169.º do CCP;\n\nh) O prazo para a apresentação dos documentos de habilitação pelo adjudicatário, bem como o prazo a conceder pela entidade adjudicante para a supressão de irregularidades detetadas nos documentos apresentados que possam levar à caducidade da adjudicação nos termos do disposto no artigo 86.º do CCP;\n\ni) O modelo de avaliação das propostas, explicitando claramente os fatores e eventuais subfactores relativos aos aspetos de execução submetidos à concorrência pelo caderno de encargos, os valores dos respetivos coeficientes de ponderação e, relativamente a cada um dos fatores ou subfactores elementares, a respetiva escala de pontuação, bem como a expressão matemática ou o conjunto ordenado de diferentes atributos suscetíveis de serem propostos que permita a atribuição das pontuações parciais, assente no critério de adjudicação da proposta economicamente mais vantajosa;\n\nj) O prazo para a decisão de qualificação, quando superior ao previsto no artigo 187.º do CCP.\n\n3 - A autoridade de gestão é o órgão competente para prestar esclarecimentos."
+  },
+  "114190023": {
+   "fragment_id": "114187653",
+   "type": 11,
+   "heading": "Artigo 13.º — Qualificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Qualificação\n\nA qualificação é efetuada em função da capacidade técnica que corresponde ao reconhecimento como entidade prestadora de serviços de aconselhamento no âmbito do SAAF, nos termos do disposto na Portaria n.º 151/2016, de 25 de maio, para as áreas temáticas em que os candidatos se propõem intervir, e do cumprimento dos critérios de elegibilidade previstos no artigo 6.º da presente portaria."
+  },
+  "114190024": {
+   "fragment_id": "114187654",
+   "type": 11,
+   "heading": "Artigo 14.º — Candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Candidatura\n\n1 - A candidatura é constituída pelos documentos destinados à qualificação dos candidatos, bem como pela declaração do candidato elaborada em conformidade com o modelo constante do anexo IV à presente Portaria, da qual faz parte integrante.\n\n2 - Quando a candidatura seja apresentada por uma parceria, a declaração referida no número anterior deve ser assinada por todas as entidades parceiras com intervenção nas operações a propor."
+  },
+  "114190025": {
+   "fragment_id": "114187655",
+   "type": 11,
+   "heading": "Artigo 15.º — Modo de apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Modo de apresentação das candidaturas\n\n1 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou do PDR2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n2 - Quando algum documento destinado à qualificação se encontre disponível na Internet, o candidato pode, em substituição da apresentação da sua reprodução, indicar à entidade adjudicante o endereço do sítio onde aquele pode ser consultado, bem como a informação necessária a essa consulta, desde que o referido sítio e documento dele constante estejam redigidos em língua portuguesa.\n\n3 - A autoridade de gestão pode exigir ao candidato a apresentação dos originais de quaisquer documentos cuja reprodução tenha sido apresentada nos termos do disposto no n.º 1, em caso de dúvida fundada sobre o conteúdo ou a autenticidade destes."
+  },
+  "114190026": {
+   "fragment_id": "114187656",
+   "type": 11,
+   "heading": "Artigo 16.º — Lista dos candidatos e consulta das candidaturas apresentadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Lista dos candidatos e consulta das candidaturas apresentadas\n\n1 - A autoridade de gestão, no dia imediato ao termo do prazo fixado para a apresentação das candidaturas, procede à publicitação da lista dos candidatos no portal do PDR2020, em www.pdr-2020.pt, facultando a estes a consulta de todas as candidaturas apresentadas.\n\n2 - O interessado que não tenha sido incluído na lista dos candidatos pode reclamar desse facto no prazo de três dias contados da publicitação da lista, devendo para o efeito apresentar comprovativo da tempestiva apresentação da sua candidatura.\n\n3 - Caso a reclamação prevista no número anterior seja deferida mas não se encontre a candidatura do reclamante, a autoridade de gestão fixa-lhe um novo prazo para a apresentar, sendo aplicável, com as necessárias adaptações, o disposto no n.º 1."
+  },
+  "114190027": {
+   "fragment_id": "114187657",
+   "type": 11,
+   "heading": "Artigo 17.º — Análise das candidaturas e qualificação dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Análise das candidaturas e qualificação dos candidatos\n\n1 - A autoridade de gestão analisa as candidaturas para efeitos da qualificação dos respetivos candidatos.\n\n2 - São qualificados todos os candidatos que preencham os requisitos mínimos de capacidade técnica e cumpram os critérios de elegibilidade previstos no artigo 6.º da presente portaria.\n\n3 - São excluídas as candidaturas:\n\na) Que tenham sido apresentadas depois do termo fixado para a sua apresentação;\n\nb) Que sejam apresentadas por candidatos em violação do disposto no n.º 2 do artigo 54.º do CCP;\n\nc) Que sejam apresentadas por candidatos relativamente aos quais ou, no caso de parcerias candidatas, relativamente a qualquer das entidades parceiras, a autoridade de gestão tenha conhecimento que se verifica alguma das situações previstas no artigo 55.º do CCP;\n\nd) Que não apresentem a declaração a que se refere o n.º 1 do artigo 14.º da presente portaria;\n\ne) Que não cumpram o disposto nos n.os 2 e 3 do artigo 168.º do CCP;\n\nf) Que sejam constituídas por documentos destinados à qualificação redigidos em língua estrangeira e não acompanhados de tradução devidamente legalizada, com exceção dos casos previstos no n.º 3 do artigo 169.º do CCP;\n\ng) Que sejam constituídas por documentos falsos ou nas quais os candidatos prestem culposamente falsas declarações;\n\nh) Cuja análise revele que os respetivos candidatos não preenchem os requisitos mínimos de capacidade técnica ou não cumprem os critérios de elegibilidade previstos no artigo 6.º da presente portaria.\n\n4 - Após a análise das candidaturas e a aplicação às mesmas do critério de qualificação, a autoridade de gestão elabora o relatório preliminar e notifica todos os candidatos para que se pronunciem, por escrito, ao abrigo do direito de audiência prévia, da proposta de qualificação dos candidatos ou da proposta de exclusão das candidaturas.\n\n5 - Cumprido o disposto no número anterior, a autoridade de gestão elabora um relatório final fundamentado, no qual pondera as observações apresentadas pelo candidatos, mantendo ou modificando o teor e as conclusões anteriormente notificadas, podendo ainda determinar a exclusão de qualquer candidatura se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos no n.º 3.\n\n6 - Caso se verifique o disposto na parte final do número anterior, a autoridade de gestão procede a nova audiência prévia, sendo subsequentemente aplicável o disposto no número anterior.\n\n7 - A decisão de qualificação é notificada aos candidatos no prazo máximo de 30 dias após o termo do prazo fixado para a apresentação das candidaturas, sem prejuízo da possibilidade de fixação no anúncio de um prazo superior.\n\n8 - Os candidatos qualificados passam à fase seguinte em condições de igualdade."
+  },
+  "114190028": {
+   "fragment_id": "114187658",
+   "type": 11,
+   "heading": "Artigo 18.º — Convite à apresentação de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Convite à apresentação de propostas\n\n1 - Com a notificação da decisão de qualificação prevista no n.º 7 do artigo anterior, a autoridade de gestão envia aos candidatos qualificados, em simultâneo, um convite à apresentação de propostas, através do balcão do beneficiário do PDR2020.\n\n2 - O convite à apresentação de propostas deve indicar:\n\na) A identificação do concurso;\n\nb) Os documentos referidos na alínea c) do n.º 1 do artigo 57.º do CCP;\n\nc) Os documentos que constituem a proposta, que podem ser redigidos em língua estrangeira, nos termos do disposto no n.º 2 do artigo 58.º do CCP;\n\nd) O prazo para a apresentação das propostas;\n\ne) O prazo da obrigação de manutenção das propostas, quando superior ao previsto no artigo 65.º do CCP.\n\n3 - O convite pode ainda conter regras específicas sobre a fase de apresentação e análise das propostas e adjudicação, considerando, designadamente, que podem ser adjudicadas propostas por lotes, desde que não tenham por efeito impedir, restringir ou falsear a concorrência."
+  },
+  "114190029": {
+   "fragment_id": "114187659",
+   "type": 11,
+   "heading": "Artigo 19.º — Documentos da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Documentos da proposta\n\n1 - A proposta é constituída pelos seguintes documentos:\n\na) Declaração do concorrente aceitando o conteúdo do caderno de encargos, elaborada em conformidade com o modelo constante do anexo IV da presente portaria, da qual faz parte integrante;\n\nb) Documentos que, em função das prestações decorrentes do regime de aplicação dos apoios a atribuir e dos aspetos da sua execução submetidos à concorrência pelo caderno de encargos, contenham os atributos da proposta, de acordo com os quais o concorrente se dispõe a contratar;\n\nc) Quaisquer outros documentos que o concorrente considere indispensáveis para os efeitos do disposto na parte final da alínea anterior.\n\n2 - Quando a proposta seja apresentada por uma parceria, a declaração referida na alínea a) do n.º 1 deve ser assinada por todas as entidades parceiras com intervenção nas operações propostas."
+  },
+  "114190030": {
+   "fragment_id": "114187660",
+   "type": 11,
+   "heading": "Artigo 20.º — Apresentação das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Apresentação das propostas\n\nO disposto no artigo 15.º da presente portaria é aplicável à apresentação das propostas."
+  },
+  "114190031": {
+   "fragment_id": "114187661",
+   "type": 11,
+   "heading": "Artigo 21.º — Análise das propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Análise das propostas\n\n1 - A autoridade de gestão analisa as propostas em todos os seus atributos e aplica o modelo de avaliação.\n\n2 - São excluídas as propostas:\n\na) Que não apresentem algum dos atributos submetidos à concorrência, nos termos do disposto na alínea b) do n.º 1 do artigo 57.º do CCP;\n\nb) Que não cumpram os critérios de elegibilidade das operações previstos no artigo 7.º da presente portaria;\n\nc) Que apresentem atributos que violem os parâmetros base fixados no caderno de encargos ou que apresentem quaisquer termos ou condições que violem aspetos da execução do regime de aplicação dos apoios não submetidos à concorrência, sem prejuízo do disposto nos n.os 4 a 6 e 8 a 11 do artigo 49.º do CCP;\n\nd) Impossíveis de avaliar em virtude da forma de apresentação de algum dos respetivos atributos;\n\ne) Cujo preço contratual, tal como definido no CCP, seja superior ao preço base;\n\nf) Cujo preço total seja anormalmente baixo e os esclarecimentos justificativos não tenham sido apresentados ou considerados nos termos do disposto no artigo seguinte;\n\ng) Cujas prestações decorrentes da execução da operação implicariam a violação de quaisquer vinculações legais ou regulamentares aplicáveis;\n\nh) Cuja análise revele a existência de fortes indícios de atos, acordos, práticas ou informações suscetíveis de falsear as regras de concorrência.\n\n3 - A exclusão de quaisquer propostas com fundamento no disposto nas alíneas f) e h) do número anterior deve ser imediatamente comunicada à Autoridade da Concorrência."
+  },
+  "114190032": {
+   "fragment_id": "114187662",
+   "type": 11,
+   "heading": "Artigo 22.º — Esclarecimentos sobre as propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Esclarecimentos sobre as propostas\n\n1 - A autoridade de gestão pode pedir aos concorrentes quaisquer esclarecimentos sobre as propostas apresentadas que considere necessários para a análise e avaliação das mesmas.\n\n2 - Os esclarecimentos sobre as propostas fazem parte integrante das mesmas, desde que não contrariem os elementos constantes dos documentos que as constituem, não alterem ou completem os respetivos atributos, nem visem suprir omissões que determinam a sua exclusão, nos termos do disposto na alínea a) do n.º 2 do artigo 70.º do CCP.\n\n3 - Os esclarecimentos referidos no número anterior devem ser disponibilizados no portal do PDR2020, em www.pdr-2020.pt, devendo todos os concorrentes ser imediatamente notificados desse facto."
+  },
+  "114190033": {
+   "fragment_id": "114187663",
+   "type": 11,
+   "heading": "Artigo 23.º — Critério de adjudicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Critério de adjudicação\n\n1 - A adjudicação de cada lote é realizada segundo o critério da proposta economicamente mais vantajosa, densificado nos fatores e subfactores e que abrangem apenas os aspetos da execução do regime de aplicação dos apoios, submetidos à concorrência pelo caderno de encargos, não dizendo respeito, direta ou indiretamente, a situações, qualidades, características ou outros elementos de facto, relativos aos concorrentes.\n\n2 - Constituem, designadamente, fatores densificadores do critério de adjudicação da proposta economicamente mais vantajosa:\n\na) Proposta apresentada por uma parceria;\n\nb) Número de áreas temáticas disponibilizadas no serviço de aconselhamento;\n\nc) Abrangência territorial das operações, expressa por NUT III nos termos do Regulamento (UE) n.º 868/2014, da Comissão, de 8 de agosto de 2014;\n\nd) Adequação das áreas temáticas a desenvolver face aos objetivos e metas a alcançar;\n\ne) Preço;\n\nf) As características técnicas, a metodologia utilizada e grau de utilização das tecnologias de informação dos serviços propostos;\n\ng) Adequação das metodologias de prestação do serviço aos destinatários propostos;\n\nh) Adequação dos recursos humanos e materiais;\n\ni) Experiência e qualificação técnica dos formadores;\n\nj) Relevância das atividades propostas no plano de formação, face aos domínios temáticos previstos.\n\n3 - Os fatores e os subfactores são valorados de acordo com os coeficientes de ponderação divulgados no programa do concurso."
+  },
+  "114190034": {
+   "fragment_id": "114187664",
+   "type": 11,
+   "heading": "Artigo 24.º — Relatório Preliminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Relatório Preliminar\n\n1 - Após análise das propostas e da aplicação do critério de adjudicação constante do programa do concurso, o júri elabora um relatório preliminar fundamentado, no qual propõe a ordenação das mesmas tendo em conta a pontuação obtida.\n\n2 - No relatório preliminar a que se refere o número anterior, o júri também propõe, fundamentadamente, a exclusão das propostas com os fundamentos previstos no artigo 146.º do CCP.\n\n3 - Quando o mesmo concorrente apresente mais de uma proposta, em violação do disposto no n.º 7 do artigo 59.º do CCP, ou um número de propostas variante superior ao número máximo admitido pelo programa do concurso, o júri deve também propor a exclusão de todas as propostas por ele apresentadas, de acordo com o disposto na alínea j) do n.º 1 do artigo 132.º do CCP.\n\n4 - Do relatório preliminar deve ainda constar referência aos esclarecimentos prestados pelos concorrentes, nos termos do disposto no artigo 72.º do CCP."
+  },
+  "114190035": {
+   "fragment_id": "114187665",
+   "type": 11,
+   "heading": "Artigo 25.º — Audiência Prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Audiência Prévia\n\nElaborado o relatório preliminar, o júri procede à audiência prévia nos termos do disposto no n.º 1 do artigo 123.º do CCP."
+  },
+  "114190036": {
+   "fragment_id": "114187666",
+   "type": 11,
+   "heading": "Artigo 26.º — Relatório Final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Relatório Final\n\n1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos concorrentes efetuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda propor a exclusão de qualquer proposta se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos no n.º 2 do artigo 24.º da presente portaria.\n\n2 - No caso previsto na parte final do número anterior, bem como quando do relatório final resulte uma alteração da ordenação das propostas constantes do relatório preliminar, o júri procede a nova audiência prévia, nos termos previstos no artigo anterior, sendo subsequentemente aplicável o disposto no número anterior.\n\n3 - O relatório final, juntamente com os demais documentos que compõem o processo do concurso é enviado ao órgão competente para a decisão de contratar para efeitos de adjudicação."
+  },
+  "114190037": {
+   "fragment_id": "114187667",
+   "type": 11,
+   "heading": "Artigo 27.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Termo de aceitação\n\n1 - A aceitação, por tipo de operação e adjudicatário, é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no seu portal, em www.ifap.pt.\n\n2 - Os adjudicatários dispõem de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de adjudicação, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão."
+  },
+  "114190038": {
+   "fragment_id": "114187668",
+   "type": 11,
+   "heading": "Artigo 28.º — Execução das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Execução das operações\n\n1 - O prazo máximo para os adjudicatários iniciarem a execução física dos planos de criação e de formação e a prestação do serviço de aconselhamento é de 6 meses contados a partir da data da submissão autenticada do termo de aceitação, devendo ser concluída no prazo estipulado na proposta aprovada.\n\n2 - Em caso excecionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior."
+  },
+  "114190039": {
+   "fragment_id": "114187669",
+   "type": 11,
+   "heading": "Artigo 29.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 50 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n3 - Podem ser apresentados, anualmente, até três pedidos de pagamento, não incluindo o pedido de pagamento a título de adiantamento.\n\n4 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do plano de formação ou do plano de criação ou desenvolvimento, sendo o pagamento efetuado após aprovação pela autoridade de gestão do relatório final de execução, sob pena de indeferimento, devendo, no caso da operação n.º 2.2.2, «Apoio à criação dos serviços de aconselhamento», corresponder ao montante estabelecido na alínea c) do n.º 3 do artigo 10.º\n\n5 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n6 - No ano do encerramento do PDR2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal do PDR2020, em www.pdr-2020.pt."
+  },
+  "114190040": {
+   "fragment_id": "114187670",
+   "type": 11,
+   "heading": "Artigo 30.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.\n\n2 - Podem ser solicitados aos adjudicatários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao adjudicatário e a validação da despesa constante do respetivo pedido de pagamento.\n\n4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores, adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013."
+  },
+  "114190041": {
+   "fragment_id": "114187671",
+   "type": 11,
+   "heading": "Artigo 31.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Pagamentos\n\n1 - Os pagamentos são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.\n\n2 - Os pagamentos dos apoios são efetuados por transferência bancária para a conta referida na alínea g) do artigo 9.º da presente portaria."
+  },
+  "114190042": {
+   "fragment_id": "114187672",
+   "type": 11,
+   "heading": "Artigo 32.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Controlo\n\nAs operações, incluindo a candidatura e os pedidos de pagamento, estão sujeita a ações de controlo administrativo e in loco a partir da data de submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável."
+  },
+  "114190043": {
+   "fragment_id": "114187673",
+   "type": 11,
+   "heading": "Artigo 33.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Reduções e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 9.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro é efetuada de acordo com o previsto no anexo V à presente portaria, da qual faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "114190044": {
+   "fragment_id": "114187674",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no décimo segundo dia seguinte ao da sua publicação, produzindo efeitos relativamente à operação n.º 2.2.3, «Apoio à formação de conselheiros», após publicação da decisão de aprovação pela Comissão Europeia no Jornal Oficial da União Europeia e sua divulgação no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR2020, www.pdr-2020.pt."
+  },
+  "114190046": {
+   "fragment_id": "114190276",
+   "type": 14,
+   "heading": "ANEXOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXOS"
+  },
+  "114190047": {
+   "fragment_id": "114190277",
+   "type": 14,
+   "heading": "Anexo I — Áreas temáticas incluídas nos serviços de aconselhamento agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Áreas temáticas incluídas nos serviços de aconselhamento agrícola\n\n[a que se refere a subalínea ii) da alínea a) do n.º 2 do artigo 7.º]\n\na) «Condicionalidade», que abrange os requisitos legais de gestão e as normas em matéria de boas condições agrícolas e ambientais, em conformidade o despacho normativo n.º 6/2015, de 9 de fevereiro, alterada pelo despacho normativo n.º 16/2015, de 25 de agosto, em aplicação do artigo 93.º e o anexo II do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro;\n\nb) «Segurança no trabalho», que abrange as normas definidas na legislação comunitária e nacional relevante aplicável;\n\nc) «Práticas agrícolas benéficas para o clima e o ambiente (Greening)», estabelecidas no capítulo IV da Portaria n.º 57/2015, de 27 de fevereiro, em aplicação do capítulo 3 do título III do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro;\n\nd) «Manutenção da superfície agrícola», conforme definida na Portaria n.º 57/2015, de 27 de fevereiro, em aplicação do previsto na alínea c) do n.º 1 do artigo 4.º, do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro;\n\ne) «Medidas de proteção à qualidade da água», que integram os requisitos previstos nos programas de medidas que constam dos planos de gestão de bacia hidrográfica regulados pela Lei n.º 58/2005, de 29 de dezembro (Lei da Água), que transpõe para o direito nacional a Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro (Diretiva Quadro da Água), definidas no anexo I da Portaria n.º 151/2016, de 25 de maio;\n\nf) «Utilização sustentável de produtos fitofarmacêuticos», que abrange as normas definidas nos artigos 16.º a 18.º e anexo II da Lei n.º 26/2013, de 11 de abril;\n\ng) «Medidas ao nível da exploração agrícola ou florestal», previstas no programa de desenvolvimento rural que deem resposta a necessidades identificadas pelo destinatário do aconselhamento em matérias de modernização das explorações agrícolas, tendo em vista a eficiência na utilização da energia ou na utilização da água ou outros fins relevantes para o setor agrícola, de melhoria da competitividade, de integração setorial, inovação, orientação para o mercado e promoção do empreendedorismo, definidas no anexo II da Portaria n.º 151/2016, de 25 de maio;\n\nh) «Primeira instalação de jovens agricultores», designadamente no que respeita às obrigações inerentes ao cumprimento do plano empresarial;\n\ni) «Requisitos mínimos das medidas agroambientais», estabelecidos no direito nacional a que se referem o n.º 3 do artigo 28.º e o n.º 2 do artigo 29.º do Regulamento (UE) n.º 1305/2013, designadamente o requisito legal de gestão constante do despacho normativo n.º 6/2015, de 20 de fevereiro, definidos no anexo III da Portaria n.º 151/2016, de 25 de maio."
+  },
+  "114190048": {
+   "fragment_id": "114190278",
+   "type": 14,
+   "heading": "Anexo II — Áreas temáticas incluídas nos serviços de aconselhamento florestal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Áreas temáticas incluídas nos serviços de aconselhamento florestal\n\n[a que se refere a subalínea iii) da alínea a) do n.º 2 do artigo 7.º]\n\na) «Segurança no trabalho», que abrange as normas definidas na legislação comunitária e nacional relevante aplicável;\n\nb) «Medidas de proteção à qualidade da água», que integram os requisitos previstos nos programas de medidas que constam dos planos de gestão de bacia hidrográfica regulados pela Lei n.º 58/2005, de 29 de dezembro (Lei da Água), que transpõe para o direito nacional a Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro (Diretiva Quadro da Água), definidas no anexo I da Portaria n.º 151/2016, de 25 de maio, e que incidam no controlo de espécies invasoras e de pragas, previstas como critérios de elegibilidade das operações relativas às operações 8.1.3 «Prevenção da floresta contra agentes bióticos e abióticos» e 8.1.4 «Restabelecimento da floresta afetada por agentes bióticos e abióticos ou por acontecimentos catastróficos» integradas na ação 8.1 «Silvicultura sustentável» do PDR2020;\n\nc) «Utilização sustentável de produtos fitofarmacêuticos», que abrange as normas definidas nos artigos 16.º a 18.º da Lei n.º 26/2013, de 11 de abril;\n\nd) «Medidas ao nível da exploração florestal» que visam dar resposta a necessidades identificadas pelo destinatário do aconselhamento no âmbito da implementação das ações ou operações do PDR2020, nas matérias previstas nas alíneas a) e b) do anexo II da Portaria n.º 151/2016, de 25 de maio;\n\ne) «Plano de gestão florestal», que integra matéria de aconselhamento para efeitos de implementação do plano de gestão florestal;\n\nf) «Defesa da floresta», que integra matérias de aconselhamento relativas a fitossanidade florestal e a defesa da floresta contra incêndios, previstas nos planos específicos de intervenção florestal enquadrados nos princípios orientadores do programa operacional de sanidade florestal, aprovado pela Resolução do Conselho de Ministros n.º 28/2014, de 7 de abril, e planos municipais de defesa da floresta contra incêndios;\n\ng) «Certificação florestal», que integra os requisitos necessários à manutenção da certificação florestal, incluindo certificações de grupo ou regionais; «Segurança no trabalho», que abrange as normas definidas na legislação comunitária e nacional relevante aplicável;\n\nh) «Conservação da natureza», que integra as obrigações previstas na Diretiva n.º 92/43/CEE, do Conselho, de 21 de maio (Diretiva Habitats), e na Diretiva n.º 2009/147/CE, do Parlamento Europeu e do Conselho, de 30 de novembro (Diretiva Aves), transpostas para o direito nacional pelo Decreto-Lei n.º 140/99, de 24 de abril, alterado pelo Decreto-Lei n.º 49/2005, de 24 de fevereiro, e pelo Decreto-Lei n.º 156-A/2013, de 8 de novembro, designadamente as que decorrem da aplicação das alíneas a) a g) do n.º 2 do artigo 9.º, quando a exploração esteja localizada em áreas designadas Zonas de Proteção Especial e Sítios de Importância Comunitária no âmbito dos referidos diplomas, bem como do n.º 1 do artigo 11.º, os n.os 1 e 2 do artigo 12.º e o artigo 20.º, para o território nacional, não incluindo obrigações previstas e aplicáveis às superfícies agrícolas no âmbito da condicionalidade;"
+  },
+  "114190049": {
+   "fragment_id": "114190279",
+   "type": 14,
+   "heading": "Anexo III — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Despesas elegíveis e não elegíveis\n\n(a que se refere o n.º 1 do artigo 8.º)\n\nI - Operação n.º 2.2.1 «Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal»\n\n(ver documento original)\n\nII - Operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento»\n\n(ver documento original)\n\nIII - Operação n.º 2.2.3, «Apoio à formação de conselheiros»\n\n(ver documento original)"
+  },
+  "114190050": {
+   "fragment_id": "114190280",
+   "type": 14,
+   "heading": "Anexo IV — Modelo de declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Modelo de declaração\n\n(a que se refere o n.º 1 do artigo 14.º)\n\n1 - ... [nome, número de documento de identificação e morada], na qualidade de representante legal de (1) ... [firma, número de identificação fiscal e sede ou, no caso de agrupamento concorrente, firmas, números de identificação fiscal e sedes], tendo tomado conhecimento das peças do procedimento de... [designação ou referência ao procedimento em causa], vem por este meio apresentar a respetiva candidatura\n\n2 - Para o efeito declara, sob compromisso de honra, que:\n\na) Reúne a capacidade técnica correspondente ao reconhecimento como entidade prestadora de serviços de aconselhamento no âmbito do SAAF, nos termos do disposto na Portaria n.º 151/2016, de 25 de maio, para as áreas temáticas em que se propõe intervir, reconhecimento esse que não está suspenso nem foi revogado;\n\nb) Não se encontra em estado de insolvência, de liquidação, de cessação de atividade, sujeita a qualquer meio preventivo de liquidação de patrimónios ou em qualquer situação análoga, nem tem o respetivo processo pendente;\n\nc) Não foi condenado(a) por sentença transitada em julgado por qualquer crime que afete a sua honorabilidade profissional (2) [ou os titulares dos seus órgãos sociais de administração, direção ou gerência não foram condenados por qualquer crime que afete a sua honorabilidade profissional (3)] (4);\n\nd) Não foi objeto de aplicação de sanção administrativa por falta grave em matéria profissional (5) [ou os titulares dos seus órgãos sociais de administração, direção ou gerência não foram objeto de aplicação de sanção administrativa por falta grave em matéria profissional (6)] (7);\n\ne) Tem a sua situação regularizada relativamente a contribuições para a segurança social em Portugal [ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal] (8);\n\nf) Tem a sua situação regularizada relativamente a impostos devidos em Portugal [ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal] (9);\n\ng) Tenham sido objeto de aplicação da sanção acessória prevista na alínea e) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de outubro, na alínea b) do n.º 1 do artigo 71.º da Lei n.º 19/2012, de 8 de maio, e no n.º 1 do artigo 460.º do Código dos Contratos Públicos, durante o período de inabilidade fixado na decisão condenatória (10);\n\nh) Não foi objeto de aplicação da sanção acessória prevista na alínea b) do n.º 1 do artigo 627.º do Código do Trabalho (11);\n\ni) Não foi objeto de aplicação, há menos de dois anos, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal [ou no Estado de que é nacional ou no qual se situe o seu estabelecimento principal] (12);\n\nj) Não foi condenado(a) por sentença transitada em julgado por algum dos seguintes crimes (13) [ou os titulares dos seus órgãos sociais de administração, direção ou gerência não foram condenados por alguns dos seguintes crimes (14)] (15):\n\ni) Participação em atividades de uma organização criminosa, tal como definida no n.º 1 do artigo 2.º da Ação Comum 98/773/JAI do Conselho;\n\nii) Corrupção, na aceção do artigo 3.º do Ato do Conselho de 26 de maio de 1997 e do n.º 1 do artigo 3.º da Ação Comum 98/742/JAI do Conselho;\n\niii) Fraude, na aceção do artigo 1.º da Convenção relativa à Proteção dos Interesses Financeiros das Comunidades Europeias;\n\niv) Branqueamento de capitais, na aceção do artigo 1.º da Diretiva n.º 91/308/CEE, do Conselho, de 10 de junho de 1991, relativa à prevenção da utilização do sistema financeiro para efeitos de branqueamento de capitais.\n\nk) Não prestou, a qualquer título, direta ou indiretamente, assessoria ou apoio técnico na preparação e elaboração das peças do procedimento que lhe confira vantagem que falseie as condições normais de concorrência;\n\nl) Não é considerada empresa em dificuldade na aceção do ponto 14 do artigo 2.º do Regulamento (UE) n.º 702/2014 da Comissão, de 25 de junho de 2014, que declara certas categorias de auxílios no setor agrícola e florestal e nas zonas rurais compatíveis com o mercado comum, em aplicação dos artigos 107.º e 108.º do Tratado;\n\nm) Não impende sobre si um processo de recuperação de auxílios de estado, declarados incompatíveis com o mercado interno, pela Comissão Europeia;\n\nn) Garante o cumprimento do dever de confidencialidade no que se refere às informações e dados pessoais obtidos no âmbito das ações de aconselhamento, nos termos do disposto no n.º 2 artigo 13.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\n3 - O declarante tem pleno conhecimento de que a prestação de falsas declarações implica a exclusão da candidatura apresentada e constitui contraordenação muito grave, nos termos do artigo 456.º do Código dos Contratos Públicos, a qual pode determinar a aplicação da sanção acessória de privação do direito de participar, como candidato, como concorrente ou como membro de agrupamento candidato ou concorrente, em qualquer procedimento adotado para a formação de contratos públicos, sem prejuízo da participação à entidade competente para efeitos de procedimento criminal.\n\n[Local], [data] [Assinatura (16)]\n\n(1) Aplicável apenas a candidatos que sejam pessoas coletivas.\n\n(2) Indicar se, entretanto, ocorreu a respetiva reabilitação.\n\n(3) Indicar se, entretanto, ocorreu a respetiva reabilitação.\n\n(4) Declarar consoante o candidato seja pessoa singular ou pessoa coletiva.\n\n(5) Indicar se, entretanto, ocorreu a respetiva reabilitação.\n\n(6) Indicar se, entretanto, ocorreu a respetiva reabilitação.\n\n(7) Declarar consoante o candidato seja pessoa singular ou pessoa coletiva.\n\n(8) Declarar consoante a situação.\n\n(9) Declarar consoante a situação.\n\n(10) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(11) Indicar se, entretanto, decorreu o período de inabilidade fixado na decisão condenatória.\n\n(12) Declarar consoante a situação.\n\n(13) Indicar se, entretanto, ocorreu a sua reabilitação.\n\n(14) Indicar se, entretanto, ocorreu a sua reabilitação.\n\n(15) Declarar consoante o candidato seja pessoa singular ou pessoa coletiva.\n\n(16) Nos termos do disposto nos n.os 2 e 3 do artigo 168.º"
+  },
+  "114190051": {
+   "fragment_id": "114190281",
+   "type": 14,
+   "heading": "Anexo V — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Reduções e exclusões\n\n(a que se refere o n.º 2 do artigo 33.º)\n\n1 - O incumprimento das obrigações dos beneficiários, previstas nos artigos 9.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:\n\n(ver documento original)\n\n2 - O disposto no número anterior não prejudica, designadamente, a aplicação:\n\na) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nb) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nd) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014;\n\ne) De outras cominações, designadamente de natureza penal, que ao caso couberem.\n\n3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt."
+  },
+  "114190057": {
+   "fragment_id": "114187649",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma, nível e limites do apoio",
+   "in_force_from": "2017-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2017 - Diário da República n.º 217/2017, Série I de 2017-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/343-2017-114177788), em vigor a partir de 2017-11-11, produz efeitos a partir de 2017-10-17"
+   ],
+   "markdown": "###### Artigo 10.º — Forma, nível e limites do apoio\n\n1 - O apoio previsto na presente portaria é concedido sob a forma de subvenção não reembolsável.\n\n2 - O nível de apoio para a operação n.º 2.2.1, 'Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal' é de 100 % das despesas elegíveis, até ao montante máximo de apoio de (euro) 1.500 euros por serviço de aconselhamento individual.\n\n3 - O nível de apoio para a operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento» é de 60 % das despesas elegíveis e conforme os seguintes limites mínimos de investimento:\n\na) 1.º ano - 40 % do valor total do investimento;\n\nb) 2.º ano - valor de investimento inferior ao executado no 1.º ano;\n\nc) 3.º ano - valor de investimento inferior ao executado no 2.º ano.\n\n4 - O valor do apoio aprovado para cada ano nos termos do número anterior não transita para o ano seguinte em caso de não execução.\n\n5 - O apoio à operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento», está sujeito aos seguintes montantes máximos:\n\na) Caso o beneficiário seja uma entidade reconhecida ao abrigo da alínea a) do n.º 1 do artigo 8.º da Portaria n.º 151/2016, de 25 de maio, (euro) 200.000 euros, por triénio;\n\nb) Em caso de candidatura em parceria, para cada entidade parceira que não se inclua no disposto na alínea anterior, (euro) 40.000 euros, por triénio.\n\n6 - O nível de apoio para a operação n.º 2.2.3, «Apoio à formação de conselheiros» é de 75 % da despesa total elegível, até ao montante máximo de (euro) 150.000 euros, por beneficiário, por um período não superior a três anos.\n\n7 - No caso da operação n.º 2.2.2 «Apoio à criação de serviços de aconselhamento», o apoio a conceder é cumulável com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, desde que o respetivo montante acumulado, durante o período de três exercícios financeiros consecutivos, não exceda (euro) 200.000 por beneficiário.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2017 - Diário da República n.º 217/2017, Série I de 2017-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/343-2017-114177788), em vigor a partir de 2017-11-11, produz efeitos a partir de 2017-10-17"
+  },
+  "114190045": {
+   "fragment_id": "114190275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 16 de dezembro de 2016."
+  },
+  "114957906": {
+   "fragment_id": "114187644",
+   "type": 11,
+   "heading": "Artigo 5.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos na presente portaria as entidades prestadoras de serviços de aconselhamento reconhecidas no âmbito do SAAF.\n\n2 - São excluídas dos apoios previstos na presente portaria as entidades:\n\na) Que sejam consideradas empresas em dificuldade na aceção do ponto 14 do artigo 2.º do Regulamento (UE) n.º 702/2014, da Comissão, de 25 de junho de 2014, que declara certas categorias de auxílios no setor agrícola e florestal e nas zonas rurais compatíveis com o mercado comum, em aplicação dos artigos 107.º e 108.º do Tratado;\n\nb) Sobre as quais impenda um processo de recuperação de auxílios de estado, declarados incompatíveis com o mercado interno, pela Comissão Europeia."
+  },
+  "114957907": {
+   "fragment_id": "114187645",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade dos beneficiários\n\n1 - Os candidatos aos apoios previstos na presente portaria, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:\n\na) Terem a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, sem prejuízo do disposto no n.º 2;\n\nb) Terem a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER e do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.);\n\nc) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA;\n\nd) Deterem um sistema de contabilidade organizada ou simplificada, que contemple um centro de custos específico para a operação, nos termos da legislação em vigor.\n\n2 - A condição prevista na alínea a) do n.º 1 pode ser aferida até à data de apresentação do primeiro pedido de pagamento."
+  },
+  "114957908": {
+   "fragment_id": "114187646",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos na presente portaria as operações que se enquadrem nos objetivos do artigo 2.º e que reúnam as seguintes condições:\n\na) Apresentem coerência técnica e financeira;\n\nb) Demonstrem estarem asseguradas as fontes de financiamento;\n\nc) Tenham início após a data de apresentação da candidatura.\n\n2 - Para além do disposto no número anterior, as operações devem reunir as seguintes condições:\n\na) Quando respeite à operação n.º 2.2.1, «Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal»:\n\ni) Identifiquem as metodologias a serem utilizadas na prestação do serviço de aconselhamento, o qual deverá incluir, pelo menos, uma visita à exploração;\n\nii) Em caso de aconselhamento agrícola, incidam sobre as áreas temáticas previstas no anexo I da presente portaria, da qual faz parte integrante, devendo o primeiro serviço incluir, no mínimo, as áreas temáticas previstas nas alíneas a), b), c) e d) do referido anexo;\n\niii) Em caso do aconselhamento florestal, incidam sobre as áreas temáticas previstas no anexo II da presente portaria, da qual faz parte integrante, devendo o primeiro serviço incluir, no mínimo, as áreas temáticas previstas nas alíneas a), b), f) e h) do referido anexo;\n\niv) Incluam, em caso de segundo serviço de aconselhamento, as áreas temáticas não abrangidas no primeiro serviço, exceto em casos devidamente justificados;\n\nv) O número de serviços prestados ao mesmo destinatário esteja limitado a dois serviços de aconselhamento por um período máximo de cinco anos, contado a partir da data de celebração do contrato de serviço de aconselhamento, sendo que, um serviço de aconselhamento que incida, simultaneamente, sobre áreas temáticas agrícolas e áreas temáticas florestais, é considerado, para efeitos de apoio, como dois serviços de aconselhamento distintos.\n\nb) Quando respeite à operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento», apresentem um plano de criação e desenvolvimento, com uma duração máxima de 36 meses, cujo investimento represente, no primeiro ano, pelo menos, 40 % do seu valor total, e identificando, designadamente, os seguintes elementos:\n\ni) A estrutura a criar ou desenvolver;\n\nii) Áreas temáticas a criar e desenvolver;\n\niii) Tipos de destinatários dos serviços de aconselhamento propostos;\n\niv) Objetivos e metas a alcançar;\n\nv) Descrição, calendarização e âmbito territorial das atividades a empreender, incluindo ações de divulgação dos serviços de aconselhamento disponíveis;\n\nvi) Identificação dos recursos humanos e materiais envolvidos.\n\nc) Quando respeite à operação n.º 2.2.3, «Apoio à formação de conselheiros», apresentem um plano de formação com uma duração máxima de 36 meses, que desenvolva, designadamente, os seguintes elementos relativos às ações de formação previstas:\n\ni) Objetivos e metas a alcançar;\n\nii) Domínio temático e duração;\n\niii) Identificação dos perfis dos destinatários;\n\niv) Identificação dos recursos humanos e materiais envolvidos."
+  },
+  "114957909": {
+   "fragment_id": "114187647",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis e não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis e não elegíveis\n\n1 - As despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo III à presente portaria, da qual faz parte integrante.\n\n2 - Não são considerados como despesa elegível os bens e equipamentos que à data de entrada em vigor da presente portaria já tenham sido objeto de apoio."
+  },
+  "114957910": {
+   "fragment_id": "114958922",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Critérios de seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 8.º-A — Critérios de seleção das candidaturas\n\n1 - Para efeitos de seleção de candidaturas aos apoios previstos na presente portaria, são considerados, designadamente, os seguintes critérios:\n\na) Proposta apresentada por uma parceria;\n\nb) Número de áreas temáticas disponibilizadas no serviço de aconselhamento;\n\nc) Abrangência territorial das operações, expressa por NUT III nos termos do Regulamento (UE) n.º 868/2014, da Comissão, de 8 de agosto de 2014;\n\nd) Adequação das áreas temáticas a desenvolver face aos objetivos e metas a alcançar;\n\ne) Preço;\n\nf) Características técnicas, metodologia utilizada e grau de utilização das tecnologias de informação dos serviços propostos;\n\ng) Adequação das metodologias de prestação do serviço aos destinatários propostos;\n\nh) Adequação dos recursos humanos e materiais;\n\ni) Experiência e qualificação técnica dos formadores;\n\nj) Relevância das atividades propostas no plano de formação, face aos domínios temáticos previstos.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate são definidos pela autoridade de gestão e divulgados no portal do PDR 2020 em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957904": {
+   "fragment_id": "114187648",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\nOs beneficiários dos apoios previstos na presente portaria, além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a atividade a desenvolver;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das atividades, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada, que contemple um centro de custos específico para a operação, nos termos da legislação em vigor;\n\ng) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única do beneficiário, ainda que não exclusiva, exceto em situações devidamente justificadas;\n\nh) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\ni) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR, consoante a fase em que o encerramento da operação tenha sido concluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de Auxílios de Estado, se estas fixarem prazo superior;\n\nj) Manter o reconhecimento como entidade prestadora de serviços de aconselhamento no âmbito do SAAF, para as áreas temáticas em que se propõe intervir, até ao termo da operação;\n\nk) Não locar ou alienar os equipamentos cofinanciados, durante o período de cinco anos a contar da data da aceitação da concessão do apoio, ou até ao termo da perenidade da operação, definida no termo de aceitação, sem prévia autorização da autoridade de gestão;\n\nl) Concluir a prestação de cada serviço de aconselhamento agrícola ou florestal no prazo de um ano após a celebração do respetivo contrato de aconselhamento."
+  },
+  "114957905": {
+   "fragment_id": "114187649",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma, nível e limites do apoio",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2017 - Diário da República n.º 217/2017, Série I de 2017-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/343-2017-114177788), em vigor a partir de 2017-11-11, produz efeitos a partir de 2017-10-17"
+   ],
+   "markdown": "###### Artigo 10.º — Forma, nível e limites do apoio\n\n1 - O apoio previsto na presente portaria é concedido sob a forma de subvenção não reembolsável.\n\n2 - O nível de apoio para a operação n.º 2.2.1, 'Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal' é de 100 % das despesas elegíveis, até ao montante máximo de apoio de (euro) 1.500 euros por serviço de aconselhamento individual.\n\n3 - O nível de apoio para a operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento» é de 60 % das despesas elegíveis e conforme os seguintes limites mínimos de investimento:\n\na) 1.º ano - 40 % do valor total do investimento;\n\nb) 2.º ano - valor de investimento inferior ao executado no 1.º ano;\n\nc) 3.º ano - valor de investimento inferior ao executado no 2.º ano.\n\n4 - O valor do apoio aprovado para cada ano nos termos do número anterior não transita para o ano seguinte em caso de não execução.\n\n5 - O apoio à operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento», está sujeito aos seguintes montantes máximos:\n\na) Caso o beneficiário seja uma entidade reconhecida ao abrigo da alínea a) do n.º 1 do artigo 8.º da Portaria n.º 151/2016, de 25 de maio, (euro) 200.000 euros, por triénio;\n\nb) Em caso de candidatura em parceria, para cada entidade parceira que não se inclua no disposto na alínea anterior, (euro) 40.000 euros, por triénio.\n\n6 - O nível de apoio para a operação n.º 2.2.3, «Apoio à formação de conselheiros» é de 75 % da despesa total elegível, até ao montante máximo de (euro) 150.000 euros, por beneficiário, por um período não superior a três anos.\n\n7 - No caso da operação n.º 2.2.2 «Apoio à criação de serviços de aconselhamento», o apoio a conceder é cumulável com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, desde que o respetivo montante acumulado, durante o período de três exercícios financeiros consecutivos, não exceda (euro) 200.000 por beneficiário.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2017 - Diário da República n.º 217/2017, Série I de 2017-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/343-2017-114177788), em vigor a partir de 2017-11-11, produz efeitos a partir de 2017-10-17"
+  },
+  "114957918": {
+   "fragment_id": "114187651",
+   "type": 11,
+   "heading": "Artigo 11.º — Aplicação do Código dos Contratos Públicos",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 11.º — Aplicação do Código dos Contratos Públicos\n\nA seleção de candidaturas e o procedimento aplicável à atribuição dos apoios previstos na presente portaria regem-se, com as necessárias adaptações, pelo Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, em tudo o que não esteja especialmente previsto no presente capítulo.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957911": {
+   "fragment_id": "114187652",
+   "type": 11,
+   "heading": "Artigo 12.º — Anúncios",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 12.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A tipologia das operações a apoiar;\n\nc) A dotação orçamental a atribuir;\n\nd) O número máximo de candidaturas admitidas por beneficiário;\n\ne) Os critérios de seleção e respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;\n\nf) A forma, o nível e os limites dos apoios a conceder, respeitando o disposto no artigo 10.º\n\n2 - Os anúncios são divulgados pela autoridade de gestão, no portal do Portugal 2020, em www.portugal2020.pt e no portal do PDR 2020, em www.pdr-2020.pt e publicitados em dois órgãos de comunicação social.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957919": {
+   "fragment_id": "114187653",
+   "type": 11,
+   "heading": "Artigo 13.º — Qualificação",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 13.º — Qualificação\n\nA qualificação é efetuada em função da capacidade técnica que corresponde ao reconhecimento como entidade prestadora de serviços de aconselhamento no âmbito do SAAF, nos termos do disposto na Portaria n.º 151/2016, de 25 de maio, para as áreas temáticas em que os candidatos se propõem intervir, e do cumprimento dos critérios de elegibilidade previstos no artigo 6.º da presente portaria.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957920": {
+   "fragment_id": "114187654",
+   "type": 11,
+   "heading": "Artigo 14.º — Candidatura",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 14.º — Candidatura\n\n1 - A candidatura é constituída pelos documentos destinados à qualificação dos candidatos, bem como pela declaração do candidato elaborada em conformidade com o modelo constante do anexo IV à presente Portaria, da qual faz parte integrante.\n\n2 - Quando a candidatura seja apresentada por uma parceria, a declaração referida no número anterior deve ser assinada por todas as entidades parceiras com intervenção nas operações a propor.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957912": {
+   "fragment_id": "114187655",
+   "type": 11,
+   "heading": "Artigo 15.º — Apresentação das candidaturas",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 15.º — Apresentação das candidaturas\n\n1 - São estabelecidos períodos para apresentação de candidaturas de acordo com o plano de abertura de candidaturas previsto na alínea m) do n.º 1 do artigo 31.º do Decreto-Lei n.º 137/2014, de 12 de setembro, cuja publicitação se efetua no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt e em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou no portal do PDR 2020, em www.pdr-2020.pt, e estão sujeitas a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957921": {
+   "fragment_id": "114187656",
+   "type": 11,
+   "heading": "Artigo 16.º — Lista dos candidatos e consulta das candidaturas apresentadas",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 16.º — Lista dos candidatos e consulta das candidaturas apresentadas\n\n1 - A autoridade de gestão, no dia imediato ao termo do prazo fixado para a apresentação das candidaturas, procede à publicitação da lista dos candidatos no portal do PDR2020, em www.pdr-2020.pt, facultando a estes a consulta de todas as candidaturas apresentadas.\n\n2 - O interessado que não tenha sido incluído na lista dos candidatos pode reclamar desse facto no prazo de três dias contados da publicitação da lista, devendo para o efeito apresentar comprovativo da tempestiva apresentação da sua candidatura.\n\n3 - Caso a reclamação prevista no número anterior seja deferida mas não se encontre a candidatura do reclamante, a autoridade de gestão fixa-lhe um novo prazo para a apresentar, sendo aplicável, com as necessárias adaptações, o disposto no n.º 1.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957922": {
+   "fragment_id": "114187657",
+   "type": 11,
+   "heading": "Artigo 17.º — Análise das candidaturas e qualificação dos candidatos",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 17.º — Análise das candidaturas e qualificação dos candidatos\n\n1 - A autoridade de gestão analisa as candidaturas para efeitos da qualificação dos respetivos candidatos.\n\n2 - São qualificados todos os candidatos que preencham os requisitos mínimos de capacidade técnica e cumpram os critérios de elegibilidade previstos no artigo 6.º da presente portaria.\n\n3 - São excluídas as candidaturas:\n\na) Que tenham sido apresentadas depois do termo fixado para a sua apresentação;\n\nb) Que sejam apresentadas por candidatos em violação do disposto no n.º 2 do artigo 54.º do CCP;\n\nc) Que sejam apresentadas por candidatos relativamente aos quais ou, no caso de parcerias candidatas, relativamente a qualquer das entidades parceiras, a autoridade de gestão tenha conhecimento que se verifica alguma das situações previstas no artigo 55.º do CCP;\n\nd) Que não apresentem a declaração a que se refere o n.º 1 do artigo 14.º da presente portaria;\n\ne) Que não cumpram o disposto nos n.os 2 e 3 do artigo 168.º do CCP;\n\nf) Que sejam constituídas por documentos destinados à qualificação redigidos em língua estrangeira e não acompanhados de tradução devidamente legalizada, com exceção dos casos previstos no n.º 3 do artigo 169.º do CCP;\n\ng) Que sejam constituídas por documentos falsos ou nas quais os candidatos prestem culposamente falsas declarações;\n\nh) Cuja análise revele que os respetivos candidatos não preenchem os requisitos mínimos de capacidade técnica ou não cumprem os critérios de elegibilidade previstos no artigo 6.º da presente portaria.\n\n4 - Após a análise das candidaturas e a aplicação às mesmas do critério de qualificação, a autoridade de gestão elabora o relatório preliminar e notifica todos os candidatos para que se pronunciem, por escrito, ao abrigo do direito de audiência prévia, da proposta de qualificação dos candidatos ou da proposta de exclusão das candidaturas.\n\n5 - Cumprido o disposto no número anterior, a autoridade de gestão elabora um relatório final fundamentado, no qual pondera as observações apresentadas pelo candidatos, mantendo ou modificando o teor e as conclusões anteriormente notificadas, podendo ainda determinar a exclusão de qualquer candidatura se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos no n.º 3.\n\n6 - Caso se verifique o disposto na parte final do número anterior, a autoridade de gestão procede a nova audiência prévia, sendo subsequentemente aplicável o disposto no número anterior.\n\n7 - A decisão de qualificação é notificada aos candidatos no prazo máximo de 30 dias após o termo do prazo fixado para a apresentação das candidaturas, sem prejuízo da possibilidade de fixação no anúncio de um prazo superior.\n\n8 - Os candidatos qualificados passam à fase seguinte em condições de igualdade.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957923": {
+   "fragment_id": "114187658",
+   "type": 11,
+   "heading": "Artigo 18.º — Convite à apresentação de propostas",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 18.º — Convite à apresentação de propostas\n\n1 - Com a notificação da decisão de qualificação prevista no n.º 7 do artigo anterior, a autoridade de gestão envia aos candidatos qualificados, em simultâneo, um convite à apresentação de propostas, através do balcão do beneficiário do PDR2020.\n\n2 - O convite à apresentação de propostas deve indicar:\n\na) A identificação do concurso;\n\nb) Os documentos referidos na alínea c) do n.º 1 do artigo 57.º do CCP;\n\nc) Os documentos que constituem a proposta, que podem ser redigidos em língua estrangeira, nos termos do disposto no n.º 2 do artigo 58.º do CCP;\n\nd) O prazo para a apresentação das propostas;\n\ne) O prazo da obrigação de manutenção das propostas, quando superior ao previsto no artigo 65.º do CCP.\n\n3 - O convite pode ainda conter regras específicas sobre a fase de apresentação e análise das propostas e adjudicação, considerando, designadamente, que podem ser adjudicadas propostas por lotes, desde que não tenham por efeito impedir, restringir ou falsear a concorrência.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957924": {
+   "fragment_id": "114187659",
+   "type": 11,
+   "heading": "Artigo 19.º — Documentos da proposta",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 19.º — Documentos da proposta\n\n1 - A proposta é constituída pelos seguintes documentos:\n\na) Declaração do concorrente aceitando o conteúdo do caderno de encargos, elaborada em conformidade com o modelo constante do anexo IV da presente portaria, da qual faz parte integrante;\n\nb) Documentos que, em função das prestações decorrentes do regime de aplicação dos apoios a atribuir e dos aspetos da sua execução submetidos à concorrência pelo caderno de encargos, contenham os atributos da proposta, de acordo com os quais o concorrente se dispõe a contratar;\n\nc) Quaisquer outros documentos que o concorrente considere indispensáveis para os efeitos do disposto na parte final da alínea anterior.\n\n2 - Quando a proposta seja apresentada por uma parceria, a declaração referida na alínea a) do n.º 1 deve ser assinada por todas as entidades parceiras com intervenção nas operações propostas.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957925": {
+   "fragment_id": "114187660",
+   "type": 11,
+   "heading": "Artigo 20.º — Apresentação das propostas",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 20.º — Apresentação das propostas\n\nO disposto no artigo 15.º da presente portaria é aplicável à apresentação das propostas.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957913": {
+   "fragment_id": "114187661",
+   "type": 11,
+   "heading": "Artigo 21.º — Análise e decisão das candidaturas",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 21.º — Análise e decisão das candidaturas\n\n1 - A autoridade de gestão analisa e emite parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade da operação, e do beneficiário, bem como a aplicação dos critérios referidos no artigo 8.º-A, o apuramento do montante do custo total elegível e o nível de apoio previsional.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação da candidatura.\n\n3 - O parecer referido no n.º 1 é emitido num prazo máximo de 45 dias úteis contados a partir da data limite para apresentação das candidaturas.\n\n4 - O secretariado técnico aplica os critérios de seleção, em função do princípio da coesão territorial e da dotação orçamental referida no respetivo anúncio e submete à decisão do gestor a aprovação das candidaturas.\n\n5 - Antes de ser adotada a decisão final os candidatos são ouvidos, nos termos do Código do Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n6 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957926": {
+   "fragment_id": "114187662",
+   "type": 11,
+   "heading": "Artigo 22.º — Esclarecimentos sobre as propostas",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 22.º — Esclarecimentos sobre as propostas\n\n1 - A autoridade de gestão pode pedir aos concorrentes quaisquer esclarecimentos sobre as propostas apresentadas que considere necessários para a análise e avaliação das mesmas.\n\n2 - Os esclarecimentos sobre as propostas fazem parte integrante das mesmas, desde que não contrariem os elementos constantes dos documentos que as constituem, não alterem ou completem os respetivos atributos, nem visem suprir omissões que determinam a sua exclusão, nos termos do disposto na alínea a) do n.º 2 do artigo 70.º do CCP.\n\n3 - Os esclarecimentos referidos no número anterior devem ser disponibilizados no portal do PDR2020, em www.pdr-2020.pt, devendo todos os concorrentes ser imediatamente notificados desse facto.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957927": {
+   "fragment_id": "114187663",
+   "type": 11,
+   "heading": "Artigo 23.º — Critério de adjudicação",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 23.º — Critério de adjudicação\n\n1 - A adjudicação de cada lote é realizada segundo o critério da proposta economicamente mais vantajosa, densificado nos fatores e subfactores e que abrangem apenas os aspetos da execução do regime de aplicação dos apoios, submetidos à concorrência pelo caderno de encargos, não dizendo respeito, direta ou indiretamente, a situações, qualidades, características ou outros elementos de facto, relativos aos concorrentes.\n\n2 - Constituem, designadamente, fatores densificadores do critério de adjudicação da proposta economicamente mais vantajosa:\n\na) Proposta apresentada por uma parceria;\n\nb) Número de áreas temáticas disponibilizadas no serviço de aconselhamento;\n\nc) Abrangência territorial das operações, expressa por NUT III nos termos do Regulamento (UE) n.º 868/2014, da Comissão, de 8 de agosto de 2014;\n\nd) Adequação das áreas temáticas a desenvolver face aos objetivos e metas a alcançar;\n\ne) Preço;\n\nf) As características técnicas, a metodologia utilizada e grau de utilização das tecnologias de informação dos serviços propostos;\n\ng) Adequação das metodologias de prestação do serviço aos destinatários propostos;\n\nh) Adequação dos recursos humanos e materiais;\n\ni) Experiência e qualificação técnica dos formadores;\n\nj) Relevância das atividades propostas no plano de formação, face aos domínios temáticos previstos.\n\n3 - Os fatores e os subfactores são valorados de acordo com os coeficientes de ponderação divulgados no programa do concurso.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957928": {
+   "fragment_id": "114187664",
+   "type": 11,
+   "heading": "Artigo 24.º — Relatório Preliminar",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 24.º — Relatório Preliminar\n\n1 - Após análise das propostas e da aplicação do critério de adjudicação constante do programa do concurso, o júri elabora um relatório preliminar fundamentado, no qual propõe a ordenação das mesmas tendo em conta a pontuação obtida.\n\n2 - No relatório preliminar a que se refere o número anterior, o júri também propõe, fundamentadamente, a exclusão das propostas com os fundamentos previstos no artigo 146.º do CCP.\n\n3 - Quando o mesmo concorrente apresente mais de uma proposta, em violação do disposto no n.º 7 do artigo 59.º do CCP, ou um número de propostas variante superior ao número máximo admitido pelo programa do concurso, o júri deve também propor a exclusão de todas as propostas por ele apresentadas, de acordo com o disposto na alínea j) do n.º 1 do artigo 132.º do CCP.\n\n4 - Do relatório preliminar deve ainda constar referência aos esclarecimentos prestados pelos concorrentes, nos termos do disposto no artigo 72.º do CCP.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957929": {
+   "fragment_id": "114187665",
+   "type": 11,
+   "heading": "Artigo 25.º — Audiência Prévia",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 25.º — Audiência Prévia\n\nElaborado o relatório preliminar, o júri procede à audiência prévia nos termos do disposto no n.º 1 do artigo 123.º do CCP.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957930": {
+   "fragment_id": "114187666",
+   "type": 11,
+   "heading": "Artigo 26.º — Relatório Final",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 26.º — Relatório Final\n\n1 - Cumprido o disposto no artigo anterior, o júri elabora um relatório final fundamentado, no qual pondera as observações dos concorrentes efetuadas ao abrigo do direito de audiência prévia, mantendo ou modificando o teor e as conclusões do relatório preliminar, podendo ainda propor a exclusão de qualquer proposta se verificar, nesta fase, a ocorrência de qualquer dos motivos previstos no n.º 2 do artigo 24.º da presente portaria.\n\n2 - No caso previsto na parte final do número anterior, bem como quando do relatório final resulte uma alteração da ordenação das propostas constantes do relatório preliminar, o júri procede a nova audiência prévia, nos termos previstos no artigo anterior, sendo subsequentemente aplicável o disposto no número anterior.\n\n3 - O relatório final, juntamente com os demais documentos que compõem o processo do concurso é enviado ao órgão competente para a decisão de contratar para efeitos de adjudicação.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957914": {
+   "fragment_id": "114187667",
+   "type": 11,
+   "heading": "Artigo 27.º — Termo de aceitação",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 27.º — Termo de aceitação\n\n1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no seu portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957917": {
+   "fragment_id": "114187668",
+   "type": 11,
+   "heading": "Artigo 28.º — Execução das operações",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 28.º — Execução das operações\n\n1 - O prazo máximo para os beneficiários iniciarem a execução física dos planos de criação e de formação e a prestação do serviço de aconselhamento é de 6 meses contados a partir da data da submissão autenticada do termo de aceitação.\n\n2 - Em caso excecionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957915": {
+   "fragment_id": "114187670",
+   "type": 11,
+   "heading": "Artigo 30.º — Análise e decisão dos pedidos de pagamento",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 30.º — Análise e decisão dos pedidos de pagamento\n\n1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.\n\n2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta, fundamento para a não aprovação do pedido.\n\n3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.\n\n4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores, adota os procedimentos necessários ao respetivo pagamento.\n\n5 - Os critérios de realização das visitas ao local da operação durante o seu período de execução são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "114957916": {
+   "fragment_id": "114187673",
+   "type": 11,
+   "heading": "Artigo 33.º — Reduções, suspensões e exclusões",
+   "in_force_from": "2018-04-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 33.º — Reduções, suspensões e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções, suspensões e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções, suspensões e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 9.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, é efetuada de acordo com o previsto no anexo v à presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n5 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n6 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "117125438": {
+   "fragment_id": "114187648",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos na presente portaria, além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a atividade a desenvolver;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das atividades, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada, que contemple um centro de custos específico para a operação, nos termos da legislação em vigor;\n\ng) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única do beneficiário, ainda que não exclusiva, exceto em situações devidamente justificadas;\n\nh) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\ni) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR, consoante a fase em que o encerramento da operação tenha sido concluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de Auxílios de Estado, se estas fixarem prazo superior;\n\nj) Manter o reconhecimento como entidade prestadora de serviços de aconselhamento no âmbito do SAAF, para as áreas temáticas em que se propõe intervir, até ao termo da operação;\n\nk) Não locar ou alienar os equipamentos cofinanciados, durante o período de cinco anos a contar da data da aceitação da concessão do apoio, ou até ao termo da perenidade da operação, definida no termo de aceitação, sem prévia autorização da autoridade de gestão;\n\nl) Concluir a prestação de cada serviço de aconselhamento agrícola ou florestal no prazo de um ano após a celebração do respetivo contrato de aconselhamento.\n\nm) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea m) do número anterior.\n\n> Alterado pelo/a Artigo 21.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117125439": {
+   "fragment_id": "114187669",
+   "type": 11,
+   "heading": "Artigo 29.º — Apresentação dos pedidos de pagamento",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 29.º — Apresentação dos pedidos de pagamento\n\n1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n2 - Pode ser apresentado um pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 50 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.\n\n3 - Podem ser apresentados, anualmente, até quatro pedidos de pagamento, não incluindo o pedido de pagamento a título de adiantamento.\n\n4 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão do plano de formação ou do plano de criação ou desenvolvimento, sendo o pagamento efetuado após aprovação pela autoridade de gestão do relatório final de execução, sob pena de indeferimento, devendo, no caso da operação n.º 2.2.2, «Apoio à criação dos serviços de aconselhamento», corresponder ao montante estabelecido na alínea c) do n.º 3 do artigo 10.º\n\n5 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.\n\n6 - No ano do encerramento do PDR2020, o último pedido de pagamento deve ser submetido até seis meses antes da respetiva data de encerramento, a qual é divulgada no portal do IFAP, I. P., em www.ifap.pt, e no portal do PDR2020, em www.pdr-2020.pt.\n\n> Alterado pelo/a Artigo 21.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "117125440": {
+   "fragment_id": "114187673",
+   "type": 11,
+   "heading": "Artigo 33.º — Reduções, suspensões e exclusões",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 33.º — Reduções, suspensões e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções, suspensões e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções, suspensões e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 9.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, é efetuada de acordo com o previsto no anexo v à presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n5 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n6 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável.\n\n7 - A não comprovação do início da execução física da operação no prazo previsto na alínea o) do n.º 1 do artigo 16.º ou no n.º 2 do artigo 16.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.\n\n> Alterado pelo/a Artigo 21.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "122080106": {
+   "fragment_id": "114187641",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2019-04-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes no artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Atividade agrícola», a produção, a criação ou o cultivo de produtos agrícolas, incluindo a colheita, a ordenha, a criação de animais e a detenção de animais para fins de produção ou a manutenção de uma superfície agrícola num estado que a torne adequada para pastoreio ou cultivo sem ação preparatória especial para além dos métodos e máquinas agrícolas habituais;\n\nb) «Conselheiros», os recursos humanos afetos aos serviços de aconselhamento;\n\nc) «Detentor de espaços florestais», o proprietário, usufrutuário, superficiário, arrendatário ou quem, a qualquer título, for possuidor ou detenha a administração dos terrenos que integram os espaços florestais, incluindo as entidades gestoras de zonas de intervenção florestal;\n\nd) «Exploração agrícola», o conjunto de unidades produtivas utilizadas para o exercício de atividades agrícolas submetidos a uma gestão única;\n\ne) «Exploração florestal», o prédio ou conjunto de prédios, contíguos ou não, ocupados total ou parcialmente por espaços florestais, submetidos a uma gestão única;\n\nf) «Serviço de aconselhamento agrícola ou florestal», o serviço técnico especializado prestado por uma entidade reconhecida no âmbito do Sistema de Aconselhamento Agrícola e Florestal, que abrange o diagnóstico e análise dos problemas concretos e oportunidades de uma exploração agrícola ou florestal e a elaboração de um plano de ação com as recomendações a implementar;\n\ng) «Sistema de Aconselhamento Agrícola e Florestal (SAAF)», o sistema de aconselhamento agrícola e florestal criado pela Portaria n.º 151/2016, de 25 de maio.\n\nh) 'Conteúdo base agrícola', a tipologia de serviço de aconselhamento agrícola que inclui as áreas temáticas previstas nas alíneas a), b), c) e d) do anexo I à presente portaria, da qual faz parte integrante;\n\ni) 'Conteúdo base agrícola + 3 Áreas extra', a tipologia de serviço de aconselhamento agrícola que inclui, além das áreas temáticas referidas na alínea anterior, três das áreas temáticas previstas nas alíneas e), f), g), h) e i) do anexo I à presente portaria, da qual faz parte integrante;\n\nj) 'Conteúdo base agrícola + 5 Áreas extra', a tipologia de serviço de aconselhamento agrícola que inclui todas as áreas temáticas previstas no anexo I à presente portaria, da qual faz parte integrante;\n\nk) 'Conteúdo base florestal', a tipologia de serviço de aconselhamento florestal que inclui as áreas temáticas previstas nas alíneas a), b), f) e h) do anexo II à presente portaria, da qual faz parte integrante;\n\nl) 'Conteúdo base florestal + 3 Áreas extra - florestal', a tipologia de serviço de aconselhamento florestal que inclui, além das áreas temáticas referidas na alínea anterior, três das áreas temáticas previstas nas alíneas c), d), e) e g) do anexo II à presente portaria, da qual faz parte integrante.\n\n> Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+  },
+  "122080107": {
+   "fragment_id": "114187649",
+   "type": 11,
+   "heading": "Artigo 10.º — Forma, nível e limites do apoio",
+   "in_force_from": "2019-04-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2017 - Diário da República n.º 217/2017, Série I de 2017-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/343-2017-114177788), em vigor a partir de 2017-11-11, produz efeitos a partir de 2017-10-17"
+   ],
+   "markdown": "###### Artigo 10.º — Forma, nível e limites do apoio\n\n1 - O apoio previsto na presente portaria é concedido sob a forma de subvenção não reembolsável.\n\n2 - O nível de apoio para a operação n.º 2.2.1, 'Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal', é de 100 % das despesas elegíveis, assumindo a modalidade de tabela normalizada de custos unitários, por tipologia de serviço organizada por área temática, de acordo com o anexo IV à presente portaria, da qual faz parte integrante.\n\n3 - O nível de apoio para a operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento» é de 60 % das despesas elegíveis e conforme os seguintes limites mínimos de investimento:\n\na) 1.º ano - 40 % do valor total do investimento;\n\nb) 2.º ano - valor de investimento inferior ao executado no 1.º ano;\n\nc) 3.º ano - valor de investimento inferior ao executado no 2.º ano.\n\n4 - O valor do apoio aprovado para cada ano nos termos do número anterior não transita para o ano seguinte em caso de não execução.\n\n5 - O apoio à operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento», está sujeito aos seguintes montantes máximos:\n\na) Caso o beneficiário seja uma entidade reconhecida ao abrigo da alínea a) do n.º 1 do artigo 8.º da Portaria n.º 151/2016, de 25 de maio, (euro) 200.000 euros, por triénio;\n\nb) Em caso de candidatura em parceria, para cada entidade parceira que não se inclua no disposto na alínea anterior, (euro) 40.000 euros, por triénio.\n\n6 - O nível de apoio para a operação n.º 2.2.3, «Apoio à formação de conselheiros» é de 75 % da despesa total elegível, até ao montante máximo de (euro) 150.000 euros, por beneficiário, por um período não superior a três anos.\n\n7 - No caso da operação n.º 2.2.2 «Apoio à criação de serviços de aconselhamento», o apoio a conceder é cumulável com outros auxílios de minimis enquadrados no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, desde que o respetivo montante acumulado, durante o período de três exercícios financeiros consecutivos, não exceda (euro) 200.000 por beneficiário.\n\n> Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 343/2017 - Diário da República n.º 217/2017, Série I de 2017-11-10](https://diariodarepublica.pt/dr/detalhe/portaria/343-2017-114177788), em vigor a partir de 2017-11-11, produz efeitos a partir de 2017-10-17"
+  },
+  "117352167": {
+   "fragment_id": "114187673",
+   "type": 11,
+   "heading": "Artigo 33.º — Reduções, suspensões e exclusões",
+   "in_force_from": "2018-11-27",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 40/2018 - Diário da República n.º 239/2018, Série I de 2018-12-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2018-117343947), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 21.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+   ],
+   "markdown": "###### Artigo 33.º — Reduções, suspensões e exclusões\n\n1 - Os apoios objeto da presente portaria estão sujeitos às reduções, suspensões e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.\n\n2 - A aplicação de reduções, suspensões e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários previstas no artigo 9.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na redação dada pelo Decreto-Lei n.º 215/2015, de 6 de outubro, é efetuada de acordo com o previsto no anexo v à presente portaria, que dela faz parte integrante.\n\n3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.\n\n4 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.\n\n5 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.\n\n6 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável.\n\n7 - A não comprovação do início da execução física da operação no prazo previsto na alínea m) do n.º 1 do artigo 9.º ou no n.º 2 do artigo 9.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.\n\n> Retificado pelo/a [Declaração de Retificação n.º 40/2018 - Diário da República n.º 239/2018, Série I de 2018-12-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/40-2018-117343947), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 21.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 92/2018 - Diário da República n.º 64/2018, Série I de 2018-04-02](https://diariodarepublica.pt/dr/detalhe/portaria/92-2018-114952498), em vigor a partir de 2018-04-03"
+  },
+  "122080108": {
+   "fragment_id": "114190277",
+   "type": 14,
+   "heading": "Anexo I — Áreas temáticas incluídas nos serviços de aconselhamento agrícola",
+   "in_force_from": "2019-04-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+   ],
+   "markdown": "## Anexo I — Áreas temáticas incluídas nos serviços de aconselhamento agrícola\n\n[a que se refere a subalínea ii) da alínea a) do n.º 2 do artigo 7.º]\n\na) 'Condicionalidade', que abrange os requisitos legais de gestão e as normas em matéria de boas condições agrícolas e ambientais, em conformidade o despacho normativo n.º 6/2015, de 20 de fevereiro, alterada pelo despacho normativo n.º 16/2015, de 25 de agosto, em aplicação do artigo 93.º e o anexo II do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro;\n\nb) «Segurança no trabalho», que abrange as normas definidas na legislação comunitária e nacional relevante aplicável;\n\nc) «Práticas agrícolas benéficas para o clima e o ambiente (Greening)», estabelecidas no capítulo IV da Portaria n.º 57/2015, de 27 de fevereiro, em aplicação do capítulo 3 do título III do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro;\n\nd) «Manutenção da superfície agrícola», conforme definida na Portaria n.º 57/2015, de 27 de fevereiro, em aplicação do previsto na alínea c) do n.º 1 do artigo 4.º, do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro;\n\ne) «Medidas de proteção à qualidade da água», que integram os requisitos previstos nos programas de medidas que constam dos planos de gestão de bacia hidrográfica regulados pela Lei n.º 58/2005, de 29 de dezembro (Lei da Água), que transpõe para o direito nacional a Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro (Diretiva Quadro da Água), definidas no anexo I da Portaria n.º 151/2016, de 25 de maio;\n\nf) «Utilização sustentável de produtos fitofarmacêuticos», que abrange as normas definidas nos artigos 16.º a 18.º e anexo II da Lei n.º 26/2013, de 11 de abril;\n\ng) «Medidas ao nível da exploração agrícola ou florestal», previstas no programa de desenvolvimento rural que deem resposta a necessidades identificadas pelo destinatário do aconselhamento em matérias de modernização das explorações agrícolas, tendo em vista a eficiência na utilização da energia ou na utilização da água ou outros fins relevantes para o setor agrícola, de melhoria da competitividade, de integração setorial, inovação, orientação para o mercado e promoção do empreendedorismo, definidas no anexo II da Portaria n.º 151/2016, de 25 de maio;\n\nh) «Primeira instalação de jovens agricultores», designadamente no que respeita às obrigações inerentes ao cumprimento do plano empresarial;\n\ni) «Requisitos mínimos das medidas agroambientais», estabelecidos no direito nacional a que se referem o n.º 3 do artigo 28.º e o n.º 2 do artigo 29.º do Regulamento (UE) n.º 1305/2013, designadamente o requisito legal de gestão constante do despacho normativo n.º 6/2015, de 20 de fevereiro, definidos no anexo III da Portaria n.º 151/2016, de 25 de maio.\n\n> Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+  },
+  "122080109": {
+   "fragment_id": "114190279",
+   "type": 14,
+   "heading": "Anexo III — Despesas elegíveis e não elegíveis",
+   "in_force_from": "2019-04-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+   ],
+   "markdown": "## Anexo III — Despesas elegíveis e não elegíveis\n\n(a que se refere o n.º 1 do artigo 8.º)\n\nI - Operação n.º 2.2.2, 'Apoio à criação de serviços de aconselhamento'\n\n(ver documento original)\n\n(ver documento original)\n\nII - Operação n.º 2.2.3, 'Apoio à formação de conselheiros'\n\n> Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+  },
+  "122080110": {
+   "fragment_id": "114190280",
+   "type": 14,
+   "heading": "Anexo IV — Tabela normalizada de custos unitários",
+   "in_force_from": "2019-04-12",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+   ],
+   "markdown": "## Anexo IV — Tabela normalizada de custos unitários\n\n(a que se refere o n.º 2 do artigo 10.º)\n\n(ver documento original)\n\n> Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+  },
+  "211234834": {
+   "fragment_id": "114187641",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01",
+    "Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes no artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) 'Atividade agrícola', a produção ou a manutenção de uma superfície agrícola num estado que a torne adequada para pastoreio ou cultivo sem ação preparatória especial para além dos métodos e máquinas agrícolas habituais;\n\nb) 'Atividade florestal', a atividade desenvolvida nos espaços florestais com o objetivo da produção de bens e serviços por eles proporcionados;\n\nc) 'Conselheiros', os recursos humanos afetos aos serviços de aconselhamento;\n\nd) 'Conteúdo base agrícola', a tipologia de serviço de aconselhamento agrícola que inclui as áreas temáticas previstas nas alíneas a), c), d) e n) do anexo i à presente portaria, da qual faz parte integrante;\n\ne) 'Conteúdo base agrícola + 3 áreas extra', a tipologia de serviço de aconselhamento agrícola que inclui, além das áreas temáticas referidas na alínea anterior, três das áreas temáticas previstas nas alíneas b), e), f), g), h), i), j), k), l), m), o), p) e q) do anexo i à presente portaria, da qual faz parte integrante;\n\nf) 'Conteúdo base agrícola + 5 áreas extra', a tipologia de serviço de aconselhamento agrícola que inclui, além das áreas temáticas referidas na alínea h), cinco das áreas temáticas previstas nas alíneas b), e), f), g), h), i), j), k), l), m), o), p) e q) do anexo i à presente portaria, da qual faz parte integrante;\n\ng) 'Conteúdo base florestal', a tipologia de serviço de aconselhamento florestal que inclui as áreas temáticas previstas nas alíneas a), b), d) e e) do anexo ii à presente portaria, da qual faz parte integrante;\n\nh) 'Conteúdo base florestal + 3 áreas extra-florestal', a tipologia de serviço de aconselhamento florestal que inclui, além das áreas temáticas referidas na alínea anterior, as três áreas temáticas previstas nas alíneas c), f) e g) do anexo ii à presente portaria, da qual faz parte integrante;\n\ni) 'Detentor de espaços florestais', o proprietário, usufrutuário, superficiário, arrendatário ou quem, a qualquer título, for possuidor ou detenha a administração dos terrenos que integram os espaços florestais, incluindo as entidades gestoras de zonas de intervenção florestal;\n\nj) 'Exploração agrícola', o conjunto de subparcelas ou animais utilizados para o exercício de atividade agrícola, submetidas a uma gestão única;\n\nk) 'Exploração florestal', o prédio ou conjunto de prédios, contíguos ou não, ocupados total ou parcialmente por espaços florestais, submetidos a uma gestão única;\n\nl) 'Produção', a produção, criação ou cultivo de produtos agrícolas, incluindo colheita, ordenha, criação de animais e detenção de animais para fins de produção, entendendo-se por produtos agrícolas os produtos enumerados no anexo i do Tratado sobre o Funcionamento da União Europeia (TFUE) com exceção dos produtos da pesca, a produção de algodão e a talhadia de curta rotação e os viveiros, excluindo-se as culturas sem contacto com o solo;\n\nm) 'Serviço de aconselhamento agrícola ou florestal', o serviço técnico especializado prestado por uma entidade reconhecida no âmbito do Sistema de Aconselhamento Agrícola e Florestal, que abrange o diagnóstico e análise dos problemas concretos e oportunidades de uma exploração agrícola ou florestal e a elaboração de um plano de ação com as recomendações a implementar, com o objetivo de melhorar o desempenho das explorações, agrícolas e florestais, em termos de resultados económicos, ambientais e sociais;\n\nn) 'Sistema de Aconselhamento Agrícola e Florestal (SAAF)', o sistema de aconselhamento agrícola e florestal criado pela Portaria n.º 151/2016, de 25 de maio, na sua redação atual;\n\no) 'Subparcela', a porção contínua de terreno homogénea com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela de referência ou coincidentes com a mesma, tal como definido no Sistema de Identificação Parcelar (iSIP);\n\np) 'Superfície agrícola', qualquer superfície de terras aráveis, prados e pastagens permanentes, ou culturas permanentes, incluindo os elementos dos sistemas agroflorestais quando mantidos nesta superfície.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01\n\n> Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+  },
+  "211234835": {
+   "fragment_id": "114187646",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos na presente portaria as operações que se enquadrem nos objetivos do artigo 2.º e que reúnam as seguintes condições:\n\na) Apresentem coerência técnica e financeira;\n\nb) Demonstrem estarem asseguradas as fontes de financiamento;\n\nc) Tenham início após a data de apresentação da candidatura.\n\n2 - Para além do disposto no número anterior, as operações devem reunir as seguintes condições:\n\na) Quando respeite à operação n.º 2.2.1, 'Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal':\n\ni) Identifiquem as metodologias a serem utilizadas na prestação do serviço de aconselhamento, o qual deverá incluir, pelo menos, uma visita à exploração;\n\nii) Em caso de aconselhamento agrícola, incidam sobre as áreas temáticas previstas no anexo i da presente portaria, da qual faz parte integrante, devendo o primeiro serviço incluir, no mínimo, as áreas temáticas previstas nas alíneas a), c), d) e n) do referido anexo;\n\niii) Em caso do aconselhamento florestal, incidam sobre as áreas temáticas previstas no anexo ii da presente portaria, da qual faz parte integrante, devendo o primeiro serviço incluir, no mínimo, as áreas temáticas previstas nas alíneas a), b), d) e e) do referido anexo;\n\niv) Incluam, em caso de segundo serviço de aconselhamento, as áreas temáticas não abrangidas no primeiro serviço, exceto em casos devidamente justificados;\n\nv) O número de serviços prestados ao mesmo destinatário esteja limitado a dois serviços de aconselhamento por um período máximo de cinco anos, contado a partir da data de celebração do contrato de serviço de aconselhamento, sendo que, um serviço de aconselhamento que incida, simultaneamente, sobre áreas temáticas agrícolas e áreas temáticas florestais, é considerado, para efeitos de apoio, como dois serviços de aconselhamento distintos.\n\nb) Quando respeite à operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento», apresentem um plano de criação e desenvolvimento, com uma duração máxima de 36 meses, cujo investimento represente, no primeiro ano, pelo menos, 40 % do seu valor total, e identificando, designadamente, os seguintes elementos:\n\ni) A estrutura a criar ou desenvolver;\n\nii) Áreas temáticas a criar e desenvolver;\n\niii) Tipos de destinatários dos serviços de aconselhamento propostos;\n\niv) Objetivos e metas a alcançar;\n\nv) Descrição, calendarização e âmbito territorial das atividades a empreender, incluindo ações de divulgação dos serviços de aconselhamento disponíveis;\n\nvi) Identificação dos recursos humanos e materiais envolvidos.\n\nc) Quando respeite à operação n.º 2.2.3, «Apoio à formação de conselheiros», apresentem um plano de formação com uma duração máxima de 36 meses, que desenvolva, designadamente, os seguintes elementos relativos às ações de formação previstas:\n\ni) Objetivos e metas a alcançar;\n\nii) Domínio temático e duração;\n\niii) Identificação dos perfis dos destinatários;\n\niv) Identificação dos recursos humanos e materiais envolvidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01"
+  },
+  "211234836": {
+   "fragment_id": "114187648",
+   "type": 11,
+   "heading": "Artigo 9.º — Obrigações dos beneficiários",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01",
+    "Alterado pelo/a Artigo 21.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+   ],
+   "markdown": "###### Artigo 9.º — Obrigações dos beneficiários\n\n1 - Os beneficiários dos apoios previstos na presente portaria, além das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, são obrigados a:\n\na) Executar a operação nos termos e condições aprovados;\n\nb) Cumprir a legislação e normas obrigatórias relacionadas com a atividade a desenvolver;\n\nc) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das atividades, quando aplicável;\n\nd) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR2020;\n\ne) Manter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;\n\nf) Manter um sistema de contabilidade organizada ou simplificada, que contemple um centro de custos específico para a operação, nos termos da legislação em vigor;\n\ng) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única do beneficiário, ainda que não exclusiva, exceto em situações devidamente justificadas;\n\nh) Permitir o acesso aos locais de realização da operação e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo do projeto aprovado;\n\ni) Conservar os documentos relativos à realização da operação, sob a forma de documentos originais ou de cópias autenticadas, em suporte digital, quando legalmente admissível, ou em papel, durante o prazo de três anos, a contar da data do encerramento ou da aceitação da Comissão Europeia sobre a declaração de encerramento do PDR, consoante a fase em que o encerramento da operação tenha sido concluído, ou pelo prazo fixado na legislação nacional aplicável ou na legislação específica em matéria de Auxílios de Estado, se estas fixarem prazo superior;\n\nj) Manter o reconhecimento como entidade prestadora de serviços de aconselhamento no âmbito do SAAF, para as áreas temáticas em que se propõe intervir, até ao termo da operação;\n\nk) Não locar ou alienar os equipamentos cofinanciados, durante o período de cinco anos a contar da data da aceitação da concessão do apoio, ou até ao termo da perenidade da operação, definida no termo de aceitação, sem prévia autorização da autoridade de gestão;\n\nl) Concluir a prestação de cada serviço de aconselhamento agrícola ou florestal no prazo de seis meses após a celebração do respetivo contrato de aconselhamento.\n\nm) Comprovar o início da execução física da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.\n\n2 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea m) do número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01\n\n> Alterado pelo/a Artigo 21.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27"
+  },
+  "211234837": {
+   "fragment_id": "114190277",
+   "type": 14,
+   "heading": "Anexo I — Áreas temáticas incluídas nos serviços de aconselhamento agrícola",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01",
+    "Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+   ],
+   "markdown": "## Anexo I — Áreas temáticas incluídas nos serviços de aconselhamento agrícola\n\n[a que se refere a subalínea ii) da alínea a) do n.º 2 do artigo 7.º]\n\na) 'Condicionalidade', que abrange os requisitos legais de gestão e as normas em matéria de boas condições agrícolas e ambientais, previstos no artigo 12.º e anexo iii do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, de 2 de dezembro de 2021;\n\nb) 'Medidas de proteção aos habitats e aves selvagens', que abrange as medidas previstas no Decreto-Lei n.º 140/99, de 24 de abril, com a redação que lhe foi dada pelo Decreto-Lei n.º 49/2005, de 24 de fevereiro (Rede Natura 2000), que transpõe para o direito nacional a Diretiva 92/43/CEE do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens, e a Diretiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à conservação das aves selvagens;\n\nc) 'Medidas de proteção à qualidade da água', que abrange as medidas a definir em Orientação Técnica Específica (OTE) publicada pela Autoridade Nacional de Gestão do SAAF (ANG), previstas nos programas constantes dos planos de gestão de bacia hidrográfica regulados pela Lei n.º 58/2005, de 29 de dezembro, na atual redação (Lei da Água), que transpõe para o direito nacional a Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de dezembro (Diretiva Quadro da Água);\n\nd) 'Utilização sustentável de produtos fitofarmacêuticos', que abrange as normas definidas nos artigos 16.º a 18.º e anexo ii da Lei n.º 26/2013, de 11 de abril, na sua redação atual;\n\ne) 'Qualidade do ar', que abrange as medidas a definir em OTE publicada pela ANG, relativas ao previsto no Decreto-Lei n.º 102/2010, de 23 de setembro, que transpõe a Diretiva 2008/50/CE, do Parlamento Europeu e do Conselho, de 21 de maio;\n\nf) 'Redução de emissões de poluentes atmosféricos', que abrange as medidas a definir em OTE publicada pela ANG, relativas ao previsto no Decreto-Lei n.º 84/2018, de 23 de outubro, que transpõe a Diretiva (UE) 2016/2284, do Parlamento Europeu e do Conselho, de 14 de dezembro;\n\ng) 'Saúde animal', que abrange as matérias previstas no Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho, de 9 de março de 2016;\n\nh) 'Medidas de proteção contra as pragas dos vegetais', que abrange as matérias previstas no Regulamento (UE) 2016/2031 do Parlamento Europeu e do Conselho, de 26 de outubro de 2016;\n\ni) 'Práticas agrícolas que impedem o desenvolvimento da resistência microbiana', que abrange as matérias previstas na Comunicação da Comissão COM (2017) 339, de 29 de junho de 2017;\n\nj) 'Prevenção e gestão dos riscos';\n\nk) 'Apoio à inovação', que abrange a matéria relativa à preparação e à execução dos projetos dos grupos operacionais da Parceria Europeia de Inovação para a produtividade e a sustentabilidade agrícolas, conforme previsto no n.º 3 do artigo 127.º do Regulamento (UE) 2021/2115;\n\nl) 'Tecnologias digitais', que abrange a matéria relativa às tecnologias digitais no setor da agricultura e nas zonas rurais previstas no artigo 114.º, alínea b), do Regulamento (UE) 2021/2115;\n\nm) 'Gestão sustentável dos nutrientes', que abrange a matéria relativa à utilização de uma ferramenta de gestão sustentável dos nutrientes nas explorações agrícolas;\n\nn) 'Condicionalidade social', que abrange a matéria relativa ao previsto no anexo iv do Regulamento (UE) 2021/2115;\n\no) 'Primeira instalação de jovens agricultores', que abrange as matérias relativas, designadamente, às obrigações inerentes ao cumprimento do plano empresarial associado ao respetivo projeto de instalação;\n\np) 'Plano de gestão de pastoreio e fertilização', que abrange a matéria relativa implementação da intervenção 'Gestão do solo - Maneio da pastagem permanente', nos termos do previsto na alínea b) do n.º 7 do artigo 31.º do Regulamento (UE) 2021/2115;\n\nq) 'Plano de fertilização', que abrange a matéria relativa à implementação da intervenção 'Gestão do solo - Promoção da fertilização orgânica', nos termos previstos na alínea b) do n.º 7 do artigo 31.º do Regulamento (UE) 2021/2015.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01\n\n> Alterado pelo/a [Portaria n.º 109/2019 - Diário da República n.º 72/2019, Série I de 2019-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/109-2019-122074197), em vigor a partir de 2019-04-12"
+  },
+  "211234838": {
+   "fragment_id": "114190278",
+   "type": 14,
+   "heading": "Anexo II — Áreas temáticas incluídas nos serviços de aconselhamento florestal",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01"
+   ],
+   "markdown": "## Anexo II — Áreas temáticas incluídas nos serviços de aconselhamento florestal\n\n[a que se refere a subalínea iii) da alínea a) do n.º 2 do artigo 7.º]\n\na) 'Medidas de proteção aos habitats e aves selvagens', que abrange as medidas previstas no Decreto-Lei n.º 140/99, de 24 de abril, com a redação que lhe foi dada pelo Decreto-Lei n.º 49/2005, de 24 de fevereiro (Rede Natura 2000), que transpõe para o direito nacional a Diretiva 92/43/CEE do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens, e a Diretiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à conservação das aves selvagens;\n\nb) 'Medidas de proteção à qualidade da água', que abrange as medidas a definir em Orientação Técnica Específica (OTE) publicada pela Autoridade Nacional de Gestão do SAAF (ANG), previstas nos programas constantes dos planos de gestão de bacia hidrográfica regulados pela Lei n.º 58/2005, de 29 de dezembro, na atual redação (Lei da Água), que transpõe para o direito nacional a Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de dezembro (Diretiva Quadro da Água);\n\nc) 'Utilização sustentável de produtos fitofarmacêuticos', que abrange as normas definidas nos artigos 16.º a 18.º e anexo ii da Lei n.º 26/2013, de 11 de abril, na sua redação atual;\n\nd) 'Condicionalidade social', que abrange a matéria relativa ao previsto no anexo iv do Regulamento (UE) 2021/2115;\n\ne) 'Defesa da floresta', que abrange as matérias relativas à fitossanidade florestal e à defesa da floresta contra incêndios;\n\nf) 'Plano de gestão florestal', que abrange a matéria relativa à implementação do plano de gestão florestal;\n\ng) 'Certificação florestal', que abrange os requisitos necessários à manutenção da certificação florestal, incluindo certificações de grupo ou regionais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01"
+  },
+  "211234839": {
+   "fragment_id": "114190281",
+   "type": 14,
+   "heading": "Anexo V — Reduções e exclusões",
+   "in_force_from": "2023-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01"
+   ],
+   "markdown": "## Anexo V — Reduções e exclusões\n\n(a que se refere o n.º 2 do artigo 33.º)\n\n1 - O incumprimento das obrigações dos beneficiários, previstas nos artigos 9.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:\n\n(ver documento original)\n\n2 - O disposto no número anterior não prejudica, designadamente, a aplicação:\n\na) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nb) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nc) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;\n\nd) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014;\n\ne) De outras cominações, designadamente de natureza penal, que ao caso couberem.\n\n3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR2020, em www.pdr-2020.pt, e no portal do IFAP, em www.ifap.pt.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01"
+  },
+  "225446227": {
+   "fragment_id": "114187646",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade das operações",
+   "in_force_from": "2023-12-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 417/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/417-2023-225397121), em vigor a partir de 2023-12-08, produz efeitos a partir de 2023-04-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade das operações\n\n1 - Podem beneficiar dos apoios previstos na presente portaria as operações que se enquadrem nos objetivos do artigo 2.º e que reúnam as seguintes condições:\n\na) Apresentem coerência técnica e financeira;\n\nb) Demonstrem estarem asseguradas as fontes de financiamento;\n\nc) Tenham início após a data de apresentação da candidatura.\n\n2 - Para além do disposto no número anterior, as operações devem reunir as seguintes condições:\n\na) Quando respeite à operação n.º 2.2.1, «Apoio ao fornecimento de serviços de aconselhamento agrícola e florestal»:\n\ni) Identifiquem as metodologias a serem utilizadas na prestação do serviço de aconselhamento, o qual deverá incluir, pelo menos, uma visita à exploração;\n\nii) Em caso de aconselhamento agrícola, incidam sobre as áreas temáticas previstas no anexo i da presente portaria, da qual faz parte integrante, devendo o primeiro serviço incluir, no mínimo, as áreas temáticas previstas nas alíneas a), c), d) e n) do referido anexo;\n\niii) Em caso do aconselhamento florestal, incidam sobre as áreas temáticas previstas no anexo ii da presente portaria, da qual faz parte integrante, devendo o primeiro serviço incluir, no mínimo, as áreas temáticas previstas nas alíneas a), b), d) e e) do referido anexo;\n\niv) Incluam, em caso de segundo serviço de aconselhamento, as áreas temáticas não abrangidas no primeiro serviço, exceto em casos devidamente justificados;\n\nv) O número de serviços prestados ao mesmo destinatário esteja limitado a dois serviços de aconselhamento por um período máximo de cinco anos, contado a partir da data de celebração do contrato de serviço de aconselhamento, sendo que, um serviço de aconselhamento que incida, simultaneamente, sobre áreas temáticas agrícolas e áreas temáticas florestais, é considerado, para efeitos de apoio, como dois serviços de aconselhamento distintos.\n\nvi) Em derrogação do previsto na subalínea anterior é possível prestar em 2023 ou 2024 um serviço de aconselhamento adicional desde que efetuado no âmbito das novas áreas temáticas estabelecidas ao abrigo do Plano Estratégico da PAC aprovado de acordo com o Regulamento (UE) n.º 2021/2115.\n\nb) Quando respeite à operação n.º 2.2.2, «Apoio à criação de serviços de aconselhamento», apresentem um plano de criação e desenvolvimento, com uma duração máxima de 36 meses, cujo investimento represente, no primeiro ano, pelo menos, 40 % do seu valor total, e identificando, designadamente, os seguintes elementos:\n\ni) A estrutura a criar ou desenvolver;\n\nii) Áreas temáticas a criar e desenvolver;\n\niii) Tipos de destinatários dos serviços de aconselhamento propostos;\n\niv) Objetivos e metas a alcançar;\n\nv) Descrição, calendarização e âmbito territorial das atividades a empreender, incluindo ações de divulgação dos serviços de aconselhamento disponíveis;\n\nvi) Identificação dos recursos humanos e materiais envolvidos.\n\nc) Quando respeite à operação n.º 2.2.3, «Apoio à formação de conselheiros», apresentem um plano de formação com uma duração máxima de 36 meses, que desenvolva, designadamente, os seguintes elementos relativos às ações de formação previstas:\n\ni) Objetivos e metas a alcançar;\n\nii) Domínio temático e duração;\n\niii) Identificação dos perfis dos destinatários;\n\niv) Identificação dos recursos humanos e materiais envolvidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 417/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/portaria/417-2023-225397121), em vigor a partir de 2023-12-08, produz efeitos a partir de 2023-04-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 98/2023 - Diário da República n.º 65/2023, Série I de 2023-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/98-2023-211241822), em vigor a partir de 2023-04-01"
+  }
+ }
+}

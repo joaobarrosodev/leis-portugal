@@ -1,0 +1,206 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:558976:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-885927779",
+ "dre_path": "/dr/detalhe/decreto-lei/229-2000-558976",
+ "source_lastmod": "2024-08-27",
+ "versions": [
+  {
+   "date": "2000-09-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885927454",
+    "885927455",
+    "885927456",
+    "885927457",
+    "885927458",
+    "885927459",
+    "885927460",
+    "885927461",
+    "885927462",
+    "885927463",
+    "885927464",
+    "885927465",
+    "885927466",
+    "885927467"
+   ]
+  },
+  {
+   "date": "2005-04-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:549587:por",
+     "title": "Decreto-Lei n.º 83/2005",
+     "published": "2005-04-21",
+     "dre_path": "/dr/detalhe/decreto-lei/83-2005-549587"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "885927454",
+    "885927878",
+    "885927456",
+    "885927457",
+    "885927458",
+    "885927879",
+    "885927460",
+    "885927461",
+    "885927462",
+    "885927463",
+    "885927464",
+    "885927465",
+    "885927466",
+    "885927467",
+    "885927468"
+   ]
+  }
+ ],
+ "fragments": {
+  "885927454": {
+   "fragment_id": "885927780",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 229/2000\n\nde 23 de Setembro\n\nEm 9 de Julho de 1997, foi celebrado um contrato de compra e venda de créditos sobre a TORRALTA - Clube Internacional de Férias, S. A., entre o Estado Português, o Instituto de Gestão Financeira da Segurança Social, o Instituto de Financiamento e Apoio ao Turismo e o Instituto do Emprego e Formação Profissional, por um lado, e a FIGEST - Gestão de Participações Financeiras, Sociedade de Controle, S. A., a ORBITUR - Intercâmbio de Turismo, S. A., a SOLINCA - Investimentos Turísticos, S. A., e a PARGESTE - Sociedade Gestora de Participações Sociais, S. A., por outro.\n\nNo referido contrato de compra e venda de créditos foi prevista a atribuição, sem concurso público, da concessão do exclusivo da exploração de jogos de fortuna ou azar na península de Tróia a uma sociedade, cuja totalidade do capital social e respectivos direitos de voto fossem detidos pela sociedade adquirente dos referidos créditos.\n\nEssa decisão foi justificada pelo consenso que se gerou à volta da resolução definitiva da situação da TORRALTA quer para o Estado, quer para a autarquia, trabalhadores e accionistas, tendo a concessão da exploração de jogos de fortuna ou azar na península de Tróia sido considerada como uma das componentes fundamentais do projecto subjacente ao contrato de investimento celebrado entre o Estado, a IMOAREIA, S. A., e outras, a qual não só é necessária ao equilíbrio e desenvolvimento do investimento em causa como constitui uma forma de garantir o cumprimento do objectivo que norteou a instituição da zona de jogo de Tróia, criada pelo Decreto-Lei n.º 340/80, de 30 de Agosto, qual seja o de contribuir para a criação de condições necessárias ao desenvolvimento turístico da península de Tróia.\n\nConsidera, assim, o Governo que se encontram reunidas as condições para que, nos termos do n.º 2 do artigo 10.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, seja adjudicada a concessão da exploração de jogos de fortuna ou azar na península de Tróia a uma sociedade cuja totalidade do capital social e respectivos direitos de voto sejam integralmente detidos desde a data da sua constituição pela IMOAREIA - Sociedade Imobiliária, S. A.\n\nAssim:\n\nAo abrigo do n.º 2 do artigo 10.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "885927455": {
+   "fragment_id": "885927781",
+   "type": 11,
+   "heading": "Artigo 1.º — Atribuição da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Atribuição da concessão\n\nA concessão do exclusivo da exploração de jogos de fortuna ou azar na península de Tróia será adjudicada, sem concurso público, a uma empresa a constituir sob a forma de sociedade anónima e obedecendo aos requisitos exigidos pelo artigo 17.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, cuja totalidade do capital social e respectivos direitos de voto sejam integralmente detidos desde a data da sua constituição pela IMOAREIA - Sociedade Imobiliária, S. A."
+  },
+  "885927456": {
+   "fragment_id": "885927782",
+   "type": 11,
+   "heading": "Artigo 2.º — Duração da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Duração da concessão\n\n1 - A concessão inicia-se na data da celebração do contrato e termina no dia 31 de Dezembro do 20.º ano posterior àquele em que se iniciar a exploração do jogo.\n\n2 - O contrato é assinado no prazo máximo de 120 dias a contar da data da notificação da adjudicação provisória da concessão."
+  },
+  "885927457": {
+   "fragment_id": "885927783",
+   "type": 11,
+   "heading": "Artigo 3.º — Direitos da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direitos da concessionária\n\n1 - À concessionária são reconhecidos todos os direitos e vantagens estabelecidos nas leis em vigor.\n\n2 - A concessionária detém o exclusivo da concessão da exploração de jogos de fortuna ou azar na península de Tróia, bem como das salas de jogo do bingo, durante o prazo de concessão previsto no presente diploma."
+  },
+  "885927458": {
+   "fragment_id": "885927784",
+   "type": 11,
+   "heading": "Artigo 4.º — Legislação aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Legislação aplicável\n\nA concessionária aceita todas as obrigações impostas pela legislação em vigor, designadamente as estabelecidas pelo Decreto-Lei n.º 422/89, de 2 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 10/95, de 19 de Janeiro, pelo Decreto-Lei n.º 184/88, de 25 de Maio, e legislação complementar, bem como pelo presente diploma legal."
+  },
+  "885927459": {
+   "fragment_id": "885927785",
+   "type": 11,
+   "heading": "Artigo 5.º — Obrigações da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigações da concessionária\n\n1 - Sem prejuízo do disposto na legislação aplicável à generalidade das zonas de jogo, a concessionária fica vinculada ao cumprimento das seguintes obrigações:\n\na) Construir um casino em Tróia, localizado na UNOP 1, denominada «Núcleo Urbano» do Plano de Urbanização de Tróia, dotado das características e requisitos de conforto e funcionalidade nos termos que vierem a ser aprovados por portaria do Ministro da Economia;\n\nb) Construir um centro de congressos, integrado no mesmo conjunto urbanístico localizado na UNOP 1, com os respectivos serviços de apoio;\n\nc) Concluir um hotel, integrado no mesmo conjunto urbanístico localizado na UNOP 1, com as características necessárias para ser classificado como hotel de 5 estrelas;\n\nd) Promover a salvaguarda e a valorização do património arqueológico das ruínas romanas de Tróia contribuindo financeiramente para tal fim, durante o prazo mínimo de seis anos, em termos não inferiores aos estabelecidos no protocolo celebrado com o IPPAR em 13 de Julho de 1999 e homologado pelo Ministro da Cultura em 1 de Agosto de 1999;\n\ne) Executar obras de recuperação de infra-estruturas existentes em Tróia;\n\nf) Prestar, em cada ano, uma contrapartida correspondente a 10% das receitas brutas declaradas dos jogos, que pode ser superior quando se verifiquem as condições previstas no número seguinte.\n\n2 - Caso, no início do 3.º quinquénio (referente ao 11.º ano da concessão), o valor das receitas brutas declaradas dos jogos seja superior a 2000000000$00, a preços de 1997, o valor de 10% acima referido passará a ser de 12,5% durante o 3.º quinquénio e de 15% durante o 4.º quinquénio.\n\n3 - O valor de 2000000000$00 referido no número anterior será actualizado tendo em conta o índice médio de preços no consumidor, excluindo habitação, publicado pelo Instituto Nacional de Estatística.\n\n4 - Para os empreendimentos previstos nas alíneas a) a c) do n.º 1, o prazo de finalização é de cinco anos a contar do momento em que os respectivos projectos se encontrem devidamente aprovados pela entidade competente, ficando a concessionária obrigada a apresentar os projectos à entidade competente no prazo de 18 meses a contar da data em que o plano de pormenor da UNOP 1 se encontre plenamente eficaz. Para as obras previstas na alínea e), o prazo de finalização é de cinco anos a contar do momento em que os respectivos planos de pormenor das UNOP respectivas se encontrem plenamente eficazes."
+  },
+  "885927460": {
+   "fragment_id": "885927786",
+   "type": 11,
+   "heading": "Artigo 6.º — Destino da contrapartida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Destino da contrapartida\n\n1 - A contrapartida referida na alínea f) do n.º 1 da cláusula anterior será repartida da seguinte forma:\n\na) Entrega de até 8% das receitas brutas à empresa municipal a criar ao abrigo da Lei n.º 58/98, de 18 de Agosto, destinada à gestão das infra-estruturas da área de desenvolvimento turístico (ADT) de Tróia. Esta entrega não poderá exceder o montante de 450000000$00, a preços do ano 2000, actualizável segundo o índice de preços no consumidor publicado pelo INE, total sem habitação, nem a diferença entre tal montante e o somatório das reservas da empresa municipal após a aprovação das contas do exercício a que a entrega disser respeito;\n\nb) Pagamento das despesas que couberem à concessionária para compensação do Estado pelos encargos com o funcionamento da Inspecção-Geral de Jogos, nos termos legalmente estabelecidos;\n\nc) Entrega da verba remanescente, incluindo o montante que ultrapasse os limites definidos na alínea a) do presente número, ao Instituto de Financiamento e Apoio ao Turismo para aplicação em apoio a iniciativas de animação e promoção turística e de valorização do património na região de turismo em causa, sob proposta desta última entidade.\n\n2 - A entrega a que alude a alínea a) do n.º 1 será feita à empresa municipal aí referida, mediante guias a emitir pela Inspecção-Geral de Jogos.\n\n3 - As obrigações mencionadas no n.º 1 vencem-se:\n\na) A referida na alínea b), nos termos da legislação aplicável;\n\nb) As referidas nas alíneas a) e c), nos 30 dias posteriores à aprovação das contas do exercício pela assembleia geral da empresa municipal aí referida.\n\n4 - As importâncias a pagar nos termos da alínea c) do n.º 1 serão depositadas no Instituto de Financiamento e Apoio ao Turismo, mediante guias a emitir pela Inspecção-Geral de Jogos.\n\n5 - O cumprimento das obrigações referidas no n.º 1 deverá ser caucionado nos termos legais."
+  },
+  "885927461": {
+   "fragment_id": "885927787",
+   "type": 11,
+   "heading": "Artigo 7.º — Salas mistas de jogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Salas mistas de jogos\n\nA concessionária poderá instalar salas mistas, com jogos tradicionais e máquinas, nos termos das normas aplicáveis."
+  },
+  "885927462": {
+   "fragment_id": "885927788",
+   "type": 11,
+   "heading": "Artigo 8.º — Cessão da posição contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cessão da posição contratual\n\nA concessionária poderá transmitir para terceiros a exploração do jogo e demais actividades a que contratualmente fica obrigada, depois de devidamente autorizada pelas entidades referidas no artigo 15.º do Decreto-Lei n.º 422/89, de 2 de Dezembro."
+  },
+  "885927463": {
+   "fragment_id": "885927789",
+   "type": 11,
+   "heading": "Artigo 9.º — Imposto especial sobre o jogo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Imposto especial sobre o jogo\n\nA concessionária fica obrigada, nos termos dos artigos 84.º e seguintes do Decreto-Lei n.º 422/89, de 2 de Dezembro, alterado pelo Decreto-Lei n.º 10/95, de 19 de Janeiro, ao pagamento de um imposto especial pelo exercício da actividade do jogo, não sendo exigível qualquer outra tributação geral ou local relativa ao exercício dessa actividade ou de quaisquer outras a que esteja obrigada pelo contrato de concessão."
+  },
+  "885927464": {
+   "fragment_id": "885927790",
+   "type": 11,
+   "heading": "Artigo 10.º — Modificação anormal das circunstâncias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Modificação anormal das circunstâncias\n\nA modificação anormal das circunstâncias em que as partes fundaram a vontade de contratar, resultante de acto soberano ou de alteração da lei ou regulamento que afecte com gravidade o equilíbrio contratual, dará à parte lesada o direito à modificação do contrato de concessão, segundo juízos de equidade."
+  },
+  "885927465": {
+   "fragment_id": "885927791",
+   "type": 11,
+   "heading": "Artigo 11.º — Reversibilidade de bens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reversibilidade de bens\n\nNo termo da concessão, qualquer que seja a causa, com excepção do material e utensílios de jogo, não reverterão para o Estado os bens afectos à concessão, que permanecerão propriedade da concessionária."
+  },
+  "885927466": {
+   "fragment_id": "885927792",
+   "type": 11,
+   "heading": "Artigo 12.º — Rescisão do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Rescisão do contrato\n\nO contrato de concessão pode ser rescindido nos termos previstos na lei."
+  },
+  "885927467": {
+   "fragment_id": "885927793",
+   "type": 11,
+   "heading": "Artigo 13.º — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Resolução do contrato\n\nO contrato de concessão é indissociável do contrato de investimento ao abrigo do qual é celebrado, pelo que a resolução pelo Estado do contrato de investimento será fundamento para a resolução do contrato de concessão."
+  },
+  "885927878": {
+   "fragment_id": "885927781",
+   "type": 11,
+   "heading": "Artigo 1.º — Atribuição da concessão",
+   "in_force_from": "2005-04-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 83/2005 - Diário da República n.º 78/2005, Série I-A de 2005-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2005-549587), em vigor a partir de 2005-04-26"
+   ],
+   "markdown": "###### Artigo 1.º — Atribuição da concessão\n\n1 - A concessão do exclusivo da exploração de jogos de fortuna ou azar na península de Tróia será adjudicada, sem concurso público, a uma empresa a constituir sob a forma de sociedade anónima e obedecendo aos requisitos exigidos pelo artigo 17.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, cuja totalidade do capital social e respectivos direitos de voto sejam integralmente detidos desde a data da sua constituição pela IMOAREIA - Sociedade Imobiliária, S. A.\n\n2 - A IMOAREIA, S. A., pode alienar a totalidade ou parte das acções representativas do capital social da sociedade concessionária, sem prejuízo do disposto no n.º 3 do artigo 17.º do Decreto-Lei n.º 422/89, de 2 de Dezembro, na sua redacção em vigor.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 83/2005 - Diário da República n.º 78/2005, Série I-A de 2005-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2005-549587), em vigor a partir de 2005-04-26"
+  },
+  "885927879": {
+   "fragment_id": "885927785",
+   "type": 11,
+   "heading": "Artigo 5.º — Obrigações da concessionária",
+   "in_force_from": "2005-04-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 83/2005 - Diário da República n.º 78/2005, Série I-A de 2005-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2005-549587), em vigor a partir de 2005-04-26"
+   ],
+   "markdown": "###### Artigo 5.º — Obrigações da concessionária\n\n1 - Sem prejuízo do disposto na legislação aplicável à generalidade das zonas de jogo, a concessionária fica vinculada ao cumprimento das seguintes obrigações:\n\na) Construir um casino em Tróia, localizado na UNOP 1, denominada «Núcleo Urbano» do Plano de Urbanização de Tróia, dotado das características e requisitos de conforto e funcionalidade nos termos que vierem a ser aprovados por portaria do Ministro da Economia;\n\nb) Construir um centro de congressos, integrado no mesmo conjunto urbanístico localizado na UNOP 1, com os respectivos serviços de apoio;\n\nc) Concluir um hotel, integrado no mesmo conjunto urbanístico localizado na UNOP 1, com as características necessárias para ser classificado como hotel de 5 estrelas;\n\nd) Prestar, em cada ano, uma contrapartida correspondente a 10% das receitas brutas declaradas dos jogos, que pode ser superior quando se verifiquem as condições previstas no número seguinte.\n\ne) (Revogada.)\n\n2 - Caso, no início do 3.º quinquénio (referente ao 11.º ano da concessão), o valor das receitas brutas declaradas dos jogos seja superior a 2000000000$00, a preços de 1997, o valor de 10% acima referido passará a ser de 12,5% durante o 3.º quinquénio e de 15% durante o 4.º quinquénio.\n\n3 - O valor de 2000000000$00 referido no número anterior será actualizado tendo em conta o índice médio de preços no consumidor, excluindo habitação, publicado pelo Instituto Nacional de Estatística.\n\n4 - Para os empreendimentos previstos nas alíneas a) a c) do n.º 1, o prazo de finalização é de cinco anos a contar do momento em que os respectivos projectos se encontrem devidamente aprovados pela entidade competente, ficando a concessionária obrigada a apresentar os projectos à entidade competente no prazo de 18 meses a contar da data em que o plano de pormenor da UNOP 1 se encontre plenamente eficaz.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 83/2005 - Diário da República n.º 78/2005, Série I-A de 2005-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2005-549587), em vigor a partir de 2005-04-26"
+  },
+  "885927468": {
+   "fragment_id": "885927794",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 10 de Agosto de 2000. - Jaime José Matos da Gama - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Vigário Pacheco - Vítor Manuel Sampaio Caetano Ramalho - Alexandre António Cantigas Rosa.\n\nPromulgado em 11 de Setembro de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Setembro de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

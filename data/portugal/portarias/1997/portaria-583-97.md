@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:141837:por
+title: Portaria n.º 583/97
+short_title: null
+summary: Autoriza, mediante determinadas condições, um horário de funcionamento superior a quarenta horas semanais aos estabelecimentos
+  de educação pré-escolar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Educação e da Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 583/97
+official_date: null
+publication_date: '1997-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/1997, Série I-B de 1997-08-01
+  number: '176'
+  series: I
+  supplement: null
+  pages: 4029 - 4030
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/08/176b00/40294030.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/583/1997/08/01/p/dre/pt/html
+  oj: null
+  dre: '141837'
+  dre_path: /dr/detalhe/portaria/583-1997-141837
+  internal: pt:dre:141837:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/583-1997-141837
+  metadata_url: https://data.dre.pt/eli/port/583/1997/08/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/583-1997-141837
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-08-01T00:00:00Z'
+integrity:
+  source_sha256: de7fda82a28cc25f90a4524780f8975c3f85237849497a1f25c1b75b6800a4cd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-583-141837.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Horário de Funcionamento
+- Horário Escolar
+- Estabelecimento de Ensino
+- Educação Pré-escolar
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/147/1997/06/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/147/1997/06/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/5/1997/02/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/5/1997/02/10/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 583/97
+
+de 1 de Agosto
+
+O [Decreto-Lei n.º 147/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1997-358959), de 11 de Junho, no desenvolvimento dos princípios consagrados na [Lei n.º 5/97](https://diariodarepublica.pt/dr/detalhe/lei/5-1997-561219), de 10 de Fevereiro, determinou que os estabelecimentos de educação pré-escolar devem assegurar um horário de funcionamento flexível, de acordo com as necessidades das famílias.
+
+Entretanto, perante a necessidade de ser salvaguardado o bem-estar das crianças, o decreto-lei referido estabeleceu a possibilidade de ser autorizado um horário de funcionamento superior a quarenta horas semanais, mediante determinadas condições, que constariam de portaria conjunta dos Ministros da Educação e da Solidariedade e Segurança Social.
+
+Nestes termos, ao abrigo do disposto no n.º 3 do artigo 9.º do [Decreto-Lei n.º 147/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1997-358959), de 11 de Junho:
+
+Manda o Governo, pelos Ministros da Educação e da Solidariedade e Segurança Social, o seguinte:
+
+1.º Nos estabelecimentos de educação pré-escolar onde se verifique a necessidade de prolongamento de horário para além das quarenta horas semanais devem os respectivos directores pedagógicos requerer a autorização do prolongamento do horário aos serviços regionais competentes, tendo em conta as normas das instituições a que pertençam os estabelecimentos.
+
+2.º Constitui fundamento para a necessidade de prolongamento de horário designadamente:
+
+A inadequação do horário de funcionamento do estabelecimento de educação pré-escolar às necessidades comprovadas dos horários profissionais dos pais ou encarregados de educação;
+
+A distância entre o local de trabalho dos pais ou encarregados de educação e o estabelecimento de educação pré-escolar;
+
+A inexistência de familiares disponíveis para o acolhimento da criança após o encerramento do estabelecimento de educação pré-escolar;
+
+A inexistência de alternativa, à qual a família possa recorrer, para ser assegurada a guarda da criança após o encerramento do estabelecimento de educação pré-escolar.
+
+3.º Para os efeitos previstos no n.º 1 e antes do início do ano escolar, o director pedagógico convoca uma reunião de pais e encarregados de educação, na qual podem ainda estar presentes representantes da comunidade.
+
+4.º Destas reuniões são lavradas actas, assinadas pelo director pedagógico e pelos pais ou encarregados de educação presentes, de que constam as deliberações tomadas sobre a matéria, e que acompanham a proposta de alargamento do horário de funcionamento.
+
+5.º Quando os estabelecimentos de educação pré-escolar não disponham de estrutura física que ofereça condições para a concretização do alargamento do horário para o desenvolvimento de actividades de apoio à família, o director pedagógico e os pais ou encarregados de educação devem procurar soluções alternativas nos recursos localmente existentes, salvaguardando sempre o bem-estar das crianças.
+
+6.º O desenvolvimento das soluções alternativas referidas no número anterior depende de autorização dos serviços regionais competentes, mediante proposta do director pedagógico do estabelecimento de educação pré-escolar.
+
+Ministérios da Educação e da Solidariedade e Segurança Social.
+
+**Assinada em 30 de Junho de 1997.**
+
+**O Ministro da Educação, Eduardo Carrega Marçal Grilo. - O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.**

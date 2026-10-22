@@ -1,0 +1,244 @@
+---
+schema_version: '1.0'
+id: pt:dre:456516:por
+title: Portaria n.º 604/2008
+short_title: null
+summary: Define as regras a observar no procedimento concursal prévio à eleição do director, nos termos do Decreto-Lei n.º
+  75/2008, de 22 de Abril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 604/2008
+official_date: null
+publication_date: '2008-07-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 131/2008, Série I de 2008-07-09
+  number: '131'
+  series: I
+  supplement: null
+  pages: 4275 - 4277
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13100/0427504277.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/604/2008/07/09/p/dre/pt/html
+  oj: null
+  dre: '456516'
+  dre_path: /dr/detalhe/portaria/604-2008-456516
+  internal: pt:dre:456516:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/604-2008-456516
+  metadata_url: https://data.dre.pt/eli/port/604/2008/07/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/604-2008-456516
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-07-02T00:00:00Z'
+integrity:
+  source_sha256: 7294f359c1af983ea488d339a21a5d65a0ee652af32910bc152c5c35d61fcd9d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-604-456516.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Eleição
+- Concurso
+- Conselho Geral
+- Diretor
+- Ensino Secundário
+- Organismo do Estado
+- Estabelecimento de Ensino
+- Ensino Básico
+- Avaliação do Pessoal
+- Educação Pré-escolar
+relationships:
+- type: amended_by
+  target: pt:dre:178527:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/115-a/1998/05/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/115-a/1998/05/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/172/1991/05/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/75/2008/04/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/75/2008/04/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/24/1999/04/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/24/1999/04/22/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 604/2008
+
+de 9 de Julho
+
+O [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de Abril, estabeleceu o regime de autonomia, administração e gestão dos estabelecimentos públicos da educação pré-escolar e dos ensinos básico e secundário.
+
+Entre as principais alterações introduzidas neste novo regime contam-se, para além da generalização do cargo unipessoal do director, as regras que conduzem à sua eleição pelo conselho geral. Assim, previamente àquele órgão proceder ao acto electivo, deve ser observado um procedimento concursal em que se procura apurar qual dos candidatos se encontra em melhores condições para exercer, naquele agrupamento de escolas ou escola não agrupada, o cargo de director.
+
+Estabelecendo a norma do n.º 1 do artigo 22.º do [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de Abril, que o procedimento concursal, para além das regras já definidas no diploma, conteria regras próprias a aprovar por portaria do membro do Governo responsável pela área da educação, a presente portaria procede a essa definição e sendo esse o seu objecto.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 22.º do [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de Abril:
+
+Manda o Governo, pela Ministra da Educação, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A presente portaria define as regras a observar no procedimento concursal prévio à eleição do director, nos termos do [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de Abril.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - Para o efeito de recrutamento do director, podem ser opositores ao procedimento concursal prévio à eleição pelo conselho geral os seguintes docentes:
+
+a) Docentes de carreira do ensino público;
+
+b) Docentes profissionalizados com contrato por tempo indeterminado do ensino particular e cooperativo.
+
+2 - Os docentes referidos no número anterior devem contar, pelo menos, cinco anos de serviço e qualificação para o exercício das funções de administração e gestão escolar.
+
+3 - Consideram-se qualificados para o exercício de funções de administração e gestão escolar os docentes que preencham uma das seguintes condições:
+
+a) Sejam detentores, com aproveitamento, de um curso de formação especializada em Administração Escolar ou Administração Educacional;
+
+b) Sejam possuidores do grau de mestre ou de doutor nas áreas referidas na alínea anterior;
+
+c) Possuam experiência correspondente a, pelo menos, um mandato completo no exercício dos seguintes cargos:
+
+i) Director, subdirector ou adjunto do director, nos termos do regime previsto no [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de Abril;
+
+ii) Presidente, vice-presidente, director ou adjunto do director, nos termos do regime previsto no [Decreto-Lei n.º 115-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/115-a-1998-155636), de 4 de Maio, alterado, por ratificação parlamentar, pela [Lei n.º 24/99](https://diariodarepublica.pt/dr/detalhe/lei/24-1999-534636), de 22 de Abril;
+
+iii) Director executivo e adjunto do director executivo, nos termos do regime previsto no [Decreto-Lei n.º 172/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1991-612219), de 10 de Maio;
+
+iv) Membro do conselho directivo, nos termos do regime previsto no [Decreto-Lei n.º 769-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/769-a-1976-233694), de 23 de Outubro;
+
+d) Possuam experiência de, pelo menos, três anos como director ou director pedagógico de estabelecimento do ensino particular e cooperativo.
+
+###### Artigo 3.º — Decisão de abertura do procedimento concursal
+
+1 - Não sendo ou não podendo ser aprovada pelo conselho geral a recondução do director cessante, o conselho geral delibera a abertura do procedimento concursal até 60 dias antes do termo do mandato daquele.
+
+2 - O procedimento concursal é obrigatório, urgente e de interesse público.
+
+###### Artigo 4.º — Métodos de avaliação das candidaturas
+
+Sem prejuízo do disposto no n.º 3 do artigo 7.º, os métodos utilizados para a avaliação das candidaturas são aprovados pelo conselho geral, sob proposta da sua comissão permanente ou da comissão especialmente designada para a apreciação das candidaturas.
+
+###### Artigo 5.º — Aviso de abertura do procedimento
+
+1 - O procedimento concursal é aberto em cada agrupamento de escolas ou escola não agrupada por aviso publicitado do seguinte modo:
+
+a) Em local apropriado das instalações de cada agrupamento de escolas ou escola não agrupada;
+
+b) Na página electrónica do agrupamento de escolas ou escola não agrupada e na da direcção regional de educação respectiva;
+
+c) Por aviso publicado na 2.ª série do Diário da República e divulgado em órgão de imprensa de expansão nacional através de anúncio que contenha referência ao Diário da República em que o referido aviso se encontra publicado.
+
+2 - O aviso de abertura do procedimento contém, obrigatoriamente, os seguintes elementos:
+
+a) O agrupamento de escolas ou escola não agrupada para que é aberto o procedimento concursal;
+
+b) Os requisitos de admissão ao procedimento concursal fixados no [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de Abril, e na presente portaria;
+
+c) A entidade a quem deve ser apresentado o pedido de admissão ao procedimento, com indicação do respectivo prazo de entrega, forma de apresentação, documentos a juntar e demais elementos necessários à formalização da candidatura;
+
+d) Os métodos utilizados para a avaliação da candidatura.
+
+###### Artigo 6.º — Candidatura
+
+1 - O pedido de admissão ao procedimento concursal é efectuado por requerimento e é acompanhado, para além de outros documentos exigidos no aviso de abertura, pelo curriculum vitae e por um projecto de intervenção no agrupamento de escolas ou escola não agrupada.
+
+2 - É obrigatória a prova documental dos elementos constantes do currículo, com excepção daqueles que se encontrem arquivados no respectivo processo individual e este se encontre no agrupamento de escolas ou escola não agrupada onde decorre o procedimento.
+
+3 - No projecto de intervenção os candidatos identificam os problemas, definem os objectivos e estratégias bem como estabelecem a programação das actividades que se propõem realizar no mandato.
+
+###### Artigo 7.º — Avaliação das candidaturas
+
+1 - As candidaturas são apreciadas pela comissão permanente do conselho geral ou por uma comissão especialmente designada para o efeito por aquele órgão.
+
+2 - Previamente à apreciação das candidaturas, a comissão referida no número anterior procede ao exame dos requisitos de admissão ao concurso, excluindo os candidatos que os não tenham cumprido, sem prejuízo da aplicação do artigo 76.º do Código do Procedimento Administrativo.
+
+3 - A comissão que procede à apreciação das candidaturas, além de outros elementos fixados no aviso de abertura, considera obrigatoriamente:
+
+a) A análise do curriculum vitae de cada candidato, designadamente para efeitos de apreciação da sua relevância para o exercício das funções de director e o seu mérito;
+
+b) A análise do projecto de intervenção no agrupamento de escolas ou escola não agrupada;
+
+c) O resultado da entrevista individual realizada com o candidato.
+
+4 - Após a apreciação dos elementos referidos no número anterior, a comissão elabora um relatório de avaliação dos candidatos, que é presente ao conselho geral, fundamentando, relativamente a cada um, as razões que aconselham ou não a sua eleição.
+
+5 - Sem prejuízo da expressão de um juízo avaliativo sobre as candidaturas em apreciação, a comissão não pode, no relatório previsto no número anterior, proceder à seriação dos candidatos.
+
+6 - A comissão pode considerar no relatório de avaliação que nenhum dos candidatos reúne condições para ser eleito.
+
+###### Artigo 8.º — Apreciação pelo conselho geral
+
+1 - Após a entrega do relatório de avaliação ao conselho geral, este realiza a sua discussão e apreciação, podendo, antes de proceder à eleição, efectuar a audição dos candidatos.
+
+2 - A audição dos candidatos realiza-se por deliberação do conselho geral tomada por maioria dos presentes ou a requerimento de pelo menos um terço dos seus membros em efectividade de funções.
+
+3 - A audição dos candidatos, a realizar-se, será sempre oral.
+
+4 - A notificação da realização da audição dos candidatos e a respectiva convocatória são feitas com a antecedência de, pelo menos, oito dias úteis.
+
+5 - Na audição podem ser apreciadas todas as questões relevantes para a eleição.
+
+6 - A falta de comparência dos interessados à audição não constitui motivo do seu adiamento, podendo o conselho geral, se não for apresentada justificação da falta, apreciar essa conduta para o efeito do interesse do candidato na eleição.
+
+7 - Da audição é lavrada acta contendo a súmula do acto.
+
+###### Artigo 9.º — Norma transitória
+
+Para efeitos do previsto no [Decreto-Lei n.º 75/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-2008-249866), de 22 de Abril, as competências atribuídas ao conselho geral previstas na presente portaria podem ser exercidas, até à sua constituição, pelo conselho geral transitório.
+
+###### Artigo 10.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte à sua publicação.
+
+**A Ministra da Educação, Maria de Lurdes Reis Rodrigues, em 1 de Julho de 2008.**

@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:412193:por
+title: Portaria n.º 271-A/76
+short_title: null
+summary: Regulamenta o concurso de estágios pedagógicos a que se refere o Decreto-Lei n.º 316-B/76, de 29 de Abril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Investigação Científica
+proposing_entity: null
+official_number: 271-A/76
+official_date: null
+publication_date: '1976-04-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 101/1976, 2º Suplemento, Série I de 1976-04-29
+  number: '101'
+  series: I
+  supplement: 2º Suplemento
+  pages: 940-(5) a 940-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/04/10102/00050006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '412193'
+  dre_path: /dr/detalhe/portaria/271-a-1976-412193
+  internal: pt:dre:412193:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/271-a-1976-412193
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/271-a-1976-412193
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-04-22T00:00:00Z'
+integrity:
+  source_sha256: 4ff9e3fcce83fa24e24859b49f837e64723dafb9da7bcdac9d6f7ec9954950ce
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-271-A-412193.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:139044:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 271-A/76
+
+de 29 de Abril
+
+Nos termos do n.º 2 do artigo 2.º do [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Investigação Científica:
+
+1. Os candidatos ao concurso a que se refere o artigo 1.º do [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril, apresentarão requerimento de admissão ao mesmo e do qual constará:
+
+a) Nome do candidato;
+
+b) Filiação;
+
+c) Nacionalidade;
+
+d) Número do bilhete de identidade e arquivo emissor;
+
+e) Morada e telefone.
+
+2. Os candidatos referidos no número anterior preencherão um impresso, que lhes será fornecido em qualquer estabelecimento de ensino preparatório ou secundário.
+
+3. O requerimento e o impresso mencionados nos números antecedentes deverão ser remetidos pelos interessados ao Ministério da Educação e Investigação Científica, por correio registado, com aviso de recepção, no prazo de dez dias, contados a partir da data da publicação a que se reporta o n.º 1 do artigo 1.º do [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril.
+
+4. Do impresso citado no n.º 2 da presente portaria constará, obrigatoriamente:
+
+a) Nome do candidato;
+
+b) Morada;
+
+c) Data de nascimento;
+
+d) Habilitação académica do candidato e respectiva classificação;
+
+e) Grupo, subgrupo ou especialidade, dentro de cada ramo de ensino, a que o candidato concorre;
+
+f) Tempo de serviço prestado em estabelecimento de ensino oficial, por anos completos, até ao limite de doze anos; os restantes, se existirem, deverão ser integrados na alínea seguinte;
+
+g) Outro tempo de serviço, contado em dias, prestado em estabelecimento de ensino oficial;
+
+h) Localidades onde funcione o estágio pedagógico nas quais o candidato pretende ser colocado.
+
+5. Para efeitos do disposto nas alíneas f) e g) do número anterior o candidato apresentará o impresso já preenchido, acompanhado das necessárias folhas de serviço, no estabelecimento de ensino onde se encontre colocado, que confirmará as declarações prestadas pelo candidato, com a assinatura do presidente do conselho directivo ou de quem as suas vezes fizer, reconhecida com o selo branco (ou carimbo a óleo se aquele não existir) em uso no estabelecimento de ensino.
+
+6. Se o candidato não estiver colocado em estabelecimento de ensino à data do concurso, a confirmação das declarações a que se refere o número anterior será feita pelo último estabelecimento de ensino onde o interessado prestou serviço ou pela respectiva direcção-geral.
+
+7. O requerimento de admissão ao estágio pedagógico será acompanhado dos seguintes documentos:
+
+a) Certificado ou certificados de habilitações literárias correspondente ao grupo, subgrupo ou especialidade a que o candidato concorre, e no qual deve constar a respectiva classificação académica;
+
+b) Certidão de registo criminal e policial;
+
+c) Certidão de idade ou pública-forma do bilhete de identidade;
+
+d) Atestado de bom comportamento moral e civil passado pelo magistrado administrativo competente;
+
+e) Documento comprovativo de ter satisfeito a Lei do Serviço Militar, quando a ela afecto.
+
+8. O documento previsto na alínea a) do número anterior pode ser substituído por declaração do candidato, passada em papel selado, sob compromisso de honra e assinatura reconhecida notarialmente.
+
+9. O documento a que se refere a alínea a) do n.º 7 da presente portaria, desde que substituído nos termos do número anterior, será obrigatoriamente apresentado no prazo de quinze dias, contados após o termo do concurso, sob pena de ser anulada a admissão ao estágio pedagógico.
+
+10. Os candidatos indicarão no impresso mencionado no n.º 2 desta portaria as localidades onde, para efeitos de estágio, pretendem ser colocados.
+
+11. Os candidatos que concorrerem às localidades de Lisboa, Porto e Coimbra indicarão no impresso as zonas daquelas localidades onde, consoante o indicado nos avisos referidos n.º 1 do artigo 1.º do [Decreto-Lei n.º 316-B/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-b-1976-412192), de 29 de Abril, funcionarão os estágios pedagógicos.
+
+12. A lista graduada dos candidatos admitidos ao concurso será publicada no Diário da República, segundo os grupos, subgrupos e especialidade dentro de cada ramo de ensino.
+
+13. No prazo de oito dias, contados a partir da data da publicação no Diário da República da lista graduada referida no número anterior, poderão os candidatos dirigir reclamações, por escrito, ao respectivo director-geral.
+
+14. Decididas as reclamações dos candidatos, far-se-á a sua colocação consoante as preferências pelos mesmos apresentadas.
+
+15. As listas de colocação dos candidatos serão publicadas no Diário da República e das mesmas não cabe reclamação.
+
+16. A matrícula no estágio pedagógico implica para o estagiário a aceitação tácita do regulamento de estágio.
+
+17. Só poderão ser opositores ao concurso para estágio pedagógico dos ensinos preparatório e secundário os candidatos que tenham adquirido a habilitação considerada própria para o respectivo ingresso, pelo menos, à data da abertura do concurso.
+
+18. Em tudo o que não estiver previsto na presente portaria aplica-se a legislação em vigor.
+
+Ministério da Educação e Investigação Científica, 29 de Abril de 1976. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.

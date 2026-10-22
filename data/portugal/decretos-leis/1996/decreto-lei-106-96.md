@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:406888:por
+title: Decreto-Lei n.º 106/96
+short_title: null
+summary: Estabelece o Regime Especial de Comparticipação e Financiamento na Recuperação de Prédios Urbanos em Regime de Propriedade
+  Horizontal, abreviadamente designado por RECRIPH
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 106/96
+official_date: null
+publication_date: '1996-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/1996, Série I-A de 1996-07-31
+  number: '176'
+  series: I
+  supplement: null
+  pages: 2193 - 2196
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/07/176a00/21932196.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1996-07-31'
+version_history:
+  file: decreto-lei-106-96.versoes.json
+  count: 1
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1996-07-31'
+    amending: null
+    amending_title: null
+    changes: []
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/106/1996/p/cons/19961209/pt/html
+  oj: null
+  dre: '406888'
+  dre_path: /dr/detalhe/decreto-lei/106-1996-406888
+  internal: pt:dre:406888:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1996-406888
+  metadata_url: https://data.dre.pt/eli/dec-lei/106/1996/p/cons/19961209/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-61626466
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-61626466
+  retrieved_at: '2026-10-22T11:56:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: e1d46fbcac85c1f351c511cd25f7eaf1c1033ca14ac738bd0b391a56bbe066d4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:56:54Z'
+  notes: 1 versão(ões); histórico completo em decreto-lei-106-96.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Casa Degradada
+- Comparticipação do Estado
+- Propriedade Horizontal
+- Obras de Conservação e Restauro
+- Crédito Bonificado
+- Instituto de Gestão e Alienação do Património Habitacional do Estado
+- Câmara Municipal
+- Regime Especial de Comparticipação e Financiamento na Recuperação de Prédios Urbanos em Regime de Propriedade Horizontal
+- Prédio Urbano
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197/1992/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1992/09/22/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:56:54Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 106/96
+
+Decreto-Lei n.º 106/96
+
+de 31 de Julho
+
+O Programa RECRIA, cujo regime jurídico consta actualmente do Decreto-Lei n.º 197/92, de 22 de Setembro, tem vindo a revelar-se um instrumento legal de inegáveis virtudes como contributo para a melhoria significativa das condições de habitabilidade em edifícios degradados e, bem assim, para a tendência de inversão da situação de acentuada degradação que vinha ocorrendo há anos atrás nos edifícios habitacionais arrendados.
+
+Todavia, a experiência da aplicação prática daquele regime vinha revelando a necessidade de se adoptar uma solução legal que permitisse aos proprietários de fracções autónomas em edifícios com regime de propriedade horizontal, através da concessão de um apoio financeiro, proceder à realização de obras de recuperação naqueles prédios urbanos.
+
+Neste sentido, o presente diploma estabelece um regime específico de comparticipação e financiamento para a realização de obras de conservação e beneficiação pelos condóminos de edifícios antigos, medida que vem preencher, assim, uma lacuna que se vinha fazendo sentir no âmbito da execução daquele Programa e que tem como pressupostos a crescente generalização da adopção do regime da propriedade horizontal para os edifícios urbanos e o facto de grande parte dos condomínios, em especial os mais antigos, serem habitados por agregados familiares de reduzidos recursos económicos, que não permitem, sem a concessão de apoio financeiro, a realização das necessárias obras de conservação e beneficiação nos respectivos edifícios e suas fracções autónomas.
+
+Desta forma, e numa fase inicial, é previsto o acesso ao Programa dos condóminos de edifícios habitacionais construídos até à data da entrada em vigor do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei n.º 38382, de 7 de Agosto de 1951, ou após essa data, cuja licença de utilização tenha sido emitida até 1 de Janeiro de 1970, sem prejuízo de, futuramente e em função das necessidades que se venham a verificar, poderem vir a ser abrangidos edifícios em regime de propriedade horizontal com licença de utilização de datas posteriores.
+
+O diploma passa a permitir, a par da possibilidade de concessão aos beneficiários de comparticipação a fundo perdido, a atribuição de empréstimos bonificados para financiamento da parte das obras não comparticipada, meios financeiros estes cuja conjugação, espera-se, venha a constituir um significativo estímulo para que os condóminos dos prédios urbanos mais degradados intervenham na sua recuperação.
+
+Pretende-se assim, em suma, imprimir novo impulso ao processo de reabilitação urbana, criando condições potenciadoras de uma melhor qualidade de vida nos centros urbanos antigos e de conservação do património urbano edificado.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Portaria n.º 711/96 - Diário da República n.º 284/1996, Série I-B de 1996-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/711-1996-186758) Acresce em 10% a percentagem de comparticipações a fundo fixada nos termos do número 1 do artigo 5.º do presente Decreto-Lei.
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece o Regime Especial de Comparticipação e Financiamento na Recuperação de Prédios Urbanos em Regime de Propriedade Horizontal, abreviadamente designado por RECRIPH.
+
+###### Artigo 2.º — Beneficiários
+
+1 - Têm acesso ao Regime previsto neste diploma as administrações de condomínio que procedam a obras nas partes comuns e os condóminos que, sendo pessoas singulares, procedam a obras nas fracções autónomas de prédios urbanos em regime de propriedade horizontal, construídos até à data da entrada em vigor do Regulamento Geral das Edificações Urbanas, aprovado pelo Decreto-Lei n.º 38382, de 7 de Agosto de 1951, ou após essa data, cuja licença de utilização tenha sido emitida até 1 de Janeiro de 1970.
+
+2 - Para efeitos do disposto no número anterior, têm de se encontrar reunidas as seguintes condições:
+
+a) Serem as fracções autónomas do prédio destinadas a habitação própria e permanente dos condóminos ou estarem arrendadas para fins habitacionais, podendo uma das fracções ser afecta ao exercício de uma actividade de comércio ou a pequena indústria hoteleira aberta ao público;
+
+b) Ser o respectivo prédio urbano composto, pelo menos, por quatro fracções autónomas.
+
+###### Artigo 3.º — Obras comparticipáveis e financiáveis
+
+Para efeitos do disposto no presente diploma, podem ser comparticipadas e financiadas, nos termos dos artigos seguintes, as obras de conservação ordinária e extraordinária e de beneficiação, na acepção do artigo 11.º do Regime do Arrendamento Urbano, aprovado pelo Decreto-Lei n.º 321-B/90, de 15 de Outubro, com as devidas adaptações.
+
+###### Artigo 4.º — Regime de comparticipação e financiamento
+
+1 - Para a realização de obras de conservação ordinária e extraordinária nas partes comuns dos prédios podem ser concedidas comparticipações a fundo perdido.
+
+2 - As comparticipações referidas no número anterior serão concedidas pela administração central, por intermédio do Instituto de Gestão e Alienação do Património Habitacional do Estado, abreviadamente designado por IGAPHE, e pela administração local, através do município da área do imóvel, nos termos do presente diploma.
+
+3 - O valor das comparticipações é suportado pelas entidades referidas no número anterior na proporção de 60% e 40%, respectivamente.
+
+4 - Sempre que haja lugar à realização de obras nos termos do n.º 1, pode ainda ser concedido um financiamento aos condóminos cujo limite máximo pode ir até ao valor das obras não comparticipado, a conceder nas condições previstas no regime geral de crédito bonificado à habitação estabelecido no Decreto-Lei n.º 328-B/86, de 30 de Setembro, com prazo de reembolso máximo de 10 anos.
+
+5 - Poderá também ser concedido um financiamento aos condóminos para suportar a realização de obras de conservação ordinária e extraordinária e de beneficiação nas suas fracções autónomas nas condições de crédito previstas na parte final do número anterior, desde que esteja preenchido um dos seguintes requisitos:
+
+a) Tenham já sido realizadas todas as obras necessárias de conservação ordinária e extraordinária nas partes comuns do prédio;
+
+b) Tenha havido deliberação da assembleia de condóminos no sentido da execução de obras nas partes comuns do prédio nos termos deste diploma.
+
+6 - A comprovação do preenchimento das condições referidas nas alíneas do número anterior é efectuada através de declaração da câmara municipal respectiva em como as obras foram concluídas ou pela apresentação de certidão da acta da deliberação da assembleia de condóminos, consoante os casos, devendo estes elementos ser entregues para efeitos do disposto no artigo 6.º
+
+7 - Os financiamentos previstos no presente artigo serão concedidos pelo Instituto Nacional de Habitação ou outra instituição de crédito autorizada nos termos do contrato de financiamento a celebrar entre uma destas entidades e cada condómino.
+
+8 - As bonificações de juros relativas aos financiamentos constituem encargo do IGAPHE, que para o efeito deve afectar as verbas necessárias no seu orçamento, sendo o seu processamento efectuado nas condições a acordar entre aquela entidade e as instituições financiadoras.
+
+###### Artigo 5.º — Valor das comparticipações
+
+1 - O valor das comparticipações previstas no n.º 1 do artigo anterior é de 20% do montante total das obras a realizar.
+
+2 - Para efeito de cálculo das comparticipações, a proporção correspondente a cada fracção autónoma é calculada nos termos do artigo 1418.º do Código Civil.
+
+3 - O valor das comparticipações pode ser aumentado quando as obras visem a sua adequação ao disposto nas Medidas Cautelares de Segurança contra Riscos de Incêndio em Centros Urbanos Antigos, aprovadas pelo Decreto-Lei n.º 426/89, de 6 de Dezembro.
+
+> Nota: [Portaria n.º 711/96 - Diário da República n.º 284/1996, Série I-B de 1996-12-09](https://diariodarepublica.pt/dr/detalhe/portaria/711-1996-186758) Acresce em 10% a percentagem de comparticipações a fundo fixada nos termos do número 1 do presente artigo.
+
+###### Artigo 6.º — Instrução do pedido de comparticipação
+
+1 - O pedido de comparticipação é instruído com os seguintes elementos:
+
+a) Identificação do prédio, incluindo a indicação do número de fracções autónomas e dos condóminos;
+
+b) Fotocópia autenticada do título constitutivo de propriedade horizontal;
+
+c) Certidão da acta de deliberação da assembleia de condóminos que tenha determinado a realização de obras;
+
+d) Relatório técnico, aprovado pela câmara municipal, comprovativo do estado de conservação do edifício e das obras de que carece;
+
+e) Descrição dos diversos trabalhos a efectuar, sua duração e respectivo orçamento;
+
+f) Declaração de compromisso de início das obras no prazo de 90 dias a contar da data da notificação do deferimento do pedido.
+
+2 - O prazo a que se refere a alínea f) do número anterior pode ser prorrogado uma vez, por igual período, mediante a apresentação ao IGAPHE de requerimento devidamente fundamentado.
+
+3 - Quando se trate das obras a que se refere o n.º 5 do artigo 4.º, do requerimento deve constar a identificação do despacho conjunto previsto no n.º 3 do artigo 1.º das Medidas Cautelares contra Riscos de Incêndio em Centros Urbanos Antigos, aprovadas pelo Decreto-Lei n.º 426/89, de 6 de Dezembro, bem como declaração da câmara municipal atestando que as obras se destinam a adequar o prédio ao disposto neste diploma.
+
+###### Artigo 7.º — Instrução do pedido de financiamento
+
+1 - O pedido de financiamento para realização de obras nas partes comuns dos prédios é instruído com os elementos referidos no n.º 1 do artigo anterior, devendo conter especificação da parte do valor das obras a financiar.
+
+2 - Havendo lugar a financiamento nos termos do disposto no n.º 5 do artigo 4.º, o respectivo pedido deverá ser instruído com os seguintes elementos:
+
+a) Identificação do prédio, do condómino e da respectiva fracção autónoma;
+
+b) Certidão da acta de deliberação da assembleia de condóminos que tenha aprovado a realização de obras nas partes comuns do respectivo prédio ou, se for caso disso, declaração da câmara municipal certificando que já foram realizadas as obras necessárias de conservação ordinária e extraordinária nas partes comuns;
+
+c) Especificação do valor do financiamento pretendido;
+
+d) Documentos referidos nas alíneas b), e) e f) do n.º 1 do artigo anterior.
+
+###### Artigo 8.º — Apresentação do pedido de comparticipação
+
+1 - O pedido de comparticipação e o pedido de financiamento, se a este houver lugar, são apresentados à câmara municipal, devidamente instruídos.
+
+2 - A câmara municipal, após aprovação das obras a realizar, remete os pedidos referidos no número anterior ao IGAPHE, juntamente com os seguintes documentos:
+
+a) Cálculo dos valores das comparticipações, efectuado de acordo com o disposto no presente diploma;
+
+b) Declaração da câmara municipal definindo o valor da comparticipação a conceder por si;
+
+c) Parecer sobre a admissibilidade do pedido de financiamento em função do valor das obras não comparticipado.
+
+###### Artigo 9.º — Concretização da comparticipação
+
+1 - A decisão do IGAPHE é comunicada ao requerente e à câmara municipal.
+
+2 - No caso de a decisão prevista no número anterior ser favorável, dela deve constar o montante da comparticipação atribuída.
+
+3 - A comparticipação municipal, caso a ela haja lugar, é concretizada nos termos e condições a acordar entre as partes.
+
+4 - Mediante a apresentação de declaração emitida pela câmara municipal que confirme a conclusão das obras, o IGAPHE depositará, à ordem do requerente, o valor integral da sua comparticipação.
+
+5 - O direito à comparticipação caduca se as obras não forem iniciadas no prazo constante da alínea f) do n.º 1 do artigo 6.º
+
+6 - Sempre que haja lugar a financiamento, nos termos previstos no artigo 4.º deste diploma, e depois de obtido parecer favorável do IGAPHE, este enviará para a entidade financiadora a respectiva proposta.
+
+7 - O financiamento será concedido nos termos definidos no contrato a celebrar entre a entidade financiadora e o beneficiário, nos termos do disposto no n.º 7 do artigo 4.º
+
+###### Artigo 10.º — Início e conclusão das obras
+
+Nos 15 dias subsequentes ao início ou à conclusão das obras, os condóminos cujos pedidos de comparticipação e financiamento tenham sido, respectivamente, aprovados ou autorizados ficam obrigados a dar conhecimento daqueles factos ao IGAPHE.
+
+###### Artigo 11.º — Representação
+
+O administrador representa o conjunto dos condóminos, nos termos do artigo 1436.º do Código Civil, para efeitos da prática dos actos referidos no presente diploma respeitantes à realização de obras nas partes comuns do prédio.

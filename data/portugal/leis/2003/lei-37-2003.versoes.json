@@ -1,0 +1,957 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:656107:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2003-107972040",
+ "dre_path": "/dr/detalhe/lei/37-2003-656107",
+ "source_lastmod": "2026-07-30",
+ "versions": [
+  {
+   "date": "2003-08-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107971120",
+    "107971121",
+    "107971122",
+    "107971123",
+    "107971124",
+    "107971125",
+    "107971126",
+    "107971127",
+    "107971128",
+    "107971129",
+    "107971130",
+    "107971131",
+    "107971132",
+    "107971133",
+    "107971134",
+    "107971135",
+    "107971136",
+    "107971137",
+    "107971138",
+    "107971139",
+    "107971140",
+    "107971141",
+    "107971142",
+    "107971143",
+    "107971144",
+    "107971145",
+    "107971146",
+    "107971147",
+    "107971148",
+    "107971149",
+    "107971150",
+    "107971151",
+    "107971152",
+    "107971153",
+    "107971154",
+    "107971155",
+    "107971156",
+    "107971157",
+    "107971158",
+    "107971159",
+    "107971160",
+    "107971161",
+    "107971162",
+    "107971163",
+    "107971164",
+    "107971165",
+    "107971166",
+    "107971167",
+    "107971168",
+    "107971169",
+    "107971170",
+    "107971171"
+   ]
+  },
+  {
+   "date": "2005-09-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:245336:por",
+     "title": "Lei n.º 49/2005",
+     "published": "2005-08-30",
+     "dre_path": "/dr/detalhe/lei/49-2005-245336"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "107971120",
+    "107971121",
+    "107971122",
+    "107971123",
+    "107971124",
+    "107971125",
+    "107971126",
+    "107971127",
+    "107971128",
+    "107971129",
+    "107971130",
+    "107971131",
+    "107971132",
+    "107971133",
+    "107971134",
+    "107971135",
+    "107971136",
+    "107971137",
+    "107971138",
+    "107971139",
+    "107985712",
+    "107971141",
+    "107971142",
+    "107971143",
+    "107971144",
+    "107971145",
+    "107971146",
+    "107971147",
+    "107971148",
+    "107971149",
+    "107971150",
+    "107971151",
+    "107971152",
+    "107971153",
+    "107971154",
+    "107971155",
+    "107971156",
+    "107971157",
+    "107971158",
+    "107971159",
+    "107971160",
+    "107971161",
+    "107971162",
+    "107971163",
+    "107971164",
+    "107971165",
+    "107971166",
+    "107971167",
+    "107971168",
+    "107971169",
+    "107971170",
+    "107971171",
+    "107971172"
+   ]
+  },
+  {
+   "date": "2007-10-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:640339:por",
+     "title": "Lei n.º 62/2007",
+     "published": "2007-09-10",
+     "dre_path": "/dr/detalhe/lei/62-2007-640339"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "107971120",
+    "107971121",
+    "107971122",
+    "107971123",
+    "107971124",
+    "107971125",
+    "107971126",
+    "107971127",
+    "107971128",
+    "107971129",
+    "107971130",
+    "107971131",
+    "107971132",
+    "107971133",
+    "107971134",
+    "107971135",
+    "107971136",
+    "107971137",
+    "107971138",
+    "107971139",
+    "107985712",
+    "107985714",
+    "107971142",
+    "107971143",
+    "107971144",
+    "107971145",
+    "107971146",
+    "107971147",
+    "107971148",
+    "107971149",
+    "107971150",
+    "107971151",
+    "107971152",
+    "107971153",
+    "107971154",
+    "107971155",
+    "107971156",
+    "107971157",
+    "107971158",
+    "107971159",
+    "107971160",
+    "107971161",
+    "107971162",
+    "107971163",
+    "107971164",
+    "107971165",
+    "107971166",
+    "107971167",
+    "107971168",
+    "107971169",
+    "107971170",
+    "107971171",
+    "107971172"
+   ]
+  },
+  {
+   "date": "2017-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107981651:por",
+     "title": "Lei n.º 68/2017",
+     "published": "2017-08-09",
+     "dre_path": "/dr/detalhe/lei/68-2017-107981651"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "107971120",
+    "107971121",
+    "107971122",
+    "107971123",
+    "107971124",
+    "107971125",
+    "107971126",
+    "107971127",
+    "107971128",
+    "107971129",
+    "107971130",
+    "107971131",
+    "107971132",
+    "107971133",
+    "107971134",
+    "107971135",
+    "107971136",
+    "107971137",
+    "107971138",
+    "107971139",
+    "107985715",
+    "107985714",
+    "107971142",
+    "107971143",
+    "107971144",
+    "107971145",
+    "107971146",
+    "107971147",
+    "107971148",
+    "107971149",
+    "107971150",
+    "107971151",
+    "107971152",
+    "107971153",
+    "107971154",
+    "107971155",
+    "107971156",
+    "107971157",
+    "107971158",
+    "107971159",
+    "107971160",
+    "107971161",
+    "107971162",
+    "107971163",
+    "107971164",
+    "107971165",
+    "107971166",
+    "107971167",
+    "107971168",
+    "107971169",
+    "107971170",
+    "107971171",
+    "107971172"
+   ]
+  },
+  {
+   "date": "2019-09-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124346826:por",
+     "title": "Lei n.º 75/2019",
+     "published": "2019-09-02",
+     "dre_path": "/dr/detalhe/lei/75-2019-124346826"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 29.º-A"
+   ],
+   "fragments": [
+    "107971120",
+    "107971121",
+    "107971122",
+    "107971123",
+    "107971124",
+    "107971125",
+    "107971126",
+    "107971127",
+    "107971128",
+    "107971129",
+    "107971130",
+    "107971131",
+    "107971132",
+    "107971133",
+    "107971134",
+    "107971135",
+    "107971136",
+    "107971137",
+    "107971138",
+    "107971139",
+    "107985715",
+    "107985714",
+    "107971142",
+    "107971143",
+    "107971144",
+    "107971145",
+    "107971146",
+    "107971147",
+    "107971148",
+    "107971149",
+    "107971150",
+    "107971151",
+    "107971152",
+    "107971153",
+    "107971154",
+    "107971155",
+    "107971156",
+    "107971157",
+    "107971158",
+    "122652437",
+    "124413382",
+    "124413383",
+    "124413384",
+    "107971162",
+    "107971163",
+    "107971164",
+    "107971165",
+    "107971166",
+    "107971167",
+    "107971168",
+    "107971169",
+    "107971170",
+    "107971171",
+    "107971172"
+   ]
+  },
+  {
+   "date": "2026-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1149265695:por",
+     "title": "Lei n.º 32/2026",
+     "published": "2026-07-20",
+     "dre_path": "/dr/detalhe/lei/32-2026-1149265695"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A",
+    "Altera Artigo 22.º",
+    "Altera Artigo 32.º"
+   ],
+   "fragments": [
+    "107971120",
+    "107971121",
+    "107971122",
+    "107971123",
+    "107971124",
+    "107971125",
+    "107971126",
+    "107971127",
+    "107971128",
+    "107971129",
+    "107971130",
+    "107971131",
+    "107971132",
+    "107971133",
+    "107971134",
+    "107971135",
+    "107971136",
+    "107971137",
+    "107971138",
+    "107971139",
+    "107985715",
+    "1149600875",
+    "1149601075",
+    "107971142",
+    "107971143",
+    "107971144",
+    "107971145",
+    "107971146",
+    "107971147",
+    "107971148",
+    "1149600375",
+    "107971150",
+    "107971151",
+    "107971152",
+    "107971153",
+    "107971154",
+    "107971155",
+    "107971156",
+    "107971157",
+    "107971158",
+    "122652437",
+    "124413382",
+    "124413383",
+    "124413384",
+    "107971162",
+    "1149601175",
+    "107971164",
+    "107971165",
+    "107971166",
+    "107971167",
+    "107971168",
+    "107971169",
+    "107971170",
+    "107971171",
+    "107971172"
+   ]
+  }
+ ],
+ "fragments": {
+  "107971120": {
+   "fragment_id": "107972041",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 37/2003\n\nde 22 de Agosto\n\nEstabelece as bases do financiamento do ensino superior\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "107971121": {
+   "fragment_id": "107972042",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "107971122": {
+   "fragment_id": "107972043",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - A presente lei define as bases do financiamento do ensino superior.\n\n2 - O financiamento do ensino superior processa-se de acordo com critérios objectivos, indicadores de desempenho e valores padrão relativos à qualidade e excelência do ensino ministrado.\n\n3 - O financiamento do ensino superior público processa-se ainda no quadro de uma relação tripartida entre:\n\na) O Estado e as instituições de ensino superior;\n\nb) Os estudantes e as instituições de ensino superior;\n\nc) O Estado e os estudantes."
+  },
+  "107971123": {
+   "fragment_id": "107972044",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nConstituem objectivos do financiamento do ensino superior:\n\na) Assegurar o cumprimento das prioridades nacionais em matéria de política educativa;\n\nb) Estimular planos de apoio às instituições de ensino superior no exercício das atribuições de um ensino de qualidade;\n\nc) Promover a adequação entre o tipo de apoio concedido e os planos de desenvolvimento das instituições;\n\nd) Incentivar a procura de fontes de financiamento de natureza concorrencial com base em critérios de qualidade e excelência;\n\ne) Promover o direito à igualdade de oportunidades de acesso, frequência e sucesso escolar, pela superação de desigualdades económicas, sociais e culturais;\n\nf) Valorizar o mérito, dedicação e aproveitamento escolar dos estudantes, independentemente das suas capacidades económicas."
+  },
+  "107971124": {
+   "fragment_id": "107972045",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios gerais\n\n1 - Ao financiamento do ensino superior aplicam-se os seguintes princípios:\n\na) Princípio da responsabilização, racionalidade e eficiência das instituições, entendido no sentido de que estas devem assegurar um serviço de qualidade, sujeito a avaliações regulares, devendo igualmente garantir a utilização eficiente e transparente dos recursos, nomeadamente através da certificação e publicitação das suas contas, planos de actividades e relatórios anuais;\n\nb) Princípio da democraticidade, entendido como o direito conferido aos cidadãos de, segundo as suas capacidades, acederem aos graus mais elevados do ensino, da investigação científica e da criação artística, sem restrições de natureza económica ou outra;\n\nc) Princípio da universalidade, entendido como o direito de acesso de todas as instituições e de todos os estudantes aos mecanismos de financiamento previstos na lei, consoante o sector, público ou não público, em que se integrem;\n\nd) Princípio da não exclusão, entendido como o direito que assiste a cada estudante de não ser excluído, por carências económicas, do acesso e da frequência do ensino superior, para o que o Estado deverá assegurar um adequado e justo sistema de acção social escolar;\n\ne) Princípio da subsidiariedade, entendido como a responsabilidade das entidades, públicas ou privadas, que beneficiam dos serviços prestados pelas instituições de ensino superior financiarem a produção de conhecimento e a qualificação de quadros;\n\nf) Princípio do reconhecimento do mérito, nos planos pessoal e institucional.\n\n2 - Ao financiamento do ensino superior público aplicam-se, ainda, os seguintes princípios:\n\na) Princípio da responsabilização financeira do Estado, entendido no sentido da satisfação dos encargos públicos exigíveis para garantir o funcionamento de uma rede pública de estabelecimentos de ensino de qualidade;\n\nb) Princípio da responsabilização dos estudantes, entendido no sentido de que estes devem mostrar adequado aproveitamento escolar, justificando, pelo seu mérito, o acesso ao bem social de que beneficiam, mediado através de um regime de prescrições definido para a totalidade das instituições;\n\nc) Princípio da autonomia financeira das instituições de ensino superior público e de responsabilização dos titulares de órgãos de gestão administrativa e financeira;\n\nd) Princípio da equidade, entendido como o direito reconhecido a cada instituição e a cada estudante de beneficiarem do apoio financeiro adequado à sua situação concreta;\n\ne) Princípio do equilíbrio social, tendo como partes o Estado e a sociedade civil, no sentido de uma responsabilidade financeira conjunta e equitativa, por forma a atenuar os actuais défices de formação superior, proporcionando às instituições de ensino superior condições de qualificação adequadas;\n\nf) Princípio do compromisso do Estado, com base em critérios objectivos e transparentes, de financiamento das despesas de funcionamento, indexado a um orçamento de referência através da definição de indicadores de desempenho e valores padrão, a partir de referenciais adequados;\n\ng) Princípio da contratualização entre as instituições de ensino superior e o Estado, no sentido de assegurar a autonomia institucional, incrementando a responsabilidade mútua nas formas de financiamento público;\n\nh) Princípio da justiça, entendido no sentido de que ao Estado e aos estudantes incumbe o dever de participarem nos custos do financiamento do ensino superior público, como contrapartida quer dos benefícios de ordem social quer dos benefícios de ordem individual a auferir futuramente;\n\ni) Princípio da complementaridade, entendido no sentido de que as instituições devem encontrar, no âmbito da sua autonomia financeira, formas adicionais de financiamento, dando lugar a receitas que serão consideradas pelo Estado como receitas próprias das instituições, como tal não afectando o financiamento público."
+  },
+  "107971125": {
+   "fragment_id": "107972046",
+   "type": 1,
+   "heading": "Capítulo II — Do financiamento do ensino superior público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do financiamento do ensino superior público"
+  },
+  "107971126": {
+   "fragment_id": "107972047",
+   "type": 8,
+   "heading": "Secção I — Da relação entre o Estado e as instituições de ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Da relação entre o Estado e as instituições de ensino superior"
+  },
+  "107971127": {
+   "fragment_id": "107972048",
+   "type": 11,
+   "heading": "Artigo 4.º — Orçamento de funcionamento base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Orçamento de funcionamento base\n\n1 - Em cada ano económico, o Estado, pelos montantes fixados na Lei do Orçamento, financia o orçamento de funcionamento base das actividades de ensino e formação das instituições, incluindo as suas unidades orgânicas ou estruturas específicas.\n\n2 - O financiamento a que se refere o número anterior é indexado a um orçamento de referência, com dotações calculadas de acordo com uma fórmula baseada em critérios objectivos de qualidade e excelência, valores padrão e indicadores de desempenho equitativamente definidos para o universo de todas as instituições e tendo em conta os relatórios de avaliação conhecidos para cada curso e instituição.\n\n3 - Da fórmula referida no n.º 2 devem constar os seguintes critérios, valores padrão e indicadores de desempenho:\n\na) A relação padrão pessoal docente/estudante;\n\nb) A relação padrão pessoal docente/pessoal não docente;\n\nc) Incentivos à qualificação do pessoal docente e não docente;\n\nd) Os indicadores de qualidade do pessoal docente de cada instituição;\n\ne) Os indicadores de eficiência pedagógica dos cursos;\n\nf) Os indicadores de eficiência científica dos cursos de mestrado e doutoramento;\n\ng) Os indicadores de eficiência de gestão das instituições;\n\nh) A classificação de mérito resultante da avaliação do curso/instituição;\n\ni) Estrutura orçamental, traduzida na relação entre despesas de pessoal e outras despesas de funcionamento;\n\nj) A classificação de mérito das unidades de investigação.\n\n4 - A fórmula acima referida consta de portaria conjunta dos Ministros das Finanças e da Ciência e do Ensino Superior, bem como as regras necessárias para o seu cálculo e aplicação."
+  },
+  "107971128": {
+   "fragment_id": "107972049",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime de prescrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime de prescrições\n\n1 - O financiamento às instituições de ensino superior público tem em conta o aproveitamento escolar dos seus estudantes.\n\n2 - Para o efeito previsto no número anterior, devem os órgãos competentes de cada instituição ou unidade orgânica definir um regime de prescrições adequado à promoção do mérito dos estudantes.\n\n3 - Na falta de fixação do regime de prescrições por parte das instituições ou unidades orgânicas ou no caso de estas fixarem um regime menos restritivo do que o previsto neste diploma, para efeitos de financiamento público, é aplicável o seguinte regime:\n\na) O direito à inscrição em cada ano ou semestre lectivo dos cursos de bacharelato e licenciatura nas instituições de ensino superior público exerce-se no respeito pelos critérios fixados na tabela anexa ao presente diploma, do qual faz parte integrante;\n\nb) A tabela prevista na alínea anterior estabelece, conforme o modo de organização do curso, o número máximo de inscrições que podem ser efectuadas por um estudante no curso frequentado de um estabelecimento público de ensino superior, considerando-se prescrito o direito à matrícula e inscrição nesse curso no caso de incumprimento dos critérios aplicáveis e o estudante impedido de se candidatar de novo a esse ou outro curso nos dois semestres seguintes.\n\n4 - No caso de o aluno beneficiar do Estatuto do Trabalhador-Estudante, ou no caso de estudante que se encontre em regime de estudo a tempo parcial, bem como em outras situações a regulamentar pelos órgãos de direcção das instituições de ensino superior, para efeito da aplicação da tabela anexa apenas é contabilizado 0,5 por cada inscrição que tenha efectuado nessas condições.\n\n5 - A falta de cumprimento do regime de prescrições aplicável afecta o financiamento público das instituições de ensino superior.\n\n6 - Na falta de fixação do regime de prescrições, por parte das instituições do ensino superior não público, ou no caso de estas fixarem um regime menos restritivo do que o previsto neste diploma, a atribuição de apoio do Estado aos alunos depende do cumprimento dos requisitos previstos nos números anteriores.\n\n7 - As mesmas condições de financiamento previstas nos números anteriores aplicam-se às situações de transferência entre instituições de ensino superior."
+  },
+  "107971129": {
+   "fragment_id": "107972050",
+   "type": 11,
+   "heading": "Artigo 6.º — Programas orçamentais plurianuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Programas orçamentais plurianuais\n\n1 - O Estado financia programas orçamentais das instituições de ensino superior através da celebração de contratos-programa e contratos de desenvolvimento institucional.\n\n2 - Os programas orçamentais, referidos no número anterior, respeitam às seguintes medidas:\n\na) Melhoria da qualidade;\n\nb) Desenvolvimento curricular;\n\nc) Racionalização do sistema;\n\nd) Reforço e manutenção de infra-estruturas e equipamentos;\n\ne) Financiamento complementar de estabelecimentos e organismos com reconhecido impacte histórico, social ou cultural;\n\nf) Modernização da administração e da gestão das instituições;\n\ng) Parcerias entre as instituições de ensino superior, entre estas e as instituições de ensino secundário e entre aquelas e outras entidades públicas ou privadas."
+  },
+  "107971130": {
+   "fragment_id": "107972051",
+   "type": 11,
+   "heading": "Artigo 7.º — Contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contratos-programa\n\n1 - Para a realização de acções respeitantes à prossecução de objectivos concretos, em horizonte temporal inferior a cinco anos, são celebrados contratos-programa com instituições de ensino superior, inscritos na respectiva rubrica do Orçamento do Estado.\n\n2 - As acções referidas no número anterior são, nomeadamente, do seguinte tipo:\n\na) Apoio a programas para a promoção do sucesso escolar;\n\nb) Apoio a programas de formação de pessoal docente e não docente;\n\nc) Apoio a programas de desenvolvimento e utilização da aprendizagem electrónica e a outras acções no âmbito da sociedade da informação;\n\nd) Apoio ao funcionamento de cursos interinstitucionais;\n\ne) Apoio ao lançamento de novos cursos e a cursos em áreas prioritárias para o desenvolvimento do País;\n\nf) Apoio a cursos não conferentes de grau, de especialização pós-secundária ou pós-graduada, de requalificação, de formação ao longo da vida e de reorientação de competências;\n\ng) Apoio ao encerramento de cursos;\n\nh) Acerto das assimetrias entre unidades orgânicas da mesma instituição na contratação e qualificação do corpo docente;\n\ni) Apoio à prestação de serviços especializados à comunidade;\n\nj) Apoio a projectos de investigação de excelência com efeitos estruturantes para as instituições envolvidas e para a região onde se integram;\n\nl) Apoio à criação de novas escolas.\n\n3 - É privilegiada a celebração dos contratos a que se refere o número anterior que sejam susceptíveis de contribuir para os seguintes objectivos:\n\na) O desenvolvimento de áreas estratégicas de excelência;\n\nb) A educação/formação de quadros especializados em áreas prioritárias para o desenvolvimento do País;\n\nc) A correcção de assimetrias de natureza regional;\n\nd) A qualificação da população activa;\n\ne) A formação contínua para actualização profissional de nível superior;\n\nf) O funcionamento de unidades de investigação no âmbito institucional de qualidade da administração do Estado e da modernização empresarial;\n\ng) O desenvolvimento da cooperação com os países de expressão oficial portuguesa;\n\nh) A mobilidade de docentes e discentes.\n\n4 - A celebração de contratos-programa pode ter uma base concorrencial, devendo ser considerados os seguintes factores:\n\na) A qualificação do corpo docente;\n\nb) O aproveitamento escolar dos estudantes;\n\nc) A apresentação de projectos pedagógicos inovadores;\n\nd) A capacidade das instituições em conseguir fontes adicionais de financiamento;\n\ne) A inserção dos diplomados na vida profissional, numa base comparativa das respectivas áreas de formação;\n\nf) A produção científica e artística.\n\n5 - Para a prossecução dos objectivos dos contratos-programa a celebrar entre o Estado e as instituições de ensino superior público, devem estas co-participar com um montante mínimo de 20% do total das despesas elegíveis.\n\n6 - A celebração de contratos que prevejam fontes alternativas de financiamento depende da previsão de instrumentos que garantam a missão, as funções e os valores institucionais, bem como o interesse público do ensino superior, a independência de pensamento e a liberdade de publicação de resultados."
+  },
+  "107971131": {
+   "fragment_id": "107972052",
+   "type": 11,
+   "heading": "Artigo 8.º — Contratos de desenvolvimento institucional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contratos de desenvolvimento institucional\n\n1 - Os programas referentes a áreas de intervenção ou objectivos estratégicos constarão dos planos de desenvolvimento das instituições e serão formalizados mediante a celebração de contratos de desenvolvimento institucional, com um horizonte temporal de médio prazo e uma duração mínima de cinco anos, inscritos na respectiva rubrica do Orçamento do Estado.\n\n2 - Dos contratos de desenvolvimento institucional constam obrigatoriamente:\n\na) Metas anuais quantificadas de natureza pedagógico-científica e administrativo-financeira do desenvolvimento institucional contratualizado;\n\nb) Os investimentos em infra-estruturas, instalações e equipamentos, sejam investimentos novos, seja a reposição das capacidades instaladas, para o período a que respeita o contrato;\n\nc) As plantas das instalações, dos edifícios e terrenos anexos, respectivas memórias descritivas, listas actualizadas dos equipamentos e sua utilização;\n\nd) Referência aos encargos anuais de funcionamento da instituição, nomeadamente os resultantes de custos acrescidos com os investimentos realizados e a conservação e manutenção de imóveis e outras infra-estruturas;\n\ne) Os encargos especiais resultantes de especificidades permanentes ou conjunturais da instituição;\n\nf) Recurso ao mecenato educativo nos termos legalmente previstos;\n\ng) Os mecanismos de acompanhamento, ajustamento e revisão do contrato."
+  },
+  "107971132": {
+   "fragment_id": "107972053",
+   "type": 11,
+   "heading": "Artigo 9.º — Complementaridade do regime contratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Complementaridade do regime contratual\n\n1 - Os contratos de desenvolvimento institucional e os contratos-programa excluem, nos respectivos domínios de aplicação, o regime de financiamento das instituições calculado pela fórmula referida no n.º 2 do artigo 4.º\n\n2 - A necessidade extraordinária de financiamento para permitir o funcionamento das instituições é sujeita a avaliação e, a título excepcional, pode ser celebrado um contrato entre o Estado e a instituição, com fixação obrigatória de objectivos e prazos limite para o cumprimento do programa de recuperação financeira."
+  },
+  "107971133": {
+   "fragment_id": "107972054",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação do sistema de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação do sistema de financiamento\n\nO acompanhamento e a avaliação sistemática e continuada pelo Estado da aplicação dos financiamentos atribuídos às instituições, visando uma maior racionalização na afectação dos recursos financeiros, bem como efectivar a responsabilização institucional, efectua-se através da via inspectiva, do controlo orçamental e da realização periódica de auditorias externas especializadas."
+  },
+  "107971134": {
+   "fragment_id": "107972055",
+   "type": 11,
+   "heading": "Artigo 11.º — Órgão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Órgão de fiscalização\n\nAs instituições de ensino superior disporão de um órgão de fiscalização próprio, de acordo com o legalmente previsto, que será um fiscal único."
+  },
+  "107971135": {
+   "fragment_id": "107972056",
+   "type": 11,
+   "heading": "Artigo 12.º — Prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prestação de contas\n\n1 - A prestação de contas inclui os seguintes documentos:\n\na) Balanço;\n\nb) Demonstração de resultados;\n\nc) Mapas de execução orçamental;\n\nd) Mapas de fluxo de caixa;\n\ne) Mapa da situação financeira;\n\nf) Anexos às demonstrações financeiras;\n\ng) Relatório de gestão;\n\nh) Parecer do órgão de fiscalização (fiscal único), bem como a respectiva certificação legal das contas.\n\n2 - Os documentos referidos no número anterior são assinados pelo órgão legal ou estatutariamente competente para a sua apresentação.\n\n3 - Os documentos deverão ser apresentados:\n\na) Ao órgão legal ou estatutariamente competente para a sua aprovação;\n\nb) À reitoria ou aos serviços centrais das instituições de ensino superior, no caso das unidades orgânicas, estabelecimentos, serviços de acção social, fundações, associações e as demais entidades em que se verifiquem as condições de controlo;\n\nc) Às entidades a quem devam legalmente ser apresentados ou que tenham competência para os exigir."
+  },
+  "107971136": {
+   "fragment_id": "107972057",
+   "type": 11,
+   "heading": "Artigo 13.º — Prestação de contas consolidadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prestação de contas consolidadas\n\n1 - Sem prejuízo do artigo anterior, as instituições de ensino superior deverão proceder à consolidação de contas, integrando as unidades orgânicas, reitorias, quando aplicável, estabelecimentos, serviços de acção social, fundações e demais entidades em que se verifiquem as condições de controlo.\n\n2 - São documentos de prestação de contas consolidadas:\n\na) Relatório de gestão consolidado;\n\nb) Balanço consolidado;\n\nc) Demonstração de resultados por natureza consolidados;\n\nd) Anexos às demonstrações financeiras consolidados.\n\n3 - As contas consolidadas deverão ser objecto de certificação legal de contas."
+  },
+  "107971137": {
+   "fragment_id": "107972058",
+   "type": 11,
+   "heading": "Artigo 14.º — Publicitação das contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Publicitação das contas\n\nOs documentos anuais referidos no artigo anterior serão obrigatoriamente publicados no Diário da República até 60 dias após a sua aprovação."
+  },
+  "107971138": {
+   "fragment_id": "107972059",
+   "type": 8,
+   "heading": "Secção II — Da relação entre o estudante e a instituição de ensino superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da relação entre o estudante e a instituição de ensino superior"
+  },
+  "107971139": {
+   "fragment_id": "107972060",
+   "type": 11,
+   "heading": "Artigo 15.º — Conteúdo da relação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conteúdo da relação\n\n1 - As instituições de ensino superior prestam um serviço de ensino que deve ser qualitativamente exigente e ajustado aos objectivos que determinaram a sua procura pelos estudantes, os quais devem demonstrar mérito na sua frequência e comparticipar nos respectivos custos.\n\n2 - Sem prejuízo da responsabilidade do Estado, devem as verbas resultantes da comparticipação nos custos por parte dos estudantes reverter para o acréscimo de qualidade no sistema, medido através dos indicadores de desempenho e valores padrão referidos no n.º 3 do artigo 4.º"
+  },
+  "107971140": {
+   "fragment_id": "107972061",
+   "type": 11,
+   "heading": "Artigo 16.º — Propinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Propinas\n\n1 - A comparticipação a que se refere o artigo anterior consiste no pagamento pelos estudantes às instituições onde estão matriculados de uma taxa de frequência, designada por propina.\n\n2 - O valor da propina é anualmente fixado em função da natureza dos cursos e da sua qualidade, com um valor mínimo correspondente a 1,3 do salário mínimo nacional, em vigor no início do ano lectivo, e um valor máximo que não poderá ser superior ao valor fixado no n.º 2 do artigo 1.º da tabela anexa ao Decreto-Lei n.º 31658, de 21 de Novembro de 1941, actualizada, para o ano civil anterior, através da aplicação do índice de preços no consumidor do Instituto Nacional de Estatística.\n\n3 - O montante das propinas nas pós-graduações é fixado pelas instituições ou respectivas unidades orgânicas.\n\n4 - Sem prejuízo do disposto no artigo 35.º, os estudantes a quem se aplique o estatuto do estudante internacional, aprovado por decreto-lei, não abrangidos pelo regime geral de acesso, por acordos internacionais ou por regimes de apoio a estudantes luso-descendentes, pagam uma propina correspondente ao custo real médio da formação a adquirir."
+  },
+  "107971141": {
+   "fragment_id": "107972062",
+   "type": 11,
+   "heading": "Artigo 17.º — Fixação das propinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fixação das propinas\n\nA competência para a fixação das propinas cabe:\n\na) Nas universidades, aos senados, sob proposta do reitor, excepto para as unidades orgânicas com autonomia administrativa e financeira;\n\nb) Nos institutos politécnicos, aos conselhos gerais, sob proposta do presidente, excepto para as unidades orgânicas com autonomia administrativa e financeira;\n\nc) Nos estabelecimentos de ensino superior não integrados e nas unidades orgânicas com autonomia administrativa e financeira, ao respectivo órgão directivo."
+  },
+  "107971142": {
+   "fragment_id": "107972063",
+   "type": 8,
+   "heading": "Secção III — Da relação entre o Estado e o estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Da relação entre o Estado e o estudante"
+  },
+  "107971143": {
+   "fragment_id": "107972064",
+   "type": 3,
+   "heading": "Subsecção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Disposições gerais"
+  },
+  "107971144": {
+   "fragment_id": "107972065",
+   "type": 11,
+   "heading": "Artigo 18.º — Compromisso do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Compromisso do Estado\n\n1 - O Estado, na sua relação com os estudantes, compromete-se a garantir a existência de um sistema de acção social que permita o acesso ao ensino superior e a frequência das suas instituições a todos os estudantes.\n\n2 - A acção social garante que nenhum estudante será excluído do subsistema do ensino superior por incapacidade financeira."
+  },
+  "107971145": {
+   "fragment_id": "107972066",
+   "type": 11,
+   "heading": "Artigo 19.º — Objectivos e meios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Objectivos e meios\n\n1 - O Estado garante o direito à educação e ao ensino nas melhores condições possíveis, nos limites das disponibilidades orçamentais, contribuindo assim para a formação de quadros qualificados e para a promoção do desenvolvimento do País.\n\n2 - Em cumprimento destes fins, o Estado investirá na acção social escolar e nos apoios educativos, consolidando e expandindo as infra-estruturas físicas, nomeadamente privilegiando a construção de residências e de cantinas.\n\n3 - O financiamento dos serviços de acção social nas instituições de ensino superior é fixado por decreto-lei, através de uma fórmula calculada com base em critérios de equidade, eficiência e bom desempenho."
+  },
+  "107971146": {
+   "fragment_id": "107972067",
+   "type": 11,
+   "heading": "Artigo 20.º — Acção social escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Acção social escolar\n\n1 - No âmbito do sistema de acção social escolar, o Estado concede apoios directos e indirectos geridos de forma flexível e descentralizada.\n\n2 - O apoio social directo efectua-se através da concessão de bolsas de estudos.\n\n3 - O apoio social indirecto pode ser prestado para:\n\na) Acesso à alimentação e ao alojamento;\n\nb) Acesso a serviços de saúde;\n\nc) Apoio a actividades culturais e desportivas;\n\nd) Acesso a outros apoios educativos.\n\n4 - Devem ser considerados apoios específicos a conceder a estudantes portadores de deficiência.\n\n5 - Podem ser considerados apoios específicos a conceder a estudantes deslocados de e para as Regiões Autónomas."
+  },
+  "107971147": {
+   "fragment_id": "107972068",
+   "type": 11,
+   "heading": "Artigo 21.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Controlo\n\n1 - O sistema de controlo das verbas atribuídas ou a atribuir através da acção social integra o decreto-lei referido no n.º 3 do artigo 19.º, podendo incluir métodos documentais ou inspectivos, nomeadamente para detectar sinais exteriores de riqueza, de molde a possibilitar a obtenção dos meios de prova necessários à garantia de que os recursos afectados ou a afectar beneficiarão efectivamente os mais carenciados.\n\n2 - O sistema de controlo referido no número anterior é inspeccionado conjuntamente pelos serviços dos Ministérios das Finanças, da Segurança Social e do Trabalho e da Ciência e do Ensino Superior, nos termos de protocolo a assinar pelos membros do Governo competentes."
+  },
+  "107971148": {
+   "fragment_id": "107972069",
+   "type": 3,
+   "heading": "Subsecção II — Apoios sociais directos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Apoios sociais directos"
+  },
+  "107971149": {
+   "fragment_id": "107972070",
+   "type": 11,
+   "heading": "Artigo 22.º — Bolsas de estudo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Bolsas de estudo\n\n1 - Beneficiam da atribuição de bolsas de estudo os estudantes economicamente carenciados que demonstrem mérito, dedicação e aproveitamento escolar, visando assim contribuir para custear, entre outras, as despesas de alojamento, alimentação, transporte, material escolar e propina.\n\n2 - São atribuídas bolsas de estudo por mérito a estudantes com aproveitamento escolar excepcional.\n\n3 - As bolsas referidas nos números anteriores são concedidas anualmente e suportadas na íntegra pelo Estado a fundo perdido.\n\n4 - Os critérios e as formas para determinar os montantes e as modalidades dos apoios sociais e educativos são fixados no decreto-lei referido no n.º 3 do artigo 19.º"
+  },
+  "107971150": {
+   "fragment_id": "107972071",
+   "type": 11,
+   "heading": "Artigo 23.º — Declaração de honra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Declaração de honra\n\nNo processo de candidatura para atribuição da bolsa de estudo a que se refere o n.º 1 do artigo anterior, o estudante subscreverá uma declaração de honra, de modelo a aprovar pelo Governo, na qual, para além dos dados respeitantes à identificação pessoal, residência, situação escolar e composição do agregado familiar, atestará, entre outros elementos, qual a actividade ou actividades de cujo exercício resultou a percepção de rendimentos por parte do respectivo agregado familiar, bem como o montante em que os mesmos se cifram, e se disponibilizará para produzir a correspondente prova logo que para tal solicitado."
+  },
+  "107971151": {
+   "fragment_id": "107972072",
+   "type": 3,
+   "heading": "Subsecção III — Apoios sociais indirectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Apoios sociais indirectos"
+  },
+  "107971152": {
+   "fragment_id": "107972073",
+   "type": 11,
+   "heading": "Artigo 24.º — Acesso à alimentação e ao alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Acesso à alimentação e ao alojamento\n\n1 - Os estudantes têm acesso a um serviço de refeições a prestar através de diferentes tipos de unidades de restauração.\n\n2 - Os estudantes deslocados, com prioridade para os economicamente carenciados, têm ainda acesso a alojamento em residências ou a apoios específicos para esse fim.\n\n3 - Os serviços a que se referem os números anteriores são subsidiados de acordo com a fórmula a definir por portaria conjunta dos Ministros das Finanças e da Ciência e do Ensino Superior."
+  },
+  "107971153": {
+   "fragment_id": "107972074",
+   "type": 11,
+   "heading": "Artigo 25.º — Acesso a serviços de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Acesso a serviços de saúde\n\nOs estudantes têm acesso a serviços de saúde, sendo disponibilizado o apoio em áreas específicas como as de diagnóstico e prevenção e o acompanhamento psicopedagógico, no quadro de protocolos celebrados entre as instituições de ensino superior e as estruturas da saúde, nos termos a regular."
+  },
+  "107971154": {
+   "fragment_id": "107985075",
+   "type": 11,
+   "heading": "Artigo 26.º — Apoio a actividades culturais e desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Apoio a actividades culturais e desportivas\n\nO apoio às actividades culturais e desportivas deve abranger a criação de infra-estruturas, a aquisição de equipamentos desportivos e culturais e o apoio ao respectivo funcionamento, de acordo com o plano de desenvolvimento das instituições."
+  },
+  "107971155": {
+   "fragment_id": "107985076",
+   "type": 11,
+   "heading": "Artigo 27.º — Acesso a outros apoios educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Acesso a outros apoios educativos\n\nSerá assegurado aos estudantes o acesso a serviços de informação, reprografia, apoio bibliográfico e material escolar, em condições favoráveis de preço."
+  },
+  "107971156": {
+   "fragment_id": "107985077",
+   "type": 3,
+   "heading": "Subsecção IV — Empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Empréstimos"
+  },
+  "107971157": {
+   "fragment_id": "107985078",
+   "type": 11,
+   "heading": "Artigo 28.º — Empréstimos para autonomização do estudante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Empréstimos para autonomização do estudante\n\n1 - Com o objectivo de possibilitar ao estudante a sua autonomização financeira, o Estado apoiará sistemas de empréstimos que tenham em consideração parâmetros e normas, em termos a regular.\n\n2 - O sistema referido no número anterior privilegiará os estudantes deslocados considerados com mais dificuldades no plano económico e com aproveitamento escolar satisfatório, independentemente da instituição ou curso frequentado.\n\n3 - O valor do empréstimo dependerá da avaliação da situação específica do estudante, atendendo, designadamente, à sua situação económica, ao valor da propina do curso frequentado, às despesas necessárias ao cumprimento dos programas curriculares e à distância entre o local da sua residência habitual e o local onde se situa o estabelecimento de ensino frequentado.\n\n4 - Os empréstimos a que se refere o presente artigo serão também atribuídos aos estudantes de pós-graduação, em termos a regulamentar."
+  },
+  "107971158": {
+   "fragment_id": "107985079",
+   "type": 3,
+   "heading": "Subsecção V — Do incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção V — Do incumprimento"
+  },
+  "107971159": {
+   "fragment_id": "107985080",
+   "type": 11,
+   "heading": "Artigo 29.º — Consequência do não pagamento da propina",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Consequência do não pagamento da propina\n\nO não pagamento da propina devida nos termos do artigo 16.º implica:\n\na) A nulidade de todos os actos curriculares praticados no ano lectivo a que o incumprimento da obrigação se reporta;\n\nb) Suspensão da matrícula e da inscrição anual, com a privação do direito de acesso aos apoios sociais até à regularização dos débitos, acrescidos dos respectivos juros, no mesmo ano lectivo em que ocorreu o incumprimento da obrigação.\n\n> Nota: [Artigo 3.º, Lei n.º 42/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/lei/42-2019-122627507) A presente lei entra em vigor com o Orçamento do Estado subsequente à sua publicação."
+  },
+  "107971160": {
+   "fragment_id": "107985081",
+   "type": 11,
+   "heading": "Artigo 30.º — Sanções administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sanções administrativas\n\nSem prejuízo de punição a título de crime, o estudante que preencher com fraude a declaração de honra prevista no artigo 23.º ou proceder de maneira fraudulenta com vista a obter qualquer forma de apoio de acção social escolar ou educativo incorre nas seguintes sanções administrativas:\n\na) Nulidade de todos os actos curriculares praticados no ano lectivo a que respeita tal comportamento;\n\nb) Anulação da matrícula e da inscrição anual e privação do direito de efectuar nova matrícula na mesma ou noutra instituição de ensino superior por um período de um a dois anos;\n\nc) Privação do direito de acesso aos apoios da acção social escolar e ao empréstimo previsto na presente lei por um período de um a dois anos."
+  },
+  "107971161": {
+   "fragment_id": "107985082",
+   "type": 11,
+   "heading": "Artigo 31.º — Reposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Reposição\n\nOs infractores são obrigados a repor as verbas indevidamente recebidas, acrescidas de juros de mora calculados à taxa legal em vigor."
+  },
+  "107971162": {
+   "fragment_id": "107985083",
+   "type": 1,
+   "heading": "Capítulo III — Do financiamento do ensino superior não público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do financiamento do ensino superior não público"
+  },
+  "107971163": {
+   "fragment_id": "107985084",
+   "type": 11,
+   "heading": "Artigo 32.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Financiamento\n\n1 - No âmbito das atribuições que lhe cabem relativamente aos estabelecimentos do ensino superior não público, o Estado poderá conceder, por contrato:\n\na) Apoio na acção social aos estudantes;\n\nb) Apoio a projectos de grande qualidade que ministrem cursos considerados de relevância social em áreas entendidas como prioritárias;\n\nc) Apoio na formação de docentes;\n\nd) Incentivos ao investimento;\n\ne) Apoios à investigação;\n\nf) Bolsas de mérito aos estudantes com aproveitamento escolar excepcional;\n\ng) Outros apoios inseridos em regimes contratuais.\n\n2 - O Governo regulará os termos e condições de concessão dos apoios e da celebração dos contratos referidos no número anterior.\n\n3 - Não podem ser celebrados contratos com os estabelecimentos de ensino superior não público que não cumpram os critérios objectivos de qualidade e excelência, valores padrão e indicadores de desempenho equitativamente definidos para todas as instituições de ensino superior."
+  },
+  "107971164": {
+   "fragment_id": "107985085",
+   "type": 11,
+   "heading": "Artigo 33.º — Acção social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Acção social\n\n1 - O Estado, através de um sistema de acção social do ensino superior, assegura o direito à igualdade de oportunidades de acesso, frequência e sucesso escolar, pela superação de desigualdades económicas, sociais e culturais.\n\n2 - O sistema de acção social inclui as seguintes medidas:\n\na) Bolsas de estudo;\n\nb) Acesso à alimentação e alojamento;\n\nc) Acesso a serviços de saúde;\n\nd) Apoio a actividades culturais e desportivas;\n\ne) Acesso a outros apoios educativos.\n\n3 - A extensão aos estudantes do ensino superior particular e cooperativo e de direito concordatário do disposto na presente lei em matéria de acção social escolar e empréstimos é efectuada por decreto-lei."
+  },
+  "107971165": {
+   "fragment_id": "107985086",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "107971166": {
+   "fragment_id": "107985087",
+   "type": 11,
+   "heading": "Artigo 34.º — Exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Exclusão\n\nO disposto na presente lei não se aplica às instituições de ensino superior sujeitas à dupla tutela:\n\na) Dos Ministérios da Defesa Nacional e da Ciência e do Ensino Superior;\n\nb) Dos Ministérios da Administração Interna e da Ciência e do Ensino Superior;\n\nc) Dos Ministérios da Economia e da Ciência e do Ensino Superior."
+  },
+  "107971167": {
+   "fragment_id": "107985088",
+   "type": 11,
+   "heading": "Artigo 35.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Situações especiais\n\n1 - A aplicação do disposto na presente lei faz-se sem prejuízo da observância dos compromissos internacionalmente assumidos pelo Estado Português, bem como da concessão, para efeitos do pagamento da propina, de apoio específico aos estudantes destinatários das normas constantes do:\n\na) Decreto-Lei n.º 358/70, de 29 de Julho, e legislação complementar;\n\nb) Artigo 2.º do Decreto-Lei n.º 524/73, de 13 de Outubro;\n\nc) N.º 6 do artigo 14.º do Decreto-Lei n.º 43/76, de 20 de Janeiro;\n\nd) Artigo 9.º da Lei n.º 21/87, de 20 de Junho, e artigos 17.º e 19.º do Decreto-Lei n.º 241/89, de 3 de Agosto;\n\ne) Artigo 4.º do Decreto-Lei n.º 216/92, de 13 de Outubro.\n\n2 - O apoio referido no número anterior consiste:\n\na) Nos casos das alíneas a), c) e d), na atribuição de um subsídio de montante igual ao da propina exigível, sendo os correspondentes encargos suportados por verbas inscritas no orçamento dos respectivos departamentos governamentais;\n\nb) Nos casos das alíneas b) e e), na atribuição às instituições de ensino superior da adequada comparticipação financeira, sendo os correspondentes encargos suportados por verbas inscritas no orçamento do Ministério da Educação."
+  },
+  "107971168": {
+   "fragment_id": "107985089",
+   "type": 11,
+   "heading": "Artigo 36.º — Regime de prescrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Regime de prescrições\n\nO regime previsto no artigo 5.º começa a ser aplicado no ano lectivo seguinte ao da entrada em vigor da presente lei, não sendo consideradas as inscrições relativas aos anos lectivos anteriores."
+  },
+  "107971169": {
+   "fragment_id": "107985090",
+   "type": 11,
+   "heading": "Artigo 37.º — Universidade Aberta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Universidade Aberta\n\nPara a Universidade Aberta será definido um regime específico de financiamento das despesas de funcionamento, sendo-lhe inaplicável a presente lei, com excepção do disposto nos artigos 6.º a 14.º"
+  },
+  "107971170": {
+   "fragment_id": "107985091",
+   "type": 11,
+   "heading": "Artigo 38.º — Propinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Propinas\n\nAté à sua fixação, pelos órgãos competentes, o valor das propinas a cobrar no próximo ano lectivo é correspondente ao limite mínimo fixado no n.º 2 do artigo 16.º, sendo alterado para o valor que entretanto vier a ser fixado."
+  },
+  "107971171": {
+   "fragment_id": "107985092",
+   "type": 11,
+   "heading": "Artigo 39.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Norma revogatória\n\nSão revogadas a Lei n.º 113/97, de 16 de Setembro, e respectiva legislação complementar, e a alínea b) do n.º 1 do artigo 1.º do Decreto-Lei n.º 170/96, de 19 de Setembro."
+  },
+  "107985712": {
+   "fragment_id": "107972061",
+   "type": 11,
+   "heading": "Artigo 16.º — Propinas",
+   "in_force_from": "2005-09-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), em vigor a partir de 2005-09-04"
+   ],
+   "markdown": "###### Artigo 16.º — Propinas\n\n1 - A comparticipação a que se refere o artigo anterior consiste no pagamento pelos estudantes às instituições onde estão matriculados de uma taxa de frequência, designada por propina.\n\n2 - O valor da propina é fixado em função da natureza dos cursos e da sua qualidade, com um valor mínimo correspondente a 1,3 do salário mínimo nacional em vigor e um valor máximo que não poderá ser superior ao valor fixado no n.º 2 do artigo 1.º da tabela anexa ao Decreto-Lei n.º 31658, de 21 de Novembro de 1941, actualizada, para o ano civil anterior, através da aplicação do índice de preços no consumidor do Instituto Nacional de Estatística.\n\n3 - O valor da propina devida pela inscrição no ciclo de estudos conducente ao grau de mestre organizado nos termos do n.º 7 do artigo 13.º-A da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), é fixado nos termos do número anterior.\n\n4 - O valor da propina devida pela inscrição no ciclo de estudos conducente ao grau de mestre nos restantes casos é fixado pelos órgãos a que se refere o artigo 17.º, nos termos a definir pelo Governo.\n\n5 - O valor da propina devida pela inscrição no ciclo de estudos conducente ao grau de doutor é fixado pelos órgãos a que se referem as alíneas a) e c) do artigo 17.º\n\n6 - O valor da propina devida pela inscrição nos restantes programas de estudos é fixado pelos órgãos a que se refere o artigo 17.º\n\n7 - Sem prejuízo do disposto no artigo 35.º, os estudantes a quem se aplique o estatuto do estudante internacional, aprovado por decreto-lei, não abrangidos pelo regime geral de acesso, por acordos internacionais ou por regimes de apoio a estudantes luso-descendentes, pagam uma propina correspondente ao custo real médio da formação a adquirir.\n\n8 - Sempre que as universidades, os institutos politécnicos e os estabelecimentos de ensino superior não integrados e as respectivas unidades orgânicas com autonomia administrativa e financeira não fixem em determinado ano o valor das propinas, o respectivo montante é actualizado nos termos do n.º 2.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), em vigor a partir de 2005-09-04"
+  },
+  "107971172": {
+   "fragment_id": "107985093",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 15 de Julho de 2003.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 31 de Julho de 2003.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 8 de Agosto de 2003.\n\nO Primeiro-Ministro, José Manuel Durão Barroso.\n\nTABELA ANEXA\n\n(ver tabela no documento original)"
+  },
+  "107985714": {
+   "fragment_id": "107972062",
+   "type": 11,
+   "heading": "Artigo 17.º — Fixação das propinas",
+   "in_force_from": "2007-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-10"
+   ],
+   "markdown": "###### Artigo 17.º — Fixação das propinas\n\nA competência para a fixação das propinas cabe:\n\na) Nas universidades, aos senados, sob proposta do reitor, excepto para as unidades orgânicas com autonomia administrativa e financeira;\n\nb) Nos institutos politécnicos, aos conselhos gerais, sob proposta do presidente, excepto para as unidades orgânicas com autonomia administrativa e financeira;\n\nc) Nos estabelecimentos de ensino superior não integrados e nas unidades orgânicas com autonomia administrativa e financeira, ao respectivo órgão directivo.\n\n> Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-10"
+  },
+  "107985715": {
+   "fragment_id": "107972061",
+   "type": 11,
+   "heading": "Artigo 16.º — Propinas",
+   "in_force_from": "2017-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 68/2017 - Diário da República n.º 153/2017, Série I de 2017-08-09](https://diariodarepublica.pt/dr/detalhe/lei/68-2017-107981651), em vigor a partir de 2017-09-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), em vigor a partir de 2005-09-04"
+   ],
+   "markdown": "###### Artigo 16.º — Propinas\n\n1 - A comparticipação a que se refere o artigo anterior consiste no pagamento pelos estudantes às instituições onde estão matriculados de uma taxa de frequência, designada por propina.\n\n2 - O valor da propina é fixado em função da natureza dos cursos e da sua qualidade, com um valor mínimo correspondente a 1,3 do salário mínimo nacional em vigor e um valor máximo que não poderá ser superior ao valor fixado no n.º 2 do artigo 1.º da tabela anexa ao Decreto-Lei n.º 31658, de 21 de Novembro de 1941, actualizada, para o ano civil anterior, através da aplicação do índice de preços no consumidor do Instituto Nacional de Estatística.\n\n3 - O valor da propina devida pela inscrição no ciclo de estudos conducente ao grau de mestre organizado nos termos do n.º 7 do artigo 13.º-A da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), é fixado nos termos do número anterior.\n\n4 - O valor da propina devida pela inscrição no ciclo de estudos conducente ao grau de mestre nos restantes casos é fixado pelos órgãos a que se refere o artigo 17.º, nos termos a definir pelo Governo.\n\n5 - O valor da propina devida pela inscrição no ciclo de estudos conducente ao grau de doutor é fixado pelos órgãos a que se referem as alíneas a) e c) do artigo 17.º\n\n6 - O valor da propina devida pela inscrição nos restantes programas de estudos é fixado pelos órgãos a que se refere o artigo 17.º\n\n7 - Sem prejuízo do disposto no artigo 35.º, os estudantes a quem se aplique o estatuto do estudante internacional, aprovado por decreto-lei, não abrangidos pelo regime geral de acesso, por acordos internacionais ou por regimes de apoio a estudantes luso-descendentes, pagam uma propina correspondente ao custo real médio da formação a adquirir.\n\n8 - Sempre que as universidades, os institutos politécnicos e os estabelecimentos de ensino superior não integrados e as respectivas unidades orgânicas com autonomia administrativa e financeira não fixem em determinado ano o valor das propinas, o respectivo montante é actualizado nos termos do n.º 2.\n\n9 - A propina devida pela frequência de ciclo de estudos conducente ao grau de licenciado, bem como de ciclo de estudos conducente ao grau de mestre organizado nos termos do n.º 7 do artigo 13.º-A da Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, e alterada pelas Leis n.os 115/97, de 19 de setembro, 49/2005, de 30 de agosto, e 85/2009, de 27 de agosto, é objeto de pagamento em, pelo menos, sete prestações mensais, a contar do ato da matrícula, sem prejuízo da criação de outras modalidades de pagamento, total ou parcial, pelas instituições.\n\n10 - O pagamento de propinas pelos beneficiários de bolsas de ação social apenas pode ter lugar após o início do efetivo pagamento das bolsas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 68/2017 - Diário da República n.º 153/2017, Série I de 2017-08-09](https://diariodarepublica.pt/dr/detalhe/lei/68-2017-107981651), em vigor a partir de 2017-09-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2005 - Diário da República n.º 166/2005, Série I-A de 2005-08-30](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), em vigor a partir de 2005-09-04"
+  },
+  "122652437": {
+   "fragment_id": "107985080",
+   "type": 11,
+   "heading": "Artigo 29.º — Consequência do não pagamento da propina",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 42/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/lei/42-2019-122627507)"
+   ],
+   "markdown": "###### Artigo 29.º — Consequência do não pagamento da propina\n\n1 - O não pagamento da propina, prevista no artigo 16.º, tem como única consequência o não reconhecimento dos atos académicos realizados no período a que a obrigação se reporta.\n\n2 - A consequência prevista no número anterior cessa automaticamente com o cumprimento da obrigação.\n\n> Nota: [Artigo 3.º, Lei n.º 42/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/lei/42-2019-122627507) A presente lei entra em vigor com o Orçamento do Estado subsequente à sua publicação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 42/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/lei/42-2019-122627507)"
+  },
+  "124413382": {
+   "fragment_id": "124392182",
+   "type": 11,
+   "heading": "Artigo 29.º-A — Plano de regularização de dívidas por propinas em atraso",
+   "in_force_from": "2019-09-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 75/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/75-2019-124346826), em vigor a partir de 2019-09-03"
+   ],
+   "markdown": "###### Artigo 29.º-A — Plano de regularização de dívidas por propinas em atraso\n\n1 - As instituições de ensino superior públicas devem ter planos de regularização destinados a alunos com propinas em atraso, matriculados e inscritos em ciclo de estudos conferente de grau ou em curso técnico superior profissional.\n\n2 - Os alunos abrangidos pelo número anterior devem manifestar o interesse em aderir ao plano de regularização de dívidas junto da instituição de ensino superior pública.\n\n3 - A adesão ao plano depende de acordo livre e esclarecido celebrado entre o aluno e a instituição de ensino superior pública, no qual se determine o plano de pagamentos definido, e implica consequentemente a suspensão dos juros de mora que se vençam após a apresentação do pedido, bem como permite o acesso do aluno a todos os serviços da instituição de ensino superior pública, nomeadamente emissão de diploma ou certidão de conclusão ou qualquer documento informativo do seu percurso académico.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 75/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/75-2019-124346826), em vigor a partir de 2019-09-03"
+  },
+  "124413383": {
+   "fragment_id": "107985081",
+   "type": 11,
+   "heading": "Artigo 30.º — Sanções administrativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Sanções administrativas\n\nSem prejuízo de punição a título de crime, o estudante que preencher com fraude a declaração de honra prevista no artigo 23.º ou proceder de maneira fraudulenta com vista a obter qualquer forma de apoio de acção social escolar ou educativo incorre nas seguintes sanções administrativas:\n\na) Nulidade de todos os actos curriculares praticados no ano lectivo a que respeita tal comportamento;\n\nb) Anulação da matrícula e da inscrição anual e privação do direito de efectuar nova matrícula na mesma ou noutra instituição de ensino superior por um período de um a dois anos;\n\nc) Privação do direito de acesso aos apoios da acção social escolar e ao empréstimo previsto na presente lei por um período de um a dois anos."
+  },
+  "124413384": {
+   "fragment_id": "107985082",
+   "type": 11,
+   "heading": "Artigo 31.º — Reposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Reposição\n\nOs infractores são obrigados a repor as verbas indevidamente recebidas, acrescidas de juros de mora calculados à taxa legal em vigor."
+  },
+  "1149600875": {
+   "fragment_id": "1149600775",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Bolsas de estudo de mérito",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 32/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/lei/32-2026-1149265695), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 16.º-A — Bolsas de estudo de mérito\n\nAs instituições de ensino superior podem atribuir bolsas de estudo de mérito a estudantes com aproveitamento escolar excecional.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 32/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/lei/32-2026-1149265695), em vigor a partir de 2026-08-01."
+  },
+  "1149601075": {
+   "fragment_id": "107972062",
+   "type": 11,
+   "heading": "Artigo 17.º — Fixação das propinas",
+   "in_force_from": "2007-10-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-10"
+   ],
+   "markdown": "###### Artigo 17.º — Fixação das propinas\n\nA competência para a fixação das propinas cabe:\n\na) Nas universidades, aos senados, sob proposta do reitor, excepto para as unidades orgânicas com autonomia administrativa e financeira;\n\nb) Nos institutos politécnicos, aos conselhos gerais, sob proposta do presidente, excepto para as unidades orgânicas com autonomia administrativa e financeira;\n\nc) Nos estabelecimentos de ensino superior não integrados e nas unidades orgânicas com autonomia administrativa e financeira, ao respectivo órgão directivo.\n\n> Revogado pelo/a Artigo 182.º do/a [Lei n.º 62/2007 - Diário da República n.º 174/2007, Série I de 2007-09-10](https://diariodarepublica.pt/dr/detalhe/lei/62-2007-640339), em vigor a partir de 2007-10-10"
+  },
+  "1149600375": {
+   "fragment_id": "107972070",
+   "type": 11,
+   "heading": "Artigo 22.º — Bolsas de estudo",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 32/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/lei/32-2026-1149265695), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 22.º — Bolsas de estudo\n\n1 - Beneficiam da atribuição de bolsas de estudo os estudantes economicamente carenciados que demonstrem mérito, dedicação e aproveitamento escolar, visando assim contribuir para custear, entre outras, as despesas de alojamento, alimentação, transporte, material escolar e propina.\n\n2 - [Revogado.]\n\n3 - As bolsas referidas no n.º 1 são concedidas anualmente e suportadas na íntegra pelo Estado a fundo perdido.\n\n4 - Os critérios e as formas para determinar os montantes e as modalidades dos apoios sociais e educativos são fixados no decreto-lei referido no n.º 3 do artigo 19.º\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 32/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/lei/32-2026-1149265695), em vigor a partir de 2026-08-01."
+  },
+  "1149601175": {
+   "fragment_id": "107985084",
+   "type": 11,
+   "heading": "Artigo 32.º — Financiamento",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 32/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/lei/32-2026-1149265695), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 32.º — Financiamento\n\n1 - No âmbito das atribuições que lhe cabem relativamente aos estabelecimentos do ensino superior não público, o Estado poderá conceder, por contrato:\n\na) Apoio na acção social aos estudantes;\n\nb) Apoio a projectos de grande qualidade que ministrem cursos considerados de relevância social em áreas entendidas como prioritárias;\n\nc) Apoio na formação de docentes;\n\nd) Incentivos ao investimento;\n\ne) Apoios à investigação;\n\nf) [Revogada.]\n\ng) Outros apoios inseridos em regimes contratuais.\n\n2 - O Governo regulará os termos e condições de concessão dos apoios e da celebração dos contratos referidos no número anterior.\n\n3 - Não podem ser celebrados contratos com os estabelecimentos de ensino superior não público que não cumpram os critérios objectivos de qualidade e excelência, valores padrão e indicadores de desempenho equitativamente definidos para todas as instituições de ensino superior.\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 32/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/lei/32-2026-1149265695), em vigor a partir de 2026-08-01."
+  }
+ }
+}

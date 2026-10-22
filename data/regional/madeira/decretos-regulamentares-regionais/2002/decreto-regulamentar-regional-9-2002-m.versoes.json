@@ -1,0 +1,688 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139429:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2002-864227331",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/9-2002-139429",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "864384427",
+    "864228006",
+    "864228007",
+    "864228008",
+    "864228009",
+    "864228010",
+    "864228011",
+    "864228012",
+    "864228013",
+    "864228014",
+    "864228015",
+    "864228016",
+    "864228017",
+    "864228018",
+    "864228019",
+    "864228020",
+    "864228021",
+    "864228022",
+    "864228023",
+    "864228024",
+    "864228025",
+    "864228027"
+   ]
+  },
+  {
+   "date": "2007-02-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:518019:por",
+     "title": "Decreto Regulamentar Regional n.º 4/2007/M",
+     "published": "2007-02-15",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/4-2007-518019"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "864228005",
+    "864228006",
+    "864228007",
+    "864228008",
+    "864384414",
+    "864384415",
+    "864228011",
+    "864384416",
+    "864384425",
+    "864384417",
+    "864384418",
+    "864384419",
+    "864384420",
+    "864384421",
+    "864384422",
+    "864228020",
+    "864384423",
+    "864228022",
+    "864384424",
+    "864384426",
+    "864228025",
+    "864228026",
+    "864228027"
+   ]
+  },
+  {
+   "date": "2008-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:449948:por",
+     "title": "Decreto Legislativo Regional n.º 22/2008/M",
+     "published": "2008-06-23",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/22-2008-449948"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "864384427",
+    "864384428",
+    "864384429",
+    "864384430",
+    "864384431",
+    "864384432",
+    "864384433",
+    "864384434",
+    "864384435",
+    "864384436",
+    "864384437",
+    "864384438",
+    "864384439",
+    "864384440",
+    "864384441",
+    "864384442",
+    "864384443",
+    "864384444",
+    "864384445",
+    "864384446",
+    "864384447",
+    "864384448",
+    "864384449"
+   ]
+  }
+ ],
+ "fragments": {
+  "864384427": {
+   "fragment_id": "864227332",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2008-06-30",
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 9/2002/M\n\nCria o Serviço Regional de Prevenção da Toxicodependência\n\nO problema do consumo de drogas e a toxicodependência exigem um acompanhamento muito atento e contínuo, criando-se e reformulando-se medidas, estruturas e instrumentos adequados às variações do fenómeno e do conhecimento, nomeadamente do conhecimento científico.\n\nNeste contexto, a Região Autónoma da Madeira, decidiu definir a estratégia de prevenção no Plano Regional de Luta contra a Droga e a Toxicodependência, aprovado pela Resolução do Conselho de Governo Regional n.º 1744/2001, de 13 de Dezembro.\n\nConsidera-se importante, neste momento, criar um novo serviço denominado Serviço Regional de Prevenção da Toxicodependência, na directa dependência da Secretaria Regional dos Assuntos Sociais, assumida a necessidade de criação de uma orgânica mais estruturada, porém, de coordenação simples e flexível.\n\nPorque a abordagem do fenómeno exige um trabalho abrangente, este Serviço fará uma articulação com todos os órgãos e serviços da Secretaria Regional dos Assuntos Sociais, bem como com todos os organismos e departamentos do Governo Regional, autarquias e sociedade civil, necessárias à existência de uma coordenação nas acções a implementar, para que se atinjam os objectivos a que se propõe, no âmbito da prevenção do consumo de drogas e da toxicodependência.\n\nAssim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 5 do artigo 231.º, da Constituição, do n.º 3 do artigo 56.º e da alínea c) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, e revisto pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, e do artigo 6.º do Decreto Regulamentar Regional n.º 43/2000/M, de 12 de Dezembro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "864228006": {
+   "fragment_id": "864227333",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "864228007": {
+   "fragment_id": "864227334",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e atribuições\n\n1 - O Serviço Regional de Prevenção da Toxicodependência, abreviadamente designado por SRPT, é o órgão da Secretaria Regional dos Assuntos Sociais (SRAS) que tem por missão coordenar e executar as medidas e políticas relativas à problemática da toxicodependência, bem como dinamizar e proceder ao acompanhamento da execução do Plano Regional de Luta contra a Droga e a Toxicodependência.\n\n2 - Compete, em especial, ao SRPT:\n\na) Promover a prevenção do consumo de droga e da toxicodependência;\n\nb) Promover, coordenar e apoiar iniciativas, mediante o estabelecimento de parcerias com entidades públicas e privadas, no contexto da prevenção da toxicodependência;\n\nc) Assegurar a coerência das acções ou intervenções dos serviços da SRAS e dos departamentos do Governo Regional, bem como das entidades privadas com intervenção nesta área;\n\nd) Promover e incentivar a realização de estudos relativos à problemática dos consumos de drogas e da toxicodependência;\n\ne) Estabelecer a articulação com os órgãos e serviços nacionais e internacionais que intervêm na área da prevenção da droga e da toxicodependência;\n\nf) Proceder à recolha, tratamento e divulgação da informação e documentação técnico-científica na área da droga e da toxicodependência, nomeadamente relativa ao consumo de estupefacientes, substâncias psicotrópicas e precursores."
+  },
+  "864228008": {
+   "fragment_id": "864227335",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos, serviços e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos, serviços e competências"
+  },
+  "864228009": {
+   "fragment_id": "864227336",
+   "type": 11,
+   "heading": "Artigo 2.º — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Órgãos e serviços\n\n1 - O SRPT compreende os seguintes órgãos e serviços:\n\na) O director;\n\nb) O conselho consultivo;\n\nc) A comissão técnica de apoio;\n\nd) A Direcção de Serviços de Prevenção;\n\ne) O Gabinete de Estudos e Planeamento;\n\nf) A Divisão de Serviços Jurídicos e Administrativos.\n\n2 - A Direcção de Serviços de Prevenção integra a Divisão de Prevenção e o Gabinete de Informação e Prevenção.\n\n3 - A Divisão de Serviços Jurídicos e Administrativos integra a Secção de Pessoal, Economato e Contabilidade e a Secção de Expediente e Assuntos Gerais."
+  },
+  "864228010": {
+   "fragment_id": "864227337",
+   "type": 11,
+   "heading": "Artigo 3.º — Do director",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Do director\n\n1 - O director do SRPT actua na directa dependência do Secretário Regional dos Assuntos Sociais, competindo-lhe dirigir, orientar e coordenar os serviços que integram o SRPT.\n\n2 - O director é equiparado, para todos os efeitos legais, a subdirector regional.\n\n3 - O director é substituído, nas suas ausências e impedimentos, pelo director de serviços de Prevenção.\n\n4 - Compete, em especial, ao director do SRPT:\n\na) Representar o SRPT;\n\nb) Dirigir a actividade do SRPT e gerir os respectivos meios humanos, financeiros e de equipamento;\n\nc) Colaborar com o Secretário Regional dos Assuntos Sociais na definição das políticas regionais de prevenção da droga e da toxicodependência;\n\nd) Colaborar com o Secretário Regional dos Assuntos Sociais na implementação de uma política de articulação coordenada entre os vários órgãos e serviços da SRAS e do Governo Regional da Madeira que de alguma forma estejam ligados à problemática da toxicodependência;\n\ne) Elaborar e submeter à aprovação do Secretário Regional dos Assuntos Sociais o plano anual de actividades, o projecto de orçamento e os planos de acção;\n\nf) Desempenhar as funções que lhe sejam atribuídas por lei ou delegação.\n\n5 - Ao director do SRPT, para além das competências referidas no número anterior, podem ser delegadas, pelo Secretário Regional dos Assuntos Sociais, outras competências, designadamente nas áreas de autorização de despesas e de gestão de recursos humanos, materiais e financeiros."
+  },
+  "864228011": {
+   "fragment_id": "864227338",
+   "type": 11,
+   "heading": "Artigo 4.º — Do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Do conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta do SRPT, e tem a seguinte composição:\n\na) O Secretário Regional dos Assuntos Sociais, que preside;\n\nb) O director do SRPT;\n\nc) O ex-coordenador do Núcleo Regional do Projecto VIDA;\n\nd) Um representante de cada um dos serviços do Governo Regional, com atribuições nas áreas de cuidados primários, cuidados hospitalares, segurança social, educação, juventude, emprego, desporto e formação profissional;\n\ne) Um representante da Comissão para a Dissuasão da Toxicodependência;\n\nf) Um representante do Centro de Saúde de Santiago;\n\ng) Um representante da Universidade da Madeira;\n\nh) Um representante de cada município da Região Autónoma da Madeira;\n\ni) Um representante das associações de estudantes do ensino secundário da Região;\n\nj) Um representante da diocese do Funchal;\n\nk) Um representante das associações de pais e encarregados de educação;\n\nl) Um representante da União dos Sindicatos da Madeira e das delegações regionais das centrais sindicais;\n\nm) Um representante do Conselho Empresarial da Madeira;\n\nn) Um representante da Associação Comercial e Industrial do Funchal;\n\no) Um representante da Ordem dos Médicos;\n\np) Um representante da Ordem dos Enfermeiros;\n\nq) Um representante de cada sindicato de professores;\n\nr) Um representante do Sindicato dos Jornalistas;\n\ns) Um representante da Associação das Instituições Particulares de Solidariedade Social;\n\nt) Um representante das Associações de Estudantes do Ensino Superior da Região;\n\nu) Cinco personalidades de reconhecida competência na área das toxicodependências ou em matérias conexas, a nomear pelo presidente, ouvido o conselho consultivo.\n\n2 - As personalidades a que se refere a alínea u) do número anterior serão propostas na primeira reunião do conselho consultivo.\n\n3 - Ao conselho consultivo compete:\n\na) Acompanhar a evolução do fenómeno da toxicodependência na Região Autónoma da Madeira, no País e nos restantes países da União Europeia;\n\nb) Emitir pareceres e recomendações sobre matérias ligadas à problemática da droga e da toxicodependência, quer por iniciativa própria quer por solicitação do presidente.\n\n4 - O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, por convocação do presidente."
+  },
+  "864228012": {
+   "fragment_id": "864227339",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão técnica de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissão técnica de apoio\n\n1 - A comissão técnica de apoio é um órgão de apoio técnico e de consulta ao director do SRPT.\n\n2 - Os actos da comissão técnica de apoio não têm carácter vinculativo.\n\n3 - Compete à comissão técnica de apoio:\n\na) Prestar apoio técnico e informação sempre que solicitado;\n\nb) Estabelecer uma interligação com os organismos do Governo Regional da Madeira, autarquias e entidades privadas.\n\n4 - A comissão técnica de apoio tem a seguinte composição:\n\na) Um representante da Direcção Regional de Educação;\n\nb) Um representante do Instituto Regional de Juventude;\n\nc) Um representante do Instituto Regional de Emprego;\n\nd) Um representante da Direcção Regional de Formação Profissional;\n\ne) Um representante da Direcção Regional de Saúde Pública;\n\nf) Um representante da Direcção Regional dos Hospitais;\n\ng) Um representante da Direcção Regional de Segurança Social;\n\nh) Um representante do Centro de Saúde de Santiago;\n\ni) Um representante do Conselho Empresarial da Madeira."
+  },
+  "864228013": {
+   "fragment_id": "864227340",
+   "type": 11,
+   "heading": "Artigo 6.º — Direcção de Serviços de Prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direcção de Serviços de Prevenção\n\n1 - A Direcção de Serviços de Prevenção, abreviadamente designada por DSP, é o órgão do SRPT ao qual compete proceder à coordenação e implementação das acções de prevenção da droga e da toxicodependência, prestar apoio, informação e proceder ao respectivo encaminhamento.\n\n2 - À DSP compete:\n\na) Planificar, coordenar e executar a actividade do SRPT em matéria de prevenção do consumo de drogas e da toxicodependência;\n\nb) Promover e apoiar programas e projectos no âmbito da prevenção do consumo de drogas e da toxicodependência;\n\nc) Promover a formação e informação dos vários agentes de prevenção no âmbito dos projectos de prevenção em curso;\n\nd) Assegurar as campanhas e projectos de prevenção;\n\ne) Coordenar a prestação do apoio e informação, bem como do encaminhamento do público;\n\nf) Promover o estabelecimento de parcerias com entidades públicas e privadas;\n\ng) Promover, coordenar, desenvolver e aplicar metodologias de avaliação das diversas acções, por si desenvolvidas ou apoiadas, e elaborar os respectivos relatórios."
+  },
+  "864228014": {
+   "fragment_id": "864227341",
+   "type": 11,
+   "heading": "Artigo 7.º — Divisão de Prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Divisão de Prevenção\n\nA Divisão de Prevenção, abreviadamente designada por DP, é o serviço da DSP ao qual compete proceder à promoção, dinamização e execução das acções e projectos de prevenção do consumo de drogas e da toxicodependência e, em especial, promover, dinamizar e executar as competências a que se referem as alíneas b), c), d) e g) do n.º 2 do artigo anterior."
+  },
+  "864228015": {
+   "fragment_id": "864227342",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete de Informação e Prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Gabinete de Informação e Prevenção\n\n1 - O Gabinete de Informação e Prevenção, abreviadamente designado por GIP, é o serviço da DSP ao qual compete conceber, dinamizar e facultar a informação sobre a problemática da droga e da toxicodependência, bem como proceder ao apoio e encaminhamento dos utentes.\n\n2 - Compete em especial ao GIP:\n\na) Dinamizar uma linha telefónica regional;\n\nb) Proceder à dinamização e manutenção de um serviço de atendimento e informação;\n\nc) Proceder ao encaminhamento dos utentes para serviços e instituições que lhes possam dar resposta adequada;\n\nd) Criar e dinamizar o Centro de Recursos, nomeadamente biblioteca, mediateca e ludoteca;\n\ne) Proceder à concepção técnica e gráfica de materiais, projectos e campanhas.\n\n3 - O GIP é dirigido por um chefe de divisão."
+  },
+  "864228016": {
+   "fragment_id": "864227343",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete de Estudos e Planeamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gabinete de Estudos e Planeamento\n\n1 - O Gabinete de Estudos e Planeamento, abreviadamente designado por GEP, é o órgão do SRPT ao qual compete promover e incentivar a investigação e a elaboração de estudos sobre a problemática da droga e da toxicodependência.\n\n2 - Compete em especial ao GEP:\n\na) Proceder à investigação de toda a problemática bem como de novas metodologias de intervenção;\n\nb) Assegurar a recolha, tratamento e divulgação de dados;\n\nc) Assegurar a coordenação e execução técnica e científica dos projectos e acções de prevenção;\n\nd) Proceder à avaliação de acções requeridas;\n\ne) Assegurar a interligação com o Observatório Europeu da Droga.\n\n3 - O GEP é dirigido por um chefe de divisão."
+  },
+  "864228017": {
+   "fragment_id": "864227344",
+   "type": 11,
+   "heading": "Artigo 10.º — Divisão de Serviços Jurídicos e Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Divisão de Serviços Jurídicos e Administrativos\n\n1 - A Divisão de Serviços Jurídicos e Administrativos, abreviadamente designada por DSJA, é o órgão ao qual compete prestar o apoio jurídico e executar as actividades relativas à gestão corrente dos recursos humanos, materiais e financeiros afectos ao SRPT.\n\n2 - Cabe em especial à DSJA:\n\na) Prestar apoio jurídico, designadamente emissão de pareceres e estudos jurídicos;\n\nb) Assegurar a coordenação do expediente e arquivo gerais;\n\nc) Colaborar na elaboração do orçamento da SRAS na parte respeitante ao SRPT e proceder à respectiva execução, assegurando os procedimentos contabilísticos;\n\nd) Acompanhar e proceder à execução dos processos de aquisição de bens e serviços e efectuar o respectivo cadastro patrimonial;\n\ne) Assegurar a execução dos procedimentos de gestão de pessoal afecto ao SRPT."
+  },
+  "864228018": {
+   "fragment_id": "864227345",
+   "type": 11,
+   "heading": "Artigo 11.º — Secção de Pessoal, Economato e Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Secção de Pessoal, Economato e Contabilidade\n\nA Secção de Pessoal, Economato e Contabilidade é o serviço da DSJA para as áreas de pessoal, economato e contabilidade ao qual compete:\n\na) Organizar e executar todos os procedimentos relativos à gestão do pessoal, designadamente os processos de recrutamento, promoção, mobilidade e aposentação, mantendo o adequado registo biográfico e respectiva actualização;\n\nb) Efectuar o processamento dos vencimentos e outras remunerações e abonos;\n\nc) Organizar e executar os procedimentos de aquisição de bens e serviços e manter o cadastro patrimonial dos bens móveis afectos ao SRPT;\n\nd) Organizar e executar os procedimentos administrativos e contabilísticos de processamento de despesas de aquisição de bens e serviços;\n\ne) Acompanhar a elaboração da proposta de orçamento anual da SRAS na parte que respeita ao SRPT e proceder à execução das respectivas alterações orçamentais."
+  },
+  "864228019": {
+   "fragment_id": "864227346",
+   "type": 11,
+   "heading": "Artigo 12.º — Secção de Expediente e Assuntos Gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Secção de Expediente e Assuntos Gerais\n\nA Secção de Expediente e Assuntos Gerais é o serviço da DSJA ao qual compete:\n\na) Assegurar a execução de todo o expediente geral, registo de correspondência e arquivo;\n\nb) Executar os serviços de reprografia e distribuição de correspondência."
+  },
+  "864228020": {
+   "fragment_id": "864227347",
+   "type": 1,
+   "heading": "Capítulo III — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do pessoal"
+  },
+  "864228021": {
+   "fragment_id": "864227348",
+   "type": 11,
+   "heading": "Artigo 13.º — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Do pessoal\n\n1 - O pessoal a recrutar para o SRPT é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal técnico-profissional;\n\ne) Pessoal administrativo;\n\nf) Pessoal auxiliar.\n\n2 - O quadro de pessoal do SRPT é o constante do anexo ao presente diploma do qual faz parte integrante."
+  },
+  "864228022": {
+   "fragment_id": "864227349",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "864228023": {
+   "fragment_id": "864227350",
+   "type": 11,
+   "heading": "Artigo 14.º — Do regime financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Do regime financeiro\n\n1 - As despesas do SRPT são cobertas por dotação orçamental, inscrita em capítulo próprio do orçamento da SRAS.\n\n2 - No corrente ano de 2002 os encargos com o funcionamento do SRPT serão suportados por verbas inscritas no orçamento da SRAS."
+  },
+  "864228024": {
+   "fragment_id": "864227351",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposição transitória\n\nAté à extinção do Núcleo Regional do Projecto VIDA, a efectuar-se através de decreto legislativo regional, o exercício das competências previstas no presente diploma será exercido, com as devidas adaptações, em articulação com o serviço a extinguir."
+  },
+  "864228025": {
+   "fragment_id": "864227352",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "864228027": {
+   "fragment_id": "864227354",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 13.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 13.º)\n\n(ver quadro no documento original)"
+  },
+  "864228005": {
+   "fragment_id": "864227332",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 9/2002/M\n\nCria o Serviço Regional de Prevenção da Toxicodependência\n\nO problema do consumo de drogas e a toxicodependência exigem um acompanhamento muito atento e contínuo, criando-se e reformulando-se medidas, estruturas e instrumentos adequados às variações do fenómeno e do conhecimento, nomeadamente do conhecimento científico.\n\nNeste contexto, a Região Autónoma da Madeira, decidiu definir a estratégia de prevenção no Plano Regional de Luta contra a Droga e a Toxicodependência, aprovado pela Resolução do Conselho de Governo Regional n.º 1744/2001, de 13 de Dezembro.\n\nConsidera-se importante, neste momento, criar um novo serviço denominado Serviço Regional de Prevenção da Toxicodependência, na directa dependência da Secretaria Regional dos Assuntos Sociais, assumida a necessidade de criação de uma orgânica mais estruturada, porém, de coordenação simples e flexível.\n\nPorque a abordagem do fenómeno exige um trabalho abrangente, este Serviço fará uma articulação com todos os órgãos e serviços da Secretaria Regional dos Assuntos Sociais, bem como com todos os organismos e departamentos do Governo Regional, autarquias e sociedade civil, necessárias à existência de uma coordenação nas acções a implementar, para que se atinjam os objectivos a que se propõe, no âmbito da prevenção do consumo de drogas e da toxicodependência.\n\nAssim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 5 do artigo 231.º, da Constituição, do n.º 3 do artigo 56.º e da alínea c) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, e revisto pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, e do artigo 6.º do Decreto Regulamentar Regional n.º 43/2000/M, de 12 de Dezembro, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "864384414": {
+   "fragment_id": "864227336",
+   "type": 11,
+   "heading": "Artigo 2.º — Órgãos e serviços",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 2.º — Órgãos e serviços\n\n1 - O SRPT compreende os seguintes órgãos e serviços:\n\na) O director;\n\nb) O conselho consultivo;\n\nc) A comissão técnica de apoio;\n\nd) A Direcção de Serviços de Prevenção;\n\ne) O Gabinete de Estudos e Planeamento;\n\nf) A Divisão de Serviços Administrativos.\n\n2 - A Direcção de Serviços de Prevenção integra a Divisão de Prevenção e o Gabinete de Informação e Prevenção.\n\n3 - A Divisão de Serviços Administrativos integra a Secção de Assuntos Gerais e Pessoal e a Secção de Contabilidade e Aprovisionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384415": {
+   "fragment_id": "864227337",
+   "type": 11,
+   "heading": "Artigo 3.º — Do director",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 3.º — Do director\n\n1 - O director do SRPT actua na directa dependência do Secretário Regional dos Assuntos Sociais, competindo-lhe dirigir, orientar e coordenar os serviços que integram o SRPT.\n\n2 - O director é equiparado, para todos os efeitos legais, a subdirector regional, cargo de direcção superior de 2.º grau.\n\n3 - O director é substituído, nas suas ausências e impedimentos, pelo director de serviços de Prevenção.\n\n4 - Compete, em especial, ao director do SRPT:\n\na) Representar o SRPT;\n\nb) Dirigir a actividade do SRPT e gerir os respectivos recursos humanos, materiais e financeiros;\n\nc) Colaborar com o Secretário Regional dos Assuntos Sociais na definição das políticas regionais de prevenção da droga e da toxicodependência;\n\nd) Colaborar com o Secretário Regional dos Assuntos Sociais na implementação de uma política de articulação coordenada entre os vários órgãos e serviços da SRAS e do Governo Regional da Madeira que de alguma forma estejam ligados à problemática da toxicodependência;\n\ne) Elaborar e submeter à aprovação do Secretário Regional dos Assuntos Sociais o plano anual de actividades, o projecto de orçamento e os planos de acção;\n\nf) Desempenhar as funções que lhe sejam atribuídas por lei ou delegação.\n\n5 - Ao director do SRPT, para além das competências referidas no número anterior, podem ser delegadas, pelo Secretário Regional dos Assuntos Sociais, outras competências, designadamente nas áreas de autorização de despesas e de gestão de recursos humanos, materiais e financeiros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384416": {
+   "fragment_id": "864227339",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão técnica de apoio",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 5.º — Comissão técnica de apoio\n\n1 - A comissão técnica de apoio é um órgão de apoio técnico e de consulta ao director do SRPT.\n\n2 - Os actos da comissão técnica de apoio não têm carácter vinculativo.\n\n3 - Compete à comissão técnica de apoio:\n\na) Prestar apoio técnico e informação sempre que solicitado;\n\nb) Estabelecer uma interligação com os organismos do Governo Regional da Madeira, autarquias e entidades privadas.\n\n4 - A comissão técnica de apoio tem a seguinte composição:\n\na) Um representante da Direcção Regional de Educação;\n\nb) Um representante da Direcção Regional de Juventude;\n\nc) Um representante do Instituto Regional de Emprego;\n\nd) Um representante da Direcção Regional de Formação Profissional;\n\ne) Um representante da Direcção Regional de Planeamento e Saúde Pública;\n\nf) Dois representantes do Serviço Regional de Saúde, E. P. E., um dos quais deverá necessariamente pertencer ao Centro de Saúde de Santiago;\n\ng) Um representante do Centro de Segurança Social da Madeira;\n\nh) Um representante do Conselho Empresarial da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384425": {
+   "fragment_id": "864227340",
+   "type": 11,
+   "heading": "Artigo 6.º — Direcção de Serviços de Prevenção",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 6.º — Direcção de Serviços de Prevenção\n\n1 - A Direcção de Serviços de Prevenção, abreviadamente designada por DSP, é o órgão do SRPT ao qual compete proceder à coordenação e implementação das acções de prevenção da droga e da toxicodependência, prestar apoio, informação e proceder ao respectivo encaminhamento.\n\n2 - À DSP compete:\n\na) Planificar, coordenar e executar a actividade do SRPT em matéria de prevenção do consumo de drogas e da toxicodependência;\n\nb) Promover e apoiar programas e projectos no âmbito da prevenção do consumo de drogas e da toxicodependência;\n\nc) Promover a formação e informação dos vários agentes de prevenção no âmbito dos projectos de prevenção em curso;\n\nd) Assegurar as campanhas e projectos de prevenção;\n\ne) Coordenar a prestação do apoio e informação, bem como do encaminhamento do público;\n\nf) Promover o estabelecimento de parcerias com entidades públicas e privadas;\n\ng) Promover, coordenar, desenvolver e aplicar metodologias de avaliação das diversas acções, por si desenvolvidas ou apoiadas, e elaborar os respectivos relatórios.\n\n3 - A DSP é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384417": {
+   "fragment_id": "864227341",
+   "type": 11,
+   "heading": "Artigo 7.º — Divisão de Prevenção",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 7.º — Divisão de Prevenção\n\n1 - A Divisão de Prevenção, abreviadamente designada por DP, é o serviço da DSP ao qual compete proceder à promoção, dinamização e execução das acções e projectos de prevenção do consumo de drogas e da toxicodependência e, em especial, promover, dinamizar e executar as competências a que se referem as alíneas b), c), d) e g) do n.º 2 do artigo anterior.\n\n2 - A DP é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384418": {
+   "fragment_id": "864227342",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete de Informação e Prevenção",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 8.º — Gabinete de Informação e Prevenção\n\n1 - O Gabinete de Informação e Prevenção, abreviadamente designado por GIP, é o serviço da DSP ao qual compete conceber, dinamizar e facultar a informação sobre a problemática da droga e da toxicodependência, bem como proceder ao apoio e encaminhamento dos utentes.\n\n2 - Compete em especial ao GIP:\n\na) Dinamizar uma linha telefónica regional;\n\nb) Proceder à dinamização e manutenção de um serviço de atendimento e informação;\n\nc) Proceder ao encaminhamento dos utentes para serviços e instituições que lhes possam dar resposta adequada;\n\nd) Criar e dinamizar o Centro de Recursos, nomeadamente biblioteca, mediateca e ludoteca;\n\ne) Proceder à concepção técnica e gráfica de materiais, projectos e campanhas.\n\n3 - O GIP é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384419": {
+   "fragment_id": "864227343",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete de Estudos e Planeamento",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 9.º — Gabinete de Estudos e Planeamento\n\n1 - O Gabinete de Estudos e Planeamento, abreviadamente designado por GEP, é o órgão do SRPT ao qual compete promover e incentivar a investigação e a elaboração de estudos sobre a problemática da droga e da toxicodependência.\n\n2 - Compete em especial ao GEP:\n\na) Proceder à investigação de toda a problemática bem como de novas metodologias de intervenção;\n\nb) Assegurar a recolha, tratamento e divulgação de dados;\n\nc) Assegurar a coordenação e execução técnica e científica dos projectos e acções de prevenção;\n\nd) Proceder à avaliação de acções requeridas;\n\ne) Assegurar a interligação com o Observatório Europeu da Droga.\n\n3 - O GEP é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384420": {
+   "fragment_id": "864227344",
+   "type": 11,
+   "heading": "Artigo 10.º — Divisão de Serviços Administrativos",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 10.º — Divisão de Serviços Administrativos\n\n1 - A Divisão de Serviços Administrativos, abreviadamente designada por DSA, é o órgão ao qual compete executar as actividades relativas à gestão dos recursos financeiros, humanos e materiais afectos ao SRPT.\n\n2 - Compete, em especial, à DSA:\n\na) Assegurar a coordenação do expediente e arquivo gerais;\n\nb) Assegurar os serviços de atendimento ao público;\n\nc) Colaborar na elaboração do orçamento da SRAS, na parte respeitante ao SRPT, e proceder à respectiva execução e controlo orçamental;\n\nd) Promover o acompanhamento, execução e controlo dos investimentos do Plano, na parte respeitante ao SRPT;\n\ne) Acompanhar e promover os procedimentos de aquisição de bens e serviços necessários ao funcionamento do SRPT e efectuar o respectivo cadastro patrimonial;\n\nf) Promover a gestão dos recursos materiais, logísticos e informáticos afectos ao SRPT;\n\ng) Assegurar a execução dos procedimentos de gestão de pessoal afecto ao SRPT, designadamente recrutamento e selecção, mobilidade e aposentação, promovendo a actualização do registo biográfico dos funcionários e agentes.\n\n3 - A DSA é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n4 - A DSA integra:\n\na) A Secção de Assuntos Gerais e Pessoal;\n\nb) A Secção de Contabilidade e Aprovisionamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384421": {
+   "fragment_id": "864227345",
+   "type": 11,
+   "heading": "Artigo 11.º — Secção de Assuntos Gerais e Pessoal",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 11.º — Secção de Assuntos Gerais e Pessoal\n\n1 - A Secção de Assuntos Gerais e Pessoal, abreviadamente designada por SAP, é o serviço de execução administrativa da DSA para as áreas de expediente, arquivo geral e recursos humanos.\n\n2 - Cabe, em especial, à SAP:\n\na) Organizar e executar os procedimentos de gestão de recursos humanos, designadamente recrutamento e selecção, mobilidade e aposentação, promovendo a actualização do registo biográfico dos funcionários e agentes;\n\nb) Assegurar a execução do expediente e arquivo gerais;\n\nc) Assegurar os serviços de atendimento ao público e de reprografia;\n\nd) Coordenar a actividade do pessoal auxiliar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384422": {
+   "fragment_id": "864227346",
+   "type": 11,
+   "heading": "Artigo 12.º — Secção de Contabilidade e Aprovisionamento",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 12.º — Secção de Contabilidade e Aprovisionamento\n\n1 - A Secção de Contabilidade e Aprovisionamento, abreviadamente designada por SCA, é o serviço de execução administrativa da DSA para as áreas de orçamento, contabilidade e aprovisionamento.\n\n2 - Cabe, em especial, à SCA:\n\na) Efectuar o processamento das remunerações e outros abonos;\n\nb) Proceder à elaboração do orçamento da SRAS na parte respeitante ao SRPT e acompanhar a respectiva execução;\n\nc) Organizar e efectuar os procedimentos administrativos e contabilísticos relativos à aquisição de bens e serviços;\n\nd) Manter o cadastro patrimonial dos bens móveis e coordenar a respectiva manutenção;\n\ne) Assegurar a gestão dos recursos materiais, logísticos e informáticos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384423": {
+   "fragment_id": "864227348",
+   "type": 11,
+   "heading": "Artigo 13.º — Do pessoal",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 13.º — Do pessoal\n\n1 - O pessoal a recrutar para o SRPT é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal de enfermagem;\n\nd) Pessoal de informática;\n\ne) Pessoal técnico-profissional;\n\nf) Pessoal administrativo;\n\ng) Pessoal auxiliar.\n\n2 - O quadro de pessoal do SRPT é o constante do anexo ao presente diploma e pode ser alterado por portaria conjunta do membro do Governo que tutela o SRPT e dos membros do Governo que tutelam as áreas das finanças e da administração pública.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384424": {
+   "fragment_id": "864227350",
+   "type": 11,
+   "heading": "Artigo 14.º — Do regime financeiro",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 14.º — Do regime financeiro\n\nAs despesas do SRPT são cobertas por dotação orçamental, inscrita em rubrica orgânica própria do orçamento da SRAS.»\n\n2 - É alterada a designação do diploma, que passa a denominar-se «Orgânica do Serviço Regional de Prevenção da Toxicodependência».\n\n3 - É alterado o capítulo IV, que passa a designar-se «Disposições finais».\n\n4 - São redenominadas as alíneas do n.º 1 do artigo 4.º do Decreto Regulamentar Regional n.º 9/2002/M, de 25 de Junho, a partir da alínea k), que passa a denominar-se de alínea l), sendo as restantes alíneas alteradas pela subsequente ordem alfabética.\n\n5 - A referência à alínea u) prevista no n.º 2 do artigo 4.º passa a reportar-se à alínea v).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384426": {
+   "fragment_id": "864227351",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposição transitória",
+   "in_force_from": "2007-02-16",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 15.º — Disposição transitória\n\nAté à extinção do Núcleo Regional do Projecto VIDA, a efectuar-se através de decreto legislativo regional, o exercício das competências previstas no presente diploma será exercido, com as devidas adaptações, em articulação com o serviço a extinguir.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864228026": {
+   "fragment_id": "864227353",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 9 de Maio de 2002.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 27 de Maio de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "864384428": {
+   "fragment_id": "864227333",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+   ],
+   "markdown": "### Capítulo I — Natureza e atribuições\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+  },
+  "864384429": {
+   "fragment_id": "864227334",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e atribuições",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza e atribuições\n\n1 - O Serviço Regional de Prevenção da Toxicodependência, abreviadamente designado por SRPT, é o órgão da Secretaria Regional dos Assuntos Sociais (SRAS) que tem por missão coordenar e executar as medidas e políticas relativas à problemática da toxicodependência, bem como dinamizar e proceder ao acompanhamento da execução do Plano Regional de Luta contra a Droga e a Toxicodependência.\n\n2 - Compete, em especial, ao SRPT:\n\na) Promover a prevenção do consumo de droga e da toxicodependência;\n\nb) Promover, coordenar e apoiar iniciativas, mediante o estabelecimento de parcerias com entidades públicas e privadas, no contexto da prevenção da toxicodependência;\n\nc) Assegurar a coerência das acções ou intervenções dos serviços da SRAS e dos departamentos do Governo Regional, bem como das entidades privadas com intervenção nesta área;\n\nd) Promover e incentivar a realização de estudos relativos à problemática dos consumos de drogas e da toxicodependência;\n\ne) Estabelecer a articulação com os órgãos e serviços nacionais e internacionais que intervêm na área da prevenção da droga e da toxicodependência;\n\nf) Proceder à recolha, tratamento e divulgação da informação e documentação técnico-científica na área da droga e da toxicodependência, nomeadamente relativa ao consumo de estupefacientes, substâncias psicotrópicas e precursores.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+  },
+  "864384430": {
+   "fragment_id": "864227335",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos, serviços e competências",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+   ],
+   "markdown": "### Capítulo II — Órgãos, serviços e competências\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+  },
+  "864384431": {
+   "fragment_id": "864227336",
+   "type": 11,
+   "heading": "Artigo 2.º — Órgãos e serviços",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 2.º — Órgãos e serviços\n\n1 - O SRPT compreende os seguintes órgãos e serviços:\n\na) O director;\n\nb) O conselho consultivo;\n\nc) A comissão técnica de apoio;\n\nd) A Direcção de Serviços de Prevenção;\n\ne) O Gabinete de Estudos e Planeamento;\n\nf) A Divisão de Serviços Administrativos.\n\n2 - A Direcção de Serviços de Prevenção integra a Divisão de Prevenção e o Gabinete de Informação e Prevenção.\n\n3 - A Divisão de Serviços Administrativos integra a Secção de Assuntos Gerais e Pessoal e a Secção de Contabilidade e Aprovisionamento.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384432": {
+   "fragment_id": "864227337",
+   "type": 11,
+   "heading": "Artigo 3.º — Do director",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 3.º — Do director\n\n1 - O director do SRPT actua na directa dependência do Secretário Regional dos Assuntos Sociais, competindo-lhe dirigir, orientar e coordenar os serviços que integram o SRPT.\n\n2 - O director é equiparado, para todos os efeitos legais, a subdirector regional, cargo de direcção superior de 2.º grau.\n\n3 - O director é substituído, nas suas ausências e impedimentos, pelo director de serviços de Prevenção.\n\n4 - Compete, em especial, ao director do SRPT:\n\na) Representar o SRPT;\n\nb) Dirigir a actividade do SRPT e gerir os respectivos recursos humanos, materiais e financeiros;\n\nc) Colaborar com o Secretário Regional dos Assuntos Sociais na definição das políticas regionais de prevenção da droga e da toxicodependência;\n\nd) Colaborar com o Secretário Regional dos Assuntos Sociais na implementação de uma política de articulação coordenada entre os vários órgãos e serviços da SRAS e do Governo Regional da Madeira que de alguma forma estejam ligados à problemática da toxicodependência;\n\ne) Elaborar e submeter à aprovação do Secretário Regional dos Assuntos Sociais o plano anual de actividades, o projecto de orçamento e os planos de acção;\n\nf) Desempenhar as funções que lhe sejam atribuídas por lei ou delegação.\n\n5 - Ao director do SRPT, para além das competências referidas no número anterior, podem ser delegadas, pelo Secretário Regional dos Assuntos Sociais, outras competências, designadamente nas áreas de autorização de despesas e de gestão de recursos humanos, materiais e financeiros.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384433": {
+   "fragment_id": "864227338",
+   "type": 11,
+   "heading": "Artigo 4.º — Do conselho consultivo",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+   ],
+   "markdown": "###### Artigo 4.º — Do conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta do SRPT, e tem a seguinte composição:\n\na) O Secretário Regional dos Assuntos Sociais, que preside;\n\nb) O director do SRPT;\n\nc) O ex-coordenador do Núcleo Regional do Projecto VIDA;\n\nd) Um representante de cada um dos serviços do Governo Regional, com atribuições nas áreas de cuidados primários, cuidados hospitalares, segurança social, educação, juventude, emprego, desporto e formação profissional;\n\ne) Um representante da Comissão para a Dissuasão da Toxicodependência;\n\nf) Um representante do Centro de Saúde de Santiago;\n\ng) Um representante da Universidade da Madeira;\n\nh) Um representante de cada município da Região Autónoma da Madeira;\n\ni) Um representante das associações de estudantes do ensino secundário da Região;\n\nj) Um representante da diocese do Funchal;\n\nk) Um representante das associações de pais e encarregados de educação;\n\nl) Um representante da União dos Sindicatos da Madeira e das delegações regionais das centrais sindicais;\n\nm) Um representante do Conselho Empresarial da Madeira;\n\nn) Um representante da Associação Comercial e Industrial do Funchal;\n\no) Um representante da Ordem dos Médicos;\n\np) Um representante da Ordem dos Enfermeiros;\n\nq) Um representante de cada sindicato de professores;\n\nr) Um representante do Sindicato dos Jornalistas;\n\ns) Um representante da Associação das Instituições Particulares de Solidariedade Social;\n\nt) Um representante das Associações de Estudantes do Ensino Superior da Região;\n\nu) Cinco personalidades de reconhecida competência na área das toxicodependências ou em matérias conexas, a nomear pelo presidente, ouvido o conselho consultivo.\n\n2 - As personalidades a que se refere a alínea u) do número anterior serão propostas na primeira reunião do conselho consultivo.\n\n3 - Ao conselho consultivo compete:\n\na) Acompanhar a evolução do fenómeno da toxicodependência na Região Autónoma da Madeira, no País e nos restantes países da União Europeia;\n\nb) Emitir pareceres e recomendações sobre matérias ligadas à problemática da droga e da toxicodependência, quer por iniciativa própria quer por solicitação do presidente.\n\n4 - O conselho consultivo reúne, ordinariamente, uma vez por semestre e, extraordinariamente, por convocação do presidente.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+  },
+  "864384434": {
+   "fragment_id": "864227339",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão técnica de apoio",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 5.º — Comissão técnica de apoio\n\n1 - A comissão técnica de apoio é um órgão de apoio técnico e de consulta ao director do SRPT.\n\n2 - Os actos da comissão técnica de apoio não têm carácter vinculativo.\n\n3 - Compete à comissão técnica de apoio:\n\na) Prestar apoio técnico e informação sempre que solicitado;\n\nb) Estabelecer uma interligação com os organismos do Governo Regional da Madeira, autarquias e entidades privadas.\n\n4 - A comissão técnica de apoio tem a seguinte composição:\n\na) Um representante da Direcção Regional de Educação;\n\nb) Um representante da Direcção Regional de Juventude;\n\nc) Um representante do Instituto Regional de Emprego;\n\nd) Um representante da Direcção Regional de Formação Profissional;\n\ne) Um representante da Direcção Regional de Planeamento e Saúde Pública;\n\nf) Dois representantes do Serviço Regional de Saúde, E. P. E., um dos quais deverá necessariamente pertencer ao Centro de Saúde de Santiago;\n\ng) Um representante do Centro de Segurança Social da Madeira;\n\nh) Um representante do Conselho Empresarial da Madeira.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384435": {
+   "fragment_id": "864227340",
+   "type": 11,
+   "heading": "Artigo 6.º — Direcção de Serviços de Prevenção",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 6.º — Direcção de Serviços de Prevenção\n\n1 - A Direcção de Serviços de Prevenção, abreviadamente designada por DSP, é o órgão do SRPT ao qual compete proceder à coordenação e implementação das acções de prevenção da droga e da toxicodependência, prestar apoio, informação e proceder ao respectivo encaminhamento.\n\n2 - À DSP compete:\n\na) Planificar, coordenar e executar a actividade do SRPT em matéria de prevenção do consumo de drogas e da toxicodependência;\n\nb) Promover e apoiar programas e projectos no âmbito da prevenção do consumo de drogas e da toxicodependência;\n\nc) Promover a formação e informação dos vários agentes de prevenção no âmbito dos projectos de prevenção em curso;\n\nd) Assegurar as campanhas e projectos de prevenção;\n\ne) Coordenar a prestação do apoio e informação, bem como do encaminhamento do público;\n\nf) Promover o estabelecimento de parcerias com entidades públicas e privadas;\n\ng) Promover, coordenar, desenvolver e aplicar metodologias de avaliação das diversas acções, por si desenvolvidas ou apoiadas, e elaborar os respectivos relatórios.\n\n3 - A DSP é dirigida por um director de serviços, cargo de direcção intermédia de 1.º grau.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384436": {
+   "fragment_id": "864227341",
+   "type": 11,
+   "heading": "Artigo 7.º — Divisão de Prevenção",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 7.º — Divisão de Prevenção\n\n1 - A Divisão de Prevenção, abreviadamente designada por DP, é o serviço da DSP ao qual compete proceder à promoção, dinamização e execução das acções e projectos de prevenção do consumo de drogas e da toxicodependência e, em especial, promover, dinamizar e executar as competências a que se referem as alíneas b), c), d) e g) do n.º 2 do artigo anterior.\n\n2 - A DP é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384437": {
+   "fragment_id": "864227342",
+   "type": 11,
+   "heading": "Artigo 8.º — Gabinete de Informação e Prevenção",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 8.º — Gabinete de Informação e Prevenção\n\n1 - O Gabinete de Informação e Prevenção, abreviadamente designado por GIP, é o serviço da DSP ao qual compete conceber, dinamizar e facultar a informação sobre a problemática da droga e da toxicodependência, bem como proceder ao apoio e encaminhamento dos utentes.\n\n2 - Compete em especial ao GIP:\n\na) Dinamizar uma linha telefónica regional;\n\nb) Proceder à dinamização e manutenção de um serviço de atendimento e informação;\n\nc) Proceder ao encaminhamento dos utentes para serviços e instituições que lhes possam dar resposta adequada;\n\nd) Criar e dinamizar o Centro de Recursos, nomeadamente biblioteca, mediateca e ludoteca;\n\ne) Proceder à concepção técnica e gráfica de materiais, projectos e campanhas.\n\n3 - O GIP é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384438": {
+   "fragment_id": "864227343",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete de Estudos e Planeamento",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 9.º — Gabinete de Estudos e Planeamento\n\n1 - O Gabinete de Estudos e Planeamento, abreviadamente designado por GEP, é o órgão do SRPT ao qual compete promover e incentivar a investigação e a elaboração de estudos sobre a problemática da droga e da toxicodependência.\n\n2 - Compete em especial ao GEP:\n\na) Proceder à investigação de toda a problemática bem como de novas metodologias de intervenção;\n\nb) Assegurar a recolha, tratamento e divulgação de dados;\n\nc) Assegurar a coordenação e execução técnica e científica dos projectos e acções de prevenção;\n\nd) Proceder à avaliação de acções requeridas;\n\ne) Assegurar a interligação com o Observatório Europeu da Droga.\n\n3 - O GEP é dirigido por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384439": {
+   "fragment_id": "864227344",
+   "type": 11,
+   "heading": "Artigo 10.º — Divisão de Serviços Administrativos",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 10.º — Divisão de Serviços Administrativos\n\n1 - A Divisão de Serviços Administrativos, abreviadamente designada por DSA, é o órgão ao qual compete executar as actividades relativas à gestão dos recursos financeiros, humanos e materiais afectos ao SRPT.\n\n2 - Compete, em especial, à DSA:\n\na) Assegurar a coordenação do expediente e arquivo gerais;\n\nb) Assegurar os serviços de atendimento ao público;\n\nc) Colaborar na elaboração do orçamento da SRAS, na parte respeitante ao SRPT, e proceder à respectiva execução e controlo orçamental;\n\nd) Promover o acompanhamento, execução e controlo dos investimentos do Plano, na parte respeitante ao SRPT;\n\ne) Acompanhar e promover os procedimentos de aquisição de bens e serviços necessários ao funcionamento do SRPT e efectuar o respectivo cadastro patrimonial;\n\nf) Promover a gestão dos recursos materiais, logísticos e informáticos afectos ao SRPT;\n\ng) Assegurar a execução dos procedimentos de gestão de pessoal afecto ao SRPT, designadamente recrutamento e selecção, mobilidade e aposentação, promovendo a actualização do registo biográfico dos funcionários e agentes.\n\n3 - A DSA é dirigida por um chefe de divisão, cargo de direcção intermédia de 2.º grau.\n\n4 - A DSA integra:\n\na) A Secção de Assuntos Gerais e Pessoal;\n\nb) A Secção de Contabilidade e Aprovisionamento.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384440": {
+   "fragment_id": "864227345",
+   "type": 11,
+   "heading": "Artigo 11.º — Secção de Assuntos Gerais e Pessoal",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 11.º — Secção de Assuntos Gerais e Pessoal\n\n1 - A Secção de Assuntos Gerais e Pessoal, abreviadamente designada por SAP, é o serviço de execução administrativa da DSA para as áreas de expediente, arquivo geral e recursos humanos.\n\n2 - Cabe, em especial, à SAP:\n\na) Organizar e executar os procedimentos de gestão de recursos humanos, designadamente recrutamento e selecção, mobilidade e aposentação, promovendo a actualização do registo biográfico dos funcionários e agentes;\n\nb) Assegurar a execução do expediente e arquivo gerais;\n\nc) Assegurar os serviços de atendimento ao público e de reprografia;\n\nd) Coordenar a actividade do pessoal auxiliar.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384441": {
+   "fragment_id": "864227346",
+   "type": 11,
+   "heading": "Artigo 12.º — Secção de Contabilidade e Aprovisionamento",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 12.º — Secção de Contabilidade e Aprovisionamento\n\n1 - A Secção de Contabilidade e Aprovisionamento, abreviadamente designada por SCA, é o serviço de execução administrativa da DSA para as áreas de orçamento, contabilidade e aprovisionamento.\n\n2 - Cabe, em especial, à SCA:\n\na) Efectuar o processamento das remunerações e outros abonos;\n\nb) Proceder à elaboração do orçamento da SRAS na parte respeitante ao SRPT e acompanhar a respectiva execução;\n\nc) Organizar e efectuar os procedimentos administrativos e contabilísticos relativos à aquisição de bens e serviços;\n\nd) Manter o cadastro patrimonial dos bens móveis e coordenar a respectiva manutenção;\n\ne) Assegurar a gestão dos recursos materiais, logísticos e informáticos.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384442": {
+   "fragment_id": "864227347",
+   "type": 1,
+   "heading": "Capítulo III — Do pessoal",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+   ],
+   "markdown": "### Capítulo III — Do pessoal\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+  },
+  "864384443": {
+   "fragment_id": "864227348",
+   "type": 11,
+   "heading": "Artigo 13.º — Do pessoal",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 13.º — Do pessoal\n\n1 - O pessoal a recrutar para o SRPT é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal de enfermagem;\n\nd) Pessoal de informática;\n\ne) Pessoal técnico-profissional;\n\nf) Pessoal administrativo;\n\ng) Pessoal auxiliar.\n\n2 - O quadro de pessoal do SRPT é o constante do anexo ao presente diploma e pode ser alterado por portaria conjunta do membro do Governo que tutela o SRPT e dos membros do Governo que tutelam as áreas das finanças e da administração pública.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384444": {
+   "fragment_id": "864227349",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+   ],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+  },
+  "864384445": {
+   "fragment_id": "864227350",
+   "type": 11,
+   "heading": "Artigo 14.º — Do regime financeiro",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 14.º — Do regime financeiro\n\nAs despesas do SRPT são cobertas por dotação orçamental, inscrita em rubrica orgânica própria do orçamento da SRAS.»\n\n2 - É alterada a designação do diploma, que passa a denominar-se «Orgânica do Serviço Regional de Prevenção da Toxicodependência».\n\n3 - É alterado o capítulo IV, que passa a designar-se «Disposições finais».\n\n4 - São redenominadas as alíneas do n.º 1 do artigo 4.º do Decreto Regulamentar Regional n.º 9/2002/M, de 25 de Junho, a partir da alínea k), que passa a denominar-se de alínea l), sendo as restantes alíneas alteradas pela subsequente ordem alfabética.\n\n5 - A referência à alínea u) prevista no n.º 2 do artigo 4.º passa a reportar-se à alínea v).\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384446": {
+   "fragment_id": "864227351",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposição transitória",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30",
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+   ],
+   "markdown": "###### Artigo 15.º — Disposição transitória\n\nAté à extinção do Núcleo Regional do Projecto VIDA, a efectuar-se através de decreto legislativo regional, o exercício das competências previstas no presente diploma será exercido, com as devidas adaptações, em articulação com o serviço a extinguir.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar Regional n.º 4/2007/M - Diário da República n.º 33/2007, Série I de 2007-02-15](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2007-518019), em vigor a partir de 2007-02-16"
+  },
+  "864384447": {
+   "fragment_id": "864227352",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+  },
+  "864384448": {
+   "fragment_id": "864227353",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+   ],
+   "markdown": "Aprovado em Conselho do Governo Regional em 9 de Maio de 2002.\n\nO Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 27 de Maio de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+  },
+  "864384449": {
+   "fragment_id": "864227354",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 13.º)",
+   "in_force_from": "2008-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 13.º)\n\n(ver quadro no documento original)\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto Legislativo Regional n.º 22/2008/M - Diário da República n.º 119/2008, Série I de 2008-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2008-449948), em vigor a partir de 2008-06-30"
+  }
+ }
+}

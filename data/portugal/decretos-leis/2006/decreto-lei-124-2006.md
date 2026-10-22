@@ -1,0 +1,1808 @@
+---
+schema_version: '1.0'
+id: pt:dre:358491:por
+title: Decreto-Lei n.º 124/2006
+short_title: null
+summary: No uso da autorização legislativa concedida pela Lei n.º 12/2006, de 4 de Abril, estabelece as medidas e acções a
+  desenvolver no âmbito do Sistema Nacional de Defesa da Floresta contra Incêndios
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 124/2006
+official_date: null
+publication_date: '2006-06-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/2006, Série I-A de 2006-06-28
+  number: '123'
+  series: I
+  supplement: null
+  pages: 4586 - 4599
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/06/123a00/45864599.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes:
+- O presente Decreto-Lei foi revogado pelo <a href="https://data.dre.pt/eli/dec-lei/82/2021/p/cons/20220719/pt/html">Decreto-Lei
+  n.º 82/2021</a>, de 13 de outubro, aplicando-se, no entanto, o regime transitório definido no artigo 79.º daquele.
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-01'
+version_history:
+  file: decreto-lei-124-2006.versoes.json
+  count: 8
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-06-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-01-15'
+    amending: pt:dre:397362:por
+    amending_title: Decreto-Lei n.º 15/2009
+    changes:
+    - Altera Artigo 11.º
+    - Entrada Vigor Diploma
+  - date: '2011-12-01'
+    amending: pt:dre:146221:por
+    amending_title: Decreto-Lei n.º 114/2011
+    changes:
+    - Altera Artigo 3.º-A
+    - Altera Artigo 3.º-C
+    - Altera Artigo 9.º
+  - date: '2014-05-24'
+    amending: pt:dre:25345886:por
+    amending_title: Decreto-Lei n.º 83/2014
+    changes:
+    - Altera Artigo 26.º
+    - Altera Artigo 40.º
+    - Altera Artigo 41.º
+  - date: '2017-08-18'
+    amending: pt:dre:108238704:por
+    amending_title: Declaração de Retificação n.º 27/2017; Lei n.º 76/2017
+    changes:
+    - Retifica Artigo 16.º
+    - Adita Artigo 2.º-A
+    - Adita Artigo 26.º-A
+    - Adita Artigo 26.º-B
+    - Adita Artigo 37.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 3.º-A
+    - Altera Artigo 3.º-B
+    - Altera Artigo 3.º-C
+    - Altera Artigo 3.º-D
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+  - date: '2018-02-15'
+    amending: pt:dre:114685734:por
+    amending_title: Decreto-Lei n.º 10/2018
+    changes:
+    - Altera Anexo
+  - date: '2019-01-22'
+    amending: pt:dre:118051707:por
+    amending_title: Decreto-Lei n.º 14/2019
+    changes:
+    - Altera Artigo 3.º-B
+    - Altera Artigo 16.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 38.º
+  - date: '2022-01-01'
+    amending: pt:dre:172745163:por
+    amending_title: Decreto-Lei n.º 82/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/124/2006/p/cons/20211013/pt/html
+  oj: null
+  dre: '358491'
+  dre_path: /dr/detalhe/decreto-lei/124-2006-358491
+  internal: pt:dre:358491:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2006-358491
+  metadata_url: https://data.dre.pt/eli/dec-lei/124/2006/p/cons/20211013/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34482975
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34482975
+  retrieved_at: '2026-10-22T11:44:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 36781c36bcb7501c3f5200f4a85e61052a75001087200db49629ac5d3d82bff8
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:44:46Z'
+  notes: 8 versão(ões); histórico completo em decreto-lei-124-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crime
+- Proteção Civil
+- Incêndio
+- Prevenção de Incêndios
+- Multa
+- Contra-ordenação
+- Direcção Geral dos Recursos Florestais
+- Equipa de Reflorestação
+- Arborização
+- Proteção da Floresta
+- Expropriação
+- Fiscalização
+- Bombeiro
+- GNR
+- Forças Armadas
+- Plano Municipal de Defesa da Floresta contra Incêndios
+- Plano Nacional de Defesa da Floresta contra Incêndios
+- Fogueira
+- Autoridade Nacional de Protecção Civil
+- Servidão Administrativa
+- Sinalização
+- ZONA Crítica de Incêndio Florestal
+- Sistema de Defesa da Floresta contra Incêndios
+- Sistema de Gestão de Informação de Incêndios Florestais
+relationships:
+- type: amended_by
+  target: pt:dre:397360:por
+  label: Altera Artigo 11.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360
+  date: '2009-01-14'
+- type: amended_by
+  target: pt:dre:397362:por
+  label: Altera Artigo 11.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362
+  date: '2009-01-14'
+- type: amended_by
+  target: pt:dre:605319:por
+  label: Altera Artigo 11.º; Entrada Vigor Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2009-605319
+  date: '2009-03-13'
+- type: amended_by
+  target: pt:dre:146221:por
+  label: Altera Artigo 3.º-A; Altera Artigo 3.º-C; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:25345886:por
+  label: Altera Artigo 26.º; Altera Artigo 40.º; Altera Artigo 41.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2014-25345886
+  date: '2014-05-23'
+- type: amended_by
+  target: pt:dre:108010872:por
+  label: Retifica Artigo 16.º; Adita Artigo 2.º-A; Adita Artigo 26.º-A; Adita Artigo 26.º-B; Adita Artigo 37.º-A; Altera Artigo
+    1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 3.º-A; Altera Artigo 3.º-B; Altera Artigo 3.º-C; Altera Artigo
+    3.º-D; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872
+  date: '2017-08-17'
+- type: amended_by
+  target: pt:dre:108238704:por
+  label: Retifica Artigo 16.º; Adita Artigo 2.º-A; Adita Artigo 26.º-A; Adita Artigo 26.º-B; Adita Artigo 37.º-A; Altera Artigo
+    1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 3.º-A; Altera Artigo 3.º-B; Altera Artigo 3.º-C; Altera Artigo
+    3.º-D; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/27-2017-108238704
+  date: '2017-10-02'
+- type: amended_by
+  target: pt:dre:114685734:por
+  label: Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2018-114685734
+  date: '2018-02-14'
+- type: amended_by
+  target: pt:dre:118051707:por
+  label: Altera Artigo 3.º-B; Altera Artigo 16.º; Altera Artigo 27.º; Altera Artigo 28.º; Altera Artigo 38.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2019-118051707
+  date: '2019-01-21'
+- type: amended_by
+  target: pt:dre:172745163:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163
+  date: '2021-10-13'
+- type: cites
+  target: celex:31992R2158
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2158/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2006/04/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2006/04/04/p/dre
+article_structure:
+  article_count: 54
+  section_count: 19
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:44:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 124/2006
+
+1 - A floresta é um património essencial ao desenvolvimento sustentável de um país. No entanto, em Portugal, onde os espaços florestais constituem dois terços do território continental, tem-se assistido, nas últimas décadas, a uma perda de rentabilidade e competitividade da floresta portuguesa.
+
+Conscientes de que os incêndios florestais constituem uma séria ameaça à floresta portuguesa, que compromete a sustentabilidade económica e social do País, urge abordar a natureza estrutural do problema.
+
+A política de defesa da floresta contra incêndios, pela sua vital importância para o País, não pode ser implementada de forma isolada, mas antes inserindo-se num contexto mais alargado de ambiente e ordenamento do território, de desenvolvimento rural e de protecção civil, envolvendo responsabilidades de todos, Governo, autarquias e cidadãos, no desenvolvimento de uma maior transversalidade e convergência de esforços de todas as partes envolvidas, de forma directa ou indirecta.
+
+2 - Desde 1981 foi sendo elaborada legislação que traduz uma mudança de abordagem e um esforço de transversalidade.
+
+O Decreto-Lei n.º 156/2004, de 30 de Junho, preconizava a criação do sistema nacional de protecção e prevenção da floresta contra incêndios, mas, passados dois anos sobre a sua publicação, torna-se necessário revogá-lo, na medida em que apresenta conceitos desajustados; foram aprovadas outras vertentes legislativas no âmbito da floresta, designadamente o desincentivo ao fraccionamento da propriedade, com a criação das zonas de intervenção florestal; emergiram uma série de recomendações e orientações nesta matéria, nomeadamente as orientações estratégicas para a recuperação das áreas ardidas; por fim, mas de copiosa importância, a experiência decorrente da aplicação do diploma em duas épocas de incêndio consecutivas, o que permitiu a identificação de vicissitudes que cumpre agora aperfeiçoar.
+
+3 - Importa reconhecer que a estratégia de defesa da floresta contra incêndios tem de assumir duas dimensões, a defesa das pessoas e dos bens, sem protrair a defesa dos recursos florestais.
+
+Estas duas dimensões, que coexistem, de defesa de pessoas e bens e de defesa da floresta, são o braço visível de uma política de defesa da floresta contra incêndios que se traduz na elaboração de adequadas normas para a protecção de uma e de outra, ou de ambas, de acordo com os objectivos definidos e uma articulação de acções com vista à defesa da floresta contra incêndios, fomentando o equilíbrio a médio e longo prazos da capacidade de gestão dos espaços rurais e florestais.
+
+4 - O sistema de defesa da floresta contra incêndios agora preconizado identifica objectivos e recursos e traduz-se num modelo activo, dinâmico e integrado, enquadrando numa lógica estruturante de médio e longo prazos os instrumentos disponíveis, nos termos do qual importa:
+
+Promover a gestão activa da floresta;
+
+Implementar a gestão de combustíveis em áreas estratégicas, de construção e manutenção de faixas exteriores de protecção de zonas de interface, de tratamento de áreas florestais num esquema de mosaico e de intervenção silvícola, no âmbito de duas dimensões que se complementam, a defesa de pessoas e bens e a defesa da floresta;
+
+Reforçar as estruturas de combate e de defesa da floresta contra incêndios;
+
+Dinamizar um esforço de educação e sensibilização para a defesa da floresta contra incêndios e para o uso correcto do fogo;
+
+Adoptar estratégias de reabilitação de áreas ardidas;
+
+Reforçar a vigilância e a fiscalização e aplicação do regime contra-ordenacional instituído.
+
+Merece especial destaque na concretização destes objectivos a clarificação de conceitos no âmbito da defesa da floresta contra incêndios; a necessidade e observância efectiva de um planeamento em quatro níveis: a nível nacional, a nível regional, a nível municipal e intermunicipal e a nível local, de forma a assegurar a consistência territorial de políticas, instrumentos, medidas e acções, numa lógica de contribuição para a parte e para o todo nacional; a introdução de redes de gestão de combustível, com definição de delimitação de responsabilidade das várias entidades, introduzindo novas preocupações no âmbito da defesa de pessoas e bens e da defesa da floresta; a definição de um quadro jurídico que permita a célere intervenção, por declaração de utilidade pública, em redes primárias de faixas de gestão de combustível; a aposta na sensibilização e educação, com a divulgação coordenada de campanhas; a agilização da fiscalização do cumprimento destas acções; a consagração de formas de intervenção substitutiva dos particulares e do Estado em caso de incumprimento; o agravamento do valor das coimas.
+
+5 - À semelhança das acções preconizadas, a valorização de comportamentos e acções de defesa da floresta contra incêndios foi reavaliada, havendo a intenção clara de penalizar a omissão, a negligência e o dolo, tornando o sistema de defesa da floresta contra incêndios mais eficiente e eficaz e com maiores ganhos na mitigação do risco de incêndio florestal, que se pretende gradual e significativamente inferior.
+
+O regime contra-ordenacional aqui vertido assenta na penalização da ausência de gestão activa da floresta e na dimensão e gravidade dos comportamentos.
+
+As coimas apresentam um agravamento de cerca de 40%, ajustando-se à realidade económica e à devida proporção da protecção do bem floresta.
+
+O novo papel assumido pelas autarquias locais no âmbito do presente decreto-lei implica a regulamentação da Lei n.º 159/99, de 14 de Setembro, e até lá o recurso à Medida AGRIS, co-financiada pelo FEOGA - Orientação, e a contratos-programa estabelecidos ou a estabelecer com o Governo.
+
+Foi promovida a consulta aos órgãos de governo próprio da Região Autónoma dos Açores.
+
+Foram ouvidas, a título facultativo, as entidades representadas no Conselho Consultivo Florestal.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses, a Associação Nacional de Freguesias e a Assembleia Legislativa da Região Autónoma da Madeira.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 1.º da Lei n.º 12/2006, de 4 de Abril, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 1.º — Objecto e âmbito de aplicação
+
+1 - O presente decreto-lei estrutura o Sistema de Defesa da Floresta contra Incêndios (SDFCI).
+
+2 - O presente decreto-lei aplica-se a todo o território continental português.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 2.º — Sistema de Defesa da Floresta contra Incêndios
+
+1 - O Sistema de Defesa da Floresta contra Incêndios prevê o conjunto de medidas e acções de articulação institucional, de planeamento e de intervenção relativas à prevenção e protecção das florestas contra incêndios, nas vertentes da compatibilização de instrumentos de ordenamento, de sensibilização, planeamento, ordenamento do território florestal, silvicultura, infra-estruturação, vigilância, detecção, combate, rescaldo, vigilância pós-incêndio e fiscalização, a levar a cabo pelas entidades públicas com competências na defesa da floresta contra incêndios e entidades privadas com intervenção no sector florestal.
+
+2 - No âmbito do Sistema de Defesa da Floresta contra Incêndios, a prevenção estrutural assume um papel predominante, assente na actuação de forma concertada de planeamento e na procura de estratégias conjuntas, conferindo maior coerência regional e nacional à defesa da floresta contra incêndios.
+
+3 - No âmbito do Sistema de Defesa da Floresta contra Incêndios, cabe:
+
+a) Ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), a coordenação das ações de prevenção estrutural, nas vertentes de sensibilização, planeamento, organização do território florestal, silvicultura e infraestruturação de defesa da floresta contra incêndios;
+
+b) À Guarda Nacional Republicana (GNR) a coordenação das ações de prevenção relativas à vertente da vigilância, deteção e fiscalização;
+
+c) À Autoridade Nacional de Proteção Civil (ANPC), a coordenação das ações de combate, rescaldo e vigilância pós-incêndio.
+
+4 - Compete ao ICNF, I. P., a organização e coordenação do dispositivo de prevenção estrutural que, durante o período crítico, se integra na estrutura operacional prevista no dispositivo especial de combate a incêndios florestais (DECIF).
+
+5 - Compete ainda ao ICNF, I. P., a manutenção, à escala nacional, de um sistema de informação relativo a incêndios florestais, através da adoção de um sistema de gestão de informação de incêndios florestais (SGIF) e os registos das áreas ardidas.
+
+6 - O sistema referido no número anterior recebe informação dos sistemas de gestão de ocorrências, gestão de recursos humanos, materiais e financeiros de todos os agentes de defesa da floresta contra incêndios, assegurando-se por protocolos a confidencialidade, transparência e partilha de informação entre todas as entidades públicas e privadas.
+
+7 - (Revogado.)
+
+8 - Todas as entidades públicas que integram o SDFCI ficam sujeitas ao dever de colaboração e têm acesso aos dados do SGIF necessários à definição das políticas e ações de prevenção estrutural, vigilância, deteção, combate, rescaldo, vigilância ativa pós-rescaldo e fiscalização.
+
+9 - As regras de criação e funcionamento do SGIF são aprovadas mediante proposta do ICNF, I. P., ouvidas a ANPC e a GNR.
+
+10 - É criada no âmbito do ICNF, I. P., uma equipa responsável por impulsionar, acompanhar e monitorizar a aplicação do Plano Nacional de Defesa da Floresta contra Incêndios (PNDFCI), com um coordenador nomeado nos termos da legislação aplicável.
+
+11 - Anualmente, até 30 de setembro, a equipa referida no número anterior apresenta o plano e orçamento para aplicação do PNDFCI para o ano seguinte, a autonomizar no Orçamento do ICNF, I. P., explicitando as verbas a afetar pelo Estado e, indicativamente, as verbas a disponibilizar por outras entidades.
+
+12 - Até 21 de março de cada ano a equipa referida no n.º 10 elabora o balanço e as contas relativamente à aplicação do PNDFCI no ano anterior, indicando o grau de cumprimento das metas definidas.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 2.º-A — Duração do período crítico
+
+O período crítico no âmbito do SDFCI vigora de 1 de julho a 30 de setembro, podendo a sua duração ser alterada, em situações excecionais, por despacho do membro do governo responsável pela área das florestas.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+###### Artigo 3.º — Definições
+
+1 - Para efeitos do disposto no presente decreto-lei, entende-se por:
+
+a) «Aglomerado populacional», o conjunto de edifícios contíguos ou próximos, distanciados entre si no máximo 50 m e com 10 ou mais fogos, constituindo o seu perímetro a linha poligonal fechada que, englobando todos os edifícios, delimite a menor área possível;
+
+b) «Áreas edificadas consolidadas», as áreas de concentração de edificações, classificadas nos planos municipais e intermunicipais de ordenamento do território como solo urbano ou como aglomerado rural;
+
+c) «Carregadouro», o local destinado à concentração temporária de material lenhoso resultante da exploração florestal, com o objetivo de facilitar as operações de carregamento, nomeadamente a colocação do material lenhoso em veículos de transporte que o conduzirão às unidades de consumo e transporte para o utilizador final ou para parques de madeira;
+
+d) «Contrafogo», o uso do fogo no âmbito da luta contra os incêndios florestais, consistindo na ignição de um fogo ao longo de uma zona de apoio, na dianteira de uma frente de incêndio de forma a provocar a interação das duas frentes de fogo e a alterar a sua direção de propagação ou a provocar a sua extinção;
+
+e) «Deteção de incêndios», a identificação e localização precisa das ocorrências de incêndio florestal com vista à sua comunicação rápida às entidades responsáveis pelo combate;
+
+f) «Edificação», a atividade ou o resultado da construção, reconstrução, ampliação, alteração ou conservação de um imóvel destinado a utilização humana, bem como de qualquer outra construção que se incorpore no solo com carácter de permanência, excecionando-se as obras de escassa relevância urbanística para efeitos de aplicação do presente decreto-lei;
+
+g) «Edifício», construção permanente dotada de acesso independente, coberta, limitada por paredes exteriores ou paredes meeiras que vão das fundações à cobertura, destinada à utilização humana ou a outros fins, com exceção dos edifícios que correspondam a obras de escassa relevância urbanística;
+
+h) «Espaços florestais», os terrenos ocupados com floresta, matos e pastagens ou outras formações vegetais espontâneas, segundo os critérios definidos no Inventário Florestal Nacional;
+
+i) «Espaços rurais», os espaços florestais e terrenos agrícolas;
+
+j) «Floresta», o terreno, com área maior ou igual a 0,5 hectares e largura maior ou igual a 20 metros, onde se verifica a presença de árvores florestais que tenham atingido, ou com capacidade para atingir, uma altura superior a 5 metros e grau de coberto maior ou igual a 10 %;
+
+l) «Fogo controlado», o uso do fogo na gestão de espaços florestais, sob condições, normas e procedimentos conducentes à satisfação de objetivos específicos e quantificáveis e que é executada sob responsabilidade de técnico credenciado;
+
+m) «Fogo de gestão de combustível», o uso do fogo que, em condições meteorológicas adequadas, e em espaços rurais de reduzido valor, permite a evolução do incêndio rural dentro de um perímetro preestabelecido, com um menor empenhamento de meios de supressão no interior do mesmo;
+
+n) «Fogo de supressão», o uso técnico do fogo no âmbito da luta contra os incêndios rurais compreendendo o fogo tático e o contrafogo, quando executado sob a responsabilidade do Comandante das Operações de Socorro (COS);
+
+o) «Fogo tático», o uso do fogo no âmbito da luta contra os incêndios florestais, consistindo na ignição de um fogo ao longo de uma zona de apoio com o objetivo de reduzir a disponibilidade de combustível, e desta forma diminuir a intensidade do incêndio, terminar ou corrigir a extinção de uma zona de rescaldo de maneira a diminuir as probabilidades de reacendimentos, ou criar uma zona de segurança para a proteção de pessoas e bens;
+
+p) «Fogo técnico», o uso do fogo que comporta as componentes de fogo controlado e de fogo de supressão;
+
+q) «Fogueira», a combustão com chama, confinada no espaço e no tempo, para aquecimento, iluminação, confeção de alimentos, proteção e segurança, recreio ou outros afins;
+
+r) «Gestão de combustível», a criação e manutenção da descontinuidade horizontal e vertical da carga combustível nos espaços rurais, através da modificação ou da remoção parcial ou total da biomassa vegetal, nomeadamente por pastoreio, corte e ou remoção, empregando as técnicas mais recomendadas com a intensidade e frequência adequadas à satisfação dos objetivos dos espaços intervencionados;
+
+s) «Incêndio agrícola», o incêndio rural em que a área ardida agrícola é superior à área ardida florestal e a área ardida florestal é inferior a 1 hectare;
+
+t) «Incêndio florestal», o incêndio rural em que a área ardida florestal é superior à área agrícola e a área ardida total é inferior a 1 hectare ou sempre que a área ardida florestal seja superior a 1 hectare;
+
+u) «Incêndio rural», o incêndio florestal ou agrícola que decorre nos espaços rurais;
+
+v) «Índice de risco de incêndio rural», a expressão numérica que, traduzindo o estado dos combustíveis por ação da meteorologia e os parâmetros meteorológicos relevantes, auxilia à determinação dos locais onde são mais favoráveis as condições para ignição ou propagação do fogo;
+
+x) «Índice de perigosidade de incêndio rural», a probabilidade de ocorrência de incêndio rural, num determinado intervalo de tempo e numa dada área, em função da suscetibilidade do território e cenários considerados;
+
+z) «Instrumentos de gestão florestal», os planos de gestão florestal, os elementos estruturantes das zonas de intervenção florestal, os projetos elaborados no âmbito dos diversos programas públicos de apoio ao desenvolvimento e proteção dos recursos florestais e, ainda, os projetos a submeter à apreciação de entidades públicas no âmbito da legislação florestal;
+
+aa) «Mosaico de parcelas de gestão de combustível», o conjunto de parcelas do território estrategicamente localizadas, onde, através de ações de silvicultura, se procede à gestão dos vários estratos de combustível e à diversificação da estrutura e composição das formações vegetais, com o objetivo primordial de defesa da floresta contra incêndios;
+
+bb) «Período crítico», o período durante o qual vigoram medidas e ações especiais de prevenção contra incêndios florestais, por força de circunstâncias meteorológicas excecionais;
+
+cc) «Plano», o estudo integrado dos elementos que regulam as ações de intervenção no âmbito da defesa da floresta contra incêndios num dado território, identificando os objetivos a alcançar, as catividades a realizar, as competências e atribuições dos agentes envolvidos e os meios necessários à concretização das ações previstas;
+
+dd) «Povoamento florestal», o terreno, com área maior ou igual a 0,5 hectares e largura maior ou igual a 20 metros onde se verifica a presença de árvores florestais que tenham atingido, ou com capacidade para atingir, uma altura superior a 5 metros e grau de coberto maior ou igual a 10 %;
+
+ee) «Baldios», os terrenos com as suas partes e equipamentos integrantes, possuídos e geridos por comunidades locais, conforme definição no Regime aplicável aos baldios e aos demais meios de produção comunitários (Lei n.º 75/2017, de 17 de agosto);
+
+ff) «Proprietários e outros produtores florestais», os proprietários, usufrutuários, superficiários, arrendatários ou quem, a qualquer título, for possuidor ou detenha a administração dos terrenos que integram os espaços florestais do continente, independentemente da sua natureza jurídica;
+
+gg) «Queima», o uso do fogo para eliminar sobrantes de exploração, cortados e amontoados;
+
+hh) «Queimadas», o uso do fogo para renovação de pastagens e eliminação de restolho e ainda, para eliminar sobrantes de exploração cortados mas não amontoados;
+
+ii) «Recuperação», o conjunto de atividades que têm como objetivo a promoção de medidas e ações de recuperação e reabilitação, como a mitigação de impactes e a recuperação de ecossistemas;
+
+jj) «Rede de faixas de gestão de combustível», o conjunto de parcelas lineares de território, estrategicamente localizadas, onde se garante a remoção total ou parcial de biomassa florestal, através da afetação a usos não florestais e do recurso a determinadas atividades ou a técnicas silvícolas com o objetivo principal de criar oportunidades para o combate em caso de incêndio rural e de reduzir a suscetibilidade ao fogo;
+
+ll) «Rede de infraestruturas de apoio ao combate», o conjunto de infraestruturas e equipamentos afetos às entidades responsáveis pelo combate e apoio ao combate a incêndios florestais, relevantes para este fim, entre os quais os aquartelamentos e edifícios das corporações de bombeiros, dos sapadores florestais, da GNR, das Forças Armadas e das autarquias, os terrenos destinados à instalação de postos de comando operacional e as infraestruturas de apoio ao funcionamento dos meios aéreos;
+
+mm) «Rede de pontos de água», o conjunto de estruturas de armazenamento de água, de planos de água acessíveis e de pontos de tomada de água, com funções de apoio ao reabastecimento dos equipamentos de luta contra incêndios;
+
+nn) «Rede de vigilância e deteção de incêndios», o conjunto de infraestruturas e equipamentos que visam permitir a execução eficiente das ações de deteção de incêndios, vigilância, fiscalização e dissuasão, integrando designadamente a rede nacional de postos de vigia (RNPV), os locais estratégicos de estacionamento, os troços especiais de vigilância móvel e os trilhos de vigilância, a videovigilância ou outros meios que se revelem tecnologicamente adequados;
+
+oo) «Rede viária florestal», o conjunto de vias de comunicação integradas nos espaços que servem de suporte à sua gestão, com funções que incluem a circulação para o aproveitamento dos recursos naturais, para a constituição, condução e exploração dos povoamentos florestais e das pastagens;
+
+pp) «Rescaldo», a operação técnica que visa a extinção do incêndio;
+
+qq) «Risco de incêndio rural», a probabilidade de que um incêndio rural ocorra num local específico, sob determinadas circunstâncias, e impactes nos elementos afetados, sendo função da perigosidade e dos danos potenciais aos elementos em risco;
+
+rr) «Sobrantes de exploração», o material lenhoso e outro material vegetal resultante de atividades agroflorestais;
+
+ss) «Suscetibilidade de incêndio rural», a propensão de uma dada área ou unidade territorial para ser afetada pelo fenómeno em apreço, avaliada a partir das propriedades que lhe são intrínsecas, sendo mais ou menos suscetível conforme melhor permita a deflagração e a progressão de um incêndio;
+
+tt) «Supressão», a ação concreta e objetiva destinada a extinguir um incêndio, incluindo a garantia de que não ocorrem reacendimentos, que apresenta três fases principais: a primeira intervenção, o combate e o rescaldo;
+
+uu) «Turismo de habitação», os estabelecimentos de natureza familiar instalados em imóveis antigos particulares que, pelo seu valor arquitetónico, histórico ou artístico, sejam representativos de uma determinada época, nomeadamente palácios e solares, podendo localizar-se em espaços rurais ou urbanos;
+
+vv) «Turismo no espaço rural», os estabelecimentos que se destinam a prestar, em espaços rurais, serviços de alojamento a turistas, preservando, recuperando e valorizando o património arquitetónico, histórico, natural e paisagístico dos respetivos locais e regiões onde se situam, através da reconstrução, reabilitação ou ampliação de construções existentes, de modo a ser assegurada a sua integração na envolvente.
+
+2 - Os critérios de gestão de combustível são definidos no anexo do presente decreto-lei, que dele faz parte integrante, e devem ser aplicados nas atividades de gestão florestal e na defesa de pessoas e bens.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+### Capítulo II — Planeamento de defesa da floresta contra incêndios
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+#### Secção I — Comissões de defesa da floresta
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 3.º-A — Âmbito, natureza e missão
+
+1 - As comissões de defesa da floresta, de âmbito distrital ou municipal, são estruturas de articulação, planeamento e acção que têm como missão a coordenação de programas de defesa da floresta.
+
+2 - As comissões distritais de defesa da floresta, responsáveis pela coordenação distrital dos programas e ações de prevenção estrutural, articulam-se com as comissões distritais de proteção civil, responsáveis pela coordenação distrital enquanto estrutura de coordenação política em matérias de proteção civil.
+
+3 - As comissões municipais de defesa da floresta (CMDF) podem agrupar-se em comissões intermunicipais, desde que correspondendo a uma área geográfica inserida no mesmo programa regional de ordenamento florestal (PROF), com vista à otimização dos recursos e ao planeamento integrado das ações.
+
+4 - As comissões distritais funcionam sob a coordenação do responsável regional do ICNF, I. P., e as comissões municipais sob a coordenação do presidente da câmara municipal.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 3.º-B — Atribuições
+
+1 - São atribuições das comissões distritais:
+
+a) Articular a actuação dos organismos com competências em matéria de defesa da floresta, no âmbito da sua área geográfica;
+
+b) Elaborar um plano de defesa da floresta contra incêndios que defina as medidas necessárias para o efeito e que inclua a previsão e planeamento integrado das intervenções das diferentes entidades perante a ocorrência de incêndios, nomeadamente a localização de infraestruturas florestais de combate a incêndios, em consonância com o PNDFCI e com o respetivo PROF;
+
+c) Promover e acompanhar o desenvolvimento das acções de defesa da floresta ao nível distrital;
+
+d) Colaborar na divulgação de avisos às populações;
+
+e) Colaborar nos programas de sensibilização.
+
+2 - São atribuições das comissões municipais:
+
+a) Articular a actuação dos organismos com competências em matéria de defesa da floresta, no âmbito da sua área geográfica;
+
+b) Avaliar e emitir parecer sobre o plano municipal de defesa da floresta contra incêndios (PMDFCI);
+
+c) Propor projetos de investimento na prevenção e proteção da floresta contra incêndios, de acordo com os planos aplicáveis;
+
+d) Apreciar o relatório anual de execução do PMDFCI a apresentar pela câmara municipal;
+
+e) Acompanhar o desenvolvimento dos programas de controlo de agentes bióticos e promover ações de proteção florestal;
+
+f) Acompanhar o desenvolvimento das ações de sensibilização da população, conforme plano nacional de sensibilização elaborado pelo ICNF, I. P.;
+
+g) Promover, ao nível das unidades locais de proteção civil, a criação de equipas de voluntários de apoio à defesa contra incêndios em aglomerados rurais e apoiar na identificação e formação do pessoal afeto a esta missão, para que possa atuar em condições de segurança;
+
+h) Proceder à identificação e aconselhar a sinalização das infra-estruturas florestais de prevenção e protecção da floresta contra incêndios, para uma utilização mais rápida e eficaz por parte dos meios de combate;
+
+i) Identificar e propor as áreas florestais a sujeitar a informação especial, com vista ao condicionamento do acesso, circulação e permanência;
+
+j) Colaborar na divulgação de avisos às populações;
+
+l) Avaliar os planos de fogo controlado que lhe forem apresentados pelas entidades proponentes, no âmbito do previsto no Regulamento do Fogo Controlado;
+
+m) Emitir, quando solicitado, parecer sobre os programas nacionais de defesa da floresta.
+
+n) Emitir os pareceres previstos no artigo 16.º, nomeadamente sobre as medidas de minimização do perigo de incêndio, incluindo as medidas relativas à contenção de possíveis fontes de ignição de incêndios nas edificações e nos respetivos acessos, bem como à defesa e resistência das edificações à passagem do fogo;
+
+o) Aprovar a delimitação das áreas identificadas em sede do planeamento municipal com potencial para a prática de fogo de gestão de combustível.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2019-118051707), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 3.º-C — Composição das comissões distritais
+
+1 - As comissões distritais têm a seguinte composição:
+
+a) (Revogada).
+
+b) O responsável regional do ICNF, I. P., que preside;
+
+c) (Revogada).
+
+d) Um representante de cada município, indicado pelo respectivo presidente de câmara;
+
+e) O comandante operacional distrital da ANPC;
+
+f) O comandante do comando territorial respectivo da Guarda Nacional Republicana;
+
+g) (Revogada.)
+
+h) Um representante das Forças Armadas;
+
+i) Um representante da Autoridade Marítima, nos distritos onde esta tem jurisdição;
+
+j) Um representante da Polícia de Segurança Pública;
+
+l) Um representante da comissão de coordenação e desenvolvimento regional territorialmente competente.
+
+m) Dois representante das organizações de produtores florestais;
+
+n) (Revogada.)
+
+o) Um representante da Liga dos Bombeiros Portugueses.
+
+p) Um representante da Infraestruturas de Portugal, S. A. (IP, S. A.), um representante do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), e dois representantes dos concessionários da distribuição e transporte de energia elétrica;
+
+q) Outras entidades e personalidades a convite do presidente da comissão.
+
+2 - Nos concelhos onde existam unidades de baldio há um representante dos respetivos conselhos diretivos.
+
+3 - O apoio técnico às comissões distritais é assegurado pelo serviço do ICNF, I. P., territorialmente competente.
+
+4 - Para acompanhamento da elaboração e implementação do plano distrital de defesa da floresta contra incêndios, pode a comissão distrital nomear, de entre os seus membros, uma comissão técnica especial.
+
+5 - O desempenho de funções na comissão prevista no presente artigo não confere direito a qualquer remuneração.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 3.º-D — Composição das comissões municipais
+
+1 - As comissões municipais têm a seguinte composição:
+
+a) O presidente da câmara municipal ou seu representante, que preside;
+
+b) Até cinco representantes das freguesias do concelho, a designar pela assembleia municipal;
+
+c) Um representante do ICNF, I. P.;
+
+d) (Revogada.)
+
+e) O coordenador municipal de proteção civil;
+
+f) Um representante da Guarda Nacional Republicana;
+
+g) Um representante da Polícia de Segurança Pública, se esta estiver representada no município;
+
+h) Um representante das organizações de produtores florestais;
+
+i) Um representante da IP, S. A., um representante do IMT, I. P., e dois representantes dos concessionários da distribuição e transporte de energia elétrica, sempre que se justifique;
+
+j) Outras entidades e personalidades a convite do presidente da comissão.
+
+2 - Nos concelhos onde existam unidades de baldio há um representante dos respectivos conselhos directivos.
+
+3 - O apoio técnico e administrativo às comissões é assegurado pelos serviços municipais.
+
+4 - As comissões podem ser apoiadas por um gabinete técnico florestal da responsabilidade da câmara municipal.
+
+5 - O desempenho de funções na comissão prevista no presente artigo não confere direito a qualquer remuneração.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 20/2009 - Diário da República n.º 51/2009, Série I de 2009-03-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2009-605319), em vigor a partir de 2009-02-13
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+#### Secção II — Elementos de planeamento
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 4.º — Índice de risco de incêndio rural
+
+1 - O índice de risco de incêndio estabelece o risco diário de ocorrência de incêndio rural, cujos níveis são reduzido (1), moderado (2), elevado (3), muito elevado (4) e máximo (5), conjugando a informação do índice de perigo meteorológico de incêndio, produzido pela entidade investida da função de autoridade nacional de meteorologia, com o índice de risco conjuntural, definido pelo ICNF, I. P.
+
+2 - O índice de risco de incêndio rural é elaborado e divulgado diariamente pela autoridade nacional de meteorologia.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 5.º — Classificação do continente segundo a perigosidade de incêndio rural
+
+1 - Para efeitos do presente decreto-lei e com base em critérios de avaliação do índice de perigosidade de incêndio rural em Portugal continental, é estabelecida a classificação do território, de acordo com as seguintes classes qualitativas:
+
+a) Classe I - Muito baixa;
+
+b) Classe II - Baixa;
+
+c) Classe III - Média;
+
+d) Classe IV - Alta;
+
+e) Classe V - Muito alta.
+
+2 - O modelo numérico de definição do índice de perigosidade de incêndio rural de escala nacional e municipal é publicado pelo ICNF, I. P.
+
+3 - A classificação do território continental segundo o índice de perigosidade de incêndio rural é, à escala nacional, anualmente divulgada na página do ICNF, I. P., depois de ouvida a ANPC.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+###### Artigo 6.º — Zonas críticas
+
+1 - As manchas florestais onde se reconhece ser prioritária a aplicação de medidas mais rigorosas de defesa da floresta contra incêndios, quer face à elevada suscetibilidade ou à perigosidade que representam, quer em função do seu valor patrimonial, social ou ecológico, são designadas por zonas críticas, sendo estas identificadas, demarcadas e alvo de planeamento próprio nos PROF.
+
+2 - As zonas críticas são definidas por portaria dos membros do Governo responsáveis pelas áreas da floresta e do ambiente.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+#### Secção III — Planeamento da defesa da floresta contra incêndios
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 7.º — Planeamento da defesa da floresta contra incêndios
+
+1 - Assegurando a consistência territorial de políticas, instrumentos, medidas e acções, o planeamento da defesa da floresta contra incêndios tem um nível nacional, distrital e municipal.
+
+2 - O planeamento nacional, através do PNDFCI, organiza o sistema, define a visão, a estratégia, eixos estratégicos, metas, objetivos e ações prioritárias.
+
+3 - O planeamento distrital tem um enquadramento tático e caracteriza-se pela seriação e organização das ações e dos objetivos definidos no PNDFCI à escala distrital, orientando, por níveis de prioridade, as ações identificadas a nível municipal.
+
+4 - O planeamento municipal tem um carácter executivo e de programação operacional e deverá cumprir as orientações e prioridades distritais e locais, numa lógica de contribuição para o todo nacional.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 8.º — Plano Nacional de Defesa da Floresta contra Incêndios
+
+1 - O PNDFCI define os objetivos gerais de prevenção, pré-supressão, supressão e recuperação num enquadramento sistémico e transversal da defesa da floresta contra incêndios.
+
+2 - O PNDFCI é um plano plurianual, de cariz interministerial, submetido a avaliação anual, e onde estão preconizadas a política e as medidas para a defesa da floresta contra incêndios, englobando planos de prevenção, sensibilização, vigilância, deteção, combate, supressão, recuperação de áreas ardidas, investigação e desenvolvimento, coordenação e formação dos meios e agentes envolvidos, bem como uma definição clara de objetivos e metas a atingir, calendarização das medidas e ações, orçamento, plano financeiro e indicadores de execução.
+
+3 - (Revogado.)
+
+4 - O PNDFCI deve conter orientações a concretizar nos PROF, refletindo-se nos níveis subsequentes do planeamento.
+
+5 - O PNDFCI é elaborado pelo ICNF, I. P., e aprovado por resolução do Conselho de Ministros, sendo a sua monitorização objeto de relatório bianual elaborado por entidade externa.
+
+6 - (Revogado).
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 9.º — Planeamento distrital de defesa da floresta contra incêndios
+
+1 - O planeamento distrital de defesa da floresta contra incêndios desenvolve as orientações nacionais decorrentes do planeamento nacional em matéria florestal e do PNDFCI, estabelecendo a estratégia distrital de defesa da floresta contra incêndios.
+
+2 - A coordenação e actualização contínua do planeamento distrital cabe aos respectivos responsáveis regionais pela área das florestas.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-12-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 10.º — Planeamento municipal de defesa da floresta contra incêndios
+
+1 - Os planos municipais de defesa da floresta contra incêndios (PMDFCI), de âmbito municipal ou intermunicipal, contêm as acções necessárias à defesa da floresta contra incêndios e, para além das acções de prevenção, incluem a previsão e a programação integrada das intervenções das diferentes entidades envolvidas perante a eventual ocorrência de incêndios.
+
+2 - Os PMDFCI são elaborados pelas câmaras municipais, sujeitos a parecer prévio das respetivas CMDF e parecer vinculativo do ICNF, I. P., e aprovados pela assembleia municipal, em consonância com o PNDFCI e com o respetivo planeamento distrital de defesa da floresta contra incêndios, sendo as regras de elaboração, consulta pública e aprovação e a sua estrutura tipo estabelecidas por regulamento do ICNF, I. P., homologado pelo membro do Governo responsável pela área das florestas.
+
+3 - A coordenação e a gestão dos PMDFCI compete ao presidente de câmara municipal.
+
+4 - A elaboração, execução, avaliação anual da execução e atualização dos PMDFCI têm carácter obrigatório, devendo a câmara municipal consagrar a execução da componente que lhe compete no âmbito dos planos e relatórios anuais de atividades.
+
+5 - A cartografia da rede de defesa da floresta contra incêndios constituída pela rede primária de faixas de gestão de combustível, rede viária florestal fundamental, rede de pontos de água e rede nacional de postos de vigia (RNPV), assim como a carta de perigosidade de incêndio florestal, constantes dos PMDFCI, devem ser incorporadas e regulamentadas nos respetivos planos municipais de ordenamento do território.
+
+6 - As plantas dos PMDFCI são elaboradas à mesma escala da planta de condicionantes do Plano Diretor Municipal.
+
+7 - Os municípios podem criar e implementar programas especiais de intervenção florestal no âmbito de planos de defesa da floresta para áreas florestais contíguas a infraestruturas de elevado valor estratégico nacional e para áreas florestais estratégicas e de elevado valor, conforme apresentado na cartografia de perigosidade de incêndio rural, que constem dos PDDFCI.
+
+8 - (Revogado).
+
+9 - (Revogado).
+
+10 - (Revogado).
+
+11 - No âmbito da defesa da floresta contra incêndios e da gestão florestal, apenas têm direito a subsídio ou beneficio outorgado pelo Estado os municípios que possuam PMDFCI aprovado.
+
+12 - Os PMDFCI, de âmbito municipal ou intermunicipal são tornados públicos, com o teor integral, por publicação em espaço próprio da 2.ª série do Diário da República e por inserção no sítio na Internet do respetivo município, das freguesias correspondentes e do ICNF, I. P.
+
+13 - O ICNF, I. P., lista no seu sítio da Internet os municípios que não disponham de PMDFCI aprovados ou atualizados.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 11.º — Relação entre instrumentos de planeamento
+
+1 - Todos os instrumentos de gestão florestal devem explicitar não só as ações de silvicultura para defesa da floresta contra incêndios e de infraestruturação dos espaços rurais, mas também a sua integração e compatibilização com os instrumentos de planeamento florestal de nível superior, designadamente os PMDFCI e os PROF.
+
+2 - A desconformidade dos planos municipais de ordenamento do território com os PMDFCI supervenientes não desvincula as entidades e particulares da observância destes últimos e determina a sua conformação no procedimento imediato de alteração que tiver lugar por iniciativa do município, sem prejuízo da eventual decisão de abertura do procedimento de alteração por adaptação daqueles instrumentos de planeamento, previsto no artigo 121.º do Decreto-Lei n.º 80/2015, de 14 de maio.
+
+3 - Todas as iniciativas locais de prevenção, pré-supressão e recuperação de áreas ardidas ao nível submunicipal devem ser articuladas e enquadradas pelos PMDFCI.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2009-397362), em vigor a partir de 2009-01-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+### Capítulo III — Medidas de organização do território, de silvicultura e de infra-estruturação
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+#### Secção I — Organização do território
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 12.º — Redes de defesa da floresta contra incêndios
+
+1 - As redes de defesa da floresta contra incêndios (RDFCI) concretizam territorialmente, de forma coordenada, a infra-estruturação dos espaços rurais decorrente da estratégia do planeamento de defesa da floresta contra incêndios.
+
+2 - As RDFCI integram as seguintes componentes:
+
+a) Redes de faixas de gestão de combustível;
+
+b) Mosaico de parcelas de gestão de combustível;
+
+c) Rede viária florestal;
+
+d) Rede de pontos de água;
+
+e) Rede de vigilância e detecção de incêndios;
+
+f) Rede de infra-estruturas de apoio ao combate.
+
+3 - A monitorização do desenvolvimento e da utilização das RDFCI incumbe ao ICNF, I. P.
+
+4 - O acompanhamento da componente prevista na alínea d) do n.º 2 é da responsabilidade do ICNF, I. P., em articulação com a ANPC.
+
+5 - No que se refere às componentes previstas na alínea e) do n.º 2, a monitorização do desenvolvimento e da utilização incumbe à GNR em articulação com o ICNF, I. P., e com a ANPC.
+
+6 - Quanto à componente prevista na alínea f) do n.º 2, a monitorização do desenvolvimento e da utilização é da responsabilidade da ANPC em articulação com o ICNF, I. P., e a GNR.
+
+7 - A recolha, registo e atualização da base de dados das RDFCI deve ser efetuada pelas autarquias locais, mediante protocolo e procedimento divulgado em norma técnica pelo ICNF, I. P.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 13.º — Redes de faixas de gestão de combustível
+
+1 - A gestão dos combustíveis existentes nos espaços rurais é realizada através de faixas e de parcelas, situadas em locais estratégicos para a prossecução de determinadas funções, onde se procede à modificação e à remoção total ou parcial da biomassa presente.
+
+2 - As faixas de gestão de combustível constituem redes primárias, secundárias e terciárias, tendo em consideração as funções que podem desempenhar, designadamente:
+
+a) Função de diminuição da superfície percorrida por grandes incêndios, permitindo e facilitando uma intervenção directa de combate ao fogo;
+
+b) Função de redução dos efeitos da passagem de incêndios, protegendo de forma passiva vias de comunicação, infra-estruturas e equipamentos sociais, zonas edificadas e povoamentos florestais de valor especial;
+
+c) Função de isolamento de potenciais focos de ignição de incêndios.
+
+3 - As redes primárias de faixas de gestão de combustível, de interesse distrital, cumprem todas as funções referidas no número anterior e desenvolvem-se nos espaços rurais.
+
+4 - As redes secundárias de faixas de gestão de combustível, de interesse municipal ou local, e no âmbito da protecção civil de populações e infra-estruturas, cumprem as funções referidas nas alíneas b) e c) do n.º 2 deste artigo e desenvolvem-se sobre:
+
+a) As redes viárias e ferroviárias públicas;
+
+b) As linhas de transporte e distribuição de energia elétrica e gás natural (gasodutos);
+
+c) As envolventes aos aglomerados populacionais e a todas as edificações, aos parques de campismo, às infra-estruturas e parques de lazer e de recreio, aos parques e polígonos industriais, às plataformas logísticas e aos aterros sanitários.
+
+5 - As redes terciárias de faixas de gestão de combustível, de interesse local, cumprem a função referida na alínea c) do n.º 2 deste artigo e apoiam-se nas redes viária, eléctrica e divisional das unidades locais de gestão florestal ou agro-florestal, sendo definidas no âmbito dos instrumentos de gestão florestal.
+
+6 - As especificações técnicas em matéria de defesa da floresta contra incêndios relativas a equipamentos florestais de recreio são definidas em regulamento do ICNF, I. P., homologado pelo membro do Governo responsável pela área das florestas, ouvida a ANPC.
+
+7 - (Revogado.)
+
+8 - Quando as faixas de gestão de combustíveis e os mosaicos de parcelas ocorram em áreas ocupadas por sobreiros e azinheiras, o ICNF, I. P., pode autorizar desbastes com o objetivo de reduzir a continuidade dos combustíveis.
+
+9 - O ICNF, I. P., tem a responsabilidade de desenvolver os instrumentos de perequação necessários à instalação da rede primária.
+
+10 - O Governo define os mecanismos de aplicação dos instrumentos previstos no número anterior e a garantia de compensação dos proprietários afetados.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 14.º — Servidões administrativas e expropriações
+
+1 - As infra-estruturas discriminadas no n.º 2 do artigo 12.º, e os terrenos necessários à sua execução e inscritas nos PMDFCI podem, sob proposta das câmaras municipais, ser declaradas de utilidade pública, nos termos e para os efeitos previstos no Código das Expropriações, mediante despacho do membro do Governo responsável pela área das florestas.
+
+2 - As redes primárias de faixas de gestão de combustível, definidas no âmbito do planeamento distrital de defesa da floresta contra incêndios devem ser declaradas de utilidade pública, nos termos do número anterior, ficando qualquer alteração ao uso do solo ou do coberto vegetal sujeita a parecer vinculativo do ICNF, I. P., sem prejuízo dos restantes condicionalismos legais.
+
+3 - (Revogado).
+
+4- (Revogado).
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+#### Secção II — Defesa de pessoas e bens
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 15.º — Redes secundárias de faixas de gestão de combustível
+
+1 - Nos espaços florestais previamente definidos nos PMDFCI é obrigatório que a entidade responsável:
+
+a) Pela rede viária providencie a gestão do combustível numa faixa lateral de terreno confinante numa largura não inferior a 10 m;
+
+b) Pela rede ferroviária providencie a gestão do combustível numa faixa lateral de terreno confinante contada a partir dos carris externos numa largura não inferior a 10 m;
+
+c) Pelas linhas de transporte e distribuição de energia eléctrica em muito alta tensão e em alta tensão providencie a gestão do combustível numa faixa correspondente à projecção vertical dos cabos condutores exteriores acrescidos de uma faixa de largura não inferior a 10 m para cada um dos lados;
+
+d) Pelas linhas de distribuição de energia elétrica em média tensão providencie a gestão de combustível numa faixa correspondente à projeção vertical dos cabos condutores exteriores acrescidos de uma faixa de largura não inferior a 7 m para cada um dos lados;
+
+e) Pela rede de transporte de gás natural (gasodutos) providencie a gestão de combustível numa faixa lateral de terreno confinante numa largura não inferior a 7 m para cada um dos lados, contados a partir do eixo da conduta.
+
+2 - Os proprietários, arrendatários, usufrutuários ou entidades que, a qualquer título, detenham terrenos confinantes a edifícios inseridos em espaços rurais, são obrigados a proceder à gestão de combustível, de acordo com as normas constantes no anexo do presente decreto-lei e que dele faz parte integrante, numa faixa com as seguintes dimensões:
+
+a) Largura não inferior a 50 m, medida a partir da alvenaria exterior do edifício, sempre que esta faixa abranja terrenos ocupados com floresta, matos ou pastagens naturais;
+
+b) Largura definida no PMDFCI, com o mínimo de 10 m e o máximo de 50 m, medida a partir da alvenaria exterior do edifício, quando a faixa abranja exclusivamente terrenos ocupados com outras ocupações.
+
+3 - Os trabalhos definidos no número anterior devem decorrer entre o final do período crítico do ano anterior e 30 de abril de cada ano.
+
+4 - Em caso de incumprimento do disposto nos números anteriores, a câmara municipal notifica as entidades responsáveis pelos trabalhos.
+
+5 - Verificado o incumprimento, a câmara municipal poderá realizar os trabalhos de gestão de combustível, com a faculdade de se ressarcir, desencadeando os mecanismos necessários ao ressarcimento da despesa efectuada.
+
+6 - Na ausência de intervenção até 31 de maio de cada ano, nos termos dos números anteriores, os proprietários ou outras entidades que detenham a qualquer título a administração de edifícios inseridos na área prevista no n.º 2, podem substituir-se aos proprietários e outros produtores florestais, procedendo à gestão de combustível prevista no número anterior, mediante comunicação aos proprietários e, na falta de resposta em 10 dias, por aviso a afixar no local dos trabalhos, num prazo não inferior a 5 dias, nos termos previstos no artigo 21.º
+
+7 - Em caso de substituição, os proprietários e outros produtores florestais são obrigados a permitir o acesso dos proprietários ou gestores das edificações confinantes aos seus terrenos e a ressarci-los das despesas efectuadas com a gestão de combustível.
+
+8 - Sempre que os materiais resultantes da ação de gestão de combustível referida no número anterior possuam valor comercial, o produto obtido dessa forma é pertença do proprietário ou produtor florestal respetivo, podendo contudo ser vendido pelo proprietário ou entidade que procedeu à gestão de combustível.
+
+9 - Quem tiver procedido à gestão de combustível pode exercer o direito de compensação de créditos pelo produto da venda, na respetiva proporção das despesas incorridas, mediante notificação escrita ao proprietário ou produtor florestal respetivo, nos termos previstos nos artigos 847.º e seguintes do Código Civil.
+
+10 - Nos aglomerados populacionais inseridos ou confinantes com espaços florestais, e previamente definidos nos PMDFCI, é obrigatória a gestão de combustível numa faixa exterior de proteção de largura mínima não inferior a 100 m, podendo, face à perigosidade de incêndio rural de escala municipal, outra amplitude ser definida nos respetivos planos municipais de defesa da floresta contra incêndios.
+
+11 - Compete aos proprietários, arrendatários, usufrutuários ou entidades que, a qualquer título, detenham terrenos inseridos na faixa referida no número anterior a gestão de combustível nesses terrenos.
+
+12 - Verificando-se, até ao dia 30 de abril de cada ano, o incumprimento referido no número anterior, compete à câmara municipal, até 31 de maio de cada ano, a realização dos trabalhos de gestão de combustível, com a faculdade de se ressarcir, desencadeando os mecanismos necessários ao ressarcimento da despesa efetuada, podendo, mediante protocolo, delegar esta competência na junta de freguesia.
+
+13 - Nos parques de campismo, nos parques e polígonos industriais, nas plataformas de logística e nos aterros sanitários inseridos ou confinantes com espaços florestais previamente definidos no PMDFCI, é obrigatória a gestão de combustível, e sua manutenção, de uma faixa envolvente com uma largura mínima não inferior a 100 m, competindo à respetiva entidade gestora ou, na sua inexistência ou não cumprimento da sua obrigação, à câmara municipal realizar os respetivos trabalhos, podendo esta, para o efeito, desencadear os mecanismos necessários ao ressarcimento da despesa efetuada.
+
+14 - Sempre que, por força do disposto no número anterior, as superfícies a submeter a trabalhos de gestão de combustível se intersectem, são as entidades referidas naquele número que têm a responsabilidade da gestão de combustível.
+
+15 - Os proprietários e outros produtores florestais são obrigados a facultar os necessários acessos às entidades responsáveis pelos trabalhos de gestão de combustível.
+
+16 - A intervenção prevista no número anterior é precedida de aviso a afixar no local dos trabalhos, num prazo não inferior a 10 dias.
+
+17 - As acções e projectos de arborização ou rearborização deverão respeitar as faixas de gestão de combustível previstas neste artigo.
+
+18 - O disposto nos números anteriores prevalece sobre quaisquer disposições em contrário.
+
+19 - Nas superfícies a submeter a gestão de combustível são aplicados os critérios definidos no anexo do presente decreto-lei, e que dele faz parte integrante.
+
+20 - O disposto no número anterior não prejudica a realização de campanhas de sensibilização, nomeadamente radiodifundidas.
+
+21 - O Estado desenvolve uma plataforma que permita aos cidadãos a participação de situações de perigo respeitantes ao cumprimento do presente artigo.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+###### Artigo 16.º — Condicionalismos à edificação
+
+1 - A classificação e qualificação do solo definidas no âmbito dos instrumentos de gestão territorial vinculativos dos particulares devem considerar a cartografia de perigosidade de incêndio rural definida em PMDFCI a integrar, obrigatoriamente, na planta de condicionantes dos planos municipais e intermunicipais de ordenamento do território.
+
+2 - Fora das áreas edificadas consolidadas, não é permitida a construção de novos edifícios nas áreas classificadas na cartografia de perigosidade de incêndio rural definida no PMDFCI como de alta e muito alta perigosidade, sem prejuízo do disposto no número seguinte.
+
+3 - No âmbito dos planos municipais ou intermunicipais de ordenamento do território, podem ser previstas novas áreas para as finalidades identificadas nos n.os 10 e 13 do artigo anterior, bem como a ampliação de áreas já existentes com esses fins.
+
+4 - A construção de novos edifícios ou a ampliação de edifícios existentes apenas são permitidas fora das áreas edificadas consolidadas, nas áreas classificadas na cartografia de perigosidade de incêndio rural definida em PMDFCI como de média, baixa e muito baixa perigosidade, desde que se cumpram, cumulativamente, os seguintes condicionalismos:
+
+a) Garantir, na sua implantação no terreno, a distância à estrema da propriedade de uma faixa de proteção nunca inferior a 50 m, quando confinantes com terrenos ocupados com floresta, matos ou pastagens naturais, ou a dimensão definida no PMDFCI respetivo, quando inseridas ou confinantes com outras ocupações, de acordo com os critérios estabelecidos no anexo ao presente decreto-lei;
+
+b) Adotar medidas relativas à contenção de possíveis fontes de ignição de incêndios no edifício e nos respetivos acessos;
+
+c) Existência de parecer favorável da CMDF.
+
+5 - Para efeitos do disposto no número anterior, quando a faixa de proteção integre rede secundária ou primária estabelecida, infraestruturas viárias ou planos de água, a área destas pode ser contabilizada na distância mínima exigida para aquela faixa de proteção.
+
+6 - Quando esteja em causa a construção de novos edifícios ou o aumento da área de implantação de edifícios existentes, destinados exclusivamente ao turismo de habitação, ao turismo no espaço rural, à atividade agrícola, silvícola, pecuária, aquícola ou atividades industriais conexas e exclusivamente dedicadas ao aproveitamento e valorização dos produtos e subprodutos da respetiva exploração, pode, em casos excecionais, a pedido do interessado e em função da análise de risco apresentada, ser reduzida até 10 m a distância à estrema da propriedade da faixa de proteção prevista na alínea a) do n.º 4, por deliberação da câmara municipal, caso sejam verificadas as seguintes condições:
+
+a) Medidas excecionais de proteção relativas à defesa e resistência do edifício à passagem do fogo;
+
+b) Medidas excecionais de contenção de possíveis fontes de ignição de incêndios no edifício e nos respetivos acessos;
+
+c) Existência de parecer favorável da CMDF.
+
+7 - Para o efeito do disposto nas alíneas do número anterior, os membros do Governo responsáveis pelas áreas da proteção civil e das florestas aprovam uma portaria que enquadra as regras a que obedecem a análise de risco e as medidas excecionais.
+
+8 - Aos proprietários de terrenos confinantes com os indicados no n.º 6 não é aplicável o disposto no n.º 2 do artigo anterior.
+
+9 - Os condicionalismos previstos nos n.os 4 a 8 não se aplicam às edificações que se localizem dentro das áreas previstas nos n.os 10 e 13 do artigo anterior.
+
+10 - As edificações existentes abrangidas pelo Regime de Regularização de Atividades Económicas, aprovado pelo Decreto-Lei n.º 165/2014, de 5 de novembro, na sua redação atual, podem ser dispensadas das condições previstas nos n.os 4 a 8, por deliberação da câmara municipal, desde que o seu cumprimento se tenha tornado inviável e sejam propostas medidas adequadas de minimização do perigo de incêndio, objeto de parecer favorável da CMDF.
+
+11 - Excetua-se do disposto no n.º 2 a construção de novos edifícios destinados a utilizações exclusivamente agrícolas, pecuárias, aquícolas, piscícolas, florestais ou de exploração de recursos energéticos ou geológicos que sejam reconhecidas de interesse municipal por deliberação da câmara municipal, desde que verificadas as seguintes condições:
+
+a) Inexistência de alternativa adequada de localização;
+
+b) Medidas de minimização do perigo de incêndio a adotar pelo interessado, incluindo a faixa de gestão de 100 metros;
+
+c) Medidas relativas à contenção de possíveis fontes de ignição de incêndios nas edificações e nos respetivos acessos, bem como à defesa e resistência das edificações à passagem do fogo;
+
+d) Demonstração de que os novos edifícios não se destinam a fins habitacionais ou turísticos, ainda que associados à exploração;
+
+e) Existência de parecer favorável da CMDF.
+
+12 - Os regulamentos municipais devem definir as regras decorrentes das medidas de defesa estabelecidas nos PMDFCI para as áreas edificadas consolidadas.
+
+13 - Os pareceres vinculativos da CMDF referidos no presente artigo são emitidos no prazo de 30 dias.
+
+14 - Nas situações a que se refere o número anterior, a CMDF integra obrigatoriamente:
+
+a) Um representante da comissão de coordenação e desenvolvimento regional territorialmente competente;
+
+b) Um representante da direção regional de agricultura territorialmente competente; e
+
+c) Um representante da ANPC.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356) Os pareceres vinculativos da Comissão de Defesa da Floresta, previstos neste artigo, ficam suspensos, Até 90 dias após a cessação do estado de emergência, decretado pelo Decreto do Presidente da República n.º 20-A/2020, de 17 de abril.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 14/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2019-118051707) Enquanto a portaria referida no n.º 7 do artigo 16.º do Decreto-Lei n.º 124/2006, de 28 de junho, na redação dada pelo presente decreto-lei, não for publicada, o enquadramento das regras a que obedecem a análise de risco e as medidas excecionais cabe à Comissão Municipal de Defesa da Floresta.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2019-118051707), em vigor a partir de 2019-01-22
+
+> Retificado pelo/a [Declaração de Retificação n.º 27/2017 - Diário da República n.º 190/2017, Série I de 2017-10-02](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/27-2017-108238704), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+#### Secção III — Defesa da floresta
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 17.º — Silvicultura, arborização e rearborização
+
+1 - A silvicultura no âmbito da defesa da floresta contra incêndios engloba o conjunto de medidas aplicadas aos povoamentos florestais, matos e outras formações espontâneas, ao nível da composição específica e do seu arranjo estrutural, com os objetivos de diminuir a perigosidade de incêndio rural e de garantir a máxima resistência da vegetação à passagem do fogo.
+
+2 - Os instrumentos de gestão florestal devem explicitar as medidas de silvicultura e de infra-estruturação de espaços rurais que garantam a descontinuidade horizontal e vertical dos combustíveis florestais e a alternância de parcelas com distinta inflamabilidade e combustibilidade, no âmbito das orientações de planeamento regional de defesa da floresta contra incêndios.
+
+3 - A dimensão das parcelas deverá variar entre 20 hectares e 50 hectares, nos casos gerais, e entre 1 hectare e 20 hectares nas situações de maior perigosidade de incêndio, definidas nos PMDFCI, e o seu desenho e localização devem ter em especial atenção o comportamento previsível do fogo.
+
+4 - Nas acções de arborização, de rearborização e de reconversão florestal os povoamentos monoespecíficos e equiénios não poderão ter uma superfície contínua superior a 50 ha, devendo ser compartimentados, alternativamente:
+
+a) Pela rede de faixas de gestão de combustíveis ou por outros usos do solo com baixa perigosidade de incêndio rural;
+
+b) Por linhas de água e respectivas faixas de protecção, convenientemente geridas;
+
+c) Por faixas de arvoredo de alta densidade, com as especificações técnicas definidas nos instrumentos de planeamento florestal.
+
+5 - Sempre que as condições edafoclimáticas o permitam, deverá ser favorecida a constituição de povoamentos de espécies arbóreas caducifólias ou de espécies com baixa inflamabilidade e combustibilidade.
+
+6 - Nas ações de arborização, de rearborização e de reconversão florestal, sempre que se verifiquem no terreno linhas de água deve dar-se prioridade à manutenção ou recuperação de galerias ripícolas desde que as condições edafoclimáticas o permitam.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+###### Artigo 18.º — Redes primárias de faixas de gestão de combustível
+
+1 - As faixas integrantes das redes primárias visam o estabelecimento, em locais estratégicos, de condições favoráveis ao combate a grandes incêndios florestais.
+
+2 - As faixas citadas no número anterior possuem uma largura não inferior a 125 m e definem compartimentos que, preferencialmente, devem possuir entre 500 ha e 10000 ha.
+
+3 - O planeamento, a instalação e a manutenção das redes primárias de faixas de gestão de combustível devem ter em consideração, designadamente:
+
+a) A sua eficiência no combate a incêndios de grande dimensão;
+
+b) A segurança das forças responsáveis pelo combate;
+
+c) O valor sócio-económico, paisagístico e ecológico dos espaços rurais;
+
+d) As características fisiográficas e as particularidades da paisagem local;
+
+e) O histórico dos grandes incêndios na região e o seu comportamento previsível em situações de elevado risco meteorológico;
+
+f) As actividades que nelas se possam desenvolver e contribuir para a sua sustentabilidade técnica e financeira.
+
+4 - As redes primárias de faixas de gestão de combustível são definidas pelos planos distritais de defesa da floresta contra incêndios e obrigatoriamente integrados no planeamento municipal de defesa da floresta contra incêndios.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 19.º — Depósito de madeiras e de outros produtos inflamáveis
+
+1 - É interdito o depósito de madeiras e outros produtos resultantes de exploração florestal ou agrícola, de outros materiais de origem vegetal e de produtos altamente inflamáveis nas redes de faixas e nos mosaicos de parcelas de gestão de combustível, com excepção dos aprovados pela comissão municipal de defesa da floresta contra incêndios.
+
+2 - Durante o período crítico só é permitido empilhamento em carregadouro de produtos resultantes de corte ou extracção (estilha, rolaria, madeira, cortiça e resina) desde que seja salvaguardada uma área sem vegetação com 10 m em redor e garantindo que nos restantes 40 m a carga combustível é inferior ao estipulado no anexo do presente decreto-lei e que dele faz parte integrante.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360)
+
+###### Artigo 20.º — Normalização das redes regionais de defesa da floresta
+
+As normas técnicas e funcionais relativas à classificação, cadastro, construção, manutenção e sinalização de vias integrantes da rede viária florestal, pontos de água e rede primária de faixas de gestão de combustível constam de normas próprias, a aprovar por regulamento do ICNF, I. P., homologado pelo membro do Governo responsável pela área das florestas.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+#### Secção IV — Incumprimento
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 21.º — Incumprimento de medidas preventivas
+
+1 - Os proprietários, os produtores florestais e as entidades que a qualquer título detenham a administração dos terrenos, edifícios ou infraestruturas referidas no presente decreto-lei são obrigados ao desenvolvimento e realização das ações e trabalhos de gestão de combustível nos termos da lei.
+
+2 - Sem prejuízo do disposto em matéria contraordenacional, em caso de incumprimento do disposto nos n.os 1, 2, 8, 11 e 13 do artigo 15.º, no artigo 17.º e no artigo 18.º, as entidades fiscalizadoras devem, no prazo máximo de seis dias, comunicar o facto às câmaras municipais, no âmbito de incumprimento do artigo 15.º, e ao ICNF, I. P., no âmbito dos artigos 17.º e 18.º
+
+3 - A câmara municipal ou o ICNF, I. P., nos termos do disposto no número anterior, notifica, no prazo máximo de 10 dias, os proprietários ou as entidades responsáveis pela realização dos trabalhos, fixando um prazo adequado para o efeito, notifica ainda o proprietário ou as entidades responsáveis dos procedimentos seguintes, nos termos do Código do Procedimento Administrativo, dando do facto conhecimento à GNR.
+
+4 - Decorrido o prazo referido no número anterior sem que se mostrem realizados os trabalhos, a câmara municipal ou o ICNF, I. P., procede à sua execução, sem necessidade de qualquer formalidade, após o que notifica as entidades faltosas responsáveis para procederem, no prazo de 60 dias, ao pagamento dos custos correspondentes.
+
+5 - Decorrido o prazo de 60 dias sem que se tenha verificado o pagamento, a câmara municipal ou o ICNF, I. P., extrai certidão de dívida.
+
+6 - A cobrança da dívida decorre por processo de execução fiscal, nos termos do Código de Procedimento e de Processo Tributário.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+### Capítulo IV — Condicionamento de acesso, de circulação e de permanência
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 22.º — Condicionamento
+
+1 - Durante o período crítico, definido no artigo 3.º, fica condicionado o acesso, a circulação e a permanência de pessoas e bens no interior das seguintes zonas:
+
+a) Nas zonas críticas referidas no artigo 6.º;
+
+b) Nas áreas submetidas a regime florestal e nas áreas florestais sob gestão do Estado;
+
+c) Nas áreas onde exista sinalização correspondente a limitação de actividades.
+
+2 - O acesso, a circulação e a permanência de pessoas e bens ficam condicionados nos seguintes termos:
+
+a) Quando se verifique o índice de risco de incêndio de níveis muito elevado e máximo, não é permitido aceder, circular e permanecer no interior das áreas referidas no número anterior, bem como nos caminhos florestais, caminhos rurais e outras vias que as atravessam;
+
+b) Quando se verifique o índice de risco de incêndio de nível elevado, não é permitido, no interior das áreas referidas no número anterior, proceder à execução de trabalhos que envolvam a utilização de maquinaria sem os dispositivos previstos no artigo 30.º, desenvolver quaisquer ações não relacionadas com as atividades florestal e agrícola, bem como circular com veículos motorizados nos caminhos florestais, caminhos rurais e outras vias que as atravessam;
+
+c) Quando se verifique o índice de risco de incêndio de níveis elevado e superior, todas as pessoas que circulem no interior das áreas referidas no n.º 1 e nos caminhos florestais, caminhos rurais e outras vias que as atravessam ou delimitam estão obrigadas a identificar-se perante as entidades com competência em matéria de fiscalização no âmbito do presente decreto-lei.
+
+3 - Fora do período crítico, e desde que se verifique o índice de risco de incêndio de níveis muito elevado e máximo, não é permitido aceder, circular e permanecer no interior das áreas referidas no n.º 1, bem como nos caminhos florestais, caminhos rurais e outras vias que as atravessam.
+
+4 - Fora do período crítico, e desde que se verifique o índice de risco de incêndio de níveis elevado e superior, a circulação de pessoas no interior das áreas referidas no n.º 1 fica sujeita às medidas referidas na alínea c) do n.º 2.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+###### Artigo 23.º — Excepções
+
+1 - Constituem excepções às medidas referidas nas alíneas a) e b) do n.º 2 e no n.º 3 do artigo 22.º:
+
+a) O acesso, a circulação e a permanência, no interior das referidas áreas, de residentes e de proprietários e produtores florestais e pessoas que aí exerçam a sua actividade profissional;
+
+b) A circulação de pessoas no interior das referidas áreas sem outra alternativa de acesso às suas residências e locais de trabalho;
+
+c) O exercício de actividades, no interior das referidas áreas, que careçam de reconhecido acompanhamento periódico;
+
+d) A utilização de parques de lazer e recreio quando devidamente infra-estruturados e equipados para o efeito, nos termos da legislação aplicável;
+
+e) A circulação em auto-estradas, itinerários principais, itinerários complementares, estradas nacionais e em estradas regionais;
+
+f) A circulação em estradas municipais para as quais não exista outra alternativa de circulação com equivalente percurso;
+
+g) O acesso, a circulação e a permanência, no interior das referidas áreas, de meios e agentes de protecção civil;
+
+h) O acesso, a circulação e a permanência, no interior das referidas áreas, de meios militares decorrentes de missão intrinsecamente militar.
+
+2 - O disposto no artigo 22.º não se aplica:
+
+a) Às áreas urbanas e às áreas industriais;
+
+b) No acesso às praias fluviais e marítimas concessionadas;
+
+c) Aos meios de prevenção, vigilância, detecção, primeira intervenção e combate aos incêndios florestais;
+
+d) Aos prédios rústicos submetidos a regime florestal para efeitos de policiamento e fiscalização da caça, em virtude e por força da sua submissão ao regime cinegético especial, quando não incluídos nas zonas críticas;
+
+e) À execução de obras de interesse público, como tal reconhecido;
+
+f) À circulação de veículos prioritários quando em marcha de urgência;
+
+g) As áreas sob jurisdição militar.
+
+h) Às actividades realizadas por membros das organizações definidas no n.º 3 do artigo 3.º da Lei n.º 23/2006, de 23 de Junho.
+
+3 - As regras a que obedecem as actividades a que se refere a alínea h) do número anterior são definidas em portaria dos membros do Governo responsáveis pelas áreas da juventude, da protecção civil e das florestas.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 24.º — Informação das zonas críticas
+
+1 - A garantia da informação sobre os condicionamentos referidos no artigo 22.º é da responsabilidade da autarquia nos seguintes termos:
+
+a) As áreas referidas no n.º 1 do artigo 22.º que se encontrem sob a gestão do Estado são obrigatoriamente sinalizadas pelos respectivos organismos gestores relativamente aos condicionamentos de acesso, de circulação e de permanência;
+
+b) As demais áreas referidas nos n.os 1 e 2 do artigo 22.º bem como as vias de comunicação que as atravessam ou delimitam devem ser sinalizadas relativamente aos condicionamentos de acesso, de circulação e de permanência pelos proprietários e outros produtores florestais;
+
+c) As respectivas câmaras municipais podem substituir-se, com a faculdade de se ressarcir, aos proprietários e outros produtores florestais para cumprimento do disposto na alínea anterior sempre que no período crítico não exista sinalização.
+
+2 - (Revogado).
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 25.º — Sensibilização e divulgação
+
+1 - A execução de campanhas de sensibilização é, independentemente das entidades que as realizam, coordenada pelo ICNF, I. P.
+
+2 - Compete ao ICNF, I. P., às comissões distritais de defesa da floresta e às comissões municipais de defesa da floresta, a promoção de campanhas de sensibilização e informação pública, as quais devem considerar o valor e a importância dos espaços florestais, a conduta a adotar pelo cidadão na utilização dos espaços florestais e uma componente preventiva que contemple as técnicas e práticas aconselháveis e obrigatórias do correto uso do fogo.
+
+3 - Os apoios públicos a campanhas de sensibilização para defesa da floresta contra incêndios devem estar integrados no âmbito do PNDFCI, dos PDDFCI e dos PMDFCI, em função da escala geográfica da iniciativa e devem observar uma identificação comum definida pelo ICNF, I. P.
+
+4 - Compete à autoridade nacional de meteorologia promover a divulgação periódica do índice de risco de incêndio, podendo a divulgação ser diária quando este índice for de níveis elevado, muito elevado ou máximo, para efeitos de aplicação do disposto no artigo 22.º
+
+5 - Compete ao ICNF, I. P., a divulgação das medidas preventivas aconselhadas ou obrigatórias, onde se incluem as referidas nos artigos 22.º, 27.º, 28.º e 29.º, bem como a sua incidência territorial.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+### Capítulo V — Uso do fogo
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 26.º — Fogo técnico
+
+1 - As ações de fogo técnico, nas modalidades de fogo controlado e fogo de supressão, só podem ser realizadas de acordo com as normas técnicas e funcionais definidas em regulamento do ICNF, I. P., homologado pelo membro do Governo responsável pela área das florestas, ouvidas a ANPC e a GNR.
+
+2 - As ações de fogo controlado são executadas sob orientação e responsabilidade de elemento credenciado para o efeito pelo ICNF, I. P.
+
+3 - As ações de fogo de supressão são executadas sob orientação e responsabilidade de elemento credenciado em fogo de supressão pela ANPC.
+
+4 - A realização de fogo controlado pode decorrer durante o período crítico, desde que o índice de risco de incêndio rural seja inferior ao nível médio de perigosidade e desde que a ação seja autorizada pela ANPC.
+
+5 - Os comandantes das operações de socorro podem, após autorização expressa da estrutura de comando da Autoridade Nacional de Proteção Civil, registada na fita do tempo de cada ocorrência, utilizar fogo de supressão.
+
+6 - Compete ao gabinete técnico florestal de cada município o registo cartográfico anual de todas as acções de gestão de combustíveis, ao qual é associada a identificação da técnica utilizada e da entidade responsável pela sua execução, e que deve ser incluído no plano operacional municipal.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83/2014 - Diário da República n.º 99/2014, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2014-25345886), em vigor a partir de 2014-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 26.º-A — Fogo de gestão de combustível
+
+1 - Nas áreas delineadas no Plano Operacional Municipal com potencial de recurso, o fogo de gestão de combustível pode a opção por esta prática ser solicitada pelo COS.
+
+2 - Nas situações previstas no número anterior a autorização da aplicação desta prática carece de decisão favorável por parte do Comandante Operacional Distrital da ANPC, ouvidos os oficiais de ligação do ICNF, I. P., da GNR e do Centro de Coordenação Operacional Distrital desse distrito.
+
+3 - O fogo de gestão de combustível só é permitido quando as condições meteorológicas locais e previstas se enquadrem nas condições de prescrição do fogo controlado descritas no regulamento do fogo técnico, anexo ao Despacho n.º 7511/2014, publicado no Diário da República, 2.ª série, n.º 110, de 9 de junho.
+
+4 - Podem excecionar-se situações não previstas no artigo anterior caso um técnico credenciado em fogo controlado ou um técnico credenciado em fogo de supressão avaliem que as condições meteorológicas possibilitam a utilização do fogo de gestão de combustível.
+
+5 - A avaliação das condições meteorológicas que possibilitam a utilização do fogo de gestão de combustível é registada na fita do tempo do incêndio assim como a identificação de técnico que realizou a avaliação.
+
+6 - O recurso ao fogo de gestão de combustível deverá ser acompanhado pelo Comando Distrital de Operações de Socorro em estreita articulação com o COS garantindo que se mantêm as condições inicialmente previstas para a sua realização.
+
+7 - As áreas sujeitas a fogo de gestão de combustível são obrigatoriamente cartografadas, independentemente da sua dimensão, e inequivocamente assinaladas como tendo sido resultado desta prática.
+
+8 - As áreas ardidas resultantes de fogo de gestão de combustível devem registar-se como tal no Sistema de Gestão de Informação de Incêndios Florestais (SGIF) e contabilizadas autonomamente.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+###### Artigo 26.º-B — Levantamento cartográfico das áreas ardidas
+
+1 - Compete à GNR o levantamento cartográfico das áreas ardidas por incêndios rurais, incluindo as que resultem do recurso a fogo de gestão de combustível, com o envolvimento das câmaras municipais.
+
+2 - O levantamento cartográfico das áreas ardidas deverá incidir em áreas iguais ou superiores a 1 hectare.
+
+3 - As áreas ardidas são atualizadas anualmente com referência a 31 de dezembro de cada ano.
+
+4 - A GNR deve proceder ao carregamento dos levantamentos cartográficos no SGIF, até 31 de janeiro do ano seguinte.
+
+5 - As especificações técnicas relativas ao levantamento cartográfico das áreas ardidas por incêndios rurais são elaboradas pelo ICNF, I. P., ouvida a GNR e a ANPC.
+
+6 - Compete ao ICNF, I. P., a divulgação da cartografia nacional de áreas ardidas anual, no seu sítio da Internet.
+
+7 - A cartografia mencionada nos artigos anteriores serve de base para os atos administrativos estabelecidos no âmbito do Decreto-Lei n.º 327/90, de 22 de outubro, alterado pela Lei n.º 54/91, de 8 de agosto, e pelos Decretos-Leis n.os 34/99, de 5 de fevereiro, e 55/2007, de 12 de março.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+###### Artigo 27.º — Queimadas
+
+1 - A realização de queimadas só é permitida após autorização do município ou da freguesia, nos termos da lei que estabelece o quadro de transferência de competências para as autarquias locais, tendo em conta a proposta de realização da queima, o enquadramento meteorológico e operacional, bem como a data e local onde a mesma é proposta.
+
+2 - A realização de queimadas carece de acompanhamento, através da presença de técnico credenciado em fogo controlado ou operacional de queima ou, na sua ausência, de equipa de bombeiros ou de equipa de sapadores florestais.
+
+3 - Os técnicos credenciados em fogo controlado podem executar queimadas, mediante comunicação prévia, estando dispensados da autorização referida no n.º 1.
+
+4 - O pedido de autorização ou a comunicação prévia são dirigidos à autarquia local, nos termos por esta definidos, designadamente por via telefónica ou através de aplicação informática.
+
+5 - Para efeitos do disposto no número anterior, as autarquias locais podem:
+
+a) Receber os pedidos e comunicações prévias através de número telefónico próprio ou, nos termos a regular por portaria aprovada pelos membros do Governo responsáveis pelas áreas das autarquias locais, da proteção civil, do ambiente e das florestas, através de linha de contacto nacional;
+
+b) Receber os pedidos e comunicações prévias e instruir os procedimentos de autorização através da aplicação informática disponibilizada no sítio da Internet do ICNF, I. P..
+
+6 - A decisão é comunicada ao proponente através de correio eletrónico ou por Short Message Service (SMS).
+
+7 - A realização de queimadas sem autorização e sem o acompanhamento definido no presente artigo, deve ser considerada uso de fogo intencional.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2019-118051707), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 28.º — Queima de sobrantes e realização de fogueiras
+
+1 - Nos espaços rurais, durante o período crítico ou quando o índice de risco de incêndio seja de níveis muito elevado ou máximo:
+
+a) Não é permitido realizar fogueiras para recreio ou lazer, com exceção das fogueiras tradicionais no âmbito de festas populares, no interior de aglomerados populacionais, após autorização da autarquia local, nos termos do artigo anterior;
+
+b) Apenas é permitida a utilização do fogo para confeção de alimentos, bem como a utilização de equipamentos de queima e de combustão destinados à iluminação ou à confeção de alimentos, nos locais expressamente previstos para o efeito, nomeadamente nos parques de lazer e recreio e outros quando devidamente infraestruturados e identificados como tal;
+
+c) A queima de matos cortados e amontoados e qualquer tipo de sobrantes de exploração, bem como a que decorra de exigências fitossanitárias de cumprimento obrigatório, está sujeita a autorização da autarquia local, nos termos do artigo anterior, devendo esta definir o acompanhamento necessário para a sua concretização, tendo em conta o risco do período e da zona em causa.
+
+2 - Fora do período crítico e quando o índice de risco de incêndio não seja de níveis muito elevado ou máximo, a queima de matos cortados e amontoados e qualquer tipo de sobrantes de exploração, bem como a que decorra de exigências fitossanitárias de cumprimento obrigatório, está sujeita a mera comunicação prévia à autarquia local, nos termos do artigo anterior.
+
+3 - Devem progressivamente procurar-se soluções alternativas à eliminação por queima de resíduos vegetais, com forte envolvimento local e setorial, nomeadamente a sua trituração ou incorporação para melhoramento da estrutura e qualidade do solo, aproveitamento para biomassa, compostagem, produção energética, ou outras formas que conduzam a alternativas de utilização racional destes produtos.
+
+4 - Durante o período crítico ou quando o índice do risco de incêndio seja de níveis muito elevado ou máximo, a queima de matos cortados e amontoados e qualquer tipo de sobrantes de exploração, sem autorização e sem o acompanhamento definido pela autarquia local, deve ser considerada uso de fogo intencional.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2019-118051707), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 29.º — Foguetes e outras formas de fogo
+
+1 - Durante o período crítico não é permitido o lançamento de balões com mecha acesa e de quaisquer tipos de foguetes.
+
+2 - Durante o período crítico, a utilização de fogo-de-artifício ou outros artefactos pirotécnicos, que não os indicados no número anterior, está sujeita a autorização prévia do município ou da freguesia, nos termos da lei que estabelece o quadro de transferência de competências para as autarquias locais.
+
+3 - O pedido de autorização referido no número anterior deve ser solicitado com pelo menos 15 dias de antecedência.
+
+4 - Durante o período crítico, as acções de fumigação ou desinfestação em apiários não são permitidas, excepto se os fumigadores estiverem equipados com dispositivos de retenção de faúlhas.
+
+5 - Nos espaços florestais, durante o período crítico, não é permitido fumar ou fazer lume de qualquer tipo no seu interior ou nas vias que os delimitam ou os atravessam.
+
+6 - Fora do período crítico e desde que se verifique o índice de risco de incêndio rural de níveis muito elevado e máximo mantêm-se as restrições referidas nos n.os 1, 2 e 4.
+
+7 - Exceptuam-se do disposto nos números anteriores a realização de contrafogos decorrentes das acções de combate aos incêndios florestais.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+###### Artigo 30.º — Maquinaria e equipamento
+
+1 - Durante o período crítico, nos trabalhos e outras atividades que decorram em todos os espaços rurais, as máquinas de combustão interna ou externa, onde se incluem todo o tipo de tratores, máquinas e veículos de transporte pesados, devem obrigatoriamente estar dotados dos seguintes equipamentos:
+
+a) Um ou dois extintores de 6 kg cada, de acordo com a sua massa máxima e consoante esta seja inferior ou superior a 10 000 kg, salvo motosserras, motorroçadoras e outras pequenas máquinas portáteis;
+
+b) Dispositivos de retenção de faíscas ou faúlhas, exceto no caso de motosserras, motorroçadoras e outras pequenas máquinas portáteis.
+
+2 - O governo cria linhas de financiamento moduladas para o cumprimento do número anterior.
+
+3 - Sem prejuízo do disposto no número seguinte, quando se verifique o índice de risco de incêndio rural de nível máximo, não é permitida a realização de trabalhos nos espaços florestais com recurso a motorroçadoras, corta-matos e destroçadores.
+
+4 - Excetuam-se do número anterior o uso de motorroçadoras que utilizam cabeças de corte de fio de nylon, bem como os trabalhos e outras atividades diretamente associados às situações de emergência, nomeadamente de combate a incêndios nos espaços rurais.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+### Capítulo VI — Vigilância, detecção e combate
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+#### Secção I — Vigilância e detecção de incêndios
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 31.º — Vigilância e detecção
+
+1 - A vigilância dos espaços rurais visa contribuir para a redução do número de ocorrências de incêndios florestais, identificando potenciais agentes causadores e dissuadindo comportamentos que propiciem a ocorrência de incêndios.
+
+2 - A detecção tem por objectivo a identificação imediata e localização precisa das ocorrências de incêndio e a sua comunicação rápida às entidades responsáveis pelo combate.
+
+3 - A vigilância e detecção de incêndios pode ser assegurada:
+
+a) Qualquer pessoa que detecte um incêndio é obrigada a alertar de imediato as entidades competentes;
+
+b) Pela RNPV, que assegura em todo o território do continente as funções de deteção fixa de ocorrências de incêndios;
+
+c) Por rede de videovigilância, que complementa e reforça em todo o território do continente, as funções de deteção fixa de ocorrências de incêndios;
+
+d) Por rede de vigilância móvel que pode associar-se às funções de vigilância e detecção, de dissuasão e as intervenções em fogos nascentes;
+
+e) Por rede de vigilância aérea.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+###### Artigo 32.º — Sistemas de detecção
+
+1 - A RNPV é constituída por postos de vigia públicos e privados instalados em locais previamente aprovados pelo Comandante-Geral da GNR, ouvida o ICNF, I. P., e a ANPC e homologados pelo membro do Governo responsável pela área da proteção civil.
+
+2 - A cobertura de deteção da RNPV pode ser complementada por sistema de videovigilância, meios de deteção móveis ou outros meios que venham a revelar-se tecnologicamente adequados, a regulamentar por portaria dos membros do Governo responsáveis pelas áreas da proteção civil e das florestas.
+
+3 - A coordenação da RNPV é da competência da Guarda Nacional Republicana, que estabelece as orientações técnicas e funcionais para a sua ampliação, redimensionamento e funcionamento.
+
+4 - Os postos de vigia são instalados segundo critérios de prioridade fundados no grau de risco de incêndio, na análise de visibilidade e intervisibilidade, no valor do património a defender e são dotados de equipamento complementar adequado ao fim em vista.
+
+5 - Sempre que existam árvores que interfiram com a visibilidade, as entidades que a qualquer título sejam detentoras de postos de vigia devem notificar os proprietários das árvores para que estes procedam à sua remoção.
+
+6 - Quando se verifique que o proprietário não procedeu à remoção das árvores até ao dia 15 de Abril de cada ano, a entidade gestora do posto de vigia pode substituir-se ao proprietário, no corte e remoção, podendo dispor do material resultante do corte.
+
+7 - A obrigação prevista no n.º 5 pode ser regulada por acordo, reduzido a escrito, a estabelecer entre a entidade detentora do posto de vigia e os proprietários ou produtores florestais que graciosamente consintam a sua instalação, utilização e manutenção ou proprietários de área circundante.
+
+8 - A instalação de qualquer equipamento que possa interferir com a visibilidade e qualidade de comunicação radioeléctrica nos postos de vigia ou no espaço de 30 m em seu redor carece de parecer prévio da Guarda Nacional Republicana.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 33.º — Sistemas de vigilância
+
+1 - Os sistemas de vigilância móvel compreendem as brigadas de vigilância móvel que o Estado constitua, os sapadores florestais, os Corpos de Bombeiros quando pré-posicionados, os elementos do Serviço de Proteção da Natureza e do Ambiente e os militares do Grupo de Intervenção de Proteção e Socorro da GNR, dos municípios e das freguesias e outros grupos que para o efeito venham a ser reconhecidos pela GNR.
+
+2 - Os sistemas de videovigilância compreendem os meios do Estado, os meios das Comunidades Intermunicipais, dos municípios e das freguesias.
+
+3 - Os sistemas de vigilância aérea compreendem as aeronaves tripuladas e não tripuladas certificadas pelas entidades competentes.
+
+4 - No que diz respeito aos sistemas de vigilância aérea das Forças Armadas, a coordenação prevista na alínea b) do n.º 3 do artigo 2.º, concretiza-se mediante comunicação prévia, por parte das Forças Armadas à GNR, relativamente ao período de operação e às áreas sobrevoadas.
+
+5 - Os sistemas de vigilância móvel, de videovigilância e aérea têm, designadamente, por objetivos:
+
+a) Aumentar o efeito de dissuasão;
+
+b) Identificar agentes causadores ou suspeitos de incêndios ou situações e comportamentos anómalos;
+
+c) Detetar incêndios em zonas sombra dos postos de vigia;
+
+d) Proporcionar ações de primeira intervenção em fogos nascentes.
+
+6 - Em cada um dos municípios, a gestão dos sistemas de vigilância móvel e de videovigilância é feita no âmbito municipal, de forma a garantir a maximização dos recursos na ocupação do território.
+
+7 - É da competência da GNR a coordenação das ações de vigilância levadas a cabo pelas diversas entidades, sem prejuízo da articulação prevista no n.º 3 do artigo 34.º
+
+8 - O disposto nos números anteriores não prejudica a aplicação do regime de proteção de dados pessoais.
+
+9 - O Ministério da Agricultura estabelece o calendário de criação de equipas de sapadores florestais, com o objetivo de se alcançarem 500 equipas em 2019.
+
+10 - O governo cria um corpo de guardas florestais, com as competências e funções do antigo Corpo Nacional da Guarda Florestal extinto pelo Decreto-Lei n.º 22/2006, de 2 de fevereiro.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+###### Artigo 34.º — Forças Armadas e corpos especiais de vigilantes
+
+1 - As Forças Armadas, sem prejuízo do cumprimento da sua missão primária, podem participar, em situações excecionais e com o devido enquadramento, nas ações de patrulhamento, vigilância móvel e aérea, tendo para esse efeito as competências de fiscalização previstas no artigo 11.º do Decreto-Lei n.º 327/80, de 26 de agosto, com a redação que lhe é dada pela Lei n.º 10/81, de 10 de julho.
+
+2 - As Forças Armadas colaboram em ações nos domínios da prevenção, vigilância móvel e aérea, deteção, intervenção em fogo nascente, rescaldo e vigilância pós-incêndio florestal, na abertura de aceiros, nas ações de gestão de combustível das matas nacionais ou administradas pelo Estado e no patrulhamento das florestas, em termos a definir por despacho conjunto dos membros do Governo responsáveis pelas áreas da proteção civil, da defesa e das florestas.
+
+3 - A Guarda Nacional Republicana, a Autoridade Nacional de Protecção Civil e as Forças Armadas articulam as formas de participação das acções previstas no n.º 1, sem prejuízo das respectivas cadeias de comando.
+
+4 - Compete ao ICNF, I. P., coordenar com as Forças Armadas as ações que estas vierem a desenvolver na abertura de faixas de gestão de combustível e nas ações de gestão de combustível dos espaços florestais, dando conhecimento à comissão municipal de defesa da floresta.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+#### Secção II — Combate de incêndios florestais
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 35.º — Combate, rescaldo e vigilância ativa pós-rescaldo
+
+1 - A rede de infra-estruturas de apoio ao combate é constituída por equipamentos e estruturas de combate, existentes no âmbito das entidades a quem compete o combate, dos organismos da Administração Pública e dos particulares, designadamente infra-estruturas de combate e infra-estruturas de apoio aos meios aéreos.
+
+2 - As operações de combate aos incêndios rurais, bem como as respetivas operações de rescaldo necessárias para garantia das perfeitas condições de extinção são asseguradas por entidades com responsabilidades no combate a incêndios rurais e por profissionais credenciados para o efeito e sob orientação da ANPC.
+
+3 - Podem ainda participar nas operações de rescaldo, nomeadamente em situação de várias ocorrências simultâneas, os corpos especiais de vigilantes de incêndios, os sapadores florestais, os vigilantes da natureza e ainda outras entidades, brigadas ou grupos que para o efeito venham a ser reconhecidos pela ANPC.
+
+4 - A participação dos meios referidos no número anterior é concretizada nos termos da lei.
+
+5 - A ANPC e o ICNF, I. P., podem celebrar com entidades privadas, nomeadamente operadoras de telecomunicações, protocolos respeitantes a sistemas de avisos em situação de emergência, nomeadamente respeitantes ao envio de mensagens radiodifundidas ou envio de mensagens para dispositivos móveis ligados a determinada torre de comunicações.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 36.º — Recuperação de áreas ardidas
+
+1 - Em áreas atingidas por incêndios florestais, e de forma a criar condições de circulação rodoviária em segurança, os proprietários devem remover materiais queimados nos incêndios.
+
+2 - Os materiais devem ser removidos numa faixa mínima de 25 m para cada lado das faixas de circulação rodoviária.
+
+3 - No pós-incêndio, antes da época das chuvas, devem ser tomadas medidas de mitigação de impactos ambientais, adequadas a cada caso em concreto, nomeadamente de combate à erosão, de correção torrencial e impedimento de contaminação das linhas de água por detritos, de acordo com despacho do membro do Governo competente pela área das florestas.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+### Capítulo VII — Fiscalização
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 37.º — Competência para fiscalização
+
+1 - A fiscalização do estabelecido no presente decreto-lei compete à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Polícia Marítima, à Autoridade Florestal Nacional, à Autoridade Nacional de Protecção Civil, às câmaras municipais, às polícias municipais e aos vigilantes da natureza.
+
+2 - Compete aos membros do Governo responsáveis pelas áreas da proteção civil e das florestas, a definição das orientações no domínio da fiscalização do estabelecido no presente decreto-lei.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 37.º-A — Identificação de proprietários
+
+1 - Para efeitos de identificação e notificação dos proprietários ou detentores dos imóveis, as entidades fiscalizadoras têm acesso aos dados fiscais relativos aos prédios, incluindo a identificação dos proprietários e respetivo domicílio fiscal, mediante protocolo a celebrar com a Autoridade Tributária e Aduaneira.
+
+2 - Sem prejuízo do número anterior, as entidades fiscalizadoras têm ainda acesso aos dados relativos aos prédios constantes da base de dados Balcão Único do Prédio.
+
+3 - Para efeitos de notificação dos proprietários no âmbito da execução das infraestruturas de Defesa da Floresta contra Incêndios é possível recorrer-se à notificação por via do edital nos casos em que se revele impossível a notificação por outra via.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+### Capítulo VIII — Contra-ordenações, coimas e sanções acessórias
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 38.º — Contra-ordenações e coimas
+
+1 - As infrações ao disposto no presente decreto-lei constituem contraordenações puníveis com coima, de (euro) 140 a (euro) 5000, no caso de pessoa singular, e de (euro) 1500 a (euro) 60 000, no caso de pessoas coletivas, nos termos previstos nos números seguintes.
+
+2 - Constituem contra-ordenações:
+
+a) A infração ao disposto nos n.os 1, 2, 9, 10, 12, 13 e 14 do artigo 15.º;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) A violação dos critérios de gestão de combustível, definidos no anexo do presente decreto-lei e que dele faz parte integrante;
+
+e) A infração ao disposto nos n.os 4 e 5 do artigo 16.º, exceto no caso do n.º 5 nas situações previstas no n.º 9 do mesmo artigo;
+
+f) A infração ao disposto nos n.os 3, 4 e 6 do artigo 17.º;
+
+g) (Revogada.)
+
+h) A infração ao disposto nos n.os 1 e 2 do artigo 19.º;
+
+i) A infração ao disposto na alínea a) e b) do n.º 2 e nos n.os 3 e 4 do artigo 22.º;
+
+j) (Revogada.)
+
+l) A infração ao disposto nos n.os 1, 2, 3, 4 e 5 do artigo 26.º;
+
+m) (Revogada.)
+
+n) (Revogada.)
+
+o) A infração ao disposto nos n.os 1 a 5 e 7 do artigo 27.º;
+
+p) A infração ao disposto nos n.os 1, 2 e 4 do artigo 28.º e no artigo 29.º;
+
+q) A infracção ao disposto no artigo 30.º;
+
+r) A infracção ao disposto no artigo 36.º
+
+3 - A determinação da medida da coima é feita nos termos do disposto no regime geral das contra-ordenações.
+
+4 - A tentativa e a negligência são puníveis.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14/2019 - Diário da República n.º 14/2019, Série I de 2019-01-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2019-118051707), em vigor a partir de 2019-01-22
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 39.º — Sanções acessórias
+
+1 - Consoante a gravidade da contraordenação e a culpa do agente, pode o ICNF, I. P., determinar, cumulativamente com as coimas previstas nas alíneas l) e p) do n.º 2 do artigo 38.º, a aplicação das seguintes sanções acessórias, no âmbito de atividades e projetos florestais:
+
+a) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+b) Suspensão de autorizações, licenças e alvarás.
+
+2 - As sanções referidas no número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória definitiva.
+
+3 - Para efeitos do disposto na alínea a) do n.º 1, a Autoridade Florestal Nacional comunica, no prazo de cinco dias, a todas as entidades públicas responsáveis pela concessão de subsídios ou benefícios a aplicação da sanção.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 40.º — Levantamento, instrução e decisão das contra-ordenações
+
+1 - O levantamento dos autos de contra-ordenação previstos no artigo 38.º compete às autoridades policiais e fiscalizadoras, bem como às câmaras municipais.
+
+2 - Os autos de contra-ordenação são remetidos à autoridade competente para a instrução do processo, no prazo máximo de cinco dias, após a ocorrência do facto ilícito.
+
+3 - A instrução dos processos relativos às contraordenações previstas no n.º 2 do artigo 38.º compete:
+
+a) À entidade autuante, de entre as referidas no artigo 37.º, nas situações previstas nas alíneas a), d), h), o) e p) do n.º 2 do artigo 38.º;
+
+b) Ao ICNF, I. P., nos restantes casos.
+
+4 - A aplicação das coimas previstas no presente decreto-lei, bem como das sanções acessórias, das quais deve ser dado conhecimento às autoridades autuantes, compete às seguintes entidades:
+
+a) Ao secretário-geral do Ministério da Administração Interna, nos casos a que se refere a alínea a) do número anterior;
+
+b) Ao ICNF, I. P., nos casos a que se refere a alínea b) do número anterior.
+
+5 - As competências previstas nos n.ºs 3 e 4 podem ser delegadas, nos termos da lei.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83/2014 - Diário da República n.º 99/2014, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2014-25345886), em vigor a partir de 2014-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 41.º — Destino das coimas
+
+1 - A afetação do produto das coimas cobradas em resultado da aplicação do disposto nas alíneas a), d), o) e p) do n.º 2 do artigo 38.º é feita da seguinte forma:
+
+a) 60% para o Estado;
+
+b) 20% para a entidade que instruiu o processo;
+
+c) 10% para a entidade autuante;
+
+d) 10% para a entidade que aplicou a coima.
+
+2 - A afetação do produto das coimas cobradas em aplicação das demais contraordenações é feita da seguinte forma:
+
+a) 60% para o Estado;
+
+b) 20% para a entidade autuante;
+
+c) 20 % para a Autoridade Florestal Nacional.
+
+3 - (Revogado.)
+
+4 - Nos casos em que é a câmara municipal a entidade autuante e a entidade instrutora do processo, o produto da coima previsto na alínea a) do n.º 1 constitui receita própria do respetivo município.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 83/2014 - Diário da República n.º 99/2014, Série I de 2014-05-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2014-25345886), em vigor a partir de 2014-05-24
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+### Capítulo IX — Disposições transitórias e finais
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 42.º — Elaboração e revisão dos planos de defesa da floresta contra incêndios
+
+1 - Os planos distritais de defesa da floresta contra incêndios devem estar concluídos até 31 de Dezembro de 2009 e devem ser elaborados nos termos de regulamento da Autoridade Florestal Nacional homologado pelo membro do Governo responsável pela área das florestas.
+
+2 - A elaboração dos planos municipais de defesa da floresta contra incêndios deve estar concluída até 31 de Março de 2009.
+
+3 - Os planos municipais de defesa da floresta contra incêndios actualmente existentes devem ser revistos e adequados ao presente diploma até 31 de Dezembro de 2009, nos termos de regulamento da Autoridade Florestal Nacional, homologado pelo membro do Governo responsável pela área das florestas.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Revogado pelo/a Artigo 5.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 43.º — Sinalização
+
+1 - A inexistência de sinalização das zonas críticas referidas no artigo 6.º não afasta a aplicação das medidas de condicionamento de acesso, de circulação e de permanência estabelecidas no artigo 22.º
+
+2 - A Autoridade Florestal Nacional assegura, junto dos meios de comunicação social, a publicitação das zonas críticas, nos termos do artigo 25.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13
+
+###### Artigo 44.º — Definições e referências
+
+1 - As definições constantes do presente decreto-lei prevalecem sobre quaisquer outras no âmbito da defesa da floresta contra incêndios.
+
+2 - A referência feita a planos de defesa da floresta municipais entende-se feita a planos municipais de defesa da floresta contra incêndios.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 45.º — Regime transitório
+
+Exclui-se do âmbito de aplicação do presente decreto-lei a elaboração, alteração e revisão dos planos municipais de ordenamento do território, em cujo procedimento já se haja procedido à abertura do período de discussão pública.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+###### Artigo 46.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 156/2004, de 30 de Junho.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+Visto e aprovado em Conselho de Ministros de 27 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Rui Nobre Gonçalves.
+
+Promulgado em 13 de Junho de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 19 de Junho de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+## Anexo — Critérios para a gestão de combustíveis no âmbito das redes secundárias de gestão de combustível
+
+I. Para efeitos de gestão de combustíveis no âmbito das redes secundárias de gestão de combustível envolventes aos edifícios, aglomerados populacionais, equipamentos e infraestruturas, aos estratos arbóreos, arbustivos e subarbustivos, não integrados em áreas agrícolas, com exceção das áreas de pousio e de pastagens permanentes, ou de jardim, aplicam-se os seguintes critérios:
+
+a) No estrato arbóreo a distância entre as copas das árvores deve ser no mínimo de 10 m nos povoamentos de pinheiro bravo e eucalipto, devendo estar desramadas em 50 % da sua altura até que esta atinja os 8 m, altura a partir da qual a desramação deve alcançar no mínimo 4 m acima do solo;
+
+b) No estrato arbóreo, nas espécies não mencionadas na alínea anterior, a distância entre as copas das árvores permitidas deve ser no mínimo de 4 m e a desramação deve ser de 50 % da altura da árvore até que esta atinja os 8 m, altura a partir da qual a desramação deve alcançar no mínimo 4 m acima do solo;
+
+c) No estrato arbustivo a altura máxima da vegetação não pode exceder 50 cm;
+
+d) No estrato subarbustivo a altura máxima da vegetação não pode exceder 20 cm.
+
+II. No caso de infraestruturas da rede viária às quais se associem alinhamentos arbóreos com especial valor patrimonial ou paisagístico, ainda que das espécies previstas na alínea a) do n.º I, deve ser garantida na preservação do arvoredo o disposto no número anterior numa faixa correspondente à projeção vertical dos limites das suas copas acrescida de uma faixa de largura não inferior a 10 m para cada lado.
+
+III. Nas faixas de gestão de combustíveis envolventes aos edifícios devem ainda ser cumpridos, cumulativamente, os seguintes critérios:
+
+1 - As copas das árvores e dos arbustos devem estar distanciadas no mínimo 5 m da edificação, evitando-se ainda a sua projeção sobre a cobertura do edifício.
+
+2 - Excecionalmente, no caso de arvoredo de especial valor patrimonial ou paisagístico pode admitir-se uma distância inferior a 5 m, desde que seja reforçada a descontinuidade horizontal e vertical de combustíveis e garantida a ausência de acumulação de combustíveis na cobertura do edifício.
+
+3 - Sempre que possível, deverá ser criada uma faixa pavimentada de 1 m a 2 m de largura, circundando todo o edifício.
+
+4 - Não poderão ocorrer quaisquer acumulações de substâncias combustíveis, como lenha, madeira ou sobrantes de exploração florestal ou agrícola, bem como de outras substâncias altamente inflamáveis.
+
+IV. No caso de faixas de gestão de combustível que abranjam arvoredo classificado de interesse público, zonas de proteção a edifícios e monumentos nacionais, manchas de arvoredo com especial valor patrimonial ou paisagístico ou manchas de arvoredo e outra vegetação protegida no âmbito da conservação da natureza e biodiversidade, tal como identificado em instrumento de gestão florestal, ou outros instrumentos de gestão territorial ou de gestão da Rede Natura 2000, pode a comissão municipal de defesa da floresta aprovar critérios específicos de gestão de combustíveis.
+
+V. A aplicação dos critérios estabelecidos nos pontos anteriores pode ser excecionada mediante pedido apresentado pela entidade responsável pela gestão de combustível, quando da aplicação dos mesmos possa resultar um risco significativo e fundamentado para a estabilidade dos solos e taludes de vias rodo ou ferroviárias, através de despacho dos membros do Governo responsáveis pelas áreas da proteção civil e das infraestruturas.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 82/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2021-172745163), em vigor a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 10/2018 - Diário da República n.º 32/2018, Série I de 2018-02-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2018-114685734), em vigor a partir de 2018-02-15
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 76/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/76-2017-108010872), em vigor a partir de 2017-08-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 17/2009 - Diário da República n.º 9/2009, Série I de 2009-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2009-397360), em vigor a partir de 2009-02-13

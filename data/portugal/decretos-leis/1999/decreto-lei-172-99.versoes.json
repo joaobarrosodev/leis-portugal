@@ -1,0 +1,396 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:323701:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34474875",
+ "dre_path": "/dr/detalhe/decreto-lei/172-1999-323701",
+ "source_lastmod": "2025-05-30",
+ "versions": [
+  {
+   "date": "1999-05-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "50894375",
+    "50894475",
+    "50894575",
+    "50894675",
+    "50894775",
+    "50894875",
+    "50894975",
+    "50895075",
+    "50895175",
+    "50895275",
+    "50895375",
+    "50895475",
+    "50895575",
+    "50895675",
+    "50895775",
+    "50895875",
+    "50895975",
+    "50896075",
+    "50896175"
+   ]
+  },
+  {
+   "date": "2004-03-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211031:por",
+     "title": "Decreto-Lei n.º 70/2004",
+     "published": "2004-03-25",
+     "dre_path": "/dr/detalhe/decreto-lei/70-2004-211031"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 17.º"
+   ],
+   "fragments": [
+    "50894375",
+    "50894475",
+    "919989133",
+    "919989134",
+    "919989135",
+    "50894875",
+    "919989136",
+    "919989145",
+    "919989146",
+    "919989147",
+    "919989148",
+    "50895475",
+    "919989149",
+    "919989137",
+    "50895775",
+    "919989139",
+    "919989140",
+    "919989141",
+    "919989150",
+    "919989143",
+    "919989144"
+   ]
+  }
+ ],
+ "fragments": {
+  "50894375": {
+   "fragment_id": "35094675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O presente decreto-lei estabelece o regime jurídico dos warrants autónomos, regulando a sua emissão no mercado nacional, prevendo a admissão à negociação em mercado de bolsa e a respectiva comercialização, em condições a regulamentar, nos termos gerais, pela Comissão do Mercado de Valores Mobiliários, atenta a natureza dos warrants enquanto valores mobiliários.\n\nQuer a evolução registada no panorama nacional pelos warrants destacáveis de obrigações quer o aumento do recurso à emissão por empresas portuguesas de warrants autónomos em mercados internacionais justificam, entre outros factores, a regulação deste instrumento financeiro por forma a enquadrar a sua utilização no âmbito do mercado nacional, assim se contribuindo, num crescente contexto de concorrência entre os mercados de capitais, para o reforço da competitividade das empresas, das instituições financeiras, do mercado e da economia portuguesa. As experiências de mercados estrangeiros desenvolvidos neste domínio não deixaram, naturalmente, de ser tomadas em consideração.\n\nOptou-se, atenta a diferente génese dos instrumentos, por não fazer aplicar o regime ora estabelecido aos warrants destacáveis de obrigações, já regulado, em especial, no Código das Sociedades Comerciais, antes se admitindo a aplicabilidade de aspectos significativos daquele regime aos warrants autónomos sobre valores mobiliários próprios.\n\nOptou-se, de igual modo, por restringir o conjunto de activos subjacentes - valores cotados, índices sobre esses valores, taxas de juro e divisas. Permitiu-se, contudo, antecipando o desenvolvimento possível do mercado e a sua aproximação a congéneres estrangeiros, que o Ministro das Finanças, por portaria, possa alargar o rol de activos subjacentes quando se entender oportuno e adequado.\n\nConsiderando a natureza dos warrants como valores mobiliários - aplicando-se-lhes o respectivo regime geral -, não se deixou de prever os normais mecanismos de limitação e controlo das emissões, já aplicáveis às sociedades comerciais e às instituições financeiras.\n\nAs matérias objecto de regulação circunscrevem-se a um núcleo reputado essencial, conferindo-se competências regulamentares que, para além das já existentes em termos gerais no domínio do mercado de valores mobiliários, permitirão, no quadro legal fixado, dotar o regime jurídico dos warrants autónomos de flexibilidade suficiente para acompanhar as evoluções do mercado e as necessidades de supervisão desse mercado e de algumas das entidades que, com maior amplitude, os poderão emitir.\n\nFoi ouvido o Banco de Portugal, a Comissão do Mercado de Valores Mobiliários e o Instituto de Gestão do Crédito Público.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer com lei geral da República, o seguinte:"
+  },
+  "50894475": {
+   "fragment_id": "36084075",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente decreto-lei aplica-se aos warrants autónomos emitidos, negociados ou comercializados em Portugal."
+  },
+  "50894575": {
+   "fragment_id": "36084175",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Noção\n\nWarrants autónomos são valores mobiliários que, em relação a um dos activos subjacentes referidos no artigo 3.º, conferem, alternativa ou exclusivamente, algum dos seguintes direitos:\n\na) Direito a subscrever, a adquirir ou a alienar o activo subjacente, mediante um preço, no prazo e nas demais condições estabelecidas na deliberação de emissão;\n\nb) Direito a exigir a diferença entre o preço do activo subjacente fixado na deliberação de emissão e o preço desse activo no momento do exercício."
+  },
+  "50894675": {
+   "fragment_id": "36084275",
+   "type": 11,
+   "heading": "Artigo 3.º — Activo subjacente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Activo subjacente\n\n1 - Os warrants autónomos podem ter como activo subjacente:\n\na) Valores mobiliários cotados em bolsa;\n\nb) Índices sobre valores mobiliários cotados em bolsa;\n\nc) Taxas de juro;\n\nd) Divisas;\n\ne) Outros activos de natureza análoga que o Ministro das Finanças, por portaria, venha a estabelecer.\n\n2 - A Comissão do Mercado de Valores Mobiliários poderá fixar, por regulamento, as características que devem revestir os activos subjacentes.\n\n3 - Deverá ser solicitado parecer ao Banco de Portugal e ao Instituto de Gestão do Crédito Público antes de serem exercidas as competências previstas na alínea e) do n.º 1 e no n.º 2 quando o activo subjacente se encontre, de algum modo, relacionado com as respectivas atribuições."
+  },
+  "50894775": {
+   "fragment_id": "36084375",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades emitentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidades emitentes\n\n1 - Podem emitir warrants autónomos:\n\na) Os bancos;\n\nb) A Caixa Económica Montepio Geral;\n\nc) A Caixa Central de Crédito Agrícola Mútuo;\n\nd) As sociedades de investimento;\n\ne) Outras instituições de crédito e as sociedades financeiras de corretagem, sem prejuízo das normas legais e regulamentares que regem as respectivas actividades, desde que previamente autorizadas pelo Banco de Portugal;\n\nf) O Estado;\n\ng) As sociedades anónimas, se se tratar de warrants sobre valores mobiliários próprios.\n\n2 - O Banco de Portugal estabelecerá, por aviso, as condições em que poderá ser concedida a autorização referida na alínea e) do n.º 1."
+  },
+  "50894875": {
+   "fragment_id": "36084475",
+   "type": 11,
+   "heading": "Artigo 5.º — Deliberação de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deliberação de emissão\n\n1 - Se o contrato de sociedade não a impedir ou se não dispuser de modo diferente, a emissão de warrants autónomos pode ser deliberada pelo órgão de administração.\n\n2 - Só podem ser emitidos warrants autónomos sobre valores mobiliários próprios se o contrato de sociedade o autorizar.\n\n3 - A deliberação deve conter as seguintes menções:\n\na) Identificação do activo subjacente;\n\nb) Número de warrants a emitir;\n\nc) Preço de subscrição;\n\nd) Preço de exercício;\n\ne) Condições temporais de exercício;\n\nf) Natureza pública ou particular da emissão;\n\ng) Critérios de rateio."
+  },
+  "50894975": {
+   "fragment_id": "36084575",
+   "type": 11,
+   "heading": "Artigo 6.º — Limite de emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Limite de emissão\n\n1 - À emissão de warrants autónomos sobre valores mobiliários próprios por sociedades anónimas que não revistam a natureza de instituições de crédito nem de sociedades financeiras aplica-se, com as necessárias adaptações, o disposto no artigo 349.º do Código das Sociedades Comerciais.\n\n2 - A Comissão do Mercado de Valores Mobiliários pode, por regulamento, fixar outros limites para a emissão de warrants autónomos sobre valores mobiliários, designadamente em função da capitalização bolsista dos valores que lhes servem de activo subjacente."
+  },
+  "50895075": {
+   "fragment_id": "36084675",
+   "type": 11,
+   "heading": "Artigo 7.º — Vicissitudes dos activos subjacentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vicissitudes dos activos subjacentes\n\n1 - A Comissão do Mercado de Valores Mobiliários regulamentará:\n\na) Os termos em que, nas deliberações de emissão de warrants autónomos, poderão ser previstas condições a aplicar caso se verifiquem vicissitudes relevantes em relação ao activo subjacente;\n\nb) Os termos em que poderá autorizar a liquidação financeira antecipada ou a alteração das condições de emissão em caso de verificação de alteração anormal de circunstâncias.\n\n2 - Antes de exercer a competência referida no n.º 1, a Comissão do Mercado de Valores Mobiliários solicitará parecer ao Banco de Portugal e ao Instituto de Gestão do Crédito Público quando o activo subjacente se encontre, de algum modo, relacionado com as respectivas atribuições."
+  },
+  "50895175": {
+   "fragment_id": "36084775",
+   "type": 11,
+   "heading": "Artigo 8.º — Menções obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Menções obrigatórias\n\nQuando os warrants autónomos assumam forma titulada, os respectivos títulos devem conter, além das referidas nas alíneas a), c), d) e e) do artigo 5.º, as seguintes menções:\n\na) A identificação completa da entidade emitente;\n\nb) A indicação do número de warrants que incorpora cada título;\n\nc) O número sequencial do título;\n\nd) As assinaturas de quem vincula a entidade emitente, que podem ser feitas por chancela."
+  },
+  "50895275": {
+   "fragment_id": "36084875",
+   "type": 11,
+   "heading": "Artigo 9.º — Exercício de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Exercício de direitos\n\nO exercício de direitos inerentes a warrants autónomos é feito perante um intermediário financeiro autorizado pela Comissão do Mercado de Valores Mobiliários a proceder ao registo, guarda e administração de valores mobiliários designado por contrato entre este e a entidade emitente."
+  },
+  "50895375": {
+   "fragment_id": "36084975",
+   "type": 11,
+   "heading": "Artigo 10.º — Negociação em bolsa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Negociação em bolsa\n\nOs warrants autónomos podem ser admitidos à negociação em bolsa."
+  },
+  "50895475": {
+   "fragment_id": "36085075",
+   "type": 11,
+   "heading": "Artigo 11.º — Warrants autónomos sobre valores mobiliários próprios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Warrants autónomos sobre valores mobiliários próprios\n\n1 - São warrants autónomos sobre valores mobiliários próprios aqueles que tenham como activo subjacente valores mobiliários emitidos pela própria entidade emitente do warrant ou por sociedade que, nos termos do Código das Sociedades Comerciais, consigo se encontre em relação de domínio ou de grupo.\n\n2 - Aos warrants sobre acções próprias ou sobre valores mobiliários que confiram direito à sua subscrição, aquisição ou alienação aplicam-se, com as necessárias adaptações, os artigos 325.º-A, 366.º, 367.º, 368.º, 369.º, n.º 2, 370.º, 371.º, 372.º e 487.º do Código das Sociedades Comerciais."
+  },
+  "50895575": {
+   "fragment_id": "36085175",
+   "type": 11,
+   "heading": "Artigo 12.º — Qualificação da oferta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Qualificação da oferta\n\nConsiderar-se-á pública a oferta de subscrição de warrants autónomos sobre acções ou sobre valores mobiliários que confiram direito à subscrição, aquisição ou alienação de acções sempre que a entidade emitente das acções seja sociedade de subscrição pública, ainda que a subscrição seja reservada aos respectivos accionistas."
+  },
+  "50895675": {
+   "fragment_id": "36085275",
+   "type": 11,
+   "heading": "Artigo 13.º — Warrants autónomos sobre valores mobiliários alheios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Warrants autónomos sobre valores mobiliários alheios\n\n1 - Imediatamente após ser deliberada a emissão de warrants autónomos sobre valores mobiliários alheios, a entidade emitente dos warrants deve informar a Comissão do Mercado de Valores Mobiliários e a entidade emitente do valor mobiliário subjacente, devendo proceder à publicação do respectivo anúncio, nos termos do artigo 339.º do Código do Mercado de Valores Mobiliários.\n\n2 - Os warrants autónomos sobre valores mobiliários alheios conferem sempre ao respectivo emitente a faculdade de se exonerar através de liquidação financeira, nos termos da alínea b) do artigo 2.º"
+  },
+  "50895775": {
+   "fragment_id": "36085375",
+   "type": 11,
+   "heading": "Artigo 14.º — Emissão de warrants autónomos pelo Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Emissão de warrants autónomos pelo Estado\n\nO regime dos warrants autónomos a emitir pelo Estado será estabelecido nos termos da Lei n.º 7/98, de 3 de Fevereiro."
+  },
+  "50895875": {
+   "fragment_id": "36085475",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito subsidiário\n\nAos warrants autónomos regulados no presente decreto-lei aplicam-se:\n\na) O Código do Mercado de Valores Mobiliários;\n\nb) Com as necessárias adaptações, os artigos 355.º a 359.º do Código das Sociedades Comerciais."
+  },
+  "50895975": {
+   "fragment_id": "36085575",
+   "type": 11,
+   "heading": "Artigo 16.º — Isenção de taxas e emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Isenção de taxas e emolumentos\n\nFicam isentas de quaisquer taxas e emolumentos todas as escrituras públicas e registos de alteração de contrato de sociedade que tenham por objecto, exclusivamente, introduzir a proibição ou as restrições previstas no n.º 1 do artigo 5.º ou a autorização prevista no n.º 2 do mesmo artigo e sejam efectuadas no prazo de cinco anos contados da data de entrada em vigor do presente decreto-lei."
+  },
+  "50896075": {
+   "fragment_id": "36085675",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração ao Código do Mercado de Valores Mobiliários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração ao Código do Mercado de Valores Mobiliários\n\nAo Código do Mercado de Valores Mobiliários, aprovado pelo Decreto-Lei n.º 142-A/91, de 10 de Abril, é aditado o artigo 157.º-A, com a seguinte redacção:\n\n«Artigo 157.º-A\n\nApuramento do resultado de oferta pública de subscrição\n\n1 - Nos 10 dias subsequentes ao termo do prazo da oferta pública de subscrição, a entidade emitente deve comunicar à CMVM o apuramento do resultado daquela oferta e publicá-lo no boletim de cotações onde:\n\na) A sociedade tenha valores mobiliários admitidos à negociação ou a emissão se destine a ser admitida à negociação;\n\nb) O activo subjacente se encontre admitido à cotação, no caso de emissão de warrants autónomos.\n\n2 - Tratando-se de emissões de warrants autónomos sobre valores mobiliários próprios, a CMVM enviará à conservatória do registo comercial competente a comunicação referida no número anterior acompanhada de declaração comprovativa do registo da emissão.»"
+  },
+  "50896175": {
+   "fragment_id": "36085775",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração ao Código do Registo Comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração ao Código do Registo Comercial\n\nO artigo 3.º do Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - Estão sujeitos a registo os seguintes factos relativos às sociedades comerciais e sociedades civis sob forma comercial:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\ns) ...\n\nt) ...\n\nu) ...\n\nv) A emissão de warrants autónomos sobre valores mobiliários próprios colocada por subscrição particular, por entidade que não tenha valores mobiliários admitidos à negociação em mercado regulamentado nacional, bem como a emissão colocada por subscrição pública fora do mercado nacional.\n\n2 - Nos casos em que a emissão de warrants autónomos sobre valores mobiliários próprios esteja sujeita a registo na Comissão do Mercado de Valores Mobiliários, a declaração comprovativa do referido registo é objecto de simples depósito na pasta da sociedade, a realizar oficiosamente, aquando da sua recepção pelo conservador.»"
+  },
+  "919989133": {
+   "fragment_id": "36084175",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 2.º — Noção\n\n1 - «Warrants autónomos» são valores mobiliários que, em relação a um activo subjacente, conferem algum dos seguintes direitos:\n\na) Direito a subscrever, a adquirir ou a alienar o activo subjacente, mediante um preço, no prazo e demais condições estabelecidas na deliberação de emissão;\n\nb) Direito a exigir a diferença entre um valor do activo subjacente fixado na deliberação de emissão e o preço desse activo no momento do exercício.\n\n2 - Em condições estabelecidas em regulamento, a Comissão do Mercado de Valores Mobiliários (CMVM) pode permitir que o preço de exercício seja fixado em momento posterior ao determinado no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989134": {
+   "fragment_id": "36084275",
+   "type": 11,
+   "heading": "Artigo 3.º — Activos subjacentes",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 3.º — Activos subjacentes\n\nCompete à CMVM, através de regulamento, determinar que activos podem ser utilizados como activos subjacentes a warrants autónomos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989135": {
+   "fragment_id": "36084375",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidades emitentes",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 4.º — Entidades emitentes\n\n1 - Podem emitir warrants autónomos:\n\na) Os bancos;\n\nb) A Caixa Económica Montepio Geral;\n\nc) A Caixa Central de Crédito Agrícola Mútuo;\n\nd) As sociedades de investimento;\n\ne) Outras instituições de crédito e as sociedades financeiras de corretagem, sem prejuízo das normas legais e regulamentares que regem as respectivas actividades, desde que previamente autorizadas pelo Banco de Portugal;\n\nf) O Estado;\n\ng) As sociedades anónimas, se se tratar de warrants sobre valores mobiliários próprios.\n\n2 - Sem prejuízo do disposto no número seguinte, o Banco de Portugal estabelece, por aviso, as condições em que a autorização referida na alínea e) do n.º 1 pode ser concedida.\n\n3 - A CMVM pode, por regulamento, permitir que sejam emitidos warrants autónomos por entidades que não se integrem em qualquer das categorias indicadas no n.º 1, desde que seja prestada garantia adequada por entidade idónea.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989136": {
+   "fragment_id": "36084575",
+   "type": 11,
+   "heading": "Artigo 6.º — Limite de emissão",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 6.º — Limite de emissão\n\n1 - À emissão de warrants autónomos sobre valores mobiliários próprios por sociedades anónimas que não revistam a natureza de instituições de crédito nem de sociedades financeiras aplica-se, com as necessárias adaptações, o disposto no artigo 349.º do Código das Sociedades Comerciais.\n\n2 - A CMVM pode, por regulamento, fixar outros limites para a emissão de warrants autónomos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989145": {
+   "fragment_id": "36084675",
+   "type": 11,
+   "heading": "Artigo 7.º — Vicissitudes dos activos subjacentes",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 7.º — Vicissitudes dos activos subjacentes\n\n1 - A Comissão do Mercado de Valores Mobiliários regulamentará:\n\na) Os termos em que, nas deliberações de emissão de warrants autónomos, poderão ser previstas condições a aplicar caso se verifiquem vicissitudes relevantes em relação ao activo subjacente;\n\nb) Os termos em que poderá autorizar a liquidação financeira antecipada ou a alteração das condições de emissão em caso de verificação de alteração anormal de circunstâncias.\n\n2 - Antes de exercer a competência referida no n.º 1, a Comissão do Mercado de Valores Mobiliários solicitará parecer ao Banco de Portugal e ao Instituto de Gestão do Crédito Público quando o activo subjacente se encontre, de algum modo, relacionado com as respectivas atribuições.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989146": {
+   "fragment_id": "36084775",
+   "type": 11,
+   "heading": "Artigo 8.º — Menções obrigatórias",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 8.º — Menções obrigatórias\n\nQuando os warrants autónomos assumam forma titulada, os respectivos títulos devem conter, além das referidas nas alíneas a), c), d) e e) do artigo 5.º, as seguintes menções:\n\na) A identificação completa da entidade emitente;\n\nb) A indicação do número de warrants que incorpora cada título;\n\nc) O número sequencial do título;\n\nd) As assinaturas de quem vincula a entidade emitente, que podem ser feitas por chancela.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989147": {
+   "fragment_id": "36084875",
+   "type": 11,
+   "heading": "Artigo 9.º — Exercício de direitos",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 9.º — Exercício de direitos\n\nO exercício de direitos inerentes a warrants autónomos é feito perante um intermediário financeiro autorizado pela Comissão do Mercado de Valores Mobiliários a proceder ao registo, guarda e administração de valores mobiliários designado por contrato entre este e a entidade emitente.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989148": {
+   "fragment_id": "36084975",
+   "type": 11,
+   "heading": "Artigo 10.º — Negociação em bolsa",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 10.º — Negociação em bolsa\n\nOs warrants autónomos podem ser admitidos à negociação em bolsa.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989149": {
+   "fragment_id": "36085175",
+   "type": 11,
+   "heading": "Artigo 12.º — Qualificação da oferta",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 12.º — Qualificação da oferta\n\nConsiderar-se-á pública a oferta de subscrição de warrants autónomos sobre acções ou sobre valores mobiliários que confiram direito à subscrição, aquisição ou alienação de acções sempre que a entidade emitente das acções seja sociedade de subscrição pública, ainda que a subscrição seja reservada aos respectivos accionistas.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989137": {
+   "fragment_id": "36085275",
+   "type": 11,
+   "heading": "Artigo 13.º — Warrants autónomos sobre valores mobiliários alheios",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 13.º — Warrants autónomos sobre valores mobiliários alheios\n\n1 - A entidade emitente de warrants autónomos sobre valores mobiliários alheios informa a emitente do activo subjacente da deliberação de emissão de warrants no mais curto espaço de tempo possível.\n\n2 - Os warrants autónomos sobre valores mobiliários alheios conferem sempre ao respectivo emitente a faculdade de se exonerar através de liquidação financeira, nos termos da alínea b) do n.º 1 do artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989139": {
+   "fragment_id": "920040894",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Aplicação a valores mobiliários análogos",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 14.º-A — Aplicação a valores mobiliários análogos\n\nOs artigos 3.º e 4.º, com excepção das alíneas d), e), f) e g) do n.º 1, aplicam-se a valores mobiliários análogos a warrants autónomos, com as devidas adaptações.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989140": {
+   "fragment_id": "36085475",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito subsidiário",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 15.º — Direito subsidiário\n\nAos warrants autónomos aplica-se subsidiariamente:\n\na) O Código dos Valores Mobiliários;\n\nb) Com as necessárias adaptações, os artigos 355.º a 359.º do Código das Sociedades Comerciais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989141": {
+   "fragment_id": "36085575",
+   "type": 11,
+   "heading": "Artigo 16.º — Isenção de taxas e emolumentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Isenção de taxas e emolumentos\n\nFicam isentas de quaisquer taxas e emolumentos todas as escrituras públicas e registos de alteração de contrato de sociedade que tenham por objecto, exclusivamente, introduzir a proibição ou as restrições previstas no n.º 1 do artigo 5.º ou a autorização prevista no n.º 2 do mesmo artigo e sejam efectuadas no prazo de cinco anos contados da data de entrada em vigor do presente decreto-lei."
+  },
+  "919989150": {
+   "fragment_id": "36085675",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração ao Código do Mercado de Valores Mobiliários",
+   "in_force_from": "2004-03-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+   ],
+   "markdown": "###### Artigo 17.º — Alteração ao Código do Mercado de Valores Mobiliários\n\nAo Código do Mercado de Valores Mobiliários, aprovado pelo Decreto-Lei n.º 142-A/91, de 10 de Abril, é aditado o artigo 157.º-A, com a seguinte redacção:\n\n«Artigo 157.º-A\n\nApuramento do resultado de oferta pública de subscrição\n\n1 - Nos 10 dias subsequentes ao termo do prazo da oferta pública de subscrição, a entidade emitente deve comunicar à CMVM o apuramento do resultado daquela oferta e publicá-lo no boletim de cotações onde:\n\na) A sociedade tenha valores mobiliários admitidos à negociação ou a emissão se destine a ser admitida à negociação;\n\nb) O activo subjacente se encontre admitido à cotação, no caso de emissão de warrants autónomos.\n\n2 - Tratando-se de emissões de warrants autónomos sobre valores mobiliários próprios, a CMVM enviará à conservatória do registo comercial competente a comunicação referida no número anterior acompanhada de declaração comprovativa do registo da emissão.»\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 70/2004 - Diário da República n.º 72/2004, Série I-A de 2004-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-2004-211031), em vigor a partir de 2004-03-30"
+  },
+  "919989143": {
+   "fragment_id": "36085775",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração ao Código do Registo Comercial",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 10-AS/99 - Diário da República n.º 150/1999, 2º Suplemento, Série I-A de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-as-1999-406332), produz efeitos a partir de 1999-05-25"
+   ],
+   "markdown": "###### Artigo 18.º — Alteração ao Código do Registo Comercial\n\nO artigo 3.º do Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de Dezembro, passa a ter a seguinte redacção:\n\n«Artigo 3.º\n\n[...]\n\n1 - Estão sujeitos a registo os seguintes factos relativos às sociedades comerciais e sociedades civis sob forma comercial:\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) ...\n\np) ...\n\nq) ...\n\nr) ...\n\ns) ...\n\nt) ...\n\nu) ...\n\nv) ...\n\nx) A emissão de warrants autónomos sobre valores mobiliários próprios colocada por subscrição particular, por entidade que não tenha valores mobiliários admitidos à negociação em mercado regulamentado nacional, bem como a emissão colocada por subscrição pública fora do mercado nacional.\n\n2 - Nos casos em que a emissão de warrants autónomos sobre valores mobiliários próprios esteja sujeita a registo na Comissão do Mercado de Valores Mobiliários, a declaração comprovativa do referido registo é objecto de simples depósito na pasta da sociedade, a realizar oficiosamente, aquando da sua recepção pelo conservador.»\n\n> Retificado pelo/a [Declaração de Rectificação n.º 10-AS/99 - Diário da República n.º 150/1999, 2º Suplemento, Série I-A de 1999-06-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/10-as-1999-406332), produz efeitos a partir de 1999-05-25"
+  },
+  "919989144": {
+   "fragment_id": "36085875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Março de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim.\n\nPromulgado em 29 de Abril de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Maio de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

@@ -1,0 +1,515 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:504978:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-114356003",
+ "dre_path": "/dr/detalhe/decreto-lei/154-2013-504978",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-11-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114354483",
+    "114354484",
+    "114354485",
+    "114354486",
+    "114354487",
+    "114354488",
+    "114354489",
+    "114354490",
+    "114354491",
+    "114354492",
+    "114354493",
+    "114354494",
+    "114354495",
+    "114354496",
+    "114354497",
+    "114354498",
+    "114354499",
+    "114354500",
+    "114354501",
+    "114354502",
+    "114354503",
+    "114354504",
+    "114354505",
+    "114354506",
+    "114354507",
+    "114354508",
+    "114354509",
+    "114354510",
+    "114354511",
+    "114354512",
+    "114354513",
+    "114354514",
+    "114354515",
+    "114354516",
+    "114354517",
+    "114354518",
+    "114354519",
+    "114354520",
+    "114354521",
+    "114354522",
+    "114354523",
+    "114354524",
+    "114354525",
+    "114354526",
+    "114354527",
+    "114354529"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114337013:por",
+     "title": "Decreto-Lei n.º 152-B/2017",
+     "published": "2017-12-11",
+     "dre_path": "/dr/detalhe/decreto-lei/152-b-2017-114337013"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "114354483",
+    "114354484",
+    "114354485",
+    "114354486",
+    "114354487",
+    "114354488",
+    "114354489",
+    "114354490",
+    "114354491",
+    "114354492",
+    "114354493",
+    "114354494",
+    "114354495",
+    "114354496",
+    "114354497",
+    "114354498",
+    "114354499",
+    "114354500",
+    "114354501",
+    "114354502",
+    "114354503",
+    "114354504",
+    "114354505",
+    "114354506",
+    "114354507",
+    "114354508",
+    "114354509",
+    "114354510",
+    "114354511",
+    "114354512",
+    "114354513",
+    "114354530",
+    "114354515",
+    "114354516",
+    "114354517",
+    "114354518",
+    "114354519",
+    "114354520",
+    "114354521",
+    "114354522",
+    "114354523",
+    "114354524",
+    "114354525",
+    "114354526",
+    "114354527",
+    "114354528",
+    "114354529"
+   ]
+  }
+ ],
+ "fragments": {
+  "114354483": {
+   "fragment_id": "114356004",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 154/2013\n\nde 5 de novembro\n\nA criação de um contexto favorável ao investimento privado constitui uma prioridade do XIX Governo Constitucional, na medida em que dele depende o desígnio do crescimento económico sustentável.\n\nA captação de novos investidores e o reforço de investimentos já existentes, exigem um esforço contínuo de melhoria no ambiente de negócios, e a redução de custos de contexto, seguindo as melhores práticas no âmbito da Organização para a Cooperação e Desenvolvimento Económico (OCDE).\n\nNeste pressuposto, foi determinado pela Resolução do Conselho de Ministros n.º 47/2012, de 18 de maio, que aprova o Programa da Indústria Responsável, proceder à revisão do regime de reconhecimento de projetos de potencial interesse nacional (PIN), tornando-o mais transparente e com maior abrangência.\n\nEm cumprimento desta orientação, o presente decreto-lei procede à reestruturação da Comissão de Avaliação e Acompanhamento dos PIN (CAA-PIN), que passa a designar-se Comissão Permanente de Apoio ao Investidor (CPAI). Adicionalmente, a CPAI vê alargadas as suas competências face à CAA-PIN, passando agora, não só a acompanhar os projetos de PIN, como também os projetos de investimento, nos termos definidos pelo presente decreto-lei, sem limite mínimo de valor e os projetos que aguardam uma decisão por parte da Administração Pública há mais de 12 meses.\n\nA criação da CPAI visa cumprir o desiderato de tornar Portugal um país mais «amigo do investimento», passando os projetos em causa a ser acompanhados por um Gestor de Processo que dinamiza o procedimento administrativo visando a realização e implementação de projetos de investimento em Portugal, apoiando, através de pontos focais designados para o efeito pelas entidades decisórias, a interação entre o promotor e a Administração Pública.\n\nTal como foi referido acima, o presente decreto-lei atribui ainda à CPAI o reconhecimento do Potencial Interesse Nacional dos projetos com valor igual ou superior a 25 milhões de euros, estabelecendo-se um regime especial para estes projetos que, à semelhança do regime dos anteriores PIN+, se traduz numa tramitação mais célere e eficaz dos respetivos procedimentos administrativos, nomeadamente através da redução de prazos endoprocedimentais nos casos em que tal se afigure determinante para a eficaz implementação do projeto.\n\nO presente decreto-lei clarifica, ainda, as competências da estrutura interministerial encarregue, em cada momento, da definição e coordenação da política económica e do investimento do Governo, que atualmente é a reunião de coordenação dos assuntos económicos e do investimento, regulada nos termos do Regimento do Conselho de Ministros, aprovado pela Resolução do Conselho de Ministros n.º 51/2013, de 8 de agosto, no âmbito do funcionamento eficaz do sistema de acompanhamento de projetos instituído pelo presente decreto-lei. Neste contexto, devem ser identificados, designadamente, os principais entraves e custos de contexto no âmbito do procedimento de aprovação de projetos de investimento, sendo identificadas as medidas mais adequadas para os desbloquear, e proposto ao Conselho de Ministros a elaboração e ou revisão da legislação correspondente.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114354484": {
+   "fragment_id": "114356005",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "114354485": {
+   "fragment_id": "114356006",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei institui o sistema de acompanhamento de projetos de investimento que, pelas suas características, possam assumir uma importância relevante para a dinamização da economia nacional, incluindo os projetos de Potencial Interesse Nacional, doravante abreviadamente designados por PIN.\n\n2 - O presente decreto-lei procede igualmente, no âmbito do sistema de acompanhamento de projetos de investimento que institui, à determinação das competências da estrutura interministerial encarregue da definição e coordenação da política económica e do investimento do Governo.\n\n3 - O presente decreto-lei procede ainda à criação da Comissão Permanente de Apoio ao Investidor, doravante abreviadamente designada por CPAI, nos termos e com as competências constantes do presente diploma."
+  },
+  "114354486": {
+   "fragment_id": "114356007",
+   "type": 11,
+   "heading": "Artigo 2.º — Articulação da estrutura interministerial encarregue da definição e coordenação da política económica e do investimento com a CPAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Articulação da estrutura interministerial encarregue da definição e coordenação da política económica e do investimento com a CPAI\n\n1 - A estrutura interministerial que, em cada momento, tenha como competências a definição e coordenação da política económica e do investimento do Governo, assegura, no âmbito do presente decreto-lei, o funcionamento eficaz do sistema de acompanhamento de projetos de investimento instituído pelo presente diploma.\n\n2 - Nos termos do número anterior, compete à referida estrutura:\n\na) Monitorizar e controlar o sistema de acompanhamento de projetos de investimento, supervisionando, para o efeito, a atividade da CPAI;\n\nb) Apreciar os relatórios síntese apresentados pela CPAI, tomando as medidas mais adequadas no sentido de desbloquear os entraves verificados;\n\nc) Identificar os principais entraves e custos de contexto no âmbito do procedimento de aprovação de projetos de investimento, propondo ao Conselho de Ministros a elaboração e ou revisão da legislação correspondente;\n\nd) Apreciar e submeter à apreciação do Conselho de Ministros, no âmbito dos PIN e na sequência de proposta da CPAI, as matérias identificadas nos termos do n.º 6 do artigo 16.º;\n\ne) Propor ao Conselho de Ministros a aprovação, alteração, suspensão ou ratificação dos instrumentos de gestão territorial necessárias à implementação de projetos PIN."
+  },
+  "114354487": {
+   "fragment_id": "114356008",
+   "type": 11,
+   "heading": "Artigo 3.º — Criação e competências da CPAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Criação e competências da CPAI\n\n1 - É criada a Comissão Permanente de Apoio ao Investidor (CPAI).\n\n2 - A CPAI tem por missão o acompanhamento de projetos de investimento em Portugal, no âmbito do sistema de acompanhamento de projetos de investimento instituído pelo presente decreto-lei, bem como o reconhecimento dos projetos de PIN.\n\n3 - Compete à CPAI:\n\na) Apreciar os requerimentos recebidos, verificar o cumprimento dos requisitos definidos nos artigos 5.º e 6.º e garantir o subsequente acompanhamento dos projetos de investimento;\n\nb) Reconhecer os projetos de investimento como PIN;\n\nc) Monitorizar, em articulação com o respetivo Gestor do Processo, definido nos termos do artigo 12.º, os projetos objeto de acompanhamento e o cumprimento geral dos cronogramas;\n\nd) Reunir com as restantes entidades intervenientes no procedimento e com o promotor sempre que tal se revele necessário;\n\ne) Diligenciar no sentido de eliminar eventuais bloqueios evidenciados no procedimento e garantir a adequada celeridade do mesmo;\n\nf) Reportar à estrutura referida no artigo 2.º, através de relatório síntese, os bloqueios insuperáveis, bem como os eventuais incumprimentos do regime de acompanhamento previsto no presente decreto-lei;\n\ng) Informar o promotor do andamento do processo;\n\nh) Elaborar relatórios trimestrais da sua atividade, identificando, designadamente, de entre os projetos que acompanha aqueles que aguardam uma decisão por parte de alguma das entidades que compõem a Administração Pública há mais de 12 meses, e remetê-los para o conhecimento da estrutura referida no artigo 2.º;\n\ni) Manter uma lista atualizada de todos os projetos de investimento acompanhados pela CPAI, com referência autonomizada aos projetos que se encontram a aguardar uma decisão por parte de alguma das entidades que compõem a Administração Pública há mais de 12 meses e aos projetos objeto de reconhecimento PIN;\n\nj) Manter uma lista atualizada dos pontos focais previstos no artigo 30.º.\n\n4 - No desempenho das suas competências, a CPAI é orientada pelo critério do interesse público de promoção do investimento em Portugal e pelas diretrizes definidas pela estrutura referida no artigo 2.º, nomeadamente as referentes às prioridades de investimento."
+  },
+  "114354488": {
+   "fragment_id": "114356009",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição e funcionamento da CPAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição e funcionamento da CPAI\n\n1 - A CPAI é composta por representantes das seguintes entidades:\n\na) Agência para o Investimento e Comércio Externo de Portugal, E. P. E. (AICEP, E. P. E.), que coordena;\n\nb) IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.);\n\nc) Direção-Geral das Atividades Económicas (DGAE);\n\nd) Comissão de Coordenação e Desenvolvimento Regional (CCDR) territorialmente competente;\n\ne) Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I.P.);\n\nf) Turismo de Portugal, I.P.;\n\ng) Agência Portuguesa do Ambiente, I.P. (APA, I.P.);\n\nh) Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I.P.);\n\ni) Autoridade Tributária e Aduaneira (AT).\n\n2 - Em função da área territorial e setorial dos projetos em análise e sempre que se justifique, a CPAI pode convidar as Câmaras Municipais territorialmente competentes e as entidades ou organismos diretamente envolvidos na decisão dos projetos, a participar nas reuniões, com direito a voto quanto aos projetos específicos em causa.\n\n3 - Os membros do Governo que integram a estrutura referida no artigo 2.º podem fazer-se representar nas reuniões da CPAI, devendo, para o efeito, ser-lhes enviadas as respetivas agendas, bem como para todos os gabinetes ministeriais.\n\n4 - A representação das entidades referidas nos n.os 1 e 2 é assegurada pelos seus responsáveis máximos, com possibilidade de delegação em titulares de cargos de direção superior de 2.º grau, no âmbito da administração direta e indireta do Estado, ou em cargos equivalentes, no âmbito de outras entidades, não implicando em qualquer dos casos atribuição de remuneração.\n\n5 - Os representantes referidos no número anterior podem fazer-se acompanhar, nas reuniões da CPAI, por técnicos das respetivas entidades ou por peritos, quando tal se revele adequado em face da ordem de trabalhos e da natureza das questões a tratar.\n\n6 - A CPAI reúne ordinariamente de 15 em 15 dias e extraordinariamente sempre que se justifique e mediante convocatória do Coordenador.\n\n7 - O secretariado técnico da CPAI é assegurado pela AICEP, E. P. E..\n\n8 - No prazo de 30 dias a contar da data de entrada em vigor do presente decreto-lei, a CPAI aprova o seu regulamento interno de funcionamento."
+  },
+  "114354489": {
+   "fragment_id": "114356010",
+   "type": 1,
+   "heading": "Capítulo II — Objeto do acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Objeto do acompanhamento"
+  },
+  "114354490": {
+   "fragment_id": "114356011",
+   "type": 11,
+   "heading": "Artigo 5.º — Projetos de investimento acompanhados pela CPAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Projetos de investimento acompanhados pela CPAI\n\n1 - São objeto de acompanhamento pela CPAI, mediante requerimento do promotor, os projetos de investimento que reúnam, cumulativamente, os seguintes requisitos:\n\na) Contribuam para a criação ou a manutenção do número de postos de trabalho diretos;\n\nb) Possuam comprovada viabilidade económica;\n\nc) Sejam suscetíveis de adequada sustentabilidade ambiental e territorial;\n\nd) Apresentem um impacte positivo em pelo menos três dos seguintes domínios:\n\ni) Instalação de uma base produtiva, com forte incorporação nacional, criadora de valor acrescentado bruto;\n\nii) Produção de bens e serviços transacionáveis, de caráter inovador, que lhes confira vantagem competitiva no mercado global;\n\niii) Introdução de processos tecnológicos inovadores ou desenvolvidos em colaboração com entidades reconhecidas do sistema científico e tecnológico;\n\niv) Inserção nas estratégia de especialização inteligente da região e ou contribuição para a dinamização de territórios de baixa densidade económica;\n\nv) Balanço económico externo, nomeadamente no aumento das exportações ou na redução das importações;\n\nvi) Eficiência energética ou favorecimento de fontes de energia renováveis;\n\nvii) Efeitos de arrastamento em atividades a montante ou a jusante, particularmente nas pequenas e médias empresas.\n\n2 - A verificação do cumprimento dos requisitos referidos no número anterior é efetuada de acordo com os parâmetros fixados no anexo ao presente decreto-lei, do qual faz parte integrante.\n\n3 - Podem, ainda, ser objeto de acompanhamento pela CPAI os projetos de investimento que, não preenchendo os requisitos cumulativos previstos no n.º 1, se encontrem a aguardar uma decisão por parte de alguma das entidades que compõem a Administração Pública há mais de 12 meses, desde que a ausência de decisão não seja imputável ao promotor.\n\n4 - O processo de acompanhamento de um projeto de investimento pela CPAI é independente e não prejudica a tramitação processual junto das entidades competentes, ainda que a mesma já esteja em curso à data do requerimento.\n\n5 - Não são admitidos requerimentos de acompanhamento de projetos de investimento quando os respetivos projetos se encontrem dependentes de resultados de concursos públicos ou de resolução de litígios em que o Estado seja parte."
+  },
+  "114354491": {
+   "fragment_id": "114356012",
+   "type": 11,
+   "heading": "Artigo 6.º — Projetos PIN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Projetos PIN\n\n1 - São acompanhados pela CPAI e reconhecidos como projetos PIN, mediante requerimento do promotor, os projetos que preencham os requisitos previstos no n.º 1 do artigo anterior e, cumulativamente, os seguintes:\n\na) Representem um investimento global igual ou superior a 25 milhões de euros;\n\nb) Criem um número de postos de trabalho diretos igual ou superior a 50;\n\nc) Sejam apresentados por promotores de reconhecida idoneidade e credibilidade.\n\n2 - A verificação do disposto na alínea c) do número anterior é efetuada de acordo com os parâmetros fixados no anexo ao presente decreto-lei.\n\n3 - Podem, ainda, ser reconhecidos, excecionalmente, como projetos PIN os projetos de investimento de valor global inferior a 25 milhões de euros e ou que criem um número de postos de trabalho diretos inferior a 50, desde que, satisfazendo as restantes condições fixadas no n.º 1, cumpram dois dos seguintes requisitos:\n\na) Atividade interna de Investigação e Desenvolvimento (I&D) no valor de pelo menos 10% do volume de negócios da empresa;\n\nb) Forte componente de inovação aplicada, traduzida numa parte significativa da sua atividade ancorada em patente desenvolvida pela empresa;\n\nc) Manifesto interesse ambiental;\n\nd) Forte vocação exportadora, traduzida por um mínimo de 50% do seu volume de negócios dirigido ao mercado internacional;\n\ne) Produção relevante de bens e serviços transacionáveis."
+  },
+  "114354492": {
+   "fragment_id": "114356013",
+   "type": 1,
+   "heading": "Capítulo III — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimento"
+  },
+  "114354493": {
+   "fragment_id": "114356014",
+   "type": 8,
+   "heading": "Secção I — Tramitação dos projetos de investimento acompanhados pela CPAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Tramitação dos projetos de investimento acompanhados pela CPAI"
+  },
+  "114354494": {
+   "fragment_id": "114356015",
+   "type": 11,
+   "heading": "Artigo 7.º — Iniciativa e requerimento do promotor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Iniciativa e requerimento do promotor\n\n1 - O promotor do projeto de investimento apresenta um requerimento demonstrando o preenchimento dos requisitos constantes do artigo 5.º para efeitos de acompanhamento, conforme modelo aprovado pela CPAI, o qual deve ser instruído com os seguintes elementos:\n\na) Descrição genérica do projeto, nomeadamente através da indicação da atividade económica, postos de trabalho diretos criados ou mantidos, localização prevista ou localizações alternativas, tecnologias envolvidas, produtos ou serviços prestados;\n\nb) Estudos de viabilidade económica e outros necessários à demonstração da sustentabilidade do projeto, designadamente os respetivos planos de investimento e de financiamento;\n\nc) Indicação se o projeto de investimento está sujeito aos regimes de responsabilidade ambiental, de prevenção e controlo integrados da poluição, de avaliação de impacte ambiental, da Rede Natura 2000, de prevenção de acidentes graves envolvendo substâncias perigosas, de proteção do sobreiro e da azinheira e do regime florestal, nos termos da legislação aplicável;\n\nd) Autorizações, aprovações, licenças, pedidos de informação prévia ou pareceres relativos ao projeto, quando existam, bem como a indicação da calendarização do início dos procedimentos de sua iniciativa;\n\ne) Documento que comprove a legitimidade do promotor quanto à utilização do imóvel onde se propõe desenvolver o projeto em causa;\n\nf) Historial do projeto em matéria de procedimentos conducentes à respetiva aprovação, com indicação das entidades públicas contactadas relativamente a incentivos, licenciamento ou outros aspetos, em que datas e com que resultados, quando aplicável.\n\n2 - O modelo de requerimento previsto no número anterior é publicado na plataforma eletrónica de informação da CPAI.\n\n3 - O requerimento referido no n.º 1 é apresentado por meios eletrónicos, através da plataforma eletrónica de informação da CPAI, acessível através do balcão único eletrónico dos serviços, referido nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n4 - A proposta de acompanhamento de um projeto pela CPAI pode ainda ser oficiosamente apresentada por um dos seus membros, nos termos do n.º 1 do artigo 5.º e do número seguinte.\n\n5 - No caso referido no número anterior, a CPAI convida o promotor a juntar os elementos instrutórios necessários à instrução do procedimento."
+  },
+  "114354495": {
+   "fragment_id": "114356016",
+   "type": 11,
+   "heading": "Artigo 8.º — Decisão de acompanhamento do projeto pela CPAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Decisão de acompanhamento do projeto pela CPAI\n\n1 - A apreciação do requerimento e dos elementos instrutórios remetidos pelo promotor do projeto de investimento nos termos do artigo anterior compete a CPAI.\n\n2 - No prazo máximo de oito dias úteis a contar da data da receção do requerimento do promotor, o coordenador da CPAI pode solicitar ao requerente, por uma única vez, os elementos adicionais que sejam necessários à decisão, suspendendo-se durante esse período a contagem do prazo previsto no n.º 5.\n\n3 - Decorrido o prazo fixado ao promotor para apresentação dos elementos referidos no número anterior sem que este proceda à respetiva junção, o processo é arquivado.\n\n4 - O coordenador da CPAI remete às entidades que integram a Comissão toda a documentação apresentada pelo promotor, para efeitos de instrução da decisão prevista no número seguinte.\n\n5 - No prazo máximo de 15 dias a contar da data da receção do requerimento do promotor, a CPAI profere a decisão sobre o acompanhamento do projeto de investimento e notifica-a ao promotor.\n\n6 - A decisão de acompanhamento de um projeto de investimento pela CPAI deve identificar o Gestor de Processo, designado nos termos do artigo 12.º"
+  },
+  "114354496": {
+   "fragment_id": "114356017",
+   "type": 11,
+   "heading": "Artigo 9.º — Efeitos do acompanhamento do projeto pela CPAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Efeitos do acompanhamento do projeto pela CPAI\n\n1 - O acompanhamento de um projeto de investimento obriga todas as entidades responsáveis ou participantes na tramitação procedimental do projeto à colaboração institucional prevista no presente decreto-lei, designadamente a prestar toda a informação e colaboração à CPAI e ao Gestor de Processo no prazo de 10 dias a contar da respetiva solicitação.\n\n2 - O acompanhamento não dispensa o integral cumprimento das normas legais e regulamentares aplicáveis, não sendo constitutivo de direitos.\n\n3 - Qualquer alteração ao projeto, incluindo a modificação ou substituição do próprio promotor, que altere os pressupostos em que se encontra fundamentada a decisão de acompanhamento do projeto de investimento, deve de ser comunicada ao Gestor de Processo no prazo máximo de 15 dias a contar da data do facto que lhe deu origem, e determina uma nova reapreciação do projeto, nos termos estabelecidos no presente decreto-lei.\n\n4 - A decisão favorável de acompanhamento de um projeto de investimento caduca automaticamente se, decorridos 90 dias sobre a comunicação da mesma, o promotor não iniciar a tramitação subsequente prevista no cronograma de projeto.\n\n5 - A violação de qualquer disposição legal ou regulamentar por parte do promotor relativamente ao projeto de investimento acompanhado pela CPAI tem como consequência, qualquer que seja a fase em que aquele se encontre, a cessação imediata do acompanhamento."
+  },
+  "114354497": {
+   "fragment_id": "114356018",
+   "type": 11,
+   "heading": "Artigo 10.º — Início do procedimento de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Início do procedimento de acompanhamento\n\n1 - Após a emissão da decisão favorável de acompanhamento do projeto de investimento, o Gestor do Processo convoca as várias entidades envolvidas nos procedimentos do projeto, em razão das suas competências específicas, para uma reunião com o promotor a ter lugar no prazo máximo de 10 dias.\n\n2 - A ordem de trabalhos da reunião prevista no número anterior inclui:\n\na) O ponto de situação do processo e seus eventuais antecedentes;\n\nb) A identificação de possíveis condicionantes e obstáculos ao projeto e respetivas implicações procedimentais;\n\nc) O cronograma de procedimentos, detalhando a tramitação do processo, as obrigações processuais do proponente e uma calendarização de compromisso da Administração em matéria de formalidades e atos.\n\n3 - O cronograma para cada projeto de investimento é objeto de validação pela CPAI em matéria de diligências e prazos, bem como por todas as entidades da administração central, direta e indireta, competentes para a prática de atos ou formalidades nos procedimentos aplicáveis ao projeto de investimento em acompanhamento.\n\n4 - As conclusões da reunião são registadas em relatório da CPAI, a remeter a todas as entidades participantes, o qual é comunicado posteriormente ao promotor."
+  },
+  "114354498": {
+   "fragment_id": "114356019",
+   "type": 11,
+   "heading": "Artigo 11.º — Acompanhamento pela CPAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acompanhamento pela CPAI\n\n1 - A CPAI monitoriza, em articulação com o Gestor de Processo, a tramitação do processo e o cumprimento do cronograma dos procedimentos a desenvolver.\n\n2 - O acompanhamento da CPAI abrange não apenas os procedimentos de autorização e licenciamento do projeto mas também eventuais procedimentos no âmbito dos regimes de uso do solo conexos com o mesmo e os procedimentos de concessão de incentivos financeiros e fiscais, quando se revelar necessário e adequado.\n\n3 - Os projetos de investimento em acompanhamento são objeto de uma apreciação global e harmonizada no âmbito da CPAI.\n\n4 - Não obstante o disposto no número anterior, todos os pareceres, aprovações, autorizações, decisões ou licenças relativos aos projetos de investimento em acompanhamento são independentes e emitidos ao abrigo das respetivas normas procedimentais e de competência previstas nos regimes jurídicos especificamente aplicáveis.\n\n5 - Todas as entidades da administração central chamadas a pronunciar-se sobre os projetos de investimento em acompanhamento no âmbito da CPAI devem fazê-lo exclusivamente quanto às matérias abrangidas pelas respetivas atribuições e competências, apreciando apenas as questões que lhes tenham sido expressamente cometidas por lei.\n\n6 - As entidades integradas na CPAI devem colaborar ativamente com o Gestor de Processo e responder às suas solicitações nos prazos fixados para o efeito, sendo obrigatório o reporte de eventuais incumprimentos à tutela respetiva.\n\n7 - Verificando-se o incumprimento do cronograma por causa imputável ao promotor, a CPAI notifica este último para executar ou promover os atos em falta, podendo fixar um prazo para o efeito, o qual, não sendo cumprido, pode determinar a cessação imediata do acompanhamento.\n\n8 - O procedimento de acompanhamento por parte da CPAI termina com o início da execução do projeto.\n\n9 - Sem prejuízo do disposto no número anterior, a CPAI procede à recolha da informação relevante sobre a execução do projeto, devendo o promotor responder às solicitações para o efeito."
+  },
+  "114354499": {
+   "fragment_id": "114356020",
+   "type": 11,
+   "heading": "Artigo 12.º — Designação do Gestor de Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Designação do Gestor de Processo\n\nSão designados Gestor de Processo, na decisão de acompanhamento do projeto e ou na decisão de reconhecimento PIN, a AICEP, E.P.E., o IAPMEI, I.P., ou o Turismo de Portugal, I.P., consoante a natureza do projeto em causa e as atribuições estabelecidas nos respetivos diplomas orgânicos em matéria de acompanhamento de projetos de investimento."
+  },
+  "114354500": {
+   "fragment_id": "114356021",
+   "type": 11,
+   "heading": "Artigo 13.º — Funções do Gestor de Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Funções do Gestor de Processo\n\nO Gestor de Processo é responsável por acompanhar, em proximidade, o desenvolvimento do processo, relacionando-se diretamente com o promotor no âmbito e para o efeito de todos os procedimentos legais e regulamentares que prevejam a emissão de pareceres, autorizações, decisões ou licenciamentos da responsabilidade da administração central necessários à concretização dos projetos de investimento para os quais foi designado, competindo-lhe em particular:\n\na) Zelar pelo cumprimento do cronograma referido na alínea c) do n.º 2 do artigo 10.º, comunicando os eventuais incumprimentos à CPAI;\n\nb) Solicitar e receber do promotor os elementos, informações ou documentação e distribuí-los pelas entidades competentes;\n\nc) Empreender os esforços necessários ao esclarecimento e à concertação de posições com vista à concretização do projeto de investimento, designadamente através da promoção de reuniões com as entidades da Administração Pública e com o promotor, bem como com a respetiva articulação com a administração local;\n\nd) Identificar os obstáculos e dificuldades ao prosseguimento do processo e comunicá-los à CPAI, indicando, sempre que possível, as alternativas para a sua superação;\n\ne) Registar informação atualizada e sistematizada sobre os procedimentos em curso e disponibilizá-la periodicamente à CPAI;\n\nf) Identificar os projetos que aguardam uma decisão da Administração há mais de 12 meses, desde que essa ausência de decisão não seja imputável ao promotor, promovendo a rápida superação dos obstáculos à respetiva conclusão e sinalizando-os ao coordenador da CPAI, para os efeitos previstos nas alíneas h) e i) do n.º 2 do artigo 3.º."
+  },
+  "114354501": {
+   "fragment_id": "114356022",
+   "type": 8,
+   "heading": "Secção II — Tramitação dos projetos PIN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Tramitação dos projetos PIN"
+  },
+  "114354502": {
+   "fragment_id": "114356023",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime\n\nOs projetos PIN regem-se, com as necessárias adaptações, pelas disposições que regulam a tramitação dos projetos de investimento acompanhados pela CPAI, constante da secção I do capítulo III do presente decreto-lei, em tudo o que não esteja especialmente previsto nos artigos seguintes."
+  },
+  "114354503": {
+   "fragment_id": "114356024",
+   "type": 11,
+   "heading": "Artigo 15.º — Iniciativa e requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Iniciativa e requerimento\n\n1 - O promotor do projeto de investimento apresenta um requerimento, demonstrando o preenchimento dos requisitos constantes do artigo 6.º para efeitos de acompanhamento do projeto e respetivo reconhecimento como PIN, conforme modelo aprovado pela CPAI, o qual deve ser instruído com os elementos previstos no artigo 7.º, bem como pelos seguintes:\n\na) Enquadramento do projeto na estratégia global da empresa;\n\nb) Demonstração estimada dos resultados do projeto no triénio subsequente à conclusão do investimento;\n\nc) Estudos com vista à avaliação da compatibilização da candidatura com os valores naturais presentes, designadamente com as áreas protegidas e com a Rede Natura 2000 e a caracterização dos principais impactes ambientais do projeto nos domínios da conservação da natureza, da água, do solo, dos resíduos e do ar, quando aplicável;\n\nd) Demonstração da ausência de soluções alternativas do projeto, caso existam probabilidades elevadas de o projeto afetar valores protegidos pelas Diretivas Comunitárias Aves e Habitats, quando aplicável;\n\ne) Demonstração da ausência de soluções alternativas do projeto, quando incida em terrenos submetidos ao regime florestal;\n\nf) Síntese descritiva do enquadramento do projeto nos instrumentos de gestão territorial em vigor, nomeadamente planos municipais e especiais de ordenamento do território, bem como servidões ou restrições de utilidade pública que incidam sobre a área de intervenção;\n\ng) Extrato das plantas de ordenamento e de condicionantes dos planos municipais e planos especiais de ordenamento do território aplicáveis na área, com a sobreposição da área de implantação do projeto;\n\nh) Fundamentação da localização prevista, incluindo ortofotomapa e ou fotografia aérea e cartografia com a área de implantação do projeto e identificação clara e inequívoca do zonamento e usos propostos, designadamente zonas a edificar acessos, arruamentos, e zonas verdes, elementos que devem ser georreferenciados e enviados em formato shapefile (Projeção Hayford-Gauss IGEOE, Datum Lisboa - origem de Melriça) de tipo área, sempre que se trate de manchas.\n\n2 - A proposta de reconhecimento de um projeto como PIN pode ainda ser oficiosamente apresentada por um dos membros da CPAI, nos termos previstos nos n.os 1 e 2 do artigo 6.º e do número seguinte.\n\n3 - No caso referido no número anterior, a CPAI convida o promotor a juntar os elementos instrutórios necessários ao reconhecimento do projeto como PIN."
+  },
+  "114354504": {
+   "fragment_id": "114356025",
+   "type": 11,
+   "heading": "Artigo 16.º — Decisão de reconhecimento de um projeto como PIN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Decisão de reconhecimento de um projeto como PIN\n\n1 - O reconhecimento de um projeto como PIN compete à CPAI, no prazo máximo de 30 dias a contar da data da receção do requerimento do promotor, seguindo os trâmites previsto no artigo 8.º.\n\n2 - A decisão a que se refere o número anterior deve incluir:\n\na) A referência à fundamentação do reconhecimento do projeto como PIN;\n\nb) A identificação do Gestor de Processo.\n\n3 - A decisão de reconhecimento deve ainda identificar as decisões de que depende a implementação do projeto, designadamente:\n\na) Os instrumentos de gestão territorial cuja elaboração, alteração ou, eventualmente, suspensão seja necessária nos termos previstos na alínea a) do n.º 2 do artigo 100.º do Decreto-Lei n.º 380/99, de 22 de setembro;\n\nb) O reconhecimento do interesse público do projeto, bem como da inexistência de soluções alternativas, para efeitos da desafetação dos terrenos submetidos ao regime florestal por razões de utilidade pública, nos termos dos artigos 26.º a 28.º do Decreto de 24 de dezembro de 1901, e demais legislação complementar, e da adequação das medidas compensatórias a essa desafetação;\n\nc) O reconhecimento do interesse público do projeto para os efeitos do regime jurídico da Reserva Ecológica Nacional, aprovado pelo Decreto-Lei n.º 166/2008, de 22 de agosto, alterado e republicado pelo Decreto-Lei n.º 239/2012, de 2 de novembro, e pelo Decreto-Lei n.º 96/2013, de 19 de julho, nos casos em que o projeto não se encontre sujeito a avaliação de impacte ambiental;\n\nd) O reconhecimento do relevante interesse público para efeitos do regime jurídico da Reserva Agrícola Nacional, aprovado pelo Decreto-Lei n.º 73/2009, de 31 de março;\n\ne) O reconhecimento do interesse público do projeto, bem como da inexistência de soluções alternativas, para os efeitos do artigo 10.º do Decreto-Lei n.º 140/99, de 24 de abril, alterado pelo Decreto-Lei n.º 49/2005, de 24 de fevereiro, e a adequação das medidas compensatórias associadas ao projeto;\n\nf) O reconhecimento de interesse geral para os efeitos do levantamento das proibições em áreas de povoamento florestal percorridas por incêndio, nos termos da legislação aplicável;\n\ng) Os atos previstos nos regimes jurídicos de outras servidões administrativas ou restrições de utilidade pública, aplicáveis ao projeto, que sejam da competência de membros do Governo;\n\nh) A dispensa do procedimento de avaliação de impacte ambiental (AIA), nos termos previstos no artigo 24.º;\n\ni) O reconhecimento de imprescindível utilidade pública ou de relevante e sustentável interesse para a economia local dos projetos e medidas compensatórias do corte ou arranque de sobreiros e azinheiras em povoamentos, para efeitos do Decreto-Lei n.º 169/2001, de 25 de maio, alterado pelo Decreto-Lei n.º 155/2004, de 30 de junho;\n\nj) Os atos previstos no regime jurídico das obras de aproveitamento hidroagrícola aprovado pelo Decreto-Lei n.º 269/82, de 10 de julho, alterado pelo Decreto-Lei n.º 86/2002, de 6 de abril, e demais legislação complementar, tendo em vista a exclusão de prédios dos aproveitamentos hidroagrícolas.\n\n4 - Sempre que se afigure adequado em razão da natureza do projeto, dos prazos gerais legalmente previstos, e do cronograma dos procedimentos, a CPAI submete à apreciação da estrutura referida no artigo 2.º, através de proposta devidamente fundamentada e articulada com as entidades responsáveis, qualquer das matérias elencadas no número anterior.\n\n5 - As propostas relativas às matérias identificadas nas alíneas c) a j) do número anterior são, após apreciação pela estrutura referida no artigo 2.º, objeto de decisão dos membros de Governo competentes, nos termos dos respetivos regimes legais.\n\n6 - Nos casos de elaboração, alteração ou suspensão dos instrumentos de gestão territorial referidos na alínea a) do n.º 3, bem como nos casos referidos na alínea b) do mesmo número, a estrutura referida no artigo 2.º submete a proposta ao Conselho de Ministros, cuja decisão, quanto aos instrumentos de gestão territorial tem o conteúdo e os efeitos estabelecidos no Decreto-Lei n.º 380/99, de 22 de setembro, para o ato que determina o início do respetivo procedimento."
+  },
+  "114354505": {
+   "fragment_id": "114356026",
+   "type": 11,
+   "heading": "Artigo 17.º — Gestor de Processo em projetos PIN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gestor de Processo em projetos PIN\n\nNo âmbito dos projetos reconhecidos como PIN, e sem prejuízo do disposto no artigo 13.º, compete ainda ao Gestor de Processo:\n\na) Elaborar, em articulação com as entidades intervenientes, o cronograma dos procedimentos a submeter à aprovação da CPAI;\n\nb) Propor à CPAI, com fundamento na natureza do projeto, dos prazos gerais legalmente previstos e do cronograma dos procedimentos, a redução dos prazos endoprocedimentais, no máximo, até metade do prazo legalmente previsto;\n\nc) Acompanhar, em articulação com as entidades representadas na CPAI, o cronograma dos procedimentos;\n\nd) Propor as entidades que integram as reuniões da CPAI, nos termos previstos no n.º 1 do artigo seguinte."
+  },
+  "114354506": {
+   "fragment_id": "114356027",
+   "type": 11,
+   "heading": "Artigo 18.º — Apreciação dos projetos PIN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Apreciação dos projetos PIN\n\n1 - Para além da composição prevista no artigo 4.º, a CPAI integra ainda todas as entidades da administração central responsáveis pela emissão de pareceres, aprovações, autorizações, decisões ou licenciamentos necessários à apreciação e decisão do projeto PIN.\n\n2 - Os municípios territorialmente competentes acompanham em permanência os trabalhos da CPAI relativos aos projetos PIN com incidência nas respetivas áreas geográficas de competência, através do presidente da câmara municipal ou de seu representante.\n\n3 - A pronúncia quanto ao projeto PIN das entidades representadas na CPAI deve referir o regime aplicável nos termos do n.º 3 do artigo 16.º\n\n4 - Sempre que necessário, a CPAI reporta os bloqueios persistentes através de um relatório síntese, o qual será remetido e apreciado periodicamente pela estrutura referida no artigo 2.º, com vista à identificação do modo de superação do entrave verificado.\n\n5 - O reconhecimento de um projeto de investimento como PIN caduca, com as devidas adaptações, nas condições previstas nos n.os 4 e 5 do artigo 9.º e no n.º 7 do artigo 11.º"
+  },
+  "114354507": {
+   "fragment_id": "114356028",
+   "type": 11,
+   "heading": "Artigo 19.º — Emissão de pareceres, autorizações e licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Emissão de pareceres, autorizações e licenças\n\n1 - A falta de qualquer parecer obrigatório mas não vinculativo no prazo previsto para a sua emissão tem os efeitos previstos no n.º 3 do artigo 99.º do Código do Procedimento Administrativo.\n\n2 - Os pareceres vinculativos que não sejam emitidos no prazo estabelecido para a respetiva emissão consideram-se favoráveis.\n\n3 - A falta de emissão, nos prazos estabelecidos para o efeito, de alguma aprovação, autorização ou licenciamento necessário à concretização do projeto conduz ao respetivo deferimento tácito, salvo quando o contrário resulte expressamente de lei especial aplicável."
+  },
+  "114354508": {
+   "fragment_id": "114356029",
+   "type": 1,
+   "heading": "Capítulo IV — Regime especial aplicável aos projetos PIN",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime especial aplicável aos projetos PIN\n\nArtigo 20.º\n\nEfeitos do reconhecimento como projeto PIN\n\n1 - O reconhecimento de um projeto como PIN:\n\na) Implica a apreciação prioritária, em sede de procedimento de licenciamento, junto de quaisquer entidades, órgãos ou serviços da Administração;\n\nb) Não é constitutivo de direitos, sem prejuízo do regime especial consagrado no presente decreto-lei.\n\n2 - Os projetos PIN regem-se pelas normas legais e regulamentares aplicáveis em razão da sua natureza, com as alterações e derrogações decorrentes do presente decreto-lei.\n\n3 - O regime especial do procedimento administrativo aplicável aos projetos PIN traduz-se em:\n\na) Tramitação simultânea dos procedimentos administrativos da competência da administração central;\n\nb) Redução e decurso simultâneo de prazos endoprocedimentais, nos termos do artigo 22.º;\n\nc) Período único de consulta pública para efeitos dos diversos procedimentos administrativos;\n\nd) Simplificação dos procedimentos relativos aos instrumentos de gestão territorial relevantes para o projeto;\n\ne) Pareceres tácitos positivos e deferimento tácito no âmbito dos diversos procedimentos aplicáveis;\n\nf) Simplificação dos procedimentos relativos às operações urbanísticas necessárias."
+  },
+  "114354509": {
+   "fragment_id": "114356030",
+   "type": 8,
+   "heading": "Secção I — Regras procedimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Regras procedimentais"
+  },
+  "114354510": {
+   "fragment_id": "114356031",
+   "type": 11,
+   "heading": "Artigo 21.º — Simultaneidade dos procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Simultaneidade dos procedimentos\n\n1 - Todos os procedimentos legais e regulamentares que prevejam a emissão de pareceres, aprovações, autorizações, decisões ou licenciamentos da responsabilidade da administração central, necessários para a concretização do projeto PIN que, de acordo com a legislação aplicável, sejam sequenciais relativamente a outros procedimentos da responsabilidade da administração central podem ser tramitados de forma paralela e simultânea, a requerimento do promotor.\n\n2 - Os procedimentos de elaboração, alteração ou suspensão de instrumentos de gestão territorial e ou relativos a servidões e restrições de utilidade pública necessários à concretização de um projeto PIN correm em simultâneo com os procedimentos referidos no número anterior."
+  },
+  "114354511": {
+   "fragment_id": "114356032",
+   "type": 11,
+   "heading": "Artigo 22.º — Prazos endoprocedimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Prazos endoprocedimentais\n\n1 - Para efeitos de análise dos projetos PIN, todos os prazos endoprocedimentais previstos na legislação aplicável, com exceção dos expressamente regulados no capítulo IV do presente decreto-lei, podem ser reduzidos, no máximo até metade do prazo legalmente previsto, pela CPAI no momento de aprovação do cronograma dos procedimentos.\n\n2 - Sem prejuízo dos prazos mais curtos previstos na legislação específica aplicável e do disposto no presente decreto-lei, o prazo máximo para emissão de pareceres por parte das entidades que legalmente se tenham de pronunciar sobre o projeto é de 30 dias."
+  },
+  "114354512": {
+   "fragment_id": "114356033",
+   "type": 11,
+   "heading": "Artigo 23.º — Consulta pública e publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Consulta pública e publicitação\n\n1 - Os procedimentos de consulta pública e de publicitação, da responsabilidade da administração central e local, que sejam legalmente necessários para a concretização de um projeto PIN, decorrem, sempre que possível, num único período, de forma paralela e simultânea.\n\n2 - O disposto no número anterior não é aplicável aos procedimentos de elaboração e de revisão do plano diretor municipal.\n\n3 - O disposto no n.º 1 não prejudica as competências próprias das diversas entidades intervenientes ao abrigo da legislação específica aplicável.\n\n4 - A duração do período único previsto no n.º 1 corresponde à soma do prazo de publicitação mais dilatado e do período de consulta pública mais amplo que concretamente sejam estabelecidos no âmbito dos procedimentos de consulta pública aplicáveis ao projeto PIN.\n\n5 - O prazo mínimo de consulta pública e de publicitação nos procedimentos referidos no n.º 1 é de 22 dias, sem prejuízo do disposto no n.º 4 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro.\n\n6 - Toda a informação sobre o projeto PIN é disponibilizada para consulta nos locais designados para o efeito.\n\n7 - Sem prejuízo do disposto no número anterior, toda a informação é publicada de forma consolidada na plataforma eletrónica de informação da CPAI, acessível através do balcão único eletrónico dos serviços."
+  },
+  "114354513": {
+   "fragment_id": "114356034",
+   "type": 8,
+   "heading": "Secção II — Adaptação de regimes jurídicos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Adaptação de regimes jurídicos gerais"
+  },
+  "114354514": {
+   "fragment_id": "114356035",
+   "type": 11,
+   "heading": "Artigo 24.º — Procedimento de avaliação de impacte ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Procedimento de avaliação de impacte ambiental\n\n1 - O procedimento de AIA e a dispensa de avaliação de impacte ambiental seguem os trâmites previstos no respetivo regime jurídico, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro, com as especificidades constantes do presente decreto-lei e sem prejuízo da sua tramitação simultânea com os procedimentos referidos no n.º 1 do artigo 21.º.\n\n2 - O prazo de decisão e deferimento tácito previsto no n.º 2 do artigo 19.º do Decreto-Lei n.º 151-B/2013, de 31 de outubro, é reduzido a 80 dias.\n\n3 - A declaração de impacte ambiental é comunicada ao Gestor de Processo no próprio dia da sua emissão.\n\n4 - Em circunstâncias excecionais e devidamente fundamentadas, o promotor pode solicitar a dispensa total ou parcial do procedimento de AIA, devendo apresentar o respetivo requerimento, em conjunto com o requerimento previsto no artigo 15.º, junto da CPAI, que o remete, no mesmo dia, à entidade competente para licenciar ou autorizar o projeto.\n\n5 - No caso previsto no número anterior, o prazo constante do n.º 7 do artigo 4.º do Decreto-Lei n.º 151-B/2013, de 31 de outubro, é reduzido para 15 dias."
+  },
+  "114354515": {
+   "fragment_id": "114356036",
+   "type": 11,
+   "heading": "Artigo 25.º — Rede Natura 2000",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Rede Natura 2000\n\n1 - Nos casos em que o projeto seja suscetível de afetar sítios da Rede Natura 2000 de forma significativa, individualmente ou em conjugação com outras ações ou projetos, e não se encontre sujeito a AIA, a decisão sobre a análise de incidências ambientais é tomada pela entidade competente no prazo máximo de 60 dias.\n\n2 - O despacho previsto no n.º 10 do artigo 10.º do Decreto-Lei n.º 140/99, de 24 de abril, alterado pelo Decreto-Lei n.º 49/2005, de 24 de fevereiro, quando haja lugar à sua emissão, é:\n\na) Comunicado ao Gestor de Processo:\n\nb) Proferido na decisão prevista no n.º 5 do artigo 16.º, nos casos em que haja lugar a análise de incidências ambientais, devendo nessa sede estabelecer-se as eventuais condicionantes ao projeto;\n\nc) Proferido no prazo de 10 dias após o parecer da Comissão Europeia, nos casos em que haja lugar à emissão deste parecer."
+  },
+  "114354516": {
+   "fragment_id": "114356037",
+   "type": 11,
+   "heading": "Artigo 26.º — Planos municipais de ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Planos municipais de ordenamento do território\n\n1 - À decisão de elaboração de plano municipal de ordenamento do território para efeitos de concretização de um projeto PIN não é aplicável o disposto no n.º 2 do artigo 77.º do Decreto-Lei n.º 380/99, de 22 de setembro, sem prejuízo do cumprimento das respetivas regras de publicitação nos termos legalmente previstos.\n\n2 - O Gestor de Processo acompanha as reuniões de concertação nos termos no Decreto-Lei n.º 380/99, de 22 de setembro, devendo para o efeito ser convocado, em conjunto com as entidades que hajam manifestado discordância relativamente ao plano municipal de ordenamento do território.\n\n3 - O disposto nos números anteriores não se aplica aos procedimentos de elaboração e de revisão de plano diretor municipal."
+  },
+  "114354517": {
+   "fragment_id": "114356038",
+   "type": 8,
+   "heading": "Secção III — Operações urbanísticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Operações urbanísticas"
+  },
+  "114354518": {
+   "fragment_id": "114356039",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposições gerais\n\n1 - A realização de operações urbanísticas necessárias à concretização de um projeto PIN obedece ao disposto no regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro, com as especialidades decorrentes do presente decreto-lei.\n\n2 - O prazo máximo de suspensão do procedimento para o efeito de apresentação de elementos adicionais pelo requerente em sede de instrução do pedido de realização de operações urbanísticas é de 10 dias.\n\n3 - Aos pedidos de realização de operações urbanísticas, designadamente os procedimentos de informação prévia, de comunicação prévia e de licenciamento referentes a projetos PIN não é aplicável o regime de suspensão previsto nos nº 1 e 2 do artigo 117.º do Decreto-Lei n.º 380/99, de 22 de setembro e no artigo 12.º-A do Decreto-Lei n.º 555/99, de 16 de dezembro, devendo prosseguir a apreciação do pedido até à decisão final de acordo com as regras urbanísticas em vigor à data da sua prática."
+  },
+  "114354519": {
+   "fragment_id": "114356040",
+   "type": 11,
+   "heading": "Artigo 28.º — Operações de loteamento, obras de urbanização e trabalhos de remodelação de terrenos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Operações de loteamento, obras de urbanização e trabalhos de remodelação de terrenos\n\n1 - Quando se revele necessária a realização de operação de loteamento, de obras de urbanização ou de trabalhos de remodelação de terrenos, os respetivos pedidos são apresentados em simultâneo, procedendo-se à sua apreciação e decisão conjunta.\n\n2 - Nos casos de pedidos de licenciamento para realização das operações urbanísticas referidas no número anterior, o prazo de decisão é de 30 dias, contado nos termos previstos no n.º 3 do artigo 23.º do Decreto-Lei n.º 555/99, de 16 de dezembro, não sendo aplicável na presente situação o disposto no n.º 5 do mesmo preceito.\n\n3 - Nos casos de comunicação prévia para realização das operações urbanísticas referidas no n.º 1, o prazo de decisão é de 20 dias, nos termos previstos no n.º 2 do artigo 36.º do Decreto-Lei n.º 555/99, de 16 de dezembro.\n\n4 - Não há lugar à aplicação do disposto no artigo 22.º do Decreto-Lei n.º 555/99, de 16 de dezembro, nos casos em que:\n\na) O projeto PIN tenha sido sujeito a avaliação de impacte ambiental; ou\n\nb) Tenha decorrido procedimento de elaboração ou alteração de instrumento de gestão territorial vinculativo dos particulares, conexionado com o projeto PIN; ou\n\nc) Esteja em curso procedimento de elaboração ou alteração de instrumento de gestão territorial vinculativo dos particulares, conexionado com o projeto PIN e já tenha decorrido a fase de discussão pública à data do pedido de licenciamento de operação de loteamento."
+  },
+  "114354520": {
+   "fragment_id": "114356041",
+   "type": 11,
+   "heading": "Artigo 29.º — Realização de obras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Realização de obras\n\n1 - No caso de realização de operações urbanísticas referidas nas alíneas c) e d) do n.º 2 do artigo 4.º do Decreto-Lei n.º 555/99, de 16 de dezembro, o prazo para a deliberação da câmara municipal sobre o projeto de arquitetura é de 20 dias.\n\n2 - Os prazos estabelecidos nos n.os 4 e 5 do artigo 20.º do Decreto-Lei n.º 555/99, de 16 de dezembro são reduzidos, respetivamente, para 30 e 22 dias.\n\n3 - O prazo estabelecido na alínea c) do n.º 1 do artigo 23.º do Decreto-Lei n.º 555/99, de 16 de dezembro, é de 15 dias.\n\n4 - Quando os projetos de especialidades tenham sido apresentados conjuntamente com o projeto de arquitetura, não há lugar a deliberação autónoma referente ao projeto de arquitetura, sendo o pedido objeto de uma deliberação única no prazo de 30 dias a contar da data do facto que ocorra primeiro:\n\na) Apresentação do pedido ou dos elementos adicionais solicitados em sede de instrução do pedido;\n\nb) Receção do último dos pareceres, aprovações, autorizações emitidos por entidades exteriores ao município, quando tenha havido lugar a consultas;\n\nc) Termo do prazo para a receção dos pareceres, aprovações ou autorizações, sempre que alguma das entidades consultadas não se pronuncie até essa data."
+  },
+  "114354521": {
+   "fragment_id": "114356042",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "114354522": {
+   "fragment_id": "114356043",
+   "type": 11,
+   "heading": "Artigo 30.º — Ponto focal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Ponto focal\n\n1 - Para efeitos de cumprimento do dever de colaboração institucional previsto no n.º 1 do artigo 9.º, todos os serviços, entidades e organismos da administração direta e indireta do Estado, das administrações regionais e das administrações autárquicas, ficam obrigados a identificar o respetivo ponto focal.\n\n2 - A identificação e contactos do ponto focal previsto no número anterior devem ser comunicados ao secretariado técnico da CPAI num prazo máximo de 30 dias a contar da entrada em vigor do presente decreto-lei."
+  },
+  "114354523": {
+   "fragment_id": "114356044",
+   "type": 11,
+   "heading": "Artigo 31.º — Alterações terminológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Alterações terminológicas\n\nTodas as referências, legais ou regulamentares, feitas à Comissão de Avaliação e Acompanhamento de Projetos de Interesse Nacional (CAA-PIN) consideram-se feitas à Comissão Permanente de Apoio ao Investidor (CPAI)."
+  },
+  "114354524": {
+   "fragment_id": "114356045",
+   "type": 11,
+   "heading": "Artigo 32.º — Reunião de coordenação dos assuntos económicos e do investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Reunião de coordenação dos assuntos económicos e do investimento\n\nPara os efeitos previstos no artigo 2.º do presente decreto-lei, durante a vigência da Resolução do Conselho de Ministros n.º 51/2013, de 8 de agosto, a estrutura interministerial encarregue da definição e coordenação da política económica e do investimento é a reunião de coordenação dos assuntos económicos e do investimento (RCAEI) a que se refere o capítulo II daquele diploma."
+  },
+  "114354525": {
+   "fragment_id": "114356046",
+   "type": 11,
+   "heading": "Artigo 33.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Aplicação no tempo\n\n1 - O presente decreto-lei é aplicável, com as necessárias adaptações, aos procedimentos em curso, salvaguardados os trâmites já desenvolvidos.\n\n2 - Aos projetos reconhecidos, na data da entrada em vigor do presente decreto-lei, como PIN, ao abrigo do Decreto-Lei n.º 174/2008, alterado pelo Decreto-Lei n.º 76/2011, de 20 de junho, e PIN +, ao abrigo do Decreto-Lei n.º 285/2007, de 17 de agosto, aplica-se o disposto no presente diploma para os projetos PIN, com as necessárias adaptações.\n\n3 - A classificação como projeto PIN, nos termos do número anterior, caduca automaticamente se, decorridos 90 dias sobre a entrada em vigor do presente decreto-lei, o promotor não praticar qualquer diligência devida no âmbito da tramitação legal aplicável."
+  },
+  "114354526": {
+   "fragment_id": "114356047",
+   "type": 11,
+   "heading": "Artigo 34.º — Regime transitório de apresentação do requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Regime transitório de apresentação do requerimento\n\n1 - Até à entrada em funcionamento da plataforma eletrónica referida no n.os 2 e 3 do artigo 7.º, o requerimento previsto nos artigos 7.º e 15.º pode ser apresentado em suporte papel, ou, preferencialmente, por via de correio eletrónico ou plataforma eletrónica alternativa, indicados pelo secretariado técnico da CPAI, para o efeito.\n\n2 - O endereço de correio eletrónico e a plataforma eletrónica alternativa previstos no número anterior devem ser acessíveis através dos sítios da Internet das entidades representadas na CPAI e do balcão único dos serviços."
+  },
+  "114354527": {
+   "fragment_id": "114356048",
+   "type": 11,
+   "heading": "Artigo 35.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 285/2007, de 17 de agosto;\n\nb) O Decreto-Lei n.º 157/2008, de 8 de agosto;\n\nc) O Decreto-Lei n.º 174/2008, de 26 de agosto, alterado pelo Decreto-Lei n.º 76/2011, de 20 de junho."
+  },
+  "114354529": {
+   "fragment_id": "114356050",
+   "type": 14,
+   "heading": "Anexo — (parâmetros a que se referem o n.º 2 do artigo 5.º e o n.º 2 do artigo 6.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (parâmetros a que se referem o n.º 2 do artigo 5.º e o n.º 2 do artigo 6.º)\n\n1 - Comprovada viabilidade económica:\n\na) Adequada sustentação dos pressupostos associados às receitas de exploração, nomeadamente, ao nível dos preços e quantidades, os quais deverão estar sustentados em termos de análise de mercado;\n\nb) Adequada quantificação dos custos de exploração, nomeadamente dos fornecimentos e serviços externos e dos custos de pessoal;\n\nc) Identificação das fontes de financiamento previstas, designadamente capitais próprios e instrumentos de dívida, demonstrando que as necessidades de investimento serão adequadamente cobertas;\n\nd) Níveis de autonomia financeira adequados com uma cobertura adequada dos ativos por capitais próprios;\n\ne) Rácios de liquidez adequados, de forma a garantir uma correspondência entre os ativos circulantes e os passivos circulantes;\n\nf) Capacidade de reembolso adequada, através da análise da cobertura dos cash flows sobre o endividamento.\n\n2 - Suscetível adequada sustentabilidade ambiental e territorial:\n\na) Compatibilidade com os instrumentos de gestão territorial aplicáveis ou suscetibilidade de compatibilização, nos termos legais;\n\nb) Compatibilidade com os recursos e valores naturais presentes, designadamente com as áreas protegidas e com a Rede Natura 2000 e plano setorial respetivo, ou suscetibilidade de minimização/compensação de modo a atingir tal compatibilização;\n\nc) Compatibilidade com os valores que fundamentaram a classificação de Reserva Ecológica Nacional, Reserva Agrícola Nacional e domínio público hídrico ou suscetibilidade de minimização/compensação de modo a atingir tal compatibilização;\n\nd) Utilização de tecnologias e práticas ecoeficientes, que permitam atingir elevados níveis de desempenho ambiental, nomeadamente nos domínios da água, energia, solos, resíduos e ar;\n\ne) Minimização das emissões de gases com efeito de estufa;\n\nf) Compatibilidade dos potenciais efeitos na saúde humana e no ambiente, em caso de acidente, com os elementos presentes e previstos na envolvente, ou suscetibilidade de minimização/compensação de modo a atingir tal compatibilização.\n\n3 - Produção de bens e serviços transacionáveis de caráter inovador e em mercados com potencial de crescimento:\n\na) Inovação de serviços, processos e produtos, ponderando o grau de novidade em termos de empresa, região ou setor;\n\nb) Produção de bens e serviços que podem ser objeto de troca internacional ou expostos à concorrência externa;\n\nc) Inserção em setores com procura dinâmica no mercado global.\n\n4 - Introdução de processos tecnológicos inovadores ou colaboração com entidades do sistema científico e tecnológico:\n\na) Envolvimento em acordos de cooperação de caráter relevante com instituições do ensino superior, centros tecnológicos e outras entidades no âmbito do desenvolvimento científico e tecnológico em novos processos, produtos e serviços ou a sua melhoria significativa;\n\nb) Criação de estruturas comuns de investigação e desenvolvimento.\n\n5 - Inserção nas estratégia de especialização inteligente da região e ou contribuição para a dinamização de territórios de baixa densidade económica:\n\na) Localização em regiões objeto de tratamento prioritário no âmbito de sistemas de incentivo ao investimento;\n\nb) Impacte relevante na estrutura produtiva local/regional em termos de consolidação ou diversificação da base produtiva.\n\n6 - Balanço económico externo:\n\na) Impacte positivo nas relações de troca da economia da região e no grau de exposição aos mercados externos.\n\n7 - Eficiência energética e ou favorecimento de fontes de energia renováveis:\n\na) Implementação das medidas do programa de Eficiência Energética no Estado previstas no Plano Nacional de Ação para a Eficiência Energética, que envolvam a participação de investidores privados, tais como empresas de serviços energéticos;\n\nb) Diversificação de fontes energéticas, privilegiando a produção elétrica a partir de fontes de energia renováveis, baseada em tecnologias maduras e competitivas com as fontes de energia não renováveis;\n\nc) Realização de projetos conjuntos, na definição dada pelo Decreto-Lei n.º 39/2013, de 18 de março.\n\n8 - Efeitos de arrastamento em atividades a montante ou a jusante, em particular nas pequenas e médias empresas:\n\na) Valorização da cadeia de fornecimentos de modo a incorporar efeitos estruturantes, designadamente em atividades de conceção, design e certificação de sistemas de qualidade, ambiente, higiene e segurança e saúde no trabalho e responsabilidade social;\n\nb) Estimular abertura a novos canais de distribuição, bem como o processo de internacionalização de fornecedores e clientes;\n\nc) Valorização de recursos endógenos, designadamente os renováveis, e de resíduos com valorização das situações associadas à redução dos impactes ambientais.\n\n9 - Idoneidade e credibilidade do promotor:\n\na) Expectativa de uma gestão sã e prudente, tendo em vista, de modo particular, a viabilidade económica do projeto;\n\nb) Expectativa de uma eficiente implementação do projeto e da sua viabilidade futura;\n\nc) Entre outras circunstâncias atendíveis, pode considerar-se como indiciador de falta de idoneidade, no sentido previsto nas alíneas anteriores, desde que devidamente fundamentado:\n\ni) A condenação do promotor, por sentença transitada em julgado, em Portugal ou no estrangeiro, por abuso de confiança, burla, extorsão, insolvência dolosa, suborno, corrupção, branqueamento de capitais;\n\nii) Inadequação da situação económico-financeira do promotor, em função do montante da participação que se propõe deter;\n\niii) Fundadas dúvidas sobre a licitude da proveniência dos fundos utilizados na aquisição da participação, ou sobre a verdadeira identidade do titular desses fundos."
+  },
+  "114354530": {
+   "fragment_id": "114356035",
+   "type": 11,
+   "heading": "Artigo 24.º — Procedimento de avaliação de impacte ambiental",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 152-B/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-b-2017-114337013), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Procedimento de avaliação de impacte ambiental\n\n1 - O procedimento de AIA e a dispensa de avaliação de impacte ambiental seguem os trâmites previstos no respetivo regime jurídico, aprovado pelo Decreto-Lei n.º 151-B/2013, de 31 de outubro, com as especificidades constantes do presente decreto-lei e sem prejuízo da sua tramitação simultânea com os procedimentos referidos no n.º 1 do artigo 21.º.\n\n2 -(Revogado).\n\n3 - A declaração de impacte ambiental é comunicada ao Gestor de Processo no próprio dia da sua emissão.\n\n4 - Em circunstâncias excecionais e devidamente fundamentadas, o promotor pode solicitar a dispensa total ou parcial do procedimento de AIA, devendo apresentar o respetivo requerimento, em conjunto com o requerimento previsto no artigo 15.º, junto da CPAI, que o remete, no mesmo dia, à entidade competente para licenciar ou autorizar o projeto.\n\n5 - No caso previsto no número anterior, o prazo constante do n.º 7 do artigo 4.º do Decreto-Lei n.º 151-B/2013, de 31 de outubro, é reduzido para 15 dias.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 152-B/2017 - Diário da República n.º 236/2017, 1º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-b-2017-114337013), em vigor a partir de 2018-01-01"
+  },
+  "114354528": {
+   "fragment_id": "114356049",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de setembro de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Rui Manuel Parente Chancerelle de Machete - José Pedro Correia de Aguiar-Branco - Miguel Bento Martins Costa Macedo e Silva - Paula Maria von Hafe Teixeira da Cruz - Luís Maria de Barros Serra Marques Guedes - Luís Miguel Poiares Pessoa Maduro - António de Magalhães Pires de Lima - Jorge Manuel Lopes Moreira da Silva - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 30 de outubro de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 31 de outubro de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

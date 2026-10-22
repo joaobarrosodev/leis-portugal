@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:182135300:por
+title: Portaria n.º 468/2022
+short_title: null
+summary: Louvor e concessão da Medalha de Serviços Distintos, de grau ouro, ao Capitão-de-Fragata Bruno Alexandre Cortes Banha
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Defesa Nacional - Gabinete do Ministro
+proposing_entity: null
+official_number: 468/2022
+official_date: null
+publication_date: '2022-04-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 75/2022, Série II de 2022-04-18
+  number: '75'
+  series: II
+  supplement: null
+  pages: 95 - 95
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/04/075000000/0009500095.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '182135300'
+  dre_path: /dr/detalhe/portaria/468-2022-182135300
+  internal: pt:dre:182135300:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/468-2022-182135300
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/468-2022-182135300
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-04-18T00:00:00Z'
+integrity:
+  source_sha256: e91983f2a4e2bbd7e1fb95e34943e8838ec714083de644c06b3f38628e68c0ab
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-468-182135300.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 468/2022
+
+Louvo o 23497, Capitão-de-Fragata M Bruno Alexandre Cortes Banha, pelo seu elevado profissionalismo, sentido de serviço público, competência e zelo com que desempenhou as funções de assessor militar no meu Gabinete, assegurando de forma eficiente a ligação à Marinha.
+
+Oficial dotado de uma sólida cultura institucional e formação militar, profundo conhecedor da estrutura e meios das Forças Armadas, com particular relevo na Marinha, o Comandante Cortes Banha distinguiu-se como um importante colaborador no acompanhamento dos processos relacionados com este ramo, para além de outras áreas das quais foi incumbido. São de realçar a sua irrepreensível conduta e elevada competência técnico-profissional, da qual resultam pareceres competentes e bem fundamentados, de forma refletida, adequada e isenta, contribuindo para a concretização e acompanhamento de vários objetivos e, por consequência, no apoio à decisão ministerial.
+
+No âmbito da sua atividade de ligação à Marinha, assim como a outras entidades externas, o Comandante Cortes Banha foi exemplar na procura de opções e soluções adequadas à defesa da posição da defesa nacional, demonstrando elevado nível nas suas competências técnico-profissionais e no relacionamento interpessoal, para além de elevados padrões de ética e de honestidade. A forma colaborante e eficiente como desenvolveu a sua atividade de assessoria nos variados processos são demonstrativos do seu elevado espírito de missão e singular capacidade de trabalho.
+
+No desempenho das suas funções, é de destacar o seu pragmatismo, a par da sua experiência e serenidade, que permitiram dar o melhor tratamento aos dossiers em que foi envolvido, destacando-se as várias matérias relacionadas com a segurança militar e a coordenação com o Sub-Registo OTAN, a segurança marítima, matérias ligadas ao ensino superior militar, a preparação dos Conselhos Superiores de Defesa Nacional e o acompanhamento das estratégias nacionais para o espaço e para a ciberdefesa, para além da coordenação de vários aspetos diretamente relacionados com processos relativos à Marinha, a exercícios nacionais e internacionais e às Forças Nacionais Destacadas.
+
+Pelas razões expostas, é com enorme agrado que manifesto o meu reconhecimento público pelas excecionais qualidades evidenciadas pelo Comandante Cortes Banha, sendo de toda a justiça considerar extraordinários, relevantes e distintíssimos os altos serviços prestados no meu Gabinete, tendo deles resultado honra e lustre para as Forças Armadas, para o Ministério da Defesa Nacional e para o País.
+
+Assim, nos termos da competência que me é conferida pelo artigo 34.º, atento o disposto nos artigos 13.º e 14.º, todos do Regulamento da Medalha Militar e das Medalhas Comemorativas das Forças Armadas, aprovado pelo [Decreto-Lei n.º 316/2002](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2002-404743), de 27 de dezembro, concedo a Medalha de Serviços Distintos, de grau ouro, ao 23497, Capitão-de-Fragata M Bruno Alexandre Cortes Banha.
+
+15 de fevereiro de 2022. - O Ministro da Defesa Nacional, João Titterington Gomes Cravinho.

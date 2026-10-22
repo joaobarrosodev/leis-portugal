@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:555830:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-884567990",
+ "dre_path": "/dr/detalhe/decreto-lei/314-1990-555830",
+ "source_lastmod": "2024-08-16",
+ "versions": [
+  {
+   "date": "1990-10-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "884567896",
+    "884567897",
+    "884567898",
+    "884567899",
+    "884567900",
+    "884567901"
+   ]
+  },
+  {
+   "date": "1992-07-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:292304:por",
+     "title": "Decreto-Lei n.º 146/92",
+     "published": "1992-07-21",
+     "dre_path": "/dr/detalhe/decreto-lei/146-1992-292304"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "884567896",
+    "884567909",
+    "884567898",
+    "884567899",
+    "884567900",
+    "884567901",
+    "884567902"
+   ]
+  },
+  {
+   "date": "1998-08-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:438071:por",
+     "title": "Decreto-Lei n.º 248/98",
+     "published": "1998-08-11",
+     "dre_path": "/dr/detalhe/decreto-lei/248-1998-438071"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "884567896",
+    "884567910",
+    "884567898",
+    "884567899",
+    "884567900",
+    "884567901",
+    "884567902"
+   ]
+  }
+ ],
+ "fragments": {
+  "884567896": {
+   "fragment_id": "884567991",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 314/90\n\nde 13 de Outubro\n\nO Decreto-Lei n.º 43/76, de 20 de Janeiro, veio instituir um conjunto de direitos e compensações para os militares que, no cumprimento do dever e na defesa dos interesses da Pátria, sofreram diminuição da sua capacidade geral de ganho, em resultado de acidente ocorrido em serviço de campanha ou em circunstâncias equiparáveis. O objectivo de tal medida era criar as condições para a integração social dos interessados.\n\nTodavia, existem militares que adquiriram deficiência em circunstâncias que, embora não enquadráveis no regime jurídico definido por aquele diploma, foram expressamente reconhecidas como resultado do serviço militar.\n\nDe entre estes, importa salientar os portadores de grande deficiência, originadora de incapacidade quase total e da qual advêm graves repercussões, designadamente em encargos adicionais relacionados com a própria deficiência.\n\nPor isso, devido ao elevado grau de dificuldades com que estes militares se defrontam, e tendo ainda em atenção que a prestação de serviço militar, mesmo em tempo de paz, implica um risco constante pela sua especificidade, afigura-se de toda a justiça que o Estado adopte medidas de maior protecção a tais casos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "884567897": {
+   "fragment_id": "884567992",
+   "type": 11,
+   "heading": "Artigo 1.º — Grande deficiente das forças armadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Grande deficiente das forças armadas\n\n1 - É considerado grande deficiente das forças armadas (GDFAS) o cidadão que, no cumprimento do dever militar e não abrangido pelo Decreto-Lei n.º 43/76, de 20 de Janeiro, adquiriu uma diminuição permanente na sua capacidade geral de ganho, da qual resulte passagem à situação de reforma extraordinária ou atribuição de pensão de invalidez nos termos do n.º 2 do artigo 118.º e dos artigos 127.º e seguintes do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, e cuja desvalorização seja igual ou superior a 80%.\n\n2 - Para efeitos do número anterior são automaticamente considerados GDFAS os militares cuja desvalorização, já atribuída ou a atribuir pela junta médica da Caixa Geral de Aposentações, é igual ou superior a 80%."
+  },
+  "884567898": {
+   "fragment_id": "884567993",
+   "type": 11,
+   "heading": "Artigo 2.º — Abono suplementar de Invalidez",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Abono suplementar de Invalidez\n\nAos GDFAS reconhecidos nos termos deste diploma é concedido um abono suplementar de invalidez atribuído, calculado e actualizado nas condições previstas nos n.os 1 e 2 do artigo 10.º e n.º 2 do artigo 12.º do Decreto-Lei n.º 43/76, de 20 de Janeiro, em função da percentagem de desvalorização fixada pela junta médica da Caixa Geral de Aposentações."
+  },
+  "884567899": {
+   "fragment_id": "884567994",
+   "type": 11,
+   "heading": "Artigo 3.º — Prestação suplementar de invalidez",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prestação suplementar de invalidez\n\n1 - Aos GDFAS a quem seja reconhecida uma percentagem de incapacidade igual ou superior a 90% é devido o pagamento de prestação suplementar de invalidez nas condições previstas nos n.os 1 e 2 do artigo 11.º do Decreto-Lei n.º 43/76, de 20 de Janeiro, em função da percentagem de desvalorização fixada pela junta médica da Caixa Geral de Aposentações.\n\n2 - A verificação da necessidade da atribuição da prestação suplementar de invalidez, que se destina a custear os encargos da utilização de serviços de acompanhante, é feita pela junta médica da Caixa Geral de Aposentações, podendo esta decisão ser revista uma vez em cada três anos, a requerimento do interessado.\n\n3 - Os GDFAS com 90% de incapacidade já reconhecida podem requerer à Caixa Geral de Aposentações a prestação suplementar de invalidez, a partir da entrada em vigor do presente diploma.\n\n4 - A prestação referida no número anterior não será abonada enquanto os GDFAS estiverem hospitalizados ou internados a expensas do Estado."
+  },
+  "884567900": {
+   "fragment_id": "884567995",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos e regalias dos GDFAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direitos e regalias dos GDFAS\n\nA todos os CDFAS reconhecidos nos termos deste diploma, e com a finalidade de melhor suportarem as suas deficientes condições familiares e sociais, é concedido o gozo dos direitos e regalias constantes das disposições aplicáveis do artigo 13.º, dos n.os 3 a 9 do artigo 14.º e do artigo 16.º do Decreto-Lei n.º 43/76, de 20 de Janeiro."
+  },
+  "884567901": {
+   "fragment_id": "884567996",
+   "type": 11,
+   "heading": "Artigo 5.º — Do uso do cartão de GDFAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Do uso do cartão de GDFAS\n\nTodos os GDFAS têm direito ao uso do cartão de identificação de características e condições de utilização idênticas às do cartão de DFA estabelecido pelo n.º 2 do artigo 14.º do Decreto-Lei n.º 43/76, de 20 de Janeiro."
+  },
+  "884567909": {
+   "fragment_id": "884567992",
+   "type": 11,
+   "heading": "Artigo 1.º — Grande deficiente das forças armadas",
+   "in_force_from": "1992-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 146/92 - Diário da República n.º 166/1992, Série I-A de 1992-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1992-292304), em vigor a partir de 1992-07-26"
+   ],
+   "markdown": "###### Artigo 1.º — Grande deficiente das forças armadas\n\n1 - É considerado grande deficiente das Forças Armadas (GDFAS) o cidadão que, no cumprimento do dever militar e não abrangido pelo Decreto-Lei n.º 43/76, de 20 de Janeiro, adquiriu uma diminuição permanente na sua capacidade geral de ganho, da qual resulte passagem à situação de reforma extraordinária ou atribuição de pensão de invalidez nos termos do n.º 2 do artigo 118.º e dos artigos 127.º e seguintes do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, e cuja desvalorização seja igual ou superior a 70%.\n\n2 - Para efeitos do número anterior, são automaticamente considerados GDFAS os militares cuja desvalorização, já atribuída ou a atribuir pela junta médica da Caixa Geral de Aposentações, é igual ou superior a 70%.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 146/92 - Diário da República n.º 166/1992, Série I-A de 1992-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1992-292304), em vigor a partir de 1992-07-26"
+  },
+  "884567902": {
+   "fragment_id": "884567997",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Agosto de 1990. - Joaquim Fernando Nogueira - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.\n\nPromulgado em 28 de Setembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 3 de Outubro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "884567910": {
+   "fragment_id": "884567992",
+   "type": 11,
+   "heading": "Artigo 1.º — Grande deficiente das forças armadas",
+   "in_force_from": "1998-08-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 248/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1998-438071), em vigor a partir de 1998-08-16",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 146/92 - Diário da República n.º 166/1992, Série I-A de 1992-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1992-292304), em vigor a partir de 1992-07-26"
+   ],
+   "markdown": "###### Artigo 1.º — Grande deficiente das forças armadas\n\n1 - É considerado grande deficiente das Forças Armadas (GDFAS) o cidadão que, no cumprimento do dever militar e não abrangido pelo Decreto-Lei n.º 43/76, de 20 de Janeiro, adquiriu uma diminuição permanente na sua capacidade geral de ganho, da qual resulte passagem à situação de reforma extraordinária ou atribuição de pensão de invalidez nos termos do n.º 2 do artigo 118.º e dos artigos 127.º e seguintes do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de Dezembro, e cuja desvalorização seja igual ou superior a 60%.\n\n2 - Para efeitos do número anterior, são automaticamente considerados GDFAS os militares cuja desvalorização, já atribuída ou a atribuir pela junta médica competente, seja igual ou superior a 60%.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 248/98 - Diário da República n.º 184/1998, Série I-A de 1998-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1998-438071), em vigor a partir de 1998-08-16\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 146/92 - Diário da República n.º 166/1992, Série I-A de 1992-07-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1992-292304), em vigor a partir de 1992-07-26"
+  }
+ }
+}

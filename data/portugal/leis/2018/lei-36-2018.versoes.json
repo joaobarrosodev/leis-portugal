@@ -1,0 +1,111 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:115764791:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2018-949922027",
+ "dre_path": "/dr/detalhe/lei/36-2018-115764791",
+ "source_lastmod": "2026-07-23",
+ "versions": [
+  {
+   "date": "2026-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1149265697:por",
+     "title": "Decreto-Lei n.º 148/2026",
+     "published": "2026-07-20",
+     "dre_path": "/dr/detalhe/decreto-lei/148-2026-1149265697"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "950882075",
+    "950882275",
+    "950882475",
+    "950882675",
+    "950882875",
+    "950883075",
+    "1149723675",
+    "950883475",
+    "950883675"
+   ]
+  }
+ ],
+ "fragments": {
+  "950882075": {
+   "fragment_id": "950881975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "950882275": {
+   "fragment_id": "950882175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei prevê um plano de intervenção para a requalificação e construção de residências de estudantes do ensino superior público."
+  },
+  "950882475": {
+   "fragment_id": "950882375",
+   "type": 11,
+   "heading": "Artigo 2.º — Plano de intervenção para a requalificação e construção de residências de estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Plano de intervenção para a requalificação e construção de residências de estudantes\n\n1 - O Governo, até ao final de 2018, elabora um plano de intervenção para a requalificação e construção de residências de estudantes, tendo por base as necessidades dos estudantes das instituições do ensino superior público e respeitando a sua distribuição por todo o território nacional.\n\n2 - O Governo, em 2019, inicia a aplicação do plano previsto no n.º 1 de acordo com o disposto nos artigos seguintes."
+  },
+  "950882675": {
+   "fragment_id": "950882575",
+   "type": 11,
+   "heading": "Artigo 3.º — Requalificação de residências de estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requalificação de residências de estudantes\n\n1 - O Governo, em cooperação com as instituições do ensino superior público, realiza, no prazo de três meses após a publicação da presente lei, um levantamento do estado e das necessidades de requalificação das residências de estudantes nas instituições do ensino superior público.\n\n2 - O levantamento previsto no número anterior deve ter em conta, entre outros, os seguintes critérios:\n\na) Número de estudantes deslocados que frequentam a instituição do ensino superior público;\n\nb) Número de estudantes deslocados com necessidades educativas especiais;\n\nc) Número de estudantes com bolsa de estudo atribuída segundo o previsto em diploma próprio;\n\nd) Necessidade de melhoria e ampliação de infraestruturas físicas;\n\ne) Reequipamento ou melhoria das condições materiais das residências de estudantes."
+  },
+  "950882875": {
+   "fragment_id": "950882775",
+   "type": 11,
+   "heading": "Artigo 4.º — Construção de residências de estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Construção de residências de estudantes\n\nSão construídas residências de estudantes nas seguintes situações:\n\na) Quando não existam na instituição do ensino superior público;\n\nb) Quando a universidade ou o politécnico tenha faculdades ou escolas em diversos concelhos onde não existam residências de estudantes."
+  },
+  "950883075": {
+   "fragment_id": "950882975",
+   "type": 11,
+   "heading": "Artigo 5.º — Estudante deslocado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estudante deslocado\n\nO estudante deslocado é aquele que, em consequência da distância entre a sua residência e a localidade onde frequenta o ciclo de estudos em que está matriculado e inscrito, necessita de residir nesta localidade ou nas suas limítrofes para frequentar as atividades curriculares do respetivo curso."
+  },
+  "1149723675": {
+   "fragment_id": "950883175",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento",
+   "in_force_from": "2026-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 148/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697), em vigor a partir de 2026-07-25."
+   ],
+   "markdown": "###### Artigo 6.º — Financiamento\n\n1 - Compete ao Governo promover os meios necessários à implementação do plano de intervenção para as residências de estudantes do ensino superior, nomeadamente através do Fundo Nacional para a Reabilitação do Edificado, do Instrumento Financeiro para a Reabilitação e Revitalização Urbanas e através da criação de uma linha de financiamento dotada com fundos europeus estruturais e de investimento vocacionados para o efeito, sem prejuízo do recurso a fundos provenientes do Orçamento do Estado.\n\n2 - As diferentes formas de financiamento referidas no número anterior não podem sobrecarregar os orçamentos das instituições de ensino superior.\n\n3 - Na fixação dos preços mensais de alojamento deve respeitar-se o disposto no artigo 3.º da Lei n.º 71/2017, de 16 de agosto, que prevê o preço máximo mensal do alojamento para bolseiros nas residências dos serviços de ação social.\n\n4 - (Revogado.)\n\n> Alterado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 148/2026 - Diário da República n.º 138/2026, Série I de 2026-07-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2026-1149265697), em vigor a partir de 2026-07-25."
+  },
+  "950883475": {
+   "fragment_id": "950883375",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor e produção de efeitos\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação, com exceção das normas com impacto orçamental, que apenas entram em vigor com a publicação do Orçamento do Estado para 2019."
+  },
+  "950883675": {
+   "fragment_id": "950883575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 15 de junho de 2018.\n\nO Vice-Presidente da Assembleia da República, em substituição do Presidente da Assembleia da República, Jorge Lacão.\n\nPromulgada em 13 de julho de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 17 de julho de 2018.\n\nPelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa."
+  }
+ }
+}

@@ -1,0 +1,522 @@
+---
+schema_version: '1.0'
+id: pt:dre:74889525:por
+title: Decreto Legislativo Regional n.º 12/2016/A
+short_title: null
+summary: Medidas de controlo da população de animais de companhia ou errantes
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 12/2016/A
+official_date: null
+publication_date: '2016-07-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 130/2016, Série I de 2016-07-08
+  number: '130'
+  series: I
+  supplement: null
+  pages: 2098 - 2101
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/07/13000/0209802101.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-05-15'
+version_history:
+  file: decreto-legislativo-regional-12-2016-a.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-03-30'
+    amending: pt:dre:160422286:por
+    amending_title: Decreto Legislativo Regional n.º 6/2021/A
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 16.º
+  - date: '2023-05-15'
+    amending: pt:dre:211783461:por
+    amending_title: Decreto Legislativo Regional n.º 13/2023/A
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 6.º-B
+    - Adita Artigo 6.º-C
+    - Adita Artigo 6.º-D
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/12/2016/a/cons/20230414/pt/html
+  oj: null
+  dre: '74889525'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/12-2016-74889525
+  internal: pt:dre:74889525:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2016-74889525
+  metadata_url: https://data.dre.pt/eli/declegreg/12/2016/a/cons/20230414/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-160456461
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-160456461
+  retrieved_at: '2026-10-22T12:40:38Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b4e6c9b901a087da4356488e42b37eccf241afcf2a363b259fc372b7c11fceeb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:40:38Z'
+  notes: 3 versão(ões); histórico completo em decreto-legislativo-regional-12-2016-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Região Autónoma
+- Centro de Recolha de Animais
+- Proteção dos Animais
+- Fiscalização
+- Abate de Animais
+- Registo de Animais
+- Açores
+- Transporte de Animais
+- Vacinação
+relationships:
+- type: amended_by
+  target: pt:dre:160422286:por
+  label: Altera Artigo 9.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2021-160422286
+  date: '2021-03-29'
+- type: amended_by
+  target: pt:dre:211783461:por
+  label: Adita Artigo 6.º-A; Adita Artigo 6.º-B; Adita Artigo 6.º-C; Adita Artigo 6.º-D; Altera Artigo 2.º; Altera Artigo
+    4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º;
+    Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461
+  date: '2023-04-14'
+article_structure:
+  article_count: 20
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:40:38Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 12/2016/A
+
+Decreto Legislativo Regional n.º 12/2016/A
+
+Medidas de controlo da população de animais de companhia ou errantes
+
+Os animais errantes são um problema de saúde pública e a sua captura, manutenção e abate geram um gasto elevado para os cofres públicos.
+
+Estas medidas não resolvem a situação dos animais errantes e criam um ciclo de mortes contínuas. O sacrifício animal, além de caminhar contra o avanço de uma mentalidade humanitária sensível às questões animais, não se mostra eficaz para o controlo populacional de animais errantes.
+
+Um controlo eficiente e humanitário das populações de animais errantes terá de ser efetuado de forma digna, tentando evitar-se o seu posterior abate.
+
+Os cães e gatos errantes e abandonados pela população são um problema que afeta a Região Autónoma dos Açores, existindo mais animais do que interessados em adoções.
+
+Frequentemente as câmaras municipais que possuem centros de recolha oficial têm de recorrer ao abate dada a sobrelotação das suas instalações.
+
+Os cães e gatos, quando não adequadamente tratados, vacinados e desparasitados, podem ser uma ameaça para a saúde pública, já que podem transmitir doenças ao homem, conhecidas como zoonoses.
+
+A maior convivência entre animais e pessoas levou na última década a uma maior sensibilização para a questão do bem-estar dos animais e do seu abandono.
+
+Não obstante, continua a verificar-se um grande número de animais abandonados, com as consequentes repercussões conhecidas.
+
+Adicionalmente, está demonstrado que o abate não é eficaz quando utilizado isoladamente, pois não atinge a raiz do problema. O custo da captura, transporte, alojamento, abate e eliminação do cadáver animal é maior que a vacinação, desparasitação, identificação e castração cirúrgica.
+
+Nos Açores, o problema do abandono de animais de companhia começa a merecer uma atenção particular, quer por questões de saúde pública, quer por questões éticas e de preservação do bem-estar animal, quer ainda pelos prejuízos que os animais errantes, nomeadamente os animais de companhia, causam à pecuária, através de ferimentos e morte dos animais de interesse zootécnico que constituem a base económica das nossas ilhas.
+
+Verifica-se também a necessidade de as câmaras municipais, enquanto entidades com a responsabilidade de efetuar o controlo dos animais errantes, se prepararem convenientemente para uma nova realidade, já que muitos não dispõem de centros de recolha oficial.
+
+Impõe-se, por isso, estabelecer um prazo razoável para a implementação da desejável proibição do abate de animais de companhia errantes e abandonados e, até lá, reforçar o controlo das populações de animais errantes, no respeito do bem-estar animal, tornando obrigatória a realização de programas de esterilização e de campanhas de sensibilização contra o abandono de animais de companhia, que potenciem uma diminuição drástica deste fenómeno.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos das disposições conjugadas do n.º 4 do artigo 112.º e da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
+
+### Capítulo I — Objeto e definições
+
+###### Artigo 1.º — Objeto
+
+O presente diploma estabelece a proibição do abate de animais de companhia e de animais errantes na Região Autónoma dos Açores, bem como medidas de redução e controlo dos mesmos.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma, entende-se por:
+
+a) «Animal de companhia»: animal detido ou destinado a ser detido por uma pessoa, designadamente no seu lar, para sua companhia;
+
+b) 'Animal errante': animal encontrado em espaço público que não esteja à guarda e controlo do detentor ou titular, não seja animal comunitário ou animal membro de colónia de rua, existindo, por isso, indícios fortes sobre o seu abandono;
+
+c) «Abate»: a morte provocada a animal de companhia ou animal errante;
+
+d) 'Eutanásia compulsiva': a morte provocada a animal de companhia ou animal errante, por razões de saúde pública, determinada pela direção regional com competência em matéria de veterinária;
+
+e) «Eutanásia animal»: a morte provocada a animal de companhia ou animal errante com o mínimo de dor e stress, com rápida perda de consciência, seguida de paragem cardíaca ou respiratória e, por último, perda da função cerebral;
+
+f) «Esterilização animal»: a remoção cirúrgica dos órgãos com funções exclusivamente reprodutoras;
+
+g) 'Identificação eletrónica': a aplicação subcutânea de um transponder, por um médico veterinário, contendo um número, que é único para cada animal;
+
+h) 'Vacinação': administração de uma vacina, por um médico veterinário, a fim de gerar uma imunidade específica contra determinada doença;
+
+i) 'Registo': o conjunto de informação coligida no Sistema de Informação de Animais de Companhia (SIAC) com os elementos relativos ao número do transponder, elementos de resenha do animal, identificação do titular do animal e respetivos dados de contacto, do médico veterinário que procede à marcação do animal, bem como outras particularidades ou caraterísticas e as medidas sanitárias preventivas oficiais ou informações relevantes que tenham sido associadas ao animal;
+
+j) 'Titular': proprietário ou possuidor, quer se trate de pessoa singular ou coletiva, responsável pelo animal de companhia, e cuja posse faça presumir a propriedade e em cujo nome deve efetuar-se o registo da titularidade do animal de companhia no SIAC e ser emitido o correspondente documento de identificação do animal de companhia (DIAC), ou aquele para quem o animal foi transmitido, e ainda aquele que figure como seu titular no passaporte do animal de companhia (PAC);
+
+k) 'Animal comunitário': qualquer animal autorizado a permanecer em espaço e via públicos limitados, a que o animal esteja habituado e onde esteja integrado, cuja guarda, alimentação e cuidados médico-veterinários são assegurados por uma pessoa, singular ou coletiva, ou por um grupo de pessoas integradas em comunidades locais de moradores, residenciais ou profissionais, comunidades escolares ou entidades públicas, sob supervisão da câmara municipal;
+
+l) 'Colónia de gatos': gatos silvestres, assilvestrados ou dóceis que estão em situação de errância, que vivem em grupo, partilhando entre si território e comida, e que podem ser encontrados em espaços urbanos ou rurais, existindo um cuidador responsável;
+
+m) 'Cuidador': pessoa singular integrada numa determinada comunidade, ou pessoa coletiva, responsável pela alimentação e prestação de cuidados médico-veterinários de animal comunitário ou colónia de gatos;
+
+n) 'Transponder': dispositivo passivo de identificação por radiofrequências, reservado a leitura, que pode ser aplicado por qualquer pessoa acreditada, ou seja, por qualquer pessoa singular que no âmbito de uma pessoa coletiva desenvolva atividades ligadas aos animais de companhia, com um perfil de acesso ao SIAC determinado pela entidade gestora da plataforma;
+
+o) 'Capturar-Esterilizar-Devolver (CED)': processo que envolve a captura de gatos de uma colónia, a sua esterilização, realização de um pequeno corte na orelha esquerda - sinal internacional de animal esterilizado - para fins de identificação, desparasitação e por fim devolução dos animais ao seu território de origem;
+
+p) 'Associação de proteção animal': pessoa coletiva legalmente constituída que trabalha na inclusão dos animais de companhia e errantes na comunidade, atuando de modo a garantir que os seus interesses e necessidades básicas sejam asseguradas;
+
+q) 'Centro de recolha oficial aprovado': alojamento oficial de animais, autorizado nos termos do Decreto-Lei n.º 276/2001, de 17 de outubro, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+### Capítulo II — Abate
+
+###### Artigo 3.º — Proibição de abate
+
+É proibido o abate de qualquer animal de companhia ou animal errante, sem prejuízo do disposto no artigo seguinte.
+
+###### Artigo 4.º — Exceções
+
+1 - Pode ser realizado o abate compulsivo de animal de companhia ou de animal errante nos seguintes casos e condições:
+
+a) Sempre que estiverem em causa medidas urgentes de segurança de pessoas e bens, bem como de outros animais e esteja impossibilitada a recolha ou captura de animais de companhia ou errantes, excecionalmente, desde que realizado por entidades policiais;
+
+b) Quando o animal for diagnosticado com uma zoonose epidemiológica declarada pela direção regional com competência em matéria de veterinária e não houver terapêutica médica ou medicamentosa aplicável que permita atenuar a sintomatologia e contágio;
+
+c) Quando o animal for diagnosticado com doença infetocontagiosa não remissiva e, mesmo após o seu isolamento, configure um fator de disseminação e contágio de risco elevado para outros animais.
+
+2 - A eutanásia de animal de companhia ou de animal errante pode ser realizada em centros de recolha oficial de animais ou centros de atendimento médico veterinário, por médico veterinário, nos seguintes casos e condições:
+
+a) No animal portador de doença infetocontagiosa incurável, desde que coloque em causa o bem-estar do próprio ou de outros animais;
+
+b) No animal que padeça de doença incurável que lhe cause sofrimento e diminuição evidente da sua qualidade de vida;
+
+c) No animal que padeça de patologia aguda, irreversível, com perda de capacidade motora e controle das suas necessidades fisiológicas;
+
+d) Quando tenha sido determinada por sentença judicial transitada em julgado.
+
+3 - A eutanásia compulsiva, prevista na alínea b) do n.º 1, e a eutanásia, prevista nas alíneas a) a d) do número anterior, só podem ser realizadas por médico veterinário, sob parecer escrito devidamente fundamentado e acompanhado dos exames de diagnóstico, quando aplicável, devendo ser mantidos por um período de 24 meses após a data da realização do ato.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 5.º — Métodos de abate
+
+Os métodos de abate compulsivo não podem causar dor e sofrimento desnecessários e devem respeitar as boas práticas éticas e deontológicas e a legislação em vigor nesta matéria.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+### Capítulo III — Recolha
+
+###### Artigo 6.º — Recolha de animais
+
+1 - Compete às câmaras municipais da Região Autónoma dos Açores proceder à recolha e à captura de animais de companhia e errantes, quando estejam em causa razões de saúde pública e de segurança pública, de pessoas, bens e outros animais.
+
+2 - As associações zoófilas, legalmente reconhecidas, podem também proceder à recolha e captura de animais errantes, providenciando pelo seu tratamento médico veterinário, esterilização, encaminhamento para adoção e, quando tal não seja possível, pela devolução dos animais ao seu local de origem, devidamente identificados eletronicamente, sendo os felídeos identificados através de corte da parte superior da orelha esquerda, e os canídeos através da colocação de uma coleira empregue especialmente para o efeito.
+
+3 - Todos os animais recolhidos são identificados eletronicamente, registados, esterilizados, vacinados e desparasitados, salvo nos casos previstos no artigo 4.º
+
+4 - Cumprido o disposto no número anterior, os gatos podem ser devolvidos ao local de captura ou recolha, ou outro.
+
+5 - Os gatos recolhidos no âmbito do Programa CED devem ser identificados com corte da parte superior da orelha esquerda, como sinal internacional de animal esterilizado.
+
+6 - Os animais acolhidos pelos centros de recolha oficial de animais e pelas associações de proteção animal que não sejam reclamados pelos seus detentores no prazo de 15 dias, a contar da data da sua recolha, presumem-se abandonados e são obrigatoriamente esterilizados e encaminhados para adoção, sem direito a indemnização dos detentores que venham a identificar-se como tal após o prazo previsto.
+
+7 - Os gatos devolvidos ao local de captura ou outro, no âmbito do Programa CED, e que façam parte de colónias de gatos que se encontrem sob a responsabilidade de associações de proteção animal, são registados em nome do município com jurisdição territorial sobre o local onde se encontrar a respetiva colónia, sem prejuízo de o município ser tomador de seguro.
+
+8 - Os gatos, considerados animais errantes silvestres, recolhidos pelas associações de proteção animal, no âmbito do Programa CED, podem ser devolvidos ao local onde forem capturados ou outro, logo que possível.
+
+9 - Findo o prazo mencionado no n.º 6 e cumpridos os requisitos estabelecidos no n.º 3, os animais podem, sob parecer de médico veterinário municipal, ser cedidos, pelas câmaras municipais, a pessoas, individuais ou coletivas, ou, ainda, a entidades públicas ou organizações de socorro, resgate e salvamento, desde que comprovem possuir condições adequadas para o alojamento e maneio dos animais.
+
+10 - Para efeitos do disposto no presente artigo, as câmaras municipais e os centros de recolha oficial de animais divulgam ao público, de forma adequada e regular, com atualização quinzenal, os animais disponíveis para adoção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 6.º-A — Procedimento para a adoção de animais
+
+Cumprido o disposto no n.º 3 do artigo anterior e decorrido o prazo previsto no n.º 6 do artigo anterior, os animais recolhidos são reencaminhados para a adoção, sendo as entidades responsáveis pela recolha incumbidas da respetiva divulgação pública, nos sítios online da câmara municipal e centro de recolha oficial de animais, em colaboração com as associações de proteção animal.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 6.º-B — Programas CED
+
+1 - Como forma de gestão da população de gatos errantes e nos casos em que tal se justifique, podem as câmaras municipais, sob parecer do médico veterinário municipal, autorizar a manutenção, em locais especialmente designados para o efeito, de colónias de gatos, no âmbito de programas de captura, esterilização e devolução ao local de origem.
+
+2 - Os Programas CED podem realizar-se por iniciativa das câmaras municipais ou mediante proposta da organização de proteção animal a quem a câmara municipal atribua a gestão do Programa CED.
+
+3 - Deve ser evitada a implementação de programas CED nos parques públicos, nos refúgios de vida selvagens ou noutros locais que sirvam de habitat à vida selvagem.
+
+4 - Para efeitos do disposto do número anterior, a criação da colónia de gatos é precedida de parecer do departamento do governo regional com competência em matéria de ambiente.
+
+5 - A entidade responsável pelo CED deve assegurar:
+
+a) A existência de um plano de gestão da colónia, do qual conste a identificação do médico veterinário assistente e das pessoas que na entidade são responsáveis pela execução do programa;
+
+b) Que os animais que compõem a colónia são avaliados periodicamente do ponto de vista clínico, de forma a despistar doenças transmissíveis que, casuisticamente, sejam consideradas importantes;
+
+c) Que os animais portadores de doenças transmissíveis a outros animais ou a seres humanos são retirados da colónia;
+
+d) Que os animais capturados, antes de integrarem a colónia, são entregues nos centros de recolha oficiais para verificação da sua aptidão;
+
+e) Que os animais capturados são esterilizados e marcados com um pequeno corte na orelha esquerda - sinal internacional de esterilização -, registados e identificados eletronicamente, desparasitados e vacinados contra a raiva ou outras medidas profiláticas obrigatórias ou consideradas no plano de gestão da colónia.
+
+6 - A colónia intervencionada será supervisionada pelo médico veterinário municipal, devendo a entidade responsável pelo programa assegurar que são prestados os cuidados de saúde e alimentação adequados aos animais, controlando as saídas ou entradas de novos animais, ou quaisquer outros fatores que perturbem a estabilidade da colónia, a segurança e a tranquilidade pública e da vizinhança, de tudo mantendo registo.
+
+7 - É obrigatória a testagem para síndrome da imunodeficiência felina (FIV), e para leucemia felina (FeLV), aos gatos das colónias.
+
+8 - A dimensão da colónia de gatos não pode pôr em causa a salubridade, a saúde pública e a segurança de pessoas, animais e bens.
+
+9 - Os alojamentos e espaços utilizados pela colónia são mantidos livres de resíduos ou restos de comida, de forma a evitar a proliferação de pragas.
+
+10 - As despesas relacionadas com a manutenção de colónias de gatos são da responsabilidade da entidade promotora.
+
+11 - Sempre que a câmara municipal verifique que não está cumprido qualquer dos requisitos referidos no n.º 5, pode determinar medidas corretivas ou a suspensão do Programa CED em curso e proceder à recolha dos animais para o centro de recolha oficial.
+
+12 - O programa a que se refere o presente artigo não é aplicável a cães.
+
+13 - Os gatos silvestres no âmbito do Programa CED que se encontrem sob responsabilidade de associações de proteção animal são registados em nome do município com jurisdição territorial, sem prejuízo de o município ser tomador de seguro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 6.º-C — Criadores de animais
+
+Sem prejuízo do Decreto-Lei n.º 82/2019, de 27 de junho, na sua redação atual, as pessoas singulares ou coletivas que se dediquem à criação comercial de animais de companhia procedem ao seu registo, em plataforma eletrónica, de caráter obrigatório e criada para este efeito pela secretaria regional com competência em matéria de veterinária, no prazo de 90 dias, a contar da data da publicação do presente diploma.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 6.º-D — Animal comunitário
+
+1 - As câmaras municipais podem, sob parecer escrito fundamentado do médico veterinário municipal, autorizar a permanência de animais em espaço público, a que o animal esteja habituado e onde esteja integrado.
+
+2 - A autorização referida no n.º 1 é obtida através de requerimento de pessoa, singular ou coletiva, ou por um grupo de pessoas integradas numa comunidade local de moradores, residenciais ou profissionais, comunidades escolares ou entidades públicas, onde o animal em causa esteja inserido, os quais se obrigam a assegurar a guarda, alimentação e cuidados médico-veterinários do mesmo nos exatos termos e condições que forem protocolados com a câmara municipal, e sob supervisão desta.
+
+3 - Deferida a autorização, o animal é identificado, registado, vacinado e esterilizado através do centro de recolha oficial de animais, sendo posteriormente devolvido ao local de origem.
+
+4 - Os espaços utilizados para manutenção do animal comunitário são mantidos livres de resíduos ou de restos de comida, devendo os comedouros ser recolhidos e o espaço limpo após a alimentação do animal.
+
+5 - Quando a câmara municipal verificar que não são cumpridos os requisitos referidos no n.º 4, podem ser determinadas medidas corretivas ou, se imprescindível, ordenadas a suspensão temporária ou mesmo a cessação do regime do animal comunitário, procedendo-se à recolha do animal para o centro de recolha oficial de animais, sem prejuízo de ser reencaminhado para adoção, decorrido o prazo referido no n.º 6 do artigo 6.º
+
+6 - Salvo o regime previsto para as colónias de gatos, a câmara municipal pode autorizar a presença de até três animais comunitários no mesmo espaço, desde que reunidas as condições para o efeito.
+
+7 - O animal comunitário deve exibir coleira indicando a qualidade de animal comunitário e o contacto telefónico de, pelo menos, um cuidador.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 7.º — Registo dos animais recolhidos
+
+1 - Nos centros de recolha oficial de animais da responsabilidade das câmaras municipais, todos os animais recolhidos, e no âmbito do Programa CED, são registados e identificados por um número único de identificação.
+
+2 - É criada uma ficha de animal registado por cada animal recolhido, com menção aos seguintes elementos:
+
+a) Fotografia do animal;
+
+b) Data de entrada;
+
+c) Número de identificação;
+
+d) Espécie;
+
+e) Raça;
+
+f) Sexo;
+
+g) Cor;
+
+h) Idade aproximada;
+
+i) Território de origem ou local de captura;
+
+j) Identificação sobre o local onde o animal se encontra;
+
+k) Informação sobre se o animal foi adotado e a identificação completa da pessoa que o adotou, incluindo a sua residência e contactos;
+
+l) Informação sobre se o animal morreu por causas traumáticas, acidentais, doença ou outras e respetivo relatório comprovativo emitido pelo médico veterinário;
+
+m) Informação sobre se o animal morreu em virtude de prática de abate ou eutanásia, com o respetivo parecer fundamentado do médico veterinário responsável pelo ato, e todos os exames clínicos que a determinaram, quando aplicável.
+
+3 - A ficha de controlo referida no número anterior deve ser mantida pelo período mínimo de 24 meses.
+
+4 - Com vista à otimização, desburocratização e simplificação de procedimentos, os dados constantes na base de dados do Registo de Animais de Companhia e Errantes são integrados no Sistema de Informação de Animais de Companhia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+### Capítulo IV — Esterilização
+
+###### Artigo 8.º — Programa de esterilização
+
+1 - Sem prejuízo do previsto nos artigos 14.º e 15.º, as câmaras municipais, ainda que sem centro de recolha oficial de animais no seu território, em cooperação e colaboração com outras entidades, elaboram e executam um programa municipal anual de esterilização, registo, sensibilização para o bem-estar animal e responsabilização social, adoção e voluntariado animal no respetivo âmbito de competência territorial.
+
+2 - O programa mencionado no n.º 1 deve conter os seguintes elementos:
+
+a) Objetivos;
+
+b) Número de esterilizações a realizar;
+
+c) Meios a utilizar.
+
+d) Ações de sensibilização para o bem-estar animal e responsabilização social;
+
+e) Ações de sensibilização para a adoção animal;
+
+f) Projeto municipal de voluntariado animal.
+
+3 - Para efeitos do disposto no presente artigo, as câmaras municipais podem recorrer à celebração de protocolos com hospitais, clínicas ou consultórios médico-veterinários, ou utilizar as instalações dos centros de recolha oficial de animais licenciados.
+
+4 - As câmaras municipais, no âmbito das suas competências, criam zonas ou locais próprios para a instalação de colónias de gatos no âmbito do Programa CED.
+
+5 - As câmaras municipais realizam campanhas semestrais ou anuais, ininterruptas, de esterilização gratuita de animais de companhia.
+
+6 - O Governo Regional realiza, ininterruptamente, uma Campanha Regional de Esterilização Gratuita de Animais, durante os anos de 2023 e 2024.
+
+7 - Até ao fim do ano de 2024, a direção regional com competência na matéria efetua o balanço da Campanha Regional de Esterilização Gratuita de Animais com vista ao apuramento da necessidade da sua prorrogação.
+
+> Nota: [Artigo 5.º, Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461) O n.º 6 do presente artigo entra em vigor com o Orçamento Regional subsequente à sua publicação.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 9.º — Prática de esterilização
+
+1 - A esterilização é realizada por médico veterinário, garantindo a prestação de todos os cuidados médicos necessários para assegurar o bem-estar do animal.
+
+2 - Por forma a distinguir os animais esterilizados dos animais aptos a esterilização, os felídeos serão marcados através do corte da parte superior da orelha esquerda e os canídeos através de colocação de uma coleira empregue especialmente para o efeito, sendo que ambos deverão ser identificados eletronicamente.
+
+3 - Cumprida a esterilização e o período de recobro para o animal, será o mesmo encaminhado para adoção, com a notificação por escrito das associações de proteção animal da Região Autónoma dos Açores legalmente reconhecidas.
+
+4 - [Revogado.]
+
+5 - É obrigatório o preenchimento de um questionário que promova a avaliação da aptidão e condição para adoção responsável do animal de companhia.
+
+6 - Os cães e gatos com detentor que sejam capturados na via pública mais do que uma vez devem ser esterilizados no centro de recolha oficial, a expensas dos respetivos detentores.
+
+7 - A esterilização dos animais que tenham dado entrada nos centros de recolha oficiais e não tenham sido reclamados pelos seus detentores no prazo de 15 dias, a contar da data da sua recolha, é obrigatoriamente efetuada antes de serem encaminhados para adoção.
+
+8 - Os animais com idade inferior a seis meses podem ser encaminhados para adoção antes de serem esterilizados, devendo os novos detentores assegurar que a esterilização é realizada até o animal atingir os oito meses de idade, nos seguintes termos:
+
+a) Fazendo o animal regressar ao centro de recolha oficial para aí ser esterilizado; ou
+
+b) Apresentando no centro de recolha oficial uma declaração de médico veterinário que ateste que a esterilização do animal foi efetuada.
+
+9 - Para garantia do disposto no número anterior, os centros de recolha oficial mantêm um registo dos animais que devam ser esterilizados até aos oito meses de idade e dos respetivos detentores, a fim de, em caso de incumprimento da obrigação de esterilização, determinarem o seu regresso ao centro de recolha oficial para esse efeito.
+
+10 - Se o animal em causa for silvestre, deve ser devolvido ao seu local de captura ou de origem no prazo de quatro dias após a sua esterilização.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2021/A - Diário da República n.º 61/2021, Série I de 2021-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2021-160422286), em vigor a partir de 2021-03-30
+
+### Capítulo V — Fiscalização e contraordenações
+
+###### Artigo 10.º — Fiscalização
+
+A fiscalização do cumprimento das normas constantes no presente diploma compete à direção regional com competência em matéria de veterinária, sem prejuízo das competências atribuídas por lei a outras entidades com atribuições de fiscalização.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 11.º — Contraordenações
+
+1 - Constitui contraordenação, punível com coima cujo montante mínimo é de (euro) 2000 e máximo de (euro) 3740 ou (euro) 44 890, consoante o agente seja pessoa singular ou coletiva, o abate de animal de companhia ou de animal errante fora dos casos previstos no artigo 4.º
+
+2 - Constitui contraordenação, punível com coima cujo montante mínimo é de 3000 (euro) e máximo de 4740 (euro) ou de 21 000 (euro), consoante o infrator seja pessoa singular ou coletiva:
+
+a) A violação do n.º 3 do artigo 6.º;
+
+b) A violação do disposto no artigo 7.º;
+
+c) A violação do disposto no artigo 8.º
+
+d) A violação do artigo 6.º-C.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 12.º — Instrução e decisão
+
+A instrução e decisão dos processos de contraordenação competem à direção regional com competência em matéria de veterinária.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 13.º — Produto das coimas
+
+O produto das coimas constitui receita da Região Autónoma dos Açores, sendo a sua afetação feita da seguinte forma:
+
+a) 40 % para a Região Autónoma dos Açores;
+
+b) 60 % para o respetivo município da Região Autónoma dos Açores.
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 14.º — Campanhas para promoção do bem-estar animal
+
+1 - No âmbito da respetiva área de competência territorial, cada câmara municipal da Região Autónoma dos Açores realiza, pelo menos uma vez por ano, campanhas de sensibilização para o bem-estar animal, identificação, registo, esterilização e castração de animais de companhia.
+
+2 - Até ao mês de setembro de cada ano civil, a direção regional com competência em matéria de bem-estar animal remete à Assembleia Legislativa da Região Autónoma dos Açores relatório detalhado sobre o número de campanhas municipais e regionais planeadas e executadas, com menção ao número de animais beneficiados.
+
+3 - A secretaria regional com competência em matéria de proteção e bem-estar animal realiza campanhas de literacia e sensibilização para a Síndrome de Noé.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 13/2023/A - Diário da República n.º 74/2023, Série I de 2023-04-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2023-211783461), em vigor a partir de 2023-05-15
+
+###### Artigo 15.º — Cooperação
+
+O cumprimento das obrigações estabelecidas no presente diploma para as câmaras municipais poderá ser feito em regime de cooperação entre dois ou mais municípios.
+
+###### Artigo 16.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor 90 dias após a sua publicação.
+
+2 - O disposto nos artigos 3.º e 4.º e no n.º 1 do artigo 11.º do Decreto Legislativo Regional n.º 12/2016/A, de 8 de julho, aplica-se dois meses após a publicação do presente decreto legislativo regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 6/2021/A - Diário da República n.º 61/2021, Série I de 2021-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2021-160422286), em vigor a partir de 2021-03-30
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de maio de 2016.
+
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+Assinado em Angra do Heroísmo em 29 de junho de 2016.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

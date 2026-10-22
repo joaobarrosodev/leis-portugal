@@ -1,0 +1,2354 @@
+---
+schema_version: '1.0'
+id: pt:dre:585178:por
+title: Decreto-Lei n.º 15/93
+short_title: null
+summary: Revê a legislação de combate à droga
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 15/93
+official_date: null
+publication_date: '1993-01-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 18/1993, Série I-A de 1993-01-22
+  number: '18'
+  series: I
+  supplement: null
+  pages: 234 - 252
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/01/018a00/02340252.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-05-09'
+version_history:
+  file: decreto-lei-15-93.versoes.json
+  count: 29
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1993-01-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-02-21'
+    amending: pt:dre:551823:por
+    amending_title: Declaração de Rectificação n.º 20/93
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 20.º
+    - Altera Artigo 25.º
+    - Altera Artigo 27.º
+    - Altera Artigo 34.º
+    - Altera Artigo 40.º
+    - Altera Artigo 51.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 76.º
+    - Altera TABELA I-A
+    - Altera TABELA I-B
+    - Altera TABELA II-A
+    - Altera TABELA IV
+    - Retifica Artigo 3.º
+  - date: '1995-04-27'
+    amending: pt:dre:223469:por
+    amending_title: Decreto-Lei n.º 81/95
+    changes:
+    - Altera Artigo 57.º
+  - date: '1996-09-08'
+    amending: pt:dre:241229:por
+    amending_title: Lei n.º 45/96
+    changes:
+    - Adita Artigo 36.º-A
+    - Adita Artigo 49.º-A
+    - Adita Artigo 59.º-A
+    - Adita Artigo 70.º-A
+    - Altera Artigo 24.º
+    - Altera Artigo 28.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera Artigo 42.º
+    - Altera Artigo 46.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 70.º
+  - date: '2000-09-02'
+    amending: pt:dre:580787:por
+    amending_title: Decreto-Lei n.º 214/2000
+    changes:
+    - Altera TABELA I-A
+    - Altera TABELA II-A
+  - date: '2001-02-25'
+    amending: pt:dre:385468:por
+    amending_title: Decreto-Lei n.º 69/2001
+    changes:
+    - Altera TABELA II-A
+    - Altera TABELA II-B
+    - Altera TABELA IV
+  - date: '2001-08-30'
+    amending: pt:dre:515636:por
+    amending_title: Lei n.º 101/2001; Lei n.º 104/2001
+    changes:
+    - Revoga Artigo 59.º
+    - Revoga Artigo 59.º-A
+    - Revoga Artigo 61.º
+  - date: '2002-01-01'
+    amending: pt:dre:540216:por
+    amending_title: Decreto-Lei n.º 323/2001
+    changes:
+    - Altera Artigo 66.º
+  - date: '2003-01-16'
+    amending: pt:dre:176532:por
+    amending_title: Lei n.º 3/2003
+    changes:
+    - Altera TABELA V
+  - date: '2003-08-23'
+    amending: pt:dre:656131:por
+    amending_title: Lei n.º 47/2003
+    changes:
+    - Altera TABELA I-C
+    - Altera TABELA II-A
+  - date: '2004-04-01'
+    amending: pt:dre:210422:por
+    amending_title: Lei n.º 11/2004
+    changes:
+    - Altera Artigo 24.º
+    - Revoga Artigo 23.º
+  - date: '2004-05-12'
+    amending: pt:dre:264356:por
+    amending_title: Lei n.º 17/2004
+    changes:
+    - Altera TABELA II-A
+    - Altera TABELA IV
+  - date: '2005-01-31'
+    amending: pt:dre:624464:por
+    amending_title: Lei n.º 14/2005
+    changes:
+    - Altera TABELA II-A
+  - date: '2007-09-15'
+    amending: pt:dre:640142:por
+    amending_title: Lei n.º 59/2007; Lei n.º 48/2007
+    changes:
+    - Adita Artigo 33.º-A
+    - Revoga Artigo 49.º-A
+    - Revoga Artigo 54.º
+  - date: '2009-05-12'
+    amending: pt:dre:608228:por
+    amending_title: Lei n.º 18/2009
+    changes:
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera TABELA I-A
+    - Altera TABELA II-A
+  - date: '2009-09-01'
+    amending: pt:dre:492377:por
+    amending_title: Lei n.º 38/2009
+    changes:
+    - Altera Artigo 56.º
+  - date: '2012-03-27'
+    amending: pt:dre:553932:por
+    amending_title: Lei n.º 13/2012
+    changes:
+    - Altera TABELA I-A
+    - Altera TABELA II-A
+  - date: '2014-04-29'
+    amending: pt:dre:25343722:por
+    amending_title: Lei n.º 22/2014
+    changes:
+    - Altera TABELA II-A
+    - Altera TABELA II-B
+  - date: '2014-11-12'
+    amending: pt:dre:58815346:por
+    amending_title: Lei n.º 77/2014
+    changes:
+    - Altera TABELA V
+  - date: '2017-03-03'
+    amending: pt:dre:106542301:por
+    amending_title: Lei n.º 7/2017
+    changes:
+    - Altera TABELA II-A
+  - date: '2019-02-06'
+    amending: pt:dre:118950627:por
+    amending_title: Lei n.º 8/2019
+    changes:
+    - Altera TABELA I-A
+    - Altera TABELA II-A
+    - Altera TABELA II-B
+    - Altera Anexo TABELA IV
+  - date: '2020-05-30'
+    amending: pt:dre:134762422:por
+    amending_title: Lei n.º 15/2020
+    changes:
+    - Altera TABELA I-A
+    - Altera TABELA II-A
+    - Altera TABELA V
+  - date: '2020-09-01'
+    amending: pt:dre:141382321:por
+    amending_title: Lei n.º 58/2020
+    changes:
+    - Altera Artigo 28.º
+  - date: '2021-05-12'
+    amending: pt:dre:163092604:por
+    amending_title: Lei n.º 25/2021
+    changes:
+    - Altera Anexo TABELA I-A
+    - Altera Anexo TABELA II-A
+    - Altera Anexo TABELA IV
+    - Altera TABELA V
+  - date: '2021-07-24'
+    amending: pt:dre:168184697:por
+    amending_title: Lei n.º 49/2021
+    changes:
+    - Altera Anexo TABELA II-A
+  - date: '2023-03-04'
+    amending: pt:dre:208124551:por
+    amending_title: Lei n.º 9/2023
+    changes:
+    - Altera Artigo 13.º
+    - Altera Anexo TABELA I-A
+    - Altera Anexo TABELA II-A
+    - Altera Anexo TABELA IV
+    - Altera TABELA V
+  - date: '2023-10-01'
+    amending: pt:dre:221432122:por
+    amending_title: Lei n.º 55/2023
+    changes:
+    - Altera Artigo 40.º
+    - Altera Artigo 71.º
+  - date: '2025-03-08'
+    amending: pt:dre:909953480:por
+    amending_title: Lei n.º 23/2025
+    changes:
+    - Altera TABELA I-A
+    - Altera TABELA II-A
+  - date: '2026-05-09'
+    amending: pt:dre:1114077553:por
+    amending_title: Lei n.º 19-F/2026
+    changes:
+    - Altera TABELA I-A
+    - Altera TABELA II-A
+    - Altera TABELA IV
+    - Altera TABELA V
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/15/1993/p/cons/20260508/pt/html
+  oj: null
+  dre: '585178'
+  dre_path: /dr/detalhe/decreto-lei/15-1993-585178
+  internal: pt:dre:585178:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-1993-585178
+  metadata_url: https://data.dre.pt/eli/dec-lei/15/1993/p/cons/20260508/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-58872437
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-58872437
+  retrieved_at: '2026-10-22T11:56:35Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 91a8cc16c13aa5c26aa73c044da68a598136c86526a22ac7b9f9df8dd06d8023
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:56:35Z'
+  notes: 29 versão(ões); histórico completo em decreto-lei-15-93.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crime
+- Infarmed
+- Contra-ordenação
+- Combate à Droga
+- Ministério da Justiça
+- Gabinete de Combate à Droga do Ministério da Justiça
+- Droga
+- Sanção Penal
+- Toxicodependente
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:551823:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 20.º; Altera Artigo 25.º; Altera Artigo 27.º; Altera Artigo 34.º;
+    Altera Artigo 40.º; Altera Artigo 51.º; Altera Artigo 60.º; Altera Artigo 61.º; Altera Artigo 76.º; Altera TABELA I-A;
+    Altera TABELA I-B; Altera TABELA II-A; Altera TABELA IV; Retifica Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823
+  date: '1993-02-20'
+- type: amended_by
+  target: pt:dre:223469:por
+  label: Altera Artigo 57.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1995-223469
+  date: '1995-04-22'
+- type: amended_by
+  target: pt:dre:241229:por
+  label: Adita Artigo 36.º-A; Adita Artigo 49.º-A; Adita Artigo 59.º-A; Adita Artigo 70.º-A; Altera Artigo 24.º; Altera Artigo
+    28.º; Altera Artigo 35.º; Altera Artigo 39.º; Altera Artigo 42.º; Altera Artigo 46.º; Altera Artigo 59.º; Altera Artigo
+    60.º; Altera Artigo 70.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229
+  date: '1996-09-03'
+- type: amended_by
+  target: pt:dre:580787:por
+  label: Altera TABELA I-A; Altera TABELA II-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2000-580787
+  date: '2000-09-02'
+- type: amended_by
+  target: pt:dre:599720:por
+  label: Altera TABELA II-A; Altera TABELA II-B; Altera TABELA IV
+  source: https://diariodarepublica.pt/dr/detalhe/lei/30-2000-599720
+  date: '2000-11-29'
+- type: amended_by
+  target: pt:dre:385468:por
+  label: Altera TABELA II-A; Altera TABELA II-B; Altera TABELA IV
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2001-385468
+  date: '2001-02-24'
+- type: amended_by
+  target: pt:dre:515636:por
+  label: Revoga Artigo 59.º; Revoga Artigo 59.º-A; Revoga Artigo 61.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/101-2001-515636
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:515637:por
+  label: Revoga Artigo 59.º; Revoga Artigo 59.º-A; Revoga Artigo 61.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/104-2001-515637
+  date: '2001-08-25'
+- type: amended_by
+  target: pt:dre:540216:por
+  label: Altera Artigo 66.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216
+  date: '2001-12-17'
+- type: amended_by
+  target: pt:dre:176532:por
+  label: Altera TABELA V
+  source: https://diariodarepublica.pt/dr/detalhe/lei/3-2003-176532
+  date: '2003-01-15'
+- type: amended_by
+  target: pt:dre:656131:por
+  label: Altera TABELA I-C; Altera TABELA II-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/47-2003-656131
+  date: '2003-08-22'
+- type: amended_by
+  target: pt:dre:210422:por
+  label: Altera Artigo 24.º; Revoga Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/11-2004-210422
+  date: '2004-03-27'
+- type: amended_by
+  target: pt:dre:264356:por
+  label: Altera TABELA II-A; Altera TABELA IV
+  source: https://diariodarepublica.pt/dr/detalhe/lei/17-2004-264356
+  date: '2004-05-11'
+- type: amended_by
+  target: pt:dre:624464:por
+  label: Altera TABELA II-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/14-2005-624464
+  date: '2005-01-26'
+- type: amended_by
+  target: pt:dre:641082:por
+  label: Adita Artigo 33.º-A; Revoga Artigo 49.º-A; Revoga Artigo 54.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/48-2007-641082
+  date: '2007-08-29'
+- type: amended_by
+  target: pt:dre:640142:por
+  label: Adita Artigo 33.º-A; Revoga Artigo 49.º-A; Revoga Artigo 54.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142
+  date: '2007-09-04'
+- type: amended_by
+  target: pt:dre:608228:por
+  label: Altera Artigo 15.º; Altera Artigo 16.º; Altera TABELA I-A; Altera TABELA II-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/18-2009-608228
+  date: '2009-05-11'
+- type: amended_by
+  target: pt:dre:492377:por
+  label: Altera Artigo 56.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/38-2009-492377
+  date: '2009-07-20'
+- type: amended_by
+  target: pt:dre:146221:por
+  label: Altera Artigo 56.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221
+  date: '2011-11-30'
+- type: amended_by
+  target: pt:dre:553932:por
+  label: Altera TABELA I-A; Altera TABELA II-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/13-2012-553932
+  date: '2012-03-26'
+- type: amended_by
+  target: pt:dre:25343722:por
+  label: Altera TABELA II-A; Altera TABELA II-B
+  source: https://diariodarepublica.pt/dr/detalhe/lei/22-2014-25343722
+  date: '2014-04-28'
+- type: amended_by
+  target: pt:dre:58815346:por
+  label: Altera TABELA V
+  source: https://diariodarepublica.pt/dr/detalhe/lei/77-2014-58815346
+  date: '2014-11-11'
+- type: amended_by
+  target: pt:dre:106542301:por
+  label: Altera TABELA II-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/7-2017-106542301
+  date: '2017-03-02'
+- type: amended_by
+  target: pt:dre:118950627:por
+  label: Altera TABELA I-A; Altera TABELA II-A; Altera TABELA II-B; Altera Anexo TABELA IV
+  source: https://diariodarepublica.pt/dr/detalhe/lei/8-2019-118950627
+  date: '2019-02-01'
+- type: amended_by
+  target: pt:dre:134762422:por
+  label: Altera TABELA I-A; Altera TABELA II-A; Altera TABELA V
+  source: https://diariodarepublica.pt/dr/detalhe/lei/15-2020-134762422
+  date: '2020-05-29'
+- type: amended_by
+  target: pt:dre:141382321:por
+  label: Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321
+  date: '2020-08-31'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Anexo TABELA II-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: amended_by
+  target: pt:dre:163092604:por
+  label: Altera Anexo TABELA I-A; Altera Anexo TABELA II-A; Altera Anexo TABELA IV; Altera TABELA V
+  source: https://diariodarepublica.pt/dr/detalhe/lei/25-2021-163092604
+  date: '2021-05-11'
+- type: amended_by
+  target: pt:dre:168184697:por
+  label: Altera Anexo TABELA II-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/49-2021-168184697
+  date: '2021-07-23'
+- type: amended_by
+  target: pt:dre:208124551:por
+  label: Altera Artigo 13.º; Altera Anexo TABELA I-A; Altera Anexo TABELA II-A; Altera Anexo TABELA IV; Altera TABELA V
+  source: https://diariodarepublica.pt/dr/detalhe/lei/9-2023-208124551
+  date: '2023-03-03'
+- type: amended_by
+  target: pt:dre:221432122:por
+  label: Altera Artigo 40.º; Altera Artigo 71.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-2023-221432122
+  date: '2023-09-08'
+- type: amended_by
+  target: pt:dre:909953480:por
+  label: Altera TABELA I-A; Altera TABELA II-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/23-2025-909953480
+  date: '2025-03-07'
+- type: amended_by
+  target: pt:dre:1114077553:por
+  label: Altera TABELA I-A; Altera TABELA II-A; Altera TABELA IV; Altera TABELA V
+  source: https://diariodarepublica.pt/dr/detalhe/lei/19-f-2026-1114077553
+  date: '2026-05-08'
+- type: cites
+  target: eli:http://data.europa.eu/eli/reco/1991/1141/oj
+  label: null
+  source: http://data.europa.eu/eli/reco/1991/1141/oj
+article_structure:
+  article_count: 81
+  section_count: 19
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:56:35Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 15/93
+
+Decreto-Lei n.º 15/93
+
+de 22 de Janeiro
+
+A aprovação da Convenção das Nações Unidas contra o Tráfico Ilícito de Estupefacientes e de Substâncias Psicotrópicas de 1988, oportunamente assinada por Portugal e ora ratificada - Resolução da Assembleia da República n.º 29/91 e Decreto do Presidente da República n.º 45/91, publicados no Diário da República, de 6 de Setembro de 1991- é a razão determinante do presente diploma.
+
+Tal instrumento de direito internacional público visa prosseguir três objectivos fundamentais.
+
+Em primeiro lugar, privar aqueles que se dedicam ao tráfico de estupefacientes do produto das suas actividades criminosas, suprimindo, deste modo, o seu móbil ou incentivo principal e evitando, do mesmo passo, que a utilização de fortunas ilicitamente acumuladas permita a organizações criminosas transnacionais invadir, contaminar e corromper as estruturas do Estado, as actividades comerciais e financeiras legítimas e a sociedade a todos os seus níveis.
+
+Em segundo lugar, adoptar medidas adequadas ao controlo e fiscalização dos precursores, produtos químicos e solventes, substâncias utilizáveis no fabrico de estupefacientes e de psicotrópicos e que, pela facilidade de obtenção e disponibilidade no mercado corrente, têm conduzido ao aumento do fabrico clandestino de estupefacientes e de substâncias psicotrópicas.
+
+Em terceiro lugar, reforçar e complementar as medidas previstas na Convenção sobre Estupefacientes de 1961, modificada pelo Protocolo de 1972, e na Convenção sobre Substâncias Psicotrópicas de 1971, colmatando brechas e potenciando os meios jurídicos de cooperação internacional em matéria penal.
+
+A transposição para o direito interno dos objectivos e regras que, num processo evolutivo, vão sendo adquiridos pela comunidade internacional mostra-se necessária ao seu funcionamento prático, acontecendo que as disposições mais significativas daquela Convenção das Nações Unidas não são exequíveis sem mediação legislativa.
+
+No domínio internacional, tiveram-se ainda em conta a Convenção Relativa ao Branqueamento, Despistagem, Apreensão e Perda dos Produtos do Crime, elaborada no seio do Conselho da Europa e que Portugal assinou em 8 de Novembro de 1990, bem como a directiva do Conselho das Comunidades Europeias de 10 de Junho de 1991, relativa à prevenção da utilização do sistema financeiro para efeito de branqueamento de capitais.
+
+Igualmente mereceu atenção a proposta de directiva do Conselho relativa à produção e colocação no mercado de certas substâncias utilizadas na produção ilícita de estupefacientes e de substâncias psicotrópicas, instrumento que visa estabelecer as medidas de fiscalização sobre os «precursores» exigidas pelo artigo 12.º da aludida Convenção das Nações Unidas de 1988, assinada autonomamente pela Comunidade, ao mesmo tempo que pretende afastar distorções da concorrência no fabrico lícito e na colocação de tais produtos químicos no mercado comunitário, em complementaridade com a fiscalização dos mesmos para o exterior das Comunidades Europeias.
+
+Após a publicação do Decreto-Lei n.º 430/83, de 13 de Dezembro, ora em revisão, entrou em vigor um novo Código de Processo Penal, pelo que algumas das especialidades e inovações -por exemplo a do princípio da oportunidade- previstas naquele diploma estão hoje consagradas em termos gerais no novo sistema processual penal.
+
+Entrou, também, em vigor um diploma sobre cooperação internacional, o Decreto-Lei n.º 43/91, de 22 de Janeiro, o qual se propôs regular, num único texto, diferentes formas de cooperação, que vão desde a extradição à transmissão de processos penais, execução de sentenças penais, transferência de pessoas condenadas e vigilância das mesmas ou das libertadas condicionalmente, até um amplo leque de medidas de auxílio judiciário em matéria penal.
+
+Como se refere no próprio preâmbulo, essa lei interna atendeu já à Convenção das Nações Unidas de 1988, «designadamente em matéria de auxílio judiciário, extradição e execução de decisões de perda de produtos do crime».
+
+O presente diploma, compatibilizando-se com a terminologia e as novas regras do processo penal, recebe já alguns princípios novos enformadores da reforma ainda em curso do Código Penal, como é o caso da multa em alternativa (e não em acumulação) da pena de prisão.
+
+Este último aspecto tem de ser objecto de ponderação especial perante o facto de hoje se considerar prioritário o ataque às fortunas ilícitas dos traficantes.
+
+Desaparecendo a possibilidade de cumular a pena de multa, de cariz patrimonial, com a pena de prisão, para os tipos legais mais graves, passa a assumir relevo particular o inventário de medidas destinadas a desapossar os traficantes no tocante aos bens e produtos que são provenientes, directa ou indirectamente, da sua actividade criminosa.
+
+Também no que respeita à dosimetria das penas a presente reformulação haverá de continuar a harmonizá-las com o restante sistema jurídico, particularmente com o Código Penal. É sabido, outrossim, o nulo ou reduzido efeito dissuasor da previsão abstracta de penas severas - como já se sublinhava no preâmbulo do Decreto-Lei n.º 430/83 -, se não for acompanhado de uma melhoria progressiva dos recursos técnicos da investigação criminal e da formação e dinamismo dos seus titulares.
+
+Conhecida a relutância de certas correntes de pensamento em aceitar um direito penal e processual recheado de normas especiais para combater certas formas de criminalidade e também, diga-se em abono da verdade, o facto de o novo Código de Processo Penal já estar munido de modernos institutos de investigação criminal, tudo aponta para que as especificidades nesse campo sejam reduzidas ao mínimo, mas sem que deixe de se reconhecer que os crimes mais graves de tráfico de droga devem merecer equiparação ao tratamento previsto nesse diploma para a criminalidade violenta ou altamente organizada e para o terrorismo.
+
+Posto que o objectivo primeiro da revisão seja o de efectuar as adaptações do direito nacional indispensáveis a tornar eficaz no âmbito interno a aludida Convenção das Nações Unidas de 1988, não se excluía a possibilidade de ponderar outras alterações consideradas importantes.
+
+A organização das tabelas anexas ao diploma principal foi um dos pontos objecto de preocupação.
+
+Não ofereceria dificuldade aditar às tabelas existentes as duas listas, respeitantes aos precursores, nos termos da Convenção de 1988, aproveitando a oportunidade para integrar as substâncias que entretanto haviam sido incluídas por portarias editadas nos termos das Convenções de 1961 e 1971.
+
+No entanto, afigurou-se que se poderia dar mais um passo no sentido de uma certa gradação de perigosidade das substâncias, reordenando-as em novas tabelas e daí extraindo efeitos no tocante às sanções.
+
+Já hoje, como se sabe, as substâncias constantes da tabela IV anexa ao Decreto-Lei n.º 430/83 são alvo de tratamento diferenciado relativamente às restantes, designadamente no capítulo da punição do tráfico, do incitamento ao seu consumo e do próprio consumo.
+
+A gradação das penas aplicáveis ao tráfico tendo em conta a real perigosidade das respectivas drogas afigura-se ser a posição mais compatível com a ideia de proporcionalidade. O que não implica necessária adesão à distinção entre drogas duras e leves e, muito menos, às ilações extraídas por alguns países no campo da descriminalização ou despenalização do consumo.
+
+Simplesmente, a decisão de uma gradação mais ajustada tem de assentar na aferição científica rigorosa da perigosidade das drogas nos seus diversos aspectos, onde se incluem motivações que ultrapassam o domínio científico, para relevarem de considerandos de natureza sócio-cultural não minimizáveis.
+
+Tudo para concluir que a matéria da (re)organização das tabelas merece ainda ponderação futura a efectuar no tempo e sede próprios.
+
+Idêntica postura pareceu de adoptar quanto ao tráfico no alto mar. A despeito do relevo crescente que assume como meio preferencial de circulação da droga, aproveitando os traficantes em seu benefício da reduzida capacidade de intervenção dos Estados em águas internacionais, não se encontraram fórmulas que permitissem intensificar o controlo, desde logo pela posição reducionista que advém do próprio artigo 17.º da Convenção de 1988.
+
+Com efeito, a predominância conferida ao país do pavilhão, mesmo quando haja suspeita séria de que o navio abusa da liberdade de circulação que o direito internacional garante para se dedicar ao tráfico ilícito, só limitável mediante tratado, acordo ou protocolo, é um sinal de prevalência de certos interesses, nomeadamente os comerciais, como expressamente se reconhece no n.º 5 do artigo 17.º, sobre os da saúde e bem-estar da população de todo o mundo.
+
+Esta temática preocupa especialmente os países que fazem parte do Conselho da Europa (Grupo Pompidou).
+
+Assunto a merecer continuada reflexão do nosso país, quer no âmbito de tratados bilaterais a estabelecer com países vizinhos da orla marítima, quer ainda pela especial posição nacional como detentor de uma zona económica exclusiva de considerável extensão.
+
+Apesar do importante papel que se reconhece à prevenção dirigida à informação, formação e educação, entendeu-se que, sendo temática de sentido evolutivo acentuado, que não convém sedimentar, e que pode ser objecto de diploma próprio, não deveria, nesta sede, receber tal matéria particular desenvolvimento.
+
+Por maioria de razão se retiraram disposições de tipo organizativo dos serviços.
+
+Por ele perpassa, todavia, o apelo à maior articulação entre o papel do sistema judiciário e dos serviços e organismos de saúde pública, especificamente na parte que é dirigida à prevenção e tratamento de toxicodependentes, não só em termos de qualidade como também de quantidade e com consequências a nível de dispersão territorial. Só assim será imaginável levantar uma barreira resistente à extensão de um fenómeno de raízes culturais mas com manifestações imediatas e bem visíveis na saúde do indivíduo.
+
+Ponto obrigatório de reflexão ao proceder-se a uma revisão de alguma envergadura terá de ser o modo como o sistema jurídico deve lidar com o consumo de drogas.
+
+Uma alteração radical da política legislativa em tal campo terá de se basear, não só no conhecimento profundo das últimas aquisições científicas sobre o efeito destas drogas na personalidade humana, como também na perscrutação minuciosa da sensibilidade das camadas sociais mais envolvidas (os jovens, os pais, as famílias em geral, os educadores, dada a sua influência cultural), sem o que essa medida necessariamente se transformará numa intervenção sem reflexão posterior.
+
+Abandonando, à partida, essa reavaliação, não deixou de se sopesar a posição seguida nos últimos anos, comparando-a com a de outros países geográfica e culturalmente próximos.
+
+Disse-se em 1983, no exórdio do Decreto-Lei n.º 430/83:
+
+Considera-se censurável socialmente o consumo de estupefacientes e de substâncias psicotrópicas, desde logo pela quebra de responsabilidade individual de cada cidadão perante os outros. Tal não significa, todavia, que o toxicodependente não deva ser encarado, em primeira linha, como alguém que necessita de assistência médica e que tudo deve ser feito para o tratar, por sua causa e também pela protecção devida aos restantes cidadãos.
+
+Em conformidade com tais afirmações, o consumidor de drogas é sancionado pela lei vigente de maneira quase simbólica, procurando-se que o contacto com o sistema formal da justiça sirva para o incentivar ao tratamento, na hipótese de ter sido atingido pela toxicodependência.
+
+Esta posição tem vindo a ganhar adeptos em países como a Itália e a Espanha, por exemplo.
+
+A posição mais dissonante do resto da Europa é a da Holanda, onde o consumo de droga na prática não é proibido. Arrogando-se de uma solução pragmática, não emocional nem dogmática, o centro de gravidade da actuação pretende-se localizado na saúde do consumidor, acreditando-se mais no controlo social que na eficácia da legislação.
+
+Esta postura vem merecendo a crítica de laxismo, desde logo nos próprios países nórdicos, eles também já experimentados em posições mais brandas, que foram progressivamente abandonando.
+
+Pode, porém, dizer-se que a generalidade dos países representados nas Nações Unidas receia que o invocado pragmatismo do tipo holandês abra brechas num combate cuja amplitude de danos na saúde, especialmente das camadas jovens, se perfila de uma gravidade tal, na conjuntura hoje vivida, que não haveria diques bastante para o travar, conhecida que é a capacidade dos traficantes para explorar novas situações e mercados.
+
+Neste sentido também caminha o Conselho da Europa - cf. pontos 9, 10 e 17 da Recomendação n.º <a href="eurlex.asp?ano=1991&id=391H1141" title="Link para Recomendação da Comunidade Europeia">1141</a> (1991), adoptada em 31 de Janeiro de 1991 pela Assembleia Parlamentar.
+
+Sendo certo, por outro lado, que não podendo, embora, descurar-se a forte componente economicista do fenómeno, aparece como muito arriscada uma transição de estratégia que assente fundamentalmente nas regras de oferta/procura e suas consequências nos preços, ainda que mesclada de ingredientes que pudessem assegurar o controlo essencial do «mercado» por órgãos públicos. Principalmente se essa transição se desse por forma brusca.
+
+Posto que muito longe do encerramento da discussão sobre tão controverso tema, não se vêem motivos para alteração na postura da legislação vigente quanto ao modo de intervenção do sistema jurídico-penal em matéria de consumo de droga.
+
+A censurabilidade implícita nessa intervenção - aliás, reduzida ao mínimo- será o complemento de coerência com a restante mensagem, quer a nível de prevenção, quer da própria relação terapêutica com o drogado, impregnada de um apelo constante ao seu sentido de responsabilidade na coesão de todo o restante tecido social a que, irremediavelmente, o seu destino o ligou.
+
+Por conseguinte, o ditame fundamental das alterações introduzidas neste ponto dirigir-se-á ao moldar da utensilagem jurídica no sentido de contribuir, no máximo da sua valência, para que o toxicodependente ou consumidor habitual se liberte da escravidão que o domina, mediante os incentivos adequados do tratamento médico e da reabilitação, que o tragam de volta para o cortejo da vida útil, se possível feliz, no seio da comunidade.
+
+Para os consumidores ocasionais, acima de tudo deseja-se a sua não etiquetagem, a não marginalização, enfim, que o seu semelhante o não empurre para becos sem saída ou que a saída acabe mesmo por ser a droga.
+
+A escolha diversificada de alternativas, conforme os casos, e a maleabilidade do sistema consituem a palavra de ordem, em colaboração estreita com as autoridades sanitárias.
+
+Para além da composição diversificada do grupo de trabalho que elaborou o estudo que fundamentou o presente diploma - com representantes dos sistemas da justiça, saúde, educação, juventude, finanças, comércio e turismo, do Banco de Portugal e da Ordem dos Advogados -, foram ouvidos o Conselho Superior da Magistratura, a Procuradoria-Geral da República, a Ordem dos Médicos e outras entidades, através do Conselho Nacional do Projecto VIDA.
+
+Foram também ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.
+
+Assim:
+
+No uso da autorização legislativa concedida pela Lei n.º 27/92, de 31 de Agosto, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma tem como objecto a definição do regime jurídico aplicável ao tráfico e consumo de estupefacientes e substâncias psicotrópicas.
+
+###### Artigo 2.º — Regras gerais e tabelas
+
+1 - As plantas, substâncias e preparações sujeitas ao regime previsto neste decreto-lei constam de seis tabelas anexas ao presente diploma.
+
+2 - As tabelas I a IV serão obrigatoriamente actualizadas, de acordo com as alterações aprovadas pelos órgãos próprios das Nações Unidas, segundo as regras previstas nas convenções ratificadas por Portugal.
+
+3 - As tabelas V e VI serão obrigatoriamente actualizadas, de acordo com as alterações aprovadas pelos órgãos próprios das Nações Unidas, segundo as regras previstas nas convenções ratificadas por Portugal ou por diploma das Comunidades Europeias.
+
+4 - O cultivo, a produção, o fabrico, o emprego, o comércio, a distribuição, a importação, a exportação, o trânsito, o transporte, a detenção por qualquer título e o uso de plantas, substâncias e preparações indicadas nos números anteriores ficam sujeitos aos condicionamentos definidos no presente diploma.
+
+5 - As regras necessárias à boa execução deste diploma, no que concerne à matéria referida no número anterior, constarão de decreto regulamentar, no qual se especificará ainda a margem de excedentes de cultivo, as quotas de fabrico, as entidades e empresas autorizadas a adquirir plantas, substâncias e preparações, as condições de entrega, os registos a elaborar, as comunicações e informações a prestar, os relatórios a fornecer, as características das embalagens e rótulos, as taxas pela concessão de autorizações e as coimas pela violação da regulamentação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+###### Artigo 3.º — Âmbito do controlo
+
+Ficam sujeitas a controlo todas as plantas, substâncias e preparações referidas nas convenções relativas a estupefacientes ou substâncias psicotrópicas ratificadas por Portugal e respectivas alterações, bem como outras substâncias incluídas nas tabelas anexas ao presente diploma.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+### Capítulo II — Autorizações, fiscalização e prescrições médicas
+
+###### Artigo 4.º — Licenciamentos, condicionamentos e autorizações
+
+1 - O Instituto Nacional da Farmácia e do Medicamento é a entidade competente a nível nacional para estabelecer condicionamentos e conceder autorizações para as actividades previstas no n.º 4 do artigo 2.º no que concerne às substâncias e preparações compreendidas nas tabelas I a IV, dentro dos limites estritos das necessidades do País, dando prevalência aos interesses de ordem médica, médico-veterinária, científica e didáctica.
+
+2 - A Direcção-Geral do Comércio Externo é a entidade competente a nível nacional para emitir a declaração de importação e a autorização de exportação das substâncias compreendidas nas tabelas V e VI.
+
+3 - A Direcção-Geral da Indústria é a autoridade competente a nível nacional para autorizar a produção e fabrico das substâncias compreendidas nas tabelas V e VI.
+
+4 - Antes de apreciar qualquer pedido de autorização, o Instituto Nacional da Farmácia e do Medicamento envia cópia do pedido ao Gabinete de Combate à Droga do Ministério da Justiça, que se pronunciará no prazo de 30 dias e, se for caso disso, ouvirá os departamentos adequados dos Ministérios da Agricultura, da Indústria e Energia e do Comércio e Turismo.
+
+5 - O despacho de autorização do presidente do Instituto Nacional da Farmácia e do Medicamento é publicado no Diário da República e estabelece as condições a observar pelo requerente, dele cabendo imediato recurso contencioso; havendo recurso hierárquico facultativo, este terá efeito meramente devolutivo.
+
+6 - Cada autorização genérica concedida pelo Instituto Nacional da Farmácia e do Medicamento não excederá o período de um ano, prorrogável.
+
+7 - O disposto neste artigo não prejudica as competências próprias dos Ministérios do Comércio e Turismo e da Indústria e Energia em matéria de licenciamento das operações de comércio externo ou de licenciamento da instalação e laboração de estabelecimentos industriais onde se fabriquem os produtos constantes das tabelas I a VI, respectivamente.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+###### Artigo 5.º — Competência fiscalizadora do Instituto Nacional da Farmácia e do Medicamento
+
+1 - Compete ao Instituto Nacional da Farmácia e do Medicamento fiscalizar as actividades autorizadas de cultivo, produção, fabrico, emprego, comércio por grosso, distribuição, importação, exportação, trânsito, aquisição, venda, entrega e detenção de plantas, substâncias e preparações compreendidas nas tabelas I a IV.
+
+2 - Na fiscalização das actividades autorizadas referidas no número anterior pode, a qualquer momento, ser feita inspecção às empresas, estabelecimentos ou locais e ser solicitada a exibição dos documentos ou registos respectivos.
+
+3 - As infracções detectadas são comunicadas às entidades competentes, para investigação criminal ou para a investigação e instrução contra-ordenacional.
+
+4 - Mediante portaria conjunta dos Ministros da Justiça, da Agricultura e da Saúde, será proibida a cultura de plantas ou arbustos dos quais se possam extrair substâncias estupefacientes, quando essa medida se revele a mais apropriada para proteger a saúde pública e impedir o tráfico de droga.
+
+5 - Idêntica medida pode ser adoptada quanto ao fabrico, preparação ou comercialização de substâncias estupefacientes ou preparações.
+
+###### Artigo 6.º — Natureza das autorizações
+
+1 - As autorizações são intransmissíveis, não podendo ser cedidas ou utilizadas por outrem a qualquer título.
+
+2 - Quando se trate de empresas com filiais ou depósitos é necessária uma autorização para cada um deles.
+
+3 - Dos pedidos de autorização deve constar a indicação dos responsáveis pela elaboração e conservação actualizada dos registos e pelo cumprimento das demais obrigações legais.
+
+###### Artigo 7.º — Requisitos subjectivos
+
+1 - Só podem ser concedidas autorizações a entidades cujos titulares ou representantes legais ofereçam suficientes garantias de idoneidade moral e profissional.
+
+2 - Compete ao Gabinete de Combate à Droga do Ministério da Justiça, a solicitação do Instituto Nacional da Farmácia e do Medicamento, verificar os elementos que permitem determinar as circunstâncias a que se refere o número anterior, socorrendo-se, se necessário, da colaboração das entidades que integram o Grupo de Coordenação do Combate ao Tráfico de Droga, no respeito pelos direitos, liberdades e garantias dos cidadãos.
+
+###### Artigo 8.º — Manutenção e caducidade da autorização
+
+1 - No caso de falecimento, substituição do titular ou mudança de firma, o requerimento de manutenção da autorização deve ser presente ao Instituto Nacional da Farmácia e do Medicamento no prazo de 60 dias.
+
+2 - A manutenção da autorização depende da verificação dos requisitos de idoneidade moral e profissional.
+
+3 - A autorização caduca em caso de cessação de actividade ou, nos casos previstos no n.º 1, se não for requerida a sua manutenção no prazo estabelecido.
+
+###### Artigo 9.º — Revogação ou suspensão da autorização
+
+1 - O Instituto Nacional da Farmácia e do Medicamento deve revogar a autorização concedida logo que deixem de verificar-se os requisitos exigidos para a concessão da mesma.
+
+2 - Pode ter lugar a revogação ou ser ordenada a suspensão até seis meses, conforme a gravidade, quando ocorrer acidente técnico, subtracção, deterioração de substâncias e preparações ou outra irregularidade passível de determinar risco significativo para a saúde ou para o abastecimento ilícito do mercado, bem como no caso de incumprimento das obrigações que impendem sobre o beneficiário da autorização.
+
+3 - Os despachos de revogação e de suspensão são publicados no Diário da República.
+
+###### Artigo 10.º — Efeitos da revogação da autorização
+
+1 - No caso de revogação da autorização, o Instituto Nacional da Farmácia e do Medicamento pode autorizar, a solicitação do interessado, a devolução das existências de substâncias e preparações compreendidas nas tabelas I a IV a quem as tenha fornecido ou a cedência a outras entidades, empresas autorizadas ou farmácias.
+
+2 - A devolução ou cedência deve ser requerida no prazo de 30 dias, a contar da data em que a revogação tiver sido publicada, da comunicação do despacho ministerial que a tiver confirmado ou do trânsito em julgado da decisão judicial confirmatória.
+
+3 - No decurso do prazo previsto no número anterior, as existências são inventariadas e guardadas em compartimento selado da empresa, por ordem do presidente do Instituto Nacional da Farmácia e do Medicamento, que pode promover a venda ou a destruição, se houver risco de deterioração ou de entrada ilícita no mercado, entregando o produto da venda ao proprietário, deduzidas as despesas feitas pelo Estado.
+
+###### Artigo 11.º — Importação e exportação das substâncias referidas nas tabelas anexas
+
+1 - As operações de importação e de colocação no mercado de substâncias compreendidas nas tabelas V e VI ficam submetidas ao regime de vigilância estatística prévia, e as de exportação ao regime de licenciamento, nos termos previstos no Decreto-Lei n.º 126/90, de 16 de Abril, e na Portaria n.º 628/90, de 7 de Agosto, bem como da regulamentação comunitária respectiva.
+
+2 - Sempre que existam indícios de que a importação ou a exportação de substâncias compreendidas nas tabelas V e VI se destinam a produção ou fabrico ilícitos de estupefacientes ou de substâncias psicotrópicas, as entidades responsáveis pela vigilância e pelo licenciamento informam de imediato a autoridade competente para a investigação.
+
+3 - A Direcção-Geral do Comércio Externo enviará ao Gabinete do Combate à Droga do Ministério da Justiça cópia das declarações de importação e das licenças de exportação das substâncias compreendidas nas tabelas V e VI.
+
+4 - A Direcção-Geral da Indústria, no âmbito da sua competência para a concessão de autorizações de fabrico ou produção de substâncias constantes das tabelas V e VI, pode adoptar as medidas adequadas ao controlo das referidas operações.
+
+5 - Para o exercício da sua competência, as entidades referidas nos números anteriores podem colher informações junto do Gabinete de Combate à Droga do Ministério da Justiça.
+
+6 - Aos fabricantes, importadores, exportadores, grossistas e retalhistas, licenciados ou autorizados a fabricar ou comercializar substâncias inscritas nas tabelas V e VI que tomaram conhecimento de encomendas ou operações suspeitas e, podendo fazê-lo, não informarem as autoridades fiscalizadoras nacionais pode ser retirada a licença ou revogada a autorização, sem prejuízo da aplicação de qualquer sanção criminal ou coima.
+
+7 - Mediante portaria conjunta dos Ministros das Finanças, da Justiça, da Agricultura, da Indústria e Energia e do Comércio e Turismo, pode ser proibida a produção, o fabrico, o emprego, o comércio, a distribuição, a importação, a exportação, o trânsito, o transporte, a detenção por qualquer título e o uso das substâncias inscritas nas tabelas V e VI, quando essa medida se revele a mais apropriada para proteger a saúde pública e impedir o tráfico ilícito de estupefacientes e de substâncias psicotrópicas.
+
+8 - A fiscalização, o controlo e a regulamentação previstos no presente artigo não prejudicam eventuais medidas mais estritas provenientes do direito comunitário.
+
+###### Artigo 12.º — Competência fiscalizadora da Inspecção-Geral das Actividades Económicas e da Direcção-Geral das Alfândegas
+
+1 - Sem prejuízo das competências das autoridades policiais e administrativas, e no sentido de evitar o desvio para fins ilícitos, cabe, respectivamente, à Inspecção-Geral das Actividades Económicas fiscalizar, entre outras, as actividades autorizadas de comércio por grosso, distribuição, aquisição, venda, transporte, entrega e detenção das substâncias compreendidas nas tabelas V e VI e à Direcção-Geral das Alfândegas fiscalizar as actividades de importação, exportação e trânsito.
+
+2 - Na fiscalização das actividades referidas no número anterior pode, a qualquer momento, ser feita inspecção às empresas, estabelecimentos ou locais e ser solicitada a exibição da documentação respectiva.
+
+3 - As infracções detectadas são comunicadas à autoridade competente para a investigação.
+
+4 - A Direcção-Geral das Alfândegas dá conhecimento à Inspecção-Geral das Actividades Económicas das operações de desalfandegamento que tenham por objecto as substâncias compreendidas nas tabelas V e VI, com identificação do importador, exportador e destinatário, quando conhecido.
+
+5 - Ao Gabinete do Combate à Droga do Ministério da Justiça é dado conhecimento da apreensão das substâncias compreendidas nas tabelas V e VI.
+
+###### Artigo 13.º — Circulação internacional de pessoas
+
+As pessoas que atravessem as fronteiras portuguesas podem transportar, para uso próprio, substâncias e preparações compreendidas nas tabelas I-A, I-C, II-B, II-C, III e IV, em quantidade não excedente à necessária para 30 dias de tratamento, desde que apresentem documento médico justificativo da necessidade do seu uso.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 9/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03](https://diariodarepublica.pt/dr/detalhe/lei/9-2023-208124551), em vigor a partir de 2023-03-04
+
+###### Artigo 14.º — Provisões para meios de transporte
+
+1 - É permitido o transporte internacional, em navios, aeronaves ou outros meios de transporte público internacional, de quantidades reduzidas de substâncias e preparações compreendidas nas tabelas I-A, II-B, II-C, III e IV, que se possam tornar necessárias durante a viagem para administração de primeiros socorros.
+
+2 - As substâncias e preparações devem ser transportadas em condições de segurança, de modo a evitar a sua subtracção ou descaminho.
+
+3 - As substâncias e preparações objecto de transporte, nos termos do n.º 1, ficam sujeitas às leis, regulamentos e licenças do país da matrícula, sem prejuízo da possibilidade de as autoridades portuguesas competentes procederem às verificações, inspecções ou quaisquer outras operações de controlo que se mostrem necessárias a bordo dos meios de transporte.
+
+###### Artigo 15.º — Prescrição médica
+
+1 - As substâncias e preparações compreendidas nas tabelas i a ii só são fornecidas ao público, para tratamento, mediante apresentação de receita médica especial com as especificidades constantes do diploma regulamentar.
+
+2 - As substâncias e preparações compreendidas nas tabelas iii a iv estão sujeitas a receita médica, nos termos da lei geral, sem prejuízo do disposto no número seguinte.
+
+3 - Mediante portaria do Ministro da Saúde, as substâncias e preparações compreendidas na tabela iv, podem ser sujeitas a receita especial, bem como a outras medidas de controlo previstas no diploma regulamentar para as substâncias e preparações compreendidas nas tabelas i a ii, sempre que tal se revele apropriado para proteger a saúde pública.
+
+4 - O modelo de receita médica relativa a substâncias e preparações compreendidas nas tabelas i a ii deve ser adaptado à forma electrónica, em termos a definir pelo diploma regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/2009 - Diário da República n.º 90/2009, Série I de 2009-05-11](https://diariodarepublica.pt/dr/detalhe/lei/18-2009-608228), em vigor a partir de 2009-05-12
+
+###### Artigo 16.º — Obrigações especiais dos farmacêuticos
+
+1 - Só o farmacêutico, ou quem o substitua na sua ausência ou impedimento, pode aviar receitas respeitantes a substâncias ou preparações compreendidas nas tabelas i e ii, devendo cumprir as regras sobre identificação previstas no diploma regulamentar.
+
+2 - O farmacêutico deve recusar-se a aviar as receitas que não obedeçam às condições impostas no artigo anterior.
+
+3 - Não poderá ser aviada a receita se tiverem decorrido 10 dias sobre a data de emissão, nem podem ser fornecidas mais de uma vez, com base na mesma receita, substâncias ou preparações compreendidas nas tabelas anexas.
+
+4 - As farmácias são obrigadas a manter existências regulares das substâncias ou preparações referidas no n.º 1 e a conservar as receitas em arquivo por prazo não superior a cinco anos, em termos a fixar por decreto regulamentar.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 18/2009 - Diário da República n.º 90/2009, Série I de 2009-05-11](https://diariodarepublica.pt/dr/detalhe/lei/18-2009-608228), em vigor a partir de 2009-05-12
+
+###### Artigo 17.º — Casos de urgente necessidade
+
+Em caso de urgente necessidade, podem os farmacêuticos, sob a sua responsabilidade e para uso imediato, forncer sem receita médica substâncias e preparações compreendidas nas tabelas I e II, desde que o total do fármaco não exceda a dose máxima para ser tomada de uma só vez.
+
+###### Artigo 18.º — Controlo de receituário
+
+1 - O Instituto Nacional da Farmácia e do Medicamento, em articulação com a Direcção-Geral da Saúde, procede, com recurso a meios informáticos, ao controlo do receituário aviado, ficando sujeitos ao segredo profissional todos aqueles que acedam a esta informação.
+
+2 - Os serviços de saúde do Estado ou privados enviam trimestralmente ao Instituto Nacional da Farmácia e do Medicamento uma relação dos estupefacientes utilizados em tratamento médico.
+
+###### Artigo 19.º — Proibição de entrega a demente ou menor
+
+1 - É proibida a entrega a indivíduos que padeçam de doença mental manifesta de substâncias e preparações compreendidas nas tabelas I a IV.
+
+2 - É proibida a entrega a menor de substâncias e preparações compreendidas nas tabelas I-A, II-B e II-C.
+
+3 - Se o menor não tiver quem o represente, a entrega pode ser feita à pessoa que o tenha a seu cargo ou esteja incumbida da sua educação ou vigilância.
+
+###### Artigo 20.º — Participação urgente
+
+1 - A subtracção ou extravio de substâncias e preparações compreendidas nas tabelas I a IV são participados, logo que conhecidos, à autoridade policial local e ao Instituto Nacional da Farmácia e do Medicamento, pela entidade responsável pela sua guarda, narrando circunstanciadamente os factos, indicando com rigor as quantidades e características das substâncias e preparações desaparecidas e fornecendo as provas de que dispuser.
+
+2 - Idêntico procedimento deve ser adoptado no caso de subtracção, inutilização ou extravio de registos exigidos pelo presente diploma e respectivo regulamento e de impressos para receitas médicas.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+### Capítulo III — Tráfico, branqueamento e outras infracções
+
+###### Artigo 21.º — Tráfico e outras actividades ilícitas
+
+1 - Quem, sem para tal se encontrar autorizado, cultivar, produzir, fabricar, extrair, preparar, oferecer, puser à venda, vender, distribuir, comprar, ceder ou por qualquer título receber, proporcionar a outrem, transportar, importar, exportar, fizer transitar ou ilicitamente detiver, fora dos casos previstos no artigo 40.º, plantas, substâncias ou preparações compreendidas nas tabelas I a III é punido com pena de prisão de 4 a 12 anos.
+
+2 - Quem, agindo em contrário de autorização concedida nos termos do capítulo II, ilicitamente ceder, introduzir ou diligenciar por que outrem introduza no comércio plantas, substâncias ou preparações referidas no número anterior é punido com pena de prisão de 5 a 15 anos.
+
+3 - Na pena prevista no número anterior incorre aquele que cultivar plantas, produzir ou fabricar substâncias ou preparações diversas das que constam do título de autorização.
+
+4 - Se se tratar de substâncias ou preparações compreendidas na tabela IV, a pena é a de prisão de um a cinco anos.
+
+###### Artigo 22.º — Precursores
+
+1 - Quem, sem se encontrar autorizado, fabricar, importar, exportar, transportar ou distribuir equipamento, materiais ou substâncias inscritas nas tabelas V e VI, sabendo que são ou vão ser utilizados no cultivo, produção ou fabrico ilícitos de estupefacientes ou substâncias psicotrópicas, é punido com pena de prisão de 2 a 10 anos.
+
+2 - Quem, sem se encontrar autorizado, detiver, a qualquer título, equipamento, materiais ou substâncias inscritas nas tabelas V e VI, sabendo que são ou vão ser utilizados no cultivo, produção ou fabrico ilícitos de estupefacientes ou substâncias psicotrópicas, é punido com pena de prisão de um a cinco anos.
+
+3 - Quando o agente seja titular de autorização nos termos do capítulo II, é punido:
+
+a) No caso do n.º 1, com pena de prisão de 3 a 12 anos;
+
+b) No caso do n.º 2, com pena de prisão de dois a oito anos.
+
+###### Artigo 23.º — Conversão, transferência ou dissimulação de bens ou produtos
+
+1 - Quem, sabendo que os bens ou produtos são provenientes da prática, sob qualquer forma de comparticipação, de infracção prevista nos artigos 21.º, 22.º, 24.º e 25.º:
+
+a) Converter, transferir, auxiliar ou facilitar alguma operação de conversão ou transferência desses bens ou produtos, no todo ou em parte, directa ou indirectamente, com o fim de ocultar ou dissimular a sua origem ilícita ou de auxiliar uma pessoa implicada na prática de qualquer dessas infracções a eximir-se às consequências jurídicas dos seus actos é punido com pena de prisão de 4 a 12 anos;
+
+b) Ocultar ou dissimular a verdadeira natureza, origem, localização, disposição, movimentação, propriedade desses bens ou produtos ou de direitos a eles relativos é punido com pena deprisão de 2 a 10 anos;
+
+c) Os adquirir ou receber a qualquer título, utilizar, deter ou conservar é punido com pena de prisão de um a cinco anos.
+
+2 - A punição pelos crimes previstos no número anterior não excederá a aplicável às correspondentes infracções dos artigos 21.º, 22.º, 24.º e 25.º
+
+3 - A punição pelos crimes previstos no n.º 1 tem lugar ainda que os factos referidos nos artigos 21.º, 22.º, 24.º e 25.º hajam sido praticados fora do território nacional.
+
+> Revogado pelo/a Artigo 55.º do/a [Lei n.º 11/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/lei/11-2004-210422), em vigor a partir de 2004-04-01
+
+###### Artigo 24.º — Agravação
+
+As penas previstas nos artigos 21.º e 22.º são aumentadas de um quarto nos seus limites mínimo e máximo se:
+
+a) As substâncias ou preparações foram entregues ou se destinavam a menores ou diminuídos psíquicos;
+
+b) As substâncias ou preparações foram distribuídas por grande número de pessoas;
+
+c) O agente obteve ou procurava obter avultada compensação remuneratória;
+
+d) O agente for funcionário incumbido da prevenção ou repressão dessas infracções;
+
+e) O agente for médico, farmacêutico ou qualquer outro técnico de saúde, funcionário dos serviços prisionais ou dos serviços de reinserção social, trabalhador dos correios, telégrafos, telefones ou telecomunicações, docente, educador ou trabalhador de estabelecimento de educação ou de trabalhador de serviços ou instituições de acção social e o facto for praticado no exercício da sua profissão;
+
+f) O agente participar em outras actividades criminosas organizadas de âmbito internacional;
+
+g) O agente participar em outras actividades ilegais facilitadas pela prática da infracção;
+
+h) A infracção tiver sido cometida em instalações de serviços de tratamento de consumidores de droga, de reinserção social, de serviços ou instituições de acção social, em estabelecimento prisional, unidade militar, estabelecimento de educação, ou em outros locais onde os alunos ou estudantes se dediquem à prática de actividades educativas, desportivas ou sociais, ou nas suas imediações;
+
+i) O agente utilizar a colaboração, por qualquer forma, de menores ou de diminuídos psíquicos;
+
+j) O agente actuar como membro de bando destinado à prática reiterada dos crimes previstos nos artigos 21.º e 22.º, com a colaboração de, pelo menos, outro membro do bando;
+
+l) As substâncias ou preparações foram corrompidas, alteradas ou adulteradas, por manipulação ou mistura, aumentando o perigo para a vida ou para a integridade física de outrem.
+
+> Alterado pelo/a Artigo 54.º do/a [Lei n.º 11/2004 - Diário da República n.º 74/2004, Série I-A de 2004-03-27](https://diariodarepublica.pt/dr/detalhe/lei/11-2004-210422), em vigor a partir de 2004-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 25.º — Tráfico de menor gravidade
+
+Se, nos casos dos artigos 21.º e 22.º, a ilicitude do facto se mostrar consideravelmente diminuída, tendo em conta nomeadamente os meios utilizados, a modalidade ou as circunstâncias da acção, a qualidade ou a quantidade das plantas, substâncias ou preparações, a pena é de:
+
+a) Prisão de um a cinco anos, se se tratar de plantas, substâncias ou preparações compreendidas nas tabelas I a III, V e VI;
+
+b) Prisão até 2 anos ou multa até 240 dias, no caso de substâncias ou preparações compreendidas na tabela IV.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+###### Artigo 26.º — Traficante-consumidor
+
+1 - Quando, pela prática de algum dos factos referidos no artigo 21.º, o agente tiver por finalidade exclusiva conseguir plantas, substâncias ou preparações para uso pessoal, a pena é de prisão até três anos ou multa, se se tratar de plantas, substâncias ou preparações compreendidas nas tabelas I a III, ou de prisão até 1 ano ou multa até 120 dias, no caso de substâncias ou preparações compreendidas na tabela IV.
+
+2 - A tentativa é punível.
+
+3 - Não é aplicável o disposto no n.º 1 quando o agente detiver plantas, substâncias ou preparações em quantidade que exceda a necessária para o consumo médio individual durante o período de cinco dias.
+
+###### Artigo 27.º — Abuso do exercício de profissão
+
+1 - As penas previstas nos artigos 21.º, n.os 2 e 4, e 25.º são aplicadas ao médico que passe receitas, ministre ou entregue substâncias ou preparações aí indicadas com fim não terapêutico.
+
+2 - As mesmas penas são aplicadas ao farmacêutico ou a quem o substitua na sua ausência ou impedimento que vender ou entregar aquelas substâncias ou preparações para fim não terapêutico.
+
+3 - Em caso de condenação nos termos dos números anteriores, o tribunal comunica as decisões à Ordem dos Médicos ou à Ordem dos Farmacêuticos.
+
+4 - A entrega de substâncias ou preparações a doente mental manifesto ou a menor, com violação do disposto no deve ler-se «artigo 19.º, é punida com pena de prisão até um 1 ano ou multa até 120 dias.
+
+5 - A tentativa é punível.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+###### Artigo 28.º — Associações criminosas
+
+1 - Quem promover, fundar ou financiar grupo, organização ou associação de duas ou mais pessoas que, actuando concertadamente, vise praticar algum dos crimes previstos nos artigos 21.º e 22.º é punido com pena de prisão de 10 a 25 anos.
+
+2 - Quem prestar colaboração, directa ou indirecta, aderir ou apoiar o grupo, organização ou associação referidos no número anterior é punido com pena de prisão de 5 a 15 anos.
+
+3 - Incorre na pena de 12 a 25 anos de prisão quem chefiar ou dirigir grupo, organização ou associação referidos no n.º 1.
+
+4 - Se o grupo, organização ou associação tiver como finalidade ou atividade a prática das condutas previstas nos n.os 3 a 5 do artigo 368.º-A do Código Penal face a vantagens ou a prática de recetação de coisas ou animais provenientes dos crimes previstos nos artigos 21.º e 22.º, o agente é punido:
+
+a) Nos casos dos n.os 1 e 3, com pena de prisão de 2 a 10 anos;
+
+b) No caso do n.º 2, com pena de prisão de um a oito anos.
+
+> Alterado pelo/a Artigo 15.º do/a [Lei n.º 58/2020 - Diário da República n.º 169/2020, Série I de 2020-08-31](https://diariodarepublica.pt/dr/detalhe/lei/58-2020-141382321), em vigor a partir de 2020-09-01
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 29.º — Incitamento ao uso de estupefacientes ou substâncias psicotrópicas
+
+1 - Quem induzir, incitar ou instigar outra pessoa, em público ou em privado, ou por qualquer modo facilitar o uso ilícito de plantas, substâncias ou preparações compreendidas nas tabelas I a III é punido com pena de prisão até três anos ou com pena de multa.
+
+2 - Se se tratar de substâncias ou preparações compreendidas na tabela IV, a pena é de prisão até 1 ano ou de multa até 120 dias.
+
+3 - Os limites mínimo e máximo das penas são aumentados de um terço se:
+
+a) Os factos foram praticados em prejuízo de menor, diminuído psíquico ou de pessoa que se encontrava ao cuidado do agente do crime para tratamento, educação, instrução, vigilância ou guarda;
+
+b) Ocorreu alguma das circunstâncias previstas nas alíneas d), e) ou h) do artigo 24.º
+
+###### Artigo 30.º — Tráfico e consumo em lugares públicos ou de reunião
+
+1 - Quem, sendo proprietário, gerente, director ou, por qualquer título, explorar hotel, restaurante, café, taberna, clube, casa ou recinto de reunião, de espectáculo ou de diversão, consentir que esse lugar seja utilizado para o tráfico ou uso ilícito de plantas, substâncias ou preparações incluídas nas tabelas I a IV é punido com pena de prisão de um a oito anos.
+
+2 - Quem, tendo ao seu dispor edifício, recinto vedado ou veículo, consentir que seja habitualmente utilizado para o tráfico ou uso ilícito de plantas, substâncias ou preparações incluídas nas tabelas I a IV é punido com pena de prisão de um a cinco anos.
+
+3 - Sem prejuízo do disposto nos números anteriores, aquele que, após a notificação a que se refere o número seguinte, não tomar as medidas adequadas para evitar que os lugares neles mencionados sejam utilizados para o tráfico ou o uso ilícito de plantas, substâncias ou preparações incluídas nas tabelas I a IV é punido com pena de prisão até cinco anos.
+
+4 - O disposto no número anterior só é aplicável após duas apreensões de plantas, substâncias ou preparações incluídas nas tabelas I a IV, realizadas por autoridade judiciária ou por órgão de polícia criminal, devidamente notificadas ao agente referido nos n.os 1 e 2, e não mediando entre elas período superior a um ano, ainda que sem identificação dos detentores.
+
+5 - Verificadas as condições referidas nos n.os 3 e 4, a autoridade competente para a investigação dá conhecimento dos factos à autoridade administrativa que concedeu a autorização de abertura do estabelecimento, que decide sobre o encerramento.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 114/2011 - Diário da República n.º 230/2011, Série I de 2011-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2011-146221), em vigor a partir de 2011-01-01
+
+###### Artigo 31.º — Atenuação ou dispensa de pena
+
+Se, nos casos previstos nos artigos 21.º, 22.º, 23.º e 28.º, o agente abandonar voluntariamente a sua actividade, afastar ou fizer diminuir por forma considerável o perigo produzido pela conduta, impedir ou se esforçar seriamente por impedir que o resultado que a lei quer evitar se verifique, ou auxiliar concretamente as autoridades na recolha de provas decisivas para a identificação ou a captura de outros responsáveis, particularmente tratando-se de grupos, organizações ou associações, pode a pena ser-lhe especialmente atenuada ou ter lugar a dispensa de pena.
+
+###### Artigo 32.º — Abandono de seringas
+
+Quem, em lugar público ou aberto ao público, em lugar privado mas de uso comum, abandonar seringa ou outro instrumento usado no consumo ilícito de estupefacientes ou substâncias psicotrópicas, criando deste modo perigo para a vida ou a integridade física de outra pessoa, é punido com pena de prisão até 1 ano ou com pena de multa até 120 dias, se pena mais grave lhe não couber por força de outra disposição legal.
+
+###### Artigo 33.º — Desobediência qualificada
+
+1 - Quem se opuser a actos de fiscalização ou se negar a exibir os documentos exigidos pelo presente diploma, depois de advertido das consequências penais da sua conduta, é punido com a pena correspondente ao crime de desobediência qualificada.
+
+2 - Incorre em igual pena quem não cumprir em tempo as obrigações impostas pelo artigo 20.º
+
+###### Artigo 33.º-A — Responsabilidade penal das pessoas colectivas e equiparadas
+
+As pessoas colectivas e entidades equiparadas são responsáveis, nos termos gerais, pelos crimes previstos na presente lei.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 59/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142), em vigor a partir de 2007-09-15
+
+###### Artigo 34.º — Expulsão de estrangeiros e encerramento de estabelecimento
+
+1 - Sem prejuízo do disposto no artigo 48.º, em caso de condenação por crime previsto no presente diploma, se o arguido for estrangeiro, o tribunal pode ordenar a sua expulsão do País, por período não superior a 10 anos, observando-se as regras comunitárias quanto aos nacionais dos Estados membros da Comunidade Europeia.
+
+2 - Na sentença condenatória pela prática de crime previsto no artigo 30.º, e independentemente da interdição de profissão ou actividade, pode ser decretado o encerramento do estabelecimento ou lugar público onde os factos tenham ocorrido, pelo período de um a cinco anos.
+
+3 - Tendo havido prévio encerramento ordenado judicial ou administrativamente, o período decorrido será levado em conta na sentença.
+
+4 - Se o réu for absolvido, cessará imediatamente o encerramento ordenado administrativamente.
+
+> Nota: [Acórdão n.º 232/2004 - Diário da República n.º 122/2004, Série I-A de 2004-05-25](https://diariodarepublica.pt/dr/detalhe/acordao/232-2004-252205) Declara a inconstitucionalidade, com força obrigatória geral, da norma constante do artigo 34.º, n.º 1, do Decreto-Lei n.º 15/93, de 22 de Janeiro, enquanto aplicável a cidadãos estrangeiros que tenham a seu cargo filhos menores de nacionalidade portuguesa residentes em território nacional
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+###### Artigo 35.º — Perda de objectos
+
+1 - São declarados perdidos a favor do Estado os objectos que tiverem servido ou estivessem destinados a servir para a prática de uma infracção prevista no presente diploma ou que por esta tiverem sido produzidos.
+
+2 - As plantas, substâncias e preparações incluídas nas tabelas I a IV são sempre declaradas perdidas a favor do Estado.
+
+3 - O disposto nos números anteriores tem lugar ainda que nenhuma pessoa determinada possa ser punida pelo facto.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 36.º — Perda de coisas ou direitos relacionados com o facto
+
+1 - Toda a recompensa dada ou prometida aos agentes de uma infracção prevista no presente diploma, para eles ou para outrem, é perdida a favor do Estado.
+
+2 - São também perdidos a favor do Estado, sem prejuízo dos direitos de terceiro de boa fé, os objectos, direitos e vantagens que, através da infracção, tiverem sido directamente adquiridos pelos agentes, para si ou para outrem.
+
+3 - O disposto nos números anteriores aplica-se aos direitos, objectos ou vantagens obtidos mediante transacção ou troca com os direitos, objectos ou vantagens directamente conseguidos por meio da infracção.
+
+4 - Se a recompensa, os direitos, objectos ou vantagens referidos nos números anteriores não puderem ser apropriados em espécie, a perda é substituída pelo pagamento ao Estado do respectivo valor.
+
+5 - Estão compreendidos neste artigo, nomeadamente, os móveis, imóveis, aeronaves, barcos, veículos, depósitos bancários ou de valores ou quaisquer outros bens de fortuna.
+
+###### Artigo 36.º-A — Defesa de direitos de terceiros de boa fé
+
+1 - O terceiro que invoque a titularidade de coisas, direitos ou objectos sujeitos a apreensão ou outras medidas legalmente previstas aplicadas a arguidos por infracções previstas no presente diploma pode deduzir no processo a defesa dos seus direitos, através de requerimento em que alegue a sua boa fé, indicando logo todos os elementos de prova.
+
+2 - Entende-se por boa fé a ignorância desculpável de que os objectos estivessem nas situações previstas no n.º 1 do artigo 35.º
+
+3 - O requerimento a que se refere o n.º 1 é autuado por apenso, notificando-se o Ministério Público para, em 10 dias, deduzir oposição.
+
+4 - Realizadas as diligências que considerar necessárias, o juiz decide.
+
+5 - Se, quanto à titularidade dos objectos, coisas ou direitos, a questão se revelar complexa ou susceptível de causar perturbação ao normal andamento do processo, pode o juiz remeter o terceiro para os meios cíveis.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 37.º — Bens transformados, convertidos ou misturados
+
+1 - Se as recompensas, objectos, direitos ou vantagens a que se refere o artigo anterior tiverem sido transformados ou convertidos em outros bens, são estes perdidos a favor do Estado em substituição daqueles.
+
+2 - Se as recompensas, objectos, direitos ou vantagens a que se refere o artigo anterior tiverem sido misturados com bens licitamente adquiridos, são estes perdidos a favor do Estado até ao valor estimado daqueles que foram misturados.
+
+###### Artigo 38.º — Lucros e outros benefícios
+
+O disposto nos artigos 35.º a 37.º é também aplicável aos juros, lucros e outros benefícios obtidos com os bens neles referidos.
+
+###### Artigo 39.º — Destino dos bens declarados perdidos a favor do Estado
+
+1 - As recompensas, objectos, direitos ou vantagens declarados perdidos a favor do Estado, nos termos dos artigos 35.º a 38.º, revertem:
+
+a) Em 30% para a entidade coordenadora do Programa Nacional de Combate à Droga, destinando-se ao apoio de acções, medidas e programas de prevenção do consumo de droga;
+
+b) Em 50% para o Ministério da Saúde, visando a implementação de estruturas de consulta, tratamento e reinserção de toxicodependentes;
+
+c) Em 20% para os organismos do Ministério da Justiça, nos termos das disposições legais aplicáveis ao destino do produto da venda de objectos apreendidos em processo penal, visando o tratamento e reinserção social de toxicodependentes em cumprimento de medidas penais ou tutelares.
+
+2 - A alienação de veículos automóveis fica sujeita a anuência prévia da Direcção-Geral do Património do Estado, sem prejuízo do disposto no artigo 156.º do Decreto-Lei n.º 295-A/90, de 21 de Setembro.
+
+3 - Não são alienados os bens, objectos ou instrumentos declarados perdidos a favor do Estado que, pela sua natureza ou características, possam vir a ser utilizados na prática de outras infracções, devendo ser destruídos no caso de não oferecerem interesse criminalístico, científico ou didáctico.
+
+4 - Na falta de convenção internacional, os bens ou produtos apreendidos a solicitação de autoridades de Estado estrangeiro ou os fundos provenientes da sua venda são repartidos entre o Estado requerente e o Estado requerido, na proporção de metade.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+### Capítulo IV — Consumo e tratamento
+
+###### Artigo 40.º — Consumo
+
+1 - Quem, para o seu consumo, cultivar plantas, substâncias ou preparações compreendidas nas tabelas i a iv é punido com pena de prisão até 3 meses ou com pena de multa até 30 dias.
+
+2 - A aquisição e a detenção para consumo próprio das plantas, substâncias ou preparações referidas no número anterior constitui contraordenação.
+
+3 - A aquisição e a detenção das plantas, substâncias ou preparações referidas no n.º 1 que exceda a quantidade necessária para o consumo médio individual durante o período de 10 dias constitui indício de que o propósito pode não ser o de consumo.
+
+4 - No caso de aquisição ou detenção das substâncias referidas no n.º 1 que exceda a quantidade prevista no número anterior e desde que fique demonstrado que tal aquisição ou detenção se destinam exclusivamente ao consumo próprio, a autoridade judiciária competente determina, consoante a fase do processo, o seu arquivamento, a não pronúncia ou a absolvição e o encaminhamento para comissão para a dissuasão da toxicodependência.
+
+5 - No caso do n.º 1, o agente pode ser dispensado de pena.
+
+> Nota: [Lei n.º 30/2000 - Diário da República n.º 276/2000, Série I-A de 2000-11-29](https://diariodarepublica.pt/dr/detalhe/lei/30-2000-599720) O artigo 40.º é revogado pela Lei n.º 30/2000, de 29 de Novembro, excepto quanto ao cultivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/lei/55-2023-221432122), em vigor a partir de 2023-10-01
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 30/2000 - Diário da República n.º 276/2000, Série I-A de 2000-11-29](https://diariodarepublica.pt/dr/detalhe/lei/30-2000-599720), em vigor a partir de 2001-07-01
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+###### Artigo 41.º — Tratamento espontâneo
+
+1 - Quem utilize ilicitamente, para consumo individual, plantas, substâncias ou preparações compreendidas nas tabelas I a IV e solicite a assistência de serviços de saúde do Estado ou particulares terá a garantia de anonimato.
+
+2 - Se se tratar de menor, interdito ou inabilitado, a assistência solicitada pelos seus representantes legais será prestada nas mesmas condições.
+
+3 - Os médicos, técnicos e restante pessoal do estabelecimento que assistam o paciente estão sujeitos ao dever de segredo profissional, não sendo obrigados a depor em tribunal ou a prestar informações às entidades policiais sobre a natureza e evolução do processo terapêutico.
+
+4 - Ressalvado o disposto no número anterior, qualquer médico pode assinalar aos serviços de saúde do Estado os casos de abuso de plantas, substâncias estupefacientes ou psicotrópicas que constate no exercício da sua actividade profissional, quando entenda que se justificam medidas de tratamento ou assistência no interesse do paciente, dos seus familiares ou da comunidade, para as quais não disponha de meios.
+
+> Revogado pelo/a Artigo 28.º do/a [Lei n.º 30/2000 - Diário da República n.º 276/2000, Série I-A de 2000-11-29](https://diariodarepublica.pt/dr/detalhe/lei/30-2000-599720), em vigor a partir de 2001-07-01
+
+###### Artigo 42.º — Atendimento e tratamento de consumidores
+
+1 - O Ministério da Saúde desenvolverá, através dos serviços respectivos, as acções necessárias à prestação de atendimento gratuito a toxicodependentes ou outros consumidores.
+
+2 - Os cidadãos sujeitos a tratamento nos termos do presente diploma, no âmbito de processo em curso ou de suspensão de execução de pena, terão acesso urgente aos serviços de saúde competentes.
+
+3 - O Ministro da Saúde estabelecerá, mediante portaria, as condições em que entidades privadas podem atender e tratar toxicodependentes, bem como o tipo de fiscalização a que ficam sujeitas.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 43.º — Exame médico a consumidores habituais
+
+1 - Se houver indícios de que uma pessoa é consumidora habitual de plantas, substâncias ou preparações referidas nas tabelas I a IV, assim pondo em grave risco a sua saúde ou revelando perigosidade social, pode ser ordenado, pelo Ministério Público da comarca da sua residência, exame médico adequado.
+
+2 - O exame é da iniciativa do Ministério Público ou pode ser-lhe requerido pelo representante legal, cônjuge, autoridade sanitária ou policial, devendo, em qualquer caso, proceder às diligências necessárias ao apuramento dos indícios a que se refere o número anterior.
+
+3 - O exame é deferido a médico ou serviço especializado de saúde, público ou privado, e realizar-se-á em prazo não superior a 30 dias, observando-se, com as necessárias adaptações, o regime do processo penal, nomeadamente quanto a obrigação de comparência, podendo os peritos prestar compromisso para intervir em mais de um exame ou processo.
+
+4 - O examinando pode ser sujeito a análise de sangue ou de urina ou outra que se mostre necessária.
+
+5 - Se no exame se concluir pela toxicodependência da pessoa a ele sujeita, o magistrado do Ministério Público propor-lhe-á a sujeição voluntária a tratamento, o qual, se aceite, se efectuará sob a responsabilidade de serviço especializado de saúde, público ou privado.
+
+6 - No caso de interrupção injustificada do tratamento ou de recusa de sujeição ao mesmo, o magistrado comunicará os factos ao Instituto de Reinserção Social e, se for caso disso, aos serviços de saúde, para adopção das medidas de apoio adequadas.
+
+###### Artigo 44.º — Suspensão da pena e obrigação de tratamento
+
+1 - Se o arguido tiver sido condenado pela prática do crime previsto no artigo 40.º, ou de outro que com ele se encontre numa relação directa de conexão e tiver sido considerado toxicodependente nos termos do artigo 52.º, pode o tribunal suspender a execução da pena de acordo com a lei geral, sob condição, para além de outros deveres ou regras de conduta adequados, de se sujeitar voluntariamente a tratamento ou a internamento em estabelecimento apropriado, o que comprovará pela forma e no tempo que o tribunal determinar.
+
+2 - Se durante o período da suspensão da execução da pena o toxicodependente culposamente não se sujeitar ao tratamento ou ao internamento ou deixar de cumprir qualquer dos outros deveres ou regras de conduta impostos pelo tribunal, aplica-se o disposto na lei penal para a falta de cumprimento desses deveres ou regras de conduta.
+
+3 - Revogada a suspensão, o cumprimento da pena terá lugar em zona apropriada do estabelecimento prisional.
+
+4 - O toxicodependente é assitido pelos serviços médicos próprios do estabelecimento prisional ou, se necessário, pelos serviços do Ministério da Saúde, em condições a acordar com o Ministério da Justiça.
+
+5 - O regime de assistência do recluso através de entidades privadas ou do recurso a modalidades de tratamento que tenham implicações no regime prisional é estabelecido por portaria do Ministro da Justiça.
+
+###### Artigo 45.º — Suspensão com regime de prova
+
+1 - O tribunal, no caso a que se refere o artigo anterior, pode determinar, nos termos da lei geral, que a suspensão seja acompanhada de regime de prova, se o considerar conveniente e adequado a facilitar a recuperação do toxicodependente e a sua reinserção na sociedade.
+
+2 - O plano individual de recuperação e reinserção é preparado e acompanhado na sua execução pelos serviços de saúde, articuladamente com o Instituto de Reinserção Social, sob a responsabilidade de uns ou de outro, conforme o tribunal considerar mais adequado à situação, obtendo-se, sempre que possível, o acordo do visado.
+
+3 - A decisão do tribunal pode ser tomada antes da apresentação do plano individual, fixando-se, nesse caso, um prazo razoável para apresentação do mesmo.
+
+4 - Aplica-se correspondentemente o disposto nos n.os 2 a 4 do artigo anterior.
+
+###### Artigo 46.º — Toxidependente em prisão preventiva ou em cumprimento de pena de prisão
+
+1 - Compete aos serviços prisionais, em colaboração com os serviços de saúde, assegurar os meios e estruturas adequados ao tratamento de toxicodependentes em prisão preventiva ou em cumprimento de pena em estabelecimentos prisionais.
+
+2 - Se o estado de toxicodependência for detectado quando a pessoa se encontra detida, em prisão preventiva ou em cumprimento de pena, os serviços policiais ou prisionais comunicam o facto ao Ministério Público a fim de promover as medidas adequadas, sem prejuízo das que a urgência da situação justificar.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 47.º — Tratamento no âmbito de processo pendente
+
+1 - Sempre que o tratamento, em qualquer das modalidades seguidas, decorra no âmbito de um processo pendente em tribunal, o médico ou o estabelecimento enviam, de três em três meses, se outro período não for fixado, uma informação sobre a evolução da pessoa a ele sujeita, com respeito pela confidencialidade da relação terapêutica, podendo sugerir as medidas que entendam convenientes.
+
+2 - O Instituto de Reinserção Social procede de modo idêntico na esfera das suas atribuições.
+
+3 - Após a recepção da informação referida nos números anteriores, o tribunal pronuncia-se, se o entender necesário, sobre a situação processual do visado.
+
+4 - As normas do presente diploma prevalecem sobre as relativas ao internamento em regime fechado previstas nos diplomas de saúde mental.
+
+### Capítulo V — Legislação subsidiária
+
+###### Artigo 48.º — Legislação penal
+
+Quanto à matéria constante do presente diploma são aplicáveis, subsidiariamente, as disposições da parte geral do Código Penal e respectiva legislação complementar.
+
+###### Artigo 49.º — Aplicação da lei penal portuguesa
+
+Para efeitos do presente diploma, a lei penal portuguesa é ainda aplicável a factos cometidos fora do território nacional:
+
+a) Quando praticados por estrangeiros, desde que o agente se encontre em Portugal e não seja extraditado;
+
+b) Quando praticados a bordo de navio contra o qual Portugal tenha sido autorizado a tomar as medidas previstas no artigo 17.º da Convenção das Nações Unidas contra o Tráfico Ilícito de Estupefacientes e de Substâncias Psicotrópicas de 1988.
+
+###### Artigo 49.º-A — Liberdade condicional
+
+Tratando-se de condenação a pena de prisão superior a cinco anos pela prática de crime previsto nos artigos 21.º a 23.º e 28.º, a liberdade condicional apenas poderá ter lugar quando se encontrarem cumpridos dois terços da pena e uma vez verificados os requisitos das alíneas a) e b) do n.º 2 do artigo 61.º do Código Penal.
+
+> Revogado pelo/a Artigo 11.º do/a [Lei n.º 59/2007 - Diário da República n.º 170/2007, Série I de 2007-09-04](https://diariodarepublica.pt/dr/detalhe/lei/59-2007-640142), em vigor a partir de 2007-09-15
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 50.º — Medidas respeitantes a menores
+
+Compete aos tribunais com jurisdição na área de menores a aplicação das medidas previstas neste diploma, com as devidas adaptações, quando a pessoa a elas sujeita for menor, nos termos da legislação especial de menores, e sem prejuízo da aplicação pelos tribunais comuns da legislação respeitante a jovens dos 16 aos 21 anos.
+
+###### Artigo 51.º — Legislação processual penal
+
+1 - Para efeitos do disposto no Código de Processo Penal, e em conformidade com o n.º 2 do artigo 1.º do mesmo Código, consideram-se equiparadas a casos de terrorismo, criminalidade violenta ou altamente organizada as condutas que integrem os crimes previstos nos artigos 21.º a 24.º e 28.º deste diploma.
+
+2 - Na falta de disposição específica do presente diploma, são aplicáveis subsidiariamente as normas do Código de Processo Penal e legislação complementar.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+###### Artigo 52.º — Perícia médico-legal
+
+1 - Logo que, no decurso do inquérito ou da instrução, haja notícia de que o arguido era toxicodependente à data dos factos que lhe são imputados, é ordenada a realização urgente de perícia adequada à determinação do seu estado.
+
+2 - Na medida do possível, o perito deve pronunciar-se sobre a natureza dos produtos consumidos pelo arguido, o seu estado no momento da realização da perícia e os eventuais reflexos do consumo na capacidade de avaliar a ilicitude dos seus actos ou de se determinar de acordo com a avaliação feita.
+
+3 - Pode ser ordenada, quando tal se revele necessário, a realização das análises a que se refere o n.º 4 do artigo 43.º
+
+###### Artigo 53.º — Revista e perícia
+
+1 - Quando houver indícios de que alguém oculta ou transporta no seu corpo estupefacientes ou substâncias psicotrópicas, é ordenada revista e, se necessário, procede-se a perícia.
+
+2 - O visado pode ser conduzido a unidade hospitalar ou a outro estabelecimento adequado e aí permanecer pelo tempo estritamente necessário à realização da perícia.
+
+3 - Na falta de consentimento do visado, mas sem prejuízo do que se refere no n.º 1 do artigo anterior, a realização da revista ou perícia depende de prévia autorização da autoridade judiciária competente, devendo esta, sempre que possível, presidir à diligência.
+
+4 - Quem, depois de devidamente advertido das consequências penais do seu acto, se recusar a ser submetido a revista ou a perícia autorizada nos termos do número anterior é punido com pena de prisão até 2 anos ou com pena de multa até 240 dias.
+
+###### Artigo 54.º — Prisão preventiva
+
+1 - Sempre que o crime imputado for de tráfico de droga, desvio de precursores, branqueamento de capitais ou de associação criminosa, é correspondentemente aplicável o disposto no n.º 1 do artigo 209.º do Código de Processo Penal, devendo ainda o juiz tomar especialmente em conta os recursos económicos do arguido utilizáveis para suportar a quebra da caução e o perigo de continuação da actividade criminosa, em termos nacionais e internacionais.
+
+2 - Antes de se pronunciar sobre a subsistência dos pressupostos da prisão preventiva de acordo com o artigo 213.º do Código de Processo Penal, o Ministério Público colherá do departamento competente da Polícia Judiciária a informação actualizada que possa interessar ao reexame daqueles pressupostos.
+
+3 - Quando o procedimento se reporte a um dos crimes referidos no n.º 1, é aplicável o disposto no n.º 3 do artigo 215.º do Código de Processo Penal.
+
+> Revogado pelo/a Artigo 5.º do/a [Lei n.º 48/2007 - Diário da República n.º 166/2007, Série I de 2007-08-29](https://diariodarepublica.pt/dr/detalhe/lei/48-2007-641082), em vigor a partir de 2007-09-15
+
+###### Artigo 55.º — Medida de coacção
+
+1 - Se o crime imputado for punível com pena de prisão de máximo superior a três anos e o arguido tiver sido considerado toxicodependente, nos termos do artigo 52.º, pode o juiz impor, sem prejuízo do disposto no Código de Processo Penal, a obrigação de tratamento em estabelecimento adequado, onde deve apresentar-se no prazo que lhe for fixado.
+
+2 - A obrigação de tratamento é comunicada ao respectivo estabelecimento, podendo o juiz solicitar o apoio dos serviços do Instituto de Reinserção Social para acompanhamento do arguido toxicodependente.
+
+3 - O arguido comprova perante o tribunal o cumprimento da obrigação, na forma e tempo que lhe forem fixados.
+
+4 - A prisão preventiva não é imposta a arguido que tenha em curso um programa de tratamento de toxicodependência, salvo se existirem, em concreto, necessidades cautelares de especial relevância.
+
+5 - Se a prisão preventiva tiver de ser ordenada, executa-se em zona apropriada do estabelecimento prisional.
+
+6 - É aplicável o regime previsto no n.º 5 do artigo 44.º
+
+###### Artigo 56.º — Suspensão provisória do processo
+
+1 - (Revogado).
+
+2 - Na aplicação da suspensão do processo, para além das regras de conduta a que se refere o n.º 2 do artigo 281.º do Código de Processo Penal, impor-se-á ao arguido, verificado o estado de toxicodependência, o tratamento ou internamento em estabelecimento apropriado, aplicando-se o disposto no artigo 47.º
+
+3 - São apreendidas e declaradas perdidas a favor do Estado as substâncias e preparações que tiverem servido ou estivessem destinadas a servir para a prática dos crimes.
+
+> Alterado pelo/a Artigo 26.º do/a [Lei n.º 38/2009 - Diário da República n.º 138/2009, Série I de 2009-07-20](https://diariodarepublica.pt/dr/detalhe/lei/38-2009-492377), em vigor a partir de 2009-09-01
+
+### Capítulo VI — Regras especiais
+
+###### Artigo 57.º — Investigação criminal
+
+1 - Presume-se deferida à Polícia Judiciária, através da Direcção Central de Investigação do Tráfico de Estupefacientes, a competência para a investigação dos crimes tipificados nos artigos 21.º, 22.º, 23.º, 27.º e 28.º do presente diploma e dos demais que lhe sejam participados ou de que colha notícia.
+
+2 - Presume-se deferida à Guarda Nacional Republicana e Polícia de Segurança Pública a competência para a investigação dos seguintes crimes, praticados nas respectivas áreas de jurisdição, quando lhes forem participados ou deles colham notícia:
+
+a) Do crime previsto e punido no artigo 21.º do presente diploma, quando ocorram situações de distribuição directa aos consumidores, a qualquer título, das plantas, substâncias ou preparações nele referidas;
+
+b) Dos crimes previstos e punidos nos artigos 26.º, 29.º, 30.º, 32.º, 33.º e 40.º do presente diploma.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 81/95 - Diário da República n.º 95/1995, Série I-A de 1995-04-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1995-223469), em vigor a partir de 1995-04-27
+
+###### Artigo 58.º — Cooperação internacional
+
+Em observância da Convenção das Nações Unidas contra o Tráfico de Estupefacientes e de Substâncias Psicotrópicas de 1988, no tocante a extradição, auxílio judiciário mútuo, execução de sentenças penais estrangeiras e transmissão de processos criminais, aplicam-se subsidiariamente as disposições do Decreto-Lei n.º 43/91, de 22 de Janeiro.
+
+###### Artigo 59.º — Condutas não puníveis
+
+1 - Não é punível a conduta de funcionário de investigação criminal ou de terceiro actuando sob controlo da Polícia Judiciária que, para fins de prevenção ou repressão criminal, com ocultação da sua qualidade e identidade, aceitar, detiver, guardar, transportar ou, em sequência e a solicitação de quem se dedique a essas actividades, entregar estupefacientes, substâncias psicotrópicas, precursores e outros produtos químicos susceptíveis de desvio para o fabrico ilícito de droga ou precursor.
+
+2 - A actuação referida no n.º 1 depende de prévia autorização da autoridade judiciária competente, a proferir no prazo máximo de cinco dias e a conceder por período determinado.
+
+3 - Se, por razões de urgência, não for possível obter a autorização referida no número anterior, deve a intervenção ser validada no primeiro dia útil posterior, fundamentando-se as razões da urgência.
+
+4 - A Polícia Judiciária fará o relato da intervenção do funcionário ou do terceiro à autoridade judiciária competente no prazo máximo de quarenta e oito horas após o termo daquela.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 101/2001 - Diário da República n.º 197/2001, Série I-A de 2001-08-25](https://diariodarepublica.pt/dr/detalhe/lei/101-2001-515636), em vigor a partir de 2001-08-30
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 59.º-A — Protecção de funcionário e de terceiro infiltrados
+
+1 - A autoridade judiciária só ordenará a junção ao processo do relato a que se refere o n.º 4 do artigo anterior se a reputar absolutamente indispensável em termos probatórios.
+
+2 - A apreciação da indispensabilidade pode ser remetida para o termo do inquérito ou da instrução, ficando entretanto o expediente, mediante prévio registo, na posse da Polícia Judiciária.
+
+3 - No caso de o juiz determinar, por indispensabilidade da prova, a comparência em audiência de julgamento do funcionário ou do terceiro infiltrados, observará sempre o disposto na segunda parte do n.º 1 do artigo 87.º do Código de Processo Penal.
+
+> Revogado pelo/a Artigo 7.º do/a [Lei n.º 101/2001 - Diário da República n.º 197/2001, Série I-A de 2001-08-25](https://diariodarepublica.pt/dr/detalhe/lei/101-2001-515636), em vigor a partir de 2001-08-30
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 60.º — Prestação de informações e apresentação de documentos
+
+1 - Podem ser pedidas informações e solicitada a apresentação de documentos respeitantes a bens, depósitos ou quaisquer outros valores pertencentes a indivíduos suspeitos ou arguidos da prática de crimes previstos nos artigos 21.º a 23.º, 25.º e 28.º, com vista à sua apreensão e perda para o Estado.
+
+2 - A prestação de tais informações ou a apresentação dos documentos, quer se encontrem em suporte manual ou informático, não podem ser recusados por quaisquer entidades, públicas ou privadas, nomeadamente pelas instituições bancárias, financeiras ou equiparadas, por sociedades civis ou comerciais, bem como por quaisquer repartições de registo ou fiscais, desde que o pedido se mostre individualizado e suficientemente concretizado.
+
+3 - O pedido a que se referem os números anteriores é formulado pela autoridade judiciária competente, devendo, se respeitar a instituições bancárias, financeiras ou equiparadas, ser formulado através do Banco de Portugal.
+
+4 - A individualização e a concretização a que alude o n.º 2 pode bastar-se com a identificação do suspeito ou do arguido.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+###### Artigo 61.º — Entregas controladas
+
+1 - Pode ser autorizada, caso a caso, pelo Ministério Público, a não actuação da Polícia Judiciária sobre os portadores de substâncias estupefacientes ou psicotrópicas em trânsito por Portugal, com a finalidade de proporcionar, em colaboração com o país ou países destinatários e outros eventuais países de trânsito, a identificação e arguição do maior número de participantes nas diversas operações de tráfico e distribuição, mas sem prejuízo do exercício da acção penal pelos factos aos quais a lei portuguesa é aplicável.
+
+2 - A autorização só é concedida, a pedido de país destinatário, desde que:
+
+a) Seja conhecido detalhadamente o itinerário provável dos portadores e a identificação suficiente destes;
+
+b) Seja garantida pelas autoridades competentes dos países de destino e dos países de trânsito a segurança das substâncias contra riscos de fuga ou extravio;
+
+c) Seja assegurado pelas autoridades competentes dos países de destino ou trânsito que a sua legislação prevê as sanções penais adequadas contra os arguidos e que a acção penal será exercida;
+
+d) As autoridades judiciárias competentes dos países de destino ou de trânsito se comprometam a comunicar, com urgência, informação pormenorizada sobre os resultados da operação e os pormenores da acção desenvolvida por cada um dos agentes da prática dos crimes, especialmente dos que agiram em Portugal.
+
+3 - Apesar de concedida a autorização mencionada anteriormente, a Polícia Judiciária intervém se as margens de segurança tiverem diminuído sensivelmente, se se verificar alteração imprevista de itinerário ou qualquer outra circunstância que dificulte a futura apreensão das substâncias e a captura dos agentes; se aquela intervenção não tiver sido comunicada previamente à entidade que concedeu a autorização, é-o nas vinte e quatro horas seguintes, mediante relato escrito.
+
+4 - Por acordo com o país de destino, as substâncias em trânsito podem ser substituídas parcialmente por outras inócuas, de tal se lavrando o respectivo auto.
+
+5 - O não cumprimento das obrigações assumidas pelos países de destino ou de trânsito pode constituir fundamento de recusa de autorização em pedidos futuros.
+
+6 - Os contactos internacionais são efectuados através da Polícia Judiciária, pelo Gabinete Nacional da Interpol.
+
+7 - Qualquer outra entidade que receba pedidos de entregas controladas, nomeadamente a Direcção-Geral das Alfândegas, através do Conselho de Cooperação Aduaneira, ou das suas congéneres estrangeiras, e sem prejuízo do tratamento da informação de índole aduaneira, deve dirigir imediatamente esses pedidos para a Polícia Judiciária, para efeito de execução.
+
+8 - Os pedidos de entregas controladas são presentes a despacho do magistrado do Ministério Público competente da comarca de Lisboa.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 104/2001 - Diário da República n.º 197/2001, Série I-A de 2001-08-25](https://diariodarepublica.pt/dr/detalhe/lei/104-2001-515637), em vigor a partir de 2001-08-30
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+###### Artigo 62.º — Exame e destruição das substâncias
+
+1 - As plantas, substâncias e preparações apreendidas são examinadas, por ordem da autoridade judiciária competente, no mais curto prazo de tempo possível.
+
+2 - Após o exame laboratorial, o perito procede à recolha, identificação, pesagem, bruta e líquida, acondicionamento e selagem de uma amostra, no caso de a quantidade de droga o permitir, e do remanescente, se o houver.
+
+3 - A amostra fica guardada em cofre do serviço que procede à investigação, até decisão final.
+
+4 - No prazo de cinco dias após a junção do relatório do exame laboratorial, a autoridade judiciária competente ordena a destruição da droga remanescente, despacho que é cumprido em período não superior a 30 dias, ficando a droga, até à destruição, guardada em cofre-forte.
+
+5 - A destruição da droga faz-se por inceneração, na presença de um magistrado, de um funcionário designado para o efeito, de um técnico de laboratório, lavrando-se o auto respectivo; numa mesma operação de incineração podem realizar-se destruições de droga apreendida em vários processos.
+
+6 - Proferida decisão definitiva, o tribunal ordena a destruição da amostra guardada em cofre, o que se fará com observância do disposto no número anterior, sendo remetida cópia do auto respectivo.
+
+7 - Por intermédio do Gabinete de Combate à Droga do Ministério da Justiça pode ser solicitada ao magistrado que superintenda no processo a cedência de substâncias apreendias, para fins didácticos, de formação ou de investigação criminal, nomeadamente para adestramento de cães.
+
+8 - Pode ser fixado prazo para devolução da droga cedida, ou autorizado que o organismo cessionário proceda à sua destruição, logo que desnecessária ou inútil, com informação para o processo.
+
+###### Artigo 63.º — Amostras pedidas por entidades estrangeiras
+
+1 - Podem ser enviadas amostras de substâncias e preparações que tenham sido apreendidas, a solicitação de serviços públicos estrangeiros, para fins científicos ou de investigação, mesmo na pendência do processo.
+
+2 - Para o efeito, o pedido é transmitido à autoridade judiciária competente, que decidirá sobre a sua satisfação.
+
+3 - O pedido e seu cumprimento é apresentado através do Gabinete de Combate à Droga do Ministério da Justiça ou da Polícia Judiciária.
+
+###### Artigo 64.º — Comunicação de decisões
+
+1 - São comunicadas ao Gabinete de Combate à Droga do Ministério da Justiça todas as apreensões de plantas, substâncias e preparações compreendidas nas tabelas I a IV.
+
+2 - Os tribunais enviam ao Gabinete de Combate à Droga do Ministério da Justiça cópia das decisões proferidas em processo crime por infracções previstas no presente diploma.
+
+### Capítulo VII — Contra-ordenações e coimas
+
+###### Artigo 65.º — Regra geral
+
+1 - Os factos praticados com violação dos condicionalismos e obrigações impostos nos termos dos n.os 4 e 5 do artigo 2.º são considerados contra-ordenações e sancionados com coimas, de acordo com o disposto em decreto regulamentar.
+
+2 - Em tudo quanto se não encontre especialmente previsto neste decreto-lei e respetivos diplomas complementares aplicam-se as disposições constantes do Regime Jurídico das Contraordenações Económicas (RJCE).
+
+> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 66.º — Contraordenações
+
+1 - Os factos praticados com violação dos condicionalismos e obrigações impostos nos termos dos n.os 4 e 5 do artigo 2.º constituem contraordenação económica grave, punível nos termos do RJCE.
+
+2 - A negligência é punível nos termos do RJCE.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01
+
+###### Artigo 67.º — Apreensão e sanções acessórias
+
+1 - Em processo de contra-ordenação pode ser ordenada a apreensão de objectos que serviram à sua prática e aplicada acessoriamente:
+
+a) A revogação ou suspensão da autorização concedida para o exercício da respectiva actividade;
+
+b) A interdição do exercício de profissão ou actividade por período não superior a três anos.
+
+2 - Se o mesmo facto constituir também crime, é o agente punido por este, sem prejuízo da aplicação das sanções acessórias previstas para a contra-ordenação.
+
+###### Artigo 68.º — Entidade competente e cadastro
+
+1 - A aplicação das coimas e das sanções acessórias fixadas no decreto regulamentar é da competência do presidente do Instituto Nacional da Farmácia e do Medicamento ou da Comissão para Aplicação de Coimas em Matéria Económica.
+
+2 - O Instituto Nacional da Farmácia e do Medicamento organiza o registo das pessoas singulares ou colectivas autorizadas a exercer actividades referidas no n.º 4 do artigo 2.º, no qual são averbadas todas as sanções que lhes forem aplicadas.
+
+### Capítulo VIII — Disposições finais
+
+###### Artigo 69.º — Representação internacional
+
+À entidade coordenadora do Programa Nacional de Combate à Droga cabe assegurar, em articulação com Ministério dos Negócios Estrangeiros, a representação de Portugal a nível internacional, de modo que as matérias da cooperação sejam tratadas e as delegações integradas por representantes indicados pelos organismos respectivos, segundo as suas competências específicas.
+
+###### Artigo 70.º — Actividades de prevenção
+
+1 - Compete ao Governo planear, executar e avaliar acções, medidas e programas específicos de prevenção do consumo de droga, tendo em conta a sua natureza pluridisciplinar.
+
+2 - Compete especialmente ao Ministério da Educação:
+
+a) Integrar nos currículos escolares a vertente básica da educação para a saúde, com incidência específica na prevenção do consumo de droga;
+
+b) Providenciar no sentido de que a formação inicial e contínua dos professores os habilite a acompanhar e desenvolver tal vertente;
+
+c) Desenvolver programas específicos de prevenção primária da toxicodependência em meio escolar.
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 70.º-A — Relatório anual
+
+1 - O Governo apresenta anualmente à Assembleia da República, até 31 de Março de cada ano, um relatório sobre a situação do País em matéria de toxicodependência.
+
+2 - O relatório tem por finalidade fornecer à Assembleia da República informação pormenorizada sobre a situação do País em matéria de toxicodependência e tráfico de drogas, bem como sobre as actividades desenvolvidas pelos serviços públicos com intervenção nas áreas da prevenção primária, do tratamento, da reinserção social de toxicodependentes e da prevenção e repressão do tráfico de drogas.
+
+> Aditado pelo/a Artigo 2.º do/a [Lei n.º 45/96 - Diário da República n.º 204/1996, Série I-A de 1996-09-03](https://diariodarepublica.pt/dr/detalhe/lei/45-1996-241229), em vigor a partir de 1996-09-08
+
+###### Artigo 71.º — Diagnóstico e quantificação de substâncias
+
+1 - Os membros do Governo responsáveis pelas áreas da justiça e da saúde, ouvidos o Instituto Nacional de Medicina Legal e Ciências Forenses, I. P., e o Laboratório de Polícia Científica da Polícia Judiciária, determinam, mediante portaria:
+
+a) Os procedimentos de diagnóstico e exames periciais necessários à caracterização do estado de toxicodependência;
+
+b) O modo de intervenção dos serviços de saúde especializados no apoio às autoridades policiais e judiciárias;
+
+c) Os limites quantitativos máximos de princípio activo para cada dose média individual diária das substâncias ou preparações constantes das tabelas I a IV, de consumo mais frequente.
+
+2 - A portaria a que se refere o número anterior deve ser atualizada, sempre que possível, a cada seis meses, ou logo que os dados da evolução científica ou os indicadores dos consumos revelem uma necessidade de intervenção.
+
+3 - O valor probatório dos exames periciais e dos limites referidos no n.º 1 é apreciado nos termos do artigo 163.º do Código de Processo Penal.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 55/2023 - Diário da República n.º 175/2023, Série I de 2023-09-08](https://diariodarepublica.pt/dr/detalhe/lei/55-2023-221432122), em vigor a partir de 2023-10-01
+
+###### Artigo 72.º — Informação aos profissionais de saúde
+
+As publicações destinadas exclusivamente a médicos e outros profissionais de saúde relativas a produtos farmacêuticos devem referenciar com a letra E (Estupefaciente) todas as substâncias ou preparações compreendidas nas tabelas I-A e III e com a letra P (Psicotrópico) as compreendidas nas tabelas II-B, II-C e IV.
+
+###### Artigo 73.º — Regras e conceitos técnicos
+
+As regras e conceitos técnicos contidos no presente diploma são entendidos de harmonia com as convenções internacionais relativas a estupefacientes e substâncias psicotrópicas ratificadas pelo Estado Português.
+
+###### Artigo 74.º — Gabinete de Combate à Droga do Ministério da Justiça
+
+As referências feitas no presente diploma ao Gabinete de Combate à Droga do Ministério da Justiça entendem-se feitas ao Gabinete de Planeamento e de Coordenação do Combate à Droga, enquanto este não for objecto de reestruturação que consagre aquela denominação.
+
+###### Artigo 75.º — Norma revogatória
+
+Ficam revogados:
+
+a) O Decreto-Lei n.º 430/83, de 13 de Dezembro;
+
+b) O n.º 1 do artigo 130.º do Decreto-Lei n.º 48547, de 27 de Agosto de 1968, na redacção dada pelo Decreto-Lei n.º 214/90, de 28 de Junho;
+
+c) O Decreto-Lei n.º 209/91, de 8 de Junho.
+
+###### Artigo 76.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor 30 dias após a sua publicação.
+
+2 - A regulamentação do disposto nos artigos 2.º, n.os 4 e 5, 5.º a 20.º e 65.º tem lugar no prazo de 60 dias após a sua publicação.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+Visto e aprovado em Conselho de Ministros de 12 de Novembro de 1992. - Aníbal António Cavaco Silva - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Jorge Braga de Macedo - Álvaro José Brilhante Laborinho Lúcio - Arlindo Marques da Cunha - Luís Fernando Mira Amaral - António Fernando Couto dos Santos - Arlindo Gomes de Carvalho - Fernando Manuel Barbosa Faria de Oliveira - Luís Manuel Gonçalves Marques Mendes.
+
+Promulgado em 21 de Dezembro de 1992.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 23 de Dezembro de 1992.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## Anexo — Tabelas das plantas, substâncias e preparações sujeitas a controlo (artigos 2.º, 3.º e 4.º do Decreto-Lei n.º 15/93)
+
+## Anexo TABELA I-A
+
+2-Metil-AP-237 (1-{2-metil-4-[(2E)-3-fenilprop-2-en-1-il]piperazina-1-il}butan-1-ona).
+
+3-metilfentanil (N-(3-metil-1-fenetil-4-piperidil) propionanilida e os seus dois isómeros cis e trans).
+
+4-fluoroisobutirilfentanilo ou 4F-iBF ou 4-FIBF ou pFIBF (N-(4-fluorofenil)-N-(1-fenetilpiperidin-4-il)isobutiramida).
+
+Acetil-alfa-metilfentanil (N-[1-(alfa) metilfenetil-4-piperidil] acetanilida).
+
+Acetildiidrocodeína (3-metoxi-4,5-epoxi-6-acetoxi-17-metilmorfinano).
+
+Acetilfentanilo (N-fenil-N-[1-(2-feniletil)piperidina-4-il]acetamida).
+
+Acetilmetadol (3-acetoxi-6-dimetilamino-4,4-difenil-heptano).
+
+Acetorfina (3-0-acetiltetra-hidro-7(alfa)-(1-hidro-1-metilbutil)-6,14-endoetano-oripavina).
+
+Acrilofentanilo (N-(1-fenetilpiperidina-4-il)-N-fenilacrilamida).
+
+Alfacetilmetadol (alfa-3-acetoxi-6-dimetilamino-4,4-difenil-heptano).
+
+Alfameprodina (alfa-3-etil-1-metil-4-fenil-4-propionoxipiperidina).
+
+Alfametadol (alfa-6-dimetilamino-4,4-difenil-3-heptanol).
+
+Alfa-metilfentanil (N-{1-[(alfa) metilfenetil]-4-piperidil} propionanilida).
+
+Alfa-metiltiofentanil (N-[1-metil-2-(2-tienil) etil]-4-piperidil propionanilida).
+
+Alfentanil (monocloridrato de N-{1[2-(4-etil-4,5-di-hidro-5-oxo-1H-tetrazol-1 il) etil]-4-(metoximetil)-4-piperidinil}-N-fenilpropanamida).
+
+Alfaprodina (alfa-1,3-dimetil-4-fenil-4-propionoxipiperidina).
+
+Alilprodina (3-alil-1-metil-4-fenil-4-propionoxipiperidina).
+
+Anileridina (éster etílico do ácido 1-para-aminofene-til-4-fenilpiperidino-4-carboxílico).
+
+ANPP (4-anilino-N-fenetilpiperidina).
+
+Benzilmorfina (3-benziloxi-4,5-epoxi-N-metil-7-morfineno-6-ol; 3-benzilmorfina).
+
+Benzetidina (éster etílico do ácido 1-(2-benziloxietil)-4-fenilpepiridino-4-carboxílico).
+
+Betacetilmetadol (beta-3-acetoxi-6-dimetilamino-4,4-difenil-heptano).
+
+Beta-hidroxifentanil (N-{1-[(beta)-hidroxifenetil]-4-piperidil} propionanilida).
+
+Beta-hidroxi-3-metilfentanil (N-{1-[(beta)-hidroxifenetil]-3-metil-4-piperidil} propionanilida).
+
+Betameprodina (beta-3-etil-1-metil-4-fenil-4-propionoxipiperidina).
+
+Betametadol (beta-6-dimetilamino-4,4-difenil-3-heptanol).
+
+Betaprodina (beta-1,3-dimetil-4-fenil-4-propionoxipiperidina).
+
+Bezitramida (1-(3-ciano-3,3-difenilpropil)-4-(2-oxo-3-propionil-1-benzimidazolinil)-piperid ina).
+
+Brorfina (1-{1-[1-(4-bromofenil)etil]piperidina-4-il}-1,3-di-hidro-2H-benzimidazole-2-ona).
+
+Butirato de dioxafetilo (etil-4-morfolino-2,2-difenilbutirato).
+
+Butirfentanilo (N-fenil-N-[1-(2-feniletil)-4-iperidinil]butanamida).
+
+Butonitazeno (2-[(4-butoxifenil)metil]-N,N-dietil-5-nitro-1H-benzimidazole-1-etanamina).
+
+Carfentanilo (1-(2-feniletil)-4-[fenil(propanoil)amino]piperidina-4-carboxilato de metilo).
+
+Cetobemidona (4-meta-hidroxifenil-1-metil-4-propionilpiperidina).
+
+Ciclopropilfentanilo (N-fenil-N-[1-(2-feniletil)piperidin-4-il]ciclopropanocarboxamida).
+
+Clonitazeno (2-para-clorobenzil-1-dietilaminoetil-5-nitrobenzimidazol).
+
+Codeína (3-metoxi-4,5-epoxi-6-hidroxi-17-metil-7-morfineno ou 3-metil-morfina).
+
+Codeína N-óxido (3-metoxi-4,5-epoxi-6-hidroxi-17-metil-7-morfineno-17-oxi-ol).
+
+Codoxina (di-hidrocodeinona-6-carboximetiloxina).
+
+Concentrado de palha de papoila - matéria obtida por tratamento da palha de papoila em ordem a obter a concentração dos seus alcaloides, logo que esta matéria é colocada no comércio.
+
+Crotonilfentanilo (N-fenil-N-[1-(2-feniletil)-4-piperidinil]-2-butenamida).
+
+Desomorfina (3-hidroxi-4,5-epoxi-17-metilmorfinano; di-hidrodoximorfina).
+
+Dextromoramida ((+)-4-[2-metil-4-oxo-3,3-difenil-4 (1-pirrolidinil)-butil]-morfolina).
+
+Dextropropoxifeno ((+)-4-dimetilamino-3-metil-1,2-difenil-2-butanol propionato).
+
+Diampromida (N-[(2-metilfenetilamino)-propil]-propionanilida).
+
+Dietiltiambuteno (3 dietilamino-1,1-di-’2’-tienil)-1-buteno).
+
+Difenoxilato (éster etílico do ácido 1-(3-ciano-3,3-difenilpropil)-4-fenilpiperidino-4-carboxílico).
+
+Difenoxina (- ácido-1-(3-ciano-3,3-difenilpropil)-4-fenilisonipecótico).
+
+Diidrocodeína (- 6-hidroxi-3-metoxi-17-metil-4,5-epoximorfinano).
+
+Diidroetorfina (7,8-diidro-7-(alfa)-[1-(R)-hidroxi-1-metilbutil]-6,14-enab-etanotetraidrooripa vina).
+
+Di-hidromorfina (3,6-di-hidroxi-4,5-epoxi-17-metilmorfinano).
+
+Dimefeptano (6-dimetilamino-4,4-difenil-3-heptanol).
+
+Dimenoxadol (2-dimetilaminoetilo-1-etoxi-1,1-difenilacetato).
+
+Dimetiltiambuteno (3-dimetilamino-1,1-di-’2’-tienil)-1-buteno).
+
+Dipipanona (4,4-difenil-6-piperidina-3-heptanona).
+
+Drotebanol (3,4-dimetoxi-17-metilmorfinano-6-beta, 14-diol).
+
+Etazeno (2-[(4-etoxifenil)metil]-N,N-dietil-1H-benzimidazol-1-etanamina).
+
+Etilmetiltiambuteno (3-etilmetilamino-1,1-di-’2’-tienil)-1-buteno).
+
+Etilmorfina (3-etoxi-4,5-epoxi-6-hidroxi-17-metil-7-morfineno; 3-etilmorfina).
+
+Etonitazeno (1-dietilaminoetil-2-para-etoxibenzil-5-nitrobenzimidazol).
+
+Etonitazepino (2-[(4-etoxifenil)metil]-5-nitro-1-(2-pirrolidin-1-iletil)-1H-benzoimidazol).
+
+Etorfina (tetra-hidro-7-(1-hidroxi-1-metilbutil)-6,14-endoetenooripavina).
+
+Etoxeridina (éster etílico do ácido-1-[2-(2-hidroxietoxi)-etil]-4-fenilpiperidino-4-carboxílico).
+
+Fenadoxona (6-morfolino-4,4-difenil-3-heptanona).
+
+Fenanpromida (N-(1-metil-2-piperidinoetil)-propionalida).
+
+Fenazocina (’2’-hidroxi-5,9-dimetil-2-fenetil-6,7-benzomorfano).
+
+Fenomorfano (3-hidroxi-N-fenetilmorfinano).
+
+Fenopiridina (éster etílico de ácido 1-(3-hidroxi-3-fenilpropil)-fenil-piperidino-4-carboxílico).
+
+Fentanil (1-fenetil-4-N-propionilanilinopiperidina).
+
+Folcodina (3-(2-morfolino-etoxi)-6-hidroxi-4,5-epoxi-17-metil-7-morfineno ou morfoliniletilmorfina).
+
+Furanilfentanilo (Fu-F; N-fenil-N-[1-(2-feniletil) piperidin-4-il)]furano-2-carboxamida).
+
+Furetidina (éster etílico do ácido 1-(2-tetra-hidrofur-furiloxietil)-4-fenilpiperidino-4-carboxílico).
+
+Heroína (3,6-diacetoxi-4,5-epoxi-17-metil-7-morfineno ou diacetilmorfina).
+
+Hidrocodona (3-metoxi-4,5-epoxi-6-oxo-17-metilmorfina ou di-hidrocodeina).
+
+Hidromorfinol (3,6,14-triidroxi-4,5-epoxi-17-metilmorfinano ou 14-hidroxidiidromorfina).
+
+Hidromorfona (3-hidroxi-4,5-epoxi-6-oxo-17-metilmorfinano ou diidromorfinona).
+
+Hidroxipetidin (éster etílico do ácido 4-meta-hidro-xifenil-1-metilpiperidino-4-carboxílico).
+
+Isometadona (6-dimetilamino-5-metil-4,4-difenil-3-hexanona).
+
+Isotonitazeno (N,N-dietil-2-[[4-(1-metiletoxi)fenil]metil]-5-nitro-1H-benzimidazole-1-etanamina).
+
+Levofenacilmorfano ((-)-3-hidroxi-N-fenacilmorfinano).
+
+Levometorfano ((-)-3-metoxi-N-metilmorfinano [v. nota (*)]).
+
+Levomoramide ((-)-4-[2-metil-4-oxo-3,3-difenil-4-(1-pirrolidinil)-butil] morfina).
+
+Levorfanol ((-)-3-hidroxi-N-metilmorfinano [v. nota (*)]).
+
+Metadona (6-dimetilamino-4,4-difenil-3-heptanona).
+
+Metadona, intermediário de (4-ciano-2-dimetilamino-4,4-difenilbutano).
+
+Metazocina (’2’-hidroxi-2,5,9-trimetil-6,7-benzomorfano).
+
+Metildesorfina (6-metil-delta-6-desoximorfina ou 3-hidroxi-4,5-epoxi-6,17-dimetil-6-morfineno).
+
+Metildiidromorfina (6-metil-diidromorfina ou 3,6-diidroxi-4,5-epoxi-6,17-dimetilmorfinano).
+
+Metonitazeno (N,N-dietilo-2-[(4-metoxifenilo)metilo]-5-nitro-1H-benzimidazole-1-etanamina).
+
+Metoxiacetilfentanilo (2-metoxi-N-fenil-N- [1-(2-feniletil)piperidin-4-il]acetamida).
+
+Metopão (5-metil di-hidromorfinona ou 3-hidroxi-4,5-epoxi-6-oxo-5,17 dimetilmorfinona).
+
+Mirofina (miristilbenzilmorfina; tetradecanoato de 3-benziloxi-4,5-epoxi-17-metil-7-morfineno-6-ilo).
+
+Morferidina (éster etílico do ácido 1-(2-morfolinoetil)-4-fenilpiperidino-4-carboxílico).
+
+Moramida, intermediário de (ácido 2-metil-3-morfo-lino-1,1-difenilpropano carboxílico).
+
+Morfina (3,6-diidroxi-4,5-epoxi-17-metil-7-morfineno).
+
+Morfina, bromometilato e outros derivados da morfina com nitrogénio pentavalente.
+
+Morfina (N-óxido-3,6-diidroxi-4,5-epoxi-17-metil-7-morfineno-N-óxido).
+
+MPPP (propionato de 1-metil-4-fenil-4-piperidinol).
+
+N-desetilisotonitazeno (N-etil-2-{2-[(4-isopropoxifenil)metil]-5-nitro-benzimidazole-1-il}etanamina).
+
+N-piperidin etonitazeno (etonitazepipno) (2-[(4-etoxifenil)metil]-5-nitro-1-(2-piperidin-1-iletil)-1H-benzimidazole).
+
+N-pirrolidin metonitazeno (metonitazepina) (2-[(4-metoxifenil)metil]-5-nitro-1-(2-pirrolidin-1-iletil)-1H-benzimidazole).
+
+N-pirrolidin protonitazeno (protonitazepina) (5-nitro-2-[(4-propoxifenil)metil]-1-(2-pirrolidin-1-iletil)benzimidazole).
+
+Nicocodina (éster codeínico do ácido 3-piridinocarboxílico ou 6-nicotinilcodeína).
+
+Nicodicodina (éster diidrocodeínico do ácido 3-piridinocarboxílico ou 6-nicotinildiidrocodeína).
+
+Nicomorfina (3,6-dinicotilmorfina).
+
+NPP (N-fenetil-4-piperidona).
+
+Noracimetadol ((±)-alfa-3-acetoxi-6-metilamino-4,4-difenil-heptano).
+
+Norcodeína (3-metoxi-4,5-epoxi-6-hidroxi-7-morfineno ou N-desmetilcodeína).
+
+Norlevorfanol ((-)-3-hidroximorfinano).
+
+Normetadona (6-dimetilamino-4,4-difenil-3-hexanona).
+
+Normorfina (3,6-di-hidroxi-4,5-epoxi-7-morfineno ou desmetilmorfina).
+
+Norpipanona (4,4-difenil-6-peperidino-3-hexanona).
+
+Ocfentanilo (N-(2-fluorofenil) -2-metoxi-N-[1-(2-fenetil)piperidin-4-il]acetamida).
+
+Ópio (o suco coagulado espontaneamente obtido da cápsula da Papaver som niferum L. e que não tenha sofrido mais do que as manipulações necessárias para o seu empacotamento e transporte, qualquer que seja o seu teor em morfina).
+
+Ópio (mistura de alcaloides sob a forma de cloridratos e brometos).
+
+Oripavina (3-O-desmetiltebaína ou 6,7,8,14-tetradeshi-dro-4,5-(alfa)-epoxi-6-metoxi-17-metilmorfinan-3-ol).
+
+Ortofluorofentanilo (N-(2-fluorofenil)-N-[1-(2-feniletil)piperidin-4-il]propanamida).
+
+Oxicodona (3-metoxi-4,5-epoxi-6-oxo-14-hidroxi-17-metilmorfinano ou 14-hidroxidiidrocodeínona).
+
+Oximorfona (3,14-diidroxi-4,5-epoxi-6-oxo-17-metilmorfinano ou 14-hidroxidiidromorfinona).
+
+Parafluorobutirilfentanilo (N-(4-fluorofenil)-N-[1-(2-feniletil)piperidin-4-il]butanamida).
+
+Para-fluorofentanil (’4’-fluoro-N-(1-fenetil-4-piperidil)] propionanilida).
+
+PEPAP (acetato de 1-fenetil-4-fenil-4-piperidinol).
+
+Petidina (éster etílico do ácido 1-metil-4-fenilpiperi-dino-4-carboxílico).
+
+Petidina, intermediário A da (4-ciano-1-metil-4-fenil-piperidina).
+
+Petidina, intermediário B da (éster etílico do ácido-4-fenilpiperidino-4-carboxílico).
+
+Petidina, intermediário C da (ácido 1-metil-4-fenilpi-peridino-4-carboxílico).
+
+Piminodina (éster etílico do ácido 4-fenil-1-[3-(feni-lamino)-propilpiperidino]-4-carboxílico).
+
+Piritramida (amida do ácido 1-(3-ciano-3,3-difenil-propil)-4-(1-piperidino)-piperidino-4-carboxílico).
+
+Pro-heptazina (1,3-dimetil-4-fenil-4-propionoxiazaciclo-heptano).
+
+Properidina (éster isopropílico do ácido 1-metil-4-fenilpiperidino-4-carboxílico).
+
+Propirano (N-(1-metil-2-piperidinoetil)-N-2-piridilpropionamida).
+
+Protonitazeno (N,N-dietil-5-nitro-2-[(4-propoxifenil)metil]-1-H-benzimidazol-1-etanamina).
+
+Racemétorfano ((±)-3-metoxi-N-metilmorfinano).
+
+Racemoramida ((±)-4-[2-metil-4-oxo-3,3-difenil-4-(1-pirrolidinil)-butil]-morfolina).
+
+Racemorfano ((±)-3-hidroxi-N-metilmorfinano).
+
+Remifentanilo (1-(2-metoxicarboniletil)-4-(fenilpropionilamino)-piperidina-4-carboxilato de metilo).
+
+Sufentanil (N-{4-metoximetil-1-[2-(2-tienil)-etil]-4-piperidil}-propionanilida).
+
+Tabecão (3-metoxi-4,5-epoxi-6-acetoxi-17-metilmorfinano ou acetidil-hidrocodeínona).
+
+Tapentadol (3-[(1R,2R)-3-(dimetilamino)-1-etil-2-metilpropil]fenol).
+
+Tebaína (3,6-dimetoxi-4,5-epoxi-17-metil-6,8-morfinadieno).
+
+Tetra-hidrofuranilfentanilo ou THF-F (N-fenil-N-[1-(2-feniletil)piperidin-4-il] tetra-hidrofurano-2-carboxamida).
+
+Tilidina ((±)-etil-trans-2-(dimetilamino)-1-fenil-3-ciclo-hexeno-1-carboxilato).
+
+Tiofentanil (N-{1-[2-(2-tienil) etil]-4-piperidil} propionanilida).
+
+Trimeperidina (1,2,5-trimetil-4-fenil-4-propionoxipiperidina).
+
+U47700 (3,4-dicloro-N-(2-dimetilaminociclo-hexil)-N-metilbenzamida).
+
+Valerilfentanilo (N-fenil-N-[1-(2-feniletil)-4-piperidil]pentanamida).
+
+Os isómeros das substâncias inscritas nesta tabela em todos os casos em que estes isómeros possam existir com designação química específica, salvo se forem expressamente excluídos.
+
+Os ésteres e os éteres das substâncias inscritas na presente tabela em todas as formas em que estes ésteres e éteres possam existir, salvo se figurarem noutra tabela.
+
+Os sais das substâncias inscritas na presente tabela, incluindo os sais dos ésteres e éteres e isómeros mencionados anteriormente sempre que as formas desses sais sejam possíveis.
+
+(*) O dextrometorfano (+)-3-metoxi-N-metilmorfinano e o dextrorfano (+)-3-hidroxi-N-metilmorfineno estão especificamente excluídos desta tabela.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 19-F/2026 - Diário da República n.º 89/2026, Suplemento, Série I de 2026-05-08](https://diariodarepublica.pt/dr/detalhe/lei/19-f-2026-1114077553), em vigor a partir de 2026-05-09.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2025 - Diário da República n.º 47/2025, Série I de 2025-03-07](https://diariodarepublica.pt/dr/detalhe/lei/23-2025-909953480), em vigor a partir de 2025-03-08
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 9/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03](https://diariodarepublica.pt/dr/detalhe/lei/9-2023-208124551), em vigor a partir de 2023-03-04
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 25/2021 - Diário da República n.º 91/2021, Série I de 2021-05-11](https://diariodarepublica.pt/dr/detalhe/lei/49-2021-168184697), em vigor a partir de 2021-05-12
+
+> Alterado pelo/a Anexo do/a [Lei n.º 15/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/15-2020-134762422), em vigor a partir de 2020-05-30
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 8/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01](https://diariodarepublica.pt/dr/detalhe/lei/8-2019-118950627), em vigor a partir de 2019-02-06
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/lei/13-2012-553932), em vigor a partir de 2012-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2009 - Diário da República n.º 90/2009, Série I de 2009-05-11](https://diariodarepublica.pt/dr/detalhe/lei/18-2009-608228), em vigor a partir de 2009-05-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2000-580787), em vigor a partir de 2000-09-02
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+## TABELA I-B
+
+Coca, folha de - as folhas de Erythroxilon coca (Lamark), da Erythroxilon nova-granatense (Morris) Hieronymus e suas variedades, da família das eritroxiláceas e as suas folhas, de outras espécies deste género, das quais se possa extrair a cocaína directamente, ou obter-se por transformações químicas; as folhas do arbusto de coca, excepto aquelas de que se tenha extraído toda a ecgonina, a cocaína e quaisquer outros alcalóides derivados da ecgonina.
+
+Cocaína - éter metílico do ácido (-)-8-metil-3-benzoiloxi-8-aza-biciclo-(1,2,3)-octano-2-carboxílico; éster metílico de benzoilecgnonina.
+
+Cocaína-D - isómero dextrógiro de cocaína.
+
+Ecgnonina, ácido - (-)-3-hidroxi-8-metil-8-aza-biciclo-(1, 2, 3)-octano-2-carboxílico, e os seus ésteres e derivados que sejam convertíveis em ecgonina e cocaína.
+
+Consideram-se inscritos nesta tabela todos os sais destes compostos, desde que a sua existência seja possível.
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+## TABELA I-C
+
+Canabis - folhas e sumidades floridas ou frutificadas da planta Cannabis sativa L. da qual não se tenha extraído a resina, qualquer que seja a designação que se lhe dê.
+
+Canabis, resina de - resina separada, em bruto ou purificada, obtida a partir da planta Cannabis.
+
+Canabis, óleo de - óleo separado, em bruto ou purificado, obtido a partir da planta Cannabis.
+
+Cannabis - sementes não destinadas a sementeira da planta Canabis sativa L.
+
+Consideram-se inscritos nesta tabela todos os sais destes compostos, desde que a sua existência seja possível.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/47-2003-656131), em vigor a partir de 2003-08-23
+
+## TABELA II-A
+
+1-benzilpiperazina (1-benzil-1,4-diazacilohexano ou N-benzilpiperazina ou, de forma menos precisa, benzilpiperazina ou BZP).
+
+2-Fluorodesclorocetamina (2-FDCK) (2-(2-fluorofenil)-2-metilamino-cicloexanona).
+
+2C-B (4-bromo-2,5-dimetoxifenetilamina).
+
+2C-I (2,5-dimetoxi-4-iodofenetilamina).
+
+2C-T-7 (2,5-dimetoxi-4-propiltiofenetilamina).
+
+25B-NBOMe ou 2C-B-NBOMe (2-(4-bromo-2,5-dimetoxifenil)-N-[(2-metoxifenil)metil]etanamina).
+
+25C-NBOMe ou 2C-C-NBOMe (2-(4-cloro-2,5-dimetoxifenil)-N-[(2-metoxifenil)metil]etanamina2C-T-2 (2,5-dimetoxi-4-etiltiofenetilamina)).
+
+25I-NBOMe (4-iodo-2,5-dimetoxi-N-(2-metoxibenzil)fenetilamina).
+
+3-CMC (3-clorometcatinona) (1-(3-clorofenil)-2-(metilamino)propan-1-ona).
+
+3-Metoxifenciclina (1-[1-(3-methoxifenil)ciclohexil]-piperidina).
+
+3-MMC (3-metilmetcatinona) (2-(metilamino)-1-(3-metilfenil)propan-1-ona).
+
+4-CMC (4-clorometcatinona ou clefedrona) (1-(4-clorofenil)-2-(metilamino)propan-1-ona).
+
+4-fluoroanfetamina ou 4-FA (1-(4-fluorofenil)propan-2-amina).
+
+4-MEC (2-(etilamino)-1-(4-metilfenil)propan-1-ona).
+
+4-Metilaminorex ((±)-cis-2-amino-4-metil-5-fenil-2-oxazolina).
+
+4-MTA (p-metiltioanfetamina ou 4-metiltioanfetamina).
+
+4F-MDMB-BICA (2-{[1-(4-fluorobutil)-1H-indole-3-carbonil]amino}-3,3-dimetilbutanoato de metilo).
+
+4F-MDMB-BINACA (2-(1-(4-fluorobutil)-1H-indazol-3-carboxamido)-3,3-dimetilbutanoato de metilo).
+
+5F-ADB ou 5F-MDMB-PINACA (2-{[1- (5-fluoropentil)-1H-indazole-3-carbonil]amino}-3,3-dimetilbutanoato).
+
+5F-AMB-PINACA ou 5F-AMB ou 5F-MMB-PINACA) (N-{[1-(5-fluoropentil)-1H-indazol-3-il]carbonil}valinato de metilo).
+
+5F-APINACA ou 5F-AKB-48 (N- (adamantan-1-il)-1- (5-fluoropentil-1H-indazole-3-carboxamida).
+
+5F-MDMB-PICA ou 5F-MDMB-2201) (2[[1(5fluoropentil)indol-3-carbonil]amino]-3,3-dimetilbutanoato de metilo).
+
+5F-PB-22 (1-(5-fluoropentil)-1H-indole-3-carboxilato de quinolin-8-ilo).
+
+α-PVP (1-fenil-2-(pirrolidin-1-il)-pentan-1-one (α-pirrolidinovalerofenona).
+
+α-PHP ou α-(pirrolidino-hexanofenona)-(1-fenil-2-(pirrolidin-1-il)hexan-1-ona).
+
+α-PiHP (Alfa-PiHP) (4-metil-1-fenil-2-(pirrolidin-1-il)pentan-1-ona).
+
+AB-CHMINACA (N-(1-amino-3-metil-1-oxobutan-2-il)-1-(ciclo-hexilmetil)-1H-indazole-3-carboxamida).
+
+AB-FUBINACA (N-(1-amino-3-metil-1-oxobutan-2-il)-1-(4-fluorobenzil)-1H-indazol-3-carboxamida).
+
+AB-PINACA (N-[(2S)-1-Amino-3-metil-1-oxobutan-2-il]-1-pentil-1H-indazole-3-carboxamida).
+
+ADB-BUTINACA (N-[1-(aminocarbonil)-2,2-dimetilpropil]-1-butil-1H-indazole-3-carboxamida).
+
+ADB-CHMINACA (N-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1-(ciclo-hexilmetil)-1H-indazo-3-carboxamida).
+
+ADB-FUBINACA (N-(1-amino-3,3-dimetil-1-oxobutan-2-il)-1-(4-fluorobenzil)-1H-indazo-3-carboxamida).
+
+AH-7921 (3,4-dicloro-N-{[1-(dimetilamino)ciclo-hexil]metil}benzamida).
+
+AM-22015 ((2-aminopropil)índole).
+
+Bufotenina (5-hidroxi-N-N-dimetiltripptamina).
+
+Catinona ((-)-(alfa)-aminopropiofenona).
+
+CUMYL-4CN-BINACA (1-(4-cianobutil)-N-(2-fenilpropan-2-il)-1H-indazole-3-carboxamida).
+
+CUMYL-PEGACLONE (5-pentil-2-(2-fenilpropano-2-il)-2,5-dihidro-1H-pirido[4,3-b]indol-1-ona).
+
+DET (N-N-dietiltriptamina).
+
+Difenidina ((±)-1-(1,2-Difeniletil)piperidina).
+
+Dipentilona (1-(1,3-benzodioxol-5-il)-2-(dimetilamina)pentan-1-ona).
+
+DMA ((±)-2,5-dimetoxi-a-metilfeniletilamina).
+
+DMHP (3-(1,2-dimetil-heptil)-1-hiroxi-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo-(b,d) pirano).
+
+DMT (N-N-dimetiltriptamina).
+
+DOB ou 2,5 dimetoxi-4-bromoanfetamina.
+
+DOC ou 2,5-dimetoxi-4-cloroanfetamina (1-(4-cloro-2,5-dimetoxifenil)propan-2-amina).
+
+DOET ((±)-2,5-dimetoxi-4(alfa)-etil-metilfeniletilamina).
+
+DOM ou STP (2-amino-1-(2,5-dimetoxi-4-metil)fenil-propano).
+
+DPT (dipropiltriptamina).
+
+Epilona (N-etilnorpentilona)
+
+Eticiclidina ou PCE (N-etil-1-fenilciclo-hexilamina).
+
+Etilona (1-(2H-1,3-benzodioxol-5-il)-2-(etilamino)propan-1-ona).
+
+Etriptamina (3-(2-aminobutil)indol).
+
+Eutilona (1-(1,3-benzodioxole-5-il)-2-(etilamino)butan-1-ona).
+
+Fenciclidina ou PCP (1-(1-fenilciclo-hexi) piperidina).
+
+FUB-AMB ou MMB-FUBINACA ou AMB-FUBINACA) (Metil 2-(1-(4-fluorobenzil)-1H-indazo-3-carboxamida)-3-metilbutanoato).
+
+GHB ((gama)-ácido hidroxibutírico).
+
+hexa-hidrocanabinol (6a,7,8,9,10,10a-hexa-hidro-6,6,9-trimetil-3-pentil-6H-dibenzo[b,d]piran-1-ol).
+
+JWH-018 ((naftaleno-1-il)(1-pentil-1H-indol-3-il)metanona).
+
+Lisergida ou LSD ou LSD-25 ((±)-N-N-dietilisergamida; dietilamida do ácido dextro-lisérgico).
+
+MDMA (3,4-metilenadioxianfetamina).
+
+MDMB-4en-PINACA (3,3-dimetil-2-{[1-(pent-4-en-1-il)-1H-indazole-3-carbonil]amino}butanoato de metilo).
+
+MDMB-CHMICA (Metil 2-[[1-(ciclo-hexilmetil)-1H-indol-3-carbonil]amino]-3,3-dimetilbutanoato).
+
+MDPV (3,4-metilenodioxipirovalerona).
+
+Mefedrona (4-metilmetcatinona).
+
+Mescalina (3,4,5-trimetoxifenetilamina).
+
+Metcatinona (2-(metilamino)-1-fenilpropan-1-ona).
+
+Metilona (beta-ceto-MDMA).
+
+Metoxetamina (2-(3-metoxifenil)-2-(etilamino)ciclo-hexanona).
+
+MMDA ((±)-5-metoxi-3,4-metilenodioxi-(alfa) metilfeniletilamina).
+
+MPA ou Metiopropamina (N-metil-1-(tiofen-2-il)-propan-2-amina).
+
+MT-45 (1-ciclo-hexil-4-(1,2-difeniletil)piperazina).
+
+N-etil-hexedrona (2(etilamino)-1-fenil-hexan-1-ona).
+
+N-Etilpentedrona (2-(etilamino)-1-fenilpentan-1-ona).
+
+Para-hexilo (3-hexilo-1-hidroxi-7,8,9,10-tetraidro-6,6,9-trimetil-6H-dibenzo-(b,d)-pirano).
+
+Pentedrona ou α-metilaminovalerofenona (2-(metilamino)-1-fenilpentan-1-ona).
+
+PMA (4 (alfa)-metoxi-metilfeniletilamina).
+
+PMMA ou Parametoximetilanfetamina (N-metil-1-(4-metixifenil)-2-aminopropano).
+
+Psilocibina (fosfatodiidrogenado de 3-(2-dimetila-minoetil)-4-indolilo).
+
+Psilocina (3-(-2-dimetilaminoetil)-4-(hidroxi-indol)).
+
+Roliciclidina ou PHP ou PCPY (1-(1-fenilciclohexil) pirrolidina).
+
+Tenanfetamina ou MDA ((±)-3,4 N-metilenodioxi, (alfa)-dimetilfeniletilamina).
+
+Tenociclidina ou TCP (1-[1-(2-tienil) ciclo-hexil] piperidina).
+
+TMA ((±)-3,4,5-trimetoxi-(alfa)-metilfeniletilamina).
+
+TMA-2 (2,4,5-trimetoxianfetamina).
+
+UR-144 ((1-Pentil-1H-indol-3-il)(2,2,3,3-tetrametilciclopropil)metanona).
+
+XLR-11 ([1-(5-fluoropentil)-1H-indol-3-il](2,2,3,3-tetrametilciclopropil)metanona).
+
+Os sais das substâncias indicadas nesta tabela, sempre que a existência de tais sais seja possível.
+
+Os isómeros das substâncias inscritas nesta tabela em todos os casos em que estes isómeros possam existir com designação química específica, salvo se forem expressamente excluídos.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 19-F/2026 - Diário da República n.º 89/2026, Suplemento, Série I de 2026-05-08](https://diariodarepublica.pt/dr/detalhe/lei/19-f-2026-1114077553), em vigor a partir de 2026-05-09.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 23/2025 - Diário da República n.º 47/2025, Série I de 2025-03-07](https://diariodarepublica.pt/dr/detalhe/lei/23-2025-909953480), em vigor a partir de 2025-03-08
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 9/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03](https://diariodarepublica.pt/dr/detalhe/lei/9-2023-208124551), em vigor a partir de 2023-03-04
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 49/2021 - Diário da República n.º 142/2021, Série I de 2021-07-23](https://diariodarepublica.pt/dr/detalhe/lei/49-2021-168184697), em vigor a partir de 2021-07-24
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 25/2021 - Diário da República n.º 91/2021, Série I de 2021-05-11](https://diariodarepublica.pt/dr/detalhe/lei/25-2021-163092604), em vigor a partir de 2021-05-12
+
+> Alterado pelo/a Anexo do/a [Lei n.º 15/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/15-2020-134762422), em vigor a partir de 2020-05-30
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 8/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01](https://diariodarepublica.pt/dr/detalhe/lei/8-2019-118950627), em vigor a partir de 2019-02-06
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 7/2017 - Diário da República n.º 44/2017, Série I de 2017-03-02](https://diariodarepublica.pt/dr/detalhe/lei/7-2017-106542301), em vigor a partir de 2017-03-03
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 22/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/lei/22-2014-25343722), em vigor a partir de 2014-04-29
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 13/2012 - Diário da República n.º 61/2012, Série I de 2012-03-26](https://diariodarepublica.pt/dr/detalhe/lei/13-2012-553932), em vigor a partir de 2012-03-27
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2009 - Diário da República n.º 90/2009, Série I de 2009-05-11](https://diariodarepublica.pt/dr/detalhe/lei/18-2009-608228), em vigor a partir de 2009-05-12
+
+> Alterado pelo/a [Lei n.º 14/2005 - Diário da República n.º 18/2005, Série I-A de 2005-01-26](https://diariodarepublica.pt/dr/detalhe/lei/14-2005-624464), em vigor a partir de 2005-01-31
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/2004 - Diário da República n.º 110/2004, Série I-A de 2004-05-11](https://diariodarepublica.pt/dr/detalhe/lei/17-2004-264356), em vigor a partir de 2004-05-12
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 47/2003 - Diário da República n.º 193/2003, Série I-A de 2003-08-22](https://diariodarepublica.pt/dr/detalhe/lei/47-2003-656131), em vigor a partir de 2003-08-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 69/2001 - Diário da República n.º 47/2001, Série I-A de 2001-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2001-385468), em vigor a partir de 2001-02-25
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 214/2000 - Diário da República n.º 203/2000, Série I-A de 2000-09-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2000-580787), em vigor a partir de 2000-09-02
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+## TABELA II-B
+
+Anfetamina - (mais ou menos)-2-amino-1-fenilpropano.
+
+Catina - (+)-treo-2-amino-1-hidroxi-1-fenilpropano.
+
+Dexanfetamina - (+)-2-amino-1-fenilpropano.
+
+Etilfenidato ou EPH (fenil(piperidin-2-il) acetato de etilo).
+
+Fendimetrazina - (+)-3,4-dimetil-2-fenilmorfolina.
+
+Fenetilina - (mais ou menos)-3,7-di-hidro-1,3-dimetil-7-{2-[(1-metil-2-feniletil) amino] etil}-1H-purina-2,6-diona.
+
+Fenmetrazina - 3-metil-2-fenilmorfolina.
+
+Fentermina - (alfa), (alfa)-dimetilfenetilamina.
+
+Levanfetamina - (-)-2-amino-1-fenilpropano.
+
+Levometanfetamina - (-)-N-dimetil, a-fenetilamino-3 (O-clorofenil)-2-metil (3H)-4-quinazolinona.
+
+Metanfetamina - (+)-2-metilamino-1-fenilpropano.
+
+Metanfetamina, racemato - (mais ou menos)-2-metilamina-1-fenilpropano.
+
+4-Metilanfanfetamina.
+
+Metilfenidato - éster metílico do ácido 2 fenil-2-(2-piperidil) acético.
+
+Tetraidrocanabinol - os seguintes isómeros: (Delta) 6a (10a), (Delta) 6a (7), (Delta) 7, (Delta) 8, (Delta) 9, (Delta) 10, (Delta) (11).
+
+Zipeprol - (alfa)-[(alfa)-metoxibenzil]-4-[(beta)-metoxifenetil] -1-piperazineetanol.
+
+Os derivados e sais das substâncias inscritas nesta tabela, sempre que a sua existência seja possível, assim como todos os preparados em que estas substâncias estejam associadas a outros compostos, qualquer que seja a ação destes.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 8/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01](https://diariodarepublica.pt/dr/detalhe/lei/8-2019-118950627), em vigor a partir de 2019-02-06
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 22/2014 - Diário da República n.º 81/2014, Série I de 2014-04-28](https://diariodarepublica.pt/dr/detalhe/lei/22-2014-25343722), em vigor a partir de 2014-04-29
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 69/2001 - Diário da República n.º 47/2001, Série I-A de 2001-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2001-385468), em vigor a partir de 2001-02-25
+
+## TABELA II-C
+
+Amobarbital - ácido 5-etil-5-(3-metilbutil) barbitúrico.
+
+Buprenorfina - 21-ciclopropil-7 alfa [(s) 1-hidroxi-1,2,2-trimetilpropil]-6,14-endo-etano-6,7,8,14-tetra-hidrooripavina.
+
+Butalbital - ácido 5-alil-5-isobarbitúrico.
+
+Ciclobarbital - 5-(1-ciclo-hexeno-1-il)-5-etilbarbitúrico.
+
+flunitrazepam
+
+Glutetamida - 2-etil-2-fenilglutarimida.
+
+Mecloqualona - 3-(O-clorofenil)-2-metil-4(3H)-quinazolinona.
+
+Metaqualona - 2-metil-3-o-tolil-4(3H)-quinazolinona.
+
+Pentazocina - 1,2,3,4,5,6-hexa-hidro-6,11,dimetil-3-(3-metil-2-butenil)-2,6-metano-3-benzozo cina-8-ol.
+
+Pentobarbital - ácido 5-etil-5-(1-metilbutil) barbitúrico.
+
+Secobarbital - ácido 5-alil-5-(1-metilbutil) barbitúrico.
+
+Os sais das substâncias indicadas nesta tabela, sempre que a existência de tais sais seja possível.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 69/2001 - Diário da República n.º 47/2001, Série I-A de 2001-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2001-385468)
+
+> Aditado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823)
+
+## TABELA III
+
+1 - Preparações que, pela sua composição quantitativa e embora derivadas de estupefacientes, não apresentam grande risco de uso e abuso.
+
+2 - Preparações de acetildiidrocodeína, codeína, diidrocodeína, etilmorfina, folcodina, nicocodina, nicodicodina e norcodeína, quando misturadas com um ou vários outros ingredientes e a quantidade de narcótico não exceda 100 mg por unidade de administração e a concentração nas preparações farmacêuticas em forma não dividida não exceda 2,5%.
+
+3 - Preparações de cocaína contendo no máximo 0,1% de cocaína, calculada em cocaína base, e preparações de ópio ou morfina que contenham no máximo 0,2% de morfina, calculada em morfina base anidra, quando em qualquer delas existam um ou vários ingredientes, activos ou inertes, de modo que a concaína e o ópio ou morfina não possam ser facilmente recuperados ou não estejam em preparações que constituam perigo para a saúde.
+
+4 - Preparações de difenoxina contendo em unidade de administração no máximo 0,5 mg de difenoxina, calculada na forma base, e uma quantidade de sulfato de atropina equivalente pelo menos a 5% da dose de difenoxina.
+
+5 - Preparações de difenoxilato contendo em unidade de administração no máximo 2,5 mg de difenoxilato, calculado na forma base, e uma quantidade de sulfato de atropina equivalente pelo menos a 1% de difenoxilato.
+
+6 - Pó de ipecacuanha e ópio com a seguinte composição: 10% de ópio em pó; 10% de raiz de ipecacuanha em pó; 80% de qualquer pó inerte não contendo droga controlada.
+
+7 - Preparações de propiramo contendo no máximo 100 mg de propiramo por unidade de administração associadas com uma quantidade pelo menos igual de metilcelulose.
+
+8 - Preparações administráveis por via oral que não contenham mais de 135 mg de sais de dextropropoxifeno base por unidade de administração ou que a concentração não exceda 2,5% das preparações em forma não dividida sempre que estas preparações não contenham nenhuma substância sujeita a medidas de controlo da Convenção de 1971 sobre Psicotrópicos.
+
+9 - As preparações que correspondam a qualquer das fórmulas mencionadas nesta tabela e misturas das mesmas preparações com qualquer ingrediente que não faça parte das drogas controladas.
+
+## TABELA IV
+
+Alobarbital (ácido 5,5-dialilbarbitúrico).
+
+Alprazolam (8-cloro-1-metil-6-fenil-4H-s-triazol[4,3-(alfa)][1,4]benzodiazepina).
+
+Amfepramona (2-(dietilamino)propiofenona).
+
+Aminorex (2-amino-5-fenil-2-oxazolina).
+
+Barbital (ácido 5,5-dietilbarbitúrico).
+
+Benzefetamina (N-benzil-N-dimetilfenetilamina).
+
+Bromazepam (7-bromo-1,3-dihidro-5-(2-piridinil)-2H-1,4-benzodiazepina-2-ona).
+
+Bromazolam (8-bromo-6-fenil-1-metil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina).
+
+Brotizolam (2-bromo-4-(0-clorofenil)-9-metil-6H-tieno[3,2-f]-s-triazolo[4,3-][1,4]diazepina).
+
+Butobarbital (ácido 5-butil-5-etilbarbitúrico).
+
+Camazepam (dimetilcarbamato (éster) do 7-cloro-1,3-dihidro-3-hidroxi-1-metil-5-fenil-2H-1,4-benzodiazepina-2-ona).
+
+Carisoprodol (1-metiletil)carbamato de (2RS)-2-[(carbamoiloxi)metil]-2-metilpentilo).
+
+Cetazolam (11-cloro-8,12b-dihidro-2,8-dimetil-12b-fenil-4H-[1,3]oxazino[3,2-d][1,4] benzodiazepina-4,7(6h)-diona.
+
+Clobazam (7-cloro-1-metil-5-fenil-1H-1,5-benzodiazepina-2,4(3H,5H)-diona).
+
+Clobenzorex ((+)-N-(o-clorobenzil)-(α)-metilfenetilamina).
+
+Clonazepam (7-nitro-5-(2-clorofenil)-3H-1,4-benzodiazepina-2(1H)-ona).
+
+Clonazolam (6-(2-Clorofenil)-1-metil-8-nitro-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina).
+
+Clorazepato (ácido 7-cloro-2,3-dihidro-2,2-dihidroxi-5-fenil-1H-1,4-benzodiazepina-3-carboxílico).
+
+Clordiazepóxido (7-cloro-2-metilamino-5-fenil-3H-1,4-benzodiazepina-4-óxido).
+
+Clordesmetildiazepam (7-cloro-5-(2-clorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona).
+
+Clotiazepam (5-(2-clorofenil)-7-etil-1,3-dihidro-1-metil-2H-tieno[2,3-e]-1,4-diazepina-2-ona.
+
+Cloxazolam (10-cloro-11b-(2-clorofenil)-2,3,7,11b-tetra-hidrooxa-zolo[3,2-d][1,4]benzodiazepina-6(5H)-ona.
+
+Delorazepam (7-cloro-5-(2-clorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona).
+
+Diazepam (7-cloro-1,3-dihidro-1-1-metil-5-fenil-2H-1,4-benzodiazepina-2-ona).
+
+Diclazepam (7-Cloro-5-(2-clorofenil)-1-metil-1,3-dihidro-2H-1,4-benzodiazepin-2-ona).
+
+Estazolam (8-cloro-6-fenil-4H-s-triazolo[4,3-(alfa)][1,4]benzodiazepina).
+
+Etclorvinol (etil-2-cloroviniletinil-carbinol).
+
+Etilanfetamina ((±)-N-etil-(α)-metilfeniletilamina).
+
+Etiloflazepato (7-cloro-5-(2-fluorofenil)-2,3-dihidro-2-oxo-1H-1,4-benzodiazepina-3-carboxilato de etilo).
+
+Etinamato (carbamato-1-etinilciclo-hexanol).
+
+Etizolam (4-(2-clorofenil)-2-etil-9-metil-6H-tieno[3,2-f][1,2,4]triazolo[4,3-a][1,4]diazepina).
+
+Fenazepam (7-bromo-5-(2-clorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona).
+
+Fencanfamina ((±)-3-N-etilfenil-(2,2,1)biciclo2-heptanamina).
+
+Fenobarbital (ácido-5-etil-5-fenilbarbitúrico).
+
+Fenproporex ((±)-3-[(α)-metilfenitilamina]propionitrilo).
+
+Flualprazolam (8-cloro-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepina).
+
+Flubromazolam (8-bromo-6-(2-fluorofenil)-1-metil-4H-[1,2,4]triazolo[4,3-a] [1,4]benzodiazepina).
+
+Fludiazepam (7-cloro-5-(2-fluorofenil)-1,3-dihidro-1-metil-2H-1,4-benzodiazepina-2-ona).
+
+Flurazepam (7-cloro-1-[2-(dietilamino)etil]-5-(2-fluorofenil)-1,3-dihidro-2H-1,4-benzodiazepina-2-ona).
+
+Halazepam (7-cloro-1,3-dihidro-5-fenil-1-(2,2,2-trifluoretil)-2H-1,4-benzodiazepina-2-ona).
+
+Haloxazolam (10-bromo-11b-(2-fluorofenil)-2,3,7,11b-tetrahidrooxazol[3,2-d][1,4] benzodiazepina-6(5H)-ona).
+
+Loprazolam (6-2(clorofenil)-2,4-dihidro-2-[(4-metil-1-piperazinil)metileno]-8-nitro-1H-imidazo-[1,2-a][1,4]benzodiazepina-1-ona).
+
+Lorazepam (7-cloro-5(2-clorofenil)-1,3-dihidro-3-hidroxi-2H-1,4-benzodiazepina-2-ona).
+
+Lormetazepam (7-cloro-5-(2-clorofenil)-1,3-dihidro-3-hidroxi-1-metil-2H-1,4-benzodiazepina-2-ona).
+
+Mazindol (5-(p-clorofenil)-2,5-dihidro-3N-imidazol(2,1-a)-isoindol-5-ol).
+
+Medazepam (7-cloro-2,3-dihidro-1-metil-5-fenil-1H-1,4-benzodiazepina).
+
+Mefenorex ((±)-N-(3-cloropropil)-a-metilfenetilamina).
+
+Meprobamato (dicarbamato-2-metil-2-propil-1,3-propanediol).
+
+Mesocarbe (3-[(α)-metilfenetil]-N-(fenilcarbamoil)sidnonaimina).
+
+Metilfenobarbital (ácido-5-etil-1-metil-5-fenilbarbitúrico).
+
+Metiprilona (3,3-dietil-5-metil-2,4-biperidinediona).
+
+Midazolam (8-cloro-6-(o-fluorofenil)-1-metil-4H-imidazol[1,5-(α)][1,4] benzodiazepina).
+
+Nimetazepam (1,3-dihidro-1-metil-7-nitro-5-fenil-2H-1,4-benzodiazepina-2-ona).
+
+Nitrazepam (1,3-di-hidro-7-nitro-5-fenil-2H-1,4-benzodizepina-2-ona).
+
+Nordazepam (7-cloro-1,3-dihidro-5-fenil-1(2H)-1,4-benzodiazepina-2-ona).
+
+Oxazepam (7-cloro-1,3-dihidro-3-hidroxi-5-fenil-2H-1,4-benzodiazepina-2-ona).
+
+Oxazolam (10-cloro-2,3,7,11b-tetrahidro-2-metil-11b-feniloxazolo[3,2-d][1,4] benzodiazepina-6(5H)-ona).
+
+Pemolina (2-amino-5-fenil-2-oxazolina-4ona ou 2-imino-5-fenil-4-oxazolidinoma).
+
+Pinazepam (7-cloro-1,3-dihidro-5-fenil-1-(2-propinil)-2H-1,4-benzodiazepina-2-ona).
+
+Pipradol (1,1-difenil-2-piperidinometanol).
+
+Pirovalerona ((±)-1-(4-metilfenil)-2(1-pirrolidinil)1-pentanona).
+
+Prazepam (7-cloro-1-(ciclopropilmetil)-1,3-dihidro-5-fenil-2H-1,4-benzodiazepina-2-ona).
+
+Propilhexedrina ((±)-1-ciclo-hexil-2-metilaminopropano).
+
+Quazepan (7-cloro-5-(2-fluorofenil)-1,3-dihidro-1-(2,2,2-trifluoroetil)-2H-1,4-benzodiaze-pina-2-tiona).
+
+Secbutabarbital (ácido secbutil-5-etilbarbitúrico).
+
+SPA ou Lefetamina ((-)-1-dimetilamino-1,2-difeniletano).
+
+Temazepam (7-cloro-1,3-dihidro-3-hidroxi-1-metil-5-fenil-2H-1,4-benzodiazepina-2-ona).
+
+Tetrazepam (7-cloro-5-(1-ciclohexano-1-il)-1,3-dihidro-1-metil-2H-1,4-benzodiazepina-2-ona).
+
+Triazolam (8-cloro-6-(2-clorofenil)-1-metil-4H-[1,2,4]triazol[4,3-(alfa)][1,4] benzodiazepina).
+
+Vinilbital (ácido-5-(1-metilbutil)-5-vinilbarbitúrico).
+
+Zolpidem (N,N,6-trimetil-2-(ró)-tolilimidazol[1,2-(alfa)]piridina-3-acetamida).
+
+Os sais das substâncias indicadas nesta tabela, sempre que a existência de tais sais seja possível.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 19-F/2026 - Diário da República n.º 89/2026, Suplemento, Série I de 2026-05-08](https://diariodarepublica.pt/dr/detalhe/lei/19-f-2026-1114077553), em vigor a partir de 2026-05-09.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 9/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03](https://diariodarepublica.pt/dr/detalhe/lei/9-2023-208124551), em vigor a partir de 2023-03-04
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 25/2021 - Diário da República n.º 91/2021, Série I de 2021-05-11](https://diariodarepublica.pt/dr/detalhe/lei/49-2021-168184697), em vigor a partir de 2021-05-12
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 8/2019 - Diário da República n.º 23/2019, Série I de 2019-02-01](https://diariodarepublica.pt/dr/detalhe/lei/8-2019-118950627), em vigor a partir de 2019-02-06
+
+> Alterado pelo/a Artigo 1.º do/a [Lei n.º 17/2004 - Diário da República n.º 110/2004, Série I-A de 2004-05-11](https://diariodarepublica.pt/dr/detalhe/lei/17-2004-264356), em vigor a partir de 2004-05-12
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 69/2001 - Diário da República n.º 47/2001, Série I-A de 2001-02-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-2001-385468), em vigor a partir de 2001-02-25
+
+> Alterado pelo/a [Declaração de Rectificação n.º 20/93 - Diário da República n.º 43/1993, 1º Suplemento, Série I-A de 1993-02-20](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-1993-551823), em vigor a partir de 1993-02-21
+
+## TABELA V — 1-boc-4-piperidona
+
+3,4-metilenodioxifenil-2-propanona.
+
+4-piperidona
+
+α-fenilacetoacetamida (APAA)
+
+α -fenilacetoacetato de metilo (MAPA)
+
+α -fenilacetoacetonitrilo.
+
+Ácido lisérgico.
+
+Ácido P-2-P metilglicídico («ácido BMK glicídico») (todos os estereoisómeros).
+
+Ácido 3,4-MDP-2-P metilglicídico («ácido PMK glicídico») (todos os estereoisómeros).
+
+Efedrina.
+
+Ergometrina.
+
+Ergotamina.
+
+Fenil-1 propanona-2.
+
+Isosafrole.
+
+N-ácido-acetilantranílico.
+
+N-Fenil-4-piperidinamina (4-AP).
+
+Norefedrina.
+
+Norfentanilo.
+
+Piperonal.
+
+PMK-glicidato (3,4-MDP-2-P-metilglicidato).
+
+Pseudo-efedrina.
+
+Safrole.
+
+tert-Butil 4-(fenilamino)piperidina-1-carboxilato (1-boc-4-AP).
+
+Esteres metílico, etílico, propílico, isopropílico, butílico, isobutílico, sec-butílico e tert-butílico do ácido P-2-P metilglicídico.
+
+Esteres etílico, propílico, isopropílico, butílico, isobutílico, sec-butílico e tert-butílico do ácido 3,4-MDP-2-P metilglicídico.
+
+Os sais, os esterioisómeros e os isómeros óticos das substâncias inscritas na presente tabela em todos os casos em que a existência desses sais seja possível.
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 19-F/2026 - Diário da República n.º 89/2026, Suplemento, Série I de 2026-05-08](https://diariodarepublica.pt/dr/detalhe/lei/19-f-2026-1114077553), em vigor a partir de 2026-05-09.
+
+> Alterado pelo/a Artigo 6.º do/a [Lei n.º 9/2023 - Diário da República n.º 45/2023, Série I de 2023-03-03](https://diariodarepublica.pt/dr/detalhe/lei/9-2023-208124551), em vigor a partir de 2023-03-04
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 25/2021 - Diário da República n.º 91/2021, Série I de 2021-05-11](https://diariodarepublica.pt/dr/detalhe/lei/25-2021-163092604), em vigor a partir de 2021-05-12
+
+> Alterado pelo/a Anexo do/a [Lei n.º 15/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/15-2020-134762422), em vigor a partir de 2020-05-30
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 77/2014 - Diário da República n.º 218/2014, Série I de 2014-11-11](https://diariodarepublica.pt/dr/detalhe/lei/77-2014-58815346), em vigor a partir de 2014-11-12
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 3/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/lei/3-2003-176532), em vigor a partir de 2003-01-16
+
+## TABELA VI
+
+Acetona.
+
+Ácido antranílico.
+
+Ácido clorídrico.
+
+Ácido fenilacético.
+
+Ácido sulfúrico.
+
+Anidrido acético.
+
+Éter etílico.
+
+Metiletilcetona.
+
+Permanganato de potássio.
+
+Piperidina.
+
+Tolueno.
+
+Os sais das substâncias inscritas na presente tabela em todos os casos em que a existência desses sais seja possível.

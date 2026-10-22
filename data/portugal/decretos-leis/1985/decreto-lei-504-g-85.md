@@ -1,0 +1,140 @@
+---
+schema_version: '1.0'
+id: pt:dre:250615:por
+title: Decreto-Lei n.º 504-G/85
+short_title: null
+summary: Aplica o regime previsto na alínea f) do n.º 2 do artigo 16.º do Código do Imposto sobre o Valor Acrescentado às
+  transmissões de bens em segunda mão
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 504-G/85
+official_date: null
+publication_date: '1985-12-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 300/1985, 4º Suplemento, Série I de 1985-12-30
+  number: '300'
+  series: I
+  supplement: 4º Suplemento
+  pages: 4252-(30) a 4252-(31)
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/12/30004/00300031.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '250615'
+  dre_path: /dr/detalhe/decreto-lei/504-g-1985-250615
+  internal: pt:dre:250615:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-g-1985-250615
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/504-g-1985-250615
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-10-18T00:00:00Z'
+integrity:
+  source_sha256: 7d6f578a4f7d46cbdb7abadc6894909f1fb498036a63a1a5539a1b104e9b350d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-504-G-250615.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:226202:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 504-G/85
+
+de 30 de Dezembro
+
+A aplicação do método de crédito de imposto, nos casos em que a actividade exercida pelo sujeito passivo consista na transmissão de bens em segunda mão ou de objectos de arte referidos no n.º 19 do artigo 9.º do Código do Imposto sobre o Valor Acrescentado, traduzir-se-ia, em última análise, em sujeitar a nova e integral tributação de bens habitualmente oriundos do estádio final do consumo, em cujo preço está implicitamente contida uma parcela de imposto, obviamente excluída do direito à dedução.
+
+Infere-se, pois, que naquelas circunstâncias a reintrodução dos bens no circuito económico implicaria, necessariamente, um agravamento das condições de exploração dos operadores e um real encorajamento à respectiva comercialização fora dos circuitos normais.
+
+No sentido de obstar aos inconvenientes apontados, permite-se que o sujeito passivo revendedor, aquando da transmissão dos referidos bens, proceda à determinação do respectivo valor tributável através da diferença, devidamente justificada, entre a contraprestação obtida ou a obter do adquirente e o preço de compra dos mesmos bens, com inclusão do próprio imposto quando este tenha sido liquidado e como tal conste expressamente de factura ou documento equivalente.
+
+Assim, e de harmonia com o disposto no n.º 7 do artigo 16.º do Código do Imposto sobre o Valor Acrescentado, aprovado pelo [Decreto-Lei n.º 394-B/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/394-b-1984-605547), de 26 de Dezembro:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - O regime previsto na alínea f) do n.º 2 do artigo 16.º do Código do Imposto sobre o Valor Acrescentado é aplicável unicamente às transmissões de bens em segunda mão ou dos referidos no n.º 19 do artigo 9.º do mesmo Código efectuadas por sujeitos passivos do imposto que os tenham adquirido para revenda.
+
+2 - O valor tributável das transmissões de bens referidos no n.º 1 é constituído pela diferença, devidamente justificada, entre a contraprestação obtida ou a obter do cliente e o preço de compra dos mesmos bens, com inclusão do imposto sobre o valor acrescentado, caso este tenha sido liquidado e venha expresso na factura ou documento equivalente.
+
+3 - O apuramento do imposto devido será efectuado individualmente em relação a cada bem, não podendo o excesso do preço de compra sobre o preço de venda afectar o valor tributável de outras transmissões.
+
+4 - O sujeito passivo poderá ou não discriminar o imposto sobre o valor acrescentado na respectiva factura ou documento equivalente, mas só no primeiro caso poderá esta constituir suporte do direito à dedução para o seu adquirente.
+
+###### Art. 2.º - 1 - Consideram-se bens em segunda mão os bens móveis usados susceptíveis de utilização no mesmo estado ou após reparação, com exclusão dos renovados ou transformados.
+
+2 - Para efeitos deste diploma, são equiparados a bens em segunda mão os que, segundo a legislação aduaneira, devam considerar-se antiguidades ou objectos de colecção.
+
+3 - São excluídos do regime particular previsto neste diploma os bens referidos nos n.os 9 e 10 da lista III anexa ao Código do Imposto sobre o Valor Acrescentado.
+
+###### Art. 3.º - 1 - Não é dedutível pelos sujeitos passivos a quem se aplica este regime particular o imposto sobre o valor acrescentado que tenha onerado a aquisição ou importação dos bens referidos no n.º 1 do artigo 1.º, salvo quando tais bens forem posteriormente transmitidos através das operações referidas nos artigos 14.º e 15.º do Código do Imposto sobre o Valor Acrescentado e no documento de aquisição conste expressamente o valor do imposto.
+
+2 - É, porém, dedutível, nos termos gerais, o imposto sobre o valor acrescentado que onerou as reparações, a manutenção ou outras prestações de serviços respeitantes aos mesmos bens.
+
+###### Art. 4.º - 1 - As facturas ou documentos equivalentes emitidos pelos sujeitos passivos abrangidos por este regime deverão conter a menção «IVA - Objectos de arte» ou «IVA - Bens em segunda mão», conforme os casos.
+
+2 - As operações abrangidas pelo presente diploma devem ser escrituradas em registo especial, de modo a evidenciar os elementos referidos no n.º 2 do artigo 1.º, salvo na hipótese de o sujeito passivo ter exercido a opção regulada no artigo seguinte.
+
+###### Art. 5.º O regime previsto nos artigos 60.º a 68.º do Código do Imposto sobre o Valor Acrescentado não será aplicável aos sujeitos passivos que comercializem os bens referidos no n.º 1 do artigo 1.º do presente diploma.
+
+###### Art. 6.º De harmonia com a parte final da alínea f) do n.º 2 do artigo 16.º do Código do Imposto sobre o Valor Acrescentado, os sujeitos passivos que comercializem os bens referidos no n.º 1 do artigo 1.º do presente diploma podem optar por proceder à liquidação do imposto nos termos gerais do Código do Imposto sobre o Valor Acrescentado.
+
+###### Art. 7.º Fica autorizado o Ministério das Finanças a criar ou alterar, por despacho, os modelos de livros e impressos que se tornem necessários à execução das obrigações decorrentes do presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1985. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.
+
+**Promulgado em 30 de Dezembro de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 30 de Dezembro de 1985.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

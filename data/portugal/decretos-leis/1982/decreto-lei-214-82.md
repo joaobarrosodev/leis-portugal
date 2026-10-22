@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:391994:por
+title: Decreto-Lei n.º 214/82
+short_title: null
+summary: Extingue o Fundo de Fomento da Habitação e o Instituto de Apoio à Construção Civil e cria, na Secretaria-Geral do
+  Ministério da Habitação, Obras Públicas e Transportes, um quadro de efectivos interdepartamental
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Habitação, Obras Públicas e Transportes
+proposing_entity: null
+official_number: 214/82
+official_date: null
+publication_date: '1982-05-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 122/1982, Série I de 1982-05-29
+  number: '122'
+  series: I
+  supplement: null
+  pages: 1476 - 1478
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/05/12200/14761478.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '391994'
+  dre_path: /dr/detalhe/decreto-lei/214-1982-391994
+  internal: pt:dre:391994:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-1982-391994
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: 011e7859adc9e0cf2591dccf573f95a030547f6e4c0377191acbc28277073528
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-214-391994.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 214/82
+
+de 29 de Maio
+
+Através da [Resolução n.º 224/81](https://diariodarepublica.pt/dr/detalhe/resolucao/224-1981-568967), de 30 de Outubro, o Conselho de Ministros, considerando encontrar-se o Fundo de Fomento da Habitação numa situação insusceptível de reconversão para a prossecução dos objectivos da política habitacional do Governo e o Instituto de Apoio à Construção Civil desinserido desses objectivos, deliberou que fossem elaborados projectos de decreto-lei extinguindo o Fundo de Fomento da Habitação e o Instituto de Apoio à Construção Civil e definindo ou constituindo as estruturas orgânicas que lhes sucederão.
+
+O presente decreto-lei constitui uma das medidas legislativas inscritas nesse quadro.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º São extintos o Fundo de Fomento da Habitação e o Instituto de Apoio à Construção Civil e é dada por finda a actividade das Direcções-Gerais de Coordenação das Empresas de Construção Civil, de Coordenação de Projectistas e Consultores e das Indústrias para a Construção Civil.
+
+###### Art. 2.º Os programas em curso, o património incluindo activos e passivos, os saldos das dotações orçamentais e os arrendamentos dos organismos referidos no artigo 1.º serão transmitidos total ou parcialmente para outras entidades, por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes, com dispensa de quaisquer outras formalidades, salvo as de registo, quando necessário.
+
+###### Art. 3.º As atribuições do Fundo de Fomento da Habitação, previstas no artigo 6.º do [Decreto-Lei n.º 583/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/583-1972-665133), de 30 de Dezembro, no [Decreto-Lei n.º 8/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1973-288455), de 8 de Janeiro, no [Decreto-Lei n.º 737-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/737-a-1974-541874), de 23 de Dezembro, no artigo 3.º do [Decreto-Lei n.º 608/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/608-1973-621756), de 14 de Novembro, e no [Decreto-Lei n.º 344/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1979-378554), de 28 de Agosto, bem como as do Instituto de Apoio à Construção Civil, passam a ser prosseguidas pelos serviços que, na área da habitação e urbanismo do Ministério da Habitação, Obras Públicas e Transportes, detêm competências equivalentes, nos termos que forem determinados por despacho do Ministro da Habitação, Obras Públicas e Transportes.
+
+###### Art. 4.º - 1 - A fim de assegurar a liquidação do Fundo de Fomento da Habitação, será nomeada, por despacho conjunto do Ministro de Estado e das Finanças e do Plano e do Ministro da Habitação, Obras Públicas e Transportes, uma comissão liquidatária com composição, mandato, prazo e remunerações a definir no mesmo despacho.
+
+2 - Enquanto não for dado cumprimento ao disposto no artigo 2.º, a comissão liquidatária poderá, designadamente:
+
+a) Dar conclusão às obras em curso e exercer os direitos e obrigações emergentes dos respectivos contratos ou actos administrativos, designadamente tendo em vista a prossecução dos objectivos definidos pelo Governo quanto à extinção do ex-programa CAR;
+
+b) Praticar todos os actos de administração e outros necessários à defesa dos direitos do agora extinto Fundo de Fomento da Habitação;
+
+c) Proceder à alienação do património habitacional, nos termos legais, e praticar todos os actos necessários para o efeito;
+
+d) Cumprir os contratos de desenvolvimento para a habitação em que seja parte e exercer, nos termos contratuais, a garantia de compra;
+
+e) Intervir, negociar e outorgar contratos de desenvolvimento para a habitação cuja proposta já tenha sido admitida à data da publicação do presente diploma;
+
+f) Pagar as dívidas e respectivos encargos perante o tesouro, instituições de crédito e demais credores;
+
+g) Praticar todos os actos necessários à transferência do património e das situações activas e passivas em conformidade com o disposto no artigo 3.º
+
+h) Praticar os actos de gestão e satisfazer as despesas necessárias ao pontual cumprimento dos objectivos e competências fixadas nas alíneas anteriores;
+
+i) Intentar e prosseguir, activa e passivamente, as acções e outros processos necessários à defesa dos interesses e direitos do Fundo de Fomento da Habitação emergentes de actos ou contratos anteriores à entrada em vigor do presente diploma, bem como dos praticados ou celebrados no uso da competência fixada nas alíneas anteriores;
+
+j) Gerir o pessoal e exercer sobre o mesmo a competência disciplinar.
+
+###### Art. 5.º - 1 - Sem prejuízo da manutenção do respectivo vínculo, ficam afectos à Secretaria-Geral do Ministério da Habitação, Obras Públicas e Transportes e à Comissão Liquidatária do Fundo de Fomento da Habitação, respectivamente, os funcionários e agentes das direcções-gerais referidas no artigo 1.º e os do Fundo de Fomento da Habitação.
+
+2 - Os serviços a que se refere o artigo 3.º definirão, no prazo de 60 dias, as eventuais necessidades suplementares de pessoal para efeito de prosseguimento das atribuições que para eles transitam, nos termos do mesmo artigo.
+
+3 - A transição para os serviços mencionados no número anterior do pessoal referido no n.º 1 obedecerá aos critérios estabelecidos na legislação em vigor sobre racionalização de serviços e constituição de excedentes e processar-se-á logo que termine o prazo estipulado no n.º 2.
+
+4 - Serão constituídos em excedentes, desde que não abrangidos pela transição prevista no número anterior, os funcionários e agentes:
+
+a) Das Direcções-Gerais de Coordenação das Empresas de Construção Civil, de Coordenação de Projectistas e Consultores e das Indústrias para a Construção Civil;
+
+b) Do Fundo de Fomento da Habitação, à medida que for dada por finda a sua afectação à respectiva comissão liquidatária, facto que constará expressamente de despacho do Ministro da Habitação, Obras Públicas e Transportes, sob proposta daquela comissão.
+
+5 - Para efeitos do disposto no número anterior é criado na Secretaria-Geral do Ministério da Habitação, Obras Públicas e Transportes o respectivo quadro de efectivos interdepartamentais, no qual ingressarão automaticamente os efectivos que venham a ser constituídos em excedentes, nos termos do presente artigo, e, bem assim, os originários de serviços ou organismos dependentes ou tutelados por aquele Ministério.
+
+###### Art. 6.º As dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do Ministro de Estado e das Finanças e do Plano e dos Ministros da Habitação, Obras Públicas e Transportes e da Reforma Administrativa.
+
+Visto e aprovado em Conselho de Ministros de 2 de Abril de 1982. - Francisco José Pereira Pinto Balsemão - José Carlos Pinto Soromenho Viana Baptista.
+
+**Promulgado em 17 de Maio de 1982.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

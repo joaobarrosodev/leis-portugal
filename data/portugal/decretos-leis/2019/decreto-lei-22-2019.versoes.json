@@ -1,0 +1,293 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:118748849:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-122773838",
+ "dre_path": "/dr/detalhe/decreto-lei/22-2019-118748849",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-01-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122773936",
+    "122773937",
+    "122773938",
+    "122773939",
+    "122773940",
+    "122773941",
+    "122773942",
+    "122773943",
+    "122773944",
+    "122773945",
+    "122773946",
+    "122773947",
+    "122773948",
+    "122773950",
+    "122773951",
+    "122773952"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "122773936",
+    "122773937",
+    "122773953",
+    "122773939",
+    "122773940",
+    "122773941",
+    "122773942",
+    "122773943",
+    "122773944",
+    "122773945",
+    "122773946",
+    "122773947",
+    "122773948",
+    "122773949",
+    "122773950",
+    "122773951",
+    "122773954"
+   ]
+  },
+  {
+   "date": "2022-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:177088815:por",
+     "title": "Decreto-Lei n.º 4/2022",
+     "published": "2022-01-04",
+     "dre_path": "/dr/detalhe/decreto-lei/4-2022-177088815"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Anexo I",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "122773936",
+    "122773937",
+    "122773953",
+    "122773939",
+    "122773940",
+    "122773941",
+    "122773942",
+    "122773943",
+    "177145836",
+    "122773945",
+    "122773946",
+    "122773947",
+    "122773948",
+    "122773949",
+    "177145837",
+    "122773951",
+    "177145838"
+   ]
+  }
+ ],
+ "fragments": {
+  "122773936": {
+   "fragment_id": "122773839",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 22/2019\n\nde 30 de janeiro\n\nO Programa do XXI Governo Constitucional prevê reforçar as competências das autarquias locais, bem como das suas estruturas associativas, as entidades intermunicipais, através da descentralização de competências da Administração direta e indireta do Estado.\n\nO presente decreto-lei concretiza o processo de transferência de competências para as autarquias locais na área da cultura, ancorado nos princípios da subsidiariedade, da descentralização administrativa e da autonomia do poder local.\n\nAproveitando a vasta experiência municipal a nível da promoção de programação cultural local, bem como da gestão, valorização e conservação do património cultural, são transferidas competências de gestão, valorização e conservação de parte do património cultural que, sendo classificado, se considere de âmbito local e dos museus que não sejam denominados museus nacionais. Neste âmbito, é também transferida para os órgãos municipais a competência de gestão dos recursos humanos afetos àquele património cultural e aos museus.\n\nPrevê-se, ainda, a transferência de competências relativas ao controlo prévio e fiscalização de espetáculos de natureza artística, passando a ser competência municipal receber as comunicações prévias de espetáculos de natureza artística, assim como a fiscalização da realização de tais espetáculos.\n\nO exercício pelos órgãos municipais das competências previstas no presente decreto-lei obedece e subordina-se aos princípios e regras consagrados na lei de bases da política e do regime de proteção e valorização do património cultural, aprovada pela Lei n.º 107/2001, de 8 de setembro, na Lei Quadro dos Museus Portugueses, aprovada pela Lei n.º 47/2004, de 19 de agosto, no regime de funcionamento dos espetáculos de natureza artística e de instalação e fiscalização dos recintos fixos destinados à sua realização, aprovado pelo Decreto-Lei n.º 23/2014, de 14 de fevereiro, e demais legislação complementar.\n\nFace à data da publicação do presente decreto-lei, e à dificuldade que muitos municípios terão para cumprir o prazo de comunicação estabelecido na alínea a) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, prevê-se um regime próprio para o ano de 2019. Assim, tendo em consideração estes factos, os municípios que não pretendam a transferência das competências previstas no presente decreto-lei no ano de 2019 podem ainda comunicar esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos nesse sentido, até 60 dias após a entrada em vigor do presente decreto-lei.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos do n.º 1 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "122773937": {
+   "fragment_id": "122773840",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei concretiza a transferência de competências para os órgãos municipais no domínio da cultura, ao abrigo do artigo 15.º da Lei n.º 50/2018, de 16 de agosto."
+  },
+  "122773938": {
+   "fragment_id": "122773841",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Transferência de competências\n\n1 - É da competência dos órgãos municipais:\n\na) A gestão, valorização e conservação dos imóveis que, sendo classificados, se considerem de âmbito local, identificados no anexo I ao presente decreto-lei, do qual faz parte integrante;\n\nb) A gestão, valorização e conservação de museus que não sejam denominados museus nacionais, identificados no anexo II ao presente decreto-lei, do qual faz parte integrante;\n\nc) O controlo prévio e fiscalização de espetáculos de natureza artística;\n\nd) O recrutamento, seleção e gestão dos trabalhadores afetos ao património cultural que, sendo classificado, se considere de âmbito local e aos museus que não sejam denominados museus nacionais.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se de âmbito local os imóveis classificados do Estado com significado predominante para o respetivo município."
+  },
+  "122773939": {
+   "fragment_id": "122773842",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípio geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípio geral\n\nO exercício das competências previstas no presente decreto-lei obedece e subordina-se aos princípios e normas consagradas na lei de bases da política e do regime de proteção e valorização do património cultural, aprovada pela Lei n.º 107/2001, de 8 de setembro, na Lei Quadro dos Museus Portugueses, aprovada pela Lei n.º 47/2004, de 19 de agosto, no regime de funcionamento dos espetáculos de natureza artística e de instalação e fiscalização dos recintos fixos destinados à sua realização, aprovado pelo Decreto-Lei n.º 23/2014, de 14 de fevereiro, e demais legislação complementar aplicável, nomeadamente no que diz respeito aos bens classificados como tesouros nacionais incluídos nos acervos de museus que não sejam denominados museus nacionais."
+  },
+  "122773940": {
+   "fragment_id": "122773843",
+   "type": 11,
+   "heading": "Artigo 4.º — Exercício de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exercício de competências\n\n1 - Todas as competências previstas no presente decreto-lei são exercidas pela câmara municipal, sem prejuízo da competência da assembleia municipal nos casos sujeitos à apreciação do órgão deliberativo.\n\n2 - Para efeitos do disposto no número anterior, compete às câmaras municipais:\n\na) Gerir os monumentos, conjuntos e sítios que lhes estejam afetos e assegurar as condições para a sua fruição pelo público;\n\nb) Acompanhar, nos termos da lei, as ações de salvaguarda e valorização do património cultural que lhe está afeto;\n\nc) Submeter a apreciação da Direção-Geral do Património Cultural (DGPC) ou das direções regionais de cultura, consoante os casos, os estudos, projetos, relatórios, obras ou intervenções sobre bens culturais classificados como de interesse nacional ou de interesse público, tanto móveis como imóveis, que lhe estejam afetos, ou em vias de classificação, bem como, no caso dos imóveis, nas respetivas zonas de proteção;\n\nd) Promover, apoiar e colaborar na inventariação sistemática e atualizada dos bens que integram o património cultural;\n\ne) Promover a sensibilização e a divulgação de boas práticas para a defesa e valorização do património cultural;\n\nf) Proceder à inventariação de manifestações culturais tradicionais imateriais, individuais e coletivas, com relevância para a área do município;\n\ng) Articular-se com outras entidades públicas ou privadas que prossigam objetivos afins na área do município;\n\nh) Assegurar o reconhecimento do acesso dos detentores dos bens culturais aos benefícios decorrentes da classificação ou inventariação;\n\ni) Assegurar a gestão integrada das coleções que constituem o acervo dos museus sob sua gestão;\n\nj) Autorizar a cedência temporária de espaços nos imóveis ou nos museus sob sua gestão, de acordo com as condições a fixar em regulamento municipal e, no caso de imóveis de interesse nacional ou de interesse público, após parecer vinculativo da DGPC;\n\nk) Autorizar a cedência de imagens, de captação de imagens e de filmagens que envolvam os imóveis ou os museus sob sua gestão, de acordo com as condições a fixar em regulamento municipal e, no caso de imóveis de interesse nacional ou de interesse público, após parecer vinculativo da DGPC;\n\nl) Receber as meras comunicações prévias de espetáculos de natureza artística;\n\nm) Fiscalizar a realização de espetáculos de natureza artística.\n\n3 - Para efeitos do disposto no número anterior, os municípios aderem à plataforma eletrónica que suporta a tramitação desmaterializada dos procedimentos a que se refere o Decreto-Lei n.º 23/2014, de 14 de fevereiro."
+  },
+  "122773941": {
+   "fragment_id": "122773844",
+   "type": 11,
+   "heading": "Artigo 5.º — Receitas dos municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Receitas dos municípios\n\n1 - Constitui receita do município:\n\na) A receita obtida com a utilização de espaços e a captação e imagem e realização de filmagens, que envolvam os imóveis e os museus sob sua gestão;\n\nb) O produto da cobrança de ingressos, nos imóveis e museus sob sua gestão;\n\nc) O produto das taxas devidas pelas meras comunicações prévias de espetáculos de natureza artística.\n\n2 - Os valores de ingresso e respetivas isenções nos imóveis e museus sob gestão municipal são fixados nos termos do disposto no artigo 21.º do Regime Financeiro das Autarquias Locais e Entidades Intermunicipais, aprovado pela Lei n.º 73/2013, de 3 de setembro, na sua redação atual.\n\n3 - O montante e a forma de pagamento da taxa referida na alínea c) do n.º 1 são fixados pela assembleia municipal, mediante proposta da câmara municipal, nos termos do disposto na Lei n.º 75/2013, de 12 de setembro, na sua redação atual."
+  },
+  "122773942": {
+   "fragment_id": "122773845",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento de transição de trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de transição de trabalhadores\n\n1 - A transferência das competências de gestão, valorização e conservação dos imóveis classificados e dos museus não denominados museus nacionais para os municípios, prevista nas alíneas a) e b) do n.º 1 do artigo 2.º, determina, mediante pronúncia prévia favorável das respetivas câmaras municipais, a transição dos trabalhadores com vínculo de emprego público dos mapas de pessoal da DGPC e das Direções Regionais de Cultura do Norte, do Centro, do Alentejo e do Algarve, que exerçam funções naqueles imóveis e museus, para os mapas de pessoal das câmaras municipais da localização geográfica respetiva.\n\n2 - A transição referida no número anterior implica a sucessão na posição jurídica entre os empregadores públicos, de origem e de destino, envolvidos, mantendo-se inalterados, quanto às restantes matérias, os contratos de trabalho em funções públicas, designadamente quanto à situação jurídico-funcional que os trabalhadores detêm à data da transição.\n\n3 - As situações de mobilidade, em todas as suas modalidades, existentes à data da transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1, mantêm-se inalteradas até ao respetivo termo.\n\n4 - A transição dos trabalhadores para os mapas de pessoal das câmaras municipais prevista no n.º 1 produz efeitos com a publicação de lista nominativa dos referidos trabalhadores, organizada por município, na 2.ª série do Diário da República, homologada pelo membro do Governo responsável pelo serviço de origem.\n\n5 - A lista referida no número anterior contém obrigatoriamente a caracterização do posto de trabalho nos serviços de origem, bem como a carreira, categoria e posição remuneratória de cada trabalhador.\n\n6 - Os postos de trabalho necessários para dar cumprimento ao disposto nos números anteriores são automaticamente aditados ao mapa de pessoal da câmara municipal para onde transitam os trabalhadores referidos no n.º 1.\n\n7 - Os processos individuais dos trabalhadores são entregues pelo serviço de origem nos serviços da câmara municipal de destino no prazo de 90 dias após a publicação referida no n.º 4.\n\n8 - São transferidos para os municípios os montantes equivalentes às remunerações devidas aos trabalhadores a transferir e, bem assim, os encargos a cargo da entidade empregadora.\n\n9 - As transferências de recursos referidas no número anterior são atualizadas, anualmente, nos termos equivalentes à variação prevista para as remunerações dos trabalhadores em funções públicas.\n\n10 - Os trabalhadores a que se refere o presente artigo continuam a beneficiar do regime da Direção-Geral de Proteção Social aos Trabalhadores em Funções Pública (ADSE) e de reembolso das despesas com o Serviço Nacional de Saúde (SNS) vigente nos respetivos lugares de origem.\n\n11 - Os encargos relativos às despesas com a ADSE e o SNS dos trabalhadores a transitar para os mapas de pessoal das câmaras municipais são da responsabilidade da Administração central."
+  },
+  "122773943": {
+   "fragment_id": "122773846",
+   "type": 11,
+   "heading": "Artigo 7.º — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recursos financeiros\n\nO financiamento das competências transferidas para os municípios em matéria de cultura nos termos do presente decreto-lei, é assegurado pelos mecanismos previstos no respetivo regime financeiro e no Orçamento do Estado."
+  },
+  "122773944": {
+   "fragment_id": "122773847",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos humanos e financeiros para os anos de 2019 e de 2020",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Recursos humanos e financeiros para os anos de 2019 e de 2020\n\n1 - Sem prejuízo do disposto nos artigos 6.º e 7.º, os recursos humanos e os montantes a transferir para os municípios no ano de 2019 para o exercício das novas competências, através do Fundo de Financiamento da Descentralização, constam do anexo III ao presente decreto-lei, do qual faz parte integrante.\n\n2 - Caso se revele necessário, no decurso do ano de 2019, rever os montantes referidos no número anterior, o membro do Governo responsável pela área da cultura remete a fundamentação de revisão aos municípios, e a variação do montante é considerada autonomamente, em sede de Orçamento do Estado para 2020, na respetiva dotação do Fundo de Financiamento da Descentralização a transferir.\n\n3 - Para efeitos do disposto na alínea b) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, é publicado, até 30 de maio de 2019, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da cultura, o mapa com os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2020."
+  },
+  "122773945": {
+   "fragment_id": "122773848",
+   "type": 11,
+   "heading": "Artigo 9.º — Harmonização de procedimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Harmonização de procedimentos\n\n1 - Sem prejuízo do disposto no número seguinte, quando a atividade a desenvolver pelo requerente abranja o território de mais do que um município, os procedimentos previstos no presente decreto-lei devem ser harmonizados, recorrendo-se, sempre que possível, a meios de tramitação eletrónica, nomeadamente ao Balcão do Empreendedor.\n\n2 - O regime de funcionamento dos espetáculos de natureza artística e de instalação e fiscalização de recintos fixos destinados à sua realização, aprovado pelo Decreto-Lei n.º 23/2014, de 14 de fevereiro, é revisto através de diploma próprio, para efeitos de simplificação, integração e desmaterialização de procedimentos e exercício de competências pelos municípios."
+  },
+  "122773946": {
+   "fragment_id": "122773849",
+   "type": 11,
+   "heading": "Artigo 10.º — Atualização dos anexos I e II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Atualização dos anexos I e II\n\n1 - As listagens dos anexos I e II ao presente decreto-lei podem ser atualizadas por portaria dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da cultura, mediante pronúncia prévia favorável dos municípios interessados.\n\n2 - Para efeitos do disposto no número anterior, a afetação de bens culturais que não estejam sob alçada do membro do Governo responsável pela área da cultura implica a assinatura da referida portaria pelo membro do Governo competente.\n\n3 - Os municípios podem propor ao membro do Governo responsável pela área da cultura a inclusão na portaria referida no n.º 1 de outros bens culturais do Estado."
+  },
+  "122773947": {
+   "fragment_id": "122773850",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições transitórias\n\n1 - Consideram-se feitas aos municípios as referências constantes de outros diplomas legais relativas às competências objeto do presente decreto-lei.\n\n2 - Nos termos dos n.os 2 e 3 do artigo 40.º da Lei n.º 50/2018, de 16 de agosto, mantêm-se os contratos interadministrativos de delegação de competências celebrados ao abrigo do Decreto-Lei n.º 30/2015, de 12 de fevereiro, até à data em que as autarquias locais assumam, no âmbito do presente decreto-lei, as competências aí previstas.\n\n3 - Os contratos interadministrativos de delegação de competências caducam na data em que os respetivos municípios assumam as novas competências, no âmbito do presente decreto-lei.\n\n4 - Os contratos interadministrativos de delegação de competências referidos no n.º 2 podem ser prorrogados até à data prevista no número anterior.\n\n5 - As plataformas eletrónicas referidas no presente decreto-lei são adaptadas até ao final do ano de 2020."
+  },
+  "122773948": {
+   "fragment_id": "122773851",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n2 - O presente decreto-lei produz efeitos no dia 1 de janeiro de 2019, sem prejuízo da sua concretização gradual nos termos do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 20 de agosto.\n\n3 - Relativamente ao ano de 2019, os municípios que não pretendam exercer as competências previstas no presente decreto-lei comunicam esse facto à Direção-Geral das Autarquias Locais, após prévia deliberação dos seus órgãos deliberativos nesse sentido, no prazo de 60 dias corridos após entrada em vigor do presente decreto-lei."
+  },
+  "122773950": {
+   "fragment_id": "122773853",
+   "type": 14,
+   "heading": "Anexo I — [a que se referem a alínea a) do n.º 1 do artigo 2.º e o n.º 1 do artigo 10.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — [a que se referem a alínea a) do n.º 1 do artigo 2.º e o n.º 1 do artigo 10.º]\n\n(ver documento original)"
+  },
+  "122773951": {
+   "fragment_id": "122773854",
+   "type": 14,
+   "heading": "Anexo II — [a que se referem a alínea b) do n.º 1 do artigo 2.º e o n.º 1 do artigo 10.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — [a que se referem a alínea b) do n.º 1 do artigo 2.º e o n.º 1 do artigo 10.º]\n\n(ver documento original)"
+  },
+  "122773952": {
+   "fragment_id": "122773855",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 8.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 8.º)\n\n(ver documento original)\n\n112010114"
+  },
+  "122773953": {
+   "fragment_id": "122773841",
+   "type": 11,
+   "heading": "Artigo 2.º — Transferência de competências",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 190.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 2.º — Transferência de competências\n\n1 - É da competência dos órgãos municipais:\n\na) A gestão, valorização e conservação dos imóveis que, sendo classificados, se considerem de âmbito local, identificados no anexo I ao presente decreto-lei, do qual faz parte integrante;\n\nb) A gestão, valorização e conservação de museus que não sejam denominados museus nacionais, identificados no anexo II ao presente decreto-lei, do qual faz parte integrante;\n\nc) O controlo prévio e fiscalização de espetáculos de natureza artística;\n\nd) O recrutamento, seleção e gestão dos trabalhadores afetos ao património cultural que, sendo classificado, se considere de âmbito local e aos museus que não sejam denominados museus nacionais.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, consideram-se de âmbito local os imóveis classificados do Estado com significado predominante para o respetivo município.\n\n3 - As competências previstas nas alíneas a) e b) do n.º 1 são transferidas mediante pronúncia prévia favorável dos municípios interessados, que a remetem ao membro do Governo responsável pela área da cultura, dando conhecimento aos membros do Governo responsáveis pelas áreas das finanças e das autarquias locais.\n\n> Alterado pelo/a Artigo 190.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "122773949": {
+   "fragment_id": "122773852",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de novembro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Eduardo Arménio do Nascimento Cabrita - Graça Maria da Fonseca Caetano Gonçalves.\n\nPromulgado em 24 de janeiro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 24 de janeiro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "122773954": {
+   "fragment_id": "122773855",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 8.º)",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 190.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 8.º)\n\n(ver documento original)\n\n112401994\n\n> Alterado pelo/a Artigo 190.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "177145836": {
+   "fragment_id": "122773847",
+   "type": 11,
+   "heading": "Artigo 8.º — Recursos humanos e financeiros",
+   "in_force_from": "2022-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 4/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2022-177088815), em vigor a partir de 2022-01-05"
+   ],
+   "markdown": "###### Artigo 8.º — Recursos humanos e financeiros\n\n1 - Sem prejuízo do disposto nos artigos 6.º e 7.º, os recursos humanos e os montantes a transferir para os municípios para o exercício das novas competências, através do Fundo de Financiamento da Descentralização, constam do anexo iii ao presente decreto-lei, do qual faz parte integrante.\n\n2 - Caso se revele necessário, no decurso do ano de 2019, rever os montantes referidos no número anterior, o membro do Governo responsável pela área da cultura remete a fundamentação de revisão aos municípios, e a variação do montante é considerada autonomamente, em sede de Orçamento do Estado para 2020, na respetiva dotação do Fundo de Financiamento da Descentralização a transferir.\n\n3 - Para efeitos do disposto na alínea b) do n.º 2 do artigo 4.º da Lei n.º 50/2018, de 16 de agosto, é publicado, até 30 de maio de 2019, por despacho dos membros do Governo responsáveis pelas áreas das finanças, das autarquias locais e da cultura, o mapa com os montantes do Fundo de Financiamento da Descentralização a transferir para os municípios no ano de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 4/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2022-177088815), em vigor a partir de 2022-01-05"
+  },
+  "177145837": {
+   "fragment_id": "122773853",
+   "type": 14,
+   "heading": "Anexo I — [a que se referem a alínea a) do n.º 1 do artigo 2.º e o n.º 1 do artigo 10.º]",
+   "in_force_from": "2022-01-05",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 4/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2022-177088815), em vigor a partir de 2022-01-05"
+   ],
+   "markdown": "## Anexo I — [a que se referem a alínea a) do n.º 1 do artigo 2.º e o n.º 1 do artigo 10.º]\n\n(ver documento original)\n\n> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 4/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2022-177088815), em vigor a partir de 2022-01-05"
+  },
+  "177145838": {
+   "fragment_id": "122773855",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 1 do artigo 8.º)",
+   "in_force_from": "2022-01-05",
+   "changed_by": [
+    "Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 4/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2022-177088815), em vigor a partir de 2022-01-05",
+    "Alterado pelo/a Artigo 190.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 1 do artigo 8.º)\n\n(ver documento original)\n\n114851945\n\n> Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 4/2022 - Diário da República n.º 2/2022, Série I de 2022-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2022-177088815), em vigor a partir de 2022-01-05\n\n> Alterado pelo/a Artigo 190.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  }
+ }
+}

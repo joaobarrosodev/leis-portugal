@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:161126:por
+title: Decreto n.º 137/75
+short_title: null
+summary: Altera a redacção de vários artigos do Regulamento dos Transportes Internacionais Rodoviários, aprovado pelo Decreto
+  n.º 45/72, de 5 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Equipamento Social e do Ambiente - Secretaria de Estado dos Transportes e Comunicações - Direcção-Geral de
+  Transportes Terrestres
+proposing_entity: null
+official_number: 137/75
+official_date: null
+publication_date: '1975-03-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 64/1975, Série I de 1975-03-17
+  number: '64'
+  series: I
+  supplement: null
+  pages: 408 - 410
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/03/06400/04080410.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '161126'
+  dre_path: /dr/detalhe/decreto/137-1975-161126
+  internal: pt:dre:161126:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/137-1975-161126
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/137-1975-161126
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-03-17T00:00:00Z'
+integrity:
+  source_sha256: c924c4df6c7712dca4d58d2656abd3aa32ffd9cfac68dcc03f13b8eb104ff1aa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-137-161126.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 137/75
+
+de 17 de Março
+
+Conforme o próprio preâmbulo do [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), que o aprovou, refere, o Regulamento dos Transportes Internacionais Rodoviários não pode ser considerado como um diploma perfeito e definitivo, antes sendo uma primeira tentativa de regulamentação de uma actividade que até então se processara à margem de qualquer condicionamento legal que permitisse conjugar adequadamente os vários interesses em presença e os superiores interesses do País.
+
+O presente diploma visa, precisamente, corrigir múltiplos aspectos de pormenor, relacionados, sobretudo, com o licenciamento de transportes regulares internacionais de passageiros, de forma a simplificar a sua execução.
+
+Aproveita-se, igualmente, para harmonizar este Regulamento com as alterações introduzidas pelo [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), de 17 de Março, em relação ao regime fiscal aplicável aos transportes internacionais.
+
+Nestes termos:
+
+Usando da faculdade conferida pelo artigo 16.º, n.º 1, 4.º, da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo único. É alterada a redacção dos artigos a seguir indicados do Regulamento dos Transportes Internacionais Rodoviários, aprovado pelo [Decreto n.º 45/72](https://diariodarepublica.pt/dr/detalhe/decreto/45-1972-398094), de 5 de Fevereiro, nos seguintes termos:
+
+###### Artigo 2.º — (Objecto da regulamentação)
+
+1. São exclusivamente objecto da presente regulamentação:
+
+a) ...
+
+b) Os transportes de mercadorias efectuados em veículos especialmente adaptados ao deslocamento de quaisquer espécies físicas, com exclusão das pessoas, ou mistos e cujo peso máximo autorizado exceda 3500 kg;
+
+c) ...
+
+2. Exceptuam-se do disposto no número anterior as disposições sobre matéria fiscal, que se aplicam a todos os veículos de matrícula estrangeira com as características nele indicadas, importados temporariamente para circularem no País, qualquer que seja o motivo dessa deslocação.
+
+3. Consideram-se abrangidos pela alínea b) do n.º 1 deste artigo os reboques que realizem transportes internacionais de mercadorias, na medida em que circulem por estrada em território português, ainda que entrem ou saiam do País utilizando outro modo de transporte.
+
+###### Artigo 21.º — (Acesso aos transportes regulares)
+
+1. Os transportes regulares com origem ou destino numa região serão explorados pela empresa nela constituída, nos termos dos artigos 16.º e 19.º, isolada ou conjuntamente com empresas constituídas noutras regiões.
+
+2. ...
+
+3. ...
+
+4. ...
+
+5. ...
+
+6. ...
+
+###### Artigo 23.º — (Concessão dos transportes)
+
+1. A exploração de cada linha de transporte regular internacional dependerá de concessão a outorgar por despacho do Secretário de Estado dos Transportes e Comunicações, o qual aprovará o caderno de encargos de que constarão as condições a que aquela ficará subordinada.
+
+2. ...
+
+3. Sobre os requerimentos a que se refere o número anterior, será ouvida sempre a concessionária da rede ferroviária nacional.
+
+4. Tratando-se de transportes fronteiriços, além da audição a que se refere o número anterior, será publicado no Diário do Governo edital em que se convidem as empresas referidas no n.º 2 do artigo 21.º a pronunciarem-se sobre o pedido e a deduzirem, querendo, preferência na concessão.
+
+5. Nos casos previstos nos n.os 3 e 4, será fixado um prazo para os interessados se pronunciarem, não superior a trinta dias.
+
+6. Salvo quando, por força do regime aplicável nos restantes países percorridos, o prazo de concessão deva ser inferior, a concessão será outorgada por um prazo de três anos, prorrogável por iguais períodos, se o Governo ou o concessionário não notificarem a contraparte, com uma antecedência mínima de seis meses, de que desejam dar por finda a concessão.
+
+7. Poderá, porém, a requerimento dos interessados ou por decisão do Governo, a concessão ser outorgada em regime provisório, pelo prazo de um ano, com a finalidade de verificar a existência de uma procura de transportes regular e permanente e a salvaguarda dos objectivos da coordenação de transportes.
+
+8. A concessão, uma vez outorgada, implica para o concessionário a obrigação de explorar a linha nas condições fixadas.
+
+9. Ocorrendo razões de interesse público ligadas à coordenação dos transportes que assim o imponham, as concessões poderão, em condições a fixar no respectivo caderno de encargos, ser resgatadas ou temporariamente suspensas, mediante justa compensação ao seu titular pelos prejuízos sofridos.
+
+###### Artigo 25.º — (Alterações das condições de exploração)
+
+1. As decisões sobre alteração das condições de exploração das linhas regulares serão, salvo nos casos expressamente previstos neste diploma, da competência da Direcção-Geral de Transportes Terrestres.
+
+2. Tratando-se de linhas classificadas como concorrentes, sobre as alterações das condições de exploração que possam ter implicações na coordenação de transportes será ouvida a concessionária da rede ferroviária nacional.
+
+###### Artigo 45.º — (Regime de exploração)
+
+1. Cada linha de transporte regular com origem, destino ou em trânsito em território português carece, para ser explorada por um transportador não residente, de licença a conceder por despacho do Secretário de Estado dos Transportes e Comunicações.
+
+2. Será aplicável, nestes casos, com as necessárias adaptações, o disposto no artigo 23.º deste diploma, devendo, porém, quando dos requerimentos não conste ser a exploração feita em colaboração com um transportador residente, ser ouvidas também as empresas referidas no artigo 21.º interessadas.
+
+3. A decisão sobre um pedido de concessão de uma linha regular, efectuado, nos termos do artigo 23.º, por um transportador residente, abrange, sem necessidade de quaisquer das formalidades previstas no número anterior, o licenciamento da exploração do transporte pelos transportadores não residentes mencionados no respectivo requerimento.
+
+###### Artigo 46.º — (Condições de licenciamento)
+
+1. No caso de uma linha regular ser explorada conjuntamente por diversos transportadores residentes ou não residentes, todos serão solidariamente responsáveis pelo cumprimento das obrigações emergentes da concessão ou licenciamento.
+
+2. Mediante autorização do Secretário de Estado dos Transportes e Comunicações, poderão as empresas licenciadas para a exploração de linhas regulares transferir para outras empresas o seu direito, ficando as novas empresas responsáveis pelo cumprimento de todas as obrigações que competiam ao seu primitivo titular.
+
+###### Artigo 71.º — (Liquidação e cobrança)
+
+1. ...
+
+2. ...
+
+3. ...
+
+4. Para efeitos de liquidação destes impostos, considera-se como momento de saída aquele em que o veículo se apresenta na delegação aduaneira de saída e apresenta os respectivos documentos às autoridades aduaneiras, independentemente do momento em que, efectivamente, abandone o território nacional.
+
+5. As disposições administrativas necessárias à aplicação dos números anteriores serão tomadas por portaria conjunta dos Secretários de Estado do Orçamento e dos Transportes e Comunicações.
+
+###### Artigo 73.º — (Fiscalização e garantia de pagamento)
+
+1. Os veículos em que se efectuem os transportes pelos quais são devidos os impostos previstos no artigo 14.º do [Decreto-Lei n.º 477/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1971-631384) só poderão transitar com documento comprovativo de ter sido efectuado o respectivo pagamento relativamente ao último período de cobrança voluntária de que haja terminado o prazo de pagamento.
+
+2. A falta de pagamento dos impostos a que se refere o artigo 16.º do mesmo decreto-lei no prazo legal de cobrança voluntária implica a suspensão da validade da respectiva concessão ou licença.
+
+3. ...
+
+4. ...
+
+###### Artigo 74.º — (Imobilização dos veículos)
+
+1. Para efeitos do disposto nas alíneas a) e b) do n.º 1 do artigo 21.º do [Decreto-Lei n.º 477/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/477-1971-631384), de 6 de Novembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 136/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1975-161130), de 17 de Março, os transportadores não residentes deverão depositar, mediante recibo, os documentos do veículo junto da autoridade policial com jurisdição na área em que ocorreram os factos que estão na origem da imobilização ou na delegação aduaneira respectiva.
+
+2. Desaparecido o motivo da imobilização, os interessados solicitarão, verbalmente, à referida autoridade, a entrega dos respectivos documentos e, quando o período de imobilização tenha atingido o mínimo fixado na lei, de declaração autenticada comprovativa dos dias completos em que os documentos estiveram depositados à sua ordem, na qual se indicarão as circunstâncias determinantes da imobilização.
+
+3. No caso previsto na alínea b) do n.º 1 do artigo 21.º do mesmo decreto-lei, as autoridades policiais não procederão à emissão da declaração referida no número anterior sem se certificarem da verificação dos pressupostos mencionados no n.º 2 do mesmo artigo, sem prejuízo da aceitação em depósito dos documentos, para a qual não é necessária a demonstração prévia desses pressupostos.
+
+4. As autoridades que tenham procedido à apreensão de um veículo deverão, aquando do seu levantamento, entregar ao interessado documento comprovativo do período em que esta se verificou.
+
+Vasco dos Santos Gonçalves - José da Silva Lopes - José Augusto Fernandes.
+
+**Promulgado em 5 de Março de 1975.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

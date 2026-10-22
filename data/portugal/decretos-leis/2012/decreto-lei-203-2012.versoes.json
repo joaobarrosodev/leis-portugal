@@ -1,0 +1,282 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174784:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-960669911",
+ "dre_path": "/dr/detalhe/decreto-lei/203-2012-174784",
+ "source_lastmod": "2026-02-13",
+ "versions": [
+  {
+   "date": "2026-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1049254410:por",
+     "title": "Decreto-Lei n.º 38/2026",
+     "published": "2026-02-13",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2026-1049254410"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Adita Artigo 15.º-A",
+    "Adita Artigo 15.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 15.º",
+    "Revoga Artigo 18.º"
+   ],
+   "fragments": [
+    "961309175",
+    "1045674278",
+    "961309575",
+    "1045674279",
+    "1045674284",
+    "1045674285",
+    "1045674286",
+    "1045674287",
+    "1045674288",
+    "1045674289",
+    "1045674290",
+    "1045674291",
+    "1045674292",
+    "1045674293",
+    "1045674294",
+    "1045674295",
+    "1045674296",
+    "1045674303",
+    "1045674310",
+    "1045674311",
+    "1045674312",
+    "1045674317",
+    "1045674314",
+    "1045674315",
+    "1045674316"
+   ]
+  }
+ ],
+ "fragments": {
+  "961309175": {
+   "fragment_id": "961309075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nO regime financeiro do sistema público de segurança social, nos termos definidos na respetiva lei de bases, deve conjugar as técnicas de repartição e capitalização pública de estabilização, por forma a ajustar-se às condições económicas, sociais e demográficas.\n\nA capitalização pública de estabilização foi introduzida em 1989 pelo Decreto-Lei n.º 259/89, de 14 de agosto, que criou o Fundo de Estabilização Financeira da Segurança Social (FEFSS).\n\nPor seu turno, o Decreto-Lei n.º 449-A/99, de 4 de novembro, criou o Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P. (IGFCSS, I. P.), que sucedeu ao FEFSS, já com a natureza de instituto público que lhe houvera sido atribuída pelo Decreto-Lei n.º 399/90, de 13 de dezembro.\n\nO IGFCSS, I. P., desenvolveu-se, assegurando a transição da gestão e do investimento dos crescentes montantes do FEFSS de um ambiente limitado ao mercado Português para os mercados da OCDE. Ao que acresce que o Decreto-Lei n.º 26/2008, de 22 de fevereiro, cometeu ao IGFCSS, I. P., a gestão em regime de capitalização do fundo dos certificados de reforma e a administração do regime público de capitalização.\n\nAssim, o IGFCSS, I. P., é atualmente uma organização pública tecnicamente especializada na atividade de gestão de fundos ou patrimónios autónomos com horizonte de investimento de médio ou longo prazo.\n\nSucede que a relevância das atribuições do IGFCSS, I. P., designadamente o investimento de elevados montantes nos mercados de capitais e imobiliários, exige que o Estado Português disponha de uma entidade com capacidade equivalente à de uma instituição financeira especializada na gestão de fundos, dotada de todos os meios necessários, designadamente dos instrumentos de gestão e da necessária flexibilidade que, devidamente articulados, lhe assegurem uma efetiva capacidade competitiva de intervenção nos mercados em que atua.\n\nDeste modo, pelo Decreto-Lei n.º 39/2011, de 21 de março, reconheceu-se que o IGFCSS, I. P., é um instituto público de regime especial para efeitos do disposto na alínea b) do n.º 1 do artigo 48.º da lei-quadro dos institutos públicos.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1045674278": {
+   "fragment_id": "961309275",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - O Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P., doravante abreviadamente designado por IGFCSS, I. P., ou por Instituto de Gestão de Fundos, I. P., é um instituto público de regime especial nos termos da lei, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O IGFCSS, I. P., prossegue atribuições do Ministério do Trabalho, Solidariedade e Segurança Social (MTSSS), sob superintendência e tutela do respetivo ministro.\n\n3 - O Fundo de Estabilização Financeira da Segurança Social, doravante abreviadamente designado por FEFSS, é um património autónomo afeto exclusivamente à capitalização pública de estabilização, nos termos e com as finalidades previstas na lei de bases da segurança social.\n\n4 - O FEFSS está integrado no IGFCSS, I. P., e é por ele administrado e gerido em regime de capitalização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+  },
+  "961309575": {
+   "fragment_id": "961309475",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - O IGFCSS, I. P., é um organismo central com jurisdição sobre todo o território nacional.\n\n2 - O IGFCSS, I. P., tem a sua sede no Porto e uma delegação em Lisboa."
+  },
+  "1045674279": {
+   "fragment_id": "961309675",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão\n\nO IGFCSS, I. P., tem por missão a gestão de fundos de capitalização no âmbito do financiamento do sistema de segurança social do Estado e de outros sistemas previdenciais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+  },
+  "1045674284": {
+   "fragment_id": "1050874143",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Atribuições",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Atribuições\n\n1 - São atribuições do IGFCSS, I. P.:\n\na) Gerir em regime de capitalização a carteira do FEFSS, e de outros fundos, bem como as disponibilidades financeiras que lhe sejam afetas;\n\nb) Administrar o regime público de capitalização, incluindo a gestão, em regime de capitalização, dos fundos e dos planos de rendas que lhe são subjacentes;\n\nc) Exercer as funções de entidade gestora do Fundo de Compensação do Trabalho, nos termos previstos na Lei n.º 70/2013, de 30 de agosto, na sua redação atual, e demais legislação aplicável;\n\nd) Promover o adequado planeamento, organização, direção e controlo nas áreas de gestão das carteiras de aplicações, análise de mercados e informações estatísticas;\n\ne) Administrar o património imobiliário que lhe está afeto;\n\nf) Negociar e contratar com as instituições do sistema monetário e financeiro as aplicações pertinentes, no âmbito das suas competências;\n\ng) Realizar as transferências necessárias para assegurar a estabilização financeira da segurança social;\n\nh) Colaborar e articular-se pelas formas convenientes com os serviços e instituições do sistema de segurança social;\n\ni) Assessorar o membro do Governo responsável pela área da segurança social nas matérias relacionadas com as suas atribuições, em especial, sobre a gestão em regime de capitalização.\n\n2 - O IGFCSS, I. P., pode prestar a outras entidades, públicas ou privadas, serviços de gestão de fundos, consultoria ou apoio técnico decorrentes da sua experiência e da informação de que dispõe, bem como gerir patrimónios autónomos suscetíveis de investimento nos médio e longo prazos.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+  },
+  "1045674285": {
+   "fragment_id": "961309875",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos do IGFCSS, I. P.:\n\na) O conselho diretivo;\n\nb) O fiscal único;\n\nc) O conselho consultivo."
+  },
+  "1045674286": {
+   "fragment_id": "961310075",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho diretivo",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho diretivo\n\n1 - O conselho diretivo é composto por um presidente, por um vice-presidente e por um vogal.\n\n2 - Os membros do conselho diretivo devem assegurar, em permanência, garantias de gestão sã e prudente do IGFCSS, I. P., e dos fundos sob sua gestão.\n\n3 - Para efeitos do disposto no número anterior, os membros do conselho diretivo devem cumprir os requisitos de idoneidade, qualificação profissional, independência e disponibilidade, tal como definidos no perfil aplicável ao respetivo processo de recrutamento e seleção.\n\n4 - Sem prejuízo das competências conferidas por lei, ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do IGFCSS, I. P.:\n\na) Elaborar propostas de regulamentos de gestão dos fundos geridos pelo IGFCSS, I. P.;\n\nb) Autorizar, aprovar e acompanhar a negociação e a contratação dos investimentos relativos aos fundos sob sua gestão, incluindo a aquisição e alienação de imóveis, bem como as relativas às disponibilidades afetas ao IGFCSS, I. P., outorgando todos os atos e contratos necessários;\n\nc) Subcontratar, na medida do necessário, a gestão de uma parte das carteiras de fundos sob gestão do IGFCSS, I. P., a entidades financeiras especializadas com reconhecida capacidade e reputação;\n\nd) Autorizar a aquisição de serviços de natureza financeira, designadamente a contratação de serviços de custódia e guarda de títulos, empréstimos de valores, aquisição, venda e liquidação de operações sobre valores mobiliários;\n\ne) Deliberar sobre a aquisição e alienação, locação financeira ou aluguer de bens móveis e o arrendamento de bens imóveis destinados a instalação, equipamento e funcionamento do IGFCSS, I. P., sem prejuízo das atribuições legalmente cometidas a outras entidades;\n\nf) Deliberar sobre a aquisição ou locação financeira de bens imóveis para os mesmos fins da alínea anterior, ou sobre a sua alienação, mediante autorização do membro do Governo responsável pelas áreas da solidariedade e segurança social, sem prejuízo das atribuições legalmente cometidas a outras entidades.\n\n5 - O conselho diretivo pode delegar, com faculdade de subdelegação, as competências que lhe estejam atribuídas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+  },
+  "1045674287": {
+   "fragment_id": "961310275",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências previstas na lei-quadro dos institutos públicos."
+  },
+  "1045674288": {
+   "fragment_id": "961310475",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do IGFCSS, I. P., e nas tomadas de decisão do conselho diretivo.\n\n2 - Os membros do conselho consultivo são designados pelo membro do Governo que tutela o IGFCSS, I. P., pelo período de três anos, renovável, e tem a seguinte composição:\n\na) Três representantes institucionais indicados, respetivamente, pelo Conselho de Finanças Públicas, pelo Instituto de Gestão Financeira da Segurança Social, I. P., e pela Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E.;\n\nb) Um representante de cada um dos parceiros sociais que integram a Comissão Permanente de Concertação Social;\n\nc) Um representante do IGFCSS, I. P.;\n\nd) Três personalidades de reconhecida competência na área dos mercados financeiros.\n\n3 - No ato de designação é indicado o presidente do conselho consultivo.\n\n4 - O representante designado nos termos da alínea c) não dispõe de direito a voto.\n\n5 - Sem prejuízo das demais competências conferidas por lei, compete ao conselho consultivo pronunciar-se sobre:\n\na) As contas do IGFCSS, I. P., e do FEFSS;\n\nb) A política de gestão do FEFSS.\n\n6 - A participação no conselho consultivo não confere o direito a remuneração.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+  },
+  "1045674289": {
+   "fragment_id": "961310675",
+   "type": 11,
+   "heading": "Artigo 8.º — Vinculação",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Vinculação\n\n1 - O IGFCSS, I. P., obriga-se pela assinatura de dois membros do conselho diretivo ou de quem, no exercício de poderes delegados ou de mandato que abranja tais atos, disponha de poderes bastantes para o efeito.\n\n2 - Para atos de mero expediente é suficiente a assinatura de qualquer membro do conselho diretivo ou de quem, no exercício de poderes delegados ou de mandato que abranja tais atos, disponha de poderes bastantes para o efeito.\n\n3 - O IGFCSS, I. P., pode celebrar contratos redigidos numa língua de uso corrente nos mercados financeiros internacionais e submeter a respetiva execução a legislação de país estrangeiro, apenas em casos manifestamente excecional e devidamente fundamentados, para os quais não exista comprovadamente alternativa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+  },
+  "1045674290": {
+   "fragment_id": "961310875",
+   "type": 11,
+   "heading": "Artigo 9.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Organização interna\n\nA organização interna do IGFCSS, I. P., é a prevista nos respetivos estatutos."
+  },
+  "1045674291": {
+   "fragment_id": "961311075",
+   "type": 11,
+   "heading": "Artigo 10.º — Estatuto dos membros do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Estatuto dos membros do conselho diretivo\n\nOs membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestor público."
+  },
+  "1045674292": {
+   "fragment_id": "961311275",
+   "type": 11,
+   "heading": "Artigo 11.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Receitas\n\n1 - O IGFCSS, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado e pelo orçamento da segurança social para funcionamento, em contrapartida pelo serviço de administração e gestão dos fundos públicos sob sua gestão.\n\n2 - O IGFCSS, I. P., dispõe ainda das seguintes receitas próprias:\n\na) As que resultem da remuneração de serviços prestados a outras entidades públicas ou privadas;\n\nb) As advenientes da venda de estudos, obras ou outras edições por si promovidas;\n\nc) As comparticipações ou subsídios que lhe sejam atribuídos por quaisquer entidades nacionais ou estrangeiras;\n\nd) As doações, heranças ou legados;\n\ne) Os rendimentos de bens próprios, bem como o produto da sua alienação e da constituição de direitos sobre os mesmos;\n\nf) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.\n\n3 - O saldo das receitas referidas nos números anteriores verificado no final de cada ano transita automaticamente para o FEFSS, independentemente de quaisquer formalidades.\n\n4 - O financiamento do orçamento do IGFCSS, I. P., na proporção em que se encontra suportado pelos fundos que administra nos termos do n.º 1, não está sujeito ao regime normal de financiamento das instituições da segurança social, designadamente o financiamento com base nos planos de tesouraria aprovados pelo Instituto de Gestão Financeira da Segurança Social, I. P.\n\n5 - Para efeitos do disposto no número anterior o IGFCSS, I. P., procede às transferências necessárias dos fundos sob sua gestão, nos termos dos regulamentos dos referidos fundos, para a conta do IGFCSS, I. P."
+  },
+  "1045674293": {
+   "fragment_id": "961311475",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas\n\nConstituem despesas do IGFCSS, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições."
+  },
+  "1045674294": {
+   "fragment_id": "961311675",
+   "type": 11,
+   "heading": "Artigo 13.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Património\n\nO património do IGFCSS, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular."
+  },
+  "1045674295": {
+   "fragment_id": "961311875",
+   "type": 11,
+   "heading": "Artigo 14.º — Criação ou participação em entidades de direito privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Criação ou participação em entidades de direito privado\n\nA criação, participação na criação, aquisição ou aumento de participação em entes de direito privado por parte do IGFCSS, I. P., cuja atividade principal consista em exercer uma ou mais atividades tipificadas nas alíneas e), h) e i) do n.º 1 do artigo 4.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, apenas se pode verificar em situações excecionais quando, cumulativamente, seja fundamentadamente demonstrada a imprescindibilidade para a prossecução das suas atribuições e seja obtida autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da segurança social, nos termos do artigo 13.º da Lei n.º 3/2004, de 15 de janeiro."
+  },
+  "1045674296": {
+   "fragment_id": "961312075",
+   "type": 11,
+   "heading": "Artigo 15.º — Cargos dirigentes intermédios",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 15.º — Cargos dirigentes intermédios\n\n1 - São cargos de direção intermédia de 1.º grau do IGFCSS, I. P., os diretores de departamento.\n\n2 - A remuneração base e as despesas de representação dos cargos de direção intermédia identificados no número anterior são determinadas em percentagem da remuneração base do vogal do conselho diretivo do IGFCSS, I. P., e das respetivas despesas de representação, na proporção de 80 %.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+  },
+  "1045674303": {
+   "fragment_id": "1050874144",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Equipas multidisciplinares",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 15.º-A — Equipas multidisciplinares\n\n1 - Em casos excecionais devidamente fundamentados e até ao limite de quatro em funcionamento simultâneo, podem ser constituídas equipas multidisciplinares para o desenvolvimento de projetos que abranjam várias vertentes da atividade do instituto, mediante deliberação do conselho diretivo, a publicar no Diário da República.\n\n2 - A deliberação referida no número anterior estabelece as competências das equipas multidisciplinares e designa o respetivo coordenador.\n\n3 - As equipas multidisciplinares dependem diretamente do conselho diretivo.\n\n4 - Aos coordenadores das equipas multidisciplinares é atribuído um estatuto remuneratório correspondente, em função da complexidade das funções atribuídas à referida equipa, de até 80 % da remuneração do vogal do conselho diretivo, sem prejuízo da opção pelo vencimento de origem.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+  },
+  "1045674310": {
+   "fragment_id": "1050874145",
+   "type": 11,
+   "heading": "Artigo 15.º-B — Sistema de incentivos",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 15.º-B — Sistema de incentivos\n\n1 - É criado um sistema de incentivos que visa a atribuição de prémios de desempenho aos trabalhadores e dirigentes intermédios do IGFCSS, I. P., tendo por base indicadores relacionados com os resultados obtidos pelos mesmos e outros indicadores de desempenho.\n\n2 - Os termos e as condições do sistema de incentivos são concretizados através de portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e do trabalho, solidariedade e segurança social.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+  },
+  "1045674311": {
+   "fragment_id": "961312275",
+   "type": 11,
+   "heading": "Artigo 16.º — Fundo de Estabilização Financeira da Segurança Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Fundo de Estabilização Financeira da Segurança Social\n\n1 - Os bens, direitos e obrigações que integram o património do FEFSS são identificados em conta própria.\n\n2 - Os poderes de administração e gestão atribuídos ao IGFCSS, I. P., enquanto entidade gestora do FEFSS, compreendem o poder de realizar quaisquer negócios jurídicos, incluindo os de aquisição, alienação e administração dos bens e direitos que integram o Fundo, com observância do respetivo regulamento de gestão.\n\n3 - O regulamento de gestão do FEFSS é aprovado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da segurança social.\n\n4 - O capital do FEFSS corresponde ao valor patrimonial global líquido de todos os bens, direitos e obrigações, que integram a sua carteira, identificados nos termos do n.º 1, e que são afetos exclusivamente à capitalização pública de estabilização.\n\n5 - O capital do FEFSS é aumentado pelos montantes que lhe forem afetados nos termos da lei ou mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e da segurança social.\n\n6 - Os resultados apurados em cada exercício económico são afetados ao capital do FEFSS, seguindo a técnica de capitalização.\n\n7 - O capital do FEFSS pode ser utilizado para transferências em ordem ao cumprimento da estabilização do sistema de segurança social, definidas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da segurança social.\n\n8 - O FEFSS tem por objetivo assegurar a estabilização financeira do sistema da segurança social, através da adoção de medidas consideradas adequadas no âmbito do seu financiamento, designadamente assegurar a cobertura das despesas previsíveis com pensões, por um período mínimo de dois anos.\n\n9 - O FEFSS goza das isenções fiscais concedidas ao Estado e ainda das que lhe são especialmente concedidas por lei.\n\n10 - O FEFSS está ainda isento de taxas, custas e emolumentos em quaisquer processos, atos ou contratos em que intervenha, sem prejuízo dos emolumentos pessoais e das importâncias correspondentes à participação emolumentar devida aos notários, conservadores e oficiais do registo e notariado.\n\n11 - O registo contabilístico do património do FEFSS é efetuado em conformidade com o Plano Oficial de Contabilidade das Instituições do Sistema de Solidariedade e Segurança Social (POCISSSS), com as seguintes adaptações:\n\na) As receitas obtidas em operações de derivados financeiros são deduzidas das despesas decorrentes das mesmas operações, sendo o respetivo saldo sempre inscrito em rubrica orçamental de receita;\n\nb) Os juros corridos recebidos nas vendas de valores representativos de dívida são deduzidos dos juros corridos pagos na aquisição do mesmo género de valores, sendo o respetivo saldo sempre inscrito em rubrica orçamental de receita;\n\nc) O disposto nas alíneas anteriores não dispensa o registo contabilístico individualizado de todos os fluxos financeiros, ainda que meramente escriturais, associados às operações nelas referidas;\n\nd) O património do FEFSS é valorizado nos termos de um regulamento de valorimetria específico, sujeito ao parecer do órgão de fiscalização do FEFSS, baseado nas normas internacionalmente aceites para a valorização de fundos de idêntica natureza e finalidade.\n\n12 - O exercício da atividade do FEFSS corresponde ao ano civil, encerrando-se as contas com referência a 31 de dezembro de cada ano, as quais, após parecer do órgão de fiscalização, são submetidas pela entidade gestora à aprovação do membro do Governo responsável pela área da segurança social.\n\n13 - O orçamento anual e a conta do FEFSS integram, respetivamente, o orçamento e a conta da segurança social.\n\n14 - Atendendo ao regime de gestão em capitalização, as disponibilidades financeiras de curto prazo do FEFSS não estão sujeitas ao regime de tesouraria única.\n\n15 - Transitam para o ano seguinte os saldos de gerência provenientes de receitas próprias apurados em cada exercício.\n\n16 - Os atos e os contratos relacionados com negociação e a contratação de investimentos para a carteira do FEFSS, incluindo os referentes a serviços de informação financeira e sistema de transações, não estão abrangidos pelo regime jurídico de realização de despesas públicas e da contratação pública para aquisição de bens e serviços.\n\n17 - As aquisições e vendas de imóveis referentes ao património do FEFSS, por configurarem atos de gestão com a natureza de investimentos financeiros, estão isentas de quaisquer formalidades, não se subordinando às limitações legalmente aplicáveis à aquisição e venda de imóveis por parte do Estado, de empresas públicas ou de institutos públicos, ficando a efetivação das aquisições apenas dependente da avaliação por perito independente.\n\n18 - Às despesas com contratos de seguros relativos a imóveis da carteira do FEFSS não se aplica o disposto no artigo 19.º do Decreto-Lei n.º 197/99, de 8 de junho, sendo a respetiva autorização da competência do conselho diretivo."
+  },
+  "1045674312": {
+   "fragment_id": "961312475",
+   "type": 11,
+   "heading": "Artigo 17.º — Transição da titularidade de bens direitos e obrigações para o FEFSS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transição da titularidade de bens direitos e obrigações para o FEFSS\n\n1 - Os bens, direitos e obrigações que integram o património do FEFSS identificados em conta própria que se encontrem na titularidade do IGFCSS, I. P., passam automaticamente para a titularidade do FEFSS por efeitos do presente diploma e sem dependência de qualquer formalidade.\n\n2 - A conta de gerência do FEFSS acompanhada de listagem que identifique de forma completa os referidos bens, direitos e obrigações aprovada por despacho do membro do Governo responsável pela área da segurança social são título suficiente e bastante para todos os registos que haja a efetuar relativamente ao património referido no número anterior."
+  },
+  "1045674317": {
+   "fragment_id": "961312675",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma transitória",
+   "in_force_from": "2026-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+   ],
+   "markdown": "###### Artigo 18.º — Norma transitória\n\nDurante a vigência do Programa de Assistência Económica e Financeira, da aplicação das regras de fixação de remuneração estabelecidas pelo presente diploma não pode resultar um aumento da remuneração efetivamente paga aos cargos de direção intermédia, designados ou a designar, tendo por referência a remuneração atribuída à data de entrada em vigor do presente diploma, sem prejuízo do eventual exercício da opção pelo vencimento do lugar de origem nas novas designações.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 38/2026 - Diário da República n.º 31/2026, Série I de 2026-02-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2026-1049254410), em vigor a partir de 2026-03-01"
+  },
+  "1045674314": {
+   "fragment_id": "961312875",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 216/2007, de 29 de maio, alterado pelo Decreto-Lei n.º 39/2011, de 21 de março."
+  },
+  "1045674315": {
+   "fragment_id": "961313075",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "1045674316": {
+   "fragment_id": "961313275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de julho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 17 de agosto de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 23 de agosto de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

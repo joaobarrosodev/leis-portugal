@@ -1,0 +1,135 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:406885:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-938665844",
+ "dre_path": "/dr/detalhe/decreto-lei/107-1996-406885",
+ "source_lastmod": "2025-10-09",
+ "versions": [
+  {
+   "date": "1996-07-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "938665742",
+    "938665743",
+    "938665744",
+    "938665745",
+    "938665746",
+    "938665747",
+    "938665748",
+    "938665749"
+   ]
+  },
+  {
+   "date": "1996-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:147849:por",
+     "title": "Declaração de Rectificação n.º 14-D/96",
+     "published": "1996-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/14-d-1996-147849"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 7.º"
+   ],
+   "fragments": [
+    "938665742",
+    "938665743",
+    "938665744",
+    "938665745",
+    "938665746",
+    "938665747",
+    "938665748",
+    "939090075",
+    "938665750"
+   ]
+  }
+ ],
+ "fragments": {
+  "938665742": {
+   "fragment_id": "938665845",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 107/96\n\nde 31 de Julho\n\nNa sequência do requerimento apresentado pela Fundação Ensino e Cultura Fernando Pessoa;\n\nInstruído o processo nos termos da lei;\n\nConsiderando o disposto no Estatuto do Ensino Superior Particular e Cooperativo, aprovado pelo Decreto-Lei n.º 16/94, de 22 de Janeiro, alterado, por ratificação, pela Lei n.º 37/94, de 11 de Novembro:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "938665743": {
+   "fragment_id": "938665846",
+   "type": 11,
+   "heading": "Artigo 1.º — Estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estabelecimento de ensino\n\n1 - É reconhecido o interesse público da Universidade Fernando Pessoa.\n\n2 - A Universidade utilizará a sigla UFP."
+  },
+  "938665744": {
+   "fragment_id": "938665847",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidade instituidora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidade instituidora\n\nA entidade instituidora da Universidade é a Fundação Ensino e Cultura Fernando Pessoa."
+  },
+  "938665745": {
+   "fragment_id": "938665848",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza do estabelecimento de ensino\n\nO estabelecimento de ensino tem a natureza de universidade."
+  },
+  "938665746": {
+   "fragment_id": "938665849",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos do estabelecimento de ensino\n\nA Universidade tem como objectivos o ensino, a investigação e a prestação de serviços nos domínios das ciências da administração, ciência política e do comportamento, ciências da comunicação e da informação e ciências e tecnologias."
+  },
+  "938665747": {
+   "fragment_id": "938665850",
+   "type": 11,
+   "heading": "Artigo 5.º — Localização do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Localização do estabelecimento de ensino\n\nA Universidade é autorizada a funcionar no concelho do Porto."
+  },
+  "938665748": {
+   "fragment_id": "938665851",
+   "type": 11,
+   "heading": "Artigo 6.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Instalações\n\n1 - A Universidade pode ministrar o ensino dos seus cursos em instalações situadas no concelho do Porto que, por despacho do director do Departamento do Ensino Superior, sejam consideradas adequadas, nos termos do Estatuto do Ensino Superior Particular e Cooperativo e seus regulamentos.\n\n2 - O despacho a que se refere o n.º 1 deve ser proferido antes do início das actividades lectivas nas instalações a que se refere e publicado na 2.ª série do Diário da República."
+  },
+  "938665749": {
+   "fragment_id": "938665852",
+   "type": 11,
+   "heading": "Artigo 7.º — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transição\n\n1 - O Instituto Erasmus do Ensino Superior e o Instituto Superior de Ciências da Informação e da Administração cessam a sua actividade.\n\n2 - As autorizações de funcionamento de cursos e os reconhecimentos de graus e diplomas concedidos para o Instituto Erasmus do Ensino Superior e para o Instituto Superior de Ciências da Informação e da Empresa transitam para a Universidade Fernando Pessoa.\n\n3 - A Universidade Fernando Pessoa fica autorizada a ministrar o ensino nas instalações onde o Instituto Erasmus do Ensino Superior e o Instituto Superior de Ciências da Informação e da Empresa vinham desenvolvendo a sua actividade lectiva, sem prejuízo das eventuais adaptações que venham a ser determinadas por despacho do director do Departamento do Ensino Superior, tendo em vista a satisfação do disposto no Estatuto do Ensino Superior Particular e Cooperativo e seus regulamentos."
+  },
+  "939090075": {
+   "fragment_id": "938665852",
+   "type": 11,
+   "heading": "Artigo 7.º — Transição",
+   "in_force_from": "1996-09-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 14-D/96 - Diário da República n.º 227/1996, 3º Suplemento, Série I-A de 1996-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-d-1996-147849), em vigor a partir de 1996-09-30"
+   ],
+   "markdown": "###### Artigo 7.º — Transição\n\n1 - O Instituto Erasmus do Ensino Superior e o Instituto Superior de Ciências da Informação e da Empresa cessam a sua actividade.\n\n2 - As autorizações de funcionamento de cursos e os reconhecimentos de graus e diplomas concedidos para o Instituto Erasmus do Ensino Superior e para o Instituto Superior de Ciências da Informação e da Empresa transitam para a Universidade Fernando Pessoa.\n\n3 - A Universidade Fernando Pessoa fica autorizada a ministrar o ensino nas instalações onde o Instituto Erasmus do Ensino Superior e o Instituto Superior de Ciências da Informação e da Empresa vinham desenvolvendo a sua actividade lectiva, sem prejuízo das eventuais adaptações que venham a ser determinadas por despacho do director do Departamento do Ensino Superior, tendo em vista a satisfação do disposto no Estatuto do Ensino Superior Particular e Cooperativo e seus regulamentos.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 14-D/96 - Diário da República n.º 227/1996, 3º Suplemento, Série I-A de 1996-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-d-1996-147849), em vigor a partir de 1996-09-30"
+  },
+  "938665750": {
+   "fragment_id": "938665853",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Junho de 1996. - António Manuel de Oliveira Guterres - Eduardo Carrega Marçal Grilo.\n\nPromulgado em 12 de Julho de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 12 de Julho de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

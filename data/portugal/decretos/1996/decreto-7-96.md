@@ -1,0 +1,198 @@
+---
+schema_version: '1.0'
+id: pt:dre:469595:por
+title: Decreto n.º 7/96
+short_title: null
+summary: Aprova o Acordo de Cooperação Económica e Técnica entre a República Portuguesa e a República das Seychelles, assinado
+  em Victoria-Mache em 2 de Agosto de 1995
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 7/96
+official_date: null
+publication_date: '1996-05-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 107/1996, Série I-A de 1996-05-08
+  number: '107'
+  series: I
+  supplement: null
+  pages: 1063 - 1064
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/05/107a00/10631064.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/7/1996/05/08/p/dre/pt/html
+  oj: null
+  dre: '469595'
+  dre_path: /dr/detalhe/decreto/7-1996-469595
+  internal: pt:dre:469595:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-1996-469595
+  metadata_url: https://data.dre.pt/eli/dec/7/1996/05/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/7-1996-469595
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-05-08T00:00:00Z'
+integrity:
+  source_sha256: 48aa922c9653914a5ee75c49377cd7340359cdb77b550e9842673f8e0906312c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-7-469595.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Cooperação Técnica
+- Portugal
+- Cooperação Económica
+- Seychelles
+- Victoria
+relationships: []
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 7/96
+
+de 8 de Maio
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado o Acordo de Cooperação Económica e Técnica entre a República Portuguesa e a República das Seychelles, assinado em Victoria-Mache em 2 de Agosto de 1995, cuja versão autêntica em língua portuguesa segue em anexo.
+
+Visto e aprovado em Conselho de Ministros de 28 de Março de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - José Mariano Rebelo Pires Gago.
+
+**Assinado em 17 de Abril de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 22 de Abril de 1996.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+ACORDO DE COOPERAÇÃO ECONÓMICA E TÉCNICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DAS SEYCHELLES
+
+Os Governos da República Portuguesa e da República das Seychelles, a seguir designados por Partes:
+
+Desejosos de consolidar os laços de amizade e da cooperação já existente entre os seus países e seus povos;
+
+Tendo em vista o alargamento do quadro institucional já existente à área técnico-económica;
+
+Conscientes das vantagens que dessa cooperação poderão advir para ambos os países;
+
+acordam o seguinte:
+
+###### Artigo 1.º
+
+As Partes facilitarão e promoverão, em conformidade com as disposições do presente Acordo, quaisquer formas de cooperação técnico-económica que forem consideradas de benefício mútuo para as economias de ambos os países.
+
+###### Artigo 2.º
+
+A cooperação técnico-económica entre os dois países poderá ser efectivada através de protocolos separados, a concluir entre instituições ou organismos devidamente autorizados dos dois países, mediante a aprovação dos respectivos Governos e de acordo com as leis e regulamentos em vigor em cada um dos países.
+
+###### Artigo 3.º
+
+A cooperação técnico-económica abrangerá, entre outras matérias, as seguintes actividades, tendo sempre em vista sua possível extensão a outras formas de cooperação que possam ser consideradas de benefício mútuo:
+
+a) Cooperação na promoção das actividades económicas, designadamente nos sectores da indústria, agricultura e pescas;
+
+b) Intercâmbio de pessoal para fins de formação profissional em institutos técnicos, científicos ou outros e em fábricas ou outros centros de produção de cada país;
+
+c) Concessão de bolsas técnico-profissionais, devendo o número, natureza e modalidade e atribuição ser definidos anualmente por acordo entre as Partes;
+
+d) Cooperação em projectos de interesse comum, incluindo a aquisição de licenças e o intercâmbio de conhecimentos científicos e tecnológicos;
+
+e) Fornecimento de serviços de consultadoria, em termos a acordar entre as Partes;
+
+f) Intercâmbio e cedência de documentação técnica, incluindo a troca de informações;
+
+g) Cooperação com vista ao melhor aproveitamento das potencialidades turísticas dos dois países, visando o intercâmbio de turistas entre ambos.
+
+###### Artigo 4.º
+
+A fim de determinar periodicamente o volume e as condições da cooperação e verificar os progressos assim realizados, os representantes das Partes reunir-se-ão alternadamente em cada um dos países, como e quando necessário. As decisões destes encontros ficarão sujeitas à aprovação das competentes autoridades de ambos os países.
+
+###### Artigo 5.º
+
+As Partes designam os respectivos Ministros dos Negócios Estrangeiros como órgãos competentes para a efectivação do presente Acordo e dos assuntos com ele relacionados.
+
+As Partes terão a faculdade de designar por escrito, a todo o momento, qualquer outra entidade, organismo ou ministério para a execução efectiva de qualquer aspecto de cooperação previsto no presente Acordo.
+
+###### Artigo 6.º
+
+Os termos e as condições de serviço dos peritos e dos que frequentarem cursos de formação profissional, bem como de quaisquer outras modalidades de cooperação mencionadas no artigo 3.º, serão ajustados em cada caso entre os respectivos representantes, por meio de contratos individuais ou de protocolos contemplados no artigo 2.º do presente Acordo.
+
+Nos casos em que tal se mostre necessário ou desejável, estes termos e condições deverão também prover no sentido de não serem divulgados os documentos, dados ou informações que possam ser obtidos pela Parte receptora.
+
+As Partes não cederão, nem por qualquer outro modo revelarão tais documentos, dados ou informações a uma terceira Parte, sem o consentimento estrito da outra.
+
+###### Artigo 7.º
+
+As pessoas envolvidas no exercício de quaisquer funções ao abrigo do presente Acordo deverão observar as leis e regulamentos vigentes em cada um dos países.
+
+###### Artigo 8.º
+
+O presente Acordo não prejudicará a validade nem as obrigações decorrentes de qualquer convenção internacional, tratado ou protocolo assinado por cada Parte.
+
+###### Artigo 9.º
+
+As Partes acordam em solucionar quaisquer litígios emergentes deste Acordo por meio de negociação mútua.
+
+###### Artigo 10.º
+
+Qualquer alteração ao presente Acordo deverá ser feita mediante o consentimento escrito das Partes.
+
+###### Artigo 11.º
+
+1 - O presente Acordo entrará em vigor na data em que vier a ser recebida a última das notas através das quais cada uma das Partes comunique à outra que se encontram cumpridas as formalidades exigidas para o efeito pela respectiva ordem jurídica interna e manter-se-á válido por um período de três anos.
+
+2 - A validade do presente Acordo será automaticamente prorrogada por subsequentes períodos de três anos, salvo se qualquer das Partes o denunciar por escrito com a antecedência de três meses.
+
+3 - As disposições do presente Acordo, bem como as de quaisquer protocolos ou contratos separados concluídos no seu âmbito, manter-se-ão aplicáveis, após o termo da sua validade, a todas as obrigações ou projectos pendentes e não expirados que tenham já sido assumidos ou cuja execução tenha já sido iniciada na vigência do mesmo Acordo.
+
+Feito em Victoria-Mache em 2 de Agosto de 1995, em dois originais nas línguas portuguesa e francesa, fazendo ambos os textos igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+José Manuel Briosa e Gala, Secretário da Cooperação.
+
+Pelo Governo da República das Seychelles:
+
+Danielle de Faint Jorre, Ministra dos Negócios Estrangeiros.

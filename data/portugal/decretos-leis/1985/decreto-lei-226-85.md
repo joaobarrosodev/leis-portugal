@@ -1,0 +1,214 @@
+---
+schema_version: '1.0'
+id: pt:dre:183018:por
+title: Decreto-Lei n.º 226/85
+short_title: null
+summary: Reestrutura o Serviço de Informações Militares, integrando-o no Sistema de Informações da República Portuguesa, ao
+  abrigo da Lei n.º 30/84, de 5 de Setembro (Lei Quadro do Sistema de Informações da República Portuguesa)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 226/85
+official_date: null
+publication_date: '1985-07-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 151/1985, Série I de 1985-07-04
+  number: '151'
+  series: I
+  supplement: null
+  pages: 1825 - 1826
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/07/15100/18251826.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '183018'
+  dre_path: /dr/detalhe/decreto-lei/226-1985-183018
+  internal: pt:dre:183018:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1985-183018
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-1985-183018
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-09-30T00:00:00Z'
+integrity:
+  source_sha256: 3977257ead7478e47b5d8a98d0cd0709b709534aca2691d5dfa651ffabcaf378
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-226-183018.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:575726:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 226/85
+
+de 4 de Julho
+
+A [Lei n.º 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), de 5 de Setembro (Lei Quadro do Sistema de Informações da República Portuguesa), incluí neste Sistema o Serviço de Informações Militares, já existente.
+
+O Serviço de Informações Militares, considerado no conjunto dos elementos que o constituem, integra-se na estrutura orgânica das Forças Armadas.
+
+Dando cumprimento ao preceituado no artigo 33.º da [Lei n.º 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), há que regulamentar os aspectos básicos essenciais para o funcionamento do Serviço de Informações Militares, nomeadamente a ligação e a coordenação com outros serviços de informações e organismos nacionais e a ligação com serviços de informações de países amigos ou aliados ou de organizações internacionais em que Portugal esteja integrado, no âmbito das actividades relacionadas com a missão que lhe está atribuída.
+
+Nestes termos e nos da alínea c) do n.º 1 do artigo 201.º da Constituição e do artigo 33.º da [Lei n.º 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), de 5 de Setembro, o Governo decreta o seguinte:
+
+###### Artigo 1.º — (Atribuições)
+
+O Serviço de Informações Militares engloba elementos, dispostos ao longo de toda a estrutura das Forças Armadas, incumbidos de adquirir, processar e difundir notícias e informações, no âmbito da informação e da contra-informação, necessárias:
+
+a) Ao funcionamento do Departamento da Defesa Nacional e ao cumprimento das tarefas cometidas por lei às Forças Armadas;
+
+b) A garantia da segurança militar.
+
+###### Artigo 2.º — (Âmbito de informação militar)
+
+1 - As notícias e informações a adquirir, processar e difundir, no contexto da informação militar, são de natureza estratégico-militar, organizacional, táctica e logística, relativas a possíveis inimigos e potenciais áreas de operações e as de interesse para uma possível actuação das Forças Armadas nas condições reguladas pela lei para determinadas situações especiais.
+
+2 - As notícias e informações de natureza estratégico-militar, organizacional, táctica e logística, mencionadas no número anterior, são relativas:
+
+a) A avaliação permanente de ameaça de natureza militar contra Portugal, no âmbito da defesa autónoma ou da defesa colectiva;
+
+b) Ao acompanhamento da evolução dos equipamentos e outros meios, bem como da ciência militar dos outros países;
+
+c) Às áreas de operações conjugadas com os cenários de maior probabilidade e de potencial ou previsível emprego de forças nacionais, existentes ou a criar.
+
+###### Artigo 3.º — (Âmbito de segurança militar)
+
+1 - A segurança militar obriga:
+
+a) À aquisição, ao processamento e à difusão de notícias e informações respeitantes a actividades de subversão, de espionagem, de terrorismo, de sabotagem, de quebras de segurança e comprometimento que incidam, sobre as actividades, as possibilidades, as intenções, o pessoal, o material e as Instalações das Forças Armadas, com vista à avaliação permanente da respectiva ameaça;
+
+b) Ao desenvolvimento de actividades de contra-informação e de medidas de segurança correspondentes às actividades mencionadas na alínea anterior.
+
+2 - As acções de subversão mencionadas na alínea a) do número anterior incluem actividades que procurem afectar ou destruir a vontade, o espírito de missão, a coesão e a disciplina das Forças Armadas e as que desrespeitem a lealdade, o dever de isenção política e de apartidarismo dos seus elementos.
+
+###### Artigo 4.º — (Serviço de informações Militares - Estrutura e actividades)
+
+1 - O Serviço de Informações Militares compreende as unidades e os órgãos especificamente orientados para a actividade de informação e contra-informação.
+
+2 - As actividades do Serviço de Informações Militares desenvolvem-se em todos os níveis da estrutura das Forças Armadas e nelas intervêm todos os militares, unidades, estabelecimentos e órgãos.
+
+###### Artigo 5.º — (Bases de funcionamento)
+
+1 - O Serviço de Informações Militares integra-se no Sistema de Informações da República Portuguesa e depende do Ministro da Defesa Nacional, através do Chefe do Estado-Maior-General das Forças Armadas, competindo a respectiva coordenação ao Conselho de Chefes de Estado-Maior.
+
+2 - A base para o funcionamento do Serviço de Informações Militares decorre das missões atribuídas às Forças Armadas.
+
+3 - O Serviço de Informações Militares, na dedução das tarefas a desenvolver, atende, entre outras, às instruções de coordenação técnica dimanadas da Comissão Técnica de Informações.
+
+###### Artigo 6.º — (Coordenação das actividades)
+
+1 - O Conselho de Chefes de Estado-Maior coordena as actividades do Serviço de Informações Militares, deliberando, nomeadamente, sobre:
+
+a) Plano de informações;
+
+b) Planos de contra-informação;
+
+c) Directivas para as actividades comuns aos três ramos das Forças Armadas;
+
+d) Regulamentos e instruções específicos da informação militar e da contra-informação;
+
+e) Directivas para a instrução de informações nas Forças Armadas;
+
+f) Relatório anual de actividades, a apresentar ao Conselho de Fiscalização.
+
+2 - A Divisão de Informações do Estado-Maior-General das Forças Armadas actua como principal órgão orientador para a coordenação de estado-maior das actividades de informação e contra-informação, em proveito das deliberações do Conselho de Chefes de Estado-Maior sobre estas matérias.
+
+3 - Para efeitos do mencionado no n.º 2, a Divisão de Informações do Estado-Maior-General das Forças Armadas mantém estreita e permanente ligação técnica com os órgãos de informações dos estados-maiores dos ramos.
+
+###### Artigo 7.º — (Direcção e controle)
+
+1 - O Chefe do Estado-Maior-General das Forças Armadas e os chefes dos estados-maiores dos ramos dirigem e controlam os elementos do Serviço de Informações Militares na respectiva dependência directa.
+
+2 - Em situações de estado de guerra, estado de sítio e estado de emergência, bem como em exercícios visando a preparação de forças nacionais para aquelas situações, a direcção e controle dos vários elementos do Serviço de Informações Militares são exercidos em conformidade com as normas de funcionamento específicas das estruturas de comando que, para o efeito, forem criadas.
+
+3 - Para a consecução do preceituado nos artigos 7.º, n.º 1, 8.º, n.os 1 e 2, e 26.º da [Lei n.º 30/84](https://diariodarepublica.pt/dr/detalhe/lei/30-1984-373663), de 5 de Setembro, compete à Divisão de Informações do Estado-Maior-General das Forças Armadas providenciar quanto ao legalmente requerido, através do Ministério da Defesa Nacional.
+
+###### Artigo 8.º — (Ligação com outros serviços de informações e com organismos nacionais)
+
+1 - Além da coordenação a efectivar com os outros serviços de informações do Sistema de Informações da República Portuguesa no âmbito da Comissão Técnica, deverá o Serviço de Informações Militares manter estreita e permanente ligação com:
+
+b) O Serviço de Informações de Segurança, no fesa, para o entrosamento das informações estratégicas militares e das informações estratégicas globais;
+
+b) O Serviço de Informações de Segurança no âmbito das informações relativas a sabotagem, terrorismo, espionagem, subversão e outras actividades ilegais que possam afectar as Forças Armadas ou estejam relacionadas, directa ou indirectamente, com as missões que lhes estão atribuídas.
+
+2 - Para os fins mencionados na alínea b) do número anterior, em seu complemento e no âmbito da pesquisa de notícias, o Serviço de Informações Militares manterá, através da Divisão de Informações do Estado-Maior-General das Forças Armadas e dos órgãos de informações dos estados-maiores dos ramos, mediante autorização prévia do ministro competente, ligações com os Comandos-Gerais da Guarda Nacional Republicana e da Polícia de Segurança Pública e com as Direcções-Gerais da Polícia Judiciária e do Serviço de Estrangeiros.
+
+###### Artigo 9.º — (Ligação com serviços de informações de outros países e de organizações)
+
+O Serviço de Informações Militares manterá, através da Divisão de Informações do Estado-Maior-General das Forças Armadas e dos órgãos de informações dos estados-maiores dos ramos, aos níveis equivalentes e mediante coordenação, as necessárias ligações com serviços de informações congéneres de países amigos ou aliados.
+
+###### Artigo 10.º — (Formação, especialização, actualização e aperfeiçoamento técnico do pessoal)
+
+1 - O Serviço de Informações Militares é responsável pela formação, especialização, actualização e aperfeiçoamento técnico de todo o seu pessoal.
+
+2 - Em conformidade com a sua capacidade própria, pode-lhe ser atribuída a formação ou a reciclagem do pessoal pertencente a outros serviços de informações.
+
+###### Artigo 11.º — (Fiscalização)
+
+A fiscalização de actividades, programas, dados e informações do Serviço de Informações Militares respeitantes a matérias classificadas fica sujeita às normas de segurança em vigor aplicáveis a nível nacional e às aceites no âmbito de organizações Internacionais em que Portugal esteja inserido no contexto da defesa militar colectiva.
+
+###### Artigo 12.º — (Pessoal)
+
+1 - A prestação de serviço na Divisão de Informações do Estado-Maior-General das Forças Armadas e nos órgãos de informações dos estados-maiores dos ramos por pessoal militar dos quadros permanentes será, em princípio, por períodos mínimos de 5 anos para, pelo menos, 50% dos efectivos.
+
+2 - O recrutamento para ingresso de pessoal civil no Serviço de Informações Militares nas carreiras de pessoal técnico superior, de pessoal técnico e de pessoal técnico auxiliar, no subgrupo de informações militares, é feito por escolha e com base na ponderação das suas diversas qualificações.
+
+3 - Os estatutos militares e o Estatuto do Pessoal Civil dos Serviços Departamentais das Forças Armadas são aplicáveis ao pessoal militar e ao pessoal civil do Serviço de Informações Militares, respectivamente.
+
+Visto e aprovado em Conselho de Ministros de 7 de Março de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Eduardo Ribeiro Pereira - Mário Ferreira Bastos Raposo.
+
+**Promulgado em 26 de Junho de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 1 de Julho de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**

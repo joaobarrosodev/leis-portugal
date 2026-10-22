@@ -1,0 +1,610 @@
+---
+schema_version: '1.0'
+id: pt:dre:494551:por
+title: Decreto-Lei n.º 141/2009
+short_title: null
+summary: Estabelece o regime jurídico das instalações desportivas de uso público
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 141/2009
+official_date: null
+publication_date: '2009-06-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/2009, Série I de 2009-06-16
+  number: '114'
+  series: I
+  supplement: null
+  pages: 3663 - 3668
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/11400/0366303668.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-141-2009.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-06-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-05-26'
+    amending: pt:dre:552010:por
+    amending_title: Decreto-Lei n.º 110/2012
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 23.º
+    - Altera Artigo 25.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Revoga Artigo 24.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/141/2009/p/cons/20210129/pt/html
+  oj: null
+  dre: '494551'
+  dre_path: /dr/detalhe/decreto-lei/141-2009-494551
+  internal: pt:dre:494551:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2009-494551
+  metadata_url: https://data.dre.pt/eli/dec-lei/141/2009/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-106846754
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-106846754
+  retrieved_at: '2026-10-22T12:10:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 85c6f876841c45da9a2528c3e90dd1f6a705301046f71273e12ca6f400218fe9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:10:49Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-141-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alvará
+- Equipamento Desportivo
+- Multa
+- Contra-ordenação
+- Definição de Competências
+- Fiscalização
+- Instituto do Desporto de Portugal
+- ASAE
+- Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade
+- Câmara Municipal
+- Regime Jurídico
+- Sanção
+relationships:
+- type: amended_by
+  target: pt:dre:552010:por
+  label: Altera Artigo 10.º; Altera Artigo 18.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2012-552010
+  date: '2012-05-21'
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 23.º; Altera Artigo 25.º; Altera Artigo 28.º; Altera Artigo 29.º; Altera Artigo 30.º; Revoga Artigo
+    24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/309/2002/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/309/2002/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/310/2002/12/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/310/2002/12/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/317/1997/11/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/317/1997/11/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/39/2008/03/07/p/dr
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/39/2008/03/07/p/dr
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/555/1999/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/42/2006/08/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/42/2006/08/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/5/2007/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/5/2007/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/60/2007/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/60/2007/09/04/p/dre
+article_structure:
+  article_count: 34
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:10:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 141/2009
+
+Decreto-Lei n.º 141/2009
+
+de 16 de Junho
+
+O presente decreto-lei consagra o novo regime jurídico das instalações desportivas, procedendo à revogação do Decreto-Lei n.º 317/97, de 25 de Novembro, fundamentalmente, pela necessidade de compatibilização com o regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, alterado pela Lei n.º 60/2007, de 4 de Setembro, em ordem a promover a simplificação dos procedimentos de instalação e a melhorar o enquadramento dos deveres dos proprietários e entidades responsáveis pela exploração e funcionamento das instalações desportivas.
+
+Com o presente decreto-lei visa-se, igualmente, conformar os mecanismos procedimentais em matéria de instalação e funcionamento das instalações desportivas com as disposições constantes de diversos diplomas entretanto publicados, nomeadamente:
+
+a) Lei n.º 159/99, de 14 de Setembro, que estabelece o quadro de transferência de atribuições e competências para as autarquias locais, designadamente em matéria de cultura, tempos livres e desporto;
+
+b) Decreto-Lei n.º 309/2002, de 16 de Dezembro, que regula a instalação e o funcionamento dos recintos de espectáculos e de divertimentos públicos;
+
+c) Decreto-Lei n.º 310/2002, de 18 de Dezembro, que regula o regime jurídico do licenciamento do exercício e da fiscalização de diversas actividades, tais como a realização de espectáculos desportivos, atribuindo-se às câmaras municipais competências em matéria de licenciamento anteriormente cometidas aos governos civis.
+
+Em conformidade com a referida legislação e com o objectivo de melhorar a qualidade e a segurança dos serviços prestados aos utentes das instalações desportivas, o presente decreto-lei opera a algumas modificações ao regime de licenciamento, como a extinção da figura da licença de funcionamento, que é, nos termos do regime jurídico da urbanização e edificação, substituída pela autorização de utilização para actividades desportivas, titulada por alvará.
+
+O regime jurídico estabelecido no presente decreto-lei passa também a abranger as instalações desportivas integradas em estabelecimentos de prestação de serviços de manutenção da condição física, independentemente da designação com que se identifiquem, sejam ginásios, academias ou clubes de saúde (healthclubs), medida que vai permitir a uniformização dos critérios de qualidade e segurança aplicáveis às instalações desportivas que fazem parte destes estabelecimentos e em igualdade com as exigências requeridas para as restantes instalações destinadas à prática desportiva.
+
+É introduzida a obrigatoriedade de prévia indicação da entidade responsável pela exploração e do director ou responsável da instalação como condição necessária à concessão da autorização de utilização para actividades desportivas.
+
+Por fim, é instituída a exigência de comunicação ao Instituto do Desporto de Portugal, I. P., das autorizações de utilização para actividades desportivas concedidas pela câmara municipal, cujos dados passam a ser registados na Carta das Instalações Desportivas, que integra a Carta Desportiva Nacional.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 5/2007, de 16 de Janeiro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece o regime jurídico das instalações desportivas de uso público.
+
+###### Artigo 2.º — Noção de instalação desportiva
+
+Para efeitos do presente decreto-lei, entende-se por instalação desportiva o espaço edificado ou conjunto de espaços resultantes de construção fixa e permanente, organizados para a prática de actividades desportivas, que incluem as áreas de prática e as áreas anexas para os serviços de apoio e instalações complementares.
+
+###### Artigo 3.º — Âmbito de aplicação
+
+1 - As disposições do presente decreto-lei aplicam-se às instalações desportivas de uso público, independentemente de a sua titularidade ser pública ou privada e visar, ou não, fins lucrativos.
+
+2 - O regime estabelecido pelo presente decreto-lei aplica-se igualmente aos estabelecimentos que prestam serviços desportivos na área da manutenção da condição física (fitness), designadamente aos ginásios, academias ou clubes de saúde (healthclubs), independentemente da designação adoptada e forma de exploração.
+
+3 - O presente decreto-lei aplica-se ainda às instalações desportivas que estejam integradas em complexos destinados à preparação e ao treino desportivo de alto rendimento, designadamente centros de estágios e centros de alto rendimento, independentemente da designação e forma de exploração.
+
+###### Artigo 4.º — Exclusões
+
+1 - Não são abrangidas pelas disposições do presente decreto-lei as instalações desportivas destinadas a utilização em condições específicas e estejam integradas em:
+
+a) Quartéis e recintos militares;
+
+b) Recintos para uso privativo das forças de segurança pública;
+
+c) Estabelecimentos prisionais;
+
+d) Estabelecimentos termais e unidades de saúde e de reabilitação, sob supervisão médico-sanitária.
+
+2 - O presente decreto-lei não se aplica às instalações de tiro com armas de fogo, cuja instalação e funcionamento se encontra regulada pelas Leis n.os 5/2006, de 23 de Fevereiro, e 42/2006, de 25 de Agosto, e respectiva regulamentação.
+
+3 - O regime estabelecido no presente decreto-lei não se aplica, igualmente, às instalações desportivas que sejam acessórias ou complementares de estabelecimentos em que a actividade desportiva não constitui a função ou serviço principal, sem prejuízo da necessidade de reunirem as condições técnicas gerais e de segurança exigíveis para a respectiva tipologia, nos seguintes casos:
+
+a) Instalações desportivas integradas em estabelecimentos de ensino, público ou privado, de qualquer grau;
+
+b) Instalações desportivas integradas nos empreendimentos turísticos referidos no artigo 4.º do Decreto-Lei n.º 39/2008, de 7 de Março, excepto as que são citadas nas alíneas a), e) e g) do n.º 2 do artigo 15.º do mesmo decreto-lei.
+
+4 - O disposto no presente decreto-lei não se aplica, ainda, nos seguintes casos:
+
+a) Aos espaços naturais de recreio e desporto, ou seja, aos locais com condições naturais para a realização de certas actividades recreativas sem recurso a obras de adaptação ou arranjo material, designadamente os locais para as actividades desportivas na natureza que se encontram reguladas pelo Decreto Regulamentar n.º 18/99, de 22 de Setembro, alterado pelo Decreto Regulamentar n.º 17/2003, de 10 de Outubro;
+
+b) Aos espaços de jogo e recreio infantil, regulados pelo Decreto-Lei n.º 379/97, de 27 de Dezembro, e diplomas complementares;
+
+c) Aos espaços e recintos não concebidos para usos desportivos que, por períodos de curta duração, sejam utilizados para acolher eventos ou manifestações desportivas, sem prejuízo da necessidade de reunirem as condições técnicas e de segurança aplicáveis;
+
+d) Às instalações desportivas integradas em edifícios de habitação permanente, destinadas a uso recreativo e privativo dos seus residentes.
+
+### Capítulo II — Tipologias e definições
+
+###### Artigo 5.º — Tipologias de instalações desportivas
+
+1 - As instalações desportivas podem ser agrupadas nos seguintes tipos:
+
+a) Instalações desportivas de base;
+
+b) Instalações desportivas especializadas ou monodisciplinares;
+
+c) Instalações desportivas especiais para o espectáculo desportivo.
+
+2 - As instalações desportivas de base podem subdividir-se em:
+
+a) Instalações recreativas;
+
+b) Instalações formativas.
+
+###### Artigo 6.º — Instalações recreativas
+
+1 - São instalações recreativas as que se destinam a actividades desportivas com carácter informal ou sem sujeição a regras imperativas e permanentes, no âmbito das práticas recreativas, de manutenção e de lazer activo.
+
+2 - Consideram-se instalações recreativas, designadamente, as seguintes:
+
+a) Recintos, pátios, minicampos e espaços elementares destinados a iniciação aos jogos desportivos, aos jogos tradicionais e aos exercícios físicos;
+
+b) Espaços e percursos permanentes, organizados e concebidos para evolução livre, corridas ou exercícios de manutenção, incluindo o uso de patins ou bicicletas de recreio;
+
+c) Salas e recintos cobertos, com área de prática de dimensões livres, para actividades de manutenção, lazer, jogos recreativos, jogos de mesa e jogos desportivos não codificados;
+
+d) As piscinas cobertas ou ao ar livre, de configuração e dimensões livres, para usos recreativos, de lazer e de manutenção.
+
+###### Artigo 7.º — Instalações formativas
+
+1 - São instalações formativas as instalações concebidas e destinadas para a educação desportiva de base e actividades propedêuticas de acesso a disciplinas desportivas especializadas, para aperfeiçoamento e treino desportivo, cujas características funcionais, construtivas e de polivalência são ajustadas aos requisitos decorrentes das regras desportivas que enquadram as modalidades desportivas a que se destinam.
+
+2 - Consideram-se instalações formativas, designadamente, as seguintes:
+
+a) Grandes campos de jogos, destinados ao futebol, râguebi e hóquei em campo;
+
+b) Pistas de atletismo, em anel fechado, ao ar livre e com traçado regulamentar;
+
+c) Pavilhões desportivos e salas de desporto polivalentes;
+
+d) Pequenos campos de jogos, campos polidesportivos, campos de ténis e ringues de patinagem, ao ar livre ou com simples cobertura;
+
+e) Piscinas, ao ar livre ou cobertas, de aprendizagem, desportivas e polivalentes.
+
+###### Artigo 8.º — Instalações desportivas especializadas
+
+1 - São instalações desportivas especializadas as instalações permanentes concebidas e organizadas para a prática de actividades desportivas monodisciplinares, em resultado da sua específica adaptação para a correspondente modalidade ou pela existência de condições naturais do local, e vocacionadas para a formação e o treino da respectiva disciplina.
+
+2 - Constituem-se como instalações desportivas especializadas, designadamente, as seguintes:
+
+a) Pavilhões e salas de desporto destinados e apetrechados para uma modalidade específica;
+
+b) Salas apetrechadas exclusivamente para desportos de combate;
+
+c) Piscinas olímpicas, piscinas para saltos e tanques especiais para actividades subaquáticas;
+
+d) Pistas de ciclismo em anel fechado e traçado regulamentar;
+
+e) Instalações de tiro com armas de fogo;
+
+f) Instalações de tiro com arco;
+
+g) Pistas e infra-estruturas para os desportos motorizados em terra;
+
+h) Instalações para a prática de desportos equestres;
+
+i) Pistas de remo e de canoagem e infra-estruturas de terra para apoio a desportos náuticos;
+
+j) Campos de golfe;
+
+l) Outras instalações desportivas cuja natureza e características se conformem com o disposto no n.º 1.
+
+3 - Para efeitos do disposto no presente decreto-lei, consideram-se ainda instalações desportivas especializadas as integradas em infra-estruturas destinadas à preparação de desportistas, designadamente em centros de alto rendimento e centros de estágio desportivos.
+
+###### Artigo 9.º — Instalações desportivas especiais para o espectáculo desportivo
+
+1 - São instalações desportivas especiais para o espectáculo desportivo as instalações permanentes, concebidas e vocacionadas para acolher a realização de competições desportivas, e onde se conjugam os seguintes factores:
+
+a) Expressiva capacidade para receber público e a existência de condições para albergar os meios de comunicação social;
+
+b) Utilização prevalente em competições e eventos com altos níveis de prestação;
+
+c) A incorporação de significativos e específicos recursos materiais e tecnológicos destinados a apoiar a realização e difusão pública de eventos desportivos.
+
+2 - Consideram-se instalações desportivas especiais para o espectáculo desportivo, designadamente, as seguintes:
+
+a) Estádios;
+
+b) Pavilhões multiusos desportivos;
+
+c) Estádios aquáticos e complexos de piscinas olímpicas;
+
+d) Hipódromos;
+
+e) Velódromos;
+
+f) Autódromos, motódromos, kartódromos e crossódromos;
+
+g) Estádios náuticos;
+
+h) Outros recintos que se configurem nos termos dos n.os 1 e 3 do presente artigo.
+
+3 - Os requisitos específicos que determinam a classificação das instalações previstas neste artigo são definidos na regulamentação a que se refere o artigo 14.º do presente decreto-lei.
+
+### Capítulo III — Regime e competências
+
+###### Artigo 10.º — Regime aplicável
+
+1 - A instalação e a modificação de instalações desportivas obedece ao regime jurídico da urbanização e da edificação (RJUE), aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, e alterado pela Lei n.º 60/2007, de 4 de Setembro, e ao regime jurídico da acessibilidade constante do Decreto-Lei n.º 163/2006, de 8 de Agosto, com as especificidades estabelecidas no presente decreto-lei.
+
+2 - A abertura e funcionamento das instalações desportivas só podem ocorrer após emissão pela câmara municipal territorialmente competente do alvará de autorização de utilização do prédio ou fração onde pretendem instalar-se as instalações desportivas, sem prejuízo do disposto na alínea c) do artigo 111.º do RJUE, e depende de prévia comunicação da entidade exploradora à câmara municipal.
+
+3 - As tipologias de instalações desportivas e os respectivos requisitos técnicos e de funcionamento são aprovados por portaria do membro do Governo responsável pela área do desporto, tendo em conta as respectivas especificidades.
+
+4 - Podem ser estabelecidas normas relativas a boas práticas ambientais a observar na construção e exploração das instalações desportivas abrangidas pelo presente decreto-lei por portaria conjunta dos membros do Governo responsáveis pelas áreas do desporto e do ambiente.
+
+5 - Para as instalações desportivas que se pretenda funcionem com mais de uma tipologia deve ser seguido o procedimento de controlo prévio da operação urbanística mais exigente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2012 - Diário da República n.º 98/2012, Série I de 2012-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2012-552010), em vigor a partir de 2012-05-26
+
+###### Artigo 11.º — Competências do Instituto do Desporto de Portugal, I. P.
+
+1 - Compete ao Instituto do Desporto de Portugal, I. P. (IDP, I. P.), exercer as competências especialmente previstas no presente decreto-lei relativamente às instalações desportivas especializadas e especiais para o espectáculo desportivo.
+
+2 - Compete ao IDP, I. P., emitir parecer nos termos previstos no RJUE sobre:
+
+a) Projectos de instalações desportivas especializadas e especiais para o espectáculo desportivo;
+
+b) Conformidade dos projectos de instalações de tiro destinadas a acolher competições e eventos desportivos com as normas legais e regulamentares aplicáveis.
+
+3 - Compete ainda ao IDP, I. P., no âmbito do parecer referido no número anterior, fixar a capacidade máxima de utilização e da lotação de espectadores, tendo em conta as exigências da respectiva tipologia.
+
+###### Artigo 12.º — Âmbito do parecer do IDP, I. P.
+
+1 - O parecer do IDP, I. P., incide sobre a conformidade das soluções funcionais e características construtivas propostas face à tipologia das instalações e às especificidades das actividades previstas, bem como sobre a observância das normas relativas a condições técnicas e de segurança aplicáveis.
+
+2 - O parecer referido no número anterior pode ter conclusão desfavorável com fundamento na não observância das disposições previstas no presente decreto-lei, bem como na existência de incompatibilidades com as demais disposições legais, técnicas e regulamentares aplicáveis.
+
+3 - O parecer do IDP, I. P., tem carácter vinculativo quando desfavorável ou sujeito a condição.
+
+4 - No prazo previsto para a emissão do parecer referido no presente artigo, o IDP, I. P., pode solicitar às federações desportivas titulares do estatuto de utilidade pública desportiva informação, não vinculativa, sobre a avaliação das condições de segurança requeridas para o tipo de uso previsto.
+
+###### Artigo 13.º — Competências dos órgãos municipais
+
+1 - Compete aos órgãos municipais exercer as competências previstas no RJUE, com as especificidades constantes do presente decreto-lei.
+
+2 - Compete em especial à câmara municipal fixar a capacidade máxima de utilização e de acolhimento de eventual público nas instalações desportivas de base referidas nos artigos 6.º e 7.º, em função da respectiva tipologia e em conformidade com as normas técnicas e de segurança constantes da regulamentação prevista no artigo 14.º
+
+3 - Compete ainda à câmara municipal efectuar e manter actualizado o registo das instalações desportivas disponíveis no concelho em sistema de informação disponibilizado pelo IDP, I. P.
+
+4 - A câmara municipal envia ao IDP, I. P., até ao final do 1.º trimestre de cada ano, a lista dos alvarás de autorização de utilização de instalações desportivas emitidos.
+
+### Capítulo IV — Instalação e funcionamento das instalações desportivas
+
+###### Artigo 14.º — Condições técnicas e de segurança
+
+1 - Os requisitos em matéria de condições técnicas e de segurança das instalações desportivas são definidos na portaria do membro do Governo responsável pela área do desporto referida no n.º 3 do artigo 10.º
+
+2 - Aos estádios referidos na alínea a) do n.º 2 do artigo 9.º são aplicáveis as disposições constantes do regulamento das condições técnicas e de segurança dos estádios, aprovado pelo Decreto Regulamentar n.º 10/2001, de 7 de Junho.
+
+###### Artigo 15.º — Contratualização
+
+A câmara municipal pode contratualizar com o IDP, I. P., o acompanhamento do procedimento de instalação dos equipamentos desportivos referidos nos artigos 8.º e 9.º, para efeitos de dinamização do processo, designadamente através de prestação de assessoria técnica e promoção de reuniões de concertação entre a câmara municipal e o promotor.
+
+###### Artigo 16.º — Autorização de utilização
+
+1 - Concluída a obra, o interessado requer a concessão da autorização de utilização para actividades desportivas, nos termos dos artigos 62.º e seguintes do RJUE, com as especificidades previstas no presente decreto-lei.
+
+2 - O pedido de concessão da autorização de utilização deve ser instruído nos termos do artigo 63.º do RJUE, com os elementos ali previstos.
+
+###### Artigo 17.º — Emissão de alvará
+
+O alvará da autorização de utilização para instalações desportivas deve conter, para além dos elementos referidos no n.º 5 do artigo 77.º do RJUE, as seguintes especificações:
+
+a) Identificação tipológica da instalação ou instalações desportivas que a compõem, sua denominação e localização;
+
+b) Nome do proprietário ou concessionário da exploração da instalação, bem como do director ou responsável pela instalação;
+
+c) Indicação das actividades previstas e da capacidade máxima de utilização, descriminada para cada instalação ou espaço desportivo que integre no caso de complexos desportivos, centros de alto rendimento ou estabelecimentos de serviços de manutenção da condição física;
+
+d) Lotação, em número máximo de espectadores admissíveis, para as actividades aí previstas.
+
+###### Artigo 18.º — Abertura e funcionamento
+
+1 - Decorridos os prazos para emissão da autorização de utilização ou para realização da vistoria, nos termos do previsto no artigo 65.º do RJUE, o interessado na abertura ao público e início de funcionamento das instalações desportivas deve apresentar uma mera comunicação prévia à câmara municipal, através do balcão único eletrónico dos serviços, a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, instruída com os seguintes elementos:
+
+a) Identificação da actividade ou actividades a que se vai dar início;
+
+b) Declaração de responsabilidade de que as instalações cumprem todos os requisitos adequados ao exercício da actividade ou actividades pretendidas;
+
+c) Cópia do regulamento de funcionamento das instalações desportivas que deve incluir instruções de segurança e planos de evacuação, nos termos da legislação em vigor.
+
+2 - A abertura ao público de complexos desportivos, centros de alto rendimento, centros de estágio e dos estabelecimentos que prestem serviços desportivos na área da manutenção da condição física (fitness), designadamente ginásios, academias ou clubes de saúde (healthclubs), é objecto de uma única comunicação para actividades desportivas sempre que a totalidade das actividades se inicie em conjunto.
+
+3 - Fora do caso previsto no número anterior, o início de nova actividade desportiva em complexo desportivo, centro de alto rendimento ou estabelecimento de serviços de manutenção da condição física depende de prévia declaração individualizada.
+
+4 - O comprovativo eletrónico de receção da mera comunicação prévia a que se refere o n.º 1, acompanhado do comprovativo de pagamento das taxas eventualmente devidas, constitui título válido de abertura e funcionamento das instalações.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2012 - Diário da República n.º 98/2012, Série I de 2012-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2012-552010), em vigor a partir de 2012-05-26
+
+###### Artigo 19.º — Interrupção ou alterações ao funcionamento
+
+1 - O título de funcionamento das instalações desportivas caduca:
+
+a) Se a instalação se mantiver encerrada por período superior a seis meses, que não resulte de interrupção para a realização de obras de conservação ou de reabilitação;
+
+b) Se a instalação tiver sido objecto de obras ou intervenções que impliquem alteração da morfologia ou das condições funcionais ou de uso iniciais e que não resultem da adaptação a novas normas técnicas e de segurança.
+
+2 - O título de funcionamento de atividades desportivas não engloba as atividades de restauração e de bebidas que eventualmente funcionem nestas instalações, aplicando-se-lhes o regime previsto no Decreto-Lei n.º 48/2011, de 1 de abril.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2012 - Diário da República n.º 98/2012, Série I de 2012-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2012-552010), em vigor a partir de 2012-05-26
+
+###### Artigo 20.º — Regime aplicável às autarquias locais e à Administração Pública
+
+1 - Sem prejuízo do disposto no artigo 7.º do RJUE, a instalação e funcionamento de instalações desportivas promovidas pelas autarquias locais deve observar o regime estabelecido no presente decreto-lei, designadamente no que se refere ao cumprimento dos regulamentos e normas técnicas e de segurança aplicáveis, bem como à recolha do parecer do IDP, I. P., e das entidades externas ao município.
+
+2 - A abertura e funcionamento das instalações desportivas propriedade das autarquias depende dos termos de responsabilidade previstos no artigo 63.º do RJUE, bem como dos elementos referidos nas alíneas a), e b) do artigo 17.º e nas alíneas a) e c) do n.º 1 do artigo 18.º
+
+3 - Sem prejuízo do disposto no artigo 7.º do RJUE, a instalação e funcionamento de instalações desportivas promovidas pela Administração Pública, em áreas sob a sua jurisdição e directamente relacionadas com a prossecução das suas atribuições, deve observar o cumprimento dos regulamentos e normas técnicas e de segurança aplicáveis.
+
+###### Artigo 21.º — Director ou responsável da instalação desportiva
+
+O regime aplicável aos requisitos de habilitação, deveres e obrigações do director ou responsável da instalação, bem como da entidade responsável pela exploração, são definidos em legislação complementar.
+
+### Capítulo V — Fiscalização e sanções
+
+###### Artigo 22.º — Competência para a fiscalização
+
+1 - Sem prejuízo das competências das câmaras municipais previstas no RJUE e das competências atribuídas por lei a outras autoridades administrativas e policiais, compete à Autoridade de Segurança Alimentar e Económica (ASAE) fiscalizar o cumprimento do disposto no presente decreto-lei.
+
+2 - As autoridades administrativas e policiais que verifiquem infracções ao disposto no presente decreto-lei devem elaborar os respectivos autos de notícia, que remetem à câmara municipal e à ASAE, conforme o caso, no prazo máximo de 48 horas.
+
+###### Artigo 23.º — Contra-ordenações
+
+1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), o exercício de atividades desportivas sem o necessário licenciamento ou com o desrespeito das condições técnicas e de segurança impostas nos termos do artigo 14.º do presente decreto-lei.
+
+2 - Constitui contraordenação económica grave, punível nos termos do RJCE, a oposição ou obstrução aos atos de inspeção e vistorias a realizar pelas entidades competentes e a recusa em facultar a estas entidades os elementos e esclarecimentos por elas solicitados.
+
+3 - Constitui contraordenação económica leve, punível nos termos do RJCE, a falta ou indisponibilização do regulamento referido na alínea c) do n.º 1 do artigo 18.º
+
+> Alterado pelo/a Artigo 99.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 24.º — Coimas
+
+1 - Constitui contra-ordenação muito grave, punida com coima entre (euro) 500 e (euro) 750, para pessoas singulares, e entre (euro) 4500 e (euro) 9000, para pessoas colectivas, a prática dos actos previstos na alínea a) do artigo anterior.
+
+2 - Constitui contra-ordenação grave, punida com coima entre (euro) 250 e (euro) 500, para pessoas singulares, e entre (euro) 2500 e (euro) 4500, para pessoas colectivas, a prática dos actos previstos na alínea b) do artigo anterior.
+
+3 - Constitui contra-ordenação leve, punida com coima entre (euro) 100 e (euro) 250, para pessoas singulares, e entre (euro) 1000 e (euro) 2500, para pessoas colectivas, a prática dos actos previstos na alínea c) do artigo anterior.
+
+> Revogado pelo/a Artigo 181.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 25.º — Determinação da medida da coima
+
+1 - A determinação da medida da coima faz-se em função da gravidade da contra-ordenação, da culpa, da situação económica do agente e do benefício económico que este retirou da prática da contra-ordenação.
+
+2 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+> Alterado pelo/a Artigo 99.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 26.º — Sanções acessórias
+
+1 - Para além da coima que couber ao tipo de infracção cometida nos termos do artigo anterior, podem ser aplicadas as seguintes sanções acessórias:
+
+a) Interdição de realização da actividade ou actividades desportivas cujo exercício dependa da autorização da autoridade pública;
+
+b) Encerramento da instalação e cassação do título de funcionamento;
+
+c) Suspensão das actividades desportivas.
+
+2 - As sanções acessórias referidas no número anterior têm a duração máxima de dois anos contados a partir da decisão condenatória, findas as quais deve ser feita nova declaração de abertura e funcionamento de actividades desportivas, nos termos previstos no presente decreto-lei.
+
+3 - Quando for aplicada a sanção acessória de suspensão das actividades desportivas, o presidente da câmara municipal deve inscrever tal facto no registo de actividades desportivas pelo período de duração daquela sanção e promover a cassação do título de abertura.
+
+4 - Pode ser determinada a publicidade da aplicação de qualquer sanção, mediante uma das seguintes vias:
+
+a) Afixação da cópia da decisão pelo período de 30 dias, na própria instalação, em lugar e de forma bem visível;
+
+b) Publicação da decisão pela câmara municipal, em jornal de difusão nacional, regional ou local, de acordo com o lugar, a importância e os efeitos da infracção, a expensas da entidade responsável pelo funcionamento das instalações desportivas.
+
+###### Artigo 27.º — Suspensão das actividades
+
+1 - Quando ocorram situações excepcionais ou que pela sua gravidade possam pôr em risco a segurança ou a integridade física dos utentes, bem como em caso de acidente ou desrespeito pelas disposições expressas no presente decreto-lei e nas normas complementares, a ASAE pode determinar a suspensão imediata do funcionamento da instalação desportiva, na sua totalidade ou em parte.
+
+2 - No caso de se verificarem situações de grave risco para a saúde pública, as autoridades de saúde podem determinar a suspensão imediata do funcionamento da instalação desportiva, na sua totalidade ou em parte, nos termos das disposições legais aplicáveis.
+
+3 - Sem prejuízo do disposto no número anterior, quando ocorram as situações nele previstas, o proprietário ou o responsável pela instalação desportiva deve dar imediato conhecimento à câmara municipal desse facto.
+
+4 - Nos casos previstos no número anterior, pode a câmara municipal, oficiosamente ou na sequência de solicitação do IDP, I. P., determinar a suspensão imediata do funcionamento da instalação e a realização de uma vistoria extraordinária.
+
+5 - A vistoria extraordinária deve ocorrer no prazo máximo de cinco dias após a comunicação da decisão a que se refere o número anterior.
+
+###### Artigo 28.º — Competência sancionatória
+
+1 - A instrução dos processos de contra-ordenação referidos no presente decreto-lei compete à ASAE, sem prejuízo das competências das câmaras municipais previstas no RJUE e das competências atribuídas por lei a outras autoridades administrativas e policiais.
+
+2 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.
+
+> Alterado pelo/a Artigo 99.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 29.º — Produto das coimas
+
+1 - O produto das coimas aplicadas pelo presidente da câmara municipal, no âmbito das respectivas competências, bem como as que são cobradas em juízo constituem receita do município.
+
+2 - O produto das coimas aplicadas pela ASAE, no âmbito dos processos de contraordenação referidos no presente decreto-lei, é repartido nos termos do RJCE.
+
+> Alterado pelo/a Artigo 99.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 30.º — Direito subsidiário
+
+O processamento das contraordenações económicas e a aplicação das sanções previstas no presente decreto-lei estão sujeitos ao regime previsto no RJCE.
+
+> Alterado pelo/a Artigo 99.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+### Capítulo VI — Disposições finais e transitórias
+
+###### Artigo 31.º — Regime aplicável às instalações existentes
+
+1 - O presente decreto-lei aplica-se às instalações desportivas existentes à data da sua entrada em vigor sem prejuízo do disposto nos números seguintes.
+
+2 - O interessado no funcionamento das instalações desportivas dispõe do prazo de dois anos a contar da entrada em vigor do presente decreto-lei para emitir a declaração prevista no artigo 18.º e juntar os elementos nele referidos.
+
+3 - Para efeitos da aplicação do disposto no número anterior e sempre que necessário, as câmaras municipais promovem a realização de vistorias das instalações desportivas existentes na área do município.
+
+4 - O disposto neste artigo aplica-se, com as devidas adaptações, às instalações desportivas de propriedade das autarquias locais.
+
+###### Artigo 32.º — Regiões Autónomas
+
+O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respectiva autonomia político-administrativa, cabendo a sua execução administrativa aos serviços e organismos das respectivas administrações regionais autónomas com atribuições e competências no âmbito do presente decreto-lei, sem prejuízo das atribuições das entidades de âmbito nacional.
+
+###### Artigo 33.º — Norma revogatória
+
+1 - É revogado o Decreto-Lei n.º 317/97, de 25 de Novembro.
+
+2 - São revogadas as alíneas b) e c) do artigo 2.º, o artigo 4.º e a alínea b) do n.º 1 do artigo 8.º do Decreto-Lei n.º 309/2002, de 16 de Dezembro.
+
+3 - São revogadas as disposições da Portaria n.º 791/2007, de 17 de Julho, que se refiram aos ginásios e clubes de saúde (healthclubs).
+
+###### Artigo 34.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 60 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - Humberto Delgado Ubach Chaves Rosa - Manuel António Gomes de Almeida de Pinho - Mário Lino Soares Correia.
+
+Promulgado em 4 de Junho de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 8 de Junho de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

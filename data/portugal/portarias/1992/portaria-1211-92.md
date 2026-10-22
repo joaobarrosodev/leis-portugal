@@ -1,0 +1,150 @@
+---
+schema_version: '1.0'
+id: pt:dre:621701:por
+title: Portaria n.º 1211/92
+short_title: null
+summary: Ratifica o Plano de Pormenor de Alfaçanhas, Escalrachal, no município de Palmela
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 1211/92
+official_date: null
+publication_date: '1992-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 296/1992, Série I-B de 1992-12-24
+  number: '296'
+  series: I
+  supplement: null
+  pages: 5942 - 5943
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/12/296b00/59425943.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1211/1992/12/24/p/dre/pt/html
+  oj: null
+  dre: '621701'
+  dre_path: /dr/detalhe/portaria/1211-1992-621701
+  internal: pt:dre:621701:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1211-1992-621701
+  metadata_url: https://data.dre.pt/eli/port/1211/1992/12/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1211-1992-621701
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-12-24T00:00:00Z'
+integrity:
+  source_sha256: 40b0eb903d9a47d3debdd1f2db93793cea7ee257e64af169efb6eddbb1a307b0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-1211-621701.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Loteamento Urbano
+- Palmela
+- Política de Solos
+- Plano de Urbanização
+- Prédio Rústico
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1211/92
+
+de 24 de Dezembro
+
+Considerando que a Assembleia Municipal de Palmela aprovou, em 30 de Junho de 1992, o Plano de Pormenor de Alfaçanhas, no Escalrachal;
+
+Considerando que foi realizado o inquérito público, nos termos previstos no artigo 14.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março;
+
+Considerando os pareceres favoráveis emitidos pela Comissão de Coordenação da Região de Lisboa e Vale do Tejo e pela Direcção-Geral do Ordenamento do Território;
+
+Considerando que este Plano de Pormenor constitui uma alteração ao Plano Geral de Urbanização de Palmela;
+
+Considerando que se verificou a conformidade formal do Plano de Pormenor com as demais disposições legais e regulamentares em vigor, a sua articulação com os demais planos municipais eficazes e com outros planos, programas e projectos de interesse para o município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março;
+
+Ao abrigo do n.º 4 do artigo 3.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e da delegação de competências conferida pelo [Despacho n.º 224/91](https://diariodarepublica.pt/dr/detalhe/despacho/224-1992-1165926), do Ministro do Planeamento e da Administração do Território, publicado no Diário da República, 2.ª série, de 28 de Janeiro de 1992:
+
+Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordenamento do Território, que seja ratificado o Plano de Pormenor de Alfaçanhas, Escalrachal, no município de Palmela.
+
+Ministério do Planeamento e da Administração do Território.
+
+**Assinada em 1 de Dezembro de 1992.**
+
+**O Secretário de Estado da Administração Local e do Ordenamento do Território, José Manuel Nunes Liberato.**
+
+Plano de Pormenor de Alfaçanhas, Escalrachal, no município de Palmela
+
+1 - Preâmbulo
+
+A presente memória descritiva e justificativa diz respeito ao projecto de um loteamento urbano de uma propriedade rústica situada no lugar denominado Alfaçanhas, Serrinha ou Escalrachal, na freguesia e concelho de Palmela, com uma área total de 19800 m2, registada na Conservatória do Registo Predial de Palmela sob o n.º 30, confrontando a norte com Francisco Carvalho Oliveira e Silva, a sul com caminho municipal, a nascente com António José Doroteia e a poente com herdeiros de António Cobellos d'Andrade.
+
+O loteamento a levar a efeito destina-se a alojar 50 moradias unifamiliares, identificando-se os respectivos lotes pelos n.os 1 a 50, com as áreas respectivas expressas na planta síntese (desenho n.º 4, folha 5), sendo as moradias a alojar nos lotes n.os 1 e 2 isoladas com as respectivas garagens e os lotes n.os 2 a 11 e 13 a 22 geminadas pelas garagens, com uma tipologia T4, com um máximo de dois pisos, sendo as dos restantes lotes n.os 29 a 50 geminadas em banda, com uma tipologia inicial T3, com dois pisos habitáveis, com um aproveitamento de sótão que poderá eventualmente alojar mais dois quartos em face do agregado familiar do futuro utente, tendo as moradias a implantar nesta urbanização o desenvolvimento arquitectónico semelhante aos que se apresentam nos respectivos esboços indicados no desenho n.º 8, folha 9.
+
+A rede viária a aplicar neste loteamento será constituída por uma só rua, com o desenvolvimento que se apresenta no projecto, possuindo no topo um parqueamento com capacidade para 12 viaturas.
+
+2 - Regulamento
+
+Dada a natureza da operação de loteamento a levar a efeito, impõe-se que o mesmo seja dotado de um regulamento que condicione as condições construtivas a levar a efeito nas moradias.
+
+As moradias a construir serão em alvenaria de tijolo travada por uma estrutura de betão armado, com um máximo de dois pisos, para os lotes n.os 1 a 22, terão como acabamento exterior a pintura com tinta de água nas cores branca, creme ou rosa-velho, rematadas por um soco em pedra rústica, esponteirada (nunca retalhos de mármore), sendo as suas coberturas em telha cerâmica tipo Lusa, de barro encarnado (nunca em telha de cimento), e os seus vãos guarnecidos por madeira exótica, na cor natural; as portas das garagens serão metálicas, tipo basculante, pintadas com tinta de esmalte cor verde-garrafa.
+
+Para as moradias a implantar nos lotes n.os 29 a 50, que serão geminadas em banda, aplicar-se-ão as mesmas condições de acabamentos, sendo a cor base, para pintura exterior, semelhante às atrás mencionadas, aplicando-se para cada grupo de bandas, sendo o seu número de pisos habitacionais dois, com aproveitamento de sótão convertível em um ou dois quartos, conforme o agregado familiar do associado a ocupar a moradia o exigir.
+
+Os muros com frente a via pública terão a configuração semelhante ao que se indica no desenho n.º 9, folha 10, tendo os separativos e tardoz uma altura máxima de 1,50 m.
+
+3 - Condicionalismos
+
+Ficará interdita aos associados a colocação total ou parcial de quaisquer espécies de azulejos nas fachadas das moradias, construção de galinheiros ou outra espécie de anexos que venham a prejudicar o bem-estar dos demais associados, tendo a direcção da Cooperativa de Auto Construção do Escalrachal autoridade para, através dos serviços técnicos da Câmara Municipal de Palmela, ordenar o seu embargo e impor a reposição ao estado inicial das moradias ou garagens que eventualmente venham a sofrer alterações.
+
+Notas
+
+1 - A administração da Cooperativa de Auto Construção do Escalrachal compromete-se a acatar os condicionalismos que a Câmara Municipal de Palmela venha a impor aquando da execução dos trabalhos de infra-estruturas a levar a efeito na urbanização supracitada.
+
+2 - A administração da Cooperativa de Auto Construção do Escalrachal compromete-se a arborizar todos os espaços vazios e envolventes do seu terreno.
+
+3 - Este processo destina-se a substituir o anteriormente apresentado para o mesmo local, o qual se identifica pelo processo L 18/83, transitando para o actual toda a documentação que venha a ser necessária para o andamento do mesmo.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1992/12/296b00/59425943.pdf))](https://files.diariodarepublica.pt/1s/1992/12/296b00/59425943.pdf)

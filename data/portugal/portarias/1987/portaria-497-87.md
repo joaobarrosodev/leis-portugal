@@ -1,0 +1,283 @@
+---
+schema_version: '1.0'
+id: pt:dre:418988:por
+title: Portaria n.º 497/87
+short_title: null
+summary: Aprova o Regulamento do Estágio para Ingresso na Carreira de Secretários Aduaneiros da Direcção-Geral das Alfândegas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças - Secretarias de Estado do Orçamento e para os Assuntos Fiscais
+proposing_entity: null
+official_number: 497/87
+official_date: null
+publication_date: '1987-06-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/1987, Série I de 1987-06-19
+  number: '138'
+  series: I
+  supplement: null
+  pages: 2350 - 2352
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/06/13800/23502352.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '418988'
+  dre_path: /dr/detalhe/portaria/497-1987-418988
+  internal: pt:dre:418988:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/497-1987-418988
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/497-1987-418988
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-06-19T00:00:00Z'
+integrity:
+  source_sha256: fe04d7c4bc43d563ace7f13a11278882964650bd006f6b2755a4d6dc680ef561
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-497-418988.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 497/87
+
+de 19 de Junho
+
+Ao abrigo do disposto nos artigos 50.º, n.º 3, e 74.º, n.º 1, do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, e do artigo único do [Decreto-Lei n.º 471/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/471-1985-171527), de 11 de Novembro, conjugado com o artigo 31.º, n.º 4, do [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento e para os Assuntos Fiscais, aprovar o seguinte:
+
+Regulamento do Estágio para Ingresso na Carreira de Secretários Aduaneiros da Direcção-Geral das Alfândegas
+
+I
+
+Disposições gerais
+
+###### Artigo 1.º — Âmbito material
+
+O estágio para o ingresso na categoria de secretário aduaneiro de 2.ª classe do quadro da Direcção-Geral das Alfândegas (DGA) obedece ao disposto na presente portaria e às regras que vierem a ser fixadas no plano de estágio, aprovado por despacho do membro do Governo que tutelar a DGA.
+
+###### Artigo 2.º — Objectivos
+
+Constitui objectivo do estágio proporcionar aos secretários aduaneiros estagiários:
+
+a) A integração na estrutura da DGA;
+
+b) A obtenção dos conhecimentos profissionais necessários ao exercício da função.
+
+###### Artigo 3.º — Início do estágio
+
+O estágio terá início em data a determinar pelo director-geral das Alfândegas e após a tomada de posse dos secretários aduaneiros estagiários.
+
+###### Artigo 4.º — Constituição do estágio
+
+O estágio compreende:
+
+a) Um curso de formação teórica;
+
+b) Um período de actividades práticas;
+
+c) Prestação de provas de aproveitamento.
+
+###### Artigo 5.º — Plano de estágio
+
+O plano de estágio referido no artigo 1.º incluirá, nomeadamente, os seguintes aspectos:
+
+a) A duração do estágio;
+
+b) O programa das matérias;
+
+c) A distribuição dos temas do programa do estágio, por tempos;
+
+d) A designação dos formadores;
+
+e) A distribuição dos estagiários em grupos de estudo, para as actividades teóricas;
+
+f) A distribuição dos estagiários por serviços, para as actividades práticas.
+
+###### Artigo 6.º — Actividades complementares
+
+Durante o período de estágio poderão ser organizadas visitas de estudo, tendo em vista o desenvolvimento das aptidões dos participantes e o conhecimento concreto das tarefas inerentes à actividade aduaneira.
+
+II
+
+Direitos e deveres dos estagiários
+
+###### Artigo 7.º — Acesso à informação
+
+A DGA proporcionará aos estagiários a documentação e informação indispensáveis à sua formação.
+
+###### Artigo 8.º — Assiduidade e pontualidade
+
+O estagiário fica obrigado a comparecer assídua e pontualmente às actividades pedagógicas e a justificar as suas ausências e os seus atrasos.
+
+###### Artigo 9.º — Faltas
+
+1 - As faltas e licenças durante o estágio regulam-se pelo regime aplicável à função pública, com as excepções constantes dos números que se seguem e do artigo 11.º
+
+2 - No decurso da parte teórica, entende-se por falta a não comparência do estagiário a uma unidade de tempo lectivo.
+
+3 - As faltas contam-se por unidade de tempo lectivo, que é o que decorre entre o início e o termo de uma sessão de trabalho.
+
+###### Artigo 10.º — Controle de assiduidade
+
+O controle de assiduidade dos estagiários far-se-á pelo sistema de assinatura de folhas, que serão recolhidas logo após o início do tempo lectivo.
+
+###### Artigo 11.º — Efeitos
+
+1 - As faltas em número superior a 20% do total de sessões lectivas da parte teórica do estágio podem determinar a perda de frequência do estágio, com a consequente exoneração ou termo da requisição ou comissão de serviço.
+
+2 - As faltas injustificadas para efeitos do número anterior são contadas pelo triplo.
+
+3 - O gozo de licença para férias a que os estagiários tenham direito não deverá coincidir com a duração do estágio.
+
+III
+
+Corpo docente
+
+###### Artigo 12.º — Formadores
+
+Os formadores do curso de formação serão designados pelo director-geral das Alfândegas de entre individualidades de reconhecida capacidade e competência profissionais.
+
+###### Artigo 13.º — Funções docentes
+
+O exercício da actividade dos formadores, ao nível de cada um dos seus temas de responsabilidade, compreende, designadamente, o desempenho das seguintes funções:
+
+a) Dirigir sessões de trabalho lectivo, de acordo com o calendário-programa estabelecido;
+
+b) Assistir pedagogicamente os estagiários;
+
+c) Acompanhar os estagiários em visitas de estudo;
+
+d) Fornecer atempadamente aos estagiários a documentação de apoio ou outro material didáctivo indispensável ao adequado desenvolvimento do estágio;
+
+e) Elaborar e avaliar as provas determinadas para os temas da sua responsabilidade.
+
+###### Artigo 14.º — Retribuição
+
+O exercício da actividade dos formadores confere direito à retribuição decorrente do despacho conjunto publicado no Diário da República, 2.ª série, n.º 108, de 11 de Maio de 1983.
+
+IV
+
+Da organização e coordenação do estágio
+
+###### Artigo 15.º — Organização
+
+A Direcção de Serviços de Organização e Recursos Humanos (DSORH) é responsável pela organização do estágio, cabendo-lhe, nomeadamente:
+
+a) Elaborar e submeter a despacho o plano de estágio previsto no artigo 5.º deste diploma;
+
+b) Assegurar o apoio administrativo necessário ao desenvolvimento do estágio;
+
+c) Articular com o coordenador o desenvolvimento e realização do estágio.
+
+###### Artigo 16.º — Coordenação
+
+1 - O desenvolvimento das actividades do estágio será coordenado por um funcionário, ao qual competirá, designadamente:
+
+a) Assegurar as relações de hierarquia directa e o acompanhamento técnico-pedagógico dos estagiários;
+
+b) Promover a uniformidade dos critérios a adoptar no processo de avaliação e classificação dos estagiários;
+
+c) Manter estreita articulação com a DSORH no desempenho das competências que lhe estão atribuídas.
+
+2 - O coordenador do estágio previsto no número anterior será nomeado por despacho do director-geral das Alfândegas de entre funcionários com experiência na área da formação e possuidores do curso de formação de formadores.
+
+V
+
+Da avaliação do estágio
+
+###### Artigo 17.º — Avaliação do estágio
+
+1 - A avaliação destina-se a apurar os conhecimentos do estagiário, as suas aptidões, a sua capacidade de exposição oral e escrita, tanto no aspecto teórico como no prático, e a sua capacidade de inserção na realidade sócio-profissional.
+
+2 - Os estagiários são avaliados tendo em vista os objectivos do estágio e as matérias ministradas nos temas do programa através de um dos seguintes métodos utilizado isolado ou conjuntamente:
+
+a) Prova de conhecimentos;
+
+b) Classificação das actividades práticas;
+
+c) Avaliação contínua.
+
+3 - No caso de utilização do método previsto na alínea c) do número anterior, os formadores fornecerão ao júri as respectivas classificações.
+
+4 - Os métodos de selecção previstos nos n.os 2 e 3 anteriores serão classificados de 0 a 20 valores, implicando reprovação no estágio a classificação inferior a 10 valores.
+
+VI
+
+Do júri de estágio
+
+###### Artigo 18.º — Constituição
+
+O júri será constituído pelo director-geral ou seu representante, que presidirá, e por dois vogais a designar por despacho do membro do Governo que tutelar a DGA.
+
+###### Artigo 19.º — Atribuições e competências
+
+1 - Compete ao júri de estágio deliberar sobre o aproveitamento e a classificação dos estagiários, nos termos do disposto nos números seguintes.
+
+2 - Das reuniões do júri serão lavradas actas, das quais constarão os fundamentos da classificação final do estágio obtida nos termos estabelecidos no plano de estágio.
+
+3 - A lista de classificação final será homologada pelo membro do Governo que tiver a seu cargo a DGA.
+
+4 - Homologada a lista, deverá a mesma ser enviada para publicação no Diário da República.
+
+VII
+
+Da prova de ingresso na categoria de secretário aduaneiro de 2.ª classe
+
+###### Artigo 20.º — Prova de ingresso
+
+1 - A prova referida no n.º 1 do artigo 74.º do [Decreto-Lei n.º 252-A/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/252-a-1982-306028), de 28 de Junho, constará de uma prova de conhecimentos sobre o programa da matéria do estágio.
+
+2 - A prova referida no número anterior será classificada de 0 a 20 valores, implicando reprovação para os que obtenham classificação inferior a 10 valores.
+
+###### Artigo 21.º — Do júri da prova de ingresso
+
+A constituição composição, funcionamento e competência do júri da prova de conhecimentos para ingresso na categoria de secretário aduaneiro de 2.ª classe obedece ao disposto no [Decreto-Lei n.º 44/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-1984-367853), de 3 de Fevereiro.
+
+Secretarias de Estado do Orçamento e para os Assuntos Fiscais.
+
+**Assinada em 25 de Maio de 1987.**
+
+**O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado para os Assuntos Fiscais, José de Oliveira Costa.**

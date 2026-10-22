@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:217547:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-837139483",
+ "dre_path": "/dr/detalhe/portaria/337-2004-217547",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "837139582"
+   ]
+  },
+  {
+   "date": "2013-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:497607:por",
+     "title": "Portaria n.º 220/2013",
+     "published": "2013-07-04",
+     "dre_path": "/dr/detalhe/portaria/220-2013-497607"
+    }
+   ],
+   "changes": [
+    "Altera 2.º",
+    "Altera 3.º",
+    "Altera 4.º"
+   ],
+   "fragments": [
+    "837139582",
+    "837139584",
+    "837139609",
+    "837139610",
+    "837139611",
+    "837139588",
+    "837139589",
+    "837139590",
+    "837139591",
+    "837139597",
+    "837139593",
+    "837139594",
+    "837139583"
+   ]
+  },
+  {
+   "date": "2024-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:837054018:por",
+     "title": "Portaria n.º 11/2024",
+     "published": "2024-01-18",
+     "dre_path": "/dr/detalhe/portaria/11-2024-837054018"
+    }
+   ],
+   "changes": [
+    "Altera 2.º",
+    "Altera 3.º",
+    "Altera 4.º"
+   ],
+   "fragments": [
+    "837139582",
+    "837139584",
+    "837139614",
+    "837139615",
+    "837139616",
+    "837139588",
+    "837139589",
+    "837139590",
+    "837139591",
+    "837139597",
+    "837139593",
+    "837139594",
+    "837139583"
+   ]
+  }
+ ],
+ "fragments": {
+  "837139582": {
+   "fragment_id": "837139484",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 337/2004\n\nde 31 de Março\n\nO regime jurídico de protecção social na eventualidade doença, aprovado pelo Decreto-Lei n.º 28/2004, de 4 de Fevereiro, introduziu medidas e consagrou mecanismos de protecção assentes numa cultura de co-responsabilização e que visam contribuir para uma protecção social mais eficaz e equitativa. Por essa razão, procedeu-se também à adequação de regras e de procedimentos já instituídos e inseridos em legislação avulsa, concretizando uma revisão global do regime jurídico de protecção social na eventualidade doença, consentâneo com a realidade social e no quadro dos princípios definidos pela Lei n.º 32/2002, de 17 de Dezembro.\n\nA articulação entre as entidades competentes na área da saúde e na área da segurança social é essencial para a eficácia e para a adequação do regime instituído, constituindo a transferência electrónica de dados referentes à certificação um instrumento decisivo na prossecução daquele objectivo e que importa, pois, concretizar com celeridade. Os mesmos propósitos de eficácia e de adequação impõem que, neste momento, pela presente portaria sejam reguladas as formas e os termos de articulação entre aquelas entidades, assim como também sejam definidos as regras e os procedimentos que devem ser adoptados para a cabal execução do regime instituído, enquanto não se encontra concluído o processo de transferência electrónica de dados respeitantes à certificação.\n\nAssim:\n\nAo abrigo do artigo 49.º do Decreto-Lei n.º 28/2004, de 4 de Fevereiro, manda o Governo, pelos Ministros da Saúde e da Segurança Social e do Trabalho, o seguinte:"
+  },
+  "837139584": {
+   "fragment_id": "837139486",
+   "type": 11,
+   "heading": "1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Objecto\n\nA presente portaria visa regular os procedimentos necessários à aplicação do regime jurídico de protecção social na eventualidade doença no âmbito do subsistema previdencial, aprovado pelo Decreto-Lei n.º 28/2004, de 4 de Fevereiro."
+  },
+  "837139609": {
+   "fragment_id": "837139488",
+   "type": 11,
+   "heading": "2.º — Meios de certificação",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### 2.º — Meios de certificação\n\n1 - O reconhecimento e a duração da incapacidade temporária são fundamentados em exame clínico do beneficiário, sendo os respectivos elementos de informação anotados e arquivados no respectivo processo clínico.\n\n2 - A certificação da incapacidade temporária é efetuada através de atestado médico designado por certificado de incapacidade temporária para o trabalho (CIT), o qual é autenticado pela aposição das vinhetas do médico e do estabelecimento de saúde e comunicado por via eletrónica aos serviços de segurança social pelos serviços competentes do Serviço Nacional de Saúde.\n\n3 - O modelo do CIT consta do anexo à presente portaria e dela faz parte integrante.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+  },
+  "837139610": {
+   "fragment_id": "837139489",
+   "type": 11,
+   "heading": "3.º — Períodos de certificação da incapacidade temporária",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### 3.º — Períodos de certificação da incapacidade temporária\n\n1 - A certificação da incapacidade temporária está subordinada a limites temporais de 12 e de 30 dias, consoante se trate de período inicial ou de prorrogação, salvo o disposto em legislação especial.\n\n2 - O disposto no número anterior não se aplica às situações de risco clínico durante a gravidez.\n\n3 - Os períodos de incapacidade temporária que se encontrem certificados não são interrompidos ainda que, durante esses períodos, não seja reconhecido o direito ao subsídio de doença.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+  },
+  "837139611": {
+   "fragment_id": "837139490",
+   "type": 11,
+   "heading": "4.º — Articulação entre as entidades competentes da área da saúde e da área da segurança social",
+   "in_force_from": "2013-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### 4.º — Articulação entre as entidades competentes da área da saúde e da área da segurança social\n\nAs entidades competentes da área da saúde e da área da segurança social devem articular as respectivas intervenções sempre que seja necessário, nomeadamente nas seguintes situações:\n\na) Se se verificar alguma irregularidade no preenchimento do CIT;\n\nb) Se o médico constatar que a evolução clínica do beneficiário determina a não subsistência da incapacidade temporária antes do termo do período fixado no certificado, para efeitos de aplicação da alínea a) do n.º 1 do artigo 24.º do Decreto-Lei n.º 28/2004, de 4 de Fevereiro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+  },
+  "837139588": {
+   "fragment_id": "837139491",
+   "type": 11,
+   "heading": "5.º — Familiares a cargo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Familiares a cargo\n\n1 - Para efeitos do disposto n.º 3 do artigo 16.º do Decreto-Lei n.º 28/2004, de 4 de Fevereiro, consideram-se familiares a cargo o cônjuge que não exerça actividade profissional e os descendentes que se encontrem nas condições previstas nas alíneas b) e c) do n.º 1 do artigo 17.º do mesmo diploma legal.\n\n2 - A composição do agregado familiar é verificada nos termos do n.º 6.º da presente portaria."
+  },
+  "837139589": {
+   "fragment_id": "837139492",
+   "type": 11,
+   "heading": "6.º — Majoração do subsídio de doença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 6.º — Majoração do subsídio de doença\n\n1 - A entidade competente da segurança social verifica, oficiosamente, os factos constitutivos do direito à majoração prevista no artigo 17.º do Decreto-Lei n.º 28/2004, de 4 de Fevereiro, designadamente:\n\na) O valor limite da remuneração de referência;\n\nb) A composição do agregado familiar, sempre que estejam a efectuar o pagamento ao beneficiário de abono de família ou de bonificação por deficiência.\n\n2 - Nas situações previstas no número anterior não há lugar à apresentação do requerimento a que se refere o artigo 33.º do Decreto-Lei n.º 28/2004, de 4 de Fevereiro.\n\n3 - Nas situações em que a composição do agregado familiar não possa ser verificada nos termos da alínea b) do n.º 1, a entidade competente da segurança social notifica o beneficiário para remeter uma declaração relativa à composição do respectivo agregado familiar, acompanhada de documento comprovativo, no prazo de 10 dias úteis a contar da recepção da notificação.\n\n4 - Nos casos de incumprimento do prazo previsto no número anterior a majoração é devida a partir do dia seguinte ao da apresentação dos documentos, salvo justificação atendível.\n\n5 - O valor limite da remuneração de referência de (euro) 500 a que se refere o artigo 17.º do Decreto-Lei n.º 28/2004, de 4 de Fevereiro, corresponde ao valor da remuneração de referência diária do beneficiário multiplicada por 30 dias."
+  },
+  "837139590": {
+   "fragment_id": "837139493",
+   "type": 11,
+   "heading": "7.º — Dever de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º — Dever de comunicação\n\nAs situações susceptíveis de determinarem a perda do direito à majoração são equiparadas às situações previstas na alínea g) do n.º 2 do artigo 28.º do Decreto-Lei n.º 28/2004, de 4 de Fevereiro."
+  },
+  "837139591": {
+   "fragment_id": "837139494",
+   "type": 11,
+   "heading": "8.º — Atribuição da prestação compensatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º — Atribuição da prestação compensatória\n\nA passagem do beneficiário à situação de pensionista, incluindo nos casos em que se verifique a atribuição de pensão provisória, não prejudica o reconhecimento do direito previsto no artigo 15.º do Decreto-Lei n.º 28/2004, de 4 de Fevereiro, em função dos direitos adquiridos na vigência do respectivo contrato de trabalho."
+  },
+  "837139597": {
+   "fragment_id": "837139495",
+   "type": 11,
+   "heading": "9.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 36/2004 - Diário da República n.º 97/2004, Série I-B de 2004-04-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/36-2004-223004), produz efeitos a partir de 2004-04-01"
+   ],
+   "markdown": "###### 9.º — Norma transitória\n\nSem prejuízo do disposto no n.º 3 do n.º 2.º da presente portaria, o modelo de certificado de incapacidade temporária aprovado pelo despacho conjunto n.º 381/99, publicado no Diário da República, 2.ª série, n.º 103, de 4 de Maio de 1999, mantém-se em vigor durante o prazo de 180 dias a contar da publicação do presente diploma.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 36/2004 - Diário da República n.º 97/2004, Série I-B de 2004-04-24](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/36-2004-223004), produz efeitos a partir de 2004-04-01"
+  },
+  "837139593": {
+   "fragment_id": "837139496",
+   "type": 11,
+   "heading": "10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 10.º — Norma revogatória\n\nSão revogados o despacho n.º 94/SESS/90, publicado no Diário da República, 2.ª série, n.º 279, de 4 de Dezembro de 1990, o despacho n.º 46/SESS/91, publicado no Diário da República, 2.ª série, n.º 113, de 17 de Maio de 1991, o despacho n.º 1961/98, publicado no Diário da República, 2.ª série, n.º 27, de 2 de Fevereiro de 1998, o despacho conjunto n.º 381/99, e o despacho n.º 8834/99, ambos publicados no Diário da República, 2.ª série, n.º 103, de 4 de Maio de 1999."
+  },
+  "837139594": {
+   "fragment_id": "837139497",
+   "type": 11,
+   "heading": "11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de Abril de 2004."
+  },
+  "837139583": {
+   "fragment_id": "837139485",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 11 de Março de 2004.\n\nO Ministro da Saúde, Luís Filipe Pereira. - O Ministro da Segurança Social e do Trabalho, António José de Castro Bagão Félix.\n\n(ver modelos no documento original)"
+  },
+  "837139614": {
+   "fragment_id": "837139488",
+   "type": 11,
+   "heading": "2.º — Meios de certificação",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2024 - Diário da República n.º 13/2024, Série I de 2024-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/11-2024-837054018), em vigor a partir de 2024-03-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### 2.º — Meios de certificação\n\n1 - O reconhecimento e a duração da incapacidade temporária são fundamentados em exame clínico do beneficiário, sendo os respectivos elementos de informação anotados e arquivados no respectivo processo clínico.\n\n2 - A certificação da incapacidade temporária é efetuada através de atestado médico, designado por certificado de incapacidade temporária para o trabalho (CIT), autenticado pela aposição das vinhetas do médico e do estabelecimento de saúde ou assinado digitalmente pelo médico, e comunicado por via eletrónica aos serviços de segurança social pelos serviços competentes das entidades prestadoras de cuidados de saúde públicas, privadas e sociais.\n\n3 - O modelo do CIT consta do anexo à presente portaria e dela faz parte integrante.\n\n4 - A incapacidade temporária para o trabalho, pode igualmente ser autodeclarada por compromisso de honra, através de serviço digital do Serviço Nacional de Saúde, ou de serviço digital dos serviços regionais de saúde das regiões autónomas.\n\n5 - A emissão de certificação da incapacidade temporária encontra-se sujeita ao seguinte período de retroatividade:\n\na) Até ao limite de 30 dias, nas situações certificadas por atestado médico (CIT);\n\nb) Até ao limite de 5 dias, nas situações de autodeclaração de doença (ADD) por compromisso de honra, através de serviço digital do Serviço Nacional de Saúde, ou de serviço digital dos serviços regionais de saúde das regiões autónomas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2024 - Diário da República n.º 13/2024, Série I de 2024-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/11-2024-837054018), em vigor a partir de 2024-03-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+  },
+  "837139615": {
+   "fragment_id": "837139489",
+   "type": 11,
+   "heading": "3.º — Períodos de certificação da incapacidade temporária",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2024 - Diário da República n.º 13/2024, Série I de 2024-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/11-2024-837054018), em vigor a partir de 2024-03-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### 3.º — Períodos de certificação da incapacidade temporária\n\n1 - A certificação da incapacidade temporária está subordinada a limites temporais de 12 e de 30 dias, consoante se trate de período inicial ou de prorrogação, sem prejuízo do disposto no número seguinte, ou em legislação especial.\n\n2 - Excetuam-se dos limites temporais estabelecidos no número anterior, as seguintes patologias, quer para o período inicial, quer para a prorrogação da certificação da incapacidade temporária:\n\na) Patologia oncológica: os limites temporais para o período inicial e para a prorrogação são de 90 dias;\n\nb) Acidentes vasculares cerebrais: os limites temporais para o período inicial e para a prorrogação são de 90 dias;\n\nc) Doença isquémica cardíaca: os limites temporais para o período inicial e para a prorrogação são de 90 dias;\n\nd) Situações de pós-operatório: os limites temporais para o período inicial e para a prorrogação são de 60 dias;\n\ne) Situações de tuberculose: os limites temporais para o período inicial e para a prorrogação são de 180 dias;\n\nf) Até à data provável do parto, indicada por médico, nas situações de risco clínico durante a gravidez.\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2024 - Diário da República n.º 13/2024, Série I de 2024-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/11-2024-837054018), em vigor a partir de 2024-03-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+  },
+  "837139616": {
+   "fragment_id": "837139490",
+   "type": 11,
+   "heading": "4.º — Articulação entre as entidades competentes da área da saúde e da área da segurança social",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2024 - Diário da República n.º 13/2024, Série I de 2024-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/11-2024-837054018), em vigor a partir de 2024-03-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+   ],
+   "markdown": "###### 4.º — Articulação entre as entidades competentes da área da saúde e da área da segurança social\n\nAs entidades competentes da área da saúde e da área da segurança social devem articular as respetivas intervenções sempre que seja necessário, nomeadamente nas seguintes situações:\n\na) Se se verificar alguma irregularidade formal do CIT ou da ADD;\n\nb) Se o médico constatar que a evolução clínica do beneficiário determina a não subsistência da incapacidade temporária antes do termo do período fixado no certificado, para efeitos de aplicação da alínea a) do n.º 1 do artigo 24.º do Decreto-Lei n.º 28/2004, de 4 de fevereiro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 11/2024 - Diário da República n.º 13/2024, Série I de 2024-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/11-2024-837054018), em vigor a partir de 2024-03-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 220/2013 - Diário da República n.º 127/2013, Série I de 2013-07-04](https://diariodarepublica.pt/dr/detalhe/portaria/220-2013-497607), em vigor a partir de 2013-09-01"
+  }
+ }
+}

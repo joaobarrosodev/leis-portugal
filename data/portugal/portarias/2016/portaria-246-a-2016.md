@@ -1,0 +1,448 @@
+---
+schema_version: '1.0'
+id: pt:dre:75300912:por
+title: Portaria n.º 246-A/2016
+short_title: null
+summary: Portaria que estabelece as condições e os procedimentos do regime de reembolso parcial de impostos sobre combustíveis
+  para empresas de transportes de mercadorias
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros, Finanças e Economia
+proposing_entity: null
+official_number: 246-A/2016
+official_date: null
+publication_date: '2016-09-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 173/2016, 1º Suplemento, Série I de 2016-09-08
+  number: '173'
+  series: I
+  supplement: 1º Suplemento
+  pages: 3146-(2) a 3146-(4)
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/09/17301/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-12-27'
+version_history:
+  file: portaria-246-a-2016.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-09-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-01-12'
+    amending: pt:dre:105746096:por
+    amending_title: Portaria n.º 17/2017
+    changes:
+    - Adita Artigo 14.º-B
+  - date: '2018-09-27'
+    amending: pt:dre:116508077:por
+    amending_title: Portaria n.º 269/2018
+    changes:
+    - Altera Artigo 6.º
+  - date: '2021-11-05'
+    amending: pt:dre:173909865:por
+    amending_title: Portaria n.º 235-A/2021
+    changes:
+    - Altera Artigo 6.º
+  - date: '2023-12-27'
+    amending: pt:dre:835712400:por
+    amending_title: Portaria n.º 453-A/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º-B
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/246-a/2016/p/cons/20231226/pt/html
+  oj: null
+  dre: '75300912'
+  dre_path: /dr/detalhe/portaria/246-a-2016-75300912
+  internal: pt:dre:75300912:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/246-a-2016-75300912
+  metadata_url: https://data.dre.pt/eli/port/246-a/2016/p/cons/20231226/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-105746104
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-105746104
+  retrieved_at: '2026-10-22T12:09:48Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a8184e5cf03b3a3af421694e7018f4c32adf18db7f018ad4366583db20e2dbb6
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:09:48Z'
+  notes: 5 versão(ões); histórico completo em portaria-246-a-2016.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Empresa
+- Imposto sobre Produtos Petrolíferos
+- Transporte de Mercadorias
+- Reembolso
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:105746096:por
+  label: Adita Artigo 14.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/17-2017-105746096
+  date: '2017-01-11'
+- type: amended_by
+  target: pt:dre:116508077:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/269-2018-116508077
+  date: '2018-09-26'
+- type: amended_by
+  target: pt:dre:173909865:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2021-173909865
+  date: '2021-11-04'
+- type: amended_by
+  target: pt:dre:835712400:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 13.º; Altera
+    Artigo 14.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400
+  date: '2023-12-26'
+- type: cites
+  target: celex:32003L0096
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/96/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/142/2010/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/142/2010/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/214-e/2015/09/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/214-e/2015/09/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/89/2008/05/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/89/2008/05/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/24/2016/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/24/2016/08/22/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:09:48Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 246-A/2016
+
+Portaria n.º 246-A/2016
+
+de 8 de setembro
+
+Ao longo de mais de uma década, as empresas de transportes internacionais têm deslocado os seus abastecimentos de combustíveis para fora de Portugal, beneficiando dos mecanismos de «gasóleo profissional» existentes em Espanha e em França, tendo em vista manterem a sua atividade num contexto europeu extremamente concorrencial.
+
+A competitividade fiscal nos combustíveis é particularmente determinante para o setor dos transportes internacionais, concedendo uma vantagem económica significativa aos operadores cujas bases logísticas estejam mais próximas de locais de abastecimento de baixo custo.
+
+Deste modo, a ausência de um regime de «gasóleo profissional» em Portugal tem não só afetado a receita fiscal, através do desvio de consumo para outros países, como concorrido para a deslocalização de empresas do setor dos transportes para fora de Portugal e contribuído negativamente para a competitividade das exportações nacionais.
+
+No atual quadro europeu, uma aposta coerente no desenvolvimento da economia portuguesa e do reforço das suas exportações exige que seja ensaiado o nivelamento da tributação sobre os combustíveis suportados pelo setor até ao mínimo europeu, através da criação de um sistema de «gasóleo profissional».
+
+Tendo em vista a necessidade de monitorizar a implementação de uma medida desta natureza, bem como de testar os sistemas de controlo adequados, o Governo determina ainda a existência de um período experimental a partir do próximo dia 15 de setembro.
+
+Assim:
+
+Manda o Governo, pela Ministra da Presidência e da Modernização Administrativa, pelo Ministro das Finanças e pelo Secretário de Estado da Energia, ao abrigo do artigo 93.º-A do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho e do artigo 4.º da Lei n.º 24/2016, de 22 de agosto, o seguinte:
+
+> Nota: [Artigo 4.º, Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400) As alterações introduzidas pela Portaria n.º 453-A/2023, de 26 de dezembro, produzem efeitos: a) No caso do transporte coletivo de passageiros, a partir de 1 de janeiro de 2024; b) No caso da utilização de gás natural, a partir de 1 de julho de 2024.
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece as condições e os procedimentos do regime de reembolso parcial de impostos sobre combustíveis para as empresas de transportes de mercadorias e transporte coletivo de passageiros, previsto no artigo 93.º-A do Código dos Impostos Especiais de Consumo (CIEC), aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho, doravante designado 'reembolso parcial'.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 2.º — Combustível aplicável
+
+O presente regime é aplicável aos abastecimentos com gasóleo rodoviário, definido no Decreto-Lei n.º 89/2008, de 30 de maio, na sua redação atual, que corresponde aos códigos NC 2710 19 43 a 2710 19 48 e 2710 20 11 a 2710 20 19 e aos abastecimentos com gás natural classificado pelos códigos NC 2711 11 00 e 2711 21 00, aplicando-se as necessárias atualizações subsequentes ao sistema da nomenclatura combinada.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 3.º — Montante do reembolso
+
+Ao abrigo do presente regime é reembolsado ao adquirente, aplicando-se os limites quantitativos previstos no artigo 6.º, os seguintes montantes:
+
+a) Relativamente ao gasóleo, a diferença entre o nível mínimo de tributação previsto no artigo 7.º da Diretiva 2003/96/CE, de 27 de outubro, na sua redação atual, e o montante total dos impostos indiretos cobrados (excluindo o IVA), calculados direta ou indiretamente com base na quantidade de produtos petrolíferos, designadamente o imposto sobre os produtos petrolíferos e energéticos, que inclui a consignação de serviço rodoviário, e o adicionamento sobre as emissões de CO(índice 2);
+
+b) Relativamente ao gás natural, a diferença entre o nível mínimo de tributação previsto no artigo 15.º da Diretiva 2003/96/CE, de 27 de outubro, na sua redação atual, e o montante total dos impostos indiretos cobrados (excluindo o IVA), calculados direta ou indiretamente com base na quantidade de produtos petrolíferos, designadamente o imposto sobre os produtos petrolíferos e energéticos e o adicionamento sobre as emissões de CO(índice 2).
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 4.º — Admissibilidade do reembolso
+
+O reembolso parcial depende da verificação cumulativa dos seguintes requisitos:
+
+a) Registo e comunicação tempestiva do abastecimento através de sistema devidamente validado;
+
+b) Abastecimento em posto de combustível ou instalações de consumo próprio autorizados para efeitos do presente regime;
+
+c) Elegibilidade da viatura e do adquirente do combustível para beneficiarem deste regime;
+
+d) Cumprimento dos limites quantitativos máximos de abastecimento por viatura;
+
+e) Abastecimento com gasóleo marcado, quando aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 5.º — Veículos abrangidos
+
+1 - Apenas são elegíveis para reembolso parcial ao abrigo do presente regime os abastecimentos destinados a serem utilizados como carburantes em veículos:
+
+a) Com um peso total em carga igual ou superior a 35 toneladas e tributados na categoria D do Imposto Único de Circulação (IUC) ou veículos equivalentes de outros Estados-Membros da União Europeia, no caso dos veículos de transporte de mercadorias;
+
+b) No caso das empresas de transporte coletivo de passageiros, destinados ao transporte coletivo de passageiros com lotação não inferior a 22 lugares.
+
+2 - No caso de veículos articulados, constituídos por trator e semirreboque, ou conjuntos formados por veículo automóvel e reboque, o peso total em carga corresponde ao peso bruto máximo que o automóvel está autorizado a deslocar.
+
+3 - Quando exista erro de identificação, quanto às caraterísticas ou omissão de veículo tributável na base de dados da Autoridade Tributária e Aduaneira (AT), a elegibilidade dos abastecimentos depende da sua prévia correção em sede de liquidação de IUC nos termos da alínea c) do n.º 3 do artigo 16.º do Código do Imposto Único de Circulação (CIUC) ou de liquidação oficiosa do mesmo imposto nos termos artigo 18.º do CIUC.
+
+4 - O reembolso parcial relativamente a abastecimentos a viaturas matriculadas noutro Estado Membro da União Europeia depende do registo pelo adquirente dos dados da viatura no portal das finanças ou da sua comunicação em cada abastecimento nos termos do artigo 11.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 6.º — Limites quantitativos
+
+1 - O presente regime apenas é aplicável, por viatura abrangida nos termos do artigo anterior e por ano civil, aos abastecimentos até ao limite máximo de:
+
+a) 40 000 litros, no caso do gasóleo;
+
+b) 2000 gigajoules, no caso do gás natural.
+
+2 - A alteração da propriedade ou do locatário da viatura abrangida não interrompe a contagem para efeito dos limites fixados no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 235-A/2021 - Diário da República n.º 214/2021, 1º Suplemento, Série I de 2021-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2021-173909865), em vigor a partir de 2021-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 269/2018 - Diário da República n.º 186/2018, Série I de 2018-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/269-2018-116508077), em vigor a partir de 2018-09-27, produz efeitos a partir de 2018-01-01
+
+###### Artigo 7.º — Adquirentes
+
+1 - Apenas são elegíveis para reembolso parcial ao abrigo do presente regime os abastecimentos cujo adquirente, licenciado como empresa de transporte de mercadorias ou empresa de transporte coletivo de passageiros, com sede ou estabelecimento estável num Estado-Membro da União Europeia, seja proprietário, locatário financeiro ou locatário em regime de aluguer sem condutor da viatura elegível abastecida.
+
+2 - O reembolso parcial aos adquirentes com sede ou estabelecimento estável em Portugal depende da utilização do respetivo Número de Identificação Fiscal (NIF) na comunicação dos abastecimentos.
+
+3 - O reembolso parcial aos adquirentes com sede ou estabelecimento estável noutro Estado Membro da União Europeia, não abrangidos pelo número anterior, depende de um dos seguintes procedimentos:
+
+a) Inscrição do adquirente, junto do Instituto dos Registos e Notariado, no Ficheiro Central de Pessoas Coletivas e utilização nos abastecimentos do respetivo NIF/NIPC emitido pelo Estado Português (gama 98);
+
+b) Registo no portal das finanças, através do número EORI emitido pelo seu Estado Membro e utilização nos abastecimentos do número de identificação em sede de imposto sobre o valor acrescentado emitido pelo seu Estado Membro; ou,
+
+c) Independentemente de qualquer registo prévio, através dos dados constantes de pedido de reembolso do adquirente em sede de imposto sobre o valor acrescentado (o nome, a morada, o código de atividade NACE, o endereço de correio eletrónico e o IBAN) e utilização nos abastecimentos do número de identificação em sede de imposto sobre o valor acrescentado emitido pelo seu Estado Membro.
+
+4 - Nos casos previstos nas alíneas b) e c), será atribuído e utilizado oficiosamente pela AT um NIF ao adquirente (gama 78), para efeitos de reembolso, sempre que o adquirente não tenha um outro NIF emitido pelo Estado Português.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 8.º — Sistemas de registo de abastecimentos
+
+1 - A utilização dos sistemas de registo de abastecimentos, para efeitos de reembolso parcial, está sujeita à sua validação prévia pela AT, após demonstração do cumprimento dos seguintes requisitos:
+
+a) Sistema de controlo interno que assegure a veracidade dos dados transmitidos à AT;
+
+b) Condições tecnológicas para cumprimento das comunicações eletrónicas previstas na presente portaria;
+
+c) Utilização de um identificador específico por adquirente e por viatura, designadamente, através de «cartões frota» associados à matrícula da viatura.
+
+2 - Até à decisão final sobre a validação de cada sistema de registo de abastecimentos, a AT poderá admitir provisoriamente a sua utilização.
+
+3 - A validação pode ser preventivamente suspensa em caso de irregularidades reiteradas nos abastecimentos comunicados ou de quaisquer outros indícios de incumprimento dos requisitos previstos no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 9.º — Postos de combustível
+
+1 - Apenas são objeto de comunicação e reembolso parcial os abastecimentos efetuados em postos de combustível que, utilizando sistemas de registo de abastecimentos nos termos do artigo anterior, sejam autorizados após demonstração dos seguintes requisitos:
+
+a) Sistema de controlo interno que assegure a veracidade dos dados registados para subsequente transmissão à AT;
+
+b) Condições tecnológicas para cumprimento das comunicações eletrónicas previstas na presente portaria.
+
+2 - Até à decisão final sobre a autorização prevista no número anterior, a AT poderá admitir provisoriamente os postos de combustível que estejam cadastrados na ENSE - Entidade Nacional para o Setor Energético E. P. E.
+
+3 - A autorização pode ser preventivamente suspensa em caso de irregularidades reiteradas nos abastecimentos comunicados ou de quaisquer outros indícios de incumprimento dos requisitos previstos no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 10.º — Instalações de consumo próprio
+
+1 - O presente regime é ainda aplicável aos abastecimentos a depósitos localizados em instalações de consumo próprio autorizados das empresas abrangidas, exclusivamente destinados ao subsequente abastecimento dos veículos elegíveis de que as mesmas ou sociedades com as quais se encontrem em relação de domínio ou de grupo sejam proprietárias, locatárias financeiras ou locatárias em regime de aluguer sem condutor.
+
+2 - O número anterior é ainda aplicável aos abastecimentos dos veículos elegíveis de que sejam proprietárias, locatárias financeiras ou locatárias em regime de aluguer sem condutor empresas que exerçam a atividade de transporte de passageiros de forma concertada com a empresa detentora da instalação de consumo próprio, designadamente em agrupamentos complementares de empresas, em agrupamentos europeus de interesse económico, em consórcio ou por subcontratação.
+
+3 - O reembolso parcial previsto no presente artigo depende da utilização exclusiva de gasóleo profissional marcado nos respetivos depósitos.
+
+4 - Para efeitos do presente regime, os abastecimentos a depósitos localizados em instalações de consumo próprio devem ser comunicados pelos respetivos fornecedores em condições análogas aos postos de combustível.
+
+5 - Os abastecimentos subsequentes a viaturas elegíveis, efetuados a partir dos depósitos previstos no n.º 1, ficam dependentes da comunicação adicional de cada abastecimento, utilizando sistemas de registo de abastecimentos nos termos do artigo 9.º, bem como do cumprimento das demais condições de admissibilidade ao reembolso parcial ao abrigo dos artigos 3.º e seguintes.
+
+6 - A autorização de instalações de consumo próprio para efeitos do presente artigo está sujeita à demonstração dos seguintes requisitos:
+
+a) Sistema de controlo interno que assegure a veracidade dos dados registados para subsequente transmissão à AT;
+
+b) Inventário permanente do gasóleo contido nos depósitos referidos no n.º 1, dos respetivos abastecimentos e dos fornecimentos efetuados a viaturas elegíveis ao reembolso parcial;
+
+c) Concessão de acesso permanente da AT aos depósitos e instalações referidas no n.º 1, para efeitos de controlo;
+
+d) Condições tecnológicas para cumprimento das comunicações eletrónicas previstas na presente portaria.
+
+7 - Até à decisão final sobre a autorização de cada local de abastecimento próprio, a AT poderá admitir provisoriamente a sua utilização.
+
+8 - A autorização pode ser preventivamente suspensa em caso de irregularidades reiteradas nos abastecimentos comunicados ou de quaisquer outros indícios de incumprimento dos requisitos previstos no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 11.º — Comunicação dos abastecimentos
+
+1 - Os abastecimentos devem ser comunicados eletronicamente pelos emitentes de cartões frota ou pelos seus representantes em Portugal, bem como pelos emitentes de outros mecanismos de controlo validados pela AT, incluindo no caso das instalações de consumo próprio pelos beneficiários autorizados, através da transmissão dos seguintes dados:
+
+a) Código do estabelecimento;
+
+b) Data e hora do abastecimento;
+
+c) Número de litros abastecidos, no caso do gasóleo, ou de gigajoules abastecidos, no caso do gás natural;
+
+d) Preço de venda dos litros ou dos gigajoules abastecidos;
+
+e) NIF ou, em relação aos adquirentes sem NIF ou NIPC português, o número de identificação em sede de imposto sobre o valor acrescentado emitido por outro Estado membro do adquirente do combustível;
+
+f) País emissor do NIF ou do número de identificação em sede de imposto sobre o valor acrescentado;
+
+g) Matrícula do veículo;
+
+h) País emissor da Matrícula;
+
+i) Quilometragem da viatura no momento do abastecimento;
+
+j) Número da fatura ou documento equivalente;
+
+k) Data da fatura ou documento equivalente;
+
+l) O número do «cartão frota» ou outro mecanismo de controlo individualizado por viatura utilizado no registo dos abastecimentos;
+
+m) O peso total em carga permitido da viatura, quando matriculada noutro Estado membro;
+
+n) O tipo de combustível abastecido.
+
+2 - Os dados previstos no número anterior devem ser obrigatoriamente transmitidos à AT até ao dia 15 do mês seguinte ao abastecimento.
+
+3 - Nos casos em que o emitente esteja obrigado à transmissão eletrónica da fatura à AT, é dispensada a transmissão neste contexto dos dados previstos nas alíneas d), j) e k) do n.º 1.
+
+4 - É dispensada a transmissão dos dados previstos nas alíneas m) do n.º 1 em relação às viaturas quando os mesmos constem do cadastro da AT.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 12.º — Acesso aos dados
+
+Os dados comunicados são disponibilizados no portal das finanças até ao dia 20 do mês seguinte ao abastecimento, na área reservada de cada adquirente elegível, acessível através do NIF emitido pelo Estado Português ou pelo EORI emitido por outro Estado Membro, que pode reclamar no portal das finanças até ao dia 25 do mês seguinte ao abastecimento.
+
+###### Artigo 13.º — Processamento do reembolso
+
+1 - Os reembolsos são processados individualmente com base em cada abastecimento comunicado nos termos definidos na presente portaria, independentemente de requerimento do sujeito passivo do imposto ou do adquirente do carburante.
+
+2 - Os reembolsos são processados com observância do limite previsto no n.º 4 do artigo 15.º do CIEC, atendendo aos abastecimentos mensais.
+
+3 - O pagamento do reembolso ao adquirente deverá ser efetuado até três meses após a data da comunicação do abastecimento, para o IBAN constante do cadastro de contribuintes da AT ou na sua ausência para o último IBAN utilizado em sede de pedido de reembolso de imposto sobre o valor acrescentado.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+###### Artigo 14.º — Suspensão do reembolso
+
+1 - O processamento do reembolso parcial pode ser suspenso para análise manual, quando seja objeto de reclamação nos termos do artigo 12.º ou quando seja selecionado para controlo com base em indicadores de risco, designadamente pela desconformidade da informação comunicada com outros dados obtidos pela AT.
+
+2 - Os reembolsos suspensos para análise são objeto de decisão pela estância aduaneira da área do domicílio fiscal do adquirente no prazo máximo de três meses desde a data da comunicação do abastecimento, exceto se forem remetidos à Inspeção Tributária e Aduaneira para efeitos de investigação.
+
+###### Artigo 14.º-B — Regime transitório
+
+1 - Aos abastecimentos realizados em postos de combustível entre 15 de setembro e 31 de dezembro de 2016 não é aplicável o disposto nos n.os 1 e 2 do artigo 13.º, sendo os reembolsos processados em relação ao total mensal de abastecimentos por adquirente.
+
+2 - Aos abastecimentos realizados em ou para instalações de consumo próprio entre 1 de janeiro de 2017 e 31 de dezembro de 2024, aplica-se o seguinte regime transitório:
+
+a) Não é aplicável o disposto no n.º 2 do artigo 10.º, podendo os depósitos ser utilizados para abastecimento de viaturas elegíveis e não elegíveis;
+
+b) Os reembolsos respetivos são processados em relação a cada abastecimento a viatura comunicado nos termos do n.º 4 do artigo 10.º, considerando-se adquirente o proprietário, locatário financeiro ou locatário em regime de aluguer sem condutor da viatura elegível abastecida, sujeito às condições do artigo 7.º
+
+> Nota: [Portaria n.º 187-A/2023 - Diário da República n.º 127/2023, 1º Suplemento, Série I de 2023-07-03](https://diariodarepublica.pt/dr/detalhe/portaria/187-a-2023-215097647) prorroga, até 31 de Dezembro de 2023, o regime transitório previsto no n.º 2 do presente artigo.
+
+> Nota: [Portaria n.º 312-D/2022 - Diário da República n.º 251/2022, 3º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/312-d-2022-205557186) prorroga, até 30 de junho de 2023, o regime transitório previsto no n.º 2 do presente artigo.
+
+> Nota: [Artigo 3.º, Portaria n.º 235-A/2021 - Diário da República n.º 214/2021, 1º Suplemento, Série I de 2021-11-04](https://diariodarepublica.pt/dr/detalhe/portaria/235-a-2021-173909865) prorroga, até 31 de dezembro de 2022, o regime transitório previsto no n.º 2 do presente artigo.
+
+> Nota: [Artigo 13.º, Portaria n.º 39/2021 - Diário da República n.º 36/2021, Série I de 2021-02-22](https://diariodarepublica.pt/dr/detalhe/portaria/39-2021-158052099) prorroga, até 31 de dezembro de 2021, o regime transitório previsto no n.º 2 do presente artigo.
+
+> Nota: [Artigo 1.º, Portaria n.º 40/2020 - Diário da República n.º 26/2020, Série I de 2020-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/40-2020-128907751) prorrogado, até 31.12.2020 o regime transitório previsto no n.º 2 do presente artigo.
+
+> Nota: [Artigo 3.º, Portaria n.º 269/2018 - Diário da República n.º 186/2018, Série I de 2018-09-26](https://diariodarepublica.pt/dr/detalhe/portaria/269-2018-116508077) prorroga, até 31 de dezembro de 2019, o regime transitório previsto no n.º 2 do presente artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 453-A/2023 - Diário da República n.º 247/2023, 1º Suplemento, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/portaria/453-a-2023-835712400), em vigor a partir de 2023-12-27
+
+> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 17/2017 - Diário da República n.º 8/2017, Série I de 2017-01-11](https://diariodarepublica.pt/dr/detalhe/portaria/17-2017-105746096), em vigor a partir de 2017-01-12
+
+###### Artigo 15.º — Produção de efeitos
+
+1 - A presente portaria produz efeitos a partir do dia 1 de janeiro de 2017.
+
+2 - Ao abrigo dos números 3 e 4 do artigo 4.º da Lei n.º 24/2016, de 22 de agosto, e com vista ao teste dos sistemas de controlo e avaliação do presente regime de reembolso, os números 1 a 10 do artigo 93.º-A do CIEC, com a redação dada por aquela Lei, bem como a presente portaria, produzem efeitos a partir do dia 15 de setembro de 2016, relativamente aos abastecimentos efetuados a veículos elegíveis em postos de abastecimento de combustíveis localizados nas seguintes áreas piloto:
+
+a) Zona de Vilar Formoso, integrando os concelhos de Almeida e da Guarda;
+
+b) Zona do Caia, integrando os concelhos de Elvas e de Estremoz;
+
+c) Zona de Vila Verde de Ficalho, integrando os concelhos de Serpa e de Beja;
+
+d) Zona de Quintanilha, integrando os concelhos de Bragança e de Macedo de Cavaleiros.
+
+3 - Exclui-se do âmbito do número anterior o reembolso parcial aos abastecimentos a depósitos localizados em instalações de consumo próprio.
+
+A Ministra da Presidência e da Modernização Administrativa, Maria Manuel de Lemos Leitão Marques, em 6 de setembro de 2016. - O Ministro das Finanças, Mário José Gomes de Freitas Centeno, em 1 de setembro de 2016. - O Secretário de Estado da Energia, Jorge Filipe Teixeira Seguro Sanches, em 5 de setembro de 2016.

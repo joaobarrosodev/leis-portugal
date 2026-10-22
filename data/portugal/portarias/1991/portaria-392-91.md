@@ -1,0 +1,259 @@
+---
+schema_version: '1.0'
+id: pt:dre:609661:por
+title: Portaria n.º 392/91
+short_title: null
+summary: Altera os quadros de pessoal de vários estabelecimentos hospitalares
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Saúde
+proposing_entity: null
+official_number: 392/91
+official_date: null
+publication_date: '1991-05-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 106/1991, Série I-B de 1991-05-09
+  number: '106'
+  series: I
+  supplement: null
+  pages: 2502 - 2512
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/05/106b00/25022512.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/392/1991/05/09/p/dre/pt/html
+  oj: null
+  dre: '609661'
+  dre_path: /dr/detalhe/portaria/392-1991-609661
+  internal: pt:dre:609661:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/392-1991-609661
+  metadata_url: https://data.dre.pt/eli/port/392/1991/05/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/392-1991-609661
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-02-11T00:00:00Z'
+integrity:
+  source_sha256: 29d691808e4d57a09142deed8acd73ed9a40694a64f93b8a6a361e765bd86ff7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-392-609661.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Almada
+- Centro de Medicina de Reabilitação do Alcoitão
+- Pessoal Dirigente
+- Covilhã
+- Maternidade Alfredo da Costa
+- Guimarães
+- Hospital Ortopédico do Outão
+- Lamego
+- Leiria
+- Matosinhos
+- Mirandela
+- Pessoal Administrativo
+- Setúbal
+- Beja
+- Castelo Branco
+- Vila Real
+- Figueira da Foz
+- Portalegre
+- Portimão
+- Quadro de Pessoal
+- Estabelecimento Hospitalar
+- Sanatório de Torres Vedras
+- Bragança
+- Cascais
+- Tomar
+- Torres Novas
+- Torres Vedras
+- Guarda
+- VILA NOVA de Famalicão
+- Viseu
+relationships:
+- type: amended_by
+  target: pt:dre:580984:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 18
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 392/91
+
+de 9 de Maio
+
+O [Decreto Regulamentar n.º 52/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1984-382273), de 6 de Agosto, que deu nova redacção aos artigos 10.º e 20.º do Regulamento Geral dos Hospitais, aprovado pelo [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968, permite que os serviços de natureza administrativa dos estabelecimentos e serviços hospitalares se estruturem em repartições e ou secções, de acordo com as necessidades de cada hospital.
+
+Verificando-se que os estabelecimentos hospitalares designados no quadro anexo a este diploma não se encontram ainda departamentalizados, torna-se necessário que tal se concretize, para melhor rentabilização dos mesmos serviços.
+
+Assim, observado o disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro, e ao abrigo do n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro, e do artigo 10.º do [Decreto n.º 48358](https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640), de 27 de Abril de 1968, com a nova redacção dada pelo [Decreto Regulamentar n.º 52/84](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/52-1984-382273), de 6 de Agosto:
+
+Manda o Governo, pelos Ministros das Finanças e da Saúde, o seguinte:
+
+1.º Os quadros de pessoal dos Hospitais Distritais de Almada, Beja, Bragança, Castelo Branco, Cascais, Covilhã, Figueira da Foz, Guarda, Guimarães, Lamego, Leiria, Matosinhos, Mirandela, Portalegre, Portimão, Setúbal, Tomar, Torres Novas, Torres Vedras, Vila Real, Viseu, Vila Nova de Famalicão e Hospital Ortopédico do Outão, Sanatório de Torres Vedras, Centro de Medicina de Reabilitação do Alcoitão, Maternidade de Júlio Diniz e Maternidade do Dr. Alfredo da Costa, aprovados e alterados pelos diplomas relacionados no anexo I, são de novo alterados de acordo com os quadros anexos à presente portaria.
+
+2.º Os lugares de chefe de repartição e de chefe de secção, agora criados, correspondem às unidades orgânicas administrativas departamentalizadas de acordo com o indicado no anexo II.
+
+3.º Os encargos resultantes da presente portaria serão satisfeitos por conta das disponibilidades orçamentais dos respectivos serviços.
+
+Ministérios das Finanças e da Saúde.
+
+**Assinada em 8 de Abril de 1991.**
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento. - Pelo Ministro da Saúde, Albino Aroso Ramos, Secretário de Estado Adjunto do Ministro da Saúde.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/106b00/25022512.pdf))](https://files.diariodarepublica.pt/1s/1991/05/106b00/25022512.pdf)
+
+## Anexo I a que se refere o n.º 1.º
+
+Hospital Distrital de Almada - quadro de pessoal aprovado pela [Portaria n.º 739/80](https://diariodarepublica.pt/dr/detalhe/portaria/739-1980-461649), de 27 de Setembro, e posteriormente alterado pelas Portarias n.os [36/82](https://diariodarepublica.pt/dr/detalhe/portaria/36-1982-601155), de 13 de Janeiro, [1244/82](https://diariodarepublica.pt/dr/detalhe/portaria/1244-1982-318277), de 31 de Dezembro, [126/83](https://diariodarepublica.pt/dr/detalhe/portaria/126-1983-308286), de 3 de Fevereiro, 807-M2/83, de 30 de Julho, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Beja - quadro de pessoal aprovado pela [Portaria n.º 670/80](https://diariodarepublica.pt/dr/detalhe/portaria/670-1980-460827), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [44/82](https://diariodarepublica.pt/dr/detalhe/portaria/44-1982-601152), de 13 de Janeiro, [1233/82](https://diariodarepublica.pt/dr/detalhe/portaria/1233-1982-318155), de 31 de Dezembro, [563/83](https://diariodarepublica.pt/dr/detalhe/portaria/563-1983-451599), de 13 de Maio, [688/83](https://diariodarepublica.pt/dr/detalhe/portaria/688-1983-451989), de 20 de Junho, [371/85](https://diariodarepublica.pt/dr/detalhe/portaria/371-1985-181450), de 17 de Junho, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Bragança - quadro de pessoal aprovado pela [Portaria n.º 622/80](https://diariodarepublica.pt/dr/detalhe/portaria/622-1980-460844), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [51/82](https://diariodarepublica.pt/dr/detalhe/portaria/51-1982-601154), de 13 de Janeiro, [1242/82](https://diariodarepublica.pt/dr/detalhe/portaria/1242-1982-318275), de 31 de Dezembro, [1315/82](https://diariodarepublica.pt/dr/detalhe/portaria/1315-1982-318288), de 31 de Dezembro, [1334/82](https://diariodarepublica.pt/dr/detalhe/portaria/1334-1982-318337), de 31 de Dezembro, 807-Z3/83, de 30 de Julho, [196/84](https://diariodarepublica.pt/dr/detalhe/portaria/196-1984-654511), de 4 de Abril, [573/85](https://diariodarepublica.pt/dr/detalhe/portaria/573-1985-180632), de 10 de Agosto, [253/86](https://diariodarepublica.pt/dr/detalhe/portaria/253-1986-226842), de 26 de Maio, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [544/87](https://diariodarepublica.pt/dr/detalhe/portaria/544-1987-419584), de 2 de Julho, [890/87](https://diariodarepublica.pt/dr/detalhe/portaria/890-1987-496717), de 20 de Novembro, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Cascais - quadro de pessoal aprovado pela [Portaria n.º 650/80](https://diariodarepublica.pt/dr/detalhe/portaria/650-1980-460821), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [31/82](https://diariodarepublica.pt/dr/detalhe/portaria/31-1982-601133), de 13 de Janeiro, [807-A/83](https://diariodarepublica.pt/dr/detalhe/portaria/807-a-1983-435657), de 30 de Julho, [348/84](https://diariodarepublica.pt/dr/detalhe/portaria/348-1984-386425), de 8 de Junho, [374/84](https://diariodarepublica.pt/dr/detalhe/portaria/374-1984-386653), de 15 de Junho, [952/84](https://diariodarepublica.pt/dr/detalhe/portaria/952-1984-396363), de 22 de Dezembro, [197/85](https://diariodarepublica.pt/dr/detalhe/portaria/197-1985-325503), de 11 de Abril, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Castelo Branco - quadro de pessoal aprovado pela [Portaria n.º 654/80](https://diariodarepublica.pt/dr/detalhe/portaria/654-1980-460858), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [40/82](https://diariodarepublica.pt/dr/detalhe/portaria/40-1982-601130), de 13 de Janeiro, [504/83](https://diariodarepublica.pt/dr/detalhe/portaria/504-1983-451033), de 9 de Maio, [543/83](https://diariodarepublica.pt/dr/detalhe/portaria/543-1983-450815), de 9 de Maio, [723/83](https://diariodarepublica.pt/dr/detalhe/portaria/723-1983-452270), de 24 de Junho, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital da Covilhã - quadro de pessoal aprovado pela [Portaria n.º 772/80](https://diariodarepublica.pt/dr/detalhe/portaria/772-1980-461590), de 2 de Outubro, e posteriormente alterado pelas Portarias n.os [53/82](https://diariodarepublica.pt/dr/detalhe/portaria/53-1982-601131), de 13 de Janeiro, [1312/82](https://diariodarepublica.pt/dr/detalhe/portaria/1312-1982-318357), de 31 de Dezembro, [1235/82](https://diariodarepublica.pt/dr/detalhe/portaria/1235-1982-318157), de 31 de Dezembro, [538/83](https://diariodarepublica.pt/dr/detalhe/portaria/538-1983-450862), de 7 de Maio, [5/87](https://diariodarepublica.pt/dr/detalhe/portaria/5-1987-599721), de 2 de Janeiro, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital da Figueira da Foz - quadro de pessoal aprovado pela [Portaria n.º 771/80](https://diariodarepublica.pt/dr/detalhe/portaria/771-1980-461589), de 2 de Outubro, e posteriormente alterado pelas Portarias n.os [1317/82](https://diariodarepublica.pt/dr/detalhe/portaria/1317-1982-318290), de 31 de Dezembro, [1230/82](https://diariodarepublica.pt/dr/detalhe/portaria/1230-1982-318152), de 31 de Dezembro, [695/83](https://diariodarepublica.pt/dr/detalhe/portaria/695-1983-452537), de 21 de Junho, 807-J3/83, de 30 de Julho, [603/85](https://diariodarepublica.pt/dr/detalhe/portaria/603-1985-180458), de 14 de Agosto, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital da Guarda - quadro de pessoal aprovado pela [Portaria n.º 762/80](https://diariodarepublica.pt/dr/detalhe/portaria/762-1980-461612), de 1 de Outubro, e posteriormente alterado pelas Portarias n.os [1247/82](https://diariodarepublica.pt/dr/detalhe/portaria/1247-1982-318280), de 31 de Dezembro, [384/83](https://diariodarepublica.pt/dr/detalhe/portaria/384-1983-312394), de 6 de Abril, [587/84](https://diariodarepublica.pt/dr/detalhe/portaria/587-1984-382426), de 10 de Agosto, [703/84](https://diariodarepublica.pt/dr/detalhe/portaria/703-1984-399222), de 11 de Setembro, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Guimarães - quadro de pessoal aprovado pela [Portaria n.º 783/80](https://diariodarepublica.pt/dr/detalhe/portaria/783-1980-462071), de 4 de Outubro, e posteriormente alterado pelas Portarias n.os [38/82](https://diariodarepublica.pt/dr/detalhe/portaria/38-1982-601148), de 13 de Janeiro, 807-L3/83, de 30 de Julho, [1003/83](https://diariodarepublica.pt/dr/detalhe/portaria/1003-1983-443098), de 30 de Novembro, [196/85](https://diariodarepublica.pt/dr/detalhe/portaria/196-1985-325505), de 11 de Abril, [592/85](https://diariodarepublica.pt/dr/detalhe/portaria/592-1985-180444), de 14 de Agosto, [95/86](https://diariodarepublica.pt/dr/detalhe/portaria/95-1986-196879), de 21 de Março, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Lamego - quadro de pessoal aprovado pela [Portaria n.º 653/80](https://diariodarepublica.pt/dr/detalhe/portaria/653-1980-460840), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [54/82](https://diariodarepublica.pt/dr/detalhe/portaria/54-1982-601144), de 13 de Janeiro, [1314/82](https://diariodarepublica.pt/dr/detalhe/portaria/1314-1982-318359), de 31 de Dezembro, [1241/82](https://diariodarepublica.pt/dr/detalhe/portaria/1241-1982-318174), de 31 de Dezembro, [744/83](https://diariodarepublica.pt/dr/detalhe/portaria/744-1983-452695), de 30 de Junho, [381/85](https://diariodarepublica.pt/dr/detalhe/portaria/381-1985-181397), de 20 de Junho, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Leira - quadro de pessoal aprovado pela [Portaria n.º 760/80](https://diariodarepublica.pt/dr/detalhe/portaria/760-1980-461615), de 1 de Outubro, e posteriormente alterado pelas Portarias n.os [1316/82](https://diariodarepublica.pt/dr/detalhe/portaria/1316-1982-318289), de 31 de Dezembro, [1236/82](https://diariodarepublica.pt/dr/detalhe/portaria/1236-1982-318158), de 31 de Dezembro, [503/83](https://diariodarepublica.pt/dr/detalhe/portaria/503-1983-451032), de 3 de Maio, [168/84](https://diariodarepublica.pt/dr/detalhe/portaria/168-1984-661887), de 27 de Março, [903/85](https://diariodarepublica.pt/dr/detalhe/portaria/903-1985-170342), de 28 de Novembro, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [755/87](https://diariodarepublica.pt/dr/detalhe/portaria/755-1987-494859), de 2 de Setembro, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Matosinhos - quadro de pessoal aprovado pela [Portaria n.º 782/80](https://diariodarepublica.pt/dr/detalhe/portaria/782-1980-462070), de 4 de Outubro, e posteriormente alterado pelas Portarias n.os [1234/82](https://diariodarepublica.pt/dr/detalhe/portaria/1234-1982-318156), de 31 de Dezembro, [125/83](https://diariodarepublica.pt/dr/detalhe/portaria/125-1983-308285), de 3 de Fevereiro, [128/83](https://diariodarepublica.pt/dr/detalhe/portaria/128-1983-308283), de 3 de Fevereiro, 807-N3/83, de 30 de Julho, [305/86](https://diariodarepublica.pt/dr/detalhe/portaria/305-1986-228635), de 21 de Junho, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março, e [429/88](https://diariodarepublica.pt/dr/detalhe/portaria/429-1988-373385), de 6 de Julho.
+
+Hospital Distrital de Mirandela - quadro de pessoal aprovado pela [Portaria n.º 806/80](https://diariodarepublica.pt/dr/detalhe/portaria/806-1980-462243), de 10 de Outubro, e posteriormente alterado pelas Portarias n.os [1106/81](https://diariodarepublica.pt/dr/detalhe/portaria/1106-1981-567016), de 29 de Dezembro, [194/83](https://diariodarepublica.pt/dr/detalhe/portaria/194-1983-309727), de 2 de Março, [480/84](https://diariodarepublica.pt/dr/detalhe/portaria/480-1984-386029), de 20 de Julho, [909/84](https://diariodarepublica.pt/dr/detalhe/portaria/909-1984-401304), de 14 de Dezembro, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [960/87](https://diariodarepublica.pt/dr/detalhe/portaria/960-1987-499572), de 29 de Dezembro, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Portalegre - quadro de pessoal aprovado pela [Portaria n.º 759/80](https://diariodarepublica.pt/dr/detalhe/portaria/759-1980-461605), de 1 de Outubro, e posteriormente alterado pelas Portarias n.os [49/82](https://diariodarepublica.pt/dr/detalhe/portaria/49-1982-601136), de 13 de Janeiro, [195/83](https://diariodarepublica.pt/dr/detalhe/portaria/195-1983-309680), de 2 de Março, [356/84](https://diariodarepublica.pt/dr/detalhe/portaria/356-1984-386641), de 11 de Junho, [693/84](https://diariodarepublica.pt/dr/detalhe/portaria/693-1984-373431), de 7 de Setembro, [238/87](https://diariodarepublica.pt/dr/detalhe/portaria/238-1987-666531), de 30 de Março, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [887/87](https://diariodarepublica.pt/dr/detalhe/portaria/887-1987-496721), de 20 de Novembro, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Portimão - quadro de pessoal aprovado pela [Portaria n.º 761/80](https://diariodarepublica.pt/dr/detalhe/portaria/761-1980-461611), de 1 de Outubro, e posteriormente alterado pelas Portarias n.os [56/82](https://diariodarepublica.pt/dr/detalhe/portaria/56-1982-601145), de 13 de Janeiro, [196/83](https://diariodarepublica.pt/dr/detalhe/portaria/196-1983-309718), de 2 de Março, 807-C4/83, de 30 de Julho, [765/84](https://diariodarepublica.pt/dr/detalhe/portaria/765-1984-399652), de 27 de Setembro, [69/85](https://diariodarepublica.pt/dr/detalhe/portaria/69-1985-328832), de 4 de Fevereiro, [111/86](https://diariodarepublica.pt/dr/detalhe/portaria/111-1986-196188), de 29 de Março, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [889/87](https://diariodarepublica.pt/dr/detalhe/portaria/889-1987-496723), de 20 de Novembro, [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março, e [807/88](https://diariodarepublica.pt/dr/detalhe/portaria/807-1988-356475), de 16 de Dezembro.
+
+Hospital Distrital de Setúbal - quadro de pessoal aprovado pela [Portaria n.º 807/80](https://diariodarepublica.pt/dr/detalhe/portaria/807-1980-462244), de 10 de Outubro, e posteriormente alterado pelas Portarias n.os [174/82](https://diariodarepublica.pt/dr/detalhe/portaria/174-1982-600501), de 8 de Fevereiro, [1245/82](https://diariodarepublica.pt/dr/detalhe/portaria/1245-1982-318278), de 31 de Dezembro, [697/83](https://diariodarepublica.pt/dr/detalhe/portaria/697-1983-452515), de 22 de Junho, [787/83](https://diariodarepublica.pt/dr/detalhe/portaria/787-1983-454315), de 28 de Julho, [214/84](https://diariodarepublica.pt/dr/detalhe/portaria/214-1984-654554), de 7 de Abril, [586/85](https://diariodarepublica.pt/dr/detalhe/portaria/586-1985-180438), de 14 de Agosto, [79/87](https://diariodarepublica.pt/dr/detalhe/portaria/79-1987-662902), de 5 de Fevereiro, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março, [54/89](https://diariodarepublica.pt/dr/detalhe/portaria/54-1989-610935), de 27 de Janeiro, e [141/89](https://diariodarepublica.pt/dr/detalhe/portaria/141-1989-612256), de 27 de Fevereiro.
+
+Hospital Distrital de Tomar - quadro de pessoal aprovado pela [Portaria n.º 648/80](https://diariodarepublica.pt/dr/detalhe/portaria/648-1980-460833), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [1116/81](https://diariodarepublica.pt/dr/detalhe/portaria/1116-1981-546585), de 31 de Dezembro, [1310/82](https://diariodarepublica.pt/dr/detalhe/portaria/1310-1982-318355), de 31 de Dezembro, [197/83](https://diariodarepublica.pt/dr/detalhe/portaria/197-1983-309677), de 2 de Março, 807-U3/83, de 30 de Julho, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Torres Novas - quadro de pessoal aprovado pela [Portaria n.º 742/80](https://diariodarepublica.pt/dr/detalhe/portaria/742-1980-461672), de 27 de Setembro, e posteriormente alterado pelas Portarias n.os [297/82](https://diariodarepublica.pt/dr/detalhe/portaria/297-1982-609152), de 18 de Março, [1309/82](https://diariodarepublica.pt/dr/detalhe/portaria/1309-1982-318308), de 31 de Dezembro, [1240/82](https://diariodarepublica.pt/dr/detalhe/portaria/1240-1982-318294), de 31 de Dezembro, [212/84](https://diariodarepublica.pt/dr/detalhe/portaria/212-1984-654561), de 7 de Abril, [667/84](https://diariodarepublica.pt/dr/detalhe/portaria/667-1984-373783), de 3 de Setembro, [25/85](https://diariodarepublica.pt/dr/detalhe/portaria/25-1985-622301), de 11 de Janeiro, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [914/87](https://diariodarepublica.pt/dr/detalhe/portaria/914-1987-498712), de 2 de Dezembro, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Torres Vedras - quadro de pessoal aprovado pela [Portaria n.º 740/80](https://diariodarepublica.pt/dr/detalhe/portaria/740-1980-461670), de 27 de Setembro, e posteriormente alterado pelas Portarias n.os [141/82](https://diariodarepublica.pt/dr/detalhe/portaria/141-1982-600968), de 1 de Fevereiro, [1248/82](https://diariodarepublica.pt/dr/detalhe/portaria/1248-1982-318343), de 31 de Dezembro, [510/83](https://diariodarepublica.pt/dr/detalhe/portaria/510-1983-451045), de 3 de Maio, [683/83](https://diariodarepublica.pt/dr/detalhe/portaria/683-1983-452000), de 18 de Junho, 807-D4/83, de 30 de Julho, 807-E2/83, de 30 de Julho, [728/84](https://diariodarepublica.pt/dr/detalhe/portaria/728-1984-399249), de 19 de Setembro, [40/85](https://diariodarepublica.pt/dr/detalhe/portaria/40-1985-328863), de 21 de Janeiro, [584/85](https://diariodarepublica.pt/dr/detalhe/portaria/584-1985-180436), de 14 de Agosto, [673/85](https://diariodarepublica.pt/dr/detalhe/portaria/673-1985-177403), de 12 de Setembro, [304/86](https://diariodarepublica.pt/dr/detalhe/portaria/304-1986-228636), de 21 de Junho, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março, e [633/88](https://diariodarepublica.pt/dr/detalhe/portaria/633-1988-355958), de 14 de Setembro.
+
+Hospital Distrital de Vila Real - quadro de pessoal aprovado pela [Portaria n.º 796/80](https://diariodarepublica.pt/dr/detalhe/portaria/796-1980-462188), de 7 de Outubro, e posteriormente alterado pelas Portarias n.os [1107/81](https://diariodarepublica.pt/dr/detalhe/portaria/1107-1981-567017), de 29 de Dezembro, [1239/82](https://diariodarepublica.pt/dr/detalhe/portaria/1239-1982-318293), de 31 de Dezembro, [375/84](https://diariodarepublica.pt/dr/detalhe/portaria/375-1984-386659), de 15 de Junho, [543/84](https://diariodarepublica.pt/dr/detalhe/portaria/543-1984-381735), de 1 de Agosto, [929/84](https://diariodarepublica.pt/dr/detalhe/portaria/929-1984-396329), de 18 de Dezembro, [574/85](https://diariodarepublica.pt/dr/detalhe/portaria/574-1985-180624), de 10 de Agosto, [799/85](https://diariodarepublica.pt/dr/detalhe/portaria/799-1985-178098), de 23 de Outubro, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [494/87](https://diariodarepublica.pt/dr/detalhe/portaria/494-1987-419037), de 16 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Viseu - quadro de pessoal aprovado pela [Portaria n.º 668/80](https://diariodarepublica.pt/dr/detalhe/portaria/668-1980-460811), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [1115/81](https://diariodarepublica.pt/dr/detalhe/portaria/1115-1981-546584), de 31 de Dezembro, [1305/82](https://diariodarepublica.pt/dr/detalhe/portaria/1305-1982-318304), de 31 de Dezembro, [349/83](https://diariodarepublica.pt/dr/detalhe/portaria/349-1983-312636), de 29 de Março, [700/83](https://diariodarepublica.pt/dr/detalhe/portaria/700-1983-452523), de 22 de Junho, [726/83](https://diariodarepublica.pt/dr/detalhe/portaria/726-1983-452268), de 24 de Junho, [551/84](https://diariodarepublica.pt/dr/detalhe/portaria/551-1984-381548), de 2 de Agosto, [582/85](https://diariodarepublica.pt/dr/detalhe/portaria/582-1985-180451), de 14 de Agosto, [4/87](https://diariodarepublica.pt/dr/detalhe/portaria/4-1987-599725), de 2 de Janeiro, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, [638/87](https://diariodarepublica.pt/dr/detalhe/portaria/638-1987-420597), de 22 de Julho, [888/87](https://diariodarepublica.pt/dr/detalhe/portaria/888-1987-496722), de 20 de Novembro, [934/87](https://diariodarepublica.pt/dr/detalhe/portaria/934-1987-498134), de 11 de Dezembro, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Distrital de Vila Nova de Famalicão - quadro de pessoal aprovado pela [Portaria n.º 741/80](https://diariodarepublica.pt/dr/detalhe/portaria/741-1980-461671), de 27 de Setembro, e posteriormente alterado pelas Portarias n.os [33/82](https://diariodarepublica.pt/dr/detalhe/portaria/33-1982-601156), de 13 de Janeiro, [1304/82](https://diariodarepublica.pt/dr/detalhe/portaria/1304-1982-318303), de 31 de Dezembro, [706/83](https://diariodarepublica.pt/dr/detalhe/portaria/706-1983-452498), de 23 de Junho, [215/84](https://diariodarepublica.pt/dr/detalhe/portaria/215-1984-654556), de 7 de Abril, [491/87](https://diariodarepublica.pt/dr/detalhe/portaria/491-1987-419191), de 11 de Junho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Hospital Ortopédico do Outão - quadro de pessoal aprovado pela [Portaria n.º 786/80](https://diariodarepublica.pt/dr/detalhe/portaria/786-1980-462074), de 4 de Outubro, e posteriormente alterado pelas Portarias n.os 807-E4/83, de 30 de Julho, [347/84](https://diariodarepublica.pt/dr/detalhe/portaria/347-1984-386421), de 8 de Junho, [207/87](https://diariodarepublica.pt/dr/detalhe/portaria/207-1987-662316), de 23 de Março, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Sanatório de Torres Vedras - quadro de pessoal aprovado pela [Portaria n.º 633/80](https://diariodarepublica.pt/dr/detalhe/portaria/633-1980-460843), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [143/82](https://diariodarepublica.pt/dr/detalhe/portaria/143-1982-600963), de 1 de Fevereiro, [1297/82](https://diariodarepublica.pt/dr/detalhe/portaria/1297-1982-318319), de 31 de Dezembro, [129/83](https://diariodarepublica.pt/dr/detalhe/portaria/129-1983-308287), de 3 de Fevereiro, 807-M3/83, de 30 de Julho, [143/86](https://diariodarepublica.pt/dr/detalhe/portaria/143-1986-195674), de 12 de Abril, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Centro de Medicina de Reabilitação do Alcoitão - quadro de pessoal aprovado pela [Portaria n.º 666/80](https://diariodarepublica.pt/dr/detalhe/portaria/666-1980-460854), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [1115/82](https://diariodarepublica.pt/dr/detalhe/portaria/1115-1982-380151), de 26 de Novembro, 807-O3/83, de 30 de Julho, [357/84](https://diariodarepublica.pt/dr/detalhe/portaria/357-1984-386646), de 11 de Junho, [566/85](https://diariodarepublica.pt/dr/detalhe/portaria/566-1985-180636), de 10 de Agosto, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+Maternidade do Dr. Alfredo da Costa - quadro de pessoal aprovado pela [Portaria n.º 636/80](https://diariodarepublica.pt/dr/detalhe/portaria/636-1980-460849), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [508/82](https://diariodarepublica.pt/dr/detalhe/portaria/508-1982-392421), de 22 de Maio, [683/82](https://diariodarepublica.pt/dr/detalhe/portaria/683-1982-394573) de 9 de Julho, [1321/82](https://diariodarepublica.pt/dr/detalhe/portaria/1321-1982-318341), de 31 de Dezembro, [346/83](https://diariodarepublica.pt/dr/detalhe/portaria/346-1983-312632), de 29 de Março, 807-P3/83, de 30 de Julho, [260/84](https://diariodarepublica.pt/dr/detalhe/portaria/260-1984-654964), de 24 de Abril, [928/84](https://diariodarepublica.pt/dr/detalhe/portaria/928-1984-396328), de 18 de Dezembro, [138/86](https://diariodarepublica.pt/dr/detalhe/portaria/138-1986-195658), de 10 de Abril, [205/87](https://diariodarepublica.pt/dr/detalhe/portaria/205-1987-662324), de 21 de Março, [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março, e [277/88](https://diariodarepublica.pt/dr/detalhe/portaria/277-1988-373612), de 4 de Maio.
+
+Maternidade de Júlio Diniz - quadro de pessoal aprovado pela [Portaria n.º 642/80](https://diariodarepublica.pt/dr/detalhe/portaria/642-1980-460871), de 16 de Setembro, e posteriormente alterado pelas Portarias n.os [234/83](https://diariodarepublica.pt/dr/detalhe/portaria/234-1983-309707), de 2 de Março, [352/84](https://diariodarepublica.pt/dr/detalhe/portaria/352-1984-386623), de 9 de Junho, [485/84](https://diariodarepublica.pt/dr/detalhe/portaria/485-1984-386054), de 21 de Julho, [600/85](https://diariodarepublica.pt/dr/detalhe/portaria/600-1985-180431), de 14 de Agosto, [557/87](https://diariodarepublica.pt/dr/detalhe/portaria/557-1987-419869), de 6 de Julho, e [150/88](https://diariodarepublica.pt/dr/detalhe/portaria/150-1988-287166), de 10 de Março.
+
+## Anexo II a que se refere o n.º 2.º
+
+I - As unidades orgânicas administrativas dos Hospitais Distritais de Beja, Bragança, Castelo Branco, Cascais, Covilhã, Figueira da Foz, Guarda, Guimarães, Lamego, Leiria, Matosinhos, Torres Vedras, Vila Real e Vila Nova de Famalicão, Centro de Medicina de Reabilitação do Alcoitão e Maternidade de Júlio Diniz ficam departamentalizadas da forma que segue, correspondendo-lhes os lugares de chefe de repartição e de chefe de secção constantes dos quadros anexos à presente portaria:
+
+a) Repartição de Pessoal e Admissão de Doentes, com as seguintes secções:
+
+#### Secção de Pessoal;
+
+#### Secção de Admissão de Doentes;
+
+b) Repartição de Contabilidade, com:
+
+#### Secção de Contabilidade Geral;
+
+#### Secção de Contabilidade Analítica;
+
+c) Repartição de Aprovisionamento, com:
+
+#### Secção de Gestão de Stocks;
+
+#### Secção de Aquisições e Armazéns.
+
+II - As unidades orgânicas administrativas dos Hospitais Distritais de Almada, Mirandela, Portimão, Setúbal, Tomar, Torres Novas e Portalegre, Hospital Ortopédico do Outão e Sanatório de Torres Vedras ficam departamentalizadas da seguinte forma, correspondendo-lhes os lugares de chefe de repartição e de chefe de secção constantes dos quadros anexos à presente portaria:
+
+a) Repartição de Pessoal e Admissão de Doentes, com:
+
+#### Secção de Pessoal;
+
+#### Secção de Admissão de Doentes;
+
+b) Repartição de Contabilidade e Aprovisionamento, com:
+
+#### Secção de Contabilidade;
+
+#### Secção de Aprovisionamento.
+
+III - As unidades orgânicas do Hospital Distrital de Viseu e Maternidade do Dr. Alfredo da Costa ficam departamentalizadas da seguinte forma, correspondendo-lhes os lugares de chefe de repartição e chefe de secção constantes dos quadros anexos à presente portaria:
+
+a) Repartição de Pessoal, com:
+
+#### Secção de Pessoal;
+
+#### Secção de Secretaria;
+
+b) Repartição de Admissão de Doentes, com:
+
+#### Secção de Doentes;
+
+#### Secção de Arquivo Clínico e Estatística;
+
+c) Repartição de Contabilidade, com:
+
+#### Secção de Contabilidade Geral;
+
+#### Secção de Contabilidade Analítica;
+
+d) Repartição de Aprovisionamento, com:
+
+#### Secção de Gestão de Stocks;
+
+#### Secção de Aquisições e Armazéns.

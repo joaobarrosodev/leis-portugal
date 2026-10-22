@@ -1,0 +1,395 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:397323:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-66413575",
+ "dre_path": "/dr/detalhe/decreto-lei/10-2009-397323",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-01-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66413675",
+    "66413676",
+    "66413677",
+    "66413678",
+    "66413679",
+    "66413680",
+    "66413681",
+    "66413682",
+    "66413683",
+    "66413684",
+    "66413685",
+    "66413686",
+    "66413687",
+    "66413688",
+    "66413689",
+    "66413690",
+    "66413691",
+    "66413692",
+    "66413693",
+    "66413694",
+    "66413695",
+    "66413696",
+    "66413697",
+    "66413698",
+    "66413699",
+    "66413700",
+    "66413701",
+    "66413702",
+    "66413703",
+    "66413704",
+    "66413705",
+    "66413706",
+    "66413707"
+   ]
+  },
+  {
+   "date": "2024-03-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:808125338:por",
+     "title": "Decreto-Lei n.º 117/2023",
+     "published": "2023-12-20",
+     "dre_path": "/dr/detalhe/decreto-lei/117-2023-808125338"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "66413675",
+    "66413676",
+    "66413677",
+    "66413678",
+    "835545421",
+    "66413680",
+    "66413681",
+    "66413682",
+    "66413683",
+    "66413684",
+    "66413685",
+    "66413686",
+    "66413687",
+    "66413688",
+    "66413689",
+    "73410092",
+    "66413691",
+    "66413692",
+    "66413693",
+    "66413694",
+    "66413695",
+    "66413696",
+    "66413697",
+    "66413698",
+    "66413699",
+    "66413700",
+    "66413701",
+    "66413702",
+    "66413703",
+    "66413704",
+    "66413705",
+    "66413706",
+    "66413707",
+    "66413708"
+   ]
+  }
+ ],
+ "fragments": {
+  "66413675": {
+   "fragment_id": "66413576",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10/2009\n\nde 12 de Janeiro\n\nA Lei de Bases da Actividade Física e do Desporto, Lei n.º 5/2007, de 16 de Janeiro, prevê no seu artigo 42.º a instituição de um sistema de seguros, nomeadamente um seguro obrigatório para todos os agentes desportivos, um seguro para instalações desportivas e um seguro para manifestações desportivas.\n\nTambém o artigo 43.º do mesmo diploma, referindo-se às obrigações das entidades prestadoras de serviços desportivos, estabelece a existência obrigatória de seguros relativos a acidentes ou doenças decorrentes da prática desportiva.\n\nO desporto, até por definição, é uma actividade predominantemente física, exercitada com carácter competitivo. Cobrir os riscos, através da instituição do seguro obrigatório, é uma necessidade absoluta para a segurança dos praticantes.\n\nPara alcançar tal desiderato, no desenvolvimento da Lei n.º 1/90, de 13 de Janeiro, Lei de Bases do Sistema Desportivo, foi publicado o Decreto-Lei n.º 146/93, de 26 de Abril, diploma pelo qual se instituiu o regime jurídico do seguro desportivo, enquanto seguro obrigatório.\n\nCom os seguros obrigatórios atende-se a uma necessidade social fundamental, a de assegurar que o beneficiário chegue, efectivamente, a usufruir da cobertura. É certo que um sistema de seguros não evita o risco, mas previne o perigo de as vítimas não obterem o ressarcimento.\n\nA doutrina vem apontando um conjunto de riscos susceptíveis de serem abrangidos pelo seguro desportivo, nomeadamente os riscos sobre a integridade física dos praticantes, os riscos sobre a integridade física dos espectadores ou terceiros, os riscos a que estão expostos os recursos humanos afectos ao evento desportivo e, bem assim, os riscos inerentes à deslocação para o local onde se realiza o evento desportivo.\n\nPor outro lado, o risco coberto pelo seguro desportivo encontra-se perfeitamente balizado materialmente, isto é, apenas abrange os riscos para a saúde decorrentes da prática de uma modalidade desportiva. Correspondentemente, excluem-se do seguro os riscos derivados da prática de modalidades desportivas diversas.\n\nDe igual forma, a cobertura obrigatória apenas abrange o acidente, ou seja, não inclui toda a lesão derivada da prática desportiva, como sejam os processos degenerativos progressivos que não tenham a sua causa num evento fortuito, externo, violento e súbito.\n\nEmbora o quadro legal ainda em vigor tenha presente estas características, a experiência entretanto colhida, a par da reforma iniciada com a entrada em vigor da Lei de Bases da Actividade Física e do Desporto, aconselham à revisão do sistema em vigor, de forma a ultrapassar, por um lado, as críticas aos limites quantitativos das reparações em dinheiro e, por outro, com o seguro de vida garantido aos atletas de alto rendimento.\n\nPara esse efeito foi constituído um grupo de trabalho, constituído por representantes do Estado, dos praticantes desportivos, das federações desportivas e dos seguradores, tendo em vista a implementação de novas regras para o seguro desportivo, de forma a compatibilizar a diferente situação dos diversos agentes desportivos.\n\nDesta forma, o presente decreto-lei estabelece a obrigatoriedade do seguro desportivo para os agentes desportivos, para os praticantes de actividades desportivas em infra-estruturas desportivas abertas ao público e para os participantes em provas ou manifestações desportivas.\n\nA responsabilidade pela celebração do contrato de seguro desportivo cabe às federações desportivas, às entidades que explorem infra-estruturas desportivas abertas ao público e às entidades que organizem provas ou manifestações desportivas.\n\nMatéria nova neste diploma é a plasmada no artigo 4.º, pelo qual se estabelece que o regime jurídico de seguro obrigatório também se aplica a todos os agentes desportivos com deficiências ou incapacidades.\n\nAssume igualmente relevância a proibição de as apólices de seguro desportivo não conterem exclusões que, interpretadas individualmente ou consideradas no seu conjunto, sejam contrárias à natureza da actividade desportiva ou provoquem um esvaziamento do objecto do contrato de seguro.\n\nO presente decreto-lei inova, igualmente, quanto ao seguro desportivo para os praticantes de alto rendimento. Mantendo-se o sistema da existência de dois seguros paralelos, como sucede para os praticantes profissionais, vem, no entanto, clarificar-se os mecanismos para aferir da invalidez para a prática da modalidade ou especialidade desportiva pela qual o praticante se encontra integrado no regime de alto rendimento.\n\nProcede-se também à revisão das coberturas mínimas quer para o seguro desportivo quer para o seguro do praticante de alto rendimento, prevendo-se a sua actualização automática.\n\nPor último, é definido um novo regime sancionatório e prevê-se a possibilidade de o Instituto do Desporto de Portugal, I. P., quando expressamente autorizado pelo interessado, poder defender em juízo o interesse dos praticantes e outros agentes desportivos não profissionais.\n\nForam ouvidos os órgãos de governo próprios das regiões autónomas.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido na Lei n.º 5/2007, de 16 de Janeiro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "66413676": {
+   "fragment_id": "66413577",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "66413677": {
+   "fragment_id": "66413578",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime jurídico do seguro desportivo obrigatório."
+  },
+  "66413678": {
+   "fragment_id": "66413579",
+   "type": 11,
+   "heading": "Artigo 2.º — Obrigatoriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Obrigatoriedade\n\n1 - Os agentes desportivos, os praticantes de actividades desportivas em infra-estruturas desportivas abertas ao público e os participantes em provas ou manifestações desportivas devem, obrigatoriamente, beneficiar de um contrato de seguro desportivo.\n\n2 - A responsabilidade pela celebração do contrato de seguro desportivo referido no número anterior cabe às federações desportivas, às entidades que explorem infra-estruturas desportivas abertas ao público e às entidades que organizem provas ou manifestações desportivas."
+  },
+  "66413679": {
+   "fragment_id": "66413580",
+   "type": 11,
+   "heading": "Artigo 3.º — Desporto escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Desporto escolar\n\nO disposto no presente decreto-lei não se aplica aos riscos decorrentes da prática de actividades desportivas desenvolvidas no âmbito do desporto escolar."
+  },
+  "66413680": {
+   "fragment_id": "66413581",
+   "type": 11,
+   "heading": "Artigo 4.º — Agentes desportivos com deficiências ou incapacidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Agentes desportivos com deficiências ou incapacidades\n\nO regime jurídico de seguro obrigatório previsto no presente decreto-lei aplica-se a todos os agentes desportivos com deficiência ou incapacidades, tendo em vista a sua plena integração e participação sociais, em igualdade de oportunidades com os demais agentes desportivos."
+  },
+  "66413681": {
+   "fragment_id": "66413582",
+   "type": 11,
+   "heading": "Artigo 5.º — Coberturas mínimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Coberturas mínimas\n\n1 - O seguro desportivo cobre os riscos de acidentes pessoais inerentes à respectiva actividade desportiva, nomeadamente os que decorrem dos treinos, das provas desportivas e respectivas deslocações, dentro e fora do território português.\n\n2 - As coberturas mínimas abrangidas pelo seguro desportivo são as seguintes:\n\na) Pagamento de um capital por morte ou invalidez permanente, total ou parcial, por acidente decorrente da actividade desportiva;\n\nb) Pagamento de despesas de tratamento, incluindo internamento hospitalar, e de repatriamento.\n\n3 - O seguro desportivo dos praticantes abrangidos pelo regime de alto rendimento tem coberturas e valores mínimos diferenciados, nos termos do disposto no artigo 11.º"
+  },
+  "66413682": {
+   "fragment_id": "66413583",
+   "type": 11,
+   "heading": "Artigo 6.º — Exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exclusões\n\nAs apólices de seguro desportivo não podem conter exclusões que, interpretadas individualmente ou consideradas no seu conjunto, sejam contrárias à natureza da actividade desportiva ou provoquem um esvaziamento do objecto do contrato de seguro."
+  },
+  "66413683": {
+   "fragment_id": "66413584",
+   "type": 1,
+   "heading": "Capítulo II — Do seguro dos agentes desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do seguro dos agentes desportivos"
+  },
+  "66413684": {
+   "fragment_id": "66413585",
+   "type": 11,
+   "heading": "Artigo 7.º — Agentes desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Agentes desportivos\n\nPara efeitos do disposto no presente decreto-lei são agentes desportivos, nomeadamente:\n\na) Praticantes desportivos federados;\n\nb) Árbitros, juízes e cronometristas;\n\nc) Treinadores de desporto;\n\nd) Dirigentes desportivos."
+  },
+  "66413685": {
+   "fragment_id": "66413586",
+   "type": 11,
+   "heading": "Artigo 8.º — Seguro desportivo de grupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Seguro desportivo de grupo\n\n1 - As federações desportivas instituem um seguro desportivo de grupo, mediante contrato celebrado com os seguradores, ao qual é obrigatória a adesão dos agentes desportivos mencionados no artigo anterior nelas inscritos.\n\n2 - Cabe às federações desportivas a responsabilidade pelo pagamento do prémio do seguro de grupo aos seguradores.\n\n3 - Ficam isentos da obrigação de aderir ao seguro desportivo de grupo os agentes desportivos que façam prova, mediante certificado emitido por um segurador, de que estão abrangidos por uma apólice que garanta um nível de cobertura igual ou superior ao mínimo legalmente exigido para o seguro desportivo."
+  },
+  "66413686": {
+   "fragment_id": "66413587",
+   "type": 11,
+   "heading": "Artigo 9.º — Adesão ao seguro desportivo de grupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Adesão ao seguro desportivo de grupo\n\n1 - A adesão individual dos agentes desportivos mencionados no artigo 7.º ao seguro desportivo de grupo realiza-se no momento da sua inscrição nas federações desportivas.\n\n2 - A comparticipação devida por cada aderente ao seguro desportivo de grupo é definida por deliberação dos órgãos competentes da respectiva federação.\n\n3 - A prestação prevista no número anterior é paga no momento da inscrição ou respectiva renovação na federação desportiva."
+  },
+  "66413687": {
+   "fragment_id": "66413588",
+   "type": 11,
+   "heading": "Artigo 10.º — Início da produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Início da produção de efeitos\n\nRelativamente a cada agente desportivo, a cobertura do seguro desportivo de grupo produz efeitos desde o momento da inscrição na federação e mantém-se enquanto esta vigorar."
+  },
+  "66413688": {
+   "fragment_id": "66413589",
+   "type": 11,
+   "heading": "Artigo 11.º — Seguro do praticante no regime de alto rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Seguro do praticante no regime de alto rendimento\n\n1 - Os praticantes desportivos no regime de alto rendimento estão abrangidos por um seguro de saúde com as coberturas e capitais mínimos fixados no presente decreto-lei.\n\n2 - Em caso de acidente decorrente da actividade desportiva, os praticantes desportivos no regime de alto rendimento, sem prejuízo das coberturas previstas para o seguro desportivo de grupo, são ainda obrigatoriamente abrangidos por um seguro garantindo um capital por invalidez permanente com os valores mínimos fixados no presente decreto-lei.\n\n3 - A invalidez referida no número anterior respeita à modalidade ou especialidade desportiva pela qual o praticante se encontra integrado no regime de alto rendimento e é aferida por uma comissão tripartida.\n\n4 - Cabe ao Instituto do Desporto de Portugal, I. P. (IDP, I. P.), a responsabilidade pela celebração e pagamento dos prémios dos contratos de seguro previstos no presente artigo."
+  },
+  "66413689": {
+   "fragment_id": "66413590",
+   "type": 11,
+   "heading": "Artigo 12.º — Comissão tripartida",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Comissão tripartida\n\n1 - A comissão tripartida a que se refere o n.º 3 do artigo anterior tem a seguinte composição:\n\na) Um médico designado pelo Instituto Nacional de Medicina Legal, I. P., que preside;\n\nb) Um médico em representação da entidade responsável pela reparação do acidente;\n\nc) Um médico designado pelo praticante, ou, se for menor, pelo seu legal representante.\n\n2 - Sempre que for entendido conveniente pela comissão ou por algum dos seus elementos, pode ser solicitada a audição de outros médicos, nomeadamente especialistas em medicina desportiva designados pelo IDP, I. P.\n\n3 - A comissão reúne sempre que necessário e nas instalações do centro de medicina desportiva correspondente à NUT II da área de residência do praticante desportivo.\n\n4 - Cabe ao IDP, I. P., fornecer o apoio técnico, logístico e material que se mostre necessário ao funcionamento da comissão tripartida."
+  },
+  "66413690": {
+   "fragment_id": "66413591",
+   "type": 11,
+   "heading": "Artigo 13.º — Seguro do praticante profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Seguro do praticante profissional\n\nO seguro desportivo de grupo em favor do praticante profissional tem natureza complementar relativamente ao seguro de acidentes de trabalho."
+  },
+  "66413691": {
+   "fragment_id": "66413592",
+   "type": 1,
+   "heading": "Capítulo III — Infra-estruturas e provas ou manifestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Infra-estruturas e provas ou manifestações\n\ndesportivas"
+  },
+  "66413692": {
+   "fragment_id": "66413593",
+   "type": 11,
+   "heading": "Artigo 14.º — Entidades prestadoras de serviços desportivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entidades prestadoras de serviços desportivos\n\n1 - As entidades prestadoras de serviços desportivos, públicas ou privadas, celebram um contrato de seguro desportivo, com as coberturas mínimas previstas no n.º 2 do artigo 5.º, a favor dos utentes ou clientes desses serviços.\n\n2 - A adesão ao seguro realiza-se no acto de inscrição ou contratualização junto das entidades mencionadas no número anterior.\n\n3 - O disposto nos números anteriores não se aplica aos agentes desportivos quando estes se encontrem abrangidos pelas coberturas mencionadas no n.º 2 do artigo 5.º\n\n4 - Para efeitos do disposto no presente artigo, a cobertura dos riscos inerentes às deslocações apenas abrange os praticantes federados."
+  },
+  "66413693": {
+   "fragment_id": "66413594",
+   "type": 11,
+   "heading": "Artigo 15.º — Seguro dos participantes em provas ou manifestações desportivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Seguro dos participantes em provas ou manifestações desportivas\n\n1 - As entidades que promovam ou organizem provas ou manifestações desportivas abertas ao público devem celebrar um contrato de seguro desportivo temporário, com as coberturas mínimas previstas no n.º 2 do artigo 5.º, a favor dos participantes não cobertos pelo seguro dos agentes desportivos, pelo seguro previsto no n.º 1 do artigo anterior ou pelo seguro escolar.\n\n2 - O seguro dos participantes em provas ou manifestações desportivas garante os riscos verificados no decurso da competição e nas deslocações inerentes.\n\n3 - A adesão ao seguro realiza-se no momento da inscrição na prova ou manifestação."
+  },
+  "66413694": {
+   "fragment_id": "66413595",
+   "type": 1,
+   "heading": "Capítulo IV — Capitais mínimos obrigatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Capitais mínimos obrigatórios"
+  },
+  "66413695": {
+   "fragment_id": "66413596",
+   "type": 11,
+   "heading": "Artigo 16.º — Coberturas mínimas abrangidas pelo seguro desportivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Coberturas mínimas abrangidas pelo seguro desportivo\n\nO contrato de seguro a que se refere o n.º 2 do artigo 5.º garante os seguintes montantes mínimos de capital:\n\na) Morte - (euro) 25 000;\n\nb) Despesas de funeral - (euro) 2000;\n\nc) Invalidez permanente absoluta - (euro) 25 000;\n\nd) Invalidez permanente parcial - (euro) 25 000, ponderado pelo grau de incapacidade fixado;\n\ne) Despesas de tratamento e repatriamento - (euro) 4000."
+  },
+  "66413696": {
+   "fragment_id": "66413597",
+   "type": 11,
+   "heading": "Artigo 17.º — Coberturas mínimas do seguro do praticante no regime de alto rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Coberturas mínimas do seguro do praticante no regime de alto rendimento\n\nO contrato de seguro a que se refere o artigo 11.º garante os seguintes montantes mínimos de capital:\n\na) Seguro de saúde:\n\ni) Assistência hospitalar - (euro) 15 000;\n\nii) Assistência ambulatória - (euro) 1500;\n\nb) Invalidez permanente absoluta - (euro) 50 000;\n\nc) Invalidez permanente parcial - (euro) 50 000."
+  },
+  "66413697": {
+   "fragment_id": "66413598",
+   "type": 11,
+   "heading": "Artigo 18.º — Actualização das coberturas mínimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Actualização das coberturas mínimas\n\nAs coberturas mínimas obrigatórias dos seguros são automaticamente actualizadas em Janeiro de cada ano, de acordo com o índice de preços do consumidor verificado no ano anterior e publicado pelo Instituto Nacional de Estatística, I. P."
+  },
+  "66413698": {
+   "fragment_id": "66413599",
+   "type": 11,
+   "heading": "Artigo 19.º — Franquias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Franquias\n\n1 - Relativamente às coberturas a que se referem as alíneas b) e e) do artigo 16.º e a alínea a) do artigo 17.º, as partes estabelecem livremente a introdução de franquias e fixam o respectivo valor.\n\n2 - A franquia é suportada pelo segurado."
+  },
+  "66413699": {
+   "fragment_id": "66413600",
+   "type": 1,
+   "heading": "Capítulo V — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Regime sancionatório"
+  },
+  "66413700": {
+   "fragment_id": "66413601",
+   "type": 11,
+   "heading": "Artigo 20.º — Falta de seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Falta de seguro\n\nAs entidades que incumpram a obrigação de celebrar e manter vigentes os contratos de seguro desportivo previstos no presente decreto-lei respondem, em caso de acidente decorrente da actividade desportiva, nos mesmos termos em que responderia o segurador, caso o seguro tivesse sido contratado."
+  },
+  "66413701": {
+   "fragment_id": "66413602",
+   "type": 11,
+   "heading": "Artigo 21.º — Contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contra-ordenação\n\n1 - Constitui contra-ordenação muito grave, punida com coima mínima de (euro) 500 e máxima de (euro) 3000, por cada agente não segurado, a falta de contrato de seguro desportivo obrigatório a que se refere o artigo 2.º\n\n2 - A negligência é punível, sendo os limites máximo e mínimo da coima reduzidos para metade."
+  },
+  "66413702": {
+   "fragment_id": "66413603",
+   "type": 11,
+   "heading": "Artigo 22.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Fiscalização\n\nSem prejuízo das competências atribuídas por lei a outras entidades, a fiscalização do cumprimento do disposto no presente decreto-lei compete ao IDP, I. P."
+  },
+  "66413703": {
+   "fragment_id": "66413604",
+   "type": 11,
+   "heading": "Artigo 23.º — Tramitação processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Tramitação processual\n\n1 - O levantamento dos autos de notícia compete ao IDP, I. P., assim como às outras entidades policiais e fiscalizadoras no âmbito das suas competências.\n\n2 - A instrução dos processos de contra-ordenação, bem como a aplicação das coimas, compete ao IDP, I. P.\n\n3 - O produto da aplicação das coimas reverte a favor das seguintes entidades:\n\na) 60 % para o Estado;\n\nb) 10 % para a entidade autuante;\n\nc) 30 % para a entidade que instruiu o processo."
+  },
+  "66413704": {
+   "fragment_id": "66413605",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais"
+  },
+  "66413705": {
+   "fragment_id": "66413606",
+   "type": 11,
+   "heading": "Artigo 24.º — Defesa dos segurados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Defesa dos segurados\n\nO IDP, I. P., quando expressamente autorizado pelo interessado, tem legitimidade para defender em juízo o interesse dos praticantes e outros agentes desportivos não profissionais, no âmbito dos seguros regulados pelo presente decreto-lei."
+  },
+  "66413706": {
+   "fragment_id": "66413607",
+   "type": 11,
+   "heading": "Artigo 25.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 146/93, de 26 de Abril, a Portaria n.º 757/93, de 26 de Agosto, e a Portaria n.º 392/98, de 11 de Julho."
+  },
+  "66413707": {
+   "fragment_id": "66413608",
+   "type": 11,
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  },
+  "835545421": {
+   "fragment_id": "66413580",
+   "type": 11,
+   "heading": "Artigo 3.º — Desporto escolar",
+   "in_force_from": "2024-03-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117/2023 - Diário da República n.º 244/2023, Série I de 2023-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2023-808125338), em vigor a partir de 2024-03-19"
+   ],
+   "markdown": "###### Artigo 3.º — Desporto escolar\n\n1 - O disposto no presente decreto-lei não se aplica aos riscos decorrentes da prática de atividades desportivas desenvolvidas no âmbito do desporto escolar.\n\n2 - As atividades desportivas desenvolvidas no âmbito do desporto escolar incluem todas as atividades desportivas previstas no plano anual de atividades das escolas e nos respetivos planos do clube do desporto escolar, incluindo as atividades organizadas por federações desportivas.\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117/2023 - Diário da República n.º 244/2023, Série I de 2023-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-2023-808125338), em vigor a partir de 2024-03-19"
+  },
+  "73410092": {
+   "fragment_id": "66413591",
+   "type": 11,
+   "heading": "Artigo 13.º — Seguro do praticante profissional",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Lei n.º 27/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/27-2011-669999)"
+   ],
+   "markdown": "###### Artigo 13.º — Seguro do praticante profissional\n\nO seguro desportivo de grupo em favor do praticante profissional tem natureza complementar relativamente ao seguro de acidentes de trabalho.\n\n> Revogado pelo/a Artigo 11.º do/a [Lei n.º 27/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/27-2011-669999)"
+  },
+  "66413708": {
+   "fragment_id": "66413609",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Novembro de 2008. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - José António Fonseca Vieira da Silva - Ana Maria Teodoro Jorge - Maria de Lurdes Reis Rodrigues.\n\nPromulgado em 23 de Dezembro de 2008.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de Dezembro de 2008.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

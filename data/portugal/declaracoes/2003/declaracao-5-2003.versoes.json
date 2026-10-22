@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:684430:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/declaracao/2003-995301063",
+ "dre_path": "/dr/detalhe/declaracao/5-2003-684430",
+ "source_lastmod": "2026-05-18",
+ "versions": [
+  {
+   "date": "2003-06-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1123784175",
+    "996194875"
+   ]
+  }
+ ],
+ "fragments": {
+  "1123784175": {
+   "fragment_id": "996194575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1 - Para os efeitos previstos no n.º 8 do artigo 19.º da Lei n.º 65/93, de 26 de Agosto, na redacção que lhe foi dada pela Lei n.º 94/99, de 16 de Julho, declara-se que foram designados ou eleitos, nos termos do n.º 1 do mesmo artigo, os seguintes membros efectivos da Comissão de Acesso aos Documentos Administrativos (CADA):\n\na) Juiz conselheiro Agostinho de Castro Martins, designado pelo Conselho Superior dos Tribunais Administrativos e Fiscais, que preside;\n\nb) Deputados Eugénio Fernando de Sá Cerqueira Marinho e Osvaldo Alberto Rosário Sarmento e Castro, eleitos pela Assembleia da República;\n\nc) Prof. Doutor Narana Sinai Coissoró, designado pelo Presidente da Assembleia da República;\n\nd) Dr. José António Bagulho França Martins e Dr. Manuel Eduardo Caeiro da Motta Veiga, designados pelo Governo;\n\ne) Dr. Francisco António de Brito, designado pelo Governo da Região Autónoma dos Açores, e Dr. José Renato Gonçalves, designado pelo Governo da Região Autónoma da Madeira;\n\nf) Dr. Armando França Alves, designado pela Associação Nacional de Municípios Portugueses;\n\ng) Dr.ª Branca Aurora Ferreira Pena do Amaral, designada pela Ordem dos Advogados;\n\nh) Procurador da República Amadeu Francisco Ribeiro Guerra, designado pela Comissão Nacional de Protecção de Dados.\n\n2 - Foram ainda designados ou eleitos membros suplentes da CADA:\n\na) Juiz conselheiro António Fernando Samagaio, designado pelo Conselho Superior dos Tribunais Administrativos e Fiscais;\n\nb) Deputados Luís Filipe Montenegro Cardoso de Morais Esteves e Ana Catarina Veiga Santos Mendonça Mendes, eleitos pela Assembleia da República;\n\nc) Mestre Joaquim Pedro Formigal Cardoso da Costa, designado pelo Presidente da Assembleia da República;\n\nd) Dr. Victor Jorge Ribeiro Santos, designado pelo Governo da Região Autónoma dos Açores;\n\ne) Dr. Luís Malta Vacas, designado pela Ordem dos Advogados;\n\nf) Mestra Catarina Teresa Rola Sarmento e Castro, designada pela Comissão Nacional de Protecção de Dados."
+  },
+  "996194875": {
+   "fragment_id": "996194775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Assembleia da República, 30 de Maio de 2003. - A Secretária-Geral, Isabel Corte-Real."
+  }
+ }
+}

@@ -1,0 +1,681 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:230680:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/1997-942970114",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/13-e-1997-230680",
+ "source_lastmod": "2025-10-29",
+ "versions": [
+  {
+   "date": "1997-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "942970200",
+    "942970201",
+    "942970202",
+    "942970204",
+    "942970205",
+    "942970206",
+    "942970207",
+    "942970208",
+    "942970209",
+    "942970210",
+    "942970211",
+    "942970212",
+    "942970213",
+    "942970214",
+    "942970215",
+    "942970216",
+    "942970217",
+    "942970218",
+    "942970219",
+    "942970220",
+    "942970221",
+    "942970222",
+    "942970223",
+    "942970224",
+    "942970225",
+    "942970226",
+    "942970227",
+    "942970228",
+    "942970229",
+    "942970230",
+    "942970231",
+    "942970232",
+    "942970233",
+    "942970234",
+    "942970235",
+    "942970236",
+    "942970237",
+    "942970238",
+    "942970239",
+    "942970240",
+    "942970241",
+    "942970242",
+    "942970243",
+    "942970244",
+    "942970245"
+   ]
+  },
+  {
+   "date": "2000-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:515270:por",
+     "title": "Decreto Regulamentar Regional n.º 9/2000/M",
+     "published": "2000-03-21",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/9-2000-515270"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 22.º-A",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 20.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "942970200",
+    "942970201",
+    "942970202",
+    "942970203",
+    "942970204",
+    "942970205",
+    "942970206",
+    "942970207",
+    "942970208",
+    "942970254",
+    "942970209",
+    "942970210",
+    "942970211",
+    "942970212",
+    "942970213",
+    "942970257",
+    "942970214",
+    "942970260",
+    "942970216",
+    "942970217",
+    "942970218",
+    "942970219",
+    "942970220",
+    "986456903",
+    "986456904",
+    "942970262",
+    "986456905",
+    "942970224",
+    "986456906",
+    "942970226",
+    "986456907",
+    "942970263",
+    "942970229",
+    "942970264",
+    "942970230",
+    "942970231",
+    "942970232",
+    "942970265",
+    "942970266",
+    "942970235",
+    "942970236",
+    "942970237",
+    "942970267",
+    "942970239",
+    "942970240",
+    "942970241",
+    "942970269",
+    "942970270",
+    "942970271",
+    "942970272",
+    "942970268"
+   ]
+  }
+ ],
+ "fragments": {
+  "942970200": {
+   "fragment_id": "942970115",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 13-E/97/M\n\nAprova a orgânica da Direcção Regional de Formação Profissional O Decreto Legislativo Regional n.º 24-A/96/M, de 4 de Dezembro, que procedeu à reestruturação do Governo da Região Autónoma da Madeira, modificou a orgânica da Secretaria Regional de Educação.\n\nO Decreto Regulamentar Regional n.º 6/97/M, de 17 de Março, que criou a nova estrutura da Secretaria Regional de Educação, a qual integra os sectores de educação, educação especial, desporto e formação profissional, estatuiu no seu articulado que as atribuições, a orgânica, funcionamento e o pessoal de cada organismo e serviço nela englobado constariam de decreto regulamentar regional.\n\nNeste contexto, urge criar a orgânica da nova Direcção Regional de Formação Profissional, com a sua estrutura, por forma a dotá-la dos meios necessários ao exercício das suas atribuições e competências.\n\nNestes termos:\n\nO Governo Regional da Região Autónoma da Madeira decreta, nos termos da alínea d) do n.º 1 do artigo 229.º da Constituição e da alínea c) do artigo 49.º da Lei n.º 13/91, de 5 de Junho, conjugados com a alínea h) do artigo 1.º do Decreto Legislativo Regional n.º 24-A/96/M, de 4 de Dezembro, e do n.º 2 do artigo 4.º do Decreto Regulamentar Regional n.º 6/97/M, de 17 de Março, o seguinte:"
+  },
+  "942970201": {
+   "fragment_id": "942970116",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovada a estrutura orgânica da Direcção Regional de Formação Profissional, publicada em anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "942970202": {
+   "fragment_id": "942970117",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "942970204": {
+   "fragment_id": "942970119",
+   "type": 14,
+   "heading": "Anexo — ORGÂNICA DA DIRECÇÃO REGIONAL DE FORMAÇÃO PROFISSIONAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ORGÂNICA DA DIRECÇÃO REGIONAL DE FORMAÇÃO PROFISSIONAL"
+  },
+  "942970205": {
+   "fragment_id": "942970120",
+   "type": 1,
+   "heading": "Capítulo I — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza e atribuições"
+  },
+  "942970206": {
+   "fragment_id": "942970121",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Direcção Regional de Formação Profissional, designada no presente diploma, abreviadamente, por DRFP, é o departamento a que se refere a alínea d) do n.º 1 do artigo 4.º do Decreto Regulamentar Regional n.º 6/97/M, de 17 de Março, e cujas atribuições, orgânica, funcionamento e pessoal constam dos artigos seguintes."
+  },
+  "942970207": {
+   "fragment_id": "942970122",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições e competências\n\n1 - A DRFP é dotada de autonomia administrativa, competindo-lhe assegurar a execução da política regional definida pelo Governo para o sector da formação profissional e para a gestão do Fundo Social Europeu.\n\n2 - A DRFP é dirigida por um director regional.\n\n3 - A DRFP integra o Centro Regional de Formação Profissional da Madeira\n\n4 - À DRFP compete, designadamente:\n\na) Contribuir para a definição da política de formação profissional e elaborar a respectiva legislação;\n\nb) Recolher, analisar e facultar informação sobre as necessidades de formação profissional e promover a sua discussão com vista à definição das prioridades de intervenção naquele sector;\n\nc) Conceber e propor programas integrados de formação profissional, tendo em conta a situação e perspectivas do mercado de emprego e as características dos grupos sócio-profissionais prioritários;\n\nd) Proceder à divulgação das possibilidades de financiamento do Fundo Social Europeu;\n\ne) Garantir a gestão dos assuntos do Fundo Social Europeu, no âmbito das competências atribuídas à Região nesta matéria, e assegurar a articulação com os competentes departamentos do Governo da República;\n\nf) Proceder ao acompanhamento, controlo e avaliação das acções apoiadas pelo Fundo Social Europeu, por forma a garantir o cumprimento das normas comunitárias, nacionais e regionais que definem o acesso e utilização dos financiamentos recebidos;\n\ng) Promover e implementar sistemas de auditoria e validação da qualidade da formação profissional e assegurar a sua representação em equipas de acompanhamento e avaliação técnico-pedagógica das acções de formação profissional;\n\nh) Definir metodologias e padrões de certificação, avaliação e validação técnico-pedagógica dos sistemas de formação de forma contínua, sistemática e global;\n\ni) Participar e promover o intercâmbio de formas de cooperação e colaboração, bem como outro tipo de relações com entidades nacionais e internacionais em matérias da sua competência;\n\nj) Colaborar com a Direcção Regional de Inovação e Gestão Educativa nas acções do ensino profissional e de informação e orientação escolar;\n\nl) Representar os interesses regionais de acordo com as competências inerentes à DRFP, designadamente em matérias de formação profissional e Fundo Social Europeu;\n\nm) Elaborar estudos e prestar apoio técnico sobre assuntos da sua área de intervenção.\n\n5 - Ao director regional, para além das atribuições referidas no número anterior, poderão ser ainda delegadas competências, nomeadamente nas seguintes áreas:\n\na) Acordos de formação profissional;\n\nb) Homologação de actas de ofertas públicas de emprego, de contratos administrativos de provimento e de processos de selecção de formadores;\n\nc) Posses e aceitações de lugares;\n\nd) Mobilidade de pessoal;\n\ne) Outorga dos contratos de pessoal;\n\nf) Nomeações, exonerações e rescisões das relações jurídicas de emprego do pessoal da DRFP;\n\ng) Autorização para a acumulação e horas extraordinárias do pessoal, bem como o trabalho em dias de descanso semanal, complementar e feriados;\n\nh) Horários de trabalho.\n\n6 - O director regional é substituído, nas suas ausências e impedimentos, pelo director de serviços para o efeito designado.\n\n7 - O director regional pode, nos termos da lei, delegar competências em titulares de cargos de direcção e chefia."
+  },
+  "942970208": {
+   "fragment_id": "942970123",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos e serviços"
+  },
+  "942970209": {
+   "fragment_id": "942970124",
+   "type": 8,
+   "heading": "Secção I — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conselho administrativo"
+  },
+  "942970210": {
+   "fragment_id": "942970125",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - O CA é composto pelo director regional, que preside, pelo director de serviços administrativos, financeiros e património, pelo chefe de divisão de gestão financeira e por dois elementos a designar.\n\n2 - Ao CA compete, nomeadamente:\n\na) Definir, de acordo com as directivas superiores, os programas que hão-de servir de base à elaboração das propostas orçamentais;\n\nb) Promover a elaboração dos projectos de orçamento de receitas e despesas, de harmonia com as disposições legais aplicáveis;\n\nc) Controlar a execução das actividades financeiras, em conformidade com os respectivos programas;\n\nd) Promover a análise da conta de gerência a enviar ao Tribunal de Contas;\n\ne) Apreciar a situação administrativa e financeira da DRFP, tendo em vista assegurar o seu bom funcionamento.\n\n3 - O CA estabelecerá, mediante regulamento, as normas internas do seu funcionamento."
+  },
+  "942970211": {
+   "fragment_id": "942970126",
+   "type": 8,
+   "heading": "Secção II — Gabinete de Apoio Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Gabinete de Apoio Jurídico"
+  },
+  "942970212": {
+   "fragment_id": "942970127",
+   "type": 11,
+   "heading": "Artigo 5.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Natureza e atribuições\n\nO GAJ é um órgão de concepção e apoio da DRFP, com funções exclusivas de mera consulta jurídica, competindo-lhe, nomeadamente:\n\na) Elaborar pareceres e informações de natureza técnico-jurídica sobre quaisquer questões ou processos que lhe sejam submetidos a apreciação;\n\nb) Emitir pareceres sobre propostas de portarias, decretos regulamentares e decretos legislativos regionais;\n\nc) Colaborar na preparação de projectos de diplomas relacionados com a actividade da DRFP;\n\nd) Dinamizar a realização de estudos de direito comparado nas áreas da formação e reabilitação profissionais, tendo como referência, nomeadamente, os sistemas vigentes na Comunidade Económica Europeia;\n\ne) Providenciar no sentido da adequada e necessária difusão de toda a legislação de interesse para a DRFP."
+  },
+  "942970213": {
+   "fragment_id": "942970128",
+   "type": 8,
+   "heading": "Secção III — Direcção de Serviços de Formação Profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Direcção de Serviços de Formação Profissional"
+  },
+  "942970214": {
+   "fragment_id": "942970129",
+   "type": 3,
+   "heading": "Subsecção I — Divisão de Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Divisão de Formação"
+  },
+  "942970215": {
+   "fragment_id": "942970130",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atribuições\n\nÀ DF compete, nomeadamente:\n\na) Elaborar e actualizar os curricula e os programas destinados à formação profissional;\n\nb) Definir os perfis profissionais;\n\nc) Manter actualizados os programas de formação, de acordo com o sistema produtivo, tecnológico, de organização do trabalho e das qualificações;\n\nd) Propor a elaboração de programas de formação profissional ao nível da qualificação, aperfeiçoamento e de formação de formadores;\n\ne) Assegurar a realização das acções de formação profissional programadas;\n\nf) Coordenar todo o processo de recrutamento de formadores em colaboração com a Divisão de Gestão de Recursos Humanos;\n\ng) Colaborar com entidades externas na elaboração dos curricula de formação profissional e na implementação de acções de formação;\n\nh) Colaborar com os serviços competentes no âmbito da formação, reabilitação e integração profissional de deficientes, migrantes e ensino técnico-profissional;\n\ni) Elaborar o plano anual de formação em função das necessidades do mercado;\n\nj) Coordenar e gerir os meios à sua disposição tendo em vista a gestão e o funcionamento do sistema da aprendizagem na Região;\n\nl) Promover e executar os programas dos cursos de aprendizagem e os respectivos instrumentos complementares de acordo com as orientações a nível nacional, tendo em conta as especificidades da Região;\n\nm) Assegurar, em articulação com a DIOP, acções de aconselhamento vocacional nas acções de formação."
+  },
+  "942970216": {
+   "fragment_id": "942970131",
+   "type": 3,
+   "heading": "Subsecção II — Divisão de Informação e Orientação Profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Divisão de Informação e Orientação Profissional"
+  },
+  "942970217": {
+   "fragment_id": "942970132",
+   "type": 11,
+   "heading": "Artigo 8.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Atribuições\n\nÀ DIOP compete, designadamente:\n\na) Conceber e preparar os instrumentos técnicos a utilizar pelos serviços no domínio da informação e orientação profissional;\n\nb) Desenvolver acções de informação, orientação escolar e profissional e aconselhamento vocacional, inclusivamente em colaboração com outras instituições;\n\nc) Promover a orientação e selecção de candidatos com vista à frequência de acções de formação profissional e emprego;\n\nd) Assegurar o acompanhamento psicopedagógico dos participantes em acções de formação profissional;\n\ne) Definir os perfis profissionais dos formadores a recrutar para as acções de formação profissional;\n\nf) Colaborar com a DSFSE nos processos de certificação;\n\ng) Assegurar a avaliação vocacional e o encaminhamento de candidatos a acções de formação nos centros de formação do IEFP, de acordo com o protocolo celebrado;\n\nh) Colaborar com a DIVA na integração dos jovens na vida activa."
+  },
+  "942970218": {
+   "fragment_id": "942970133",
+   "type": 3,
+   "heading": "Subsecção III — Divisão de Inserção na Vida Activa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Divisão de Inserção na Vida Activa"
+  },
+  "942970219": {
+   "fragment_id": "942970134",
+   "type": 11,
+   "heading": "Artigo 9.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Atribuições\n\nÀ DIVA compete, designadamente:\n\na) Assegurar uma experiência de formação em contexto de trabalho em todas as acções de formação profissional;\n\nb) Acompanhar as acções de formação no posto de trabalho com vista a uma possível integração no mercado de trabalho, de forma a adequar a oferta com a procura de mão-de-obra qualificada;\n\nc) Colaborar com outras entidades públicas e privadas na integração no mercado de trabalho de pessoas que beneficiaram de acções de formação profissional;\n\nd) Propor a definição de critérios de apreciação e selecção de empresas para a formação no posto de trabalho;\n\ne) Promover experiências de formação sócio-profissional dos formandos com entidades externas;\n\nf) Colaborar com a DSFSE na implementação de programas transnacionais e acções inovadoras com outros países da União Europeia;\n\ng) Facultar a formação complementar a todos os formandos que frequentaram acções de formação em centros de formação ligados ao IEFP, no continente;\n\nh) Colaborar com a DIOP na implementação e dinamização de um clube de emprego."
+  },
+  "942970220": {
+   "fragment_id": "942970135",
+   "type": 8,
+   "heading": "Secção IV — Direcção de Serviços do Fundo Social Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Direcção de Serviços do Fundo Social Europeu"
+  },
+  "942970221": {
+   "fragment_id": "942970136",
+   "type": 3,
+   "heading": "Subsecção I — Divisão de Análise Técnica e Pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Divisão de Análise Técnica e Pedagógica"
+  },
+  "942970222": {
+   "fragment_id": "942970137",
+   "type": 11,
+   "heading": "Artigo 11.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Atribuições\n\nÀ DATP compete, designadamente:\n\na) Dinamizar a elaboração de projectos e apoiar a sua preparação, de acordo com as orientações de gestão superiormente definidas;\n\nb) Analisar as candidaturas, procedendo à sua verificação e tratamento, e propor a transição para a análise financeira, tendo em conta as normas comunitárias, nacionais e regionais aplicáveis;\n\nc) Participar superiormente as deficiências detectadas em sede de análise técnico-pedagógica das acções submetidas a aprovação;\n\nd) Prestar todos os esclarecimentos que no âmbito das respectivas competências venham a ser superiormente solicitados."
+  },
+  "942970223": {
+   "fragment_id": "942970138",
+   "type": 3,
+   "heading": "Subsecção II — Divisão de Análise Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Divisão de Análise Financeira"
+  },
+  "942970224": {
+   "fragment_id": "942970139",
+   "type": 11,
+   "heading": "Artigo 12.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Atribuições\n\nÀ DAF compete, nomeadamente:\n\na) Efectuar a análise financeira e formular propostas de decisão de aprovação sobre os pedidos de financiamento, pedidos de adiantamento e pedidos de pagamento de saldo;\n\nb) Articular-se, com a DATP e a DACA, no sentido de poder certificar técnica, pedagógica e contabilisticamente as declarações contidas nos pedidos, participando superiormente quaisquer irregularidades ou deficiências detectadas ou presumíveis na análise dos pedidos;\n\nc) Propor a emissão das ordens de pagamento relativas às acções aprovadas no âmbito do Fundo Social Europeu."
+  },
+  "942970225": {
+   "fragment_id": "942970140",
+   "type": 3,
+   "heading": "Subsecção III — Divisão de Acompanhamento, Controlo e Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Divisão de Acompanhamento, Controlo e Avaliação"
+  },
+  "942970226": {
+   "fragment_id": "942970141",
+   "type": 11,
+   "heading": "Artigo 13.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Atribuições\n\nÀ DACA compete, nomeadamente:\n\na) Promover acções de acompanhamento técnico-pedagógico da formação profissional no âmbito do Fundo Social Europeu. Para este efeito, sempre que necessário, poderá solicitar a colaboração de entidade da Administração Pública, a fim de respeitar competências próprias, ou ainda recorrer a entidades privadas de reconhecido mérito;\n\nb) Promover o acompanhamento factual dos pedidos de financiamento;\n\nc) Garantir o controlo contabilístico-financeiro durante a execução dos pedidos de financiamento;\n\nd) Propor a adopção das medidas adequadas tendo em vista a melhoria dos níveis de eficiência e eficácia dos apoios concedidos e garantir o cumprimento das decisões de aprovação;\n\ne) Apoiar a DAF na emissão de propostas relativas aos montantes a conceder em sede de aprovação de candidatura, de adiantamento e de saldo."
+  },
+  "942970227": {
+   "fragment_id": "942970142",
+   "type": 3,
+   "heading": "Subsecção IV — Repartição para os Pagamentos do Fundo Social Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Repartição para os Pagamentos do Fundo Social Europeu"
+  },
+  "942970228": {
+   "fragment_id": "942970143",
+   "type": 11,
+   "heading": "Artigo 14.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Atribuições\n\nÀ RPFSE compete, designadamente:\n\na) Conferir, controlar e processar os pagamentos efectuados através do Fundo Autónomo - FSE;\n\nb) Desempenhar outras funções de natureza financeira de que seja superiormente incumbida."
+  },
+  "942970229": {
+   "fragment_id": "942970144",
+   "type": 8,
+   "heading": "Secção V — Direcção de Serviços Administrativos, Financeiros e Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Direcção de Serviços Administrativos, Financeiros e Património"
+  },
+  "942970230": {
+   "fragment_id": "942970145",
+   "type": 3,
+   "heading": "Subsecção I — Divisão de Gestão de Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Divisão de Gestão de Recursos Humanos"
+  },
+  "942970231": {
+   "fragment_id": "942970146",
+   "type": 11,
+   "heading": "Artigo 16.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Atribuições\n\nÀ DGRH compete, nomeadamente:\n\na) Elaborar os processos relativos ao movimento de pessoal, velando pelo respeito das dotações orgânicas e pelo cumprimento da legalidade;\n\nb) Assegurar os processos de recrutamento e selecção do pessoal da DRFP e executar as acções referentes a provimento, transferência, promoção, tempo de serviço, licenças, faltas, aposentação, disciplina e exoneração;\n\nc) Elaborar e manter em ordem e devidamente actualizados os processos individuais de todo o pessoal da DRFP e processar a documentação necessária para o efeito;\n\nd) Recolher, arquivar e actualizar toda a documentação e legislação para a área do pessoal e organizar o respectivo ficheiro;\n\ne) Organizar os processos relacionados com a atribuição da ADSE e com a concessão de abono de família e prestações complementares;\n\nf) Gerir o sistema de controlo de assiduidade do pessoal da DRFP e assegurar todo o expediente relativo à assiduidade e férias do pessoal;\n\ng) Fornecer os indicadores para efeito de processamento das retribuições devidas ao pessoal;\n\nh) Implementar o levantamento das necessidades de formação a nível da DRFP, propondo as acções necessárias através da elaboração de um plano anual de formação, em articulação com a Divisão de Gestão Administrativa;\n\ni) Instruir, de acordo com orientações superiores e em articulação com os correspondentes sectores, os processos de averiguações, de inquérito ou de sindicância, nos termos do Estatuto dos Funcionários e Agentes da Administração Central, Regional e Local;\n\nj) Executar todas as demais tarefas que decorram do normal desempenho das suas funções."
+  },
+  "942970232": {
+   "fragment_id": "942970147",
+   "type": 3,
+   "heading": "Subsecção II — Divisão de Gestão Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Divisão de Gestão Financeira"
+  },
+  "942970233": {
+   "fragment_id": "942970148",
+   "type": 11,
+   "heading": "Artigo 17.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Atribuições\n\n1 - À DGF compete, designadamente:\n\na) Assegurar a gestão dos meios humanos e materiais e dirigir e coordenar os recursos financeiros que lhe estão afectos;\n\nb) Organizar as actividades da Divisão de acordo com o plano definido para a DRFP;\n\nc) Coordenar, em estreita colaboração com a repartição respectiva, as secções de processamento e tesouraria por forma a promover a elaboração das contas de gerência anuais;\n\nd) Assegurar o apoio técnico às diferentes áreas de intervenção da DRFP no âmbito das suas competências, tendo em vista o controlo da regularidade financeira e a eficácia das despesas efectuadas;\n\ne) Orientar e gerir a verificação dos processos e documentos respeitantes à gestão orçamental;\n\nf) Executar todas as demais tarefas que decorram do normal desempenho das suas funções.\n\n2 - Na dependência da DGF funciona a Repartição de Controlo Orçamental e Financeiro (RCOF)."
+  },
+  "942970234": {
+   "fragment_id": "942970149",
+   "type": 11,
+   "heading": "Artigo 18.º — Repartição de Controlo Orçamental e Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Repartição de Controlo Orçamental e Financeiro\n\n1 - À RCOF compete, designadamente:\n\na) Coordenar e orientar os serviços que funcionam na sua dependência;\n\nb) Assegurar o expediente relativo às requisições de duodécimos do Orçamento da Região na parte relativa à DRFP;\n\nc) Conferir, controlar e processar as despesas;\n\nd) Manter actualizado o registo diário de facturas oficialmente adoptado;\n\ne) Proceder às aquisições necessárias, nos termos da legislação em vigor;\n\nf) Manter actualizado o registo de vencimentos do pessoal;\n\ng) Desempenhar outras funções de natureza financeira de que seja superiormente incumbida.\n\n2 - A RCOF integra a Secção de Processamento e Tesouraria (SPT)."
+  },
+  "942970235": {
+   "fragment_id": "942970150",
+   "type": 3,
+   "heading": "Subsecção III — Divisão de Aprovisionamento e Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Divisão de Aprovisionamento e Património"
+  },
+  "942970236": {
+   "fragment_id": "942970151",
+   "type": 11,
+   "heading": "Artigo 19.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Atribuições\n\n1 - À DAP compete, nomeadamente:\n\na) Planear, coordenar e orientar as actividades das secções de compras e armazém geral necessárias ao bom funcionamento da DRFP;\n\nb) Preparar, elaborar e executar todos os processos de aquisição, tendo em conta a respectiva legislação;\n\nc) Promover a implementação de uma política de gestão de stocks, no sentido de racionalizar, melhorar e rentabilizar os fornecimentos necessários à DRFP;\n\nd) Elaborar e manter actualizado o inventário de bens patrimoniais;\n\ne) Promover as acções necessárias de molde a assegurar a disponibilização de informação sobre as evoluções registadas em materiais e equipamentos;\n\nf) Providenciar pela conservação do património e instalações;\n\ng) Executar todas as demais tarefas que decorram do normal desempenho das suas funções.\n\n2 - Na dependência da DAP funciona a Secção de Armazém e Compras (SAC)."
+  },
+  "942970237": {
+   "fragment_id": "942970152",
+   "type": 3,
+   "heading": "Subsecção IV — Repartição de Serviços Administrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Repartição de Serviços Administrativos"
+  },
+  "942970238": {
+   "fragment_id": "942970153",
+   "type": 11,
+   "heading": "Artigo 20.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Atribuições\n\n1 - À RSA compete, nomeadamente:\n\na) Coordenar e orientar todas as funções administrativas da DRFP, de modo a assegurar uma maior funcionalidade dos serviços;\n\nb) Promover, em articulação com os diversos sectores, um sistema uniforme de procedimentos que visem garantir a homogeneidade da DRFP nesta área;\n\nc) Implementar o levantamento das necessidades de formação, propondo, na área administrativa, as acções necessárias através da elaboração de um plano anual de formação, em articulação com a DGRH;\n\nd) Promover a racionalização e simplificação da documentação visando a informatização dos serviços e a implementação das aplicações necessárias, em colaboração com os restantes serviços da DRFP;\n\ne) Coordenar e orientar as secções referidas no número seguinte;\n\nf) Assegurar todos os procedimentos administrativos relativos a assuntos de expediente geral e arquivo;\n\ng) Proceder à divulgação de circulares, instruções ou outras normas de carácter genérico destinadas aos serviços da DRFP;\n\nh) Organizar e gerir a sala de documentação;\n\ni) Organizar e gerir o arquivo corrente;\n\nj) Coordenar os serviços de reprografia;\n\nl) Executar todas as demais funções que no âmbito da sua área de intervenção decorram do normal desempenho das suas funções\n\n2 - A RSA integra duas secções:\n\na) Secção de Expediente Geral (SEG);\n\nb) Secção de Documentação e Arquivo (SDA)."
+  },
+  "942970239": {
+   "fragment_id": "942970154",
+   "type": 1,
+   "heading": "Capítulo III — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do pessoal"
+  },
+  "942970240": {
+   "fragment_id": "942970155",
+   "type": 11,
+   "heading": "Artigo 21.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Quadros de pessoal\n\n1 - O pessoal da DRFP é agrupado em:\n\na) Pessoal dirigente;\n\nb) Pessoal técnico superior;\n\nc) Pessoal técnico;\n\nd) Pessoal técnico-profissional;\n\ne) Pessoal administrativo;\n\nf) Pessoal auxiliar;\n\ng) Pessoal operário.\n\n2 - A DRFP dispõe do quadro de pessoal constante do anexo ao presente diploma, do qual faz parte integrante."
+  },
+  "942970241": {
+   "fragment_id": "942970156",
+   "type": 11,
+   "heading": "Artigo 22.º — Transição de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Transição de pessoal\n\n1 - A integração do pessoal dos quadros da Direcção Regional de Emprego e Formação Profissional no quadro da DRFP, bem como nos de outros departamentos da Secretaria Regional de Educação, será feita através de lista nominativa, nos termos da lei geral.\n\n2 - Os funcionários providos nas carreiras e categorias de monitor de formação profissional, técnico-adjunto, oficial administrativo, auxiliar administrativo, auxiliar de apoio e vigilância, auxiliar de limpeza e pedreiro que, à data da publicação do presente diploma, se encontrem a desempenhar funções correspondentes a técnico-adjunto, tesoureiro, auxiliar administrativo, auxiliar de apoio e vigilância, motorista de ligeiros e fiel de armazém há, pelo menos, três anos, conforme declaração do responsável pelo serviço respectivo, e possuam habilitações literárias exigidas para o cargo, transitam para estas carreiras e categorias, sendo os lugares criados automaticamente a extinguir quando vagarem, mediante publicação de lista nominativa.\n\n3 - O tempo de serviço prestado pelos funcionários referidos no n.º 2 do presente artigo na carreira ou categoria que deu origem à transição conta, para todos os efeitos legais, como prestado na nova carreira ou categoria desde a data do seu efectivo exercício de funções, constante da declaração referida no número anterior."
+  },
+  "942970242": {
+   "fragment_id": "942970157",
+   "type": 11,
+   "heading": "Artigo 23.º — Concursos e estágios pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Concursos e estágios pendentes\n\n1 - Os concursos pendentes à data da entrada em vigor deste diploma mantêm a respectiva validade, sendo os lugares a prover os constantes do quadro anexo.\n\n2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos e se neles obtiverem aproveitamento, para as categorias objecto dos respectivos concursos e constantes do mapa anexo ao presente diploma."
+  },
+  "942970243": {
+   "fragment_id": "942970158",
+   "type": 11,
+   "heading": "Artigo 24.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Disposições finais e transitórias\n\n1 - O recrutamento para ingresso nas carreiras de operador de reprografia e de auxiliar de limpeza far-se-á mediante concurso de entre indivíduos habilitados com a escolaridade obrigatória.\n\n2 - O recrutamento, ingresso e acesso para a categoria de auxiliar de apoio e vigilância processa-se nos termos do Decreto-Lei n.º 109/82, de 20 de Outubro, aplicado à Região pela Resolução n.º 1123/82, de 31 de Dezembro, sendo as remunerações as constantes do anexo n.º 4 ao Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n3 - A categoria de encarregado de armazém, cujos lugares serão extintos à medida que vagarem, será remunerada pelos escalões correspondentes à categoria de encarregado de pessoal operário qualificado.\n\n4 - O recrutamento para a carreira de cozinheiro, inserida no grupo de pessoal auxiliar, obedece às seguintes regras:\n\na) O acesso à categoria de cozinheiro-chefe efectua-se de entre cozinheiros que possuam pelo menos cinco anos com classificação não inferior a Bom;\n\nb) Os lugares de cozinheiro são providos de entre ajudantes de cozinha com pelo menos cinco anos de serviço classificados, no mínimo, de Bom;\n\nc) Os lugares de ajudante de cozinha são providos de entre indivíduos habilitados com a escolaridade obrigatória.\n\n5 - O recrutamento para a carreira de monitor de formação profissional, integrada no grupo de pessoal técnico-profissional, nível 4, obedece às seguintes regras:\n\na) Monitor de formação profissional especialista, de entre monitores de formação profissional principais com pelo menos três anos na respectiva categoria, classificados de Muito bom, ou cinco anos, classificados no mínimo, de Bom;\n\nb) Monitor de formação profissional principal e de 1.ª classe, de entre, respectivamente, monitores de formação profissional de 1.ª classe e de 2.ª classe com um mínimo de três anos na respectiva categoria classificados de Bom;\n\nc) Monitor de formação profissional de 2.ª classe, de entre indivíduos diplomados com um curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade.\n\n6 - Enquanto não forem criados oficialmente os cursos técnico-profissionais necessários, o recrutamento para as categorias da carreira de monitor de formação profissional far-se-á de entre indivíduos com experiência profissional comprovada e habilitados com o curso complementar do ensino secundário ou equivalente, acrescido de um curso de formação adequado.\n\n7 - O recrutamento para as categorias da carreira de técnico de emprego, integrada no grupo de pessoal técnico-profissional, nível 4, obedece às seguintes regras:\n\na) Técnico de emprego especialista, de entre técnicos de emprego principais com pelo menos três anos na categoria, classificados de Muito bom, ou cinco anos, classificados, no mínimo, de Bom;\n\nb) Técnico de emprego principal, técnico de emprego especial e técnico de emprego de 1.ª classe, de entre, respectivamente, técnicos de emprego especiais e técnicos de emprego de 1.ª classe e de 2.ª classe com um mínimo de três anos na respectiva categoria, classificados de Bom;\n\nc) Técnico de emprego de 2.ª classe, de entre indivíduos diplomados com um curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade, ou de entre indivíduos habilitados com o curso complementar do ensino liceal ou equivalente e, em qualquer dos casos, com um curso de formação adequado.\n\n8 - O ingresso na carreira de monitor de formação profissional é precedido de um estágio nos termos do estabelecido no artigo 5.º do Decreto-Lei n.º 265/88, de 28 de Julho, conjugado com a alínea c) do n.º 2 do artigo 15.º e com o artigo 24.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 353-A/89, de 16 de Outubro, diplomas estes adaptados à Região Autónoma da Madeira, respectivamente, pelo Decreto Legislativo Regional n.º 4/89/M, de 15 de Fevereiro, e Decreto Regulamentar Regional n.º 2/90/M, de 2 de Março.\n\n9 - O estágio para ingresso na carreira de monitor de formação profissional e de técnico de emprego integra um curso de formação profissional, conforme o previsto no n.º 8 e na alínea c) do n.º 7 do artigo 32.º do presente diploma, cujos programas serão aprovados por despacho conjunto do secretário regional que detiver a tutela sobre a Administração Pública e do Secretário Regional de Educação.\n\n10 - Os monitores de formação profissional e os técnicos de emprego estagiários são remunerados de acordo com o sistema retributivo constante do anexo ao presente diploma, sem prejuízo do direito de opção pelo vencimento do lugar de origem no caso de se tratar de pessoal já vinculado à função pública.\n\n11 - Os estagiários a que se refere o número anterior, independentemente da carreira a que se destinam, quando funcionários, são nomeados em comissão de serviço extraordinário durante o período de estágio.\n\n12 - O ingresso e acesso das carreiras de monitor de formação profissional e de técnico de emprego obedecem ao regime geral de recrutamento e selecção de pessoal aplicável à função pública e às normas previstas no presente diploma.\n\n13 - A carreira de coordenador desenvolve-se pelas categorias de coordenador e de coordenador especialista.\n\n14 - O recrutamento para as categorias de coordenador especialista e de coordenador obedece às seguintes regras:\n\na) Coordenador especialista, de entre coordenadores com um mínimo de três anos na categoria, classificados de Bom;\n\nb) Coordenador, de entre oficiais administrativos com um mínimo de três anos na respectiva carreira, classificados de Bom, e com experiência na área administrativa.\n\n15 - O desenvolvimento do índice remuneratório da carreira de coordenador é o estabelecido no anexo I ao Decreto Regulamentar Regional n.º 21/91/M, de 17 de Setembro, com as alterações introduzidas pelo Decreto Regulamentar Regional n.º 20/92/M, de 17 de Agosto."
+  },
+  "942970244": {
+   "fragment_id": "942970159",
+   "type": 11,
+   "heading": "Artigo 25.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regime\n\nAs condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal da DRFP abrangido pelo presente diploma são os estabelecidos na legislação nacional e regional aplicável."
+  },
+  "942970245": {
+   "fragment_id": "942970160",
+   "type": 14,
+   "heading": "Anexo — Direcção Regional de Formação Profissional Quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Direcção Regional de Formação Profissional Quadro de pessoal\n\n(a que se refere o n.º 2 do artigo 21.º)\n\n(ver documento original)"
+  },
+  "942970203": {
+   "fragment_id": "942970118",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional em 26 de Junho de 1997.\n\nPelo Presidente do Governo Regional, José Paulo Baptista Fontes.\n\nAssinado em 15 de Julho de 1997.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "942970254": {
+   "fragment_id": "942970170",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura\n\nPara o exercício das suas atribuições, a DRFP compreende os seguintes órgãos e serviços:\n\na) Conselho administrativo (CA);\n\nb) Gabinete de Apoio Jurídico (GAJ);\n\nc) Direcção de Serviços de Formação Profissional (DSFP);\n\nd) Direcção de Serviços do Fundo Social Europeu (DSFSE);\n\ne) Direcção de Serviços Administrativos, Financeiros e Património (DSAFP)."
+  },
+  "942970257": {
+   "fragment_id": "942970174",
+   "type": 11,
+   "heading": "Artigo 6.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Atribuições\n\n1 - À DSFP compete, designadamente:\n\na) Proceder ao levantamento das necessidades de formação, em colaboração com outros organismos, tendo por objectivo o aumento das capacidades dos trabalhadores, o enriquecimento da sua personalidade e a motivação para o trabalho;\n\nb) Manter actualizados os programas de formação existentes, tendo em conta as tendências evolutivas registadas, nomeadamente ao nível do sistema produtivo, das tecnologias e da organização do trabalho e das qualificações;\n\nc) Elaborar e promover a execução de programas de formação de formadores e de outros técnicos de formação, assim como a formação de quadros técnicos, dirigentes e de outro pessoal de enquadramento, com base nos perfis profissionais e as necessidades de actualização e aperfeiçoamento técnico-pedagógico;\n\nd) Assegurar a coordenação, a gestão e a avaliação do sistema de aprendizagem na Região;\n\ne) Colaborar na elaboração e actualização dos programas, da documentação técnico-didáctica e dos suportes pedagógicos necessários ao funcionamento e desenvolvimento dos diferentes sistemas de formação;\n\nf) Assegurar a coordenação e o desenvolvimento de acções de informação e orientação profissional, assim como de acompanhamento psico-pedagógico nas acções de formação;\n\ng) Assegurar a avaliação vocacional e o encaminhamento de candidatos a acções de formação nos centros de formação do IEFP, de acordo com o protocolo celebrado;\n\nh) Colaborar com a DSFSE nos processos de certificação;\n\ni) Colaborar com entidades externas em acções de formação profissional:\n\nj) Colaborar com entidades públicas e privadas em acções de informação e orientação profissional;\n\nl) Assegurar a elaboração e formalização das candidaturas aos fundos comunitários para as acções de formação profissional, em colaboração com a DSFSE e a DSAFP;\n\nm) Implementar e dinamizar um clube de emprego.\n\n2 - Na dependência da DSFP funcionam a Divisão de Formação (DF), a Divisão de Informação e Orientação Profissional (DIOP) e a Divisão de Inserção na Vida Activa (DIVA)."
+  },
+  "942970260": {
+   "fragment_id": "942970130",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+   ],
+   "markdown": "###### Artigo 7.º — Atribuições\n\nÀ DF compete, nomeadamente:\n\na) Elaborar e actualizar os curricula e os programas destinados à formação profissional;\n\nb) Definir os perfis profissionais;\n\nc) Manter actualizados os programas de formação, de acordo com o sistema produtivo, tecnológico, de organização do trabalho e das qualificações;\n\nd) Propor a elaboração de programas de formação profissional ao nível da qualificação, aperfeiçoamento e de formação de formadores;\n\ne) Assegurar a realização das acções de formação profissional programadas;\n\nf) Coordenar todo o processo de recrutamento de formadores em colaboração com a Divisão de Gestão de Recursos Humanos;\n\ng) Colaborar com entidades externas na elaboração dos curricula de formação profissional e na implementação de acções de formação;\n\nh) Colaborar com os serviços competentes no âmbito da formação, reabilitação e integração profissional de deficientes, migrantes e ensino técnico-profissional;\n\ni) Elaborar o plano anual de formação em função das necessidades do mercado;\n\nj) Coordenar e gerir os meios à sua disposição tendo em vista a gestão e o funcionamento do sistema da aprendizagem na Região;\n\nl) Promover e executar os programas dos cursos de aprendizagem e os respectivos instrumentos complementares de acordo com as orientações a nível nacional, tendo em conta as especificidades da Região;\n\nm) Assegurar, em articulação com a DIOP, acções de aconselhamento vocacional nas acções de formação.\n\n2 - Na dependência da DF funciona a Secção de Apoio Logístico (SAL).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+  },
+  "986456903": {
+   "fragment_id": "942957775",
+   "type": 11,
+   "heading": "Artigo 10.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+   ],
+   "markdown": "###### Artigo 10.º — Atribuições\n\n1 - À DSFSE compete, nomeadamente:\n\na) Proceder à divulgação das possibilidades de financiamento do Fundo Social Europeu;\n\nb) Coordenar a análise dos pedidos de candidaturas de apoios financeiros, proceder à sua selecção e propor a sua aprovação a nível superior, tendo em conta quer as normas comunitárias, nacionais e regionais, quer as orientações para a gestão do Fundo Social Europeu;\n\nc) Coordenar o sistema de acompanhamento, controlo e avaliação do desenvolvimento das acções aprovadas pelo Fundo Social Europeu, certificando, quer factual quer contabilisticamente, os documentos de suporte de utilização dos meios financeiros fornecidos no âmbito daquele Fundo;\n\nd) Coordenar todas as acções e programas referentes ao Fundo Social Europeu e elaborar os relatórios de execução e outros instrumentos de suporte à gestão financeira global;\n\ne) Promover a certificação em articulação com a DSFP e outras entidades da administração pública nacional e regional com competências próprias nesta área, prevista na legislação aplicável;\n\nf) Promover e dinamizar a implementação e desenvolvimento na Região Autónoma da Madeira dos programas de iniciativa comunitária na área dos recursos humanos e outros programas comunitários no domínio da formação profissional, em articulação com as instâncias responsáveis pela respectiva gestão e coordenação;\n\ng) Desenvolver, em consonância com as instâncias responsáveis pela gestão e coordenação dos programas referidos na alínea f), as medidas necessárias para assegurar a complementaridade entre as acções realizadas no âmbito desses programas e as da vertente FSE do Programa Operacional Plurifundos da Região Autónoma da Madeira (POPRAM).\n\n2 - Na dependência da DSFSE funcionam a Divisão de Análise Técnica e Pedagógica (DATP), a Divisão de Análise Financeira (DAF) e a Divisão de Acompanhamento, Controlo e Avaliação (DACA).\n\n3 - Na directa dependência do director de serviços do Fundo Social Europeu funciona ainda o Departamento para Pagamentos do Fundo Social Europeu (DPFSE).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+  },
+  "986456904": {
+   "fragment_id": "942970136",
+   "type": 3,
+   "heading": "Subsecção I — Divisão de Análise Técnica e Pedagógica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Divisão de Análise Técnica e Pedagógica"
+  },
+  "942970262": {
+   "fragment_id": "942970137",
+   "type": 11,
+   "heading": "Artigo 11.º — Atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+   ],
+   "markdown": "###### Artigo 11.º — Atribuições\n\nÀ DATP compete, designadamente:\n\na) Dinamizar a elaboração de projectos e apoiar a sua preparação, de acordo com as orientações de gestão superiormente definidas;\n\nb) Analisar as candidaturas, procedendo à sua verificação e tratamento, e propor a transição para a análise financeira, tendo em conta as normas comunitárias, nacionais e regionais aplicáveis;\n\nc) Participar superiormente as deficiências detectadas em sede de análise técnico-pedagógica das acções submetidas a aprovação;\n\nd) Prestar todos os esclarecimentos que no âmbito das respectivas competências venham a ser superiormente solicitados.\n\n2 - Na dependência da DATP funciona a Secção de Candidaturas (SC).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+  },
+  "986456905": {
+   "fragment_id": "942970138",
+   "type": 3,
+   "heading": "Subsecção II — Divisão de Análise Financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Divisão de Análise Financeira"
+  },
+  "986456906": {
+   "fragment_id": "942970140",
+   "type": 3,
+   "heading": "Subsecção III — Divisão de Acompanhamento, Controlo e Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Divisão de Acompanhamento, Controlo e Avaliação"
+  },
+  "986456907": {
+   "fragment_id": "942970142",
+   "type": 3,
+   "heading": "Subsecção IV — Repartição para os Pagamentos do Fundo Social Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção IV — Repartição para os Pagamentos do Fundo Social Europeu"
+  },
+  "942970263": {
+   "fragment_id": "942970143",
+   "type": 11,
+   "heading": "Artigo 14.º — Atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+   ],
+   "markdown": "###### Artigo 14.º — Atribuições\n\n1 - Ao DPFSE compete, designadamente:\n\na) Conferir, controlar e processar os pagamentos efectuados através do Fundo Autónomo - FSE;\n\nb) Desempenhar outras funções de natureza financeira de que seja superiormente incumbida.\n\n2 - Na dependência do DPFSE funciona a Secção de Processamento e Tesouraria (SPT).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+  },
+  "942970264": {
+   "fragment_id": "942957776",
+   "type": 11,
+   "heading": "Artigo 15.º — Atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+   ],
+   "markdown": "###### Artigo 15.º — Atribuições\n\n1 - À DSAFP compete, nomeadamente:\n\na) Coordenar a elaboração do plano de actividades, conta de gerência e relatório de actividades da DRFP;\n\nb) Coordenar, controlar e orientar toda a gestão financeira da DRFP, numa perspectiva de rentabilização de execução dos respectivos orçamentos;\n\nc) Elaborar e manter actualizadas previsões financeiras tendo em vista a obtenção dos fundos necessários em tempo oportuno e a optimização da aplicação dos recursos financeiros à disposição da DRFP no desenvolvimento das suas actividades;\n\nd) Planear e organizar o apetrechamento de todos os materiais, providenciando pelas aquisições necessárias ao regular funcionamento da DRFP, mantendo actualizado o respectivo cadastro patrimonial;\n\ne) Coordenar e orientar, em colaboração com a DSFP, as acções necessárias à realização dos concursos regionais de formação profissional e a sua participação nos respectivos concursos nacionais e internacionais.\n\n2 - Na dependência da DSAFP funcionam a Divisão de Gestão de Recursos Humanos (DGRH), a Divisão de Gestão Financeira (DGF), a Divisão de Aprovisionamento e Património (DAP) e o Departamento de Serviços Administrativos (DSA).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+  },
+  "942970265": {
+   "fragment_id": "942970148",
+   "type": 11,
+   "heading": "Artigo 17.º — Atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+   ],
+   "markdown": "###### Artigo 17.º — Atribuições\n\n1 - À DGF compete, designadamente:\n\na) Assegurar a gestão dos meios humanos e materiais e dirigir e coordenar os recursos financeiros que lhe estão afectos;\n\nb) Organizar as actividades da Divisão de acordo com o plano definido para a DRFP;\n\nc) Coordenar, em estreita colaboração com a repartição respectiva, as secções de processamento e tesouraria por forma a promover a elaboração das contas de gerência anuais;\n\nd) Assegurar o apoio técnico às diferentes áreas de intervenção da DRFP no âmbito das suas competências, tendo em vista o controlo da regularidade financeira e a eficácia das despesas efectuadas;\n\ne) Orientar e gerir a verificação dos processos e documentos respeitantes à gestão orçamental;\n\nf) Executar todas as demais tarefas que decorram do normal desempenho das suas funções.\n\n2 - Na dependência da DGF funciona o Departamento de Controlo Orçamental e Financeiro (DCOF).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+  },
+  "942970266": {
+   "fragment_id": "942970149",
+   "type": 11,
+   "heading": "Artigo 18.º — Departamento de Controlo Orçamental e Financeiro",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+   ],
+   "markdown": "###### Artigo 18.º — Departamento de Controlo Orçamental e Financeiro\n\n1 - Ao DCOF compete, designadamente:\n\na) Coordenar e orientar os serviços que funcionam na sua dependência;\n\nb) Assegurar o expediente relativo às requisições de duodécimos do Orçamento da Região na parte relativa à DRFP;\n\nc) Conferir, controlar e processar as despesas;\n\nd) Manter actualizado o registo diário de facturas oficialmente adoptado;\n\ne) Proceder às aquisições necessárias, nos termos da legislação em vigor;\n\nf) Manter actualizado o registo de vencimentos do pessoal;\n\ng) Desempenhar outras funções de natureza financeira de que seja superiormente incumbida.\n\n2 - O DCOF integra duas secções:\n\na) Secção de Processamento e Tesouraria (SPT);\n\nb) Secção de Controlo Orçamental (SCO).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+  },
+  "942970267": {
+   "fragment_id": "942970153",
+   "type": 11,
+   "heading": "Artigo 20.º — Atribuições",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+   ],
+   "markdown": "###### Artigo 20.º — Atribuições\n\n1 - Ao DSA compete, nomeadamente:\n\na) Coordenar e orientar todas as funções administrativas da DRFP, de modo a assegurar uma maior funcionalidade dos serviços;\n\nb) Promover, em articulação com os diversos sectores, um sistema uniforme de procedimentos que visem garantir a homogeneidade da DRFP nesta área;\n\nc) Implementar o levantamento das necessidades de formação, propondo, na área administrativa, as acções necessárias através da elaboração de um plano anual de formação, em articulação com a DGRH;\n\nd) Promover a racionalização e simplificação da documentação visando a informatização dos serviços e a implementação das aplicações necessárias, em colaboração com os restantes serviços da DRFP;\n\ne) Coordenar e orientar as secções referidas no número seguinte;\n\nf) Assegurar todos os procedimentos administrativos relativos a assuntos de expediente geral e arquivo;\n\ng) Proceder à divulgação de circulares, instruções ou outras normas de carácter genérico destinadas aos serviços da DRFP;\n\nh) Organizar e gerir a sala de documentação;\n\ni) Organizar e gerir o arquivo corrente;\n\nj) Coordenar os serviços de reprografia;\n\nl) Executar todas as demais funções que no âmbito da sua área de intervenção decorram do normal desempenho das suas funções\n\n2 - O DSA integra duas secções:\n\na) Secção de Expediente Geral (SEG);\n\nb) Secção de Documentação e Arquivo (SDA).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+  },
+  "942970269": {
+   "fragment_id": "942957777",
+   "type": 11,
+   "heading": "Artigo 22.º-A — Regras de transição a chefes de departamento",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+   ],
+   "markdown": "###### Artigo 22.º-A — Regras de transição a chefes de departamento\n\n1 - Os chefes de repartição transitam, independentemente de quaisquer formalidades, para a categoria de chefe de departamento.\n\n2 - A transição faz-se para índice igual ou imediatamente superior àquele em que actualmente se encontra posicionado.\n\n3 - Quando da transição resultar um impulso igual ou inferior a 10 pontos, o tempo de serviço no escalão de origem conta para efeito de progressão na nova categoria.\n\n4 - A transição produz efeitos a partir da data de integração na nova categoria.\n\n5 - Os lugares de chefe de departamento são a extinguir quando vagarem.\n\n6 - O disposto no presente artigo não prejudica a faculdade de os actuais chefes de repartição optarem pela integração na carreira técnica superior, nos termos do disposto no artigo 18.º do Decreto-Lei n.º 404-A/98, de 18 de Dezembro, na redacção dada pela Lei n.º 44/99, de 11 de Junho.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+  },
+  "942970270": {
+   "fragment_id": "942970157",
+   "type": 11,
+   "heading": "Artigo 23.º — Concursos e estágios pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Concursos e estágios pendentes\n\n1 - Os concursos pendentes à data da entrada em vigor deste diploma mantêm a respectiva validade, sendo os lugares a prover os constantes do quadro anexo.\n\n2 - Os actuais estagiários prosseguem os respectivos estágios, transitando, findos os mesmos e se neles obtiverem aproveitamento, para as categorias objecto dos respectivos concursos e constantes do mapa anexo ao presente diploma."
+  },
+  "942970271": {
+   "fragment_id": "942970158",
+   "type": 11,
+   "heading": "Artigo 24.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Disposições finais e transitórias\n\n1 - O recrutamento para ingresso nas carreiras de operador de reprografia e de auxiliar de limpeza far-se-á mediante concurso de entre indivíduos habilitados com a escolaridade obrigatória.\n\n2 - O recrutamento, ingresso e acesso para a categoria de auxiliar de apoio e vigilância processa-se nos termos do Decreto-Lei n.º 109/82, de 20 de Outubro, aplicado à Região pela Resolução n.º 1123/82, de 31 de Dezembro, sendo as remunerações as constantes do anexo n.º 4 ao Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n3 - A categoria de encarregado de armazém, cujos lugares serão extintos à medida que vagarem, será remunerada pelos escalões correspondentes à categoria de encarregado de pessoal operário qualificado.\n\n4 - O recrutamento para a carreira de cozinheiro, inserida no grupo de pessoal auxiliar, obedece às seguintes regras:\n\na) O acesso à categoria de cozinheiro-chefe efectua-se de entre cozinheiros que possuam pelo menos cinco anos com classificação não inferior a Bom;\n\nb) Os lugares de cozinheiro são providos de entre ajudantes de cozinha com pelo menos cinco anos de serviço classificados, no mínimo, de Bom;\n\nc) Os lugares de ajudante de cozinha são providos de entre indivíduos habilitados com a escolaridade obrigatória.\n\n5 - O recrutamento para a carreira de monitor de formação profissional, integrada no grupo de pessoal técnico-profissional, nível 4, obedece às seguintes regras:\n\na) Monitor de formação profissional especialista, de entre monitores de formação profissional principais com pelo menos três anos na respectiva categoria, classificados de Muito bom, ou cinco anos, classificados no mínimo, de Bom;\n\nb) Monitor de formação profissional principal e de 1.ª classe, de entre, respectivamente, monitores de formação profissional de 1.ª classe e de 2.ª classe com um mínimo de três anos na respectiva categoria classificados de Bom;\n\nc) Monitor de formação profissional de 2.ª classe, de entre indivíduos diplomados com um curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade.\n\n6 - Enquanto não forem criados oficialmente os cursos técnico-profissionais necessários, o recrutamento para as categorias da carreira de monitor de formação profissional far-se-á de entre indivíduos com experiência profissional comprovada e habilitados com o curso complementar do ensino secundário ou equivalente, acrescido de um curso de formação adequado.\n\n7 - O recrutamento para as categorias da carreira de técnico de emprego, integrada no grupo de pessoal técnico-profissional, nível 4, obedece às seguintes regras:\n\na) Técnico de emprego especialista, de entre técnicos de emprego principais com pelo menos três anos na categoria, classificados de Muito bom, ou cinco anos, classificados, no mínimo, de Bom;\n\nb) Técnico de emprego principal, técnico de emprego especial e técnico de emprego de 1.ª classe, de entre, respectivamente, técnicos de emprego especiais e técnicos de emprego de 1.ª classe e de 2.ª classe com um mínimo de três anos na respectiva categoria, classificados de Bom;\n\nc) Técnico de emprego de 2.ª classe, de entre indivíduos diplomados com um curso técnico-profissional adequado com duração não inferior a três anos, para além de nove anos de escolaridade, ou de entre indivíduos habilitados com o curso complementar do ensino liceal ou equivalente e, em qualquer dos casos, com um curso de formação adequado.\n\n8 - O ingresso na carreira de monitor de formação profissional é precedido de um estágio nos termos do estabelecido no artigo 5.º do Decreto-Lei n.º 265/88, de 28 de Julho, conjugado com a alínea c) do n.º 2 do artigo 15.º e com o artigo 24.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 353-A/89, de 16 de Outubro, diplomas estes adaptados à Região Autónoma da Madeira, respectivamente, pelo Decreto Legislativo Regional n.º 4/89/M, de 15 de Fevereiro, e Decreto Regulamentar Regional n.º 2/90/M, de 2 de Março.\n\n9 - O estágio para ingresso na carreira de monitor de formação profissional e de técnico de emprego integra um curso de formação profissional, conforme o previsto no n.º 8 e na alínea c) do n.º 7 do artigo 32.º do presente diploma, cujos programas serão aprovados por despacho conjunto do secretário regional que detiver a tutela sobre a Administração Pública e do Secretário Regional de Educação.\n\n10 - Os monitores de formação profissional e os técnicos de emprego estagiários são remunerados de acordo com o sistema retributivo constante do anexo ao presente diploma, sem prejuízo do direito de opção pelo vencimento do lugar de origem no caso de se tratar de pessoal já vinculado à função pública.\n\n11 - Os estagiários a que se refere o número anterior, independentemente da carreira a que se destinam, quando funcionários, são nomeados em comissão de serviço extraordinário durante o período de estágio.\n\n12 - O ingresso e acesso das carreiras de monitor de formação profissional e de técnico de emprego obedecem ao regime geral de recrutamento e selecção de pessoal aplicável à função pública e às normas previstas no presente diploma.\n\n13 - A carreira de coordenador desenvolve-se pelas categorias de coordenador e de coordenador especialista.\n\n14 - O recrutamento para as categorias de coordenador especialista e de coordenador obedece às seguintes regras:\n\na) Coordenador especialista, de entre coordenadores com um mínimo de três anos na categoria, classificados de Bom;\n\nb) Coordenador, de entre oficiais administrativos com um mínimo de três anos na respectiva carreira, classificados de Bom, e com experiência na área administrativa.\n\n15 - O desenvolvimento do índice remuneratório da carreira de coordenador é o estabelecido no anexo I ao Decreto Regulamentar Regional n.º 21/91/M, de 17 de Setembro, com as alterações introduzidas pelo Decreto Regulamentar Regional n.º 20/92/M, de 17 de Agosto."
+  },
+  "942970272": {
+   "fragment_id": "942970159",
+   "type": 11,
+   "heading": "Artigo 25.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Regime\n\nAs condições de ingresso, acesso e carreira profissional, provimento e suas formas do pessoal da DRFP abrangido pelo presente diploma são os estabelecidos na legislação nacional e regional aplicável."
+  },
+  "942970268": {
+   "fragment_id": "942970160",
+   "type": 14,
+   "heading": "Anexo — Direcção Regional de Formação Profissional Quadro de pessoal",
+   "in_force_from": "2000-03-22",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+   ],
+   "markdown": "## Anexo — Direcção Regional de Formação Profissional Quadro de pessoal\n\n(a que se refere o n.º 2 do artigo 21.º)\n\n(ver quadro no documento original)\n\n> Alterado pelo/a Anexo do/a [Decreto Regulamentar Regional n.º 9/2000/M - Diário da República n.º 68/2000, Série I-B de 2000-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2000-515270), em vigor a partir de 2000-03-22"
+  }
+ }
+}

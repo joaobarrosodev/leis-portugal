@@ -1,0 +1,303 @@
+---
+schema_version: '1.0'
+id: pt:dre:507453:por
+title: Portaria n.º 123/76
+short_title: null
+summary: Aprova as instruções relativas às fichas de informação, ordenação e promoção do pessoal civil da Força Aérea
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Força Aérea
+proposing_entity: null
+official_number: 123/76
+official_date: null
+publication_date: '1976-03-06'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 56/1976, Série I de 1976-03-06
+  number: '56'
+  series: I
+  supplement: null
+  pages: 467 - 476
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/03/05600/04670476.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '507453'
+  dre_path: /dr/detalhe/portaria/123-1976-507453
+  internal: pt:dre:507453:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-1976-507453
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/123-1976-507453
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-09-22T00:00:00Z'
+integrity:
+  source_sha256: f6c0dea1949e9344f618164ac389e530b44e694c9a16da378ea1fcf94399867e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-123-507453.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:365524:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 123/76
+
+de 6 de Março
+
+Considerando a necessidade de criar as disposições que regulem as formas de promoção dos novos quadros orgânicos do pessoal civil da Força Aérea promulgadas pelo [Decreto-Lei n.º 54/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-1976-506003), de 22 de Janeiro, e regulamentadas pela [Portaria n.º 71/76](https://diariodarepublica.pt/dr/detalhe/portaria/71-1976-506782), de 10 de Fevereiro:
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o seguinte:
+
+§ único. Aprovar e pôr em execução as instruções relativas às fichas de informação, ordenação e promoção do pessoal civil da Força Aérea, anexas à presente portaria.
+
+Estado-Maior da Força Aérea, 18 de Fevereiro de 1976. - O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.
+
+Instruções relativas às fichas de informação, ordenação e promoção do pessoal civil da Força Aérea
+
+1.ª - 1. As fichas de informação dos civis da Força Aérea contêm informações úteis acerca do modo como os apreciados executam as tarefas de que são incumbidos e destinam-se essencialmente a:
+
+a) Dar continuidade ao processo apreciativo dos funcionários;
+
+b) Facilitar a melhor apreciação dos funcionários, mormente nas actividades inerentes aos quadros respectivos;
+
+c) Permitir o estudo do valor dos funcionários no conjunto de cada quadro, no sentido de melhorar as normas reguladoras do seu ingresso e valorização;
+
+d) Verificar as condições de promoção e seleccionar os mais aptos.
+
+2. As fichas de informação não podem servir de fundamento de acções disciplinares.
+
+2.ª - 1. A apreciação fundamentar-se-á na observação directa, objectiva e continuada dos apreciados.
+
+2. Tal observação deve visar essencialmente as qualidades pessoais mais relevantes e seus reflexos na eficiência do trabalho e também o desempenho efectivo das tarefas profissionais.
+
+3. Os responsáveis pela apreciação devem contudo esforçar-se por obter informações significativas do maior número possível de origens e em especial do pessoal que trabalha directamente com o informado.
+
+4. As fichas de informação referem-se a determinado período da vida profissional dos funcionários e o seu preenchimento não deve, portanto, ser influenciado pelo conteúdo de fichas anteriores.
+
+3.ª As fichas de informação classificam-se em:
+
+a) Periódicas, se elaboradas a título normal em relação à totalidade ou parte de período determinado;
+
+b) Eventuais, se elaboradas a título extraordinário em relação a período variável.
+
+4.ª As fichas de informação são confidenciais.
+
+5.ª Os comandantes, directores ou chefes são responsáveis por que os informantes e os responsáveis pelos registos do pessoal tenham conhecimento completo destas instruções, a fim de que as fichas sejam elaboradas com exactidão e oportunidade.
+
+6.ª As fichas de informação são do modelo I anexo a esta portaria e compreendem três partes:
+
+a) I - Identificação;
+
+b) II - Apreciação;
+
+c) III - Pareceres.
+
+7.ª - 1. A identificação inclui os dados suficientes para identificar o informado e definir a ficha e é preenchida pelo pessoal responsável pelos registos antes de a ficha ser enviada ao chefe directo do informado.
+
+2. O período coberto pela apreciação é o número inteiro aproximado de meses, dentro do período coberto pela ficha, em que o informado esteve oficial e efectivamente em situação de poder ser apreciado pelo informador.
+
+8.ª - 1. A apreciação compreende uma análise, seguida de síntese, coerente com a primeira, e ainda observações. É preenchida pelo chefe directo do informado.
+
+2. A parte analítica é composta por dez factores, a que correspondem as qualidades ou capacidades a avaliar.
+
+3. Os factores são divididos em cinco graus, sumariamente descritos, que definem níveis ou intensidades atribuíveis pelos chefes informantes. Aos factores correspondem pontuações de 1 a 5.
+
+4. As observações destinam-se a:
+
+a) Justificar apreciações que assim o requeiram. São obrigatoriamente justificadas todas as apreciações ou observações de que resulte a impossibilidade de promoção do funcionário (instrução 21.ª);
+
+b) Incluir informações pertinentes que completem a apreciação ou a tornem mais elucidativa;
+
+c) Sugerir funções futuras de modo claro e fundamentado;
+
+d) Informar acerca de qualquer inaptidão física e psíquica, com base na opinião do médico da unidade ou serviço, ou referir a intervenção da junta de saúde que tenha sido solicitada.
+
+9.ª - 1. Os pareceres serão obrigatoriamente elaborados pelos chefes hierarquicamente superiores e os comandantes, que devem:
+
+a) Registar o seu acordo ou desacordo com a apreciação precedente; no caso de não concordarem com algumas das opiniões expressas, inscrevem as suas iniciais nos rectângulos que seleccionarem ou por cima deles se estiverem preenchidos por outrem;
+
+b) Esclarecer por comentários apropriados qualquer dos seguintes casos:
+
+1) Divergências de dois ou mais pontos correspondentes a um mesmo factor de apreciação;
+
+2) Divergências de um ponto em quatro ou mais factores de apreciação diferentes;
+
+c) Justificar as apreciações ou comentários de que resulte a impossibilidade de promoção do funcionário (instrução 21.ª);
+
+d) Incluir quaisquer informações do seu conhecimento que possam contribuir para completar a avaliação.
+
+2. Bons pareceres são os que descrevem de modo claro e conciso como o apreciado se desempenhou das suas funções e não os que acumulam adjectivos para descrever a personalidade desse funcionário; os que incidem nos aspectos positivos ou negativos da acção do apreciado que acrescentem ou diminuam o seu valor como componente da Força Aérea; os que citam factos.
+
+3. Quando o espaço reservado para os pareceres for de todo insuficiente ou quando existam outros informadores além do terceiro, serão utilizadas folhas adicionais do modelo II anexo.
+
+10.ª - 1. O chefe directo deve obter oficialmente, por escrito, da pessoa idónea para o efeito, informações esclarecedoras da actuação dos informados quando se verificarem as circunstâncias a seguir indicadas:
+
+a) Os informados exerçam funções em local geograficamente afastado do local de trabalho do chefe directo e a observação deste se tenha, por isso, de limitar a relatórios e visitas pouco frequentes;
+
+b) Os informados exerçam funções adicionais ou a título transitório, sob a direcção de outrem.
+
+2. As informações referidas são preparadas em folhas de avaliação do modelo II anexo e devem ser apensas às fichas de apreciação correspondentes.
+
+11.ª Quando os funcionários prestam serviço regularmente em organizações a que não pertençam são apreciados nas mesmas condições pelos chefes directos de quem dependem para efeitos da prestação desse serviço.
+
+12.ª Sempre que houver vários indivíduos do mesmo órgão ou unidade a ser apreciados por informantes diferentes, deverão os directores ou comandantes reunir os informadores a fim de poderem coordenar e uniformizar critérios.
+
+13.ª - 1. Depois de preenchida a ficha, no caso de haver apreciações ou comentários que estejam nas condições mencionadas na instrução 21.ª, o director ou comandante deve mandar dar conhecimento do facto ao funcionário informado, por meio de nota elaborada segundo o modelo III anexo, à qual será junto extracto da ficha constituído exclusivamente pela matéria susceptível de originar reclamação ou recurso, e justificação correspondente.
+
+2. Quando não houver reclamação, promover o envio da ficha, da nota acima mencionada e do extracto que a acompanhou à entidade competente.
+
+3. Quando houver reclamação dentro do prazo legal, deverá proceder do seguinte modo:
+
+a) No caso de a reclamação ter sido motivada só por apreciação ou parecer da sua responsabilidade directa, deverá:
+
+1) Mandar reunir, no prazo de três dias, uma comissão composta por dois oficiais por si nomeados e dois funcionários civis eleitos pelo pessoal civil do órgão ou unidade, para apreciarem a reclamação e emitirem um parecer escrito na folha de avaliação modelo II em anexo;
+
+2) Considerando este parecer e todos os outros que já possui, analisar a reclamação e ou julgá-la improcedente, ou atendê-la no todo ou em parte, e preparar ficha correctiva correspondente para juntar ao processo;
+
+3) Lançar a decisão devidamente fundamentada na própria reclamação e dá-la a conhecer ao informado;
+
+4) Quer o informado interponha recurso quer não, promover o envio do processo completo à entidade competente;
+
+b) No caso de a reclamação ter sido motivada por apreciações ou pareceres de outros informadores, deverá:
+
+1) Chamar esses informadores e mostrar-lhes a reclamação;
+
+2) Caso estes a atendam, promover que preparem ficha correctiva correspondente para juntar ao processo e proceder ao envio deste à entidade responsável;
+
+3) Caso estes não a atendam, proceder como indicado na alínea a), n.º 1). Os informadores reclamados procedem como indicado na alínea a), n.os 2) e 3), mas o director ou comandante deve acrescentar a sua opinião;
+
+4) Quer o informado interponha recurso quer não, promover o envio do processo completo à entidade competente.
+
+14.ª - 1. As acções a executar pelo funcionário, pelas vias competentes, são as seguintes:
+
+a) Tomar conhecimento da nota referida na instrução 13.ª e declarar, por escrito, se pretende ou não usar do direito de reclamação;
+
+b) Devolvê-la juntamente com o extracto da ficha e, se assim o tiver declarado, também com a reclamação escrita, no prazo de cinco dias a contar daquele em que tiver conhecimento da nota;
+
+c) Se tiver reclamado:
+
+1) Tomar conhecimento, na própria reclamação, da decisão sobre ela lançada pelo reclamado e declarar, por escrito, se pretende usar do direito de recurso, caso não se conforme com aquela decisão;
+
+2) Devolver a reclamação e, se assim o tiver declarado, também o recurso escrito, no prazo de cinco dias contados a partir daquele em que tomou conhecimento da decisão mencionada na alínea anterior.
+
+2. A reclamação é dirigida ao chefe informante e pode ser instruída com documentação pertinente; não é, contudo, permitido exceder o prazo estipulado no n.º 1, alínea b), sob pretexto de impossibilidade de obtenção oportuna de quaisquer documentos ou depoimentos.
+
+3. O recurso é dirigido ao Subchefe do Estado-Maior da Força Aérea (Pessoal).
+
+4. Da decisão do Subchefe do Estado-Maior da Força Aérea (Pessoal) poderá ainda haver novo recurso para o Conselho Superior de Disciplina da Força Aérea.
+
+15.ª A periodicidade das fichas de apreciação será anual. Todavia, sempre que haja transferência do informado, deverá ser preenchida uma ficha extraordinária. O tempo mínimo de convivência entre o informador e o informado, para efeito de preenchimento de fichas, deverá ser de quatro meses.
+
+16.ª A utilização das fichas incumbe aos oficiais da Direcção do Serviço de Pessoal a isso autorizados e, se preciso, ainda a outros órgãos competentes para o efeito.
+
+17.ª Todas as informações são centralizadas na Direcção do Serviço de Pessoal, a quem compete verificar o preenchimento das fichas, analisar, coordenar e controlar os critérios utilizados nos diferentes órgãos e unidades, perante os quais poderá ter de aplicar factores de correcção, do que será dado conhecimento aos directores e comandos respectivos, a fim de se conseguir uma melhor uniformidade de critérios.
+
+18.ª As promoções dos funcionários civis serão feitas conforme as vagas existentes e com base no mérito (a avaliar pela ficha, cursos e provas) e antiguidade na categoria e classe.
+
+19.ª - 1. As promoções a determinadas categorias serão dependentes de cursos e provas a estabelecer por despacho do Chefe do Estado-Maior da Força Aérea.
+
+2. No corrente ano, dada a impossibilidade de organizar cursos para as promoções, ficam os funcionários dispensados dos mesmos.
+
+20.ª A ordenação para a promoção será feita de acordo com o seguinte critério:
+
+a) Para as promoções a chefe de secção, desenhador-chefe, mestre e contramestre será aplicada a fórmula
+
+P = (3 x A) + M
+
+b) Para as restantes categorias, a fórmula será
+
+P = (5 x A) + M
+
+sendo:
+
+P = pontuação total;
+
+A = anos completos (365 dias) de serviço (efectivo) na categoria;
+
+M = somatório dos pontos da ficha de informação.
+
+21.ª - 1. Não podem ser promovidos à categoria imediata, qualquer que seja a sua antiguidade e pontuação, os funcionários que nas fichas de informação tiverem qualquer uma destas condições:
+
+a) Pontuação inferior a 3 simultaneamente nas alíneas a), c), d), e) e i) da apreciação;
+
+b) Pontuação inferior a 2 em qualquer das alíneas da apreciação;
+
+c) Qualquer observação ou parecer que envolva informação de:
+
+1) Incúria grave na utilização de bens públicos;
+
+2) Procedimento incompatível com a integridade ou exigências da ordem moral.
+
+2. O factor de apreciação «Expressão oral e escrita» só será considerado para a promoção a chefe de secção, primeiro-oficial, contabilista de 1.ª classe, enfermeiro-chefe, enfermeiro-subchefe, tradutor-correspondente, técnico de classificação de material de 1.ª classe, chefe de armazém, mestre e contramestre.
+
+22.ª Para que um funcionário possa ultrapassar outro mais antigo será necessário que a soma dos seus pontos, segundo o critério indicado na instrução 20.ª, seja superior a 4 em relação ao ultrapassado.
+
+23.ª - 1. A Direcção do Serviço de Pessoal elaborará uma lista de ordenação hierárquica do pessoal de acordo com o critério «antiguidade-mérito» (instrução 20.ª)
+
+2. Essa lista será posta à disposição em todos os órgãos ou unidades para conhecimento dos interessados.
+
+3. Posteriormente, embora a Direcção do Serviço de Pessoal continue a elaborar listas de ordenação anual, apenas comunicará individualmente aos interessados nos casos em que houver ultrapassagem na escala hierárquica e na altura em que haja necessidade de se efectuar uma promoção que envolva tal situação.
+
+24.ª - 1. Os funcionários que não se considerem satisfeitos com a ordenação atribuída na lista indicada na instrução 23.ª, n.º 2, ou nos casos mencionados na instrução 23.ª, n.º 3, têm direito a reclamar no prazo de cinco dias a contar daquele em que tomarem conhecimento do facto.
+
+2. Nestes casos, podem ainda ter acesso, a seu pedido, a todas as fichas de informação até à data, preenchidas a seu respeito.
+
+3. A reclamação é dirigida ao Subchefe do Estado-Maior da Força Aérea (Pessoal) e entregue, pelas vias competentes, à Direcção do Serviço de Pessoal dentro do prazo estabelecido.
+
+4. Da decisão do Subchefe do Estado-Maior da Força Aérea (Pessoal) pode ainda haver recurso para o Conselho Superior de Disciplina da Força Aérea.
+
+25.ª - 1. Sempre que ocorra uma vaga que obrigue necessariamente a uma transferência de órgão ou unidade, embora a promoção deva recair no primeiro da lista de ordenação, este pode declinar em favor do imediatamente a seguir e assim sucessivamente.
+
+2. Neste caso, os indivíduos que declinaram a promoção serão ultrapassados pelos que forem promovidos, mantendo, no entanto, a sua posição na lista para futuras promoções.
+
+26.ª Estas instruções entram imediatamente em vigor.
+
+## Anexo à Portaria n.º 123/76, de 6 de Março
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1976/03/05600/04670476.pdf))](https://files.diariodarepublica.pt/1s/1976/03/05600/04670476.pdf)
+
+**O Chefe do Estado-Maior da Força Aérea, José Alberto Morais da Silva, general.**

@@ -1,0 +1,255 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:381559:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1984-890193330",
+ "dre_path": "/dr/detalhe/despacho-normativo/131-1984-381559",
+ "source_lastmod": "2024-10-07",
+ "versions": [
+  {
+   "date": "1984-07-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "890193794"
+   ]
+  },
+  {
+   "date": "1984-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:446485:por",
+     "title": "Declaração",
+     "published": "1984-10-31",
+     "dre_path": "/dr/detalhe/declaracao/1984-446485"
+    }
+   ],
+   "changes": [
+    "Retifica Norma XI"
+   ],
+   "fragments": [
+    "890193794",
+    "890193817",
+    "890193797",
+    "890193795",
+    "890193796",
+    "890193798",
+    "890193799",
+    "890193800",
+    "890193801",
+    "890193802",
+    "890193803",
+    "890193804",
+    "890193805",
+    "890193820",
+    "890193807",
+    "890193808",
+    "890193809",
+    "890193810",
+    "890193811",
+    "890193812",
+    "890193813",
+    "890193814",
+    "890193815",
+    "890193816"
+   ]
+  }
+ ],
+ "fragments": {
+  "890193794": {
+   "fragment_id": "890193331",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 131/84\n\nEm conformidade com o disposto no artigo 4.º do Decreto-Lei n.º 350/81, de 23 de Dezembro, a entrada em funcionamento dos edifícios destinados a estabelecimentos que se integram no âmbito do citado diploma e a sua alteração ou remodelação dependem de vistoria prévia a efectuar pelo centro regional de segurança social da área da respectiva localização.\n\nPor outro lado, o artigo 6.º do Decreto Regulamentar n.º 69/83, de 16 de Julho, determina que a concessão de alvará depende da verificação das condições de instalação e funcionamento legalmente previstas.\n\nNestes termos, ao abrigo do disposto no artigo 16.º do Decreto-Lei n.º 350/81, de 23 de Dezembro, e no artigo 6.º do Decreto Regulamentar n.º 69/83, de 16 de Julho, aprovo as normas anexas a este despacho, que regulam as condições de instalação e funcionamento de infantários e jardins-de-infância com fins lucrativos."
+  },
+  "890193817": {
+   "fragment_id": "890193357",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Secretaria de Estado da Segurança Social, 22 de Junho de 1984. - A Secretária de Estado da Segurança Social, Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares."
+  },
+  "890193797": {
+   "fragment_id": "890193335",
+   "type": 14,
+   "heading": "Anexo — Normas reguladoras das condições de instalação e funcionamento dos infantários e jardins-de-infância com fins lucrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Normas reguladoras das condições de instalação e funcionamento dos infantários e jardins-de-infância com fins lucrativos"
+  },
+  "890193795": {
+   "fragment_id": "890193332",
+   "type": 11,
+   "heading": "Norma I — (Âmbito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma I — (Âmbito)\n\n1 - As presentes normas visam regulamentar as condições mínimas para instalação e funcionamento dos infantários e jardins-de-infância com fins lucrativos, em complemento das disposições constantes do Decreto-Lei n.º 350/81, de 23 de Dezembro, e do Decreto Regulamentar n.º 69/83, de 16 de Julho.\n\n2 - Para efeitos do número anterior, consideram-se infantários e jardins-de-infância os estabelecimentos que acolham um número igual ou superior a 5 crianças."
+  },
+  "890193796": {
+   "fragment_id": "890193333",
+   "type": 11,
+   "heading": "Norma II — (Objectivos dos estabelecimentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma II — (Objectivos dos estabelecimentos)\n\nSão objectivos específicos dos infantários e jardins-de-infância:\n\na) Proporcionar às crianças oportunidades que facilitem o seu desenvolvimento físico-emocional, intelectual e social, através de apoios adequados, individuais ou em grupo, adaptados à expressão das suas necessidades;\n\nb) Colaborar com a família numa participação efectiva e permanente no processo educativo da criança;\n\nc) Compensar deficiências físicas, sociais ou culturais, bem como despistar inadaptações ou deficiências."
+  },
+  "890193798": {
+   "fragment_id": "890193336",
+   "type": 11,
+   "heading": "Norma III — (Condições gerais de localização e instalação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma III — (Condições gerais de localização e instalação)\n\nA localização e instalação dos infantários e jardins-de-infância devem obedecer às seguintes condições gerais:\n\na) Situar-se de preferência afastados de complexos industriais, zonas ruidosas ou insalubres e outras que pela sua natureza possam pôr em causa a integridade física ou psíquica das crianças;\n\nb) Ocupar de preferência todo o edifício onde sejam instalados e, quando a ocupação seja parcial, salvaguardar as condições necessárias de independência das áreas utilizadas;\n\nc) Nos casos de instalação em parte do edifício, ocupar de preferência o rés-do-chão e, quando seja indispensável utilizar andares superiores, esta utilização não deve ir além do 2.º andar, devendo ser asseguradas condições de acesso adequadas, devidamente protegidas, bem como condições de evacuação rápida em caso de sinistro;\n\nd) Dispor de dimensões adequadas ao número de utentes;\n\ne) Possuir boa ventilação e adequada exposição solar."
+  },
+  "890193799": {
+   "fragment_id": "890193337",
+   "type": 11,
+   "heading": "Norma IV — (Condições de instalação específicas dos infantários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma IV — (Condições de instalação específicas dos infantários)\n\nOs infantários devem compreender os seguintes compartimentos específicos, nos termos estabelecidos nas normas seguintes: berçários, salas de jogos e actividades, cozinha, copa e zona de higienização."
+  },
+  "890193800": {
+   "fragment_id": "890193338",
+   "type": 11,
+   "heading": "Norma V — (Berçários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma V — (Berçários)\n\n1 - Berçário é o espaço destinado à permanência das crianças mais pequenas e deve ser constituído por uma sala de berços e uma sala-parque, com comunicação entre si por meio de portas ou divisórias envidraçadas, por forma a permitir observação permanente.\n\n2 - A sala de berços, que se destina aos tempos de repouso das crianças, poderá ter a capacidade máxima de 8 a 10 berços individuais, de acordo com a idade das crianças, e dispor de arejamento e iluminação naturais, boa exposição solar e um sistema de obscurecimento.\n\n3 - Os berços devem encontrar-se dispostos por forma a permitir o fácil acesso e a circulação dos adultos.\n\n4 - A sala-parque, com uma área mínima de 2 m2 por criança, destina-se aos tempos activos das crianças e deve ser equipada com uma bancada para os cuidados de higiene, munida de água corrente quente e fria."
+  },
+  "890193801": {
+   "fragment_id": "890193339",
+   "type": 11,
+   "heading": "Norma VI — (Sala de actividades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma VI — (Sala de actividades)\n\n1 - A sala de jogos e actividades, que se destina ao desenvolvimento de actividades lúdicas e pedagógicas, poderá ser também utilizada como espaço de repouso, quando este não exista autonomamente, e excepcionalmente como sala de refeições.\n\n2 - Cada grupo de 15 crianças com mais de 24 meses deverá dispor de uma sala de actividades, cuja área mínima aproximada deverá ser de 2 m2 por criança.\n\n3 - As salas de actividades devem dispor de arejamento, iluminação natural e boa exposição solar."
+  },
+  "890193802": {
+   "fragment_id": "890193340",
+   "type": 11,
+   "heading": "Norma VII — (Copa e zona de higienização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma VII — (Copa e zona de higienização)\n\n1 - A copa de leites, que se destina exclusivamente à preparação dos biberões e papas, pode ser de reduzida dimensão e deverá estar equipada com uma bancada de trabalho, um frigorífico pequeno, um lava-loiça, um pequeno fogão eléctrico e um aquecedor de biberões.\n\n2 - A zona de higienização deve ser constituída por 2 espaços distintos:\n\na) Um equipado com lavatório e sanitas adequados, na proporção de 1 para cada grupo de 10 crianças com mais de 2 anos;\n\nb) O outro disporá de uma bancada com bacia munida de chuveiro manual com água corrente quente e fria.\n\n3 - Caso o infantário funcione autonomamente, deverá existir ainda uma cozinha."
+  },
+  "890193803": {
+   "fragment_id": "890193341",
+   "type": 11,
+   "heading": "Norma VIII — (Condições de instalações específicas dos jardins-de-infância)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma VIII — (Condições de instalações específicas dos jardins-de-infância)\n\nOs jardins-de-infância devem compreender, como compartimentos específicos, salas de actividades e instalações sanitárias, nos termos das normas seguintes."
+  },
+  "890193804": {
+   "fragment_id": "890193342",
+   "type": 11,
+   "heading": "Norma IX — (Salas de actividades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma IX — (Salas de actividades)\n\n1 - As salas de actividades destinam-se essencialmente a actividades recreativas e pedagógicas, mas podem também ser utilizadas como espaço de repouso ou de refeições, quando estes não existam autonomamente.\n\n2 - A área mínima aproximada de cada sala deve ser de 2 m2 por criança e destinar-se-á a um número máximo de 25 crianças.\n\n3 - Sempre que a capacidade do estabelecimento justifique uma sala para um grupo homogéneo de crianças com 3 anos de idade, a sua capacidade normal não deve ultrapassar as 15 crianças.\n\n4 - Em qualquer caso, as salas devem ser bem iluminadas e arejadas e dispor de acessos fáceis à zona de ar livre."
+  },
+  "890193805": {
+   "fragment_id": "890193343",
+   "type": 11,
+   "heading": "Norma X — (Instalações sanitárias)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma X — (Instalações sanitárias)\n\nAs instalações sanitárias devem ser equipadas com lavatórios pequenos, na proporção de 1 para cada grupo de 5 crianças, sanitas adequadas, na proporção de 1 para cada 10 crianças, e um polibain ou banheira com chuveiro manual."
+  },
+  "890193820": {
+   "fragment_id": "890193344",
+   "type": 11,
+   "heading": "Norma XI — (Áreas comuns a infantários e jardins-de-infância)",
+   "in_force_from": "1984-10-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário da República n.º 253/1984, 2º Suplemento, Série I de 1984-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-446485), em vigor a partir de 1984-10-31"
+   ],
+   "markdown": "###### Norma XI — (Áreas comuns a infantários e jardins-de-infância)\n\n1 - As instalações dos infantários e jardins-de-infância devem ainda compreender áreas comuns, nos termos da norma seguinte, respectivamente para acolhimento, vestiário, alimentação, isolamento, ocupação ao ar livre e instalações de pessoal\n\n2 - As áreas comuns podem servir simultaneamente os infantários e jardins-de-infância quando acopulados.\n\n> Retificado pelo/a [Declaração - Diário da República n.º 253/1984, 2º Suplemento, Série I de 1984-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1984-446485), em vigor a partir de 1984-10-31"
+  },
+  "890193807": {
+   "fragment_id": "890193345",
+   "type": 11,
+   "heading": "Norma XII — (Caracterização das áreas comuns)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma XII — (Caracterização das áreas comuns)\n\n1 - A área para acolhimento, que se destina à recepção das crianças e familiares, pode eventualmente integrar um pequeno núcleo administrativo.\n\n2 - O vestiário deve situar-se próximo do espaço destinado ao acolhimento, podendo ser instalado numa zona de passagem, e deverá dispor de cabides baixas e individuais que sejam facilmente identificáveis pelas crianças.\n\n3 - A área para alimentação compreende a cozinha, dispensa e sala de refeições, quando esta exista autonomamente.\n\n4 - A área para isolamento, que pode eventualmente situar-se no gabinete do pessoal, destina-se a acolher as crianças que adoeçam subitamente no estabelecimento, como precaução de possíveis contágios.\n\n5 - A área exterior para ocupação ao ar livre, que se destina essencialmente ao desenvolvimento de actividades recreativas, deve ser tão ampla quanto possível, devidamente tratada e situar-se o mais próximo possível das salas de actividades.\n\n6 - Em casos excepcionais, a inexistência de área de recreio pode ser suprida por um recinto público situado na proximidade do estabelecimento, desde que possa ser utilizado com segurança pelas crianças.\n\n7 - O espaço destinado às instalações do pessoal compreende um gabinete e instalações sanitárias."
+  },
+  "890193808": {
+   "fragment_id": "890193346",
+   "type": 11,
+   "heading": "Norma XIII — (Revestimentos de pavimentos e paredes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma XIII — (Revestimentos de pavimentos e paredes)\n\n1 - O revestimento dos pavimentos deve ser liso, nivelado de material antiderrapante, com boas características de isolamento térmico e de fácil lavagem.\n\n2 - As paredes devem ser revestidas com material lavável a uma altura mínima de 1,20 m acima do pavimento."
+  },
+  "890193809": {
+   "fragment_id": "890193347",
+   "type": 11,
+   "heading": "Norma XIV — (Mobiliário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma XIV — (Mobiliário)\n\n1 - O mobiliário a utilizar pelas crianças deve ser em número suficiente e possuir as seguintes características fundamentais:\n\na) Ser adequado à idade da criança;\n\nb) Ser estável, cómodo e seguro, facilitando uma correcta postura;\n\nc) Garantir condições de higiene;\n\nd) Não constituir perigo, pelo que não deve ter arestas vivas ou cantos salientes;\n\ne) Não ser facilmente inflamável ou, quando o seja, não libertar gases tóxicos.\n\n2 - O equipamento das diferentes salas deverá ser concebido de acordo com a fase evolutiva do desenvolvimento das crianças.\n\n3 - Os berços devem ter uma altura que permita à criança, quando se põe em pé, ficar aproximadamente ao nível do adulto.\n\n4 - Os armários da sala de actividades para manutenção do material lúdico e didáctico devem dispor de uma parte fechada e uma aberta que fique ao alcance das crianças."
+  },
+  "890193810": {
+   "fragment_id": "890193348",
+   "type": 11,
+   "heading": "Norma XV — (Condições de protecção e de segurança das instalações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma XV — (Condições de protecção e de segurança das instalações)\n\n1 - As instalações devem ser equipadas com um sistema eficaz de arejamento permanente e as salas das crianças em infantário deverão dispor de um aquecimento regular, através de um sistema que garanta a máxima segurança e permita o arejamento das salas, sem prejuízo da temperatura ambiente desejável.\n\n2 - Os pontos de luz, os respectivos aparelhos de comando, bem como os aparelhos de ventilação, devem ser protegidos de maneira a ficarem fora do alcance das crianças.\n\n3 - As condições de segurança e habitabilidade do edifício onde se pretenda instalar o infantário ou o jardim-de-infância devem estar de acordo com as normas estabelecidas nos regulamentos municipais.\n\n4 - Tendo em vista a melhoria das condições de instalação destes equipamentos, poderão ser estabelecidos protocolos entre os centros regionais de segurança social e as câmaras municipais.\n\n5 - As condições de segurança referentes à protecção contra o risco de incêndio, em caso de sinistro, carecem de aprovação da entidade competente nesta matéria."
+  },
+  "890193811": {
+   "fragment_id": "890193349",
+   "type": 11,
+   "heading": "Norma XVI — (Condições gerais de funcionamento dos estabelecimentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma XVI — (Condições gerais de funcionamento dos estabelecimentos)\n\n1 - Cada estabelecimento fica obrigado a possuir um regulamento interno, donde constem, designadamente:\n\na) As condições de admissão das crianças;\n\nb) Os serviços a que as crianças tenham direito, incluídos na mensalidade estabelecida;\n\nc) As condições de prestação de outros serviços não incluídos na mensalidade;\n\nd) Informação pormenorizada sobre o funcionamento do estabelecimento.\n\n2 - No acto de inscrição deve ser dado conhecimento do teor do regulamento aos pais ou responsáveis pelas crianças.\n\n3 - As actividades dos estabelecimentos devem desenvolver-se com base nos seguintes requisitos fundamentais:\n\na) Existência de um projecto educativo, o qual deverá ser objecto de programação e avaliação periódica;\n\nb) Articulação permanente entre a família e os responsáveis pelo estabelecimento, por forma a garantir-se uma continuidade educativa das crianças."
+  },
+  "890193812": {
+   "fragment_id": "890193350",
+   "type": 11,
+   "heading": "Norma XVII — (Inscrição de registo individual das crianças)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma XVII — (Inscrição de registo individual das crianças)\n\n1 - A frequência das crianças em infantários e jardins-de-infância deve ser precedida de inscrição e apresentação de declaração médica comprovativa de que a criança não sofre de qualquer doença infecto-contagiosa.\n\n2 - Os estabelecimentos ficam obrigados a organizar um registo individual, que acompanhará a criança na transição para outro estabelecimento ou para o ensino primário.\n\n3 - Os elementos referentes a cada criança resultantes das informações familiares e do acompanhamento do seu desenvolvimento deverão constar daquele registo."
+  },
+  "890193813": {
+   "fragment_id": "890193351",
+   "type": 11,
+   "heading": "Norma XVIII — (Alimentação e higiene)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma XVIII — (Alimentação e higiene)\n\n1 - A alimentação fornecida pelos estabelecimentos deve ser de boa qualidade, bem confeccionada, variada e adaptada à idade das crianças.\n\n2 - As ementas devem ser afixadas semanalmente em locais bem visíveis do estabelecimento, por forma a serem consultadas pelos pais ou responsáveis.\n\n3 - Os objectos para os cuidados de higiene das crianças devem ser individuais e manter-se em perfeito estado de limpeza e arrumação."
+  },
+  "890193814": {
+   "fragment_id": "890193352",
+   "type": 11,
+   "heading": "Norma XIX — (Pessoal dos estabelecimentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma XIX — (Pessoal dos estabelecimentos)\n\n1 - Sem prejuízo do que se encontrar estabelecido no respectivo instrumento de regulamentação colectiva de trabalho, as unidades de pessoal necessárias ao normal funcionamento dos estabelecimentos, para assegurar níveis adequados na qualidade da prestação dos serviços, serão definidas pelos centros regionais de segurança social, de harmonia com normas gerais aprovadas pelo Ministro do Trabalho e Segurança Social.\n\n2 - A direcção técnica do estabelecimento deverá ser assumida por um elemento de pessoal com preparação técnica adequada, de preferência com o curso de educador de infância."
+  },
+  "890193815": {
+   "fragment_id": "890193353",
+   "type": 11,
+   "heading": "Norma XX — (Aplicação das normas a outros serviços ou estabelecimentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma XX — (Aplicação das normas a outros serviços ou estabelecimentos)\n\nAs presentes normas são igualmente aplicáveis, com as adaptações que se revelem indispensáveis, a outros serviços ou estabelecimentos com fins lucrativos que prossigam actividades semelhantes às prosseguidas pelos infantários e jardins-de-infância."
+  },
+  "890193816": {
+   "fragment_id": "890193356",
+   "type": 11,
+   "heading": "Norma XXI — (Norma transitória)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Norma XXI — (Norma transitória)\n\n1 - Os estabelecimentos actualmente em funcionamento deverão, no prazo máximo de 1 ano, adaptar-se às condições de instalação e funcionamento previstas nas presentes normas.\n\n2 - A falta de cumprimento do disposto no número anterior dará lugar à aplicação de coimas, nos termos constantes no Decreto Regulamentar n.º 69/83, de 16 de Julho."
+  }
+ }
+}

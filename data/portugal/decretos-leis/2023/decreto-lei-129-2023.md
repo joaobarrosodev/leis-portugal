@@ -1,0 +1,276 @@
+---
+schema_version: '1.0'
+id: pt:dre:835674294:por
+title: Decreto-Lei n.º 129/2023
+short_title: null
+summary: Altera algumas secções especializadas do Conselho Nacional de Cultura
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Cultura
+official_number: 129/2023
+official_date: null
+publication_date: '2023-12-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 247/2023, Série I de 2023-12-26
+  number: '247'
+  series: I
+  supplement: null
+  pages: 86 - 88
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/12/24700/0008600088.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/129/2023/12/26/p/dre/pt/html
+  oj: null
+  dre: '835674294'
+  dre_path: /dr/detalhe/decreto-lei/129-2023-835674294
+  internal: pt:dre:835674294:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2023-835674294
+  metadata_url: https://data.dre.pt/eli/dec-lei/129/2023/12/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2023-835674294
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-12-26T00:00:00Z'
+integrity:
+  source_sha256: 4f494027758dc6009729d39db7254ce86dffb22640e21147e1b059623f452de7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-129-835674294.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Património Cultural
+- Conselho Nacional de Cultura
+- Orgânica
+- Cultura
+- Museus e Monumentos de Portugal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/132/2013/09/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/132/2013/09/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/25/2018/04/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/25/2018/04/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/78/2023/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/78/2023/09/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/79/2023/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/79/2023/09/04/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 129/2023
+
+de 26 de dezembro
+
+A prioridade atribuída à reorganização da Direção-Geral do Património Cultural (DGPC), inscrita no Programa do XXIII Governo Constitucional, culminou na criação de duas novas entidades, a Museus e Monumentos de Portugal, E. P. E., e o Património Cultural, I. P., através dos Decretos-Leis n.os [78/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2023-221225699) e [79/2023](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-2023-221225700), ambos de 4 de setembro.
+
+Algumas das atribuições e competências da DGPC são repartidas e distribuídas por aquelas duas entidades, o que tem implicação direta na designação, composição e algumas competências da secção especializada dos museus, da conservação e restauro e do património imaterial e da secção especializada do património arquitetónico e arqueológico do Conselho Nacional de Cultura, tornando-se, assim, necessário proceder à adaptação deste dispositivo ao novo enquadramento jurídico da gestão do património cultural.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à segunda alteração ao [Decreto-Lei n.º 132/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2013-500036), de 13 de setembro, alterado pelo [Decreto-Lei n.º 25/2018](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2018-115172414), de 24 de abril, que estabelece o regime de constituição e funcionamento do Conselho Nacional de Cultura e das suas secções especializadas.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 132/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2013-500036), de 13 de setembro
+
+Os artigos 17.º, 20.º e 21.º do [Decreto-Lei n.º 132/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2013-500036), de 13 de setembro, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 17.º
+
+[...]
+
+1 - [...]
+
+a) [...]
+
+b) [...]
+
+c) Secção dos museus, da conservação e restauro e do património cultural móvel;
+
+d) Secção do património arquitetónico, arqueológico e imaterial;
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+###### Artigo 20.º — Secção dos museus, da conservação e restauro e do património cultural móvel
+
+1 - A secção especializada permanente dos museus, da conservação e restauro e do património cultural móvel é integrada:
+
+a) Pelo presidente do conselho de administração da Museus e Monumentos de Portugal, E. P. E., que preside;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) [...]
+
+m) [...]
+
+n) [...]
+
+o) [...]
+
+2 - Compete à secção especializada permanente dos museus, da conservação e restauro e do património cultural móvel:
+
+a) Prestar apoio ao membro do Governo responsável pela área da cultura, nas questões relativas à definição e ao desenvolvimento das políticas nacionais no âmbito dos museus, da conservação e restauro e do património móvel;
+
+b) Emitir pareceres ou recomendações sobre a realização dos objetivos das políticas museológica, de conservação e restauro e do património móvel, por solicitação do membro do Governo responsável pela área da cultura ou do presidente do conselho de administração da Museus e Monumentos de Portugal, E. P. E.;
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) [...]
+
+i) (Revogada.)
+
+j) (Revogada.)
+
+k) (Revogada.)
+
+l) Emitir parecer sobre a desclassificação como arquivo de interesse nacional e outros registos de inventários museológicos.
+
+3 - Os demais membros do conselho de administração da Museus e Monumentos de Portugal, E. P. E., têm assento na secção especializada dos museus, da conservação e restauro e do património cultural móvel, sem direito de voto.
+
+###### Artigo 21.º — Secção do património arquitetónico, arqueológico e imaterial
+
+1 - A secção especializada permanente do património arquitetónico, arqueológico e imaterial é integrada:
+
+a) Pelo presidente do conselho diretivo do Património Cultural, I. P., que preside;
+
+b) (Revogada.)
+
+c) Pelos presidentes das Comissões de Coordenação e Desenvolvimento Regional, I. P.;
+
+d) [...]
+
+e) [...]
+
+f) Por um representante do membro do Governo responsável pela área da coesão territorial;
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+2 - Compete à secção especializada permanente do património arquitetónico, arqueológico e imaterial:
+
+a) [...]
+
+b) (Revogada.)
+
+c) Emitir pareceres sobre quaisquer questões relativas à salvaguarda e valorização do património arquitetónico, arqueológico e imaterial, por solicitação do seu presidente;
+
+d) Emitir pareceres e recomendações sobre as componentes específicas da política de salvaguarda do património cultural imaterial, por solicitação do membro do Governo responsável pela área da cultura ou do presidente do conselho diretivo do Património Cultural, I. P.;
+
+e) Emitir parecer, por solicitação do membro do Governo responsável pela área da cultura ou do presidente do conselho diretivo do Património Cultural, I. P., sobre as candidaturas a apresentar à Lista do Património Mundial e da Humanidade, à Lista Representativa do Património Cultural Imaterial da Humanidade, à Lista do Património Mundial em Perigo e à Lista do Património Cultural que necessita de Salvaguarda Urgente.
+
+3 - Os demais membros do conselho diretivo do Património Cultural, I. P., têm assento na secção especializada do património arquitetónico, arqueológico e imaterial, sem direito de voto.»
+
+###### Artigo 3.º — Norma revogatória
+
+São revogadas as alíneas b) a d) do n.º 1 e as alíneas f), g) e i) a k) do n.º 2 do artigo 20.º e a alínea b) do n.º 1 e a alínea b) do n.º 2 do artigo 21.º do [Decreto-Lei n.º 132/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2013-500036), de 13 de setembro, na sua redação atual:
+
+###### Artigo 4.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos a 1 de janeiro de 2024.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 7 de dezembro de 2023. - António Luís Santos da Costa - Pedro Nuno Pereira de Sousa Rodrigues - Pedro Adão e Silva Cardoso Pereira - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
+
+**Promulgado em 18 de dezembro de 2023.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 19 de dezembro de 2023.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

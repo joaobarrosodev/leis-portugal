@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:411291:por
+title: Decreto-Lei n.º 669/73
+short_title: null
+summary: Define a competência das juntas autónomas dos portos relativamente à fiscalização e exploração dos transportes fluviais
+  nas respectivas áreas de jurisdição
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Comunicações
+proposing_entity: null
+official_number: 669/73
+official_date: null
+publication_date: '1973-12-17'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 292/1973, Série I de 1973-12-17
+  number: '292'
+  series: I
+  supplement: null
+  pages: 2437 - 2438
+  pdf_url: https://files.diariodarepublica.pt/1s/1973/12/29200/24372438.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '411291'
+  dre_path: /dr/detalhe/decreto-lei/669-1973-411291
+  internal: pt:dre:411291:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/669-1973-411291
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/669-1973-411291
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-07-10T00:00:00Z'
+integrity:
+  source_sha256: 597f8f253baec630d91d49bf7476b6f283403c3425f4558d0db2c4d98ca66358
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1973/DRE-1973-669-411291.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:456552:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 669/73
+
+de 17 de Dezembro
+
+Às juntas autónomas dos portos compete regular e fiscalizar a exploração dos transportes fluviais colectivos nas áreas da sua jurisdição. Esta exploração vem sendo autorizada por mera licença a título precário, com base no disposto no [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, e no [Decreto n.º 45924](https://diariodarepublica.pt/dr/detalhe/decreto/45924-1964-537638), de 15 de Setembro de 1964.
+
+O notável desenvolvimento do tráfego e o elevado encargo das instalações e equipamento a afectar aos transportes colectivos fluviais conjugam-se para evidenciar a oportunidade de rever aquele condicionalismo, de modo a estruturar autênticos serviços públicos, que garantam aos utentes a necessária eficiência e comodidade.
+
+Assim, pelo presente diploma, a exploração de tais serviços passa a ser efectuada em regime de concessão a outorgar pelas juntas autónomas portuárias, em regra mediante concurso baseado num caderno de encargos-tipo aprovado por portaria do Ministro das Comunicações. Dentro desta perspectiva, adoptam-se medidas destinadas a impulsionar a constituição de empresas concessionárias que ofereçam garantias de idoneidade e estabilidade financeira.
+
+Salvaguarda-se, no entanto, a competência dos serviços do Ministério da Marinha no que respeita aos transportes fluviais colectivos e às respectivas embarcações, nos termos já consagrados pelo [Decreto n.º 45924](https://diariodarepublica.pt/dr/detalhe/decreto/45924-1964-537638).
+
+Nestes termos, usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º - 1. Compete às juntas autónomas dos portos, sob coordenação da Direcção-Geral de Portos, regular e fiscalizar a exploração dos transportes fluviais nas áreas da sua jurisdição.
+
+2. Fora das áreas referidas no número anterior, a competência que por este diploma é atribuída às juntas autónomas dos portos será exercida pela Direcção-Geral de Portos, sem prejuízo do estabelecido na base III da [Lei n.º 2035](https://diariodarepublica.pt/dr/detalhe/lei/2035-1949-260163), de 30 de Julho de 1949, quanto aos portos de Lisboa e do Douro e Leixões.
+
+3. Exceptuam-se do disposto nos números que antecedem, continuando a competir à autoridade marítima a que se refere a legislação vigente, os casos seguintes:
+
+a) Os transportes nos rios internacionais;
+
+b) Os actuais transportes efectuados por embarcações de tráfego local, do tipo barcas de passagem, que navegam sem horário fixo transportando pequeno número de passageiros.
+
+4. Continuam a ser da competência dos serviços do Ministério da Marinha a determinação das habilitações do pessoal tripulante, a sua disciplina e todas as questões relativas à segurança do material naval e da navegação.
+
+5. A Direcção-Geral dos Serviços de Fomento Marítimo ouvirá sempre a respectiva junta autónoma do porto quando da concessão de licenças para a construção e modificação de embarcações destinadas aos transportes colectivos fluviais, devendo os planos que, nos termos da lei, acompanham os pedidos das referidas licenças ser elaborados em obediência aos necessários requisitos para cada caso exigidos pela junta autónoma.
+
+6. A competência a que se refere o n.º 1 poderá, por portaria conjunta dos Ministros da Marinha e das Comunicações, estender-se a transportes por via marítima de muito curta distância.
+
+###### Art. 2.º - 1. A organização e exploração regular do serviço público de transportes fluviais colectivos de passageiros e, eventualmente, de veículos e de mercadorias, nas áreas de jurisdição das juntas autónomas dos portos, serão objecto de concessão a outorgar, mediante contrato, pela junta autónoma competente.
+
+2. Quando a exploração dos transportes referidos no número anterior abranger, para além das áreas sob jurisdição das juntas autónomas, áreas sob a jurisdição de outras entidades, compete à respectiva junta autónoma a outorga da concessão, tomando em consideração os condicionamentos apresentados por essas entidades.
+
+###### Art. 3.º - 1. As juntas autónomas em cujas áreas de jurisdição se justifique a instalação e funcionamento do serviço público de transportes fluviais colectivos procederão à abertura de um concurso, com base no caderno de encargos-tipo a que se refere o n.º 4 deste artigo e nos estudos de mercado, de dimensionamento e características da frota e outros que para cada caso se realizem.
+
+2. Quando nas áreas de jurisdição das juntas autónomas portuárias existam transportes fluviais licenciados nos termos do artigo 3.º do [Decreto n.º 45924](https://diariodarepublica.pt/dr/detalhe/decreto/45924-1964-537638), de 15 de Setembro de 1964, poderão as concessões ser outorgadas mediante negociação directa.
+
+3. A abertura do concurso ou a negociação directa a que se referem os números anteriores dependerão de despacho do Ministro das Comunicações, sob proposta da junta autónoma competente.
+
+4. O caderno de encargos-tipo a que se refere o n.º 1 conterá as condições gerais a que deverão obedecer os contratos de concessão e será aprovado por portaria do Ministro das Comunicações.
+
+5. As condições gerais a que se refere o número anterior não poderão ser contrariadas nem omitidas pelos respectivos contratos de concessão, podendo, no entanto, ser completadas quer em disposições de conteúdo alternativo constantes do acto do concurso, quer em quaisquer outros aspectos que resultem da especificidade de cada caso.
+
+###### Art. 4.º - 1. As deliberações das juntas autónomas dos portos no sentido da adjudicação das concessões carecem, para se tornarem executórias, da homologação do Ministro das Comunicações.
+
+2. A homologação a que se refere o número anterior habilita a junta à outorga da respectiva concessão.
+
+###### Art. 5.º As sociedades concessionárias deverão estar constituídas, à data da outorga de cada concessão, como sociedades anónimas de responsabilidade limitada, com sede na localidade onde se situe a da junta autónoma concedente e obedecendo ao disposto no artigo 22.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
+
+###### Art. 6.º - 1. As entidades concessionárias usufruirão, relativamente ao objecto da concessão, dos seguintes benefícios fiscais:
+
+a) Isenção de todos os impostos devidos ao Estado e às autarquias locais por um período de dez anos, a contar da data de celebração do contrato de concessão;
+
+b) Isenção de direitos de importação relativos aos materiais e equipamentos destinados definitivamente às obras, instalações e apetrechamento dos terminais das carreiras concedidas, cuja execução fique a cargo da concessionária e, bem assim, dos relativos às embarcações e demais equipamento destinados ao serviço concedido.
+
+2. A isenção prevista na alínea a) do número anterior não abrange o imposto de transacções, o imposto do selo e o imposto extraordinário para a defesa e valorização do ultramar.
+
+3. Poderão nos contratos de concessão fixar-se isenções ou reduções de taxas que constem dos regulamentos de tarifas das juntas autónomas concedentes e constituam receitas de exploração dessas mesmas juntas.
+
+###### Art. 7.º As embarcações destinadas às carreiras de transportes fluviais colectivos deverão possuir os necessários documentos exigidos pelos serviços competentes do Ministério da Marinha.
+
+###### Art. 8.º - 1. As licenças outorgadas pelas juntas autónomas portuárias ao abrigo dos artigos 3.º e seguintes do [Decreto n.º 45924](https://diariodarepublica.pt/dr/detalhe/decreto/45924-1964-537638) manter-se-ão válidas, nas condições em que foram emitidas, até à outorga das concessões a que este diploma se refere.
+
+2. Poderão, no entanto, as juntas autónomas portuárias, mediante autorização do Ministro das Comunicações, e desde que a regularidade e a eficiência dos transportes fluviais colectivos nas suas áreas de jurisdição o exijam, proceder transitoriamente à sua exploração, requisitando o material e as instalações necessários.
+
+3. Sem prejuízo de imediata utilização do material e instalações requisitados pela junta autónoma, no caso previsto no número anterior, os respectivos proprietários terão direito a uma compensação nos termos que forem convencionados com a mesma junta, havendo, na falta de acordo, recurso a um tribunal arbitral presidido por um magistrado, nomeado pelo Ministério da Justiça, e designando cada uma das partes um árbitro.
+
+###### Art. 9.º Fica revogado o [Decreto n.º 45924](https://diariodarepublica.pt/dr/detalhe/decreto/45924-1964-537638), de 15 de Setembro de 1964.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias - Manuel Pereira Crespo - Rui Alves da Silva Sanches.
+
+**Promulgado em 5 de Dezembro de 1973.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser presente à Assembleia Nacional.

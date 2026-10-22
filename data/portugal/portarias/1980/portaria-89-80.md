@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:678782:por
+title: Portaria n.º 89/80
+short_title: null
+summary: Altera o n.º 11 da Portaria n.º 76/77, de 16 de Fevereiro (integra no sistema bancário do sector público os trabalhadores
+  e os sócios trabalhadores das antigas casas de câmbios)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e do Trabalho - Secretarias de Estado do Tesouro e do Trabalho
+proposing_entity: null
+official_number: 89/80
+official_date: null
+publication_date: '1980-03-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 54/1980, Série I de 1980-03-05
+  number: '54'
+  series: I
+  supplement: null
+  pages: 295 - 296
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/03/05400/02950296.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '678782'
+  dre_path: /dr/detalhe/portaria/89-1980-678782
+  internal: pt:dre:678782:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-1980-678782
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/89-1980-678782
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-03-05T00:00:00Z'
+integrity:
+  source_sha256: f8158c8230a58372b51fa57b3513d043cf84f9bd4194d37106e75f7675cc435b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-89-678782.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 89/80
+
+de 5 de Março
+
+No seguimento do [Decreto-Lei n.º 167/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1976-507401), de 1 de Março, foram pela [Portaria n.º 76/77](https://diariodarepublica.pt/dr/detalhe/portaria/76-1977-141400), de 16 de Fevereiro, integrados no sistema bancário do sector público os trabalhadores e os sócios trabalhadores das antigas casas de câmbios;
+
+De entre as condições estabelecidas na aludida portaria no que respeitou à integração dos sócios trabalhadores determinou-se no seu n.º 11 que para efeitos de previdência só era de considerar o tempo de serviço prestado por aqueles às casas de câmbios na exclusiva condição de empregados.
+
+Uma melhor ponderação dos interessados em presença, aliada ao diminuto encargo social envolvente, leva a considerar adequado alterar-se o disposto no citado n.º 11.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Tesouro e do Trabalho:
+
+Todo o tempo de serviço prestado pelos sócios trabalhadores às antigas casas de câmbios releva para efeitos de previdência.
+
+Ministérios das Finanças e do Plano e do Trabalho, 21 de Fevereiro de 1980. - O Secretário de Estado do Tesouro, José Alberto Vasconcelos Tavares Moreira. - O Secretário de Estado do Trabalho, José Queirós Lopes Raimundo.

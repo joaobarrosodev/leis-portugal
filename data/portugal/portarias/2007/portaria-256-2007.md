@@ -1,0 +1,204 @@
+---
+schema_version: '1.0'
+id: pt:dre:518438:por
+title: Portaria n.º 256/2007
+short_title: null
+summary: Altera a Portaria n.º 931/2006, de 8 de Setembro (estabelece os modelos de licenças, alvarás, certificados e outras
+  autorizações a emitir pela Polícia de Segurança Pública)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 256/2007
+official_date: null
+publication_date: '2007-03-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 50/2007, Série I de 2007-03-12
+  number: '50'
+  series: I
+  supplement: null
+  pages: 1528 - 1530
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/05000/15281530.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/256/2007/03/12/p/dre/pt/html
+  oj: null
+  dre: '518438'
+  dre_path: /dr/detalhe/portaria/256-2007-518438
+  internal: pt:dre:518438:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/256-2007-518438
+  metadata_url: https://data.dre.pt/eli/port/256/2007/03/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/256-2007-518438
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-09-13T00:00:00Z'
+integrity:
+  source_sha256: 9f0b4b05ad252c93c357ec71ee4f32a8546b8947d1cecfdd9286a5ceff9cd640
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-256-518438.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Alvará
+- Armas e Munições
+- Certificado de Conformidade
+- Direção Nacional
+- Armamento
+- Impresso
+- Importação
+- Licenciamento
+- Exportação
+- Regulamento
+- Taxa
+- Comércio
+- Regulamento de Segurança das Instalações de Fabrico Reparação Comércio e Guarda de Armas
+relationships:
+- type: amended_by
+  target: pt:dre:640579:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/5/2006/02/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/931/2006/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/931/2006/09/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/933/2006/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/933/2006/09/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/934/2006/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/934/2006/09/08/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 256/2007
+
+de 12 de Março
+
+A regulamentação do novo regime jurídico das armas e suas munições, aprovado pela [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608), de 23 de Fevereiro, envolveu a publicação de um conjunto de portarias que desenvolveram e concretizaram, entre outras, as matérias respeitantes à segurança de espaços e estabelecimentos, aos modelos de documentos e às taxas aplicáveis.
+
+A experiência decorrente da aplicação do novo regime jurídico justifica que se façam ajustamentos nas opções tomadas, com vista a garantir, com base na avaliação entretanto feita no percurso da aplicação da lei das armas e das suas munições naqueles domínios, soluções que compatibilizem de forma equilibrada a execução da referida lei.
+
+As alterações introduzidas, correspondendo a propostas do sector, traduzem adaptações pontuais em três das portarias e visam simplificar o regime de manifesto, densificar a forma como se processa a fiscalização por parte da Polícia de Segurança Publíca (PSP) em certos eventos e adequar o regime das taxas no âmbito das autorizações de transferência, importação e exportação de armas ou partes essenciais destas, nos casos em que a montagem ou fabrico se processa em Portugal.
+
+Assim:
+
+Manda o Governo, através do Secretário de Estado Adjunto e da Administração Interna, ao abrigo do disposto no n.º 1 do artigo 83.º e nas alíneas d) e e) do n.º 2 do artigo 117.º da [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608), de 23 de Fevereiro, o seguinte:
+
+1.º
+
+1 - O n.º 2.º da [Portaria n.º 931/2006](https://diariodarepublica.pt/dr/detalhe/portaria/931-2006-540040), de 8 de Setembro, passa a ter a seguinte redacção:
+
+«2.º
+
+[...]
+
+1 - ...
+
+2 - ...
+
+3 - A PSP, na sequência da importação, transferência e fabrico de armas sujeitas a manifesto, pode emitir um certificado provisório de livrete, constante do anexo XXXI à presente portaria, exclusivamente destinado a vigorar no tráfego comercial entre armeiros, dele constando todas as indicações obrigatórias referidas no n.º 3 do artigo 73.º da [Lei n.º 5/2006](https://diariodarepublica.pt/dr/detalhe/lei/5-2006-676608).»
+
+2 - O modelo de documento a que se refere a alínea i) do n.º 1 do n.º 2.º da portaria referida no número anterior, constante do seu anexo XII, é substituído pelo modelo que vai publicado em anexo à presente portaria.
+
+2.º
+
+O n.º 5.º do Regulamento de Taxas, aprovado pela [Portaria n.º 934/2006](https://diariodarepublica.pt/dr/detalhe/portaria/934-2006-540043), de 8 de Setembro, passa a ter a seguinte redacção:
+
+«5.º
+
+[...]
+
+1 - (Redacção anterior do artigo.)
+
+2 - Pela emissão de certificado provisório do livrete referido no número anterior, nas situações previstas nas suas alíneas a) a c) - (euro) 3.»
+
+3.º
+
+O n.º 5.º da [Portaria n.º 933/2006](https://diariodarepublica.pt/dr/detalhe/portaria/933-2006-540042), de 8 de Setembro, passa a ter a seguinte redacção:
+
+«5.º
+
+[...]
+
+1 - ...
+
+2 - Compete à Direcção Nacional da Polícia de Segurança Pública (DN/PSP), a requerimento do interessado, proceder à apreciação casuística das condições de segurança quer dos estabelecimentos referidos no número anterior quer da organização de qualquer manifestação teatral, cultural ou outra onde sejam utilizadas ou disparadas armas de fogo, bem como mostras, feiras, leilões ou outro tipo de iniciativas públicas similares onde estejam expostas armas de fogo, para cujo efeito devem ser ponderados a classe das armas em causa e o número de armas em condições de disparar susceptíveis de serem transportadas ou guardadas.»
+
+4.º
+
+É aditado ao Regulamento de Taxas, aprovado pela [Portaria n.º 934/2006](https://diariodarepublica.pt/dr/detalhe/portaria/934-2006-540043), de 8 de Setembro, um novo n.º 22.º com a seguinte redacção:
+
+«22.º
+
+Isenções
+
+1 - Desde que destinadas a incorporar o produto acabado, montado, fabricado ou reparado em Portugal para exportação ou transferência para Estados membros da UE, ficam isentas do pagamento de taxas as autorizações para:
+
+a) Importação de partes essenciais de armas das classes B, B1, C e D, a que se referem as subalíneas vii), viii) e ix) da alínea a) do n.º 1 do n.º 7.º;
+
+b) Transferência de partes essenciais de armas das classes B, B1, C e D, a que se referem as subalíneas vii), viii) e ix) da alínea b) do n.º 8.º
+
+2 - São reduzidos em 50% os montantes das taxas devidas pela concessão das autorizações para:
+
+a) Importação ou transferência temporária das armas a que se referem as subalíneas I) a III) da alínea b) do n.º 7.º e as subalíneas I) a III) da alínea c) do n.º 8.º, desde que destinadas a reparação em Portugal;
+
+b) Exportação e transferência de armas das classes B, B1, C e D, a que se referem, respectivamente, as subalíneas i), ii) e iii) da alínea c) do n.º 1 do n.º 7.º e as subalíneas i), ii) e iii) da alínea a) do n.º 8.º, desde que montadas, fabricadas ou reparadas em Portugal.
+
+3 - São ainda reduzidos em 50% os montantes das taxas devidas pela concessão de autorizações para exportação e transferência de partes essenciais das armas das classes B, B1, C e D, a que se referem, respectivamente, as subalíneas vii), viii) e ix) da alínea c) do n.º 7.º e as subalíneas vii), viii) e ix) da alínea a) do n.º 8.º, desde que montadas ou fabricadas em Portugal.
+
+4 - A utilização de partes essenciais de armas importadas ou transferidas para território nacional para fins diferentes dos que motivaram a concessão de isenções requeridas nos termos do n.º 1 implica para a entidade beneficiária a imediata cessação de todo e qualquer benefício previsto no presente artigo, bem como o ressarcimento pelo valor correspondente às taxas normais que fossem devidas por força das disposições aplicáveis dos n.os 7.º e 8.º do Regulamento.»
+
+5.º
+
+As alterações introduzidas pela presente portaria vigoram a partir do dia seguinte ao da sua publicação.
+
+**O Secretário de Estado Adjunto e da Administração Interna, José Manuel Santos de Magalhães, em 9 de Fevereiro de 2007.**
+
+ANEXOS
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2007/03/05000/15281530.pdf))](https://files.diariodarepublica.pt/1s/2007/03/05000/15281530.pdf)

@@ -1,0 +1,425 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70300348:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-74116268",
+ "dre_path": "/dr/detalhe/decreto-lei/201-2015-70300348",
+ "source_lastmod": "2025-03-19",
+ "versions": [
+  {
+   "date": "2015-09-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74094743",
+    "74094744",
+    "74094745",
+    "74094746",
+    "74094747",
+    "74094748",
+    "74094749",
+    "74094750",
+    "74094751",
+    "74094752",
+    "74094753",
+    "74094754",
+    "74094755",
+    "74094756",
+    "74094757",
+    "74094758",
+    "74094759",
+    "74094760",
+    "74094761",
+    "74094762",
+    "74094763",
+    "74094764",
+    "74094765",
+    "74094766",
+    "74094767",
+    "74094768",
+    "74094769",
+    "74094770",
+    "74094771",
+    "74094772",
+    "74094773",
+    "74094774",
+    "74118475",
+    "74118476",
+    "74118477",
+    "74118478",
+    "74118479"
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910323298:por",
+     "title": "Decreto-Lei n.º 13-A/2025",
+     "published": "2025-03-10",
+     "dre_path": "/dr/detalhe/decreto-lei/13-a-2025-910323298"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "74094743",
+    "74094744",
+    "74094745",
+    "74094746",
+    "74094747",
+    "74094748",
+    "911628127",
+    "74094750",
+    "74094751",
+    "74094752",
+    "74094753",
+    "74094754",
+    "74094755",
+    "74094756",
+    "74094757",
+    "74094758",
+    "74094759",
+    "74094760",
+    "74094761",
+    "74094762",
+    "74094763",
+    "74094764",
+    "74094765",
+    "74094766",
+    "74094767",
+    "74094768",
+    "74094769",
+    "74094770",
+    "74094771",
+    "74094772",
+    "74094773",
+    "74094774",
+    "74118475",
+    "74118476",
+    "74118477",
+    "74118478",
+    "74118479",
+    "74118480"
+   ]
+  }
+ ],
+ "fragments": {
+  "74094743": {
+   "fragment_id": "74116269",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 201/2015\n\nde 17 de setembro\n\nCom a publicação do Decreto-Lei n.º 191/99, de 5 de junho, alterado pelas Leis n.os 3-B/2000, de 4 de abril, e 107-B/2003, de 31 de dezembro, foi aprovado o Regime da Tesouraria do Estado (RTE) com o objetivo de centralizar os fundos públicos na tesouraria do Estado e otimizar a gestão global e integrada dos mesmos, sendo condição necessária para assegurar elevados níveis de economicidade na sua utilização.\n\nA movimentação de fundos públicos passou a ser efetuada através de contas bancárias na tesouraria do Estado, através das quais os organismos detentores desses fundos promovem as respetivas operações de cobrança e pagamento e onde mantêm depositadas as suas disponibilidades de tesouraria.\n\nO universo de organismos públicos sujeitos ao RTE tem vindo a ser alargado nos últimos anos.\n\nO Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), enquanto serviço da administração indireta do Estado, deve prosseguir a obrigatoriedade de integração na rede de cobranças do Estado, prevista no regime da tesouraria do Estado, aprovado pelo Decreto-Lei n.º 191/99, de 5 de junho, alterado pelas Leis n.os 3-B/2000, de 4 de abril, e 107-B/2003, de 31 de dezembro, mediante a abertura de contas bancárias junto da Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E., para recebimento, contabilização e controlo das receitas próprias.\n\nO presente decreto-lei regula os fluxos financeiros nos serviços de registo do IRN, I. P., constituindo mais um passo importante para a integração, num futuro próximo, na rede de cobranças do Estado.\n\nTirando partido das novas tecnologias de informação e comunicação, as soluções que agora se aprovam permitirão obter uma visão conjunta e integrada das operações financeiras ativas e passivas e, em consequência, a otimização dos resultados financeiros e a melhoria do controlo dos riscos, indispensável face aos valores movimentados e à complexidade dos sistemas envolvidos.\n\nTodas as quantias recebidas pelos serviços de registo passam a ser depositadas em contas tituladas a favor do IRN, I. P., e as restituições bem como a entrega de quantias que constituam receita de outras entidades, a ser processadas centralmente.\n\nRegulamentam-se no presente decreto-lei os meios de pagamento admitidos nos serviços de registo, ao mesmo tempo que se generaliza a possibilidade do pagamento de emolumentos ser feito através de referência gerada para o efeito.\n\nAproveita-se, ainda, para condensar no presente decreto-lei toda a matéria atinente à contabilidade dos serviços de registo que até então se encontrava dispersa por vários diplomas.\n\nAtenta a desejada uniformização de procedimentos entre todos os serviços de registo estendeu-se a aplicabilidade do presente decreto-lei aos serviços dos registos e do notariado regionalizados, com exceção do disposto no artigo 20.º atenta a circunstância da repartição de receita gerada nestes serviços se encontrar devidamente regulamentada no Decreto-Lei n.º 247/2003, de 8 de outubro, que transferiu para a Região Autónoma da Madeira as atribuições e competências administrativas que o Ministério da Justiça exerce através do IRN, I. P., em matéria de registos e notariado.\n\nPor fim, aproveita-se o ensejo para fazer pequenos ajustamentos ao Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, em benefício do utente, e para acolher a tributação dos atos associados à emissão do Certificado Sucessório Europeu pela entidade portuguesa competente - os conservadores - no quadro do Regulamento (UE) n.º 650/2012, do Parlamento Europeu e do Conselho, de 4 de julho de 2012, aplicável às sucessões de pessoas falecidas a partir de 17 de agosto de 2015.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, o Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais, a Ordem dos Advogados, o Conselho dos Oficiais de Justiça, a Câmara dos Solicitadores, a Associação Sindical dos Conservadores dos Registos, a Associação Sindical dos Oficiais dos Registos e Notariado e a Comissão Nacional de Proteção de Dados.\n\nFoi promovida a audição do Conselho Superior do Ministério Público, da Associação Sindical dos Juízes Portugueses, do Sindicato dos Magistrados do Ministério Público, da Associação dos Oficiais de Justiça, do Sindicato dos Oficiais de Justiça, do Sindicato dos Funcionários Judiciais, da Ordem dos Notários, do Sindicato dos Trabalhadores dos Registos e do Notariado, e do Movimento Justiça e Democracia - Associação Cívica de Juízes Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "74094744": {
+   "fragment_id": "74116270",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "74094745": {
+   "fragment_id": "74116271",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei aprova o modelo de contabilidade dos serviços de registo do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.), regulando os respetivos fluxos financeiros.\n\n2 - O presente decreto-lei altera:\n\na) O Código do Registo Predial, aprovado pelo Decreto-Lei n.º 224/84, de 6 de julho;\n\nb) O Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de dezembro;\n\nc) O Regulamento do Registo de Automóveis, aprovado pelo Decreto n.º 55/75, de 12 de fevereiro;\n\nd) O Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro;\n\ne) O Decreto-Lei n.º 247-B/2008, de 30 de dezembro;\n\nf) O Decreto-Lei n.º 519-F2/79, de 29 de dezembro."
+  },
+  "74094746": {
+   "fragment_id": "74116272",
+   "type": 1,
+   "heading": "Capítulo II — Modelo de contabilidade dos serviços de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Modelo de contabilidade dos serviços de registo"
+  },
+  "74094747": {
+   "fragment_id": "74116273",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\nO modelo de contabilidade dos serviços de registo é aplicável à cobrança e entrega de receitas provenientes de emolumentos, taxas ou outros encargos, devidos por atos praticados nos serviços de registo do IRN, I. P., ou por intermédio destes."
+  },
+  "74094748": {
+   "fragment_id": "74116274",
+   "type": 11,
+   "heading": "Artigo 3.º — Pagamento de emolumentos, taxas e encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Pagamento de emolumentos, taxas e encargos\n\n1 - Pelos atos praticados nos serviços de registo são liquidados e cobrados os emolumentos, taxas e encargos, nos termos do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, e da demais regulamentação própria.\n\n2 - Quem solicita a prática do ato deve efetuar o pagamento, em euros, dos emolumentos e taxas devidas, incluindo as quantias relativas ao cumprimento tardio da obrigação de registar.\n\n3 - A comprovação do pagamento das quantias solicitadas pelos serviços de registo é condição de admissibilidade do respetivo pedido ou apresentação no diário.\n\n4 - O pagamento de emolumentos e taxas após o pedido apenas pode ser admitido nos casos previstos na lei ou outra regulamentação própria.\n\n5 - O pagamento das despesas com a obtenção de documentos, a requerimento dos interessados, junto de entidades ou serviços da Administração Pública destinados a suprir deficiências de atos e processos de registo é condição de solicitação desses documentos."
+  },
+  "74094749": {
+   "fragment_id": "74118375",
+   "type": 11,
+   "heading": "Artigo 4.º — Meios de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Meios de pagamento\n\n1 - O pagamento das quantias a cobrar pelos serviços de registo é efetuado através dos meios eletrónicos disponíveis, designadamente, nos terminais de pagamento automático existentes nos referidos serviços ou através da emissão de uma referência para o efeito.\n\n2 - É ainda admitido o pagamento em numerário, através de notas de crédito sobre o IRN, I. P., por cheque visado ou bancário de entidade com representação em Portugal, bem como através de vale postal, em moeda em curso em Portugal.\n\n3 - O pagamento de quantias superiores a (euro) 2000 é obrigatoriamente efetuado através dos meios eletrónicos disponíveis ou por cheque visado ou bancário.\n\n4 - O Estado, as Regiões Autónomas, as autarquias locais, os fundos e serviços autónomos e as entidades que integrem o sector empresarial do Estado, das Regiões Autónomas e das autarquias locais, e demais pessoas coletivas públicas podem efetuar pagamentos em cheque não visado.\n\n5 - Os cheques a que se referem os números anteriores apenas são admitidos para pagamento se forem sacados sobre contas domiciliadas em Portugal.\n\n6 - O pagamento através de referência eletrónica considera-se efetuado no momento da receção pelos sistemas de registo da comunicação remetida pelo sistema interbancário.\n\n7 - A admissibilidade do pagamento através de notas de crédito e cartão de crédito fica dependente de deliberação do conselho diretivo do IRN, I. P., publicada na 2.ª série do Diário da República, que pode fixar uma sobretaxa destinada a fazer face aos custos de utilização do cartão de crédito.\n\n8 - Mediante protocolo com o IRN, I. P., podem ser estabelecidos outros meios de pagamento, nomeadamente o recurso à transferência bancária.\n\n9 - Enquanto não estiverem reunidas as condições técnicas para que todos os serviços online disponibilizem referência para pagamento eletrónico dos complementos de preparo, o conselho diretivo do IRN, I. P., pode deliberar a afetação de uma ou mais contas bancárias ao pagamento por transferência bancária."
+  },
+  "74094750": {
+   "fragment_id": "74118376",
+   "type": 11,
+   "heading": "Artigo 5.º — Emissão da referência para pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Emissão da referência para pagamento\n\nA referência para pagamento é gerada de forma automática e normalizada por meio informático nos serviços de registo, sem prejuízo da regulamentação própria dos serviços disponibilizados por via eletrónica."
+  },
+  "74094751": {
+   "fragment_id": "74118377",
+   "type": 11,
+   "heading": "Artigo 6.º — Elaboração da conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Elaboração da conta\n\nEm relação a cada ato efetuado ou documento emitido pelos serviços de registo, é elaborada uma conta de emolumentos, taxas e demais encargos, com a especificação de todas as verbas que a compõem, por referência à respetiva regulamentação, com indicação da importância devida."
+  },
+  "74094752": {
+   "fragment_id": "74118378",
+   "type": 11,
+   "heading": "Artigo 7.º — Recibos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recibos\n\n1 - Das quantias pagas aos serviços de registo são emitidos recibos gerados pelas aplicações informáticas, que podem ser disponibilizados em suporte eletrónico ou em suporte de papel.\n\n2 - Sempre que a emissão nos termos do número anterior não seja possível, deve ser emitido recibo de modelo aprovado pelo conselho diretivo do IRN, I. P., contendo a discriminação das despesas e serviços a que corresponda.\n\n3 - Os duplicados dos recibos referidos no número anterior devem ficar arquivados durante o período mínimo de cinco anos.\n\n4 - Quando o apresentante ou requerente intervém em representação de outrem, pode solicitar ao serviço de registo a emissão do recibo em nome do seu representado."
+  },
+  "74094753": {
+   "fragment_id": "74118379",
+   "type": 11,
+   "heading": "Artigo 8.º — Reclamação de conta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reclamação de conta\n\n1 - Os interessados podem reclamar, verbalmente ou por escrito, perante o serviço de registo que elaborou a conta contra qualquer erro na mesma no prazo de cinco dias úteis a contar da data em que tiveram conhecimento da conta.\n\n2 - Quando a reclamação for feita verbalmente deve ser reduzida a auto, assinado pelo reclamante.\n\n3 - O serviço de registo aprecia no prazo de três dias úteis a reclamação formulada e, se a desatender, notifica o reclamante do despacho.\n\n4 - A notificação referida no número anterior pode ser presencial ou por correio, bem como por transmissão eletrónica de dados nos termos a definir por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "74094754": {
+   "fragment_id": "74118380",
+   "type": 11,
+   "heading": "Artigo 9.º — Impugnação da conta dos atos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Impugnação da conta dos atos\n\n1 - Assiste ao interessado o direito de recorrer hierarquicamente para o conselho diretivo do IRN, I. P., ou de impugnar judicialmente para o tribunal tributário, por erro, a liquidação da conta dos atos ou a aplicação da tabela emolumentar, no prazo de 15 dias úteis a contar da data em que teve conhecimento da conta.\n\n2 - No caso de ter existido prévia reclamação da conta, o prazo previsto no número anterior conta-se da data da notificação do despacho que indeferiu a reclamação.\n\n3 - O recurso hierárquico ou a impugnação judicial interpõem-se por meio de requerimento em que são expostos os seus fundamentos, apresentado no serviço de registo onde foi efetuada a conta recorrida.\n\n4 - A interposição da impugnação judicial faz precludir o direito de interpor recurso hierárquico e equivale à desistência deste quando já interposto."
+  },
+  "74094755": {
+   "fragment_id": "74118381",
+   "type": 11,
+   "heading": "Artigo 10.º — Tramitação subsequente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Tramitação subsequente\n\n1 - A impugnação da conta é sempre submetida à apreciação do conservador, o qual deve proferir, no prazo de cinco dias úteis, despacho a sustentar ou a reparar a elaboração da conta, dele notificando o recorrente.\n\n2 - Sendo sustentada a conta elaborada, o processo deve ser remetido à entidade competente, no prazo de dois dias úteis, instruído com cópia da conta e dos documentos necessários à sua apreciação.\n\n3 - A tramitação da impugnação judicial, incluindo a remessa dos elementos referidos no número anterior ao tribunal competente, pode ser efetuada eletronicamente nos termos a definir por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "74094756": {
+   "fragment_id": "74118382",
+   "type": 11,
+   "heading": "Artigo 11.º — Decisão do recurso hierárquico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Decisão do recurso hierárquico\n\n1 - O recurso hierárquico é decidido no prazo de 30 dias úteis, pelo conselho diretivo do IRN, I. P., que pode determinar que seja previamente ouvido o conselho consultivo.\n\n2 - Quando haja de ser ouvido, o conselho consultivo deve pronunciar-se no prazo máximo de 20 dias úteis, incluído no prazo referido no número anterior.\n\n3 - A decisão proferida é notificada ao recorrente e comunicada ao conservador que sustentou a elaboração da conta.\n\n4 - Sendo o recurso hierárquico deferido, deve ser dado cumprimento à decisão no prazo de um dia útil, sem prejuízo do disposto nos n.os 1 e 4 do artigo seguinte.\n\n5 - Tendo o recurso hierárquico sido julgado improcedente, o interessado pode ainda impugnar judicialmente, por erro, a liquidação da conta ou a aplicação da tabela emolumentar."
+  },
+  "74094757": {
+   "fragment_id": "74118383",
+   "type": 11,
+   "heading": "Artigo 12.º — Restituições de quantias pagas em excesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Restituições de quantias pagas em excesso\n\n1 - A restituição das quantias pagas em excesso é feita, em euros, por transferência bancária no prazo máximo de 30 dias úteis, contados a partir da data da ordem de restituição, sempre que os interessados tenham fornecido um número internacional de identificação bancária (IBAN) e o código internacional de identificação do banco (SWIFT/BIC).\n\n2 - O recurso à transferência bancária é obrigatório sempre que o interessado seja pessoa coletiva, o pedido tenha sido feito por via eletrónica ou, em qualquer caso, sempre que estejam em causa quantias iguais ou superiores a (euro) 100.\n\n3 - A indicação do IBAN e do código SWIFT/BIC é da exclusiva responsabilidade do requerente.\n\n4 - Fora dos casos previstos nos números anteriores, as restituições são feitas, em euros, pela emissão de cheque cruzado enviado ao interessado por correio, no prazo de 60 dias úteis contados a partir da data da ordem de restituição, para a morada aposta na requisição do serviço prestado.\n\n5 - Nos casos previstos nos n.os 1 e 2, sempre que o interessado não forneça o IBAN e o código SWIFT/BIC no prazo de cinco dias úteis após a notificação para o efeito, realizada pelos serviços, a restituição é efetuada nos termos do número anterior.\n\n6 - Perdem a validade a favor do IRN, I. P., os cheques que não forem apresentados até ao último dia do segundo mês seguinte àquele em que foram emitidos.\n\n7 - Decorrido o prazo de validade dos cheques referida no número anterior sem que os mesmos tenham sido levantados ou venham devolvidos pelo correio, cabe ao interessado, no prazo de três anos contados da data da ordem de restituição, requerer ao Presidente do conselho diretivo do IRN, I. P., o reembolso a que tenha direito, indicando, para o efeito, o IBAN e o código SWIFT/BIC.\n\n8 - Para efeitos do disposto nos n.os 1, 2, 4, 5 e 6, os interessados devem fornecer o respetivo número de identificação fiscal e a morada postal completa e, sempre que possível, um endereço de correio eletrónico.\n\n9 - São recolhidos para tratamento automatizado os dados previstos nos números anteriores."
+  },
+  "74094758": {
+   "fragment_id": "74118384",
+   "type": 11,
+   "heading": "Artigo 13.º — Forma das restituições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Forma das restituições\n\n1 - As restituições são processadas de forma centralizada pelo IRN, I. P., na sequência de ordem de restituição efetuada pelos serviços de registo com indicação das verbas a restituir por entidade beneficiária.\n\n2 - A responsabilidade pela conformidade dos valores a restituir e da identificação dos respetivos destinatários com os elementos fornecidos pelos interessados compete aos trabalhadores do serviço de registo que derem a ordem de restituição, sem prejuízo da responsabilidade do conservador na estrita vigilância da regularidade dos procedimentos contabilísticos do serviço de registo que dirige.\n\n3 - Não há lugar à restituição se o valor da mesma for igual ou inferior a (euro) 5 ou a (euro) 25, quando destinada ao estrangeiro, constituindo a mesma receita emolumentar.\n\n4 - A restituição de quantias processada diretamente pelos serviços de registo apenas é admitida:\n\na) No âmbito do Cartão do Cidadão e do Passaporte Eletrónico Português; e\n\nb) Em situações de erro imputável ao serviço de registo.\n\n5 - Por deliberação do conselho diretivo do IRN, I. P., são fixados os termos e as condições em que devem ser processadas as restituições a que se refere o número anterior."
+  },
+  "74094759": {
+   "fragment_id": "74118385",
+   "type": 11,
+   "heading": "Artigo 14.º — Insuficiência do pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Insuficiência do pagamento\n\n1 - Sem prejuízo do disposto em lei especial, quando, no momento do pedido, não forem pagos na totalidade os emolumentos, as taxas e os encargos devidos, o serviço de registo comunica este facto ao interessado, por escrito, através de correio eletrónico ou via postal para que, no prazo de cinco dias úteis, proceda à entrega das quantias em falta.\n\n2 - Não são disponibilizados aos utentes os códigos de acesso às certidões eletrónicas ou outros documentos, que devam ser gratuitamente emitidos na sequência do pedido de registo, enquanto não se mostrarem totalmente pagas as quantias que forem devidas, relativamente àquele pedido."
+  },
+  "74094760": {
+   "fragment_id": "74118386",
+   "type": 11,
+   "heading": "Artigo 15.º — Cobrança coerciva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cobrança coerciva\n\n1 - Sem prejuízo do disposto nos artigos anteriores, se a conta de qualquer ato não for voluntariamente paga pelo responsável, o serviço de registo notifica-o para efetuar o seu pagamento no prazo de cinco dias úteis, sob pena de execução.\n\n2 - As notificações são efetuadas por carta registada e devem conter o valor em dívida, a respetiva fundamentação legal e a indicação dos meios e prazo para impugnação.\n\n3 - As notificações referidas no número anterior podem ser efetuadas por transmissão eletrónica de dados nos termos a definir por portaria do membro do Governo responsável pela área da justiça.\n\n4 - Decorrido o prazo estabelecido sem que a conta seja paga, deve o serviço de registo emitir um certificado com a indicação da data, da natureza do ato praticado, dos responsáveis pelo pagamento e das quantias em dívida, incluindo o custo do certificado e despesas de correio, e submetê-lo à confirmação do IRN, I. P..\n\n5 - Após a confirmação, o certificado é enviado, para fins de execução, ao agente do Ministério Público, com a cópia da notificação.\n\n6 - Quando estiverem reunidas as condições técnicas que permitam aferir da existência de quantias em dívida aos serviços de registo, não são efetuadas quaisquer restituições ao devedor, ainda que respeitantes a outros atos, salvo nas situações de pendência de reclamação ou impugnação.\n\n7 - Por deliberação do conselho diretivo do IRN, I. P., são fixadas as quantias até às quais não se promove a execução, por serem inferiores aos custos administrativos ou processuais que a mesma determina.\n\n8 - Não há lugar à cobrança se, uma vez elaborada a conta de ato de registo, for apurada a título de crédito importância inferior ou igual a (euro) 5."
+  },
+  "74094761": {
+   "fragment_id": "74118387",
+   "type": 11,
+   "heading": "Artigo 16.º — Regularização de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regularização de contas\n\n1 - Sempre que o serviço de registo verifique a existência de erro ou a omissão da elaboração da conta, a respetiva retificação deve ser efetuada pelos serviços centrais competentes do IRN, I. P..\n\n2 - Por deliberação do conselho diretivo do IRN, I. P., pode ser delegada nos conservadores competência para a retificação da conta.\n\n3 - Fora dos casos previstos no n.º 1, o IRN, I. P., quando constate, por qualquer meio, ter sido cobrado valor inferior ou superior à quantia devida, determina a cobrança ou a restituição da diferença, sem prejuízo dos prazos de caducidade da liquidação ou de prescrição previstos nas leis fiscais."
+  },
+  "74094762": {
+   "fragment_id": "74118388",
+   "type": 11,
+   "heading": "Artigo 17.º — Depósito das quantias recebidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Depósito das quantias recebidas\n\nEnquanto não estiverem reunidas as condições técnicas que permitam a unificação das contas, as quantias recebidas pelos serviços de registo são depositadas em contas tituladas pelo IRN, I. P., nos termos e condições a fixar por deliberação do conselho diretivo do IRN, I. P.."
+  },
+  "74094763": {
+   "fragment_id": "74118389",
+   "type": 11,
+   "heading": "Artigo 18.º — Pagamentos a entidades terceiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pagamentos a entidades terceiras\n\n1 - Compete ao IRN, I. P., a entrega das quantias que constituem receita do Instituto de Gestão Financeira e de Equipamentos da Justiça, I. P. (IGFEJ, I. P.), da Autoridade Tributária e Aduaneira (AT), da Direção Regional da Administração da Justiça da Madeira e demais entidades, nos termos da lei, na sequência da informação fornecida pelos serviços de registo.\n\n2 - As obrigações impostas aos conservadores em matéria de entrega de impostos são cumpridas através do IRN, I. P.."
+  },
+  "74094764": {
+   "fragment_id": "74118390",
+   "type": 11,
+   "heading": "Artigo 19.º — Regra de custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regra de custas\n\n1 - Sempre que os emolumentos devam entrar em regra de custas processuais ou os requerentes beneficiem de apoio judiciário as quantias são descontadas na receita do IGFEJ, I. P., cobrada pelos serviços do registo.\n\n2 - O montante que vier a ser obtido por via das custas processuais ou apoio judiciário constitui receita do IGFEJ, I. P..\n\n3 - Não obsta ao disposto no n.º 1 a eventual incobrabilidade da conta de custas ou o benefício de apoio judiciário do requerente."
+  },
+  "74094765": {
+   "fragment_id": "74118391",
+   "type": 11,
+   "heading": "Artigo 20.º — Repartição de Receita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Repartição de Receita\n\n1 - Salvo disposição legal em contrário, a receita emolumentar cobrada é repartida entre o IRN, I. P., e o IGFEJ, I. P., na percentagem de 70 % e de 30 %, respetivamente.\n\n2 - A regra de repartição de receita estabelecida no número anterior é também aplicável:\n\na) Às verbas que, tendo sido objeto de apropriação ilegítima, venham a ser restituídas ao IRN, I. P.;\n\nb) Às quantias depositadas nas contas do IRN, I. P., destinadas ao pagamento de pedidos que não venham a ser efetuados ou concluídos pelos interessados no prazo de seis meses, se o respetivo reembolso não for requerido pelos interessados no mesmo prazo;\n\nc) Aos preparos não reclamados e às restituições apuradas e não reclamadas, ou às restituições não concretizadas por motivo não imputável ao IRN, I. P., e ainda às quantias resultantes da regularização de operações contabilísticas não reconciliáveis se o seu reembolso não for expressamente requerido ao conselho diretivo do IRN, I. P., no prazo de três anos contados da data da ordem de restituição e, nos restantes casos, três anos após o depósito nas contas do IRN, I. P..\n\n3 - Compete ao IRN, I. P., fazer o apuramento dos valores em face das percentagens referidas no n.º 1 e proceder à entrega das quantias que constituem receita do IGFEJ, I. P..\n\n4 - As percentagens referidas no n.º 1 podem ser revistas, por acordo entre o IRN, I. P., e o IGFEJ, I. P., para produzir efeito sobre a receita do ano seguinte."
+  },
+  "74094766": {
+   "fragment_id": "74118392",
+   "type": 1,
+   "heading": "Capítulo III — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Alterações legislativas"
+  },
+  "74094767": {
+   "fragment_id": "74118393",
+   "type": 11,
+   "heading": "Artigo 21.º — Alteração ao Código do Registo Predial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Alteração ao Código do Registo Predial\n\nO artigo 73.º do Código do Registo Predial, aprovado pelo Decreto-Lei n.º 224/84, de 6 de julho, passa a ter a seguinte redação:\n\n«Artigo 73.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [Revogado].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - O suprimento de deficiências nos termos dos n.os 2, 3 e 7 depende da entrega das quantias devidas.\n\n10 - [...]»."
+  },
+  "74094768": {
+   "fragment_id": "74118394",
+   "type": 11,
+   "heading": "Artigo 22.º — Alteração ao Código do Registo Comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração ao Código do Registo Comercial\n\nOs artigos 52.º e 110.º do Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 52.º\n\n[...]\n\n1 - [...].\n\n2 - Não sendo possível o suprimento das deficiências, nos termos previstos no número anterior, e tratando-se de deficiência que não envolva novo pedido de registo nem constitua motivo de recusa nos termos das alíneas c) a e) e h) do n.º 1 do artigo 48.º, o serviço de registo competente comunica este facto ao interessado, por correio eletrónico, sempre que o interessado tenha fornecido o respetivo endereço, ou por qualquer meio idóneo, para que este, no prazo de cinco dias, proceda a tal suprimento, sob pena de o registo ser lavrado como provisório ou recusado.\n\n3 - O registo não é lavrado provisoriamente ou recusado se as deficiências em causa respeitarem à omissão de documentos a emitir pelas entidades referidas no n.º 1 e a informação deles constante não puder ser obtida nos termos aí previstos, desde que o interessado tenha expressamente solicitado ao serviço de registo, pessoalmente ou por escrito, através de correio eletrónico ou sob registo postal, e no prazo referido no número anterior, que diligencie pela sua obtenção diretamente às entidades ou serviços da Administração Pública.\n\n4 - [Revogado].\n\n5 - A falta de apresentação do título que constitua motivo de recusa, nos termos da alínea b) do n.º 1 do artigo 48.º pode ser suprida, com observância dos números anteriores, desde que o facto sujeito a registo seja anterior à data da apresentação ou à hora desta se, sendo da mesma data, o título contiver a menção da hora em que foi assinado ou concluído.\n\n6 - [Revogado].\n\n7 - O suprimento de deficiências nos termos dos n.os 2, 3 e 5 depende da entrega das quantias devidas.\n\n8 - Das decisões tomadas no âmbito do suprimento de deficiências não cabe recurso hierárquico ou impugnação judicial.\n\nArtigo 110.º\n\nImpugnação da recusa de emissão de certidões\n\n1 - Assiste ao interessado o direito de recorrer hierarquicamente ou de promover a impugnação judicial da decisão de recusa de emissão de certidão.\n\n2 - [...].\n\n3 - No recurso hierárquico a que se refere o presente artigo, os prazos estabelecidos nos n.os 1 e 3 do artigo 101.º-B e no n.º 1 do artigo 102.º são reduzidos a 5, 2 e 30 dias, respetivamente.\n\n4 - O prazo para a interposição do recurso hierárquico conta-se a partir da comunicação do despacho de recusa.\n\n5 - Ao recurso hierárquico a que se refere o presente artigo é subsidiariamente aplicável o disposto no Código do Procedimento Administrativo.\n\n6 - A impugnação judicial prevista no n.º 1 é dirigida ao tribunal administrativo com jurisdição sobre a área da circunscrição da conservatória e rege-se pelo disposto na legislação processual aplicável.»"
+  },
+  "74094769": {
+   "fragment_id": "74118395",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Regulamento do Registo de Automóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Regulamento do Registo de Automóveis\n\nO artigo 42.º-A do Regulamento do Registo de Automóveis, aprovado pelo Decreto n.º 55/75, de 12 de fevereiro, passa a ter a seguinte redação:\n\n«Artigo 42.º-A\n\n[...]\n\n1 - [...].\n\n2 - Não sendo possível o suprimento das deficiências nos termos previstos no número anterior, o serviço de registo comunica este facto ao interessado por correio eletrónico, sempre que este forneça o respetivo endereço, ou por qualquer outro meio idóneo, para que, no prazo de cinco dias, proceda a tal suprimento, sob pena de o registo ser recusado.\n\n3 - O registo não é recusado se as deficiências em causa respeitarem à omissão de documentos a emitir pelas entidades referidas no n.º 1 e a informação deles constante não puder ser obtida nos termos aí previstos, desde que o interessado tenha expressamente solicitado ao serviço de registo, pessoalmente ou por escrito, e no prazo referido no número anterior, que diligencie pela sua obtenção diretamente às entidades ou serviços da Administração Pública.\n\n4 - [Revogado].\n\n5 - Das decisões tomadas no âmbito do suprimento de deficiências não cabe recurso hierárquico ou impugnação judicial.\n\n6 - O suprimento de deficiências nos termos dos n.os 2 e 3 depende da entrega das quantias devidas.»"
+  },
+  "74094770": {
+   "fragment_id": "74118396",
+   "type": 11,
+   "heading": "Artigo 24.º — Alteração ao Regulamento Emolumentar dos Registos e do Notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Alteração ao Regulamento Emolumentar dos Registos e do Notariado\n\nOs artigos 10.º, 12.º, 14.º, 15.º, 16.º, 16.º-A, 16.º-B, 18.º, 19.º, 21.º, 22.º, 24.º, 27.º e 27.º-A do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, passam a ter a seguinte redação:\n\n«Artigo 10.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nl) [...];\n\nm) [...];\n\nn) [...];\n\no) [...];\n\np) [...];\n\nq) [...];\n\nr) [...];\n\ns) Certidões a que se referem o n.º 2 do artigo 189.º, a alínea g) do n.º 1 do artigo 210.º-F, os n.os 5 a 7 do artigo 215.º e a alínea e) do n.º 1 do artigo 272.º-B do Código do Registo Civil;\n\nt) [...];\n\nu) [...];\n\nv) [...];\n\nx) [...];\n\nz) [...];\n\naa) [...];\n\nab) [...];\n\nac) [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\nArtigo 12.º\n\n[...]\n\n1 - [...].\n\n2 - São igualmente gratuitas as certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.\n\nArtigo 14.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas;\n\nd) [...].\n\nArtigo 15.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas;\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...].\n\nArtigo 16.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas;\n\ne) [...].\n\nArtigo 16.º-A\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.\n\nArtigo 16.º-B\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) Certidões, fotocópias, informações e comunicações que decorram do cumprimento de obrigações legais e que não devam entrar em regra de custas.\n\nArtigo 18.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\n2.1 - [...];\n\n2.2 - [...];\n\n2.2.1 - [...];\n\n2.2.2 - [...];\n\n2.3 - [...];\n\n2.4 - [...].\n\n3 - [...].\n\n4 - [...]:\n\n4.1 - [...];\n\n4.2 - Pelo registo da convenção ou da sua alteração efetuada perante entidade diversa de conservatória do registo civil - (euro) 30.\n\n5 - [...].\n\n6 - [...]:\n\n6.1 - [...];\n\n6.2 - [...];\n\n6.2.1 - [...];\n\n6.2.2 - O emolumento devido pelos processos previstos nos n.os 6.2 e 6.2.1 inclui todos os registos de bens móveis ou participações sociais, bem como o registo de aquisição dos bens imóveis adjudicados a um dos partilhantes, e a ele acresce:\n\na) [...];\n\nb) [...].\n\n6.2.3 - [...];\n\n6.3 - [...];\n\n6.4 - [...];\n\n6.5 - [...];\n\n6.6 - [...];\n\n6.7 - [...];\n\n6.8 - [...];\n\n6.9 - [...];\n\n6.10 - [...]:\n\n6.10.1 - [...];\n\n6.10.2 - [...];\n\n6.10.3 - [...];\n\n6.10.4 - [...];\n\n6.10.5 - O valor fixado para o processo previsto no n.º 6.10.2 inclui todos os registos de bens imóveis, móveis ou participações sociais e a ele acresce por cada bem, além do primeiro, (euro) 30 por imóvel, quota ou participação social, (euro) 20 por cada bem móvel, ou (euro) 15 tratando-se de bem a que se refere o n.º 1.6 do artigo 25.º do presente Regulamento, até ao limite de (euro) 30 000.\n\n6.10.5.1 - O emolumento devido pelos processos previstos nos n.os 6.10.3 e 6.10.4 inclui todos os registos de bens móveis ou participações sociais, bem como o registo de aquisição dos bens imóveis adjudicados a um dos partilhantes, e a ele acresce:\n\na) [...];\n\nb) [...];\n\n6.10.5.2 - [...];\n\n6.10.6 - [...];\n\n6.10.7 - [...];\n\n6.10.8 - [...];\n\n6.11 - [...];\n\n6.12 - [...];\n\n6.13 - Pela desistência ou não conclusão de atos, processos e procedimentos previstos no presente artigo, por motivos imputáveis às partes é devido metade do emolumento previsto;\n\n6.14 - [...];\n\n6.14.1 - [...];\n\n6.14.2 - [...].\n\n7 - [...]:\n\n7.1 - [...];\n\n7.1.1 - [...];\n\n7.1.2 - [...];\n\n7.1.3 - [...];\n\n7.1.4 - [...];\n\n7.2 - [...];\n\n7.3 - [...];\n\n7.4 - [...];\n\n7.5 - [Revogado];\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - [Revogado].\n\n13 - [...].\n\n13.1 - [...];\n\n13.2 - [...];\n\n13.3 - [...];\n\n13.4 - [Revogado].\n\n13.5 - [Revogado].\n\nArtigo 19.º\n\n[...]\n\n1 - [Revogado].\n\n2 - Em cada procedimento de aquisição da nacionalidade em que o Serviço de Estrangeiros e Fronteiras (SEF) preste informações, dos emolumentos cobrados pertencem ao SEF (euro) 20.\n\nArtigo 21.º\n\n[...]\n\n1 - [...].\n\n1.1 - [...].\n\n1.2 - O facto que respeite a diversos prédios é cobrado por inteiro relativamente ao primeiro, acrescido de (euro) 50 por cada prédio a mais, até ao limite de (euro) 30 000, com exceção dos atos de anexação a que se refere a verba 2.17 e do ónus de não fracionamento referido na verba 2.18, casos em que o acréscimo é devido apenas a partir do terceiro prédio.\n\n1.3 - [...].\n\n1.4 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - Pela recusa, exceto nos casos abrangidos pelo n.º 8 do artigo 73.º do Código do Registo Predial - (euro) 50.\n\n12.1 - Se o emolumento devido pelo ato de registo for inferior ao emolumento previsto no número anterior, pela recusa é devido o emolumento correspondente ao ato.\n\n13 - Pelo suprimento oficioso de deficiências que ocorra no âmbito dos n.os 2, 3, 7 ou 8 do artigo 73.º do Código do Registo Predial - (euro) 30.\n\n14 - [...].\n\n15 - [Revogado].\n\n16 - [...].\n\n17 - [...].\n\n18 - [...].\n\n19 - [...].\n\n20 - [Revogado].\n\nArtigo 22.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - [...].\n\n13 - [...].\n\n14 - [...].\n\n15 - [...].\n\n16 - [...].\n\n17 - [...].\n\n18 - [...].\n\n19 - [...].\n\n20 - [...].\n\n21 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 52.º, n.os 2, 3 ou 5 do Código do Registo Comercial - 30 (euro).\n\n22 - [...].\n\n23 - [Revogado].\n\n24 - [Revogado].\n\n25 - [...].\n\n26 - [Revogado].\n\nArtigo 24.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - Pelo suprimento oficioso de deficiências que ocorra no âmbito do artigo 73.º, n.os 2, 3 ou 7, do Código do Registo Predial - 30 (euro).\n\nArtigo 27.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...]:\n\n3.1 - [...]:\n\n3.2 - [...]:\n\n3.3 - [...]:\n\n3.4 - [...];\n\n3.5 - [...];\n\n3.6 - [...];\n\n3.7 - [...];\n\n3.8 - [Revogado];\n\n3.8.1 - [Revogado].\n\n4 - [...].\n\n5 - [...]:\n\n5.1 - Por cada processo de recurso hierárquico - 175 (euro)\n\n5.1.1 - Por cada processo de recurso hierárquico de conta ou de recusa de passagem de certidão - 120 (euro)\n\n5.2 - [...];\n\n5.3 - [...];\n\n5.4 - [...];\n\n6 - [...].\n\n7 - [...].\n\n8 - [...]:\n\n8.1 - [...];\n\n8.2 - [...];\n\n8.3 - [Revogado].\n\n9 - [...].\n\n10 - [...].\n\nArtigo 27.º-A\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...]:\n\n7.1 - No caso de procedimento que titule atos de permuta, o acréscimo previsto no número anterior conta-se apenas a partir do terceiro prédio.\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [Revogado].»"
+  },
+  "74094771": {
+   "fragment_id": "74118397",
+   "type": 11,
+   "heading": "Artigo 25.º — Aditamento ao Regulamento Emolumentar dos Registos e do Notariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Aditamento ao Regulamento Emolumentar dos Registos e do Notariado\n\nÉ aditado ao Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, o artigo 18.º-A, com a seguinte redação:\n\n«Artigo 18.º-A\n\nEmolumentos do Certificado Sucessório Europeu\n\n1 - Pelo pedido de emissão do certificado sucessório europeu - (euro) 200;\n\n1.1 - Pela desistência ou não conclusão do procedimento para emissão do certificado sucessório europeu, por motivos imputáveis ao requerente é devido metade do emolumento previsto.\n\n1.2 - Pela retificação, modificação ou revogação do certificado por erro não imputável aos serviços, e respetivo averbamento - (euro) 100;\n\n1.3 - Pela emissão de documento relativo à desistência ou indeferimento do pedido de certificado sucessório europeu, por motivo imputável às partes - (euro) 50;\n\n1.4 - Por cada consulta efetuada a bases de dados registais ou de testamentos no âmbito da emissão do certificado é devido valor igual ao valor mais baixo previsto para a emissão de certidão online, ou em papel caso aquela não exista, relativa a cada espécie de registo;\n\n1.5 - O valor previsto no número anterior é devido ainda que o prédio não esteja descrito;\n\n1.6 - O disposto nos números anteriores só é aplicável se inexistir código de acesso válido a certidão permanente e não for apresentada pelos interessados a correspondente certidão em suporte papel e determina a entrega da chave de acesso à certidão permanente ou a correspondente certidão em suporte de papel.\n\n2 - Cópias autenticadas:\n\n2.1 - Por cada cópia autenticada ou sua revalidação - (euro) 35;\n\n2.2 - A primeira cópia autenticada emitida após a feitura dos atos previstos nos n.os 1 e 1.2 é gratuita.\n\n3 - Os emolumentos previstos no presente artigo têm um valor único, incluindo os montantes a pagar a título de emolumentos pessoais, quando estes sejam devidos.»"
+  },
+  "74094772": {
+   "fragment_id": "74118398",
+   "type": 11,
+   "heading": "Artigo 26.º — Alteração ao Decreto-Lei n.º 247-B/2008, de 30 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Alteração ao Decreto-Lei n.º 247-B/2008, de 30 de dezembro\n\nO artigo 14.º do Decreto-Lei n.º 247-B/2008, de 30 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 14.º\n\n[...]\n\nPela emissão do cartão da empresa ou do cartão de pessoa coletiva são devidas taxas de montante fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça.»"
+  },
+  "74094773": {
+   "fragment_id": "74118399",
+   "type": 11,
+   "heading": "Artigo 27.º — Alteração ao Decreto-Lei n.º 519-F2/79, de 29 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Alteração ao Decreto-Lei n.º 519-F2/79, de 29 de dezembro\n\nO artigo 6.º-A do Decreto-Lei n.º 519-F2/79, de 29 de dezembro, passa a ter a seguinte redação:\n\n«Artigo 6.º-A\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Quando o facto incidir sobre um prédio situado em mais do que uma freguesia:\n\na) O pedido de registo pode ser apresentado por referência a qualquer delas;\n\nb) O registo é efetuado em todas, sem acréscimo emolumentar por este facto.»"
+  },
+  "74094774": {
+   "fragment_id": "74118400",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "74118475": {
+   "fragment_id": "74118401",
+   "type": 11,
+   "heading": "Artigo 28.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Normas transitórias\n\n1 - Até que estejam reunidas as condições técnicas que permitam a emissão de referência para pagamento pelos serviços de registo e a verificação do pagamento eletrónico nos termos dos n.os 1 e 6 do artigo 4.º relativamente aos pedidos efetuados junto dos serviços de registo, esta verificação é da responsabilidade do funcionário que os recebe.\n\n2 - Até à verificação das condições previstas no número anterior, a ordem de restituição prevista no n.º 1 do artigo 13.º é efetuada nos termos de deliberação do conselho diretivo do IRN, I. P..\n\n3 - Aos atos pedidos fora do território nacional continuam a aplicar-se as modalidades de pagamento atualmente disponíveis nos serviços de registo até que estejam reunidas as condições técnicas referidas no n.º 1, para a utilização nestes casos.\n\n4 - Sem prejuízo do disposto no n.º 3 do artigo 20.º, enquanto não se verificar o efetivo depósito das quantias recebidas pelos serviços de registo em contas tituladas pelo IRN, I. P., mantém-se nos primeiros o dever de distribuição de receita pelas respetivas entidades destinatárias.\n\n5 - A confirmação da existência das condições técnicas referidas nos n.os 1 a 3, depende de deliberação do conselho diretivo do IRN, I. P., publicada na 2.ª série do Diário da República."
+  },
+  "74118476": {
+   "fragment_id": "74118402",
+   "type": 11,
+   "heading": "Artigo 29.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Norma revogatória\n\nSão revogados:\n\na) O n.º 4 do artigo 42.º-A e o artigo 65.º do Regulamento do Registo de Automóveis, aprovado pelo Decreto n.º 55/75, de 12 de fevereiro;\n\nb) Os artigos 128.º a 136.º e 137.º-A do Decreto Regulamentar n.º 55/80, de 8 de outubro, que aprova o Regulamento dos Serviços de Registo e Notariado;\n\nc) O n.º 4 do artigo 73.º do Código do Registo Predial, aprovado pelo Decreto-Lei n.º 224/84, de 6 de julho;\n\nd) Os n.os 4 e 6 do artigo 52.º, o n.º 3 do artigo 70.º e os n.os 3 a 6 do artigo 114.º do Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de dezembro;\n\ne) O artigo 299.º do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de junho;\n\nf) O Decreto-Lei n.º 363/97, de 20 de dezembro, que permite a utilização de meios eletrónicos de pagamento nos serviços dos registos e do notariado;\n\ng) O artigo 89.º do Regime do Registo Nacional de Pessoas Coletivas, aprovado pelo Decreto-Lei n.º 129/98, de 13 de maio;\n\nh) O n.º 4 do artigo 9.º, os n.os 7.5, 12, 13.4 e 13.5 do artigo 18.º, o n.º 1 do artigo 19.º, os n.os 15 e 20 do artigo 21.º, os n.os 23, 24 e 26 do artigo 22.º, os n.os 9 e 10 do artigo 23.º, os n.os 5.7, 5.8, 10, 12, 12.1 e 14.1 do artigo 25.º, os n.os 3.8, 3.8.1 e 8.3 do artigo 27.º e o n.º 11 do artigo 27.º-A do Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro;\n\ni) O n.º 6 do artigo 24.º do Decreto-Lei n.º 178-A/2005, de 28 de outubro, alterado pelos Decretos-Leis n.os 85/2006, de 23 de maio, e 20/2008, de 31 de janeiro."
+  },
+  "74118477": {
+   "fragment_id": "74118403",
+   "type": 11,
+   "heading": "Artigo 30.º — Verbas em regra de custas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Verbas em regra de custas\n\nOs montantes que venham a ser apurados por via das custas processuais, relativos a quantias lançadas em regra de custas em data anterior à entrada em vigor do artigo 151.º do Código do Registo Predial, na redação dada pelo Decreto-Lei n.º 116/2008, de 4 de julho, do artigo 114.º do Código do Registo Comercial, na redação dada pelo Decreto-Lei n.º 247-B/2008, de 30 de dezembro, e do artigo 299.º do Código do Registo Civil, na redação dada pelo Decreto-Lei n.º 209/2012, de 19 de setembro, constituem receita do IGFEJ, I. P.."
+  },
+  "74118478": {
+   "fragment_id": "74118404",
+   "type": 11,
+   "heading": "Artigo 31.º — Serviços regionalizados da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Serviços regionalizados da Madeira\n\n1 - Com exceção do disposto no artigo 20.º, o presente decreto-lei é aplicável aos serviços dos registos e do notariado regionalizados.\n\n2 - Sem prejuízo do disposto no número anterior, as normas do presente decreto-lei que careçam de adaptação orgânica ou da existência de condições técnicas que permitam a sua implementação nos serviços regionalizados da Madeira apenas lhes são aplicáveis quando for efetuada a respetiva adaptação ou estiverem reunidas aquelas condições.\n\n3 - A adaptação orgânica e a verificação das condições técnicas referidas no número anterior são efetuadas por decreto regulamentar regional."
+  },
+  "74118479": {
+   "fragment_id": "74118405",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\n1 - Sem prejuízo do disposto no número seguinte, o presente decreto-lei entra em vigor no primeiro dia do segundo mês seguinte ao da sua publicação.\n\n2 - O disposto no artigo 25.º entra em vigor no dia seguinte ao da publicação do presente decreto-lei."
+  },
+  "911628127": {
+   "fragment_id": "74118375",
+   "type": 11,
+   "heading": "Artigo 4.º — Meios de pagamento",
+   "in_force_from": "2025-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Meios de pagamento\n\n1 - O pagamento das quantias a cobrar pelos serviços de registo é efetuado através dos meios eletrónicos disponíveis, designadamente, nos terminais de pagamento automático existentes nos referidos serviços ou através da emissão de uma referência para o efeito.\n\n2 - É ainda admitido o pagamento em numerário, através de notas de crédito sobre o IRN, I. P., ou por cheque visado ou bancário de entidade com representação em Portugal, em moeda em curso em Portugal.\n\n3 - O pagamento de quantias superiores a (euro) 2000 é obrigatoriamente efetuado através dos meios eletrónicos disponíveis ou por cheque visado ou bancário.\n\n4 - O Estado, as Regiões Autónomas, as autarquias locais, os fundos e serviços autónomos e as entidades que integrem o sector empresarial do Estado, das Regiões Autónomas e das autarquias locais, e demais pessoas coletivas públicas podem efetuar pagamentos em cheque não visado.\n\n5 - Os cheques a que se referem os números anteriores apenas são admitidos para pagamento se forem sacados sobre contas domiciliadas em Portugal.\n\n6 - O pagamento através de referência eletrónica considera-se efetuado no momento da receção pelos sistemas de registo da comunicação remetida pelo sistema interbancário.\n\n7 - A admissibilidade do pagamento através de notas de crédito e cartão de crédito fica dependente de deliberação do conselho diretivo do IRN, I. P., publicada na 2.ª série do Diário da República, que pode fixar uma sobretaxa destinada a fazer face aos custos de utilização do cartão de crédito.\n\n8 - Mediante protocolo com o IRN, I. P., podem ser estabelecidos outros meios de pagamento, nomeadamente o recurso à transferência bancária.\n\n9 - Enquanto não estiverem reunidas as condições técnicas para que todos os serviços online disponibilizem referência para pagamento eletrónico dos complementos de preparo, o conselho diretivo do IRN, I. P., pode deliberar a afetação de uma ou mais contas bancárias ao pagamento por transferência bancária.\n\n> Alterado pelo/a Artigo 162.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+  },
+  "74118480": {
+   "fragment_id": "74118406",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de agosto de 2015. - Paulo Sacadura Cabral Portas - Maria Luís Casanova Morgado Dias de Albuquerque - Anabela Maria Pinto de Miranda Rodrigues - Paula Maria von Hafe Teixeira da Cruz - Leonardo Bandeira de Melo Mathias.\n\nPromulgado em 10 de setembro de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de setembro de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

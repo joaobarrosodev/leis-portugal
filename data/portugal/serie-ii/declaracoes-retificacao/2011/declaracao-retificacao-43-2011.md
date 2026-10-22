@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:1795965:por
+title: Declaração de Rectificação n.º 43/2011
+short_title: null
+summary: Rectifica o procedimento concursal comum de ocupação de diversos postos de trabalho, em regime de contrato de trabalho
+  em funções públicas, por tempo indeterminado
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Município de Vendas Novas
+proposing_entity: null
+official_number: 43/2011
+official_date: null
+publication_date: '2011-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 5/2011, Série II de 2011-01-07
+  number: '5'
+  series: II
+  supplement: null
+  pages: 1211 - 1211
+  pdf_url: https://files.diariodarepublica.pt/2s/2011/01/005000000/0121101211.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1795965'
+  dre_path: /dr/detalhe/declaracao-rectificacao/43-2011-1795965
+  internal: pt:dre:1795965:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2011-1795965
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/43-2011-1795965
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-01-07T00:00:00Z'
+integrity:
+  source_sha256: de4722f8abf47f1211db8b2d09efc0a545e5e354e1b9b066237fcf9f5034ea4b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-43-1795965.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 43/2011
+
+Procedimentos concursais comuns para ocupação de diversos postos de trabalho, em regime de contrato de trabalho em funções públicas, por tempo indeterminado
+
+Para os devidos efeitos se torna pública a rectificação do aviso n.º 12 040/2010, publicado no Diário da República, 2.ª série, n.º 120, de 16 de Junho de 2010, a seguir referida:
+
+Assim, onde se lê, no ponto 12 do concurso acima referenciado, «Métodos de Selecção e Critérios Gerais: prova de conhecimentos (PC), avaliação psicológica (AP) e entrevista profissional de selecção (EPS), sendo valorados nos termos do previsto no artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22/01, e com as seguintes ponderações:
+
+a) Prova de conhecimentos (PC) - 40 %
+
+b) Avaliação Psicológica (AP) - 30 %
+
+c) Entrevista Profissional de Selecção (EPS) - 30 %»
+
+deve ler-se «Métodos de selecção e critérios gerais: prova de conhecimentos (PC) e entrevista profissional de selecção (EPS), sendo valorados nos termos do previsto no artigo 18.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401) e com as seguintes ponderações:
+
+a) Prova de conhecimento (PC) - 70 %;
+
+b) Entrevista profissional de selecção - 30 %.»
+
+28 de Dezembro de 2010. - O Presidente da Câmara Municipal, José Maria Rodrigues Figueira.

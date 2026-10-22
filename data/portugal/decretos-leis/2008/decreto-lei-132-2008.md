@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:456779:por
+title: Decreto-Lei n.º 132/2008
+short_title: null
+summary: Procede à primeira alteração ao Decreto-Lei n.º 148/2007, de 27 de Abril, que aprovou a orgânica do Instituto de
+  Infra-Estruturas Rodoviárias, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 132/2008
+official_date: null
+publication_date: '2008-07-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 139/2008, Série I de 2008-07-21
+  number: '139'
+  series: I
+  supplement: null
+  pages: 4521 - 4522
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/07/13900/0452104522.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/132/2008/07/21/p/dre/pt/html
+  oj: null
+  dre: '456779'
+  dre_path: /dr/detalhe/decreto-lei/132-2008-456779
+  internal: pt:dre:456779:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2008-456779
+  metadata_url: https://data.dre.pt/eli/dec-lei/132/2008/07/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2008-456779
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-10-31T00:00:00Z'
+integrity:
+  source_sha256: 90724685c646d38db521f77e41a18aa5ac5a8041c5b7756a0b2c74c2aecb3924
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-132-456779.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Gestão Financeira
+- Contrato de Concessão
+- Definição de Competências
+- Rede de Estradas
+- Gestão do Património
+- Instituto Público
+- Instituto das Estradas de Portugal
+- Orgânica
+- Representante do Estado
+- Transferência de Competências
+- Instituto de Infra-Estruturas Rodoviárias
+relationships:
+- type: amended_by
+  target: pt:dre:191561:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/148/2007/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/148/2007/04/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/380/2007/11/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/380/2007/11/13/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 132/2008
+
+de 21 de Julho
+
+O [Decreto-Lei n.º 148/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2007-521020), de 27 de Abril, criou o InIR - Instituto de Infra-Estruturas Rodoviárias, I. P. (InIR, I. P.), tendo os respectivos estatutos sido aprovados através da Portaria n.º 546/2007, de 30 de Abril.
+
+Nos termos do referido decreto-lei, o InIR, I. P., tem atribuições ao nível da fiscalização e supervisão da gestão e exploração da rede rodoviária, controlando o cumprimento das leis e regulamentos e dos contratos de concessão, com objectivo de assegurar a realização do Plano Rodoviário Nacional e garantir a eficiência, equidade, qualidade e segurança das infra-estruturas.
+
+A experiência já obtida na execução prática destas atribuições recomenda que sejam feitos pequenos ajustes no regime legal que lhe é aplicável, de forma a reforçar a sua eficácia, seja nas actividades próprias da regulação, seja, principalmente, na representação do Estado perante terceiros.
+
+Com a entrada em vigor do [Decreto-Lei n.º 380/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-2007-629160), de 13 de Novembro, foram introduzidas grandes mudanças na configuração e papel de alguns agentes do sector. Em particular, o papel desempenhado pela EP - Estradas de Portugal, S. A., no contexto do sector rodoviário, foi profundamente modificado. No novo modelo do sector rodoviário, a EP - Estradas de Portugal, S. A., assume a qualidade de concessionária do Estado, isto é, um operador de mercado, não detendo, actualmente, quaisquer competências próprias ou de representação do Estado nos contratos de concessão vigentes.
+
+Perante esta situação, torna-se conveniente, por um lado, definir qual a entidade que representará o concedente Estado nos contratos de concessão que possam vir a ser por este celebrados no futuro; por outro, é essencial clarificar qual a entidade que passa a exercer os poderes ou faculdades anteriormente atribuídas à Estradas de Portugal, E. P. E. (ou a qualquer entidade que a tenha antecedido nas suas atribuições), no âmbito dos contratos de concessão do Estado actualmente em vigor.
+
+Atendendo a que, nos termos do n.º 1 do artigo 23.º do [Decreto-Lei n.º 148/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2007-521020), de 27 de Abril, o InIR, I. P., sucede nas atribuições da, à data, EP - Estradas de Portugal, E. P. E., em matéria de supervisão das infra-estruturas rodoviárias, deve entender-se que aqueles poderes ou faculdades deverão ser exercidos por aquele instituto.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao [Decreto-Lei n.º 148/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2007-521020), de 27 de Abril
+
+Os artigos 3.º e 23.º do [Decreto-Lei n.º 148/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/148-2007-521020), de 27 de Abril, passam a ter a seguinte redacção:
+
+«Artigo 3.º
+
+Missão e atribuições
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - O InIR, I. P. representa o Estado perante os concessionários das infra-estruturas rodoviárias cabendo-lhe, sem prejuízo de outras atribuições que a lei lhe confira neste âmbito, designadamente:
+
+a) Exercer os poderes e as competências atribuídas ao concedente Estado, por lei ou por contrato;
+
+b) Gerir, em nome e representação do Estado, os contratos de concessão da rede rodoviária;
+
+c) Acompanhar o cumprimento, pelos concessionários, dos contratos referidos na alínea anterior;
+
+d) Fiscalizar o cumprimento, pelos concessionários, das respectivas obrigações legais, regulamentares e contratuais.
+
+5 - O disposto no número anterior não é aplicável ao exercício dos poderes e das competências para as quais a lei ou contrato exija, expressamente, a intervenção do Ministro das Finanças ou do Ministro das Obras Públicas, sem prejuízo da faculdade de delegação que lhes possa assistir.
+
+6 - (Anterior n.º 4.)
+
+###### Artigo 23.º — Sucessão
+
+1 - ...
+
+2 - No âmbito dos contratos de concessão do Estado, definidos nos termos do anexo i do [Decreto-Lei n.º 380/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/380-2007-629160), de 13 de Novembro, sempre que se atribuam poderes ou faculdades ao Instituto das Estradas de Portugal, I. P., ou a qualquer entidade que lhe tenha antecedido ou sucedido nas suas atribuições, tais poderes ou faculdades passam a ser exercidos pelo InIR, I. P.
+
+3 - (Anterior n.º 2.)
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+6 - (Anterior n.º 5.)»
+
+###### Artigo 2.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos a 14 de Novembro de 2007.
+
+Visto e aprovado em Conselho de Ministros de 31 de Janeiro de 2008. - José Sócrates Carvalho Pinto de Sousa - Emanuel Augusto dos Santos - Mário Lino Soares Correia.
+
+**Promulgado em 9 de Julho de 2008.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 10 de Julho de 2008.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

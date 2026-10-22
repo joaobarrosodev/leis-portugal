@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:354479:por
+title: Portaria n.º 709/88
+short_title: null
+summary: Define as condições de utilização de transportes colectivos, em função de fiscalização, pelos funcionários da Direcção-Geral
+  de Viação (DGV)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações - Secretaria de Estado dos Transportes Interiores
+proposing_entity: null
+official_number: 709/88
+official_date: null
+publication_date: '1988-10-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 248/1988, Série I de 1988-10-26
+  number: '248'
+  series: I
+  supplement: null
+  pages: 4361 - 4362
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/10/24800/43614362.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '354479'
+  dre_path: /dr/detalhe/portaria/709-1988-354479
+  internal: pt:dre:354479:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/709-1988-354479
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/709-1988-354479
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-10-26T00:00:00Z'
+integrity:
+  source_sha256: 07de47449a97d75ec52bc9e12dcddeb3680d87453962383def331945893a46d7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-709-354479.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 709/88
+
+de 26 de Outubro
+
+O [Decreto-Lei n.º 106/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361), de 6 de Março, estabeleceu no seu artigo 2.º, n.º 2, um regime especial para a utilização de transportes de passageiros por pessoal pertencente aos serviços de organismos oficiais com competência para fiscalizar a actividade transportadora.
+
+Torna-se, contudo, necessário estabelecer as condições e o âmbito de aplicação daquele regime.
+
+Assim, ao abrigo do n.º 3 do artigo 2.º do [Decreto-Lei n.º 106/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-1987-662361), de 6 de Março:
+
+Manda o Governo, pelo Secretário de Estado dos Transportes Interiores, o seguinte:
+
+1.º Os funcionários da Direcção-Geral de Viação poderão utilizar gratuitamente os serviços das empresas de transportes colectivos de passageiros para o exercício de funções de fiscalização da actividade transportadora.
+
+2.º Para esse efeito, o organismo referido no número anterior deverá ser titular de cartões de fiscalização não nominais, que serão requisitados ao Ministério das Obras Públicas, Transportes e Comunicações e respeitarão o modelo anexo.
+
+3.º A requisição dos cartões de fiscalização será limitada à capacidade dos meios humanos vocacionados naqueles organismos para o exercício da função de fiscalização.
+
+4.º No início da acção de fiscalização, o funcionário deverá identificar-se perante a entidade fiscalizada com a apresentação do cartão de identificação do respectivo serviço e do cartão de fiscalização referido no número anterior.
+
+5.º Não poderão viajar mais de dois funcionários ou agentes de fiscalização por viatura fiscalizada.
+
+6.º As lotações das viaturas não serão reduzidas pelo facto de viajarem os funcionários ou agentes de fiscalização, os quais, sempre que não exista lugar disponível, viajarão em pé.
+
+Ministério das Obras Públicas, Transportes e Comunicações.
+
+**Assinada em 11 de Outubro de 1988.**
+
+Secretário de Estado dos Transportes Interiores, Carlos Alberto Pereira da Silva Costa.
+
+## ANEXO — Modelo a que se refere o n.º 2.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1988/10/24800/43614362.pdf))](https://files.diariodarepublica.pt/1s/1988/10/24800/43614362.pdf)

@@ -1,0 +1,985 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:72909766:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2015-114191247",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/95-a-2015-72909766",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-12-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114192299",
+    "114192300",
+    "114192301",
+    "114192302",
+    "114192303",
+    "114192304",
+    "114192305",
+    "114192306",
+    "114192307",
+    "114192308",
+    "114192309",
+    "114192310",
+    "114192311",
+    "114192312",
+    "114192313",
+    "114192314",
+    "114192315",
+    "114192316",
+    "114192317",
+    "114192318",
+    "114192319",
+    "114192320",
+    "114192321",
+    "114192322",
+    "114192323",
+    "114192324",
+    "114192325",
+    "114192326",
+    "114192327",
+    "114192328",
+    "114192329",
+    "114192330",
+    "114192331",
+    "114192332",
+    "114192333",
+    "114192334",
+    "114192335",
+    "114192336",
+    "114192337",
+    "114192338",
+    "114192339",
+    "114192340",
+    "114192341",
+    "114192342",
+    "114192343",
+    "114192344",
+    "114192345",
+    "114192346",
+    "114192347",
+    "114192348",
+    "114192349",
+    "114192350",
+    "114192351",
+    "114192352",
+    "114192353",
+    "114192354",
+    "114192355",
+    "114192356",
+    "114192357"
+   ]
+  },
+  {
+   "date": "2017-03-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106654347:por",
+     "title": "Resolução do Conselho de Ministros n.º 44/2017",
+     "published": "2017-03-24",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/44-2017-106654347"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 26.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "114192299",
+    "114192300",
+    "114192301",
+    "114192302",
+    "114192303",
+    "114192304",
+    "114192305",
+    "114192306",
+    "114192307",
+    "114192308",
+    "114192309",
+    "114192310",
+    "114192311",
+    "114192312",
+    "114192313",
+    "114192314",
+    "114192315",
+    "114192316",
+    "114192317",
+    "114192318",
+    "114192319",
+    "114192320",
+    "114192321",
+    "114192322",
+    "114192323",
+    "114192324",
+    "114192325",
+    "114192326",
+    "114192327",
+    "114192328",
+    "114192329",
+    "114192359",
+    "114192331",
+    "114192332",
+    "114192333",
+    "114192334",
+    "114192335",
+    "114192336",
+    "114192360",
+    "114192338",
+    "114192339",
+    "114192340",
+    "114192341",
+    "114192342",
+    "114192343",
+    "114192344",
+    "114192345",
+    "114192346",
+    "114192347",
+    "114192348",
+    "114192349",
+    "114192350",
+    "114192351",
+    "114192352",
+    "114192353",
+    "114192354",
+    "114192355",
+    "114192356",
+    "114192357"
+   ]
+  },
+  {
+   "date": "2017-11-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114190325:por",
+     "title": "Resolução do Conselho de Ministros n.º 171/2017",
+     "published": "2017-11-13",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/171-2017-114190325"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "114192299",
+    "114192300",
+    "114192301",
+    "114192302",
+    "114192303",
+    "114192304",
+    "114192305",
+    "114192306",
+    "114192307",
+    "114192308",
+    "114192309",
+    "114192310",
+    "114192311",
+    "114192312",
+    "114192361",
+    "114192362",
+    "114192315",
+    "114192316",
+    "114192317",
+    "114192318",
+    "114192319",
+    "114192320",
+    "114192321",
+    "114192322",
+    "114192323",
+    "114192324",
+    "114192325",
+    "114192326",
+    "114192327",
+    "114192328",
+    "114192329",
+    "114192359",
+    "114192331",
+    "114192332",
+    "114192333",
+    "114192334",
+    "114192335",
+    "114192336",
+    "114192360",
+    "114192338",
+    "114192339",
+    "114192340",
+    "114192341",
+    "114192342",
+    "114192343",
+    "114192344",
+    "114192345",
+    "114192346",
+    "114192347",
+    "114192348",
+    "114192349",
+    "114192350",
+    "114192351",
+    "114192352",
+    "114192353",
+    "114192354",
+    "114192355",
+    "114192356",
+    "114192357"
+   ]
+  },
+  {
+   "date": "2018-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116923610:por",
+     "title": "Decreto-Lei n.º 90/2018",
+     "published": "2018-11-09",
+     "dre_path": "/dr/detalhe/decreto-lei/90-2018-116923610"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "114192299",
+    "114192300",
+    "114192301",
+    "114192302",
+    "114192303",
+    "114192304",
+    "114192305",
+    "114192306",
+    "114192307",
+    "114192308",
+    "114192309",
+    "114192310",
+    "114192311",
+    "114192312",
+    "120613275",
+    "114192362",
+    "114192315",
+    "114192316",
+    "114192317",
+    "114192318",
+    "114192319",
+    "114192320",
+    "114192321",
+    "114192322",
+    "114192323",
+    "114192324",
+    "114192325",
+    "114192326",
+    "114192327",
+    "114192328",
+    "114192329",
+    "114192359",
+    "114192331",
+    "114192332",
+    "114192333",
+    "114192334",
+    "114192335",
+    "114192336",
+    "114192360",
+    "114192338",
+    "114192339",
+    "114192340",
+    "114192341",
+    "114192342",
+    "114192343",
+    "114192344",
+    "114192345",
+    "114192346",
+    "114192347",
+    "114192348",
+    "114192349",
+    "114192350",
+    "114192351",
+    "114192352",
+    "114192353",
+    "114192354",
+    "114192355",
+    "114192356",
+    "114192357"
+   ]
+  },
+  {
+   "date": "2019-03-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:120454170:por",
+     "title": "Resolução do Conselho de Ministros n.º 49/2019",
+     "published": "2019-03-04",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 34.º",
+    "Altera Artigo 35.º"
+   ],
+   "fragments": [
+    "114192299",
+    "114192300",
+    "120613277",
+    "114192302",
+    "114192303",
+    "114192304",
+    "114192305",
+    "114192306",
+    "114192307",
+    "114192308",
+    "120613278",
+    "114192310",
+    "114192311",
+    "114192312",
+    "120613279",
+    "114192362",
+    "114192315",
+    "114192316",
+    "114192317",
+    "114192318",
+    "114192319",
+    "114192320",
+    "114192321",
+    "114192322",
+    "120613280",
+    "114192324",
+    "114192325",
+    "114192326",
+    "114192327",
+    "114192328",
+    "120613281",
+    "114192359",
+    "114192331",
+    "114192332",
+    "114192333",
+    "114192334",
+    "114192335",
+    "114192336",
+    "114192360",
+    "114192338",
+    "114192339",
+    "114192340",
+    "114192341",
+    "120613282",
+    "120613283",
+    "114192344",
+    "114192345",
+    "114192346",
+    "114192347",
+    "114192348",
+    "114192349",
+    "114192350",
+    "114192351",
+    "114192352",
+    "114192353",
+    "114192354",
+    "114192355",
+    "114192356",
+    "114192357"
+   ]
+  }
+ ],
+ "fragments": {
+  "114192299": {
+   "fragment_id": "114191248",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 95-A/2015\n\nA Constituição da República Portuguesa, nos termos do n.º 2 do artigo 198.º, confere ao Governo uma margem de liberdade quanto à fixação das regras relativas à sua organização e funcionamento. Impõe-se, por isso, que se proceda a uma previsão, sistemática, e clarificadora, das normas a que obedece o funcionamento do XXI Governo Constitucional e, em especial do Conselho de Ministros e da Reunião de Secretárias/os de Estado.\n\nO Regimento do Conselho de Ministros assume, assim, uma função reguladora do procedimento legislativo e da articulação entre as/os que nele intervêm, com vista a estabelecer uma calendarização precisa das iniciativas legislativas indispensáveis ao cumprimento do Programa do XXI Governo Constitucional para a XIIIª Legislatura.\n\nEntre as medidas inovadoras incluídas neste Regimento, assinala-se a concentração da aprovação de atos normativos numa só reunião mensal do Conselho de Ministros e a garantia de que nenhum ato legislativo é definitivamente aprovado sem que seja acompanhado da regulamentação indispensável à sua aplicação efetiva, na data da respetiva entrada em vigor.\n\nCom vista a garantir a transposição tempestiva de atos normativos de Direito da União Europeia, o Regimento do XXI Governo Constitucional institui também um mecanismo de coordenação e de monitorização assente na articulação entre os vários departamentos governamentais, desde a fase prévia de negociação de atos normativos da União Europeia até à fase da sua transposição.\n\nRetoma-se ainda uma estratégia de desmaterialização do procedimento legislativo e decisório do Governo, através do recurso às tecnologias de informação e a mecanismos eletrónicos automatizados de tramitação, incluindo a possibilidade de tomada de deliberações eletronicamente formalizadas.\n\nReforça-se, igualmente, a avaliação prévia e o controlo de criação de novos custos administrativos para os cidadãos e para as empresas.\n\nPor fim, cumpre-se o Programa do XXI Governo Constitucional para a XIIIª Legislatura, impondo-se que, salvo situações de excecional interesse público, de necessidade de regulação de situações de emergência ou de cumprimento de obrigações internacionais, os atos normativos que alterem o enquadramento jurídico das empresas apenas podem entrar em vigor, semestralmente, a 1 de janeiro ou a 1 de julho de cada ano.\n\nAssim:\n\nNos termos do n.º 4 do artigo 4.º do Decreto-Lei n.º 251-A/2015 e da alínea g) do n.º 1 do artigo 200.º da Constituição, o Conselho de Ministros resolve:\n\nAprovar o Regimento do XXI Governo Constitucional, constante do anexo à presente resolução, da qual faz parte integrante.\n\nPresidência do Conselho de Ministros, 4 de dezembro de 2015. - O Primeiro-Ministro, António Luís Santos da Costa.\n\nREGIMENTO DO CONSELHO DE MINISTROS DO XXI GOVERNO CONSTITUCIONAL"
+  },
+  "114192300": {
+   "fragment_id": "114191249",
+   "type": 1,
+   "heading": "Capítulo I — Do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Do Conselho de Ministros"
+  },
+  "114192301": {
+   "fragment_id": "114191250",
+   "type": 11,
+   "heading": "Artigo 1.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Composição\n\n1 - O Conselho de Ministros é composto pelo Primeiro-Ministro, que preside, e pelas/os ministras/os.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participam nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado dos Assuntos Parlamentares, a Secretária de Estado Adjunta do Primeiro-Ministro e o Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - A/o Chefe do Gabinete do Primeiro-Ministro pode assistir às reuniões do Conselho de Ministros."
+  },
+  "114192302": {
+   "fragment_id": "114191251",
+   "type": 11,
+   "heading": "Artigo 2.º — Ausência ou impedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Ausência ou impedimento\n\n1 - Nas reuniões do Conselho de Ministros, salvo indicação em contrário do Primeiro-Ministro, este é substituído, no exercício das suas funções de presidência e de coordenação, durante as suas ausências ou impedimentos, pelo Ministro dos Negócios Estrangeiros ou por ministra/o que não se encontre ausente ou impedida/o, de acordo com a ordem estabelecida na orgânica do XXI Governo Constitucional.\n\n2 - Cada ministra/o é substituída/o, nas suas ausências ou impedimentos, pela/o secretária/o de Estado que indicar ao Primeiro-Ministro, através de comunicação eletrónica dirigida ao Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192303": {
+   "fragment_id": "114191252",
+   "type": 11,
+   "heading": "Artigo 3.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Reuniões\n\n1 - O Conselho de Ministros reúne ordinariamente todas as semanas, à quinta-feira, e apenas delibera acerca de atos normativos uma vez por mês, sem prejuízo de o Primeiro-Ministro poder determinar o contrário.\n\n2 - O Conselho de Ministros reúne extraordinariamente sempre que para o efeito for convocado pelo Primeiro-Ministro ou, na ausência ou impedimento deste, pela/o ministra/o que o substituir, nos termos do n.º 1 do artigo anterior."
+  },
+  "114192304": {
+   "fragment_id": "114191253",
+   "type": 11,
+   "heading": "Artigo 4.º — Ordem do dia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ordem do dia\n\n1 - As reuniões do Conselho de Ministros obedecem à ordem do dia, fixada na respetiva agenda pelo Secretário de Estado da Presidência do Conselho de Ministros, sob indicação do Primeiro-Ministro e da Ministra da Presidência e da Modernização Administrativa.\n\n2 - Apenas o Primeiro-Ministro pode sujeitar à apreciação do Conselho de Ministros quaisquer projetos ou assuntos que não constem da respetiva agenda."
+  },
+  "114192305": {
+   "fragment_id": "114191254",
+   "type": 11,
+   "heading": "Artigo 5.º — Agenda do Conselho de Ministros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Agenda do Conselho de Ministros\n\n1 - A fixação da agenda do Conselho de Ministros cabe ao Primeiro-Ministro, sob proposta da Ministra da Presidência e da Modernização Administrativa, que é, para o efeito, coadjuvada pelo Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - A agenda do Conselho de Ministros é remetida previamente aos gabinetes de todos os membros do Governo pelo Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - A agenda do Conselho de Ministros, quando delibere sobre atos normativos, comporta quatro partes:\n\na) A primeira, relativa à análise da situação política nacional e europeia e ao debate de assuntos específicos de políticas setoriais, incluindo a coordenação dos assuntos europeus;\n\nb) A segunda, relativa à apreciação de projetos que tenham reunido consenso em Reunião de Secretárias/os de Estado;\n\nc) A terceira, relativa à apreciação de projetos que já tenham sido aprovados na generalidade em anteriores reuniões do Conselho de Ministros;\n\nd) A quarta, relativa à apreciação de projetos que:\n\ni) Não tenham obtido consenso em Reunião de Secretárias/os de Estado ou que tenham sido adiados em anterior reunião do Conselho de Ministros;\n\nii) Tenham sido objeto de agendamento direto para Conselho de Ministros;\n\niii) Tenham sido apresentados nos termos do n.º 2 do artigo anterior."
+  },
+  "114192306": {
+   "fragment_id": "114191255",
+   "type": 11,
+   "heading": "Artigo 6.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deliberações\n\n1 - O Conselho de Ministros delibera validamente desde que esteja presente a maioria dos seus membros com direito a voto.\n\n2 - As deliberações do Conselho de Ministros são tomadas por consenso, salvo se o Primeiro-Ministro optar por sujeitar a deliberação a votação, caso em que se exige maioria qualificada de dois terços dos seus membros com direito a voto.\n\n3 - Dispõem de direito a voto o Primeiro-Ministro, as/os ministras/os e as/os secretárias/os de Estado que estejam nas condições previstas no n.º 2 do artigo 2.º, tendo o Primeiro-Ministro voto de qualidade.\n\n4 - Em caso de urgência ou de excecional interesse público, as deliberações podem ser tomadas por deliberação escrita, expressa pelo Primeiro-Ministro e por cada uma/- das/os ministras/os, através da rede informática do Governo, dirigida ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministro, desde que reunida a maioria prevista no n.º 2.\n\n5 - Os projetos submetidos a Conselho de Ministros são objeto de deliberação de:\n\na) Aprovação;\n\nb) Aprovação com reserva de redação final;\n\nc) Aprovação na generalidade;\n\nd) Rejeição;\n\ne) Adiamento para apreciação posterior;\n\nf) Remessa para discussão em Reunião de Secretárias/os de Estado.\n\n6 - Os projetos aprovados com reserva de redação final são insuscetíveis de modificação substancial, mas podem ser objeto de alterações formais ou legísticas, por parte do Secretário de Estado da Presidência do Conselho de Ministros, aguardar a inclusão de versão definitiva do correspondente ato de regulamentação ou a emissão de parecer obrigatório ou vinculativo.\n\n7 - Qualquer projeto pode ser retirado, até à sua deliberação ou votação pelo Primeiro-Ministro, pelos respetivos proponentes."
+  },
+  "114192307": {
+   "fragment_id": "114191256",
+   "type": 11,
+   "heading": "Artigo 7.º — Comunicado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comunicado final\n\nDe cada reunião do Conselho de Ministros é elaborado um comunicado final, que é publicamente divulgado."
+  },
+  "114192308": {
+   "fragment_id": "114191257",
+   "type": 11,
+   "heading": "Artigo 8.º — Súmula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Súmula\n\n1 - De cada reunião do Conselho de Ministros é elaborada, pelo Secretário de Estado da Presidência do Conselho de Ministros, uma súmula, que contém a indicação sobre o resultado da apreciação das questões a ele submetidas e, em especial, das deliberações tomadas.\n\n2 - De cada súmula existem três exemplares autenticados, sendo um conservado no Gabinete do Primeiro-Ministro, outro no Gabinete da Ministra da Presidência e da Modernização Administrativa e outro no Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - O acesso à súmula a que se referem os números anteriores, através da extração de cópia confidencial, é facultado a qualquer membro do Conselho de Ministros que o solicite, pelo Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192309": {
+   "fragment_id": "114191258",
+   "type": 11,
+   "heading": "Artigo 9.º — Tramitação subsequente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Tramitação subsequente\n\n1 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros promover a introdução das alterações na redação dos diplomas aprovados, quando tal tenha sido deliberado em Conselho de Ministros.\n\n2 - O Secretário de Estado da Presidência do Conselho de Ministros conduz o processo de recolha das assinaturas ministeriais nos diplomas aprovados e, quando for caso disso, da respetiva promulgação ou assinatura pelo Presidente da República, referenda e publicação no Diário da República.\n\n3 - Os diplomas devem ser assinados pelas/os ministras/os competentes em razão da matéria, nos termos do n.º 3 do artigo 201.º da Constituição, num prazo que não deve exceder três dias.\n\n4 - Em casos de urgência, o Secretário de Estado da Presidência do Conselho de Ministros pode promover a assinatura dos diplomas na reunião do Conselho de Ministros em que os mesmos são aprovados.\n\n5 - Após o processo de recolha de assinaturas, as propostas de lei ou de resolução da Assembleia da República são enviadas pelo Secretário de Estado da Presidência do Conselho de Ministros ao Secretário de Estado dos Assuntos Parlamentares, que conduz o respetivo processo de apresentação à Assembleia da República.\n\n6 - Em sede de promulgação ou de assinatura dos diplomas pelo Presidente da República, caso seja necessária a recolha de informações complementares, são as mesmas prestadas à Presidência da República, através da sua ou do seu Chefe da Casa Civil, pelo Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192310": {
+   "fragment_id": "114191259",
+   "type": 11,
+   "heading": "Artigo 10.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Confidencialidade\n\n1 - Salvo para efeitos de negociação ou de audição a efetuar nos termos da lei, é vedada a divulgação de quaisquer projetos submetidos ou a submeter à apreciação do Conselho de Ministros.\n\n2 - Com exceção do previsto no artigo 7.º, as agendas, as apreciações, os debates, as deliberações e as súmulas do Conselho de Ministros são confidenciais."
+  },
+  "114192311": {
+   "fragment_id": "114191260",
+   "type": 11,
+   "heading": "Artigo 11.º — Solidariedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Solidariedade\n\nTodos os membros do Governo estão vinculados às deliberações tomadas em Conselho de Ministros, bem como ao dever de sigilo sobre as posições tomadas e as deliberações efetuadas."
+  },
+  "114192312": {
+   "fragment_id": "114191261",
+   "type": 1,
+   "heading": "Capítulo II — Reunião de Secretárias e Secretários de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Reunião de Secretárias e Secretários de Estado"
+  },
+  "114192313": {
+   "fragment_id": "114191262",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - As Reuniões de Secretárias/os de Estado são presididas pela Ministra da Presidência e da Modernização Administrativa ou, na sua ausência e impedimento, pelo Secretário de Estado da Presidência do Conselho de Ministros, que a coadjuva nas demais.\n\n2 - Participam nas Reuniões de Secretárias/os de Estado:\n\na) O Secretário de Estado dos Assuntos Parlamentares;\n\nb) A Secretária de Estado Adjunta do Primeiro-Ministro;\n\nc) Uma/um- secretária/o de Estado em representação de cada ministra/o.\n\n3 - Podem também participar nas Reuniões de Secretárias/os de Estado outras/os secretárias/os de Estado que, pela natureza da matéria agendada, devam estar presentes.\n\n4 - Podem assistir às Reuniões de Secretárias/os de Estado:\n\na) Um membro do Gabinete da Ministra da Presidência e da Modernização Administrativa;\n\nb) Um membro do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n5 - O Secretário de Estado dos Assuntos Parlamentares, a Secretária de Estado Adjunta do Primeiro-Ministro e o Secretário de Estado da Presidência do Conselho de Ministros são substituídos, nas suas ausências ou impedimentos, pelas/os respetivas/os chefes dos gabinetes.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2018-116923610) As alterações introduzidas pelo decreto-lei n.º 90/2018, de 9 de novembro produzem efeitos a partir da data da nomeação dos membros do Governo a que respeitam, considerando-se ratificados todos os atos entretanto praticados."
+  },
+  "114192314": {
+   "fragment_id": "114191263",
+   "type": 11,
+   "heading": "Artigo 13.º — Periodicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Periodicidade\n\n1 - As Reuniões de Secretárias/os de Estado têm lugar quinzenalmente.\n\n2 - A Ministra da Presidência e da Modernização Administrativa pode convocar, extraordinariamente, por motivo justificado, Reuniões de Secretárias/os de Estado, em dia e hora a determinar."
+  },
+  "114192315": {
+   "fragment_id": "114191264",
+   "type": 11,
+   "heading": "Artigo 14.º — Reuniões de secretárias e secretários de Estado especializadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reuniões de secretárias e secretários de Estado especializadas\n\n1 - O exercício da faculdade prevista no n.º 2 do artigo anterior pode destinar-se à realização de Reuniões de Secretárias/os de Estado especializados.\n\n2 - A Ministra da Presidência e da Modernização Administrativa convoca para o efeito as/os secretárias/os de Estado que, em função da matéria a discutir, têm assento em cada uma dessas Reuniões de Secretárias/os de Estado especializados."
+  },
+  "114192316": {
+   "fragment_id": "114191265",
+   "type": 11,
+   "heading": "Artigo 15.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Objeto\n\nAs Reuniões de Secretárias/os de Estado são preparatórias do Conselho de Ministros e têm por objeto:\n\na) Analisar a situação política e debater assuntos específicos de políticas setoriais;\n\nb) Analisar os projetos colocados em circulação."
+  },
+  "114192317": {
+   "fragment_id": "114191266",
+   "type": 11,
+   "heading": "Artigo 16.º — Agenda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Agenda\n\n1 - A fixação da agenda da Reunião de Secretárias/os de Estado cabe à Ministra da Presidência e da Modernização Administrativa, sob proposta do Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - A agenda da Reunião de Secretárias/os de Estado é remetida previamente aos gabinetes de todos os membros do Governo pelo Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - A agenda da Reunião de Secretárias/os de Estado comporta três partes:\n\na) A primeira, relativa à troca de informações sobre assuntos setoriais;\n\nb) A segunda, relativa à apreciação de projetos postos em circulação que lhe sejam submetidos pela primeira vez;\n\nc) A terceira, relativa à apreciação de projetos transitados de anteriores reuniões e de projetos remetidos pelo Conselho de Ministros.\n\n4 - A agenda das reuniões extraordinárias e especializadas de secretárias/os de Estado é fixada pela Ministra da Presidência e da Modernização Administrativa, com faculdade de delegação no Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192318": {
+   "fragment_id": "114191267",
+   "type": 11,
+   "heading": "Artigo 17.º — Deliberações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Deliberações\n\n1 - Os projetos apreciados em Reunião de Secretárias/os de Estado são objeto de deliberação de:\n\na) Aprovação, com ou sem alterações;\n\nb) Adiamento;\n\nc) Aceitação da retirada pelos respetivos proponentes;\n\nd) Proposta de inscrição na parte IV da agenda do Conselho de Ministros.\n\n2 - Os projetos que não reúnam consenso em Reunião de Secretárias/os de Estado são objeto de apreciação pelas/os ministras/os competentes na matéria em causa, sob coordenação do Secretário de Estado da Presidência do Conselho de Ministros, antes do seu agendamento para Conselho de Ministros."
+  },
+  "114192319": {
+   "fragment_id": "114191268",
+   "type": 11,
+   "heading": "Artigo 18.º — Súmula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Súmula\n\n1 - De todas as Reuniões de Secretárias/os de Estado é elaborada, pelo Secretário de Estado da Presidência do Conselho de Ministros, uma súmula, que contém as respetivas conclusões finais.\n\n2 - De cada súmula existem três exemplares, sendo um conservado no Gabinete do Primeiro-Ministro, outro no Gabinete da Ministra da Presidência e da Modernização Administrativa e o último no Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - O acesso à súmula prevista nos números anteriores é facultado a qualquer ministra/o ou a qualquer outro membro do Governo participante nas Reuniões de Secretárias/os de Estado, que o solicite."
+  },
+  "114192320": {
+   "fragment_id": "114191269",
+   "type": 1,
+   "heading": "Capítulo III — Do procedimento legislativo governamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do procedimento legislativo governamental"
+  },
+  "114192321": {
+   "fragment_id": "114191270",
+   "type": 8,
+   "heading": "Secção I — Fase de planificação legislativa e de monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Fase de planificação legislativa e de monitorização"
+  },
+  "114192322": {
+   "fragment_id": "114191271",
+   "type": 11,
+   "heading": "Artigo 19.º — Calendarização de iniciativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Calendarização de iniciativas\n\n1 - Até ao final de cada sessão legislativa, cada gabinete ministerial informa o Gabinete do Secretário de Estado da Presidência do Conselho de Ministros da calendarização proposta para as várias iniciativas legislativas tendentes à implementação do Programa de Governo durante a sessão legislativa seguinte.\n\n2 - A apresentação da calendarização prevista no número anterior não invalida a apresentação superveniente de correções, supressões ou aditamentos, em especial, quando se trate de iniciativas legislativas de natureza urgente ou de vigência temporária."
+  },
+  "114192323": {
+   "fragment_id": "114191272",
+   "type": 11,
+   "heading": "Artigo 20.º — Avaliação e validação estratégica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Avaliação e validação estratégica\n\nO Primeiro-Ministro procede à avaliação e validação estratégica da calendarização proposta, fixando a ordem de prioridades legislativas e a calendarização da implementação de medidas legislativas, em coordenação com a Ministra da Presidência e da Modernização Administrativa e o Ministro Adjunto, sob coadjuvação do Secretário de Estado dos Assuntos Parlamentares, da Secretária de Estado Adjunta do Primeiro-Ministro e do Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192324": {
+   "fragment_id": "114191273",
+   "type": 11,
+   "heading": "Artigo 21.º — Procedimento de negociação de atos normativos da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Procedimento de negociação de atos normativos da União Europeia\n\n1 - O Gabinete do Ministro dos Negócios Estrangeiros envia, mensalmente, ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros para distribuição a todos os gabinetes ministeriais, uma lista das propostas de regulamento e de diretivas apresentadas pela Comissão Europeia, bem como as que se encontrem já em fase de apreciação pelo Conselho e pelo Parlamento Europeu.\n\n2 - Os gabinetes ministeriais articulam com o Gabinete do Ministro dos Negócios Estrangeiros a preparação dos trabalhos de negociação de regulamentos e diretivas da União Europeia, doravante UE, facultando os meios técnicos e humanos indispensáveis à avaliação do potencial impacto das mesmas sobre o ordenamento jurídico português.\n\n3 - Os procedimentos referidos nos números anteriores aplicam-se igualmente, com as devidas adaptações, a todos os atos normativos de outras organizações internacionais de que Portugal faz parte, que sejam suscetíveis de aplicabilidade direta na ordem jurídica portuguesa."
+  },
+  "114192325": {
+   "fragment_id": "114191274",
+   "type": 11,
+   "heading": "Artigo 22.º — Procedimento de transposição de atos normativos da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Procedimento de transposição de atos normativos da União Europeia\n\n1 - O Ministro dos Negócios Estrangeiros, num prazo de oito dias contados da data de publicação de um ato normativo da UE que careça de transposição para a ordem jurídica interna, no Jornal Oficial da União Europeia, informa os ministros competentes em razão da matéria e o Secretário de Estado da Presidência do Conselho de Ministros, através da rede informática do Governo, do respetivo prazo da transposição.\n\n2 - O Secretário de Estado da Presidência do Conselho de Ministros promove, em coordenação com o Ministro dos Negócios Estrangeiros, a criação e gestão de mecanismos automatizados de notificação periódica aos membros do Governo competentes em razão da matéria, dos prazos de transposição de atos normativos da UE.\n\n3 - Os projetos de transposição de atos normativos da UE devem ser remetidos para agendamento ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros com uma antecedência mínima de seis meses relativamente ao final do prazo de transposição, salvo em situações excecionais."
+  },
+  "114192326": {
+   "fragment_id": "114194775",
+   "type": 11,
+   "heading": "Artigo 23.º — Monitorização da transposição de atos normativos da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Monitorização da transposição de atos normativos da União Europeia\n\n1 - O Gabinete do Ministro dos Negócios Estrangeiros envia, mensalmente, ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, um relatório com indicação dos atos normativos da UE ainda pendentes de transposição, e respetivo prazo limite.\n\n2 - Os gabinetes ministeriais enviam, mensalmente, ao Gabinete Secretário de Estado da Presidência do Conselho de Ministros, um relatório com o estado dos trabalhos preparatórios tendentes à transposição das diretivas ainda pendentes, e a data previsível para apresentação das correspondentes iniciativas legislativas."
+  },
+  "114192327": {
+   "fragment_id": "114194776",
+   "type": 11,
+   "heading": "Artigo 24.º — Elementos do sumário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Elementos do sumário\n\nO sumário dos diplomas de transposição de atos normativos da UE deve conter a identificação do ato normativo a cuja transposição procede."
+  },
+  "114192328": {
+   "fragment_id": "114194777",
+   "type": 8,
+   "heading": "Secção II — Fase de iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Fase de iniciativa"
+  },
+  "114192329": {
+   "fragment_id": "114194778",
+   "type": 11,
+   "heading": "Artigo 25.º — Início do procedimento legislativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Início do procedimento legislativo\n\n1 - A iniciativa para apresentar projetos de decretos-leis e de propostas de lei cabe aos membros do Governo que os enviam ao Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - A apresentação deve ser obrigatoriamente feita através da através de meios eletrónicos da rede informática do Governo, a determinar pelo Secretário de Estado da Presidência do Conselho de Ministros, sob pena de rejeição imediata e sua devolução ao gabinete ministerial proponente.\n\n3 - Em cumprimento das prioridades políticas fixadas pelo Primeiro-Ministro, a Ministra da Presidência e da Modernização Administrativa, o Ministro Adjunto e o Secretário de Estado da Presidência do Conselho de Ministros podem solicitar o envio de anteprojetos, sempre que a natureza das iniciativas legislativas o justifique."
+  },
+  "114192330": {
+   "fragment_id": "114194779",
+   "type": 11,
+   "heading": "Artigo 26.º — Documentos que acompanham os projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Documentos que acompanham os projetos\n\n1 - Os projetos a remeter ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros são acompanhados de uma nota justificativa de que constam, discriminadamente e em todos os casos, os seguintes elementos:\n\na) Sumário a publicar no Diário da República;\n\nb) Síntese do conteúdo do projeto;\n\nc) Necessidade da forma proposta para o projeto;\n\nd) Referência à participação ou audição de entidades, com indicação da norma que a exija e do respetivo conteúdo;\n\ne) Atual enquadramento jurídico da matéria objeto do projeto;\n\nf) Razões que aconselham a alteração do regime jurídico em vigor;\n\ng) Análise comparativa entre o regime jurídico em vigor e o regime jurídico a aprovar, bem como um relatório de avaliação do regime anterior sempre que este seja significativamente alterado;\n\nh) Identificação expressa da legislação a alterar ou a revogar e eventual legislação complementar;\n\ni) Avaliação sumária dos meios financeiros e humanos envolvidos na respetiva execução a curto e médio prazo, bem como de novos atos administrativos criados;\n\nj) Avaliação do impacte do projeto quando, em razão da matéria, o mesmo tenha relação com a igualdade de género;\n\nk) Avaliação do impacte do projeto quando, em razão da matéria, o mesmo tenha relação com as condições de participação e integração social dos cidadãos portadores de deficiência;\n\nl) Relação com o Programa do Governo;\n\nm) Relação com políticas da União Europeia;\n\nn) Nota para a comunicação social.\n\n2 - A nota justificativa tem a natureza de documento interno do Governo, para efeitos de confidencialidade.\n\n3 - Os projetos a remeter ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros são acompanhados dos pareceres ou documentos comprovativos das audições e consultas previstas na alínea d) do n.º 1.\n\n4 - A falta de instrução do projeto com a nota justificativa ou os documentos referidos no número anterior impede a circulação e o agendamento do mesmo para Reunião de Secretárias/os de Estado ou para Conselho de Ministros, devendo o projeto ser devolvido ao gabinete ministerial proponente, sem prejuízo do disposto no n.º 2 do artigo 28.º e no n.º 2 do artigo 29.º"
+  },
+  "114192331": {
+   "fragment_id": "114194780",
+   "type": 11,
+   "heading": "Artigo 27.º — Acompanhamento de instrumentos de regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Acompanhamento de instrumentos de regulamentação\n\n1 - Para além dos elementos exigidos pelo artigo anterior, os projetos de diplomas legislativos devem ser obrigatoriamente acompanhados de todos os projetos de regulamentação necessários à sua implementação logo que entrem em vigor, designadamente e consoante os casos, de:\n\na) Projetos de decretos regulamentares;\n\nb) Projetos de portarias;\n\nc) Projetos de despachos normativos.\n\n2 - Os projetos de diplomas legislativos devem ser obrigatoriamente acompanhados de um relatório sucinto sobre o grau e os custos de adaptabilidade ao novo regime jurídico proposto, de sistemas e tecnologias de informação já instalados e em execução.\n\n3 - Sem prejuízo da possibilidade de fixação de um prazo razoável, para efeitos de cumprimento superveniente das condições constantes dos números anteriores, a falta do seu cumprimento implica a possibilidade de recusa de envio para circulação ou de inscrição em agenda de Reunião de Secretárias/os de Estado, pelo Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192332": {
+   "fragment_id": "114194781",
+   "type": 8,
+   "heading": "Secção III — Fase de instrução legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Fase de instrução legislativa"
+  },
+  "114192333": {
+   "fragment_id": "114194782",
+   "type": 3,
+   "heading": "Subsecção I — Pareceres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Pareceres"
+  },
+  "114192334": {
+   "fragment_id": "114194783",
+   "type": 11,
+   "heading": "Artigo 28.º — Parecer do Ministro dos Negócios Estrangeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Parecer do Ministro dos Negócios Estrangeiros\n\n1 - Todos os projetos de atos legislativos que visem a transposição para a ordem jurídica nacional de atos normativos da UE, ou que se mostrem necessários para assegurar o cumprimento de obrigações decorrentes dos tratados da UE, carecem de parecer obrigatório prévio, mas não vinculativo, do Ministro dos Negócios Estrangeiros.\n\n2 - Compete à/ao ministra/o proponente do projeto solicitar ao Ministro dos Negócios Estrangeiros a emissão de parecer, dando disso conhecimento ao Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192335": {
+   "fragment_id": "114194784",
+   "type": 11,
+   "heading": "Artigo 29.º — Parecer da Ministra da Presidência e da Modernização Administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Parecer da Ministra da Presidência e da Modernização Administrativa\n\n1 - Todos os projetos legislativos que envolvam o aumento de encargos administrativos ou outros custos de contexto, designadamente, criação ou duplicação de procedimentos ou exigências de natureza administrativa, certificativa ou registral, ou que, por qualquer outra forma, aumentem encargos para as empresas, especialmente para as PME, carecem de parecer vinculativo da Ministra da Presidência e da Modernização Administrativa.\n\n2 - Todos os projetos que tenham por objeto a criação de serviços e organismos públicos, ou as matérias referidas nas alíneas p) e q) do n.º 2 do artigo seguinte, carecem de parecer obrigatório, mas não vinculativo, da Ministra da Presidência e da Modernização Administrativa, competindo à/ao ministra/o proponente solicitar a sua emissão, dando disso conhecimento ao Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192336": {
+   "fragment_id": "114194785",
+   "type": 11,
+   "heading": "Artigo 30.º — Parecer do Ministro das Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Parecer do Ministro das Finanças\n\n1 - Todos os projetos legislativos que envolvam aumento de despesas ou diminuição de receitas são obrigatoriamente sujeitos a parecer favorável do Ministro das Finanças.\n\n2 - Carecem de parecer obrigatório, mas não vinculativo, do Ministro das Finanças os projetos que visem:\n\na) A criação, organização ou extinção de serviços e organismos públicos;\n\nb) A fixação ou alteração de atribuições, da estrutura, das competências e do funcionamento de serviços e organismos públicos;\n\nc) A aprovação ou alteração de quadros ou mapas de pessoal em geral, incluindo os que tenham em vista a criação de lugares;\n\nd) A criação e reestruturação de carreiras dos regimes geral e especial e de corpos especiais e a fixação ou alteração das respetivas escalas salariais;\n\ne) A fixação ou alteração das condições de ingresso, acesso e progressão nas carreiras e corpos especiais;\n\nf) A definição ou alteração da metodologia de seleção a utilizar para efeitos de ingresso e acesso nas carreiras em geral e nos corpos especiais, do regime de concursos aplicável e dos programas de provas integrantes dos mesmos;\n\ng) A definição dos conteúdos funcionais das carreiras e corpos especiais;\n\nh) A definição ou alteração do regime e condições de atribuição de suplementos remuneratórios;\n\ni) O reconhecimento de habilitações para ingresso nas carreiras técnico-profissionais;\n\nj) A fixação ou alteração do regime jurídico da função pública, nomeadamente no que toca à constituição, modificação e extinção da relação jurídica de emprego, aos direitos singulares e coletivos, deveres, responsabilidades e garantias dos trabalhadores da Administração Pública;\n\nk) A fixação ou alteração das condições de aposentação, reforma ou invalidez e dos benefícios referentes à ação social complementar;\n\nl) A atribuição de quotas de descongelamento para admissão de pessoal estranho à função pública;\n\nm) A contratação de pessoal a termo certo;\n\nn) A requisição de pessoal a empresas públicas ou privadas;\n\no) Os mecanismos de audição e de participação de entidades administrativas ou de associações representativas dos trabalhadores da Administração Pública no procedimento legislativo;\n\np) Os mecanismos de audição e de participação no procedimento administrativo;\n\nq) A racionalização e eficácia da organização e gestão públicas, designadamente quanto à autonomia de gestão.\n\n3 - Compete à/ao ministra/o proponente do projeto solicitar ao Ministro das Finanças a emissão de parecer, dando disso conhecimento ao Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192337": {
+   "fragment_id": "114194786",
+   "type": 11,
+   "heading": "Artigo 31.º — Procedimento para a emissão de parecer",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Procedimento para a emissão de parecer\n\n1 - O pedido de parecer deve ser formulado até à data de apresentação da iniciativa legislativa perante o Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - A falta de junção ao projeto legislativo de pedido de parecer implica a rejeição e devolução do mesmo ao gabinete ministerial respetivo.\n\n3 - Os pareceres referidos nos artigos anteriores devem ser emitidos no prazo de oito dias ou, em caso de urgência, de três dias contados a partir da data da sua solicitação pela/o ministra/o proponente do projeto, sendo o prazo passível de prorrogação, a título excecional, pelo Secretário de Estado da Presidência do Conselho de Ministros.\n\n4 - Na falta de emissão de parecer nos prazos previstos no número anterior, a/o ministra/o proponente pode enviar o projeto para circulação e agendamento.\n\n5 - No caso de o projeto ser enviado para circulação e agendamento nos termos previstos no número anterior, não é dispensada a emissão de parecer pelo Ministro dos Negócios Estrangeiros, pela Ministra da Presidência e da Modernização Administrativa e pelo Ministro das Finanças, que pode ser proferido até ao início da reunião do Conselho de Ministros."
+  },
+  "114192338": {
+   "fragment_id": "114194787",
+   "type": 3,
+   "heading": "Subsecção II — Audições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Audições"
+  },
+  "114192339": {
+   "fragment_id": "114194788",
+   "type": 11,
+   "heading": "Artigo 32.º — Audição das regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Audição das regiões autónomas\n\n1 - A audição prévia dos órgãos de governo próprio das regiões autónomas, constitucional ou legalmente exigida, é efetuada por solicitação do Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - A audição é feita em condições que preservem a confidencialidade.\n\n3 - No que respeita às regiões autónomas, o prazo de audição é de 20 ou 15 dias, consoante o órgão que se deva pronunciar, seja a Assembleia Legislativa da Região Autónoma ou o Governo Regional, ou, em caso de urgência, de 10 dias.\n\n4 - Quando tal se justifique, podem os projetos ser submetidos a Conselho de Ministros, para aprovação na generalidade, antes de decorrido o prazo previsto no número anterior, ficando a aprovação final dependente do transcurso desse prazo."
+  },
+  "114192340": {
+   "fragment_id": "114194789",
+   "type": 11,
+   "heading": "Artigo 33.º — Outras audições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Outras audições\n\n1 - Compete à/ao ministra/o proponente do projeto promover as audições previstas na Constituição não incluídas no artigo anterior e todas as outras audições previstas na lei.\n\n2 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros assegurar, no contexto do procedimento legislativo, o respeito pelos direitos de audição previstos na lei.\n\n3 - Quando tal se justifique, podem os projetos ser submetidos a Conselho de Ministros, para aprovação na generalidade, antes de decorrido o prazo da audição, ficando a aprovação final dependente do transcurso desse prazo."
+  },
+  "114192341": {
+   "fragment_id": "114194790",
+   "type": 8,
+   "heading": "Secção IV — Fase de circulação legislativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Fase de circulação legislativa"
+  },
+  "114192342": {
+   "fragment_id": "114194791",
+   "type": 11,
+   "heading": "Artigo 34.º — Devolução e circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Devolução e circulação\n\n1 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros, em coordenação com o Secretário de Estado dos Assuntos Parlamentares, a apreciação dos projetos que lhe sejam remetidos, após o que, consoante os casos:\n\na) Determina a sua devolução às entidades proponentes, caso não tenham sido respeitados os requisitos previstos no presente Regimento, não tenha sido observada a forma adequada ou existam quaisquer inconstitucionalidades, ilegalidades, irregularidades ou deficiências grosseiras ou flagrantes, sempre que tais vícios não possam ser desde logo supridos; ou\n\nb) Determina a sua circulação pelos gabinetes de todos os membros do Governo.\n\n2 - A circulação realiza-se mediante a distribuição pelos gabinetes de todos os membros do Governo de uma lista de circulação, acompanhada das respetivas cópias dos projetos, através da rede informática do Governo."
+  },
+  "114192343": {
+   "fragment_id": "114194792",
+   "type": 11,
+   "heading": "Artigo 35.º — Prazos de circulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Prazos de circulação\n\n1 - Os projetos devem ser objeto de circulação por um prazo mínimo de 15 dias, que pode ser prorrogado pelo Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - O Secretário de Estado dos Assuntos Parlamentares pode requerer a prorrogação do prazo de circulação, mediante pedido fundamentado.\n\n3 - O prazo de circulação pode ser abreviado ou dispensado, em casos de excecional urgência, por determinação da Ministra da Presidência e da Modernização Administrativa, com faculdade de delegação no Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192344": {
+   "fragment_id": "114194793",
+   "type": 11,
+   "heading": "Artigo 36.º — Apreciação interministerial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Apreciação interministerial\n\n1 - Durante a circulação e até ao agendamento, podem os gabinetes ministeriais transmitir aos gabinetes das/os ministras/os proponentes, com conhecimento obrigatório do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros, uma apreciação fundamentada que contenha objeções, comentários ou sugestões de eliminação, modificação ou aditamento de normas ao projeto circulado.\n\n2 - A apreciação fundamentada deve ser transmitida até ao penúltimo dia útil anterior à Reunião de Secretárias/os de Estado para a qual o projeto seja agendado.\n\n3 - Quando não importem rejeição global do projeto, as objeções ou os comentários devem incluir propostas de redação alternativa à que os suscitou."
+  },
+  "114192345": {
+   "fragment_id": "114194794",
+   "type": 11,
+   "heading": "Artigo 37.º — Articulação interministerial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Articulação interministerial\n\n1 - Cabe ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros promover a negociação e consensualização, prévia à realização das Reuniões de Secretárias/os de Estado, entre os gabinetes de todos os membros do Governo.\n\n2 - A articulação interministerial pode incluir a realização de reuniões bilaterais ou transversais, bem como a troca de informações escritas entre os vários gabinetes ministeriais."
+  },
+  "114192346": {
+   "fragment_id": "114194795",
+   "type": 8,
+   "heading": "Secção V — Fase de discussão e aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Fase de discussão e aprovação"
+  },
+  "114192347": {
+   "fragment_id": "114194796",
+   "type": 11,
+   "heading": "Artigo 38.º — Norma remissória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Norma remissória\n\nA fase de discussão e aprovação de atos legislativos obedece às normas estabelecidas nos capítulos I e II do presente Regimento."
+  },
+  "114192348": {
+   "fragment_id": "114194797",
+   "type": 8,
+   "heading": "Secção VI — Fase de redação final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Fase de redação final"
+  },
+  "114192349": {
+   "fragment_id": "114194798",
+   "type": 11,
+   "heading": "Artigo 39.º — Reformulação de projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Reformulação de projetos\n\nCompete ao Secretário de Estado da Presidência do Conselho de Ministros, em coordenação com o membro do Governo proponente, promover a introdução das alterações na redação dos projetos aprovados, sob condição de aprovação definitiva em Conselho de Ministros, quando tal tenha sido deliberado em Reunião de Secretárias/os de Estado."
+  },
+  "114192350": {
+   "fragment_id": "114194799",
+   "type": 11,
+   "heading": "Artigo 40.º — Princípio da concentração da vigência de novos atos normativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Princípio da concentração da vigência de novos atos normativos\n\nSalvo situações de excecional interesse público, de necessidade de regulação de situações de emergência ou da necessidade de cumprimento de obrigações internacionais, os atos normativos que alterem o enquadramento jurídico das empresas apenas podem entrar em vigor, semestralmente, a 1 de janeiro ou a 1 de julho de cada ano."
+  },
+  "114192351": {
+   "fragment_id": "114194800",
+   "type": 1,
+   "heading": "Capítulo IV — Dos outros procedimentos normativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Dos outros procedimentos normativos"
+  },
+  "114192352": {
+   "fragment_id": "114194801",
+   "type": 11,
+   "heading": "Artigo 41.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Aplicação subsidiária\n\nOs procedimentos normativos que não assumam natureza legislativa regem-se, subsidiariamente, pelo regime previsto pelo capítulo II do presente Regimento."
+  },
+  "114192353": {
+   "fragment_id": "114194802",
+   "type": 11,
+   "heading": "Artigo 42.º — Parecer do Ministro das Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Parecer do Ministro das Finanças\n\n1 - Todos os projetos de atos normativos que não assumam natureza legislativa e que envolvam aumento de despesas ou diminuição de receitas são obrigatoriamente sujeitos a parecer favorável do Ministro das Finanças.\n\n2 - Em simultâneo ao envio do projeto ao Ministro das Finanças, deve disso ser dado conhecimento ao Secretário de Estado da Presidência do Conselho de Ministros."
+  },
+  "114192354": {
+   "fragment_id": "114194803",
+   "type": 11,
+   "heading": "Artigo 43.º — Outros atos normativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Outros atos normativos\n\n1 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros promover a publicação dos atos normativos que não careçam de aprovação em Conselho de Ministros.\n\n2 - Para o efeito previsto no número anterior, devem os membros do Governo remeter ao Secretário de Estado da Presidência do Conselho de Ministros os originais dos referidos atos."
+  },
+  "114192355": {
+   "fragment_id": "114194804",
+   "type": 1,
+   "heading": "Capítulo V — Das disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Das disposições finais e transitórias"
+  },
+  "114192356": {
+   "fragment_id": "114194805",
+   "type": 11,
+   "heading": "Artigo 44.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Norma transitória\n\nNa presente sessão legislativa parlamentar, o dever de informação previsto no n.º 1 do artigo 19.º deve ser cumprido até 31 de janeiro de 2016."
+  },
+  "114192357": {
+   "fragment_id": "114194806",
+   "type": 11,
+   "heading": "Artigo 45.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Produção de efeitos\n\nO presente Regimento produz efeitos reportados a 26 de novembro de 2015, considerando-se ratificados todos os atos entretanto praticados, em conformidade com o presente Regimento."
+  },
+  "114192359": {
+   "fragment_id": "114194779",
+   "type": 11,
+   "heading": "Artigo 26.º — Documentos que acompanham os projetos",
+   "in_force_from": "2017-03-29",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 44/2017 - Diário da República n.º 60/2017, Série I de 2017-03-24](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-2017-106654347), em vigor a partir de 2017-03-29"
+   ],
+   "markdown": "###### Artigo 26.º — Documentos que acompanham os projetos\n\n1 - Os projetos a remeter ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros são acompanhados de uma nota justificativa de que constam, discriminadamente e em todos os casos, os seguintes elementos:\n\na) Sumário a publicar no Diário da República;\n\nb) (Revogada.);\n\nc) Necessidade da forma proposta para o projeto;\n\nd) Referência à participação ou audição de entidades, com indicação da norma que a exija e do respetivo conteúdo;\n\ne) Enquadramento jurídico atual e fundamento para a respetiva alteração;\n\nf) (Revogada.);\n\ng) (Revogada.);\n\nh) Identificação expressa da legislação a alterar ou a revogar;\n\ni) Identificação expressa de eventual legislação complementar, incluindo instrumentos de regulamentação;\n\nj) Avaliação sumária dos meios financeiros e humanos necessários à Administração Pública para execução a curto e médio prazo, bem como de novos atos administrativos criados;\n\nk) Avaliação do impacto do projeto relativamente à variação de encargos para as pessoas e/ou para as empresas, em especial, para as micro, pequenas e médias empresas, com referência a audições, que sejam legalmente obrigatórias ou realizadas por determinação do membro do Governo responsável pela respetiva área governativa, a entidades representativas das empresas, incluindo as entidades representativas dos trabalhadores;\n\nl) Ponderação sobre a oportunidade de criação de regime de isenção para micro, pequenas e médias empresas ou, não sendo possível, de regime jurídico específico que atenda às particularidades deste segmento de empresas e mitigue o impacto dos referidos encargos;\n\nm) Avaliação do impacto do projeto quando, em razão da matéria, tenha relação com a igualdade de género;\n\nn) Avaliação do impacto do projeto quando, em razão da matéria, tenha relação com as condições de participação e integração social dos cidadãos portadores de deficiência;\n\no) Avaliação do impacto concorrencial do projeto;\n\np) Relação com o Programa do Governo;\n\nq) Relação com políticas da União Europeia;\n\nr) Nota para a comunicação social.\n\n2 - A nota justificativa tem a natureza de documento interno do Governo, para efeitos de confidencialidade.\n\n3 - Os projetos a remeter ao Gabinete do Secretário de Estado da Presidência do Conselho de Ministros são acompanhados dos pareceres ou documentos comprovativos das audições e consultas previstas na alínea d) do n.º 1.\n\n4 - A falta de instrução do projeto com a nota justificativa ou os documentos referidos no número anterior impede a circulação e o agendamento do mesmo para Reunião de Secretárias/os de Estado ou para Conselho de Ministros, devendo o projeto ser devolvido ao gabinete ministerial proponente, sem prejuízo do disposto no n.º 2 do artigo 28.º e no n.º 2 do artigo 29.º\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 44/2017 - Diário da República n.º 60/2017, Série I de 2017-03-24](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-2017-106654347), em vigor a partir de 2017-03-29"
+  },
+  "114192360": {
+   "fragment_id": "114194786",
+   "type": 11,
+   "heading": "Artigo 31.º — Procedimento para a emissão de parecer",
+   "in_force_from": "2017-03-29",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 44/2017 - Diário da República n.º 60/2017, Série I de 2017-03-24](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-2017-106654347), em vigor a partir de 2017-03-29"
+   ],
+   "markdown": "###### Artigo 31.º — Procedimento para a emissão de parecer\n\n1 - O pedido de parecer deve ser formulado até à data de apresentação da iniciativa legislativa perante o Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - A falta de junção ao projeto legislativo de pedido de parecer implica a rejeição e devolução do mesmo ao gabinete ministerial respetivo.\n\n3 - Os pareceres referidos nos artigos anteriores devem ser emitidos no prazo de oito dias ou, em caso de urgência, de três dias contados a partir da data da sua solicitação pela/o ministra/o proponente do projeto, sendo o prazo passível de prorrogação, a título excecional, pelo Secretário de Estado da Presidência do Conselho de Ministros.\n\n4 - Na falta de emissão de parecer nos prazos previstos no número anterior, a/o ministra/o proponente pode enviar o projeto para circulação e agendamento.\n\n5 - No caso de o projeto ser enviado para circulação e agendamento nos termos previstos no número anterior, não é dispensada a emissão de parecer pelo Ministro dos Negócios Estrangeiros, pela Ministra da Presidência e da Modernização Administrativa e pelo Ministro das Finanças, que pode ser proferido até ao início da reunião do Conselho de Ministros.\n\n6 - Os n.os 3 a 5 não são aplicáveis ao parecer referido no n.º 1 do artigo 29.º, que deve ser emitido após o envio de relatório final de avaliação prévia de impacto económico legislativo do projeto ao Gabinete da Ministra da Presidência e da Modernização Administrativa e até oito dias antes da Reunião de Secretárias/os de Estado.\n\n7 - A falta de envio do relatório final de avaliação prévia de impacto económico legislativo do projeto ao Gabinete da Ministra da Presidência e da Modernização Administrativa não prejudica a emissão de parecer pela Ministra da Presidência e da Modernização Administrativa no prazo previsto no número anterior.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 44/2017 - Diário da República n.º 60/2017, Série I de 2017-03-24](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/44-2017-106654347), em vigor a partir de 2017-03-29"
+  },
+  "114192361": {
+   "fragment_id": "114191262",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": "2017-11-18",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2017 - Diário da República n.º 218/2017, Série I de 2017-11-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2017-114190325), em vigor a partir de 2017-11-18"
+   ],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - As Reuniões de Secretárias/os de Estado são presididas pela Ministra da Presidência e da Modernização Administrativa ou, na sua ausência e impedimento, pelo Secretário de Estado da Presidência do Conselho de Ministros, que a coadjuva nas demais.\n\n2 - Participam nas Reuniões de Secretárias/os de Estado:\n\na) O Secretário de Estado dos Assuntos Parlamentares;\n\nb) A Secretária de Estado Adjunta do Primeiro-Ministro;\n\nc) Uma/um- secretária/o de Estado em representação de cada ministra/o.\n\nd) Uma/um representante do Ministro Adjunto que por ele seja indicada/o.\n\n3 - Podem também participar nas Reuniões de Secretárias/os de Estado outras/os secretárias/os de Estado que, pela natureza da matéria agendada, devam estar presentes.\n\n4 - Podem assistir às Reuniões de Secretárias/os de Estado:\n\na) Um membro do Gabinete do Primeiro-Ministro;\n\nb) Um membro do Gabinete da Ministra da Presidência e da Modernização Administrativa;\n\nc) Um membro do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n5 - O Secretário de Estado dos Assuntos Parlamentares, a Secretária de Estado Adjunta do Primeiro-Ministro e o Secretário de Estado da Presidência do Conselho de Ministros são substituídos, nas suas ausências ou impedimentos, pelas/os respetivas/os chefes dos gabinetes.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2017 - Diário da República n.º 218/2017, Série I de 2017-11-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2017-114190325), em vigor a partir de 2017-11-18"
+  },
+  "114192362": {
+   "fragment_id": "114191263",
+   "type": 11,
+   "heading": "Artigo 13.º — Periodicidade",
+   "in_force_from": "2017-11-18",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2017 - Diário da República n.º 218/2017, Série I de 2017-11-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2017-114190325), em vigor a partir de 2017-11-18"
+   ],
+   "markdown": "###### Artigo 13.º — Periodicidade\n\n1 - As Reuniões de Secretárias/os de Estado têm lugar semanalmente.\n\n2 - A Ministra da Presidência e da Modernização Administrativa pode convocar, extraordinariamente, por motivo justificado, Reuniões de Secretárias/os de Estado, em dia e hora a determinar.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2017 - Diário da República n.º 218/2017, Série I de 2017-11-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2017-114190325), em vigor a partir de 2017-11-18"
+  },
+  "120613275": {
+   "fragment_id": "114191262",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": "2018-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2018-116923610), em vigor a partir de 2018-11-14",
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2017 - Diário da República n.º 218/2017, Série I de 2017-11-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2017-114190325), em vigor a partir de 2017-11-18"
+   ],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - As Reuniões de Secretárias/os de Estado são presididas pela Ministra da Presidência e da Modernização Administrativa ou, na sua ausência e impedimento, pelo Secretário de Estado da Presidência do Conselho de Ministros, que a coadjuva nas demais.\n\n2 - Participam nas Reuniões de Secretárias/os de Estado:\n\na) O Secretário de Estado dos Assuntos Parlamentares;\n\nb) A Secretária de Estado Adjunta do Primeiro-Ministro;\n\nc) Uma/um- secretária/o de Estado em representação de cada ministra/o.\n\nd) Revogada;\n\n3 - Podem também participar nas Reuniões de Secretárias/os de Estado outras/os secretárias/os de Estado que, pela natureza da matéria agendada, devam estar presentes.\n\n4 - Podem assistir às Reuniões de Secretárias/os de Estado:\n\na) Um membro do Gabinete do Primeiro-Ministro;\n\nb) Um membro do Gabinete da Ministra da Presidência e da Modernização Administrativa;\n\nc) Um membro do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n5 - O Secretário de Estado dos Assuntos Parlamentares, a Secretária de Estado Adjunta do Primeiro-Ministro e o Secretário de Estado da Presidência do Conselho de Ministros são substituídos, nas suas ausências ou impedimentos, pelas/os respetivas/os chefes dos gabinetes.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2018-116923610) As alterações introduzidas pelo decreto-lei n.º 90/2018, de 9 de novembro produzem efeitos a partir da data da nomeação dos membros do Governo a que respeitam, considerando-se ratificados todos os atos entretanto praticados.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2018-116923610), em vigor a partir de 2018-11-14\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2017 - Diário da República n.º 218/2017, Série I de 2017-11-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2017-114190325), em vigor a partir de 2017-11-18"
+  },
+  "120613277": {
+   "fragment_id": "114191250",
+   "type": 11,
+   "heading": "Artigo 1.º — Composição",
+   "in_force_from": "2019-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 1.º — Composição\n\n1 - O Conselho de Ministros é composto pelo Primeiro-Ministro, que preside, e pelas/os ministras/os.\n\n2 - Salvo determinação em contrário do Primeiro-Ministro, participam nas reuniões do Conselho de Ministros, sem direito a voto, o Secretário de Estado Adjunto e dos Assuntos Parlamentares e o Secretário de Estado da Presidência do Conselho de Ministros.\n\n3 - A/o Chefe do Gabinete do Primeiro-Ministro pode assistir às reuniões do Conselho de Ministros.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+  },
+  "120613278": {
+   "fragment_id": "114191258",
+   "type": 11,
+   "heading": "Artigo 9.º — Tramitação subsequente",
+   "in_force_from": "2019-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 9.º — Tramitação subsequente\n\n1 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros promover a introdução das alterações na redação dos diplomas aprovados, quando tal tenha sido deliberado em Conselho de Ministros.\n\n2 - O Secretário de Estado da Presidência do Conselho de Ministros conduz o processo de recolha das assinaturas ministeriais nos diplomas aprovados e, quando for caso disso, da respetiva promulgação ou assinatura pelo Presidente da República, referenda e publicação no Diário da República.\n\n3 - Os diplomas devem ser assinados pelas/os ministras/os competentes em razão da matéria, nos termos do n.º 3 do artigo 201.º da Constituição, num prazo que não deve exceder três dias.\n\n4 - Em casos de urgência, o Secretário de Estado da Presidência do Conselho de Ministros pode promover a assinatura dos diplomas na reunião do Conselho de Ministros em que os mesmos são aprovados.\n\n5 - Após o processo de recolha de assinaturas, as propostas de lei ou de resolução da Assembleia da República são enviadas pelo Secretário de Estado da Presidência do Conselho de Ministros ao Secretário de Estado Adjunto e dos Assuntos Parlamentares, que conduz o respetivo processo de apresentação à Assembleia da República.\n\n6 - Em sede de promulgação ou de assinatura dos diplomas pelo Presidente da República, caso seja necessária a recolha de informações complementares, são as mesmas prestadas à Presidência da República, através da sua ou do seu Chefe da Casa Civil, pelo Secretário de Estado da Presidência do Conselho de Ministros.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+  },
+  "120613279": {
+   "fragment_id": "114191262",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": "2019-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2018-116923610), em vigor a partir de 2018-11-14",
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2017 - Diário da República n.º 218/2017, Série I de 2017-11-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2017-114190325), em vigor a partir de 2017-11-18"
+   ],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - As Reuniões de Secretárias/os de Estado são presididas pela Ministra da Presidência e da Modernização Administrativa ou, na sua ausência e impedimento, pelo Secretário de Estado da Presidência do Conselho de Ministros, que a coadjuva nas demais.\n\n2 - Participam nas Reuniões de Secretárias/os de Estado:\n\na) O Secretário de Estado Adjunto e dos Assuntos Parlamentares;\n\nb) (Revogada)\n\nc) Uma/um- secretária/o de Estado em representação de cada ministra/o.\n\nd) (Revogada)\n\n3 - Podem também participar nas Reuniões de Secretárias/os de Estado outras/os secretárias/os de Estado que, pela natureza da matéria agendada, devam estar presentes.\n\n4 - Podem assistir às Reuniões de Secretárias/os de Estado:\n\na) Um membro do Gabinete do Primeiro-Ministro;\n\nb) Um membro do Gabinete da Ministra da Presidência e da Modernização Administrativa;\n\nc) Um membro do Gabinete do Secretário de Estado da Presidência do Conselho de Ministros.\n\n5 - O Secretário de Estado Adjunto e dos Assuntos Parlamentares e o Secretário de Estado da Presidência do Conselho de Ministros são substituídos, nas suas ausências ou impedimentos, pelas/os respetivas/os chefes dos gabinetes.\n\n> Nota: [Artigo 5.º, Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2018-116923610) As alterações introduzidas pelo decreto-lei n.º 90/2018, de 9 de novembro produzem efeitos a partir da data da nomeação dos membros do Governo a que respeitam, considerando-se ratificados todos os atos entretanto praticados.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 90/2018 - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2018-116923610), em vigor a partir de 2018-11-14\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 171/2017 - Diário da República n.º 218/2017, Série I de 2017-11-13](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/171-2017-114190325), em vigor a partir de 2017-11-18"
+  },
+  "120613280": {
+   "fragment_id": "114191272",
+   "type": 11,
+   "heading": "Artigo 20.º — Avaliação e validação estratégica",
+   "in_force_from": "2019-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 20.º — Avaliação e validação estratégica\n\nO Primeiro-Ministro procede à avaliação e validação estratégica da calendarização proposta, fixando a ordem de prioridades legislativas e a calendarização da implementação de medidas legislativas, em coordenação com a Ministra da Presidência e da Modernização Administrativa e o Ministro Adjunto e da Economia, sob coadjuvação do Secretário de Estado Adjunto e dos Assuntos Parlamentares e do Secretário de Estado da Presidência do Conselho de Ministros.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+  },
+  "120613281": {
+   "fragment_id": "114194778",
+   "type": 11,
+   "heading": "Artigo 25.º — Início do procedimento legislativo",
+   "in_force_from": "2019-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 25.º — Início do procedimento legislativo\n\n1 - A iniciativa para apresentar projetos de decretos-leis e de propostas de lei cabe aos membros do Governo que os enviam ao Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - A apresentação deve ser obrigatoriamente feita através da através de meios eletrónicos da rede informática do Governo, a determinar pelo Secretário de Estado da Presidência do Conselho de Ministros, sob pena de rejeição imediata e sua devolução ao gabinete ministerial proponente.\n\n3 - Em cumprimento das prioridades políticas fixadas pelo Primeiro-Ministro, a Ministra da Presidência e da Modernização Administrativa, o Ministro Adjunto e da Economia e o Secretário de Estado da Presidência do Conselho de Ministros podem solicitar o envio de anteprojetos, sempre que a natureza das iniciativas legislativas o justifique.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+  },
+  "120613282": {
+   "fragment_id": "114194791",
+   "type": 11,
+   "heading": "Artigo 34.º — Devolução e circulação",
+   "in_force_from": "2019-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 34.º — Devolução e circulação\n\n1 - Compete ao Secretário de Estado da Presidência do Conselho de Ministros, em coordenação com o Secretário de Estado Adjunto e dos Assuntos Parlamentares, a apreciação dos projetos que lhe sejam remetidos, após o que, consoante os casos:\n\na) Determina a sua devolução às entidades proponentes, caso não tenham sido respeitados os requisitos previstos no presente Regimento, não tenha sido observada a forma adequada ou existam quaisquer inconstitucionalidades, ilegalidades, irregularidades ou deficiências grosseiras ou flagrantes, sempre que tais vícios não possam ser desde logo supridos;  ou\n\nb) Determina a sua circulação pelos gabinetes de todos os membros do Governo.\n\n2 - A circulação realiza-se mediante a distribuição pelos gabinetes de todos os membros do Governo de uma lista de circulação, acompanhada das respetivas cópias dos projetos, através da rede informática do Governo.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+  },
+  "120613283": {
+   "fragment_id": "114194792",
+   "type": 11,
+   "heading": "Artigo 35.º — Prazos de circulação",
+   "in_force_from": "2019-03-09",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+   ],
+   "markdown": "###### Artigo 35.º — Prazos de circulação\n\n1 - Os projetos devem ser objeto de circulação por um prazo mínimo de 15 dias, que pode ser prorrogado pelo Secretário de Estado da Presidência do Conselho de Ministros.\n\n2 - O Secretário de Estado Adjunto e dos Assuntos Parlamentares pode requerer a prorrogação do prazo de circulação, mediante pedido fundamentado.\n\n3 - O prazo de circulação pode ser abreviado ou dispensado, em casos de excecional urgência, por determinação da Ministra da Presidência e da Modernização Administrativa, com faculdade de delegação no Secretário de Estado da Presidência do Conselho de Ministros.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 49/2019 - Diário da República n.º 44/2019, Série I de 2019-03-04](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/49-2019-120454170), em vigor a partir de 2019-03-09, produz efeitos a partir de 2019-03-05"
+  }
+ }
+}

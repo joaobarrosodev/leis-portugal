@@ -1,0 +1,601 @@
+---
+schema_version: '1.0'
+id: pt:dre:177363477:por
+title: Portaria n.º 26/2022
+short_title: null
+summary: Cria e regula a medida Empreende XXI
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Economia e Transição Digital e Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 26/2022
+official_date: null
+publication_date: '2022-01-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/2022, Série I de 2022-01-10
+  number: '6'
+  series: I
+  supplement: null
+  pages: 37 - 46
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/01/00600/0003700046.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-02-11'
+version_history:
+  file: portaria-26-2022.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2022-01-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-02-11'
+    amending: pt:dre:207272805:por
+    amending_title: Portaria n.º 44/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/26/2022/p/cons/20230210/pt/html
+  oj: null
+  dre: '177363477'
+  dre_path: /dr/detalhe/portaria/26-2022-177363477
+  internal: pt:dre:177363477:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/26-2022-177363477
+  metadata_url: https://data.dre.pt/eli/port/26/2022/p/cons/20230210/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-177444382
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-177444382
+  retrieved_at: '2026-10-22T12:48:31Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2a57c01e8680652a611dca5d9903e83aeb70b2a94e53bf5ace88df187b1b7617
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:48:31Z'
+  notes: 2 versão(ões); histórico completo em portaria-26-2022.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apoio à Criação do Próprio Emprego
+- Empreendedorismo
+- Financiamento
+- Instituto do Emprego e Formação Profissional
+- Formação Profissional
+- Criação de Empresas
+- Criação de Serviços
+- Definição de Competências
+- Desempregado
+- Empréstimo
+- Jovem
+- Criação de Emprego
+- Desemprego
+- Emprego
+- Programa de Emprego
+- Jovem Empresário
+- Política de Emprego
+- Startup Portugal-Associação Portuguesa para a Promoção do Empreendedorismo
+- Programa de Estabilização Económica e Social
+- ATIVAR.PT - Programa Reforçado de Apoios ao Emprego e à Formação Profissional
+- Medida Empreende XXI
+relationships:
+- type: amended_by
+  target: pt:dre:207272805:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 17.º;
+    Altera Artigo 18.º; Altera Artigo 23.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805
+  date: '2023-02-10'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/220/2006/11/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/220/2006/11/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/151/2014/07/
+  label: null
+  source: http://data.dre.pt/eli/port/151/2014/07/
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/174/2020/07/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/174/2020/07/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/214/2019/07/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/214/2019/07/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/84/2015/03/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/84/2015/03/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/85/2015/03/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/85/2015/03/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/985/2009/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/985/2009/09/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/41/2020/06/06/p/dre
+article_structure:
+  article_count: 29
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:48:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 26/2022
+
+Portaria n.º 26/2022
+
+de 10 de janeiro
+
+Sumário: Cria e regula a medida Empreende XXI.
+
+Perante os impactos económicos e sociais da pandemia da doença COVID-19, e num quadro de agravamento das condições do mercado de trabalho, estabeleceu o Governo como um dos eixos prioritários do Programa de Estabilização Económica e Social, aprovado pela Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, a manutenção do emprego e a retoma progressiva da atividade económica.
+
+É nesse âmbito que se enquadra o «ATIVAR.PT - Programa Reforçado de Apoios ao Emprego e à Formação Profissional», concebido para garantir resposta adequada e rápida de política ativa, desde logo com programas de banda larga de apoios à contratação e de estágios, em articulação com programas para setores e públicos específicos.
+
+Assim, em conformidade com os compromissos assumidos no Programa de Estabilização Económica e Social, e em complemento às medidas de política ativa de emprego já em vigor, cria-se a medida «Empreende XXI», um apoio à criação e desenvolvimento de novos projetos empresariais por jovens à procura do primeiro emprego e desempregados inscritos no Instituto do Emprego e da Formação Profissional, I. P.
+
+Foram ouvidos os parceiros sociais com assento na Comissão Permanente de Concertação Social.
+
+Assim, ao abrigo do disposto na alínea b) do n.º 2 do artigo 8.º, no artigo 10.º e no n.º 1 do artigo 14.º do Decreto-Lei n.º 13/2015, de 26 de janeiro, manda o Governo, pelo Secretário de Estado para a Transição Digital e pelo Secretário de Estado Adjunto, do Trabalho e da Formação Profissional, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria cria e regula a medida Empreende XXI, adiante designada 'medida', que consiste num apoio à criação e desenvolvimento de novos projetos empresariais por pessoas inscritas no Instituto do Emprego e da Formação Profissional, I. P., adiante designado por IEFP, I. P.
+
+2 - A medida é executada pelo IEFP, I. P., em parceria com a Startup Portugal, Associação Portuguesa para a Promoção do Empreendedorismo - SPAPPE, adiante designada Startup Portugal, nos termos da presente portaria e de acordo de cooperação a formalizar entre ambos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 2.º — Objetivos
+
+A medida concretiza os objetivos da política de emprego, relativos ao apoio ao empreendedorismo e à criação de postos de trabalho, definidos nos artigos 3.º e 10.º do Decreto-Lei n.º 13/2015, de 26 de janeiro, e visa, nomeadamente, o seguinte:
+
+a) Apoiar a criação de empresas;
+
+b) Promover a implementação de projetos em áreas inovadoras;
+
+c) Fomentar o desenvolvimento de atividades empreendedoras em ambientes colaborativos.
+
+###### Artigo 3.º — Modalidades de apoio
+
+1 - A medida compreende as seguintes modalidades de apoio, para criação e desenvolvimento de novos projetos empresariais, cumuláveis entre si:
+
+a) Apoio financeiro ao investimento elegível para a criação de empresas;
+
+b) Apoio financeiro à criação do próprio emprego;
+
+c) Formação profissional adequada à criação de empresas e do próprio emprego, sempre que necessário;
+
+d) Mentoria e consultoria especializada na área do empreendedorismo para reforço de competências e para a estruturação e consolidação do projeto;
+
+e) Possibilidade de instalação em incubadoras, sempre que necessário.
+
+2 - Os apoios financeiros referidos nas alíneas a) e b) do número anterior, não podem exceder no seu conjunto, ou em separado, o apoio máximo atribuído pelo IEFP de (euro) 200 000,00.
+
+3 - No âmbito da presente portaria, as normas que se referem a «empresas» são aplicáveis a todas as tipologias de projetos previstas no n.º 1 do artigo 5.º, salvo menção em contrário.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 4.º — Destinatários
+
+1 - São destinatários da medida as pessoas que apresentem uma ideia de negócio económico financeiramente viável, inscritas no IEFP, I. P.
+
+2 - [Revogado.]
+
+3 - A aferição da inscrição no IEFP, I. P., efetua-se à data da apresentação da candidatura.
+
+4 - Para efeitos de aprovação da candidatura, os destinatários, bem como os restantes promotores do projeto, nos casos aplicáveis, devem reunir os requisitos previstos nas alíneas c) a e) do n.º 2 do artigo 7.º.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 5.º — Requisitos dos projetos
+
+1 - São elegíveis os projetos de criação de empresas ou do próprio emprego, nos seguintes termos:
+
+a) Constituição de entidades privadas com fins lucrativos, independentemente da respetiva forma jurídica;
+
+b) Constituição de cooperativas;
+
+c) Desenvolvimento de atividade como trabalhador independente, com rendimentos empresariais ou profissionais.
+
+2 - Os projetos previstos no número anterior devem respeitar, nomeadamente, os seguintes requisitos:
+
+a) [Revogada.];
+
+b) Apresentar viabilidade económico-financeira;
+
+c) Não incluir, no investimento a realizar, a compra de capital social de empresa existente.
+
+3 - A realização do investimento e a criação dos postos de trabalho dos promotores associados ao projeto devem estar concluídas no prazo de 12 meses a contar da data da disponibilização inicial do apoio financeiro, salvo impedimento devidamente justificado e aceite pelo IEFP, I. P.
+
+4 - Os projetos devem manter a atividade da empresa e assegurar a criação do respetivo posto de trabalho dos destinatários promotores, durante um período não inferior a dois anos, contados a partir da data da assinatura do termo de aceitação, sem prejuízo do disposto no artigo 17.º
+
+5 - Podem participar no capital social outros promotores desde que a maioria do capital social e dos direitos de voto seja detida pelos destinatários promotores.
+
+6 - No caso da constituição de cooperativas não se aplica a exigência de maioria do capital social, prevista no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 6.º — Elegibilidade das despesas para apoio ao investimento
+
+1 - Para efeitos de concessão do apoio ao investimento, não são consideradas elegíveis, nomeadamente, as despesas:
+
+a) Com aquisição de imóveis;
+
+b) Com construção de edifícios;
+
+c) Cuja relevância para a realização do projeto não seja fundamentada;
+
+d) Que ultrapassem no seu conjunto o valor de (euro) 200 000,00.
+
+2 - O apoio financeiro ao investimento apenas pode financiar o fundo de maneio referente ao projeto até 50 % do investimento elegível, com o limite de 10 vezes o valor do indexante dos apoios sociais (IAS).
+
+3 - As despesas de investimento são calculadas a preços correntes, deduzindo-se o imposto sobre o valor acrescentado, sempre que a empresa seja sujeito passivo do mesmo e possa proceder à respetiva dedução.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 7.º — Requisitos da nova empresa
+
+1 - A nova empresa, em qualquer das formas previstas no n.º 1 do artigo 5.º, pode iniciar a atividade nos seguintes termos:
+
+a) Nos 180 dias imediatamente anteriores à data da apresentação da candidatura, devendo, nesta data, apresentar o respetivo comprovativo;
+
+b) Após a data da apresentação da candidatura, devendo apresentar o respetivo comprovativo no prazo de 30 dias consecutivos após a notificação da decisão de aprovação.
+
+2 - Desde a data da assinatura do termo de aceitação e até à extinção das obrigações associadas à execução do projeto, a nova empresa deve reunir, cumulativamente, os seguintes requisitos:
+
+a) Encontrar-se regularmente constituída e registada;
+
+b) Dispor de licenciamento e demais requisitos legais exigidos para o exercício da atividade ou apresentar comprovativo de ter iniciado o processo aplicável;
+
+c) Ter a situação contributiva regularizada perante a administração tributária e a segurança social;
+
+d) Não se encontrar em situação de incumprimento no que respeita a apoios financeiros concedidos pelo IEFP, I. P.;
+
+e) Ter a situação regularizada em matéria de restituições no âmbito dos fundos europeus estruturais e de investimento;
+
+f) Dispor de contabilidade organizada de acordo com o previsto na lei;
+
+g) Estar registada na plataforma de mapeamento do ecossistema de startups disponibilizada pela Startup Portugal.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 8.º — Apoio financeiro ao investimento para a criação de empresas
+
+1 - Aos projetos de criação de empresas elegíveis é atribuído, pelo IEFP, I. P., um apoio financeiro, até 85 % do total do investimento elegível, nas componentes de subsídio não reembolsável e respetivas majorações e empréstimo sem juros.
+
+2 - Para efeitos de aplicação do número anterior, o subsídio não reembolsável pode ser concedido até ao limite de 40 % do investimento elegível, sendo majorado nas seguintes situações:
+
+a) Em 15 %, no caso de projetos promovidos por destinatários do sexo sub-representado em determinado setor de atividade económica, e desde que estes detenham a maioria do capital social e dos direitos de voto destinatários;
+
+b) Em 15 %, quando se trate de projetos inovadores, que abranjam a criação de uma nova ideia, produto ou serviço, nas áreas da tecnologia, transição climática, modelo de negócio, entre outras;
+
+c) Em 2,5 %, por posto de trabalho criado para contratos de trabalho sem termo destinado a pessoa com qualificação de nível 5 a 7, ou em 5 %, com qualificação de nível 8, de acordo com o Quadro Nacional de Qualificações, nos termos da Portaria n.º 782/2009, de 23 de julho, até ao limite de 15 % do valor do subsídio não reembolsável;
+
+d) Em 25 %, quando se trate de projetos localizados em território do Interior, nos termos definidos pela Portaria n.º 208/2017, de 13 de julho;
+
+e) Em 2,5 % por posto de trabalho criado para contratos de trabalho sem termo e preenchido por desempregados inscritos no IEFP, I. P., até ao limite de 30 % do valor do subsídio não reembolsável.
+
+3 - Para efeitos do disposto na alínea a) do número anterior, os setores de atividade económica em que se considera existir sub-representação de género são aqueles em que não se verifica uma representatividade de, pelo menos, 33,3 % em relação a um dos sexos e que constam em lista disponibilizada nos sítios eletrónicos www.iefp.pt e startupportugal.com, atualizada, anualmente, com base no relatório único sobre a atividade social da empresa.
+
+4 - Para efeitos de aplicação do disposto no n.º 1, o empréstimo sem juros pode ser concedido até ao limite de 45 % do investimento elegível.
+
+5 - Os projetos devem assegurar, pelo menos, 15 % do montante do investimento elegível em capitais próprios.
+
+6 - Se for necessário proceder à redução do montante dos apoios financeiros previstos no n.º 1 para cumprimento dos limites de financiamento previstos no presente artigo, primeiramente diminui-se o valor do empréstimo sem juros e, em seguida, o valor do subsídio não reembolsável.
+
+7 - O apoio financeiro atribuído sob a forma de empréstimo sem juros é reembolsável no prazo de cinco anos e o seu início pode ser diferido até dois anos a contar da data da concessão.
+
+8 - O reembolso do apoio concedido é efetuado através de prestações mensais, constantes e sucessivas, salvo amortização antecipada do empréstimo.
+
+9 - Sem prejuízo do referido nos números anteriores, e em momento prévio à devolução do termo de aceitação, o destinatário promotor pode optar por converter o período de diferimento em período de reembolso.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 9.º — Apoios à criação do próprio emprego
+
+1 - Aos projetos de criação de empresas que cumpram o previsto no artigo 5.º é atribuído, pelo IEFP, I. P., um apoio financeiro, sob a forma de subsídio não reembolsável, até ao montante de 15 vezes o valor do IAS por destinatário promotor que crie o seu posto de trabalho a tempo inteiro, até ao limite de cinco postos de trabalho objeto de apoio.
+
+2 - [Revogado.]
+
+3 - O apoio financeiro referido nos números anteriores é reduzido na devida proporção e tendo por base um período normal de trabalho de 40 horas semanais, quando se trate desenvolvimento de atividade a tempo parcial, desde que devidamente justificada e aprovada pelo IEFP, I. P.
+
+4 - O apoio previsto no presente artigo não é considerado para efeitos de verificação do disposto no n.º 5 do artigo anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 10.º — Pagamento dos apoios
+
+1 - O pagamento do apoio financeiro ao investimento previsto no artigo 8.º é efetuado em duas prestações, da seguinte forma:
+
+a) Adiantamento, correspondente a 65 % do montante total do apoio aprovado para o apoio ao investimento, no prazo de 10 dias úteis após a devolução do termo de aceitação;
+
+b) Restantes 35 %, após a verificação física, documental e contabilística da totalidade das despesas de investimento, no prazo de 20 dias úteis a contar da data da apresentação dos elementos necessários para este efeito.
+
+2 - O pagamento do apoio financeiro à criação do próprio emprego previsto no artigo 9.º é efetuado nos termos referidos no número anterior, mediante a comprovação do início da atividade.
+
+###### Artigo 11.º — Formação profissional
+
+1 - Sempre que, na sequência de apreciação do IEFP, I. P., ou das entidades de acompanhamento Empreende XXI, se verifique que os destinatários previstos no artigo 3.º não possuem formação profissional adequada ao desenvolvimento do negócio, devem os mesmos frequentar ações de formação destinadas ao desenvolvimento de competências empreendedoras, ou de outras áreas de competências identificadas como relevantes para o projeto.
+
+2 - As ações de formação previstas no número anterior podem ser ministradas pelo IEFP, I. P., pela Startup Portugal ou pelas entidades de acompanhamento Empreende XXI, preferencialmente, em momento prévio à apresentação da candidatura.
+
+###### Artigo 12.º — Mentoria e consultoria especializada
+
+1 - A mentoria e consultoria especializada a prestar ao projeto pode assumir as seguintes modalidades:
+
+a) Apoio prévio à aprovação da candidatura, para a criação e estruturação do projeto, nomeadamente no que concerne à conceção e elaboração de planos de investimento e de modelos de negócio;
+
+b) Apoio de mentoria e consultoria especializada nos três primeiros anos de atividade da empresa, para consolidação do projeto financiado, abrangendo, nomeadamente, as seguintes atividades:
+
+i) Acompanhamento do projeto aprovado;
+
+ii) Consultoria em aspetos de maior fragilidade na gestão ou na operacionalidade da iniciativa, diagnosticada durante o acompanhamento;
+
+iii) Alargamento de competências na área do empreendedorismo e da capacitação na estruturação do projeto.
+
+2 - Durante os períodos referidos no número anterior, podem ser realizadas outras atividades complementares, nomeadamente bootcamps, bem como instalação das novas empresas criadas em incubadoras.
+
+3 - A mentoria e consultoria especializada, bem como as atividades previstas no número anterior, são desenvolvidas por incubadoras protocoladas com a Startup Portugal e que são credenciadas pelo IEFP, I. P., como parceiro de acompanhamento Empreende XXI, nos termos definidos no regulamento previsto no artigo 23.º
+
+4 - No âmbito do apoio prestado podem ainda ser disponibilizados mentores para acompanhamento do projeto em contexto de trabalho colaborativo ou de incubação de projetos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 13.º — Regime de candidatura
+
+1 - Os períodos de abertura e encerramento de candidaturas à presente medida são definidos por deliberação do conselho diretivo do IEFP, I. P., e divulgados nos sítios eletrónicos www.iefp.pt e startupportugal.com.
+
+2 - O conselho diretivo do IEFP, I. P., pode deliberar a abertura de períodos de candidatura exclusivos para sectores de atividade considerados prioritários.
+
+3 - O aviso de abertura de candidaturas divulga, nomeadamente, a data de abertura e de encerramento, a respetiva dotação orçamental, a qual pode ser fixada por região, sendo aprovadas candidaturas até ao limite da dotação orçamental fixada.
+
+4 - Por forma a promover o empreendedorismo feminino, o conselho diretivo do IEFP, I. P., delibera a consignação de uma proporção da dotação orçamental afeta a cada período de candidaturas a projetos promovidos por destinatárias do sexo feminino, desde que estas detenham a maioria do capital social e dos direitos de voto.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 14.º — Procedimento de candidatura
+
+1 - A candidatura à presente medida é apresentada ao IEFP, I. P., no sistema de submissão de candidaturas da medida Empreende XXI, cujo acesso é disponibilizado nos sítios eletrónicos www.iefp.pt e startupportugal.com, nas condições a definir no regulamento previsto no artigo 23.º
+
+2 - Compete ao IEFP, I. P. proceder à instrução e decisão da candidatura, sem prejuízo do referido no n.º 5.
+
+3 - A candidatura deve ser decidida no prazo máximo de 45 dias consecutivos após a data da sua apresentação.
+
+4 - O prazo definido no número anterior suspende-se:
+
+a) Quando haja lugar à solicitação de esclarecimentos ou informações adicionais;
+
+b) Com a realização da audiência de interessados, nos termos do Código do Procedimento Administrativo.
+
+5 - A análise relativa à viabilidade económico-financeira dos projetos é efetuada pelas entidades de acompanhamento Empreende XXI, credenciadas pelo IEFP, I. P.
+
+6 - Para efeitos do número anterior, a entidade de acompanhamento Empreende XXI que procede à análise deve estar localizada em distrito diverso daquele em que residem os destinatários promotores do projeto e em que o mesmo vai ser implementado.
+
+7 - A entidade de acompanhamento Empreende XXI que realiza a análise do projeto, nos termos dos n.os 5 e 6, não pode prestar ao mesmo o apoio previsto no artigo 12.º.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 15.º — Termo de aceitação
+
+1 - Para efeitos da concessão dos apoios financeiros previstos na presente medida os promotores devem devolver ao IEFP, I. P., no prazo de 30 dias consecutivos, contados a partir da notificação para o efeito, um termo de aceitação subscrito por todos os promotores do projeto, incluindo a pessoa coletiva criada por via do apoio, nos casos aplicáveis, conforme modelo e conteúdo a definir no regulamento previsto no artigo 23.º
+
+2 - Os promotores singulares são solidariamente responsáveis entre si e com a pessoa coletiva criada, nos casos aplicáveis.
+
+###### Artigo 16.º — Garantia
+
+A concessão dos apoios depende da constituição de garantia a favor do IEFP, I. P., de valor equivalente aos apoios ao investimento concedidos, no prazo máximo de 60 dias úteis, contados a partir do termo do prazo para a execução integral do projeto, nos termos definidos no regulamento previsto no artigo 23.º
+
+###### Artigo 17.º — Incumprimento e restituição de apoios
+
+1 - Sem prejuízo do disposto nos números seguintes, caso haja lugar à execução parcial do projeto e mediante pedido ao IEFP, I. P., o promotor singular ou a entidade promotora criada podem solicitar a restituição parcial do apoio concedido, desde que a parte não executada não coloque em causa a respetiva viabilidade económico-financeira.
+
+2 - No caso de atividade relativa a posto de trabalho apoiado no âmbito do artigo 9.º que, no decurso do período de dois anos de vigência das obrigações, passe a ser desenvolvida a tempo parcial, há lugar à restituição proporcional do apoio, de acordo com o disposto no n.º 3 do mesmo artigo e tendo em conta a data da ocorrência do facto.
+
+3 - No caso de cessação do posto de trabalho apoiado no âmbito do artigo 9.º, no decurso do período de dois anos de vigência das obrigações, há lugar à restituição proporcional do apoio, desde que se mantenha a atividade da empresa pelo período remanescente, sob pena de devolução dos apoios ao investimento.
+
+4 - O incumprimento, por parte do promotor singular ou da entidade promotora criada, das obrigações relativas ao apoio financeiro concedido no âmbito da presente portaria, implica a imediata cessação do mesmo e a restituição, total ou parcial, dos montantes já recebidos, sem prejuízo, se for caso disso, de participação criminal que venha a ser efetuada por eventuais indícios da prática do crime.
+
+5 - É aplicável o disposto no artigo 22.º do Decreto-Lei n.º 13/2015, de 26 de janeiro.
+
+6 - O promotor singular e a entidade promotora criada ficam impedidos, durante dois anos, a contar da notificação do incumprimento, nos termos dos n.os 4 e 5, de beneficiar de qualquer apoio ou comparticipação do Estado com a mesma natureza e finalidade.
+
+7 - Para efeitos do disposto nos números anteriores, compete ao IEFP, I. P., apreciar e determinar a cessação dos apoios e determinar a restituição, total ou parcial, dos mesmos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 18.º — Apoio financeiro às entidades de acompanhamento Empreende XXI
+
+1 - O IEFP, I. P., concede apoio financeiro às entidades de acompanhamento Empreende XXI para desenvolvimento das atividades previstas no artigo 12.º, nos seguintes termos:
+
+a) Uma vez o valor do IAS, para a realização de apoio prévio à apresentação de um projeto que seja aprovado pelo IEFP, I. P.;
+
+b) 0,70 vezes o valor do IAS, para análise relativa à viabilidade económico-financeira de cada projeto submetido a candidatura, nos termos dos n.os 5 a 7 do artigo 14.º;
+
+c) 12 vezes o valor do IAS, para a realização do acompanhamento e consultoria após aprovação do projeto, previstas na alínea b) do n.º 1 do artigo 12.º, que podem ser objeto de redução proporcional, de acordo com a duração efetiva da atividade prestada;
+
+d) Até 60 vezes o valor do IAS por ano, para atividades complementares, nomeadamente divulgação, seminários, desenvolvimento de materiais didáticos, bootcamps e custos com o apoio e serviços de incubação das novas empresas, previstas no n.º 2 do artigo 12.º e nas alíneas e) e f) do artigo 21.º.
+
+2 - O regime de financiamento dos apoios previstos no número anterior, nomeadamente os requisitos das entidades, a elegibilidade das despesas, as obrigações e o sistema de pagamento, é definido no regulamento previsto no artigo 23.º.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 19.º — Competências do IEFP, I. P.
+
+Compete, nomeadamente, aos serviços do IEFP, I. P.:
+
+a) Verificar os requisitos de elegibilidade dos destinatários;
+
+b) Decidir a candidatura, de acordo com o parecer de viabilidade económico-financeira elaborado pela entidade de acompanhamento Empreende XXI;
+
+c) Conceder os apoios financeiros aos projetos no âmbito das candidaturas aprovadas;
+
+d) Acompanhar e monitorizar a execução dos projetos e da medida, em parceria, respetivamente, com as entidades de acompanhamento Empreende XXI e a Startup Portugal;
+
+e) Credenciar as entidades de acompanhamento Empreende XXI;
+
+f) Conceder os apoios financeiros às entidades de acompanhamento Empreende XXI;
+
+g) Divulgar a medida, nomeadamente junto dos inscritos com perfil de potenciais candidatos;
+
+h) Organizar ações de formação em empreendedorismo e outras áreas relevantes, em parceria com Startup Portugal;
+
+i) Financiar os custos incorridos pela Startup Portugal com a criação e gestão da plataforma informática e dos instrumentos digitais, bem como com as ações de divulgação e informação, referidas nas alíneas e) e g) do artigo 20.º, e com as ações de formação referidas no artigo 11.º, mediante acordo de cooperação a celebrar entre as partes.
+
+###### Artigo 20.º — Competências da Startup Portugal
+
+Compete à Startup Portugal:
+
+a) Acompanhar a execução da medida e produzir relatórios de monitorização trimestrais, em parceria com o IEFP, I. P.;
+
+b) Organizar ações de formação em empreendedorismo e outras áreas de competência relevantes para os projetos;
+
+c) Organizar ações de esclarecimento para as entidades de acompanhamento Empreende XXI;
+
+d) Dinamizar o trabalho da rede de entidades de acompanhamento Empreende XXI;
+
+e) Criar e gerir a plataforma informática e os instrumentos digitais criados para a presente medida;
+
+f) Garantir o bom funcionamento dos processos de submissão e avaliação das candidaturas;
+
+g) Organizar ações de divulgação e informação sobre a presente medida e sobre projetos de empreendedorismo;
+
+h) Acompanhar a execução dos projetos, em parceria com o IEFP, I. P., e com entidades de acompanhamento Empreende XXI.
+
+###### Artigo 21.º — Competências das entidades de acompanhamento Empreende XXI
+
+Compete às entidades de acompanhamento Empreende XXI:
+
+a) Analisar os projetos de investimento e elaborar o parecer sobre os mesmos;
+
+b) Organizar ações de formação em empreendedorismo e outras áreas de competência relevantes para os projetos;
+
+c) Prestar apoio de mentoria e consultoria, na fase de elaboração e execução dos projetos;
+
+d) Acompanhar a execução dos projetos, em parceria com o IEFP, I. P., e a Startup Portugal;
+
+e) Realização de outras atividades complementares, nomeadamente de bootcamps;
+
+f) Acolher os projetos de investimento na fase inicial da sua implementação, durante um período máximo de três anos, sempre que se justifique;
+
+g) Organizar ações de divulgação e informação sobre a presente medida e sobre projetos de empreendedorismo.
+
+###### Artigo 22.º — Financiamento comunitário
+
+A medida é passível de financiamento comunitário, sendo-lhe aplicáveis as respetivas disposições do direito comunitário e nacional.
+
+###### Artigo 23.º — Regulamentação e avaliação
+
+1 - O IEFP, I. P., elabora o regulamento aplicável à medida, no prazo de 20 dias úteis, a contar da data da entrada em vigor da presente portaria, definindo, nomeadamente, critérios de análise para apreciação das candidaturas.
+
+2 - O regulamento referido no número anterior e eventuais revisões estão sujeitos a homologação do membro do Governo responsável pela área governativa do trabalho.
+
+3 - A presente medida é objeto de avaliação em sede da Comissão Permanente de Concertação Social, no prazo de três anos a contar da data de entrada em vigor da presente portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 24.º — Acompanhamento e controlo
+
+As iniciativas financiadas são sujeitas a ações de acompanhamento, de verificação, de auditoria ou de fiscalização, por parte do IEFP, I. P., ou de outras entidades com competência para o efeito, entre a data de aprovação das candidaturas e a de extinção das obrigações assumidas, tendo em vista a sua viabilização e consolidação e, igualmente, a verificação do cumprimento das normas aplicáveis e obrigações assumidas, nomeadamente, a obrigação de manutenção dos postos de trabalho criados por via dos apoios.
+
+###### Artigo 25.º — Regra de minimis
+
+Os apoios públicos subjacentes à medida são atribuídos ao abrigo do regime comunitário de auxílios de minimis, nomeadamente em termos de montante máximo por entidade.
+
+###### Artigo 26.º — Cumulação de apoios
+
+1 - Os apoios financeiros concedidos ao abrigo da presente portaria não são cumuláveis com quaisquer outros que revistam a mesma natureza e finalidade, sem prejuízo do disposto nos números seguintes.
+
+2 - O presente regime é cumulável com:
+
+a) O recurso ao montante global das prestações de desemprego, nos termos previstos nos artigos 34.º e 34.º-A, ambos do Decreto-Lei n.º 220/2006, de 3 de novembro, na redação atual, sendo que, apenas em sede de procedimento, se aplica o disposto no n.º 1 do artigo 13.º da Portaria n.º 985/2009, de 4 de setembro, na atual redação, e da alínea a) do n.º 2, dos n.os 3, 4, 6, 8 e seguintes do Despacho n.º 7131/2011, de 3 de maio, publicado no Diário da República, 2.ª série, n.º 91, de 11 de maio de 2011;
+
+b) [Revogada.];
+
+c) A medida Emprego Interior MAIS - Mobilidade Apoiada para um Interior Sustentável, regulada pela Portaria n.º 174/2020, de 17 de julho, na redação atual;
+
+d) A medida Apoio ao Regresso de Emigrantes a Portugal, regulada pela Portaria n.º 214/2019, de 5 de julho, na redação atual;
+
+e) Incentivos de natureza fiscal.
+
+3 - Salvo quanto aos postos de trabalho preenchidos pelos promotores objeto do apoio previsto no artigo 9.º, os demais postos de trabalho a criar podem ser abrangidos pelos apoios à contratação em vigor, nos termos dos respetivos regimes.
+
+4 - No caso de contratação de ex-estagiários abrangidos pelas medidas Estágios ATIVAR.PT, e Estágios de Inserção para pessoas com deficiência, cujos estágios tenham sido realizados no âmbito do projeto apoiado, o promotor pode beneficiar dos apoios previstos na medida Incentivo ATIVAR.PT, e na medida Compromisso Emprego Sustentável, nos termos previstos.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 44/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/44-2023-207272805), em vigor a partir de 2023-02-11
+
+###### Artigo 27.º — Norma revogatória
+
+Com a entrada em vigor da presente portaria é revogada a Portaria n.º 151/2014, de 30 de julho.
+
+###### Artigo 28.º — Remissões
+
+As remissões legais ou regulamentares efetuadas para a Portaria n.º 151/2014, de 30 de julho, consideram-se efetuadas para o regime estabelecido na presente portaria.
+
+###### Artigo 29.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 6 de janeiro de 2022.
+
+O Secretário de Estado para a Transição Digital, André Eduardo de Aragão Gonçalves de Azevedo. - O Secretário de Estado Adjunto, do Trabalho e da Formação Profissional, Miguel Filipe Pardal Cabrita.
+
+114877103

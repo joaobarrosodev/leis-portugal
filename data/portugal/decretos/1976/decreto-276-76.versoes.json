@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:502597:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/1976-911147123",
+ "dre_path": "/dr/detalhe/decreto/276-1976-502597",
+ "source_lastmod": "2025-03-17",
+ "versions": [
+  {
+   "date": "1976-04-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "911296226",
+    "911296175",
+    "911296176",
+    "911296177",
+    "911296178",
+    "911296179",
+    "911296180"
+   ]
+  },
+  {
+   "date": "1979-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:382995:por",
+     "title": "Decreto Regulamentar n.º 9/79",
+     "published": "1979-03-30",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/9-1979-382995"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "910897574",
+    "911296175",
+    "911296223",
+    "911296177",
+    "911296178",
+    "911296179",
+    "911296180",
+    "911296181"
+   ]
+  },
+  {
+   "date": "2025-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:911089445:por",
+     "title": "Decreto Regulamentar n.º 3/2025",
+     "published": "2025-03-17",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/3-2025-911089445"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "911296226",
+    "911296227",
+    "911296228",
+    "911296229",
+    "911296230",
+    "911296231",
+    "911296232",
+    "911296233"
+   ]
+  }
+ ],
+ "fragments": {
+  "911296226": {
+   "fragment_id": "911147124",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2025-03-22",
+   "changed_by": [],
+   "markdown": "Decreto n.º 276/76\n\nde 13 de Abril\n\nTorna-se necessário delimitar as áreas de terreno indispensáveis à protecção do centro radioeléctrico formado pela estação emissora de Alfragide, pertencente à Companhia Portuguesa Rádio Marconi e situada na freguesia da Amadora, concelho de Oeiras, constituindo-se, para tal efeito, uma servidão radioeléctrica sobre as respectivas zonas confinantes.\n\nAs populações da área do concelho abrangido pelas restrições ora impostas, depois de terem sido convidadas para se manifestarem sobre esta servidão radioeléctrica, de acordo com o disposto nos artigos 3 e 5.º do Decreto-Lei n.º 181/70, de 28 de Abril, não apresentaram qualquer reclamação que obste à sua constituição.\n\nAssim, nos termos do artigo 14.º, n.º 1, do Decreto-Lei n.º 597/73, de 7 de Novembro:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "911296175": {
+   "fragment_id": "911147125",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs zonas confinantes com o centro radioeléctrico de Alfragide, pertencente à Companhia Portuguesa Rádio Marconi, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do disposto no artigo 1.º do Decreto-Lei n.º 597/73, de 7 de Novembro;"
+  },
+  "911296176": {
+   "fragment_id": "911147126",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO centro radioeléctrico referido no artigo anterior situa-se em Alfragide, concelho de Oeiras, junto à estrada nacional n.º 249-1, ao quilómetro 2,1, e ocupa uma área aproximada de 38000 m2, confinando com prédios cujos proprietários são os a seguir indicados:\n\na) A norte:\n\nJofrasa - Sociedade Imobiliária Joaquim Francisco dos Santos, S. A. R. L., com sede na Avenida da República, 45, 7.º, esquerdo, na cidade de Lisboa;\n\nJoanne Henriette Dupuy Ollivier, residente na Avenida de João Crisóstomo, 7, 2.º, direito, na cidade de Lisboa;\n\nb) A sul, nascente e poente: Jofrasa - Sociedade Imobiliária Joaquim Francisco dos Santos, S. A. R. L."
+  },
+  "911296177": {
+   "fragment_id": "911147127",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA zona de libertação primária a que alude o artigo 7.º do Decreto-Lei n.º 597/73, bem como o limite de 1000 m referente à zona secundária, previsto no artigo 10.º, I, do mesmo decreto-lei, encontram-se demarcados na planta topográfica, na escala de 1:25000, incluída na parte final deste diploma."
+  },
+  "911296178": {
+   "fragment_id": "911147128",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Na zona de libertação primária é proibida, salvo autorização dada pelos CTT, qualquer acção que envolva:\n\na) A instalação ou manutenção, ainda que temporária, de estruturas ou outros obstáculos metálicos;\n\nb) A construção ou manutenção de edifícios ou de outros obstáculos cujo nível superior ultrapasse a quota máxima de 170 m em relação ao nível do mar;\n\nc) O estabelecimento ou manutenção de árvores, culturas ou outros obstáculos que prejudiquem a propagação radioeléctrica;\n\nd) A existência de estradas abertas ao trânsito público ou de parques públicos de estacionamento de veículos motorizados;\n\ne) A instalação ou manutenção de linhas aéreas.\n\n2. A instalação e utilização, na zona de libertação primária, de qualquer aparelhagem eléctrica susceptível de prejudicar o funcionamento das instalações do centro emissor carecem de prévia autorização dos CTT.\n\n3. A zona de libertação secundária está sujeita aos seguintes condicionamentos:\n\nI) Nos 1000 m que circundam imediatamente a zona primária definida no artigo 3.º:\n\na) As linhas aéreas de energia eléctrica só serão permitidas para tensão composta igual ou inferior a 5 kV e desde que não prejudiquem o funcionamento do centro;\n\nb) Só poderá ser autorizada a implantação de qualquer obstáculo fixo ou móvel se o nível superior de tal obstáculo não ultrapassar a quota máxima de 170 m em relação ao nível do mar, adicionada de um décimo da distância entre o mesmo obstáculo e o limite exterior da zona primária.\n\nII) Na restante área da zona secundária até ao afastamento de 4000 m a contar dos limites do centro radioeléctrico só será permitida a montagem de linhas aéreas de energia eléctrica de tensão composta superior a 5 kV, desde que não prejudiquem o funcionamento do centro."
+  },
+  "911296179": {
+   "fragment_id": "911147129",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA Direcção dos Serviços Radioeléctricos dos CTT é a entidade competente para:\n\na) Conceder as autorizações a que se faz referência nos n.os 1 e 2 do artigo anterior;\n\nb) Ordenar a demolição, remoção, abate ou inutilização dos obstáculos perturbadores referidos, nos termos do artigo 20.º, n.º 2, do Decreto-Lei n.º 597/73;\n\nc) Fiscalizar o cumprimento das disposições legais respeitantes à presente servidão;\n\nd) Aplicar, nos termos do artigo 24.º do Decreto-Lei n.º 597/73, as multas decorrentes das infracções verificadas."
+  },
+  "911296180": {
+   "fragment_id": "911147130",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nDas decisões tomadas nos termos das alíneas b) e d) do artigo anterior cabe recurso para o Ministro dos Transportes e Comunicações."
+  },
+  "910897574": {
+   "fragment_id": "911147124",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 276/76\n\nde 13 de Abril\n\nTorna-se necessário delimitar as áreas de terreno indispensáveis à protecção do centro radioeléctrico formado pela estação emissora de Alfragide, pertencente à Companhia Portuguesa Rádio Marconi e situada na freguesia da Amadora, concelho de Oeiras, constituindo-se, para tal efeito, uma servidão radioeléctrica sobre as respectivas zonas confinantes.\n\nAs populações da área do concelho abrangido pelas restrições ora impostas, depois de terem sido convidadas para se manifestarem sobre esta servidão radioeléctrica, de acordo com o disposto nos artigos 3 e 5.º do Decreto-Lei n.º 181/70, de 28 de Abril, não apresentaram qualquer reclamação que obste à sua constituição.\n\nAssim, nos termos do artigo 14.º, n.º 1, do Decreto-Lei n.º 597/73, de 7 de Novembro:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "911296223": {
+   "fragment_id": "911147126",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1979-03-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 9/79 - Diário da República n.º 75/1979, Série I de 1979-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1979-382995), em vigor a partir de 1979-03-31"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO centro radioeléctrico referido no artigo anterior situa-se em Alfragide, concelho de Oeiras, junto à estrada nacional n.º 249-1, ao quilómetro 2,1, e ocupa uma área aproximada de 380000 m2, confinando com prédios cujos proprietários são os a seguir indicados:\n\na) A norte:\n\nJofrasa - Sociedade Imobiliária Joaquim Francisco dos Santos, S. A. R. L., com sede na Avenida da República, 45, 7.º, esquerdo, na cidade de Lisboa;\n\nJoanne Henriette Dupuy Ollivier, residente na Avenida de João Crisóstomo, 7, 2.º, direito, na cidade de Lisboa;\n\nb) A sul, nascente e poente: Jofrasa - Sociedade Imobiliária Joaquim Francisco dos Santos, S. A. R. L.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 9/79 - Diário da República n.º 75/1979, Série I de 1979-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1979-382995), em vigor a partir de 1979-03-31"
+  },
+  "911296181": {
+   "fragment_id": "911147131",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - José Augusto Fernandes - Rui Alberto Barradas do Amaral.\n\nPromulgado em 27 de Março de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n(ver documento original)\n\nO Ministro dos Transportes e Comunicações, José Augusto Fernandes."
+  },
+  "911296227": {
+   "fragment_id": "911147125",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2025-03-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+   ],
+   "markdown": "###### Artigo 1.º\n\nAs zonas confinantes com o centro radioeléctrico de Alfragide, pertencente à Companhia Portuguesa Rádio Marconi, estão sujeitas a servidão radioeléctrica e, bem assim, a outras restrições de utilidade pública, nos termos do disposto no artigo 1.º do Decreto-Lei n.º 597/73, de 7 de Novembro;\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+  },
+  "911296228": {
+   "fragment_id": "911147126",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2025-03-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 9/79 - Diário da República n.º 75/1979, Série I de 1979-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1979-382995), em vigor a partir de 1979-03-31"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO centro radioeléctrico referido no artigo anterior situa-se em Alfragide, concelho de Oeiras, junto à estrada nacional n.º 249-1, ao quilómetro 2,1, e ocupa uma área aproximada de 380000 m2, confinando com prédios cujos proprietários são os a seguir indicados:\n\na) A norte:\n\nJofrasa - Sociedade Imobiliária Joaquim Francisco dos Santos, S. A. R. L., com sede na Avenida da República, 45, 7.º, esquerdo, na cidade de Lisboa;\n\nJoanne Henriette Dupuy Ollivier, residente na Avenida de João Crisóstomo, 7, 2.º, direito, na cidade de Lisboa;\n\nb) A sul, nascente e poente: Jofrasa - Sociedade Imobiliária Joaquim Francisco dos Santos, S. A. R. L.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar n.º 9/79 - Diário da República n.º 75/1979, Série I de 1979-03-30](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/9-1979-382995), em vigor a partir de 1979-03-31"
+  },
+  "911296229": {
+   "fragment_id": "911147127",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2025-03-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+   ],
+   "markdown": "###### Artigo 3.º\n\nA zona de libertação primária a que alude o artigo 7.º do Decreto-Lei n.º 597/73, bem como o limite de 1000 m referente à zona secundária, previsto no artigo 10.º, I, do mesmo decreto-lei, encontram-se demarcados na planta topográfica, na escala de 1:25000, incluída na parte final deste diploma.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+  },
+  "911296230": {
+   "fragment_id": "911147128",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2025-03-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. Na zona de libertação primária é proibida, salvo autorização dada pelos CTT, qualquer acção que envolva:\n\na) A instalação ou manutenção, ainda que temporária, de estruturas ou outros obstáculos metálicos;\n\nb) A construção ou manutenção de edifícios ou de outros obstáculos cujo nível superior ultrapasse a quota máxima de 170 m em relação ao nível do mar;\n\nc) O estabelecimento ou manutenção de árvores, culturas ou outros obstáculos que prejudiquem a propagação radioeléctrica;\n\nd) A existência de estradas abertas ao trânsito público ou de parques públicos de estacionamento de veículos motorizados;\n\ne) A instalação ou manutenção de linhas aéreas.\n\n2. A instalação e utilização, na zona de libertação primária, de qualquer aparelhagem eléctrica susceptível de prejudicar o funcionamento das instalações do centro emissor carecem de prévia autorização dos CTT.\n\n3. A zona de libertação secundária está sujeita aos seguintes condicionamentos:\n\nI) Nos 1000 m que circundam imediatamente a zona primária definida no artigo 3.º:\n\na) As linhas aéreas de energia eléctrica só serão permitidas para tensão composta igual ou inferior a 5 kV e desde que não prejudiquem o funcionamento do centro;\n\nb) Só poderá ser autorizada a implantação de qualquer obstáculo fixo ou móvel se o nível superior de tal obstáculo não ultrapassar a quota máxima de 170 m em relação ao nível do mar, adicionada de um décimo da distância entre o mesmo obstáculo e o limite exterior da zona primária.\n\nII) Na restante área da zona secundária até ao afastamento de 4000 m a contar dos limites do centro radioeléctrico só será permitida a montagem de linhas aéreas de energia eléctrica de tensão composta superior a 5 kV, desde que não prejudiquem o funcionamento do centro.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+  },
+  "911296231": {
+   "fragment_id": "911147129",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2025-03-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+   ],
+   "markdown": "###### Artigo 5.º\n\nA Direcção dos Serviços Radioeléctricos dos CTT é a entidade competente para:\n\na) Conceder as autorizações a que se faz referência nos n.os 1 e 2 do artigo anterior;\n\nb) Ordenar a demolição, remoção, abate ou inutilização dos obstáculos perturbadores referidos, nos termos do artigo 20.º, n.º 2, do Decreto-Lei n.º 597/73;\n\nc) Fiscalizar o cumprimento das disposições legais respeitantes à presente servidão;\n\nd) Aplicar, nos termos do artigo 24.º do Decreto-Lei n.º 597/73, as multas decorrentes das infracções verificadas.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+  },
+  "911296232": {
+   "fragment_id": "911147130",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2025-03-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+   ],
+   "markdown": "###### Artigo 6.º\n\nDas decisões tomadas nos termos das alíneas b) e d) do artigo anterior cabe recurso para o Ministro dos Transportes e Comunicações.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+  },
+  "911296233": {
+   "fragment_id": "911147131",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2025-03-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+   ],
+   "markdown": "José Baptista Pinheiro de Azevedo - João de Deus Pinheiro Farinha - José Augusto Fernandes - Rui Alberto Barradas do Amaral.\n\nPromulgado em 27 de Março de 1976.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n(ver documento original)\n\nO Ministro dos Transportes e Comunicações, José Augusto Fernandes.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 3/2025 - Diário da República n.º 53/2025, Série I de 2025-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/3-2025-911089445), em vigor a partir de 2025-03-22"
+  }
+ }
+}

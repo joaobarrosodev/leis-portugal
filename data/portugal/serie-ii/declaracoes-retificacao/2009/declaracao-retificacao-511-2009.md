@@ -1,0 +1,92 @@
+---
+schema_version: '1.0'
+id: pt:dre:2135765:por
+title: Declaração de Rectificação n.º 511/2009
+short_title: null
+summary: Rectificação referente ao aviso n.º 507/2009, publicado no Diário da República, 2.ª série, n.º 5, de 8 de Janeiro
+  de 2009
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Câmara Municipal da Chamusca
+proposing_entity: null
+official_number: 511/2009
+official_date: null
+publication_date: '2009-02-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 34/2009, Série II de 2009-02-18
+  number: '34'
+  series: II
+  supplement: null
+  pages: 6875 - 6875
+  pdf_url: https://files.diariodarepublica.pt/2s/2009/02/034000000/0687506875.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2135765'
+  dre_path: /dr/detalhe/declaracao-rectificacao/511-2009-2135765
+  internal: pt:dre:2135765:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/511-2009-2135765
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/511-2009-2135765
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-02-18T00:00:00Z'
+integrity:
+  source_sha256: a8d17908f92cd15fcd9c08a20384d38ce990815415a3e1297d39387758b95464
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-511-2135765.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 511/2009
+
+Declaração de rectificação n.º 511/2009
+
+No Diário da República, 2.ª série, n.º 5, de 8 de Janeiro de 2009, foi publicado com inexactidão a nomeação dos candidatos:
+
+Assim onde se lê "a nomeada deverá tomar posse no prazo de 20 dias a contar da data da publicação deste aviso no Diário da República", deve ler-se "Ana Paula Silva Pinhão Alcobio Frazão Ribeiro - Técnico Superior Principal de História; José António Reis e Silva Oliveira Neves - Técnico Superior Principal - Arquitecto; Cristina Isabel Pires Queimado - Técnico Superior de 1.ª Classe - Administração Pública e Autárquica, João Paulo Condeço Garcia Matias Ferreira - Técnico Superior de 1.ª Classe - Administração Pública e Autárquica; Manuel António dos Anjos Neto Azevedo - Técnico Superior de 1.ª Classe - Desporto; João Manuel Marques das Neves - Técnico Profissional Principal de Construção Civil; João Estevens Fernandes - Operário Altamente Qualificado Principal - Mecânico. Estas nomeações produzem efeitos a 31 de Dezembro de 2008, para as quais foi reconhecida a urgente conveniência de serviço".
+
+30 de Janeiro de 2009. - O Presidente da Câmara, Sérgio Morais da Conceição Carrinho.

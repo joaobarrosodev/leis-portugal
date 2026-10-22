@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:573689:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-889403278",
+ "dre_path": "/dr/detalhe/decreto-lei/258-1990-573689",
+ "source_lastmod": "2024-09-30",
+ "versions": [
+  {
+   "date": "1990-08-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "889144364",
+    "889144365",
+    "889144366",
+    "889144367",
+    "889144368",
+    "889144369",
+    "889144370",
+    "889144371"
+   ]
+  },
+  {
+   "date": "2024-10-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:889313167:por",
+     "title": "Decreto-Lei n.º 62/2024",
+     "published": "2024-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/62-2024-889313167"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "889144364",
+    "889144365",
+    "889144366",
+    "889432881",
+    "889432882",
+    "889144369",
+    "889144370",
+    "889144371",
+    "889144372"
+   ]
+  }
+ ],
+ "fragments": {
+  "889144364": {
+   "fragment_id": "889403279",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 258/90\n\nde 16 de Agosto\n\nO desenvolvimento tecnológico nos diversos sectores de actividade profissional tem vindo a confrontar a Humanidade com a exigência de qualidades e capacidades específicas para o desempenho de tarefas cada vez mais complexas, que muitas vezes põem em risco a sua estabilidade psíquica e a sua segurança física.\n\nA actividade aérea exercida pelo pessoal militar navegante enquadra-se nesses sectores de actividade, pois que para o cumprimento da sua missão específica, sujeita a grande esforço e penosidade, lhe é exigido um conjunto de capacidades pouco comuns no âmbito da resistência física e psíquica.\n\nContrariamente ao que se verifica noutros sectores de actividade das forças armadas, a constante evolução tecnológica das aeronaves tende a aumentar a exigência de maior capacidade de adaptação e o esforço das tripulações. Com efeito, o pessoal militar navegante está cada vez mais sujeito às agressões inerentes a violentas descompressões, acelerações e ruídos, factores que provocam, para além de um processo de desgaste contínuo, um envelhecimento focal sistemático.\n\nFoi ouvido o Conselho de Chefes de Estado-Maior, nos termos dos artigos 50.º e 51.º da Lei de Defesa Nacional e das Forças Armadas (Lei n.º 29/82, de 11 de Dezembro).\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido conjugadamente pelos Decretos-Leis n.os 184/89, de 2 de Junho, e 57/90, de 14 de Fevereiro, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "889144365": {
+   "fragment_id": "889403280",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado o suplemento de serviço aéreo."
+  },
+  "889144366": {
+   "fragment_id": "889403281",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO suplemento de serviço aéreo é abonado ao pessoal militar considerado navegante, nos termos da lei, bem como ao pessoal navegante em preparação com destino aos quadros permanentes e ao pessoal que frequenta cursos de formação de pilotagem ou navegação com destino a pessoal não permanente."
+  },
+  "889144367": {
+   "fragment_id": "889403282",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO abono do suplemento de serviço aéreo tem lugar quando se verifiquem as condições estabelecidas para o efeito na legislação especial reguladora de prestação daquele serviço."
+  },
+  "889144368": {
+   "fragment_id": "889403283",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO montante mensal do suplemento de serviço aéreo é fixado por portaria conjunta dos Ministros da Defesa Nacional e das Finanças, percentualmente ao escalão 1 da remuneração base de capitão, arredondado para a centena de escudos imediatamente superior."
+  },
+  "889144369": {
+   "fragment_id": "889403284",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Para efeitos de remuneração na reserva e pensão de reforma, o suplemento de serviço aéreo tem características de remuneração principal, nos termos da alínea a) do n.º 1 do artigo 47.º do Estatuto da Aposentação.\n\n2 - Para efeitos de cálculo da remuneração da reserva e da pensão de reforma, o percentual do suplemento de serviço aéreo a considerar é o do último posto em que este serviço foi desempenhado, não podendo o valor da parcela referente ao cálculo do abono deste suplemento ser superior ao valor do suplemento de serviço aéreo percebido por um general ou vice-almirante no activo."
+  },
+  "889144370": {
+   "fragment_id": "889403285",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nSão revogados os artigos 4.º e 5.º do Decreto-Lei n.º 253-A/79, de 27 de Julho."
+  },
+  "889144371": {
+   "fragment_id": "889403286",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO disposto no presente diploma produz efeitos a partir de 1 de Julho de 1990, data a partir da qual, independentemente da entrada em vigor da portaria referida no artigo 4.º, é conferido o direito ao abono do suplemento de serviço aéreo."
+  },
+  "889432881": {
+   "fragment_id": "889403282",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 292/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1999-345118), produz efeitos a partir de 1999-01-01"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - O abono do suplemento de serviço aéreo tem lugar quando se verifiquem as condições estabelecidas para o efeito na legislação especial reguladora daquele serviço.\n\n2 - O pessoal navegante permanente dos quadros permanentes da Força Aérea que, por força de doença adquirida ou agravada em serviço, deixe de possuir aptidão para o desempenho de serviço aéreo e se mantenha no respectivo quadro especial passa a ser abonado do suplemento de serviço aéreo correspondente ao que perceberia se, à data da verificação dessa inaptidão, tivesse transitado para a situação de reserva.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 292/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/292-1999-345118), produz efeitos a partir de 1999-01-01"
+  },
+  "889432882": {
+   "fragment_id": "889403283",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2024-10-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05"
+   ],
+   "markdown": "###### Artigo 4.º\n\nO montante mensal do suplemento de serviço aéreo é fixado por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da defesa nacional, percentualmente à posição remuneratória 1 da remuneração base de Tenente-Coronel, arredondado para a centena de euros imediatamente superior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2024 - Diário da República n.º 189/2024, Série I de 2024-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2024-889313167), em vigor a partir de 2024-10-05"
+  },
+  "889144372": {
+   "fragment_id": "889403287",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Julho de 1990. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza.\n\nPromulgado em 31 de Julho de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Agosto de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

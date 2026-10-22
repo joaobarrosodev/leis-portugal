@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:518593:por
+title: Portaria n.º 19014
+short_title: null
+summary: Manda pôr em vigor nas províncias ultramarinas, para nas mesmas ter execução, observadas as alterações constantes
+  da presente portaria, o Decreto-Lei n.º 31674 (saneamento das povoações)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Gabinete do Ministro
+proposing_entity: null
+official_number: '19014'
+official_date: null
+publication_date: '1962-02-07'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 27/1962, Série I de 1962-02-07
+  number: '27'
+  series: I
+  supplement: null
+  pages: 107 - 108
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/02/02700/01070108.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '518593'
+  dre_path: /dr/detalhe/portaria/19014-1962-518593
+  internal: pt:dre:518593:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19014-1962-518593
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19014-1962-518593
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1962-02-07T00:00:00Z'
+integrity:
+  source_sha256: a4e1f31686d90d83e68dbc37c9bafd9c7676b0115e2b2b32ce5968d21559b65b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-19014-518593.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19014
+
+Considerando a vantagem, já demonstrada pela experiência metropolitana, de uniformizar os princípios a que deve obedecer o saneamento das povoações;
+
+Reconhecido que essa uniformização facilitará a resolução de problemas pendentes há muito, e que afectam o normal desenvolvimento dos aglomerados urbanos;
+
+Visto o proposto pelo Governo-Geral de Moçambique:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, nos termos do n.º III da base LXXXVIII da [Lei n.º 2066](https://diariodarepublica.pt/dr/detalhe/lei/2066-1953-640659), de 27 de Junho de 1953, que seja posto em vigor em todas as províncias ultramarinas e nelas tenha execução o [Decreto-Lei n.º 31674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31674-1941-321327), de 22 de Novembro de 1941, com observância do seguinte:
+
+I) As referências ao Governo e aos Ministros são entendidas como feitas ao governador-geral ou de província;
+
+II) A referência à Direcção-Geral dos Serviços Hidráulicos e Eléctricos será entendida como feita aos serviços de obras públicas da respectiva província;
+
+III) Ao artigo 24.º é acrescentado um § único, com a seguinte redacção:
+
+§ único. Compete aos órgãos legislativos de cada província regulamentar o disposto neste diploma.
+
+Ministério do Ultramar, 7 de Fevereiro de 1962. - O Ministro do Ultramar, Adriano José Alves Moreira.
+
+Para ser publicada no Boletim Oficial de todas as províncias ultramarinas. - A. Moreira.

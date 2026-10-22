@@ -1,0 +1,712 @@
+---
+schema_version: '1.0'
+id: pt:dre:491927:por
+title: Decreto Legislativo Regional n.º 17/2009/M
+short_title: null
+summary: Cria o Serviço Regional de Protecção Civil, IP-RAM e aprova a respectiva orgânica
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 17/2009/M
+official_date: null
+publication_date: '2009-06-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/2009, Série I de 2009-06-30
+  number: '124'
+  series: I
+  supplement: null
+  pages: 4227 - 4232
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/12400/0422704232.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-07-30'
+version_history:
+  file: decreto-legislativo-regional-17-2009-m.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-05-27'
+    amending: pt:dre:332706:por
+    amending_title: Decreto Legislativo Regional n.º 8/2010/M
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+  - date: '2013-03-26'
+    amending: pt:dre:259386:por
+    amending_title: Decreto Legislativo Regional n.º 12/2013/M
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+  - date: '2022-08-02'
+    amending: pt:dre:186869052:por
+    amending_title: Decreto Legislativo Regional n.º 17/2022/M
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 21.º
+  - date: '2024-07-30'
+    amending: pt:dre:873755644:por
+    amending_title: Decreto Legislativo Regional n.º 6/2024/M
+    changes:
+    - Altera Artigo 18.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/17/2009/m/cons/20240729/pt/html
+  oj: null
+  dre: '491927'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/17-2009-491927
+  internal: pt:dre:491927:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2009-491927
+  metadata_url: https://data.dre.pt/eli/declegreg/17/2009/m/cons/20240729/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-129073182
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-129073182
+  retrieved_at: '2026-10-22T12:30:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c209855ea23f04739290904f549f66e6dd821722402304b903a903e15937e754
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:30:37Z'
+  notes: 5 versão(ões); histórico completo em decreto-legislativo-regional-17-2009-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proteção Civil
+- Médico
+- Fiscal Único
+- Centro de Coordenação Operacional
+- Coordenador
+- Criação de Serviços
+- Definição de Competências
+- Extinção de Serviços
+- Federação de Bombeiros
+- Inspector Regional
+- Conselho Consultivo
+- Instituto Público
+- Integração de Trabalhadores
+- Serviço Regional de Protecção Civil e Bombeiros da Madeira
+- Orgânica
+- Pessoal de Enfermagem
+- Presidente
+- Madeira.região Autónoma
+- Serviço Regional de Protecção Civil
+- Inspecção Regional de Bombeiros
+- Vice-presidente
+relationships:
+- type: amended_by
+  target: pt:dre:332706:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2010-332706
+  date: '2010-05-26'
+- type: amended_by
+  target: pt:dre:259386:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386
+  date: '2013-03-25'
+- type: amended_by
+  target: pt:dre:186869052:por
+  label: Adita Artigo 6.º-A; Altera Artigo 6.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo
+    14.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186869052
+  date: '2022-08-01'
+- type: amended_by
+  target: pt:dre:873755644:por
+  label: Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644
+  date: '2024-07-29'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dr
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dr
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/7/2006/03/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/7/2006/03/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/7/2007/11/08/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/7/2007/11/08/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/51/2005/08/30/p/dre
+article_structure:
+  article_count: 27
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:30:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 17/2009/M
+
+Decreto Legislativo Regional n.º 17/2009/M
+
+Cria o Serviço Regional de Protecção Civil, IP-RAM e aprova a respectiva orgânica
+
+A orgânica do Serviço Regional de Protecção Civil e Bombeiros da Madeira, actualmente em vigor, foi objecto de aprovação recente, através do Decreto Legislativo Regional n.º 7/2006/M, de 30 de Março, contudo, torna-se necessário proceder à sua conformação com o preceituado no Decreto Legislativo Regional n.º 17/2007/M, de 12 de Novembro, que aplica à Região o regime jurídico dos serviços integrados na administração indirecta.
+
+Assim, e avançando na definição dos modelos organizacionais dos serviços que integram a estrutura orgânica da Secretaria Regional dos Assuntos Sociais, importa plasmar em diploma, com a natureza formal constitucionalmente exigida, a criação do Serviço Regional de Protecção Civil, IP-RAM, bem como a sua estrutura orgânica.
+
+Sucede, também, que se encontra em fase de elaboração o diploma que cria o regime jurídico do Sistema de Protecção Civil da Região Autónoma da Madeira, alargando-se assim o elenco de atribuições e competências do SRPC, IP-RAM, resultando, por isso, na necessidade do seu presidente passar a ser coadjuvado por dois vice-presidentes.
+
+Aproveitou-se o ensejo para retirar a inerência de funções do cargo de Director do SRPCBM no cargo de inspector-regional de Bombeiros, com o escopo de clarificar as funções atribuídas a cada um destes órgãos.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa e na alínea i) do n.º 1 do artigo 37.º, na alínea qq) do artigo 40.º e n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, alterado pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, no n.º 2 do artigo 29.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de Novembro, e na alínea c) do n.º 3 e do n.º 4 do artigo 4.º do Decreto Regulamentar Regional n.º 7/2007/M, de 8 de Novembro, o seguinte:
+
+###### Artigo 1.º — Criação
+
+O presente decreto legislativo regional cria o Serviço Regional de Protecção Civil, IP-RAM, abreviadamente designado por SRPC, IP-RAM e aprova a respectiva orgânica, em anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 2.º — Extinção e referências legais
+
+1 - É extinto o Serviço Regional de Protecção Civil e Bombeiros da Madeira, sucedendo-lhe o SRPC, IP-RAM, em todos os seus direitos e obrigações.
+
+2 - As referências legais e regulamentares feitas ao Serviço Regional de Protecção Civil e Bombeiros da Madeira consideram-se feitas ao SRPC, IP-RAM.
+
+###### Artigo 3.º — Transição de pessoal
+
+O pessoal do quadro do Serviço Regional de Protecção Civil e Bombeiros da Madeira transita para o SRPC, IP-RAM, sendo integrado no respectivo mapa de pessoal, nos termos da lei.
+
+###### Artigo 4.º — Norma revogatória
+
+1 - É revogado o Decreto Legislativo Regional n.º 7/2006/M, de 30 de Março.
+
+2 - Sem prejuízo do disposto no número anterior, o quadro de pessoal, bem como a organização interna do Serviço Regional de Protecção Civil e Bombeiros da Madeira, mantém-se em vigor até à publicação da portaria conjunta do Vice-Presidente do Governo Regional e dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, que aprova os estatutos do SRPC, IP-RAM.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente diploma entra em vigor sete dias após a data da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Maio de 2009.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 22 de Junho de 2009.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.
+
+## Anexo — Orgânica do Serviço Regional de Protecção Civil, IP-RAM
+
+###### Artigo 1.º — Natureza
+
+1 - O Serviço Regional de Protecção Civil, IP-RAM, abreviadamente designado por SRPC, IP-RAM, é um instituto público integrado na administração indirecta da Região, dotado de autonomia administrativa, financeira e patrimonial.
+
+2 - O SRPC, IP-RAM prossegue atribuições da Secretaria Regional dos Assuntos Sociais, sob superintendência e tutela do respectivo Secretário Regional.
+
+3 - O SRPC, IP-RAM rege-se pelo disposto no presente diploma e pelas normas aplicáveis do regime jurídico dos institutos públicos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+###### Artigo 2.º — Jurisdição e sede
+
+O SRPC, IP-RAM é um organismo com jurisdição sobre todo o território da Região Autónoma da Madeira e tem sede no Funchal.
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - O SRPC, IP-RAM tem por missão prevenir os riscos inerentes a situações de acidente grave ou catástrofe, bem como resolver os efeitos decorrentes de tais situações, socorrendo pessoas e protegendo bens.
+
+2 - São ainda atribuições genéricas do SRPC, IP-RAM orientar, coordenar e fiscalizar as actividades exercidas pelos corpos de bombeiros, bem como todas as actividades de protecção civil e socorro.
+
+3 - Compete em especial ao SRPC, IP-RAM:
+
+a) Definir modelos, conceitos, procedimentos, uniformizar critérios e assegurar a realização de ações de formação e qualificação profissional e de índole organizacional, quer no âmbito teórico quer de caráter operacional, adequadas à prossecução das respetivas atribuições;
+
+b) Zelar pelo cumprimento das leis e regulamentos aplicáveis aos corpos de bombeiros e prestar-lhes o apoio necessário ao desenvolvimento das respectivas actividades;
+
+c) Estabelecer e desenvolver a cooperação com as estruturas, serviços e organizações nacionais e internacionais no âmbito do socorro, emergência e protecção civil;
+
+d) Proceder à elaboração do Plano Regional de Emergência de Protecção Civil da RAM;
+
+e) Decidir sobre a oportunidade, tipo e extensão da intervenção de qualquer agente de protecção civil em caso de iminência, ou ocorrência de incidente ou acidente que motive a sua acção, constituindo-se como entidade coordenadora da acção de protecção civil e socorro na RAM;
+
+f) Organizar um sistema regional de aviso e alerta que integre os diversos serviços especializados e assegure a informação necessária à população;
+
+g) Emitir parecer sobre projetos de natureza legislativa ou regulamentar que visem questões de socorro, emergência e proteção civil e propor medidas de idêntica natureza sobre as mesmas matérias;
+
+h) Instruir e submeter a homologação do membro do Governo Regional que tutela o SRPC, IP-RAM a criação de novos corpos de bombeiros voluntários, mistos e privativos e respetiva estrutura organizativa, promovendo e incentivando todas as formas de apoio à respetiva missão;
+
+i) Promover, em coordenação com entidades tecnicamente credenciadas, o levantamento, previsão e avaliação dos riscos colectivos de origem natural ou tecnológica;
+
+j) Assegurar o cumprimento da legislação em vigor sobre o regime jurídico de segurança contra incêndios em edifícios e recintos da Região, nos termos da lei;
+
+k) Desenvolver acções pedagógicas e informativas de sensibilização das populações, visando a protecção e o fomento da solidariedade;
+
+l) Promover o estudo, normalização e aplicação de técnicas adequadas de prevenção e socorro;
+
+m) Fomentar o espírito de voluntariado com vista à participação das populações na prevenção e combate a incêndios, bem como noutras formas de socorro;
+
+n) Colaborar com outros organismos e entidades em matérias relacionadas com a protecção civil, designadamente quanto ao funcionamento eficaz e coordenado, a nível regional, do número europeu de emergência (112);
+
+o) Apoiar técnica e financeiramente as associações humanitárias de bombeiros e outras instituições que mantenham corpos de intervenção operacional na área do socorro e emergência, devidamente homologados e que, nos termos da lei, sejam considerados agentes de proteção civil ou com estes especialmente cooperem;
+
+p) Coordenar as acções de socorro, busca e salvamento marítimos, em articulação com a autoridade marítima, no âmbito do sistema de busca e salvamento marítimo, sem prejuízo das competências atribuídas a esta autoridade;
+
+q) Exercer as demais atribuições previstas na lei ou em regulamento.
+
+4 - São atribuições do SRPC, IP-RAM no âmbito da emergência médica pré-hospitalar:
+
+a) Definir, organizar, coordenar, avaliar e fiscalizar as actividades de socorro de emergência pré-hospitalar, nas suas vertentes medicalizada e não medicalizada;
+
+b) Assegurar o acompanhamento e aconselhamento das chamadas com pedidos de socorro de emergência médica;
+
+c) Coordenar o accionamento dos meios de socorro apropriados no âmbito da emergência pré-hospitalar;
+
+d) Assegurar a prestação do socorro medicalizado de emergência pré-hospitalar e orientar e coordenar a prestação do socorro não medicalizado concomitante;
+
+e) Promover e coordenar a formação a todo o pessoal indispensável às acções de emergência médica pré-hospitalar;
+
+f) Promover e coordenar a articulação do socorro de emergência pré-hospitalar com os serviços de urgência;
+
+g) Assegurar, quando solicitado, o acompanhamento no transporte de doentes críticos de e para fora da Região;
+
+h) Orientar a actuação coordenada dos agentes de saúde nas situações de acidente grave ou catástrofe;
+
+i) Desenvolver acções de sensibilização e informação aos cidadãos no que respeita ao socorro em geral e em especial à emergência pré-hospitalar;
+
+j) Exercer as atribuições que a lei lhe confere no domínio da actividade de transporte de doentes, designadamente no âmbito do licenciamento e fiscalização.
+
+5 - Enquanto autoridade técnica regional, são ainda atribuições do SRPC, IP-RAM:
+
+a) Inspecionar, fiscalizar e avaliar os serviços, meios e recursos de proteção civil dos corpos de bombeiros, da coluna de socorro da Delegação da Madeira da Cruz Vermelha Portuguesa e do Corpo Operacional do Sanas Madeira;
+
+b) Promover, ao nível regional, a elaboração de estudos e planos de emergência especiais;
+
+c) Emitir parecer sobre os planos de emergência de âmbito municipal;
+
+d) Fomentar e apoiar actividades em todos os domínios em que se desenvolve a protecção civil, nomeadamente facultando apoio técnico ou financeiro compatível com as suas disponibilidades, no âmbito do respectivo plano anual de actividades;
+
+e) Assegurar a realização de ações de formação e de aperfeiçoamento operacional com vista à melhoria contínua de conhecimentos técnicos do pessoal dos corpos de bombeiros, da coluna de socorro da Delegação da Madeira da Cruz Vermelha Portuguesa e do Corpo Operacional do Sanas Madeira;
+
+f) Exercer a acção tutelar sobre os corpos de bombeiros, nomeadamente definindo o dispositivo e as respectivas áreas de intervenção e zelando pela observância das leis e regulamentos em vigor;
+
+g) Promover e incentivar todas as formas de auxílio ao cabal exercício da missão dos corpos de bombeiros e demais organizações que, na área do socorro e da emergência, integram o Dispositivo de Resposta Operacional da RAM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+###### Artigo 4.º — Articulação dos serviços de protecção civil
+
+1 - A estrutura de protecção civil regional compreende o SRPC, IP-RAM e os Serviços Municipais de Protecção Civil.
+
+2 - Aos serviços municipais de protecção civil incumbe, na respectiva área territorial de responsabilidade, o cumprimento dos objectivos e o desenvolvimento das acções de informação, planeamento, coordenação e controlo, de acordo com o artigo 4.º da Lei n.º 27/2006, de 3 Julho, que aprova a Lei de Bases de Protecção Civil e pelo instituído no regime jurídico do Sistema de Protecção Civil da Região Autónoma da Madeira.
+
+3 - O SRPC, IP-RAM articula a sua actividade com a Autoridade Nacional de Protecção Civil, com os Serviços Municipais de Protecção Civil e com todos os intervenientes na cadeia de socorro e de protecção civil.
+
+###### Artigo 5.º — Órgãos
+
+São órgãos do SRPC, IP-RAM:
+
+a) O conselho diretivo;
+
+b) (Revogada).
+
+c) O fiscal único;
+
+d) A Inspecção Regional de Bombeiros;
+
+e) O conselho consultivo;
+
+f) O Centro de Coordenação Operacional Regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2010/M - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2010-332706), em vigor a partir de 2010-05-27
+
+###### Artigo 6.º — Conselho diretivo
+
+1 - O conselho diretivo do Serviço Regional de Proteção Civil, IP-RAM, é composto por um presidente, coadjuvado por dois vogais, nos termos do artigo 19.º da Lei n.º 3/2004, de 15 de janeiro, na sua redação atual, equiparados para todos os efeitos legais a diretor e subdiretores regionais, cargos de direção superior de 1.º e 2.º grau, respetivamente, a designar por despacho conjunto do Presidente do Governo Regional e do Secretário Regional de Saúde e Proteção Civil, nos termos da alínea a) do n.º 1 do artigo 5.º do Decreto Legislativo Regional n.º 5/2004/M, de 22 de abril, alterado pelos Decretos Legislativos Regionais n.os 27/2006/M, de 14 de julho, e 27/2016/M, de 6 de julho.
+
+2 - Sem prejuízo das competências que lhe forem cometidas por lei, compete ainda ao conselho diretivo, no âmbito da orientação e gestão do Instituto:
+
+a) Homologar a nomeação dos comandantes, segundos-comandantes e adjuntos de comando dos corpos de bombeiros voluntários, mistos e privativos;
+
+b) Aprovar o plano anual de apoio às associações humanitárias de bombeiros e outras entidades detentoras de corpos de intervenção operacional na área do socorro e da emergência que integram o dispositivo de resposta operacional na RAM, dentro dos limites do orçamento do SRPC, IP-RAM;
+
+c) Emitir parecer obrigatório sobre os pedidos de isenção de impostos e taxas.
+
+3 - Compete ao presidente do conselho diretivo do SRPC, IP-RAM, exercer as competências previstas na lei para os presidentes dos conselhos diretivos, designadamente:
+
+a) Presidir às reuniões;
+
+b) Orientar os trabalhos;
+
+c) Garantir a execução das respetivas deliberações;
+
+d) Assegurar as relações com os órgãos da tutela e com os demais organismos públicos e em especial, exercer a autoridade de proteção civil, nos termos da lei.
+
+4 - O presidente é substituído nas suas faltas e impedimentos por um dos vogais por si designado.
+
+5 - Os vogais exercem as competências que lhes forem delegadas ou subdelegadas pelo presidente.
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - (Revogado.)
+
+9 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/M - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186869052), em vigor a partir de 2022-08-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2010/M - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2010-332706), em vigor a partir de 2010-05-27
+
+###### Artigo 6.º-A — Casa de função
+
+Aos membros do conselho diretivo do Serviço Regional de Proteção Civil, IP-RAM, que não sejam residentes no território da ilha da Madeira, poderá ser atribuída, por virtude do exercício das suas funções, uma casa de função nos termos da legislação em vigor.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 17/2022/M - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186869052), em vigor a partir de 2022-08-02
+
+###### Artigo 7.º — Fiscal único
+
+O fiscal único é o único órgão responsável pelo controlo da legalidade, da regularidade e boa gestão financeira e patrimonial do SRPC, IP-RAM, sendo designado por despacho dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, nos termos da Lei nº 3/2004, de 15 de janeiro, alterada e republicada pelo Decreto-Lei nº 5/2012, de 17 de janeiro e alterada pelo Decreto-Lei nº 123/2012, de 20 de junho.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+###### Artigo 8.º — Inspecção Regional de Bombeiros
+
+1 - A Inspeção Regional de Bombeiros é o órgão do SRPC, IP-RAM, ao qual compete coordenar, acompanhar e fiscalizar, a nível regional, a atividade dos corpos de bombeiros no domínio da proteção civil e do socorro, nomeadamente:
+
+a) Planear e programar as atividades inspetivas aos corpos de bombeiros;
+
+b) Propor ao Departamento de Formação do Centro de Formação de Proteção Civil e Bombeiros, as ações de formação e treino inerentes à qualificação profissional dos corpos de bombeiros, na área do combate a incêndios, salvamento e desencarceramento, no socorro e resgate em montanha e canyoning, na emergência pré-hospitalar e outras que venham a entender-se serem necessárias ao cabal cumprimento das missões dos corpos de bombeiros;
+
+c) Exercer as funções de fiscalização no âmbito das suas competências;
+
+d) Propor a adoção de regulamentação específica para a atividade dos corpos de bombeiros, quer de índole administrativa quer operacional;
+
+e) Inspecionar a capacidade e prontidão dos corpos de bombeiros face às obrigações que por lei ou regulamentos lhes estão cometidas, elaborando os supervenientes relatórios;
+
+f) Promover a organização do recenseamento dos bombeiros da Região, de forma a integrarem o Recenseamento Nacional dos Bombeiros Portugueses, de acordo com o regulado pelo Decreto-Lei nº 49/2008, de 14 de março;
+
+g) Manter a articulação com os serviços de Recenseamento Nacional dos Bombeiros Portugueses, tendo em vista a permanente atualização dos ficheiros relativos aos bombeiros da Região na base de dados nacional;
+
+h) Verificar a correta implementação dos programas de formação e treino dos bombeiros;
+
+i) Propor, com as necessárias adaptações, ao Departamento de Formação do Centro de Formação de Proteção Civil e Bombeiros, a certificação e aplicação aos bombeiros da Região, dos conteúdos programáticos dos Cursos de Promoção da Carreira de Bombeiros, elaborados pela Escola Nacional de Bombeiros;
+
+j) Desenvolver programas visando a prevenção sanitária, higiene e segurança do pessoal dos corpos de bombeiros;
+
+k) Elaborar estudos e apresentar propostas relativas à necessidade e adequação de recursos com vista prossecução das atividades de socorro e emergência dos corpos de bombeiros;
+
+l) Garantir uma base de dados passível de ser utilizada na gestão dos corpos de bombeiros, no que diz respeito aos seus recursos humanos e materiais.
+
+2 - A Inspecção Regional de Bombeiros é dirigida pelo inspector regional de bombeiros, abreviadamente designado por IRB, cargo de direcção intermédia de 1.º grau.
+
+3 - Compete em especial ao inspector regional de Bombeiros:
+
+a) Dar parecer sobre propostas de criação de novos corpos de bombeiros voluntários, mistos e privativos e suas secções;
+
+b) Propor a fixação e delimitação das áreas de actuação própria dos corpos de bombeiros, de forma a ser integrada em directiva operacional;
+
+c) Elaborar relatórios sobre o estado de conservação do material e do parque de viaturas dos corpos de bombeiros afectos ao dispositivo de socorro e emergência da Região Autónoma da Madeira;
+
+d) Velar pelo cumprimento das leis e regulamentos aplicáveis aos corpos de bombeiros e estruturas de protecção civil;
+
+e) Proceder à avaliação do mérito dos comandantes dos corpos de bombeiros voluntários, mistos e privativos, segundo os critérios definidos na lei;
+
+f) Exercer a acção inspectiva sobre os corpos de bombeiros relativamente à instrução, equipamento, fardamento e funcionamento operacional;
+
+g) Promover a investigação de acidentes, com vista à determinação das respectivas causas;
+
+h) Proceder à inspecção da actividade dos corpos de bombeiros no âmbito do socorro de emergência pré-hospitalar, designadamente do cumprimento das normas e da coordenação operacional emanada do Serviço de Emergência Médica Regional e determinar as medidas disciplinares adequadas;
+
+i) Homologar os regulamentos internos dos corpos de bombeiros;
+
+j) Aprovar as normas a que devem obedecer o equipamento e o material dos corpos de bombeiros, com vista à normalização técnica da respectiva actividade;
+
+k) Desempenhar as funções que por lei, regulamento, delegação ou subdelegação lhe sejam cometidas;
+
+l) Propor os recursos adequados à prossecução das actividades de socorro e emergência dos corpos de bombeiros.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2010/M - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2010-332706), em vigor a partir de 2010-05-27
+
+###### Artigo 9.º — Poderes de autoridade
+
+1 - O IRB, quando no exercício de funções de inspecção e fiscalização, goza dos seguintes poderes de autoridade:
+
+a) Livre acesso e circulação em todos os serviços, instalações ou locais onde se desenvolvam actividades abrangidas pelas suas competências;
+
+b) Requisitar às entidades administrativas e policiais a colaboração que se mostre necessária ao exercício das suas funções;
+
+c) Examinar livros, documentos e arquivos relativos às matérias inspeccionadas;
+
+d) Requisição para exame ou junção aos autos de documentos ou outras peças, existentes nos serviços, instalações ou locais inspeccionados, bem como a reprodução de documentos;
+
+e) Entrada livre e circulação nos estabelecimentos e locais pertencentes ao sector público, privado ou cooperativo, onde se desenvolvam actividades abrangidas pelas suas competências.
+
+2 - O IRB é identificado mediante a apresentação de cartão próprio, de modelo a aprovar por despacho do Secretário Regional dos Assuntos Sociais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2010/M - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2010-332706), em vigor a partir de 2010-05-27
+
+###### Artigo 10.º — Conselho consultivo
+
+1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de atuação do SRPC, IP-RAM e nas tomadas de decisão do conselho diretivo.
+
+2 - O conselho consultivo exerce as competências previstas no artigo 31º da Lei nº 3/2004, de 15 de janeiro, alterada e republicada pelo Decreto-Lei nº 5/2012, de 17 de janeiro e alterada pelo Decreto-lei nº 123/2012, de 20 de junho e o seu funcionamento decorre de acordo com o artigo 32º do mesmo diploma.
+
+3 - Integram o conselho consultivo:
+
+a) O presidente do conselho diretivo do SRPC, IP-RAM, que preside;
+
+b) Os vogais do SRPC, IP-RAM;
+
+c) O inspector regional de Bombeiros;
+
+d) Um representante da secretaria regional da tutela;
+
+e) O presidente do conselho de administração do Serviço de Saúde da Região Autónoma da Madeira, E. P. E., ou um seu representante;
+
+f) O presidente do conselho diretivo do Instituto de Administração da Saúde e Assuntos Sociais, IP-RAM ou um seu representante;
+
+g) O presidente do conselho diretivo do Instituto de Segurança Social da Madeira, IP-RAM ou um seu representante;
+
+h) Os presidentes das câmaras municipais da Região que integrem corpos de bombeiros municipais, ou um seu representante;
+
+i) O presidente da direcção de cada uma das associações de bombeiros voluntários da Região ou um seu representante;
+
+j) O Diretor Regional de Florestas e Conservação da Natureza ou um seu representante;
+
+k) O presidente da Federação de Bombeiros da Região Autónoma da Madeira ou um seu representante;
+
+l) O presidente da Delegação da Madeira da Cruz Vermelha Portuguesa;
+
+m) O coordenador do Serviço de Emergência Médica Regional;
+
+n) O presidente do Conselho de Administração dos Portos da Região Autónoma da Madeira, denominada de APRAM, S. A.;
+
+o) O presidente da Comissão Directiva dos Aeroportos da Madeira;
+
+p) O Presidente da Direcção do Sanas Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/M - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186869052), em vigor a partir de 2022-08-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 8/2010/M - Diário da República n.º 102/2010, Série I de 2010-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2010-332706), em vigor a partir de 2010-05-27
+
+###### Artigo 11.º — Centro de Coordenação Operacional Regional
+
+1 - O Centro de Coordenação Operacional Regional, abreviadamente designado por CCOR, é o órgão de nível superior do SRPC, IP-RAM, a quem compete apoiar o membro do Governo Regional com a tutela da Protecção Civil, aquando da iminência ou ocorrência de acidente grave ou catástrofe e desencadear as inerentes acções de protecção civil adequadas em cada caso.
+
+2 - A constituição e as atribuições do CCOR serão definidas no diploma que aprova o Regime Jurídico do Sistema Regional de Protecção Civil da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+###### Artigo 12.º — Serviço de Emergência Médica Regional
+
+1 - O Serviço de Emergência Médica Regional, abreviadamente designado por SEMER, é dotado de autonomia e independência técnicas, e é dirigido por um coordenador, nomeado por despacho do Secretário Regional de Saúde e Proteção Civil, por um período de três anos, renovável, de entre os médicos em exercício de funções na Equipa Medicalizada de Intervenção Rápida, abreviadamente designada por EMIR, com um mínimo de três anos de experiência em emergência médica hospitalar, com categoria igual ou superior a assistente graduado da carreira médica hospitalar e com competência ou subespecialidade em emergência reconhecida pela Ordem dos Médicos.
+
+2 - A constituição e as atribuições do CCOR são as que se encontram definidas no Decreto Legislativo Regional nº 16/2009/M, de 30 de junho, que aprova o regime jurídico do sistema regional de proteção civil da Região Autónoma da Madeira.
+
+3 - O coordenador do SEMER será coadjuvado por um enfermeiro, em exercício de funções na EMIR, designado, sob sua proposta, pelo presidente do SRPC, IP-RAM, por um período de três anos, renovável, para o efeito do exercício de competências relativas à gestão do pessoal de enfermagem, equipamentos e meios técnicos.
+
+4 - A remuneração do coordenador do SEMER e do enfermeiro que o coadjuva nos termos do n.º 3 será estabelecida por despacho conjunto dos Secretários Regionais das Finanças e de Saúde e Proteção Civil.
+
+5 - As normas de funcionamento do SEMER serão objeto de um regulamento interno, de natureza estritamente técnica, a aprovar por despacho do presidente do conselho diretivo do SRPC, IP-RAM, sob proposta do coordenador do SEMER e homologado pelo membro do Governo Regional com a tutela da proteção civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/M - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186869052), em vigor a partir de 2022-08-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+###### Artigo 13.º — Pessoal do SEMER
+
+1 - Os médicos e enfermeiros do SEMER serão recrutados, de entre pessoal em exercício de funções no Serviço de Saúde da Região Autónoma da Madeira, E. P. E., em regime de acumulação, nos termos da lei, mediante processo de selecção com publicidade adequada.
+
+2 - Quando se repute conveniente, o pessoal médico e de enfermagem do SEMER poderá ser recrutado a tempo inteiro, em regime de cedência de interesse público, ou outro instrumento de mobilidade em vigor, pelo período máximo de um ano, de entre pessoal em exercício de funções no Serviço de Saúde da Região Autónoma da Madeira, EPERAM, ou em instituições do Serviço Nacional de Saúde, possuidores dos requisitos constantes dos n.os 4, 5 e 6 do presente artigo.
+
+3 - Sem prejuízo do disposto nos números anteriores e em casos devidamente fundamentados, poderão ser recrutados para o exercício de funções na EMIR médicos e enfermeiros, sem qualquer vínculo às instituições e serviços do Serviço de Saúde da Região Autónoma da Madeira, EPERAM, em regime de contrato de prestação de serviços, nos termos da lei.
+
+4 - O pessoal médico e de enfermagem do SEMER será recrutado de entre indivíduos possuidores de aprovação obrigatória em cursos específicos na área da emergência médica, certificados pelas entidades oficiais competentes.
+
+5 - São condições preferenciais de selecção:
+
+a) Titularidade de competência, valência ou subespecialidade em emergência, certificados pelas respectivas ordens profissionais;
+
+b) Experiência de trabalho em serviços de urgência ou emergência;
+
+c) Perfil físico e psicológico para o exercício da função.
+
+6 - Para efeitos dos números anteriores, são consideradas especialidades médicas preferenciais, designadamente as de medicina interna, medicina intensiva, cirurgia, anestesiologia e cardiologia.
+
+7 - Após a seleção a que se refere o nº 1, o pessoal a recrutar para a EMIR será sujeito a um estágio obrigatório e eliminatório, em serviços e viaturas do SEMER, cujo regulamento será aprovado por despacho do presidente do conselho diretivo do SRPC, IP-RAM, sob proposta do coordenador do SEMER.
+
+8 - O disposto no número anterior é igualmente aplicável às situações a que se referem os n.os 2 e 3, dando-se por finda a requisição, ou rescindindo-se o contrato, respectivamente, caso o candidato seja eliminado.
+
+9 - O exercício de funções em acumulação no SEMER a que se refere o n.º 1 será feito por um período de três anos, renovável por iguais e sucessivos períodos, se não for dado por findo, mediante comunicação do SRPC, IP-RAM, com a antecedência de 60 dias sobre o fim do prazo ou das suas renovações.
+
+10 - O exercício de funções no SEMER é considerado compatível com o regime de trabalho de dedicação exclusiva do pessoal das carreiras médicas, para efeitos do artigo 9.º do Decreto-Lei n.º 73/90, de 6 de Março.
+
+11 - As remunerações do pessoal médico e de enfermagem, em regime de acumulação, serão objeto de um valor hora, a definir por despacho conjunto dos Secretários Regionais das Finanças e de Saúde e Proteção Civil, mediante proposta do presidente do conselho diretivo do SRPC, IP-RAM.
+
+12 - O pessoal do SEMER pode renunciar unilateralmente ao exercício de funções, mediante aviso prévio escrito, dirigido ao coordenador do SEMER, com a antecedência mínima de 60 dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/M - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186869052), em vigor a partir de 2022-08-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+###### Artigo 14.º — Organização interna
+
+1 - A organização interna do SRPC, IP-RAM, é a prevista nos respetivos estatutos, a aprovar por portaria conjunta dos membros do Governo Regional que tutelam as áreas da Saúde, das Finanças e da Administração Pública.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/M - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186869052), em vigor a partir de 2022-08-02
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 12/2013/M - Diário da República n.º 59/2013, Série I de 2013-03-25](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2013-259386), em vigor a partir de 2013-03-26
+
+###### Artigo 15.º — Regime do pessoal
+
+Ao pessoal do SRPC, IP-RAM é aplicável o regime jurídico do contrato de trabalho em funções públicas, sem prejuízo do regime aplicável, nos termos da lei, ao pessoal do quadro do Serviço Regional de Protecção Civil e Bombeiros da Madeira, que para aquele transita.
+
+###### Artigo 16.º — Dever de disponibilidade
+
+O serviço prestado no SRPC, IP-RAM é de total disponibilidade, pelo que o pessoal ali em funções não pode recusar-se, sem motivo excepcional devidamente justificado, a comparecer ou permanecer no serviço em situação de emergência e sempre que circunstâncias especiais o exijam.
+
+###### Artigo 17.º — Serviço de turnos
+
+É assegurada a permanência no serviço de pessoal da área das telecomunicações em regime de turnos, de acordo com a lei geral.
+
+###### Artigo 18.º — Receitas
+
+Constituem receitas do SRPC, IP-RAM:
+
+a) As dotações do Orçamento da Região;
+
+b) O produto da venda de bens e serviços;
+
+c) Os rendimentos de bens próprios e os provenientes da sua actividade;
+
+d) Os subsídios e comparticipações atribuídos por entidades públicas ou privadas, nacionais ou estrangeiras;
+
+e) As remunerações dos serviços prestados, nomeadamente publicações, estudos, pareceres, vistorias, inspecções, credenciação e registo de pessoas singulares ou colectivas, bem como a prestação de serviços de ordem técnica;
+
+f) As percentagens legalmente atribuídas sobre os prémios de seguro automóvel, seguro contra incêndios e seguro de transporte de mercadorias perigosas, incluindo o seguro de carga, e sobre o valor dos prémios de seguro agrícolas e pecuário;
+
+g) As subvenções, quotizações, doações, heranças ou legados de entidades públicas ou privadas e respectivos rendimentos;
+
+h) As comparticipações financeiras resultantes de fundos comunitários;
+
+i) Os valores provenientes de serviços prestados no âmbito das suas atribuições;
+
+j) Os valores provenientes da prestação de outros serviços, designadamente cursos, seminários ou outras ações de formação;
+
+k) A participação nas taxas e coimas a definir através de portaria a emitir pelos membros do Governo Regional responsáveis pelas áreas das finanças e proteção civil;
+
+l) Quaisquer outras receitas que por lei, regulamento, contrato ou outro título lhe sejam atribuídas.
+
+> Alterado pelo/a Artigo 96.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01
+
+###### Artigo 19.º — Despesas
+
+Constituem despesas do SRPC, IP-RAM:
+
+a) Os encargos com o respectivo funcionamento e com o cumprimento das atribuições que lhe estão confiadas;
+
+b) Os custos de aquisição, manutenção e conservação de bens, equipamentos e serviços que tenha de utilizar;
+
+c) As transferências para as instituições integradas no sistema de socorro e emergência da Região, nos termos da legislação em vigor;
+
+d) Outras despesas que por lei, regulamento ou contrato lhe venham a ser cometidas.
+
+###### Artigo 20.º — Património
+
+1 - O património do SRPC, IP-RAM é constituído pela universalidade dos bens, direitos e obrigações, de que seja titular.
+
+2 - O SRPC, IP-RAM pode adquirir por compra ou locação os bens necessários à prossecução das suas atribuições, nos termos da legislação aplicável.
+
+###### Artigo 21.º — Regulamentos internos
+
+Os regulamentos internos necessários ao funcionamento do SRPC, IP-RAM, serão aprovados por despacho conjunto do Secretário Regional das Finanças e de Saúde e Proteção Civil no prazo de 180 dias, a contar da data de entrada em vigor do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 17/2022/M - Diário da República n.º 147/2022, Série I de 2022-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2022-186869052), em vigor a partir de 2022-08-02

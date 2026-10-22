@@ -1,0 +1,205 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:153013707:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regiao-autonoma-acores/2021-169421396",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/1-2021-153013707",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-01-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169354326",
+    "169354327",
+    "169354328",
+    "169354329",
+    "169354330",
+    "169354331",
+    "169354332",
+    "169354333",
+    "169354334",
+    "169354335"
+   ]
+  },
+  {
+   "date": "2021-08-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:169418569:por",
+     "title": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 49/2021/A",
+     "published": "2021-08-11",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/49-2021-169418569"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "169354326",
+    "169354327",
+    "169354328",
+    "169354329",
+    "169354330",
+    "169354331",
+    "169354341",
+    "169354333",
+    "169354334",
+    "169354335",
+    "169354336"
+   ]
+  },
+  {
+   "date": "2021-10-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:173345923:por",
+     "title": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 52/2021/A",
+     "published": "2021-10-25",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/52-2021-173345923"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "169354326",
+    "169354327",
+    "169354328",
+    "169354329",
+    "169354330",
+    "169354331",
+    "173284558",
+    "173284559",
+    "169354334",
+    "169354335",
+    "169354336"
+   ]
+  }
+ ],
+ "fragments": {
+  "169354326": {
+   "fragment_id": "169421397",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 1/2021/A\n\nSumário: Competências das comissões especializadas permanentes.\n\nCompetências das comissões especializadas permanentes\n\nA Assembleia Legislativa da Região Autónoma dos Açores tem as comissões previstas no seu Regimento, nos termos do n.º 1 do artigo 73.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, na redação que lhe conferiu a Lei n.º 2/2009, de 12 de janeiro.\n\nNos termos dos artigos 35.º e 41.º do Regimento da Assembleia Legislativa da Região Autónoma dos Açores o elenco, a composição e as matérias da competência das comissões especializadas permanentes são fixados por resolução da Assembleia Legislativa, sendo que o respetivo número não pode ser inferior a quatro e a sua composição deve corresponder às relações de voto dos partidos representados na Assembleia Legislativa, com um mínimo de sete e um máximo de treze deputados.\n\nAssim, nos termos regimentais e estatutários aplicáveis, a Assembleia Legislativa da Região Autónoma dos Açores aprova o seguinte:"
+  },
+  "169354327": {
+   "fragment_id": "169421398",
+   "type": 11,
+   "heading": "Artigo 1.º — Elenco das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Elenco das comissões\n\nO elenco das comissões especializadas permanentes da Assembleia Legislativa da Região Autónoma dos Açores é o seguinte:\n\na) Comissão de Assuntos Parlamentares, Ambiente e Desenvolvimento Sustentável;\n\nb) Comissão de Política Geral;\n\nc) Comissão de Assuntos Sociais;\n\nd) Comissão de Economia."
+  },
+  "169354328": {
+   "fragment_id": "169421399",
+   "type": 11,
+   "heading": "Artigo 2.º — Comissão de Assuntos Parlamentares, Ambiente e Desenvolvimento Sustentável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Comissão de Assuntos Parlamentares, Ambiente e Desenvolvimento Sustentável\n\nA Comissão de Assuntos Parlamentares, Ambiente e Desenvolvimento Sustentável exerce as suas competências de acompanhamento e de fiscalização política nas seguintes áreas:\n\nAssuntos constitucionais, estatutários e regimentais;\n\nOrganização e funcionamento da Assembleia Legislativa;\n\nOrganização política da Região;\n\nSímbolos da Região;\n\nInsígnias honoríficas;\n\nProtocolo e o luto regionais;\n\nFeriados regionais;\n\nComunicação social;\n\nAmbiente;\n\nAlterações climáticas;\n\nOrdenamento do território;\n\nRecursos hídricos;\n\nOrdenamento do espaço marítimo;\n\nOrla costeira;\n\nPolítica de ocupação de solos;\n\nReservas naturais e ecológicas;\n\nEnergia;\n\nBem-estar animal e recursos cinegéticos."
+  },
+  "169354329": {
+   "fragment_id": "169421400",
+   "type": 11,
+   "heading": "Artigo 3.º — Comissão de Política Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Comissão de Política Geral\n\nA Comissão de Política Geral exerce as suas competências de acompanhamento e de fiscalização política nas seguintes áreas:\n\nAdministração pública, regional e local;\n\nOrganização administrativa da Região;\n\nOrdem e segurança pública e proteção civil;\n\nComunidades açorianas;\n\nConstrução europeia, sem prejuízo da competência, em razão da matéria, de outras comissões;\n\nTratados e acordos internacionais;\n\nHabitação e equipamentos;\n\nArrendamento urbano;\n\nUrbanismo;\n\nPrevenção e segurança rodoviárias;\n\nCooperação Regional;\n\nTrabalho e formação profissional;\n\nConcertação social e mecanismos de resolução alternativa de conflitos."
+  },
+  "169354330": {
+   "fragment_id": "169421401",
+   "type": 11,
+   "heading": "Artigo 4.º — Comissão de Assuntos Sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comissão de Assuntos Sociais\n\nA Comissão de Assuntos Sociais exerce as suas competências de acompanhamento e de fiscalização política nas seguintes áreas:\n\nApoio à família e às migrações;\n\nEducação;\n\nJuventude;\n\nCultura;\n\nCiência, investigação e inovação tecnológica;\n\nSolidariedade e segurança social;\n\nIgualdade de género e combate à discriminação;\n\nPobreza e exclusão social;\n\nPromoção da infância;\n\nApoio a idosos;\n\nApoio a cidadãos com necessidades especiais;\n\nServiço regional de saúde;\n\nAtividade privada de saúde no seu relacionamento com o Serviço Regional de Saúde;\n\nSaúde pública e comunitária;\n\nSaúde e desporto escolar;\n\nPrevenção e combate às dependências;\n\nSegurança alimentar;\n\nPromoção de estilos de vida saudáveis;\n\nAtividade desportiva profissional e não profissional."
+  },
+  "169354331": {
+   "fragment_id": "169421402",
+   "type": 11,
+   "heading": "Artigo 5.º — Comissão de Economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Comissão de Economia\n\nA Comissão de Economia exerce as suas competências de acompanhamento e de fiscalização política nas seguintes áreas:\n\nPatrimónio próprio e autonomia patrimonial da Região;\n\nPlaneamento e estatística;\n\nFinanças e sistema fiscal;\n\nOrçamento e contabilidade pública;\n\nPrivatizações;\n\nSetor público empresarial regional;\n\nCompetitividade e inovação empresarial;\n\nTransportes e comunicações;\n\nAgricultura e pecuária;\n\nArrendamento rural;\n\nFlorestas e produção florestal;\n\nPescas e aquicultura;\n\nTurismo;\n\nComércio e indústria;\n\nArtesanato;\n\nDefesa do consumidor e da concorrência;\n\nDesenvolvimento rural;\n\nRemuneração complementar dos trabalhadores da administração regional;\n\nSistemas de incentivos;\n\nParcerias público-privadas;\n\nMarketing e publicidade."
+  },
+  "169354332": {
+   "fragment_id": "169421403",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição das comissões\n\n1 - As comissões especializadas permanentes são compostas, cada uma, por treze deputados, assim distribuídos:\n\na) O Partido Socialista (PS) e o Partido Social Democrata (PSD) integram todas as comissões especializadas permanentes, sendo que o PS indica seis deputados para a primeira comissão que presidir e cinco deputados para cada uma das comissões restantes e o PSD indica cinco deputados para cada comissão;\n\nb) O Centro Democrático Social-Partido Popular (CDS-PP) integra três comissões especializadas permanentes, indicando um deputado para cada uma delas;\n\nc) O Chega (CH), o Bloco de Esquerda (BE) e o Partido Popular Monárquico (PPM) integram, cada um, duas comissões especializadas permanentes, indicando um deputado para cada uma delas;\n\nd) O Iniciativa Liberal (IL) e o Pessoas-Animais-Natureza (PAN) integram, cada um, uma comissão especializada permanente.\n\n2 - O CDS-PP escolhe, logo após os grupos parlamentares do PS e do PSD, duas das três comissões especializadas permanentes que integra.\n\n3 - A seguir o CH, o BE, PPM, o IL e o PAN escolhem as primeiras comissões especializadas permanentes que integram, pela ordem do partido mais votado na eleição para a Assembleia Legislativa.\n\n4 - Posteriormente o CDS-PP, o CH, o BE e o PPM escolhem, por esta ordem, as restantes comissões especializadas permanentes que integram.\n\n5 - O CDS-PP, o CH, o BE, o PPM, o IL e o PAN podem ainda participar, cada um, em mais uma comissão especializada permanente, de sua livre escolha, sem direito a voto.\n\n6 - A participação referida no número anterior será considerada em serviço, para todos os efeitos legais."
+  },
+  "169354333": {
+   "fragment_id": "169421404",
+   "type": 11,
+   "heading": "Artigo 7.º — Composição da comissão permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Composição da comissão permanente\n\n1 - A Comissão Permanente é composta pelo Presidente e Vice-Presidentes da Assembleia e por mais vinte e dois deputados, sendo oito do PS, cinco do PSD, um do CDS-PP, dois do CH, dois do BE, dois do PPM, um do IL e um do PAN.\n\n2 - Na ausência do Presidente da Assembleia, a Comissão será presidida por um Vice-Presidente indicado por aquele.\n\n3 - O Presidente e os Vice-Presidentes da Assembleia, enquanto membros da Comissão, serão substituídos, nas suas ausências, por deputado indicado pelo respetivo Grupo Parlamentar."
+  },
+  "169354334": {
+   "fragment_id": "169421405",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio técnico e administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio técnico e administrativo\n\nCada comissão desta Assembleia Legislativa tem direito a usufruir de apoio técnico e administrativo, através da afetação de um assistente administrativo e de um técnico superior, nos termos previstos na alínea a) do artigo 20.º, na alínea a) do n.º 1 do artigo 31.º e na alínea b) do artigo 33.º do Decreto Legislativo Regional n.º 54/2006/A, de 22 de dezembro, que aprovou a Orgânica dos Serviços da Assembleia Legislativa da Região Autónoma dos Açores, alterado e republicado pelos Decretos Legislativos Regionais n.os 3/2009/A, de 6 de março, e 43/2012/A, de 9 de outubro, sob orientação direta do presidente de cada uma das comissões."
+  },
+  "169354335": {
+   "fragment_id": "169421406",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e produção de efeitos\n\nA presente resolução entra em vigor no dia seguinte à sua publicação e produz efeitos à data da sua aprovação."
+  },
+  "169354341": {
+   "fragment_id": "169421403",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição das comissões",
+   "in_force_from": "2021-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 49/2021/A - Diário da República n.º 155/2021, Série I de 2021-08-11](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/49-2021-169418569), em vigor a partir de 2021-08-12, produz efeitos a partir de 2021-07-16"
+   ],
+   "markdown": "###### Artigo 6.º — Composição das comissões\n\n1 - As comissões especializadas permanentes são compostas, cada uma, por treze deputados, assim distribuídos:\n\na) O Partido Socialista (PS) e o Partido Social Democrata (PSD) integram todas as comissões especializadas permanentes, sendo que o PS indica seis deputados para a primeira comissão que presidir e cinco deputados para cada uma das comissões restantes e o PSD indica cinco deputados para cada comissão;\n\nb) O Centro Democrático e Social (CDS-PP) integra três comissões especializadas permanentes, indicando um deputado para cada uma delas;\n\nc) O Bloco de Esquerda (BE) e o Partido Popular Monárquico (PPM) integram, cada um, duas comissões especializadas permanentes, indicando um deputado para cada uma delas;\n\nd) O Chega (CH), o Iniciativa Liberal (IL), o Pessoas-Animais-Natureza (PAN) e o Deputado Independente integram, cada um, uma comissão especializada permanente.\n\n2 - O CDS-PP escolhe, logo após os grupos parlamentares do PS e do PSD, duas das três comissões especializadas permanentes que integra.\n\n3 - A seguir, o BE, o PPM, o CH, o IL e o PAN escolhem as comissões especializadas permanentes que integram, pela ordem do partido mais votado na eleição para a Assembleia Legislativa.\n\n4 - O Deputado Independente integra uma comissão.\n\n5 - O CDS-PP, o BE, o PPM, o CH, o IL e o PAN podem ainda participar, cada um, em mais uma comissão especializada permanente, de sua livre escolha, sem direito a voto.\n\n6 - A participação referida no número anterior será considerada como em serviço, para todos os legais efeitos.\n\n> Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 49/2021/A - Diário da República n.º 155/2021, Série I de 2021-08-11](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/49-2021-169418569), em vigor a partir de 2021-08-12, produz efeitos a partir de 2021-07-16"
+  },
+  "169354336": {
+   "fragment_id": "169421407",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 11 de dezembro de 2020.\n\nO Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.\n\n113848922"
+  },
+  "173284558": {
+   "fragment_id": "169421403",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição das comissões",
+   "in_force_from": "2021-10-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 52/2021/A - Diário da República n.º 207/2021, Série I de 2021-10-25](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/52-2021-173345923), em vigor a partir de 2021-10-26, produz efeitos a partir de 2021-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 49/2021/A - Diário da República n.º 155/2021, Série I de 2021-08-11](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/49-2021-169418569), em vigor a partir de 2021-08-12, produz efeitos a partir de 2021-07-16"
+   ],
+   "markdown": "###### Artigo 6.º — Composição das comissões\n\n1 - As comissões especializadas permanentes são compostas, cada uma, por treze deputados, assim distribuídos:\n\na) O Partido Socialista (PS) e o Partido Social Democrata (PSD) integram todas as comissões especializadas permanentes, sendo que o PS indica seis deputados para a primeira comissão que presidir e cinco deputados para cada uma das comissões restantes e o PSD indica cinco deputados para cada comissão;\n\nb) O Centro Democrático e Social (CDS-PP) integra três comissões especializadas permanentes, indicando um deputado para cada uma delas;\n\nc) O Bloco de Esquerda (BE) e o Partido Popular Monárquico (PPM) integram, cada um, duas comissões especializadas permanentes, indicando um deputado para cada uma delas;\n\nd) O Chega (CH), o Iniciativa Liberal (IL), o Pessoas-Animais-Natureza (PAN) e o Deputado Independente integram, cada um, uma comissão especializada permanente.\n\n2 - O CDS-PP escolhe, logo após os grupos parlamentares do PS e do PSD, duas das três comissões especializadas permanentes que integra.\n\n3 - A seguir, o BE, o PPM, o CH, o IL e o PAN escolhem as primeiras comissões especializadas permanentes que integram, pela ordem do partido mais votado na eleição para a Assembleia Legislativa.\n\n4 - Posteriormente o CDS-PP, o BE, o PPM e o Deputado Independente escolhem, por esta ordem, as restantes comissões especializadas permanentes que integram.\n\n5 - O CDS-PP, o BE, o PPM, o CH, o IL e o PAN podem ainda participar, cada um, em mais uma comissão especializada permanente, de sua livre escolha, sem direito a voto.\n\n6 - A participação referida no número anterior será considerada como em serviço, para todos os legais efeitos.\n\n> Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 52/2021/A - Diário da República n.º 207/2021, Série I de 2021-10-25](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/52-2021-173345923), em vigor a partir de 2021-10-26, produz efeitos a partir de 2021-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 49/2021/A - Diário da República n.º 155/2021, Série I de 2021-08-11](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/49-2021-169418569), em vigor a partir de 2021-08-12, produz efeitos a partir de 2021-07-16"
+  },
+  "173284559": {
+   "fragment_id": "169421404",
+   "type": 11,
+   "heading": "Artigo 7.º — Composição da comissão permanente",
+   "in_force_from": "2021-10-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 52/2021/A - Diário da República n.º 207/2021, Série I de 2021-10-25](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/52-2021-173345923), em vigor a partir de 2021-10-26, produz efeitos a partir de 2021-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Composição da comissão permanente\n\n1 - A Comissão Permanente é composta pelo Presidente e Vice-Presidentes da Assembleia e por mais vinte e dois deputados, sendo oito do PS, cinco do PSD, dois do CDS-PP, dois do BE, dois do PPM, um do CH, um do IL e um do PAN.\n\n2 - Na ausência do Presidente da Assembleia, a Comissão será presidida por um Vice-Presidente indicado por aquele.\n\n3 - O Presidente e os Vice-Presidentes da Assembleia, enquanto membros da Comissão, serão substituídos, nas suas ausências, por deputado indicado pelo respetivo Grupo Parlamentar.\n\n> Alterado pelo/a Artigo 1.º do/a [Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 52/2021/A - Diário da República n.º 207/2021, Série I de 2021-10-25](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/52-2021-173345923), em vigor a partir de 2021-10-26, produz efeitos a partir de 2021-10-01"
+  }
+ }
+}

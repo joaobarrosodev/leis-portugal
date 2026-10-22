@@ -1,0 +1,314 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:405486:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2002-885585311",
+ "dre_path": "/dr/detalhe/lei/31-2002-405486",
+ "source_lastmod": "2024-08-23",
+ "versions": [
+  {
+   "date": "2002-12-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885585038",
+    "885585039",
+    "885585040",
+    "885585041",
+    "885585042",
+    "885585043",
+    "885585044",
+    "885585045",
+    "885585046",
+    "885585047",
+    "885585048",
+    "885585049",
+    "885585050",
+    "885585051",
+    "885585052",
+    "885585053",
+    "885585054",
+    "885585055",
+    "885585056",
+    "885585057",
+    "885585058",
+    "885585059",
+    "885585060"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:632448:por",
+     "title": "Lei n.º 66-B/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-b-2012-632448"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 8.º-A",
+    "Adita Artigo 18.º"
+   ],
+   "fragments": [
+    "885585038",
+    "885585039",
+    "885585040",
+    "885585041",
+    "885585042",
+    "885585043",
+    "885585044",
+    "885585045",
+    "885585046",
+    "885585047",
+    "885585048",
+    "885585062",
+    "885585063",
+    "885585064",
+    "885585051",
+    "885585052",
+    "885585053",
+    "885585054",
+    "885585055",
+    "885585056",
+    "885585057",
+    "885585058",
+    "885585059",
+    "885585060",
+    "885585065",
+    "885585061"
+   ]
+  }
+ ],
+ "fragments": {
+  "885585038": {
+   "fragment_id": "885585312",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 31/2002\n\nde 20 de Dezembro\n\nAprova o sistema de educação e do ensino não superior, desenvolvendo o regime previsto na Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo).\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "885585039": {
+   "fragment_id": "885585313",
+   "type": 1,
+   "heading": "Capítulo I — Sistema de avaliação da educação e do ensino não superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Sistema de avaliação da educação e do ensino não superior"
+  },
+  "885585040": {
+   "fragment_id": "885585314",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei tem por objecto, no desenvolvimento do artigo 49.º da Lei de Bases do Sistema Educativo, Lei n.º 46/86, de 14 de Outubro, o sistema de avaliação da educação e do ensino não superior, adiante designado por sistema de avaliação."
+  },
+  "885585041": {
+   "fragment_id": "885585315",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O sistema de avaliação abrange a educação pré-escolar, os ensinos básico e secundário da educação escolar, incluindo as suas modalidades especiais de educação, e a educação extra-escolar.\n\n2 - O sistema de avaliação aplica-se aos estabelecimentos de educação pré-escolar e de ensino básico e secundário da rede pública, privada, cooperativa e solidária."
+  },
+  "885585042": {
+   "fragment_id": "885585316",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos do sistema de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos do sistema de avaliação\n\nO sistema de avaliação, enquanto instrumento central de definição das políticas educativas, prossegue, de forma sistemática e permanente, os seguintes objectivos:\n\na) Promover a melhoria da qualidade do sistema educativo, da sua organização e dos seus níveis de eficiência e eficácia, apoiar a formulação e o desenvolvimento das políticas de educação e formação e assegurar a disponibilidade de informação de gestão daquele sistema;\n\nb) Dotar a administração educativa local, regional e nacional, e a sociedade em geral, de um quadro de informações sobre o funcionamento do sistema educativo, integrando e contextualizando a interpretação dos resultados da avaliação;\n\nc) Assegurar o sucesso educativo, promovendo uma cultura de qualidade, exigência e responsabilidade nas escolas;\n\nd) Permitir incentivar as acções e os processos de melhoria da qualidade, do funcionamento e dos resultados das escolas, através de intervenções públicas de reconhecimento e apoio a estas;\n\ne) Sensibilizar os vários membros da comunidade educativa para a participação activa no processo educativo;\n\nf) Garantir a credibilidade do desempenho dos estabelecimentos de educação e de ensino;\n\ng) Valorizar o papel dos vários membros da comunidade educativa, em especial dos professores, dos alunos, dos pais e encarregados de educação, das autarquias locais e dos funcionários não docentes das escolas;\n\nh) Promover uma cultura de melhoria continuada da organização, do funcionamento e dos resultados do sistema educativo e dos projectos educativos;\n\ni) Participar nas instituições e nos processos internacionais de avaliação dos sistemas educativos, fornecendo informação e recolhendo experiências comparadas e termos internacionais de referência."
+  },
+  "885585043": {
+   "fragment_id": "885585317",
+   "type": 11,
+   "heading": "Artigo 4.º — Concepção de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Concepção de avaliação\n\n1 - A prossecução dos objectivos referidos no artigo anterior desenvolve-se com base numa concepção de avaliação que, a partir de uma análise de diagnóstico, vise a criação de termos de referência para maiores níveis de exigência, bem como a identificação de boas práticas organizativas, de procedimentos e pedagógicas relativas à escola e ao trabalho de educação, ensino e aprendizagens, que se constituam em modelos de reconhecimento, valorização, incentivo e dinamização educativa.\n\n2 - O sistema de avaliação deve, através da participação em projectos e estudos desenvolvidos a nível internacional, permitir aferir os graus de desempenho do sistema educativo nacional em termos comparados."
+  },
+  "885585044": {
+   "fragment_id": "885585318",
+   "type": 1,
+   "heading": "Capítulo II — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Avaliação"
+  },
+  "885585045": {
+   "fragment_id": "885585319",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estrutura da avaliação\n\nA avaliação estrutura-se com base na auto-avaliação, a realizar em cada escola ou agrupamento de escolas, e na avaliação externa."
+  },
+  "885585046": {
+   "fragment_id": "885585320",
+   "type": 11,
+   "heading": "Artigo 6.º — Auto-avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Auto-avaliação\n\nA auto-avaliação tem carácter obrigatório, desenvolve-se em permanência, conta com o apoio da administração educativa e assenta nos termos de análise seguintes:\n\na) Grau de concretização do projecto educativo e modo como se prepara e concretiza a educação, o ensino e as aprendizagens das crianças e alunos, tendo em conta as suas características específicas;\n\nb) Nível de execução de actividades proporcionadoras de climas e ambientes educativos capazes de gerarem as condições afectivas e emocionais de vivência escolar propícia à interacção, à integração social, às aprendizagens e ao desenvolvimento integral da personalidade das crianças e alunos;\n\nc) Desempenho dos órgãos de administração e gestão das escolas ou agrupamentos de escolas, abrangendo o funcionamento das estruturas escolares de gestão e de orientação educativa, o funcionamento administrativo, a gestão de recursos e a visão inerente à acção educativa, enquanto projecto e plano de actuação;\n\nd) Sucesso escolar, avaliado através da capacidade de promoção da frequência escolar e dos resultados do desenvolvimento das aprendizagens escolares dos alunos, em particular dos resultados identificados através dos regimes em vigor de avaliação das aprendizagens;\n\ne) Prática de uma cultura de colaboração entre os membros da comunidade educativa."
+  },
+  "885585047": {
+   "fragment_id": "885585321",
+   "type": 11,
+   "heading": "Artigo 7.º — Certificação da auto-avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Certificação da auto-avaliação\n\nO processo de auto-avaliação deve conformar-se a padrões de qualidade devidamente certificados."
+  },
+  "885585048": {
+   "fragment_id": "885585322",
+   "type": 11,
+   "heading": "Artigo 8.º — Avaliação externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Avaliação externa\n\n1 - A avaliação externa, a realizar no plano nacional ou por área educativa, em termos gerais ou em termos especializados, assenta, para além dos termos de análise referidos no artigo anterior, em aferições de conformidade normativa das actuações pedagógicas e didácticas e de administração e gestão, bem como de eficiência e eficácia das mesmas.\n\n2 - A avaliação externa pode igualmente assentar em termos de análise da qualificação educativa da população, desenvolvendo-se neste caso, se necessário, fora do âmbito do sistema educativo.\n\n3 - A avaliação externa estrutura-se com base nos seguintes elementos:\n\na) Sistema de avaliação das aprendizagens em vigor, tendente a aferir o sucesso escolar e o grau de cumprimento dos objectivos educativos definidos como essenciais pela administração educativa;\n\nb) Sistema de certificação do processo de auto-avaliação;\n\nc) Acções desenvolvidas, no âmbito das suas competências, pela Inspecção-Geral de Educação;\n\nd) Processos de avaliação, geral ou especializada, a cargo dos demais serviços do Ministério da Educação;\n\ne) Estudos especializados, a cargo de pessoas ou instituições, públicas ou privadas, de reconhecido mérito."
+  },
+  "885585049": {
+   "fragment_id": "885585323",
+   "type": 11,
+   "heading": "Artigo 9.º — Parâmetros de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Parâmetros de avaliação\n\n1 - O processo de avaliação deve ter em consideração parâmetros de conhecimento científico, de carácter pedagógico, organizativo, funcional, de gestão, financeiro e sócio-económico, requeridos pelos termos de análise enunciados nos artigos 6.º e 8.º\n\n2 - Os parâmetros referidos no número anterior concretizam-se, entre outros, nos seguintes indicadores relativos à organização e funcionamento das escolas e dos respectivos agrupamentos:\n\na) Cumprimento da escolaridade obrigatória;\n\nb) Resultados escolares, em termos, designadamente, de taxa de sucesso, qualidade do mesmo e fluxos escolares;\n\nc) Inserção no mercado de trabalho;\n\nd) Organização e desenvolvimento curricular;\n\ne) Participação da comunidade educativa;\n\nf) Organização e métodos e técnicas de ensino e de aprendizagem, incluindo avaliação dos alunos e utilização de apoios educativos;\n\ng) Adopção e utilização de manuais escolares;\n\nh) Níveis de formação e experiência pedagógica e científica dos docentes;\n\ni) Existência, estado e utilização das instalações e equipamentos;\n\nj) Eficiência de organização e de gestão;\n\nl) Articulação com o sistema de formação profissional e profissionalizante;\n\nm) Colaboração com as autarquias locais;\n\nn) Parcerias com entidades empresariais;\n\no) Dimensão do estabelecimento de ensino e clima e ambiente educativos."
+  },
+  "885585050": {
+   "fragment_id": "885585324",
+   "type": 11,
+   "heading": "Artigo 10.º — Interpretação dos resultados da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Interpretação dos resultados da avaliação\n\nO processo de avaliação deve assentar numa interpretação integrada e contextualizada dos resultados obtidos."
+  },
+  "885585051": {
+   "fragment_id": "885585325",
+   "type": 1,
+   "heading": "Capítulo III — Organização do sistema de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização do sistema de avaliação"
+  },
+  "885585052": {
+   "fragment_id": "885585326",
+   "type": 11,
+   "heading": "Artigo 11.º — Estrutura orgânica do sistema de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Estrutura orgânica do sistema de avaliação\n\n1 - A estrutura orgânica do sistema de avaliação é responsável pelas funções de planeamento, coordenação, definição de processos, execução, desenvolvimento, apreciação, interpretação e divulgação de resultados, no âmbito do sistema de avaliação previsto na presente lei.\n\n2 - Integram a estrutura orgânica do sistema de avaliação o Conselho Nacional de Educação, através da sua comissão especializada permanente para a avaliação do sistema educativo, bem como os serviços do Ministério da Educação que, nos termos da respectiva lei orgânica, têm competência na área da avaliação do sistema educativo."
+  },
+  "885585053": {
+   "fragment_id": "885585327",
+   "type": 11,
+   "heading": "Artigo 12.º — Conselho Nacional de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Conselho Nacional de Educação\n\n1 - O Conselho Nacional de Educação, através da sua comissão especializada permanente para a avaliação do sistema educativo, exerce, no âmbito do sistema de avaliação, as competências de emissão de opiniões, pareceres e recomendações previstas no Decreto-Lei n.º 125/82, de 22 de Abril, competindo-lhe, em especial, apreciar:\n\na) As normas relativas ao processo de auto-avaliação;\n\nb) O plano anual das acções inerentes à avaliação externa;\n\nc) Os resultados dos processos de avaliação, interna e externa.\n\n2 - O Conselho Nacional de Educação, no âmbito da apreciação dos resultados dos processos de avaliação, deve interpretar as informações respectivas e propor as medidas de melhoria do sistema educativo que os mesmos revelem como necessárias.\n\n3 - Para o exercício das competências referidas nos números anteriores, o Conselho Nacional de Educação pode solicitar ao Ministério da Educação toda a informação que repute necessária, bem como recomendar-lhe a utilização de processos de avaliação específicos."
+  },
+  "885585054": {
+   "fragment_id": "885585328",
+   "type": 11,
+   "heading": "Artigo 13.º — Serviços do Ministério da Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Serviços do Ministério da Educação\n\n1 - Os serviços do Ministério da Educação são responsáveis pelo planeamento, coordenação, definição de processos, execução e desenvolvimento da avaliação do sistema educativo nacional, identificando a informação a obter, definindo e concretizando os processos e sistemas de recolha da mesma, trabalhando e interpretando a informação considerada adequada, bem como documentando os termos de cada processo de avaliação e os resultados respectivos.\n\n2 - Os serviços do Ministério da Educação devem elaborar um relatório anual, contendo uma análise, quantitativa e qualitativa, de carácter consolidado, do sistema educativo, bem como um relatório trienal, contendo um diagnóstico do sistema educativo e uma análise prospectiva do mesmo, em ambos os casos organizados em termos coerentes com a concepção de avaliação prevista no artigo 4.º\n\n3 - Para além dos relatórios referidos no número anterior, podem ser elaborados outros documentos de avaliação, geral ou especializada.\n\n4 - Os serviços do Ministério da Educação asseguram, nos termos do disposto no n.º 3 do artigo anterior, toda a informação requerida pelo Conselho Nacional de Educação."
+  },
+  "885585055": {
+   "fragment_id": "885585329",
+   "type": 1,
+   "heading": "Capítulo IV — Objectivos da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Objectivos da avaliação"
+  },
+  "885585056": {
+   "fragment_id": "885585330",
+   "type": 11,
+   "heading": "Artigo 14.º — Objectivos gerais dos resultados da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Objectivos gerais dos resultados da avaliação\n\nOs resultados da avaliação, uma vez interpretados de forma integrada e contextualizada, devem permitir a formulação de propostas concretas e, em especial, quanto a:\n\na) Organização do sistema educativo;\n\nb) Estrutura curricular;\n\nc) Formação inicial, contínua e especializada dos docentes;\n\nd) Autonomia, administração e gestão das escolas;\n\ne) Incentivos e apoios diversificados às escolas;\n\nf) Rede escolar;\n\ng) Articulação entre o sistema de ensino e o sistema de formação;\n\nh) Regime de avaliação dos alunos."
+  },
+  "885585057": {
+   "fragment_id": "885585331",
+   "type": 11,
+   "heading": "Artigo 15.º — Objectivos específicos dos resultados da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Objectivos específicos dos resultados da avaliação\n\nOs resultados da avaliação, nos termos referidos no artigo anterior, devem permitir às escolas aperfeiçoar a sua organização e funcionamento, quanto aos termos de análise referidos no artigo 6.º e, em especial, quanto:\n\na) Ao projecto educativo da escola;\n\nb) Ao plano de desenvolvimento a médio e longo prazos;\n\nc) Ao programa de actividades;\n\nd) À interacção com a comunidade educativa;\n\ne) Aos programas de formação;\n\nf) À organização das actividades lectivas;\n\ng) À gestão dos recursos."
+  },
+  "885585058": {
+   "fragment_id": "885585332",
+   "type": 11,
+   "heading": "Artigo 16.º — Divulgação dos resultados da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Divulgação dos resultados da avaliação\n\nOs resultados da avaliação das escolas e do sistema educativo, constantes de relatórios de análise integrada, contextualizada e comparada, devem ser divulgados com o objectivo de disponibilizar aos cidadãos em geral e às comunidades educativas em particular uma visão extensiva, actualizada, criticamente reflectiva e comparada internacionalmente do sistema educativo português."
+  },
+  "885585059": {
+   "fragment_id": "885585333",
+   "type": 1,
+   "heading": "Capítulo V — Disposição transitória e final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposição transitória e final"
+  },
+  "885585060": {
+   "fragment_id": "885585334",
+   "type": 11,
+   "heading": "Artigo 17.º — Constituição da comissão especializada permanente para a avaliação do sistema educativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Constituição da comissão especializada permanente para a avaliação do sistema educativo\n\nA comissão especializada permanente para a avaliação do sistema educativo do Conselho Nacional de Educação, referida no n.º 1 do artigo 12.º, será constituída, nos termos da lei orgânica deste, até 120 dias após a entrada em vigor da presente lei.\n\n> Nota: [Artigo 182.º, Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448) declara a caducidade do presente artigo."
+  },
+  "885585062": {
+   "fragment_id": "885585336",
+   "type": 11,
+   "heading": "Artigo 8.º-A — Peritos externos",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 182.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 8.º-A — Peritos externos\n\n1 - A avaliação externa é realizada por equipas de avaliação constituídas por trabalhadores do serviço do Ministério da Educação e Ciência responsável pela recolha da informação considerada adequada e por perito ou peritos externos.\n\n2 - A responsabilidade da seleção dos peritos externos é das instituições de ensino superior, público ou privado, universitário ou politécnico ou das instituições de investigação que, para o efeito, celebrem protocolo com o serviço referido no número anterior.\n\n3 - Os peritos a selecionar devem ser docentes do ensino superior, público ou privado, ou investigadores, de preferência titulares do grau académico de doutor, ou, ainda, titulares do grau académico de mestre ou licenciado, neste caso, desde que detentores de currículo escolar ou científico especialmente relevante que seja reconhecido como atestando a capacidade para a realização de avaliação externa.\n\n4 - O valor global da peritagem objeto de cada protocolo é transferido do orçamento do serviço referido no n.º 1 para as entidades a que alude o n.º 2.\n\n5 - O valor global da peritagem resulta do cálculo, por cada avaliação externa e perito, do valor correspondente a 50 % do nível remuneratório 9 da tabela remuneratória única dos trabalhadores que exercem funções públicas.\n\n6 - Os peritos externos têm direito à perceção de ajudas de custo e de despesas de transporte nos termos da lei geral.\n\n> Aditado pelo/a Artigo 182.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "885585063": {
+   "fragment_id": "885585323",
+   "type": 11,
+   "heading": "Artigo 9.º — Parâmetros de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Parâmetros de avaliação\n\n1 - O processo de avaliação deve ter em consideração parâmetros de conhecimento científico, de carácter pedagógico, organizativo, funcional, de gestão, financeiro e sócio-económico, requeridos pelos termos de análise enunciados nos artigos 6.º e 8.º\n\n2 - Os parâmetros referidos no número anterior concretizam-se, entre outros, nos seguintes indicadores relativos à organização e funcionamento das escolas e dos respectivos agrupamentos:\n\na) Cumprimento da escolaridade obrigatória;\n\nb) Resultados escolares, em termos, designadamente, de taxa de sucesso, qualidade do mesmo e fluxos escolares;\n\nc) Inserção no mercado de trabalho;\n\nd) Organização e desenvolvimento curricular;\n\ne) Participação da comunidade educativa;\n\nf) Organização e métodos e técnicas de ensino e de aprendizagem, incluindo avaliação dos alunos e utilização de apoios educativos;\n\ng) Adopção e utilização de manuais escolares;\n\nh) Níveis de formação e experiência pedagógica e científica dos docentes;\n\ni) Existência, estado e utilização das instalações e equipamentos;\n\nj) Eficiência de organização e de gestão;\n\nl) Articulação com o sistema de formação profissional e profissionalizante;\n\nm) Colaboração com as autarquias locais;\n\nn) Parcerias com entidades empresariais;\n\no) Dimensão do estabelecimento de ensino e clima e ambiente educativos."
+  },
+  "885585064": {
+   "fragment_id": "885585324",
+   "type": 11,
+   "heading": "Artigo 10.º — Interpretação dos resultados da avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Interpretação dos resultados da avaliação\n\nO processo de avaliação deve assentar numa interpretação integrada e contextualizada dos resultados obtidos."
+  },
+  "885585065": {
+   "fragment_id": "885585337",
+   "type": 11,
+   "heading": "Artigo 18.º — Regulamentação",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 182.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — Regulamentação\n\nSem prejuízo do disposto no artigo 8.º-A, a matéria da avaliação externa das escolas será objeto do estabelecimento do regime jurídico, até 120 dias após a entrada em vigor da presente lei, devendo conter a previsão de uma instância de recurso.\n\n> Aditado pelo/a Artigo 182.º do/a [Lei n.º 66-B/2012 - Diário da República n.º 252/2012, 1º Suplemento, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-b-2012-632448), em vigor a partir de 2013-01-01"
+  },
+  "885585061": {
+   "fragment_id": "885585335",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 10 de Outubro de 2002.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 6 de Dezembro de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 11 de Dezembro de 2002.\n\nO Primeiro-Ministro, José Manuel Durão Barroso."
+  }
+ }
+}

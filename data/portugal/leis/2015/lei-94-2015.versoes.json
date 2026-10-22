@@ -1,0 +1,279 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70007181:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-70052107",
+ "dre_path": "/dr/detalhe/lei/94-2015-70007181",
+ "source_lastmod": "2026-08-17",
+ "versions": [
+  {
+   "date": "2015-08-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70052202",
+    "70052203",
+    "70052204",
+    "70052205",
+    "70052206",
+    "70052207",
+    "70052208",
+    "70052209",
+    "70052210",
+    "70052211",
+    "70052212",
+    "70052213",
+    "70052214",
+    "70052215",
+    "70052216",
+    "70052217"
+   ]
+  },
+  {
+   "date": "2018-12-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117142869:por",
+     "title": "Decreto-Lei n.º 103/2018",
+     "published": "2018-11-29",
+     "dre_path": "/dr/detalhe/decreto-lei/103-2018-117142869"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A"
+   ],
+   "fragments": [
+    "70052202",
+    "70052203",
+    "70052204",
+    "70052205",
+    "70052206",
+    "70052207",
+    "70052208",
+    "117139038",
+    "117139039",
+    "117139040",
+    "117139041",
+    "117139042",
+    "117139043",
+    "117139044",
+    "117139045",
+    "117139046",
+    "117139047"
+   ]
+  }
+ ],
+ "fragments": {
+  "70052202": {
+   "fragment_id": "70052108",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 94/2015\n\nde 13 de agosto\n\nRegras do financiamento das associações humanitárias de bombeiros, no continente, enquanto entidades detentoras de corpos de bombeiros (primeira alteração à Lei n.º 32/2007, de 13 de agosto, que aprova o regime jurídico das associações humanitárias de bombeiros).\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "70052203": {
+   "fragment_id": "70052109",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei define as regras do financiamento das associações humanitárias de bombeiros (AHB), no continente, enquanto entidades detentoras de corpos de bombeiros."
+  },
+  "70052204": {
+   "fragment_id": "70052110",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios gerais\n\nAo financiamento das AHB, enquanto entidades detentoras de corpos de bombeiros, aplicam-se os princípios da responsabilização, racionalidade, eficiência, transparência e proporcionalidade."
+  },
+  "70052205": {
+   "fragment_id": "70052111",
+   "type": 11,
+   "heading": "Artigo 3.º — Critérios de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Critérios de financiamento\n\nO financiamento das AHB processa-se de acordo com critérios objetivos, assentes em medidas do risco e da atividade dos corpos de bombeiros."
+  },
+  "70052206": {
+   "fragment_id": "70052112",
+   "type": 11,
+   "heading": "Artigo 4.º — Financiamento permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Financiamento permanente\n\n1 - Em cada ano económico o Estado apoia financeiramente as AHB, com vista ao cumprimento das missões de serviço público dos seus corpos de bombeiros.\n\n2 - O financiamento a que se refere o número anterior é indexado a um orçamento de referência, a aprovar na Lei do Orçamento do Estado, sendo a dotação a atribuir a cada AHB calculada de acordo com a seguinte fórmula:\n\n(ver documento original)\n\n3 - As variáveis presentes na fórmula definida no número anterior são as seguintes:\n\nVi = Verba destinada ao financiamento do corpo de bombeiros da AHB;\n\nOR = Orçamento de referência;\n\nN = Número total de corpos de bombeiros das AHB à data de 31 de dezembro do ano anterior;\n\nAi = Área abrangida pelo corpo de bombeiros da AHB, à data de 31 de dezembro do ano anterior, definida como a área de atuação pela Autoridade Nacional de Proteção Civil (ANPC);\n\nAT = Somatório da área abrangida por todos os corpos de bombeiros das AHB;\n\nPi = População abrangida pelo corpo de bombeiros da AHB, definida como a população residente na área abrangida pelo corpo de bombeiros da AHB de acordo com os dados mais recentes, à data de 31 de dezembro do ano anterior, do Instituto Nacional de Estatística, I. P.;\n\nPT = Somatório da população abrangida por todos os corpos de bombeiros das AHB;\n\nRi = Índice de risco da área abrangida pelo corpo de bombeiros da AHB de acordo com cartas de suscetibilidade, em escala 1/50.000, a publicar pela Autoridade Nacional de Proteção Civil, com a ponderação indicada no anexo à presente lei, da qual faz parte integrante;\n\nRT = Somatório dos índices de risco de todos os corpos de bombeiros das AHB;\n\nOi = Número de ocorrências em que o corpo de bombeiros da AHB atuou, definido como o número médio de ações de socorro em situações de emergência, efetuadas pelas equipas especializadas de socorro do corpo de bombeiros, registadas na aplicação SADO nos últimos três anos, de acordo com a NOP n.º 3101/classificação de ocorrências, com exceção das classificadas nos códigos 4115, 4117, 4119, 4123, 4319, 4323, 4337 e 9111;\n\nOT = Somatório do número de ocorrências de todos os corpos de bombeiros das AHB;\n\nQi = Número de bombeiros elegíveis do corpo de bombeiros da AHB, definido como o número dos elementos do quadro de comando e do quadro ativo do corpo de bombeiros voluntários ou mistos registados no Recenseamento Nacional dos Bombeiros Portugueses, excluindo os elementos supranumerários;\n\nQT = Somatório do número de bombeiros elegíveis de todos os corpos de bombeiros das AHB.\n\n4 - A variável Qi, prevista no número anterior, não pode ser superior ao número de bombeiros que resulta da portaria do membro do Governo responsável pela área da administração interna que determine a tipificação dos corpos de bombeiros.\n\n5 - O valor das variáveis Ai e Pi, previstas no n.º 3, é reduzido para metade quando, na mesma área de referência, também atuem corpos de bombeiros municipais ou sapadores.\n\n6 - Da aplicação do disposto no presente artigo não pode resultar, em cada ano económico, uma variação negativa do financiamento superior a 5 % ou uma variação positiva do financiamento superior a 10 % a atribuir a cada AHB por reporte ao montante atribuído no ano precedente.\n\n7 - A dotação a atribuir aos agrupamentos de AHB, criados nos termos da lei, é 110 % da aplicação da fórmula prevista no n.º 2."
+  },
+  "70052207": {
+   "fragment_id": "70052113",
+   "type": 11,
+   "heading": "Artigo 5.º — Modo de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Modo de pagamento\n\n1 - A ANPC transfere para as AHB, em duodécimos, o apoio financeiro previsto no artigo anterior.\n\n2 - As AHB remetem à ANPC os recibos correspondentes aos montantes transferidos em cada mês até ao dia 20 do mês seguinte."
+  },
+  "70052208": {
+   "fragment_id": "70052114",
+   "type": 11,
+   "heading": "Artigo 6.º — Financiamento estrutural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Financiamento estrutural\n\n1 - O Estado apoia financeiramente as AHB e demais entidades que detenham corpos de bombeiros com vista ao cumprimento das suas missões, para além de outras formas legalmente previstas, designadamente, através dos programas seguintes:\n\na) Programa de Apoio Infraestrutural, que visa apoiar o investimento em infraestruturas que se destinem à instalação dos corpos de bombeiros;\n\nb) Programa de Apoio aos Equipamentos, que visa apoiar a manutenção da capacidade operacional dos corpos de bombeiros.\n\n2 - Os programas de apoio previstos no número anterior são aprovados por portaria do membro do Governo responsável pela administração interna, ouvida a Liga dos Bombeiros Portugueses."
+  },
+  "70052209": {
+   "fragment_id": "70052115",
+   "type": 11,
+   "heading": "Artigo 7.º — Outras fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outras fontes de financiamento\n\nSem prejuízo dos apoios referidos na presente lei, as AHB podem beneficiar, por si ou em conjunto com outras associações, de outros apoios públicos, nacionais ou comunitários, no âmbito de programas, ações ou outros meios de financiamento que lhes forem concedidos, incluindo financiamento privado e receitas próprias."
+  },
+  "70052210": {
+   "fragment_id": "70052116",
+   "type": 11,
+   "heading": "Artigo 8.º — Fundo de Proteção Social do Bombeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fundo de Proteção Social do Bombeiro\n\nA ANPC transfere anualmente para o Fundo de Proteção Social do Bombeiro um montante equivalente a 3 % da verba anualmente transferida para as AHB nos termos do artigo 5.º\n\n> Nota: [Artigo 7.º, Decreto-Lei n.º 19/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2020-132721068) Em 2020, a transferência anual para o Fundo de Proteção Social do Bombeiro, é, a título excecional, de 5 %."
+  },
+  "70052211": {
+   "fragment_id": "70052117",
+   "type": 11,
+   "heading": "Artigo 9.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres de informação\n\n1 - O financiamento das AHB está sujeito ao princípio da transparência, que se traduz num dever de resposta, a quaisquer pedidos de informação realizados pela ANPC, num prazo nunca superior a 15 dias úteis.\n\n2 - Sem prejuízo das demais obrigações legais, as AHB depositam as suas contas junto da ANPC."
+  },
+  "70052212": {
+   "fragment_id": "70052118",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação\n\n1 - O Estado, através da ANPC, procede ao acompanhamento e à avaliação sistemática da aplicação dos financiamentos atribuídos às AHB, visando uma maior racionalização dos recursos financeiros e a eficiente alocação daqueles recursos aos corpos de bombeiros e às suas missões.\n\n2 - No âmbito da sua atividade, a ANPC promove auditorias e fiscaliza o uso e a finalidade dos apoios financeiros atribuídos nos termos dos artigos 4.º e 6.º"
+  },
+  "70052213": {
+   "fragment_id": "70052119",
+   "type": 11,
+   "heading": "Artigo 11.º — Incumprimento pelas associações humanitárias de bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Incumprimento pelas associações humanitárias de bombeiros\n\n1 - A dotação financeira atribuída nos termos do artigo 4.º pode ser suspensa, mediante parecer da ANPC e despacho do membro do Governo responsável pela área da administração interna, em caso de:\n\na) Alocação da dotação financeira a outro fim não previsto na presente lei;\n\nb) Incumprimento reiterado, por parte das AHB, das obrigações previstas na lei.\n\n2 - A suspensão referida no número anterior mantém-se até à regularização do cumprimento de todas as obrigações das AHB e das situações que deram origem à suspensão."
+  },
+  "70052214": {
+   "fragment_id": "70052120",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma transitória\n\n1 - A partir da data da entrada em vigor da presente lei e até 31 de dezembro de 2015, o valor a transferir para cada AHB em cada mês é 1/12 do valor obtido, aplicando o n.º 2 do artigo 4.º, sendo o orçamento de referência 110 % do valor distribuído em 2014 no âmbito do Programa Permanente de Cooperação (PPC).\n\n2 - Em qualquer caso, o financiamento a atribuir a cada AHB, em 2015, não pode ser inferior a 103 % do montante atribuído através do PPC em 2014, nem superior a 125 % daquele montante, não sendo aplicável o disposto no n.º 6 do artigo 4.º\n\n3 - O valor da variável Ri, prevista no n.º 3 do artigo 4.º, é calculado até 31 de dezembro de 2016 de acordo com 14 das cartas de suscetibilidade, em escala 1/250.000, que integram a secção ii da parte iv do novo Plano Nacional de Emergência, com a ponderação indicada no anexo à presente lei, da qual faz parte integrante."
+  },
+  "70052215": {
+   "fragment_id": "70052121",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nSão revogados o artigo 31.º da Lei n.º 32/2007, de 13 de agosto, e a Portaria n.º 76/2013, de 18 de fevereiro, exceto para os efeitos previstos no artigo anterior."
+  },
+  "70052216": {
+   "fragment_id": "70052122",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.\n\nAprovada em 26 de junho de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 3 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 5 de agosto de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "70052217": {
+   "fragment_id": "70052123",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 4.º)\n\n(ver documento original)"
+  },
+  "117139038": {
+   "fragment_id": "117160889",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Parecer prévio das entidades intermunicipais",
+   "in_force_from": "2018-12-04",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2018 - Diário da República n.º 230/2018, Série I de 2018-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2018-117142869), em vigor a partir de 2018-12-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º-A — Parecer prévio das entidades intermunicipais\n\n1 - Os projetos de instalação de novos quartéis dos corpos de bombeiros voluntários ou de ampliação dos existentes estão sujeitos a parecer prévio da entidade intermunicipal da área territorial respetiva.\n\n2 - Os programas de âmbito regional de apoio às corporações de bombeiros voluntários estão sujeitos a parecer prévio das entidades intermunicipais na respetiva área territorial.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 103/2018 - Diário da República n.º 230/2018, Série I de 2018-11-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2018-117142869), em vigor a partir de 2018-12-04, produz efeitos a partir de 2019-01-01"
+  },
+  "117139039": {
+   "fragment_id": "70052115",
+   "type": 11,
+   "heading": "Artigo 7.º — Outras fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outras fontes de financiamento\n\nSem prejuízo dos apoios referidos na presente lei, as AHB podem beneficiar, por si ou em conjunto com outras associações, de outros apoios públicos, nacionais ou comunitários, no âmbito de programas, ações ou outros meios de financiamento que lhes forem concedidos, incluindo financiamento privado e receitas próprias."
+  },
+  "117139040": {
+   "fragment_id": "70052116",
+   "type": 11,
+   "heading": "Artigo 8.º — Fundo de Proteção Social do Bombeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Fundo de Proteção Social do Bombeiro\n\nA ANPC transfere anualmente para o Fundo de Proteção Social do Bombeiro um montante equivalente a 3 % da verba anualmente transferida para as AHB nos termos do artigo 5.º"
+  },
+  "117139041": {
+   "fragment_id": "70052117",
+   "type": 11,
+   "heading": "Artigo 9.º — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Deveres de informação\n\n1 - O financiamento das AHB está sujeito ao princípio da transparência, que se traduz num dever de resposta, a quaisquer pedidos de informação realizados pela ANPC, num prazo nunca superior a 15 dias úteis.\n\n2 - Sem prejuízo das demais obrigações legais, as AHB depositam as suas contas junto da ANPC."
+  },
+  "117139042": {
+   "fragment_id": "70052118",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação\n\n1 - O Estado, através da ANPC, procede ao acompanhamento e à avaliação sistemática da aplicação dos financiamentos atribuídos às AHB, visando uma maior racionalização dos recursos financeiros e a eficiente alocação daqueles recursos aos corpos de bombeiros e às suas missões.\n\n2 - No âmbito da sua atividade, a ANPC promove auditorias e fiscaliza o uso e a finalidade dos apoios financeiros atribuídos nos termos dos artigos 4.º e 6.º"
+  },
+  "117139043": {
+   "fragment_id": "70052119",
+   "type": 11,
+   "heading": "Artigo 11.º — Incumprimento pelas associações humanitárias de bombeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Incumprimento pelas associações humanitárias de bombeiros\n\n1 - A dotação financeira atribuída nos termos do artigo 4.º pode ser suspensa, mediante parecer da ANPC e despacho do membro do Governo responsável pela área da administração interna, em caso de:\n\na) Alocação da dotação financeira a outro fim não previsto na presente lei;\n\nb) Incumprimento reiterado, por parte das AHB, das obrigações previstas na lei.\n\n2 - A suspensão referida no número anterior mantém-se até à regularização do cumprimento de todas as obrigações das AHB e das situações que deram origem à suspensão."
+  },
+  "117139044": {
+   "fragment_id": "70052120",
+   "type": 11,
+   "heading": "Artigo 12.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Norma transitória\n\n1 - A partir da data da entrada em vigor da presente lei e até 31 de dezembro de 2015, o valor a transferir para cada AHB em cada mês é 1/12 do valor obtido, aplicando o n.º 2 do artigo 4.º, sendo o orçamento de referência 110 % do valor distribuído em 2014 no âmbito do Programa Permanente de Cooperação (PPC).\n\n2 - Em qualquer caso, o financiamento a atribuir a cada AHB, em 2015, não pode ser inferior a 103 % do montante atribuído através do PPC em 2014, nem superior a 125 % daquele montante, não sendo aplicável o disposto no n.º 6 do artigo 4.º\n\n3 - O valor da variável Ri, prevista no n.º 3 do artigo 4.º, é calculado até 31 de dezembro de 2016 de acordo com 14 das cartas de suscetibilidade, em escala 1/250.000, que integram a secção ii da parte iv do novo Plano Nacional de Emergência, com a ponderação indicada no anexo à presente lei, da qual faz parte integrante."
+  },
+  "117139045": {
+   "fragment_id": "70052121",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma revogatória\n\nSão revogados o artigo 31.º da Lei n.º 32/2007, de 13 de agosto, e a Portaria n.º 76/2013, de 18 de fevereiro, exceto para os efeitos previstos no artigo anterior."
+  },
+  "117139046": {
+   "fragment_id": "70052122",
+   "type": 11,
+   "heading": "Artigo 14.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do mês seguinte ao da sua publicação.\n\nAprovada em 26 de junho de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 3 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 5 de agosto de 2015.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "117139047": {
+   "fragment_id": "70052123",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 4.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 4.º)\n\n(ver documento original)"
+  }
+ }
+}

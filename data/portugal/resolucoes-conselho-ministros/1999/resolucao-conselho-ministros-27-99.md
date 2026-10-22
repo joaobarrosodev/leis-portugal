@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:549576:por
+title: Resolução do Conselho de Ministros n.º 27/99
+short_title: null
+summary: Adopta o Plano de Desenvolvimento Sustentável da Floresta Portuguesa
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 27/99
+official_date: null
+publication_date: '1999-04-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 82/1999, Série I-B de 1999-04-08
+  number: '82'
+  series: I
+  supplement: null
+  pages: 1906 - 1906
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/04/082b00/19061906.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/27/1999/04/08/p/dre/pt/html
+  oj: null
+  dre: '549576'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/27-1999-549576
+  internal: pt:dre:549576:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-1999-549576
+  metadata_url: https://data.dre.pt/eli/resolconsmin/27/1999/04/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-1999-549576
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-04-08T00:00:00Z'
+integrity:
+  source_sha256: 1ecdc7c0dd93a6502e012da46eb6f4549a0eeca3a1ebf2fcff9ff322677f75ec
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-27-549576.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ministério da Agricultura Desenvolvimento Rural e Pescas
+- Definição de Competências
+- Direcção Geral das Florestas
+- Proteção da Floresta
+- Plano de Desenvolvimento
+- Exploração Florestal
+- Autoridade Florestal Nacional
+- Recursos Naturais
+- Política Florestal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/256/1997/09/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/256/1997/09/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 27/99
+
+As zonas rurais ocupam cerca de 80% do território nacional e nelas reside aproximadamente um terço da população. A grande influência da actividade humana ao longo da história determinou uma diversidade da paisagem do mundo rural com uma marcada integração da agricultura, silvicultura e pecuária, cujos valores são hoje reconhecidamente determinantes para um desenvolvimento sustentável do País.
+
+A importância das actividades agro-florestais nas zonas rurais decorre não só do facto de a maior parte do solo nacional se encontrar afecto à agricultura, à silvicultura, à pecuária e a outras actividades com elas relacionadas mas também do facto de estas actividades prosseguirem objectivos de multifuncionalidade inegáveis e insubstituíveis, uma vez que aos objectivos de natureza económica estão normalmente associados objectivos de natureza ambiental e social.
+
+A floresta, ocupando cerca de 37% do território, em regime de propriedade marcadamente privada, é um recurso renovável essencial para a produção de bens e serviços indispensáveis à vida em geral e às necessidades da sociedade em particular.
+
+Internacionalmente, Portugal tem participado num vasto conjunto de iniciativas para a protecção, conservação e uso racional e equilibrado dos recursos florestais e para a promoção e reforço de uma gestão florestal sustentável. Em termos nacionais, foi aprovada uma lei de bases da política florestal, correspondendo às expectativas da generalidade dos agentes do sector, com vista à modernização do quadro legal existente e sua adaptação às necessidades e exigências de uma sociedade em rápida e contínua transformação e onde os imperativos ambientais e sociais são cada vez mais determinantes.
+
+O desenvolvimento florestal, nas suas vertentes ambiental, económica, social e cultural, representa um desafio fundamental para Portugal.
+
+Estando o sector florestal identificado como uma prioridade no Programa do Governo, foi acordado entre este e os parceiros sociais, no âmbito do Acordo de Concertação Estratégica para o período de 1996-1999, considerar no quadro das orientações estratégicas e dos objectivos operacionais a necessidade de promover o desenvolvimento sustentável do sector florestal quer numa óptica de competitividade quer numa perspectiva de salvaguarda e valorização dos recursos naturais e do ambiente.
+
+A posição da União Europeia relativamente à floresta tem vindo a evoluir no sentido não só de reconhecer a sua relevância em termos económicos e sociais mas também no que se refere à preservação dos recursos naturais e do ambiente num contexto global, a que não é alheia a questão da ocupação, do ordenamento e da gestão do território comunitário. Reconhece-se, aliás, esta preocupação nas propostas de reformulação da PAC integradas na Agenda 2000.
+
+Por outro lado, a visão estratégica associada a um modelo de desenvolvimento sustentável da economia e da sociedade portuguesa, em que assumam papel importante o território e os recursos naturais, não pode deixar de considerar a floresta em todas as suas valências e potencialidades. Esta realidade está já presente nos trabalhos preparatórios do Plano Nacional de Desenvolvimento Económico e Social de médio prazo e deverá ser adequadamente integrada no Programa de Desenvolvimento Regional em que se apoiará a elaboração do próximo Quadro Comunitário de Apoio para o período de 2000-2006.
+
+O Plano de Desenvolvimento Sustentável da Floresta Portuguesa, elaborado pelo Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, com a colaboração activa de outros departamentos ministeriais e dos parceiros sociais, enquadra-se claramente nos princípios e objectivos acima referenciados e configura-se como um referencial obrigatório de uma acção de mobilização nacional em torno da problemática florestal.
+
+Assim, nos termos da alínea g) do artigo 199.º da Constituição da República Portuguesa, o Conselho de Ministros decidiu:
+
+1 - Adoptar o Plano de Desenvolvimento Sustentável da Floresta Portuguesa como um quadro orientador da política para o sector florestal e referencial dinâmico para a acção coordenada da Administração Pública e dos agentes do sector e para o desenvolvimento de parcerias adequadas, com o objectivo de responder às necessidades próprias de um modelo de desenvolvimento económico e social sustentado e às exigências e expectativas da sociedade no que se refere à conservação e valorização dos recursos naturais e ambientais.
+
+2 - Incumbir o Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, em articulação com os vários departamentos ministeriais, de acordo com as respectivas áreas de competência, de promover, estudar e propor a concepção, o desenvolvimento e a aplicação das medidas e dos instrumentos de política apropriados à realização dos objectivos gerais e específicos estabelecidos no Plano de Desenvolvimento Sustentável da Floresta Portuguesa.
+
+3 - Cometer à autoridade florestal nacional, tal como definida na [Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/lei/33-1996-406293), de 17 de Agosto, Lei de Bases da Política Florestal, e no [Decreto-Lei n.º 256/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1997-658771), de 27 de Setembro, que investe a Direcção-Geral das Florestas em funções de autoridade florestal nacional, a coordenação da implementação do Plano de Desenvolvimento Sustentável da Floresta Portuguesa, bem como todos os trabalhos necessários à sua monitorização, acompanhamento e revisão.
+
+4 - Determinar ao Ministério de Agricultura, do Desenvolvimento Rural e das Pescas a elaboração e divulgação de um relatório anual de execução do Plano de Desenvolvimento Sustentável da Floresta Portuguesa.
+
+5 - Reconhecer as múltiplas contribuições e o trabalho desenvolvido por todos os intervenientes na elaboração deste Plano, garantindo desta forma a disponibilidade de um instrumento de intervenção orientador, integrador e claramente mobilizador de iniciativas e de interesses públicos e privados.
+
+Presidência do Conselho de Ministros, 18 de Março de 1999. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

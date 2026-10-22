@@ -1,0 +1,1225 @@
+---
+schema_version: '1.0'
+id: pt:dre:401755:por
+title: Decreto-Lei n.º 375/74
+short_title: null
+summary: Aprova a reforma fiscal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento
+proposing_entity: null
+official_number: 375/74
+official_date: null
+publication_date: '1974-08-20'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 193/1974, 1º Suplemento, Série I de 1974-08-20
+  number: '193'
+  series: I
+  supplement: 1º Suplemento
+  pages: 918-(1) a 918-(14)
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/08/19301/00010014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1988-01-31'
+version_history:
+  file: decreto-lei-375-74.versoes.json
+  count: 10
+  source_lastmod: '2024-12-17'
+  versions:
+  - date: '1974-08-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1974-09-17'
+    amending: pt:dre:473731:por
+    amending_title: Decreto-Lei n.º 445/74
+    changes:
+    - Altera Artigo 5.º
+  - date: '1974-10-15'
+    amending: pt:dre:472112:por
+    amending_title: Rectificação
+    changes:
+    - Retifica Artigo 24.º
+    - Retifica Parte
+  - date: '1975-01-04'
+    amending: pt:dre:461400:por
+    amending_title: Decreto-Lei n.º 756/74
+    changes:
+    - Altera Parte
+  - date: '1975-07-01'
+    amending: pt:dre:158395:por
+    amending_title: Decreto-Lei n.º 209/75
+    changes:
+    - Altera Anexo
+  - date: '1983-06-06'
+    amending: pt:dre:245347:por
+    amending_title: Decreto-Lei n.º 235-F/83
+    changes:
+    - Altera Artigo 27.º
+  - date: '1986-01-24'
+    amending: pt:dre:192247:por
+    amending_title: Decreto-Lei n.º 13/86
+    changes:
+    - Revoga Artigo 5.º
+  - date: '1986-05-02'
+    amending: pt:dre:402909:por
+    amending_title: Lei n.º 9/86
+    changes:
+    - Altera Artigo 27.º
+  - date: '1986-07-02'
+    amending: pt:dre:228595:por
+    amending_title: Decreto-Lei n.º 167/86
+    changes:
+    - Altera Artigo 27.º
+  - date: '1988-01-31'
+    amending: pt:dre:662751:por
+    amending_title: Lei n.º 2/88
+    changes:
+    - Altera Artigo 27.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/375/1974/p/cons/19880126/pt/html
+  oj: null
+  dre: '401755'
+  dre_path: /dr/detalhe/decreto-lei/375-1974-401755
+  internal: pt:dre:401755:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/375-1974-401755
+  metadata_url: https://data.dre.pt/eli/dec-lei/375/1974/p/cons/19880126/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1974-900538614
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1974-900538614
+  retrieved_at: '2026-10-22T13:20:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-12-17T00:00:00Z'
+integrity:
+  source_sha256: 4a423296addd6a4795f4326538c397cad246eef51e364332814d93f1eed71c2b
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:20:34Z'
+  notes: 10 versão(ões); histórico completo em decreto-lei-375-74.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Apostas Mútuas Desportivas
+- Arrendamento Urbano não Habitacional
+- Arrendamento Urbano para Habitação
+- Benefícios Fiscais
+- Cobrança de Dívidas
+- Cobrança de Impostos
+- Comércio
+- Contratação Pública
+- Contrato Administrativo
+- Contribuição Industrial
+- Contribuições e Impostos
+- Crustáceo
+- Dívida
+- Dívidas ao Estado
+- Empresa
+- Execução Fiscal
+- Exploração Agrícola
+- Exploração Florestal
+- Exploração Pecuária
+- Funcionário Público
+- Importação
+- Imposto Complementar
+- Imposto Profissional
+- Imposto de Transacções
+- Imposto sobre a Indústria Agrícola
+- Indústria
+- Isenção Fiscal
+- Obras Públicas
+- Pagamento
+- Pesca
+- Política Fiscal
+- Processo de Execução
+- Prédio Rústico
+- Prédio Urbano
+- Remuneração
+- TAXA Contributiva
+relationships:
+- type: amended_by
+  target: pt:dre:473731:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731
+  date: '1974-09-12'
+- type: amended_by
+  target: pt:dre:472112:por
+  label: Retifica Artigo 24.º; Retifica Parte
+  source: https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112
+  date: '1974-10-15'
+- type: amended_by
+  target: pt:dre:461400:por
+  label: Altera Parte
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400
+  date: '1974-12-30'
+- type: amended_by
+  target: pt:dre:158395:por
+  label: Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395
+  date: '1975-04-18'
+- type: amended_by
+  target: pt:dre:245347:por
+  label: Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-f-1983-245347
+  date: '1983-06-01'
+- type: amended_by
+  target: pt:dre:192247:por
+  label: Revoga Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1986-192247
+  date: '1986-01-23'
+- type: amended_by
+  target: pt:dre:402909:por
+  label: Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909
+  date: '1986-04-30'
+- type: amended_by
+  target: pt:dre:228595:por
+  label: Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1986-228595
+  date: '1986-06-27'
+- type: amended_by
+  target: pt:dre:662751:por
+  label: Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751
+  date: '1988-01-26'
+article_structure:
+  article_count: 31
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:20:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 375/74
+
+Decreto-Lei n.º 375/74
+
+de 20 de Agosto
+
+1. A reforma fiscal é tarefa prioritária do Governo Provisório.
+
+Exige-a o Programa do Movimento das Forças Armadas, hoje lei constitucional, ao determinar que sejam lançados os fundamentos de «uma nova política económica, posta ao serviço do povo português, em particular das camadas da população até agora mais desfavorecidas, tendo como preocupação imediata a luta contra a inflação e a alta excessiva do custo de vida, o que necessariamente implicará uma estratégia antimonopolista».
+
+Estabelece-a o programa do Governo Provisório ao prever a «reforma do sistema tributário, tendente à sua racionalização e à atenuação da carga fiscal sobre as classes desfavorecidas, com vista a uma equitativa distribuição do rendimento».
+
+O processo susceptível de conduzir a uma reforma substancial do sistema tributário terá, porém, de ser longo e complexo. Há que fixar objectivos que dependem de delicadas opções políticas. Há que preparar cuidadosos trabalhos de análise económica e jurídica para se identificarem as soluções mais apropriadas. E há que reestruturar os serviços da administração fiscal por forma a responder às exigências do sistema que venha a ser estabelecido. Nada disto se pode conseguir em pouco tempo. De pouco valerá, por exemplo, modificar as regras e o alcance das leis tributárias sem um período prévio para adequada reorganização e apetrechamento dos serviços encarregados de assegurar a sua execução.
+
+Nestes termos, e tendo em conta o curto período que decorreu desde o início da actividade do Governo Provisório, as disposições promulgadas no presente diploma constituem apenas um primeiro passo, necessariamente muito modesto, no domínio da reforma fiscal.
+
+Corrigem-se algumas distorções mais gritantes do sistema e inicia-se uma simplificação que terá de se acentuar. Contribui-se em grau já significativo, ainda que insuficiente, para tornar mais equitativa a distribuição da carga fiscal, nomeadamente através da redução do seu peso sobre as classes de rendimentos mais baixos. Atende-se aos imperativos da política orçamental, procurando alguns aumentos de receitas tributárias, embora respeitando rigorosamente os limites impostos pela actual conjuntura económica, que aconselha o adiamento de certas medidas e a antecipação de outras.
+
+Mas outras providências de maior alcance terão de ser tomadas no futuro, segundo um plano por fases escalonadas no tempo. Na próxima fase que, segundo se espera, virá a efectuar-se dentro de poucos meses, prosseguir-se-á com a orientação agora iniciada. Procurar-se-á a correcção de distorções que ainda subsistem, muitas delas da maior relevância mas de eliminação difícil, como são as que resultam de uma evasão bastante acentuada. Adequar-se-á mais estreitamente a política fiscal aos imperativos de maior justiça social, nomeadamente pela intensificação da personalização do imposto. Considerar-se-á em especial a modificação das regras existentes em matéria de tributação de lucros das sociedades e de rendimentos dos títulos ao portador, a fim de corrigir as distorções e a falta de equidade que daí resultam. Promover-se-á a melhor adaptação da estrutura tributária aos objectivos da política de desenvolvimento económico. Prosseguir-se-á a reestruturação dos serviços, por forma a garantir uma acção fiscal mais efectiva e a criar condições para a introdução das mudanças programadas para o futuro.
+
+A reforma fiscal mais completa e desenvolvida só virá em fases posteriores. Para a realizar serão necessários estudos e trabalhos preparatórios necessariamente demorados e que envolvam mesmo alterações na actual orgânica dos serviços fiscais.
+
+2. Apesar das modificações projectadas para fases posteriores, as disposições do presente diploma marcam já, como acima se referiu, um primeiro passo no sentido da maior equidade na distribuição da carga tributária e da melhor adaptação do sistema fiscal aos objectivos do desenvolvimento económico e social. Assim, no domínio dos impostos directos:
+
+Eleva-se de 30 para 50 contos a isenção do imposto profissional, diminuem-se as taxas nos escalões de rendimento tributável por esse imposto até 100 contos por ano e aumentam-se de forma progressiva as taxas estabelecidas para os escalões de rendimento superior a 300 contos, embora sem ultrapassar o limite máximo existente, que é já bastante elevado;
+
+Alargam-se as deduções relativas a rendimentos do trabalho e a filhos e enteados menores, no âmbito do imposto complementar, e torna-se esse imposto mais progressivo, não obstante a eliminação do adicional introduzido em Junho de 1972;
+
+Isenta-se de contribuição industrial os pescadores que exerçam directamente a pesca em regime de companha, sem intervenção de capital estranho, e eleva-se o limite das deduções admitidas a título de remuneração normal do trabalho dos contribuintes e seus familiares que exploram directamente pequenos estabelecimentos dos sectores da indústria ou dos serviços tributáveis no grupo C;
+
+Eleva-se para 2000$00 a isenção da contribuição predial rústica dos prédios possuídos por cada contribuinte em cada concelho e estabelece-se a isenção da mesma contribuição para os rendimentos colectáveis até 5000$00, quando a propriedade seja explorada pelo próprio, com benefício evidente para mais de metade das pequenas explorações rurais, mesmo após a actualização dos rendimentos matriciais que se mostrem mais afastados da realidade;
+
+Penaliza-se, no âmbito da contribuição predial, a posse de prédios rústicos incultos ou insuficientemente cultivados por culpa do proprietário e a posse de terrenos inactivos que sejam aptos para construções consideradas convenientes sob o ponto de vista social e urbanístico;
+
+Proíbe-se as empresas de pagar o imposto profissional e outros encargos legais que recaiam sobre as remunerações do trabalho, a fim de corrigir as distorções e injustiças que resultam desse sistema, sendo, porém, as respectivas importâncias incorporadas naquelas remunerações;
+
+Reintroduz-se o imposto sobre a indústria agrícola, restaurando neste sector o equilíbrio da justiça tributária, profundamente afectado por uma suspensão que somente beneficiou os empresários de grandes explorações agrícolas, dado que só em relação a esses se presumiam lucros tributáveis significativos, depois de pagos os custos dos factores de produção; estabelece-se, todavia, a isenção desse imposto para os lucros tributáveis até 100 contos, a fim de, nesta fase inicial, em que há maiores dificuldades de liquidação, evitar a sobrecarga dos serviços fiscais com um grande volume de cobranças, de valor comparativamente reduzido; tudo recomenda, porém, que esse limite venha a ser revisto, depois de se ter ganho maior experiência e de se dispor de melhores mecanismos de liquidação, a fim de estabelecer um maior equilíbrio em relação aos limites de isenção de outros impostos.
+
+3. Várias das medidas que acabam de ser descritas, nomeadamente as que se referem ao alargamento ou estabelecimento de isenções ou reduções fiscais a favor dos rendimentos mais baixos, implicam diminuições importantes das receitas fiscais. A necessidade, hoje mais sentida do que nunca, de responder às solicitações de que o Estado é objecto em todos os sectores da vida nacional, exigiu que se procurasse noutras fontes a compensação para essa diminuição de receitas e simultaneamente parte dos recursos necessários para fazer face a aumentos inevitáveis das despesas públicas.
+
+Procurou-se que os necessários aumentos de impostos fossem um instrumento eficaz de política económica e não determinassem uma maior carga fiscal para as classes de baixos rendimentos.
+
+Foram estes objectivos que orientaram as modificações atrás descritas no sistema de tributação directa - isto é, a que incide sobre os rendimentos efectivamente recebidos por cada pessoa ou empresa.
+
+Daí os aligeiramentos da carga fiscal sobre os rendimentos mais modestos, os agravamentos das taxas dos impostos profissional e complementar sobre os rendimentos mais elevados e a reintrodução do imposto sobre a indústria agrícola.
+
+Contudo, o sistema fiscal português continua a depender em grau elevado dos impostos indirectos - aqueles que incidem sobre os bens sem atender à riqueza dos que compram ou vendem esses mesmos bens.
+
+Não é possível, a curto prazo, alterar esta situação.
+
+A fiscalidade indirecta terá, portanto, de contribuir com uma parcela importante do aumento das receitas. Procurou-se, todavia, que os aumentos dos impostos indirectos que agora se estabelecem incidam fundamentalmente sobre produtos de luxo ou sobre produtos que são menos essenciais ao consumo.
+
+Assim:
+
+Actualiza-se o imposto do selo, alterando algumas das suas taxas em virtude da variação do valor da moeda e modificando a tributação do contrato de arrendamento, por forma a substituir o selo fixo, até agora aplicável a qualquer contrato, por um sistema com duas taxas proporcionais para os arrendamentos urbanos, uma para as rendas até 10000$00 por mês e outra, mais pesada, para as rendas superiores a esse valor e com total isenção para os arrendamentos de prédios rústicos de renda anual até 10000$00;
+
+Cria-se um imposto do selo sobre as apostas mútuas desportivas, designadamente as do Totobola, embora fixando a respectiva taxa a nível mais modesto do que o de outras apostas mútuas, dadas as suas características populares;
+
+Estabelece-se o imposto do selo para os contratos administrativos de concessão de obras e serviços públicos, nos mesmos termos que os de empreitadas e fornecimento, por se considerar que as características comuns a uns e a outros justificam idêntico tratamento no âmbito deste imposto;
+
+Aumenta-se a tributação sobre o consumo da cerveja, fundamentalmente por virtude do seu interesse como fonte de receita fiscal, conseguida à custa de pequeno sacrifício do consumidor;
+
+Mantém-se a estrutura actual do imposto de transacções, conservando-se as isenções que protegem os bens de consumo essenciais e a taxa básica de 7%, para não agravar o custo de vida das classes menos favorecidas, mas elevando para 15% e 25%, respectivamente, as actuais taxas de 12% e 20% sobre bens que, na actual fase do desenvolvimento nacional não podem considerar-se essenciais para o consumo na generalidade dos portugueses, e introduzindo várias alterações nas listas dos produtos sujeitos a essas taxas mais agravadas.
+
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:
+
+## Parte — A - Contribuição predial e imposto sobre a indústria agrícola
+
+###### Artigo 1.º
+
+- 1. É reposto em vigor o imposto sobre a indústria agrícola, estabelecido no Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, suspenso pelo artigo 1.º do Decreto-Lei n.º 46496, de 18 de Agosto de 1965.
+
+2. É elevado para 100000$00 o limite de isenção do lucro anual das explorações agrícolas, silvícolas e pecuárias estabelecido no artigo 319.º do Código.
+
+3. Os contribuintes cujos rendimentos colectáveis passíveis de tributação em imposto sobre a indústria agrícola sejam, na média dos últimos três anos, superiores a 500000$00 são obrigados a possuir escrita devidamente organizada nos termos do artigo 323.º do Código, com a redacção que lhe foi dada pelo Decreto-Lei n.º 46369, de 7 de Junho de 1965, a partir do ano imediato ao da fixação do rendimento tributável do último daqueles três anos.
+
+4. A infracção ao disposto no número anterior será punida com a multa de 50000$00 a 500000$00, a aplicar nos termos do Código de Processo das Contribuições e Impostos, sem prejuízo do disposto no artigo 323.º, alínea b), do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola.
+
+###### Artigo 2.º
+
+- 1. Ficam isentos de contribuição predial os rendimentos colectáveis rústicos, cuja soma em cada concelho ou bairro e por cada titular do rendimento não seja superior a 2000$00, e, bem assim, os rendimentos colectáveis dos prédios rústicos, quando cultivados pelos próprios contribuintes, desde que o rendimento colectável global por cada titular no território do continente e ilhas não exceda 5000$00.
+
+2. Para efeitos do disposto no número anterior, devem os titulares dos rendimentos requerer o averbamento, em seu nome, na matriz dos prédios ou partes de prédios que lhes pertençam ou de que tenham efectiva posse ou fruição, independentemente de quaisquer outras formalidades.
+
+3. A isenção estabelecida na segunda parte do n.º 1 do presente artigo só se aplica aos contribuintes que o solicitem, devendo, para o efeito, apresentar, até 30 de Abril de cada ano, na repartição de finanças da situação dos prédios, uma declaração, segundo modelo a aprovar oficialmente de que conste o montante global dos rendimentos dos seus prédios rústicos que por si sejam directamente cultivados.
+
+4. A inexactidão das declarações a que se refere o número anterior e as omissões nelas praticadas serão punidas com multa correspondente ao triplo devido, quando dolosa, ou igual ao montante do imposto, quando cometida por mera negligência.
+
+5. O rendimento colectável dos prédios rústicos, bem como o de prédios urbanos não arrendados, será corrigido por factores de actualização a fixar por portaria do Secretário de Estado do Orçamento, tendo em conta a data da inscrição na matriz ou da última avaliação, segundo índices que exprimam as variações sofridas pelos rendimentos e os demais critérios aplicáveis nos termos do Decreto-Lei n.º 45104, de 1 de Julho de 1963.
+
+###### Artigo 3.º
+
+- 1. A taxa da contribuição predial rústica poderá, por proposta da Secretaria de Estado da Agricultura, ser elevada para 25% no primeiro ano, 40% no segunda e 50% nos seguintes, em relação aos prédios rústicos que, por razões imputáveis aos respectivos titulares, não sejam cultivados na sua totalidade ou em parte ou neles não se atinjam níveis de produtividade permitidos pelas potencialidades dos solos.
+
+2. O agravamento das taxas fixadas no número anterior cessará logo que a Secretaria de Estado da Agricultura comunique aos serviços tributários que aos prédios foi dada a aplicação havida por conveniente.
+
+###### Artigo 4.º
+
+- 1. As câmaras municipais do continente e ilhas adjacentes deverão organizar um cadastro dos terrenos para construção imediata, nos termos do artigo 7.º, n.º 1, do Decreto-Lei n.º 576/70, de 24 de Novembro.
+
+2. Os proprietários dos terrenos compreendidos no cadastro a que se refere o número anterior serão notificados para, no prazo de sessenta dias, declararem na câmara municipal o valor que lhes atribuem, o qual só poderá ser alterado por nova declaração apresentada na câmara municipal.
+
+3. O valor declarado pelos proprietários será comunicado, no prazo de trinta dias, à respectiva repartição de finanças, acompanhado dos demais elementos necessários à inscrição matricial, considerando-se, para este efeito, como rendimento colectável a vigésima parte desse valor.
+
+4. Os terrenos a que se refere o presente artigo ficam sujeitos a contribuição predial urbana às taxas de 20% no primeiro ano, 30% no segundo e 40% nos seguintes, a qual cessará unicamente a partir do ano imediato ao do início da construção.
+
+5. A tributação estabelecida no número anterior cessará igualmente nos casos em que o proprietário conceda à câmara municipal a promoção da venda do terreno em hasta pública, podendo esta cobrar, no caso de a venda se realizar, a taxa de 10% sobre o valor da transacção; no caso de a praça ficar deserta, restabelece-se o direito da tributação, salvo se o proprietário declarar novo valor para efeitos de nova praça e dos n.os 2 e seguintes.
+
+6. A câmara municipal poderá usar do direito de expropriação pelo valor declarado, ou usar do direito de preferência, por esse valor, em qualquer caso de alienação que não seja em hasta pública por ela realizada.
+
+> Revogado pelo/a Artigo 15.º do/a [Lei n.º 4/81 - Diário da República n.º 95/1981, 1º Suplemento, Série I de 1981-04-24](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), produz efeitos a partir de 1974-08-25
+
+###### Artigo 5.º
+
+A contribuição predial respeitante a prédios urbanos de habitação desocupados fica sujeita às seguintes regras:
+
+1.ª [Revogada.]
+
+2.ª Os prédios construídos de novo e destinados a arrendamento ficam sujeitos a tributação, salvo nos casos em que exista lei especial em contrário, nos termos seguintes:
+
+a) A partir da data em que sejam habitáveis ou, nos casos em que a lei estabeleça prazo ou condicionalismo para o arrendamento, logo que decorra o referido prazo ou logo que seja verificado o condicionalismo ou decorrido o tempo em que deveria ser cumprido, quando dependa do respectivo titular;
+
+b) A partir da data da ocupação, se esta for anterior a qualquer dos prazos previstos na alínea precedente.
+
+3.ª A contribuição predial nos casos estabelecidos na regra anterior incidirá, salvo disposição legal em contrário, sobre o rendimento fixado por avaliação, quando não houver título de arrendamento.
+
+4.ª A sujeição a contribuição predial urbana dos prédios construídos de novo e destinados a venda começará depois de decorridos seis meses após a construção, se outro prazo não for estabelecido por lei, ou se a não alienação não for imputável ao proprietário.
+
+5.ª [Revogada.]
+
+> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 13/86 - Diário da República n.º 19/1986, Série I de 1986-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1986-192247), em vigor a partir de 1986-01-24
+
+> Alterado pelo/a Artigo 15.º do/a [Lei n.º 4/81 - Diário da República n.º 95/1981, 1º Suplemento, Série I de 1981-04-24](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), produz efeitos a partir de 1974-08-25
+
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 445/74 - Diário do Governo n.º 213/1974, Série I de 1974-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), em vigor a partir de 1974-09-17
+
+## Parte — B - Imposto profissional
+
+###### Artigo 6.º
+
+É elevado para 50000$00 o limite de isenção fixado no artigo 5.º do Código do Imposto Profissional.
+
+###### Artigo 7.º
+
+As taxas do imposto profissional fixadas no artigo 21.º do Código passam a ser as seguintes:
+
+(ver documento original)
+
+###### Artigo 8.º
+
+A tabela das actividades exercidas por conta própria a que se referem os artigos 2.º, alínea c), 10.º e 31.º do Código do Imposto Profissional é substituída pela tabela anexa ao presente decreto-lei.
+
+## Parte — C - Contribuição industrial
+
+###### Artigo 9.º
+
+É restabelecida a isenção do n.º 23.º do artigo 14.º do Código da Contribuição Industrial, que havia sido eliminado pelo artigo 2.º do Decreto-Lei n.º 237/70, de 25 de Maio, e que passará a abranger também os pescadores que exerçam directamente a pesca em regime de companha, mas sem intervenção de capital estranho.
+
+###### Artigo 10.º
+
+É elevada para 30000$00 a importância estabelecida no § único do artigo 66.º do Código da Contribuição Industrial, como limite da remuneração normal do trabalho do contribuinte e de cada um dos seus familiares não empregados ou assalariados, a considerar para efeitos da fixação dos lucros tributáveis no grupo C.
+
+###### Artigo 11.º
+
+Considera-se abolido, a partir do dia 1 de Setembro de 1974, o regime especial da contribuição industrial a que estão sujeitos os emolumentos e outros proventos dos funcionários públicos, revisto pela Lei n.º 1368, de 21 de Setembro de 1922, e regulamentado pelo Decreto n.º 8603, de 27 de Janeiro de 1923, e demais legislação complementar.
+
+## Parte — D - Imposto complementar
+
+###### Artigo 12.º
+
+Na execução do artigo 29.º do Código do Imposto Complementar a percentagem de 20% a deduzir aos rendimentos do trabalho, bem como o limite máximo, que é elevado para 25000$00, serão aplicados em relação a cada uma das pessoas que auferem esses rendimentos.
+
+###### Artigo 13.º
+
+As deduções ao rendimento global líquido, estabelecidas na alínea a) do artigo 29.º do Código por cada filho ou enteado menor, não emancipado, que não seja contribuinte do imposto complementar, são elevadas para os seguintes valores:
+
+De mais de 16 a 21 anos ... 16000$00
+
+De mais de 11 a 16 anos ... 12000$00
+
+De mais de 7 a 11 anos ... 8000$00
+
+Até 7 anos ... 4000$00
+
+###### Artigo 14.º
+
+A tabela das taxas do imposto complementar, secção A, com a redacção dada ao corpo do artigo 33.º do Código deste imposto pelo artigo 7.º do Decreto-Lei n.º 718/73, de 31 de Dezembro, é substituída pela seguinte:
+
+(ver documento original)
+
+###### Artigo 15.º
+
+É abolido o adicional criado pelo artigo 13.º do Decreto-Lei n.º 196/72, de 12 de Junho.
+
+## Parte — E - Imposto do selo
+
+###### Artigo 16.º
+
+- 1. É fixada em 10$00 a taxa do papel selado referido no artigo 6.º do Regulamento do Imposto do Selo, aprovado pelo Decreto n.º 12700, de 20 de Novembro de 1926, considerando-se alteradas em conformidade as taxas da Tabela Geral do Imposto do Selo, cujo pagamento deva ser feito por aquela forma.
+
+2. Continua em vigor, até à sua extinção, o papel já selado com a taxa de 6$00, devendo a diferença entre esta e a nova taxa ser completada por meio de estampilhas fiscais, coladas na parte superior do papel e inutilizadas nos termos gerais.
+
+3. A referida actualização será observada sempre que o imposto correspondente ao papel selado deva ou possa ser pago por meio de estampilha ou selo de verba.
+
+###### Artigo 17.º
+
+Os artigos 16, 28, 61-A e 92 da Tabela Geral do Imposto do Selo, passam a ter a seguinte redacção:
+
+ART. 16 - Arrendamento:
+
+I - Arrendamento de prédios urbanos:
+
+Sendo por escrito particular, cada folha - 10$00 (papel selado).
+
+Acresce, sobre a renda correspondente a um mês:
+
+No contrato de renda até 10000$00 - 3% (estampilha).
+
+Nos contratos de renda superior a 10000$00 - 6% (estampilha).
+
+Nos contratos de arrendamento de prédios urbanos feitos nos termos do Decreto n.º 5411, de 17 de Abril de 1919, só é sujeito a imposto o exemplar destinado à repartição de finanças.
+
+II - Arrendamento de prédios rústicos, de renda superior a 10000$00 anuais:
+
+Sendo feitos por escrito particular, cada folha - 10$00 (papel selado).
+
+Sobre a renda anual - 3% (estampilha).
+
+Aos contratos de arrendamento celebrados por escritura pública é aplicável o artigo 93, sendo as taxas proporcionais estabelecidas no presente artigo pagas por meio de selo de verba.
+
+Para efeitos de aplicação deste artigo, os arrendamentos nele abrangidos, quando feitos sem título, são equiparados aos feitos com título, nos termos e para os efeitos do artigo 69.º do Regulamento.
+
+O pagamento do imposto a que este artigo se refere cabe ao locador.
+
+...
+
+ART. 28 - Bilhetes de lotaria, rifa ou tômbola e matrizes de aposta mútua desportiva, quando legalmente autorizadas:
+
+Sobre o valor nominal de cada bilhete de lotaria, rifa ou tômbola - 20% (selo especial).
+
+A esta taxa acresce o selo do artigo 134 da Tabela.
+
+Apostas mútuas desportivas: sendo do Totobola, por cada grupo de duas apostas contidas em cada matriz - $50 (selo especial).
+
+Sendo qualquer outra aposta, sobre o respectivo valor - 20% (selo especial).
+
+O imposto sobre as matrizes de apostas mútuas é cobrado dos respectivos signatários pela entidade que as receber ou, relativamente às apostas do Totobola, pela Santa Casa da Misericórdia de Lisboa, e entregue por estas à Fazenda Nacional, por meio de guia, até ao último dia útil do mês imediato àquele a que respeitam as apostas. Ficam isentos os bilhetes das lotarias ou rifas do Governo, Misericórdias, hospitais ou estabelecimentos de caridade e associações de beneficência, e, bem assim, os de bazares ou quermesses de caridade.
+
+ART. 61-A - Contratos, precedidos ou não de concurso público, celebrados com o Estado, autarquias locais e suas federações e uniões ou pessoas colectivas de utilidade pública administrativa, relativos a empreitadas e fornecimentos e a concessão de obras e serviços públicos:
+
+Cada folha - 10$00 (papel selado ou estampilha). E de cada um, sobre o valor do contrato:
+
+De empreitada sem fornecimento de materiais pelo empreiteiro - 2(por mil) (estampilha).
+
+De fornecimento ou conjuntamente de empreitadas, ou de concessão de obras públicas - 3(por mil) (estampilha).
+
+Não sendo conhecido o valor do contrato, ou tratando-se de concessão de obras públicas e serviços públicos ou só de serviços:
+
+Sobre o valor da caução ou garantia para cumprimento do contrato - 5% (estampilha).
+
+Se não existir caução ou garantia para cumprimento do contrato - 300$00 (estampilha).
+
+Se a importância do imposto for superior a 1000$00, o pagamento será feito por meio de guia, referenciando-se no contrato o número e data da respectiva verba do pagamento e a tesouraria da Fazenda Pública onde o mesmo se efectuou.
+
+ART. 92 - Escritos particulares de confissão de dívida, consignação de rendimentos, hipoteca, penhor ou fiança ou de qualquer contrato, excluídos o mandato e o arrendamento - cada folha (ver nota a), 10$00 (papel selado).
+
+E de cada um - 50$00 (estampilha).
+
+Acresce o que competir à confissão de dívida ou ao contrato, segundo o que vai determinado nesta tabela.
+
+Todos os exemplares de um mesmo escrito particular são sujeitos, além do selo do papel, à taxa de 50$00, mas as taxas especiais dos contratos ou actos somente serão pagas num dos exemplares.
+
+Ficam isentos os escritos dos contratos de empréstimos de livros feitos por bibliotecas ou sociedades de instrução, os dos contratos que tiverem por objecto empréstimos de alfaias agrícolas, gados e sementes e, bem assim, os escritos das garantias desses empréstimos.
+
+(nota a) O selo do papel pode também ser pago a tinta de óleo e será pago por estampilha quando a hipoteca, o penhor ou a fiança forem escritos no papel em que já esteja a obrigação principal.
+
+###### Artigo 18.º
+
+São alteradas as taxas da Tabela Geral do Imposto do Selo não abrangidas pelos artigos anteriores, que passam a ser as seguintes:
+
+Artigo 4 - XVII, XXI, XXIII, XXV, XXXII, XXXVI e XL - 10$00;
+
+Artigo 17 - 15$00 (última taxa);
+
+Artigo 20 - 250$00;
+
+Artigo 44 - 15$00 (última taxa);
+
+Artigo 45 - 15$00 (última taxa);
+
+Artigo 46 - $20 (ver nota a);
+
+Artigo 47 - $20 (ver nota a);
+
+Artigo 56 - 10$00;
+
+Artigo 57 - 10$00;
+
+Artigo 58 - 10$00;
+
+Artigo 61 - 100$00 e 20$00 (segunda e terceira taxas, respectivamente);
+
+Artigo 68 - 200$00;
+
+Artigo 69 - 50$00;
+
+Artigo 86 - 10$00;
+
+Artigo 87 - 10$00;
+
+Artigo 88 - 10$00;
+
+Artigo 91 - 300$00 (última taxa);
+
+Artigo 93 - 250$00 (primeira taxa);
+
+Artigo 94-A - 10$00, 15$00, 10$00 e 5$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);
+
+Artigo 99-A - 10$00 (ambas as taxas);
+
+Artigo 100 - 50$00 (segunda taxa);
+
+Artigo 107 - 20$00;
+
+Artigo 112 - 7$50;
+
+Artigo 113 - 2$50;
+
+Artigo 116-A - 7$50 (primeira taxa);
+
+Artigo 119 - 10$00 (todas as taxas);
+
+Artigo 137 - 10$00 e 5$00 (duas últimas taxas);
+
+Artigo 138 - 10$00;
+
+Artigo 139 - 15$00 (última taxa);
+
+Artigo 142 - 2$50;
+
+Artigo 148 - 5$00 (primeira taxa);
+
+Artigo 149 - 10$00;
+
+Artigo 151 - 10$00;
+
+Artigo 153 - 10$00;
+
+Artigo 157 - 15$00 e 25$00 (segunda e terceira taxas, respectivamente);
+
+Artigo 158 - 10$00;
+
+Artigo 162 - 200$00.
+
+(nota a) Continuarão em vigor, até à sua completa extinção, e sem necessidade de aposição de novo selo, os cheques já selados com a taxa de $10.
+
+###### Artigo 19.º
+
+É aditada à alínea f) do artigo 141 da Tabela Geral do Imposto do Selo a regra 6.ª, com a seguinte redacção:
+
+...
+
+6.ª Nos recibos ou quitações por devolução de títulos, acções ou obrigações que tenham sido entregues ao Banco de Portugal em caução do desconto de livranças a taxa incide sobre o valor da livrança ou livranças descontadas, qualquer que seja a cotação dos títulos dados em penhor.
+
+###### Artigo 20.º
+
+O imposto do selo a que se refere o artigo 2.º do Decreto n.º 4692, de 12 de Julho de 1918, não será devido nos casos em que, nos termos do Decreto-Lei n.º 579/70, de 24 de Novembro, a transmissão dos títulos não esteja sujeita ao imposto sobre as sucessões e doações por avença, de que trata o artigo 182.º do respectivo Código.
+
+## Parte — F - Imposto de transacções
+
+###### Artigo 21.º
+
+O artigo 22.º do Código do Imposto de Transacções, com a redacção dada pelo artigo 13.º do Decreto-Lei n.º 653/70, de 28 de Dezembro, passa a ter a seguinte redacção:
+
+...
+
+a) Mercadorias constantes da lista C anexa ao Código - taxa de 15%;
+
+b) Mercadorias constantes da lista B anexa ao Código - taxa de 25%;
+
+c) Cerveja - taxa específica de 4$00 por litro.
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+###### Artigo 22.º
+
+São aprovadas as novas listas A, B e C anexas ao presente decreto-lei, as quais se consideram inseridas no Código do Imposto de Transacções para todos os efeitos legais.
+
+###### Artigo 23.º
+
+- 1. O imposto de transacções devido pelos crustáceos e ostras desembarcados ou vendidos no continente e ilhas adjacentes incidirá sobre o preço da venda efectuada na lota e será liquidado pelos organismos intervenientes nas vendagens, os quais o entregarão, por meio de guia do modelo n.º 3 anexa ao Código, devidamente adaptada, na competente tesouraria da Fazenda Pública, até ao fim do mês imediato ao da liquidação.
+
+2. O imposto devido pelos crustáceos e ostras importados será liquidado pelos serviços aduaneiros e pago segundo o estabelecido no Código para as demais importações.
+
+3. O imposto de transacções referido no n.º 1 será lançado em livro próprio do organismo interveniente nas vendagens, com indicação da data da transacção, nome e morada do adquirente, preço de venda e do imposto devido, sendo o encerramento feito mensalmente.
+
+4. Além das regras especificadas no presente artigo é aplicável às transacções a que o mesmo se reporta, com as necessárias adaptações, o regime do Código do Imposto de Transacções, entendendo-se que os organismos intervenientes nas vendagens substituem para todos os efeitos os produtores e grossistas, designadamente quanto às responsabilidades penais a estes atribuídas no Código.
+
+## Parte — G - Disposições diversas
+
+###### Artigo 24.º
+
+É concedido aos executados em processo de execução fiscal o prazo de trinta dias, a contar da data da entrada em vigor deste diploma, para efectuarem o pagamento voluntário da dívida exequenda, sem custas, encargos nem juros de mora.
+
+> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15
+
+###### Artigo 25.º
+
+- 1. A partir de 1 de Janeiro de 1975 não poderão as pessoas singulares ou colectivas que atribuam ou paguem remunerações pela prestação de trabalho tomar sobre si os impostos ou outros encargos legais devidos pelas pessoas que lhes prestarem os serviços.
+
+2. A infracção ao disposto no número anterior será punida com multa igual ao dobro dos impostos ou encargos indevidamente assumidos.
+
+3. A multa estabelecida no número antecedente será aplicada nos termos do Código de Processo das Contribuições e Impostos.
+
+###### Artigo 26.º
+
+As importâncias correspondentes aos impostos e outros encargos legais a que se refere o artigo anterior e que, à data da entrada em vigor do presente decreto-lei, vinham sendo suportados pelas empresas deverão ser acrescidos às respectivas remunerações.
+
+###### Artigo 27.º
+
+1 - As empresas comerciais ou industriais, e bem assim as empresas com escrita devidamente organizada que se dediquem a explorações agrícolas, silvícolas ou pecuárias, que efectuem despesas confidenciais ou não documentadas ficam sujeitas, para esse tipo de despesas, à taxa de contribuição industrial agravada em 20%.
+
+2 - A realização das despesas a que se refere o número anterior que ultrapassem 2% da facturação total constitui infracção punida com multa de igual montante.
+
+> Alterado pelo/a Artigo 57.º do/a [Lei n.º 2/88 - Diário da República n.º 21/1988, 1º Suplemento, Série I de 1988-01-26](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), em vigor a partir de 1988-01-31
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/86 - Diário da República n.º 145/1986, Série I de 1986-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1986-228595), em vigor a partir de 1986-07-02
+
+> Alterado pelo/a Artigo 58.º do/a [Lei n.º 9/86 - Diário da República n.º 99/1986, 2º Suplemento, Série I de 1986-04-30](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), em vigor a partir de 1986-05-02
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 235-F/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-f-1983-245347), em vigor a partir de 1983-06-06
+
+###### Artigo 28.º
+
+As disposições contidas no presente decreto-lei relativas à contribuição predial e ao imposto sobre a indústria agrícola aplicam-se aos rendimentos do ano de 1974 e seguintes, salvo quanto aos rendimentos colectáveis corrigidos nos termos do n.º 5 do artigo 2.º, cuja entrada em vigor será fixada pelo Secretário de Estado do Orçamento em despacho a publicar no Diário do Governo.
+
+###### Artigo 29.º
+
+- 1. As alterações ao Código do Imposto Profissional são aplicáveis aos rendimentos recebidos ou postos à disposição dos seus titulares no ano de 1974 e seguintes.
+
+2. As importâncias que, por virtude das alterações introduzidas no Código pelos artigos 6.º e 7.º do presente diploma, se considerem a mais deduzidas e entregues ao Estado serão, sempre que possível, compensadas nas importâncias a deduzir nas remunerações a pagar ou a atribuir até ao fim do ano em curso.
+
+3. As importâncias que não possam ser compensadas de conformidade com o número anterior serão restituídas nos termos do artigo 33.º do Código.
+
+###### Artigo 30.º
+
+As disposições dos artigos 9.º e 10.º aplicam-se aos lucros do exercício de 1974 e seguintes.
+
+###### Artigo 31.º
+
+As disposições dos artigos 12.º a 15.º aplicam-se aos rendimentos respeitantes ao ano de 1973 e seguintes.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
+
+Promulgado em 19 de Agosto de 1974.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO DE SPÍNOLA.
+
+## Anexo — Imposto profissional
+
+Tabela das actividades exercidas por conta própria a que se referem os artigos 2.º, alínea c), 10.º e 31.º do Código do Imposto Profissional e o artigo 8.º do Decreto-Lei n.º 375/74, de 20 de Agosto
+
+(ver documento original)
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 209/75 - Diário do Governo n.º 91/1975, Série I de 1975-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), em vigor a partir de 1975-07-01
+
+## Anexo — Imposto de transacções
+
+Listas a que se referem os artigos 5.º e 22.º do Código do Imposto de Transacções e o artigo 22.º do Decreto-Lei n.º 375/74.
+
+## Parte — LISTA A
+
+Transacções isentas de imposto
+
+1. Adubos.
+
+2. Aeronaves destinadas a serviços públicos de transportes regulares de passageiros ou mercadorias e os lubrificantes e combustíveis utilizados nas mesmas aeronaves.
+
+Esta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.
+
+Compreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados às referidas aeronaves e os correspondentes simuladores de voo.
+
+3. Água comum.
+
+Não se compreende nesta verba a água comum transaccionada em garrafas, garrafões, botijas, frascos ou outros recipientes análogos.
+
+4. Algodão hidrófilo.
+
+5. Almofadas, colchões e travesseiros com enchimento de palha ou folhelho.
+
+6. Animais vivos exclusiva ou principalmente destinados à alimentação, ao trabalho agrícola ou à reprodução.
+
+7. Aparelhos e artefactos de prótese destinados a substituir, no todo ou em parte, qualquer membro ou órgão do corpo humano e ainda os empregados para corrigir a audição e os utilizados para tratamento de fracturas.
+
+Compreendem-se nesta verba as partes, peças e acessórios dos aparelhos e artefactos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados.
+
+8. Aparelhos ortopédicos, compreendendo o calçado, cintas médico-cirúrgicas e meias medicinais.
+
+Compreendem-se nesta verba as partes, peças e acessórios dos aparelhos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados.
+
+9. Bagaço de azeitona e de outras oleaginosas.
+
+10. Cadeiras de rodas e veículos semelhantes, accionados manualmente ou por motor, para inválidos.
+
+Compreendem-se nesta verba as partes, peças e acessórios das cadeiras e veículos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados, excluindo-se, porém, os protectores, pneumáticos e câmaras-de-ar.
+
+11. Carvão mineral e vegetal, mesmo aglomerado, e coque.
+
+12. Electricidade.
+
+13. Embarcações de qualquer natureza não abrangidas pela verba n.º 16 da lista B.
+
+Com exclusão dos motores fora de borda, compreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados.
+
+14. Enxofre sublimado.
+
+15. Farinhas, resíduos e desperdícios das indústrias alimentares e quaisquer outros produtos próprios para alimentação de gados e aves de capoeira.
+
+16. Forragens e palha.
+
+17. Gás do petróleo e da hulha.
+
+18. Gasóleo e fuelóleo.
+
+19. Jornais e outras publicações periódicas, como tais considerados na legislação que regular a matéria.
+
+20. Lenha e desperdícios de madeira.
+
+21. Lentes para correcção da vista, excluídas as lupas.
+
+22. Livros e folhetos de natureza cultural, educativa, recreativa e desportiva, brochados ou encadernados.
+
+Exceptuam-se da isenção as obras em cuja encadernação entrem peles, tecidos de seda, veludos ou semelhantes e, bem assim, as obras abrangíveis na verba n.º 3 da lista B.
+
+23. Máquinas, ferramentas e outros bens de equipamento afectos ao processo produtivo das mercadorias ou aos departamentos de apoio directo e exclusivo à produção de mercadorias.Esta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.
+
+Compreendem-se nesta verba as partes, peças e acessórios dos referidos bens de equipamento, desde que adquiridos para nos mesmos serem aplicados.
+
+24. Material circulante para vias férreas, bem como catenárias e carris, material para a sua instalação, aparelhagem de via e instalações e material de sinalização eléctrica ou outra utilizados no transporte ferroviário de passageiros e mercadorias.
+
+Esta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.
+
+Compreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela incluídos.
+
+25. Material exclusivamente didáctico.
+
+Compreendem-se nesta verba:
+
+a) Cadernos escolares que contenham a designação do seu uso e ainda as capas soltas quando tenham a indicação do estabelecimento de ensino;
+
+b) Colecções de anatomia, botânica, geologia, mineralogia, zoologia ou outras ciências e respectivos exemplares;
+
+c) Mapas ou estampas para o ensino;
+
+d) Globos terrestres ou celestes;
+
+e) Obras cartográficas;
+
+f) Preparações microscópicas;
+
+g) Instrumentos, aparelhos, utensílios, máquinas - incluindo as seccionadas - e modelos utilizados no ensino, não susceptíveis de outro uso;
+
+h) Quadros de qualquer material para escrita e desenho, encaixilhados ou não, e respectivos ponteiros e apagadores.
+
+26. Medicamentos, especialidades farmacêuticas e outros produtos farmacêuticos destinados exclusivamente a fins terapêuticos ou profilácticos.
+
+27. Pastas, gazes, tiras, pensos, adesivos e outros suportes análogos, mesmo impregnados ou revestidos de quaisquer substâncias, para usos higiénicos, medicinais ou cirúrgicos.
+
+28. Plantas, raízes e tubérculos medicinais no estado natural.
+
+29. Plantas vivas, de espécies florestais ou frutíferas, e suas estacas e enxertos.
+
+30. Produtos destinados à alimentação humana a seguir indicados:
+
+a) Pão, produtos afins e farinhas para a sua fabricação; bolachas de água e sal, e bolachas edulcoradas dos tipos Maria e Torrada;
+
+b) Massas alimentícias e pastas secas similares.
+
+Exceptuam-se desta alínea as massas recheadas, embora prontas para utilização imediata, e as massas dos tipos Ravioli, Cannelloni, Tortellini e semelhantes; estão, porém, compreendidas na isenção as massas destes tipos mas de consumo popular;
+
+c) Leite para alimentação sob todas as formas e produtos derivados, sem adição de matérias estranhas.
+
+Compreendem-se nesta alínea:
+
+1) Iogurtes já preparados e natas;
+
+2) Leite conservado em garrafas ou outros recipientes, fechados hermeticamente, ainda que adicionados de cacau, chocolate ou baunilha;
+
+3) Leite evaporado ou concentrado, no estado líquido, pastoso, em blocos ou em pó;
+
+4) Leite em pó ou granulado, leites dietéticos e farinhas lácteas, ainda que adicionados de elementos complementares, exclusivamente destinados à alimentação de crianças;
+
+5) Manteigas;
+
+6) Queijos;
+
+d) Azeites e outros óleos comestíveis; margarinas, manteiga e mais gorduras alimentares de origem animal e vegetal.
+
+Exceptuam-se desta alínea a gordura alimentar açucarada do tipo Sweet fat;
+
+e) Batatas, legumes e outros produtos hortícolas, frescos, congelados, refrigerados, secos ou desidratados, em grão, em farinha ou em puré, quando não tenham sofrido preparação diferente da cozedura ou da fritura;
+
+f) Frutos frescos, congelados, curtidos, secos ou em salmoura, sem adição de produtos estranhos.
+
+Não estão abrangidos por esta isenção:
+
+1) Frutas enlatadas, cristalizadas, caldeadas ou cobertas;
+
+2) Doces, geleias, compostas, purés e pastas de frutas, obtidos por cozedura ou com adição de açúcar ou de álcool;
+
+3) Castanha de caju, avelãs, pinhões, nozes, amêndoa, coco e amendoim torrado;
+
+4) Anis estrelado, tapioca e baunilha;
+
+5) Sumos de frutas e seus extractos ou concentrados.
+
+Considera-se, porém, incluída na isenção da presente alínea f) a marmelada;
+
+g) Outros produtos de origem vegetal, da pesca, da piscicultura, da avicultura, da cunicultura, da apicultura e da caça, que não tenham sofrido transformação.
+
+Incluem-se, porém, nesta alínea:
+
+1) Ramas de açúcar e açúcar refinado e granulado;
+
+2) Chá e café, ainda que solúveis ou sem cafeína;
+
+3) Cevada, chicória e grão-de-bico, torrados;
+
+4) Arroz branqueado e glaceado;
+
+5) Farinhas, féculas e sêmolas para alimentação de crianças;
+
+6) Sopas e caldos concentrados e sintéticos;
+
+7) Peixe salgado seco ou em salmoura;
+
+8) Conservas simples de sardinha, atum, cavala, carapau, anchovas e de moluscos, salvo ostras e caracóis;
+
+9) Mel, ainda que refinado.
+
+Estão excluídos da isenção contida nesta alínea g):
+
+1) Cacau, chocolates e respectivos compostos;
+
+2) Especiarias, condimentos, molhos, temperos e produtos aromatizantes para alimentos;
+
+3) Produtos industrializados que precisam de preparação prévia para serem consumidos; leveduras e pós para preparar sobremesas, pudins, refrescos, bebidas, cremes, gelados, sorvetes, geleias e outros, ainda que não adicionados de açúcar;
+
+4) Arroz expandido, corn-flakes e produtos análogos, obtidos de cereais por torrefacção ou por qualquer outro processo;
+
+5) Sumos de produtos hortícolas e seus extractos ou concentrados;
+
+6) Conservas de aves e de caça;
+
+7) Pastas de fígado (foie-gras) e semelhantes;
+
+8) Misturas de farinhas, féculas, amidos, extractos de malte com leite, leitelho, açúcar, ovos, caseína, albumina, glúten, farinhas de legumes ou de frutas ou substâncias aromáticas; farinhas de cacau com aveia; preparados constituídos pela mistura de ovos e leite, em pó, extracto de malte e cacau; preparados constituídos por farinha de arroz, féculas diversas, farinha de bolota doce, açúcar e cacau aromatizado com baunilha; preparados compostos por misturas de farinhas de cereais e farinhas de frutas, adicionados ou não de cacau ou malte, ou constituídos por farinha de frutas adicionadas de cacau;
+
+9) Salgadinhos de qualquer tipo e outros produtos utilizados como aperitivos ou acompanhantes de bebidas, constituídos por misturas de vários ingredientes, tais como farinhas, sêmolas, malte, sal, gorduras, especiarias, queijo, presunto, mariscos, etc.;
+
+h) Carnes de quaisquer outros animais, frescas, refrigeradas ou congeladas e miudezas comestíveis;
+
+i) Preparados de carne ou de miudezas, simplesmente cozinhados ou como produtos de salsicharia (enchidos, ensacados, salgados e fumados); fiambre e presunto.
+
+Estão excluídos desta isenção: a mortadela, o salame, as pastas, purés e galantinas, os picados e o toucinho fumado (bacon);
+
+j) Sal (cloreto de sódio):
+
+a) Sal marinho;
+
+b) Sal-gema.
+
+Não estão abrangidos nesta isenção o sal marinho e o sal-gema misturados com outros produtos para alimentação humana, nem o sal para tornar mais tenros os alimentos;
+
+l) Vinagres comestíveis;
+
+m) Vinhos comuns ou de pasto vendidos a granel.
+
+Apenas são considerados como vendidos a granel os vinhos transaccionados em quantidade não inferior a 40 l por vasilha.
+
+Os vinhos de outra natureza e as restantes bebidas alcoólicas são excluídas desta isenção.
+
+Na interpretação das isenções dos produtos alimentícios referidos na presente verba n.º 30 deverá ter-se em consideração que são excluídos do seu âmbito todos os produtos edulcorados não expressamente isentos, qualquer que seja a forma ou o aspecto que apresentem.
+
+São, pelo contrário, incluídos nas isenções desta verba os alimentos já cozinhados que por sua natureza tenham de ser consumidos imediatamente.
+
+31. Produtos considerados exclusivamente como desinfectantes, insecticidas, fungicidas, herbicidas, parasiticidas, raticidas e semelhantes.
+
+32. Ráfia natural.
+
+33. Sabões sólidos, não perfumados, para o uso doméstico.
+
+34. Sementes, bolbos e alporques para a agricultura, horticultura e floricultura.
+
+35. Sulfato cúprico, sulfato férrico e sulfato duplo de cobre e ferro.
+
+36. Utensílios e alfaias agrícolas, silos móveis, motocultivadores, tractores e outras máquinas e aparelhos, exclusiva ou principalmente destinados à agricultura, pecuária ou silvicultura.
+
+Compreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela referidos, com exclusão, porém, dos protectores, pneumáticos e câmaras-de-ar.
+
+> Alterado pelo/a Parte do/a [Decreto-Lei n.º 756/74 - Diário do Governo n.º 302/1974, Série I de 1974-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), em vigor a partir de 1975-01-04
+
+> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15
+
+## Parte — LISTA B
+
+Transacções sujeitas à taxa de 25%
+
+1. Aeronaves não abrangidas pela verba n.º 2 da lista A.
+
+2. Altifalantes e amplificadores de som.
+
+3. Antiguidades, raridades e objectos de colecção ou quaisquer mercadorias transaccionadas como tais.
+
+4. Aparelhos para aquecimento central.
+
+5. Aparelhos de massagem, estética e outros aparelhos para tratamento de beleza.
+
+6. Aparelhos receptores para radiodifusão ou televisão, incluindo os receptores combinados com gramofones ou gira-discos.
+
+Compreendem-se nesta verba as partes, peças e acessórios quando reconhecíveis como exclusiva ou principalmente a eles destinados.
+
+7. Aparelhos para registo e reprodução de som:
+
+a) Máquinas de ditar e outros aparelhos de gravação e reprodução de som, compreendendo os gira-discos e dispositivos semelhantes. Compreende as partes, peças, acessórios e respectivos estojos;
+
+b) Suportes de som para as máquinas e aparelhos abrangidos pela alínea anterior ou para usos análogos, tais como discos, cilindros, ceras, tiras, fitas e fios, preparados para gravação de som ou já gravados e respectivos álbuns.
+
+8. Armas de qualquer natureza e munições, salvo as de guerra.
+
+Compreendem-se nesta verba, designadamente:
+
+a) Armas de fogo, de caça, de defesa, de recreio e de ornamentação;
+
+b) Espingardas, carabinas e pistolas de mola, de ar comprimido ou de gás;
+
+c) Partes, acessórios e peças separadas das referidas armas;
+
+d) Projécteis e munições, respectivas partes e peças separadas, compreendendo, nomeadamente, zagalotes, chumbo de caça, balas de chumbo, setas, buchas para cartuchos e cartuchos de qualquer espécie.
+
+9. Artefactos total ou parcialmente de metais preciosos, com ou sem pérolas naturais ou de cultura, pedras preciosas naturais, sintéticas ou reconstituídas.
+
+Compreendem-se também nesta verba os artefactos só de prata, desde que contenham pérolas ou pedras preciosas.
+
+Estão excluídos os instrumentos de trabalho quando da aplicação das matérias referidas resulte maior utilidade para o fim a que eles se destinam.
+
+10. Artigos destinados à prática dos seguintes desportos:
+
+a) Caça e pesca, incluindo a submarina, bem como os respectivos equipamentos individuais não expressamento excluídos.
+
+Exceptuam-se desta alínea os seguintes artigos:
+
+1) Agulhas para redes;
+
+2) Alcofas;
+
+3) Alicates;
+
+4) Amostras ou iscos artificiais de diversos tipos, género peixe com fateixas, creek-chub e mirrolure;
+
+5) Anzóis e fateixas;
+
+6) Baldes e bolsas de lona, tela ou pano;
+
+7) Bóias dos tipos «peão», «peão longo», «buldo», «torpedo» com chumbeira ou semelhantes;
+
+8) Botas, capas, calças, chapéus e fatos, impermeáveis ou não;
+
+9) Caixas de plástico;
+
+10) Canautos;
+
+11) Cestos de arame bourriches;
+
+12) Chumbeiras próprias para redes de pesca e dos tipos «amêndoa», «pirâmide» e «charuto», para pesca à linha;
+
+13) Destorcedores;
+
+14) Fios de aço com revestimento de perlon ou nylon e fios de perlon ou de nylon;
+
+15) Fitas plásticas;
+
+16) Pingalins;
+
+17) Redes de pesca; e perlon e nylon, entrançado, para o respectivo fabrico;
+
+b) Esgrima;
+
+c) Esqui, incluindo o aquático;
+
+d) Golfe;
+
+e) Ténis, e excluindo o de mesa.
+
+11. Artigos para divertimentos carnavalescos e fogos-de-artifício para recreio.
+
+12. Azulejos pintados à mão e tijoleira vidrada.
+
+13. Bebidas alcoólicas e produtos para a sua preparação ou fabrico a seguir indicados:
+
+a) Aguardentes de origem vínica, de cana (incluindo o rum), de figo e de outros frutos directamente fermentescíveis;
+
+b) Outras bebidas alcoólicas não incluídas nas alíneas c), (d) e e) do artigo 22.º do Código, nem na verba n.º 6 da lista C;
+
+c) Extractos concentrados e compostos para a preparação ou farico de bebidas alcoólicas;
+
+d) Vinhos de preço superior a 50$00 por litro.
+
+14. Charuteiras, cigarreiras, tabaqueiras, fosforeiras, acendedores e isqueiros, domésticos ou portáteis.
+
+15. Conservas de esturjão e de salmão e preparados de ovas (caviar).
+
+16. Embarcações de recreio ou de desporto.
+
+Compreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados, bem como os motores fora de borda de potência superior a 25 H. P.
+
+17. Estatuetas e outros objectos de ornamentação, de madeira, de vidro, de pedra, de metal, de cerâmica, de faiança ou de porcelana.
+
+Comprendem-se nesta verba os objectos de toucador.
+
+Exceptuam-se desta verba os produtos regionais portugueses e ainda os produtos em que o carácter utilitário ou funcional sobreleve nitidamente o ornamental.
+
+18. Instrumentos e aparelhos de fotografia, cinematografia e de óptica:
+
+a) Máquinas fotográficas, aparelhos ou dispositivos para produção de luz relâmpago para fotografia e cinematografia;
+
+b) Aparelhos de tomadas de vistas e de som, mesmo combinados, e aparelhos de projecção, com ou sem reprodução de som, para cinematografia;
+
+c) Aparelhos de projecção fixa e móvel; aparelhos de ampliação ou de redução fotográfica;
+
+d) Alvos para projecções;
+
+e) Binóculos e óculos de grande alcance;
+
+f) Óculos de protecção (de sol, para alpinismo e desportos de Inverno, submarinos e estereoscópicos).
+
+Comprendem-se as partes, peças e acessórios dos referidos aparelhos, instrumentos e máquinas, quando sejam reconhecidos como exclusiva ou principalmente a eles destinados.
+
+19. Jogos, compreendendo os jogos mecânicos para recintos públicos.
+
+Compreendem-se nesta verba as partes, peças e acessórios dos jogos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados; os acessórios comuns à maior parte dos jogos, tais como dados, fichas a indicadores de tempo; e, nomeadamente, as cartas de jogar, as mesas para jogos especialmente construídas para esse fim, como, por exemplo, as mesas com jogos de damas, aparelhos como o bilhar eléctrico e os jogos de tiro eléctricos, o futebol de mesa e semelhantes, de qualquer sistema, e os jogos de dominó, gamão, mahjong, glória, etc. Exclui-se, porém, o material de jogos reconhecidos como desportivos e o de jogos com características de brinquedo.
+
+20. Karts e suas peças ou acessórios, com exclusão dos pneumáticos, protectores e câmaras-de-ar.
+
+21. Louças de cerâmica, de faiança ou de porcelana, pintadas à mão, assinadas ou de alta qualidade.
+
+Exceptuam-se desta verba a louça regional portuguesa e, bem assim, a louça utilitária de uso doméstico.
+
+22. Máquinas e aparelhos eléctricos, a gás, a petróleo ou a vapor:
+
+a) Aparelhos frigoríficos;
+
+b) Máquinas de lavar e secar louça;
+
+c) Máquinas de lavar e secar roupa e máquinas de passar a ferro, com excepção dos ferros de engomar;
+
+d) Aspiradores de poeira e enceradoras;
+
+e) Esmagadores e misturadores de alimentos, batedores e espremedores de frutas;
+
+f) Máquinas de fazer café, chaleiras, torradeiras, grelhadores, assadores e aquecedores de alimentos;
+
+g) Máquinas e aparelhos de cozinha não especificados nesta verba, com excepção dos fogões;
+
+h) Ventoinhas, aparelhos renovadores de ar e secadores de cabelo;
+
+i) Máquinas de barbear, incluindo as de pilhas;
+
+j) Aparelhos para aquecimento de casas e usos semelhantes, incluindo os climatizadores.
+
+Compreendem-se nesta verba as partes, peças e acessórios das referidas máquinas e aparelhos, quando sejam reconhecidos como exclusiva ou principalmente a eles destinados.
+
+São excluídos desta verba os aparelhos e máquinas cujas características os tornem exclusivamente utilizáveis em actividades industriais, comerciais ou agrícolas.
+
+23. Marfim e suas obras.
+
+24. Metais preciosos, salvo a prata e suas ligas.
+
+25. Microfones e respectivos suportes.
+
+26. Moedas de ouro ou prata e de ligas em que entrem aqueles ou outros metais preciosos, quando não tiverem curso legal no país de origem.
+
+27. Motociclos de cilindrada igual ou superior a 175 c. c.
+
+28. Objectos de cristal e meio-cristal e objectos de vidro de alta qualidade, denominados ou assinados.
+
+29. Objectos de estanho e suas ligas para fins domésticos, decorativos ou de ornamentação.
+
+30. Objectos de madrepérola, de âmbar ou de coral, para ornamentação de interiores ou para adorno pessoal.
+
+Compreendem-se nesta verba os objectos de toucador.
+
+31. Pedras preciosas naturais, sintéticas ou reconstituídas e pérolas naturais ou de cultura, e suas obras, quando destinadas a adorno pessoal ou ornamentação.
+
+32. Peles e penas de avestruz, peles de elefante, répteis, peixes e mamíferos marinhos e suas obras.
+
+Só se consideram obras aquelas em cujo valor as peles ou as penas entrem em proporção superior a 40%.
+
+33. Peles em cabelo, para adorno, abafo ou vestuário e suas obras, com exclusão das de coelho e de ovinos ou de caprinos adultos, de espécies comuns não denominadas.
+
+Só se consideram obras aquelas em cujo valor as peles entrem em proporção superior a 40%.
+
+34. Produtos para fotografia e cinematografia:
+
+a) Chapas, películas de qualquer espécie, papel, cartolina, cartão e tecidos para fotografia;
+
+b) Chapas, películas e fitas cinematográficas, incluindo os diapositivos;
+
+c) Produtos químicos para fotografias e cinema.
+
+35. Produtos de perfumaria e toucador, com excepção apenas de sabões, sabonetes, pastas dentífricas ou pós saponificados e dentifrícios e dos considerados medicinais pela Direcção-Geral de Saúde.
+
+Compreendem-se nesta verba os produtos perfumados e os utilizados no embelezamento e no tratamento estético, designadamente perfumes de qualquer natureza, incluindo os extractos e os óleos essenciais ou essências, seus subprodutos e soluções; água-de-colónia e loções; vinagres de toucador; cremes de beleza e para barbear; leites e águas de beleza; tintas para o rosto (secas, gordas e líquidas); depilatórios; pós-de-arroz e pós compactos, champôs, brilhantinas e fixadores; corantes para os lábios; cremes para tirar a pintura do rosto; óleos, pomadas e vaselinas perfumadas; vernizes, lacas e mais produtos corantes e descorantes para as unhas; talco perfumado; tintas, lápis e outros produtos para caracterização; rimel; lápis para as sobrancelhas; desodorizantes e linimentos antisolares; preparados para ondulação de cabelo, incluindo as lacas; produtos para aplicação antes ou depois de fazer a barba; tintas e outros produtos para coloração e descoloração do cabelo; sais de banho; óleos para massagens; preparados perfumados (em pó, líquido, pastilhas, fitas, etc.) e saquinhos de plantas aromáticas para salas e quartos de banho ou para malas e armários.
+
+36. Reboques de campismo ou desporto, bem como os veículos automóveis com carroçaria apropriada àqueles mesmos fins.
+
+Compreendem-se nesta verba as partes, peças e acessórios dos reboques ou veículos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados, excluindo, porém, os protectores, pneumáticos e câmaras-de-ar.
+
+37. Relógios com caixas total ou parcialmente de metais preciosos ou guarnecidos de pérolas naturais ou de cultura, de pedras preciosas naturais, sintéticas ou reconstituídas.
+
+38. Rendas, bordados, galões e guarnições, em peça, em tiras ou em aplicações.
+
+Exceptuam-se desta verba as rendas e bordados regionais portugueses, e, bem assim, as roupas de criança e roupas populares com aplicação dos artigos indicados nesta verba.
+
+39. Tapeçarias, tapetes e tecidos feitos à mão; tapeçarias em peça ou em obra, género Gobelins, Flandres, Aubusson, Beauvais e semelhantes, fabricados manual ou mecanicamente.
+
+Exceptuam-se desta verba as tapeçarias, tapetes e tecidos regionais portugueses, feitos à mão.
+
+40. Tecidos, em peça ou em obra, de seda natural, de vigonho, de pêlo de camelo, de alpaca, de iaque, de caxemira ou de cabra mohair, cuja percentagem seja superior a 30%.
+
+> Alterado pelo/a Parte do/a [Decreto-Lei n.º 756/74 - Diário do Governo n.º 302/1974, Série I de 1974-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), em vigor a partir de 1975-01-04
+
+> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15
+
+## Parte — LISTA C
+
+Transacções sujeitas à taxa de 15%
+
+1. Alcatifas, passadeiras, tapeçarias e tapetes, fabricados em teares manuais ou mecânicos.
+
+Exceptuam-se desta verba os tapetes de dimensão não superior a 0,50 m2.
+
+2. Aquecedores de água, compreendendo os de imersão.
+
+3. Artefactos totalmente de prata, sem pérolas, naturais ou de cultura, pedras preciosas naturais, sintéticas ou reconstituídas.
+
+4. Artigos pneumáticos para recreio ou desportos náuticos.
+
+5. Brinquedos, jogos e artigos semelhantes, eléctricos ou de pilhas.
+
+6. Bebidas e outros produtos, contidos em qualquer recipiente, a seguir indicados:
+
+a) Vinhos de preço igual ou inferior a 50$00 por litro;
+
+b) Xaropes;
+
+c) Extractos ou concentrados de frutos.
+
+Exceptuam-se desta verba os seguintes produtos:
+
+1) Vinhos comuns ou de pasto, engarrafados ou engarrafonados, desde que sejam observadas cumulativamente as seguintes condições:
+
+Indicação obrigatória, nos rótulos, do preço de venda no retalho;
+
+O referido preço não poderá exceder 18$00 por litro quando em recipientes de capacidade não superior a 1 l, nem 15$00 por litro quando contidos em recipientes de capacidade superior a 1 l, mas não excedente a 5,3 l;
+
+2) Bebidas abrangidas na alínea d) do artigo 22.º do Código;
+
+3) Bebidas incluídas na verba n.º 30 da lista A.
+
+7. Cacau em pó e preparados alimentares que contenham cacau ou chocolate; chocolates de qualquer natureza e seus compostos, tais como bombons, paus, pastilhas, granulados, com ou sem recheios de frutos, cremes, licores, etc., e ainda outros produtos cobertos ou recheados de chocolate.
+
+Exceptuam-se desta verba o leite e os iogurtes adicionados de cacau, chocolate ou baunilha, ainda que edulcorados.
+
+8. Conservas de aves e de caça; pastas de fígado e semelhantes; cogumelos comestíveis, trufas, túberas, alcachofras e conservas de espargo.9. Crustáceos e ostras.
+
+10. Joalharia de imitação e de fantasia, incluindo imitações de pérolas, de gemas, de pedras preciosas e de artigos similares.
+
+11. Objectos de porcelana não compreendidos na verba n.º 17 da lista B e artefactos de grés fino.
+
+Exceptuam-se desta verba o material isolador e os artefactos para usos químicos e usos técnicos.
+
+12. Papel, tecidos e outros produtos para forrar paredes ou tectos.
+
+13. Papel para vitrais.
+
+14. Prata.
+
+15. Produtos de confeitaria de todos os tipos, tais como rebuçados, caramelos, pastilhas elásticas ou outras, confeitos, amêndoas, granjeia, drops; frutas cristalizadas, caldeadas ou cobertas; doces, geleias, compotas, purés e pastas de frutas; frutas secas cobertas com açúcar ou salgadas; frutas recheadas.
+
+Compreendem-se ainda nesta verba os produtos de pastelaria e doçaria, tais como bolachas, biscoitos, gelados, sorvetes e outros produtos edulcorados.
+
+Exceptuam-se desta verba as farinhas, féculas e sêmolas para alimentação de crianças, incluídas na alínea g) da verba n.º 30 da lista A, a marmelada e as bolachas dos tipos Maria e Torrada.
+
+> Alterado pelo/a Parte do/a [Decreto-Lei n.º 756/74 - Diário do Governo n.º 302/1974, Série I de 1974-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), em vigor a partir de 1975-01-04
+
+> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15
+
+O Ministro das Finanças, José da Silva Lopes.

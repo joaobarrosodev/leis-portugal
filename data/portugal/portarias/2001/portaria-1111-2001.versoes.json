@@ -1,0 +1,158 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:640608:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-857573572",
+ "dre_path": "/dr/detalhe/portaria/1111-2001-640608",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2001-09-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "859627885"
+   ]
+  },
+  {
+   "date": "2013-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498771:por",
+     "title": "Portaria n.º 235/2013",
+     "published": "2013-07-24",
+     "dre_path": "/dr/detalhe/portaria/235-2013-498771"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "859627885",
+    "859627886",
+    "859627887",
+    "859627888",
+    "859627889",
+    "859627890",
+    "859627891",
+    "859627892",
+    "859627893",
+    "859627894",
+    "859627895"
+   ]
+  }
+ ],
+ "fragments": {
+  "859627885": {
+   "fragment_id": "857573573",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2013-07-25",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1111/2001\n\nde 19 de Setembro\n\nO Decreto-Lei n.º 555/99, de 16 de Dezembro, que aprovou o novo regime jurídico da urbanização e da edificação, prevê que os elementos estatísticos referentes a operações urbanísticas a serem remetidos pelas câmaras municipais ao Instituto Nacional de Estatística sejam identificados em portaria.\n\nFoi ouvido o Conselho Superior de Estatística.\n\nAssim, nos termos do n.º 1 do artigo 126.º do Decreto-Lei n.º 555/99, de 16 de Dezembro, na redacção dada pelo Decreto-Lei n.º 177/2001, de 4 de Junho:\n\nManda o Governo, pelos Ministros do Planeamento e do Ambiente e do Ordenamento do Território, o seguinte:"
+  },
+  "859627886": {
+   "fragment_id": "857804175",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "###### 1.º\n\nOs elementos estatísticos referentes a operações urbanísticas a serem remetidos ao Instituto Nacional de Estatística incluem, designadamente, os requisitos constantes dos anexos à presente portaria, dela fazendo parte integrante:\n\na) Operações de loteamento com ou sem a realização de obras de urbanização, que obedecem às especificações constantes do anexo I;\n\nb) Obras de edificação e de demolição, que obedecem às especificações constantes do anexo II;\n\nc) Utilização de edificação, que obedece às especificações constantes do anexo III;\n\nd) Trabalhos de remodelação de terrenos, que obedecem às especificações constantes do anexo IV;\n\ne) Alteração de utilização, que obedece às especificações constantes do anexo V.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+  },
+  "859627887": {
+   "fragment_id": "857804176",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "###### 2.º\n\nAs câmaras municipais devem remeter ao Instituto Nacional de Estatística os suportes contendo a informação até ao dia 15 do mês seguinte àquele a que se referem os alvarás das licenças e autorizações ou as comunicações prévias e pedidos de parecer efectuados no âmbito das operações urbanísticas isentas ou dispensadas de licença ou autorização.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+  },
+  "859627888": {
+   "fragment_id": "857804177",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "###### 3.º\n\nAs nomenclaturas, conceitos e definições a utilizar na prestação da informação referida no número anterior são estabelecidos pelo Conselho Superior de Estatística, depois de consultadas a Direcção-Geral do Ordenamento do Território e Desenvolvimento Urbano e a Associação Nacional de Municípios Portugueses, sendo posteriormente disponibilizados pelo Instituto Nacional de Estatística.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+  },
+  "859627889": {
+   "fragment_id": "857804178",
+   "type": 11,
+   "heading": "4.º",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "###### 4.º\n\nA presente portaria entra em vigor no dia 2 de Outubro de 2001.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+  },
+  "859627890": {
+   "fragment_id": "857573574",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "Em 20 de Agosto de 2001.\n\nPela Ministra do Planeamento, António Ricardo Rocha de Magalhães, Secretário de Estado da Administração do Planeamento. - Pelo Ministro do Ambiente e do Ordenamento do Território, Manuel Pedro Cunha da Silva Pereira, Secretário de Estado do Ordenamento do Território e da Conservação da Natureza.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+  },
+  "859627891": {
+   "fragment_id": "857804179",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "## Anexo I\n\nDevem ser indicados os seguintes elementos:\n\na) Câmara municipal remetente;\n\nb) Identificação do processo interno;\n\nc) Tipo de procedimento administrativo;\n\nd) Data de emissão do alvará de licença ou autorização e respectivo número;\n\ne) Identificação do promotor da operação urbanística, consistindo em nome, morada e código postal, telefone, telemóvel e endereço electrónico;\n\nf) Identificação do local objecto da operação de loteamento, consistindo em indicação da freguesia, local exacto e código postal;\n\ng) Entidade promotora, discriminando se se trata de:\n\n1) Pessoa singular;\n\n2) Administração central;\n\n3) Administração regional;\n\n4) Administração local;\n\n5) Empresa privada;\n\n6) Empresa de serviços públicos;\n\n7) Cooperativa de habitação;\n\n8) Instituição sem fins lucrativos;\n\nh) Articulação com instrumentos urbanísticos, discriminando se se trata de:\n\n1) Plano especial de ordenamento do território;\n\n2) Plano director municipal;\n\n3) Plano de urbanização;\n\n4) Plano de pormenor;\n\n5) Medidas preventivas;\n\n6) Zona de defesa e controlo urbano;\n\n7) Área crítica de recuperação e reconversão urbanística;\n\ni) Inserção ou não da operação de loteamento numa área urbana de génese ilegal, e se se trata de legalização ou não;\n\nj) Realização ou não de obras de urbanização e respectivas datas prováveis de início e de conclusão;\n\nl) Parâmetros globais, discriminando:\n\n1) Área objecto da operação de loteamento;\n\n2) Área total dos lotes;\n\n3) Áreas totais de implantação, de impermeabilização e de construção, discriminando a área de construção em função dos usos predominantes;\n\n4) Áreas de cedências para o domínio público, discriminando as áreas afectas a infra-estruturas, a espaços verdes e de utilização colectiva e a equipamentos;\n\n5) Número total de lotes;\n\n6) Número total de edificações, discriminado por tipo de edificações;\n\n7) Volume total de construção;\n\n8) Cércea máxima;\n\n9) Número máximo e número médio de pisos acima e abaixo da cota de soleira;\n\n10) Número de convivências e respectiva capacidade de alojamento;\n\n11) Número total de fogos e número de fogos segundo a tipologia;\n\n12) Número de fogos a custos controlados;\n\n13) Indicações referentes aos estacionamentos, discriminando áreas e números de lugares afectos a estacionamento público e privado, coberto e descoberto.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+  },
+  "859627892": {
+   "fragment_id": "857804180",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25",
+    "Retificado pelo/a [Declaração de Rectificação n.º 20/2001 - Diário da República n.º 231/2001, Série I-B de 2001-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2001-621149), produz efeitos a partir de 2001-10-02"
+   ],
+   "markdown": "## Anexo II\n\nDevem ser indicados os seguintes elementos (discriminados por edificação se a operação inclui mais de uma edificação):\n\na) Câmara municipal remetente;\n\nb) Identificação do processo interno;\n\nc) Tipo de procedimento administrativo;\n\nd) Número do alvará de licença ou autorização e respectivas datas de emissão e de termo;\n\ne) Número do alvará de licença ou autorização da operação de loteamento quando esta preceda as obras de edificação;\n\nf) Identificação do promotor da operação urbanística, consistindo em nome, morada e código postal, telefone, telemóvel e endereço electrónico;\n\ng) Entidade promotora, discriminando se se trata de:\n\ng1) Pessoa singular;\n\ng2) Administração central;\n\ng3) Administração regional;\n\ng4) Administração local;\n\ng5) Empresa privada;\n\ng6) Empresa de serviços públicos;\n\ng7) Cooperativa de habitação;\n\ng8) Instituição sem fins lucrativos;\n\nh) Identificação da edificação;\n\ni) Identificação do local da obra, consistindo em indicação da freguesia, local exacto e código postal;\n\nj) Tipo de obra, discriminando se se trata de construção nova, reconstrução, ampliação, alteração ou demolição;\n\nl) Características da obra de demolição, discriminando:\n\nl1) Tipo de demolição;\n\nl2) Área de construção a demolir;\n\nl3) Tipo de edificação;\n\nl4) Número de pisos acima e abaixo da cota de soleira da edificação;\n\nl5) Cércea;\n\nl6) Número de divisões;\n\nl7) Convivências, discriminando o número e capacidade de alojamento;\n\nl8) Área e número de lugares de estacionamento;\n\nl9) Número total de fogos com indicação das diferentes tipologias componentes da edificação;\n\nl10) Número total de fogos a custos controlados;\n\nm) Características da obra de edificação, discriminando:\n\nm1) Uso a que se destina a edificação;\n\nm2) Área total de construção, discriminada em função dos usos predominantes;\n\nm3) Área total habitável;\n\nm4) Volume total de construção;\n\nm5) Tipo de edificação;\n\nm6) Número de pisos acima e abaixo da cota de soleira;\n\nm7) Cércea;\n\nm8) Número total de divisões;\n\nm9) Convivências, discriminando o número e capacidade de alojamento;\n\nm10) Áreas totais destinadas aos estacionamentos públicos e privados, bem como os respectivos números totais de lugares;\n\nm11) Número total de fogos discriminado por tipologias;\n\nm12) Número total de fogos a custos controlados.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25\n\n> Retificado pelo/a [Declaração de Rectificação n.º 20/2001 - Diário da República n.º 231/2001, Série I-B de 2001-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2001-621149), produz efeitos a partir de 2001-10-02"
+  },
+  "859627893": {
+   "fragment_id": "857804182",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "## Anexo III\n\nDevem ser indicados os seguintes elementos:\n\na) Câmara municipal remetente;\n\nb) Identificação do processo interno;\n\nc) Tipo de procedimento administrativo;\n\nd) Data de emissão do alvará de licença ou autorização administrativa de obras e respectivo número;\n\ne) Número e data de emissão do alvará de licença ou autorização de utilização da edificação;\n\nf) Identificação do promotor da operação urbanística, consistindo em nome, morada e código postal, telefone, telemóvel e endereço electrónico;\n\ng) Identificação do local da obra, consistindo em indicação da freguesia, local exacto e código postal;\n\nh) Tipo de obra, discriminando se se trata de construção nova, reconstrução, ampliação ou alteração.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+  },
+  "859627894": {
+   "fragment_id": "857804183",
+   "type": 14,
+   "heading": "Anexo IV",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+   ],
+   "markdown": "## Anexo IV\n\nDevem ser indicados os seguintes elementos:\n\na) Câmara municipal remetente;\n\nb) Identificação do processo interno;\n\nc) Tipo de procedimento administrativo;\n\nd) Número e data de emissão do alvará de licença ou autorização;\n\ne) Data prevista de início e conclusão;\n\nf) Identificação do promotor da operação urbanística, consistindo em nome, morada e código postal, telefone, telemóvel e endereço electrónico;\n\ng) Identificação do local dos trabalhos, consistindo em freguesia, local exacto e código postal;\n\nh) Área total do terreno;\n\ni) Área total a remodelar;\n\nj) Área total a impermeabilizar;\n\nl) Finalidade dos trabalhos;\n\nm) Entidade promotora, discriminando se se trata de:\n\n1) Pessoa singular;\n\n2) Administração central;\n\n3) Administração regional;\n\n4) Administração local;\n\n5) Empresa privada;\n\n6) Empresa de serviços públicos;\n\n7) Cooperativa de habitação;\n\n8) Instituição sem fins lucrativos.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25"
+  },
+  "859627895": {
+   "fragment_id": "857804185",
+   "type": 14,
+   "heading": "Anexo V",
+   "in_force_from": "2013-07-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25",
+    "Retificado pelo/a [Declaração de Rectificação n.º 20/2001 - Diário da República n.º 231/2001, Série I-B de 2001-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2001-621149), produz efeitos a partir de 2001-10-02"
+   ],
+   "markdown": "## Anexo V\n\nDevem ser indicados os seguintes elementos:\n\na) Câmara municipal remetente;\n\nb) Identificação do processo interno;\n\nc) Tipo de procedimento administrativo;\n\nd) Indicação se a alteração de utilização se refere à edificação ou a fracção autónoma;\n\ne) Data de emissão do alvará de licença ou autorização e respectivo número;\n\nf) Identificação do promotor da operação urbanística, consistindo em nome, morada e código postal, telefone, telemóvel e endereço electrónico;\n\ng) Identificação do local da operação, consistindo em indicação da freguesia, local exacto e código postal;\n\nh) Caracterização da edificação antes e após a alteração de utilização, nos seguintes elementos:\n\n1) Destino da edificação;\n\n2) Área de construção, segundo o tipo de uso;\n\n3) Área total habitável;\n\n4) Tipo de edificação;\n\n5) Número de convivências e respectiva capacidade de alojamento;\n\n6) Número de lugares e área de estacionamento público, privado, coberto e descoberto;\n\n7) Número de fogos segundo a tipologia.\n\n> Revogado pelo/a Artigo 4.º do/a [Portaria n.º 235/2013 - Diário da República n.º 141/2013, Série I de 2013-07-24](https://diariodarepublica.pt/dr/detalhe/portaria/235-2013-498771), em vigor a partir de 2013-07-25\n\n> Retificado pelo/a [Declaração de Rectificação n.º 20/2001 - Diário da República n.º 231/2001, Série I-B de 2001-10-04](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/20-2001-621149), produz efeitos a partir de 2001-10-02"
+  }
+ }
+}

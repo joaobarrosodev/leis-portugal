@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:656408:por
+title: Despacho Normativo n.º 87-J/78
+short_title: null
+summary: Fixa, para o arroz de semente proveniente da campanha de produção de 1978, os preços de aquisição pela Empresa Pública
+  de Abastecimento de Cereais - EPAC
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios da Agricultura e Pescas e do Comércio e Turismo - Secretarias de Estado Comércio e Indústrias Agrícolas e do
+  Comércio Interno
+proposing_entity: null
+official_number: 87-J/78
+official_date: null
+publication_date: '1978-04-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 81/1978, 2º Suplemento, Série I de 1978-04-07
+  number: '81'
+  series: I
+  supplement: 2º Suplemento
+  pages: 636-(23) a 636-(23)
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/04/08102/00230023.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '656408'
+  dre_path: /dr/detalhe/despacho-normativo/87-j-1978-656408
+  internal: pt:dre:656408:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-j-1978-656408
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/87-j-1978-656408
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-04-07T00:00:00Z'
+integrity:
+  source_sha256: 509fdcebb66ebd862b19b54e8459561c8fb4ebd901259bcec5c126451d52b8b6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-87-J-656408.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 87-J/78
+
+O crescente desinteresse dos agricultores pela produção de arroz de semente, conjugado com uma situação de mercado que nos últimos anos tem favorecido o preço ao produtor de arroz de consumo, tem vindo a criar algumas dificuldades ao normal abastecimento dos orizicultores em semente de arroz certificada e de boa qualidade.
+
+Assim, e dada a importância decisiva que a utilização de sementes certificadas tem no rendimento da cultura, considera-se urgente interessar os agricultores na sua produção. Para tal, torna-se necessário aumentar substancialmente o bónus que em anos anteriores se tem concedido aos produtores de semente para certificação.
+
+A urgência desta medida, que tem por objectivo assegurar o abastecimento para o próximo ano em sementes provenientes da campanha de produção de 1978, justifica que a mesma seja tomada mesmo antes de serem conhecidos os preços de intervenção de arroz comum da campanha que agora se inicia e cuja fixação se fará muito em breve.
+
+Nestes termos:
+
+Ao abrigo do disposto na alínea c) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 609-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/609-a-1975-666720), de 8 de Novembro, determina-se o seguinte:
+
+1 - Para o arroz de semente proveniente da campanha de produção de 1978, os preços de aquisição pela Empresa Pública de Abastecimento de Cereais - EPAC são os preços de intervenção do arroz comum, acrescidos dos seguintes bónus, por tonelada:
+
+1.ª geração ... 6000$00
+
+2.ª geração ... 5500$00
+
+2 - Os preços de venda pela Empresa Pública de Abastecimento de Cereais - EPAC da semente de arroz para ser utilizada na campanha de produção de 1979 serão oportunamente estabelecidos.
+
+3 - Este despacho entra imediatamente em vigor.
+
+Secretarias de Estado do Comércio e Indústrias Agrícolas e do Comércio Interno, 4 de Abril de 1978. - O Secretário de Estado do Comércio e Indústrias Agrícolas, Alcino Cardoso. - O Secretário de Estado do Comércio Interno, António Escaja Gonçalves.

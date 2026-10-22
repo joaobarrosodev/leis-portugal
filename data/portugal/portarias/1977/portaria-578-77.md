@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:285887:por
+title: Portaria n.º 578/77
+short_title: null
+summary: Insere disposições relativas à admissão de oficiais milicianos, sargentos e sargentos milicianos nos cursos de oficiais
+  pilotos e de navegadores
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Força Aérea
+proposing_entity: null
+official_number: 578/77
+official_date: null
+publication_date: '1977-09-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 215/1977, Série I de 1977-09-16
+  number: '215'
+  series: I
+  supplement: null
+  pages: 2266 - 2267
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/09/21500/22662267.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '285887'
+  dre_path: /dr/detalhe/portaria/578-1977-285887
+  internal: pt:dre:285887:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/578-1977-285887
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/578-1977-285887
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-09-16T00:00:00Z'
+integrity:
+  source_sha256: 55e8bfe8c4ea5b57f14048a0924c26f23fb9c02082344d115c4b3928e49af5ba
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-578-285887.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 578/77
+
+de 16 de Setembro
+
+Considerando a legislação definitiva a promulgar sobre a programação da carreira de sargentos, é oportuno, desde já, iniciar, mesmo que transitoriamente, o processo de escolha e nomeação dos elementos que virão a frequentar os cursos de formação de oficiais pilotos e de navegadores;
+
+Considerando a necessidade imperiosa de evitar a não operacionalidade das esquadras de voo e, ainda, manter o seu indispensável recompletamento face à perspeciva de reorganização da Força Aérea;
+
+Considerando que o quadro de sargentos pilotos não se ajusta às necessidades actuais e futuras da Força Aérea e, portanto, se encontra perspectivado como um quadro em vias de extinção, urge, por um lado, salvaguardar os direitos dos sargentos que entretanto estão integrados naquele quadro e, por outro, definir, mesmo que transitoriamente, condições de admissão ao curso de formação de oficiais pilotos e de navegadores;
+
+Convindo dar cumprimento aos artigos 7.º e 15.º do [Decreto-Lei n.º 711/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/711-1973-407942), de 31 de Dezembro:
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Força Aérea, o seguinte:
+
+1.º - 1. Podem ser admitidos à frequência de um único curso de formação de oficiais pilotos os oficiais milicianos pilotos, sargentos pilotos e sargentos milicianos pilotos que se encontrem na efectividade de serviço há mais de um ano consecutivo em 1 de Outubro do corrente ano.
+
+2. Podem ser admitidos à frequência de um curso de formação de oficiais navegadores os oficiais milicianos navegadores, os oficiais milicianos pilotos e sargentos pilotos que se encontrem na efectividade de serviço há mais de um ano consecutivo em 1 de Outubro do corrente ano.
+
+3.º - 1. Os cursos de formação referidos no n.º 1.º serão divididos em fases, a que corresponderão anos lectivos distintos, devendo ser escalonados no máximo de três fases.
+
+2. O Chefe do Estado-Maior da Força Aérea determinará quais os candidatos que devem iniciar, anualmente, a frequência de cada uma das fases do respectivo curso de formação, tendo em atenção razões operacionais e disponibilidades dos centros de instrução, podendo, eventualmente, não ser respeitada a antiguidade dos candidatos.
+
+3. Os alunos que não obtiverem aproveitamento num dos anos lectivos podem repeti-lo por uma só vez.
+
+4.º - 1. O ingresso nos quadros permanentes de oficiais pilotos e de navegadores faz-se no posto de alferes por promoção dos militares que concluam com aproveitamento o respectivo curso de formação.
+
+2. A antiguidade de alferes dos mesmos oficiais, provenientes do curso a que se refere o n.º 1.º e que o tenham concluído no tempo normal, é referida à data em que terminar a primeira fase do curso.
+
+3. A antiguidade dos alferes que tenham repetido um dos anos do curso nos termos do n.º 3 do n.º 3.º é reportada ao mesmo dia do ano imediato ao referido no número anterior.
+
+4. A ordenação na respectiva escala dos alferes mencionados nos números anteriores, com antiguidade referida à mesma data, é feita de acordo com as classificações obtidas no respectivo curso.
+
+5.º Este regime vigorará, a título de excepção, no que respeita aos cursos de formação de oficiais pilotos e de navegadores, ficando revogadas todas as disposições da [Portaria n.º 592/71](https://diariodarepublica.pt/dr/detalhe/portaria/592-1971-633751), de 29 de Outubro, que contrariem o presente diploma.
+
+Estado-Maior da Força Aérea, 22 de Agosto de 1977. - O Chefe do Estado-Maior da Força Aérea, José Lemos Ferreira, general.

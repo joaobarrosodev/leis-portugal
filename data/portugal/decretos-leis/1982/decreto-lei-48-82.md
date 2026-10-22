@@ -1,0 +1,201 @@
+---
+schema_version: '1.0'
+id: pt:dre:600105:por
+title: Decreto-Lei n.º 48/82
+short_title: null
+summary: Cria o Conselho Nacional para a Investigação Científica e Tecnológica (CNICT)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura e Coordenação Científica
+proposing_entity: null
+official_number: 48/82
+official_date: null
+publication_date: '1982-02-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 40/1982, Série I de 1982-02-17
+  number: '40'
+  series: I
+  supplement: null
+  pages: 345 - 346
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/02/04000/03450346.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '600105'
+  dre_path: /dr/detalhe/decreto-lei/48-1982-600105
+  internal: pt:dre:600105:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1982-600105
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1982-600105
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: c596607f915489c38f01661c92c676eea057bd5e8dceb50766fb765309e7d6f2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-48-600105.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 48/82
+
+de 17 de Fevereiro
+
+A criação de um Ministério da Cultura e Coordenação Científica determina por si só a necessidade e oportunidade de estruturar correctamente e em novos termos o processo de definição e coordenação da política científica nacional.
+
+Essa necessidade e essa oportunidade compaginam-se, aliás, com a evolução e o progresso da ciência e da tecnologia, a qual tem vindo a acentuar decisivamente o carácter multidisciplinar e a orgânica pluridepartamental e intersectorial, bem como a cooperação internacional em tais domínios.
+
+Neste quadro, não pode deixar de se valorizar a importância da coordenação científica, nomeadamente através da mais directa ligação dos seus mecanismos à área da responsabilidade do Governo e, em particular, do Ministério por ela agora responsável.
+
+É a consideração das realidades e objectivos descritos que justifica o mecanismo e as determinações criadas através do presente diploma, os quais atingem, também, a necessidade de ajustar as disposições do [Decreto-Lei n.º 47797](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47797-1967-314381), de 11 de Julho de 1967, que criou a Junta Nacional de Investigação Científica e Tecnológica.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º A definição da política científica e tecnológica nacional compete ao Conselho de Ministros, sob proposta do Ministro da Cultura e Coordenação Científica.
+
+###### Art. 2.º É criado, junto do Ministro da Cultura e Coordenação Científica, o Conselho Nacional para a Investigação Científica e Tecnológica (CNICT).
+
+###### Art. 3.º São atribuições do CNICT:
+
+1) Pronunciar-se sobre:
+
+a) As bases em que deve assentar a definição da política científica e tecnológica nacional;
+
+b) A coordenação e sistematização dos planos, programas e recursos financeiros a aprovar pelo Governo no que se refere à investigação científica e tecnológica;
+
+c) A compatibilização entre os objectivos da política de desenvolvimento social e económico do País e a política científica e tecnológica nacional;
+
+d) As medidas legislativas institucionais e estruturais necessárias ao desenvolvimento do sistema científico e tecnológico nacional;
+
+e) A execução dos planos financeiros e programas de investigação científica e tecnológica, com vista, nomeadamente, a propor quaisquer ajustamentos que se venham a julgar necessários;
+
+f) A orientação geral dos critérios de avaliação dos resultados das actividades de investigação científica e tecnológica;
+
+g) O sistema de avaliação global das transferências de tecnologia;
+
+h) A orientação geral das acções de cooperação científica e tecnológica externa;
+
+i) Os assuntos que no âmbito da sua competência lhe sejam apresentados pelo seu presidente.
+
+2) Formular, por sua iniciativa, propostas relativas à política científica e tecnológica nacional, designadamente no âmbito das alíneas referidas no número anterior.
+
+###### Art. 4.º - 1 - O CNICT é um órgão colegial em que estão representados os interesses sectoriais, público e privado, no domínio das actividades científicas e tecnológicas e as entidades cuja competência ou actuação seja relevante no âmbito da política científica e tecnológica nacional.
+
+2 - Farão parte do CNICT:
+
+a) O Ministro da Cultura e Coordenação Científica, que preside, por inerência;
+
+b) O vice-presidente do CNICT;
+
+c) 1 representante de cada uma das regiões autónomas, designado pelo respectivo governo regional;
+
+d) 1 representante de cada um dos sectores a seguir mencionados, designado pelo respectivo ministério da tutela: administração pública, agricultura, ambiente, cultura, defesa nacional, desenvolvimento regional, educação, energia, finanças, habitação e obras públicas, indústria, integração europeia, negócios estrangeiros, pescas, plano, saúde, transportes e comunicações;
+
+e) O presidente da Junta Nacional de Investigação Científica e Tecnológica;
+
+f) O presidente da Academia das Ciências de Lisboa;
+
+g) O presidente do Conselho de Reitores das Universidades;
+
+h) O presidente da Comissão Nacional da UNESCO;
+
+i) 1 representante da administração das fundações com actividade na área científica;
+
+j) 6 representantes dos parceiros sociais mais directamente envolvidos na problemática da investigação científica e tecnológica;
+
+l) Até 6 personalidades de reconhecido mérito em matéria de política científica e tecnológica, nomeadas por despacho do Ministro da Cultura e Coordenação Científica, por períodos de 2 anos, renováveis.
+
+3 - O presidente do CNICT poderá convidar a fazerem-se representar nas reuniões do Conselho quaisquer entidades ou personalidades cuja participação seja considerada conveniente.
+
+4 - Servirá de secretário do Conselho um funcionário do Ministério da Cultura e Coordenação Científica, designado pelo Ministro.
+
+###### Art. 5.º O CNICT será presidido pelo Ministro da Cultura e Coordenação Científica, o qual poderá ser coadjuvado por um vice-presidente.
+
+###### Art. 6.º - 1 - O vice-presidente do CNICT será nomeado por períodos de 3 anos, renováveis, por despacho conjunto do Primeiro-Ministro e do Ministro da Cultura e Coordenação Científica, e escolhido de entre personalidades de reconhecido prestígio e competência no domínio da política científica, sendo a respectiva remuneração fixada por despacho conjunto do Ministro de Estado das Finanças e do Plano e dos Ministros da Cultura e Coordenação Científica e da Reforma Administrativa, não podendo ser inferior à de director-geral.
+
+2 - Se já pertencer aos quadros do funcionalismo público, o vice-presidente poderá ser nomeado em comissão de serviço, caso em que poderá optar pelas remunerações e demais abonos e subsídios a que tiver direito no lugar que estiver a desempenhar, incluindo a remuneração complementar prevista nos artigos 70.º e 74.º do [Decreto-Lei n.º 448/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/448-1979-367673), de 13 de Novembro, se for professor universitário.
+
+###### Art. 7.º - 1 - O CNICT elaborará o seu próprio regimento.
+
+2 - Serão previstas reuniões plenárias pelo menos 3 vezes por ano, podendo, porém, o Ministro da Cultura e Coordenação Científica convocá-las a todo o tempo.
+
+3 - O referido órgão poderá funcionar por secções quando, nos termos do respectivo regimento, se considere ser esse o regime mais conveniente.
+
+###### Art. 8.º - 1 - O CNICT será apoiado pela Junta Nacional de Investigação Científica e Tecnológica (JNICT), a qual assegurará, a título permanente, as actividades decorrentes do funcionamento do Conselho.
+
+2 - Para prossecução das suas atribuições, o CNICT solicitará o apoio e a colaboração técnica dos organismos estatais de coordenação, financiamento e execução de investigação científica e tecnológica, designadamente a JNICT.
+
+###### Art. 9.º - 1 - A JNICT dependerá directamente do Ministério da Cultura e Coordenação Científica, a quem competirá, nomeadamente, definir as respectivas linhas de actuação.
+
+2 - São extintos o conselho geral e a comissão executiva da Junta.
+
+3 - O presidente da Junta submeterá anualmente ao Ministro da Cultura e Coordenação Científica, para aprovação, o relatório anual de actividades da Junta, o respectivo programa de actividades e o orçamento para o novo ano.
+
+4 - O conselho administrativo da Junta passará a ser constituído pelo presidente, vice-presidente e secretário da Junta e por um representante da contabilidade pública.
+
+5 - Os presidentes das comissões interministeriais constituídas no âmbito da Junta submeterão ao presidente desta os assuntos respeitantes ao respectivo funcionamento.
+
+6 - A Junta manterá todas as competências que não tiverem sido transferidas para outros órgãos e prestará todo o apoio logístico e executivo de que, no sector de ciência e tecnologia, careçam o CNICT ou o Ministério da Cultura e Coordenação Científica.
+
+###### Art. 10.º Os encargos resultantes da execução deste diploma serão suportados no ano económico corrente pelo orçamento do Gabinete do Ministro da Cultura e Coordenação Científica.
+
+Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1982. - Francisco José Pereira Pinto Balsemão.
+
+**Promulgado em 8 de Fevereiro de 1982.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+Quadro do pessoal referido no artigo 6.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1982/02/04000/03450346.pdf))](https://files.diariodarepublica.pt/1s/1982/02/04000/03450346.pdf)

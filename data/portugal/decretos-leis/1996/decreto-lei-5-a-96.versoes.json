@@ -1,0 +1,207 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:654949:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-69773265",
+ "dre_path": "/dr/detalhe/decreto-lei/5-a-1996-654949",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1996-01-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69751730",
+    "69751731",
+    "69751732",
+    "69751733",
+    "69751734",
+    "69751735"
+   ]
+  },
+  {
+   "date": "2015-07-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69773245:por",
+     "title": "Decreto-Lei n.º 129/2015",
+     "published": "2015-07-09",
+     "dre_path": "/dr/detalhe/decreto-lei/129-2015-69773245"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "69751730",
+    "69751752",
+    "69751753",
+    "69751754",
+    "69751755",
+    "69751735",
+    "69751736"
+   ]
+  },
+  {
+   "date": "2023-10-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222877160:por",
+     "title": "Decreto-Lei n.º 96/2023",
+     "published": "2023-10-17",
+     "dre_path": "/dr/detalhe/decreto-lei/96-2023-222877160"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "69751730",
+    "223150713",
+    "223150714",
+    "223150715",
+    "69751755",
+    "69751735",
+    "69751736"
+   ]
+  }
+ ],
+ "fragments": {
+  "69751730": {
+   "fragment_id": "69773266",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 5-A/96\n\nde 29 de Janeiro\n\nFace ao Programa do XIII Governo Constitucional, reconhecendo a necessidade de dinamizar os espaços de participação dos jovens nas decisões políticas que lhes dizem respeito, torna-se necessário proceder à modificação da composição e à reformulação do Conselho Consultivo da Juventude, de modo a reforçar o diálogo, valorizando-o através deste órgão de consulta e de acompanhamento da acção governativa.\n\nA nova composição do Conselho aumenta a presença das organizações não governamentais e diminui a dos membros do Governo, criando desta maneira um espaço de maior participação para os jovens.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nForam também ouvidos o Conselho Nacional da Juventude e as organizações nacionais da juventude inscritas no Registo Nacional das Associações Juvenis.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "69751731": {
+   "fragment_id": "69773267",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - O Conselho Consultivo da Juventude (adiante designado por CCJ) é um organismo integrado na Presidência do Conselho de Ministros, presidido pelo membro do Governo responsável pela área da juventude, que compreende os seguintes membros:\n\na) Um representante do Conselho Nacional da Juventude;\n\nb) Um representante da Comissão de Juventude da UGT;\n\nc) Um representante da INTERJOVEM;\n\nd) Um representante da Associação Nacional de Jovens Empresários;\n\ne) Um representante da Associação de Jovens Agricultores de Portugal;\n\nf) Um representante de cada uma das organizações de juventude dos cinco maiores partidos com assento na Assembleia da República;\n\ng) Um representante das associações de estudantes do ensino superior, designado pelas associações e federações académicas enquanto não for criada uma organização de âmbito nacional;\n\nh) Um representante da Federação Nacional das Associações de Estudantes do Ensino Superior Politécnico;\n\ni) Um representante das associações de estudantes do ensino secundário;\n\nj) Um representante da Associação Nacional de Municípios Portugueses;\n\nl) Um representante da Associação Nacional de Freguesias;\n\nm) Um representante do Departamento de Juventude do Secretariado Nacional da Educação Cristã;\n\nn) Um representante do Departamento de Juventude da Confederação Nacional das Associações de Família;\n\no) Um representante das associações de jovens profissionais liberais;\n\np) Um representante das cooperativas de jovens;\n\nq) Um representante das associações de defesa do ambiente;\n\nr) Um representante das associações de defesa do consumidor;\n\ns) Um representante do Clube Português de Artes e Ideias;\n\nt) Um representante das associações de escutismo e guidismo;\n\nu) Um representante das comunidades portugueses no Mundo;\n\nv) Um representante da comunidade timorense;\n\nx) Um representante das comunidades imigrantes.\n\n2 - Sempre que da ordem de trabalhos constarem matérias que digam respeito à área específica da sua competência ou actividade, poderão ainda participar nas reuniões do CCJ e a convite do seu presidente:\n\na) Os membros do Governo;\n\nb) Os membros dos governos regionais;\n\nc) As organizações juvenis de âmbito nacional, regional e local;\n\nd) Outras entidades que desenvolvam uma acção relevante na área da juventude.\n\n3 - Os membros do Governo, convidados nos termos do número anterior, poder-se-ão fazer representar nas referidas reuniões."
+  },
+  "69751732": {
+   "fragment_id": "69773268",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - O CCJ é um órgão de consulta do membro do Governo responsável pela área da juventude para concertação das políticas nessa mesma área, competindo-lhe:\n\na) Analisar as questões que digam respeito à política global de juventude;\n\nb) Analisar as questões relacionadas com a participação cívica e a integração social e económica dos jovens;\n\nc) Apreciar projectos de diplomas de carácter sectorial, na parte respeitante às questões de juventude.\n\n2 - A ordem de trabalhos de cada reunião é fixada pelo presidente depois de ouvidos os membros do CCJ.\n\n3 - As matérias discutidas no CCJ são objecto de elaboração de uma acta, contendo obrigatoriamente os pareceres emitidos por escrito pelos seus membros, não havendo lugar a votações."
+  },
+  "69751733": {
+   "fragment_id": "69773269",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - O CCJ reúne em plenário, ordinariamente, de dois em dois meses e, extraordinariamente, sempre que convocado pelo seu presidente, sendo lavrada acta das reuniões efectuadas, assinada pelo presidente, que constará em livro próprio, arquivado à ordem do seu gabinete.\n\n2 - O CCJ poderá criar comissões especializadas, destinadas a apreciar questões específicas."
+  },
+  "69751734": {
+   "fragment_id": "69773270",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Os membros do CCJ, à excepção do presidente, têm direito à atribuição de senhas de presença pela participação em reuniões plenárias ou em comissões especializadas.\n\n2 - O montante das senhas de presença será fixado por despacho conjunto do Ministro das Finanças e do membro do Governo responsável pela área da juventude.\n\n3 - Os encargos decorrentes do funcionamento do CCJ serão suportados pelo orçamento do Gabinete do membro do Governo referido no número anterior.\n\n4 - O apoio administrativo ao CCJ será prestado pelo Gabinete do membro do Governo referido no n.º 2."
+  },
+  "69751735": {
+   "fragment_id": "69773271",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nSão revogados os Decretos-Leis n.os 280/91, de 9 de Agosto, e 381/87, de 18 de Dezembro."
+  },
+  "69751752": {
+   "fragment_id": "69773267",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2015-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O Conselho Consultivo da Juventude (adiante designado por CCJ) é um organismo integrado na Presidência do Conselho de Ministros, presidido pelo membro do Governo responsável pela área da juventude, que compreende os seguintes membros:\n\na) Cinco representantes designados pelo Conselho Nacional da Juventude, os quais não podem representar outras organizações integrantes do CCJ;\n\nb) Cinco representantes designados pela Federação Nacional das Associações Juvenis, os quais não podem representar outras organizações integrantes do CCJ;\n\nc) Um representante da Comissão de Juventude da UGT;\n\nd) Um representante da INTERJOVEM;\n\ne) Um representante da Associação Nacional de Jovens Empresários;\n\nf) Um representante da Associação de Jovens Agricultores de Portugal;\n\ng) Um representante de cada uma das organizações de juventude dos partidos com assento na Assembleia da República;\n\nh) Um representante das associações de estudantes do ensino superior universitário;\n\ni) Um representante da Federação Nacional das Associações de Estudantes do Ensino Superior Politécnico;\n\nj) Um representante da Federação Académica do Desporto Universitário;\n\nl) Um representante das associações de estudantes do ensino secundário;\n\nm) Um representante da Associação Nacional de Municípios Portugueses;\n\nn) Um representante da Associação Nacional de Freguesias;\n\no) Um representante do Departamento de Juventude da Confederação Nacional das Associações de Família;\n\np) Um representante do Corpo Nacional de Escutas;\n\nq) Um representante da Associação de Escoteiros de Portugal;\n\nr) Um representante da Associação Guias de Portugal;\n\ns) Um representante do Centro Nacional de Cultura;\n\nt) [Revogada];\n\nu) Um representante das comunidades portugueses no Mundo;\n\nv) [Revogada];\n\nx) [Revogada].\n\n2 - Sempre que da ordem de trabalhos constarem matérias que digam respeito à área específica da sua competência ou actividade, poderão ainda participar nas reuniões do CCJ e a convite do seu presidente:\n\na) Os membros do Governo;\n\nb) Os membros dos governos regionais;\n\nc) O Instituto Português do Desporto e Juventude, I. P.;\n\nd) A Movijovem - Mobilidade Juvenil, C.I.P.R.L.;\n\ne) A Agência Erasmus+ Juventude em Ação;\n\nf) As organizações juvenis de âmbito nacional, regional e local;\n\ng) Outras entidades que desenvolvam uma acção relevante na área da juventude.\n\n3 - Os membros do Governo, convidados nos termos do número anterior, poder-se-ão fazer representar nas referidas reuniões.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+  },
+  "69751753": {
+   "fragment_id": "69773268",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2015-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - O CCJ é um órgão de consulta do membro do Governo responsável pela área da juventude para concertação das políticas nessa mesma área, competindo-lhe:\n\na) Analisar as questões que digam respeito à política global de juventude;\n\nb) Analisar as questões relacionadas com a participação cívica e a integração social e económica dos jovens;\n\nc) Apreciar projectos de diplomas de carácter sectorial, na parte respeitante às questões de juventude.\n\nd) Identificar áreas de intervenção prioritária no domínio da juventude, no âmbito do Livro Branco da Juventude;\n\ne) Identificar as áreas de intervenção no âmbito das estratégias europeias acordadas pelos Estados-Membros da União Europeia para cada decénio;\n\nf) Estabelecer processos de diálogo estruturado.\n\n2 - A ordem de trabalhos de cada reunião é fixada pelo presidente depois de ouvidos os membros do CCJ.\n\n3 - As matérias discutidas no CCJ são objeto de elaboração de uma ata, contendo obrigatoriamente os pareceres emitidos por escrito pelos seus membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+  },
+  "69751754": {
+   "fragment_id": "69773269",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2015-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - O CCJ reúne em plenário, ordinariamente, de três em três meses e, extraordinariamente, sempre que convocado pelo seu presidente, sendo lavrada ata das reuniões efetuadas, assinada pelo presidente, que constará em livro próprio, arquivado à ordem do seu gabinete.\n\n2 - O CCJ poderá criar comissões especializadas, destinadas a apreciar questões específicas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+  },
+  "69751755": {
+   "fragment_id": "69773270",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2015-07-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Os membros do CCJ não têm, pelo exercício dessas funções, direito a receber qualquer tipo de remuneração ou abono.\n\n2 - [Revogado].\n\n3 - Os encargos decorrentes do funcionamento do CCJ são suportados pelo orçamento do Gabinete do membro do Governo responsável pela área da juventude.\n\n4 - O apoio administrativo ao CCJ é prestado pelo Gabinete do membro do Governo responsável pela área da juventude.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+  },
+  "69751736": {
+   "fragment_id": "69773272",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Janeiro de 1996. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 25 de Janeiro de 1996.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Janeiro de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "223150713": {
+   "fragment_id": "69773267",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2023-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2023-222877160), em vigor a partir de 2023-10-18",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - O Conselho Consultivo da Juventude (adiante designado por CCJ) é um organismo integrado na Presidência do Conselho de Ministros, presidido pelo membro do Governo responsável pela área da juventude, que compreende os seguintes membros:\n\na) Três representantes designados pelo Conselho Nacional da Juventude, os quais não podem representar outras organizações integrantes do CCJ;\n\nb) Três representantes designados pela Federação Nacional das Associações Juvenis, os quais não podem representar outras organizações integrantes do CCJ;\n\nc) Um representante da Comissão de Juventude da UGT;\n\nd) Um representante da INTERJOVEM;\n\ne) Um representante da Associação Nacional de Jovens Empresários;\n\nf) Um representante da Associação de Jovens Agricultores de Portugal;\n\ng) Um representante de cada uma das organizações de juventude dos partidos com assento na Assembleia da República;\n\nh) Um representante das associações de estudantes do ensino superior universitário;\n\ni) Um representante da Federação Nacional das Associações de Estudantes do Ensino Superior Politécnico;\n\nj) Um representante da Federação Académica do Desporto Universitário;\n\nl) Um representante das associações de estudantes do ensino secundário;\n\nm) Um representante da Associação Nacional de Municípios Portugueses;\n\nn) Um representante da Associação Nacional de Freguesias;\n\no) (Revogada.)\n\np) Um representante do Corpo Nacional de Escutas;\n\nq) Um representante da Associação de Escoteiros de Portugal;\n\nr) Um representante da Associação Guias de Portugal;\n\ns) Um representante do Centro Nacional de Cultura;\n\nt) [Revogada];\n\nu) Um representante das comunidades portugueses no Mundo;\n\nv) [Revogada];\n\nx) [Revogada].\n\nz) Um representante designado pela Fundação da Juventude, o qual não pode representar outras organizações integrantes do CCJ;\n\naa) Um representante da Rede Ex Aequo - Associação de Jovens LGBTI e Apoiantes;\n\nbb) Um representante da REDE - Rede Portuguesa de Jovens para a Igualdade de Oportunidades entre Mulheres e Homens;\n\ncc) Um representante jovem das comunidades de pessoas imigrantes em Portugal, a designar pelo Conselho para as Migrações;\n\ndd) Um representante jovem das associações de defesa do ambiente, a designar pelo Conselho Nacional do Ambiente e Desenvolvimento Sustentável;\n\nee) Um representante das pessoas jovens com deficiência, a designar pelo Instituto Nacional para a Reabilitação, I. P.;\n\nff) Um representante jovem das associações de jovens das comunidades ciganas, a designar pelo Conselho Consultivo para a Integração das Comunidades Ciganas;\n\ngg) Um representante jovem a designar pela Comissão para a Igualdade e Contra a Discriminação Racial;\n\nhh) Três elementos de reconhecido mérito, afirmação pública ou institucional, com idade até 30 anos à data da designação, a indicar pelo membro do Governo responsável pela área da juventude ao CCJ, sendo eleito por este através de maioria simples.\n\n2 - Sempre que da ordem de trabalhos constarem matérias que digam respeito à área específica da sua competência ou actividade, poderão ainda participar nas reuniões do CCJ e a convite do seu presidente:\n\na) Os membros do Governo;\n\nb) Os membros dos governos regionais;\n\nc) O Instituto Português do Desporto e Juventude, I. P.;\n\nd) A Movijovem - Mobilidade Juvenil, C.I.P.R.L.;\n\ne) A Agência Nacional Erasmus+ Juventude/Desporto - Corpo Europeu de Solidariedade;\n\nf) As organizações juvenis de âmbito nacional, regional e local;\n\ng) Outras entidades que desenvolvam uma acção relevante na área da juventude.\n\n3 - Os membros do Governo, convidados nos termos do número anterior, poder-se-ão fazer representar nas referidas reuniões.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2023-222877160), em vigor a partir de 2023-10-18\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+  },
+  "223150714": {
+   "fragment_id": "69773268",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2023-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2023-222877160), em vigor a partir de 2023-10-18",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - O CCJ é um órgão de consulta do membro do Governo responsável pela área da juventude para concertação das políticas nessa mesma área, competindo-lhe:\n\na) Analisar as questões que digam respeito à política global de juventude;\n\nb) Analisar as questões relacionadas com a participação cívica e a integração social e económica dos jovens;\n\nc) Apreciar projectos de diplomas de carácter sectorial, na parte respeitante às questões de juventude.\n\nd) Identificar áreas de intervenção prioritária no domínio da juventude, no âmbito da Declaração Lisboa +21 e do Plano Nacional para a Juventude;\n\ne) Identificar as áreas de intervenção no âmbito das estratégias europeias acordadas pelos Estados-Membros da União Europeia para cada decénio;\n\nf) Estabelecer processos de diálogo estruturado.\n\n2 - A ordem de trabalhos de cada reunião é fixada pelo presidente depois de ouvidos os membros do CCJ.\n\n3 - As matérias discutidas no CCJ são objeto de elaboração de uma ata, contendo obrigatoriamente os pareceres emitidos por escrito pelos seus membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2023-222877160), em vigor a partir de 2023-10-18\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+  },
+  "223150715": {
+   "fragment_id": "69773269",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2023-10-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2023-222877160), em vigor a partir de 2023-10-18",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - O CCJ reúne em plenário, ordinariamente, de três em três meses e, extraordinariamente, sempre que convocado pelo seu presidente, sendo lavrada ata das reuniões efetuadas, assinada pelo presidente, que constará em livro próprio, arquivado à ordem do seu gabinete.\n\n2 - O CCJ poderá criar comissões especializadas, destinadas a apreciar questões específicas.\n\n3 - As comissões especializadas apresentam um relatório quando for dada por finalizada a sua atividade.\n\n4 - Sempre que devidamente expresso na convocatória das reuniões plenárias previstas no n.º 1, a participação dos membros pode decorrer por via telemática.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2023-222877160), em vigor a partir de 2023-10-18\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2015 - Diário da República n.º 132/2015, Série I de 2015-07-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2015-69773245), em vigor a partir de 2015-07-14"
+  }
+ }
+}

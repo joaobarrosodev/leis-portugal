@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:139472785:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2020-855435123",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/62-2020-139472785",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-08-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "855433660"
+   ]
+  }
+ ],
+ "fragments": {
+  "855433660": {
+   "fragment_id": "855435124",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 62/2020\n\nSumário: Recomenda ao Governo o alargamento da oferta de serviços de programas na televisão digital terrestre.\n\nRecomenda ao Governo o alargamento da oferta de serviços de programas na televisão digital terrestre\n\nA Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que tome as medidas necessárias ao alargamento da oferta de serviços de programas do serviço público de televisão na televisão digital terrestre."
+  }
+ }
+}

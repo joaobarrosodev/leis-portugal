@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:218769:por
+title: Despacho Normativo n.º 69/86
+short_title: null
+summary: Actualiza os valores dos subsídios mensais a atribuir às famílias de acolhimento para manutenção dos menores. Revoga
+  o Despacho Normativo n.º 146/84, de 30 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Trabalho e Segurança Social - Secretaria de Estado da Segurança Social
+proposing_entity: null
+official_number: 69/86
+official_date: null
+publication_date: '1986-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1986, Série I de 1986-08-19
+  number: '189'
+  series: I
+  supplement: null
+  pages: 2089 - 2089
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/08/18900/20892089.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '218769'
+  dre_path: /dr/detalhe/despacho-normativo/69-1986-218769
+  internal: pt:dre:218769:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-1986-218769
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-1986-218769
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-08-19T00:00:00Z'
+integrity:
+  source_sha256: c1b777f7ecc2f27877a45cc90c4ee4d13cb91e0727b87ea3c8a6f8566ea774e8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-69-218769.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 69/86
+
+Pelo [Decreto-Lei n.º 288/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-1979-377750), de 13 de Agosto, foi instituída a colocação familiar como uma resposta da segurança social com o objectivo de fazer acolher temporariamente, por famílias consideradas idóneas, menores cujas famílias naturais não estejam em condições de desempenhar de modo adequado a sua função educativa e social.
+
+Por sua vez, o artigo 5.º do [Decreto Regulamentar n.º 60/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1980-462246), de 10 de Outubro, refere que, nos casos em que sejam devidas prestações pecuniárias às famílias de acolhimento, os respectivos quantitativos mensais serão estabelecidos por despacho e revistos periodicamente, tendo em conta o agravamento do custo de vida.
+
+Assim, e tendo em conta a actualização dos valores das comparticipações financeiras, no corrente ano de 1986,a pagar pelos centros regionais de segurança social às instituições particulares de solidariedade social com as quais tenham sido celebrados acordos de cooperação nos termos dos Despachos Normativos n.os [387/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/387-1980-226775) e [388/80](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/388-1980-226778), de 31 de Dezembro, importa proceder à actualização das prestações pecuniárias a que se refere o artigo 5.º do mencionado [Decreto Regulamentar n.º 60/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1980-462246), de 10 de Outubro.
+
+Nestes termos, e tendo em conta o disposto no n.º 3 do artigo 5.º do [Decreto Regulamentar n.º 60/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/60-1980-462246), determino, ao abrigo do artigo 202.º, alínea c), da Constituição, o seguinte:
+
+1 - Os valores dos subsídios mensais a atribuir às famílias de acolhimento para manutenção dos menores são fixados nos quantitativos seguintes:
+
+a) Primeiro menor - 8300$00;
+
+b) Segundo menor - 7400$00;
+
+c) Terceiro menor - 6600$00.
+
+2 - O subsídio mensal de retribuição à família de acolhimento pelos serviços prestados é fixado em 5400$00 por cada menor a cargo.
+
+3 - Os subsídios a que se referem os números anteriores serão reduzidos em 25% sempre que:
+
+a) O menor frequente estabelecimento de ensino que forneça gratuitamente alimentação, tratando-se de subsídios para manutenção;
+
+b) O menor frequente estabelecimento de ensino, no caso de subsídios de retribuição à família de acolhimento.
+
+4 - Fica revogado o [Despacho Normativo n.º 146/84](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/146-1984-373645), de 30 de Agosto.
+
+5 - O presente despacho produz efeitos desde o dia 1 de Janeiro de 1986.
+
+Secretaria de Estado da Segurança Social, 25 de Julho de 1986. - O Secretário de Estado da Segurança Social, José Nobre Pinto Sancho.

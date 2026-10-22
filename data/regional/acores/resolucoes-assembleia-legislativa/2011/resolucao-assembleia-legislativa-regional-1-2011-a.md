@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:279854:por
+title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 1/2011/A
+short_title: null
+summary: Recomenda, através da Secretaria Regional da Agricultura e Florestas, que se encontrem mecanismos de compensação
+  financeira bem como o reforço do acompanhamento das explorações vitícolas a fim de atenuar os graves prejuízos decorrentes
+  da quebra de produção em várias ilhas do arquipélago dos Açores
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 1/2011/A
+official_date: null
+publication_date: '2011-02-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 33/2011, Série I de 2011-02-16
+  number: '33'
+  series: I
+  supplement: null
+  pages: 825 - 825
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/02/03300/0082500825.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalraa/1/2011/02/16/a/dre/pt/html
+  oj: null
+  dre: '279854'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/1-2011-279854
+  internal: pt:dre:279854:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/1-2011-279854
+  metadata_url: https://data.dre.pt/eli/resolalraa/1/2011/02/16/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/1-2011-279854
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-02-16T00:00:00Z'
+integrity:
+  source_sha256: cf657a2bc7f292f4e7291eff27c0e991619977a283c7983737a5c66e51a25d84
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2011/DRE-2011-1-279854.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Campanha Vinícola
+- ILHA de são Miguel
+- ILHA Terceira
+- Compensação Financeira
+- Secretaria Regional da Agricultura e Florestas
+- Ilha de São Jorge
+- ILHA de Santa Maria
+- Ilha do Pico
+- Recomendação
+- Ilha Graciosa
+- Açores
+- Vitivinicultor
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 1/2011/A
+
+Campanha vitivinícola 2009-2010
+
+A Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos regimentais e estatutários aplicáveis, recomendar ao Governo Regional que:
+
+1 - Através da Secretaria Regional da Agricultura e Florestas, encontre mecanismos de compensação financeira para atenuar os graves prejuízos que ocorreram nos rendimentos de muitos agregados familiares das ilhas do Pico, Terceira, Graciosa, São Miguel, Santa Maria e São Jorge, em resultado da extraordinária e profunda quebra de produção vinícola.
+
+2 - A Secretaria Regional da Agricultura e Florestas, através dos técnicos que pertencem aos quadros de ilha dos respectivos Serviços de Desenvolvimento Agrário, reforce o acompanhamento das explorações vitícolas por forma a manter um aconselhamento atempado de cariz técnico e de informação profissional, contrariando as vicissitudes que podem afectar negativamente as produções vitivinícolas e, consequentemente, o rendimento dos vitivinicultores.
+
+Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 28 de Janeiro de 2011.
+
+**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**

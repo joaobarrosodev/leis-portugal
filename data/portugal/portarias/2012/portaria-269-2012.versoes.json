@@ -1,0 +1,175 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174832:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-123256203",
+ "dre_path": "/dr/detalhe/portaria/269-2012-174832",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-09-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123259679",
+    "123259680",
+    "123259681",
+    "123259682",
+    "123259683",
+    "123259684",
+    "123259685",
+    "123259686",
+    "123259687",
+    "123259688",
+    "123259689",
+    "123259690"
+   ]
+  },
+  {
+   "date": "2019-07-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123234420:por",
+     "title": "Portaria n.º 221/2019",
+     "published": "2019-07-17",
+     "dre_path": "/dr/detalhe/portaria/221-2019-123234420"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "123259679",
+    "123259680",
+    "123259702",
+    "123259682",
+    "123259683",
+    "123259684",
+    "123259685",
+    "123259686",
+    "123259687",
+    "123259688",
+    "123259689",
+    "123259690",
+    "123259691"
+   ]
+  }
+ ],
+ "fragments": {
+  "123259679": {
+   "fragment_id": "123256204",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 269/2012\n\nde 3 de setembro\n\nCom a criação, na dependência da Polícia Judiciária, do Gabinete de Recuperação de Ativos (GRA), operada pela Lei n.º 45/2011, de 24 de junho, pretende-se identificar, localizar e apreender bens ou produtos relacionados com a prática de crimes e assegurar a cooperação com os gabinetes de recuperação de ativos criados por outros Estados.\n\nDe acordo com o artigo 5.º desta lei, o GRA é composto por elementos oriundos da Polícia Judiciária, do Instituto dos Registos e do Notariado, I. P., da Direção-Geral dos Impostos e da Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, nomeados em comissão de serviço. A recente alteração das estruturas da Administração Pública, em consequência da implementação do Plano de Redução e Melhoria da Administração Central do Estado, conduziu à fusão da Direção-Geral dos Impostos e da Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo numa única entidade, a Autoridade Tributária e Aduaneira, passando os elementos daquelas entidades a integrar esta última.\n\nImporta, agora, em cumprimento do artigo 5.º, n.º 2, da Lei n.º 45/2011, de 24 de junho, fixar a estrutura do GRA, a forma de coordenação, bem como a duração das comissões de serviço dos elementos que o integram.\n\nContudo, a imprevisibilidade, nesta fase inicial, do volume de trabalho a desenvolver pelo GRA e a necessidade de assegurar o normal funcionamento dos serviços, implica que a afetação dos recursos humanos se faça de forma progressiva e na razão direta das exigências que vierem a ser colocadas, mas sem que daí resultem constrangimentos de funcionamento. Tal leva a que se estabeleça apenas o número de elementos externos à Polícia Judiciária, permitindo-se em relação a estes últimos uma gestão previsional em função das necessidades. Para isso, permite-se, ainda, a cessação, a todo o tempo, das comissões de serviço.\n\nFoi promovida a audição do Conselho Superior da Magistratura, do Conselho Superior do Ministério Público, do Conselho Superior dos Tribunais Administrativos e Fiscais, da Ordem dos Advogados, da Câmara dos Solicitadores, da Associação Portuguesa dos Administradores Judiciais, da Associação Sindical dos Juízes Portugueses, do Sindicato dos Magistrados do Ministério Público, do Conselho dos Oficiais de Justiça, da Associação dos Oficiais de Justiça, do Sindicato dos Funcionários Judiciais, do Sindicato dos Oficiais de Justiça e da Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nTendo em conta o disposto no artigo 5.º da Lei n.º 45/2011, de 24 de junho, manda o Governo, pelo Ministro de Estado e das Finanças e pela Ministra da Justiça, o seguinte:"
+  },
+  "123259680": {
+   "fragment_id": "123256205",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nA presente portaria fixa a composição e coordenação do Gabinete de Recuperação de Ativos (GRA)."
+  },
+  "123259681": {
+   "fragment_id": "123256206",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição do GRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição do GRA\n\n1 - Compete ao Diretor Nacional da Polícia Judiciária ou, mediante delegação, ao Diretor Nacional-Adjunto, determinar, de acordo com as necessidades de investigação, o número de elementos que, nos termos do n.º 1 do artigo 6.º da Lei n.º 45/2011, de 24 de junho, compõem o GRA, não podendo o número de elementos da Polícia Judiciária ser inferior ao total dos membros originários das outras entidades.\n\n2 - O número de elementos do Instituto dos Registos e Notariado, I. P., num máximo de dois, e da Autoridade Tributária e Aduaneira, num máximo de sete, é definido após consulta prévia aos dirigentes máximos das respetivas entidades.\n\n3 - A distribuição dos elementos pela sede e delegações é definida por despacho do Diretor Nacional da Polícia Judiciária ou, mediante delegação, do Diretor Nacional-Adjunto, nos termos do artigo 6.º da Lei n.º 45/2011, de 24 de junho, em articulação com os dirigentes máximos dos serviços de origem dos elementos a afetar.\n\n4 - Os elementos que exerçam funções na sede podem, de acordo com as normas de funcionamento do GRA, ser temporariamente afetos às delegações do Norte, Centro e Sul, a funcionar respetivamente no Porto, em Coimbra e em Faro."
+  },
+  "123259682": {
+   "fragment_id": "123256207",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação dos elementos do GRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Designação dos elementos do GRA\n\n1 - Os elementos da Polícia Judiciária são nomeados por despacho do Diretor Nacional ou, mediante delegação, do Diretor Nacional-Adjunto.\n\n2 - Os elementos não pertencentes à Polícia Judiciária são propostos pelos dirigentes máximos dos respetivos serviços, de entre os trabalhadores com relação jurídica de emprego público, com nível de acesso, em tempo real, à totalidade da informação constante das respetivas bases de dados informatizadas ou de outra natureza.\n\n3 - Sem prejuízo do disposto no número anterior, a indicação de elementos do Instituto dos Registos e Notariado, I. P., apenas pode recair sobre funcionários integrados nas carreiras de conservador ou ajudante dos registos, de reconhecida competência profissional e experiência para o desempenho das funções.\n\n4 - Todos os elementos do GRA são nomeados em regime de comissão de serviço, com a duração de três anos, renovável por iguais períodos, podendo a mesma ser dada como finda, em qualquer momento, por despacho do Diretor Nacional da Polícia Judiciária ou, mediante delegação, do Diretor Nacional-Adjunto."
+  },
+  "123259683": {
+   "fragment_id": "123256208",
+   "type": 11,
+   "heading": "Artigo 4.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Funcionamento\n\nO GRA funciona junto da Direção Nacional da Polícia Judiciária, da qual depende."
+  },
+  "123259684": {
+   "fragment_id": "123256209",
+   "type": 11,
+   "heading": "Artigo 5.º — Coordenação do GRA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Coordenação do GRA\n\n1 - O GRA é coordenado por um elemento da Polícia Judiciária, nomeado em comissão de serviço, de entre os Coordenadores Superiores de Investigação Criminal, Coordenadores de Investigação Criminal, Inspetores Chefes ou detentores de licenciatura adequada, de reconhecida competência profissional e experiência para o desempenho das funções.\n\n2 - O coordenador do GRA é nomeado por despacho do membro do Governo responsável pela área da Justiça, sob proposta do Diretor Nacional.\n\n3 - Cabe ao coordenador do GRA assegurar o normal funcionamento e organização do Gabinete.\n\n4 - Os elementos que integram o GRA atuam sob a direção e na dependência funcional do coordenador, a quem respondem, nomeadamente para efeitos de férias e faltas, sem prejuízo da autonomia técnica.\n\n5 - Os elementos que integram o GRA estão obrigados aos deveres de cooperação e coadjuvação recíprocos nos limites da missão e das competências atribuídas por lei a este Gabinete."
+  },
+  "123259685": {
+   "fragment_id": "123256210",
+   "type": 11,
+   "heading": "Artigo 6.º — Custos de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Custos de funcionamento\n\nA Polícia Judiciária assegura os meios necessários ao normal funcionamento do GRA, sendo as remunerações dos elementos que o compõem suportadas pelos serviços de origem, sem qualquer alteração de posicionamento remuneratório na categoria respetiva."
+  },
+  "123259686": {
+   "fragment_id": "123256211",
+   "type": 11,
+   "heading": "Artigo 7.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Informação\n\n1 - O acesso à informação detida por cada entidade que compõe o GRA é realizado exclusivamente pelos seus trabalhadores ali colocados, através de terminais das respetivas bases de dados informáticas ou, quando esta esteja organizada noutro tipo de suporte, através do meio mais expedito de acesso à informação.\n\n2 - Cada entidade é responsável pela instalação e manutenção dos respetivos terminais informáticos de acesso imediato às suas bases de dados e de comunicação direta com os respetivos serviços de origem, bem como gestão dos acessos, que deverão ser sempre de nível superior."
+  },
+  "123259687": {
+   "fragment_id": "123256212",
+   "type": 11,
+   "heading": "Artigo 8.º — Regras de tramitação das consultas e de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regras de tramitação das consultas e de segurança\n\n1 - As consultas efetuadas aos sistemas de armazenamento de dados ao abrigo do disposto na presente portaria são objeto de registo do qual consta obrigatoriamente:\n\na) Identificação do inquérito em curso;\n\nb) Identificação do sujeito passivo objeto da consulta solicitada;\n\nc) Dados fornecidos pelo sistema pertinentes para a consulta solicitada;\n\nd) Identidade de quem efetuou a consulta e transmitiu a informação recolhida.\n\n2 - O registo mencionado no número anterior é supervisionado pelo coordenador do GRA, que é responsável pelo seu correto preenchimento e guarda.\n\n3 - O número de consultas efetuadas fica registado automaticamente em sistema informático de controlo, do mesmo constando:\n\na) Data e hora da consulta;\n\nb) Sistema acedido;\n\nc) Identidade codificada do elemento que procedeu à consulta."
+  },
+  "123259688": {
+   "fragment_id": "123256213",
+   "type": 11,
+   "heading": "Artigo 9.º — Auditorias técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Auditorias técnicas\n\nO sistema de consultas a que se referem os artigos anteriores é objeto de auditorias periódicas a efetuar pelas entidades competentes."
+  },
+  "123259689": {
+   "fragment_id": "123256214",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposição final\n\nÉ subsidiariamente aplicável o disposto na Lei n.º 67/98, de 26 de outubro."
+  },
+  "123259690": {
+   "fragment_id": "123256215",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "123259702": {
+   "fragment_id": "123256206",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição do GRA",
+   "in_force_from": "2019-07-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 221/2019 - Diário da República n.º 135/2019, Série I de 2019-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/221-2019-123234420), em vigor a partir de 2019-07-18"
+   ],
+   "markdown": "###### Artigo 2.º — Composição do GRA\n\n1 - Compete ao Diretor Nacional da Polícia Judiciária ou, mediante delegação, ao Diretor Nacional-Adjunto, determinar, de acordo com as necessidades de investigação, o número de elementos que, nos termos do n.º 1 do artigo 6.º da Lei n.º 45/2011, de 24 de junho, compõem o GRA, não podendo o número de elementos da Polícia Judiciária ser inferior ao total dos membros originários das outras entidades.\n\n2 - O número de elementos do Instituto dos Registos e Notariado, I. P., num máximo de quatro, e da Autoridade Tributária e Aduaneira, num máximo de sete, é definido após consulta prévia aos dirigentes máximos das respetivas entidades.\n\n3 - A distribuição dos elementos pela sede e delegações é definida por despacho do Diretor Nacional da Polícia Judiciária ou, mediante delegação, do Diretor Nacional-Adjunto, nos termos do artigo 6.º da Lei n.º 45/2011, de 24 de junho, em articulação com os dirigentes máximos dos serviços de origem dos elementos a afetar.\n\n4 - Os elementos que exerçam funções na sede podem, de acordo com as normas de funcionamento do GRA, ser temporariamente afetos às delegações do Norte, Centro e Sul, a funcionar respetivamente no Porto, em Coimbra e em Faro.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 221/2019 - Diário da República n.º 135/2019, Série I de 2019-07-17](https://diariodarepublica.pt/dr/detalhe/portaria/221-2019-123234420), em vigor a partir de 2019-07-18"
+  },
+  "123259691": {
+   "fragment_id": "123256216",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 24 de agosto de 2012. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 21 de agosto de 2012."
+  }
+ }
+}

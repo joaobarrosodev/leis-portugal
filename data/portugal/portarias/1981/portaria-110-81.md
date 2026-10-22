@@ -1,0 +1,135 @@
+---
+schema_version: '1.0'
+id: pt:dre:390039:por
+title: Portaria n.º 110/81
+short_title: null
+summary: Autoriza a Setenave - Estaleiros Navais de Setúbal, E. P., a emitir um empréstimo até ao montante de 3750000 contos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Indústria e Energia
+proposing_entity: null
+official_number: 110/81
+official_date: null
+publication_date: '1981-01-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 20/1981, Série I de 1981-01-24
+  number: '20'
+  series: I
+  supplement: null
+  pages: 198 - 199
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/01/02000/01980199.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '390039'
+  dre_path: /dr/detalhe/portaria/110-1981-390039
+  internal: pt:dre:390039:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1981-390039
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/110-1981-390039
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-01-24T00:00:00Z'
+integrity:
+  source_sha256: aabee41febf3a77e9264c5a48b79a2c4c64c6753e192136d6f78d4ed8d3d6873
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-110-390039.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 110/81
+
+da 24 de Janeiro
+
+Nos termos do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho, e das Portarias n.os [416/78](https://diariodarepublica.pt/dr/detalhe/portaria/416-1978-297014) e [26-Z/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-z-1980-508778), de 27 de Julho e 9 de Janeiro, respectivamente, e considerando o protocolo financeiro celebrado em 31 de Dezembro de 1980 entre a Setenave - Estaleiros Navais de Setúbal, E. P., e as instituições de crédito nacionais suas credoras:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Indústria e Energia, em conformidade com o n.º 1 do artigo 2.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), de 19 de Junho, o seguinte:
+
+1.º - 1 - É autorizada a Setenave - Estaleiros Navais de Setúbal, E. P., a emitir um empréstimo por obrigações para saneamento financeiro até ao montante de 3750000 contos, conforme previsto no aludido protocolo financeiro.
+
+2 - Atendendo à situação financeira da empresa, e ao abrigo do disposto no n.º 2 do artigo 2.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), é concedida a faculdade de os juros vencidos pelo empréstimo obrigacionista, deduzidos da bonificação prevista no n.º 5, nos anos de 1981, 1982 e 1983, serem pagos por meio de obrigações para saneamento financeiro a emitir nas mesmas condições.
+
+2.º A primeira emissão correspondente aos créditos vencidos até 31 de Dezembro de 1980 será reportada a 1 de Janeiro de 1981. A emissão dos montantes relativos aos créditos a vencer em 1981 processar-se-á na data do respectivo vencimento.
+
+3.º O empréstimo referido no n.º 1 do n.º 1.º, independentemente da data de emissão das obrigações, será amortizado em sete anuidades iguais, vencendo-se a primeira em 15 de Dezembro de 1990. O montante de cada anuidade de amortização será dividido pelas instituições de crédito subscritoras, na proporção dos montantes totais subscritos por cada uma.
+
+4.º - 1 - Nos termos dos n.os 1 e 2 do n.º 2.º da [Portaria n.º 416/78](https://diariodarepublica.pt/dr/detalhe/portaria/416-1978-297014), de 27 de Julho, as obrigações cuja emissão é agora autorizada proporcionarão juros contados diariamente a uma taxa igual, em cada momento, à taxa básica de desconto do Banco de Portugal, pagos anualmente em 15 de Dezembro de cada ano.
+
+2 - Os primeiros juros serão pagos em 15 de Dezembro de 1981 e corresponderão ao período que decorrer desde a data da emissão das obrigações.
+
+5.º - 1 - Nos termos do n.º 1 do n.º 1.º da [Portaria n.º 416/78](https://diariodarepublica.pt/dr/detalhe/portaria/416-1978-297014), à Setenave - Estaleiros Navais de Setúbal, E. P., será concedida uma bonificação de taxa de juro de 5%, a qual será anualmente entregue aos bancos em 15 de Dezembro.
+
+2 - Em relação aos anos futuros e de acordo com o n.º 3 do n.º 1.º da citada portaria, se as condições gerais de exploração da empresa aconselharem a rever o quantitativo fixado no número anterior, o Ministro das Finanças e do Plano fixará, por despacho, a bonificação a conceder.
+
+6.º - 1 - Nos termos do n.º 1.º da [Portaria n.º 416/78](https://diariodarepublica.pt/dr/detalhe/portaria/416-1978-297014), de 27 de Julho, pelas instituições de crédito subscritoras do empréstimo obrigacionista a que se refere a presente portaria é devida uma comissão de garantia fixada em 10% do valor dos créditos liquidados pelo referido empréstimo obrigacionista, a reverter para crédito da conta especial para o efeito criada na Direcção-Geral do Tesouro.
+
+2 - Não são passíveis de pagamento da comissão referida no número anterior as parcelas do empréstimo obrigacionista utilizadas na liquidação de créditos beneficiando de garantias reais.
+
+3 - De acordo com a [Portaria n.º 26-Z/80](https://diariodarepublica.pt/dr/detalhe/portaria/26-z-1980-508778), de 9 de Janeiro, a importância devida pelas instituições de crédito a título de comissão de garantia será paga, diferidamente, em três prestações de 25%, 50% e 25%, que se vencerão, respectivamente, nos dias 30 de Novembro de 1981, 1982 e 1983.
+
+7.º Nos termos do artigo 11.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), o pagamento do serviço da dívida do empréstimo obrigacionista será considerado pela empresa como objectivo de equilíbrio financeiro no âmbito do acordo de saneamento económico-financeiro previsto no n.º 2 da Resolução do Conselho de Ministros n.º 398/80, de 28 de Novembro.
+
+8.º Eventuais dúvidas e lacunas serão interpretadas ou integradas, respectivamente, por despacho do Ministro das Finanças e do Plano.
+
+9.º Em anexo publica-se um resumo do protocolo financeiro celebrado em 31 de Dezembro de 1980 entre a Setenave - Estaleiros Navais de Setúbal, E. P., e as instituições de crédito nacionais suas credoras, que constitui parte integrante da presente portaria.
+
+Ministérios das Finanças e do Plano e da Indústria e Energia, 2 de Janeiro de 1981. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - Pelo Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta, Secretário de Estado da Indústria Transformadora.
+
+Resumo do protocolo financeiro
+
+1 - Entre a Setenave - Estaleiros Navais de Setúbal, E. P., e as instituições de crédito nacionais suas credoras é acordada a liquidação, através da subscrição de um empréstimo obrigacionista, até ao montante de 3750000 contos, dos créditos detidos pelos bancos segundo discriminação constante do quadro anexo.
+
+2 - a) Os valores que figuram no quadro anexo poderão ser ajustados, no prazo de trinta dias, para correcção de eventuais erros e omissões.
+
+b) Findo aquele prazo, os valores que não forem objecto de correcção consideram-se definitivos, sem prejuízo de, relativamente aos montantes correspondentes aos créditos a converter em obrigações no decurso de 1981, o seu apuramento final ser determinado na altura do respectivo vencimento.
+
+3 - Para efeitos do disposto no artigo 9.º do [Decreto-Lei n.º 146/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-1978-295174), a Setenave - Estaleiros Navais de Setúbal, E. P., compromete-se a inscrever nos seus orçamentos anuais, a elaborar nos termos do artigo 24.º do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, e demais legislação aplicável, as verbas necessárias ao pagamento dos juros e amortizações do empréstimo obrigacionista.
+
+4 - A empresa compromete-se a submeter semestralmente à apreciação dos bancos, através do Banco Totta & Açores, mapas demonstrativos da sua situação económica e financeira. Igualmente, compromete-se a remeter à Inspecção-Geral de Finanças, com a periodicidade definida na lei, os elementos nela mencionados.
+
+## ANEXO — Participação dos bancos no empréstimo obrigacionista
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/01/02000/01980199.pdf))](https://files.diariodarepublica.pt/1s/1981/01/02000/01980199.pdf)

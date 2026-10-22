@@ -1,0 +1,156 @@
+---
+schema_version: '1.0'
+id: pt:dre:374796:por
+title: Resolução do Conselho de Ministros n.º 21/88
+short_title: null
+summary: Aprova para o ano corrente a distribuição a empresas estatais das dotações previstas no Orçamento do Estado a título
+  de indemnizações compensatórias, subsídios não reembolsáveis, financiamento de investimentos e saneamento financeiro
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 21/88
+official_date: null
+publication_date: '1988-05-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/1988, Série I de 1988-05-18
+  number: '115'
+  series: I
+  supplement: null
+  pages: 2073 - 2075
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/05/11500/20732075.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '374796'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/21-1988-374796
+  internal: pt:dre:374796:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-1988-374796
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/21-1988-374796
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-05-18T00:00:00Z'
+integrity:
+  source_sha256: 1d58888d986cc4cfad67c645d17877f044cf4a574bdb5e9d4138a9ce10248a80
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-21-374796.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 21/88
+
+No Orçamento do Estado para 1988 foi inscrita uma dotação para indemnizações compensatórias, subsídios não reembolsáveis, financiamento de investimentos e saneamento financeiro em empresas estatais, que se torna necessário distribuir.
+
+Assim:
+
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+
+1 - Aprovar, para o ano corrente, a distribuição de verbas pelos montantes e empresas constantes do quadro anexo.
+
+2 - Considerar que as verbas relativas a indemnizações compensatórias e subsídios não reembolsáveis revestem a seguinte natureza:
+
+2.1 - Os apoios financeiros aos Caminhos de Ferro Portugueses, E. P., são atribuídos no âmbito das disposições comunitárias aplicáveis:
+
+a) Regulamentos CEE n.os [1191/69](http://data.europa.eu/eli/reg/1969/1191/oj?locale=pt) e [1192/69](http://data.europa.eu/eli/reg/1969/1192/oj?locale=pt), ambos do Conselho, de 26 de Junho de 1969, e [1107/70](http://data.europa.eu/eli/reg/1970/1107/oj?locale=pt), do Conselho, de 4 de Junho de 1970:
+
+Milhares de contos
+
+Obrigações de explorar, de transportar e tarifária ... 10500
+
+Normalização de contas ... 1900
+
+b) Decisão do Conselho n.º [75/327/CEE](http://data.europa.eu/eli/dec/1975/327/oj?locale=pt), de 20 de Maio de 1975:
+
+Subvenção de equilíbrio para o exercício de 1988 ... 5100
+
+17500
+
+2.2 - As compensações financeiras à Companhia Carris de Ferro de Lisboa, Metropolitano de Lisboa, Serviços de Transportes Colectivos do Porto e TRANSTEJO são atribuídas no âmbito do apoio do Estado a serviços de transporte de natureza social.
+
+2.3 - As compensações financeiras à Radiotelevisão Portuguesa, Radiodifusão Portuguesa e TAP - Transportes Aéreos Portugueses são atribuídas no âmbito do apoio do Estado à prestação de serviços essenciais às regiões autónomas.
+
+2.4 - O subsídio relativo à BRISA é atribuído de acordo com a cláusula 9.ª do acordo de equilíbrio financeiro aprovado pelo Decreto-Lei n.º 458/85, de 30 de Outubro.
+
+3 - As dotações de capital para saneamento financeiro da CP são atribuídas no âmbito do Decreto-Lei n.º 361/85, de 5 de Setembro.
+
+4 - As dotações de capital atribuídas ao Metropolitano de Lisboa e aos Caminhos de Ferro Portugueses destinam-se ao financiamento de infra-estruturas de longa duração, sem prejuízo do referido no n.º 3.
+
+5 - As dotações atribuídas a investimentos e participações do Estado destinam-se a aumentos de capital, decorrentes de compromissos contratuais, nas empresas COMETNA, SOREFAME e BRISA.
+
+6 - Estabelecer que a aprovação dos orçamentas das empresas públicas e de capitais públicos possa ser sujeita, em cada caso, à fixação de limites de financiamento adicional líquido e de outros objectivos financeiros a estabelecer por despacho do Ministro das Finanças, ouvido o Ministro da tutela sectorial.
+
+7 - Autorizar que, em casos especiais devidamente justificados, possam ser redistribuídas, por despacho conjunto dos Ministros das Finanças e da tutela, as verbas cuja afectação é agora determinada.
+
+8 - Determinar que todos os pagamentos a efectuar pelo Tesouro para satisfação do serviço da dívida das empresas ou de outros compromissos validamente assumidos pelo Estado sejam, em princípio, regularizados por via da utilização das dotações de capital para saneamento financeiro.
+
+9 - Estabelecer as seguintes regras quanto à forma de disponibilização das verbas a que se refere a presente resolução:
+
+1.ª Subsídios e indemnizações compensatórias:
+
+a) As verbas a entregar a título de subsídios deverão ser objecto de rigorosa justificação prévia, não devendo a Direcção-Geral do Tesouro (DGT) proceder ao seu pagamento sem despachos favoráveis das tutelas sectorial e financeira;
+
+b) As verbas a entregar a título de indemnizações compensatórias serão transferidas mensalmente para as empresas beneficiárias mediante prestações correspondentes a um duodécimo dos montantes atribuídos.
+
+A DGT processará as indemnizações compensatórias respectivas desde que não exista determinação expressa da tutela sectorial ou do Ministro das Finanças estabelecendo procedimento diferente;
+
+c) As indemnizações compensatórias só serão entregues na medida em que for prestado o serviço que as justifica.
+
+2.ª Dotações de capital:
+
+a) As dotações de capital para investimentos a realizar em 1988 serão entregues com base em memória descritiva do investimento efectivamente realizado, apresentada pela empresa e confirmada pela respectiva comissão de fiscalização ou conselho fiscal; no caso de inexistência deste órgão social, a confirmação será feita pela tutela sectorial. A libertação das verbas será proporcional à taxa de cobertura por dotação de capital do investimento aprovado nos termos do artigo 13.º do Decreto-Lei n.º 260/76, de 8 de Abril, com a redacção dada pelo Decreto-Lei n.º 29/84, de 20 de Janeiro, com excepção do projecto «Caminho de Ferro Lisboa-Porto», em que a respectiva libertação é a 100% do investimento aprovado e efectivamente realizado, sem prejuízo do referido no n.º 4 da presente resolução.
+
+No caso das dotações para aumento de capital em empresas participadas, a disponibilização será feita no momento da realização do aumento;
+
+b) As dotações de capital para saneamento financeiro serão entregues com base na indicação pela empresa dos débitos a regularizar. Tais regularizações devem ter lugar imediatamente após a libertação de cada parcela da dotação de capital.
+
+10 - Determinar que a eventual verificação nas empresas de trajectórias subanuais significativamente discrepantes, em relação aos orçamentos e programas de investimentos aprovados, em matéria de proveitos, custos, investimentos ou financiamentos, e as soluções adoptadas devam ser imediatamente comunicadas, em relatório sucinto, aos Ministros das Finanças e da tutela sectorial.
+
+11 - Determinar que os subsídios e as indemnizações compensatórias agora distribuídos possam vir a ser reduzidos, por despacho conjunto dos Ministros das Finanças e da tutela sectorial, nas empresas que adoptem critérios contabilísticos que conduzam a uma sobreavaliação dos seus custos ou a subavaliação de proveitos.
+
+Presidência do Conselho de Ministros, 14 de Abril de 1988. - O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1988/05/11500/20732075.pdf))](https://files.diariodarepublica.pt/1s/1988/05/11500/20732075.pdf)

@@ -1,0 +1,139 @@
+---
+schema_version: '1.0'
+id: pt:dre:398347:por
+title: Decreto n.º 33/72
+short_title: null
+summary: Estabelece ou revê as bases para a inscrição de exportadores e importadores nos Serviços de Comércio de Angola e
+  de Moçambique, a fim da as adaptar às novas condições exigidas por uma maior disciplina das operações de mercadorias com
+  o exterior
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Economia
+proposing_entity: null
+official_number: 33/72
+official_date: null
+publication_date: '1972-01-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 25/1972, Série I de 1972-01-31
+  number: '25'
+  series: I
+  supplement: null
+  pages: 120 - 120
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/01/02500/01200120.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '398347'
+  dre_path: /dr/detalhe/decreto/33-1972-398347
+  internal: pt:dre:398347:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-1972-398347
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/33-1972-398347
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1972-01-31T00:00:00Z'
+integrity:
+  source_sha256: 30b96cccb23222129ff337b315b23b4f9a1209ac078293a5599d34029534ae63
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1972/DRE-1972-33-398347.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 33/72
+
+de 31 de Janeiro
+
+Considerando o que expuseram os governadores-gerais de Angola e Moçambique acerca da necessidade de estabelecer ou rever as bases para a inscrição de exportadores e importadores nos serviços competentes das duas províncias, a fim de as adaptar às novas condições exigidas por uma maior disciplina das operações de mercadorias com o exterior;
+
+Nos termos do § 3.º do artigo 136.º da Constituição, por motivo de urgência;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º - 1. Nas províncias de Angola e Moçambique é obrigatória a inscrição, nos respectivos Serviços de Comércio de todas as pessoas singulares ou colectivas que pretendam realizar operações de exportação, reexportação ou importação de mercadorias.
+
+2. Exceptuam-se do disposto no n.º 1 deste artigo as pessoas singulares ou colectivas que o Governo da província determinar expressamente.
+
+###### Art. 2.º A inscrição referida no artigo 1.º far-se-á separadamente em relação aos exportadores e aos importadores, não sendo a inscrição numa das categorias - exportação ou importação - válida para a realização de operações da outra categoria, excepto quando se trate de reexportações ou importações temporárias ou ainda de devolução de mercadorias importadas.
+
+###### Art. 3.º - 1. Sé é permitida a inscrição como importador ou exportador, numa província, às pessoas singulares aí domiciliadas e às pessoas colectivas com sede ou representação social nessa província.
+
+2. As pessoas singulares ou colectivas que pretendam inscrever-se como importadores deverão possuir um capital mínimo afectado à respectiva actividade.
+
+###### Art. 4.º - 1. Salvas as excepções previstas no n.º 2 do artigo 1.º, nenhum pedido de emissão de boletim de registo prévio poderá ser deferido sem que a requerente se encontre devidamente inscrita na respectiva categoria.
+
+2. Os importadores e os exportadores que pretendam efectuar a referida inscrição podem se obrigados a prestar caução ao exercício da sua actividade, mediante depósito de numerário ou de títulos da dívida pública da província, valores estes que ficarão depositados à ordem dos Serviços de Comércio da respectiva província.
+
+###### Art. 5.º - 1. A inscrição dos importadores far-se-á por classes segundo grupos de mercadorias definidas pelas posições e subposições das pautas aduaneiras e de harmonia com o grau de especialização atingido pelo comércio em cada província.
+
+2. Os governadores das províncias poderão estabelecer que os importadores com estabelecimento nas diferentes áreas abrangidas pelas delegações e subdelegações dos Serviços de Comércio tenham de efectuar uma inscrição por cada departamento em que queiram processar os seus pedidos de importação.
+
+3. A inscrição dos exportadores far-se-á numa classe única.
+
+4. A inscrição dos importadores e dos exportadores é renovada anualmente.
+
+###### Art. 6.º - 1. Os importadores e os exportadores pagarão nos serviços competentes e pela inscrição em cada classe taxas anuais, cujos quantitativos serão fixados por despacho do governador da província, sob proposta dos Serviços de Comércio respectivos.
+
+2. As taxas anuais referidas no número anterior poderão ser diferenciadas por distrito, sempre que os Governos das províncias assim determinarem, e revertem integralmente para os fundos de comercialização nelas existentes.
+
+###### Art. 7.º - 1. Os importadores para se poderem inscrever numa classe, têm de provar que efectuaram, num dos dois últimos anos anteriores àquele a que a inscrição respeitar, um valor anual mínimo de importação, o qual será fixado, anualmente e em relação a cada classe, tendo em consideração a evolução do comércio importador da província.
+
+2. Os importadores que se inscreverem pela primeira vez ficam sujeitos às disposições que, para este efeito, forem regulamentadas para cada província.
+
+###### Art. 8.º Com vista à regulamentação das disposições constantes deste diploma, será elaborado um regulamento de inscrição de exportadores e importadores o qual será publicado através de diploma legislativo dos Governos das respectivas províncias, dentro de noventa dias, a contar da entrada em vigor do presente diploma, ou por portaria ministerial, em caso de urgência.
+
+###### Art. 9.º O Ministro do Ultramar poderá, através de portaria, tornar extensivo este diploma às restantes províncias ultramarinas, com as modificações que se julgarem necessárias, a fim de o adaptar aos condicionalismos exigidos em cada caso.
+
+###### Art. 10.º Este diploma entra em vigor, em cada província ultramarina, na data da publicação do respectivo regulamento no Boletim Oficial.
+
+Marcello Caetano - Joaquim Moreira da Silva Cunha.
+
+**Promulgado em 21 de Janeiro de 1972.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser publicado nos Boletins Oficiais de Angola e Moçambique. - J. da Silva Cunha.

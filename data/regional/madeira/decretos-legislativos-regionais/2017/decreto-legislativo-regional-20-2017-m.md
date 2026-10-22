@@ -1,0 +1,388 @@
+---
+schema_version: '1.0'
+id: pt:dre:107791618:por
+title: Decreto Legislativo Regional n.º 20/2017/M
+short_title: null
+summary: Segunda alteração ao Decreto Legislativo Regional n.º 3/98/M, de 1 de abril, que criou o Conselho Regional de Educação
+  e Formação Profissional
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 20/2017/M
+official_date: null
+publication_date: '2017-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/2017, Série I de 2017-08-01
+  number: '147'
+  series: I
+  supplement: null
+  pages: 4429 - 4432
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/08/14700/0442904432.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/20/2017/08/01/m/dre/pt/html
+  oj: null
+  dre: '107791618'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/20-2017-107791618
+  internal: pt:dre:107791618:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2017-107791618
+  metadata_url: https://data.dre.pt/eli/declegreg/20/2017/08/01/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2017-107791618
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-08-01T00:00:00Z'
+integrity:
+  source_sha256: 3d78196e56666d71cc5b5f40d6bb25c86ee22d853607669bbc4e2f238e4f7797
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2017/DRE-2017-20-107791618.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho Regional de Educação e Formação Profissional
+- Definição de Competências
+- Orgânica
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/20/2002/11/16/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/20/2002/11/16/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/23/1994/09/14/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/23/1994/09/14/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/3/1998/04/01/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/3/1998/04/01/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/5/1994/03/26/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/5/1994/03/26/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 20/2017/M
+
+Segunda alteração ao [Decreto Legislativo Regional n.º 3/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1998-208065), de 1 de abril, alterado pelo [Decreto Legislativo Regional n.º 20/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), de 16 de novembro, que criou o Conselho Regional de Educação e Formação Profissional.
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º e do n.º 1 do artigo 228.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto e alterado pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma procede à segunda alteração ao [Decreto Legislativo Regional n.º 3/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1998-208065), de 1 de abril, alterado pelo [Decreto Legislativo Regional n.º 20/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), de 16 de novembro, que cria o Conselho Regional de Educação e Formação Profissional.
+
+###### Artigo 2.º — Alteração
+
+Os artigos 3.º, 4.º e 6.º do [Decreto Legislativo Regional n.º 3/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1998-208065), de 1 de abril, alterado pelo [Decreto Legislativo Regional n.º 20/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), de 16 novembro, passam a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+(Atual corpo do artigo.)
+
+a) [...]
+
+b) Promover a reflexão e o debate, emitir opiniões, pareceres e recomendações sobre matéria educativa e de formação profissional, quer por iniciativa própria, bem como em resposta a solicitações que lhe sejam dirigidas;
+
+c) Aprovar o plano anual de atividades e respetivo relatório.
+
+###### Artigo 4.º — [...]
+
+1 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) Um representante do Conselho da Juventude da Madeira;
+
+j) Um representante de cada um dos Conselhos Municipais de Educação da Região Autónoma da Madeira;
+
+k) [Anterior alínea j).]
+
+l) [Anterior alínea k).]
+
+m) [Anterior alínea l).]
+
+n) [Anterior alínea m).]
+
+o) [...]
+
+p) [...]
+
+q) [...]
+
+r) [...]
+
+s) [...]
+
+t) [...]
+
+u) [...]
+
+v) [...]
+
+w) [...]
+
+x) [...]
+
+y) [...]
+
+z) Um representante do Polo Científico e Tecnológico da Madeira - Madeira Tecnopolo, S. A.;
+
+aa) Um representante da Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - ARDITI;
+
+bb) [...]
+
+cc) [...]
+
+dd) Um representante do Instituto de Desenvolvimento Regional, IP-RAM;
+
+ee) [...]
+
+ff) Um representante dos estabelecimentos de ensino católico designado pela Diocese do Funchal;
+
+gg) Um representante da área da educação especial.
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+###### Artigo 6.º — [...]
+
+1 - As reuniões ordinárias realizam-se anualmente e as reuniões extraordinárias realizam-se por iniciativa do presidente ou a requerimento de, pelo menos, um terço dos membros do CREPF, sendo os mesmos convocados para o efeito com a antecedência mínima de oito dias úteis.
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].»
+
+###### Artigo 3.º — Republicação
+
+O [Decreto Legislativo Regional n.º 3/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1998-208065), de 1 de abril, alterado pelo [Decreto Legislativo Regional n.º 20/2002/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2002-449375), de 16 de novembro, que criou o Conselho Regional de Educação e Formação Profissional, no seu novo texto, é objeto de republicação em anexo.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 14 de junho de 2017.
+
+**O Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.**
+
+**Assinado em 18 de julho de 2017.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+## ANEXO — (a que se refere o artigo 3.º)
+
+Republicação do [Decreto Legislativo Regional n.º 3/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-1998-208065), de 1 de abril, criação do Conselho Regional de Educação e Formação Profissional
+
+###### Artigo 1.º — Objeto
+
+1 - É criado o Conselho Regional de Educação e Formação Profissional, adiante designado por CREFP.
+
+2 - A natureza, finalidade, composição, competências e funcionamento do CREFP são os fixados no presente diploma.
+
+###### Artigo 2.º — Natureza e finalidade
+
+1 - O CREFP é um órgão consultivo do membro do Governo Regional responsável pela implementação das políticas educativa e de formação profissional.
+
+2 - O CREFP colabora na definição dos princípios orientadores das políticas educativa e de formação profissional e dos respetivos instrumentos operacionalizantes.
+
+3 - O CREFP pode, por iniciativa dos seus membros, de acordo com o preceituado neste diploma e no respetivo regimento, emitir opiniões, dar pareceres, apresentar propostas e efetuar recomendações ao membro do Governo Regional a quem competir a tutela da educação e da formação profissional.
+
+###### Artigo 3.º — Atribuições e competências
+
+Ao CREFP compete, nomeadamente:
+
+a) Acompanhar a evolução dos sistemas educativos e de formação profissional da Região, nacional e dos restantes países da União Europeia;
+
+b) Promover a reflexão e o debate, emitir opiniões, pareceres e recomendações sobre matéria educativa e de formação profissional, quer por iniciativa própria, bem como em resposta a solicitações que lhe sejam dirigidas;
+
+c) Aprovar o plano anual de atividades e respetivo relatório.
+
+###### Artigo 4.º — Composição
+
+1 - O CREFP tem a seguinte composição:
+
+a) Um elemento nomeado pelo membro do Governo Regional a quem competir a tutela da educação e formação, que presidirá;
+
+b) Um representante por cada uma das secretarias regionais que compõem a estrutura governamental, exceção feita à Secretaria Regional de Educação;
+
+c) Três representantes do departamento governamental responsável pela implementação das políticas educativa e de formação profissional;
+
+d) O representante da Região Autónoma da Madeira no Conselho Nacional de Educação;
+
+e) Um representante da Universidade da Madeira;
+
+f) Um representante da diocese do Funchal;
+
+g) Um representante da Associação de Municípios da Região Autónoma da Madeira - AMRAM;
+
+h) Um representante do Conselho Desportivo da Região Autónoma da Madeira;
+
+i) Um representante do Conselho da Juventude da Madeira;
+
+j) Um representante de cada um dos Conselhos Municipais de Educação da Região Autónoma da Madeira;
+
+k) Um representante de cada uma das ordens existentes na Região;
+
+l) Um representante da Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira - ACIF;
+
+m) Um representante da Associação de Jovens Empresários Madeirenses - AJEM;
+
+n) Um representante da Associação da Indústria, Associação da Construção da Região Autónoma da Madeira - ASSICOM;
+
+o) Um representante da Associação de Agricultores da Madeira e do Porto Santo;
+
+p) Um representante da Associação dos Jovens Agricultores da Madeira e do Porto Santo;
+
+q) Um representante do Conselho Empresarial da Madeira - CEM;
+
+r) Um representante de cada uma das associações sindicais de professores existentes na Região Autónoma da Madeira;
+
+s) Um representante da União Geral de Trabalhadores;
+
+t) Um representante da União dos Sindicatos da Região Autónoma da Madeira;
+
+u) Dois representantes das associações de pais existentes na Região Autónoma da Madeira;
+
+v) Um representante da associação de universitários madeirenses;
+
+w) Dois representantes das associações de estudantes do ensino superior existentes na Região;
+
+x) Dois representantes das associações de estudantes do ensino secundário existentes na Região;
+
+y) Um representante das associações de estudantes do ensino particular e cooperativo existentes na Região;
+
+z) Um representante do Polo Científico e Tecnológico da Madeira - Madeira Tecnopolo, S. A.;
+
+aa) Um representante da Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - ARDITI;
+
+bb) Um representante da Agência Regional de Energia e Ambiente da Região Autónoma da Madeira - AREAM;
+
+cc) Um representante da Associação Regional do Desenvolvimento e Tecnologias de Informação da Madeira - DTIM;
+
+dd) Um representante do Instituto de Desenvolvimento Regional, IP-RAM;
+
+ee) Quatro personalidades de reconhecida competência nos sectores, a nomear pelo membro do Governo com tutela sobre os sectores de educação, formação profissional e novas tecnologias;
+
+ff) Um representante dos estabelecimentos de ensino católico designado pela Diocese do Funchal;
+
+gg) Um representante da área da educação especial.
+
+2 - A designação dos representantes é da responsabilidade das entidades e organizações referidas.
+
+3 - As personalidades a que se refere a alínea ee) do n.º 1 do presente artigo serão propostas na primeira reunião do CREFP que ocorra após a publicação do presente diploma.
+
+4 - Os membros do CREFP não podem representar mais de uma entidade ou organização.
+
+###### Artigo 5.º — Funcionamento
+
+1 - O CREFP funciona em plenário ou em comissões especializadas.
+
+2 - O presidente do CREFP poderá delegar as suas competências em elemento por si indicado e adiante referenciado como representante.
+
+###### Artigo 6.º — Reuniões e deliberações
+
+1 - As reuniões ordinárias realizam-se anualmente e as reuniões extraordinárias realizam-se por iniciativa do presidente ou a requerimento de, pelo menos, um terço dos membros do CREPF, sendo os mesmos convocados para o efeito com a antecedência mínima de oito dias úteis.
+
+2 - O CREFP só funcionará com a presença da maioria dos seus membros e quando estiver presente o presidente ou o seu representante.
+
+3 - As reuniões em comissões especializadas ocorrerão sob convocatória do membro do CREFP indicado em plenário para presidir à referida comissão, submetendo-se, para efeitos de convocatória, ao regime geral expresso neste diploma.
+
+4 - Os membros do CREFP, com exceção dos previstos na alínea ee) do n.º 1 do artigo 4.º deste diploma, poderão ser substituídos, nas suas faltas ou impedimentos, por quem as respetivas entidades ou organizações designarem, devendo, para o efeito, ser dado conhecimento prévio ao presidente do CREFP.
+
+5 - As substituições dos membros referidos na citada alínea ee) do n.º 1 do artigo 4.º só ocorrerão quando se verificar a sua impossibilidade de exercício definitivo ou temporário, desde que superior a seis meses.
+
+6 - Nos casos em que esteja presente o membro do Governo Regional a quem competir a tutela da educação e formação profissional, competir-lhe-á presidir ao plenário do CREFP.
+
+###### Artigo 7.º — Regulamento
+
+O CREFP aprova o seu regulamento interno, sob proposta do presidente, no prazo de 90 dias a contar da data de posse dos seus membros.
+
+###### Artigo 8.º — Apoio
+
+O apoio técnico, logístico e material necessário ao funcionamento do CREFP será prestado pela Secretaria Regional de Educação.
+
+###### Artigo 9.º — Revogação
+
+São revogados os [Decretos Legislativos Regionais n.os 5/94/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1994-281461) e [23/94/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-1994-590567), de 26 de março e de 14 de setembro, respetivamente.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.

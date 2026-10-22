@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:477808:por
+title: Acórdão doutrinário
+short_title: null
+summary: Proferido no processo n.º 60984, em que era recorrente A Pátria, Companhia Alentejana de Seguros, e recorridos Valdemar
+  Soares da Costa e outro
+jurisdiction: portugal
+territory: null
+document_type: acordao-doutrinario
+document_type_label: Acórdão Doutrinário
+issuing_authority:
+- Supremo Tribunal de Justiça
+proposing_entity: null
+official_number: null
+official_date: null
+publication_date: '1966-12-03'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 280/1966, Série I de 1966-12-03
+  number: '280'
+  series: I
+  supplement: null
+  pages: 2133 - 2134
+  pdf_url: https://files.diariodarepublica.pt/1s/1966/12/28000/21332134.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '477808'
+  dre_path: /dr/detalhe/acordao-doutrinario/1966-477808
+  internal: pt:dre:477808:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/acordao-doutrinario/1966-477808
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/acordao-doutrinario/1966-477808
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1966-12-03T00:00:00Z'
+integrity:
+  source_sha256: ed68635d25877d4168594fcdd4f8a21e526fbfb50947f36648dad0880620c4d6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1966/DRE-1966-477808.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Acórdão doutrinário
+
+Processo n.º 60984. - Autos de recurso para o tribunal pleno, em que são: recorrente A Pátria, Companhia Alentejana de Seguros, e recorridos Valdemar Soares da Costa e outro.
+
+Acordam no Supremo Tribunal de Justiça:
+
+A Pátria, Companhia Alentejana de Seguros, recorre para o tribunal pleno do acórdão, hoje publicado no Boletim do Ministério da Justiça, n.º 148, p. 215, que lhe negou revista em acção de indemnização por acidente de trânsito contra ela intentada por Valdemar Soares da Costa e Joaquim Francisco Vieira.
+
+Alega a oposição desse acórdão com o de 15 de Dezembro de 1964, publicado no citado Boletim, n.º 142, p. 319, quanto à solução da questão jurídica fundamental, que consistia em saber se o prazo estabelecido pelo n.º 9 do artigo 56.º do Código da Estrada, para proposição de acções da espécie em causa, se inicia logo que o lesado tem conhecimento de que se produziu o dano ou só quando ele tem conhecimento de toda a extensão deste.
+
+A secção declarou verificada a oposição e mandou seguir o recurso, o que não dispensa o pleno de se pronunciar novamente sobre a existência das condições legais de seguimento.
+
+Não há dúvida, porém, de que os dois acórdãos foram proferidos no domínio da mesma legislação e até interpretaram a mesma disposição legal, que foi o seguinte passo do aludido n.º 9:
+
+O direito de pedir a indemnização civil por acidentes de trânsito caduca no prazo de dois anos, a partir da data em que o lesado teve conhecimento do dano e da pessoa do responsável.
+
+Por outro lado, ambos os acórdãos assentaram sobre soluções de questão de direito suscitada pela interpretação desse texto, e essas soluções foram diametralmente opostas: o de 1964 decidiu que o prazo por ele estabelecido «se inicia a partir da data em que o lesado teve conhecimento naturalístico do dano, e não desde que tenha conhecimento de toda a extensão e profundidade desse dano»; o acórdão recorrido afirma, ao contrário, que, ao falar em «conhecimento do dano», o preceito se quer referir ao conhecimento de todo o dano.
+
+Finalmente, vem certificado o trânsito daquele acórdão de 1964.
+
+Há, pois, um conflito jurisprudencial em termos de ter que ser resolvido, como se passa a fazer.
+
+O acórdão de 1964 baseou-se essencialmente no seguinte:
+
+O Código da Estrada de 1930, na alínea c) do seu artigo 143.º, exigia que a petição inicial da acção de indemnização por acidente de trânsito indicasse «sempre a quantia certa pedida», o que, para alguns, excluía a possibilidade de pedido genérico a liquidar em execução, e portanto a possibilidade de accionar antes do conhecimento de todos os danos indemnizáveis.
+
+Tal entendimento, já discutível perante esse código, deixou de ser admissível em face do n.º 2 do artigo 68.º do Código da Estrada actual, correspondente à falada alínea c), não só porque no novo preceito desapareceu o advérbio «sempre», mas ainda porque, ao contrário do antigo, ele começa logo por dizer que é «para efeitos de determinação do valor da causa» que a indicação deve ser feita.
+
+Acresce ter o posterior Decreto n.º 45108, de 3 de Julho de 1963, permitido expressamente que, no processo penal, o pedido de indemnização fique para ser liquidado em execução de sentença.
+
+O acórdão ora recorrido principia por considerar inconveniente e injusta a solução adoptada pelo de 1964, considerando-a ainda contrária ao propósito do legislador, revelado pela evolução legislativa.
+
+Depois, tem como inaceitável que o n.º 2 do artigo 68.º do actual funcione apenas para efeitos de valor da causa, posto que para esse fim seria inútil e redundante. A disposição resultaria das regras gerais do Código de Processo Civil.
+
+Por fim, sustenta que o Decreto n.º 45108 se aplica exclusivamente às indemnizações a arbitrar obrigatòriamente em processo crime.
+
+A recorrente defende, é claro, a solução do acórdão de 1964, e essa é também a propugnada pelo Ministério Público.
+
+Os argumentos vêm a ser os do dito acórdão.
+
+Acrescenta-se que a evolução legislativa mostra ter sido intenção do legislador estabelecer um prazo curto, e o intuito ficará frustrado quando se difira o início desse prazo para o conhecimento de consequências que podem só vir a saber-se após o decurso de anos.
+
+Aduz ainda o Ministério Público que o artigo 500.º do projecto do Código Civil toma sobre o problema uma posição contrária à do acórdão recorrido, pois passa a mandar contar o prazo de prescrição do direito de indemnização a partir «da data em que o lesado teve conhecimento do direito que lhe compete, embora com desconhecimento da pessoa do responsável e da extensão integral do dano».
+
+Isto pode considerar-se como que interpretação autêntica do preceito correspondente do actual Código da Estrada. Pelo menos, não será razoável consagrar em assento doutrina oposta, a escassos meses da vigência da lei projectada.
+
+Os recorridos contra-alegam, em defesa do acórdão sob recurso.
+
+Tudo visto:
+
+Antes de mais nada, convém arredar a alegação do Ministério Público que se referiu em último lugar.
+
+As disposições projectadas para o artigo 500.º do futuro Código Civil não podem considerar-se interpretativas da lei actual. São claramente inovadoras quando alargam o prazo de dois para três anos e quando, em franca oposição com o preceito do Código da Estrada, o mandam iniciar independentemente do conhecimento da pessoa do responsável.
+
+E nenhum mal advirá de se assentar agora em doutrina contrária à que porventura venha a consagra-se no Código Civil, posto que o assento proferido não obrigará para aplicação das regras legais que surjam posteriormente e sejam diferentes.
+
+O conflito jurisprudencial tem de resolver-se perante e para os textos sobre cuja interpretação foi suscitado. O assento só ficará a valer como interpretação deles.
+
+A jurisprudência dominante do Supremo sobre o objecto desse conflito tem sido a do acórdão ora recorrido.
+
+Vem-se baseando este tribunal no entendimento de que o n.º 2 do artigo 68.º do Código da Estrada exclui a possibilidade de pedido genérico ou ilíquido na acção de indemnização por acidente de trânsito, e em que o «conhecimento do dano», referido pelo n.º 9 do artigo 56.º, como início do prazo de proposição, há-de ser o que permita propor a demanda, formulando desde logo um pedido líquido.
+
+Na verdade, a letra, atrás transcrita, do n.º 9 do artigo 56.º, por si só, não é decisiva. Ela tanto comporta o entendimento que lhe deu o acórdão de 1964 como o que lhe atribuiu o acórdão ora recorrido.
+
+Algo adianta, todavia, saber-se que esse texto teve em vista solução contrária à firmada pelo assento de 26 de Janeiro de 1937, segundo o qual o direito de indemnização por acidente de trânsito prescrevia nos prazos máximos do Código Civil, «contados da data do acidente».
+
+O encurtamento drástico do prazo não obriga, de modo nenhum, a concluir que, ao substituir «data do acidente» por «conhecimento do dano», como início desse prazo, o legislador tivesse querido atribuir a esta última expressão o sentido mais restrito. Pelo contrário, ao tê-lo mandado contar, não só do conhecimento do dano, mas também do conhecimento da pessoa do responsável, só pode ter tido em vista fixar, para seu início, o momento em que o lesado ficou em condições de accionar.
+
+Ora o n.º 2 do artigo 68.º do Código da Estrada dispõe:
+
+Para efeitos de determinação do valor da causa, indicar-se-á na petição inicial, por extenso, a quantia certa pedida como indemnização.
+
+Substituiu a disposição do Código de 1930 que dizia:
+
+A petição inicial indicará sempre por extenso a quantia certa pedida como indemnização e por ela se determinará o valor da causa.
+
+Fácil é ver que o advérbio «sempre», omitido na disposição actual, nada acrescentava para entendimento do preceito; era inteiramente inútil. Por isso, e não por outra razão, deve ter sido abandonado.
+
+No resto, houve apenas inversão de termos, que não altera o sentido da regra antiga.
+
+Das anteriores especialidades do processo de indemnização por acidente de trânsito, só essa subsistiu, depois de se terem mandado observar os trâmites do processo sumário, qualquer que fosse o valor da causa.
+
+É certo que o n.º 1 do artigo 68.º considera também desvios do processo sumário as regras dos n.os 3 e 4, mas estas não são realmente modificações do regime geral do dito processo: a primeira proíbe a reconvenção; a segunda refere-se a incidentes da instância.
+
+Não pode aceitar-se que a especialidade do n.º 2 só tivesse sido mantida para dizer que o autor tem o ónus de indicar o valor da causa, na petição inicial.
+
+Isso não seria especialidade nenhuma. À data em que a disposição foi promulgada vigorava o artigo 480.º, n.º 6.º, do Código de Processo Civil de 1939, que impunha ao autor, aliás no seguimento de velhíssima tradição, o dever de, na petição inicial, «declarar o valor da causa».
+
+Só há especialidade quando se fala em «quantia certa pedida como indemnização» e se manda indicar essa quantia «por extenso».
+
+Tais palavras da lei não podem ter-se por inúteis, nem podem desprezar-se a pretexto de que são inconvenientes.
+
+Do atrás citado Decreto n.º 45108 nada se pode extrair que ajude a interpretá-las. Este diploma rege apenas para as indemnizações a arbitrar em processo crime, embora não só para as arbitráveis ex officio, mas também para as requeridas, até contra os responsáveis exclusivamente civis; alterou o n.º 2 do artigo 67.º do Código da Estrada, mas deixou intacto o n.º 2 do artigo 68.º
+
+A frase «quantia certa pedida como indemnização» só pode significar a implícita estatuição de que o autor está obrigado a deduzir, logo de início, um pedido líquido; que lhe não é extensiva a faculdade então estabelecida, em geral, pelo artigo 275.º, n.º 2.º, do Código de Processo Civil de 1939, mais tarde copiado no artigo 47.º, n.º 1, alínea b), do de 1961: formular pedido genérico por não ser ainda possível fixar de modo definitivo as consequências do facto ilícito.
+
+A exigência de que a quantia pedida seja indicada «por extenso» não pode ter-se como ressurreição, só para o fim de atribuir valor à causa, de um ritualismo abandonado, por inútil e injustificado. Há-de ter uma razão maior, que é compreensível quando se entenda como corolário da exigência de formulação de um pedido líquido: este pedido tem de ser formulado por extenso.
+
+Ora, concluindo-se, como se conclui, que o autor tem de pedir, logo de entrada, uma quantia certa, não pode deixar de se chegar a que o conhecimento do dano, para efeitos de marcar o início do prazo de proposição, tem de ser conhecimento que permita formular tal pedido.
+
+Pelo exposto, nega-se provimento ao recurso, com custas pela recorrente, e assenta-se em que:
+
+O prazo do artigo 56.º, n.º 9, do Código da Estrada só se completa dois anos decorridos sobre o conhecimento pelo lesado de todas as consequências indemnizáveis do acidente e da pessoa do responsável.
+
+Lisboa, 4 de Novembro de 1966. - Lopes Cardoso - Gonçalves Pereira - Torres Paulo - Albuquerque Rocha - Ludovico da Costa - Joaquim de Melo - Fernando Bernardes de Miranda - Oliveira Carvalho - Francisco Soares - Adriano Vera Jardim - J. S. Carvalho Júnior - Eduardo Correia Guedes - António Teixeira de Andrade - José Cabral Ribeiro de Almeida.
+
+Está conforme.
+
+Secretaria do Supremo Tribunal de Justiça, 21 de Novembro de 1966. - O Secretário, Joaquim Múrias de Freitas.

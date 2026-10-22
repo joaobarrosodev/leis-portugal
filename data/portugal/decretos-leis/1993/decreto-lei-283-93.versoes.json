@@ -1,0 +1,216 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:329453:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-123368271",
+ "dre_path": "/dr/detalhe/decreto-lei/283-1993-329453",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123356786",
+    "123356787",
+    "123356788",
+    "123356789",
+    "123356790",
+    "123356791",
+    "123356792",
+    "123356793",
+    "123356794",
+    "123356795",
+    "123356796",
+    "123356797"
+   ]
+  },
+  {
+   "date": "2005-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:220172:por",
+     "title": "Decreto-Lei n.º 89/2005",
+     "published": "2005-06-03",
+     "dre_path": "/dr/detalhe/decreto-lei/89-2005-220172"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "123356786",
+    "123356800",
+    "123356788",
+    "123356789",
+    "123356790",
+    "123356791",
+    "123356792",
+    "123356793",
+    "123356794",
+    "123356795",
+    "123356796",
+    "123356797",
+    "123356798"
+   ]
+  },
+  {
+   "date": "2019-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:123407853:por",
+     "title": "Decreto-Lei n.º 96/2019",
+     "published": "2019-07-23",
+     "dre_path": "/dr/detalhe/decreto-lei/96-2019-123407853"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "123356786",
+    "123356805",
+    "123356788",
+    "123356789",
+    "123356790",
+    "123356791",
+    "123356792",
+    "123356793",
+    "123356794",
+    "123356795",
+    "123356796",
+    "123356797",
+    "123356798"
+   ]
+  }
+ ],
+ "fragments": {
+  "123356786": {
+   "fragment_id": "123368272",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 283/93\n\nde 18 de Agosto\n\nA criação do Conselho de Reitores das Universidades Portuguesas pelo Decreto-Lei n.º 107/79, de 2 de Maio, como estrutura associativa das universidades portuguesas, constitui passo particularmente significativo no processo de descentralização e desconcentração de competências do Ministério da Educação no respeitante ao ensino superior.\n\nNo diploma de criação previa-se já que ao Conselho de Reitores coubesse o exercício de funções coordenadoras próprias da Direcção-Geral do Ensino Superior, possibilitando-se que emitisse deliberações normativas no âmbito de competências próprias dos reitores. O Conselho de Reitores das Universidades Portuguesas tem vindo a contribuir para a definição da política para o ensino superior universitário.\n\nRecentes alterações normativas e institucionais, nomeadamente a publicação da Lei n.º 108/88, de 24 de Setembro, na qual se definiu o quadro jurídico da autonomia das instituições universitárias, tornam premente a actualização do modo de organização e funcionamento do Conselho de Reitores.\n\nNestes termos, procede-se agora à aprovação do novo estatuto jurídico do Conselho de Reitores das Universidades Portuguesas.\n\nFoi ouvido o Conselho de Reitores das Universidades Portuguesas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "123356787": {
+   "fragment_id": "123368273",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação\n\nÉ criado o Conselho de Reitores das Universidades Portuguesas, abreviadamente designado por Conselho, cujos membros são os reitores das universidades portuguesas estatais e da Universidade Católica Portuguesa."
+  },
+  "123356788": {
+   "fragment_id": "123368274",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências\n\n1 - São competências do Conselho:\n\na) Assegurar a coordenação e representação global das universidades nele representadas, sem prejuízo da autonomia de cada uma delas;\n\nb) Colaborar na formulação das políticas nacionais de educação, ciência e cultura;\n\nc) Pronunciar-se sobre os projectos legislativos que digam directamente respeito ao ensino universitário público;\n\nd) Pronunciar-se sobre questões orçamentais do ensino universitário público;\n\ne) Propor o regime disciplinar aplicável aos estudantes, após audição das suas estruturas representativas;\n\nf) Contribuir para o desenvolvimento do ensino, investigação e cultura e, em geral, para a dignificação das funções da universidade e dos seus agentes, bem como para o estreitamento das ligações com organismos estrangeiros congéneres.\n\n2 - O Conselho é ainda ouvido sobre a criação, integração, modificação ou extinção de estabelecimentos de ensino universitário público."
+  },
+  "123356789": {
+   "fragment_id": "123422975",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\nSão órgãos do Conselho:\n\na) O plenário;\n\nb) O presidente;\n\nc) A comissão permanente."
+  },
+  "123356790": {
+   "fragment_id": "123422976",
+   "type": 11,
+   "heading": "Artigo 4.º — Plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Plenário\n\n1 - O plenário é constituído por todos os membros do Conselho.\n\n2 - O plenário reúne-se:\n\na) Ordinariamente, de dois em dois meses;\n\nb) Extraordinariamente, sempre que convocado pelo presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n3 - As reuniões ordinárias são convocadas pelo presidente com a antecedência de 10 dias.\n\n4 - Nas reuniões do plenário podem participar personalidades para o efeito convidadas pelo presidente, por sua iniciativa ou a solicitação de um terço dos seus membros.\n\n5 - O plenário pode constituir comissões especializadas."
+  },
+  "123356791": {
+   "fragment_id": "123422977",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências do plenário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências do plenário\n\nCompete ao plenário:\n\na) Eleger o presidente e o vice-presidente do Conselho;\n\nb) Aprovar o orçamento do Conselho, apreciar o relatório de actividades e as respectivas contas;\n\nc) Fixar as contribuições dos membros efectivos;\n\nd) Concertar orientações genéricas em matéria de competências comuns a todos os reitores;\n\ne) Deliberar sobre os acordos a assinar pelo Conselho;\n\nf) Aprovar as normas de funcionamento interno;\n\ng) Pronunciar-se sobre todas as matérias que o seu presidente entenda submeter-lhe."
+  },
+  "123356792": {
+   "fragment_id": "123422978",
+   "type": 11,
+   "heading": "Artigo 6.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Presidente\n\n1 - O presidente é eleito de entre os membros do Conselho para um mandato de três anos.\n\n2 - O presidente é coadjuvado por um vice-presidente, em quem pode delegar competências."
+  },
+  "123356793": {
+   "fragment_id": "123422979",
+   "type": 11,
+   "heading": "Artigo 7.º — Competências do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competências do presidente\n\n1 - Compete ao presidente:\n\na) Representar o Conselho;\n\nb) Propor o vice-presidente;\n\nc) Presidir, com voto de qualidade, às reuniões do plenário e da comissão permanente e fazer executar as deliberações desses órgãos;\n\nd) Dirigir e orientar a actividade do Conselho.\n\n2 - Cabem ainda ao presidente as competências que lhe sejam delegadas, bem como as que não estejam especificamente atribuídas a outros órgãos."
+  },
+  "123356794": {
+   "fragment_id": "123422980",
+   "type": 11,
+   "heading": "Artigo 8.º — Comissão permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Comissão permanente\n\n1 - A comissão permanente é constituída pelo presidente do Conselho, pelo vice-presidente e por três membros designados pelo plenário.\n\n2 - Compete à comissão permanente:\n\na) Apoiar o presidente na condução dos assuntos correntes do Conselho;\n\nb) Colaborar na preparação dos projectos de orçamento e dos relatórios de actividades e de prestação de contas;\n\nc) Exercer as competências delegadas pelo plenário."
+  },
+  "123356795": {
+   "fragment_id": "123422981",
+   "type": 11,
+   "heading": "Artigo 9.º — Secretariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Secretariado\n\n1 - O Conselho dispõe de um secretário, designado pelo presidente, de entre funcionário da carreira técnica superior.\n\n2 - O Ministério da Educação assegura ao Conselho o apoio administrativo indispensável ao seu funcionamento."
+  },
+  "123356796": {
+   "fragment_id": "123422982",
+   "type": 11,
+   "heading": "Artigo 10.º — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Receitas e despesas\n\n1 - Constituem receitas do Conselho:\n\na) O valor das quotas anuais dos seus membros;\n\nb) As dotações que lhe vierem a ser consignadas no Orçamento do Estado.\n\n2 - A autorização de despesas compete ao presidente, que poderá delegar essa competência no secretário."
+  },
+  "123356797": {
+   "fragment_id": "123422983",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições finais\n\nÉ revogado o Decreto-Lei n.º 107/79, de 2 de Maio."
+  },
+  "123356800": {
+   "fragment_id": "123368273",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação",
+   "in_force_from": "2005-06-08",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 89/2005 - Diário da República n.º 107/2005, Série I-A de 2005-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2005-220172), em vigor a partir de 2005-06-08"
+   ],
+   "markdown": "###### Artigo 1.º — Denominação\n\nÉ criado o Conselho de Reitores das Universidades Portuguesas, abreviadamente designado por Conselho, cujos membros são os reitores das universidades portuguesas públicas e da Universidade Católica Portuguesa e ainda os presidentes dos estabelecimentos de ensino universitário públicos não integrados, sob tutela exclusiva do Ministério da Ciência, Tecnologia e Ensino Superior.\n\n> Alterado pelo/a [Decreto-Lei n.º 89/2005 - Diário da República n.º 107/2005, Série I-A de 2005-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2005-220172), em vigor a partir de 2005-06-08"
+  },
+  "123356798": {
+   "fragment_id": "123422984",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Julho de 1993. - Aníbal António Cavaco Silva - Jorge Braga de Macedo - António Fernando Couto dos Santos.\n\nPromulgado em 28 de Julho de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 3 de Agosto de 1993.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "123356805": {
+   "fragment_id": "123368273",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação",
+   "in_force_from": "2019-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2019 - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2019-123407853), em vigor a partir de 2019-07-28",
+    "Alterado pelo/a [Decreto-Lei n.º 89/2005 - Diário da República n.º 107/2005, Série I-A de 2005-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2005-220172), em vigor a partir de 2005-06-08"
+   ],
+   "markdown": "###### Artigo 1.º — Denominação\n\nÉ criado o Conselho de Reitores das Universidades Portuguesas, abreviadamente designado por Conselho, cujos membros são os reitores das universidades e institutos universitários públicos sob tutela exclusiva do membro do Governo responsável pela área da ciência, tecnologia e ensino superior, da Universidade Católica Portuguesa e o Comandante do Instituto Universitário Militar.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 96/2019 - Diário da República n.º 139/2019, Série I de 2019-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-2019-123407853), em vigor a partir de 2019-07-28\n\n> Alterado pelo/a [Decreto-Lei n.º 89/2005 - Diário da República n.º 107/2005, Série I-A de 2005-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/89-2005-220172), em vigor a partir de 2005-06-08"
+  }
+ }
+}

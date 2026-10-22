@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:214402044:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2023-214401943",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-2023-214402044",
+ "source_lastmod": "2024-12-30",
+ "versions": [
+  {
+   "date": "2023-06-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "214315382",
+    "214315383",
+    "214315384",
+    "214315385",
+    "214315386",
+    "214315387"
+   ]
+  },
+  {
+   "date": "2024-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901536098:por",
+     "title": "Decreto Legislativo Regional n.º 15/2024/A",
+     "published": "2024-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2024-901536098"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "214315382",
+    "214315383",
+    "214315384",
+    "214315385",
+    "214315386",
+    "901662503",
+    "214315388"
+   ]
+  },
+  {
+   "date": "2026-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993031450:por",
+     "title": "Decreto Legislativo Regional n.º 27/2025/A",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/27-2025-993031450"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "214315382",
+    "214315383",
+    "214315384",
+    "214315385",
+    "214315386",
+    "998506150",
+    "214315388"
+   ]
+  }
+ ],
+ "fragments": {
+  "214315382": {
+   "fragment_id": "214401944",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 21/2023/A\n\nSumário: Organização do trabalho suplementar nos serviços de urgência, unidades básicas de urgência, serviços de atendimento permanente e serviços de atendimento urgente, unidades de cuidados intensivos e unidades de cuidados intermédios e coronários do Serviço Regional de Saúde.\n\nOrganização do trabalho suplementar nos serviços de urgência, unidades básicas de urgência, serviços de atendimento permanente e serviços de atendimento urgente, unidades de cuidados intensivos e unidades de cuidados intermédios e coronários do Serviço Regional de Saúde\n\nA prestação de cuidados de saúde aptos a satisfazer as necessidades dos cidadãos, aliada ao desempenho eficaz dos profissionais de saúde, implica a tomada de medidas, nomeadamente no que respeita ao trabalho em serviço de urgência, unidades básicas de urgência, serviços de atendimento permanente e serviços de atendimento urgente, unidades de cuidados intensivos e unidades de cuidados intermédios e coronários do Serviço Regional de Saúde.\n\nDe acordo com a experiência recolhida, importa desenvolver iniciativas que permitam maximizar os meios humanos existentes, com vista a reforçar o atendimento atempado e eficiente, bem como assegurar uma melhor organização do trabalho, com esse propósito, procedendo-se à aprovação de um novo normativo regulador da organização do trabalho médico, nos referidos serviços de ação médica.\n\nEsta medida acompanha e aprofunda as iniciativas e esforços que o Governo Regional tem vindo a desenvolver para a promoção da saúde, atendendo às especificidades regionais decorrentes da insularidade e da carência real e sentida de recursos médicos.\n\nNeste âmbito, o Programa do XIII Governo Regional dos Açores é claro ao fixar como objetivo uma gestão eficiente dos recursos humanos na área da saúde, com o melhoramento das condições de trabalho.\n\nForam observados os requisitos de participação dos representantes dos trabalhadores, decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, bem como o Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro.\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e do n.º 1 do artigo 37.º e da alínea a) do n.º 2 do artigo 59.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "214315383": {
+   "fragment_id": "214401945",
+   "type": 11,
+   "heading": "Artigo 1.º — Trabalho suplementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Trabalho suplementar\n\n1 - A realização de trabalho médico suplementar no âmbito do Serviço Regional de Saúde está sujeita a limites máximos, nos termos do disposto no número seguinte, sempre que a respetiva prestação seja necessária ao funcionamento dos serviços de urgência, unidades básicas de urgência, serviços de atendimento permanente e serviços de atendimento urgente, unidades de cuidados intensivos e unidades de cuidados intermédios e coronários, sendo este majorado a partir do limite legalmente previsto, tanto em presença física como em regime de prevenção.\n\n2 - A prestação de trabalho suplementar, nos termos do disposto no presente artigo, pressupõe que, atingido o limite anual previsto na lei e nos respetivos instrumentos de regulamentação coletiva de trabalho, o trabalhador médico interessado se mostre disponível para o realizar, quando necessário, até ao limite de 96 horas num período de referência de quatro semanas, a prestar em até duas jornadas de trabalho por semana, cada uma de duração não superior a 12 horas, sem prejuízo do disposto no número seguinte.\n\n3 - Nas situações referidas no número anterior, é obrigatório o gozo, por parte do trabalhador médico, de um período de descanso correspondente a 11 horas entre jornadas de trabalho, incluindo quando as equipas dos serviços de urgência, unidades básicas de urgência, serviços de atendimento permanente e serviços de atendimento urgente, unidades de cuidados intensivos e unidades de cuidados intermédios e coronários estejam compostas por número igual ou inferior a três elementos.\n\n4 - O trabalho suplementar médico é voluntário e só deve ser realizado por extrema e imperiosa necessidade para o funcionamento dos serviços de urgência, unidades básicas de urgência, serviços de atendimento permanente e serviços de atendimento urgente, unidades de cuidados intensivos e unidades de cuidados intermédios e coronários, e apenas quando estiverem esgotadas todas as alternativas do período normal de trabalho dos médicos que integram as escalas de serviço."
+  },
+  "214315384": {
+   "fragment_id": "214401946",
+   "type": 11,
+   "heading": "Artigo 2.º — Acréscimo remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Acréscimo remuneratório\n\n1 - O trabalho suplementar prestado pelo trabalhador médico, independentemente do seu vínculo e regime de trabalho, para garantir o normal funcionamento dos serviços de urgência, unidades básicas de urgência, serviços de atendimento permanente e serviços de atendimento urgente, unidades de cuidados intensivos e unidades de cuidados intermédios e coronários, é pago de acordo com o disposto no número seguinte.\n\n2 - O pagamento do trabalho suplementar referido no número anterior é processado de acordo com os seguintes montantes de acréscimo remuneratório:\n\na) No caso de trabalhador médico interno de formação geral, com valor hora de (euro) 15 (quinze euros);\n\nb) No caso de trabalhador médico interno de formação especializada, com valor hora de (euro) 35 (trinta e cinco euros);\n\nc) No caso de trabalhador médico assistente (e clínico geral), com valor hora de (euro) 50 (cinquenta euros);\n\nd) No caso de trabalhador médico assistente graduado, com valor hora de (euro) 55 (cinquenta e cinco euros);\n\ne) No caso de trabalhador médico assistente graduado sénior, com valor hora de (euro) 60 (sessenta euros).\n\n3 - Os valores hora do trabalho suplementar referidos no número anterior são pagos a partir da centésima quinquagésima primeira hora, inclusive.\n\n4 - O trabalho médico em regime de prevenção é remunerado nos termos do n.º 3 do artigo 9.º do Decreto-Lei n.º 62/79, de 30 de março, na sua redação atual, que disciplina o regime de trabalho e a sua remuneração nos estabelecimentos hospitalares, calculado com base nos acréscimos remuneratórios previstos no n.º 2.\n\n5 - Para os profissionais médicos não pode resultar qualquer prejuízo remuneratório, sendo devida a manutenção do pagamento do valor hora do respetivo vencimento base que ultrapasse os acréscimos definidos no n.º 2."
+  },
+  "214315385": {
+   "fragment_id": "214401947",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 25/2022/A, de 10 de novembro, que procede à organização do trabalho médico suplementar nos serviços de urgência e de atendimento permanente do Serviço Regional de Saúde da Região Autónoma dos Açores."
+  },
+  "214315386": {
+   "fragment_id": "214401948",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nO presente diploma produz efeitos remuneratórios reportados a 1 de outubro de 2022, sem prejuízo dos casos de remunerações já pagas ou processadas em valores superiores aos previstos no presente diploma."
+  },
+  "214315387": {
+   "fragment_id": "214401949",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e vigência\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2024."
+  },
+  "901662503": {
+   "fragment_id": "214401949",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e vigência",
+   "in_force_from": "2024-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 69.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e vigência\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2025.\n\n> Alterado pelo/a Artigo 69.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+  },
+  "214315388": {
+   "fragment_id": "214401950",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 10 de maio de 2023.\n\nO Presidente da Assembleia Legislativa, Luís Carlos Correia Garcia.\n\nAssinado em Angra do Heroísmo em 12 de junho de 2023.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.\n\n116562162"
+  },
+  "998506150": {
+   "fragment_id": "214401949",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e vigência",
+   "in_force_from": "2026-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 87.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 69.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e vigência\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação e vigora até 31 de dezembro de 2026.\n\n> Alterado pelo/a Artigo 87.º do/a [Decreto Legislativo Regional n.º 27/2025/A - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2025-993031450), em vigor a partir de 2026-01-04, produz efeitos a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 69.º do/a [Decreto Legislativo Regional n.º 15/2024/A - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2024-901536098), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+  }
+ }
+}

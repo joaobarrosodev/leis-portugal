@@ -1,0 +1,267 @@
+---
+schema_version: '1.0'
+id: pt:dre:550818:por
+title: Decreto Legislativo Regional n.º 25/89/M
+short_title: null
+summary: Cria o Fundo Regional de Intervenção e Garantia Agrícola (FRIGA)
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 25/89/M
+official_date: null
+publication_date: '1989-11-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 276/1989, Série I de 1989-11-30
+  number: '276'
+  series: I
+  supplement: null
+  pages: 5231 - 5234
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/11/27600/52315234.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '550818'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/25-1989-550818
+  internal: pt:dre:550818:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1989-550818
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1989-550818
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2006-02-14T00:00:00Z'
+integrity:
+  source_sha256: 9d7bab14b4c22a151f353420c7d718f4606672aac7a2c40c89043959728bd4bb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1989/DRE-1989-25-550818.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:693854:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 25/89/M
+
+Criação do Fundo Regional de Intervenção e Garantia Agrícola
+
+O Tratado de Adesão de Portugal às Comunidades Europeias estabelece que, relativamente à importação dos produtos agrícolas previstos no seu artigo 259.º, sejam cobrados os denominados direitos niveladores e compensadores e, ainda, que estes durante a primeira etapa de transição constituem receitas nacionais.
+
+O [Decreto-Lei n.º 199/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1989-620726), de 22 de Junho, veio estabelecer quais as entidades a quem são devidos aqueles direitos e estipulou, ainda, a transferência para a Região Autónoma da Madeira do montante correspondente aos direitos niveladores e compensadores cobrados nesta Região.
+
+Constata-se, porém, que a pesada e morosa estrutura orgânica dos serviços da Administração Pública não permite uma actuação célere e adequada no âmbito de matérias tão específicas como as da regularização e organização dos mercados agrícolas e as da intervenção na agricultura, que se encontram em constante e acelerada mutação, imposta pela nossa intregração nas Comunidades Europeias e pela próxima implementação do mercado único europeu.
+
+Deste modo, torna-se, de todo, imperioso proceder-se à criação de uma entidade regional, que goza de personalidade jurídica, dotada de autonomia administrativa e financeira que permita intervir em tais áreas de uma maneira mais racional e eficaz, de modo a garantir uma maior transparência e celeridade de actuação.
+
+Nestes termos:
+
+A Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
+
+###### Artigo 1.º — Denominação e natureza
+
+1 - É criado o Fundo Regional de Intervenção e Garantia Agrícola, abreviadamente designado por FRIGA, dotado de personalidade jurídica, com autonomia administrativa e financeira.
+
+2 - O FRIGA funcionará sob a tutela da Secretaria Regional da Agricultura e Pescas.
+
+###### Artigo 2.º — Atribuições
+
+No quadro da política agrícola regional, o FRIGA tem as seguintes atribuições:
+
+1) Relativamente aos produtos cuja adesão se realiza por etapas:
+
+a) Orientação, regularização e organização dos mercados agrícolas regionais;
+
+b) Execução das medidas de apoio aos mercados agrícolas no âmbito dos sistemas de intervenção, de preços e subsídios em vigor, para os produtos da sua área de actuação;
+
+c) Prestação de informação que lhe seja solicitada por outros serviços da Administração Pública, sem prejuízo das atribuições específicas de outras entidades competentes;
+
+d) Gestão dos stocks provenientes das intervenções no mercado;
+
+2) Relativamente a todos os produtos agrícolas:
+
+a) Colaborar com o INGA - Instituto Nacional de Intervenção e Garantia Agrícola em tudo quanto se mostre necessário à prossecução dos seus fins;
+
+b) Acompanhar os mercados nacionais e internacionais dos referidos produtos;
+
+c) Proceder à análise e tratamento da informação sobre os mercados agrícolas;
+
+d) Propor a adopção de medidas a tomar sobre os mercados dos produtos da sua área de actividade;
+
+e) Contribuir para o correcto funcionamento das estruturas tendentes à modernização e racionalização dos circuitos.
+
+###### Artigo 3.º — Órgãos
+
+São órgãos do FRIGA:
+
+a) A comissão de gestão;
+
+b) A comissão de fiscalização.
+
+###### Artigo 4.º — Comissão de gestão
+
+1 - A comissão de gestão é constituída por um presidente e dois vogais.
+
+2 - Os membros da comissão de gestão são nomeados por despacho do Secretário Regional da Agricultura e Pescas.
+
+3 - O mandato dos membros da comissão de gestão tem a duração de três anos, renovável por uma ou mais vezes.
+
+4 - Os membros da comissão de gestão têm direito a uma gratificação mensal, de quantitativo a fixar por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional da Agricultura e Pescas.
+
+###### Artigo 5.º — Competências
+
+Compete à comissão de gestão:
+
+a) Submeter à aprovação do Governo Regional os planos de actividades, o orçamento, o relatório e a conta de gerência do FRIGA;
+
+b) Submeter à aprovação do Governo Regional o projecto de lei orgânica do FRIGA;
+
+c) Dirigir a actividade do FRIGA, interna e externamente, com vista à realização do seu objecto e atribuições;
+
+d) Exercer a gestão do pessoal;
+
+e) Constituir mandatários e outros representantes do FRIGA junto de outras entidades;
+
+f) Arrecadar as receitas e autorizar a realização de despesas;
+
+g) Gerir e praticar os demais actos referentes às atribuições e competências do FRIGA.
+
+###### Artigo 6.º — Funcionamento
+
+1 - A comissão de gestão do FRIGA reúne ordinariamente uma vez por semana e extraordinariamente sempre que convocada pelo presidente, por sua iniciativa ou a solicitação de qualquer dos seus membros.
+
+2 - As deliberações da comissão de gestão serão tomadas por maioria simples dos votos dos seus membros.
+
+###### Artigo 7.º — Competências
+
+1 - Compete, especialmente, ao presidente do FRIGA:
+
+a) Convocar, presidir e dirigir as reuniões da comissão de gestão;
+
+b) Assegurar as relações do FRIGA com o Governo Regional e os demais serviços da Administração Pública;
+
+c) Submeter a despacho do Secretário Regional da Agricultura e Pescas os assuntos que careçam da sua apreciação ou decisão.
+
+2 - O presidente é substituído, nas suas faltas e impedimentos, pelo vogal por ele designado para o efeito.
+
+3 - Considera-se delegada no presidente ou no vogal substituto a prática dos actos de gestão que, pela sua natureza e urgência, não possam aguardar a reunião da comissão de gestão.
+
+4 - Os actos praticados nos termos do número anterior devem ser sujeitos a ratificação na primeira reunião da comissão, excepto quando se tratar de actos de gestão corrente.
+
+###### Artigo 8.º — Comissão de fiscalização
+
+1 - A comissão de fiscalização do FRIGA é composta por três membros nomeados pelo Vice-Presidente do Governo Regional.
+
+2 - Os membros da comissão de fiscalização têm direito a uma gratificação mensal, de quantitativo a fixar por despacho conjunto do Vice-Presidente do Governo Regional e do Secretário Regional da Agricultura e Pescas.
+
+3 - Compete à comissão de fiscalização:
+
+a) Acompanhar o funcionamento do FRIGA e o cumprimento das leis e regulamentos que lhe sejam aplicáveis;
+
+b) Examinar periodicamente a situação económica e financeira do FRIGA;
+
+c) Emitir pareceres sobre o orçamento, relatório e contas do FRIGA, bem como sobre a execução orçamental;
+
+d) Emitir parecer sobre qualquer outro assunto que lhe seja submetido pela comissão de gestão.
+
+4 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada por qualquer dos seus membros.
+
+5 - São deveres dos membros da comissão de fiscalização:
+
+a) Exercer uma fiscalização conscienciosa e imparcial;
+
+b) Guardar sigilo dos factos de que tiverem conhecimento no exercício das suas funções ou por causa delas.
+
+###### Artigo 9.º — Receitas
+
+São receitas do FRIGA:
+
+a) As taxas e outras imposições parafiscais cuja percepção lhe esteja ou venha a ser concedida;
+
+b) Os direitos niveladores e compensadores cobrados na Região Autónoma da Madeira, previstos no artigo 3.º do [Decreto-Lei n.º 199/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/199-1989-620726), de 22 de Junho;
+
+c) Os subsídios e quaisquer outras receitas que lhe sejam concedidos;
+
+d) O produto da venda de bens ou serviços;
+
+e) Os juros e rendimentos de capitais próprios;
+
+f) Quaisquer outras transferências de capital que, a qualquer título, lhe sejam concedidas.
+
+###### Artigo 10.º — Gestão financeira
+
+1 - O FRIGA tem um orçamento próprio e contabilidade organizada.
+
+2 - Os orçamentos e a conta de gerência do FRIGA carecem de aprovação do Vice-Presidente do Governo Regional e do Secretário Regional da Agricultura e Pescas.
+
+3 - A comissão de gestão submeterá a visto da Secção Regional do Tribunal de Contas os orçamentos, a conta de gerência e os actos e contratos relativos ao pessoal do FRIGA.
+
+4 - A cobrança coerciva das dívidas ao FRIGA é feita pelo processo das execuções fiscais, através dos serviços e tribunais competentes, tendo por base uma certidão de dívida.
+
+5 - O FRIGA beneficia de todas as isenções e reduções nos termos da lei.
+
+###### Artigo 11.º — Pessoal
+
+O pessoal do FRIGA rege-se pelas normas aplicáveis aos trabalhadores da função pública.
+
+###### Artigo 12.º — Regulamentação
+
+O Governo Regional, mediante decreto regulamentar regional, aprovará a Lei Orgânica do FRIGA, bem como o respectivo quadro de pessoal.
+
+###### Artigo 13.º — Revogação
+
+É revogado o [Decreto Regulamentar Regional n.º 10/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/10-1986-228868), de 19 de Junho.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária de 8 de Novembro de 1989.
+
+**O Presidente da Assembleia Legislativa Regional, em exercício, António Gil Inácio da Silva.**
+
+**Assinado em 20 de Novembro de 1989.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**

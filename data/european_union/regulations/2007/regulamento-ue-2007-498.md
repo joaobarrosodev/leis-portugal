@@ -1,0 +1,1407 @@
+---
+schema_version: '1.0'
+id: eu:celex:32007R0498:por
+title: Regulamento (CE) n. o 498/2007 da Comissão, de 26 de Março de 2007
+short_title: null
+summary: Regulamento (CE) n. o 498/2007 da Comissão, de 26 de Março de 2007 , que estabelece as normas de execução do Regulamento
+  (CE) n. o 1198/2006 do Conselho relativo ao Fundo Europeu das Pescas
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Comissão Europeia
+proposing_entity: null
+official_number: 2007/498
+official_date: null
+publication_date: '2007-05-10'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 120 de 10.5.2007
+  number: '120'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.02/DOC_1
+entry_into_force_dates:
+- '2007-05-30'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32007R0498
+  eli: http://data.europa.eu/eli/reg/2007/498/oj
+  oj: oj:JOL_2007_120_R_0001_01
+  dre: null
+  dre_path: null
+  internal: eu:celex:32007R0498:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32007R0498
+  metadata_url: http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018
+  content_url: http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T02:52:28Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2025-12-04T01:29:26.869+01:00'
+integrity:
+  source_sha256: ae7e2368b9463977df25c904ba4f4467d472604dcc7bae490221e0f28cb3a7c4
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:52:28Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- aquicultura
+- comunicação de dados
+- controlo da pesca
+- controlo dos auxílios estatais
+- desenvolvimento sustentável
+- difusão da informação da UE
+- frota de pesca
+- fundo (UE)
+- indústria pesqueira
+- instrumento financeiro
+- programa operacional
+- proteção das águas
+- regime de ajuda
+relationships:
+- type: amended_by
+  target: celex:32010R1249
+  label: null
+  source: http://publications.europa.eu/resource/cellar/594b2061-45cd-4290-a3b3-c416c2b796bf
+  date: '2010-12-23'
+- type: based_on
+  target: celex:32006R1198
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3aa4fce8-0547-47d0-add3-4ee7b1e60608
+  date: '2006-08-17'
+- type: cited_by
+  target: pt:dre:249261:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:249263:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:494218:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31979L0409
+  label: null
+  source: http://publications.europa.eu/resource/cellar/60cd834c-a905-4bf6-aed7-cf5023a71e46
+- type: cites
+  target: celex:31985L0337
+  label: null
+  source: http://publications.europa.eu/resource/cellar/92497bd3-ff88-4f06-8ffd-3715f9795a58
+- type: cites
+  target: celex:31990D0424
+  label: null
+  source: http://publications.europa.eu/resource/cellar/00756999-790d-4576-a7a8-a53f20e33231
+- type: cites
+  target: celex:31991R2092
+  label: null
+  source: http://publications.europa.eu/resource/cellar/987288f6-680a-42ac-8f55-6c3505212486
+- type: cites
+  target: celex:31992L0043
+  label: null
+  source: http://publications.europa.eu/resource/cellar/226d5e34-b115-4d2f-a54c-d66aa5385fda
+- type: cites
+  target: celex:31994D0140
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8949faaf-fd5a-4cb4-af11-5ddf83fc09f6
+- type: cites
+  target: celex:31994R1681
+  label: null
+  source: http://publications.europa.eu/resource/cellar/27455ee3-edfe-4efb-b535-2c87e97ca38e
+- type: cites
+  target: celex:31995L0046
+  label: null
+  source: http://publications.europa.eu/resource/cellar/775a4724-2086-4a06-9213-1a4e6489053b
+- type: cites
+  target: celex:31999L0093
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5456910f-06ec-46dc-80e6-545a5f5ecc9b
+- type: cites
+  target: celex:31999R1263
+  label: null
+  source: http://publications.europa.eu/resource/cellar/28f2ebd4-d2c2-4889-b473-107cb31fac65
+- type: cites
+  target: celex:31999R2792
+  label: null
+  source: http://publications.europa.eu/resource/cellar/f6d58818-d403-42fc-83f7-71018b695c35
+- type: cites
+  target: celex:32000R0104
+  label: null
+  source: http://publications.europa.eu/resource/cellar/47d048a3-a5a2-4021-b316-a74ba11d7309
+- type: cites
+  target: celex:32000R1346
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ed84c3aa-e64e-4292-a567-b40143b80fb4
+- type: cites
+  target: celex:32001R0045
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0177e751-7cb7-404b-98d8-79a564ddc629
+- type: cites
+  target: celex:32001R1639
+  label: null
+  source: http://publications.europa.eu/resource/cellar/85b97c9e-bcc7-432a-873f-18ae253eab25
+- type: cites
+  target: celex:32002R2371
+  label: null
+  source: http://publications.europa.eu/resource/cellar/98fc4b70-c38e-4135-9ec7-ca1aaa533901
+- type: cites
+  target: celex:32003H0361
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6ca8d655-126b-4a42-ada4-e9058fa45155
+- type: cites
+  target: celex:32006L0088
+  label: null
+  source: http://publications.europa.eu/resource/cellar/8b8e5668-083b-4941-9dd6-2323e93fee33
+- type: cites
+  target: celex:32006R0510
+  label: null
+  source: http://publications.europa.eu/resource/cellar/988b1794-6d49-4ad4-9d36-44816fe46766
+- type: cites
+  target: celex:32006R1083
+  label: null
+  source: http://publications.europa.eu/resource/cellar/2fa906b7-387c-4828-b393-75f3aa68395b
+- type: cites
+  target: celex:41995A1127(03)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/89083c3c-c97e-4fd7-acfa-7c012b6f4274
+- type: corrected_by
+  target: celex:32007R0498R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/55068a1d-8daa-42f4-b7e2-9e4c4945af49
+  date: '2010-07-29'
+- type: corrected_by
+  target: celex:32007R0498R(02)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/e33f41af-9572-11e2-ab01-01aa75ed71a1
+  date: '2013-03-25'
+- type: repeals
+  target: celex:32000R0908
+  label: null
+  source: http://publications.europa.eu/resource/cellar/c01d2f49-2e01-4299-87a1-e0fd3fd90ede
+  date: '2000-05-10'
+- type: repeals
+  target: celex:32000R2722
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7b4dae0c-7afe-4d5d-9206-3567b3c6afcb
+  date: '2000-12-20'
+- type: repeals
+  target: celex:32001R0366
+  label: null
+  source: http://publications.europa.eu/resource/cellar/017ffd88-5fae-4775-a7c2-5949dbed2d81
+  date: '2001-02-27'
+article_structure:
+  article_count: 70
+  section_count: 36
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:52:28Z'
+  warnings:
+  - 'Versão consolidada 02007R0498-20110112 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
+    do JO.'
+  errors: []
+---
+
+# REGULAMENTO (CE) N.º 498/2007 DA COMISSÃO
+
+de 26 de Março de 2007
+
+que estabelece as normas de execução do Regulamento (CE) n.º 1198/2006 do Conselho relativo ao Fundo Europeu das Pescas
+
+A COMISSÃO DAS COMUNIDADES EUROPEIAS
+
+Tendo em conta o Tratado que institui a Comunidade Europeia,
+
+Tendo em conta o Regulamento (CE) n.º 1198/2006 do Conselho, de 27 de Julho de 2006, relativo ao Fundo Europeu das Pescas [([^1])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr1-L_2007120PT.01000101-E0001), nomeadamente o artigo 102.º,
+
+Considerando o seguinte:
+
+(1) O Regulamento (CE) n.º 1198/2006 («regulamento de base») substitui os Regulamentos do Conselho (CE) n.º 1263/1999 [([^2])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr2-L_2007120PT.01000101-E0002) e (CE) n.º 2792/1999 [([^3])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr3-L_2007120PT.01000101-E0003) atendendo à evolução no domínio das pescas, zonas de pesca e pesca nas águas interiores. É, por conseguinte, conveniente estabelecer normas de execução do regulamento de base.
+
+(2) Devem ser estabelecidas normas de execução relativas à apresentação de programas operacionais. Para facilitar o estabelecimento dos programas operacionais, bem como o seu exame e aprovação pela Comissão, devem ser definidas normas comuns aplicáveis à estrutura e ao conteúdo desses programas, com base, nomeadamente, nas regras estabelecidas no artigo 20.º do regulamento de base.
+
+(3) No respeitante ao apoio às medidas de adaptação da frota de pesca comunitária, os Estados-Membros devem apresentar, nos seus programas operacionais, os métodos de cálculo dos prémios.
+
+(4) No respeitante à possibilidade, prevista no n.º 4 do artigo 25.º do regulamento de base, de obter a redução da potência do motor por um grupo de navios, devem ser especificadas as condições relativas a esta possibilidade.
+
+(5) É necessário definir determinados termos utilizados com referência especial à aquicultura e à transformação e comercialização de produtos da pesca e da aquicultura, a fim de assegurar que sejam compreendidos de modo uniforme.
+
+(6) No respeitante ao apoio aos investimentos produtivos na aquicultura e aos investimentos nos domínios da transformação e da comercialização, os Estados-Membros devem explicar, nos seus programas operacionais, de que forma garantem que seja dada prioridade às micro e pequenas empresas.
+
+(7) No respeitante ao apoio a medidas de sanidade animal, devem ser estabelecidas regras específicas para assegurar a observância da Directiva 2006/88/CE do Conselho, de 24 de Outubro de 2006, relativa aos requisitos de saúde animal aplicáveis aos animais e produtos da aquicultura e à prevenção e ao controlo de certas doenças dos animais aquáticos [([^4])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr4-L_2007120PT.01000101-E0004).
+
+(8) No respeitante ao apoio a medidas de interesse comum, é necessário definir as despesas elegíveis.
+
+(9) No respeitante às zonas de pesca referidas no artigo 43.º do regulamento de base, devem ser especificadas as condições para a sua selecção.
+
+(10) As parcerias entre sectores público e privado apoiadas ao abrigo do artigo 45.º do regulamento de base devem satisfazer determinadas condições específicas.
+
+(11) No respeitante ao apoio ao desenvolvimento sustentável das zonas de pesca, os procedimentos para a selecção dos grupos devem ser transparentes e garantir que sejam seleccionadas para apoio estratégias de desenvolvimento local pertinentes e de elevada qualidade.
+
+(12) Devem ser estabelecidas regras comuns a várias medidas. Em especial, com vista a uma melhor orientação das operações de investimento, deve ser definido um conjunto de regras comuns para a definição das despesas elegíveis.
+
+(13) A fim de garantir a ampla divulgação a todos os interessados das informações sobre as oportunidades de financiamento possíveis, e a bem da transparência, há que definir, tendo em conta o princípio da proporcionalidade, o conteúdo mínimo das medidas de informação necessárias para informar os potenciais beneficiários das oportunidades de financiamento proporcionadas conjuntamente pela Comunidade e os Estados-Membros através do Fundo Europeu das Pescas (FEP), incluindo a obrigatoriedade de publicar os passos a dar pelos potenciais beneficiários para apresentar um pedido de financiamento e os critérios de selecção a aplicar.
+
+(14) Para aumentar a transparência no que respeita à utilização da intervenção do FEP, os Estados-Membros devem publicar, anualmente, em formato electrónico ou outro, a lista dos beneficiários, a designação das acções e o montante do financiamento público a estas atribuído. A disponibilização ao público destas informações visa aumentar a transparência da acção comunitária no domínio do desenvolvimento do sector das pescas, das zonas de pesca e da pesca nas águas interiores, promover a boa gestão financeira dos fundos públicos envolvidos e, designadamente, reforçar o controlo da utilização de dinheiros públicos e, por último, evitar distorções da concorrência entre beneficiários de medidas do FEP. Dada a importância fundamental dos objectivos prosseguidos, justifica-se prever a publicação geral das informações pertinentes, tendo em conta o princípio da proporcionalidade e a exigência de protecção dos dados pessoais, na medida em que essa publicação não ultrapasse o necessário, numa sociedade democrática, para prevenir as irregularidades e delitos.
+
+(15) De modo a assegurar uma execução mais eficaz das medidas de informação e permitir um melhor intercâmbio de informações entre os Estados-Membros e a Comissão sobre as estratégias de informação e publicidade e respectivos resultados, devem ser designadas pessoas de contacto responsáveis pelas acções de informação e publicidade.
+
+(16) Com base na experiência adquirida no período de programação 2000-2006, é necessário pormenorizar as condições que os instrumentos de engenharia financeira devem satisfazer para que sejam financiados no âmbito de um programa operacional.
+
+(17) Atendendo ao artigo 59.º do regulamento de base e à luz da experiência adquirida, é necessário estabelecer as obrigações das autoridades de gestão face aos beneficiários, na fase conducente à selecção e aprovação das operações a financiar, no respeitante aos aspectos a contemplar nas verificações das despesas declaradas pelos beneficiários, incluindo as verificações administrativas dos pedidos de reembolso, e as verificações de operações específicas no terreno, e no respeitante às condições a observar aquando de verificações no terreno realizadas por amostragem.
+
+(18) É igualmente necessário definir as informações circunstanciadas a incluir nos documentos contabilísticos das operações e as que devem ser conservadas enquanto dados sobre a execução, que as autoridades de gestão devem registar, armazenar e enviar à Comissão a pedido desta.
+
+(19) A fim de permitir os devidos controlos das despesas incorridas no âmbito de programas operacionais, há que determinar os critérios que uma pista de auditoria deve respeitar para ser considerada adequada.
+
+(20) A auditoria das operações é efectuada sob a responsabilidade da autoridade de auditoria. A fim de garantir que essas auditorias tenham o alcance e a eficácia pretendidos e sejam realizadas de acordo com critérios uniformes em todos os Estados-Membros, é necessário especificar as condições que as mesmas devem respeitar.
+
+(21) No que diz respeito à amostragem das operações a controlar, a experiência revela que é necessário definir, em pormenor, as regras a observar pelas autoridades de auditoria para estabelecer ou aprovar o método de amostragem, incluindo determinados critérios de ordem técnica a aplicar para obter uma amostra estatística aleatória e os factores a ter em conta para formar uma amostra complementar.
+
+(22) Para simplificar e harmonizar as normas relativas à preparação e apresentação da estratégia de auditoria, do relatório anual de controlo e das declarações de encerramento, pelos quais a autoridade de auditoria é responsável nos termos do artigo 61.º do regulamento de base, é necessário estabelecer normas de execução relativas ao seu conteúdo e especificar a natureza e qualidade das informações que lhes servem de base.
+
+(23) A fim de garantir a aplicação adequada do artigo 87.º do regulamento de base no que respeita à disponibilização de documentos e aos direitos de acesso do Tribunal de Contas e da Comissão a todos os documentos comprovativos das despesas e das auditorias, as autoridades de gestão devem velar pela imediata disponibilização das informações relativas à identidade e localização dos organismos que dispõem dos documentos comprovativos, os quais devem ser prontamente fornecidos a uma lista reduzida de pessoas e organismos. Para o mesmo efeito, há que especificar os suportes que podem ser considerados comummente aceites para a conservação desses documentos. Para tal, as autoridades nacionais devem estabelecer os procedimentos necessários para que os documentos conservados estejam em conformidade com os originais, sempre que tal for relevante, e sejam fiáveis para efeitos de auditoria.
+
+(24) Para harmonizar as normas relativas à certificação das despesas e à preparação dos pedidos de pagamento, o conteúdo desses certificados e pedidos deverá ser definido e deverão ser especificadas a natureza e a qualidade das informações em que se baseiam. É necessário estabelecer procedimentos específicos relativos à manutenção, em conformidade com a alínea f) do artigo 60.º do regulamento de base, de uma contabilidade dos montantes a recuperar e dos montantes retirados na sequência da revogação, na totalidade ou em parte, da participação numa operação e à informação da Comissão em consequência.
+
+(25) Em conformidade com o artigo 71.º do regulamento de base, antes da apresentação do primeiro pedido de pagamento intermédio ou no prazo de doze meses a contar da data de aprovação do programa operacional, os Estados-Membros devem apresentar à Comissão uma descrição dos sistemas de gestão e controlo, um relatório do qual constem os resultados de uma avaliação dos sistemas criados e um parecer quanto à sua conformidade com as disposições desse regulamento em matéria de sistemas de gestão e controlo. Uma vez que esses documentos fazem parte dos principais elementos nos quais a Comissão se baseia, no contexto da gestão partilhada do orçamento comunitário, para se certificar de que a assistência financeira em causa é utilizada pelos Estados-Membros segundo as regras e os princípios aplicáveis necessários à salvaguarda dos interesses financeiros da Comunidade, é necessário pormenorizar as informações que devem constar desses documentos, bem como a base para a avaliação e o parecer.
+
+(26) O artigo 57.º do regulamento de base prevê que as disposições para a auditoria devem ser proporcionais ao montante total das despesas públicas no âmbito do programa operacional em causa. Nos casos em que as despesas públicas afectadas ao programa operacional são limitadas, é conveniente que o Estado-Membro tenha a possibilidade de optar por um maior recurso a organismos e normas nacionais para o exercício de determinadas funções relacionadas com as disposições de controlo e auditoria e que, por conseguinte, a Comissão especifique as verificações, as auditorias de operações e as obrigações que podem ser assumidas e executadas segundo normas nacionais e por organismos nacionais. Nessas circunstâncias, a Comissão deve também distinguir os meios através dos quais os Estados-Membros devem desempenhar as funções de certificação das despesas e verificação dos sistemas de gestão e controlo e estabelecer as condições em que pode limitar a sua própria auditoria e basear-se nas garantias proporcionadas pelos organismos nacionais.
+
+(27) No âmbito dos seus deveres em matéria de gestão e controlo, os Estados-Membros devem informar e vigiar em matéria de irregularidades e delitos. A fim de aplicar essa exigência, foram estabelecidas disposições específicas pelo Regulamento (CE) n.º 1681/94 da Comissão, de 11 de Julho de 1994, relativo às irregularidades e à recuperação dos montantes pagos indevidamente no âmbito do financiamento das políticas estruturais, assim como à organização de um sistema de informação nesse domínio [([^5])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr5-L_2007120PT.01000101-E0005). Por razões de clareza e de simplificação, é conveniente incorporar tais disposições no presente regulamento.
+
+(28) Há que prever o reembolso por parte da Comissão das custas judiciais nos casos em que esta instituição exija a um Estado-Membro que dê início ou prossiga um processo judicial com vista à recuperação de montantes pagos indevidamente na sequência de um delito e há que prever a transmissão de informações à Comissão que lhe permitam determinar a imputação da perda de montantes que não possam ser recuperados, em conformidade com o n.º 2 do artigo 70.º do regulamento de base. É igualmente necessário prever contactos regulares entre a Comissão e os Estados-Membros relativamente às irregularidades e delitos, à utilização das informações fornecidas para efeitos da realização de análises de riscos e da elaboração de relatórios, bem como à comunicação de informações aos comités competentes.
+
+(29) Para limitar os encargos administrativos impostos pelo sistema de relatórios e, ao mesmo tempo, garantir o nível de informação necessária, os Estados-Membros, sem prejuízo das obrigações decorrentes directamente da alínea f) do artigo 60.º do regulamento de base, não devem ser obrigados a comunicar irregularidades e delitos referentes a montantes inferiores a um determinado limiar, a não ser que a Comissão o solicite expressamente.
+
+(30) A utilização de meios electrónicos para o intercâmbio de informações e de dados financeiros traduz-se numa simplificação, num reforço da eficácia e da transparência e em ganhos de tempo. Para tirar o máximo proveito destas vantagens, salvaguardando a segurança dos intercâmbios, há que estabelecer um sistema informático comum e elaborar a lista de documentos que interessam simultaneamente à Comissão e aos Estados-Membros. É, pois, necessário especificar o formato que cada documento deve ter e descrever em pormenor as informações que esses documentos devem conter. Pelos mesmos motivos, há que especificar o modo como funciona um sistema informático deste tipo no que respeita à identificação dos responsáveis pela transferência de documentos para o sistema e eventuais actualizações posteriores.
+
+(31) Nos termos da Directiva 1999/93/CE do Parlamento Europeu e do Conselho, de 13 de Dezembro de 1999, relativa a um quadro legal comunitário para as assinaturas electrónicas [([^6])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr6-L_2007120PT.01000101-E0006), e atendendo ao nível de segurança e confidencialidade exigido para a gestão financeira da utilização do FEP, à situação actual em termos de conhecimentos e a uma análise de custos-benefícios, é necessário exigir o uso de uma assinatura electrónica.
+
+(32) Para garantir o desenvolvimento rápido e o funcionamento adequado do sistema informatizado comum, o custo do seu desenvolvimento deve ser financiado pelo orçamento geral das Comunidades Europeias, nos termos do n.º 1 do artigo 46.º do regulamento de base, e os custos da interface com os sistemas informáticos nacionais, regionais e locais devem poder ser considerados para uma participação financeira do FEP no âmbito do artigo 46.º do mesmo regulamento.
+
+(33) À luz da Directiva 95/46/CE do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, relativa à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados [([^7])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr7-L_2007120PT.01000101-E0007) e do Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de Dezembro de 2000, relativo à protecção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados [([^8])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr8-L_2007120PT.01000101-E0008), é necessário estabelecer, relativamente às acções de informação e publicidade e aos trabalhos de auditoria realizados em conformidade com o presente regulamento, que a Comissão e os Estados-Membros devem evitar qualquer divulgação ou disponibilização não autorizada de dados pessoais, e especificar para que fim a Comissão e os Estados-Membros podem processar esses dados.
+
+(34) O Regulamento (CE) n.º 2722/2000 da Comissão, de 13 de Dezembro de 2000, que fixa as condições em que o instrumento financeiro de orientação das pescas (IFOP) pode contribuir para a erradicação dos riscos patológicos na aquicultura [([^9])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr9-L_2007120PT.01000101-E0009), o Regulamento (CE) n.º 908/2000 da Comissão, de 2 de Maio de 2000, relativo às modalidades de cálculo das ajudas concedidas pelos Estados-Membros às organizações de produtores no sector das pescas e da aquicultura [([^10])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr10-L_2007120PT.01000101-E0010) e o Regulamento (CE) n.º 366/2001 da Comissão, de 22 de Fevereiro de 2001, relativo às regras de execução das acções definidas pelo Regulamento (CE) n.º 2792/1999 do Conselho [([^11])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr11-L_2007120PT.01000101-E0011) devem ser revogados.
+
+(35) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité do Fundo Europeu das Pescas,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+## CAPÍTULO I
+
+### DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objecto
+
+O presente regulamento estabelece as normas de execução do Regulamento (CE) n.º 1198/2006 relativo ao Fundo Europeu das Pescas (a seguir designado «regulamento de base») no que respeita aos seguintes aspectos:
+
+a) Estrutura e transmissão dos programas operacionais;
+
+b) Medidas relativas às pescas;
+
+c) Avaliação dos programas operacionais;
+
+d) Informação e publicidade;
+
+e) Instrumentos de engenharia financeira;
+
+f) Gestão, acompanhamento e controlo;
+
+g) Delitos;
+
+h) Intercâmbio electrónico de dados; e
+
+i) Dados pessoais.
+
+###### Artigo 2.º — Disposições específicas para certos programas operacionais
+
+Relativamente aos programas operacionais em que a totalidade das despesas públicas elegíveis não exceder 90 milhões de EUR a preços de 2004, são estabelecidas disposições específicas no n.º 2 do artigo 28.º e nos artigos 51.º, 52.º e 53.º
+
+## CAPÍTULO II
+
+### ESTRUTURA E TRANSMISSÃO DOS PROGRAMAS OPERACIONAIS
+
+###### Artigo 3.º — Estrutura e transmissão dos programas operacionais
+
+1. O teor do programa operacional referido no artigo 20.º do regulamento de base será estabelecido em conformidade com a parte A do anexo I do presente regulamento e o plano de financiamento será fixado em conformidade com a parte B do mesmo anexo.
+
+A avaliação *ex ante* referida no artigo 48.º do regulamento de base será anexada ao programa operacional.
+
+2. Os Estados-Membros porão à disposição da Comissão uma versão electrónica dos seus programas operacionais, actualizada após cada revisão desses programas. Os Estados-Membros apresentarão à Comissão, por via electrónica, os pedidos de revisão dos programas referidos no artigo 18.º do regulamento de base, em conformidade com o artigo 65.º do presente regulamento. Os Estados-Membros apresentarão à Comissão os seus pedidos de revisão dos programas operacionais que tenham uma incidência na participação do Fundo Europeu das Pescas (FEP) para o ano em curso até 30 de Setembro desse ano.
+
+## CAPÍTULO III
+
+### EIXOS PRIORITÁRIOS
+
+## SECÇÃO 1
+
+### Eixo prioritário 1: medidas de adaptação da frota de pesca comunitária
+
+###### Artigo 4.º — Ajudas públicas à cessação definitiva da actividade da pesca
+
+1. Após a cessação definitiva da actividade da pesca, o navio em causa será definitivamente eliminado do ficheiro da frota de pesca comunitária e, se for o caso, a licença de pesca com ele relacionada será revogada a título definitivo.
+
+2. O programa operacional especificará os métodos de cálculo dos prémios concedidos ao abrigo do artigo 23.º do regulamento de base.
+
+3. Se a cessação definitiva das actividades de pesca dos navios de pesca for concretizada através de uma reafectação, de acordo com o n.º 1, alínea b), do artigo 23.º do regulamento de base, os Estados-Membros ajustarão o nível do prémio em conformidade, tendo em conta critérios como o valor de mercado da licença de pesca relacionada com o navio e o valor residual do navio.
+
+4. Em caso de sinistro total do navio de pesca entre a decisão de concessão do prémio e a cessação definitiva efectiva das actividades de pesca, a autoridade de gestão efectuará uma correcção financeira correspondente à indemnização paga pelo seguro.
+
+###### Artigo 5.º — Ajudas públicas à cessação temporária da actividade da pesca
+
+1. O programa operacional especificará os métodos de cálculo dos prémios concedidos ao abrigo do artigo 24.º do regulamento de base.
+
+2. Para efeitos do n.º 2 do artigo 24.º do regulamento de base, entende-se por «participação financeira comunitária atribuída ao sector», a participação financeira do FEP no programa operacional do Estado-Membro em causa.
+
+###### Artigo 6.º — Investimentos a bordo dos navios de pesca e selectividade
+
+1. Para efeitos do artigo 25.º do regulamento de base, a autoridade de gestão é responsável pela verificação do cumprimento dos n.^os^ 2 a 5 do presente artigo e disponibilizará à Comissão, mediante pedido, todos os documentos pertinentes.
+
+2. As despesas totais elegíveis para apoio por navio de pesca, ao longo de todo o período de programação, em conformidade com o artigo 25.º do regulamento de base, excepto as disposições da alínea e) do n.º 6 desse artigo, não excederão o prémio estabelecido com base em critérios objectivos como os enumerados no n.º 3 do artigo 23.º do referido regulamento e incluídos no programa operacional.
+
+3. A redução da potência do motor em 20 % pode ser obtida por um grupo de navios, como previsto no n.º 4 do artigo 25.º do regulamento de base, desde que sejam satisfeitas todas as seguintes condições:
+
+a) Todos os navios de um mesmo grupo devem ser identificados individualmente;
+
+b) Todos os navios de um mesmo grupo devem exercer as suas actividades nas mesmas zonas de gestão;
+
+c) Todos os navios de um mesmo grupo devem utilizar as mesmas artes de pesca principais, constantes do apêndice III (secção C) do Regulamento (CE) n.º 1639/2001 da Comissão [([^12])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr12-L_2007120PT.01000101-E0012);
+
+d) O número total de navios do mesmo grupo não pode exceder 50.
+
+4. As capacidades saídas da frota de pesca com ajuda pública não são tidas em conta no cálculo da redução da potência em 20 % que pode ser obtida por um grupo de navios em conformidade com o n.º 4 do artigo 25.º do regulamento de base.
+
+5. O apoio financeiro concedido ao abrigo do n.º 6, alínea e), do artigo 25.º do regulamento de base só é concedido em relação a equipamentos e trabalhos de modernização destinados a proteger as capturas e as artes de pesca de predadores selvagens protegidos no âmbito das Directivas 79/409/CEE [([^13])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr13-L_2007120PT.01000101-E0013) e 92/43/CEE do Conselho [([^14])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr14-L_2007120PT.01000101-E0014).
+
+###### Artigo 7.º — Pequena pesca costeira
+
+1. Se a taxa de participação financeira do sector privado for reduzida em conformidade com o n.º 2 do artigo 26.º do regulamento de base, a taxa de participação pública será aumentada em conformidade. A participação do FEP será calculada em conformidade com as taxas estabelecidas no artigo 53.º do regulamento de base em função da participação pública final.
+
+2. O programa operacional especificará os métodos de cálculo dos prémios a favor da pequena pesca costeira, concedidos ao abrigo dos n.^os^ 3 e 4 do artigo 26.º do regulamento de base.
+
+3. Para efeitos do n.º 4, alínea b), do artigo 26.º do regulamento de base, entende-se por «produtos da pesca» os produtos provenientes das capturas de navios que participem na pequena pesca costeira.
+
+###### Artigo 8.º — Compensação comunitária socioeconómica para efeitos de gestão da frota de pesca
+
+1. O programa operacional especificará os métodos de cálculo da compensação socioeconómica para efeitos de gestão da frota de pesca comunitária, concedida ao abrigo do artigo 27.º do regulamento de base.
+
+2. O apoio previsto no n.º 1, alínea d), do artigo 27.º do regulamento de base a favor da reforma antecipada é elegível para participação do FEP mesmo quando pago aos beneficiários após 31 de Dezembro de 2015, desde que tenha sido depositado numa conta bloqueada para esse efeito antes dessa data.
+
+## SECÇÃO 2
+
+### Eixo prioritário 2: aquicultura, pesca nas águas interiores, transformação e comercialização dos produtos da pesca e da aquicultura
+
+###### Artigo 9.º — Âmbito da intervenção na produção aquícola
+
+O apoio concedido ao abrigo do n.º 6 do artigo 28.º do regulamento de base pode abranger os custos das avaliações previstas na Directiva 85/337/CEE do Conselho [([^15])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr15-L_2007120PT.01000101-E0015).
+
+###### Artigo 10.º — Medidas de apoio aos investimentos produtivos na aquicultura
+
+1. Para efeitos do n.º 1, alíneas a), b) e c), do artigo 29.º do regulamento de base, entende-se por:
+
+a) «Novas espécies»: espécies cuja produção aquícola no Estado-Membro é baixa ou inexistente e para as quais existem boas perspectivas de escoamento no mercado;
+
+b) «Espécies com boas perspectivas de escoamento no mercado»: espécies para as quais as previsões de evolução a médio prazo indicam que a procura do mercado excederá provavelmente a oferta;
+
+c) «Práticas habituais no sector da aquicultura»: actividades aquícolas exercidas em conformidade com as disposições legais coercivas, no domínio sanitário, veterinário ou ambiental;
+
+d) «Aquicultura tradicional»: práticas consagradas que estão ligadas ao património social e cultural de uma dada zona.
+
+2. O apoio previsto ao abrigo do artigo 29.º do regulamento de base pode abranger navios de serviço utilizados na aquicultura. Os navios de pesca definidos na alínea c) do artigo 3.º do Regulamento (CE) n.º 2371/2002 [([^16])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr16-L_2007120PT.01000101-E0016) não são considerados navios de serviço para a aquicultura mesmo quando exclusivamente utilizados na aquicultura.
+
+3. Sem prejuízo do n.º 6 do artigo 35.º do regulamento de base, o apoio previsto ao abrigo do artigo 29.º do regulamento de base pode abranger investimentos relativos ao comércio retalhista na exploração, se o referido comércio fizer parte integrante de uma exploração aquícola.
+
+4. Se utilizarem a possibilidade prevista no n.º 1, alínea a), do artigo 29.º do regulamento de base, os Estados-Membros criarão mecanismos que permitam disponibilizar à autoridade de gestão os resultados de análises de mercado prospectivas sobre espécies aquícolas.
+
+5. Relativamente às medidas previstas no artigo 29.º do regulamento de base, os Estados-Membros descreverão nos seus programas operacionais o modo como será dada prioridade à ajuda às micro e pequenas empresas.
+
+###### Artigo 11.º — Medidas aquiambientais
+
+1. Sempre que o apoio for concedido a beneficiários para os efeitos referidos no artigo 30.º do regulamento de base, os Estados-Membros verificarão se os beneficiários cumprem os compromissos no domínio aquiambiental o mais tardar três anos após a data de aprovação da operação e no final da sua execução.
+
+2. O apoio previsto ao abrigo do n.º 2, alínea b), do artigo 30.º do regulamento de base só abrange os custos de participação num sistema comunitário de ecogestão e auditoria (EMAS) anteriores à aprovação do sistema relativamente a uma empresa individual.
+
+3. Para efeitos do n.º 2, alínea c), do artigo 30.º do regulamento de base, entende-se por «aquicultura biológica», as actividades aquícolas que produzam espécies aquáticas de cultura de acordo com o modo de produção biológico, nos termos do artigo 2.º do Regulamento (CEE) n.º 2092/91 do Conselho [([^17])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr17-L_2007120PT.01000101-E0017) e que ostentem as indicações correspondentes. Até à adopção de regras de produção pormenorizadas pela Comunidade, incluindo regras sobre a conversão, aplicáveis à aquicultura biológica, são aplicáveis as regras nacionais ou, na sua ausência, normas privadas, aplicáveis à aquicultura biológica, aceites ou reconhecidas pelos Estados-Membros.
+
+4. O apoio previsto no n.º 2, alínea d), do artigo 30.º do regulamento de base só pode ser concedido em caso de restrições ou requisitos específicos para as zonas Natura 2000, impostos pelas medidas nacionais pertinentes para a execução da Directiva 79/409/CEE e da Directiva 92/43/CEE.
+
+5. Para efeitos do n.º 3 do artigo 30.º do regulamento de base, entende-se por «boas práticas habituais na aquicultura» o cumprimento das disposições legais coercivas, no domínio sanitário, veterinário ou ambiental, e a utilização de protocolos de produção que impeçam o desperdício de recursos e a poluição evitável.
+
+###### Artigo 12.º — Medidas de sanidade animal
+
+1. O apoio previsto no artigo 32.º do regulamento de base pode abranger:
+
+a) Relativamente às doenças exóticas na aquicultura, previstas no artigo 3.º da Decisão 90/424/CEE do Conselho [([^18])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr18-L_2007120PT.01000101-E0018), as medidas de controlo aplicadas em conformidade com a secção 3 do capítulo V da Directiva 2006/88/CE do Conselho;
+
+b) Relativamente às doenças não exóticas na aquicultura, previstas no artigo 24.º da Decisão 90/424/CEE, programas de erradicação elaborados e aprovados em conformidade com o n.º 2 do artigo 44.º da Directiva 2006/88/CE.
+
+2. A autoridade de gestão do programa operacional decidirá se contribuirá para o financiamento das medidas de controlo referidas na alínea a) do n.º 1, ou de um programa de erradicação referido na alínea b) do n.º 1, e adoptará as regras de aplicação da sua participação financeira antes de apresentar as medidas ou o programa, respectivamente, em conformidade com o disposto na Decisão 90/424/CEE.
+
+3. Se a Comissão não aprovar, em conformidade com o artigo 24.º da Decisão 90/424/CEE, as medidas de controlo ou o programa de erradicação referidos no n.º 1 do presente artigo, a participação autorizada será imediatamente restituída ao orçamento do programa operacional.
+
+4. Se o valor dos custos elegíveis da acção aprovada pela Comissão, em conformidade com o artigo 24.º da Decisão 90/424/CEE, for inferior ao montante autorizado pela autoridade de gestão, a diferença assim libertada pode ser reutilizada pelo Estado-Membro para o seu programa operacional.
+
+5. O apoio previsto no artigo 32.º do regulamento de base não abrange as actividades de vigilância destinadas a comprovar a indemnidade de doenças a fim de obter o reconhecimento do estatuto oficial de indemnidade de doença ou custos fixos, nomeadamente os custos dos serviços veterinários oficiais.
+
+###### Artigo 13.º — Pesca nas águas interiores
+
+1. Para efeitos do artigo 33.º do regulamento de base, entende-se por «navios que operem exclusivamente em águas interiores» os navios que exercem actividades de pesca com fins comerciais em águas interiores, não incluídos no ficheiro da frota de pesca comunitária.
+
+2. No respeitante aos investimentos previstos no n.º 2, segundo parágrafo, do artigo 33.º e no artigo 25.º do regulamento de base, os navios com menos de 12 metros que não utilizam artes rebocadas e que exercem actividades de pesca nas águas interiores podem beneficiar de um apoio com a mesma intensidade de ajuda que a prevista para os navios que participam na pequena pesca costeira referidos no artigo 26.º do regulamento de base
+
+3. Nos seus programas operacionais, os Estados-Membros determinarão o modo de garantir que os investimentos apoiados ao abrigo do artigo 33.º do regulamento de base não prejudiquem o equilíbrio entre a dimensão da frota e os correspondentes recursos haliêuticos disponíveis.
+
+###### Artigo 14.º — Investimentos nos domínios da transformação e da comercialização
+
+1. Os investimentos relativos à extracção de dioxinas ou outras substâncias perigosas para a saúde humana da farinha de peixe ou do óleo de peixe podem ser apoiados pelo FEP abrigo do artigo 34.º do regulamento de base, mesmo quando os produtos finais se destinem a utilização e transformação para outros fins que não o consumo humano.
+
+2. Relativamente às medidas previstas no artigo 35.º do regulamento de base, os Estados-Membros descreverão nos seus programas operacionais o modo como será dada prioridade à ajuda às pequenas e micro empresas.
+
+## SECÇÃO 3
+
+### Eixo prioritário 3: medidas de interesse geral
+
+###### Artigo 15.º — Acções colectivas
+
+1. O apoio previsto no artigo 37.º do regulamento de base não abrange os custos relativos à pesca exploratória.
+
+2. O apoio previsto na alínea n) do primeiro parágrafo do artigo 37.º do regulamento de base pode ser concedido para:
+
+a) Criar organizações de produtores a fim de facilitar o estabelecimento e o funcionamento administrativo das organizações de produtores reconhecidas nos termos do Regulamento (CE) n.º 104/2000 [([^19])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr19-L_2007120PT.01000101-E0019) após 1 de Janeiro de 2007;
+
+b) Aplicar os planos das organizações de produtores reconhecidas nos termos do artigo 12.º do Regulamento (CE) n.º 104/2000, a fim de favorecer a execução dos seus planos de melhoria da qualidade dos seus produtos; ou
+
+c) Reestruturar as organizações de produtores a fim de aumentar a sua eficiência em função das necessidades do mercado.
+
+3. O apoio referido na alínea b) do n.º 2 é degressivo durante os três anos seguintes à data do reconhecimento específico concedido nos termos do artigo 12.º do Regulamento (CE) n.º 104/2000.
+
+###### Artigo 16.º — Medidas destinadas a proteger e a desenvolver a fauna e a flora aquáticas
+
+1. O apoio previsto no n.º 2, primeiro parágrafo, alínea a), do artigo 38.º do regulamento de base incidirá em medidas de construção e implantação de recifes artificiais, ou outras instalações realizadas a partir de elementos de longa duração.
+
+O apoio pode abranger trabalhos anteriores à implantação, incluindo estudos, componentes, sinalização, transporte e montagem das instalações, bem como acompanhamento científico.
+
+2. O apoio previsto ao abrigo do n.º 2 do artigo 38.º do regulamento de base não abrangerá dispositivos de concentração dos peixes.
+
+3. O apoio previsto no n.º 2, primeiro parágrafo, alínea c), do artigo 38.º do regulamento de base pode abranger as despesas relacionadas com as medidas de conservação necessárias para os locais pertencentes à rede ecológica europeia Natura 2000. O apoio pode abranger a preparação de planos, estratégias e programas de gestão, as infra-estruturas, incluindo a depreciação e equipamento para reservas, a formação dos empregados das reservas, bem como os estudos pertinentes.
+
+4. O apoio previsto ao abrigo do n.º 2, primeiro parágrafo, alínea c), do artigo 38.º do regulamento de base não abrangerá a compensação por direitos perdidos, perdas de rendimento e salários dos empregados.
+
+5. Para efeitos do n.º 2, segundo parágrafo, do artigo 38.º do regulamento de base, entende-se por «repovoamento direito» a actividade que consiste em libertar organismos aquáticos vivos, quer se trate de animais produzidos em estações de produção de juvenis quer de animais capturados noutro lugar.
+
+###### Artigo 17.º — Locais de desembarque
+
+Se for concedido apoio a investimentos com vista à reestruturação de locais de desembarque e à melhoria das condições de desembarque do pescado por pescadores costeiros em locais de desembarque existentes, em conformidade com o n.º 1, segundo parágrafo, do artigo 39.º do regulamento de base, os Estados-Membros garantem que são observadas as regras sanitárias pertinentes e aplicadas medidas de controlo nos referidos locais.
+
+###### Artigo 18.º — Desenvolvimento de novos mercados e campanhas promocionais
+
+1. O apoio previsto para medidas de promoção, em conformidade com o n.º 3, alíneas a), d), e) e g), do artigo 40.º do regulamento de base pode abranger, designadamente:
+
+a) Os custos de agências de publicidade e outros prestadores de serviços implicados na preparação e realização de campanhas promocionais;
+
+b) A compra ou locação de espaços nos meios de comunicação, a criação de slogans ou de rótulos a utilizar durante as campanhas promocionais;
+
+c) As despesas de publicação e com pessoal externo, necessárias para as campanhas;
+
+d) A organização e participação em feiras, salões e exposições.
+
+2. No respeitante aos produtos protegidos nos termos do Regulamento (CE) n.º 510/2006 do Conselho [([^20])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr20-L_2007120PT.01000101-E0020), só pode ser concedido apoio para a sua promoção a partir da data do registo da denominação, em conformidade com o artigo 7.º desse regulamento.
+
+###### Artigo 19.º — Projectos-piloto
+
+1. Não será concedido apoio ao abrigo do artigo 41.º do regulamento de base para a pesca exploratória.
+
+2. Se for concedido apoio para um projecto-piloto, em conformidade com o artigo 41.º do regulamento de base, a autoridade de gestão assegurará que o projecto-piloto inclua um acompanhamento científico adequado e que seja efectuada uma avaliação da qualidade dos relatórios técnicos a que se refere o n.º 3 do artigo 41.º desse regulamento.
+
+3. Os projectos-piloto não devem ter um carácter comercial directo. Os lucros eventualmente gerados durante a execução de um projecto-piloto são deduzidos da ajuda pública concedida à operação.
+
+4. Se os custos totais de um projecto-piloto excederem 1 milhão de EUR, antes de o aprovar a autoridade de gestão solicitará uma avaliação por um organismo científico independente.
+
+###### Artigo 20.º — Transformação para reafectação de navios de pesca
+
+O apoio previsto no artigo 42.º do regulamento de base pode ser concedido para a transformação de navios da pesca após a sua reafectação unicamente se o navio reafectado tiver sido definitivamente eliminado do ficheiro da frota de pesca comunitária e, se for o caso, se a licença de pesca com ele relacionada tiver sido revogada a título definitivo.
+
+## SECÇÃO 4
+
+### Eixo prioritário 4: desenvolvimento sustentável das zonas de pesca
+
+###### Artigo 21.º — Objectivos e medidas
+
+O apoio concedido ao abrigo do artigo 43.º do regulamento de base destinar-se-á:
+
+a) À aplicação das estratégias de desenvolvimento local, referidas no n.º 2 do artigo 45.º do regulamento de base e no artigo 24.º do presente regulamento, a fim de atingir os objectivos fixados no n.º 2, alíneas a), b), e c), do artigo 43.º do regulamento de base, através das medidas elegíveis previstas no n.º 1, alíneas a) a g), i) e j), e nos n.^os^ 2 e 3 do artigo 44.º do mesmo regulamento;
+
+b) À promoção da cooperação inter-regional e transnacional entre os grupos nas zonas da pesca, em conformidade com o n.º 1, alínea h), do artigo 44.º do regulamento de base, principalmente por meio da constituição de redes e da divulgação de boas práticas, a fim de alcançar o objectivo fixado no n.º 2, alínea d), do artigo 43.º do mesmo regulamento.
+
+###### Artigo 22.º — Aplicação geográfica do eixo prioritário 4
+
+1. O programa operacional especificará os procedimentos e os critérios de selecção das zonas de pesca. Os Estados-Membros decidirão a forma como aplicarão os n.^os^ 3 e 4 do artigo 43.º do regulamento de base.
+
+2. As zonas de pesca seleccionadas não devem obrigatoriamente ser coincidentes com uma divisão administrativa nacional ou com zonas estabelecidas para efeitos de elegibilidade a título dos objectivos dos fundos estruturais.
+
+###### Artigo 23.º — Procedimentos e critérios de selecção dos grupos
+
+1. Um grupo, na acepção do n.º 1 do artigo 45.º do regulamento de base, é composto de forma a poder elaborar e aplicar uma estratégia de desenvolvimento da zona em causa.
+
+A pertinência e a eficácia da parceria serão avaliadas em função da sua composição, bem como da transparência e da clareza na atribuição das tarefas e das responsabilidades.
+
+A capacidade dos parceiros para assumir as tarefas atribuídas, bem como a eficácia da tomada de decisão devem ser garantidas.
+
+A parceria compreenderá, incluindo ao nível da tomada de decisão, representantes do sector das pescas e de outros sectores socioeconómicos locais interessados.
+
+2. A capacidade administrativa do «grupo» é considerada adequada sempre que o grupo:
+
+a) Escolha, de entre a parceria, como chefe administrativo um parceiro que garanta o bom funcionamento da parceria; ou
+
+b) Se associe numa estrutura comum legalmente constituída, cujo estatuto garanta o bom funcionamento da parceria.
+
+3. Se o grupo for encarregado da gestão de fundos públicos, a sua capacidade financeira será avaliada:
+
+a) Relativamente à alínea a) do n.º 2, em termos da capacidade do chefe administrativo para gerir os fundos;
+
+b) Relativamente à alínea b) do n.º 2, em termos da capacidade da estrutura comum para gerir os fundos.
+
+4. Os grupos para a aplicação das estratégias de desenvolvimento local serão seleccionados o mais tardar quatro anos após a data de aprovação do programa operacional. Podem ser autorizados períodos mais longos se a autoridade de gestão organizar mais do que um procedimento de selecção para os grupos.
+
+5. O programa operacional especificará:
+
+a) Os procedimentos e critérios de selecção dos grupos, bem como o número de grupos que o Estado-Membro tenciona seleccionar. Os critérios de selecção referidos no artigo 45.º do regulamento de base e no presente artigo constituem uma base mínima que pode ser complementada por critérios nacionais específicos. Os procedimentos serão transparentes, proporcionarão a publicidade adequada e assegurarão, se for caso disso, a concorrência entre os grupos que proponham estratégias de desenvolvimento local;
+
+b) As disposições em matéria de gestão e os procedimentos de mobilização e de circulação dos fluxos financeiros, bem como o beneficiário. Descreverá, nomeadamente, a forma como os grupos são integrados nos sistemas de gestão, acompanhamento e controlo.
+
+###### Artigo 24.º — Estratégia de desenvolvimento local
+
+A estratégia de desenvolvimento local proposta pelo grupo em conformidade com o n.º 2 do artigo 45.º do regulamento de base deve:
+
+a) Ser integrada, baseada na interacção entre agentes, sectores e operações, não se resumindo a uma simples colecção de operações ou a uma justaposição de medidas sectoriais;
+
+b) Ser coerente com as necessidades da zona de pesca, especialmente em termos socioeconómicos;
+
+c) Demonstrar a sua sustentabilidade;
+
+d) Ser complementar com outras intervenções que tenham lugar na zona em causa.
+
+###### Artigo 25.º — Aplicação da estratégia de desenvolvimento local
+
+1. Sem prejuízo do n.º 2 do artigo 45.º do regulamento de base, o grupo escolherá as operações a financiar no âmbito da estratégia de desenvolvimento local.
+
+2. Se for encarregado da gestão de fundos públicos, o grupo criará uma conta separada para a aplicação da estratégia de desenvolvimento local.
+
+## SECÇÃO 5
+
+### Disposições comuns a várias medidas
+
+###### Artigo 26.º — Disposições comuns aos eixos prioritários 1 a 4
+
+Não são elegíveis para a participação do FEP as seguintes despesas:
+
+a) Para efeitos do n.º 3 do artigo 28.º, do n.º 3 do artigo 34.º, da alínea i) do primeiro parágrafo do artigo 37.º e do n.º 2 do artigo 44.º do regulamento de base, a compra de infra-estruturas utilizadas para a aprendizagem ao longo da vida cujo montante seja superior a 10 % das despesas elegíveis totais da operação em causa;
+
+b) A parte do custo de veículos não directamente ligada à operação em causa.
+
+## CAPÍTULO IV
+
+### AVALIAÇÃO DOS PROGRAMAS OPERACIONAIS
+
+###### Artigo 27.º — Avaliações intercalares
+
+Os Estados-Membros enviarão as avaliações intercalares referidas no artigo 49.º do regulamento de base até 30 de Junho de 2011. A Comissão pode decidir interromper o prazo de pagamento, em conformidade com o artigo 88.º do regulamento de base, se um Estado-Membro não cumprir as suas obrigações.
+
+## CAPÍTULO V
+
+### INFORMAÇÃO E PUBLICIDADE
+
+###### Artigo 28.º — Descrição das acções de informação e publicidade no programa operacional e nos relatórios anuais e finais de execução
+
+1. Para efeitos do n.º 1, alínea g) subalínea v), do artigo 20.º do regulamento de base, o programa operacional incluirá, no mínimo, os seguintes elementos:
+
+a) O teor das acções de informação e publicidade a adoptar pelos Estados-Membros ou pela autoridade de gestão destinadas aos potenciais beneficiários e beneficiários e o seu orçamento indicativo;
+
+b) O teor das acções de informação e publicidade a adoptar pelos Estados-Membros ou pela autoridade de gestão destinadas ao público e o seu orçamento indicativo;
+
+c) Os serviços ou organismos administrativos responsáveis pela execução das acções de informação e publicidade;
+
+d) Uma indicação de como devem ser avaliadas as acções de informação e publicidade em termos de visibilidade e notoriedade do programa operacional e do papel desempenhado pela Comunidade.
+
+2. O n.º 1, alíneas c) e d), do presente artigo não é aplicável aos programas operacionais referidos no artigo 2.º
+
+3. Os relatórios anuais e o relatório final de execução de um programa operacional, referidos no artigo 67.º do regulamento base, incluirão:
+
+a) As acções de informação e publicidade realizadas;
+
+b) As disposições relativas às acções de informação e publicidade referidas na alínea d) do segundo parágrafo do artigo 31.º do presente regulamento, e, se for caso disso, o endereço electrónico onde tais dados podem ser encontrados.
+
+O relatório anual de execução relativo a 2010 e o relatório final de execução referido no artigo 67.º do regulamento de base incluirão um capítulo em que serão avaliados os resultados das acções de informação e publicidade em termos de visibilidade e notoriedade do programa operacional e do papel desempenhado pela Comunidade, conforme previsto na alínea d) do n.º 1 do presente artigo.
+
+###### Artigo 29.º — Acções de informação destinadas a potenciais beneficiários
+
+1. Para efeitos do n.º 2, alínea a), do artigo 51.º do regulamento base, a autoridade de gestão assegurará a ampla divulgação do programa operacional, com pormenores sobre a participação financeira do FEP, e a sua disponibilização a todos os interessados directos. A autoridade de gestão assegurará, ainda, a mais ampla divulgação possível de informações sobre as oportunidades de financiamento proporcionadas pela intervenção conjunta da Comunidade e dos Estados-Membros no âmbito do programa operacional.
+
+2. A autoridade de gestão fornecerá aos potenciais beneficiários informações claras e pormenorizadas, que incluam, pelo menos:
+
+a) As condições de elegibilidade a satisfazer para poder beneficiar de financiamento no quadro do programa operacional;
+
+b) Uma descrição dos procedimentos de análise das candidaturas a financiamento e dos prazos envolvidos;
+
+c) Os critérios de selecção das operações a financiar;
+
+d) Os pontos de contacto a nível nacional, regional ou local onde podem ser obtidas informações sobre o programa operacional.
+
+3. A autoridade de gestão informará os potenciais beneficiários da publicação prevista na alínea d) do segundo parágrafo do artigo 31.º
+
+4. A autoridade de gestão, em conformidade com o direito e as práticas nacionais, associará às acções de informação e publicidade pelo menos um dos seguintes organismos com capacidade para divulgar amplamente as informações enumeradas no n.º 2:
+
+a) Autoridades nacionais, regionais e locais e organismos de desenvolvimento;
+
+b) Associações comerciais e profissionais;
+
+c) Parceiros económicos e sociais;
+
+d) Organizações não estatais;
+
+e) Organizações representativas de empresas;
+
+f) Centros de informação na Europa e representantes da Comissão nos Estados-Membros;
+
+g) Estabelecimentos de ensino.
+
+###### Artigo 30.º — Acções de informação destinadas aos beneficiários
+
+A autoridade de gestão informará os beneficiários de que a aceitação de um financiamento implica igualmente o consentimento de inclusão na lista de beneficiários publicada nos termos da alínea d) do segundo parágrafo do artigo 31.º
+
+###### Artigo 31.º — Responsabilidades da autoridade de gestão relativamente a acções de informação e publicidade destinadas ao público
+
+Para efeitos do n.º 2, alínea c), do artigo 51.º do regulamento de base, a autoridade de gestão garantirá que as acções de informação e publicidade destinadas ao público sejam executadas e visem a mais ampla cobertura mediática, através do recurso a várias formas e métodos de comunicação ao nível territorial adequado.
+
+A autoridade de gestão é responsável pela organização de, pelo menos, as seguintes acções de informação e publicidade:
+
+a) Uma grande acção de informação para publicitar o lançamento do programa operacional;
+
+b) No mínimo, uma grande acção de informação anual, que apresente as concretizações do programa operacional;
+
+c) Hasteamento da bandeira da União Europeia durante uma semana, com início a 9 de Maio, em frente das instalações da autoridade de gestão;
+
+d) A publicação, em formato electrónico ou outro, da lista de beneficiários, a designação das operações e os montantes dos financiamentos públicos a estas atribuídas.
+
+Os nomes dos participantes nas operações apoiadas pelo FEP que se destinem a melhorar as qualificações e formação profissionais, bem como dos beneficiários que recebam apoio pela saída antecipada do sector das pescas, incluindo através de reforma antecipada, como previsto no n.º 1, alínea d), do artigo 27.º do regulamento de base, não serão divulgados.
+
+###### Artigo 32.º — Responsabilidades dos beneficiários relativamente a acções de informação e publicidade destinadas ao público
+
+1. Para efeitos do artigo 51.º do regulamento de base, o beneficiário é responsável por informar o público, através das medidas estabelecidas nos n.^os^ 2, 3 e 4 do presente artigo, acerca da intervenção de que tenha beneficiado ao abrigo do FEP.
+
+2. Se o custo total elegível de uma operação co-financiada pelo FEP exceder 500 000 EUR e consistir no financiamento de trabalhos de infra-estrutura ou construção, o beneficiário afixará um painel no local da operação, durante a sua execução. As informações a que se refere o artigo 33.º ocuparão pelo menos 25 % da superfície do painel.
+
+Uma vez concluída a operação, o painel será substituído pela placa descritiva permanente referida no n.º 3.
+
+3. Se o custo total elegível da operação exceder 500 000 EUR e consistir na aquisição de um objecto físico ou no financiamento de trabalhos de infra-estrutura ou construção, o beneficiário afixará uma placa descritiva permanente, visível e de dimensões importantes, o mais tardar seis meses após a data de conclusão da operação.
+
+A placa ostentará o tipo e a designação da operação, para além das informações constantes do artigo 33.º As informações a que se refere o artigo 33.º ocuparão pelo menos 25 % da superfície da placa.
+
+Será também instalada uma placa explicativa nas instalações dos grupos financiados no âmbito do eixo prioritário 4 do regulamento de base.
+
+4. Nos casos pertinentes, o beneficiário garantirá que os participantes numa operação co-financiada pelo FEP sejam informados desse financiamento.
+
+O beneficiário anunciará inequivocamente que a operação a realizar foi seleccionada ao abrigo de um programa operacional co-financiado pelo FEP.
+
+Qualquer documento, designadamente qualquer certificado de participação ou outro certificado relativo a uma operação deste tipo incluirá uma declaração inequívoca segundo a qual o programa operacional foi co-financiado pelo FEP.
+
+###### Artigo 33.º — Características técnicas das acções de informação e publicidade da operação
+
+1. As acções de informação e publicidade destinadas aos beneficiários, aos potenciais beneficiários e ao público em geral incluirão, no mínimo, os seguintes elementos:
+
+a) O emblema da União Europeia, em conformidade com as regras gráficas definidas no anexo II, e a referência à União Europeia;
+
+b) Uma referência ao FEP: «Fundo Europeu das Pescas»;
+
+c) Um lema escolhido pela autoridade de gestão, evidenciando o valor acrescentado da intervenção comunitária, de preferência: «Investir numa pesca sustentável».
+
+2. As alíneas b) e c) do n.º 1 não se aplicam a pequenos objectos promocionais.
+
+## CAPÍTULO VI
+
+### INSTRUMENTOS DE ENGENHARIA FINANCEIRA
+
+###### Artigo 34.º — Disposições gerais aplicáveis a todos os instrumentos de engenharia financeira
+
+1. Em conformidade com o n.º 8 do artigo 55.º do regulamento de base, o FEP pode, no âmbito de um programa operacional, co-financiar despesas relacionadas com uma operação que inclua contribuições para dar apoio a instrumentos de engenharia financeira destinados a empresas, em especial pequenas e médias empresas (PME), incluindo microempresas, na acepção da Recomendação 2003/361/CE da Comissão [([^21])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr21-L_2007120PT.01000101-E0021), a partir de 1 de Janeiro de 2005, tais como fundos de capital de risco, fundos de garantia e fundos para empréstimos, designadamente por intermédio de fundos de participação.
+
+Os instrumentos de engenharia financeira revestirão a forma de acções que dão lugar a investimentos reembolsáveis e/ou fornecem garantias para investimentos reembolsáveis. São aplicáveis a esses instrumentos as condições estabelecidas nos artigos 35.º, 36.º e 37.º
+
+2. No que respeita aos instrumentos de engenharia financeira, a declaração de despesas incluirá as despesas totais pagas que digam respeito à constituição dos fundos ou para eles contribuam. Contudo, no momento do encerramento parcial ou final do programa operacional, as despesas elegíveis serão o total de quaisquer pagamentos para o investimento em empresas a partir de cada um dos instrumentos de engenharia financeira referidos no n.º 1 ou quaisquer garantias prestadas, incluindo montantes autorizados como garantias por fundos de garantia e custos de gestão elegíveis. A declaração de despesas correspondente deve ser rectificada em conformidade.
+
+3. Os juros gerados pelos pagamentos dos programas operacionais a instrumentos de engenharia financeira serão utilizados para financiar instrumentos de engenharia financeira para pequenas e médias empresas, incluindo microempresas, nos restantes casos.
+
+4. Os recursos restituídos à operação, provenientes de investimentos realizados por instrumentos de engenharia financeira remanescentes depois de terem sido honradas todas as garantias, serão reutilizados pelas autoridades competentes dos Estados-Membros em causa em benefício de pequenas e médias empresas, incluindo microempresas.
+
+###### Artigo 35.º — Condições aplicáveis a todos os instrumentos de engenharia financeira
+
+1. Nos casos em que o FEP financie operações que comportam instrumentos de engenharia financeira, designadamente as organizadas por intermédio de fundos de participação, será apresentado um plano de actividades pelos parceiros no co-financiamento ou pelos accionistas ou ainda pelo seu representante devidamente autorizado.
+
+O referido plano de actividades deve ser avaliado e a sua aplicação acompanhada pelo Estado-Membro ou pela autoridade de gestão, ou sob a responsabilidade de um deles. A avaliação da viabilidade económica das actividades de investimento dos instrumentos de engenharia financeira terá em conta todas as fontes de receitas das empresas em questão.
+
+2. O plano de actividades previsto no n.º 1 incluirá, no mínimo, os seguintes elementos:
+
+a) O mercado de empresas visado, bem como os critérios e condições para o seu financiamento;
+
+b) O orçamento operacional do instrumento de engenharia financeira;
+
+c) O regime de propriedade do instrumento de engenharia financeira;
+
+d) Os parceiros no co-financiamento ou os accionistas;
+
+e) Os estatutos do instrumento de engenharia financeira;
+
+f) As disposições em matéria de profissionalismo, competência e independência da gestão;
+
+g) A justificação e utilização prevista da participação do FEP;
+
+h) A política do instrumento de engenharia financeira no que respeita à saída dos investimentos em empresas; e
+
+i) As disposições em matéria de liquidação do instrumento de engenharia financeira, incluindo a reutilização de recursos restituídos ao instrumentos de engenharia financeira provenientes de investimentos ou remanescentes após terem sido honradas todas as garantias, atribuíveis à contribuição do programa operacional.
+
+3. Os instrumentos de engenharia financeira, incluindo os fundos de participação, são criados enquanto entidades jurídicas independentes, geridas por acordos entre os parceiros no co-financiamento ou os accionistas, ou enquanto financiamentos separados no seio de uma instituição financeira existente.
+
+Se for estabelecido no seio de uma instituição financeira, o instrumento de engenharia financeira é constituído como um financiamento separado, sujeito a regras de execução específicas na instituição financeira, que garantam, designadamente, uma contabilidade separada que distinga os novos recursos investidos no instrumento de engenharia financeira, incluindo os do programa operacional, dos recursos inicialmente disponíveis na instituição.
+
+A Comissão não será parceiro no co-financiamento ou accionista dos instrumentos de engenharia financeira.
+
+4. A menos que uma percentagem mais elevada se revele necessária na sequência de uma proposta competitiva, as despesas de gestão não excederão, em média anual e durante o período da intervenção, os seguintes limiares:
+
+a) 2 % do capital retirado do programa operacional para fundos de participação ou do capital retirado do programa operacional ou do fundo de participação para fundos de garantia;
+
+b) 3 % do capital retirado do programa operacional ou do fundo de participação para o instrumento de engenharia financeira em todos os outros casos, à excepção de instrumentos de microcrédito destinados a microempresas;
+
+c) 4 % do capital retirado do programa operacional ou do fundo de participação para instrumentos destinados a microempresas.
+
+5. As condições aplicáveis a contribuições do programa operacional para instrumentos de engenharia financeira serão definidas num acordo de financiamento a celebrar entre o representante devidamente mandatado do instrumento de engenharia financeira e o Estado-Membro ou a autoridade de gestão.
+
+6. O acordo de financiamento a que se refere o n.º 5 incluirá, no mínimo, os seguintes elementos:
+
+a) A estratégia e o plano de investimento;
+
+b) O acompanhamento da execução em conformidade com as regras aplicáveis;
+
+c) Uma política de desintervenção em relação ao instrumento de engenharia financeira aplicável à contribuição do programa operacional;
+
+d) As disposições em matéria de liquidação do instrumento de engenharia financeira, incluindo a reutilização de recursos restituídos ao instrumentos de engenharia financeira provenientes de investimentos ou remanescentes após terem sido honradas todas as garantias, atribuíveis à contribuição do programa operacional.
+
+7. A autoridade de gestão tomará precauções para minimizar as distorções de concorrência nos mercados de capitais de risco e de crédito. As receitas provenientes de investimentos em capital próprio e empréstimos (após dedução de uma parte *pró rata* das despesas de gestão e das medidas de incentivo ao desempenho) podem ser atribuídas preferencialmente a investidores que operem no respeito pelo princípio do investidor em economia de mercado até ao nível de remuneração fixado nos estatutos dos instrumentos de engenharia financeira, devendo ser então repartidas proporcionalmente pelos parceiros no co-financiamento ou pelos accionistas.
+
+###### Artigo 36.º — Condições específicas aplicáveis aos fundos de participação
+
+1. Sempre que o FEP financie instrumentos de engenharia financeira organizados através de fundos de participação, ou seja, fundos criados para realizar investimentos em vários fundos de capital de risco, fundos de garantia e fundos para empréstimos, o Estado-Membro ou a autoridade de gestão levará a cabo essas operações de uma ou mais das seguintes formas:
+
+a) Adjudicação de um contrato público de acordo com a lei aplicável em matéria de contratos públicos;
+
+b) Noutros casos, quando o acordo não for um contrato público para prestação de serviços na acepção da lei em matéria de contratos públicos, a concessão de uma subvenção, definida para o efeito como uma participação financeira directa por via de donativo: i) ao Banco Europeu de Investimento ou ao Fundo Europeu de Investimento, ii) à instituição financeira sem convite à apresentação de propostas, se tal for consentâneo com o direito nacional compatível com o Tratado.
+
+i) ao Banco Europeu de Investimento ou ao Fundo Europeu de Investimento,
+
+ii) à instituição financeira sem convite à apresentação de propostas, se tal for consentâneo com o direito nacional compatível com o Tratado.
+
+2. Sempre que o FEP financie instrumentos de engenharia financeira organizados através de fundos de participação, o Estado-Membro ou a autoridade de gestão celebrará um acordo de financiamento com o fundo de participação, definindo as condições e objectivos do financiamento.
+
+O acordo de financiamento terá em conta, se for caso disso, as conclusões de uma avaliação das diferenças entre a oferta desses instrumentos às PME e a sua procura pelas mesmas.
+
+3. O acordo de financiamento referido no n.º 2 deve prever, em especial, disposições sobre os seguintes elementos:
+
+a) As condições aplicáveis às contribuições do programa operacional para o fundo de participação;
+
+b) Um convite à manifestação de interesse destinado a intermediários financeiros;
+
+c) A avaliação, selecção e acreditação dos intermediários financeiros;
+
+d) A instituição e o acompanhamento de uma política de investimento, que incluirá pelo menos uma indicação das empresas visadas e dos produtos de engenharia financeira a apoiar;
+
+e) A apresentação de relatórios ao Estado-Membro ou à autoridade de gestão por parte do fundo de participação;
+
+f) O acompanhamento da aplicação dos investimentos, em conformidade com as regras aplicáveis;
+
+g) Exigências em matéria de auditoria;
+
+h) A política de desintervenção, seguida pelo fundo de participação, em relação aos fundos de capital de risco, fundos de garantia e fundos para empréstimos;
+
+i) As disposições em matéria de liquidação do fundo de participação, incluindo a reutilização de recursos restituídos ao instrumento de engenharia financeira provenientes de investimentos ou remanescentes após terem sido honradas todas as garantias, atribuíveis à contribuição do programa operacional.
+
+4. As condições aplicáveis às contribuições de fundos de participação apoiados pelo programa operacional para fundos de capital de risco, fundos de garantia e fundos para empréstimos são definidas num acordo de financiamento, a celebrar entre o fundo de capital de risco, o fundo de garantia ou o fundo para empréstimos e o fundo de participação. O acordo de financiamento incluirá, pelo menos, os elementos enumerados no n.º 6 do artigo 35.º
+
+###### Artigo 37.º — Condições especiais aplicáveis aos fundos de capital de risco, fundos de garantia e fundos para empréstimos
+
+Os instrumentos de engenharia financeira que não sejam os fundos de participação realizarão investimentos em empresas, em especial PME. Estes investimentos só podem ser realizados na empresa no momento da sua constituição, nas primeiras fases do seu funcionamento, designadamente sob a forma de capitais de lançamento, ou aquando da sua expansão e apenas em actividades que os gestores dos instrumentos de engenharia financeira considerarem potencialmente viáveis do ponto de vista económico.
+
+## CAPÍTULO VII
+
+### GESTÃO, ACOMPANHAMENTO E CONTROLO
+
+## SECÇÃO 1
+
+### Disposições gerais
+
+###### Artigo 38.º — Organismos intermédios
+
+1. Se um organismo intermédio executar uma ou mais tarefas da autoridade de gestão ou da autoridade de certificação, as disposições pertinentes serão formalmente registadas por escrito.
+
+2. O disposto no presente regulamento no que respeita à autoridade de gestão e à autoridade de certificação aplica-se ao organismo intermédio.
+
+###### Artigo 39.º — Autoridade de gestão
+
+1. Para efeitos de selecção e aprovação de operações, em conformidade com a alínea a) do artigo 59.º do regulamento de base, a autoridade de gestão garantirá que os beneficiários sejam informados das condições específicas relativas aos produtos ou serviços a fornecer no quadro da operação, ao plano de financiamento, ao prazo para a execução, bem como aos dados financeiros e a outras informações a conservar e a comunicar. Antes de dar a sua aprovação, a autoridade de gestão deve certificar-se de que o beneficiário tem capacidade de satisfazer estas obrigações.
+
+2. As verificações a realizar pela autoridade de gestão em conformidade com a alínea b) do artigo 59.º do regulamento de base incidem sobre os aspectos administrativos, financeiros, técnicos e físicos das operações, consoante o caso.
+
+As verificações certificarão a veracidade das despesas declaradas, o fornecimento dos produtos ou serviços nos termos da decisão de aprovação, a exactidão dos pedidos de reembolso pelo beneficiário e a conformidade das despesas com as regras comunitárias e nacionais. Incluirão procedimentos para evitar duplicações de financiamento de despesas com outros regimes comunitários ou nacionais e com outros períodos de programação.
+
+As verificações incluirão:
+
+a) Verificações administrativas relativamente a cada pedido de reembolso por parte dos beneficiários;
+
+b) Verificações no local de operações individuais.
+
+3. Se as verificações no local previstas na alínea b) do n.º 2 forem realizadas por amostragem relativamente a um programa operacional, a autoridade de gestão conservará registos que descrevam e justifiquem o método de amostragem e identifiquem as operações ou transacções seleccionadas para verificação.
+
+A autoridade de gestão determinará a dimensão da amostra, de forma a obter garantias razoáveis quanto à legalidade e regularidade das transacções subjacentes, tendo em conta o nível de risco que tiver identificado relativamente ao tipo de beneficiários e operações em questão.
+
+A autoridade de gestão reexaminará o método de amostragem anualmente.
+
+4. A autoridade de gestão estabelecerá, por escrito, normas e procedimentos para as verificações realizadas nos termos do n.º 2 e, relativamente a cada verificação, conservará registos dos trabalhos executados, da data e dos resultados da verificação, bem como das medidas adoptadas para corrigir irregularidades detectadas.
+
+5. Se a autoridade de gestão for igualmente um beneficiário no âmbito do programa operacional, as disposições relativas às verificações referidas nos n.^os^ 2, 3 e 4 do presente artigo garantirão uma separação adequada das funções, em conformidade com o n.º 1, alínea b) do artigo 57.º do regulamento de base.
+
+###### Artigo 40.º — Dados sobre as operações a comunicar a pedido da Comissão
+
+1. Os registos contabilísticos das operações e os dados sobre a execução referidos na alínea c) do artigo 59.º do regulamento de base incluirão as informações constantes do anexo III do presente regulamento. Estas informações serão discriminadas, se for caso disso, por idade e por sexo dos beneficiários.
+
+2. As autoridades de gestão, certificação e auditoria e os organismos referidos no n.º 3 do artigo 61.º do regulamento de base terão acesso às informações referidas no n.º 1 do presente artigo.
+
+3. Mediante pedido escrito da Comissão, o Estado-Membro fornecerá a esta instituição as informações adequadas mencionadas no n.º 1 no prazo de quinze dias úteis a contar da data de recepção do pedido, ou num qualquer outro prazo acordado, para que esta possa realizar as verificações documentais e os controlos no local. A Comissão pode exigir as informações referidas no n.º 1 ao nível das operações, das medidas, dos eixos prioritários ou do programa operacional.
+
+###### Artigo 41.º — Pista de auditoria
+
+Para efeitos da alínea f) do artigo 59.º do regulamento de base, uma pista de auditoria é considerada adequada se satisfizer os seguintes critérios:
+
+a) Permitir a conciliação entre os montantes globais certificados à Comissão e os registos contabilísticos e documentos comprovativos pormenorizados na posse da autoridade de certificação, da autoridade de gestão, dos organismos intermédios e dos beneficiários, relativamente a operações co-financiadas no âmbito do programa operacional;
+
+b) Permitir verificar a execução do pagamento da participação pública ao beneficiário;
+
+c) Permitir verificar a observância dos critérios de selecção definidos pelo comité de acompanhamento do programa operacional;
+
+d) Comportar, em relação a cada operação, e se tal se justificar, as especificações técnicas e o plano de financiamento, os documentos relativos à concessão da subvenção e aos procedimentos de adjudicação de contratos públicos, bem como os relatórios sobre os progressos obtidos na execução do programa e sobre as verificações e auditorias efectuadas.
+
+###### Artigo 42.º — Auditoria das operações
+
+1. As auditorias referidas no n.º 1, alínea b), do artigo 61.º do regulamento de base serão efectuadas cada doze meses, a partir de 1 de Julho de 2008, com base numa amostra de operações seleccionadas de acordo com um método estabelecido ou aprovado pela autoridade de auditoria, em conformidade com o artigo 43.º do presente regulamento.
+
+As auditorias serão realizadas no local, com base em documentos e registos conservados pelo beneficiário.
+
+2. As auditorias certificarão o cumprimento das seguintes condições:
+
+a) A operação satisfaz os critérios de selecção definidos para o programa operacional, foi realizada em conformidade com a decisão de aprovação e observa todas as condições aplicáveis relativamente à sua funcionalidade e utilização ou aos objectivos a concretizar;
+
+b) As despesas declaradas correspondem aos registos contabilísticos e aos documentos comprovativos conservados pelo beneficiário;
+
+c) As despesas declaradas pelo beneficiário estão em conformidade com as regras comunitárias e nacionais;
+
+d) A participação pública foi paga ao beneficiário, em conformidade com o artigo 80.º do regulamento de base.
+
+3. Se os problemas detectados tiverem um carácter sistémico e, por conseguinte, implicarem um risco para outras operações no âmbito do programa operacional, a autoridade de auditoria garantirá a realização de uma análise mais aprofundada, incluindo auditorias complementares, se necessário, por forma a determinar a envergadura desses problemas. As autoridades responsáveis tomarão as necessárias medidas preventivas e correctoras.
+
+4. Para efeitos de elaboração dos quadros que figuram no ponto 9 da parte A do anexo VI e no ponto 9 da parte A do anexo VII, apenas as despesas que são objecto da auditoria nos termos do n.º 1 são tidas em consideração no montante das despesas controladas.
+
+###### Artigo 43.º — Amostragem
+
+1. A amostra das operações a controlar em cada período de 12 meses terá por base, em primeiro lugar, um método de amostragem estatística aleatória, tal como definido nos n.^os^ 2, 3 e 4. Outras operações podem ser seleccionadas para constituir uma amostra complementar, em conformidade com os n.^os^ 5 e 6.
+
+2. O método utilizado para seleccionar a amostra e tirar conclusões dos resultados terá em conta normas de auditoria internacionalmente aceites e deve ser documentado. Atendendo ao montante das despesas, à quantidade e tipo de operações e a outros factores relevantes, a autoridade de auditoria determinará o método de amostragem estatística mais adequado. Os parâmetros técnicos da amostra serão determinados em conformidade com o anexo IV.
+
+3. A amostra a controlar cada doze meses será seleccionada a partir das operações cujas despesas tiverem sido declaradas à Comissão relativamente ao programa operacional durante o ano que precede aquele em que o relatório anual de controlo previsto no artigo 61.º, n.º 1, alínea e), subalínea i) do regulamento de base tiver sido comunicado à Comissão. Para o primeiro período de dozes meses, a autoridade de auditoria pode decidir agrupar as operações cujas despesas tiverem sido declaradas à Comissão em 2007 e 2008, enquanto base para a selecção das operações a controlar.
+
+4. A autoridade de auditoria tirará conclusões com base nos resultados das auditorias às despesas declaradas à Comissão no período referido no n.º 3 e comunicá-las-á a esta instituição no relatório anual de controlo. No que respeita aos programas operacionais relativamente aos quais a margem de erro prevista é superior ao nível de materialidade, a autoridade de auditoria analisará o seu significado e tomará as medidas necessárias, designadamente através da formulação das recomendações pertinentes, a comunicar no relatório anual de controlo.
+
+5. A autoridade de auditoria reexaminará regularmente a cobertura proporcionada pela amostra aleatória, atendendo em particular à necessidade de dispor de garantias suficientes de fiabilidade quanto às declarações a prestar no encerramento parcial e final do programa operacional. Decidirá também, com base no seu parecer profissional, se é necessário controlar uma amostra complementar de outras operações, de modo a ter em conta factores de risco específicos identificados e garantir, para o programa, uma cobertura suficiente de diferentes tipos de operações, beneficiários, organismos intermédios e eixos prioritários.
+
+6. A autoridade de auditoria tirará conclusões com base nos resultados das auditorias da amostra complementar e comunicá-las-á à Comissão no relatório anual de controlo. Sempre que o número de irregularidades detectadas seja elevado ou que estas tenham uma natureza sistémica, a autoridade de auditoria analisará o seu significado e tomará as medidas necessárias, designadamente através da formulação de recomendações, a comunicar no relatório anual de controlo. Os resultados das auditorias da amostra complementar serão analisados separadamente dos resultados relativos à amostra aleatória. Em particular, as irregularidades detectadas na amostra complementar não serão tidas em consideração para calcular a margem de erro da amostra aleatória.
+
+###### Artigo 44.º — Documentos apresentados pela autoridade de auditoria
+
+1. A estratégia de auditoria referida no n.º 1, alínea c), do artigo 61.º do regulamento de base deve ser definida de acordo com o modelo estabelecido no anexo V do presente regulamento. Será actualizada e revista anualmente e, se necessário, no decurso do ano.
+
+2. O relatório anual de controlo e o parecer referido no n.º 1, subalínea i) da alínea e), do artigo 61.º do regulamento de base basear-se-ão nas auditorias dos sistemas e das operações realizadas nos termos do n.º 1, alíneas a) e b), do artigo 61.º desse mesmo regulamento, em conformidade com a estratégia de auditoria para o programa operacional, e serão elaborados de acordo com os modelos estabelecidos no anexo VI do presente regulamento.
+
+3. A declaração de encerramento referida no n.º 1, alínea f), do artigo 61.º do regulamento de base basear-se-á nos controlos realizados pela autoridade de auditoria, ou sob a sua responsabilidade, em conformidade com a estratégia de auditoria. A declaração de encerramento e o relatório final de controlo serão elaborados de acordo com o modelo estabelecido no anexo VII do presente regulamento.
+
+4. Se o âmbito da análise for limitado ou se o nível das despesas irregulares detectadas não permitir a formulação de um parecer sem reservas, quer no âmbito do parecer anual referido no n.º 1, alínea e), do artigo 61.º do regulamento de base, quer da declaração de encerramento referida no n.º 1, alínea f), do artigo 61.º do mesmo regulamento, a autoridade de auditoria exporá as razões para tal e avaliará a dimensão do problema e respectivo impacto financeiro.
+
+5. Em caso de encerramento parcial de um programa operacional, a declaração relativa à legalidade e regularidade das transacções abrangidas pela declaração de despesas referida no artigo 85.º do regulamento de base será elaborada pela autoridade de auditoria, de acordo com o modelo estabelecido no anexo VIII do presente regulamento, e apresentada juntamente com o parecer mencionado no n.º 1, subalínea iii) da alínea e), do artigo 61.º do regulamento de base.
+
+###### Artigo 45.º — Disponibilização de documentos
+
+1. Para efeitos do artigo 87.º do regulamento de base, a autoridade de gestão garantirá que esteja disponível um registo da identidade e localização dos organismos na posse dos documentos comprovativos das despesas e das auditorias, incluindo todos os documentos exigidos para uma pista de auditoria adequada.
+
+2. A autoridade de gestão assegurará que os documentos referidos no n.º 1 do presente artigo são disponibilizados para inspecção às pessoas e aos organismos competentes, incluindo, pelo menos, o pessoal autorizado da autoridade de gestão, certificação e auditoria, dos organismos intermédios, da autoridade de auditoria e dos organismos mencionados no n.º 3 do artigo 61.º do regulamento de base, bem como funcionários habilitados da União Europeia e respectivos representantes autorizados; a autoridade de gestão garantirá igualmente que lhes sejam fornecidos extractos ou cópias desses documentos.
+
+3. A autoridade de gestão conservará as informações necessárias para efeitos de avaliação e apresentação de relatórios, designadamente os dados referidos no artigo 40.º, relativamente às operações mencionadas no n.º 2 do artigo 87.º do regulamento de base, durante todo o período indicado na alínea a) do n.º 1 do mesmo artigo.
+
+4. São considerados suportes de dados comummente aceites, nos termos do artigo 87.º do regulamento de base, no mínimo:
+
+a) As fotocópias de documentos originais;
+
+b) As microfichas de documentos originais;
+
+c) As versões electrónicas de documentos originais;
+
+d) Os documentos existentes apenas em versão electrónica.
+
+5. O procedimento de certificação da conformidade com o documento original de documentos conservados em suportes de dados comummente aceites será definido pelas autoridades nacionais e assegurará que as versões conservadas satisfazem os requisitos legais nacionais e são válidas para efeitos de auditoria.
+
+6. Se os documentos existirem apenas em versão electrónica, o sistema informático utilizado deve estar em conformidade com as normas de segurança aceites, que asseguram que os documentos conservados satisfazem os requisitos legais nacionais e são válidos para efeitos de auditoria.
+
+###### Artigo 46.º — Documentos apresentados pela autoridade de certificação
+
+1. As declarações de despesas certificadas e os pedidos de pagamento referidos na alínea a) do artigo 60.º do regulamento de base serão elaborados de acordo com o modelo estabelecido no anexo IX do presente regulamento e transmitidos à Comissão.
+
+2. A partir de 2008, e até 31 de Março de cada ano, a autoridade de certificação apresentará à Comissão uma declaração, segundo o formato estabelecido no anexo X, identificando, para cada um dos eixos prioritários do programa operacional:
+
+a) Os montantes retirados das declarações de despesas apresentadas no ano anterior na sequência de revogação de parte ou da totalidade da participação pública destinada a uma determinada operação;
+
+b) Os montantes recuperados que tiverem sido deduzidos dessas declarações de despesas;
+
+c) Os montantes a recuperar até 31 de Dezembro do ano anterior, classificados por ano de emissão da ordem de recuperação.
+
+3. A fim de proceder ao encerramento parcial de um programa operacional, a autoridade de certificação apresentará à Comissão a declaração de despesas referida no artigo 85.º do regulamento de base, da acordo com o formato estabelecido no anexo XI do presente regulamento.
+
+###### Artigo 47.º — Descrição dos sistemas de gestão e controlo
+
+A descrição dos sistemas de gestão e controlo do programa operacional a que se refere o n.º 1 do artigo 71.º do regulamento de base comportará informações sobre os pontos mencionados no artigo 57.º desse mesmo regulamento, bem como as informações especificadas nos artigos 48.º e 49.º do presente regulamento.
+
+Essas informações serão apresentadas de acordo com o modelo estabelecido na parte A do anexo XII do presente regulamento.
+
+###### Artigo 48.º — Informações relativas à autoridade de gestão, à autoridade de certificação e aos organismos intermédios
+
+No que respeita à autoridade de gestão, à autoridade de certificação e a cada organismo intermédio, o Estado-Membro fornecerá à Comissão as seguintes informações:
+
+a) Descrição das tarefas que lhes são confiadas;
+
+b) Organigrama de cada um deles, descrição da repartição das tarefas pelos diferentes serviços ou no seio de cada um destes e número indicativo dos postos atribuídos;
+
+c) Procedimentos de selecção e aprovação das operações;
+
+d) Procedimentos relativos à recepção, verificação e validação dos pedidos de reembolso apresentados pelos beneficiários e, em particular, as regras e os procedimentos estabelecidos para efeitos de verificação no artigo 39.º, bem como os procedimentos referentes à autorização, execução e contabilização dos pagamentos aos beneficiários;
+
+e) Procedimentos relativos à elaboração, certificação e apresentação à Comissão das declarações de despesas;
+
+f) Referência aos procedimentos escritos estabelecidos para fins dos procedimentos referidos nas alíneas c), d) e e);
+
+g) Regras de elegibilidade estabelecidas pelo Estado-Membro e aplicáveis ao programa operacional;
+
+h) Sistema aplicado para a conservação dos registos contabilísticos das operações e dados sobre a execução a que se refere o n.º 1 do artigo 40.º do presente regulamento, no quadro do programa operacional.
+
+###### Artigo 49.º — Informações relativas à autoridade de auditoria e aos organismos referidos no n.º 3 do artigo 61.º do regulamento de base
+
+No que respeita à autoridade de auditoria e aos organismos referidos no n.º 3 do artigo 61.º do regulamento de base, o Estado-Membro fornecerá à Comissão as seguintes informações:
+
+a) Descrição das respectivas tarefas e suas interacções;
+
+b) Organigrama da autoridade de auditoria e de cada um dos organismos envolvidos na elaboração de auditorias relativas ao programa operacional, descrevendo de que forma é assegurada a sua interdependência, o número indicativo de postos atribuídos e as qualificações e experiência exigidas;
+
+c) Procedimentos utilizados para acompanhar a aplicação de recomendações e de medidas correctivas resultantes dos relatórios de auditoria;
+
+d) Procedimentos usados, se for caso disso, pela autoridade de auditoria para fiscalizar os trabalhos dos organismos envolvidos na realização de auditorias relativas ao programa operacional;
+
+e) Procedimentos de preparação do relatório anual de controlo e da declaração de encerramento.
+
+###### Artigo 50.º — Avaliação dos sistemas de gestão e controlo
+
+1. O relatório referido no n.º 2 do artigo 71.º do regulamento de base assentará numa análise da descrição dos sistemas, dos documentos pertinentes relativos a estes sistemas e do sistema de conservação dos registos contabilísticos e dos dados sobre a execução das operações, bem como em entrevistas com o pessoal dos principais organismos considerados importantes pela autoridade de auditoria ou qualquer outro organismo responsável pela elaboração do relatório, a fim de completar, clarificar ou verificar as informações.
+
+2. O parecer quanto à conformidade dos sistemas referidos no n.º 2 do artigo 71.º do regulamento de base será elaborado de acordo com o modelo estabelecido na parte B do anexo XII do presente regulamento.
+
+3. Se o sistema de gestão e controlo for, no essencial, idêntico ao utilizado no caso de intervenções aprovadas no quadro do Regulamento (CE) n.º 1083/2006 do Conselho [([^22])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr22-L_2007120PT.01000101-E0022), podem ser tidos em consideração os resultados de auditorias a esse sistema realizadas por auditores nacionais e comunitários para fins de elaboração do relatório e do parecer referidos no n.º 2 do artigo 71.º do regulamento de base.
+
+## SECÇÃO 2
+
+### Derrogações no respeitante ao controlo dos programas operacionais referidos no artigo 2.º
+
+###### Artigo 51.º — Derrogações gerais
+
+1. No respeitante aos programas operacionais referidos no artigo 2.º do presente regulamento, a autoridade de auditoria não é obrigada a apresentar à Comissão uma estratégia de auditoria em conformidade com o n.º 1, alínea c), do artigo 61.º do regulamento de base.
+
+2. No respeitante aos programas operacionais referidos no artigo 2.º do presente regulamento, se a conformidade do sistema com o n.º 2 do artigo 71.º do regulamento de base for objecto de um parecer sem reservas, ou se as reservas forem retiradas na sequência de medidas correctivas, a Comissão pode concluir que:
+
+a) Se pode basear essencialmente no parecer referido no n.º 1, subalínea ii) da alínea e), do artigo 61.º quanto ao bom funcionamento dos sistemas;
+
+b) Apenas efectuará auditorias no local se existirem dados que indiquem deficiências do sistema que afectem as despesas certificadas à Comissão durante um ano e em relação às quais tenha sido emitido, nos termos do n.º 1, subalínea ii) da alínea e), do artigo 61.º do regulamento de base, um parecer sem reservas respeitantes a essas deficiências.
+
+3. Sempre que chegue à conclusão referida no n.º 2 do presente artigo, a Comissão informará do facto o Estado-Membro em causa.
+
+Quando haja dados que indiquem deficiências, a Comissão pode também solicitar ao Estado-Membro a realização de auditorias em conformidade com o n.º 3 do artigo 72.º do regulamento de base ou pode realizar as suas próprias auditorias nos termos do n.º 2 do artigo 72.º do referido regulamento.
+
+###### Artigo 52.º — Estabelecimento de organismos e procedimentos no quadro do direito nacional
+
+1. Para os programas operacionais referidos no artigo 2.º, o Estado-Membro para além das derrogações gerais previstas no artigo 51.º, pode ainda optar por estabelecer, em conformidade com as normas nacionais, os organismos e procedimentos necessários ao desempenho:
+
+a) Das funções da autoridade de gestão no tocante à verificação dos produtos e serviços co-financiados e das despesas declaradas nos termos da alínea b) do artigo 59.º do regulamento de base;
+
+b) Das funções da autoridade de certificação previstas no artigo 60.º do regulamento de base;
+
+c) Das funções da autoridade de auditoria previstas no artigo 61.º do regulamento de base.
+
+2. Sempre que optem pela possibilidade referida no n.º 1, os Estados-Membros não têm de designar uma autoridade de certificação nem uma autoridade de auditoria nos termos do n.º 1, alíneas b) e c), do artigo 58.º do regulamento de base.
+
+3. Sempre que um Estado-Membro opte pela possibilidade referida no n.º 1 do presente artigo, as disposições do artigo 71.º do regulamento de base são aplicáveis *mutatis mutandis*.
+
+###### Artigo 53.º — Disposições específicas relativas aos organismos e procedimentos estabelecidos no quadro do direito nacional
+
+1. No respeitante aos programas operacionais relativamente aos quais um Estado-Membro opte pela possibilidade prevista no n.º 1 do artigo 52.º, são aplicáveis as disposições estabelecidas no presente artigo.
+
+2. As verificações mencionadas no n.º 2 do artigo 39.º serão realizadas pelos organismos nacionais referidos no n.º 1 do artigo 52.º
+
+3. As auditorias das operações referidas no n.º 1, alínea b), do artigo 61.º do regulamento de base serão realizadas em conformidade com os procedimentos nacionais, não se aplicando as disposições dos artigos 42.º e 43.º do presente regulamento.
+
+4. O disposto nos n.^os^ 2 a 5 do artigo 44.º aplica-se, *mutatis mutandis*, à preparação dos documentos emitidos pelos organismos nacionais referidos no n.º 1 do artigo 52.º
+
+O relatório anual de controlo e o parecer anual serão elaborados de acordo com os modelos estabelecidos do anexo VI.
+
+5. As obrigações estabelecidas no n.º 2 do artigo 46.º serão assumidas pelos organismos nacionais referidos no n.º 1 do artigo 52.º
+
+A declaração de despesas será elaborada de acordo com os modelos constantes dos anexos IX e XI.
+
+6. As informações a figurar na descrição dos sistemas de gestão e controlo mencionadas nos artigos 47.º, 48.º e 49.º incluirão, se for caso disso, dados sobre os organismos nacionais referidos no n.º 1 do artigo 52.º
+
+## CAPÍTULO VIII
+
+### IRREGULARIDADES E DELITOS
+
+###### Artigo 54.º — Definições
+
+Para efeitos do presente capítulo, entende-se por:
+
+a) «Operador económico», qualquer pessoa singular ou colectiva, bem como outras entidades que participem na realização da intervenção do FEP, com excepção dos Estados-Membros no exercício de poderes de carácter público;
+
+b) «Primeiro auto administrativo ou judicial», uma primeira apreciação escrita de uma autoridade competente, quer administrativa, quer judicial, que conclua, com base em factos concretos, da existência de uma irregularidade, ou de um delito sem prejuízo da possibilidade de tal conclusão vir a ser revista ou retirada posteriormente na sequência do desenrolar do procedimento administrativo ou do processo judicial;
+
+c) «Suspeita de fraude», uma irregularidade que dá lugar ao início de um procedimento administrativo ou de um processo judicial a nível nacional, a fim de determinar a existência de um delito, nomeadamente, de uma fraude, nos termos do n.º 1, alínea a), do artigo 1.º da Convenção, estabelecida com base no artigo K.3 do Tratado da União Europeia, relativa à protecção dos interesses financeiros das Comunidades Europeias [([^23])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr23-L_2007120PT.01000101-E0023);
+
+d) «Falência», processos de insolvência na acepção da alínea a) do artigo 2.º do Regulamento (CE) n.º 1346/2000 do Conselho [([^24])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr24-L_2007120PT.01000101-E0024).
+
+###### Artigo 55.º — Comunicação inicial - derrogações
+
+1. Sem prejuízo dos deveres previstos no artigo 70.º do regulamento de base, nos dois meses seguintes ao termo de cada trimestre, os Estados-Membros comunicarão à Comissão eventuais irregularidades e delitos que tenham sido objecto de um primeiro auto administrativo ou judicial.
+
+Nessa comunicação, fornecerão, relativamente a todos os casos, informações pormenorizadas sobre os seguintes elementos:
+
+a) FEP, objectivo, programa operacional, eixo prioritário e operação em causa e número de CCI (Código Comum de Identificação);
+
+b) Disposição que foi transgredida;
+
+c) Data e fonte da primeira informação que permitiu suspeitar da existência de uma irregularidade ou de um delito;
+
+d) Práticas utilizadas para cometer a irregularidade;
+
+e) Se for caso disso, se essa prática indicia uma suspeita de fraude;
+
+f) Como foi descoberta a irregularidade ou o delito;
+
+g) Se for caso disso, os Estados-Membros e países terceiros em causa;
+
+h) Período durante o qual ou momento em que a irregularidade ou o delito foram cometidos;
+
+i) Serviços ou organismos nacionais que elaboraram o relatório oficial sobre a irregularidade ou o delito e autoridades responsáveis pelo seguimento administrativo ou judicial;
+
+j) Data do primeiro auto administrativo ou judicial da irregularidade ou o delito;
+
+k) Identificação das pessoas singulares ou colectivas implicadas ou de outras entidades que participem, excepto no caso de esta indicação não ser útil no âmbito da luta contra as irregularidades e delitos devido à natureza da irregularidade ou do delito em causa;
+
+l) Orçamento total e participação pública aprovados para a operação em causa e repartição do seu co-financiamento entre participação comunitária e nacional;
+
+m) Montante da participação pública a que a irregularidade diz respeito e correspondente participação comunitária em risco;
+
+n) Sempre que não tiver sido efectuado qualquer pagamento da participação pública às pessoas ou outras entidades identificadas na alínea k), montantes que teriam sido indevidamente pagos se a irregularidade ou o delito não tivessem sido identificados;
+
+o) Eventual suspensão de pagamentos e possibilidades de recuperação;
+
+p) Natureza da despesa irregular.
+
+2. Em derrogação do n.º 1, não é necessário comunicar os seguintes casos:
+
+a) Casos em que a irregularidade consiste unicamente na não execução, parcial ou total, de uma operação incluída no programa operacional co-financiado devido a falência do beneficiário;
+
+b) Casos assinalados à autoridade de gestão ou de certificação pelo beneficiário, voluntariamente e antes da sua descoberta por uma destas autoridades, tanto antes como após o pagamento da participação pública;
+
+c) Casos detectados e corrigidos pela autoridade de gestão ou certificação antes de qualquer pagamento ao beneficiário da participação pública e antes da inclusão da despesa em questão numa declaração de despesas apresentada à Comissão.
+
+No entanto, devem ser comunicadas as irregularidades que precedem uma falência e qualquer suspeita de fraude.
+
+3. No caso de não estarem disponíveis algumas das informações mencionadas no n.º 1, nomeadamente as relativas às práticas utilizadas para cometer a irregularidade ou o delito e à forma como esta foi descoberta, os Estados-Membros fornecê-las-ão, na medida do possível, aquando da transmissão à Comissão dos relatórios trimestrais subsequentes.
+
+4. Se as disposições nacionais determinarem a confidencialidade das investigações, a comunicação das referidas informações será sujeita à autorização do tribunal competente.
+
+5. Nos casos em que não tenham irregularidades ou delitos a comunicar nos termos do n.º 1, os Estados-Membros informarão do facto a Comissão no prazo fixado nesse mesmo número.
+
+###### Artigo 56.º — Casos urgentes
+
+Cada Estado-Membro comunicará imediatamente à Comissão e, se for o caso, aos outros Estados-Membros interessados, eventuais irregularidades ou delitos detectados ou suspeitos, sempre que se recear que:
+
+a) Tais irregularidades ou delitos possam rapidamente ter repercussões fora do seu território; ou
+
+b) Tais irregularidades ou delitos revelem o recurso a uma nova prática irregular.
+
+###### Artigo 57.º — Comunicação das acções de acompanhamento – não recuperação
+
+1. Nos dois meses seguintes ao final de cada trimestre, os Estados-Membros informarão a Comissão, fazendo referência a qualquer comunicação anterior feita em conformidade com o artigo 55.º, dos procedimentos e processos em curso relativamente a todas as irregularidades e delitos anteriormente notificados, bem como de importantes alterações daí resultantes.
+
+Essas informações incluirão, no mínimo, os seguintes elementos:
+
+a) Os montantes das recuperações efectuadas ou esperadas;
+
+b) As providências cautelares adoptadas pelos Estados-Membros para salvaguardar a recuperação dos montantes pagos indevidamente;
+
+c) Quaisquer procedimentos administrativos e processos judiciais em curso com vista à recuperação dos montantes indevidamente pagos e à aplicação de sanções;
+
+d) As razões do eventual abandono de processos de recuperação;
+
+e) A eventual extinção de acções penais.
+
+Os Estados-Membros comunicarão à Comissão as decisões administrativas ou judiciais, ou os seus elementos essenciais, relativas à conclusão de tais procedimentos e processos e indicarão, em especial, se os elementos verificados revelam ou não uma suspeita de fraude. No caso referido na alínea d), os Estados-Membros notificarão, na medida do possível, a Comissão antes de tomarem uma decisão.
+
+2. Sempre que considerem que não se pode efectuar ou esperar a recuperação de um montante, os Estados-Membros informarão a Comissão, em comunicação especial, do montante não recuperado e dos factos que permitem determinar a imputação da perda, em conformidade com o n.º 2 do artigo 70.º do regulamento de base.
+
+Essas informações devem ser suficientemente pormenorizadas para permitir à Comissão tomar uma decisão o mais rapidamente possível, após consulta das autoridades dos Estados-Membros em questão.
+
+As informações incluirão, no mínimo, os seguintes elementos:
+
+a) Uma cópia da decisão de concessão;
+
+b) A data do último pagamento ao beneficiário;
+
+c) Uma cópia da ordem de recuperação;
+
+d) No caso de falências a comunicar nos termos do n.º 2 do artigo 55.º, uma cópia do documento comprovativo da insolvência do beneficiário;
+
+e) Uma descrição sucinta das medidas tomadas pelo Estado-Membro para recuperar o montante em questão, bem como as respectivas datas.
+
+3. Nos casos referidos no n.º 2, a Comissão pode solicitar expressamente ao Estado-Membro que prossiga o procedimento ou o processo de recuperação.
+
+###### Artigo 58.º — Transmissão electrónica
+
+As informações a que se referem nos artigos 55.º e 56.º e no n.º 1 do artigo 57.º serão transmitidas, na medida do possível, por via electrónica, mediante utilização do módulo fornecido para o efeito pela Comissão, através de uma ligação protegida.
+
+###### Artigo 59.º — Reembolso das despesas judiciais
+
+No caso de as autoridades competentes de um Estado-Membro, a pedido expresso da Comissão, decidirem intentar ou prosseguir uma acção judicial destinada a recuperar os montantes pagos indevidamente, a Comissão pode reembolsar inteira ou parcialmente ao Estado-Membro todas ou parte das custas judiciais e outras despesas directamente relacionadas com essa acção, mediante a apresentação de documentos comprovativos, mesmo no caso de a acção não proceder.
+
+###### Artigo 60.º — Contactos com os Estados-Membros
+
+1. A Comissão manterá com os Estados-Membros interessados os contactos adequados para completar as informações fornecidas sobre as irregularidades e delitos referidos no artigo 55.º, sobre os procedimentos e processos previstos no artigo 57.º e, especialmente, sobre as possibilidades de recuperação.
+
+2. Independentemente dos contactos referidos no n.º 1, a Comissão informará os Estados-Membros sempre que a natureza da irregularidade ou do delito seja de molde a sugerir que práticas idênticas ou similares podem ocorrer em outros Estados-Membros.
+
+3. A Comissão organizará reuniões de informação a nível comunitário destinadas a representantes dos Estados-Membros, a fim de com eles analisar as informações obtidas nos termos dos artigos 55.º, 56.º e 57.º e do n.º 1 do presente artigo. Essa análise incidirá nas ilações a retirar das informações relativas às irregularidades e delitos, às medidas preventivas e aos processos judiciais.
+
+4. Se a aplicação de disposições em vigor revelar uma lacuna prejudicial aos interesses da Comunidade, os Estados-Membros e a Comissão concertar-se-ão, a pedido de um Estado-Membro ou da Comissão, para corrigir a situação.
+
+###### Artigo 61.º — Utilização das informações
+
+A Comissão pode utilizar todas as informações de carácter geral ou operacional comunicadas pelos Estados-Membros nos termos do presente regulamento para efectuar análises de riscos e elaborar, com base nas informações obtidas, relatórios e dispositivos de alerta para identificar com maior eficácia os riscos.
+
+###### Artigo 62.º — Disponibilização de informações aos Comités
+
+A Comissão informará regularmente os Estados-Membros, no quadro do comité consultivo de coordenação da luta contra a fraude, criado pela Decisão 94/140/CE da Comissão [([^25])](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntr25-L_2007120PT.01000101-E0025), da ordem de grandeza das importâncias referentes às irregularidades e delitos descobertos e das suas diversas categorias, repartidas por tipo e número. O comité referido no artigo 101.º do regulamento de base será também informado.
+
+###### Artigo 63.º — Irregularidades e delitos inferiores ao limiar de comunicação
+
+1. No caso de as irregularidades incidirem sobre montantes inferiores a 10 000 EUR a cargo do orçamento geral das Comunidades Europeias, os Estados-Membros só transmitirão à Comissão as informações previstas nos artigos 55.º e 57.º se esta instituição as solicitar expressamente.
+
+No entanto, em conformidade com a alínea f) do artigo 60.º do regulamento de base, os Estados-Membros manterão a contabilidade dos montantes inferiores a esse limiar que podem ser recuperados e dos montantes recuperados ou retirados na sequência da revogação da participação numa operação e restituirão os montantes recuperados ao orçamento geral das Comunidades Europeias.
+
+Sem prejuízo dos deveres decorrentes directamente do n.º 1, alínea b), do artigo 70.º do regulamento de base, o Estado-Membro e a Comunidade partilharão as perdas resultantes dos montantes inferiores a esse limiar que não possam ser recuperados, à taxa de co-financiamento aplicável à operação em causa. O procedimento previsto no n.º 2 do artigo 57.º do presente regulamento não se aplica, excepto se a Comissão decidir em contrário.
+
+O disposto no terceiro parágrafo aplica-se igualmente a casos de falência que não são objecto do dever de comunicação nos termos do n.º 1 do artigo 55.º
+
+2. Os Estados-Membros que não tiverem adoptado o euro como sua moeda na data da verificação da irregularidade ou do delito devem converter em euros o montante das despesas pagas na sua moeda nacional, em conformidade com o artigo 95.º do regulamento de base. Nos casos em que as despesas não tenham sido registadas nas contas da autoridade de certificação, recorrer-se-á à taxa de câmbio contabilística mais recente publicada em formato electrónico pela Comissão.
+
+## CAPÍTULO IX
+
+### INTERCÂMBIO ELECTRÓNICO DE DADOS
+
+###### Artigo 64.º — Sistema informático para o intercâmbio de dados
+
+Para efeitos dos artigos 65.º e 75.º do regulamento de base, é criado um sistema informático para o intercâmbio de todos os dados referentes ao programa operacional.
+
+O intercâmbio de dados entre cada Estado-Membro e a Comissão será efectuado através de um sistema informático criado por esta última, que permita o intercâmbio seguro de dados entre a Comissão e cada Estado-Membro.
+
+Os Estados-Membros serão associados à optimização do sistema informático para o intercâmbio de dados.
+
+###### Artigo 65.º — Conteúdo do sistema informático para o intercâmbio de dados
+
+1. O sistema informático para o intercâmbio de dados conterá informações de interesse comum à Comissão e aos Estados-Membros e, pelo menos, os seguintes dados necessários para as transacções financeiras:
+
+a) O plano de financiamento dos programas operacionais, de acordo com o modelo estabelecido na parte B do anexo I;
+
+b) As declarações de despesas e pedidos de pagamento, de acordo com o modelo estabelecido no anexo IX;
+
+c) A declaração anual relativa aos montantes retirados e recuperados e às recuperações pendentes, de acordo com o modelo estabelecido no anexo X;
+
+d) As previsões anuais de pedidos de pagamentos esperados, de acordo com o modelo estabelecido no anexo XIII;
+
+e) A secção financeira dos relatórios anuais e finais sobre a execução, de acordo com o modelo estabelecido no ponto 3.3 do anexo XIV.
+
+2. Para além do disposto no n.º 1, o sistema informático para o intercâmbio de dados conterá também, no mínimo, os seguintes documentos e dados de interesse comum que permitem a realização de um acompanhamento:
+
+a) O plano estratégico nacional referido no artigo 15.º do regulamento de base;
+
+b) O programa operacional, incluindo todas as suas revisões, de acordo com o modelo estabelecido na parte A do anexo I;
+
+c) A decisão da Comissão relativa à participação do FEP;
+
+d) Os relatórios anuais e final de execução, de acordo com o modelo estabelecido no anexo XIV;
+
+e) A estratégia de auditoria, de acordo com o modelo estabelecido no anexo V;
+
+f) A descrição do sistema de gestão e controlo, de acordo com o modelo estabelecido na parte A do anexo XII;
+
+g) Os relatórios e pareceres sobre as auditorias, de acordo com os modelos estabelecidos nos anexos VI, VII e VIII e na parte B do anexo XII e a correspondência entre a Comissão e cada Estado-Membro;
+
+h) As declaração de despesas relativas ao encerramento parcial, de acordo com o modelo estabelecido no anexo XI;
+
+i) A declaração anual relativa aos montantes retirados e recuperados e às recuperações pendentes, de acordo com o modelo estabelecido no anexo X.
+
+3. Os dados referidos nos n.^os^ 1 e 2 serão transmitidos, se for caso disso, nos formatos constantes dos anexos.
+
+###### Artigo 66.º — Funcionamento do sistema informático para o intercâmbio de dados
+
+1. A Comissão e as autoridades designadas pelos Estados-Membros em aplicação do regulamento de base, bem como os organismos aos quais essa tarefa tiver sido delegada, registarão e actualizarão no sistema informático para o intercâmbio de dados os documentos pelos quais são responsáveis, no formato exigido.
+
+2. Os Estados-Membros centralizarão e apresentarão à Comissão os pedidos de direitos de acesso ao sistema informático para o intercâmbio de dados.
+
+3. Os intercâmbios de dados e as transacções serão acompanhados de uma assinatura electrónica nos termos do ponto 1 do artigo 2.º da Directiva 1999/93/CE. Os Estados-Membros e a Comissão reconhecerão a eficácia jurídica e a admissibilidade da assinatura electrónica usada no sistema informático para o intercâmbio de dados como meio de prova em processos judiciais.
+
+4. Os custos de desenvolvimento do sistema informático serão financiados pelo orçamento geral das Comunidades Europeias, ao abrigo do n.º 1 do artigo 46.º do regulamento de base. Os custos eventuais de uma interface entre o sistema informático comum para o intercâmbio de dados e os sistemas informáticos nacionais, regionais e locais, bem como quaisquer custos decorrentes da adaptação dos sistemas nacionais, regionais e locais aos requisitos do regulamento de base, são elegíveis ao abrigo do n.º 2 do artigo 46.º desse mesmo regulamento.
+
+###### Artigo 67.º — Transmissão de dados através do sistema informático para o intercâmbio de dados
+
+1. O sistema informático para o intercâmbio de dados será acessível aos Estados-Membros e à Comissão, quer directamente, quer através de uma interface de sincronização automática e registo de dados com os sistemas informáticos de gestão nacionais, regionais e locais.
+
+2. A data tida em consideração para a transmissão de documentos à Comissão é a data em que o Estado-Membro regista os documentos no sistema informático para o intercâmbio de dados.
+
+3. Em casos de força maior, designadamente de mau funcionamento do sistema informático para o intercâmbio de dados ou de ausência de uma ligação estável, o Estado-Membro em causa pode enviar à Comissão um exemplar em suporte papel dos documentos exigidos pelo regulamento de base, usando os formatos constantes dos Anexos I e dos Anexos V a XIV do presente regulamento. Logo que os motivos de força maior deixarem de existir, o Estado-Membro registará os documentos correspondentes no sistema informático para o intercâmbio de dados. Em derrogação do n.º 2, a data a ter em consideração para a transmissão é considerada como sendo a data de envio dos documentos em suporte papel.
+
+## CAPÍTULO X
+
+### DADOS PESSOAIS
+
+###### Artigo 68.º — Protecção dos dados pessoais
+
+1. Os Estados-Membros e a Comissão tomarão as medidas necessárias para prevenir qualquer divulgação ou disponibilização não autorizada das informações referidas no n.º 1 do artigo 40.º, das informações recolhidas pela Comissão no decurso das auditorias por ela realizadas e das informações mencionadas no capítulo VIII.
+
+2. As informações referidas n.º 1 do artigo 40.º do presente regulamento, juntamente com as informações recolhidas pela Comissão no decurso das auditorias por ela realizadas, serão usadas pela Comissão com a finalidade única de dar cumprimento às responsabilidades que lhe incumbem por força do artigo 72.º do regulamento de base.
+
+O Tribunal de Contas Europeu e o Organismo Europeu de Luta Antifraude (OLAF) têm acesso a essas informações.
+
+3. As informações referidas no capítulo VIII não serão transmitidas a outras pessoas que não as que, pela natureza das suas funções, devam conhecê-las, nos Estados-Membros ou nas instituições comunitárias, a menos que o Estado-Membro que as comunicar tenha expressamente consentido essa transmissão.
+
+4. Os dados pessoais contidos nas informações a que se refere a alínea d), do segundo parágrafo do artigo 31.º do presente regulamento serão tratados unicamente para os fins mencionados nesse artigo.
+
+## CAPÍTULO XI
+
+### DISPOSIÇÕES FINAIS
+
+###### Artigo 69.º — Revogação
+
+São revogados os Regulamentos (CE) n.º 2722/2000, (CE) n.º 908/2000 e (CE) n.º 366/2001. As remissões para os regulamentos revogados devem entender-se como sendo feitas para o presente regulamento.
+
+As disposições dos regulamentos revogados continuam a aplicar-se às intervenções aprovadas no quadro do Regulamento (CE) n.º 2792/1999.
+
+###### Artigo 70.º — Entrada em vigor
+
+O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 26 de Março de 2007.
+
+***Pela Comissão***
+
+**Joe BORG**
+
+***Membro da Comissão***
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc1-L_2007120PT.01000101-E0001) [JO L 223 de 15.8.2006, p. 1](http://publications.europa.eu/resource/oj/JOL_2006_223_R_TOC).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc2-L_2007120PT.01000101-E0002) [JO L 161 de 26.6.1999, p. 54](http://publications.europa.eu/resource/oj/JOL_1999_161_R_TOC).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc3-L_2007120PT.01000101-E0003) [JO L 337 de 30.12.1999, p. 10](http://publications.europa.eu/resource/oj/JOL_1999_337_R_TOC). Regulamento com a última redacção que lhe foi dada pelo Regulamento (CE) n.º 485/2005 ([JO L 81 de 30.3.2005, p. 1](http://publications.europa.eu/resource/oj/JOL_2005_081_R_TOC)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc4-L_2007120PT.01000101-E0004) [JO L 328 de 24.11.2006, p. 14](http://publications.europa.eu/resource/oj/JOL_2006_328_R_TOC).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc5-L_2007120PT.01000101-E0005) [JO L 178 de 12.7.1994, p. 43](http://publications.europa.eu/resource/oj/JOL_1994_178_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 2035/2005 ([JO L 328 de 15.12.2005, p. 8](http://publications.europa.eu/resource/oj/JOL_2005_328_R_TOC)).
+
+> [(^6^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc6-L_2007120PT.01000101-E0006) [JO L 13 de 19.1.2000, p. 12](http://publications.europa.eu/resource/oj/JOL_2000_013_R_TOC).
+
+> [(^7^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc7-L_2007120PT.01000101-E0007) [JO L 281 de 23.11.1995, p. 31](http://publications.europa.eu/resource/oj/JOL_1995_281_R_TOC). Directiva alterada pelo Regulamento (CE) n.º 1882/2003 ([JO L 284 de 31.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_284_R_TOC)).
+
+> [(^8^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc8-L_2007120PT.01000101-E0008) [JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC).
+
+> [(^9^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc9-L_2007120PT.01000101-E0009) [JO L 314 de 14.12.2000, p. 10](http://publications.europa.eu/resource/oj/JOL_2000_314_R_TOC).
+
+> [(^10^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc10-L_2007120PT.01000101-E0010) [JO L 105 de 3.5.2000, p. 15](http://publications.europa.eu/resource/oj/JOL_2000_105_R_TOC). Regulamento alterado pelo Regulamento (CE) n.º 2438/2000 ([JO L 280 de 4.11.2000, p. 37](http://publications.europa.eu/resource/oj/JOL_2000_280_R_TOC)).
+
+> [(^11^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc11-L_2007120PT.01000101-E0011) [JO L 55 de 24.2.2001, p. 3](http://publications.europa.eu/resource/oj/JOL_2001_055_R_TOC).
+
+> [(^12^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc12-L_2007120PT.01000101-E0012) [JO L 222 de 17.8.2001, p. 53](http://publications.europa.eu/resource/oj/JOL_2001_222_R_TOC).
+
+> [(^13^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc13-L_2007120PT.01000101-E0013) [JO L 103 de 25.4.1979, p. 1](http://publications.europa.eu/resource/oj/JOL_1979_103_R_TOC).
+
+> [(^14^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc14-L_2007120PT.01000101-E0014) [JO L 206 de 22.7.1992, p. 7](http://publications.europa.eu/resource/oj/JOL_1992_206_R_TOC).
+
+> [(^15^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc15-L_2007120PT.01000101-E0015) [JO L 175 de 5.7.1985, p. 40](http://publications.europa.eu/resource/oj/JOL_1985_175_R_TOC).
+
+> [(^16^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc16-L_2007120PT.01000101-E0016) [JO L 358 de 31.12.2002, p. 59](http://publications.europa.eu/resource/oj/JOL_2002_358_R_TOC).
+
+> [(^17^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc17-L_2007120PT.01000101-E0017) [JO L 198 de 22.7.1991, p. 1](http://publications.europa.eu/resource/oj/JOL_1991_198_R_TOC).
+
+> [(^18^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc18-L_2007120PT.01000101-E0018) [JO L 224 de 18.8.1990, p. 19](http://publications.europa.eu/resource/oj/JOL_1990_224_R_TOC).
+
+> [(^19^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc19-L_2007120PT.01000101-E0019) [JO L 17 de 21.1.2000, p. 22](http://publications.europa.eu/resource/oj/JOL_2000_017_R_TOC).
+
+> [(^20^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc20-L_2007120PT.01000101-E0020) [JO L 93 de 31.3.2006, p. 12](http://publications.europa.eu/resource/oj/JOL_2006_093_R_TOC).
+
+> [(^21^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc21-L_2007120PT.01000101-E0021) [JO L 124 de 20.5.2003, p. 36](http://publications.europa.eu/resource/oj/JOL_2003_124_R_TOC).
+
+> [(^22^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc22-L_2007120PT.01000101-E0022) [JO L 210 de 31.7.2006, p. 25](http://publications.europa.eu/resource/oj/JOL_2006_210_R_TOC).
+
+> [(^23^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc23-L_2007120PT.01000101-E0023) [JO C 316 de 27.11.1995, p. 49](http://publications.europa.eu/resource/oj/JOC_1995_316_R_TOC).
+
+> [(^24^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc24-L_2007120PT.01000101-E0024) [JO L 160 de 30.6.2000, p. 1](http://publications.europa.eu/resource/oj/JOL_2000_160_R_TOC).
+
+> [(^25^)](http://publications.europa.eu/resource/cellar/78fa7f56-b971-455c-8a99-66f5022528ae.0018.03/DOC_1#ntc25-L_2007120PT.01000101-E0025) [JO L 61 de 4.3.1994, p. 27](http://publications.europa.eu/resource/oj/JOL_1994_061_R_TOC).

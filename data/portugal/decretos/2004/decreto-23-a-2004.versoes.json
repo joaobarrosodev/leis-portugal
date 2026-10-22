@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:668166:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/2004-953449527",
+ "dre_path": "/dr/detalhe/decreto/23-a-2004-668166",
+ "source_lastmod": "2025-11-27",
+ "versions": [
+  {
+   "date": "2004-09-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "953446202",
+    "953446203",
+    "953446204"
+   ]
+  }
+ ],
+ "fragments": {
+  "953446202": {
+   "fragment_id": "953449528",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 23-A/2004\n\nde 7 de Setembro\n\nO falecimento do juiz conselheiro Luís Nunes de Almeida, Presidente do Tribunal Constitucional, deixa o País mais pobre.\n\nHomem de excepcionais qualidades, académico e jurista eminente, foi juiz do Tribunal Constitucional desde 1983, seu vice-presidente desde 1989 e Presidente desde 2003.\n\nTendo prestado altos serviços à República Portuguesa, a sua presença no Tribunal Constitucional foi marcada pela isenção e pelo rigor. O conselheiro Luís Nunes de Almeida deixa um legado inestimável no Tribunal Constitucional e uma marca profunda no sistema judicial português.\n\nA sua pessoa é merecedora de pública homenagem; em conformidade, o Governo decide decretar o luto nacional por um dia.\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "953446203": {
+   "fragment_id": "953449529",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ decretado o luto nacional por um dia."
+  },
+  "953446204": {
+   "fragment_id": "953449530",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO presente decreto produz efeitos no dia 8 de Setembro de 2004."
+  }
+ }
+}
